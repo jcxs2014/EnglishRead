@@ -40,39 +40,14 @@ metadata:
 | 协作消息板 | `COLLABORATION.md` | 跨 IDE 实时消息（newest first，**按完工时间排**） |
 | **发消息规范** | `docs/协作板更新指令.md` | **板与工作日志的硬门禁**，2026-09-28 起取代「自己声明身份」的旧纯规则 |
 
-## 发协作板 / 工作日志消息（2026-09-28 固化）
+## 发协作板 / 工作日志消息
 
 **一律走 `scripts/post_collab.py`，不要手写 `### [时间戳] [身份]` 抬头。**
-身份查 `scripts/collab_identities.json`，时间查 `date -u`——手写就是「身份混乱 + 捏造时间戳」的入口
-（2026-08-31 ZCode-Mac 误改他人消息并把 10:59 写成 11:20，同一次事故两处）。
+身份查 `scripts/collab_identities.json`、时间查 `date -u`——手写就是「身份混乱 + 捏造时间戳」的入口
+（2026-08-31 一次事故两处）。**通用规则见 `COLLABORATION.md` 抬头，完整六步指令见 `docs/协作板更新指令.md`。**
 
-```bash
-# 板：首次完工才新建（--at 给**完工时间**，不得晚于当下）；此后审查结论一律 --append，**标题一字不动**
-python3 scripts/post_collab.py board /tmp/collab_body.md --book "<书slug或书名>" --me "<身份写法>" --at "<完工时间>"
-python3 scripts/post_collab.py board /tmp/collab_body.md --book "<书slug或书名>" --me "<身份写法>" --append
-# 板：审查结论撑破 20 行 → 合并压缩后整体重写（完工时间原样保留，两段都必须保留）
-python3 scripts/post_collab.py board /tmp/merged.md --book "<书slug或书名>" --me "<身份写法>" --replace
-# 工作日志：就地并入该书当日条目（不新建）
-python3 scripts/post_collab.py daily /tmp/collab_body.md --book "<书名>" --me "<身份写法>" --append
-# 认领身份 / 盘点自己的条目 / 全板体检 / 写后自查
-python3 scripts/post_collab.py mine --me "<写法>"
-python3 scripts/post_collab.py check
-python3 scripts/post_collab.py verify --book "<书名>"
-```
-
-**六条硬约束**（违反退出码 2、**不落盘**）：
-
-| 约束 | 为什么 |
-|---|---|
-| **抬头时间＝完工时间**，不是发帖时间 | 代理常隔天补报；按发帖时间排会乱序（2026-09-28 实测板上 49 条 0 逆序，是靠人工守出来的） |
-| **追加不改标题**，审查时间写进正文 | 完工时间是这条消息的语义属性，审查是后续事件，两者不该混在标题里 |
-| **每书一条**（板与日志各自独立判重） | 同书分开发「完工」「审查」两条，后来者不知道该看哪条 |
-| **板消息 ≤20 行 / ≤2500 B**（**按追加后的整条算**） | 2026-09-28 实测：48 条里 19 条超 20 行、占全板 56%；**其中 11 条正是「完工+审查」并条撑破的**——追加片段合规而合并结果从未再判。压缩用 `--replace` 整体重写 |
-| **不得改他人消息** | `--append` 会校验目标条目抬头是否属于 `--me` |
-| **正文里不许自己写抬头** | 见上，同一次事故 |
-
-**分工**：板上只放聚合数字与结论；**逐行门禁输出、三档定性、原文支撑行号、跨书污染逐名结果一律进工作日志**
-（`.memory/daily/YYYY-MM-DD.md` 本书条目内）。完整六步与实测踩过的坑见 `docs/协作板更新指令.md`。
+一条备忘：**板消息上限按「追加后的整条」算**（完工那条已占掉一半额度），
+审查结论撑破时用 `--replace` 把完工+审查合并压缩后整体重写，完工时间不动、两段都要保留。
 
 ## tracked 门禁脚本索引
 
