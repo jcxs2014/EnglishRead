@@ -188,7 +188,7 @@ source_text: ch03
 | reinforced | 加固的（此处 reinforced locks 指加固的锁） | The third closet had reinforced locks that a locksmith had installed. |
 | discipline | 自制；纪律 | She had to want to fight back, and could have, but she was showing the sort of discipline most of us didn’t possess. |
 | initiation | 入会仪式（此处带反讽） | Is this some gang initiation bullshit? |
-| supposedly | 据说； ostensibly supposed to be | Even though out was something I supposedly wanted, it came with an emptiness my baby was not yet real enough to fill. |
+| supposedly | 据说；自以为如此 | Even though out was something I supposedly wanted, it came with an emptiness my baby was not yet real enough to fill. |
 | uncomfortable | 不自在的 | She was careful not to reveal that she was uncomfortable with how much of what she had lived since moving in with Doña Durka I didn’t really know or understand, or how much it had all meant to her. |
 | defensively | 防御性地 | China answered defensively, “My mother went gray at twenty-eight, and as soon as she started dyeing her hair, she left us. |
 | outgrowing | 长大到超出；撑破 | It felt like we were outgrowing the apartment. |
