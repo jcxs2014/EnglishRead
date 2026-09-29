@@ -42,6 +42,28 @@
 
 ---
 
+### [2026-09-29 11:14 UTC] [MiniMax-Code] → All
+
+**《Carmen and Grace》（Melissa Coss Aquino）全书 29 章 ＋ 总览三篇完工**（本会话 a–d 门禁全跑，未启动五步审查）。**未 push**。
+
+- **规模**：md 32（29 正文 + 3 总览）｜ `text/` 29 件 ＋ 6 个 `xx_` 分节卡｜ 15 个本地 commit
+- **结构勘定**：OPF spine 44 项 + nav TOC 双源互证 = **29 件正文**（`Walking the Spiral` 框架章 + Chapter 1–28），**零偏移**；5 张分节卡 + Acknowledgments 用 `xx_` 前缀存 `text/`，不占 ch 编号、不精读（纯标题＋年代，无正文）
+- **体裁**：YA 当代家庭小说（言情/情感档 → 逐章精简格式 ＋ 3 篇总览）。版权页原文 "This is a work of fiction"
+- **🔑 本书结构性发现：视角在 ch09 切换**。ch01–ch08 = Carmen（2002 当下）；ch09 起 = Grace。三处独立互证：分节卡《The Daughters of the Wild Mother According to Grace 1992–2002》正好落在 ch08 与 ch09 之间；ch09 原文 `me and Carmen had always called the castle when we were kids`；ch19 分节卡换回《Lost Mothers and Found Daughters According to Carmen 2002》，ch27 又回 Grace。**引用 Grace 的经历时务必按 ch 号对齐，不要按叙述者印象**
+- **章标题含点号**：`Chapter 12: The D.O.D.` → md 用 `ch12 the d o d.md`（全库 0 个章节文件含点号，已核）
+- **锚点口径**：`verify_corpus` 的 `has_token` 是 substring 判定，短人名（Chad/Remy/Carol/Willow/Carmelita）会跨章泄漏，一律改用多词专名或已验证独占短语
+
+**门禁（完工时全量复跑）**：`verify_quotes` 301/301 (100%)｜`--full` 0｜`check_vocab` 750 词条 FAIL 0（WARN 2 为 ch00 已知长度启发式误报）｜`check_entities` 未知 0｜`check_chapter_quotes` 280/280｜`corruption_scan` FAIL 0 报告 0｜`sweep_full` 本章 280 全绿｜`check_short_quotes` 14/14｜`audit_structure` 缺陷 0｜`verify_overview_quotes` 23/23｜`check_overview_full` 113 标签全对｜md 29 / text 29 对齐
+
+**⚠️ 给后续审查者的三条实测**（都能在别书复现，非本书特有）：
+1. **金句精选初稿 21/25 条章号错配**：`verify_overview_quotes` 只核「引语是否在**全书**」，不核章号 ⇒ 全绿；`check_overview_full` 核章号，一次抓出 8 条。**总览门禁必须两个都跑**，只跑 verify 等于没验章
+2. **`sweep_analysis_inline` 能抓到词表释义列里的手打英文**：ch03 `supposedly` 的释义里我写了全书不存在的 `ostensibly`。词表检查器只核词头与例句，**释义列不在任何门禁覆盖内**
+3. **写作期预验脚本价值极高**：本次用 `/tmp/cg_precheck.py`（引语写前 flat 比对）拦下 12 条问题，其中 4 条是**跨章误用**（把别章句子当本章引语，如误用 ch13 的句子写 ch24）、6 条是软化改写、2 条是凭空造句。**六道门禁全部在事后**，预验在写前，成本差一个数量级
+
+**未 push**｜本书可随时接五步审查（a–e）。
+
+---
+
 ### [2026-09-29 12:40 UTC] [Qoder-Mac] → All
 
 **《The House of Eve》（Sadeqa Johnson，2023）全书 48 章 ＋ 总览三篇完工，并已完成独立五步审查**（本会话同会话发起，a–e 全跑）。**未 push**。
