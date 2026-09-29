@@ -38,11 +38,11 @@ source_text: ch12
 
 ### 第二处
 
-> **原句 2:** "Words both of us had heard before a hand landed across our faces, as if physical pain were the only justification for crying."
+> **原句 2:** "Words both of us had heard before a hand landed across our faces, as if physical pain were the only justification for crying. Words lacking everything we prized most, even back then: dignity and reason."
 
 **中文理解**：这些话我们两个都听过，然后一巴掌就落在脸上，仿佛身体上的疼是唯一能为哭找到的理由。
 
-**关键词**：Words both of us had heard before / as if physical pain were the only justification for crying / dignity and reason
+**关键词**：Words both of us had heard before / the only justification for crying / Words lacking everything we prized most / dignity and reason
 
 **为什么这样写**：全章最冷的一处观察，作者把施暴者和被打的人写成同一类：她认得这些话，因为她们的母亲也这样骂过。as if 把这个动作标记成一次掩饰——用打来替代回答。紧接着的清单 dignity and reason 用两个抽象名词收尾，把「打完之后那套用来解释的理由」全部作废：那些话里没有尊严，也没有道理，只有别的。
 
