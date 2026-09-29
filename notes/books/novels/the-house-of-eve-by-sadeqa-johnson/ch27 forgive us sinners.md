@@ -16,42 +16,49 @@ modified: "2026-09-29"
 ## 精读
 
 > **原句 1:** "Out there, they call you whores and sluts. Damaged goods. But in here, you can redeem yourself and pay for your sins."
+
 **中文理解**：外头的人管你们叫婊子和荡妇，叫坏掉的货。可是在这儿，你们可以把自己救回来，把犯下的罪还清。
 **关键词**：they call you whores and sluts / Damaged goods / redeem yourself and pay for your sins
 **为什么这样写**：这段话从扩音器里出来的时候，句式已经不是威胁，而像一条入住说明。真正的力气不在骂人的那半句，而在她立刻接上的那条路——认罪，然后干活。
 **读者视角提示**：擦地板的队形就是在这条通知之后排开的：她让四个人待在这间屋子，其余每间两个人。
 
 > **原句 2:** "Ask God to forgive you for your lustful sins, girls. Your wicked ways. Pledge to him that you will do right by that innocent baby. Save the child from eternal damnation by relinquishing it to married parents who will raise it under the eyes of the Lord."
+
 **中文理解**：要你们求上帝饶恕你们淫荡的罪、你们邪恶的行径；要你们向上帝保证会善待那个无辜的婴儿；要你们把这个孩子从永罚里救出来，交给那对会在上帝注视下把他养大的已婚夫妇。
 **关键词**：Ask God to forgive you for your lustful sins / Save the child from eternal damnation / relinquishing it to married parents
 **为什么这样写**：这段祷词每一句都在做同一件事——把「留下来」说成对孩子的伤害。她说孩子的魂正悬在永罚边上，而能救它的办法只有交出去；于是服从不再是选择，是义务。
 **读者视角提示**：整队人的回答只有一句——「我们不配」。
 
 > **原句 3:** "She went over already, surrendered her baby, and now she is here paying off her debt by working in the laundry. We’re all required to do payback work. Some stay longer than others."
+
 **中文理解**：她已经把孩子交出去了，现在在这里做工还债——在洗衣房干活。我们都得做这种还债的活。有些人待得久些，有些人不久。
 **关键词**：She went over already / paying off her debt by working in the laundry / We’re all required to do payback work
 **为什么这样写**：这一段把前面的祷告翻成了长期工：交出去不是结束，是换一种方式继续待下去。Ruby 追问了 lifer 是什么、承认自己事先不知道，作者就把制度的说明交给了另一个已经走完流程的女孩。
 **读者视角提示**：她说这话的时候，Ruby 手边那只水桶刚被人一脚踢翻，脏水淌了一地。
 
 > **原句 4:** "It’s what we call this place. Sounds sweeter than the House of Magdalene for Unwed Whores, don’t it?"
+
 **中文理解**：这地方我们就叫这个名字。听着是不是比「未婚婊子之家」甜一点？
 **关键词**：It’s what we call this place / Sounds sweeter than / the House of Magdalene for Unwed Whores
 **为什么这样写**：女孩自己改了一个甜名字，改的只是称呼；正式的名字还留在那句里并排摆着，谁在定义谁一目了然。同一句话里两套叫法对照，被改的从来不是那件事本身。
 **读者视角提示**：Ruby 被领进去的第一天（第 25 章）就听过这个机构名，那时它是院长迎客时的说法；这一章它多出了后半截。
 
 > **原句 5:** "We collect letters on Mondays. Then we put them in a box and mail them to an address in Raleigh, North Carolina. From there, the letters are transferred into new envelopes and postmarked."
+
 **中文理解**：我们每周一收信。然后把信放进一个盒子，寄到北卡罗来纳州罗利的一个地址。到了那边，信被换进新信封，重新盖上邮戳。
 **关键词**：We collect letters on Mondays / mail them to an address in Raleigh, North Carolina / transferred into new envelopes and postmarked
 **为什么这样写**：一个女孩把这条绕路的邮路当操作手册背下来，语气平得像在报工序。信必须绕去外地再寄回来，理由她随后用一句话交出来：这里的一切都在保密里做，他们要保护收信人的身份，不让人知道她们犯过什么罪。
 **读者视角提示**：Ruby 捧着盒子站在起居室里念名字；Loretta 抢上来抓住她的手臂问有没有自己的。
 
 > **原句 6:** "Shimmy’s mom made me a deal. I come here, and she would ensure a full scholarship to Cheyney. I wouldn’t be able to go otherwise. My folks can’t afford it,"
+
 **中文理解**：Shimmy 的妈妈跟我做了个交易。我来这里，她保证给我 Cheyney 的全额奖学金；不然我根本去不成。我家里出不起这个钱。
 **关键词**：Shimmy’s mom made me a deal / ensure a full scholarship to Cheyney / My folks can’t afford it
 **为什么这样写**：这段自曝从条件开始，而不是从心情开始——来这里、换一份奖学金、家里出不起。通篇都是账目，读的人却能听出被换掉的是什么。那句 My folks 她说得很顺，因为几行之前她刚在 Loretta 的家世里照着学了一遍。
 **读者视角提示**：她说完就去想那叠邮票；Loretta 那边只回了一句「至少你还能得点什么」。
 
 > **原句 7:** "Maybe you should try to write him one more time. I’m collecting the next batch of letters by dinner. If he doesn’t answer this last letter, then move on."
+
 **中文理解**：也许你该再给他写一封。我晚饭前还要收下一批。要是这最后一封他还没回，你就放下。
 **关键词**：try to write him one more time / the next batch of letters by dinner / then move on
 **为什么这样写**：她递出去的是 Shimmy 当初留给她的那叠三美分邮票。Ruby 刚从「别写信」的反面绕过来，用的是最不惊动任何人的办法：让这封信走同一条绕去罗利再寄回的邮路。

@@ -16,42 +16,49 @@ modified: "2026-09-29"
 ## 精读
 
 > **原句 1:** "No trouble. What’s the point of having nice plates if you never use them,"
+
 **中文理解**：不费什么事。好盘子要是不拿出来用，摆它做什么。
 **关键词**：No trouble / the point of having nice plates / if you never use them
 **为什么这样写**：客人夸她太正式，她把一句玩笑接成了原则。作者让 Eleanor 用这句玩笑解释自己为什么突然摆桌——她要的不只是躲开一个拥抱，是把这场见面做成一件有规矩的事。
 **读者视角提示**：这个房间平时很少用；她挑它是因为那张大木桌够宽，坐着不必担心被碰到，花瓶里插着一把雏菊。
 
 > **原句 2:** "It’s okay. I have these killer hemorrhoids that keep coming and going. Makes it hard to sit for long periods of time,"
+
 **中文理解**：还行。我这对要命的痔疮一直好不了又一直犯，坐久了难受。
 **关键词**：I have these killer hemorrhoids / that keep coming and going / Makes it hard to sit for long periods of time
 **为什么这样写**：这句被叙述层当场点破是背下来的——她是照着那本书上的孕期症状念的。两个医学词落得又具体又轻描淡写，正因为是从书上抄的，谁也不会去核。
 **读者视角提示**：那本书就是这一章开头提过的、她每晚还在读的那一本。
 
 > **原句 3:** "Eleanor winced. She thought of her stillborn daughter and shook away the image of her tiny little foot. “The verdict is still out."
+
 **中文理解**：Eleanor 皱了一下眉。她想起自己那个没能活下来的女儿，晃了晃头把那只小脚丫的画面甩开。「还没定。」
 **关键词**：her stillborn daughter / the image of her tiny little foot / The verdict is still out
 **为什么这样写**：几个短句把一次闪回挤掉了：想起来、甩开、回到剧本。作者不给那个女儿任何名字，也不铺开悲伤，只留一只小脚丫；她真正按住的不是难过，是差一点说出「女儿」两个字。
 **读者视角提示**：对面的人正等着她接取名字的话头。
 
 > **原句 4:** "What about Emma or Emily? A daughter should be named after you. I’m Nadine and my mother is Nancy."
+
 **中文理解**：Emma 或者 Emily 呢？女儿该用妈妈的名字。我叫 Nadine，我妈妈叫 Nancy。
 **关键词**：What about Emma or Emily / A daughter should be named after you / I’m Nadine and my mother is Nancy
 **为什么这样写**：建议是随口给的，理由却是一整条论证：名字要把母女这条链接上。Nadine 拿自己和她母亲当活例，等于把「取名」这件事一路推到了 Eleanor 面前，而她给不出名字。
 **读者视角提示**：对方说完催她把两个都记进名单；Eleanor 低头叉了一口海鲜沙拉。
 
 > **原句 5:** "Don’t forget to rub cocoa butter on your belly morning and night so you don’t have to live the rest of your life with those awful stretch marks."
+
 **中文理解**：别忘了早晚在肚子上抹可可脂，不然你余生都得带着那些难看的妊娠纹过。
 **关键词**：rub cocoa butter on your belly / morning and night / those awful stretch marks
 **为什么这样写**：这是一句彻底的善意，也是本章最锋利的一句：它把「当心自己的身子」讲成女人对女人的口气，落点却在那具正被衬垫遮住的肚子上。Eleanor 只能顺着答自己一直很勤勉。
 **读者视角提示**：可可脂该抹在哪儿，屋里没有人问；她此刻的肚子是垫着的。
 
 > **原句 6:** "If she gets on your nerves in New York, just stick out your foot and trip her. Maybe that’ll shut her up."
+
 **中文理解**：她要是到了那边还烦你，你就伸脚绊她一下。也许这样她就闭嘴了。
 **关键词**：If she gets on your nerves in New York / stick out your foot and trip her / Maybe that’ll shut her up
 **为什么这样写**：一句玩笑话，两个方向。Eleanor 笑得很假，因为 Greta 要去的是她此刻去不了的那趟纽约；而这句玩笑里的暴力也就到此为止，落在绊一跤，不是落在那个人身上。
 **读者视角提示**：她本人去不成，理由是医生不许她出行，人得装成病得起不来。
 
 > **原句 7:** "That food weighed me to my chair. Do you mind seeing yourself out? I’m going to sit here and read awhile."
+
 **中文理解**：这顿饭把我压在这把椅子上了。你介意自己送自己出门吗？我打算在这儿坐一会儿看看书。
 **关键词**：That food weighed me to my chair / Do you mind seeing yourself out / I’m going to sit here and read awhile
 **为什么这样写**：客人一起身，她立刻收回客套。整章她要应付的每一件事——早饭、开门、午饭、告别——都以同一个动作收尾：把东西摆好、把书摊开。

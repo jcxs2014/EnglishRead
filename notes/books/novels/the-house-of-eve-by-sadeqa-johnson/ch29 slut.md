@@ -16,42 +16,49 @@ modified: "2026-09-29"
 ## 精读
 
 > **原句 1:** "You are unfit to raise a child, Clara. You have no job, no husband and cannot support this baby."
+
 **中文理解**：Clara，你不适合养这个孩子。你没有工作，没有丈夫，养不起这个婴儿。
 **关键词**：You are unfit to raise a child / You have no job, no husband / cannot support this baby
 **为什么这样写**：三句话只摆事实，不带一个形容词。决定被写成一份清点：缺工作、缺丈夫、缺收入，缺了就出局；对面从头到尾没有问过她想要什么。
 **读者视角提示**：门是半开的，Ruby 坐在外面把这些一句不落地听完了。
 
 > **原句 2:** "Love doesn’t dry the baby in the middle of the night or give it a place to live. Your child deserves more than being a bastard. It deserves two parents who will provide a good home."
+
 **中文理解**：爱不能半夜把尿布弄干，也不能给孩子一个睡觉的地方。你的孩子不该只是个私生子。它该有两个能给它一个像样家的父母。
 **关键词**：Love doesn’t dry the baby / give it a place to live / It deserves two parents who will provide a good home
 **为什么这样写**：作者让对方把爱换算成两件实物：一件夜里要用的，一处能躺的。Clara 答的是两个人彼此相爱，对方答的是这两样你都没有——于是这场谈话在物件层面结束，情感被排在了外面。
 **读者视角提示**：这句话之后，Clara 抽噎了一下。
 
 > **原句 3:** "You lost your rights the moment you decided to be a slut and open your legs to that boy in the back of his car."
+
 **中文理解**：你从决定当婊子、决定在那个男孩的车后座张开腿的那一刻起，就已经放弃了你的权利。
 **关键词**：You lost your rights / the moment you decided to be a slut / open your legs to that boy in the back of his car
 **为什么这样写**：这句话把因果倒过来——不是她被劝说之后才失掉权利，而是当初做了那个选择就已经失掉了。那个词被喊出来之后在屋里弹了几下，落到每个人的耳朵里，包括门外那个正怀着孩子的十六岁女孩。
 **读者视角提示**：章名用的就是这个被喊出来的词；Ruby 坐在门外面听见它。
 
 > **原句 4:** "From Philadelphia, carrying a child who is of mixed race, due end of January. When we met last week, you said that you understood why you were here."
+
 **中文理解**：来自费城，怀着一个混血的孩子，一月底生。上周我见你的时候，你说你明白自己为什么在这里。
 **关键词**：From Philadelphia, carrying a child who is of mixed race, due end of January / you said that you understood why you were here
 **为什么这样写**：念档案式的开场和上一场正好相反：那边一句句在拆她的资格，这边一开口就把来路、月份和身份报完；可最后被要求记住的，还是那句「你明白自己为什么在这里」。
 **读者视角提示**：就在这时孩子踢了一下，Ruby 一边应着一边隔着肚子摸了摸。
 
 > **原句 5:** "I have rights,” Clara screamed at the top of her lungs."
+
 **中文理解**：「我有权利。」Clara 拼尽全力尖叫。
 **关键词**：I have rights / screamed at the top of her lungs
 **为什么这样写**：她全部的辩护只有这么短一句。作者不给她别的词，只给她音量。
 **读者视角提示**：两个 lifer 把她从走廊上往下拖，Mother Margaret 手里攥着十字架跟在后面——这个称呼在第 27 章里由 Bubbles 解释过，是已经把孩子交出去、留在这里做工还债的人。
 
 > **原句 6:** "The only right you have is twenty-four hours in the shaming room."
+
 **中文理解**：你唯一有的权利，就是在那间羞辱室里待上二十四小时。
 **关键词**：The only right you have is twenty-four hours / in the shaming room
 **为什么这样写**：她把「权利」这个词接过来原样还回去，只把内容换成了一间屋子。说完她把十字架举到 Clara 脸上，当着走廊上所有人的面念了一段驱魔祷告。
 **读者视角提示**：紧跟着的一行写 Clara 的裙子已经掀到腰上，Ruby 看见她内裤上带着血。
 
 > **原句 7:** "She was being wheeled out on a stretcher. They said she was breathing, but she looked dead to me."
+
 **中文理解**：她被推上担架往外送。他们说她还有呼吸，可在我眼里她已经死了。
 **关键词**：being wheeled out on a stretcher / They said she was breathing / she looked dead to me
 **为什么这样写**：这是 Ruby 往阁楼上转述时的版本。门里那场尖叫被压成极短的一句，事实和她的判断被并排放进同一个句子里，听的人分不清哪一半是消息、哪一半是她。
