@@ -20,7 +20,7 @@ modified: "2026-09-29"
 **中文理解**：她一直忍到回到 Marie 姨妈家才把信封的封口挑开，手抖着把信举到眼前。
 **关键词**：waited until I got back to Aunt Marie’s house / loosened the flap on the envelope / My hands were unsteady
 **为什么这样写**：那几句短句把「不在别人面前拆信」做成了一次决定而不是一时疏忽；挑开封口用的词是 loosened 而不是拆信，动作停在半途；抖的是手，作者把情绪全部推给了身体这一个细节。
-**读者视角提示**：上一章结尾她把这只信封塞进肩包就走了；这一章开头第一件事，就是把它带回自己屋里再打开。
+**读者视角提示**：她在 ch45 结尾把这只信封塞进肩包就走了（中间隔了 ch46 那一整章）；这一章开头第一件事，就是把它带回自己屋里再打开。
 
 > **原句 2:** "A lump formed in my throat. Mrs. Shapiro had made good on her promise. In a few months, I would go off to college. In that moment, I yearned for the type of excitement that would make me jump and shout, but the news that everything I had sacrificed for had come to fruition didn’t feel like I had imagined it would."
 

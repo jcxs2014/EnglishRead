@@ -20,7 +20,7 @@ modified: "2026-09-29"
 **中文理解**：她拿起电话，又没拨号就把它放回架子上——开口第一句该说什么，她答不上来。
 **关键词**：dropped it back on the hook without dialing the number / What would she say?
 **为什么这样写**：一个动作被拆成拿起来和放回去两步，中间夹着「没有拨号」这个小否定；最后一句把动作翻译成一个她答不出来的问题。全章的第一件事因此不是说话，是开不了口。
-**读者视角提示**：这通没打出去的电话是她到母亲家之后做的头一件事；剩下的上午她都在做别的事，一直到前门被敲响。
+**读者视角提示**：她先看便条、再把灶上留的早饭吃完，第三件才是这通没打出去的电话；剩下的上午她都在做别的事，一直到前门被敲响。
 
 > **原句 2:** "My grandmother, Birdie, was born a slave. Her white father owned an infamous slave jail in Richmond and her mother, my great-grandmother, Pheby, was his mistress. Birdie was the only one of her three sisters who outright refused to pass for white."
 
@@ -34,7 +34,7 @@ modified: "2026-09-29"
 **中文理解**：Rose 说从 William 四岁起，她就已经替他挑好了 Greta Hepburn。
 **关键词**：I’ve had Greta Hepburn picked out for William / since he was four years old
 **为什么这样写**：落点不在人名而在时间——「since he was four years old」把这桩亲事钉在了 William 人生的最开头；挑人这个动作用的是完成时的被动语态，Greta 从头到尾只是句子里被挑的那一个，整句没有给她任何反应。
-**读者视角提示**：听到这一句，Eleanor 紧接着在膝上绞着手，把这趟来访的来意当场认成「拿钱来换一纸离婚」；这句之后 Rose 才第一次说出「我想让我儿子好」。
+**读者视角提示**：听到这一句，Eleanor 紧接着在膝上绞着手，把这趟来访的来意当场认成「拿钱来换一纸离婚」；这句是 Rose 第三次把话说到儿子身上——她进门第一句就已经说过一次，之后又说了一次。
 
 > **原句 4:** "I did have a hand in getting Wilhelmina to you, but William is not her biological father. You must believe me. It’s a well-kept secret that the Magdalene home has a small market of well-bred Negro children for those who can’t naturally conceive. I was simply using my connections and resources to give you both what I knew you wanted most in the world. To start a family."
 

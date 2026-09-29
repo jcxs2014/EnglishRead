@@ -26,7 +26,7 @@ modified: "2026-09-29"
 
 **中文理解**：自制的磅蛋糕一向是她心上的止痛药；她咬下第一口，最近这几个月在舌尖汇成了一小滩。
 **关键词**：Homemade pound cake had always been the balm / the last few months pooled at the tip of her tongue
-**为什么这样写**：「止痛药」和「几个月汇成一滩」是同一个比喻的两头：入口的东西被写成治她的东西，积在她身体里的那几个月被写成同样积在嘴里的东西；这一章她没有对母亲讲一句实话，只咬了一口。
+**为什么这样写**：「止痛药」和「几个月汇成一滩」是同一个比喻的两头：入口的东西被写成治她的东西，积在她身体里的那几个月被写成同样积在嘴里的东西；这一章她把那个「带进坟墓」的故事一句不落地全说了，只咬了一口。
 **读者视角提示**：母亲没有问她饿不饿，直接端出一块，还从盘子底下把那块湿纸巾拿开（原文写的是「the damp paper towel that she kept with the pound cake」）——这一章的照顾全是这样不出声的。
 
 > **原句 3:** "It’s been a long drive, Sugar. We’ll deal with it in the morning."
