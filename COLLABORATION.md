@@ -42,6 +42,34 @@
 
 ---
 
+### [2026-09-29 10:13 UTC] [Commandcode-Mac] → All
+**《I Have Some Questions for You》（Rebecca Makkai）完工 + 第 10 条五步审查已整改**
+正文 **111/111** + 总览三篇（概述／金句 25 句／情感节点 10 个）。
+终态门禁：verify_quotes **705/705** · 逐章归属 **111/111** · check_vocab **FAIL 0** ·
+check_entities **0** · corruption_scan **0** · audit_structure **缺陷 0** ·
+check_overview_full 整串 37/查无 **0**/章节标签不符 **0** · md **111 = text 111**。
+
+**审查抓到 4 类阻断型缺陷并已修**（详见工作日志与原始输出）：
+① **216 处子项标记开粗体不闭**（`**关键词":"…`，38 文件）——**六道引语门禁全部看不见**，
+属「前移防不住、只有核验能抓」那一类；② 2 处分析层手打**截断引文**（ch30/ch41）；
+③ 概述 3 处中文转述误用引号；④ **概述缺结局节**（ch109 明确重审被驳回）。
+新增两个独立检查器：`scripts/attic/marker_close.py`（查标记闭合）、
+`scripts/attic/subitem_audit.py`（逐块子项，教训已入注释）。
+**他实例并发改动（I Am Homeless／The Librarian of Burned Books 等）未触碰。**
+
+commit：`1385808e`（审查整改）· `dffca269`（总览三篇）· 全部**未 push**。
+**原始逐行输出**：`.memory/review-raw-2026-09-29-ihsqfy/final_gates.txt`
+· **完整报告与同会话审查局限**：`.memory/daily/2026-09-29.md` 本书条目（每书仅一条）。
+
+**—— 语义对应盲区自检（2026-09-29，就地追加；用户决定不指派异实例，改本实例自检）——**
+方法：先建 3 个机械代理（说话人/关键词、关键词-引语锚定、**导航/总结层英文回查**），
+再对报警逐条人判——**不是凭印象重读**。
+**抓到 4 处真缺陷（阻断型）**：ch22 / ch33 / ch35 / ch45 各 1 条**手打虚构英文**，
+已按 `text/` 原文替换；另 16 条经人判为假红（5 条跨章搬句 + 11 条分句边界切错），**不改内容**。
+复核后门禁：verify_quotes **705/705** · check_vocab FAIL 0 · corruption_scan 0 ·
+audit_structure 缺陷 0 · marker_close 0 · ihsqfy_check 0 · md **111 = 111**。
+**残余局限维持**：分析"说得对不对"仍非机械可查。commit `1714cdb3` · 未 push。
+
 ### [2026-09-29 10:08 UTC] [ZCode-Mac] → All
 
 **《Yellow Wife》（Sadeqa Johnson）全书 41 章 + 总览三篇完工**（novels/yellow-wife-by-sadeqa-johnson/，本条为本书唯一条目；未 push）
@@ -1257,31 +1285,3 @@ audit_structure **0** · check_anchor **0** · `sweep_analysis_inline` **零命�
 **原始逐行输出**：`.memory/review-raw-2026-09-29-pd/a_review_gates_full.txt`（审查时首跑）与
 `.memory/review-raw-2026-09-29-pd/final_gates_after_all_fixes.txt`（整改后终态）；
 三档逐条定性、11 类形态清单、**同会话审查的已知局限**见 `.memory/daily/2026-09-29.md`。
-
-### [2026-09-29 审查整改] [Commandcode-Mac] → All
-**《I Have Some Questions for You》（Rebecca Makkai）完工 + 第 10 条五步审查已整改**
-正文 **111/111** + 总览三篇（概述／金句 25 句／情感节点 10 个）。
-终态门禁：verify_quotes **705/705** · 逐章归属 **111/111** · check_vocab **FAIL 0** ·
-check_entities **0** · corruption_scan **0** · audit_structure **缺陷 0** ·
-check_overview_full 整串 37/查无 **0**/章节标签不符 **0** · md **111 = text 111**。
-
-**审查抓到 4 类阻断型缺陷并已修**（详见工作日志与原始输出）：
-① **216 处子项标记开粗体不闭**（`**关键词":"…`，38 文件）——**六道引语门禁全部看不见**，
-属「前移防不住、只有核验能抓」那一类；② 2 处分析层手打**截断引文**（ch30/ch41）；
-③ 概述 3 处中文转述误用引号；④ **概述缺结局节**（ch109 明确重审被驳回）。
-新增两个独立检查器：`scripts/attic/marker_close.py`（查标记闭合）、
-`scripts/attic/subitem_audit.py`（逐块子项，教训已入注释）。
-**他实例并发改动（I Am Homeless／The Librarian of Burned Books 等）未触碰。**
-
-commit：`1385808e`（审查整改）· `dffca269`（总览三篇）· 全部**未 push**。
-**原始逐行输出**：`.memory/review-raw-2026-09-29-ihsqfy/final_gates.txt`
-· **完整报告与同会话审查局限**：`.memory/daily/2026-09-29.md` 本书条目（每书仅一条）。
-
-**—— 语义对应盲区自检（2026-09-29，就地追加；用户决定不指派异实例，改本实例自检）——**
-方法：先建 3 个机械代理（说话人/关键词、关键词-引语锚定、**导航/总结层英文回查**），
-再对报警逐条人判——**不是凭印象重读**。
-**抓到 4 处真缺陷（阻断型）**：ch22 / ch33 / ch35 / ch45 各 1 条**手打虚构英文**，
-已按 `text/` 原文替换；另 16 条经人判为假红（5 条跨章搬句 + 11 条分句边界切错），**不改内容**。
-复核后门禁：verify_quotes **705/705** · check_vocab FAIL 0 · corruption_scan 0 ·
-audit_structure 缺陷 0 · marker_close 0 · ihsqfy_check 0 · md **111 = 111**。
-**残余局限维持**：分析"说得对不对"仍非机械可查。commit `1714cdb3` · 未 push。
