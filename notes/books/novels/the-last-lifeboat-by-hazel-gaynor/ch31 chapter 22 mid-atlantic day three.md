@@ -11,7 +11,7 @@ modified: "2026-09-28"
 - **情感弧线位置**：**假晴天／全书唯一一次让希望"看起来成立"的一章。**作者的写法极毒：**她把整个上午写成一次庆祝**（阳光、掌声、《白鲸记》、菠萝、把希望缝成毯子），**然后用两件小事刺破它**——Owen 跳海（她第一次羡慕别人），以及 Molly 抽搐。
 - **Tropes 兑现/反转**：① **"希望的拼布毯"**（a patchwork of determination and belief; a blanket of courage）——**这一句是全书对"打气"最物化的一次描写：希望不是情绪，是被撕碎后缝起来的布**；② **"孩子比大人勇敢"的反转**——ch28 那些孩子还在取暖、还哭，今天他们开始**给颜色命名、给死人祈祷、给菠萝发明新名字**；③ **"救不了全部"**——**Owen 说"你该放下（You need to let go, Alice）"，她回"我冒过险了，看看那把我带到了哪儿"（I did take a risk,’ she snaps. ‘And look where that got me.’）**——**而当天夜里 Walter 在梦里说了同样的话的相反版本。**
 - **人物弧线**：Alice King：从 ch23 那个"我们救不了所有人"的人，变成本章这个"我也不确定我们救得了任何人"的人——**而作者给的转折点是一个孩子的抽搐，以及一句 "I need help! Can somebody help me?"（我需要帮助！有人能帮我吗？）**
-- **叙事手法）：** **第三人称限知贴 Alice**；**六段切分**（晨光 → 颜色游戏 → 集体劳作 → 泳池 → 菠萝 → 抽搐）；**一次"梦与现实重合"**（鱼在桶里喘气 / 现实里 Molly 在抽搐）；**以两个问句对仗收束**（Is she dying? / I need help!）。
+- **叙事手法**： **第三人称限知贴 Alice**；**六段切分**（晨光 → 颜色游戏 → 集体劳作 → 泳池 → 菠萝 → 抽搐）；**一次"梦与现实重合"**（鱼在桶里喘气 / 现实里 Molly 在抽搐）；**以两个问句对仗收束**（Is she dying? / I need help!）。
 
 ## 精读
 
@@ -120,13 +120,13 @@ modified: "2026-09-28"
 |------|------|------|
 | orb | 球体（a golden orb of light） | A golden orb of light rests against Alice’s cheek, blooming and spreading inch by inch as it traces a path across her lips, then her nose, her eyes, her forehead. |
 | blooming | 绽放（blooming and spreading inch by inch） | A golden orb of light rests against Alice’s cheek, blooming and spreading inch by inch as it traces a path across her lips, then her nose, her eyes, her forehead. |
-| sensation | 感觉；感受（absorb the sensation of light and warmth） | She is awake, but keeps her eyes closed to better absorb the sensation of light and warmth. |
+| sensation | 感觉；感受（the sensation of light and warmth） | She is awake, but keeps her eyes closed to better absorb the sensation of light and warmth. |
 | relish | 享受（doesn’t relish routine and instruction） | But there is one person in the lifeboat who doesn’t relish routine and instruction. |
 | thwarts | 座板（hung over the thwarts to dry） | Robert and Hamish are interested in sailing and ask Jimmy the proper names for each part of the lifeboat: thwarts, footings, gunwale, rowlocks, stanchion, prow, stern and keel. |
 | gunwale | 船舷 | Robert and Hamish are interested in sailing and ask Jimmy the proper names for each part of the lifeboat: thwarts, footings, gunwale, rowlocks, stanchion, prow, stern and keel. |
 | stern | 船尾 | Robert and Hamish are interested in sailing and ask Jimmy the proper names for each part of the lifeboat: thwarts, footings, gunwale, rowlocks, stanchion, prow, stern and keel. |
 | keel | 龙骨 | Robert and Hamish are interested in sailing and ask Jimmy the proper names for each part of the lifeboat: thwarts, footings, gunwale, rowlocks, stanchion, prow, stern and keel. |
-| rations | 配给（prepares the second of the day’s rations） | After the midday rations have made their way around the lifeboat – with an extra tin of Carnation milk each for the children in celebration of the good weather – Owen stands up, strips down to his underpants, raises a hand to his forehead in salute, and swan-dives elegantly over the side of the lifeboat. |
+| rations | 配给（the second of the day’s rations） | After the midday rations have made their way around the lifeboat – with an extra tin of Carnation milk each for the children in celebration of the good weather – Owen stands up, strips down to his underpants, raises a hand to his forehead in salute, and swan-dives elegantly over the side of the lifeboat. |
 | envy | 羡慕（mostly in silent envy） | Alice watches Owen carefully, partly in anger, partly out of caution, but mostly in silent envy. |
 | awe | 敬畏（the children are even more in awe of this loud American） | The children are even more in awe of this loud American who does mad impulsive things. |
 
