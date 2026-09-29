@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 5:** “Well, I should get myself a real actress.”
 
-「好吧，我该去给自己弄个真正的演员了。」
+「好吧，我该去给自己弄个真正的女演员了。」
 
 **关键词**：a real actress
 
