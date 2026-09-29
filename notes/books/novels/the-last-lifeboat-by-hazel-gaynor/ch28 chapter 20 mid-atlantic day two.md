@@ -11,7 +11,7 @@ modified: "2026-09-28"
 - **情感弧线位置**：**命名／把 ch22–ch23 的"无名者"还给名字的一章。**上一章他留给她一句托付与两个"Yes"，这一章他终于有了名字——**而这个名字带来的不是安慰，是一个四十年的婚姻、一个落水的母亲，和一句"他说溺水是平静的死法"（They say drowning is a peaceful death.）**
 - **Tropes 兑现/反转**：① **"殉情"trope 的反写**——**ch22 里那个"优雅旋转着落水的女人"在本章被补上了身份：她是 Jimmy 的母亲**——所以 ch02 那场混乱中第一个消失的人，是这位船厨的母亲；② **"被指责"**——**一个英语不好的秃顶男人指责 Alice"丢下了那个可怜的人"（accuses Alice of having left the poor soul to drown），而她真正受的折磨不是这个指责，是"另一次我的呼救来晚了"的回声**；③ **"我读不出书"**——**Alice 口袋里的《David Copperfield》借给了 Howard（ch17），而 Owen 提出讲《白鲸记》（Owen Chase and the Essex），她拒绝了（I'm afraid I don't have the book with me.），孩子们哀求，她于是背出了 Call me Ishmael.**
 - **人物弧线**：Alice King：从 ch27 那个"半睡半醒接下承诺"的人，变成本章这个"能把六个孩子逗笑的人"——**而作者给了她一句极精准的判断：她意识到自己这项"能抓住他们想象力的本事"，和应急物资里的糖水菠萝一样珍贵，所以**这项能力也必须配给（This, too, must be rationed.）。
-- **叙事手法）：** **第三人称限知贴 Alice**；**七段切分**（罪名的早晨 → 名字 → 死讯 → 分配体重 → 如厕 → 讲故事 → 夜）；**以一个失衡的收束**（the emotional ballast in the lifeboat is wildly off balance）。
+- **叙事手法**： **第三人称限知贴 Alice**；**七段切分**（罪名的早晨 → 名字 → 死讯 → 分配体重 → 如厕 → 讲故事 → 夜）；**以一个失衡的收束**（the emotional ballast in the lifeboat is wildly off balance）。
 
 ## 精读
 

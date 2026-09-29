@@ -11,7 +11,7 @@ modified: "2026-09-28"
 - **情感弧线位置**：**预防／全书最温柔的一篇日记。**它的日期是 1940 年 3 月 1 日——**比沉船早半年多**，所以此刻还没有任何海难；**而作者把这篇日记放在 ch28（第三夜、两个人已经死去）之后，是为了让读者自己补上这个时间差。**
 - **Tropes 兑现/反转**：① **"战争使人怀旧"这一判断的来源**——**注意她说"所有人都这么想"（We all think a lot about the past），而不是"我想"**；**而紧接着的那份清单（小棍子、羽毛、石头和虫子的名字）就是她全部的怀旧内容**；② **"记录"的动机**——**注意她的理由是"因为我忘的东西太多了"（because there's a lot I forget）**，**而不是"因为怕失去"**——**这是一个关于记忆的实用理由，而作者让它恰好也是最深的那一个**。
 - **人物弧线**：diarist #6672：从 ch16 那位抱怨"孩子太吵"的母亲，变成本章这位"把石头和虫子的名字写下来"的记录者——**而这一篇的特别之处在于：她做的事（记录），正是 ch02 那位 diarist 在沉船后无能为力的那件事**（"没有任何言语能捕捉我们所见"）。
-- **叙事手法）：** **Mass-Observation 日记体**（署 #6672）；**全篇单段、七句**；**以一个重复句收束**（I want to remember. I want to remember everything.）。
+- **叙事手法**： **Mass-Observation 日记体**（署 #6672）；**全篇单段、七句**；**以一个重复句收束**（I want to remember. I want to remember everything.）。
 
 ## 精读
 
@@ -37,11 +37,11 @@ modified: "2026-09-28"
 
 > **原句 3:** "I’ve started to write it all down because there’s a lot I forget, and I want to remember. I want to remember everything."
 
-**中文理解**：我已经开始把这些都写下来，因为我忘的东西太多了，而我想记住。我想记住一切。
+**中文理解**：**我已经开始把这些都写下来，因为我忘的东西太多了，而我想记住。我想记住一切。**
 
 **关键词**：I’ve started to write it all down / because there’s a lot I forget / and I want to remember / I want to remember everything
 
-**为什么这样写**：**这是全书对"写作"最直接的一次动机声明，而它的逻辑链有三环，最后一环是断的。**"I’ve started to write it all down"（我已经开始把这些都写下来）——**注意这一句是现在完成时：她已经开始了**；"because there's a lot I forget"（因为我忘的东西太多了）——**而这是一个关于**记忆容量**的判断，不是关于失去**；**"and I want to remember"（而我想记住）**——**want（想要）这个词在英语里是最弱的愿望**；**"I want to remember everything."（我想记住一切。）**——**而这一句是全篇的定稿，它用的是 everything（一切）**——**而她要记的"一切"，按上一句的定义，是"小棍子、羽毛、石头和虫子的名字"**。
+**为什么这样写**：**这是全书对"写作"最直接的一次动机声明，而它的逻辑链有三环，最后一环是断的。**"I’ve started to write it all down"（我已经开始把这些都写下来）——**注意这一句是现在完成时：她已经开始了**；"because there's a lot I forget"（因为我忘的东西太多了）——**而这是一个关于"记忆容量"的判断，不是关于失去**；**"and I want to remember"（而我想记住）**——**want（想要）这个词在英语里是最弱的愿望**；**"I want to remember everything."（我想记住一切。）**——**而这一句是全篇的定稿，它用的是 everything（一切）**——**而她要记的"一切"，按上一句的定义，是"小棍子、羽毛、石头和虫子的名字"**。
 
 **读者视角提示：⚠️** **"I want to remember everything."（我想记住一切）是这本书全部 14 篇日记里最天真也最沉的一句**——**因为她马上要遇到一件她不可能记住"一切"的事**；**而这一句与 ch13 那位 diarist 的 "No words can ever capture what we have seen."（没有任何言语能捕捉我们所见）形成了这两篇日记的全部张力**——**一位说"我要全部记住"，一位说"语言抓不住"**——**而作者把前者放在 1940 年 3 月，后者放在 9 月 7 日，中间隔了六个月和一整场战争。**
 

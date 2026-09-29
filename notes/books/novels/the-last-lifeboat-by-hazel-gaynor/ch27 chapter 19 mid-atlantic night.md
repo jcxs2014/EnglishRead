@@ -11,7 +11,7 @@ modified: "2026-09-28"
 - **情感弧线位置**：**托付与第二次失语。**ch02 里那个"抓桅杆的男人"是一个没有名字、没有台词的背景音；本章作者把他捞上来，给他一个请求、两个"Yes"，然后让他走。**——所以这一章是全书对"无名者"最重的一次处理：ch02 他消失在人群里，本章他把自己交出去。
 - **Tropes 兑现/反转**：① **"牺牲者之死"的反转**——**他不是被浪打死的，他是自己下去的；而"托孤"这一动作在英语里最常见的形态是"把某人托付给某人"**，所以作者写的是 Get the children back to their mothers, whatever it takes（不管怎样，把孩子们送回母亲那里）——**而 Alice 答的是两次"Yes."（是。）**；② **"黑暗使人变形"**（The darkness makes everything worse.）——**而 ch02 里那个夜班的第一个动作是"她数孩子"；本章的黑暗让声音变形（noises intensify and morph into something new and disturbing），连海都不像液体了；③ **"童谣被改成否定句"**——Owen 把 Row, row, row, your lifeboat 唱成了 "Life is but a dream, Alice. But. A. Dream."（人生如梦，爱丽丝。但。是。梦。）——**一个把童谣改成了否定句的人。**
 - **人物弧线**：Alice King：从 ch25 那个"要把愤怒算到 Anthony Quinn 头上"的人，变成本章这个"把所有承诺都接下来"的人——**注意她说"Yes"的时候是半睡半醒的（too drowsy and confused），而她答应了；这正是本书里最重的一次"负责"：不是清醒时决定，是不清醒时默认。**
-- **叙事手法）：** **第三人称限知贴 Alice**；**六段切分**（夜的声音 → 孩子的清单 → 划桨 → 绝望 → 睡 → 托付）；**以一个极短的独立成段收束**（A moment is all it takes.）。
+- **叙事手法**： **第三人称限知贴 Alice**；**六段切分**（夜的声音 → 孩子的清单 → 划桨 → 绝望 → 睡 → 托付）；**以一个极短的独立成段收束**（A moment is all it takes.）。
 
 ## 精读
 
