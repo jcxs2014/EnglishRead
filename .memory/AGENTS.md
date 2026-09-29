@@ -37,7 +37,40 @@ metadata:
 |------|------|------|
 | 精读执行规则 | `AGENTS.md`（根目录） | 完整执行规则（格式/门禁/工具链/git 策略） |
 | **新书启动模板** | `docs/新书启动模板.md` | **每本新书开工前必读**，含执行规则速查 + 历史坑表 |
-| 协作消息板 | `COLLABORATION.md` | 跨 IDE 实时消息（newest first） |
+| 协作消息板 | `COLLABORATION.md` | 跨 IDE 实时消息（newest first，**按完工时间排**） |
+| **发消息规范** | `docs/协作板更新指令.md` | **板与工作日志的硬门禁**，2026-09-28 起取代「自己声明身份」的旧纯规则 |
+
+## 发协作板 / 工作日志消息（2026-09-28 固化）
+
+**一律走 `scripts/post_collab.py`，不要手写 `### [时间戳] [身份]` 抬头。**
+身份查 `scripts/collab_identities.json`，时间查 `date -u`——手写就是「身份混乱 + 捏造时间戳」的入口
+（2026-08-31 ZCode-Mac 误改他人消息并把 10:59 写成 11:20，同一次事故两处）。
+
+```bash
+# 板：首次完工才新建（--at 给**完工时间**，不得晚于当下）；此后审查结论一律 --append，**标题一字不动**
+python3 scripts/post_collab.py board /tmp/collab_body.md --book "<书slug或书名>" --me "<身份写法>" --at "<完工时间>"
+python3 scripts/post_collab.py board /tmp/collab_body.md --book "<书slug或书名>" --me "<身份写法>" --append
+# 工作日志：就地并入该书当日条目（不新建）
+python3 scripts/post_collab.py daily /tmp/collab_body.md --book "<书名>" --me "<身份写法>" --append
+# 认领身份 / 盘点自己的条目 / 全板体检 / 写后自查
+python3 scripts/post_collab.py mine --me "<写法>"
+python3 scripts/post_collab.py check
+python3 scripts/post_collab.py verify --book "<书名>"
+```
+
+**六条硬约束**（违反退出码 2、**不落盘**）：
+
+| 约束 | 为什么 |
+|---|---|
+| **抬头时间＝完工时间**，不是发帖时间 | 代理常隔天补报；按发帖时间排会乱序（2026-09-28 实测板上 49 条 0 逆序，是靠人工守出来的） |
+| **追加不改标题**，审查时间写进正文 | 完工时间是这条消息的语义属性，审查是后续事件，两者不该混在标题里 |
+| **每书一条**（板与日志各自独立判重） | 同书分开发「完工」「审查」两条，后来者不知道该看哪条 |
+| **板消息 ≤20 行 / ≤2500 B** | 2026-09-28 实测：48 条里 19 条超 20 行，占全板体积 56% |
+| **不得改他人消息** | `--append` 会校验目标条目抬头是否属于 `--me` |
+| **正文里不许自己写抬头** | 见上，同一次事故 |
+
+**分工**：板上只放聚合数字与结论；**逐行门禁输出、三档定性、原文支撑行号、跨书污染逐名结果一律进工作日志**
+（`.memory/daily/YYYY-MM-DD.md` 本书条目内）。完整六步与实测踩过的坑见 `docs/协作板更新指令.md`。
 
 ## tracked 门禁脚本索引
 

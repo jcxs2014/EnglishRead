@@ -14,17 +14,35 @@
 
 **核心原则**：根 AGENTS.md = agent 执行规则（入 git）；.memory/AGENTS.md = 协作基础设施（入 git）。不重复，不遗漏。
 
-**🆔 IDE 身份约定**（**纯规则，无配置文件**）：
-- **不写入任何文件或环境变量**——每个 IDE/TUI 在对话中**自己声明身份**
-- 首次工作时：明确告知，如 "我是 Opencode-IDE"
-- 每次写消息/提交：前缀标注 `[IDE名]`，如 `### [时间戳] [Opencode-IDE] → All`
-- **命名格式**：`<IDE名>-<机器名>`，统一格式，禁止混用旧写法
-  - ✅ 正确：`Opencode-IDE`、`CodeBuddy-Mac`、`ZCode-Mac`
-  - ❌ 错误：`CodeBuddy` / `CodeBuddy-CN` / `Opencode`（缺少机器名或格式不一）
+**🆔 发消息一律走脚本**（2026-09-28 起，取代旧的「自己声明身份」纯规则）：
+- **不要手写 `### [时间戳] [身份]` 抬头**——身份与时间由 `post_collab.py` 生成
+- 身份登记表：`scripts/collab_identities.json`（canonical + aliases；新增身份改这里）
+- 完整指令：`docs/协作板更新指令.md`
+
+```bash
+# 板：首次完工才新建（--at 给**完工时间**）；此后审查结论一律 --append，**标题一字不动**
+python3 scripts/post_collab.py board /tmp/collab_body.md --book "<书slug或书名>" --me "<身份写法>" --at "<完工时间>"
+python3 scripts/post_collab.py board /tmp/collab_body.md --book "<书slug或书名>" --me "<身份写法>" --append
+# 工作日志：就地并入该书当日条目
+python3 scripts/post_collab.py daily /tmp/collab_body.md --book "<书名>" --me "<身份写法>" --append
+# 认领身份 / 盘点 / 体检 / 写后自查
+python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --book "<书名>"
+```
+
+**板消息的六条硬约束**（违反退出码 2、不落盘）：
+
+| 约束 | 说明 |
+|---|---|
+| **抬头时间＝完工时间** | 板上按完工时间排序；代理常隔天补报，按发帖时间排会乱序。`--at` 必填且不得晚于当下 |
+| **追加不改标题** | 审查结论的时间写进**正文**那一行，完工时间不动 |
+| **每书一条**（板与日志各自） | 同书已有条目时 `--append` 就地并入，不新建 |
+| **板消息 ≤20 行 / ≤2500 B** | 板上只放：文件数 · 门禁数字 · 结论 · commit 计数 · 一行日志指引；**逐行输出、三档定性、原文支撑行号一律进工作日志** |
+| **不得改他人消息** | `--append` 会校验目标条目抬头是不是你的身份 |
+| **正文里不许自己写抬头** | 身份查登记表、时间查 `date -u`，手写就是「身份混乱 + 捏造时间戳」的入口（2026-08-31 事故） |
 
 **🕐 时区约定**（**所有时间戳用 UTC**）：
 - 格式：`YYYY-MM-DD HH:MM UTC`
-- 查询命令：`date -u '+%Y-%m-%d %H:%M UTC'`
+- 查询命令：`date -u '+%Y-%m-%d %H:%M UTC'`（脚本内部已代查）
 - 理由：跨时区无歧义、国际标准、git 友好
 
 **📁 记忆目录**：
