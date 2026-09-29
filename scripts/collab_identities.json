@@ -15,9 +15,8 @@
       "canonical": "DSHarness",
       "confirmed": true,
       "aliases": [],
-      "inferred_aliases": {
-        "DSHarness-Mac": "推断：历史 1 条"
-      }
+      "inferred_aliases": {},
+      "_note": "2026-09-28 用户确认：DSHarness-Mac 属于 DSH-Mac，不属于本身份。"
     },
     {
       "canonical": "Opencode-Mac",
@@ -58,9 +57,11 @@
     {
       "canonical": "DSH-Mac",
       "confirmed": true,
-      "aliases": [],
+      "aliases": [
+        "DSHarness-Mac"
+      ],
       "inferred_aliases": {},
-      "_note": "2026-09-28 用户确认为独立身份（我曾按前缀推断它属于 Hermes / DSHarness，推断错误）"
+      "_note": "2026-09-28 用户更正：DSH-Mac 是独立身份（我曾误并入 DSHarness）；同批确认 **DSHarness-Mac 与 DSH-Mac 是同一个 agent**，故列为别名。"
     },
     {
       "canonical": "MinMax-Mac",
