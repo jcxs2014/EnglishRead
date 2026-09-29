@@ -35,6 +35,8 @@ modified: "2026-09-29"
 
 **中文理解**：「别再把你那脏手放到我身上。」
 
+**关键词**：put；filthy；hands
+
 **为什么这样写**：被架住双臂的瞬间，她选择的反击词是「脏」——filthy hands 的控诉对象不是力气而是触碰权：这个院子里谁都习惯对她动手（主人、守卫、鞭子），她的身体边界只有在此刻才被大声申明。作者让这句话紧接 physical restraint——语言是她唯一的武器时，每一个形容词都是子弹。这句话也与 ch08 的「You will not put your hands on me ever again」同源：同一份身体主权的宣言，第二次颁发。
 
 **读者视角提示**：守卫回敬的是 nigger bitch 与冷笑——而她捡起石头砸过去。种族与性别的双重侮辱，她的回击在制度面前只算「撒野」，但在她的账本里：这一石头是她欠自己的。
@@ -45,15 +47,19 @@ modified: "2026-09-29"
 
 **中文理解**：「我要我的孩子！」我还没来得及想，已经抓住 Abbie 的肩膀拼命摇。
 
+**关键词**：think；through；Abbie
+
 **为什么这样写**：愤怒的走火是最诚实的失控。Before I could think it through 的语法把「想」与「做」的顺序倒置——痛到顶点时身体快过理智。而她抓的人是 Abbie：最无辜、最破碎的人——这恰是迁怒的机制：安全的人承接危险的情绪。作者不替她辩护，只让她自己看见（Abbie 的眼白上翻、瘫软如木的 lame leg），再用 July 的拦截完成纠错。这一场戏的羞耻会在后文发酵——对自己人的失控，比对外人的暴力更让她难堪。
 
-**读者视角提示**：对照 ch12 她初到时 Abbie 的善意（那双 girlish grin 的眼睛）——如今摇人的手与被摇的人，都在 Basil 的失踪里碎了。这本书的连锁伤害从不含糊：每一个人的崩溃都会溅到旁人。
+**读者视角提示**：对照 ch16 Abbie 那双 girlish grin 的眼睛——她到监狱已久，此刻的善意是老相识的——如今摇人的手与被摇的人，都在 Basil 的失踪里碎了。这本书的连锁伤害从不含糊：每一个人的崩溃都会溅到旁人。
 
 ---
 
 > **原句 4:** What did that title get me anyway? Had not protected me or my children from his evil reach.
 
 **中文理解**：那个头衔到底给了我什么？它没保护过我，也没保护过我的孩子，躲不开他恶的伸手。
+
+**关键词**：title；evil；reach（伸手可及的范围）
 
 **为什么这样写**：yellow wife 的清算日。title 的复核以问句开始、以判决结束——七年积攒的「半个家」（楼上、主位、介绍词）在这一问里清零。evil reach 的 reach（伸手可及的范围）接住 ch27 的性暴力：他的权力从来是「手」的权力，而头衔只是手够得着的地方多了一圈。作者让这场清算发生在赤脚与碎石之间——脚底的疼与心里的账互为证词：体面剥尽之后，剩下的才是她的本位：一个被夺走孩子的母亲。
 
@@ -65,6 +71,8 @@ modified: "2026-09-29"
 
 **中文理解**：从烟草的南方到棉花的南方，一个个家庭将被撕开，根被绞碎。
 
+**关键词**：tobacco；cotton；torn
+
 **为什么这样写**：镜头在这一段从她的院子拉升到整个南方：tobacco 与 cotton 的作物带就是奴隶流动的两段管道。torn apart 与 shredded 的动词把家庭的解体写成工业流程——撕开与绞碎，都是纤维的处理工艺。roots 一词的深心在于：根是植物唯一看不见却决定生死的部分，制度的暴力最爱的正是看不见的部分。作者让这段全景思考出现在她失去孩子的同一天——个人的失守让她终于以全图的视角看这场流离。
 
 **读者视角提示**：把「united in experiencing their pain」的前一句找来对照：她头一次感到与被卖者「同在」。苦难的共同体不是靠同情建立的，是被同一个制度按进同一条河里。
@@ -74,6 +82,8 @@ modified: "2026-09-29"
 > **原句 6:** Living in the big house and bearing the Jailer’s daughters had given me a false sense of protection. Now that he had taken my family, I saw that we were all the same.
 
 **中文理解**：住在大宅里、替 Jailer 生女儿，给了我一种被保护的错觉。如今他带走了我的全家，我看清了：我们全都是一样的。
+
+**关键词**：false；sense；protection
 
 **为什么这样写**：本章的判决书，也是全书的题眼回环。false sense of protection 的主语是「错觉」——大宅、名分、女儿们，这些年的安全感原来全是抵押物的利息。we were all the same 复刻 ch10 与 ch27 的两次顿悟，这一次的落点最重：连孩子都在产权范围内。作者让这句领悟紧接 Elsie 的名字（前文她早说过 you ain’t smart as you think）——七年的争论在一车扬尘里结案：Elsie 对了，从头到尾。
 
@@ -85,6 +95,8 @@ modified: "2026-09-29"
 
 **中文理解**：看着木头一路裂开到多汁的芯里，有种说不出的痛快。像我一斧砍在它的心脏上。
 
+**关键词**：fleshy；middle；heart
+
 **为什么这样写**：斧头是本章唯一听她的话的东西。fleshy middle 与 heart 的拟人让每一块木头都成了替身——制度、Jailer、命运，随便谁，她需要的就是「一劈到底」的手感。shoulder blades burned 与 palms raw 的代价清单紧随其后：愤怒的健身房也收费。作者把这段暴力书写得如此克制又如此痛——她没有砸房子、没有伤人，只在木头身上练习她攒着的所有力气。这是全书对「压抑」最漂亮的转译：体力活是绝望的收容所。
 
 **读者视角提示**：对照 ch22 她看 Tommy 挨打时的胃（curdled）与本章自己抡斧的肩胛（burned）——旁观者与出力者的转换。她的怒火终于找到了不伤人的出口，而出口的另一头，连着下一章的行动。
@@ -94,6 +106,8 @@ modified: "2026-09-29"
 > **原句 8:** “You warned that he was the devil. I should have listened better.”
 
 **中文理解**：「你早警告过我，他就是魔鬼。我该更早听进去的。」
+
+**关键词**：devil；listened；better
 
 **为什么这样写**：Elsie 的判词（ch13 的 Devil’s Half Acre）在此被原价签收。should have listened better 的自责不带推诿——她终于承认：自己不是没听见，是不想信。而 Elsie 的回答（No sense rakin’ ol’ bones. I could have been kinder.）把这场道歉变成了双向清账：一个认了自己慢，一个认了自己狠。作者让和解发生在一钵 mutton stew 的热气里——Aunt Hope 的味道唤起的不是乡愁，是女人之间的手艺与喂养：这个院子里第一次有了互相「喂」的画面。和解的语法不是原谅，是承认彼此都在泥里。
 

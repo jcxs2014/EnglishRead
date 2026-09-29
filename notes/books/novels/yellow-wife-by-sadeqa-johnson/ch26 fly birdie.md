@@ -27,7 +27,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：失踪的消息用日常的刻度丈量：twice weekly 的例行差事反衬 This time 的例外——规训的时间表上出现了一个缺口。coffle 一词由逃跑者去「接」格外刺眼：他天天押着锁链队走同一条路，直到某天自己也成了链条上逃掉的一环。作者让 Basil 的消失不带任何告别场面，只有岗位空了——他的自由从「没有消息」开始，这是全书对逃跑最体面的写法。
 
-**读者视角提示**：回忆 ch21 码头边他的三句话（Ran ’way before / worse’n hell / Marse treat me real good）——他说的每一句都是真的，包括最后那句伪装。忠诚的表演演了七年，谢幕只用了转身。
+**读者视角提示**：回忆 ch21 去教堂路上他的三句话（Ran ’way / worse’n hell / Marse treat me real good）——他说的每一句都是真的，包括最后那句伪装。忠诚的表演演了六年，谢幕只用了转身。
 
 ---
 
@@ -37,7 +37,7 @@ modified: "2026-09-29"
 
 **关键词**：fooled（被瞒过）；safe passage（平安上路）
 
-**为什么这样写**：fooled 一词的双重自嘲：她自诩聪明（识字、记名、算计），却被最沉默的人瞒了七年。secretly 的副词写尽同谋的形态——不能说出口的祈祷，是这个院子里唯一安全的声援。safe passage 是地下网络的语言（ch21 Ryland 的信件、ch16 面包房的落脚点），她已经在用「线人」的词汇为逃跑者祝福。作者让这行祈祷紧接被骗的懊恼——她的忠诚账本里，人间站对了边。
+**为什么这样写**：fooled 一词的双重自嘲：她自诩聪明（识字、记名、算计），却被最沉默的人瞒了六年。secretly 的副词写尽同谋的形态——不能说出口的祈祷，是这个院子里唯一安全的声援。safe passage 是地下网络的语言（ch21 Ryland 的信件、ch16 面包房的落脚点），她已经在用「线人」的词汇为逃跑者祝福。作者让这行祈祷紧接被骗的懊恼——她的忠诚账本里，人间站对了边。
 
 **读者视角提示**：对照她曾问他的「You like it here?」与他答的「Marse treat me real good」——现在回头看，那是一场双人的即兴演出：他演忠诚，她信了七年。被骗的人不丢人，丢人的是骗人的制度。
 
@@ -71,15 +71,19 @@ modified: "2026-09-29"
 
 **中文理解**：「把他带到这儿来，」Jailer 低吼，我后颈的汗毛齐刷刷立正。
 
+**关键词**：growled；hairs；attention（立正）
+
 **为什么这样写**：命令只有三个词，身体的反应却写了一整句：hairs standing to attention（立正）——军姿的比喻让她的恐惧自动列队。growled 的野兽嗓音接住 ch22 的 cornered his prey：猎手闻到了新猎物。作者不写她此刻想起什么——不必写：Essex 的一切读者都记得，她的每个毛孔替她记着。这句话是本章中段的急刹车：政治闲谈（Yankee、法案）至此落成具体的刑期，落点是她爱过的人。
 
-**读者视角提示**：身体的诚实是本书写恐惧的专利——ch10 的 static、ch17 的 stomach curdled、本章的 hairs。她学会的所有表情管理，都管不住脖子后面的汗毛。
+**读者视角提示**：身体的诚实是本书写恐惧的专利——ch09 的 static、ch22 的 stomach curdled、本章的 hairs。她学会的所有表情管理，都管不住脖子后面的汗毛。
 
 ---
 
 > **原句 6:** “I will get justice on this nigger for every slave who has run off, or even thinks about running off. Plan it big. Open up the courtyard for folks to come from miles away to see. I will scare them straight. You have my word.”
 
 **中文理解**：「我要在这个黑奴身上为每一个逃掉的、哪怕只是想过要逃的奴隶讨回公道。把排场弄大。把院子敞开，让方圆多少里的人都来看。我要把他们吓到改邪归正。我向你保证。」
+
+**关键词**：justice；run；off
 
 **为什么这样写**：一场公开处刑的招标书，五个短句全部到位：罪名（running off）、规格（Plan it big）、场地（courtyard）、目标观众（miles away）、承诺（You have my word）。justice 的盗窃是本段的语言罪案：报复穿上正义的制服。scare them straight 把刑罚的教育功能说破——这场酷刑的真正产品不是刑罚，是恐惧的大规模投放。作者让 Pheby 在琴凳上听完整个方案，她的琴声成了这场「发布会」的背景音乐：施暴者的蓝图与受害者的哀歌同场首播。
 
@@ -91,15 +95,19 @@ modified: "2026-09-29"
 
 **中文理解**：我弹啊，弹啊，弹啊。Essex 被抓了。我的 Essex 要被带到这里来。整个我一下子为他疼起来，可就在同一个念头上，我又为他的命运怕得要命。
 
+**关键词**：played；Essex；aching
+
 **为什么这样写**：三个 played 的重复是情绪的替身——手指在琴键上空转，脑子在两极之间撕裂。aching 与 desperate 的并置写尽重逢的悖论：想他想到骨头疼，怕他怕到不敢想。My Essex 的所有格是她全章唯一一次公开认领：在琴声掩护下，她终于把「我不爱他」的旧谎彻底作废。作者不给眼泪，给的是「同一念头的两面」——爱与怕共用一副神经，这是全书爱情线最锋利的一次合流。
 
-**读者视角提示**：对照 ch02 的马厩之约（被 Rachel 的死打断）、ch05 的定情夜（被忏悔打断）、ch06 的送别（被车轮打断）——这条爱情线的每一站都被打断，而这一次的打断者，是死亡预约单。琴声里的重逢，是最远的重逢。
+**读者视角提示**：对照 ch02 的马厩之约、ch05 的定情夜（被忏悔打断）、ch06 的送别（被车轮打断）——这条爱情线的每一站都被打断，而这一次的打断者，是死亡预约单。琴声里的重逢，是最远的重逢。
 
 ---
 
 > **原句 8:** With Basil having run, the Jailer would be ruthless. He had been merciless in his punishment before. But now, there was no telling what he would do. God help us.
 
 **中文理解**：Basil 这一跑，Jailer 会狠到没有底线。他以往的刑罚已经够无情。现在，谁也说不准他会干出什么。上帝救救我们。
+
+**关键词**：ruthless（会狠）；merciless（已证的无情）；telling（不可测）
 
 **为什么这样写**：章末的推理是三步上行的恐惧：ruthless（会狠）→ merciless（已证的无情）→ no telling（不可测）——最可怕的从来不是已知的狠，是失去刻度的狠。God help us 的 us 是本句的存亡名单：她、Essex、孩子们、这院里所有被吓唬的人——她把所有人装进同一句祈祷。作者用这句作章末，与 ch24 开头的 God did not show him favor 隔章对位：上回上帝沉默，这回她仍开口——祈祷在本书从不因为无效而停发，这是被奴役者最后的currency。
 

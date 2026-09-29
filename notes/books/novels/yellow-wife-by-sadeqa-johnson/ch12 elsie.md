@@ -156,4 +156,4 @@ modified: "2026-09-29"
 
 ## 一句话总结
 
-新牢笼的第一周被两件事标记：一枚银顶针与一次身孕的确认——Rubin Lapier 的恩典悬在头顶，Essex 的孩子在腹中踢醒责任，Mama 的亡灵用一句「Same way I raised you」把母亲课续进下一章。
+新牢笼的第一周被两件事标记：一枚银顶针与一次身孕的确认——Rubin Lapier 的恩典悬在头顶，Essex 的孩子在腹中踢醒责任，Mama 的亡灵用一句「Same way I raised you」把母亲课续进后文。

@@ -23,6 +23,8 @@ modified: "2026-09-29"
 
 **中文理解**：然而，城市的被焚毁丝毫没有浇灭获得自由的人们的欢腾。要是我的母亲能亲眼见到解放就好了。
 
+**关键词**：mother；witnessed；own
+
 **为什么这样写**：尾声第一段的情感坐标用「两个母亲」钉死：城烧了（末日景象）与自由了（末日中的节日）在同一句里对撞。If only my mother 的虚拟语气是全书最长的欠账——Mama 用命铺的自由路，自己没能走完一步。witnessed with her own eyes 的「眼睛」呼应 Mama 遗训里「in your mind, never」的心眼之分：如今眼睛终于看到了心眼里预演过千万遍的画面。作者让这本书从满月夜的药典开始、从解放日的欢呼收束：两代女人的时间差，就是这本书的全部历史。
 
 **读者视角提示**：对照 ch03 的族谱演讲——妈妈说「你是生来要见自由的人」，本章解放日到来了，替妈妈睁眼的是女儿。全书的精神账本在此结清第一笔。
@@ -32,6 +34,8 @@ modified: "2026-09-29"
 > **原句 2:** Officially, he died of an attack of cholera, which held on to him for ten days. Though I think he died of heartbreak, as a result of the war.
 
 **中文理解**：官方说法，他死于霍乱，病程拖了十天。而我认为，他死于心碎——战争的缘故。
+
+**关键词**：Officially（官方）；ten；days
 
 **为什么这样写**：Jailer 的讣告由她执笔，两个版本并排：Officially（官方）与 I think（她心）。heartbreak 一词是她能给他的最大限度的体面——不洗白（不写 he was a good man），不鞭尸（不写 he deserved it），只把死因的模糊性留给读者。ten days 的病程细节与他一生的「经营」对照：他赚了半辈子的人命，最后十天赔上自己的。作者让她用冷静的笔调写完这段，因为真正的清算她早已做过（ch36 的 I would not honor his request）——坟墓不需要恨，恨是留给活人的力气。
 
@@ -43,6 +47,8 @@ modified: "2026-09-29"
 
 **中文理解**：地板上的铁镣和铁箍已被拆走，换上课桌椅。监狱甩掉了它那个难听的外号「魔鬼的半亩地」，如今人们叫它「上帝的半亩地」。赞美主！
 
+**关键词**：irons；desks；Devil’s
+
 **为什么这样写**：全书地名的救赎在此完成：Devil’s Half Acre → God’s Half Acre，一个字母之差，一整部苦难史的翻转。irons 与 desks 的替换清单是最凝练的历史唯物主义：刑具与课桌共享同一块地板，区别只在谁掌握命名权。Praise be! 的欢呼落在章题的延长线上（Come by Here, My Lord 的祷告被应答）。作者把「改造」写成租赁（leased to Reverend Colver）——她没有烧掉它、没有逃离它，她把它翻新成学校：这是全书「教育救亡」主题（Mama 的药典、Miss Sally 的日记、Birdie 的识字课）的最终产权登记。
 
 **读者视角提示**：对照 ch13 Elsie 的「Devil’s Half Acre」警告与本章的更名——同一个地名的两次出场隔着一整场战争。她当年没能听进去的话，如今由她亲手改写：地狱还是那个地狱，人把它变成了学校。
@@ -52,6 +58,8 @@ modified: "2026-09-29"
 > **原句 4:** Remember you are free. Free to choose. Free to live. Free to love.
 
 **中文理解**：记住你是自由的。自由地选择。自由地生活。自由地爱。
+
+**关键词**：Remember；free；choose（ch16 的决断）
 
 **为什么这样写**：三个 Free to 的排比是全书三次「自由教育」的毕业歌：choose（ch16 的决断）、live（ch33 的守夜）、love（ch29 的重逢）——她一生的功课被压缩成三行送别赠言。Remember you are free 的祈使句与 Mama 的遗训（Remember who you are）同构：这位母亲给女儿的最后行李，依然是「记住」。作者让这段话出现在要求女儿「pass as white」的语境旁——身份的白色外壳里必须锁进黑色的自我：她的嘱托是双语的，而爱是单语的。
 
@@ -63,6 +71,8 @@ modified: "2026-09-29"
 
 **中文理解**：十岁的她已经相当活跃，在教那些获得自由的孩子认字。这么小的姑娘就如此聪慧、心肠又好，她说这是上帝派给她的使命——去教育那些在奴隶制的铁镣下受苦的人。
 
+**关键词**：teaching；freed；children
+
 **为什么这样写**：Birdie 是全书伏笔的最大赢家：ch26 那只被命名的小鸟（Fly Birdie），如今成了不上船的鸟——留在岸上，教书。mission from God 的措辞与她拒绝北上的选择（never join you in turning her back on her history）互为因果：姐姐们选择白色的通行证，她选择黑色的事业。teaching freed children how to read 的职责与 Pheby 的地下识字课一脉相承——只是如今，课堂是合法的。作者让家族的教育线在第四代完成「出柜」：从暗袋里的课，走到阳光下的学校。
 
 **读者视角提示**：对照 Pheby 教过的名单（Monroe、July、Daniel、Tommy、识字课的每一课）——Birdie 把这份名单变成了公开的事业。她的「不原谅」姐姐们（refuses to forgive us for living as white women）也是全书留给读者的道德难题：活下来的方式没有标准答案，只有各自的代价。
@@ -72,6 +82,8 @@ modified: "2026-09-29"
 > **原句 6:** Burn this letter after you have read it. It is for your safety. You do not need proof of me for I am always in your heart.
 
 **中文理解**：读完就把信烧掉。这是为了你的安全。你不需要我的证明——我一直住在你的心里。
+
+**关键词**：Burn；letter；proof
 
 **为什么这样写**：全书最著名的「藏与烧」辩证法在此完成交接：Mama 的药方被 Pheby 抄下保存，Pheby 的信被要求焚毁——两代人的密文策略因时代而异：奴隶时代，证据是罪证；解放后，证据仍是险证（passing 的秘密）。proof of me 的否定句是她给女儿的最后一课：身份的凭证不在纸上，在心里——这正是全书用四十一章证明的命题。作者让烧信的指令与 Hester 的回信（I have not taken your advice and burned your previous letters）形成母女的对赌：她藏，因为「它们是我仅有的一切」——新一代把日记的功能接了过去。
 
@@ -83,6 +95,8 @@ modified: "2026-09-29"
 
 **中文理解**：妈妈，我一直不知道，住在监狱顶楼的那个逃犯 Essex Henry 是 Monroe 的父亲、您的挚爱。您藏的秘密可真多！我也从来不知道，把他们全部放走的人是您。
 
+**关键词**：secrets；keep
+
 **为什么这样写**：女儿的信替读者完成了最后一道回顾：原来即便在家庭内部，她的一切也仍是秘密——女儿眼中的「那场大火后的重病」，谜底是「她放走了所有人」。The secrets you keep! 的惊叹里有一点女儿式的嗔怪，更多的是迟到的敬意。作者让这个揭示以「信息的迟到」呈现：家庭史与国家史一样，真相总比事件晚到很多年。这句话也重新定义了 ch40 的牺牲：她留下的「lamb」故事，在女儿那里曾是「重病」，在本书这里才是「英雄」——同一个夜晚的三种文本。
 
 **读者视角提示**：对照全书她学会的「不露」（keeping her face pleasant、blank face）——连最亲的女儿都被瞒了十年。这本书对「保护」的定义因此有了终局：她保住的从来不只是命，还有每个人可以自己选择的「知情时机」。
@@ -92,6 +106,8 @@ modified: "2026-09-29"
 > **原句 8:** Speaking of lost, I think of July every single day. Still no word from her?
 
 **中文理解**：说到失去，我每天都想起 July。她还是一点消息都没有吗？
+
+**关键词**：July；single；day
 
 **为什么这样写**：尾声的最后一个问句留给 July——全书唯一没有下落的人。every single day 的频率副词让这个问号有了重量：解放、更名、婚礼、孩子的降生，都无法替她合上这个缺口。作者故意不给答案（Pheby 的回信我们读不到）：July 的下落是这本书留给历史的空白页——正如真实的史料里，无数被卖者的下落永远写着「不详」。这个问题与全书日记的功能呼应：她记下的每一个名字，都是在对抗这种「没有消息」。
 

@@ -49,7 +49,7 @@ modified: "2026-09-29"
 
 **关键词**：dressed like a sheep（披着羊皮）；She really a wolf（她其实是只狼）
 
-**为什么这样写**：Brenda 把祈祷文改写成控诉状——感谢的套话与指认的毒刺首尾相接，让这场祷告变成一次当众剥皮。sheep/wolf 的隐喻把 Pheby 的职位看穿：替狼梳妆的人，穿什么都是狼群的一员。作者让这段祷告产生于她递过去的粉扑——美妆工具变成被告席的道具。最狠的是结尾的 Amen 之后那个 gap-toothed smile：控诉者带着笑意离场，因为她已经把判决送达。
+**为什么这样写**：Brenda 把祈祷文改写成控诉状——感谢的套话与指认的毒刺首尾相接，让这场祷告变成一次当众剥皮。sheep/wolf 的隐喻把 Pheby 的职位看穿：替狼梳妆的人，穿什么都是狼群的一员。作者让这段祷告产生于她亲手给 Brenda 上妆的胭脂（blushing Brenda's cheeks with the rouge I had made）——美妆工具变成被告席的道具。最狠的是结尾那句 In Jesus's name 之后那个 gap-toothed smile：控诉者带着笑意离场，因为她已经把判决送达。
 
 **读者视角提示**：这是全书的镜子时刻之一。Pheby 的辩词（I do it for my son）与 Brenda 的判词（You do it for you）将伴随她之后每一个选择——两个声音她都没能反驳。
 
@@ -61,7 +61,7 @@ modified: "2026-09-29"
 
 **关键词**：You do it for you（你是为你自己）；your kind（你们这种人）
 
-**为什么这样写**：六个词的回敬比一段祷告更重。for you 的连用把 Pheby 的自我叙事（为了儿子）连根拔起——在 Brenda 的经济学里，一切自我牺牲的修辞都是特权者的美容。your kind 一词把 Pheby 归类：不是肤色，是处境——楼上的人。作者让这句话出自一个即将被买卖的女孩之口，完成本书最尖锐的一次身份判定：怜悯不能豁免共谋。Pheby 的应对是垂下眼睛——她找不出反驳的词，因为判决书使用的正是她自己的证据。
+**为什么这样写**：十个词的回敬比一段祷告更重。for you 的连用把 Pheby 的自我叙事（为了儿子）连根拔起——在 Brenda 的经济学里，一切自我牺牲的修辞都是特权者的美容。your kind 一词把 Pheby 归类：不是肤色，是处境——楼上的人。作者让这句话出自一个即将被买卖的女孩之口，完成本书最尖锐的一次身份判定：怜悯不能豁免共谋。Pheby 的应对是垂下眼睛——她找不出反驳的词，因为判决书使用的正是她自己的证据。
 
 **读者视角提示**：把 Brenda 的判词与 ch17 的「Would my sacrifice protect him?」连读：牺牲的自我感动正在被同龄女孩拆穿。这一课不进教堂，进日记。
 
@@ -70,6 +70,8 @@ modified: "2026-09-29"
 > **原句 5:** His hand rested on my belly. When he looked at me, his eyes said it all. It was endearing to watch, and for a split second, I forgot the evil that lived inside of him. I could see in his eyes an emotion that could only be described as love.
 
 **中文理解**：他的手搭在我的肚子上。他看我的时候，眼睛说明了一切。那一幕看着竟让人心头一软，有那么一瞬，我忘了他身体里住着的恶。我在他眼里看见一种情绪，除了爱，没有别的词能形容。
+
+**关键词**：split；second；evil
 
 **为什么这样写**：本章最危险的一段文字。作者敢让 Pheby 承认看见「爱」——因为人的心理正是这样被驯化的：善意与暴行来自同一双手时，感官会先背叛判断。for a split second 的极短时态是她的安全阀：允许自己心软一秒，不允许多。the evil that lived inside of him 的措辞同时完成重新定位——前文的恍惚被这句话立即追认修正。作者不替读者下结论，只提供一次真实的心理波动：被囚者的情感负债，往往从「他也有人性」这个念头开始计息。
 

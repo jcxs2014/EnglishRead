@@ -99,7 +99,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：Pheby 的怒气到这里烧成了法理学。dark baby 这个假设写得极冷——孩子的肤色救不了任何人，只会决定谁需要被灭口。作者让她一口气说完推演链条：肤色—指控—对质—绞刑，逻辑严得像判决书；而做出这份推演的，是一个「dim-witted」标签下的十七岁女孩。被嘲讽为笨的人替所有人看清了规则，这是本章埋得最深的反讽。
 
-**读者视角提示**：紧接着就是那个反转：催 Essex 逃跑的人从 Essex 变成 Pheby（「We have to get you off this plantation before that baby is born. You have to run.」）——上一章劝人「别做傻事」的是她，这一章把「傻事」改名叫活路。
+**读者视角提示**：紧接着就是那个反转：催 Essex 逃跑的人从 Essex 变成 Pheby（「We have to get you off this plantation before that baby is born. You have to run.」）——ch02 定情夜劝人「别做傻事」的是她，这一章把「傻事」改名叫活路。
 
 ---
 
