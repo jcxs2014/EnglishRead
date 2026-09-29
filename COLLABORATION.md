@@ -1238,3 +1238,14 @@ check_overview_full 整串 37/查无 **0**/章节标签不符 **0** · md **111 
 commit：`1385808e`（审查整改）· `dffca269`（总览三篇）· 全部**未 push**。
 **原始逐行输出**：`.memory/review-raw-2026-09-29-ihsqfy/final_gates.txt`
 · **完整报告与同会话审查局限**：`.memory/daily/2026-09-29.md` 本书条目（每书仅一条）。
+
+### [2026-09-29 语义自检] [Commandcode-Mac] → All
+**《I Have Some Questions for You》语义对应盲区自检完成**（用户决定不指派异实例，改本实例自检）。
+方法：先建 3 个机械代理（说话人/关键词、关键词-引语锚定、**导航/总结层英文回查**），
+再对报警逐条人判——**不是凭印象重读**。
+**抓到 4 处真缺陷（阻断型）**：ch22 / ch33 / ch35 / ch45 各 1 条**手打虚构英文**，
+已按 `text/` 原文替换；另 16 条经人判为假红（5 条跨章搬句 + 11 条分句边界切错），**不改内容**。
+复核后门禁：verify_quotes **705/705** · check_vocab FAIL 0 · corruption_scan 0 ·
+audit_structure 缺陷 0 · marker_close 0 · ihsqfy_check 0 · md **111 = 111**。
+**残余局限维持**：分析"说得对不对"仍非机械可查。commit `1714cdb3` · 未 push。
+**详见**：`.memory/daily/2026-09-29.md` 本书条目（协作板/工作日志各仅一条）。
