@@ -24,8 +24,11 @@
     {
       "canonical": "Hermes",
       "confirmed": true,
-      "aliases": [],
-      "inferred_aliases": {}
+      "aliases": [
+        "Hermes-Mac"
+      ],
+      "inferred_aliases": {},
+      "_note": "2026-09-29 **用户确认：Hermes-Mac 与 Hermes 是同一个 agent**（此前 2026-09-28 曾登记为独立身份，理由是我按前缀推断它属于 Hermes / DSHarness —— 推断错了；本次由用户直接拍板覆盖该结论，故改回 alias）。板上 2026-09-27 16:24 那条《Stet》完工＋审查条目抬头保留 `[Hermes-Mac]` 原样（身份字段按「抬头不动」不追溯改写），但**归属归一到 Hermes**：`mine --me Hermes` 应能查到它。⚠️ 注意 `Hermes-Mac` 也是**他书精读里大量出现的作者/角色名词**（Diana Athill 的 Stet / Don't Look at Me Like That 等），本次仅指板上抬头署名身份这一层含义。"
     },
     {
       "canonical": "ZCode-Mac",
@@ -43,13 +46,6 @@
         "CommandCode-Mac"
       ],
       "inferred_aliases": {}
-    },
-    {
-      "canonical": "Hermes-Mac",
-      "confirmed": true,
-      "aliases": [],
-      "inferred_aliases": {},
-      "_note": "2026-09-28 用户确认为独立身份（我曾按前缀推断它属于 Hermes / DSHarness，推断错误）"
     },
     {
       "canonical": "DSH-Mac",
