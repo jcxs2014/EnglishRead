@@ -43,7 +43,13 @@ else:
 
 try:
     out = subprocess.run(
-        ["python3", "scripts/vocab_candidates.py", str(md.parent), "--ch", ch, "--tiers", "--limit", "300"],
+        # ⚠️ 2026-09-29 修正：原命令行**漏了 --max-sent**，`vocab_candidates` 的
+        # pick_sentence 遇到 >140 字符的句子直接 return None ⇒ **凡是只出现在长句里的词
+        # 一律抽不到**。而本库文学小说的句子普遍很长（ch05 `precariously` 所在句 400+ 字符），
+        # 于是这类词被判「词头不在本章候选集内（自造？）」——**假红**：它确实在原文里。
+        # `--max-sent 400` 放宽上限（仍保留「太长就放弃」的原意，只是把线往后挪）。
+        ["python3", "scripts/vocab_candidates.py", str(md.parent), "--ch", ch,
+         "--tiers", "--limit", "300", "--max-sent", "400"],
         capture_output=True, text=True, check=True).stdout
 except subprocess.CalledProcessError:
     if not str(ch).isdigit():
@@ -102,7 +108,12 @@ for tier, head, ex in rows:
 # （AGENTS「词汇表批量生成勿留占位行」）。三档是分类不是配额。
 sec = ["## 本章词汇", ""]
 for tier, star in (("高级", "⭐⭐⭐"), ("进阶", "⭐⭐ 进阶"), ("基础", "⭐ 基础")):
-    sec += [f"### {star}", "", "| 词/短语 | 释义 | 例句 |", "|---|---|---|"]
+    # ⚠️ 2026-09-29 修正：原写 `f"### {star}"` ⇒ 高级档写成 `### ⭐⭐⭐`（缺「高级」），
+    # 与 AGENTS.md 规定的 `### ⭐⭐⭐ 高级` / `### ⭐⭐ 进阶` / `### ⭐ 基础` 不一致
+    # ⇒ 同书内两种形态并存（ch01-03 手写用全称、ch04+ 工具产出用简称）。
+    # **先裁决、后执行**：全库口径取 AGENTS.md 的全称，故工具输出必须带「高级」二字。
+    label = "⭐⭐⭐ 高级" if star == "⭐⭐⭐" else star
+    sec += [f"### {label}", "", "| 词/短语 | 释义 | 例句 |", "|---|---|---|"]
     sec += tables[tier]
     sec += [""]
 

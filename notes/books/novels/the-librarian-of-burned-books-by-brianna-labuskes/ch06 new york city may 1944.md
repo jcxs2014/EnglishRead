@@ -39,7 +39,7 @@ modified: "2026-09-29"
 
 **关键词**：Books are a way we leave a mark on the world / we were here, we loved and we grieved and we laughed and we made mistakes and we existed / the words cannot be unread, the stories cannot be untold / immortalized in anyone who has read them
 
-**为什么这样写**：全书题眼所在。第一个分句用问句（`aren’t they?`）而不是断言——**管理员不肯说教，她把判断权交给读者**。中间那个平行句用五个 `we` 排比（`we were here, we loved and we grieved and we laughed and we made mistakes and we existed`），把"存在"拆成五种最朴素的动作，于是"存在"本身成了最重的那个词。而 `the words cannot be unread, the stories cannot be untold`（字不能被读回，故事不能不讲出来）是全书最重要的一组否定：**烧书能毁掉物件，毁不掉已经发生的阅读**。`more importantly`（更重要的是）把落点从图书馆转向读者——**保存的最终形式不是书架，是人**。
+**为什么这样写**：全书题眼所在。第一个分句用问句（`aren’t they?`）而不是断言——**管理员不肯说教，她把判断权交给读者**。中间那个平行句把同一个人称 `we` 一路排下去（`we were here, we loved and we grieved and we laughed and we made mistakes and we existed`），把"存在"拆成一串最朴素的动作，于是"存在"本身成了最重的那个词。而 `the words cannot be unread, the stories cannot be untold`（字不能被读回，故事不能不讲出来）是全书最重要的一组否定：**烧书能毁掉物件，毁不掉已经发生的阅读**。`more importantly`（更重要的是）把落点从图书馆转向读者——**保存的最终形式不是书架，是人**。
 
 **读者视角提示**：紧跟着的那句 `Fire as fierce as the flames that destroyed these very books had crept into her voice`（火已经烧到与她声音里同样猛烈）说明：管理员说这段话时自己也变成了火焰的受害者——**她用火一样的语气替被烧的书说话**。
 
@@ -125,7 +125,7 @@ Vendetta。Viv 喜欢这个词，喜欢它画出的那幅画面。
 
 ## 本章词汇
 
-### ⭐⭐⭐
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
