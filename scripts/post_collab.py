@@ -134,6 +134,8 @@ def main():
     ap.add_argument("mode", choices=["board", "daily", "check", "mine", "verify"])
     ap.add_argument("body", nargs="?")
     ap.add_argument("--book", help="书标识：板用目录 slug，日志用书名；会出现在条目里用于判重")
+    ap.add_argument("--topic", help="非书主题（工具变更/规则调整等），与 --book 二选一；"
+                                    "板与日志通用。建议写成「【工具变更】」这样的可检索前缀")
     ap.add_argument("--me", help="本实例身份（任意已知写法，自动归一到规范名）")
     ap.add_argument("--to", default="All", help="收件人（默认 All）")
     ap.add_argument("--note", help="抬头里的补充标记，如 '审查结论'")
@@ -163,8 +165,12 @@ def main():
             print(f"  {e.split(chr(10))[0][:88]}")
         return 0
 
-    if not (a.body and a.book):
-        ap.error("需要 <body.md> 与 --book")
+    if not a.body:
+        ap.error("需要 <body.md>")
+    if a.topic:
+        a.book = a.topic
+    elif not a.book:
+        ap.error("需要 --book（书标识）或 --topic（非书主题）")
     body = open(a.body, encoding="utf-8").read().rstrip()
     if body.lstrip().startswith("### ["):
         print("❌ 正文里不要自己写抬头——身份与时间戳由本脚本生成（防止写错身份/捏造时间戳）。\n"
@@ -202,7 +208,8 @@ def main():
 
     # 门禁 2：每书一条
     if hit and not a.append:
-        print(f"❌ 「{a.book}」在 {path} 已有 {len(hit)} 条条目——每书只应一条。\n"
+        kind = "每主题只应一条" if a.topic else "每书只应一条"
+        print(f"❌ 「{a.book}」在 {path} 已有 {len(hit)} 条条目——{kind}。\n"
               f"   追加结论请用 --append 就地并入既有条目（AGENTS：就地编辑，不新开条目）。\n"
               f"   既有条目前 80 字：{hit[0][:80].strip()}")
         return 2
@@ -302,7 +309,7 @@ def verify(book, day):
     print(f"板：{bc} 条（须恰为 1）{'✅' if ok else '❌'}")
     print(f"日志 {lp}：{lc} 处（须 ≥1）{'✅' if lc >= 1 else '❌'}")
     if not ok:
-        print(f"\n❌ 板上有 {bc} 条含「{book}」的条目——每书只应一条。"
+        print(f"\n❌ 板上有 {bc} 条含「{book}」的条目——每{'主题' if book.startswith('【') else '书'}只应一条。"
               f"多的那条多半是别人发的或历史遗留，**不要去删别人的**；"
               f"把自己的那条用 --append 补齐即可。")
     return 0 if ok and lc >= 1 else 2
