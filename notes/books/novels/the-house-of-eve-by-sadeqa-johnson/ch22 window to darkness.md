@@ -34,7 +34,7 @@ modified: "2026-09-29"
 **中文理解**：而且我本来就忍不住不碰你，我们很快就能再怀上。
 **关键词**：can’t keep my hands off you / we’ll conceive again in no time
 **为什么这样写**：这是安慰，也是本章最阴的一句——把刚失去的孩子换成一个还没开始的原因，语气还带着笑。他前面那句 We’ll get through this, babe 是把眼前往后推，这一句是把往后推的方式说成他的身体停不下来。Eleanor 听见的因此不是承诺，是又一件由他排定顺序的事。
-**读者视角提示**：他说这话时额头抵着她的额头、笑着说的。医生十分钟后进门说的是 Since this is your third miscarriage, Mrs. Pride, we recommend you don’t try again. The next time could be life-threatening。
+**读者视角提示**：他说这话时额头抵着她的额头、笑着说的。医生紧接着进门说的是 Since this is your third miscarriage, Mrs. Pride, we recommend you don’t try again. The next time could be life-threatening。
 
 > **原句 4:** "You mean second,” William corrected. “It’s only her second."
 
@@ -47,7 +47,7 @@ modified: "2026-09-29"
 
 **中文理解**：我高中时怀过孕，就在那之后，也失去了那个孩子。
 **关键词**：pregnant in high school / after my first time / lost that baby, too
-**为什么这样写**：too 是全句的重量所在：她承认的不是一次意外，是第二次——正是医生刚数出来的那第二次。母亲当年要她带进坟墓的那句 No man wants to marry a soiled woman with damaged goods 在这一句之后才被作者摆出来，说明这不是新秘密，是一件很旧的事。
+**为什么这样写**：too 是全句的重量所在：她承认的不是一次意外，是第二次——正是医生刚数出来的那第二次。母亲当年要她带进坟墓的那句 No man wants to marry a soiled woman with damaged goods 在这一句之前就已经摆出来了，说明这不是新秘密，是一件很旧的事。
 **读者视角提示**：说完这句 William 的脸像被打了一拳；他真正在意的不是那个孩子，是 But I thought you were a virgin——而这句话她从来没说过，是她自己让他这么以为的。
 
 > **原句 6:** "I think this alternative will suit you both well. It would be a shame for a thriving couple such as yourselves to lose out on the joys of parenthood."
@@ -61,7 +61,7 @@ modified: "2026-09-29"
 
 **中文理解**：Eleanor 把那张名片在手里翻过来，然后塞到自己的枕头底下。
 **关键词**：flipped the business card over / shoved it under her pillow
-**为什么这样写**：本章最后的一个动作既不是答应也不是拒绝：她先翻过来看背面——作者没有写背面写了什么——再塞到枕头底下。这个动作她已经做过：第 20 章她说自己每天早上都要进祈祷间为孩子祝福，而那天早上是第一次跳过，现在她把另一张纸放到了同一个位置。
+**为什么这样写**：本章最后的一个动作既不是答应也不是拒绝：她先翻过来看背面——作者没有写背面写了什么——再塞到枕头底下。这个动作她此前没有做过——第 20 章她每天早上进祈祷间为孩子祝福、那天早上第一次跳过，缺的是仪式；这一回换成了一张纸。
 **读者视角提示**：修女临走说的是 There is a baby that is right for you，作者没给她回答的余地就写到了门响。下一章 Ruby 被送进一栋红砖房子；作者没有让这两个人碰面，却把同一种安排同时推到了她们面前——一个塞在枕头底下，一个第二天就坐进车里。
 
 ## 本章词汇
@@ -117,4 +117,4 @@ modified: "2026-09-29"
 
 ## 一句话总结
 
-这一章里没有人给这个孩子取名。医生说的是胎儿，护士说的是胎盘，母亲说的是我的 sweet baby，唯一一次真正看见它，是一只小小的紫脚。Eleanor 要了三遍，被按住、被注射，醒来第一句还是问它。William 带着咖啡回来，说过去的事过去了、以后不许再有秘密；她还没把高中那段说完，他已经替她把失去的次数数清了。当晚进来的修女递上一张名片，说会有一只对的婴儿；她点头让人走，然后把名片塞到枕头底下。
+这一章里没有人给这个孩子取名。医生说的是胎儿，护士说的是胎盘，母亲说的是我的 sweet baby，唯一一次真正看见它，是一只小小的紫脚。Eleanor 在黑暗里要了很多遍，被按住、被注射，醒来第一句还是问它。William 带着咖啡回来，说过去的事过去了、以后不许再有秘密；她还没把高中那段说完，他已经替她把失去的次数数清了。当晚进来的修女递上一张名片，说会有一只对的婴儿；她点头让人走，然后把名片塞到枕头底下。

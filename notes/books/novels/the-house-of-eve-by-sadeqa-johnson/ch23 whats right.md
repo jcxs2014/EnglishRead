@@ -7,7 +7,7 @@ modified: "2026-09-29"
 
 ## 本章导航
 
-- **一句话概括**：母亲登门一周，Ruby 把那本讲 fallen girls 的小册子读到整段都能背，还是没等到人。电话是 Shapiro 太太接的，一开口就是 Have you considered my proposition, dear?，然后把儿子安置在布鲁克林 indefinitely，把理由说成他承认自己还不够成熟；Ruby 没有吵，只问了一句那笔奖学金是不是 full scholarship for all four years，得到肯定答复之后就说 Please make the arrangements。出门前 Aunt Marie 让 Kiki’s 的老板代拟了一份合同，写清双方说过的全部事实和承诺，理由是 White folk got short memories。八月底她已经 nineteen weeks pregnant，母亲打电话来说天亮前来接。隔天 Aunt Marie 做了两片 crisp scrapple 的三明治塞给她带在车上，临出门唠叨要她每天晚上把内裤洗掉，说着说着 Ruby 哭了。车上母亲给她墨镜和围巾当伪装，一路上不许她下车、不给她一口吃的；Shimmy 从前座把手伸回来。快到那栋红砖房子时他在后座求婚，说 Marry me, Ruby，Ruby 回的是 And I love you, but I’m learning that love ain’t always enough；Shapiro 太太从大门走下来之前，Ruby 说完那句压低声音的恳求，接过那包塞进袖子的邮票，推开车门。母亲最后加了一个条件，她照做了。
+- **一句话概括**：母亲登门一周，Ruby 把那本讲 fallen girls 的小册子读到整段都能背，还是没等到人。电话是 Shapiro 太太接的，一开口就是 Have you considered my proposition, dear?，然后把儿子安置在布鲁克林 indefinitely，把理由说成他承认自己还不够成熟；Ruby 没有吵，只问了一句那笔奖学金是不是 full scholarship for all four years，得到肯定答复之后就说 Please make the arrangements。出门前 Aunt Marie 让 Kiki’s 的老板代拟了一份合同，写清双方说过的全部事实和承诺，理由是 White folk got short memories。八月底她已经 nineteen weeks pregnant，母亲打电话来说天亮前来接。隔天 Aunt Marie 做了两片 crisp scrapple 的三明治塞给她带在车上，临出门唠叨要她每天晚上把内裤洗掉，说着说着 Ruby 哭了。车上母亲给她墨镜和围巾当伪装，一路上不许她下车、不给她一口吃的；Shimmy 从前座把手伸回来。快到那栋红砖房子时他在副驾回过头来求婚，说 Marry me, Ruby，Ruby 回的是 And I love you, but I’m learning that love ain’t always enough；Ruby 是先看见 Shapiro 太太从大门走回来，才把那句压低声音的恳求说出口，接过那包塞进袖子的邮票，推开车门。母亲最后加了一个条件，她照做了。
 - **情绪位置**：前半章是一次安静的等待——坐在台阶上，把门声的每一次开合都当成他回来；后半章是一趟上行线，越靠近那栋房子，说话的人越少，到最后只剩她一个人对着车道走上去。全章真正的转折点不在车里，在电话那一句：她先问清四年，然后才让对方安排。
 - **叙事肌理**：五个点，都是走动的路线。台阶上（等一通不会来的电话，一支五分钱的樱桃冰）、电话前（把生意谈完）、厨房桌上（合同签下去）、楼梯口（送行）、车后座（最后一整段对话）。热是贯穿的线：她的汗把后背的衬衫浸透了，三明治是凉的，车里不许开收音机因为母亲要专心看路。到最后一格她下车，一个人顺着车道往上走。
 - **人物弧线**：Ruby 从 Ma’am, I was hoping to speak with Shimmy, please 走到先确认年限再签字；从 But I’m scared 走到把肩膀抬到最高。她没有停止爱 Shimmy，她只是不再让爱替她做决定——这一点由她自己那句 love ain’t always enough 说破，作者随即把她的清醒归到一句更冷的话上：那样的人只要打一个电话想要的都会落到脚边，不想要的会自己走掉。
@@ -20,7 +20,7 @@ modified: "2026-09-29"
 **中文理解**：白人记性短。这样写就没有做手脚的余地。我可不想因为揍一个白女人一顿去蹲监狱。
 **关键词**：White folk got short memories / ain’t no room for funny business / Ain’t trying to go to jail
 **为什么这样写**：她把安慰做成了一张纸。Aunt Marie 找 Kiki’s 的老板代写了一份合同，把双方说过的全部事实和承诺写下来，理由不是信义，是对方记性短。她怕的不是失去这个女孩，是白人事后不认账。
-**读者视角提示**：这一句里 Ruby 说的不是自己害怕的东西，是签下去的后果；整份合同末尾她的名字只是墨迹。
+**读者视角提示**：这一句里说话的是 Aunt Marie，她怕的不是失去这个女孩，是签下去的后果；整份合同末尾她的名字只是墨迹。
 
 > **原句 2:** "Make sure you wash your panties out each night. Don’t want you running around with dirty drawers and have them white folks talking ’bout you ain’t got no home training,"
 
@@ -40,7 +40,7 @@ modified: "2026-09-29"
 
 **中文理解**：我也爱你，可我正在明白，爱并不总是够用的。
 **关键词**：And I love you / love ain’t always enough
-**为什么这样写**：她没有把爱推开，她只是把它降级成一个不够大的东西。前一句他在后座求婚，说的是 his green eyes were clear, full of hope and innocence，作者紧跟着写她希望自己也能那样天真——所以这一句不是拒绝他，是承认自己走在他前面。
+**为什么这样写**：她没有把爱推开，她只是把它降级成一个不够大的东西。前一句他在副驾回过头来求婚，说的是 his green eyes were clear, full of hope and innocence，作者紧跟着写她希望自己也能那样天真——所以这一句不是拒绝他，是承认自己走在他前面。
 **读者视角提示**：他回的是 It is for me。两个人都没有说错，差的是各自在算什么账。
 
 > **原句 5:** "Your mother will crush our love. The world will stomp out our fire. I have no other choice, Shimmy. Please understand this, for me."

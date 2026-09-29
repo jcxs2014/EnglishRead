@@ -52,7 +52,7 @@ modified: "2026-09-29"
 
 > **原句 6:** "He wants a girl, but I’m hoping for a boy. Girls are too much trouble,” she muttered to Fatty, and they slapped five in agreement."
 
-**中文理解**：她想要个女孩，可我盼着是个男孩。女孩子太麻烦了。她这么嘟囔着对 Fatty 说，两个人击了下掌表示同意。
+**中文理解**：他要女孩，可我盼着是个男孩——女孩子太麻烦了。母亲这么嘟囔着对 Leap 说，Leap 笑着接了下去。
 **关键词**：He wants a girl, but I’m hoping for a boy / Girls are too much trouble / they slapped five in agreement
 **为什么这样写**：这句是回忆里的声音，说的人是她母亲，场合是祖母 Nene 家里的一场生日会。Ruby 当时坐在留声机旁边的折叠椅上听，一边听一边想让自己更小；现在她自己身体里也有一个，而这句评价她今晚已经听了一整晚。
 **读者视角提示**：作者把它放在她最狼狈之后，当成一个更旧的伤口——真正让她发冷的不是今晚，是这件事早就有了定论，而且定这套标准的人现在仍然活着。

@@ -34,7 +34,7 @@ modified: "2026-09-29"
 **中文理解**：尽管她喜欢做档案整理，那也抵不上 William 能给这个家的四分之一。可她还是忍不住想：到底要有多大的活儿要忙，才能把他这么久挡在外头？
 **关键词**：it wouldn’t provide a quarter of what William would / she wondered, how much work was there to be done / to keep him away for so long
 **为什么这样写**：作者先让她把丈夫的立场一条条摆完，再让那个问题从她自己嘴里冒出来；「四分之一」是实数不是修辞，缺口就是这么具体，怀疑也就无从推诿。
-**读者视角提示**：这个问题是在她一个人躺下的夜里问的，William 就睡在旁边；往后这一章里他每次回来都只有几个小时，常常半夜进门洗个澡、换身衣服、睡一觉，天亮她醒来时人已经走了。
+**读者视角提示**：这个问题是在她一个人躺下的夜里问的，William 那晚不在——他已经连着很久没跟她同床了；往后这一章里他每次回来都只有几个小时，常常半夜进门洗个澡、换身衣服、睡一觉，天亮她醒来时人已经走了。
 
 > **原句 4:** "I’m an archivist at the library at Howard University. I’ve been helping my boss secure music, books and artifacts from across the African diaspora."
 

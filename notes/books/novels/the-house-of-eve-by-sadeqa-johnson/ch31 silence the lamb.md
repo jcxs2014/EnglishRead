@@ -48,7 +48,7 @@ modified: "2026-09-29"
 **中文理解**：早晨会有喜乐。她累得声音都哑了。我要给她取名叫 Joy。
 **关键词**：Joy comes in the morning / Bubbles’s voice was raspy with fatigue / I’m going to name her Joy
 **为什么这样写**：起名被写成一句谁都会说的套话，紧接着又被她兑现成自己的决定：先是「早晨会有喜乐」，再是「我要叫她 Joy」；作者让一个人刚经历过一夜的生死之后，做的第一件事是给一个词安放意义。
-**读者视角提示**：名字定下来之后她还在说话（讲母亲、讲 Ray），天亮之前她们三个一直轮流照顾她；接下来要解决的是怎么把这一切藏过一整天。
+**读者视角提示**：讲母亲、讲 Ray 那一整段都发生在生产的过程中；名字是事后才起的，天亮之前她们三个一直轮流照顾她；接下来要解决的是怎么把这一切藏过一整天。
 
 > **原句 6:** "I was in awe. I had witnessed a person coming into the world. Would I feel this way when I gave birth, too?"
 

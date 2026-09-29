@@ -47,7 +47,7 @@ modified: "2026-09-29"
 
 **中文理解**：「我不搬走。」Eleanor 说，语气比自己预想的更冲。或者是：不搬去找我丈夫。
 **关键词**：I’m not leaving my home / with more bite than she intended / Or my husband
-**为什么这样写**：作者让后半句悬在句子外面，不给主语：她要拒绝的其实不止是那几个月（表面上是住到生产），而是把 William 交给婆婆安排这件事。破折号后那半句是她心里补的第二个宾语，作者不给它引号，让它悬着。
+**为什么这样写**：作者让后半句干脆落在引号外面、不给主语也不写成对白：她要拒绝的其实不止是那几个月（表面上是住到生产），而是把 William 交给婆婆安排这件事。破折号后那半句是她心里补的第二个宾语，作者不给它引号，让它悬着。
 **读者视角提示**：对面的回答只是把同一件事往后挪：节日一来谁也顾不上谁，可是感恩节去纽约的婚宴不能缺席——对方是纽约一位名律师的女儿，母亲还是一位知名舞蹈教育工作者，Rose 一提这门亲事脸就红。
 
 > **原句 6:** "Really, what part of ‘secret’ did you miss?"
@@ -116,7 +116,7 @@ modified: "2026-09-29"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| flowering | （此处为）开花（此处指分诊台上的花） | There, Eleanor would appear long enough for people to see her flowering, but not long enough for meaningful conversation. |
+| flowering | （此处为）显怀（此处指挺着肚子被人看见） | There, Eleanor would appear long enough for people to see her flowering, but not long enough for meaningful conversation. |
 | full forty-eight | （此处为）整整四十八小时 | It hadn’t even been a full forty-eight hours since they made the adoption decision, and Rose was already taking command. |
 
 ## 一句话总结

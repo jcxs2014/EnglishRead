@@ -20,7 +20,7 @@ modified: "2026-09-29"
 **中文理解**：这就是训诫室。坏女孩就去的地方。她直直地看着我，把我钉在原地。
 **关键词**：This is the shaming room / It’s where the bad girls go / freezing me in place with her gaze
 **为什么这样写**：作者不把这扇门留到犯规之后才让人看见，而是在参观路线的中段就指出来，还顺手分了一次权限：信她不需要知道那扇门后面是什么。威胁在开口之前就已经生效，Ruby 连试都没试。
-**读者视角提示**：同一段走廊的尽头还有一扇拱形的深色木门，那才是她今晚要睡的房间——一栋房子里两扇门，一扇用来罚人，一扇用来住人。
+**读者视角提示**：同一段走廊走到头之后，还要再上两层楼梯，那里有一扇拱形的深色木门，那才是她今晚要睡的房间——一栋房子里两扇门，一扇用来罚人，一扇用来住人。
 
 > **原句 2:** "The girls go by first names only. No personal business is shared. The mission here is simple. To save your soul."
 
@@ -105,7 +105,7 @@ modified: "2026-09-29"
 | blue-painted walls | （此处为）刷成蓝墙的房间 | Once I stepped inside, I saw four twin-sized cots with two short chests of drawers against the blue-painted walls. |
 | color wheel | （此处为）色轮 | The three girls ran the gamut on the color wheel, with Loretta being as light as butter cream, Georgia Mae’s skin as rich as hickory, and Bubbles falling somewhere in the caramel middle. |
 | interminable silence | （此处为）长得没有尽头的沉默 | After what felt like an interminable silence, I realized that I was meant to repeat the title. |
-| silver storm | （此处为）银器的风暴（指满桌器皿） | Before I’d even reached the side of the house, the silver storm door screeched open. |
+| silver storm door | （此处为）银色的防暴风门 | Before I’d even reached the side of the house, the silver storm door screeched open. |
 | social worker | （此处为）社工 | We passed a small lounge with two sofas, where I would meet my social worker once a week. |
 | stringy-haired girl | （此处为）头发一绺绺的女孩 | The one holding the carrots glanced over and then quickly darted her eyes away, but the stringy-haired girl with freckles knifing the potato gave me the tiniest smile. |
 | tiniest smile | （此处为）极小的一点笑 | The one holding the carrots glanced over and then quickly darted her eyes away, but the stringy-haired girl with freckles knifing the potato gave me the tiniest smile. |
@@ -113,4 +113,4 @@ modified: "2026-09-29"
 
 ## 一句话总结
 
-她是被一扇从里面拉开的门接进去的，进去之后发现每一样东西都已经替她安排好了：座位、餐具、圣经、问题。唯一不在安排之内的是哭声——那是一个已经把 baby 交出去的女孩留在这栋房子里的声音。三个同屋的女孩各自用一套办法熬，Ruby 抱膝坐在最上面那张窄床上，把这个地方判断成不是小册子上写的那种样子，但仍然认了：低头，把这件事熬过去。
+她是被一扇从里面拉开的门接进去的，进去之后发现每一样东西都已经替她安排好了：座位、餐具、圣经、问题。唯一不在安排之内的是哭声——那是一个已经把 baby 交出去的女孩留在这栋房子里的声音。三个同屋的女孩各自用一套办法熬，Ruby 抱膝坐在其中一张小床上，把这个地方判断成不是小册子上写的那种样子，但仍然认了：低头，把这件事熬过去。

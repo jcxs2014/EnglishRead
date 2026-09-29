@@ -34,7 +34,7 @@ modified: "2026-09-29"
 **中文理解**：她已经把孩子交出去了，现在在这里做工还债——在洗衣房干活。我们都得做这种还债的活。有些人待得久些，有些人不久。
 **关键词**：She went over already / paying off her debt by working in the laundry / We’re all required to do payback work
 **为什么这样写**：这一段把前面的祷告翻成了长期工：交出去不是结束，是换一种方式继续待下去。Ruby 追问了 lifer 是什么、承认自己事先不知道，作者就把制度的说明交给了另一个已经走完流程的女孩。
-**读者视角提示**：她说这话的时候，Ruby 手边那只水桶刚被人一脚踢翻，脏水淌了一地。
+**读者视角提示**：她说这话的时候，Ruby 手边那只水桶自己朝她这一侧翻倒，脏水淌了一地——原文没给施动者。
 
 > **原句 4:** "It’s what we call this place. Sounds sweeter than the House of Magdalene for Unwed Whores, don’t it?"
 
