@@ -227,12 +227,12 @@ source_text: ch10
 | confused | 困惑的 | She saw the white BMW and looked at me confused, but also annoyed. |
 | startled | 吃惊的；吓一跳的 | She dozed in and out of sleep in the air-conditioning, but kept popping up startled. |
 | flamingo | 火烈鸟 | In the photo, I am holding one foot off the ground like a flamingo, trying to protect the foot that hurt the most. |
+| boardwalk | 海滨木板路；栈桥 | Hip-hop was on the move, blaring from boom boxes across the boardwalk, though it never settled in one spot. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| boardwalk | 海滨木板路；栈桥 | Hip-hop was on the move, blaring from boom boxes across the boardwalk, though it never settled in one spot. |
 | cooler | 保温箱 | Even the poorest managed to save up bus fare for three or four kids, pack a cooler, and hit the beach at least a few times every summer. |
 | tank top | 背心；无袖上衣 | “I’ll bring shorts and a tank top. |
 | twelve bus | 12 路公交车 | “Act like you never took the twelve bus, mi loca? |
