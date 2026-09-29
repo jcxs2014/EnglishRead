@@ -1,0 +1,35 @@
+ch01 sloane.md: 8/8 in ch01 text
+ch02 sloane.md: 8/8 in ch02 text
+ch03 sloane.md: 8/8 in ch03 text（另有 1 条短引语未校验）
+ch04 sloane.md: 10/10 in ch04 text
+ch05 sloane.md: 11/11 in ch05 text
+ch06 sloane.md: 10/10 in ch06 text（另有 1 条短引语未校验）
+ch07 maisey.md: 12/12 in ch07 text
+ch08 maisey.md: 13/13 in ch08 text
+ch09 maisey.md: 11/11 in ch09 text
+ch10 maisey.md: 13/13 in ch10 text
+ch11 maisey.md: 15/15 in ch11 text
+ch12 maisey.md: 16/16 in ch12 text（另有 1 条短引语未校验）
+ch13 maisey.md: 17/17 in ch13 text
+ch14 maisey.md: 14/14 in ch14 text
+ch15 maisey.md: 19/19 in ch15 text
+ch16 mateo.md: 20/20 in ch16 text
+ch17 mateo.md: 19/19 in ch17 text
+ch18 mateo.md: 19/19 in ch18 text（另有 1 条短引语未校验）
+ch19 mateo.md: 23/23 in ch19 text（另有 2 条短引语未校验）
+ch20 mateo.md: 26/26 in ch20 text
+ch21 mateo.md: 26/26 in ch21 text（另有 1 条短引语未校验）
+ch22 greg.md: 24/24 in ch22 text
+ch23 greg.md: 26/26 in ch23 text
+ch24 greg.md: 26/26 in ch24 text
+ch25 greg.md: 27/27 in ch25 text（另有 1 条短引语未校验）
+ch26 greg.md: 25/25 in ch26 text（另有 2 条短引语未校验）
+ch27 greg.md: 26/26 in ch27 text
+ch28 arthur.md: 31/31 in ch28 text（另有 1 条短引语未校验）
+ch29 arthur.md: 23/23 in ch29 text（另有 1 条短引语未校验）
+ch30 arthur.md: 26/26 in ch30 text
+ch31 arthur.md: 25/25 in ch31 text（另有 2 条短引语未校验）
+ch32 arthur.md: 26/26 in ch32 text
+ch33 sloane.md: 26/26 in ch33 text
+ch34 sloane.md: 25/25 in ch34 text（另有 2 条短引语未校验）
+ch35 sloane.md: 30/30 in ch35 text

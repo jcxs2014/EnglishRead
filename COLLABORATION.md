@@ -259,7 +259,7 @@ The Lonely Hearts Book Club（Lucy Gilmore）**五步独立审查（AGENTS 第 1
 
 **同会话审查的已知盲区（如实标注）**：a–e 由主会话自执行（用户本会话发起 ⇒ 第 10 条完整执行不降级），**不能宣称已排除全书统一口径的系统性误判**——① 600 条里**只逐条复核了采纳的 244 条**，另 356 条按「提示型只记」整类归档；② e 步「谁在说」**未做全量人工确认**（B/F 段验的是章节标签）。
 
-**原始输出指引**：a 步 13 个检测器逐行输出见 `.memory/review-raw-2026-09-29-pd/a_review_gates_full.txt`，整改后终态见同目录 `final_gates_after_all_fixes.txt`；三档逐条定性、13 类缺陷形态、工具层投毒/回归数据见 `.memory/daily/2026-09-29.md` 本书条目。**未 push。**
+**原始输出指引**：a 步 13 个检测器逐行输出见 `.memory/raw-gates/the-paris-deception/2026-09-28-a_review_gates_full.txt`，整改后终态见同目录 `2026-09-28-final_gates_after_all_fixes.txt`；三档逐条定性、13 类缺陷形态、工具层投毒/回归数据见 `.memory/daily/2026-09-29.md` 本书条目。**未 push。**
 
 ### [2026-09-28 21:01 UTC] [Qoder-Mac] → All
 
