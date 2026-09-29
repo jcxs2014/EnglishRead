@@ -24,13 +24,52 @@
 """
 import argparse
 import datetime
+import json
+import os
 import re
 import subprocess
 import sys
 
 BOARD = "COLLABORATION.md"
 LOGDIR = ".memory/daily"
+REGISTRY = os.path.join(os.path.dirname(os.path.abspath(__file__)), "collab_identities.json")
 ENTRY = re.compile(r"^#{2,3} .*$", re.M)
+
+
+def load_identities():
+    """身份登记表：canonical 规范名 + aliases（确定别名）+ inferred_aliases（推断别名）。
+    别名一律归一到 canonical，**板面抬头由本脚本写，agent 不再手打自己的名字**。"""
+    spec = json.load(open(REGISTRY, encoding="utf-8"))
+    canon, infer = {}, {}
+    for e in spec["identities"]:
+        canon[e["canonical"].lower()] = e["canonical"]
+        for a in e.get("aliases", []):
+            canon[a.lower()] = e["canonical"]
+        for a in e.get("inferred_aliases", {}):
+            canon[a.lower()] = e["canonical"]
+            infer[a.lower()] = e["canonical"]
+    return canon, infer
+
+
+def resolve(me):
+    canon, infer = load_identities()
+    k = me.strip().lower()
+    if k not in canon:
+        print(f"❌ 身份「{me}」不在登记表内——新增一条再发，别临时起名。\n"
+              f"   已登记：{', '.join(sorted(set(canon.values())))}\n"
+              f"   登记表：{REGISTRY}")
+        return None, None
+    c = canon[k]
+    if k in infer and k != c.lower():
+        print(f"⚠️ 「{me}」是**推断别名**（{c} 的历史写法），尚未经实例确认；"
+              f"确认后把 {REGISTRY} 里该条 confirmed 置 true。")
+    return c, c.lower()
+
+
+def now_stamp():
+    """时间戳由脚本查实，不接受调用方传入（2026-08-31 捏造时间戳事故的根因）。"""
+    return subprocess.run(["date", "-u", "+%Y-%m-%d %H:%M UTC"],
+                          capture_output=True, text=True).stdout.strip()
 
 
 def board_entries(text):
@@ -61,9 +100,12 @@ def check_baseline(path):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("mode", choices=["board", "daily", "check"])
+    ap.add_argument("mode", choices=["board", "daily", "check", "mine"])
     ap.add_argument("body", nargs="?")
     ap.add_argument("--book", help="书标识：板用目录 slug，日志用书名；会出现在条目里用于判重")
+    ap.add_argument("--me", help="本实例身份（任意已知写法，自动归一到规范名）")
+    ap.add_argument("--to", default="All", help="收件人（默认 All）")
+    ap.add_argument("--note", help="抬头里的补充标记，如 '审查结论'")
     ap.add_argument("--append", action="store_true", help="就地追加到已有条目，而不是新建")
     ap.add_argument("--limit", type=int, default=20, help="板消息行数上限（默认 20）")
     ap.add_argument("--maxbytes", type=int, default=2500)
@@ -71,18 +113,38 @@ def main():
 
     if a.mode == "check":
         return check_all(a.limit)
+    if a.mode == "mine":
+        if not a.me:
+            ap.error("--mine 需要 --me")
+        c, ck = resolve(a.me)
+        if not c:
+            return 2
+        t = open(BOARD, encoding="utf-8").read()
+        hits = [e for e in board_entries(t) if ck in e.split("\n")[0].lower()]
+        print(f"=== {c} 发过的条目 {len(hits)} 条 ===")
+        for e in hits:
+            print(f"  {e.split(chr(10))[0][:88]}")
+        return 0
 
     if not (a.body and a.book):
         ap.error("需要 <body.md> 与 --book")
     body = open(a.body, encoding="utf-8").read().rstrip()
-    if not body.startswith("#"):
-        body = f"### [待填时间戳] [待填身份] → All\n\n" + body
+    if body.lstrip().startswith("### ["):
+        print("❌ 正文里不要自己写抬头——身份与时间戳由本脚本生成（防止写错身份/捏造时间戳）。\n"
+              f"   请只给正文，身份用 --me {a.me or '（必填）'} 传入。")
+        return 2
+    if a.mode == "board":
+        if not a.me:
+            print("❌ 板消息必须给 --me（身份由脚本查登记表归一，不手打）。")
+            return 2
+        ident, ikey = resolve(a.me)
+        if not ident:
+            return 2
+        stamp = now_stamp()
+        note = f" / {a.note} {now_stamp()}" if a.note else ""
+        body = f"### [{stamp}{note}] [{ident}] → {a.to}\n\n" + body
 
     path = BOARD if a.mode == "board" else log_path(a.book)
-    if a.mode == "board" and not body.startswith("### ["):
-        print("❓ 板消息抬头须为 `### [YYYY-MM-DD HH:MM UTC] [身份] → All`，"
-              "时间戳用 `date -u` 查实，不得估算。")
-        return 2
     if not check_baseline(path):
         return 2
 
@@ -111,6 +173,12 @@ def main():
         return 2
 
     before = len(ents)
+    if hit and a.append and a.mode == "board":
+        head = hit[0].split("\n")[0]
+        if ikey not in head.lower():
+            print(f"❌ 该条目不属于 {ident}（抬头：{head[:70]}）——"
+                  f"**不得修改其他实例的消息**。\n   如需补充，在自己名下另发一条并注明指向。")
+            return 2
     if hit and a.append:
         s = text.index(hit[0])
         e = s + len(hit[0])
