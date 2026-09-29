@@ -13,7 +13,7 @@ modified: "2026-09-28"
 
 **Tropes 兑现/反转**：无（推理小说）。本章兑现全书最锋利的一次结构设计——**一个笑话，而它的 punch line 在最后一行才揭晓，且这句 joke 本身是全书的核心母题。** `The dead girl doesn’t know she’s dead`（那个死女孩不知道自己已经死了）这一句，是全书对 Thalia 处境最精炼的定义；而末句 `The dead girl will never get her ID, because by Saturday she’ll be dead.`（那个死女孩永远拿不到她的假证，因为到星期六她就死了。）**用双关（dead=dead）完成整章。**
 
-**人物弧线**：本章里出现了几个**匿名的目击者**（quasi goth / loud girl / wiry boy）——而其中最关键的一句，来自那个最不起眼的人：`I'm gonna go find Dorian.`（我要去找 Dorian。）**她不知道自己正在被追。** 这三个不知情的旁观者，恰好构成全书对"目击"这一概念最精确的一次演示：**你看见了，但你不知道自己看见的是什么。**
+**人物弧线**：本章里出现了几个**匿名的目击者**（quasi goth / loud girl / wiry boy）——而其中最关键的一句，来自那个最不起眼的人：`Did you see where Dorian went?`（你看见 Dorian 去哪儿了吗？）**她不知道自己正在被追。** 这三个不知情的旁观者，恰好构成全书对"目击"这一概念最精确的一次演示：**你看见了，但你不知道自己看见的是什么。**
 
 **叙事手法**：全章是一个**故事中的故事**（框架叙事）。Bodie 在对谁讲这个笑话，书中从不说明。**作者用 "Here's a joke for you." 开篇，用 "Oh, wait, the punch line:" 收束——两次打断式插入，把这个故事框成一份现场口述。** 而内部那场酒吧戏则全程用现在时，写得像一出正在上演的戏。
 

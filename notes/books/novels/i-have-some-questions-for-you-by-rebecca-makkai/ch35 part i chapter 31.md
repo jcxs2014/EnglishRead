@@ -11,7 +11,7 @@ modified: "2026-09-28"
 
 **情感弧线位置**：情感线做了一次**回撤**。前几章在全速推进调查，本章忽然倒回一间宿舍、一张床、一个冬天的早晨。**而这个回忆的功能极其危险：它让 Thalia 从一个"案子"重新变回一个"人"。** 作者要读者看见：一个会骂脏话、会挠痒、会把别人的运动裤撑到掉下来的十七岁女孩。
 
-**Tropes 兑现/反转**：无（推理小说）。本章兑现全书"囤积"母题的**第二次也是最重的一次**。ch02 她已经说过自己 `care about details`（在意细节）是因为那是她唯一能拥有的东西；本章她把同一个动作重复了一次——`This would just be another thing I knew about someone, another piece of information to hoard.`（这只会是我知道的关于某人的又一件事，又一条可以囤起来的信息。）**而她囤的，是 Thalia 可能死于厌食的证据。**
+**Tropes 兑现/反转**：无（推理小说）。本章兑现全书"囤积"母题的**第二次也是最重的一次**。ch02 她已经说过自己 `another piece of information to hoard`（又一件可以囤起来的信息）是因为那是她唯一能拥有的东西；本章她把同一个动作重复了一次——`This would just be another thing I knew about someone, another piece of information to hoard.`（这只会是我知道的关于某人的又一件事，又一条可以囤起来的信息。）**而她囤的，是 Thalia 可能死于厌食的证据。**
 
 **人物弧线**：本章是全书对 Bodie 自我认识最深的一次推进。`A chubby girl couldn’t tell a skinny girl she was too thin.`（一个胖女孩没法告诉一个瘦女孩她太瘦了。）——**这句话把她的沉默写成了一个结构性的问题，而不是道德过失。** 她不是不想说，她是没有资格说。而作者随即让她补一句更冷的：`nor (it almost went without thinking) would I tell anyone in authority.`（甚至——这几乎是不假思索地——我不会告诉任何当权者。）**括号里那句"几乎是不假思索地"，是全书对她最重的一次判词。**
 
