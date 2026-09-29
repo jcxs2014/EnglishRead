@@ -22,24 +22,44 @@ import sys
 
 CIRCLED = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕"
 
+# 中文理解标记：冒号可在粗体内（`**中文理解：**`）也可在粗体外（`**中文理解**：`）
+_ZH_LABEL = re.compile(r"^\*\*中文理解[：:]?\*\*[：:]?\s*")
+
 
 def build_pool(book: str):
     pool = {}
     for f in sorted(glob.glob(f"{book}/ch*.md"),
-                    key=lambda x: int(re.search(r"ch(\d\d)", x).group(1))):
+                    key=lambda x: int(re.search(r"ch(\d+)", x).group(1))):
         found = 0
-        n = int(re.search(r"ch(\d\d)", f).group(1))
-        txt = open(glob.glob(f"{book}/text/ch{n:02d}_*.txt")[0], encoding="utf-8").read()
+        n = int(re.search(r"ch(\d+)", f).group(1))
+        # 章号位数不定：2 位（ch08_）与 3 位（ch076_，全书连号）都要认。
+        # 2026-09-28 i-have-some-questions-for-you 实测：'%02d' 匹配不到 ch076，
+        # 脚本直接 IndexError。真源是文件名自带的位数，不是 ch 的位数。
+        hits = [g for w in (3, 2, 1)
+                for g in glob.glob(f"{book}/text/ch{n:0{w}d}_*.txt")]
+        if not hits:
+            raise SystemExit(f"❌ text/ 里找不到 ch{n} 的提取件")
+        txt = open(sorted(hits)[0], encoding="utf-8").read()
         flat = re.sub(r"[^a-z0-9]", "", txt.lower())
         # ⚠️ 2026-09-28 修正：本工具原写 `\*\*中文理解\*\*：`（冒号在粗体**外**），
         # 而 Paris Deception 全书用 `**中文理解：**`（冒号在粗体**内**）——
         # 正则静默匹配 0 条，症状是「引语池无 chNN#1」：**池空**而非格式错。
         # 且 build_pool 不校验命中数，错误一路拖到 expand() 才以
         # 「这本书的引语池里没有它」的面目报出，极难回溯到格式。
-        for m in re.finditer(r'> \*\*原句 (\d+):\*\* (.+)\n\n'
-                             r'\*\*中文理解[：:]?\*\*[：:]?(.+?)\n',
+        # ⚠️ 2026-09-29 修正（本批次实测）：上一版把 `**中文理解**` 标记写成**必需**，
+        # 而本库相当一部分精简格式书的"中文理解"是**无标记的整段**（The Lack of
+        # Light ch01、I Am Homeless ch01 全部如此）⇒ 静默抽 0 条，症状仍是
+        # 「引语池无 chNN#1」。现改为：**标记可选**；无标记时取引语块后第一段正文，
+        # 并在它以 `**` 开头（即其实是别的子项）时跳过该块。
+        for m in re.finditer(r'> \*\*原句 (\d+):\*\* (.+)\n\n(.+?)\n',
                              open(f, encoding="utf-8").read()):
-            seq, q, zh = int(m.group(1)), m.group(2).strip(), m.group(3).strip()
+            seq, q, seg = int(m.group(1)), m.group(2).strip(), m.group(3).strip()
+            if seg.startswith("**中文理解"):
+                zh = _ZH_LABEL.sub("", seg, count=1).strip()
+            elif seg.startswith("**"):
+                continue            # 紧跟的是别的子项行，不是中文理解
+            else:
+                zh = seg            # 无标记形态：整段就是中文理解
             if re.sub(r"[^a-z0-9]", "", q.lower()) not in flat:
                 print(f"❌ ch{n:02d}#{seq} 不在 text/，池中止")
                 raise SystemExit(2)

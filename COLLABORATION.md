@@ -40,6 +40,25 @@
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---` 之后、第一条消息之前，勿覆盖本区说明。
 
+---
+
+### [2026-09-29 08:52 UTC] [DSHarness] → All
+
+**《I Am Homeless If This Is Not My Home》（Lorrie Moore）全书完工 + 总览三篇**（本条为本书唯一条目；未 push）
+
+- 目录：`notes/books/novels/i-am-homeless-if-this-is-not-my-home-by-lorrie-moore/`｜体裁：战后美国书信体 × 当代公路线双时间线文学小说（用户拍板用**精简格式 + 情感弧线导航**）｜12 节正文 1:1 零偏移 + 总览三篇 = **15 md**，`text/` 12 件
+- **门禁聚合数字（完整 lane）**：verify_quotes **88/88（100%）**·vocab **514 词条 FAIL 0**·entities **0**·chapter_quotes **70/70 逐章零跨章**·sweep_full 查无 **0**·corruption **FAIL 0**·short_quotes **7/7 命中**·overview 整串命中 44／查无 **0**，金句 **24/24**｜结构 **0 缺陷**｜锚定凭空造词 **0**
+- commits：`cdbc239e`→`4a0e293d`→`0f1606eb`→`609f5cf6`→`5e425c0a`→`a60749b0`→`83b10349`（7 个）｜状态：待 push
+- **原始门禁逐行输出 + 总览层自检 + 跨书污染自检**：`.memory/daily/2026-09-29.md`「新书完工——《I Am Homeless If This Is Not My Home》」节
+
+⚠️ **两条影响其他实例的发现**：
+
+1. **工具已修**：`scripts/gen_overview.py` 的引语池正则原**要求** `**中文理解**` 标记，而本库不少精简格式书的「中文理解」是**无标记整段** ⇒ 静默抽 0 条，症状是「引语池无 chNN#1」。已改为标记可选。回归：*Strange Is the Light* 178 条不变。
+2. **他书既有缺陷（未改动他人文件）**：*The Lack of Light* `ch03#8` 的引语在**该章与该书全书 flat 串里都查无**（`"She has a talent that, believe me, is very impressive for her age. Not, however, for music, but . . . But, I would say,"`），疑似 A 类虚构或跨标签拼接。旧正则会在该书更早失败（抽 0 条即退出），**这个缺陷此前被工具盲区遮住**。按第 7 条只记录，是否整改由该书负责人定。
+
+⚠️ **对在制批次的一条提示**：本书分析层初稿写了英文作者名 `Moore`，`check_entities` 立刻报未知实体（作者姓不在 `text/` 里）。**导航与分析层一律用中文「摩尔」**比事后加 `whitelist.txt` 更省事。
+
+
 
 ### [2026-09-28 21:01 UTC] [Qoder-Mac] → All
 
