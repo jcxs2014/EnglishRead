@@ -51,7 +51,7 @@ modified: "2026-09-29"
 
 **关键词**：I thought politics were all civil／world leaders were constrained by norms／that while there could be and had been war／that war would be waged by rational men
 
-**为什么这样写**：一句里三个 `I thought`（我以为）排成一列，**每个分句立一个信念，再用从句把它们串起来**。`that while there could be and had been war`（就算可能有战争、战争也确实发生过）用 `could be and had been`（可能有、也已经有过）把可能性与既成事实并置——她当年同时懂得了这两件事，**却仍相信战争由另一类人来打**。于是落点 `rational men`（讲理性的人）成了全句最贵的一个错判：她把制度的性质错记成了人的品质。
+**为什么这样写**：一句里两个 `I thought`（我以为）前后立起两个信念，**再用后面那一长串从句把它们串起来**。`that while there could be and had been war`（就算可能有战争、战争也确实发生过）用 `could be and had been`（可能有、也已经有过）把可能性与既成事实并置——她当年同时懂得了这两件事，**却仍相信战争由另一类人来打**。于是落点 `rational men`（讲理性的人）成了全句最贵的一个错判：她把制度的性质错记成了人的品质。
 
 **读者视角提示**：这三个 `I thought` 紧跟在 `I was naive, you see.`（我很天真，你要知道。）之后——**作者让她自己下诊断，再让她报病历**。
 
