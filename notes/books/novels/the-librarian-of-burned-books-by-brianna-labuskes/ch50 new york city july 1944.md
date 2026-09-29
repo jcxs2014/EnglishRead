@@ -75,7 +75,7 @@ modified: "2026-09-29"
 
 **关键词**：War had a way of making previous hurts inconsequential／at the sight of Hannah／this one flared to life once more
 
-**为什么这样写**：两句对仗，主语分别是 `War`（战争）与 `this one`（这一道）。第一句把旧账一笔勾销（`making previous hurts inconsequential`），第二句用一个 `But`（可是）把刚勾销的那笔重新点着——`this one`（这一道）正是 `previous hurts`（旧伤）里的**一个**，指代让泛指瞬间收窄成单项。`flared to life`（烧活过来）而不是 `came back`（回来了）：作者挑的是**爆燃**而不是归位。落点的 `once more`（又一次）交代这是第几次，而次数作者不写。
+**为什么这样写**：两句对仗，主语分别是 `War`（战争）与 `this one`（这一道）。第一句把旧账一笔勾销（`making previous hurts inconsequential`），第二句用一个 `But`（可是）把刚勾销的那笔重新点着——`this one`（这一道）正是 `previous hurts`（旧伤）里的**一个**，指代让泛指瞬间收窄成单项。而 `flared to life`（烧活过来）——作者挑的是**重新起火**而不是回归。落点的 `once more`（又一次）交代这是第几次，而次数作者不写。
 
 **读者视角提示**：前一句把这份旧伤写得更具体——`the way Hannah had turned to her with wounded eyes, so ready to cast blame`（Hannah 曾经怎样带着受伤的眼睛转向她、那样急着归罪）——**愤怒的对象是当年那副表情，而这一整章 Hannah 没有对 Althea 说过一个字**。
 

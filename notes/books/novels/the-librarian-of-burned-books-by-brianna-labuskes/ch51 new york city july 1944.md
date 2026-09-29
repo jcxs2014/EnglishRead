@@ -105,7 +105,7 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 8:** “Yes and no,” Hale said, putting down the menu to give her his full attention. “Yes, in that I think you would be a valuable addition to my team.
+> **原句 8:** “Yes and no,” Hale said, putting down the menu to give her his full attention. “Yes, in that I think you would be a valuable addition to my team. No, in that I don’t think you’ll accept it.”
 
 **中文理解**：「是，也不是，」Hale 说，把菜单放下，把全部注意力给了她。「是——因为我确实觉得你进我的团队会是一笔 valuable 的补充。不——因为我不觉得你会接受。」
 
