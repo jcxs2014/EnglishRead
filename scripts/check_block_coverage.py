@@ -38,7 +38,12 @@ bad_total = 0
 for md in targets:
     text = md.read_text(encoding="utf-8")
     blocks = re.findall(r"^>\s*\*{0,2}原句\s*\d+[:：]?\*{0,2}\s+(.+)$", text, re.M)
-    groups = vq.extract_quotes(text)
+    # ⚠️ 2026-09-29 修正：`extract_quotes` 默认 include_short=False ⇒ <20 flat 字符的
+    # 短引语**不在** extracted 里 ⇒ 本脚本把它们判成「被丢（整块未进任何校验）」。
+    # 但短引语由 `check_short_quotes.py` 逐条兜底（复用同一 extract_quotes 口径），
+    # 投毒已证明该脚本真会报 MISS ⇒ 原行为是**假红**（it says the tool doesn't know
+    # about the fallback）。改为带 include_short=True，让本脚本只报真正的孤儿块。
+    groups = vq.extract_quotes(text, include_short=True)
     extracted = [q for g in groups if isinstance(g, list) for q in g]
     problems, notes = [], []
     used = set()
