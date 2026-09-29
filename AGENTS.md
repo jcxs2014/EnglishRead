@@ -8,9 +8,10 @@
 
 ## ⛔ 开工前必读（触发式，非参考）
 **精读 `notes/books/` 下的任何一本书 ⇒ 开工前必须先读 `docs/新书启动模板.md`，未读不得动笔。**
-该文件是本工作区体量最大的执行文档（约 92 KB），含**本文件不重复存放**的展开内容：
-体裁对应格式表 · 🕐 门禁时序表 · 每条规则挡住的历史坑（字典）· 写作期防缺陷 8.1–8.5 全文 ·
-独立审查五步法 a–e 全文与「审查过程自身四条纪律」· 词汇 A/B 类裁决规范 · 终验快速检查清单。
+该文件是本工作区体量最大的执行文档（约 119 KB），含**本文件不重复存放**的展开内容：
+体裁对应格式表 · 🕐 门禁时序表 · 每条规则挡住的历史坑（字典）· **写作期防缺陷 8.1–8.5 全文** ·
+**独立审查五步法 a–e 全文**与「审查过程自身四条纪律」· 词汇 A/B 类裁决规范 · 终验快速检查清单 ·
+**配套工具链表全表**（23 个工具）· **新 epub 归档流程全文**。
 **用户说「独立进行五步审查」时同样必读该文件的「独立审查五步法」节**——该触发与「开工」无关，
 可能发生在没有读过模板的会话里，**不许因为「这次只是审查」而跳过**。
 
@@ -130,22 +131,15 @@
 
 **核心规范**：论证结构在精读之前——先看骨架再看语言。可质疑处不得省略，是非虚构精读的价值所在。
 
-## 新 epub 归档流程（books 根目录入库，2026-09-22 固化）
+## 新 epub 归档（`notes/books/` 根目录收到 epub 时）
 
-> 用户把新 epub 投到 `notes/books/` 根目录 → 归档进四类分类目录（novels / mystery-thriller / non-fiction / short-story-anthologies）。五批 110+ 本实战经验固化；体裁判定失败实证见 260912 Lonely Mouth 误判。
+用户把 epub 投到 `notes/books/` 根目录 ⇒ 归档进四类分类目录。**五步操作全文**见
+`docs/新书启动模板.md`「新 epub 归档流程全文」节（2026-09-29 搬入）。
 
-1. **核对是否已归档**：目录名 kebab 化 vs 书名比对；撇号差异（如 `Nabokov's Dozen` vs `nabokovs-dozen`）是 Quartz slugify 噪音，不算缺失。**核对命中（书已有分类目录）时按处置表，不新建目录、不重复插 index 行**：
-   - **重复副本**：library/ 已有同名字节数一致的 epub → 删根目录这份（字节数不一致时**停下问用户**，不擅自覆盖）；
-   - **library/ 空 + 精读已完成 → 同样删根目录副本**（完成口径 = ch*.md 覆盖 text/ 正文（偏移书按 frontmatter `source_text` 对账）+ 总览三篇齐备，短篇合集豁免总览）；将来核验需 epub 时按届时指令拷入；
-   - **library/ 空 + 精读未完成/进行中 → 移入既有 library/**（供 `extract_chapters` 提取）；
-   - **同名不同书/版本存疑**：先 `grep -rl` 全库排除跨书同名，拿不准问用户。
-2. **体裁判定——不凭书名/作者印象，抽检开篇**：
-   - 按 OPF spine 顺序取第一个非 boilerplate 正文；SKIP 列表：acknowledg / about / contents / copyright / title / dedication / toc / nav / praise / cover / epigraph / foreword / intro / also_by / next-reads / dictionary / promotional / index_ / halftitle / series / testimonial / warning。混淆文件名（c9.xhtml / cM.xhtml / index_split_00N）时 fallback = 扫全部 HTML 找 >600–800 字符非 boilerplate 页；拿不准再读 TOC/spine 定真实章数。
-   - **首章风格 ≠ 体裁**：Lonely Mouth 首章回忆录风实为小说——出版方信息 + 叙事人称 + LoC Cataloguing（`LCGPT: Novels` 是权威虚构信号）三方互证；Praise/营销文案的"thriller""mystery"是修辞不是体裁标签。
-   - 边界本（horror / 罪案骨架 / 单篇短故事 / 选集归属不明）一律 AskUserQuestion 用户拍板。
-3. **建目录并移动**：`<cat>/<slug>/library/`（slug = `title-by-author` kebab）；`library/` 在 gitignore 内未被 git 跟踪——**手工 mkdir + mv + rmdir，`git mv` 会报 bad source**。
-4. **收尾对账**：index.md 按字母位插入；对账口径 = 目录名 kebab 化逐一比对 index 链接 slug，**零缺零幽灵才算齐**；顺手查历史缺行（多实例编辑覆盖会丢行——Ripeness 行被并行 edit 冲掉实证）。
-5. **epub 留存**：新书 epub 保留在 library/（待 extract_chapters 提取）；存量已精读书可按用户指令删除 epub、保留空 library/ 目录，核验时拷回。
+**两条红线（不外置，误犯代价不可逆）**：
+- **体裁判定不凭书名/作者印象**——抽检开篇；「首章风格 ≠ 体裁」（Lonely Mouth 回忆录风实为小说）；
+  `LCGPT: Novelic`/`LCGPT: Novel` 与出版方信息、叙事人称三方互证。
+- **同名不同书/版本存疑 ⇒ 停下问用户**，不擅自覆盖；`library/` 未被 git 跟踪，**用 `mkdir`+`mv`+`rmdir`，`git mv` 会报 bad source**。
 
 ## 书籍精读原文核验（verify_quotes 门禁，2026-08-27 新增）
 
@@ -298,36 +292,18 @@
 
 ### 配套工具链（scripts/）
 
-> **速查版**：工具 / 用途 / 命令 / 最关键盲区。**实现坑（①②③④⑤）、实测净值、假红样本全在
-> `docs/实测档案/工具链实测.md`**（2026-09-27 迁出）。**细节查档案、命令查本表，不得各写一份口径。**
+> **速查表已移入 `docs/新书启动模板.md`「配套工具链表全表」节**（2026-09-29，23 个工具）
+> ——逐行「最关键盲区」是**参考**，`AGENTS.md` 预算有限且每次会话都要为注入内容付费。
+> **实现坑、实测净值、假红样本**见 `docs/实测档案/工具链实测.md`。**与该档案不得各存一份**。
 
-| 工具 | 用途 · 命令 · 最关键盲区 |
-|---|---|
-| `verify_corpus.py` | **语料层验收（P0-0，最先跑）** 件数/锚点双向/首末句/转义符 · ⚠️ 不传 `--anchors` 则②整项跳过只报 WARN；`--expect` 不传则①跳过 |
-| `extract_chapters.py` | epub→逐章 `text/` · ⚠️ **提取后必核件数=章数**（短章被 min-len 滤掉）；dropcap 修连正则有误伤 |
-| `verify_quotes.py` | 引语逐字（对 epub 全文）· `python3 scripts/verify_quotes.py "<书目录>" "<epub>"` 及 `--full` · ⚠️ **必须有 epub**（无 epub = 门禁形同虚设）；不覆盖 `00_*.md`；<20 字符短引语不校验；**`--full` 只关指纹优化、不等于整串**（Glass Girl 实测 `--full` + `check_chapter_quotes` 双绿仍漏句/漏词/意思反转；旧表述与下条行冲突，细节见档案） |
-| `check_chapter_quotes.py` | 逐章归属，防跨故事搬句 · ⚠️ `CIRCLED_RE` 的 `>` 可选 ⇒ 梗概裸圈数字行被误抽成引语、**假通过**；P0-5 吞词检测只报不判红 |
-| `check_vocab.py` | 词汇真实性/例句/分档 · ⚠️ **扫描范围比「只扫 ## 词汇」宽**：H2 标题含「词汇/vocab/word list/lexicon」任一即扫；无匹配节标题时**回退全文件扫描**；⚠️ **词形只处理四类屈折（去 `-s`／`-ing`→`+e`／`-ed`／`-ly`），派生与不规则形态一律查不出**（实测 `serenade`／`narcissism`／`indulgence` 对各自真实变形**全部返回「不在」**）⇒ 词头被判「不在」时**可能是 B 类而非 A 类虚构**，须走第 5 条 A/B 裁决、**不可直接删词条**；概述层用 `\|` 分隔会误判，改 `·` |
-| `check_entities.py` | 梗概实体一致性 · ⚠️ **只扫 `## 故事梗概`/`## 本章导航`/`## 梗概` 三节**；作者姓/系列名须 `whitelist.txt` 逐本豁免 |
-| `corruption_scan.py` | 编辑损坏扫描 P1（U+FFFD/双句号/占位崩坏）· `python3 scripts/corruption_scan.py "<书目录>" [--quiet]` · ⚠️ U+FFFD 与双句号判 FAIL；**中文重复片段只报告不判红**（假阳约 50%）。**进提交门禁**——这类损坏六道门禁全看不见 |
-| `sweep_full.py` | 引语**整串** flat 比对（52 字符指纹盲区克星）· `python3 scripts/sweep_full.py "<书目录>" [--quiet]` · ⚠️ **2026-09-27 裁决：进第 3 条提交门禁**（旧表述与同行「终验标准件」自相矛盾；参照集 `text/` 优先、不依赖 epub；理由见档案）。四档含「跨标签拼接 🔶」——flat 查无 ≠ 凭空造词。**另抓「词替换型拼接」：逐字命中但实义词被换成同位置另一词，52 字符指纹与 flat 皆通过、只有整串比对可见**（the-boyfriend ch01 `kiss Daisy`→`kiss her`，verify_quotes 与 check_chapter_quotes 双绿） |
-| `check_overview_full.py` | 总览三篇整串 + 章节标签对账 + **H1 语义校验** + **F 段无引号引语标签对账**（2026-09-28 补：叙述句引语**在原文里不带引号**，旧 `SPAN` 只认引号 ⇒ 该类整类漏检，把标签改成 ch40 也照样报「0 不符」）· ⚠️ 需 epub；**章节标签只报不判红**（分不清错标与有意引相关章）；实现须与 `sweep_full` 同口径 |
-| `verify_overview_quotes.py` | 总览三篇引语门禁 · ⚠️ **概述行内英文引语不在口径内，须逐条人工 grep**；只认 `**①** "…"` 行中格式，`**① "…"**` 整行粗体提取 0 |
-| `check_short_quotes.py` | 短引语兜底（<20 字符被 `verify_quotes` 跳过的那批）· `python3 scripts/check_short_quotes.py "<书目录>"` · ⚠️ 口径必须复用 `verify_quotes`；**跨标签拼接兜底不可省**，否则真引语被报成凭空造词 |
-| `sweep_analysis_inline.py` | 分析层行内英文逐字（P1）· `python3 scripts/sweep_analysis_inline.py "<书目录>" [--quiet]` · ⚠️ **六道门禁都不看分析层**——禁令 3 的唯一事后抓手；七档按优先级，**B 类（语料缺）必须最先判**、partial 必须排在 stem 之前 |
-| `check_anchor.py` | 关键词锚定（P1）· `python3 scripts/check_anchor.py "<书目录>"` · ⚠️ 词全书查无 = FAIL，只在块外 = ⚠️ **不判红**；0 关键词行报「❓ 无法判定」退出码 2 **不算通过** |
-| `audit_structure.py` | 结构扫描（P1）子项/编号/孤儿/重复/配额 · ⚠️ **按书内多数派子项集自校准，不套外部模板**；⚠️ **子项检查是假阴性高发点**（两块各缺一项仍报 0）——它的 0 不等于子项齐全 |
-| `audit_numbers.py` | 计数断言核查（P1）· `python3 scripts/audit_numbers.py "<书目录>"` · ⚠️ **只有「分隔线切 N 段」与「N 次 token」有真值**；`N 个词/分句/字符` 一律不判只列未判；年龄百分比只统计不判 |
-| `check_crossref.py` | 分析层 `chNN "引语"` 是否指对章 · ⚠️ **只认英文模式，中文「第X章」完全不在口径**（本库跨章引用多写在「读者视角提示」里）⇒ 它报「0 对」是**真空绿**；报警≠缺陷，须读行复核 |
-| `build_vocab_table.py` | **生产工具** 三档词表**建表**（`--tiers tiers.json`，格式见 docstring）· 词头逐字验证 + 例句自动抽取 · ⚠️ **任一词头不在本章即退出码 2、拒绝输出**⇒ 例句不可能来自他章、不可能被编造 |
-| `build_vocab_section.py` | **生产工具** 把三档小节写进 md 的 `## 本章词汇`（`<md> <NN> '<head>释义'...` 或 `--glosses <json>`）· **3 项硬断言**（词头须在**本章候选集**内／释义非空／**本脚本将写入的每一行**例句须 flat 命中本章），任一不满足**退出码 2 且不产出** · ⚠️ **空档留空、不插占位行**（`| （本章无X词） |` 会被 `check_vocab` 判 FAIL）；未给释义的候选不写入。**断言的对象是脚本自己将写的行**，不是调用方传来的东西——校验调用方的例句是**死代码** |
-| `vocab_candidates.py` | **生产工具（非检测）** 从 `text/` 打出可粘贴的三档表格行 → 粘贴 → **只填释义** → 某档不足**留空不补** · ⚠️ 敢输出「本章 0 条高级」；档位是长度启发式，错了只报 WARN |
-| `gen_overview.py` | **生产工具（非检测）** 总览三篇**从已核实引语池程序化生成**（`python3 scripts/gen_overview.py <书目录> [模板目录]`；模板**按书隔离**在 `<书目录>/.overview_templates/`，不存在才回退全局 `scripts/overview_templates/`——模板占位符指向该书自己的章号，两本书共用目录会把两套模板交叉写坏）· 池 = 各章已过 `verify_quotes` 的引语块，写入前**再 flat 比对 `text/`**，错章即退出码 2 ⇒ **模板内零手打英文** · ⚠️ 池抽取正则**必须兼容 `**中文理解：**` 与 `**中文理解**：` 两种形态**（不兼容时静默抽 0 条）；症状「引语池无 chNN#1」有**两个**成因：正则不兼容／**漏传书目录参数**（2026-09-29 实测为后者，**排查先确认参数**）· 实现细节见 `docs/实测档案/工具链实测.md` |
-| `audit_book.py` | 一键总账 A/B/C/D · ⚠️ **不含 crossref**；C 节五子项对精简格式全量误报 |
-| `pick_quotes.py` | 检索式选句辅助（Hermes 产）· `python3 scripts/pick_quotes.py <NN> [count]` |
-| **采集/协作（非门禁）** | `fetch_paris` / `fetch_lithub` / `fetch_granta` / `fetch_brainpickings`（四个 RSS 源）· `grab_epub` · `sort_collab_messages`｜发消息走 `post_collab.py`（抬头由脚本生成，勿手写）→ 规则见 `COLLABORATION.md` 抬头，完整指令见 `docs/协作板更新指令.md` |
+**提交门禁必跑的 6 个**（第 3 条命令块即执行入口）：
+`verify_corpus`（语料层，最先跑）· `verify_quotes`（引语逐字）· `check_vocab`（词表）·
+`check_entities`（实体）· `corruption_scan`（编辑损坏）· `sweep_full`（整串 flat）
 
-**命令**见第 3 条（提交门禁）与 8.4（抽查）；**时序**见 `docs/新书启动模板.md`「🕐 门禁时序表」；**每个脚本的完整命令、实现坑与实测数据**见 `docs/实测档案/工具链实测.md`。
+**其余按需**：逐章归属 `check_chapter_quotes` · 词表构建 `build_vocab_table` / `build_vocab_section` /
+`vocab_candidates` · 总览生成 `gen_overview` · 抽查 `audit_numbers` / `sweep_analysis_inline` /
+`check_anchor` / `audit_structure` · 总览门禁 `verify_overview_quotes` / `check_overview_full`。
+**发协作板消息走 `post_collab.py`**（抬头由脚本生成，勿手写）→ 见 `docs/协作板更新指令.md`。
 ### ⚠️ 规则文档自身的编辑纪律（2026-09-27 新增）
 
 > **本节是关于「怎么改这份文件」的规则。** 它由一次实测事故换来：本文件曾涨到 **100,670 B**，
