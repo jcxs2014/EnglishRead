@@ -48,7 +48,7 @@ modified: "2026-09-29"
 **中文理解**：我们。凡事都是「我们」。你对着我一个人。
 **关键词**：Everything is we / You against me
 **为什么这样写**：她用短句把一团「我们」拆成一对一：一个词、一个反身指代、一个介词短语，一步步把「家庭」这个词清空；同一章的餐桌上，婆婆刚用「Because we knew you couldn’t carry, sweetie.」把动机整个包进「我们」里。
-**读者视角提示**：上一章她也在丈夫面前用过一次把「我们」拆开的句式（第 34 章：「We? More like me, William.」）；这一回对面换成的不只是丈夫，还有替他布场的母亲。
+**读者视角提示**：更早的第 34 章她也在丈夫面前用过一次把「我们」拆开的句式：「We? More like me, William.」；这一回对面换成的不只是丈夫，还有替他布场的母亲。
 
 > **原句 6:** "A girl with green eyes, just like your mother’s relatives. Do you know the odds of green eyes in a Negro child? Even if she is mixed-race."
 

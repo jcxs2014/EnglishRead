@@ -20,13 +20,13 @@ modified: "2026-09-29"
 **中文理解**：我要是告诉你，就得把你毙了。
 **关键词**：If I told you / I'd have to shoot you
 **为什么这样写**：Nadine 用黑帮片的口吻交代自己违规搞到了出门条；条件句（If）让这句玩笑成立，同时把"怎么做到的"这一页永远合上——读者和她都知道有门路，只是门路不外传。
-**读者视角提示**：这句话把上一章那句"她的姓替她把门都打开了"落到了实处：门路存在，代价是它属于她。
+**读者视角提示**：这句话把第二章那句"她的姓替她把门都打开了"落到了实处：门路存在，代价是它属于她。
 
 > **原句 2:** "I bet you spend more time with books than people,” he teased, showing perfectly stacked teeth."
 
 **中文理解**：我敢说你在书上的时间比在人身上多，他逗我，露出叠得整整齐齐的牙。
 **关键词**：I bet you spend more time with books than people / showing perfectly stacked teeth
-**为什么这样写**：调侃的内容正是她上一章自我辩解的那套（"当图书管理员"），却被他说成"人不如书"；紧跟的牙齿细节把言语的锋利转成一张笑脸，让攻击与示好同时发生。
+**为什么这样写**：调侃的内容正是她第二章自我辩解的那套（"来霍华德是为了将来去教书"），却被他说成"人不如书"；紧跟的牙齿细节把言语的锋利转成一张笑脸，让攻击与示好同时发生。
 **读者视角提示**：紧接着的 "Sometimes they are better company" 是她的回话——两人第一次以玩笑的方式交换了各自的偏好。
 
 > **原句 3:** "Pledges on the line were to be seen but never heard as they assured their loyalty to Alpha Beta Chi."
@@ -47,7 +47,7 @@ modified: "2026-09-29"
 
 **中文理解**：我们小时候几乎是一起洗澡长大的，她笑着说。
 **关键词**：We practically bathed together / as children / laughed
-**为什么这样写**：Greta 用一句童年细节抢占亲密关系的所有权，"practically" 是她唯一的松动；这句与上一章 Nadine 说 Millicent 那两家"都毕业于霍华德，这叫 legacy"同型，家族资本在这里由女性亲口宣示。
+**为什么这样写**：Greta 用一句童年细节抢占亲密关系的所有权，"practically" 是她唯一的松动；这句与第二章 Nadine 说 Millicent 那两家"都毕业于霍华德，这叫 legacy"同型，家族资本在这里由女性亲口宣示。
 **读者视角提示**：随后那句 "Our families are very close" 更空——真正被展示的是资格，不是感情。
 
 > **原句 6:** "Greta’s skin was so white the only thing that identified her as a Negro was that she attended Howard with the rest of them."
@@ -55,7 +55,7 @@ modified: "2026-09-29"
 **中文理解**：Greta 的皮肤白到，唯一还能标明她是黑人的，就是她和他们一样在霍华德读书。
 **关键词**：so white / the only thing that identified her as a Negro / attended Howard
 **为什么这样写**：叙述者用一句"除了……没有别的"把肤色写成一纸档案的最后一项注册信息；讽刺不靠形容词，靠的是把族裔归到在校籍这一条行政事实之下。
-**读者视角提示**：这句与上一章 Nadine 说的"比纸袋还白的皮肤"互为镜像——上一章那是被嘲的潜规则，这一句是叙述者自己的清算。
+**读者视角提示**：这句与第二章 Nadine 说的"比纸袋还白的皮肤"互为镜像——第二章那是被嘲的潜规则，这一句是叙述者自己的清算。
 
 > **原句 7:** "It wasn’t until she landed outside and felt the cool night air graze her knuckles that she realized she was still clutching William’s handkerchief."
 
@@ -124,4 +124,4 @@ modified: "2026-09-29"
 
 ## 一句话总结
 
-舞池上她被当作一件可以期待的东西，灯光一暗就被当众泼了一身饮料——本章让上一章那封拒信从纸面走进来、长了脸，而她带出场的唯一物证是一块不属于她的手帕。
+舞池上她被当作一件可以期待的东西，灯光一暗就被当众泼了一身饮料——本章让第二章那封拒信从纸面走进来、长了脸，而她带出场的唯一物证是一块不属于她的手帕。

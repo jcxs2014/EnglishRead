@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "As one of twelve Negro students chosen from across the city of Philadelphia, I was competing to receive a full four-year scholarship to Cheyney University, the oldest historically Negro college in the country."
 
-**中文理解**：作为全费城选出的十二名黑人学生之一，我正争取获得切ney 大学四年的全额奖学金——那是全国最古老的黑人历史学院。
+**中文理解**：作为全费城选出的十二名黑人学生之一，我正争取获得切尼（Cheyney）大学四年的全额奖学金——那是全国最古老的黑人历史学院。
 **关键词**：twelve Negro students / full four-year scholarship / historically Negro college
 **为什么这样写**：三个限定成分（twelve Negro students／across the city of Philadelphia／Negro）把一个人的机会写成了制度性稀缺的产物，奖学金因此不只是钱，而是一道被制度和家计同时卡住的门：原文紧接着就写 "No one in my family had been to college, nor could they afford to send me"，把别的可能直接否掉了。句尾 "the oldest historically Negro college in the country" 则用最高级把学校的历史与她的处境并置。
 **读者视角提示**："competing to receive" 是进行体，说明考试还没结束，她此刻每一次迟到都直接扣在筹码上。
