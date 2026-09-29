@@ -141,6 +141,8 @@ def main():
     ap.add_argument("--note", help="抬头里的补充标记，如 '审查结论'")
     ap.add_argument("--at", help="完工时间 `YYYY-MM-DD HH:MM UTC`（新建板消息必填；追加时不需要，标题不动）")
     ap.add_argument("--append", action="store_true", help="就地追加到已有条目，而不是新建")
+    ap.add_argument("--replace", action="store_true",
+                    help="整体重写我已有的那一条（完工+审查合并压缩时用）；标题里的完工时间原样保留")
     ap.add_argument("--limit", type=int, default=20, help="板消息行数上限（默认 20）")
     ap.add_argument("--maxbytes", type=int, default=2500)
     a = ap.parse_args()
@@ -207,7 +209,7 @@ def main():
     hit = [e for e in ents if a.book in e]
 
     # 门禁 2：每书一条
-    if hit and not a.append:
+    if hit and not (a.append or a.replace):
         kind = "每主题只应一条" if a.topic else "每书只应一条"
         print(f"❌ 「{a.book}」在 {path} 已有 {len(hit)} 条条目——{kind}。\n"
               f"   追加结论请用 --append 就地并入既有条目（AGENTS：就地编辑，不新开条目）。\n"
@@ -216,7 +218,7 @@ def main():
 
     before = len(ents)
     # 抬头只在**新建**时生成；追加路径标题原样保留（完工时间不变，审查时间写进正文）
-    if a.mode == "board" and not (hit and a.append):
+    if a.mode == "board" and not (hit and (a.append or a.replace)):
         if not a.at:
             print("❌ 新建板消息必须给 --at「<完工时间 YYYY-MM-DD HH:MM UTC>」——\n"
                   "   板上按完工时间排序（最新在前），不是按发帖时间；"
@@ -234,22 +236,39 @@ def main():
                   f"   逐行输出、三档定性、原文支撑行号等明细请用 --mode daily 写进工作日志。")
             return 2
 
-    if hit and a.append and a.mode == "board":
+    if hit and (a.append or a.replace) and a.mode == "board":
         head = hit[0].split("\n")[0]
         if heading_identity(head) != ident:
             print(f"❌ 该条目不属于 {ident}（抬头：{head[:70]}）——"
                   f"**不得修改其他实例的消息**。\n   如需补充，在自己名下另发一条并注明指向。")
             return 2
-    if hit and a.append:
-        # 追加只动正文，**标题（完工时间 + 身份）原样保留**——审查结论的时间写进正文
+    if hit and (a.append or a.replace):
+        # 追加/重写只动正文，**标题（完工时间 + 身份）原样保留**——审查结论的时间写进正文
         s = text.index(hit[0])
         e = s + len(hit[0])
         # ⚠️ 正文里**没有抬头**（抬头只在新建时生成），所以这里直接用 body 原样追加。
         # 早前写成 body.split("\n", 1)[1] 是为了剥掉自动抬头，改版后它会**吃掉正文第一行**，
         # 单行正文还会 IndexError——2026-09-29 自测抓到。
-        merged = hit[0].rstrip() + "\n\n" + body.strip() + "\n\n"
+        if a.replace:
+            # 整体重写：保留原抬头（完工时间与身份不动），只换正文
+            old_head = hit[0].split("\n", 1)[0]
+            merged = old_head + "\n\n" + body.strip() + "\n\n"
+        else:
+            merged = hit[0].rstrip() + "\n\n" + body.strip() + "\n\n"
         if text[e:e + 1] == "\n":
             e += 1
+        # ⚠️ 长度门禁必须查**合并结果**：完工那条本就占掉一半额度，
+        # 只查追加片段的话，完工 18 行 + 审查 18 行 = 36 行照样「成功」
+        # （2026-09-28 实测板上 16 条超限里 11 条正是这样来的）
+        mn, mb = merged.count("\n") + 1, len(merged.encode())
+        if mn > a.limit or mb > a.maxbytes:
+            act = "重写" if a.replace else "追加"
+            print(f"❌ {act}后整条 {mn} 行 / {mb} B，超出 {a.limit} 行 / {a.maxbytes} B —— 未写入。\n"
+                  f"   现有 {hit[0].count(chr(10)) + 1} 行，本次新增 {body.count(chr(10)) + 1} 行。\n"
+                  f"   **请把完工要点与审查结论合并压缩到 {a.limit} 行以内，用 --replace 整体重写**：\n"
+                  f"     python3 scripts/post_collab.py board <新正文> --book \"<书>\" --me \"<身份>\" --replace\n"
+                  f"   压缩时必须两段都在——完工的门禁数字与审查的缺陷数是后来者唯一的入口。")
+            return 2
         new = text[:s] + merged + text[e:]
         act = "已就地并入既有条目"
     else:
