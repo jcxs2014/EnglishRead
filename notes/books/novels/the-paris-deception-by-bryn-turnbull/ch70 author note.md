@@ -136,7 +136,7 @@ modified: "2026-09-28"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | vandalism | 蓄意破坏 | In March 1939, following an auction of the most prominent works of art within the exhibition in Lucerne, the Berlin fire department burned over 4,000 paintings, sculptures, drawings and books outside the Reichstag—a shocking act of vandalism that was repeated outside the Jeu de Paume on the night of July 27, 1942. |
-| resistance | 抵抗 | In 2005, the Musée Jeu de Paume formally recognized the wartime heroism of Rose Valland by installing a plaque on the side of the building which chronicles her time with the French Resistance. |
+| Resistance | 法国抵抗运动（**本章只以专有名词出现，小写 `resistance` 全书 0 次**） | In 2005, the Musée Jeu de Paume formally recognized the wartime heroism of Rose Valland by installing a plaque on the side of the building which chronicles her time with the French Resistance. |
 | acrylics | 丙烯颜料 | These formulations were the inspiration for Sophie’s petroleum-based acrylics in The Paris Deception. |
 | provenance | 来源；出处 | Today, there is still an ongoing effort by the families of the victims to recover masterpieces stolen from them, not only from private collections but from public institutions which, knowingly or unknowingly, acquired artwork of dubious provenance. |
 | plundered | 被掠夺的 | Throughout the course of the war, Germany plundered hundreds of thousands of works of art—an estimated 20 percent of all artworks in Europe—from those opposed to Nazi ideology: Jewish families, Communists and Freemasons. |
