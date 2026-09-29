@@ -10,7 +10,7 @@ modified: "2026-09-28"
 - **一句话概括**：周六夜之后的 7 月，Sophie 骑车到 Jeu de Paume，在修复室里见到拄着拐的 Gerhardt，得知他们一共抢出了一百零七件作品；中午 Richter 叫她下楼，后院已经堆满没救成的画，Bohn 上校穿着红十字会制服宣布有四名德国士兵阵亡、把袭击定性为犹太人阴谋，随即让士兵浇上汽油点了火；Rose 当众顶撞他、非要替自己辩护，反把他逼到暴怒；Bohn 点名要 Gerhardt 摘掉手杖、用枪托击他的头逼他供出同谋，Gerhardt 始终不答，最后被他一把推进火里。
 - **情感弧线位置**：**全书最重的一次失败**——前两章的胜利在这一章被当场对冲（剩下的画更多），而这一章唯一的收获（Gerhardt 的忠诚）是用他的命换的。
 - **Tropes 兑现/反转**：**兑现**——"纳粹自我审判大会"这一整套（红十字制服配万字章、公开忏悔、焚烧仪式）；**反转**——Rose 的反抗**不但没有救人，反而激怒了 Bohn**（作者用**两个句子**（句号分隔）把两种结果并排：`Rose hadn’t chastened him. She’d goaded him to fury.`）；第二个反转是 Gerhardt：他不是被揭穿的，而是**主动替所有人认下罪名后仍然不开口**。
-- **人物弧线**：Gerhardt 从上一章那个用笑话挡子弹的人变成**用沉默还债的人**——作者给他的准备只有一个动作（`looking up at the second story of the museum`），**他抬头看的是自己工作的地方，不是求救的人。** Sophie 从"报信者"退到"不能上前的人"；Richter 全程只做两件事：低头看别处，以及被 Bohn 恨。
+- **人物弧线**：Gerhardt 从上一章那个用笑话挡子弹的人变成**用沉默还债的人**——作者给他的准备只有一个动作（`looking up at the second story of the museum`），**他抬头看的是自己工作的地方，不是求救的人。** Sophie 从**这次行动的策划者**（`she who had masterminded tonight’s audacious heist`）退到"不能上前的人"；Richter 全程只做两件事：低头看别处，以及被 Bohn 恨。
 - **叙事手法**：第三人称限知（Sophie）；**倒装**——先给好消息（数字、拥抱、约定），再让 Bohn 一段自白把好消息推翻；**火的两次出现构成框**：先是员工的旧账（`she'd known that horrible fact from the outset`），再是眼前的火，而作者故意让它烧在白天。
 
 ## 精读
@@ -57,7 +57,7 @@ modified: "2026-09-28"
 
 **关键词：** in adherence with the principles set down by our Führer / I see now that I have been lax in my leadership / I allowed baser instincts of profit and gain to derail my commitment / the ideological purity of the Nazi party
 
-**为什么这样写：** 这段忏悔用**"允许"这个词自首**：`I allowed`（是我允许了）——**一个党用"领导不力"来完成一次对内的清场，把所有责任推给下级的心态本身。** `baser instincts of profit and gain`（逐利与牟取的卑劣本能）里的 `baser`（更卑劣的）是比较级，**它需要一个更干净的东西作比较对象，而作者故意不给出那个东西**；`derail`（使脱轨）是铁路词，**用在一个自称纯洁的组织身上，等于承认自己本该在一条固定的轨道上。** 末句 `the ideological purity of the Nazi party` 里那个所有格 `the Nazi party`——**忏悔者把党说成了一件物。**
+**为什么这样写：** 这段忏悔用**"允许"这个词自首**：`I allowed`（是我允许了）——**一个党用"领导不力"来完成一次对内的清场，把所有责任推给下级的心态本身。** `baser instincts of profit and gain`（逐利与牟取的卑劣本能）里的 `baser`（更卑劣的）是比较级，**它需要一个更干净的东西作比较对象，而作者故意不给出那个东西**；`derail`（使脱轨）是铁路词，**用在一个自称纯洁的组织身上，等于承认自己本该在一条固定的轨道上。** 末句 `the ideological purity of the Nazi party` 里那个**定冠词名词短语** `the Nazi party`——**忏悔者把党说成了一件物。**
 
 **读者视角提示：** 紧接着这个人在院子里烧了画；**作者把"自责"和"焚毁"放在同一段里，中间只隔一个手势。**
 

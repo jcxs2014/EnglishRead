@@ -7,11 +7,11 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-- **一句话概括**：1944 年 5 月，Sophie 藏身处的第三个星期，Fabienne 独自守着空掉的 Dolus 城堡、别人的婴儿 Isaac 和一条狗 Hugo——她父母与 Cohens 一家下葬才两周，Sébastien 也已连夜从后山走掉；就在这天早上，**酒政使 Otto Klaebisch 登门**，带来两条消息：de Vogüé 因通敌被捕，庄园即将被德军征用；Fabienne 答以一个赌局——**九月收成之前她独自把葡萄收完，收成失败就把地契房产钥匙一并交出**。
-- **情感弧线位置**：**这是 Fabienne 个人线的最低点，也是全书唯一一场以"谈判"形式出现的赌命**。她在这一章里没有武器、没有同伴、没有假画可用，**手上一张牌是"我知道你的弱点"**——而那张牌是上一章的 Sophie 教给她的。
+- **一句话概括**：1944 年 5 月，**Fabienne 独自守着**（**本章没有 Sophie**）空掉的 Dolus 城堡、别人的婴儿 Isaac 和一条狗 Hugo——她父母与 Cohens 一家下葬才两周，Sébastien 也已连夜从后山走掉；就在这天早上，**酒政使 Otto Klaebisch 登门**，带来两条消息：de Vogüé 因通敌被捕，庄园即将被德军征用；Fabienne 答以一个赌局——**九月收成之前她独自把葡萄收完，收成失败就把地契房产钥匙一并交出**。
+- **情感弧线位置**：**这是 Fabienne 个人线的一次低谷**（ch60 已把她的线推到更低处）。她随身带着 **Sébastien 的手枪**（`she tucked Sébastien’s pistol, never far from reach`）、没有同伴、没有假画可用，**手上一张牌是"我知道你的弱点"**——而那张牌是她自己的旧本事（**上一章 ch63 全章没有 Fabienne**）。
 - **Tropes 兑现/反转**：**兑现**——"落魄贵族以庄园为抵押换缓期"的老赌局；**反转**是作者把它接到父亲的一句话上：`War brings bad harvests.`（战带来坏收成）父亲当年说这话时是预言，她**把它翻译成赌注**（`If the harvest fails, I’ll... I’ll give you Château Dolus`），于是亡父的哀言在她这里变成一场豪赌。
 - **人物弧线**：**Fabienne 从"被保护的人"变成"上桌的人"**——作者用一支不存在的口红完成这次升级（`wishing she had a swipe of red lipstick to complete the effect she’d honed so many years ago`）：**她要的不是化妆，是气势**，而化妆品只是气势曾经穿过的衣服。**而 Klaebisch 从"德国人"缩回"享乐主义者"**，作者用她占领初年在酒吧见过"他那一类人"的记忆解释这个人为什么吃这套（原文 `She’d met his type in the lonely, hardscrabble days at the start of the occupation`）——**一个觉得自己高过所有人的人，是可以买通的，因为自大是一种需求。**
-- **叙事手法**：第三人称限知（Fabienne）；**外部威胁（德国军官上门）与内部需求（喂奶、挤羊奶、扶葡萄、修牛车轮）交替（**原文无 `roof`**）**：每一次威胁被打断都是**孩子的哭声**，而作者让每一次打断都恰好遮住她失态的那一瞬。全章用**赌局的两次握手**（`Until harvest.` 说了两遍）封住开头与中段，结尾才把赌注翻面。
+- **叙事手法**：第三人称限知（Fabienne）；**外部威胁（德国军官上门）与内部需求（喂奶、挤羊奶、扶葡萄、修牛车轮）交替（**原文无 `roof`**）**：每一次威胁被打断都是**孩子的哭声**，而作者让每一次打断都恰好遮住她失态的那一瞬。全章的握手**只发生在中后段一次**（Klaebisch 一次、她回一次，`Until harvest.` 前后各一次）——开头是婴儿与挤羊奶，结尾才把赌注翻面。
 
 ## 精读
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **关键词：** I don’t care to discuss the particulars of what happened to them / I’m not some fanatic like so many of my countrymen / it is entirely beyond my purview / What matters to me is the wine.
 
-**为什么这样写：** 四个短句，每句一个否定，**否定到最后只剩一个名词**——`What matters to me is the wine.`（我在意的只有酒）。作者把这一串自辩写得像一份免责声明，而英语里 `I don’t care to…`（我不想谈）比 `I refuse to…`（我拒绝谈）**弱得多**——**前者是不感兴趣，后者是拒绝**；一个真正的德国官僚会选后者，他选的是前者，因为**他真的不在乎**。`purview`（权限范围）这个词是全章最专业的一个：它来自法律与官僚语境，**作者用它替代"我管不着"——一个把"不作为"说成职务边界的人。**
+**为什么这样写：** 四个短句，前三句各一个否定，**否定到最后只剩一个名词（第四句 `What matters to me is the wine.` 无否定）****——`What matters to me is the wine.`（我在意的只有酒）。作者把这一串自辩写得像一份免责声明，而英语里 `I don’t care to…`（我不想谈）比 `I refuse to…`（我拒绝谈）**弱得多**——**前者是不感兴趣，后者是拒绝**；一个真正的德国官僚会选后者，他选的是前者，因为**他真的不在乎**。`purview`（权限范围）这个词是全章最专业的一个：它来自法律与官僚语境，**作者用它替代"我管不着"——一个把"不作为"说成职务边界的人。**
 
 **读者视角提示：** 这四句是全书对"平庸之恶"最准确的一次描述：**他不是在掩饰，他是在陈述自己。**
 
@@ -69,7 +69,7 @@ modified: "2026-09-28"
 
 **关键词：** I disagree / If the harvest fails / I’ll... I’ll give you Château Dolus.
 
-**为什么这样写：** 这是全章的赌注，作者只给了**六个字的下定决心**：`I disagree.`（我不同意）——连一个理由都没有，因为**理由会露怯**。然后是赌局的全部：``If the harvest fails, I’ll... I’ll give you Château Dolus.``——**`If` 一个从句就把一个条件句写成了一份契约**，而 `I'll` 的重复（我就会……我就会……）**不是因为她犹豫，是因为她在赌桌前需要听一遍自己押了什么**。作者随后立刻插入那个念头（**原文此处无破折号**）（`Irresistibly, she thought of her great-grandfather, staking a hand of cards against a sneering nobleman`）：**她赌的不是庄园，是她曾祖父那一手。**
+**为什么这样写：** 这是全章的赌注，作者只给了**两个词的下定决心**：`I disagree.`（我不同意）——连一个理由都没有，因为**理由会露怯**。然后是赌局的全部：``If the harvest fails, I’ll... I’ll give you Château Dolus.``——**`If` 一个从句就把一个条件句写成了一份契约**，而 `I'll` 的重复（我就会……我就会……）**不是因为她犹豫，是因为她在赌桌前需要听一遍自己押了什么**。作者随后立刻插入那个念头（**原文此处无破折号**）（`Irresistibly, she thought of her great-grandfather, staking a hand of cards against a sneering nobleman`）：**她赌的不是庄园，是她曾祖父那一手。**
 
 **读者视角提示：** 这六个字是全书女主线最重的一次语言动作：**她学会的第一种政治（谈判）在这里第一次用在她自己身上。**
 
@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **关键词：** Her family’s claim to Château Dolus had come with such a bluff / Sébastien might think her mad to take such a risk / Fabienne knew that Chateau Deceit would, this time, work in her favor
 
-**为什么这样写：** 三个完成时连成一句：`had come`（已经得到）→ `might think`（可能会觉得）→ `knew that`（知道）——**作者让"已经完成"与"他知道"在同一个时区里相遇**。`Chateau Deceit`（欺骗城堡）是这本书名字的直译，而作者把它**拟人化**（`work in her favor`——为她效力）——**一座城堡第一次成了盟友**。而那个 `this time`（这一次）承担了全书最重的一句潜台词：**这座城堡叫"欺骗"，以前每次都是别人骗她。**
+**为什么这样写：** 三个**时区**连成一句（`might think` 是情态、`knew that` 是一般过去时，**只有 1 个完成时**）：`had come`（已经得到）→ `might think`（可能会觉得）→ `knew that`（知道）——**作者让"已经完成"与"他知道"在同一个时区里相遇**。`Chateau Deceit`（欺骗城堡）是这本书名字的直译，而作者把它**拟人化**（`work in her favor`——为她效力）——**一座城堡第一次成了盟友**。而那个 `this time`（这一次）承担了全书最重的一句潜台词：**这座城堡叫"欺骗"，以前每次都是别人骗她。**
 
 **读者视角提示：** 这是作者再一次让书名在正文里发言（`Chateau Deceit` 早在 ch26／ch27／ch45 出现过）：**`Chateau Deceit would, this time, work in her favor` 这一行是全书题眼的回响。**
 

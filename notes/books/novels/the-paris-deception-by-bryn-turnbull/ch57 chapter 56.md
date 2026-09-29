@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **为什么这样写：** 这两句是**全章的伪装与拆穿**，而且拆穿是作者主动交给读者的：`at a distance`（远远看去）先承认距离是唯一的保护，`however` 一转，`Were anyone to look closer`（要是有人走近看）立刻把保护取消。分号（`;`）把视线从一张脸移到一个人身上（**原文此处无破折号**）：**先是 Gerhardt 出汗的脸，再是 Fabienne 蹲在脚坑里的身体——作者用"距离"这个词把两个人一起藏了起来，而距离一撤掉，两个人同时暴露。** `legitimate`（正规的）这个词在英语里带"名分"义，**作者用它说一身偷来的制服，而制服里的人也是。**
 
-**读者视角提示：** `the woman crouching in the passenger side’s footwell`（那个蜷在副驾脚坑里的女人）是全章唯一一次把 Fabienne 写成货物本身；**记住这个姿势，它到日出都没变。**
+**读者视角提示：** `the woman crouching in the passenger side’s footwell`（那个蜷在副驾脚坑里的女人）是全章唯一一次把 Fabienne 写成货物本身；**记住这个姿势——她中途就抬身离开了脚坑去望后窗。**
 
 ---
 
@@ -57,7 +57,7 @@ modified: "2026-09-28"
 
 **关键词：** I think we can agree / recalling a terse conversation she’d had with Sophie several years ago / legality is something of a fluid concept in times of war
 
-**为什么这样写：** 父亲只问了三个字（`Is it illegal?`），作者用一个**插入语**（`recalling a terse conversation...`）把这句话的出处提前交代：**这不是 Fabienne 现在的发明，是她几年前从 Sophie 那里学来的说法**——因此这句俏皮话同时是引用、是把柄。`fluid concept`（流动的概念）里 `fluid`（流动的）先是水的形容词，被搬来修饰抽象名词，**于是"合法"被写成一种可以流动的液体，也就是不存在的意思。** 全句是间接引语，被拆成两半夹住这个插入语，**这让一句玩笑在语法上就一直悬在说话人和听的人之间。**
+**为什么这样写：** 父亲只问了三个字（`Is it illegal?`），作者用一个**插入语**（`recalling a terse conversation...`）把这句话的出处提前交代：**这不是 Fabienne 现在的发明，是她几年前从 Sophie 那里学来的说法**——因此这句俏皮话同时是引用、是把柄。`fluid concept`（流动的概念）里 `fluid`（流动的）先是水的形容词，被搬来修饰抽象名词，**于是"合法"被写成一种可以流动的液体，也就是不存在的意思。** 全句是**直接引语**，被插入语拆成两半，**这让一句玩笑在语法上就一直悬在说话人和听的人之间。**
 
 **读者视角提示：** `recalling` 这个分词把"她想起来了"写得比"她说了"更重要；**记住这个插入语结构——它把一句俏皮话变成了一次旧账的重提。**
 
@@ -105,7 +105,7 @@ modified: "2026-09-28"
 
 **关键词：** Papa shrugged and finished the last of his coffee / why would she? You’re not a guest / stepping carefully over the artwork on the floor / You’re family
 
-**为什么这样写：** 全书的收束句只有两个词，而它的前面是一整段否定：**`You’re not a guest`（你不是客人）先取消了那个称号，紧接着 `You’re family`（你是家里人）换上一个更重的。** 中间那个动作（`stepping carefully over the artwork on the floor`）是这段话真正的连接点：**父亲已经踩着满地的画转身回屋，而他说出来的话却还在纠正一个称呼。** `Well, why would she?`（也是，她为什么要）这个反问把女儿的抱怨轻轻挡回去，**而全句没有一个形容词**——**这份承认之所以重，正因为它一点也不激动。**
+**为什么这样写：** **本章**的收束句只有两个词，而它的前面是一整段否定：**`You’re not a guest`（你不是客人）先取消了那个称号，紧接着 `You’re family`（你是家里人）换上一个更重的。** 中间那个动作（`stepping carefully over the artwork on the floor`）是这段话真正的连接点：**父亲已经踩着满地的画转身回屋，而他说出来的话却还在纠正一个称呼。** `Well, why would she?`（也是，她为什么要）这个反问把女儿的抱怨轻轻挡回去，**而全句没有一个形容词**——**这份承认之所以重，正因为它一点也不激动。**
 
 **读者视角提示：** `You’re not a guest` 与上一块里 `your friend is in pain` 是同一种误解的两次说法；**父亲用一句话把女儿从"客"改成"家里人"，而这正是她从巴黎一路想要的答案，只是她没向他要过。**
 

@@ -9,7 +9,7 @@ modified: "2026-09-28"
 
 - **一句话概括**：1944 年 5 月，Sophie 应邀走进 Konrad Richter 在香榭丽舍大道旁马蒂尼翁大街的公寓，一边忍受他的动手动脚，一边把墙上的画逐幅登记成一份清单；当他用"你在毁坏艺术的那晚烧了它"来自我开脱时，她抛出一颗核弹——**他墙上那些"堕落艺术收藏"里的名画，全是假画**；他勒住她的脖子，她拿威士忌杯砸开他的手，随即补上第二击把他打晕在白地毯上，然后趁他昏迷把整间公寓的画一一点名造册。
 - **情感弧线位置**：**这是 Sophie 私人线的高潮与反转同刻发生的一章**——前半段她还是"为了名单忍受一切的同谋"，后半段她当着施暴者的面把四年的隐忍一次结清。**而本章是全书对 Gerhardt 之死唯一一次正面清算**：索偿的方式不是法庭、不是复仇，是**一句判决**（`it’s a fraud. Just like you.`）。
-- **Tropes 兑现/反转**：**兑现**——"美人计／情报员以身体换取接近权"，她确实被摸、被亲、被按在窗边；**反转**——她所有的顺从只是为了**在墙上逐幅记名**，而他以为自己是鉴赏家，其实是她的标本对象。第二个反转是他最珍视的那幅 Rembrandt：他问"那收藏家后来怎么了"，她心里只记下一个动词 `Was.`。
+- **Tropes 兑现/反转**：**兑现**——"美人计／情报员以身体换取接近权"，她确实被摸、被亲、被按在窗边；**反转**——她所有的顺从只是为了**在墙上逐幅记名**，而他以为自己是鉴赏家，其实是她的标本对象。收藏家提问与那个只记下 `Was.` 的瞬间属于 **Dosso Dossi 的肖像**（`Guttman`），不是 Rembrandt；Rembrandt 那一段里没有人问收藏家。
 - **人物弧线**：**Sophie 从内鬼变成宣告者**——`A cold fury built within her` 到 `her cold fury built into a raging fire`，作者用同一个 `fury` 词的两个时态完成她的转变；**而 Richter 从鉴赏家变成藏品**：她说 `To Richter, she was just another work of art to add to his collection.`，**这句话是全书对"掠夺"最省力的定义**。
 - **叙事手法**：第三人称限知（Sophie）；**单场景三段式**：进门与巡视（探查，视觉为主）→ 摊牌（对话，最短）→ 施暴与登记（动作，收尾是清单式特写）。作者在中间插入两次回忆（账本、Gerhardt 的火堆）打断节奏，**而全章最冷的笔法是最后一句——她一边等他醒一边数画，因为这一章里他真的成了一堆画。**
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **关键词：** She owed it to Gerhardt to finish what he’d started / identifying whatever Richter had pilfered for himself for his Parisian apartment / and she would withstand Richter’s advances, if necessary, to do it
 
-**为什么这样写：** `She owed it to Gerhardt`（她欠 Gerhardt 一个交代）把**个人复仇翻译成了义务**——语法上是一次 `owed`（亏欠）的移转，而债主是一个已经死了的人。破折号后的 `and she would withstand Richter’s advances, if necessary, to do it` 用一个条件状语 `if necessary`（如果必要）**预先授权了自己的身体**，作者随即让后半章去兑现这个条件。`pilfered`（窃取）这个动词的偷字旁在整个词中间，**而 Richter 自己的用词是 `acquiring`、`securing`**——**同一个人对同一批画有三种说法，这就是全书对伪善的全部技术。**
+**为什么这样写：** `She owed it to Gerhardt`（她欠 Gerhardt 一个交代）把**个人复仇翻译成了义务**——语法上是一次 `owed`（亏欠）的移转，而债主是一个已经死了的人。破折号后的 `and she would withstand Richter’s advances, if necessary, to do it` 用一个条件状语 `if necessary`（如果必要）**预先授权了自己的身体**，作者随即让后半章去兑现这个条件。`pilfered`（窃取）以 `pilf-` 起首、词中段是 `fer`（拿取），**而 Richter 自己的用词是 `acquiring`、`securing`**——**同一个人对同一批画有三种说法，这就是全书对伪善的全部技术。**
 
 **读者视角提示：** 这一句是全章的引擎：**她忍下去，是因为她欠一个死人。**
 
@@ -83,7 +83,7 @@ modified: "2026-09-28"
 
 **为什么这样写：** `he repeated`（他重复道）三个字紧跟上一段——**作者用它标记"同一个人在自说自话"**，而这一重复恰好把 `I knew I’d be the one to break through` 变成一句**无人反驳的预言**。`That armor of tweed and indignation`（那身粗花呢与义愤的盔甲）把 `indignation`（义愤）**铸成了一件可以穿的东西**，于是道德成了护甲、克制成了伪装。最后 `Perfect, abject propriety...`（完美的、可鄙的规矩）用两个形容词加一个省略号收尾——**`abject`（可鄙的）是英文里少见的、专门用来骂"丑态"的词，而作者把它和 `Perfect` 并列，让赞美的语序自己崩掉。**
 
-**读者视角提示：** 他描述的这副"盔甲"与她在 Richter 登记簿上抄的东西是同一件事的两面（**原文没有《吉赛尔》这出戏——`Giselle` 全书 0 次**）：**别人看穿的是姿态，她抄下的是账。**
+**读者视角提示：** **别人看穿的是姿态，她抄下的是账**——她抄的是 Richter 的**登记簿**（原文没有《吉赛尔》这出戏：`Giselle` 全书 0 次）。
 
 ---
 

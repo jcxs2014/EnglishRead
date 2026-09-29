@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **关键词：** Unguarded, undignified / to release her aching pain in a primal howl / let it drain out of her like a faucet left open / all that she would be left with was guilt
 
-**为什么这样写：** 两个形容词在句首并排，却不是形容 Sophie 的哭，而是**形容"那正是 Fabienne 希望自己也能做的"**——它们的主语在后面才出现。`primal howl`（本能的嚎叫）里 `primal`（本能的）先给出动物性，`faucet left open`（没关紧的水龙头）再把它接到一个人造物上，**于是哭被写成了"忘了关的阀门"：痛苦成了需要管理的自来水。** 而破折号后的 `was guilt`（就只剩罪疚）用了 `all that ... was` 这个结构——**唯一"留下来"的东西是抽象名词，而作者连"面对"都只给了虚拟语气 `wasn’t yet ready to face`。**
+**为什么这样写：** 两个形容词在句首并排，却不是形容 Sophie 的哭，而是**形容"那正是 Fabienne 希望自己也能做的"**——它们的主语在后面才出现。`primal howl`（本能的嚎叫）里 `primal`（本能的）先给出动物性，`faucet left open`（没关紧的水龙头）再把它接到一个人造物上，**于是哭被写成了"忘了关的阀门"：痛苦成了需要管理的自来水。** 而破折号后的 `was guilt`（就只剩罪疚）用了 `all that ... was` 这个结构——**唯一"留下来"的东西是抽象名词，而作者连"面对"都只给了 `wasn’t yet ready to face`（**一般过去时的否定，不是虚拟语气**）。**
 
 **读者视角提示：** `But if she were to let go of her grief`（要是她真放开哀恸）这个假设句是本章的题眼；**本章她最后没有松手——她伸出了手。**
 
