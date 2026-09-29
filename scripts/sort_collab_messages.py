@@ -9,18 +9,27 @@ path="COLLABORATION.md"
 raw=open(path).read()
 lines=raw.split('\n')
 
-# 1) 找到「消息列表」heading
+# 1) 找到「消息列表」heading（实测板面是 `### 📨 消息列表`，早期版本按 `## ` 匹配 → 死代码）
 msg_hdr_line=None
 for i,l in enumerate(lines):
-    if l.startswith("## ") and "消息列表" in l:
+    if l.startswith('#') and '消息列表' in l:
         msg_hdr_line=i; break
 assert msg_hdr_line is not None, "消息列表 heading not found"
+HDR_LEVEL=len(lines[msg_hdr_line])-len(lines[msg_hdr_line].lstrip('#'))
+assert HDR_LEVEL>0
 
-# 2) 找下一 top-level heading（## X 但非 消息列表）作为段尾
+# 2) 找下一同级或更高级 heading 作为段尾。
+#    ⚠️ 实测本板面的消息头 `### [20…]` 与段标题 `### 📨 消息列表` **同级**，
+#    消息头必须跳过，否则段尾=第一条消息，section messages 恒为 0、全部被当 stray。
 def next_top(start):
     for i in range(start+1,len(lines)):
-        if lines[i].startswith("## ") and "消息列表" not in lines[i]:
-            return i
+        l=lines[i]
+        if not l.startswith('#'): continue
+        lv=len(l)-len(l.lstrip('#'))
+        if lv>HDR_LEVEL: continue
+        if lv==HDR_LEVEL and (('消息列表' in l) or l.lstrip('#').lstrip().startswith('[')):
+            continue   # 段标题自身 / 同级消息头 → 都不是段尾
+        return i
     return len(lines)
 msg_end=next_top(msg_hdr_line)
 
