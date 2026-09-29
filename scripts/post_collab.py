@@ -148,7 +148,7 @@ def main():
     a = ap.parse_args()
 
     if a.mode == "check":
-        return check_all(a.limit)
+        return check_all(a.limit, a.maxbytes)
     if a.mode == "verify":
         if not a.book:
             ap.error("--verify 需要 --book")
@@ -334,18 +334,34 @@ def verify(book, day):
     return 0 if ok and lc >= 1 else 2
 
 
-def check_all(limit):
+def check_all(limit, maxbytes):
+    """全板体检。**行数与字节两维都判**——
+
+    写入路径（`board`）判的是 `n > limit or b > maxbytes`，
+    若体检只判行数，就会**漏报「只超字节」的条目**：实测 2026-09-29 有 6 条
+    行数达标、字节 2.6–5.4 KB，`check` 却一直显示正常。
+    ⇒ 体检与写入必须用同一把尺子，否则体检没有意义。
+    """
     t = open(BOARD, encoding="utf-8").read()
     ents = board_entries(t)
     rows = sorted(((e.count("\n") + 1, len(e.encode()), e.split("\n")[0][:46]) for e in ents),
                   reverse=True)
-    over = [r for r in rows if r[0] > limit]
-    print(f"=== 协作板体检：{len(ents)} 条｜超 {limit} 行的 {len(over)} 条 ===")
+    over_n = [r for r in rows if r[0] > limit]
+    over_b = [r for r in rows if r[1] > maxbytes]
+    over = [r for r in rows if r[0] > limit or r[1] > maxbytes]
+    print(f"=== 协作板体检：{len(ents)} 条｜超线 {len(over)} 条"
+          f"（行 {len(over_n)} · 字节 {len(over_b)}）"
+          f"｜阈值 {limit} 行 / {maxbytes} B ===")
     for n, b, h in rows:
-        print(f"  {'❌' if n > limit else '  '} {n:4} 行 {b:6} B  {h}")
+        why = "、".join(x for x, bad in (("行", n > limit), ("字节", b > maxbytes)) if bad)
+        print(f"  {'❌' if why else '  '} {n:4} 行 {b:6} B  {h}"
+              + (f"   ← 超{why}" if why else ""))
     if over:
         print(f"\n超线合计 {sum(r[0] for r in over)} 行 / {sum(r[1] for r in over)} B"
               f"，占全板 {sum(r[1] for r in over) * 100 // max(len(t.encode()), 1)}%")
+        print("  压条：明细搬进当日工作日志，板用 --replace 整体重写"
+              "（完工时间与身份不动，**完工要点与审查结论两段都必须保留**）——"
+              "见 `docs/协作板更新指令.md` 第 3 步。")
     return 0
 
 
