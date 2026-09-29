@@ -37,7 +37,7 @@ source_text: 22
 > **原句 3:** Kailee stared at Heather, as if seeing her clearly for the first time, instead of through the wary gaze of jealousy that had darkened Kailee’s sight until now.
 **中文理解**：凯莉盯着希瑟，好像第一次真正看清了她，而不是透过嫉妒织成的那层阴影在看。
 **关键词**：seeing her clearly for the first time / had darkened Kailee’s sight until now
-**为什么这样写**：全书最重要的一次视角转换，而作者把它写在凯莉的眼睛里。wary（戒备的）这个形容词是第一章那顿饭上凯莉的准确写照，作者在第二十二章用 hindsight 一般的措辞把它回收了：darkened（使变暗）这个过去分词把前二十二章的嫉妒都算成了一次暂时的视觉障碍。而 seeing her clearly（看清）这个短语说明希瑟一直是这样，只是凯莉此前看不见——作者用一句心理描写完成了两个人物的和解，而没有任何一方需要道歉。
+**为什么这样写**：全书最重要的一次视角转换，而作者把它写在凯莉的眼睛里。wary（戒备的）这个形容词是第一章那顿饭上凯莉的准确写照，作者在第二十二章用一个回想式的措辞把它回收了：darkened（使变暗）这个过去分词把前二十二章的嫉妒都算成了一次暂时的视觉障碍。而 seeing her clearly（看清）这个短语说明希瑟一直是这样，只是凯莉此前看不见——作者用一句心理描写完成了两个人物的和解，而没有任何一方需要道歉。
 **读者视角提示**：这一句是全书两个女人之间最深的和解，而它完全发生在凯莉的眼睛里。
 
 ### 第四处
