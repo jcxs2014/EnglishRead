@@ -80,9 +80,27 @@ def heading_identity(head):
 
 
 def now_stamp():
-    """时间戳由脚本查实，不接受调用方传入（2026-08-31 捏造时间戳事故的根因）。"""
     return subprocess.run(["date", "-u", "+%Y-%m-%d %H:%M UTC"],
                           capture_output=True, text=True).stdout.strip()
+
+
+def check_at(at):
+    """--at 传的是**完工时间**（语义值，脚本无从推断），因此校验而非代填。
+    ⚠️ 这与「捏造时间戳」事故不是一回事：那次是**发帖时间**被编造，
+    而发帖时间本就该由脚本查 `date -u`；完工时间只有做事的人知道。"""
+    if not re.fullmatch(r"\d{4}-\d{2}-\d{2} \d{2}:\d{2} UTC", at or ""):
+        print(f"❌ --at 格式须为 `YYYY-MM-DD HH:MM UTC`，收到 {at!r}。")
+        return None
+    try:
+        d = datetime.datetime.strptime(at, "%Y-%m-%d %H:%M UTC")
+    except ValueError:
+        print(f"❌ --at 不是合法时间：{at!r}")
+        return None
+    now = datetime.datetime.strptime(now_stamp(), "%Y-%m-%d %H:%M UTC")
+    if d > now:
+        print(f"❌ 完工时间 {at} 晚于当前时间 {now_stamp()}——不能给还没做完的事打完工戳。")
+        return None
+    return at
 
 
 def board_entries(text):
@@ -119,6 +137,7 @@ def main():
     ap.add_argument("--me", help="本实例身份（任意已知写法，自动归一到规范名）")
     ap.add_argument("--to", default="All", help="收件人（默认 All）")
     ap.add_argument("--note", help="抬头里的补充标记，如 '审查结论'")
+    ap.add_argument("--at", help="完工时间 `YYYY-MM-DD HH:MM UTC`（新建板消息必填；追加时不需要，标题不动）")
     ap.add_argument("--append", action="store_true", help="就地追加到已有条目，而不是新建")
     ap.add_argument("--limit", type=int, default=20, help="板消息行数上限（默认 20）")
     ap.add_argument("--maxbytes", type=int, default=2500)
@@ -151,6 +170,7 @@ def main():
         print("❌ 正文里不要自己写抬头——身份与时间戳由本脚本生成（防止写错身份/捏造时间戳）。\n"
               f"   请只给正文，身份用 --me {a.me or '（必填）'} 传入。")
         return 2
+    ident = ikey = None
     if a.mode == "board":
         if not a.me:
             print("❌ 板消息必须给 --me（身份由脚本查登记表归一，不手打）。")
@@ -158,9 +178,6 @@ def main():
         ident, ikey = resolve(a.me)
         if not ident:
             return 2
-        stamp = now_stamp()
-        note = f" / {a.note} {now_stamp()}" if a.note else ""
-        body = f"### [{stamp}{note}] [{ident}] → {a.to}\n\n" + body
 
     path = BOARD if a.mode == "board" else log_path(a.book)
     if not check_baseline(path):
@@ -191,6 +208,25 @@ def main():
         return 2
 
     before = len(ents)
+    # 抬头只在**新建**时生成；追加路径标题原样保留（完工时间不变，审查时间写进正文）
+    if a.mode == "board" and not (hit and a.append):
+        if not a.at:
+            print("❌ 新建板消息必须给 --at「<完工时间 YYYY-MM-DD HH:MM UTC>」——\n"
+                  "   板上按完工时间排序（最新在前），不是按发帖时间；"
+                  "追加审查结论用 --append，此时不需要 --at。")
+            return 2
+        stamp = check_at(a.at)
+        if not stamp:
+            return 2
+        note = f" / {a.note} {now_stamp()}" if a.note else ""
+        body = f"### [{stamp}{note}] [{ident}] → {a.to}\n\n" + body
+        n, b = body.count("\n") + 1, len(body.encode())
+        if n > a.limit or b > a.maxbytes:
+            print(f"❌ 板消息 {n} 行 / {b} B，超出 {a.limit} 行 / {a.maxbytes} B —— 未写入。\n"
+                  f"   板上只放：文件数 · 门禁数字 · 结论 · commit 计数 · 一行日志指引。\n"
+                  f"   逐行输出、三档定性、原文支撑行号等明细请用 --mode daily 写进工作日志。")
+            return 2
+
     if hit and a.append and a.mode == "board":
         head = hit[0].split("\n")[0]
         if heading_identity(head) != ident:
@@ -198,9 +234,13 @@ def main():
                   f"**不得修改其他实例的消息**。\n   如需补充，在自己名下另发一条并注明指向。")
             return 2
     if hit and a.append:
+        # 追加只动正文，**标题（完工时间 + 身份）原样保留**——审查结论的时间写进正文
         s = text.index(hit[0])
         e = s + len(hit[0])
-        merged = hit[0].rstrip() + "\n\n" + body.split("\n", 1)[1].lstrip() + "\n\n"
+        # ⚠️ 正文里**没有抬头**（抬头只在新建时生成），所以这里直接用 body 原样追加。
+        # 早前写成 body.split("\n", 1)[1] 是为了剥掉自动抬头，改版后它会**吃掉正文第一行**，
+        # 单行正文还会 IndexError——2026-09-29 自测抓到。
+        merged = hit[0].rstrip() + "\n\n" + body.strip() + "\n\n"
         if text[e:e + 1] == "\n":
             e += 1
         new = text[:s] + merged + text[e:]
