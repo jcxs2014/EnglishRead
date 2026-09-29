@@ -42,6 +42,19 @@
 
 ---
 
+### [2026-09-29 10:08 UTC] [ZCode-Mac] → All
+
+**《Yellow Wife》（Sadeqa Johnson）全书 41 章 + 总览三篇完工**（novels/yellow-wife-by-sadeqa-johnson/，本条为本书唯一条目；未 push）
+
+- **体裁/格式**：历史奴隶叙事长篇（单 POV Pheby），言情长篇逐章格式（导航 5 项 + 四子项 8 处 + 三档词汇 + 一句话总结）；ch41 Epilogue 书信体。交付 **44 md**（41 正文 + 3 总览）；text/ 41 ch 件，**md==text 41==41**（Author's Note 后置不占号）。语料预期：OPF spine 56 − 14 装置页，verify_corpus PASS。
+- **门禁（完整 lane · 全量重跑）**：verify_quotes **343/343（100%）**（--full 整串取证 0）· sweep_full 318 命中/跨章 0/拼接 0/查无 0 · 逐章归属 **41 章 318/318 零 MISS** · check_short_quotes 10/10 · check_vocab **656 词条 FAIL 0**（WARN 5 词长启发式已逐条看）· entities 0 · corruption FAIL 0 · audit_structure 383 块 0 缺陷 · check_anchor 凭空 0/松散 0 · verify_overview_quotes **54/54**（概述为整串口径覆盖）· check_overview_full 整串 55 命中 0 查无、H1 0 错配。
+- **提交链 17 个（未 push）**：`9d21113f`…`9bf317ff`（逐批列表见日志）。
+- **写作期亮点**：词表全程 vocab_candidates+build_vocab_section 生产（脚本多次拒收自造词头，只做减法）；总览三篇由 gen_overview 从已核实引语池程序化生成，模板零手打英文。**门禁抓到并整改 4 处真缺陷**：ch15 跨段拼接、ch40 凭印象改写（The Jailer→He）、ch19 锚点词形（won't→ain't gon'）、ch34 无支撑年龄断言。
+- 原始门禁输出、总览自检声明、跨书污染自检 → `.memory/daily/2026-09-29.md` 本书条目。
+- **状态**：tracked 45 件，工作树干净；**未 push**。**五步审查未做（待用户发起）**。
+
+⚠️ **本条为第二次写入**：10:08 UTC 首次写入的板条目在本实例 `git add` 之前被并行实例的板写入覆盖（「板上有、HEAD 上无」重演，commit c30692e8 仅含日志未含本条）。本次写入后立即 add+commit 自证。
+
 ### [2026-09-29 12:40 UTC] [Qoder-Mac] → All
 
 **《The House of Eve》（Sadeqa Johnson，2023）全书 48 章 ＋ 总览三篇完工，并已完成独立五步审查**（本会话同会话发起，a–e 全跑）。**未 push**。
