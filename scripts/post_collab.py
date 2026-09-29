@@ -12,6 +12,12 @@
   3. **基线检查**：写前 `git log -1 -- <file>` 必须存在（防「板上有、HEAD 上无」）
   4. **写后自查**：新条目/追加内容确实在文件里，且条目数没有意外增加
 
+daily（工作日志）是**长期存档档**，与板不同：
+  - **不设行数上限**（2026-09-29 修：板上 20 行的阈值原先也被套在存档节上，
+    既有节 >20 行即一律拒收）；改用「净减守卫」拦 `--replace` 把存档压没
+  - **一书一节**：判重与定位只认 `^## ` 二级标题；**新建时若正文没有 `## ` 标题，
+    工具自动补 `## <书名>`**——缺了标题，这段会按位置落进别人的节里
+
 用法：
   # 新建（板）
   python3 scripts/post_collab.py board  <body.md> --book two-wars-and-a-wedding-by-lauren-willig
@@ -33,7 +39,9 @@ import sys
 BOARD = os.environ.get("POST_COLLAB_BOARD", "COLLABORATION.md")
 LOGDIR = os.environ.get("POST_COLLAB_LOGDIR", ".memory/daily")
 REGISTRY = os.path.join(os.path.dirname(os.path.abspath(__file__)), "collab_identities.json")
-ENTRY = re.compile(r"^#{2,3} .*$", re.M)
+# 2026-09-29 删：ENTRY = re.compile(r"^#{2,3} .*$") —— `_log_sections` 改为只认 `^## ` 后
+# 全仓再无引用。留着更坏：它字面写着 `#{2,3}`，与真实规则恰好相反，读的人会以为
+# 三级标题也算一节（The Last Lifeboat 的审查明细就是 `###` 才被算进隔壁书的节）。
 
 
 def load_identities():
@@ -318,8 +326,17 @@ def main():
                 i = len(text.rstrip()) + 1
             new = text[:i].rstrip("\n") + "\n\n" + body + "\n\n" + text[i:].lstrip("\n")
         else:
+            # daily 新建：**必须自带二级标题**——`_log_sections` 只认 `^## ` 切节，
+            # 而调用方通常只写正文（指令第 4 步曾写「不涉及抬头」）。
+            # 缺了标题，这段就按位置落进**别人**的节里：`verify` 报「0 个二级节」、
+            # 读者扫标题也看不见。2026-09-29 实测：5 段压条记录全落在 Opencode-Mac 节内，
+            # 而 `###` 开头同样落此下场（The Last Lifeboat 的审查明细 56 行因此被算进
+            # 隔壁《The Cafe at Beach End》的节）。调用方自带 `## ` 标题时原样保留。
+            if not re.match(r"^## ", body):
+                body = f"## {a.book}\n\n" + body
             new = text.rstrip() + "\n\n" + body + "\n"
         act = "已新建条目"
+        n, b = body.count("\n") + 1, len(body.encode())   # 补了标题，重新计数
 
     # 门禁 4：**先在内存里验证，再落盘**——否则返回 2 时文件已被改动，
     # 会留下「工具说失败、内容却在」的半成品（2026-09-28 注入自证抓到）

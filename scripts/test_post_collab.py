@@ -7,6 +7,7 @@
 POST_COLLAB_LOGDIR 两个环境变量把路径指过去（默认值不变，对其他实例零影响）。
 """
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -123,6 +124,33 @@ t("板 新建 25 行 ⇒ 拒收", False,
 reset()
 t("daily 新建节 30 行 ⇒ 成功（存档可长）", True,
   run("daily", "## 新书测试XYZ\n\n" + "内容行\n" * 30, book="新书测试XYZ"))
+
+# ⑨ daily 新建：正文**不带标题** ⇒ 工具须自动补 `## <书名>`。
+#    少了标题，这段会按位置落进**别人**的节里：`verify` 报「0 个二级节」、扫标题也看不见。
+#    （2026-09-29 实测：5 段压条记录就是这么进的 Opencode-Mac 的节）
+reset()
+NEWB = "新书无标题测试ABC"
+ok9 = t("daily 新建(无标题) ⇒ 自动补 `## <书名>`", True,
+        run("daily", "**只是正文** " + NEWB + "\n\n补一句。\n", book=NEWB))
+txt = open(TG, encoding="utf-8").read()
+has = bool(re.search(r"^## " + re.escape(NEWB) + r"\s*$", txt, re.M))
+# 口径对齐 `_log_sections`：按 `^## ` 切、丢掉首个 `## ` 之前的引言段
+nsect = sum(1 for s in re.split(r"^## ", txt, flags=re.M)[1:] if NEWB in s)
+good9 = ok9 and has and nsect == 1
+res[-1] = good9
+print("%s %-54s 自动标题=%s 切成 %d 节" % ("✅" if good9 else "❌",
+      "  └ 落盘后确有 ## 标题且恰成 1 节", has, nsect))
+
+# ⑩ daily 新建：调用方**自带** `## ` 标题 ⇒ 原样保留，不加第二个标题
+reset()
+OWN = "新书自带标题测试DEF"
+t("daily 新建(自带标题) ⇒ 不重复加标题", True,
+  run("daily", f"## {OWN} 自定标题\n\n正文。\n", book=OWN))
+txt = open(TG, encoding="utf-8").read()
+cnt = len(re.findall(r"^## .*" + re.escape(OWN), txt, re.M))
+res[-1] = res[-1] and cnt == 1
+print("%s %-54s 匹配到 %d 个 ## 标题" % ("✅" if res[-1] else "❌",
+      "  └ 只有 1 个标题", cnt))
 
 print()
 print("回归：%d/%d 通过" % (sum(res), len(res)))
