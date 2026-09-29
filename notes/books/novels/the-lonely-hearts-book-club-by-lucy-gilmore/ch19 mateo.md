@@ -93,19 +93,19 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 7:** “My mother’s nightclub,” I said. My heart still thumped, but it was more like an anxious pitter-pattering now. This was starting to feel very sketchy. Nothing I’d said to that man should have resulted in an outcome like this. A phone call, maybe. A chance meeting outside another nightclub, sure. But that kind of money dropped without warning at my place of business? That was the start of a murder docuseries if I’d ever heard one.
+> **原句 7:** “My mother’s nightclub,” I said.
 
 **中文理解**：奈杰尔来自哪里。
 
 **关键词**：“My mother’s nightclub,” I said.（我母亲的夜店。）
 
-**为什么这样写**：全章最短的一次交代，而它一次解释了太多东西：他为什么在那个地方认识这个人、这个人为什么会在看他、这个人为什么能查到他母亲卖唱女歌手的行踪。
+**为什么这样写**：全章最短的一次交代，而它一次解释了太多东西：他为什么在那个地方认识这个人、这个人为什么会在暗处看着他。而作者把它写成了一句答记者问——问的是从哪认识的。
 
 **读者视角提示**：留意 The one and only（就是那一位）——Octavia 用的词把他归进了传奇。
 
 ---
 
-> **原句 8:** “My mother’s nightclub,” I said. My heart still thumped, but it was more like an anxious pitter-pattering now. This was starting to feel very sketchy. Nothing I’d said to that man should have resulted in an outcome like this. A phone call, maybe. A chance meeting outside another nightclub, sure. But that kind of money dropped without warning at my place of business? That was the start of a murder docuseries if I’d ever heard one.
+> **原句 8:** This was starting to feel very sketchy. Nothing I’d said to that man should have resulted in an outcome like this. A phone call, maybe. A chance meeting outside another nightclub, sure. But that kind of money dropped without warning at my place of business? That was the start of a murder docuseries if I’d ever heard one.
 
 **中文理解**：他自己的判断。
 
