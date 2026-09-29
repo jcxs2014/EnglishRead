@@ -132,9 +132,15 @@ def sentences(text: str) -> list[str]:
 
     ⇒ 正确判据：右引号只有在**紧跟在句末标点之后**时才算收尾，即两类断句点
     「`.?!` / `.”`」与「`.?!` + `’`」；单独的 `’` 一律不切。
+
+    ⚠️ 第一处 lookbehind 里**不能放裸右引号**（2026-09-29 Save What's Left 实测）：
+    原为 `(?<=[.?!”])`，于是对白 `“You’re hyperventilating,” she said.` 在 `,”` 之后
+    被切开，例句只剩 `“You’re hyperventilating,”`——**与上面这条判据直接矛盾**，
+    属实现与判据脱节（不是抄写错误，是当初只顾修 ② 漏了 ①）。
+    A/B 三本书 45 章：片段例句 6→5 / 1→0 / 0→0，零回归。
     """
     flat = re.sub(r"\s+", " ", text.replace("\n", " "))
-    parts = re.split(r"(?<=[.?!”])\s+|(?<=[.?!][”’])\s+", flat)
+    parts = re.split(r"(?<=[.?!])\s+|(?<=[.?!][”’])\s+", flat)
     return [s.strip() for s in parts if s.strip()]
 
 

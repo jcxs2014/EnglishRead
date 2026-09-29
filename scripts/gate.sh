@@ -82,9 +82,18 @@ for f in sorted(glob.glob(f"{book}/ch*.md"), key=lambda x: int(re.search(r"ch(\d
             if not rows:
                 print(f"❌ {n}: 词表档位「{ti.splitlines()[0].strip()}」只有表头没有词条")
                 bad += 1
-    for k in ("一句话概括", "情感弧线位置", "Tropes 兑现/反转", "人物弧线", "叙事手法"):
-        if not re.search(rf"^\*\*{re.escape(k)}\*\*：\S", txt, re.M):
-            print(f"❌ {n}: 导航缺「{k}」正文")
+    # 导航必备 5 项：**只判「项数 ≥5 且每项有正文」，不锁死标签措辞**——
+    # 言情档写「Tropes 兑现/反转」、双时间线档写「本节在双线中的位置」、
+    # 非言情精简档写「母题/冲突兑现/反转」；枚举标签会把每种正当写法都判成假红
+    # （AGENTS 8.3：格式自成一派的书是合法的；假红型先修工具）。
+    nav = re.search(r"^## 本章导航[ \t]*\n(.*?)(?=\n## |\Z)", txt, re.M | re.S)
+    items = re.findall(r"(?m)^[-*]?\s*\*\*([^*]+)\*\*：(\S.*)$", nav.group(1)) if nav else []
+    if len(items) < 5:
+        print(f"❌ {n}: 导航粗体项 {len(items)} 条 < 5（缺项或写法不匹配 `**X**：`）")
+        bad += 1
+    for k, v in items:
+        if not v.strip():
+            print(f"❌ {n}: 导航项「{k}」有标题无正文")
             bad += 1
 print(f"=== 空段扫描：{bad} 处 ===")
 sys.exit(2 if bad else 0)
