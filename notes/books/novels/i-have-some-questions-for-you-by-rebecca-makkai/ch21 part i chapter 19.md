@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：然后是 2005 年那期 Dateline 特别节目——契机是 Thalia 去世十周年，以及网上日益壮大的"释放 Omar"运动。
 
-**关键词":"in 2005, the Dateline special / the occasion for which was / the tenth anniversary of Thalia’s death and a growing Free Omar movement online
+**关键词**":"in 2005, the Dateline special / the occasion for which was / the tenth anniversary of Thalia’s death and a growing Free Omar movement online
 
 **为什么这样写**：`the occasion for which was`（其缘由是）把一场电视报道的诞生条件摊开：**一个十年纪念 + 一场网络运动。** 这是全书对"舆论如何被制造"的第一次时间线交代——**一场 TV 特别节目是围绕一个网络运动排出来的。** 也就是说，公众记忆的形状，是被"谁在为谁发声"决定的。
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：看看他在监狱待了这么多年之后这张照片——肌肉结实，眼神是死的。
 
-**关键词":"after years and years in prison / bulked up and dead in the eyes
+**关键词**":"after years and years in prison / bulked up and dead in the eyes
 
 **为什么这样写**：`bulked up and dead in the eyes`（肌肉结实、眼神死掉）用一组对照写一个人被监禁二十三年的可见结果：**身体在生长，眼神在熄灭。** `Look at this photo` 是祈使句——**这个"看"是命令式的，是全书对"请你重新看一次"的反复要求。**
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：就算他不是 Thalia 跟朋友们提起的那个"年纪大的人"：有三名滑雪队队员声称，他们听 Omar 开过玩笑，说想想象把 Thalia 绑在举重台上。
 
-**关键词":"Even if he hadn’t been the older guy / Three skiers claimed / they’d heard Omar joke about a fantasy of tying Thalia to the weight bench
+**关键词**":"Even if he hadn’t been the older guy / Three skiers claimed / they’d heard Omar joke about a fantasy of tying Thalia to the weight bench
 
 **为什么这样写**：`Even if he hadn’t been…` 用一个"退让"的开头，让读者以为要排除证据了——然后紧跟一条完全不利于该假设的线索。`claimed`（声称）与 `joke`（玩笑）是两个被特意挑选的词：**它们把一条真正的谋杀预谋，降级成三个男孩的酒后吹牛。** 而全书的转折恰恰靠的就是这类词——**把"玩笑"当"玩笑"处理，是当年定罪的第一步。**
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：真罪案节目里偶尔会提到这件事——因为，你懂的，"寄宿学校里的白人女孩"这种。
 
-**关键词":"The occasional mention on true crime shows / because, you know / dead white girl at a boarding school
+**关键词**":"The occasional mention on true crime shows / because, you know / dead white girl at a boarding school
 
 **为什么这样写**：`because, you know`（因为，你懂的）这个插入语是关键——**它模拟了一个心照不宣的瞬间共识。** 而那个短语 `dead white girl at a boarding school`（死去的白人女孩，在寄宿学校）用三个名词短语串起来，像是一条节目的分类标签。**"白人"这个词被放进了"死去的"和"女孩"之间**——而这一条标签，恰恰复现了第一章里 Thalia 被归纳出的那四个条件：足够年轻、足够白、足够漂亮、足够有钱。
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：我给了 Britt 一份其他可以采访的人的名单（Fran，还有几位仍在任的老师），这样她的节目上我就不会是唯一一个"局内人"的声音。
 
-**关键词":"a list of other people to talk to / so I wouldn’t be the only other voice / on her show
+**关键词**":"a list of other people to talk to / so I wouldn’t be the only other voice / on her show
 
 **为什么这样写**：`so I wouldn’t be the only other voice`（这样我就不会是唯一另一个声音）用 `voice` 这个单数词，暴露了叙述者对"多方验证"的恐惧——**她不要独家，要交叉。** 而这个动作本身说明：她已经意识到"我说的可能不算"，所以需要别人替她说。**这是一部关于"一个人说了不算"的书。**
 

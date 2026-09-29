@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**："我想说的是，"他说——他真该把额头上的汗擦一擦——"这里的钱袋很深，而阴谋更深。"
 
-**关键词":"What I’m saying" / he should wipe the sweat off his forehead / the pockets are deep, and the conspiracies run deeper
+**关键词**":"What I’m saying" / he should wipe the sweat off his forehead / the pockets are deep, and the conspiracies run deeper
 
 **为什么这样写**：**全章的最后一句，而作者用一句插入语给了一个幽灵擦汗。** `he should wipe the sweat off his forehead`（他真该擦擦额头的汗）——**而这半句里没有主语没有谓语，只有一个 `should`（该）——它像作者从画面外伸进来的一只手。** 而末句的对偶（`deep`／`deeper`）**把全书的主题一词说尽：水深，而阴谋更深。** 而这句话出现的位置，恰恰是在一整段被证明正确的推理之后——**作者让正确的那个，也成了最可疑的那个。** 这就是全书对"对"与"该信"永远分开的最后一次演示。
 

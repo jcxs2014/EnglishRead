@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**：既然我基本上是按时间顺序讲那两周在 Granby 发生的事，那我要现在告诉你一件我很久之后才learn到的事。
 
-**关键词":"I’m relating what happened those two weeks / pretty much in order / something now that I didn’t learn till much later
+**关键词**":"I’m relating what happened those two weeks / pretty much in order / something now that I didn’t learn till much later
 
 **为什么这样写**：`pretty much in order`（基本按顺序）这一让步，在叙事学上极重要——**它预告了作者随时可以跳出顺序。** 紧接着 `I’m going to tell you something now that I didn’t learn till much later`（我要现在讲一件我后来才知道的事）就是那次跳出。**读者被提前告知：接下来的信息，在故事发生的时间点上 nobody 知道。** 这是全书对"信息的时间性"最清楚的一次教学。
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：五十英里外，在新罕布什尔州男子监狱，Omar Evans 被一个同监囚犯用一片四英寸的碎玻璃刺进了侧腹。
 
-**关键词":"fifty miles away / was stabbed in the side / by a fellow inmate with a four-inch shard of broken glass
+**关键词**":"fifty miles away / was stabbed in the side / by a fellow inmate with a four-inch shard of broken glass
 
 **为什么这样写**：用**一连串精确的名词**写一次无意义的伤害：碎玻璃、四英寸、侧腹。而 `fifty miles away`（五十英里外）是这一句最狠的部分——**这个距离既是物理距离，也是叙事的距离**。而 `a fellow inmate`（一个同监的人）把施害者写成一个**关系上的模糊词**，不是名字。这与 23 年前那个"二十五岁的黑人运动防护员"是**同一类描述**，只是换了词。作者让读者认出这个对称。
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：这很可能是一次认错人；Omar 不认识动手的那个人。
 
-**关键词":"It was most likely a case of mistaken identity / Omar didn’t know the man who did it
+**关键词**":"It was most likely a case of mistaken identity / Omar didn’t know the man who did it
 
 **为什么这样写**：`most likely`（很可能）给出一个技术判断，而 `Omar didn't know the man who did it`（Omar 不认识那个人）把它锚定在事实上。**这与全书对 Thalia 案的处理形成尖锐对照**：在那一案里，所有人认识那个被指控的人。而在这一案里，加害者与受害者完全陌生。**作者用一句轻描淡写的话，否定了"黑人男性在监狱里互相施暴"这个默认剧本。**
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：他们没做扫描去查脏器是否撕裂，没拍 X 光去查是否还有碎玻璃残留。他们清理了伤口，缝合了他，给了他一针破伤风和一层外用抗生素——以及不够多的纱布。
 
-**关键词":"no scan to check for organ laceration, no X-ray / cleaned out the cut, sutured him / and not enough gauze
+**关键词**":"no scan to check for organ laceration, no X-ray / cleaned out the cut, sutured him / and not enough gauze
 
 **为什么这样写**：**两个 `no` 开头的否定，与随后一串完成时态的动词并置。** 作者用医疗记录的语法写一个**处理草率到近乎象征的场面**：不检查、不扫描、不拍片，只清理、缝合、上药。而结尾那三个词 `and not enough gauze`（以及不够多的纱布）——**"不够"是这个从句里唯一被否定的量。** 整句的节奏把这一点推到末尾，让读者最后才意识到：连"够用"都没有。**这是全书对"制度性忽视"最经济的一次描写。**
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：他们告诉他，他每八小时可以用 600 毫克布洛芬。
 
-**关键词":"600 milligrams of ibuprofen / every eight hours
+**关键词**":"600 milligrams of ibuprofen / every eight hours
 
 **为什么这样写**：**一句纯剂量说明，是全章最冷的一句。** 一个在监狱医疗中刚被玻璃划开四英寸的人，得到的处置是一张布洛芬的剂量表。`600 milligrams`（600 毫克）与 `every eight hours`（每八小时）都是临床语言，而 `they told him`（他们告诉他）——**是告知，不是治疗。** 作者让读者的愤怒来自这个"they"：一个无名的、复数的、只负责给剂量的 they。
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：那天上午晚些时候，当我们坐在教室里像讨论一个电影角色那样讨论他的时候，他在病床上试图坐起来，然后疼得昏了过去。
 
-**关键词":"as we sat in class discussing him like a character in a movie / he tried to sit up / and passed out from the pain
+**关键词**":"as we sat in class discussing him like a character in a movie / he tried to sit up / and passed out from the pain
 
 **为什么这样写**：**全章的收束，两个 `as` 结构把两个时空焊在一起。** `like a character in a movie`（像讨论一个电影角色）——**这正是他们二十三年来对他的处理方式：作为角色，而非作为人。** 而 `passed out from the pain`（疼得昏过去）三个词，把这一整天的全部重量压在一个被省略主语的身体上。**作者不写他后来如何，因为"后来如何"是法律文件关心的，不是这一章关心的。**
 

@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**：我确实欣赏她这个框架里包含的野心——认为这节目能触达某个需要被引导的全国性受众。
 
-**关键词":"the ambition inherent in her framing / reach some national audience / in need of orienting
+**关键词**":"the ambition inherent in her framing / reach some national audience / in need of orienting
 
 **为什么这样写**：`inherent in her framing`（内含于她的框架）把"野心"说成结构的一部分，而非个人野心。作者用 `admire` 这个略带保留的词——她欣赏的是**手法**，不是内容。这与本章后段她被迫承认的"自己也说不出更好的做法"构成张力。
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：怀疑很快落在 Omar Evans 身上——一个二十五岁的黑人男性，在那所名校担任首席运动防护员。
 
-**关键词："Suspicion soon settled on / a twenty-five-year-old Black man / head athletic trainer at the prestigious boarding school
+**关键词**：:"Suspicion soon settled on / a twenty-five-year-old Black man / head athletic trainer at the prestigious boarding school
 
 **为什么这样写**：这是全章最重要的一句，因为它是**当年新闻的原句**。三个信息按新闻体顺序排列：怀疑落点（黑人男性）、年龄职务、机构名。`Suspicion soon settled on` 用被动式 hides 了谁在怀疑——正是这套新闻语言的特征。作者让读者亲耳听到这套语言如何在一个案子里定罪。
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：Evans 在十五小时讯问的巨大压力下作了虚假供述，并在第二天推翻了它。
 
-**关键词":"falsely confessed under extraordinary pressure / fifteen hours of interrogation / a confession he recanted the next day
+**关键词**":"falsely confessed under extraordinary pressure / fifteen hours of interrogation / a confession he recanted the next day
 
 **为什么这样写**：三个短句，每句一个转折。`falsely confessed`（虚假认罪）先定性，`under extraordinary pressure after fifteen hours` 给出条件，`recanted the next day` 收尾。作者用**倒序的合法程序**（认罪→翻供）写进一段新闻导语，这恰恰是新闻业最常用的手法——把一个存疑的案件写成已定的事实。
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：他是一场不称职且种族主义的小镇警察力量、还有一所急于结案的种族主义学校的受害者。
 
-**关键词":"an inexperienced and racist small-town police force / a racist school / wanted to close the case quickly
+**关键词**":"an inexperienced and racist small-town police force / a racist school / wanted to close the case quickly
 
 **为什么这样写**：`inexperienced` 与 `racist` 并列，加上一所 `racist school`——指控从个人扩大到机构。而 `close the case quickly` 这句轻描淡写，却是整本书的核心：结案的**速度**而非真相，才是真正的目的。作者让这条指控在十七岁学生的嘴里说出来，用最平的语气承载最重的判断。
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：在真实生活里，你不会得到凶手亲口告诉你他做了什么、为什么这么做。
 
-**关键词":"In real life, you don’t get the murderer telling you / exactly what he did and why he did it
+**关键词**":"In real life, you don’t get the murderer telling you / exactly what he did and why he did it
 
 **为什么这样写**：这是 Bodie 对自己调查动机的第一次清晰表述。真实世界里没有凶手的自白，只有推测、记忆与物证的拼接。她用这句承认了这部书的全部困难——**她想要的"真相"在结构上不可获得**，而她仍要继续。这句也预示了她后来反复经历的挫败：她能拿到的，永远只是拼图。
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**：我想要的、却永远得不到的，是回到过去，亲眼看它发生。
 
-**关键词":"What I wanted, but could never get / to go back and see it happen
+**关键词**":"What I wanted, but could never get / to go back and see it happen
 
 **为什么这样写**：全书动机的最简式，用一个转折句写完。`to go back and see it happen` 用最朴素的动词（回去、看见、发生），与整句的克制形成对比。作者随即用 `Not the grisly parts, not the death, but every step leading up to it` 排除掉"想要看到"的耸动含义——**她要的不是感官刺激，是那条因果链。** 这一句把整本书从"悬疑"重新定义为"求证"。
 

@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：这些孩子你会喜欢的，布洛赫先生。他们本来该是被你塑造的那一批。
 
-**关键词":"You would have loved these kids / yours for the molding
+**关键词**":"You would have loved these kids / yours for the molding
 
 **为什么这样写**：`molding`（塑造）一词把 Mr. Bloch 与 Granby 历届的"培养者"直接等同——他曾塑造 Bodie 这一代，现在轮到这些孩子。`would have loved` 用条件式，祝愿与控诉并存：她用过去时提醒 Mr. Bloch，他错过了这批学生，也错过了自己的下场。这是全书对 Mr. Bloch 的第一次直接定性。
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：我担心的是 true crime 的那些套路，它变成娱乐的方式。
 
-**关键词":"the tropes of true crime / turned into entertainment
+**关键词**":"the tropes of true crime / turned into entertainment
 
 **为什么这样写**：学生用 `tropes`（套路）而非个案来提问，把伦理关切对准了体裁本身。这不是外行的抗议——她读过播客，也做过调查，提问的落点精确。作者把这句放在学生而非老师口中，让全书最重要的一次质询由一个孩子发出。
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：我不想成为又一个对着谋杀咯咯笑的白人女孩。
 
-**关键词":"another white girl giggling about murder
+**关键词**":"another white girl giggling about murder
 
 **为什么这样写**：`another` 一词把这个角色放进一个她并非自愿加入的类别里，而 `giggling` 把"消费死亡"的轻浮写在明处。整句话是全书伦理争议的浓缩，而它出自一个即将花整个夏天去查这起案子的学生本人——这层反讽，作者不作评论。
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：你会问这个问题这件事本身，就说明你会做得既深思又负责。
 
-**关键词":"The fact that you’re asking / thoughtfully and responsibly
+**关键词**":"The fact that you’re asking / thoughtfully and responsibly
 
 **为什么这样写**：用对方的提问本身来论证对方可信，是最廉价也最有效的一种说服。作者随即自我点破（`I was just self-aware enough at this point to clock that I was talking Britt into it`）——她知道自己在操纵，操纵的内容是让一个孩子相信自己的道德水准。这正是全书对"负责"一词的解构。
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：我知道你们以前是朋友。
 
-**关键词":"I know you were friends
+**关键词**":"I know you were friends
 
 **为什么这样写**：单独成段的一句，用冷静的陈述打断老师正在进行的辩解。Bodie 的反应是 `I’m sorry?`——她没有预料到这句话。学生已在网上把她的名字查了出来，也把她的关系查了出来。这句是全书"网络追人"这一新变量的第一次亮相。
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**：我认为坐牢的是错的那个人。
 
-**关键词:"the wrong guy is in prison
+**关键词**::"the wrong guy is in prison
 
 **为什么这样写**：全章最后一句，独立成段。老师刚说完 `I’m looking forward to this`——她"知道"这个学生要说什么（`I should have guessed this was where she was headed`）。作者把学生的直觉放在成人的应允之后：孩子的天真判断，和成人的期待，重合在同一秒。这是全书最锋利的反讽之一。
 

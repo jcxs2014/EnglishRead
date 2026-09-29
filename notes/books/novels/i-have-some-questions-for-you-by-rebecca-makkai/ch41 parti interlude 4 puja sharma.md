@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**："我们应该夜泳。这是高年级生的传统。"
 
-**关键词":"We should night-swim / It’s a senior tradition
+**关键词**":"We should night-swim / It’s a senior tradition
 
 **为什么这样写**：**一句邀约，而它是全书最精确的犯罪诱因。** `a senior tradition`（一个高年级生的传统）——**它把一件从未存在的事说成一个传统，而传统最大的力量就是不容质疑。** 而 `We should`（我们应该）用虚拟语气，把它放在一个还没发生、随时可以终止的位置上。** Puja 不知道她正在制造一个不可逆的现场：夜里、空无一人、门只有她会开。** 而全书对"机会"这个词的全部理解，就藏在这句闲聊里。
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：她以为 Thalia 会扑过来、会尖叫，可是在昏暗的光线里，Thalia 看上去神情恍惚、恶心欲呕。
 
-**关键词":"She expects Thalia to lunge at her, to scream / but in the dim light / Thalia looks dazed, nauseated
+**关键词**":"She expects Thalia to lunge at her, to scream / but in the dim light / Thalia looks dazed, nauseated
 
 **为什么这样写**：**两句话，一个是预期，一个是现实，而中间隔着一条人命。** `lunge at her, to scream`（扑过来、尖叫）是 Puja 想象中的"正常的冲突收场"——**而真实的 Thalia 没有给她这个台阶。** `in the dim light`（在昏暗的光线里）这五个字是全章的枢纽：**不是黑暗让她看不见，是光不够。** 而 `dazed, nauseated`（恍惚、恶心）——**这是脑震荡的第一个信号，而一个十七岁的人不会认得它。**
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：Puja 需要把刚刚发生的事删掉，可不知为什么，她的本能是抓住 Thalia 泳衣的肩带，猛地把她拉近，再一把推开——她的头撞在什么东西上，发出令人作呕的声音。是什么？泳池边吗？像一块硬果。
 
-**关键词":"Puja needs to delete what just happened / but for some reason her instinct is / to grab Thalia’s swimsuit at the shoulder strap / where her head makes a sickening sound against—like a hard piece of fruit
+**关键词**":"Puja needs to delete what just happened / but for some reason her instinct is / to grab Thalia’s swimsuit at the shoulder strap / where her head makes a sickening sound against—what was it? the edge of the pool?—like a hard piece of fruit
 
 **为什么这样写**：**全书最诚实的一次犯罪描写，而作者拒绝给它任何戏剧性。** `needs to delete`（需要删掉）——**一个十七岁女孩对"已发生的坏事"的反应是"删掉"，而这是她在用的、也是唯一会的工具：删掉、发撤回、假装没发生。** 而 `but for some reason her instinct is`（但不知为什么她的本能是）——**"不知为什么"在这里是致命的：作者和读者都知道为什么，而她不知道。** 而 `what was it? the edge of the pool?`（是什么？泳池边吗？）**让读者与她同时不知道她打到了什么——而这个"不知道"后来变成了"没人记得的海报"。**
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：她盯着墙上的比赛计时器，不敢相信自己对时间的判断。一分钟、两分钟、五分钟。然后她跑了。
 
-**关键词":"She watches the race clock on the wall / not trusting her own sense of time / One minute, two minutes, five / Then she runs
+**关键词**":"She watches the race clock on the wall / not trusting her own sense of time / One minute, two minutes, five / Then she runs
 
 **为什么这样写**：**三个数字，一个动作，而作者把它们写成了一份计时。** `not trusting her own sense of time`（不敢相信自己的时间感）是这一段最关键的心理描写——**而它同时是一个 1995 年春天那个下午最真实的生理状态：一个人独自站在泳池边，心跳与时间都不可信。** 而 `Then she runs`（然后她跑了）——**四个词，结束了整章的前半段。** 而她跑的不是为了求救，**是为了一个"她买到了半小时混乱"的时间。**
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**：Puja 把爆米花塞进微波炉，定时十五分钟。她至少给自己买到了半小时的混乱。
 
-**关键词":"Puja sticks popcorn in the microwave / sets the timer for fifteen minutes / She’s bought herself a half hour of chaos, at least
+**关键词**":"Puja sticks popcorn in the microwave / sets the timer for fifteen minutes / She’s bought herself a half hour of chaos, at least
 
 **为什么这样写**：**全书最恐怖的日常。** **一个刚把人按进水里的十七岁女孩，去煮爆米花。** 而 `sets the timer`（设定时器）这个动作——**它把"十五分钟"变成了一份可量化的等待，而等待的内容是一个人的死。** 而 `She’s bought herself`（她给自己买到了）**用购物动词写一次谋杀**，这正是全书对"我们如何把伤害合理化"最不留情面的示范。** 而 `at least`（至少）这个副词，是一个人在灾难里给自己留的唯一的台阶。**
 

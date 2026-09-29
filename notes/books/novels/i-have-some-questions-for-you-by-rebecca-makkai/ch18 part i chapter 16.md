@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**：万一这档节目不知怎么流到了外面，我不想让人看起来是我在掌舵。
 
-**关键词":"if the podcast somehow got out into the world / I didn’t want it to look like / I was steering the ship
+**关键词**":"if the podcast somehow got out into the world / I didn’t want it to look like / I was steering the ship
 
 **为什么这样写**：`somehow`（不知怎么）与 `steering the ship`（掌舵）构成一个反差——**"莫名走漏"的风险用"我在掌舵"来防**。这个转折暴露了真实的顾虑：她怕的不是节目失败，是节目成功之后世界怎么看她与学生的关系。`steering the ship` 把播客比作航行，暗示她清楚自己在其中握有方向——**而这正是 ch08 那个"把自己放在中心"的冲动。**
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：我不是那种人——不会因为二十三年前自己在这件事里完全处于边缘，就认定现在该由我来讲这个故事。
 
-**关键词":"I wasn’t someone who’d decided / despite being utterly peripheral to this story / twenty-three years ago, I was the one to tell it now
+**关键词**":"I wasn’t someone who’d decided / despite being utterly peripheral to this story / twenty-three years ago, I was the one to tell it now
 
 **为什么这样写**：`peripheral`（边缘的）是她对自己在 1995 年的定位，而这个定位在全书里被反复质疑——她与 Thalia 同住一室、她是 Thalia 室友之一、她在毕业年正在这个圈子里。**用 `utterly`（彻底地）来强调"边缘"，恰恰暴露了它在事实上并不边缘。** 这一句是自我辩护的典型形态：越是用副词强调，就越是在说服自己。
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：（你们都安静下来听我说，一个跟那些人根本不是朋友的女的！）
 
-**关键词":"Everyone shut up and listen to me / a girl who wasn’t even friends with those people
+**关键词**":"Everyone shut up and listen to me / a girl who wasn’t even friends with those people
 
 **为什么这样写**：用括号插入的内心呐喊把上一句的体面撕开。`wasn’t even friends`（甚至不是朋友）是她反复使用的降级词——ch10 里她已经说过她们"不是朋友"，但 ch12 里她又列出 Fran 唱过的三场戏来替他作证。**这层自相矛盾，作者不点破，只把两句并排放着。**
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：但他是这件事的一部分，而那两周里，他也是我精神状态里很大的一部分。
 
-**关键词":"he’s part of the story / a big part of my mental state / those two weeks
+**关键词**":"he’s part of the story / a big part of my mental state / those two weeks
 
 **为什么这样写**：用 `mental state`（精神状态）把自己拉回临床语境。这是本章唯一一次她正视 Yahav 与她调查之间的关系——不是"他是谁"，而是"我为什么需要他在我身边"。作者不解释动机，只承认存在。**这是全书对"我们为何无法停止调查"这个问题最诚实的一次回答：不是因为正义，是因为停不下来。**
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：我是在一个心理学教授朋友办的百乐餐上遇见他的，屋子里摆满了蛛抱兰——那场派对性感得惊人地不，因为那个地方闻起来像猫砂。
 
-**关键词":"a potluck thrown by a psychology professor friend / a house full of spider plants / remarkably unsexy / smelled of cat litter
+**关键词**":"a potluck thrown by a psychology professor friend / a house full of spider plants / remarkably unsexy / smelled of cat litter
 
 **为什么这样写**：用"百乐餐""蛛抱兰""猫砂"三个具体细节写一场相遇的**不浪漫**。`remarkably unsexy`（性感得惊人地不）是自嘲的精确表达。而 `psychology professor`（心理学教授）这个细节在后面会变得重要——**她是在一个专门研究人的家里遇见这个她自己也正在研究的人。** 作者不点明，让这个巧合在读者心里自己发酵。
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：我不相信灵魂伴侣这种事，这让生活容易了一些；我们只是相处得好。
 
-**关键词":"I don’t believe in soul mates / that’s made life easier / we were simply good together
+**关键词**":"I don’t believe in soul mates / that’s made life easier / we were simply good together
 
 **为什么这样写**：把"不相信灵魂伴侣"与"生活变容易"用分号连起来——**这是一种生活策略的自陈，不是感慨。** `simply good together`（只是相处得好）用 `simply` 削低了这段关系的重量，而这正是她能给 Yahav 的最诚实的评价。全书对"亲密关系"的处理一贯如此：**不浪漫，但准确。**
 

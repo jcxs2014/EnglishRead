@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**：我在 Granby 的第二次宿醉，五天里的第二次：我的头里全是棉花团和锤子。
 
-**关键词":"My second hangover at Granby in five days / my head all cotton balls and hammers
+**关键词**":"My second hangover at Granby in five days / my head all cotton balls and hammers
 
 **为什么这样写**：**用两个比喻写一种混合的痛感，而它们各自对应头疼的一种症状。** `cotton balls`（棉花团）写的是闷、`hammers`（锤子）写的是敲——**而这两种疼同时存在，正是宿醉最难办的地方。** 而那句 `My second hangover at Granby in five days`（五天里的第二次）用计数开头：**她来这儿五天，宿醉两次——而这个数字让读者立刻算出一件事：这趟返乡，效率极低，代价极高。**
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：我为了阻止自己去看 Twitter，把那个 app 从手机上删了。看着那个小图标连同她那串醉话的所有回复一起消失，真是太令人满足了。
 
-**关键词":"I stopped myself from checking Twitter by deleting it from my phone / How satisfying, to watch the little icon vanish / along with any replies to my drunken thread
+**关键词**":"I stopped myself from checking Twitter by deleting it from my phone / How satisfying, to watch the little icon vanish / along with any replies to my drunken thread
 
 **为什么这样写**：**这是全书对"自我惩罚"与"自我安慰"最难分的一次描写。** 她删掉 Twitter 是为了不再看舆论——**而删掉的动作本身就带来了满足（how satisfying）。** `my drunken thread`（她那串醉话）这三个字把她的整场公开辩护降级成一件**可以一次性物理删除的东西**。**作者用一个小图标的消失，完成了对一整夜风波的彻底消音——而她不检查 Twitter，也意味着她不知道那些话后来怎么样了。**
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：Lola 说："不过，是啊，又一个白人女孩闯进来要搞砸他的人生？我敢肯定他会说：谢了。"
 
-**关键词":"another white girl coming in to fuck up his life / I’m sure he’s like, no thank you
+**关键词**":"another white girl coming in to fuck up his life / I’m sure he’s like, no thank you
 
 **为什么这样写**：**Lola 的这句话是全书对"白人的自我拯救叙事"最直白的一次指控。** `another white girl coming in`（又一个白人女孩闯进来）里的 `another` 与 `white girl` 组合在一起，**把 Bodie 的整个行为归结成了一个族裔动作**。而 `fuck up his life`（搞砸他的人生）用最粗的话说了最准确的事——**Jamila 上一句说的是"he wouldn't be up for talking to random kids"（他不会愿意跟陌生孩子说话），而 Lola 直接说：她的到来本身就是伤害。** `I'm sure he's like, no thank you`（我敢肯定他会说"谢了"）用学生特有的反讽把这扇门关上。**这是全书对"善意何时开始伤人"最不留情面的一课。**
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：活在我脑子里那个 Fran 版本的 Fran 会说：看吧？**我们**以为某件事，并不能让它成为真的。
 
-**关键词":"The version of Fran that lived in my head said / See? / Just because we thought something / doesn’t make it true
+**关键词**":"The version of Fran that lived in my head said / See? / Just because we thought something / doesn’t make it true
 
 **为什么这样写**：**`The version of Fran that lived in my head`（活在我脑子里的那个 Fran 版本）——这是全书对"内在的辩护者"最精妙的写法。** 她知道自己脑子里的 Fran 会说什么，**而她把这个 Fran 当成一个版本，而不是一个人。** 而那句 `Just because we thought something doesn't make it true`（我们以为某件事并不能让它成真）——**是全书对"集体确信"最干脆的一句否定。** 而它在最该被怀疑的地方出现了：**Bodie 听了这句之后，并没有动摇——`Still, Robbie Serenho not being rich was a confounding development.`（不过，Robbie Serenho 不富有这件事，还是让人困惑。**）**认知的修正需要的时间，远比情绪的修正长。**
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：我一直以为，95 年春天接受调查的那些学生，肯定提到过那些在校园里流传的总钥匙——那些从毕业学长学姐、兄弟姐妹之间传下来的。
 
-**关键词":"I’d always assumed that various students, in their interviews with investigators / in the spring of ’95, must have mentioned the master keys floating around / the ones passed from graduates to younger friends, sibling to sibling
+**关键词**":"I’d always assumed that various students, in their interviews with investigators / in the spring of ’95, must have mentioned the master keys floating around / the ones passed from graduates to younger friends, sibling to sibling
 
 **为什么这样写**：**三个定语从句串起一条钥匙的传承链（从毕业生到朋友、从兄到弟），而作者用一个 `I’d always assumed`（我一直以为）把整条链标注为想象。** `floating around`（在某处飘着）把钥匙写成了无主之物——**而这些无主之物，恰恰是"所有人都知道、没有人说"的东西。** 而下一段立刻接上一句更冷的：`I didn't mention it myself, because they didn't ask and because what was I going to do, point a finger at Fran, of all people?`（我没提，因为我被没被问到；我有什么可做的，指控 Fran 吗？）**——"因为 Fran 的话"这个理由，与 ch35 那个胖女孩的理由是同一个结构。**
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**：（我知道我会为那个电话号码后悔，但不知道会这么快：我还在往 Quincy 走的时候，Alder 就发来一个 GIF——一个女人把手从水晶球上划过去——配文：我是 Alder P！我能带我的塔罗牌来吗？）
 
-**关键词":"I knew I’d regret that, but not how quickly / a GIF of a woman passing her hand over a crystal ball / Okay if I bring my tarot?
+**关键词**":"I knew I’d regret that, but not how quickly / a GIF of a woman passing her hand over a crystal ball / Okay if I bring my tarot?
 
 **为什么这样写**：**全章最后一句，一个括号，而它是全书预警最明确的一次。** `I knew I'd regret that, but not how quickly`（我知道我会后悔那个电话号码，但我不知道会这么快）——**这句预告写在结果之前，而读者已经读完了三十五章，他们知道 Alder 的每一次好奇心最后都通向哪里。** 而那个 GIF（一个人把手从水晶球上划过去）是全书对"通灵"最不留情面的视觉注脚——**那动作更像清台，而不是占卜。** 而最后那句 `Okay if I bring my tarot?`（我能带我的塔罗牌来吗？）**——一个真诚的请求，在这部书的语境里，已经是一声警报。**
 

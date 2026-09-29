@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**：这就是我当年为同伴们唱歌跳舞打光的同一个舞台，也就是我们偶尔被允许放下来那块吊幕、放映 VHS 电影的那个舞台。
 
-**关键词":"the same stage I’d illuminated / as my peers sang and danced / the same stage on which / we’d occasionally been allowed to yank down / the overhead screen and project VHS movies
+**关键词**":"the same stage I’d illuminated / as my peers sang and danced / the same stage on which / we’d occasionally been allowed to yank down / the overhead screen and project VHS movies
 
 **为什么这样写**：**一个现在时的"这里"，而它指向二十三年前的一个舞台。** `the same stage`（同一个舞台）重复两次——**而第二次多了一个从句**（"我们偶尔被允许放下来的那个"），**说明"被允许"这件事本身是当年的身份标记**：`occasionally been allowed`（偶尔被允许）。**而 `yank down`（拽下来）这个动词保留了当年的粗暴**：**那不是"放映"，是"扯下来"。** 全书对"重访旧地"的写法从不抒情，只用物理动作。
 

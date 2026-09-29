@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：她——举个例子——会把微波炉设成五分钟却什么都不放，然后坐在门前，看着里面的盘子转啊转。
 
-**关键词":"She—for example—/ set the microwave to five minutes with nothing in it / spin and spin
+**关键词**":"She—for example—/ set the microwave to five minutes with nothing in it / spin and spin
 
 **为什么这样写**：一对破折号把括号插入语提到句外，让母亲的崩溃动作与叙述者对它的举例说明分开。`watching the glass plate spin and spin` 里重复的 `spin` 既是实写，也暗示时间的空转——母亲在等什么不会来的东西。这是一幅完整的"崩溃"图景，全靠三个物件（微波炉、空盘子、门）完成。
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：我剪短头发到耳朵长度的时候她没注意，我不洗衣服的时候她没注意，我开始穿 Ace 的旧衣服时她也没注意。
 
-**关键词":"She didn’t notice when / cut my hair to ear length / began wearing Ace’s old clothes
+**关键词**":"She didn’t notice when / cut my hair to ear length / began wearing Ace’s old clothes
 
 **为什么这样写**：三次 `didn’t notice` 的重复构成一个沉下去的清单，每一项都是女儿世界中一次更深的坍塌。`or began wearing Ace’s old clothes` 这一项最重——孩子开始穿死去的哥哥的衣服，是失望、纪念还是放弃，作者不作解释。`She didn’t notice` 的主语重复，把母亲的缺席与孩子的求关注并置在一句里。
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**：它看上去是一所这样的学校：人们不会把口香糖粘在你的储物柜上，也不会因为你胖就拿"你哥哥是不是自杀了"当笑话问你。
 
-**关键词":"a school where people wouldn’t stick gum on your locker / wouldn’t find it hilarious to ask
+**关键词**":"a school where people wouldn’t stick gum on your locker / wouldn’t find it hilarious to ask
 
 **为什么这样写**：两处 `wouldn’t`（"不会"）并列，把 Granby 描述成一个由"不会发生的恶意"构成的地方。这两句是她当年对学校的全部期待——而它们的实现方式是极低的：只要不被贴口香糖，只要不被嘲弄。但对当时八岁的她来说，这已足够。回想她哥哥的自杀正发生在入学前两年，这句的双重否定才显得如此沉。
 

@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：而我为这个认知而灼怒：我曾把这当作正常的，如今才能算出它全部的、丑陋的重量。
 
-**关键词":"I seethed at the realization / I had accepted this as normal / calculate the full, ugly weight
+**关键词**":"I seethed at the realization / I had accepted this as normal / calculate the full, ugly weight
 
 **为什么这样写**：`seethed`（灼怒、愤懑）是个身体动词，与本章早先 `seethed at Dorian Culler` 的用法呼应，但这次的对象转向自己。`calculate the full, ugly weight of it` 用算术来隐喻：当年算不出，现在才算得出。**这是一种迟到的清算**——全书对旁观者责任的计算方式，全部浓缩在这一个动词里。
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：也许是 Dorian Culler——他自造了一套扭曲的现实，宣布我在跟踪他、Thalia 是他的秘密未婚妻、可怜的 Blake Oxford 向他乞求当 prison bitch。
 
-**关键词":"Dorian Culler / made his own warped reality / announcing that I was stalking him
+**关键词**":"Dorian Culler / made his own warped reality / announcing that I was stalking him
 
 **为什么这样写**：`made his own warped reality` 解释了霸凌者的方法：他不杀人，他**建造一个世界**，让你在他的世界里是那个坏人。三个平行 announced 句用不同强度的指控铺开，越往后越脏（`poor Blake Oxford` 一句尤其刺目）。作者把少年人的恶意写成一个可信的平行世界，而不是单纯的坏。
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：也许是我们演亚瑟王的 Mike Stiles——他穿上魅力，就像穿一套量身定制的西装。
 
-**关键词":"Mike Stiles, our King Arthur / wore his charisma like a custom-tailored suit
+**关键词**":"Mike Stiles, our King Arthur / wore his charisma like a custom-tailored suit
 
 **为什么这样写**：`custom-tailored`（量身定制）这个比喻精确而刻薄：魅力不是天生的衣服，是他按尺寸做的。`wore` 一词把魅力降格为一种可穿戴物。这与前句 Dorian 的"自造现实"构成两种男生的原型：一人改写规则，一人改写自己。
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：我爱的一部分，是从校园里逃走。一条船是没人能触及你的地方，是某个男生不能滑到你面前、把你变成他玩笑里的道具的地方。
 
-**关键词":"the escape from campus / no one could reach you / make you a prop in his joke
+**关键词**":"the escape from campus / no one could reach you / make you a prop in his joke
 
 **为什么这样写**：`prop`（道具）一词直击 Thalia 的处境——本章写的是赛艇，却是 Thalia 命运的预演。作者用一个体育场景给出反命题：赛艇队里"neither watchers nor watched"（既非看客也非被看），而校园里女孩只能是镜子和道具。**赛艇是这本书里唯一不被凝视的空间**，也是她后来反复回到的地方。
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：当时让我不平的是，我们被要求把这些男生当明星看、拜倒在他们汗湿的脚下。如今让我不安的是，那些男生把女孩当观众内化了——女孩只负责当镜子，好让他们的成就显得更真。
 
-**关键词":"what rankled was / fall at their sweaty feet / those boys internalizing girls as audience / to act as mirrors
+**关键词**":"what rankled was / fall at their sweaty feet / those boys internalizing girls as audience / to act as mirrors
 
 **为什么这样写**：两句 `What…` 结构形成一次时态跳跃：`At the time` 与 `now`。第一句写当年受的委屈，第二句写今天看清的结构——**位置换了，问题反了**：当年的问题是"男孩被崇拜"，现在的问题是"男孩学会了要求崇拜"。这一段的更替，是全书从"受害叙事"升级为"结构批判"的关键一步。
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**：我想哭——是出于苦涩？还是出于温柔？——因为如果那是真的，他是唯一一个这样想过的人。
 
-**关键词":"I felt like crying / out of bitterness? out of tenderness? / he was the only one who’d ever thought so
+**关键词**":"I felt like crying / out of bitterness? out of tenderness? / he was the only one who’d ever thought so
 
 **为什么这样写**：两个问号悬置了情绪的方向，作者拒绝替读者定性。真正刺人的是后半句：一句善意的肯定之所以珍贵到令人落泪，是因为**从来没有人对她说过**。这本书不写她多惨，只写她多不被看见——`I certainly hadn’t thought it myself` 补上了这句刺。
 

@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**：他每次听我的播客都会给我发消息，比如"我听到 Judy 嗑上安非他命那段了。快逃命啊，朱迪！"
 
-**关键词":"He would text me every time he listened to my podcast / things like / I’m at the part where she’s hooked on amphetamines / Run for your life, Judy
+**关键词**":"He would text me every time he listened to my podcast / things like / I’m at the part where she’s hooked on amphetamines / Run for your life, Judy
 
 **为什么这样写**：**一句转述的消息，而它同时写出了一段友谊和她的工作。** `every time he listened`（每次都听）——**这个频率词把"支持"写成了一种习惯。** 而 `I’m at the part where she's hooked on amphetamines`（我听到 Judy 嗑上安非他命那段了）——**而这句话的后半是她在播客里的一句台词，被他拿来当笑话讲。** 而 `Run for your life, Judy!`（快逃命啊，朱迪！）**用一句台词把她的工作变成了一个笑点，而这个笑点被听众用来自娱。** 全书对"内容如何被消费"最温和的一次演示。
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：我想给她一个她应得的眼神，但她已经走在我前面了。
 
-**关键词":"I tried to give her the look she deserved / but she was ahead of me on the trail
+**关键词**":"I tried to give her the look she deserved / but she was ahead of me on the trail
 
 **为什么这样写**：**一句关于"追赶"的玩笑，而它的物理位置就是她这一生的主题。** `the look she deserved`（她应得的眼神）——**而 `deserved`（应得）这个词带出一整套评判，而她这次放弃评判，只留一个眼神。** 而 `she was ahead of me on the trail`（她已经走在我前面了）——**在一条她比 Fran 更熟悉的路上，她落在后面。** 全书用一次被超越的徒步，标记了一段二十年友谊里"谁更了解这段历史"的变化。
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**："她的月经，"我说，既为自己知道这件事而自豪，也为自己的语气听上去如此有理而自豪。
 
-**关键词":"Her period / proud both to know this / and to sound so reasonable
+**关键词**":"Her period / proud both to know this / and to sound so reasonable
 
 **为什么这样写**：**全章最短的一句，而它把一个阴谋论降成了一个生理事实。** `Her period`（她的月经）——**五个字。** 而紧跟的 `proud both to know this and to sound so reasonable`（既为知道而自豪，也为听起来合理而自豪）**用两个 `proud`（自豪）把一次知识胜利写成了一个性格侧写：她为"对"而高兴，也为"像那么回事"而高兴。** 而全章最冷的一笔在这个高兴里：**她此刻的自信，来自一个十七岁女孩教她的记号法。** 而那个方法，全书已经在四十六章前交给过 Thalia 了。
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**："我就是拿我的经血在那一页上做个记号。"Thalia 露出惊恐的表情，只发出一声小小的、谨慎的笑。
 
-**关键词":"I just mark the page with my actual period blood / Thalia looked horrified / letting out only a small, cautious laugh
+**关键词**":"I just mark the page with my actual period blood / Thalia looked horrified / letting out only a small, cautious laugh
 
 **为什么这样写**：**一个笑话，而它的笑点是一次越界。** `my actual period blood`（我实际的经血）——**"actual"（实际的）这个词让整个句子从玩笑滑向真实，而她随即必须补救。** 而 `Thalia looked horrified`（Thalia 看起来惊恐）——**而这不是因为好笑，是因为这个玩笑与 Thalia 自己的经期有关（而她当时正在为此挣扎）。** 而 `a small, cautious laugh`（一声小小的、谨慎的笑）——**这个形容词对一个十六岁女孩来说太老成了**：她学会了在一件让她害怕的事上小心地笑。而作者接着写她"不得不毁掉这个笑话"，**因为她怕 Thalia 把它讲给朋友听**——**全书对"一个玩笑如何变成一个把柄"最微小的一次演示。**
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**："Bodie，"她说。"别管它，它自己会过去的。"
 
-**关键词":"Bodie," she said / Just ignore it, and it'll go away
+**关键词**":"Bodie," she said / Just ignore it, and it'll go away
 
 **为什么这样写**：**一句建议，而它的结构与 Fran 这一路说的每一句完全一致。** `Just ignore it`（别管它）——**而这个 `just`（就）正是 ch26 那位教师说的"他们最好也确保没人杀他"里的那个词，也是 ch44 那位电台老师说"你别管"的那个词。** 而 `and it'll go away`（它自己会过去）——**这是一个关于时间的承诺，而它每次都被验证为真，也每次都是错的。** 全书对"善意的不作为"最简洁的一次呈现。
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：我选择不去承认，她说的不只是 Jerome 那件事。
 
-**关键词":"I chose not to acknowledge / that she was talking about more than / the Jerome situation
+**关键词**":"I chose not to acknowledge / that she was talking about more than / the Jerome situation
 
 **为什么这样写**：**全章最后一句，而它把整章的重量从"保护"移到了"共谋"。** `I chose not to acknowledge`（我选择不去承认）——**注意 `chose`（选择）：这不是没看出来，是看出来了不说。** 而 `talking about more than`（说的不只是……）——**这个 `more than` 把 Fran 的那句劝告从一个建议提升为一个更大的东西：她在替全书说话。** 而 `the Jerome situation`（Jerome 那件事）**用了一个轻得多的词——"那件事"（situation）——来指一桩可能让一个人失去工作的危机。** 而作者不加评论，**只用一个"我选择不去承认"把读者留在这个房间里，和她一起知道。**
 

@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**：爱森斯坦，又德·帕尔玛，又爱森斯坦——两辆婴儿车都在坠落，两台摄影机都在快速闪烁，盯着，却拒绝聚焦。
 
-**关键词："Eisenstein again, De Palma again / both babies plummeting / fixated but refusing to focus
+**关键词**：:"Eisenstein again, De Palma again / both babies plummeting / fixated but refusing to focus
 
 **为什么这样写**：三个 `again` 构成一种强迫性的循环，而 `fixated but refusing to focus`（着迷却拒绝对焦）是全书的一句隐喻。**两台摄影机都在看 Thalia 的案子，却都拒绝看清。** 婴儿车从楼梯上滚落这个母题，被作者借来安置"目击"的失败——反复剪辑、反复回看、每次都差一点。
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：那里的光不一样，更古老，穿过几个世纪才抵达你。
 
-**关键词":"different there, older / passing through centuries before it reached you
+**关键词**":"different there, older / passing through centuries before it reached you
 
 **为什么这样写**：把"光"写成一位需要时间才能到达的旅客。`passing through centuries` 让 Granby 的光带有历史感，而她此刻正被 Thalia 的年代穿过。这句是全书最安静的一句抒情：她不是在写恐惧，而是在写**被时间包含的感觉**——**那件旧案，已经在她身体里走了二十三年。**
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：我不知道自己双腿突然泛起的蓝色，是池壁淡蓝色的倒影，还是我已经失温了。
 
-**关键词":"my legs’ sudden blue tint / a reflection of the pale blue pool walls / if I’d gone hypothermic
+**关键词**":"my legs’ sudden blue tint / a reflection of the pale blue pool walls / if I’d gone hypothermic
 
 **为什么这样写**：用两种解释的并置（倒影 / 失温）写身体的失控。`hypothermic`（失温）一词把这个场景拉回身体的危险，而 `pale blue pool walls`（淡蓝色池壁）把它拉回童年。作者用一个颜色词完成**恐惧与怀旧的双重入口**。
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：泳道线仍然是 Granby 绿与金相间的色带。
 
-**关键词："The lane lines still alternated / bands of Granby green and gold
+**关键词**：:"The lane lines still alternated / bands of Granby green and gold
 
 **为什么这样写**：`still`（依然）一个词就完成了二十三年的重量。泳道线没变，Thalia 就死在这条线上。作者不写"我看着它想起那晚"，而只写**东西没变**——这是全书处理"物证遗迹"的一贯手法：**让物的恒定来承担时间的重量。**
 

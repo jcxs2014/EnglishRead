@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**：那天下午，我让这帮电影课的孩子思考闪回。
 
-**关键词":"I had the film kids think about / flashback
+**关键词**":"I had the film kids think about / flashback
 
 **为什么这样写**：`think about`（思考）是一个教学动作的最小单位——**不是要求，不是布置，只是"让他们想一想"。** 而 `flashback`（闪回）这个词在英语里同时是电影术语与**心理创伤的通俗说法**。作者用一个课堂上完全正当的指令，指向一个她在故事里承受了二十三年的东西。**这是全书最温和的一次反讽。**
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：我先给他们看的是 Wayne's World 短剧里那种波浪屏式的记忆开场——那是我自己少年时代的。
 
-**关键词":"to start / the wavy-screen memory intros / from the Wayne’s World sketches of my own adolescence
+**关键词**":"to start / the wavy-screen memory intros / from the Wayne’s World sketches of my own adolescence
 
 **为什么这样写**：`to start`（先从…开始）把这一整段变成一份**教学序列的第一项**。而 `of my own adolescence`（我自己少年时代的）——**这个短语把素材从公共的变成了私人的。** 她在教一群 2018 年的孩子看 1990 年代的电视喜剧，而这两个年代之间隔着 Thalia。**"我少年时代的记忆开场"这个说法，本身就是一次闪回。**
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：同样早于他们这个时代——对他们来说，就跟我接下来放的《罗生门》片段一样古老。
 
-**关键词":"Also before their time / as ancient to them as the clips of Rashomon I showed next
+**关键词**":"Also before their time / as ancient to them as the clips of Rashomon I showed next
 
 **为什么这样写**：`before their time`（早于他们这个时代）——**这个词组正是 Thalia 的处境，也是全书对"过时"一词的用法。** 而 `as ancient to them as`（对他们来说一样古老）用一次比较把 1930 年和 1950 年并列。**作者在一个关于"什么算古老"的课堂上，把二十三年的时间差缩成了两次换片。**
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：我们谈了"一个角色在回忆"与"镜头作为不偏不倚的眼睛看向真实的过去"这两者之间的区别。
 
-**关键词":"the difference between a character remembering / and the camera as impartial eye / on the actual past
+**关键词**":"the difference between a character remembering / and the camera as impartial eye / on the actual past
 
 **为什么这样写**：**这是全书最精妙的一次结构自指。** 这是一句完全标准的电影课教案：主观记忆 vs 客观镜头。而叙述者**刚刚经历了两种版本的同一夜二十三年**——`the actual past`（真实的过去）这个词由一个说不出那一夜发生了什么的人说出。**作者让教学语言承载它无法直说的内容：她教的是如何区分两者，而她的人生就是两者不可分的证据。**
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：吉米·斯图尔特在做梦、在坠落，他的头漂浮在令人眩晕的色块里。
 
-**关键词":"Jimmy Stewart was dreaming, falling / his head floating / in fields of vertiginous color
+**关键词**":"Jimmy Stewart was dreaming, falling / his head floating / in fields of vertiginous color
 
 **为什么这样写**：三个正在进行时（`dreaming, falling, floating`）把一个动作拆成三层，而 `vertiginous`（令人眩晕的）既是视觉的也是生理的。**这个镜头（《伊人本色》/《迷魂记》式的眩晕）被作者用来代表"不可靠的回忆"——而它同时是 Thalia 落水的那个"眩晕"。** 全书对一个意象的处理在此完成：**掉落可以是一种病，也可以是一次主动的跳。**
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**："当你把它贴近脸看的时候，就跟坐在剧院里一样。"
 
-**关键词":"When you hold it close to your face / it’s as good as a theater
+**关键词**":"When you hold it close to your face / it’s as good as a theater
 
 **为什么这样写**：**全章、也可能是全书最温柔的一句。** 它出自一个学生之口，是对"设备能替代影院吗"这个问题的回答——而这个回答同时是对全书核心问题的回答：**贴得够近，屏幕里的东西就和在场的真实一样。** `as good as`（不亚于）是这个孩子的全部论证。**而写下这句话的作者，正是一个把二十三年前的录像带反复放大到"能看清她嘴唇在动"的人。** 她用一部手机，找到了那一夜。
 

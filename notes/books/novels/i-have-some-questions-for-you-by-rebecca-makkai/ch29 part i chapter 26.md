@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**：我一直以为我见不到他了，用一辈子累积下来的"摆脱男人"的技能给自己打气。
 
-**关键词":"I’d been thinking I wouldn’t see him / steeling myself / a lifetime’s accrual of getting-over-men skills
+**关键词**":"I’d been thinking I wouldn’t see him / steeling myself / a lifetime’s accrual of getting-over-men skills
 
 **为什么这样写**：`steeling myself`（给自己钢化／打气）后面接 `a lifetime's accrual`（一生的累积）——**军事与会计的意象叠在一起**，写出一种又硬又冷的自我武装。而 `getting-over-men skills`（摆脱男人的技能）把"复合"当成一门可以点数的技能，**用 `skills` 这个复数名词，把一段段失败的关系降格成清单。** 而作者在下一段就写：这条技能此刻正等着派上用场。**自嘲是她的默认语调，而她越自嘲，事情越严重。**
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：我能感觉到我的靠近在让他惊慌。
 
-**关键词":"I could sense my proximity panicking him / proximity / panicking him
+**关键词**":"I could sense my proximity panicking him / proximity / panicking him
 
 **为什么这样写**：**`proximity`（靠近）作为一个可怖的东西出现——是她在惊慌。** `panicking`（惊慌）的施动者是 `my proximity`（我的靠近），这让一个物理事实获得了心理重量。**这一句重新定义了整段关系：不是他在追她，是她的存在在吓到他。** 而她的下一段立刻补上一个例外——**Yahav 是唯一一个她先做朋友才做情人的男人。** 顺序即关系，这个观察冷静得近乎临床。
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：但我发现自己反常地无助，无法让他一个人待着。
 
-**关键词":"But I found myself / uncharacteristically helpless / to leave him alone
+**关键词**":"But I found myself / uncharacteristically helpless / to leave him alone
 
 **为什么这样写**：`uncharacteristically`（反常地）是一个精确的自我限定——**她很清楚自己平时是什么样。** 而 `helpless`（无助）这个词用在她这样一个控制欲极强的人身上，产生了一种自我认知的裂缝。**而 `to leave him alone`（让他一个人待着）这个宾语结构揭示了她的恐惧不是关于自己，是关于他。** 这与 ch25 那句 `I felt ancient` 同源：**她对二十三年后的每一件事都先感到古老。**
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：但和 Yahav：就像我们被割开然后又黏在一起，而他不在的时候，那是一道新鲜的伤口。
 
-**关键词":"It was like we’d been scored open and then stuck together / his absence was a raw wound
+**关键词**":"It was like we’d been scored open and then stuck together / his absence was a raw wound
 
 **为什么这样写**：`scored open`（被割开）用了音乐里的术语——**在吉他谱上划一道口子，正是摇滚的经典动作**。作者把一段关系写成一种音乐行为，而 `raw wound`（生/raw 的伤口）用"生"字点出**它还是新的、还在流的**。**这两个词放在一起，把"我们"写成了一个伤口的两片边缘。** 而 Yahav 三小时后就要来——**这道伤口是被允许愈合的，而她知道。**
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：我感到的那种需要，本来会很有意思——如果它不是这么痛的话。
 
-**关键词":"The need I felt / would have been fascinating / were it not so painful
+**关键词**":"The need I felt / would have been fascinating / were it not so painful
 
 **为什么这样写**：**一句用虚拟语气写的观察，把自身变成第三人称的研究对象。** `would have been fascinating`（本来会很有意思）是她在给自己的需要分类——**仿佛它是一个有趣的现象，而不是她的生活。** 而 `were it not so painful`（若不是这么痛）用 `were` 倒装，把"痛"放在从句的最末作为唯一的阻断。**全书对 Bodie 自我意识的刻画在此达到最冷的一格：她把自己的痛苦当成案例来分析。**
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：不过，我对他的想象原本不是更纯粹的那个吗？
 
-**关键词":"Wasn’t my notion of him / the purer one
+**关键词**":"Wasn’t my notion of him / the purer one
 
 **为什么这样写**：**一个反问句，作者用它替读者问了那个最要紧的问题：她爱上的是 Jerome，还是关于 Jerome 的想象？** `notion`（想象/观念）不是 `feeling`（感觉）——**用词本身就给出了否定的答案。** 而 `purer`（更纯粹）这个词承认了后来那份不纯粹：有了权力、有了作品、有了价钱，**那份想象就不再成立了。** 这是全书对"我们爱上的是人还是形象"最简洁的一次回答。
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**：我会带你参观我的少年时代。当心。
 
-**关键词":"I will take you on a tour of / my adolescence / Beware
+**关键词**":"I will take you on a tour of / my adolescence / Beware
 
 **为什么这样写**：**全章最后一句，是全书最像玩笑的一句。** `a tour of my adolescence`（参观我的少年时代）轻描淡写到近乎轻浮，而 `Beware`（当心）两个字却把整章的重量压在最后。**这是她发给一个男人的短信，而它预告的正是下一章：她要带他回到 Granby，去看他即将被指控的地方。** 用"当心"两个字收束一个人生的重访，是全书最克制的一次幽默。
 

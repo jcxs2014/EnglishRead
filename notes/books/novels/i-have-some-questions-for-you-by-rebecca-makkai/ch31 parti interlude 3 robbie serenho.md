@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**：他把自己劈成了两半。
 
-**关键词":"He has split himself in two
+**关键词**":"He has split himself in two
 
 **为什么这样写**：**全章第一句，只有六个词。** `split…in two`（劈成两半）与 `himself`（他自己）连用——**分开的不是两个人，是一个人的两侧。** 这句话给整章定了语法：**后面所有的 he 都带着编号，尽管作者从不写编号。** 而"分裂"在英语里同时有婚姻与精神的双关，而 Robbie 恰好两者都涉及。**六个词定一座章，这是全书最经济的一次开门。**
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：这是那个爱着 Thalia 的 Robbie，那个将来会当一个好父亲、教孩子滑雪的 Robbie。
 
-**关键词":"This is the Robbie who loves Thalia / who’ll be a decent father / and teach his kids to ski
+**关键词**":"This is the Robbie who loves Thalia / who’ll be a decent father / and teach his kids to ski
 
 **为什么这样写**：**用一个将来完成时的愿景，定义一个还不存在的人。** `teach his kids to ski`（教他的孩子滑雪）——**滑雪是 Granby 的一切：雪、寒冷、越野。** 作者给"好父亲"下的定义具体到一项运动，而这运动正是 Thalia 死去的那片地理。**而 `decent`（正派的）这个词里藏着一层：他不坏，他只是正派。** 这一句是对一个尚未杀人的人的预先辩护，而它由知道后来一切的人写下。
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：他在后台逗留，在她唱到那一句时想引起她的注意——这让她把头转向侧幕，嘴里无声地说了一个"什么？"
 
-**关键词":"He lingered backstage, tried to get her attention / which made her turn her head to the wings / and mouth What?
+**关键词**":"He lingered backstage, tried to get her attention / which made her turn her head to the wings / and mouth What?
 
 **为什么这样写**：**全书最重要的一处因果倒置。** 那句无声的 `What?`——ch02 里 Bodie 花了半章从录像带里辨认出来的那个音节——在这里有了一个**成因**：不是 Thalia 在对谁提问，是 Robbie 在后台逗留让她分了心。**而那正是"你"（Mr. Bloch）教她那句台词的时刻。** 作者用一个副词从句把这三个人接在一起：**一个男人的渴望，造成了一个女孩的一个口型，而那个口型二十三年后成了一桩案子的核心证据。** 这是全书结构最精密的一处因果链。
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：当另一个 Robbie 在床垫派对上啜着他人生第一口啤酒，对着镜头比出胜利手势时，这个 Robbie 已经烂醉了。
 
-**关键词":"While the other Robbie sips his first beer at the mattresses / flashing the camera a peace sign / this Robbie is wasted
+**关键词**":"While the other Robbie sips his first beer at the mattresses / flashing the camera a peace sign / this Robbie is wasted
 
 **为什么这样写**：**一个 `while` 从句把同一个人的两个时空并排，而两端的动词形成完美的对称：`sips`（啜饮）对 `is wasted`（烂醉）。** 而 `flashing the camera a peace sign`（对镜头比胜利手势）是一个十七岁男孩的照面动作——**而它被拍下来了，成了"他还活着、还在玩"的铁证。** 作者用这个最轻的动作，替一个杀人犯做出了他后来所有的"不在场证明"。
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：他并没有告诉自己的身体该做什么，因为它知道——它顺着山坡，它顺着重力，而他此刻也正是这样，在顺着重力。
 
-**关键词":"He doesn’t tell his body what to do because it knows / it follows the hill, it follows gravity / and that’s what he’s doing now, following gravity
+**关键词**":"He doesn’t tell his body what to do because it knows / it follows the hill, it follows gravity / and that’s what he’s doing now, following gravity
 
 **为什么这样写**：**全章的转折点，也是全书对"失去控制"最文学化的一次书写。** 前一句还是滑雪（`when he’s flying down a hill in snow`），而这一句让**滑雪的姿势直接变成掐脖子的姿势**。三个分句（`it knows` / `it follows the hill` / `it follows gravity`）用同一个词根 `follow`（跟随）串起，**而 "gravity" 这个词在此从一个物理量变成了一种责任。** 作者不说"他失控了"，她写"他顺着重力"——**这是一个可以被原谅的说法，也正是辩护词本身的雏形。**
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：他清醒了一点，或者至少眼前的东西变清楚了：他得把这个收拾好。
 
-**关键词":"He sobers up, or at least / the things in front of him come clear / He needs to fix this
+**关键词**":"He sobers up, or at least / the things in front of him come clear / He needs to fix this
 
 **为什么这样写**：**作者用一个生理过程（清醒）去标记一个人格的启动。** `the things in front of him come clear`（眼前的东西变清楚）——**而"眼前的东西"恰恰是他刚刚做的事，它一直很清楚，只是他看不清。** `He needs to fix this`（他得把这个收拾好）用 `this` 指代一切：一个昏迷的女孩、墙上的血、明天的早餐。而 `fix`（修理）是全书最险的一个词——**因为 ch30 里有人说，他需要的是"fix this"，而他修的是别的东西。**
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**：他将结婚、生孩子、住在康涅狄格，而他永远不会知道自己做了什么。
 
-**关键词":"He’ll get married and have kids / and live in Connecticut / and he’ll never know what he’s done
+**关键词**":"He’ll get married and have kids / and live in Connecticut / and he’ll never know what he’s done
 
 **为什么这样写**：**全书最平静的三个将来时，和最后一个转折。** `get married` / `have kids` / `live in Connecticut`——**全是极其平常的人生步骤，语序平铺，没有任何形容词。** 而末句 `he'll never know what he's done`（他永远不会知道自己做了什么）用 `never` 取消了前面所有将来时的可能性。**这四个字是全书的伦理核心：一个人可以完整地过完一生，而不知道自己做过什么。** 而"康涅狄格"这个地名在 ch27 出现过（Robbie 之后住在那儿），**作者用它把"终将到来的人生"落实为一个地址。**
 

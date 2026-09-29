@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：Thalia 就是这样的人之一，晚了两年才来，而且是在一片传闻的迷雾里来的。
 
-**关键词":"Thalia was one of those / arriving two years late / in a fog of rumors
+**关键词**":"Thalia was one of those / arriving two years late / in a fog of rumors
 
 **为什么这样写**：一个定语从句 `one of those` 接前文的转学生分类，随即用三个介词短语（late / in a fog）把她的到来写成一桩被延误且被污染的事件。`a fog of rumors` 提示读者：她到校时，传说已经先于她到场。这也是全书处理她的基本方式：总是别人讲的她。
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：而她对那些男生来说是新货——哪怕只有一半好看，她的新鲜感本身就足以维持他们的兴趣。
 
-**关键词":"new meat for the boys / could have been half as pretty / her newness alone
+**关键词**":"new meat for the boys / could have been half as pretty / her newness alone
 
 **为什么这样写**：`new meat` 一词粗粝直白，是十七岁男生的语汇，作者不回避地用。`could have been half as pretty` 是一个反事实假设，用来剥离美貌、只留"新"这个变量。这句话是全书对"凝视"最不客气的一句解剖。
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：我现在明白了，对那个年纪的异性恋男生来说，重点不在那个女孩，而在竞争。就像足球不在于你对球的喜爱。一旦她被宣布为集体兴趣的对象，她就成了那颗球。
 
-**关键词":"less about the girl than the competition / soccer isn’t about your love of the ball / she became the ball
+**关键词**":"less about the girl than the competition / soccer isn’t about your love of the ball / she became the ball
 
 **为什么这样写**：三句话构成一个完整的论证：先立论（是竞争不是女孩），再用一个体育类比支撑（足球与爱球无关），最后落到结论（她成了球）。作者在陈述完这个比喻后没有再补充任何评论——因为类比本身已经足够。这种"用一个比喻完成批判"是本书议论最常见的手法。
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：但我看见了正在发生的事：男生们跑到 Thalia 面前戳她的手臂，好让自己能在"未脱衣服"那格上签 initials。
 
-**关键词":"But I saw what was happening / poking her arm / the outside clothes square
+**关键词**":"But I saw what was happening / poking her arm / the outside clothes square
 
 **为什么这样写**：`But` 一词把视角从"传闻"拉回"我亲眼所见"。`poking her arm` 这个动作是全章最具体的暴力，而它的目的是一个玩笑。作者不写 Thalia 是否愤怒，只写她如何大笑应对——这种冷静的旁观是全书对"群体加害"最常见的呈现方式：受害者先得学会配合。
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**：我们感到震惊，甚至是钦佩，但并不担心。
 
-**关键词":"scandalized or even impressed / but not worried
+**关键词**":"scandalized or even impressed / but not worried
 
 **为什么这样写**：全章的判词，也是全书对那一代 Granby 学生的定性。三个形容词组成一个递进的否定：`scandalized`（震惊）→ `impressed`（钦佩）→ `not worried`（不担心）。`but` 一词承担全部转折的力量，而它的宾语只有"担心"两个字。作者在讲一桩可能导致死亡的事件时，精确地指出他们缺的那一样东西。
 

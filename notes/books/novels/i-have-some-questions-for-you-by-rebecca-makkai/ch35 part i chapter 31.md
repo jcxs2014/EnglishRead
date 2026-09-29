@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**：从这个角度看，我很愿意相信是某种对 Omar 痛苦的心灵感应让我睡不着——但实际上，主要原因是我的大腿还在发痒这种蠢事。
 
-**关键词":"I’d love to believe it was some psychic sympathy / for Omar’s pain that kept me up / but in fact it was largely / the stupid fact that my thighs still itched
+**关键词**":"I’d love to believe it was some psychic sympathy / for Omar’s pain that kept me up / but in fact it was largely / the stupid fact that my thighs still itched
 
 **为什么这样写**：**一句自我拆穿，用四个转折完成。** `I’d love to believe`（我很愿意相信）——作者主动替读者写出了那个动人的解释，**然后立刻用 `but in fact`（但实际上）把它掐掉**。而掐掉的理由是"大腿发痒"——**一个生理性的、微不足道的原因，赢了一个道德性的、崇高的原因。** 这就是作者对"共情"这件事的全部怀疑：**我们总愿意把自己的失眠解释为感同身受，而它通常只是痒。**
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：她朝我伸出一条腿，修长、晒成古铜色，穿着 Robbie Serenho 的男式内裤；腿上布满了红点，一道一道渗着血。
 
-**关键词":"She stuck a leg out toward me / long and tan in Robbie Serenho’s boxers / covered in red dots, streaked with blood
+**关键词**":"She stuck a leg out toward me / long and tan in Robbie Serenho’s boxers / covered in red dots, streaked with blood
 
 **为什么这样写**：**一个动作，三个信息，一次世界观地震。** `stuck a leg out toward me`（把腿伸向我）是全章的动作核心。而 `in Robbie Serenho's boxers`（穿着 Robbie 的内裤）——**这三个词在此不是偷情的证据，而是 Thalia 当时全部的家当。** `covered in red dots, streaked with blood`（红点成片、血迹一道道）用一个分号把"被咬"与"流血"分开。**作者用一个十七岁女孩的腿，写出了她生活的全部贫乏。**
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：她太瘦了。我甚至是在嫉妒她瘦的时候才察觉到这一点；这太过分了。
 
-**关键词":"She was too thin / I registered this even through my envy / at her thinness / it was too much
+**关键词**":"She was too thin / I registered this even through my envy / at her thinness / it was too much
 
 **为什么这样写**：**一个分号，把"嫉妒"与"诊断"缝在同一句话里。** `I registered this even through my envy`（我甚至透过我的嫉妒才察觉到）——**而 `even through`（甚至透过）这个短语承认了：她知道自己在嫉妒，而这份嫉妒差点挡住了她该看见的东西。** `it was too much`（这太过分了）三个字既是医学判断（太瘦）也是伦理判断（太过分）——**而这个双义正是作者要的：她的观察里有多少是关心，有多少是优越感，二十三年来她自己也分不清。**
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：但那个人不能是我。一个胖女孩没法告诉一个瘦女孩她太瘦了。
 
-**关键词":"But that person couldn’t be me / A chubby girl couldn’t tell a skinny girl / she was too thin
+**关键词**":"But that person couldn’t be me / A chubby girl couldn’t tell a skinny girl / she was too thin
 
 **为什么这样写**：**全书最重要的一句自我辩护，而它只有两行。** 前一句用被动语态（那个人不能是我），后一句用同位结构把三个身份压在一起（胖女孩／瘦女孩／"太瘦"）。**而三个短语的重复让读者听见了回声——"太瘦"被说了两次，一次是事实，一次是判词。** 作者没有说"我不该沉默"，她说的是"我不能开口"——**这是一个关于资格而非良心的句子，而它恰恰是全书最不可原谅的那种沉默。**
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：我决定不告诉任何其他人。我不会告诉 Fran、Geoff 或 Carlotta 去说闲话，（而且这几乎是不假思索的）我也不会告诉任何一个当权的人。这只会是我知道的关于某人的又一件事，又一条可以囤起来的信息。
 
-**关键词":"nor (it almost went without thinking) would I tell anyone in authority / This would just be another thing I knew about someone / another piece of information to hoard
+**关键词**":"nor (it almost went without thinking) would I tell anyone in authority / This would just be another thing I knew about someone / another piece of information to hoard
 
 **为什么这样写**：**这段的结构是全书道德戏的完整浓缩。** 第一句排除朋友（那是闲话），第二句排除当权者（那更重要），**而括号里那句 `it almost went without thinking`（这几乎是不假思索地）把整件事的性质改了**：前一句是"我决定不说"，后一句是"我没想到要说"。**而最狠的是最后一句——她把一次可能的谋杀预警，重新归类为"一条可以囤起来的信息"。** 而 `hoard`（囤积）这个词在第二部第一天的图书馆里就出现过一次（她承认自己"时不时收集同学的事实"），**这一次它终于露出了它的对象。**
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：我意识到这听起来有多像黄片的开场——两个即将脱衣的少女——但实际上它尴尬、好笑、糟糕，而且完全不是性。
 
-**关键词":"how like the start of a porno it sounds / two teenagers about to disrobe / but in reality it was embarrassing and hilarious and awful / and utterly nonsexual
+**关键词**":"how like the start of a porno it sounds / two teenagers about to disrobe / but in reality it was embarrassing and hilarious and awful / and utterly nonsexual
 
 **为什么这样写**：**作者先替读者说出那个最不该出现的联想（`the start of a porno`），然后用一串四词否定压回去。** 而那四个形容词（尴尬／好笑／糟糕／完全不是性）**每一个都在承认一件事：它的确尴尬。** 而最后那句 `Plus—and I should not have to point this out—we were kids.`（而且——我不该指出这一点——我们还是孩子）**用一句教师式的辩解收尾，而"我不该指出这一点"恰恰说明她知道这句话有多必要。** 这是全书最见不得光的辩护，而它出现在一个关于嫉妒与瘦弱的故事里。**
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**：能让她笑出来，真是一件美好的事。
 
-**关键词":"It was a wonderful thing / to make her laugh
+**关键词**":"It was a wonderful thing / to make her laugh
 
 **为什么这样写**：**全章最短的一句，也是全书最危险的一句。** 它独立成行，不解释、不辩解、不加转折。**而它的时态是过去时——`It was`（曾经是），这意味着说话人已经知道那不是永久的。** 一个十七岁的女孩，因为逗笑了室友而感到幸福；**而二十三岁的作者写下这句话时，我们都知道这个笑在六周后会结束。** 全书对"幸福"的定义在此缩到最小：**能让她笑。** 而这份能力的代价，读者要再读三章才会知道。
 

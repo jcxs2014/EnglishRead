@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：他们从没找到一件衬衫，只找到一件绿色的羊绒衫，所以我们就假设这就是她全部的东西。
 
-**关键词":"They never found a shirt / just a green cashmere sweater / so let’s assume
+**关键词**":"They never found a shirt / just a green cashmere sweater / so let’s assume
 
 **为什么这样写**：在推演一个谋杀现场时，作者插入的却是**一个证据学的细节**（没找到衬衫），并用 `let’s assume`（我们不妨假设）把推演的语气从断言降级为假设。这个转折是全章的缩影：**他能确定的（没有衬衫）与他在假设的（这就是她全部的东西）被一句话分开。** 后面整章都在这两者之间走。
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：她的脚印混进别人的脚印里；无论如何，到第二天夜里就被雨冲掉了——那已经是最早有人可能去查看的时候。
 
-**关键词":"Her footprints melt into others’ / in any case / the soonest anyone would think to look
+**关键词**":"Her footprints melt into others’ / in any case / the soonest anyone would think to look
 
 **为什么这样写**：`melt into`（融进）用了一个关于"消失"而非"行走"的动词，像雪或糖。同时 `the soonest anyone would think to look`（最早有人会想去看的时候）把一个时间点换算成"调查的空白"——**她的消失被两重因素保障：人群的混杂，和雨。** 这是全书对"证据为何缺失"最具体的一次解释。
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：他把她的头撞在沙发上方、贴着一张崭新的 CPR 海报的煤渣砖墙上。
 
-**关键词":"He slams her head against / a new CPR poster / taped to the cinder-block wall
+**关键词**":"He slams her head against / a new CPR poster / taped to the cinder-block wall
 
 **为什么这样写**：三个修饰语层层收紧：**新的**（new）、**CPR 海报**（一张急救宣传画）、**煤渣砖墙**（最粗糙的建筑材料）。`new` 一词是全段的暗刺——正因为它是新的，血迹才只出现在这一张上；也正因为它是新的，它才被卷入他的背包、被烧掉。**一张新的宣传画，成了整桩案子唯一能被物理销毁的证据。**
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：这就是交给我们的那一版——这就是他在供词里说的（毒品、他的办公室、那张沙发、那面墙、那张没人记得见过的海报），但我没法让它成立。
 
-**关键词":"This was the version we were all handed / what he said in his confession / but I couldn’t make it work
+**关键词**":"This was the version we were all handed / what he said in his confession / but I couldn’t make it work
 
 **为什么这样写**：`handed`（递给）用被动式，把这个版本的责任推给"我们所有人"——**没有作者，只有接收者**。而 `a poster no one ever remembered seeing`（一张没人记得见过的海报）用一个附带的否定把这版供词拆掉：**现场唯一的物证，没有第二个人能作证。** 这正是辩护律师后来二十年抓住的那根稻草。
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：Omar 是那种能比你更早察觉你肩膀上压力的人——不是那种把怒气憋着、直到爆裂的人。
 
-**关键词":"noticed the stress in your shoulders before you felt it yourself / not someone who bottled up rage till it exploded
+**关键词**":"noticed the stress in your shoulders before you felt it yourself / not someone who bottled up rage till it exploded
 
 **为什么这样写**：用一个 `not someone who…` 的排除句，把法庭上那个形象整个否掉。这不是证词，是**性格论证**——而作者用一个身体细节（肩膀的紧张）来证明：**他是读别人的身体的人，不是被自己的身体烧毁的人。** 全书对"性格证据"（character evidence）的使用最清晰的一处。
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**：她没有挣扎。这是他供词里的细节，也是最让我无法承受的那一点：一个如此鲜活的人，竟然可以被一只池网杀得这么慢，这么轻。
 
-**关键词":"She doesn’t struggle / a detail that always destroyed me / so gently, so slowly—by a pool net
+**关键词**":"She doesn’t struggle / a detail that always destroyed me / so gently, so slowly—by a pool net
 
 **为什么这样写**：`doesn’t struggle`（没有挣扎）四个字，把一个人从"受害者"降格为"被处理的物体"。而 `so gently, so slowly`（这么轻，这么慢）用两个副词把暴力改写成护理的动作——**地漏网本来是捞东西的工具。** `a detail that always destroyed me`（一个总是摧毁我的细节）则让作者第一次公开承认：她在为 Omar 难过。
 

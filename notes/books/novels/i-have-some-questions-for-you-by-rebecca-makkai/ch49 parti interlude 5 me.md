@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：你当时就在那儿，从观景台上扔石头，石头一直扔偏，于是我抓起一块，帮了你——我把它举过 Thalia 的头，然后砸了下去。
 
-**关键词":"There you were, throwing rocks from the observation deck / and they kept missing us / so I grabbed one and helped you / I lifted it over Thalia’s head and brought it down
+**关键词**":"There you were, throwing rocks from the observation deck / and they kept missing us / so I grabbed one and helped you / I lifted it over Thalia’s head and brought it down
 
 **为什么这样写**：**全章最黑暗的一句，而它的结构是一连串"帮助"。** `They kept missing us`（石头一直扔偏）——**一个未遂的救援。** 然后 `so I grabbed one and helped you`（于是我抓起一块帮了你）——**而 `helped`（帮助）这个词在这里的意思是：她帮 Mr. Bloch 完成了谋杀。** 而末句 `I lifted it over Thalia's head and brought it down`（举过她的头，然后砸下）——**两个方向相反的动词，划出一条完整的抛物线。** 而最冷的是那个 `There you were`（你当时就在那儿）——**她在对一个她想象出来的人说话，而这个人正是她全书最想保护的那个人。** 这一句把全书"共犯"的主题推到了顶点：**她也可能是凶手。**
 

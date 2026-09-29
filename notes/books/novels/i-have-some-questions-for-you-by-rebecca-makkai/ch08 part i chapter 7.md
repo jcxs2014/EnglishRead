@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：我不太想从家里想任何事，但如果 Ace 能在我四周，我就不用想起他，也不用在没想起他时感到内疚。
 
-**关键词":"There wasn’t much I wanted to think about / if Ace could be all around me / wouldn’t feel guilty when I didn’t
+**关键词**":"There wasn’t much I wanted to think about / if Ace could be all around me / wouldn’t feel guilty when I didn’t
 
 **为什么这样写**：这句把留记号的真正理由说出来——不是纪念，而是**免除愧疚**。`if…could be…` 是一个虚拟的愿望句，而它的功能是回避。整句用一个对称的结构（不用想起他 / 不用在没想起时愧疚）把愧疚的机制暴露得一清二楚。这是全书对"负罪感"最坦率的一次剖析。
 

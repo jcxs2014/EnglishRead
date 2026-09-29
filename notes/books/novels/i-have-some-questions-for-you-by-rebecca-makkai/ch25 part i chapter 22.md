@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**：Jasmine Wilde 浑身发着光，一个行走在树下的林中仙女，穿一件飘逸的棕色长裙，头发像米莱笔下的奥菲利娅。
 
-**关键词":"Jasmine Wilde was luminous / a forest nymph walking under trees / hair like the Millais painting of Ophelia
+**关键词**":"Jasmine Wilde was luminous / a forest nymph walking under trees / hair like the Millais painting of Ophelia
 
 **为什么这样写**：**这三个比喻是本段最锋利的一处。** `luminous`（发光）先给她一层圣像感，`forest nymph`（林中仙女）把她写成自然之子，而 `Ophelia`（奥菲利娅）——**米莱画中的奥菲利娅是一个溺死在水里的女孩**。作者在第一段就把结局画在了她身上，而观众看到的是"一个可怜的、受伤的女人在公园长椅上讲述"。**这幅画的名字，就是 Jasmin 故事的真相，而她本人不知道。** 全书对"看图不看名"的批判，在这里以一张十九世纪的画完成。
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：整整一分钟都只是她绕着长椅转、然后坐下，每一个声音都清晰得像是私密的——像恋人的衣服擦过你的耳朵。
 
-**关键词":"The first full minute / her circling the bench / each sound so crisp that it felt intimate
+**关键词**":"The first full minute / her circling the bench / each sound so crisp that it felt intimate
 
 **为什么这样写**：`the brush of a lover’s clothes next to your ear`（像恋人的衣服擦过耳边）用一个通感式的触觉比喻写声音——**而这正是她在做的：用身体的亲近来伪造见证的资格。** `each sound so crisp`（每个声音都那么清晰）说明设备很好、收音很近，**这种"高清"恰恰是伪证的温床**：她被拍得像在告白，而她在做的是对着陌生人控诉。
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：他看上去很局促，好像画面外有人刚邀请他坐下、让他签了同意书，而他完全不知道自己将面对什么。
 
-**关键词":"He looked self-conscious / as if someone off-screen had just invited him to sit / made him sign a consent form
+**关键词**":"He looked self-conscious / as if someone off-screen had just invited him to sit / made him sign a consent form
 
 **为什么这样写**：`consent form`（同意书）一词是全章最重的一个词，而它出现在**观众的想象里**，不是现实里。**作者让一个路过的中年男人看起来像一个被诱骗的参与者——而他其实只是个坐下听故事的听众。** 这正是 Thalia 案在二十年里的核心机制：**看客被写成了当事人。** 而 `he had no idea what he was in for`（他完全不知道自己将面对什么）这句反讽，用在 Jerome 身上格外狠——**因为他真的不知道。**
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：有道理。她的创伤是真的。
 
-**关键词":"Fair enough. Her trauma was real.
+**关键词**":"Fair enough. Her trauma was real.
 
 **为什么这样写**：**两个独立的短句，是全书对"共情"最克制也最诚实的一次。** `Fair enough`（有道理）承认了一个她并不认同的判断，`Her trauma was real`（她的创伤是真的）则把承认收窄到**只承认感受、不承认指控**。这是 Bodie 全书学会的那件事的雏形：**可以承认一个人的痛苦，而不承认她的结论。** 而作者紧接一句括号补记（`I see you, Jasmine, and I see your trauma.`），把自己和读者同时拉进这个承认里——**她不是在反驳，她是在说：我看见了。**
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：别去提那个在我大学里趁我不省人事时和我上床的家伙：我能把针对 Dorian Fucking Culler 的指控做得比她针对 Jerome 的更硬。
 
-**关键词":"the guy who had sex with me when I was unconscious in college / I could make a better case against / than she was making against Jerome
+**关键词**":"the guy who had sex with me when I was unconscious in college / I could make a better case against / than she was making against Jerome
 
 **为什么这样写**：**全书最诚实也最不舒服的一句。** 她用一个真实的、更严重的个案（大学时的性侵）来论证**同一种指控的资格差异**：对 Dorian Culler，她"能做出更好的指控"，因为**他是自己人**。`Forget the guy…` 开头的祈使句既是打断，也是自我压制。**这一句把全书的核心问题摆到台面上：控诉的重量，不取决于事实，而取决于你站在哪一边。**
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**：该去上课了，去跟这些孩子talk，仿佛我真的知道这个世界是怎么运作的一样。
 
-**关键词":"time to talk to these kids / like I had any idea how the world worked
+**关键词**":"time to talk to these kids / like I had any idea how the world worked
 
 **为什么这样写**：`like I had any idea`（仿佛我知道）用一种自我反讽收束整章。**她刚看完一整个关于"权力如何被误认"的案件，转头要去教一群孩子**——而她唯一的资格是"知道得比昨天多一点"。`My stomach was a mess`（我的胃一塌糊涂）紧接在此：**身体的反应与表面的镇定并存，这是她全书的情绪签名。**
 

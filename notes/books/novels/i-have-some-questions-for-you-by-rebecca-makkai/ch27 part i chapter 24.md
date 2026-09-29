@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**：在他参演《Camelot》之前，我们都想当然地以为他脑子是雪做的。
 
-**关键词":"Until he joined Camelot / we’d all assumed / his brain was made of snow
+**关键词**":"Until he joined Camelot / we’d all assumed / his brain was made of snow
 
 **为什么这样写**：`his brain was made of snow`（脑子是雪做的）是一句俏皮的胡话，但它精确地写出了**十六岁男孩的默认设定**：长的体育型、脑子空。作者随即用 `Until he joined Camelot` 给出转折点——**而这个转折点不是学业，是一部戏。** 全书对"一个人如何被重新估值"的兴趣在此显形：Mike 的转变发生在舞台而不是课堂，而这一切的背景正是 Thalia 的案子。
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：而他进来时谦逊又温和，不像多数运动系的男生那样在台上做派头，所以大家知道这是个玩笑。
 
-**关键词":"he came in humble and sweet / not mugging from the stage, like most jocks did / so everyone knew this was a joke
+**关键词**":"he came in humble and sweet / not mugging from the stage, like most jocks did / so everyone knew this was a joke
 
 **为什么这样写**：`so everyone knew this was a joke`（所以大家知道这是个玩笑）——**这句话既是十六岁群体的自保机制，也是它最冷酷的一面。** 所有人都默契地维持着一个不成立的前提：一个足球明星怎么可能唱得好、演得好。`not mugging from the stage`（不像别人那样在台上做派头）用一个极小的动作区分了"谁真的在演"与"谁在演给自己看"。**而这个前提，正是 Thalia 后来被指控的起点。**
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：瘦骨嶙峋的女孩，凹陷的脸颊、丰润的嘴唇，手臂最宽的地方是肘关节。
 
-**关键词":"Waifish girls / hollowed cheeks and plumped lips / girls whose elbows were the widest part of their arms
+**关键词**":"Waifish girls / hollowed cheeks and plumped lips / girls whose elbows were the widest part of their arms
 
 **为什么这样写**：**用三组身体描写写一种审美标准，并用最冷的一句把它终结。** `waifish`（瘦弱的）加 `hollowed`（凹陷）加 `plumped`（丰润）——**一凹一丰，制造出"瘦但有肉"的理想轮廓。** 而 `whose elbows were the widest part of their arms`（她们手臂最宽的地方是肘）用一句近乎技术性的观察把这个理想拆了：那是病态的。**这一句是十六岁 Bodie 看清自己偶像的时刻，也是她成长的一步。**
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：我承认自己的虚伪。想到 Thalia 宾果卡我仍然愤怒，但想起这份文件，我却毫无愧疚地笑。
 
-**关键词":"I recognize my hypocrisy / I still seethe / but I laugh unguiltily when I remember
+**关键词**":"I recognize my hypocrisy / I still seethe / but I laugh unguiltily when I remember
 
 **为什么这样写**：`I recognize my hypocrisy`（我承认自己的虚伪）是一个**不带辩解的自我判定**——作者甚至不给解释。而 `still seethe`（仍然愤怒）与 `laugh unguiltily`（毫无愧疚地笑）用 `but` 对置：**同一件事，两种反应，而差别只在于受难的是不是自己人。** 这正是本章、以及整本书的核心。**这一句的分量在于：她把它写下来了，而不是想了一下就略过。**
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：与那张宾果卡不同，我们的清单没让任何人陷入危险，没把任何人变成可以被抓住的靶子。
 
-**关键词":"Unlike the bingo sheet / didn’t put anyone in danger / didn’t turn anyone into a ring to be grabbed
+**关键词**":"Unlike the bingo sheet / didn’t put anyone in danger / didn’t turn anyone into a ring to be grabbed
 
 **为什么这样写**：**这是全书最重要的一次对照，而它以"不像"开头。** `a ring to be grabbed`（一个可以被抓住的靶环）这个比喻把 Thalia 的处境压缩成一个物理形状——**而这是从 Thalia 之死的全部后果里提炼出的最精确的图像。** 作者用一个 `Unlike` 句式，把十六岁女孩们的"收集"和二十三年前那张"宾果卡"放在同一把尺子上量，**并指出差别不在行为，在知情。** 这两句排比（didn't… didn't…）的平行结构本身就是判词。
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：这些都说明一件事：记录 Granby 男生们的生殖器，更像是报复，而不是捕猎。
 
-**关键词":"Documenting the dicks of Granby / felt more like revenge / than predation
+**关键词**":"Documenting the dicks of Granby / felt more like revenge / than predation
 
 **为什么这样写**：`revenge`（报复）与 `predation`（捕猎）是一组**从轻到重的对照**。作者用它们写十六岁女孩的自我辩解，而这个词序也**暴露了她们的实际动机**。而 `Which is all to say`（这些都说明一件事）作为过渡，把整段的幽默材料**一次性定性**——不辩解，只是说清那是什么。**这是全书对"无辜的残忍"最克制的一次定性。**
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**：你无法想象一个人做某件事，不等于他没有能力做。
 
-**关键词":"Just because you can’t picture someone doing something / doesn’t mean they aren’t capable of it
+**关键词**":"Just because you can’t picture someone doing something / doesn’t mean they aren’t capable of it
 
 **为什么这样写**：**全章、也可能是全书最锋利的一句格言，独立成段。** 它直接拆掉了一种自我辩护："他不是那种人"。而 `can’t picture`（无法想象）点明了辩护的真正来源——**不是证据，是想象力的边界。** 这句话既适用于 Jerome（她想不出他做那种事），也适用于 Denny Bloch，也适用于她自己。**作者把它放在二十四章之后、真相揭晓之前，因为它既是警告，也是她自己的诊断。**
 

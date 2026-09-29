@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**：有些孩子觉得你可爱；或者至少，如果他们必须交代一个自己迷恋过的老师，你就是那个答案。
 
-**关键词":"kids who thought you were cute / the answer if they had to confess / a teacher they crushed on
+**关键词**":"kids who thought you were cute / the answer if they had to confess / a teacher they crushed on
 
 **为什么这样写**：`or at least` 把"你可爱"降格为一个更保守的说法：**你是一个必然的答案**。`crushed on`（迷恋）用轻快的少年语汇，与后文的指控形成张力。作者用一个十六岁孩子的视角给 Mr. Bloch 定罪，语气仍是同情的——**这种不在场的辩护，恰恰是最难反驳的。**
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：我觉得你是我的老师——不像达尔先生，他教历史这件事看起来次于他带冰球。
 
-**关键词":"I felt you were my teacher / whose history teaching seemed secondary to his hockey coaching / was not
+**关键词**":"I felt you were my teacher / whose history teaching seemed secondary to his hockey coaching / was not
 
 **为什么这样写**：用 Mr. Dar 作反例，是全章最经济的对比。`secondary to his hockey coaching`（次于他的冰球教练工作）一句话就把 Mr. Dar 归类，而 `was not` 单独成段接上，把 Mr. Bloch 放在另一个类里。作者不用"你比达尔好"这种比较级，只用一个否定收尾，**让读者自己感受那个差别。**
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：不止一次，在某场戏开幕前，你看着我说："你手里握着我的职业生涯。"
 
-**关键词":"More than once / You hold my career in your hands
+**关键词**":"More than once / You hold my career in your hands
 
 **为什么这样写**：一句被反复说过的恭维。`hold my career in your hands`（你手里握着我的职业生涯）在今天听来完全正常，甚至是善意的；`More than once`（不止一次）则让这句话具备了重复的重量。全书对"越界"的判断从不依赖单次行为，而依赖**频次**——这正是作者在本章要教读者的事。
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：我的野心是在 Granby 出生的。它们在长满苔藓的树林里，像蘑菇一样长出来。
 
-**关键词":"My ambitions were born at Granby / grew in the mossy woods like mushrooms
+**关键词**":"My ambitions were born at Granby / grew in the mossy woods like mushrooms
 
 **为什么这样写**：先用一个前置的否定推翻 Mr. Bloch 当年的说法（`My ambitions didn't precede Granby`），再用蘑菇的比喻给出真实的来历。蘑菇在暗处、不见光、一下子长出来——这个意象同时为后文作了准备：**那些不被看见的东西，也是这样生长的。**
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：你没有对我越界，并不意味着你没有对那些防备更少、裹得更少铁丝的女孩越界。
 
-**关键词":"The fact that you didn’t cross boundaries with me / doesn’t mean you didn’t do it / less wrapped in barbed wire
+**关键词**":"The fact that you didn’t cross boundaries with me / doesn’t mean you didn’t do it / less wrapped in barbed wire
 
 **为什么这样写**：**全文的逻辑枢纽。** 用自己的清白去证明别人的清白，在逻辑上不成立。`less guarded, less wrapped in barbed wire`（防备更少、被铁丝裹得更松）把责任悄悄从"他做了什么"移到"她为什么没受伤"——而铁丝网正是校园里"保护"学生的代名词。这句的锋利之处在于：她在替可能受害的女孩辩护，而她自己正是被裹得最紧的那一个。
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：对一个十几岁的人来说，被看成某种样子，就等同于成为那种样子——很快，你的看法就成了我自我形象的一部分。
 
-**关键词":"being seen a certain way is as good as being that way / your vision became part of my self-image
+**关键词**":"being seen a certain way is as good as being that way / your vision became part of my self-image
 
 **为什么这样写**：`as good as`（等同于）把"被看见"与"是"画上等号，而 `soon`（很快）说明这个转化是在不知不觉中完成的。`self-image`（自我形象）是关键：别人的看法不是欺骗，而是被**吸收进了自我**。作者在承认 Mr. Bloch 的影响是真诚的同时，也承认它有重量——**这为后段的重新评估做了铺垫。**
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**：我们以为我们知道，于是我们确信我们知道。
 
-**关键词":"We thought we knew / so we became certain we knew
+**关键词**":"We thought we knew / so we became certain we knew
 
 **为什么这样写**：全章最后一句，单独成行。两个 `knew` 之间的 `so` 完成了一次从"以为"到"确信"的跃迁，`became certain` 把确信写成一种**变化**而非状态——人不是天生确信的，是被自己推着走过去的。这既是十五岁的她们，也是全书所有查案者的诊断。
 

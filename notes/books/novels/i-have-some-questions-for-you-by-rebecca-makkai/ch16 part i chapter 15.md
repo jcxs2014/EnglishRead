@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：我感到像被一拳打中肚子——她那样说出的，正是我从来没能说出口的东西。
 
-**关键词":"I felt gut-punched / the way she articulated something / I’d never been able to
+**关键词**":"I felt gut-punched / the way she articulated something / I’d never been able to
 
 **为什么这样写**：`gut-punched`（腹部挨了一拳）用身体反应代替情绪词。而 `the way she articulated something I’d never been able to`（她说出我从未能说的那件事）立刻点明：**这不是共情，是被代言。** 一个人说出了另一个人说不出的东西，这种冲击比同情更难受。**作者不写 Bodie 哭了，只写"被打中"。**
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**：我父亲的死让我们失去了平衡，但 Ace 的死是从我们所有人正中央被一把拽走的生命，是最后一根别住一切的东西。
 
-**关键词":"My own father’s death destabilized us / Ace’s was a life yanked from the center / the last pin holding anything in place
+**关键词**":"My own father’s death destabilized us / Ace’s was a life yanked from the center / the last pin holding anything in place
 
 **为什么这样写**：`destabilized`（使失去平衡）与 `yanked`（被猛拽）两个动词构成对比：父亲的死是结构松了，Ace 的死是**从正中央被抽掉**。`the last pin holding anything in place`（别住一切的最后一根钉）用建筑比喻写兄弟情——而这也呼应了 ch08 结尾"属于我的东西那么少"的自白。**整个家庭是一根钉子结构，Ace 是最后那根。**
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**："这单一的指控不够，他们还得说他贩毒、说他暴力、说他和学生睡觉。他们给他画出一整幅画。他们说起他，好像他从无中来，好像他没有家人。"
 
-**关键词":"This one accusation wasn’t enough / he was dealing drugs, he was a violent man / as if he came from nowhere, as if he had no family
+**关键词**":"This one accusation wasn’t enough / he was dealing drugs, he was a violent man / as if he came from nowhere, as if he had no family
 
 **为什么这样写**：`wasn’t enough`（还不够）是这段话的核心——**指控必须凑够数量才能成立**。三个平行的 `he was…` 把一个人压缩成一张罪名清单，而末句 `as if he had no family`（好像他没有家人）点出真正的暴力：**这套话语要做的不是杀人，是取消一个人的来历。** 这一整段与 ch12 的 `they paint a whole picture` 遥相呼应。
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：Omar 被捕之后，我确实相信他在向学生兜售毒品，哪怕只是因为别人都这么说。
 
-**关键词":"I certainly believed he was selling to students / if only because everyone else said so
+**关键词**":"I certainly believed he was selling to students / if only because everyone else said so
 
 **为什么这样写**：`if only because everyone else said so`（哪怕只是因为别人都这么说）是一句迟到的自认。**她相信了，不是因为看到证据，而是因为听到共识。** 而作者在下一段立刻补上真相：Omar 谈到大麻时是把它当养生建议，校园里真正卖东西的是另一个孩子。**这一组对照是全书对"舆论如何制造事实"最经济的一次示范。**
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：他们给他画出一整幅画。他们说起他，好像他从无中来，好像他没有家人。
 
-**关键词":"They paint a whole picture / as if he came from nowhere / as if he had no family
+**关键词**":"They paint a whole picture / as if he came from nowhere / as if he had no family
 
 **为什么这样写**：**这是本段最锋利的三个短句，也是全书对"画像"这一手段的定性。** `paint a whole picture`（画出一整幅画）把定罪描述成绘画——一幅需要被填满的画。而 `as if he came from nowhere`（好像他从无中来）则指出这幅画的功能：**取消来历，就是取消可被同情的位置。** 一个"从无中来"的人无法被同情，于是定罪变得更容易。三句皆短，因为它们不容辩驳。
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**：但事实是，任何有心的人那一刻都会觉得心碎了，而我的心是沿着那些熟悉的断层裂开的。
 
-**关键词":"anyone with a heart would have felt it break right then / my heart cracked / along familiar fault lines
+**关键词**":"anyone with a heart would have felt it break right then / my heart cracked / along familiar fault lines
 
 **为什么这样写**：作者用一个条件句替自己开脱（`anyone with a heart`），随即用 `but the truth is`（但事实是）推翻它——**她承认自己不是"任何有心的人"，她的心只沿旧裂缝裂。** `familiar fault lines`（熟悉的断层）把创伤写成一个地质结构：不是每次都新伤，而是每次都沿着老裂缝开。**这是全书对"创伤如何决定共情"最诚实的一次描述。**
 

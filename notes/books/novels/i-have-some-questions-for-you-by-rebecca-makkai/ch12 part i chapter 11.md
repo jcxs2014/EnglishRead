@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**："我不想让别人觉得这是我的主意，"我说。
 
-**关键词":"I don’t want people thinking / it was my idea
+**关键词**":"I don’t want people thinking / it was my idea
 
 **为什么这样写**：全章第一句就是一句辩解。`I don’t want people thinking` 把动机写在舆论上而非良心上——她担心的不是错，是**被认为有错**。这句定下全章的防御姿态，也预告了结尾她仍未真正面对的问题：即便她把自己摘出去，名单是她写的。
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**："根本不会有人把这跟你认识 Thalia 这件事联系起来。"
 
-**关键词:"put it together / that you knew Thalia
+**关键词**::"put it together / that you knew Thalia
 
 **为什么这样写**：Fran 的第一反应是替她排除风险。`put it together`（拼凑起来）是日常口语，暗示这层关系需要被**主动拼接**才会被看见——它不显眼。而作者立刻加上一句点破她话里的空档：`She was talking about what the faculty would think, when I meant everyone`。**Fran 只考虑了校董会，Bodie 想的是全世界。** 这个错位是全章的暗线。
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**："我在算这道账，"我说，"现在离 1995 年，和当年 1995 年离 1972 年，一样远。"
 
-**关键词":"I was doing the math / as far from 1995 now as 1995 was from 1972
+**关键词**":"I was doing the math / as far from 1995 now as 1995 was from 1972
 
 **为什么这样写**：用两个年份的等距来表达"过去已经过去"这件事。`as far from… as…` 这个结构把时间折叠成对称的，好让"陈年旧案"听起来像"更旧的旧事"。作者随即被 Fran 打断（`That’s just rude.`）——因为这句话既是在讲 Thalia，也是在讲 Fran 自己的性取向处境。
 
@@ -55,7 +55,7 @@ modified: "2026-09-28"
 
 **中文理解**：2005 年看还只是老套的东西，十多年后再看已经是彻底的尴尬了。
 
-**关键词:"seemed clichéd in 2005 / downright cringeworthy more than a decade later
+**关键词**::"seemed clichéd in 2005 / downright cringeworthy more than a decade later
 
 **为什么这样写**：`clichéd`（老套）到 `cringeworthy`（令人难堪）的升级，说明时间不让人物变得宽容，反而让当年的影像更刺眼——因为看的人变了。作者用 `seemed` 这个弱化动词与 `downright` 这个强调动词对冲，把"尴尬"写成一个渐强过程。
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：而即便 Britt 是自己找到这桩案子的，这也改变不了一个事实：是我把它放进了那封邮件的清单里。
 
-**关键词":"Britt had found the story on her own / that didn’t change the fact / I’d put it right in that emailed list
+**关键词**":"Britt had found the story on her own / that didn’t change the fact / I’d put it right in that emailed list
 
 **为什么这样写**：`while` 引导让步，`that didn’t change the fact` 立刻翻转。这是全书最清楚的一次自我问责：**结果是谁造成的，不取决于动机是谁的**。作者没有替自己辩解，反而主动把责任按在具体物证上（`that emailed list`）——那份清单是可以被翻出来的东西。
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**：如果说 Thalia 在跟着我，那方式就像蜜蜂跟着一个恰好把手抹满了蜂蜜的人。
 
-**关键词":"If Thalia was following me around / bees follow someone / slathered their hands in honey
+**关键词**":"If Thalia was following me around / bees follow someone / slathered their hands in honey
 
 **为什么这样写**：`If` 引导的假设句把一个超自然前提（死者跟随）压进一个日常比喻。`slathered`（大把涂抹）这个动词把责任放回她自己的手上——**不是 Thalia 在追她，是她自己涂了蜜**。蜜蜂意象还带着一层：被叮咬。
 

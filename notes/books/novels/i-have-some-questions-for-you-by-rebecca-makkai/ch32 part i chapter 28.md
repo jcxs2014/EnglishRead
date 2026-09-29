@@ -25,7 +25,7 @@ modified: "2026-09-28"
 
 **中文理解**：Granby Supper Club 和我记忆中的完全一样，只不过在成年之后，那份优秀的酒单变成了一个可选项，这大大弥补了平庸的菜。
 
-**关键词":"exactly as I remembered it / except that in adulthood / the excellent wine list was an option / immensely helped the mediocre food
+**关键词**":"exactly as I remembered it / except that in adulthood / the excellent wine list was an option / immensely helped the mediocre food
 
 **为什么这样写**：**用一个 `except`（只不过）就把"回忆"与"现实"的差距处理掉了。** 而 `an option`（一个选项）这个词极轻——**她要的不是酒单，只是一个可以点酒的前提。** 更有意思的是 `immensely helped the mediocre food`（大大弥补了平庸的菜）：**用"弥补"这个词，等于承认这个地方本身不够好。** 而这一句同时写出了 Granby 的两副面孔——对一个孩子来说是"完全没变"，对一个成年人来说是"我们当年忍受了些什么"。
 
@@ -35,7 +35,7 @@ modified: "2026-09-28"
 
 **中文理解**：这对她来说不公平——她先在我脑子里种下那颗种子，搅乱了我整整一周的睡眠，然后又否认它。
 
-**关键词":"It wasn’t fair for her to plant the seed in my mind / disrupt my sleep all week / then disavow it
+**关键词**":"It wasn’t fair for her to plant the seed in my mind / disrupt my sleep all week / then disavow it
 
 **为什么这样写**：**`plant the seed`（种下种子）是全书最形象的一个比喻，而且它出现在两个层面上。** 对 Fran 而言，她确实只是随口说了句"他是个 creep"；而"种下一颗种子"这个说法把它变成了**一次有后果的动作**。`disavow`（否认、推卸）比 `lie`（撒谎）更中性也更狠——**它暗示 Fran 并没有说谎，她只是收回了。** 这正是全书对"改变说法"这一手法的定义：**不是欺骗，是撤回。**
 
@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **中文理解**："你那时候是个孩子，你会想：他真棒，因为他跟我们混在一起。你想，谁不想跟十六岁的人混在一起呢？等你长大了，你又想：咦，这个人大概没有正常的社交生活。"
 
-**关键词":"You’re a kid, and you think / Then you get older and you think / that person must not have had a real social life
+**关键词**":"You’re a kid, and you think / Then you get older and you think / that person must not have had a real social life
 
 **为什么这样写**：**这是全书对"同一个事实的两次翻译"最完整的一次演示**，而作者把它放进一个"过来人"嘴里，用 `Then you get older`（等你长大）标记转折。**两句话都用了 `you think`——差别只在主语是谁（一个孩子 vs 一个成年人）。** 而末句 `that person must not have had a real social life`（那个人大概没有正常的社交生活）是全书最漂亮的反讽之一：**同一个"没有成年朋友"的观察，在十六岁是浪漫，在四十岁是警报。** 而 Fran 说出这段话时，作者让读者意识到：**她对 Mr. Bloch 的辩护，用的正是十六岁那套逻辑。**
 
@@ -65,7 +65,7 @@ modified: "2026-09-28"
 
 **中文理解**：（Dana 说）"我觉得现在指控别人已经变成一种时髦了，不是吗？"
 
-**关键词":"it’s become so trendy, don’t you / To accuse people of things
+**关键词**":"it’s become so trendy, don’t you / To accuse people of things
 
 **为什么这样写**：**一个六十多岁的退休生物老师，用"时髦"这个词谈论二十三年前的一桩命案。** `trendy`（时髦）这个词本身是全书最锋利的一处——**它把指控从"真相"挪到了"品味"。** 而 `don’t you?`（对吧？）让这句话听起来像在征求同意，**而她正要征求同意的那两个人，一个刚刚要推翻她的观点。** 这是全书对"当下的自我辩护"最简洁的展示：**每一代人都认为指控是当代的新毛病。**
 
@@ -75,7 +75,7 @@ modified: "2026-09-28"
 
 **中文理解**："每个人都想成为行动的一部分。这种事一旦发生，每个人都有一个故事——都有一次他们看见了什么重要的事。"
 
-**关键词":"Everyone wants to be part of the action / everyone has a story / one time they saw something important
+**关键词**":"Everyone wants to be part of the action / everyone has a story / one time they saw something important
 
 **为什么这样写**：**`be part of the action`（成为行动的一部分）这个短语把"参与"写成了电影术语——而 Thalia 之死正是这样一部电影。** 而 `everyone has a story, one time they saw something important`（每个人都有个故事，有一次他们看见了什么重要的事）用 `one time`（一次）把"目击"降格成**频率极低的一次经验**。而作者在此让 Bodie 立刻想到了自己（下一段：像她关于垃圾箱的那件事）——**她刚刚在晚餐上被人指出这一点，就立刻认了。这是她全书最诚实的一次自我指认。**
 
@@ -85,7 +85,7 @@ modified: "2026-09-28"
 
 **中文理解**："我想的是躺在土里的 Thalia，"她说，"我大一那年，整整一年我都在想一具尸体要多久才能分解。我一直在想，她的皮是不是已经没了。"
 
-**关键词":"I think about Thalia in the ground / that whole year I kept wondering / how long it takes a body to decompose
+**关键词**":"I think about Thalia in the ground / that whole year I kept wondering / how long it takes a body to decompose
 
 **为什么这样写**：**全章最冷也最诚实的一段。** 前面 Bodie 谈的是"谁可能是凶手"，而 Fran 谈的是**尸体**——而她的思考方式是**化学式的**（多久分解、皮肤还在不在）。`I kept wondering`（我一直在想）重复两次，**写出一个十六岁女孩一整年的背景辐射。** 而下一句 Fran 的回应更狠：`That's what I think about. Forgive me if I don't have a ton of sympathy for the guy whose DNA was all over her.`（我想的就是这个。请原谅我对那个 DNA 沾满她的人没有太多同情。）**——这正是全书对"同情"这一资源最尖锐的一次分配讨论。**
 
