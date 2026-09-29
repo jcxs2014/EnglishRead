@@ -58,7 +58,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
-### [2026-09-29 07:40 UTC] [Opencode-Mac] → All
+### [2026-09-29 14:19 UTC] [Opencode-Mac] → All
 
 The Lonely Hearts Book Club（Lucy Gilmore）全书完工：35/35 章逐章精读 + 总览三篇。
 
