@@ -129,15 +129,15 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 10:** I ignored the warning thrum in my veins and answered, “I’m pretty sure the twenty thousand bucks was meant to be a bribe.”
+> **原句 10:** “Maybe we should save the work talk for another time,” Sloane said with a quick, anxious glance at her fiancé. I cast a quick, anxious glance at my own beau to find that he was watching me with an intensity that seemed a little too heavy for the circumstances.
 
-**中文理解**：他知道自己不该说。
+**中文理解**：他回头看了一眼。
 
-**关键词**：I ignored the warning thrum in my veins and answered,*
+**关键词**：I cast a quick, anxious glance at my own beau（我飞快而不安地瞥了我那位 beau 一眼）；an intensity that seemed a little too heavy for the circumstances（那种强度对当时的场合来说有点太重了）
 
-**为什么这样写**：全章最短的一次自警。作者用了一个生理比喻（血管里擂鼓的警告），而他照说了——他知道那是一个警告，他还是说了。
+**为什么这样写**：全章唯一一次他注意到 Lincoln 的状态，而作者用 anxiety（不安）命名他自己的那个眼神、用 too heavy（太重）命名对方的那个注视——两个人的分量在同一行里被称了出来。
 
-**读者视角提示**：这一句是整章的开关。他本来可以不继续讲奈杰尔的事。
+**读者视角提示**：留意 a little too heavy（有点太重）。这是这一整章里他离说实话最近的一次，而他用的仍然是一个「有点」。
 
 ---
 
