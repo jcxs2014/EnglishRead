@@ -7,7 +7,7 @@ modified: "2026-09-28"
 
 ## 本章导航
 
-- **一句话概括**：1943 年 7 月，Sophie 挽着 Konrad Richter 走进已被德军征用的 Le Meurice Hotel，参加一场由别动队自己举办的"Schloss 收藏展"（`The Einsatzstab Reichsleiter Rosenberg presents an evening with the Schloss Collection.`）；她在厅里认出了 Himmler 与 Göring，被一条钻石白金手镯换来一句恭维，借口补妆躲进洗手间，摸出 Dietrich 留下的旧怀表对时——**而这一晚的全部赌注就是让所有人的眼睛都留在这家酒店（`All eyes were on Le Meurice`），好让另一批人把殉道者之室搬空。**
+- **一句话概括**：1943 年 7 月，Sophie 挽着 Konrad Richter 走进已被德军征用的 Le Meurice（原文无 Hotel 一词），参加一场由别动队自己举办的"Schloss 收藏展"（`The Einsatzstab Reichsleiter Rosenberg presents an evening with the Schloss Collection.`）；她在厅里认出了 Himmler 与 Göring，被一条钻石白金手镯换来一句恭维，借口补妆躲进洗手间，摸出 Dietrich 留下的旧怀表对时——**而这一晚的全部赌注就是让所有人的眼睛都留在这家酒店（`All eyes were on Le Meurice`），好让另一批人把殉道者之室搬空。**
 - **情感弧线位置**：**伪装线的最高潮与恐惧线的最高点叠在同一场宴会上**——她本章说得最多、笑得最久、也最接近被识破；**而她的手稳下来，是在洗手间的镜子前**（`her hands grew steady`）。
 - **Tropes 兑现/反转**：**兑现**——"美人计 + 调虎离山"的完整配置，本书还加了两件道具：一条来路不明的手镯和一只死人的怀表；**反转有三层**：其一是**赃物被当作宴会陈设正式展出**（`artwork stolen from one of Paris’s most notable Jewish families`）；其二是**批准这件事的不是某个恶棍，而是"一套流程"**（`the crime had already been signed off by corrupt German lawmakers and the Vichy government alike`）；其三是全章收束处那句——**她想出的藏法是"在光天化日之下"**（`In plain sight.`）。
 - **人物弧线**：Sophie 本章从"被展示的人"变成"布局的人"，而她的转变点**不是决心，是一个问句**（`Where’s the best place to hide something?`）——**她在洗手间照镜子时得出结论，而她得出的结论是把赃物摆在最显眼的地方**；**这正是她此后半本书所用的全部方法**。Richter 本章则从"评委"降格为"跟班"，作者用一句完成：`his confidence transformed into obsequiousness`（他的自信被改造成了谄媚）。
@@ -29,7 +29,7 @@ modified: "2026-09-28"
 
 > **原句 2:** The Einsatzstab Reichsleiter Rosenberg presents an evening with the Schloss Collection.
 
-**中文理解：** Rudolf Rosenberg 少将别动队呈献：一场与 Schloss 收藏共度的夜晚。
+**中文理解：** 别动队**党务领袖（Reichsleiter）Rosenberg** 呈献（原文 `The Einsatzstab Reichsleiter Rosenberg presents…`——**Reichsleiter 是党职头衔、不是名字，原文没有「Rudolf」**）：一场与 Schloss 收藏共度的夜晚。
 
 **关键词：** Einsatzstab Reichsleiter Rosenberg / presents an evening with the Schloss Collection
 

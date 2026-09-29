@@ -21,7 +21,7 @@ modified: "2026-09-28"
 
 **关键词：** Just as silently / the purposes of subterfuge / Gerhardt’s hug meant everything to her / all the hugs she’d ever wanted to give, when she was too shy / the question she’d been burning to ask
 
-**为什么这样写：** 这段一开口就用 `silently` 对上 `silently`（各自无声），把整章的"喊叫"推到后面去。中间的对比句靠一个**只有 Richtter 那一边才成立的从句**立住：`which she tolerated only for the purposes of subterfuge`（她只是为掩人耳目才忍受的）——`only`（仅仅）把那种触碰的资格限定在一次任务里。后面两个 `all the hugs...`（所有那些拥抱）用同一个 `all` 起头、换一个分词（`to give`／`to receive`），**于是"给"与"收"成为同一件事的两面：她当年没敢给，如今从这个拥抱里补收回来。** 末句 `she already knew the answer to the question`（她已经知道答案）用 `already`（已经）——**作者让她在听到问题之前就知道了。**
+**为什么这样写：** 这段一开口就用 `silently` 对上 `silently`（各自无声），把整章的"喊叫"推到后面去。中间的对比句靠一个**只有 Richter 那一边才成立的从句**立住：`which she tolerated only for the purposes of subterfuge`（她只是为掩人耳目才忍受的）——`only`（仅仅）把那种触碰的资格限定在一次任务里。后面两个 `all the hugs...`（所有那些拥抱）用同一个 `all` 起头、换一个分词（`to give`／`to receive`），**于是"给"与"收"成为同一件事的两面：她当年没敢给，如今从这个拥抱里补收回来。** 末句 `she already knew the answer to the question`（她已经知道答案）用 `already`（已经）——**作者让她在听到问题之前就知道了。**
 
 **读者视角提示：** `burning to ask`（迫不及待地问）这个说法把"问"写成烧；**三段之后，问这个问题的人会把火里那个人的沉默当作答案。**
 
