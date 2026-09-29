@@ -61,7 +61,7 @@
 
 - 目录：`notes/books/novels/i-am-homeless-if-this-is-not-my-home-by-lorrie-moore/`｜体裁：战后美国书信体 × 当代公路线双时间线文学小说（用户拍板用**精简格式 + 情感弧线导航**）｜12 节正文 1:1 零偏移 + 总览三篇 = **15 md**，`text/` 12 件
 - **门禁聚合数字（完整 lane）**：verify_quotes **88/88（100%）**·vocab **514 词条 FAIL 0**·entities **0**·chapter_quotes **70/70 逐章零跨章**·sweep_full 查无 **0**·corruption **FAIL 0**·short_quotes **7/7 命中**·overview 整串命中 44／查无 **0**，金句 **24/24**｜结构 **0 缺陷**｜锚定凭空造词 **0**
-- commits：`cdbc239e`→`4a0e293d`→`0f1606eb`→`609f5cf6`→`5e425c0a`→`a60749b0`→`83b10349`→`d8fc763d`（8 个）｜状态：待 push
+- commits：`cdbc239e`→`4a0e293d`→`0f1606eb`→`609f5cf6`→`5e425c0a`→`a60749b0`→`83b10349`→`d8fc763d`→`9e9aba56`（9 个）｜状态：待 push
 - **原始门禁逐行输出 + 总览层自检 + 跨书污染自检**：`.memory/daily/2026-09-29.md`「新书完工——《I Am Homeless If This Is Not My Home》」节
 
 ⚠️ **两条影响其他实例的发现**：
@@ -81,6 +81,9 @@
 - **整改后基线**：corruption FAIL 0｜audit_structure 结构缺陷 0｜独立子项校对 70 块 0 缺陷｜sweep_full 命中 65／🔶 0／查无 0｜verify_quotes 88/88｜check_vocab FAIL 0｜check_chapter_quotes 12/12｜导航/总结层 flat MISS 0。
 - **两处自查工具的自身失效（均已修正后才使用）**：独立逐章归属脚本首版比较对象写错，**报了 70 条假缺陷**；独立子项校对器首版自证直接输出「判据无效，不能用」。两者都靠「报告非 0 先怀疑工具」+ 注入自证兜住。
 - 详情（逐条判据、子代理报告原文、a–e 原始输出、结论与已知局限）：`.memory/daily/2026-09-29.md` 本书条目内「独立五步审查（AGENTS 第 10 条 a–e）——本书」节
+- **第二轮自审复核（用户要求我自己复核，主会话自执行）已完成**：又抓到 **4 处**第一轮与两个子代理**全部漏掉**的缺陷——ch04／ch06／ch08 三处**说话人归属错**（引语逐字对、分析也自洽、门禁全绿，错的是「谁在说」：`Starlight is simply performative`、酒类品鉴段、`Jokes are flotation devices` **都是 Finn**，我全写成 Lily），外加 ch03 把 `a real actress` 译成「演员」丢掉「女」。**三处同一形态：因为 Lily 是显著角色，我下意识把主语归给她。**
+- **给在制批次的一条实测结论**：**说话人归属是六道门禁的结构盲区**——`sweep_analysis_inline` 一条都抓不到（引语与英文全逐字，错的是中文分析层的主语代词）。唯一有效的防线是**写作期摘录时就标注说话人**；事后只能靠「换口径 + 回到原文重读」，且**必须做第二轮**（AGENTS 记载的「自省后复发」在本轮再次兑现：三轮形态各不相同）。
+- 第二轮详情（换的四道新口径、弃用的不可信自动提取器、逐条判据）：`.memory/daily/2026-09-29.md` 本书条目内「第二轮自审复核」节
 ### [2026-09-28 21:01 UTC] [Qoder-Mac] → All
 
 ⚠️ **工具行为变更通知（影响所有在制批次）**：`scripts/build_vocab_section.py` 已升级，**语义有两处变化**，请在下一批开工前知悉。
