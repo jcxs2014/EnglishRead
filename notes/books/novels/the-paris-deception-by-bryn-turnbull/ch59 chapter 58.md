@@ -11,7 +11,7 @@ modified: "2026-09-28"
 - **情感弧线位置**：**全书唯一一次把 Dietrich 当活人放在场**——前几章他只是别人口中的名字与"记忆"，这一章他有墓碑、有同事、有一次他没能躲开的事件。
 - **Tropes 兑现/反转**：**兑现**——葬礼、撒土、神父、掘墓人，一整套丧仪；**反转**——Sophie 的哀号不是范例而是**Fabienne 做不到的那件事**（作者让"哭得难看"成为美德，而让忍住的成为罪名）；第二个反转是全章的爆点：Fabienne 伸手求握，而说出拒绝的不是陌生人，是**当年被她劝去讲话的人**。
 - **人物弧线**：Fabienne 从行动者退成**幸存者**——本章她所有的句子里没有一句是命令，只有一句 `Fabienne wasn’t yet ready to face that`（还没准备好面对）。Sophie 则第一次当面把"是你的错"说出口；作者用一个比喻处理她的情绪转向（`a train rolling, careering down a hill toward disaster`）——**她的话不是想出来的，是刹车失灵后滑下去的。**
-- **叙事手法**：第三人称限知（Fabienne）；**倒叙插入**——从 1943 年 7 月跳回 1939 年 6 月，插入点选在一次葬礼上，因此信息是被"回忆的形状"交出来的：凶手一节是概述，Sophie 的转变是一整段独白；**长段与短段的交替**：政治那一大段一口气推到底，紧接着三个各占一段的短问句，**每一段都更短，也更绝望。**
+- **叙事手法**：第三人称限知（Fabienne）；**倒叙插入**——从 1943 年 7 月跳回 1939 年 6 月，插入点选在一次葬礼上，因此信息是被"回忆的形状"交出来的：凶手一节是概述，Sophie 的转变是一整段独白；**长段与短段的交替**：政治那一大段一口气推到底，紧接着两段短问句（**不是三段**），**每一段都更短，也更绝望。**
 
 ## 精读
 
@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **关键词：** You told him to speak, persuaded him that it was his...his destiny / Sophie’s wavering voice had gained strength, speed / a train rolling, careering down a hill toward disaster / He’s a dead martyr to a dead cause
 
-**为什么这样写：** 那个破折号是全章最响的一处停顿：`his...his destiny`（他的……他的命运）——**同一个词被卡住两次，而作者不在这里写结巴，只写重复，因为重复比结巴更坏。** 比喻的可贵在于它同时是**诊断**：`wavering`（摇晃的）变成 `strength, speed`（力气、速度），中间由 `as she spoke`（随着她说话）接上——**转折不靠情绪，靠速度。** `a train rolling, careering down a hill toward disaster`（一列火车朝灾难冲下坡）里的 `toward disaster`（朝着灾难）把终点先说了，**因此这句比喻不是描述，是宣判。** 末句 `a dead martyr to a dead cause`（死掉的烈士，属于死去的事业）用两个 `dead` 对称收尾，**把她的指责从他的死扩展到她的信仰。**
+**为什么这样写：** 那个**省略号**是全章最响的一处停顿：`his...his destiny`（他的……他的命运）——**同一个词被卡住两次，而作者不在这里写结巴，只写重复，因为重复比结巴更坏。** 比喻的可贵在于它同时是**诊断**：`wavering`（摇晃的）变成 `strength, speed`（力气、速度），中间由 `as she spoke`（随着她说话）接上——**转折不靠情绪，靠速度。** `a train rolling, careering down a hill toward disaster`（一列火车朝灾难冲下坡）里的 `toward disaster`（朝着灾难）把终点先说了，**因此这句比喻不是描述，是宣判。** 末句 `a dead martyr to a dead cause`（死掉的烈士，属于死去的事业）用两个 `dead` 对称收尾，**把她的指责从他的死扩展到她的信仰。**
 
 **读者视角提示：** 火车那个比喻是英语里现成的，作者换掉了它的结局：**车没有刹住，她自己也没有。**
 
@@ -105,7 +105,7 @@ modified: "2026-09-28"
 
 **关键词：** You wanted more of him than he could give / but he was always enough for me, just as he was / He was always enough
 
-**为什么这样写：** 全章最后一句把对比压成最小的一句：`You wanted more of him than he could give`（你要的比他能给的多）对上 `he was always enough for me`（他对我来说一直够）——**`more` 与 `enough` 共用同一个比较结构，因此这不是两种意见，是一次记账。** `just as he was`（就是他本来的样子）是本句最容易被读漏的六个字：**它把"够不够"的标准从他的成就移回到他这个人身上。** 而 `always`（一直）在同一句里出现两次，第二次单独成句——**整章的葬礼在这五个词上收尾，而它收的不是悲伤，是一份不需要辩护的清单。**
+**为什么这样写：** 全章最后一句把对比压成最小的一句：`You wanted more of him than he could give`（你要的比他能给的多）对上 `he was always enough for me`（他对我来说一直够）——**`more` 与 `enough` 共用同一个比较结构，因此这不是两种意见，是一次记账。** `just as he was`（就是他本来的样子）是本句最容易被读漏的六个字：**它把"够不够"的标准从他的成就移回到他这个人身上。** 而 `always`（一直）在同一句里出现两次，第二次单独成句——**整章的葬礼在这**四个词**上收尾，而它收的不是悲伤，是一份不需要辩护的清单。**
 
 **读者视角提示：** `He was always enough`（他一直就够）——**这一句与 Fabienne 那句"我还没准备好面对罪疚"是同一个问题的两个答案，一个用时态躲开，一个用重复顶住。**
 

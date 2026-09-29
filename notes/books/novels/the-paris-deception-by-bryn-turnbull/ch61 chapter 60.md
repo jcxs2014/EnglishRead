@@ -8,9 +8,9 @@ modified: "2026-09-28"
 ## 本章导航
 
 - **一句话概括**：1944 年 4 月，盟军的重型飞机编队出现在巴黎近郊天空，Sophie 在博物馆门口忍住了挥手的冲动；楼上堆满准备运往 Carinhall 的木箱， Resistance 炸毁的铁路让每批货都发不出去；Konrad Richter 死缠着要她帮忙处理明天到货的 Neumann 收藏，一边把手按在她的手上、说他已经为"那些退化者"的事道过歉了；她心里的答案是"那 Gerhardt 呢"；她在心里把账算完——自保、情报，以及将来有一天能追回这些画的可能——于是伸手要过了他手里的那本登记簿。
-- **情感弧线位置**：**从"不合作"到"重新合作"的转折章**——上一章她失去了父母，这一章她在同一座建筑里换上另一副面孔；全章的重量压在一只伸出去的手上。
+- **情感弧线位置**：**从"不合作"到"重新合作"的转折章**——**上一章（ch60）失去父母的是 Fabienne**，本章 POV 是 Sophie，这一章她在同一座建筑里换上另一副面孔；全章的重量压在一只伸出去的手上。
 - **Tropes 兑现/反转**：**兑现**——战场与档案室的双线（外面的轰炸，里面的清点）、前任以公事为名的骚扰；**反转**——作者先让读者以为她要拒绝，**却让拒绝的理由全部来自计算而非意志**（自保、情报、将来能追回）；而那个最脏的词 `the degenerates` 出自**上一章亲手点了那把火的人**的道歉。
-- **人物弧线**：Richter 在这一章里第一次被写成**变了的人**——`pasting a genteel gloss`（涂一层体面的光）这个说法暗示他从前是会涂的，而今不涂了；Sophie 则从"守誓的人"变成"记账的人"，**她本章所有的动词都是被动的或工具性的**（`She resisted the urge to wave`、`held out`、`glanced back`）。
+- **人物弧线**：Richter 在这一章里第一次被写成**变了的人**——`pasting a genteel gloss`（涂一层体面的光）这个说法暗示他从前是会涂的，而今不涂了；Sophie 则从"守誓的人"变成"记账的人"，**她本章的动作动词都是克制性的**（`She resisted`／`held out`／`glanced back` 都是主动的）（`She resisted the urge to wave`、`held out`、`glanced back`）。
 - **叙事手法**：第三人称限知（Sophie）；**两段式结构**——前半是外部世界的三件坏消息（空袭逼近、铁路被炸、粮食短缺），后半是一个人的靠近；**重复结构**是她全章的写法（`never close enough... but certainly cause for satisfaction`／`On the one hand... But...`），**作者用句法重复替她排出内心的两条账**；**收尾一个词**（`Information.`）把整章压成单音节。
 
 ## 精读
@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **关键词：** Sophie stepped out of his grasp / Richter had the good sense not to push his luck / her grief had hardened into fury / swallowing the words that were clanging around in her head: What about Gerhardt
 
-**为什么这样写：** `stepped out of his grasp`（从他的掌握中迈出去）里 `grasp`（抓握）是个身体词，**因此"挣脱"被写成一次位移而不是一次拒绝。** `her grief had hardened into fury`（悲痛硬化成怒火）用 `harden`（变硬）作过渡动词，**悲伤在这里是原材料，而怒火是烧制后的成品**——而 `but` 之后立刻跟上 `she kept her temper in check`（她把脾气按住），**于是这个成品没有被用出来。** `clanging around in her head`（在脑子里叮当作响）用声音形容未出口的话，**而破折号后的 `What about Gerhardt?` 是全章唯一一次她把一个死者的名字放进问句**——**这不是追问，是一句被咽下去的反驳。**
+**为什么这样写：** `stepped out of his grasp`（从他的掌握中迈出去）里 `grasp`（抓握）是个身体词，**因此"挣脱"被写成一次位移而不是一次拒绝。** `her grief had hardened into fury`（悲痛硬化成怒火）用 `harden`（变硬）作过渡动词，**悲伤在这里是原材料，而怒火是烧制后的成品**——而 `but` 之后立刻跟上 `she kept her temper in check`（她把脾气按住），**于是这个成品没有被用出来。** `clanging around in her head`（在脑子里叮当作响）用声音形容未出口的话，**而冒号后的 `What about Gerhardt?` 是本章少数几次她把一个死者的名字放进问句**——**这不是追问，是一句被咽下去的反驳。**
 
 **读者视角提示：** `had hardened into fury`（已经硬化成怒火）是这一年的总结；**注意作者说的是"已经"——她的怒火不是刚有的，是慢慢变硬的。**
 

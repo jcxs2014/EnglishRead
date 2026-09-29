@@ -83,7 +83,7 @@ modified: "2026-09-28"
 
 **为什么这样写：** `he repeated`（他重复道）三个字紧跟上一段——**作者用它标记"同一个人在自说自话"**，而这一重复恰好把 `I knew I’d be the one to break through` 变成一句**无人反驳的预言**。`That armor of tweed and indignation`（那身粗花呢与义愤的盔甲）把 `indignation`（义愤）**铸成了一件可以穿的东西**，于是道德成了护甲、克制成了伪装。最后 `Perfect, abject propriety...`（完美的、可鄙的规矩）用两个形容词加一个省略号收尾——**`abject`（可鄙的）是英文里少见的、专门用来骂"丑态"的词，而作者把它和 `Perfect` 并列，让赞美的语序自己崩掉。**
 
-**读者视角提示：** 他描述的这副"盔甲"与她的《吉赛尔》名单是同一件东西的两面：**别人看穿的是姿态，她抄下的是账。**
+**读者视角提示：** 他描述的这副"盔甲"与她在 Richter 登记簿上抄的东西是同一件事的两面（**原文没有《吉赛尔》这出戏——`Giselle` 全书 0 次**）：**别人看穿的是姿态，她抄下的是账。**
 
 ---
 
@@ -105,9 +105,9 @@ modified: "2026-09-28"
 
 **关键词：** her life draining away as her vision dimmed / pinpricks of stars bursting in the darkness / I’m going to die, she thought with remarkable clarity / she wasn’t scared to go / I’m going to die—
 
-**为什么这样写：** 三个被勒住脖子的人里最忌讳的是长句，而作者连写三个**最短的**——`I’m going to die` 三个词，重复两次，**中间的插语只交代"想得极清楚"与"并不怕"**。破折号挂在最后（`I’m going to die—`）不接下文，**把句子当场截断，等于把叙述也掐住一次**；紧接着下一段才是那个声音 `A voice cut through her mind, clear and forceful as a bell.`。而 `with remarkable clarity`（出奇地清楚）里的 `remarkable` 在这里是"值得注意"的意思——**濒死的人获得了一种不必要的镇定，作者用这个词点破它是被借来的。**
+**为什么这样写：** **唯一被勒住脖子的人**里最忌讳的是长句，而作者连写三个**最短的**——`I’m going to die` 三个词，重复两次，**中间的插语只交代"想得极清楚"与"并不怕"**。破折号挂在最后（`I’m going to die—`）不接下文，**把句子当场截断，等于把叙述也掐住一次**；紧接着下一段才是那个声音 `A voice cut through her mind, clear and forceful as a bell.`。而 `with remarkable clarity`（出奇地清楚）里的 `remarkable` 在这里是"值得注意"的意思——**濒死的人获得了一种不必要的镇定，作者用这个词点破它是被借来的。**
 
-**读者视角提示：** 这本书里"临死前听见的声音"出现的方式始终一样：**不是她自己给自己的，是别人给她的**；记住它，因为下一章里有人会在她耳边说另一句更短的话。
+**读者视角提示：** 这本书里"临死前听见的声音"出现的方式始终一样：**不是她自己给自己的，是别人给她的**；记住它，因为**下一段**里有人会在她耳边说另一句更短的话（ch64 无此情节）。
 
 ## 本章词汇
 
