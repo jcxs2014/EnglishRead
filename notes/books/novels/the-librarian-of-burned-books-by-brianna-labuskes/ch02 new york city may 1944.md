@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 3:** The stench of days-old cabbage receded once she stepped into the restaurant’s kitchen.
+> **原句 3:** The stench of days-old cabbage receded once she stepped into the restaurant’s kitchen. Her confidence returning, Viv donned the femme fatale persona she’d been channeling all morning in preparation for this wild scheme. She’d even deliberately dressed the part, having paired her black skirt with matching garters and precious stockings with seams that hugged the backs of her calves.
 
 **中文理解**：走进餐馆厨房那一刻，陈了数日的大白菜味散了开去。信心回来的同时，Viv 套上了她整个上午都在排练的"蛇蝎美人"人格，连穿着都是刻意配好的：黑裙子、配套吊袜带、贴着腿后侧走线的长袜。
 
@@ -57,19 +57,19 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 4:** Senator Robert Taft was headed back to Washington, DC, in the morning, and he didn’t have a strong track record of answering her letters.
+> **原句 4:** Senator Robert Taft was headed back to Washington, DC, in the morning, and he didn’t have a strong track record of answering her letters. This confrontation had to happen in person and it had to be today.
 
 **中文理解**："Taft 先生明早就要回华盛顿，他对我的信向来不怎么回应。这场摊牌必须当面进行，而且必须是今天。"
 
 **关键词**：headed back to Washington / didn’t have a strong track record of answering her letters / This confrontation had to happen in person
 
-**为什么这样写**：全章的赌注在第六段被一次性摆清。`a strong track record of answering her letters`（在回信这件事上没什么好名声）——这一句同时交代了她此前六个月的失败史（序章里"past six months"第一次出现）与她在序章信里那句"你从不觉得战争乏味"的反面。`This confrontation had to happen in person`（必须当面）用被动式的 `had to`（不得不）把选择说成必然，于是读者的紧张感不是"她会不会去"，而是"她能不能全身而退"。
+**为什么这样写**：全章的赌注在第六段被一次性摆清。`a strong track record of answering her letters`（在回信这件事上没什么好名声）——这一句同时交代了她此前六个月的失败史（`past six months` 就在本章第一次出现，序章里没有）与她在序章信里那句"你从不觉得战争乏味"的反面。`This confrontation had to happen in person`（必须当面）用情态动词 `had to`（不得不）把选择说成必然，于是读者的紧张感不是"她会不会去"，而是"她能不能全身而退"。
 
 **读者视角提示**：注意这里还没出现书的清单——她为了这次见面做了整套戏法，而她要递出去的东西在下一段才揭示。
 
 ---
 
-> **原句 5:** “The Adventures of Huckleberry Finn,” Viv said, keeping her eyes locked to his.
+> **原句 5:** “The Adventures of Huckleberry Finn,” Viv said, keeping her eyes locked to his. She wondered if he had ever even seen an Armed Services Edition.
 
 **中文理解**："这是《哈克贝利·费恩历险记》。"她一边说，一边把眼睛锁在他身上，心里想的是他大概连一版军版小开本都没见过。
 
@@ -105,7 +105,7 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 8:** “The boys carry these books into battle,” she said as softly as possible so that it would land that much harder.
+> **原句 8:** “The boys carry these books into battle,” she said as softly as possible so that it would land that much harder. She didn’t try to break away from his grasp. Maybe he would feel the steady thrum of her pulse, the surety of her conviction. “A man sent me a copy of The Adventures of Tom Sawyer last week that still had blood on it. He meant it as a thank-you. His buddy had a good laugh the night before he died because of that book.”
 
 **中文理解**："那个死在炮火里的士兵上周给我寄来一本《汤姆·索亚历险记》，书上还带着血。他本意是道谢。他那个同伴，前一晚临死前笑了一整晚，笑的就是这本书。"
 

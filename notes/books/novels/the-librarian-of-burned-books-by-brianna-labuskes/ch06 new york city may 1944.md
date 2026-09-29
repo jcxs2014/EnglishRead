@@ -21,13 +21,13 @@ modified: "2026-09-29"
 
 ## 精读
 
-> **原句 1:** It was surprisingly small but packed with towering shelves and tables crowded with sloppy stacks of books.
+> **原句 1:** It was surprisingly small but packed with towering shelves and tables crowded with sloppy stacks of books. Rays of light poured in from the windows, catching the dust in the air; an abandoned cup of tea sat on the sill; low music played from the wireless perched on the checkout desk, everything so cozy and lived in that Viv had to suppress the urge to pick a novel at random and curl up with it in one of the chairs.
 
 **中文理解**：房间出奇地小，却塞满了顶到天花板的书架和堆着杂乱书堆的桌子。光线从窗户倾泻进来，照出空气里的灰尘；窗台上搁着一杯喝剩的茶；柜台上那台收音机放着低低的音乐——一切都温馨而有人住过，Viv 差点忍不住随手抓一本小说，窝进某把椅子里。
 
 **关键词**：surprisingly small but packed with towering shelves / sloppy stacks of books / catching the dust in the air / an abandoned cup of tea / suppress the urge to pick a novel at random
 
-**为什么这样写**：`surprisingly small but packed with`（出奇地小却塞满了）——这个 `but` 是全章的定调句：这里不是宏伟的图书馆，是**塞得满满的小房间**，而"满满"正是禁书目录的物理形态。`sloppy stacks`（凌乱的书堆）与 `towering shelves`（高耸的架子）形成两种秩序的并置：一部分是抢救回来的混乱，一部分是图书馆式的排列。`an abandoned cup of tea`（一杯喝剩的茶）与 `a chin` 等日常细节把神圣议题落地——**这些书不是在玻璃柜里供着，是在被人用的房间里**。最后 `suppress the urge to pick a novel at random`（压住随手抓一本的冲动）把她写成读者而不只是活动家。
+**为什么这样写**：`surprisingly small but packed with`（出奇地小却塞满了）——这个 `but` 是全章的定调句：这里不是宏伟的图书馆，是**塞得满满的小房间**，而"满满"正是禁书目录的物理形态。`sloppy stacks`（凌乱的书堆）与 `towering shelves`（高耸的架子）形成两种秩序的并置：一部分是抢救回来的混乱，一部分是图书馆式的排列。`an abandoned cup of tea`（一杯喝剩的茶）与窗台上那层灰把神圣议题落地——**这些书不是在玻璃柜里供着，是在被人用的房间里**。最后 `suppress the urge to pick a novel at random`（压住随手抓一本的冲动）把她写成读者而不只是活动家。
 
 **读者视角提示**：`the dust in the air`（空气里的灰尘）——光在这里是"照出"而不是"照亮"，这一笔决定了这个空间的质感。
 
@@ -73,7 +73,7 @@ Vendetta。Viv 喜欢这个词，喜欢它画出的那幅画面。
 
 ---
 
-> **原句 5:** She had never been able to craft the right narrative about this fight with Taft.
+> **原句 5:** She had never been able to craft the right narrative about this fight with Taft. The ASEs had simply gotten swept along in the bigger mess of the Soldier Voting Act—which had become so esoteric that eyes tended to glaze over when anyone tried to dive into the details.
 
 **中文理解**：军版小开本只是被裹进了《军人投票法案》那团更大的乱麻里；而那部法案本身已经晦涩到任何人一钻进细节，眼睛就开始发直。
 
@@ -85,7 +85,7 @@ Vendetta。Viv 喜欢这个词，喜欢它画出的那幅画面。
 
 ---
 
-> **原句 6:** Americans were exhausted from caring about too many things.
+> **原句 6:** Americans were exhausted from caring about too many things. The plight of a free book program could hardly make waves in an ocean of grief and loss and hardship that was this never-ending war.
 
 **中文理解**：美国人对关心的事已经疲惫了。一个免费图书项目的困境，在这片没完没了的战争造成的悲伤与失去的汪洋里，激不起任何浪花。
 

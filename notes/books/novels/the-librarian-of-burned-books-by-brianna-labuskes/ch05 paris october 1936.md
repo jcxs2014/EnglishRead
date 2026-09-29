@@ -95,7 +95,7 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 7:** “Paris isn’t my homeland to defend,” Hannah said.
+> **原句 7:** “Paris isn’t my homeland to defend,” Hannah said. Harsh, maybe, but honest. “Mine was already taken. Which is why I refuse to fall in love.”
 
 **中文理解**："巴黎不是我要守护的故土。我的早已被拿走了。所以我拒绝坠入爱河。"
 
@@ -119,7 +119,7 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 9:** Hannah knew the assault should strengthen her resolve, make her want to take up a sword.
+> **原句 9:** Hannah knew the assault should strengthen her resolve, make her want to take up a sword. But every day that passed, she was less and less certain the world really was worth saving.
 
 **中文理解**：Hannah 知道这次袭击本该让她更坚定，让她想拔剑。可每过一天，她就更不确定这个世界究竟是否值得拯救。
 

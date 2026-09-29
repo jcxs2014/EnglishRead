@@ -117,7 +117,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：`pull a happy ending out of thin air`（凭空变出）——这个短语把"努力"降级为"魔术"：她认为幸福的结局只能被找到，不能被造出来。`just because I want it enough`（只因为我够想要）——`enough`（足够地）这个词是全句最苦的地方：它承认了意志的作用，同时否定了意志的充分性。随后的 `It almost hurt to talk about this`（说到这里几乎有点疼）把一次观点分歧写成了身体感受。
 
-**读者视角提示**：这与 Harrison 上一段的 `create your own happy ending here`（在这里自己造一个幸福的结局）正面对撞——**两种世界观在酒吧里撞了一次，撞出了后面四十章的行动方案**。
+**读者视角提示**：这与 Harrison 紧接着抛出的 `create your own happy ending here`（在这里自己造一个幸福的结局）正面对撞——**两种世界观在酒吧里撞了一次，撞出了后面四十章的行动方案**。
 
 ---
 

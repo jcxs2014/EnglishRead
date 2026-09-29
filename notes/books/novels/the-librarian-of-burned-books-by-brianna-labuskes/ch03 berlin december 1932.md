@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 ## 精读
 
-> **原句 1:** The fairy lights stretching between booths at the winter market blurred into stars as the cold tickled Althea James’s eyes.
+> **原句 1:** The fairy lights stretching between booths at the winter market blurred into stars as the cold tickled Althea James’s eyes. Laughter coiled around her, tugging her deeper into the noise and bustle that filled an otherwise quiet square a few blocks from the much busier Potsdamer Platz.
 
 **中文理解**：冬日集市上，摊位之间拉起的彩灯串模糊成了一颗颗星星，寒气刺得 Althea James 眼睛发痒。笑声绕着她打转，把她往人群与喧闹的更深处拽——那声音填满了一个本该安静的广场，离车水马龙的波茨坦广场只有几个街区。
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 3:** She didn’t mention that she seemed to have lost her ability to tell a story ever since she’d been plucked out of obscurity by a twist of fate.
+> **原句 3:** She didn’t mention that she seemed to have lost her ability to tell a story ever since she’d been plucked out of obscurity by a twist of fate. Every time she tried to start her next novel, the blank pages mocked her. How was she supposed to follow up lightning in a bottle?
 
 **中文理解**：她没有提起的是：自从被命运的一个转折从无名中拽出来之后，她似乎已经失去了讲故事的能力。每次试着开始写下一部小说，空白页都在嘲笑她。她该怎么接得上"瓶中的闪电"？
 
@@ -123,7 +123,7 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 9:** “Of course.” Althea gave him the best smile she could as she tapped the title.
+> **原句 9:** “Of course.” Althea gave him the best smile she could as she tapped the title. Mein Kampf. She could read German better than she could converse or write in it, so the translation came easily. “My Struggle.”
 
 **中文理解**：她能读德文，只是既不能说也不能写，所以那个译名来得毫不费力。"我的奋斗。"
 
