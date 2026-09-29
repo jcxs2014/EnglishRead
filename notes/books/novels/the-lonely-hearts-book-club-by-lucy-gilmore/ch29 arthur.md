@@ -225,7 +225,7 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 18:** “He kept me alive, didn’t he?” I demanded in my usual manner, but my heart wasn’t it. I sighed and added, “He’s a good kid. A little driftless, but who isn’t at that age? I like him.”
+> **原句 18:** I sighed and added, “He’s a good kid. A little driftless, but who isn’t at that age? I like him.”
 
 **中文理解**：他对 Mateo 的评价。
 

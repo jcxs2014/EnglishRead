@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 4:** “If I have to spend another minute inside this house, I’m going to start tearing the wallpaper from the walls.” My grandfather turned a malevolent eye on me. “That’s a literary reference, in case you were wondering.”
+> **原句 4:** “That’s a literary reference, in case you were wondering.”
 
 **中文理解**：他随即自证。
 

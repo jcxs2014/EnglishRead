@@ -351,16 +351,41 @@ modified: "2026-09-29"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| grandmother | 祖母 | This whole thing with my grandmother had thrown me for a serious loop. |
+| topography | 地形图（他手上青筋被描写成的那张地图） | Everyone in the room turned to find my grandfather standing a few feet away, clutching the doorframe so hard that we could count each vein on the marbled topography of his hand. |
+| conspiring | 合谋（他在这一章两次用到的那组词之一） | “No one is conspiring against you,” I said. |
+| curmudgeon | 老怪胎（他变脸前一秒的样子） | In an instant, he went from a slightly stooped, sleepy curmudgeon to the devil himself. |
+| literature | 文学（他骂他们在做的事时用的词） | “I’ve borne the four of you taking over my house and my bookshelves, listened to you share your wrong opinions on literature and sob endlessly about your personal problems, but this is where I draw the line. |
+| dressing-down | 训斥（他意识到祖父刚做的那件事时的那个名词） | I didn’t agree with almost everything my grandfather had just leveled at our heads, but I knew a dressing-down when I heard one. |
+| overbearing | 什么都管到头上的（他形容梅赛的那个定语） | “Any idiot could see that what that child needed was space, not some overbearing helicopter mom without a life to call her own. |
+| helicopter | 直升机（他用来指代那种母亲的那个词） | “Any idiot could see that what that child needed was space, not some overbearing helicopter mom without a life to call her own. |
+| chickenshit | 胆小鬼（他骂那两个年轻人的那个词） | Because you’re too chickenshit to do something that really matters? |
+| single-file | 排成一列的（他形容这四个人离开时的反衬） | Not in a single-file line or one at a time, but as a pack and without once moving from their positions around me. |
+| incongruously | 不协调地（他形容八月阳光的那句里用的副词） | Dazed, I had no choice but to fall into their protective cocoon, to be pushed and prodded out the door until I stood in the incongruously cheerful August sun. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| longingly | 含情脉脉地（他形容那两个人对视时的副词） | For all we know, Arthur and Nigel are looking longingly at a cake. |
+| alleviate | 缓解（他形容梅赛的道歉效果的动词） | Her quick apology did little to alleviate my grandfather’s wrath. |
+| flinching | 躲闪（他形容自己听见那些话之前的反应） | Already, I could feel myself flinching away from him, curving my body in an effort to prevent the blows from landing on my vital parts. |
+| grandson | 外孙（他喊出来的那两个字） | My grandson. |
+| hunkering | 缩在角落里的（他形容自己蜷起来躲的样子） | “Hannah would have been ashamed to see you hunkering on that hospital bed in the corner, begging for whatever scraps of affection I decide to give you. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| love triangle | 爱情三角 | “It’s a love triangle! |
+| best woman | 伴娘 | This was the house that had forged the best woman I’d ever known, the only place where I could access the memories that existed outside my own heart. |
+| grandfather | 祖父 | That was your grandfather lashing out like a wounded animal, protecting himself the only way he knows how. |
+| mother | 母亲 | It had nothing to do with you or your mother. |
+| needle | 针（他形容 Mateo 声音的那个比喻） | His voice was sharp and pointed, like a needle stabbing into the same hole over and over again. |
+| nostrils | 鼻孔（他发怒时被描写的那两片） | His nostrils flared and his color heightened, his blood boiling over for everyone to see. |
+| protective arc | 保护性的弧线（这一章那个队形的名字） | I had no idea when everyone in the room had started moving, but when I finally managed to breathe, it was to find that Maisey, Sloane, and Mateo had formed a protective arc in front of me. |
+| protective cocoon | 保护的茧（他们推着他走出那扇门时的比喻） | Dazed, I had no choice but to fall into their protective cocoon, to be pushed and prodded out the door until I stood in the incongruously cheerful August sun. |
+| psychic | 通灵的（他攻击梅赛时用的那个词） | You call yourself a psychic, but you’re the most obtuse person I’ve ever met. |
 
 ## 一句话总结
 

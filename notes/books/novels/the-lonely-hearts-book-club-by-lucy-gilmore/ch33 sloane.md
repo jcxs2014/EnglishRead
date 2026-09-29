@@ -81,7 +81,7 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 6:** “You’ll have to seriously pare down your books before we start boxing things up, though,” Brett said. “Or better yet—I’ll buy you an e-reader. If we start converting everything to digital now, we might be able to just toss the whole collection out.”
+> **原句 6:** “Or better yet—I’ll buy you an e-reader. If we start converting everything to digital now, we might be able to just toss the whole collection out.”
 
 **中文理解**：他要的那一步。
 

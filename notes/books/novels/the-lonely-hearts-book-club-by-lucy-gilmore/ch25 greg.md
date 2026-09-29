@@ -209,19 +209,19 @@ modified: "2026-09-29"
 
 **为什么这样写**：全章最舒服的一段，而它的形式是三个人一起吹捧一个不在场的人。作者让他在整本书里第一次因为别人的缘故被恭维，而那个恭维的来源是他的祖父。
 
-**读者视角提示**：留意 he was almost starstruck to have met me（他见到我几乎是明星见到粉丝那么激动）。这本书里被明星化的人是老人。
+**读者视角提示**：留意 作者紧接着的那句「我们在他的休息时间堵了他」把「被崇拜」翻译成了「被纠缠」。
 
 ---
 
-> **原句 17:** “I can’t believe you’re Professor McLachlan’s grandson,” said one of the librarians. We’d accosted him on his break, but he didn’t seem upset about it. If anything, he was almost starstruck to have met me. “I failed his Literary Theory class three times. Three. He was the best teacher I ever had.”
+> **原句 17:** We’d accosted him on his break, but he didn’t seem upset about it.
 
-**中文理解**：三次挂科。
+**中文理解**：他的第一次成功。
 
-**关键词**：“I failed his Literary Theory class three times. Three.”（他的文学理论课我挂了三次。三次。）
+**关键词**：We’d accosted him on his break, but he didn’t seem upset about it.（我们在他休息的时候堵了他，而他好像并不生气。）
 
-**为什么这样写**：全章最好笑的一次教学评估，而它把「最好的老师」这个说法拉到了日常。注意那个重复（Three.）——它既是强调，也是抱怨。
+**为什么这样写**：全章最反讽的一处评价。作者让一个刚被吹捧得飘飘然的图书管理员，用最平静的语气说出一个事实：这个人完全不介意被人围住——而这份不介意正是这个人物最核心的特质。
 
-**读者视角提示**：留意这一章前面作者刚说过 no marble reverence（没有大理石式的肃穆）。这所学校关于课堂的唯一证据来自一个挂科三次的人的怨气。
+**读者视角提示**：留意 紧跟的下一句是 If anything, he was almost starstruck（不只是这样，他简直像见到明星）——而 starstruck 这个词是这一章最刺眼的一个。
 
 ---
 

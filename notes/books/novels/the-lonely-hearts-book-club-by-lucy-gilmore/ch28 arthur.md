@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 2:** Most of the books I’d read in my lifetime started with an origin story. People loved that kind of garbage when they were looking back on the wreckage of their lives, of years wasted and pain suffered, of opportunities that whizzed past because they were too scared to reach out and grab them.
+> **原句 2:** People loved that kind of garbage when they were looking back on the wreckage of their lives, of years wasted and pain suffered, of opportunities that whizzed past because they were too scared to reach out and grab them.
 
 **中文理解**：他对这类书的判决。
 

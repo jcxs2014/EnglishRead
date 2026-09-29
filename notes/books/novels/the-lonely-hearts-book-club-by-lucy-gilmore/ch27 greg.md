@@ -69,27 +69,27 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 5:** “Don’t worry. He’s going to live.” I locked eyes with my grandfather’s. They were like a reflection of my mom’s—the same gray color, the same steely flash of determination—but without a fraction of her warmth.
+> **原句 5:** “Don’t worry.
 
-**中文理解**：他们的眼睛。
+**中文理解**：他还在装。
 
-**关键词**：“Don’t worry. He’s going to live.” I locked eyes with my grandfather’s. They were like a reflection of my mom’s—the same gray color, the same steely flash of determination—but without a fraction of her warmth.
+**关键词**：“Don’t worry.（别担心。）
 
-**为什么这样写**：全章最动人的一次描写。作者让他隔着一代人在这一双眼睛里看见他母亲，而分辨出来的是那个 without a fraction of her warmth（连她温暖的万分之一都没有）。
+**为什么这样写**：全章最短的一块，而它只有三个词。作者让一个刚说完「我在这儿什么都 accomplish 不成，至少这一件我能做到」的人，接着说别担心——而这句话是反讽，因为他正在做的那一件是瞒着他。
 
-**读者视角提示**：留意 the steely flash of determination（钢一样的决心的一闪）——这个词组是为这一章那句「但她能，而且她会的」准备的。
+**读者视角提示**：留意 紧跟着的下一块才是他真正的意图：他会活下去。
 
 ---
 
-> **原句 6:** “Don’t worry. He’s going to live.” I locked eyes with my grandfather’s. They were like a reflection of my mom’s—the same gray color, the same steely flash of determination—but without a fraction of her warmth. “If I accomplish nothing else while I’m here, I can at least do that much.”
+> **原句 6:** He’s going to live.” I locked eyes with my grandfather’s. They were like a reflection of my mom’s—the same gray color, the same steely flash of determination—but without a fraction of her warmth.
 
-**中文理解**：他给自己的任务。
+**中文理解**：他真正的计划。
 
-**关键词**：If I accomplish nothing else while I’m here, I can at least do that much.
+**关键词**：He’s going to live.” I locked eyes with my grandfather’s. They were like a reflection of my mom’s—the same gray color, the same steely flash of determination—but without a fraction of her warmth.
 
-**为什么这样写**：全章最短的一次承诺，而它的结构是「就算别的都做不成」。作者用一个 accomplish（做成）把这个承诺压到最低，也因此把它变成这一章唯一一件他还相信的事。
+**为什么这样写**：全章最重要的一次交代，而他把这句计划和他眼睛里的东西写在了同一句里。作者让一个说他「什么都不做」的人宣布他要保住一个人的命，而那双眼是全书他最接近母亲的时刻。
 
-**读者视角提示**：留意这一句是他唯一没有说「但」的地方。
+**读者视角提示**：留意 without a fraction of her warmth（连她温暖的万分之一都没有）——这半句是这一章唯一一处他承认自己不如她。
 
 ---
 
