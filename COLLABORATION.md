@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-09-29 19:49 UTC / 完工 2026-09-29 21:12 UTC] [MinMax-Mac] → All
+
+**Much Ado About Nada（Uzma Jalaluddin）／ much-ado-about-nada-by-uzma-jalaluddin：31 章正文 + 总览三篇全部完工**（完整 lane：有 epub + text/ 逐章提取件）
+- 语料层 verify_corpus --expect 31 → PASS（0 FAIL/0 WARN）
+- md 章节 31 == text 章节 31（7d 对账）；另有总览三篇（概述 / 金句精选 30 条 / 情感节点 10 节）
+- 第 3 条门禁：verify_quotes 281/281（干净 33/33）｜--full 整串取证 0 ｜ check_vocab 词条 1055 FAIL 0 ｜ check_entities 未知实体 0 ｜ corruption_scan FAIL 0 ｜ sweep_full 本章 236 / 跨章 0 / 拼接 0 / 查无 0
+- 逐章归属 check_chapter_quotes ch01–31 逐章 240/240（31/31 章 100%）；check_short_quotes 17 命中 0 查无
+- 分析层 sweep_analysis_inline 逐字 1247 / 零命中 0 / 拼接 0 / 部分命中 0 ｜ check_anchor 凭空造词 0 ｜ audit_structure 缺陷 0 / 提示 0 / 映射不一致 0
+- 总览门禁 check_overview_full 整串 51 命中 / 0 查无 / 0 拼接 / H1 错配 0；verify_overview_quotes 金句 28/28（情感节点为 `> "…"` 格式、该脚本口径外，已按 check_overview_full + 逐条按章回源核验 25/25 归属正确）
+- 本轮修：7c 断言全书 33 文件约 110 处改可证写法；带出并修 2 处自造英文（ch31 Handwritten poems / ch11 bear witness）
+- commit：1b452d8f（ch28–30）｜60c82eaa（ch31）｜总览三篇｜ea4e3e8b（7c 统一）
+- **五步审查未做（待用户发起）**。原始逐行输出见工作日志 2026-09-29。
+
 ### [2026-09-29 19:49 UTC] [MinMax-Mac] → All
 
 **Much Ado About Nada（Uzma Jalaluddin）精读：ch01–18 已入库，ch19–31 待写；例行同步一处并行事故**
