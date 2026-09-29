@@ -351,16 +351,49 @@ modified: "2026-09-29"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| compliment | 夸奖（他评价对方那句「你比其他人湿」时的分类） | Being called wet wasn’t much of a compliment, but it was better than nothing. |
+| physically | 身体上地（他形容 Lincoln 说出那两个字时的动作） | He said those last two words—budding author—like he had to physically slice them from his tongue in order to get them out. |
+| point-blank | 正对着脸（他母亲当年问那件事的方式，也是他讲自己最疼的一段时用的词） | Came out with it, point-blank. |
+| manufactured | 制造（他说自己七岁那年那场「事故」的动词） | “I’m the one who manufactured it, not her. |
+| contracting | 收缩（他形容自己那一刻的情绪世界的那一半） | In that moment, standing in a parking lot with a man I adored, my world expanding and contracting like a breath that wouldn’t end, I was having the hardest time deciding what was happening. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| scornful | 轻蔑的（他上一章末尾用过的那个定语） | Instead of walking out of the restaurant to find my scornful lover staring moodily out over the water or angrily punching holes into walls, I discovered him bent on one knee as he changed the tire of a stranger in the parking lot. |
+| uselessly | 徒劳地（他看那群大学生站在旁边时用的副词） | “Spares aren’t meant to carry you for long, so make sure you head straight to a mechanic,” he said to the group of college-aged teens standing uselessly by as they watched him. |
+| handiwork | 手艺活（他评价 Lincoln 换轮胎那个成果时的用词） | He finished tightening the lug nuts and stood back to survey his handiwork. |
+| distance | 距离 | The teens thanked him for his help, one of the girls even going so far as to offer him either a twenty-dollar bill or her phone number—from my distance, I couldn’t tell which—for his trouble. |
+| declined | 谢绝（他看 Lincoln 拒绝那二十块和电话号码时用的词） | He declined and stood watching to make sure the tire held as they piled into the vehicle and drove away. |
+| stranded | 困在路上的（Lincoln 替陌生人停下车的理由） | “They were stranded. |
+| motorist | 车主（他用一个类别名去描述那群大学生） | Lincoln would no more pass by a stranded motorist than he would fail to help children cross the street or call out people speaking rudely to customer service workers. |
+| children | 孩子 | Lincoln would no more pass by a stranded motorist than he would fail to help children cross the street or call out people speaking rudely to customer service workers. |
+| reviewer | 书评人 | You just accused me of leading on an eighty-year-old book reviewer I talked to for all of ten minutes. |
+| bothered | 不安（他说 Lincoln 开始烦躁时的那个词） | I had no idea what thing he was talking about—or why it was getting him all hot and bothered—but something about the tight coil of his posture warned me to tread lightly. |
+| crawling | 爬（他看蚂蚁发现那块糖渍时的动作） | I watched as the ants discovered a patch of sticky residue and started crawling over each other to get to it. |
+| startled | 吃惊（他看见 Lincoln 转头时的那个反应） | Lincoln looked over at me, startled. |
+| bitterly | 苦涩地（他描述自己这一章说自己的语气时用的副词） | He’d never heard me talk so bitterly about myself before, but that was because I’d never opened this particular wound. |
+| occurred | 发生（他形容那件事的那个中性的过去式动词） | If my literal descent into fame had never occurred, what would we have done? |
+| answered | 回答（他对自己那句 Lincoln 问了就必须答的说明） | Lincoln had asked, so Lincoln would be answered. |
+| supplied | 替他把话说完（他描述 Lincoln 补上那两个候选词时的那个动词） | Lincoln supplied a few possible answers. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| ants | 蚂蚁 | I watched as the ants discovered a patch of sticky residue and started crawling over each other to get to it. |
+| back | 背 | Who loved me so much that I was terrified of what would happen if I let myself love her back. |
+| borderline cult | 边缘邪教（他形容自己那份私教工作的说法） | The stint with personal training, an MLM menswear scheme that had been a borderline cult, even a few bizarre weeks as a mascot at a theme park in my teens—they’d all been a way to avoid the thing that was staring me in the face. |
+| gaze | 目光 | He was careful not to look at me, his gaze fixed instead on a crushed paper cup teeming with ants. |
+| heart | 心 | “I don’t mind,” I said, my heart starting to pick itself up from the pit of my stomach. |
+| lie | 谎 | “I don’t know what you’re talking about,” I said, but it was a lie. |
+| overwhelming influence | 压倒性的影响力（他形容自己母亲的用词，心理学说法） | I’d climbed into a well to hide from the overwhelming influence of the woman who’d given birth to me. |
+| parking lot | 停车场（这一整章的舞台） | Instead of walking out of the restaurant to find my scornful lover staring moodily out over the water or angrily punching holes into walls, I discovered him bent on one knee as he changed the tire of a stranger in the parking lot. |
+| strength | 力量（他引的那句书里的话的关键词） | “‘Oh, her strength! |
+| teens | 十几岁的孩子 | The teens thanked him for his help, one of the girls even going so far as to offer him either a twenty-dollar bill or her phone number—from my distance, I couldn’t tell which—for his trouble. |
+| tone | 语气 | “The last true white knight,” I said, the whole of the Sahara in my tone. |
+| world | 世界 | In that moment, standing in a parking lot with a man I adored, my world expanding and contracting like a breath that wouldn’t end, I was having the hardest time deciding what was happening. |
 
 ## 一句话总结
 
