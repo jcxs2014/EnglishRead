@@ -127,7 +127,7 @@ modified: "2026-09-29"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| semblance | 表象，丝毫（a semblance of harmony 表面的和睦） | Missus would be ready to retire soon, and if I wanted any semblance of harmony, her room needed to be warmed and ready. |
+| semblance | 表象，丝毫（any semblance of harmony 哪怕表面的和睦） | Missus would be ready to retire soon, and if I wanted any semblance of harmony, her room needed to be warmed and ready. |
 | spiritual | 灵歌（黑人宗教民歌） | I could hear Aunt Hope humming a spiritual as I washed up in the basin on the side of the kitchen house. |
 | adjusted | 适应，（眼睛）适应光线 | When my eyes adjusted, I sucked my teeth. |
 | enforced | 执行，强制推行 | Only enforced them. |

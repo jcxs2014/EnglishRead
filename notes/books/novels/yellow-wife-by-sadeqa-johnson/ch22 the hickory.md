@@ -85,7 +85,7 @@ modified: "2026-09-29"
 
 **关键词**：his foot on our necks（脚踩在我们脖子上）；without his permission（没有他的许可）
 
-**为什么这样写**：统治学的自供状只有一句。foot on our necks 的意象后来成为美国种族话语的经典图腾（“I can’t breathe”），作者在历史小说里写出了它的原型机制：不是踩死，是调节呼吸——恐惧的计量阀。permission 一词把呼吸写成特权：在这个体系里，连生理机能都要审批。作者让这段认知出现在 Pheby 医治 Tommy 之后——她一边包扎一边完成对权力结构的最终定位。
+**为什么这样写**：统治学的自供状只有一句。foot on our necks 的意象与书中紧随的 we could not breathe without his permission 遥相呼应，后来成为美国种族话语的经典图腾；作者在历史小说里写出了它的原型机制：不是踩死，是调节呼吸——恐惧的计量阀。permission 一词把呼吸写成特权：在这个体系里，连生理机能都要审批。作者让这段认知出现在 Pheby 医治 Tommy 之后——她一边包扎一边完成对权力结构的最终定位。
 
 **读者视角提示**：把这句话当作理解全书权力场景的万能钥匙：Master 的「counting on you」、Jailer 的「You are mine」、点名会的口粮——全都是这只脚的不同踩法。
 
