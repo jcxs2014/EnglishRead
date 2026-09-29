@@ -8,7 +8,7 @@ source_text: ch27
 
 ## 本章导航
 
-**一句话概括**：Grace 用九个月给自己办了一场葬礼：Carmen 被捕后的整整九个月（Nine months felt like a tribute to her own fucked-up journey），她请 Octavio 找了一具没人认领的死尸、换上牙科记录、烧掉所有能认出的东西，让 Doña Durka 的链子熔在尸身上；葬礼的挽联写着「Love Alive — The Little Mothers aka the D.O.D.」，墓碑上刻 Ntozake Shange 那句「I found God in myself and I loved her fiercely」；她还去中心最后一次上了一节关于堕胎的课，对 Annie 说「We don't have to agree on everything to have each other's backs」；然后她去 Nuyorican Poets Café 听 Remy 用「La Última」这个名字念诗——Hope is cheap and easy. Fuck hope.——回家路上她开始跟着那辆从三车之外跟了她一路的轿车。
+**一句话概括**：Grace 用九个月给自己办了一场葬礼：Carmen 被捕后的整整九个月（Nine months felt like a tribute to her own fucked-up journey），她请 Octavio 找了一具没人认领的死尸、换上牙科记录、烧掉所有能认出的东西，让 Doña Durka 的链子熔在尸身上；葬礼的挽联写着「Love Alive from your heart—The Little Mothers aka the D.O.D.」，墓碑上刻 Ntozake Shange 那句「I found God in myself and I loved her fiercely」；她还去中心最后一次上了一节关于堕胎的课，对 Annie 说「We don't have to agree on everything to have each other's backs」；然后她去 Nuyorican Poets Café 听 Remy 用「La Última」这个名字念诗——Hope is cheap and easy. Fuck hope.——回家路上她开始跟着那辆从三车之外跟了她一路的轿车。
 
 **情感弧线位置**：Grace 视角的最后一段，也是全书两条线正式分开的那一段。ch24 她还在为丢掉 Red 付账，本章她已经把整件事变成了一场她自己设计的仪式。弧线位置在悬空——她自由了，而自由的形式是一具不属于自己的尸体。
 
@@ -209,5 +209,5 @@ source_text: ch27
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 
-## 一句话总结**：Grace 给自己办了一场葬礼——在 Carmen 被捕后的整整九个月（Nine months felt like a tribute to her own fucked-up journey），她用一具无名尸、换过的牙科记录、熔掉的 Durka 链子做成了一场假死；挽联写着「Love Alive — The Little Mothers aka the D.O.D.」，墓碑上刻「I found God in myself and I loved her fiercely.」；她先去中心上完最后一节关于堕胎的课（对 Annie 说「We don't have to agree on everything to have each other's backs」），又去听 Remy 以「La Última」之名在 Nuyorican Poets Café 念诗——「Hope is cheap and easy. Fuck hope.」；回程路上她开始跟着那辆从三车之外一直跟她的轿车，而全书给 Grace 人生下的最后一句判词是：「I love Carmen and Red, and that did not go well either.」
+## 一句话总结**：Grace 给自己办了一场葬礼——在 Carmen 被捕后的整整九个月（Nine months felt like a tribute to her own fucked-up journey），她用一具无名尸、换过的牙科记录、熔掉的 Durka 链子做成了一场假死；挽联写着「Love Alive from your heart—The Little Mothers aka the D.O.D.」，墓碑上刻「I found God in myself and I loved her fiercely.」；她先去中心上完最后一节关于堕胎的课（对 Annie 说「We don't have to agree on everything to have each other's backs」），又去听 Remy 以「La Última」之名在 Nuyorican Poets Café 念诗——「Hope is cheap and easy. Fuck hope.」；回程路上她开始跟着那辆从三车之外一直跟她的轿车，而全书给 Grace 人生下的最后一句判词是：「I love Carmen and Red, and that did not go well either.」
 

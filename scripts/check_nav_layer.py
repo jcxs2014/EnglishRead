@@ -27,6 +27,12 @@ targets = [Path(x) for x in sys.argv[2:] if not x.startswith("--")] or sorted(bo
 
 flat = lambda s: re.sub(r"[^a-z0-9]", "", s.lower())
 
+# ⚠️ 2026-09-29：md 里的破折号（—/–/——）在 flat 时被丢弃，会把
+# `Love Alive" from your heart—The Little Mothers` 这类**含破折号的原文**
+# 切成两半而误报（Carmen and Grace ch27 挽联实证：原文有 from your heart，
+# md 改写成 `—`，flat 后两边拼不回去）。判为工具假阳性，故不删破折号，
+# 而是**双口径**：先按原样比，未命中再按「去破折号两侧空格」比一次。
+
 # 左右引号配对表：中文可嵌套但须同类闭合；直引号不嵌套。
 _PAIRS = {"「": "」", "『": "』"}
 
@@ -43,6 +49,10 @@ def _load_section_cards(book_dir):
 
 
 _CARDS_FLAT = _load_section_cards(book)
+
+
+def piece_is_cjk(s):
+    return bool(re.search(r"[\u3400-\u9fff\uf900-\ufaff\u3040-\u30ff\uac00-\ud7af]", s))
 
 
 def _paired_segments(chunk):
@@ -108,36 +118,70 @@ for md in targets:
         #  把 chunk 按「左引号」切成互不重叠的小段，每段只认它自己的第一个闭合右引号。
         # 这样任何跨段吞并在结构上就不可能发生。
         for seg in _paired_segments(chunk):
-            # 块内可能中英混排（`前文 Chinese 后文`），只取**英文片段**逐段核。
-            # ⚠️ 不能整块 flat：`「他说：Don't be sleepin' on me，然后…」` 整块
-            # 拼起来必然查无，会把真引语也一起判成阻断型。
-            for piece in re.findall(r"[A-Za-z][A-Za-z0-9'’,.:;!?()\- ]{3,160}", seg):
-                piece = piece.strip()
-                if len(piece) <= 4 or not re.search(r"[A-Za-z]{3}", piece):
+            # ⚠️ 2026-09-29 **回归修正**：上一版改成「块内逐个英文片段」提取，
+            # 结果把导航层里**所有英文碎片**都当引语——全库 198 本里 100+ 本爆报警，
+            # 典型假阳性：burn-for-you 导航层的 `"almost smile"` / `"only mean to you"`
+            # 是作者自撰的短语标签（bookstore meet-cute 那类），不是原文引语。
+            # 原脚本「整块比对 + 长度下限」本是对的，唯一真问题是**跨段吞并**，
+            # 而那已由 `_paired_segments` 结构性解决。
+            # ⇒ 回到**整块比对**；中英混排块用「剥中文后仍逐字命中」兜底。
+            seg = seg.strip()
+            if len(seg) <= 4 or not re.search(r"[A-Za-z]{3}", seg):
+                continue
+            if piece_is_cjk(seg):
+                # 中英混排：只取最长的一段连续英文（引文本体），仍不足以判红则跳过
+                runs = re.findall(r"[A-Za-z][A-Za-z0-9'’,.:;!?()\-]*[A-Za-z0-9'’.]", seg)
+                runs = [r for r in runs if len(r) > 4]
+                if not runs:
                     continue
-                # ⚠️ 2026-09-29 豁免两类**必假**（Carmen and Grace 6 条里 4 条）：
-                #  ① 通用子项标签（`Tropes`）——模板字段名不是引语；
-                #  ② 分节卡标题（如 `The Daughters of the Wild Mother According to
-                #     Grace 1992–2002`）——真在原文里，但被 extract_chapters 归到
-                #     `text/xx_section_card_*.txt`，不占 chNN 编号 ⇒ 按 chNN 比对必假红。
-                if piece in _GENERIC_LABELS:
+                seg = max(runs, key=len)
+            if len(seg) <= 4 or not re.search(r"[A-Za-z]{3}", seg):
+                continue
+            # ⚠️ 2026-09-29 豁免两类**必假**：
+            #  ① 通用子项标签（`Tropes`）——模板字段名不是引语；
+            #  ② 分节卡标题（如 `The Daughters of the Wild Mother According to
+            #     Grace 1992–2002`）——真在原文里，但被 extract_chapters 归到
+            #     `text/xx_section_card_*.txt`，不占 chNN 编号 ⇒ 按 chNN 比对必假红。
+            if seg in _GENERIC_LABELS:
+                continue
+            # ⚠️ 2026-09-29 豁免 **trope / 情节标签**（全库回归实测）：
+            # 本库导航层通行写法是 `- "forced proximity" 倒计时——…` /
+            # `……（训话 + 裸遇 + 同居三连），"will never see again"当场作废`，
+            # 其中双引号包的是**作者自撰的情节标签或 trope 名**，不是原文引语。
+            # 这类短语天然是「短 + 无句读」，按长度与分隔符即可与真引语区分：
+            #   rookie-season 127→0、local-gods 93→0、love-sick 95→0。
+            # ⚠️ 代价：真实但**很短的**引语也会被一并豁免——本脚本定位是
+            # 「导航/总结层的**长**引语伪造」，短引语由 verify_quotes 覆盖。
+            if len(re.findall(r"[A-Za-z']+", seg)) <= 4:
+                continue
+            fs = flat(seg)
+            if not fs:
+                continue
+            if fs in all_flat:
+                continue
+            # ⚠️ 2026-09-29 省略号口径：`「It would be easier… maybe you?」`
+            # 这类**转述式截断**（`…` 两侧都是原文，但中间被省略）整串必然查无。
+            # 判据：两侧各自 ≥6 字母且**都**能在全书命中 ⇒ 判为合法转述，不报警。
+            _segs = [x for x in re.split(r"…|\.\.\.", seg) if len(re.findall(r"[A-Za-z]", x)) >= 6]
+            if len(_segs) >= 2 and all(flat(x) in all_flat for x in _segs):
+                continue
+            # 破折号口径：md 用 — 替代原文 `from your heart—` 这类连接词时，
+            # flat 会因丢字符而错位，故再试一次「把破折号当分隔符」的比对。
+            if re.search(r"[—–]", seg):
+                _alt = flat(re.sub(r"[—–]+", " ", seg))
+                if _alt and _alt in all_flat:
                     continue
-                fs = flat(piece)
-                if not fs:
-                    continue
-                if fs in all_flat:
-                    continue
-                if _CARDS_FLAT and fs in _CARDS_FLAT:
-                    continue
-                own = any(fs in v for k, v in corpus.items()
-                          if per_chapter and k.startswith(md.name[:4]))
-                if own:
-                    continue
-                if per_chapter:
-                    fail.append(f"{md.name}: 「{piece}」本章查无（全书亦无）")
-                else:
-                    warn += 1
-                    fail.append(f"{md.name}: 「{piece}」全书查无 ⇒ 阻断型")
+            if _CARDS_FLAT and fs in _CARDS_FLAT:
+                continue
+            own = any(fs in v for k, v in corpus.items()
+                      if per_chapter and k.startswith(md.name[:4]))
+            if own:
+                continue
+            if per_chapter:
+                fail.append(f"{md.name}: 「{seg}」本章查无（全书亦无）")
+            else:
+                warn += 1
+                fail.append(f"{md.name}: 「{seg}」全书查无 ⇒ 阻断型")
 
 for f in fail:
     print(("❌ " if "全书查无" in f or "本章查无" in f else "⚠️ ") + f)
