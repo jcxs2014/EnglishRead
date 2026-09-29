@@ -9,7 +9,7 @@
 硬保证：
   1. 池只从 ch*.md 的 `> **原句 N:**` 块抽（这些已过 verify_quotes）
   2. 池中每条在写入前再 flat 比对一次 text/（错章即退出码 2）
-  3. 模板占位符 {Q:ch:seq} / {P:ch:seq} 全部展开；引不到的占位符 → 退出码 2
+  3. 模板占位符 {Q:NN:seq} / {P:NN:seq} 全部展开（**NN 是纯数字章号**，不是 chNN）；引不到的占位符 → 退出码 2
   4. 一行只放一条带章号标注的引语（check_overview_full 取「引语前 40 字窗口内
      第一个 chNN」，一行两条必然张冠李戴——Tomorrow and Tomorrow 批次实证）
   5. 金句编号止于 ㉕（verify_overview_quotes 的 CIRCLED 口径）
