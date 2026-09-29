@@ -63,7 +63,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：这是全书最像职场英语的一段，而作者在句式上做了处理：Jim 先给自己设限（It won’t work for everyone），再给方案，最后把决定权交给对方（if people were on board）。**三步都是让步结构**——他不是在提议，是在请求被允许。而 "bounce an idea off you"（拿个主意跟你碰碰）这个说法本身就把地位摆清楚了：他不是在命令一个下属。Alison 的回应同样克制（That might be a possibility for some），**两人在正式语言里绕了一圈，谁都没说一句真话。**
 
-**读者视角提示**：注意 Jim 问的第一个问题不是「大家怎么看」，而是 "How soon were you thinking?"——他最关心的是时间。
+**读者视角提示**：注意 Alison 追问的第一个问题不是「大家怎么看」，而是 "How soon were you thinking?"——她最关心的是时间（Jim 随后给出的是「一两个月之内」）。
 
 ---
 

@@ -69,13 +69,13 @@ modified: "2026-09-29"
 
 > **原句 5:** "“Things haven’t been good with them for a while, so I wasn’t surprised to hear that my mother was thinking of separating, but neither one of us expected this. My father is an idiot. She’s only three years older than me.”"
 
-**中文理解**：「他们有一段时间就不太好了，所以听说我妈妈在考虑分开，我不意外；但我们俩谁也没料到会是这样。我爸是个白痴。他只比我大三岁。」
+**中文理解**：「他们有一段时间就不太好了，所以听说我妈妈在考虑分开，我不意外；但我们俩谁也没料到会是这样。我爸是个白痴。她只比我大三岁。」
 
-**关键词**：haven’t been good with them for a while；my mother was thinking of separating；neither one of us expected this；He’s only three years older than me
+**关键词**：haven’t been good with them for a while；my mother was thinking of separating；neither one of us expected this；She’s only three years older than me
 
-**为什么这样写**：前半句是成年人的克制，后半句是二十来岁的话——"He’s only three years older than me" 把父亲的出轨换算成一件**与己无关的、可笑的事**。这句转述的尖锐不是骂，是防御。而它同时悄悄做了一件事：把母亲从「受害者」的位置上挪开，换到一个需要被保护的位置——**这正是 ch05 里 Jess 自己做的事，两个女儿做的是同一个动作。**
+**为什么这样写**：前半句是成年人的克制，后半句是二十来岁的话——"She’s only three years older than me" 把母亲的出轨换算成一件**与己无关的、可笑的事**。这句转述的尖锐不是骂，是防御。而它同时悄悄做了一件事：把母亲从「受害者」的位置上挪开，换到一个需要被保护的位置——**这正是 ch05 里 Jess 自己做的事，两个女儿做的是同一个动作。**
 
-**读者视角提示**：请注意这个句子的主语重心。作者不写「我妈多惨」，写的是「我爸只比我大三岁」。
+**读者视角提示**：请注意这个句子的主语重心。作者不写「我妈多惨」，写的是「她只比我大三岁」。
 
 ---
 

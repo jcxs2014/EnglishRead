@@ -73,7 +73,7 @@ modified: "2026-09-29"
 
 **关键词**：a loser lately；to be honest；I kind of feel like a loser
 
-**为什么这样写**：Caitlin 整段话里最诚实的一句被她用一句自嘲收尾。作者让这句话出现在她**已经讲完客观情况之后**（工作没了、朋友都结婚了），也就是说：她先把理由列全了，再承认原因不是那些理由。**「loser」这个词被放在 to be honest 后面，像是私下说出口的**——她平时不会说这个词。而 Jess 的回应是全章最锋利的一句（You’re lucky to be single），紧接着 Caitlin 的反击（You knew. You got married at twenty-four）把这份安慰原封不动地推了回去。
+**为什么这样写**：Caitlin 整段话里最诚实的一句被她用一句自嘲收尾。作者让这句话出现在她**已经讲完客观情况之后**（工作没了、朋友都结婚了），也就是说：她先把理由列全了，再承认原因不是那些理由。**「loser」这个词被放在 to be honest 后面，像是私下说出口的**——她平时不会说这个词。而 Jess 的回应是全章最锋利的一句（You’re lucky to be single），紧接着 Caitlin 的反击（You always knew what you wanted to do. And you got married at twenty-four… You knew.）把这份安慰原封不动地推了回去。
 
 **读者视角提示**：注意这里出现了**两代人各自的婚姻时间表**：Caitlin 觉得三十岁是危机，母亲的答案要晚得多。
 
