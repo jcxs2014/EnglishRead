@@ -30,6 +30,14 @@
 
 用法:  python3 scripts/check_block_keywords.py "<书目录>" [md ...]
 退出:  0 全过 ｜ 1 有问题 ｜ 2 参数/环境错误
+
+⭐ **同时做结构计数对账**（2026-09-29 补，起因是一次批量改写脚本损坏 15 章）：
+`audit_structure.py` 对「分析块被整段复制」这类损坏**报 0**（它按块内子项判，不看块数与子项数
+是否一一对应）。本脚本按文件核对四个数：
+  `> **原句 N:**` 行数 == `**关键词**：` 行数 ｜ `## 本章词汇` 出现 1 次
+  `## 一句话总结` 出现 1 次 ｜ 引语块数在 3–8 之间（言情精简格式配额）
+损坏的形态是**内容重复 + 后半段整体漂移**（`zip()` 静默截断的典型产物），
+此时 `## 本章词汇` / `## 一句话总结` 会出现两次、关键词行数会多于引语块数——四项里至少一项对不上。
 """
 import re
 import sys
@@ -49,13 +57,28 @@ def check(md: Path, book: Path):
     if not m:
         return [f"{md.name}: 文件名缺 chNN 前缀，无法定章"]
     n = int(m.group(1))
-    hits = sorted((book / "text").glob(f"ch{n:02d}_*.txt"))
-    if len(hits) != 1:
-        return [f"{md.name}: 期望恰好 1 个 text/ch{n:02d}_*.txt，实得 {len(hits)}"]
-    t = hits[0].read_text(encoding="utf-8")
-    ps = paras(t)
     s = md.read_text(encoding="utf-8")
     out = []
+    # --- 结构计数对账（先做，因为它最便宜且能兜住一切后续判断）---
+    nq = len(BLOCK_RE.findall(s, re.M))
+    nkw = len(re.findall(r'^\*\*关键词\*\*：', s, re.M))
+    nvocab = len(re.findall(r'^## 本章词汇', s, re.M))
+    nsum = len(re.findall(r'^## 一句话总结', s, re.M))
+    if nq == 0:
+        return [f"{md.name}: 未找到任何 `> **原句 N:**` 引语块"]
+    if nkw != nq:
+        out.append(f"{md.name}: 结构对账失败 —— 关键词行 {nkw} ≠ 引语块 {nq}（内容可能被整段复制）")
+    if nvocab != 1:
+        out.append(f"{md.name}: 结构对账失败 —— `## 本章词汇` 出现 {nvocab} 次（应为 1）")
+    if nsum != 1:
+        out.append(f"{md.name}: 结构对账失败 —— `## 一句话总结` 出现 {nsum} 次（应为 1）")
+    if not 3 <= nq <= 8:
+        out.append(f"{md.name}: 引语块 {nq} 个，超出言情精简格式的 3–8 配额")
+    hits = sorted((book / "text").glob(f"ch{n:02d}_*.txt"))
+    if len(hits) != 1:
+        return out + [f"{md.name}: 期望恰好 1 个 text/ch{n:02d}_*.txt，实得 {len(hits)}"]
+    t = hits[0].read_text(encoding="utf-8")
+    ps = paras(t)
     chunks = re.split(r'^> \*\*原句 \d+:\*\* ', s, flags=re.M)[1:]
     nums = [x for x in QUOTE_RE.findall(s)]
     for (num, q), chunk in zip(nums, chunks):
