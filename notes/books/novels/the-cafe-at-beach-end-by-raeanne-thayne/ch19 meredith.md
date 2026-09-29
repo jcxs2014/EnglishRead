@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 > **原句 1:** Meredith almost couldn’t believe it. She held her breath, not wanting anything to spoil the sheer wonder of the past half hour.
 
-**中文理解**：Meredith 几乎不敢相信。她屏住呼吸，生怕任何东西 spoils 掉过去这半小时那份纯粹的欢喜。
+**中文理解**：Meredith 几乎不敢相信。她屏住呼吸，生怕任何东西破坏掉过去这半小时那份纯粹的欢喜。
 
 **关键词**：held her breath（屏住呼吸）；the sheer wonder（那份纯粹的惊喜）
 

@@ -61,7 +61,7 @@ modified: "2026-09-29"
 
 **关键词**：voice broke（声音破了）；rogue wave（疯狗浪）；drag her against the rocks（拖向礁石）
 
-**为什么这样写**：海滨小镇的书把丧亲之痛写成海况——rogue wave（疯狗浪）的特性是「无预警、不可游出」，与突发性悲伤发作完全同构。作者让 Tori 的坚强在人前失守一次：不是她软弱，是浪太大。声音破在「desperately」的尾音上， cuer 恰到好处——语言先于意志招供。
+**为什么这样写**：海滨小镇的书把丧亲之痛写成海况——rogue wave（疯狗浪）的特性是「无预警、不可游出」，与突发性悲伤发作完全同构。作者让 Tori 的坚强在人前失守一次：不是她软弱，是浪太大。声音破在「desperately」的尾音上， 那个词的破裂 恰到好处——语言先于意志招供。
 
 **读者视角提示**：对照 ch09——她的悲伤已经出现过两种海相：battery acid（烧）与 rogue wave（拖）。Tori 的 grief 词典全靠海的意象维持，这座小镇既是她的家，也是她伤口的陈列馆。
 
@@ -105,7 +105,7 @@ modified: "2026-09-29"
 
 > **原句 8:** And hope she wasn’t so tired that she let down her guard even further and made a complete fool of herself around Sam Ayala.
 
-**中文理解**——顺便希望，自己别因为太累把防线放得更低，在 Sam Ayala 面前彻底出丑。
+**中文理解**：顺便希望，自己别因为太累把防线放得更低，在 Sam Ayala 面前彻底出丑。
 
 **关键词**：let down her guard（放下防线）；a complete fool of herself（彻底出丑）
 

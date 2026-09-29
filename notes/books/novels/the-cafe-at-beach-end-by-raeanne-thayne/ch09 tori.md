@@ -9,7 +9,7 @@ modified: "2026-09-29"
 
 **一句话概括**：补作业拉锯战刚收场，Sam 牵狗出现在门廊——两人月夜海滩散步敲定「作业监工轮换制」；途中 Javier 的死因首次揭晓（无救生员海域的冲浪搜救、不等装备独自下水）、Tori 自陈七年空窗「从没想当职业寡妇」；归途踩上沙坑被他一把扶稳。
 
-**情感弧线位置**：Sam 线首个实质升温章——从同盟（ch06）到月夜散步到「His laugh slid down her spine like a caress」；母女线靠轮换制喘了口气，而她自己那道「I did meet the right person」的封锁线，被月光下的一句「Seven years is a long time to be alone」轻轻叩响。
+**情感弧线位置**：Sam 线首个实质升温章——从同盟（本章的作业轮换制）到月夜散步到「His laugh slid down her spine like a caress」；母女线靠轮换制喘了口气，而她自己那道「I did meet the right person」的封锁线，被月光下的一句「Seven years is a long time to be alone」轻轻叩响。
 
 **Tropes 兑现/反转**：月夜海滩散步（moonlit beach walk）——两个家庭主心骨的第一次单独相处；踉跄扶稳（stumble-into-his-arms）——sage 香调的近身时刻；「职业寡妇」宣言与封锁线——男主 roles 要用整本书翻墙。
 
@@ -49,7 +49,7 @@ modified: "2026-09-29"
 
 **关键词**：search and rescue（搜救队）；without waiting（不等）；taken by the sea（被大海带走）
 
-**为什么这样写**：四句话走完一位丈夫的一生——生计、热爱、冲动、结局，冷静得像事故报告。「Without waiting for」重复两次，死因不是海浪，是那颗等不及的心。作者不给一滴眼泪，只给时间线：这样克制的一笔，比任何恸哭都重。
+**为什么这样写**：四句话走完一位丈夫的一生——生计、热爱、冲动、结局，冷静得像事故报告。「Without waiting for」只写了一次，死因不是海浪，是那颗等不及的心。作者不给一滴眼泪，只给时间线：这样克制的一笔，比任何恸哭都重。
 
 **读者视角提示**：Javier 之死是 Tori 线的地基：独居七年、帮 Frances 撑咖啡馆、把 Em 带大——全是这次「没等」的余震。它也悄悄垫住了 Sam 的心理位置：又一个「等不及要当英雄」的男人，但他这次选择等（ch02 的 graft 洁癖、本月的加班电话）。
 

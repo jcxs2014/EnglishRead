@@ -63,7 +63,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：破罐破摔的坦白，被作者写得极有条理——先交代「我们常在一起」这个由头，再落到「上周他吻了我」这个事实，最后用一句自我纠正（不是那种吻）拔掉最后的退路。Tori 不是冲动，是算清楚了「不如让最清醒的局外人帮我诊断」。而 Not a brotherly kiss 这句，等于亲手拆掉了她用了三十章的「家人」防线。
 
-**读者视角提示**：这是 ch20「这不是一个像兄弟的吻」的回声（ch20：「And not in anything resembling a friendly, amiable brother-in-law sort of kiss.」）。同一道墙，她上一章刚砌好，这一章亲手推倒。她的坦白，是她第一次承认「这道墙不成立」。
+**读者视角提示**：这是 ch26「这不是一个像兄弟的吻」的回声（ch26：「And not in anything resembling a friendly, amiable brother-in-law sort of kiss.」）。同一道墙，她上一章刚砌好，这一章亲手推倒。她的坦白，是她第一次承认「这道墙不成立」。
 
 ---
 

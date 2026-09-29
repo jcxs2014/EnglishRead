@@ -27,7 +27,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：全书最短也最响的一句——用一个机械量词（five words）标记一个吻的重量。作者用 klaxon（警笛）把这五个字写成物理入侵：不是回忆，是警报。这个比喻同时定下整章的基调——他不是在回味，他是在被自己判刑。
 
-**读者视角提示**：留意这三个「He had kissed」的变奏（Meridian Rowland／not simply a peck／He had meant it），它们是本章的骨架。警笛之所以长鸣，是因为这三个变奏越滚越沉：对象、方式、承认。
+**读者视角提示**：留意这三个「He had kissed」的变奏（Meredith Rowland／not simply a peck／He had meant it），它们是本章的骨架。警笛之所以长鸣，是因为这三个变奏越滚越沉：对象、方式、承认。
 
 ---
 
