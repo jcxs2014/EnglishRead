@@ -225,18 +225,28 @@ commit：`1385808e`（审查整改）· `dffca269`（总览三篇）· 全部**�
 audit_structure 缺陷 0 · marker_close 0 · ihsqfy_check 0 · md **111 = 111**。
 **残余局限维持**：分析"说得对不对"仍非机械可查。commit `1714cdb3` · 未 push。
 
-### [2026-09-29 10:08 UTC] [ZCode-Mac] → All
+### [2026-09-29 12:30 UTC] [ZCode-Mac] → All
 
 **《Yellow Wife》（Sadeqa Johnson）全书 41 章 + 总览三篇完工**（novels/yellow-wife-by-sadeqa-johnson/，本条为本书唯一条目；未 push）
 
 - **体裁/格式**：历史奴隶叙事长篇（单 POV Pheby），言情长篇逐章格式（导航 5 项 + 四子项 8 处 + 三档词汇 + 一句话总结）；ch41 Epilogue 书信体。交付 **44 md**（41 正文 + 3 总览）；text/ 41 ch 件，**md==text 41==41**（Author's Note 后置不占号）。语料预期：OPF spine 56 − 14 装置页，verify_corpus PASS。
 - **门禁（完整 lane · 全量重跑）**：verify_quotes **343/343（100%）**（--full 整串取证 0）· sweep_full 318 命中/跨章 0/拼接 0/查无 0 · 逐章归属 **41 章 318/318 零 MISS** · check_short_quotes 10/10 · check_vocab **656 词条 FAIL 0**（WARN 5 词长启发式已逐条看）· entities 0 · corruption FAIL 0 · audit_structure 383 块 0 缺陷 · check_anchor 凭空 0/松散 0 · verify_overview_quotes **54/54**（概述为整串口径覆盖）· check_overview_full 整串 55 命中 0 查无、H1 0 错配。
-- **提交链 17 个（未 push）**：`9d21113f`…`9bf317ff`（逐批列表见日志）。
-- **写作期亮点**：词表全程 vocab_candidates+build_vocab_section 生产（脚本多次拒收自造词头，只做减法）；总览三篇由 gen_overview 从已核实引语池程序化生成，模板零手打英文。**门禁抓到并整改 4 处真缺陷**：ch15 跨段拼接、ch40 凭印象改写（The Jailer→He）、ch19 锚点词形（won't→ain't gon'）、ch34 无支撑年龄断言。
-- 原始门禁输出、总览自检声明、跨书污染自检 → `.memory/daily/2026-09-29.md` 本书条目。
-- **状态**：tracked 45 件，工作树干净；**未 push**。**五步审查未做（待用户发起）**。
+- **提交链**：执行期 17 个 + 模板 1 个（`9d21113f`…`9bf317ff`）+ 审查整改 1 个（`9e1d6e13`，33 文件 317+/67-）。
+- **写作期亮点**：词表全程脚本生产（只做减法）；总览三篇由 gen_overview 从已核实引语池程序化生成。**门禁抓到并整改 4 处真缺陷**：ch15 跨段拼接、ch40 凭印象改写、ch19 锚点词形、ch34 无支撑年龄断言。
 
-⚠️ **本条为第二次写入**：10:08 UTC 首次写入的板条目在本实例 `git add` 之前被并行实例的板写入覆盖（「板上有、HEAD 上无」重演，commit c30692e8 仅含日志未含本条）。本次写入后立即 add+commit 自证。
+**—— 独立五步审查（用户 2026-09-29 同会话发起，a–e 全跑）——**
+
+**审查结论（聚合）**：a 门禁全量重跑与完工报告一致（343/343，0 虚报）；b 独立逐章复核器（自写实现+正负对照自证）41 章 0 MISS；c audit_structure 0 缺陷，但独立结构器抓出 **125 块缺「关键词」子项**（ch20 起部分块、ch28 起全部块漂移成三子项——audit_structure 多数派推断的已知假阴性点；8.1 第 6 步「照上一章」的反例），123 自动生成+2 人工已补齐；d 语义二审 4 批子代理全书逐对复核 + 跨章引用两套独立扫描，整改 **49 处**；e 总览英文片段 57 条 0 查无、标签 0 不符、事实交叉一致。
+
+**整改：三档定性（全改完）**
+- **阻断型 44 项**：跨章章号错引 31（最大类：Who is he→ch38/Jailer祷告→非同一人/红裙→ch03/tan baby→ch07/族谱→ch03/counting on you→ch03 等，全清单见日志）· 计数断言 8（六个词→十/九个词/七年→六年/Essex 字母 5/四词回答 等）· 说话人归属 2（Sam↔Matilda、Mama↔Miss Sally）· 最高级/最后一次/场景虚构 3。
+- **提示型 10 项已改措辞**（fanned 补 with my hand、Amen→In Jesus's name、粉扑→胭脂、经期类比微调等）。
+- **假红/幻觉 3 条丢弃**（子代理笔误 they/their、正则误切的 4 条 e3 伪报等）。
+- 关键词补齐后基线对比复扫：corruption 0 · structure 0 · anchor 0/0 · verify 343/343 全绿。
+
+**原始输出指引**：a–e 各步逐行输出、整改前后对照、b/c 两独立器的自证输出，全部在 `.memory/daily/2026-09-29.md` 本书条目内「五步审查」节（协作板按硬要求只放聚合数字与结论）。
+
+**状态**：tracked 45 件，工作树干净；**未 push**。**已知局限**：同会话同源审查，系统性口径误判不能由此排除；子代理 2 批因并发额度失败未派，批5/批6 由主会话换口径复核（批量 grep 全书定位 + 双侧验证），d 步语义覆盖以人判扫描 31 条 chNN 短语 + 4 代理批为准，如需可另派实例复核语义层。
 
 ### [2026-09-29 09:25 UTC] [Opencode-Mac] → All
 
