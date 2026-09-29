@@ -27,7 +27,7 @@ modified: "2026-09-29"
 
 **关键词**：You have to get Althea’s ASE pushed up／without preamble／the day after her impromptu baseball game with Hale
 
-**为什么这样写**：全章的开门方式，而作者用`without preamble`（没有开场白）把这个登场写成一个**动作的延续**——她不是来讨论的，是来下指令的。指令本身是`You have to get ... pushed up`（你得把……提前排上去）：`get`（搞定）接`pushed up`（推上去）把整条流程压缩成一件行政杂务，`You have to`（你必须）把商量的余地提前关掉。末半句`the day after her impromptu baseball game with Hale`（她与 Hale 那场临时棒球赛的第二天）用一个`impromptu`（临时的）说明这场球是随手组织的，而她今天进门的第一句话仍是行政口吻。
+**为什么这样写**：全章的开门方式，而作者用`without preamble`（没有开场白）把这个登场写成一个**动作的延续**——她不是来讨论的，是来下指令的。指令本身是`You have to get Althea’s ASE pushed up`（你得把 Althea 的那本 ASE 提前排上去）：`get`（搞定）接`pushed up`（推上去）把整条流程压缩成一件行政杂务，`You have to`（你必须）把商量的余地提前关掉。末半句`the day after her impromptu baseball game with Hale`（她与 Hale 那场临时棒球赛的第二天）用一个`impromptu`（临时的）说明这场球是随手组织的，而她今天进门的第一句话仍是行政口吻。
 
 **读者视角提示**：注意她`slid into the seat`（滑进座位）而不是走进去——**她进这间办公室从来不需要过渡**。
 
@@ -75,7 +75,7 @@ modified: "2026-09-29"
 
 **关键词**：why else would he personally intervene／the panic-induced crashing cymbals had stopped echoing against the walls of her skull／He wants the boys to have the books when they go to slaughter
 
-**为什么这样写**：全章最核心的一句**顿悟**。作者不写"她突然明白了"，而用一个**比喻的散场**来标记它：`the panic-induced crashing cymbals had stopped echoing against the walls of her skull`（那阵惊慌引起的铙钹声已经不再在她颅骨内壁回响）——把心理状态写成一场散场的声音，而理解到来的那一刻正是**声音停下来的那一刻**。`her eyes dropping to the floor`（她的眼睛垂到地板上）是这个顿悟的身体证据：她不敢看他。落点句`He wants the boys to have the books when they go to slaughter.`（他想让那些小子在走进屠场的时候手边有书。）用`go to slaughter`（走进屠场）而不是`go to war`（上战场）——**屠场是被选中的词**。
+**为什么这样写**：全章最核心的一句**顿悟**。作者不写"她突然明白了"，而用一个**比喻的散场**来标记它：`the panic-induced crashing cymbals had stopped echoing against the walls of her skull`（那阵惊慌引起的铙钹声已经不再在她颅骨内壁回响）——把心理状态写成一场散场的声音，而理解到来的那一刻正是**声音停下来的那一刻**。`her eyes dropping to the floor`（她的眼睛垂到地板上）是这个顿悟的身体证据：她不敢看他。落点句`He wants the boys to have the books when they go to slaughter.`（他想让那些小子在走进屠场的时候手边有书。）里的`go to slaughter`（走进屠场）——原文给的不是参战，是走进屠宰场。
 
 **读者视角提示**：她话音刚落两人都同时往回抢：紧接着的那句`Mr. Stern made a sound like he wanted to stop the words even as they tumbled out of her mouth.`（Mr. Stern 发出一声，像是即便那些词正从她嘴里滚出来，他也想伸手拦住。）**一个人抢的是保密，一个人抢的是收场**。
 
@@ -138,8 +138,8 @@ modified: "2026-09-29"
 | definition | 定义（此处指她自己那句「这大概就是没指望的定义」） | “Althea James,” Viv said, as if it were obvious even though this request could be the definition of long shot. |
 | efficiency | 效率（此处指这套出版流程被造出来时追求的那一样东西，也是她今天要绕开的那一样东西） | The system had been built with speed and efficiency in mind, but each step of the process took time that Viv didn’t have. |
 | hand-deliver | 亲手递送（此处指她愿意自己跑一趟，也要把士兵的信送到作者手上） | Mail was always uncertain these days, but Viv would hand-deliver the soldiers’ letters to Miss James if she had to. |
+| restrictions | 限制条款（此处指 Taft 修正案给战后出版加上的那几道闸） | “Well, the book is political enough that I think it would get caught up in the restrictions from the Taft amendment if we wait until August,” Viv said. |
 | sympathizer | 同情者（此处指 Stern 抬出来当挡箭牌的那个身份指控） | “All right, let’s set aside the fact that she may be a Nazi sympathizer. |
-| need-to-know | 需要知道的（此处指这条消息只在该知道的人手里过一遍的那种保密级别） | “As you can imagine, it’s been handled as need-to-know information. |
 | resolution | 决议（此处指执行委员会给出的那个比她的活动更「实」一步的动作） | “The resolution will carry little political weight. |
 
 ### ⭐⭐ 进阶

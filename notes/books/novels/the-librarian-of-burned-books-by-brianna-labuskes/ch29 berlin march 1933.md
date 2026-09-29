@@ -27,7 +27,7 @@ modified: "2026-09-29"
 
 **关键词**：sky blue with little roses painted along the metal／A wicker basket sat at the front／Althea imagined procuring books or flowers
 
-**为什么这样写**：全章的开场定调，两句都是物件描写，而作者在第二句末尾把镜头交给`Althea imagined procuring books or flowers to fill it with`（Althea 想象着弄来书或者花把它装满）——`imagined`（想象）是 POV 的显形词，也是这一整天的题眼：她做的每一件事都在兑现一份**想象中的清单**。`procure`（弄来）比`buy`（买）重，带一层"为某件正事张罗"的意味，而篮子里要装的这两样东西正好对应她此行的两个身份。
+**为什么这样写**：全章的开场定调，两句都是物件描写，而作者在第二句末尾把镜头交给`Althea imagined procuring books or flowers to fill it with`（Althea 想象着弄来书或者花把它装满）——`imagined`（想象）是 POV 的显形词，也是这一整天的题眼：她做的每一件事都在兑现一份**想象中的清单**。`procuring`（弄来）比`buy`（买）重，带一层"为某件正事张罗"的意味，而篮子里要装的这两样东西正好对应她此行的两个身份。
 
 **读者视角提示**：注意这辆车不是 Hannah 骑的那辆—— Hannah 骑的是`the sunny yellow one`（那辆明黄色的）。**颜色是被分配过的**。
 
@@ -51,7 +51,7 @@ modified: "2026-09-29"
 
 **关键词**：it doesn’t matter what you dress like, or who you dance with, or what you do for a living／It doesn’t matter who your parents are／All you have to do is appreciate and respect the people around you
 
-**为什么这样写**：Hannah 版本的柏林定义，而结构是一个**逐级放宽的清单**。第一句的三项（`what you dress like, or who you dance with, or what you do for a living`）全是可观察的外在选择，用同一个`or`串成等长的三项；第二句把范围推到**改不掉的出身与信仰**（`who your parents are`／`what neighborhood you live in`／`what God you pray to`）。这意味着她说的"随便"不是不讲究，是**连出身都不算数**。第三句用`All you have to do is`（你只要做的一件事）收口，把全部要求压到`appreciate and respect the people around you`（欣赏并尊重身边的人）——**这条标准里没有一条是关于你自己的**。
+**为什么这样写**：Hannah 版本的柏林定义，而结构是一个**逐级放宽的清单**。第一句列的全是可观察的外在选择（`what you dress like, or who you dance with, or what you do for a living`），全部由`or`前后串起；第二句把范围推到**改不掉的出身与信仰**（`who your parents are`／`what neighborhood you live in`／`what God you pray to`）。这意味着她说的"随便"不是不讲究，是**连出身都不算数**。第三句用`All you have to do is`（你只要做的一件事）收口，把全部要求压到`appreciate and respect the people around you`（欣赏并尊重身边的人）——**这条标准里没有一条是关于你自己的**。
 
 **读者视角提示**：这句话是 Hannah 对柏林的爱，也是她此刻站在街上**看不见的东西**——她紧接着就把目光投向`the swastikas hanging from the streetlamps nearby`（附近街灯上挂着的那些卐字旗）。
 
@@ -99,7 +99,7 @@ modified: "2026-09-29"
 
 **关键词**：She hurried to correct herself／I mean a world where being different was all right／It was good to be different
 
-**为什么这样写**：全书对"自我叙述"最精细的一次**当场返工**。上一句她说的是`a world where I wasn’t different`（一个我并不与众不同的世界），而这一句的第一个动作不是解释，是`She hurried to correct herself`（她赶紧纠正自己）——`hurried`（赶紧）与后面的`hurry to`（急忙做）让这次改动显得像是被抢出来的。改动本身小得刻意：`wasn’t different`（并不不同）换成`being different was all right`（不同是可以的），只把**事实判断改成价值判断**；紧接着的`It was good to be different.`（当个不同的人是好的）又把这句价值判断说了一遍，重复用的是同一个`was`。
+**为什么这样写**：全书对"自我叙述"最精细的一次**当场返工**。上一句她说的是`a world where I wasn’t different`（一个我并不与众不同的世界），而这一句的第一个动作不是解释，是`She hurried to correct herself`（她赶紧纠正自己）——`hurried`（赶紧）与后面的`hurry to`（急忙做）让这次改动显得像是被抢出来的。改动本身小得刻意：`wasn’t different`（并不不同）换成`being different was all right`（不同是可以的），只把**事实判断改成价值判断**；紧接着的`It was good to be different.`（当个不同的人是好的）又把这句价值判断说了一遍，重复落回`was`这个系动词。
 
 **读者视角提示**：她说这句话的场合很重要——她刚讲完自己`I never really fit in`（我从来都格格不入），而 Hannah 只回了`“That sounds nice,” Hannah said, something encouraging layered beneath the neutral words.`（"听起来不错，"Hannah 说，中性的词底下垫着一点鼓励。）**她不是被反驳之后改口的，是被接住之后才敢说得更好听**。
 
@@ -111,7 +111,7 @@ modified: "2026-09-29"
 
 **关键词**：the word spread far and wide／anyone who didn’t belong anywhere／could find refuge with them
 
-**为什么这样写**：全章的落点，也是 Althea 那套"给自己讲故事"的本能在她最没打算使用时的一次输出。`the word spread far and wide`（消息传得很远很远）用的是**最陈旧、最像童话的叙述套语**——而这条套语装的内容是`anyone who didn’t belong anywhere, who didn’t feel like they had a home`（任何不属于任何地方的人，任何不想有家的人）：两个否定式的定语从句，把"无家可归"写成了**两种不同的状态**——第一种是找不到，第二种是不想要。落点是`could find refuge with them`（可以在他们那里找到庇护），`with them`（和他们一起）而不是`from them`（从他们那里）——**庇护被写成加入，不是领取**。
+**为什么这样写**：全章的落点，也是 Althea 那套"给自己讲故事"的本能在她最没打算使用时的一次输出。`the word spread far and wide`（消息传得很远很远）用的是**最陈旧、最像童话的叙述套语**——而这条套语装的内容是`anyone who didn’t belong anywhere, who didn’t feel like they had a home`（任何不属于任何地方的人，任何不想有家的人）：两个否定式的定语从句，把"无家可归"写成了**两种不同的状态**——第一种是找不到，第二种是不想要。落点是`could find refuge with them`（可以在他们那里找到庇护），而介词用的是`with them`（和他们一起）——**庇护被写成加入，不是领取**。
 
 **读者视角提示**：紧跟着的`“I was right.”`（我说对了。）是 Hannah 的收束，而这句话极轻——她说的不是故事，是 Althea 把她写成了主角这件事本身。
 

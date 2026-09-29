@@ -163,11 +163,11 @@ modified: "2026-09-29"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | black cliffs | 黑色悬崖（此处指海崖公路贴着走的那道岩壁） | The road followed the black cliffs, and she could stare out into forever. |
+| boy | 男孩（此处指那个因为没能上战场挨了一巴掌的孩子） | Viv had seen a boy slapped for not being over there, despite the fact that Viv knew he was blind in one eye. |
 | calloused hand | 长满老茧的手（此处指 Joe 向她伸出来的那一只） | He held out his calloused hand, and she slotted her own into his palm. |
 | cracked-leather bench | 开裂的皮座椅（此处指那辆旧皮卡的后座） | Unbelievably grateful, Viv slid onto the cracked-leather bench and hauled her bag in behind her. |
 | dirt road | 土路（此处指她走了将近一个小时的那条路） | Viv had now been walking for near on an hour down a dirt road to nowhere and she was about to scream. |
 | genuine question | 真心的提问（此处指 Joe 问她想要什么的那一句） | It seemed like a genuine question so Viv tried to answer honestly. |
-| seemingly healthy | 看起来健康的（此处指那个挨打的男孩，也是后方误判的由来） | Some people wanted them as cannon fodder anyway, some just didn’t know what to do with the sight of a seemingly healthy boy who had it better than someone in their own family. |
 | train sign | 火车站牌（此处指那个把站名标得清清楚楚却仍骗了她的人造物） | The problem was that the train sign had lied to Viv. |
 | voice raspy | 嗓音沙哑（此处指 Althea 许久没有开口之后的声音） | “Whatever you want,” Althea James said, her voice raspy like this was the first time in a long time that she’d used it. |
 

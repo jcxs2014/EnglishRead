@@ -21,7 +21,7 @@ modified: "2026-09-29"
 
 ## 精读
 
-> **原句 1:** “Of all the luck in the world,” Dev mused as she watched her own smoke dissolve into nothing. “You had to end up in Paris.
+> **原句 1:** “Of all the luck in the world,” Dev mused as she watched her own smoke dissolve into nothing. “You had to end up in Paris. I had to end up in Paris.”
 
 **中文理解**：「全世界的运气都赶到一块儿了，」Dev 看着自己吐出的烟散进空气里，幽幽地说，「偏偏你到了巴黎。我偏偏也到了巴黎。」
 

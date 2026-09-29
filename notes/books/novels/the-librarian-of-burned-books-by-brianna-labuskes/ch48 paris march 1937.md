@@ -75,7 +75,7 @@ modified: "2026-09-29"
 
 **关键词**：How much／knowing the very softness of her words would make them cut all the deeper／What was the cost of my brother’s life
 
-**为什么这样写**：全章唯一一次 Hannah 把问题换成钱的语言，而作者写的是**一个极短的问句加一个被修饰过的说话动作**。`How much?`（多少钱）三个词独立成句，不给主语也不给宾语——**它不是一句疑问，是一个索取**。而紧跟着的分句 `knowing the very softness of her words would make them cut all the deeper`（她知道自己话里的那份软会让这一刀扎得更深）把她自己的语气变成了刀：她不是没在生气，是**把生气包起来递过去**。真正被问出来的东西在后半句——`What was the cost of my brother’s life?`（我哥哥那条命的价钱是多少？）用 `the cost of`（…的价钱）把一个人换算成了一笔账。
+**为什么这样写**：全章唯一一次 Hannah 把问题换成钱的语言，而作者写的是**一个极短的问句加一个被修饰过的说话动作**。`How much?`（多少钱）单独成句，不给主语也不给宾语——**它不是一句疑问，是一个索取**。而紧跟着的分句 `knowing the very softness of her words would make them cut all the deeper`（她知道自己话里的那份软会让这一刀扎得更深）把她自己的语气变成了刀：她不是没在生气，是**把生气包起来递过去**。真正被问出来的东西在后半句——`What was the cost of my brother’s life?`（我哥哥那条命的价钱是多少？）用 `the cost of`（…的价钱）把一个人换算成了一笔账。
 
 **读者视角提示**：她没有问「你为什么要这么做」，她只问了价钱——**这一章的她已经不问动机了**。
 
@@ -87,7 +87,7 @@ modified: "2026-09-29"
 
 **关键词**：He was on the edge／tight as a drawn bow, all but shaking with it／drunk and guilt-ridden／trying to pretend he was neither
 
-**为什么这样写**：全书对 Otto 崩溃状态写得最集中的一句，而它**通篇不给情绪词，只给一个力学比喻加两个形容词**。`tight as a drawn bow`（紧得像一张拉满的弓）是物理比喻——弓拉到了极限，接下来发生的不是情绪，是物理结果；`all but shaking with it`（几乎整个人都在为此发抖）里的 `all but`（几乎）**留了一个否定**：他还没有抖。后面 `drunk and guilt-ridden`（喝醉了、满身罪疚）是两个同后缀的形容词构成的对仗，而收尾的 `trying to pretend he was neither`（试图假装自己两样都不是）用 `neither`（两样都不是）指回前面那两个词——**作者用一个回指把三个状态串成一次自欺**。
+**为什么这样写**：全书对 Otto 崩溃状态写得最集中的一句，而它**通篇不给情绪词，只给一个力学比喻加两个状态词**。`tight as a drawn bow`（紧得像一张拉满的弓）是物理比喻——弓拉到了极限，接下来发生的不是情绪，是物理结果；`all but shaking with it`（几乎整个人都在为此发抖）里的 `all but`（几乎）**留了一个否定**：他还没有抖。后面 `drunk and guilt-ridden`（喝醉了、满身罪疚）是一对并列的状态词，而收尾的 `trying to pretend he was neither`（试图假装自己两样都不是）用 `neither`（两样都不是）指回前面那两个词——**作者用一个回指把三个状态串成一次自欺**。
 
 **读者视角提示**：`He was on the edge`（他已经在边缘上）这个开头不给边缘下定义——**读者只能从他后半句的状态里猜那是哪一条边缘**。
 
@@ -123,7 +123,7 @@ modified: "2026-09-29"
 
 **关键词**：To Hannah, for being the hero every story wishes it had
 
-**为什么这样写**：全章、也是全书真正的**题词**，而它的结构是**把一个愿望交给一个具体的人**。`every story wishes it had`（每个故事都希望自己有的）是一个定语从句，修饰的正是 `the hero`（那个英雄）——于是题词里那位英雄不是被写出来的角色，而是**每个故事都缺的那一个**。
+**为什么这样写**：全章最后一行，也是那部书里真正的**题词**，而它的结构是**把一个愿望交给一个具体的人**。`every story wishes it had`（每个故事都希望自己有的）是一个定语从句，修饰的正是 `the hero`（那个英雄）——于是题词里那位英雄不是被写出来的角色，而是**每个故事都缺的那一个**。
 
 **读者视角提示**：紧跟其上一句把这行的位置说死——`On it was a dedication, which Hannah knew with certainty had never made it to the final copy of the book.`（上面是一行题词，她确信那从没进过那本书的定稿）——**她读到的正是那一个从未定稿的版本**。再往前一步看，那些信里装的是 `a story she now recognized as Althea’s second novel`（一个她此刻认出是 Althea 第二部小说的故事）：**Althea 写给她的不是信，是一整部稿子**。
 
@@ -135,16 +135,39 @@ modified: "2026-09-29"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| suffocating | 令人窒息的（此处指巴黎在一个周日早上压过来的那股劲） | Paris pressed in around her, suffocating and loud even on a quiet Sunday morning. |
+| nonchalance | 满不在乎（此处指 Otto 拿着酒瓶看她的那副样子） | Taking a swig directly from the bottle, he watched her with the indolent nonchalance of a young man tired of the world. |
+| unrecognizable | 难以辨认的（此处指她在纳粹监狱里见到的那张脸） | Sitting across from her in that Nazi prison, his face broken and swollen and nearly unrecognizable. |
+| guilt-ridden | 满身罪疚的（此处指 Otto 承认自己喝醉且有罪的那副状态） | He was on the edge, tight as a drawn bow, all but shaking with it, drunk and guilt-ridden and trying to pretend he was neither. |
+| calculated | 算清了、权衡过的（此处指他给哥哥那条命估的那个价） | But he had made the callous decision, had calculated what her brother’s life was worth, and had made the most selfish choice he could. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| collapsed | 塌陷（此处指她的肺自己塌下去那一下） | Hannah’s lungs collapsed on themselves, the air gone in one shaky exhale. |
+| clattered | 哐当作响（此处指枪掉在水泥地上的声音） | It clattered against the concrete, loud and jarring so that Dev flinched from the sound. |
+| betrayed | 背叛（此处指她那位终生的朋友做的事） | Hannah didn’t stop, didn’t hesitate, didn’t beg for more details about how her dearest friend for all her life had betrayed her. |
+| anchored | 牢牢连着的（此处指她感觉不到自己还连在身体上） | Hannah knew she was walking, making the right turns, avoiding the cars and the bicycles as she went, but she didn’t feel anchored to her body. |
+| confessed | 低声招认（此处指他说出那个数字的方式） | “Ten thousand,” Otto confessed on a whisper. |
+| countless | 数不清的（此处指她想到的那些和她做了同样选择的人） | Maybe there were countless others out there who would do the same thing. |
+| tolerance | 容忍（此处指她发现自己一点也没有了的那种） | But she found she had no tolerance left for them. |
+| crumpled | 皱起、垮掉（此处指她那句话落下之后他的脸） | But she might as well have slit his throat open, given how his face crumpled and then the rest of his body followed. |
+| stitched | 缝上（此处指把灵魂碎片拼回去的那个动作） | The contrast took the broken pieces of Hannah’s soul and stitched them together. |
+| dedication | 题词（此处指那封信最后一张纸上的那一行） | On it was a dedication, which Hannah knew with certainty had never made it to the final copy of the book. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| pistol | 手枪（此处指她在楼顶放下的那一把） | For one startling moment Hannah saw herself using the pistol. |
+| broken exhale | 断掉的一口气（此处指他全部能给出的反应） | A broken exhale was all that he could manage. |
+| dearest friend | 最亲的朋友（此处指那个出卖了她的人） | Hannah didn’t stop, didn’t hesitate, didn’t beg for more details about how her dearest friend for all her life had betrayed her. |
+| drawn bow | 拉满的弓（此处指形容他绷紧的那个比喻） | He was on the edge, tight as a drawn bow, all but shaking with it, drunk and guilt-ridden and trying to pretend he was neither. |
+| gutted | 被掏空的（此处指从他胸口冲出来的那一声） | A gutted, brutal sound punched its way out of Otto’s chest. |
+| knuckles white | 指节发白（此处指他攥着空酒瓶的那只手） | His eyes were wild, his knuckles white around the now-empty decanter. |
+| torn flesh | 撕裂的皮肉（此处指她幻想里自己会碰到的那处） | Saw the blood that would spread from a gaping wound in Dev’s chest, the way her fingers would touch the torn flesh as if they could sear the pieces back together. |
+| unending waves | 无尽的浪潮（此处指她闭上眼要挡住的那一阵痛） | Hannah closed her eyes against the unending waves of pain. |
 
 ## 一句话总结
 

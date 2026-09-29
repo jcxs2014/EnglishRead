@@ -27,7 +27,7 @@ modified: "2026-09-29"
 
 **关键词**：carbonic soap／the back of Hannah’s nostrils／rise and fall
 
-**为什么这样写**：本句是全章的**嗅觉入口**。作者不用"消毒水味"这种通用词，而用`carbonic soap`（碳酸皂）——`carbonic`（碳酸的）自带一个化学词根，让气味有了具体物质来源；`sat in the back of ... nostrils`（积在鼻腔深处）用`sat`（坐落）把气味写成一件**待在那儿不动的东西**，与同句`rise and fall`（一起一伏）的生命体征构成一组对照：**规律的起伏 vs 躺着不动的人**。
+**为什么这样写**：本句是全章的**嗅觉入口**。作者不用"消毒水味"这种通用词，而用`carbonic soap`（碳酸皂）——`carbonic`（碳酸的）自带一个化学词根，让气味有了具体物质来源；`sat in the back of Hannah’s nostrils`（积在鼻腔深处）用`sat`（坐落）把气味写成一件**待在那儿不动的东西**，与同句`rise and fall`（一起一伏）的生命体征构成一组对照：**规律的起伏 vs 躺着不动的人**。
 
 **读者视角提示**：镜头被钉在一个人的鼻腔上——**读者先闻到的不是危险，是肥皂**。
 
@@ -63,7 +63,7 @@ modified: "2026-09-29"
 
 **关键词**：she had decided they were at war／stripping away all those small things／amplifying what was left
 
-**为什么这样写**：本句是全章的论点句，而作者先用一个破折号插进来的**自我裁定**替换掉读者以为会来的战争背景：`War—and she had decided they were at war—had a way of...`（战争——而她认定他们已经处在战争里——会把……）。引语里两处都是原文真正的破折号。这个插句把战争从客观状态改写成**她的一个决定**（`she had decided`，过去完成时说明定性早已落定），同时让`had a way of`（有一种……的方式）这个结构无法被跳过。核心动作是`stripping away`（剥掉）接`amplifying`（放大）——**先减后加**：战争不是加法，它靠减法把剩下的推到极端。
+**为什么这样写**：本句是全章的论点句，而作者先用一个破折号插进来的**自我裁定**替换掉读者以为会来的战争背景：`War—and she had decided they were at war—had a way of stripping away all those small things`（战争——而她认定他们已经处在战争里——会把那些小事剥掉）。引语里两处都是原文真正的破折号。这个插句把战争从客观状态改写成**她的一个决定**（`she had decided`，过去完成时说明定性早已落定），同时让`had a way of`（有一种……的方式）这个结构无法被跳过。核心动作是`stripping away`（剥掉）接`amplifying`（放大）——**先减后加**：战争不是加法，它靠减法把剩下的推到极端。
 
 **读者视角提示**：这里的`all those small things`（那些小事）在别处被点名成`bread and orange marmalade and a night at the theater`（面包、橘子酱和一场戏）——**抽象的"小事"被换成三样具体的东西**。
 
@@ -87,7 +87,7 @@ modified: "2026-09-29"
 
 **关键词**：she was certain that／if Otto had died／finally—finally—broken
 
-**为什么这样写**：全章唯一一处明确的反事实，而作者把它包在`she was certain that`（她很确定）里——`certain`（确定）是本章最不容置疑的一个词，因为它紧跟在`Hannah already felt gutted`（Hannah 已经被掏空了）之后。句内`if Otto had died`／`would have ... broken`（如果 Otto 死了／她就会已经垮掉）两个过去完成时把整句安放在一条没有发生的时间线上。中间的`finally—finally—broken`用了两处真正的破折号和重复的`finally`（终于）——**第一个"终于"是松一口气，第二个"终于"是承认此前每一次都没裂**。
+**为什么这样写**：全章唯一一处明确的反事实，而作者把它包在`she was certain that`（她很确定）里——`certain`（确定）是本章最不容置疑的一个词，因为它紧跟在`Hannah already felt gutted`（Hannah 已经被掏空了）之后。句内`if Otto had died`／`would have finally—finally—broken`（如果 Otto 死了／她就会终于——终于——垮掉）两个过去完成时把整句安放在一条没有发生的时间线上。中间的`finally—finally—broken`用了两处真正的破折号和重复的`finally`（终于）——**第一个"终于"是松一口气，第二个"终于"是承认此前每一次都没裂**。
 
 **读者视角提示**：注意`But`（但是）开头。前面她还说`Hannah had always considered herself strong`（Hannah 一向认为自己很强），这里用`But`把那份坚强当场推翻：**她的强是条件性的，条件就写在`if`里**。
 

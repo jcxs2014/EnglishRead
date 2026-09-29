@@ -180,7 +180,7 @@ modified: "2026-09-29"
 | silly | 傻乎乎的（此处指她给自己的判词里的那个词） | She was just a silly, stupid girl from Owl’s Head, Maine, and she’d never be anything but that. |
 | slim calves | 纤细的小腿（此处指那条裙子要显出来的地方） | She knew enough about style to recognize that the depth of the blue would shift her skin from ghostly pale to polished porcelain; the shimmer of the webbing would lighten up her face; the cut would highlight her slim calves and delicate collarbone while hiding a lack of curves. |
 | state opera | 国家歌剧院（此处指Opernplatz前面那栋建筑） | As they neared Opernplatz, in front of the state opera building, the torchlight illuminated the crowd. |
-| torchlight | 火把的光（此处指照亮人群的那种光） | As they neared Opernplatz, in front of the state opera building, the torchlight illuminated the crowd. |
+| symbolic fire | 象征性的火（此处指她一开始以为这只是一场象征） | It was not just a few books, not just a symbolic fire. |
 
 ## 一句话总结
 

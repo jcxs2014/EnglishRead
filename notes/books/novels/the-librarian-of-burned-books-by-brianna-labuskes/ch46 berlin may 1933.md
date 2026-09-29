@@ -63,7 +63,7 @@ modified: "2026-09-29"
 
 **关键词**：had never known, had never imagined／A conversation between two bodies／without a single word being uttered
 
-**为什么这样写**：两个分句用同一个完成时的 `had never known, had never imagined`（从来不知道／从来没想过）**故意排成同构**，作者不给这两者分主次——她不是不知道那有多好，是连「能这样」这个可能性都没进过脑子。而 `A conversation between two bodies`（两个身体之间的一场对话）三个词就把前夜的亲密翻译成**语言层的失效**：被取消的不是对话本身，而是 `without a single word being uttered`（一个词也没有说出口）这个条件——**那一夜的话全在身体上**。
+**为什么这样写**：两个分句用同一个完成时的 `had never known, had never imagined`（从来不知道／从来没想过）**故意排成同构**，作者不给这两者分主次——她不是不知道那有多好，是连「能这样」这个可能性都没进过脑子。而 `A conversation between two bodies`（两个身体之间的一场对话）这一串名词就把前夜的亲密翻译成**语言层的失效**：被取消的不是对话本身，而是 `without a single word being uttered`（一个词也没有说出口）这个条件——**那一夜的话全在身体上**。
 
 **读者视角提示**：紧跟其后的一句 `Too flustered, or too uninterested, or too self-conscious.`（太慌乱，或者太没兴趣，或者太不自在）是她此前对自己的诊断——**这三个自我诊断与这一夜互为反证**。
 
@@ -87,7 +87,7 @@ modified: "2026-09-29"
 
 **关键词**：The label felt dirty now／tainted
 
-**为什么这样写**：全章最短的一处，也是唯一一次让**一个称呼自己失效**。原句是一个系动词都没有的短句：`The label felt`（这个称号感觉）——主语是那个称号，动词是感觉，后面没有结果。而 `now`（现在）把这个转变的时间点钉在失身之后。收尾那个形容词 `tainted`（被玷污的）比 `dirty`（脏的）多一层法律与宗教的味道——**她不是在说自己脏，是在说自己身上那个身份脏了**：书之友这个位置，因为拿它的那个身份做过的事而不再干净。
+**为什么这样写**：全章最短的一处，也是唯一一次让**一个称呼自己失效**。原句极短，谓语只有 `felt`（感觉）一个：`The label felt dirty now`（这个称号现在感觉很脏）——主语是那个称号，谓语是感觉，**作者不给理由，只给时间**。而 `now`（现在）把这个转变的时间点钉在失身之后。收尾那个词 `tainted`（被玷污的）比 `dirty`（脏的）多一层法律与宗教的味道——**她不是在说自己脏，是在说自己身上那个身份脏了**：书之友这个位置，因为那个拿它的人做过的事而不再干净。
 
 **读者视角提示**：这个称号是谁给的，本章也交代了——`The bookseller had given her a gift and she’d handed over her copy of Alice in return.`（那个书商送过她一件礼物，她就把自己的 Alice 交给了他）紧接在这三段之前。**作者不在这里解释它是怎么被弄脏的，只把它放在烧书这件事之后**，让读者自己连线。
 

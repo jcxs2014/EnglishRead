@@ -87,7 +87,7 @@ modified: "2026-09-29"
 
 **关键词**：had lived beneath Hannah’s breastbone／for years
 
-**为什么这样写**：全章最短也最重的一次内化，它指的是紧挨着的那句 `Otto hadn’t asked.`（Otto 从来没有问过。）`beneath Hannah’s breastbone`（在 Hannah 的胸骨之下）把一个念头写成一个寄居在身体里的房客——用的是 `beneath`（在……之下），而不是更常见的 `in her mind`（在她心里）；动词选 `lived`（住）而不是 `was`（是），把这件事写成**一位不走的房客**。
+**为什么这样写**：全章最短也最重的一次内化，它指的是紧挨着的那句 `Otto hadn’t asked.`（Otto 从来没有问过。）`beneath Hannah’s breastbone`（在 Hannah 的胸骨之下）把一个念头写成一个寄居在身体里的房客——用的是 `beneath`（在……之下），而不是一般英语里更常见的 `in her mind`（在她心里）；动词选 `lived`（住）而不是 `was`（是），把这件事写成**一位不走的房客**。
 
 **读者视角提示**：往后看 `she’d found a body of water and placed a ring of lilies into it`（她找了一片水，把一圈百合放进去）——**作者先给抽象的"住"，再给具体的"葬"，诊断在前、葬礼在后**。
 
