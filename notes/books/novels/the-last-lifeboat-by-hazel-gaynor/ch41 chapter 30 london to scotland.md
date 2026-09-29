@@ -31,7 +31,7 @@ modified: "2026-09-28"
 
 **关键词**：Instinct and hope are fragile things / Facts and calculations / lend them structure and rigidity
 
-**为什么这样写**：**这是全书对"希望"最冷的一次工程学处理，而它只有两行。**"Instinct and hope are fragile things."（直觉与希望是脆弱的东西。）——**这一句把两样东西归为一类**；**"Facts and calculations lend them structure and rigidity."（事实与计算赋予它们结构与硬度。）——**lend（赋予）是借用的动词：结构与硬度不是它们自带的，是外借的**；**——而 rigidity（硬度）与 ch33 那句 "the rigid lists of dates and shipping records"（僵硬的日期与航运记录清单）属同一个词族。**
+**为什么这样写**：**这是全书对"希望"最冷的一次工程学处理，而它只有两行。**"Instinct and hope are fragile things."（直觉与希望是脆弱的东西。）——**这一句把两样东西归为一类**；**"Facts and calculations lend them structure and rigidity."（事实与计算赋予它们结构与硬度。）——**lend（赋予）是借用的动词：结构与硬度不是它们自带的，是外借的**；**——而 rigidity（硬度）与 ch38 那句 "the rigid lists of dates and shipping records"（僵硬的日期与航运记录清单）属同一个词族。**
 
 **读者视角提示：⚠️** **"Instinct and hope are fragile things."（直觉与希望是脆弱的东西。）解释了为什么莉莉在 ch40 会说 "And I know Arthur is alive. I can feel it."（我知道亚瑟还活着。我感觉得到。）**——**因为她知道那句话撑不了多久，所以本章她立刻去要地图**；**而这与 ch39 那位 diarist 的 "I want to remember everything."（我想记住一切。）形成一组：一个人在拼命记，一个人已经知道记不住。**
 

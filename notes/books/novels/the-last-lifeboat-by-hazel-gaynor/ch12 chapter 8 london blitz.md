@@ -73,7 +73,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"等待"最生理化的一次描写，而作者把它写成了一个声音。**"the snap of the letter box"（邮筒开合的那声脆响）——**请注意作者不说"她害怕没有信"，她害怕的是一个具体的、可以被听见的金属声**；**dreaded 出现两次（dreaded… dreaded…），而作者用分号把两个"怕"并列——怕那个声音，也怕那个声音之后的内容。**"What if they said no? But what if they said yes?"（如果他们说不呢？可是如果说是呢？）——**这两个问句是全书最重要的一处对仗：一个用问号，一个用 But（可是），而"But"这个词把"两种结果都可怕"这件事说尽了**——**这正是 ch06 那句"不可能的选择"在夜里最真实的样子：她已经知道无论哪种结果都会痛。**
 
-**读者视角提示**：⚠️ **这一句是 ch06 那句"It’s an impossible choice. Unbearable."（这是不可能的选择。难以承受。）的夜间版**——**白天她算概率，夜里她数恐惧；而本章最后一封信的抵达，把这个"如果说不"永远地赶走了：**从那一刻起，她只剩下"如果说是"这一个问题，而它马上就被回答了。**
+**读者视角提示**：⚠️ **这一句是 ch06 那句"It was an impossible choice. Unbearable."（这是不可能的选择。难以承受。）的夜间版**——**白天她算概率，夜里她数恐惧；而本章最后一封信的抵达，把这个"如果说不"永远地赶走了：**从那一刻起，她只剩下"如果说是"这一个问题，而它马上就被回答了。**
 
 > **原句 7:** "Specific damage and casualties were reported in scant detail, the newspaper editors careful not to give any encouragement to the enemy."
 

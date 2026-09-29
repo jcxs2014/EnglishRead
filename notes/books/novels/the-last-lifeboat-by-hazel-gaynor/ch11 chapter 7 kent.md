@@ -59,7 +59,7 @@ modified: "2026-09-28"
 
 **中文理解**：双方的伤亡数字都在悄悄攀升，然而报纸和 BBC 广播却把消息维持得轻快而充满希望，谈论着胜利，赞颂着"我们那些穿蓝衣的勇敢男孩"。
 
-**关键词**：Casualty numbers were creeping up / yet the newspapers kept the news cheery and hopeful / celebrating ‘our brave boys in blue’
+**关键词**：Casualty numbers were creeping up / yet the newspapers and the BBC wireless reports / kept the news cheery and hopeful / celebrating ‘our brave boys in blue’ blue’
 
 **为什么这样写**：**这是全书对"宣传"最冷的一次描写，而作者用一个 yet（然而）把两个世界劈开。**"creeping up"（悄悄攀升）——**creep（爬）是本书的招牌动词（ch03 的 war had crept into every corner of life），而 casualties（伤亡）不会大步走来，只会爬**；"cheery and hopeful"（轻快而充满希望）——**cheery 这个词选得极准：它是日常的、家常的、甚至是乐观的，**用在一个正在死人的地方就格外刺耳；"our brave boys in blue"（我们穿蓝衣的勇敢男孩）——**请注意 boys（男孩）：**这些人是飞行员，很多只有二十岁，而新闻里他们成了"男孩"——**这是一个把死亡包装成童稚的修辞，而作者用引号把它原样引下来，不加评论。**
 

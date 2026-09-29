@@ -53,7 +53,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"论证结构"最冷的一次证明，而它只有四个词。**"See point 1) above."（见上面第一条。）**——**而这一句紧跟在第 4 条之后：第 4 条说"船队里没有指定救援船，因为救援船只在护航状态下运作"**；**——而"See point 1) above"把这个问题直接甩回第 1 条：**你们的护航本来就不存在**；**——所以这一句是整封信里最有效的部分：它不辩解，它只是交叉引用，让读者自己在两条之间画出那条线**；**——而这条线就是"没有护航 → 所以没有救援船 → 所以三百人落水"的全链。**
 
-**读者视角提示：⚠️** **"See point 1) above."（见上面第一条。）与 ch40 那句 "it is not which one of them death will take next, but who it will leave until last"（不是死亡会带走哪一个，而是会把哪一个留到最后）**——**一个是论证的收网，一个是命运的算术**；**——而这两句都在 ch43 那位官员给出 "Reduced, but not eliminated." 之后：回答者一个用公文，一个用交叉引用。**
+**读者视角提示：⚠️** **"See point 1) above."（见上面第一条。）与 ch42 那句 "not which one of them death will take next, but who it will leave until last"（不是死亡会带走哪一个，而是会把哪一个留到最后）**——**一个是论证的收网，一个是命运的算术**；**——而这两句都在 ch43 那位官员给出 "Reduced, but not eliminated." 之后：回答者一个用公文，一个用交叉引用。**
 
 > **原句 5:** "Let them assume. It doesn’t matter who wrote it. What matters is that people read it, and that those in power act on it. What matters is that this never happens again."
 
@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书最短的一个死因，而它是过去分词独立成段。**"Torpedoed."（鱼雷击中。）**——**而作者把这个词从整句里拆出来，让它单独占一段**；**——而这一段紧跟的那句说明是：the devastating word that sits at the heart of the tragedy（那个位于这场悲剧核心的毁灭性词汇）**；**——所以作者用一个词，完成了一整段的悼念**；**——而这个词出现在 ch58 之后：那一章我们知道彼得 1940 年 2 月 14 日出门，而这一章我们在读一封宣布他妻子死亡的公函。**
 
-**读者视角提示：⚠️** **"Torpedoed."（鱼雷击中。）与 ch42 那句 "I can’t, so I won’t. This isn’t a goodbye letter. It’s a love letter, to my sweetheart."**——**（那是他自己写的版本）**——**而这一章是"版本"：官方的那一版只有一个词**；**——所以这本书对"同一件事的两份记录"的处理是：一份有第五稿和"再养一条狗"，另一份只有一个分词。**
+**读者视角提示：⚠️** **"Torpedoed."（鱼雷击中。）与 ch48 那句 "I can’t, so I won’t. This isn’t a goodbye letter. It’s a love letter, to my sweetheart."**——**（那是他自己写的版本）**——**而这一章是"版本"：官方的那一版只有一个词**；**——所以这本书对"同一件事的两份记录"的处理是：一份有第五稿和"再养一条狗"，另一份只有一个分词。**
 
 > **原句 9:** "It is a reminder to live, in every sense of the word."
 

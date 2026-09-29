@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"认出"最慢的一次，而它被拆成了三个动作。**"The name falls from Lily’s lips in a gasp."（那个名字从她唇间跌落。）——**注意 falls（跌落）：名字不是被说出来的，是掉出来的**；**"in a gasp"（在一口气里）——**而这一句的第一小节是喊（'Georgie!'），第二小节是呢喃（'My Georgie.'）**；**——所以整节从"喊"降到了"我"字，而降级只用了一次换行。**
 
-**读者视角提示：⚠️** **"‘My Georgie.'（我的乔治娜。）与 ch41 那句 "I want to look nice for Georgie."（我要为乔治娜好看点。）是同一句话的两次**——**ch41 她打扮是为了被女儿看见；ch46 她喊出的第一声是"我的"**；**而作者用一次降格完成了从"母亲"到"人"的转变。**
+**读者视角提示：⚠️** **"‘My Georgie.'（我的乔治娜。）与 ch43 那句 "I want to look nice for Georgie."（我要为乔治娜好看点。）是同一句话的两次**——**ch41 她打扮是为了被女儿看见；ch46 她喊出的第一声是"我的"**；**而作者用一次降格完成了从"母亲"到"人"的转变。**
 
 > **原句 3:** "‘Let me through. That’s my little girl. That’s my daughter.’"
 
@@ -53,7 +53,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"失去"最不像失去的一句道歉，而它来自一个十岁的孩子。**"I don’t have him"（我没有他）——**而 have 在这里是"持有"：一个孩子用了持有所有人的那个动词，来报告一件她做不到了的事**；**——而这一整节里 Arthur 出现了两次：I don't have him 和 I don't have Arthur**，**前一个 him 无所指，后一个才是名字**；**"I’m sorry, Mummy. I’m sorry."（对不起，妈妈。对不起。）——**而这一句说了两遍**。
 
-**读者视角提示：⚠️** **"I don’t have him"（我没有他）与 ch40 那句 "not which one of them death will take next, but who it will leave until last"（不是死亡会带走哪一个，而是会把哪一个留到最后）形成全书最冷的一组对照**——**一个成年人算的是谁被留下，一个孩子报的是谁没跟着**；**而作者把这句放在母亲刚刚说完"这是奇迹"之后三行。**
+**读者视角提示：⚠️** **"I don’t have him"（我没有他）与 ch42 那句 "not which one of them death will take next, but who it will leave until last"（不是死亡会带走哪一个，而是会把哪一个留到最后）形成全书最冷的一组对照**——**一个成年人算的是谁被留下，一个孩子报的是谁没跟着**；**而作者把这句放在母亲刚刚说完"这是奇迹"之后三行。**
 
 > **原句 5:** "‘It’s all right, love. I know. It’s all right.’"
 
@@ -113,7 +113,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"孩子的创伤"最准确的一次描写，而它是被叙述者猜出来的。**"She seems to have blocked out"（她似乎把……封存了）——**注意 seems：作者没有断言，她只给了推测**；**"blocked out"（封存）——**而 block out 在英语里的字面是"用东西挡住"，它描述的是把一段经验从意识里隔开**；**——而作者给的证据是：她只想讲卡莱尔号有多好、别的女孩有多友好、每顿吃了多少**（how much food they'd eaten at every meal）。
 
-**读者视角提示：⚠️** **"blocked out the sinking"（把沉船封存了）与 ch40 那句 "images and memories cycling through her mind until she isn’t sure what is real and what is imagined"（影像与记忆在她脑中轮转，直到她分不清什么是真、什么是想象）**——**ch40 是 Alice 分不清，ch46 是 Georgie 分不清**；**而作者把这对母女放在同一种遗忘的两种形式里：一个是过度，一个是不足。**
+**读者视角提示：⚠️** **"blocked out the sinking"（把沉船封存了）与 ch42 那句 "images and memories cycling through her mind until she isn’t sure what is real and what is imagined"（影像与记忆在她脑中轮转，直到她分不清什么是真、什么是想象）**——**ch40 是 Alice 分不清，ch46 是 Georgie 分不清**；**而作者把这对母女放在同一种遗忘的两种形式里：一个是过度，一个是不足。**
 
 > **原句 11:** "‘Yes! He was everyone’s favourite. That’s Uncle Howard.’"
 
@@ -121,7 +121,7 @@ modified: "2026-09-28"
 
 **关键词**：He was everyone’s favourite / That’s Uncle Howard
 
-**为什么这样写**：**这是全书对"记住"最温暖的一次收尾，而它由一个孩子命名了一个死者。**"He was everyone’s favourite."（他是最受大家喜欢的那个。）——**而这一句的 tense（时态）是 was：一个孩子用过去时说一个刚刚还活着的人**；**"That’s Uncle Howard."（那是霍华德叔叔。）——**而 Uncle（叔叔）这个词是 ch40 那句 "We called the escorts auntie and uncle"（我们把护送员叫作阿姨和叔叔）的兑现**；**——而"最喜欢的那个护送员"已经死在卡莱尔号上，而他没有把她从海里拉出来——是她被人拉上来的。**
+**为什么这样写**：**这是全书对"记住"最温暖的一次收尾，而它由一个孩子命名了一个死者。**"He was everyone’s favourite."（他是最受大家喜欢的那个。）——**而这一句的 tense（时态）是 was：一个孩子用过去时说一个刚刚还活着的人**；**"That’s Uncle Howard."（那是霍华德叔叔。）——**而 Uncle（叔叔）这个词是 ch46 那句 "We called the escorts auntie and uncle."（我们把护送员叫作阿姨和叔叔）的兑现**；**——而"最喜欢的那个护送员"已经死在卡莱尔号上，而他没有把她从海里拉出来——是她被人拉上来的。**
 
 **读者视角提示：⚠️** **"That’s Uncle Howard."（那是霍华德叔叔。）是全书最沉的一句，因为它同时是两个事实**——**ch46 的读者刚读完 ch40 那一整章（Alice 在船上经历了三夜），而 ch40 里霍华德最后做的事是把《大卫·科波菲尔》还给 Alice、在梦里跟她谈论薛定谔的猫、以及"他差点没撑过前三天"**；**而 ch46 一个十岁孩子说他是大家最喜欢的，并且将他称作"叔叔"——**这就是这本书对"那些活下来的人如何被记住"的最终回答：她们记住的不是英雄，是那个给她们起了称呼的人。**
 

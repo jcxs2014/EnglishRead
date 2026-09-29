@@ -203,7 +203,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"体面"最正面的定义，而它用一组不对称的对照。**"I have decency and integrity."（我有体面与正直。）——**decency（体面）在英语里是"符合社会期望的行为"，而 integrity（正直）是"不因为利益而违背自己"**；**"All you have is power and ambition"（你有的只是权力和野心）——**而这一句里的 All（只是）是全句最重的一个词：她不是说"你还拥有"别的**；**"and letters after your name."（和头衔后面的字母。）——**而这一句是全章最伤人的一处：letters（字母）指的是 CBE 之类的后缀字母，而它的英文字面意思恰恰是"信"**——**所以作者用"字母"这个词，在 ch21 那封丧信（the loss of the Carlisle, like the Lusitania, is a terrible act of war）与这一句之间画了一条线。**
 
-**读者视角提示：⚠️** **"letters after your name"（头衔后面的字母）与 ch21 那句 "the name ARTHUR PETER NICHOLLS chiselled onto it in thick block lettering"（那个名字用粗体大写字体凿在上面）是同一册书里对"名字"最冷与最热的两次处理**——**ch21 那个名字被凿进一块花岗岩，ch43 这一串字母被当成人名之后的装饰**；**所以本书对"名分"的看法是：它救不了任何人，但一个母亲会为它去敲一扇门。**
+**读者视角提示：⚠️** **"letters after your name"（头衔后面的字母）与 ch36 那句 "the name ARTHUR PETER NICHOLLS chiselled onto it in thick block lettering"（那个名字用粗体大写字体凿在上面）是同一册书里对"名字"最冷与最热的两次处理**——**ch21 那个名字被凿进一块花岗岩，ch43 这一串字母被当成人名之后的装饰**；**所以本书对"名分"的看法是：它救不了任何人，但一个母亲会为它去敲一扇门。**
 
 ## 本章词汇
 

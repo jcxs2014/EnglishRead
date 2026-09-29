@@ -23,7 +23,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"适应"最冷的一次定义，而它只有八个工作词。**"Sunlight or storms"（阳光还是风暴）——**or 在这里是穷举：她把海上的全部可能只留两种**；**"it is all the same now"（如今都一样了）——**而 now（如今）这个词承认了"曾经不一样"**；**——所以这一句是 ch45 全章的基调：她不再区分好坏，只区分还在不在。**
 
-**读者视角提示：⚠️** **"Sunlight or storms, it is all the same now."（阳光还是风暴，如今都一样了。）与 ch32 那句 "Sunlight or storms, it is all the same now." 之后发生的鲸，与 ch40 那句 "If anything, she finds the physical contact comforting."（如果有什么不同，她发现这种身体接触是安慰的。）构成一组**——**ch42 她刚刚接受了一个人的体温，ch45 她已经不再区分海面是亮是暗**；**而作者把这两种"不再区分"放在同一章：她对海不再区分，对孩子却还在区分。**
+**读者视角提示：⚠️** **"Sunlight or storms, it is all the same now."（阳光还是风暴，如今都一样了。）与 ch45 那句 "Sunlight or storms, it is all the same now." 之后发生的鲸，与 ch42 那句 "If anything, she finds the physical contact comforting."（如果有什么不同，她发现这种身体接触是安慰的。）构成一组**——**ch42 她刚刚接受了一个人的体温，ch45 她已经不再区分海面是亮是暗**；**而作者把这两种"不再区分"放在同一章：她对海不再区分，对孩子却还在区分。**
 
 > **原句 2:** "The creature studies her for a moment, its jet-black eye fixed on hers, telling her to hold on, that there is still hope, that there will be a life beyond this."
 
@@ -43,7 +43,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"现实"最冷的一次裁决，而它只有五个词。**"There wasn’t a whale."（没有鲸。）——**而这一句用的是 wasn’t（过去时）：仿佛那头鲸已经存在过，然后被否定**；**"Alice"**——**而这一句把她的名字放在句末，是最不客气的一种安放**。**
 
-**读者视角提示：⚠️** **"There wasn’t a whale."（没有鲸。）与 ch35 那句 "Not a cloud, but a real ship."（不是云，是一条真正的船。）是同一句话的正反两面**——**ch35 她坚持那是真的船，ch45 别人坚持那不是真的鲸**；**而两次之后都是她被相信的那一次更接近真相，也更接近代价。**
+**读者视角提示：⚠️** **"There wasn’t a whale."（没有鲸。）与 ch40 那句 "Not a cloud, but a real ship."（不是云，是一条真正的船。）是同一句话的正反两面**——**ch35 她坚持那是真的船，ch45 别人坚持那不是真的鲸**；**而两次之后都是她被相信的那一次更接近真相，也更接近代价。**
 
 > **原句 4:** "‘You’re seeing things, Alice. Hallucinating.’"
 
@@ -83,7 +83,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"声音"最不安的一次描写，而它选择了水下。**"the haunting sound of whale song"（那萦绕不去的鲸歌之声）——**而 haunting（萦绕不去）在英语里形容的是鬼魂与记忆**；**"reaches out to her"（向她伸来）——**而 reach 这个动词在整章里出现了两次：鲸向她伸来一次，她向鲸伸手一次**；**"from the fathoms below"（从深处的英寻里）——**而 fathom 在英语里既是"英寻"也是"探测深度"，这个词本身就同时是深度与理解。**
 
-**读者视角提示：⚠️** **"from the fathoms below"（从深处的英寻里）与 ch02 那句 "No stars, no moon, not even the bright hue of the flares"（没有星星，没有月亮，连照明弹的颜色都没有）构成一组**——**ch02 是彻底的黑暗，ch45 是有声音从下面升上来**；**而这首"鲸歌"是 ch40 那句 "the tiny figures of people on deck"（甲板上那些小小的人影）之后，本书给海上的最后一次"有什么在那里"的暗示。**
+**读者视角提示：⚠️** **"from the fathoms below"（从深处的英寻里）与 ch02 那句 "No stars, no moon, not even the bright hue of the flares"（没有星星，没有月亮，连照明弹的颜色都没有）构成一组**——**ch02 是彻底的黑暗，ch45 是有声音从下面升上来**；**而这首"鲸歌"是 ch42 那句 "the tiny figures of people on deck"（甲板上那些小小的人影）之后，本书给海上的最后一次"有什么在那里"的暗示。**
 
 > **原句 8:** "‘Smile, smile, smile.’"
 
@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"要求"最轻的一次表达，而它是一次重复。**"Smile, smile, smile."——**三个同样的词，只是逗号**；**——而作者把它放在一句歌词里（Someone sings 'Pack Up Your Troubles'），由 Owen 的口琴接住那段旋律**；**——所以这三个词同时是一句歌词、一个命令、和一个笑话。**
 
-**读者视角提示：⚠️** **"Smile, smile, smile."（微笑，微笑，微笑。）与 ch33 那句 "We may be losing our minds, but there’s no need to damage morale as well."（我们也许正在失去理智，但没必要连士气也损伤。）是同一件事的两面**——**ch43 那位船员认为士气要保护，ch45 一条救生艇用三个"微笑"来维护它**；**而作者让这两句都出现在同一本书里，且中间只隔了两章。**
+**读者视角提示：⚠️** **"Smile, smile, smile."（微笑，微笑，微笑。）与 ch42 那句 "We may be losing our minds, but there’s no need to damage morale as well."（我们也许正在失去理智，但没必要连士气也损伤。）是同一件事的两面**——**ch43 那位船员认为士气要保护，ch45 一条救生艇用三个"微笑"来维护它**；**而作者让这两句都出现在同一本书里，且中间只隔了两章。**
 
 > **原句 9:** "Small scraps of food. Little routines. The only things they can rely on now."
 
@@ -123,7 +123,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"倒数"最冷的一次处理，而它是一句被拆开的句子。**"The seventh night in the lifeboat, and another storm, begin."——**而这句话的主语是两句：The seventh night（第七夜）与 another storm（另一场风暴）**；**而 begin 用的是复数**；**——所以风暴与夜一起开始，而它们是同一个主语**；**——而作者把它放在整章的最后一行，此时 Billy 正在发烧，《白鲸记》刚讲完。**
 
-**读者视角提示：⚠️** **"The seventh night in the lifeboat, and another storm, begin."（救生艇上的第七夜，以及另一场风暴，开始了。）与 ch02 那句 "two minutes after ten"（十点零二分）构成一对时间标记**——**ch02 用分钟计，ch45 用"夜"计**；**而这一句把两件事合成一句：白天的故事结束了，黑夜的故事开始**；**所以这本书对"结构"的处理是：每一次章节的结束都是一个从句的开始。**
+**读者视角提示：⚠️** **"The seventh night in the lifeboat, and another storm, begin."（救生艇上的第七夜，以及另一场风暴，开始了。）与 ch22 那句 "two minutes after ten"（十点零二分）构成一对时间标记**——**ch02 用分钟计，ch45 用"夜"计**；**而这一句把两件事合成一句：白天的故事结束了，黑夜的故事开始**；**所以这本书对"结构"的处理是：每一次章节的结束都是一个从句的开始。**
 
 ## 本章词汇
 

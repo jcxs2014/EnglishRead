@@ -111,7 +111,7 @@ modified: "2026-09-28"
 
 **关键词**：a small glass marble / held tight in her hand / ready for the off
 
-**为什么这样写**：**这是全书的最后一句，而它把三样东西压进了一个短语：信物、握姿、出发。**"a small glass marble"（一颗小小的玻璃弹珠）**——**而 small 在这里不是尺寸，是分量：它轻到可以握住，却重到必须握住**；**——"held tight in her hand"（紧握在她手里）**——**而这与 ch45 那句 "In her hand, she clutches a white feather"（她手里紧握着一根白羽毛）**——**两样东西在同一种握姿里交替**；**——"ready for the off"（准备出发）——**而 off 是赛马用语（"off!" 起跑），而这是全书唯一一个明确指向"开始跑"的词**。
+**为什么这样写**：**这是全书的最后一句，而它把三样东西压进了一个短语：信物、握姿、出发。**"a small glass marble"（一颗小小的玻璃弹珠）**——**而 small 在这里不是尺寸，是分量：它轻到可以握住，却重到必须握住**；**——"held tight in her hand"（紧握在她手里）**——**而这与 ch49 那句 "In her hand, she clutches a white feather"（她手里紧握着一根白羽毛）**——**两样东西在同一种握姿里交替**；**——"ready for the off"（准备出发）——**而 off 是赛马用语（"off!" 起跑），而这是全书唯一一个明确指向"开始跑"的词**。
 
 **读者视角提示：⚠️** **"ready for the off"（准备出发）与 ch40 那个孩子的 "Your move, Alice."（该你了，爱丽丝。）——ch40/ch47 父亲说"该你了"是关于下一步棋，ch56 这句是关于整个人生**；**——而这颗弹珠与 ch42 那个写着 "Remember us"（记住我们）的血瓶、ch48 那本 "still clutched in my hands"（还攥在手里）的《大卫·科波菲尔》**——**三件信物，各自落在三个人手里，而这个孩子自己的弹珠最终留给了把他带回家的人。**
 

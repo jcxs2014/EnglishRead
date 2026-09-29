@@ -23,7 +23,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"被看见"最抗拒的一次表达，而它是一个分号加一个省略式并列。**"all these people"（这么多人）**——**而 these（这些）说明在爱丽丝眼里人群没有区分度：不是一个一个的人，是一个数量**；**"to see her; to know her"（看见她；认识她）**——**而分号后面那半句比前半句更重：被看见是眼睛的事，被认识是身份的事**；**——所以作者用一个分号把这两件事压进同一句话，而它们之间不需要 but：它们本来就是递进的。**
 
-**读者视角提示：⚠️** **"She doesn’t want all these people to see her; to know her."（她不想让这么多人看见她、认识她。）与 ch48 那句 "I’d like some time alone. In private."（我们想单独待一会儿。私下。）——ch48 是那位母亲在拒绝一场采访，ch55 是一个刚刚救了三十五条命的人拒绝人群**；**——而 ch48 那次她做到了（凯蒂替她挡了），这一章她一次也没能躲开。**
+**读者视角提示：⚠️** **"She doesn’t want all these people to see her; to know her."（她不想让这么多人看见她、认识她。）与 ch15 那句 "process her anguish in private"（我们想单独待一会儿。私下。）——ch48 是那位母亲在拒绝一场采访，ch55 是一个刚刚救了三十五条命的人拒绝人群**；**——而 ch48 那次她做到了（凯蒂替她挡了），这一章她一次也没能躲开。**
 
 > **原句 2:** "every bone in her body feels like a sponge"
 
@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"支撑不住"最奇特的比喻，而它选了一个吸水的东西。**"every bone"（每一根骨头）**——**而 every（每一根）把全身拆成了零件逐一交代**；**——"feels like a sponge"（像海绵）——**而海绵是吸满水就再也吸不动的**；**——所以作者没有说她"很累"或"快撑不住了"（ch50 用的是 lose her balance），她说的是：她的骨头正在吸水，已经到了饱和**。
 
-**读者视角提示：⚠️** **"every bone in her body feels like a sponge"（全身每一根骨头都像海绵）与 ch52 那句 "her body as limp as the half-folded cardigan"（她的身体和手里那件折了一半的羊绒衫一样瘫软）——ch52 是"软"，ch55 是"满"**；**——两章都在写同一个人的同一个身体，而一个是空的，一个是吸满的：这就是这本书对"耗尽"的两种写法。**
+**读者视角提示：⚠️** **"every bone in her body feels like a sponge"（全身每一根骨头都像海绵）与 ch51 那句 "her body as limp as the half-folded cardigan"（她的身体和手里那件折了一半的羊绒衫一样瘫软）——ch52 是"软"，ch55 是"满"**；**——两章都在写同一个人的同一个身体，而一个是空的，一个是吸满的：这就是这本书对"耗尽"的两种写法。**
 
 > **原句 3:** "‘I decided to reschedule my life instead."
 
@@ -73,7 +73,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"母亲被消息改变"最精确的一次描写，而它用的是尺寸。**"smaller than Alice remembers"（比爱丽丝记得的更小）**——**而这半句本身是无可辩驳的记忆事实，不带任何判断**；**——"as if she has been eroded"（仿佛被侵蚀了）——**而 as if（仿佛）再次是关键：作者不下判断，她描述一个视觉印象并加上一个地质学的比喻**；**——"the nightmare of believing"（那个"相信"的噩梦）**——**而这里的 nightmare（噩梦）修饰的是 believing（相信），不是"失去"：她的噩梦是她相信了一件事**。
 
-**读者视角提示：⚠️** **"the nightmare of believing her son was never coming home"（那个"相信儿子不会回来"的噩梦）与 ch51 那句 "Lily knows Kitty is right… but the thought of returning to London without Arthur is excruciating."（莉莉知道凯蒂是对的……可想到要回伦敦却没有亚瑟，就难以为继。）——ch51 是"想到"，ch55 是"被侵蚀"**；**——所以这本书对同一件事的处理是：她对"想到"用心理描写，对"看到"用尺寸描写。**
+**读者视角提示：⚠️** **"the nightmare of believing her son was never coming home"（那个"相信儿子不会回来"的噩梦）与 ch51 那句 "Lily knows Kitty is right, she should take Georgie home, but the thought of returning to London without Arthur is excruciating."（莉莉知道凯蒂是对的……可想到要回伦敦却没有亚瑟，就难以为继。）——ch51 是"想到"，ch55 是"被侵蚀"**；**——所以这本书对同一件事的处理是：她对"想到"用心理描写，对"看到"用尺寸描写。**
 
 > **原句 7:** "‘Thank you feels so inadequate for something so enormous, for keeping Arthur safe, for bringing him back to me.’"
 

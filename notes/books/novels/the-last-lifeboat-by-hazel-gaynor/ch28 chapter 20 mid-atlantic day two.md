@@ -41,7 +41,7 @@ modified: "2026-09-28"
 
 **关键词**：My mother / She fell into the water / We tried to reach her, almost did / but the swell swept her away
 
-**为什么这样写**：**这是全书对"一个母亲之死"最完整的一次交代，而它用了四段递进。**"My mother."（我妈妈。）——**两个字的主语之后紧跟一个句号：Jimmy 在这一段里整个人塌了一截**；**"She fell into the water just after we launched the lifeboat."（救生艇刚放下水，她就掉进了水里。）**——**just after（刚刚在……之后）：她的死与艇的下水几乎同时，所以没人来得及救她**；**"We tried to reach her, almost did"（我们试着够到她，差一点就够到了）**——**而这一句是全书最残忍的"差一点"：almost did（差一点做到了）**；**"but the swell swept her away"（可浪把她卷走了）**——**swell（涌浪）在 ch22 那句 "It’s the swell."（那是涌浪）里还只是术语，而在这里它是执行者**。
+**为什么这样写**：**这是全书对"一个母亲之死"最完整的一次交代，而它用了四段递进。**"My mother."（我妈妈。）——**两个字的主语之后紧跟一个句号：Jimmy 在这一段里整个人塌了一截**；**"She fell into the water just after we launched the lifeboat."（救生艇刚放下水，她就掉进了水里。）**——**just after（刚刚在……之后）：她的死与艇的下水几乎同时，所以没人来得及救她**；**"We tried to reach her, almost did"（我们试着够到她，差一点就够到了）**——**而这一句是全书最残忍的"差一点"：almost did（差一点做到了）**；**"but the swell swept her away"（可浪把她卷走了）**——**swell（涌浪）在 ch20 那句 "It’s the swell."（那是涌浪）里还只是术语，而在这里它是执行者**。
 
 **读者视角提示：⚠️** **"My mother. She fell into the water just after we launched the lifeboat."（我妈妈。救生艇刚放下水，她就掉进了水里。）补完了 ch02 的第一个死者**——**而请对照 ch02 那句 "The woman loses her grip on the rain-slicked mast and tumbles, with extraordinary grace, into the dark ocean"（那女人松开桅杆，优雅地落进黑海）**：**当时读者以为那是一场海上的意外，而本章告诉我们，那是一个母亲，而她在被卷走之前，还有三个男人正试图够到她**——**"almost did"（差一点够到）这四个字，把 ch02 那个"优雅"的镜头整个翻了过来。**
 
@@ -133,7 +133,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"信物"最冷也最准的一次否定，而它只有七个词。**"lucky charm"（幸运护身符）——**而这个词正是 ch14 里 Lily 塞给 Alice 的那句话的原文用词（A lucky talisman, a white feather, to keep the children safe）**；**"What use is a lucky charm anyway?"（幸运护身符又有什么用呢？）**——**请注意 anyway（反正、总之）：这个词里有一种"早就知道答案"的语气**——**而真正的打击在下一段：Alice 摸了一下口袋，才想起那个装着白羽毛的信封已经不在了，因为她把夹克给了 Molly（she'd given her jacket to Molly）**——**所以护身符不是没用，是"在错误的时间被送掉了"。**
 
-**读者视角提示：⚠️** **"What use is a lucky charm anyway?"（幸运护身符又有什么用呢？）与 ch23 那句 "whatever it takes"（不管用什么办法）**——**一个是托付，一个是"我不敢再信它"**；**而请注意这个失去的分量：它丢失的时间，恰好是她把夹克给了一个素不相识的、晕船的女孩的时候**——**所以这本书对"善意的代价"的写法，永远是这样：一件好事让你失去另一件护身的东西。**
+**读者视角提示：⚠️** **"What use is a lucky charm anyway?"（幸运护身符又有什么用呢？）与 ch27 那句 "whatever it takes"（不管用什么办法）**——**一个是托付，一个是"我不敢再信它"**；**而请注意这个失去的分量：它丢失的时间，恰好是她把夹克给了一个素不相识的、晕船的女孩的时候**——**所以这本书对"善意的代价"的写法，永远是这样：一件好事让你失去另一件护身的东西。**
 
 > **原句 13:** "She closes her eyes and covers her ears and clings to the tattered fragments of hope that tear and fray beneath the restless wind."
 

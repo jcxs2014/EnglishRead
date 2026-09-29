@@ -45,7 +45,7 @@ modified: "2026-09-28"
 
 **读者视角提示：⚠️** **"Everything is mismatched and uneven without him."（没有他，一切都错配而不匀称。）与 ch12 那位母亲失去一整家人之后的写法是同一套**——**这本书处理"失去"的母题一贯不用大词，它用具体的物理错位：少一副碗筷、少一只鞋、少一个能对上的人。**
 
-> **原句 4:** "she’s here.’"
+> **原句 4:** "‘Silly things they put out at weddings and funerals. When I go, promise you’ll give people sandwiches cut into halves. Give people something decent to bite into!’"
 
 **中文理解**：**"婚礼和葬礼上摆出来的这种三明治，蠢透了。"**
 
@@ -81,7 +81,7 @@ modified: "2026-09-28"
 
 **关键词**：Howard Keane officially / Uncle Howard / as I’ve been known recently
 
-**为什么这样写**：**这是全书对一个死而复生之人的命名，而它是一句话里的两种身份。**"Howard Keane officially"（正式地说是霍华德·基恩）——**而 officially（正式地）这个词带官方的冷**；**"Uncle Howard"（霍华德叔叔）——**而这个称呼是孩子们给的，它属于 ch40 那句 "We called the escorts auntie and uncle"（我们把护送员叫作阿姨和叔叔）的兑现**；**——而两句之间的连接词是 as I've been known recently（最近以来我被这样称呼着）：他没有抗议这个称呼，他只是解释它。**
+**为什么这样写**：**这是全书对一个死而复生之人的命名，而它是一句话里的两种身份。**"Howard Keane officially"（正式地说是霍华德·基恩）——**而 officially（正式地）这个词带官方的冷**；**"Uncle Howard"（霍华德叔叔）——**而这个称呼是孩子们给的，它属于 ch46 那句 "We called the escorts auntie and uncle."（我们把护送员叫作阿姨和叔叔）的兑现**；**——而两句之间的连接词是 as I've been known recently（最近以来我被这样称呼着）：他没有抗议这个称呼，他只是解释它。**
 
 **读者视角提示：⚠️** **这一句是 ch46 那句 "'Yes! He was everyone's favourite. That's Uncle Howard.'（是他最喜欢的！那是霍华德叔叔。）"的兑现**——**ch46 是一个孩子的答案，ch48 是当事人自己的解释**；**而两者用同一个称呼，所以这本书对"称呼"的处理是：它把一个陌生的大人变成孩子世界里的一个亲称，而这个亲称在他活下来之后继续有效。**
 
@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书最轻的一句，而它描述的是整场灾难。**"I was reading it"（我正在读它）——**而这一句的时态是过去进行时：一个被打断的动作**；**"when the torpedo hit"（当鱼雷命中的时候）——**而这一小节是全章最平常的一句：一个人在做一件安静的事**；**——所以作者把灾难放在从句里，把读书放在主句里：这个次序本身就是这本书的立场。**
 
-**读者视角提示：⚠️** **"I was reading it when the torpedo hit."（鱼雷命中时我正在读它。）与 ch42 那句 "I was a CO’s brother"（我是一个尉官的弟弟）属于同一种手法**——**用一个小身份压住一个大事件**；**而这里的赌注是：他活下来了，而那本书替他记住了那一刻。**
+**读者视角提示：⚠️** **"I was reading it when the torpedo hit."（鱼雷命中时我正在读它。）与 ch42 那句 "My brother is a CO."（我是一个尉官的弟弟）属于同一种手法**——**用一个小身份压住一个大事件**；**而这里的赌注是：他活下来了，而那本书替他记住了那一刻。**
 
 > **原句 9:** "I’d got all the way to the boat deck before I realized it was still clutched in my hands."
 
@@ -133,7 +133,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"救援"最残酷的一次重新定义，而它是一个 that 引导的从句。**"the hardest to accept"（最难接受的）——**而 accept（接受）在这里是"咽下去"的意思：他要把它咽下去**；**"they made it off the Carlisle"（他们已经离开卡莱尔号）——**而 made it off 是英语里"脱身"的固定说法**；**"and still didn’t survive"（却还是没能活下来）——**而 still（还是）是这个从句的全部重量所在**；**——所以作者用一个 and 把"成功"和"失败"串成一句话：救生艇是一次成功，而它不够。**
 
-**读者视角提示：⚠️** **"they made it off the Carlisle and into a lifeboat, and still didn’t survive."（他们上了救生艇，却还是没能活下来。）与 ch47 那句 "There is no pen poised to write them out of their ordeal"（没有笔能把他们从磨难中写出来。）**——**一个是幸存者的证词，一个是叙述者的判语，而它们说的是同一批人**；**而这一章里霍华德补上了 ch47 缺的那个数字：救援船在十二小时之后才到**（It was twelve hours before HMS Imperial arrived.）
+**读者视角提示：⚠️** **"they made it off the Carlisle and into a lifeboat, and still didn’t survive."（他们上了救生艇，却还是没能活下来。）与 ch45 那句 "There is no pen poised to write them out of their ordeal"（没有笔能把他们从磨难中写出来。）**——**一个是幸存者的证词，一个是叙述者的判语，而它们说的是同一批人**；**而这一章里霍华德补上了 ch47 缺的那个数字：救援船在十二小时之后才到**（It was twelve hours before HMS Imperial arrived.）
 
 > **原句 13:** "I feel so guilty for surviving when so many didn’t."
 

@@ -53,7 +53,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"抹除"最冷的一次完成时，而它只有九个字。**"It’s as if"（就好像）——**这个 as if 把"存在过"这件事降级成了"好像存在过"**；**"had never existed"（从来没有存在过）——**请注意这是一句否定过去：不是"它沉了"，是"它没有存在过"**——**而这是全书的机制：卡莱尔号确实存在过，载过九十个孩子、载过一整个餐厅、一块从伦敦运来的《David Copperfield》**；**所以这一句是"失去"最强的一种形式——不是被夺走，是被否认。**
 
-**读者视角提示：⚠️** **"It’s as if the Carlisle had never existed."（就好像卡莱尔号从未存在过）是 ch23 那句 "It’s as if it were sorry for not keeping them safe."（就好像它也在为没能护住他们而抱歉）的反面**——**ch23 船是一个"会道歉的主体"，ch25 船被彻底抹掉了**；**而作者把这两句分别放在夜与昼：夜里船还有感情，白天船就不存在了**——**所以这一夜之后，所有关于船的温柔都失效了。**
+**读者视角提示：⚠️** **"It’s as if the Carlisle had never existed."（就好像卡莱尔号从未存在过）是 ch18 那句 "There was an almost apologetic look about it, as if it were sorry for not keeping them safe."（就好像它也在为没能护住他们而抱歉）的反面**——**ch23 船是一个"会道歉的主体"，ch25 船被彻底抹掉了**；**而作者把这两句分别放在夜与昼：夜里船还有感情，白天船就不存在了**——**所以这一夜之后，所有关于船的温柔都失效了。**
 
 > **原句 5:** "Ninety evacuees had boarded SS Carlisle in Liverpool."
 
@@ -131,7 +131,7 @@ modified: "2026-09-28"
 
 **关键词**：A stowaway or the ship’s captain / first class or third / they’re all the same now
 
-**为什么这样写**：**这是全书对"阶级"最彻底的一次废除，而它用了一组二选一。**"A stowaway or the ship’s captain"（偷渡者或船长）——**这一组是身份的两极**；"first class or third"（头等或三等）——**这一组是舱位的两极**；**"they’re all the same now"（现在都一样了）**——**请注意 now（现在）：这不是一句永远成立的话，它是一个**时态**声明**——**而这句话的形式，正是 ch17 那句 "A stowaway or the ship’s captain" 所预告的**——**因为那一句还是玩笑，而这一句变成了事实。**
+**为什么这样写**：**这是全书对"阶级"最彻底的一次废除，而它用了一组二选一。**"A stowaway or the ship’s captain"（偷渡者或船长）——**这一组是身份的两极**；"first class or third"（头等或三等）——**这一组是舱位的两极**；**"they’re all the same now"（现在都一样了）**——**请注意 now（现在）：这不是一句永远成立的话，它是一个**时态**声明**——**而这句话的形式，正是 ch25 那句 "A stowaway or the ship’s captain" 所预告的**——**因为那一句还是玩笑，而这一句变成了事实。**
 
 **读者视角提示：⚠️** **"they’re all the same now."（现在都一样了）是全书对 1940 年英国"阶级"这一概念的处理**——**而它紧接在 Molly 说出 "I have a first-class ticket."（我有一张头等舱票）之后**——**所以这一章的阶层对抗只有三个来回就被按下去了**——**而按下去它的，是 Owen 那句 "First class or last damn class, nobody could give a crap."（头等还是他妈的末等，谁都懒得管）**——**这本书的结论是：海不管舱位。**
 

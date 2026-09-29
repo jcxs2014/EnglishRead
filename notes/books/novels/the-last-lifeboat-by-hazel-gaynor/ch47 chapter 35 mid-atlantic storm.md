@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"夜"最彻底的一次描写，而它做了一件反常的事：它写黑暗的方式是让人看不见。**"snuff out the stars, one by one"（一颗一颗地吹熄星星）——**snuff（吹熄）本来是掐灭烟头的动作，而星星是被"掐"掉的**；**"one by one"（一颗一颗）——**而这个副词是全句的节拍器：它把天黑写成了一个被数出来的过程**；**"a shroud of intense, impenetrable black"（一整块浓稠、不可穿透的黑）——**shroud（裹尸布）是全书在这里埋下的一个词，而作者此刻还不知道下一章会发生什么**；**——而这一句紧接在 ch45 那个"猎户月"（Hunter's Moon）的记忆之后：同一片天空，两章之内。**
 
-**读者视角提示：⚠️** **"a shroud of intense, impenetrable black"（一整块浓稠、不可穿透的黑）与 ch45 那句 "A ship full of miracles, beneath a sky full of stars."（一船的奇迹，头顶满是星星的天空。）正对着**——**ch45 她在数星星（She counts thirty-nine stars），ch47 星星被一颗一颗掐掉**；**所以这本书对"希望"的结构是：它先给你一个具体的数字（三十九），再把它减到零。**
+**读者视角提示：⚠️** **"a shroud of intense, impenetrable black"（一整块浓稠、不可穿透的黑）与 ch42 那句 "A ship full of miracles, beneath a sky full of stars."（一船的奇迹，头顶满是星星的天空。）正对着**——**ch45 她在数星星（She counts thirty-nine stars），ch47 星星被一颗一颗掐掉**；**所以这本书对"希望"的结构是：它先给你一个具体的数字（三十九），再把它减到零。**
 
 > **原句 3:** "It is their silence Alice dreads more than their despair."
 

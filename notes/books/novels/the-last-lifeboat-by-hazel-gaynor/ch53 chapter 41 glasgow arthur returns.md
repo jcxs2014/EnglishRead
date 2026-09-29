@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"好消息也是身体事件"最明确的一次论证，而它用了一次比较级。**"as visceral as"（和……一样发自内脏）**——**而 visceral（内脏的）这个词在英语里专门指不经思考的生理反应，它和 grief 搭配得很好，和 relief 搭配则是反直觉的**；**——而作者接的那个过去式 was a grief had been 才是重点：as...as 连接的是两个不同的时间点**；**"Now, as then"（现在，如同当时）**——**而这两个词的呼应让四十多章首尾相接**；**——而最有分量的是这个事实：两种极值的唯一共同点是同一个动作——发抖。**
 
-**读者视角提示：⚠️** **"Now, as then, she can’t stop shaking."（现在，如同当时，她止不住地发抖。）与 ch46 那句 "Lily gasps, or does she cry out? She isn’t sure."（莉莉倒抽一口气，还是叫出了声？她不确定。）——ch46 是"不确定自己发出了什么声音"，ch53 是"不确定自己还能不能发出声音"；**这就是这本书对"母亲"这个角色的一贯处理：她从不哭喊，她只是抖。**
+**读者视角提示：⚠️** **"Now, as then, she can’t stop shaking."（现在，如同当时，她止不住地发抖。）与 ch51 那句 "Lily gasps, or does she cry out? She isn’t sure."（莉莉倒抽一口气，还是叫出了声？她不确定。）——ch46 是"不确定自己发出了什么声音"，ch53 是"不确定自己还能不能发出声音"；**这就是这本书对"母亲"这个角色的一贯处理：她从不哭喊，她只是抖。**
 
 > **原句 3:** "I feel like my heart is going to burst."
 
@@ -56,13 +56,13 @@ modified: "2026-09-28"
 
 > **原句 5:** "Lily’s heart beats ever faster."
 
+**中文理解**：**莉莉的心跳越来越快。**
+
 **关键词**：Lily’s heart beats / ever faster
 
 **为什么这样写**：**"beats ever faster"（跳得越来越快）——而 beat（跳动）同样是不及物动词，两句因此形成完全对称的节奏；而作者把"心跳加速"写成和"船加速"同一种句式，等于宣布：她和那艘船在同时靠近。**
 
 **读者视角提示：⚠️** **这两句与 ch44 那位 diarist 的 "Try to find a moment of quiet and calm in each day."（试着在每天里找一段安静与平和。）**——**莉莉的心跳不需要安静，它需要加速；而这两个女人是同一个项目里最典型的两种：写日记的那个要求自己静下来，站在码头的这个要求自己快点。**
-
-**读者视角提示：⚠️** **这两句与 ch44 那位 diarist 的句子结构不同**（'Try to find a moment of quiet and calm in each day.'）**——**莉莉的心跳不需要安静，它需要加速**；**——而这两个女人是同一个项目里最典型的两种：写日记的那个要求自己静下来，站在码头的这个要求自己快点。**
 
 > **原句 6:** "A little troupe of Russian nesting dolls."
 
@@ -72,7 +72,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"归来的孩子"最冷的一次比喻，而它只有七个词。**"A little troupe"（一小队）**——**而 troupe（剧团）在这里把登船的孩子说成一支演出队伍**；**——"Russian nesting dolls"（俄罗斯套娃）**——**而这个比喻的全部机关是"arranged in order of size: tallest at the front, smallest at the back"（按身高排列：最高的在前，最小的在后）**：套娃必须是按大小套进去的，而这群孩子是按身高排成一列**；**——所以作者一个形容词都不加，就让"登船"变成了"被收纳"。**
 
-**读者视角提示：⚠️** **"A little troupe of Russian nesting dolls."（一小队俄罗斯套娃。）与 ch40 那句 "the largest in the boat, the smallest on the floor"**——**这一章的排列是 ch40 那次安排的兑现**；**而作者对它的评价是一个比喻，不带任何情绪词**；**——所以这本书对"把孩子排成队"这件事始终是熟视无睹的：制度负责排，作者只负责描写排出来的样子。**
+**读者视角提示：⚠️** **"A little troupe of Russian nesting dolls."（一小队俄罗斯套娃。）与 ch53 那句 "tallest at the front, smallest at the back"**——**这一章的排列是 ch40 那次安排的兑现**；**而作者对它的评价是一个比喻，不带任何情绪词**；**——所以这本书对"把孩子排成队"这件事始终是熟视无睹的：制度负责排，作者只负责描写排出来的样子。**
 
 > **原句 7:** "Her darling boy, a wide grin on his face, a borrowed sailor’s cap slipping over his eyes."
 

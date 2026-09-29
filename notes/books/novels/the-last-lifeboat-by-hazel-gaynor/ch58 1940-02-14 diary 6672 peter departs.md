@@ -43,7 +43,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"承诺"最无辜的一次出现，而它来自孩子们。**"They promised"（他们答应）**——**而 promised 在英语里常常指一个不会被遵守的未来**；**——"to be very good for their mother"（为了妈妈会很乖）**——**而 for their mother（为了他们的母亲）这个介词短语很短，它是两个孩子而不是一个人**；**——所以作者用一句孩子的话，交代了两个孩子的立场，而没有写任何他们的父亲。**
 
-**读者视角提示：⚠️** **"They promised to be very good for their mother."（他们答应会为了妈妈很乖。）与 ch56 那句 "You’re needed for photographs at the hotel… It’ll all be a bit of a circus."（你得去酒店拍照……那简直是一场马戏。）**——**一个"承诺"在开头，一个"马戏"在结尾，中间隔着的正是这本书的全部**；**——所以这本书对"承诺"的处理是：它把承诺放在最前面，然后从不回头检查它是否被遵守。**
+**读者视角提示：⚠️** **"They promised to be very good for their mother."（他们答应会为了妈妈很乖。）与 ch55 那句 "‘You’re needed for photographs at the hotel, and there’s a civic reception tomorrow. It’s all a bit of a circus, I’m afraid."（你得去酒店拍照……那简直是一场马戏。）**——**一个"承诺"在开头，一个"马戏"在结尾，中间隔着的正是这本书的全部**；**——所以这本书对"承诺"的处理是：它把承诺放在最前面，然后从不回头检查它是否被遵守。**
 
 > **原句 4:** "Impossible to say goodbye to my darling Lil."
 
@@ -51,7 +51,7 @@ modified: "2026-09-28"
 
 **关键词**：Impossible to say goodbye / to my darling Lil
 
-**为什么这样写**：**这是全书第一次说出那句遗书的核心问题，而它在这里是陈述句。**"Impossible to say goodbye"（不可能说再见）**——**而这一句与 ch57 那句 "This is my fifth attempt because how can I possibly say goodbye to you?"（这是我第五次尝试，因为我怎么可能跟你道别呢？）**——**构成一个完美的框架：ch58 是"我做不到"，ch57 是"所以我写了第五稿"**；**——而 darling Lil（莉莉宝贝）这个称呼是全书最短的一次自我介绍**：他叫 Lil，她叫 Lil，乔治娜叫他 Darling。**
+**为什么这样写**：**这是全书第一次说出那句遗书的核心问题，而它在这里是陈述句。**"Impossible to say goodbye"（不可能说再见）**——**而这一句与 ch48 那句 "This is my fifth attempt because how can I possibly say goodbye to you?"（这是我第五次尝试，因为我怎么可能跟你道别呢？）**——**构成一个完美的框架：ch58 是"我做不到"，ch57 是"所以我写了第五稿"**；**——而 darling Lil（莉莉宝贝）这个称呼是全书最短的一次自我介绍**：他叫 Lil，她叫 Lil，乔治娜叫他 Darling。**
 
 **读者视角提示：⚠️** **"Impossible to say goodbye to my darling Lil."（不可能跟我的莉莉宝贝道别。）与 ch57 那句 "I love you more than words, Lily Nicholls."（我爱你，胜于言语，莉莉·尼科尔斯。）**——**两处相隔十七个月：开头是"胜于言语"，结尾是"胜于言语"**；**——所以这本书对彼得这个人的定义是：他一生的语法都是 「正要说什么」这个句法，而他最后终于说了。**
 

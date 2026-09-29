@@ -19,7 +19,7 @@ modified: "2026-09-28"
 
 **中文理解**：**一个金色的光球贴在爱丽丝的脸颊上，一寸一寸地绽开、扩散，描过她的唇、鼻、眼、前额。**
 
-**关键词**：A golden orb of light / resting against Alice’s cheek / blooming and spreading inch by inch / as it traces a path across her lips, then her nose, her eyes, her forehead
+**关键词**：A golden orb of light / rests against Alice’s cheek / blooming and spreading inch by inch / as it traces a path across her lips, then her nose, her eyes, her forehead
 
 **为什么这样写**：**这是全书对"光"最缓慢的一次描写，而它的慢是刻意的。**"rests against"（贴着）——**注意作者选了 rest（倚靠／放置）而不是 lies（躺）：太阳是**靠着**她脸上去的**；**"blooming and spreading inch by inch"（一寸一寸地绽开、扩散）**——**inch by inch（寸进）是本章的节奏词：它把日出写成了蜗牛**；**而这一串 "her lips, then her nose, her eyes, her forehead" 是全书最长的一次"用触碰写光"**——**光被写成一个沿着人脸上行走的实体**。
 
@@ -91,7 +91,7 @@ modified: "2026-09-28"
 
 **关键词**：I need help / Can somebody help me
 
-**为什么这样写**：**这是 ch22 那句 "Call me Ishmael" 的对仗句，而它出现在全章的最后一个词上。**"I need help!"（我需要帮助！）——**注意 help（帮助）这个词在 ch22 曾被那位睡衣男人用同样的词喊出来（Miss! The children!），**而本章这一次是她自己在喊**；**"Can somebody help me?"（有人能帮我吗？）**——**somebody（某人）这个不定代词让求助变成了一个对着虚空的疑问句**。
+**为什么这样写**：**这是 ch28 那句 "Call me Ishmael" 的对仗句，而它出现在全章的最后一个词上。**"I need help!"（我需要帮助！）——**注意 help（帮助）这个词在 ch22 曾被那位睡衣男人用同样的词喊出来（Miss! The children!），**而本章这一次是她自己在喊**；**"Can somebody help me?"（有人能帮我吗？）**——**somebody（某人）这个不定代词让求助变成了一个对着虚空的疑问句**。
 
 **读者视角提示：⚠️** **"I need help! Can somebody help me?"（我需要帮助！有人能帮我吗？）是 Alice 从 ch08 那个 "This, she could do"（这件事我能做）到本章的完整弧线**——**而 ch25 她还在说 "they’re all the same now"（现在都一样了）**；**这一章的末尾，那位教师终于喊出了她从 ch08 起就没有说出口的那句话：她需要人。**
 

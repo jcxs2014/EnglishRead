@@ -53,7 +53,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"匮乏"最欢快的一次书写，而它是一份菜单。**"Everything must be made from the bloody things"（所有东西都得用这些该死的东西做）——**must（必须）在英语里是被迫，而 bloody（该死的）是粗口：她把一个战时配给写成了骂人**；**"potato pastry, potato salad, baked potatoes"（土豆酥皮、土豆沙拉、烤土豆）**——**这三样是三个不同的做法，而它们的原料是同一个**；**"potatoes, potatoes, potatoes"（土豆、土豆、土豆）——**而这一串三重复句是全篇的转折：菜单在这里失去了做法，变成了一样东西的名字**。
 
-**读者视角提示：⚠️** **"potatoes, potatoes, potatoes"（土豆、土豆、土豆）这个三重复与 ch33 那句 "The house is full of them. Full of memories of them."（这屋子里到处都是他们。到处都是关于他们的记忆。）是同一种句法**——**ch33 那两个 full of 说的是"到处都是某个人"，ch39 这三个 potatoes 说的是"到处都只有一样东西"**；**而作者让一个在陆地上的人和一个在坟墓前的人用同一个句式。**
+**读者视角提示：⚠️** **"potatoes, potatoes, potatoes"（土豆、土豆、土豆）这个三重复与 ch30 那句 "The house is full of them. Full of memories of them."（这屋子里到处都是他们。到处都是关于他们的记忆。）是同一种句法**——**ch33 那两个 full of 说的是"到处都是某个人"，ch39 这三个 potatoes 说的是"到处都只有一样东西"**；**而作者让一个在陆地上的人和一个在坟墓前的人用同一个句式。**
 
 > **原句 5:** "I’ll turn into a potato at this rate."
 

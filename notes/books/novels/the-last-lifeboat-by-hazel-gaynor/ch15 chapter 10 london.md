@@ -123,7 +123,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书最难看的一次附和，而它的难处在于三个形容词都是真的。**"Yes, very kind"（是的，很好）——**这与 ch02 那个睡衣男人的 "We’re all bloody terrified"（我们全都怕得要死）形成一对：那句是共谋，这句是附和**；"Lily agreed"（莉莉附和道）——**agreed（同意）这个词最中性，也最冷**；"Very brave."（很勇敢。）——**独立成句，而它是重复：她把 Elsie 说的 brave 原样还了回去**。**注意这里有一层作者没写出的东西：她心里正在说的是"你说反了"，而她的嘴里说的是"你说对了"。**
 
-**读者视角提示**：⚠️ **这两句与 ch09 那句"itsall different when it’s for someone else’s kiddies"（当是别人家的孩子时就完全不同）是本书"替人说话"这门技术最冷的两处**——**而它的后果会在 ch59 上演：Elsie 也会经历一次"被夸勇敢"，而那时她会发现这句话有多廉价。**
+**读者视角提示**：⚠️ **这两句与 ch04 那句"Sending the kiddies overseas this time."（当是别人家的孩子时就完全不同）是本书"替人说话"这门技术最冷的两处**——**而它的后果会在 ch59 上演：Elsie 也会经历一次"被夸勇敢"，而那时她会发现这句话有多廉价。**
 
 > **原句 12:** "because all that stretched before her now was an infinite sprawling sequence of quiet hours and hushed weeks; an empty calendar; an aching void."
 

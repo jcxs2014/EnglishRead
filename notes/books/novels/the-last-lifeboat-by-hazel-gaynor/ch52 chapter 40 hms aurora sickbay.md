@@ -113,7 +113,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"勇敢"最反直觉的一次界定，而它是两个 thought 加一个 now。**"I thought I was afraid, thought I couldn’t stick it anymore"（我原以为我害怕了，以为再也撑不下去）**——**而这两句是 ch42 那个逃兵的自我判断，而他此刻正要回去**；**——"but I’m not afraid of anything now"（但现在我什么都不怕）**——**而 not anything（什么都不）是一个无限否定，而作者把它紧接在"我准备回去"之后**；**——所以他把"不再害怕"当作参战的理由，而 ch42 那个"我是个逃兵"的理由在英文里是同一个位置**。
 
-**读者视角提示：⚠️** **"but I’m not afraid of anything now"（现在我什么都不怕）与 ch42 那句 "I’m a deserter... I’m running away to Canada to avoid having to go up there again."（我是个逃兵……我正逃去加拿大，好躲开再到那儿去。）**——**同一周，同一个人，两个方向**；**而作者让他先说"我不怕了"，而不是"我做错了"**；**——所以这本书对"转变"的写法是：它不给人忏悔，给人一个更大的理由。**
+**读者视角提示：⚠️** **"but I’m not afraid of anything now"（现在我什么都不怕）与 ch42 那句 "‘I’m a deserter, Alice. I’m running away to Canada to avoid having to go up there again.’"（我是个逃兵……我正逃去加拿大，好躲开再到那儿去。）**——**同一周，同一个人，两个方向**；**而作者让他先说"我不怕了"，而不是"我做错了"**；**——所以这本书对"转变"的写法是：它不给人忏悔，给人一个更大的理由。**
 
 > **原句 11:** "Did you know they’re calling you the Nightingale of the Sea, and the Angel of the Atlantic?"
 
@@ -123,7 +123,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书给爱丽丝的唯一两个称号，而它们是媒体给的。**"they’re calling you"（他们这样叫你）——**而这一小节的主动者是 they，一个不具名的群体，而作者让它带一种被强加的性质**；**——"the Nightingale of the Sea"（海上的夜莺）**——**而 Nightingale（夜莺）指的是提灯的护士，1815 年滑铁卢之后成为一个专有称号**；**——"the Angel of the Atlantic"（大西洋的天使）**——**而这两个称号一个来自陆地传说，一个来自宗教**；**——而它们都不是"survivor"（幸存者），也不是"escort"（护送员）：**它们把她从职务里彻底拿走了，换成了传说。**
 
-**读者视角提示：⚠️** **"the Nightingale of the Sea"（海上的夜莺）与下一句 "She doesn’t care what they’re calling her."（她不在乎他们怎么叫她。）**——**而作者立刻用这句否定，取消了这两个称号的全部重量**；**——对照 ch48 那句 "They don’t want sorrow and grief; they want reunions and survival."（他们不要悲伤与哀痛；他们要重逢与幸存。）**——**同一套媒体，ch48 被说破，ch52 被无视**；**而爱丽丝的处理是更彻底的一种：不反驳，直接不关心。**
+**读者视角提示：⚠️** **"the Nightingale of the Sea"（海上的夜莺）与下一句 "She doesn’t care what they’re calling her."（她不在乎他们怎么叫她。）**——**而作者立刻用这句否定，取消了这两个称号的全部重量**；**——对照 ch46 那句 "They don’t want sorrow and grief; they want reunions and survival."（他们不要悲伤与哀痛；他们要重逢与幸存。）**——**同一套媒体，ch48 被说破，ch52 被无视**；**而爱丽丝的处理是更彻底的一种：不反驳，直接不关心。**
 
 > **原句 12:** "Your mother will want to hear all about those whales when you get home."
 

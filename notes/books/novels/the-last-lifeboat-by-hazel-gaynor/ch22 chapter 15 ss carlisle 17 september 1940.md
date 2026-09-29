@@ -147,7 +147,7 @@ modified: "2026-09-28"
 
 **读者视角提示：⚠️** **"pulled desperately"（绝望地拉）是 ch03 那句"burrow between shelves"（钻进书架之间）的镜像**——**ch03 她是想钻进去，本章她是想扒开；而两次的结果都是：她一个人，对着一个比她大的东西。**
 
-> **原句 14:** "like puppet show props"
+> **原句 14:** "All around her, lifeboats swayed wildly on their ropes, dangling over the side of the great ship like puppet show props"
 
 **中文理解**：像木偶戏的道具一样。
 

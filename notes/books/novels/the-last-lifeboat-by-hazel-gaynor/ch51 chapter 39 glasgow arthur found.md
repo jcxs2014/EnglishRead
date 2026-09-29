@@ -111,9 +111,9 @@ modified: "2026-09-28"
 
 **关键词**：breath by breath, piece by piece / all the shattered, fragmented parts of her / become whole again
 
-**为什么这样写**：**这是全书对"复原"最慢的一次描写，而它用了一组副词。**"breath by breath, piece by piece"（一呼一吸，一片一片）——**而这一组 by 短语把复原拆成了可数的单位，而 breath（呼吸）这个单位与 ch47 那句 "Keep breathing."（继续呼吸。）正面相对**；**"the shattered, fragmented parts of her"（她那些破碎的、碎裂的部分）——**而 shattered 与 fragmented 是两个近义词并用，这在英语里是刻意的：碎得更彻底，但还没碎成渣**；**——而 become whole again（重新变得完整）**——**而作者没有用 mend（修补）：碎片是重新长合的，不是被补上的。**
+**为什么这样写**：**这是全书对"复原"最慢的一次描写，而它用了一组副词。**"breath by breath, piece by piece"（一呼一吸，一片一片）——**而这一组 by 短语把复原拆成了可数的单位，而 breath（呼吸）这个单位与 ch49 那句 "Keep breathing."（继续呼吸。）正面相对**；**"the shattered, fragmented parts of her"（她那些破碎的、碎裂的部分）——**而 shattered 与 fragmented 是两个近义词并用，这在英语里是刻意的：碎得更彻底，但还没碎成渣**；**——而 become whole again（重新变得完整）**——**而作者没有用 mend（修补）：碎片是重新长合的，不是被补上的。**
 
-**读者视角提示：⚠️** **"breath by breath"（一呼一吸）与 ch47 那句 "A breath in, a breath out. That is all she needs to do. Keep breathing."（一呼，一吸。她需要做的只有这个。继续呼吸。）**——**ch47 呼吸是任务，ch51 呼吸是复原**；**——而作者让同一个动作在两章里换了意义：**这就是这本书对重复的用法：它重复的不是句子，是身体。**
+**读者视角提示：⚠️** **"breath by breath"（一呼一吸）与 ch49 那句 "A breath in, a breath out. That is all she needs to do. Keep breathing."（一呼，一吸。她需要做的只有这个。继续呼吸。）**——**ch47 呼吸是任务，ch51 呼吸是复原**；**——而作者让同一个动作在两章里换了意义：**这就是这本书对重复的用法：它重复的不是句子，是身体。**
 
 ## 本章词汇
 

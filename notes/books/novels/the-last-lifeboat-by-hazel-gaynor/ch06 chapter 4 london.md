@@ -31,7 +31,7 @@ modified: "2026-09-28"
 
 **关键词**：Evacuation was all anyone seemed to talk about / it nagged at Lily like a splinter in her mind
 
-**为什么这样写**：**作者用"刺"这个身体意象来写一个抽象名词的缠绕。**nag（恼人地反复）这个动词本身就有"小口咬、不断"的意味，而作者把它比作 splinter（一根扎进去的细刺）——**刺的特点是：看不见、拔不掉、越碰越疼。**这与 ch04 那句 "there was no easy solution" 是同一类手法：**把制度性的两难写成身体上的不适。**"all anyone seemed to talk about"（所有人似乎都在谈）里的 seemed 值得注意：**连"所有人"都要用似乎修饰，说明连这种全民共识都带着一层不确定。**
+**为什么这样写**：**作者用"刺"这个身体意象来写一个抽象名词的缠绕。**nag（恼人地反复）这个动词本身就有"小口咬、不断"的意味，而作者把它比作 splinter（一根扎进去的细刺）——**刺的特点是：看不见、拔不掉、越碰越疼。**这与 ch06 那句 "there was no easy solution" 是同一类手法：**把制度性的两难写成身体上的不适。**"all anyone seemed to talk about"（所有人似乎都在谈）里的 seemed 值得注意：**连"所有人"都要用似乎修饰，说明连这种全民共识都带着一层不确定。**
 
 **读者视角提示**：**这一句是全书对"疏散"这个词的第一次正面定义**，而它出现在 ch02 那场海难之前四个月——**请记住"疏散"和"疏散者"（evacuee）这两个词在 ch02 会以缩写形式登场（seavacs / the evacuees）**，那里的它不再是"国家政策"，而是六个孩子的生死。
 

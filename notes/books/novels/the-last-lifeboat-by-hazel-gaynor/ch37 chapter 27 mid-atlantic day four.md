@@ -23,7 +23,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"集体状态"最省力的一次描写，而它只有四个词。**"Everyone has a headache."（每个人都头疼。）——**注意这一句独立成段，段落本身就是主语**；**has（有）是现在完成时中的一种用法（have/has + 过去分词），而 headache 在这里是可数名词：所以这句话在英语里其实是"每个人都（正）有个头疼"**；**——而它紧接在上一段"没有水、空间狭窄"之后：缺水第一个症状不是脱水，是头痛。**
 
-**读者视角提示：⚠️** **"Everyone has a headache."（每个人都头疼。）与 ch35 那句 "Several people are suffering from something Jimmy calls immersion foot"（几个人正在受某种吉米称之为"浸泡足"的病）构成一组**——**ch35 写的是"几个人"的特定病症，ch37 写的是"所有人"的普遍症状**；**而作者用前者命名疾病、用后者描述日常，这就是这本书处理医疗的方式：术语只给最坏的情况，其余一律用身体的普通词汇。**
+**读者视角提示：⚠️** **"Everyone has a headache."（每个人都头疼。）与 ch37 那句 "Several people are suffering from something Jimmy calls immersion foot"（几个人正在受某种吉米称之为"浸泡足"的病）构成一组**——**ch35 写的是"几个人"的特定病症，ch37 写的是"所有人"的普遍症状**；**而作者用前者命名疾病、用后者描述日常，这就是这本书处理医疗的方式：术语只给最坏的情况，其余一律用身体的普通词汇。**
 
 > **原句 2:** "And I only am escaped alone to tell thee."
 
@@ -63,7 +63,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"求生"最反浪漫的一次描写，而它把它定义成了一件"行政工作"。**"how much effort and organization is involved"（要涉及多少努力与组织）——**involved 在这里是"牵涉到"，而作者把 organization（组织）与 effort（努力）并列：救生靠的不是勇气，是调度**；**"the act of survival"（活下来这个行为）——**act（行为／举动）在英语里意味着它是可以被"做"出来的**；**"It is, in itself, a thing to be endured."（它本身就是一件需要忍受的事。）——**而这里的 it 指的不是生存，是"活下来这件事本身"**。
 
-**读者视角提示：⚠️** **"It is, in itself, a thing to be endured."（它本身就是一件需要忍受的事。）是 ch02 那句 "You can’t save the dead, miss, but you can save yourself."（您救不了死人，小姐，但您能救自己。）之后，Alice 第二次正面承认"求生"没有尊严**；**而这一句与 ch35 那句 "She is disgusting; stripped of everything but the most basic human needs to survive."（她很恶心；被剥去了除最基本的生存需要之外的一切。）说的是同一件事的两个版本——一个是诊断，一个是判决。**
+**读者视角提示：⚠️** **"It is, in itself, a thing to be endured."（它本身就是一件需要忍受的事。）是 ch22 那句 "You can’t save the dead, miss, but you can save yourself."（您救不了死人，小姐，但您能救自己。）之后，Alice 第二次正面承认"求生"没有尊严**；**而这一句与 ch35 那句 "She is disgusting; stripped of everything but the most basic human needs to survive."（她很恶心；被剥去了除最基本的生存需要之外的一切。）说的是同一件事的两个版本——一个是诊断，一个是判决。**
 
 > **原句 6:** "‘Anyone who wants to join me is welcome. It’s a big pool for one.’"
 
@@ -103,7 +103,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"深"最快乐的一次表达，而它靠全大写与一个感叹号。**"It goes down for MILES!"（它有好几英里深！）——**MILES 全大写：在英语的全大写习惯里，它等于尖叫**；**——而说话的是 Robert，一个刚刚把脸埋进水里数到六秒就抬起来的男孩**；**而作者在下一段写：He shrieks as the cold water wraps itself around him, but the initial shock quickly passes and a wide smile fills his face.（他尖叫着，冰冷的水裹住他，但最初的震惊很快过去，一张大笑脸填满了他的脸。）——**所以这一声"MILES"是全书对"恐惧被快乐取代"最快的一次转换。**
 
-**读者视角提示：⚠️** **"'It goes down for MILES!'（它有好几英里深！）与 ch03 那句 "This is the sea; this is the sea and nothing else."（这就是海，这就是海，别的什么都没有。）是同一片海的两种声音**——**一位把它当空无（nothing else），一位把它当深度（MILES）**；**而作者让那个"空无"的人，在本章第一次真正下了水。**
+**读者视角提示：⚠️** **"'It goes down for MILES!'（它有好几英里深！）与 ch03 那句 "the audible breaths of the sea"（海可听见的呼吸）是同一片海的两种声音**——**一位把它当呼吸，一位把它当深度（MILES）**；**而作者让那个只把它当呼吸的人，在本章第一次真正下了水。**
 
 > **原句 10:** "‘Does it really go down for miles, Auntie?’"
 
@@ -183,7 +183,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书最短的一次点题，而它由一个十七岁的船员说出。**"Much like life"（太像人生了）——**注意 much like 在英语里是"非常像"，而它把前面那句三段式的观察（不可预测、一直在变、今天可怕明天美）压缩成四个字**；**——而这句话的说话者是 Jimmy：他刚刚才在 ch32 里报出过盐中毒（Salt poisoning. If she's drunk enough seawater, she could slip into a coma.）**；**所以让一个刚刚宣告过"人会死"的人来给"人生"下定义，是作者最狠的一次转调。**
 
-**读者视角提示：⚠️** **"'Much like life,' Jimmy says."（"这太像人生了。"吉米说。）是 ch32 那句 "We’ll all be dead by first light."（我们天亮之前都会死。）的镜像**——**ch23 他在暴风雨里说"所有人都要死"，ch37 他在一个孩子下水的午后说"这太像人生"**；**而同一张口，从"宣告死亡"到"承认不可预测"，只用了十四页。**
+**读者视角提示：⚠️** **"'Much like life,' Jimmy says."（"这太像人生了。"吉米说。）是 ch23 那句 "We’ll all be dead by first light."（我们天亮之前都会死。）的镜像**——**ch23 他在暴风雨里说"所有人都要死"，ch37 他在一个孩子下水的午后说"这太像人生"**；**而同一张口，从"宣告死亡"到"承认不可预测"，只用了十四页。**
 
 ## 本章词汇
 

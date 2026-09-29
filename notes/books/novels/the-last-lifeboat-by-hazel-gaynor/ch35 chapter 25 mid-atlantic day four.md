@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"疲劳"最形象的一次比喻，而它用了一个物理工具。**"A fog of exhaustion"（一团疲惫的雾）——**请注意作者把 exhaustion（精疲力竭）这个抽象名词具象成了 fog（雾）**；**"sits across her forehead"（罩在她额头上）——**across（横过）这个介词说明它是横着压下来的，不是盖上去的**；**"like a vice"（像一把老虎钳）**——**vice（老虎钳）在英语里是夹紧的工具，作者用它说：疲劳正在把她的头夹住。**
 
-**读者视角提示：⚠️** **"like a vice"（像一把老虎钳）这个比喻是本书对"身体先于意志垮掉"最冷的一次描写**——**而它紧接在 ch32 那句 "She needs to do what she’s good at: solve the problem."（她需要做她擅长的事：解出这个问题。）之后：靠意志的阶段结束了，现在夹住她的是老虎钳。**
+**读者视角提示：⚠️** **"like a vice"（像一把老虎钳）这个比喻是本书对"身体先于意志垮掉"最冷的一次描写**——**而它紧接在 ch30 那句 "She needs to do what she’s good at: solve the problem."（她需要做她擅长的事：解出这个问题。）之后：靠意志的阶段结束了，现在夹住她的是老虎钳。**
 
 > **原句 3:** "Even when Owen and others had taken their turn to watch the child, Alice couldn’t rest."
 
@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"医疗"最无能为力的三次描写之一，而它只列了两样东西。**"Rest and water"（休息和水）——**两个名词，没有任何动词：这是一份"能做的事"的清单，而它短得可怕**；**"are all they can offer"（是他们能提供的全部）**——**offer（提供）在英语里常用于服务与礼物：而作者用它来写一条救生艇上的处置**；**"the poor child"（这个可怜的孩子）——**poor 在英语里既是贫穷也是可怜，而此处两者都是。**
 
-**读者视角提示：⚠️** **"Rest and water are all they can offer the poor child."（休息和水，是他们能提供的全部。）与 ch32 那句 "I need help! Can somebody help me?"（我需要帮助！有人能帮我吗？）是同一个问题的两端**——**ch32 是她向船上要水，ch35 是船上能给的全部**；**而作者把这两句放在同一章的前后：她喊救命，然后发现船上除了水什么都没有——而那罐水还丢了三分之一。**
+**读者视角提示：⚠️** **"Rest and water are all they can offer the poor child."（休息和水，是他们能提供的全部。）与 ch31 那句 "I need help! Can somebody help me?"（我需要帮助！有人能帮我吗？）是同一个问题的两端**——**ch32 是她向船上要水，ch35 是船上能给的全部**；**而作者把这两句放在同一章的前后：她喊救命，然后发现船上除了水什么都没有——而那罐水还丢了三分之一。**
 
 > **原句 9:** "Every hour, their situation seems to deteriorate."
 
@@ -133,7 +133,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"恐惧与敬畏"分界线最精确的一次描写，而它用了一个转折。**"so shocking, so immense, so close"（如此震撼、如此巨大、如此靠近）——**三个 so 排比，一句比一句更近**；**"but she doesn’t feel the slightest bit afraid"（可她一点也不觉得害怕）**——**注意 the slightest bit（一点也不）：作者用最低级加名词化，把"不怕"写成了一个可测量的量**；**——而这一切发生在昨天她刚因为一个水罐差点淹死的船上。**
 
-**读者视角提示：⚠️** **"so shocking, so immense, so close to the lifeboat, but she doesn’t feel the slightest bit afraid"（如此震撼、如此巨大、如此靠近救生艇，可她却一点也不害怕）是本书对"敬畏"最完整的一次定义**——**它不是"不怕"，是"怕的量被另一样东西压过了"**；**而 ch32 那句 "they’re all going to die anyway"（反正我们都要死了）——那才是真正的绝望：**当一个人已经接受了死亡，巨鲸就只会显得美。
+**读者视角提示：⚠️** **"so shocking, so immense, so close to the lifeboat, but she doesn’t feel the slightest bit afraid"（如此震撼、如此巨大、如此靠近救生艇，可她却一点也不害怕）是本书对"敬畏"最完整的一次定义**——**它不是"不怕"，是"怕的量被另一样东西压过了"**；**而 ch32 那句 "‘Take the bloody lot then. Who cares? We’re all going to die anyway.’"（反正我们都要死了）——那才是真正的绝望：**当一个人已经接受了死亡，巨鲸就只会显得美。
 
 > **原句 13:** "the enormous creatures swim parallel to the lifeboat and then dive, their tail flukes spreading like great black wings across the water."
 
@@ -173,7 +173,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是 Alice 在全书中第一次对 Owen 提出的关于"你怎么活着"的问题，而它是一句反问加一个选择。**"Do you ever just see the beauty in things"（你有没有只是看看一样东西的美）——**just（只是）在英语里削掉了一切修辞**；**"or does everything have to boil down to a clever remark?"（还是说所有事情都得归结成一句俏皮话？）**——**boil down（煮到……变成）在英语里是"归纳成"**；**——而这一句紧跟在 ch31 那句 "Stop being so prissy and perfect."（别那么一本正经、那么完美。）之后：上一章她拒绝被劝，这一章她反过来质疑他。**
 
-**读者视角提示：⚠️** **"does everything have to boil down to a clever remark?"（所有事情都得归结成一句俏皮话？）是本书对"用机智逃避"最直白的一次指控**——**而它紧接在 ch32 那句 "There’s no room for airs and graces here."（这里没有摆架子的余地。）之后**；**但这一次她不是在船上讲道理，她是在一头鲸面前讲道理——所以这一句的真正对象不是 Owen，是他自己那套"英雄是虚构的"的说法。**
+**读者视角提示：⚠️** **"does everything have to boil down to a clever remark?"（所有事情都得归结成一句俏皮话？）是本书对"用机智逃避"最直白的一次指控**——**而它紧接在 ch25 那句 "There’s no room for airs and graces here."（这里没有摆架子的余地。）之后**；**但这一次她不是在船上讲道理，她是在一头鲸面前讲道理——所以这一句的真正对象不是 Owen，是他自己那套"英雄是虚构的"的说法。**
 
 > **原句 17:** "Alice waits for a reply, but, infuriatingly, none comes."
 

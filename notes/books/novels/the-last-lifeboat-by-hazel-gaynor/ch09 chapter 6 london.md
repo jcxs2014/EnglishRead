@@ -23,7 +23,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这句话是一个完美的三项排比，而它的全部讽刺藏在两个地名里。**三个主语分别是孩子、莉莉、政府，**三个地点是教堂礼堂、莉莉做工的地方、威斯敏斯特**——**而作者用 hallowed（神圣的）修饰威斯敏斯特**：这座英国政治的圣殿，此刻在"talking about the matter of evacuation"（谈疏散这件事）。**"the matter of"（这件事）是公文腔最典型的措辞**——它把二十万孩子的性命压成一个待议事项。**而 makeshift school（临时学校）里的 makeshift（临时的）暗示：真正的学校已经不存在了，孩子们挤在教堂里。**
 
-**读者视角提示**：⚠️ **请注意这句里的"谈"（talked）用的是过去进行时（was talking 省略）**——**"一直在谈"意味着谈了很久却没做**；**这句话正是 ch06 那句" Parents will not be permitted to travel"（父母不得随行）能出台的原因：政府在威斯敏斯特"谈"，谈出来的结果就是让教师去护送。**
+**读者视角提示**：⚠️ **请注意这句里的"谈"（talked）用的是过去进行时（was talking 省略）**——**"一直在谈"意味着谈了很久却没做**；**这句话正是 ch08 那句" Parents will not be permitted to travel"（父母不得随行）能出台的原因：政府在威斯敏斯特"谈"，谈出来的结果就是让教师去护送。**
 
 > **原句 2:** "Some days, the war was quiet. Distant, despite the proximity of Hitler’s army."
 
@@ -123,7 +123,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这一句是全书把"死去的丈夫"写成一个"会笑的人"的最温柔的一次。**"imagined Peter beside her"（想象彼得在身边）——**注意 beside（在身边）这个词：不是 ahead（走在前面引路），不是 above（在天上看着），是 beside（并肩）**；**她想象的丈夫不是引路人，是一个站在旁边看她出洋相的人。**"funny superstitions"（可笑的迷信）——**funny 这个词是他给的评价，而 Lily 自己也接受了这个评价（她在上一句说 "It made her mind spin"）**。**而 "the way she saw everything in patterns and numbers"（她把一切都看成图案和数字的方式）——作者把这称为一种"way"（方式），而这正是"她的方式"的意思。**
 
-**读者视角提示**：⚠️ **"funny superstitions"（可笑的迷信）这个说法极其克制**——**她没有说"我迷信"，她说的是"我的迷信在他眼里可笑"**；**而"彼得在笑"这个想象，是 ch04 那句"make absolutely sure that he was a hero"（确保他是英雄）的反面：**她对孩子们保证父亲是英雄，可她自己心里那个父亲，是那个会笑她迷信的普通人。
+**读者视角提示**：⚠️ **"funny superstitions"（可笑的迷信）这个说法极其克制**——**她没有说"我迷信"，她说的是"我的迷信在他眼里可笑"**；**而"彼得在笑"这个想象，是 ch04 那句"Lily had made absolutely sure of that."（确保他是英雄）的反面：**她对孩子们保证父亲是英雄，可她自己心里那个父亲，是那个会笑她迷信的普通人。
 
 > **原句 12:** "In the end, they’d been parted by something far worse than an unlucky number."
 

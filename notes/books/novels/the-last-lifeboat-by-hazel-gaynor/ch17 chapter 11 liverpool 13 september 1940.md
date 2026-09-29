@@ -103,7 +103,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书最短的一章题眼，而它只有三个词。**"So she did."（她就真写了。）——**请注意 "So"（于是）这个小词：它承接的是上一段的"她希望自己能告诉父亲"（wished, with all her heart, she could tell her father what she was about to do）**；**而 did 在这里是"代做了前一件事"——前一句是"想要"，这一句是"做成了"。**So she did 这一句在英语里常用来回应别人的建议（"You should call her." — "So I did."），**而作者把它从"回应建议"改造成了"回应愿望"。**这三个词是 Alice 第一次替自己做了决定，而不是执行别人给她的决定（ch08 她母亲叫她别去、ch11 她母亲说方向错了、ch14 Eleanor 说不要依恋）。**
 
-**读者视角提示**：⚠️ **"So she did." 是全书 Alice 弧线的一个转折标记**——**请把它与 ch14 那句 "she bit her tongue"（她咬住了舌头）对照：ch14 她吞下去了，ch17 她写下来了**；**而她写的那封信里，要说的第一件事是她马上要去做的事（写信）本身**。
+**读者视角提示**：⚠️ **"So she did." 是全书 Alice 弧线的一个转折标记**——**请把它与 ch08 那句 "she bit her tongue"（她咬住了舌头）对照：ch14 她吞下去了，ch17 她写下来了**；**而她写的那封信里，要说的第一件事是她马上要去做的事（写信）本身**。
 
 > **原句 10:** "mighty ship of hope slipped anchor and set out with its precious cargo."
 
@@ -135,11 +135,11 @@ modified: "2026-09-28"
 
 **读者视角提示**：⚠️ **"Fathers too, if you’re lucky"（父亲也是，如果你够幸运）这一句是 ch17 的真正伏笔**——**而 ch09 里那位 diarist 说过 "War does funny things to the mind"（战争对脑筋做些古怪的事），ch01 那位说过 "Everyone’s got their own version"（每个人都有自己的版本）**；**而 Howard 这里用"if you’re lucky"（如果你够幸运）——这正是全书写给 Alice 的那句：幸运，就是那本书还带题字。**
 
-> **原句 13:** "so that all she could do was mutter a thank you in reply."
+> **原句 13:** "the distinctive fleck of amber in an otherwise perfectly green iris that caught Alice off guard, so that all she could do was mutter a thank you in reply."
 
 **中文理解**：以至于她只能低声咕哝了一声谢谢作为回应。
 
-**关键词**：caught Alice off guard / all she could do was / mutter a thank you in reply
+**关键词**：the distinctive fleck of amber / caught Alice off guard / all she could do was / mutter a thank you in reply
 
 **为什么这样写**：**这是全书对"被打动"最生理化的一次描写，而作者让它只剩下一个含糊的声音。**"caught Alice off guard"（让 Alice 措手不及）——**guard（守卫）在这里是"防备"：她原本是有防备的（一个订了婚的、水手、读过书的女人）**；"all she could do was"（她只能）——**注意 all she could do was 这个结构：它把一整套可能的反应（追问、玩笑、观察）压缩成一个"只能"**；"mutter a thank you"（咕哝一声谢谢）——**mutter（咕哝）这个词说明她连说话都没有用力，**而 "in reply"（作为回应）里 in reply 这两个词也透露：她没有说别的，只是"回应"。**
 

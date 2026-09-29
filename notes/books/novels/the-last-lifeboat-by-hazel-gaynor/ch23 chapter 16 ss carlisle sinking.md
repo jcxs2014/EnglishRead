@@ -41,7 +41,7 @@ modified: "2026-09-28"
 
 **关键词**：Still have my best shooter though / Stinking Nazis can’t have everything
 
-**为什么这样写**：**这是全书最勇敢的一句台词，而它出自一个九岁男孩之手，且他刚听说整艘船正在下沉。**"Still have my best shooter though."（不过我最好的那颗还在。）——**请注意 though（不过）这个连词：它把"船在沉"和"我还有弹珠"放在了同一个呼吸里**；**而 "my best shooter"（我最好的那颗）——这三个字是 ch17 那句 "He pulled a marble from his coat pocket. ’My best shooter,’ he said."（他从口袋里掏出一颗弹珠。"我最好的那颗，"他说）的原样重现**；**"Stinking Nazis can’t have everything."（该死的纳粹别想什么都拿走。）**——**请注意 can't have everything（不能什么都拿走）这个双重否定：它把纳粹的胜利说成"有限制的"**——**这是一个孩子能做出的、最具体的一次抵抗声明。**
+**为什么这样写**：**这是全书最勇敢的一句台词，而它出自一个九岁男孩之手，且他刚听说整艘船正在下沉。**"Still have my best shooter though."（不过我最好的那颗还在。）——**请注意 though（不过）这个连词：它把"船在沉"和"我还有弹珠"放在了同一个呼吸里**；**而 "my best shooter"（我最好的那颗）——这三个字是 ch14 那句 "He pulled a marble from his coat pocket. ’My best shooter,’ he said."（他从口袋里掏出一颗弹珠。"我最好的那颗，"他说）的原样重现**；**"Stinking Nazis can’t have everything."（该死的纳粹别想什么都拿走。）**——**请注意 can't have everything（不能什么都拿走）这个双重否定：它把纳粹的胜利说成"有限制的"**——**这是一个孩子能做出的、最具体的一次抵抗声明。**
 
 **读者视角提示：⚠️** **这一句是全书对 ch17 那次车站告别最好的回响**——**ch17 那个男孩在站台上展示弹珠，而本章他听说船要沉了，弹珠还在他睡衣口袋里**；**而作者紧接着写 "Alice could cry at his staunch defiance."（爱丽丝几乎要为他的坚决而落泪）——**注意 could（几乎）：**她没有哭，因为这一刻有别的事更急。**
 
@@ -113,7 +113,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"孩子们"最残忍的一次比喻，而它选了一个家里常用的场景。**"a sack of kittens"（一袋小猫）——**请注意 sack（一袋）这个词：它把孩子们装进了同一个容器**；"waiting to be drowned"（等着被淹）——**waiting（等着）这个进行时是关键：不是"被淹"，是"等着被淹"，而他们还活着**；"all tangled up in each other"（彼此缠作一团）——**这四个字写的是"抱团"这个动作，而作者用 tangled（缠结）来写它**；**而 "in their narrow space at one end of the lifeboat"（在艇一端那个狭窄的空间里）——这一句是全章最冷的定语：他们的全部世界，是救生艇的一个角落。**
 
-**读者视角提示：⚠️** **"a sack of kittens waiting to be drowned"（一袋等着被淹死的小猫）是 ch18 那句 "Molly was too enraptured by her new doll’s house" 的反面**——**ch18 那个女孩沉醉在玩具屋里，而本章同一类孩子被作者看成了一袋待宰的小猫**；**而"等着被淹"这个状态，正好是 ch02 那一夜真实的处境。**
+**读者视角提示：⚠️** **"a sack of kittens waiting to be drowned"（一袋等着被淹死的小猫）是 ch12 那句 "Molly was too enraptured by her new doll’s house" 的反面**——**ch18 那个女孩沉醉在玩具屋里，而本章同一类孩子被作者看成了一袋待宰的小猫**；**而"等着被淹"这个状态，正好是 ch02 那一夜真实的处境。**
 
 > **原句 11:** "Prow? Stern? She can’t remember."
 

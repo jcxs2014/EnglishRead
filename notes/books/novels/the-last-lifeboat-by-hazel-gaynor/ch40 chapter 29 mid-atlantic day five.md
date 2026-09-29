@@ -23,7 +23,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"照顾"最具体的一次书写，而它是一次谎话。**"I don’t feel thirsty today"（我今天不渴）——**这一句是假的，而作者没有加任何提示**；**"so you can have mine"（所以我的给你）——**mine 在英语里是最小限定的物主代词：她给的不是"一些水"，是"我的那一份"**；**"let’s keep it a secret, just between you and me"（我们得保密，就你和我之间）**——**而这一句是 ch31 那个".Call me Ishmael."（叫我以实玛利。）之后的第二次命名：她把这件事变成一个只有两个人知道的秘密，而秘密正是她能给一个正在咳嗽的孩子的东西**。
 
-**读者视角提示：⚠️** **"'I don't feel thirsty today, so you can have mine."（我今天不渴，所以我的给你。）与 ch37 那句 "Rest and water are all they can offer the poor child."（休息和水，是他们能提供的全部。）是同一枚硬币的两面**——**ch37 她说船上能给的只有这个；ch40 她把这份"只有"从自己嘴里省下来，喂给了最需要它的人**；**而 ch32 那只沉掉的水罐（A third of a canister of water – a whole day's rations – lost to the ocean.）正是被这一口省下来的水，量出了她的亏欠。**
+**读者视角提示：⚠️** **"'I don't feel thirsty today, so you can have mine."（我今天不渴，所以我的给你。）与 ch35 那句 "Rest and water are all they can offer the poor child."（休息和水，是他们能提供的全部。）是同一枚硬币的两面**——**ch37 她说船上能给的只有这个；ch40 她把这份"只有"从自己嘴里省下来，喂给了最需要它的人**；**而 ch32 那只沉掉的水罐（A third of a canister of water – a whole day's rations – lost to the ocean.）正是被这一口省下来的水，量出了她的亏欠。**
 
 > **原句 2:** "They continue it now as something to do, rather than out of any real expectation of seeing anything."
 
@@ -63,7 +63,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"自杀"最克制的一次提及，而它被写成了一个算术。**"Without that, without hope"（没有那个，没有希望）——**两个 without 排比：她把"希望"直接列成了生存的算式里的一项**；**"she may as well slip into the water"（她现在就可以滑进水里）**——**注意 slip（滑入）：这与 ch32 那位船员说的 slip into a coma（陷入昏迷）是同一个动词**；**——而 ch32 那个词是描述一个孩子的病理，本章它描述的是一个成人的选择**；**"and let it carry her away"（让它把她带走）——**而这一句是全书对 ch33 那位母亲"一个可以怪的人？"（Someone to blame?）的一句反面回答：不怪谁，直接走。**
 
-**读者视角提示：⚠️** **"she may as well slip into the water now and let it carry her away"（她现在就可以滑进水里，让它把她带走）与 ch37 那句 "I did take a risk, and look where that got me."（我冒过险了，看看那把我带到了哪儿。）是同一个人相隔一天的两个版本**——**ch37 她下水的理由是 Everything（一切）；ch40 她不下水的理由是 Without that（没有那个）**；**所以这本书对她身体的每一次使用，都带着一条理由。**
+**读者视角提示：⚠️** **"she may as well slip into the water now and let it carry her away"（她现在就可以滑进水里，让它把她带走）与 ch31 那句 "‘I did take a risk,’ she snaps. ‘And look where that got me.’"（我冒过险了，看看那把我带到了哪儿。）是同一个人相隔一天的两个版本**——**ch37 她下水的理由是 Everything（一切）；ch40 她不下水的理由是 Without that（没有那个）**；**所以这本书对她身体的每一次使用，都带着一条理由。**
 
 > **原句 6:** "A lucky talisman … A silly superstition."
 
@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对科学最沉的一次运用，而它用在孩子的生死上。**"Howard’s thought experiment"（霍华德的思想实验）——**注意是"霍华德的思想实验"，不是"薛定谔的思想实验"：作者把它归给了那个借书还书的人**；**"how like Schrödinger’s cat they are"（他们多么像薛定谔的猫）**——**like 后面接的是人，而英语里 this/they are like… 是一个比喻句式**；**"simultaneously dead and alive"（同时死着又活着）**——**而这是全句的核心：作者把"在死亡名单上"与"站在我面前"这两个事实，压进了同一个生物**。
 
-**读者视角提示：⚠️** **"simultaneously dead and alive"（同时死着又活着）是 ch40 的题眼，也是 ch36 那句 "your son, Arthur Nicholls, is not reported among those rescued"（你的儿子亚瑟·尼科尔斯没有出现在获救名单上）的判决**——**读者在 ch36 已经知道莉莉被告知儿子死了；而本章她手里握着那位母亲写来的信，信里问她"孩子现在在哪里、和谁在一起"**；**所以"同时死着又活着"不是哲学，是这一章的物理事实。**
+**读者视角提示：⚠️** **"simultaneously dead and alive"（同时死着又活着）是 ch40 的题眼，也是 ch30 那句 "your son, Arthur Nicholls, is not reported among those rescued"（你的儿子亚瑟·尼科尔斯没有出现在获救名单上）的判决**——**读者在 ch36 已经知道莉莉被告知儿子死了；而本章她手里握着那位母亲写来的信，信里问她"孩子现在在哪里、和谁在一起"**；**所以"同时死着又活着"不是哲学，是这一章的物理事实。**
 
 > **原句 9:** "Still they wait for an acknowledgement that they’ve been sighted."
 

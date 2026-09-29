@@ -53,7 +53,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"绝望"最物质化的一次表达，而它是一份配给表。**"Half a sardine and a dribble of water."（半条沙丁鱼，一滴水。）——**两个量词：半条、一滴；而 ch36 那份公文里同一批孩子的名字是一整行**；**"For what?"（为了什么？）——**独立成句，两个词**；**"What’s the point when we’re all going to die anyway?"（反正我们都要死了，还有什么意义？）——**而这一句与 ch32 那位船员说的 "We’ll all be dead by first light."（我们天亮之前都会死。）是同一句话的两种语气：一个平静，一个崩溃。**
 
-**读者视角提示：⚠️** **"Half a sardine and a dribble of water"（半条沙丁鱼，一滴水）与 ch40 那句 "A third of a canister of water – a whole day’s rations – lost to the ocean."（三分之一罐水——整整一天的配给——丢给了大海。）是同一批物资的两次清点**——**ch40 丢的是水，ch42 剩下的是半条鱼**；**而作者让说出这句话的人，随后被 Mr Harlow 训了一句"你可以想，但没必要说"（You might think it, but there's no need to say it.）——**所以这本书对"绝望"的管理办法是：不否认它，但不让它占用公共空间。**
+**读者视角提示：⚠️** **"Half a sardine and a dribble of water"（半条沙丁鱼，一滴水）与 ch32 那句 "A third of a canister of water – a whole day’s rations – lost to the ocean."（三分之一罐水——整整一天的配给——丢给了大海。）是同一批物资的两次清点**——**ch40 丢的是水，ch42 剩下的是半条鱼**；**而作者让说出这句话的人，随后被 Mr Harlow 训了一句"你可以想，但没必要说"（You might think it, but there's no need to say it.）——**所以这本书对"绝望"的管理办法是：不否认它，但不让它占用公共空间。**
 
 > **原句 5:** "‘You really mustn’t speak like that in front of the children. You might think it, but there’s no need to say it. We may be losing our minds, but there’s no need to damage morale as well.’"
 
@@ -113,7 +113,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书最响的一次愤怒，而它由一个十七岁的船员喊出，且全文大写。**"I HATE THIS STUPID OCEAN!"（我恨这愚蠢的大海！）——**注意 stupid（愚蠢的）：他把海骂成一个有性格的东西**；**"I HATE IT!"（我恨它！）——**而第二句更短、更没有宾语：一旦给海起了名字，恨就可以直接指向"它"**；**——而作者紧跟着写他做的动作：he pulls off his boots and hurls them into the water（他脱下靴子扔进海里），He sinks to his knees and puts his head in his hands（跪下抱头）as he weeps like a child（像个孩子一样哭）——**所以这一章对"崩溃"的描写是：先扔东西，再跪下，再哭，而顺序不能颠倒。**
 
-**读者视角提示：⚠️** **"I HATE THIS STUPID OCEAN!"（我恨这愚蠢的大海！）与 ch22 那句 "The ocean doesn’t even"（大海甚至不……）——ch22 里船员的绝望是无声的，ch42 是全大写的**——**而作者让这本书里的第一句沉默与第一句喊叫都出自同一个人**；**所以 Jimmy 不是变了，他是终于被允许喊了。**
+**读者视角提示：⚠️** **"I HATE THIS STUPID OCEAN!"（我恨这愚蠢的大海！）与 ch27 那句 "The ocean doesn’t even"（大海甚至不……）——ch22 里船员的绝望是无声的，ch42 是全大写的**——**而作者让这本书里的第一句沉默与第一句喊叫都出自同一个人**；**所以 Jimmy 不是变了，他是终于被允许喊了。**
 
 > **原句 11:** "a dreadful thought occurs to her: not which one of them death will take next, but who it will leave until last."
 
@@ -143,7 +143,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是 Alice 全书唯一一次对别人的死因开口，而她说的是一个孩子的年龄。**"Something went wrong in his head."（他脑子里出了点问题。）——**注意 went wrong：这是儿童的说法，而作者让一个二十多岁的女人用孩子的说法，是有意的**；**"Nobody knows why."（谁也不知道为什么。）——**而这一句与 ch40 那位 doctor 说的 "the aneurysm in his brain was fatal"（他脑里的动脉瘤是致命的）形成对照：女儿只知道"出了点问题"**；**"The same age as your sister."（和你姐姐一样大。）——**而这一句是全章最重的一句：她对 Arthur 说的是"我认识一个和你姐姐一样大的孩子，他死了"，而她没有说"他也死了"，她说"他脑子里出了点问题"。**
 
-**读者视角提示：⚠️** **"The same age as your sister."（和你姐姐一样大。）与 ch41 那句 "Arthur Nicholls, aged seven and a half"（亚瑟·尼科尔斯，七岁半）形成一个残酷的对位**——**ch41 岸上的母亲读到儿子的年龄是七岁半；ch42 海上的教师对另一个孩子说"他死的时候和你姐姐一样大"**；**而读者知道，乔治娜十岁，而 Alice 二十七岁。**
+**读者视角提示：⚠️** **"The same age as your sister."（和你姐姐一样大。）与 ch40 那句 "Arthur Nicholls, aged seven and a half"（亚瑟·尼科尔斯，七岁半）形成一个残酷的对位**——**ch41 岸上的母亲读到儿子的年龄是七岁半；ch42 海上的教师对另一个孩子说"他死的时候和你姐姐一样大"**；**而读者知道，乔治娜十岁，而 Alice 二十七岁。**
 
 > **原句 14:** "He adds the words, ‘Remember us’, then rolls up the page, pushes it carefully into the whisky bottle and screws the cap back on."
 

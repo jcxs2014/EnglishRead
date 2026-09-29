@@ -43,7 +43,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"查"这件事最生理化的一次描写，而它用了一组身体部位。**"Her mind craves information"（她的头脑渴望信息）——**crave（渴望）在英语里原指身体的强烈需求，常用于毒瘾**；**"while her heart longs to find a solution"（而她的心渴望找到答案）——**注意这一句的主语换了：mind 变成 heart**；**"the most important puzzle she’s ever faced"（她一生中面对过的最重要那道谜题）**——**puzzle（谜题）在英语里也指一团乱麻的处境，而作者同时用了它的两义**。
 
-**读者视角提示：⚠️** **"Her mind craves information while her heart longs to find a solution"（她的头脑渴望信息，而她的心渴望答案）是 ch36 那句 "She needs to do what she’s good at: solve the problem."（她需要做她擅长的事：解出这个问题。）的完成版**——**ch30 那个 solve the problem 来自一位读到"信被严重误述"的母亲之手；ch38 这一句来自一个正在亲手把事实排成表格的人之手**；**而两者之间隔了八章，同一个动词 solve 第一次变成了 puzzle。**
+**读者视角提示：⚠️** **"Her mind craves information while her heart longs to find a solution"（她的头脑渴望信息，而她的心渴望答案）是 ch30 那句 "She needs to do what she’s good at: solve the problem."（她需要做她擅长的事：解出这个问题。）的完成版**——**ch30 那个 solve the problem 来自一位读到"信被严重误述"的母亲之手；ch38 这一句来自一个正在亲手把事实排成表格的人之手**；**而两者之间隔了八章，同一个动词 solve 第一次变成了 puzzle。**
 
 > **原句 4:** "Make them keep looking, he says. Make them go back for our bright-summer-breeze of a boy."
 
@@ -63,7 +63,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"父权"最安静的一次描写，而它用了一个连词。**"couldn’t hide the physical marks"（无法隐藏身体痕迹）——**注意这里用 couldn't 而不是 didn't：不是他选择不隐藏，是做不到**；**"his father’s temper"（他父亲的脾气）**——**temper（脾气）在英语里既是"温和"也是"暴怒"，而 physical marks 决定了它属于后者**；**"but those who knew him as happy-go-lucky Pete Nicholls"（但那些把他当作无忧无虑的彼得·尼科尔斯的人）**——**happy-go-lucky 是带连字符的复合形容词：它描述的是别人眼里的他**；**"didn’t see the mental scars he also bore"（看不到他同样背负的心理创伤）——**而 bore（背负）在这里是过去时：这些伤一直在那里，只是没人看见**。
 
-**读者视角提示：⚠️** **"the physical marks of his father’s temper"（他父亲脾气留下的身体痕迹）与 ch30 那句 "the name ARTHUR PETER NICHOLLS chiselled onto it in thick block lettering"（那个名字用粗体大写字体凿在上面）形成一组**——**一个父亲的伤被刻在儿子的身体上，一个儿子的名字被刻在母亲的心脏上；而本书对"遗产"的理解就是：它是一种凿刻。**
+**读者视角提示：⚠️** **"the physical marks of his father’s temper"（他父亲脾气留下的身体痕迹）与 ch36 那句 "the name ARTHUR PETER NICHOLLS chiselled onto it in thick block lettering"（那个名字用粗体大写字体凿在上面）形成一组**——**一个父亲的伤被刻在儿子的身体上，一个儿子的名字被刻在母亲的心脏上；而本书对"遗产"的理解就是：它是一种凿刻。**
 
 > **原句 6:** "The next time he fired his rifle, he did so with fatal intent."
 
@@ -81,7 +81,7 @@ modified: "2026-09-28"
 
 **关键词**：A terrible act of war / with tragic consequences
 
-**为什么这样写**：**这是全书对"官方语言"最纯粹的标本，而它由一个英国女人说出。**"A terrible act of war"（一场可怕的战争行为）——**act（行为）在这里是法律名词：一个 act of war 是一次战争行为**；**"with tragic consequences"（带来悲剧性后果）**——**而注意这一句的主语是 act，不是人：死去的人不是凶手，"行为"才是**；**——而它紧接在 ch36 那句 "they deliberately left them to drown."（他们故意抛下了他们，让他们淹死。）之后**。
+**为什么这样写**：**这是全书对"官方语言"最纯粹的标本，而它由一个英国女人说出。**"A terrible act of war"（一场可怕的战争行为）——**act（行为）在这里是法律名词：一个 act of war 是一次战争行为**；**"with tragic consequences"（带来悲剧性后果）**——**而注意这一句的主语是 act，不是人：死去的人不是凶手，"行为"才是**；**——而它紧接在 ch38 那句 "they deliberately left them to drown."（他们故意抛下了他们，让他们淹死。）之后**。
 
 **读者视角提示：⚠️** **"A terrible act of war, with tragic consequences."（一场可怕的战争行为，带来悲剧性后果。）是 ch21 那封丧信语言的最后一块拼图**——**ch21 那封信在同一个句子里夸一位母亲 courageously（勇敢地）并宣告她 bereaved（丧亲）；ch38 这句公文把一场沉船叫作"战争行为"**；**所以这本书的控诉从来不需要写出来：它只要把两种公文并排放在一起。**
 
@@ -193,7 +193,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书给母亲的最大一次希望，而它只有七个词。**"So there could be another"（所以可能还有另一条）——**注意 could：这个可能性是被一个 if 换来的，而它的分量比一个肯定句更重**；**"still out there"（仍在海上）**——**still（仍）在英语里有"依然"的意思：它把这个假设放在了一个持续的时间里**；**——而作者让 Kitty 抓住她的手作为这一句的回应：Kitty grabs Lily's hand.（凯蒂抓住莉莉的手。）——**一个无台词的动作，替代了任何一句"希望"。**
 
-**读者视角提示：⚠️** **"'So there could be another, still out there.'（所以可能还有另一条，仍在海上。）是 ch25 那句 "We’re in very safe hands."（我们在非常安全的手中。）之后，本书对"安全感"最节约的一次使用**——**而 ch25 那句来自一位不知道自己在被承诺的船员，这一句来自一份打捞清单上的一条多余记录**；**所以这本书对"希望"的全部看法是：它不来自勇气，只来自有人愿意数两遍。**
+**读者视角提示：⚠️** **"'So there could be another, still out there.'（所以可能还有另一条，仍在海上。）是 ch20 那句 "We’re in very safe hands."（我们在非常安全的手中。）之后，本书对"安全感"最节约的一次使用**——**而 ch25 那句来自一位不知道自己在被承诺的船员，这一句来自一份打捞清单上的一条多余记录**；**所以这本书对"希望"的全部看法是：它不来自勇气，只来自有人愿意数两遍。**
 
 > **原句 19:** "‘I didn’t know where else to go, and you said I could come. They’re gone, Mrs Nicholls. All five of ’em, gone.’"
 

@@ -103,7 +103,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书唯一一次把建筑物当作人来写，而它用的是两个"羞愧"级的词。**"hangs its head"（低下头）——**在英语里这是人（和骡子）的动作：垂头丧气**；**"in shame and remorse"（在羞耻与悔恨中）**——**shame（羞耻）指向"我做了什么"，remorse（悔恨）指向"我本可以做什么"：作者给了它两种愧疚**；**"left behind"（被留下的）**——**而这四个字是本书后半段的关键词：留在船上的人、留在岸上的人，都被这个词点名。**
 
-**读者视角提示：⚠️** **"The empty building left behind hangs its head in shame and remorse."（被留下的那栋空楼，羞愧懊悔地低下了头。）与 ch32 那句"the empty building"式的留白不同**——**ch32 丢的是一只水罐（a canister），本章丢的是一整栋楼；而作者给楼写了悔恨，给船上的水罐只写了 gone（没了）。**
+**读者视角提示：⚠️** **"The empty building left behind hangs its head in shame and remorse."（被留下的那栋空楼，羞愧懊悔地低下了头。）与 ch33 那句"the empty building"式的留白不同**——**ch32 丢的是一只水罐（a canister），本章丢的是一整栋楼；而作者给楼写了悔恨，给船上的水罐只写了 gone（没了）。**
 
 > **原句 10:** "‘I’d be closed too if I’d sent all those kiddies to their deaths.’"
 
@@ -193,7 +193,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对一个词最残酷的一次回收，而它出现在失败之后。**"Our job"（我们的工作）——**请注意这个 job 与 ch21 那位母亲说的"My job is to be here"（我的工作就是在这儿）是同一类词：两个女人在不同处境里用 job 来定义自己**；**"is to stay alive"（就是活下去）——**而这一句是全书对"活着"最去戏剧化的定义：不是勇气、不是信念，是一件工作**；**"until they come back"（直到他们回来）**——**而 come back（回来）预设了一个前提：他们会回来。**
 
-**读者视角提示：⚠️** **"Our job is to stay alive until they come back."（我们的工作就是活下去，直到他们回来。）是 ch21 那句"My job is to be here when my children come home."（我的工作就是在这儿，等我孩子回家。）的第三次出现**——**ch21 是母亲对一位雇主说；ch33 是她自己在楼梯上想起的那句话**；**而作者让这三句都出现"come back / come home"——一次指全部，一次指自己。**
+**读者视角提示：⚠️** **"Our job is to stay alive until they come back."（我们的工作就是活下去，直到他们回来。）是 ch30 那句"My job is to be here when my children come home."（我的工作就是在这儿，等我孩子回家。）的第三次出现**——**ch21 是母亲对一位雇主说；ch33 是她自己在楼梯上想起的那句话**；**而作者让这三句都出现"come back / come home"——一次指全部，一次指自己。**
 
 > **原句 19:** "She doesn’t need to read what’s inside the biscuit tin. She already knows every word."
 

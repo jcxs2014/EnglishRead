@@ -51,7 +51,7 @@ modified: "2026-09-28"
 
 **关键词**：the moment in The Wizard of Oz / the film changed from black and white to Technicolor / and the children shrieked with excitement
 
-**为什么这样写**：**这是全书对"色彩"最快乐也最不合时宜的一次引用，而它出现的地方是一扇丧门之外。**"the moment in The Wizard of Oz"（《绿野仙踪》里的那个瞬间）——**在英语里这个片名几乎不写冠词，读者立刻知道**；**"changed from black and white to Technicolor"（从黑白变成彩色）**——**作者用 Technicolor（特艺七彩）这个带专利感的词，形容一个人走进来的样子**；**"the children shrieked with excitement"（孩子们兴奋地尖叫）**——**注意这与 ch32 那句 "I need help! Can somebody help me?"（我需要帮助！）是同一群孩子的嗓子，只是这次是为了开心。**
+**为什么这样写**：**这是全书对"色彩"最快乐也最不合时宜的一次引用，而它出现的地方是一扇丧门之外。**"the moment in The Wizard of Oz"（《绿野仙踪》里的那个瞬间）——**在英语里这个片名几乎不写冠词，读者立刻知道**；**"changed from black and white to Technicolor"（从黑白变成彩色）**——**作者用 Technicolor（特艺七彩）这个带专利感的词，形容一个人走进来的样子**；**"the children shrieked with excitement"（孩子们兴奋地尖叫）**——**注意这与 ch31 那句 "I need help! Can somebody help me?"（我需要帮助！）是同一群孩子的嗓子，只是这次是为了开心。**
 
 **读者视角提示：⚠️** **"the moment in The Wizard of Oz when the film changed from black and white to Technicolor"（影片从黑白变成彩色的那个瞬间）是 ch36 里唯一一处"美"，而它是一个比喻**——**而它的对照物就在门外：pitying looks and anaemic pies（怜悯的目光和贫血的派）**；**所以作者借《绿野仙踪》的那个变彩瞬间，说的是一个刚认识的人如何凭空让一个房间有了颜色。**
 
@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书最短的一次死亡宣告，而它是一个双重被动。**"Alice wasn’t listed"（爱丽丝没有被列入）——**注意 listed 是"被列入"：她不是没活下来，是没被写进那张纸**；**"among the survivors"（在幸存者之中）——**among 在英语里表示"在……之中"，而它的反面不是 among the dead，是 nowhere（哪儿都不是）**。
 
-**读者视角提示：⚠️** **"'Alice wasn't listed among the survivors.'（爱丽丝不在幸存者名单上。）是全书对 ch02 那句 "You can’t save the dead, miss, but you can save yourself."（您救不了死人，小姐，但您能救自己。）的官方版本**——**ch23 那句话是一位船员在夜里说的，本句是一张名单在事后说的**；**而 ch36 接下来的半句（她也不在那些他们……打捞上来的名字里）才补全了它。**
+**读者视角提示：⚠️** **"'Alice wasn't listed among the survivors.'（爱丽丝不在幸存者名单上。）是全书对 ch22 那句 "You can’t save the dead, miss, but you can save yourself."（您救不了死人，小姐，但您能救自己。）的官方版本**——**ch23 那句话是一位船员在夜里说的，本句是一张名单在事后说的**；**而 ch36 接下来的半句（她也不在那些他们……打捞上来的名字里）才补全了它。**
 
 > **原句 9:** "And she wasn’t among the names of those they … recovered.’"
 
@@ -133,7 +133,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书最轻的一句台词，而它四个字里有一个世界观的崩塌。**"Toast"（吐司）——**在英语里 burn toast（把吐司烤糊）是"擅离职守"的经典比喻**；**"actually"（其实）——**这个词在英语里通常用于纠正预期，而 Kitty 用的正是这个语气**；**——所以这一句把"燃烧弹"降级成了"烤糊的吐司"，而作者紧跟的一句才是解释：It is a tired attempt to conceal their pain.（这是一次疲惫的、用来掩盖她们的痛楚的尝试。）**
 
-**读者视角提示：⚠️** **"'Toast, actually.'（其实是吐司。）是本书对"英国式幽默"最完整的一次定义**——**它出现在 ch21 那句 "Britain will prevail"（英国必将胜利）与 ch32 那句 "War is an ugly, brutal business"（战争是一门丑陋而残酷的生意）之间**；**而这一次它不是修辞，是防守**；**对照 ch27 那位船员讲的真话（fresh water would draw the fluid from her brain…），同样是在海上，同样是关于活命——一个用比喻，一个用医学。**
+**读者视角提示：⚠️** **"'Toast, actually.'（其实是吐司。）是本书对"英国式幽默"最完整的一次定义**——**它出现在 ch33 那句 "Britain will prevail"（英国必将胜利）与 ch32 那句 "War is an ugly, brutal business"（战争是一门丑陋而残酷的生意）之间**；**而这一次它不是修辞，是防守**；**对照 ch27 那位船员讲的真话（fresh water would draw the fluid from her brain…），同样是在海上，同样是关于活命——一个用比喻，一个用医学。**
 
 > **原句 13:** "‘Kitty King. Katherine, actually, but everyone calls me Kitty.’"
 
@@ -213,7 +213,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"希望"最残忍的一次数字计算，而它用的是分数。**"only seven"（只有七个）——**only 在英语里是限制性副词，它的作用就是把"九十"砍成"七"**；**"your daughter included"（包括您的女儿）——**这三个词是全句最温柔的部分，而它的作用是让那个分数有一个具体的分子**；**——而这一句紧跟在 ch30 那封信之后：your daughter, Georgina Nicholls, is confirmed among the list of survivors（您的女儿乔治娜被确认在幸存者名单上）**；**"so she was one of the seven"——所以她是那七个里活下来的一个。**
 
-**读者视角提示：⚠️** **"Just seven out of the ninety who boarded in Liverpool."（利物浦上船的九十个孩子里，只有七个。）与 ch20 那条 320 人的船形成一个让人透不过气的落差**——**而 ch25 那位 Mrs H 说过一句话：Ninety evacuees... had boarded in Liverpool（九十名疏散者……在利物浦上船）**；**这九十个人有九十个家庭，而作者让其中七十三个人在这个数字里彻底消失。**
+**读者视角提示：⚠️** **"Just seven out of the ninety who boarded in Liverpool."（利物浦上船的九十个孩子里，只有七个。）与 ch25 那位 Mrs H 说过的一句话形成一组**——**"Ninety evacuees had boarded SS Carlisle in Liverpool."（九十名疏散者曾在利物浦登上 SS 卡莱尔号。）而这九十个人有九十个家庭，作者让其中的八十三个人在这个数字里消失**；**——所以这本书对"沉船"的第一层处理不是写死亡，是写一个除法：七 ÷ 九十。**
 
 > **原句 21:** "Two hundred and fifty souls were lost. Only fifty bodies were recovered.’"
 
@@ -223,7 +223,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"数字"最冷的一次并列，而它只有两行。**"Two hundred and fifty souls were lost."（二百五十条性命丧生。）——**souls（灵魂／性命）在英文公文里比 people（人）正式得多：这是报告体**；**"Only fifty bodies were recovered."（只打捞到五十具遗体。）——**而这一句的数字是上一句的五分之一**；**——所以这两句话没有一句形容词，读者自己算出了那个差额。**
 
-**读者视角提示：⚠️** **"Two hundred and fifty souls were lost. Only fifty bodies were recovered."（二百五十条性命丧生。只打捞到五十具遗体。）与 ch23 那句 "Ninety evacuees" 形成一组**——**一个数船上的人，一个数海里没回来的人**；**而值得注意的是：这二百五十个"souls"里，包含了 ch28 那个无名死者 William（Bill），也包含了 ch35 那个至今没有下葬的莫莉的可能位置。**
+**读者视角提示：⚠️** **"Two hundred and fifty souls were lost. Only fifty bodies were recovered."（二百五十条性命丧生。只打捞到五十具遗体。）与 ch25 那句 "Ninety evacuees" 形成一组**——**一个数船上的人，一个数海里没回来的人**；**而值得注意的是：这二百五十个"souls"里，包含了 ch28 那个无名死者 William（Bill），也包含了 ch35 那个至今没有下葬的莫莉的可能位置。**
 
 > **原句 22:** "Until Kitty arrived, it had been a tragedy of two."
 
@@ -253,7 +253,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"搜救"最机械化的一次描写，而它是一段关于"几何"的说明。**"traverse back and forth over a set distance"（在设定距离上反复横穿）——**traverse 在英语里是"穿过一片区域"，常用于飞机与船只的搜索**；**"a mile say"（比如一英里）——**say 在这里是"姑且说"的随意：而作者把这个随意保留在了正式的技术说明里**；**"the next one-mile square in the grid"（网格里的下一个一英里方格）——**square（方格）这个词把海面变成了一张纸**；**"sweeping the surface of the ocean"（扫过海面）——**而 sweeping（扫过）是第一章就在说"用书把自己扫进书架之间"（burrow）的那个动作——同一个词，从藏身之处变成了救援的航线。**
 
-**读者视角提示：⚠️** **"sweeping the surface of the ocean"（扫过海面）与 ch03 那句 "bury herself between the books"（把自己埋在书架之间）是同一个动词的两次用法**——**一位在藏，一位在找；而更残酷的是：这张网格的边缘，就是下一段 Lily 抓住不放的那个希望。**
+**读者视角提示：⚠️** **"sweeping the surface of the ocean"（扫过海面）与 ch03 那句 "burrow between shelves"（在书架间打洞藏身）是同一个动词的两次用法**——**一位在藏，一位在找；而更残酷的是：这张网格的边缘，就是下一段 Lily 抓住不放的那个希望。**
 
 > **原句 25:** "‘I suppose so, but it’s extremely unlikely. The rescue ship wouldn’t have left the search area unless the captain was certain they’d accounted for all the lifeboats and, given the conditions that night, it seems improbable that anyone else could have survived beyond the twelve hours it took the rescue ship to reach the site. Impossible, even.’"
 
@@ -273,7 +273,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"信念"最直白的一次表达，而它用了一个没有证据的动词。**"I still don’t understand"（我还不明白）——**still 强调这是她讲完答案之后依然不服的地方**；**"Why not search in a new grid?"（为什么不换个网格？）——**这是一个技术性的提问，而莉莉问得很内行：她已经听懂了 Kitty 的全部说明**；**"And I know Arthur is alive. I can feel it."（而且我知道亚瑟还活着。我感觉得到。）——**而 can feel it（我感觉得到）没有主语、没有对象、没有证据：这是全书最直白的"非理性"，而它出现在刚刚听完一整段精确搜救理论之后。**
 
-**读者视角提示：⚠️** **"I know Arthur is alive. I can feel it."（我知道亚瑟还活着。我感觉得到。）与 ch32 那句 "I did take a risk, and look where that got me."（我冒过险了，看看那把我带到了哪儿。）是一对**——**ch31 她说"我做的事没用"，ch36 她说"我感觉有用"**；**而这两句都不是论证——它们是一个母亲唯一被允许的说法。**
+**读者视角提示：⚠️** **"I know Arthur is alive. I can feel it."（我知道亚瑟还活着。我感觉得到。）与 ch31 那句 "‘I did take a risk,’ she snaps. ‘And look where that got me.’"（我冒过险了，看看那把我带到了哪儿。）是一对**——**ch31 她说"我做的事没用"，ch36 她说"我感觉有用"**；**而这两句都不是论证——它们是一个母亲唯一被允许的说法。**
 
 > **原句 27:** "‘I want to know why her ship was abandoned and why survivors were left in the water for twelve hours. I want to know who is responsible. When I saw you at the CORB offices yesterday and you asked about the limit of convoy, I presumed you were looking for answers, too. Perhaps I was wrong.’"
 

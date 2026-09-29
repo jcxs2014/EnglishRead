@@ -113,7 +113,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书的最后一句信念，而它用了一个破折号重复。**"even in the profound sadness of death"（即使在死亡深刻的悲伤里）**——**而 even 让这一句一开始就承认了对手：悲伤不会被战胜，它只是被放入一个更大的括号**；**——"there will always – must always – be a place for"（永远——必须永远——会有一个位置）——**而这两处破折号把 always（总是）和 must always（必须总是）连在一起：前者是事实，后者是要求**；**——而"a place for"（一个位置）这个词是地面的、物质的：她不是说生命会战胜死亡，她是说会有地方让它发生**；**——而 astonishing（惊人的）与 enduring（持久的）合在一起：一个关于强度，一个关于时间。**
 
-**读者视角提示：⚠️** **"a place for the astonishing, enduring beauty of life"（为生命那惊人而持久的美留一个位置）与 ch56 那句 "It is a reminder to live, in every sense of the word."（它提醒我要活着，在这个词的每一层意思上。）**——**ch56 是爱丽丝独自握着弹珠走出病房，ch60 是莉莉握着另一个母亲的手站在花园里**；**——两处都是"活着"这件事被交给下一个动作：一个是走出门，一个是握住手。**
+**读者视角提示：⚠️** **"a place for the astonishing, enduring beauty of life"（为生命那惊人而持久的美留一个位置）与 ch59 那句 "It is a reminder to live, in every sense of the word."（它提醒我要活着，在这个词的每一层意思上。）**——**ch56 是爱丽丝独自握着弹珠走出病房，ch60 是莉莉握着另一个母亲的手站在花园里**；**——两处都是"活着"这件事被交给下一个动作：一个是走出门，一个是握住手。**
 
 ## 本章词汇
 
