@@ -30,7 +30,17 @@ flat = lambda s: re.sub(r'[^a-z0-9]', '', unicodedata.normalize('NFKD', s).lower
 
 # chNN + 引语（中英文引号均可，允许省略号）
 XREF_RE = re.compile(
-    r'ch(\d{1,3})\s*[「"“]([^」"”]{12,200})[」"”]'
+    # ⚠️ 2026-09-29 修正（Carmen and Grace 实测）：原式为 `chNN\s*[「"“]`，两处漏检
+    #  ①`\s*` 只容许空白，**容不下中文引导词**——本库极常见的写法是
+    #    「chNN 那句/那段/里的『…』」「与 chNN 成对阅读」，引号与 chNN 之间隔着
+    #    2–8 个汉字。Carmen and Grace 31 条精确断言里 **29 条是这种写法**，
+    #    原式对它们 0 命中，而作者据此以为"本层已覆盖" ⇒ 侥幸心理比没工具更危险。
+    #  ②`{12,200}` 是**字符数**下限，把短引语整批滤掉：该书 11/31 条断言是
+    #    6–11 字符的短句（"she was not home" / "Until you don't."）。
+    #    阈值应按 flat 后的**字母数**给，且下限要低到能覆盖短句。
+    # 间隔上限取 12 字是**实测定的**：再宽（如 30）会把「本章自己的引语 + 邻章编号」
+    # 配成对，实测假阳性从 26/54 涨到不可用。
+    r'ch(\d{1,3})[^，。；：\n]{0,12}?[「"“]([^」"”]{4,200})[」"”]'
 )
 
 def load_corpora(book_dir):
@@ -58,10 +68,23 @@ def main(book_dir, verbose=False):
             for m in XREF_RE.finditer(s):
                 nn = int(m.group(1))
                 quoted = m.group(2)
+                # ⚠️ 2026-09-29（两轮修正）：放宽间隔后正则会吃进**非英文**的「…」。
+                # 第一轮只加「含 ≥2 连续字母」，仍漏中英混排；第二轮试「字母占比
+                # > 0.34」也失败——实测反例：真引语 `Until you don't.` 占比 0.86，
+                # 而 `在 Crater 之前，我们还有 Lumpling 和 Dumpling` 占比 **0.71**，
+                # **占比根本区分不开**（专名多的中文串占比可以很高）。
+                # 正判据是**引号内不得含中日韩字符**：本门禁比对的是英文小说的
+                # 原文引语，凡含 CJK 即不是引语（多半是中文摘要/复述被引号包住）。
+                if re.search(r'[\u3400-\u9fff\uf900-\ufaff\u3040-\u30ff\uac00-\ud7af]', quoted):
+                    continue
+                if not re.search(r'[A-Za-z]{2,}', quoted):
+                    continue
                 fp = flat(quoted)
-                # 省略号分段：两侧都须命中所指章
+                # 省略号分段：两侧都须命中所指章。
+                # ⚠️ 2026-09-29：`len(flat(p)) >= 15` 把 <15 字母的短段整段丢弃，
+                # 于是「省略号两侧」只要有一侧是短句就等于没校验。改按 8 字母起。
                 segs = [p for p in re.split(r'…|\.\.\.', quoted)
-                        if len(flat(p)) >= 15]
+                        if len(flat(p)) >= 8]
                 pieces = segs if segs else [quoted]
                 checked += 1
                 corp_list = corpora.get(nn, [])
