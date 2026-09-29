@@ -9,7 +9,7 @@ modified: "2026-09-29"
 
 **一句话概括**：Charlotte在六点刚过叫醒Viv，把当天那份`New York Times`（纽约时报）递给她——报头写着`ALLIED ARMIES LAND IN FRANCE IN THE HAVRE-CHERBOURG AREA; GREAT INVASION IS UNDER WAY`（盟军已在阿弗尔至瑟堡一线登陆，大规模入侵已经开始）；两人对彼此只说了一句`It’s begun.`（开始了），听完三个小时的广播便去教堂、去时代广场、回家做`Pancakes`（煎饼），收在`It was going to be a long, dark few months ahead.`（接下来会是几个月难熬的黑暗日子）。
 
-**情感弧线位置**：全章是一次下沉。开头是`her hand had flown to her mouth`（她自己的手已经飞到了嘴边），中间在教堂里升到`the words a balm against the sour wound`（那些话像敷在酸痛伤口上的药膏），最后在厨房里落回那句预报——**同一天里哀悼被仪式化了三次，每一次都比上一次安静**。
+**情感弧线位置**：全章是一次下沉。开头是`her hand had flown to her mouth`（她自己的手已经飞到了嘴边），中间在教堂里升到`the words a balm against the sour wound`（那些话像敷在酸痛伤口上的药膏），最后在厨房里落回那句预报——**同一天里哀悼被一场接一场地仪式化，每一次都比上一次安静**。
 
 **Tropes 兑现/反转**：作者把末日前夕的写法反了过来：全章**没有战争场面**。`Those were the only two words they spoke to each other`（她们之间只说了这两个字）之后是三个小时的广播与沉默；真正的场面出现在`the same strange tangle of grief and elation`（同样纠缠着的悲伤与狂喜）这些路人的脸上，而这一天最终的形状由`American flags presided`（美国旗压在所有人上方）给出，不是由爆炸给出。
 
@@ -39,7 +39,7 @@ modified: "2026-09-29"
 
 **关键词**：her hand had flown to her mouth／It’s begun.
 
-**为什么这样写**：全章的题眼，而它只有三个动作。`her hand had flown to her mouth`（她的手已经飞到了嘴边）用的是完成时`had flown`——**身体比她更早接到消息**；`She met Charlotte’s grim eyes`（她对上Charlotte那双严厉的眼睛）把两具身体拉进同一个画面；最后那句台词被压成三个词。前面报头写了三十几个英文词，这里只还回三个——**一整章的信息落差靠这一次缩短完成**。
+**为什么这样写**：全章的题眼，而它只有三个动作。`her hand had flown to her mouth`（她的手已经飞到了嘴边）用的是完成时`had flown`——**身体比她更早接到消息**；`She met Charlotte’s grim eyes`（她对上Charlotte那双严厉的眼睛）把两具身体拉进同一个画面；最后那句台词被压成三个词。前面那行报头把整件事铺在版面最上方，这里只还回三个词——**一整章的信息落差靠这一次缩短完成**。
 
 **读者视角提示**：紧接的一段给出这句的射程：`Those were the only two words they spoke to each other`（她们之间只说了这两个字），然后是三个小时的开收音机与沉默。
 
@@ -77,7 +77,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：全章把**运气**摆上桌的方式。Bernice用`if you can imagine`（你能想象吧）把这句收尾，而作者随即判了刑：`Her laugh came out watery, and Viv knew she must be guilt-ridden at the relief she felt over her lover’s luck.`（她的笑听起来发虚，Viv知道自己一定为这份好运而满心愧疚）——**在这里为别人的平安感到庆幸是一种失礼**，而Viv自己清楚这一点。
 
-**读者视角提示**：`Her laugh came out watery`（她的笑听起来发虚）是全章唯一一次笑声不成立；紧跟着的`“I’m so glad.”`（我真高兴。）是Viv能还的最短的一笔账。
+**读者视角提示**：`Her laugh came out watery`（她的笑听起来发虚）落在Viv自己的判决上；紧跟着的`“I’m so glad.”`（我真高兴。）是Viv能还的最短的一笔账。
 
 ---
 
@@ -111,7 +111,7 @@ modified: "2026-09-29"
 
 **关键词**：Lead them straight and true／stoutness to their hearts, steadfastness in their faith
 
-**为什么这样写**：全章最后一处公共语言，也是最像祷告的一处。三组并列`their arms`（他们的臂膀）、`their hearts`（他们的心）、`their faith`（他们的信仰）一个比一个内向；而`straight and true`（正直而坚定）、`stoutness`（刚强）、`steadfastness`（坚定不移）三个副词都靠稳固这个词根撑着。**从身体到心再到信念，作者把这一天的收束交给一个逐层内移的三段式。**
+**为什么这样写**：全章最后一处公共语言，也是最像祷告的一处。三组并列`their arms`（他们的臂膀）、`their hearts`（他们的心）、`their faith`（他们的信仰）一个比一个内向；而`straight and true`（正直而坚定）、`stoutness`（刚强）、`steadfastness`（坚定不移）三处词都以同一个st-起头——同一个音把这三个对象捆在一起。**从身体到心再到信念，作者把这一天的收束交给一个逐层内移的三段式。**
 
 **读者视角提示**：这句话在原文里属于罗斯福的电台讲话，而作者紧跟的那一句是`Viv tossed back the remainder of her port.`（Viv把剩下的那口波特酒喝干）——**祷词落在句号上，反应落在杯子上**。
 
@@ -173,3 +173,4 @@ modified: "2026-09-29"
 
 ## 一句话总结
 
+盟军登陆的这一天，Viv和Charlotte只说了`It’s begun.`（开始了）三个词，然后靠三个小时的广播、一场站着的祷告、市长的祷词和一顿`Pancakes`（煎饼）把它过完——**她们庆祝的不是胜利，是`the possible end to such violence`（这种暴力可能会结束），而末句`It was going to be a long, dark few months ahead.`（接下来会是几个月难熬的黑暗日子）把这一天的安慰全部收走**。

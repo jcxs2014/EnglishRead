@@ -117,15 +117,15 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 9:** “Yes,” Viv agreed. “But at least that’s not all they’ll have.”
+> **原句 9:** “They’ll still have nightmares,” Althea said in that way that made it clear she had her own.
 
-**中文理解**：「是的，」Viv 同意。「但至少那不是他们全部拥有的东西。」
+**中文理解**：「他们还是会做噩梦，」Althea 用那种语气说，那语气明摆着她自己也有噩梦。
 
-**关键词**：Yes, Viv agreed／But at least that’s not all they’ll have
+**关键词**：They’ll still have nightmares／in that way that made it clear she had her own
 
-**为什么这样写**：全章的最后一句，也是全章最短的一次交锋。`Yes, Viv agreed.`（是的，Viv 同意。）独立成句，是**她先认输**；真正的内容在第二句，而它的骨架是一组对称的限定——`at least`（至少）配 `not all`（不是全部）：**它既不承诺「他们会好起来」，也不承诺「书能治好他们」，只承诺一件极小的事：噩梦之外还有别的东西**。而这一句里 Viv 没有给出任何行动方案，没有提那次活动，也没有提 Taft：**她在全书的最后一句里只留下了一个下限。**
+**为什么这样写**：全章的倒数第二句，也是全章的**情感落点**，而作者把承认写成了一句状语。台词本身只有五个词——`They’ll still have nightmares,`（他们还是会做噩梦。）——重量全部压在后面这个分词状语上：`in that way that made it clear she had her own`（用那种让人一眼看出她自己也有噩梦的语气）。**`in that way`（用那种语气）把一句关于士兵的判断变成了一句自白**，而 `made it clear`（让人看得清清楚楚）明说这个含义是**被语气逼出来的**——她没有承认，是语气承认的。全章的辩题在这里从「书有没有用」缩成「你怕的是什么」，而她用半句话就答完了。
 
-**读者视角提示**：上一句是 `“They’ll still have nightmares,” Althea said in that way that made it clear she had her own.`（「他们还是会做噩梦。」Althea 用那种语气说，明摆着她自己也有。）——**她先承认自己也在名单里，Viv 才敢接下那个「至少」。**
+**读者视角提示**：Viv 接的那一句是 `“Yes,” Viv agreed. “But at least that’s not all they’ll have.”`（「是的，」Viv 同意。「但至少那不是他们全部拥有的东西。」）——**她先认下噩梦，再给出一个下限**；而全章最轻的那句祝酒词「敬那些微小的胜利」就挂在这个下限上。
 
 ---
 

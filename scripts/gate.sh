@@ -58,3 +58,34 @@ python3 scripts/audit_structure.py "$B" --quiet 2>&1 | tail -2
 
 echo; echo "=== ⑫ check_anchor（关键词锚定）==="
 python3 scripts/check_anchor.py "$B" 2>&1 | grep -E "凭空造词|松散关键词"
+
+echo; echo "=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）==="
+python3 - "$B" <<'PY'
+import glob, re, sys
+book = sys.argv[1]
+bad = 0
+for f in sorted(glob.glob(f"{book}/ch*.md"), key=lambda x: int(re.search(r"ch(\d\d)", x).group(1))):
+    txt = open(f, encoding="utf-8").read()
+    n = f.split("/")[-1]
+    # 每章必备三节：导航 5 项 / 四子项齐全 / 一句话总结有正文
+    # 一句话总结：标题后必须紧跟非空正文（空行也算空）
+    m = re.search(r"^## 一句话总结[ \t]*\n(.*?)(?=\n## |\Z)", txt, re.M | re.S)
+    if not m or not m.group(1).strip():
+        print(f"❌ {n}: ## 一句话总结 有标题无正文（所有门禁都不查这一项）")
+        bad += 1
+    # 本章词汇：三档表头下每档至少一条词条
+    v = re.search(r"^## 本章词汇(.*?)(?=\n## |\Z)", txt, re.M | re.S)
+    if v:
+        tiers = re.split(r"(?m)^### ", v.group(1))[1:]
+        for ti in tiers:
+            rows = [x for x in ti.split("\n") if x.startswith("| ") and "词/短语" not in x and not x.startswith("|---")]
+            if not rows:
+                print(f"❌ {n}: 词表档位「{ti.splitlines()[0].strip()}」只有表头没有词条")
+                bad += 1
+    for k in ("一句话概括", "情感弧线位置", "Tropes 兑现/反转", "人物弧线", "叙事手法"):
+        if not re.search(rf"^\*\*{re.escape(k)}\*\*：\S", txt, re.M):
+            print(f"❌ {n}: 导航缺「{k}」正文")
+            bad += 1
+print(f"=== 空段扫描：{bad} 处 ===")
+sys.exit(2 if bad else 0)
+PY

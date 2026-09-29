@@ -123,7 +123,7 @@ modified: "2026-09-29"
 
 **关键词**：I . . . may have wanted to stack the deck in our favor／I don’t want Taft’s amendment to succeed any more than you do／I know how persuasive they can be
 
-**为什么这样写**：本章的收束，而作者让 Stern **先认账、再免责**。`I . . . may have wanted to stack the deck in our favor`（我……可能想把这副牌往对我们有利的那边发一点）——原文里的省略号留在**他开口之前**，于是这半句在文本里先响了一下，承认也随之延迟；`stack the deck`（把牌往一边堆）是最不伤人的一种"不做手脚"的说法，比`cheat`（作弊）体面得多。后面那句`I don’t want Taft’s amendment to succeed any more than you do`（我和你一样不希望 Taft 的修正案通过）用`any more than you do`（比你不更）把两人的立场**焊成一句**；而`I know how persuasive they can be`（我知道它们有多能说服人）把她那套"来信能说服她"的方法原样还给她，**并承认自己也靠它**。
+**为什么这样写**：本章的收束，而作者让 Stern **先认账、再免责**。`I . . . may have wanted to stack the deck in our favor`（我……可能想把这副牌往对我们有利的那边发一点）——原文里的省略号留在**他开口之前**，于是这半句在文本里先响了一下，承认也随之延迟；`stack the deck`（把牌往一边堆）是最不伤人的一种"不做手脚"的说法，比「作弊」体面得多。后面那句`I don’t want Taft’s amendment to succeed any more than you do`（我和你一样不希望 Taft 的修正案通过）用`any more than you do`（比你不更）把两人的立场**焊成一句**；而`I know how persuasive they can be`（我知道它们有多能说服人）把她那套"来信能说服她"的方法原样还给她，**并承认自己也靠它**。
 
 **读者视角提示**：紧跟的`“Don’t look so surprised.”`（别这么惊讶。）是他说出来的另一半——**他看出来她需要这一句**。
 
@@ -173,4 +173,3 @@ modified: "2026-09-29"
 ## 一句话总结
 
 她带着"再找一个作者"的备份方案走进去，带着一个谁也不许说出口的登陆计划走出来，又带着一份自己都承认`will carry little political weight`（不会有政治分量）的决议和一笔可以随便花的广告费走出来——**她以为自己在替一件事奔走，出去时才知道那个人一直和她站在同一边，而她那些被看不上的努力也一直算数**。
-

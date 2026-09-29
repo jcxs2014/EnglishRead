@@ -13,9 +13,9 @@ modified: "2026-09-29"
 
 **Tropes 兑现/反转**：禁忌恋情原型只推进半步就被她自己的判决拦下——`Althea was a coward`（Althea是个胆小鬼）是定性，`Berlin’s version of Althea James`（柏林的Althea James）是临时造出的替身；同一章里另一种危险走的是相反方向：把复仇推到`a suicide mission`（自杀式行动）。**同一本政治里，一边是不动手的爱，一边是不动手就要死的行动。**
 
-**人物弧线**：Althea从`she was proud of herself for going`（为自己去了而骄傲）走到`So maybe she could be brave`（也许她能勇敢一次）；Hannah从`I don’t blame him, but, yes, I worry.`（我不怪他，但我担心）走到`I think, if I could, I would have a bookshop`（如果可以，我想开一家书店），而这个梦想被她自己用一个词按回原地：`Here.`（就在这里）——**她说出口的地点，正是她此刻唯一还敢要的东西**。
+**人物弧线**：Althea从`she was proud of herself for going`（为自己去了而骄傲）走到`So maybe she could be brave`（也许她能勇敢一次）；Hannah从`I don’t blame him, but, yes, I worry.`（我不怪他，但我担心）走到`I think, if I could, I would have a bookshop`（如果可以，我想开一家书店），而这个梦想被她自己用一个词按回原地：`Here.`（就在这里）——**她说出口的地点，正是她此刻还敢要的那一样东西**。
 
-**叙事手法**：第三人称限知（Althea视角）；前三分之二写聚会这个群体场景（`The meeting went long into the night`），后三分之一切成`Most of the nights, Hannah walked Althea home`（多数夜里，Hannah送Althea回家）的二人夜路；关键信息全靠不说出口传递（`Neither of them mentioned that Adam, as a man, would be far more likely to be executed`），结尾用一次身体接触替代表白。
+**叙事手法**：第三人称限知（Althea视角）；先写聚会这个群体场景（`The meeting went long into the night`），随后整章重心切成`Most of the nights, Hannah walked Althea home`（多数夜里，Hannah送Althea回家）的二人夜路；关键信息全靠不说出口传递（`Neither of them mentioned that Adam, as a man, would be far more likely to be executed`），结尾用一次身体接触替代表白。
 
 ---
 
@@ -51,7 +51,7 @@ modified: "2026-09-29"
 
 **关键词**：a communist with a rebellious spirit／a soul that was built for revolution
 
-**为什么这样写**：这一段是Althea给自己找的免责声明。前面她刚`She tried not to picture him in the square, strapped to a Saint Andrew’s cross with a woman on her knees in front of him.`（她试着不去想象他被绑在广场上的圣安德鲁十字架上，面前跪着一个女人），紧接着就替他定性成a soul that was built for revolution（为革命而造的灵魂）——**理由越充分，判决越拦不住**。三个同位语层层加码，而段末`Althea could tell that after only meeting him twice.`（只见过两面她就敢这么判断）把这份权威戳破：这是印象，不是了解。
+**为什么这样写**：这一段是Althea给自己找的免责声明。前面她刚`She tried not to picture him in the square, strapped to a Saint Andrew’s cross with a woman on her knees in front of him.`（她试着不去想象他被绑在广场上的圣安德鲁十字架上，面前跪着一个女人），紧接着就替他定性成a soul that was built for revolution（为革命而造的灵魂）——**理由越充分，判决越拦不住**。同位语与介词短语层层加码，而段末`Althea could tell that after only meeting him twice.`（只见过两面她就敢这么判断）把这份权威戳破：这是印象，不是了解。
 
 **读者视角提示**：紧接着的一句`You’re worried about him`（你在担心他）是Althea反过来把Hannah的心思当场点破。
 
@@ -99,7 +99,7 @@ modified: "2026-09-29"
 
 **关键词**：if I could, I would have a bookshop／And I would call it that
 
-**为什么这样写**：这句话紧跟在她唱完那首歌之后，歌里唱的是`who curiously wander at first through a thousand wonders,`与`and yet only see the banal in the end.`（起初好奇地游过一千个奇境，到头来只看见平常的东西）。Hannah把一个关于看的歌词翻译成一个关于**卖**的将来时：`if I could`（如果可以）是全章唯一一处她允许自己设想未来的句子；而`And I would call it that`（我就叫它那个名字）里的that指的是刚唱过的那句——书店要用那首歌命名。
+**为什么这样写**：这句话紧跟在她唱完那首歌之后，歌里唱的是`who curiously wander at first through a thousand wonders,`与`and yet only see the banal in the end.`（起初好奇地游过一千个奇境，到头来只看见平常的东西）。Hannah把一个关于看的歌词翻译成一个关于**卖**的将来时：`if I could`（如果可以）是全章她少有地把将来写出口的地方；而`And I would call it that`（我就叫它那个名字）里的that指的是刚唱过的那句——书店要用那首歌命名。
 
 **读者视角提示**：Althea立刻在心里接住了这句：`What were books, what were stories, if not just that?`（如果不是这样，书本、故事又是什么？）
 
@@ -162,7 +162,7 @@ modified: "2026-09-29"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | arm | 手臂（此处指那只覆上来的手落在的地方） | A warm hand settled against her arm. |
-| bookshop | 书店（此处指Hannah唯一允许自己想要的将来） | “I think, if I could, I would have a bookshop,” Hannah said, before Althea could really think through the lyrics. |
+| bookshop | 书店（此处指Hannah只敢在想象里要的将来） | “I think, if I could, I would have a bookshop,” Hannah said, before Althea could really think through the lyrics. |
 | fluke | 侥幸（此处指她怀疑第一部成功只是运气） | What if my first was just a fluke? |
 | knuckles | 指关节（此处指回家路上相碰的那一处） | No conversation topic was too private, too much, too sensitive, and oftentimes they took the long way home, their knuckles brushing, their shoulders pressed together. |
 | novel | 小说（此处指她那本还没写出来的第二部） | She didn’t know in what context she’d place the novel, but she knew that would be its central tenet. |
@@ -172,3 +172,4 @@ modified: "2026-09-29"
 
 ## 一句话总结
 
+怕与骄傲在开篇同一句里成立，而Hannah把自己的未来降成`My future is trying to survive, if anything.`（我的未来，如果还有的话，就是挣扎着活下去）——**Althea最后没有变得不怕，她只是把怕限定成一次，用一句`So maybe she could be brave. Just this once.`（也许她能勇敢一次，就这一次）给自己批下一个例外**。

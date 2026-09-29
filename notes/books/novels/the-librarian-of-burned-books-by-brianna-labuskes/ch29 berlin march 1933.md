@@ -27,7 +27,7 @@ modified: "2026-09-29"
 
 **关键词**：sky blue with little roses painted along the metal／A wicker basket sat at the front／Althea imagined procuring books or flowers
 
-**为什么这样写**：全章的开场定调，两句都是物件描写，而作者在第二句末尾把镜头交给`Althea imagined procuring books or flowers to fill it with`（Althea 想象着弄来书或者花把它装满）——`imagined`（想象）是 POV 的显形词，也是这一整天的题眼：她做的每一件事都在兑现一份**想象中的清单**。`procuring`（弄来）比`buy`（买）重，带一层"为某件正事张罗"的意味，而篮子里要装的这两样东西正好对应她此行的两个身份。
+**为什么这样写**：全章的开场定调，两句都是物件描写，而作者在第二句末尾把镜头交给`Althea imagined procuring books or flowers to fill it with`（Althea 想象着弄来书或者花把它装满）——`imagined`（想象）是 POV 的显形词，也是这一整天的题眼：她做的每一件事都在兑现一份**想象中的清单**。`procuring`（弄来）比「买」重，带一层"为某件正事张罗"的意味，而篮子里要装的这两样东西正好对应她此行的两个身份。
 
 **读者视角提示**：注意这辆车不是 Hannah 骑的那辆—— Hannah 骑的是`the sunny yellow one`（那辆明黄色的）。**颜色是被分配过的**。
 
@@ -99,7 +99,7 @@ modified: "2026-09-29"
 
 **关键词**：She hurried to correct herself／I mean a world where being different was all right／It was good to be different
 
-**为什么这样写**：全书对"自我叙述"最精细的一次**当场返工**。上一句她说的是`a world where I wasn’t different`（一个我并不与众不同的世界），而这一句的第一个动作不是解释，是`She hurried to correct herself`（她赶紧纠正自己）——`hurried`（赶紧）与后面的`hurry to`（急忙做）让这次改动显得像是被抢出来的。改动本身小得刻意：`wasn’t different`（并不不同）换成`being different was all right`（不同是可以的），只把**事实判断改成价值判断**；紧接着的`It was good to be different.`（当个不同的人是好的）又把这句价值判断说了一遍，重复落回`was`这个系动词。
+**为什么这样写**：全书对"自我叙述"最精细的一次**当场返工**。上一句她说的是`a world where I wasn’t different`（一个我并不与众不同的世界），而这一句的第一个动作不是解释，是`She hurried to correct herself`（她赶紧纠正自己）——`hurried`（赶紧）这个副词让这次改动显得像是被抢出来的。改动本身小得刻意：`wasn’t different`（并不不同）换成`being different was all right`（不同是可以的），只把**事实判断改成价值判断**；紧接着的`It was good to be different.`（当个不同的人是好的）又把这句价值判断说了一遍，重复落回`was`这个系动词。
 
 **读者视角提示**：她说这句话的场合很重要——她刚讲完自己`I never really fit in`（我从来都格格不入），而 Hannah 只回了`“That sounds nice,” Hannah said, something encouraging layered beneath the neutral words.`（"听起来不错，"Hannah 说，中性的词底下垫着一点鼓励。）**她不是被反驳之后改口的，是被接住之后才敢说得更好听**。
 
@@ -160,4 +160,3 @@ modified: "2026-09-29"
 ## 一句话总结
 
 她骑着那辆画满小玫瑰的车出门，去听一个她一直知道但从没被人完整说过的事实（`You can’t see it with the Nazis`／在纳粹身上你看不到这一点），回来时怀里揣着一个自己讲出来的龙——**那个龙的结局不是打赢恶龙，是给所有无家可归的人开门**，而她自己就是那个最需要被收留的人。
-

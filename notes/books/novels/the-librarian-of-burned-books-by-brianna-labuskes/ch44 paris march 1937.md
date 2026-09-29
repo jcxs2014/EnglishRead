@@ -162,9 +162,9 @@ modified: "2026-09-29"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | amateur | 外行（此处指她给自己当年的身份下的定义） | “An amateur,” Dev corrected, with a crooked, self-deprecating smile. |
-| cigarette | 香烟（此处指她一根一根处理掉的那些证据） | Again, Dev crushed out her cigarette, and this time Hannah noticed her hands shook. |
+| cold | 冷（此处指她把自己的发抖推给天冷的那一句） | It was the cold. |
 | knife wound | 刀伤（此处指她宁愿挨的那种疼） | If she had been given the choice, she would have taken a knife wound instead of this pain. |
-| lightning flash | 一道闪电（此处指她藏不住的那一瞬惊讶） | It came and went, a lightning flash that Hannah might have missed had she blinked. |
+| name | 名字（此处指全章最后呼出来的那一个） | When she breathed out, it was just a name. |
 | pistol | 手枪（此处指全章这只枪的方向变化） | Hannah’s arm dropped, the pistol pointing to the ground, her limbs no longer obeying her commands. |
 | question hung | 问题悬着（此处指她问出「为什么」之后屋顶上的静止） | The question hung between them, a heavy thing that dragged both of them toward it. |
 | spy | 间谍（此处指 Hannah 说出口的那个判定） | “You’re a spy,” Hannah whispered. |

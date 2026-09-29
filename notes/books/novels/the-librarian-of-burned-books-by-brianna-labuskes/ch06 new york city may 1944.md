@@ -167,6 +167,10 @@ Vendetta。Viv 喜欢这个词，喜欢它画出的那幅画面。
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| head | 脑袋（此处是被问话时低下去的那个动作） | After a long moment in which Viv thought she might not answer at all, the librarian dipped her head. |
+| world | 世界（此处指书能被烧掉的那个世界） | They can be burned halfway across the world, but the words cannot be unread, the stories cannot be untold. |
+| attention | 注意力（此处是她进门后第一件被抓住的东西） | A book across from her caught her attention, and she reached out so she could turn it around and read the title. |
+| woman | 女人（此处是那位始终没有报出姓名的管理员） | Thirty-five?” “Yes.” The woman gestured to the wall closest to them, where a propaganda poster hung. |
 
 ## 一句话总结
 

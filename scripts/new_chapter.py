@@ -28,9 +28,19 @@ book = Path(args[0])
 nn = args[1]
 h1 = args[2]
 nav = args[3:8]
+# ⚠️ 2026-09-29 新增（第 6 个位置参数）：`## 一句话总结` 此前**永远为空**——
+# new_chapter.py 只生成标题骨架、不接受总结正文，调用方无从填写。
+# 实测 ch25/26/27 三章交出空总结且所有门禁全绿（check_vocab 只查「必备章节标题在不在」，
+# 不查内容；check_nav_layer 也不查这一节）⇒ **静默交付空段**。
+# 现为必填位置参数；为空则直接退出码 2，不落文件。
+summary = args[8] if len(args) > 8 and not args[8].startswith("--") else ""
+if not summary.strip():
+    print("❌ 缺 `## 一句话总结` 正文（第 6 个位置参数）——不落文件。\n"
+          "   用法：new_chapter.py <书目录> <NN> '<H1>' '<导航1>'…'<导航5>' '<一句话总结>' …")
+    sys.exit(2)
 quotes = ""
 blocks = ""
-for a in args[8:]:
+for a in args[9:]:
     if a.startswith("--quotes="):
         quotes = a.split("=", 1)[1]
     elif a.startswith("--blocks="):
@@ -64,7 +74,7 @@ for i, blk in enumerate([b for b in blocks.split(";") if b.strip()], 1):
 lines += ["## 本章词汇", "", "### ⭐⭐⭐ 高级", "", "| 词/短语 | 释义 | 例句 |", "|---|---|---|", "",
           "### ⭐⭐ 进阶", "", "| 词/短语 | 释义 | 例句 |", "|---|---|---|", "",
           "### ⭐ 基础", "", "| 词/短语 | 释义 | 例句 |", "|---|---|---|", "",
-          "## 一句话总结", ""]
+          "## 一句话总结", "", summary]
 
 fname.write_text("\n".join(lines) + "\n", encoding="utf-8")
 

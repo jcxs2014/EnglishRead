@@ -15,7 +15,7 @@ modified: "2026-09-29"
 
 **人物弧线**：Hannah从`the curious and practical part of her outweighing the stubborn one`（好奇务实的一面压过倔强的一面）走到`It had to be.`（只能这样）——**她赢了自己一次，随即把这当成一个句号**；Althea在整章里只以三种方式在场：笔迹（`in delicate cursive`）、命令（`Don’t be stubborn.`）和身体（`Hannah’s lips, her breasts, her hips.`）。
 
-**叙事手法**：第三人称限知（Hannah视角，追述口吻）；**全章几乎没有外部场景**——它只写一个房间里的动作链（取出盒子→抽出信→拿起书→放回盒子→准备上班）；真正的对手是读信这个念头本身（`Or it had, for a heartbeat`），而作者用一具身体反应（`the immediate headache`）替她把它解决了。
+**叙事手法**：第三人称限知（Hannah视角，追述口吻）；**全章几乎没有外部场景**——它只写一个住处里的动作链（取出盒子→抽出信→拿起书→放回盒子→准备上班）；真正的对手是读信这个念头本身（`Or it had, for a heartbeat`），而作者用一具身体反应（`the immediate headache`）替她把它解决了。
 
 ---
 
@@ -39,7 +39,7 @@ modified: "2026-09-29"
 
 **关键词**：Important!／Don’t be stubborn.
 
-**为什么这样写**：全章里Althea唯一亲口的两句，而它们被压成一个感叹号加一个祈使句。作者不给引号，因为这是**笔迹**不是对话——上一段的`On the back of the envelope was a message in delicate cursive`（信封背面是一行秀气的花体）交代了它怎么来的。而`Don’t be stubborn`（别倔）这个词在下一段会被长成一个**内心的两个部分**。
+**为什么这样写**：全章Althea亲口的话就是这两句，而它们被压成一个感叹号加一个祈使句。作者不给引号，因为这是**笔迹**不是对话——上一段的`On the back of the envelope was a message in delicate cursive`（信封背面是一行秀气的花体）交代了它怎么来的。而`Don’t be stubborn`（别倔）这个词在下一段会被长成一个**内心的两个部分**。
 
 **读者视角提示**：一个已经出逃的人，用两句话拦住一个还没出逃的人——**这封信的功能不是叙旧，是下指令**。
 
@@ -63,7 +63,7 @@ modified: "2026-09-29"
 
 **关键词**：a little voice niggled at her／the curious and practical part of her outweighing the stubborn one
 
-**为什么这样写**：全章最讲究的一处结构：作者把**一封信的四个字变成一个人的内部政治**。上一段的命令是`Don’t be stubborn`（别倔），这一段把`stubborn`（倔强）变成一个可以被`outweighing`（压过）的部分，而压过它的`the curious and practical part of her`（好奇又务实的那一面）**也是Althea刚警告过的那个人的组成部分**——于是命令没有被执行，而是被**用Althea自己的描述**执行了。
+**为什么这样写**：全章最讲究的一处结构：作者把**信背上的四个字（重要／别倔）变成一个人的内部政治**。上一段的命令是`Don’t be stubborn`（别倔），这一段把`stubborn`（倔强）变成一个可以被`outweighing`（压过）的部分，而压过它的`the curious and practical part of her`（好奇又务实的那一面）**也是Althea刚警告过的那个人的组成部分**——于是命令没有被执行，而是被**用Althea自己的描述**执行了。
 
 **读者视角提示**：`a little voice niggled at her`（有个小小的声音在她耳边唠叨）——作者不给它指定说话的人，**那个声音在这一章里就是Hannah自己**。
 
@@ -87,7 +87,7 @@ modified: "2026-09-29"
 
 **关键词**：neither blind nor oblivious／the woman’s eyes tended to linger in soft, intimate places
 
-**为什么这样写**：全章唯一一次让身体回到叙述里，而它靠**一个降格的动词**完成。前面用的是`had been interested`（有过兴趣），这里忽然变成`tended to linger`（往往会流连）——**时态从完成变成习惯**：那不是一次被看见，而是很多次。末尾三个名词各自独立成句，`the woman’s eyes`换成`Hannah’s lips`、`her breasts`、`her hips`——**代词把主语省掉，眼睛变成了身体清单**。
+**为什么这样写**：全章最具体的一次让身体回到叙述里，而它靠**一个降格的动词**完成。前面用的是`had been interested`（有过兴趣），这里忽然变成`tended to linger`（往往会流连）——**时态从完成变成习惯**：那不是一次被看见，而是很多次。末尾三个名词各自独立成句，`the woman’s eyes`换成`Hannah’s lips`、`her breasts`、`her hips`——**代词把主语省掉，眼睛变成了身体清单**。
 
 **读者视角提示**：这三个部位不展开、不渲染，是**清单而不是描写**；作者靠断句让读者的目光按Althea的顺序往下走。
 
@@ -99,7 +99,7 @@ modified: "2026-09-29"
 
 **关键词**：In the deepest, darkest part of her／might have been able to fall in love with Althea／how she touched books with reverent fingertips
 
-**为什么这样写**：全章唯一一次把`fall in love`（爱上）说出口，而它立刻被三重限定包住：`In the deepest, darkest part of her`（在她内心最深最暗的地方）、`could sometimes admit`（有时会承认）、`might have been able to`（本来也许能够）——**三层退让把一句承认降成假设**，而假设的对象已经走了。后面那份清单把这份假设摊平成一串可数的特征：**她记住的不是感觉，是动作**。
+**为什么这样写**：全章最郑重的一次把`fall in love`（爱上）说出口，而它立刻被三重限定包住：`In the deepest, darkest part of her`（在她内心最深最暗的地方）、`could sometimes admit`（有时会承认）、`might have been able to`（本来也许能够）——**三层退让把一句承认降成假设**，而假设的对象已经走了。后面那份清单把这份假设摊平成一串可数的特征：**她记住的不是感觉，是动作**。
 
 **读者视角提示**：`spoke of language like it was a good friend of hers`（把语言说成一个老朋友那样）——**Althea对书的这套说法是Hannah记了一整章的东西，而她自己的感情只被允许存在一秒**。
 
@@ -123,7 +123,7 @@ modified: "2026-09-29"
 
 **关键词**：There was nothing to be gained from living in the past／for now, it was enough. It had to be.
 
-**为什么这样写**：全章最后三句，用**同一个句型收两次口**。第一句把两种行为（`living in the past`与`wishing for a different future`）并列后判为nothing gained；第二句给出许可证（`for now`／就目前）；第三句立刻把许可证**收紧成命令**：`it was enough`（够了）变成`It had to be.`（必须够）——**从判断变成祈使**。三句各自独立成段，形式上像有人在旁边一句一句下结论。
+**为什么这样写**：全章最后三句，用**同一个句型收两次口**。第一句把两种行为（`living in the past`与`wishing for a different future`）并列后判为nothing gained；第二句给出许可证（`for now`／就目前）；第三句立刻把许可证**收紧成命令**：`it was enough`（够了）变成`It had to be.`（必须够）——**从判断变成祈使**。三句长度依次缩短、句号一个接一个，形式上像有人在旁边一句一句下结论。
 
 **读者视角提示**：`for now`（就目前）是全章最诚实也最危险的词——**它承认现状只是暂时的**。
 
@@ -170,3 +170,4 @@ modified: "2026-09-29"
 
 ## 一句话总结
 
+一封她从不打开的信被压在书下面，而她赢自己那一次（`the curious and practical part of her outweighing the stubborn one`）的结果，只是把盒子塞回`beneath the floorboard`（地板条下面）并对自己说`It had to be.`（只能这样）——**这一章的收束不是原谅，是程序**。

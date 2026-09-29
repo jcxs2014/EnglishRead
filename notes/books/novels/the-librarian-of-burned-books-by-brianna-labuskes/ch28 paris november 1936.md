@@ -39,7 +39,7 @@ modified: "2026-09-29"
 
 **关键词**：the attack on the boulevard Saint-Germain／fish the weapon out of the dark space beneath her floorboards／Never again would she be as defenseless
 
-**为什么这样写**：两句，第二句的`Never again would she be as defenseless`（她再也不会那样毫无防备）后面接一个过去时的比较从句`as she had been on the street`（像她在街上那样），把"曾经"与"再也不会"锁成一组对句。第一句的动词是`fish`（摸出、捞出），不是`take`也不是`get`——**从地板下面**`fish`（捞）**一把枪，笨拙与郑重都是这个动词给的**；而位置是`beneath her floorboards`（地板底下），一处没有上锁的暗格，正是三天前那场无防备的物证。`desperate and pleading for help that just wouldn’t come`（绝望地哀求一个不会来的帮助）把"无助"写成两个并列形容词加一个从不兑现的宾语从句。
+**为什么这样写**：两句，第二句的`Never again would she be as defenseless`（她再也不会那样毫无防备）后面接一个过去时的比较从句`as she had been on the street`（像她在街上那样），把"曾经"与"再也不会"锁成一组对句。第一句的动词是`fish`（摸出、捞出），而不是「取」「拿」这类普通词——**从地板下面**`fish`（捞）**一把枪，笨拙与郑重都是这个动词给的**；而位置是`beneath her floorboards`（地板底下），一处没有上锁的暗格，正是三天前那场无防备的物证。`desperate and pleading for help that just wouldn’t come`（绝望地哀求一个不会来的帮助）把"无助"写成两个并列形容词加一个从不兑现的宾语从句。
 
 **读者视角提示**：注意`the dark space beneath her floorboards`（地板下那块黑乎乎的暗格）——**枪藏在没有光的地方，而这一章重要的东西都藏在暗处**。
 
@@ -161,4 +161,3 @@ modified: "2026-09-29"
 ## 一句话总结
 
 她替 Otto 擦完身体、烧完水、抓不住自己那份`the resentment that had burned bright in her`（烧得通亮的怨气），最后一个人坐进浴缸，把一整套职业信仰换算成一道算术题——**她保住了人，没保住"文字能打赢"这件事**，于是全章收在她自己都不敢承认的那个问句上：`Did bravery actually exist in real life, or was it just for fairy tales?`（勇敢在现实里真的存在吗，还是只存在于童话里？）
-
