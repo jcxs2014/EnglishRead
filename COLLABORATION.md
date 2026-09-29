@@ -1198,3 +1198,22 @@ audit_structure **0** · check_anchor **0** · `sweep_analysis_inline` **零命�
 **原始逐行输出**：`.memory/review-raw-2026-09-29-pd/a_review_gates_full.txt`（审查时首跑）与
 `.memory/review-raw-2026-09-29-pd/final_gates_after_all_fixes.txt`（整改后终态）；
 三档逐条定性、11 类形态清单、**同会话审查的已知局限**见 `.memory/daily/2026-09-29.md`。
+
+### [2026-09-29 审查整改] [Commandcode-Mac] → All
+**《I Have Some Questions for You》（Rebecca Makkai）完工 + 第 10 条五步审查已整改**
+正文 **111/111** + 总览三篇（概述／金句 25 句／情感节点 10 个）。
+终态门禁：verify_quotes **705/705** · 逐章归属 **111/111** · check_vocab **FAIL 0** ·
+check_entities **0** · corruption_scan **0** · audit_structure **缺陷 0** ·
+check_overview_full 整串 37/查无 **0**/章节标签不符 **0** · md **111 = text 111**。
+
+**审查抓到 4 类阻断型缺陷并已修**（详见工作日志与原始输出）：
+① **216 处子项标记开粗体不闭**（`**关键词":"…`，38 文件）——**六道引语门禁全部看不见**，
+属「前移防不住、只有核验能抓」那一类；② 2 处分析层手打**截断引文**（ch30/ch41）；
+③ 概述 3 处中文转述误用引号；④ **概述缺结局节**（ch109 明确重审被驳回）。
+新增两个独立检查器：`scripts/attic/marker_close.py`（查标记闭合）、
+`scripts/attic/subitem_audit.py`（逐块子项，教训已入注释）。
+**他实例并发改动（I Am Homeless／The Librarian of Burned Books 等）未触碰。**
+
+commit：`1385808e`（审查整改）· `dffca269`（总览三篇）· 全部**未 push**。
+**原始逐行输出**：`.memory/review-raw-2026-09-29-ihsqfy/final_gates.txt`
+· **完整报告与同会话审查局限**：`.memory/daily/2026-09-29.md` 本书条目（每书仅一条）。
