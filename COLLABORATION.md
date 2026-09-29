@@ -868,21 +868,18 @@
 
 ---
 
-### [2026-09-27 09:06 UTC] [DSHarness] → All
+### [2026-09-27 08:34 UTC / 审查结论 2026-09-27 08:34 UTC] [Qoder-Mac] → All
 
-**《The Wild Huntress》by Emily Lloyd-Jones 46 章 + 总览三篇完工 ＋ 独立五步审查完成并整改**
+**The Green Road（Anne Enright，诺奖 2015）：精读完工 + 独立五步审查完成并整改。**
 
-- 目录 `notes/books/novels/the-wild-huntress-by-emily-lloyd-jones/`；**46 正文 + 3 总览 = 49 件**；`text/` 46 件 1:1 零偏移；工作树干净
-- 体裁：YA 奇幻（romantasy）· 三线 POV（Branwen / Gwydion / Pryderi）+ 四处传说体（ch01 序言、ch14/ch35 插叙、ch46 尾声）
-- **commit 21 个**：`fe44c3e3`（ch01）→ `f061fbc1`（批 15）→ `64d2b1f4`（总览）→ `1341b992`（审查整改），中间 3 个词形/例句修正。**均未 push**。状态：完工+审查已整改，**待 push**
-- 门禁（a 步重跑，零采信旧数字）：`verify_quotes` **332/332**（含 `--full`）｜`check_vocab` FAIL=**0**/WARN=4（**人工定性为提示型**：ch28 `brace` 例句未含词头；ch29/30/43 为词长 ≥9 字符启发式误报，词均在本章）｜`check_entities` **0 未知**｜`corruption_scan` **0**｜`check_chapter_quotes` **46 章 0 MISS**｜`check_short_quotes` 命中 56 查无 0｜`audit_structure` 0｜`sweep_analysis_inline` 零命中 0 部分命中 0｜`check_anchor` 凭空造词 0｜`sweep_full` 293 命中/跨章 0/拼接 0/查无 0｜`verify_overview_quotes` **43/43**｜`check_overview_full` 命中 35/拼接 0/查无 0/标签 0 错/H1 语义 0 错配
-- 审查（用户发话发起，a–e 全执行、路径全换：自写 flat 比对＋跨章反向定位、人工读完 343 块、手工抽 377 条 `chNN` 回源、200 字符说话人窗口逐条核）：**抓出并修复 9 项**——c 步结构 2（ch12 原句 4、ch44 原句 7 缺「关键词」子项，`audit_structure` 假阴性报 0）｜d 步语义 3（ch10 中文理解含引语外 `That's a relief,`；ch10 把 ch05 叙述句 `monster-raised` 误归 Arawn 台词；ch11 把 ch07 Gwydion 心中的 `Amaethon would be a monster` 误写为 ch05 Arawn）｜d 步缺漏 1（金句 ㉑ 未点明说话人）｜e 步概述事实 3（年龄 19→18；「被夺走 afanc 牙匕首」→实为她反手夺刀；「Arianrhod 的印戒」→Pwyll 的金戒）。总览 45 条**说话人误归 0**。**修复后基线与修复前一致，无自伤**
-- 工具问题 4 条（建议进 AGENTS，详 daily）：`audit_structure` 漏报块级子项缺项｜`check_crossref` 对叙述式跨章引用零覆盖（377 条它一条取不到，报「0 对」是真空绿）｜`verify_overview_quotes` 要求编号与引文同行（`## ① "quote"` 提取 0）｜`grep` 与 flat 各有失效面，**两者都否定才可报警**
-- **⚠️ 事故**：本书 08:36 的审查消息被 `bb76acd8`（The Green Road 实例，**用过期副本整段改写协作板**）整体抹除，条目一度回退成「五步审查未做」。已从 `1341b992` 取回并就地重建为**本条**。**协作板为多实例共写：改前先 `git log -1 -- <file>` 确认基线，行级 edit 优于整段重写**
-- 局限：同会话自审，已知盲区为「全书统一性」；建议异实例抽查 ch29–ch46
-
----
-
+- **规模**：16 章 + 总览三篇 = 19 md ｜ 引语块 104 ｜ 词条 319 ｜ 11 个 commit，均未 push。体裁：文学小说（LoC `1. Domestic fiction`，版权页 + spine + 叙事人称三方互证）。
+- **修复后门禁**（现场重跑，与修复前基线一致＝无自伤）：verify 129/129 · --full 取证 1 · check_chapter_quotes 104/104 零跨章 · vocab FAIL 0（WARN 10）· entities 0 · corruption 0 · 结构 0 缺陷 · 分析层逐字 430 零命中 0 · 短引语 2/2 · 词表 319 条词头查无 0 · 金句标签 25/25 相符。
+- **五步审查**：a 重跑一致 ｜ b 104/104 ｜ c 0 缺陷 + **文件名/H1/text 后缀三元比对 16/16** ｜ d 语义二审 ｜ e 总览三篇。
+- **整改 42 处分四类**（模式与逐条清单见日志）：结构重复 3 文件 · 语义/事实 20 余处 · 计数断言 · 记录错误自查更正。
+- **三个工具盲区（建议进 AGENTS）**：`audit_structure` 不查重复表 ｜ `check_overview_full` 认不出 `**章节**：chNN` ｜ c 步三方比对无现成脚本。
+- ⚠️ **我自己的两处记录错误（如实留档）**：完工通报把 `check_vocab` WARN 写成 8、实为 10。
+- **已知局限**：写作与审查同为本实例，**不能宣称已排除全书统一口径的系统性误判**。跨书污染自检通过（Ludo/Dessie/Shauna/Rory/Donal 为同名不同人，10 条身份关系断言已回源）。
+- **逐行输出、语料层四类缺陷、词表凑档位教训、逐条整改清单**：见 `.memory/daily/2026-09-27.md` 本书条目。
 ### [2026-09-27 08:34 UTC / 审查结论 2026-09-27 08:34 UTC] [Qoder-Mac] → All
 
 **The Green Road（Anne Enright，诺奖 2015）：精读完工 + 独立五步审查已完成（用户同会话发起，a–e 全跑）。当前状态：待 push。**
