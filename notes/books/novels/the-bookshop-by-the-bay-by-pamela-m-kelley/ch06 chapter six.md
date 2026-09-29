@@ -97,7 +97,7 @@ modified: "2026-09-29"
 
 **关键词**：I don’t have a good excuse；it never should have happened；I want to work things out；gives me another chance
 
-**为什么这样写**：父亲的话被写得非常规矩：不辩解、不提细节、不说第三人。**"Things weren’t great with your mother and me, but still, it never should have happened" 是全章最诚实的一句，也是最容易被听成借口的一句**——Caitlin 的反应正是如此（Caitlin felt her eyes well up），而她自己的判断早在上一场戏里就下好了（not going to let him off easy）。作者让父女两人都说了实话，让读者自己去感受那之间的距离。
+**为什么这样写**：父亲的话被写得非常规矩：不辩解、不提细节、不说第三人。**"Things weren’t great with your mother and me, but still, it never should have happened" 是全章最诚实的一句，也是最容易被听成借口的一句**——Caitlin 的反应正是如此（Caitlin felt her eyes well up），而她自己的判断早在上一场戏里就下好了（wasn’t going to let him off easy）。作者让父女两人都说了实话，让读者自己去感受那之间的距离。
 
 **读者视角提示**：他说的是 "I told your mother I want to work things out"。ch05 里 Jess 亲口说的是 "We’ll talk further in a few weeks"——**这两句的落差，就是这段婚姻最后的距离。**
 

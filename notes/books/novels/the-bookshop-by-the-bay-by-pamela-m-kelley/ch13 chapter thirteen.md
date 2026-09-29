@@ -13,7 +13,7 @@ modified: "2026-09-29"
 
 **Tropes 兑现/反转**：兑现「异地/远距离逼婚」。**反转在谈判的结构**：Kyle 说的是 "If you’re serious about us, then we can make this work long-distance"——**他把「她还没准备好结婚」翻译成了「那就先异地」**，于是原本拖着的那个问题被绕过去了。Julia 随即给出的回应是全书最诚实的一句（I don’t want you to go. But it’s not fair for me to ask you to stay）——**她第一次把两件相反的事放在同一口气里说**。
 
-**人物弧线**：Julia 从「还没准备好」走到「我尊重你走」。她的转变不是被说服，而是**自己把决定权交出去**：I have to do what feels right for you and your career。而作者紧跟一句——她有点失望他连本地的工作都没试着找（she was a little disappointed），**却又立刻替他把理由接受下来**。这一节的分量在 ch46 之后。
+**人物弧线**：Julia 从「还没准备好」走到「我尊重你走」。她的转变不是被说服，而是**自己把决定权交出去**：You have to do what feels right for you and your career。而作者紧跟一句——她有点失望他连本地的工作都没试着找（Julia was a little disappointed），**却又立刻替他把理由接受下来**。这一节的分量在 ch46 之后。
 
 **叙事手法**：单 POV（Julia）第三人称限制视角；**两段式**——先是一段看似关于书店的日常对话（实为坏消息的铺垫），然后是坦白；**转折藏在句子的分号后面**；结尾用一处极轻的收束（I have always wanted to visit Nashville）把一场可能的失去写成一次观光。
 

@@ -13,7 +13,7 @@ modified: "2026-09-29"
 
 **Tropes 兑现/反转**：兑现「返乡探亲」与「偶遇熟人」。**反转有三层**：其一，十二岁的 Alison 说「也许我以后会拥有一家书店」，而提出雇人的人是 Ellen Campbell，**店主从没把这句童言当回事**；其二，Caitlin 是三人里最没资格的那个（她从没做过书店、刚被辞退、随时要回查尔斯顿），可她第一个报名；其三，Jess 付钱买下女儿的首份礼物，替她拒绝了现金——**这笔钱同时是母亲在支持女儿的疗伤**。
 
-**人物弧线**：Caitlin 从 ch02 的谷底走到这里，第一次说出那句想要的东西（I'd love to keep busy and do something）。她仍然在和 Julia 比较（a pang of envy and frustration），但**比较的对象已经从「我一无所有」变成「她做到了我爱做的事」**。Jess 在本章几乎不推进自己的事——她做的唯一一件事是付钱。
+**人物弧线**：Caitlin 从 ch02 的谷底走到这里，第一次说出那句想要的东西（I’d love to keep busy and do something）。她仍然在和 Julia 比较（a pang of envy and frustration），但**比较的对象已经从「我一无所有」变成「她做到了我爱做的事」**。Jess 在本章几乎不推进自己的事——她做的唯一一件事是付钱。
 
 **叙事手法**：单 POV（Jess）第三人称限制视角；**双店巡游**（隔壁两家）＋ **长段倒叙**（十二岁那天下午的地板）；回忆由一个空间触发（几乎没人去的后面那个角落），**地点是本章真正的叙事主角**；结尾用一个具体到烦人的问题收尾（怎么解决五英里的交通）。
 
@@ -49,7 +49,7 @@ modified: "2026-09-29"
 
 **关键词**：a final look around；many of them pieces that Julia had actually made；a pang of envy and frustration；so far from figuring out；the last person she would have expected to be this successful
 
-**为什么这样写**：这一段是 Caitlin 全书的心理起点，而作者用**两重意外**把嫉妒撑到最大：一是「有才华就能靠它谋生」这件事本身（make a living from it），二是「偏偏是她想不到的这个人」。**嫉妒的对象不是成功，是「热爱并以此为生」这个组合。** 而 a pang（一阵）这个量词选得很轻——不是翻江倒海，是刺痛一下就过去。紧接着作者写了另一重更闷的痛：即使她做到，她也不确定自己敢不敢（Caitlin couldn't imagine showing up in public with turquoise hair color）。
+**为什么这样写**：这一段是 Caitlin 全书的心理起点，而作者用**两重意外**把嫉妒撑到最大：一是「有才华就能靠它谋生」这件事本身（make a living from it），二是「偏偏是她想不到的这个人」。**嫉妒的对象不是成功，是「热爱并以此为生」这个组合。** 而 a pang（一阵）这个量词选得很轻——不是翻江倒海，是刺痛一下就过去。紧接着作者写了另一重更闷的痛：即使她做到，她也不确定自己敢不敢（Caitlin couldn’t imagine showing up in public with turquoise hair color）。
 
 **读者视角提示**：这一段的两层嫉妒会分别生长——一层在 ch10 之后关于工作，一层在 ch46 之后关于人。
 

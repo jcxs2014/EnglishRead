@@ -61,7 +61,7 @@ modified: "2026-09-29"
 
 **关键词**：I’ll be there all day；dropped off some brownies and cake slices；wanted to give you a quick call；Do you have plans tonight；Kyle’s gone, right
 
-**为什么这样写**：**这通电话是全书母女之间最省力的一次沟通，而它被安排在 Julia 洗澡前的那一刻。** 请注意母亲的说法：她先说自己一整天都在、刚送完货、**then wanted to give you a quick call**——理由是顺路，不是想念。而最后那句「Kyle 走了对吧」是**全章唯一一次有人替她把这件事说出来**，而 Julia 答得极短。**这对母女之间最不缺的就是信息，最缺的是互相提问。** 三个问句全在排日程，一个都没问对方怎么样。
+**为什么这样写**：**这通电话是全书母女之间最省力的一次沟通，而它被安排在 Julia 洗澡前的那一刻。** 请注意母亲的说法：她先说自己一整天都在、刚送完货、**but wanted to give you a quick call**——理由是顺路，不是想念。而最后那句「Kyle 走了对吧」是**全章唯一一次有人替她把这件事说出来**，而 Julia 答得极短。**这对母女之间最不缺的就是信息，最缺的是互相提问。** 三个问句全在排日程，一个都没问对方怎么样。
 
 **读者视角提示**：请注意这一章的邀请是被接受得最快的：一句 Sure, I’ll go。
 
