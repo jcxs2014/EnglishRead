@@ -19,7 +19,7 @@ modified: "2026-09-29"
 
 **中文理解**：你不在乎，是因为你不必在乎，Shimmy。你活在一个漂亮的、安全的泡泡里，而这个世道说我不属于那里。
 **关键词**：beautiful safe bubble / the world says I don’t belong there
-**为什么这样写**：漂亮与安全两个形容词先把那个世界夸一遍，紧接着的 doesn’t belong 才落地——她攻击的不是一个男孩，是他住的那整个地方。句子分成两半，前半句还在替他开脱，后半句才把账摊开。
+**为什么这样写**：漂亮与安全两个形容词先把那个世界夸一遍，紧接着那句 I don’t belong there 才落地——她攻击的不是一个男孩，是他住的那整个地方。句子分成两半，前半句还在替他开脱，后半句才把账摊开。
 **读者视角提示**：第 11 章那次 downtown 之旅是她这笔账的来处：姑姑替她付了出门的代价，回来她却在公交车上学到了「尊严是要争的」。这一句是那堂课的结业发言。
 
 > **原句 2:** "So, we are taking our cues from the world now? What about how we feel about each other? It shouldn’t matter what anyone thinks."
