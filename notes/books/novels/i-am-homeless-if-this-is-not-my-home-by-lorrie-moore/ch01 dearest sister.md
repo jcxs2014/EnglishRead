@@ -53,7 +53,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：一个三层比喻：先说"淡了再补"（这镇子被历史遗忘却还在往回抹脂粉），再用一个嗅觉笑话把比喻掀翻。既写出停滞感，也写出叙述者的刻薄——两件事在同一句里完成。
 
-**读者视角提示**：`cidered urine` 是本节最粗粝的一笔，却被放在笑的位置上；Moore 让粗话承担判断，而不是承担情绪。
+**读者视角提示**：`cidered urine` 是本节最粗粝的一笔，却被放在笑的位置上；摩尔让粗话承担判断，而不是承担情绪。
 
 > **原句 5:** People don’t think I know who they are. But as mistress of this house I sometimes have a lead on things.
 
