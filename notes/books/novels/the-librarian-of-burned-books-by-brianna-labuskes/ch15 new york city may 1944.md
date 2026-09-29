@@ -9,7 +9,7 @@ modified: "2026-09-29"
 
 **一句话概括**：Viv在Emmett Hale办公室门外踱了太久，进门后用一句`The most dangerous thing about knowing someone well was that you knew how to hurt them`（最危险的是你很了解一个人，于是你也知道怎么伤他）换来他一句`I’m an ass, I’m sorry`（我是个混蛋，对不起）；他承认自己曾为军版书争过（`I tried to convince some of my colleagues to take the language out`），随后两人交换了一本书的名字、握了一次没有火花的手，最终以`people love a good story`（人们喜欢一个好故事）收场。
 
-**情感弧线位置**：回升段。上一章她刚拿到`A guardian`（守护者）的自我认知与`vendetta`（血仇）的叙事策略，本章她第一次拿这套东西去换**一个具体的人的帮助**；转折点是Hale那句道歉——她预期的是`You don’t get to tell me that.`（你没资格这么对我说）式反击，得到的却是认错。全章的净变化是他从`I’m not an idiot`（我可不傻）走到`I’ll try`（我会去试）。
+**情感弧线位置**：回升段。布鲁克林那趟之后她拿到了`A guardian`（守护者）的自我认知与`vendetta`（血仇）的叙事策略（那一段在 ch06，中间隔了纽约线的几章），本章她第一次拿这套东西去换**一个具体的人的帮助**；转折点是Hale那句道歉——她预期的是`You don’t get to tell me that.`（你没资格这么对我说）式反击，得到的却是认错。全章的净变化是他从`I’m not an idiot`（我可不傻）走到`I’ll try`（我会去试）。
 
 **Tropes 兑现/反转**：重逢/旧情原型在本章被**双重兑现又双重撤回**：先是`a man of the people`（一个来自人民的人）式的政治人设与其实德的并存，随后是`Even the ghosts of those butterflies exorcised`（连那些蝴蝶的鬼影都被驱散了）把生理层面的旧情一次清空。留下的不是火花，而是一句`Why did you and Edward marry?`（你当初为什么和Edward结婚？）——**用一句没问出口的话代替一次表白**。
 

@@ -9,7 +9,7 @@ modified: "2026-09-29"
 
 **一句话概括**：Deveraux Charles把Althea从Helene Bechstein家接上一辆私人轿车，带进Marburger Strasse上那间`Chez Ma Belle Soeur`卡巴莱——一屋子漂亮人、一支拿元首画像开玩笑的乐队、一个已被SA占作总部的`Eldorado`，以及她第一次以`Deviants`（异端）这个词扫描人群、又在句中写下`The first rule of the Reich is, don’t question the Reich.`（第三帝国的第一条规矩是：不要质疑第三帝国）；一小时后她见到了Otto Koch与Hannah Brecht。
 
-**情感弧线位置**：这一章是Althea线的最低点之前的一次**下坠前的加速**。上一章她还在圣诞集市上被人叫作书之友，本章她已经坐进`a gilded cage`（一只镀金的笼子）；而`Your handler.`（你的上线）两次独立成段，把她从客人降格成资产。
+**情感弧线位置**：这一章是Althea线的最低点之前的一次**下坠前的加速**。Althea 线上一次被人当众叫作书之友（Bücherfreund）还是冬日市集那一场（ch03，ch07 里还回指过），本章她已经坐进`a gilded cage`（一只镀金的笼子）；而`Your handler.`（你的上线）两次独立成段，把她从客人降格成资产。
 
 **Tropes 兑现/反转**：玩伴/导师原型被拆成两半：一半是Deveraux的`the favored pet`（被宠的那一个）——用玩笑交付限制；另一半是Diedrich的`The first rule of the Reich`（第三帝国的第一条规矩）——用训诫交付沉默。而`gilded cage`（镀金的笼子）一词同时说清了两者的关系：**笼子是金色的，因为给钥匙的人也坐在里面**。
 

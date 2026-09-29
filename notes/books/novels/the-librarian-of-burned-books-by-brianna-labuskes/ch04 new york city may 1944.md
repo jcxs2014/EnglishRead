@@ -9,7 +9,7 @@ modified: "2026-09-29"
 
 **一句话概括**：Taft 那顿午饭之后，Viv 在 White Horse Tavern 里对着 Harrison Gardiner 承认自己一事无成，被他用"这是全书最绝望的一刻"（`the all-is-lost moment`）的比喻拉回场子里，然后拿到一个布鲁克林地址——美国被纳粹禁书图书馆。
 
-**情感弧线位置**：全章是一次"从谷底反弹"，与上一章的谷底直接相接。上一章她输给了 Taft，本章她输给了自己——而这一次的输可以被语言修辞重新包装（`all-is-lost` 后面还有 `rising action`），于是反弹成立。**转折点由一句比喻给出，不由情节给出**。
+**情感弧线位置**：全章是一次"从谷底反弹"，与 Viv 线上上一章（ch02）的谷底直接相接。那里她输给了 Taft，本章她输给了自己——而这一次的输可以被语言修辞重新包装（`all-is-lost` 后面还有 `rising action`），于是反弹成立。**转折点由一句比喻给出，不由情节给出**。
 
 **Tropes 兑现/反转**：酒吧疗伤＋"我们不在书里"的推诿被反转——Harrison 用小说的三幕结构否定了这句推诿：不是"生活不是书"，而是"就算生活不是书，你也还没走到结局"。战时女性职员在男性主导的机构里独力推进的结构性困境，靠一次真诚的男性倾听化解了一半。
 
@@ -27,7 +27,7 @@ modified: "2026-09-29"
 
 **关键词**：Viv’s femme fatale outfit / had wilted / alongside her confidence / thoroughly stamped out
 
-**为什么这样写**：开篇一句把上一章的装备与失败捆在一起处理。`wilted`（蔫了）这个动词把"衣服"从道具变成一个状态的显示器：**它不是被脱下来的，是自己塌下去的**。而 `thoroughly stamped out`（被彻底盖灭／碾碎）——`stamped out`（扑灭）本是对付火与虫害的词，用在"自信"上，让上一章那场对峙的火有了字面上的延续。
+**为什么这样写**：开篇一句把 Viv 线上上一章（ch02）的装备与失败捆在一起处理。`wilted`（蔫了）这个动词把"衣服"从道具变成一个状态的显示器：**它不是被脱下来的，是自己塌下去的**。而 `thoroughly stamped out`（被彻底盖灭／碾碎）——`stamped out`（扑灭）本是对付火与虫害的词，用在"自信"上，让 Viv 线上上一章（ch02）那场对峙的火有了字面上的延续。
 
 **读者视角提示**：三个分词／被动结构（`wilted` / `alongside` / `stamped out`）串起一句话，节奏与人物状态一致地往下坠——这一句本身就是一次小型的节奏实验。
 
@@ -143,9 +143,9 @@ modified: "2026-09-29"
 
 **关键词**：Weak tendrils of hope bloomed from the ash of her defeat / ran a fingertip over the words / The American Library of Nazi-Banned Books
 
-**为什么这样写**：结尾三句是一处完整的镜头调度。`Weak tendrils of hope`（孱弱的希望）——`tendrils`（卷须）把希望写成植物触手，`Weak`（孱弱的）先给它判了刑；而 `bloomed from the ash of her defeat`（从败局的灰烬里开出来）——`ash`（灰烬）回收了上一章 `stamped out`（被扑灭）的火。`ran a fingertip over the words`（用指尖抚过那几个字）——手指的触觉再次出现（在牛排馆是手腕撞桌沿）。最后一句独立成段，只有一个专名：**叙述者不解释它，读者却立刻明白这是全书第二条主线**。
+**为什么这样写**：结尾三句是一处完整的镜头调度。`Weak tendrils of hope`（孱弱的希望）——`tendrils`（卷须）把希望写成植物触手，`Weak`（孱弱的）先给它判了刑；而 `bloomed from the ash of her defeat`（从败局的灰烬里开出来）——`ash`（灰烬）回收了本章开头 `thoroughly stamped out`（被碾碎）那句里的火。`ran a fingertip over the words`（用指尖抚过那几个字）——手指的触觉再次出现（在牛排馆是手腕撞桌沿）。最后一句独立成段，只有一个专名：**叙述者不解释它，读者却立刻明白这是全书第二条主线**。
 
-**读者视角提示**：`Weak`（孱弱的）与下一章真正走进那座图书馆时的实感形成落差——作者故意不给这一缕希望任何强度。
+**读者视角提示**：`Weak`（孱弱的）与 Viv 线上下一章（ch06）真正走进那座图书馆时的实感形成落差——作者故意不给这一缕希望任何强度。
 
 ---
 

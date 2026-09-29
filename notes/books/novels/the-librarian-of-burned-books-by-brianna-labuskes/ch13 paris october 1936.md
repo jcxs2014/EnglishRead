@@ -9,7 +9,7 @@ modified: "2026-09-29"
 
 **一句话概括**：骑车的裤脚还沾着泥点的Hannah去赴Natalie Clifford Barney的周五沙龙，被一句`You have a broken heart`（你有一颗破碎的心）推进一场关于`kintsugi`（金缮）的辩论，她当场判定自己填不起那道金缝，随后在公寓里收到两封信——哥哥还活着——最后落到一句`Under the Third Reich, hope only existed as a weapon`（在第三帝国之下，希望只以武器的形态存在）。
 
-**情感弧线位置**：不上不下的一段。上一章她刚跌到`steadfastly avoiding`（一贯回避）爱情话题，本章她被同一话题正面撞上并差点让步；结尾那句`hope only existed as a weapon`（希望只以武器的形态存在）又把门关回去——她能被打动，但不动摇。
+**情感弧线位置**：不上不下的一段。开篇她刚在`steadfastly avoiding`（一贯回避）爱情话题——这句在 Hannah 线上是头一次；本章她被同一话题正面撞上并差点让步；结尾那句`hope only existed as a weapon`（希望只以武器的形态存在）又把门关回去——她能被打动，但不动摇。
 
 **Tropes 兑现/反转**：名流导师原型在本章被拆成两半：Natalie先递上一个现成的比喻（`kintsugi`／金缮），Hannah用`would be false and fragile`（会是假而脆的）当场推倒；Natalie随即改谈功能而不谈比喻（`to exist solely to save a culture from burning to the ground`），这一问Hannah让了步。同一场对话里，赢的是道理，输的是立场。
 

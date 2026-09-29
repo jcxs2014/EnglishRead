@@ -9,7 +9,7 @@ modified: "2026-09-29"
 
 **一句话概括**：Viv 坐地铁去 Coney Island，把十六岁那个夏天重新打开一遍：栈桥下偷来的那个吻、街角临时开打的一场棒球、没有回音的那些信、每一封都以同一句话收尾的书件（`I miss you every day, every hour, every minute`）；回忆结束时她把箱子重新锁上（`There was no place for sentimentality`），转身走进下一个要去办 Hale 的下午。
 
-**情感弧线位置**：低谷之后的重新武装。这一章几乎全是过去式，少数几处将来时全落在她想象 Hale 现在的样子那几段（`He’d be nearly thirty, and those faults would have disappeared`）；情绪的落点是最后那句 `There was no place for sentimentality.`——**她把感伤清零，是为了能走进下一章要做的那件事**。
+**情感弧线位置**：低谷之后的重新武装。这一章几乎全是过去式，少数几处将来时全落在她想象 Hale 现在的样子那几段（`He’d be nearly thirty, and those faults would have disappeared`）；情绪的落点是最后那句 `There was no place for sentimentality.`——**她把感伤清零，是为了能走进 Viv 线上下一章（ch15）要做的那件事——推开 Emmett Hale 办公室的门**。
 
 **Tropes 兑现/反转**：两个。其一，「十六岁的初恋」被反转成**一次不对等的通信**——她写了那么多信，收到的全部是沉默（`dead silence`），而「他从未回过一封」这件事在本章被写成一个结构，不是一个遗憾。其二，「一见钟情」的经典场面被拆成两个男孩的对照：一个那天吐在她的鞋上，另一个那天在防波堤下讲自己的身世（`Given her a name and a job and a life`）——**浪漫落在一个肯讲出自己来历的人身上，不落在一个先开口的人身上**。
 

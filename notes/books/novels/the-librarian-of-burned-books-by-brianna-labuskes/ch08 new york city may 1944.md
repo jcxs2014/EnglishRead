@@ -11,7 +11,7 @@ modified: "2026-09-29"
 
 **情感弧线位置**：升温之后的第一记刹车。她带着答案回来，却在同一个下午被告知最难的一关在她还没动手的地方；情绪的落点不是胜利，而是 She thought of butterflies and the silence that followed（她想起蝴蝶，和随后那段沉默）——**作者只给这个意象，不交代它指的是哪一次对话**。
 
-**Tropes 兑现/反转**：本章把上一章拿到的叙事策略兑现成一个可执行的日程：End of July.（七月底）；而兑现与反转发生在同一段——Every good story needs a villain（每个好故事都需要一个反派）由 Viv 自己说出，作者却紧接着让她承认这个反派 that he wasn’t（并不是他本来的样子），**造神的动作与拆台的自觉被写在同一页里**。
+**Tropes 兑现/反转**：本章把 Viv 线上上一章（ch06）拿到的叙事策略兑现成一个可执行的日程：End of July.（七月底）；而兑现与反转发生在同一段——Every good story needs a villain（每个好故事都需要一个反派）由 Viv 自己说出，作者却紧接着让她承认这个反派 that he wasn’t（并不是他本来的样子），**造神的动作与拆台的自觉被写在同一页里**。
 
 **人物弧线**：Viv 从「会演戏的人」变成「知道自己也在演戏的人」：if you faked confidence well enough, other people would start believing you knew what you were doing（只要你把自信装得够像，别人就会开始相信你清楚自己在干什么）被她当成全章的行动纲领；Mr. Stern 则从 He was teetering, clearly, but not convinced yet（他明显在动摇，但还没被说服）走到把信折好塞进外套内袋——**动作先于表态**。
 
@@ -75,7 +75,7 @@ modified: "2026-09-29"
 
 **关键词**：Every good story needs a villain / has offered himself up on a silver platter
 
-**为什么这样写**：上一章那个抽象的叙事策略，在这里被压成一句可以当场执行的戏剧指令。`offered himself up`（把自己献上来）用被动语态取消责任——**是他自己走上去的**；`on a silver platter`（端在银盘上）把献祭写成服务员上菜的动作，一个用得有些生硬的陈词滥调被故意放在公务语言旁边。
+**为什么这样写**：Viv 线上上一章（ch06）那个抽象的叙事策略，在这里被压成一句可以当场执行的戏剧指令。`offered himself up`（把自己献上来）用被动语态取消责任——**是他自己走上去的**；`on a silver platter`（端在银盘上）把献祭写成服务员上菜的动作，一个用得有些生硬的陈词滥调被故意放在公务语言旁边。
 
 **读者视角提示**：紧跟其后的那句承认他只是被她 painting（描画）出来的，会让这句宣言当场打折——造神和拆台写在同一段里。
 
