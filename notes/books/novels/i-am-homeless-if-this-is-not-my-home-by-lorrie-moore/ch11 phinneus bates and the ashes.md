@@ -7,9 +7,9 @@ modified: "2026-09-29"
 
 ## 本章导航
 
-- **一句话概括**：书信线的最后一封：一位赶着马车来认领尸体的律师 Phinneus Bates 出现了，说外面的人以为 Jack 是某个人物；她用蜂蜜、艾草油与波本把尸体处理过，然后连人带床单和地毯一起把人换成了欠的房租，最后在附言里交代：今年一月她把姐姐的骨灰撒在了结冰的台阶上。
+- **一句话概括**：书信线的最后一封：一位赶着马车来认领尸体的律师 Phinneus Bates 出现了，说外面的人以为 Jack 是某个人物；她用蜂蜜、艾草油与波本把尸体处理过，然后连人带床单和地毯一起把人换成了欠的房租，最后在附言里交代：今年一月她把姊妹的骨灰撒在了结冰的台阶上。
 - **情感弧线位置**：书信线的**结算**。ch07 是动手，本节是善后与自陈；她从头到尾没有一句悔，唯一的柔软全部给了那封信的收件人——而那封信的骨灰已经成了她撒台阶的那把灰。
-- **本节在双线中的位置**：奇数节的第六封，也是两条线的最终并置：书信线在这里结束（落款"Your loving"），当代线在 ch12 结束；而她写下"用于让房客走路安全的骨灰"与 ch12 里 Finn 把它留在自己书桌上读、买了信封却一直忘记寄还，正好是同一件物品的两种处理。
+- **本节在双线中的位置**：奇数节的第六封，也是两条线的最终并置：书信线在这里结束（落款"Your loving"），当代线在 ch12 结束；而她写下"用于让房客走路安全的骨灰"与 ch12 里那叠信始终没有寄回、只被一次次想起来，正好是同一种处理方式的两面。
 - **人物弧线**：Miss Libby 从"刚杀完人睡不着的人"彻底回到生意人的位置（"这是生意"），同时第一次对着一件真事发问——"你和我之间那阵短促的仇恨究竟是什么？"；这封信因此不是招供，而是**遗书的反面**：她把该交代的事务全部办完。
 - **叙事手法**：书信体；全节用一场"交易"把谋杀、殡葬与战后传说（红头发、Jesse James、石墙杰克逊的手臂）搅在一起，而最重的一句被放进括号里的附言——摩尔让人把最真的话写在最不起眼的位置。
 
@@ -41,7 +41,7 @@ modified: "2026-09-29"
 
 **关键词**：whatever was that long ago hatred
 
-**为什么这样写**：这是全书六封信里她第一次向写信对象提问，而且是关于**她们两个人之间**的事。整封信她都在清点别人的事（律师、房客、牧师、亡夫、那块地毯），唯独这句把算盘拨回自己身上。
+**为什么这样写**：这是全书六封信里她第一次拿**你们两个人之间**的旧账发问（ch05 那封虽然也向收信人提问，问的却是"你要不要跟我换位置"）。整封信她都在清点别人的事（律师、房客、牧师、那块地毯），唯独这句把算盘拨回自己身上。
 
 **读者视角提示**：紧跟着的回答是她自己给出的："那像是一场不肯散去的误会，以无耻对上嫉妒和评判"——她连解释都写成了病情报告。
 
@@ -73,7 +73,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：全书最重的一句被塞进"Ps:"里，而且是写在一封讲杀人善后的信末尾。摩尔让最锋利的东西待在最不起眼的位置；"被派上好用"这个说法把骨灰降成一味药，也把姊妹关系降成一桩可以通融的买卖。
 
-**读者视角提示**：这是六封信的**唯一一次**用第三人称称呼收信人（"你不会介意"）——她此前一直以第二人称直接对读者说话。
+**读者视角提示**：这是六封信里唯一一次把骨灰的去处写成**已发生的事**（"我用了你的骨灰"）——此前六封她谈的全是以后的事：等你写回信、等你告诉我会不会换位置。
 
 ## 本章词汇
 
@@ -91,7 +91,6 @@ modified: "2026-09-29"
 | intermittent | 时断时续的 | I look forward to the parlor trick of his intermittent consolation. |
 | shamelessness | 无耻 | It was a shamelessness that was countered with envy and judgment. |
 | dislocation | 错位 | It produced shrinkage and dislocation, and soon we had turned our ankles and then our eyes. |
-| disappeared | 消失了 | Nor his mean, lying crystal ball when he said, “The poor will always be with us” because there are many poor people that have completely disappeared. |
 
 ### ⭐⭐ 进阶
 
@@ -113,6 +112,7 @@ modified: "2026-09-29"
 | divinity | 神性 | I need to be adjacent to some divinity, to catch it a little without its being warranted. |
 | windless | 无风的 | On a windless night I hear your voice— lord I do. |
 | boarders | 寄膳客 | Ps: I used your ashes this past January outside on the icy stairs for the safe walking of the boarders. |
+| disappeared | 消失了 | Nor his mean, lying crystal ball when he said, “The poor will always be with us” because there are many poor people that have completely disappeared. |
 
 ### ⭐ 基础
 

@@ -7,9 +7,9 @@ modified: "2026-09-29"
 
 ## 本章导航
 
-- **一句话概括**：过了一天一夜，他们停在田纳西州泰勒镇一座叫 The Jumping Rest 的旧客栈；Finn 把 Lily 抱进浴室洗掉她身上正在腐坏的气味，而夜里他在书架上翻到一本装订好的女性手札——通篇是写给姐姐的信，写了近一年，从未寄出。
+- **一句话概括**：过了一天一夜，他们停在泰勒镇一座叫 The Jumping Rest 的旧客栈（原文对州名是 Kentucky or was it Tennessee 的对冲，此处不作定论）；Finn 把 Lily 抱进浴室洗掉她身上正在腐坏的气味，而夜里他在书架上翻到一本装订好的女性手札——通篇是写给姊妹的信，写了近一年，从未寄出。
 - **情感弧线位置**：当代线的**最低点与唯一一次安静**——ch02 末的重逢、ch04 的斗嘴之后，本节第一次让他们在同一张床上、在同一盆热水里停下来；这份安静越结实，末页那行被读出来的信就越冷。
-- **本节在双线中的位置**：全书两条线真正接合的一节。地点就在"Garrison Turnpike 与 South Sunken Road 的路口"——南孙肯路是 ch01 那位莉比小姐 住的街；而末页读出的那句手札，正是奇数节六封信的同一副笔迹。全书书名也在本节由 Lily 的台词给出："Here with you? This is my home."
+- **本节在双线中的位置**：全书两条线真正接合的一节。地点就在"Garrison Turnpike 与 South Sunken Road 的路口"——南孙肯路是 ch01 那位莉比小姐住的街；而末页读出的那句手札，读者由此推断正是奇数节六封信的同一副笔迹——原文始终没有说破。全书书名也在本节由 Lily 的台词给出："Here with you? This is my home."
 - **人物弧线**：Finn 从"想替她把一切收拾干净的人"退成"守着她洗澡、替她挑掉肩上正在脱落的皮的人"；Lily 从表演死者转成真正需要人帮忙的状态——她唯一想要的东西是她常说却没做到的"能用歌唱入睡"。
 - **叙事手法**：第三人称限知贴 Finn；本节以一连串近乎临床的身体描写（腐味、皮肤脱落、水里的褐色薄膜）把恐怖推到极限，再用她一句"我是一条鱼"和一句"这里才是我的家"把恐怖撤掉；末页用一个不署名、不加标签的引文 abrupt 地结束。
 
@@ -23,7 +23,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：全书最关键的一次空间叠合就写在这样一句报地址的台词里——当代的高速公路与书信线的街名在同一个路口相交。摩尔从不点破"两条时间线"这件事，她只是让一个地名被读出来两次。
 
-**读者视角提示**：南孙肯路（South Sunken Road）是 ch01 那位莉比小姐 住的那条街；同一条街在两百年后仍然通着车。
+**读者视角提示**：南孙肯路（South Sunken Road）是 ch01 那位莉比小姐住的那条街；同一条街在两百年后仍然通着车。
 
 > **原句 2:** “You have the mixed bouquet of jasmine, tobacco, dried apple blossoms, plus rose, lilac, and raisin. Some tannins. There are always tannins.”
 
@@ -33,7 +33,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：她用自己的身体做了一整套葡萄酒品鉴——前调、中调、余味、单宁——把正在腐败这件事说成了一款需要品评的酒。恐怖与玩笑在她嘴里是同一个动作，摩尔全书的反讽都长这样。
 
-**读者视角提示**：紧接着他还了一句"我正打算在这条路上给你列一整张单子"，两人一开口就把这个比喻推得更远：她开始报"余味里有土腥味、橡木味、一点麦片味"。
+**读者视角提示**：是**她自己接着往下报的**——"余味里有土腥味、橡木味、一点麦片味"；这句之后他才在心里盘算，说自己能在这条路上列一整张单子。两人一开口就把这个比喻推得更远。
 
 > **原句 3:** “And yet?” she said. “Here with you? This is my home.”
 
@@ -57,7 +57,7 @@ modified: "2026-09-29"
 
 > **原句 5:** Inside was a woman’s journal all handwritten in the form of letters. He flipped through and saw that they went on for some time, almost a year, and that they were written to a particular person, a sister, but obviously never mailed.
 
-里面是一本女性的手札，全部手写成书信的样式。他翻了翻，看到它们写了相当长一段时间，将近一年，是写给某个特定的人——一个姐姐——但显然从未寄出过。
+里面是一本女性的手札，全部手写成书信的样式。他翻了翻，看到它们写了相当长一段时间，将近一年，是写给某个特定的人——一位姊妹——但显然从未寄出过。
 
 **关键词**：handwritten in the form of letters / obviously never mailed
 
@@ -77,8 +77,7 @@ modified: "2026-09-29"
 
 ## 本章词汇
 
-### ⭐⭐⭐
-
+### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | shantytowns | 棚户区 | Along shantytowns of billboards and aerosolized frying oil when they passed a truck stop or a Dunkin’ Donuts. |
