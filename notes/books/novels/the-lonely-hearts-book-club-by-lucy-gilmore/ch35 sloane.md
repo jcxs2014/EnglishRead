@@ -97,7 +97,7 @@ modified: "2026-09-29"
 
 **中文理解**：奈杰尔的反应。
 
-**关键词**：“Oh dear.+2
+**关键词**：“Oh dear. This isn’t good. This isn’t good at all.”
 
 **为什么这样写**：全章唯一一次他完全没装。而作者让他把一句话说了三遍，一遍比一遍短，而最后一遍加了两个字——这是全书他唯一一次真的慌。
 
@@ -109,7 +109,7 @@ modified: "2026-09-29"
 
 **中文理解**：她最痛的一问。
 
-**关键词**：After everything we’d been through, all the breakthroughs we made together, this was how it ended?+1
+**关键词**：After everything we’d been through, all the breakthroughs we made together, this was how it ended? With me kicked out of my own book club, cut out as easily as Octavia had removed me from the library?
 
 **为什么这样写**：全章最重要的一次落差，而它用两个 already（已经）串起来：她被自己的读书会踢出去，就像她当初被图书馆开除一样。作者让全书最伤人的巧合由她本人说出来。
 
@@ -133,7 +133,7 @@ modified: "2026-09-29"
 
 **中文理解**：她的原则。
 
-**关键词**：They come running.+1
+**关键词**：They come running. They care.” I glanced around at the shocked faces of my so-called friends and started to sag.
 
 **为什么这样写**：全章最短也最重要的两个短句，而它们是并列的祈使句。作者让她在三十五章的末尾把整本书的经验收成两个动词：跑过来，在乎。
 
@@ -145,7 +145,7 @@ modified: "2026-09-29"
 
 **中文理解**：她真正的指控。
 
-**关键词**：“But you don’t need me, do you?+1
+**关键词**：“But you don’t need me, do you? You called everyone to your bedside except me.”
 
 **为什么这样写**：全章最难听也最准确的一句质问，而它的后半句是可验证的事实。作者让她在最难过的时刻给出可查证的证据——而这个证据本身就说明她来晚了。
 
@@ -205,7 +205,7 @@ modified: "2026-09-29"
 
 **中文理解**：她摊牌。
 
-**关键词**：“I’ve seen the books around your house, Arthur.+3
+**关键词**：“I’ve seen the books around your house, Arthur. All of them. I know what they mean. I know what they’re trying to say.”
 
 **为什么这样写**：全章最重要的一次指控，而它的形式是四句递减。作者让她把第三十一章那个方案用一句话说完——而她说完之后自己都不知道那是全场最重的一句。
 
@@ -265,7 +265,7 @@ modified: "2026-09-29"
 
 **中文理解**：书的交付。
 
-**关键词**：“This will have to be enough.+2
+**关键词**：“This will have to be enough. And if it isn’t…well. After an outburst like that, I think she’s going to be okay no matter what.”
 
 **为什么这样写**：全章最短的一句交割，而作者用了 be（只能是）这个词。这个词是她的整个困境：划线不完整，橙色的部分也不完整。
 
@@ -277,7 +277,7 @@ modified: "2026-09-29"
 
 **中文理解**：奈杰尔的最后一句规劝。
 
-**关键词**：“Stay, Sloane.+1
+**关键词**：“Stay, Sloane. Don’t marry the man that none of these people seem to like.
 
 **为什么这样写**：全章最短也最重的一句，而它来自那个最没有资格说这句话的人。作者让全书唯一一次没有认真悔改的角色的建议，成了这一章最站得住的一句。
 
@@ -289,7 +289,7 @@ modified: "2026-09-29"
 
 **中文理解**：他给她的保证。
 
-**关键词**：“You’ll never find anything better than what—or who—is in this room right now.+1
+**关键词**：You’ll never find anything better than what—or who—is in this room right now. That’s the one thing I can guarantee.”
 
 **为什么这样写**：全章最重要的一次保证，而它用了一个不可能兑现的赌注（我能保证）。作者让一个一辈子用说代替给的老人，把他唯一的看家本领用在了这里。
 
@@ -325,7 +325,7 @@ modified: "2026-09-29"
 
 **中文理解**：诊断。
 
-**关键词**：“I suspected it from the start.+2
+**关键词**：“I suspected it from the start. The yellowing in his eyes, how thin he looks, the fact that he’s throwing massive amounts of cash around—it’s end-stage liver disease. He only has a few months left.
 
 **为什么这样写**：全章最冷的一次播报，而它的形式是三个临床事实。作者让这本书最乐观的一个人当众把最坏的消息说出来——因为他是护士，而这正是第二十九章那个职位。
 

@@ -241,7 +241,7 @@ modified: "2026-09-29"
 
 **中文理解**：那八年的形状。
 
-**关键词**：Our life together—mine and Emily’s—was a small one.+1
+**关键词**：Our life together—mine and Emily’s—was a small one. It had to be.
 
 **为什么这样写**：全章最短也最重的一段，而只能是这样这四个字是它的重量所在。作者让她用被动语态承认自己从来没有选择过。
 
@@ -313,7 +313,7 @@ modified: "2026-09-29"
 
 **中文理解**：他接下什么。
 
-**关键词**：“I might not be able to make you happy, but that much I can do.”+1
+**关键词**：I might not be able to make you happy, but that much I can do.” When he touched a finger to my cheek this time, he made full contact. He traced away the path of the tear and stared at the pad of his thumb, as if surprised to find it had come away wet.
 
 **为什么这样写**：全章最短也最重要的一次划界。作者让他把「我给不了你幸福」和「但这件事我能做」并排放着——而这件事指的是处理他的家人、婚礼和波士顿。
 

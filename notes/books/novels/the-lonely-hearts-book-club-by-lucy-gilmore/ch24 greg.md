@@ -63,9 +63,9 @@ modified: "2026-09-29"
 
 **关键词**：“That’s a literary reference, in case you were wondering.”（这是个文学引用，你要是好奇的话。）
 
-**为什么这样写**：全章最好笑也最zahuggable的一次补白。一个一辈子用刻薄话当武器的老人，在威胁完人之后还特意声明这句话有出处——而这一章他的第一件事是往书架方向看都没看一眼。
+**为什么这样写**：全章最好笑的一次补白。一个一辈子用刻薄话当武器的老人，在威胁完人之后还特意声明这句话有出处——用「我不是在骂人，我是在引用」把自己从道德责任里摘出去。
 
-**读者视角提示**：留意这三个字（in case you were wondering）跟第十五章那个「I was messing with you」是同一个语气层。
+**读者视角提示**：留意这三个字（in case you were wondering）是给自己留的台阶，也是他这一整章说话方式的最小样本：先动手，事后补一句出处。
 
 ---
 
@@ -89,7 +89,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：全章的转折，而作者用了 almost 重复两次。这个重复是他这一章最重的判断：Greg 一眼看穿了那个硬壳底下的东西——而他随即被自己的洞察噎住。
 
-**读者视角提示**：留意它紧跟在那句「Public club, I have as much right」的后面。老人下一个问题就暴露了。
+**读者视角提示**：留意作者让这句话紧跟在 It’s a public club, isn’t it? I have as much right to be there as anyone 的后面。老人下一个问题就暴露了。
 
 ---
 

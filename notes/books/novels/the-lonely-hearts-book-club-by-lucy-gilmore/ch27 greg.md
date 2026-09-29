@@ -69,27 +69,27 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 5:** “Don’t worry.
+> **原句 5:** “Don’t worry. He’s going to live.”
 
-**中文理解**：他还在装。
+**中文理解**：他还在装——他安慰的是那个刚说出不祥预言的年轻人，而这句话也是说给他祖父听的。
 
-**关键词**：“Don’t worry.（别担心。）
+**关键词**：Don’t worry（别担心）；He’s going to live（他会活下来的）
 
-**为什么这样写**：全章最短的一块，而它只有三个词。作者让一个刚说完「我在这儿什么都 accomplish 不成，至少这一件我能做到」的人，接着说别担心——而这句话是反讽，因为他正在做的那一件是瞒着他。
+**为什么这样写**：全章最短的一块，而它只有四个词。作者让一个刚刚还在讲 Poe 的人，用这么轻的一句话把上一段的判决推翻——而紧跟着的那句 If I accomplish nothing else while I’m here, I can at least do that much 才是他真正想说的：他挑这一件来证明自己有用，恰好挑了一件要瞒着所有人的事。
 
 **读者视角提示**：留意 紧跟着的下一块才是他真正的意图：他会活下去。
 
 ---
 
-> **原句 6:** He’s going to live.” I locked eyes with my grandfather’s. They were like a reflection of my mom’s—the same gray color, the same steely flash of determination—but without a fraction of her warmth.
+> **原句 6:** “If I accomplish nothing else while I’m here, I can at least do that much.”
 
 **中文理解**：他真正的计划。
 
-**关键词**：He’s going to live.” I locked eyes with my grandfather’s. They were like a reflection of my mom’s—the same gray color, the same steely flash of determination—but without a fraction of her warmth.
+**关键词**：If I accomplish nothing else while I’m here, I can at least do that much（就算我在这儿别的什么都做不成，至少这一件我能做到）
 
-**为什么这样写**：全章最重要的一次交代，而他把这句计划和他眼睛里的东西写在了同一句里。作者让一个说他「什么都不做」的人宣布他要保住一个人的命，而那双眼是全书他最接近母亲的时刻。
+**为什么这样写**：全章最重要的一次交代。作者让一个上一段还在说「什么都不做」的人宣布他要保住一个人的命——而他挑这一件来证明自己有用，恰好挑了一件要瞒着所有人的事。他随后写的那双眼睛（the same gray color, the same steely flash of determination）是全书他最接近自己母亲的一刻。
 
-**读者视角提示**：留意 without a fraction of her warmth（连她温暖的万分之一都没有）——这半句是这一章唯一一处他承认自己不如她。
+**读者视角提示**：留意 原句 5 的「他还在装」和这一句是一对：他对外说的是「我会尽力」，对内想的是「只要这一件」。
 
 ---
 

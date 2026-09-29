@@ -109,11 +109,11 @@ modified: "2026-09-29"
 
 **中文理解**：让人说他想听的话是她的超能力。
 
-**关键词**：telling people what they wanted to hear was my superpower（让人说他想听的话是她的超能力）；I didn’t actually know if any of this was true（这一套没一句是真的）；sounded terrible（听起来很可怕）
+**关键词**：telling people what they wanted to hear was my superpower（让人说他想听的话是她的超能力）；I didn’t actually know if any of this was true（这一套没一句是真的）
 
-**为什么这样写**：她自己给这招下了两次评语：先是骄傲地宣布（superpower），紧接着承认它 terrible。作者让同一个念头在两句话内完成升降，等于把「这本小说的写法」直接说了出来。
+**为什么这样写**：她自己给这招下了两次评语，而且是**先贬后扬**：早先她已经用 Which, yes, sounded terrible. It was terrible. 把这招的代价算清楚了，后面才骄傲地宣布 was my superpower。作者让同一个念头在升—降—升之间完成，等于把「这本小说的写法」直接说了出来。
 
-**读者视角提示**：留意 sounded terrible 这个分词：她知道，但照样用。她是全书里最诚实的不诚实者。
+**读者视角提示**：留意 Which, yes 这个插入语——她明知这招不体面，还是用它。她是全书里最诚实的不诚实者。
 
 ---
 

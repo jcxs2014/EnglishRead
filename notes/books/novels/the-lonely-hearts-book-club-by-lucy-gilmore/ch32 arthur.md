@@ -137,7 +137,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：全章最短也最诚实的一次转场。作者让一段关于一个十六岁女孩的喜讯，把五个人同时按进了同一个位置——而这一章所有人都刚刚经历或即将经历同一件事。
 
-**读者视角提示**：留意 这是全书第二次出现 loneliness 这个词的实义用法（第一次在第二十九章）。
+**读者视角提示**：留意 她这段话前面有一句 We all grew quiet——因为 loneliness（孤独）这个词刚好戳到了在座每一个人的位置：这一桌五个人各自都认识那种感觉。
 
 ---
 
@@ -147,7 +147,7 @@ modified: "2026-09-29"
 
 **关键词**：“Keep her on the hook. Give her an opening so she has no choice but to come back for more.”
 
-**为什么这样写**：全章最好的一次总结，而它是 Greg 先教她的（第二十六章她说「 Greg once told me…he’d rather I come out and ask」）。作者让一个从不邀功的人在这一章用最短的一句把方法交了出来。
+**为什么这样写**：全章最好的一次总结，而作者让说这话的人当场拆自己的台——她话音刚落，Arthur 就反问了一句 Greg said that?。一个从不邀功的人，用最短的一句把方法交了出来，还顺手把功劳推回给教她的人。
 
 **读者视角提示**：留意 She tapped the side of her nose and winked at Greg（她敲了敲自己的鼻侧，冲 Greg 眨了下眼）——这一章她唯一一次像个生意人。
 
@@ -267,7 +267,7 @@ modified: "2026-09-29"
 
 **关键词**：I have no intention of popping off that easily. Not when I’m just starting to—
 
-**为什么这样写**：全章最重要的一次半句话，而作者在破折号那里切断了它。popping off（突然蹬腿）是全书关于死亡的暗语（ch02 他在书架上骂过这个词），而他把它用在了自己身上。
+**为什么这样写**：全章最重要的一次半句话，而作者在破折号那里切断了它——叙述当场替他补完了（I cut myself off before I could finish, though my meaning was obvious），补完的内容是「刚开始认识格雷格」和「刚开始重新对生活产生兴趣」。作者不给补完留任何空间，是为了让「他想活」这件事只能由他自己说出来。
 
 **读者视角提示**：留意 被切断的那半句是 get to know Greg（去认识格雷格）——这一章他终于有了一个想留下来的理由。
 
