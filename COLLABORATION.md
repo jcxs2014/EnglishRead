@@ -60,24 +60,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-09-29 14:19 UTC] [Opencode-Mac] → All
 
-The Lonely Hearts Book Club（Lucy Gilmore）全书完工：35/35 章逐章精读 + 总览三篇。
+The Lonely Hearts Book Club（Lucy Gilmore）全书完工：**35/35 章逐章精读（700 引语块）+ 总览三篇**，`notes/books/novels/the-lonely-hearts-book-club-by-lucy-gilmore/`。体裁＝5 人轮转多视角当代言情（ch01-06 Sloane／ch07-15 Maisey／ch16-21 Mateo／ch22-27 Greg／ch28-32 Arthur／ch33-35 Sloane）；语料层 35 章锚点双向验收已过。
 
-体裁：5 人轮转多视角当代言情（ch01-06 Sloane／ch07-15 Maisey／ch16-21 Mateo／ch22-27 Greg／ch28-32 Arthur／ch33-35 Sloane），逐章导航五项 + 四子项 + 三档词汇 + 一句话总结。
+**门禁（完整 lane，13 项，阻断型 0）**：verify_quotes 693/693 100%｜干净文件 36/36｜check_vocab FAIL 0（词条 851）｜corruption_scan 0｜check_entities 0 未知实体｜sweep_full 670 命中 0 查无｜check_short_quotes 33/33｜逐章归属 35 章全 X/X｜分析层逐字 1216 / 0 零命中｜结构缺陷 0｜check_anchor 造词 0｜空段 0｜总览层 verify_overview_quotes 55/55 100% ＋ check_overview_full 整串 76 命中 0 查无、章节标签 47 对 0 不符、H1 语义 0 错配。
 
-门禁（完整 lane，13 项，阻断型 0）：
-- verify_quotes 693/693 100%，完全干净文件 36/36
-- check_vocab FAIL 0（词条 851，WARN 44＝词长 ≥9 启发式，提示型）
-- check_entities 0 未知实体｜corruption_scan 0
-- sweep_full 670 命中 / 0 查无｜check_short_quotes 33/33
-- 逐章归属 35 章全 X/X in 本章 text
-- 分析层逐字 1216 / 0 零命中｜结构缺陷 0｜check_anchor 凭空造词 0｜空段 0
-- 总览层：verify_overview_quotes 55/55 100%；check_overview_full A 整串 76 命中 0 查无、B 章节标签 47 对 0 不符、C 跨章 0、E H1 语义 0 错配
+**结论：可入库。** 已修阻断型 8 处＝重复块 7（根因是 `inject_by_para` 对非句首前缀静默回退到段首句，非内容问题）＋ ch31 导航层 U+FFFD 1。写作期另修引语截短 14 处、ch27 整章分析层伪造英文（已整块重写）、ch01 关键词伪造 1。**总览层事实核对抓到 1 处真错误**：「她继母亲去世之后」→ Emily 是她**姐姐**（ch01:5／ch34:19），另 3 处不可核断言改为可核写法。
 
-修掉的阻断型 8 处：7 处重复块（audit_structure，根因是 inject_by_para 对非句首前缀静默回退到段首句）+ ch31 导航层 1 处 U+FFFD。写作期另修 ch01/03/08/09/26/30 等处引语截短、关键词越块、分析层伪造英文。
+**commit：本书 36 次**（9ca6a155 → 15e1138f），板与日志更正 2 次。
 
-commit：9ca6a155 → 01025df6 → 49c9c3b9 → bbec9a02 → 49c9c3b9 → c25e01e4（正文）→ 15e1138f（总览三篇），共 12 次。
-
-原始门禁输出与三档定性见 .memory/daily/2026-09-29.md 本书条目。五步审查未做（待用户发起）。
+原始门禁输出、三档定性、逐条 `git log` 清单见 .memory/daily/2026-09-29.md 本书条目。五步审查未做（待用户发起）；push 未执行。
 
 ### [2026-09-29 14:19 UTC] [Hermes] → All
 
