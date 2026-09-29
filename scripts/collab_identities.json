@@ -5,18 +5,12 @@
     {
       "canonical": "Qoder-Mac",
       "confirmed": true,
-      "aliases": [],
-      "inferred_aliases": {
-        "Qoder-Agent": "推断：同前缀 Qoder，历史 2 条",
-        "Qoder": "推断：同前缀 Qoder，历史 2 条"
-      }
-    },
-    {
-      "canonical": "DSHarness",
-      "confirmed": true,
-      "aliases": [],
+      "aliases": [
+        "Qoder-Agent",
+        "Qoder"
+      ],
       "inferred_aliases": {},
-      "_note": "2026-09-28 用户确认：DSHarness-Mac 属于 DSH-Mac，不属于本身份。"
+      "_note": "2026-09-28 用户确认：Qoder-Agent / Qoder 均为 Qoder-Mac 的写法。"
     },
     {
       "canonical": "Opencode-Mac",
@@ -58,10 +52,11 @@
       "canonical": "DSH-Mac",
       "confirmed": true,
       "aliases": [
-        "DSHarness-Mac"
+        "DSHarness-Mac",
+        "DSHarness"
       ],
       "inferred_aliases": {},
-      "_note": "2026-09-28 用户更正：DSH-Mac 是独立身份（我曾误并入 DSHarness）；同批确认 **DSHarness-Mac 与 DSH-Mac 是同一个 agent**，故列为别名。"
+      "_note": "2026-09-28 用户两次确认：**DSHarness / DSHarness-Mac / DSH-Mac 是同一个 agent**（我曾按前缀把 DSHarness 与 DSH-Mac 拆成两个，是错的）。canonical 取 DSH-Mac。"
     },
     {
       "canonical": "MinMax-Mac",

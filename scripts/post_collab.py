@@ -66,6 +66,19 @@ def resolve(me):
     return c, c.lower()
 
 
+def heading_identity(head):
+    """把 `### [ts] [身份] → All` 里的身份字段解析成**规范名**。
+    ⚠️ 不能用子串比较：板上 8 条历史条目的抬头写的是 `DSHarness`，而它们属于 `DSH-Mac`——
+    逐字比对会认不出自己的旧条目，`--append` 归属门禁也会把合法追加误拒。"""
+    canon, _ = load_identities()
+    m = re.findall(r"\[([^\]]+)\]", head)
+    for cand in m[1:]:                       # [0] 是时间戳
+        k = cand.strip().lower()
+        if k in canon:
+            return canon[k]
+    return None
+
+
 def now_stamp():
     """时间戳由脚本查实，不接受调用方传入（2026-08-31 捏造时间戳事故的根因）。"""
     return subprocess.run(["date", "-u", "+%Y-%m-%d %H:%M UTC"],
@@ -120,7 +133,8 @@ def main():
         if not c:
             return 2
         t = open(BOARD, encoding="utf-8").read()
-        hits = [e for e in board_entries(t) if ck in e.split("\n")[0].lower()]
+        hits = [e for e in board_entries(t)
+                if heading_identity(e.split("\n")[0]) == c]
         print(f"=== {c} 发过的条目 {len(hits)} 条 ===")
         for e in hits:
             print(f"  {e.split(chr(10))[0][:88]}")
@@ -175,7 +189,7 @@ def main():
     before = len(ents)
     if hit and a.append and a.mode == "board":
         head = hit[0].split("\n")[0]
-        if ikey not in head.lower():
+        if heading_identity(head) != ident:
             print(f"❌ 该条目不属于 {ident}（抬头：{head[:70]}）——"
                   f"**不得修改其他实例的消息**。\n   如需补充，在自己名下另发一条并注明指向。")
             return 2
