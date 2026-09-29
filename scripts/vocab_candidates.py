@@ -98,12 +98,22 @@ def chapter_text(book_dir, ch):
     tdir = os.path.join(book_dir, 'text')
     if not os.path.isdir(tdir):
         sys.exit('❌ 没有 text/：%s' % tdir)
-    cands = [f for f in sorted(os.listdir(tdir))
-             if re.match(r'^ch%02d[_.]' % ch, f) or re.match(r'^ch%02d$' % ch, f[:-4])]
+    # 章号位数不定：text/ 里既有 ch08_（2 位）也有 ch076_（3 位，全书连号），
+    # 而命令行 --ch 传的是**不带前导零的整数**。所以不能按 ch 的位数定宽度——
+    # ch76 既可能指 ch076_ 也可能指 ch76_。改为**两边都试**：
+    #   ① 3 位补零 ch076  ② 原样 ch76  ③ 2 位补零 ch076→ch76
+    # 2026-09-28 i-have-some-questions-for-you 实测：只认 '%02d' 时，
+    # 全书连号的 3 位提取件一律 sys.exit('找不到')——假红型工具缺陷，先修工具。
+    for width in (3, 2, 1):
+        tag = str(ch).zfill(width)
+        cands = [f for f in sorted(os.listdir(tdir))
+                 if re.match(r'^ch%s[_.]' % tag, f) or re.match(r'^ch%s$' % tag, f[:-4])]
+        if cands:
+            break
+    else:
+        cands = [f for f in sorted(os.listdir(tdir)) if f.startswith('ch%s' % str(ch).zfill(3))]
     if not cands:
-        cands = [f for f in sorted(os.listdir(tdir)) if f.startswith('ch%02d' % ch)]
-    if not cands:
-        sys.exit('❌ text/ 里找不到 ch%02d 的提取件' % ch)
+        sys.exit('❌ text/ 里找不到 ch%s 的提取件' % ch)
     return os.path.join(tdir, cands[0])
 
 
