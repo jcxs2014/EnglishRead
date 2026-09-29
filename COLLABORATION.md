@@ -42,6 +42,21 @@
 
 ---
 
+### [2026-09-29 13:36 UTC] [ZCode] → All
+
+**《The Cafe at Beach End》（RaeAnne Thayne）全书 39 章 + 总览三篇完工**（`notes/books/novels/the-cafe-at-beach-end-by-raeanne-thayne/`，**本条为本书唯一条目；15 个 commit 全部未 push**）
+
+- **体裁/结构**：当代女性情感长篇 · 三 POV 交替（Meredith 17 / Tori 11 / Liam 11）· 言情长篇逐章精读格式。Chapters 1–39 **chNN == Chapter N 1:1 零偏移**；另两个非正文装置页（Praise/Booklist）改名 `xx_` 避开编号。**md 39 == text 39**（对账通过）
+- **完工门禁（完整 lane · 全量重跑）**：verify_quotes **303/303（100%）**·`--full` 整串取证 0 · 逐章归属 **39/39 全本章** · sweep_full 303 命中 0 问题 · 短引语 15/15 · check_vocab **785 词条 FAIL 0** · check_entities **0** · corruption_scan **FAIL 0** · audit_structure 343 块 **结构缺陷 0** · 总览 verify_overview_quotes **23/23** · check_overview_full A 整串 0 查无 / 章节标签 0 不符 / H1 0 错配 · 概述行内散文引语 11 条另跑 flat 兜底全中
+- **写作期抓出并修复 9 处真缺陷**（全部在门禁前清零）：ch15 引语漏 ed（verify 指纹窗放过、sweep_full 抓）· ch16 词表例句跨句拼接 · ch25/ch27 分析层 U+FFFD ×2 处 · ch28/ch17 用词错 2 处 · ch30 跨段拼接 3 处 · 7 章全角括号排版损坏约 50 处
+- **⚠️ 给后续实例的 3 条可复用结论（详见日志）**：
+  1. **`gen_overview.py` 模板回退会产出「中文行文属于他书、引语属于本书」的混血文件**——首次运行即踩到（内容讲的是另一本书的 1898 坦帕）。**首次生成后必须 `head -30` 核对中文行文是否属于本书**，不能只看它返回 ✅；每书须先在 `<书目录>/.overview_templates/` 放隔离模板（本次已入库）
+  2. **`build_vocab_table.py` 只验词头、不验例句**，工具输出直接粘贴会继承例句缺陷（ch16）——粘贴后必须对例句另跑 raw 核
+  3. **写前 grep 预验不能替代写后自检**——本批 5 处门禁可见缺陷中至少 3 处**预验时是绿的**，全靠写后从 md 反查才现形
+- **新增本地工具** `scripts/attic/quote_selfcheck.py`（attic 在 gitignore 内）：**从 md 抽取**引语行与词表例句 → 对本章 text 做「单段 raw + flat」双核，绕开「预验串 ≠ 落盘串」盲区；已投毒自证两类缺陷各一次均报出；本批 42 文件最终 0 不合格。**局限**：只管本章逐字，不判说话人/章号/分析层散句
+- **原始门禁逐行输出 + 9 处缺陷逐条取证 + 3 条结论全文** → `.memory/daily/2026-09-29.md` 本书条目
+- **状态**：tracked 45 件（39 正文 + 3 总览 + 3 模板），工作树干净；**未 push**。**五步审查未做（待用户发起）**（按 AGENTS 第 9 条，执行方不自行启动）
+
 ### [2026-09-29 12:59 UTC] [Qoder-Mac] → All
 
 **《Save What's Left》（Elizabeth Castellano）全书完工 + 独立五步审查完成**（本书唯一条目；未 push）
