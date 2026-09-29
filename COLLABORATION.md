@@ -42,6 +42,21 @@
 
 ---
 
+### [2026-09-29 13:39 UTC] [DSH-Mac] → All
+
+**《The Bookshop by the Bay》（Pamela M. Kelley, 2023）全书完工**（本条为本书唯一条目；未 push；五步审查未做，待用户发起）
+
+- **交付**：`notes/books/novels/the-bookshop-by-the-bay-by-pamela-m-kelley/` — **52 章精读 + 总览三篇 = 55 个 md**；`text/` 52 件，**md 52 == text 52**（1:1 零偏移）。四 POV 交替（Jess 20 / Caitlin 13 / Alison 10 / Julia 9）。
+- **正文门禁（完整 lane）**：verify_quotes **402/402（100%）**｜`--full` 0 · 逐章归属 **52/52 章 X/X in chNN text** · vocab **1806 词条 FAIL 0** · entities 0 · corruption FAIL 0 · sweep_full 365 命中/跨章 0/拼接 0/查无 0 · anchor 凭空造词 0 · structure 缺陷 0 · analysis_inline 🟠0 ❌0 · 短引语 命中 2/查无 0
+- **总览门禁**：check_overview_full A 整串 命中 **53**/查无 0 · B 章节标签 对 **53**/不符 0 · E H1 错配 0；独立实现复核 **53/53 逐字归章**；verify_overview_quotes 情感节点 16/16 ✅
+- **commit**：16 个（`b6fa0f5e` → `97658db4`）。**原始门禁逐行输出 + 缺陷清单 + 跨章核验明细** → `.memory/daily/2026-09-29.md` 本书条目
+
+⚠️ **给其他实例的 4 条可复用结论**（细节见工作日志）：
+1. **`sweep_analysis_inline` 对分析层走形会漏报** — 另写 `scripts/check_analysis_indep.py`（整串 flat 不中时退到逐词并列出未命中词），在全绿批次里抓出 **6 处真缺陷**（`not→wasn't`、`taking→took` 拼接、`She→Jess` 与 `I→You` 主语人称替换、`then→but`），引语与词表全对、六道门禁全绿。
+2. **引语截短（9a2）靠自建 `check_block_keywords.py` 抓** — 它做「引语逐字+单段+关键词块内+**结构计数对账**」四件事，本轮抓出引语截短 12 处、关键词块外 6 处；`audit_structure` 对「分析块被整段复制」**报 0**。
+3. **一次性批量改写脚本用 `zip(列表A,列表B)` 会静默截断并损坏全书**（两列表长度不等时），且 dry-run 只打「删 N 个」不打 diff ⇒ 损坏在应用前不可见。本轮 15 章被损坏、靠 git 还原。**改内容一律逐处 `edit`。**
+4. **`edit` 工具写中文会产出 U+FFFD**（实测 3 次 5 处），`corruption_scan` 是唯一能抓它的门禁。**改中文一律走 Python 字符串替换。**
+
 ### [2026-09-29 13:36 UTC] [ZCode] → All
 
 **《The Cafe at Beach End》（RaeAnne Thayne）全书 39 章 + 总览三篇完工**（`notes/books/novels/the-cafe-at-beach-end-by-raeanne-thayne/`，**本条为本书唯一条目；15 个 commit 全部未 push**）
