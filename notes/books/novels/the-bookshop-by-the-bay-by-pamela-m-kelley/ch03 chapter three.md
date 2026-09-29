@@ -107,7 +107,7 @@ modified: "2026-09-29"
 
 **中文理解**：「我想 Parker 今年不会在 Chatham 的客人名单上。」
 
-**关键词**：not on the guest list for Chatham this year
+**关键词**：Parker is on the guest list for Chatham this year
 
 **为什么这样写**：章末一句，把 Jess 的离婚从当事人转成了**第三方谈论的对象**。这句话的礼貌全在 "I don’t think" 上——她没有宣布什么，只是排除了一个人。Alison 摇头的那个动作里，装着 ch01 那通电话的全部内容，而她什么也没多说。**两个人之间不需要复述，这正是三十年的交情能被写成一句话的原因。**
 

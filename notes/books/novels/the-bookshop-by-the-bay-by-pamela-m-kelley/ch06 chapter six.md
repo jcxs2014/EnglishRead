@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 2:** "“Nancy’s party is coming up soon. You don’t want to miss that."
+> **原句 2:** "“Nancy’s party is coming up soon. You don’t want to miss that. Everyone will be there and there should be some eligible single men,” Meghan added."
 
 **中文理解**：「Nancy 的派对就快到了，你不想错过吧。大家都会到，应该有不少条件不错的单身男人。」
 

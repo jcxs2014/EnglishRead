@@ -47,7 +47,7 @@ modified: "2026-09-29"
 
 **中文理解**：整个晚上等着的时候，她一遍遍在脑子里重放办公室里那一幕——看见 Linda 抬起手臂、衬衫下摆上移时露出的那一片隆起；看见 Parker 看着她摸自己肚子时脸上那种纯粹的爱慕；还有他发现 Jess 也看见了之后的那阵惊恐。
 
-**关键词**：replayed the scene over and over in her mind；that swell of Linda’s stomach；sheer adoration；And then horror
+**关键词**：replayed the scene in the office over and over in her mind；that swell of Linda’s stomach；sheer adoration；And then horror
 
 **为什么这样写**：作者把 ch01 的现场按** Jess 的记忆节奏**重剪一遍，顺序却变了：ch01 是「衣服下摆 → 隆起 → 他的表情 → 脸红」，这里把表情拆成两半（adoration 与 horror），中间插进她自己抬臂这个动作。**一场只有两秒钟的目击，在这里被拉长成一整夜。** 三个短句用分号和平行结构串起，像一份被反复复核的证据清单。
 
@@ -79,7 +79,7 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 6:** "“You really think this is fixable? You didn’t just sleep with someone else. You’re having a baby together."
+> **原句 6:** "“You really think this is fixable? You didn’t just sleep with someone else. You’re having a baby together. What does she think is happening?”"
 
 **中文理解**：「你真觉得这还能补救？你不只是跟别人上了床。你们还在一起怀一个孩子。她以为会怎么样？」
 
@@ -103,7 +103,7 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 8:** "She held it together until she closed her bedroom door behind her and collapsed on her bed. The tears she’d been holding in came hard and fast, and she cried for the marriage she’d once thought would last forever. It made her even sadder that Parker said he wanted to work things out."
+> **原句 8:** "She held it together until she closed her bedroom door behind her and collapsed on her bed. The tears she’d been holding in came hard and fast, and she cried for the marriage she’d once thought would last forever. It made her even sadder that Parker said he wanted to work things out. She didn’t see how that was possible. How could she ever trust him again?"
 
 **中文理解**：她一直撑到关上卧室门、扑倒在床上。忍了一路的眼泪终于又急又猛地涌出来，她为那桩她曾以为会天长地久的婚姻哭了。而更让她难过的是 Parker 说他想挽回——她看不出这怎么可能。她怎么可能再信任他？
 

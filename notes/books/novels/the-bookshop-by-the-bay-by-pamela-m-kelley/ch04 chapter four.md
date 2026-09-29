@@ -59,7 +59,7 @@ modified: "2026-09-29"
 
 **中文理解**：她跟男朋友 Kyle 提起参赛的想法时，Kyle 说她为一件白干的活儿干活简直是疯了；她从那以后再没提过这件事。
 
-**关键词**：had told her she was crazy to work for free；had floated the idea；she hadn’t mentioned it again
+**关键词**：had told her she was crazy to work for free；she’d floated the idea；she hadn’t mentioned it again
 
 **为什么这样写**：这一句把「想法被否」写成了**沉默的执行**——她没有争辩，只是"再没提过"。作者接着用 but she had a gut feeling 把它接回来，于是我们看到的是一个没有说出口的坚持。Kyle 在这里的角色也第一次清晰：他不是坏人（他只是算钱），但**他替她做了决定**，而她默许了。这一处和她母亲 ch03 里「只是不冷不热」的判断遥相呼应。
 
