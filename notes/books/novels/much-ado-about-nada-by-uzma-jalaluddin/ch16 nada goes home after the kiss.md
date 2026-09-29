@@ -7,7 +7,7 @@ modified: "2026-09-29"
 
 ## 本章导航
 
-- **一句话概括**：走廊上那个吻被身后一记摔门声击碎；他只来得及说"别走"，她已经抽身出门，给 Haleema 发短信说偏头痛要发作，回到家把自己关进衣帽间，从旧铁盒最底下取出一枚刻着 From Nothing to Nada 的素金戒，然后坐在地毯上读起那些一封也没回过的信。
+- **一句话概括**：走廊上那个吻被身后一记摔门声击碎；他只来得及说"别走"，她已经抽身出门，给 Haleema 发短信说偏头痛要发作，回到家把自己关进衣帽间，从花帽盒最底下取出一枚刻着 From Nothing to Nada 的素金戒，然后坐在地毯上读起那些一封也没回过的信。
 - **情感弧线位置**：高潮后的急刹车 + 闪回前的下坠——身体已经交出去，理智在半路被夺回来；她逃回家的方式不是睡觉，是把自己关进过去。
 - **Tropes 兑现/反转**：重逢旧爱（本章走**兑现**——吻是真的，谁也没有犹豫）；"我们只是暂时分开"（走**反转**——她把两条路都举到光下看了一遍，得到的结论是不快乐和孤单）。
 - **人物弧线**：那枚戒指从来没被摘下来过；她此刻还没有准备好面对的是——七年半以前，对方寄出的每一封信她都收到了，而她一封也没有回。
@@ -155,7 +155,7 @@ modified: "2026-09-29"
 | crisp shirt | 挺括的衬衫 | The feel of his crisp shirt and the warmth of his body hard against hers was overwhelming. |
 | delicate curve | 优美的弧线 | His hand traced the delicate curve of her jaw before angling her face and deepening the kiss even more. |
 | dim light | 昏暗的光 | Catching the dim light from the overhead fixture, she reread the inscription: From Nothing to Nada. |
-| floral-patterned hatbox | 花纹铁盒 | Hidden behind the collection of bright, luxurious fabrics was a floral-patterned hatbox, which Nada reached for now. |
+| floral-patterned hatbox | 花纹帽盒 | Hidden behind the collection of bright, luxurious fabrics was a floral-patterned hatbox, which Nada reached for now. |
 
 ## 一句话总结
 

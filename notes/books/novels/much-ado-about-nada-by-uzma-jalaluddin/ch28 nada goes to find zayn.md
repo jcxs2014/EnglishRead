@@ -99,13 +99,13 @@ modified: "2026-09-29"
 
 ---
 
-> **原句 8:** "Take it from someone who's been there and made the wrong choice. Choose love and happiness, not fear. … Have faith. Otherwise, the only comfort you'll be left with is that of loving longest, when all hope is gone."
+> **原句 8:** "Take it from someone who's been there and made the wrong choice. Choose love and happiness, not fear. Have faith. Otherwise, the only comfort you'll be left with is that of loving longest, when all hope is gone."
 
-**中文理解**："听一个到过那里、并且选错的人说吧。选爱和幸福，别选恐惧。……要有信念。否则留给你的唯一安慰，就是当一切希望都没了之后，你还爱得更久一点。"
+**中文理解**："听一个到过那里、并且选错的人说吧。选爱和幸福，别选恐惧。要有信念。否则留给你的唯一安慰，就是当一切希望都没了之后，你还爱得更久一点。"
 
 **关键词：** made the wrong choice（选错过）/ Choose love and happiness, not fear（选爱与幸福，别选恐惧）/ Have faith（要有信念）/ when all hope is gone（当一切希望都没了）
 
-**为什么这样写**：她把自己的失败当成入场券说出来，Take it from someone who's been there 让劝告有了代价；Have faith 这三个字是她从不信的那一栏里递过来的，读者听出这既是经验也是警告——因为她自己就是那个"爱得更久"的人。
+**为什么这样写**：她把自己的失败当成入场券说出来，Take it from someone who's been there 让劝告有了代价；紧跟着的 Have faith 三个字，是她从不信的那一栏里递过来的，读者听出这既是经验也是警告——因为她自己就是那个"爱得更久"的人。
 
 **读者视角提示**：她用自己的伤口当工具，而不是当借口（ch03 那次她用的是它当燃料）。
 
