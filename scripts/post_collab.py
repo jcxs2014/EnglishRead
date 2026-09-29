@@ -144,7 +144,12 @@ def main():
     ap.add_argument("--replace", action="store_true",
                     help="整体重写我已有的那一条（完工+审查合并压缩时用）；标题里的完工时间原样保留")
     ap.add_argument("--limit", type=int, default=20, help="板消息行数上限（默认 20）")
-    ap.add_argument("--maxbytes", type=int, default=2500)
+    # 5000 B（2026-09-29 由 2500 上调）：字节不是与行数平级的门槛，而是**失控兜底**——
+    # 行数数「要读几件事」，字节数在本库（CJK 1 字 3 B）只反映「写得密不密」，
+    # 惩罚密度会误伤结构良好的紧凑通报。实测全板：行数达标者最大 4,359 B、
+    # 真正的失控条目最小 6,029 B，**5,000–6,000 之间无条目** ⇒ 阈值落在这道空隙里。
+    ap.add_argument("--maxbytes", type=int, default=5000,
+                    help="板消息字节兜底阈值（默认 5000；超出行数限制才是主要信号）")
     a = ap.parse_args()
 
     if a.mode == "check":
