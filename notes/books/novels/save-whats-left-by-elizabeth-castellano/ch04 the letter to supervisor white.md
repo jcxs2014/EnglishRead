@@ -51,7 +51,7 @@ modified: "2026-09-29"
 
 **关键词**：it was hardly secured / What good is that to you
 
-**为什么这样写**：门环上有 H——是她女儿 Hattie 的首字母；对面那个人早就把「她在乎什么」摸透了，一句「对你有什么用」比任何争吵都扎人。
+**为什么这样写**：门环上有 H——是她女儿 Hattie 的首字母；拿走它的是街角那家杂货店的 Owen——他把它摆在橱窗里，她路过才看见，一句「对你有什么用」比任何争吵都扎人。
 
 **读者视角提示**：全书第一次出现 Hattie 的名字缩写，而它挂在别人的门环上。
 
@@ -73,7 +73,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：一个正式名、一个绰号，并列给出却不解释；`casually` 说明说这话的人根本没觉得这名字有什么不能出口的，而 `depends on who you ask` 一句就把小镇的分裂摆了出来。
 
-**读者视角提示**：这两个名字在本章之前已经出现过——她捐的那一千块，收据抬头正是后者。
+**读者视角提示**：这两个名字是在这一段里才第一次出现的；她那一千块要到下一段对话里才被说出来。
 
 > **原句 7:** The unfortunate thing about moving to a new place is that you realize that you are still yourself. You still have all your bad habits. You’re not suddenly happier or more productive.
 
@@ -95,7 +95,6 @@ modified: "2026-09-29"
 
 **读者视角提示**：桶里装的是杂草——她正在拔自家蚝壳车道上的草。
 
-Now get vocab candidates for ch04 (all three tiers at once this time).
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

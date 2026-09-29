@@ -95,13 +95,9 @@ modified: "2026-09-29"
 
 **读者视角提示**：Barbara Time 的名字来自她祖父指手表那一下；这一章的结尾和这个误会，是同一件事的两头。
 
-Now inject quotes and build vocab.
 
-Let me get ch03 vocab candidates first (headwords only, tiered).
 
-Actually let me inject quotes first, then vocab.
 
-Let me do both in one command sequence, but I need the vocab headwords. Let me get candidates.
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

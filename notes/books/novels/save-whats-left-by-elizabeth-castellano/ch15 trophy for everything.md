@@ -17,7 +17,7 @@ modified: "2026-09-29"
 
 > **原句 1:** Firstly, if it’s not already obvious, I would like to formally resign from the position of cochair of the oversight committee to which I was appointed yesterday at the meeting that you neglected to attend. I cannot speak for Rosemary Preston, but I suspect in light of recent events that she will also want to resign.
 
-首先，如果这一点还不算明显的话，我想正式辞去那个超额拨款监督委员会联席主席的职务。我不能替 Rosemary Preston 说话，但我怀疑，鉴于最近发生的事，她也会跟着辞。
+首先，如果这一点还不算明显的话，我想正式辞去那个监督委员会联席主席的职务。我不能替 Rosemary Preston 说话，但我怀疑，鉴于最近发生的事，她也会跟着辞。
 
 **关键词**：formally resign / I suspect she will also
 
@@ -95,7 +95,6 @@ modified: "2026-09-29"
 
 **读者视角提示**：她随即被当面回了一句「这两件事没有关系」。
 
-Now inject + vocab for ch15.
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

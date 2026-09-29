@@ -85,7 +85,6 @@ modified: "2026-09-29"
 
 **读者视角提示**：注意 ch01 里她编造的那个「Jessica 或 Caitlin」——那是幻想版本，这里才是真事。
 
-Hmm — that last reader note references ch01. Let me verify: in ch01 P21: "I would call her Jessica or Caitlin or Tiffany or something like that. I would say she had a degree in rhetoric from a liberal arts college on the Eastern Seaboard. I would say Tom is off playing shuffleboard in the Arabian Sea with her as we speak." Yes — verified. And "her husband also left her for a younger woman" is in ch02. Good, this is a verified cross-chapter reference. Both verified by direct reading.
 
 > **原句 8:** Well, I took it. I looked at a couple of blurry photos and watched a shaky three-minute video and I signed the contract.
 
@@ -99,19 +98,12 @@ Hmm — that last reader note references ch01. Let me verify: in ch01 P21: "I wo
 
 Now the vocab placeholder. Then inject quotes and build vocab.
 
-Let me write the rest of the file (vocab + summary) — I'll add them after. Actually let me include them now.
 
-Let me get the vocab candidates for ch02 first so I can pick headwords.
 
-Actually, let me write the md with «VOCAB» placeholder and the summary, then do vocab.
 
-Let me append the ending to the file.
 
-Actually I already wrote the file without the vocab and summary. Let me use Edit to append.
 
-Wait — the Write tool created the file with content ending at 原句 8. Let me append the vocab section and summary.
 
-Let me first get candidates.
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

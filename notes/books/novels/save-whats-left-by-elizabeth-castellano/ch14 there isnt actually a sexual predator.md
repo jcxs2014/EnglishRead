@@ -35,7 +35,7 @@ modified: "2026-09-29"
 
 **读者视角提示**：她接下来要做的事，是「玩」过一次——抓交通委员会的现行。
 
-> **原句 3:** “Well, we want you to hold our feet to the fire. That’s democracy, right?
+> **原句 3:** “Well, we want you to hold our feet to the fire. That’s democracy, right? If there’s something that’s not right, we want to hear about it and we want to fix it. It’s as simple as that.
 
 「我们希望你们盯着我们。还有哪里不对，我们希望你们说出来，我们希望把它改掉。就这么简单。」
 
@@ -45,7 +45,7 @@ modified: "2026-09-29"
 
 **读者视角提示**：走出那间办公室时，她心里列了一串「我可以……」。
 
-> **原句 4:** We walked out of that office on cloud nine. We had won. This was it.
+> **原句 4:** We walked out of that office on cloud nine. We had won. This was it. This was what victory felt like.
 
 我们从那间办公室出来的时候简直在云端。我们赢了。这就是胜利的感觉。
 
@@ -75,7 +75,7 @@ modified: "2026-09-29"
 
 **读者视角提示**：那句「其实是」把这一整章的调查动机一句话交代完：他们要找的人不需要存在。
 
-> **原句 7:** “I can’t say much more. I shouldn’t have said anything,” Agent Hart said. “All I can tell you is that there is a bribery, racketeering, and money-laundering investigation involving the town.
+> **原句 7:** “I can’t say much more. I shouldn’t have said anything,” Agent Hart said. “All I can tell you is that there is a bribery, racketeering, and money-laundering investigation involving the town. I can’t go into the details.”
 
 「我没法再多说了。我本来就不该说。」Agent Hart 说。「我只能告诉你，这镇上正在调查一起贿赂、敲诈勒索和洗钱的案子。细节我不能说。」
 
@@ -95,7 +95,6 @@ modified: "2026-09-29"
 
 **读者视角提示**：探员临走时说的是「你们看起来是好人，我们会再联系」。
 
-Now inject + vocab for ch14.
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

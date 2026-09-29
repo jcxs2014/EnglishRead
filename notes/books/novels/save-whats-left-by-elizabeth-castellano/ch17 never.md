@@ -41,7 +41,7 @@ modified: "2026-09-29"
 
 **关键词**：Don’t lift the rock / Admire the rock / move on
 
-**为什么这样写**：一段本该严肃的忠告被拆成了四个祈使句，节奏像哄小孩；`Admiring` 一次，`move on` 一次，而「别捡」被单独放在最后、还配了一句带反讽的祷告语。
+**为什么这样写**：一段本该严肃的忠告被拆成了四个祈使句，节奏像哄小孩；`Admire the rock` 一次，`move on` 一次，而「别捡」被单独放在最后、还配了一句带反讽的祷告语。
 
 **读者视角提示**：她父亲讲的是她小时候在布朗克斯动物园被蟋蟀围攻的故事；作者把这个教训原封不动地搬到了这栋牡蛎小屋上。
 
@@ -53,7 +53,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：一句里塞进两级对比，而 `In true Whitbey form` 用的是她全书最爱的那个自嘲格式；`blatant` 与 `small` 一头一尾，把她自己的优先级写得清清楚楚。
 
-**读者视角提示**：后面她举的例子是：理发师和某个审批委员是表亲、买菜时会想起肥料执照、每年阵亡将士纪念日想到停车问题。
+**读者视角提示**：后面她举的例子是：理发师和某个审批委员是表亲、在菜摊前会想起那人中央公园南路的复式户型图、每年阵亡将士纪念日想到停车问题。
 
 > **原句 5:** “You can stay in the house,” I said and that was the closest thing we had to our very own vow renewal.
 
@@ -73,7 +73,7 @@ modified: "2026-09-29"
 
 **为什么这样写**：一封信只有两行，署名是一个她们从没听过的名字 Eileen；前半句否定资格，后半句直接越过资格问题给许可——整本书对「你配不配」这个问题的回答，就这两行。
 
-**读者视角提示**：这套 Limoges 瓷器是当年她母亲的收藏，第二章她为留下它们放弃了搬去西雅图，第十章她把六只送给了别人。
+**读者视角提示**：这套 Limoges 瓷器是当年她母亲的收藏，第十章她送出了其中六只，第十章她把六只送给了别人。
 
 > **原句 7:** “My question is,” Tom said, “if they paid four million for the Sugar Cube, then how much is this place worth?”
 
@@ -95,7 +95,6 @@ modified: "2026-09-29"
 
 **读者视角提示**：这是 ch01 那句「Never buy a beach house」的回声——同一个词，同一个人，隔了十六章。
 
-Now inject + vocab for ch17.
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -116,7 +115,6 @@ Now inject + vocab for ch17.
 | contagious | 传染性的 | It’s a mystery and, by the way, it’s contagious. |
 | conviction | 定罪、确信 | Tom was infected shortly after the late-night living room arson conviction. |
 | distractions | 让人分心的事 | There aren’t any distractions. |
-| early-morning | 清晨的 | I can recognize the footsteps of my neighbors as they set off for their early-morning walks. |
 | information | 信息 | They’re not useful bits of information, but there they are taking up space in my brain, clogging up every corner and fold. |
 | comfortable | 自在的 | The bed was comfortable. |
 
