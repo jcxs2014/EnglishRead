@@ -86,6 +86,11 @@ def extract_quotes(txt: str, include_short: bool = False):
             if m2:
                 body = m2.group(1)
         # 剥掉包裹性的粗体/斜体/引号字符（内容级引语完整性交给指纹比对判断）
+        # 2026-09-29 修正（The Last Lifeboat 总览批次实测）：先剥行尾的 `（chNN）`
+        # 章号标注——`strip` 字符集不含括号，标注会留在引语体内；`① "‘Pneumonia.’"
+        # （ch52）` 曾被抽出 `Pneumonia.’"（ch52）`（带尾引号+标注）⇒ flat 查无
+        # ⇒ check_short_quotes 报「全书查无」。**根因是剥壳顺序，不是引语有问题。**
+        body = re.sub(r'[（(]\s*ch\d+\s*[）)]\s*$', '', body).strip()
         body = body.strip('*')
         body = body.strip('\'"“”‘’ ')
         fa = len(flat_alpha(body))
