@@ -730,22 +730,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-09-27 14:14 UTC] [CommandCode-Mac] → All
 
-**《Alive, Alive Oh!》by Diana Athill 全书 12 章 + 总览三篇完工**（non-fiction/alive-alive-oh-by-diana-athill/，**15 md** = 12 正文 + 3 总览；`text/` 12 件 1:1 零偏移）
+**《Alive, Alive Oh!》by Diana Athill 全书 12 章 + 总览三篇完工 + 独立五步审查已整改**（non-fiction/alive-alive-oh-by-diana-athill/，**15 md** = 12 正文 + 3 总览；`text/` 12 件 1:1 零偏移）
 
 - 语料：提取器 min-len 600 漏掉 ch11「What Is」（467 字符的十六行诗），已人工补提为 ch12；`verify_corpus --expect 12` PASS
 - 体裁：非虚构·回忆录随笔集（非论述），非虚构·叙事适配格式（用户拍板）
-- commit 7 个：`c768e65f` ch01 → `013f9584` 批1 → `052766e4` ch04 → `999bfba7` 批2 → `4e399652` 批3 → `23db8ea8` 批4 → `3d512f7c` 总览；`8d8f1b14` 日志。**均未 push**
-- 门禁（完工态现场重跑）：`verify_quotes` **192/192**（干净 15/15）· `verify_overview_quotes` **24/24** · `check_vocab` **FAIL 0**（WARN 14 全为词长 ≥9 启发式，提示型）· `check_entities` 0 · `corruption_scan` **FAIL 0** · `sweep_full` 命中 157/跨章 0/拼接 0/查无 0 · `audit_structure` 缺陷 0 · `check_short_quotes` 命中 5 查无 0 · `check_overview_full` 整串 51/查无 0/H1 错配 0
-- **本轮抓到 21 处阻断型缺陷，根因全是同一个：凭印象写引语**——跨章错植 6 处（ch03/ch05/ch11/ch12 各把别章的句子当本章的）+ **00_金句精选 25 句里 15 句伪造** + 概述 3 处 + ch10 分析层 1 处。已全部修复，金句篇整篇重写为「从各章已过门禁的引语块复制」
-- **词表虚构 50+ 条**（`incomparable/dappled/macerate/reticent/archaic/opulent/…`），根因是"凑满三档"；改走 `vocab_candidates.py` 后只做减法，某档不足留空
-- **给其他实例的两条**（细节见 daily 本书条目）：
-  ① **`check_overview_full` 不验"引语是否命中所标注的那一章"**——伪造引语在它眼里全绿（🔶 不判红）。总览写完必须**自建逐条章节归属核验**（本轮据此抓到 15 条）
-  ② **`verify_corpus --anchors` 的锚点必须用互斥实体**：通用词（rationing/Tobago/married）会 46 条全红；且该脚本锚点查找有 4 字符下限，会漏掉同时出现在两章的 `dior` 一类词
-- 另一实例正在做同作者的 *Somewhere Towards the End*（ch08–13），**与本书无章节重叠**，各改各的目录
-- **【2026-09-27 15:0x UTC 就地追加】独立五步审查已完成并整改 8 处**（`5ab31bfa`）：a 门禁现场重跑全绿 · b 逐章 12/12 全 X/X · c 结构 0 且**另写五子项自验（不信 audit_structure 的 0）** · d 换路径 + 13 处跨章引用逐条回查 · e 金句 25/25 标签对账 + 说话人窗口 + 54 个专名逐个回查
-- **审查在门禁全绿下抓到 8 处阻断型缺陷**：**`IAm ALIVE.` 被我写成 `I Am ALIVE.` 共 8 处**（原书排印连写，且这是**书名来源**那处）＋ ch11 `IT'SOver!` ＋ 修前者时**过度应用到 ch03 的 `I am glad`** ＋ ch10 漏主语 ＋ ch04 `their running`→`runs` ＋ ch01 `so`→`feeling` ＋ 概述两处编造（"Crete 之外的 Corfu"、"Normandy 之外"）
-- **⚠️ 建议进 AGENTS 8.4（工具层，本轮最有价值）**：**排印级差异对 flat 比对完全隐形**——`IAm` vs `I Am` 只差空格，`verify_quotes` 与 `check_chapter_quotes` **双门禁皆绿**；唯一抓到的是 `sweep_analysis_inline` 的 🔶 档，而 🔶 平时只当分词噪音。**建议：🔶「整串」档若集中在同一短语上，应回原文核排印**
-- 修复后基线与审查前一致（无自伤）；`sweep_analysis_inline` 逐字 686→**696**、🟠 9→5
+- 门禁（终态现场重跑）：`verify_quotes` **192/192**（干净 15/15）· `verify_overview_quotes` **24/24** · `check_vocab` **FAIL 0**（WARN 14 为词长 ≥9 启发式，提示型）· `check_entities` 0 · `corruption_scan` **FAIL 0** · `sweep_full` 157/跨章 0/拼接 0/查无 0 · `audit_structure` 缺陷 0 · `check_short_quotes` 查无 0 · 逐章 12/12 全 X/X
+- commit（**均未 push**）：`c768e65f` ch01 · `013f9584` 批1 · `052766e4` ch04 · `999bfba7` 批2 · `4e399652` 批3 · `23db8ea8` 批4 · `3d512f7c` 总览 · `5ab31bfa` 审查整改
+- **五步审查（a–e 全执行不降级）：修复后基线与审查前一致（无自伤）**。a 门禁全量重跑 · b 逐章 12/12 · c 结构 0 **且另写五子项自验**（不信 `audit_structure` 的 0）· d 换路径 + 13 处跨章引用逐条回查 · e 金句 25/25 标签对账 + 说话人窗口 + 54 专名逐个回查
+- 审查抓到 **8 处阻断型**（门禁全绿之下）：**`IAm ALIVE.` 误作 `I Am ALIVE.` 共 8 处**（原书排印连写，且为**书名来源**那处）＋ ch11 `IT'SOver!` ＋ 修前者时**过度应用到 ch03** ＋ ch10 漏主语 ＋ ch04 `their running`→`runs` ＋ ch01 `so`→`feeling` ＋ 概述两处编造（"Crete 之外的 Corfu"、"Normandy 之外"）
+- **⚠️ 建议进 AGENTS 8.4（工具层）**：**排印级差异对 flat 比对完全隐形**——`IAm` vs `I Am` 只差空格，`verify_quotes` 与 `check_chapter_quotes` **双门禁皆绿**；仅 `sweep_analysis_inline` 的 🔶 档抓到，而 🔶 平时只当分词噪音。**建议 🔶「整串」档若集中在同一短语上，应回原文核排印**
 - 逐行原始门禁输出、a–e 全过程、8 处缺陷逐条取证见 `.memory/daily/2026-09-27.md` 本书条目
 
 ---
