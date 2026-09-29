@@ -8,7 +8,7 @@ source_text: ch09
 
 ## 本章导航
 
-**一句话概括**：全书视角在 chapter 9 从 Carmen 换到 Grace：十四岁的 Grace 住在母亲租来的破房间里，那天心情极差，Toro 来敲门找欠钱的 Evie——他问的第一句是「You hungry?」，带她去 Kingsbridge 与 Jerome 路口那家停在 4 号列车底下的餐馆吃早饭；她发现他就是「own the block」的人，却还是上了那辆黑色奔驰；从此住进 Durka 和 Toro 的房子，被送进全女天主教学校。
+**一句话概括**：全书视角在 chapter 9 从 Carmen 换到 Grace：十四岁的 Grace 住在母亲租来的破房间里，那天心情极差，Toro 来敲门找欠钱的 Evie——他问的第一句是「You hungry?」，带她去 Kingsbridge 与 Jerome 路口那家停在 4 号列车底下的餐馆吃早饭；她听懂了那句「This was the guy who owned the block.」的分量，却还是上了那辆黑色奔驰；从此住进 Durka 和 Toro 的房子，被送进全女天主教学校。
 
 **情感弧线位置**：全书第二个大段的起点。ch01–ch08 是 Carmen 视角的 2002 年当下，本章起按分节卡「The Daughters of the Wild Mother According to Grace 1992–2002」转入 Grace 视角的回溯。情感弧线在这里从「已经发生的事」退回到「事情开始的地方」。
 

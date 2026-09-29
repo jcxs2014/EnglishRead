@@ -12,9 +12,9 @@ source_text: ch03
 
 **情感弧线位置**：低潮之后的第一次内部扩张。本章不谈 Durka 之死，谈的是「接下来怎么活」——而所有人都在用各自的办法绕开这个问题：China 用数字、Sugar 用吃的、Red 用颜色、Carmen 用桥。
 
-**Tropes 兑现/反转**：「新人入伙要过门槛」的套路被写成家暴式的真打——Grace 先一拳打在 China 肚子上再讲道理，而 China 的回应不是逃跑而是「Doña Durka didn’t mention getting fucked up as part of my job」。「得力助手来救女主」的套路也被反转：China 是来算账的，不是来帮忙的，Grace 把整柜现金直接锁给她就出门。「坏男友最终被感化」的套路被明确否掉——Pete 说「I can't promise I will be here when you get back」，而 Carmen 觉得松了一口气。
+**Tropes 兑现/反转**：「新人入伙要过门槛」的套路被写成家暴式的真打——Grace 先一拳打在 China 肚子上再讲道理，而 China 的回应不是逃跑而是「Doña Durka didn’t mention getting fucked up as part of my job」。「得力助手来救女主」的套路也被反转：China 是来算账的，不是来帮忙的，Grace 把整柜现金直接锁给她就出门。「坏男友最终被感化」的套路被明确否掉——Pete 说「I can’t promise I’ll be here when you get back」，而 Carmen 觉得松了一口气。
 
-**人物弧线**：Carmen 本章的自我暴露最彻底——她承认自己在「排练逃跑」（stepped back a few inches、turning my back、answering on the second or third try），也承认自己「want out, but it felt so much easier to breathe when I was in」；这正是 ch00 狱中那个「still didn't know if the door was open」的前身。Grace 则第一次以「决策者」而非「保护者」出现：她打 China、锁 China、给 China 活干，一句「dye your fucking hair」把招揽变成命令。
+**人物弧线**：Carmen 本章的自我暴露最彻底——她承认自己在「排练逃跑」（stepped back a few inches、turning my back、answering on the second or third try），也承认自己「I wanted out, but it felt so much easier to breathe when I was in」；「breathe」这个词把本章和 ch00 狱中那场工作坊接了起来——那里写的是「She was teaching us how to breathe again」与「I had been holding my breath」。Grace 则第一次以「决策者」而非「保护者」出现：她打 China、锁 China、给 China 活干，一句「dye your fucking hair」把招揽变成命令。
 
 **叙事手法**：全章用六处 `* * *` 把「China 进门—洗澡—饭桌—夜里开车—回家见 Pete—清晨接电话—临行前争执」切成七段；China 的入场用「数人」（nine, one more than the usual）这种身体化的细节制造不安；Carmen's第一人称在饭桌那段被剥掉，只剩对其他人口吻的转述。
 

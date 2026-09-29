@@ -12,7 +12,7 @@ source_text: ch05
 
 **情感弧线位置**：全书情感弧线的第一个真正低谷前夜。本章三处张力同时收紧——Pete 的温柔是拖住她的绳子，Nene 的 mixtape 是分家的信号，而 Carmen 那句「This was not the dream」是她第一次公开怀疑这条路的终局。
 
-**Tropes 兑现/反转**：「浪子回头用爱感化」被反转成更难受的版本——Pete 确实在变好，而 Carmen 的反应是「fall back into the soft feather-lined space」；她享受，却清楚自己已经买了另一个梦。「毒贩帝国的专业化」被写成职业套装与 Sample Books：「We were all just acquaintances exchanging goods and services: a network」。「老对手握手言和」被彻底否掉——Nene 的橄榄枝（demo）实际是最后通牒。
+**Tropes 兑现/反转**：「浪子回头用爱感化」被反转成更难受的版本——Pete 确实在变好，而 Carmen 的反应是「I fell back into the soft feather-lined space」；她享受，却清楚自己已经买了另一个梦。「毒贩帝国的专业化」被写成职业套装与 Sample Books：「We were all just acquaintances exchanging goods and services: a network」。「老对手握手言和」被彻底否掉——Nene 的橄榄枝（demo）实际是最后通牒。
 
 **人物弧线**：Carmen 本章的裂缝最宽：她一边被 Pete 按在枕头上写新结局，一边在饭局上替这套系统辩护；她甚至清楚「I felt like I didn’t even have my own back」。Grace 本章的裂缝则由 Nene 亲手撬开：他一句「You take more than you can protect」在 ch04 是忠告，在本章变成指控，而她听懂了。
 

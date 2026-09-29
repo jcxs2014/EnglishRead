@@ -12,7 +12,7 @@ source_text: ch02
 
 **情感弧线位置**：全书第一个真正的转折点。葬礼是高潮，权力移交是转折，而本章的落点在暴力现场——Grace 被打、枪被带走、Carmen 站在衣柜口干呕，三条线同时开始崩。
 
-**Tropes 兑现/反转**：「黑道女头目接班」的套路被彻底反转——Grace 的接班不是靠场面，而是靠人群中「which is what she loved most」的忠诚转移；而「女性社群互为姐妹」的理想被一句「we ain’t got no ties」撕开：Toro 动手打自己合法妻子时，没人能救她。
+**Tropes 兑现/反转**：「黑道女头目接班」的套路被彻底反转——Grace 的接班不是靠场面，而是靠葬礼上「shifting loyalties trying to attach themselves to whoever would come to fill the hole」的忠诚自动改道；而「女性社群互为姐妹」的理想被一句「we ain’t got no ties」撕开：Toro 动手打自己合法妻子时，没人能救她。
 
 **人物弧线**：Carmen 本章的功能是「看着的人」——她给 Grace 递包、开后备箱、在门口等着，但所有关键动作她都没资格参与；她对 Grace 的感情在末段被自己点破（「I was tired of Grace, I was tired of Pete, I was tired of me」），第一次承认疲惫。Grace 则从「Durka 的影子」正式变成「要自己扛的人」，代价是被丈夫（法律上的）打了一顿还不许还手。
 

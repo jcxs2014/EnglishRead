@@ -14,7 +14,7 @@ source_text: ch04
 
 **Tropes 兑现/反转**：「家族和解」的套路被明确拒绝——Toro 说「We family. I know what that means. Probably better than you.」，Grace 的回应是让开整条街。「毒贩夫妻情深」的套路被反转为交易现场：Toro 把膝盖插进她两腿之间讲旧情，Grace 的手盖上去又立刻抽走。「温馨亲子旅行」的套路被彻底掀开——这趟迪士尼是毒品的伪装，玩具是货柜。
 
-**人物弧线**：Grace 本章第一次显出政治手腕：她不再是被打的妻子，而是算时机、算信号、算谁在看着的经营者；而她对 Toro 的反应从爱情退化为耐心（她甚至为他曾让她快乐这一点「a little」原谅他）。Carmen 本章的成长线是身体与责任的分裂——她的背开始抽痛（spasm），她却在被警察拦下时抢过方向盘说「I'll do it」，因为「My duty was to everyone, not me, and not my baby」。
+**人物弧线**：Grace 本章第一次显出政治手腕：她不再是被打的妻子，而是算时机、算信号、算谁在看着的经营者；而她对 Toro 的反应从爱情退化为耐心（她甚至为他曾让她快乐这一点「a little」原谅他）。Carmen 本章的成长线是身体与责任的分裂——她的背开始抽痛（spasm）并当场喊「Can someone else drive? I’m done.」，而同车的 Grace 抢过方向盘只回一个「Nah」，因为「We all here to learn how to take heat」；Carmen 随后自己给出理由：「If I was here, I had to be here. My duty was to everyone, not me, and not my baby.」
 
 **叙事手法**：全章七处 `* * *` 把「谈判—出发—奶奶家道别—迪士尼乐园—迈阿密仓库—酒店外分车—换手驾驶」切成八段，每段用一种公共空间（餐桌／车／街／乐园／仓库／高速）对应一次身份的更换；Grace 与 Carmen 之间的「无话」被写成一条持续存在的物理距离——整趟旅行她只说过两次、都是对着别人说的。
 
