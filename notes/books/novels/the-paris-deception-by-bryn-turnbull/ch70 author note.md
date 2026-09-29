@@ -120,6 +120,7 @@ modified: "2026-09-28"
 | indebted | 感恩；有赖于 | I’m very much indebted to the many scholars who have focused their research on Nazi looting, occupied Paris, art forgery and wine-making. |
 | reprobate | 恶棍；堕落的人 | However, there was a real-life forger who sold a fake Vermeer to Hermann Göring during the Second World War: Han van Meegeren, a Dutch painter who, depending on your point of view, was either a hero, a reprobate, a criminal or a war profiteer. |
 | artifacts | 文物；人工制品 | The sheer scale of their theft was overwhelming and included not only works of art but books, furniture, jewelry and religious artifacts. |
+| provenance | 来源；出处 | Today, there is still an ongoing effort by the families of the victims to recover masterpieces stolen from them, not only from private collections but from public institutions which, knowingly or unknowingly, acquired artwork of dubious provenance. |
 
 ### ⭐⭐ 进阶
 
@@ -138,7 +139,6 @@ modified: "2026-09-28"
 | vandalism | 蓄意破坏 | In March 1939, following an auction of the most prominent works of art within the exhibition in Lucerne, the Berlin fire department burned over 4,000 paintings, sculptures, drawings and books outside the Reichstag—a shocking act of vandalism that was repeated outside the Jeu de Paume on the night of July 27, 1942. |
 | Resistance | 法国抵抗运动（**本章只以专有名词出现，小写 `resistance` 全书 0 次**） | In 2005, the Musée Jeu de Paume formally recognized the wartime heroism of Rose Valland by installing a plaque on the side of the building which chronicles her time with the French Resistance. |
 | acrylics | 丙烯颜料 | These formulations were the inspiration for Sophie’s petroleum-based acrylics in The Paris Deception. |
-| provenance | 来源；出处 | Today, there is still an ongoing effort by the families of the victims to recover masterpieces stolen from them, not only from private collections but from public institutions which, knowingly or unknowingly, acquired artwork of dubious provenance. |
 | plundered | 被掠夺的 | Throughout the course of the war, Germany plundered hundreds of thousands of works of art—an estimated 20 percent of all artworks in Europe—from those opposed to Nazi ideology: Jewish families, Communists and Freemasons. |
 
 ## 一句话总结
