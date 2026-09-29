@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 > **原句 3:** "One because it was just plain foolish to judge a girl's worth by her skin color, and two because she knew at least two girls who'd got in and did not fit that description."
 
-**中文理解**：一是按肤色评判一个女孩的价值 plainly 是愚蠢的，二是她至少认识两个进了这个会、却不符合那种描述的女孩。
+**中文理解**：一是按肤色评判一个女孩的价值荒唐（原文的用词是 just plain foolish），二是她至少认识两个进了这个会、却不符合那种描述的女孩。
 **关键词**：just plain foolish / two because / did not fit that description
 **为什么这样写**：叙述者用"一条理由、两条理由"的列举把反驳写成可清点的论证，语气像在做课堂报告；关键是"at least two"——她手里有反例，于是怀疑被推迟。
 **读者视角提示**：后文 Nadine 用 Millicent 的家世解释了这个反例为何失效，读者比 Eleanor 先看到答案。

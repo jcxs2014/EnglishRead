@@ -54,7 +54,7 @@ modified: "2026-09-29"
 
 **中文理解**：从来没有哪个男孩送过我东西。可他们倒是从我这儿拿走东西。
 **关键词**：had ever brought me a gift / They took things from me
-**为什么这样写**：一句先立起空白，再用一个 nevertheless 式的转折把往回数账；"gift" 与 "took" 之间的对照不带一个情绪词，全部由动词完成。
+**为什么这样写**：一句先立起空白，再用一个转折把往回数账；"gift" 与 "took" 之间的对照不带一个情绪词，全部由动词完成。
 **读者视角提示**：下文列举的全是具体的越界动作（摸、掀、看），这一句之所以写得轻，是因为她已经习惯了把它当成常态。
 
 > **原句 7:** "Okay, but we can't be out in the open. Pull into the side alley."

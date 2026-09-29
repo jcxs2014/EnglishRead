@@ -40,7 +40,7 @@ modified: "2026-09-29"
 
 **中文理解**：艺术是你随时可以回去的那个朋友。它永远会在那里，抬高你活着的感觉。继续画。
 **关键词**：the friend that you can always return to / heighten your feeling of aliveness / Keep going
-**为什么这样写**：老师把画布说成"随时能回去的朋友"，是把一件无回应之物拟人化；"heighten your feeling of aliveness" 用一个抽象名词 aliveness 收尾，避开了 happy 这类已被用旧的词。
+**为什么这样写**：老师把画布说成"随时能回去的朋友"，是把一件无回应之物拟人化；"heighten your feeling of aliveness" 用一个抽象名词 aliveness 收尾，避开了那种最现成的、谁都拿来用的情绪词。
 **读者视角提示**：这是 Ruby 两年前听来的话，本章她重新捡起它——同一句台词在回忆与现实里各出现一次，是本卷惯用的复沓手法。
 
 > **原句 5:** "The bird says it all."
