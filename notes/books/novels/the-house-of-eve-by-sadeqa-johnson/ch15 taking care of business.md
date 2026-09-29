@@ -55,7 +55,7 @@ modified: "2026-09-29"
 **中文理解**：姑妈会把一切都料理好。会没事的，宝贝。
 **关键词**：take care of everything / all right, sweetness
 **为什么这样写**：这一章前半段的算账，到这里只落成两句。两句都不带主语，像在陈述一件已经办妥的事；最后那个甜食一样的称呼，把一个正在替她违法的人叫成了安慰者。
-**读者视角提示**：她说完这句就把 Ruby 搂进怀里，而 Ruby 心里闪过的是：要是当年那个人也这样被「料理」，日子会不会不一样。章名就取自这半句里的那个词。
+**读者视角提示**：她说完这句之后不久就把 Ruby 搂进怀里，而 Ruby 心里闪过的是：要是当年那个人也这样被「料理」，日子会不会不一样。章名里的 take care of 与这半句相扣。
 
 > **原句 7:** "Juney must ain’t heard. White girl died last night on the table. Bled to death. People asking questions. Business gone cold."
 
@@ -70,7 +70,7 @@ modified: "2026-09-29"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Misbehavin | （地名戏称，谐音 Mississippi） | While we worked, she sang along to Fats Waller’s “Ain’t Misbehavin’ ” playing on the jukebox. |
+| Misbehavin | （此处为）不老实（此处为点唱机上放的一首歌名） | While we worked, she sang along to Fats Waller’s “Ain’t Misbehavin’ ” playing on the jukebox. |
 | floor-to-ceiling | 从地到顶的 | She had removed the many bottles of liquor and was sponging down the floor-to-ceiling mirror with dish soap, white vinegar and water. |
 | oil-stained | 沾了油污的 | Aunt Marie’s oil-stained rag swept over the bar top, but her eyes never left me. |
 | handwritten | （此处为）手写的 | It had started with a handwritten note. |
