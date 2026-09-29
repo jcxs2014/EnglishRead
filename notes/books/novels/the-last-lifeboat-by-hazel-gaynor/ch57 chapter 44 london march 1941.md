@@ -101,9 +101,9 @@ modified: "2026-09-28"
 
 **关键词**：I am interested in / the Stately ’Omes of England
 
-**为什么这样写**：**这是全书最冷的一次幽默，而它靠一个拆字。**"the Stately 'Omes"（皇家家园）**——**而 Stately Home 是英国的一个真实机构（Stately Home Trust，抚养战争孤儿的机构），而 'Omes 是把 Home 的 h 换成撇号**；**——这个替换的效果是：它把"家园"这个词的家（home）拆掉了屋顶（h→'）**；**——而莉莉用这句作为接头暗号，说明她做过功课，但她自己知道这是什么意思**。
+**为什么这样写**：**这是全书最冷的一次幽默，而它靠一个拆字。**"the Stately ’Omes"（皇家家园）**——**而 Stately Home 是英国的一个真实机构（Stately Home Trust，抚养战争孤儿的机构），而 'Omes 是把 Home 的 h 换成撇号**；**——这个替换的效果是：它把"家园"这个词的家（home）拆掉了屋顶（h→'）**；**——而莉莉用这句作为接头暗号，说明她做过功课，但她自己知道这是什么意思**。
 
-**读者视角提示：⚠️** **"the Stately 'Omes of England"（英格兰的皇家家园）与 ch32 那位 CORB 官员说的 "He's like a character from one of Hamish's adventure stories"（他像哈米什冒险故事里的一个角色）**——**ch32 用的是拆词，ch57 用的也是拆词**；**——所以这本书对"暗号"的处理是：它必须是字面上读得通、实际上读不通的东西**；**而作者紧接着给了这一句注解：She's worked out that the letters SOE are significant, but isn't yet sure why.（她已经算出这三个字母 SOE 很重要，但还不确定为什么。）**
+**读者视角提示：⚠️** **"the Stately ’Omes of England"（英格兰的皇家家园）与 ch32 那位 CORB 官员说的 "He’s like a character from one of Hamish’s adventure stories"（他像哈米什冒险故事里的一个角色）**——**ch32 用的是拆词，ch57 用的也是拆词**；**——所以这本书对"暗号"的处理是：它必须是字面上读得通、实际上读不通的东西**；**而作者紧接着给了这一句注解：She's worked out that the letters SOE are significant, but isn't yet sure why.（她已经算出这三个字母 SOE 很重要，但还不确定为什么。）**
 
 > **原句 10:** "She doesn’t, for one moment, doubt herself or wonder if she’s doing the right thing."
 
@@ -111,7 +111,7 @@ modified: "2026-09-28"
 
 **关键词**：for one moment / doubt herself / or wonder if she’s doing the right thing
 
-**为什么这样写**：**这是全书对"决心"最不煽情的一次描写，而它是一个双重否定。**"for one moment"（一刻也没有）**——**而这个短语在英语里通常出现在"犹豫过"之后，而作者让它单独成为一个绝对的时间状语**；**——"doubt herself or wonder if she's doing the right thing"（怀疑自己，或问自己是不是在做对的事）**——**而 doubt 和 wonder 是两种不同的怀疑：前者针对自己，后者针对判断**；**——而这一句是全书里唯一一个"做事前的自我怀疑"缺席的段落——她不怀疑，是因为她已经知道。**
+**为什么这样写**：**这是全书对"决心"最不煽情的一次描写，而它是一个双重否定。**"for one moment"（一刻也没有）**——**而这个短语在英语里通常出现在"犹豫过"之后，而作者让它单独成为一个绝对的时间状语**；**——"doubt herself or wonder if she’s doing the right thing"（怀疑自己，或问自己是不是在做对的事）**——**而 doubt 和 wonder 是两种不同的怀疑：前者针对自己，后者针对判断**；**——而这一句是全书里唯一一个"做事前的自我怀疑"缺席的段落——她不怀疑，是因为她已经知道。**
 
 **读者视角提示：⚠️** **"She already knows that this is where she was meant to come."（她已经知道，这就是她该来的地方。）**——**而"被 meant to"（命中注定）这个词组在 ch43 那位官员的公文语里出现过（not all children engaged in the activity）**；**——但这两处完全不同：官员的 meant to 是"并非都参与了这项活动"，莉莉的 meant to 是"命定"**；**——所以这本书对"命中注定"这个词的用法很克制：它只给行动力，不给解释。**
 

@@ -21,7 +21,7 @@ modified: "2026-09-28"
 
 **关键词**：She can’t bear the thought / of what’s inside / but it is for Ada to decide / whether to read the letter, or not
 
-**为什么这样写**：**这是全书对"知情权"最清楚的一次界定，而它是一组对照。**"She can't bear the thought of what's inside"（她不敢想里面是什么）**——**而 can't bear（受不了）比 not want（不想）更身体化**；**——"but it is for Ada to decide"（但该由阿达来决定）——**而这一句把主语从莉莉换成了阿达，而这个更换是这一章的全部伦理**；**——"whether to read the letter, or not"（要不要读这封信）——**而 or not（或者不）在这里是被写出来的选项，而它在整本书里第一次出现：一个母亲有权选择不知道。**
+**为什么这样写**：**这是全书对"知情权"最清楚的一次界定，而它是一组对照。**"She can’t bear the thought of what’s inside"（她不敢想里面是什么）**——**而 can't bear（受不了）比 not want（不想）更身体化**；**——"but it is for Ada to decide"（但该由阿达来决定）——**而这一句把主语从莉莉换成了阿达，而这个更换是这一章的全部伦理**；**——"whether to read the letter, or not"（要不要读这封信）——**而 or not（或者不）在这里是被写出来的选项，而它在整本书里第一次出现：一个母亲有权选择不知道。**
 
 **读者视角提示：⚠️** **"it is for Ada to decide whether to read the letter, or not"（该由阿达决定要不要读）与 ch57 那句 COE 公函的原文**（'I have put the letter in the enclosed envelope so that you can read it, or destroy it as you wish.'）**——**这是同一份文件里的同一句话，而作者让读者先在公函里读到它（ch57），再在莉莉的坚持里读到它的执行（本章）**；**——所以这本书对"权利"的处理是：它先写成公函，再写成行动。**
 
@@ -81,9 +81,9 @@ modified: "2026-09-28"
 
 **关键词**：The breeze tugs / impatiently / at the feather / in Ada’s hand
 
-**为什么这样写**：**这是全书对"等待"最主动的一次拟人，而它把主角给了风。**"The breeze tugs"（风在拽）**——**而 tugs（拽）是一个小动作，但在这个句子里它是全章唯一的力量**；**——"impatiently"（不耐烦地）**——**而这一词把风写成一个等不及的人**；**——"at the feather in Ada's hand"（对着阿达手里那根羽毛）——**而 in…hand 这个方位说明：羽毛还在被握着**；**——所以作者在放手之前，先让世界来催一次。**
+**为什么这样写**：**这是全书对"等待"最主动的一次拟人，而它把主角给了风。**"The breeze tugs"（风在拽）**——**而 tugs（拽）是一个小动作，但在这个句子里它是全章唯一的力量**；**——"impatiently"（不耐烦地）**——**而这一词把风写成一个等不及的人**；**——"at the feather in Ada’s hand"（对着阿达手里那根羽毛）——**而 in…hand 这个方位说明：羽毛还在被握着**；**——所以作者在放手之前，先让世界来催一次。**
 
-**读者视角提示：⚠️** **"The breeze tugs impatiently at the feather in Ada's hand."（风不耐烦地拽着阿达手里那根羽毛。）与 ch49 那句 "A distant hum drifts through the air."（一阵远处的嗡鸣飘过空气。）**——**ch49 那个声音是希望（它是飞机），ch60 这个动作是放手**；**——而两处都是"从外面来的东西推动了她"**。
+**读者视角提示：⚠️** **"The breeze tugs impatiently at the feather in Ada’s hand."（风不耐烦地拽着阿达手里那根羽毛。）与 ch49 那句 "A distant hum drifts through the air."（一阵远处的嗡鸣飘过空气。）**——**ch49 那个声音是希望（它是飞机），ch60 这个动作是放手**；**——而两处都是"从外面来的东西推动了她"**。
 
 > **原句 8:** "It dances and twitches, as if it is eager to fly again."
 
@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"失去"最温柔的拟人，而它是三个动词的并置。**"dances and twitches"（舞动、抽动）**——**而 twitches（抽动）是一个不自主的、快速的动词，它让"舞动"不至于太优雅**；**——"as if it is eager"（仿佛它很急）**——**而 as if 再次出现（ch53 的 eroded by、ch52 的 unrecognizable 都用过它）：这是这本书对无法确定的事的标准句式**；**——"to fly again"（再飞一次）——**而 again（再次）说明这根羽毛飞过一次：它是 ch40 那根从海鸥脚边捞起来的白羽毛。**
 
-**读者视角提示：⚠️** **"eager to fly again"（急着再飞一次）与 ch45 那句 "I won't leave you, Arthur. I promise. We've come this far together, and we'll go home together."（我不会离开你，亚瑟。我保证。我们一起走到这里，也会一起回家。）**——**一根羽毛被写成了"急着再走"，而一个八岁的孩子承诺"不离开"**；**——所以这本书对"离别"的处理是：它把同一件事分给两个方向——一个必须被放开，一个必须被带着。**
+**读者视角提示：⚠️** **"eager to fly again"（急着再飞一次）与 ch45 那句 "I won’t leave you, Arthur. I promise. We’ve come this far together, and we’ll go home together."（我不会离开你，亚瑟。我保证。我们一起走到这里，也会一起回家。）**——**一根羽毛被写成了"急着再走"，而一个八岁的孩子承诺"不离开"**；**——所以这本书对"离别"的处理是：它把同一件事分给两个方向——一个必须被放开，一个必须被带着。**
 
 > **原句 9:** "The silence is excruciating, Ada’s quiet suffering unbearable."
 
@@ -101,7 +101,7 @@ modified: "2026-09-28"
 
 **关键词**：The silence is excruciating / Ada’s quiet suffering unbearable
 
-**为什么这样写**：**这是全书对"沉默"最集中的一次描写，而它是两个并置的形容词。**"The silence is excruciating"（寂静是折磨般的）**——**而作者把折磨给了"声音的缺席"，而不是给人**；**——"Ada's quiet suffering unbearable"（阿达安静的痛苦难以忍受）——**而这一句的结构是领属式的：她的痛苦不可忍受，而她安静**；**——所以作者用两个形容词描述同一个场景：一个说明难忍，一个说明难忍的方式。**
+**为什么这样写**：**这是全书对"沉默"最集中的一次描写，而它是两个并置的形容词。**"The silence is excruciating"（寂静是折磨般的）**——**而作者把折磨给了"声音的缺席"，而不是给人**；**——"Ada’s quiet suffering unbearable"（阿达安静的痛苦难以忍受）——**而这一句的结构是领属式的：她的痛苦不可忍受，而她安静**；**——所以作者用两个形容词描述同一个场景：一个说明难忍，一个说明难忍的方式。**
 
 **读者视角提示：⚠️** **"The silence is excruciating"（寂静是折磨般的）与 ch52 那句 "The cabin is too quiet without the constant sound of wind and rain…"（没有风声雨声……这间舱房太安静了。）**——**ch52 是嫌安静，ch60 是必须安静**；**——而这一章的作者在两处都用了 too / excruciating 这样的强度副词：**这本书里的安静从来不是中性的。**
 

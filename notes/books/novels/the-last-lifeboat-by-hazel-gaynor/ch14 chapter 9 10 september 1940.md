@@ -71,7 +71,7 @@ modified: "2026-09-28"
 
 **关键词**：Two things / We mustn’t show any favouritism, or become emotionally attached / And we will leave without you if necessary
 
-**为什么这样写**：**这是全书给护送者定的两条规矩，而作者让第二条彻底压垮了第一条。**"Two things."（两件事。）——**独立成句，像盖章**；"We mustn't show any favouritism, or become emotionally attached."（不能偏袒，不能依恋。）——**这条规矩是"职业性的"**；"And we will leave without you if necessary."（必要的话，我们会不等你就走。）——**注意这里的 we（我们）**：Eleanor 用复数说话，**这意味着这条规矩不是她个人的，是机构的**；**而 "leave without you"（不等你就走）这五个字，在七天后会被真的执行一次——只是那一次，走掉的是所有大人。**
+**为什么这样写**：**这是全书给护送者定的两条规矩，而作者让第二条彻底压垮了第一条。**"Two things."（两件事。）——**独立成句，像盖章**；"We mustn’t show any favouritism, or become emotionally attached."（不能偏袒，不能依恋。）——**这条规矩是"职业性的"**；"And we will leave without you if necessary."（必要的话，我们会不等你就走。）——**注意这里的 we（我们）**：Eleanor 用复数说话，**这意味着这条规矩不是她个人的，是机构的**；**而 "leave without you"（不等你就走）这五个字，在七天后会被真的执行一次——只是那一次，走掉的是所有大人。**
 
 **读者视角提示**：⚠️ **这两条规矩是 ch02 的"种子"，请把它们记住**——① "or become emotionally attached"（不能依恋）在 ch14 结尾被 Alice 立刻违反；**② "we will leave without you"（不等你就走）在 ch02 那条船上被完整兑现**——**那一夜，Alice 恰恰是被留在船上、等那个高个男人来决定生死的人；**所以这一章里最像反派的一句话，其实是这一整条命运的台词。
 
@@ -83,7 +83,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"迷信"最温柔的一次处理，而作者让它由一个刚刚在整夜轰炸里失去邻居的女人说出。**"a lucky talisman"（幸运护身符）——**talisman（护身符）这个词在英语里带一点东方神秘色彩，而 Lily 用的却是最土的东西：一根白羽毛**；**"A silly superstition really but"（确实是个愚蠢的迷信，不过）——**请注意 really but（不过）这个转折：她在为自己的迷信道歉（silly），同时又坚持要给出（but）；**而 would you mind?（能麻烦你吗？）这个问句，把"请收下我的恐惧"包装成了"请帮个忙"。**
 
-**读者视角提示**：⚠️ **"白羽毛"（white feather）是本书最关键的实物之一，请记住它**——① 它来自 Lily（ch04–ch13 那个爱数数字、爱看图案的女人）；**② 它在 ch14 末尾被 Alice 交还给 Billy Fortune**（I'll keep that in your pocket if I were you）；**③ 而 Billy 随后说它是"That'll be from the pigeons"（那是从鸽子那儿来的）——**所以这根羽毛同时属于**母亲、孩子、鸽子**，而这三者都是"离开的人"。
+**读者视角提示**：⚠️ **"白羽毛"（white feather）是本书最关键的实物之一，请记住它**——① 它来自 Lily（ch04–ch13 那个爱数数字、爱看图案的女人）；**② 它在 ch14 末尾被 Alice 交还给 Billy Fortune**（I'll keep that in your pocket if I were you）；**③ 而 Billy 随后说它是"That’ll be from the pigeons"（那是从鸽子那儿来的）——**所以这根羽毛同时属于**母亲、孩子、鸽子**，而这三者都是"离开的人"。
 
 > **原句 8:** "‘SS Carlisle,’ Alice whispered. ‘Departing from Liverpool.’"
 

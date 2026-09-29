@@ -23,7 +23,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"被看见"最抗拒的一次表达，而它是一个分号加一个省略式并列。**"all these people"（这么多人）**——**而 these（这些）说明在爱丽丝眼里人群没有区分度：不是一个一个的人，是一个数量**；**"to see her; to know her"（看见她；认识她）**——**而分号后面那半句比前半句更重：被看见是眼睛的事，被认识是身份的事**；**——所以作者用一个分号把这两件事压进同一句话，而它们之间不需要 but：它们本来就是递进的。**
 
-**读者视角提示：⚠️** **"She doesn't want all these people to see her; to know her."（她不想让这么多人看见她、认识她。）与 ch48 那句 "I'd like some time alone. In private."（我们想单独待一会儿。私下。）——ch48 是那位母亲在拒绝一场采访，ch55 是一个刚刚救了三十五条命的人拒绝人群**；**——而 ch48 那次她做到了（凯蒂替她挡了），这一章她一次也没能躲开。**
+**读者视角提示：⚠️** **"She doesn’t want all these people to see her; to know her."（她不想让这么多人看见她、认识她。）与 ch48 那句 "I’d like some time alone. In private."（我们想单独待一会儿。私下。）——ch48 是那位母亲在拒绝一场采访，ch55 是一个刚刚救了三十五条命的人拒绝人群**；**——而 ch48 那次她做到了（凯蒂替她挡了），这一章她一次也没能躲开。**
 
 > **原句 2:** "every bone in her body feels like a sponge"
 
@@ -51,9 +51,9 @@ modified: "2026-09-28"
 
 **关键词**：And I’m terrified
 
-**为什么这样写**：**这是全书对"新生命"最诚实的一次表露，而它是一句 And 起头的补语。**"And I'm terrified."（而我很害怕。）**——**而 And（而）在这里不是顺承，是转折：上一句是一个果决的决定，这一句把它立刻推翻**；**——而 terrified（害怕）这个词与前面那整套庆祝的语言（miracle、brave、welcome）完全不属于同一个语域**；**——所以作者用最短的一句，把一个母亲从"奇迹"拉回"我怕"。**
+**为什么这样写**：**这是全书对"新生命"最诚实的一次表露，而它是一句 And 起头的补语。**"And I’m terrified."（而我很害怕。）**——**而 And（而）在这里不是顺承，是转折：上一句是一个果决的决定，这一句把它立刻推翻**；**——而 terrified（害怕）这个词与前面那整套庆祝的语言（miracle、brave、welcome）完全不属于同一个语域**；**——所以作者用最短的一句，把一个母亲从"奇迹"拉回"我怕"。**
 
-**读者视角提示：⚠️** **"And I'm terrified."（而我很害怕。）与下一段那句 "after so much loss, there is something profoundly hopeful in the miracle of a new life"（在这么多失去之后，一个新生命的奇迹里有某种深刻的希望）**——**同一页之内，一个人说自己怕，另一个人说这是希望**；**——而爱丽丝选择了后者：'I promise.'（我保证。）——所以这本书对"希望"的理解是：它不由自己决定，由别人替你决定。**
+**读者视角提示：⚠️** **"And I’m terrified."（而我很害怕。）与下一段那句 "after so much loss, there is something profoundly hopeful in the miracle of a new life"（在这么多失去之后，一个新生命的奇迹里有某种深刻的希望）**——**同一页之内，一个人说自己怕，另一个人说这是希望**；**——而爱丽丝选择了后者：'I promise.'（我保证。）——所以这本书对"希望"的理解是：它不由自己决定，由别人替你决定。**
 
 > **原句 5:** "‘You will make sure he has his marble, won’t you? It’s on an upturned teacup, beside his bed. It’s the only one he has left.’"
 
@@ -61,9 +61,9 @@ modified: "2026-09-28"
 
 **关键词**：make sure he has his marble / won’t you? / It’s the only one / he has left
 
-**为什么这样写**：**这是全书对"托付"最小心的一次，而它托付的不是人，是一颗弹珠。**"make sure he has his marble"（确保他还有那颗弹珠）**——**而 make sure 是这一章里最重的一个动词，而它的宾语是"他有弹珠"**；**"It's the only one he has left."（那是他唯一剩下的一个了。）——**而 only one（唯一一个）与 left（剩下）这两个词一起，把前面 ch52 那句 "his precious marble sits on top of an upturned teacup" 里的"珍贵"改成了"唯一"**。
+**为什么这样写**：**这是全书对"托付"最小心的一次，而它托付的不是人，是一颗弹珠。**"make sure he has his marble"（确保他还有那颗弹珠）**——**而 make sure 是这一章里最重的一个动词，而它的宾语是"他有弹珠"**；**"It’s the only one he has left."（那是他唯一剩下的一个了。）——**而 only one（唯一一个）与 left（剩下）这两个词一起，把前面 ch52 那句 "his precious marble sits on top of an upturned teacup" 里的"珍贵"改成了"唯一"**。
 
-**读者视角提示：⚠️** **"It's the only one he has left."（那是他唯一剩下的一个了。）与 ch41 那个把弹珠举起来对着光的动作**——**弹珠在船上是他最贵的东西，下船时它成了他唯一带出来的东西**；**——而作者把它托付给一位船长：这本书处理"遗物"的方式，是让它在每一次转手时都换一次性质。**
+**读者视角提示：⚠️** **"It’s the only one he has left."（那是他唯一剩下的一个了。）与 ch41 那个把弹珠举起来对着光的动作**——**弹珠在船上是他最贵的东西，下船时它成了他唯一带出来的东西**；**——而作者把它托付给一位船长：这本书处理"遗物"的方式，是让它在每一次转手时都换一次性质。**
 
 > **原句 6:** "Lily Nicholls is smaller than Alice remembers, as if she has been eroded by the nightmare of believing her son was never coming home."
 
@@ -83,7 +83,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"感谢"最尖刻的一次诊断，而它是一句"语言不足"的自述。**"feels so inadequate"（感觉这么不够）**——**而 inadequate（不够的）在英语里通常形容人或装备，而作者把它用在一个感谢动作上**；**"for something so enormous"（对这么大的事）**——**而 enormous（巨大的）与 inadequate（不够的）构成一组量级对照：词太小，事太大**；**——"for keeping Arthur safe, for bringing him back to me"（两个并列的 for）**——**而作者让莉莉把感谢拆成两个动作：保住了他、带他回来**。
 
-**读者视角提示：⚠️** **"Thank you feels so inadequate for something so enormous."（"谢谢"对这么大的事太不够了。）与 ch46 那位母亲在码头上说的 "I can't thank you enough, Mr Keane. You saved her life."（我怎么谢都不够，基恩先生。你救了她一命。）——ch46 那次她说"谢不够"，ch55 这次说"谢这个字本身不够"**；**——所以这本书对"母亲的感谢"的处理是：越大的恩情，越要用更小的词，而母亲自己会指出这一点。**
+**读者视角提示：⚠️** **"Thank you feels so inadequate for something so enormous."（"谢谢"对这么大的事太不够了。）与 ch46 那位母亲在码头上说的 "I can’t thank you enough, Mr Keane. You saved her life."（我怎么谢都不够，基恩先生。你救了她一命。）——ch46 那次她说"谢不够"，ch55 这次说"谢这个字本身不够"**；**——所以这本书对"母亲的感谢"的处理是：越大的恩情，越要用更小的词，而母亲自己会指出这一点。**
 
 > **原句 8:** "‘I’m not with the newspapers, love. I’m looking for my boy. He was in the lifeboat they found. Billy Fortune. Do you know where he is?’"
 
@@ -91,9 +91,9 @@ modified: "2026-09-28"
 
 **关键词**：I’m not with the newspapers, love / I’m looking for my boy / Billy Fortune / Do you know where he is?
 
-**为什么这样写**：**这是全书最后一个被说出的名字，而它的结构是三次纠正。**"I'm not with the newspapers"（我不是记者）**——**而这一句直接对应爱丽丝在上一段刚刚说过的话（'There'll be time for newspapers to ask questions later… I can't talk to you now.'）**；**——"I'm looking for my boy."（我在找我儿子。）**——**而 my boy（我的儿子）在全书只有极少数地方出现过，而 ch42 那个写信说 "Remember us"（记住我们）的孩子喊的是 "Mummy"**；**——"Billy Fortune. Do you know where he is?"**——**而作者让这位母亲先把名字说完整、再问问题：名字是请求的凭据**。
+**为什么这样写**：**这是全书最后一个被说出的名字，而它的结构是三次纠正。**"I’m not with the newspapers"（我不是记者）**——**而这一句直接对应爱丽丝在上一段刚刚说过的话（'There'll be time for newspapers to ask questions later… I can't talk to you now.'）**；**——"I’m looking for my boy."（我在找我儿子。）**——**而 my boy（我的儿子）在全书只有极少数地方出现过，而 ch42 那个写信说 "Remember us"（记住我们）的孩子喊的是 "Mummy"**；**——"Billy Fortune. Do you know where he is?"**——**而作者让这位母亲先把名字说完整、再问问题：名字是请求的凭据**。
 
-**读者视角提示：⚠️** **"I'm looking for my boy."（我在找我儿子。）与 ch55 早先那句 "You will make sure he has his marble, won't you?"**——**爱丽丝刚把弹珠托付给一位船长，读者在几十行之后才明白：那个托付的原因，是因为她知道下一句问话会从人群里冒出来**；**——所以本书对"重逢"的最后一笔，是把它交给一个作者自己都没法回答的问题。**
+**读者视角提示：⚠️** **"I’m looking for my boy."（我在找我儿子。）与 ch55 早先那句 "You will make sure he has his marble, won’t you?"**——**爱丽丝刚把弹珠托付给一位船长，读者在几十行之后才明白：那个托付的原因，是因为她知道下一句问话会从人群里冒出来**；**——所以本书对"重逢"的最后一笔，是把它交给一个作者自己都没法回答的问题。**
 
 ## 本章词汇
 

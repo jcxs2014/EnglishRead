@@ -21,7 +21,7 @@ modified: "2026-09-28"
 
 **关键词**：nothing was settled at all / in a terrible disarray
 
-**为什么这样写**：**这是全书对"人生失控"最平实的一次定义，而它只用了两个短句。**"nothing was settled at all"（什么都没有定下来）——**at all 是一个加强语气的后缀，说明前面还有过"以为定了"的时候**；"a terrible disarray"（一片可怕的混乱）——**请注意 disarray 这个词：它不是"乱"（mess），是"乱到无法归位"——原本有秩序，现在顺序本身没有了。**而这一句紧跟在 Elsie 那句 "That's settled then."（那就说定了）后面——**所以全章的转折点其实是这两个词的对照：一个人说"定了"，另一个人说"什么都没定"。**
+**为什么这样写**：**这是全书对"人生失控"最平实的一次定义，而它只用了两个短句。**"nothing was settled at all"（什么都没有定下来）——**at all 是一个加强语气的后缀，说明前面还有过"以为定了"的时候**；"a terrible disarray"（一片可怕的混乱）——**请注意 disarray 这个词：它不是"乱"（mess），是"乱到无法归位"——原本有秩序，现在顺序本身没有了。**而这一句紧跟在 Elsie 那句 "That’s settled then."（那就说定了）后面——**所以全章的转折点其实是这两个词的对照：一个人说"定了"，另一个人说"什么都没定"。**
 
 **读者视角提示**：⚠️ **"disarray"（一片混乱）这个词在 ch15 已经出现过一次**（awful stories began to emerge about brick surface shelters collapsing），**但那次指的是物理的坍塌；**这次指的是一个女人的人生。**所以这本书让同一个词从"墙"走到"人"身上。**
 
@@ -71,7 +71,7 @@ modified: "2026-09-28"
 
 **关键词**：That bloody siren / sets my teeth on edge / no matter how many times I hear it
 
-**为什么这样写**：**这是全书对"习惯"最绝望的一次描述，而它用了一个关于牙齿的习语。**"sets my teeth on edge"（让我牙根发酸）——**这个英语习语形容一种生理性的、无法消除的不适：不是怕，是身体记住了**；**"bloody siren"（那该死的警报声）**——**请注意 bloody 修饰的是警报，而本书自 ch01 那句"bloody Hitler"（该死的希特勒）以来，bloody 已经成了一个通用加强词**；"I don't think I'll ever get used to it"（我觉得自己永远都习惯不了它）——**请注意 "I don't think"（我觉得）这个双重否定式的软化：她说"我觉得"，其实她确定。**
+**为什么这样写**：**这是全书对"习惯"最绝望的一次描述，而它用了一个关于牙齿的习语。**"sets my teeth on edge"（让我牙根发酸）——**这个英语习语形容一种生理性的、无法消除的不适：不是怕，是身体记住了**；**"bloody siren"（那该死的警报声）**——**请注意 bloody 修饰的是警报，而本书自 ch01 那句"bloody Hitler"（该死的希特勒）以来，bloody 已经成了一个通用加强词**；"I don’t think I’ll ever get used to it"（我觉得自己永远都习惯不了它）——**请注意 "I don’t think"（我觉得）这个双重否定式的软化：她说"我觉得"，其实她确定。**
 
 **读者视角提示**：⚠️ **"sets my teeth on edge"（牙根发酸）是全书对"警报"最生理的一次描写**——**对照 ch12 里 Lily 数数、ch15 里她说"我只想做点什么"，这里的警报是唯一一件她无法用任何方法（数数、算概率、讲道理）应对的东西**；**所以她只能承认：有些东西不会习惯，只会一天比一天更磨人。**
 
@@ -101,7 +101,7 @@ modified: "2026-09-28"
 
 **关键词**：They’ll be fine / Having a wonderful adventure, no doubt / Try not to worry
 
-**为什么这样写**：**这是全书对"空洞的安慰"最完整的一次标本，而它由三个祈使句组成。**"They'll be fine."（他们会没事的。）——**一个判断，零根据**；"Having a wonderful adventure, no doubt."（毫无疑问，他们正在经历一场美妙的冒险。）——**请注意这一句把 ch15 那句 "a great adventure"（一场大冒险）**原样还给了莉莉**——**而那句话原本是关于炸弹的；**"no doubt"（无疑）在这里是反讽：她当然不知道，他们此刻正在一片漆黑里**；"Try not to worry."（别担心了。）——**这一句用祈使句（try）来指挥别人的情绪，而这是全书最无效的一句安慰。**
+**为什么这样写**：**这是全书对"空洞的安慰"最完整的一次标本，而它由三个祈使句组成。**"They’ll be fine."（他们会没事的。）——**一个判断，零根据**；"Having a wonderful adventure, no doubt."（毫无疑问，他们正在经历一场美妙的冒险。）——**请注意这一句把 ch15 那句 "a great adventure"（一场大冒险）**原样还给了莉莉**——**而那句话原本是关于炸弹的；**"no doubt"（无疑）在这里是反讽：她当然不知道，他们此刻正在一片漆黑里**；"Try not to worry."（别担心了。）——**这一句用祈使句（try）来指挥别人的情绪，而这是全书最无效的一句安慰。**
 
 **读者视角提示**：⚠️ **"Having a wonderful adventure"（美妙的冒险）是 ch15 那句"a great adventure"的回声，而两处的说话者都以为自己在安慰人**——**请注意这一次 Elsie 说这句话时，作者用的是 "no doubt"（无疑）而不是 "I'm sure"（我确定）**，**这让她的安慰听起来像一句背下来的台词**；**而四个月后，这句"冒险"会变成那六个孩子的第一个夜晚。**
 
@@ -133,7 +133,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书最重的一句台词，而它只有七个词，没有一个形容词。**"My husband died."（我丈夫死了。）——**请注意这个句子的全部信息：主语是我的丈夫，谓语是死了；没有原因、没有过程、没有一个多余的字**；**"Earlier this year."（今年早些时候。）**——**请注意这一句才是真正的重击，因为它补上了"今年"这个时间：整条街（ch04 邻居们、ch15 Elsie 的丈夫在海上）都以为他还在打仗，而他说的是"今年"**；**而"earlier this year"（今年早些时候）这个说法在英语里有一种近乎行政的轻描淡写——**用它来报告一件人的事，这是最狠的一种冷。
 
-**读者视角提示**：⚠️ **这一句必须与 ch04 那句"People assume he's away fighting"（人们以为他在打仗）对照**——**本章这句和 ch04 那句互为因果**；**而请注意这本书里"丈夫的位置"一直没有被填上：ch04 邻居们不问，ch15 她自己也不说，ch16 那位 diarist 抱怨"孩子不在家"，**——**直到这一夜，它才被说出来，而说出来的场合是一杯茶。**
+**读者视角提示**：⚠️ **这一句必须与 ch04 那句"People assume he’s away fighting"（人们以为他在打仗）对照**——**本章这句和 ch04 那句互为因果**；**而请注意这本书里"丈夫的位置"一直没有被填上：ch04 邻居们不问，ch15 她自己也不说，ch16 那位 diarist 抱怨"孩子不在家"，**——**直到这一夜，它才被说出来，而说出来的场合是一杯茶。**
 
 > **原句 13:** "I had no idea. What a nonsense I am, going on and on."
 
@@ -151,9 +151,9 @@ modified: "2026-09-28"
 
 **关键词**：You weren’t to know / People assume he’s away fighting / It’s easier not to correct them
 
-**为什么这样写**：**这是全书对"沉默的好处"最直白的一次承认，而它只有三句。**"You weren't to know."（你不可能知道。）——**请注意这个双重否定：我不是怪你，是"你不可能知道"**；"People assume he's away fighting."（人们都以为他在打仗。）——**这正是 ch04 那句的重复，而这一次它被解释成了一种掩护**；"It's easier not to correct them."（不去纠正他们更省事。）——**请注意 easier（更省事）这个词，它把"不解释丧夫之痛"这件事说成了一项"省力"的决策**——**而这个省的"力"，正是莉莉用来维持"正常"的那份力气。**
+**为什么这样写**：**这是全书对"沉默的好处"最直白的一次承认，而它只有三句。**"You weren’t to know."（你不可能知道。）——**请注意这个双重否定：我不是怪你，是"你不可能知道"**；"People assume he’s away fighting."（人们都以为他在打仗。）——**这正是 ch04 那句的重复，而这一次它被解释成了一种掩护**；"It’s easier not to correct them."（不去纠正他们更省事。）——**请注意 easier（更省事）这个词，它把"不解释丧夫之痛"这件事说成了一项"省力"的决策**——**而这个省的"力"，正是莉莉用来维持"正常"的那份力气。**
 
-**读者视角提示**：⚠️ **这一句是 ch15 那位 diarist 说的"it's easier not to correct them"的预演，而它是全书对"谎言的好处"最经济的一次陈述**——**请把它与 ch07 那位 diarist 的"我还没疯"（Sometimes feel I'm going mad）对照：**一个用笑藏眼泪，一个用"他在打仗"藏丧偶**——**而本章是莉莉第一次说出这个藏法的成本。**
+**读者视角提示**：⚠️ **这一句是 ch15 那位 diarist 说的"it’s easier not to correct them"的预演，而它是全书对"谎言的好处"最经济的一次陈述**——**请把它与 ch07 那位 diarist 的"我还没疯"（Sometimes feel I'm going mad）对照：**一个用笑藏眼泪，一个用"他在打仗"藏丧偶**——**而本章是莉莉第一次说出这个藏法的成本。**
 
 ## 本章词汇
 

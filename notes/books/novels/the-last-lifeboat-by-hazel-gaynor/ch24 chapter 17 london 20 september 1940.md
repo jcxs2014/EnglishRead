@@ -81,9 +81,9 @@ modified: "2026-09-28"
 
 **关键词**：the sound she heard through the open window / was like no human sound / she’d ever heard before
 
-**为什么这样写**：**这是全书对"母亲的声音"最外化的一次处理，而它通过一个邻居的耳朵完成。**"the sound she heard through the open window"（透过敞开的窗子听见的声音）——**注意这个 open window（开着的窗）：她 ch21–ch23 一直住在 Elsie 家，而这一章她回到 13 号并且开窗通风——**所以那个声音是邻居 Elsie 在窗外听见的**；**"like no human sound she'd ever heard before"（不像她听过的任何一种人的声音）**——**请注意这个双重否定：它不是说"它不像声音"，而是说"它不像人的声音"**——**这就把莉莉的哀号定义成了一件超出人类范畴的事，而这本书并不解释为什么。
+**为什么这样写**：**这是全书对"母亲的声音"最外化的一次处理，而它通过一个邻居的耳朵完成。**"the sound she heard through the open window"（透过敞开的窗子听见的声音）——**注意这个 open window（开着的窗）：她 ch21–ch23 一直住在 Elsie 家，而这一章她回到 13 号并且开窗通风——**所以那个声音是邻居 Elsie 在窗外听见的**；**"like no human sound she’d ever heard before"（不像她听过的任何一种人的声音）**——**请注意这个双重否定：它不是说"它不像声音"，而是说"它不像人的声音"**——**这就把莉莉的哀号定义成了一件超出人类范畴的事，而这本书并不解释为什么。
 
-**读者视角提示：⚠️** **"like no human sound she'd ever heard before"（不像她听过的任何一种人的声音）是全书对"母亲之声"的最终定性**——**而它借了一个旁观者（Elsie）的耳朵**——**所以这本书对莉莉的哭，是用一个邻居的"听不懂"来写的**；**而请记住 ch21 里那个叫"阿姨"的称呼：那时莉莉是一个职业、一个称呼，而本章她是一种"人的声音"，而它超出了人的范围。**
+**读者视角提示：⚠️** **"like no human sound she’d ever heard before"（不像她听过的任何一种人的声音）是全书对"母亲之声"的最终定性**——**而它借了一个旁观者（Elsie）的耳朵**——**所以这本书对莉莉的哭，是用一个邻居的"听不懂"来写的**；**而请记住 ch21 里那个叫"阿姨"的称呼：那时莉莉是一个职业、一个称呼，而本章她是一种"人的声音"，而它超出了人的范围。**
 
 > **原句 8:** "What Lily hears in the moment is a bellow, a deep guttural roar as her heart shatters and a smothering suffocating darkness engulfs her."
 

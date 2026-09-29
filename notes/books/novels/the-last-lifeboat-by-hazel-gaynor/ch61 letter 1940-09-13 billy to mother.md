@@ -21,7 +21,7 @@ modified: "2026-09-28"
 
 **关键词**：We have a life jacket each / and the warships / will keep us safe / from the Germans / so don’t worry
 
-**为什么这样写**：**这是全书对"安全"最天真的定义，而它由两个事实加一个祈使句组成。**"We have a life jacket each"（我们每人一件救生衣）**——**而 each（每人一件）说明这是集体物资，而孩子把它当成个人的保证**；**——"the warships will keep us safe from the Germans"（军舰会保护我们不受德国人伤害）**——**而这一句是全书最重要的一次"事实性误解"**；**——**"so don't worry"（所以别担心）——**而 don't worry 这个祈使句把全部重量放在收信人身上**。
+**为什么这样写**：**这是全书对"安全"最天真的定义，而它由两个事实加一个祈使句组成。**"We have a life jacket each"（我们每人一件救生衣）**——**而 each（每人一件）说明这是集体物资，而孩子把它当成个人的保证**；**——"the warships will keep us safe from the Germans"（军舰会保护我们不受德国人伤害）**——**而这一句是全书最重要的一次"事实性误解"**；**——**"so don’t worry"（所以别担心）——**而 don't worry 这个祈使句把全部重量放在收信人身上**。
 
 **读者视角提示：⚠️** **"the warships will keep us safe from the Germans"（军舰会保护我们不受德国人伤害）与 ch59 那封匿名信里的第 1 条**（'However, at the time of the torpedo attack, the Carlisle was not ‘being convoyed’.'）**——**这是全书结构上最狠的一次对照：一个六岁孩子写下他被告知的那句保证，而十九个月后，一个在 CORB 内部待过的文员用官方记录证明那句保证从未成立**；**——而孩子写这句时的依据，是他自己身上那件救生衣和那天码头上确实存在的军舰。**
 
@@ -41,7 +41,7 @@ modified: "2026-09-28"
 
 **关键词**：Don’t forget / to feed / the pigeons
 
-**为什么这样写**：**这是全书最日常的一句叮嘱，而它的功能是证明"家"存在。**"Don't forget"（别忘了）**——**而这个 dont（别）预设了"你会记得"**；**——"to feed the pigeons"（喂鸽子）**——**而喂鸽子是这件事里唯一的"家务"**；**——所以这一句做的是一件技术性的事：它在一封关于沉船的信里，插进了一条只有"还没出门的人"才会收到的任务**。
+**为什么这样写**：**这是全书最日常的一句叮嘱，而它的功能是证明"家"存在。**"Don’t forget"（别忘了）**——**而这个 dont（别）预设了"你会记得"**；**——"to feed the pigeons"（喂鸽子）**——**而喂鸽子是这件事里唯一的"家务"**；**——所以这一句做的是一件技术性的事：它在一封关于沉船的信里，插进了一条只有"还没出门的人"才会收到的任务**。
 
 **读者视角提示：⚠️** **"to feed the pigeons"（喂鸽子）与 ch57 那份清单**（'a fire in the grate, food in the pantry, tea in the pot, the table set for three'）**——**两处都是"家里需要有人维持的那些小事"**；**——而 ch57 是莉莉在整理饼干铁盒时想到的，ch61 是一个孩子写进信里的**；**——所以这本书对"家"的定义是恒定的：它是一个有人替你喂鸽子的地方。**
 
@@ -61,7 +61,7 @@ modified: "2026-09-28"
 
 **关键词**：I thought you might like it / to remember me / while I’m away
 
-**为什么这样写**：**这是全书对"信物"最纯真的一次说明，而它是一个孩子给母亲的指令。**"I thought you might like it"（我想你可能会喜欢它）**——**而 might（可能）说明他不确定，而这一份不确定让他更像一个孩子**；**——"to remember me while I'm away"（在我不在的时候用来记得我）——**而这一小节的功能是：把一件东西变成一个"程序"**；**——所以这封信在写下的时候还只是一次告别，而它在被读到的时候，已经是一份遗物。**
+**为什么这样写**：**这是全书对"信物"最纯真的一次说明，而它是一个孩子给母亲的指令。**"I thought you might like it"（我想你可能会喜欢它）**——**而 might（可能）说明他不确定，而这一份不确定让他更像一个孩子**；**——"to remember me while I’m away"（在我不在的时候用来记得我）——**而这一小节的功能是：把一件东西变成一个"程序"**；**——所以这封信在写下的时候还只是一次告别，而它在被读到的时候，已经是一份遗物。**
 
 **读者视角提示：⚠️** **"to remember me while I’m away"（在我不在的时候用来记得我）与 ch42 那瓶写着 "Remember us"（记住我们）的血瓶**——**那三十五个孩子写的是"记住我们"，而这一个孩子写的是"记得我"**；**——而两处都是把"被记住"交给一个实物。**（而对照 ch59 那封匿名信的最后一句 'What matters is that this never happens again.'（重要的是这种事再也不会发生。）——**这封信没有这一句；这封信只有"记得我"。**）
 

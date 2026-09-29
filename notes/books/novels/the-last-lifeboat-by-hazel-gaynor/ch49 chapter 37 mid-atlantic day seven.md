@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"喊"最准的一次动词选择，而它是 cut through。**"shrill voice"（尖厉的嗓音）——**而 shrill（尖厉）在英语里专指高频的、刺人的声音，它通常属于孩子或失控的喊**；**"cuts through the silence"（划破寂静）——**而 cut through 的意象是刀，而作者让一个孩子的嗓子做了刀**；**——而更狠的是下一段：Alice opens one eye. Nobody else stirs.（爱丽丝睁开一只眼。没有人动。）**——**所以第一个听见的人被归到了"还没有力气抬头"的那一类。**
 
-**读者视角提示：⚠️** **"Arthur's shrill voice cuts through the silence."（亚瑟尖厉的嗓音划破寂静。）与 ch40 那句 "There's a real ship!"（那是一条真正的船！）**——**同一个孩子，同一种喊法，相隔九章**；**而 ch40 那次喊完，船调头离开了；所以这一章作者故意让读者先记住这个动作，再让它重复一次——**而这一次不一样的是，这一次喊对了。**
+**读者视角提示：⚠️** **"Arthur’s shrill voice cuts through the silence."（亚瑟尖厉的嗓音划破寂静。）与 ch40 那句 "There’s a real ship!"（那是一条真正的船！）**——**同一个孩子，同一种喊法，相隔九章**；**而 ch40 那次喊完，船调头离开了；所以这一章作者故意让读者先记住这个动作，再让它重复一次——**而这一次不一样的是，这一次喊对了。**
 
 > **原句 9:** "It is impossible, incredible, and yet, there it is."
 

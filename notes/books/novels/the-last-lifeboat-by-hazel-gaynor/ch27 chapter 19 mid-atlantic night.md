@@ -23,7 +23,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"听觉失调"最精准的一次描写，而它只有七词。**"doesn’t even sound"（听起来甚至都不……）——**请注意 even（甚至）：它把"海不像海"写成了一次程度上的滑坡**；"liquid"（液体）——**这个词把海还原成了它的物理属性，而作者的意思是：在这一夜，海失去了这个属性**——**所以这句话其实是"这不再是海，这变成了某种别的东西"。**
 
-**读者视角提示：⚠️** **"The ocean doesn't even sound liquid."（这片海听起来甚至都不像液体）是 ch22 那条"深沉的金属呻吟"（a low metallic groan）的听觉版**——**ch22 是船在响，本章是海在响，而作者让同一夜的声音"分化"**；**而这一句也是全书对"夜的听觉"最彻底的一次描写：The darkness makes everything worse. In the absence of light, noises intensify and morph into something new and disturbing.（黑暗让一切更糟。在没有光的地方，声音变得更强，并变形为某种新的、令人不安的东西。）——morph（变形）这个词是这一段的题眼。**
+**读者视角提示：⚠️** **"The ocean doesn’t even sound liquid."（这片海听起来甚至都不像液体）是 ch22 那条"深沉的金属呻吟"（a low metallic groan）的听觉版**——**ch22 是船在响，本章是海在响，而作者让同一夜的声音"分化"**；**而这一句也是全书对"夜的听觉"最彻底的一次描写：The darkness makes everything worse. In the absence of light, noises intensify and morph into something new and disturbing.（黑暗让一切更糟。在没有光的地方，声音变得更强，并变形为某种新的、令人不安的东西。）——morph（变形）这个词是这一段的题眼。**
 
 > **原句 2:** "‘EIGHT DAYS!’"
 
@@ -31,7 +31,7 @@ modified: "2026-09-28"
 
 **关键词**：EIGHT DAYS!
 
-**为什么这样写**：**这是全书对"时间"最惊的一次爆发，而它只有两个词。**"EIGHT DAYS"（八天）——**请注意它全大写，而且用了一个名词复数**：这不像惊叹，更像一份账单**——**Alice 那一刻听到的不是"很远"，而是"要划八天"**；**而这八个字符之所以刺眼，是因为它紧接着而来的是它前面那句 Owen 的估计："He reckons it'll take eight days, if the currents are favourable and the winds prevail."（他估计要八天，如果洋流有利、风向占上风。）**——**而后面那个"如果"是对这条消息最冷的一击：连"八天"都是附条件的。**
+**为什么这样写**：**这是全书对"时间"最惊的一次爆发，而它只有两个词。**"EIGHT DAYS"（八天）——**请注意它全大写，而且用了一个名词复数**：这不像惊叹，更像一份账单**——**Alice 那一刻听到的不是"很远"，而是"要划八天"**；**而这八个字符之所以刺眼，是因为它紧接着而来的是它前面那句 Owen 的估计："He reckons it’ll take eight days, if the currents are favourable and the winds prevail."（他估计要八天，如果洋流有利、风向占上风。）**——**而后面那个"如果"是对这条消息最冷的一击：连"八天"都是附条件的。**
 
 **读者视角提示：⚠️** **"EIGHT DAYS!"（八天！）是 ch09 那位 diarist 数东西的方法在 Alice 身上的最后一次出现**——**ch09 她数第十四个人，ch25 她数三十个人，ch27 她数八天**；**而这三个数字的方向正好相反：一个在队伍里的位置，一个在幸存者里的数量，一个在绝望里的长度**——**所以这本书对"数数"这个动作的处理是：它每一次都更绝望。**
 
@@ -51,7 +51,7 @@ modified: "2026-09-28"
 
 **关键词**：Row, row, row, your lifeboat / Life is but a dream, Alice / But. A. Dream.
 
-**为什么这样写**：**这是全书对童谣最狠的一次篡改，而作者把篡改做成了三个词。**"Row, row, row, your lifeboat, roughly 'cross the sea!"（划呀划呀划……）——**请注意 he 把原句里的 "gently"（轻轻地）换成了 "roughly"（粗暴地）**——**一个逗号之差，童谣就从摇篮曲变成了暴力**；**"Life is but a dream"（人生如梦）**——**这是原句，但作者在后面加了三个词**；**"But. A. Dream."（但。是。梦。）**——**而这三个词是他加的：他把"人生如梦"改成了"但……是……梦"——**原来的梦是一个整体，而新的梦被拆成了两半，中间塞进了"但"**。
+**为什么这样写**：**这是全书对童谣最狠的一次篡改，而作者把篡改做成了三个词。**"Row, row, row, your lifeboat, roughly ’cross the sea!"（划呀划呀划……）——**请注意 he 把原句里的 "gently"（轻轻地）换成了 "roughly"（粗暴地）**——**一个逗号之差，童谣就从摇篮曲变成了暴力**；**"Life is but a dream"（人生如梦）**——**这是原句，但作者在后面加了三个词**；**"But. A. Dream."（但。是。梦。）**——**而这三个词是他加的：他把"人生如梦"改成了"但……是……梦"——**原来的梦是一个整体，而新的梦被拆成了两半，中间塞进了"但"**。
 
 **读者视角提示：⚠️** **"But. A. Dream."（但。是。梦。）是全书最精彩的一次童谣戏仿**——**而它的三个句号结构，正好对应 Alice 此刻的三个状态**：**不敢（But）、无力（A）、仍然在梦（Dream）**——**所以 Owen Shaw 这个"不回答的人"，在全书最黑暗的一夜里，用三个词把她说完了。**
 
@@ -81,9 +81,9 @@ modified: "2026-09-28"
 
 **关键词**：You will do that for me, won’t you? / Get the children back to their mothers / whatever it takes
 
-**为什么这样写**：**这是全书最重的一句托付，而它用了一个问句伪装成一个确认。**"You will do that for me, won't you?"（你会替我做到，对不对？）——**请注意这个反问句：它在语法上需要一个回答，而在语法上它已经预设了"会"**；**"do that for me"（替我做到）——**for me（为我）这三个字是这个人在这条船上的全部存在**；**"whatever it takes"（不管用什么办法）——**这一句是全书对"承诺"最彻底的一次索取：它不要你保证安全，它只要你保证"做"**。
+**为什么这样写**：**这是全书最重的一句托付，而它用了一个问句伪装成一个确认。**"You will do that for me, won’t you?"（你会替我做到，对不对？）——**请注意这个反问句：它在语法上需要一个回答，而在语法上它已经预设了"会"**；**"do that for me"（替我做到）——**for me（为我）这三个字是这个人在这条船上的全部存在**；**"whatever it takes"（不管用什么办法）——**这一句是全书对"承诺"最彻底的一次索取：它不要你保证安全，它只要你保证"做"**。
 
-**读者视角提示：⚠️** **"whatever it takes"（不管用什么办法）是 Alice 全书的分水岭**——**ch23 那个船员对她说的是"You can't save the dead"（你救不了死人），而本章这个要死的人对她说的是"不管用什么办法"**——**一个否定，一个索取，而后者成了她此后三十年的路线图**；**而请注意她答的是两遍"Yes."（是。）——作者给她两遍，就像 ch11 她对母亲说过的话（I don't want to say too much）一样，两遍是她的习惯。**
+**读者视角提示：⚠️** **"whatever it takes"（不管用什么办法）是 Alice 全书的分水岭**——**ch23 那个船员对她说的是"You can’t save the dead"（你救不了死人），而本章这个要死的人对她说的是"不管用什么办法"**——**一个否定，一个索取，而后者成了她此后三十年的路线图**；**而请注意她答的是两遍"Yes."（是。）——作者给她两遍，就像 ch11 她对母亲说过的话（I don't want to say too much）一样，两遍是她的习惯。**
 
 > **原句 8:** "‘Yes,’ she says. ‘Yes.’"
 

@@ -21,7 +21,7 @@ modified: "2026-09-28"
 
 **关键词**：I don’t feel thirsty today / so you can have mine / let’s keep it a secret / just between you and me
 
-**为什么这样写**：**这是全书对"照顾"最具体的一次书写，而它是一次谎话。**"I don't feel thirsty today"（我今天不渴）——**这一句是假的，而作者没有加任何提示**；**"so you can have mine"（所以我的给你）——**mine 在英语里是最小限定的物主代词：她给的不是"一些水"，是"我的那一份"**；**"let's keep it a secret, just between you and me"（我们得保密，就你和我之间）**——**而这一句是 ch31 那个".Call me Ishmael."（叫我以实玛利。）之后的第二次命名：她把这件事变成一个只有两个人知道的秘密，而秘密正是她能给一个正在咳嗽的孩子的东西**。
+**为什么这样写**：**这是全书对"照顾"最具体的一次书写，而它是一次谎话。**"I don’t feel thirsty today"（我今天不渴）——**这一句是假的，而作者没有加任何提示**；**"so you can have mine"（所以我的给你）——**mine 在英语里是最小限定的物主代词：她给的不是"一些水"，是"我的那一份"**；**"let’s keep it a secret, just between you and me"（我们得保密，就你和我之间）**——**而这一句是 ch31 那个".Call me Ishmael."（叫我以实玛利。）之后的第二次命名：她把这件事变成一个只有两个人知道的秘密，而秘密正是她能给一个正在咳嗽的孩子的东西**。
 
 **读者视角提示：⚠️** **"'I don't feel thirsty today, so you can have mine."（我今天不渴，所以我的给你。）与 ch37 那句 "Rest and water are all they can offer the poor child."（休息和水，是他们能提供的全部。）是同一枚硬币的两面**——**ch37 她说船上能给的只有这个；ch40 她把这份"只有"从自己嘴里省下来，喂给了最需要它的人**；**而 ch32 那只沉掉的水罐（A third of a canister of water – a whole day's rations – lost to the ocean.）正是被这一口省下来的水，量出了她的亏欠。**
 
@@ -91,7 +91,7 @@ modified: "2026-09-28"
 
 **关键词**：Howard’s thought experiment / how like Schrödinger’s cat they are / as they drift across the Atlantic / simultaneously dead and alive
 
-**为什么这样写**：**这是全书对科学最沉的一次运用，而它用在孩子的生死上。**"Howard's thought experiment"（霍华德的思想实验）——**注意是"霍华德的思想实验"，不是"薛定谔的思想实验"：作者把它归给了那个借书还书的人**；**"how like Schrödinger's cat they are"（他们多么像薛定谔的猫）**——**like 后面接的是人，而英语里 this/they are like… 是一个比喻句式**；**"simultaneously dead and alive"（同时死着又活着）**——**而这是全句的核心：作者把"在死亡名单上"与"站在我面前"这两个事实，压进了同一个生物**。
+**为什么这样写**：**这是全书对科学最沉的一次运用，而它用在孩子的生死上。**"Howard’s thought experiment"（霍华德的思想实验）——**注意是"霍华德的思想实验"，不是"薛定谔的思想实验"：作者把它归给了那个借书还书的人**；**"how like Schrödinger’s cat they are"（他们多么像薛定谔的猫）**——**like 后面接的是人，而英语里 this/they are like… 是一个比喻句式**；**"simultaneously dead and alive"（同时死着又活着）**——**而这是全句的核心：作者把"在死亡名单上"与"站在我面前"这两个事实，压进了同一个生物**。
 
 **读者视角提示：⚠️** **"simultaneously dead and alive"（同时死着又活着）是 ch40 的题眼，也是 ch36 那句 "your son, Arthur Nicholls, is not reported among those rescued"（你的儿子亚瑟·尼科尔斯没有出现在获救名单上）的判决**——**读者在 ch36 已经知道莉莉被告知儿子死了；而本章她手里握着那位母亲写来的信，信里问她"孩子现在在哪里、和谁在一起"**；**所以"同时死着又活着"不是哲学，是这一章的物理事实。**
 
@@ -101,9 +101,9 @@ modified: "2026-09-28"
 
 **关键词**：Still they wait for / an acknowledgement / that they’ve been sighted
 
-**为什么这样写**：**这是全书对"等待"最冷的一次描写，而它是一个单数名词。**"Still they wait"（他们仍在等）——**注意这一句被放在两个分号（——）之后，紧接在 "A minute passes, two minutes, three."（一分钟过去，两分钟，三分钟。）——所以时间已经数过了**；**"an acknowledgement"（一个回应）——**acknowledgement 在英语里是"确认收到"，它通常写在纸上；用在海上，它指的是一声回哨或一次挥手**；**"that they've been sighted"（他们已被看见）**——**sighted 在英语里是航海与观看的术语，而作者把它用在"我们被看见"这件事上**。
+**为什么这样写**：**这是全书对"等待"最冷的一次描写，而它是一个单数名词。**"Still they wait"（他们仍在等）——**注意这一句被放在两个分号（——）之后，紧接在 "A minute passes, two minutes, three."（一分钟过去，两分钟，三分钟。）——所以时间已经数过了**；**"an acknowledgement"（一个回应）——**acknowledgement 在英语里是"确认收到"，它通常写在纸上；用在海上，它指的是一声回哨或一次挥手**；**"that they’ve been sighted"（他们已被看见）**——**sighted 在英语里是航海与观看的术语，而作者把它用在"我们被看见"这件事上**。
 
-**读者视角提示：⚠️** **"an acknowledgement that they've been sighted"（一个"他们已被发现"的回应）与 ch36 那位 CORB 女士说的 "We'll be in touch if there is any further news."（如果还有进一步消息，我们会联系您。）是同一种等待的两种形态**——**一个在水上等一声回哨，一个在岸上等一封信；而本章给了他们三分钟，然后那个等待被单方面取消了。**
+**读者视角提示：⚠️** **"an acknowledgement that they’ve been sighted"（一个"他们已被发现"的回应）与 ch36 那位 CORB 女士说的 "We’ll be in touch if there is any further news."（如果还有进一步消息，我们会联系您。）是同一种等待的两种形态**——**一个在水上等一声回哨，一个在岸上等一封信；而本章给了他们三分钟，然后那个等待被单方面取消了。**
 
 > **原句 10:** "her cries for help unheard, just as they were once before."
 
@@ -121,7 +121,7 @@ modified: "2026-09-28"
 
 **关键词**：Your move, Alice / Take your time / Think it through / Remember to always look ahead
 
-**为什么这样写**：**这是全书对"父亲"最温柔也最残酷的一段，而它是一句棋谱里的客套话。**"Your move, Alice."（该你了，爱丽丝。）——**三个词，一句任何下棋的父亲都会说的话**；**"Take your time. Think it through."（慢慢来。仔细想清楚。）——**而这两句在下一段里变成了 she doesn't know how long she is there（她不知道自己在那里待了多久）**；**"Remember to always look ahead."（记得永远向前看。）——**而这一句与 ch40 前面那句 "The past has a nasty habit of following us around. I believe it's called regret."（过去有个讨厌的习惯跟着我们走。我记得那叫遗憾。）正好是两句对立的遗训**。
+**为什么这样写**：**这是全书对"父亲"最温柔也最残酷的一段，而它是一句棋谱里的客套话。**"Your move, Alice."（该你了，爱丽丝。）——**三个词，一句任何下棋的父亲都会说的话**；**"Take your time. Think it through."（慢慢来。仔细想清楚。）——**而这两句在下一段里变成了 she doesn't know how long she is there（她不知道自己在那里待了多久）**；**"Remember to always look ahead."（记得永远向前看。）——**而这一句与 ch40 前面那句 "The past has a nasty habit of following us around. I believe it’s called regret."（过去有个讨厌的习惯跟着我们走。我记得那叫遗憾。）正好是两句对立的遗训**。
 
 **读者视角提示：⚠️** **"Remember to always look ahead."（记得永远向前看。）是全书最残酷的一句临终遗言，因为它来自一个此刻正在崩解的人对另一个崩解中的人**——**而它同时也是 ch03 那盘棋的主题：父亲那时在走下一步（the next move），而这一章里他正在倒下**；**所以本书对"向前看"这三个字的处理是：它必须由一个再也看不到的人说出来，才成立。**
 
@@ -131,9 +131,9 @@ modified: "2026-09-28"
 
 **关键词**：Her father is dead / because she didn’t know what to do / and her cries for help weren’t heard
 
-**为什么这样写**：**这是全书对"自责"最完整的一次陈述，而它是一个 because。**"Her father is dead"（她的父亲死了）——**这是主句，而它用的是一个完成时的被动结果**；**"because she didn't know what to do"（因为她不知道该怎么做）**——**注意这一条是"不知道"，不是"做错了"**；**"and her cries for help weren't heard"（而她的呼救也没被听见）**——**这一条在语法上与前一条并列，而不是从属：两个原因，一个指向她的无知，一个指向世界的沉默**；**——而 doctor 说的那套解释（the aneurysm in his brain was fatal, his death instantaneous）是"医疗判断"，作者紧接着写：but she doesn't believe him.（但她不信他。）**
+**为什么这样写**：**这是全书对"自责"最完整的一次陈述，而它是一个 because。**"Her father is dead"（她的父亲死了）——**这是主句，而它用的是一个完成时的被动结果**；**"because she didn’t know what to do"（因为她不知道该怎么做）**——**注意这一条是"不知道"，不是"做错了"**；**"and her cries for help weren’t heard"（而她的呼救也没被听见）**——**这一条在语法上与前一条并列，而不是从属：两个原因，一个指向她的无知，一个指向世界的沉默**；**——而 doctor 说的那套解释（the aneurysm in his brain was fatal, his death instantaneous）是"医疗判断"，作者紧接着写：but she doesn't believe him.（但她不信他。）**
 
-**读者视角提示：⚠️** **"Her father is dead because she didn't know what to do, and her cries for help weren't heard."（她的父亲死了，因为她不知道该怎么做，而她的呼救也没被听见。）是 ch38 那个彼得之死的镜像**——**ch38 的因果是"枪从他自己手里射出"（a bullet fired from Peter's rifle）；ch40 的因果是"她不知道该做什么、且没人听见她"**；**所以这本书对"责任"的处理是：它从不宣布谁有罪，它只把两条事实并排放在一个 because 里——而并排的代价是，一个孩子把这两条背了五十年。**
+**读者视角提示：⚠️** **"Her father is dead because she didn’t know what to do, and her cries for help weren’t heard."（她的父亲死了，因为她不知道该怎么做，而她的呼救也没被听见。）是 ch38 那个彼得之死的镜像**——**ch38 的因果是"枪从他自己手里射出"（a bullet fired from Peter's rifle）；ch40 的因果是"她不知道该做什么、且没人听见她"**；**所以这本书对"责任"的处理是：它从不宣布谁有罪，它只把两条事实并排放在一个 because 里——而并排的代价是，一个孩子把这两条背了五十年。**
 
 > **原句 13:** "After all the chaos and noise, the house is infused with a dense silence; an absence of life, an emptiness."
 

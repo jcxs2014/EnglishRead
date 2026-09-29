@@ -21,9 +21,9 @@ modified: "2026-09-28"
 
 **关键词**：Alice can’t breathe
 
-**为什么这样写**：**这是全书的第一个也是最后一个短句，而它与 ch47 那句 "I can sleep now"（我现在可以睡了）是一对。**"Alice can't breathe."（爱丽丝喘不过气。）**——**而这三个字在全书语境里既是生理的（她追着外甥女跑上沙滩），也是心理的（十年后她仍被那件事击中）**；**——而作者让它独立成段，与 ch40 那句 "There is no pen poised to write them out of their ordeal"（没有笔能把他们从磨难中写出来。）**同一形态**；**——所以这本书的开场与结尾都用"呼吸"这个动作来衡量一个人：ch47 她想停下呼吸，ch62 她跑得喘不过气。**
+**为什么这样写**：**这是全书的第一个也是最后一个短句，而它逐字重复了全书第二段（ch02）的第一句——**"Alice can’t breathe."（爱丽丝喘不过气。）**这个完全相同的短句，一次是十七岁那年她半跳半摔地跌进救生艇，一次是十年后她追着外甥女跑上沙滩；而它与 ch47 那句 "I can sleep now"（我现在可以睡了）构成第三重对照。****——**而这三个字在全书语境里既是生理的（她追着外甥女跑上沙滩），也是心理的（十年后她仍被那件事击中）**；**——而作者让它独立成段，与 ch45 那句 "There is no pen poised to write them out of their ordeal"（没有笔能把他们从磨难中写出来。）**同一形态**；**——所以这本书的开场与结尾都用"呼吸"这个动作来衡量一个人：ch47 她想停下呼吸，ch62 她跑得喘不过气。**
 
-**读者视角提示：⚠️** **"Alice can't breathe."（爱丽丝喘不过气。）与 ch40 那句 "she may as well slip into the water now and let it carry her away"（干脆现在就滑进水里，让它把她带走）——**两处是相反的方向**；**——而 ch62 紧接着的那一句把原因换掉了**：**风夺走了她的呼吸**（The wind snatches her breath away）**——**所以这一次她喘不过气，是因为活着这件事太满。**
+**读者视角提示：⚠️** **"Alice can’t breathe."（爱丽丝喘不过气。）与 ch40 那句 "she may as well slip into the water now and let it carry her away"（干脆现在就滑进水里，让它把她带走）——**两处是相反的方向**；**——而 ch62 紧接着的那一句把原因换掉了**：**风夺走了她的呼吸**（The wind snatches her breath away）**——**所以这一次她喘不过气，是因为活着这件事太满。**
 
 > **原句 2:** "The wind snatches her breath away, leaving her gasping for air as she chases her niece across the coloured sand until they fall onto the picnic blanket in a tangle of limbs and laughter."
 
@@ -43,7 +43,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对理查德·希思的最终定性，而它是一组对称的对照。**"the worst days of her life"（一生中最糟的日子）**与 "the best days of her life"（一生中最好的日子）**——**而两个短语结构完全相同，只换一个形容词**；**——而 man（男人）在这一句里从头到尾没有名字**；**——所以作者用十个词完成了从 Owen Shaw 到 Richard Heath 的全部改名：她不再用任何称呼指他。**
 
-**读者视角提示：⚠️** **这组对照与 ch59 那句 "let go of the safe, steady life she'd always imagined, and embrace the one she hadn't"（放开那个她一直想象的安稳人生，转而拥抱那个她"没有"的）**——**ch59 放手的是一个"想象"，ch62 得到的是一个"俯瞰大海的小屋"**；**——而"俯瞰"（overlooking）这个词是地形的：她在高处往下看海，而那正是 ch05–ch40 里她一直想做却做不到的事——她是那个一直待在船底的人。**
+**读者视角提示：⚠️** **这组对照与 ch59 那句 "let go of the safe, steady life she’d always imagined, and embrace the one she hadn’t"（放开那个她一直想象的安稳人生，转而拥抱那个她"没有"的）**——**ch59 放手的是一个"想象"，ch62 得到的是一个"俯瞰大海的小屋"**；**——而"俯瞰"（overlooking）这个词是地形的：她在高处往下看海，而那正是 ch05–ch40 里她一直想做却做不到的事——她是那个一直待在船底的人。**
 
 > **原句 4:** "Or perhaps the bookshop had found her."
 
@@ -61,7 +61,7 @@ modified: "2026-09-28"
 
 **关键词**：Their hands grip each other’s / years of friendship and understanding / entwined among their fingers
 
-**为什么这样写**：**这是全书对"友情"最物化的一次描写，而它是一个完成时。**"grip each other's"（紧握彼此的手）**——**而 grip（紧握）在英语里既是物理动作，也是情绪强度**；**——"years of friendship and understanding entwined among their fingers"（多年的友谊与理解缠绕在指间）——**而 entwined（缠绕）说明这份关系不是一件事，而是多件事编在一起**；**——而 among their fingers（在她们的指间）是一个极小的位置：**这本书把十年写成了一段可以缠在手指上的东西。**
+**为什么这样写**：**这是全书对"友情"最物化的一次描写，而它是一个完成时。**"grip each other’s"（紧握彼此的手）**——**而 grip（紧握）在英语里既是物理动作，也是情绪强度**；**——"years of friendship and understanding entwined among their fingers"（多年的友谊与理解缠绕在指间）——**而 entwined（缠绕）说明这份关系不是一件事，而是多件事编在一起**；**——而 among their fingers（在她们的指间）是一个极小的位置：**这本书把十年写成了一段可以缠在手指上的东西。**
 
 **读者视角提示：⚠️** **"entwined among their fingers"（缠绕在指间）与 ch60 那句 "even in the profound sadness of death, there will always – must always – be a place for the astonishing, enduring beauty of life."（永远——必须永远——会有一个位置，留给生命那惊人而持久的美。）**——**ch60 是"必须为生命留一个位置"，ch62 是"位置已经在了，而且是一双手"**；**——所以这本书对"永远"的处理是：它先用一个 must always 作为要求，十年后给出一个 hands grip 的实物。**
 
@@ -91,9 +91,9 @@ modified: "2026-09-28"
 
 **关键词**：Hello, Auntie
 
-**为什么这样写**：**这是全书的最后一个词，而它是全书第二次出现的这个称呼。**"Hello"（你好）**——**而这一句的第一个词是英语里最普通的一个招呼，它不带任何重量**；**——"Auntie"（阿姨）**——**而这个称呼从 ch05 那个孩子嘴里第一次出来，到 ch32 它已经成为一种固定关系**；**——而 Arthur 是在深吸一口气之后才说出来的**（He takes a deep breath, and smiles.）**——**所以作者把全书的最后重量放在一次呼吸上。**
+**为什么这样写**：**这是全书的最后一个词，而它是全书第二次出现的这个称呼。**"Hello"（你好）**——**而这一句的第一个词是英语里最普通的一个招呼，它不带任何重量**；**——"Auntie"（阿姨）**——**而这个称呼在这条线里第一次由孩子说出是在 ch46（"That’s Uncle Howard."），到 ch32 它已经成为一种固定关系**；**——而 Arthur 是在深吸一口气之后才说出来的**（He takes a deep breath, and smiles.）**——**所以作者把全书的最后重量放在一次呼吸上。**
 
-**读者视角提示：⚠️** **"Hello, Auntie."（你好，阿姨。）与 ch05 那句 "He was everyone’s favourite. That’s Uncle Howard."（他是最受大家喜欢的那个。那是霍华德叔叔。）**——**而 ch48 霍华德自报的那句 "Howard Keane officially, Uncle Howard as I’ve been known recently."（正式地说叫霍华德·基恩，最近以来大家都叫我霍华德叔叔。）**——**所以"叔叔"和"阿姨"是这本书里最持久的两个词：它们是孩子们给大人的称呼，而它们在结尾仍然成立**；**——而 ch62 的 Arthur 已经不是小孩了，他说出这两个词之后，全书结束。**
+**读者视角提示：⚠️** **"Hello, Auntie."（你好，阿姨。）与 ch46 那句 "That’s Uncle Howard."（那是霍华德叔叔。）**——**而 ch48 霍华德自报的那句 "Howard Keane officially, Uncle Howard as I’ve been known recently."（正式地说叫霍华德·基恩，最近以来大家都叫我霍华德叔叔。）**——**所以"叔叔"和"阿姨"是这本书里最持久的两个词：它们是孩子们给大人的称呼，而它们在结尾仍然成立**；**——而 ch62 的 Arthur 已经不是小孩了，他说出这两个词之后，全书结束。**
 
 ## 本章词汇
 

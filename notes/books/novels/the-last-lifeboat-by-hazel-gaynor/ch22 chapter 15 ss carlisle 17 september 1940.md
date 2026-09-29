@@ -9,7 +9,7 @@ modified: "2026-09-28"
 
 - **一句话概括**：**晚上十点零二分，鱼雷击中（It was two minutes after ten when the torpedo hit.）**——Alice 去集合站的路上被堵在楼梯间，回去扒木头时水已经到膝盖；等她再回到甲板，七号救生艇已经放下水了；**最后她跳进了十二号艇，撞翻了一个女人，而那女人的白睡衣在水里像芭蕾舞裙一样散开。**
 - **情感弧线位置**：**全书最黑的一章／高潮的另一半。**ch02 写的是那一场灾难里"救生艇上"的视角（她已在船上，被一个陌生男人喊"小姐"）；**本章写的是同一夜的"岸上"视角——她如何从甲板被赶到海里。**两条线在这一章末尾合流于同一句台词：**‘Miss! Miss! Can you help the children?’**
-- **Tropes 兑现/反转**：① **"弃船演习"trope 的反转**——**ch20 里 Alice 还在船上和 Howard 讨论涌浪（the swell），而本章她连"三声短促警报"是弃船信号还是连续警报都记不清了**（couldn't remember whether it was three blasts or a continual siren）——**训练没有救她，正如 ch02 那句"There was no protocol to follow"（没有任何规程可循）**；② **"英雄回头救人"**——**作者让这个 trope 发生，然后立刻把它否掉**：她冲回去（I'm going back for the others.），扒开木头，扒不开，被告知"You can't save the dead, miss"（你救不了死人）——**而这正好是 ch02 里那句"无法可循"的答案**；③ **"救生艇沉没"**——ch02 里是大人一个个消失，本章里是**一个孩子都没有被写出来**，只有"像许愿井一样被倒进水里"（like pennies thrown into a wishing well）。
+- **Tropes 兑现/反转**：① **"弃船演习"trope 的反转**——**ch20 里 Alice 还在船上和 Howard 讨论涌浪（the swell），而本章她连"三声短促警报"是弃船信号还是连续警报都记不清了**（couldn't remember whether it was three blasts or a continual siren）——**训练没有救她，正如 ch02 那句"There was no protocol to follow"（没有任何规程可循）**；② **"英雄回头救人"**——**作者让这个 trope 发生，然后立刻把它否掉**：她冲回去（I'm going back for the others.），扒开木头，扒不开，被告知"You can’t save the dead, miss"（你救不了死人）——**而这正好是 ch02 里那句"无法可循"的答案**；③ **"救生艇沉没"**——ch02 里是大人一个个消失，本章里是**一个孩子都没有被写出来**，只有"像许愿井一样被倒进水里"（like pennies thrown into a wishing well）。
 - **人物弧线**：Alice King：从 ch20 那个"立了约要保持好奇"（stay curious, keep moving forward）的人，变成这一章那个**"我不能留下他们"**（I can't leave them!）的人；**而作者用两段回忆清单写她此刻脑子里闪过的四样东西（垂死的飞行员、Walter 的丝巾、Kitty 的海风、那只最小的狗崽子）**——**这四样是她全部人生的四个来源，而它们全部是"已经死去的或没能救下的"。**
 - **叙事手法**：**第三人称限知贴 Alice**；**极短段落、快节奏**（本章 35 段，是全书节奏最紧的一章）；**时间锚点精确到分**（two minutes after ten）；**以一句重复三次的"Miss!"收束，与 ch02 首尾相接**。
 
@@ -61,7 +61,7 @@ modified: "2026-09-28"
 
 **关键词**：thought back to the emergency drills / couldn’t remember whether / three blasts or a continual siren / that meant abandon ship
 
-**为什么这样写**：**这是全书对"训练无用"最温和也最致命的一次写法，而它藏在"想不起来"里。**"thought back to the emergency drills"（回想起那些应急演习）——**请注意 drills 用复数：她在很多次演习里都学过**；"couldn't remember whether it was three blasts or a continual siren"（想不起来是三声爆鸣还是持续的警报）——**这是一个关于"记忆失灵"的句子，而它发生在一个教师身上**——**她教了十年书、她记住了九十个孩子的名字，而此刻她记不住自己被教过什么**；**"that meant abandon ship"（那才表示弃船）**——**而这个定义她本来是知道的。
+**为什么这样写**：**这是全书对"训练无用"最温和也最致命的一次写法，而它藏在"想不起来"里。**"thought back to the emergency drills"（回想起那些应急演习）——**请注意 drills 用复数：她在很多次演习里都学过**；"couldn’t remember whether it was three blasts or a continual siren"（想不起来是三声爆鸣还是持续的警报）——**这是一个关于"记忆失灵"的句子，而它发生在一个教师身上**——**她教了十年书、她记住了九十个孩子的名字，而此刻她记不住自己被教过什么**；**"that meant abandon ship"（那才表示弃船）**——**而这个定义她本来是知道的。
 
 **读者视角提示：⚠️** **这一句是 ch08 那句"This, she could do."（这件事我能做）的彻底反面**——**ch08 是"我懂孩子"，本章是"我不懂信号"**；**而作者把这两次放在同一个人身上，中间只隔五个多月**——**所以这本书对"专业能力"的判断是：它在你需要它的那一刻，正好不起作用。**
 
@@ -101,7 +101,7 @@ modified: "2026-09-28"
 
 **关键词**：Torpedo strike / She’s going down
 
-**为什么这样写**：**这是全书最短的一次死亡宣告，而它只有五个词。**"Torpedo strike."（鱼雷击中。）——**一个名词短语，没有动词：这是一个"名目"，而它用的是被动省略（省略的是 was struck）**；**"She's going down."（她要沉了。）——请注意 She（她）：船在英文里是女性，而作者让 Beryl 用"She"来称呼一艘船**——**所以这一句里有两个"她"：一个是船，另一个是所有在船上的女人**。
+**为什么这样写**：**这是全书最短的一次死亡宣告，而它只有五个词。**"Torpedo strike."（鱼雷击中。）——**一个名词短语，没有动词：这是一个"名目"，而它用的是被动省略（省略的是 was struck）**；**"She’s going down."（她要沉了。）——请注意 She（她）：船在英文里是女性，而作者让 Beryl 用"She"来称呼一艘船**——**所以这一句里有两个"她"：一个是船，另一个是所有在船上的女人**。
 
 **读者视角提示：⚠️** **"She’s going down."（她要沉了）是这一夜唯一一句明确的"沉船"宣告**——**而说它的人不是船长、不是 Eleanor，是另一位护送员 Beryl**——**所以这本书的灾难信息，是从最不懂船的人嘴里说出来的**。
 
@@ -133,9 +133,9 @@ modified: "2026-09-28"
 
 **关键词**：You can’t save the dead / but you can save yourself / Get to a lifeboat before it’s too late
 
-**为什么这样写**：**这是全书对一个"劝退"的反驳最不留情面的一次，而它只有三句。**"You can't save the dead"（你救不了死人）——**请注意这句话的结构：它先假定死人已经存在**；**"but you can save yourself"（但你能救你自己）**——**这个 but 是全句的机关：它把"救人"和"救己"对立起来，而这两件事本来可以同时进行**；**"Get to a lifeboat before it's too late"（趁还来得及进救生艇）**——**it's too late（太晚了）这个短语，是这一夜唯一一次"来不及"**。
+**为什么这样写**：**这是全书对一个"劝退"的反驳最不留情面的一次，而它只有三句。**"You can’t save the dead"（你救不了死人）——**请注意这句话的结构：它先假定死人已经存在**；**"but you can save yourself"（但你能救你自己）**——**这个 but 是全句的机关：它把"救人"和"救己"对立起来，而这两件事本来可以同时进行**；**"Get to a lifeboat before it’s too late"（趁还来得及进救生艇）**——**it's too late（太晚了）这个短语，是这一夜唯一一次"来不及"**。
 
-**读者视角提示：⚠️** **这一句与下一条引语（Alice 头脑里的"You can't save everyone, Alice."）构成一组对话**——**一个船员对她说"你救不了死人"，而她自己心里也在说"你救不了所有人"**——**所以 ch22 让她在最需要被反对的时候，同时被一个船员和她自己反对**；**而这正是 ch05 那句"easy isn't always right"（容易的事不一定对）的反面：**容易的是上船，对的是回去，而她选了后者。
+**读者视角提示：⚠️** **这一句与下一条引语（Alice 头脑里的"You can’t save everyone, Alice."）构成一组对话**——**一个船员对她说"你救不了死人"，而她自己心里也在说"你救不了所有人"**——**所以 ch22 让她在最需要被反对的时候，同时被一个船员和她自己反对**；**而这正是 ch05 那句"easy isn’t always right"（容易的事不一定对）的反面：**容易的是上船，对的是回去，而她选了后者。
 
 > **原句 13:** "she pulled desperately at the shattered wood and the steel beams that blocked her way."
 
@@ -163,7 +163,7 @@ modified: "2026-09-28"
 
 **关键词**：It was now, or never
 
-**为什么这样写**：**这是全书最短的一次决定，而它只有五个词。**"It was now, or never."（就是现在，否则永不会有机会。）——**请注意 now 与 never 的对称：一个是全部的时间，一个是零**；**而这一句之后紧跟的，是 ch02 的开头**："Alice can't breathe. The wind snatches her breath away..."（Alice 喘不过气。风把她的呼吸抢走）——**所以本书用一句五字决定，把 ch22 和 ch02 接在了一起。**
+**为什么这样写**：**这是全书最短的一次决定，而它只有五个词。**"It was now, or never."（就是现在，否则永不会有机会。）——**请注意 now 与 never 的对称：一个是全部的时间，一个是零**；**而这一句之后紧跟的，是 ch02 的开头**："Alice can’t breathe. The wind snatches her breath away..."（Alice 喘不过气。风把她的呼吸抢走）——**所以本书用一句五字决定，把 ch22 和 ch02 接在了一起。**
 
 **读者视角提示：⚠️** **"It was now, or never."（就是现在，否则没有）是 ch14 那句 "So she did."（她就真写了）之后，Alice 最短的一次决断**——**而这两次决断的对象不同：ch14 她决定"做点什么"，本章她决定"跳下去"**——**中间隔了五个月和一艘船。**
 
@@ -175,7 +175,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书最重要的一句台词，而它只有六个词。**"Miss! Miss!"（小姐！小姐！）——**同一个称呼喊了两遍**：**第一遍是求救，第二遍是确认"有人吗"**；**"Can you help the children?"（你能帮帮孩子们吗？）**——**请注意这个问句的主语是 the children（孩子们），而它出现在一群成年女性刚刚沉进海里的夜里**——**所以这句话把"我"省略了：一个男人在向一个陌生的女人要他的孩子。**
 
-**读者视角提示：⚠️** **这一句是 ch02 的开场白，而 ch22 是它的"前一刻"**——**读者读 ch22 时会知道：这三声"小姐"之后，就是 ch02 那句 "Alice can't breathe."（Alice 喘不过气）**；**所以这一章实际上是全书的转折点：它把 ch02 那个"已经发生"的场景，还原成了一个"即将发生"的决定。**
+**读者视角提示：⚠️** **这一句是 ch02 的开场白，而 ch22 是它的"前一刻"**——**读者读 ch22 时会知道：这三声"小姐"之后，就是 ch02 那句 "Alice can’t breathe."（Alice 喘不过气）**；**所以这一章实际上是全书的转折点：它把 ch02 那个"已经发生"的场景，还原成了一个"即将发生"的决定。**
 
 ## 本章词汇
 
@@ -227,4 +227,4 @@ modified: "2026-09-28"
 
 ## 一句话总结
 
-**这一章的全部结构，是"一个教师在十点零二分听见鱼雷命中，然后花了几分钟证明自己救不了任何人"**——**她记住了时间（it felt important to make a note of the time）、拿起了救生衣、想起来了那套救生艇演习，可她连"三声爆鸣"还是"连续警报"代表弃船都想不起来**；**她冲回去扒开碎木（pulled desperately at the shattered wood and the steel beams），被一个船员告知"You can't save the dead, miss"（你救不了死人，小姐），而她自己心里也在说"You can't save everyone, Alice."（你救不了所有人，爱丽丝）**；**等她终于回到甲板，七号艇已经下水，她跳进十二号艇撞翻了一个穿白睡衣的女人——**而这一章的最后一个词，是那三声"小姐"**：‘Miss! Miss! Can you help the children?’**（小姐！小姐！你能帮帮孩子们吗？）**——它正是 ch02 那场风暴的开场白；所以这本书用两章写完了同一个夜晚的两半：ch22 是"她如何到那艘艇上"，ch02 是"她在那艘艇上如何变成了唯一的大人"。**
+**这一章的全部结构，是"一个教师在十点零二分听见鱼雷命中，然后花了几分钟证明自己救不了任何人"**——**她记住了时间（it felt important to make a note of the time）、拿起了救生衣、想起来了那套救生艇演习，可她连"三声爆鸣"还是"连续警报"代表弃船都想不起来**；**她冲回去扒开碎木（pulled desperately at the shattered wood and the steel beams），被一个船员告知"You can’t save the dead, miss"（你救不了死人，小姐），而她自己心里也在说"You can’t save everyone, Alice."（你救不了所有人，爱丽丝）**；**等她终于回到甲板，七号艇已经下水，她跳进十二号艇撞翻了一个穿白睡衣的女人——**而这一章的最后一个词，是那三声"小姐"**：‘Miss! Miss! Can you help the children?’**（小姐！小姐！你能帮帮孩子们吗？）**——它正是 ch02 那场风暴的开场白；所以这本书用两章写完了同一个夜晚的两半：ch22 是"她如何到那艘艇上"，ch02 是"她在那艘艇上如何变成了唯一的大人"。**

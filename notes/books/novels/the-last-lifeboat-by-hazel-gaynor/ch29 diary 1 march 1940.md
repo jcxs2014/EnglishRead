@@ -31,9 +31,9 @@ modified: "2026-09-28"
 
 **关键词**：the little sticks and feathers they find / the names they’ve given to / rocks and worms in the garden
 
-**为什么这样写**：**这是全书对"孩子的世界"最温柔的一次列举，而它列的全部是"没有价值"的东西。**"the little sticks and feathers they find"（他们捡到的小棍子和羽毛）——**请注意 little（小）这个形容词：它承认这些玩意在成人的尺度上一文不值**；**"the names they've given to rocks and worms in the garden"（他们给石头和虫子起的名字）**——**而这是本句的重量所在：给石头和虫子起名字，是儿童把世界变成有意义的世界的第一个动作**，**而她的丈夫 Peter 正是那个在院子里陪他们干这事的男人（ch04 那条"窗外的秋千"，ch12 那次她回想起他穿着沾满土豆泥的工装回家）**。
+**为什么这样写**：**这是全书对"孩子的世界"最温柔的一次列举，而它列的全部是"没有价值"的东西。**"the little sticks and feathers they find"（他们捡到的小棍子和羽毛）——**请注意 little（小）这个形容词：它承认这些玩意在成人的尺度上一文不值**；**"the names they’ve given to rocks and worms in the garden"（他们给石头和虫子起的名字）**——**而这是本句的重量所在：给石头和虫子起名字，是儿童把世界变成有意义的世界的第一个动作**，**而她的丈夫 Peter 正是那个在院子里陪他们干这事的男人（ch04 那条"窗外的秋千"，ch12 那次她回想起他穿着沾满土豆泥的工装回家）**。
 
-**读者视角提示：⚠️** **"the names they've given to rocks and worms"（他们给石头和虫子起的名字）是全书所有"信物"的源头**——**白羽毛（ch14 Lily 给 Alice）、喜鹊羽毛（ch15 Arthur 捡的）、弹珠（ch17 Billy 的）、最后是那封没送到母亲手里的信（ch24）**——**它们全都是这一句的实物版**；**而作者把这句话放在全书第二十九章，等于是在说：这本书里所有后来被当作"护身符"的东西，最初都只是花园里孩子随手起的一个名字。**
+**读者视角提示：⚠️** **"the names they’ve given to rocks and worms"（他们给石头和虫子起的名字）是全书所有"信物"的源头**——**白羽毛（ch14 Lily 给 Alice）、喜鹊羽毛（ch15 Arthur 捡的）、弹珠（ch17 Billy 的）、最后是那封没送到母亲手里的信（ch24）**——**它们全都是这一句的实物版**；**而作者把这句话放在全书第二十九章，等于是在说：这本书里所有后来被当作"护身符"的东西，最初都只是花园里孩子随手起的一个名字。**
 
 > **原句 3:** "I’ve started to write it all down because there’s a lot I forget, and I want to remember. I want to remember everything."
 
@@ -41,7 +41,7 @@ modified: "2026-09-28"
 
 **关键词**：I’ve started to write it all down / because there’s a lot I forget / and I want to remember / I want to remember everything
 
-**为什么这样写**：**这是全书对"写作"最直接的一次动机声明，而它的逻辑链有三环，最后一环是断的。**"I’ve started to write it all down"（我已经开始把这些都写下来）——**注意这一句是现在完成时：她已经开始了**；"because there's a lot I forget"（因为我忘的东西太多了）——**而这是一个关于"记忆容量"的判断，不是关于失去**；**"and I want to remember"（而我想记住）**——**want（想要）这个词在英语里是最弱的愿望**；**"I want to remember everything."（我想记住一切。）**——**而这一句是全篇的定稿，它用的是 everything（一切）**——**而她要记的"一切"，按上一句的定义，是"小棍子、羽毛、石头和虫子的名字"**。
+**为什么这样写**：**这是全书对"写作"最直接的一次动机声明，而它的逻辑链有三环，最后一环是断的。**"I’ve started to write it all down"（我已经开始把这些都写下来）——**注意这一句是现在完成时：她已经开始了**；"because there’s a lot I forget"（因为我忘的东西太多了）——**而这是一个关于"记忆容量"的判断，不是关于失去**；**"and I want to remember"（而我想记住）**——**want（想要）这个词在英语里是最弱的愿望**；**"I want to remember everything."（我想记住一切。）**——**而这一句是全篇的定稿，它用的是 everything（一切）**——**而她要记的"一切"，按上一句的定义，是"小棍子、羽毛、石头和虫子的名字"**。
 
 **读者视角提示：⚠️** **"I want to remember everything."（我想记住一切）是这本书全部 14 篇日记里最天真也最沉的一句**——**因为她马上要遇到一件她不可能记住"一切"的事**；**而这一句与 ch13 那位 diarist 的 "No words can ever capture what we have seen."（没有任何言语能捕捉我们所见）形成了这两篇日记的全部张力**——**一位说"我要全部记住"，一位说"语言抓不住"**——**而作者把前者放在 1940 年 3 月，后者放在 9 月 7 日，中间隔了六个月和一整场战争。**
 

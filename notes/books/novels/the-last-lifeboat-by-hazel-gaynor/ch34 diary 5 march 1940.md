@@ -41,7 +41,7 @@ modified: "2026-09-28"
 
 **关键词**：It’s lonely / being surrounded by / memories and worry and doubt
 
-**为什么这样写**：**这是全书对"孤独"最物化的一次描写，而孤独被写成了三个实体的包围圈。**"It's lonely being surrounded by…"（被……包围着，是孤单的）——**这个句式把孤单放在主句、把包围放在介词短语里：所以她的结论是"孤单"，而孤单是这三个名词造成的结果**；**"memories"（记忆）——**注意这是 ch29 那篇的主题词，而它在这里和 worry、doubt 并列**；**"worry and doubt"（担忧和怀疑）——**这两个词的中文里都带"疑"，而英语把它们分开了：worry 是"为结果担心"，doubt 是"对前提不确定"**；**——所以这三个词合起来是：过去、未来、和"是不是真的"。**
+**为什么这样写**：**这是全书对"孤独"最物化的一次描写，而孤独被写成了三个实体的包围圈。**"It’s lonely being surrounded by…"（被……包围着，是孤单的）——**这个句式把孤单放在主句、把包围放在介词短语里：所以她的结论是"孤单"，而孤单是这三个名词造成的结果**；**"memories"（记忆）——**注意这是 ch29 那篇的主题词，而它在这里和 worry、doubt 并列**；**"worry and doubt"（担忧和怀疑）——**这两个词的中文里都带"疑"，而英语把它们分开了：worry 是"为结果担心"，doubt 是"对前提不确定"**；**——所以这三个词合起来是：过去、未来、和"是不是真的"。**
 
 **读者视角提示：⚠️** **"memories and worry and doubt"（记忆、担忧和怀疑）是 ch29 与 ch34 的唯一交集**——**ch29 她要记的是"小棍子和羽毛、石头和虫子的名字"，本章她说这些记忆正在围着她**；**而这一句的语法结构（三个并列名词，一个都没有动词）说明：它们不发生，它们只是在那里——这正是 ch33 那句 "The house is full of them. Full of memories of them."（这屋子里到处都是他们。到处都是关于他们的记忆。）的同一件事，被写成了一个女人自己的独白。**
 
@@ -51,9 +51,9 @@ modified: "2026-09-28"
 
 **关键词**：They don’t have / a leaflet with instructions / for that
 
-**为什么这样写**：**这是全书对"传单"母题的第三次出现，也是它第一次反着写。**"They don't have"（他们没有）——**这个主语是复数 they，而它指谁，全篇没有说：作者让"他们"跟 ch06 那个广播里的"我们预计"（we anticipate）保持同一批人**；**"a leaflet with instructions"（一本带说明的传单）——**请注意 with instructions（带说明）：战时部的传单是指导性的，而这一句说的是"这种事没人给说明书"**；**"for that"（为这个）——**that 在这里指代前面那一整段：找一段平静的时刻、感恩而不是生气**。
+**为什么这样写**：**这是全书对"传单"母题的第三次出现，也是它第一次反着写。**"They don’t have"（他们没有）——**这个主语是复数 they，而它指谁，全篇没有说：作者让"他们"跟 ch06 那个广播里的"我们预计"（we anticipate）保持同一批人**；**"a leaflet with instructions"（一本带说明的传单）——**请注意 with instructions（带说明）：战时部的传单是指导性的，而这一句说的是"这种事没人给说明书"**；**"for that"（为这个）——**that 在这里指代前面那一整段：找一段平静的时刻、感恩而不是生气**。
 
-**读者视角提示：⚠️** **"They don't have a leaflet with instructions for that."（他们没有一本带说明的传单教这个。）是 ch06 那句 "the decision to evacuate your children is being made by the parents who are listening"（疏散你孩子的决定由正在收听的父母来做）的直接反面**——**ch06 政府把"决定权"推给家长（The decision to evacuate is one for which any parents listening must take sole responsibility.），却不发一张告诉他们该怎么做（给孩子们穿什么、几号回来）的纸；ch34 同样是家长，而这一次缺的不是政策，是关于如何活着的说明**；**所以本书对"传单"的用法始终一致：它是国家与家庭之间那条唯一的、也是断掉的通道。**
+**读者视角提示：⚠️** **"They don’t have a leaflet with instructions for that."（他们没有一本带说明的传单教这个。）是 ch06 那句 "the decision to evacuate your children is being made by the parents who are listening"（疏散你孩子的决定由正在收听的父母来做）的直接反面**——**ch06 政府把"决定权"推给家长（The decision to evacuate is one for which any parents listening must take sole responsibility.），却不发一张告诉他们该怎么做（给孩子们穿什么、几号回来）的纸；ch34 同样是家长，而这一次缺的不是政策，是关于如何活着的说明**；**所以本书对"传单"的用法始终一致：它是国家与家庭之间那条唯一的、也是断掉的通道。**
 
 > **原句 5:** "That bit, we have to work out for ourselves."
 

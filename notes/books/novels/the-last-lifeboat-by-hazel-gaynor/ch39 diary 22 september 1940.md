@@ -21,9 +21,9 @@ modified: "2026-09-28"
 
 **关键词**：Sick and tired of the raids / don’t like to grumble / because lots of people / have it much worse
 
-**为什么这样写**：**这是全书对"英国人的克制"最日常的一次书写，而它由一个转折完成。**"Sick and tired of the raids"（对空袭又病又厌）——**注意 sick and tired 并列两个形容词：一个是身体（病），一个是心理（厌），而它们说的都是"累"**；**"but don't like to grumble"（但不喜欢抱怨）——**grumble（低声抱怨）在英语里比 complain（投诉）更小声、更私人**；**"because lots of people have it much worse"（因为很多人的情况比这糟得多）**——**注意 much worse：她在用一个比较级把自己降级，而这正是这句话的重量所在**。
+**为什么这样写**：**这是全书对"英国人的克制"最日常的一次书写，而它由一个转折完成。**"Sick and tired of the raids"（对空袭又病又厌）——**注意 sick and tired 并列两个形容词：一个是身体（病），一个是心理（厌），而它们说的都是"累"**；**"but don’t like to grumble"（但不喜欢抱怨）——**grumble（低声抱怨）在英语里比 complain（投诉）更小声、更私人**；**"because lots of people have it much worse"（因为很多人的情况比这糟得多）**——**注意 much worse：她在用一个比较级把自己降级，而这正是这句话的重量所在**。
 
-**读者视角提示：⚠️** **"Sick and tired of the raids but don't like to grumble because lots of people have it much worse."（对空袭又病又厌，但不喜欢抱怨，因为很多人的情况比这糟得多。）与 ch13 那位 #6385 写的 "No words can ever capture what we have seen."（没有任何言语能捕捉我们所见。）是同一个人在十天后写的两句话**——**ch13 她说语言不够用，ch39 她用了一句抱怨都不肯说的克制**；**所以这本书对"同一个人的两种写法"特别有耐心：它让读者自己看出，丧亲与疲倦使用的是同一种沉默。**
+**读者视角提示：⚠️** **"Sick and tired of the raids but don’t like to grumble because lots of people have it much worse."（对空袭又病又厌，但不喜欢抱怨，因为很多人的情况比这糟得多。）与 ch13 那位 #6385 写的 "No words can ever capture what we have seen."（没有任何言语能捕捉我们所见。）是同一个人在十天后写的两句话**——**ch13 她说语言不够用，ch39 她用了一句抱怨都不肯说的克制**；**所以这本书对"同一个人的两种写法"特别有耐心：它让读者自己看出，丧亲与疲倦使用的是同一种沉默。**
 
 > **原句 2:** "Had a dream last night that the Germans were bombing us with potatoes – skins on, of course, because a peeled potato (Heaven forbid!) is almost as shocking as an iron bomb at this stage."
 
@@ -43,7 +43,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"新闻标题"最冷的一次改写，而它只有一句。**"‘The Kitchen Front' has become ‘The Potato Front'."（"厨房前线"变成了"土豆前线"。）——**Kitchen Front（厨房前线）是当时英国的一个真实说法，指后勤与家务的战场**；**而作者把其中一个词替换掉：一个复合名词变成了另一个复合名词，句型完全不变**；**——而这正是全书对"宣传语言"最省力的一次拆解：把一个词换掉，句子还站得住，意思却塌了。**
 
-**读者视角提示：⚠️** **"'The Kitchen Front' has become 'The Potato Front'."（"厨房前线"变成了"土豆前线"。）与 ch33 那句 "an unpleasant air of 'Britain will prevail' superiority"（一股令人不适的"英国必将胜利"式的优越感）是一组**——**ch33 她在街上听见的是一句口号，ch39 她在自家厨房里把口号改了一个词**；**而两处都出自"换掉一个词"这个动作：口号的力量在于不可替换，而她的幽默在于可替换。**
+**读者视角提示：⚠️** **"'The Kitchen Front' has become 'The Potato Front'."（"厨房前线"变成了"土豆前线"。）与 ch33 那句 "an unpleasant air of ’Britain will prevail’ superiority"（一股令人不适的"英国必将胜利"式的优越感）是一组**——**ch33 她在街上听见的是一句口号，ch39 她在自家厨房里把口号改了一个词**；**而两处都出自"换掉一个词"这个动作：口号的力量在于不可替换，而她的幽默在于可替换。**
 
 > **原句 4:** "Everything must be made from the bloody things: potato pastry, potato salad, baked potatoes, potatoes, potatoes, potatoes."
 
@@ -61,9 +61,9 @@ modified: "2026-09-28"
 
 **关键词**：I’ll turn into a potato / at this rate
 
-**为什么这样写**：**这是全书对"活下去"最轻盈的一次定义，而它只有八个词。**"I'll turn into a potato"（我要变成一颗土豆）——**注意 I'll：这个将来时里没有恐惧，只有一种近乎物理的变化**；**"at this rate"（照这个速度）**——**而这个短语在英语里属于抱怨的句式，而她把它用在了自己身上**；**——所以这句自嘲的真正意思是：她不会变成土豆，但会变成"一个只会说土豆的人"，而这在 1940 年 9 月的英国，或许已经足够。**
+**为什么这样写**：**这是全书对"活下去"最轻盈的一次定义，而它只有八个词。**"I’ll turn into a potato"（我要变成一颗土豆）——**注意 I'll：这个将来时里没有恐惧，只有一种近乎物理的变化**；**"at this rate"（照这个速度）**——**而这个短语在英语里属于抱怨的句式，而她把它用在了自己身上**；**——所以这句自嘲的真正意思是：她不会变成土豆，但会变成"一个只会说土豆的人"，而这在 1940 年 9 月的英国，或许已经足够。**
 
-**读者视角提示：⚠️** **"I'll turn into a potato at this rate."（照这个速度，我要变成一颗土豆了。）是这 15 篇日记里最轻的一句收尾，而它紧跟在一份全是土豆的菜单之后**——**对照 ch34 那位 #6672 说的 "That bit, we have to work out for ourselves."（这一部分，得我们自己摸索。）与 ch29 那位说的 "I want to remember everything."（我想记住一切。）**；**同一个项目、同一个英国、同一个月，作者用三句不同的收尾记录了三种活法：记下一切、摸索方法、变成土豆。**
+**读者视角提示：⚠️** **"I’ll turn into a potato at this rate."（照这个速度，我要变成一颗土豆了。）是这 15 篇日记里最轻的一句收尾，而它紧跟在一份全是土豆的菜单之后**——**对照 ch34 那位 #6672 说的 "That bit, we have to work out for ourselves."（这一部分，得我们自己摸索。）与 ch29 那位说的 "I want to remember everything."（我想记住一切。）**；**同一个项目、同一个英国、同一个月，作者用三句不同的收尾记录了三种活法：记下一切、摸索方法、变成土豆。**
 
 ## 本章词汇
 

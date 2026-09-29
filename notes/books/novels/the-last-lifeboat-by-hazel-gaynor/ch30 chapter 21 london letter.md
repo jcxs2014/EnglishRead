@@ -43,7 +43,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"守候"最正式的一次宣告，而它的语法是一次重复。**"I have to be here"（我必须在这儿）——**这一句在同一段里说了两遍，而第二遍前面加了"when they find him"（当他们找到他时）**；**"My job is to be here"（我的工作就是在这儿）**——**请注意 job（工作）这个词：它来自 ch19 那位 diarist 说的"我在外面待了很久"（I spend a lot of time outside），而 ch25 里 Owen 说的是 There's no room for airs and graces here（这里没有摆架子的余地）**——**"工作"在这个家里第一次变成了一个可以占据的岗位，而它的内容是"在场"。**
 
-**读者视角提示：⚠️** **"My job is to be here when my children come home."（我的工作就是在这儿等我孩子回来。）是莉莉与 ch24 那位把信读完就崩溃的自己的分界**——**而请注意这与 ch21 她对 Elsie 说的"They're far better than you"（她们远比你强）形成一组**：**那时她替别人说话，此刻她替自己定义了一个岗位——而这个岗位没有任何人会来替换她**。
+**读者视角提示：⚠️** **"My job is to be here when my children come home."（我的工作就是在这儿等我孩子回来。）是莉莉与 ch24 那位把信读完就崩溃的自己的分界**——**而请注意这与 ch21 她对 Elsie 说的"They’re far better than you"（她们远比你强）形成一组**：**那时她替别人说话，此刻她替自己定义了一个岗位——而这个岗位没有任何人会来替换她**。
 
 > **原句 4:** "He’s a survivor, Mrs H. Arthur knows what it takes to live. He’s eager to live, full of life and questions. Always in a hurry …’"
 
@@ -81,9 +81,9 @@ modified: "2026-09-28"
 
 **关键词**：She needs to do what she's good at / solve the problem
 
-**为什么这样写**：**这是全书对"情绪"最一次工程学的处理，而它只有十一个词。**"what she's good at"（她擅长的东西）——**这一句把她的一生压缩成了一个能力项**；**"solve the problem"（解出这个问题）**——**请注意 problem（问题）这个词：它把丧子之痛重新定义成了一道题**；**而这一句紧接在前面那句“She doesn't want their pity or their pies”（她不想要他们的同情或派）之后——**所以这本书对"人类如何面对失去"的最终回答是：不是接受安慰，是解题**。
+**为什么这样写**：**这是全书对"情绪"最一次工程学的处理，而它只有十一个词。**"what she’s good at"（她擅长的东西）——**这一句把她的一生压缩成了一个能力项**；**"solve the problem"（解出这个问题）**——**请注意 problem（问题）这个词：它把丧子之痛重新定义成了一道题**；**而这一句紧接在前面那句“She doesn't want their pity or their pies”（她不想要他们的同情或派）之后——**所以这本书对"人类如何面对失去"的最终回答是：不是接受安慰，是解题**。
 
-**读者视角提示：⚠️** **"She needs to do what she's good at: solve the problem."（她需要做她擅长的事：解出这个问题。）是 ch09 那位 diarist 的方法在 ch30 的回声**——**而 ch09 的莉莉在做"送走还是留下"的算术，ch30 的莉莉在做"护航为什么失效"的推理**；**这两道题在本书的后半会交汇：ch45 之后，她会拿到那份名单**。
+**读者视角提示：⚠️** **"She needs to do what she’s good at: solve the problem."（她需要做她擅长的事：解出这个问题。）是 ch09 那位 diarist 的方法在 ch30 的回声**——**而 ch09 的莉莉在做"送走还是留下"的算术，ch30 的莉莉在做"护航为什么失效"的推理**；**这两道题在本书的后半会交汇：ch45 之后，她会拿到那份名单**。
 
 > **原句 8:** "‘They abandoned them? They abandoned our children? My children?’"
 
@@ -101,7 +101,7 @@ modified: "2026-09-28"
 
 **关键词**：they proceed unescorted
 
-**为什么这样写**：**这是全书最冷的一次航海术语教学，而它由 Elsie 的一句"Yes（是的）"引出。**"they proceed"（他们继续走）——**proceed 在英语里不带任何情绪：船在"继续"，像在走完一段路**；**"unescorted"（无护航的）**——**而 ch25 那位 Alice 还在甲板上对 Howard 说 "We're in very safe hands. The might of the Admiralty watching over us."（我们在非常安全的手中。海军的威力正守望着我们）**——**所以同一个护航事实，在 ch25 是一句安慰，在 ch30 是一个词**。
+**为什么这样写**：**这是全书最冷的一次航海术语教学，而它由 Elsie 的一句"Yes（是的）"引出。**"they proceed"（他们继续走）——**proceed 在英语里不带任何情绪：船在"继续"，像在走完一段路**；**"unescorted"（无护航的）**——**而 ch25 那位 Alice 还在甲板上对 Howard 说 "We’re in very safe hands. The might of the Admiralty watching over us."（我们在非常安全的手中。海军的威力正守望着我们）**——**所以同一个护航事实，在 ch25 是一句安慰，在 ch30 是一个词**。
 
 **读者视角提示：⚠️** **"‘Yes, they proceed unescorted.'（是的，他们无护航地继续走。）是全书对 ch25 那句"我们在非常安全的手中"的最终对账**——**而请注意这两个句子在小说里的位置：ch25 是第 20 章，ch30 是第 21 章**——**也就是说，作者在写下那句安全承诺的下一章，就写出了它的反面**；**而这个"下一章"的结构，正是 ch01（战争）—ch02（沉船）—ch03（四个月前）这套倒叙的微观版本。**
 
@@ -121,7 +121,7 @@ modified: "2026-09-28"
 
 **关键词**：To the CORB offices / I need to talk to someone / how this was ever allowed to happen
 
-**为什么这样写**：**这是全书莉莉线的转折句，而它是一个"问 how"的句式。**"I need to talk to someone"（我需要找个人谈谈）——**请注意 someone（某个人）：她不是要问制度，她要找一个具体的人**；**"how this was ever allowed to happen"（这件事怎么会被允许发生）**——**而 ever（竟然、到底）在英语里带着一种"怎么可能"的语气**——**所以她问的不是"谁批准的"，而是"怎么会被允许"**；**而这一句是 ch30 的最后一句，也是 ch21 那句"They're far better than you."（她们远比你强。）之后的收束**——**那时她对一位雇主说，现在她对整个国家说。
+**为什么这样写**：**这是全书莉莉线的转折句，而它是一个"问 how"的句式。**"I need to talk to someone"（我需要找个人谈谈）——**请注意 someone（某个人）：她不是要问制度，她要找一个具体的人**；**"how this was ever allowed to happen"（这件事怎么会被允许发生）**——**而 ever（竟然、到底）在英语里带着一种"怎么可能"的语气**——**所以她问的不是"谁批准的"，而是"怎么会被允许"**；**而这一句是 ch30 的最后一句，也是 ch21 那句"They’re far better than you."（她们远比你强。）之后的收束**——**那时她对一位雇主说，现在她对整个国家说。
 
 **读者视角提示：⚠️** **"how this was ever allowed to happen"（这件事怎么会被允许发生）是 ch30 与 ch23 那句"Normal procedure."（这是常规程序）的正面对撞**——**ch23 的 Jimmy 在暴风雨里用三个字解释了一条不成文的规矩，ch30 的莉莉在厨房桌前用一句话追问了这条规矩的合法性**——**而这两句的共同点是：它们都没有恶意，而它们合起来就是这本书对 1940 年英国的全部控诉。**
 

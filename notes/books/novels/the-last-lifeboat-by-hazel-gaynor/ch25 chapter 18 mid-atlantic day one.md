@@ -43,7 +43,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"假笑"最冷的一次描写，而它把笑和冻放在了一句话里。**"attempts"（试图）——**请注意这个词：作者不说她"挤出"一个笑，而说她"试图"——笑是一个需要努力的动作**；"frozen"（冻住）——**而这个形容词在物理上是真的（她在寒冷的海上一夜），在心理上也是真的（她冻住了）**；**"with cold and guilt"（因为冷，也因为愧疚）——**请注意这个并列：她脸上的僵，有一半来自天气，一半来自她刚刚告诉那个孩子"我不知道"（I'm afraid I haven't）。
 
-**读者视角提示：⚠️** **"frozen with cold and guilt"（因寒冷与愧疚而僵）这个并列是本书对"内疚"最物理化的一次处理**——**请对照 ch21 她在主宅对 Elsie 说的那句 "They're far better than you."（她们远比你强）**：**那时她能代表别人说话，此刻她连一个孩子的问话都不敢正面回答**——**而这一章的病根是 ch22 那个被堵住的楼梯间：六个该跟她在一起的孩子，不在艇上。**
+**读者视角提示：⚠️** **"frozen with cold and guilt"（因寒冷与愧疚而僵）这个并列是本书对"内疚"最物理化的一次处理**——**请对照 ch21 她在主宅对 Elsie 说的那句 "They’re far better than you."（她们远比你强）**：**那时她能代表别人说话，此刻她连一个孩子的问话都不敢正面回答**——**而这一章的病根是 ch22 那个被堵住的楼梯间：六个该跟她在一起的孩子，不在艇上。**
 
 > **原句 4:** "It’s as if the Carlisle had never existed."
 
@@ -71,9 +71,9 @@ modified: "2026-09-28"
 
 **关键词**：able seamen, a teacher, six children, a stowaway / competent and willing individuals / one thing it doesn’t have is a doctor or a nurse
 
-**为什么这样写**：**这是全书对"一艘船的资产负债表"最完整的一次清点，而它以一个"但"收尾。**"able seamen"（能干的水手）——**这一串名词都是"可用的"：能干、有能力、愿意**；**而 "one thing it doesn't have"（它没有的那一样东西）**——**请注意这个单数：不是缺很多东西，是缺一样**；**"a doctor or a nurse"（一名医生或一名护士）**——**or（或者）这个词在这里是残酷的：两样东西，缺任意一样都等于零**。
+**为什么这样写**：**这是全书对"一艘船的资产负债表"最完整的一次清点，而它以一个"但"收尾。**"able seamen"（能干的水手）——**这一串名词都是"可用的"：能干、有能力、愿意**；**而 "one thing it doesn’t have"（它没有的那一样东西）**——**请注意这个单数：不是缺很多东西，是缺一样**；**"a doctor or a nurse"（一名医生或一名护士）**——**or（或者）这个词在这里是残酷的：两样东西，缺任意一样都等于零**。
 
-**读者视角提示：⚠️** **"one thing it doesn't have is a doctor or a nurse."（它没有的一样，是医生或护士）是全书对 1940 年"应急系统"最冷静的一次描写**——**而请注意紧接的下一句：For those in anything less than perfect health, every hour at sea is an hour too long.（对任何健康状况不够完美的人，海上的每一小时都太长）**——**所以这一段的结论是：他们有时间，但病人没有**——**而这一小时一小时的算法，正是 ch09 莉莉"算概率"的方法被用在了最残酷的地方。**
+**读者视角提示：⚠️** **"one thing it doesn’t have is a doctor or a nurse."（它没有的一样，是医生或护士）是全书对 1940 年"应急系统"最冷静的一次描写**——**而请注意紧接的下一句：For those in anything less than perfect health, every hour at sea is an hour too long.（对任何健康状况不够完美的人，海上的每一小时都太长）**——**所以这一段的结论是：他们有时间，但病人没有**——**而这一小时一小时的算法，正是 ch09 莉莉"算概率"的方法被用在了最残酷的地方。**
 
 > **原句 7:** "There’s no room for airs and graces here, young lady. There’s no room for anything much, but especially not that."
 
@@ -83,7 +83,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"阶级"最彻底的一次废除，而它用了三句递进。**"airs and graces"（摆架子）——**这个词组在 ch06 那位 Mrs Carr 身上已经出现过（her employer’s airs and graces），而它是本项目词表里的进阶词**；**"no room for anything much, but especially not that"（什么都放不下，尤其是那个）**——**请注意 especially not that（尤其不是那个）：他先用"什么都放不下"来解释生存空间，再用"尤其不是那个"来指明他要禁的那一样东西**——**而这一句的 "that" 没有指名，所以它同时可以指"摆架子"，也可以指"我第一次_class 的票"。**
 
-**读者视角提示：⚠️** **"There's no room for airs and graces here."（这里没有摆架子的余地）是 ch06 与 ch25 之间最有意味的一次对照**——**ch06 莉莉必须忍受雇主的做派（airs and graces），因为那是她的饭碗；ch25 Molly 必须放弃她的做派，因为那是她的命**——**而这两个女人对同一个词的态度，正好是这本书对"体面"这个概念的全部处理：它是一个可以交换的东西。**
+**读者视角提示：⚠️** **"There’s no room for airs and graces here."（这里没有摆架子的余地）是 ch06 与 ch25 之间最有意味的一次对照**——**ch06 莉莉必须忍受雇主的做派（airs and graces），因为那是她的饭碗；ch25 Molly 必须放弃她的做派，因为那是她的命**——**而这两个女人对同一个词的态度，正好是这本书对"体面"这个概念的全部处理：它是一个可以交换的东西。**
 
 > **原句 8:** "Her initial fear turns to anger as she thinks of all the ships in their convoy."
 
@@ -131,9 +131,9 @@ modified: "2026-09-28"
 
 **关键词**：A stowaway or the ship’s captain / first class or third / they’re all the same now
 
-**为什么这样写**：**这是全书对"阶级"最彻底的一次废除，而它用了一组二选一。**"A stowaway or the ship's captain"（偷渡者或船长）——**这一组是身份的两极**；"first class or third"（头等或三等）——**这一组是舱位的两极**；**"they're all the same now"（现在都一样了）**——**请注意 now（现在）：这不是一句永远成立的话，它是一个**时态**声明**——**而这句话的形式，正是 ch17 那句 "A stowaway or the ship’s captain" 所预告的**——**因为那一句还是玩笑，而这一句变成了事实。**
+**为什么这样写**：**这是全书对"阶级"最彻底的一次废除，而它用了一组二选一。**"A stowaway or the ship’s captain"（偷渡者或船长）——**这一组是身份的两极**；"first class or third"（头等或三等）——**这一组是舱位的两极**；**"they’re all the same now"（现在都一样了）**——**请注意 now（现在）：这不是一句永远成立的话，它是一个**时态**声明**——**而这句话的形式，正是 ch17 那句 "A stowaway or the ship’s captain" 所预告的**——**因为那一句还是玩笑，而这一句变成了事实。**
 
-**读者视角提示：⚠️** **"they're all the same now."（现在都一样了）是全书对 1940 年英国"阶级"这一概念的处理**——**而它紧接在 Molly 说出 "I have a first-class ticket."（我有一张头等舱票）之后**——**所以这一章的阶层对抗只有三个来回就被按下去了**——**而按下去它的，是 Owen 那句 "First class or last damn class, nobody could give a crap."（头等还是他妈的末等，谁都懒得管）**——**这本书的结论是：海不管舱位。**
+**读者视角提示：⚠️** **"they’re all the same now."（现在都一样了）是全书对 1940 年英国"阶级"这一概念的处理**——**而它紧接在 Molly 说出 "I have a first-class ticket."（我有一张头等舱票）之后**——**所以这一章的阶层对抗只有三个来回就被按下去了**——**而按下去它的，是 Owen 那句 "First class or last damn class, nobody could give a crap."（头等还是他妈的末等，谁都懒得管）**——**这本书的结论是：海不管舱位。**
 
 > **原句 13:** "‘If you’re stowing away from something, I presume you’re in trouble. If you’re stowing away toward something, I presume you’re in love.’"
 
@@ -151,9 +151,9 @@ modified: "2026-09-28"
 
 **关键词**：Don’t worry, kids / We’ll be rescued long before / any of you would even consider nibbling someone’s ear
 
-**为什么这样写**：**这是全书最黑色幽默的一次，而它的关键是 nibble（小口啃）这个词。**"long before any of you would even consider"（早在你们**考虑**之前）——**请注意 consider（考虑）：他把"吃人"写成了一个需要经过思考的选项**；"nibbling someone's ear"（啃某人的耳朵）——**请注意 ear（耳朵）这个具体到荒谬的部位**：他不说"吃人"，他说"啃耳朵"**；**而这一句之所以好笑又可怕，是因为在 ch25 稍后，Hamish 会真的说 "I'd definitely eat an ear for breakfast."（早餐我肯定吃一只耳朵）——**所以 Owen 的这句玩笑，四十行之后被一个孩子实现了**。
+**为什么这样写**：**这是全书最黑色幽默的一次，而它的关键是 nibble（小口啃）这个词。**"long before any of you would even consider"（早在你们**考虑**之前）——**请注意 consider（考虑）：他把"吃人"写成了一个需要经过思考的选项**；"nibbling someone’s ear"（啃某人的耳朵）——**请注意 ear（耳朵）这个具体到荒谬的部位**：他不说"吃人"，他说"啃耳朵"**；**而这一句之所以好笑又可怕，是因为在 ch25 稍后，Hamish 会真的说 "I’d definitely eat an ear for breakfast."（早餐我肯定吃一只耳朵）——**所以 Owen 的这句玩笑，四十行之后被一个孩子实现了**。
 
-**读者视角提示：⚠️** **"nibbling someone's ear"（啃某人的耳朵）是全书把"食人"写得最轻的一句话**——**而对照 ch20 那个说船"像不听话的孩子"的 Owen，这一刻他还在用比喻保护孩子们**；**而作者随后让 Billy 和 Arthur 真的笑起来（giggle）——**这本书对孩子的处理始终是：他们能在最坏的时刻笑出来，而这既是希望，也是另一种残忍。**
+**读者视角提示：⚠️** **"nibbling someone’s ear"（啃某人的耳朵）是全书把"食人"写得最轻的一句话**——**而对照 ch20 那个说船"像不听话的孩子"的 Owen，这一刻他还在用比喻保护孩子们**；**而作者随后让 Billy 和 Arthur 真的笑起来（giggle）——**这本书对孩子的处理始终是：他们能在最坏的时刻笑出来，而这既是希望，也是另一种残忍。**
 
 > **原句 15:** "Almost reverentially, the portions are passed from one person to the next, first to the children, then to those suffering the most, and finally to everyone else."
 
@@ -163,7 +163,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"分配"最庄严的一次描写，而它分的是一罐牛肉。**"Almost reverentially"（近乎虔敬地）——**请注意 almost（近乎）：**这不是仪式，这是**一群饥饿的人**——而作者说它近乎虔敬，是因为那一刻他们确实在对待它像圣物**；"the portions are passed"（那些份被传递）——**主语是 portions（那些份），而不是人**——**食物成了被传递的主体，而人成了通道**；**"first to the children, then to those suffering the most, and finally to everyone else"**——**这个顺序是全书最清醒的一次分配，而它和 ch02 那句"衣服给孩子"完全一致**——**所以这艘船上的"道德"，其实早在一夜前就由它自己长出来了。
 
-**读者视角提示：⚠️** **"Almost reverentially, the portions are passed…"（近乎虔敬地，那些份被传递着）是全书对"公平"最不浪漫的一次描写**——**而它紧接在 Owen 那句 "We'll have to take it in turns."（我们只能轮着来）之后**——**而这里的顺序（孩子 → 最病的人 → 其余）比"轮着用"具体得多**；**所以这本书对制度的态度很清楚：制度说"分散"，人说"给孩子"，而这两句话在同一条船上、同一顿饭里并存。**
+**读者视角提示：⚠️** **"Almost reverentially, the portions are passed…"（近乎虔敬地，那些份被传递着）是全书对"公平"最不浪漫的一次描写**——**而它紧接在 Owen 那句 "We’ll have to take it in turns."（我们只能轮着来）之后**——**而这里的顺序（孩子 → 最病的人 → 其余）比"轮着用"具体得多**；**所以这本书对制度的态度很清楚：制度说"分散"，人说"给孩子"，而这两句话在同一条船上、同一顿饭里并存。**
 
 > **原句 16:** "My father will be furious.’"
 

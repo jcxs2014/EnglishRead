@@ -81,9 +81,9 @@ modified: "2026-09-28"
 
 **关键词**：You can’t save them all, Alice / You can’t save them all
 
-**为什么这样写**：**这是 ch23 那位船员那句 "You can't save the dead, miss"（你救不了死人，小姐）的第三次出现，而这一次说话的人是 Walter。**"You can't save them all"（你救不了他们所有人）——**在 ch23 这句话是对她说"你上船"；ch25 变成她心里的声音；**而本章它出现在梦里，由她哥哥说出来，并且说两遍**；**而这个重复（all, all）是全书对这句话唯一一次加重的写法**。
+**为什么这样写**：**这是 ch23 那位船员那句 "You can’t save the dead, miss"（你救不了死人，小姐）的第三次出现，而这一次说话的人是 Walter。**"You can’t save them all"（你救不了他们所有人）——**在 ch23 这句话是对她说"你上船"；ch25 变成她心里的声音；**而本章它出现在梦里，由她哥哥说出来，并且说两遍**；**而这个重复（all, all）是全书对这句话唯一一次加重的写法**。
 
-**读者视角提示：⚠️** **"You can't save them all, Alice. You can't save them all."（你救不了他们所有人，爱丽丝。你救不了他们所有人。）是 ch26 那位 diarist 说的"许多孩子死了"的相反面**——**一位说死了一位说"全救不了"，而这两句之间隔了六章**；**而更狠的是：梦里的 Walter 说完这句之后，她手边那一桶鱼全都还在喘气（Fish in a bucket, gasping for breath.）——**所以这本书对这句话的处理是：它连梦里都不放过。
+**读者视角提示：⚠️** **"You can’t save them all, Alice. You can’t save them all."（你救不了他们所有人，爱丽丝。你救不了他们所有人。）是 ch26 那位 diarist 说的"许多孩子死了"的相反面**——**一位说死了一位说"全救不了"，而这两句之间隔了六章**；**而更狠的是：梦里的 Walter 说完这句之后，她手边那一桶鱼全都还在喘气（Fish in a bucket, gasping for breath.）——**所以这本书对这句话的处理是：它连梦里都不放过。
 
 > **原句 8:** "‘I need help! Can somebody help me?’"
 
@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是 ch22 那句 "Call me Ishmael" 的对仗句，而它出现在全章的最后一个词上。**"I need help!"（我需要帮助！）——**注意 help（帮助）这个词在 ch22 曾被那位睡衣男人用同样的词喊出来（Miss! The children!），**而本章这一次是她自己在喊**；**"Can somebody help me?"（有人能帮我吗？）**——**somebody（某人）这个不定代词让求助变成了一个对着虚空的疑问句**。
 
-**读者视角提示：⚠️** **"I need help! Can somebody help me?"（我需要帮助！有人能帮我吗？）是 Alice 从 ch08 那个 "This, she could do"（这件事我能做）到本章的完整弧线**——**而 ch25 她还在说 "they're all the same now"（现在都一样了）**；**这一章的末尾，那位教师终于喊出了她从 ch08 起就没有说出口的那句话：她需要人。**
+**读者视角提示：⚠️** **"I need help! Can somebody help me?"（我需要帮助！有人能帮我吗？）是 Alice 从 ch08 那个 "This, she could do"（这件事我能做）到本章的完整弧线**——**而 ch25 她还在说 "they’re all the same now"（现在都一样了）**；**这一章的末尾，那位教师终于喊出了她从 ch08 起就没有说出口的那句话：她需要人。**
 
 ## 本章词汇
 

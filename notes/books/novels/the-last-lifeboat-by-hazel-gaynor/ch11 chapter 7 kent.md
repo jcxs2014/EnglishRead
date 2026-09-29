@@ -9,7 +9,7 @@ modified: "2026-09-28"
 
 - **一句话概括**：Alice 的 CORB 申请批下来了，她拿着那封信一路被称赞到麻木（proud, and more than a little nauseous）；**而这一天真正改变一切的不是她的信，是 Kitty 在餐桌下那句话——"我怀孕了"（I'm expecting, Alice. I'm pregnant.）**
 - **情感弧线位置**：**转折／全书两条主线同时启动**。ch08 是 Alice 伸出手，本章是她**握住**（approved）；**但作者立刻把这份喜悦的代价摆上桌——妹妹要独自处理一件她无法帮忙的事，因为她即将上船，而 Kitty 需要的帮助恰恰是"待在附近"。**
-- **Tropes 兑现/反转**：① **"好消息接坏消息"**的老套路被反转—— Kitty 的坏消息是全书最重的一颗哑弹，而她选的场合是**姐姐刚宣布要走的那个晚上**；② **"It was everyone's business"**（它是每个人的事）——本章用这句叙述把一个孕妇的秘密和一场国策并排放在一起，**这正是这句话最险的用法**；③ **"父亲的遗赠"**——《David Copperfield》扉页上那行手写题词（Be the hero (heroine) of your own life）在此登场，**而 Kitty 恰恰即将成为"别人生活的英雄"却失败**。
+- **Tropes 兑现/反转**：① **"好消息接坏消息"**的老套路被反转—— Kitty 的坏消息是全书最重的一颗哑弹，而她选的场合是**姐姐刚宣布要走的那个晚上**；② **"It was everyone’s business"**（它是每个人的事）——本章用这句叙述把一个孕妇的秘密和一场国策并排放在一起，**这正是这句话最险的用法**；③ **"父亲的遗赠"**——《David Copperfield》扉页上那行手写题词（Be the hero (heroine) of your own life）在此登场，**而 Kitty 恰恰即将成为"别人生活的英雄"却失败**。
 - **人物弧线**：Alice King：从"收到录取信"到"必须目送妹妹怀孕独自面对"；**注意作者让她在这一章里两次说出安慰的话（Everything will be all right, Kitty. I promise.），而 Kitty 的回答是 It won’t. But thank you for pretending.——这本书禁止廉价的安慰**。她与父亲的关系也在本章完成交接（Be the hero (heroine) of your own life → she would prefer to become the hero of someone else’s life）。
 - **叙事手法**：**第三人称限知贴 Alice**；**双线高潮并置**（上午：录取信 / 晚上：Kitty 的坦白）；**书房独处段**（本章唯一一次 Alice 与已故父亲的直接"对话"）；**火车站台收束**（全书最爱用"目送"作结）。
 
@@ -81,7 +81,7 @@ modified: "2026-09-28"
 
 **关键词**：That was the thing about war / everyone’s business / a uniquely shared experience / made personal responses to it everybody’s business, too
 
-**为什么这样写**：**这是全书对"公共与私人"这一对概念最精确的一次定义，而它的力量在于那个 too（也）。**"everyone's business"（每个人的事）出现两次：第一次说战争是公事，第二次说**连"你对它的反应"也成了公事**——**那个 too 是全句的机关，它把"共同经历"升级为"共同审判"**。而"personal responses"（个人的反应）这个词组尤其阴冷：**在 1940 年的英国，你的悲喜、你的恐慌、你的沉默，都会被别人当作材料。**"uniquely shared"（独一无二的共同）——**这个自相矛盾的形容词是英语里最漂亮的一种悖论表达：只有每个人经历的都不同，才叫"共同"。**
+**为什么这样写**：**这是全书对"公共与私人"这一对概念最精确的一次定义，而它的力量在于那个 too（也）。**"everyone’s business"（每个人的事）出现两次：第一次说战争是公事，第二次说**连"你对它的反应"也成了公事**——**那个 too 是全句的机关，它把"共同经历"升级为"共同审判"**。而"personal responses"（个人的反应）这个词组尤其阴冷：**在 1940 年的英国，你的悲喜、你的恐慌、你的沉默，都会被别人当作材料。**"uniquely shared"（独一无二的共同）——**这个自相矛盾的形容词是英语里最漂亮的一种悖论表达：只有每个人经历的都不同，才叫"共同"。**
 
 **读者视角提示**：⚠️ **这一句的"too"是全章的引信**：**因为 Kitty 隐瞒的那件事，正是她对"战争"的一个个人反应——（他很忙、很高、也结了婚）——而这句话恰好说明她为什么要瞒**；**请记住 this was the thing about war 这条格言，它在 ch09 那位排队的女人那里（Unwanted goods, like scrap）还会以另一种形式出现。**
 
@@ -133,7 +133,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是父亲留给 Alice 的第二句遗言（第一句是"想想我们可能去哪儿"），而它是全书最乐观也最天真的一句。**"We are only limited by what we fear"（我们只被自己害怕的东西限制）——**注意那个 only（只）：父亲认为恐惧是唯一的限制，而"唯一"是绝对判断。**而句子的主语是 We（我们），不是 I（我）——**父亲把这条法则说成集体经验，**而他自己是那个为"limitations"（限制）付了终身代价的人（他不能打仗、不能出海、只能待在英国）。**"Fear nothing, and you can do anything!"（什么都不怕，你就能做任何事）——**这是一个标准的励志格言，而作者把它放在父亲（一位终身受限者）的嘴里，这个错位是全章最深的反讽。**
 
-**读者视角提示**：⚠️ **这句格言将在四个月后被现实检验**——**ch02 里 Alice 最"不怕"的那一刻，恰是她被按在桅杆上、惊恐失语的那一刻**；**所以当 Kitty 在本章里说"I won't. But thank you for pretending."（不会。但谢谢你假装）时，读者应当意识到：这句话是对着 Alice 的整套世界观说的——**她"假装"过"一切都会好"，而 Kitty 早就知道不会。
+**读者视角提示**：⚠️ **这句格言将在四个月后被现实检验**——**ch02 里 Alice 最"不怕"的那一刻，恰是她被按在桅杆上、惊恐失语的那一刻**；**所以当 Kitty 在本章里说"I won’t. But thank you for pretending."（不会。但谢谢你假装）时，读者应当意识到：这句话是对着 Alice 的整套世界观说的——**她"假装"过"一切都会好"，而 Kitty 早就知道不会。
 
 ## 本章词汇
 

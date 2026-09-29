@@ -53,7 +53,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**"hide" 这个动词是全书的题眼之一。**上一句说她笑得不合时宜，这一句给出动机：笑不是失控，是** technique——一种把眼泪藏起来的工具**。作者用一个功能性的、几乎冷静的 "useful"（有用的）来给情绪定性：**她把自己的笑当成了装备**，跟后面 Alice 抱紧桅杆、把书当掩体，属于同一种活法。请注意这一句是**补充说明（Besides）**——真正的眼泪被放进了从句，露在句外的只有那个动词。
 
-**读者视角提示**：**"hide" 在这里第一次出现，但全书会反复出现**——ch02 里 Alice "tries not to think about the falling woman"、ch03 里 Kitty 说她 "you're afraid"，都是"藏"这个动作的变体。
+**读者视角提示**：**"hide" 在这里第一次出现，但全书会反复出现**——ch02 里 Alice "tries not to think about the falling woman"、ch03 里 Kitty 说她 "you’re afraid"，都是"藏"这个动作的变体。
 
 > **原句 5:** "The children leave for the countryside today. I don’t know what else to say about that."
 

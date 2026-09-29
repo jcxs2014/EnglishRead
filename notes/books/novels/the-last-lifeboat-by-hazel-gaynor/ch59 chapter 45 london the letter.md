@@ -61,7 +61,7 @@ modified: "2026-09-28"
 
 **关键词**：Let them assume / It doesn’t matter who wrote it / What matters is that people read it / and that those in power act on it / What matters is that this never happens again
 
-**为什么这样写**：**这是全书对"署名"最彻底的放弃，而它是一个三段 What matters。**"Let them assume."（让他们去猜。）**——**而 assume 在这里不是"假定"，是"认为（你是）"，而作者让对方猜错**；**——"It doesn't matter who wrote it."（是谁写的并不重要。）**——**而这一句否定的正是爱丽丝刚刚担心的那件事（对方会认为是个男人写的）**；**——而 then 两段 What matters is 构成一个阶梯：第一件是被人读到，第二件是被执行，第三件是再也不会发生**；**——所以作者用重复的句型，把"署名"这个人的问题，换成了"后果"这个制度的问题。**
+**为什么这样写**：**这是全书对"署名"最彻底的放弃，而它是一个三段 What matters。**"Let them assume."（让他们去猜。）**——**而 assume 在这里不是"假定"，是"认为（你是）"，而作者让对方猜错**；**——"It doesn’t matter who wrote it."（是谁写的并不重要。）**——**而这一句否定的正是爱丽丝刚刚担心的那件事（对方会认为是个男人写的）**；**——而 then 两段 What matters is 构成一个阶梯：第一件是被人读到，第二件是被执行，第三件是再也不会发生**；**——所以作者用重复的句型，把"署名"这个人的问题，换成了"后果"这个制度的问题。**
 
 **读者视角提示：⚠️** **"What matters is that this never happens again."（重要的是这种事再也不会发生。）与 ch42 那瓶写着 "Remember us"（记住我们）的血瓶**——**那三十五个人要求的是被记住；而这一封信要求的是不再发生**；**——所以这本书对"留下来的女人"给了两种任务：记住，与阻止。而凯蒂选择了后者。**
 
@@ -81,9 +81,9 @@ modified: "2026-09-28"
 
 **关键词**：one of the bravest things / Alice had done / was let go of / the safe, steady life / she’d always imagined / and embrace the one she hadn’t
 
-**为什么这样写**：**这是全书对"勇敢"最反常识的一次定义，而它用了一组对立的定语。**"one of the bravest things"（最勇敢的事之一）**——**而 one of（之一）立刻降低了语气：这不是最勇敢的，这是其中之一**；**——"the safe, steady life she’d always imagined"（那个她一直想象的、安稳平顺的人生）——**而 safe 与 steady 是两个重叠的褒义词，作者用它们来指"她本可以有的那个"**；**——"and embrace the one she hadn't"（拥抱那个她"没有"的）——**而 hadn't（没有的）里藏着一个 hadn't imagined（没想象过的）**；**——所以作者把"勇敢"从"面对危险"改写成了"接受自己没有想象过的东西"。**
+**为什么这样写**：**这是全书对"勇敢"最反常识的一次定义，而它用了一组对立的定语。**"one of the bravest things"（最勇敢的事之一）**——**而 one of（之一）立刻降低了语气：这不是最勇敢的，这是其中之一**；**——"the safe, steady life she’d always imagined"（那个她一直想象的、安稳平顺的人生）——**而 safe 与 steady 是两个重叠的褒义词，作者用它们来指"她本可以有的那个"**；**——"and embrace the one she hadn’t"（拥抱那个她"没有"的）——**而 hadn't（没有的）里藏着一个 hadn't imagined（没想象过的）**；**——所以作者把"勇敢"从"面对危险"改写成了"接受自己没有想象过的东西"。**
 
-**读者视角提示：⚠️** **"let go of the safe, steady life she'd always imagined"（放开那个她一直想象的安稳人生）与 ch42 那个装在血瓶里的字 "Remember us"（记住我们）**——**一个是放弃想要的东西，一个是把想要的东西刻下来**；**——而两者都由同一批人在同一片海上做出**；**——所以这本书对"活下去"的定义一直是：它需要你选一个不确定的版本。**
+**读者视角提示：⚠️** **"let go of the safe, steady life she’d always imagined"（放开那个她一直想象的安稳人生）与 ch42 那个装在血瓶里的字 "Remember us"（记住我们）**——**一个是放弃想要的东西，一个是把想要的东西刻下来**；**——而两者都由同一批人在同一片海上做出**；**——所以这本书对"活下去"的定义一直是：它需要你选一个不确定的版本。**
 
 > **原句 8:** "Torpedoed."
 
@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书最短的一个死因，而它是过去分词独立成段。**"Torpedoed."（鱼雷击中。）**——**而作者把这个词从整句里拆出来，让它单独占一段**；**——而这一段紧跟的那句说明是：the devastating word that sits at the heart of the tragedy（那个位于这场悲剧核心的毁灭性词汇）**；**——所以作者用一个词，完成了一整段的悼念**；**——而这个词出现在 ch58 之后：那一章我们知道彼得 1940 年 2 月 14 日出门，而这一章我们在读一封宣布他妻子死亡的公函。**
 
-**读者视角提示：⚠️** **"Torpedoed."（鱼雷击中。）与 ch42 那句 "I can't, so I won't. This isn't a goodbye letter. It's a love letter, to my sweetheart."**——**（那是他自己写的版本）**——**而这一章是"版本"：官方的那一版只有一个词**；**——所以这本书对"同一件事的两份记录"的处理是：一份有第五稿和"再养一条狗"，另一份只有一个分词。**
+**读者视角提示：⚠️** **"Torpedoed."（鱼雷击中。）与 ch42 那句 "I can’t, so I won’t. This isn’t a goodbye letter. It’s a love letter, to my sweetheart."**——**（那是他自己写的版本）**——**而这一章是"版本"：官方的那一版只有一个词**；**——所以这本书对"同一件事的两份记录"的处理是：一份有第五稿和"再养一条狗"，另一份只有一个分词。**
 
 > **原句 9:** "It is a reminder to live, in every sense of the word."
 

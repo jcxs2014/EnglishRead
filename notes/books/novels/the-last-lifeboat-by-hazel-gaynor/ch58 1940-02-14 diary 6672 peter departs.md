@@ -43,7 +43,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"承诺"最无辜的一次出现，而它来自孩子们。**"They promised"（他们答应）**——**而 promised 在英语里常常指一个不会被遵守的未来**；**——"to be very good for their mother"（为了妈妈会很乖）**——**而 for their mother（为了他们的母亲）这个介词短语很短，它是两个孩子而不是一个人**；**——所以作者用一句孩子的话，交代了两个孩子的立场，而没有写任何他们的父亲。**
 
-**读者视角提示：⚠️** **"They promised to be very good for their mother."（他们答应会为了妈妈很乖。）与 ch56 那句 "You're needed for photographs at the hotel… It'll all be a bit of a circus."（你得去酒店拍照……那简直是一场马戏。）**——**一个"承诺"在开头，一个"马戏"在结尾，中间隔着的正是这本书的全部**；**——所以这本书对"承诺"的处理是：它把承诺放在最前面，然后从不回头检查它是否被遵守。**
+**读者视角提示：⚠️** **"They promised to be very good for their mother."（他们答应会为了妈妈很乖。）与 ch56 那句 "You’re needed for photographs at the hotel… It’ll all be a bit of a circus."（你得去酒店拍照……那简直是一场马戏。）**——**一个"承诺"在开头，一个"马戏"在结尾，中间隔着的正是这本书的全部**；**——所以这本书对"承诺"的处理是：它把承诺放在最前面，然后从不回头检查它是否被遵守。**
 
 > **原句 4:** "Impossible to say goodbye to my darling Lil."
 

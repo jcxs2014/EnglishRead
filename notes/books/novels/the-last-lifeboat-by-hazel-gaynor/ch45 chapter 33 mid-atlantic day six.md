@@ -61,9 +61,9 @@ modified: "2026-09-28"
 
 **关键词**：I won’t leave you, Arthur / I promise / We’ve come this far together / and we’ll go home together / You’ve been ever so brave
 
-**为什么这样写**：**这是全书对"承诺"最温暖也最不牢靠的一次，而它有两个时态。**"I won't leave you"（我不会离开你）——**won't 是 will not 的缩写：它描述的是未来**；**"I promise."（我保证。）——**而这一句独立成句，长度只有两个词**；**"We've come this far together, and we'll go home together."（我们一起走到这里，也会一起回家。）——**而这一句是过去完成（have come）与将来（will go）的对称：coming 与 going，here 与 home**；**——而作者让这句话由一个刚刚在幻觉里伸手的人说出，而她说得很稳。**
+**为什么这样写**：**这是全书对"承诺"最温暖也最不牢靠的一次，而它有两个时态。**"I won’t leave you"（我不会离开你）——**won't 是 will not 的缩写：它描述的是未来**；**"I promise."（我保证。）——**而这一句独立成句，长度只有两个词**；**"We’ve come this far together, and we’ll go home together."（我们一起走到这里，也会一起回家。）——**而这一句是过去完成（have come）与将来（will go）的对称：coming 与 going，here 与 home**；**——而作者让这句话由一个刚刚在幻觉里伸手的人说出，而她说得很稳。**
 
-**读者视角提示：⚠️** **"I won't leave you, Arthur. I promise."（我不会离开你，亚瑟。我保证。）与 ch21 那位母亲说的 "My job is to be here when my children come home."（我的工作就是在这儿等我孩子回家。）是同一个母亲式的句子在两个场景的两次出现**——**一次在伦敦，一位母亲对邻居说；一次在大西洋，一位教师对一个差点撞上鲸鱼的孩子说**；**而这一次的对象是一个刚刚被她吓到的孩子。**
+**读者视角提示：⚠️** **"I won’t leave you, Arthur. I promise."（我不会离开你，亚瑟。我保证。）与 ch21 那位母亲说的 "My job is to be here when my children come home."（我的工作就是在这儿等我孩子回家。）是同一个母亲式的句子在两个场景的两次出现**——**一次在伦敦，一位母亲对邻居说；一次在大西洋，一位教师对一个差点撞上鲸鱼的孩子说**；**而这一次的对象是一个刚刚被她吓到的孩子。**
 
 > **原句 6:** "‘It’s a Hunter’s Moon. It’s so close you can touch it.’"
 
@@ -71,9 +71,9 @@ modified: "2026-09-28"
 
 **关键词**：It’s a Hunter’s Moon / It’s so close you can touch it
 
-**为什么这样写**：**这是全书对"父亲"最温柔的一次出场，而他出现在一段记忆里。**"It's a Hunter's Moon."（这是猎户月。）——**而 Hunter's Moon（猎户月）是九月满月的别名：这个名词本身就与狩猎季有关**；**"It's so close you can touch it."（它近得你伸手就能碰到。）——**而这一句在下一段里被一个孩子兑现了：她伸出双手，两边夹住月亮，像在捧着它**；**——而这一整段的结尾是：她第二天早上会分不清那是梦还是真的（she won't be sure if she'd dreamt it, or if it was real）。**
+**为什么这样写**：**这是全书对"父亲"最温柔的一次出场，而他出现在一段记忆里。**"It’s a Hunter’s Moon."（这是猎户月。）——**而 Hunter's Moon（猎户月）是九月满月的别名：这个名词本身就与狩猎季有关**；**"It’s so close you can touch it."（它近得你伸手就能碰到。）——**而这一句在下一段里被一个孩子兑现了：她伸出双手，两边夹住月亮，像在捧着它**；**——而这一整段的结尾是：她第二天早上会分不清那是梦还是真的（she won't be sure if she'd dreamt it, or if it was real）。**
 
-**读者视角提示：⚠️** **"It's so close you can touch it."（它近得你伸手就能碰到。）与本章开头她真的伸手摸到鲸的那一节是同一个动作的两次**——**一次在父亲的记忆里（摸月亮），一次在她自己的幻觉里（摸鲸）**；**而作者让读者在读第二遍时才发现：她摸到的到底哪个更真。**
+**读者视角提示：⚠️** **"It’s so close you can touch it."（它近得你伸手就能碰到。）与本章开头她真的伸手摸到鲸的那一节是同一个动作的两次**——**一次在父亲的记忆里（摸月亮），一次在她自己的幻觉里（摸鲸）**；**而作者让读者在读第二遍时才发现：她摸到的到底哪个更真。**
 
 > **原句 7:** "the haunting sound of whale song reaches out to her from the fathoms below."
 
@@ -93,7 +93,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"要求"最轻的一次表达，而它是一次重复。**"Smile, smile, smile."——**三个同样的词，只是逗号**；**——而作者把它放在一句歌词里（Someone sings 'Pack Up Your Troubles'），由 Owen 的口琴接住那段旋律**；**——所以这三个词同时是一句歌词、一个命令、和一个笑话。**
 
-**读者视角提示：⚠️** **"Smile, smile, smile."（微笑，微笑，微笑。）与 ch33 那句 "We may be losing our minds, but there's no need to damage morale as well."（我们也许正在失去理智，但没必要连士气也损伤。）是同一件事的两面**——**ch43 那位船员认为士气要保护，ch45 一条救生艇用三个"微笑"来维护它**；**而作者让这两句都出现在同一本书里，且中间只隔了两章。**
+**读者视角提示：⚠️** **"Smile, smile, smile."（微笑，微笑，微笑。）与 ch33 那句 "We may be losing our minds, but there’s no need to damage morale as well."（我们也许正在失去理智，但没必要连士气也损伤。）是同一件事的两面**——**ch43 那位船员认为士气要保护，ch45 一条救生艇用三个"微笑"来维护它**；**而作者让这两句都出现在同一本书里，且中间只隔了两章。**
 
 > **原句 9:** "Small scraps of food. Little routines. The only things they can rely on now."
 
@@ -101,7 +101,7 @@ modified: "2026-09-28"
 
 **关键词**：Small scraps of food / Little routines / The only things / they can rely on now
 
-**为什么这样写**：**这是全书对"希望"最可怜也最具体的定义，而它只有三句。**"Small scraps of food."（一点碎食物。）——**而 scraps（碎屑）在英语里指残渣，而作者用它指食物**；**"Little routines."（一些小习惯。）——**而这一句承接 ch37 那条 "If we stop hand washing and saying grace before we eat, it means we've given up."（如果我们不再洗手、不再祷告，那就说明我们放弃了。）**；**"The only things they can rely on now."（他们现在唯一能依靠的东西。）——**而 rely（依靠）这个动词把"碎屑与习惯"提升成了承重墙**。
+**为什么这样写**：**这是全书对"希望"最可怜也最具体的定义，而它只有三句。**"Small scraps of food."（一点碎食物。）——**而 scraps（碎屑）在英语里指残渣，而作者用它指食物**；**"Little routines."（一些小习惯。）——**而这一句承接 ch37 那条 "If we stop hand washing and saying grace before we eat, it means we’ve given up."（如果我们不再洗手、不再祷告，那就说明我们放弃了。）**；**"The only things they can rely on now."（他们现在唯一能依靠的东西。）——**而 rely（依靠）这个动词把"碎屑与习惯"提升成了承重墙**。
 
 **读者视角提示：⚠️** **"Small scraps of food. Little routines. The only things they can rely on now."（一点碎食物。一些小习惯。他们现在唯一能依靠的东西。）与 ch22 那位教师讲的 "the people on the boats are the lucky ones"（在船上的人是幸运的）**——**ch22 讲的是道理，ch45 讲的是清单**；**而作者让这份清单短到只有两项：碎屑与习惯。**
 

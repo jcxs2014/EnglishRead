@@ -33,7 +33,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"疲劳"最形象的一次比喻，而它用了一个物理工具。**"A fog of exhaustion"（一团疲惫的雾）——**请注意作者把 exhaustion（精疲力竭）这个抽象名词具象成了 fog（雾）**；**"sits across her forehead"（罩在她额头上）——**across（横过）这个介词说明它是横着压下来的，不是盖上去的**；**"like a vice"（像一把老虎钳）**——**vice（老虎钳）在英语里是夹紧的工具，作者用它说：疲劳正在把她的头夹住。**
 
-**读者视角提示：⚠️** **"like a vice"（像一把老虎钳）这个比喻是本书对"身体先于意志垮掉"最冷的一次描写**——**而它紧接在 ch32 那句 "She needs to do what she's good at: solve the problem."（她需要做她擅长的事：解出这个问题。）之后：靠意志的阶段结束了，现在夹住她的是老虎钳。**
+**读者视角提示：⚠️** **"like a vice"（像一把老虎钳）这个比喻是本书对"身体先于意志垮掉"最冷的一次描写**——**而它紧接在 ch32 那句 "She needs to do what she’s good at: solve the problem."（她需要做她擅长的事：解出这个问题。）之后：靠意志的阶段结束了，现在夹住她的是老虎钳。**
 
 > **原句 3:** "Even when Owen and others had taken their turn to watch the child, Alice couldn’t rest."
 
@@ -41,9 +41,9 @@ modified: "2026-09-28"
 
 **关键词**：Even when Owen and others / had taken their turn to watch the child / Alice couldn’t rest
 
-**为什么这样写**：**这是全书对"母性"最不浪漫的一次描写，而它用了一个过去完成时。**"Even when Owen and others had taken their turn"（即便 Owen 和他们已轮流照看过）——**had taken 是过去完成时：这个动作在她无法休息之前就发生过了**；**"Alice couldn't rest"（Alice 还是无法休息）**——**注意主语还是她：即使别人已经替她分担了那个"岗位"，她也没有交出去**。
+**为什么这样写**：**这是全书对"母性"最不浪漫的一次描写，而它用了一个过去完成时。**"Even when Owen and others had taken their turn"（即便 Owen 和他们已轮流照看过）——**had taken 是过去完成时：这个动作在她无法休息之前就发生过了**；**"Alice couldn’t rest"（Alice 还是无法休息）**——**注意主语还是她：即使别人已经替她分担了那个"岗位"，她也没有交出去**。
 
-**读者视角提示：⚠️** **"Even when Owen and others had taken their turn to watch the child, Alice couldn't rest."（即便 Owen 和其他人轮流照看那个孩子，Alice 还是无法休息。）与 ch21 那位母亲说的 "My job is to be here."（我的工作就是在这儿。）是同一句话的两种写法**——**ch21 那是在岸上对一个雇主说，本章是在海上对自己说**；**而区别在于：ch21 是她选择的岗位，本章是这个岗位已经变成了她放不下的东西。**
+**读者视角提示：⚠️** **"Even when Owen and others had taken their turn to watch the child, Alice couldn’t rest."（即便 Owen 和其他人轮流照看那个孩子，Alice 还是无法休息。）与 ch21 那位母亲说的 "My job is to be here."（我的工作就是在这儿。）是同一句话的两种写法**——**ch21 那是在岸上对一个雇主说，本章是在海上对自己说**；**而区别在于：ch21 是她选择的岗位，本章是这个岗位已经变成了她放不下的东西。**
 
 > **原句 4:** "She doesn’t recognize the way her body looks, or feels, or smells."
 
@@ -51,7 +51,7 @@ modified: "2026-09-28"
 
 **关键词**：doesn’t recognize / the way her body looks, or feels, or smells
 
-**为什么这样写**：**这是全书对"自我陌生"最简洁的一次描写，而它用了三个感官。**"doesn't recognize"（认不出）——**在英语里 recognize 的宾语是人或物，而"认出自己的身体"是一件通常不必做的事**；**"looks, or feels, or smells"（看起来、感觉起来、闻起来）**——**三个 or 排比：视觉、触觉、嗅觉，一个比一个更不体面**；**——而这三个动词的主语都是 her body，而"认出"它的主语是她自己。**
+**为什么这样写**：**这是全书对"自我陌生"最简洁的一次描写，而它用了三个感官。**"doesn’t recognize"（认不出）——**在英语里 recognize 的宾语是人或物，而"认出自己的身体"是一件通常不必做的事**；**"looks, or feels, or smells"（看起来、感觉起来、闻起来）**——**三个 or 排比：视觉、触觉、嗅觉，一个比一个更不体面**；**——而这三个动词的主语都是 her body，而"认出"它的主语是她自己。**
 
 **读者视角提示：⚠️** **"the way her body looks, or feels, or smells"（她的身体看起来、感觉起来、闻起来的样子）是本书对"母亲的身体"最彻底的一次去神圣化**——**对照 ch12 那位在废墟里给婴儿喂奶的女人、ch33 那位在厨房里摸饼干铁盒的莉莉：本书写女性的身体，从来不是美的，是在做事的**。
 
@@ -103,7 +103,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全书对"时间"最单调的一次描写，而它用了一个副词。**"Every hour"（每一小时）——**这个时间单位在全书里是罕见的：ch22 精确到分（two minutes after ten），ch32 用"三天"；而这里用的是最没有戏剧性的一格**；**"seems to deteriorate"（似乎在恶化）——**请注意 seems（似乎）：这不是陈述，是叙述者从外部看出的趋势**；**——而 deteriorate（恶化）在英语里是不及物的：它不说明什么在恶化，只说明在变坏。**
 
-**读者视角提示：⚠️** **"Every hour, their situation seems to deteriorate."（每一小时，他们的情况似乎都在恶化。）是本书对"倒计时"最不像倒计时的写法**——**而它紧接在 ch32 那句 "A third of a canister of water – a whole day's rations – lost to the ocean."（三分之一罐水——整整一天的配给——丢给了大海。）之后**；**所以这个"每一小时"就是那三分之一罐水：没有人在数，但每个人都在算。**
+**读者视角提示：⚠️** **"Every hour, their situation seems to deteriorate."（每一小时，他们的情况似乎都在恶化。）是本书对"倒计时"最不像倒计时的写法**——**而它紧接在 ch32 那句 "A third of a canister of water – a whole day’s rations – lost to the ocean."（三分之一罐水——整整一天的配给——丢给了大海。）之后**；**所以这个"每一小时"就是那三分之一罐水：没有人在数，但每个人都在算。**
 
 > **原句 10:** "Sometimes she thinks she’s going mad, hearing voices from her past, seeing things that aren’t there."
 
@@ -111,9 +111,9 @@ modified: "2026-09-28"
 
 **关键词**：Sometimes she thinks she’s going mad / hearing voices from her past / seeing things that aren’t there
 
-**为什么这样写**：**这是全书对"幻觉"最克制的一次描写，而作者把它写成一个正在进行时。**"Sometimes she thinks she’s going mad"（有时候她觉得自己要疯了）——**注意 she thinks：这是她的判断，不是叙述者的结论**；**"hearing voices from her past"（听见来自过去的声音）——**her past（她的过去）这个所有格很关键：那些声音不是外来的，是她自己的**；**"seeing things that aren't there"（看见并不存在的东西）——**而这一句紧接的下文，是她真的看见了水里有一个东西。**
+**为什么这样写**：**这是全书对"幻觉"最克制的一次描写，而作者把它写成一个正在进行时。**"Sometimes she thinks she’s going mad"（有时候她觉得自己要疯了）——**注意 she thinks：这是她的判断，不是叙述者的结论**；**"hearing voices from her past"（听见来自过去的声音）——**her past（她的过去）这个所有格很关键：那些声音不是外来的，是她自己的**；**"seeing things that aren’t there"（看见并不存在的东西）——**而这一句紧接的下文，是她真的看见了水里有一个东西。**
 
-**读者视角提示：⚠️** **"hearing voices from her past, seeing things that aren't there"（听见来自过去的声音，看见并不存在的东西）里"不存在的东西"三个字，构成了本章后半段的悬念**——**因为紧接着的 a dark shape in the water, just off the bow（船头外侧水面上一团黑影）先被她当成幻觉，然后被 a plume of spray（一道水柱）证实**；**所以作者先给读者一个"她的眼睛不可信"的前提，再给一个"她的眼睛这次是对的"**——**而这条结构正是全书对"信谁"的处理：先拆掉权威（教师的眼睛），再重新给一次权威（鲸）。**
+**读者视角提示：⚠️** **"hearing voices from her past, seeing things that aren’t there"（听见来自过去的声音，看见并不存在的东西）里"不存在的东西"三个字，构成了本章后半段的悬念**——**因为紧接着的 a dark shape in the water, just off the bow（船头外侧水面上一团黑影）先被她当成幻觉，然后被 a plume of spray（一道水柱）证实**；**所以作者先给读者一个"她的眼睛不可信"的前提，再给一个"她的眼睛这次是对的"**——**而这条结构正是全书对"信谁"的处理：先拆掉权威（教师的眼睛），再重新给一次权威（鲸）。**
 
 > **原句 11:** "‘A whale!’"
 
@@ -131,9 +131,9 @@ modified: "2026-09-28"
 
 **关键词**：so shocking, so immense, so close / but she doesn’t feel / the slightest bit afraid
 
-**为什么这样写**：**这是全书对"恐惧与敬畏"分界线最精确的一次描写，而它用了一个转折。**"so shocking, so immense, so close"（如此震撼、如此巨大、如此靠近）——**三个 so 排比，一句比一句更近**；**"but she doesn't feel the slightest bit afraid"（可她一点也不觉得害怕）**——**注意 the slightest bit（一点也不）：作者用最低级加名词化，把"不怕"写成了一个可测量的量**；**——而这一切发生在昨天她刚因为一个水罐差点淹死的船上。**
+**为什么这样写**：**这是全书对"恐惧与敬畏"分界线最精确的一次描写，而它用了一个转折。**"so shocking, so immense, so close"（如此震撼、如此巨大、如此靠近）——**三个 so 排比，一句比一句更近**；**"but she doesn’t feel the slightest bit afraid"（可她一点也不觉得害怕）**——**注意 the slightest bit（一点也不）：作者用最低级加名词化，把"不怕"写成了一个可测量的量**；**——而这一切发生在昨天她刚因为一个水罐差点淹死的船上。**
 
-**读者视角提示：⚠️** **"so shocking, so immense, so close to the lifeboat, but she doesn't feel the slightest bit afraid"（如此震撼、如此巨大、如此靠近救生艇，可她却一点也不害怕）是本书对"敬畏"最完整的一次定义**——**它不是"不怕"，是"怕的量被另一样东西压过了"**；**而 ch32 那句 "they're all going to die anyway"（反正我们都要死了）——那才是真正的绝望：**当一个人已经接受了死亡，巨鲸就只会显得美。
+**读者视角提示：⚠️** **"so shocking, so immense, so close to the lifeboat, but she doesn’t feel the slightest bit afraid"（如此震撼、如此巨大、如此靠近救生艇，可她却一点也不害怕）是本书对"敬畏"最完整的一次定义**——**它不是"不怕"，是"怕的量被另一样东西压过了"**；**而 ch32 那句 "they’re all going to die anyway"（反正我们都要死了）——那才是真正的绝望：**当一个人已经接受了死亡，巨鲸就只会显得美。
 
 > **原句 13:** "the enormous creatures swim parallel to the lifeboat and then dive, their tail flukes spreading like great black wings across the water."
 
@@ -173,7 +173,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是 Alice 在全书中第一次对 Owen 提出的关于"你怎么活着"的问题，而它是一句反问加一个选择。**"Do you ever just see the beauty in things"（你有没有只是看看一样东西的美）——**just（只是）在英语里削掉了一切修辞**；**"or does everything have to boil down to a clever remark?"（还是说所有事情都得归结成一句俏皮话？）**——**boil down（煮到……变成）在英语里是"归纳成"**；**——而这一句紧跟在 ch31 那句 "Stop being so prissy and perfect."（别那么一本正经、那么完美。）之后：上一章她拒绝被劝，这一章她反过来质疑他。**
 
-**读者视角提示：⚠️** **"does everything have to boil down to a clever remark?"（所有事情都得归结成一句俏皮话？）是本书对"用机智逃避"最直白的一次指控**——**而它紧接在 ch32 那句 "There's no room for airs and graces here."（这里没有摆架子的余地。）之后**；**但这一次她不是在船上讲道理，她是在一头鲸面前讲道理——所以这一句的真正对象不是 Owen，是他自己那套"英雄是虚构的"的说法。**
+**读者视角提示：⚠️** **"does everything have to boil down to a clever remark?"（所有事情都得归结成一句俏皮话？）是本书对"用机智逃避"最直白的一次指控**——**而它紧接在 ch32 那句 "There’s no room for airs and graces here."（这里没有摆架子的余地。）之后**；**但这一次她不是在船上讲道理，她是在一头鲸面前讲道理——所以这一句的真正对象不是 Owen，是他自己那套"英雄是虚构的"的说法。**
 
 > **原句 17:** "Alice waits for a reply, but, infuriatingly, none comes."
 
@@ -181,7 +181,7 @@ modified: "2026-09-28"
 
 **关键词**：Alice waits for a reply / but, infuriatingly / none comes
 
-**为什么这样写**：**这是全书对"对话失败"最干脆的一次处理，而它只有一个副词。**"Alice waits for a reply"（Alice 等一个回答）——**waits（等）在英语里是主动的：她在等他**；**"but, infuriatingly, none comes"（可气人的是，没有来）**——**infuriatingly（气死人地）是本章对 Owen 唯一一次带情绪的形容，而 none comes 三个词里没有任何主语：不是"他没回答"，是"没有回答"这件事没有发生**；**——而这与 ch31 那句 "Infuriatingly, Owen doesn't say anything in reply."（气人的是，Owen 没有回答。）是同一个作者手法：让他用沉默赢得这一段。**
+**为什么这样写**：**这是全书对"对话失败"最干脆的一次处理，而它只有一个副词。**"Alice waits for a reply"（Alice 等一个回答）——**waits（等）在英语里是主动的：她在等他**；**"but, infuriatingly, none comes"（可气人的是，没有来）**——**infuriatingly（气死人地）是本章对 Owen 唯一一次带情绪的形容，而 none comes 三个词里没有任何主语：不是"他没回答"，是"没有回答"这件事没有发生**；**——而这与 ch31 那句 "Infuriatingly, Owen doesn’t say anything in reply."（气人的是，Owen 没有回答。）是同一个作者手法：让他用沉默赢得这一段。**
 
 **读者视角提示：⚠️** **"Alice waits for a reply, but, infuriatingly, none comes."（Alice 等着回答，可气人的是，没有回答。）是 ch31 与 ch35 结尾的同一个句式**——**而作者用两次"他不回答"把她和 Owen 之间的张力保持在原位：她每次要一句真话，他每次给不出**；**所以本章的真正结尾不是那头鲸，而是两个人之间那段没被填上的空白。**
 

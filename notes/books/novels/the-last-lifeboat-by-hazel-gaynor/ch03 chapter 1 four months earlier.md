@@ -43,7 +43,7 @@ modified: "2026-09-28"
 
 **为什么这样写**：**这是全章最深的一句，也是全书对"改变"最冷静的定义。**注意 "wasn’t even sure she’d recognize her"（都不确定认不认得出）——**她把自己写成了一个陌生人**。而这句话的结构是"否定—让步—承认"：先 "It hadn’t always been that way"（从前不是），再 "but"（但是），最后 "rarely thought about"（很少想）。**全句没有一个形容词是骂自己的，骂她的是那个虚拟的"如果见到她"的假设。**破折号后面的补充（– and wasn’t even sure…）像一句忍不住加上的话：**这才是她真正害怕的东西——不是危险，是认不出从前那个自己。**
 
-**读者视角提示**：**这是 Kitty 那句 "you're afraid"（你在害怕）的内容物**——Kitty 说的每一句责难（narrow / odd / dull）都在这句里被 Alice 自己确认。**请记住这个"认不出自己"的恐惧：它就是 ch02 里她抱紧桅杆时的心理状态。**
+**读者视角提示**：**这是 Kitty 那句 "you’re afraid"（你在害怕）的内容物**——Kitty 说的每一句责难（narrow / odd / dull）都在这句里被 Alice 自己确认。**请记住这个"认不出自己"的恐惧：它就是 ch02 里她抱紧桅杆时的心理状态。**
 
 > **原句 4:** "Now, eight months on, and with the threat of Nazi invasion drawing ever closer, war had crept into every corner of life until Ministry leaflets were ten a penny, and the once unimaginable had somehow become the inevitable."
 

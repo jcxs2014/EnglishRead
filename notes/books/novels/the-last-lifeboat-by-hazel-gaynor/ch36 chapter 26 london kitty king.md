@@ -61,7 +61,7 @@ modified: "2026-09-28"
 
 **关键词**：I’m not a reporter / I work for the Children’s Overseas Reception Board / We met yesterday, at the offices
 
-**为什么这样写**：**这是全书对"自我介绍"最像审问的一次，而它由一句排除句开头。**"I'm not a reporter"（我不是记者）——**而 Lily 上一句刚说的正是 "I'm not speaking to reporters."（我不跟记者说话。）——所以这两个人在用同一句话互相排除**；**"I work for…"（我在……工作）**——**这一句是身份，一个机构名**；**"We met yesterday, at the offices."（我们昨天在办公室见过。）——**而这一句的杀伤力在于：昨天她正是在那个办公室，被这个人劝回家（Go home, Mrs Nicholls.）。**
+**为什么这样写**：**这是全书对"自我介绍"最像审问的一次，而它由一句排除句开头。**"I’m not a reporter"（我不是记者）——**而 Lily 上一句刚说的正是 "I’m not speaking to reporters."（我不跟记者说话。）——所以这两个人在用同一句话互相排除**；**"I work for…"（我在……工作）**——**这一句是身份，一个机构名**；**"We met yesterday, at the offices."（我们昨天在办公室见过。）——**而这一句的杀伤力在于：昨天她正是在那个办公室，被这个人劝回家（Go home, Mrs Nicholls.）。**
 
 **读者视角提示：⚠️** **"We met yesterday, at the offices."（我们昨天在办公室见过。）是 ch33 与 ch36 之间唯一的一座桥**——**而作者让读者（比莉莉更早）知道这个人是谁：她就是 ch33 里那个说"我们还在努力弄清究竟发生了什么"（We are still trying to understand exactly what happened）的女人**；**所以 ch33 那位"连该怪谁都不知道的母亲"的形象，在本章被推翻了——她不是母亲，她带文件。**
 
@@ -81,7 +81,7 @@ modified: "2026-09-28"
 
 **关键词**：They’ve found him, haven’t they? / They’ve found Arthur!
 
-**为什么这样写**：**这是全书对"希望"最不加修饰的一次喊，而它是两个疑问句。**"They've found him, haven't they?"（他们找到他了，不是吗？）——**请注意反义疑问句 haven't they?：她在向一个刚进门的陌生人求证**；**"They've found Arthur!"（他们找到亚瑟了！）**——**第二句用陈述句+感叹号：她已经自己回答了**；**——所以这两句的结构是"我不敢信 → 我已经信了"，而中间只隔了半秒。**
+**为什么这样写**：**这是全书对"希望"最不加修饰的一次喊，而它是两个疑问句。**"They’ve found him, haven’t they?"（他们找到他了，不是吗？）——**请注意反义疑问句 haven't they?：她在向一个刚进门的陌生人求证**；**"They’ve found Arthur!"（他们找到亚瑟了！）**——**第二句用陈述句+感叹号：她已经自己回答了**；**——所以这两句的结构是"我不敢信 → 我已经信了"，而中间只隔了半秒。**
 
 **读者视角提示：⚠️** **"'They've found him, haven't they?'（他们找到他了，不是吗？）与五秒后 Kitty 看向地面摇头，是全书最锋利的一次节奏落差**——**而作者让读者在下一段才知道答案不是"是"**；**对照 ch30 那位母亲收到的信（你的儿子……没有出现在获救名单上），她当时的反应是三个问句（What if? What if? What if?）——而本章她连问都没问完。**
 
@@ -91,9 +91,9 @@ modified: "2026-09-28"
 
 **关键词**：Alice wasn’t listed / among the survivors
 
-**为什么这样写**：**这是全书最短的一次死亡宣告，而它是一个双重被动。**"Alice wasn't listed"（爱丽丝没有被列入）——**注意 listed 是"被列入"：她不是没活下来，是没被写进那张纸**；**"among the survivors"（在幸存者之中）——**among 在英语里表示"在……之中"，而它的反面不是 among the dead，是 nowhere（哪儿都不是）**。
+**为什么这样写**：**这是全书最短的一次死亡宣告，而它是一个双重被动。**"Alice wasn’t listed"（爱丽丝没有被列入）——**注意 listed 是"被列入"：她不是没活下来，是没被写进那张纸**；**"among the survivors"（在幸存者之中）——**among 在英语里表示"在……之中"，而它的反面不是 among the dead，是 nowhere（哪儿都不是）**。
 
-**读者视角提示：⚠️** **"'Alice wasn't listed among the survivors.'（爱丽丝不在幸存者名单上。）是全书对 ch02 那句 "You can't save the dead, miss, but you can save yourself."（您救不了死人，小姐，但您能救自己。）的官方版本**——**ch23 那句话是一位船员在夜里说的，本句是一张名单在事后说的**；**而 ch36 接下来的半句（她也不在那些他们……打捞上来的名字里）才补全了它。**
+**读者视角提示：⚠️** **"'Alice wasn't listed among the survivors.'（爱丽丝不在幸存者名单上。）是全书对 ch02 那句 "You can’t save the dead, miss, but you can save yourself."（您救不了死人，小姐，但您能救自己。）的官方版本**——**ch23 那句话是一位船员在夜里说的，本句是一张名单在事后说的**；**而 ch36 接下来的半句（她也不在那些他们……打捞上来的名字里）才补全了它。**
 
 > **原句 9:** "And she wasn’t among the names of those they … recovered.’"
 
@@ -101,7 +101,7 @@ modified: "2026-09-28"
 
 **关键词**：wasn’t among the names / of those they … recovered
 
-**为什么这样写**：**这是全书最重的一次省略号，而它盖住的是"尸体"这个词。**"wasn't among the names of those they … recovered"（不在那些他们……打捞上来的名字里）——**recovered 在英语里是"找回"，可以是活人也可以是遗体，而作者用省略号让读者自己填**；**而 those（那些）这个复数代词指的是人**；**——所以这一句的技术含义是：她的身体也没找到。**
+**为什么这样写**：**这是全书最重的一次省略号，而它盖住的是"尸体"这个词。**"wasn’t among the names of those they … recovered"（不在那些他们……打捞上来的名字里）——**recovered 在英语里是"找回"，可以是活人也可以是遗体，而作者用省略号让读者自己填**；**而 those（那些）这个复数代词指的是人**；**——所以这一句的技术含义是：她的身体也没找到。**
 
 **读者视角提示：⚠️** **"those they … recovered"（那些他们……打捞上来的）里的省略号是全书对 ch32 那只沉掉的水罐、ch33 那栋关着门的空楼同构的一个动作**——**作者在本章还有一句更冷的对照：Two hundred and fifty souls were lost. Only fifty bodies were recovered.」（二百五十条性命丧生。只打捞到五十具遗体。）**；**而同一份报告里，作者让那位打印机 Kit（ch43 的 #6672）用另一种句式写过同一件事——两位记录者，两种文法，同一份灾难。**
 
@@ -111,9 +111,9 @@ modified: "2026-09-28"
 
 **关键词**：I keep talking about her, telling people / but I can’t believe it’s real / I don’t want it to be real
 
-**为什么这样写**：**这是全书对"通知亲友"最私人的一次描写，而它的两个句子是互相拆台的。**"I keep talking about her, telling people"（我一直在说她，告诉别人）——**keep 的现在分词：她停不下来**；**"but I can't believe it's real"（可我不信这是真的）——**注意这个 but：说话的内容（说）与相信的内容（不信）分裂了**；**"I don't want it to be real."（我不想它是真的。）——**而这一句的时态是现在时：不是"我不愿意它变成真的"，是"我不想它现在是真的"。**
+**为什么这样写**：**这是全书对"通知亲友"最私人的一次描写，而它的两个句子是互相拆台的。**"I keep talking about her, telling people"（我一直在说她，告诉别人）——**keep 的现在分词：她停不下来**；**"but I can’t believe it’s real"（可我不信这是真的）——**注意这个 but：说话的内容（说）与相信的内容（不信）分裂了**；**"I don’t want it to be real."（我不想它是真的。）——**而这一句的时态是现在时：不是"我不愿意它变成真的"，是"我不想它现在是真的"。**
 
-**读者视角提示：⚠️** **"I keep talking about her, telling people, but I can't believe it’s real. I don’t want it to be real."（我一直在说她，告诉别人，可我不信这是真的。我不想它是真的。）是本书对"报丧"这件事唯一一次从报丧人角度写的内心**——**而 ch14 那位 diarist 说过同样结构的另一面：Writing this down is how I make it real.（把它写下来，是我让它成真的方式。）**；**一位在写，一位在说，而两人的作用一样：把"发生了"变成一件可以被重复的事。**
+**读者视角提示：⚠️** **"I keep talking about her, telling people, but I can’t believe it’s real. I don’t want it to be real."（我一直在说她，告诉别人，可我不信这是真的。我不想它是真的。）是本书对"报丧"这件事唯一一次从报丧人角度写的内心**——**而 ch14 那位 diarist 说过同样结构的另一面：Writing this down is how I make it real.（把它写下来，是我让它成真的方式。）**；**一位在写，一位在说，而两人的作用一样：把"发生了"变成一件可以被重复的事。**
 
 > **原句 11:** "‘Incendiary?’"
 
@@ -151,9 +151,9 @@ modified: "2026-09-28"
 
 **关键词**：The naval escort / for SS Carlisle’s convoy dispersed early / at longitude 17 degrees west / the range at which it is widely believed U-boats don’t operate / Also known as the limit of convoy / all outbound convoys proceed unescorted
 
-**为什么这样写**：**这是全书对"制度"最冷的一次技术说明，而它是全书最长的一个引语。**"The naval escort … dispersed early"（海军护航提前解散）——**dispersed（解散、散开）在英语里是军事术语：不是撤走，是散开**；**"at longitude 17 degrees west, around five hundred miles out"（西经 17 度，外海约五百英里）**——**两个数字，一个是经度、一个是距离**；**"the range at which it is widely believed U-boats don't operate"（那个被普遍认为 U 型潜艇不会活动的范围）——**注意 it is widely believed（被普遍认为）：这是一个关于信念的句子，不是关于事实的**；**"Also known as the limit of convoy."（也就是所谓的"护航终点"。）——**而这一句是 ch30 莉莉在厨房里翻遍文件都找不到的那一个词**；**"From that point on, all outbound convoys proceed unescorted."（从那一点起，所有出港船队都无护航地继续走。）——**这一句与 ch30 Elsie 说的 "they proceed unescorted" 完全一致，只是主语从"他们"变成了"所有出港船队"。**
+**为什么这样写**：**这是全书对"制度"最冷的一次技术说明，而它是全书最长的一个引语。**"The naval escort … dispersed early"（海军护航提前解散）——**dispersed（解散、散开）在英语里是军事术语：不是撤走，是散开**；**"at longitude 17 degrees west, around five hundred miles out"（西经 17 度，外海约五百英里）**——**两个数字，一个是经度、一个是距离**；**"the range at which it is widely believed U-boats don’t operate"（那个被普遍认为 U 型潜艇不会活动的范围）——**注意 it is widely believed（被普遍认为）：这是一个关于信念的句子，不是关于事实的**；**"Also known as the limit of convoy."（也就是所谓的"护航终点"。）——**而这一句是 ch30 莉莉在厨房里翻遍文件都找不到的那一个词**；**"From that point on, all outbound convoys proceed unescorted."（从那一点起，所有出港船队都无护航地继续走。）——**这一句与 ch30 Elsie 说的 "they proceed unescorted" 完全一致，只是主语从"他们"变成了"所有出港船队"。**
 
-**读者视角提示：⚠️** **这一整段是 ch30–ch33 那场追查的全部答案，而它由一个昨天还在劝她回家的人给出**——**ch30 她问 "you're saying, they proceed unescorted?"（你是说，他们无护航地继续走？）得到 "Yes, they proceed unescorted."（是的，他们无护航地继续走。）与 "They proceed unprotected."（他们无保护地继续走。）**；**ch33 她把这三个词写进问题里上门（I know about the limit of convoy escort.）**；**ch36 有人用西经 17 度回答了她。**
+**读者视角提示：⚠️** **这一整段是 ch30–ch33 那场追查的全部答案，而它由一个昨天还在劝她回家的人给出**——**ch30 她问 "you’re saying, they proceed unescorted?"（你是说，他们无护航地继续走？）得到 "Yes, they proceed unescorted."（是的，他们无护航地继续走。）与 "They proceed unprotected."（他们无保护地继续走。）**；**ch33 她把这三个词写进问题里上门（I know about the limit of convoy escort.）**；**ch36 有人用西经 17 度回答了她。**
 
 > **原句 15:** "‘You were right. The escort ships weren’t present when the U-boat fired the torpedo.’"
 
@@ -161,7 +161,7 @@ modified: "2026-09-28"
 
 **关键词**：You were right / The escort ships weren’t present / when the U-boat fired the torpedo
 
-**为什么这样写**：**这是全书对"你是对的"最沉的一次使用，而它只有三个词。**"You were right."（你是对的。）——**were 是过去时：这个"对"已经生效了，而她还不知道自己接下来要付出什么**；**"The escort ships weren't present"（护航舰不在场）**——**注意这个否定：wasn't present（不在场）而不是 had left（已经离开）——法律文件会说"不在场"，而这句话用的是同一个词**；**"when the U-boat fired the torpedo"（当 U 型潜艇发射鱼雷时）——**而这一句把责任完全推给了 U 型潜艇，不提护航舰为什么不在。**
+**为什么这样写**：**这是全书对"你是对的"最沉的一次使用，而它只有三个词。**"You were right."（你是对的。）——**were 是过去时：这个"对"已经生效了，而她还不知道自己接下来要付出什么**；**"The escort ships weren’t present"（护航舰不在场）**——**注意这个否定：wasn't present（不在场）而不是 had left（已经离开）——法律文件会说"不在场"，而这句话用的是同一个词**；**"when the U-boat fired the torpedo"（当 U 型潜艇发射鱼雷时）——**而这一句把责任完全推给了 U 型潜艇，不提护航舰为什么不在。**
 
 **读者视角提示：⚠️** **"You were right."（你是对的。）与 ch33 那句 "someone has to be held accountable"（总得有人被追究）构成一组**——**ch33 她说这话时是对着关着的门说的，本章 Kitty 把这三周前她推翻的那个判断，重新还给了她**；**而作者没有让莉莉胜利：她刚证明自己是对的，就同时知道了自己儿子的船上没有护航。**
 
@@ -181,7 +181,7 @@ modified: "2026-09-28"
 
 **关键词**：I wouldn’t have sent them if I’d known / I thought they were being escorted / all the way to Canada / Protected until they arrived
 
-**为什么这样写**：**这是全书对"父母的清白"最急切的一次申辩，而它用了一个虚拟语气。**"I wouldn't have sent them if I'd known"（要知道的话我就不会送他们）——**这是一个与过去事实相反的虚拟句：她说的是"如果当时知道"，而这个"如果"永远不能实现**；**"I thought they were being escorted all the way to Canada"（我以为他们会一路被护送到加拿大）——**注意 all the way（一路）：这个词在 ch06 那位 MP 承诺"护送到目的地"时也出现过**；**——所以这一整段话，其实是在引用 CORB 那天在教室里说过的话。**
+**为什么这样写**：**这是全书对"父母的清白"最急切的一次申辩，而它用了一个虚拟语气。**"I wouldn’t have sent them if I’d known"（要知道的话我就不会送他们）——**这是一个与过去事实相反的虚拟句：她说的是"如果当时知道"，而这个"如果"永远不能实现**；**"I thought they were being escorted all the way to Canada"（我以为他们会一路被护送到加拿大）——**注意 all the way（一路）：这个词在 ch06 那位 MP 承诺"护送到目的地"时也出现过**；**——所以这一整段话，其实是在引用 CORB 那天在教室里说过的话。**
 
 **读者视角提示：⚠️** **"'I wouldn't have sent them if I'd known!'（要知道的话我就不会送他们！）是 ch06 那个广播时刻的回声**——**那天是"疏散的决定由正在收听的父母做"（The decision to evacuate is one for which any parents listening must take sole responsibility.），本句是那位"负责任"的人自己承担了这份责任**；**所以这本书对"父母的决定权"给了它真正的重量：决定是你做的，可你做决定时所依据的那份说明，是别人给你的一句话。**
 
@@ -201,7 +201,7 @@ modified: "2026-09-28"
 
 **关键词**：There isn’t any logic in grief / is there
 
-**为什么这样写**：**这是全书对"逻辑"最绝望的一次否定，而它是一个反问句。**"There isn't any logic in grief"（悲伤里没有逻辑）——**否定的是逻辑在悲伤中的适用性，不是悲伤本身**；**"is there?"（对吧？）——**这个反问句在英语里通常表示说话人希望对方同意**；**——而 Kitty 刚刚用最精确的语言说完了护航解散的经度、搜救网格的走法、十二小时的延迟**；**所以这句话是她对自己刚刚那整套精确的否定。**
+**为什么这样写**：**这是全书对"逻辑"最绝望的一次否定，而它是一个反问句。**"There isn’t any logic in grief"（悲伤里没有逻辑）——**否定的是逻辑在悲伤中的适用性，不是悲伤本身**；**"is there?"（对吧？）——**这个反问句在英语里通常表示说话人希望对方同意**；**——而 Kitty 刚刚用最精确的语言说完了护航解散的经度、搜救网格的走法、十二小时的延迟**；**所以这句话是她对自己刚刚那整套精确的否定。**
 
 **读者视角提示：⚠️** **"'There isn't any logic in grief, is there?'（悲伤里没有什么逻辑，对吧？）与 ch29 那位 diarist 说的 "I want to remember everything."（我想记住一切。）是同一件事的两端**——**一位要记住全部，一位说记住也没用**；**而 Kitty 的这句话其实是在解释她为什么会上门：I came here purely on instinct. There isn't any logic in grief, is there?（我来这里纯粹出于本能。悲伤里没有逻辑，对吧？）**
 
@@ -241,9 +241,9 @@ modified: "2026-09-28"
 
 **关键词**：Saturday / an official announcement in the newspapers tomorrow / when they’re sure all the parents have been contacted
 
-**为什么这样写**：**这是全书对"官僚程序"最完整的一次说明，而它包含四个步骤。**"Saturday."（星期六。）——**一个词，独立成句：它回答的是"今天星期几"，而回答者特意用了最小单位**；**"in the newspapers tomorrow"（明天报纸上）——**这一句在英语里需要"他们刊登"这个主动过程，而原文用一个 in the newspapers 把它藏起来了**；**"when they're sure all the parents have been contacted"（等他们确认已联系上所有父母）——**而 this is exactly what ch33 那位 CORB 女人说过的话**；**——所以这一句是一次回收：上一章她听的是"等所有父母都接到通知"，这一章她听到的是这句话的日期。**
+**为什么这样写**：**这是全书对"官僚程序"最完整的一次说明，而它包含四个步骤。**"Saturday."（星期六。）——**一个词，独立成句：它回答的是"今天星期几"，而回答者特意用了最小单位**；**"in the newspapers tomorrow"（明天报纸上）——**这一句在英语里需要"他们刊登"这个主动过程，而原文用一个 in the newspapers 把它藏起来了**；**"when they’re sure all the parents have been contacted"（等他们确认已联系上所有父母）——**而 this is exactly what ch33 那位 CORB 女人说过的话**；**——所以这一句是一次回收：上一章她听的是"等所有父母都接到通知"，这一章她听到的是这句话的日期。**
 
-**读者视角提示：⚠️** **"when they're sure all the parents have been contacted"（等他们确认已联系上所有父母）是 ch33 那句 "When all the parents have been informed."（等所有父母都接到通知。）的完成版**——**ch33 是"等通知完"，ch36 是"等到星期六才登报"**；**而那个时间差的代价，在 ch57 的一句数字里见分晓。**
+**读者视角提示：⚠️** **"when they’re sure all the parents have been contacted"（等他们确认已联系上所有父母）是 ch33 那句 "When all the parents have been informed."（等所有父母都接到通知。）的完成版**——**ch33 是"等通知完"，ch36 是"等到星期六才登报"**；**而那个时间差的代价，在 ch57 的一句数字里见分晓。**
 
 > **原句 24:** "They traverse back and forth over a set distance – a mile say – and then move onto the next one-mile square in the grid, and so on, sweeping the surface of the ocean.’"
 
@@ -271,7 +271,7 @@ modified: "2026-09-28"
 
 **关键词**：I still don’t understand / why they’ve already given up looking / Why not search in a new grid? / And I know Arthur is alive / I can feel it
 
-**为什么这样写**：**这是全书对"信念"最直白的一次表达，而它用了一个没有证据的动词。**"I still don't understand"（我还不明白）——**still 强调这是她讲完答案之后依然不服的地方**；**"Why not search in a new grid?"（为什么不换个网格？）——**这是一个技术性的提问，而莉莉问得很内行：她已经听懂了 Kitty 的全部说明**；**"And I know Arthur is alive. I can feel it."（而且我知道亚瑟还活着。我感觉得到。）——**而 can feel it（我感觉得到）没有主语、没有对象、没有证据：这是全书最直白的"非理性"，而它出现在刚刚听完一整段精确搜救理论之后。**
+**为什么这样写**：**这是全书对"信念"最直白的一次表达，而它用了一个没有证据的动词。**"I still don’t understand"（我还不明白）——**still 强调这是她讲完答案之后依然不服的地方**；**"Why not search in a new grid?"（为什么不换个网格？）——**这是一个技术性的提问，而莉莉问得很内行：她已经听懂了 Kitty 的全部说明**；**"And I know Arthur is alive. I can feel it."（而且我知道亚瑟还活着。我感觉得到。）——**而 can feel it（我感觉得到）没有主语、没有对象、没有证据：这是全书最直白的"非理性"，而它出现在刚刚听完一整段精确搜救理论之后。**
 
 **读者视角提示：⚠️** **"I know Arthur is alive. I can feel it."（我知道亚瑟还活着。我感觉得到。）与 ch32 那句 "I did take a risk, and look where that got me."（我冒过险了，看看那把我带到了哪儿。）是一对**——**ch31 她说"我做的事没用"，ch36 她说"我感觉有用"**；**而这两句都不是论证——它们是一个母亲唯一被允许的说法。**
 
@@ -291,7 +291,7 @@ modified: "2026-09-28"
 
 **关键词**：I’m not interested in finding someone to blame / Miss King / I just want to find my son
 
-**为什么这样写**：**这是全书对"追责"最明确的一次否定，而它的重量在于它是被一个刚刚拿到真相的人说出来的。**"I'm not interested in finding someone to blame"（我并不想找个人来怪）——**not interested 在英语里比 don't want 更客气，也更决绝**；**"Miss King"（京小姐）——**而作者在这里第一次让她用了敬称：她们刚刚才交换名字**；**"I just want to find my son."（我只想找到我儿子。）——**just（只）在英语里削掉了一切其他选项：不要责任，不要解释，不要真相，只要一个人**。
+**为什么这样写**：**这是全书对"追责"最明确的一次否定，而它的重量在于它是被一个刚刚拿到真相的人说出来的。**"I’m not interested in finding someone to blame"（我并不想找个人来怪）——**not interested 在英语里比 don't want 更客气，也更决绝**；**"Miss King"（京小姐）——**而作者在这里第一次让她用了敬称：她们刚刚才交换名字**；**"I just want to find my son."（我只想找到我儿子。）——**just（只）在英语里削掉了一切其他选项：不要责任，不要解释，不要真相，只要一个人**。
 
 **读者视角提示：⚠️** **"I just want to find my son."（我只想找到我儿子。）与 ch36 结尾 Kitty 的那句 "Then perhaps we can help each other after all."（那么也许我们终究可以互相帮助。）构成一组**——**这是全书两条线正式结盟的一句话，而它是由两个人的"不"共同促成的：不要 blame，我要 son**；**而全书对"追责"的态度到这里定了下来——它不是错的，它只是救不了任何人。**
 
