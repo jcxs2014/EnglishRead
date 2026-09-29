@@ -6,7 +6,7 @@
 再写一条检查型规则没用（第 8 条早就写过），治法是换生产方式。
 
 硬门禁（任一不满足 → 退出码 2，**不写入**）：
-  1. **板消息长度**：默认 ≤20 行且 ≤2500 B，超出即拒收，并提示把细节挪到工作日志
+  1. **板消息长度**：默认 ≤20 行且 ≤5000 B（2026-09-29 由 2500 上调，字节是失控兜底），超出即拒收，并提示把细节挪到工作日志
   2. **每书一条**：板与日志**各自**独立判重；同一本书已有条目时只允许 --append 就地追加，
      不允许再开新条目
   3. **基线检查**：写前 `git log -1 -- <file>` 必须存在（防「板上有、HEAD 上无」）
@@ -30,8 +30,8 @@ import re
 import subprocess
 import sys
 
-BOARD = "COLLABORATION.md"
-LOGDIR = ".memory/daily"
+BOARD = os.environ.get("POST_COLLAB_BOARD", "COLLABORATION.md")
+LOGDIR = os.environ.get("POST_COLLAB_LOGDIR", ".memory/daily")
 REGISTRY = os.path.join(os.path.dirname(os.path.abspath(__file__)), "collab_identities.json")
 ENTRY = re.compile(r"^#{2,3} .*$", re.M)
 
@@ -143,13 +143,18 @@ def main():
     ap.add_argument("--append", action="store_true", help="就地追加到已有条目，而不是新建")
     ap.add_argument("--replace", action="store_true",
                     help="整体重写我已有的那一条（完工+审查合并压缩时用）；标题里的完工时间原样保留")
-    ap.add_argument("--limit", type=int, default=20, help="板消息行数上限（默认 20）")
+    ap.add_argument("--limit", type=int, default=20,
+                    help="**板消息**行数上限（默认 20）。⚠️ 2026-09-29 起这道门只对 board 生效，"
+                         "daily 是长期存档档、不设行数上限；daily 改用「--replace 净减守卫」")
     # 5000 B（2026-09-29 由 2500 上调）：字节不是与行数平级的门槛，而是**失控兜底**——
     # 行数数「要读几件事」，字节数在本库（CJK 1 字 3 B）只反映「写得密不密」，
     # 惩罚密度会误伤结构良好的紧凑通报。实测全板：行数达标者最大 4,359 B、
     # 真正的失控条目最小 6,029 B，**5,000–6,000 之间无条目** ⇒ 阈值落在这道空隙里。
     ap.add_argument("--maxbytes", type=int, default=5000,
-                    help="板消息字节兜底阈值（默认 5000；超出行数限制才是主要信号）")
+                    help="**板消息**字节兜底阈值（默认 5000；超出行数限制才是主要信号）。"
+                         "同 --limit，只对 board 生效")
+    ap.add_argument("--force", action="store_true",
+                    help="daily --replace 的净减守卫：确属有意精简时强推（默认拒收净掉 30%%／20 行以上的重写）")
     a = ap.parse_args()
 
     if a.mode == "check":
@@ -265,8 +270,16 @@ def main():
         # ⚠️ 长度门禁必须查**合并结果**：完工那条本就占掉一半额度，
         # 只查追加片段的话，完工 18 行 + 审查 18 行 = 36 行照样「成功」
         # （2026-09-28 实测板上 16 条超限里 11 条正是这样来的）
+        #
+        # ⚠️ 这道门**只对 board 生效**（2026-09-29 修）。它写在 mode 分流之外时，
+        # 板上 20 行的阈值被套在 daily 的**长期存档节**上：既有节 >20 行就一律拒收，
+        # 而存档节本来就该长 ⇒ 当日日志 140 节里 52 节永久无法 --append；
+        # 且「新建」分支（hit 为空）根本不走这道门，于是**能不能写入取决于
+        # 书名有没有被别处提到**，与内容长度无关（见 _log_sections 的分节问题）。
+        # 报错文案当时还是板口径「请用 --replace 整体重写」——对 47 行的存档节，
+        # 那条建议会把存档压没（实测真发生过：387 行完工记录被 132 行新片段覆盖）。
         mn, mb = merged.count("\n") + 1, len(merged.encode())
-        if mn > a.limit or mb > a.maxbytes:
+        if a.mode == "board" and (mn > a.limit or mb > a.maxbytes):
             act = "重写" if a.replace else "追加"
             print(f"❌ {act}后整条 {mn} 行 / {mb} B，超出 {a.limit} 行 / {a.maxbytes} B —— 未写入。\n"
                   f"   现有 {hit[0].count(chr(10)) + 1} 行，本次新增 {body.count(chr(10)) + 1} 行。\n"
@@ -274,6 +287,22 @@ def main():
                   f"     python3 scripts/post_collab.py board <新正文> --book \"<书>\" --me \"<身份>\" --replace\n"
                   f"   压缩时必须两段都在——完工的门禁数字与审查的缺陷数是后来者唯一的入口。")
             return 2
+        if a.mode == "daily" and a.replace:
+            # daily 档没有行数上限，但 **--replace 只换正文、保留抬头** ⇒ 新正文
+            # 必须自带原内容，否则整段被覆盖（上面那条实测）。这道守卫替代行数门禁，
+            # 拦的正是那次事故：净掉 30% 以上或 20 行以上即拒，--force 可强推。
+            old_body = hit[0].split("\n", 1)[1] if "\n" in hit[0] else ""
+            dn = hit[0].count("\n") + 1 - mn
+            db = len(old_body.encode()) - len(body.encode())
+            if (dn > 20 or db > 0) and (dn > 0.3 * (hit[0].count("\n") + 1) or db > 0.3 * max(1, len(old_body.encode()))):
+                if not a.force:
+                    print(f"❌ --replace 会让该节净掉 {dn} 行 / {db} B"
+                          f"（现有 {hit[0].count(chr(10)) + 1} 行 → {mn} 行）—— 拒绝，存档被压没过。\n"
+                          f"   **--replace 只换正文、抬头自动保留**，所以新正文必须自带原有全部内容。\n"
+                          f"   先 git show HEAD:{path} 取回既有正文，与新片段拼接后再提交；"
+                          f"确属有意精简才加 --force。\n未写入。")
+                    return 2
+                print(f"⚠️ --force：按要求精简该节（净掉 {dn} 行 / {db} B）。")
         new = text[:s] + merged + text[e:]
         act = "已就地并入既有条目"
     else:
@@ -301,7 +330,15 @@ def main():
 
 
 def _log_sections(text):
-    idx = [m.start() for m in re.finditer(r"^#{1,3} .*$", text, re.M)]
+    """工作日志的「条目」＝ 一本书的当日归档节。
+
+    ⚠️ 2026-09-29 修：原先按 `^#{1,3} ` 切，一本书只要自己带 `###` 子标题就被切成
+    N 节 ⇒ ① `hit[0]` 静默取第一节，追加内容落到哪节取决于书写顺序而非人指定；
+    ② 写后自查按节计数，同一本书本来就 >1 节 ⇒ **daily --append 一律被拦**
+    （实测：LHBC 那本书名命中 4 节、Cafe 3 节、Paris Deception 3 节）。
+    判重与定位都只认 **`^## ` 二级标题**（书的归档节），子标题归节内内容。
+    """
+    idx = [m.start() for m in re.finditer(r"^## .*$", text, re.M)]
     out = []
     for k, s in enumerate(idx):
         e = idx[k + 1] if k + 1 < len(idx) else len(text)
@@ -310,14 +347,19 @@ def _log_sections(text):
 
 
 def _postcheck(new_text, path, book):
-    """写前在内存里断言：预期条目确实在、且同书条目数符合预期。"""
+    """写前在内存里断言：预期条目确实在、同书条目数符合该档的预期。
+
+    ⚠️ 2026-09-29 修：**「恰 1 条」是板的要求，不是日志的**。工作日志里一本书
+    当天本来就会有多个二级节（完工一节、审查一节），套用板的恰 1 条 ⇒
+    daily 追加一律被写后自查拦下（当时 19 节里有 8 本命中 ≥2 节）。
+    """
     ents = board_entries(new_text) if path == BOARD else _log_sections(new_text)
     hit = [e for e in ents if book in e]
     if not hit:
         print(f"❌ 写前自查失败：新文本里找不到「{book}」的条目——**未落盘**，文件保持原样。")
         raise SystemExit(2)
-    if len(hit) > 1:
-        print(f"❌ 写前自查失败：「{book}」会出现 {len(hit)} 条——**未落盘**。")
+    if path == BOARD and len(hit) > 1:
+        print(f"❌ 写前自查失败：板上会出现 {len(hit)} 条含「{book}」的条目——**未落盘**。")
         raise SystemExit(2)
 
 
@@ -328,10 +370,15 @@ def verify(book, day):
     ents = board_entries(bt)
     bc = sum(1 for e in ents if book in e)
     lp = f"{LOGDIR}/{day}.md"
-    lc = open(lp, encoding="utf-8").read().count(book) if os.path.exists(lp) else 0
+    # 日志按**二级标题切节**统计（同 `_log_sections`）：子标题不算另开条目。
+    # 2026-09-29 修：原先按 `^#{1,3} ` 切，一本书带 `###` 子标题就被算成多节，
+    # 于是 `verify` 报「5 处」——数字虚高且与「每书一条」的语义无关。
+    ltxt = open(lp, encoding="utf-8").read() if os.path.exists(lp) else ""
+    lc = sum(1 for e in _log_sections(ltxt) if book in e)
     ok = bc == 1
     print(f"板：{bc} 条（须恰为 1）{'✅' if ok else '❌'}")
-    print(f"日志 {lp}：{lc} 处（须 ≥1）{'✅' if lc >= 1 else '❌'}")
+    print(f"日志 {lp}：{lc} 个二级节（须 ≥1）{'✅' if lc >= 1 else '❌'}"
+          + ("（同书多节＝当天完工与审查各一节，正常）" if lc > 1 else ""))
     if not ok:
         print(f"\n❌ 板上有 {bc} 条含「{book}」的条目——每{'主题' if book.startswith('【') else '书'}只应一条。"
               f"多的那条多半是别人发的或历史遗留，**不要去删别人的**；"
