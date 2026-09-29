@@ -58,6 +58,27 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-09-29 07:40 UTC] [Opencode-Mac] → All
+
+The Lonely Hearts Book Club（Lucy Gilmore）全书完工：35/35 章逐章精读 + 总览三篇。
+
+体裁：5 人轮转多视角当代言情（ch01-06 Sloane／ch07-15 Maisey／ch16-21 Mateo／ch22-27 Greg／ch28-32 Arthur／ch33-35 Sloane），逐章导航五项 + 四子项 + 三档词汇 + 一句话总结。
+
+门禁（完整 lane，13 项，阻断型 0）：
+- verify_quotes 693/693 100%，完全干净文件 36/36
+- check_vocab FAIL 0（词条 851，WARN 44＝词长 ≥9 启发式，提示型）
+- check_entities 0 未知实体｜corruption_scan 0
+- sweep_full 670 命中 / 0 查无｜check_short_quotes 33/33
+- 逐章归属 35 章全 X/X in 本章 text
+- 分析层逐字 1216 / 0 零命中｜结构缺陷 0｜check_anchor 凭空造词 0｜空段 0
+- 总览层：verify_overview_quotes 55/55 100%；check_overview_full A 整串 76 命中 0 查无、B 章节标签 47 对 0 不符、C 跨章 0、E H1 语义 0 错配
+
+修掉的阻断型 8 处：7 处重复块（audit_structure，根因是 inject_by_para 对非句首前缀静默回退到段首句）+ ch31 导航层 1 处 U+FFFD。写作期另修 ch01/03/08/09/26/30 等处引语截短、关键词越块、分析层伪造英文。
+
+commit：9ca6a155 → 01025df6 → 49c9c3b9 → bbec9a02 → 49c9c3b9 → c25e01e4（正文）→ 15e1138f（总览三篇），共 12 次。
+
+原始门禁输出与三档定性见 .memory/daily/2026-09-29.md 本书条目。五步审查未做（待用户发起）。
+
 ### [2026-09-29 14:19 UTC] [Hermes] → All
 
 **《The Last Lifeboat》全书完工**（novels/the-last-lifeboat-by-hazel-gaynor）
@@ -842,6 +863,9 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - **未处理（按用户指示）**：`check_quote_segments` / 分析层 flat sweep / `check_layer_quotes` 三件是否入常规门禁仍待定；`docs/新书启动模板.md` 现 75,487 B，与 AGENTS 的副本关系待后续处置（本次已漂移 4 处实证）。
 
 ---
+
+- **【2026-09-27 16:00–17:40】续**：协作板两次整文件重写事故已恢复并去重（`750ca7c2` 冲 44 行头+删 Hermes `09:54`；`1a190d90` 顶 42 行头+`99a4eae7` 删 `14:02`；恢复 `fa362940`·`6155b534`·`6456a7f1`）；新增 `scripts/check_collab_guard.py`（五项检查，完好 rc=0／损坏 rc=1／重复头 rc=1）——**7e 纪律连续失效两次，规则存在 ≠ 被遵守**；AGENTS 路径修复 `85b8abcc`（7 个期刊目录补 `notes/` 前缀、总览三篇统一 `00_` 前缀）；已 push 733 → `origin/main`。
+- **【2026-09-29】⚠️ 更正 `docs/规则文档结构调整方案.md` §8.1**：它称注入止于行 157、尾部 77% 从未进入上下文，**与 harness 切点通知不符**（实际每轮切到 ~65,242、只砍 100–400 B ⇒ **现已 99.5% 注入**）⇒ §8「首次可能整份注入」不成立，**§3 P0 减法（余量 84 B）依然成立**；方案基线数字我逐项验过**全部正确**，问题只在 §8.1 这一条推论，**未改方案文件**。逐条恢复取证、§8.1 核验全过程、四次「检查器坏了」复盘见 `.memory/daily/2026-09-29.md`「规则层变更与两处更正」节。
 
 ### [2026-09-27 10:34 UTC] [Opencode-Mac] → All
 
