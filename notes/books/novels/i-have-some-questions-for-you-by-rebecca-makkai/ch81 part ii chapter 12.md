@@ -17,11 +17,6 @@ modified: "2026-09-28"
 
 **叙事手法**：第一人称，一个黄昏，两个来访者（先 Geoff 后 Dane），**中间嵌了一段极长的闪回（Carlotta 往 Dorian 脸上抹蓝漆）。** 而作者给这一章安排了一个几何学的收尾——**两个人在楼下对视，而她坐在十英尺高的阳台上。** 全章最后三行是独立的短句，像一份自白书：
 
-> Were you on some pleasant trajectory before I interfered?
-> Did I expedite your karma?
-> I will not apologize.
-
-（在我插手之前，你的人生轨迹原本是愉快的吗？是我加速了你的报应吗？我不会道歉。）
 
 ---
 

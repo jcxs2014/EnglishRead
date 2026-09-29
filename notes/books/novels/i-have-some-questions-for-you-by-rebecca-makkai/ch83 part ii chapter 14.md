@@ -57,7 +57,7 @@ modified: "2026-09-28"
 
 **关键词**：not only that Omar would pass out in court / but that the woozy, vacant look in his eyes / might come off a certain way / to the judge
 
-身体，而作者立刻给出了第二重。** 而 `the woozy, vacant look in his eyes`（他眼神里那种迷糊的、空的样子）**——而 `woozy`（晕晕的）和 `vacant`（空的）把一个饥饿的人写成了一个人事不省的人。**
+**为什么这样写**：**一句关于"担心"的双重结构，而它的第二重比第一重可怕。** `not only that Omar would pass out in court`（不只是担心他在庭上昏倒）——**而这一重是身体，而作者立刻给出了第二重。** 而 `the woozy, vacant look in his eyes`（他眼神里那种迷糊的、空的样子）**——而 `woozy`（晕晕的）和 `vacant`（空的）把一个饥饿的人写成了一个人事不省的人。** 而末句 `might come off a certain way to the judge`（会在法官那里造成某种印象）**——而 `come off`（给人的印象是）在英语里指"外表呈现为"，而 `a certain way`（某种方式）是全章最模糊也最狠的一处：**她没有说会怎么样，而她知道会怎么样。** 全书对"一个饥饿的人如何变成一个不利的印象"最冷的一次分析。**
 
 ---
 
