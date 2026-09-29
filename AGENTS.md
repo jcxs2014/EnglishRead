@@ -461,7 +461,7 @@
 | `gen_overview.py` | **生产工具（非检测）** 总览三篇**从已核实引语池程序化生成**（`python3 scripts/gen_overview.py <书目录> [模板目录]`；模板**按书隔离**在 `<书目录>/.overview_templates/`，不存在才回退全局 `scripts/overview_templates/`——模板占位符指向该书自己的章号，两本书共用目录会把两套模板交叉写坏）· 池 = 29 章已过 `verify_quotes` 的引语块，写入前**再 flat 比对一次 `text/`**，错章即退出码 2 ⇒ **模板内零手打英文** · ⚠️ 内置**「一行只放一条带章号标注的引语」**后处理，**以 `（chNN）` 标注为锚点、在标注之后切**（不是以引号为锚点：台词中段的引语在原文里没有开引号，按引号切会错位；散文行也要切，不能只切 `**` 开头的行）与**「空 glob 即报错」**的假成功守卫 · ⚠️ 池抽取正则**必须兼容 `**中文理解：**`（冒号在粗体内）与 `**中文理解**：`（冒号在粗体外）两种形态**——不兼容时静默抽 0 条，症状是「引语池无 chNN#1」，与格式问题相隔三层 |
 | `audit_book.py` | 一键总账 A/B/C/D · ⚠️ **不含 crossref**；C 节五子项对精简格式全量误报 |
 | `pick_quotes.py` | 检索式选句辅助（Hermes 产）· `python3 scripts/pick_quotes.py <NN> [count]` |
-| **采集/协作（非门禁）** | `fetch_paris` / `fetch_lithub` / `fetch_granta` / `fetch_brainpickings`（「来源清单」四个 RSS 源）· `grab_epub` · `sort_collab_messages`——用法见模板 |
+| **采集/协作（非门禁）** | `fetch_paris` / `fetch_lithub` / `fetch_granta` / `fetch_brainpickings`（四个 RSS 源）· `grab_epub` · `sort_collab_messages`｜**发协作板/日志消息一律走 `post_collab.py`（抬头由脚本生成，勿手写），完整指令见 `scripts/COLLAB_UPDATE.md`** |
 
 **命令**见第 3 条（提交门禁）与 8.4（抽查）；**时序**见 `docs/新书启动模板.md`「🕐 门禁时序表」；**每个脚本的完整命令、实现坑与实测数据**见 `docs/实测档案/工具链实测.md`。
 ### ⚠️ 规则文档自身的编辑纪律（2026-09-27 新增）

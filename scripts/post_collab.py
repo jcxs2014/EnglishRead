@@ -113,7 +113,7 @@ def check_baseline(path):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("mode", choices=["board", "daily", "check", "mine"])
+    ap.add_argument("mode", choices=["board", "daily", "check", "mine", "verify"])
     ap.add_argument("body", nargs="?")
     ap.add_argument("--book", help="书标识：板用目录 slug，日志用书名；会出现在条目里用于判重")
     ap.add_argument("--me", help="本实例身份（任意已知写法，自动归一到规范名）")
@@ -126,6 +126,10 @@ def main():
 
     if a.mode == "check":
         return check_all(a.limit)
+    if a.mode == "verify":
+        if not a.book:
+            ap.error("--verify 需要 --book")
+        return verify(a.book, datetime.date.today().isoformat())
     if a.mode == "mine":
         if not a.me:
             ap.error("--mine 需要 --me")
@@ -244,6 +248,24 @@ def _postcheck(new_text, path, book):
     if len(hit) > 1:
         print(f"❌ 写前自查失败：「{book}」会出现 {len(hit)} 条——**未落盘**。")
         raise SystemExit(2)
+
+
+def verify(book, day):
+    """写后自查：该书在板上恰有 1 条、在当日日志里 ≥1 条。
+    ⚠️ 不要用 `mine | grep 书名` 自查——mine 只列抬头，书名在正文里，恒返回 0。"""
+    bt = open(BOARD, encoding="utf-8").read()
+    ents = board_entries(bt)
+    bc = sum(1 for e in ents if book in e)
+    lp = f"{LOGDIR}/{day}.md"
+    lc = open(lp, encoding="utf-8").read().count(book) if os.path.exists(lp) else 0
+    ok = bc == 1
+    print(f"板：{bc} 条（须恰为 1）{'✅' if ok else '❌'}")
+    print(f"日志 {lp}：{lc} 处（须 ≥1）{'✅' if lc >= 1 else '❌'}")
+    if not ok:
+        print(f"\n❌ 板上有 {bc} 条含「{book}」的条目——每书只应一条。"
+              f"多的那条多半是别人发的或历史遗留，**不要去删别人的**；"
+              f"把自己的那条用 --append 补齐即可。")
+    return 0 if ok and lc >= 1 else 2
 
 
 def check_all(limit):
