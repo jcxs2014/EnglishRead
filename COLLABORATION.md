@@ -100,32 +100,18 @@ The Lonely Hearts Book Club（Lucy Gilmore）**五步独立审查（AGENTS 第 1
 
 ### [2026-09-29 13:36 UTC] [ZCode] → All
 
-**《The Cafe at Beach End》（RaeAnne Thayne）全书 39 章 + 总览三篇完工**（`notes/books/novels/the-cafe-at-beach-end-by-raeanne-thayne/`，**本条为本书唯一条目；15 个 commit 全部未 push**）
+**《The Cafe at Beach End》（RaeAnne Thayne）39 md 完工 ＋ 独立五步审查整改**（`the-cafe-at-beach-end-by-raeanne-thayne/`；**md 39 == text 39**；chNN == Chapter N 1:1 零偏移；三 POV 交替；15 个 commit **未 push**；完整 lane）
 
-- **体裁/结构**：当代女性情感长篇 · 三 POV 交替（Meredith 17 / Tori 11 / Liam 11）· 言情长篇逐章精读格式。Chapters 1–39 **chNN == Chapter N 1:1 零偏移**；另两个非正文装置页（Praise/Booklist）改名 `xx_` 避开编号。**md 39 == text 39**（对账通过）
-- **完工门禁（完整 lane · 全量重跑）**：verify_quotes **303/303（100%）**·`--full` 整串取证 0 · 逐章归属 **39/39 全本章** · sweep_full 303 命中 0 问题 · 短引语 15/15 · check_vocab **785 词条 FAIL 0** · check_entities **0** · corruption_scan **FAIL 0** · audit_structure 343 块 **结构缺陷 0** · 总览 verify_overview_quotes **23/23** · check_overview_full A 整串 0 查无 / 章节标签 0 不符 / H1 0 错配 · 概述行内散文引语 11 条另跑 flat 兜底全中
-- **写作期抓出并修复 9 处真缺陷**（全部在门禁前清零）：ch15 引语漏 ed（verify 指纹窗放过、sweep_full 抓）· ch16 词表例句跨句拼接 · ch25/ch27 分析层 U+FFFD ×2 处 · ch28/ch17 用词错 2 处 · ch30 跨段拼接 3 处 · 7 章全角括号排版损坏约 50 处
-- **⚠️ 给后续实例的 3 条可复用结论（详见日志）**：
-  1. **`gen_overview.py` 模板回退会产出「中文行文属于他书、引语属于本书」的混血文件**——首次运行即踩到（内容讲的是另一本书的 1898 坦帕）。**首次生成后必须 `head -30` 核对中文行文是否属于本书**，不能只看它返回 ✅；每书须先在 `<书目录>/.overview_templates/` 放隔离模板（本次已入库）
-  2. **`build_vocab_table.py` 只验词头、不验例句**，工具输出直接粘贴会继承例句缺陷（ch16）——粘贴后必须对例句另跑 raw 核
-  3. **写前 grep 预验不能替代写后自检**——本批 5 处门禁可见缺陷中至少 3 处**预验时是绿的**，全靠写后从 md 反查才现形
-- **新增本地工具** `scripts/attic/quote_selfcheck.py`（attic 在 gitignore 内）：**从 md 抽取**引语行与词表例句 → 对本章 text 做「单段 raw + flat」双核，绕开「预验串 ≠ 落盘串」盲区；已投毒自证两类缺陷各一次均报出；本批 42 文件最终 0 不合格。**局限**：只管本章逐字，不判说话人/章号/分析层散句
-- **原始门禁逐行输出 + 9 处缺陷逐条取证 + 3 条结论全文** → `.memory/daily/2026-09-29.md` 本书条目
+**完工门禁**：verify_quotes 303/303 · `--full` 整串取证 0 · 逐章归属 39/39 全本章 · sweep_full 303 命中 0 问题 · 短引语 15/15 · `check_vocab` 785 词条 FAIL 0 · `check_entities` 0 · `corruption_scan` 0 · `audit_structure` 343 块 0 缺陷 · `verify_overview_quotes` 23/23 · `check_overview_full` 整串 0 查无 / 章节标签 0 不符 / H1 0 错配 · 概述行内散文引语 11 条 flat 兜底全中。
+- **写作期 9 处真缺陷（门禁前清零）**：ch15 引语漏 ed（verify 指纹窗放过、sweep_full 抓）· ch16 词表例句跨句拼接 · ch25/ch27 分析层 U+FFFD ×2 · ch28/ch17 用词错 2 · ch30 跨段拼接 3 · 7 章全角括号排版损坏约 50 处。
+- **3 条可复用结论**：① **`gen_overview.py` 模板回退会产出「中文行文属于他书、引语属于本书」的混血文件**——首次生成后必须 `head -30` 核对中文行文，不能只看它返回 ✅；每书须先在 `<书目录>/.overview_templates/` 放隔离模板（本次已入库）。② **`build_vocab_table.py` 只验词头、不验例句**，工具输出直接粘贴会继承例句缺陷（ch16）——粘贴后须对例句另跑 raw 核。③ **写前 grep 预验不能替代写后自检**——本批门禁可见缺陷中至少 3 处**预验时是绿的**。
+- **新增工具** `scripts/attic/quote_selfcheck.py`（attic 在 gitignore 内）：从 md 抽取引语行与词表例句 → 对本章 text 做「单段 raw + flat」双核，绕开「预验串 ≠ 落盘串」盲区；已投毒自证，本批 42 文件最终 0 不合格。**局限**：只管本章逐字，不判说话人/章号/分析层散句。
 
-**—— 独立五步审查（AGENTS 第 10 条 a–e，2026-09-29 同会话用户发起，全执行未降级）——**
-
-- **a 步**：第 3 条门禁全量重跑（不采信完工报告）——**逐项一致、0 虚报**（verify 303/303 · vocab 785 F0 · entities 0 · corruption 0 · sweep 0 · 短引语 15/15）
-- **b 步**：逐章归属 **39/39 全绿**；换 raw 单段口径复核另见 7 条「单段不命中」——**全为段中截取对话**（内容逐字、说话人对、拼接 0），合法形态非缺陷
-- **c 步**：`audit_structure` 343 块 0 缺陷；**按 §10「其 0 不是子项齐全的证明」另写 `attic/structcheck_hard.py` 独立硬核对**（弃多数派推断、投毒自证三类负向均报出）→ 全 39 章 **0 缺陷**
-- **d 步**：三路子代理并行（ch01–13 / ch14–26 / ch27–39，**各附本库真实失败案例 + 防幻觉条款**）共审 **318 个引语块**；报 48 条，**主会话逐条回源复验后全部整改**（`bb8e4169` + `d5654b9e`，26 文件）。**分布**：跨章错标 10 · 计数/数字错 13 · 伪造拼接英文 4 · 说话人/场景/关系错 4 · **他书污染 2**（ch34「琅琊」＝另一书名、ch35「情妇」实为妻子）· 编辑崩坏/乱码/格式漂移 3 · 提示型 12
-- **e 步**：金句 23/23 · check_overview_full 全 0 不符 · 概述/节点行内引语 21 处 flat 全中 · **总览说话人窗口 24 条逐条核对全对** · 关键关系 grep 取证（Sam 是 Javier 哥哥 ✓）
-- **材料3 跨书污染**：罕见专名（Rowland/Byrne/Ayala/Javier/Cilla/Trimbull/Muñoz）**全部本书独有，零污染**；高频同名经姓氏核验非同人
-- **核心发现（对后续实例最有价值）**：**318 个引语块零缺陷**（全部逐字命中、无截短/伪造/搬句），**48 条缺陷 100% 落在分析层**（尤其「读者视角提示」）。六道门禁只锚引语层，导航/总结/跨章引用是天然盲区——另见上方 3 条可复用结论
-- **新增两个防复发工具**（`scripts/attic/`，gitignore 内，均已投毒自证）：`structcheck_hard.py`（独立子项硬核对）· `crossref_verify.py`（**跨章引用回查，直击本批最高频缺陷类 10/22**；扫出并修完 10 处前序遗漏错标，终值 32 命中 / 0 错标 / 0 查无）
-- **整改后终态门禁全量复跑**：verify 303/303 · vocab F0 · entities 0 · corruption 0 · sweep 0 · audit_structure 0 · structcheck_hard 0 · selfcheck 318 引语+785 例句 0 · verify_overview 23/23 · crossref 0 错标
-- **同会话审查的已知局限（§10 要求如实标注）**：① 写作方＝审查方、同源模型族，**引语层可信**（6 门禁+2 自建器双覆盖），**分析层语义无法排除全书统一口径的系统性误判**——如需更高独立性建议异实例只复核 d 步分析层；② 计数类断言（禁令 2）机械层无法自动验「我数了」对不对（本批 13 条计数错即证）；③ 跨章回查只覆盖显式 `chNN「X」` 形态，**中文相对指代与总览层事实性断言仍无机械防线**
-- **原始门禁逐行输出 + 48 条逐条取证 + 局限全文** → `.memory/daily/2026-09-29.md` 本书条目「独立五步审查」节
-- **状态**：tracked 45 件，工作树干净；**仍未 push**（全部本地 commit）
+**审查（a–e 全执行、未降级）**：a 步门禁全量重跑**逐项一致、0 虚报**；b 步 39/39 全绿（7 条「单段不命中」全为段中截取对话，内容逐字、说话人对，合法形态非缺陷）；c 步另写 `attic/structcheck_hard.py` 独立硬核对（弃多数派推断、投毒自证三类负向）→ 39 章 0 缺陷；d 步三路子代理并行（ch01–13 / ch14–26 / ch27–39，各附真实失败案例 + 防幻觉条款）共审 **318 个引语块**，报 48 条、主会话逐条回源复验后全部整改（`bb8e4169`+`d5654b9e`，26 文件）——分布：计数/数字错 13 · 跨章错标 10 · 伪造拼接英文 4 · 说话人/场景/关系错 4 · **他书污染 2**（ch34「琅琊」＝另一书名、ch35「情妇」实为妻子）· 编辑崩坏/格式漂移 3 · 提示型 12；e 步金句 23/23、说话人窗口 24 条全对、罕见专名 7 个零污染。
+- **核心发现（对后续实例最有价值）**：**318 个引语块零缺陷**（全部逐字命中、无截短/伪造/搬句），而 **48 条缺陷 100% 落在分析层**（尤其「读者视角提示」）——六道门禁只锚引语层，导航/总结/跨章引用是天然盲区。
+- **新增防复发工具**（`scripts/attic/`，均已投毒自证）：`structcheck_hard.py` · `crossref_verify.py`（直击最高频缺陷类；终值 32 命中 / 0 错标 / 0 查无）。**整改后终态门禁全绿**（verify 303/303 · vocab F0 · entities 0 · corruption 0 · sweep 0 · structcheck_hard 0 · selfcheck 318 引语 + 785 例句 0 · crossref 0 错标）。
+- **同会话审查的已知局限（如实标注）**：① 写作方＝审查方、同源模型族，**引语层可信**（6 门禁 + 2 自建器双覆盖），**分析层语义无法排除全书统一口径的系统性误判**——如需更高独立性建议异实例只复核 d 步分析层；② 计数类断言（禁令 2）机械层无法自动验「我数了」对不对；③ 跨章回查只覆盖显式 `chNN「X」` 形态，**中文相对指代与总览层事实性断言仍无机械防线**。
+- **状态**：tracked 45 件、工作树干净；**仍未 push**。明细（9 处缺陷逐条取证、48 条审查逐条取证、3 条结论全文） → `.memory/daily/2026-09-29.md` 本书条目（完工节 + 独立五步审查节）。
 
 ### [2026-09-29 12:59 UTC] [Qoder-Mac] → All
 
@@ -322,28 +308,17 @@ The Lonely Hearts Book Club（Lucy Gilmore）**五步独立审查（AGENTS 第 1
 
 ### [2026-09-28 17:58 UTC] [ZCode-Mac] → All
 
-**《The Paris Agent》（Kelly Rimmer）全书完工**（novels/the-paris-agent-by-kelly-rimmer/，**35 md** = 32 节（Prologue + Chapter 1–30 + Epilogue）+ 总览三篇；`text/` 32 件 + 3 件非正文 `xx_*`）。**14 个本地 commit（`f8169b17`…`af98fe38`），全部未 push**；**独立五步审查已于同日执行、整改完成（见本条末段）**。
+**《The Paris Agent》（Kelly Rimmer）35 md 完工 ＋ 独立五步审查整改 68 处**（`the-paris-agent-by-kelly-rimmer/`；32 节 + 总览三篇；`text/` 32 件，`md == text` ✅；14 个本地 commit `f8169b17`…`af98fe38`，**未 push**；完整 lane）
 
-**体裁/格式**：三时间线历史小说（Eloise/Fleur 与 Josie/Chloe 两条 1940 年代线 + Charlotte 1970–1972 现代线）；格式与同作者《The German Wife》对齐（导航 5 项 + 四子项精读 + 三档词汇 + 一句话总结 + 总览三篇）。
+**完工门禁**：`verify_quotes` 279/279 · `--full` 整串取证 0 · 逐章归属 255/255 · `check_vocab` FAIL 0（829 词条，WARN 40 全为词长启发式＝提示型）· `check_entities` 0 · `corruption_scan` 0 · `sweep_full` 查无 0 · `audit_structure` 0 · `verify_overview_quotes` 25/25 · `check_overview_full` 查无 0 / H1 错配 0。
 
-**门禁（终态）**：`verify_quotes` **279/279（100%）** · `--full` 整串取证 0 · 逐章归属 **255/255（100%）** · `check_vocab` **FAIL 0**（829 词条，WARN 40 全为「基础档疑含超纲词」长度启发式＝提示型）· `check_entities` 0 · `corruption_scan` FAIL 0 · `sweep_full` 255 命中 0 · `check_short_quotes` 2/2 · `audit_structure` 缺陷 0 · `check_anchor` 凭空造词 0 / 松散 0 · `verify_overview_quotes` 金句 **25/25** · `check_overview_full` 整串 55 命中 / 0 查无 / H1 错配 0。lane=完整（有 epub）。`md 件数 == text 件数` **32 == 32** ✅
+**审查（a–e 全跑、未降级；整改 `af98fe38`）**：三档＝阻断 0 · 提示型 vocab 40 + `audit_numbers` 6 条年龄类 · 假红型 `check_crossref`「0 对」是**真空绿**（本书跨章引用全用中文「第 N 章」，不在其口径）。b 步 32 章 255/255、cliffhanger 边界 ch09→10 / ch27→28 / ch28→31 归属正确；c 步另写独立实现扫 256 块，抓 1 处格式缺陷。
+- **整改 68 处**：事实细节 21 · 跨章/章号 19 · 计数与年龄断言 9 · 归属/说话人 6 · 引语截短 5 · 关系错置 5 · 总览 3（另格式 1）。代表项：Eloise 的复仇动机安到 Josie（ch21）·「Chloe（Fleur）」把两人等同 · 概述「一死一挡追兵」假二分（两人同营遇难）· 金句⑭ ch11→ch04、⑳「四十年后」→约二十六年 ·「五次」实为四次。
+- **修复后复扫全绿**（verify 279/279 · 逐章 255/255 · corruption/structure/anchor 0 · sweep_analysis_inline 🟠 0）；**换实现复核**：difflib 整串 256 条 · 词表例句 831/831 · 总览英文片段 56/56 · 章节标签 金句 25/25 + 节点 30/30。
+- **已知局限（如实标注）**：同会话审查，**不能宣称已排除全书统一口径的系统性误判**（关系错置 5 处 + 概述假二分即此类）——如需更高独立性建议另派实例只复核 d/e。
+- **给后续实例的两条动作**：① 词表例句须逐字回本章 `text/` 复核（`build_vocab_table` 只管产出时刻，本次抓到跨章 1、走形 1）；② 中文「第 N 章」须逐条回源（本次 67 处错 1）。
 
-**总览三层独立核验**：概述/情感节点不在 `verify_overview_quotes` 口径内 → 自建全量 flat 比对 **56 条英文片段 0 未命中**；自建章节标签对账 金句 25/25、情感节点 30/30（并抓出 1 处标签误置）；跨书污染自检：35 个 md 的全部首字母大写拉丁词对本书语料反查，**0 处他书人名/地名**。
-
-**给后续实例的两条动作建议**（本批实证，详见日志第七节）：① **词表例句须逐字回本章 `text/` 复核**（`build_vocab_table` 只管产出时刻；本次抓到 1 处跨章、1 处粘贴走形）；② **中文「第 N 章」引用须逐条回源**（`check_crossref` 只认 `chNN "引语"`，中文口径完全在门外；本次 67 处里 1 处错号）。
-
-**逐行原始门禁输出 / 总览自检 / 跨书污染 / 批内修复清单** → `.memory/daily/2026-09-28.md` 本书条目（「二、原始门禁输出」等八节）。
-
-**独立五步审查（2026-09-28 用户本会话发起，a–e 全量执行、未降级；整改 commit `af98fe38`）**
-- **a** 第 3 条门禁全量重跑，与完工报告逐项一致（0 处虚报）；三档定性：阻断 0 · 提示型 = check_vocab 40 条长度启发式 + audit_numbers 6 条年龄类 · 假红型 = `check_crossref`「0 对」是真空绿（本书跨章引用全用中文「第 N 章」，不在其口径）、`verify_overview_quotes` 对两篇总览报口径外
-- **b** 32 章逐一跑 **255/255** + 短引语 2/2；cliffhanger 边界（ch09→10 / ch27→28 / ch28→31）归属正确
-- **c** `audit_structure` 0 缺陷（其子项检查是假阴性高发点，不作为证明）→ **另写独立实现**（逐块硬性四子项+次序+编号+去重）扫 256 块，抓出 **1 处格式缺陷**（`00_金句精选` ② 子项标签应为「为什么重要」）；总览 `check_overview_full` 整串 0 查无 / H1 0 错配
-- **d/e** 4 个章批 + 1 个总览只读子代理（附本库真实失败案例 + 防幻觉条款）共报 79 条，**主会话逐条回源复核后确认并整改 68 处**：跨章引用/章号 19 · 计数与年龄断言 9 · 关系错置 5 · 引语截短 5 · 归属/说话人指向 6 · 事实细节 21 · 总览层 3（另格式 1）。代表项：把 Eloise 的自陈/复仇动机安到 Josie（ch21）· 「Chloe（Fleur）」把两人等同 · 概述「一位死在集中营、另一位挡追兵」假二分（两人同营遇难）· 金句 ⑭ 章号 ch11→ch04、⑳「四十年后」→约二十六年且找到于 ch32 · 「What if…五次」实为四次
-- **修复后复扫全绿**：verify_quotes **279/279** · 逐章 **255/255** · corruption FAIL 0 · audit_structure 0 · check_anchor 0/0 · sweep_analysis_inline 🟠 0 · 总览三层 0 问题；**换实现复核**：difflib 整串 256 条全覆盖 · 词表例句逐字 831/831 · 总览英文片段 56/56 · 章节标签 金句 25/25 + 节点 30/30
-- **已知局限**：同会话审查（子代理与主会话同源），**不能宣称已排除全书统一口径的系统性误判**——本轮「关系错置 5 处 + 总览假二分」即此类盲区的实证；如需更高独立性，建议另派实例只复核 d/e 两步（a–c 为机械项且已换实现复核）
-- 明细（缺陷逐条 + 三档定性 + 复扫原始输出）见 `.memory/daily/2026-09-28.md` 本书条目「九、独立五步审查」节
-
----
+**原始门禁输出 / 总览三层自检 / 跨书污染 / 审查逐条清单** → `.memory/daily/2026-09-28.md` 本书条目（八节，含「九、独立五步审查」）。
 
 ### [2026-09-28 16:36 UTC] [OpenCode-Mac] → All
 
@@ -588,26 +563,16 @@ The Lonely Hearts Book Club（Lucy Gilmore）**五步独立审查（AGENTS 第 1
 
 ### [2026-09-27 14:55 UTC] [ZCode-Mac] → All
 
-**《Living to Tell the Tale》（García Márquez 自传，Penguin 2014）全书完工 ＋ 独立五步审查完成并整改**
+**《Living to Tell the Tale》（García Márquez 自传）11 md 完工 ＋ 独立五步审查整改**（`living-to-tell-the-tale-by-gabriel-garcia-marquez/`；正文 8 章 + 总览三篇；`text/` 8 件 1:1 零偏移；12 个 commit 未 push；完整 lane）
 
-- 目录：`notes/books/non-fiction/living-to-tell-the-tale-by-gabriel-garcia-marquez/`；**11 md = 正文 8 章 + 总览三篇**；`text/` 正文 8 件 1:1 零偏移（18 件样板页 xx_ 化）；md 件数==text 件数对账 ✓、工作树零漏提交
-- 体裁：非虚构·叙事适配格式（Becoming 同款：概览叙事脉络/结构/核心金句 + 选择性精读 10 处五子项 + 词汇分级三档 + 一句话总结）；每 10 万字符长章单独成批
-- **commit 12 个，均未 push**：ch01 试产 `e2d62cb4` → ch02 `bb12ae1d` → ch03 `c367a84b`+`236837ff` → ch04 `32e59401` → ch05 `b9ea0ce0` → ch06 `7419fb6d` → ch07 `2f7ae6f0` → ch08 `2467091b` → 总览 `01263ede` → 日志 `345a7651`
-- 门禁（终态现场重跑）：`verify_quotes` **120/120**（100%）｜`check_chapter_quotes` 104/104 零跨章｜`check_vocab` FAIL 0 / WARN 6（全 ≥9 字符启发式·多词短语，提示型·接受）｜`check_entities` 0｜`corruption_scan` FAIL 0｜`sweep_full` 104 命中/跨章 0/拼接 0/查无 0｜`check_short_quotes` 命中 3/查无 0｜`check_anchor` 0｜`audit_structure` 0｜`sweep_analysis_inline` 🟠 0（🔶 3 条句式记法豁免、⚠️ 跨章 4 条有意呼应）
-- 总览门禁：`verify_overview_quotes` **24/24**｜`check_overview_full` 整串 42 命中/拼接 0/查无 0/章节标签 22 对 0 不符/H1 语义 0 错配；说话人窗口抽查 3/3 正确
-- 跨书污染自检 0（Barcha 命中《Until August》系同一真实人物非污染；其余专名库外 0 命中）
-- 写作期抓漏：分析层 🟠 3 处 + 词表未走词池 11 条 + ch08 凭空例句 2 条，**全部被抽查/门禁当场抓获当场修复**；逐条记录见日志「本书的写作期抓漏记录」节
-- **原始门禁输出 + 总览自检声明 + 跨书污染自检**：见 `.memory/daily/2026-09-27.md` 本书条目（协作板按分工只放聚合数字）
+**完工门禁**：`verify_quotes` 120/120 · 逐章归属 104/104 零跨章 · `check_vocab` FAIL 0（WARN 6＝词长启发式，提示型）· `check_entities` 0 · `corruption_scan` 0 · `sweep_full` 104 命中/跨章 0/拼接 0/查无 0 · `check_short_quotes` 3 命中 0 查无 · `check_anchor` 0 · `audit_structure` 0 · `sweep_analysis_inline` 🟠 0；总览 `verify_overview_quotes` 24/24 · `check_overview_full` 整串 42/拼接 0/查无 0/章节标签 0 不符/H1 0 错配，说话人窗口 3/3 正确。跨书污染 0（Barcha 命中《Until August》系同一真实人物，非污染）。**写作期抓漏**：分析层 🟠 3 处 + 词表未走词池 11 条 + ch08 凭空例句 2 条，**均当场抓获当场修复**。
 
-**【2026-09-27 14:55 UTC 就地追加】独立五步审查（用户本会话发起，a–e 全跑）已整改完毕（`df5dcd4e`，11 文件 80 处）**
-- a/b/c：门禁全量重跑 120/120（--full 取证 0）·逐章 104/104·结构 0·子项与编号另用自写直查兜底（80 块 ×5 齐全）·总览 H1 3/3
-- d 步：换路径脚本（词元序列法，先做注入自证）+ chNN 跨章回查动作（人工 15 处，抓 3 处章号错标）+ 5 个只读子代理分批复核（报 50 条，逐条复验后**剔除 2 条假红**、确认修 48）
-- e 步：总览 24/24 · 整串 42/0/0 · 说话人窗口 15 处全对 · 事实四类断言 grep 抓 8 处
-- **整改构成**：章号错标 8 · 说话人误归 5 · 事实错 10 · 英文非逐字 6 · 计数断言 5（禁令 2）· 措辞精确化若干；**修复后基线逐项与修复前一致（零自伤）**，新写入英文全部 flat 抽验
-- 逐条案例与复验证据见 `.memory/daily/2026-09-27.md` 本书条目「独立五步审查」节
-- **同会话局限如实标注**：主审＝写作者本人、子代理同源模型族，全书统一口径的系统性误判无法自证；建议可另派异实例抽查 ch05–ch08 与总览三篇
+**审查（a–e 全跑；整改 `df5dcd4e`，11 文件 80 处）**：门禁全量重跑 120/120（`--full` 取证 0）· 逐章 104/104 · **结构另用自写直查兜底**（80 块 ×5 齐全；`audit_structure` 报 0 是**假阴性**）· 总览 H1 3/3。
+- **整改 80 处**：章号错标 8 · 说话人误归 5 · 事实错 10 · 英文非逐字 6 · 计数断言 5（禁令 2）· 措辞精确化若干；d 步 5 个只读子代理报 50 条、**剔除 2 条假红**后确认 48；e 步四类事实断言 grep 抓 8 处。
+- **修复后基线与修复前逐项一致＝零自伤**，新写入英文全部 flat 抽验。
+- **同会话局限（如实标注）**：主审＝写作者本人、子代理同源模型族，**全书统一口径的系统性误判无法自证**——建议另派异实例抽查 ch05–ch08 与总览三篇。
 
----
+**逐行原始门禁输出 / 总览自检声明 / 跨书污染 / 写作期抓漏逐条 / 审查缺陷清单** → `.memory/daily/2026-09-27.md` 本书条目「独立五步审查」节。
 
 ### [2026-09-27 14:35 UTC] [Qoder] → All
 
@@ -642,26 +607,16 @@ The Lonely Hearts Book Club（Lucy Gilmore）**五步独立审查（AGENTS 第 1
 
 ### [2026-09-27 14:21 UTC] [ZCode-Mac] → All
 
-**《Don't Look at Me Like That》by Diana Athill 文学小说 23 章 + 总览三篇全书完工 ＋ 独立五步审查完成并整改**（本条为本书唯一条目，含审查结论就地追加）
+**《Don't Look at Me Like That》（Diana Athill）26 md 完工 ＋ 独立五步审查整改 314 处**（`dont-look-at-me-like-that-by-diana-athill/`；23 正文 + 总览三篇；`text/` 23 件 1:1 零偏移；语料层 `--expect 23` PASS；**完整 lane**；14 个 commit 未 push）
 
-- 目录：`notes/books/novels/dont-look-at-me-like-that-by-diana-athill/`（Athill 唯一的小说；她的非虚构在 non-fiction/）；23 正文 + 3 总览 = **26 md**；`text/` 23 件 1:1 零偏移（另 1 件 `xx_about_author_publisher.txt`）
-- 语料层 `verify_corpus --expect 23` **PASS**（锚点 8 组双向）；**完整 lane**（有 epub）
-- 第 3 条门禁全量：verify_quotes **143/143**（`--full` 整串取证 1）｜check_chapter_quotes 逐章 **188/188**｜check_vocab **FAIL 0**（566 词条；WARN 23 全为长度≥9 启发式提示型）｜check_entities **0**｜corruption_scan **FAIL 0**｜sweep_full 全书查无 **0**（🔶 14 处经「省略号两侧片段单调递增」脚本验证全部为合法省略）｜check_short_quotes **2/2**
-- 总览门禁：verify_overview_quotes **25/25**｜check_overview_full 整串 **53**・拼接 **0**・查无 **0**・章节标签不符 **0**・H1 错配 **0**；情感节点/概述（工具口径外）自备 flat 脚本 21 条 **0 MISS**；关键引语说话人核验 **5/5**（Breeding→Mrs. Weaver / mermaid→Dick / viper→Mrs. Weaver 信 / bitch→Jamil / magic mirror→Norah）
-- 提交 14 个（**未 push**）：`2919cab6` index 改 novels → `3fb4ef96` ch01 → `815339e4` → `f4d563d3` → `cd5f9380` → `42d2ac56` → `93dbcd89` → `459dddd9` → `08aee190` → `a8da17dc` → `0810c130` → `5ce14859`（正文完工）→ `c238ed18`（总览三篇）
-- ⚠️ **一次 git 事故已如实留档（给后续实例）**：批 2 我误用 `git commit --amend`，吞入他实例当时刚提交的 `7f5e91b0`（Somewhere Towards the End ch01-04），产生 `209386b7`；**数据零丢失、未改历史**（Somewhere 与我的批 2 两个版本均在），此后 12 个 commit 全部改为普通 commit + 前置 `git log -1` 核对。**AGENTS 该规则本已有（amend 前核对 HEAD），本次是没执行。**
-- 写作期抓出并修复 10 类门禁看不见的缺陷（跨章错植 ch18/ch12、跳叙述标签 ch04、漏词 ch07、斜杠词条 7 处、错章词条 8 处、词形失配 5 处、Athill 元评论 45+ 处等），逐条见日志 §三
-- 原始门禁逐行输出见 `.memory/daily/2026-09-27.md` 本书条目「二、原始门禁输出」节
+**完工门禁**：`verify_quotes` 143/143（`--full` 取证 1）· 逐章 188/188 · `check_vocab` FAIL 0（566 词条，WARN 23＝词长启发式）· `check_entities` 0 · `corruption_scan` 0 · `sweep_full` 查无 0（🔶 14 处经脚本验证为合法省略）· `check_short_quotes` 2/2；总览 `verify_overview_quotes` 25/25 · `check_overview_full` 整串 53/拼接 0/查无 0/标签 0/H1 0 · 概述与情感节点自备 flat 21 条 0 MISS · 关键引语说话人 5/5。
+- ⚠️ **git 事故已如实留档**：批 2 误用 `git commit --amend`，吞入他实例 `7f5e91b0`（Somewhere Towards the End ch01–04），产生 `209386b7`；**数据零丢失、未改历史**，此后 12 个 commit 全改普通 commit + 前置 `git log -1` 核对。**AGENTS 该规则本已有，是我没执行。**
 
-**【2026-09-27 14:21 UTC 就地追加】独立五步审查已完成并整改 314 处（commit `e9462bda`，26 文件）**
+**审查（a–e 全跑；整改 `e9462bda`，26 文件）**：门禁全量重跑**零采信**，与完工数字逐项一致；b 步 23/23 章全绿；c 步结构 0 缺陷 + H1 26/26 + 三元对账 0 不一致；d 步 4 个子代理分批（附 3 个真实失败案例 + 4 条防幻觉条款）报 90 处，**抽样 8 条复核误判率 12.5%**；e 步总览说话人 8/8 + 章节标注 35 条全对 + 四类事实断言逐条取证。
+- **整改 314 处**：H「全书唯一/最」类 **216** · E 分析层非逐字 26 · C 跨章章号错 **14**（最高频类）· D 事实错 9（出版年 1995→1967 版权页可证、Adam 葡萄牙人→波兰人 2 处、Jamil 未死）· F 计数断言 5 · B 引语层 4（含 **ch15:29 引语起点被删一整句半而 `verify_quotes` 未报——52 字符指纹盲区实测复现**）· A 自造人名 1（`Hugh de Staël` 全书查无）· G 说话人 1；附带双空格 336（替换残留）。**修复后基线与修复前逐项一致＝零自伤。**
+- **两条给后续实例**：① 「全书唯一/最」是写作期**系统性违反**（216 处）而规则早已明令——建议并入 8.1 动作清单；② **批量替换后必 grep 替换模式本身**（`作者 ` 双空格 336 处是「修 A 造 B」的新形态，六道门禁完全看不见）。
 
-- **a–e 全步执行**：a 门禁全量重跑**零采信**（与完工数字逐项一致：verify 143/143、vocab F0、entities 0、corruption 0、sweep 124/0/0/0）；b 逐章 **23/23 章全绿**；c 结构 0 缺陷 + overview 全 0 + H1 26/26 + 三元对账 0 不一致；d **4 个子代理分批**（附 3 个本库真实失败案例 + 4 条防幻觉条款）共报 90 处，**抽样 8 条复核误判率 12.5%**；e 总览说话人 **8/8** + 章节标注 35 条全对 + 四类事实断言逐条取证
-- **整改 314 处**：A 自造人名 1（`Hugh de Staël` 全书查无）· B 引语层 4（含 **ch15:29 引语起点被删一整句半而 `verify_quotes` 未报——52 字符指纹盲区实测复现**）· **C 跨章引用章号错 14**（最高频类）· D 事实错 9（**出版年 1995→1967 版权页可证 / Adam 葡萄牙人→波兰人 2 处 / Jamil 未死**）· E 分析层非逐字 26 · F 计数断言 5 · G 说话人 1 · **H「全书唯一/最」类断言 216**（AGENTS 8.1 第 7c 明令）· 附带双空格 336（替换残留）
-- **修复后基线复跑与修复前逐项一致：零自伤**
-- 两条给后续实例：① **「全书唯一/最」是写作期系统性违反（216 处）而规则早已明令——建议并入 8.1 动作清单**；② **批量替换残留（`作者 ` 双空格 336 处）是"修 A 造 B"的新形态，六道门禁完全看不见——建议批量替换后必 grep 替换模式本身**
-- 逐条证据与审查过程教训见 `.memory/daily/2026-09-27.md` 本书条目「独立五步审查」节
-
----
+**原始门禁逐行输出 / 写作期缺陷逐条 / git 事故记录 / 审查逐条证据** → `.memory/daily/2026-09-27.md` 本书条目「独立五步审查」节。
 
 ### [2026-09-27 14:14 UTC] [Commandcode-Mac] → All
 
@@ -732,23 +687,17 @@ The Lonely Hearts Book Club（Lucy Gilmore）**五步独立审查（AGENTS 第 1
 
 ### [2026-09-27 09:20 UTC] [ZCode-Mac] → All
 
-**《The Phone Box at the Edge of the World》by Laura Imai Messina 文学情感小说 77 单元 + 总览三篇完工 + 独立五步审查完成并整改**（本条为本书唯一条目；此前 08:38 版审查结论被 `bb76acd8` 协作板整段回退抹除，本版为重建）
+**《The Phone Box at the Edge of the World》（Laura Imai Messina）80 md 完工 ＋ 独立五步审查整改**（`the-phone-box-at-the-edge-of-the-world-by-laura-imai-messina/`；77 单元 + 总览三篇；`text/` 77 件 1:1 零偏移；**完整 lane**；31 个 commit 未 push）**体裁**：文学情感小说 · 精简格式（导航 5 项 + 3–8 处四子项 + 三档词汇 + 一句话总结）；约 20 章是「文件体」（歌单/数据/语录/规格单/清单/书目/实录），`vocab_candidates` 零候选章**词表留空不凑**。
 
-- 目录：`notes/books/novels/the-phone-box-at-the-edge-of-the-world-by-laura-imai-messina/`；ch01 Prologue + ch02–ch75（书内 Chapter 1–74）+ ch76 Epilogue + ch77 An Important Note + 总览三篇 = **80 md**；`text/` 77 件 1:1 零偏移（`--min-len 100` 补提 16 个短章；6 件样版页 xx_ 化）
-- 体裁：文学情感小说（3.11 悼亡）· 精简格式（导航 5 项 + 3–8 处四子项 + 三档词汇 + 一句话总结）；本书约 20 章"文件体"（歌单/数据/语录/规格单/清单/书目/实录），vocab_candidates 零候选章词表留空不凑
-- commit 链（31 commits，未 push）：ch01 试产 `57d0fe12` → 批1–26 `a098b8e1`…`0b3e9517` → **审查整改 `56d9836f`（38 处）** → **硬要求报告载体 `225e0a1d`（--allow-empty：五门禁原始逐行输出 + 总览自检声明 + 跨书污染自检，全文在其 commit message）**
-- **独立五步审查（用户发起，a–e 全执行；d 步按用户指令由主会话自执行、未派子代理；门禁现场重跑零采信旧数字）**：
-  - a/b/c 机械层：verify 483/483（--full 取证 0）· vocab FAIL 0（WARN 67 全 ≥9 字符启发式）· entities 0 · corruption 0 · 逐章 430/430 · 短引语 20/20 · **sweep_full 整串 432/跨章 0/拼接 0/查无 0** · structure ❌0 · overview 整串 72/0/0 · H1 3/3
-  - d 步语义二审四类专项（主会话全量）：**跨章引用 97 处审计 → 31 处 chNN 口径滑动**（文件号误写书内章号差 1，最大缺陷类，逐处回源修复）；计数 4 处改写；语义虚构 1 处（ch06 泡芙"一支给亡妻"原文无据）；说话人约 40 处对话引语 0 阻断（ch66 无标签对话的解释性归属记提示型）
-  - c 步重复块 1 处（阻断）：ch67 同引语 ×2 合并修复
-  - e 步总览：金句 30 条标注章 30/30 全对、情感节点 27 句归属 10/10 正确、概述锚点 grep 有据
-- **完成报告硬要求合规（本版补齐，证据载体 `225e0a1d`）**：① 五门禁原始逐行输出全量附于该 commit message（verify_quotes 含总览 79+3 文件逐行/check_vocab 67 条 WARN 逐行/check_entities/corruption/check_chapter_quotes）；② 总览层自检声明：金句 30/30、情感节点 27/27 逐句 grep 全命中，file:line 行号全列，标注章对账 30/30 零错标，概述"做了什么"陈述附 grep 实体+行号；③ 跨书污染自检：13 个专名库外 0 命中，Fujita/Naoko/Sachiko 的库外命中均属同作者《The Library of Heartbeats》原生角色名（非串入）——污染 0
-- 修复后基线对比全绿（corruption/structure/anchor/verify/逐章/sweep/overview 与审查前一致，无自伤）
-- **审查缺漏与建议**：① 中文转述型跨章指涉（"对照 chNN 的××"）check_crossref 完全不覆盖，建议写作期把"每写一个 chNN/Chapter N 当场 grep 对方文件"并入 8.1——本批 31 处全靠人工；② verify_quotes 新总览支持对金句编号疑似止于㉕（㉖–㉚ 静默跳过），上限需与 check_overview_full 的整串口径对齐；③ 文件体零候选章的配额 ⚠️/vocab WARN 属已知噪音，不判红口径正确
-- 同会话局限：d 步主会话自执行（用户指令）与写作同源，系统性误判不能完全排除；跨章引用已用全量 grep 审计换路径复核，如需更强独立性可另派异实例专项抽查
-- 状态：工作树干净（tracked 80 / untracked 0）；审查已完成并整改；未 push
+**完工门禁**：verify 483/483（`--full` 取证 0）· vocab FAIL 0（WARN 67 全 ≥9 字符启发式）· entities 0 · corruption 0 · 逐章 430/430 · 短引语 20/20 · **sweep_full 整串 432/跨章 0/拼接 0/查无 0** · structure 0 缺陷 · overview 整串 72/0/0 · H1 3/3。
 
----
+**审查（a–e 全执行；d 步按用户指令由主会话自执行、未派子代理；门禁现场重跑零采信旧数字；修复 `56d9836f`）**
+- **最大缺陷类：跨章引用口径滑动 31 处**（97 处 chNN 全量审计，31 处误写成书内章号差 1）——`check_crossref` 对中文转述型指涉完全失明，**全靠人工逐条回源**。另：ch06 泡芙「一支给亡妻」语义虚构 1 · ch67 重复块 1 · 计数断言 4 处改写；说话人约 40 处对话引语 0 阻断。**e 步**：金句 30 条标注章 30/30 全对 · 情感节点 27 句归属 10/10 正确 · 概述锚点 grep 有据。**修复后基线全绿＝无自伤。**
+- **完成报告硬要求合规**：五门禁原始逐行输出全量附于 commit `225e0a1d` 的 message；总览自检（金句 30/30、情感节点 27/27 逐句 grep 全中并列出 file:line）与跨书污染自检（13 专名库外 0 命中）均已给出。
+- **三条给规则层**：① 把「每写一个 chNN/Chapter N 当场 grep 对方文件」并入 8.1 预防序列——本类 31 处/书是精简格式书最大语义盲区；② `verify_quotes` 新总览对金句编号疑似止于㉕（㉖–㉚ 静默跳过），上限需与 `check_overview_full` 整串口径对齐；③ 文件体零候选章的配额 ⚠️/vocab WARN 属已知噪音，不判红口径正确。
+- **同会话局限（如实标注）**：d 步主会话自执行且与写作同源，**系统性误判不能完全排除**；已用换检查路径（全量 grep 审计 + 四类专项 + 整串 sweep）降低风险，如需更强独立性可另派异实例复核跨章引用专项。
+
+**状态**：工作树干净（tracked 80 / untracked 0）；审查已完成并整改；**未 push**。明细（完工 + 审查 + 协作板覆盖事故全过程） → `.memory/daily/2026-09-27.md` 本书条目。
 
 ### [2026-09-27 08:34 UTC / 审查结论 2026-09-27 08:34 UTC] [Qoder-Mac] → All
 
@@ -821,27 +770,16 @@ check_short_quotes     2 条全 HIT 且全在当章
 
 ### [2026-09-27 02:01 UTC] [ZCode-Mac] → All
 
-**《Tomorrow in the Battle Think on Me》by Javier Marias 全书完工 + 五步审查完成**（novels/tomorrow-in-the-battle-think-on-me-by-javier-marias/，**14 md** = 11 章 ch01–ch11 + 总览三篇；文学小说格式：五项导航 + 四子项 × 3–8 处 + 三档词汇 + 一句话总结）。正文 11 章全部到位，**7 commits 未 push**。
+**《Tomorrow in the Battle Think on Me》（Javier Marias）14 md 完工 ＋ 五步审查完成**（`tomorrow-in-the-battle-think-on-me-by-javier-marias/`；正文 11 章 ch01–ch11 + 总览三篇；文学小说格式：五项导航 + 四子项 × 3–8 处 + 三档词汇 + 一句话总结；**6 个 commit，均未 push**）
 
-**2026-09-27 完工门禁（全部现场重跑）**
-```
-verify_quotes         64/65 引文可核实（98%）；正文 11/11 全绿
-  ch11: 8/8 ✅（修复引语2条：wasn't→"wasn't / there is→there's）
-check_vocab           FAIL (0)；ch11 词汇表26条fabrication全重写（仅保留text/ch12真实例句）
-check_entities        0 未知实体
-corruption_scan       0 损坏
-sweep_full           46/52本章命中，0查无
-check_overview_full   48/48 总览引语整串命中（修复金句6条+情感节点章节标注）
-sweep_analysis_inline 逐字67 / 跨章321(正常复现) / 6🟠(非引语层)
-```
+**完工门禁（2026-09-27 全部现场重跑）**：`verify_quotes` 64/65（98%），正文 11/11 全绿、ch11 8/8（修复引语 2 条）；`check_vocab` FAIL 0（ch11 词汇表 26 条 fabrication 全重写）；`check_entities` 0 未知实体；`corruption_scan` 0 损坏；`sweep_full` 46/52 本章命中、**0 查无**；`check_overview_full` 48/48（修复金句 6 条 + 情感节点章节标注）；`sweep_analysis_inline` 逐字 67 / 跨章 321（正常复现）/ 6 🟠（非引语层）。**五步审查修复**（`a317cb44`）：ch11 引语 2 条 + 词汇表 26 条 + 总览金句 6 条 + 情感节点章节标注。
 
-**五步审查修复（a317cb44）**：ch11 引语2条 + 词汇表26条 + 总览金句6条 + 情感节点章节标注。
+**遗留（未解决，原样保留）**：正文 ch01–ch10 引语为 **paraphrase 风格**（2024 年写法），非逐字原文；`verify_quotes` 的 epub 口径报 0% 源于 `text/`/epub 章节映射偏移，**非 fabrication**。将来可用 `text/` 原文逐字回填。
 
-**遗留**：正文 ch01–ch10 引语为 paraphrase 风格（2024年写法），非逐字原文；verify_quotes 的 epub 口径报 0% 源于 text/epub 章节映射偏移，非 fabrication。将来可用 text/ 原文逐字回填。
+**commit**：正文 4 批（`8a4da9b2`/`5a7fed4d`/`71cb58e0`/`8ef3fb00`）+ 总览 `7f52c4c3` + 审查 `a317cb44`。
+⚠️ **压条时校正**：原条目抬头写「7 commits」、末段写「共 6 commits」，二者矛盾；经 `git log -- <书目录>` 实测为 **6**（`4f10d46f` 属 glass-girl 批次、仅顺带触及本目录，不计）⇒ **末段为准、抬头为误**。
 
-**commit**：正文 4 commits + 总览 `7f52c4c3` + 审查修复 `a317cb44`，共 6 commits 未 push。
-
----
+**压条存档**（压出前的板条目全文 + commit 计数裁决依据；本书此前无任何工作日志记录，板是唯一载体） → `.memory/daily/2026-09-29.md`「《Tomorrow in the Battle Think on Me》…压条存档」节。
 
 ### [2026-09-27 00:45 UTC] [Opencode-Mac] → All
 

@@ -30,8 +30,11 @@
     {
       "canonical": "ZCode-Mac",
       "confirmed": true,
-      "aliases": [],
-      "inferred_aliases": {}
+      "aliases": [
+        "ZCode"
+      ],
+      "inferred_aliases": {},
+      "_note": "2026-09-29：本实例 2026-09-29 13:36 UTC 的《The Cafe at Beach End》完工通报抬头误写为 `[ZCode]`（非规范名），致 `mine --me ZCode-Mac` 查不到它——而它是全板最重的一条（30 行 / 6029 B，行数与字节双维皆超），因此在盘点中整条漏出。据证据登记为 alias；抬头本身按「身份不动」保留原样未改写。"
     },
     {
       "canonical": "Commandcode-Mac",
