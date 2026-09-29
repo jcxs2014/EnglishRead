@@ -195,7 +195,7 @@ modified: "2026-09-29"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | petition | 申请书（她当年争抚养权时女儿递过的那份） | It was the same one she’d used when she was a little girl and wanted an extra spoonful of powdered sugar on her French toast; the same one she’d pulled out when she’d first begged me not to fight the petition for custody changes. |
-| unusually | 异常地（她形容斯隆的笑： unusual warm trill） | Like Sloane’s unusually warm trill, there was something disarming about it. |
+| unusually | 异常地（她形容斯隆笑起来 unusually warm trill） | Like Sloane’s unusually warm trill, there was something disarming about it. |
 | disarming | 让人放下戒心的（她形容他笑起来的那一下） | Like Sloane’s unusually warm trill, there was something disarming about it. |
 | boundary | 边界（屋里那两条：全家福缺席、胶带线） | There was no sign of it inside his house—no family portraits lining the walls, no strip of masking tape marking a boundary that could never be crossed. |
 | surliest | 最乖戾的（她形容阿瑟时用到的最高级） | The way he asked this question was so much like Arthur at his surliest that I had to fight a smile. |
