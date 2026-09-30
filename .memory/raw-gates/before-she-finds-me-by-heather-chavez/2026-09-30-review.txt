@@ -1,0 +1,287 @@
+=== lane ===
+完整 lane
+
+=== a 步：第 3 条门禁全量重跑 ===
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 25/25 ✅
+ch01 chapter 1 julia.md: 7/7 ✅
+ch02 chapter 2 ren.md: 7/7 ✅
+ch03 chapter 3 julia.md: 7/7 ✅
+ch04 chapter 4 ren.md: 7/7 ✅
+ch05 chapter 5 julia.md: 6/6 ✅（另有 1 条短引语未校验）
+ch06 chapter 6 ren.md: 7/7 ✅
+ch07 chapter 7 julia.md: 7/7 ✅
+ch08 chapter 8 ren.md: 7/7 ✅
+ch09 chapter 9 julia.md: 7/7 ✅
+ch10 chapter 10 ren.md: 8/8 ✅
+ch11 chapter 11 julia.md: 7/7 ✅
+ch12 chapter 12 ren.md: 8/8 ✅
+ch13 chapter 13 julia.md: 7/7 ✅
+ch14 chapter 14 ren.md: 7/7 ✅
+ch15 chapter 15 julia.md: 7/7 ✅
+ch16 chapter 16 ren.md: 7/7 ✅
+ch17 chapter 17 julia.md: 7/7 ✅
+ch18 chapter 18 ren.md: 7/7 ✅
+ch19 chapter 19 julia.md: 7/7 ✅
+ch20 chapter 20 ren.md: 7/7 ✅
+ch21 chapter 21 julia.md: 7/7 ✅
+ch22 chapter 22 ren.md: 7/7 ✅
+ch23 chapter 23 julia.md: 7/7 ✅
+ch24 chapter 24 ren.md: 7/7 ✅
+ch25 chapter 25 julia.md: 7/7 ✅
+ch26 chapter 26 ren.md: 7/7 ✅
+ch27 chapter 27 julia.md: 8/8 ✅
+ch28 chapter 28 ren.md: 7/7 ✅
+ch29 chapter 29 julia.md: 7/7 ✅
+ch30 chapter 30 ren.md: 7/7 ✅
+ch31 chapter 31 julia.md: 7/7 ✅
+ch32 chapter 32 ren.md: 7/7 ✅
+ch33 chapter 33 julia.md: 6/6 ✅（另有 1 条短引语未校验）
+ch34 chapter 34 ren.md: 8/8 ✅
+ch35 chapter 35 julia.md: 8/8 ✅
+ch36 chapter 36 ren.md: 8/8 ✅
+ch37 chapter 37 julia.md: 8/8 ✅
+ch38 chapter 38 ren.md: 6/6 ✅
+ch39 chapter 39 julia.md: 6/6 ✅
+ch40 chapter 40 ren.md: 8/8 ✅
+ch41 chapter 41 julia.md: 7/7 ✅
+ch42 chapter 42 ren.md: 7/7 ✅
+ch43 chapter 43 julia.md: 7/7 ✅
+ch44 chapter 44 ren.md: 7/7 ✅
+ch45 chapter 45 julia.md: 7/7 ✅
+ch46 chapter 46 ren.md: 7/7 ✅
+ch47 chapter 47 julia.md: 7/7 ✅
+ch48 chapter 48 ren.md: 7/7 ✅
+ch49 chapter 49 julia.md: 7/7 ✅
+ch50 chapter 50 ren.md: 7/7 ✅
+ch51 chapter 51 julia.md: 7/7 ✅
+ch52 chapter 52 ren.md: 7/7 ✅（另有 1 条短引语未校验）
+ch53 chapter 53 julia.md: 7/7 ✅
+ch54 chapter 54 ren.md: 4/4 ✅
+ch55 chapter 55 julia.md: 8/8 ✅
+ch56 chapter 56 ren.md: 7/7 ✅
+ch57 chapter 57 julia.md: 8/8 ✅
+ch58 chapter 58 ren.md: 7/7 ✅
+ch59 chapter 59 julia.md: 8/8 ✅
+
+⚠️ 全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 442/442 引文可核实（100%）；完全干净文件 60/60；正文章节 0 提取 0；总览 0 提取转交 1 ===
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 25/25 ✅
+ch01 chapter 1 julia.md: 7/7 ✅
+ch02 chapter 2 ren.md: 7/7 ✅
+ch03 chapter 3 julia.md: 7/7 ✅
+ch04 chapter 4 ren.md: 7/7 ✅
+ch05 chapter 5 julia.md: 6/6 ✅（另有 1 条短引语未校验）
+ch06 chapter 6 ren.md: 7/7 ✅
+ch07 chapter 7 julia.md: 7/7 ✅
+ch08 chapter 8 ren.md: 7/7 ✅
+ch09 chapter 9 julia.md: 7/7 ✅
+ch10 chapter 10 ren.md: 8/8 ✅
+ch11 chapter 11 julia.md: 7/7 ✅
+ch12 chapter 12 ren.md: 8/8 ✅
+ch13 chapter 13 julia.md: 7/7 ✅
+ch14 chapter 14 ren.md: 7/7 ✅
+ch15 chapter 15 julia.md: 7/7 ✅
+ch16 chapter 16 ren.md: 7/7 ✅
+ch17 chapter 17 julia.md: 7/7 ✅
+ch18 chapter 18 ren.md: 7/7 ✅
+ch19 chapter 19 julia.md: 7/7 ✅
+ch20 chapter 20 ren.md: 7/7 ✅
+ch21 chapter 21 julia.md: 7/7 ✅
+ch22 chapter 22 ren.md: 7/7 ✅
+ch23 chapter 23 julia.md: 7/7 ✅
+ch24 chapter 24 ren.md: 7/7 ✅
+ch25 chapter 25 julia.md: 7/7 ✅
+ch26 chapter 26 ren.md: 7/7 ✅
+ch27 chapter 27 julia.md: 8/8 ✅
+ch28 chapter 28 ren.md: 7/7 ✅
+ch29 chapter 29 julia.md: 7/7 ✅
+ch30 chapter 30 ren.md: 7/7 ✅
+ch31 chapter 31 julia.md: 7/7 ✅
+ch32 chapter 32 ren.md: 7/7 ✅
+ch33 chapter 33 julia.md: 6/6 ✅（另有 1 条短引语未校验）
+ch34 chapter 34 ren.md: 8/8 ✅
+ch35 chapter 35 julia.md: 8/8 ✅
+ch36 chapter 36 ren.md: 8/8 ✅
+ch37 chapter 37 julia.md: 8/8 ✅
+ch38 chapter 38 ren.md: 6/6 ✅
+ch39 chapter 39 julia.md: 6/6 ✅
+ch40 chapter 40 ren.md: 8/8 ✅
+ch41 chapter 41 julia.md: 7/7 ✅
+ch42 chapter 42 ren.md: 7/7 ✅
+ch43 chapter 43 julia.md: 7/7 ✅
+ch44 chapter 44 ren.md: 7/7 ✅
+ch45 chapter 45 julia.md: 7/7 ✅
+ch46 chapter 46 ren.md: 7/7 ✅
+ch47 chapter 47 julia.md: 7/7 ✅
+ch48 chapter 48 ren.md: 7/7 ✅
+ch49 chapter 49 julia.md: 7/7 ✅
+ch50 chapter 50 ren.md: 7/7 ✅
+ch51 chapter 51 julia.md: 7/7 ✅
+ch52 chapter 52 ren.md: 7/7 ✅（另有 1 条短引语未校验）
+ch53 chapter 53 julia.md: 7/7 ✅
+ch54 chapter 54 ren.md: 4/4 ✅
+ch55 chapter 55 julia.md: 8/8 ✅
+ch56 chapter 56 ren.md: 7/7 ✅
+ch57 chapter 57 julia.md: 8/8 ✅
+ch58 chapter 58 ren.md: 7/7 ✅
+ch59 chapter 59 julia.md: 8/8 ✅
+
+⚠️ 全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 442/442 引文可核实（100%）；完全干净文件 60/60；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+词条行合计: 1350
+
+--- FAIL (0) ---
+
+--- WARN (77) ---
+  ch01 chapter 1 julia.md [基础] 基础档疑含超纲词「assistant professor」
+  ch01 chapter 1 julia.md [基础] 基础档疑含超纲词「moderately irksome」
+  ch03 chapter 3 julia.md [基础] 基础档疑含超纲词「heightened reflexes」
+  ch05 chapter 5 julia.md [基础] 基础档疑含超纲词「threshold」
+  ch06 chapter 6 ren.md [基础] 基础档疑含超纲词「janitorial crew」
+  ch06 chapter 6 ren.md [基础] 基础档疑含超纲词「kindergarten teacher」
+  ch08 chapter 8 ren.md [基础] 基础档疑含超纲词「natural assumption」
+  ch08 chapter 8 ren.md [基础] 基础档疑含超纲词「unexpected tension」
+  ch10 chapter 10 ren.md [基础] 基础档疑含超纲词「binoculars」
+  ch11 chapter 11 julia.md [基础] 基础档疑含超纲词「carnivorous plants」
+  ch11 chapter 11 julia.md [基础] 基础档疑含超纲词「shortbread cookies」
+  ch12 chapter 12 ren.md [基础] 基础档疑含超纲词「expectant mom」
+  ch12 chapter 12 ren.md [基础] 基础档疑含超纲词「hooded sweatshirt」
+  ch12 chapter 12 ren.md [基础] 基础档疑含超纲词「professional hazard」
+  ch13 chapter 13 julia.md [基础] 基础档疑含超纲词「eucalyptus」
+  ch13 chapter 13 julia.md [基础] 基础档疑含超纲词「overbright sun」
+  ch14 chapter 14 ren.md [基础] 基础档疑含超纲词「hermetically」
+  ch18 chapter 18 ren.md [基础] 基础档疑含超纲词「burnished doors」
+  ch18 chapter 18 ren.md [基础] 基础档疑含超纲词「showpiece」
+  ch19 chapter 19 julia.md [基础] 基础档疑含超纲词「flammable breath」
+  ch19 chapter 19 julia.md [基础] 基础档疑含超纲词「slow-motion landslide」
+  ch19 chapter 19 julia.md [基础] 基础档疑含超纲词「unexpected wave」
+  ch20 chapter 20 ren.md [基础] 基础档疑含超纲词「dismissal」
+  ch20 chapter 20 ren.md [基础] 基础档疑含超纲词「greenhouse cat」
+  ch20 chapter 20 ren.md [基础] 基础档疑含超纲词「intrusion」
+  ch21 chapter 21 julia.md [基础] 基础档疑含超纲词「dozen headlights」
+  ch21 chapter 21 julia.md [基础] 基础档疑含超纲词「fast-food restaurant」
+  ch23 chapter 23 julia.md [高级] 高级档混入常用词「door-to-door」
+  ch23 chapter 23 julia.md [基础] 基础档疑含超纲词「cautionary tale」
+  ch24 chapter 24 ren.md [基础] 基础档疑含超纲词「human traffickers」
+  ch24 chapter 24 ren.md [基础] 基础档疑含超纲词「unremarkable gray」
+  ch25 chapter 25 julia.md [基础] 基础档疑含超纲词「cranberry-orange scones」
+  ch27 chapter 27 julia.md [基础] 基础档疑含超纲词「belated honeymoon」
+  ch28 chapter 28 ren.md [基础] 基础档疑含超纲词「billionaire」
+  ch29 chapter 29 julia.md [基础] 基础档疑含超纲词「green comforter」
+  ch29 chapter 29 julia.md [基础] 基础档疑含超纲词「heightened reflexes」
+  ch29 chapter 29 julia.md [基础] 基础档疑含超纲词「imaginary dandelion」
+  ch30 chapter 30 ren.md [基础] 基础档疑含超纲词「carbon footprint」
+  ch30 chapter 30 ren.md [基础] 基础档疑含超纲词「quickening」
+  ch31 chapter 31 julia.md [基础] 基础档疑含超纲词「unexpected swell」
+  ch31 chapter 31 julia.md [基础] 基础档疑含超纲词「whereabouts」
+  ch32 chapter 32 ren.md [基础] 基础档疑含超纲词「nondescript hybrid」
+  ch34 chapter 34 ren.md [基础] 基础档疑含超纲词「cardboard sign」
+  ch34 chapter 34 ren.md [基础] 基础档疑含超纲词「courtroom」
+  ch34 chapter 34 ren.md [基础] 基础档疑含超纲词「housing discrimination」
+  ch34 chapter 34 ren.md [基础] 基础档疑含超纲词「intoxicated」
+  ch34 chapter 34 ren.md [基础] 基础档疑含超纲词「righteous anger」
+  ch35 chapter 35 julia.md [基础] 基础档疑含超纲词「horseshoe-shaped scar」
+  ch35 chapter 35 julia.md [基础] 基础档疑含超纲词「human trafficker」
+  ch36 chapter 36 ren.md [基础] 基础档疑含超纲词「heartburn」
+  ch37 chapter 37 julia.md [基础] 基础档疑含超纲词「fiftieth-anniversary」
+  ch37 chapter 37 julia.md [基础] 基础档疑含超纲词「formality」
+  ch37 chapter 37 julia.md [基础] 基础档疑含超纲词「speedometer」
+  ch39 chapter 39 julia.md [基础] 基础档疑含超纲词「carnivorous plants」
+  ch40 chapter 40 ren.md [基础] 基础档疑含超纲词「light pollution」
+  ch41 chapter 41 julia.md [基础] 基础档疑含超纲词「plexiglass」
+  ch41 chapter 41 julia.md [基础] 基础档疑含超纲词「reception area」
+  ch41 chapter 41 julia.md [基础] 基础档疑含超纲词「abandoned floss」
+  ch42 chapter 42 ren.md [基础] 基础档疑含超纲词「encrypted browser」
+  ch42 chapter 42 ren.md [基础] 基础档疑含超纲词「fierce intensity」
+  ch43 chapter 43 julia.md [基础] 基础档疑含超纲词「baseboard」
+  ch44 chapter 44 ren.md [基础] 基础档疑含超纲词「momentary pang」
+  ch44 chapter 44 ren.md [基础] 基础档疑含超纲词「ultrasound」
+  ch45 chapter 45 julia.md [基础] 基础档疑含超纲词「fingerprinting」
+  ch47 chapter 47 julia.md [基础] 基础档疑含超纲词「old floorboards」
+  ch48 chapter 48 ren.md [基础] 基础档疑含超纲词「lingering irritation」
+  ch50 chapter 50 ren.md [基础] 基础档疑含超纲词「righteous kill」
+  ch51 chapter 51 julia.md [基础] 基础档疑含超纲词「locking mechanism」
+  ch52 chapter 52 ren.md [基础] 基础档疑含超纲词「motor functions」
+  ch53 chapter 53 julia.md [基础] 基础档疑含超纲词「reception desk」
+  ch53 chapter 53 julia.md [基础] 基础档疑含超纲词「toxic relationship」
+  ch54 chapter 54 ren.md [基础] 基础档疑含超纲词「admiration」
+  ch54 chapter 54 ren.md [基础] 基础档疑含超纲词「situation」
+  ch55 chapter 55 julia.md [基础] 基础档疑含超纲词「lit stairwell」
+  ch57 chapter 57 julia.md [基础] 基础档疑含超纲词「abandoned surfboard」
+  ch57 chapter 57 julia.md [基础] 基础档疑含超纲词「thunderclap」
+  ch58 chapter 58 ren.md [高级] 高级档混入常用词「face-first」
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== 编辑损坏扫描（before-she-finds-me-by-heather-chavez）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+=== 引语整串 flat 比对（before-she-finds-me-by-heather-chavez）===
+  参照集：text/ 逐章（59 章，可定章） + epub 交叉验证
+  ✅ 本章命中 417 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 3 条归 check_short_quotes；无章可对 0 条未判）
+
+=== c 步：结构 ===
+=== 精读结构扫描（before-she-finds-me-by-heather-chavez）===
+  扫 62 个 md、474 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 7
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+=== 总览整串核查（before-she-finds-me-by-heather-chavez）===
+  参照集：text/ 逐章（59 章） ｜ 总览文件 3 个
+  A 整串：命中 35 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 6
+  B 章节标签：对 20 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 15 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 17 ｜ 不符 0（**只报不判红**）｜ 跳过 30
+  C 跨章多重命中：2 ｜ E H1 语义错配：0
+  ⚠️ 00_概述.md:32  同一句在 2 章出现（ch32,ch33），章节标注有歧义：What do you think is more important:
+  ⚠️ 00_金句精选.md:127  同一句在 2 章出现（ch32,ch33），章节标注有歧义：What do you think is more important:
+
+=== d 步：第二实现三个 ===
+=== 独立结构扫描：59 个 md，缺陷 0 处 ===
+=== chNN 引用 141 处：英文证据报警 0 处 ／ 中文式待人判 141 处 ===
+抽出分析层英文片段 970 条
+✅ 全部片段在全书 text/ 逐字命中
+
+=== d 步：计数断言 ===
+=== 计数断言核查（before-she-finds-me-by-heather-chavez）===
+  扫 62 个 md；抓到断言 46 条（含不可机械核查的年龄/百分比 15 条）
+  词数口径：连写算 1 词（`well-known`=2、`don't`=1）—— 差 1 极可能是口径而非错误
+  ❌ 不符（差 ≥2）0 ｜ ⚠️ 差 1 2 ｜ ❓ 参照串未解析未判 7 ｜ ⚪ 不可机械核查 15
+  ⚠️ ch17 chapter 17 julia.md:96  「三个Maybe」→ 本块引语出现 2 次
+       参照：本块引语：Julia wanted so badly to believe it was a random a
+  ⚠️ ch38 chapter 38 ren.md:24  「一个better at」→ 本块引语出现 2 次
+       参照：本块引语：Nolan was better at picking locks, so he took the 
+  ❓ 00_情感节点.md:80  「一个词」参照串未解析 —— 需人判
+  ❓ 00_概述.md:32  「两个字」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch13 chapter 13 julia.md:86  「两个字」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch33 chapter 33 julia.md:96  「两个asshole」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch36 chapter 36 ren.md:36  「一个which」「N 个」是指示代词或数的不是 token 本身（修饰名/结构），不判 —— 需人判
+  ❓ ch43 chapter 43 julia.md:60  「一个词」参照串为同行片段，指向不明 —— 需人判
+  ❓ ch59 chapter 59 julia.md:110  「一个字」「N 个词」指引语内某子短语，无法机械定位，不判（整条引语 10 词） —— 需人判
+  ⚪ 00_情感节点.md:10  「三十八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_情感节点.md:10  「十八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_情感节点.md:32  「十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_概述.md:10  「三十八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_金句精选.md:39  「十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch04 chapter 4 ren.md:68  「十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch10 chapter 10 ren.md:14  「十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch15 chapter 15 julia.md:10  「十五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch15 chapter 15 julia.md:38  「十五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch15 chapter 15 julia.md:48  「十五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch28 chapter 28 ren.md:68  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch28 chapter 28 ren.md:72  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch29 chapter 29 julia.md:10  「十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch45 chapter 45 julia.md:74  「十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch45 chapter 45 julia.md:98  「十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
