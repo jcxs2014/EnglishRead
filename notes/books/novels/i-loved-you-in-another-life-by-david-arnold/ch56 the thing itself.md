@@ -17,7 +17,7 @@ modified: "2026-09-30"
 
 **叙事手法**： 全章是一段课堂问答，作者用「提问—回答」把两条线扣在一起：写作题（虚构人物 Mila Henry 的处境）与他自己的处境逐字重叠。台词本身是双义的，读者读一遍觉得在说小说，第二遍发现全在说 Evan。结尾靠一个重复的短语（Value in the thing, yes?）锁死这个双关。
 
-**时间线**： 当代线，Evan 线；课上讨论的是 1950 年代的切尔西，课本身紧接上一章那个吻之后的第二天（Evan 自认 never been this distracted）。
+**时间线**： 当代线，Evan 线；课上讨论的是 1950 年代的切尔西，课本身紧接上一章那个吻之后的第二天（Evan 自认 I cannot recall ever being this distracted）。
 
 **POV**： Evan（第一人称）。
 

@@ -75,7 +75,7 @@ modified: "2026-09-30"
 
 **中文理解**： 有这么一种感觉——我最近越来越熟悉它了——就是被人彻底看穿、完全拿住的感觉。
 
-**关键词**： becoming familiar with（越来越熟悉）；absolutely owned（被彻底拿住）
+**关键词**： become familiar with（变得熟悉）；absolutely owned（被彻底拿住）
 
 **为什么这样写**： 作者把「被看穿」写成 owned（被拥有）而不是 seen（被看见）——owned 是所有权的动词，暗示被看穿的那一刻连解释权都归了对方。插入语 which I’ve recently become familiar with 让这个感觉显得是新的，但同时留了一个未完成的宾语：他熟悉的是这种感觉，还是那种「自己刚刚熟悉了某种感觉」的恍惚？作者不写答案，只把它留成一根线头。
 
