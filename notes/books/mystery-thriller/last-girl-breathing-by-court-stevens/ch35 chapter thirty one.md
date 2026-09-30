@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：周日上午。Harry Potter 壁橱 → 屋顶露台（打给 Dana）→ 自己的房间翻找 Martin 的证据（三个小时无果）→ 厨房（与 Robert 的那场对话）。
-- **一句话概括：这一章是全书第一场正面谈判，而双方都没能说服对方**：Dana 的短信带来两条消息——找到凶器了，是 Neil 的；Robert 悬赏十万、Owl 已被迫公开那段视频。Lucy 下楼把二十一万六千美元、经纪人的邮件、溃坝前想买 LaRue 这些账全摆给 Robert（并说：Owl 说我要告诉你，信你），Robert 承认他出的律师钱，但同时给出条件与判决：我要我儿子回来；在他儿子被洗清之前，他只看得到一个嫉妒、愤怒、受损、手里有凶器的孩子；而他贴在 Lucy 耳边的那句威胁——Neil Clark 永远不许进这个 house——把这场对话推到了不可能和解的位置。
+- **一句话概括**：这一章是全书第一场正面谈判，而双方都没能说服对方：Dana 的短信带来两条消息——找到凶器了，是 Neil 的；Robert 悬赏十万、Owl 已被迫公开那段视频。Lucy 下楼把二十一万六千美元、经纪人的邮件、溃坝前想买 LaRue 这些账全摆给 Robert（并说：Owl 说我要告诉你，信你），Robert 承认他出的律师钱，但同时给出条件与判决：我要我儿子回来；在他儿子被洗清之前，他只看得到一个嫉妒、愤怒、受损、手里有凶器的孩子；而他贴在 Lucy 耳边的那句威胁——Neil Clark 永远不许进这个 house——把这场对话推到了不可能和解的位置。
 - **情感弧线位置**：第一部收束（也是全书亲子关系的最低点）——Robert 从「父亲」短暂变回「商人」再变回「父亲」，而 Lucy 第一次把自己放到父亲的对立面求他掏钱救人。
-- **叙事手法：第一人称；婴儿照相册作为谈判桌（Robert 一边翻 Martin 的婴儿册一边回答）；Lucy 的心理预演（There are a million ways he might respond）与他的实际反应并置；「I want my son back」一句把整场谈判折成一句；结尾以贴耳的威胁收束，句子的物理距离（mouth to my ear）就是她的处境。
-- **线索进展：① Dana：找到凶器，是 Neil 的 Ruger；② Robert 悬赏十万美元征集 arrest 线索；③ Owl 已把视频发布到社媒；④ Lucy 翻 Martin 的房间三小时，一无所获；⑤ 她当面问 Robert：每月给 Deuce 的钱（$216k）、经纪人的邮件、溃坝前想买 LaRue；⑥ Robert 的答复含一句新事实：Neil 去年夏天在 Grand Hydro 上涂鸦；⑦ Clarks 家负债三万多美元（大学学费与奥运训练），房子卖得起买不回；⑧ Grand Hydro 成功后 Cleary County 房价从八万涨到三四十万；⑨ Molly 来电：警察已到 Clark 家，她不知道 Neil 在哪；⑩ Robert 的条件：他帮 Neil 请律师，代价是 Neil 永不许进这栋房子，且若他查明 Neil 杀了 Martin，他会在自己家门口开枪。
+- **叙事手法**：第一人称；婴儿照相册作为谈判桌（Robert 一边翻 Martin 的婴儿册一边回答）；Lucy 的心理预演（There are a million ways he might respond）与他的实际反应并置；「I want my son back」一句把整场谈判折成一句；结尾以贴耳的威胁收束，句子的物理距离（mouth to my ear）就是她的处境。
+- **线索进展**：① Dana：找到凶器，是 Neil 的 Ruger；② Robert 悬赏十万美元征集 arrest 线索；③ Owl 已把视频发布到社媒；④ Lucy 翻 Martin 的房间三小时，一无所获；⑤ 她当面问 Robert：每月给 Deuce 的钱（$216k）、经纪人的邮件、溃坝前想买 LaRue；⑥ Robert 的答复含一句新事实：Neil 去年夏天在 Grand Hydro 上涂鸦；⑦ Clarks 家负债三万多美元（大学学费与奥运训练），房子卖得起买不回；⑧ Grand Hydro 成功后 Cleary County 房价从八万涨到三四十万；⑨ Molly 来电：警察已到 Clark 家，她不知道 Neil 在哪；⑩ Robert 的条件：他帮 Neil 请律师，代价是 Neil 永不许进这栋房子，且若他查明 Neil 杀了 Martin，他会在自己家门口开枪。
 
 ## 精读
 

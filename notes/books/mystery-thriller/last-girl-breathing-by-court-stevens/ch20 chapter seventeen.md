@@ -8,7 +8,7 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：同一天夜里（约午夜前）。Carlin 家的车道 → 厨房——那个看得见自家草坪与 Grand Hydro、看不见 LaRue 的厨房。
-- **一句话概括：Robert 连夜请来的不是枪，是一个带金毛狗的女人**——Dana Jones（前 FBI 探员、失踪人口调查员，找回率 94%）；她在厨房里先为这家人的伤口道歉，再把办案的次序摆上桌：把「推定活着的人」放在死者之前（morality 与 statistics 两关），于是矛头先指向 Astrid；临走她反过来给 Robert 留了一道考题——你能不能找到杀了 Martin 的人？
+- **一句话概括**：Robert 连夜请来的不是枪，是一个带金毛狗的女人——Dana Jones（前 FBI 探员、失踪人口调查员，找回率 94%）；她在厨房里先为这家人的伤口道歉，再把办案的次序摆上桌：把「推定活着的人」放在死者之前（morality 与 statistics 两关），于是矛头先指向 Astrid；临走她反过来给 Robert 留了一道考题——你能不能找到杀了 Martin 的人？
 - **情感弧线位置**：重心的转移（第一部悬置的终点）——私人痛苦被转成调查程序；Lucy 也第一次在别人的棋局里看清自己的位置（不是当事人，而是那个永远在扮演 rescuer 的人）。
 - **叙事手法**：第一人称；对白为主体（Dana 的职业陈述 vs Robert 的商人回价）；中间插入 google/Wikipedia 式的档案检索段（一次性交底人物来历）；一只狗（Galen）担任全场的温度调节器；厨房的取景框（看得见 lawn 与大坝，看不见 LaRue）本身就是一段评论。
 - **线索进展**：① Dana Jones：前 FBI；那桩媒体称作 Gemini Thief 的失踪案改变了她的职业轨迹；离职后专做失踪人口，找回率 94%；公司名 Jones Investigation Inc.；② 她设定的办案次序：presumed living 优先于 dead，因此第一目标是找到 Astrid；③ 她把 Martin 的死称为 murder（murder 一词让在场所有人一颤），并把地点与当年的溃坝、Deuce、Astrid 并列成一条线；④ 她把调查回溯到公司与家族的起源：LaRue 原属 Jack Rickard，溃坝后 Robert 从他手里买下这块地建 Grand Hydro；⑤ Robert 的雇用条件：结论先给他本人过目、不与媒体接触；⑥ 收尾：Dana 反过来请 Robert 去查杀他儿子的人，Robert 答应，并说「我会不挡你的路」。

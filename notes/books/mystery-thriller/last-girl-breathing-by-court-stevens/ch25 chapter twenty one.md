@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：雾中的 LaRue 指挥中心帐篷外 → Dana 的吉普（沿撤离后的车队慢慢挪）。雾又起，两小时的雾还压着搜索。
-- **一句话概括：Owl 当众把 Martin 的整套怀疑推翻了**——「那是一场自然灾害，我儿子当时还是个孩子，孩子。」「除非 Robert 就是大自然 Mother Nature，Martin 满嘴胡话」；媒体在雾里追问，Owl 一声「不」把所有人逼退；随后他在 Dana 的车里卸了力（像浴缸里的水一样流走），被 Lucy 抱住式的问话安抚，转身用一句「Whatever it takes, for as long as it takes」买下了寻找 Astrid 的全部时间——而全章最后，他没能把那句话说完：「我不能再承受一个……」
+- **一句话概括**：Owl 当众把 Martin 的整套怀疑推翻了——「那是一场自然灾害，我儿子当时还是个孩子，孩子。」「除非 Robert 就是大自然 Mother Nature，Martin 满嘴胡话」；媒体在雾里追问，Owl 一声「不」把所有人逼退；随后他在 Dana 的车里卸了力（像浴缸里的水一样流走），被 Lucy 抱住式的问话安抚，转身用一句「Whatever it takes, for as long as it takes」买下了寻找 Astrid 的全部时间——而全章最后，他没能把那句话说完：「我不能再承受一个……」
 - **情感弧线位置**：第一部收束前的最低点（Owl 个人）——父亲在众人面前守住自然灾难的结论、私下却付不出第二笔钱；本节把「搜寻」这件公共事务换算成一个父亲的极限。
-- **叙事手法：第一人称；公开与私密的两次切换（帐篷外的 growl 与吉普里的耳语）；用身体写疲惫（energy drains like water in a tub、head snaps up、pats my head awkwardly）；把媒体与围观者写成雾里的饥饿（blurs of motion、chomping at the bit）；结尾以一句未完成的话加一句作者的注释收束（He doesn’t say death. He doesn’t have to.）。
-- **线索进展：① Owl 对外的官方立场：溃坝是自然灾害，十二英寸雨量，任何同尺寸的大坝都会垮；② 他当众否认了土地与付款两条线（property thing 很可能什么都不是、Deuce 那笔钱完全是场闹剧）；③ 电台里下令叫 Declan 来指挥帐篷，并央求一小时清静（Declan 报告雾还有两小时）；④ 两小时的雾对 Astrid 意味着她还活着——这是全书第一次把天气当作希望的证据；⑤ Owl 主动付钱雇 Dana 找 Astrid，价钱与时长不限；⑥ 未完成的那句话：他不能再承受一次死亡。
+- **叙事手法**：第一人称；公开与私密的两次切换（帐篷外的 growl 与吉普里的耳语）；用身体写疲惫（energy drains like water in a tub、head snaps up、pats my head awkwardly）；把媒体与围观者写成雾里的饥饿（blurs of motion、chomping at the bit）；结尾以一句未完成的话加一句作者的注释收束（He doesn’t say death. He doesn’t have to.）。
+- **线索进展**：① Owl 对外的官方立场：溃坝是自然灾害，十二英寸雨量，任何同尺寸的大坝都会垮；② 他当众否认了土地与付款两条线（property thing 很可能什么都不是、Deuce 那笔钱完全是场闹剧）；③ 电台里下令叫 Declan 来指挥帐篷，并央求一小时清静（Declan 报告雾还有两小时）；④ 两小时的雾对 Astrid 意味着她还活着——这是全书第一次把天气当作希望的证据；⑤ Owl 主动付钱雇 Dana 找 Astrid，价钱与时长不限；⑥ 未完成的那句话：他不能再承受一次死亡。
 
 ## 精读
 
@@ -71,7 +71,7 @@ modified: "2026-10-01"
 | deflated | （被拒绝后）泄了气的 | The reporter retreats into the fog, deflated. |
 | collapses | （一下子）瘫软 | I join Galen in the back and Owl collapses in the front passenger seat. |
 | messenger | （传递坏消息的）信使 | “I know better than to shoot the messenger,” he says and wraps his arm awkwardly behind the headrest to pat my head. |
-| headrest | （座椅）头枕 | “I know better than to shoot the messenger,” he says and wraps his arm awkwardly behind the headrest to pat my head. |
+| headrest | （座椅的）头枕 | “I know better than to shoot the messenger,” he says and wraps his arm awkwardly behind the headrest to pat my head. |
 | Terrified | 极度害怕的 | “Terrified,” he answers. |
 
 ### ⭐ 基础
@@ -83,7 +83,7 @@ modified: "2026-10-01"
 | energy drains | 力气（一点一点）流走 | The energy drains out of him like water in a tub. |
 | fog | 浓雾 | Maybe it’s the fog. |
 | murders | （复数）谋杀案 | Maybe it’s the murders. |
-| arm | 手臂 | he wraps his arm awkwardly behind the headrest to pat my head |
+| arm | 手臂 |  “I know better than to shoot the messenger,” he says and wraps his arm awkwardly behind the headrest to pat my head. |
 
 
 ## 一句话总结

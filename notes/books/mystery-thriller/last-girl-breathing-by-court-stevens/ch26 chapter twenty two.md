@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：同一天的午后。Parson's Landing 的私人包间（整面落地窗对着收割后的玉米田；桌中央一条亮蓝色环氧树脂的「河」）。
-- **一句话概括：账本在包间里摊开**：Robert 的经纪人误转给 Martin 一封邮件，备忘录标题就叫「Deuce payoff」（Deuce 的一次性支付）；Planning and Zoning 的人说 Jack Rickard 多年前就说过不打算把地卖给 Robert Carlin 或 Tamerlane——而 Tamerlane 是 Grand Hydro 的主要投资方；Owl 反复举起十二英寸雨量与溃坝前一周的检查视频；Dana 只问了两句要紧的：他们是被什么枪打死的（Long-range rifle），以及死亡时间（按肝温，两点到四点之间）；Parson 最后给出一个新的方向：Spector 集团——Robert 拒绝在 Grand Junction 建制药厂，那笔十亿美元的交易黄了，这是杀人动机。
+- **一句话概括**：账本在包间里摊开：Robert 的经纪人误转给 Martin 一封邮件，备忘录标题就叫「Deuce payoff」（Deuce 的一次性支付）；Planning and Zoning 的人说 Jack Rickard 多年前就说过不打算把地卖给 Robert Carlin 或 Tamerlane——而 Tamerlane 是 Grand Hydro 的主要投资方；Owl 反复举起十二英寸雨量与溃坝前一周的检查视频；Dana 只问了两句要紧的：他们是被什么枪打死的（Long-range rifle），以及死亡时间（按肝温，两点到四点之间）；Parson 最后给出一个新的方向：Spector 集团——Robert 拒绝在 Grand Junction 建制药厂，那笔十亿美元的交易黄了，这是杀人动机。
 - **情感弧线位置**：第一部与第二部的接缝——线索从「怀疑」升级为「方向」；本节把四个人的口供在同一张桌上对账，而 Parson 那句「Deuce 不可能拿那笔钱」是全书对嫌疑最硬的一次当场反驳。
-- **叙事手法：第一人称；包间场景以一件家具开场（那条蓝色树脂河，同时是镇子的景观与餐桌）；档案逐件呈上（邮件备忘录、投资人、检查视频、肝温）；对白以两种声音交替推进——Owl 的 matter-of-fact 与 Parson 的市井直觉；结尾由一句台词把嫌疑从本地人移向资本（That’s a motive for murder）。
-- **线索进展：① Robert 的经纪人误发给 Martin 的邮件，内容是将资产转走以维持某个预设账户额度，备忘录标题为「Deuce payoff」，Robert 解释为「第二次支付」并让 Martin 别声张；② Tamerlane 是 Grand Hydro 的主要投资方，而 Jack Rickard 多年前就向规划部门表示不打算把地卖给 Robert 或 Tamerlane；③ 官方结论仍是自然灾难（十二英寸雨量、溃坝前一周的坝体检查视频，该视频在联邦法院洗清了 Andy Bedford）；④ 死因：长枪（long-range rifle）；⑤ 死亡时间：两到四点之间（肝温推算）；⑥ Parson 的反证：Deuce 若每月有两千美元进账，就不会为 EMT 课程来借钱；⑦ 嫌疑转向：Spector 集团（被 Robert 拒绝的制药厂项目，上周谈判破裂，损失十亿美元）。
+- **叙事手法**：第一人称；包间场景以一件家具开场（那条蓝色树脂河，同时是镇子的景观与餐桌）；档案逐件呈上（邮件备忘录、投资人、检查视频、肝温）；对白以两种声音交替推进——Owl 的 matter-of-fact 与 Parson 的市井直觉；结尾由一句台词把嫌疑从本地人移向资本（That’s a motive for murder）。
+- **线索进展**：① Robert 的经纪人误发给 Martin 的邮件，内容是将资产转走以维持某个预设账户额度，备忘录标题为「Deuce payoff」，Robert 解释为「第二次支付」并让 Martin 别声张；② Tamerlane 是 Grand Hydro 的主要投资方，而 Jack Rickard 多年前就向规划部门表示不打算把地卖给 Robert 或 Tamerlane；③ 官方结论仍是自然灾难（十二英寸雨量、溃坝前一周的坝体检查视频，该视频在联邦法院洗清了 Andy Bedford）；④ 死因：长枪（long-range rifle）；⑤ 死亡时间：两到四点之间（肝温推算）；⑥ Parson 的反证：Deuce 若每月有两千美元进账，就不会为 EMT 课程来借钱；⑦ 嫌疑转向：Spector 集团（被 Robert 拒绝的制药厂项目，上周谈判破裂，损失十亿美元）。
 
 ## 精读
 
@@ -26,7 +26,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「「花架子先生」「你一个乡巴佬渔夫玩得太高级了，兄弟。」」
 - **关键词**：Mr. Fancy · getting too top shelf · for a country fisherman
-- **为什么这样写**：两声取笑由三个人分别发出，风格却统一——都是把骄傲说成装腔。top shelf（货架最高层＝最好的）与 country fisherman（乡下渔夫）之间那道缝，就是 Parsonson's 全部的野心；作者让取笑先于陈述，把这座餐厅的每一样精致都先押上赌桌。
+- **为什么这样写**：两声取笑由三个人分别发出，风格却统一——都是把骄傲说成装腔。top shelf（货架最高层＝最好的）与 country fisherman（乡下渔夫）之间那道缝，就是 Parson 的 全部的野心；作者让取笑先于陈述，把这座餐厅的每一样精致都先押上赌桌。
 - **读者视角提示**：这两句是 Deuce 与 Neil 的声音存档；它们与本节末 Deuce 收款疑云并读时，读者已知道他们三个当时有多亲。
 
 > **原句 3:** That account memo was titled ‘Deuce payoff.’

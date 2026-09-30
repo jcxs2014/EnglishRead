@@ -89,7 +89,7 @@ modified: "2026-10-01"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | equipment | 装备 | I lift my rifle and equipment bag, throw on an air of conceit, and say, “You know it,” to my coach, then point at my truck. |
-| supposed | （be supposed to）本该、应该 | Neil’s supposed to be in West Virginia. |
+| supposed | 本该、应该 | Neil’s supposed to be in West Virginia. Not Grand Junction. |
 | witnessed | 目睹过 | He’s witnessed more than one of Mom’s panic episodes. |
 | bustling | 热闹的、生意繁忙的 | We step into the bustling kitchen and the aroma is threefold: onions, barbecue, and bacon. |
 | promised | 答应（许诺） | “Oh, I promised Astrid,” he says, attempting a weak smile, his jaw locked. |

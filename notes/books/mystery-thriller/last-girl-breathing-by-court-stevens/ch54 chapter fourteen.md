@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：同一天的傍晚。纳什维尔以北 → Grand Junction 市界的绿色路牌 → River Road → 家门口 → 后院。
-- **一句话概括：她回到的这个镇子，为她准备的不是葬礼而是一次靶场狂欢**：路牌上写着「Hometown of Olympic Bronze Medalist Lucy Michaels」，而母亲、Molly 与 Wilma 三个女人在后院摆了一张「弹药与葡萄酒台」，轮流打十发——Molly 打完转身对她说「我们为你骄傲」，随即又打出十发；四个男人不在，因为 Robert 与他们在坝的另一边开记者会；明天的安排是——露营家族全体去 LaRue 营地种球茎，Forever，而她心里那句关于 Wilma 的诙谐判词是：Wilma's more quintessentially Southern than bacon grease in green beans.
+- **一句话概括**：她回到的这个镇子，为她准备的不是葬礼而是一次靶场狂欢：路牌上写着「Hometown of Olympic Bronze Medalist Lucy Michaels」，而母亲、Molly 与 Wilma 三个女人在后院摆了一张「弹药与葡萄酒台」，轮流打十发——Molly 打完转身对她说「我们为你骄傲」，随即又打出十发；四个男人不在，因为 Robert 与他们在坝的另一边开记者会；明天的安排是——露营家族全体去 LaRue 营地种球茎，Forever，而她心里那句关于 Wilma 的诙谐判词是：Wilma's more quintessentially Southern than bacon grease in green beans.
 - **情感弧线位置**：第三部第一道缓坡（不是痊愈，是「站着」）——她到家、被人拥抱、被一个母亲以外的人说「我为你骄傲」、也被同一个拒绝；但她活在这道复合情绪里，继续往前。
-- **叙事手法：第一人称；开篇用「回家这件事由故事而非史实表达」的议论定调，再给出全书最短的一句自述（Grand Junction is the place my brothers died）；中段用听觉写抵达（十发一轮的 cadence）；后院的场景被写成一场混着笑声与哭声的靶场社交（Molly 的十发、Wilma 的 Mark IV 粉银 Ruger）；「种球茎」这个葬礼方案在最后一刻才说出，而它的意义被那句「broken places 仍有美」轻轻托住。
-- **线索进展：① 市界路牌写了她（铜牌）；② Robert、Owl、Parson、Danny 不在家——他们在坝的另一侧开记者会，把三个女人隔开；③ 三个女人在射十发（酒与弹药）；④ Molly 是射术好手（Neil 的鹰眼来自她）；⑤ Wilma 常年带着一把 Mark IV 粉银 Ruger 与警用扫描器；⑥ 计划：明天在 LaRue 营地种球茎（不办传统葬礼，避开媒体）；⑦ 他们还要为所有孩子举办一次「说话」的仪式，是否包含 Astrid 仍在商议；⑧ Dana 的要求：她必须看起来正常、准备冲金牌（在此期间不给凶手任何理由针对她）。
+- **叙事手法**：第一人称；开篇用「回家这件事由故事而非史实表达」的议论定调，再给出全书最短的一句自述（Grand Junction is the place my brothers died）；中段用听觉写抵达（十发一轮的 cadence）；后院的场景被写成一场混着笑声与哭声的靶场社交（Molly 的十发、Wilma 的 Mark IV 粉银 Ruger）；「种球茎」这个葬礼方案在最后一刻才说出，而它的意义被那句「broken places 仍有美」轻轻托住。
+- **线索进展**：① 市界路牌写了她（铜牌）；② Robert、Owl、Parson、Danny 不在家——他们在坝的另一侧开记者会，把三个女人隔开；③ 三个女人在射十发（酒与弹药）；④ Molly 是射术好手（Neil 的鹰眼来自她）；⑤ Wilma 常年带着一把 Mark IV 粉银 Ruger 与警用扫描器；⑥ 计划：明天在 LaRue 营地种球茎（不办传统葬礼，避开媒体）；⑦ 他们还要为所有孩子举办一次「说话」的仪式，是否包含 Astrid 仍在商议；⑧ Dana 的要求：她必须看起来正常、准备冲金牌（在此期间不给凶手任何理由针对她）。
 - （ch55 是插叙「That Weekend」。）
 
 ## 精读
@@ -90,7 +90,7 @@ modified: "2026-10-01"
 | potluck suppers | 百乐餐 | I tell Dana how in the old days we’d host potluck suppers and shoot cans and targets, the kids begging for a chance to compete with the adults. |
 | bulbs | （花）球茎 | We’re just the camping crew, gathering in LaRue tomorrow, there at the campground. We’re plantin’ all sorts of bulbs that will flower in the fall and spring. |
 | scanner | （警用）扫描器 | For as long as I can remember, Wilma has carried a Mark IV pink and silver Ruger in her purse, right next to her police scanner. |
-| guts out | （被打得）稀烂 | The center of the paper target is completely gutted at the end of her ten reps. |
+| gutted | （被打得）稀烂 | The center of the paper target is completely gutted at the end of her ten reps. |
 
 ## 一句话总结
 

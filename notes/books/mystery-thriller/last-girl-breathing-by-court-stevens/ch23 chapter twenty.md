@@ -8,9 +8,9 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：搜救被雾逼停后的又一个白日。Dana 的吉普（副驾坐着服务犬 Galen）→ Parson's Landing → LaRue 指挥中心（Owl 一个人坐在冷藏箱角落）。正午前后，第二波雾又把搜索者赶回车里。
-- **一句话概括：这是全书信息量最大的一章**：车里两个家庭的家底被交底；到指挥中心，Lucy 向 Owl 认了错（翘课），然后把压了两天的东西一件件倒出来——Martin 去 Planning and Zoning 要过地图与地契记录；PoppaJack 在溃坝后被诊断出痴呆、写信恳求家人不要来看他、随即搬去 Tampa；Robert 溃坝前曾想买下 LaRue；Martin 手上的证据是：Robert 自溃坝起每月付给 Deuce 两千美元、累计约 216,000 美元，他由此认定有人炸了大坝建 Grand Hydro，而拿钱的那个人就是 Deuce。
+- **一句话概括**：这是全书信息量最大的一章：车里两个家庭的家底被交底；到指挥中心，Lucy 向 Owl 认了错（翘课），然后把压了两天的东西一件件倒出来——Martin 去 Planning and Zoning 要过地图与地契记录；PoppaJack 在溃坝后被诊断出痴呆、写信恳求家人不要来看他、随即搬去 Tampa；Robert 溃坝前曾想买下 LaRue；Martin 手上的证据是：Robert 自溃坝起每月付给 Deuce 两千美元、累计约 216,000 美元，他由此认定有人炸了大坝建 Grand Hydro，而拿钱的那个人就是 Deuce。
 - **情感弧线位置**：第一部真相的最深一层被翻上来——Deuce 不只是死者，他可能是被买通的目击者；说出这句话的代价，由 Owl 与 Robert 各自承担。
-- **叙事手法：第一人称；车里（巡访）—餐厅—指挥中心三段推进；对白与档案并列（Planning and Zoning、地产记录、护理员代读的信、数额）；Owl 的两句关键台词形成框架（This kid is gold / 请别再叫我回家）；母亲那边用留字条与一剂 Valium 猜测一笔带过；最后一段用数字（两千美元、约 216,000）落地全书最重的怀疑。
+- **叙事手法**：第一人称；车里（巡访）—餐厅—指挥中心三段推进；对白与档案并列（Planning and Zoning、地产记录、护理员代读的信、数额）；Owl 的两句关键台词形成框架（This kid is gold / 请别再叫我回家）；母亲那边用留字条与一剂 Valium 猜测一笔带过；最后一段用数字（两千美元、约 216,000）落地全书最重的怀疑。
 - **线索进展**：① Martin 决定寻找 Clay 的遗骸，并去 Planning and Zoning 索取地图与地契记录；② PoppaJack 在溃坝后被诊断为痴呆（护理员 Salome 代读他写好的信），恳求家人不要来看他，随后迁居 Tampa；③ 溃坝前 Robert 曾试图买下 LaRue 的土地（Owl 说 Jack 从未提过）；④ 有邮件能证明 Robert 关于土地报价的说法不实；⑤ Martin 认为 Robert 或其下属炸了大坝以建 Grand Hydro；⑥ Robert 自溃坝起每月付 Deuce 两千美元，累计约 216,000 美元；⑦ Martin 由此推断 Deuce 收了这笔钱，计划在当晚球赛后向 Lucy 出示全部证据；⑧ 验尸官正护送尸体前往 Paducah 停尸房（证据链 protocol）。
 
 ## 精读
@@ -80,7 +80,7 @@ modified: "2026-10-01"
 | protectively | 保护性地 | “This kid is gold,” he says, cuffing my shoulder protectively. |
 | dishonesty | 不诚实 | He clearly doesn’t want my dishonesty to cast me in a bad light. |
 | methodical | 有条理的、按步骤的 | He wanted to be methodical about where he searched, and he wanted property records. |
-| Scooby-Doo van | （戏谑）像 Children's TV 侦探剧里那样的面包车 | I told him that was crazy because we were never going to find Clay’s body with a flashlight and a Scooby-Doo van. |
+| Scooby-Doo van | （戏谑）像少儿侦探剧里那样的面包车 | I told him that was crazy because we were never going to find Clay’s body with a flashlight and a Scooby-Doo van. |
 | relocate | （迁居） | My beloved PoppaJack moved abruptly after the dam broke. |
 | diagnosis | （医学）诊断 | His nurse, Salome, called Mom and read her a letter written by him explaining his diagnosis. |
 | dementia | 痴呆症 | His nurse, Salome, called Mom and read her a letter written by him explaining his diagnosis. |

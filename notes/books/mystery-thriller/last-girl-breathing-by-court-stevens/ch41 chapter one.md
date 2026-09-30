@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：第三部。科罗拉多的汽车旅馆 → 印地安纳州 Zionsville（Dana 的调查所与住处，车库上方）；路上十五小时，抵达时零点二十分；次日清晨在 Dana 的小圆桌前喝太烫的茶。
-- **一句话概括：一部跨越段之后的第一个清晨，由一条短信开始**：她住在科罗拉多的汽车旅馆里，收到 Dana 的两条消息（I have a lead on Astrid / Come to Zionsville），当即把全部家当扔进 Nissan 后座往回开——她意识到自己是在「moving backward in time」（往回开进时间里）；两年间她在图书馆做兼职、给 Jones Investigations 做合同工（社媒检索、监控调取、公开档案），靠这两份工钱继续在本地靶场训练、每天背着 Neil 的步枪；而 Dana 这次给的线索是：Michigan City，一座联邦监狱城；一个叫 Ashley Smith 的小提琴教师，配文写着「Ashley Smith is our hero. The best teacher in the world.」
+- **一句话概括**：一部跨越段之后的第一个清晨，由一条短信开始：她住在科罗拉多的汽车旅馆里，收到 Dana 的两条消息（I have a lead on Astrid / Come to Zionsville），当即把全部家当扔进 Nissan 后座往回开——她意识到自己是在「moving backward in time」（往回开进时间里）；两年间她在图书馆做兼职、给 Jones Investigations 做合同工（社媒检索、监控调取、公开档案），靠这两份工钱继续在本地靶场训练、每天背着 Neil 的步枪；而 Dana 这次给的线索是：Michigan City，一座联邦监狱城；一个叫 Ashley Smith 的小提琴教师，配文写着「Ashley Smith is our hero. The best teacher in the world.」
 - **情感弧线位置**：第二部的开门——一个已经把人生压扁到「两份工 + 一支枪」的人，被一条短信拽回悬疑的中心；而全章末尾那句 Unless Astrid has a twin, Dana's right 把希望重新变成危险。
-- **叙事手法：第一人称；开篇三行短信（两条 Dana、一条她）直接把时间线切成两段；回忆里用三个「Good at」排比（做好助理／远程跟进 Neil 的上诉／每天看一百遍那段视频）写她的两年；Dana 用 Facebook 相册里的两张照片（红裙女孩、盘发的年轻女人）完成一次素不相识的辨认；结尾两句一推一收（How? / No way.）把希望与否认同时说出口。
-- **线索进展：① 她住在科罗拉多的汽车旅馆；② Dana 有了 Astrid 的线索，地点 Michigan City（印地安纳州，芝加哥附近）；③ 那里有一座联邦监狱（Neil 曾在信里提过可能申请调往此处）；④ Dana 认定 Astrid 活着，以 Ashley Smith 之名教小提琴；⑤ 证据是一对 Facebook 账号（JoanaandCarson Willoughby）与一张合影（盘发、一丝不苟的年轻女人）；⑥ 配文称她是「our hero / the best teacher in the world」；⑦ 两年里她做了两份额外工作并继续射击；⑧ 她至今认定 Astrid 死在 LaRue。
+- **叙事手法**：第一人称；开篇三行短信（两条 Dana、一条她）直接把时间线切成两段；回忆里用三个「Good at」排比（做好助理／远程跟进 Neil 的上诉／每天看一百遍那段视频）写她的两年；Dana 用 Facebook 相册里的两张照片（红裙女孩、盘发的年轻女人）完成一次素不相识的辨认；结尾两句一推一收（How? / No way.）把希望与否认同时说出口。
+- **线索进展**：① 她住在科罗拉多的汽车旅馆；② Dana 有了 Astrid 的线索，地点 Michigan City（印地安纳州，芝加哥附近）；③ 那里有一座联邦监狱（Neil 曾在信里提过可能申请调往此处）；④ Dana 认定 Astrid 活着，以 Ashley Smith 之名教小提琴；⑤ 证据是一对 Facebook 账号（JoanaandCarson Willoughby）与一张合影（盘发、一丝不苟的年轻女人）；⑥ 配文称她是「our hero / the best teacher in the world」；⑦ 两年里她做了两份额外工作并继续射击；⑧ 她至今认定 Astrid 死在 LaRue。
 
 ## 精读
 

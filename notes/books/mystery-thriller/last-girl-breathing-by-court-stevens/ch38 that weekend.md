@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：溃坝那场长周末的最后一夜（仍属那一串「That Weekend」插叙）。从 Vespers Creek 对岸 → 林子 → Beaver Creek → Indian Mounds 方向；终点是 Duck Pond 边上一片密林。
-- **一句话概括：那一夜的最后一段路，是四个人往高处跑**：Danny 在风里喊「Indian Mounds！最高的地方！」，Deuce 背着 Clay，四个孩子在荆棘与泥里争执方向，跨过 Beaver Creek（滑、苔藓、无处落脚）；一根大树砸下来——Clay 被 Lucy 从泥里提起来抱在胸口，Deuce 的格子 Vans 从枝叶里露出来，他不动；Parson 说「你带 Clay 走，去 Indian Mounds，别靠近 Duck Pond」，把她推走；她抱着 Clay 独自走进褐色森林，回头看不见任何人——然后她想起父母那晚的对话（「感谢上帝我们不跟童子军在一起」），而童子军当时就在这里。
+- **一句话概括**：那一夜的最后一段路，是四个人往高处跑：Danny 在风里喊「Indian Mounds！最高的地方！」，Deuce 背着 Clay，四个孩子在荆棘与泥里争执方向，跨过 Beaver Creek（滑、苔藓、无处落脚）；一根大树砸下来——Clay 被 Lucy 从泥里提起来抱在胸口，Deuce 的格子 Vans 从枝叶里露出来，他不动；Parson 说「你带 Clay 走，去 Indian Mounds，别靠近 Duck Pond」，把她推走；她抱着 Clay 独自走进褐色森林，回头看不见任何人——然后她想起父母那晚的对话（「感谢上帝我们不跟童子军在一起」），而童子军当时就在这里。
 - **情感弧线位置**：全书灾难线的心脏——它把 ch05 的「雨没在当晚来」兑现到最坏：Deuce 被压、Parson 留下、她被遣走，而 Duck Pond 这四个字在此第一次作为禁令被说出。
-- **叙事手法：第一人称；雨的三句反复（kept falling / never slowed / wouldn’t stop）像节拍器切成三段；营救的力学（抓住湿树皮、抬不动、用另一根枝去撬、只有溪在动）；Dad 的口令被拆成单词（Go. To. The. Mounds. / Highest. Ground.）；回忆与当下在结尾处咬合——父母的对话把「庆幸」变成全书最锋利的一句反讽。
-- **线索进展：① 撤退路线：去 Indian Mounds（最高处）；② Beaver Creek 涨水 broke the banks，溪汊让人分不清方向；③ 一棵小树粗的枝干砸落；④ Clay 离被砸中只有几英寸；⑤ Deuce 被压（只露出格子 Vans，不动、不答）；⑥ Parson 与 Lucy 抬不动枝干；⑦ 溪水已经到及踝；⑧ Parson 的命令：带 Clay 走、去 Indian Mounds、离 Duck Pond 远点；⑨ 她抱着 Clay 独自走，回望不见人；⑩ 父母那晚的对话被想起——「感谢上帝我们不跟童子军在一起」。
+- **叙事手法**：第一人称；雨的三句反复（kept falling / never slowed / wouldn’t stop）像节拍器切成三段；营救的力学（抓住湿树皮、抬不动、用另一根枝去撬、只有溪在动）；Dad 的口令被拆成单词（Go. To. The. Mounds. / Highest. Ground.）；回忆与当下在结尾处咬合——父母的对话把「庆幸」变成全书最锋利的一句反讽。
+- **线索进展**：① 撤退路线：去 Indian Mounds（最高处）；② Beaver Creek 涨水 broke the banks，溪汊让人分不清方向；③ 一棵小树粗的枝干砸落；④ Clay 离被砸中只有几英寸；⑤ Deuce 被压（只露出格子 Vans，不动、不答）；⑥ Parson 与 Lucy 抬不动枝干；⑦ 溪水已经到及踝；⑧ Parson 的命令：带 Clay 走、去 Indian Mounds、离 Duck Pond 远点；⑨ 她抱着 Clay 独自走，回望不见人；⑩ 父母那晚的对话被想起——「感谢上帝我们不跟童子军在一起」。
 
 ## 精读
 
@@ -48,7 +48,7 @@ modified: "2026-10-01"
 - **中文理解**：「「你得带上 Clay 走。」Parson 说。」
 - **关键词**：You need to take Clay and go
 - **为什么这样写**：八个词一句祈使，主语是 you，需要带走的是 Clay，动词是 go。need 是唯一的情态动词，而它指向的不是建议（should），是必须（need）。在这句之前他们试过抬枝干、试过撬、试过喊；所有的办法用完之后，剩下的只有一个人带另一个人走。
-- **读者视角提示**：这句话是 Parsonson's 教练本能在最坏的一刻的执行——请把它与他后来那句「I promise」并读。
+- **读者视角提示**：这句话是 Parson 的 教练本能在最坏的一刻的执行——请把它与他后来那句「I promise」并读。
 
 > **原句 6:** “Go that way until you reach the Mounds. And stay away from the Duck Pond.”
 

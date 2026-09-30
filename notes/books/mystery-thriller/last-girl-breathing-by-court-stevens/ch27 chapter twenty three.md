@@ -8,9 +8,9 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：同一天的下午，还是 Parson's Landing 那个私人包间（雾还有至少一小时）。Owl 拒绝走法律程序，Dana 把接力棒交到 Lucy 手里。
-- **一句话概括：这张桌子在法律上动不了**——法官绝不会凭猜测签搜查令；CNN 已经有 Robert 看着他们抬出 Martin 的画面，他有一百万同情者；Owl 说，除非有 Martin 的证据。于是 Dana 把话转回来：Lucy，你抢在警方之前，去问你的继父那笔钱。同时她把公众即将到来的那场马戏提前亮牌（头版、误伤、Andy Bedford 会被重新翻出来、网上每个人的理论），最后 Parson 建议所有人交出枪支——雾散之前不如去翻 Martin 与 Astrid 的房间。
+- **一句话概括**：这张桌子在法律上动不了——法官绝不会凭猜测签搜查令；CNN 已经有 Robert 看着他们抬出 Martin 的画面，他有一百万同情者；Owl 说，除非有 Martin 的证据。于是 Dana 把话转回来：Lucy，你抢在警方之前，去问你的继父那笔钱。同时她把公众即将到来的那场马戏提前亮牌（头版、误伤、Andy Bedford 会被重新翻出来、网上每个人的理论），最后 Parson 建议所有人交出枪支——雾散之前不如去翻 Martin 与 Astrid 的房间。
 - **情感弧线位置**：第一部收束前的清醒——各人各自算自己的账（Robert 的处境、母亲可能的崩溃、自己的两次出现在同一片沼泽），而所有人都在等有人先开口问那笔钱。
-- **叙事手法：第一人称；政策与舆论的宏论被塞进一张餐桌（法条、CNN 画面、narratives、collateral damage、Internet 里的陌生人）；心理独白用排比给自己算账（Asking him about the bribe 就 ka-pow）；射击场的感官记忆被当作情绪急救包调用（视觉、重量、黄色耳塞、憋气）；章末镜头落在盘底的泥上——LaRue 的残渣永远在脚下——以 Images, like moments, aren’t made of equal weight 收束。
+- **叙事手法**：第一人称；政策与舆论的宏论被塞进一张餐桌（法条、CNN 画面、narratives、collateral damage、Internet 里的陌生人）；心理独白用排比给自己算账（Asking him about the bribe 就 ka-pow）；射击场的感官记忆被当作情绪急救包调用（视觉、重量、黄色耳塞、憋气）；章末镜头落在盘底的泥上——LaRue 的残渣永远在脚下——以 Images, like moments, aren’t made of equal weight 收束。
 - **线索进展**：① 搜查令不可能签发（凭推测不行；媒体已有画面；Owl 还有一百万同情者）；② Dana 要求正式讯问 Robert 并调取其财务文件；③ 她要求 Lucy 主动做笔录、无条件配合（你当时就在谋杀窗口附近的 LaRue）；④ 她的建议是让 Lucy 抢在警方之前亲自问 Robert 那笔钱的事；⑤ Parson 建议 Lucy 与 Neil 交出枪支以示配合（Lucy 只有气步枪，Neil 是全国最好的射手）；⑥ Neil 的时间窗（LP 出没时段）同样致命；⑦ Lucy 两点离开射击场，有摄像头的不在场证明。
 
 ## 精读
@@ -61,7 +61,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「LaRue 的残渣永远在脚下。我们都带着它。」
 - **关键词**：Remnants of LaRue · always underfoot · We carry it with us
-- **为什么这样写**：一句由 mud（泥）写出的总结：残渣不是记忆，是脚底那层洗不掉的土。underfoot 与 carry 两个动词把一场灾难从现场搬进身体；而 we（我们）把这层泥分给了全桌人——泥巴在 Parsonson's 昂贵桌面上掉成 V 形，从靴底一路带上餐厅。
+- **为什么这样写**：一句由 mud（泥）写出的总结：残渣不是记忆，是脚底那层洗不掉的土。underfoot 与 carry 两个动词把一场灾难从现场搬进身体；而 we（我们）把这层泥分给了全桌人——泥巴在 Parson 的 昂贵桌面上掉成 V 形，从靴底一路带上餐厅。
 - **读者视角提示**：全书每一次 LaRue 出现都带着这层泥；请记住这个动词组——carry，它贯穿后半部全书。
 
 > **原句 8:** Images, like moments, aren’t made of equal weight.

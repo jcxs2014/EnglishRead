@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：同一天的下午。Parson’s Landing 的私人包间（桌上还放着那支 Ruger）；她即将独自前往旧坝址。
-- **一句话概括：这一章是全书唯一一次她被人当面说「你着魔了」**：Parson 后退到墙边，劝她别去（Someone's messing with you）；他给出一个她没料到的反驳——那张威胁条是 Robert 的不在场证明（他正要因大坝入狱，那张条子是为了防止再被追加一条谋杀指控；而 Danny 为什么要设自己的儿子？）；他们额头抵着额头数了三口气，他问她在哪里见，她答「在旧坝那边」，他要跟，她拒绝，最后他松开手说：You deserve to live；她仍然去了——不是去送死，是去拿钥匙：I need someone to blame for Clay's death besides myself.
+- **一句话概括**：这一章是全书唯一一次她被人当面说「你着魔了」：Parson 后退到墙边，劝她别去（Someone's messing with you）；他给出一个她没料到的反驳——那张威胁条是 Robert 的不在场证明（他正要因大坝入狱，那张条子是为了防止再被追加一条谋杀指控；而 Danny 为什么要设自己的儿子？）；他们额头抵着额头数了三口气，他问她在哪里见，她答「在旧坝那边」，他要跟，她拒绝，最后他松开手说：You deserve to live；她仍然去了——不是去送死，是去拿钥匙：I need someone to blame for Clay's death besides myself.
 - **情感弧线位置**：第三部最温的一场对峙（两个人都想保护对方）——Parson 用全世界最不该用的三个字（obsessed）来劝退，她用额头抵住额头拒绝；本节结束时她两手空空地出门，却带着一支枪。
-- **叙事手法：第一人称；对峙以身体距离计量（背抵墙、掌心贴在手臂上、额头相抵、脸与嘴相隔几英寸）；Parsonson's 那段劝说用排比（let this go / don't meet this crazy person / accept that someday）；两人各自用承诺与拒绝对话（Promise me. / I can't.）；结尾把「武装」二字单独成段。
-- **线索进展：① 她认定 KaYakittyYak 就是 Astrid；② Parson 的新论：那张匿名条是 Robert 的不在场证明；③ 他指出 Danny 不会设自己的儿子；④ 她拒绝停手；⑤ 会面地点：旧坝址；⑥ 只有她与 Dana 知情；⑦ Parson 要她去「拿了金牌之后去加拿大打大猎物」——她说不去；⑧ 她出门时带着枪（那一支）。
+- **叙事手法**：第一人称；对峙以身体距离计量（背抵墙、掌心贴在手臂上、额头相抵、脸与嘴相隔几英寸）；Parson 那段劝说用排比（let this go / don't meet this crazy person / accept that someday）；两人各自用承诺与拒绝对话（Promise me. / I can't.）；结尾把「武装」二字单独成段。
+- **线索进展**：① 她认定 KaYakittyYak 就是 Astrid；② Parson 的新论：那张匿名条是 Robert 的不在场证明；③ 他指出 Danny 不会设自己的儿子；④ 她拒绝停手；⑤ 会面地点：旧坝址；⑥ 只有她与 Dana 知情；⑦ Parson 要她去「拿了金牌之后去加拿大打大猎物」——她说不去；⑧ 她出门时带着枪（那一支）。
 - （ch64 是那段记忆的最后一格。）
 
 ## 精读
@@ -76,6 +76,10 @@ modified: "2026-10-01"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
+| emphatic | （语气）坚决的 | “No.” He’s emphatic but firm. |
+| resigned | （无可奈何的） | “Where are you meeting her?” he asks, resigned. |
+| vulnerable | （罕见的）脆弱 | He is more vulnerable than I have ever seen him. |
+| ceremony | （仪式感） | “Fine,” he relents. |
 
 ### ⭐ 基础
 

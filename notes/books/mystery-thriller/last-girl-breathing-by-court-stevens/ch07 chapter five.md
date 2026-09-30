@@ -96,7 +96,7 @@ modified: "2026-10-01"
 | megaphone | 扩音器 | Right on cue, a megaphone pierces the air with a staticky pop. |
 | check-in | （搜救队的）报到签到 | A formal check-in process will begin soon. |
 | task force | 专案组 | Search and rescue are part of emergency management—Kentucky Task Force 1 |
-| protocol | 操作规程 | They are trained on missing person cases and protocol in the state of Kentucky. |
+| protocol | 操作规程 | Search and rescue are part of emergency management—Kentucky Task Force 1—and are trained on missing person cases and protocol in the state of Kentucky. |
 | search parties | 搜索队 | According to state law, they have to lead the search parties and they’ll decide if volunteers are allowed to help. |
 
 ### ⭐ 基础

@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：同一天上午到傍晚。坦帕的卡车里 → 又一家汽车旅馆（她没有去靶场，也没有上高速）。
-- **一句话概括：这一章是全书唯一一次她与自己的信任决裂**：Dana 在电话里连喊三遍「Lucy！」并说「Owl? No way. Not possible.」，而她自己给出的反驳一条比一条具体（他叫停了雾里的搜寻；他可能控制了我们走的路线；他就在发现遗体的那几支队伍里）；她想起 PoppaJack 嘴里那个「baby girl」——他是一个愿意替人保密的人；她想起了自己父亲（Did my father find out about Mom's infidelity?）；最后她给出了一个比恨更冷的词：失望（disappointment is different from anger），把手机整个关掉，躺下去问自己是否还在乎明早醒来。
+- **一句话概括**：这一章是全书唯一一次她与自己的信任决裂：Dana 在电话里连喊三遍「Lucy！」并说「Owl? No way. Not possible.」，而她自己给出的反驳一条比一条具体（他叫停了雾里的搜寻；他可能控制了我们走的路线；他就在发现遗体的那几支队伍里）；她想起 PoppaJack 嘴里那个「baby girl」——他是一个愿意替人保密的人；她想起了自己父亲（Did my father find out about Mom's infidelity?）；最后她给出了一个比恨更冷的词：失望（disappointment is different from anger），把手机整个关掉，躺下去问自己是否还在乎明早醒来。
 - **情感弧线位置**：第三部最低点（人物的）——真相到手之后，她先失去的是对世界的信任；本节的文字密度最低、留白最多，是全书唯一一段几乎不动点地躺着的时间。
-- **叙事手法：第一人称；电话里的三轮呼喊（Lucy! / Lucy. / Lucy.）把 Dana 的慌乱写成一种物理；她的反驳被写成排比式的自我审问；中段插入父亲的那段推测（他为何没有游过溪）——全书对她父亲最重的一次重新审判；结尾把情绪压缩成一个生理动作（把手机整个关掉）与一个问句（whether I care if I ever wake up）。
-- **线索进展：① Dana 读完文件后的结论与她一致（训练效应）；② Dana 的第一反应是 Astrid（若 Owl 杀了人，何必花那么多年找她）；③ Lucy 的反驳三连：雾中叫停搜寻／控制搜寻路线／遗体发现时他在队伍中；④ 「Who ever did this had to know us all well enough to set up Neil」——设局者必须熟知这个家；⑤ 她想起 PoppaJack 说的 baby girl（Owl 与母亲的秘密），补上了对 Owl 的一层认知；⑥ 她推测父亲当年或许发现母亲的不忠，因此没有过溪、后来离开；⑦ Dana 提议打电话试探 Owl 对「文件已给 FBI 朋友」的反应；⑧ 她没有去靶场，而是另租了一间房，关掉手机。
+- **叙事手法**：第一人称；电话里的三轮呼喊（Lucy! / Lucy. / Lucy.）把 Dana 的慌乱写成一种物理；她的反驳被写成排比式的自我审问；中段插入父亲的那段推测（他为何没有游过溪）——全书对她父亲最重的一次重新审判；结尾把情绪压缩成一个生理动作（把手机整个关掉）与一个问句（whether I care if I ever wake up）。
+- **线索进展**：① Dana 读完文件后的结论与她一致（训练效应）；② Dana 的第一反应是 Astrid（若 Owl 杀了人，何必花那么多年找她）；③ Lucy 的反驳三连：雾中叫停搜寻／控制搜寻路线／遗体发现时他在队伍中；④ 「Who ever did this had to know us all well enough to set up Neil」——设局者必须熟知这个家；⑤ 她想起 PoppaJack 说的 baby girl（Owl 与母亲的秘密），补上了对 Owl 的一层认知；⑥ 她推测父亲当年或许发现母亲的不忠，因此没有过溪、后来离开；⑦ Dana 提议打电话试探 Owl 对「文件已给 FBI 朋友」的反应；⑧ 她没有去靶场，而是另租了一间房，关掉手机。
 - （ch51 承接。）
 
 ## 精读

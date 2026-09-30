@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：同一夜。Astrid 的卧室（LED 灯被打开，紫色闪光铺满墙壁）。他们重读了那些短信。
-- **一句话概括：三个人围着一台旧 iPad 读同一段对话，各读出各的恐惧**：Lucy 认为 Astrid 的短信里有「控制与精确」，那句「You should do something」既是威胁也是逼供；Neil 和 Parson 都答不上来（I have no idea / Me either），而他们俩都在出汗；VCB 猜为 Vespers Creek Bridge；翻回去只有 GamePigeon 的游戏记录；Wendy 那条线有十五条越来越慌的消息；最后 Parson 在静音的 iPad 上看到一段昨天下午 3:48 拍的、抖动的视频——一个失真的声音下令：“Underwater, baby.”
+- **一句话概括**：三个人围着一台旧 iPad 读同一段对话，各读出各的恐惧：Lucy 认为 Astrid 的短信里有「控制与精确」，那句「You should do something」既是威胁也是逼供；Neil 和 Parson 都答不上来（I have no idea / Me either），而他们俩都在出汗；VCB 猜为 Vespers Creek Bridge；翻回去只有 GamePigeon 的游戏记录；Wendy 那条线有十五条越来越慌的消息；最后 Parson 在静音的 iPad 上看到一段昨天下午 3:48 拍的、抖动的视频——一个失真的声音下令：“Underwater, baby.”
 - **情感弧线位置**：第一部与第二部的门槛——本节让「威胁」这条线第一次指向一个活人（Astrid），并在最末一秒换成另一种恐惧（水下）。
-- **叙事手法：第一人称；对文本的双重阅读（Astrid 的性格画像先立起来，再让短信去检验它）；把一个缩写当作地名来破译的侦探式小段（VCB）；Neil 的手停在门把前一英寸——用「距离」写他的克制；章末把音量拧开，一句失真的口令把整个房间的猜想推平。
-- **线索进展：① Astrid 的短信可两解：警告 Deuce 自首，或威胁他闭嘴；② Astrid 的道德规则不可预测（她跟 Neil 一样守奇怪的规矩）；③ VCB = Vespers Creek Bridge（推测）；④ 他们此前是否私下见过无从判断（其余记录只有 GamePigeon）；⑤ Wendy 那晚发了十五条消息，越来越慌；⑥ Deuce 不要钱（如果 Owl 是清洁工，Deuce 会买一把拖把或一只猴子）；⑦ Parson 在静音画面里发现视频（昨天下午 3:48）；⑧ 视频里失真的声音：Underwater, baby.
+- **叙事手法**：第一人称；对文本的双重阅读（Astrid 的性格画像先立起来，再让短信去检验它）；把一个缩写当作地名来破译的侦探式小段（VCB）；Neil 的手停在门把前一英寸——用「距离」写他的克制；章末把音量拧开，一句失真的口令把整个房间的猜想推平。
+- **线索进展**：① Astrid 的短信可两解：警告 Deuce 自首，或威胁他闭嘴；② Astrid 的道德规则不可预测（她跟 Neil 一样守奇怪的规矩）；③ VCB = Vespers Creek Bridge（推测）；④ 他们此前是否私下见过无从判断（其余记录只有 GamePigeon）；⑤ Wendy 那晚发了十五条消息，越来越慌；⑥ Deuce 不要钱（如果 Owl 是清洁工，Deuce 会买一把拖把或一只猴子）；⑦ Parson 在静音画面里发现视频（昨天下午 3:48）；⑧ 视频里失真的声音：Underwater, baby.
 
 ## 精读
 

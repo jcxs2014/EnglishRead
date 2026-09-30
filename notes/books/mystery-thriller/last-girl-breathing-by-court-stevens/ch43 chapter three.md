@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：同一天。Zionsville → 密歇根城 Michigan City（车里一整段硬糖与 Ed Sheeran；麦当劳的空调滴水；星巴克；监狱的矫正中心）。
-- **一句话概括：三个人带着三种期待去见两个陌生人**：Dana 用假 Facebook 账号摸到了 Ashley Smith 的底——无犯罪记录、无信用卡、无不动产、连租约都查不到（这个世界的最好的小提琴老师没有任何可查的痕迹）；她自己不信（I can't imagine a world where Astrid teaches children），Owl 需要希望（他每天在 LaRue 找 Astrid 的遗骸）；星巴克那一头 Dana 约见了 Ashley，而十五分钟后，矫正中心的门里有人念出了她的名字。
+- **一句话概括**：三个人带着三种期待去见两个陌生人：Dana 用假 Facebook 账号摸到了 Ashley Smith 的底——无犯罪记录、无信用卡、无不动产、连租约都查不到（这个世界的最好的小提琴老师没有任何可查的痕迹）；她自己不信（I can't imagine a world where Astrid teaches children），Owl 需要希望（他每天在 LaRue 找 Astrid 的遗骸）；星巴克那一头 Dana 约见了 Ashley，而十五分钟后，矫正中心的门里有人念出了她的名字。
 - **情感弧线位置**：第三部的双线交汇——Dana 线（Ashley Smith）与 Owl/Neil 线（探监）在同一个上午并行；而本章末尾，念名字的那一秒把两条线同时推到她身上。
-- **叙事手法：第一人称；开篇用糖写紧张（Dana 柠檬糖、Owl Red Hots、她 Gobstoppers）与三种空调需求；中段的对话速写（Wilma 开礼品店、Parson 两家餐厅、母亲还想她回家）像一段路上的闲谈；而「我们这边空得让《纽约客》的漫画家都……」用一句漫画式的夸张写尽审判的不公；结尾三句公文体的应答（"Owl Uri?" / "That's me." / "Lucy Michaels?"）把她的名字递到她面前。
-- **线索进展：① Ashley Smith 无犯罪记录、无信用卡、无不动产、无租约；② Dana 用假号从 Willoughby 家拿到她的号码；③ Ashley 的短信风格与 Astrid 判若两人（no-nonsense as the bun on her head）；④ 双方在星巴克见面（先于探监三十分钟）；⑤ Parson 两家餐厅并计划再开三家；⑥ 法庭上她这一侧几乎空无一人，母亲却与 Robert 站在一起；⑦ 警方未证实 Robert 付过 Deuce 任何款项（$216k 无证据）；⑧ 探监时她被登记为「Lucy Michaels」，并被要求搜身；⑨ Neil 同意见她。
+- **叙事手法**：第一人称；开篇用糖写紧张（Dana 柠檬糖、Owl Red Hots、她 Gobstoppers）与三种空调需求；中段的对话速写（Wilma 开礼品店、Parson 两家餐厅、母亲还想她回家）像一段路上的闲谈；而「我们这边空得让《纽约客》的漫画家都……」用一句漫画式的夸张写尽审判的不公；结尾三句公文体的应答（"Owl Uri?" / "That's me." / "Lucy Michaels?"）把她的名字递到她面前。
+- **线索进展**：① Ashley Smith 无犯罪记录、无信用卡、无不动产、无租约；② Dana 用假号从 Willoughby 家拿到她的号码；③ Ashley 的短信风格与 Astrid 判若两人（no-nonsense as the bun on her head）；④ 双方在星巴克见面（先于探监三十分钟）；⑤ Parson 两家餐厅并计划再开三家；⑥ 法庭上她这一侧几乎空无一人，母亲却与 Robert 站在一起；⑦ 警方未证实 Robert 付过 Deuce 任何款项（$216k 无证据）；⑧ 探监时她被登记为「Lucy Michaels」，并被要求搜身；⑨ Neil 同意见她。
 - （探监内容在 ch44 展开。）
 
 ## 精读

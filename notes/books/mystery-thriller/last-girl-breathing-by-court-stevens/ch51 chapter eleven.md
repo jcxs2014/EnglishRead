@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：坦帕的廉价汽车旅馆。她睡了一整个白天，醒来是晚上九点；随后是那通 FaceTime，以及十五小时的返程起点。
-- **一句话概括：全书最重的一通电话只有一句正文**：她醒来摸手机（Dana 二十二条、Owl 更多、Parson、母亲、Wilma、一名记者、奥运队群三十四条），数了五秒的无知就点开 Dana——「Five hours ago, Neil killed himself in prison.」他认了杀 Deuce 与 Martin，说自己是 LaRue 大坝溃决的原因，说 Andy Bedford——他的游泳教练——让他为 Tamerlane 在闸门上装了金属丝；他留下了 Clay 遗骸的确切位置，警方已经挖出一具孩子的骨架；而她只说得出一句：有人找上了他。
+- **一句话概括**：全书最重的一通电话只有一句正文：她醒来摸手机（Dana 二十二条、Owl 更多、Parson、母亲、Wilma、一名记者、奥运队群三十四条），数了五秒的无知就点开 Dana——「Five hours ago, Neil killed himself in prison.」他认了杀 Deuce 与 Martin，说自己是 LaRue 大坝溃决的原因，说 Andy Bedford——他的游泳教练——让他为 Tamerlane 在闸门上装了金属丝；他留下了 Clay 遗骸的确切位置，警方已经挖出一具孩子的骨架；而她只说得出一句：有人找上了他。
 - **情感弧线位置**：第三部最重的一击（真相以最坏的形式落地）——不是洗清，而是以一个死人认罪的形式收场；本节结尾的三个拥抱式动作（地板上的拥抱、狗的下巴、十五小时的车程）是全书唯一一处不讲道理的身体安慰。
-- **叙事手法：第一人称；醒来的一整段全是感官定位（粗糙的被、窗帘上的保安灯、九点的电子钟、不知道是哪一天）；电话用引号逐级升级（I need you to call me → I'm calling the police → 五小时前）；两句关键的否定（No. / That's not possible.）被拆成两行；随后是沉默（She doesn't argue and she doesn't agree.）；最后用「穿着昨天、带着昨天的气味」写一个人被掏空后的样子。
-- **线索进展：① Neil 五小时前在狱中自杀；② 他认了杀 Deuce 与 Martin；③ 他称自己是大坝溃决的原因；④ 他称 Andy Bedford（他的游泳教练）让他为 Tamerlane 在泄水闸上装了金属丝；⑤ 他留下了 Clay 遗骸的位置，警方已挖出儿童骨骼；⑥ 他在被带走前没有见过 Astrid（他说了 Deuce 与 Astrid 均未见过——作者用对话给出）；⑦ 她第一反应：有人找上了 Neil；⑧ Dana 已与她的母亲通话，并将接她回 Grand Junction。
+- **叙事手法**：第一人称；醒来的一整段全是感官定位（粗糙的被、窗帘上的保安灯、九点的电子钟、不知道是哪一天）；电话用引号逐级升级（I need you to call me → I'm calling the police → 五小时前）；两句关键的否定（No. / That's not possible.）被拆成两行；随后是沉默（She doesn't argue and she doesn't agree.）；最后用「穿着昨天、带着昨天的气味」写一个人被掏空后的样子。
+- **线索进展**：① Neil 五小时前在狱中自杀；② 他认了杀 Deuce 与 Martin；③ 他称自己是大坝溃决的原因；④ 他称 Andy Bedford（他的游泳教练）让他为 Tamerlane 在泄水闸上装了金属丝；⑤ 他留下了 Clay 遗骸的位置，警方已挖出儿童骨骼；⑥ 他在被带走前没有见过 Astrid（他说了 Deuce 与 Astrid 均未见过——作者用对话给出）；⑦ 她第一反应：有人找上了 Neil；⑧ Dana 已与她的母亲通话，并将接她回 Grand Junction。
 - （ch52 承接归途。）
 
 ## 精读

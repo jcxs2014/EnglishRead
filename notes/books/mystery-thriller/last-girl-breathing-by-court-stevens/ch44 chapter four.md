@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：同一天下午。密歇根城联邦监狱的会面区（没有空调的小食堂桌；塑料桌面；门口有狱警 Collins 与另一名狱警）。
-- **一句话概括：这场探视的重心不是重逢，是一张旧贺卡**：Neil 留着长高的胡子、像他父亲，长得像 No-Shave November 的笑话；他说「I got a birthday card from PoppaJack」——那是她童年寄出的旧卡（狗戴着凤梨墨镜的那种），而 PoppaJack 在空白处写了一行：「Neil, your sister phoned. She said you didn’t hurt anyone. Happy birthday.」——痴呆的老人写下的字，指向那个仍活着的 Astrid；Owl 在桌下攥紧她的膝盖；最后五分钟，Neil 从口袋里推过来一盒 tic tac（他们不能给，只能让它「属于你」），而他的新名字是 Fat Potter。
+- **一句话概括**：这场探视的重心不是重逢，是一张旧贺卡：Neil 留着长高的胡子、像他父亲，长得像 No-Shave November 的笑话；他说「I got a birthday card from PoppaJack」——那是她童年寄出的旧卡（狗戴着凤梨墨镜的那种），而 PoppaJack 在空白处写了一行：「Neil, your sister phoned. She said you didn’t hurt anyone. Happy birthday.」——痴呆的老人写下的字，指向那个仍活着的 Astrid；Owl 在桌下攥紧她的膝盖；最后五分钟，Neil 从口袋里推过来一盒 tic tac（他们不能给，只能让它「属于你」），而他的新名字是 Fat Potter。
 - **情感弧线位置**：第三部的第一个转折（希望第一次从实物里长出来）——一张旧贺卡把「Ashley Smith 活着」的线索从 Dana 的网络搬到了 PoppaJack 的记忆里；同一场探视也把 Neil 的处境写实（监号、脚镣、绰号、被调侃）。
-- **叙事手法：第一人称；重逢的物理细节（汗、手掌印在塑料桌上的签名、真人胡子的滑稽感）；贺卡作为一份两段文字的档案（童年字体与老人笔迹的切换）；tic tac 作为一件不能赠送却可以「属于你」的东西；章尾用狱警的调侃（Voldemort / killer magic）把全章的笑与痛拧在一起。
-- **线索进展：① Neil 同意见面；② 他长高了、壮了、留了胡子（像 Danny）；③ PoppaJack 有痴呆，却在贺卡上写下「你姐姐打过电话，说你没伤任何人」（因此 Astrid 两年前给他打过电话）；④ 他大约还见过 Astrid；⑤ Owl 与作者都判断那可能只是护工/治疗师/亚马逊送货员；⑥ Neil 在监狱图书馆工作、打半场篮球；⑦ 一盒 tic tac（监狱商店有，不能当面给）；⑧ 狱警称他 Fat Potter；⑨ 另一名狱警当众以 Voldemort 的魔法调侃他。
+- **叙事手法**：第一人称；重逢的物理细节（汗、手掌印在塑料桌上的签名、真人胡子的滑稽感）；贺卡作为一份两段文字的档案（童年字体与老人笔迹的切换）；tic tac 作为一件不能赠送却可以「属于你」的东西；章尾用狱警的调侃（Voldemort / killer magic）把全章的笑与痛拧在一起。
+- **线索进展**：① Neil 同意见面；② 他长高了、壮了、留了胡子（像 Danny）；③ PoppaJack 有痴呆，却在贺卡上写下「你姐姐打过电话，说你没伤任何人」（因此 Astrid 两年前给他打过电话）；④ 他大约还见过 Astrid；⑤ Owl 与作者都判断那可能只是护工/治疗师/亚马逊送货员；⑥ Neil 在监狱图书馆工作、打半场篮球；⑦ 一盒 tic tac（监狱商店有，不能当面给）；⑧ 狱警称他 Fat Potter；⑨ 另一名狱警当众以 Voldemort 的魔法调侃他。
 - （Voldemort 一句把 ch04 那次射击比赛与此刻并置，全书的「魔法」与「凶器」在此对撞。）
 
 ## 精读

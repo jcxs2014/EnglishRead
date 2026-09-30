@@ -107,7 +107,7 @@ modified: "2026-10-01"
 | boating | 划船、泛舟 | Known for exceptional fishing, hunting, boating, ATVing, and bird-watching. |
 | trailhead | 步道口、登山口 | “LaRue,” she says, answering the second question instead of the first. “Trailhead number three.” |
 | popcorn | 爆米花 | “Buy some popcorn,” I say, more in control. “I’ll ring you when I know something.” |
-| Hummer | 悍马（Hummer SUV） | Martin drives a matte-gray Hummer with custom yellow trim, making it highly unlikely the truck has been misidentified |
+| Hummer | 悍马（Hummer 越野车） | Martin drives a matte-gray Hummer with custom yellow trim, making it highly unlikely the truck has been misidentified |
 
 ## 一句话总结
 

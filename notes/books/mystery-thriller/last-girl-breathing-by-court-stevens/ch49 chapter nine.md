@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：同一天上午。坦帕 PoppaJack 的房间 → 车里 → 便利店金字塔旁的巷道（电话那头是 Wilma）。
-- **一句话概括：这张贺卡终于有了寄件人**：Salome 记得那通电话（一个年轻女人，说自己是从家里打来的，还不知道 Jack 病情，她把电话给了他）；而 Wilma 那边的答案更重——Owl 想要投进 Grand Hydro 的钱是 **25 万美元**（与 Andy Bedford 那笔「安装费」同数），当初 Robert 不许他投，他转头投了 Parson 的餐厅；而 Owl 曾在溃坝那个周末于码头见过 Robert，并说「一眼就不喜欢他」。这一章的最后一行是全书最重的一次自伤：她刚刚把 Robert 的全部文件发给了 Owl。
+- **一句话概括**：这张贺卡终于有了寄件人：Salome 记得那通电话（一个年轻女人，说自己是从家里打来的，还不知道 Jack 病情，她把电话给了他）；而 Wilma 那边的答案更重——Owl 想要投进 Grand Hydro 的钱是 **25 万美元**（与 Andy Bedford 那笔「安装费」同数），当初 Robert 不许他投，他转头投了 Parson 的餐厅；而 Owl 曾在溃坝那个周末于码头见过 Robert，并说「一眼就不喜欢他」。这一章的最后一行是全书最重的一次自伤：她刚刚把 Robert 的全部文件发给了 Owl。
 - **情感弧线位置**：第三部最危险的一步（怀疑转向她自己最信任的人）——她用两通电话把信任网络查到底，而答案正指向网络的中心。
-- **叙事手法：第一人称；开头三行自问（There’s still so much I don’t know. I wish I could talk to Deuce.）把推理的心境写成一句自白；中段的文件分发被写成一套动作（发邮件确认、转发除视频外的全部、上传 Dropbox、把 GoPro 放回保险箱）；然后是 Salome 那段关于电话的回忆（客观、缓慢、致命），最后 Wilma 的通话像一场家长会——她一路被「从家里打来的年轻女人」「码头上的一见」「25 万」三句话拆掉。
-- **线索进展：① Deuce 是 Andy Bedford 的同伙、Robert 每月付他钱（她的推论，与视频互证）；② Robert 入她家后 Deuce 与他毫无熟悉感——不可能长期假装；③ 她把除 GoPro 视频外的全部文件发给 Dana 与 Owl（视频太大，另存并上传 Dropbox）；④ GoPro 已放回保险箱；⑤ 贺卡的由来：一个年轻女人（听起来像 Astrid）打来电话，PoppaJack 状态好，写了那张卡；⑥ Wilma：溃坝周末那两个男孩钓了一天鱼，Deuce 那晚情绪不好，说是与他父亲有关； pontoon 之后她有一段记忆全空；⑦ Wilma 提到 Owl 与 Deuce 为「Deuce 当警察」吵过；⑧ **Owl 手上有一笔钱要投 Grand Hydro，Robert 不许，于是他投了 Parson 的餐厅；金额约 25 万美元**；⑨ Wilma 称 Owl 说自己在溃坝周末的码头上见过 Robert，且一眼就不喜欢他。
+- **叙事手法**：第一人称；开头三行自问（There’s still so much I don’t know. I wish I could talk to Deuce.）把推理的心境写成一句自白；中段的文件分发被写成一套动作（发邮件确认、转发除视频外的全部、上传 Dropbox、把 GoPro 放回保险箱）；然后是 Salome 那段关于电话的回忆（客观、缓慢、致命），最后 Wilma 的通话像一场家长会——她一路被「从家里打来的年轻女人」「码头上的一见」「25 万」三句话拆掉。
+- **线索进展**：① Deuce 是 Andy Bedford 的同伙、Robert 每月付他钱（她的推论，与视频互证）；② Robert 入她家后 Deuce 与他毫无熟悉感——不可能长期假装；③ 她把除 GoPro 视频外的全部文件发给 Dana 与 Owl（视频太大，另存并上传 Dropbox）；④ GoPro 已放回保险箱；⑤ 贺卡的由来：一个年轻女人（听起来像 Astrid）打来电话，PoppaJack 状态好，写了那张卡；⑥ Wilma：溃坝周末那两个男孩钓了一天鱼，Deuce 那晚情绪不好，说是与他父亲有关； pontoon 之后她有一段记忆全空；⑦ Wilma 提到 Owl 与 Deuce 为「Deuce 当警察」吵过；⑧ Owl 手上有一笔钱要投 Grand Hydro，Robert 不许，于是他投了 Parson 的餐厅；金额约 25 万美元**；⑨ Wilma 称 Owl 说自己在溃坝周末的码头上见过 Robert，且一眼就不喜欢他。
 - （ch50 承接这个数字。）
 
 ## 精读

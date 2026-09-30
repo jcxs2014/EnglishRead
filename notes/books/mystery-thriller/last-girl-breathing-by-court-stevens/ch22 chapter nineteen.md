@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：同一夜更深的时候。厨房 → 车道 → 门廊外的车道砖地上（与 Dana 并排坐下，Galen 在中间）。
-- **一句话概括：Lucy 把辞退了 Dana 的人追了回来**——她在她面前第一次成为被抱的人（For once, someone soft and fierce is hugging me）；而 Dana 转身站到了 Owl 一边（Chief Uri asked me to stay），一边夸她「会救人」一边问她为什么不救自己，最后给她的作业是：把真话全说出来——包括那句会让所有人难过的真话。
+- **一句话概括**：Lucy 把辞退了 Dana 的人追了回来——她在她面前第一次成为被抱的人（For once, someone soft and fierce is hugging me）；而 Dana 转身站到了 Owl 一边（Chief Uri asked me to stay），一边夸她「会救人」一边问她为什么不救自己，最后给她的作业是：把真话全说出来——包括那句会让所有人难过的真话。
 - **情感弧线位置**：第一部的情感低谷与转机并存——她把家里人的怯懦接过来自己扛，同时第一次遇见一个不以她为救生圈的人；本章结尾是一句决定（我要去跟 Owl 说），第一部的密室由此进入第二部的门。
 - **叙事手法**：第一人称；内部独白与自我辩论并置（Martin deserves more than… / I wish she could find the energy…）；一个拥抱被写成方向性的反转（Everything is usually one direction: me hugging them）；雾线与河的画面垫底（a line of fog dances above the river），对话在风景里走完；章尾两句 devastating 的排比把决定压成锤。
-- **线索进展：① Dana 拒绝被解雇的方式是改换门庭——为 Owl 做顾问（Chief Uri asked me to stay），而非为 Robert；② 她在车里问出那个尖锐的问题：为什么 Robert 对母亲的崩溃比对亲儿子的死更在意；③ Lucy 自陈「我的一生都在救人」，却答不出要不要救自己；④ 关于 Martin 的告白：是的，非常爱；人人都爱他；⑤ Dana 的忠告（作业）：tell the whole truth（把全真话说尽），理由是每一个细节都可能帮我们把 Astrid 活着找回来；⑥ 代价的公式：说出来会伤人，但如果不说，可能伤得更重；⑦ Lucy 的决定：去跟 Owl 说，而她知道这会摧毁他，也摧毁所有人。
+- **线索进展**：① Dana 拒绝被解雇的方式是改换门庭——为 Owl 做顾问（Chief Uri asked me to stay），而非为 Robert；② 她在车里问出那个尖锐的问题：为什么 Robert 对母亲的崩溃比对亲儿子的死更在意；③ Lucy 自陈「我的一生都在救人」，却答不出要不要救自己；④ 关于 Martin 的告白：是的，非常爱；人人都爱他；⑤ Dana 的忠告（作业）：tell the whole truth（把全真话说尽），理由是每一个细节都可能帮我们把 Astrid 活着找回来；⑥ 代价的公式：说出来会伤人，但如果不说，可能伤得更重；⑦ Lucy 的决定：去跟 Owl 说，而她知道这会摧毁他，也摧毁所有人。
 
 ## 精读
 

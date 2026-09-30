@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：清晨到下午。汽车旅馆 → Parson’s Landing 的停车场 → 私人包间（那张中央嵌着蓝色树脂河的桌子）。今天是 Clay 的纪念日。
-- **一句话概括：她把三场会面排进了同一个下午，而她继父在停车场拦住她要她把视频撤下**：Robert 说她正踩在陷阱中间（You're in the middle of a trap），承认妻子多年来什么都知道，并提出十万块买她离开——被一句「正义修得了这个」顶回去；而当 Parson 把那支 Ruger Precision Rifle 放到包间桌上时，真正让她开口的不是感恩，是那句本该憋住的话：Astrid is still alive. I'm meeting her before the memorial.
+- **一句话概括**：她把三场会面排进了同一个下午，而她继父在停车场拦住她要她把视频撤下：Robert 说她正踩在陷阱中间（You're in the middle of a trap），承认妻子多年来什么都知道，并提出十万块买她离开——被一句「正义修得了这个」顶回去；而当 Parson 把那支 Ruger Precision Rifle 放到包间桌上时，真正让她开口的不是感恩，是那句本该憋住的话：Astrid is still alive. I'm meeting her before the memorial.
 - **情感弧线位置**：第三部最密的一天（辩护、家庭、遗物与会面）——她拒绝了买断，接受了遗物，也第一次当着活人的面说出了两年没说过的实话。
-- **叙事手法：第一人称；醒来一段用气味与光线做过渡（发霉床单、旧烟、窗帘缝里的一道光柱）；Robert 的那段话用排比把恐吓、请求与钱混在一起；而她那句拒绝是全书最长的一次抢白；结尾的转折由一件家具完成——桌上的中心摆件不是食物，是一支被擦得干干净净、连保险上还多了一点油的枪。
-- **线索进展：① 她的视频火了：四千多次观看、七百条评论；② CNN 的下拉菜单里出现「大坝继承人称 Neil 无罪」；③ Andy Bedford 取消了会面（去做 CNN 采访）；④ Dana 改为先去坝边侦查；⑤ Robert 在停车场求她撤视频：Tamerlane 会来、已经可能来了；他承认多年前就告诉了妻子一切（差点淹死、Deuce 救他、他每年给 Deuce 存钱封口）；⑥ 母亲还阻止过他去法律上追究 Tamerlane；⑦ 母亲不知道她已经知道；⑧ Robert 提出十万块；⑨ Parson 从警方拍卖中买下 Neil 的 Ruger，作为「只有你懂」的礼物交给她。
+- **叙事手法**：第一人称；醒来一段用气味与光线做过渡（发霉床单、旧烟、窗帘缝里的一道光柱）；Robert 的那段话用排比把恐吓、请求与钱混在一起；而她那句拒绝是全书最长的一次抢白；结尾的转折由一件家具完成——桌上的中心摆件不是食物，是一支被擦得干干净净、连保险上还多了一点油的枪。
+- **线索进展**：① 她的视频火了：四千多次观看、七百条评论；② CNN 的下拉菜单里出现「大坝继承人称 Neil 无罪」；③ Andy Bedford 取消了会面（去做 CNN 采访）；④ Dana 改为先去坝边侦查；⑤ Robert 在停车场求她撤视频：Tamerlane 会来、已经可能来了；他承认多年前就告诉了妻子一切（差点淹死、Deuce 救他、他每年给 Deuce 存钱封口）；⑥ 母亲还阻止过他去法律上追究 Tamerlane；⑦ 母亲不知道她已经知道；⑧ Robert 提出十万块；⑨ Parson 从警方拍卖中买下 Neil 的 Ruger，作为「只有你懂」的礼物交给她。
 - （ch63 承接当日。）
 
 ## 精读
@@ -41,7 +41,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「「我想你应该有权决定它（这把枪）会怎么样。」」
 - **关键词**：the right to decide · Shoot it. Bury it. Melt it down
-- **为什么这样写**：一句把处置权交出去的话，而交的方式是把选择压缩成三个动词（shoot it / bury it / melt it down）。give someone the right to… 是全书对所有权最克制的一次使用——枪是 Neil 的，拍卖到 Parsonson's 手上，而最后拿到决定权的人，是那个还在用这支枪训练的人。
+- **为什么这样写**：一句把处置权交出去的话，而交的方式是把选择压缩成三个动词（shoot it / bury it / melt it down）。give someone the right to… 是全书对所有权最克制的一次使用——枪是 Neil 的，拍卖到 Parson 的 手上，而最后拿到决定权的人，是那个还在用这支枪训练的人。
 - **读者视角提示**：请把它与探监那天 Neil 说的「他们不许我给你，但你知道它们是给你的」并读：一次是给糖，一次是给凶器与决定权。
 
 > **原句 5:** “Astrid is still alive.” It’s the gun that makes me blurt out what I planned to hold in.

@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：接屋顶那一夜的后半夜到次日凌晨。Robert 家门前的卡车（尾板放下、Dana 躺着看天）→ 汽车旅馆（披萨、咖啡与研究的一夜）。
-- **一句话概括：她把最后一条推理线拉向了 Danny Clark**：她先否掉了自己最信任的 Owl（那晚屋顶上的对话换来了 Astrid 的答案），再在凌晨的反复回看中把视线转向那个「爸爸」——Danny 当过陆军工兵队的工程师，与 Andy Bedford 在县界之外共事过、懂水流、会用枪；最关键的一步是那个词的重新解法：Underwater, baby 是情人之间的称呼，也是父亲对女儿的；而那个绑架者的身形之所以像 Neil，是因为 Neil 的骨架是他父亲给的——一个父亲的骨架落进了另一个男人的手里；天亮前她在一个播客网站的评论区里看见了一个 ID：KaYakittyYak。
+- **一句话概括**：她把最后一条推理线拉向了 Danny Clark：她先否掉了自己最信任的 Owl（那晚屋顶上的对话换来了 Astrid 的答案），再在凌晨的反复回看中把视线转向那个「爸爸」——Danny 当过陆军工兵队的工程师，与 Andy Bedford 在县界之外共事过、懂水流、会用枪；最关键的一步是那个词的重新解法：Underwater, baby 是情人之间的称呼，也是父亲对女儿的；而那个绑架者的身形之所以像 Neil，是因为 Neil 的骨架是他父亲给的——一个父亲的骨架落进了另一个男人的手里；天亮前她在一个播客网站的评论区里看见了一个 ID：KaYakittyYak。
 - **情感弧线位置**：第三部的调查与私人恩怨合流（怀疑从机构落到家庭）——当证据开始指向一个父亲，她必须同时处理「他的女儿可能还活着」这件事。
-- **叙事手法：第一人称；用「白板」比喻脸（每个人都在上面写过最深秘密）；推理以「如果…那么」的因果链推进，每个环节都被自己的记忆当场反证；中段插入 Facebook 那张旧照片（Belford 与 Clark 在坝上勾肩）与 Seth 的转变（从当初指控 Neil 的播客，变成现在替他喊冤的人）；最后一夜以一名读者的网名收束。
-- **线索进展：① Owl 之外谁知道 Astrid 是他女儿（Molly？Danny 是否发现过 Molly 的背叛？）；② Danny 当过 Army Corps of Engineers，与 Andy 跨县合作过；③ Danny 从不显富；④ Underwater, baby 是情人之间的称呼，也是父亲对女儿的；⑤ 绑架者的身形与 Neil 相像，因为 Neil 的骨架来自他父亲；⑥ Facebook 旧照：Danny 与 Andy 在 LaRue Dam 上，配文为「Boy Scouts and Corps team up to beautify shoreline」；⑦ Seth Yarborough 如今成了为 Neil 喊冤的播客；⑧ 评论区 ID：KaYakittyYak（附一颗红心）；⑨ 那条评论就是 Astrid 的信号。
+- **叙事手法**：第一人称；用「白板」比喻脸（每个人都在上面写过最深秘密）；推理以「如果…那么」的因果链推进，每个环节都被自己的记忆当场反证；中段插入 Facebook 那张旧照片（Bedford 与 Clark 在坝上勾肩）与 Seth 的转变（从当初指控 Neil 的播客，变成现在替他喊冤的人）；最后一夜以一名读者的网名收束。
+- **线索进展**：① Owl 之外谁知道 Astrid 是他女儿（Molly？Danny 是否发现过 Molly 的背叛？）；② Danny 当过 Army Corps of Engineers，与 Andy 跨县合作过；③ Danny 从不显富；④ Underwater, baby 是情人之间的称呼，也是父亲对女儿的；⑤ 绑架者的身形与 Neil 相像，因为 Neil 的骨架来自他父亲；⑥ Facebook 旧照：Danny 与 Andy 在 LaRue Dam 上，配文为「Boy Scouts and Corps team up to beautify shoreline」；⑦ Seth Yarborough 如今成了为 Neil 喊冤的播客；⑧ 评论区 ID：KaYakittyYak（附一颗红心）；⑨ 那条评论就是 Astrid 的信号。
 - （ch60 承接那条信号。）
 
 ## 精读

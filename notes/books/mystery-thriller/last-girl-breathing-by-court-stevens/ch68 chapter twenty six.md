@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：同一天下午四点后的一分钟之内。倒树旁的林地。
-- **一句话概括：全书的转折点只有三行字**：她挥出肩能送出的最大一击，砸在他后脑（He goes down hard, lands on top of his weapon）；她扑上去，又砸；她继续挥（I keep swinging）——本章最后两行是全书最有名的错位：Later I will tell Owl that I hit him three times. Later, much later, the coroner will tell Owl that he counted twenty-seven strikes.
+- **一句话概括**：全书的转折点只有三行字：她挥出肩能送出的最大一击，砸在他后脑（He goes down hard, lands on top of his weapon）；她扑上去，又砸；她继续挥（I keep swinging）——本章最后两行是全书最有名的错位：Later I will tell Owl that I hit him three times. Later, much later, the coroner will tell Owl that he counted twenty-seven strikes.
 - **情感弧线位置**：全书的高潮与终结（案件层面的）——她救下了 Astrid，也把 Parson 放倒在雨里；而「三次 vs 二十七次」这个错位把这场胜利写成了一桩无法对账的账。
-- **叙事手法：第一人称；开篇用一句童话句式（Once upon a time in a rainstorm, a tree saved me and failed me）把全书的恩怨归到那棵树上；战斗只写动作不写心（move / smash / pounce / keep swinging）；末两行用 later / later, much later 的对称，把「她记得的数字」与「验尸官数出的数字」并排放在一起。
-- **线索进展：① 她借那根断枝完成突袭（她记得是三次）；② 验尸官清点是二十七次；③ Parson 重重倒地并压在枪上；④ 她用树枝打的是后脑。
+- **叙事手法**：第一人称；开篇用一句童话句式（Once upon a time in a rainstorm, a tree saved me and failed me）把全书的恩怨归到那棵树上；战斗只写动作不写心（move / smash / pounce / keep swinging）；末两行用 later / later, much later 的对称，把「她记得的数字」与「验尸官数出的数字」并排放在一起。
+- **线索进展**：① 她借那根断枝完成突袭（她记得是三次）；② 验尸官清点是二十七次；③ Parson 重重倒地并压在枪上；④ 她用树枝打的是后脑。
 - （Parson 的动机与来历在 ch69 的「why」里。）
 
 ## 精读
@@ -70,7 +70,7 @@ modified: "2026-10-01"
 | rainstorm | （雷）暴雨 | Once upon a time in a rainstorm, a tree saved me and failed me. |
 | skull | 头骨 | I smash the back of his skull with the biggest swing my shoulder can manage. |
 | pounce | （猛扑） | I pounce and hit him again in the back of the head. |
-| oak | 橡树 | I thank God for both the seed that grew into this oak and whatever storm knocked this branch to the ground. |
+| oak | 橡树 | thank God for both the seed that grew into this oak and whatever storm knocked this branch to the ground. |
 | trunk | 倒下的树干 | When he steps on the fallen trunk, I move. |
 
 Total: 进阶 5 · 基础 5 = 10

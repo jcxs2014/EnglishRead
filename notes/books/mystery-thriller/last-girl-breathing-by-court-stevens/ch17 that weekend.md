@@ -11,7 +11,7 @@ modified: "2026-10-01"
 - **一句话概括**： pontoon 租船计划泡汤，一场暴雨把六个孩子困进木屋，Deuce 发起夺旗游戏消磨整个下午；Parson 在忙着「他的计划」（将来的餐厅），而窗外没人知道预报的八英寸已被上调为破纪录的十二英寸——Vespers Creek 从十英尺宽涨成四十英尺的峡谷，小木屋的footbridge 被冲走，而 LaRue 大坝上裂开一道尺把宽的缝，田纳西河正一下一下捶着它。
 - **情感弧线位置**：全书灾难线的源头闪回——它以一整章的暖色铺陈收束于两组冷数字（八英寸与十二英寸、一道尺把宽的裂缝）；读者带着这个对照进入下一章的现场。
 - **叙事手法**：第一人称童年视角；成人世界被处理成「天气预报、押金、退租政策」这些生活化程序，孩子世界被处理成夺旗游戏与大人计划；中段用「最年长的男孩与最年幼的女孩总在同一队」的观察交代孩子里的联盟；结尾三句并置镜头从屋内游戏切到屋外天气，最后一句才把田纳西河与裂缝写出来。
-- **线索进展：① pontoon 租船计划与退款风波（Owl 当时还不是警长，被推去与租船公司交涉）；② 四家营地家庭（Lucy 家、PoppaJack 的营地与老营地、Andy Bedford 与童子军 1404 队）；③ 六名孩子被送到 kid cabin（Lucy 背上 Clay 的旧账）；④ Deuce 发起夺旗游戏、Parson 与 Astrid 一个队、Lucy 与 Clay 一个队；⑤ Parson 的「计划」：开餐厅、未来从 PoppaJack 手里买一英亩；Deuce 的预言（You'll end up in jail or begging me for a job）被 Parson 当玩笑，而 Deuce 有 actual bite；⑥ 雨量从八英寸上调到十二英寸；⑦ Vespers Creek 暴涨十倍、footbridge 被冲走；⑧ LaRue 大坝出现尺把宽的裂缝，田纳西河捶打裂缝中的混凝土。
+- **线索进展**：① pontoon 租船计划与退款风波（Owl 当时还不是警长，被推去与租船公司交涉）；② 四家营地家庭（Lucy 家、PoppaJack 的营地与老营地、Andy Bedford 与童子军 1404 队）；③ 六名孩子被送到 kid cabin（Lucy 背上 Clay 的旧账）；④ Deuce 发起夺旗游戏、Parson 与 Astrid 一个队、Lucy 与 Clay 一个队；⑤ Parson 的「计划」：开餐厅、未来从 PoppaJack 手里买一英亩；Deuce 的预言（You'll end up in jail or begging me for a job）被 Parson 当玩笑，而 Deuce 有 actual bite；⑥ 雨量从八英寸上调到十二英寸；⑦ Vespers Creek 暴涨十倍、footbridge 被冲走；⑧ LaRue 大坝出现尺把宽的裂缝，田纳西河捶打裂缝中的混凝土。
 
 ## 精读
 
@@ -105,7 +105,7 @@ modified: "2026-10-01"
 | rental dock | 租船码头 | No sooner had we parked the car by the rental dock than the first streak of lightning crossed the sky. |
 | flag game | 夺旗游戏 | That morning the guys had come back from a predawn fishing trip in a foul mood that stuck around until the flag game started. |
 | knot | （绳）结 | he crawled into Parson’s lap while Parson worked on delicate knots. |
-| forecast eight inches | 预报的八英寸雨量 | None of us knew the forecasted eight inches of rain had been upped to a historic twelve. |
+| forecasted eight inches | 预报的八英寸雨量 | None of us knew the forecasted eight inches of rain had been upped to a historic twelve. |
 | plan | （人生）计划 | “Luce, you gotta let me work my plan,” he said. |
 
 ## 一句话总结

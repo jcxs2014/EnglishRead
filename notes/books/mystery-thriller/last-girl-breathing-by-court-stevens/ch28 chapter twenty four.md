@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：同一天的傍晚前。Parson's Landing 的私人包间 → 餐厅大堂 → 停车场的雾里。雾还有至少一小时。
-- **一句话概括：Dana 盘问 Neil，他两次说「我在打猎」**（还漏了一句「我没提 LaRue」）；桌子底下他的脚悄悄碰了 Lucy 一下作为谢礼——她没有揭穿；而当 Parson 提议雾散前不如去翻 Martin 与 Astrid 的房间时，三个人在停车场的雾里撞上一个自称 Crew Time「反向真罪案」调查播客的陌生人，他连门都没让就说出了全书最危险的一句：Martin Carlin 和 Deuce Uri 是被一支 Ruger Precision Rifle、6mm Creedmoor 打的，子弹从眼睛进去——而你，Neil Clark，据说你有一支这样的枪。
+- **一句话概括**：Dana 盘问 Neil，他两次说「我在打猎」（还漏了一句「我没提 LaRue」）；桌子底下他的脚悄悄碰了 Lucy 一下作为谢礼——她没有揭穿；而当 Parson 提议雾散前不如去翻 Martin 与 Astrid 的房间时，三个人在停车场的雾里撞上一个自称 Crew Time「反向真罪案」调查播客的陌生人，他连门都没让就说出了全书最危险的一句：Martin Carlin 和 Deuce Uri 是被一支 Ruger Precision Rifle、6mm Creedmoor 打的，子弹从眼睛进去——而你，Neil Clark，据说你有一支这样的枪。
 - **情感弧线位置**：第一部与第二部的裂缝——本节把嫌疑从表格上挪到雾里的陌生人嘴里，而被指认的人正站在 Lucy 身边。
-- **叙事手法：第一人称；对白审讯与桌下暗语并置（嘴上撒谎、脚在桌下道歉）；服装清单式的登场描写（过季的衣服、太长的牛仔裤、绿色人字拖、粉色棕榈树衬衫、腰间的枪套）；最后由一个荒诞人物（Jimmy Buffett 开侦探事务所）把致命信息说出来，语气却像在推销产品。
-- **线索进展：① Neil 的口供漏洞：他先说「我在打猎」，后说「我没提 LaRue」，被 Parson 的吹嘘带出；② 他与父亲 Danny 已被警方问过话（因为猎棚），Danny 在请律师；③ Neil 四点左右到餐厅（有把握却不看表）；④ Parson 提议搜查 Martin 与 Astrid 的房间，Lucy 打算去翻 Martin 的房间找证据；⑤ 停车场的陌生人自称 Crew Time 的调查播客（真罪案反过来）；⑥ 枪支线索：Ruger Precision Rifle、6mm Creedmoor 口径、子弹从眼睛射入；⑦ 嫌疑直指 Neil Clark（拥有同款枪、与 Carlin 家有过节、与案发现场有连接）；⑧ 此人腰间有枪套（全书第二处出现的枪）。
+- **叙事手法**：第一人称；对白审讯与桌下暗语并置（嘴上撒谎、脚在桌下道歉）；服装清单式的登场描写（过季的衣服、太长的牛仔裤、绿色人字拖、粉色棕榈树衬衫、腰间的枪套）；最后由一个荒诞人物（Jimmy Buffett 开侦探事务所）把致命信息说出来，语气却像在推销产品。
+- **线索进展**：① Neil 的口供漏洞：他先说「我在打猎」，后说「我没提 LaRue」，被 Parson 的吹嘘带出；② 他与父亲 Danny 已被警方问过话（因为猎棚），Danny 在请律师；③ Neil 四点左右到餐厅（有把握却不看表）；④ Parson 提议搜查 Martin 与 Astrid 的房间，Lucy 打算去翻 Martin 的房间找证据；⑤ 停车场的陌生人自称 Crew Time 的调查播客（真罪案反过来）；⑥ 枪支线索：Ruger Precision Rifle、6mm Creedmoor 口径、子弹从眼睛射入；⑦ 嫌疑直指 Neil Clark（拥有同款枪、与 Carlin 家有过节、与案发现场有连接）；⑧ 此人腰间有枪套（全书第二处出现的枪）。
 
 ## 精读
 

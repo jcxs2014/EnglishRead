@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：Neil 离开后的那辆车（Nissan，方向盘前）+ 一整段回溯（周五下午 LaRue 的小径旁，那棵靠着背的树）。
-- **一句话概括：第一部以一份清单与两个吻结束**：她坐在车里清点 Martin 知道什么、被谁问过什么（Martin 要过她的时间线；也许还问过 Astrid、Deuce、Parson，甚至 Andy Bedford）——然后回到周五那棵树下：Martin 说「我爱你，但我不会让它毁了这一切」，她说了「吻我」，然后是 Martin 关于钱的推理（Deuce 是唯一拿钱的人；那周末 Parson 与 Deuce  inseparable；如果 Deuce 拿了钱而 Parson 没有，一定有原因）；她没信他——这章最后两句是全书第一部的判词：他死了，因为我没信他。
+- **一句话概括**：第一部以一份清单与两个吻结束：她坐在车里清点 Martin 知道什么、被谁问过什么（Martin 要过她的时间线；也许还问过 Astrid、Deuce、Parson，甚至 Andy Bedford）——然后回到周五那棵树下：Martin 说「我爱你，但我不会让它毁了这一切」，她说了「吻我」，然后是 Martin 关于钱的推理（Deuce 是唯一拿钱的人；那周末 Parson 与 Deuce  inseparable；如果 Deuce 拿了钱而 Parson 没有，一定有原因）；她没信他——这章最后两句是全书第一部的判词：他死了，因为我没信他。
 - **情感弧线位置**：第一部收束（自责的落点）——她把「失职」算成两条命：Clay 与 Martin，而这一算式将在第二部里被放大成整个镇子的账。
-- **叙事手法：第一人称；自我质询的清单式内心独白（在 Nissan 里问自己该干什么）；长段回溯被一段极安静的表白切开（那我靠着树）；吻的两句极短（Kiss me. / And he did.）后接一次生理性的同步（synchronized dancers）；结尾两句由自述变成判词，用 now 的时态完成全部追责。
-- **线索进展：① Martin 调查的是 Robert 给 Deuce 的现金支付，并自称握有 Tamerlane 破坏大坝的证据；② 那份证据至今下落不明；③ Martin 向她要了溃坝当天的完整时间线（他用手握住她的手臂，说「I'll never forget the water」）；④ Martin 也在盘问：Deuce 与 Parson 的钱、Parson 与 Deuce 是否分开过（这是他推理的关键）；⑤ 他要她问 Parson（她说「现在没有信号」）；⑥ 她说「no one but God controls the rain」并让他别去弄坏与他父亲的关系；⑦ Martin 说「Then show me.」并承诺比赛后给她看；⑧ 那晚她没信他，也没在第一时间去找 Owl。
+- **叙事手法**：第一人称；自我质询的清单式内心独白（在 Nissan 里问自己该干什么）；长段回溯被一段极安静的表白切开（那我靠着树）；吻的两句极短（Kiss me. / And he did.）后接一次生理性的同步（synchronized dancers）；结尾两句由自述变成判词，用 now 的时态完成全部追责。
+- **线索进展**：① Martin 调查的是 Robert 给 Deuce 的现金支付，并自称握有 Tamerlane 破坏大坝的证据；② 那份证据至今下落不明；③ Martin 向她要了溃坝当天的完整时间线（他用手握住她的手臂，说「I'll never forget the water」）；④ Martin 也在盘问：Deuce 与 Parson 的钱、Parson 与 Deuce 是否分开过（这是他推理的关键）；⑤ 他要她问 Parson（她说「现在没有信号」）；⑥ 她说「no one but God controls the rain」并让他别去弄坏与他父亲的关系；⑦ Martin 说「Then show me.」并承诺比赛后给她看；⑧ 那晚她没信他，也没在第一时间去找 Owl。
 
 ## 精读
 

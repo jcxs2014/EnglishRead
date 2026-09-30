@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：探监当天出狱 → 麦当劳停车场（与 Dana）→ 返程车上（在县界处心碎）→ Dana 住处（那只用黄色小方块标着 Searched 的纸板模型）。
-- **一句话概括：出狱的这一天，两个人带回两份坏消息与一件礼物**：Dana 那边——Ashley Smith 没赴约，还把号码断了（we spooked her），但 Dana 反而兴奋（没出现说明碰到了神经）；Owl 那边——那张贺卡只能算希望，不能算证据（「I'm not sure you can make anything of it at all」），而他明天就要回 LaRue；Dana 家里——那只用黄色小方块标出 Searched 的纸板模型被留了两年；这一晚她说了自己最不堪的那句话：It would have been easier if he'd died in LaRue too，而 Dana 给她的作业是：去见 PoppaJack，如果什么都没有，就回来烧掉那只模型。
+- **一句话概括**：出狱的这一天，两个人带回两份坏消息与一件礼物：Dana 那边——Ashley Smith 没赴约，还把号码断了（we spooked her），但 Dana 反而兴奋（没出现说明碰到了神经）；Owl 那边——那张贺卡只能算希望，不能算证据（「I'm not sure you can make anything of it at all」），而他明天就要回 LaRue；Dana 家里——那只用黄色小方块标出 Searched 的纸板模型被留了两年；这一晚她说了自己最不堪的那句话：It would have been easier if he'd died in LaRue too，而 Dana 给她的作业是：去见 PoppaJack，如果什么都没有，就回来烧掉那只模型。
 - **情感弧线位置**：第三部的第二次停顿（希望被叫停）——线索暂时断在这里，而她被要求给希望设一个期限。
-- **叙事手法：第一人称；对话为主（Dana 的推测、Owl 的固执、她自己的剖白）；中途插入一段关于手足的抒情（只有 sibling 才有的那种「秘密」）；星巴克停车场与客厅构成的两次围坐；结尾用一只 Little Debbie 式的比喻收束（跑一场穿着stilts 的马拉松）。
-- **线索进展：① 贺卡无法被当作线索（Owl 自己都这么说）；② Ashley Smith 缺席并断号（她不想被找到）；③ Dana 接下来去田纳西办一个案子，之后去 Boise 查小提琴教师（因为 Neil 的母亲在那儿，思路是 Astrid 可能在靠近 Neil）；④ Parson 给 Owl 安排了一个 fluff gig（餐厅领位）；⑤ 那只纸板模型上全是标着 Searched 的黄色小方块；⑥ 她承认自己更愿意 Neil 死在 LaRue；⑦ Dana 建议：去见 PoppaJack，没有结果就回来烧掉模型。
+- **叙事手法**：第一人称；对话为主（Dana 的推测、Owl 的固执、她自己的剖白）；中途插入一段关于手足的抒情（只有 sibling 才有的那种「秘密」）；星巴克停车场与客厅构成的两次围坐；结尾用一只 Little Debbie 式的比喻收束（跑一场穿着stilts 的马拉松）。
+- **线索进展**：① 贺卡无法被当作线索（Owl 自己都这么说）；② Ashley Smith 缺席并断号（她不想被找到）；③ Dana 接下来去田纳西办一个案子，之后去 Boise 查小提琴教师（因为 Neil 的母亲在那儿，思路是 Astrid 可能在靠近 Neil）；④ Parson 给 Owl 安排了一个 fluff gig（餐厅领位）；⑤ 那只纸板模型上全是标着 Searched 的黄色小方块；⑥ 她承认自己更愿意 Neil 死在 LaRue；⑦ Dana 建议：去见 PoppaJack，没有结果就回来烧掉模型。
 - （第二部线索「Ashley Smith」暂时中断，焦点转向 PoppaJack。）
 
 ## 精读

@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：同一时刻，坦帕 PoppaJack 的房间（门外是 Salome 反复走过的地毯；时间只够几分钟）。
-- **一句话概括：真相落进手里之后，最先浮上来的是恶心**：那只 Little Debbie Zebra Cake 顶到了嗓子眼，而真正让她腿软的是那句 Martin was right. About all of it.——大坝不是天灾，有人策划并付钱；Robert 一直知道，甚至亲手记录；而她当年坐在那张 Thanksgiving 的小餐桌前，看着继父举杯祝 Clay 不会活到的人生；接着是那台绞肉机式的推演（Martin 若去质问，他不会暴怒，他会做一笔生意——就像他在 Tamerlane 之后做的那样），排到 Andy Bedford（一个卖堆肥的前工程师，身体不好却可能用 creek 搬尸）与他那个 associate，最后落到那只 U 盘身上：这证据能让 Neil 出狱。
+- **一句话概括**：真相落进手里之后，最先浮上来的是恶心：那只 Little Debbie Zebra Cake 顶到了嗓子眼，而真正让她腿软的是那句 Martin was right. About all of it.——大坝不是天灾，有人策划并付钱；Robert 一直知道，甚至亲手记录；而她当年坐在那张 Thanksgiving 的小餐桌前，看着继父举杯祝 Clay 不会活到的人生；接着是那台绞肉机式的推演（Martin 若去质问，他不会暴怒，他会做一笔生意——就像他在 Tamerlane 之后做的那样），排到 Andy Bedford（一个卖堆肥的前工程师，身体不好却可能用 creek 搬尸）与他那个 associate，最后落到那只 U 盘身上：这证据能让 Neil 出狱。
 - **情感弧线位置**：第三部真正的启动点——她把「谁杀了 Martin 与 Deuce」这个问题第一次当成一道可解的题来做，而解法通往一个在狱中的人。
-- **叙事手法：第一人称；开篇用一次生理反应（蛋糕要吐出来、Blue whale breath 却不呼吸）代替情绪命名；中段以问句推进（Did Robert kill his son…? Andy Bedford? His associate? Or someone from Tamerlane?）；随后是一段「假如」（Then I play out a scenario where…）的沙盘推演，把 Robert 的性格从材料里推出来；最后两句用同一个动词（explode / This evidence can get Neil released）把希望重新点亮。
-- **线索进展：① 她锁上房门，得知自己只剩几分钟；② 推演一：Martin 若质问 Robert，Robert 不会动武，而是交易（leverage）——用信息换地、换 Grand Hydro；③ 但 Martin 并没去质问父亲，而是先告诉了她——因此 U 盘才是那晚该给她看的东西（而她没听）；④ 至少还有两人知道栅栏之事：Andy Bedford 与他的 associate；⑤ Andy 不会预判五小时十二英寸的雨，也不会想到那天有人在那片林子里；⑥ Andy 的溃坝前检查视频救了他一次，但镇子仍归咎于他（如今卖堆肥）；⑦ Robert 发现 U 盘丢失后很可能把它转移到了 PoppaJack 的保险箱；⑧ 凶手必须有力气把遗体从悍马车里搬到猎棚，Andy 并不强壮——除非用 creek；⑨ 结论：这份证据能让 Neil 被释放。
+- **叙事手法**：第一人称；开篇用一次生理反应（蛋糕要吐出来、Blue whale breath 却不呼吸）代替情绪命名；中段以问句推进（Did Robert kill his son…? Andy Bedford? His associate? Or someone from Tamerlane?）；随后是一段「假如」（Then I play out a scenario where…）的沙盘推演，把 Robert 的性格从材料里推出来；最后两句用同一个动词（explode / This evidence can get Neil released）把希望重新点亮。
+- **线索进展**：① 她锁上房门，得知自己只剩几分钟；② 推演一：Martin 若质问 Robert，Robert 不会动武，而是交易（leverage）——用信息换地、换 Grand Hydro；③ 但 Martin 并没去质问父亲，而是先告诉了她——因此 U 盘才是那晚该给她看的东西（而她没听）；④ 至少还有两人知道栅栏之事：Andy Bedford 与他的 associate；⑤ Andy 不会预判五小时十二英寸的雨，也不会想到那天有人在那片林子里；⑥ Andy 的溃坝前检查视频救了他一次，但镇子仍归咎于他（如今卖堆肥）；⑦ Robert 发现 U 盘丢失后很可能把它转移到了 PoppaJack 的保险箱；⑧ 凶手必须有力气把遗体从悍马车里搬到猎棚，Andy 并不强壮——除非用 creek；⑨ 结论：这份证据能让 Neil 被释放。
 - （真正的凶手指认在 ch49 之后。）
 
 ## 精读
