@@ -8,10 +8,10 @@ modified: "2026-09-30"
 ## 本章导航
 
 - **一句话概括**：撒完丈夫的骨灰回到霍巴特的新家之后，那位老妇照着社区中心的活动清单一个个试过去——排舞、哲学社、编织入门都不喜欢，第四样 Then I tried aquarobics. 却成了她重新排日子的抓手。
-- **叙事视角**：第三人称，内部声音跟着那位老妇本人；活动清单、心理活动、新结识的朋友都出自她一个人。
+- **叙事视角**：第一人称，POV 是 Cherry；活动清单、心理活动、新结识的朋友都出自她一个人的回望。
 - **场景与时间**：本地社区中心、泳池与更衣室；以及她和新朋友之间那段「走过去就到」的距离。
 - **人物弧线**：从「以为悲伤会给我换一副性格」到发现它根本没有，再到「朋友可以救你的命」——她把「自己办完」的习惯换成了「有人一起办」。
-- **叙事手法**：先列清单再逐条否掉，最后用一句短句收住；括号里全是自嘲。
+- **叙事手法**：先列清单再逐条否掉，最后用一句短句收住；括号里是自嘲。
 
 ## 精读
 
@@ -19,14 +19,14 @@ modified: "2026-09-30"
 
 **中文理解**：悲伤对讲求把事做完的人格外难办——因为你没办法把它了结。
 **关键词**：Grieving, hard for a task-focused person, You can never wrap things up
-**为什么这样写**：把悲伤当成一件待办来衡量，而它偏偏是唯一一件没有终点的事；前一句下判断，后一句用一个 you never 收掉。
+**为什么这样写**：把悲伤当成一件待办来衡量，而它偏偏根本没有终点；前一句下判断，后一句用一句 You can never wrap things up 收掉。
 **读者视角提示**：本章随后才交代这个新朋友的来历——She was the woman who waved at me from her back veranda the day of the flight. We can walk to each other’s homes. 也就是说，她在第一章那班航班上就已经站在人家的后廊上挥过手了。
 
 > **原句 2:** "So, I looked up activities at my local community centre. I tried line dancing, a philosophy club, a ‘Knitting for Beginners’ course. I hated them all."
 
 **中文理解**：她跑到本地社区中心去查活动，试了排舞、哲学社和一个「编织入门」班，三样都讨厌。
 **关键词**：looked up activities, line dancing, a philosophy club, a ‘Knitting for Beginners’ course, I hated them all
-**为什么这样写**：三项都用同一套结构（不定冠词加名词）排开，节奏齐得像张清单；最后用最短的一句 I hated them all 把三项一次否定掉。
+**为什么这样写**：三项并排，节奏齐得像张清单；后两项用同一套结构（不定冠词加名词）；最后用一句 I hated them all 把三项一次否定掉。
 **读者视角提示**：紧接着的自问 Why did I think I would suddenly become a dancer, a philosophy student or a knitter? It was like I thought grief 解释了讨厌的缘由——她以为悲伤会顺手给她换一副新性格。
 
 > **原句 3:** "I loved it. I liked exercising in water, I liked the music, I liked the energetic young instructor bouncing on the side of the pool. I told her she reminded me of the vibrant rock star ‘Pink’ and she seemed pleased."
@@ -45,7 +45,7 @@ modified: "2026-09-30"
 
 > **原句 5:** "She smelled of a beautiful fragrance. She said, ‘I know what this time is like.’"
 
-**中文理解**：那人身上有一股好闻的香味，然后对他说：我知道这个阶段是什么样的。
+**中文理解**：那人身上有一股好闻的香味，然后对她说：我知道这个阶段是什么样的。
 **关键词**：a beautiful fragrance, She said, I know what this time is like
 **为什么这样写**：一句里先闻到、后听到，节奏从感官走到语言；后半句没有补出「像我这样」的对象，读起来像只有失去过的人才开得了口。
 **读者视角提示**：下一段单独成句的 Friends can save your life. 只有几个词，把这一拍稳稳接住。
@@ -54,7 +54,7 @@ modified: "2026-09-30"
 
 **中文理解**：朋友能救你的命。
 **关键词**：Friends can save your life
-**为什么这样写**：全章最短的一句，且单独成段；前面还是具体场景，这里忽然收成一条通则。
+**为什么这样写**：单独成段的一句，而且只有几个词；前面还是具体场景，这里忽然收成一条通则。
 **读者视角提示**：她随即用一句 She became my new friend. 把这次拥抱结算成关系，把它和下一段的 we were ‘angry widows’, 放在一起看：这段友谊紧接着就被起了名字，而名字里带着怨气。
 
 > **原句 7:** "We both agreed we were not ‘merry widows’ – we would never be merry about the loss of our beautiful husbands – we were ‘angry widows’, and we joked about forming an Angry Widows Club. (I do not want to form a club of any sort.)"
@@ -62,7 +62,7 @@ modified: "2026-09-30"
 **中文理解**：两人都同意我们不是「欢乐寡妇」——为失去这样好的丈夫而欢乐，永远不可能——我们是「愤怒寡妇」，还半开玩笑地说要成立一个愤怒寡妇俱乐部。（我不想成立任何形式的社团。）
 **关键词**：not ‘merry widows’, never be merry, ‘angry widows’, forming an Angry Widows Club, I do not want to form a club of any sort
 **为什么这样写**：破折号把「不是欢乐寡妇」和具体理由夹在句中，读起来一顿一顿；括号里的自嘲把刚建立的小圈子立刻削掉半句，人物的声音因此立住。
-**读者视角提示**：这个「愤怒」是有来处的：Her husband had died two years before and she said she still felt angry at times about all the plans they had made which would never come to be.；本章最后一段仍停在这个话题上，was trying to convince him to give up work for a year and move to Tasmania, and she thought he might have agreed, fingers crossed.——她的儿子正要像父亲那样一味拼命工作，而儿媳在劝他停下来一整年。
+**读者视角提示**：这个「愤怒」是有来处的：Her husband had died two years before and she said she still felt angry at times about all the plans they had made which would never come to be。本章最后一段仍停在这个话题上，was trying to convince him to give up work for a year and move to Tasmania, and she thought he might have agreed, fingers crossed.——她的儿子正要像父亲那样一味拼命工作，而儿媳在劝他停下来一整年。
 
 ## 本章词汇
 
@@ -95,7 +95,7 @@ modified: "2026-09-30"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| knitting | 编织 | So, I looked up activities at my local community centre. I tried line dancing, a philosophy club, a ‘Knitting for Beginners’ course. I hated them all. |
+| philosophy | 哲学 | So, I looked up activities at my local community centre. I tried line dancing, a philosophy club, a ‘Knitting for Beginners’ course. I hated them all. |
 | club | 社团；俱乐部 | We both agreed we were not ‘merry widows’ – we would never be merry about the loss of our beautiful husbands – we were ‘angry widows’, and we joked about forming an Angry Widows Club. (I do not want to form a club of any sort.) |
 | grief | 悲痛 | It was like I thought grief had given me a new personality. It had not. |
 | pleased | 高兴的 | and she seemed pleased. |

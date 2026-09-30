@@ -20,7 +20,7 @@ modified: "2026-09-30"
 **中文理解**：Cherry Lockwood，也就是那位「死亡老妇」，打开了 her tiny charming home in Battery Point 那栋小巧可爱的房子的门——真不敢相信，她一直就住在离 Paula 车程十分钟的地方——然后多余地说了一句「你来了呀」。
 **关键词**：Cherry Lockwood, the Death Lady, tiny charming home in Battery Point, a ten-minute drive, unnecessarily
 **为什么这样写**：句子开头就把「死亡老妇」这个标签挂在真人名字后面，中间隔着 Paula’s friend Stephanie has insisted on bringing her over to meet Cherry. ‘She can reassure you.’ 那句「她能让你安心」；而那句 unnecessarily 替 Paula 判定了这声招呼的分量。
-**读者视角提示**：Those same pale blue eyes, but without that scary blankness. 记下了重逢时的第一眼：同一双浅蓝色的眼睛，只是少了那种吓人的空白；Those same pale blue eyes, but without that scary blankness. There is more colour in her cheeks 则把「没有血色的脸」和那只 She wears black jeans and a pretty collared blouse. A tiny brooch. No other jewellery. Lipstick that matches the pink in her blouse. 一并列了出来。
+**读者视角提示**：Those same pale blue eyes, but without that scary blankness. 记下了重逢时的第一眼：同一双浅蓝色的眼睛，只是少了那种吓人的空白；同一段里那句 She wears black jeans and a pretty collared blouse. 则把「没有血色的脸」一点点补了回来。
 
 > **原句 2:** "Paula felt exactly nothing when she heard this. There was no relief, not even when she learned one of the deaths was a hoax, and she has not changed her actions, although she has had to be more secretive, because Matt is monitoring her."
 
@@ -31,16 +31,16 @@ modified: "2026-09-30"
 
 > **原句 3:** "Cherry makes tea, puts out a plate of Monte Carlo biscuits, but remains standing, clasps her hands and says, formally, ‘Paula, I am profoundly sorry for what I said to you on that plane. I have no ability to see the future. It was pure chance any of my predictions came true.’"
 
-**中文理解**：Cherry 泡了茶，摆出一盘 Monte Carlo 饼干，却一直站着， clasped 着双手，正式地说：「Paula，我为自己在飞机上对你说的话深表歉意。我没有预知未来的能力。我的预言应验，纯属巧合。」
+**中文理解**：Cherry 泡了茶，摆出一盘 Monte Carlo 饼干，却一直站着， clasps 着双手，正式地说：「Paula，我为自己在飞机上对你说的话深表歉意。我没有预知未来的能力。我的预言应验，纯属巧合。」
 **关键词**：puts out a plate of Monte Carlo biscuits, remains standing, clasps her hands, formally, It was pure chance
-**为什么这样写**：一连串小动作（泡茶、摆饼干、站着、绞手）把这段话压成一场正式陈述；最有分量的不是抱歉，而是把应验归给 It was pure chance any of my predictions came true.’ 这个词。
-**读者视角提示**：She is nervous. ‘I’m talking too much,’ she says, and keeps talking too much, about the house and its history, 与 She is nervous. 记下了她开口前的那点紧张；Stephanie is a hugger, but Cherry is clearly not. 则是这个人的另一面——她几乎不拥抱人，Stephanie and Cherry hug awkwardly. 的动作反而是别人做给她的。
+**为什么这样写**：一连串小动作（泡茶、摆饼干、站着、绞手）把这段话压成一场正式陈述；最有分量的不是抱歉，而是把应验归给 It was pure chance 这半句。
+**读者视角提示**：She is nervous. 记下了她开口前的那点紧张，而紧接着那句 ‘I’m talking too much,’ she says, and keeps talking too much, about the house and its history, 说明她一边说一边已经察觉自己在说太多；Stephanie is a hugger, but Cherry is clearly not. 则是这个人的另一面——她几乎不拥抱人，Stephanie and Cherry hug awkwardly. 的动作反而是别人做给她的。
 
 > **原句 4:** "‘And make sure he avoids blowholes. I once saw a young boy drown in a blowhole. I’ve never forgotten it. A terrible, terrible thing. He was a good swimmer, too. Just because you can swim doesn’t mean you can’t drown.’"
 
 **中文理解**：「还要确保他避开涌潮口。我亲眼见过一个男孩淹死在涌潮口里，一辈子忘不了。太可怕了，太可怕了。他明明是个游泳好手。就是会游泳也不代表不会淹死。」
 **关键词**：avoids blowholes, a young boy drown in a blowhole, I’ve never forgotten it, He was a good swimmer, doesn’t mean you can’t drown
-**为什么这样写**：一整段反驳里最有力的不是列举，而是把对方自己刚说的好消息（会游泳）原封不动地推回去；A terrible, terrible thing 重复两次，是唯一一次情绪失守。
+**为什么这样写**：一整段反驳里最有力的不是列举，而是把对方自己刚说的好消息（会游泳）原封不动地推回去；A terrible, terrible thing 连说两遍，情绪就是从这里漏出来的。
 **读者视角提示**：Well, the child needs to learn how to swim, Stephanie! You still need to take steps to mitigate risk!’ 是她真正的建议——让孩子学游泳、把风险降下来；她给的是做法，不是保证。
 
 > **原句 5:** "‘Your OCD doesn’t care about logic,’ Dr Donnelly used to say. ‘You can’t reason with your irrational thoughts.’"
@@ -48,14 +48,14 @@ modified: "2026-09-30"
 **中文理解**：「你的强迫症不在乎逻辑，」Donnelly 医生以前总这么说。「你没法和那些非理性的念头讲道理。」
 **关键词**：Your OCD doesn’t care about logic, Dr Donnelly, You can’t reason, irrational thoughts
 **为什么这样写**：主语是「你的 OCD」而不是「你」，一句话就把病和人分开；医生的话被写成过去时，读者知道这是她早就听过、却一直没听进去的诊断。
-**读者视角提示**：Paula has been pretending this has nothing to do with her OCD, when it has everything to do with it. 交代了她这一个月在做什么——假装这与自己的病无关，而正文说其实大有关系。
+**读者视角提示**：Paula has been pretending this has nothing to do with her OCD, when it has everything to do with it. 交代了她这一周在做什么——假装这与自己的病无关，而正文说其实大有关系。
 
 > **原句 6:** "‘This condition may always be a part of your life,’ Dr Donnelly had said to her all those years ago. ‘Like asthma or eczema. But you can manage it.’"
 
 **中文理解**：「这个状况可能永远是你生活的一部分，」Donnelly 医生多年前就对她说过，「就像哮喘或湿疹。但你可以应付。」
 **关键词**：may always be a part of your life, Like asthma or eczema, But you can manage it
-**为什么这样写**：比喻挑了哮喘和湿疹——都是长期存在、不能根治、只能管理的；后面 But you can manage it 只有六个词，却把整句话从绝望拉回可操作。
-**读者视角提示**：He’d warned her that her OCD might flare up in times of stress. 是同一个医生更早的提醒：压力之下会加重；It’s stressful being a full-time mother of two young children. It’s stressful hearing that your son might drown. 把这种压力一条条列了出来。
+**为什么这样写**：比喻挑了哮喘和湿疹——都是长期存在、不能根治、只能管理的；后面 But you can manage it 只有这么短的一句，却把整句话从绝望拉回可操作。
+**读者视角提示**：He’d warned her that her OCD might flare up in times of stress. 是同一个医生更早的提醒：压力之下会加重；It’s stressful being a full-time mother of two young children. It’s stressful hearing that your son might drown. 把这种压力铺开写了出来。
 
 > **原句 7:** "and also, she’s going to ask Stephanie to keep an eye out for any part-time contract law positions because the blissful moments of motherhood aren’t enough, and it’s a first principle of law that a mutually agreeable contract offers both parties certainty, and she has to get that elusive feeling somewhere."
 

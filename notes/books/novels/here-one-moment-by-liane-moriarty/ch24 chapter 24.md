@@ -48,7 +48,7 @@ modified: "2026-09-30"
 **中文理解**：她和母亲在厨房跳Neil Diamond 的歌，一边削土豆一边剥豌豆；她自己跳得难看但跳得起劲，母亲跳得好看。两人在好些事情上立场对立。
 **关键词**：philosophically opposed, multiple issues
 **为什么这样写**：亲密的厨房场景与「在多个问题上存在哲学分歧」并排出现，温柔和冲突被放进同一段；再加上下一句「也不可能每天晚饭都吃土豆和豌豆，虽然感觉像是」，回忆开始自我打趣。
-**读者视角提示**：母亲在这里第一次被写成会跳舞的人；记住这个画面，后面她关于母亲算术的那段会接着同一份亲昵往下写。
+**读者视角提示**：母亲在这里不只是背景，而是一个会跟着唱片跳舞的人；记住这个画面，后面她关于算术的那段会接着同一份亲昵往下写。
 
 > **原句 6:** "I become too literal, I try too hard to be accurate when no-one cares as much as me about accuracy, and I can see by people’s faces that I am being ‘odd’, and I am forced to pinch the skin on my wrist to make myself stop talking."
 

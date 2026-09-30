@@ -19,7 +19,7 @@ modified: "2026-09-30"
 
 **中文理解**：他告诉那位自称 Leo 的老先生：我今天去参加了人生里的第一场葬礼，所以本来就已经有点……不对劲。
 **关键词**：first funeral today, strange, older man
-**为什么这样写**：开场就把一个成年男人心里最难受的事用「有点 . . . strange」这种轻描淡写带过；句子里的省略号是他哽住的地方，也是全书把「死亡」一词往后推的固定手法。
+**为什么这样写**：开场就把一个成年男人心里最难受的事用「有点 . . . strange」这种轻描淡写带过；句子里的省略号是他哽住的地方，也是她把「死亡」一词往后推的固定手法。
 **读者视角提示**：本章的悬念不在死期，而在「是谁死了」；这句开场先把死者身份压住，读者要等后面几段才拿到。
 
 > **原句 2:** "‘A friend? A friend your own age died?’ Ethan turns from the window to see Leo turning his whole body to face him so that his seatbelt pulls uncomfortably across his neck. He looks horrified. Genuinely horrified. It’s gratifying."
@@ -40,14 +40,14 @@ modified: "2026-09-30"
 
 **中文理解**：Leo 把那位老妇说成一个可怜人，「我们觉得」是痴呆，还在分派每个人会怎么死、什么时候死。
 **关键词**：poor soul with dementia, how and when, we think
-**为什么这样写**：这是全书里第一次有人给那条老妇下诊断，而且是用最轻描淡写的口吻下的；「怎么死、什么时候死」这个并列表语，把她做的事降格成了一份问卷。
+**为什么这样写**：这是本章里有人头一次给那位老妇下诊断，而且是用最轻描淡写的口吻下的；「怎么死、什么时候死」这个并列表语，把她做的事降格成了一份问卷。
 **读者视角提示**：这句诊断出现在本章中段，而作者让接下来说话的人继续聊预言准不准——一个错误判断就此被读者默认为前提。
 
 > **原句 5:** "When Harvey was just Harvey. Like, not that important. He had come up to Sydney for the weekend."
 
 **中文理解**：倒叙到两周前：Harvey 那时还只是他自己，没那么重要；他为这个周末来悉尼，评论很差，但两人觉得还算不错。
 **关键词**：not that important, come up to sydney, harvey was just harvey
-**为什么这样写**：一句自嘲就把死者从主角的位置上撤了下来；紧跟的三个短句都在交代无关紧要的细节——评论如何、周末如何、什么天气都没有——仿佛他并不是本章真正要谈的那件事。
+**为什么这样写**：一句自嘲就把 Harvey 从主角的位置上撤了下来；紧跟的三个短句都在交代无关紧要的细节——评论如何、周末如何、什么天气都没有——仿佛他并不是本章真正要谈的那件事。
 **读者视角提示**：本章在这里换过一次叙述底色——从后座的对话切进回忆，读者的知情一下子比两个人都多。
 
 > **原句 6:** "‘She did, mate!’ says the driver happily. ‘Choked to death a minute before midnight on her sixtieth birthday. Eating a leftover party pie from her birthday party. Always a bit greedy, Auntie Carol, may the poor old chook rest in peace.’"

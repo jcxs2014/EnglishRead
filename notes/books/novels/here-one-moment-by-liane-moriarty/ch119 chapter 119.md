@@ -7,8 +7,8 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：全书最短的一章——有人正要为后院那场险情庆幸时，那位老妇先把话按了下去：也许根本没砸到他；就算砸到了，也不会归到工伤那一类，因为那不是 Leo 的场地。
-- **叙事视角**：第三人称、回忆式的口吻，跟着那位老妇本人；全章只有一段话。
+- **一句话概括**：只有一段话的一章，极短——有人正要为后院那场险情庆幸时，那位老妇先把话按了下去：也许根本没砸到他；就算砸到了，也不会归到工伤那一类，因为那不是 Leo 的场地。
+- **叙事视角**：第一人称，POV 是 Cherry；全章只有一段话，是她抢在所有人之前说出口的话。
 - **场景与时间**：紧接后院那场意外之后，她开口说出的头几句话。
 - **人物弧线**：把「我救了一个人」这份自觉按回去，只留下「他大概没事」——她先处理的是责任归属，不是庆幸。
 - **叙事手法**：开口一个单词就降调；用一句文书式的归类判断收尾。
@@ -27,14 +27,14 @@ modified: "2026-09-30"
 **中文理解**：他可能根本没被砸到；就算砸到了，我也不认为这会归进工作场所事故那一类，因为那不是 Leo 的工作场所。
 **关键词**：It might not have killed him, even if it had, fallen under the classification, a workplace accident, wasn’t Leo’s workplace
 **为什么这样写**：might 之后立刻接 even if，把「万一是真的」先让出去，再用一句归类判断把它收回来；理由落在「谁的场地」，而不是「谁的责任」。
-**读者视角提示**：for everyone to get too excited about this. It might not have killed him, and even if it had, I don’t believe it would have fallen under the classification of a workplace accident because it wasn’t Leo’s workplace. 指的是旁人；本章从头到尾没有写 Leo 本人如何脱险。
+**读者视角提示**：全章从头到尾没有写 Leo 本人如何脱险，也没有交代那台机器到底砸没砸到他；她只把话说到「不算工伤」这一层就收住了。
 
 > **原句 3:** "I don’t believe it would have fallen under the classification of a workplace accident because it wasn’t Leo’s workplace."
 
 **中文理解**：我不认为这会算进工作场所事故那一类，因为那不是 Leo 的工作场所。
 **关键词**：I don’t believe, fallen under the classification of, a workplace accident, wasn’t Leo’s workplace
 **为什么这样写**：把上一块的后半句单独拉出来作结，整章因此停在一个归类动作上——她要回答的不是「他有没有事」，而是「这件事算谁的」。
-**读者视角提示**：I don’t believe it would have fallen under the classification of a workplace accident because it wasn’t Leo’s workplace. 与 I don’t believe it would have fallen under the classification of a workplace accident because it wasn’t Leo’s workplace. 是同一处判断的两种切法；把本章和前一章并排看，落差就是从「喊出他名字」到「先划清责任」。
+**读者视角提示**：前一块关键词里已经出现过的那串判断，在这里被单独拉出来当结论；把本章和前一章并排看，落差就是从「喊出他名字」到「先划清责任」。
 
 ## 本章词汇
 

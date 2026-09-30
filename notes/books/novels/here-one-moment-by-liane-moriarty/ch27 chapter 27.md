@@ -20,7 +20,7 @@ modified: "2026-09-30"
 **中文理解**：在霍巴特时人人都笑着恭喜他们；一到悉尼，同样一身婚纱礼服却像万圣节的化装服——而今天并不是万圣节。
 **关键词**：halloween costumes, not halloween, wedding clothes
 **为什么这样写**：先写别处的反应，再写此刻的反应，最后用一个否定句把这层落差钉住；礼服还是那身礼服，变的是看它们的人。
-**读者视角提示**：本章的恐惧大多来自「换了一个地方」，而机场是这一章里唯一一个所有人都同意的公共空间。
+**读者视角提示**：本章的恐惧大多来自「换了一个地方」，而机场是这一章里所有人都默认的公共空间。
 
 > **原句 2:** "‘Don’t worry,’ Eve reassures her. ‘She told me I was going to die of intimate partner homicide.’"
 
@@ -55,7 +55,7 @@ modified: "2026-09-30"
 **中文理解**：女儿还是女儿，爸爸还是爸爸，哪怕三个人都已年老——Eve 觉得这件事相当深刻。
 **关键词**：still a daughter, all three ancient, quite profound
 **为什么这样写**：两个短句用同一个句式叠起来，像一句被加粗的话；「古老」被安排在感叹之后，反差因此成立——关系的语法不随年龄失效。
-**读者视角提示**：本章谈的从来不是那些预言准不准，而是人靠什么维持关系；这一段是全书里少见的、把死亡放到远处来谈的地方。
+**读者视角提示**：本章谈的从来不是那些预言准不准，而是人靠什么维持关系；这一段是本章里少见地把死亡放到远处来谈的地方。
 
 > **原句 7:** "She is not going to say or even think another thing about those three awful, inaccurate, inconceivable words."
 

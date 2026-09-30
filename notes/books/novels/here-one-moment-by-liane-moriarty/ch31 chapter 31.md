@@ -20,7 +20,7 @@ modified: "2026-09-30"
 **中文理解**：他们是在派对上认识的，他第一眼抓住的是她那只表：方形表盘、十八开白金、镶满白钻。
 **关键词**：rectangular face, eighteen-carat white gold, white diamonds
 **为什么这样写**：三个名词短语并排，不带一个动词，整段只写一块表的样子；这段描写后来会变成两人关系的模板，所以它必须先以清单的方式存在。
-**读者视角提示**：本章把这只表写了不止一次——第一次是样子，第二次是来历，第三次是他在心里谢它带来的一切。
+**读者视角提示**：本章把这只表写了不止一次：先写样子，后写来历，末了又写他在心里谢它带来的一切。
 
 > **原句 2:** "said Neve, before she was Neve and when instead she was a moderately drunk pretty girl sitting precariously on a stool at a high table."
 

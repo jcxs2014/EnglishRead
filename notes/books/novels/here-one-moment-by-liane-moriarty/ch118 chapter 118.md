@@ -7,11 +7,11 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：航班过去七个月，那位老妇在丈夫忌日前一周被人按响门铃——来客 The man who helped me with my bag on the plane.，带来一个她毫无记忆的自己在飞机上说过的话、一份「你被第四个人害死了」的判断，和一处安全屋。
-- **叙事视角**：第三人称有限视角，跟着那位老妇；她边听边在记忆里找证据，越找越觉得对方说得通。
-- **场景与时间**：十一月的一个上午，她家门口；随后是 Mira 家 Mira answered the door incandescent with happiness. 的那阵热闹，和她家后院。
-- **人物弧线**：从「羞愧、不愿开门」到「完全相信」，再被后院那台机器推回「天知道我是不是对他说过什么」——连那个说一句 she took a moment to think, and said, ‘Maybe.’ She seemed like a serious little girl and I liked her. 的孙女 Bridie 也被卷了进来；本章结尾她靠喊出一个名字救了人。
-- **叙事手法**：括号里插入的自述式降调 ＋ 一段以「后来我才知道」收束的旧账 ＋ 把漫不经心的误会写成生死。
+- **一句话概括**：航班过去七个月，那位老妇在丈夫忌日前一周被人按响门铃——来客 The man who helped me with my bag on the plane.，带来一个她毫无记忆的自己在飞机上说过的话、一句「你已经应验了三起，现在出现了第四起」，和一处安全屋。
+- **叙事视角**：第一人称，POV 是 Cherry；她边听边在记忆里找证据，越找越觉得对方说得通。
+- **场景与时间**：十一月的一个上午，她家门口；随后是 Mira 家 Mira answered the door incandescent with happiness. 的那阵热闹，和 Mira 家的后院。
+- **人物弧线**：从「羞愧、不愿开门」到「完全相信」，再被后院那台机器推回「天知道我是不是对他说过什么」——连那个只答了一句「也许」的孙女 Bridie 也出现在同一间屋子里；本章结尾她靠喊出一个名字救了人。
+- **叙事手法**：括号里插入的自述式降调 ＋ 一段把「当初那种感觉」重新搬出来的旧账 ＋ 把漫不经心的误会写成生死。
 
 ## 精读
 
@@ -27,12 +27,12 @@ modified: "2026-09-30"
 **中文理解**：他说他一直在跟这件事，而且越来越担心；他说她准确预言了三起死亡，现在出现了第四起。
 **关键词**：following the story, increasingly concerned, correctly predicted three deaths, now there had been a fourth
 **为什么这样写**：计数被放在句子的两头——先说「三」这个已经既成的事实，再用一个 now 把「四」推进当下；读者跟着的是时间的方向，而不是数字的大小。
-**读者视角提示**：One November morning, seven months after the flight, and about a week before the anniversary of Ned’s death, as well as the deaths of Jill and Bert, someone knocked on my door. 把这一天钉在忌日前一周：来访的时点不是随机的，第四起死亡与这个日期在同一条线上。
+**读者视角提示**：One November morning, seven months after the flight, and about a week before the anniversary of Ned’s death, as well as the deaths of Jill and Bert, someone knocked on my door. 把这一天钉在忌日前一周：来访的时点不是随机的：叙述者把敲门这一天与忌日的距离写得很精确。
 
 > **原句 3:** "It was frightening and distressing to hear they were now dead and that people thought it proved I had supernatural abilities. I felt that dreadful sense of responsibility I’d experienced when I learned about the two people falling off the rooftop terrace."
 
 **中文理解**：听说那些人已经死了、而人们认为这证明她有超自然能力，这让她又怕又难受；她又一次感到了当初得知有人从屋顶露台坠落时那种可怕的责任感。
-**关键词**：frightening and distressing, people thought it proved, supernatural abilities, a dreadful sense of responsibility
+**关键词**：frightening and distressing, people thought it proved, supernatural abilities, that dreadful sense of responsibility
 **为什么这样写**：第二句用「当初那种」把两件事扣在一起：她早就背过一次责任，现在被告知要再背一次；回忆不是插叙，是加重。
 **读者视角提示**：He gently told me what I’d done on the plane and seemed unsurprised when I said I had no memory of it. 交代她为什么当时就信了——对方语气平常，还提到 who else but me would talk of ‘cause of death’ and ‘age of death’?；I remembered how the little boy had been staring back at me, and children rarely show interest in me. 与 there was something so eerily familiar about what Thor described – not that I suddenly remembered my actions, but as if I could remember once dreaming them, 是同一次搜索里的两条旁证，It was the same sick shame I used to feel when people told me about my drunken behaviour at those rooftop parties. 那种熟悉的丢脸感也跟着回来了。
 
@@ -40,7 +40,7 @@ modified: "2026-09-30"
 
 **中文理解**：（你看。他其实并没有说「安全屋」，他说的是「投资房产」。只是他身上确实带着一种在跨国情报工作的人才会有的相当 exciting 的做派。）
 **关键词**：He didn’t really say ‘safe house’, He said ‘investment property’, international espionage
-**为什么这样写**：整块被括号括起来，是叙述者事后向读者交底：她当时被说服的正是这两个词的落差；「房产」是这个世界能报销的说法，「安全屋」是另一个世界的。
+**为什么这样写**：整块被括号括起来，是叙述者事后向读者交底：她当时被说服的正是这两种说法之间的落差；「房产」是这个世界能报销的说法，「安全屋」是另一个世界的。
 **读者视角提示**：同一段里 He also said he had a safe house where I could stay until the story blew over. 才是他当时的原话，括号把「他真说了什么」和「我们怎么理解」分成两层；紧接着的 He said he believed my identity was about to be exposed, probably any day now, and that people were looking for me, and he didn’t want me to walk out my front door 才是他真正的顾虑，而 He said it was up to me how I worded it. 把措辞权整个交回给她。
 
 > **原句 5:** "His cape didn’t swirl, as he wasn’t wearing one and he’s not really a superhero. He’s just one of those heroically helpful people. He certainly rescued me."

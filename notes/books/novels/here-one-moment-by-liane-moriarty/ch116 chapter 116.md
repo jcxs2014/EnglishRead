@@ -7,7 +7,7 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：一个喝得站不稳的前任闯进朋友请客的餐区，从寒暄一路闹到当面点破旧事，把好好的一个夜晚整个毁掉，最后在 Circular Quay 边的人流上被一只海鸥和一条巡逻犬拦了下来。
+- **一句话概括**：一个喝得站不稳的熟人闯进他那张桌子所在的餐区，从寒暄一路闹到当面点破旧事，把好好的一个夜晚整个毁掉，最后在 Circular Quay 边的人流上被一只海鸥和一条巡逻犬拦了下来。
 - **叙事视角**：第三人称有限视角，紧跟 Ethan；全章的忍耐、愤怒与侥幸都从他一个人的身体里出来。
 - **场景与时间**：悉尼一家餐吧的户外桌旁，夜里；随后是往 Circular Quay 方向走的人流。
 - **人物弧线**：从「小心一点就过去了」，到「这个夜晚被污染了」，再到「活着」本身变成收获。
@@ -17,9 +17,9 @@ modified: "2026-09-30"
 
 > **原句 1:** "Ethan turns and there is Carter. He’s clearly drunk. His eyes are unfocused. His too-tight buttons-straining-over-pecs mulberry-coloured shirt has come loose from his jeans."
 
-**中文理解**：他转过身，认出是 Carter——明显喝多了，眼神涣散，那件扣子紧绷到快撑不住的桑葚紫衬衫已经从裤腰上松了出来。
+**中文理解**：他转过身，认出是 Carter——明显喝多了，眼神涣散，那件扣子紧绷到快撑不住的桑葚色衬衫已经从牛仔裤上松了下来。
 **关键词**：Ethan turns, there is Carter, clearly drunk, eyes are unfocused, mulberry-coloured
-**为什么这样写**：整句没有一处写心理，全是可以看见的证据：失焦的眼神、崩开的衬衫。作者把「危险」整个外包给身体动作，让读者自己下结论。
+**为什么这样写**：整段没有一处写心理，全是可以看见的证据：失焦的眼神、绷到快撑破的衬衫。作者把「危险」整个外包给身体动作，让读者自己下结论。
 **读者视角提示**：紧跟着的那句 "With the studied carefulness of a drunk" 用「drunk」去修饰「小心」——本该紧绷的动作，在醉汉身上变成了表演。
 
 > **原句 2:** "Ethan thinks about the ‘stealth knife’ in his pocket, but at what point is he meant to use it? This point? Or does he wait until he’s attacked? When it’s too late."
@@ -34,7 +34,7 @@ modified: "2026-09-30"
 **中文理解**：对方转而指着 Ethan，说他睡了自己的女朋友，就在他眼皮底下。
 **关键词**：You fucking him, He points at Ethan, fucked my girlfriend, Right under my nose
 **为什么这样写**：Right under my nose 把「背叛」压到一个身体尺度上——不是远处、不是从前，就是鼻子底下；这样一来，指责比脏话更难躲开。
-**读者视角提示**：比这一句更狠的是它前面那段：it’s safer to let a guy this drunk slobber over their hands, because his mood can turn on a dime,——Ethan 心里清楚两位女士不敢拒绝的理由，是这个人情绪说变就变，读者到此才明白他一直在忍什么。
+**读者视角提示**：比这一句更狠的是它前面那段：it’s safer to let a guy this drunk slobber over their hands, because his mood can turn on a dime，Ethan 心里清楚两位女士不敢拒绝的理由，是这个人情绪说变就变，读者到此才明白他一直在忍什么。
 
 > **原句 4:** "‘Or maybe you didn’t, but you wanted to, didn’t you, you badly wanted to, sitting there in your room –’ He uses his fist to make a crude gesture."
 
@@ -55,11 +55,11 @@ modified: "2026-09-30"
 **中文理解**：那只白羽扑腾尖叫的海鸥径直朝 Carter 那张凶恶的脸飞去，仿佛他的头是一根它决心偷走的薯条；牵巡逻犬的那位喊了一声脏话，狗扑上去，Carter 踉跄着退开，攻击被挡住了。
 **关键词**：the seagull, Carter’s murderous face, a French fry, the bird patrol dog, thwarted
 **为什么这样写**：全章最凶的一刻被写成喜剧：凶恶的脸、薯条、巡逻犬、脏话挤在同一句里，三种不相称的意象把恐惧笑掉了一半。
-**读者视角提示**：救人的是一只野鸟和一张报纸上的巡逻犬——作者没给主角安排任何反击，连 ‘Run!’ says Lila. 那一声也是别人替他喊的。
+**读者视角提示**：救人的是一只野鸟和一位牵狗的陌生人——作者没给主角安排任何反击，连 ‘Run!’ says Lila. 那一声也是别人替他喊的。
 
 > **原句 7:** "They’re running under silver moonlight and the city lights reflect off the shimmering harbour and Ethan isn’t dead, he’s alive, he’s so amazingly, gratefully alive, and he doesn’t remember it happening but Faith seems to be holding his hand."
 
-**中文理解**：他们跑在银色月光下，城市灯光映在波光粼粼的港湾上；Ethan 没有死，他活着，他此刻/amazingly、gratefully 活着，而且他不记得这件事发生过，只觉得 Faith 似乎正握着他的手。
+**中文理解**：他们跑在银色月光下，城市灯光映在波光粼粼的港湾上；Ethan 没有死，他活着，而且活得如此惊人、如此心怀感激；他不记得这件事发生过，只觉得 Faith 似乎正握着他的手。
 **关键词**：silver moonlight, shimmering harbour, isn’t dead, gratefully alive, doesn’t remember it happening
 **为什么这样写**：句子先用否定开场（isn’t dead），再连着两个 he’s 排比，把「活着」写成一串短促的确认；末句的 doesn’t remember it happening 又把这一切推回模糊。
 **读者视角提示**：全章停在这半句不确定里——holding his hand 前面用的是 seems to be；刚才究竟怎么脱身，原文没有交代，读者也不会知道。
@@ -86,7 +86,7 @@ modified: "2026-09-30"
 | slopping | 洒出来的 | He must be returning from the bar because he holds a bottle of boutique beer in one hand and a slopping glass of white wine in the other. |
 | boutique | 精品的 | He must be returning from the bar because he holds a bottle of boutique beer in one hand and a slopping glass of white wine in the other. |
 | amicable | 友善的；和气的 | He seems amicable. Not angry. Perhaps it will be fine. |
-| still（此处作动词） | 使…安静下来 | The volume and vitriol are enough to still surrounding conversations. |
+| still | 使…安静下来（此处作动词） | The volume and vitriol are enough to still surrounding conversations. |
 | turn on a dime | 说变就变 | because his mood can turn on a dime, but it’s wrong, it’s so wrong, |
 | faux courtly | 装模作样的宫廷礼 | Carter lurches forward and takes each woman’s hand in a faux courtly manner, and kisses their hands, |
 | deluded | 自以为是的；搞错的 | ‘Okay, that’s enough,’ says Ethan. ‘You’re deluded, mate. We’re leaving.’ |
