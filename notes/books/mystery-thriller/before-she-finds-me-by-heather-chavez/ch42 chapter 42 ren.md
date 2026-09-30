@@ -63,7 +63,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 5:** She reminded Brie of ethylene glycol: sweet to the taste but common and unreliable. An amateur’s poison. In contrast, Julia was more like tetrodotoxin, a sodium channel blocker carried in some fish. Elegant and extremely potent.
+> **原句 5:** She reminded Brie of ethylene glycol: sweet to the taste but common and unreliable. An amateur’s poison. In contrast, Julia was more like tetrodotoxin, a sodium channel blocker carried in some fish. Elegant and extremely potent. A more interesting choice, in Ren’s opinion.
 
 **中文理解**：她让 Brie 想起乙二醇：入口是甜的，可是常见、也不可靠，业余者的毒。相比之下 Julia 更像河豚毒素，一种由某些鱼携带的钠通道阻断剂。优雅，而且效力极强。照 Ren 的看法，是个更有意思的选择。
 

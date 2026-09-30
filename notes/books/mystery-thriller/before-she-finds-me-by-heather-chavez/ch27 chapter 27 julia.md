@@ -17,11 +17,11 @@ modified: "2026-09-30"
 
 > **原句 1:** On her way, Julia stopped at the grocery store to pick up some seeded sourdough, a bottle of distilled water for the newly potted plant, and a large can of Eric’s favorite lentil soup. Good hangover food. And a peace offering.
 
-**中文理解**：路上，Julia 在杂货店停下，买了带种子的酸面包、给新栽的盆栽配的一瓶蒸馏水，还有一大罐 Eric 最爱的扁豆汤。适合宿醉的吃食。也是一份和礼物。
+**中文理解**：路上，Julia 在杂货店停下，买了带种子的酸面包、给新栽的盆栽配的一瓶蒸馏水，还有一大罐 Eric 最爱的扁豆汤。适合宿醉的吃食。也是一份讲和的礼物。
 
 **关键词**：seeded sourdough / distilled water / Good hangover food / And a peace offering
 
-**为什么这样写**：三样东西并排，却不是同一类：面包是给自己的、蒸馏水是给植物的、汤是给他的。分号般的节奏把「我来干什么」写成了清单。作者不写她心里多想道歉，只在末尾补一句「也是一份和礼物」，让这趟探视的性质从义务降级成策略；紧接着下一句却是 Eric 蓬头垢面翻垃圾的事实——她带着和平条款来，对方已经没有力气接了。
+**为什么这样写**：三样东西并排，却不是同一类：面包是给自己的、蒸馏水是给植物的、汤是给他的。分号般的节奏把「我来干什么」写成了清单。作者不写她心里多想道歉，只在末尾补一句「也是一份讲和的礼物」，让这趟探视的性质从义务降级成策略；紧接着下一句却是 Eric 蓬头垢面翻垃圾的事实——她带着和平条款来，对方已经没有力气接了。
 
 **读者视角提示**：注意蒸馏水这一样：她连对方新栽的盆栽都记得。读者会把这读成体贴，读到后面才明白这也是一种掌握细节的能力。
 

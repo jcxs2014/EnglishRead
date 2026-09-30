@@ -57,7 +57,7 @@ modified: "2026-09-30"
 
 **关键词**：dump her body in the ocean / Fewer questions that way / scrubbed of evidence / glanced sideways at the bathroom
 
-**为什么这样写**：Nolan 的务实被写成一整套减法：把海当成自动销毁证据的装置，把谋杀压缩成 `Fewer questions that way` 这样一道「少提问」的问题。而作者分给 Ren 的只有一个动作——`glanced sideways at the bathroom`，横着的一眼。她嘴上替丈夫补完计划流程，眼睛已经偏到被关着的那个人身上；`they won’t be able to tell whether it was an accident, suicide, or murder` 这三种并列，正是她刚刚在心里拆成两层的同一件事。
+**为什么这样写**：Ren 的务实被写成一整套减法：把海当成自动销毁证据的装置，把谋杀压缩成 `Fewer questions that way` 这样一道「少提问」的问题。而作者分给 Ren 的只有一个动作——`glanced sideways at the bathroom`，横着的一眼。她嘴上替丈夫补完计划流程，眼睛已经偏到被关着的那个人身上；`they won’t be able to tell whether it was an accident, suicide, or murder` 这三种并列，正是她刚刚在心里拆成两层的同一件事。
 
 **读者视角提示**：这段里她的「配合」全靠旁白里那一眼来标记。只听台词的人会以为她完全站在丈夫那边。
 

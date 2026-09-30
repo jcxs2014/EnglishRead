@@ -89,11 +89,11 @@ modified: "2026-09-30"
 
 > **原句 7:** A nearly full moon passed behind the clouds. The world dimmed. Julia’s breath warmed her face. Ren wished she’d been able to save her daughter, but maybe it wasn’t such a terrible way to die after all.
 
-**中文理解**：一轮接近满月的月亮从云后走过。四周暗了下去。Julia 的呼吸暖着她的脸。Ren 后悔没能救出对方自己的女儿，但也许这样死也不算太糟。
+**中文理解**：一轮接近满月的月亮从云后走过。四周暗了下去。Julia 的呼吸暖着她的脸。Ren 后悔没能救下自己腹中的那个孩子，但也许这样死也不算太糟。
 
 **关键词**：A nearly full moon passed behind the clouds / The world dimmed / it wasn’t such a terrible way to die
 
-**为什么这样写**：收尾是一个纯视觉的转场：月亮走过云后、世界变暗，两句把亮度抽走，再让一口温热的气落在脸上，把镜头收到最近处。`nearly full` 比「满月」更合适，缺一点，留着未完成的余量。末句用 `maybe` 与 `wasn’t such a terrible way` 两层退让，让她直到最后一刻才允许自己接受自己可能会死这件事；而她真正后悔的是没救成对方的孩子，不是自己的死法。
+**为什么这样写**：收尾是一个纯视觉的转场：月亮走过云后、世界变暗，两句把亮度抽走，再让一口温热的气落在脸上，把镜头收到最近处。`nearly full` 比「满月」更合适，缺一点，留着未完成的余量。末句用 `maybe` 与 `wasn’t such a terrible way` 两层退让，让她直到最后一刻才允许自己接受自己可能会死这件事；而她真正后悔的是没救成那个还没出世的孩子，不是自己的死法。
 
 **读者视角提示**：全章停在这一口温热的气上。请把它当作一个尚未结算的承诺，别替下一章先下结论。
 

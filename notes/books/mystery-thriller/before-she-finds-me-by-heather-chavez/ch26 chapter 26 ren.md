@@ -17,7 +17,7 @@ modified: "2026-09-30"
 
 > **原句 1:** But the fifteen-minute window after class was possible. That was when Clarissa would take K.J. for a treat, usually frozen yogurt in the same strip mall as the studio. K.J. liked vanilla-chocolate swirl topped with gummy worms and crushed Oreos. They always ordered it to go. Not ideal, but Ren could make it work.
 
-**中文理解**：但课后那十五分钟的窗口是可行的。那正是 Clarissa 会带 K.J. 去吃点东西的时候，通常就在跆拳道馆同一条临街商铺里的冻酸奶店。K.J. 喜欢香草巧克力旋涡口味，上面撒着橡皮虫糖和压碎的奥利奥。他们总是点了带走。不理想，但 Ren 能想办法把它变成机会。
+**中文理解**：但课后那十五分钟的窗口是可行的。那正是 Clarissa 会带 K.J. 去吃点东西的时候，通常就在柔道馆同一条临街商铺里的冻酸奶店。K.J. 喜欢香草巧克力旋涡口味，上面撒着橡皮虫糖和压碎的奥利奥。他们总是点了带走。不理想，但 Ren 能想办法把它变成机会。
 
 **关键词**：the fifteen-minute window / ordered it to go / Not ideal, but Ren could make it work
 
@@ -59,7 +59,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：三个动作层层降低音量：先自贬（可能不合适），再压嗓（dropping her voice），最后抛出请求。「加进推荐人名单」是关键——它把一个杀人动机的探问包装成求职社交，逻辑上完全站得住，Ren 赌的是对方不会细究。而对方一开口就是「我们离婚了」加一句「你不会想拿 Karl 当推荐人的」，玩笑话当场把这条路堵死，也顺带泄露了婚姻状况。
 
-**读者视角提示**：Ren 在这里用「未来」包装「过去」，而且是当着 Nolan 的面说的。读者在此处只会觉得她脸皮厚，读到下一章 Julia 也用同一套办法接近 Eric 时，才会意识到这两个人在同一周里做了同一件事。
+**读者视角提示**：Ren 在这里用「未来」包装「过去」，而且是对着那位前妻说的——Nolan 此刻并不在场。读者在此处只会觉得她脸皮厚，读到下一章 Julia 也用同一套办法接近 Eric 时，才会意识到这两个人在同一周里做了同一件事。
 
 ---
 
