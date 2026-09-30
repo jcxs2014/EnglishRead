@@ -125,7 +125,7 @@ modified: "2026-09-30"
 
 **句子结构**：无主句式的定语短语（the protocol of + 动名词并列），两个动名词之间用逗号分隔；引号内为祈使式连动的对仗（shoot / lie），时态为原形；后置 now 在原文中作状语。
 
-**关键词**：the protocol of / shoot first, lie later
+**关键词**：protocol of / shoot first, lie later
 
 **表达方式**：口号化的动名词对仗。前件是短促的身体动作，后件是慢速的言语动作，两个动作以逗号串成一条程序——先做，后说。协议（protocol）一词把犯罪行为抬升为可重复的操作规程。
 

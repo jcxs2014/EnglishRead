@@ -138,7 +138,7 @@ modified: "2026-09-30"
 
 **句子结构**：主句为 Israel refers to wars as “operations”，其后同位语 a practice + 定语从句 that normalizes them and downgrades their horror 构成结果状语；refer to A as B 为固定框架，them 与 wars 指代一致。
 
-**关键词**：refers to wars as “operations” / normalizes / downgrades their horror
+**关键词**：refers to wars as / normalizes them / downgrades their horror
 
 **表达方式**：术语替换的修辞学。两个动词 normalizes（使…常态化）与 downgrades（使…降格）构成递进：先取消"例外性"，再取消"强度"——先让战争成为日常，再让日常不必解释。
 
@@ -152,7 +152,7 @@ modified: "2026-09-30"
 
 **句子结构**：主句为 Worthy of note is + 主语（倒装句，把宾语提到句首以示强调）；where 引导非限定性定语从句修饰 the Israeli civil arena；从句内 mivtza (operation) means the sale of goods for a short period of time, a “sale.” 以逗号同位语 a “sale.” 收束（用短促名词重复解释前述名词短语）。
 
-**关键词**：Worthy of note / the Israeli civil arena / mivtza (operation) / a short period of time / a “sale”
+**关键词**：Worthy of note / the Israeli civil arena / mivtza (operation) / a “sale.
 
 **表达方式**：倒装强调句 + 词源对撞。以 Worthy of note 开篇，把"民用词义"抬到与"军事命名"同等的高度；末句用两个字符的短名词 a “sale.” 结束，语调上有一记轻响——把血腥买卖放进"促销"这个日常语域。
 
