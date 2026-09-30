@@ -195,7 +195,7 @@ modified: "2026-09-30"
 
 **关键词**：The war / had clearly been / gratuitous / an ineptly planned and executed exercise of / self-delusion
 
-**表达方式**：两个名词短语并置作表语，第一个（gratuitous）是无偿的、不必要的，第二个（an exercise of self-delusion）是一整套自我欺骗的操演。had clearly been 的过去完成时把判断放置在事后，而 clearly 一词使它成为无争议的共识而非作者的主观看法。
+**表达方式**：两个名词短语并置作表语，第一个（gratuitous）是无偿的、不必要的，第二个（an ineptly planned and executed exercise of self-delusion）是一整套计划与执行都不在行的自我欺骗操演。had clearly been 的过去完成时把判断放置在事后，而 clearly 一词使它成为无争议的共识而非作者的主观看法。
 
 **为什么这样写**：这一句紧接在作者对"五十多个调查委员会"的自述之后，其功能是**把分散的调查结果收束为一个判断**，而这一判断的语言被刻意保持在无主状态（The war，而非 the government 或 the generals）。gratuitous 一词的选择尤其关键：在英语里 gratuitous 通常指"无端的、不必要的伤害或漫无边际的"，用于一场战争，它把全部军事行动重新归类为"无端"，而不是"执行有误"。而 exercise of self-delusion（自我欺骗的操演）把"自欺"写成一次有组织的活动：exercise 一词暗示它需要计划与坚持。ineptly 一词（无能的、不熟练的）同时覆盖计划与执行两端，把失败定位在能力而非意愿。作者随后立即以"几乎所有上述内容都能直接从 1982 年的调查报告抄来"收束全章——因此这句判词并非新论断，而是对一份已有报告的复述，而复述本身就是本章的论点。
 

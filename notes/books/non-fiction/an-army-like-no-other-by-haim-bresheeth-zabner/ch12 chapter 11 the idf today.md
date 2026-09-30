@@ -102,7 +102,7 @@ modified: "2026-09-30"
 
 **中文理解**：这套系统完全未能向以色列国防军预警那次最原创的抵抗努力。
 
-**句子结构**：主句为 This system（主语，回指前句所建的占领与镇压系统）+ 过去时谓语 totally failed + 不定式 to warn + 宾语 the IDF + 介词短语 of the resistance efforts；warn 后接双宾语（warn the IDF of…），介词 of 的宾语含最高级表达 the most original of resistance efforts。
+**句子结构**：主句为 This system（主语，回指前句所建的占领与镇压系统）+ 过去时谓语 totally failed + 不定式 to warn + 宾语 the IDF + 介词短语 of the most original of resistance efforts；warn 后接双宾语（warn the IDF of…），介词 of 的宾语为最高级表达 the most original of resistance efforts（of 在此出现两次、构成 of-of 同源宾语）。
 
 **关键词**：This system / totally failed / to warn the IDF / of the most original of / resistance efforts
 
@@ -130,7 +130,7 @@ modified: "2026-09-30"
 
 **中文理解**：埃森科特讲得很清楚：这不是一项建议，而是一份已经获得批准的计划。
 
-**句子结构**：主句为 Eisenkot（主语）+ 过去时谓语 made + 宾语 very clear（双重宾语结构中的宾语）；冒号引出直接引语。引语部分为 not A but B 结构，this is a recommendation 与 an already approved plan 以 not…but… 连接；already 为强调副词，置于过去分词之前。
+**句子结构**：主句为 Eisenkot（主语）+ 过去时谓语 made + 宾语 very clear（双重宾语结构中的宾语）；冒号引出直接引语。引语部分为 not A but B 结构，this is not a recommendation 与 an already approved plan 以 not…but… 连接；already 为强调副词，置于过去分词之前。
 
 **关键词**：Eisenkot made very clear / this is not a recommendation / but an already approved plan / already approved plan
 

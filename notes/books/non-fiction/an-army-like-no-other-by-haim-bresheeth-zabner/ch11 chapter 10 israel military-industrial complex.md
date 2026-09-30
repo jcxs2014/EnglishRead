@@ -99,7 +99,7 @@ modified: "2026-09-30"
 
 **中文理解**：以色列成了一种专业化的战争经济，依赖武装冲突并从中获益。
 
-**句子结构**：主句为 Israel（主语）+ 过去时谓语 became + 表语 a specialized war economy；depending on armed conflict 与 benefiting from armed conflict 为两个并列的现在分词短语，共同作结果状语。
+**句子结构**：主句为 Israel（主语）+ 过去时谓语 became + 表语 a specialized war economy；depending on and benefiting from armed conflict 为**一个**现在分词短语（on 与 from 两个介词并列、共用宾语），作结果状语。
 
 **关键词**：Israel / became / a specialized war economy / depending on and benefiting from / armed conflict
 

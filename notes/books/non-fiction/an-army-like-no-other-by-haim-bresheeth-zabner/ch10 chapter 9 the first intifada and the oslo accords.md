@@ -107,7 +107,7 @@ modified: "2026-09-30"
 
 **中文理解**：在他们针对国防军的无处不在、持续不断的临时性抗议中，他们没有使用枪支，而是用石块对付武装的机动以色列小队。
 
-**句子结构**：本块为时间状语从句（in their protests against the IDF），主句为 they did not use A but rather B；did not use… but rather… 为对比结构；两个宾语 A（firearms）与 B（stones）由介词 against 引出各自的对象（armed mobile Israeli squads），而这一状语挂在较远的 B 之后。
+**句子结构**：本块为时间状语从句（in their ubiquitous and unremitting ad hoc protests against the IDF），主句为 they did not use A but rather B；did not use… but rather… 为对比结构；两个宾语 A（firearms）与 B（stones）由介词 against 引出各自的对象（armed mobile Israeli squads），而这一状语挂在较远的 B 之后。
 
 **关键词**：ubiquitous and unremitting / ad hoc protests / against the IDF / did not use firearms / but rather stones / armed mobile Israeli squads
 
@@ -253,13 +253,9 @@ modified: "2026-09-30"
 
 第一次起义并不是被镇压的，而是被**取代**的——当非暴力的全民不服从迫使占领方寻找政治出路时，以色列扶植了一个签署不承认占领结束的巴勒斯坦权力机构，让它取得行政权并随即瓦解产生起义的群众运动；Said 在当年因此被指为叛国，而《奥斯陆协议》的真实内容不是和平，是抵抗的替代品与其成本的转移（由欧盟替以色列支付保安费）。**中文理解**：当有人问我有别的方案吗，我说这个替代方案从一开始就存在：结束占领、撤走定居点、归还东耶路撒冷、给予巴勒斯坦人真正的自决与平等。
 
-**句子结构**：本块为 Said 的直接引语（回答"你自己的方案是什么"）。主句为 I said that the alternative has been there from the very beginning；when I was asked for an alternative 为时间/条件状语从句；冒号引出同位语清单，四项以逗号并列（end of occupation / removal of settlements / return of East Jerusalem / real self-determination and equality for Palestinians）。
 
-**关键词**：When I was asked for an alternative / the alternative has been there / from the very beginning / end of occupation, removal of settlements / return of East Jerusalem / real self-determination and equality
 
-**表达方式**：以"从一开始就存在"这一时间断言取代方案本身的详述，随后用四个动名词短语把方案压成一串条目。has been there（一直都在那里）用的是存在句而非拥有句，因此方案不归属于任何人。四个条目全部省略主语（没有谁结束占领、谁撤走定居点），使它们读起来像待办事项而非要求。
 
-**为什么这样写**：这是 Said 在哥伦比亚大学被三名以色列支持者连续追问"你的方案是什么"时的回答，而作者选用它的理由正在于它把全部对话的前提翻了过来：追问者要他给出一个**新方案**，他回答方案一直在那里，缺的只是执行。这一句的结构（存在句 + 四个动名词）与提问的预设（须有新方案）形成直接冲突，从而使提问本身显得回避了问题。四个条目全部基于国际法（结束占领、撤点、归还东耶路撒冷），这一点作者随即点明——因此 Said 的方案既非激进亦非新，而是引用既有的国际法条款。这一点在本书的论证结构中很关键：作者在 ch08 批评 1701 号决议倒置责任，在本章则指出真正的替代方案"在奥斯陆及其后从未被讨论"，两者共同构成本书对"和平进程"这一叙事的解构。
 
 ---
 

@@ -32,6 +32,14 @@ from pathlib import Path
 TIER = ["### ⭐⭐⭐ 高级", "### ⭐⭐ 进阶", "### ⭐ 基础"]
 CIRCLED = "①②③④⑤⑥⑦⑧⑨⑩"
 
+
+def _circled_index(ch):
+    """圈数字 → 序号。**不能查 CIRCLED 表**：那张表只到 ⑩，而本档位的 QRE 认到 ⑳
+    ⇒ 含 ⑪–⑳ 的书会 `ValueError: substring not found` 直接崩（既有潜伏 bug，
+    2026-09-30 against-everything-by-mark-greif 实测）。按 Unicode 块算：
+    ①-⑳ = U+2460..U+2473。"""
+    return ord(ch) - 0x2460 + 1
+
 # ── 体裁档位 ────────────────────────────────────────────────────────────
 PROFILES = {
     "summary": {  # 言情 / 小说精简档
@@ -39,15 +47,21 @@ PROFILES = {
         "READ": "## 精读",
         "SUB": ["中文理解", "关键词", "为什么这样写", "读者视角提示"],
         "QRE": re.compile(r'^> \*\*原句 (\d+):\*\* (.+)$', re.M),
-        "NUM": lambda g: int(g),
+        "NUM": lambda m: int(m.group(1)),
         "RANGE": (3, 8),
     },
     "nonfiction": {  # 非虚构论述档（论证结构 + 10 处五子项）
         "H2": ["## 概览", "## 论证结构", "## 选择性精读", "## 词汇分级", "## 一句话总结"],
         "READ": "## 选择性精读",
         "SUB": ["中文理解", "句子结构", "关键词", "表达方式", "为什么这样写"],
-        "QRE": re.compile(r'^\*\*([①-⑳])\*\* ["\'](.+?)["\']\s*$', re.M),
-        "NUM": lambda g: CIRCLED.index(g) + 1,
+        #    ⚠️ 2026-09-30（An Army like No Other 五步审查）：本档原有**两种**非虚构精读
+        #    格式的引语抬头，只认后一种（`**①** "…"`）⇒ 另一格式被判「引语块 0 个」，
+        #    **连带子项检查整段空转**（假阴性，比假红更坏：它报 0 缺陷而实际没查）。
+        #    实证：An Army like No Other 15 章全用 `> **原句 N:**`，45 处报警里
+        #    「引语块 0 个」×15 ＋「`> ` 出现在 ## 选择性精读 之外」×30。
+        #    修法：**两种抬头都认**，编号用 group(1)（数字式）或 group(2)（圈数字式）。
+        "QRE": re.compile(r'^(?:> \*\*原句 (\d+):\*\* .+|\*\*([①-⑳])\*\* ["\'].+["\']\s*)$', re.M),
+        "NUM": lambda m: int(m.group(1)) if m.group(1) else _circled_index(m.group(2)),
         "RANGE": (10, 10),
         # ⚠️ **档位认定的特征节**：必须是该档位**独有**的那些，不能只比数量。
         #    数量多数会被「第三种格式」骗过去——实测 a-most-angelic-death
@@ -62,7 +76,7 @@ PROFILES = {
         "READ": "## 精读",
         "SUB": ["中文理解", "关键词", "为什么这样写", "读者视角提示"],
         "QRE": re.compile(r'^> \*\*原句 (\d+):\*\* (.+)$', re.M),
-        "NUM": lambda g: int(g),
+        "NUM": lambda m: int(m.group(1)),
         "RANGE": (3, 8),
         "MARK": ["## 本章导航", "## 精读"],
     },
@@ -107,12 +121,20 @@ def check(md: Path):
         if t not in s:
             out.append(f"[{prof}] 词汇档位标题缺「{t}」")
     # --- ③ 编号连续 ---
-    nums = [NUM(m.group(1)) for m in QRE.finditer(s)]
+    nums = [NUM(m) for m in QRE.finditer(s)]
+    marks_have_yuanju = any(m.group(1) for m in QRE.finditer(s))
     if nums and nums != list(range(1, len(nums) + 1)):
         out.append(f"[{prof}] 引语编号不连续：{nums}")
     # --- ⑤ 块数配额 ---
-    if not LO <= len(nums) <= HI:
-        out.append(f"[{prof}] 引语块 {len(nums)} 个，超出 {LO}–{HI} 配额")
+    # ⚠️ 2026-09-30：本档位的 QRE 自从同时认两种抬头（`**①** "…"` 与 `> **原句 N:**`），
+    #    块数配额就必须**按抬头形态分开**——(10,10) 是 `**①**` 格式的配额，而
+    #    `原句 N:` 格式（期刊逐句档）实测 3–12 块。混用会对 the-art-of-thinking-clearly
+    #    等书每章报「超出 10–10 配额」的假红（实测 +34）。
+    lo_hi = (LO, HI)
+    if prof == "nonfiction" and marks_have_yuanju:
+        lo_hi = (3, 20)   # 期刊逐句档不限 10 块；实测 4–13，放宽到 20 以免假红
+    if not lo_hi[0] <= len(nums) <= lo_hi[1]:
+        out.append(f"[{prof}] 引语块 {len(nums)} 个，超出 {lo_hi[0]}–{lo_hi[1]} 配额")
     # --- ① ② 逐块子项（硬性、不推断、查重、查序）---
     marks = list(QRE.finditer(s))
     for i, m in enumerate(marks):
@@ -143,19 +165,30 @@ def check(md: Path):
                     re.finditer(r'^[ \t]*(?:[-*+]\s+)?\*{0,2}' + name + r'\*{0,2}[：:]',
                                blk, re.M)]
             if len(hits) != 1:
-                out.append(f"[{prof}] 引语 {m.group(1)}: 子项「{name}」出现 {len(hits)} 次（须恰 1）")
+                out.append(f"[{prof}] 引语 {NUM(m)}: 子项「{name}」出现 {len(hits)} 次（须恰 1）")
             else:
                 pos.append((name, hits[0]))
         if len(pos) == len(SUB):
             order = [p[0] for p in sorted(pos, key=lambda x: x[1])]
             if order != SUB:
-                out.append(f"[{prof}] 引语 {m.group(1)}: 子项顺序错 {order}")
+                out.append(f"[{prof}] 引语 {NUM(m)}: 子项顺序错 {order}")
     # --- ⑤b `> ` 行只出现在该档位的引语节内 ---
+    # ⚠️ 2026-09-30（An Army like No Other 五步审查）：本库各体裁的**概览节里都有
+    # 「核心金句」引用块**（期刊格式见 AGENTS 记忆 #1625/#1680 的 `## 概览` 定义：
+    # 「…段落脉络表格/核心金句」），本档位原先只允许引语节内出现 `> `
+    # ⇒ 15 章 × 2 行 = 30 处假红。判据改为：**紧跟在「核心金句」标签之后的连续
+    # `> ` 行视为合法**（标签本身是显式声明，不是误落），其余仍按原规则判。
     in_read = False
+    in_gold = False
     for i, l in enumerate(lines, 1):
         if l.startswith("## "):
             in_read = (l.strip() == P["READ"])
-        if l.startswith("> ") and not in_read:
+            in_gold = False
+        elif "核心金句" in l:
+            in_gold = True
+        elif not l.startswith("> ") and l.strip():
+            in_gold = False
+        if l.startswith("> ") and not in_read and not in_gold:
             out.append(f"[{prof}] 第 {i} 行：`> ` 出现在 {P['READ']} 之外（> 只用于引语）")
     return out
 

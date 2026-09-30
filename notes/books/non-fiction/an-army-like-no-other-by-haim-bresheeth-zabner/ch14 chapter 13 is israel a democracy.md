@@ -218,7 +218,7 @@ modified: "2026-09-30"
 
 **关键词**：This law / the apotheosis of / Netanyahu’s destructive politics / is seen by / even ardent Zionists / as the end of / any pretense of democracy in Israel
 
-**表达方式**：以被动式 is seen by 引入一个意外的施动者（even ardent Zionists），从而使这一判断看似来自立场相反的群体。apotheosis 一词（原指由凡升神的过程）在此将一项法律描述为一套政治的顶点，而 apotheosis of destructive politics 的组合在语义上是悖论式的（顶点与破坏并存）。pretense（伪装）一词把此前数十年的制度定性为**表象而非实情**。
+**表达方式**：以被动式 is seen by 引入一个意外的施动者（even ardent Zionists），从而使这一判断看似来自立场相反的群体。apotheosis 一词（原指由凡升神的过程）在此将一项法律描述为一套政治的顶点，而 the apotheosis of Netanyahu's destructive politics 这一组合在语义上是悖论式的（顶点与破坏并存）。pretense（伪装）一词把此前数十年的制度定性为**表象而非实情**。
 
 **为什么这样写**：这是全章论证的转折点，而它的修辞设计极为审慎：作者不直接说"这项法律终结了民主"，而说"**连最热忱的犹太复国主义者**都这样看"。这一转述策略把一个可能被质疑的判断（作者的立场）转换为一个更难质疑的判断（对手阵营的观察），而 even 这一副词承担了全部的修辞重量——它的作用是排除"这是外部视角的说法"这一辩解。pretense 一词的选择完成了定性上的关键一步：它意味着民主在以色列从来只是伪装（因此终结伪装即是终结那种东西），而不是曾经存在、后被破坏。这一判断使作者得以把 ch13 与本章的材料（65 部法律、军事审查、部落式分赃）统一在一个结论之下。而"最热忱的犹太复国主义者"究竟是谁、以何标准判断，书中未给出出处——这是本节最薄弱的一环，也是本章可质疑处之一：全章最关键的转折依赖一个未标注来源的群体判断。
 
@@ -248,7 +248,7 @@ modified: "2026-09-30"
 
 **关键词**：This is not a deed / worthy of being called legislation / this is aberrant use of / the arbitrary force of the majority / to deliberately harm the minority / by enacting
 
-**表达方式**：以两个完全对称的 This is（这是）句式承载一次判断的展开与升级。第一句用"不够格被称作立法"这一退让式表述，第二句直译为"滥用的力量"。not worthy of being called（不够格被称作）这一否定结构比直接说"不是立法"更有力：它承认了这一行为的现实效力（它确实在立法），而否认它的正当性。
+**表达方式**：以两个完全对称的 This is（这是）句式承载一次判断的展开与升级。第一句用"不够格被称作立法"这一退让式表述，第二句直译为"滥用的力量"。not a deed worthy of being called legislation（不够格被称作"立法"）这一否定结构比直接说"不是立法"更有力：它承认了这一行为的现实效力（它确实在立法），而否认它的正当性。
 
 **为什么这样写**：这句出自以色列法律学者 Kremnitzer 对民族国家法的评论，而作者引用它是因为它把"多数派立法伤害少数派"这一命题直接命名为"aberrant use of the arbitrary force of the majority"（对多数派专断力量的滥用）——这一定义的力量在于它取自法理学中的一项既有概念（权力的滥用），因而使一个政治判断成为法律判断。而这一转换正是本章的核心操作：作者在开篇批评独立宣言未提民主，在结尾则引用一位以色列法学专家的语言来否定这个国家的立法行为，而两处的判断标准都是法律本身而非政治立场。这一引用还有一处值得注意：Kremnitzer 是以色列本国的法学学者，作者此前引用的 Said、Ahmad、Halper 均为外部学者，而在此处首次以本国专业人士的判词作为核心支撑——这使"以色列民主是矛盾修辞"这一结论不再是外部视角的评价，而成为内部共识的存在证明。而 "by enacting"（通过制定法律）这一方式状语被置于句尾并省略宾语，从而使"通过立法伤害"这一循环闭合：立法既是伤害的手段，也是伤害的定义。
 
