@@ -97,4 +97,6 @@ modified: "2026-09-30"
 | flight school | 飞行学校 | It’s a flight school offering trial introductory flights. |
 | heart rate | 心率 | A clip on her finger is attached to a long tube monitoring her heart rate and breathing. |
 
-## 一句话总结**：本章的高潮不是机器的噪声，而是 Allegra 终于按下发送——在此之前她花了整章证明自己并不想当飞行员，而她真正做的那个决定跟职业毫无关系。
+## 一句话总结
+
+本章的高潮不是机器的噪声，而是 Allegra 终于按下发送——在此之前她花了整章证明自己并不想当飞行员，而她真正做的那个决定跟职业毫无关系。

@@ -95,4 +95,6 @@ modified: "2026-09-30"
 | day | 一天 | My error really made their day. |
 | high ponytail | 高马尾 | She had a high ponytail, eyes made up to look like cat’s eyes and a leopard-print patterned dress with a plunging neckline. |
 
-## 一句话总结**：她把二十二岁那晚写成一场出糗的流水账，真正的主题却在最后一行——那晚她遇到的人后来成了行业先驱，而她拐去嫁了派对角落里那个穿西装的人。
+## 一句话总结
+
+她把二十二岁那晚写成一场出糗的流水账，真正的主题却在最后一行——那晚她遇到的人后来成了行业先驱，而她拐去嫁了派对角落里那个穿西装的人。

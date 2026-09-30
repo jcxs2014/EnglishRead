@@ -68,4 +68,6 @@ modified: "2026-09-30"
 | elderly doctors | 那对年老的医生（夫妇） | It first made its appearance after the deaths of the elderly doctors. |
 | trending hashtag | 热门话题标签 | That’s when Deathlady became a trending hashtag across multiple social media platforms. |
 
-## 一句话总结**：本章只做一件事——把第一章那个「没人记得的人」换成她自己开口，而她开口说的全部内容，就是不想被叫这个名字；讽刺不在句子里的抱怨，而在抱怨本身无处可去。
+## 一句话总结
+
+本章只做一件事——把第一章那个「没人记得的人」换成她自己开口，而她开口说的全部内容，就是不想被叫这个名字；讽刺不在句子里的抱怨，而在抱怨本身无处可去。

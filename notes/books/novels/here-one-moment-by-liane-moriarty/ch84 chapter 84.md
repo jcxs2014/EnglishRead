@@ -95,4 +95,6 @@ modified: "2026-09-30"
 | accompanying photo | 随附的照片 | Sue chuckles when she sees the accompanying photo of a little boy sitting on a hospital bed with a broken arm. |
 | bags | 行李 | So I packed my bags, left my unhappy marriage and left the city! |
 
-## 一句话总结**：她用自己的生日做了一次预演——一桌活人围着网页上那几条「死期已定」的留言吃饭，而她真正怕的是自己那句「我绝不会拒绝治疗」被听成了诊断书。
+## 一句话总结
+
+她用自己的生日做了一次预演——一桌活人围着网页上那几条「死期已定」的留言吃饭，而她真正怕的是自己那句「我绝不会拒绝治疗」被听成了诊断书。

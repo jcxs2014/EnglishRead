@@ -95,4 +95,6 @@ modified: "2026-09-30"
 | residents | 住户 | Most of the residents worked at the Royal Perth Hospital. |
 | chance | 机会 | David told me I wasn’t giving our life in Perth a chance. |
 
-## 一句话总结**：她被一句「我看见你的飞机登机」送上了去珀斯的飞机，换来的是每周五的屋顶派对和一间她感受不到海风的公寓——最后她把没学会潜水换成了别的瘾。
+## 一句话总结
+
+她被一句「我看见你的飞机登机」送上了去珀斯的飞机，换来的是每周五的屋顶派对和一间她感受不到海风的公寓——最后她把没学会潜水换成了别的瘾。

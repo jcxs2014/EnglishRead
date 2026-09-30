@@ -102,4 +102,6 @@ modified: "2026-09-30"
 | crowd | 人群 | weaving in and out of the crowd, but then Ethan knows somehow he should turn |
 | drunk | 喝醉的 | With the studied carefulness of a drunk he places both drinks down on Ethan’s table and proffers his fist for one of his ridiculous fist-bumps. |
 
-## 一句话总结**：一整章都在掂量「会不会出事」，而真正把这一拳挡下来的是一只海鸥和一条巡逻犬；Ethan 从「小心一点就过去了」走到「这个夜晚被污染了」，最后拿到的不是反击，是一句他自己都不敢相信的「他没死」。
+## 一句话总结
+
+一整章都在掂量「会不会出事」，而真正把这一拳挡下来的是一只海鸥和一条巡逻犬；Ethan 从「小心一点就过去了」走到「这个夜晚被污染了」，最后拿到的不是反击，是一句他自己都不敢相信的「他没死」。

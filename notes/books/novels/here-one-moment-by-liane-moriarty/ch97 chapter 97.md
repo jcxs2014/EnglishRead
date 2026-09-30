@@ -62,4 +62,6 @@ modified: "2026-09-30"
 | nice | 不错的；令人愉快的 | Presumably these are the people who wouldn’t turn me in if they saw my face on a wanted poster, so that’s nice to know. |
 | wanted | 被通缉的；被要的 | Presumably these are the people who wouldn’t turn me in if they saw my face on a wanted poster, so that’s nice to know. |
 
-## 一句话总结**：一句长句交代熟人集体沉默的理由，一句短句把这份沉默命名为好消息，再用最后一句把好消息收窄成一个条件——插入章不推进情节，只负责给主角的处境加上一层自嘲。
+## 一句话总结
+
+一句长句交代熟人集体沉默的理由，一句短句把这份沉默命名为好消息，再用最后一句把好消息收窄成一个条件——插入章不推进情节，只负责给主角的处境加上一层自嘲。

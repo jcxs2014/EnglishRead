@@ -80,4 +80,6 @@ modified: "2026-09-30"
 | caftan-wearing woman | 穿长袍的女人 | She was the caftan-wearing woman who didn’t apologise when she knocked my head with her elbow. |
 | wife | 妻子 | Her husband wrote me a very nice letter telling me I’d saved his wife’s life and enclosed a photo of their sweet, enormous baby. |
 
-## 一句话总结**：这一章把「预言失效」写成一条有正有负的账——孕妇因为不再拒绝治疗而活了下来，长袍女人却在她划定的长寿之年离世，而真正被改变的其实是说话人自己：等外面的人改口叫她骗子，她已经笑不出来了。
+## 一句话总结
+
+这一章把「预言失效」写成一条有正有负的账——孕妇因为不再拒绝治疗而活了下来，长袍女人却在她划定的长寿之年离世，而真正被改变的其实是说话人自己：等外面的人改口叫她骗子，她已经笑不出来了。

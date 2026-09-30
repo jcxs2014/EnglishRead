@@ -101,4 +101,6 @@ modified: "2026-09-30"
 | faces | 脸 | Now Lila, Faith and Ethan are all laugh-sobbing, their faces crumple-wrinkled like old peaches as they rock with laughter and grief. |
 | major award | 重量级奖项 | One of her computer games just won a major award so she might be able to cut back on the pet business soon, although she enjoys it. |
 
-## 一句话总结**：本章把一个死人重新放回牌桌上——先由 Lila 交代他生前的安排，再由一只海鸥替他露面，而 Ethan 能做的，只是把这两件事并排放在心里，然后被一个陌生人的眼神打断。
+## 一句话总结
+
+本章把一个死人重新放回牌桌上——先由 Lila 交代他生前的安排，再由一只海鸥替他露面，而 Ethan 能做的，只是把这两件事并排放在心里，然后被一个陌生人的眼神打断。

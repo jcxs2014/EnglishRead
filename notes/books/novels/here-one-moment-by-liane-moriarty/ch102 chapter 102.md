@@ -70,4 +70,6 @@ modified: "2026-09-30"
 | edge | 边缘；崩溃的临界点 | The YouTuber death pushes Dom right over the edge, just like Eve knew it would. |
 | sentence | 句子 | He doesn’t finish the sentence. |
 
-## 一句话总结**：全章极短，Eve 用一句没说完的话逼 Dom 先开口，再用一句反问把「保护」翻转成「控制」，最后用一个更短的判断收尾——这段关系里真正在分配权力的，始终是那个先把风险算完的人。
+## 一句话总结
+
+全章极短，Eve 用一句没说完的话逼 Dom 先开口，再用一句反问把「保护」翻转成「控制」，最后用一个更短的判断收尾——这段关系里真正在分配权力的，始终是那个先把风险算完的人。

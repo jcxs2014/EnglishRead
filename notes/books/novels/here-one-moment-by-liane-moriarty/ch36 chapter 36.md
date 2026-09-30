@@ -62,4 +62,6 @@ modified: "2026-09-30"
 | identity became | 身份变得 | After my identity became known, I received both ‘hate mail’ and heartfelt thank you cards. |
 | cards | 卡片 | After my identity became known, I received both ‘hate mail’ and heartfelt thank you cards. |
 
-## 一句话总结**：她把两种反应都摆出来，然后在最后承认自己处理不了被感谢这件事——这一章停在这里。
+## 一句话总结
+
+她把两种反应都摆出来，然后在最后承认自己处理不了被感谢这件事——这一章停在这里。

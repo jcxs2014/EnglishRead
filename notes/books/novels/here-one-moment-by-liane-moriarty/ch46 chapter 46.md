@@ -104,4 +104,6 @@ modified: "2026-09-30"
 | vacuum cleaner | 吸尘器 | She bought herbs, spices, ‘healing balms’, make-up, face creams, encyclopaedias, a sewing machine and a vacuum cleaner. |
 | dancing abilities | 跳舞的本事 | Although I didn’t inherit his dancing abilities, I did inherit my dad’s head for figures. |
 
-## 一句话总结**：本章是家史的起点，把「命」从预言落到一对普通夫妇的日常：父亲想进铁路局，母亲为寿险保费和推销员怄气——而那句被母亲视为禁忌的话，就出自这场争吵。
+## 一句话总结
+
+本章是家史的起点，把「命」从预言落到一对普通夫妇的日常：父亲想进铁路局，母亲为寿险保费和推销员怄气——而那句被母亲视为禁忌的话，就出自这场争吵。

@@ -103,4 +103,6 @@ modified: "2026-09-30"
 | medical centre | 医疗中心 | Eve is at work at the medical centre. |
 | mental health | 心理健康 | Just as she and Paula identified her, the Death Lady released a public apology, explaining she’d had a mental health crisis on the plane. |
 
-## 一句话总结**：这一章把全书的压强分散到了一个人的日常里——同一条新闻、同一个睡眠问题、同一笔债，在医疗中心的前台被拆成一件件小事处理掉，等处理完，她说出「未来在我手里」；威胁并没有消失，但它已经不再由别人替她命名。
+## 一句话总结
+
+这一章把全书的压强分散到了一个人的日常里——同一条新闻、同一个睡眠问题、同一笔债，在医疗中心的前台被拆成一件件小事处理掉，等处理完，她说出「未来在我手里」；威胁并没有消失，但它已经不再由别人替她命名。

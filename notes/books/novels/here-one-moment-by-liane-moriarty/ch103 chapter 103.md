@@ -97,4 +97,6 @@ modified: "2026-09-30"
 | conductor | 指挥家 | At one point she waved two fingers like a conductor, her eyes still shut, and said, ‘Dancing the Swiss fondue! |
 | death rattle | 临终喉音 | Auntie Pat had warned me about the death rattle. |
 
-## 一句话总结**：这一章把离婚和丧母分别写成两种仪式感完全不同的死亡，最后用一场关于父母的梦收尾——叙述者反复说自己已经翻篇，而翻篇的证据全在那些括号里的自我更正里。
+## 一句话总结
+
+这一章把离婚和丧母分别写成两种仪式感完全不同的死亡，最后用一场关于父母的梦收尾——叙述者反复说自己已经翻篇，而翻篇的证据全在那些括号里的自我更正里。

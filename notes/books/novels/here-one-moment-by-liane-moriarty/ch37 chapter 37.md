@@ -102,4 +102,6 @@ modified: "2026-09-30"
 | festival | 节庆 | She told him a ‘Mystics, Witches and Oracles’ festival in Hobart ended the day of the flight. |
 | death card | 死神牌（塔罗牌之一） | ‘The death card is more likely to mean a period of transition. |
 
-## 一句话总结**：一个自称不信的人，走进那间摆满水晶的屋子；作者不写他被说服，只写他开始欣赏自己正在配合——这比被说服更接近他真正要面对的东西。
+## 一句话总结
+
+一个自称不信的人，走进那间摆满水晶的屋子；作者不写他被说服，只写他开始欣赏自己正在配合——这比被说服更接近他真正要面对的东西。

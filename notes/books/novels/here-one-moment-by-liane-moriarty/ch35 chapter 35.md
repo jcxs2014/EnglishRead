@@ -99,4 +99,6 @@ modified: "2026-09-30"
 | royal blue | 宝蓝色 | She wears a crown of white flowers in her hair, a royal blue sash and a full tulle skirt. |
 | random cousin | （婚礼上）随便一个表亲 | The random cousin listens. |
 
-## 一句话总结**：一场婚礼的全部光彩只撑到 Paula 想起那七岁为止；剩下的一半婚礼里，她忙着把一个没人能证实的预言藏在一句「别闹大」后面。
+## 一句话总结
+
+一场婚礼的全部光彩只撑到 Paula 想起那七岁为止；剩下的一半婚礼里，她忙着把一个没人能证实的预言藏在一句「别闹大」后面。

@@ -103,4 +103,6 @@ modified: "2026-09-30"
 | boy | 男孩 | I remembered how the little boy had been staring back at me, and children rarely show interest in me. |
 | shame | 羞耻 | It was the same sick shame I used to feel when people told me about my drunken behaviour at those rooftop parties. |
 
-## 一句话总结**：这一章先用一位来客把「你在飞机上说过什么」这件事讲得她无法反驳，再在后院把这份「无法反驳」变成一场实祸——她差点成了又一次死亡的原因，最后靠喊出一个自己一向喊不出的名字把人拉开。
+## 一句话总结
+
+这一章先用一位来客把「你在飞机上说过什么」这件事讲得她无法反驳，再在后院把这份「无法反驳」变成一场实祸——她差点成了又一次死亡的原因，最后靠喊出一个自己一向喊不出的名字把人拉开。

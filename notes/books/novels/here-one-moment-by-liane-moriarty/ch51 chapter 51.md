@@ -74,4 +74,6 @@ modified: "2026-09-30"
 | father | 父亲 | By then my mother had become Madame Mae and foreseeing my father’s death had become her origin story. |
 | mother | 母亲 | For the rest of her life my mother believed she’d foreseen Dad’s death. |
 
-## 一句话总结**：本章是母亲版本的「预言」——她给出的证据只有那一刻胸口的预感，以及丈夫随口说出的一句关于闪电的话。
+## 一句话总结
+
+本章是母亲版本的「预言」——她给出的证据只有那一刻胸口的预感，以及丈夫随口说出的一句关于闪电的话。

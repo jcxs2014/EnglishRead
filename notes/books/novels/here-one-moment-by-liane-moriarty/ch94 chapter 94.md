@@ -105,4 +105,6 @@ modified: "2026-09-30"
 | casually | 随手地；漫不经心地 | Ethan felt faint when he saw the casually discarded invoice. |
 | invoice | 发票；账单 | Ethan felt faint when he saw the casually discarded invoice. |
 
-## 一句话总结**：本章把一个「还活着的人」和一枚被误解的胸针符号放在同一天里，前半段认真追线索，后半段用鱼缸、房租和砸门声把严肃彻底稀释——生死的倒计时在一句「等隔壁先去报警」面前变成了日常。
+## 一句话总结
+
+本章把一个「还活着的人」和一枚被误解的胸针符号放在同一天里，前半段认真追线索，后半段用鱼缸、房租和砸门声把严肃彻底稀释——生死的倒计时在一句「等隔壁先去报警」面前变成了日常。

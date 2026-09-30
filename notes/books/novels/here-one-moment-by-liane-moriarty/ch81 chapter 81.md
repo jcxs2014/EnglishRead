@@ -101,4 +101,6 @@ modified: "2026-09-30"
 | children | 孩子；子女 | Jack and I might not have announced an engagement but we planned to marry and have four children. |
 | people | 人；人们 | Bev, Don and Aldo – characters from Number 96 – felt more real to me than the people seated next to me in lectures. |
 
-## 一句话总结**：本章不讲她怎么熬过丧亲之痛，只讲身边有多少双手在拉她——茶、热水袋、祖母画着十字却挪不开的眼睛——然后用一份数灰大袋鼠的工作收尾，把她口中「能干的只有教书」这个所有人都以为理所当然的结局，当场换成另一个。
+## 一句话总结
+
+本章不讲她怎么熬过丧亲之痛，只讲身边有多少双手在拉她——茶、热水袋、祖母画着十字却挪不开的眼睛——然后用一份数灰大袋鼠的工作收尾，把她口中「能干的只有教书」这个所有人都以为理所当然的结局，当场换成另一个。

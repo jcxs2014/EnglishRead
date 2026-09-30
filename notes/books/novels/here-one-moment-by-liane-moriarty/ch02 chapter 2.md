@@ -105,4 +105,6 @@ modified: "2026-09-30"
 | entire flight | 整个航程 | Leo has spent the entire flight chewing antacids, massaging his forehead with his fingertips and checking and rechecking the time. |
 | eleven-year-old daughter | 十一岁的女儿 | His eleven-year-old daughter’s school musical is due to begin in five minutes. |
 
-## 一句话总结**：本章先用一整段清单把「所有人都各忙各的、没有人看她」写足，再把视角收到一个赶不上女儿演出的男人身上，最后让他对面那位一直不被注意的老妇站起来——两股视线终于对上了。
+## 一句话总结
+
+本章先用一整段清单把「所有人都各忙各的、没有人看她」写足，再把视角收到一个赶不上女儿演出的男人身上，最后让他对面那位一直不被注意的老妇站起来——两股视线终于对上了。

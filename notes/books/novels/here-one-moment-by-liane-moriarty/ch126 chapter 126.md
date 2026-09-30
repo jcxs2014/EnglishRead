@@ -104,4 +104,6 @@ modified: "2026-09-30"
 | natural teacher | 天生的老师 | I’m not a natural teacher, but never mind, I’m improving along with Bridie and I think we’re getting somewhere. |
 | green straw | 绿色的麦秆 | I can’t remember a green straw hat (seems unlikely to me, it was probably blue) but so many of his One Good Things brought back memories. |
 
-## 一句话总结**：全书走到这里，宏大的「死亡预言」被换成了一份可以照着过活的日程——长途电话、有氧课、旧笔记、星期三的补课——那位老妇没有再解释自己那天为什么那么说，她只是把日子重新排好，然后在孩子问出「您说的是不是指我」时点了一次头。
+## 一句话总结
+
+全书走到这里，宏大的「死亡预言」被换成了一份可以照着过活的日程——长途电话、有氧课、旧笔记、星期三的补课——那位老妇没有再解释自己那天为什么那么说，她只是把日子重新排好，然后在孩子问出「您说的是不是指我」时点了一次头。

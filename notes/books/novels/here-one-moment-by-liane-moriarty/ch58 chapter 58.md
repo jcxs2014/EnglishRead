@@ -103,4 +103,6 @@ modified: "2026-09-30"
 | chest | 胸膛 | Sure enough, he’s sound asleep, his forearm across his forehead, his chest rising and falling. |
 | driver | 司机；驾车的人 | ‘Nobody is honking at us,’ says the driver. |
 
-## 一句话总结**：这一章让一个「已经被吓过一次」的人看着另一个人照着同一句话小心翼翼地活着，然后让一段手机拍下的车祸把这句话兑现。
+## 一句话总结
+
+这一章让一个「已经被吓过一次」的人看着另一个人照着同一句话小心翼翼地活着，然后让一段手机拍下的车祸把这句话兑现。

@@ -96,4 +96,6 @@ modified: "2026-09-30"
 | glasses | 眼镜 | Straightens his glasses. |
 | lead | 牵绳 | ‘Not for you,’ says Ethan, and he looks for the guy in the yellow vest patrolling the concourse with a kelpie on a lead. |
 
-## 一句话总结**：这一章的转折没有任何戏剧性事件——一段提前结束的心上人、一群无害的顾客、一次差点打翻的薯条，然后是一句没有主语的话把整章的方向定死。
+## 一句话总结
+
+这一章的转折没有任何戏剧性事件——一段提前结束的心上人、一群无害的顾客、一次差点打翻的薯条，然后是一句没有主语的话把整章的方向定死。

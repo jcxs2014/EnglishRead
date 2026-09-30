@@ -105,4 +105,6 @@ modified: "2026-09-30"
 | white t-shirt | 白 T 恤 | David said, ‘The man wore a white t-shirt and she was trying to grab at his shirt. Everyone says that’s exactly how you described it.’ |
 | serious baby | 严肃的婴儿 | I thought a serious baby would suit me. I thought I could make a serious baby laugh. |
 
-## 一句话总结**：这一章让一个被当成笑话讲了很多年的画面真的发生，然后用大段冷静的议论把「失去至亲」写成一件让人算计的事，最后靠一个字母之差的巧合把人推上楼梯——全章结束时，她只承认自己那一刻的直觉像一颗土豆。
+## 一句话总结
+
+这一章让一个被当成笑话讲了很多年的画面真的发生，然后用大段冷静的议论把「失去至亲」写成一件让人算计的事，最后靠一个字母之差的巧合把人推上楼梯——全章结束时，她只承认自己那一刻的直觉像一颗土豆。

@@ -97,4 +97,6 @@ modified: "2026-09-30"
 | distressing video | 令人不安的视频 | I just wondered if you had seen the distressing video doing the rounds on the internet? |
 | taxi home | 打车回家 | We shared a taxi home. |
 
-## 一句话总结**：这一章写的是一个人如何用一堂统计课给自己发一张「我没那么倒霉」的证明，而证明做完之后，他仍然没有真的睡着。
+## 一句话总结
+
+这一章写的是一个人如何用一堂统计课给自己发一张「我没那么倒霉」的证明，而证明做完之后，他仍然没有真的睡着。

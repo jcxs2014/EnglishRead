@@ -97,4 +97,6 @@ modified: "2026-09-30"
 | contract | 合同；契约 | It’s a contract. |
 | cost overruns | 费用超支 | Have you seen that email about the cost overruns? |
 
-## 一句话总结**：Leo 用一整天盘算「如果只剩六个月」，算到最后连赔偿金都算进去了，妻子只回他三个词——把犹豫直接按成行动。
+## 一句话总结
+
+Leo 用一整天盘算「如果只剩六个月」，算到最后连赔偿金都算进去了，妻子只回他三个词——把犹豫直接按成行动。

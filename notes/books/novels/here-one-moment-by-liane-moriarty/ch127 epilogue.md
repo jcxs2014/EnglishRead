@@ -76,4 +76,6 @@ modified: "2026-09-30"
 | welcome | 不客气（回应道谢） | ‘You’re welcome,’ says Cherry Lockwood from her armchair in front of the television. |
 | school | 学校 | ‘No, but when I was seven, I went on a school excursion and got knocked off a rock platform into the sea by a freak wave, fully dressed. |
 
-## 一句话总结**：这本书收在一个客厅里——少年在电视上说出那句「我七岁那年差点淹死」，沙发上的人替那位没上镜的算命人领了功，然后站起来握拳；全书关于「知道终点会来」的争论，到这里变成了一句格言和一次欢呼，不再需要任何人证明自己看见了未来。
+## 一句话总结
+
+这本书收在一个客厅里——少年在电视上说出那句「我七岁那年差点淹死」，沙发上的人替那位没上镜的算命人领了功，然后站起来握拳；全书关于「知道终点会来」的争论，到这里变成了一句格言和一次欢呼，不再需要任何人证明自己看见了未来。

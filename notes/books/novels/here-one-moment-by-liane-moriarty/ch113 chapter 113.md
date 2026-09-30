@@ -104,4 +104,6 @@ modified: "2026-09-30"
 | mistake | 糟糕的一步 | I couldn’t rub my own back so I booked myself in for a massage, but goodness, that was a mistake. |
 | basket | 篮子 | I went into the grocery store and filled my basket, but then, when I was at the check-out, I realised I had bought pistachios. |
 
-## 一句话总结**：本章用一串办手续式的笨拙动作，把「经验对悲伤有用」这个念头一寸寸拆掉——直到最后，购物车里那一包她从来不吃的开心果，才是她说不出口的那部分。
+## 一句话总结
+
+本章用一串办手续式的笨拙动作，把「经验对悲伤有用」这个念头一寸寸拆掉——直到最后，购物车里那一包她从来不吃的开心果，才是她说不出口的那部分。

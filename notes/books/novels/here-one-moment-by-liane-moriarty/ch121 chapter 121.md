@@ -103,4 +103,6 @@ modified: "2026-09-30"
 | crossing | 人行横道 | It would be just like when her sister told her she wouldn’t run those people over at  the pedestrian crossing. Promised her! But it made no difference. |
 | parents | 父母 | Apparently they don’t know each other all that well but Stephanie says her parents adored Cherry and Ned. |
 
-## 一句话总结**：她本以为去见那位「死亡老妇」能换来一个答案，结果换来的只是一段关于「不承诺」的正式道歉；真正推进的是另一条线——一位始终「什么感觉都没有」的母亲，在回家的路上决定重新去找治疗师，并把「确定性」当成一份可以求职的工作。
+## 一句话总结
+
+她本以为去见那位「死亡老妇」能换来一个答案，结果换来的只是一段关于「不承诺」的正式道歉；真正推进的是另一条线——一位始终「什么感觉都没有」的母亲，在回家的路上决定重新去找治疗师，并把「确定性」当成一份可以求职的工作。

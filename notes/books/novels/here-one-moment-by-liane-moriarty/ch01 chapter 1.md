@@ -105,4 +105,6 @@ modified: "2026-09-30"
 | casually | 随意地 | She does not casually light up a cigarette as if it were 1974. |
 | uncertainty | 不确定 | There is uncertainty about her age. |
 
-## 一句话总结**：本章用一整章的否定句把一位老妇写成了「不存在的人」，然后在最后一句才把这个人和「the Death Lady」这个名字绑在一起——注意力不是靠描写挣来的，是靠周围人的行为让出来的。
+## 一句话总结
+
+本章用一整章的否定句把一位老妇写成了「不存在的人」，然后在最后一句才把这个人和「the Death Lady」这个名字绑在一起——注意力不是靠描写挣来的，是靠周围人的行为让出来的。

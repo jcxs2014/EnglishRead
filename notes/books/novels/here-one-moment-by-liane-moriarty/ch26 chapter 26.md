@@ -100,4 +100,6 @@ modified: "2026-09-30"
 | assistance | 帮助 | I did not require his assistance, but I appreciated it. |
 | giant river | 巨河 | I felt in danger of being swept out to sea by a giant river of memory. |
 
-## 一句话总结**：本章是一连串认出失败的记录——每一次都以为这次不会再出事，下一秒又被新的脸击穿，而结尾只剩一句无关的广告（「read the words: What are you waiting for? Book your Jewels of Europe River Cruise today!」）替她停下。
+## 一句话总结
+
+本章是一连串认出失败的记录——每一次都以为这次不会再出事，下一秒又被新的脸击穿，而结尾只剩一句无关的广告（「read the words: What are you waiting for? Book your Jewels of Europe River Cruise today!」）替她停下。

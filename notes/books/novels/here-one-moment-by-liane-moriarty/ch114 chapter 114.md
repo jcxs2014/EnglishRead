@@ -103,4 +103,6 @@ modified: "2026-09-30"
 | former colleague | 以前的同事 | Her former colleague, Stephanie, asked if they could get together for a drink. |
 | phone beeps | 手机响了一声 | Her phone beeps. |
 
-## 一句话总结**：本章把一叠纸当作物证来读——丈夫从纸堆里读出「 compulsion」这两个字，作者却让当事人只回一句 It’s under control；直到餐桌上冒出一个陌生的旧关系，这条线才被真正接上。
+## 一句话总结
+
+本章把一叠纸当作物证来读——丈夫从纸堆里读出「 compulsion」这两个字，作者却让当事人只回一句 It’s under control；直到餐桌上冒出一个陌生的旧关系，这条线才被真正接上。

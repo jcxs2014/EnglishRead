@@ -65,4 +65,6 @@ modified: "2026-09-30"
 | success | 成功 | The line dancing was not a success. |
 | life | 一生 | You could argue that death has defined my life, both personally and professionally. |
 
-## 一句话总结**：本章把「第一次死亡」钉在一个极普通的坐标上：它和第一节课发生在同一天——「the first death took place on the same day as my first ‘Introduction to Line Dancing’ class」；而她自己是查过日程表之后才知道的。
+## 一句话总结
+
+本章把「第一次死亡」钉在一个极普通的坐标上：它和第一节课发生在同一天——「the first death took place on the same day as my first ‘Introduction to Line Dancing’ class」；而她自己是查过日程表之后才知道的。

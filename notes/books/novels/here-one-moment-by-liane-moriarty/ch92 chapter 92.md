@@ -105,4 +105,6 @@ modified: "2026-09-30"
 | wedding photos | 婚礼照片 | The kids have sometimes asked about Rod when they look at the wedding photos. |
 | curry | 咖喱 | Rod taught Leo how to make a curry. |
 
-## 一句话总结**：一章之内 Leo 把母亲的计划、妻子的便利贴和二十年前的争吵串成一件事，最后是一声「Leopold」把封存的东西敲开了一道缝——他还没准备好说，却已经开了口。
+## 一句话总结
+
+一章之内 Leo 把母亲的计划、妻子的便利贴和二十年前的争吵串成一件事，最后是一声「Leopold」把封存的东西敲开了一道缝——他还没准备好说，却已经开了口。

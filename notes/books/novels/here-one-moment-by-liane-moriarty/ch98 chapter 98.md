@@ -98,4 +98,6 @@ modified: "2026-09-30"
 | plane | 飞机 | Do you remember seeing him on the plane? |
 | fever pitch | 白热化；高潮 | Interest in the Death Lady is now reaching fever pitch. |
 
-## 一句话总结**：本章用死者生前那套刻薄的自我宣传和死后那套齐整的悼词互相顶撞，把公众对预言的渴求写成了消费；女儿则在最后用一句没有理由的拒绝，把整条热潮挡在电话这一头。
+## 一句话总结
+
+本章用死者生前那套刻薄的自我宣传和死后那套齐整的悼词互相顶撞，把公众对预言的渴求写成了消费；女儿则在最后用一句没有理由的拒绝，把整条热潮挡在电话这一头。

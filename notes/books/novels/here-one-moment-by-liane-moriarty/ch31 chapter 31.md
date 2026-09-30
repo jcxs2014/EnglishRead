@@ -101,4 +101,6 @@ modified: "2026-09-30"
 | deceased father | 已故的父亲 | He and his sisters are always asking their deceased father to help them find parking spots. |
 | bra strap | 内衣肩带 | Now it drives him mad when a bra strap slithers to her elbow. |
 
-## 一句话总结**：本章先用一只表和一桩家事把「死」安放进日常（「he looks up at the stars himself and thanks Neve’s mother for the Cartier watch that brought them together.」），最后让一个什么也没做错的孩子问出那句话（「in a heartbreaking, terror-trembled tiny voice: ‘Is Daddy going to die」）——作者把解释权全部留给了没戴眼镜的那一方。
+## 一句话总结
+
+本章先用一只表和一桩家事把「死」安放进日常（「he looks up at the stars himself and thanks Neve’s mother for the Cartier watch that brought them together.」），最后让一个什么也没做错的孩子问出那句话（「in a heartbreaking, terror-trembled tiny voice: ‘Is Daddy going to die」）——作者把解释权全部留给了没戴眼镜的那一方。

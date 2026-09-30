@@ -58,4 +58,6 @@ modified: "2026-09-30"
 |---|---|---|
 | natural death | 自然死亡 | If only I’d predicted a long happy life and a natural death. |
 
-## 一句话总结**：本章用一个「礼物」的比喻把一次死亡预告包成体面的样子，再在最后一句拆穿自己的体面——而她真正说出口的正是这一句：「to predict she would take her own life before she turned twenty-nine.」。
+## 一句话总结
+
+本章用一个「礼物」的比喻把一次死亡预告包成体面的样子，再在最后一句拆穿自己的体面——而她真正说出口的正是这一句：「to predict she would take her own life before she turned twenty-nine.」。

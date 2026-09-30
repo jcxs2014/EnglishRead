@@ -104,4 +104,6 @@ modified: "2026-09-30"
 | big head | 自大；翘尾巴 | ‘So that the dude didn’t get a big head,’ explained Carter. |
 | ancient philosophy | 古老的哲学 | One of his poker buddies has got Carter into ‘the ancient philosophy of Stoicism’. |
 
-## 一句话总结**：本章把整章关在一班公交里，靠两端重复的「美」把中段兜住——中段是数倒计时、回忆被追杀的中学往事、和一群把「快死了」当社交谈资的室友；Ethan 没有配合演出的地方，是他说死亡只让他难过，不让他感激。
+## 一句话总结
+
+本章把整章关在一班公交里，靠两端重复的「美」把中段兜住——中段是数倒计时、回忆被追杀的中学往事、和一群把「快死了」当社交谈资的室友；Ethan 没有配合演出的地方，是他说死亡只让他难过，不让他感激。

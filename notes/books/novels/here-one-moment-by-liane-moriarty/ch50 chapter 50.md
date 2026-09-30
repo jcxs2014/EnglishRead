@@ -62,4 +62,6 @@ modified: "2026-09-30"
 | favourite biscuit | 最喜欢的饼干 | The Monte Carlo remains my favourite biscuit. |
 | two layers | 两层 | I pull the two layers of biscuit apart, so as to enjoy the creamy jam filling. |
 
-## 一句话总结**：一块两层的夹心饼干，被用来把「独立」这件事重新演示一遍——层与层之间没有关系，人与人的习惯之间也一样。
+## 一句话总结
+
+一块两层的夹心饼干，被用来把「独立」这件事重新演示一遍——层与层之间没有关系，人与人的习惯之间也一样。

@@ -96,4 +96,6 @@ modified: "2026-09-30"
 | grown-up | 大人；成年人 | Carter doesn’t behave like a guest or even a grown-up. |
 | deadly collision | 致命的撞车 | The volume is low but loud enough for him to hear the sounds of the deadly collision. |
 
-## 一句话总结**：一个人模仿他最讨厌的室友来给自己壮胆，模仿到一半就被撞见——而撞破这一切的，正是他模仿了一整夜的那个人。
+## 一句话总结
+
+一个人模仿他最讨厌的室友来给自己壮胆，模仿到一半就被撞见——而撞破这一切的，正是他模仿了一整夜的那个人。

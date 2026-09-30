@@ -102,4 +102,6 @@ modified: "2026-09-30"
 | spring roll | 春卷 | I lost my mind and my temper and threw a spring roll at him. |
 | favourite number | 最喜爱的数字 | My number was seven, which is not my favourite number but it’s likely yours. |
 
-## 一句话总结**：本章用一个记不清的餐桌误会开头，最后落到「她的名字只有一个正确写法」上——「the name that appears on my birth certificate is Cherry.」这句话在这一章里被当成宪法一样念了三遍。
+## 一句话总结
+
+本章用一个记不清的餐桌误会开头，最后落到「她的名字只有一个正确写法」上——「the name that appears on my birth certificate is Cherry.」这句话在这一章里被当成宪法一样念了三遍。

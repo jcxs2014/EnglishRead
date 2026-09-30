@@ -91,4 +91,6 @@ modified: "2026-09-30"
 | romantic | 浪漫的 | It was the ‘classic’ romantic comedy, When Harry Met Sally. |
 | beautiful gold | 漂亮的金…（此处指胸针） | On our first wedding anniversary he gave me a beautiful gold brooch inscribed with the Kronecker delta symbol. |
 
-## 一句话总结**：这一章用两件小东西——一支跑不出墨的笔、一枚刻着符号的胸针——完成了一段婚姻的起点，而叙述者花了整章假装自己没被说服。
+## 一句话总结
+
+这一章用两件小东西——一支跑不出墨的笔、一枚刻着符号的胸针——完成了一段婚姻的起点，而叙述者花了整章假装自己没被说服。

@@ -99,4 +99,6 @@ modified: "2026-09-30"
 | apt description | 贴切的描述 | Eve has never seen a nuclear waste site, but it seems an apt description. |
 | distressing sight | 叫人不适的景象 | This was the distressing sight that greeted them when they first arrived on the island: tired, cranky, grumpy and married. |
 
-## 一句话总结**：本章把蜜月拍成一条 Instagram 帖子的同时，悄悄把「随潮水消失」写进每一段风景：等读者开始相信它，对话里那句关于杀死你的话就顺着同一道潮水漫了进来。
+## 一句话总结
+
+本章把蜜月拍成一条 Instagram 帖子的同时，悄悄把「随潮水消失」写进每一段风景：等读者开始相信它，对话里那句关于杀死你的话就顺着同一道潮水漫了进来。

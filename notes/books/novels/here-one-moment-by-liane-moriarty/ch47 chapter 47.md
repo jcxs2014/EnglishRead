@@ -104,4 +104,6 @@ modified: "2026-09-30"
 | horror movie | 恐怖片 | Six weeks after their wedding, Eve opens their credit card bill, shrieks and claps her hand over her mouth like a girl in a horror movie. |
 | fancy apartment | 豪华公寓 | The point is they didn’t lease a fancy apartment, which is why Eve assumed they could afford, like, normal stuff. |
 
-## 一句话总结**：本章的重量全压在一张账单上：她不是没有钱，是从来没算过账——算完之后，连吃一颗橘子都得假装不酸。
+## 一句话总结
+
+本章的重量全压在一张账单上：她不是没有钱，是从来没算过账——算完之后，连吃一颗橘子都得假装不酸。

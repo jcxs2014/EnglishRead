@@ -77,4 +77,6 @@ modified: "2026-09-30"
 | fury | 愤怒 | People were furious with him and their fury was actually quite a good distraction. |
 | brat | 小混蛋 | I never made any kind of prediction for him because I never met the little brat! |
 
-## 一句话总结**：一桩被当成「预言应验」的死讯，最后被揭穿是本人自导自演；作者借这次揭穿把舆论的枪口整个调转——那位老妇一句「我没预言过他」还没说出口，读者已经在替她庆幸了。
+## 一句话总结
+
+一桩被当成「预言应验」的死讯，最后被揭穿是本人自导自演；作者借这次揭穿把舆论的枪口整个调转——那位老妇一句「我没预言过他」还没说出口，读者已经在替她庆幸了。

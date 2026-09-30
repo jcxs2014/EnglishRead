@@ -103,4 +103,6 @@ modified: "2026-09-30"
 | back pocket | 裤子后兜 | He pulls his phone from his back pocket, dials. |
 | beach | 海滩 | She hangs up and Ethan walks towards the beach, past the couple who don’t stop their rabid kissing. |
 
-## 一句话总结**：本章写的不是情敌，是一个从不敢承认自己没戏的人——他输给的不是 Carter，是自己那点「也许有机会」的念头。
+## 一句话总结
+
+本章写的不是情敌，是一个从不敢承认自己没戏的人——他输给的不是 Carter，是自己那点「也许有机会」的念头。

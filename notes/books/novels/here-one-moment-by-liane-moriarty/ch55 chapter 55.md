@@ -96,4 +96,6 @@ modified: "2026-09-30"
 | heads-up | 提前的警告 | A heads-up might have been helpful, Mum. |
 | beautiful baby | 美丽的婴儿 | She had her beautiful baby, my mother, in a basket at her feet. |
 
-## 一句话总结**：这一章用「你也这样吧」把读者的直觉接过来，再让一连串家庭旧事把这份直觉一点点耗空，最后只剩一句没法兑现的抱怨。
+## 一句话总结
+
+这一章用「你也这样吧」把读者的直觉接过来，再让一连串家庭旧事把这份直觉一点点耗空，最后只剩一句没法兑现的抱怨。

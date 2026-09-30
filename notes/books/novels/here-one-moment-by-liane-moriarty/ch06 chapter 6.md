@@ -98,4 +98,6 @@ modified: "2026-09-30"
 | security | 安检；安检处 | There’s the pregnant woman who had to take off her shoes going through security, poor thing. |
 | future | 未来 | He’s secretly worried the lady actually does know something about their future. |
 
-## 一句话总结**：本章用一位急诊护士的双眼把同一位老妇重新看了一遍——她的职业训练让她先屏蔽掉「你在说胡话」这件事，可她自己那条「六十六岁退休」的计划没能屏蔽掉。
+## 一句话总结
+
+本章用一位急诊护士的双眼把同一位老妇重新看了一遍——她的职业训练让她先屏蔽掉「你在说胡话」这件事，可她自己那条「六十六岁退休」的计划没能屏蔽掉。

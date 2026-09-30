@@ -96,4 +96,6 @@ modified: "2026-09-30"
 | streaming services | 流媒体订阅服务 | They have cancelled all their streaming services. |
 | tarot card | 塔罗牌 | She thinks of her dad bribing the tarot card reader to say he was the man of her mother’s dreams. |
 
-## 一句话总结**：这一章里所有的保护措施都在制造它要防的风险，所有的省钱决定都在制造更穷，而 Eve 的解决方案是花钱买一句违心话——「这不浪漫，这是可怕。」
+## 一句话总结
+
+这一章里所有的保护措施都在制造它要防的风险，所有的省钱决定都在制造更穷，而 Eve 的解决方案是花钱买一句违心话——「这不浪漫，这是可怕。」

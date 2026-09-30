@@ -103,4 +103,6 @@ modified: "2026-09-30"
 | invalid | 病人 | She put me to bed in her guestroom, and I stayed there for a week, like an invalid suffering from consumption. |
 | new term | 新说法 | In my day we would have said I suffered a ‘nervous breakdown’, but the new term is ‘mental health crisis’. |
 
-## 一句话总结**：本章把一个说不清的空白分诊成三种病名，又把同一个夜晚的巧合排成一列清单——最后剩下的不是诊断，而是一句可以反复念的提醒。
+## 一句话总结
+
+本章把一个说不清的空白分诊成三种病名，又把同一个夜晚的巧合排成一列清单——最后剩下的不是诊断，而是一句可以反复念的提醒。

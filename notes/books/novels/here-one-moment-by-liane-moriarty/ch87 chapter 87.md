@@ -95,4 +95,6 @@ modified: "2026-09-30"
 | fool | 傻瓜 | I felt like a fool, once again taking the rules too seriously. |
 | arm | 手臂 | ‘Cherry,’ he said quietly, and he touched my arm. |
 
-## 一句话总结**：她用一整章把 David Smith 从「安静、不打扰」写到「由自利驱动」，中间只隔着一场蜜月的食物中毒——原来体贴和不耐烦用的是同一副身体。
+## 一句话总结
+
+她用一整章把 David Smith 从「安静、不打扰」写到「由自利驱动」，中间只隔着一场蜜月的食物中毒——原来体贴和不耐烦用的是同一副身体。

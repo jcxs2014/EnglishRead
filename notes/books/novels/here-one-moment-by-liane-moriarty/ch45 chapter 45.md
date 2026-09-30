@@ -89,4 +89,6 @@ modified: "2026-09-30"
 | waist | 腰；腰部 | He rolls his chair closer, puts his arm around her waist, looks up at her. |
 | opposing view | 相反的意见 | One of the things he has always loved about her is that she will always stop and consider an opposing view. |
 
-## 一句话总结**：本章写一个人如何把「时间当钱」贯彻到连电影都不去看，而全章真正花掉的时间，都在劝他抬头的那几句对话上。
+## 一句话总结
+
+本章写一个人如何把「时间当钱」贯彻到连电影都不去看，而全章真正花掉的时间，都在劝他抬头的那几句对话上。

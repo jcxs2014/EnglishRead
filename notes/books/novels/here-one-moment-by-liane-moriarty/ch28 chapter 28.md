@@ -101,4 +101,6 @@ modified: "2026-09-30"
 | medical episode | 突发状况 | She spoke as though I’d suffered a medical episode, not fallen asleep. |
 | injured boy | 受伤的男孩 | I could see the injured boy ahead of me in the line. |
 
-## 一句话总结**：本章用一段全麻醉的类比解释记忆为什么整段消失（the experience of a general anaesthetic, when you’re asked to count down from ten and you never get to zero, you get to eight, or seven if you count fast），又用一句家常的真相把它一笔勾销（I did not have a good evening.）——那位空乘的恐惧是真的，而老妇自己的解释只是客套话的反面。
+## 一句话总结
+
+本章用一段全麻醉的类比解释记忆为什么整段消失（the experience of a general anaesthetic, when you’re asked to count down from ten and you never get to zero, you get to eight, or seven if you count fast），又用一句家常的真相把它一笔勾销（I did not have a good evening.）——那位空乘的恐惧是真的，而老妇自己的解释只是客套话的反面。

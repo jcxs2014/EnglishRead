@@ -65,4 +65,6 @@ modified: "2026-09-30"
 | stopped | 阻止；使停下 | He could have stopped that last domino. |
 | accurate | 准确的 | I hate him for making me accurate. |
 
-## 一句话总结**：本章先用一整段理论把一场车祸解释成必然，再用两个短句把必然推翻，最后把「他说得对」这件事变成叙述者最恨的东西。
+## 一句话总结
+
+本章先用一整段理论把一场车祸解释成必然，再用两个短句把必然推翻，最后把「他说得对」这件事变成叙述者最恨的东西。

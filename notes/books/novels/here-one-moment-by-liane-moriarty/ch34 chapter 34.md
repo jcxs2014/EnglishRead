@@ -72,4 +72,6 @@ modified: "2026-09-30"
 | house fire | 住宅火灾 | There was a house fire. |
 | mother | 母亲 | Once, I asked my mother, ‘Did you tell her not to marry him? |
 
-## 一句话总结**：这一章最狠的不是那场火，而是叙述者记住了一个她根本没能力阻止的未来——所以它既不是预言书，也不是免责声明。
+## 一句话总结
+
+这一章最狠的不是那场火，而是叙述者记住了一个她根本没能力阻止的未来——所以它既不是预言书，也不是免责声明。

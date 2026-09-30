@@ -103,4 +103,6 @@ modified: "2026-09-30"
 | captain | 机长；队长 | ‘I bet she did too,’ said the captain gloomily, and they all laughed. |
 | apartment | 公寓 | The fragrance of baking fills the apartment. |
 
-## 一句话总结**：本章把「被预言」落到一个普通家庭的日常里：母亲的担心、家族的抑郁症史、以及一个正在烤派的男人——三件事挤在同一间卧室。
+## 一句话总结
+
+本章把「被预言」落到一个普通家庭的日常里：母亲的担心、家族的抑郁症史、以及一个正在烤派的男人——三件事挤在同一间卧室。

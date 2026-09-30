@@ -96,4 +96,6 @@ modified: "2026-09-30"
 | future | 未来 | As a child I never mimicked my mother or grandmother by pretending to read palms or see the future. |
 | purple curtain | 紫色帘子 | There was no door to the back veranda where Mum saw her customers, just a purple curtain which she drew to give the illusion of privacy. |
 
-## 一句话总结**：她用「数大袋鼠」这个不浪漫的开场把自己钉在不信的一边，可偏偏是那一次顺手替人读了手相，让她尝到了掌心的重量。
+## 一句话总结
+
+她用「数大袋鼠」这个不浪漫的开场把自己钉在不信的一边，可偏偏是那一次顺手替人读了手相，让她尝到了掌心的重量。

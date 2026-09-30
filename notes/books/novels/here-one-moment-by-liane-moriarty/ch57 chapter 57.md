@@ -70,4 +70,6 @@ modified: "2026-09-30"
 | day | 一天；（此处作短语动词用）到此为止 | He might have looked up at that cloud-heavy sky and said to his friends: Let’s call it a day. |
 | friends | 朋友们 | He might have looked up at that cloud-heavy sky and said to his friends: Let’s call it a day. |
 
-## 一句话总结**：四个短段把「提前告知」拆成信与行两件事，再用一句假设把它们重新扣回一个具体的人身上——结论停在一百岁这个不可能的数字上。
+## 一句话总结
+
+四个短段把「提前告知」拆成信与行两件事，再用一句假设把它们重新扣回一个具体的人身上——结论停在一百岁这个不可能的数字上。

@@ -102,4 +102,6 @@ modified: "2026-09-30"
 | fair allocation | 自己那份（的合理量） | I had, but said nothing as I had contributed more than my fair allocation of conversation. |
 | natural hair | 天生发质／发色 | They assume it’s my natural hair colour. |
 
-## 一句话总结**：一顿晚宴里最该被记住的三样东西——蛋糕、蝴蝶、以及「我倒希望我感到过寒战」——作者一件也没让它们真正发生：它们都是在场的人替不在场的人保存下来的。
+## 一句话总结
+
+一顿晚宴里最该被记住的三样东西——蛋糕、蝴蝶、以及「我倒希望我感到过寒战」——作者一件也没让它们真正发生：它们都是在场的人替不在场的人保存下来的。

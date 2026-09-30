@@ -102,4 +102,6 @@ modified: "2026-09-30"
 | save | 救下 | Friends can save your life. |
 | hobby | 爱好 | Mum took up fortune telling, which is not what Auntie Pat meant at all. She meant a hobby. |
 
-## 一句话总结**：她把丧偶之后的头几个月过成了一张活动清单，否掉三项、抓住一项，然后在泳池边被一个陌生人抱住——本章真正完成的是一次习惯的替换：从「把事办完」换成「有人一起办」。
+## 一句话总结
+
+她把丧偶之后的头几个月过成了一张活动清单，否掉三项、抓住一项，然后在泳池边被一个陌生人抱住——本章真正完成的是一次习惯的替换：从「把事办完」换成「有人一起办」。

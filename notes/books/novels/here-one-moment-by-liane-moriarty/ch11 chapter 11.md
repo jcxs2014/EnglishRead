@@ -59,4 +59,6 @@ modified: "2026-09-30"
 | hands | 手 | When I put my hands to my cheeks I can still feel the heat of my shame. |
 | love | 热爱 | I brought my profession, the profession I love, into serious disrepute that day, and we already had an image problem. |
 
-## 一句话总结**：本章只有三句，把前一章末句原样复读一遍再换掉说话人，然后用「手贴上脸颊还觉得烫」把一句控诉转成一份自我判决。
+## 一句话总结
+
+本章只有三句，把前一章末句原样复读一遍再换掉说话人，然后用「手贴上脸颊还觉得烫」把一句控诉转成一份自我判决。

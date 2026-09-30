@@ -104,4 +104,6 @@ modified: "2026-09-30"
 | crowd | 人群 | Their conversation is a flame which catches alight and races through the crowd. |
 | deep voice | 低沉的嗓音 | ‘She was the last one on the plane,’ says a deep voice. |
 
-## 一句话总结**：本章写的是一场从「wedding clothes feel like Halloween costumes and it’s not Halloween」开始的集体恐慌：一句预告被复制成几十句版本（「I was going to die of intimate partner homicide」），而 Eve 的处理方式是把三个词分别装箱——「Intimate.」「Partner.」「Homicide.」。
+## 一句话总结
+
+本章写的是一场从「wedding clothes feel like Halloween costumes and it’s not Halloween」开始的集体恐慌：一句预告被复制成几十句版本（「I was going to die of intimate partner homicide」），而 Eve 的处理方式是把三个词分别装箱——「Intimate.」「Partner.」「Homicide.」。

@@ -97,4 +97,6 @@ modified: "2026-09-30"
 | flight delay | 航班延误 | When would a flight delay be considered a breach of contract? |
 | thousand | 千 | She’s been on this plane for a thousand years. |
 
-## 一句话总结**：本章让一位一直用法律术语给自己当拐杖的母亲，在听到针对小儿子的那一句话时彻底失去拐杖——她最后能说出口的控诉，只有一句「对一个母亲说这种话太过分」。
+## 一句话总结
+
+本章让一位一直用法律术语给自己当拐杖的母亲，在听到针对小儿子的那一句话时彻底失去拐杖——她最后能说出口的控诉，只有一句「对一个母亲说这种话太过分」。

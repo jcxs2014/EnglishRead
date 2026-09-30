@@ -105,4 +105,6 @@ modified: "2026-09-30"
 | castle | 城堡 | Glinting diamonds in the sunlight, and you see the spires of a castle, and you’re laughing with somebody who makes you happy, and you . . . oh, that’s gone . . . let me see . . . |
 | silly diets | 那些愚蠢的节食 | The silly diets had not been the cause of her digestive problems. The silly diets had masked the true cause. |
 
-## 一句话总结**：这一章把一次告别写成一场完整营业——换装、灯光、录音、报价，一样不缺；而在那套流程中间，真正要命的那句话出自母亲，说完之后她照旧收钱、照旧微笑，两个数字则是本章由别人给出的答案。
+## 一句话总结
+
+这一章把一次告别写成一场完整营业——换装、灯光、录音、报价，一样不缺；而在那套流程中间，真正要命的那句话出自母亲，说完之后她照旧收钱、照旧微笑，两个数字则是本章由别人给出的答案。

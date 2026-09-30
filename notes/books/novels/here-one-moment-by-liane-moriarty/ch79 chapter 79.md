@@ -104,4 +104,6 @@ modified: "2026-09-30"
 | geometry lesson | 几何课 | Not every boy would want to hear about a geometry lesson, but Jack was a carpenter. |
 | decade later | 十年后 | I saw her just once, a decade later, when I got out of my car after parking on Albert Lane, Hornsby. |
 
-## 一句话总结**：本章把「出生日期」和「生死」接在一起——一个数字的巧合被他母亲读成天意，被他自己读成概率；两种读法都成立，结局却和他母亲算的完全相反，于是这章最后那块隔板，把她一生的算盘收成了一句「完美」。
+## 一句话总结
+
+本章把「出生日期」和「生死」接在一起——一个数字的巧合被他母亲读成天意，被他自己读成概率；两种读法都成立，结局却和他母亲算的完全相反，于是这章最后那块隔板，把她一生的算盘收成了一句「完美」。

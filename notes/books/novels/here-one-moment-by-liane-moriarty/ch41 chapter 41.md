@@ -102,4 +102,6 @@ modified: "2026-09-30"
 | elegant shoulder | 优雅的肩线 | Zehra shrugged an elegant shoulder. |
 | cutest | 最可爱的 | All the babies are cute but Timmy, obviously, is the cutest. |
 
-## 一句话总结**：婴儿游泳课把「会不会出事」换成了「能不能自救」，而整章真正的答案由婆婆贴着耳朵给出：那不是预言，是诅咒。
+## 一句话总结
+
+婴儿游泳课把「会不会出事」换成了「能不能自救」，而整章真正的答案由婆婆贴着耳朵给出：那不是预言，是诅咒。

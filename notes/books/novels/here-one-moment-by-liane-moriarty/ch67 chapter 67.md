@@ -72,4 +72,6 @@ modified: "2026-09-30"
 | mistakes | 错误 | I was interested, as I hoped to learn from her mistakes. |
 | paler blue | 更浅的蓝色 | She would really have preferred a paler blue but she supposed it would do. |
 
-## 一句话总结**：本章只写了一场没接到话头的告别——祖母丢下一句最重的遗言，所有在场的人却都在忙着别的事，连采访她的那个人也只顾着掏纸笔。
+## 一句话总结
+
+本章只写了一场没接到话头的告别——祖母丢下一句最重的遗言，所有在场的人却都在忙着别的事，连采访她的那个人也只顾着掏纸笔。

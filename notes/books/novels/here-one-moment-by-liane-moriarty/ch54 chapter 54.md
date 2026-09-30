@@ -95,4 +95,6 @@ modified: "2026-09-30"
 | peaceful sunny | 平静而晴朗的 | It’s a peaceful sunny Saturday afternoon three months after the flight. |
 | back door | 后门 | Neve comes through the back door carrying a laundry basket laden with dry clothes from the clothesline. |
 
-## 一句话总结**：本章把「三个月来一切正常」的日常用一声尖叫打断，然后让一家人用各不相同的方式回避同一段视频——回避的姿势比视频本身更说明他们在怕什么。
+## 一句话总结
+
+本章把「三个月来一切正常」的日常用一声尖叫打断，然后让一家人用各不相同的方式回避同一段视频——回避的姿势比视频本身更说明他们在怕什么。

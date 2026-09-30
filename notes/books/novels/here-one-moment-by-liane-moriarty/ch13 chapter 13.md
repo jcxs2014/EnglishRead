@@ -72,4 +72,6 @@ modified: "2026-09-30"
 | mother | 母亲 | My mother never told anyone who sat for her anything terrible or distressing that she saw in their future. |
 
 
-## 一句话总结**：四段引语把一场协会谴责拆成「认罚—搬出母亲的规矩—反问对方—承认为了钱」，让这位老妇在自述里先把自己钉死，再顺手替读者留下疑问。
+## 一句话总结
+
+四段引语把一场协会谴责拆成「认罚—搬出母亲的规矩—反问对方—承认为了钱」，让这位老妇在自述里先把自己钉死，再顺手替读者留下疑问。

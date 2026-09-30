@@ -58,4 +58,6 @@ modified: "2026-09-30"
 | vision | 视力；视野 | ‘On the count of three,’ he’d say while my heart pounded and my vision blurred, and he’d take my hand in his. ‘One. Two. Three.’ |
 | three | 三 | ‘On the count of three,’ he’d say while my heart pounded and my vision blurred, and he’d take my hand in his. ‘One. Two. Three.’ |
 
-## 一句话总结**：本章只用三句话给出一个解释——机舱里那句「On the count of three」之所以让老妇把自己也算进去，是因为她在数到三的那一刻想起了一个很久以前的男孩。
+## 一句话总结
+
+本章只用三句话给出一个解释——机舱里那句「On the count of three」之所以让老妇把自己也算进去，是因为她在数到三的那一刻想起了一个很久以前的男孩。

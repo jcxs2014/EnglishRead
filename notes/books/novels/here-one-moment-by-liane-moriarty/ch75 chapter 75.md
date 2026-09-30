@@ -104,4 +104,6 @@ modified: "2026-09-30"
 | inflated price | 虚高的价格 | Auntie Pat was there to make sure this experienced carpenter didn’t charge Mum an inflated price for these fancy shelves. |
 | peripheral vision | 周边视觉；余光 | It was like I lost my peripheral vision. |
 
-## 一句话总结**：本章用一场木匠上门的家庭琐事做容器，把「第一眼」的重量全压在一个握手的长度上——叙述者一边说自己夸张，一边拿鳄鱼猎人的故事为自己背书，最后干脆拒绝解释那件事是什么，把判断权交给读者。
+## 一句话总结
+
+本章用一场木匠上门的家庭琐事做容器，把「第一眼」的重量全压在一个握手的长度上——叙述者一边说自己夸张，一边拿鳄鱼猎人的故事为自己背书，最后干脆拒绝解释那件事是什么，把判断权交给读者。

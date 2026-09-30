@@ -102,4 +102,6 @@ modified: "2026-09-30"
 | old country | 乡村（曲风） | She’s been playing an old country song on repeat, called ‘Take This Job and Shove It’. It’s not exactly a subliminal message. |
 | public service | 公共服务部门 | The public service regularly places ads for jobs which have already been filled. Everyone knows that! |
 
-## 一句话总结**：一章之内老板用幼儿园的甜话把他从办公室请出去，妻子用一首老歌把他往另一个方向推，而真正推动他的那通旧友电话只出现在两个括号里——他举起手指要说的那件事，本章一次也没写。
+## 一句话总结
+
+一章之内老板用幼儿园的甜话把他从办公室请出去，妻子用一首老歌把他往另一个方向推，而真正推动他的那通旧友电话只出现在两个括号里——他举起手指要说的那件事，本章一次也没写。

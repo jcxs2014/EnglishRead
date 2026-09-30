@@ -97,4 +97,6 @@ modified: "2026-09-30"
 | opposite | 相反的做法 | You would have thought Auntie Pat and I would have leaned on each other after Mum died, but we did the opposite. |
 | perfectly pleasant | 看着挺和气的 | Ned seemed like a perfectly pleasant man. |
 
-## 一句话总结**：本章先用一串精算师笑话把「算命」这件事变轻，再把母亲、离婚、姑姑三场塌方串成一条因果链，最后停在一个术语上——她这一生真正被推动的那一次，不是算出来的。
+## 一句话总结
+
+本章先用一串精算师笑话把「算命」这件事变轻，再把母亲、离婚、姑姑三场塌方串成一条因果链，最后停在一个术语上——她这一生真正被推动的那一次，不是算出来的。

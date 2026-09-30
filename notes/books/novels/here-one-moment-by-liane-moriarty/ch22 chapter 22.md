@@ -105,4 +105,6 @@ modified: "2026-09-30"
 | air | 空气 | That childhood sensation of her nose pressed flat, bones crushed, the air squeezed from her body. |
 | seat | 座位 | Well done, Ellie, turn her around, get her back to her seat. |
 
-## 一句话总结**：本章把乘务员的职业句式一路写到底，直到同样的句式被用来报出她自己额头上的死法与年龄（I expect self-harm, age . . . age . . . twenty . . .’）——例行程序与本章的结局，说的是同一套语言。
+## 一句话总结
+
+本章把乘务员的职业句式一路写到底，直到同样的句式被用来报出她自己额头上的死法与年龄（I expect self-harm, age . . . age . . . twenty . . .’）——例行程序与本章的结局，说的是同一套语言。

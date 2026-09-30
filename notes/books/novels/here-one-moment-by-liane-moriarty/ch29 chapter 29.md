@@ -102,4 +102,6 @@ modified: "2026-09-30"
 | snort | 哼声；嗤笑 | The taxi driver makes a sound that could possibly be a snort. |
 | soft lobs | 软绵绵的球 | It’s more difficult to cope with the soft lobs of normal, well-adjusted people. |
 
-## 一句话总结**：本章从一个猝不及防的坦白开场（「first funeral today,’ Ethan explains to the older man who has introduced himself as Leo. ‘So I was already feeling kind of . . . strange」），中途倒回两周前（「Two weeks ago.」），最后由一位陌生司机讲完一个太精确的旧故事，把全章推向「到底信不信」。
+## 一句话总结
+
+本章从一个猝不及防的坦白开场（「first funeral today,’ Ethan explains to the older man who has introduced himself as Leo. ‘So I was already feeling kind of . . . strange」），中途倒回两周前（「Two weeks ago.」），最后由一位陌生司机讲完一个太精确的旧故事，把全章推向「到底信不信」。

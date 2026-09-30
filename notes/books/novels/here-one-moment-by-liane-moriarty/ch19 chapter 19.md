@@ -106,4 +106,6 @@ modified: "2026-09-30"
 | departures board | 出发航班显示屏 | A man with Elvis Presley sideburns wearing a moss-green Ralph Lauren polo shirt stood with narrowed eyes checking the departures board. |
 
 
-## 一句话总结**：本章把「认错人」推到认出自己的旧婚礼礼服——六个花粉印、一条钓鱼竿的筒子、一个人造的百合都归到同一个人身上，而她给这一切的总结只是需要一杯茶。
+## 一句话总结
+
+本章把「认错人」推到认出自己的旧婚礼礼服——六个花粉印、一条钓鱼竿的筒子、一个人造的百合都归到同一个人身上，而她给这一切的总结只是需要一杯茶。

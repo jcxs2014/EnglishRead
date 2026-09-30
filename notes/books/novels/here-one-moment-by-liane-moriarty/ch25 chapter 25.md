@@ -99,4 +99,6 @@ modified: "2026-09-30"
 | flight attendant | 空乘人员 | He had discreetly observed her across the aisle after the flight attendant brought her back to her seat. |
 | closest seatmate | 最靠近的邻座乘客 | Her closest seatmate, the man in the window seat, didn’t try to wake her either. |
 
-## 一句话总结**：本章把排队写成一间没有出口的审讯室（「Memorable flight, eh? Don’t forget that hard hat, will you」），直到末尾一个回头把视线拉回队尾那位老妇身上（「agrees Leo, but then on impulse he looks back for Cool Guy」）。
+## 一句话总结
+
+本章把排队写成一间没有出口的审讯室（「Memorable flight, eh? Don’t forget that hard hat, will you」），直到末尾一个回头把视线拉回队尾那位老妇身上（「agrees Leo, but then on impulse he looks back for Cool Guy」）。

@@ -103,4 +103,6 @@ modified: "2026-09-30"
 | bet | 赌注；打赌 | Ivy said I had a big creepy smile on my face, as if I’d won a bet, and it was no wonder that Jiminy looked so alarmed. |
 | child | 孩子；儿童 | I didn’t fully grasp what my dad was saying as I was only a child. |
 
-## 一句话总结**：这一章把一枚硬币和一次雷击并排放在一起——父亲用「硬币没有记忆」教她别把过去当成未来的证据，而她自己正是这条原理的活样本。
+## 一句话总结
+
+这一章把一枚硬币和一次雷击并排放在一起——父亲用「硬币没有记忆」教她别把过去当成未来的证据，而她自己正是这条原理的活样本。

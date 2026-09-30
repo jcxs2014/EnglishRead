@@ -91,4 +91,6 @@ modified: "2026-09-30"
 | dinner party | 晚宴 | Or so I was told by a bearded man at a dinner party in the summer of 1984. I do not remember his name, just his magnificent lush brown beard. |
 | wife | 妻子 | He had a grain of brown rice stuck between his two front teeth and nobody, not even his wife, pointed it out. |
 
-## 一句话总结**：本章用一场 1984 年的晚宴解释了一件事——她反复说的那句口头禅是母亲的，而她母亲相信命不可违；把这条信念讲给她听的人顺带留下一个没被问出口的问题。
+## 一句话总结
+
+本章用一场 1984 年的晚宴解释了一件事——她反复说的那句口头禅是母亲的，而她母亲相信命不可违；把这条信念讲给她听的人顺带留下一个没被问出口的问题。

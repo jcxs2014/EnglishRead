@@ -95,4 +95,6 @@ modified: "2026-09-30"
 | break-up | 分手 | Has any woman had to do this for him following a break-up? |
 | answer | 答案 | The fear on her face is his answer. |
 
-## 一句话总结**：一整章他都在用电影里的自己给自己壮胆，直到门铃真响起来，那句「我们这种人不当动作英雄」把整套戏装拆了个干净。
+## 一句话总结
+
+一整章他都在用电影里的自己给自己壮胆，直到门铃真响起来，那句「我们这种人不当动作英雄」把整套戏装拆了个干净。

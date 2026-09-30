@@ -104,4 +104,6 @@ modified: "2026-09-30"
 | driver | 司机；驾车的人 | Once, when he was a teenager and had got his driver’s licence, Dom drove in his sleep. |
 | dress | 连衣裙 | Eve thinks about the first bride who wore her dress. |
 
-## 一句话总结**：全章用一次又一次的「还会有事发生」铺垫，最后用 Dom 进门的一句话证明：真正压垮这对新人的从来不是飞机上那位老妇说的话，是账单。
+## 一句话总结
+
+全章用一次又一次的「还会有事发生」铺垫，最后用 Dom 进门的一句话证明：真正压垮这对新人的从来不是飞机上那位老妇说的话，是账单。

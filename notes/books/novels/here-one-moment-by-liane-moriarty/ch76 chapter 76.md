@@ -105,4 +105,6 @@ modified: "2026-09-30"
 | elderly doctors | 那对年老的医生夫妇 | Anders sent her the shocking video of the poor Tasmanian girl in the car accident and the link to the story about the elderly doctors. |
 | core | 核心肌群 | He said it was great for those with a ‘structurally normal spine’ like Allegra, who need to ‘improve their core’. |
 
-## 一句话总结**：本章把一个自信的「无聊拖船」放进一台跑步机上慢慢摇——她一边拆掉别人给她的假风景，一边给自己造一个拖船的比喻，然后又用同一个比喻怀疑自己从没被海试过；等到公司电话打进来、机器同时报错，她连最后那点稳当也用完了。
+## 一句话总结
+
+本章把一个自信的「无聊拖船」放进一台跑步机上慢慢摇——她一边拆掉别人给她的假风景，一边给自己造一个拖船的比喻，然后又用同一个比喻怀疑自己从没被海试过；等到公司电话打进来、机器同时报错，她连最后那点稳当也用完了。

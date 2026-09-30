@@ -74,4 +74,6 @@ modified: "2026-09-30"
 | friend | 朋友 | Her friend, the passenger who filmed the accident, had to spend weeks in hospital and she shut down her social media during that time. |
 | prediction | 预言 | Kayla’s family never spoke publicly about the prediction. |
 
-## 一句话总结**：本章是一份热度结算单——它把一场死亡的传播量逐项记清，然后用一条狗的视频把数字还原成数字，最后告诉你，名字还要等一等。
+## 一句话总结
+
+本章是一份热度结算单——它把一场死亡的传播量逐项记清，然后用一条狗的视频把数字还原成数字，最后告诉你，名字还要等一等。

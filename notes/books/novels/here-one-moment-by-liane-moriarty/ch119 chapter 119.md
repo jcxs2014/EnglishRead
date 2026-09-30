@@ -61,4 +61,6 @@ modified: "2026-09-30"
 | need | 需要 | There is no need for everyone to get too excited about this. It might not have killed him, and even if it had, I don’t believe it would have fallen under the classification of a workplace accident because it wasn’t Leo’s workplace. |
 | accident | 事故 | a workplace accident because it wasn’t Leo’s workplace. |
 
-## 一句话总结**：她刚从喊出一个名字救人的现场走出来，第一件事不是庆幸而是降调：先说对方可能毫发无伤，再把这件事划到「不算工伤」那一栏——一个刚生效的善举，被她当场压回成一条归类说明。
+## 一句话总结
+
+她刚从喊出一个名字救人的现场走出来，第一件事不是庆幸而是降调：先说对方可能毫发无伤，再把这件事划到「不算工伤」那一栏——一个刚生效的善举，被她当场压回成一条归类说明。

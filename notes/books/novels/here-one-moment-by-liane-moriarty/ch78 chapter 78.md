@@ -103,4 +103,6 @@ modified: "2026-09-30"
 | old man | 老头 | She thinks the old man may have smiled at her children. |
 | black dress | 黑裙子 | She’s wearing a black dress that is too big for her. |
 
-## 一句话总结**：本章把「不敢来的葬礼」写成一场漫长的自我审判——她嘴上说的是那对医生，心里数的是儿子会淹死的年龄，全章让她安静下来的只有那个画面——婴儿在泳池里浮着；直到那位新娘从车前走过，Paula 立刻挂断电话下车。
+## 一句话总结
+
+本章把「不敢来的葬礼」写成一场漫长的自我审判——她嘴上说的是那对医生，心里数的是儿子会淹死的年龄，全章让她安静下来的只有那个画面——婴儿在泳池里浮着；直到那位新娘从车前走过，Paula 立刻挂断电话下车。

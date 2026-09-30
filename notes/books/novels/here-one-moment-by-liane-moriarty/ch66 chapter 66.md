@@ -73,4 +73,6 @@ modified: "2026-09-30"
 | circumstances change | 情况变了 | ‘Like if your circumstances change. |
 | different energy | 不一样的气场 | Also, my clairvoyant says that sometimes you might just have a different energy on the day. |
 
-## 一句话总结**：这一章是一通什么也没问到的电话：问的人想确认一件她不敢确认的事，答的人什么都能圆，而她接下来能做的只有「找到那个人」这一件事。
+## 一句话总结
+
+这一章是一通什么也没问到的电话：问的人想确认一件她不敢确认的事，答的人什么都能圆，而她接下来能做的只有「找到那个人」这一件事。

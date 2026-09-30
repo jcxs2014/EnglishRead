@@ -98,4 +98,6 @@ modified: "2026-09-30"
 | husband | 丈夫 | He wasn’t my husband! I’d only just met him! |
 | internet | 互联网 | I see from the internet that the attractive man who refused to see a doctor is still alive. |
 
-## 一句话总结**：本章把那句口头禅的来历补全——它本来是晚宴上一句轻率的评论，却撬出了讲述者母亲的一生；而「可避免却没避免」这句话，正是她此后反复咀嚼的那道题。
+## 一句话总结
+
+本章把那句口头禅的来历补全——它本来是晚宴上一句轻率的评论，却撬出了讲述者母亲的一生；而「可避免却没避免」这句话，正是她此后反复咀嚼的那道题。

@@ -104,4 +104,6 @@ modified: "2026-09-30"
 | mysterious institution | 神秘机构 | Marriage is a mysterious institution, even from the inside. |
 | perfect marriage | 完美的婚姻 | It seems like theirs was a happy marriage, perhaps the perfect marriage, but obviously I don’t have all the data. |
 
-## 一句话总结**：本章先把一段蜜月写成连续的实物——冰洞、便条、四个名字——再在后半用一句「也许我当年其实不想要孩子」把这层温情的底抽走，最后两句短句把它落到「婚姻哪怕从里面看也是个神秘机构」；作者宁可给比喻，也不给结论。
+## 一句话总结
+
+本章先把一段蜜月写成连续的实物——冰洞、便条、四个名字——再在后半用一句「也许我当年其实不想要孩子」把这层温情的底抽走，最后两句短句把它落到「婚姻哪怕从里面看也是个神秘机构」；作者宁可给比喻，也不给结论。

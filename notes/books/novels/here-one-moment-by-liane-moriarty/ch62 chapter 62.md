@@ -71,4 +71,6 @@ modified: "2026-09-30"
 | face | 脸 | He watches the video and she watches his face, and then she thinks to herself, Oh, Eve, you stupid, stupid girl. |
 | phone | 手机 | Dom takes the phone. |
 
-## 一句话总结**：本章把一场哭拆成两半——丈夫那半被归给钱，她那半被归给「我跟她不熟凭什么难过」，最后她自己把这笔账算到了自己头上。
+## 一句话总结
+
+本章把一场哭拆成两半——丈夫那半被归给钱，她那半被归给「我跟她不熟凭什么难过」，最后她自己把这笔账算到了自己头上。

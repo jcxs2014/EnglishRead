@@ -68,4 +68,6 @@ modified: "2026-09-30"
 | fourth death | 第四次死亡 | The fourth death really gets my goat, as Auntie Pat liked to say. |
 | damned minds | 清醒的脑子 | That’s when everyone lost their damned minds. That’s when articles about me began appearing in ‘respectable’ publications. |
 
-## 一句话总结**：不到两百个字的插入章，用两个重复的时间状语和一个三段排比，写清了第四起死亡之后她从「新闻里的人物」变成「被搜寻的人」的过程。
+## 一句话总结
+
+不到两百个字的插入章，用两个重复的时间状语和一个三段排比，写清了第四起死亡之后她从「新闻里的人物」变成「被搜寻的人」的过程。

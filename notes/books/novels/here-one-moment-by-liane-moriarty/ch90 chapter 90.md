@@ -95,4 +95,6 @@ modified: "2026-09-30"
 | beginning | 开始 | The lattice-topped pie was only the beginning. |
 | answer | 答案 | Her father, meanwhile, thinks the treadmill is the answer. |
 
-## 一句话总结**：她挑了一条「最热门的自杀目的地之一」附近的步道去约会，说了什么、没说什么都被那条动态记着——最后她不是被什么外力推下去的，是被自己的犹豫绊倒的。
+## 一句话总结
+
+她挑了一条「最热门的自杀目的地之一」附近的步道去约会，说了什么、没说什么都被那条动态记着——最后她不是被什么外力推下去的，是被自己的犹豫绊倒的。

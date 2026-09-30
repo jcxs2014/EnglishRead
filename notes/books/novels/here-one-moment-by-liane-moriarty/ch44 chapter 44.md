@@ -64,4 +64,6 @@ modified: "2026-09-30"
 | doorbell | 门铃 | I promise I will circle back to the dinner party and the ringing of the doorbell. |
 | memories | 记忆；回忆（复数形式） | But the older you get, the less linear your memories, and the more everything seems to circle back to something else. |
 
-## 一句话总结**：本章是一扇门：先把提问现场摆出来，再宣布要如实且简短地讲，最后承认记忆会绕回原地——后面的自传由此展开。
+## 一句话总结
+
+本章是一扇门：先把提问现场摆出来，再宣布要如实且简短地讲，最后承认记忆会绕回原地——后面的自传由此展开。

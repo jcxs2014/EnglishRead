@@ -103,4 +103,6 @@ modified: "2026-09-30"
 | husband | 丈夫 | I had my husband’s ashes in my carry-on bag. |
 | profound effect | 深刻的影响 | There are certain events in my life that I believe may have had a profound effect on me. |
 
-## 一句话总结**：这一章把全书的悬念机关反过来写了一遍——先由她自己供出「预测是怎么来的」，再由她自己把那些解释全部收回，最后只留下一个丧偶的退休精算师和一次航班上的精神崩溃；读者拿到的不是答案，而是一份被当事人亲手拆开又亲手封好的证词。
+## 一句话总结
+
+这一章把全书的悬念机关反过来写了一遍——先由她自己供出「预测是怎么来的」，再由她自己把那些解释全部收回，最后只留下一个丧偶的退休精算师和一次航班上的精神崩溃；读者拿到的不是答案，而是一份被当事人亲手拆开又亲手封好的证词。

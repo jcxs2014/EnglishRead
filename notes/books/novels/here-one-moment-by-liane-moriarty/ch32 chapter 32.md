@@ -70,4 +70,6 @@ modified: "2026-09-30"
 |---|---|---|
 | iceberg looms | 冰山逼近（loom 意为「隐约显形」） | When the iceberg looms, when something finally happens which is outside of their control, they are outraged. |
 
-## 一句话总结**：本章用一整套航海比喻把「命好」写成一种站姿：手松松搭在舵轮上的人，一旦冰山出现，第一个动作不是扶舵，是左右找 blame。
+## 一句话总结
+
+本章用一整套航海比喻把「命好」写成一种站姿：手松松搭在舵轮上的人，一旦冰山出现，第一个动作不是扶舵，是左右找 blame。

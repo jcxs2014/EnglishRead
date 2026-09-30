@@ -97,4 +97,6 @@ modified: "2026-09-30"
 | bank | 银行 | She behaved as though it was somehow ill-gotten, as if Dad had robbed a bank, not insured his life. |
 | big leap | 大大的一步 | This was a big leap forward from Grandma’s secret palm-reading. |
 
-## 一句话总结**：本章把「精确」这条主线从一张改错的数字卷到一桩算命生意，最后让说出这句话的人自己承认——逻辑也有解决不了的事。
+## 一句话总结
+
+本章把「精确」这条主线从一张改错的数字卷到一桩算命生意，最后让说出这句话的人自己承认——逻辑也有解决不了的事。

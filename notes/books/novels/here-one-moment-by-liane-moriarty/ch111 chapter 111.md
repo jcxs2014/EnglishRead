@@ -104,4 +104,6 @@ modified: "2026-09-30"
 | hairpin bend | 发夹弯 | The driver negotiating the hairpin bend in the opposite direction isn’t drunk. |
 | life span | 寿命 | Cold therapy prolongs the life span of mice by up to twenty-one per cent. |
 
-## 一句话总结**：本章把一场死亡拆成一串可以重新排列的细节——多等一小时、多说一句抱歉——最后又用物理学的平行现实把所有细节拼回原样。
+## 一句话总结
+
+本章把一场死亡拆成一串可以重新排列的细节——多等一小时、多说一句抱歉——最后又用物理学的平行现实把所有细节拼回原样。

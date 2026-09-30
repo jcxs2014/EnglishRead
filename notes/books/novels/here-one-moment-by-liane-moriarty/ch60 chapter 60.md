@@ -92,4 +92,6 @@ modified: "2026-09-30"
 | grocery store | 杂货店；食品超市 | She watches the video on her phone in the grocery store, surrounded by the bright colours of fresh fruit and vegetables. |
 | tests | 检查；化验 | She will do the tests. |
 
-## 一句话总结**：同一条街上、同一个购物筐，本章把死亡与特价并排写进一句里，然后让一个在急诊工作多年的人用一句「我会去查」把自己从情绪里拽出来。
+## 一句话总结
+
+同一条街上、同一个购物筐，本章把死亡与特价并排写进一句里，然后让一个在急诊工作多年的人用一句「我会去查」把自己从情绪里拽出来。

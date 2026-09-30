@@ -105,4 +105,6 @@ modified: "2026-09-30"
 | arm | 手臂 | She drops her arm, pivots and turns to face Leo’s row. |
 | ancient | 古老的；年代久远的 | An ancient, old-world-y symbol. |
 
-## 一句话总结**：本章把上一章那个「数到三之后呢」的疑问填满——答案是逐个报出死因与年龄；而 Leo 从想报警一路退到陪她玩，最后被报上自己四十三岁 workplace accident 的那一刻，退路才彻底关掉。
+## 一句话总结
+
+本章把上一章那个「数到三之后呢」的疑问填满——答案是逐个报出死因与年龄；而 Leo 从想报警一路退到陪她玩，最后被报上自己四十三岁 workplace accident 的那一刻，退路才彻底关掉。

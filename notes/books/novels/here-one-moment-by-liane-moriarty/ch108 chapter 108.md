@@ -96,4 +96,6 @@ modified: "2026-09-30"
 | giggles | 咯咯笑 | She gets the giggles, but of course she can’t tell him. |
 | hip movement | 摆胯的动作 | Max has got the rhythm already, and he’s having a go at the hip movement, even though they’re just meant to be clapping. |
 
-## 一句话总结**：这一章把「面对死亡」翻译成「把想做没做的事排进日程表」，而全章最动人的地方是这对老夫妻在同一个误会里各自内疚。
+## 一句话总结
+
+这一章把「面对死亡」翻译成「把想做没做的事排进日程表」，而全章最动人的地方是这对老夫妻在同一个误会里各自内疚。

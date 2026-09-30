@@ -89,4 +89,6 @@ modified: "2026-09-30"
 | phone back | 把电话放回耳边 | She puts the phone back to her ear. |
 | weight lift | 重担卸下的感觉 | After their dinner, she’d felt a weight lift. |
 
-## 一句话总结**：一通在超市果蔬区接的电话，把「手续办了就算做完」的安心一层层剥掉，最后剩下的仍然只是那句没商量余地的「你去做检查」。
+## 一句话总结
+
+一通在超市果蔬区接的电话，把「手续办了就算做完」的安心一层层剥掉，最后剩下的仍然只是那句没商量余地的「你去做检查」。
