@@ -117,6 +117,51 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| apricot-and-cream | 杏黄奶油色的 | Perhaps, thought Jane as she looked at her mother’s 1980s apricot-and-cream kitchen, she would never go back to Pirriwee. |
+| familiarity | 熟悉的包裹感 | Here, Jane felt bathed in familiarity: the mugs, the old brown teapot, the tablecloth, the smell of home, and of course, the puzzle. |
+| Impressionist | 印象派的 | It was a two-thousand-piece puzzle of an Impressionist painting. |
+| frustration | 挫败 | Her frustration manifested itself in a sudden burst of anger and irritability that she directed at her poor defenseless mother. |
+| manifested | 爆发出来 | Her frustration manifested itself in a sudden burst of anger and irritability that she directed at her poor defenseless mother. |
+| irritability | 烦躁 | Her frustration manifested itself in a sudden burst of anger and irritability that she directed at her poor defenseless mother. |
+| reincarnated | 转世 | “For heaven’s sake, Ziggy is not Poppy reincarnated! |
+| reincarnation | 转世（论） | Poppy didn’t even believe in reincarnation! |
+| personality | 人格（特质） | And the fact is, we don’t know what personality traits Ziggy might have inherited from his father, because Ziggy’s father was, his father was . |
+| biological | 生物（学上的）父亲 | I just meant that Ziggy’s biological father was basically a stranger. |
+| deliberately | 有意地 | “I think we’ve all gotten over the shock of your hussy-like behavior by now, Jane,” said Dane deliberately. |
+| playground | （操场的）角落 | Jonathan: When I first saw the playground at Pirriwee Public I thought it was amazing. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| squinted | 眯眼细看 | He held a tiny jigsaw piece up to the light and squinted at it. |
+| belonged | 属于（这里） | This was where she belonged. |
+| addicted | （全家）沉迷 | Her family had been addicted to jigsaw puzzles for as long as Jane could remember. |
+| lucrative | 赚钱的（本地客户） | Recently, thanks to Madeline, she’d picked up two new lucrative local clients within walking distance of her flat: Pirriwee Perfect Meats and Tom O’Brien’s Smash Repairs. |
+| directed | （怒气）转向 | Her frustration manifested itself in a sudden burst of anger and irritability that she directed at her poor defenseless mother. |
+| inherited | 继承 | And the fact is, we don’t know what personality traits Ziggy might have inherited from his father, because Ziggy’s father was, his father was . |
+| clenched | 咬紧（下颌） | Her father’s jaw was clenched. |
+| depending | （别人）指望 | When someone you loved was depending on your lie, it was perfectly easy. |
+| basically | 基本上（是陌生人） | I just meant that Ziggy’s biological father was basically a stranger. |
+| hideaways | （操场的）秘密角落 | All those secret little hideaways. |
+| downside | （也有）坏处 | But now I see that had its downside. |
+| clueless | 毫无头绪的（老师） | All sorts of things were going on at that school out of sight and the teachers were clueless. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| hussy-like behavior | 风流韵事 | “I think we’ve all gotten over the shock of your hussy-like behavior by now, Jane,” said Dane deliberately. |
+| jigsaw pieces | 拼图碎片 | “I cannot believe that Ziggy would be bullying her daughter,” said Jane’s mother, her eyes on the jigsaw pieces she was sliding rapidly back and forth on the table. |
+| punishment | 惩罚 | Her motives had been warped and weird, and this was her punishment. |
+| sapphire-blue shimmer | 宝石蓝的微光 | “Maybe I should move back over this way,” she said, seeing how it felt, and as she spoke she thought for some reason of Blue Blues, the smell of coffee, the sapphire-blue shimmer of the sea, and Tom’s wink as he handed over her takeout coffee, as if they were both in on a secret joke. |
+| sickness | 一种病 | Almost a sickness. |
+| two-thousand-piece puzzle | 两千片的拼图 | It was a two-thousand-piece puzzle of an Impressionist painting. |
+
 ## 一句话总结
 
 两千片拼图摊在杏黄厨房的桌上——母亲的直觉提前三年到达现场（他伤了你吗？），兄长的清醒拒绝配合谎言，全家以「骨子里没有那个东西」完成终审；而 Jane 在人生最快乐的几个月里，第一次对自己的「服刑地」提出上诉。
