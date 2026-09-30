@@ -57,6 +57,28 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| confusing | （记忆）混乱 | “It’s all so confusing. |
+| flinched | （被语气）一惊 | Jane flinched at his sudden change of tone. |
+| swinging | （如）挥动的 | His voice had the implacability, the weight and violence of a swinging hammer. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| policeman | 警员 | “Yes,” sighed the policeman. |
+| remorse | 忏悔 | Because she wanted his remorse? |
+| apology | 道歉 | She never got an apology. |
+| implacability | 不容缓的 | His voice had the implacability, the weight and violence of a swinging hammer. |
+
 ## 一句话总结
 
 病床边的六轮问答剥开「全怪鸡尾酒」的盾——警员放下记事本，一句「你在撒谎吗」用抡锤般的声音落下；Jane 想起自己从没说出过的话：Ziggy 喜欢南瓜、她从没拿到过道歉，而这正是她来 Pirriwee 的理由之一。
