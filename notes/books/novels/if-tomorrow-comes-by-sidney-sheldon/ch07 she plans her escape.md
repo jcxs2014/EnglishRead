@@ -36,7 +36,7 @@ modified: "2026-09-30"
 
 > **原句 4:** Tracy looked him in the eye. “I was. I fell off my bunk.”
 
-- **中文理解**：她盯着他的眼睛。「是我。我从上铺摔下来了。」
+- **中文理解**：她盯着他的眼睛。「是。我从上铺摔下来了。」
 - **关键词**：looked him in the eye · I was · I fell off my bunk
 - **为什么这样写**：典狱长问的是她有没有被性侵，她答的却是一个假现场。作者把她的话拆成两截：I was. 独立成句，先把「确实发生了」这句承认交出去，再补上无害的 I fell off my bunk。前面的 looked him in the eye 垫着，读者看见的是一个不打算改口的人。
 - **读者视角提示**：她答完之后，典狱长追问 Are you quite sure?——他其实已经看出她在撒谎，因为紧接着的失望写在他的脸上。整场对话里谁都没有真的相信她——包括那个打算把戏演到底的她自己。

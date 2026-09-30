@@ -30,7 +30,7 @@ modified: "2026-09-30"
 
 > **原句 3:** “Of course. Everyone knows me. I am the greatest chess player in the world. In my country, I am a national hero.” He leaned close to Tracy, put a hand on her knee, and said, “I am also a great fuck.”
 
-- **中文理解**：「当然，人人都认识我。我是世界上最强的国际象棋棋手。在我自己的国家，我是民族英雄。」他往 Tracy 身边靠，一只手搭上她的膝盖，说：「而且我也是一个 great fuck 的大人物。」
+- **中文理解**：「当然，人人都认识我。我是世界上最强的国际象棋棋手。在我自己的国家，我是民族英雄。」他往 Tracy 身边靠，一只手搭上她的膝盖，说：「而且我在床上也很厉害。」
 - **关键词**：Everyone knows me · I am the greatest chess player in the world · I am also a great fuck
 - **为什么这样写**：段首先给一句自我定位，Everyone knows me 是全段的题眼；随后两句是样板自夸，第三句用 also 硬接过来，把同一副句型换掉内容，于是自夸变成了性骚扰。真正狠的是她那一侧的重复：她愣住问了一句什么，他于是把同一句又说了一遍，作者连主语都省了，只留 I am a great fuck。同一句话被说两遍不是修辞失误，是人物品性的定格——他根本不认为对方听得懂，所以不换词。
 - **读者视角提示**：Tracy 的第一反应是把酒泼到他脸上，但她选了另一条路。克制被写成「她有更好的主意」，这句转念是后面整场局的起点。
@@ -39,7 +39,7 @@ modified: "2026-09-30"
 
 - **中文理解**：「我不想要什么大钱，」Tracy 哀号道，「我倒希望这条船沉了。为什么这不能是泰坦尼克号？」
 - **关键词**：I don’t want to make a lot of money · I want this boat to sink · Why couldn’t this be the Titanic?
-- **为什么这样写**：wailed 这个词把她的抗议降格成嚎叫，与 Jeff 一路的 reassuring 语气正好相反。整句话的逻辑是荒谬的：她怕的不是死，是丢脸，于是求的救是沉船；而泰坦尼克号在当时的常识里是「大而不快、不至于立刻撞上冰山」的豪华邮轮——她挑了一个最不合时宜的救命稻草。作者让她在一场骗局里先当那个渴望逃跑的普通乘客，好让后面的逆转有落差。
+- **为什么这样写**：wailed 这个词把她的抗议降格成嚎叫，与 Jeff 一路的 reassuring 语气正好相反。整句话的逻辑是荒谬的：她怕的不是死，是丢脸，于是求的救是沉船；而泰坦尼克号是所有人心里最沉的一艘船——她挑了一个最不合时宜的救命稻草。作者让她在一场骗局里先当那个渴望逃跑的普通乘客，好让后面的逆转有落差。
 - **读者视角提示**：这句台词是全章的喜剧支点，也是 Jeff 心里那句 Trust me 真正要兑现的地方——他从没打算教她下棋。
 
 > **原句 5:** The captain made his decision. “It smells like some kind of con game, and ordinarily I would put a stop to it. However, I happen to be a bit of an expert myself, and if there was one thing I’d stake my life on, it’s the fact that there is no way to cheat at chess. Let the match go on.” He walked over to his desk and withdrew a black leather wallet. “Put down fifty pounds for me. On the masters.”

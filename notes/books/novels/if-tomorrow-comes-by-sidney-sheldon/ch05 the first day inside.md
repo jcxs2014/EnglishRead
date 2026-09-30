@@ -48,7 +48,7 @@ modified: "2026-09-30"
 - **中文理解**：「法院已经判你有罪。我能给你的最好忠告是：尽量把刑期过得容易些。一旦你接受了服刑的条款，一切就会容易得多。监狱里没有钟，只有日历。」
 - **关键词**：The courts have found you guilty · try to do easy time · Once you accept the terms of your imprisonment · There are no clocks in prison, only calendars
 - **为什么这样写**：他给的不是法律意见，而是两步：先用 The courts have found you guilty 把她的申辩封在门外，再把「服刑」讲成一门要学的技术——try to do easy time 是他要她做的事，Once you accept the terms 是他认定她迟早会做的前提。段末 no clocks 说明日子还在走，only calendars 说明日子只能数：不是熬过去，是排出来。它也正对着上一段那句 I can’t stand fifteen years of this：她怕的是长度，他给的是算法。
-- **读者视角提示**：这位典狱长读过她的案卷、也认为刑期过重，但他能拿出来的只有这一类建议；紧接着他自称只是 custodian of bodies。
+- **读者视角提示**：这位典狱长读过她的案卷、也认为刑期过重，但他拿出来的只有这一类建议；在他开口之前，叙述已经先写定了他——the warden was simply the custodian of bodies。
 
 > **原句 6:** It was not until Tracy reached her cell block that she realized what the women were chanting: “Fresh meat.”
 

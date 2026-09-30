@@ -25,14 +25,14 @@ modified: "2026-09-30"
 
 - **中文理解**：马戏团自成一个世界。「我们这儿不办主日学表演，」Uncle Willie 对 Jeff 解释，「我们都是耍花招的。但记住，小子：人不是本来就贪心，你就骗不动他。W. C. Fields 说得对——老实人骗不了。」
 - **关键词**：We don’t run a Sunday school show · We’re flimflam artists · you can’t con people unless they’re greedy to begin with · You can’t cheat an honest man
-- **为什么这样写**：这一段把全书对骗子的伦理装进一句市井话里，而关键在于作者让它出自骗子之口——Uncle Willie 教的不是怎么骗人，而是**什么人骗不了**。`You can’t cheat an honest man.` 与 Jeff 后来的做法正好相反：他现在专门去找那些并不贪的人下手。信条和实践的错位，就是这条人物线的发动机。
+- **为什么这样写**：这一段把全书对骗子的伦理装进一句市井话里，而关键在于作者让它出自骗子之口——Uncle Willie 教的不是怎么骗人，而是**什么人骗不了**。`You can’t cheat an honest man.` 正是 Jeff 一生用来挑对象的筛子：不信谣的人他没生意做，他要的从来是那些贪到愿意自己走进故事里的人。信条不是枷锁，是门径，这条人物线的发动机就在这里。
 - **读者视角提示**：`Sunday school` 这个说法后面还会出现一次（Jeff 骂自己像个主日学老师），中间隔着越战、婚姻和整个上东区。
 
 > **原句 3:** Jeff became an expert at the “blow-off.” When customers paid to see a sideshow exhibition, Jeff would make his spiel: “Ladies and gentlemen: Everything that’s pictured, painted, and advertised outside, you will see within the walls of this tent for the price of your general admission. However, immediately after the young lady in the electric chair gets finished being tortured, her poor body racked by fifty thousand watts of electricity, we have an extra added attraction that has absolutely nothing to do with the show and is not advertised outside. Behind this enclosure you are going to see something so truly remarkable, so chilling and hair-raising, that we dare not portray it outside, because it might come under the eyes of innocent children or susceptible women.”
 
 - **中文理解**：Jeff 精通了「吹场」：客人付了钱来看场边杂耍，他就念词——「女士们、先生们：外面画了、印了、打了广告的，你们花一张门票钱，在这顶帐篷的墙里全都能看到。不过，就在那位坐在电椅上的姑娘——她可怜的身体被五万瓦电流折磨完——之后，我们另有一场额外加演，它跟本节目毫无关系，外面也没有广告。这道围挡后面你们要看到的东西，实在非凡、骇人、令人毛骨悚然，我们不敢在外面宣传，因为它可能会落到 innocent children 或 susceptible women 的眼里。」
 - **关键词**：Ladies and gentlemen · for the price of your general admission · we dare not portray it outside · so truly remarkable, so chilling and hair-raising
-- **为什么这样写**：全书最好的一段叫卖词标本，作者把街头叫卖的结构完整搬进小说：先大方承认对方已经买过票（`for the price of your general admission`），再制造一个「被禁止展示」的禁忌（`we dare not portray it outside`），最后用三个 so 引导的形容词排成节拍收尾。这段话没有一条新信息，通篇是重新包装，而 Jeff 靠它吃饭了一辈子。
+- **为什么这样写**：全书最好的一段叫卖词标本，作者把街头叫卖的结构完整搬进小说：先大方承认对方已经买过票（`for the price of your general admission`），再制造一个「被禁止展示」的禁忌（`we dare not portray it outside`），最后用两个 so 引导的形容词（so truly remarkable / so chilling and hair-raising）排成节拍收尾。这段话没有一条新信息，通篇是重新包装，而 Jeff 靠它吃饭了一辈子。
 - **读者视角提示**：注意这套话术的道德弹性：它说的每件「事实」（电椅、五万瓦、外面的确有广告）都是真的，只有「我们不敢宣传」是假的。全书对骗局的定义就写在这里。
 
 > **原句 4:** The years that followed were filled with a series of adventures. To Jeff, the whole world was a carnival, and the people in it were his marks. He devised his own con games. He placed ads in newspapers offering a color picture of the President for a dollar. When he received a dollar, he sent his victim a postage stamp with a picture of the President on it.

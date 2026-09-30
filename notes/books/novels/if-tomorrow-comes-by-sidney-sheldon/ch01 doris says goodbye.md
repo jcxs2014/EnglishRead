@@ -19,7 +19,7 @@ modified: "2026-09-30"
 
 - **中文理解**：她慢而恍惚地脱下衣服；裸身时特意挑了一件鲜红的睡裙来穿，这样血就不会显眼。
 - **关键词**：undressed slowly, dreamily · bright red negligee · the blood would not show
-- **为什么这样写**：三个副词把一件恐怖的事写成日常梳洗。真正的信息压在最后一小句的 so that 上——它一出现，前面所有「慢、恍惚、红色」全部换了意思。作者把因果后置，读者是在读完尾巴后被迫重读整句的。
+- **为什么这样写**：两个副词把一件恐怖的事写成日常梳洗。真正的信息压在最后一小句的 so that 上——它一出现，前面所有「慢、恍惚、红色」全部换了意思。作者把因果后置，读者是在读完尾巴后被迫重读整句的。
 - **读者视角提示**：这是全书第一句。它同时交代了「她在准备死」和「她还在讲究体面」，而后者是这一家人的底色。
 
 > **原句 2:** Dear God, we’re talking about the weather, Doris Whitney thought, when there’s so much I want to tell her. And can’t.

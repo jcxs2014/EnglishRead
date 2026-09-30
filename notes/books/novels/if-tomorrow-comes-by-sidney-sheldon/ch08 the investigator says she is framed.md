@@ -24,7 +24,7 @@ modified: "2026-09-30"
 
 - **中文理解**：让死掉的事随死者一起埋掉，这是一句谎话。死者从来不会一直埋着。
 - **关键词**：Let the dead past bury its dead · was a lie · The dead never stayed buried
-- **为什么这样写**：作者先拆一句格言——把 Let the dead past bury its dead 从引号里拎出来接到 was a lie 上，于是这句格言从护身符变成被否定的对象；下一句 The dead never stayed buried 再把否定钉死。两句合起来就是这个人往后所有行为的发动机：不与人来往、每天至少洗三次澡、旧丑闻被小报翻出来时人间蒸发几天。
+- **为什么这样写**：作者先拆一句格言——Let the dead past bury its dead 本身没有引号，是被直接塞进句法里、后面直接接上 was a lie，于是这句格言从护身符变成被否定的对象；下一句 The dead never stayed buried 再把否定钉死。两句合起来就是这个人往后所有行为的发动机：不与人来往、每天至少洗三次澡、旧丑闻被小报翻出来时人间蒸发几天。
 - **读者视角提示**：原文只交代机制、不交代内容——他怕的东西被写成一个旧丑闻、一份锁在房间里的发黄剪报、以及每隔两三年被小报翻出来一次。读者知道他在怕什么，不知道他做过什么。
 
 > **原句 3:** He thought of himself as a hunter, tracking down those who broke the law. He was the vengeance of God, the instrument that brought down God’s wrath on the heads of wrongdoers.
@@ -38,8 +38,8 @@ modified: "2026-09-30"
 
 - **中文理解**：人怎么能这么蠢？「我的差事做完了。」
 - **关键词**：How could people be so stupid · My assignment is finished
-- **为什么这样写**：Tracy 问的是 Then you’ll help me?，得到的回答是单独的 No.；再追问，得到的还是 No.。作者不给 Cooper 同情，只给不耐烦——问句把他的求生欲当成蠢，公文式的回答把一份救人的工作当成已经结清的账单。
-- **读者视角提示**：她那声 No? 与他的 My assignment is finished 之间只夹着 The word was like a slap.，那是她的身体反应；Cooper 这边一丝波动都没有。这一章要留下的那句「真相无用」，就落在这次毫无波动的回答上。
+- **为什么这样写**：Tracy 问的是 Then you’ll help me?，得到的回答是单独的 No.；她再追问 “No? But why? If you know I’m innocent—”，得到的却不是辩解，是一句心里话 How could people be so stupid? 和一句公文式的 My assignment is finished。作者不给 Cooper 同情，只给不耐烦——问句把他的求生欲当成蠢，公文式的回答把一份救人的工作当成已经结清的账单。
+- **读者视角提示**：她那声 No? 与他的 My assignment is finished 之间只夹着 How could people be so stupid? 这一句心里话；The word was like a slap. 写在更早的位置，落在她自己身上。这一章要留下的那句「真相无用」，就落在这次毫无波动的回答上。
 
 > **原句 5:** He wondered, without any real interest, what fifteen years in prison would do to her. It had nothing to do with him.
 

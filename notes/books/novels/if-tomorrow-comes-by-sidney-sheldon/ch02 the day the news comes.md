@@ -7,7 +7,7 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **地点·时间**：Philadelphia 与 New Orleans，2 月 21 日星期五。开头在 Philadelphia 的银行（上午 8:00 至 9:00）与 Rittenhouse Square 的 Stanhope 老宅（傍晚至近午夜），2:30 A.M. 接到新奥尔良警长 Miller 的电话，当天上午飞 New Orleans，从太平间转到母亲在 Garden District 的老宅。
+- **地点·时间**：Philadelphia 与 New Orleans，2 月 21 日星期五。开头在 Philadelphia 的银行（上午 8:00 至 9:00）与 Rittenhouse Square 的 Stanhope 老宅（傍晚至近午夜），2:30 A.M. 接到新奥尔良警督 Miller 的电话，当天上午飞 New Orleans，从太平间转到母亲在 Garden District 的老宅。
 - **一句话概括**：Tracy 上班时还在心里说「这么幸福是不体面的」，同一天夜里母亲 Doris 自杀的消息就打到她在 Philadelphia 的公寓；她飞回新奥尔良，看到冷掉的遗体、一封没写理由的短信、一栋被搬空的房子，以及老工头 Otto 讲的那条破产链。
 - **情感弧线位置**：从全书的情绪最高点（订婚、怀孕、升职在望）直落到最低点；这一章把「失去母亲」与「查明真相」两件事焊在一起，恨的对象被点名，全章没有一句台词说出它。
 - **叙事手法**：第三人称紧贴 Tracy 的意识，句间大量自由间接引语；中间插进一整段回溯（她与 Charles 的相识、订婚、见家长），用意料之外的顺序把「最幸福的几周」和「最坏的一通电话」直接对撞。

@@ -60,7 +60,7 @@ modified: "2026-09-30"
 - **中文理解**：她听见医生的声音：「……一根断骨、一只骨折的手腕。我们会打上固定……割伤和淤伤很重，但它们会愈合。她失去了孩子……」
 - **关键词**：a broken rib and a fractured wrist · We’ll tape them up · cuts and bruises are bad · She’s lost the baby
 - **为什么这样写**：这几句是回忆里的听觉，不是当场对话——她躺在黑暗里复述医生说过的话。作者用 We’ll tape them up 这样轻的处理方案压住前面的重伤，让医疗口气显得比身体遭遇轻；而最后那句 She’s lost the baby 用省略号收在半途，像医生当时就没把话说完。
-- **读者视角提示**：同章开头她隐瞒的正是这件事——她曾想对看守说 I’m going to have a baby，指望因此换到干净的单人牢房。机会还没说出口，孩子就没了。
+- **读者视角提示**：同章开头她隐瞒的正是这件事——她曾想对典狱长说 I’m going to have a baby，指望因此换到干净的单人牢房。机会还没说出口，孩子就没了。
 
 > **原句 8:** Tomorrow, she thought. If tomorrow comes.
 

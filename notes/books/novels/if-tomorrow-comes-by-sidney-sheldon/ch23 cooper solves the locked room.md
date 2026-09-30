@@ -27,7 +27,7 @@ modified: "2026-09-30"
 - **中文理解**：十二岁的 Daniel Cooper 今天在 Fred Zimmer 的庭审中作证。Zimmer 被控强奸并杀害这个男孩的母亲。按男孩的证词，他放学回家，看见邻居 Zimmer 离开 Cooper 家，手上和脸上都是血。男孩进屋后，在浴缸里发现了母亲的尸体。她被残忍地刺死。Zimmer 承认自己是 Cooper 太太的情人，但否认杀了她。
 - **关键词**：Twelve-year-old Daniel Cooper today testified · a next-door neighbor · savagely stabbed to death
 - **为什么这样写**：这是一则写得极干的社会新闻，句子全是动词：testified、saw、leaving、entered、discovered。作者不给任何形容词，也不写男孩的感受，只有最后一句 denied that he had killed her 留下一个不闭合的口子——读者和当年的男孩一样，只能靠猜。
-- **读者视角提示**：报道里的男孩始终以 the boy 指代，从头到尾没人叫他的名字；后来是他自己把这张纸从箱子里拿出来重看。
+- **读者视角提示**：报道在叙述句里始终用 the boy 指代，标题也只写 BOY；只有那句 “Twelve-year-old Daniel Cooper today testified” 把他落到名字上——正是这个落差，多年后他重看时才被击中。后来是他自己把这张纸从箱子里拿出来重看。
 
 > **原句 3:** Daniel Cooper’s trembling hands dropped the clipping back into the box and locked it. He looked around wildly. The walls and ceiling of the hotel bathroom were spattered with blood. He saw his mother’s naked body floating in the red water. He felt a wave of vertigo and clutched the sink. The screams inside him became gutteral moans, and he frantically tore off his clothes and sank down into the blood-warm bath.
 
