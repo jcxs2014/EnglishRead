@@ -117,6 +117,40 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| suffocatingly | 令人窒息地 | She ached for her twins’ compact little bodies, and for that all too brief moment when their hands curled, suffocatingly, possessively, around her neck and she kissed their hot, hard, fragrant little heads before they squirmed away. |
+| possessively | 占有欲十足地 | She ached for her twins’ compact little bodies, and for that all too brief moment when their hands curled, suffocatingly, possessively, around her neck and she kissed their hot, hard, fragrant little heads before they squirmed away. |
+| simplicity | 简单、素净 | The simplicity of her life seemed so compelling. |
+| compelling | 动人的 | The simplicity of her life seemed so compelling. |
+| uncomplicated | 没有纷扰的 | Life would be calm and uncomplicated. |
+| mouse-like | 小鼠似的、细碎的 | Her mouth made tiny little mouse-like movements as she chewed gum. |
+| untangling | 抽丝剥茧地解开 | The careful untangling of a legal issue. |
+| practicing | 执业（律师） | “I couldn’t go back to practicing law,” said Celeste. |
+| breathless | 气喘吁吁的 | I get breathless going up a tiny slope. |
+| supposedly | 据说、外传 | Harper: You know how Jane and Celeste were supposedly great friends? |
+| graciously | 优雅得体地 | Madeline didn’t get paid for the time she spent on these phone calls, and if her boss offered to pay, she’d have said no, but still, it would have been nice to have had the opportunity to graciously refuse), Samira mentioned that she had a “whole stack” of complimentary front-row Disney On Ice tickets if Madeline wanted them. |
+| complimentary | 赠票的、白送的 | Madeline didn’t get paid for the time she spent on these phone calls, and if her boss offered to pay, she’d have said no, but still, it would have been nice to have had the opportunity to graciously refuse), Samira mentioned that she had a “whole stack” of complimentary front-row Disney On Ice tickets if Madeline wanted them. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| fragrant | 喷香的 | She ached for her twins’ compact little bodies, and for that all too brief moment when their hands curled, suffocatingly, possessively, around her neck and she kissed their hot, hard, fragrant little heads before they squirmed away. |
+| squirmed | 扭动挣脱 | She ached for her twins’ compact little bodies, and for that all too brief moment when their hands curled, suffocatingly, possessively, around her neck and she kissed their hot, hard, fragrant little heads before they squirmed away. |
+| interpret | 解读、读透 | There was something wry and sad in her voice that Celeste couldn’t quite interpret. |
+| overhear | 偷听到 | Well, obviously it wasn’t all roses, because I did overhear something at the trivia night, quite by accident. |
+| front-row | 前排的 | Madeline didn’t get paid for the time she spent on these phone calls, and if her boss offered to pay, she’d have said no, but still, it would have been nice to have had the opportunity to graciously refuse), Samira mentioned that she had a “whole stack” of complimentary front-row Disney On Ice tickets if Madeline wanted them. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| fortune | 一大笔钱 | Samantha: Those tickets cost a fortune, and Lily was so desperate to go. |
+| oversight | 疏忽（just an oversight 纯属疏漏） | I’m sure it was just an oversight. |
+
 ## 一句话总结
 
 放学路上，两个「没能成为律师」的女人把各自的断点并排放在海岬的步行计划里；Madeline 用一叠 Disney On Ice 门票把战争升级成日程表对撞——而访谈室里 Harper 的烟瘾换来的那半句「对不起，我真的太对不起了」，从此悬在案发阳台的上空，等全书来认领。
