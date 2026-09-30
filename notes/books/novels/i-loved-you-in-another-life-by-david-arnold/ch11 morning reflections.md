@@ -47,19 +47,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 3:** But somehow—somewhere beyond this closed door—the warmth of love remained.
-
-**中文理解**： 但不知怎么的——在这扇关着的门的某一处——爱的温度还在。
-
-**关键词**： somehow（不知怎么地）；somewhere beyond this closed door（在这扇关着的门的某一处）；remained（还在）
-
-**为什么这样写**： 全章最短的一次转折，写在两句极长的回忆之后，读起来像一次换气。作者既没有解释爱为什么还在（因为妹妹的东西都还在那间房里），也没有把它写成安慰——它只是一个位置和一种温度。这一句把上一段那层漆轻轻刮开：漆底下是热的。
-
-**读者视角提示**： 这是这条线的第一个正向支点，而且它出自叙述层、不出自任何人物之口——她父亲她母亲她姐姐都不在场。后面她每一次「重新想做点什么」都会回到这个温差上。
-
----
-
-> **原句 4:** “It’s Pet Sounds, Shosh. You don’t leave that shit behind.”
+> **原句 3:** “It’s Pet Sounds, Shosh. You don’t leave that shit behind.”
 
 **中文理解**： 「这是《Pet Sounds》，Shosh。这种东西你不能丢下。」
 
@@ -71,31 +59,19 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 5:** And yet here it was, despite her sister’s best efforts, left behind.
-
-**中文理解**： 然而它还是在这儿——尽管她姐姐用尽了一切努力。
-
-**关键词**： And yet（然而）；despite her sister’s best efforts（尽管她姐姐竭尽全力）；left behind（被落下的）
-
-**为什么这样写**： 上一段是姐姐的宣言，这一段是时间的裁决：她所有的努力都没能把唱片带走。全句几乎没有情绪词，情绪全在那个被动式里——被落下，不是被留下；而「她」甚至没有解释为什么。三句构成了本章最冷的一段叙述：一个人对抗遗物的努力，其实是对抗已经发生的事。
-
-**读者视角提示**： 这句话和开篇那扇门说的是同一件事：门里有东西，人出不来。而「被落下」这件事，在这条线后面还会被另外一个人用另一种方式重新提起。
-
----
-
-> **原句 6:** While love had compelled the sisters to formulate a plan to be together, the universe had used that plan to keep them apart.
+> **原句 4:** While love had compelled the sisters to formulate a plan to be together, the universe had used that plan to keep them apart.
 
 **中文理解**： 是爱逼着姐妹俩制定出一个在一起的计划，而宇宙又拿这个计划把她们分开了。
 
 **关键词**： compelled（迫使）；formulate a plan（制定计划）；had used that plan to（拿那个计划来）
 
-**为什么这样写**： 两个完成时态的对照完成了全章的论证：爱负责提出计划（动词是被迫的），宇宙负责执行（用的还是同一个计划）。中间的连词让两件事共用一条流程，差别只在主语。同一件东西，在不同主体手里产生相反的结果，而两方都不认错——这句结构和母亲那句「信仰演化了但不变假」是同一个句法。
+**为什么这样写**： 两个完成时态的对照完成了全章的论证：爱负责提出计划（动词是被迫的），宇宙负责执行（用的还是同一个计划）。中间的连词让两件事共用一条流程，差别只在主语。同一件东西，在不同主体手里产生相反的结果，而两方都不认错——这就是这条线往后所有因果的写法。
 
 **读者视角提示**： 这是全书的因果骨架第一次被说出口：爱和分离不是前后关系，是同一个动作的两面。
 
 ---
 
-> **原句 7:** “You forgot to leave a note,” she whispered, and imagined her sister in the afterlife, sitting on a rock in a river, alone . . .
+> **原句 5:** “You forgot to leave a note,” she whispered, and imagined her sister in the afterlife, sitting on a rock in a river, alone . . .
 
 **中文理解**： 「你忘了留张便条，」她低声说，并在心里想象姐姐在死后世界里，坐在河里的一块石头上，孤零零的……
 
@@ -107,7 +83,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 8:** Shosh raised her aluminum can in salute, drained the rest of the vodka Diet, and, for the first time in a long time, found herself itching to sing.
+> **原句 6:** Shosh raised her aluminum can in salute, drained the rest of the vodka Diet, and, for the first time in a long time, found herself itching to sing.
 
 **中文理解**： Shosh 把她的铝罐举起来当作敬酒，一口喝完剩下的伏特加健怡可乐，然后——很久很久以来第一次——发现自己想唱歌。
 
@@ -137,8 +113,6 @@ modified: "2026-09-30"
 | summoned | 被召唤的 | her mom rushed into every room as if summoned by the rising sun |
 | stopgaps | 权宜之计（复数） | an assortment of disappointing stopgaps |
 | afterlife | 来世，死后世界 | imagined her sister in the afterlife |
-| like blood through a vein | 像血在血管里流（形容爱在屋里流动） | love had run through this house like blood through a vein |
-| drained | 被抽干的（此处形容屋子） | a house drained of love |
 
 ### ⭐ 基础
 
@@ -147,7 +121,5 @@ modified: "2026-09-30"
 | vinyl | 黑胶唱片 | She reached out, ran a finger across the glass-encased vinyl. |
 | a frozen waffle | 一块冻硬的松饼 | every time she stuck a frozen waffle in the toaster |
 | an alarm clock | 闹钟 | An alarm clock sounded from her parents’ bedroom. |
-| the upstairs hallway | 楼上的走廊 | SHOSH STOOD IN THE UPSTAIRS hallway, inches from a door |
-| at least once a day | 至少一天一次 | At least once a day, Shosh stood in this spot. |
 
 ## 一句话总结**： 姐姐死后，Shosh 把一扇关着的门当成固定岗位，每天站几英寸、隔着玻璃补一句对方没来得及留的便条——而楼下闹钟一响，她先是喝完最后一口，然后发现自己想唱歌。

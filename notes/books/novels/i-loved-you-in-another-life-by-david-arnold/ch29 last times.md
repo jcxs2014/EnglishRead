@@ -63,7 +63,7 @@ modified: "2026-09-30"
 
 **中文理解**： 这个话题一直被点到、被绕着跳、却从来没有被正面碰过。Shosh 本可以轻轻松松列出一百个小理由——外加一个大到她几乎扛不住、从内里要把她吞掉的理由——但她说出口的只有：「那又怎样？我又不开车。」
 
-**关键词**： allude to / allussed（暗指，绕着说）；threatened to consume（几乎要把她吞掉）；Why not（那又怎样）；It’s not like I drive（我又不开车）
+**关键词**： had been alluded to（一直被点到）；danced around（被绕着跳）；threatened to consume（几乎要把她吞掉）；It’s not like I drive（我又不开车）
 
 **为什么这样写**： 作者用三个动词（alluded to、danced around、never directly approached）写一个话题被集体回避的过程，三个都带着身体性：被暗示、被绕、被逼近。而「a hundred little reasons—and one reason so big」这个结构是本章最精密的地方：它把 Shosh 的自我认知说成了一加一，而且那个一被作者用 consume（吞掉）这个动词写成了身体的威胁。然后她真正说出口的话把这一切全部作废（all she said was），并用一个反问（Why not?）和一个事实陈述（It’s not like I drive.）完成漂亮的转移。作者用这段话同时写出她的聪明和她在回避什么。
 
