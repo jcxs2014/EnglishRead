@@ -81,7 +81,7 @@ ch45 we both thought the other was dead.md     ch45 we both thought the other wa
 
 === ⑩ sweep_analysis_inline（分析层行内英文）===
 === 分析层行内英文逐字核查（lottery-of-secrets-by-nadija-mujagic）===
-  ✅ 逐字 1848 ｜ ⚠️ 跨章 64 ｜ 🔶 拼接 1 ｜ 🟠 部分命中 3 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 930
+  ✅ 逐字 1849 ｜ ⚠️ 跨章 64 ｜ 🔶 拼接 1 ｜ 🟠 部分命中 2 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 930
 
 === ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
   本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
