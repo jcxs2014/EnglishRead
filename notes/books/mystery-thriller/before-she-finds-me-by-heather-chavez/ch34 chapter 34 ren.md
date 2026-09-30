@@ -8,20 +8,20 @@ modified: "2026-09-30"
 ## 本章导航
 
 - **一句话概括**：Ren 坐在车里复盘自己与 Julia 谈话超时的那八十七秒，随后插入父亲 Anthony Petrovic 从执业律师变成职业杀手的完整来路，末尾她看到 Julia 停下来与举纸板牌子的女人交谈，并在心里发问。
-- **情感弧线位置**：冷静自控 → 家史揭示 → 困惑与松动（对 Julia 的杀意第一次没能落到行动上）
+- **情感弧线位置**：冷静自控 → 家史揭示 → 困惑与松动（连下毒都想过，理由却停在「还不到时候」）
 - **Tropes 兑现/反转**：杀手家族的「正义起源」反套路——驱动力不是仇恨，而是一层层累加的「不公平感」 · 旁观者惯性
-- **人物弧线**：Ren 全程在给自己计时，也在替父亲那套逻辑辩护；她第一次遇到一个自己无法归类的人
+- **人物弧线**：Ren 全程在给自己计时，也在替父亲那套逻辑辩护；她遇到一个自己无法归类的人
 - **叙事手法**：第三人称限知（Ren 视角），中间整段切入父亲的第三人称回顾；结尾以一个问句收束
 
 ## 精读
 
-> **原句 1:** Ren had spent six minutes and twenty-seven seconds talking to Julia. She’d allowed herself only five. Nolan would’ve called that extra eighty-seven seconds inconsequential, but Ren recognized it as proof that she was slipping—especially since she’d fantasized about poisoning Julia too. Even if killing her might protect Ren’s family, she couldn’t justify it.
+> **原句 1:** Ren had spent six minutes and twenty-seven seconds talking to Julia. She’d allowed herself only five. Nolan would’ve called that extra eighty-seven seconds inconsequential, but Ren recognized it as proof that she was slipping—especially since she’d fantasized about poisoning Julia too. Even if killing her might protect Ren’s family, she couldn’t justify it. Not yet.
 
-**中文理解**：Ren 跟 Julia 说了六分二十七秒。她只允许自己说五分钟。Nolan 本来会说多出来的那八十七秒无关紧要，可 Ren 偏偏认出那正是自己正在失手的证据——尤其在她连下毒 Julia 都幻想过之后。就算杀掉她或许能护住 Ren 的家人，她也仍然没法给自己一个说得过去的理由。
+**中文理解**：Ren 跟 Julia 说了六分二十七秒。她只允许自己说五分钟。Nolan 本来会说多出来的那八十七秒无关紧要，可 Ren 偏偏认出那正是自己正在失手的证据——尤其在她连下毒 Julia 都幻想过之后。就算杀掉她或许能护住 Ren 的家人，她也仍然没法给自己一个说得过去的理由。还没有。
 
 **关键词**：six minutes and twenty-seven seconds / inconsequential / she was slipping / fantasized about poisoning
 
-**为什么这样写**：全段不用一个情绪形容词，作者改用**计时**来写失控——把「多说了一分多钟」写成仪表上的偏差值。`inconsequential` 是 Nolan 的标准，Ren 却不接受这个标准，她把同一段超时重新判成罪证。破折号把「幻想过下毒」挤进因果链里，像是自己压不住漏出来的。最后一句用条件从句把天平推到极致再抽掉：先假设杀掉她能护住家人，再用否定把这个理由本身作废。
+**为什么这样写**：全段不用一个情绪形容词，作者改用**计时**来写失控——把「多说了一分多钟」写成仪表上的偏差值。`inconsequential` 是 Nolan 的标准，Ren 却不接受这个标准，她把同一段超时重新判成罪证。破折号把「幻想过下毒」挤进因果链里，像是自己压不住漏出来的。最后一句用条件从句把天平推到极致再抽掉：先假设杀掉她能护住家人，再用否定把这个理由本身作废。独立的两个字把否定再松开一道缝——理由还没成立，但人没有走。
 
 **读者视角提示**：这一段把「克制」写成了可计量的技术活。读者此刻只会记住 Ren 的自律，还看不出这份自律有多脆。
 
@@ -59,7 +59,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：`couldn’t not care` 用双重否定写出一种近乎本能的执念；`found a home` 把愤怒写成一件需要安放的东西，需要一个容器——作者在这里先给出容器这个概念。插入语 `an intoxicated, and unrepentant, driver` 用一对逗号把两个形容词夹在名词两边，凶手的恶行因此被拆成两笔账来记。
 
-**读者视角提示**：注意这是全章第一次直接写出「杀人的念头」归属于谁。
+**读者视角提示**：这一段把愤怒的来路摊开给读者看：它属于 Anthony，不属于 Ren。
 
 ---
 
@@ -69,7 +69,7 @@ modified: "2026-09-30"
 
 **关键词**：expecting to be sick / The nausea never came / he was heartened by / his whole body to tremble
 
-**为什么这样写**：作者用一组生理反应的**落空**来写恶的起点：他等着的是恶心，拿到的是欣快。`he’d prevented` 这个过去完成时把一次杀人算成了长期战绩的增量，而 `tremble` 收在身体上，把这份兴奋写成不受控的生理事件——第一个人死掉时，他的身体还在抖。
+**为什么这样写**：作者用一组生理反应的**落空**来写恶的起点：他等着的是恶心，拿到的是欣快。`he’d prevented` 这个过去完成时把一次杀人算成了长期战绩的增量，而 `tremble` 收在身体上，把这份兴奋写成不受控的生理事件——那个人死掉的时候，他的身体还在抖。
 
 **读者视角提示**：读者会在这里第一次明白：这些人不是没有感觉，他们的感觉只是走错了方向。
 
@@ -95,7 +95,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：作者用一个对照句把 Julia 从人群里摘出来：`Unlike the others` 一句就把「路人」与「Julia」分成两类。最后一句用省略结构做落差——前半句给出 Ren 预期的反应（意外），后半句用一个 `did` 把这个反应整个挪走，落到她没预料到的那件事上：不是钱，是交谈。
 
-**读者视角提示**：这是本章唯一一个 Ren 无法归类的行为。读者会和她一起卡在这里。
+**读者视角提示**：Ren 一路上都在按自己的那几条规则分类，这个动作她做不出来。读者会和她一起卡在这里。
 
 ---
 
@@ -105,7 +105,7 @@ modified: "2026-09-30"
 
 **关键词**：What makes you different
 
-**为什么这样写**：全章用一个问句结束，问句的主语是 Ren，被问的人却不在场。前面她拥有一整套可以把人分类的规则：合算的、有威胁的、该处理的；Julia 是第一个落不进任何一条的。短句不加工夫，像卡住的一拍。
+**为什么这样写**：全章用一个问句结束，这句话原文没有给它标注说话人；在 Ren 的限知里，它只能出自 Ren——而 Julia 此刻就站在人行道上，刚刚把一张折好的钞票递出去。前面她拥有一整套可以把人分类的规则：合算的、有威胁的、该处理的；Julia 落不进上面任何一条。短句不加工夫，像卡住的一拍。
 
 **读者视角提示**：读者在这一章结束时得到的不是结论，而是 Ren 自己都还没处理完的一个问题。
 

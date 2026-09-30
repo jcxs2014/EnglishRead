@@ -69,7 +69,7 @@ modified: "2026-09-30"
 
 **关键词**：some zealots who follow this type of violence / who’s outraged. Horrified. / they get off on it
 
-**为什么这样写**：Mike 用 `Outraged.` 和 `Horrified.` 两个单词成句切开人群，切口小到只有两个词；`get off on it` 把「乐」写成一个俚语动词，直接把对面那类人从愤怒的人群里挖出来。中间那句写她脸颊发热，就插在两句台词之间：被澄清的不是事实，是她。
+**为什么这样写**：Mike 用 `Outraged.` 和 `Horrified.` 这种单词成句切开人群，每个词各自独立；`get off on it` 把「乐」写成一个俚语动词，直接把对面那类人从愤怒的人群里挖出来。中间那句写她脸颊发热，就插在两句台词之间：被澄清的不是事实，是她。
 
 **读者视角提示**：读者要注意她脸红的时机：她要的不是「事情很大」的提醒，是「你没有变成那种人」的确认。
 

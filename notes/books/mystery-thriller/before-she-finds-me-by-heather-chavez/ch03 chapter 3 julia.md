@@ -21,7 +21,7 @@ modified: "2026-09-30"
 
 **关键词**：mingled with the tang of sweat and death / No pulse / She was as still as stone
 
-**为什么这样写**：开篇第一句就并置两种气味：`The salty breeze` 属于海边的日常，`the tang of sweat and death` 属于刚刚结束的灾难，两者由 `mingled with` 焊在一起。之后作者不写她的情绪，只写动作——摸颈侧、探鼻息、看胸口，动作越来越短：`No pulse.` / `Watched Brie’s chest for movement.` / `She was as still as stone.` 一句比一句短，像程序跑到最后一行输出结果。
+**为什么这样写**：开篇第一句就并置两种气味：`The salty breeze` 属于海边的日常，`the tang of sweat and death` 属于刚刚结束的灾难，两者由 `mingled with` 焊在一起。之后作者不写她的情绪，只写动作——摸颈侧、探鼻息、看胸口，一个动作配一句；`No pulse.` 这样直接断掉的短句之后，她并没有停，而是继续检查下去，直到 `She was as still as stone.` 才把结论落下来，像程序跑到最后一行才输出结果。
 
 **读者视角提示**：本章开头没有一句心情说明；读者只能跟着她的检查顺序往下读，等她把手指从 Brie 鼻下移开，人已经死了。
 
@@ -45,7 +45,7 @@ modified: "2026-09-30"
 
 **关键词**：studied guns the way she would any enemy / immediately recognized the high-pitched crack / A rifle
 
-**为什么这样写**：`the way she would any enemy` 把枪械直接接进她的人生经验系统，于是「听声辨枪」不再是知识炫耀，而是判断敌情时的副产品。三个短句一路降长：`So she had immediately recognized the high-pitched crack.` 之后只剩一个独立成句的名词 `A rifle.`——读者与 Julia 几乎同时得出结论，作者还特意让她比读者早半步。
+**为什么这样写**：`the way she would any enemy` 把枪械直接接进她的人生经验系统，于是「听声辨枪」不再是知识炫耀，而是判断敌情时的副产品。句子一路收短：`So she had immediately recognized the high-pitched crack.` 之后只剩一个独立成句的名词 `A rifle.`——读者与 Julia 几乎同时得出结论，作者还特意让她比读者早半步。
 
 **读者视角提示**：这种句子在本章反复出现：听声、扫射界、算逃跑路线；读者若只把它们当人物设定读，会错过它们正在被写成异常。
 
@@ -53,11 +53,11 @@ modified: "2026-09-30"
 
 > **原句 4:** The girl wasn’t far from their cart. Less than fifteen feet. But in that courtyard, without cover, it felt more like miles. Seconds stretched, Julia’s exposed back on fire, but then she was there, next to Emily. The girl was half-conscious. Alive. The dark smear on her neck was blood, but not her own. Probably her father’s. Or Brie’s.
 
-**中文理解**：那女孩离他们的推车不远，不到十五英尺。但在那片没有遮蔽的空地上，感觉像隔了几英里。时间被拉长，Julia 裸露的后背像在烧火，但下一刻她已经跪在 Emily 身边。女孩半昏迷。还活着。她脖子上那道暗色污迹是血，但不是她自己的。可能是她父亲的。也可能是 Brie 的。
+**中文理解**：那女孩离他们的推车不远，不到十五英尺。但在那片没有遮蔽的空地上，感觉像隔了几英里。时间被拉长，Julia 裸露的后背像在烧火，但下一刻她已经到了 Emily 身边。女孩半昏迷。还活着。她脖子上那道暗色污迹是血，但不是她自己的。可能是她父亲的。也可能是 Brie 的。
 
 **关键词**：Less than fifteen feet / without cover, it felt more like miles / but not her own
 
-**为什么这样写**：同一段里把距离量了两次：先给客观值 `Less than fifteen feet.`，再用主观感受覆盖它 `without cover, it felt more like miles.`。`Julia’s exposed back on fire` 把「暴露在枪口方向」写成体感；到 `The dark smear on her neck was blood, but not her own.` 又用 `not her own` 把安心拆成猜疑，`Probably her father’s.` 之后紧跟的下一段只有 `Or Cora’s.` 三个词，把名单补到读者最不愿想的那一项。
+**为什么这样写**：同一段里把距离量了两次：先给客观值 `Less than fifteen feet.`，再用主观感受覆盖它 `without cover, it felt more like miles.`。`Julia’s exposed back on fire` 把「暴露在枪口方向」写成体感；到 `The dark smear on her neck was blood, but not her own.` 又用 `not her own` 把安心拆成猜疑，`Probably her father’s.` 紧跟的下一段只剩一句 `Or Cora’s.`，把名单补到读者最不愿想的那一项。
 
 **读者视角提示**：她救的是别人家的孩子，而这一段的时间感全靠自己撑；读者会同时感到她的果断，和把女儿留在原地的风险。
 
@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 **关键词**：Something twisted in Julia / releasing an echo from twenty-three years before / Did you see the shooter
 
-**为什么这样写**：`Something twisted in Julia` 写的是一个没有形状的生理反应，`releasing an echo` 把声音写成从过去弹回来的回响，`from twenty-three years before` 直接给出时间刻度。这句问话在正文里不用引号，格式上就像一句没有出处的旁白——它从记忆里冒出来，却没人作答。创伤的触发机制被写得极其朴素：警察的一句公事问话，勾出了二十三年前被问过的同一句话。
+**为什么这样写**：`Something twisted in Julia` 写的是一个没有形状的生理反应，`releasing an echo` 把声音写成从过去弹回来的回响，`from twenty-three years before` 直接给出时间刻度。这句问话在正文里不用引号，格式上就像一句没有出处的旁白——它从记忆里冒出来，却没人作答。创伤的触发机制被写得极其朴素：警察的一句公事问话，勾出了二十三年前浮上来的一句旧问话。
 
 **读者视角提示**：读到这里，读者才第一次拿到「二十三年」这个数字；在此之前，Julia 的警觉一直被写成天赋，现在才显出年表。
 
@@ -93,7 +93,7 @@ modified: "2026-09-30"
 
 **关键词**：Casualties uncertain / Suspect still out there / there were too many
 
-**为什么这样写**：开头 `Assessing the situation. Casualties uncertain. Suspect still out there.` 是三个无主语短句，把警方的套话还原成悬而未决的三件事。随后 `The same morbid fascination` 把「认出枪声」与「记住名单」绑成同一件病——让她活下来的本事，同时也是她拔不出来的东西。中间五个州名一个一个单独成句，像点名；最后 `there were too many` 不给数量，只给结论：不是记忆不好，是名单装不下了。
+**为什么这样写**：开头 `Assessing the situation. Casualties uncertain. Suspect still out there.` 是三个无主语短句，把警方的套话还原成悬而未决的三件事。随后 `The same morbid fascination` 把「认出枪声」与「记住名单」绑成同一件病——让她活下来的本事，同时也是她拔不出来的东西。中间的州名一个一个单独成句（阿肯色、印第安纳、路易斯安那、密西西比、得克萨斯），像点名；最后 `there were too many` 不给数量，只给结论：不是记忆不好，是名单装不下了。
 
 **读者视角提示**：救人的人和数名字的人是同一个人；读者读完这一段会明白，她的专业能力与她的创伤共用同一副神经。
 

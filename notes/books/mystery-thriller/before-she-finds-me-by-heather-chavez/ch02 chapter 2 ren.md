@@ -21,7 +21,7 @@ modified: "2026-09-30"
 
 **关键词**：the spot where her waist had been / mounting an aggressive campaign / Time to rethink her wardrobe
 
-**为什么这样写**：第一句就把腰「撤销」——`the spot where her waist had been` 用完成时宣布原来的腰已经不在；紧接着 `a tiny stranger mounting an aggressive campaign to expand its territory` 把胎儿写成发动战役的势力，句子一开篇就把杀手与准母亲压进同一具身体。收尾的 `Time to rethink her wardrobe, starting with her holster.` 把「重买衣服」这种琐事与枪械配置并成一条待办——在她的清单里，这两件事本来就挨着放。
+**为什么这样写**：开头第二句就把腰「撤销」——`the spot where her waist had been` 用完成时宣布原来的腰已经不在；紧接着 `a tiny stranger mounting an aggressive campaign to expand its territory` 把胎儿写成发动战役的势力，句子一开篇就把杀手与准母亲压进同一具身体。收尾的 `Time to rethink her wardrobe, starting with her holster.` 把「重买衣服」这种琐事与枪械配置并成一条待办——在她的清单里，这两件事本来就挨着放。
 
 **读者视角提示**：读者此刻只会把它读成一个孕妇在挑装备；等到下一章开始死人，才会回头发现这具身体同时属于两个职业。
 

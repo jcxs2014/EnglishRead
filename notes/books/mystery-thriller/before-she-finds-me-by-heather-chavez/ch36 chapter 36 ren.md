@@ -21,7 +21,7 @@ modified: "2026-09-30"
 
 **关键词**：at the stove sautéing / Good food for growing a baby / but Ren craved a burger / takeout as Julia suggested
 
-**为什么这样写**：作者一上来就用灶台上的三样食材把「家」写实，同时立刻用一个 `but` 把这份体贴顶回去——她不想要这个。作者还特意把 Ren 归到 Julia 那句建议（叫外卖）上，一句话就把两个女人在同一天里的处境摆到一张桌子上对照：一个在喂儿子，一个在赶去救女儿。
+**为什么这样写**：作者一上来就用灶台上的三样食材把「家」写实，同时立刻用一个 `but` 把这份体贴顶回去——她不想要这个。作者还特意把 Ren 归到 Julia 那句建议（叫外卖）上，一句话就把两个女人的分量摆到同一张桌子上对照：一个给出的建议被顺手带过，一个连建议都没法给。
 
 **读者视角提示**：这一段全是家常口吻，读者很容易跟着放松警惕。
 
@@ -63,9 +63,9 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 5:** But what Baird found…I didn’t exaggerate what Usoro did.” He tossed the aluminum disk toward the recycling bin but missed. “Baird’s investigator found cable ties and soiled sheets in Usoro’s stepson’s bedroom. The boy had taken to getting up in the middle of the night and sneaking into the kitchen for snacks, so Usoro started tying him to his bed frame.”
+> **原句 5:** “So Baird did his own digging into Usoro, intending to ruin him. But what Baird found…I didn’t exaggerate what Usoro did.” He tossed the aluminum disk toward the recycling bin but missed. “Baird’s investigator found cable ties and soiled sheets in Usoro’s stepson’s bedroom. The boy had taken to getting up in the middle of the night and sneaking into the kitchen for snacks, so Usoro started tying him to his bed frame.”
 
-**中文理解**：「但 Baird 查到的东西……我说 Usoro 干的事并没有夸大。」他朝回收箱扔那个铝罐，没扔中。「Baird 的调查员在 Usoro 继子的卧室里找到了扎带和弄脏的床单。那男孩养成了半夜起来、溜进厨房找零食的习惯，于是 Usoro 开始把他绑在床架上。」
+**中文理解**：「所以 Baird 也自己去挖了 Usoro，本来是想毁掉他。可 Baird 查到的东西……我说 Usoro 干的事并没有夸大。」他朝回收箱扔那个铝罐，没扔中。「Baird 的调查员在 Usoro 继子的卧室里找到了扎带和弄脏的床单。那男孩养成了半夜起来、溜进厨房找零食的习惯，于是 Usoro 开始把他绑在床架上。」
 
 **关键词**：I didn’t exaggerate what Usoro did / cable ties and soiled sheets / sneaking into the kitchen for snacks / tying him to his bed frame
 
@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 **关键词**：There are some other things you should know / He fits your criteria / She made note of his wording / Your criteria. Not our criteria.
 
-**为什么这样写**：作者让一句本该是「我们」的判断，被 Nolan 说成「你的」。Ren 没有反驳，只是把这个用词记了下来。短句 `Your criteria` 与 `Not our criteria` 各自成段，把责任从「我们」悄悄退回「你」；而 Nolan 随后抛出的每一条理由都是替「你的标准」找补，而不是替他们两人的共同决定找补。
+**为什么这样写**：作者让一句本该是「我们」的判断，被 Nolan 说成「你的」。Ren 没有反驳，只是把这个用词记了下来。短句 `Your criteria` 与 `Not our criteria` 各自独立成句，把责任从「我们」悄悄退回「你」；而 Nolan 随后抛出的每一条理由都是替「你的标准」找补，而不是替他们两人的共同决定找补。
 
 **读者视角提示**：读者会开始替 Ren 数她让了几步。
 

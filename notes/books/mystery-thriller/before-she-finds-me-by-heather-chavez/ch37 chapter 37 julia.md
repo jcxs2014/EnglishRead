@@ -10,7 +10,7 @@ modified: "2026-09-30"
 - **一句话概括**：Julia 赶往 Oceanside 的路上，用大段回忆重述 Cordelia 当年教给她的活命法则；抵达剧院确认女儿还在室内，最后把 Cora 交给 Mike，自己转身回家。
 - **情感弧线位置**：焦灼赶路 → 记忆下沉（创伤史）→ 暂时松一口气 → 带着未解的问题离开
 - **Tropes 兑现/反转**：创伤闪回插在实时危机最紧处 · 「靠听觉活命」的技能被追溯到具体的恩人
-- **人物弧线**：Julia 第一次把「我该早点看出来」的悔恨落到两个具体的人身上，也第一次承认有人可以替她守孩子
+- **人物弧线**：Julia 把「我该早点看出来」的悔恨落到父母和 Cordelia 两处具体的往事上，也承认有人可以替她守孩子
 - **叙事手法**：第三人称限知（Julia 视角）；开头用车内钟表做时间畸变，中段整段切入少女时代的寄居地回忆，结尾缩回一个短句
 
 ## 精读
@@ -57,7 +57,7 @@ modified: "2026-09-30"
 
 **关键词**：From Cordelia, Julia came to understand that listening was what saved you / that shuffle of feet on concrete / that hitch in an addict’s voice / a pistol being cocked
 
-**为什么这样写**：第一句是完整的主谓句，后面三句都被抽掉了主语，只留下分词开头：整段因此变成一份听觉清单——而 Julia 此刻正在做的事，正是这份清单里的第一项。ch01 里她已经说过 `She knew from experience that listening was what saved you.`（她凭经验知道，是倾听救了你），而那一句的经验来源，正是这里。
+**为什么这样写**：第一句是完整的主谓句，后面每一句都被抽掉了主语，只留下分词或介词开头：整段因此变成一份听觉清单——而 Julia 此刻正在做的事，正是这份清单里的第一项。ch01 里她已经说过 `She knew from experience that listening was what saved you.`（她凭经验知道，是倾听救了你），而那一句的经验来源，正是这里。
 
 **读者视角提示**：读者会明白这段回忆不是技能说明，是她欠下的一笔账。
 
@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 **关键词**：what might’ve happened if that initial kindness had been offered by someone other than Cordelia / attached to expectations / some other trade she was ill prepared to make / The kind of trade forced on Cordelia early on
 
-**为什么这样写**：作者把这段回忆写成一次事后推演，用两个以 `if` 开头的从句把「善意」拆成两种：一种不带条件的，和一种带条件的。`The kind of trade forced on Cordelia early on` 里的定冠词把 Cordelia 摆成了这类交易的范例，于是 Julia 的感激里第一次混进了一层亏欠。
+**为什么这样写**：作者把这段回忆写成一次事后推演，用两个以 `if` 开头的从句把「善意」拆成两种：一种不带条件的，和一种带条件的。`The kind of trade forced on Cordelia early on` 里的定冠词把 Cordelia 摆成了这类交易的范例，于是 Julia 的感激里混进了一层亏欠。
 
 **读者视角提示**：读者会明白 Cordelia 给她的不只是活下去的方法，还有一条她自己没能替对方挡住的界线。
 

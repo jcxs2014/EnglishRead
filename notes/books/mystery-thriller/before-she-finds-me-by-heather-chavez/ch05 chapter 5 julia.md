@@ -69,7 +69,7 @@ modified: "2026-09-30"
 
 **关键词**：a pitcher plant had started to brown / Too wet. Overwatered. / It wasn’t healthy for Eric to be alone with his dead plant
 
-**为什么这样写**：作者先用 `Too wet.` 与 `Overwatered.` 两个断句写出 Julia 的诊断口吻，和她后面判断伤情用的是同一种语法。她的补救方案不是安慰而是替换——`she could clone one of hers and replace it`，克隆、换新，是她唯一熟练的动作。最后 `It wasn’t healthy for Eric to be alone with his dead plant.` 把这则种植诊断直接套到人身上：死掉的植物成了 Eric 此刻的状态。
+**为什么这样写**：作者先用 `Too wet.` 与 `Overwatered.` 两个断句写出 Julia 的诊断口吻，和她判断伤情时用的是同一种语法。她的补救方案不是安慰而是替换——`she could clone one of hers and replace it`，克隆、换新，是她唯一熟练的动作。最后 `It wasn’t healthy for Eric to be alone with his dead plant.` 把这则种植诊断直接套到人身上：死掉的植物成了 Eric 此刻的状态。
 
 **读者视角提示**：这一段里两人单独说话，全程靠一盆植物推进；读者在这句双关里读出 Julia 处理悲伤的方式——先诊断，再替换。
 
