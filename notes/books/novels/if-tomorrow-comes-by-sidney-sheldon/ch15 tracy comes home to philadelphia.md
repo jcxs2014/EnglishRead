@@ -68,7 +68,7 @@ modified: "2026-09-30"
 
 - **中文理解**：Tracy 走后，Conrad Morgan 坐在办公室的黑暗里想着她。一个美丽的女人。确实非常美丽。真可惜。他或许本该提醒她：他对那套具体的防盗报警系统其实并不熟。
 - **关键词**：sat in the dark · Very beautiful, indeed · It was a shame · not really that familiar with that particular burglar-alarm system
-- **为什么这样写**：作者在最后一句把同情心收了回去：it was a shame 听起来像惋惜，紧跟的却是一个技术漏洞的自白。particularly burglar-alarm system 的重音落在 particular 上——不是任何一套系统，是这一套。整章的道德滑坡就靠这一句完成，而且是在她已经点头之后。
+- **为什么这样写**：作者在最后一句把同情心收了回去：it was a shame 听起来像惋惜，紧跟的却是一个技术漏洞的自白。that particular burglar-alarm system 的重音落在 particular 上——不是任何一套系统，是这一套。整章的道德滑坡就靠这一句完成，而且是在她已经点头之后。
 - **读者视角提示**：本章从头到尾没有写她真的去偷；最后这句把「她答应了」和「她会不会去做」留成了两个不同的可能。
 
 ## 本章词汇
