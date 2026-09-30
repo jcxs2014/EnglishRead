@@ -78,7 +78,7 @@ modified: "2026-09-30"
 
 **句子结构**：主句为被动语态 Israel’s military elite had been hoist（过去完成时的被动）；by 引出施动者，但不是人，而是抽象名词短语 their own illusions and rigidities；两个名词以 and 并列，前者复数，后者复数。
 
-**关键词**：Israel’s military elite / had been hoist / on their own illusions / and rigidities
+**关键词**：Israel’s military elite / had been hoist / on its own illusions / and rigidities
 
 **表达方式**：罕见的用词选择。hoist 在现代英语中通常指"吊起、升起"（用绳索或滑轮），是被动的机械动作，与"抬举"这一常见含义不同。这一选词把抬升的被动性与机械性同时写入句中。
 
@@ -204,7 +204,7 @@ modified: "2026-09-30"
 
 **句子结构**：本块为引号内名词短语（a body of…），a body 反复四次，每次后接不同的 of 介词短语；untainted 与 immune 并列收尾；even ones which seem impossible 为插入的让步状语从句。
 
-**关键词**：a “body of perfection and efficiency” / a body capable of any task / immune to societal shortcomings / and untainted by politics
+**关键词**：a “body of perfection and efficiency / a body capable of any task / immune to societal shortcomings / and untainted by politics
 
 **表达方式**：排比式的定语堆叠。四次 a body 构成平行结构，四个 of/immune/untainted 短语各自增加一层属性；四项属性从能力（capable of any task）到免疫（immune、untainted）逐步脱离具体事物，滑向对自身的绝对保证。
 

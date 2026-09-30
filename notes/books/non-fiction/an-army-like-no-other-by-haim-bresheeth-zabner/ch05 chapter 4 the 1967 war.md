@@ -103,7 +103,7 @@ modified: "2026-09-30"
 
 **句子结构**：本块为结果状语从句，主句为 The command structure of the IDF promised Eshkol that…；promised 之后接 that 从句，从句内的内容为 a few hours, after which Israel would rule the sky, so…。so 在从句中表结果，把前面"空军袭击只需几小时"与后面"战争是安全的风险"连成因果链。
 
-**关键词**：a few hours / so the war was a “safe risk.”
+**关键词**：so the war was a “safe risk.”
 
 **表达方式**：矛盾修饰（oxymoron）——"风险"被直接加上"安全"的限定词。引号标明这不是作者的话，而是国防军指挥层的说法。so 一个词把军事判断（速胜）与政治判断（可接受）合并。
 
@@ -117,7 +117,7 @@ modified: "2026-09-30"
 
 **句子结构**：本块为表语从句，主句为 While the war lasted six days, its outcome was decided in the first three hours；while 引导让步状语从句（六天的战争），主句给出反转（三小时定局）；decided 为被动式，逻辑主语为 outcome。
 
-**关键词**：the war lasted six days / its outcome was decided / in the first three hours
+**关键词**：its outcome was decided / in the first three hours
 
 **表达方式**：让步—反转的极简对照。六天（读者预期的时间尺度）与三小时（实际的时间尺度）以同一种计量单位并置，差值是两个数量级。decided 用被动式，无施动者——这正是军事分析中的常规写法，也恰好隐藏了"谁打"这一问题。
 
