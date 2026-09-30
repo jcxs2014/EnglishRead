@@ -107,6 +107,46 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| noncorporate | 非公司场合的 | She knew he’d enjoyed seeing his first school assembly, being one of the school dads, wearing his corporate uniform in a noncorporate world. |
+| embarrassed | （让他）难堪 | She’d meant it to sound like a joke, but she knew it hadn’t come across that way, and that would have embarrassed him in front of Madeline and Ed, who he liked and admired. |
+| self-indulgent | 自我放纵的 | What a crazy, secretive, malicious and self-indulgent thing to do. |
+| astonishingly | （抓得）惊人地狠 | “Perry,” she said quickly, as she turned around and he closed the door, but then he grabbed her by the hair, twisting it behind her and pulling so hard, so astonishingly hard, that pain radiated through her scalp and her eyes filled with instant, involuntary tears. |
+| involuntary | （生理性）涌出的泪 | “Perry,” she said quickly, as she turned around and he closed the door, but then he grabbed her by the hair, twisting it behind her and pulling so hard, so astonishingly hard, that pain radiated through her scalp and her eyes filled with instant, involuntary tears. |
+| interlaced | （十指）交扣 | She heard his footsteps walking away, down the hallway, and she curled up on the floor, her knees near her chest, her hands interlaced over the back of her cruelly throbbing head. |
+| despairing | 绝望的（呜咽） | A grotesque, despairing sound, like an animal caught in a trap. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| relished | （津津有味地）扮演 | He liked the daddy role, relished it even, talking with Ed in that gently ironic, this-is-all-a-bit-of-a-laugh dad-type way. |
+| careering | （孩子们）横冲直撞 | They’d all laughed at the boys careering about the stage, wearing the big green crocodile suit. |
+| crocodile | 鳄鱼（服） | They’d all laughed at the boys careering about the stage, wearing the big green crocodile suit. |
+| furnished | （公寓已）配好家具 | It was almost completely furnished now, and as a result, the possibility of leaving was always present, the question being constantly asked: Will I or won’t I? |
+| appalled | （像想起罪案般）惊骇 | But then in the middle of the night last night, she’d woken in her own bed, Perry’s arm heavy across her waist, the ceiling fan turning lazily the way Perry liked it, and she’d thought suddenly of those made-up beds and she’d been as appalled as if she’d remembered a crime. |
+| secretive | 偷偷摸摸的 | What a crazy, secretive, malicious and self-indulgent thing to do. |
+| misheard | （可能）听错了 | What if Jane had misheard the name? |
+| twisting | （把头发）拧到身后 | “Perry,” she said quickly, as she turned around and he closed the door, but then he grabbed her by the hair, twisting it behind her and pulling so hard, so astonishingly hard, that pain radiated through her scalp and her eyes filled with instant, involuntary tears. |
+| radiated | （痛感）放射 | “Perry,” she said quickly, as she turned around and he closed the door, but then he grabbed her by the hair, twisting it behind her and pulling so hard, so astonishingly hard, that pain radiated through her scalp and her eyes filled with instant, involuntary tears. |
+| throbbing | （一跳一跳）剧痛 | She heard his footsteps walking away, down the hallway, and she curled up on the floor, her knees near her chest, her hands interlaced over the back of her cruelly throbbing head. |
+| purplish | 青紫的（月牙） | It was dead white, with purplish crescents under his eyes. |
+| crescents | 月牙（形眼圈） | It was dead white, with purplish crescents under his eyes. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| family debt | （家族）债 | A family debt because of what his cousin had done. |
+| grotesque | 怪诞的 | A grotesque, despairing sound, like an animal caught in a trap. |
+| ice pack | 冰袋 | He crouched down next to her, pulled her up into a sitting position and gently laid an ice pack wrapped in a tea towel on the back of her head. |
+| lightning-quick flash | （怒火）闪电般一闪 | But she’d seen the lightning-quick flash of rage when she’d made her comment about leaving him if he signed the petition to have Ziggy suspended. |
+| soaring cathedral | （穹顶）高耸如大教堂 | She let herself fall forward against his shoulder, and they rocked together on their glossy black walnut floor beneath their soaring cathedral ceiling. |
+| witch hunt | （对五岁孩子的）猎巫 | Jane was Celeste’s friend, and even if she weren’t, no five-year-old deserved to have a community begin a witch hunt against him. |
+
 ## 一句话总结
 
 鳄鱼服的合影还在网上笑着，门厅里她的头已经撞上了墙——「不够好」三个字封死了道歉的所有版本；冰袋、青紫月牙与困兽的呜咽在大教堂穹顶下完成和好仪式，而铺好的备用床铺在她心里发出罪案现场的气味：这个家的神圣秩序里，她是唯一的信徒，也是唯一的祭品。
