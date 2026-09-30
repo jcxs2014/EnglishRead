@@ -56,6 +56,8 @@ modified: "2026-09-30"
 **关键词**：Jo and her superstitions aside / But it doesn’t matter. What matters is / you were deceptive, Theo
 **为什么这样写**：作者先让她把两件事一起搁下（Jo 的忌讳、婚事本身），中间那句 But it doesn’t matter 把它们一笔勾销，再用一个 What matters 把话头硬转回来。于是这一次转向不必靠新的一句开场白，只靠一个转折词完成——她要说的话其实从开场就在说。句中 Like…like 那处省略号是她在给「为了什么」找台阶，找得很难看；末句把 Lando 摆出来当目录，等于给欺骗下了一个定义。
 
+**读者视角提示**：她把三件事按重要性重排一遍——婚事、税务、独居——再一句话全部划掉，只留最后那句。于是本章的怒火第一次不是冲着「他去结了婚」，而是冲着他对谁都是同一套瞒法；也正是这句把他推到下一段不得不开口的位置。
+
 > **原句 8:** Sir Theo the Deceiver. Not the honorable man she thought he was after all.
 **中文理解**：说谎的 Theo 爵士。不是她一直以为的那个正直的人。
 **关键词**：Sir Theo the Deceiver / Not the honorable man she thought he was after all

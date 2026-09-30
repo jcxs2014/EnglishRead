@@ -18,7 +18,7 @@ modified: "2026-09-30"
 > **原句 1:** Besides Nina and the green cabinet, she was leaving only with what she moved in with.
 **中文理解**：除了 Nina 和那只绿柜子，她只带走自己搬进来时带的那些东西。
 **关键词**：Besides / only with what
-**为什么这样写**：Besides 领起的是留下的两件，only with 收束的是带走的全部——一句话把「搬走」定义成数量为零。她在上一章曾说过自己从不留下任何东西，这一句把那条原则反过来执行：全部留下，包括那只猫。
+**为什么这样写**：Besides 领起的是留下的两件，only with 收束的是带走的全部——一句话把「搬走」定义成数量为零。本章前段她自己刚说过她从不留下任何东西，这一句把那条原则反过来执行：全部留下，包括那只猫。
 **读者视角提示**：Nina 是那只俄罗斯蓝猫，ch04 里 Theo 半夜到楼下找的就是她。留猫而不留人，是她此刻唯一能做的表态。
 
 > **原句 2:** “Trav’lin’ Light,” like the Billie Holiday song.

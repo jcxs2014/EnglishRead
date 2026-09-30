@@ -61,7 +61,7 @@ modified: "2026-09-30"
 **中文理解**：「洞察力。」他咕哝着。「咨询师的诅咒。」
 **关键词**：名词化 / curse 的双关
 **为什么这样写**：Insight（洞察）在这里是词根 insight 的拆分——in（进）+ sight（看），与对猫的物理之「看」同源。The counselor’s curse 把职业和灾祸连在一起，curse 双关为「咒骂」与「诅咒」：他刚说完理解自己，就立刻诅咒这份理解。
-**读者视角提示**：作者在第一章用 The counselor’s curse 这个词造了双关，此处是它的正面出现——上一章的「集中营」是同一条线索的反面。
+**读者视角提示**：The counselor’s curse 这个双关在上一章以另一种说法出现过：那里他把剖析别人的念头称作一种诅咒，与此处的自嘲是同一条线索的两端。
 
 > **原句 9:** In the sunlight, her curls shone around her head like a halo.
 **中文理解**：在阳光里，她的卷发像光环一样在她头周闪耀。
@@ -126,13 +126,13 @@ modified: "2026-09-30"
 > **原句 19:** touched his lips to her soft, full mouth—and Amy bloomed into someone else. Someone open to other possibilities besides frister.
 **中文理解**：他的唇碰上她柔软丰润的嘴——而 Amy 一下子变成了另一个人。一个对 frister 之外的其他可能性敞开的人。
 **关键词**：and 连接的突变 / bloomed
-**为什么这样写**：作者用一个 and 加一个破折号，把「嘴唇相触」这一瞬间和「她变成了另一个人」并置。bloomed（绽放）是作者写过的最文学的一个动词：它既是「开花」也是「变化」，而 Possible possibilities 这一处把普通名词换成了形容词——她在第一章引的正是这层意思（爱情不该是唯一选项）。
+**为什么这样写**：作者用一个 and 加一个破折号，把「嘴唇相触」这一瞬间和「她变成了另一个人」并置。bloomed（绽放）是作者写过的最文学的一个动词：它既是「开花」也是「变化」，而 Possible possibilities 这一处（原文正是这两个词的并置）把普通名词换成了形容词——她在第一章引的正是这层意思（爱情不该是唯一选项）。
 **读者视角提示**：作者在这里第一次把上一章的回忆的「动机」补齐了：她当年不是在被亲，她是在被打开。
 
 > **原句 20:** “Dunno, Theodore. I sense amore in the air.”
 **中文理解**：「不知道啊，Theodore。我感觉到空气里有爱意。」
 **关键词**：amore / Dunno
-**为什么这样写**：amore 是意大利语「爱」，作者用它替掉英文的 love，仿的是他刚讲的「顾客的 Moneys」式方言。Dunno 是口语缩写（don't know），与 amore 同框出现，粗俗与文雅同框。in the air（空气里）是现成短语，作者不用它作遮掩，反而直接点破。
+**为什么这样写**：amore 是意大利语「爱」，作者用它替掉英文的 love，仿的是他店里那套把披萨说成意大利黑话的口吻。Dunno 是口语缩写（don't know），与 amore 同框出现，粗俗与文雅同框。in the air（空气里）是现成短语，作者不用它作遮掩，反而直接点破。
 **读者视角提示**：Theo 的回话是：I think the hairnet has squeezed your brain cells to death.（我看你是不是脑子被那发网给挤死了）——他拒绝接这个话头。
 
 > **原句 21:** “Dating a woman longer than a month is a Sinclair record.”

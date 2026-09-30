@@ -174,7 +174,6 @@ modified: "2026-09-30"
 | conscience | 良心，良知 | I’d be glad to was on the tip of Amy’s conscience, if not her tongue. |
 | late-September | 九月下旬的 | Amy drove home through the late-September dusk, seeing Eileen’s hunched, defeated shoulders on the road before her. |
 | advertisement | 广告，广告牌 | A walking advertisement for alpha-meets-beta male if Amy ever saw one. |
-| alpha-meets-beta | 强势男与随和男相遇（借希腊字母 Alpha 与 Beta 合成，指两种男性气质的混合） | A walking advertisement for alpha-meets-beta male if Amy ever saw one. |
 | dispossessed | 被夺走的，被排挤掉的 | Coltrane, dispossessed of his chair, glared hard enough at Brittany for them both. |
 | mortifyingly | 令人难堪地，令人羞愧地 | Her eyes teared, and her life flashed before her eyes—including, mortifyingly, Banana Brad—while Theo patted her back. |
 | reluctantly | 不情愿地，勉强地 | One good thing about living with Theo, however reluctantly—she didn’t have to explain every little thing. |

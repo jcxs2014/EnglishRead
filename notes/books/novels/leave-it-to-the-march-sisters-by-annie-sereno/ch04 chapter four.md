@@ -84,7 +84,7 @@ modified: "2026-09-30"
 > **原句 12:** The careful way Theo put the glass on the coffee table suggested his own personal thermostat had lowered from casual to caution.
 **中文理解**：Theo 放杯子的那种小心，说明他内心的恒温已经从随意调到了谨慎。
 **关键词**：personal thermostat / suggested
-**为什么这样写**：作者把一个看不见的「社交温度计」写成可调节的物理设备，再用 lowered from casual to caution（从随意调到谨慎）给它标上刻度。Suggested 而不是 proved（不是证明）保留了她的主观性——她读的是他的动作，说的却是他的心思。
+**为什么这样写**：作者把一个看不见的「社交温度计」写成可调节的物理设备，再用 lowered from casual to caution（从随意调到谨慎）给它标上刻度。用 suggested 而不是 proved（不是证明）保留了她的主观性——她读的是他的动作，说的却是他的心思。
 **读者视角提示**：这是全章唯一一次她敢直接解读他，而解读的结论是：他在小心。
 
 > **原句 13:** “How long’s it been since we last saw each other?” he asked. “In the flesh?”

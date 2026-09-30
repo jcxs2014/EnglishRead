@@ -36,7 +36,7 @@ modified: "2026-09-30"
 > **原句 4:** Derek Dickhead Demerest had deleted her from his contact list.
 **中文理解**：Derek Dickhead Demerest 已经把她从联系人里删掉了。
 **关键词**：had deleted her from his contact list / 全名三个词
-**为什么这样写**：这一句是全书回得最响的一处伏笔回收：第一章她骂他的那个绰号，原封不动地进了他的全名里，而这个名字全书只在这一次以全称出现。作者用 had deleted（早已删除）而不是 deleted——完成时的过去分词暗示这个动作发生在她打来之前，而她无从得知。contact list（联系人列表）是一个手机功能的专名，抽象的关系被换成了一个可以执行删除的操作。
+**为什么这样写**：这一句是全书回得最响的一处伏笔回收：第四章那场把他的名字与绰号并排念出的戏，原封不动地进了这个全名里，而这个名字全书只在这一次以全称出现。作者用 had deleted（早已删除）而不是 deleted——完成时的过去分词暗示这个动作发生在她打来之前，而她无从得知。contact list（联系人列表）是一个手机功能的专名，抽象的关系被换成了一个可以执行删除的操作。
 **读者视角提示**：他接电话时先问 Who’s this?，隔了很久才 Uh-huh. Right. Amy 补上姓——两个人之间的距离在这一通电话里以最长的一段沉默完成。
 
 > **原句 5:** There was a pause long enough for her to say Marsden. But she didn’t.
@@ -90,7 +90,7 @@ modified: "2026-09-30"
 > **原句 13:** “She’s so positive that it’s impossible for me to…” His words trailed off again.
 **中文理解**：「她那么肯定，让我根本不可能……」他的话又一次说到一半停了。
 **关键词**：so positive that / His words trailed off again
-**为什么这样写**：so…that…（如此……以至于……）后面本该接结果，但句子在 me to 之后断掉，而断掉的正是那个动词：作者不让我们听见他要做什么。His words trailed off again 里的 again 说明这不是第一次——他一直在说一半就停，而 Amy 上一章说过的 And found the spare hours. And— 正是同一手法的 hers 版。again 把两个人的句子并成一个共同的动作：说不下去。
+**为什么这样写**：so…that…（如此……以至于……）后面本该接结果，但句子在 me to 之后断掉，而断掉的正是那个动词：作者不让我们听见他要做什么。His words trailed off again 里的 again 说明这不是第一次——他一直在说一半就停，而同一章里 Amy 那句 And found the spare hours. And— 正是同一手法的 hers 版。again 把两个人的句子并成一个共同的动作：说不下去。
 **读者视角提示**：她的追问是 Go on（说下去），而他的回应是 Never mind. I don’t know what I’m talking about. Forget it（别管了，我不知道我在说什么，忘了吧）。
 
 > **原句 14:** The truth hit her in the pit of her stomach. Deep down below the place where the old conviction that she and Theo belonged together had settled.

@@ -83,7 +83,7 @@ modified: "2026-09-30"
 
 > **原句 12:** “You tell me you don’t think you should get involved in our relationship. Meanwhile, you’re talking to my girl in secret, telling her we shouldn’t get married. You fucking asshole.”
 **中文理解**：「你跟我说你不该掺和我们的事。同时你却在背着我跟我的姑娘谈，说我们不该结婚。你这个混账王八蛋。」
-**关键词：** you don’t think you should get involved / Meanwhile / You fucking asshole
+**关键词**：you don’t think you should get involved / Meanwhile / You fucking asshole
 **为什么这样写**：句子用两个分句把同一个动作摊成两笔账：前一分句用 you tell me（你对我说）把它算成当面讲的，后一分句用 Meanwhile（与此同时）把它翻成背地里做的；两个分句一个否定词都没有，力气全在 Meanwhile 上。作者最后把最脏的骂单独扔成一个短句，前面那两句长陈述在此刻被这一句截断。
 **读者视角提示**：Lando 骂的不是他说错了什么，而是他说了不算——这正是本章开篇问他「有没有什么都告诉 Stella」的由来。
 

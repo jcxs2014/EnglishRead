@@ -78,7 +78,7 @@ modified: "2026-09-30"
 > **原句 11:** “And brace for impact,” Thorne said. “Quentin will be arriving with her in four days.”
 **中文理解**：「做好准备承受冲击吧，」Thorne 说。「Quentin 四天后跟她一起到。」
 **关键词**：brace for impact / arriving
-**为什么这样写**：Quentin 这个名字在 ch28 的短信里就被 Jo 用「哈姆雷特式的两难」提过一次，此刻才真正落地。作者让两位丈夫提前预告（Dana 的丈夫让 Thorne，Thorne 再让 Theo），用两级传递把张力攒到最后一章才放。
+**为什么这样写**：Quentin 这个名字在 ch28 的短信里就被 Jo 用「哈姆雷特式的两难」提过一次，此刻才真正落地。作者让预告分两级传递（先由 Thorne 向 Athena 报信，再由 Theo 接话），把张力攒到最后一章才放。
 **读者视角提示**：本书记得最清的一句 sister 之间的暗语（Leave it to Amy / Leave it to Jo）就发生在她们变成一家人的前一页。
 
 > **原句 12:** “Since I first met you and said to myself, There goes the mother of my children.”
