@@ -117,6 +117,45 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| surmountable | 看起来都能解决的 | Other people’s problems always seemed so surmountable, and other people’s children so much more biddable, thought Madeline as Ziggy trotted off. |
+| one-bedroom | 一居室的 | While Jane collected the family photos, Madeline looked around Jane’s small, neat apartment, reminded of the one-bedroom apartment she and Abigail used to share. |
+| romanticizing | 美化、浪漫化 | She was romanticizing those days, she knew it. |
+| loneliness | 孤独 | She wasn’t remembering the constant money worries or the loneliness of those nights when Abigail was asleep and there was nothing good on TV. |
+| marshmallows | 棉花糖 | She and Abigail normally watched America’s Next Top Model together, eating marshmallows and making catty remarks about the contestants, but now Abigail was happily living in a TV-free house. |
+| controversial | 有争议的 | They sensed when there was something controversial or sensitive and they pushed and pushed like tiny prosecutors. |
+| prosecutors | 检察官 | They sensed when there was something controversial or sensitive and they pushed and pushed like tiny prosecutors. |
+| Sweetheart | 宝贝 | “Sweetheart,” she said carefully, her eyes on Ziggy, “I’ve told you this story so many times. |
+| five-year-olds | 五岁的小孩们 | Overtired five-year-olds needed to be handled like explosive devices. |
+| ridiculous | 荒唐的 | Madeline was going to have a word with Miss Barnes tomorrow to ensure that she stopped assigning this ridiculous project. |
+| concentrate | 专心 | To her relief, Ziggy obeyed, writing his name with his tongue out the side of his mouth to help him concentrate. |
+| overwhelmed | 被冲垮的 | Ziggy nodded dumbly, seemingly overwhelmed by her torrent of chatter. |
+| Kindergarten | 幼儿园 | Kindergarten is stressful. |
+| white-bread | 白面包式的、单一乏味的 | We’re a bit too white-bread here on the peninsula. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| biddable | 听话好带的 | Other people’s problems always seemed so surmountable, and other people’s children so much more biddable, thought Madeline as Ziggy trotted off. |
+| explosive | 爆炸物（like explosive devices） | Overtired five-year-olds needed to be handled like explosive devices. |
+| aggravate | 点燃、激怒 | Nothing and nobody could aggravate you the way your child could aggravate you. |
+| assigning | 布置（作业） | Madeline was going to have a word with Miss Barnes tomorrow to ensure that she stopped assigning this ridiculous project. |
+| fractured | 破碎的（家庭） | Why try to slot fractured families into neat little boxes in this day and age? |
+| Palatable | 容易入口的、能接受的 | “Palatable,” offered Madeline. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| oddly formal | 出奇拘谨的 | It was an oddly formal turn of phrase. |
+| perfect unbroken | 完美无缺没断过的 | He pointed at the example of a family tree that Miss Barnes had included, demonstrating a perfect unbroken nuclear family, with mum, dad and two siblings. |
+| treat-giving parent | 给糖吃的家长 | Of course, now when Abigail came to “visit,” all she wanted to do was lie on the couch and gorge on television, and because Madeline was now the treat-giving parent, she let her. |
+| tricky matter | 麻烦事 | There had been the tricky matter of whether a line should be drawn from Abigail’s picture to Ed. |
+
 ## 一句话总结
 
 家庭树的空格逼出了全书的第一枚炸弹——Ziggy 检察官式的追问下，Jane 的官方口径裂开一道缝，缝里说出的名字叫 Saxon Banks；Madeline 用「Ziggy's dad」的巧计替孩子拆弹，用「白面包」的吐槽替朋友接住羞耻，而那卷黄色纸板上，从此多了一格永远空着的爸爸。
