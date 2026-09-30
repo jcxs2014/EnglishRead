@@ -117,6 +117,35 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| bloodsuckers | （小）吸血鬼 | “You just comb through the hair and pick the little bloodsuckers . |
+| hairdressing | 美发（行业） | Ponder’s daughter Lucy ran Hairway to Heaven, the very popular hairdressing salon in Pirriwee, in between the newsagent and the butcher. |
+| surreptitiously | （偷偷）四下张望 | As Lucy fastened a cape around Ziggy’s neck, Jane looked around surreptitiously for any parents she might know, but she didn’t recognize anyone. |
+| considered | （打量）端详 | Lucy considered Jane. |
+| hairdresser | 理发师 | “So does every hairdresser,” said Lucy. |
+| reflection | （镜子里的）映像 | She grinned at his reflection. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| drugstore | （药房买的）除虱剂 | Ponder had told Jane to go to the drugstore to pick up a lice treatment. |
+| newsagent | 报刊亭 | Ponder’s daughter Lucy ran Hairway to Heaven, the very popular hairdressing salon in Pirriwee, in between the newsagent and the butcher. |
+| fastened | （围上）围布 | As Lucy fastened a cape around Ziggy’s neck, Jane looked around surreptitiously for any parents she might know, but she didn’t recognize anyone. |
+| recognize | （认不出） | As Lucy fastened a cape around Ziggy’s neck, Jane looked around surreptitiously for any parents she might know, but she didn’t recognize anyone. |
+| tightened | （勒紧）马尾 | Jane tightened her ponytail. |
+| narrowed | （眯起的）眼 | She narrowed her eyes. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| butcher | 肉铺 | Ponder’s daughter Lucy ran Hairway to Heaven, the very popular hairdressing salon in Pirriwee, in between the newsagent and the butcher. |
+| ponytail | 马尾辫 | Jane tightened her ponytail. |
+
 ## 一句话总结
 
 玫瑰枝换成了理发推——Mrs. Ponder 的保密转介、Lucy 的杂技员口音与「剪了认不出你妈」的宣言，把一场虱子事故办成了重生仪式；《双面情人》的岔路预言挂在镜子上，而 Samantha 的案发夜证词已经到账：新短发、立领白衫——那晚开头，她看起来那么开心。
