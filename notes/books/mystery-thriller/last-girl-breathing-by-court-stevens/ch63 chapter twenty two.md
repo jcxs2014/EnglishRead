@@ -21,7 +21,7 @@ modified: "2026-10-01"
 - **中文理解**：「「你开始听起来……有点着魔了。Neil 已经认罪。事情结束了。」」
 - **关键词**：starting to sound · obsessed · Neil confessed to the crime
 - **为什么这样写**：全书唯一一次有人用 diagnosed 的口气评价她，而那个词（obsessed）后面跟着一个刻意的停顿——starting to sound 让他把判断说得像是不忍心。而后半两句用最短的陈述句完成反驳：认罪、结束。
-- **读者视角提示）：请把 obsessed 与后文那句「I might be obsessed. I might be damaged.」并读——她没有否认，她只是把这份「病」改判成了燃料。
+- **读者视角提示**：请把 obsessed 与本节末尾那句并读——她没有否认，她只是把这份「病」改判成了燃料。
 
 > **原句 2:** “It’s his alibi. Luce, Robert’s going to prison for the dam. That note is his attempt to make sure no one tacks on a murder charge while they’re at it.”
 
@@ -64,7 +64,7 @@ modified: "2026-10-01"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| obsessive | （着魔的） | “You’re starting to sound . . . obsessed. Neil confessed to the crime. |
+| obsessed | （着魔的） | “You’re starting to sound . . . obsessed. Neil confessed to the crime. |
 | patronizing | （居高临下的） | he’s shaking his head as he sighs, and I feel slightly patronized. |
 | alibi | 不在场证明 | “It’s his alibi. Luce, Robert’s going to prison for the dam. |
 | asinine | 愚蠢的 | “Why would Danny set up his own son? That’s asinine.” |
