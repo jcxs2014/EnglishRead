@@ -105,6 +105,13 @@ def strip_running_head(text: str) -> str:
               "august", "september", "october", "november", "december",
               "jan", "feb", "mar", "apr", "jun", "jul", "aug", "sep", "sept",
               "oct", "nov", "dec"}
+    # 逗号日期行的两个形态：`Saturday, March 26th`（带序数词）与 `Tuesday, March 2022`。
+    # 词数与标点都收紧到「不可能是散文」的程度：≤3 词、全行无其它句读标点。
+    WEEKDAY_COMMA_DATE = re.compile(
+        r"^(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday),\s+"
+        r"(?:January|February|March|April|May|June|July|August|September|October|November|December)"
+        r"\s+(?:\d{1,2}(?:st|nd|rd|th)?|\d{4})$")
+    RE_BARE_DATE = re.compile(r"^(?:\d{4}|\d{1,2}(?:st|nd|rd|th)\s+\w+\s+\d{4})$")
     rest = [(i, l) for i, l in nonempty if i >= cut]
     for _ in range(2):
         if len(rest) < 2:
@@ -129,6 +136,20 @@ def strip_running_head(text: str) -> str:
                                 r"Translated from)\b", cand)) \
             and not re.search(r"[.!?]", cand)
         if is_attr:
+            cut = j + 1
+            rest = [(i, l) for i, l in rest if i > j]
+            continue
+        # ⚠️ 日期行**允许一个逗号**（2026-09-30 Broken Light 批次实测）：
+        #    本书 2022 线的章节开头是 `Saturday, March 26th` / `Tuesday, March 29th`
+        #    ——`weekday, Month day` 形态**必带逗号**，而下面的 `[.?!:;,]` 守卫会把它
+        #    判否 ⇒ 剥不掉，`sentences()` 折行时又把它粘到正文首句前面，例句变成
+        #    `Saturday, March 26th Instincts gained in childhood…`（组 B / 组 C 各自绕过）。
+        #
+        #    ⚠️ **判据必须是显式日期式，不能只把逗号从守卫里拿掉**（第一版就是这么写的，
+        #    实测两处都错）：① 星期名不在 MONTHS 里 ⇒ 真日期仍剥不掉；
+        #    ② 逗号一放开，`Venice, Italy` 这类**地名**反而被 is_place 判真而剥掉，
+        #    全库 433 件受影响。逗号是「这是一句话」的信号，不能动。
+        if WEEKDAY_COMMA_DATE.match(cand) or RE_BARE_DATE.match(cand):
             cut = j + 1
             rest = [(i, l) for i, l in rest if i > j]
             continue
