@@ -93,6 +93,43 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| claustrophobic | 闷得让人窒息的 | The hall felt claustrophobic and overheated. |
+| overheated | （暖气）过热 | The hall felt claustrophobic and overheated. |
+| unacceptable | 不可接受的 | “So I said, that’s unacceptable . |
+| incompetent | 不称职的 | “Completely incompetent, they have a duty of care . |
+| fascinating | （眼里只有你）迷人的 | Perry was being charming, seducing everyone with his attentive “no one could be more fascinating than you” gaze, but he was drinking much more than he normally did, and she could see his mood changing direction, almost imperceptibly, like the slow turn of an ocean liner. |
+| imperceptibly | （几不可察地）转向 | Perry was being charming, seducing everyone with his attentive “no one could be more fascinating than you” gaze, but he was drinking much more than he normally did, and she could see his mood changing direction, almost imperceptibly, like the slow turn of an ocean liner. |
+| disrespectful | （对婚姻的）不敬 | It was disrespectful. |
+| humiliating | 羞辱性的 | It was humiliating. |
+| mystifying | （让人）看不懂的 | It would be as if it were only that, as if they were a perfectly happily married couple and the wife had done something mystifying and bizarre: She’d set up a secret, elaborate plan to leave him. |
+| exhilarated | （她）兴奋 | She seemed exhilarated. |
+| clip-clopped | （踩着高跟鞋）嗒嗒走开 | Harper glanced their way and quickly clip-clopped up the other end, out of earshot, where she lit up a cigarette. |
+| Strategies | （应对）策略 | Strategies, thought Celeste bleakly. |
+| ostentatiously | （刻意）视而不见地 | She watched Harper stub out her cigarette on the wet balcony railing and then carefully wrap it up in tissue, before hurrying off inside, ostentatiously not looking their way. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| viciously | （鞋跟）狠狠磨 | One of her shoes was viciously rubbing away the skin at the back of her heel, leaving a nasty, bloody little blister, like she imagined a bedsore to be. |
+| malicious | （恶意的）碎语 | She’d be here forever, assaulted by malicious snatches of conversation. |
+| snatches | （零碎的）对话片段 | She’d be here forever, assaulted by malicious snatches of conversation. |
+| seducing | （用专注）俘获 | Perry was being charming, seducing everyone with his attentive “no one could be more fascinating than you” gaze, but he was drinking much more than he normally did, and she could see his mood changing direction, almost imperceptibly, like the slow turn of an ocean liner. |
+| hardening | （下颌）绷紧 | She could see it in the hardening of his jaw and the glazing of his eyes. |
+| twisting | （思绪像树根）盘绕 | She knew exactly how his thoughts would be twisting and turning, like the roots of an ancient tree. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| deception | （她的）隐瞒 | By the end of the night, nothing else would matter except her deception. |
+| distraught | （崩溃痛哭的）男人 | By the time they left for home, the distraught, sobbing man in the car would have vanished. |
+| domestic violence | 家暴（受害者） | She sounds like Susi, as though Skye were a domestic violence victim. |
+
 ## 一句话总结
 
 阳台前厅的三段对话完成真相的交接仪式——「你们搞错孩子了」的公告野心想撕掉标签，「某种意义上是我的错」的认罪书触到 Susi 式话术的回声，「策略」与「灵性成长」把欺凌升维成课程；而警长那句「说真话是证人最重要的义务」像一枚图章，盖在了即将站上阳台的八个人的命运上。
