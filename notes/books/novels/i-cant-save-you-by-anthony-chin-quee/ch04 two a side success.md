@@ -216,6 +216,6 @@ modified: "2026-09-30"
 | kudos | 赞誉；赞扬 | there would be no pats on the back, no kudos. Just keep working. Nine more hours. |
 | work-around | 变通办法 | Find a work-around . |
 
-## 一句话总结**
+## 一句话总结
 
 七月放出来的不仅是一批实习生，还有一整套无法言说的恐惧：俗谚说「别在七月生病」，而穿着洁净短袍的他们正是那场病的制造者；叙述者在这章里学会的唯一本事不是治病而是「找变通」，他独立值了第一夜、修好了一条气管瘘管，却在主管一声叹息和「还有九个小时」里明白了这个行业的真相——**这里没有掌声，只有继续**。

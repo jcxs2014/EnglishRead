@@ -251,6 +251,6 @@ modified: "2026-09-30"
 | geriatric | 老年的；耄耋的 | At the geriatric age of twenty-seven, he was over the hill. |
 | unwritten | 未被书写的 | He had so much to teach me. And I was an unwritten open book. |
 
-## 一句话总结**
+## 一句话总结
 
 这是全书唯一一次真正的「飞翔」：他从昏迷的黑暗里回到加勒比海的码头，音乐接住了他；而黑暗之外，父亲 Anthony Lloyd Chin-Quee 一生的漂泊——被生来就黄的基因、从未认识的双亲和一次比一次冷的迁徙——被摊开成他血脉里的来处；最后，所有这些失去与继承，都收束进他立于码头之上对「你」的宣言：`My soul was born to fly`——原来他这一生要练习的，不是如何不坠落，而是如何在黑暗里重新认出自己那道注定要 shine 的光。

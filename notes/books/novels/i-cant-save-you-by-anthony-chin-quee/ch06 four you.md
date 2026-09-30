@@ -234,6 +234,6 @@ modified: "2026-09-30"
 | built-in exit | 内置的退路 | That I had a tendency to sabotage my relationships intricately and persistently so that I always had a built-in exit strategy. |
 | best efforts | 最大努力 | At some point you realized that I wasn’t leaving despite your best efforts to cut me with words and fingernails and glass. |
 
-## 一句话总结**
+## 一句话总结
 
 这是全书的心脏，也是他写下的最长一封永不寄出的信：他把与 Z 相识相爱的全过程、被她的自毁拖累、以及自己一次次「找变通」的中伤铺陈出来，最后用一句 `I don't know if I ever truly loved you` 推翻了刚刚说出口的 `I love you`——他不是在否认爱，而是在承认自己连同这颗心一起逃进了「水泥靴」里，而他能给她的最后诚实，只是那句迟到的 `I'm sorry`，和一个转身的 `And so I go`。

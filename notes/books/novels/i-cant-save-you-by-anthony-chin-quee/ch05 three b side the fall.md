@@ -218,6 +218,6 @@ modified: "2026-09-30"
 | smoothly paved road | 平整铺就的道路 | Even then I knew that my SPF 50–drenched friends would walk through life in this country on a smoothly paved road, while I’d walk beside them on a tightrope trying desperately not to fall with each step. |
 | SPF 50–drenched friends | 浑身涂满 SPF50 防晒霜的朋友 | Even then I knew that my SPF 50–drenched friends would walk through life in this country on a smoothly paved road, while I’d walk beside them on a tightrope trying desperately not to fall with each step. |
 
-## 一句话总结**
+## 一句话总结
 
 这是全书 B 面：同一条路，他已在上一章学会「找变通」，代价是把自己的同情心与判断力一并抵押出去——他替六年级水平的 Freddy 签自己的死亡同意书，他在坏死脓肿旁学会把脓叫做「pus」，他在底特律的雪夜里独自买醉并想通「美国爱我爱得不够深到能原谅我」；而当一切坠落来到尽头时，那个说「Go」的人只给了他一个单词，而他连一句哀求都没能说完——**书名的承诺在这里裂开：被送回沉默的人，究竟是谁**。
