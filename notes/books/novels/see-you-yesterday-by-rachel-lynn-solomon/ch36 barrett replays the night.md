@@ -97,4 +97,4 @@ modified: "2026-09-30"
 | potential | 潜在的、可能的（poten- 力量 + -ial） | I had all these jokes prepared for a potential Thursday. |
 ## 一句话总结
 
-这是全书最短的一章，却是循环里最奢侈的一章——她的脑子只会重播昨夜（"the only thing it seems capable of doing"），而这一次，是她主动把"重播"改写成"排练"：既然出去的那天可能不会来，那就先把那个想象的一天过完。
+这是全书最短的章节之一，却是循环里最奢侈的一章——她的脑子只会重播昨夜（"the only thing it seems capable of doing"），而这一次，是她主动把"重播"改写成"排练"：既然出去的那天可能不会来，那就先把那个想象的一天过完。

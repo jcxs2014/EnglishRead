@@ -69,7 +69,7 @@ modified: "2026-09-30"
 
 **关键词**： took an unexpected turn（拐了个意外的弯）/ feels almost… intimate（几乎算得上亲密）
 
-**为什么这样写**： 作者把"他拿着我的杂志、我讲梦想"这个画面拉远观察，feels almost intimate 的省略号让判断悬在半空；而 intimate 一词她最终选的不是 personal 而是它更软的那个近义词——她连命名都要退一步。
+**为什么这样写**： 作者把"他拿着我的杂志、我讲梦想"这个画面拉远观察，feels almost intimate 的省略号让判断悬在半空；而原文紧接着让她否定了 personal 另换一个词（"Personal—that's a better word for it."）——她连命名都要退一步。
 
 **读者视角提示**： 亲密感被推迟了整整一章——她能识别它，却不敢落定它。
 

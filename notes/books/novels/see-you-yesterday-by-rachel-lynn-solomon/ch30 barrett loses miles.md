@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **关键词**： parallel（平行的）/ can’t possibly fathom（根本无法想象）/ Barrett Bloom kissed Miles Kasher-Okamoto
 
-**为什么这样写**： that much I'm certain of 与 the way I'm certain that 用同一个句式把"确定"和"确信"嵌套，于是客观事实与主观确信在句法上对齐；最后把叙述者的全名与他哥哥姓氏并置，正式得像一份证词，而 puny human mind 又立刻自嘲，把证词的可信度亲手降级。
+**为什么这样写**： that much I'm certain of 与 the way I'm certain that 用同一个句式把"确定"和"确信"嵌套，于是客观事实与主观确信在句法上对齐；最后把叙述者的全名与他的全名并置——两个完整姓名并排，正式得像一份证词，而 puny human mind 又立刻自嘲，把证词的可信度亲手降级。
 
 **读者视角提示**： 她敢肯定的不是"我吻了他"，而是"某个 Barrett 吻过他"——两者之间的距离，就是她还没准备好的事。
 

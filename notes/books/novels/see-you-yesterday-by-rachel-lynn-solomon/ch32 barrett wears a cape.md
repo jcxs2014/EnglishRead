@@ -93,7 +93,7 @@ modified: "2026-09-30"
 
 **关键词**： being next to（待在……身边）/ made it okay（让……变得可以）/ slip out of my armor（从我的盔甲里溜出来）
 
-**为什么这样写**： 结尾把 armor 这个从第一章就贯穿的比喻完成时态化——前面是 wearing it on，现在是 slip out of；made it okay 把许可感放在句子中段，仿佛脱盔甲不是她自己的决定，而是有人替她批准过。
+**为什么这样写**： 结尾把 armor 这个从 ch02 就贯穿的比喻完成时态化——前面是 wearing it on，现在是 slip out of；made it okay 把许可感放在句子中段，仿佛脱盔甲不是她自己的决定，而是有人替她批准过。
 
 **读者视角提示**： 全书从「我一个人也可以」走到「有人允许我不可以」，这一句就是终点线。
 

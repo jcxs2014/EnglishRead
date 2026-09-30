@@ -57,7 +57,7 @@ modified: "2026-09-30"
 
 **关键词**： retracts his tape measure（收起卷尺）/ steps closer（走近一步）/ went gaga for（为……欣喜若狂）
 
-**为什么这样写**： 一个 retracting tape measure 的动作先于人说话——测量工具收回，才是人走近，这个"先停下工作才开口"的顺序说明他是认真要给线索；the one everyone went gaga for 把课程包在一个定指从句里，gaga 是俏皮的（狂喜、痴迷），用了一个年轻词去写一门大学课，反差制造趣味；最后一行 Time Travel for Beginners 是全书最重的一个专有名词——太轻的语气念太重的答案。
+**为什么这样写**： 原文明写 retracts his tape measure——一个收起卷尺的动作先于人说话，测量工具收回，才是人走近，这个"先停下工作才开口"的顺序说明他是认真要给线索；the one everyone went gaga for 把课程包在一个定指从句里，gaga 是俏皮的（狂喜、痴迷），用了一个年轻词去写一门大学课，反差制造趣味；最后一行 Time Travel for Beginners 是全书最重的一个专有名词——太轻的语气念太重的答案。
 
 **读者视角提示**： 读者在这里该意识到：这个"园艺教授"一登场就改变了一切，而 Barrett 只报了名字没有追踪他。
 
