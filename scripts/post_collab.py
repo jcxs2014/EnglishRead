@@ -13,7 +13,9 @@
      （2026-09-30 修；此前两把尺子，见 `count_text` 的注释）
   2. **每书一条**：板与日志**各自**独立判重；同一本书已有条目时只允许 --append 就地追加，
      不允许再开新条目
-  3. **基线检查**：写前 `git log -1 -- <file>` 必须存在（防「板上有、HEAD 上无」）
+  3. **基线检查**（2026-09-30 按 mode 分流）：`board` 要求 `git log -1 -- <file>` 存在
+     （防「板上有、HEAD 上无」）；`daily` 放行「当天首条、文件还没提交过」（原先必拒，
+     每天的人肉绕行），但仍**一律拒被 `.gitignore` 覆盖的路径**（写了也看不见）
   4. **写后自查**：新条目/追加内容确实在文件里，且条目数没有意外增加
 
 daily（工作日志）是**长期存档档**，与板不同：
@@ -171,15 +173,32 @@ def log_path(book):
     return f"{LOGDIR}/{d}.md"
 
 
-def check_baseline(path):
-    """AGENTS 8.1 第 7e 步：写前确认基线存在，否则「写完看不见」无从查起。"""
-    r = subprocess.run(["git", "log", "-1", "--format=%h", "--", path],
-                       capture_output=True, text=True)
-    if not r.stdout.strip():
-        print(f"❓ {path} 从未提交过——无基线可比对；"
-              f"先确认它是否被 .gitignore 覆盖，再决定要不要写。")
+def check_baseline(path, mode):
+    """AGENTS 8.1 第 7e 步：写前确认基线存在，否则「写完看不见」无从查起。
+
+    ⚠️ 2026-09-30：这道门原先对**新一天的首条日志**也生效——目标文件必然没有 git 历史
+    ⇒ `daily` 每天的第一条**必被拒**（退出码 2，`--force` 也不绕；实测原文：
+    `❓ .memory/daily/<今天>.md 从未提交过——无基线可比对`）。当时只能「先手写标题行
+    单独提交一次」来建基线，**每天都要人肉绕一次**。
+    现在按 mode 分流：
+      - `board`（全站唯一一份，出事即全板可见）⇒ **保持严格**：无历史一律拒；
+      - `daily`（一天一份，当天首条本就无历史）⇒ 只拒**真危险**的那一种——被
+        `.gitignore` 覆盖（写了也看不见），未提交的新文件放行并提示提交。
+    """
+    if subprocess.run(["git", "log", "-1", "--format=%h", "--", path],
+                      capture_output=True, text=True).stdout.strip():
+        return True
+    if subprocess.run(["git", "check-ignore", "-q", path],
+                      capture_output=True).returncode == 0:
+        print(f"❌ {path} 被 .gitignore 覆盖——写进去也看不见，先查 ignore 规则。")
         return False
-    return True
+    if mode == "daily":
+        print(f"ℹ️ {path} 尚无 git 历史（当天首条日志）——已放行新建；"
+              f"写完**记得提交**，否则下次仍无基线可比对。")
+        return True
+    print(f"❓ {path} 从未提交过——无基线可比对；"
+          f"先确认它是否被 .gitignore 覆盖，再决定要不要写。")
+    return False
 
 
 def main():
@@ -253,7 +272,7 @@ def main():
             return 2
 
     path = BOARD if a.mode == "board" else log_path(a.book)
-    if not check_baseline(path):
+    if not check_baseline(path, a.mode):
         return 2
 
     # 门禁 1：长度（此时 body 还是裸正文，尚无自动抬头；`count_text` 对裸正文与
@@ -270,7 +289,10 @@ def main():
               f"请在条目抬头或首行写上本书的目录 slug / 书名。\n未写入。")
         return 2
 
-    text = open(path, encoding="utf-8").read()
+    # ⚠️ 文件可能还不存在（当天的首条日志）：`check_baseline` 已放行这种情形，
+    # 这里必须按空文本处理——否则会在 `open()` 处抛 FileNotFoundError（2026-09-30 实测，
+    # 基线门禁刚放行就撞上同一个「假设文件已存在」的病灶，两处必须一起改）。
+    text = open(path, encoding="utf-8").read() if os.path.exists(path) else ""
     ents = board_entries(text) if a.mode == "board" else _log_sections(text)
     hit = [e for e in ents if a.book in e]
 
@@ -385,13 +407,23 @@ def main():
                 body = f"## {a.book}\n\n" + body
             new = text.rstrip() + "\n\n" + body + "\n"
         act = "已新建条目"
-        n, b = count_text(entry_body(body))   # 补了标题后重算；口径同 `check`（只算正文）
+        # 回执口径与 `check` 一致（只算正文）；新建时等价于正文行数
+        n, b = count_text(entry_body(body))
+
+    if act != "已新建条目":
+        # ⚠️ 2026-09-30：追加/重写的回执原先**沿用门禁 1 量过的「本次片段」**
+        # （`n, b` 在门禁 1 处算好后，合并分支里再没更新）⇒ 实测回执 `1 行 / 56 B`，
+        # 而同一条 `check` 读作 `12 行 / 308 B`。门禁本身查的是**合并结果**（正确），
+        # 但**回执读数两份**会让人以为那条只剩 1 行——与「三处口径」同一病灶的残留。
+        # 现在回执也报**合并后整条**，并显式标注量的是哪一份。
+        n, b = count_text(entry_body(merged))
 
     # 门禁 4：**先在内存里验证，再落盘**——否则返回 2 时文件已被改动，
     # 会留下「工具说失败、内容却在」的半成品（2026-09-28 注入自证抓到）
     _postcheck(new, path, a.book)
     open(path, "w", encoding="utf-8").write(new)
-    print(f"✅ {act}：{path}（{n} 行 / {b} B）")
+    tag = "本条" if act == "已新建条目" else "合并后整条"
+    print(f"✅ {act}：{path}（{tag} {n} 行 / {b} B）")
     return 0
 
 
