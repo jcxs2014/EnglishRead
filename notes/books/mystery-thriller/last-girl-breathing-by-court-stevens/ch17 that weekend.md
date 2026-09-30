@@ -108,8 +108,6 @@ modified: "2026-10-01"
 | forecast eight inches | 预报的八英寸雨量 | None of us knew the forecasted eight inches of rain had been upped to a historic twelve. |
 | plan | （人生）计划 | “Luce, you gotta let me work my plan,” he said. |
 
-Total: 高级 6 · 进阶 8 · 基础 6 = 20
-
 ## 一句话总结
 
  pontoon 船泡了汤，暴雨把六个孩子堵进木屋，夺旗游戏占满了整个下午；没有人知道预报的八英寸已被上调到破纪录的十二——溪水涨成四十英尺的峡谷，小桥被冲走，而大坝上那道尺把宽的缝，正被暴涨的田纳西河一下一下地捶着。
