@@ -10,7 +10,7 @@ modified: "2026-09-30"
 - **一句话概括**：航班过去七个月，那位老妇在丈夫忌日前一周被人按响门铃——来客 The man who helped me with my bag on the plane.，带来一个她毫无记忆的自己在飞机上说过的话、一份「你被第四个人害死了」的判断，和一处安全屋。
 - **叙事视角**：第三人称有限视角，跟着那位老妇；她边听边在记忆里找证据，越找越觉得对方说得通。
 - **场景与时间**：十一月的一个上午，她家门口；随后是 Mira 家 Mira answered the door incandescent with happiness. 的那阵热闹，和她家后院。
-- **人物弧线**：从「羞愧、不愿开门」到「完全相信」，再被后院那台机器推回「天��我是不是对他说过什么」——连那个说一句 she took a moment to think, and said, ‘Maybe.’ She seemed like a serious little girl and I liked her. 的孙女 Bridie 也被卷了进来；本章结尾她靠喊出一个名字救了人。
+- **人物弧线**：从「羞愧、不愿开门」到「完全相信」，再被后院那台机器推回「天知道我是不是对他说过什么」——连那个说一句 she took a moment to think, and said, ‘Maybe.’ She seemed like a serious little girl and I liked her. 的孙女 Bridie 也被卷了进来；本章结尾她靠喊出一个名字救了人。
 - **叙事手法**：括号里插入的自述式降调 ＋ 一段以「后来我才知道」收束的旧账 ＋ 把漫不经心的误会写成生死。
 
 ## 精读
@@ -73,7 +73,7 @@ modified: "2026-09-30"
 | unsurprised | 不感意外的 | He gently told me what I’d done on the plane and seemed unsurprised when I said I had no memory of it. |
 | supernatural | 超自然的 | It was frightening and distressing to hear they were now dead and that people thought it proved I had supernatural abilities. I felt that dreadful sense of responsibility I’d experienced when I learned about the two people falling off the rooftop terrace. |
 | dilapidated-looking | 破旧不堪的 | a very old, dilapidated-looking excavator parked on the edge of a half-finished, pointless-seeming deep trench. |
-| transfixed | 目不转睛的 | the excavator falling sideways in slow motion, like a toppling tree, |
+| transfixed | 目不转睛的 | the excavator falling sideways in slow motion, like a toppling tree, like me on the couch at Hazel’s place, towards Mira’s son, who was still staring up at me, transfixed, apparently frozen on the spot. |
 | nimbly | 敏捷地 | He jumped nimbly to the other side of the muddy trench just in the nick of time. |
 | relentless | 连绵不断的 | The sun was out but there had been relentless rain the last few days, and Mira’s backyard had turned to mud. |
 | engrossed | 全神贯注的 | She introduced me to her granddaughter, Bridie, who was sitting on the couch engrossed in her phone. |
@@ -100,7 +100,7 @@ modified: "2026-09-30"
 | deck | 露台 | I walked out onto her deck. |
 | jaw | 下颌 | He scratched his jaw. |
 | trench | 沟渠 | a very old, dilapidated-looking excavator parked on the edge of a half-finished, pointless-seeming deep trench. |
-| boy | 男孩 | <<V:boy>> |
+| boy | 男孩 | I remembered how the little boy had been staring back at me, and children rarely show interest in me. |
 | shame | 羞耻 | It was the same sick shame I used to feel when people told me about my drunken behaviour at those rooftop parties. |
 
 ## 一句话总结**：这一章先用一位来客把「你在飞机上说过什么」这件事讲得她无法反驳，再在后院把这份「无法反驳」变成一场实祸——她差点成了又一次死亡的原因，最后靠喊出一个自己一向喊不出的名字把人拉开。
