@@ -15,6 +15,36 @@ modified: "2026-10-01"
 - （全书完。）
 - **一句话**：全书以她向一个陌生人解释「我们是搜救队」结束——那三个字（search and rescue）也是这本书全部名字的来源。
 
+## 精读
+
+> **原句 1:** Cat is out of treats, and I know when I get home he won’t let me sleep without them.
+
+- **中文理解**：「（家里的）猫没零食了；我知道我一回到家，他就不吃到零食不会让我睡觉。」
+- **关键词**：Cat is out of treats · he won’t let me sleep without them
+- **为什么这样写**：全书的第一句把一只狗写成一个会挟持她睡眠的小动物，而 out of treats（零食吃完了）是全书的最后一个日常。而 he won’t let me sleep（他不让我睡）把一只狗的索要和婴儿的夜哭写成同一件事。
+- **读者视角提示**：这只猫的名字来自第二部那个 Free Kittens 的牌子——请把这句与那句「I hope it’s a calico, a boy, and he doesn’t mind living in the desert and going by the name Dog」并读：一个计划里的名字，如今是一只真实的狗。
+
+> **原句 2:** He trots along at my heels, always the hero among the strangers we meet.
+
+- **中文理解**：「他小跑着跟在我脚后跟；在我们遇见的每一个陌生人中间，他永远是那个主角。」
+- **关键词**：trots along at my heels · always the hero among · strangers we meet
+- **为什么这样写**：一句把他的位置写死的话——在她脚后跟（at my heels），却在人群里是主角（always the hero）。而 among the strangers（在这群陌生人中间）暗示他们从没把他当成陌生人：他一到场，就成了这场面的中心。
+- **读者视角提示**：请把 always the hero 与第一部那场 NFL 比赛对比着读——那时是 Neil 被喊，如今换成了一条尾巴在摇。
+
+> **原句 3:** I never thought I’d find my Galen, but it took a single glance on Petfinder to know Cat was mine.
+
+- **中文理解**：「我从没想过我会找到「我的 Galen」，但在 Petfinder 上只看了一眼，就知道 Cat 是我的。」
+- **关键词**：I never thought I’d find my Galen · a single glance on Petfinder · Cat was mine
+- **为什么这样写**：一句把失踪写成相遇的转折。my Galen（我的 Galen）带着引号，像是在叫一个还没出现的人；而 a single glance（一眼）说明这件事不靠推理，靠直觉——与第一插叙里那只青蛙同一种判断方式。
+- **读者视角提示**：这是全书对 Galen 的唯一一次交代（他没有出现在这里）；请把它与那只一直跟在她脚边、在医院里占掉大半张床的狗并读。
+
+> **原句 4:** “Yep. He’s search and rescue. We’re a search and rescue team.”
+
+- **中文理解**：「「是啊。他是搜救犬。我们是一支搜救队。」」
+- **关键词**：Yep · He’s search and rescue · We’re a search and rescue team
+- **为什么这样写**：全书最后一句台词，两拍：第一拍是身份（他是搜救犬），第二拍是复数（我们是一支搜救队）。而 We’re 把一个「人」与一只「狗」正式编成同一支队伍——这句话同时回答了店员的问题、交代了她的新职业，也把全书那个关于水的疑问（人能不能从水里把彼此拉回来）换成了一个每天上班的答案。
+- **读者视角提示**：全书在这三个词上结束：search and rescue（搜救）。它既是这本书的名字，也是她此后每一天的名字。
+
 ## 本章词汇
 
 ### ⭐⭐ 进阶
