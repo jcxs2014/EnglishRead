@@ -9,7 +9,7 @@ modified: "2026-09-30"
 
 - **一句话概括**：4 月 2 日（周六）。书店经营得不错，客人越来越多，她第一次把自己那套能力称作「秘密超能力」并且不觉得它是坏事；同一天晚上，她回家发现那个前几天昏倒在她家门口、此刻只是来取车的男人 Woody 正坐在自家客厅里看电视——是丈夫收留的，而客房原本属于她的儿子。
 - **情感弧线位置**：全书最轻松也最可疑的一章。她连着得到三样东西（书店的业绩、一个新朋友、一条募款动态带来的归属感），每一件的来路都建立在她上一夜那一次轻率的干预上。
-- **线索伏笔：① 把能力称作超能力的那个说法（来自 Iris）；② 那面「房子的镜子」与戴棒球帽的男人的成功案例；③ 客房的归属（原属儿子 Dante，现由 Woody 睡）；④ 老公说「还有惊恐发作」——被改动过的人正在以另一种方式复发；⑤ 社区跑群里那条为死者家属筹款、要做纪念牌的动态；⑥ 她第一次把伸向远处的「够」写成每日练习——pelvic-floor 练习式的比喻；⑦ 本章末尾那个「三十年来第一次在梦里用自己的身体跑步」的梦。
+- **线索伏笔：① 把能力称作超能力的那个说法（来自 Iris）；② 那面「房子的镜子」与戴棒球帽的男人的成功案例；③ 客房的归属（原属儿子 Dante，现由 Woody 睡）；④ 老公说「还有惊恐发作」——被改动过的人正在以另一种方式复发；⑤ 社区跑群里那条为死者家属筹款、要做纪念牌的动态；⑥ 她第一次把伸向远处的「够」写成每日练习——pelvic-floor 练习式的比喻；⑦ 本章末尾那个「自童年起第一次在梦里用自己的身体跑步」的梦。
 - **人物弧线**：她在这一章里第一次把能力当成可以练习的东西（像盆底肌练习一样按天做），也第一次把别人的生活算进自己的责任表（Iris、Salena，再到 Woody）。
 - **叙事手法**：日常流水账体，最长的停顿在两处——一是她对自身能力的辩解段落，二是社群里一连串带冒号的发言行；后者用排版制造出「正在盯着屏幕」的现场感。
 
@@ -74,7 +74,7 @@ modified: "2026-09-30"
 | sweltering | 酷热的（此处与「本该冷的时候觉得热」并列） | Menopause has broken my inner thermostat, so that I often feel hot when I should be cold, and cold when I should be sweltering. |
 | premonition | 预感、预感之兆 | But that shiver was something visceral, like a premonition of death, and it slid into my belly like a snake into a basket. |
 | visceral | 本能深处的、来自内脏的 | But that shiver was something visceral, like a premonition of death, and it slid into my belly like a snake into a basket. |
-| daunting | 让人却步的、看着就累的 | Bernadette Ingram: Wow! It sounds a little daunting. |
+| daunting | 让人却步的、看着就累的 | It sounds a little daunting. |
 | absurdly | 荒唐地、莫名地 | I closed my laptop and turned off the light, feeling absurdly comforted. |
 | comforted | 被安慰到的 | I closed my laptop and turned off the light, feeling absurdly comforted. |
 | interaction | 互动、往来（此处指与人的接触本身） | Interaction with others really does produce dopamine. |
@@ -95,6 +95,7 @@ modified: "2026-09-30"
 | hollow | 空心的、发空的 | From downstairs, I could still hear Martin and Woody watching their film, but that hollow feeling was gone. |
 | dopamine | 多巴胺（此处指社交带来的那点奖励感） | Recently, social media hasn’t felt like the dopamine hit it once was. |
 | distance | 距离（此处指她在心里「够」过去的那段距离） | I reached for Alex’s house across the distance between us, and caught a gleam of humour, like a smile through a rear-view mirror. |
+| treat-dispensing ball | 会漏零食的球（此处是猫玩具） | Salena gives Kafka the credit for this, and has bought him not only the catnip mouse, but also a treat-dispensing ball, which he has taken to chasing exuberantly all over the shop in the hope of persuading it to dispense. |
 
 ### ⭐ 基础
 
@@ -103,7 +104,6 @@ modified: "2026-09-30"
 | customers | 顾客 | Thirty-two customers today. Thirty-nine books between them. |
 | credit | 功劳 | Salena gives Kafka the credit for this, and has bought him not only the catnip mouse, but also a treat-dispensing ball, which he has taken to chasing exuberantly all over the shop in the hope of persuading it to dispense. |
 | catnip | 猫薄荷 | Salena gives Kafka the credit for this, and has bought him not only the catnip mouse, but also a treat-dispensing ball, which he has taken to chasing exuberantly all over the shop in the hope of persuading it to dispense. |
-| treat-dispensing ball | 会漏零食的球 | Salena gives Kafka the credit for this, and has bought him not only the catnip mouse, but also a treat-dispensing ball, which he has taken to chasing exuberantly all over the shop in the hope of persuading it to dispense. |
 | curry | 咖喱 | They’d had curry delivered instead of pizza, and his T-shirt said: Blink if you want me, but otherwise it was just like the other night, and I felt a kind of shiver. |
 | plaque | 纪念牌 | He’s putting the money towards a memorial plaque. |
 | memorial | 纪念 | He’s putting the money towards a memorial plaque. |

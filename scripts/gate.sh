@@ -87,7 +87,11 @@ for f in sorted(glob.glob(f"{book}/ch*.md"), key=lambda x: int(re.search(r"ch(\d
     # 非言情精简档写「母题/冲突兑现/反转」；枚举标签会把每种正当写法都判成假红
     # （AGENTS 8.3：格式自成一派的书是合法的；假红型先修工具）。
     nav = re.search(r"^## 本章导航[ \t]*\n(.*?)(?=\n## |\Z)", txt, re.M | re.S)
-    items = re.findall(r"(?m)^[-*]?\s*\*\*([^*]+)\*\*：(\S.*)$", nav.group(1)) if nav else []
+    # ⚠️ 冒号后**允许前导空格**（2026-09-30 Broken Light 终验实测）：
+    #    原式 `：(\S.*)$` 要求首字符非空白，于是写成「**： 内容」（带一个空格）的
+    #    5 个导航项全被判 0 条 —— ch21–ch25 五章假红，内容本身完好。
+    #    前导空格是正常排版，不是缺陷；判据只该管「有没有正文」。
+    items = re.findall(r"(?m)^[-*]?\s*\*\*([^*]+)\*\*：\s*(\S.*)$", nav.group(1)) if nav else []
     if len(items) < 5:
         print(f"❌ {n}: 导航粗体项 {len(items)} 条 < 5（缺项或写法不匹配 `**X**：`）")
         bad += 1

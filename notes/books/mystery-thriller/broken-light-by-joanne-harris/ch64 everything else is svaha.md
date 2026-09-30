@@ -7,10 +7,10 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：Track 12 开篇。6 月 4 日，她用第二人称对镜中的自己下令（别撒谎），并给此刻取了一个梵语名字：一场表演结束之后、后果降临之前的那段间隙。
-- **情感弧线位置**：临界位。全书写到这里的临界点：她已经站在结果面前，结果还没有来。
+- **一句话概括**：Track 12 开篇。6 月 4 日，她用第二人称对镜中的自己下令（别撒谎），并给此刻取了一个梵语名字 svaha：一场表演结束之后、后果降临之前的那段间隙。
+- **情感弧线位置**：临界位。整条线在这里停住：她已经站在结果面前，结果还没有来。
 - **线索伏笔**：① 破碎玻璃的声音、血与玫瑰的气味，都写在「此刻」而不是「后来」。② 闪电快于雷声：打击已经发生，只是还没被听见。③ 三十年前她就看见过这一刻。④ 镜子悬在半空、永远不掉的那个假设。
-- **人物弧线**：全章说话的对象是「你」，而镜子里那张脸属于四十多年前的一个孩子——她把观众席和舞台并成了同一块玻璃。
+- **人物弧线**：全章说话的对象是「你」，而镜子里那张脸看着又像个孩子——她把观众席和舞台并成了同一块玻璃。
 - **叙事手法**：2022 线日记体，日期行为 Saturday, June 4th, 2022。Track 开篇另有一段鲁米引文和一句提问式的题词；本章正文里那段闪电与雷声的句子，在前一个 Track 的题词里已经一字不差地出现过一次。
 
 ## 精读
@@ -29,7 +29,7 @@ modified: "2026-09-30"
 
 > **原句 2:** "It means the interval of time between the completion of an act and its inevitable consequence – the space between lightning and thunder. When I was a little girl, head under the blankets during a storm, I used to hold my breath and count, and wait for the sound of thunder. Thunder was what frightened me, although I knew the lightning was worse. Lightning can kill you faster than you even know it’s happening. That’s because light travels faster than sound. As soon as you see the lightning flash, the strike has already happened. You just haven’t heard it yet."
 
-**中文理解**： 它指的是一场表演完成之后、与其必然的后果之间的那段时间——闪电与雷声之间的空隙。她小时候，每逢暴风雨就躲在被子底下，屏住呼吸数数，等雷声来。真正吓到她的是雷，可她早就知道闪电更糟：闪电能比人察觉更早地杀人。那是因为光比声音快；你一看见闪光，击中就已经发生了，只是你还没听见。
+**中文理解**： 这个词指的是一场表演完成之后、与其必然的后果之间的那段时间——闪电与雷声之间的空隙。她小时候，每逢暴风雨就躲在被子底下，屏住呼吸数数，等雷声来。真正吓到她的是雷，可她早就知道闪电更糟：闪电能比人察觉更早地杀人。那是因为光比声音快；你一看见闪光，击中就已经发生了，只是你还没听见。
 
 **关键词**： the interval of time between the completion of an act and its inevitable consequence · the space between lightning and thunder（闪电与雷声之间的空隙）· hold my breath and count（屏息数数）· the strike has already happened（击中已经发生）
 
@@ -45,9 +45,9 @@ modified: "2026-09-30"
 
 **关键词**： you always saw this coming（你一直看得见）· The future – our future – was already here · looking like a child again（又像个孩子）· a wall of flames in your smoke-dark eyes
 
-**为什么这样写**： looking like a child again 把四十年的时间压进一个转身；同一张脸上先给瓷娃娃一样的脸，再给一整面火墙——两种互不相容的质地被并排放着，谁也吃不掉谁。
+**为什么这样写**： looking like a child again 把三十年的时间压进一个转身；同一张脸上先给瓷娃娃一样的脸，再给一整面火墙——两种互不相容的质地被并排放着，谁也吃不掉谁。
 
-**读者视角提示**： 这一段关于闪电与雷声的句子，在前一个 Track 的题词里已经一字不差地出现过一次：那块玻璃走到这一页，仍然没有被处理完。
+**读者视角提示**： 本章讲闪电与雷声的那一段，与前一个 Track 题词里的句子一字不差；而这块玻璃走到这一页，仍然没有被处理完。
 
 ---
 

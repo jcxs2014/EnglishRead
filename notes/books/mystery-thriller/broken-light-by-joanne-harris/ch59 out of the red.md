@@ -21,7 +21,7 @@ modified: "2026-09-30"
 
 **关键词**： making a profit again（又赚钱了）· have been paid off（已还清）· out of the red（脱离亏损）
 
-**为什么这样写**： 她用财务口径开篇，把一段难熬的日子压成一张可以逐项核对的账单。out of the red 是报刊财经版的说法，用在这里等于宣布这段日子拿到了一个可查证的终点。紧接着 Salena 会用另一个词推翻这套词表——她说这像一场 miracle；同一件事在两种语言里重量完全不同。
+**为什么这样写**： 她用财务口径开篇，把一段难熬的日子压成一张可以逐项核对的账单。out of the red 是报刊财经版的说法，用在这里等于宣布这段日子拿到了一个可查证的终点。紧接着 Salena 会用另一个词改写这套词表——她说这像一场 miracle；同一件事在两种语言里重量完全不同。
 
 **读者视角提示**： 全章的写法都建立在这个落差上：她记账，别人抒情。她要证明的不是书店赚了多少，而是自己终于能说一句关于自己的话。
 
@@ -57,8 +57,6 @@ modified: "2026-09-30"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| out of the red | 脱离亏损状态、开始有盈余 | The debts we accumulated last year have been paid off, and we are now officially out of the red. |
-| out of hand | 不加思索地、一上来就（reject ... out of hand） | I mentioned it at dinner tonight, and for the first time he didn’t reject the idea out of hand. |
 | publicists | 出版公司的宣传人员（publicity 的从业者） | Last weekend, The Bookseller named Salena as one of its Indie Heroes, and since then, a string of publicists from various publishing houses have contacted us, wanting us to host book events. |
 | Indie Heroes | 独立书店／独立出版领域的年度致敬名单 | Last weekend, The Bookseller named Salena as one of its Indie Heroes, and since then, a string of publicists from various publishing houses have contacted us, wanting us to host book events. |
 | understanding | 此处作名词：体谅、看得见的体谅（形容词 understanding 的名词化） | And since I looked into his house, I have been more understanding of his moods and behaviour. |
@@ -73,6 +71,8 @@ modified: "2026-09-30"
 | colleagues | 同事（工作关系，不含朋友意味） | Two months ago, I would not have believed that she and I could ever be more than just work colleagues. |
 | behaviour | 行为举止（英式拼写，美式为 behavior） | And since I looked into his house, I have been more understanding of his moods and behaviour. |
 | therapy | 心理治疗（此处希望 Martin 去做的那一种） | He is under a lot of pressure still regarding Jared Noonan Philips; but once it’s over, I hope that he will agree to go to therapy. |
+| out of the red | 脱离亏损状态、开始有盈余（财经惯用语） | The debts we accumulated last year have been paid off, and we are now officially out of the red. |
+| out of hand | 不加思索地、一上来就（reject ... out of hand） | I mentioned it at dinner tonight, and for the first time he didn’t reject the idea out of hand. |
 
 ### ⭐ 基础
 
@@ -86,4 +86,4 @@ modified: "2026-09-30"
 
 ## 一句话总结
 
-书店从赤字里走出来只占了半页纸，真正让她写下来的，是同一周里那句「你这么明智」——她要给的答案早就定好了，只是还没到说出口的那一晚。
+书店从赤字里走出来只占了一段，真正让她写下来的，是同一周里那句「你这么明智」——她要给的答案早就定好了，只是还没到说出口的那一晚。

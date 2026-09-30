@@ -23,19 +23,19 @@ modified: "2026-09-30"
 
 **为什么这样写**： 开头五个字就把失去一个朋友说成丧亲，随即她用 still 这个词把自己拉回来：朋友是有的，只是不是那一个。整段的落点是最后那一句——她记住的不是 Iris 做过什么，而是 Iris 看见过她什么。
 
-**读者视角提示**： 这句是上一章那句「我唯一要确认的是她喜欢我本人」开出的收据。
+**读者视角提示**： 这一句是 ch59 那句「她喜欢我本人、而不是因为我改变了她」开出的收据。
 
 ---
 
 > **原句 2:** "The barman asks where her friend has gone, but she does not remember me. Nor does he – I took from his mind the details of my appearance. His name is Nathan. I check his house. He’s kind. His concern is genuine."
 
-**中文理解**： 酒保问她的朋友去哪儿了，她却不记得她。他也不记得——她从他的 mind 里取走了关于自己外貌的细节。他叫 Nathan。她查了他的房子。他人很好，他的担心是真的。
+**中文理解**： 酒保问她的朋友去哪儿了，她却不记得她。他也不记得——她从他的心智里取走了关于自己外貌的细节。他叫 Nathan。她查了他的房子。他人很好，他的担心是真的。
 
 **关键词**： but she does not remember me（她不记得我）· I took from his mind the details of my appearance · His name is Nathan · I check his house（查了他的房子）
 
 **为什么这样写**： 补救做了双份：她不只抹掉了 Iris 眼里的自己，还抹掉了酒保眼里的自己，再顺手查了对方的心。整段用流水账式的短句推进，没有一个形容词——用最平淡的笔法写一件并不平淡的事。
 
-**读者视角提示**： 这一段里唯一一次停下来替人担保，是 His concern is genuine 这句。
+**读者视角提示**： 这一段里替一个陌生人说话的地方，是 His concern is genuine：她顺手查过他的房子，然后替他作了证。
 
 ---
 
@@ -47,7 +47,7 @@ modified: "2026-09-30"
 
 **为什么这样写**： 两个 Never again 把「以后」写成不可逆的修约，而 go quietly back 里真正吃重的副词是 quietly——她要拒绝的不是回去，是悄悄回去。前一段那个挑衅的声音用的是第二人称（you），这里换成 I，句子就完成了一次夺权。
 
-**读者视角提示**： 全章最后停在一个开放式的等待上：It’s up to him。
+**读者视角提示**： 这一句之后还剩几行，而本章最后一个词是 Tonight：她把周六等成了一场一直悬到睡前的悬念。
 
 ---
 

@@ -118,7 +118,7 @@ modified: "2026-09-30"
 | approachable | 平易近人的、让人容易接近的（此处说那位男老师不摆架子） | Mr Davis was athletic, relaxed; good-looking and approachable. |
 | self-conscious | 难为情的、觉得自己被盯着看（此处指身高让她不自在） | I think it made her self-conscious; she often slouched to disguise her height. |
 | slouched | 佝偻着背（slouch；此处是刻意弓背来掩盖身高） | I think it made her self-conscious; she often slouched to disguise her height. |
-| culminating | 以……收束、culminate in 以……为压轴（固定搭配） | There were all kinds of sports, from track events to tennis, culminating in an 800-metre race, in which every girl in the school took part. |
+| culminating | 以……收束、culminating in 以……为压轴（此处指运动日以八百米压轴） | There were all kinds of sports, from track events to tennis, culminating in an 800-metre race, in which every girl in the school took part. |
 | deteriorated | 退化成、变糟（deteriorate；此处指上课变成小测验和游戏） | Exams were over, and teachers had abandoned all pretence at teaching, so that lessons had deteriorated into a series of quizzes and games. |
 | penetrating | 穿透力强的、刺耳的（此处形容隔着跑道也听得见的笑声） | Lorelei, especially, seemed to be having a good time; her laugh was penetrating and, I thought, a little mean. |
 | reluctantly | 不情愿地（此处指别的人被迫绕开事故现场继续比赛） | Some of the other girls slowed down too, then speeded up reluctantly, like cars in the wake of a motorway crash. |
@@ -132,7 +132,7 @@ modified: "2026-09-30"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| pretence | 假装、装模作样（英式拼写；abandon all pretence＝索性不再装） | Exams were over, and teachers had abandoned all pretence at teaching, so that lessons had deteriorated into a series of quizzes and games. |
+| pretence | 假装、装模作样（英式拼写；abandoned all pretence＝索性不再装） | Exams were over, and teachers had abandoned all pretence at teaching, so that lessons had deteriorated into a series of quizzes and games. |
 | Oxbridge | 牛津与剑桥（合称，代指名校） | Every year, the Honours Boards boasted a double row of Oxbridge successes. |
 | tutor | 家庭教师、补习老师（此处指父母给她请的数学家教） | My parents had hired a Maths tutor, which added to my workload, and I was conscious of their need to see my grades improve quickly. |
 | workload | 工作量、要做的活儿的总量 | My parents had hired a Maths tutor, which added to my workload, and I was conscious of their need to see my grades improve quickly. |
@@ -141,20 +141,20 @@ modified: "2026-09-30"
 | intensity | 强度、专注的强度（strange intensity） | Instead, she just watched us run, with a strange intensity that made me quite uncomfortable. |
 | category | 项目组别（此处指她被选进的那几个比赛项目） | I’d been picked for three events in my category – the 400 metres, the relay race and the 100-metre hurdles. |
 | sprained | 扭伤（sprain；此处是她在攀爬架上扭伤脚踝） | But I’d sprained my ankle, messing around on the monkey bars, and Mr Davis had banned me from running. |
-| scraping the bottom | 勉强垫底（scrape the bottom of＝处在某等级最末端） | And I was an average student at best; fairly good at English and Games, enthusiastic in Drama and Music, but bottom of the class in Maths, and scraping the bottom in both Latin and French. |
+| scraping the bottom | 勉强垫底（处在某等级最末端） | And I was an average student at best; fairly good at English and Games, enthusiastic in Drama and Music, but bottom of the class in Maths, and scraping the bottom in both Latin and French. |
 | nerves | 神经紧张（an attack of nerves＝一场神经质的发作） | Later, he would tell us that Grace had had an attack of nerves, but we never saw her again at school, and the next year, we would learn that she had left Mulberry House, and had moved on to Sunnybank Park, the big comprehensive across town. |
 | form teacher | 班主任（英式校园用语，form 指年级） | My form teacher, Mrs Laramie, made it clear that I had to improve. |
 | cafeteria | 自助食堂、餐厅（此处指老师们吃午饭的地方） | Mr Davis never had lunch in the cafeteria with the other teachers. |
+| expression | 表情、神色（此处说 Bernie 脸上那种说不清的神色） | But there was something about her expression. |
+| childhood toy | 童年玩具（此处是被遗忘的、破损的那一件） | It was as if someone had opened a door to a darkened cellar and shown me a childhood toy I’d once loved, now broken and forgotten. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | ankle | 脚踝 | But I’d sprained my ankle, messing around on the monkey bars, and Mr Davis had banned me from running. |
-| expression | 表情、神色 | But there was something about her expression. |
 | dyke | 女同性恋（俚语；此处是被同学恶意散播的猜测） | Lorelei Jones thought she might be a dyke, and spread the word around Lower School that she was getting off on watching girls run. |
 | circus monkey | 马戏团的猴子（此处形容十三岁女孩脸上过早的老态） | She looked very old to me then – as old as a circus monkey. |
-| childhood toy | 童年玩具（此处是被遗忘的、破损的那一件） | It was as if someone had opened a door to a darkened cellar and shown me a childhood toy I’d once loved, now broken and forgotten. |
 | darkened cellar | 昏暗的地窖（此处反复出现的记忆意象） | It was as if someone had opened a door to a darkened cellar and shown me a childhood toy I’d once loved, now broken and forgotten. |
 | double row | 并排两行（此处指荣誉榜上牛津剑桥录取的成排名字） | Every year, the Honours Boards boasted a double row of Oxbridge successes. |
 | picnic | 野餐（此处指对面那群女生分吃带来的零食） | I could see them, sharing what looked like a little picnic. |

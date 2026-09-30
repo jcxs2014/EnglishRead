@@ -64,6 +64,8 @@ modified: "2026-09-30"
 ---
 
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
@@ -83,9 +85,9 @@ modified: "2026-09-30"
 | trending | 正在被顶上热门（Twitter 用词） | Then she checked Twitter, where #Gendercide was trending. |
 | identity | 身份；此处指性别身份 | Crazy mothers mess up little boys regarding their male gender identity. |
 | pancreas | 胰腺 | They found something in my pancreas. |
-| menopause | 更年期 | ‘I think a woman can really come into her own at menopause. |
+| menopause | 更年期 | ‘I think a woman can really come into her own at menopause. Look at you. You’re blossoming. |
 | cocktail | 鸡尾酒；此处指母亲那条小黑裙（cocktail dress） | White-haired, thin, high-cheekboned, and wearing a beaded black cocktail dress that looked like twenties vintage. |
-| launched | （乐队）开始演奏；launch into the first number | From inside came the sound of the band as it launched into the first number of the evening. |
+| launched | （乐队）开始演奏，奏出当晚第一支曲子 | From inside came the sound of the band as it launched into the first number of the evening. |
 
 ### ⭐ 基础
 

@@ -35,13 +35,13 @@ modified: "2026-09-30"
 
 **为什么这样写**： 比喻只给形状和颜色，不给价钱：立方体是切面，fire 是火彩，而 angry 一词把这块石头写成会咬人的东西。她压低嗓子问真假——在一个连水晶疗愈都有人照单全收的世界里，真假本来就模糊。
 
-**读者视角提示**： 这只吊坠是别人退回来的东西；下一段会交代它从哪里来。
+**读者视角提示**： 这只吊坠是上一段里 Leonie 硬塞过来的——她说已经不忍再看它。
 
 ---
 
 > **原句 3:** "DeeDee LaDouce swears by the healing power of crystals. According to My Big Fat Menopause, the ruby is: a perfect stone for you warriors, as it stimulates your survival instincts. Rubies bring love and confidence, loyalty and courage. So treat yourself! Forget menopause rage! This is the only way to see red!"
 
-**中文理解**： DeeDee LaDouce 笃信水晶的疗愈力量。在她推荐的那本书里，红宝石是这样被说的：对你这样战斗的人是完美的石头，因为它能激发求生本能；红宝石带来爱与自信、忠诚与勇气。所以犒劳自己吧，忘掉潮热之怒，这是看见红色的唯一方式。
+**中文理解**： DeeDee LaDouce 笃信水晶的疗愈力量。照她搬出来当依据的那本书的说法：对你这样战斗的人是完美的石头，因为它能激发求生本能；红宝石带来爱与自信、忠诚与勇气。所以犒劳自己吧，忘掉潮热之怒，这是看见红色的唯一方式。
 
 **关键词**： the healing power of crystals（水晶的疗愈力量）· you warriors（你们这些战士）· your survival instincts（求生本能）· the only way to see red
 
@@ -100,4 +100,4 @@ modified: "2026-09-30"
 
 ## 一句话总结
 
-她把「想要」拆成清单、借来的首饰和一次床上的说服；等到写下最后一句时，这件事已经有了日期、地点，和一个被安排好的人。
+她把「想要」拆成清单、借来的首饰和一次床上的说服；等到写下最后一句时，这件事已经有了日期、地点，和一个已经定好行期的人。

@@ -88,6 +88,8 @@ modified: "2026-09-30"
 ---
 
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
@@ -110,7 +112,7 @@ modified: "2026-09-30"
 | vulnerable | 脆弱的、易受伤害的 | His only crime was to be there at a time when she was feeling vulnerable. |
 | narrative | 叙事；third-person narrative 指把自己写成第三人称 | It’s funny how we often reframe our trauma as third-person narrative. |
 | indecent | 不得体的；此处指鞋子脱了还留在房间 | There’s something indecent about it, she thinks, although she herself has been barefoot for the past half-hour. |
-| cocoon | 茧；用蛛丝捆起来的记忆 | Right to the very back of my house, bound up in spider silk, like a cocoon. |
+| cocoon | 茧；用蛛丝捆起来的记忆 | I’d pushed the memory deep, deep down. Right to the very back of my house, bound up in spider silk, like a cocoon. |
 | delicate | 纤巧的；此处形容那双拆记忆的手指 | I felt her unpicking the woven strands with delicate, inhuman fingers. |
 | banished | 放逐、驱除（此处是她以为把记忆赶走了） | And when, four weeks later, I realized my period was overdue, I made all the arrangements without a word to anyone, and had the unwanted packet of cells flushed out of my body, and never looked back, or gave it a thought – I believed I’d banished the memory. |
 | violation | 侵犯、违反 | Some men think of it as a game, although it’s a violation. |

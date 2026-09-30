@@ -88,6 +88,8 @@ modified: "2026-09-30"
 ---
 
 
+## 本章词汇
+
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
@@ -121,7 +123,7 @@ modified: "2026-09-30"
 | basement | 地下室 | The band assembled (minus Martin, of course) to practise in our basement. |
 | band | 乐队 | Lucas and his friends from the band had been planning it for months, along with some old friends on Facebook – Martin Ingram included. |
 | children | 孩子们 | He got our children involved, and engaged the local crèche to set up a side room for younger attendees. |
-| canapés | 小吃、冷餐会点的小点（法语借词） | And Martin had told us that Bernie would be meeting us later – The band wasn’t due to play until nine, but there would be a DJ, and drinks, and canapés, and dancing. |
+| canapés | 小吃、冷餐会点的小点（法语借词） | The band wasn’t due to play until nine, but there would be a DJ, and drinks, and canapés, and dancing. |
 | PlayStation | PlayStation 游戏机 | I was out most of the day, so we were never alone together, and as soon as Lucas got home from work, they would go and sit in the studio, drink beer, play games on the PlayStation. |
 
 ## 一句话总结

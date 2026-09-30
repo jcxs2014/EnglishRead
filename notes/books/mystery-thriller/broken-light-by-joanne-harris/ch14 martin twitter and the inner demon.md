@@ -27,7 +27,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 2:** "I can always tell when he’s stressed; this morning he seemed to crackle with a kind of furious energy."
+> **原句 2:** "I can always tell when he’s stressed; this morning he seemed to crackle with a kind of furious energy. Hunched over his laptop, he did not look up as I came in, but I could see by the speed at which he was typing that something had put him on the alert. The coffee I’d left to percolate in the kitchen was untouched."
 
 **中文理解**： 我总能看出他什么时候压力大；今天早上他身上噼啪作响，像带了一种愤怒的能量。他弓着背扑在笔记本上，我进门他都没抬头，我放好的那壶咖啡原封没动。
 

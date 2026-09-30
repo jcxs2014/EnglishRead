@@ -106,7 +106,7 @@ modified: "2026-09-30"
 | presentable | 拿得出手的、体面的（presentable face＝能见人的那张脸） | Nowadays, it takes longer to show a presentable face to the world. |
 | nondescript | 毫不起眼的、没有特征的（此处形容被顺走热食的那个路人） | He was quite young; nondescript; wearing a navy-blue raincoat. |
 | persistent | 不肯罢休的、反复纠缠的（此处修饰脑子里那个新声音） | And Iris’ voice is persistent, drilling into my consciousness: What if it keeps happening? |
-| vindication | 称快、解气（a stab of vindication＝心里一记小爽） | I watched as the man with the sausage roll crumpled his paper bag and dropped it onto the footpath, and felt a small stab of vindication. |
+| vindication | 称快、解气（a small stab of vindication＝心里一记小爽） | I watched as the man with the sausage roll crumpled his paper bag and dropped it onto the footpath, and felt a small stab of vindication. |
 | unseasonal | 不合时令的、反常的（unseasonal mildness） | March is a month of changes, veering unpredictably from unseasonal mildness to cruel chill. |
 | unpredictably | 难以预料地、忽冷忽热地（三月就是这样翻脸的） | March is a month of changes, veering unpredictably from unseasonal mildness to cruel chill. |
 | denouncing | 谴责、揭发（denounce；与「否认」相对的那种动作） | Why is their first instinct to deny the crime, instead of denouncing the criminal? |
