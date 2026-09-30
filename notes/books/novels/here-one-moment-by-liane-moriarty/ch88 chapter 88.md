@@ -34,7 +34,7 @@ modified: "2026-09-30"
 **中文理解**：她怕的不是病，是「说出口」这个动作本身：一旦开口，预约、表格、化验、治疗会一件接一件占满余生。
 **关键词**：set everything in motion, no going back, side effects, more side effects
 **为什么这样写**：中段全是并列名词短语，一句比一句短；medication for the side effects, more side effects 干脆自我循环。
-**读者视角提示**：这一段是她给自己找的拖延理由；紧跟着的一段她说自己理解那位孕妇为什么想干脆不认。
+**读者视角提示**：这一段是她给自己找的拖延理由；同一段后半她说自己理解那位孕妇为什么想干脆不认。
 
 > **原句 4:** "What’s that awful statistic? One in two people will develop some form of cancer at some point in their life. It’s her turn."
 

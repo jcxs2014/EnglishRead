@@ -48,7 +48,7 @@ modified: "2026-09-30"
 **中文理解**：她说出那句从母亲那儿听来的断言，并解释这句话原本是说给谁听的。
 **关键词**：I see you leaving, soggy, balled-up handkerchiefs
 **为什么这样写**：前半是转述的母亲台词，后半转入带画面感的细节（湿透、揉皱的手帕），把一句商业话术还原成真实的哭泣现场。
-**读者视角提示**：Madame Mae 是她母亲的艺名式称呼；下一段紧接着写主妇们哭着问的那句，作者在此先把它立成一个反复出现的句式。
+**读者视角提示**：Madame Mae 是她母亲的艺名式称呼；下一段紧接着写的是母亲在每次占卜里把这句重复三遍，作者在此先把它立成一个反复出现的句式。
 
 > **原句 6:** "He was like a carpet salesman, unfurling rug after rug, each more exquisite than the last."
 

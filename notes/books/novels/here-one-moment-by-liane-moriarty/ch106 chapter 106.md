@@ -40,7 +40,7 @@ modified: "2026-09-30"
 **中文理解**：人就在那儿。就这么简单——这么久以来她只隔着一次搜索。
 **关键词**：And there she is, As easy as that, only a Google search away
 **为什么这样写**：三个短句递进，最后一个用 a Google search away 把「神秘」降格成「距离」，全章的紧张在这半句里被彻底消解。
-**读者视角提示**：下一段随即写 She’s younger in the picture but there is no doubt，照片里的她站在台上做演讲——这与开篇那句 Later, not a single person will recall seeing the lady 正好相反。
+**读者视角提示**：下一段随即写 She’s younger in the picture but there is no doubt，照片里的她站在台上做演讲——这与第一章那句 Later, not a single person will recall seeing the lady 正好相反。
 
 > **原句 5:** "The caption says: Cherry Lockwood delivers another riveting keynote address at the Actuaries Institute December Luncheon!"
 

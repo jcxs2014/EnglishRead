@@ -32,8 +32,8 @@ modified: "2026-09-30"
 
 **中文理解**：她和姑姑像两个落水的人，只能各自学会怎么游。
 **关键词**：two drowning people, work out how to swim on our own
-**为什么这样写**：这一段写的是母亲死后她与姑姑疏远，而紧接着的 I think we had no choice 是辩解——比喻先给判决，辩解随后才到；句中的 swim 是主动动作——两个人不是漂着，是各自在学怎么划。
-**读者视角提示**：下一段开始她说起母亲的房子——Mum’s house was now mine. 与这里的「各自学会游泳」是同一件事的两面。
+**为什么这样写**：这一段写的是母亲死后她与姑姑疏远，同一段里先给出的 I think we had no choice 是辩解，紧跟着的比喻才落下判决——辩解在前，判决在后；句中的 swim 是主动动作——两个人不是漂着，是各自在学怎么划。
+**读者视角提示**：同一段接着她就说起母亲的房子——Mum’s house was now mine. 与这里的「各自学会游泳」是同一件事的两面。
 
 > **原句 4:** "Every day that year I woke up, cleaned my teeth, looked at myself in the mirror and said, ‘This too shall pass, Cherry.’"
 

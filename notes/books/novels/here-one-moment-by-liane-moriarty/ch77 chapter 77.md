@@ -40,7 +40,7 @@ modified: "2026-09-30"
 
 **中文理解**：婆婆问她：那你说说，你真不想当数学老师？她就这么叫她。她管婆婆叫 Mrs Murphy，而她回答自己会替这个数学学位找到点事做。
 **关键词**：maths degree, Clever Clogs, That’s what she called me, I called her Mrs Murphy
-**为什么这样写**：Clever Clogs 是外号，That’s what she called me 把它明写出来，读者就知道这是从对方的嘴里听来的。Caps 掉在姓氏上，是把称呼和名字分开的一条老规矩，作者在下一段还会提到另一个类似的称呼。
+**为什么这样写**：Clever Clogs 是外号，That’s what she called me 把它明写出来，读者就知道这是从对方的嘴里听来的。Clever Clogs 与 Mrs Murphy 并排，一个是大写每个词的外号，一个是大写姓氏的尊称，两种称呼都在同一段里落定。
 **读者视角提示**：她坚持叫 Mrs Murphy，这个细节是本章里最短的一句身份宣言——她给自己和这段关系留了距离。
 
 > **原句 5:** I don’t know if Jack loved me more than God but I know he loved me. I still have the cards and notes he wrote during that time, in which he told me I was ‘his girl’ and he was ‘keeping me forever’ and ‘his heart belonged to me’. His handwriting was beautiful. His spelling was not the best.

@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **中文理解**：她自问是不是把自己护得太好、因此偶尔显得刻薄，并想象这段关系结束时他会不会这样描述她。
 **关键词**：protecting herself so effectively, occasionally cruel, ‘a little toxic’
-**为什么这样写**：三个短问句连排，最后一个把形容词加了引号，像在引用一句会被人贴上的标签。
+**为什么这样写**：两个短问句连排，后一个把形容词加了引号，像在引用一句会被人贴上的标签。
 **读者视角提示**：a little toxic 是她自己提前替自己写好的判词；同一天后半段的场面正朝这个词走过去。
 
 > **原句 4:** "My parents are having a fortieth wedding anniversary party. It’s in a couple of weeks and I wondered if you’d, uh, like to be my . . . plus one?"

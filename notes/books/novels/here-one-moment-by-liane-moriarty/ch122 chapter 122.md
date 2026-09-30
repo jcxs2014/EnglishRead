@@ -24,7 +24,7 @@ modified: "2026-09-30"
 
 > **原句 2:** "I never said it out loud, but I would do a quick analysis of the data available. The person’s age, gender, weight, whether they smoked, their wealth and social status, their hobbies (if I knew they engaged in extreme sports for example), lifestyle, diet and so on and so forth, and I would come up with a cause and age of death. For my own amusement."
 
-**中文理解**：她承认多年来一直在心里回答「我什么时候死」这类问题：把年龄、性别、体重、是否吸烟、财富与社交地位、爱好、生活方式、饮食逐项过一遍，然后给出一个死因与死亡年龄，理由写得很轻——为自己找点乐子。
+**中文理解**：她承认别人来问「我什么时候死」时，她总在心里作答：把对方的年龄、性别、体重、是否吸烟、财富与社交地位、爱好、生活方式、饮食逐项过一遍，然后给出一个死因与死亡年龄，理由写得很轻——为自己找点乐子。
 **关键词**：I never said it out loud, quick analysis, data available, cause and age of death, For my own amusement
 **为什么这样写**：把这份「秘密习惯」写成一个逐项打钩的清单，与开场那份「三种反应」的清单同构；末句把整份清单的重量一下子卸掉。
 **读者视角提示**：注意这一段是回忆里的「我」，不是航班现场——后面几段会把这份清单逐条对应到具体的人身上。

@@ -45,7 +45,7 @@ modified: "2026-09-30"
 
 > **原句 5:** "He stops. Sue looks at him, to check he’s not having a stroke. His dad’s last half-finished sentence was, ‘I feel like something is not –’ before he had the massive stroke that felled him."
 
-**中文理解**：丈夫 Max 的话没说完就停住，她担心他出事——因为上一次他这样，是在中风之前。
+**中文理解**：丈夫 Max 的话没说完就停住，她担心他出事——因为上一次这样停话的，是她公公，紧接着他就中了风。
 **关键词**：half-finished sentence, check he’s not having a stroke, massive stroke
 **为什么这样写**：前一句还是家常话，后一句直接跳到家族史里的那场中风，中间只用一句心理活动搭桥。
 **读者视角提示**：注意那个未完成的引号内的句子被作者截断在同一形状上——第二次停话，读者自己会把后半句补出来。

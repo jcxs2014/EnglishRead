@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **中文理解**：朋友解释了那个符号是谁发明的，又解释了自己名字和那位发明者同名——两件事撞在一起，才让那段记忆浮上来。
 **关键词**：My name is Leopold, this friend I got back in touch with, in a tutorial learning about Kronecker’s theory, “Leopold the Mathematical Genius!”
-**为什么这样写**：三个 but 把四层意思串成一条因果链，句尾用一句模仿的旧日台词收口；读者由此明白「叫出那个名字」为什么是关键，而不是巧合。
+**为什么这样写**：although 与 but 两处转折把四层意思串成一条因果链，句尾用一句模仿的旧日台词收口；读者由此明白「叫出那个名字」为什么是关键，而不是巧合。
 **读者视角提示**：本章正是上一段记忆被唤起之后的结果——解释者换了人，但两处提到的是同一次通话。
 
 > **原句 4:** ‘You think she uses a mathematical formula to tell the future?’
@@ -62,7 +62,7 @@ modified: "2026-09-30"
 **中文理解**：他不报警，也不开门，而是戴上耳机把音量拧到会伤耳朵的程度，然后等隔壁那个势利邻居先去报警。
 **关键词**：puts in his AirPods, permanent hearing damage, waits for the snooty neighbour in the opposite apartment to do it first
 **为什么这样写**：整句由三个动作串成，全部是回避：塞耳、放大、等别人代办；最后那个 to do it first 把责任也一并推了出去。
-**读者视角提示**：本章到此结束——前面那句「有人在敲门」被处理成一个关于房租与邻居的问题，死线那头的世界照旧往前走。
+**读者视角提示**：本章到此结束——前面那句「有人在敲门」被处理成一个要不要报警、以及让隔壁那个势利邻居先去报警的问题，死线那头的世界照旧往前走。
 
 ## 本章词汇
 

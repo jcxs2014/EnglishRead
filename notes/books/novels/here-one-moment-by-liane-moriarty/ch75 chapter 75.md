@@ -20,14 +20,14 @@ modified: "2026-09-30"
 **中文理解**：她说，在她十八岁生日后三天，一个多云、有风的星期六上午，她身上发生了一件非同寻常的事。
 **关键词**：extraordinary, cloudy, breezy, three days after my eighteenth birthday
 **为什么这样写**：extraordinary 出现在第一句里，而 cloudy、breezy 这两个词刻意把气氛写得毫无异样——非凡的是那件事，不是天气。作者先给出「反常」这个判断，再让读者等着看她怎么论证。
-**读者视角提示**：three days after my eighteenth birthday 里的三天是个空档，作者故意不解释它，留到后面补。
+**读者视角提示**：three days after my eighteenth birthday 里的三天是个空档，作者把它摆在那里，全章再没有解释过一次。
 
 > **原句 2:** I don’t mean to imply I only studied maths to honour Dad’s memory, and I would have preferred, for example, to be a ballet dancer. Imagine me dancing Swan Lake with my two left feet! That would defy the laws of physics.
 
 **中文理解**：她声明自己并不是说读数学只是为了纪念父亲，也不是说如果可以选她更想当芭蕾舞演员——想象她用两只左脚跳天鹅湖，那会违反物理定律。
 **关键词**：I don’t mean to imply, honour Dad’s memory, ballet dancer, defy the laws of physics
 **为什么这样写**：整句是双重否定加插入语，I don’t mean to imply 之后还跟了 and I would have preferred, for example, to be——for example 这个插入把「假如」二字摆到台面上。末句的 defy the laws of physics 是她自己明知道站不住的说法。
-**读者视角提示**：她在这里第二次预告「我用的是夸张的说法」——下一段她果然为夸张道歉。把这两处对照着看，就明白作者为什么敢把本章的调子定得这么轻。
+**读者视角提示**：她在这里第一次预告「我用的是夸张的说法」——紧接着的括号里她果然为夸张道歉。把这两处对照着看，就明白作者为什么敢把本章的调子定得这么轻。
 
 > **原句 3:** Everyone I knew thought my studies were useless, like learning a language nobody spoke. Maths, by the way, is a language, I would argue a beautiful one, and it’s the only universal language there is, because it’s the same all over the world.
 
@@ -62,7 +62,7 @@ modified: "2026-09-30"
 **中文理解**：但她相信，如果这种事发生在谁身上，谁都会懂。
 **关键词**：But I know, you will understand, ever happened to you
 **为什么这样写**：But 承接前一句的自我贬低，把话头扳回来。整句的分量落在 you 上——前面一直讲她自己的经历，这一句把读者拖进当事人位置。
-**读者视角提示**：她始终没有说出那件事到底是什么。整章的悬念不是「后来怎样」，而是「究竟是什么让你二十年还记得」。
+**读者视角提示**：她始终没有说出那件事到底是什么。整章的悬念不是「后来怎样」，而是「究竟是什么让你到今天还记得」。
 
 ## 本章词汇
 

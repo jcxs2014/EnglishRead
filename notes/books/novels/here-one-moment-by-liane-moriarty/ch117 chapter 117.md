@@ -62,7 +62,7 @@ modified: "2026-09-30"
 **中文理解**：两人都同意我们不是「欢乐寡妇」——为失去这样好的丈夫而欢乐，永远不可能——我们是「愤怒寡妇」，还半开玩笑地说要成立一个愤怒寡妇俱乐部。（我不想成立任何形式的社团。）
 **关键词**：not ‘merry widows’, never be merry, ‘angry widows’, forming an Angry Widows Club, I do not want to form a club of any sort
 **为什么这样写**：破折号把「不是欢乐寡妇」和具体理由夹在句中，读起来一顿一顿；括号里的自嘲把刚建立的小圈子立刻削掉半句，人物的声音因此立住。
-**读者视角提示**：这个「愤怒」是有来处的：Her husband had died two years before and she said she still felt angry at times about all the plans they had made which would never come to be。本章最后一段仍停在这个话题上，was trying to convince him to give up work for a year and move to Tasmania, and she thought he might have agreed, fingers crossed.——她的儿子正要像父亲那样一味拼命工作，而儿媳在劝他停下来一整年。
+**读者视角提示**：这个「愤怒」是有来处的：Her husband had died two years before and she said she still felt angry at times about all the plans they had made which would never come to be。本章最后一段仍停在这个话题上，was trying to convince him to give up work for a year and move to Tasmania, and she thought he might have agreed, fingers crossed.——那是 Mira 的儿子像父亲那样一味拼命工作，Mira 的儿媳在劝他停下来一整年。
 
 ## 本章词汇
 

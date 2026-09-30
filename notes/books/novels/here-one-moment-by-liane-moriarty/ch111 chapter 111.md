@@ -25,7 +25,7 @@ modified: "2026-09-30"
 
 **中文理解**：有一天他提起自己在跑步机上比平常更容易气喘，他猜那只是人老了。
 **关键词**：more breathless than usual, on the treadmill, just that he was getting old
-**为什么这样写**：a little more 与 usual 一起把症状压到最低，而「会不会只是老了」这个自我诊断正是他一贯处理坏消息的方式——下一段他还特意说明 He wasn’t experiencing chest pains。
+**为什么这样写**：a little more 与 usual 一起把症状压到最低，而「会不会只是老了」这个自我诊断正是他一贯处理坏消息的方式——紧接着的同一段里他还特意说明 He wasn’t experiencing chest pains。
 **读者视角提示**：这一段之后才是转折：The cardiologist kept Ned waiting for an hour.——全部的因果都压在这一句上。
 
 > **原句 3:** "My husband could not abide bad manners, all his students knew that. He left."

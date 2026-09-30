@@ -47,7 +47,7 @@ modified: "2026-09-30"
 
 **中文理解**：查了一年的问题，最后不是她有问题。
 **关键词**：That’s when, David had a zero sperm count
-**为什么这样写**：全章最短的一句被单独成段，前面是长达数页的期待，这里直接给出结果；That’s when 承上，句子剩下的位置全给一个医学名词。
+**为什么这样写**：这一句被单独成段，前面是长达数页的期待，这里直接给出结果；That’s when 承上，句子剩下的位置全给一个医学名词。
 **读者视角提示**：下一段紧跟着用一句更短的话把这件事推到零——作者连续用两次「零」字面，强调这里断掉的是可能性而不是希望。
 
 > **原句 6:** And then I saw it come to him: a reason to be angry. He said, ‘I bet you’re relieved. You never wanted children anyway. I overheard you tell that woman at Baashir’s party.’
@@ -55,7 +55,7 @@ modified: "2026-09-30"
 **中文理解**：她伸手想安慰，对方甩开她的手；紧接着她看清了他需要一个发火的理由，于是他翻出她在一次聚会上说过的一句闲话。
 **关键词**：a reason to be angry, I bet you’re relieved, at Baashir’s party
 **为什么这样写**：作者不写他为什么发火，写他「怎么找到一个理由」；a reason to be angry 这半句把指责拆成两步，读者能看见情绪怎样临时找到出口。
-**读者视角提示**：被翻出来的那句闲话，本章后面她才交代自己在更早的聚会上说过——时间差被作者拉长，说明这段婚姻里的旧账远比她以为的多。
+**读者视角提示**：被翻出来的那句闲话，本章并没有交代她当年到底说了什么——那句 Baashir 聚会的话在全书里只出现这一次，时间差被作者留着没填。
 
 > **原句 7:** It was Auntie Pat telling me Mum was unwell and had been refusing to go to the doctor for months now.
 

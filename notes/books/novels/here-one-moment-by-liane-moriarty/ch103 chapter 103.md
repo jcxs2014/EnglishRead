@@ -44,7 +44,7 @@ modified: "2026-09-30"
 
 > **原句 5:** "I think maybe Mum could already see Dad and she was telling him about it, because she said, ‘Oh, darling, isn’t she the funniest little thing?’"
 
-**中文理解**：叙述者给出一种猜测：母亲可能已经看见父亲，于是把孙女说给他听。
+**中文理解**：叙述者给出一种猜测：母亲可能已经看见父亲，于是把「那个最有趣的小东西」说给他听。
 **关键词**：I think maybe, could already see Dad, isn’t she the funniest little thing
 **为什么这样写**：猜测被放在 I think maybe 这样的软化标记里，作者不给读者断言；破折号后的 because 把猜测与证据分开，一个负责「可能是」，一个负责「所以她说了」。
 **读者视角提示**：这句里的 she 在本章没有明确的前文指代——作者用这种模糊把想象权交给读者。

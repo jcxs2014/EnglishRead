@@ -33,7 +33,7 @@ modified: "2026-09-30"
 **中文理解**：她看着它发生：两个男人喝完酒有点吵，Jill 心不在焉，过弯太快，车翻了三次才停下，三声闷响，三个人都没了，只剩她。
 **关键词**：I saw it happening, Jill distracted, The car flipping, Only me remaining
 **为什么这样写**：整段被切成一个一个短句，句号代替了叙述的呼吸，于是车祸在她的语速里发生得比现实更快；最后一句用一个方位词把幸存者的位置单独标出来。
-**读者视角提示**：紧接的一段揭晓真相——门铃响的时候站在门外的是 Ned，因为他 couldn’t let himself in。
+**读者视角提示**：隔了两段才揭晓真相——门铃响的时候站在门外的不是警察而是 Ned，因为他忘了带钥匙，进不了门。
 
 > **原句 4:** "I wanted to stay in my life for just a few seconds more."
 

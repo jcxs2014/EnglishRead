@@ -20,14 +20,14 @@ modified: "2026-09-30"
 **中文理解**：她看着孩子偷偷上游泳课，用「这不符合强迫行为的定义」说服自己不需要再找医生。
 **关键词**：Timmy’s multiple secret swimming lessons, do not fall under the definition of a compulsion, She does not need Dr Donnelly
 **为什么这样写**：她不是写「我今天没有反复做一件事」，而是搬出诊断书上的定义来给自己定罪或免罪；用词从生活层面升到医学层面，读者看见的是一套自我审查程序。
-**读者视角提示**：下一段紧跟着就被她自己否决了——她连医生会说什么都能背出来，定义在这里是循环论证，不是证据。
+**读者视角提示**：同一段紧跟着就被她自己否决了——她连医生会说什么都能背出来，定义在这里是循环论证，不是证据。
 
 > **原句 2:** Lisa snitched to their parents. ‘I conveyed information,’ she said. ‘I did not snitch.’
 
-**中文理解**：姐姐把她的事告诉了父母，却坚持自己只是「传达了信息」，不算告密。
+**中文理解**：妹妹把她的事告诉了父母，却坚持自己只是「传达了信息」，不算告密。
 **关键词**：Lisa snitched to their parents, ‘I conveyed information,’ I did not snitch
 **为什么这样写**：先直说告密，再用两句引号把同一个行为改名；convey 这个词的正式感与 snitch 的口语感形成落差，笑话因此出现在措辞而不是事件上。
-**读者视角提示**：姐姐在这章里始终是替妹妹遮掩的那一方——本章后段会交代，当场说出「你不会那么做」这句话的是她。
+**读者视角提示**：妹妹在这章里始终是替姐姐遮掩的那一方——就在前一段，当场说出「你不会那么做」这句话的也是她。
 
 > **原句 3:** Prior to then, there had been various therapists over the years, none of whom helped much, probably because they never got the full story. Paula excelled at secrecy.
 

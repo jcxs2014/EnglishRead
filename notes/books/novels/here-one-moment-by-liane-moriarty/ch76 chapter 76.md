@@ -34,7 +34,7 @@ modified: "2026-09-30"
 **中文理解**：她说自己一直觉得自己是个无聊但极其稳当的人，像一只结实的小拖船，不管水多颠都能自己扶正。
 **关键词**：boringly well-balanced, a solid little tugboat, right itself, choppy the waters
 **为什么这样写**：整句只用一个比喻，拖船的全部功能就是扶正自己——不抗浪、不逃跑、只把身子摆回来。这句话既是她对自己的评价，也是她后面几段自我说服的模板。
-**读者视角提示**：记住这个拖船。它在本章里出现两次，语气一次比一次不确定；下一段那个「她可能一直是拖船，只是因为海还没试过她」的想法，就是从这只船里长出来的。
+**读者视角提示**：记住这个拖船。它在本章里出现两次，语气一次比一次不确定；本章后面那个「她可能一直是拖船，只是因为海还没试过她」的想法，就是从这只船里长出来的。
 
 > **原句 4:** First Officer Jonathan Summers seems intent on seducing her even though it’s not necessary – the job’s done, Jonny – but the excellent lattice-topped pie was just the beginning.
 

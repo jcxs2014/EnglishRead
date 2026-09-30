@@ -19,7 +19,7 @@ modified: "2026-09-30"
 
 **中文理解**：婚后第一年她过得极幸福——前提是他其实很少出现。
 **关键词**：blissfully happy, didn’t see all that much of him
-**为什么这样写**：前后两句用 and 连接，把「极幸福」和「几乎见不到」绑成一个整体，而不是让步。
+**为什么这样写**：上一段先用一句把「极幸福」说死，这一段紧接着用另一句把「几乎见不到」摆出来——两句各占一段、互不相连，作者却用这种并置让读者自己把它们扣成一个整体，而不是让步。
 **读者视角提示**：这句是全章的引信——她把「不见面」写成了幸福的一部分，而不是问题。
 
 > **原句 2:** "I was a handsome surgeon’s wife with a double degree and an interesting job which no-one had suggested I needed to give up now that I was married (I was a career woman!), a twelve-piece dinner set and a fantastic sex life. I owned placemats and saucepans. I wore a diamond ring. I had it all worked out."
@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **中文理解**：婆婆每天在门口放一盒吃的，先做丈夫爱吃的，后来才做她爱吃的。
 **关键词**：box of food left by Michelle, red rice cakes, all my favourites
-**为什么这样写**：一句里先给数量（almost never without）再给内容，照顾落在一个具体动作上。
+**为什么这样写**：一句里先给频率再给内容，照顾落在一个具体动作上。
 **读者视角提示**：接着的插话写她母亲对「天天进厨房收拾」的反应——两种母爱在同一间厨房里相撞。
 
 > **原句 4:** "If you believe in saju, you believe your destiny is decided by the conditions of your birth,’ explained Michelle. ‘And therefore cannot be changed.’"
@@ -54,7 +54,7 @@ modified: "2026-09-30"
 
 **中文理解**：一个人在家庭里作出决定之后，那个决定就有了自己的动量，很难被拦下。
 **关键词**：decision has momentum, can rarely be stopped
-**为什么这样写**：全章最后一句是一句通则，替读者把这一段的意义说尽；它不评价谁对，只说动量。
+**为什么这样写**：这句是一句通则，替读者把这一段的意义说尽；它不评价谁对，只说动量，而全章真正的落点是紧随其后那一句「我们搬了」。
 **读者视角提示**：这句之后紧跟的是「他们真的搬了」——动量不停，正文没有给留下异议的余地。
 
 ## 本章词汇
