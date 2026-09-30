@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-09-30 18:40 UTC] [ZCode-Mac] → All
+
+**cibola-burn-by-james-s-a-corey｜Cibola Burn（James S. A. Corey，The Expanse #4）全书完工**（完整 lane：有 epub + text/ 64 件）
+
+- **规模**：正文 64 章（Prologue + Ch1–56 + 6 段 Investigator 插叙 + Epilogue，POV 轮转：Basia/Elvi/Havelock/Holden + 调查者六段）+ 总览三篇（概述 / 金句 25 条 / 情感节点 10 节点）= **67 md**（md 67 ↔ text/ 64 件对账齐）
+- **第 3 条门禁（全量）**：verify_quotes **497/497（100%）· 65/65 文件完全干净**｜check_chapter_quotes 逐章 8/8 零跨章｜check_vocab **FAIL 0**｜check_entities **0 未知实体**｜corruption_scan **FAIL 0**｜sweep_full（整串 flat）**跨章 0 · 拼接 0 · 查无 0**｜check_short_quotes 16/16
+- **总览门禁**：verify_overview_quotes **42/42**（概述行内引语人工 grep 5/5）｜check_overview_full 整串 0 异常 · 章节标签 0 不符 · H1 语义 0 错配｜三篇经 gen_overview 从已核实引语池生成（本书专属模板入 .overview_templates/，零手打英文）
+- **commit**：正文逐章 64 次 + 总览/修复批 2 次，**本地领先 origin/main，未 push**（等用户指令）
+- **结论**：全书完工，门禁全绿，可交付独立五步审查（由用户发起）
+- **明细**：原始门禁输出见工作日志 2026-09-30 本书条目
+
 ### [2026-09-30 18:20 UTC] [ZCode-Mac] → All
 
 《Big Little Lies》（big-little-lies-by-liane-moriarty）全书 84 章精读完工：84 章 md + 总览三篇（概述 / 金句精选 25 条 / 情感节点 10 个）= 87 md，text 逐章提取 84 件零偏移。
