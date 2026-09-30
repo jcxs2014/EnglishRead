@@ -105,6 +105,47 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| deflecting | （推卸）甩锅 | She’d prefer to speak with Miss Barnes, who would be more likely to believe that this wasn’t a case of Ziggy simply deflecting the blame by pointing the finger at someone else. |
+| impatience | （自己的）急不可耐 | Jane’s impatience simply reflected her own desire to tattle. |
+| underhanded | （背后）偷偷摸摸的 | There was something awful and underhanded about going behind her back. |
+| straightaway | （第一时间）就说 | He was also pretty dumb for not telling on Max straightaway and because he seriously seemed to think writing down a name didn’t count as telling, but he was five, and he was a kid in desperate need of a loophole. |
+| differentiate | （分辨）双胞胎 | Apart from Max’s birthmark, she couldn’t differentiate between Celeste’s boys. |
+| uncomplicated | （简单不费脑的）孩子 | With their boundless energy and big cheeky grins, they’d always seemed like such uncomplicated children, unlike Ziggy, who was so often unreadable and brooding. |
+| unreadable | （总是）读不懂的 | With their boundless energy and big cheeky grins, they’d always seemed like such uncomplicated children, unlike Ziggy, who was so often unreadable and brooding. |
+| exhausting | （体力上）费人 | Celeste’s boys seemed like the sort of children who needed to be fed and bathed and run about: physically exhausting, but not mentally draining, the way a secretive little boy like Ziggy could be. |
+| frustrated | （偶尔的）烦躁 | She knew exactly how Madeline would react (crazily, loudly), but she had never seen Celeste really angry with her boys; of course she got frustrated and impatient, but she never shouted. |
+| preoccupied | （常常）神游 | Celeste so often seemed jumpy and preoccupied, startled by the existence of her children when they suddenly ran at her. |
+| vigorously | （使劲）挠 | He was vigorously scratching his head with one hand while he crouched down to examine something important he’d seen in the grass. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| outraged | （愤然）弹回 | He was outraged, horrified. |
+| foolishly | （勇敢而）愚蠢地 | He’d been anxious because he’d been bravely and foolishly carrying a secret. |
+| desperate | （急需）一个空子 | He was also pretty dumb for not telling on Max straightaway and because he seriously seemed to think writing down a name didn’t count as telling, but he was five, and he was a kid in desperate need of a loophole. |
+| loophole | （规则的）空子 | He was also pretty dumb for not telling on Max straightaway and because he seriously seemed to think writing down a name didn’t count as telling, but he was five, and he was a kid in desperate need of a loophole. |
+| genuinely | （真的）可能 | And had Amabella genuinely believed that was a possibility? |
+| identical | （以为性格也）一模一样 | She’d thought their personalities were identical too. |
+| boundless | （用不完的）精力 | With their boundless energy and big cheeky grins, they’d always seemed like such uncomplicated children, unlike Ziggy, who was so often unreadable and brooding. |
+| brooding | （总是）心事重重 | With their boundless energy and big cheeky grins, they’d always seemed like such uncomplicated children, unlike Ziggy, who was so often unreadable and brooding. |
+| secretive | （满腹心事的）小孩 | Celeste’s boys seemed like the sort of children who needed to be fed and bathed and run about: physically exhausting, but not mentally draining, the way a secretive little boy like Ziggy could be. |
+| startled | （被扑面而来）吓一跳 | Celeste so often seemed jumpy and preoccupied, startled by the existence of her children when they suddenly ran at her. |
+| downright | （纯粹）烦人 | They’re just downright annoying, that’s all. |
+| crawling | 爬满（虱子） | Ziggy is crawling with nits! |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| psychopath | 反社会人格 | And you’re not a psychopath! |
+| hero | 英雄 | He was a hero. |
+| hilarious nickname | （把名字当）好笑的绰号 | Ponder said “Ziggy” like it was a hilarious nickname. |
+
 ## 一句话总结
 
 车里的真相全景交付——「趁没大人看再来一次」的威胁、「所以她指了我」的顶罪、「她说抱歉我说没关系」的原谅，把三个月的悬案一次性结清；Ziggy 弹回车里更正「我没告诉你」，Jane 在心里写下新的判词「他不是恶霸，是英雄」，而玫瑰枝上那只虱子，正被 Mrs. Ponder 的播音级嗓音送进 Thea 的耳朵。
