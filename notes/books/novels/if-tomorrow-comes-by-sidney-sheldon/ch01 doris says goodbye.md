@@ -25,14 +25,14 @@ modified: "2026-09-30"
 > **原句 2:** Dear God, we’re talking about the weather, Doris Whitney thought, when there’s so much I want to tell her. And can’t.
 
 - **中文理解**：天哪，我们正在谈天气——Doris 想——而我有那么多话要对她说，却不能说。
-- **关键词**：we're talking about the weather · so much I want to tell her · And can't
-- **为什么这样写**：前半句是完整的、甚至有点可笑的抱怨，后半句被切成两个词独立成句。And can't 不接主语、不成完整语法，因为它在 Doris 脑子里根本说不出口——句子形态就是它的命运。
+- **关键词**：we’re talking about the weather · so much I want to tell her · And can’t
+- **为什么这样写**：前半句是完整的、甚至有点可笑的抱怨，后半句被切成两个词独立成句。And can’t 不接主语、不成完整语法，因为它在 Doris 脑子里根本说不出口——句子形态就是它的命运。
 - **读者视角提示**：本章第一次出现「两层」结构：嘴上谈天气，心里在告别。后面所有对话都要读两遍。
 
 > **原句 3:** Doris Whitney stared out the window. “It’s raining.” And she thought, How melodramatically appropriate. Like an Alfred Hitchcock movie.
 
 - **中文理解**：Doris Whitney 望向窗外。「在下雨。」她想，多么戏剧化的恰到好处，像一部 Alfred Hitchcock 的电影。
-- **关键词**：stared out the window · It's raining · melodramatically appropriate
+- **关键词**：stared out the window · It’s raining · melodramatically appropriate
 - **为什么这样写**：她要回答女儿的问题，但先有一个 stared（盯着看）的停顿——雨不是天气预报，是道具。melodramatically（过度戏剧化地）是作者让 Doris 自己给自己的死配评论：她知道这一幕有多俗套，并且还是走进了俗套。
 - **读者视角提示**：Hitchcock 的名字在本章出现，是把这一场读成类型片的邀请；下一段那声雷就是「配乐」进场的信号。
 
@@ -53,8 +53,8 @@ modified: "2026-09-30"
 > **原句 6:** You’re in perfect health, Doris, were Dr. Rush’s words. You’ll live to be a hundred. One of life’s little ironies.
 
 - **中文理解**：「你身体完全健康，Doris，你会活到一百岁」——这是 Rush 医生说的话。人生的一点小讽刺。
-- **关键词**：in perfect health · live to be a hundred · One of life's little ironies
-- **为什么这样写**：全章唯一的医学信息被压成一句被回忆的医生原话，而且不给诊断、不给病因。were Dr. Rush's words 用倒装把它挂成一条引用而非叙述，读者和 Doris 一样只拿到结论。
+- **关键词**：in perfect health · live to be a hundred · One of life’s little ironies
+- **为什么这样写**：全章唯一的医学信息被压成一句被回忆的医生原话，而且不给诊断、不给病因。were Dr. Rush’s words 用倒装把它挂成一条引用而非叙述，读者和 Doris 一样只拿到结论。
 - **读者视角提示**：这一句是全书最大悬念的锚：一个百病不侵的人为什么今晚要死。别在本章找答案。
 
 > **原句 7:** There was a loud clap of thunder, like an offstage cue. It was time. There was nothing more to say except a final farewell.
@@ -93,10 +93,10 @@ modified: "2026-09-30"
 | grown dear | 变得亲昵珍贵 | Doris Whitney looked around the bedroom for the last time to make certain that the pleasant room, grown dear over the past thirty years, was neat and tidy. |
 | wrapped in her thoughts | 沉浸在自己的思绪里 | Too deeply wrapped in her thoughts, Doris had not been aware of it. |
 | forced a note of cheerfulness | 硬挤出愉快的语气 | She forced a note of cheerfulness into her voice. |
-| institution | 老牌子、名门（喻指历史悠久不可动摇的机构或家族） | "They're an institution." |
+| institution | 老牌子、名门（喻指历史悠久不可动摇的机构或家族） | “They’re an institution.” |
 | butterflies | （紧张时的）心里发慌、七上八下 | "I have butterflies the size of dinosaurs." |
 | adore | 爱慕、极喜欢 | "He loves me. And I adore him." |
-| teased | 打趣、取笑 | "Got a boyfriend yet?" Tracy teased. |
+| teased | 打趣、取笑 | “Got a boyfriend yet?” Tracy teased. |
 | receiver | 电话听筒 | And Doris Whitney carefully replaced the receiver. |
 | squeezed the trigger | 扣扳机 | She raised the gun to her temple and squeezed the trigger. |
 
@@ -105,8 +105,8 @@ modified: "2026-09-30"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | bedside table | 床头柜 | She opened the drawer of the bedside table and carefully removed the gun. |
-| weather | 天气 | "Charles and I were going out for dinner, but the weather's too nasty." |
-| fairy tale | 童话 | "I feel like a princess in a fairy tale, Mother," Tracy said. |
+| weather | 天气 | "Charles and I were going out for dinner, but the weather’s too nasty." |
+| fairy tale | 童话 | “I feel like a princess in a fairy tale, Mother,” Tracy said. |
 | final farewell | 最后的告别 | There was nothing more to say except a final farewell. |
 | storm | 暴风雨 | New Orleans was having a storm. |
 | umbrella | 雨伞 | She would not need an umbrella. |
