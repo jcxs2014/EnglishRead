@@ -27,7 +27,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 2:** "How strange. I’d never intended to share my gift with Iris. But now it feels as if a mass of toxic clutter has gone from my house. Guilt is corrosive; and loneliness. I had no idea how much, until now. But Iris understands. She says I don’t have to fear my power. As long as I keep control of it, and don’t use it when I’m upset. Mr Davis was a mistake. Woody was better. I stayed in control. The man in the baseball cap proves that."
+> **原句 2:** "How strange. I’d never intended to share my gift with Iris. But now it feels as if a mass of toxic clutter has gone from my house. Guilt is corrosive; and loneliness. I had no idea how much, until now. But Iris understands. She says I don’t have to fear my power. As long as I keep control of it, and don’t use it when I’m upset. Mr Davis was a mistake. Woody was better. I stayed in control. The man in the baseball cap proves that. And I am learning all the time; learning through experience. Of course I am. It takes practice. The Great Carovnik must have spent thousands of hours perfecting her craft. Maybe she started when she was small. Maybe she broke dishes. I don’t break things. Not anymore. I only suggest that people buy books by underrepresented groups. That selfish men treat their wives gently. That parents teach their sons respect."
 
 **中文理解**： 她也说不清为什么：她从没打算把这个本事告诉 Iris，但现在感觉像家里搬走了一大堆有毒的杂物。内疚是腐蚀性的，孤独也是——直到现在她才知道这份孤独有多重。而 Iris 懂她，说她不必怕自己的力量，只要还控制得住、不在情绪激动的时候用。Mr Davis 是场意外，Woody 那次更漂亮，她全程都在控制之内；戴棒球帽的那个男人就是证明。她还在学，而且要练；她现在不摔东西了，只是建议人们买那些代表不足的群体的书，建议自私的男人对妻子温柔一点，建议父母教儿子尊重人。
 
@@ -43,11 +43,11 @@ modified: "2026-09-30"
 
 **中文理解**： 她原本以为 Woody 只是来接车的，也希望丈夫能把这事打发了，等她回家人已经走了；结果六点她回到家，车还停在门外，人在客厅里和 Martin 一起看电视。他们叫了咖喱而不是披萨，而他那件 T 恤上写着「想让我眨眨眼就眨一下」。除了那件衣服，其余一切和那晚一模一样，她心里一阵发凉。Martin 带着歉意告诉她：他说可以让 Woody 在家里住几天，等好些了再走；家里反正空着客房，而他还在发惊恐发作。她什么也没得说——丈夫已经替她把问题回答完了。
 
-**关键词**： an apologetic look（一个带着歉意的眼神）· we’ve got the guest room going spare（家里反正空着客房）· he’s still having those panic attacks（他还在发惊恐发作）· He’d already answered my question for me（他已经替她把问题回答完了）
+**关键词**： an apologetic look（一个带着歉意的眼神）· we’ve got the guest room going spare（家里反正空着客房）· he’s still having those panic attacks（他还在发惊恐发作）
 
 **为什么这样写**： 这段的恐怖全在对照词里：「本来以为」和「结果」、「本该睡着的人」和「坐在客厅看电视」。而那句「出了事的那晚的一切都一模一样，只除了一件 T 恤」把惊悚做成了服装批注——最可怕的不是相似，是相似得如此具体。最后一句更冷：她还没开口，问题就已经被回答了，责任已经自动落到她身上。
 
-**读者视角提示**： 客房原本是儿子 Dante 的房间。这个事实本章没有点破，但它决定了下一章 Woody 那天早上被带走的是谁的东西。
+**读者视角提示**： 客房原本是儿子 Dante 的房间——这个事实在本章紧邻的上一段就写明了（那间房原属他们的儿子）。它决定了下一章 Woody 那天早上被带走的是谁的东西。
 
 ---
 

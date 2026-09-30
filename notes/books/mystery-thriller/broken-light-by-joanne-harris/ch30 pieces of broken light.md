@@ -9,7 +9,7 @@ modified: "2026-09-30"
 
 - **一句话概括**：4 月 3 日（周日）。她跟着社区跑步团进了公园，在人群的密度里第一次发现自己不必伸手也能读到别人：有人怀孕六周、有人正在恋爱、有人在替死者跑步。可当她在封锁线外的长椅上坐下时，那股兴奋突然变成了眼泪——她知道了死者女儿的名字、年龄、生日，和那只被留下的泰迪熊；她读到了一个人的一生，却答不出「谁杀了她」。
 - **情感弧线位置**：全书最幸福也最危险的一章。能力第一次在公共场合批量生效，且无需接触；同一天，她第一次因为读到的东西而崩溃。
-- **线索伏笔**：① 死者丈夫的名字 Stephen 与那笔要做纪念牌的募款；② 长椅旁那张卡片上的孩子年龄（六岁，7 月 3 日生日）与名字来源；③ 跑步团里那张印着号码的塑封卡与扩音喇叭；④ 那句自我诘问——能力若不能指出凶手，对调查毫无用处；⑤ 最后一页收音机里的被捕消息；⑥ 丈夫一早就出门去替 Woody 取东西，家里只剩她一个人，广播恰在这时候响起来。
+- **线索伏笔**：① 死者丈夫的名字 Stephen 与那笔要做纪念牌的募款；② 长椅上读到的东西：死者女儿的名字来源、六岁、7 月 3 日生日，以及留下的泰迪熊与小卡片；③ 跑步团里那张印着号码的塑封卡与扩音喇叭；④ 那句自我诘问——能力若不能指出凶手，对调查毫无用处；⑤ 最后一页收音机里的被捕消息；⑥ 丈夫一早就出门去替 Woody 取东西，家里只剩她一个人，广播恰在这时候响起来。
 - **人物弧线**：她在这一章两次说出「我的天赋有什么用」，一次是抱怨，一次是诘问；本章把这个诘问留到下一章，由她自己动手去回答。
 - **叙事手法**：明线（跑步、献花、长椅）与暗线（能力的技术说明）交替推进；长椅上那段肖像用一串反问排比制造连击，最后用两个短句（雨是热的／我这才发现自己在哭）把节奏骤然打断。
 
@@ -39,7 +39,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 3:** "Will her husband – Stephen, is it? – will he make sure they remember that she used to make pizza? That she always used to arrange the toppings to look like faces? That she liked nineties electronica? That she used to wash her hair in something that smelt of pineapple? That she once farted audibly when they were watching The Lion King, and they never let her forget it, and sometimes called her Pumbaa? That she loved to dance? That she’d once spent a summer working in a jam factory, and had never eaten jam since?"
+> **原句 3:** "The cordoned-off place where Jo Perry died has been lined with floral offerings. A teddy bear. A handwritten card that reads: Dear Mummy. I love you. I find a nearby bench and sit, in spite of the needling rain. She was a mother too, I think. I wonder about her children. I wonder what they will remember of her, apart from the fact that she was murdered. Will her husband – Stephen, is it? – will he make sure they remember that she used to make pizza? That she always used to arrange the toppings to look like faces? That she liked nineties electronica? That she used to wash her hair in something that smelt of pineapple? That she once farted audibly when they were watching The Lion King, and they never let her forget it, and sometimes called her Pumbaa? That she loved to dance? That she’d once spent a summer working in a jam factory, and had never eaten jam since? That she was terrified of wasps? That she used to sleep with one foot hanging out of bed, whatever the climate or season?"
 
 **中文理解**： 被封锁的那块地上摆满了献花、一个泰迪熊、一张写着「亲爱的妈妈，我爱你」的手写卡片。她在雨里坐下，替那位死者也做了一遍同样的推想：她也是一位母亲；那么她丈夫呢——Stephen，是这个名字吧——他会不会确保孩子们记得，她做披萨时总把配料摆成一张张脸；记得她喜欢九十年代的电子乐；记得她用一股菠萝味的东西洗头；记得有一回全家看《狮子王》时她放了一个很响的屁，从此没完没了被拿来开玩笑，他们有时叫她 Pumbaa；记得她爱跳舞；记得她有一年夏天在果酱厂打工，从那以后再也不碰果酱；记得她怕黄蜂；记得她睡觉总有一只脚垂在床外，不管什么季节、什么气温。
 

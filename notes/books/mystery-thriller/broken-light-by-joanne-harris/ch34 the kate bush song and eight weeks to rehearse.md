@@ -39,7 +39,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 3:** "Martin stopped. He looked at me for a moment, then grinned. ‘You’re right,’ he said. ‘You can’t sing.’"
+> **原句 3:** "Martin stopped. He looked at me for a moment, then grinned. ‘You’re right,’ he said. ‘You can’t sing.’ And then he stood up, and kissed me very gently on the mouth, and such was my astonishment that it never occurred to me that this moment would shape the dynamic of our entire relationship."
 
 **中文理解**： 他停下来，看了她一会儿，然后咧嘴笑：你说得对，你不会唱。接着他站起来，轻轻吻了她一下——而她当时惊呆到根本没有想到，这一幕会定下他们整段关系的格局。
 

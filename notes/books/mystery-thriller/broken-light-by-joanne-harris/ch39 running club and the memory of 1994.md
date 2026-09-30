@@ -39,7 +39,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 3:** "Maybe it’s because it’s still so dark. Darkness is confessional. Darkness encourages secrets."
+> **原句 3:** "I mentioned the Pog Hill reunion again this evening, at the running club. Leonie and the others are always so easy to talk to, and when we’re running (at the gentle pace Alex says should allow for conversation), I find myself confiding in them rather more than perhaps I ought. Maybe it’s because it’s still so dark. Darkness is confessional. Darkness encourages secrets."
 
 **中文理解**： 也许是因为外面还那么黑。我们跑步的时候——用 Alex 说那种适合聊天的慢速——我向她们吐露的东西比应该的更多。也许就是因为天还黑。黑暗是忏悔的。黑暗鼓励秘密。
 
@@ -87,7 +87,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 7:** "It seems very simple to someone her age. Young people think in absolutes. But love is a trap that closes very, very slowly. Not like the Venus flytrap, in spite of its more suitable name, but more like the cobra lily, that guides its victim gently downwards into the killing jar."
+> **原句 7:** "It seems very simple to someone her age. Young people think in absolutes. But love is a trap that closes very, very slowly. Not like the Venus flytrap, in spite of its more suitable name, but more like the cobra lily, that guides its victim gently downwards into the killing jar. And yes, I thought I could change him. Girls in stories so often do. Through strength and perseverance, they tame the beast; they rescue the boy from the embrace of the Snow Queen. But not this girl. She just got old, and the boy stayed just as he was, seeing the world through a shard of ice that could not be melted."
 
 **中文理解**： 在 Salena 那个年纪的人看来，这事似乎很简单。年轻人想的是绝对值。可爱是一个陷阱，它闭合得非常、非常慢。不是捕蝇草那样，尽管捕蝇草的名字更贴切；更像的是眼镜蛇百合，它把猎物温温柔柔地引下去，落到那个致命的罐子里。是的，我以为我能改变他。故事里的女孩常常这样：靠着坚强和坚韧，她们驯服野兽；她们把男孩从冰雪女王的怀抱里救出来。但不是这个女孩。她只是变老了，而那个男孩还是老样子，隔着一片融不化的冰看着世界。
 

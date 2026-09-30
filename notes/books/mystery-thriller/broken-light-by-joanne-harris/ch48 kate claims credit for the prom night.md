@@ -7,7 +7,7 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：1992 线开口。凯特·赫姆斯沃斯替那年的 Pog Hill 夏季舞会辩护：她先喊出「这事得给我记一笔，我没有抢伯妮的男朋友」，再补上自己的凭据（男朋友 Simon Naylor、百万富翁街、坐他父亲的车）；照片里她穿着露背金色 lamé 礼服被人盯着看，而伯妮·穆恩穿一条像母亲衣服的黑裙——她不知道那时伯妮已经怀孕。台前主唱的位置本来空着，她站了上去；散场前她望向侧幕，看见 Adam Price 正在看她，于是写下那句「他只是校工的男孩」。
+- **一句话概括**：1992 线开口。凯特·赫姆斯沃斯替那年的 Pog Hill 夏季舞会辩护：她先喊出「这事得给我记一笔，我没有抢伯妮的男朋友」，再补上自己的凭据（男朋友 Simon Naylor、百万富翁街、坐他父亲的车）；照片里她穿着露背银色 lamé 礼服被人盯着看，而伯妮·穆恩穿一条像母亲衣服的黑裙——她不知道那时伯妮已经怀孕。台前主唱的位置本来空着，她站了上去；散场前她望向侧幕，看见 Adam Price 正在看她，于是写下那句「他只是校工的男孩」。
 - **情感弧线位置**：全书另一条时间线的起点，也是「另一种证词」的起点：2022 线的开篇是被人剪掉的人如何记住自己，这一章则是没有被剪掉的人如何讲述那一晚。两边的记忆互为反证，读者在这一章终于拿到对照本。
 - **线索伏笔**：① 舞会照片上凯特与怀孕的伯妮同时在场，凯特却只登记了衣服；② 乐队四人名单（Martin 贝斯、Lucas Hemsworth 吉他、Andrew Whelan 钢琴、Joss Lively 打鼓）与被补上的主唱位；③ Adam Price 被降格成校工的男孩，而伤害由她一句「他能拿我怎样」启动；④ 她与 Lucas 已有孩子这件事只用一句带过，她自己却说自己像身处彩虹世界里的色盲。
 - **人物弧线**：凯特此刻是全场中心，也是全书已知提问方式最错的人。三十年后她在 Malbry 教戏剧课，语气里没有悔意，只有把提问方式校正一遍的冷静。
@@ -72,7 +72,7 @@ modified: "2026-09-30"
 | colour-blind | 色盲的；此处比喻身处多彩世界却完全感受不到 | I feel as if I’m colour-blind in a world of rainbows. |
 | personified | 拟人化；此处指某个抽象概念的化身 | I was Promise, personified; sparkling in silver lamé. |
 | luminous | 发光的、明亮的（lumin- 光） | And for an hour, it was magical; gilded in that luminous way that certain memories evoke. |
-| lamé | 金银线织物；lamé dress 即金色亮片晚礼服 | I was wearing a backless lamé dress cut low to the very small of my back, and although it had quite a high neckline, I knew it was making people stare. |
+| lamé | 金银线织物；lamé dress 即银色亮片晚礼服（原文是 silver） | I was wearing a backless lamé dress cut low to the very small of my back, and although it had quite a high neckline, I knew it was making people stare. |
 
 ### ⭐⭐ 进阶
 

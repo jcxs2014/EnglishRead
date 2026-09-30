@@ -15,7 +15,7 @@ modified: "2026-09-30"
 
 ## 精读
 
-> **原句 1:** "Four years ago, Emma Button was a teacher trainee at The Murray School. Graham Crawley, then newly divorced, had asked her out for a couple of drinks. Emma refused. She describes what ensued as a barrage of emails, texts and letters, plus unsolicited flowers and gifts that made her feel uncomfortable. Finally, Emma Button had complained to the deputy head. He had told her that Graham was going through a bad patch, and that she should be more understanding. But after weeks of harassment, during which Graham Crawley had spent whole evenings parked outside her house in his silver Audi, she had complained to her tutor, who had quietly transferred her away from The Murray School into a different post."
+> **原句 1:** "Four years ago, Emma Button was a teacher trainee at The Murray School. Graham Crawley, then newly divorced, had asked her out for a couple of drinks. Emma refused. She describes what ensued as a barrage of emails, texts and letters, plus unsolicited flowers and gifts that made her feel uncomfortable. Finally, Emma Button had complained to the deputy head. He had told her that Graham was going through a bad patch, and that she should be more understanding. But after weeks of harassment, during which Graham Crawley had spent whole evenings parked outside her house in his silver Audi, she had complained to her tutor, who had quietly transferred her away from The Murray School into a different post. I read about the arrest, she says. I recognized the name straightaway. They knew he was a problem, even then. I can’t help thinking, that could have been me."
 
 **中文理解**： 四年前，Emma Button 是 The Murray School 的见习教师。当时刚离婚的 Graham Crawley 请她出去喝了几杯酒，Emma 拒绝了。她把随后发生的事形容为邮件、短信和信件的一阵连珠炮，外加让她感到不适的、不请自来的鲜花和礼物。最后她向副校长投诉，对方却说 Graham 正处于人生低谷，她应该更体谅一些。可是骚扰持续了几周——其中他曾整晚把车停在她家门外，停在车里那辆银色奥迪上——她改向自己的导师投诉，导师不动声色地把她调离了 The Murray School，换到别的岗位。她说：我在新闻里看到逮捕消息时，一眼就认出了那个名字。他们当时就知道他是个问题。我忍不住想，那个人也可能是我。
 
@@ -63,7 +63,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 5:** "Dante first. I miss Dante. But this is nothing new; I’ve missed him every day for the past ten years. Last night, he went to a movie with friends. The Batman. Popcorn and tortilla chips. No pictures of his friends, but there is a picture of Dante, holding two enormous cups of crushed ice and soda. He has grown a beard since I last saw him."
+> **原句 5:** "Dante first. I miss Dante. But this is nothing new; I’ve missed him every day for the past ten years. Last night, he went to a movie with friends. The Batman. Popcorn and tortilla chips. No pictures of his friends, but there is a picture of Dante, holding two enormous cups of crushed ice and soda. He has grown a beard since I last saw him. He is laughing. I haven’t heard my son laugh since he was a boy. I wonder if my mother has. He’ll be at her house for Easter. I sometimes imagine what that must be like – the friends, the food, the laughter. I wonder what it would have been like if –"
 
 **中文理解**： 先看的是 Dante。我想念 Dante。但这也不是新鲜事——过去十年里我每天都在想他。昨晚他和朋友们去看电影，是 The Batman，吃爆米花和玉米片。照片里没有他的朋友，只有一张 Dante 的：手里举着两大杯碎冰加汽水。他自上次见面之后留了胡子。他在笑。我已经很久没听过我儿子笑了，还是孩子的时候才听过。我不知道我母亲有没有听过。复活节他会在她那里。我有时会想象那是什么样——那些朋友，那些食物，那些笑声。我会想，如果当初——别想了。
 

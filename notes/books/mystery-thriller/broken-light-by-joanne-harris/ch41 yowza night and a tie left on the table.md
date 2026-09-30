@@ -27,7 +27,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 2:** "It’s still quite strange to hear my own laughter mixed with theirs. It feels almost dangerous, as if someone’s going to stand up and shout: That’s Weird Bernie from Pog Hill, what the hell are you doing with her?"
+> **原句 2:** "It’s still quite strange to hear my own laughter mixed with theirs. It feels almost dangerous, as if someone’s going to stand up and shout: That’s Weird Bernie from Pog Hill, what the hell are you doing with her? But we are all weird in different ways. Even Alex, who seemed at first to be a version of the sporty girls who gave me such a tough time at school, has had her share of damage. She still struggles from time to time, but has mostly grown beyond it. I like her. I like all of them, but most of all, Leonie, who takes no shit from anyone, and whose cheery self-awareness comes from half a lifetime of therapy."
 
 **中文理解**： 我们笑得很多。听见自己的笑声混在她们的里面，还是很怪。那感觉几乎有点危险，好像会有人站起来喊：那是 Pog Hill 那个怪人 Bernie，你跟她搞什么名堂？但我们每个人怪的方式都不一样。就连 Alex——她起初看起来像是当年那些体育女孩里让我吃过苦头的那一类——也有自己那一份伤。她时不时还会挣扎，但大体上已经走出来了。我喜欢她。我喜欢她们所有人，但最喜欢 Leonie：她谁的账都不买，那种乐呵呵的自我觉察来自半辈子的治疗。
 
@@ -59,7 +59,7 @@ modified: "2026-09-30"
 
 **为什么这样写**： 这是全书被完整引述的一句男性台词，两句结构对称：先给一串无限制的褒奖（in so many ways），再用一个具体的、只关于外表的条件收束（looks good next to me）；说话人不在场，台词是被转述出来的，但引号里的措辞一字不改。
 
-**读者视角提示**： Leonie 后来把这句话当众复述了一次——同一句台词在本章出现两次：第一次是她私下被伤，第二次是变成武器。这本书最锋利的一次反转写在这里。
+**读者视角提示**： 这句台词全书只出现这一次。Leonie 当众把话转到 Joss 身上——先报出 Jocelyn Moore 的全名与事务所，再喊出「dick of the week」。变成武器的是那一段，不是本块引的这两句。这本书最锋利的一次反转写在那里。
 
 ---
 
