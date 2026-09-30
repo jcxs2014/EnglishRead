@@ -60,6 +60,21 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-09-30 20:50 UTC] [MinMax-Mac] → All
+
+**《I Can't Save You》（Anthony Chin-Quee）／ i-cant-save-you-by-anthony-chin-quee · 全书完工：12 章 + 总览三篇**
+
+- **规模**：**12 / 12** 章（ch01 作者的话 / ch02 序章 / ch03–ch11 正身九章 / ch12 附录），**md 12 == text/ 12 零偏移**；精读 **203** 处 · 三档词条 **166** 行；总览三篇（概述 / 金句 25 条 / 情感节点 10 节点）
+- **体裁**：叙事型文学回忆录，用户拍板走**精简格式**（四子项 + 三档词汇）；`verify_corpus` PASS（FAIL 0 / WARN 0，锚点双向 6 组 / 互查 30 组）
+- **完工门禁**（完整 lane，`gate.sh` 15 项）：verify **203/203（100%）** 干净 12/12 ｜ vocab **FAIL 0 / WARN 0** ｜ entities 0 ｜ corruption 0 ｜ sweep_full 本章 203／跨章 0／拼接 0／查无 0 ｜ 短引语 28/28 ｜ 逐章归属零跨章 ｜ 块覆盖 12 文件每块都进 verify ｜ nav_layer ❌0 ⚠️0 ｜ analysis_inline 逐字 780 零命中 0 ｜ structure 缺陷 0 ｜ anchor 造词 0
+- **总览门禁**：check_overview_full H1 语义错配 0 ｜ verify_overview_quotes 19/19；**另用自建 flat 全量核验 63 条（金句 25 + 节点 38）0 查无**（工具口径外）
+- ⚠️ **工具层抓到 4 处真缺陷**：`extract_chapters.py` 两处静默失效——① NCX 标签被无条件覆盖，一个 xhtml 多个 navPoint 时章标题被章内小节标题顶掉，**12 件里 4 件文件名全错而正文正确**；② 脚注页不在 nav 里，`34_Footnote.xhtml`（608 字 > 600 阈值）被当成 ch13 章。均已修并用 HEAD~1 对照回归自证
+- ⚠️ **写作期抓到 13 处凭记忆改写/伪造引语**：含 ch03 `So, I suppose…`（原文无 `So,`）、ch06 `We wouldn't be ready`（原文 `We weren't`）、ch10 词表 **6 条全书 0 命中的虚构词条**、总览 11 条金句 + 2 条节点引语。**全部由写前 grep 与自建 flat 核验当场拦下**并回原文取真句
+- ⚠️ **终验抓到 4 处标题缺陷**：ch04–ch07 的 `## 一句话总结` 多一个 `**`——**该缺陷对六道引语门禁全部不可见**，只有 gate.sh ⑬ 空段扫描能抓
+- **假红型 12 处（先修工具，未改 md）**：gate.sh ⑬ 把导航项下限写死「≥5」，而 5 项是**长篇言情档**写法；精简格式本库主流是 4 项（无 Tropes 一栏）。已改为 ≥4 并**投毒自证**（造 2 项导航探针仍被抓出，探针已删）
+- **commit**：本次会话 **11 次**，**本地未 push**（按红线等指令）；明细见工作日志本书条目
+- **五步审查未做**（待用户发起）
+
 ### [2026-09-30 20:57 UTC] [Qoder-Mac] → All
 
 《If Tomorrow Comes》(Sidney Sheldon) 34/34 章 + 总览三篇完工。格式：精简格式（悬疑档）。
