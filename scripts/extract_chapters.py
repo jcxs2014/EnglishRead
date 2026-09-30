@@ -93,14 +93,28 @@ def main():
         if idm and hm: manifest[idm.group(1)] = (posixpath.normpath(posixpath.join(opf_path, unquote(hm.group(1)))), (tm.group(1) if tm else ''))
 
     # TOC 标签映射 href -> title
-    labels = {}
+    #
+    # ⚠️ 2026-09-30 修正：`labels[path] = ...` 是**无条件覆盖**，而一个 xhtml 常有多个
+    # navPoint 指向它——章级一个 + 每个小节锚点一个（`<content src="09_Two.xhtml#_idParaDest-12"/>`）。
+    # 覆盖 ⇒ 留下**最后一个**，即章内最后一节的小节标题，章标题被彻底顶掉。
+    # 实测（I Can't Save You / Anthony Chin-Quee）12 件里 **4 件 slug 取自小节**：
+    # 「two: A-Side—Success*」→ `ch04_track_3_plumbing`、「three: B-Side—The Fall」
+    # → `ch05_track_7_falls_end`、「seven: Y'ain't (k)no(w)」→ `ch09_you_want_your_favorite_negro_dead`、
+    # 「eight: Fatherhood」→ `ch10_lorisa`——**章名与文件名全错，且正文本身是对的**，
+    # 不核对首行就发现不了（首行仍是正确的 "two / A-Side—Success*"）。
+    # 修法：**章级 navPoint（src 无 `#` 锚点）优先**，锚点 navPoint 只在该文件没有任何章级项时兜底。
+    labels, anchor_labels = {}, {}
     for n in z.namelist():
         if n.lower().endswith('.ncx'):
             ncx = z.read(n).decode('utf-8', 'ignore')
             for blk in ncx.split('<navPoint ')[1:]:
                 lm = re.search(r'<text>(.*?)</text>', blk); sm = re.search(r'<content\s+src="([^"]+)"', blk)
                 if lm and sm:
-                    labels[posixpath.normpath(posixpath.join(opf_path, unquote(html.unescape(sm.group(1)).split('#')[0])))] = html.unescape(lm.group(1))
+                    href = html.unescape(sm.group(1))
+                    key = posixpath.normpath(posixpath.join(opf_path, unquote(href.split('#')[0])))
+                    (anchor_labels if '#' in href else labels)[key] = html.unescape(lm.group(1))
+    for k, v in anchor_labels.items():
+        labels.setdefault(k, v)
 
     # ── 装置页（非正文）判定：2026-09-26 重写 ──
     # **原实现是子串搜索，而被搜的是章节标题（可能是散文性文字），23 个探针里 6 个
@@ -121,10 +135,17 @@ def main():
         'works by', 'selected bibliography', 'bibliography', 'notes', 'endnotes',
         'footnotes', 'praise for', 'about the publisher',
     }
-    # 出版商固定文件名 + 导航文档 + 促销页
+    # 出版商固定文件名 + 导航文档 + 促销页 + 脚注/尾注页
+    #
+    # ⚠️ 2026-09-30 补 `foot-?notes?`：脚注页**不在 nav 里**（NCX 只列 33 项，脚注 25 页全无），
+    # 于是 `labels` 取不到标签 → `is_boilerplate` 回退到正文首行兜底，首行是
+    # 「* Stenosis is a medical word for…」，不在 BOILER_LABEL ⇒ **只能靠长度放行**。
+    # 实测（I Can't Save You）25 个脚注页里 `34_Footnote.xhtml` 恰好 608 字符 > 600 min_len
+    # ⇒ **一个脚注被当成 ch13 章**，而 `ch13_chap13.txt` 这个 slug 还会反过来掩盖它。
+    # 脚注按库内既有约定属非正文（`xx_` 前缀，不占 ch 编号），须在路径层拦住。
     BOILER_PATH = re.compile(
         r'_(cov|tp|cop|ctc|toc|ded|ack|ata|rsc|excerpt|newsletter|promo|ssd|bmn|cue|int|nav|ncx)\d*_'
-        r'|(^|[/_-])(nav|ncx|toc|next-?reads?|promo|advert|ads?)\.xhtml$', re.I)
+        r'|(^|[/_-])(nav|ncx|toc|next-?reads?|promo|advert|ads?|foot-?notes?|end-?notes?)\d*\.xhtml$', re.I)
 
     def _label_key(s):
         return re.sub(r'[^a-z0-9 ]+', ' ', (s or '').lower()).strip()
