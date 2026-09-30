@@ -97,7 +97,7 @@ modified: "2026-09-30"
 **中文理解**：「小心点，Brittany。」他在门口喊。「路会滑。给自己留够刹车的距离。」
 **关键词**：Be careful / Give yourself enough room to brake
 **为什么这样写**：前一句是提醒，后两句已经越界成了完整的驾驶指导；作者用一声提醒开场，再让他自己把常识补完。Give yourself enough room to brake 用祈使句加 enough room 这个量化词，把关心写成可执行的建议，于是听起来像兄长而不像情人。
-**读者视角提示**：上一段她还带着愧疚踩过水坑回家，推开这扇门先看见的不是他，是另一个人。这一章停在他 barefoot, bare chested, a barely concealed postcoital grin 上，一句判断都没下。
+**读者视角提示**：上一段她还是冒雨骑车、淋得透湿地回家，推开这扇门先看见的不是他，是另一个人。这一章停在他 barefoot, bare chested, a barely concealed postcoital grin 上，一句判断都没下。
 
 ## 本章词汇
 

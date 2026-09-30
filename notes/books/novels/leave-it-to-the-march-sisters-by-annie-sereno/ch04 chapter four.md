@@ -19,7 +19,7 @@ modified: "2026-09-30"
 **中文理解**：如果我们十年后都还活着，那就见一面吧，看看有几个人实现了愿望，又比现在接近了多少。
 **关键词**：ten years hence / how much nearer
 **为什么这样写**：题词用将来完成时（have got）与条件句（If we are all alive）把一个约定框在假设里；how much nearer 比较的是距离而非成败，因此连失败也算数。放在这一章——两个人被迫共处一室、旧事即将被翻开——的位置，这句关于「十年后」的话读起来像一份期限。
-**读者视角提示**：这是 Jo 的话。四章题词全部出自她，而本章结束时 Amy 正打算替她和 Theo 做点什么。
+**读者视角提示**：这是 Jo 的话。ch01 与 ch03 的题词出自 Jo，ch02 那一句则出自 Amy 本人，而本章结束时 Amy 正打算替她和 Theo 做点什么。
 
 > **原句 2:** “When it comes to refrigerators,” she said, “I prefer a bottom-load freezer.”
 **中文理解**：「说到冰箱，」她说，「我更喜欢下置式冷冻室。」
@@ -120,7 +120,7 @@ modified: "2026-09-30"
 > **原句 18:** The Russian Blue. Silvery coat. Her name is Nina.
 **中文理解**：「俄罗斯蓝猫。银色的毛。她叫 Nina。」
 **关键词**：名词短句 / 零动词
-**为什么这样写**：三个名词短语并排，没有一个动词，像在报一份失物的特征单。作者把「找猫」写成失物招领，于是她找的其实不是猫而是那段记忆。Nina 这个名字既是爵士歌手 Nina Simone，也是小说开头题词里那个反复出现的名字。
+**为什么这样写**：三个名词短语并排，没有一个动词，像在报一份失物的特征单。作者把「找猫」写成失物招领，于是她找的其实不是猫而是那段记忆。Nina 这个名字既是爵士歌手 Nina Simone，也正是这只猫的来处——他随即在下一格承认名字是他取的。
 **读者视角提示**：她替这只猫找的名字叫「Nina Simone」——作者给的答案没让她失望。
 
 > **原句 19:** “So much to read on Theo Sinclair. Except his face.”
@@ -132,7 +132,7 @@ modified: "2026-09-30"
 > **原句 20:** “I tell them to. They listen when it pleases them.”
 **中文理解**：「我是这么跟它们说的。它们高兴的时候才听。」
 **关键词**：间接引语 / 反讽
-**为什么这样写**：tell them to 后省略了 to do 的内容，而 because…when it pleases them（因为……在它们高兴的时候）把条件从「指令」转成「猫的心情」，让这句回答从一个养猫方法滑向对人生的隐喻。It pleases them（它们高兴）与下一句说他前句的表情（as if she meant more）呼应。
+**为什么这样写**：tell them to 后省略了 to do 的内容，而 because…when it pleases them（因为……在它们高兴的时候）把条件从「指令」转成「猫的心情」，让这句回答从一个养猫方法滑向对人生的隐喻。It pleases them（它们高兴）与本块末句他挑眉（as if she meant more）呼应。
 **读者视角提示**：作者紧接一句他怎么跟猫说，语气与上一句完全一致。
 
 > **原句 21:** “Blistering, unsparing portraits of Theo’s parents engaged in the violent arguments she’d witnessed.”

@@ -72,8 +72,8 @@ modified: "2026-09-30"
 > **原句 10:** “Amy Marsden did not cry over breakups. Ever.”
 **中文理解**：Amy Marsden 不为分手掉眼泪。从来没有过。
 **关键词**：did not cry / Ever
-**为什么这样写**：这是全章唯一一次叙述者直呼全名，其余地方一律用 Amy。人称从 Amy 切换到 Amy Marsden 制造了一个瞬间的抽离感，像在引用一份对自己的客观记录；而句末的 Ever 独立成句，把否定式从「这一次不哭」升级成「一生都不哭」的最高级断言——而这个断言随即在下一段被油漆味呛出眼泪的事实所推翻。
-**读者视角提示**：上一句还写 Tears formed in her eyes from the paint fumes，叙述者自己给出了眼泪的来源——是漆味，不是心碎。
+**为什么这样写**：这是全章第一次叙述者直呼全名（全名在本章还出现过一次，落在信封的收件人上）。人称从 Amy 切换到 Amy Marsden 制造了一个瞬间的抽离感，像在引用一份对自己的客观记录；而句末的 Ever 独立成句，把否定式从「这一次不哭」升级成「一生都不哭」的最高级断言——而这个断言在**前一句**就已经被写明的眼泪事实推翻——Tears formed in her eyes from the paint fumes 一句就排在它前面。
+**读者视角提示**：前一句还写着 Tears formed in her eyes from the paint fumes，叙述者自己给出了眼泪的来源——是漆味，不是心碎。
 
 > **原句 11:** “Right about now, when a relationship was heading due south, Amy would let loose a zinger or two.”
 **中文理解**：通常到了这种关系直坠南边的时刻，Amy 总会甩出一两句俏皮话。

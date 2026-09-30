@@ -55,7 +55,7 @@ modified: "2026-09-30"
 **中文理解**：像她睡衣上的云朵一样，那个她在他床上醒来的早晨。她的身体悬在他上方。她那令人心痛的柔软嘴唇贴着他。
 **关键词**：Like … pajamas / Her body hovering
 **为什么这样写**：作者先把早晨比作睡衣上的云朵——也就是说他在飞机上看窗外的云时，脑子里是她的睡衣；第二句用 now-participle（hovering）把她悬在他上方的姿态定格，第三句再压到嘴唇上。三句一个比一个近，于是整段回忆是靠距离的收缩推进的，而副词（achingly soft）把身体的距离换成了情绪的距离。
-**读者视角提示**：这场戏在上一章的纽约部分会由她自己回想；而这一章他先承认了一件事——Good thing she pulled away before the game went any further。
+**读者视角提示**：这场戏在后面纽约那一段（ch23-24）会由她自己回想；而这一章他先承认了一件事——Good thing she pulled away before the game went any further。
 
 > **原句 8:** He’d never confessed the incident to Amy. Her absolution was the last thing he deserved.
 **中文理解**：他从没把这件事向 Amy 坦白过。她给予的原谅是他最不配得到的。

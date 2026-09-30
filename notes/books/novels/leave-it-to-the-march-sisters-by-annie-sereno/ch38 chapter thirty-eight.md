@@ -86,7 +86,7 @@ modified: "2026-09-30"
 **中文理解**：「不了，谢谢。」她爬上台阶，坐到离他尽可能远、又还不至于让难堪显出来的地方。「我准备好听了。告诉我，这一次我又搞错了什么。」
 **关键词**：as far away from him as nonchalance allowed / I’m ready to listen / what I’ve gotten wrong this time
 **为什么这样写**：作者让 nonchalance（若无其事）当一把尺子：不是距离本身，是「像没事一样」允许的最大距离，于是她的落座被写成一次带刻度的计算。第二句用 what I’ve gotten wrong this time 把自己放到有错的一方，她也不数上一次，只说 this time——她接的是上一章那一次，这次是新的一次。
-**读者视角提示**：这句的转折在于她仍然用 his bad 这个词开头。她带着自己的定性回来听，而这个定性将在这一章最后被推翻两次。
+**读者视角提示**：这句的转折在于她仍然用 Dear God 起头。她带着自己的定性回来听，而这个定性将在这一章最后被推翻两次。
 
 > **原句 13:** “We were checking out wedding chapels, and I did ask her to marry me—as a joke. I mean, I was laughing when I said it. But Jo didn’t find it very funny.”
 **中文理解**：「我们在逛婚礼礼拜堂，我确实跟她求过婚——当笑话。我是说，我说那话的时候是在笑的。可 Jo 并不觉得那很好笑。」

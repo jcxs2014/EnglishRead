@@ -89,7 +89,7 @@ modified: "2026-09-30"
 
 > **原句 13:** Realizing, as soon as the thought crossed his mind, that this was exactly his sentiment toward Amy lately. … Static electricity in the air between them.
 **中文理解**：念头刚一冒出来，他就意识到这正是他近来对 Amy 的那份心情。……他们之间的空气里一直有静电。
-**关键词**：Realizing / a stalled weather pattern / Static electricity in the air between them
+**关键词**：Realizing / sentiment toward Amy lately / Static electricity in the air between them
 **为什么这样写**：天气比喻在这一段被正式立起来，而且是他在车里一边盯着天一边补完的：先是一句没有主语的天祷告，紧接着句子自我更正，承认这套天气正是他对她的态度。停滞的天气型既能压住一场风暴，也能把风暴按住不放，同一个词被作者压在一场雨和一段旧账上。中间的省略号是他在披萨店门口的一次停顿：静电在车停下之前就已经在空气里了。
 **读者视角提示**：这一章的「他们」不是那对夫妇，是他和 Amy；他写给职业的比喻，撞上了他私人那场没下的雨。
 

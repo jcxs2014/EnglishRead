@@ -31,7 +31,7 @@ modified: "2026-09-30"
 **中文理解**：她是在他们如今称作「南瓜面包事件」的那次交械投降的——在那场事件里，她把半条面包吃完只用了说一遍「南瓜面包」的时间。
 **关键词**：She’d surrendered / now referred to as / during which
 **为什么这样写**：作者用军事词 surrendered（投降）写一次厨房争执，又用正式书名号的说法把它升格为有编号的历史事件，两个词的方向相反：一个是败降，一个是归档。during which 从句把胜负压进时间长度里，用「说完三个词的时间」作单位，让「惨败」变成一个可以用秒表量的笑话。now referred to as 里的 now 交代了这件事的定性是后来才补上的。
-**读者视角提示**：下一句干脆下了断语：她输给了瓜。同样的事件在下一章还会被两人当作打情骂俏的暗号反复调用。
+**读者视角提示**：下一句干脆下了断语：她输给了瓜。同样的事件在本章后段还会被两人当作打情骂俏的暗号再调用一次。
 
 > **原句 4:** At the sound of knocking, Amy froze in position so the chair wouldn’t creak.
 **中文理解**：听到敲门声，Amy 立刻定住不动，好让椅子别吱呀作响。
@@ -79,7 +79,7 @@ modified: "2026-09-30"
 **中文理解**：「我的事业是目前的首要事项，」Amy 说。「它带来的挑战让我不敢松懈。」
 **关键词**：is my priority / For now / keep me on my toes
 **为什么这样写**：for now 被拆成两个词挂在句末，像一枚后补的限定，把一句宣言临时降级；而第二句立刻用 keep me on my toes 把这份事业重新包装成对个人有利的说法——而后者原是 Brittany 的行话，下一句就会被她原样奉还。it 在这里无先行词，靠上下文回指 career，句子因此显得自足而不具体。
-**读者视角提示**：她问的是对方有没有梦想；作者让这个「梦想」问题悬在厨房里，答案稍后由她自己用一个否定句给出。
+**读者视角提示**：这句「梦想」问话是 Brittany 抛给 Amy 的，作者让它悬在厨房里，没有给答案。
 
 > **原句 12:** A blush overtook Amy’s cheeks, remembering the two of them playfully sharing a strand of spaghetti like the dogs in Lady and the Tramp.
 **中文理解**：一阵红晕漫过 Amy 的双颊，她想起两个人像《小姐与流浪汉》里的那两只狗那样闹着共咬一根意大利面。
@@ -94,9 +94,9 @@ modified: "2026-09-30"
 **读者视角提示**：这个「还是别的什么吧」在本章里被回收了一次：她提出想「成一家人、做回朋友」，补的还是同一句 or something。
 
 > **原句 14:** This was the Theo who told her that nothing lasted forever, including their friendship.
-**中文理解**：这已经不是那个会对她说「没有什么能长久」的那个 Theo 了——连他们的友谊也不例外。
+**中文理解**：这正是那个曾对她说过「没有什么能长久」的 Theo——连他们的友谊也不例外。
 **关键词**：This was the Theo who / nothing lasted forever / including
-**为什么这样写**：这与全书开篇 Derek 说过的同一句判断形成对位，而作者改用第三人称的转述句式（told her）而非直接引语，让它听起来像一份迟来的证词。including their friendship 用 including 把「友谊」塞进那句否定，句子结构本身在演示例外是硬加上去的。定语从句 who 从句先给出「这已经不是那个人」的判断，理由到后半句才补上，读者先被通知，再被说服。
+**为什么这样写**：这与全书开篇 Derek 说过的同一句判断形成对位，而作者改用第三人称的转述句式（told her）而非直接引语，让它听起来像一份迟来的证词。including their friendship 用 including 把「友谊」塞进那句否定，句子结构本身在演示例外是硬加上去的。定语从句 who 从句先给出「这仍是那个人」的判断，理由到后半句才补上，读者先被通知，再被说服。
 **读者视角提示**：下一句只有三个词——「但姐妹情谊可以」。这句把一本关于男性的话术账翻了过来。
 
 ## 本章词汇

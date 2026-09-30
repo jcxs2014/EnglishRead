@@ -19,7 +19,7 @@ modified: "2026-09-30"
 **中文理解**：我有时会孤单，不过我敢说这对我是好事。
 **关键词**：I dare say / it’s good for me
 **为什么这样写**：题词第三次来自 Jo，语气与第一章那句「听腻了爱情是女人的全部」不同——这句是自我辩解式的安慰。I dare say 把判断降为「我敢说」，it’s good for me 用一般现在时把这句私房话包装成通则。放在搬家这一章的开头，它像是对即将到来的独居生活的一句预言。
-**读者视角提示**：三章题词全部出自 Jo；Amy 自己那句（关于焦虑）之后再没出现——她把自己的声音让给了姐姐。
+**读者视角提示**：ch01 与 ch03 的题词出自 Jo，ch02 那一句则出自 Amy 本人；此后她自己的声音就让给了姐姐——她把自己的声音让给了姐姐。
 
 > **原句 2:** The search was exhaustive, exhausting, and futile.
 **中文理解**：这场寻找既彻底，又累人，还毫无结果。
@@ -49,7 +49,7 @@ modified: "2026-09-30"
 **中文理解**：那株病恹恹的松鼠脚爪蕨仿佛在盆里缩得更小了。
 **关键词**：ailing / seemed to shrink
 **为什么这样写**：作者给它取了一个带 animal 的复合品种名 squirrel’s foot fern，又冠上 ailing（生病的），这盆植物在她的观察里已经具备病患身份。seemed to shrink 用 seemed 软化判断，把主观上的心虚写成它真的在缩；缩的是在花盆里，而花盆正随它一起被留下。
-**读者视角提示**：她说这蕨「看起来不太好」，他回「我倒挺喜欢」——两人对同一株植物的判断都带着各自的处境。
+**读者视角提示**：这两句都出自 Derek 之口：先说这蕨「看起来不太好」，紧接着又说「我倒挺喜欢」——两人对同一株植物的判断都带着各自的处境。
 
 > **原句 7:** Like relays. Girlfriend out, girlfriend in.
 **中文理解**：像接力赛。前一个女友出门，后一个女友进门。
@@ -79,7 +79,7 @@ modified: "2026-09-30"
 **中文理解**：Amy 活动着下颌，像在嚼口香糖，把所有配得上 Jo 的句子都咽了回去。
 **关键词**：as if / Jo-worthy
 **为什么这样写**：As if she were chewing gum 用虚拟语气的比较，把一个心理动作（把话咽回去）翻译成生理动作（嚼东西），而 wanted to say 说明那些句子从未出口。Jo-worthy 是自造形容词，把姐姐的说话方式当成一种可穿戴的品味。
-**读者视角提示**：这个比喻接的是 Jaycee 那句 Global warming shit. I hear ya——同一副下颌，两种完全不同的语言。
+**读者视角提示**：这个比喻接的是 Amy 那句 Global warming shit. I hear ya——同一副下颌，两种完全不同的语言。
 
 > **原句 12:** His hands were good for something besides smearing paint on a canvas.
 **中文理解**：他的手还擅长点别的事，不止是往画布上抹颜料。
@@ -90,7 +90,7 @@ modified: "2026-09-30"
 > **原句 13:** “Guess this is it,” he said, looking off into the distance as if he’d lost something but couldn’t remember what. Like the past six months.
 **中文理解**：「大概就这样了，」他说着望向远处，像是丢了什么却想不起是什么。就像过去这六个月。
 **关键词**：as if / 省略补语
-**为什么这样写**：as if he’d lost something but couldn’t remember what 让「看远」这个动作成为失忆的表征；末句 Like the past six months 补上被省略的宾语，把失忆的对象直接替换成这段关系。Guess 在整章里出现三次，每次都像随口一说，合起来就是一场谁都不肯正式道别的散伙。
+**为什么这样写**：as if he’d lost something but couldn’t remember what 让「看远」这个动作成为失忆的表征；末句 Like the past six months 补上被省略的宾语，把失忆的对象直接替换成这段关系。Guess 在整章里出现四次，每次都像随口一说，合起来就是一场谁都不肯正式道别的散伙。
 **读者视角提示**：她心里的回答是一个否定句：Not if there’s a God in heaven——但她没有说出口。
 
 > **原句 14:** When all was said and done, this split from Derek was long overdue.
@@ -109,13 +109,13 @@ modified: "2026-09-30"
 **中文理解**：「全球变暖那些屁事。我懂你说的。」
 **关键词**：粗口 / I hear ya
 **为什么这样写**：作者用一句极粗的白话（shit）把前一句的全部术语废掉，再补一句 I hear ya 表示「我都懂」。这正是本章主题句在另一层的复现：听不懂不等于没听到——Theo 那边也是同样的一种错过。
-**读者视角提示**：她连说两次「我懂」，两次都不是在理解对方。
+**读者视角提示**：她说的是一次「我懂」，而这一次也不是在理解对方。
 
 > **原句 17:** Chickenshit No. 9. Now that would be a good title for his latest painting.
 **中文理解**：懦夫 9 号。倒是个给他最新一幅画起的好题目。
 **关键词**：绰号 + would 虚拟
 **为什么这样写**：作者把一个粗口（chickenshit，胆小鬼）加一个数字当作画名，与他之前所有作品的无题形成正反：一个不敢命名的人，被她用一个绰号命名了。Now that would be a good title 用 would 而不是 is，把这个念头写成一次假设，也顺带交代它不会成真。
-**读者视角提示**：这个绰号是 Jaycee 亲口给的（他说过却不敢告诉她），Amy 转头就把它编成了画名。
+**读者视角提示**：这个绰号是 Jaycee 亲口给的（是她告诉 Amy 的，Derek 始终没说），Amy 转头就把它编成了画名。
 
 > **原句 18:** Apologizing. To the girl who, you know, did it with Derek.
 **中文理解**：她在道歉。向那个你知道的、和 Derek 上过床的女孩道歉。
