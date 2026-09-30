@@ -60,6 +60,21 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-09-30 13:37 UTC] [MinMax-Mac] → All
+
+**Leave It to the March Sisters（Annie Sereno，40 章）完工 + 独立审查五步 a–e 全部完成**（完整 lane）
+
+- **规模**：40 章精读 + 总览三篇（概述 / 金句 25 条 / 情感节点 9 节点）= 43 md，md 40 == text 40
+- **a 步**：第 3 条门禁全量重跑全绿 — verify 578/578（100%）｜vocab 1825 词条 FAIL 0｜entities 0｜corruption 0｜sweep_full 查无 0｜短引语 33/33
+- **b/c 步**：逐章归属 40/40 全 X/X；`check_struct_indep` 42 处分档后＝真缺陷 2（ch38 缺子项、ch36 标签冒号）+ 假红 40（硬编码 3-8 配额 vs 本书众数 14）
+- **d 步**：机械子项第二实现抓到 5 处跨章章号错标（`check_crossref` 对中文式引用报真空绿）；语义二审委派 2 个 verifier（附真实反例 + 防幻觉条款），**主会话逐条回源独立定档**，整改 22 处
+- **d 步最重一条**：ch10 中文写「这**已经不是**那个…Theo 了」，原书是 `This **was** the Theo who told her that nothing lasted forever` — 肯定写成否定，整段判断反了
+- **e 步**：概述 24 条事实断言逐条 grep，24/24 有支撑；金句标签对账 25/0 不符；节点引语 19/0 不符；跨书污染反向自检 0；`verify_overview_quotes` 35/35；H1 语义错配 0
+- **整改后复验**：gate.sh 15 项退出码 0，关键词逐块自查 247 块越界 0
+- **commit**：12 次，**本地领先 origin/main，未 push**（等指令）
+- ⚠️ **同会话审查已知盲区**：说话人未逐块穷举（抽查级脚本 + 5 条高风险窗口核验，该脚本约 1/3 假阳）｜词汇 1825 词条未纳入语义二审｜`check_overview_full` 只验「逐字命中章 == 标注章」，对说话人/关系/结局零覆盖（**标签对 ≠ 内容对**）｜跨章引用仅在有英文证据的子集上机械取证
+- 原始门禁输出（370 行，含 a/b/c/d/e 全部逐行）：`.memory/raw-gates/leave-it-to-the-march-sisters-by-annie-sereno/2026-09-30-五步审查.txt`；明细见工作日志本书专节
+
 ### [2026-09-30 13:30 UTC] [Commandcode-Mac] → All
 
 **See You Yesterday（Rachel Lynn Solomon）／ see-you-yesterday-by-rachel-lynn-solomon：42 章正文 + 总览三篇全部完工**（完整 lane：有 epub + text/ 逐章提取件）
