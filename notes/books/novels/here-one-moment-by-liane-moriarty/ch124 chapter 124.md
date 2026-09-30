@@ -8,17 +8,17 @@ modified: "2026-09-30"
 ## 本章导航
 
 - **一句话概括**：同一支笔继续自述，但重心从「我当时怎么猜的」换成「我的猜测开始不准了」——先用一段关于未来的算术宣言立论，再一件件摆出预言落空之后的连锁反应。
-- **叙事视角**：第一人称自述，与上一章同一支笔。
+- **叙事视角**：第一人称自述；说话人是那位在机上逐个报出死因的老妇，与前面她那篇自白出自同一支笔。
 - **场景与时间**：公开声明发出之后的一段时间里，一段回望式的插叙。
 - **人物弧线**：从为自己解释，到眼看自己的话开始出错；期间也有一条反向的消息——被她判到长寿的那位在睡梦中离世，那人正是当年在机上用胳膊肘撞到她头、连一句抱歉都没有的穿长袍女人。
 - **叙事手法**：议论式开场（先讲道理）＋ 清单式举证 ＋ 反讽收尾。
 
 ## 精读
 
-> **原句 1:** "You can only attempt to guide it in the right direction, like a wilful horse, but accept there will be times when it will gallop off in a direction not of your choosing."
+> **原句 1:** "You can’t choose your future. Not in a world of risk and uncertainty. No matter what the self-help gurus tell you. You can only attempt to guide it in the right direction, like a wilful horse, but accept there will be times when it will gallop off in a direction not of your choosing."
 
 **中文理解**：她先下一个判断：在一个有风险与不确定性的世界里，未来不是选出来的，成功学的那套话不算数；人只能像牵一匹任性的马那样试着把方向引过去，然后接受它总有一阵会朝不是你选定的方向跑。
-**关键词**：attempt to guide, in the right direction, like a wilful horse, gallop off, not of your choosing
+**关键词**：You can’t choose your future, risk and uncertainty, self-help gurus, attempt to guide, like a wilful horse, not of your choosing
 **为什么这样写**：把「选择」换成「引导」，这一改就是全章的题眼；比喻不用神骏的马而用一匹不听话的马，于是乐观被换成了认命。
 **读者视角提示**：注意这句否定的不是命运，而是人对未来的掌控感——它与这位说话人当初逐个报出死因的做法正好构成一组对读。
 
@@ -26,14 +26,14 @@ modified: "2026-09-30"
 
 **中文理解**：同一套说法的第二半：医生若告诉你多少人死于这种病，你多半也会死；但万一你正是那个例外，你会认定自己特别、受到祝福，家里人也会认定他们的祈祷有了回报——而这不过是数学。
 **关键词**：beats the odds, special and blessed, the fervency of their prayers, paid dividends, it’s just maths
-**为什么这样写**：先让读者点头承认这种可能，再用末尾两句把这份自我解释抽走；同一句数学说两遍，是本章里被重复的那一处强调。
+**为什么这样写**：先让读者点头承认这种可能，再用末尾两句把这份自我解释抽走；同一句数学说两遍，是本章唯一被重复的强调。
 **读者视角提示**：注意后面那位孕妇正是靠「接受治疗」击败了概率，于是这段议论不是空转，而是在给随后的例子预支解释。
 
-> **原句 3:** "The woman who was pregnant on the plane, the one who had been refusing treatment because she believed it would make no difference, decided to accept her oncologist’s advice. She is now cancer-free."
+> **原句 3:** "The woman who was pregnant on the plane, the one who had been refusing treatment because she believed it would make no difference, decided to accept her oncologist’s advice. She is now cancer-free. Her husband wrote me a very nice letter telling me I’d saved his wife’s life and enclosed a photo of their sweet, enormous baby."
 
 **中文理解**：第一个落空的例子：那位在飞机上因为觉得治疗无用而拒绝治疗的孕妇改变了主意，听从了肿瘤科医生的建议，如今已经痊愈；她丈夫写信说是这位老妇救了他妻子，还附上一张照片。
 **关键词**：was pregnant on the plane, refusing treatment, accepted her oncologist’s advice, cancer-free, enclosed a photo
-**为什么这样写**：把「救命」这件事算到说话人头上，用一封信和信里的一张照片把这份感激落实；umor 的锋刃藏在叙述者对自身作用的转述里。
+**为什么这样写**：把「救命」这件事算到说话人头上，用一封信和信里的一张照片把这份感激落实；讽刺的锋刃藏在叙述者对自身作用的转述里。
 **读者视角提示**：注意这是「预言落空反而救人」的第一例，本章的论证由此从「她算错了」转向「她算错是要付代价的」。
 
 > **原句 4:** "After a while, people began to call me a ‘fraud’ which, you know, would have made me laugh if I didn’t still feel so terrible."

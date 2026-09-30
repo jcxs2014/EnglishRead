@@ -31,9 +31,9 @@ modified: "2026-09-30"
 
 > **原句 3:** "‘You’re welcome,’ says Cherry Lockwood from her armchair in front of the television. ‘Now bring home the gold, Timmy.’"
 
-**中文理解**：记者对着镜头高声替那位算命先生邀功，说澳大利亚该谢她；镜头之外，在扶手椅上看电视的那位老妇应了一声「不客气」，并要他把金牌带回家。
+**中文理解**：在家里的扶手椅上看着电视的那位老妇，应了一声「不客气」，并要他把金牌带回家。
 **关键词**：You’re welcome, Cherry Lockwood, from her armchair, in front of the television, bring home the gold, Timmy
-**为什么这样写**：前一句是对全世界喊的，后一句是对着电视说的；两句用同一口气接上，功劳就这样被她不着一字地接了过去。
+**为什么这样写**：全场只有这一句是朝屋里说的；「不客气」三个字把记者刚才高声递出去的那份功劳接了过来，不着一字地接过来。
 **读者视角提示**：注意她始终没有出现在镜头里——全书最后一场，她的座位是沙发，而不是报告席。
 
 > **原句 4:** "It is only when we truly know and understand that we have a limited time on Earth and that we have no way of knowing when our time is up that we begin to live each day to the fullest, as if it were the only one we had."

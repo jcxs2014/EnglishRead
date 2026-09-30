@@ -38,10 +38,10 @@ modified: "2026-09-30"
 
 > **原句 4:** "And then we wondered if we were just stumbling our way towards God or enlightenment, or was that just a way of saying we didn’t know, and it was all so interesting, but then Ned sat bolt upright and clapped his hand to his forehead, because he remembered we did have to be somewhere: Aldi was having a special on camp chairs."
 
-**中文理解**：两人正猜着自己是不是在跌跌撞撞地走向某种终极答案、还是那只是「我们不知道」的说法，谈得正起劲，丈夫忽然坐直、拍了一下额头，想起Aldi 有折扣、两个人总得到某个地方去；接下来是手忙脚乱地穿衣，和在车里为出风口吵架。
+**中文理解**：两人正猜着自己是不是在跌跌撞撞地走向某种终极答案、还是那只是「我们不知道」的说法，谈得正起劲，丈夫忽然坐直、拍了一下额头，想起Aldi 有折扣、两个人总得到某个地方去。
 **关键词**：stumbling our way towards God, enlightenment, sat bolt upright, we did have to be somewhere, camp chairs
 **为什么这样写**：把崇高话题的收尾交给一次超市促销，是本章的招牌手法；从「我们其实什么也不知道」到折扣的露营椅，中间只隔着一次拍额头。
-**读者视角提示**：注意紧接着单独成段的那句总结——从崇高到琐碎，全在早餐之前完成；作者把它另起一段，等于替这个玩笑盖了章。
+**读者视角提示**：注意这里的用词有多轻：不是被什么打断，而是自己忽然想起来还有事要办——崇高与琐事之间的那道缝，作者没有让它显得难堪。
 
 > **原句 5:** "My favourite part is just chatting with her. She wants to be an actress. Not an actuary. An actress."
 
@@ -57,12 +57,12 @@ modified: "2026-09-30"
 **为什么这样写**：介词 instead of 是全句的支点：被抱着的与没被抱着的只差一个 his；用最轻的一个日常动作承担最重的丧失。
 **读者视角提示**：注意这句紧接在「母亲在梦里得意地唱着早就告诉过你」之后——母女那条线刚刚露头，就被这一句压了下去。
 
-> **原句 7:** "I said, ‘Yes, Bridie, I think she meant you.’"
+> **原句 7:** "She studied me with such a serious expression, the same expression as the only little girl I’d ever imagined mothering, and then I saw it dawn on her, and slowly she said, ‘Wait, Cherry, do you think she meant me?’"
 
-**中文理解**：她把母亲当年那段读解读给小女孩听：说有一天会来一个小女孩，出现得正是她最需要的时候，而名字以那个字母开头。小女孩严肃地看着她，慢慢地问：您说的是不是指我；她说，是的，指的是你。
-**关键词**：Yes, Bridie, I think she meant you
-**为什么这样写**：全章以一个孩子的追问和一句承认收尾；预言的落点不是死因也不是年龄，而是一个名字的首字母——亲口承认预言应验的，是那个把往事讲给孩子听的人。
-**读者视角提示**：注意那句读解出自她的母亲；而这句话当初是怎么被算出来的，本章没有交代，作者也没有在这一处补上，故事把解释留在了别处。
+**中文理解**：小女孩听完那段关于名字首字母的往事，严肃地看着她——那种神情跟她想象中唯一会带在自己身边长大的那个孩子一样；然后她看见小女孩脸上慢慢露出恍然的神色，听见一句轻轻的追问：您说的是不是指我。
+**关键词**：such a serious expression, the only little girl I’d ever imagined mothering, I saw it dawn on her, do you think she meant me
+**为什么这样写**：全章以一个孩子的追问收尾；作者不写回答，只把那个瞬间拉长——「脸上慢慢露出恍然的神色」与「慢慢地说」，同一个副词落两次。
+**读者视角提示**：注意下一行就是本章的最后一句，作者没有把它写长；而那句首字母的读解出自她的母亲，这句话当初是怎么被算出来的，本章没有交代，作者也没有在这一处补上。
 
 ## 本章词汇
 

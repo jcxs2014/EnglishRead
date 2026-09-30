@@ -31,7 +31,7 @@ modified: "2026-09-30"
 
 > **原句 3:** "Eve looks up at him. He is a businessman. He is literally wearing a tie. She looks at his date of birth on his file as she changes his address. Ten years older than her. If he’s having financial problems, why does Eve feel such shame and self-loathing about their spiralling debt? Some people don’t have family, but Eve and Dom do. They are lucky. Yes, they messed up, yes, it’s embarrassing, but it’s not actually the end of the world, is it?"
 
-**中文理解**：一个穿着领带的商务人士来改地址，说要搬回父母家省钱；她比对方小十岁，看着档案上的出生日期，忽然为自己家的债务感到羞耻和自我厌恶，转而用「至少我们还有家人」来安慰自己。
+**中文理解**：一位来改地址的商务人士（身上真系着领带）让她顺手翻了一下档案，发现他比她大十岁；她看着这一栏，忽然为自己家那笔越滚越大的债务感到羞耻和自我厌恶，转而用「至少我们还有家人」来安慰自己。
 **关键词**：a businessman, literally wearing a tie, date of birth, shame and self-loathing, spiralling debt
 **为什么这样写**：把一场普通的改地址写成一堂经济课——她不是同情患者，而是拿对方的处境量自己的处境；Some people don't have family, but Eve and Dom do 把自怜直接换算成了一种庆幸。
 **读者视角提示**：注意这一段的转折由一个细节推动：她查了对方的出生日期。日期这个动作把「陌生人」变成了「对照组」。
@@ -50,12 +50,12 @@ modified: "2026-09-30"
 **为什么这样写**：消息写成朋友的口吻——先「我想起来了」，再「人很好」，末尾附上一条玩笑式的注意事项；Tracked him down (easy after Cherry) 一句把全章的社交追踪能力一笔带过。
 **读者视角提示**：注意这条消息把整条人脉链一次性接上：同一位乘客，既是社交账号上追线索的对象，也是此刻能解决问题的人。
 
-> **原句 6:** "and your best friend might miss you but she might also date your boyfriend, which you can’t complain about because you’re not there, and Eve feels like there is some life lesson there. Maybe it’s just: live your life, Eve. Live it hard."
+> **原句 6:** "when you’re gone you’re really gone, and everyone else will keep on having lives, feeling sad about you but also having fun, and your best friend might miss you but she might also date your boyfriend, which you can’t complain about because you’re not there, and Eve feels like there is some life lesson there. Maybe it’s just: live your life, Eve. Live it hard."
 
-**中文理解**：她想到遇难女孩留下的那位好友已经出院，正和那位高瘦的男友一起去做道路安全的校园演讲——像是在纪念遇难者，又像是在恋爱；她由此生出一句近乎教训的结论。
-**关键词**：might miss you, date your boyfriend, can’t complain about because you’re not there, some life lesson, live your life, Eve
-**为什么这样写**：把「你不在场所以无从抗议」写成一份无法上诉的清单，最后用两个短句把感慨收成口号；live it hard 与前面整章的琐碎形成反差，是她给自己下的诊断也是处方。
-**读者视角提示**：注意这里的转折点是她自己想到了那层关系，而不是别人告知她——作者让读者跟着她一起想到，因此这句口号才像是对读者说的。
+**中文理解**：这一段从一件冷冰冰的事实开始——人走了就是走了，别人会继续过日子、为你难过、也照样玩得开心；而最好的朋友也许会想你，也许会和你男友在一起，而你无从抱怨，因为你已经不在场了。叙述者由此生出一句近乎教训的结论。
+**关键词**：when you’re gone you’re really gone, keep on having lives, your best friend might miss you, date your boyfriend, can’t complain about because you’re not there, live your life, Eve
+**为什么这样写**：把「你不在场所以无法上诉」写成一串不容辩驳的短句，最后用两个更短的句子把感慨收成口号；live it hard 与前面整章的琐碎形成反差，它既是诊断也是处方。
+**读者视角提示**：注意这里的转折完全出自她自己想到的那层关系，而不是谁告诉了她——读者跟着她一起想到，因此这句口号才像是对读者说的。
 
 > **原句 7:** "She is Eve Archer-Fern and the future is in her hands."
 
