@@ -37,10 +37,10 @@ modified: "2026-10-01"
 - **为什么这样写**：一句以身体的尺寸起笔的观察（tall man），而落点是折叠（fold in half）。作者不写他低头、不写他崩溃，只写一个尺寸与一次折叠；这个对照让羞耻变成可测量的量。
 - **读者视角提示**：这场戏里她赢了两次；请把这句话与她爸在插叙里「把头缩进泳衣」的样子并读——这个家里的人，认输时都是先折叠。
 
-> **原句 4:** “I think you should have the right to decide what happens to it.”
+> **原句 4:** I thought you should have the right to decide what happens to it. Shoot it. Bury it. Melt it down. Whatever you want.
 
 - **中文理解**：「「我想你应该有权决定它（这把枪）会怎么样。」」
-- **关键词**：the right to decide · what happens to it
+- **关键词**：the right to decide · Shoot it. Bury it. Melt it down
 - **为什么这样写**：一句把处置权交出去的话，而交的方式是把选择压缩成三个动词（shoot it / bury it / melt it down）。give someone the right to… 是全书对所有权最克制的一次使用——枪是 Neil 的，拍卖到 Parsonson's 手上，而最后拿到决定权的人，是那个还在用这支枪训练的人。
 - **读者视角提示**：请把它与探监那天 Neil 说的「他们不许我给你，但你知道它们是给你的」并读：一次是给糖，一次是给凶器与决定权。
 
