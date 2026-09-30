@@ -1,0 +1,10 @@
+=== 审查期脚本自检：门禁是否空转 ===
+门禁                      观测量                 实际  期望
+verify_quotes           引语块                150  ≥150（15 章 × 10）  ✅ 已生效
+check_vocab             词条行                995  > 0（实测 vocab 报 995）  ✅ 已生效
+check_entities          待检文件                18  = 18  ✅ 已生效
+corruption_scan         受扫文件                18  = 18  ✅ 已生效
+sweep_full              本章命中引语             148  = 引语块数  ✅ 已生效
+check_chapter_quotes    受检章                 15  = 15  ✅ 已生效
+check_overview_full     总览文件                 3  = 3  ✅ 已生效
+verify_overview_quotes  圈数字引语              394  ≥25（①–㉕）  ✅ 已生效

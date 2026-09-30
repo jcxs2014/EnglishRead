@@ -1,0 +1,10 @@
+### verify_quotes（工具修复后）
+
+=== 总计 175/175 引文可核实（100%）；完全干净文件 16/16；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+### check_short_quotes
+
+### check_chapter_quotes（逐章归属）
+  File "/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_chapter_quotes.py", line 344, in main
+    nn = int(args[0])
+ValueError: invalid literal for int() with base 10: 'notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner'

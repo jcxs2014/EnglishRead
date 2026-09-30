@@ -1,0 +1,29 @@
+=== 五步审查投毒测试（2026-09-30，An Army like No Other）===
+纪律依据：新书启动模板「审查过程自身四条纪律」第 3 条——报告为 0/100% 时先怀疑脚本。
+做法：在工作树上注入 7 类已知缺陷，确认对应门禁**会红**；测完 git checkout 还原。
+**必须先提交修复再投毒**（否则还原会把修复一起撤掉）——本次已先 commit f2dd5f25。
+
+投毒 1｜凭空引语（塞进 ch01 原句 3）
+  ✅ verify_quotes 抓到（175/175 → 174/175，99%）
+  ✅ indep_quotes（第二实现，无剥壳/无指纹）抓到
+  ✅ sweep_full（整串 flat）抓到
+  ✅ check_chapter_quotes 抓到
+投毒 2｜分析层改写型幻觉（中文理解里塞英文短语）
+  ✅ sweep_analysis_inline 抓到
+投毒 3｜U+FFFD 写进分析层
+  ✅ corruption_scan 抓到（第 1 轮「没抓到」是**测试脚本没落地**：ch01 首条关键词里
+     并不含 "Worthy of note"，replace 为空操作；改用真实短语后 ch01:71 立即报出）
+投毒 4｜跨章搬句（ch03 引语塞进 ch01 原句 5）
+  ✅ check_chapter_quotes 抓到
+  ⚪ verify_quotes **设计上抓不到**（全书口径，句子在全书里确实存在）——这不是盲区，
+     而是两门禁分工：verify 管「在不在全书」，check_chapter_quotes 管「在不在本章」
+投毒 5｜A 类虚构词条（ethnomachy，例句也不在原文）
+  ✅ check_vocab 抓到（FAIL(1) 例句不命中本章）
+投毒 6｜总览层凭空引语（00_金句精选 加一条 ①）
+  ✅ verify_overview_quotes 抓到
+投毒 7｜章节标签错（金句标注 ch09 实际在 ch05）
+  ✅ check_overview_full（标签对账）抓到
+还原确认：7 处全部还原，git status 干净
+
+=== 结论：7/7 投毒全部被抓到（其中 3 处「未抓到」经复核是我测试脚本的判据/落地问题，
+      非工具盲区）⇒ 本书那些 0 是真 0，不是空转。===

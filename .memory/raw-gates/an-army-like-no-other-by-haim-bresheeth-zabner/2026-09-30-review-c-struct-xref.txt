@@ -1,0 +1,29 @@
+### c 步｜结构（第二实现 check_struct_indep）
+❌ notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/ch01 introduction.md 下没有 ch*.md
+❌ notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/ch02 chapter 1 the origins of the idf.md 下没有 ch*.md
+❌ notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/ch03 chapter 2 the 1948 war.md 下没有 ch*.md
+❌ notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/ch04 chapter 3 the 1956 war.md 下没有 ch*.md
+❌ notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/ch05 chapter 4 the 1967 war.md 下没有 ch*.md
+❌ notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/ch06 chapter 5 the 1973 war.md 下没有 ch*.md
+❌ notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/ch07 chapter 6 israel longest war lebanon war 1982-2000.md 下没有 ch*.md
+❌ notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/ch08 chapter 7 lebanon 2006 israel failed war against hezbollah.md 下没有 ch*.md
+❌ notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/ch09 chapter 8 the armed settlements project.md 下没有 ch*.md
+❌ notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/ch10 chapter 9 the first intifada and the oslo accords.md 下没有 ch*.md
+❌ notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/ch11 chapter 10 israel military-industrial complex.md 下没有 ch*.md
+❌ notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/ch12 chapter 11 the idf today.md 下没有 ch*.md
+❌ notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/ch13 chapter 12 more divided than ever.md 下没有 ch*.md
+❌ notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/ch14 chapter 13 is israel a democracy.md 下没有 ch*.md
+❌ notes/books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/ch15 afterword can there be another israel.md 下没有 ch*.md
+
+### d 步机械｜跨章引用（第二实现 check_xref_indep）
+  ❌ 00_情感节点.md:78 → ch12：证据 ['making kosher'] 在该章查无
+        句：2. **引号标出被使用的标签**——genocidal “cleansing”（ch07）、real “victim”（ch08）、“Security”（ch12）、“making kosher”（
+  ❌ 00_情感节点.md:78 → ch14：证据 ['goyim killing goyim'] 在该章查无
+        句：2. **引号标出被使用的标签**——genocidal “cleansing”（ch07）、real “victim”（ch08）、“Security”（ch12）、“making kosher”（
+  ❌ 00_概述.md:86 → ch12：证据 ['making kosher'] 在该章查无
+        句：3. **引号标出被使用的标签**——genocidal “cleansing”（ch07）、real “victim”（ch08）、“Security”（ch12）、“making kosher”（
+  ❌ ch08 chapter 7 lebanon 2006 israel failed war against hezbollah.md:128 → ch01：证据 ['chasm between reality and propaganda'] 在该章查无
+        句：gulf（鸿沟）一词是本句的核心意象，与 ch01 的"chasm between reality and propaganda"（现实与宣传之间的鸿沟）形成呼应。
+  ❌ ch11 chapter 10 israel military-industrial complex.md:206 → ch11：证据 ['was reported to have dismissed'] 在该章查无
+        句：这一处理与全书其他地方的风格一致：作者总是把限定条件放在信息之后（ch07 的"goyim killing goyim"、ch11 的"was reported to have dismissed"）
+=== chNN 引用 328 处：英文证据报警 5 处 ／ 中文式待人判 316 处 ===

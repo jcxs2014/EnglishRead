@@ -1,0 +1,57 @@
+=== 复验结果（ok=子代理的判断被原文证实）===
+  ✅ [ch02·1] 计数：「648 句」
+       → 全书 text/ 无 648
+  ✅ [ch03·1] 计数：「全句仅十一个词」vs Rather, it was the result of long and meticulous planning.
+       → 实测 10 词
+  ❌ [金句⑥] 计数：「全句五个词」（同一句）
+       → 实测 10 词 —— 与 ch03 同句、两个不同错值
+  ✅ [ch06·9] 计数：「44 词长句」vs Israel became trenchant and extreme, more interventionist and less circumspect.
+       → 实测 10 词
+  ❌ [ch13·6] 计数：「七词」vs Most Haredim make their living out of being Haredi.
+       → 实测 9 词
+  ❌ [ch06·10a] 计数：「a body 反复四次」
+       → 原文该句内 a body×2 ／ 'body' 出现×3（含 a "body" 的引号形态）
+  ✅ [ch05·9] 跨章：「作者在 ch02 已指出戴扬 1953 年接任总参谋长」
+       → 该句实为 ch04；ch02 无
+  ✅ [ch07·3] 跨章：「取代 ch03 的提法」＋「他在引言中预告」
+       → ratchet 在 ch01 引言，不在 ch03
+  ✅ [ch13·8] 跨章：「ch09 处理东方主义的段落」
+       → 该段就在 ch13 本章，ch09 无 Orientalism
+  ✅ [ch14·1a] 跨章：「ch09 的 65 部法律」
+       → 65 laws 在 ch13，不在 ch09
+  ✅ [ch14·1c] 跨章：「ch13 的 65% 军事参与」
+       → 全书无 65% 军事参与表述
+  ❌ [ch14·9] 跨章：「ch09 用引号包住 real『真正的』」
+       → real victim 在 ch08（ch07 亦见），ch09 无
+  ✅ [ch15·6] 跨章：「ch02（1967 年的敌人是绝对威胁）」
+       → 全书 text/ 无 absolute threat
+  ✅ [ch06·10b] 伪造：「引自以色列车载的报道」
+       → 该伪机构名在 ch06 原文无（原文只说 most Israelis continued to…）
+  ✅ [金句⑰] 伪造：「查哈顿委员会 1974 年」
+       → 全书 text/ 与 epub 均无该委员会名
+  ✅ [ch08·8] 伪造：「扶植一个傀儡总统」「势力范围」
+       → 两措辞全书查无；ch07 实际文本是 Litani 一线与 cleansing the city
+  ✅ [ch09·5] 伪造：he needs the name to be arguable, since the section proceeds to assess feasibility
+       → 整句与关键词 arguable 全书查无
+  ✅ [概述L18] 伪造：enforcing the will of the people
+       → 全书 text/ 查无；该处应作意译
+  ✅ [ch12·6] 损坏：Had ar Goldin → Hadar Goldin
+       → 原文为 Hadar Goldin；md 被人为拆开
+  ✅ [ch01·1] 语义：把 willingly or otherwise 读成 unwillingly
+       → 原文是 willingly or otherwise（未必自愿的模糊），无 unwillingly
+  ✅ [ch13·4] 语义：「该句在原书中的位置是在提到『犹太民族国家法』之前」
+       → 原文次序：民族国家法(offset 27198) 在 65 laws(offset 27354) 之前 ⇒ 分析说反了
+  ✅ [ch11·9] 重复：括号内两条同指 ch07 同一句
+       → 见下方人工核对
+  ✅ [ch11·3/10] 重复：原句 3 引语包含原句 10 引语全文
+       → 见下方人工核对
+  ✅ [ch10·5] 提示：「读者按常识理解为 1919」无文本支撑
+       → ch10 无 1919；分析自陈是常识补充
+  ✅ [ch15·2] 提示：「全书从 1948 年讲到 2020 年」
+       → 2020 是版权页年份，不在 ch15 正文
+  ❌ [节点8] 提示：「阿拉伯人占人口 22% 得 10% 议席」顺序倒置
+       → 数据对，顺序与原文相反
+  ✅ [ch02·10] 说话人：「ch01 由作者本人给出心理版本」
+       → ch01 该句归于 Amnon Raz-Krakotzkin，非作者本人
+
+22/27 条子代理判断被原文证实

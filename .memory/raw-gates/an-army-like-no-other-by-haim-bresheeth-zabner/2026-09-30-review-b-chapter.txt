@@ -1,0 +1,21 @@
+### b 步｜逐章归属 check_chapter_quotes（15 章逐一）
+  1  ch01 introduction.md: 12/12 in ch01 text 
+  2  ch02 chapter 1 the origins of the idf.md: 12/12 in ch02 text 
+  3  ch03 chapter 2 the 1948 war.md: 12/12 in ch03 text 
+  4  ch04 chapter 3 the 1956 war.md: 12/12 in ch04 text 
+  5  ch05 chapter 4 the 1967 war.md: 12/12 in ch05 text 
+  6  ch06 chapter 5 the 1973 war.md: 12/12 in ch06 text 
+  7  ch07 chapter 6 israel longest war lebanon war 1982-2000.md: 12/12 in ch07 text 
+  8  ch08 chapter 7 lebanon 2006 israel failed war against hezbollah.md: 12/12 in ch08 text 
+  9  ch09 chapter 8 the armed settlements project.md: 12/12 in ch09 text 
+  10  ch10 chapter 9 the first intifada and the oslo accords.md: 12/12 in ch10 text 
+  11  ch11 chapter 10 israel military-industrial complex.md: 12/12 in ch11 text 
+  12  ch12 chapter 11 the idf today.md: 12/12 in ch12 text 
+  13  ch13 chapter 12 more divided than ever.md: 12/12 in ch13 text 
+  14  ch14 chapter 13 is israel a democracy.md: 12/12 in ch14 text 
+  15  ch15 afterword can there be another israel.md: 12/12 in ch15 text 
+
+### check_short_quotes
+=== 短引语兜底核对（an-army-like-no-other-by-haim-bresheeth-zabner）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。

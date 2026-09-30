@@ -1,0 +1,23 @@
+=== 独立实现：整行逐字 flat 断言（无剥壳、无截断、无指纹）===
+  引语块 150 条｜命中本章 150 ｜命中全书 150 ｜命中 epub 150 ｜任一失败 0
+
+=== 对照：verify_quotes 实际校验的字符串（剥壳后）===
+  🔶 ch01「Israel refers to wars as “operations,” a practice th…」
+      verify_quotes 实验的是：「israelreferstowarsasoperations」
+  🔶 ch02「Thus, the 750,000 expelled refugees were practically…」
+      verify_quotes 实验的是：「thusthe750000expelledrefugeeswerepracticallyerasedconvenient」
+  🔶 ch03「The villages, homes, orchards, fields, and contents …」
+      verify_quotes 实验的是：「thevillageshomesorchardsfieldsandcontentswererecycled」
+  🔶 ch05「Israel’s territorial conquests were a “dowry” and th…」
+      verify_quotes 实验的是：「israelsterritorialconquestswereadowry」
+  🔶 ch05「the “people of the book” became the people of the gu…」
+      verify_quotes 实验的是：「（未匹配）」
+  🔶 ch07「“goyim killing goyim,” as Begin was reported to have…」
+      verify_quotes 实验的是：「（未匹配）」
+  🔶 ch07「Israeli apartheid, as opposed to the one introduced …」
+      verify_quotes 实验的是：「israeliapartheidasopposedtotheoneintroducedbysouthafricain19」
+  🔶 ch08「turning victim into aggressor, with the aggressor de…」
+      verify_quotes 实验的是：「turningvictimintoaggressorwiththeaggressordeemedthereal」
+  🔶 ch09「not by moralizing and preaching “sermons on the moun…」
+      verify_quotes 实验的是：「notbymoralizingandpreachingsermonsonthemount」
+  ⇒ 共 9 条引语：门禁校验的是截断版而非我写的整句

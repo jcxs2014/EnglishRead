@@ -1,0 +1,14 @@
+=== dry-run → apply：18/28 条已改 ===
+  ❌ 未改： ('ch01 introduction.md', '共享一个 by 状语的否定式（unwillingly），把“反抗”和“合谋”的道德距离一笔抹平', '命中 0 次（须恰 1）')
+  ❌ 未改： ('ch07 chapter 6 israel longest war lebanon war 1982-2000.md', '作者用 ratchet 一词取代了 ch03 的“暴力升级的棘轮”提法（他在引言中预告过这一概念）', '命中 0 次（须恰 1）')
+  ❌ 未改： ('ch08 chapter 7 lebanon 2006 israel failed war against hezbollah.md', '他曾在 ch07 中说过沙龙与 Gemayel 商量的是“扶植一个傀儡总统”与“让黎巴嫩成为以色列的势力范围”', '命中 0 次（须恰 1）')
+  ❌ 未改： ('ch11 chapter 10 israel military-industrial complex.md', '（均在 ch07：the "goyim killing goyim," as Begin **was repor', '命中 0 次（须恰 1）')
+  ❌ 未改： ('ch13 chapter 12 more divided than ever.md', '这一句在原书中的位置是在提到“犹太民族国家法”之前，作者用它来表明该法不是例外而是延续', '命中 0 次（须恰 1）')
+  ❌ 未改： ('ch13 chapter 12 more divided than ever.md', '与作者在 ch09 处理“东方主义”的段落构成呼应——在那里他引用了', '命中 0 次（须恰 1）')
+  ❌ 未改： ('ch15 afterword can there be another israel.md', '这是全书从 ch02（1967 年的敌人是“绝对威胁”）到 ch13（部落分化）的论证的最终合成', '命中 0 次（须恰 1）')
+  ❌ 未改： ('00_概述.md', '于是“国家理由”（enforcing the will of the people）成为一个不需要论证的短语', '命中 0 次（须恰 1）')
+  ❌ 未改： ('00_金句精选.md', '这是查哈顿委员会 1974 年关于军队“质量”的定义', '命中 0 次（须恰 1）')
+  ❌ 未改： ('00_情感节点.md', 'its society, industry, and identity.”（Introduction, ch01', '命中 0 次（须恰 1）')
+=== 第二批：9/9 条已改 ===
+  原: ery heart of its society, industry, and identity."（Introduction, ch01）
+  新: iety, industry, and identity."（第 10 章 Israel's Military-Industrial Complex，ch11）

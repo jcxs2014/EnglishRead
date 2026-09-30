@@ -1,0 +1,37 @@
+### corruption_scan
+  FAIL 0 处（U+FFFD / 双句号）
+### verify_quotes
+
+=== 总计 175/175 引文可核实（100%）；完全干净文件 16/16；正文章节 0 提取 0；总览 0 提取转交 1 ===
+### check_vocab
+--- FAIL (0) ---
+### check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+### sweep_full
+  ✅ 本章命中 150 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+### check_chapter_quotes
+   1 12/12 in ch01 text
+   1 12/12 in ch02 text
+   1 12/12 in ch03 text
+   1 12/12 in ch04 text
+   1 12/12 in ch05 text
+   1 12/12 in ch06 text
+   1 12/12 in ch07 text
+   1 12/12 in ch08 text
+   1 12/12 in ch09 text
+   1 12/12 in ch10 text
+   1 12/12 in ch11 text
+   1 12/12 in ch12 text
+   1 12/12 in ch13 text
+   1 12/12 in ch14 text
+   1 12/12 in ch15 text
+### 结构（第二实现）
+=== 独立结构扫描：15 个 md，缺陷 0 处 ===
+### 跨章（第二实现）
+=== chNN 引用 325 处：英文证据报警 0 处 ／ 中文式待人判 316 处 ===
+### 分析层（第二实现）
+  ch13 chapter 12 more divided than ever.md:190  making a living as a doctor
+### verify_overview_quotes
+=== 总览引文 25/25 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+### indep_quotes（本次新写的第三实现）
+  引语块 150 条｜命中本章 150 ｜命中全书 150 ｜命中 epub 150 ｜任一失败 0

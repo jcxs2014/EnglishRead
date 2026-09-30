@@ -1,0 +1,54 @@
+### c 步｜结构（第二实现 check_struct_indep）
+  ❌ ch08 chapter 7 lebanon 2006 israel failed war against hezbollah.md: [nonfiction] 引语块 0 个，超出 10–10 配额
+  ❌ ch08 chapter 7 lebanon 2006 israel failed war against hezbollah.md: [nonfiction] 第 39 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+  ❌ ch08 chapter 7 lebanon 2006 israel failed war against hezbollah.md: [nonfiction] 第 41 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+  ❌ ch09 chapter 8 the armed settlements project.md: [nonfiction] 引语块 0 个，超出 10–10 配额
+  ❌ ch09 chapter 8 the armed settlements project.md: [nonfiction] 第 34 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+  ❌ ch09 chapter 8 the armed settlements project.md: [nonfiction] 第 36 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+  ❌ ch10 chapter 9 the first intifada and the oslo accords.md: [nonfiction] 引语块 0 个，超出 10–10 配额
+  ❌ ch10 chapter 9 the first intifada and the oslo accords.md: [nonfiction] 第 35 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+  ❌ ch10 chapter 9 the first intifada and the oslo accords.md: [nonfiction] 第 37 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+  ❌ ch11 chapter 10 israel military-industrial complex.md: [nonfiction] 引语块 0 个，超出 10–10 配额
+  ❌ ch11 chapter 10 israel military-industrial complex.md: [nonfiction] 第 41 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+  ❌ ch11 chapter 10 israel military-industrial complex.md: [nonfiction] 第 43 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+  ❌ ch12 chapter 11 the idf today.md: [nonfiction] 引语块 0 个，超出 10–10 配额
+  ❌ ch12 chapter 11 the idf today.md: [nonfiction] 第 38 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+  ❌ ch12 chapter 11 the idf today.md: [nonfiction] 第 40 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+  ❌ ch13 chapter 12 more divided than ever.md: [nonfiction] 引语块 0 个，超出 10–10 配额
+  ❌ ch13 chapter 12 more divided than ever.md: [nonfiction] 第 51 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+  ❌ ch13 chapter 12 more divided than ever.md: [nonfiction] 第 53 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+  ❌ ch14 chapter 13 is israel a democracy.md: [nonfiction] 引语块 0 个，超出 10–10 配额
+  ❌ ch14 chapter 13 is israel a democracy.md: [nonfiction] 第 57 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+  ❌ ch14 chapter 13 is israel a democracy.md: [nonfiction] 第 59 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+  ❌ ch15 afterword can there be another israel.md: [nonfiction] 引语块 0 个，超出 10–10 配额
+  ❌ ch15 afterword can there be another israel.md: [nonfiction] 第 67 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+  ❌ ch15 afterword can there be another israel.md: [nonfiction] 第 69 行：`> ` 出现在 ## 选择性精读 之外（> 只用于引语）
+=== 独立结构扫描：15 个 md，缺陷 45 处 ===
+
+### d 步机械｜分析层行内英文（第二实现 check_analysis_indep）
+  ch08 chapter 7 lebanon 2006 israel failed war against hezbollah.md:82  A failed to make Lebanon into X but had succeeded with Y
+  ch08 chapter 7 lebanon 2006 israel failed war against hezbollah.md:198  an exercise of self-delusion
+  ch10 chapter 9 the first intifada and the oslo accords.md:110  in their protests against the IDF
+  ch10 chapter 9 the first intifada and the oslo accords.md:110  they did not use A but rather B
+  ch11 chapter 10 israel military-industrial complex.md:102  depending on armed conflict
+  ch11 chapter 10 israel military-industrial complex.md:206  the product that it had purchased
+  ch12 chapter 11 the idf today.md:105  of the resistance efforts
+  ch12 chapter 11 the idf today.md:133  this is a recommendation
+  ch12 chapter 11 the idf today.md:175  The presentation of A as B
+  ch13 chapter 12 more divided than ever.md:136  more than X rather than Y
+  ch13 chapter 12 more divided than ever.md:144  the power relationship between A and B
+  ch13 chapter 12 more divided than ever.md:190  making a living as a doctor
+  ch14 chapter 13 is israel a democracy.md:221  apotheosis of destructive politics
+  ch14 chapter 13 is israel a democracy.md:251  not worthy of being called
+  ch15 afterword can there be another israel.md:131  BDS movement supplies the model for such action
+
+### c 步｜总览 check_overview_full
+=== 总览整串核查（an-army-like-no-other-by-haim-bresheeth-zabner）===
+  参照集：text/ 逐章（15 章） ｜ 总览文件 3 个
+  A 整串：命中 46 ｜ 🔶 拼接 1 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 3
+  B 章节标签：对 11 ｜ 标注与实章不符 1（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 34 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 2 ｜ 不符 0（**只报不判红**）｜ 跳过 2
+  C 跨章多重命中：0 ｜ E H1 语义错配：1
+  ❌ 00_情感节点.md:1  H1「An Army like No Other 情感与论证节点」与文件名「00_情感节点.md」语义不符 —— 疑似整文件写错
+  ⚠️ 00_情感节点.md:15  标注 ch1 但引语不在该章（实为 ch11）：For Israel to achieve this status, it ha
+  ⚠️ 00_金句精选.md:143  段内拼接（叙述标签被删）：as … was reported to have dismissed

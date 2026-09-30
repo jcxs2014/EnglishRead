@@ -1,0 +1,16 @@
+片段                                                        占位   命中章           判定
+A failed to make Lebanon into X but had succeeded with Y  是    —             🟡 示意写法（含 A/X/B/Y 占位）——本就不该按引语判
+an exercise of self-delusion                              否    —             🔴 原书无 ⇒ 凭空英文，须改
+in their protests against the IDF                         否    —             🔴 原书无 ⇒ 凭空英文，须改
+they did not use A but rather B                           是    —             🟡 示意写法（含 A/X/B/Y 占位）——本就不该按引语判
+depending on armed conflict                               否    —             🔴 原书无 ⇒ 凭空英文，须改
+the product that it had purchased                         否    —             🔴 原书无 ⇒ 凭空英文，须改
+of the resistance efforts                                 否    —             🔴 原书无 ⇒ 凭空英文，须改
+this is a recommendation                                  否    —             🔴 原书无 ⇒ 凭空英文，须改
+The presentation of A as B                                是    —             🟡 示意写法（含 A/X/B/Y 占位）——本就不该按引语判
+more than X rather than Y                                 是    —             🟡 示意写法（含 A/X/B/Y 占位）——本就不该按引语判
+the power relationship between A and B                    是    —             🟡 示意写法（含 A/X/B/Y 占位）——本就不该按引语判
+making a living as a doctor                               否    —             🔴 原书无 ⇒ 凭空英文，须改
+apotheosis of destructive politics                        否    —             🔴 原书无 ⇒ 凭空英文，须改
+not worthy of being called                                否    —             🔴 原书无 ⇒ 凭空英文，须改
+BDS movement supplies the model for such action           否    —             🔴 原书无 ⇒ 凭空英文，须改
