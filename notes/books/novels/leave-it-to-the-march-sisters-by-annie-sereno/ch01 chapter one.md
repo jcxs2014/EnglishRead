@@ -23,7 +23,7 @@ modified: "2026-09-30"
 
 > **原句 2:** “Monet is the artist who painted water lilies.”
 **中文理解**：Derek 昨天讲了一整晚马奈的睡莲，她小声纠正：画睡莲的是莫奈。
-**关键词**：mumbled / is the artist who
+**关键词**：is the artist who / painted water lilies
 **为什么这样写**：defining relative clause 用一个定语从句把事实压成判决句，主语加 be 动词再接 who 从句，是「纠错」的语法形状。作者用它同时做两件事：立住 Amy 的艺术史专业身份，以及暴露她与 Derek 根本无法对话——他分不清两个印象派画家，她连纠正都只是「mumbled under her breath」。定义的精确与沟通的无效形成反差。
 **读者视角提示**：这句是全章最短的一次交锋，也是全章主题的缩影——两个人共享「热爱艺术」这个标签，却不在同一个频道上。
 
