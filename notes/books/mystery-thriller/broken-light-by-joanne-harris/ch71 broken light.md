@@ -17,13 +17,13 @@ modified: "2026-09-30"
 
 > **原句 1:** "After that, everything happened at once. I remember the lights going down; the safety curtain crashing. Martin, at the top of his voice, shouting for a doctor. Lucas saying: Is that blood? in a voice that sounded high and far away; the cramps in my belly twisting like a vicious corkscrew in my gut. Andrew and Joss had already pinned Adam to the ground, but there was no sign of a weapon now, and Adam wasn’t moving."
 
-**中文理解**： 那之后所有事同时发生：灯灭了，安全幕砸下来，Martin 扯着嗓子喊医生，Lucas 用一种又高又远的声音问那是血吗，她腹部的绞痛像一只恶性开瓶器在肠子里绞。她想挤到 Bernie 那边，可 Andrew 和 Joss 已经把 Adam 按在地上，那里已经没有凶器的影子，Adam 也不动了。
+**中文理解**： 那之后所有事同时发生：灯灭了，安全幕砸下来，Martin 扯着嗓子喊医生，Lucas 用一种又高又远的声音问那是血吗，她腹部的绞痛像一只恶性开瓶器在肠子里绞。她试过要挤到 Bernie 那边，可台前已经挤满了人；Andrew 和 Joss 把 Adam 按在地上，那里已经没有凶器的影子，Adam 也不动了。
 
 **关键词**： everything happened at once · the safety curtain crashing · Is that blood? · there was no sign of a weapon now
 
 **为什么这样写**： 一连串分号把所有动作压进同一秒；叙述者一边在人群外，一边把自己的绞痛和全场的事并排塞进同一个分号句里，说明她没有退场；而 no sign of a weapon now 这个否定短句把凶器从现场的事实层面直接移除。
 
-**读者视角提示**： 凶器消失是本章开头最不能被误读的细节——不是被藏起来，而是从这一刻起再没有人能说出它去了哪里。
+**读者视角提示**： 凶器消失是本章开头最不能被误读的细节——文本不再交代它的去向，而这一页之后也没有人再提起它。
 
 ---
 
@@ -33,9 +33,9 @@ modified: "2026-09-30"
 
 **关键词**： Look · Now · Look at yourself
 
-**为什么这样写**： 三个词分作三段，像报魔术的节拍；它与全书开篇那句 Make them look（让他们看看）同构，只是宾语从别人换成了自己。
+**为什么这样写**： 三个短句像报魔术的节拍；它与全书开篇那句 Make them look（让他们看看）同构，只是宾语从别人换成了自己。
 
-**读者视角提示**： 这三个字是全书对镜子的用法说明：不是让人看见别人，是让人看见自己。
+**读者视角提示**： 这一句是全书对镜子的用法说明：不是让人看见别人，是让人看见自己。
 
 ---
 

@@ -17,11 +17,11 @@ modified: "2026-09-30"
 
 > **原句 1:** "But it wasn’t. It felt horribly flat. My head hurt, and Lucas was raucous in his introductions, and Martin’s bass was much too loud, and the keyboards were overwhelming"
 
-**中文理解**： 可它不是。感觉糟透了地平：头在痛，Lucas 的开场介绍吵得离谱，Martin 的贝声太响，键盘声把一切都压了过去。
+**中文理解**： 可它不是。感觉糟得发平：头在痛，Lucas 的开场介绍吵得离谱，Martin 的贝斯声太响，键盘声把一切都压了过去。
 
 **关键词**： horribly flat · raucous in his introductions · the keyboards were overwhelming
 
-**为什么这样写**： 前一段刚说这场演唱本该很美，这一段用五个短促的抱怨句把它拆碎；动词从「唱」换成一连串失控（头在痛、太响、压过一切），最后主语才回到她的声音本身。
+**为什么这样写**： 前一段刚说这场演唱本该很美，这一段用一串短促的抱怨句把它拆碎；动词从「唱」换成一连串失控（头在痛、太响、压过一切），最后主语才回到她的声音本身。
 
 **读者视角提示**： 这一章里 Kate 对外部的不满写得最重，她对自己的那句 flat 反而最短。
 
@@ -45,7 +45,7 @@ modified: "2026-09-30"
 
 **关键词**： almost invisible · the caretaker’s help · you could have reached out and touched him
 
-**为什么这样写**： 段落以一个问句收尾，把「没看见」从疏忽变成整群人的共同选择；前面三层递进的否定铺台阶，连伸手去碰都写了，却始终没有人伸手。
+**为什么这样写**： 段落以一个问句收尾，把「没看见」从疏忽变成整群人的共同选择；前面几次递进的否定铺台阶，连伸手去碰都写了，却始终没有人伸手。
 
 **读者视角提示**： 这一段把 Adam 的处境定性为社会性的问题，也替后面所有人「终于看见」的那一刻备好了理由。
 
@@ -57,7 +57,7 @@ modified: "2026-09-30"
 
 **关键词**： I sat and watched this show from the shadows · ashamed of forsaking my power · I’m here tonight because of me
 
-**为什么这样写**： 三个 ashamed of 排比，把羞耻拆成身体、外貌与权力三层；随后一句把主语从「我等谁来看我」换成「我为自己」，并用少女时代的名字作落款——她把当年被拿走的身份当面领了回来。
+**为什么这样写**： 连续的 ashamed of 排比，把羞耻拆成身体、外貌与权力三层；随后一句把主语从「我等谁来看我」换成「我为自己」，并用少女时代的名字作落款——她把当年被拿走的身份当面领了回来。
 
 **读者视角提示**： 她要唱的那首歌由三个人现场拼出来：钢琴是 Andrew Whelan 视奏跟上，鼓是 Joss Lively 打出即兴拍子，连 Martin 都接了贝斯；Bernie 把一张乐谱丢在琴上就上了台。
 
