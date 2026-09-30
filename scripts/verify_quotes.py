@@ -68,18 +68,37 @@ def extract_quotes(txt: str, include_short: bool = False):
     quotes = []
     seen = set()
     short = 0
+    # ⚠️ 分支顺序 = HEAD 原序，**不要重排**（2026-09-30 五步审查教训，见下）
+    # 逐分支试匹配只为记住命中的是哪一支，供 need_strip 判断
+    _BR = ((r'^[' + CIRCLED + r']\s+(.+)$',                     'circ_bare'),
+           (r'^\*{1,2}[' + CIRCLED + r']\*{1,2}\s+["\'](.*)["\']', 'circ_bold'),
+           (r'^[' + CIRCLED + r']\s+["\'](.*)["\']',             'yuanku'),
+           (r'^>\s*\*{0,2}原句\s*\d+[:：]?\*{0,2}\s+(.+)$', 'yuanju'),
+           (r'^>\s*["“](.+)$', 'yanqing'))   # 言情无编号 blockquote
+    # 教训：审查期曾把「带引号的圈数字」两支提到 circ_bare 之前，想让剥离更准，
+    # 结果 `yuanku` 的 `(.*)` 紧跟 `["\']` 时贪婪退化为**最短**匹配
+    # （`⑥ "No." It would…` 只取到 `No.`）⇒ 全库 16 本书共丢引语。
+    # 结论：修工具只改**必要的那一处**，分支顺序一动就要全库回归证明。
     for raw in txt.splitlines():
         s = raw.strip()
-        m = (re.match(r'^[' + CIRCLED + r']\s+(.+)$', s)
-             or re.match(r'^\*{1,2}[' + CIRCLED + r']\*{1,2}\s+["\'](.*)["\']', s)
-             or re.match(r'^[' + CIRCLED + r']\s+["\'](.*)["\']', s)
-             or re.match(r'^>\s*\*{0,2}原句\s*\d+[:：]?\*{0,2}\s+(.+)$', s)
-             or re.match(r'^>\s*["\u201c](.+)$', s))   # 言情无编号 blockquote
+        m = br = None
+        for pat, name in _BR:
+            mm = re.match(pat, s)
+            if mm:
+                m, br = mm, name
+                break
         if not m:
             continue
         body = m.group(1).strip()
-        # 言情行尾可能是 `" he said.` 叙述标签——剥掉引号外内容后校验引号内
-        if body and not body.rstrip().endswith(('"', '"', "'", "'")):
+        # ⚠️ **`yuanju`（`原句 N:`）分支不剥叙述标签**（2026-09-30 An Army like No Other 五步审查修）
+        # 原实现对所有分支无差别剥壳，误伤了 `原句 N:` 行里**句中带引号对、末尾不带引号**的引语
+        # —— 那是本库非虚构/论述格式的常态（An Army 实测 150 条里 9 条被截断）：
+        #   实测 `Israel refers to wars as “operations,” a practice that normalizes them…`
+        #        被抽成 `Israel refers to wars as `（24 flat 字符 ≥20，照样「通过」）
+        # ⇒ 门禁那 100% 里有一部分验的不是作者写的引语，而是它的截断版。
+        # 纪律依据：新书启动模板「审查过程自身四条纪律」第 3 条（报告为 0/100% 时先怀疑脚本）。
+        need_strip = br != 'yuanju' and not body.rstrip().endswith(('"', '"', "'", "'"))
+        if need_strip:
             m2 = re.match(r'^["\u201c](.*?)[""”]\s*(?:[A-Za-z\u2014].{0,60})?$', body)
             if not m2:
                 m2 = re.match(r'^(.*?)[""”]\s*(?:[A-Za-z\u2014].{0,60})?$', body)

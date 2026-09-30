@@ -26,6 +26,16 @@ from pathlib import Path
 SENT = re.compile(r'[^。！？\n]*ch\d\d[^。！？\n]*[。！？]?')
 # A: 被引号包裹的英文
 QEN = re.compile(r'[「“"]([^」”"]{12,})[」”"]')
+# A': 「引文」（chNN）——标注在引文**之后**的配对写法（2026-09-30 增补，见下方注释）
+#    ⚠️ 必须要求引文**以拉丁字母为主**（≥60%）：中文句里嵌一两个英文术语的表格单元
+#    （如「1948 年战争是…的 initiator 与 progenitor」（ch03））也会命中本式，
+#    而它们本就该走「中文式待人判」，不该按英文 flat 比对判红。
+QAFTER = re.compile(r'[「“"]([^」”"]{12,})[」”"]\s*[（(]\s*ch(\d\d)\s*[）)]')
+
+
+def _mostly_latin(s):
+    letters = sum(ch.isascii() and ch.isalpha() for ch in s)
+    return letters >= 0.6 * max(1, sum(not ch.isspace() for ch in s))
 # B: 连续拉丁词组成的短语
 LAT = re.compile(r"[A-Za-z][A-Za-z'’\-]*(?:[ ,]+[A-Za-z][A-Za-z'’\-]*){2,}")
 STOP = {'Jess', 'Alison', 'Caitlin', 'Julia', 'Kyle', 'Ryan', 'Parker', 'Linda',
@@ -62,8 +72,23 @@ def main():
                 # 对 14 条**正确**的跨章引用全报警（假红型）——同句的引文常属本章
                 # 或句中提到的**另一个**章，归属只有语义能定。
                 ev = []
+                # ⚠️ `“引文”（chNN）` 这一写法里**标注在引文之后**，原文是**引文的后两个字符
+                # 紧跟（chNN）**。2026-09-30 An Army like No Other 五步审查实测：同句并列 5 个
+                # 「标签」（ch07）、real “victim”（ch08）、“Security”（ch12）、“making kosher”（ch14）
+                # 时，旧逻辑只扫 chNN **之后** ≤3 字符的引文，于是把 `“making kosher”` 挂到了
+                # **前一个** ch12 上 ⇒ 假红型（实证：该短语全书仅 ch14 命中，标注本就正确）。
+                # 修法（最小改动）：先吃掉「引文紧跟（chNN）」这类配对，剩下的引文才走旧窗口，
+                # 且被吃掉的引文不得再作为**任何** chNN 的证据。
+                own = list(QAFTER.finditer(sent))          # (引文, chNN) 成对出现
+                own_spans = [(e.start(), e.end()) for e in own]
+                # ⚠️ 只在**配对的章号就是当前这个 chNN** 时计入，否则等于把同一段引文
+                # 同时算给句中每一个 chNN（第一版就这样，报警 5→9）。
+                for e in own:
+                    if int(e.group(2)) == nn and _mostly_latin(e.group(1)):
+                        ev.append(e.group(1))
                 for e in QEN.finditer(sent):
-                    if 0 <= e.start() - c.end() <= 3:
+                    if 0 <= e.start() - c.end() <= 3 and not any(
+                            a <= e.start() and e.end() <= b for a, b in own_spans):
                         ev.append(e.group(1))
                 for e in LAT.finditer(sent):
                     if 0 <= e.start() - c.end() <= 1 and e.group(0) not in STOP:
