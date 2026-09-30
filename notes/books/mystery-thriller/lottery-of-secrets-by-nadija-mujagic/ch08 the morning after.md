@@ -8,8 +8,8 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **一句话概括**：被 Jimmy 因为去见律师而殴打的第二天早晨，Lynn 顶着乌青的眼睛接下电视台采访，同时向丈夫谎报"要等几个月"——她刚拿到手的胜利，必须靠一整套谎言来护住。
-- **情感弧线位置**：ch07 停在 1997 年医院里的冷醒，本章换回中奖后的当下线，起手是暴打之后的清晨（"shriek in pain"），中段被丈夫温驯的道歉短暂安抚，收尾在"我撒谎了"的不安上；是暴烈—假性缓和—更深的戒备。
-- **线索结构**：埋三样日后要回收的东西——她要去见的律师（下一章她瞒着丈夫做的事）、Jimmy 早已私下给电视台打过电话想把名字挂上去、以及那束还没有寄出者的花（本章还不存在，ch10 才出现）；另有一处硬线索是她与 Jimmy 的旧账（"You remember where the lying gets us?"），指向 1997 年。
+- **情感弧线位置**：ch07 整章留在 1997 年的闪回里（"It’s the year 1997"），收在她"strangely feel alive"的第一次；本章换回中奖后的当下线，起手是暴打之后的清晨（"shriek in pain"），中段被丈夫温驯的道歉短暂安抚，收尾在"我撒谎了"的不安上；是暴烈—假性缓和—更深的戒备。
+- **线索结构**：埋三样日后要回收的东西——她瞒着丈夫去见的律师（本章只写她去见，不写见谁）、Jimmy 早已私下给电视台打过电话想把名字挂上去、以及那束还没有寄出者的花（本章还不存在，ch10 才出现）；另有一处硬线索是她与 Jimmy 的旧账（"You remember where the lying gets us?"），指向 1997 年。
 - **人物弧线**：Lynn 从"藏着秘密的幸存者"变成"当面撒谎的同谋"：她用"还要等几个月"挡住丈夫的追问，再用"要不要一起来上电视"给他一点甜头换取安全——她开始主动管理丈夫的情绪，而不只是承受它。
 - **叙事手法**：雨声做底噪贯穿全章（"the rain is making a constant commotion" 到 "The sound of rain is the only thing breaking our awkward silence"）；对话一律单独成段，制造一份问答记录般的冷；单句成段三处（"Exhale." / "A staring contest commences between us." / "I want to soak up in all the glory."）分别标记她的情绪收束、对峙的开始与贪念的裸露。
 
@@ -41,7 +41,7 @@ modified: "2026-10-01"
 - **中文理解**：人们报过好几次警。可他几乎认识镇上的所有警察，凭他那个性格，这是他这辈子最大的优势。事实上不少人愿意把车开到他的店里修，有时候还免费——所以 Jimmy 躲掉了一大堆麻烦。到今天为止，他已经有好几回没被带上法庭、也没进过监狱；只要他知道自己有这层遮挡，他想闹多重就闹多重，想闹多频繁就闹多频繁。
 - **关键词**：called cops on him（报警抓他）／his biggest advantage in life（他一生最大的优势）／given his personality（凭他那个性格）／got away from（逃过，躲掉）
 - **为什么这样写**：这段解释了暴力为什么能持续二十年不被制止——不是法律不管，是他在本地有关系，而关系的维持方式是"免费修车"。作者用 "his biggest advantage in life" 这样一句反讽的判词，把因果关系摆平：他的社会资本全部由恐吓兑换而来。破折号后 "and as often as he wants to" 把有恃无恐写成了日常节奏，而不是情绪爆发。
-- **读者视角提示**：留意 "multiple times"（不止一次）这个含糊说法——她知道次数，但叙述里不肯给准数。这与 ch08 那句 "I’ve been suspicious all along"（我一直起疑）呼应：她不是不知道他做过什么，是从来不去查。
+- **读者视角提示**：留意 "multiple times"（不止一次）这个含糊说法——她知道次数，但叙述里不肯给准数。这与本章那句 "I’ve been suspicious all along"（我一直起疑）呼应：她不是不知道他做过什么，是从来不去查。
 
 > **原句 5:** I say nothing. His apology doesn’t surprise me. Somehow, it makes me feel like I’m a person he shouldn’t reckon with. The only way for him to tap into my wealth is if he maintains a cordial relationship between us.
 
