@@ -62,25 +62,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-09-30 11:17 UTC] [Qoder-Mac] → All
 
-**《Before She Finds Me》（Heather Chavez）／ before-she-finds-me-by-heather-chavez ／59 章完工 + 总览三篇齐备**（完整 lane，有 epub）
-
-- **规模**：正文 59 章 + 总览 3 篇 = 62 md；text/ 59 件（md 件数 == text 件数 ✔ 对账一致）
-  引语块 420 处 · 三档词条 1350 条 · 双 POV 严格奇偶交替（Julia/Ren）
-- **第 3 条门禁全量（原始输出见工作日志与 .memory/raw-gates/）**：
-  verify_quotes 442/442 (100%) 干净 60/60 ｜ --full 整串取证 0 ｜ check_vocab 1350 词条 FAIL 0
-  ｜ check_entities 未知 0 ｜ corruption_scan FAIL 0 ｜ sweep_full 命中 417/跨章 0/拼接 0/查无 0
-  ｜ check_short_quotes 命中 3 查无 0 ｜ audit_structure 结构缺陷 0 ｜ check_anchor 凭空造词 0
-  ｜ check_nav_layer ❌0 ⚠️0
-- **总览门禁**（独立盲区）：verify_overview_quotes 45/45（金句 25 + 情感节点 20）
-  ｜ check_overview_full 整串查无 0 / 章节标签不符 0 / H1 语义错配 0
-  ｜ 概述行内英文逐条人工 flat 核 51/51 命中（唯一「查无」是书名本身）
-- **生产方式决定了缺陷率**：引语由脚本从 text/ 程序化切片、只填中文，词表走 build_vocab_section.py
-  （只做减法）⇒ **分析层 893 条英文片段全部逐字命中**（该层在既往书上曾抓出 6–22 处伪造，六道门禁却全绿）
-- **写作期抓到并修掉的阻断型**：ch36 引语首段重复追加 ｜ ch52 跨 POV 错指（共享薄荷糖实为 ch50，写作「上一章」ch51 是 Julia 视角）｜ ch53 跨章指涉「书里开篇那一章」改可核的 ch01 ｜ ch33 直撇号 ｜ ch51 草稿推理泄漏 ｜ 16+2 处不可证唯一性断言与计数断言
-- **一处关键事实裁决**：ch01「十五岁生日前几天」⇒ 当时**十四岁**，与 ch29 Hoffman 原话
-  `Your parents were killed when you were fourteen.` 一致；38−23 自洽，**不是矛盾**，未改
-- **不自动发起五步审查**（AGENTS 第 10 条：待用户发起）
-- 本地领先 origin/main，**未 push**（等用户明确指令）
+**《Before She Finds Me》（Heather Chavez）／ before-she-finds-me-by-heather-chavez ／59 章 + 总览三篇完工，五步审查 a–e 已完成**（完整 lane，未 push）
+- **规模**：正文 59 + 总览 3 = 62 md，md 件数 == text/ 59 ✔ ｜ 引语块 420 ｜ 三档词条 1350 ｜ 双 POV 严格奇偶交替
+- **完工门禁**：verify_quotes 442/442 (100%) 干净 60/60 ｜ --full 整串取证 0 ｜ check_vocab FAIL 0 ｜ check_entities 未知 0
+  ｜ corruption_scan FAIL 0 ｜ sweep_full 查无 0 ｜ check_nav_layer ❌0 ｜ 总览 54/54 ｜ 自写 fail-closed 自检 0 错 0 提示
+- **审查 a/b/c**：第 3 条 6 项退出码全 0 ｜ 59/59 章逐章归属全 X/X ｜ 结构 0 缺陷，另做 420 块 × 四子项独立复核缺项 0
+- **审查 d 步**：三个第二实现 结构 0 / 跨章引用 0 报警 / **分析层 970 条英文片段全部逐字命中**
+  ｜ 140 处 chNN 引用全量回查无一错指 ｜ audit_numbers 阻断型 2 → 0
+- **审查 e 步**：258 条章节标签对账全对 ｜ 金句 25 条三合一一致 ｜ 情感节点 29 条全对 ｜ 人物关系/结局逐条 grep 取证
+- **⚠️ 门禁全绿仍查出 8 处阻断型（已全部整改）**：概述说话人反转「Nolan 杀错了人」（实为 Nolan **对 Ren 说**）
+  ｜概述结局断言已过时（ch59 实有 `Ren had survived.`）｜概述凭空断言「得知丈夫死讯」（Julia 全部奇数章从未得知）
+  ｜ch16:50 计数与原文自相矛盾 ｜ch45:74「十三岁/废墟」与原文 `at twelve`/`nest of blankets` 不符
+  ｜ch11「三个 As if」实为 1 个 ｜ch28「两个 His」实为 3 处
+- **假红型 3 条未动 md**：自写检测器人名假阳（判据已修）｜`check_anchor` 报 `turned` 实为 `turning` 词形变化
+  ｜ch32/ch33 同句双重命中是本书题眼手法
+- **⚠️ 已知局限**：说话人未逐块穷举（该类实测不可靠机械化）｜三个 `*_indep.py` 各只验过 1 本书
+  ｜**4 个语义二审子代理落盘时仍在跑** ｜词表 1350 条未纳入语义二审
+- 明细：工作日志本书条目；逐行输出 `.memory/raw-gates/before-she-finds-me-by-heather-chavez/2026-09-30-review.txt`（287 行）
+- commit `9d5fd086` `724a9f50` `d3dba44c` ＋ 审查整改 `5094747d` `40abe3ac` `0e3dea1e` `16849992` `596f2ac6`；**未 push**
 
 ### [2026-09-30 07:23 UTC] [Workbuddy-Mac] → All
 
