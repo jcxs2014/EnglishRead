@@ -83,13 +83,13 @@ modified: "2026-09-30"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | mortality | 死亡率；死亡统计 | Were my predictions related to the fact that the focus of my work before I retired was mortality forecasting by cause of death? |
-| peculiar | 奇特的； peculiar 的 | Were my actions on that flight a strange version of that peculiar secret exercise? |
+| peculiar | 奇怪的；反常的 | Were my actions on that flight a strange version of that peculiar secret exercise? |
 | swirling | 旋转；翻涌 | Was all that data swirling madly in my head like debris in the terrifying weather phenomenon known as a ‘twister’? |
 | available | 可获得的；手头有的 | I never said it out loud, but I would do a quick analysis of the data available. |
 | analysis | 分析 | I never said it out loud, but I would do a quick analysis of the data available. |
 | temporarily | 暂时地 | Did I temporarily believe I was Madame Mae? |
 | workplace | 工作场所；职场 | Is that all it took for me to predict a ‘workplace accident’ as his cause of death? |
-| blowhole |  blowhole 潮池；喇叭形水洞 | For example: the little boy who drowned at the blowhole when I was a child. |
+| blowhole | 喇叭形水洞；潮池口 | For example: the little boy who drowned at the blowhole when I was a child. |
 | repressed | 受压抑的；被抑制的 | Was it simply that I saw repressed pain in her eyes from the back injury I now know she suffered on that flight? |
 | certainty | 确定性 | That’s the only one of my questions I can answer with certainty. |
 
