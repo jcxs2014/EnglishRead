@@ -156,4 +156,6 @@ modified: "2026-09-30"
 | homemade comic | 手工做的漫画（此处是那本圣诞礼物） | and pulls out a homemade comic. “I made this for her. For Christmas. Don’t tell.” |
 | glowy fingers | 会发光的手指（此处是小孩从电影里搬来的说法） | If it works, maybe they can use their glowy fingers to make Mom better. |
 
-## 一句话总结**： 一个七岁小孩用锅碗瓢盆和旧玩具造了一台给外星人的通讯器，因为他相信那双手会发光、能治好妈妈——而他画的那本漫画里，妈妈从一根弯棍子重新站直，最后 Evan 发现让自己整夜睡不着的不是自己承诺了什么，是小孩回的那两个字。
+## 一句话总结
+
+一个七岁小孩用锅碗瓢盆和旧玩具造了一台给外星人的通讯器，因为他相信那双手会发光、能治好妈妈——而他画的那本漫画里，妈妈从一根弯棍子重新站直，最后 Evan 发现让自己整夜睡不着的不是自己承诺了什么，是小孩回的那两个字。

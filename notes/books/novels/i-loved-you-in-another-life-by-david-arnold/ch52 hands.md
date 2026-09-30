@@ -118,4 +118,6 @@ modified: "2026-09-30"
 | grabbed his hand | 抓住他的手 | She grabbed his hand, leaned in to tell him |
 | to keep them warm | 让它们保持暖和 | blew into her hands to keep them warm |
 
-## 一句话总结**： 全章的标题是她能得到的一切，而她伸手跨出去的那一秒才发现，真正卡住她的不是他，是她自己没准备好那句话。
+## 一句话总结
+
+全章的标题是她能得到的一切，而她伸手跨出去的那一秒才发现，真正卡住她的不是他，是她自己没准备好那句话。

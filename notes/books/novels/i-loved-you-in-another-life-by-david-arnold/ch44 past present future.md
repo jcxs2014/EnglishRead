@@ -149,4 +149,6 @@ modified: "2026-09-30"
 | flown by like a dream | 像梦一样飞逝（原文过去分词短语） | this week should have flown by like a dream |
 | shaking cinnamon | 撒肉桂粉（原文进行式，此处指华夫饼的做法） | after shaking cinnamon on a plate of waffles |
 
-## 一句话总结**： 一大家子用一个词（睡衣）概括了第一个没有 Stevie 的圣诞节，而真正只属于 Shosh 的那层麻烦只有一个词——想他——而她把这个词变成了一句尼采，转手发出去了。
+## 一句话总结
+
+一大家子用一个词（睡衣）概括了第一个没有 Stevie 的圣诞节，而真正只属于 Shosh 的那层麻烦只有一个词——想他——而她把这个词变成了一句尼采，转手发出去了。

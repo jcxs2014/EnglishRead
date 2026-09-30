@@ -150,4 +150,6 @@ modified: "2026-09-30"
 | a singular glow | 单一的光（此句里写心脏，呼应电影里的设定） | my mind may be split in a million directions, but my heart has a singular glow. |
 | tiptoe | 踮着脚尖走 | I tiptoe into the kitchen for some water |
 
-## 一句话总结**： 一句「多汁又累人」把公共厕所写成了一种心境，一句「洗手间出名地容易撞人」把两个主角推到全书最近的距离又推开；真正改变一切的是那首歌第一次说出了一条街的名字——歌不再神秘，它有了地理坐标，而 Evan 做的第一件事是把还在睡觉的 Ali 叫起来一起去找。
+## 一句话总结
+
+一句「多汁又累人」把公共厕所写成了一种心境，一句「洗手间出名地容易撞人」把两个主角推到全书最近的距离又推开；真正改变一切的是那首歌第一次说出了一条街的名字——歌不再神秘，它有了地理坐标，而 Evan 做的第一件事是把还在睡觉的 Ali 叫起来一起去找。

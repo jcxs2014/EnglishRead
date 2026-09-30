@@ -144,4 +144,6 @@ modified: "2026-09-30"
 | hugs | 拥抱 | when she hugs me, her hand lingers on mine. |
 | like a rising sun | 像一轮升起的太阳 | she smiles like a rising sun, sticks the paper flower behind her ear |
 
-## 一句话总结**： Ali 用三句话给这个男孩的自我怀疑做了背书，而这一章的作用就是让他在同一天里先相信、再被一只手当场推翻——他不是被说服的，他是被那只手抓住的。
+## 一句话总结
+
+Ali 用三句话给这个男孩的自我怀疑做了背书，而这一章的作用就是让他在同一天里先相信、再被一只手当场推翻——他不是被说服的，他是被那只手抓住的。

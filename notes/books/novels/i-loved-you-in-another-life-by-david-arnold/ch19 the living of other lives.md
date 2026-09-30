@@ -121,7 +121,12 @@ modified: "2026-09-30"
 
 ### ⭐⭐⭐ 高级
 
-本档无可收条目：全章是口语化叙述，除去引用的童书台词与专名（Toad、Iverton），未见足够僻难的词。凡是读得懂的日常词按分类原则留在 ⭐ 档。
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| anonymity | 匿名性（此处指人群里没人认识你的那种自在） | of surrounding yourself with bodies dancing in the dark, the comforting anonymity of a pulsing crowd. |
+| concessions | 售卖柜台（此处指影院或游乐场里卖零食饮料的地方） | At concessions, she ordered a large Diet Coke with extra ice. |
+| pulsing | 搏动的，此处指人群的节奏 | the comforting anonymity of a pulsing crowd. |
+| nightclub | 夜店 | MOST SOCIAL SPACES WERE SOCIAL for a reason. A nightclub, for example. |
 
 ### ⭐⭐ 进阶
 
@@ -149,4 +154,6 @@ modified: "2026-09-30"
 | not sticking around | 不想留下来等 | Not sticking around to get kicked out, she left. |
 | a safe haven in a stormy sea | 风雨海上的安全港（此处比喻霓虹招牌） | as if broadcasting a safe haven in a stormy sea: ink your face tattoos. |
 
-## 一句话总结**： 她花了一整天坐在别人的人生里、把它们当酒精一样往杯子里灌，然后在第三部影片里对着银幕骂了一句脏话被赶出来——淋着雨步行回家的路上，她复述着一个童书的句子，走进了那家亮着灯的纹身店。
+## 一句话总结
+
+她花了一整天坐在别人的人生里、把它们当酒精一样往杯子里灌，然后在第三部影片里对着银幕骂了一句脏话被赶出来——淋着雨步行回家的路上，她复述着一个童书的句子，走进了那家亮着灯的纹身店。

@@ -158,4 +158,6 @@ modified: "2026-09-30"
 | a beautiful kind of sad | 一种美丽的忧愁 | it’s quiet but full, a beautiful kind of sad. |
 | to plant character flags | 插人物标签（叙事术语的日常化说法） | I laugh between heaves and feel the sudden urge to plant character flags. |
 
-## 一句话总结**： Evan 借替弟弟辩护，替自己辩护；他逃离派对的原因被 Ali 一句话钉死在「Heather 说了什么」上，而全章真正的安慰，是一只夜鸟和一首听不清词的歌。
+## 一句话总结
+
+Evan 借替弟弟辩护，替自己辩护；他逃离派对的原因被 Ali 一句话钉死在「Heather 说了什么」上，而全章真正的安慰，是一只夜鸟和一首听不清词的歌。

@@ -156,4 +156,6 @@ modified: "2026-09-30"
 | hit delete | 按下删除 | She opened her phone, pulled up her most recent post, and hit delete. |
 | day or night | 不分昼夜 | Ruth jotted her number down on a slip of paper, handed it back, told her to call anytime, day or night. |
 
-## 一句话总结**： 一个陌生人在后视镜里看着你，把你这一年所有的破坏翻译成一次没救成人的救援；而你发现自己一年来说不出口的那两行诗，其实也是别人唱过的歌——于是你在下车前先删掉了它。
+## 一句话总结
+
+一个陌生人在后视镜里看着你，把你这一年所有的破坏翻译成一次没救成人的救援；而你发现自己一年来说不出口的那两行诗，其实也是别人唱过的歌——于是你在下车前先删掉了它。

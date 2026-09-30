@@ -153,4 +153,6 @@ modified: "2026-09-30"
 | bought the cabin outright | 直接买下了那间木屋（原文过去形） | and this time, rather than extend the stay, they bought the cabin outright. |
 | moved on | 继续前行（全书最后两个词） | Then she closed her eyes and moved on. |
 
-## 一句话总结**： 两百年前一个从北方来的女人唱着「我会找到你」死在巴黎，两百多年后这句话在罗弗敦的夜里被一个伊利诺伊州出生的男人说出——而碑文告诉她，那个女人一直没有死，她就在他们买下的木屋旁边。
+## 一句话总结
+
+两百年前一个从北方来的女人唱着「我会找到你」死在巴黎，两百多年后这句话在罗弗敦的夜里被一个伊利诺伊州出生的男人说出——而碑文告诉她，那个女人一直没有死，她就在他们买下的木屋旁边。

@@ -149,4 +149,6 @@ modified: "2026-09-30"
 | a racket | 一阵喧闹（此处指楼上的奔跑声） | listening to Will’s beautiful racket upstairs |
 | to pass on | 放弃，跳过（此处指不去说那个 Frozen 的梗） | I’m gonna pass on the obvious Frozen joke |
 
-## 一句话总结**： 这一章把两扇门摆在一起——母亲逼着儿子推开一扇，自己背后那扇关着的门被一句低声的「Okay」顶开一条缝；而这一家通行的语法是：先怀疑好消息，再谈条件，最后才敢小声答应。
+## 一句话总结
+
+这一章把两扇门摆在一起——母亲逼着儿子推开一扇，自己背后那扇关着的门被一句低声的「Okay」顶开一条缝；而这一家通行的语法是：先怀疑好消息，再谈条件，最后才敢小声答应。

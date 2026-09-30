@@ -159,4 +159,6 @@ modified: "2026-09-30"
 | their full attention | 他们完整专注的目光 | the audience gave them the only thing that really mattered: their full attention. |
 | the evening’s first stars | 黄昏最先亮起的那批星 | memories of Stevie multiplying like the evening’s first stars. |
 
-## 一句话总结**： 一个老师用「飞蛾分不清灯和月亮」讲完了 Shosh 的处境——她不是想扑火，她只是把酒和舞台当成了死去妹妹留下的那轮月亮，于是笔直地朝另一个光源飞去。
+## 一句话总结
+
+一个老师用「飞蛾分不清灯和月亮」讲完了 Shosh 的处境——她不是想扑火，她只是把酒和舞台当成了死去妹妹留下的那轮月亮，于是笔直地朝另一个光源飞去。

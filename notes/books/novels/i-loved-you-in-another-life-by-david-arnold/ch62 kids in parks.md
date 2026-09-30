@@ -156,4 +156,6 @@ modified: "2026-09-30"
 | a newly planted bush | 一株新种的灌木 | I point to the ground, where a newly planted bush sits tucked among the larger ones. |
 | fucked | 完蛋了，没救了（此处是 Ali 对两人关系的判词） | “You guys are fucked, pretty much.” |
 
-## 一句话总结**： 全书倒数第十章里，Evan 做了一件他全书从未做过的事——他不去找那只鸟了，他种下一株不会飞的灌木；而作者用同一株植物装下了这一章的全部消息：命名、承诺、以及「熬过第一个冬天」这三个字的全部不确定性。
+## 一句话总结
+
+全书倒数第十章里，Evan 做了一件他全书从未做过的事——他不去找那只鸟了，他种下一株不会飞的灌木；而作者用同一株植物装下了这一章的全部消息：命名、承诺、以及「熬过第一个冬天」这三个字的全部不确定性。

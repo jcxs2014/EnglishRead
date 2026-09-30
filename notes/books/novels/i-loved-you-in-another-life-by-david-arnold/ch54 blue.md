@@ -149,4 +149,6 @@ modified: "2026-09-30"
 | whispers | 低声说 | “I’m a mess,” she whispers |
 | galaxies collide | 星系相撞（此处形容额头相贴的那一刻） | I lean forward, our foreheads touch, galaxies collide—pasts and futures, too |
 
-## 一句话总结**： 这一章把两条线第一次放在同一个量纲上——她讲她的哥哥，他讲他的母亲，谁也没被治好，但两个人各自交出了一句真话，然后在差一厘米的地方，一起把时间慢了下来。
+## 一句话总结
+
+这一章把两条线第一次放在同一个量纲上——她讲她的哥哥，他讲他的母亲，谁也没被治好，但两个人各自交出了一句真话，然后在差一厘米的地方，一起把时间慢了下来。

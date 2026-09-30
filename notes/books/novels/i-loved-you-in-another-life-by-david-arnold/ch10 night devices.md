@@ -155,4 +155,6 @@ modified: "2026-09-30"
 | play back | 回放 | when I played it back, it was nothing but static |
 | a hallway with infinite doors | 一条有着无穷多扇门的走廊 | These days, sleep is a hallway with infinite doors. |
 
-## 一句话总结**： Evan 把妈妈手术的事当成一条需要全家一起守的秘密，而在这条秘密旁边，另一条没有源头的歌正一晚多似一晚地出现——他问过月亮，月亮不答，他只好换一个更吵的东西。
+## 一句话总结
+
+Evan 把妈妈手术的事当成一条需要全家一起守的秘密，而在这条秘密旁边，另一条没有源头的歌正一晚多似一晚地出现——他问过月亮，月亮不答，他只好换一个更吵的东西。

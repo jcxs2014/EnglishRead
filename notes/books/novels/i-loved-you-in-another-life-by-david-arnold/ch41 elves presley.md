@@ -150,4 +150,6 @@ modified: "2026-09-30"
 | a cozy quilt of festive lighting | 一床节日灯光织成的暖被（原文比喻） | the room a cozy quilt of festive lighting |
 | to keep your wits about you | 保持清醒 | I’d like to keep my wits about me |
 
-## 一句话总结**： 一整晚的喧闹在最后一句里被收成一次清点：灯下所有人都在对一个人笑，只有一个人没有。
+## 一句话总结
+
+一整晚的喧闹在最后一句里被收成一次清点：灯下所有人都在对一个人笑，只有一个人没有。

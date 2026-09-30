@@ -159,4 +159,6 @@ modified: "2026-09-30"
 | looking so hard in all the wrong places | 在完全错误的地方死命地找 | Looking so hard in all the wrong places |
 | sketch pad | 速写本 | I look up from my sketch pad, stare at the bird long enough to question who’s staring at who. |
 
-## 一句话总结**： 一个少年把自己改造成「歌匠」，用两周时间在一片没人管的小树林里拼一首不属于他的歌——直到一只真鸟落下来，对着他叫了一声，他发现自己抄了半天的从来不是重点。
+## 一句话总结
+
+一个少年把自己改造成「歌匠」，用两周时间在一片没人管的小树林里拼一首不属于他的歌——直到一只真鸟落下来，对着他叫了一声，他发现自己抄了半天的从来不是重点。

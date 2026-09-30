@@ -153,4 +153,6 @@ modified: "2026-09-30"
 | half-filled balloons | 半空的氢气球 | Imagine a Chili’s at the bottom of the sea, dark and still, volume turned to zero, chairs and tables and silverware floating like half-filled balloons. |
 | at the bottom of the sea | 在海底 | Imagine a Chili’s at the bottom of the sea, dark and still, volume turned to zero, chairs and tables and silverware floating like half-filled balloons. |
 
-## 一句话总结**： 一家人难得下馆子，作者把「母亲的病好了三周」写成「还没庆祝」；孩子的一句「科技没有肌肉」给了哥哥一套止痛分类法；而当妈妈问他「痛痛盾怎么不贴了」，全章沉进海底，最后被一声「轮到谁送我去厕所」轻轻浮起来。
+## 一句话总结
+
+一家人难得下馆子，作者把「母亲的病好了三周」写成「还没庆祝」；孩子的一句「科技没有肌肉」给了哥哥一套止痛分类法；而当妈妈问他「痛痛盾怎么不贴了」，全章沉进海底，最后被一声「轮到谁送我去厕所」轻轻浮起来。

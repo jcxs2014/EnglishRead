@@ -154,4 +154,6 @@ modified: "2026-09-30"
 | to keep her mind busy | 让脑子别闲着 | she looked for ways to keep her mind busy. |
 | the night would never end | 夜永远不会结束 | she went to bed convinced the night would never end |
 
-## 一句话总结**： 她用一整夜的诗换来了他一条语无伦次的想念，而她回得比他还快——这一章里，两个人的距离这一次不是靠一首歌缩小的。
+## 一句话总结
+
+她用一整夜的诗换来了他一条语无伦次的想念，而她回得比他还快——这一章里，两个人的距离这一次不是靠一首歌缩小的。

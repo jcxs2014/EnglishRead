@@ -152,4 +152,6 @@ modified: "2026-09-30"
 | take a leak | 上个厕所（口语，粗俗） | A beat, then: “Imma take a leak. Hang on.” |
 | until the sun came up | 直到天亮 | shut herself in her own room, googled “Emily Dickinson immortality,” and read poems until the sun came up. |
 
-## 一句话总结**： 一面墙上没刷漆的补丁和一间没人进去过的房门被判成同一件事；她把前者刷了，把后者绕开了，然后在搜索框里打下一个陌生人在车上随口念过的名字，读诗读到天亮——这是她这一年第一次照着别人的话做事，也是第一次承认自己也在逃避名单里。
+## 一句话总结
+
+一面墙上没刷漆的补丁和一间没人进去过的房门被判成同一件事；她把前者刷了，把后者绕开了，然后在搜索框里打下一个陌生人在车上随口念过的名字，读诗读到天亮——这是她这一年第一次照着别人的话做事，也是第一次承认自己也在逃避名单里。

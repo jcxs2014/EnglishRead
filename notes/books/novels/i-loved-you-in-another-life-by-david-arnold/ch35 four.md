@@ -156,4 +156,6 @@ modified: "2026-09-30"
 | to pop in and out | 出没，来去（此处是父母在她生活里的方式） | You can’t just pop in and out of my life whenever it’s convenient for you. |
 | a hug | 一个拥抱（此处是全章的落点） | the three of them fell into a hug, an embrace both gentle and furious |
 
-## 一句话总结**： 全章最狠的那句不是骂人，而是最后那句算术——「我失去的是一个姐姐和两个父母」——可作者紧接着告诉我们，这场把三个人砸进同一个拥抱的和解，并没有把谁变回去：他们再也不会是四个人了，而能不能重新完整，作者留到后面才回答。
+## 一句话总结
+
+全章最狠的那句不是骂人，而是最后那句算术——「我失去的是一个姐姐和两个父母」——可作者紧接着告诉我们，这场把三个人砸进同一个拥抱的和解，并没有把谁变回去：他们再也不会是四个人了，而能不能重新完整，作者留到后面才回答。

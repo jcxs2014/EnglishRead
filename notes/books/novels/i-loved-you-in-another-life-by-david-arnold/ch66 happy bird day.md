@@ -162,4 +162,6 @@ modified: "2026-09-30"
 | strumming | 拨着弦（原文动名词，此处是 Stevie 反复拨那几个和弦） | strumming the same sad chords over and over again, singing her heart out. |
 | on an elemental level | 在根本的层面上（此处指 Ms. Clark 改变了她的生命） | wondering how to repay this woman who’d changed her life on an elemental level. |
 
-## 一句话总结**： 她带去的不是酒壶，是一把姐姐的琴和一张没人听得出重量的唱片——而这一章真正的句号，是她对一个四岁孩子说出的那句最短的说明：关于她有一件事，她爱音乐。
+## 一句话总结
+
+她带去的不是酒壶，是一把姐姐的琴和一张没人听得出重量的唱片——而这一章真正的句号，是她对一个四岁孩子说出的那句最短的说明：关于她有一件事，她爱音乐。

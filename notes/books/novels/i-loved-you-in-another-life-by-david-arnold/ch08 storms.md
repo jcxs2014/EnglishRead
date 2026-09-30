@@ -156,4 +156,6 @@ modified: "2026-09-30"
 | Time to level up. | 该升级了（游戏用语，指提高应对手段） | Time to level up. |
 | wearing zero Band-Aids | 一个创可贴都没贴 | I wait for something, anything, but he just stands there, looking at me, wearing zero Band-Aids. |
 
-## 一句话总结**： Evan 用算优惠券的时间换来了一整晚，结果在纸箱外面听见弟弟说「我今天已经哭过了」，退回房间把自己那场 storm 走完——然后他开始怀疑：需要被小心照看的，也许不是自己。
+## 一句话总结
+
+Evan 用算优惠券的时间换来了一整晚，结果在纸箱外面听见弟弟说「我今天已经哭过了」，退回房间把自己那场 storm 走完——然后他开始怀疑：需要被小心照看的，也许不是自己。

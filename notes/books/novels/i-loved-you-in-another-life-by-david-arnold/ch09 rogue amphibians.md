@@ -154,4 +154,6 @@ modified: "2026-09-30"
 | May he rest in peace | 愿他安息 | Shosh kissed two fingers, then threw them heavenward. “May he rest in peace.” |
 | the entire Lobel collection | Lobel 的全套作品 | They had the entire Lobel collection, knew every story by heart, but their favorite was called “Alone.” |
 
-## 一句话总结**： 去年感恩节夜里两个人在毯子底下抢着当蟾蜍，其实争的只是「我知道你会来找我」这一件事——而这正是 Shosh 在往后七十章里一直带着、也一直没机会兑现的东西。
+## 一句话总结
+
+去年感恩节夜里两个人在毯子底下抢着当蟾蜍，其实争的只是「我知道你会来找我」这一件事——而这正是 Shosh 在往后七十章里一直带着、也一直没机会兑现的东西。

@@ -152,4 +152,6 @@ modified: "2026-09-30"
 | billionth time | 第一百万次（夸张说法） | watching E.T. for the billionth time |
 | those are the rules | 规矩就是这样 | “You have to,” says Will. “Those are the rules.” |
 
-## 一句话总结**： 一整晚的喜剧把她请进了家门，一句「共生」把两个人的关系说破，而最后那根按在纹身上的手指，把刚刚发生的一切又变成了一个问号。
+## 一句话总结
+
+一整晚的喜剧把她请进了家门，一句「共生」把两个人的关系说破，而最后那根按在纹身上的手指，把刚刚发生的一切又变成了一个问号。

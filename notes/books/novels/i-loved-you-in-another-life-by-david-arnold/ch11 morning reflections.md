@@ -122,4 +122,6 @@ modified: "2026-09-30"
 | a frozen waffle | 一块冻硬的松饼 | every time she stuck a frozen waffle in the toaster |
 | an alarm clock | 闹钟 | An alarm clock sounded from her parents’ bedroom. |
 
-## 一句话总结**： 姐姐死后，Shosh 把一扇关着的门当成固定岗位，每天站几英寸、隔着玻璃补一句对方没来得及留的便条——而楼下闹钟一响，她先是喝完最后一口，然后发现自己想唱歌。
+## 一句话总结
+
+姐姐死后，Shosh 把一扇关着的门当成固定岗位，每天站几英寸、隔着玻璃补一句对方没来得及留的便条——而楼下闹钟一响，她先是喝完最后一口，然后发现自己想唱歌。

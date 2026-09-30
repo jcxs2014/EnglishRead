@@ -110,4 +110,6 @@ modified: "2026-09-30"
 | a gentle push | 轻轻一推（她主动翻转两人位置的动作） | A gentle push, and she was on top of him now |
 | exploded | 爆开（此处指吻从一个变成很多个） | the kiss exploded, became many kisses |
 
-## 一句话总结**： 上一章 Evan 用三句命令式短句把时间慢下来，这一章 Shosh 用一句抬杠把逻辑驳回、再用一个吻把时间整个取消——两个人的第一次靠近，第一次不是被动的。
+## 一句话总结
+
+上一章 Evan 用三句命令式短句把时间慢下来，这一章 Shosh 用一句抬杠把逻辑驳回、再用一个吻把时间整个取消——两个人的第一次靠近，第一次不是被动的。

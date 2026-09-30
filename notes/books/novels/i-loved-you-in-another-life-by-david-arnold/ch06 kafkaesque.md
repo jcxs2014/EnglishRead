@@ -156,4 +156,6 @@ modified: "2026-09-30"
 | blue notes | 蓝色的音符（形容语调变冷） | Like the blue notes in Mom’s voice when she’d recently read about the used bookstore that was going out of business. |
 | dad left | 爸爸离开了（本章的固定说法） | “Almost a year since your dad left. How’re you doing with it?” |
 
-## 一句话总结**： Evan 用一个地质学术语撬开了一年前那个下午，让父亲关于 Pangaea 的空话和母亲藏在礼物包装纸里的手同时露了出来——一屋子空气终于比一屋子的沉默轻了。
+## 一句话总结
+
+Evan 用一个地质学术语撬开了一年前那个下午，让父亲关于 Pangaea 的空话和母亲藏在礼物包装纸里的手同时露了出来——一屋子空气终于比一屋子的沉默轻了。

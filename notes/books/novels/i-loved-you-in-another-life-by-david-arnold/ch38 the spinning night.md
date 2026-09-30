@@ -152,4 +152,6 @@ modified: "2026-09-30"
 | bobbing her head | 上下点头（原文动词形） | Ms. Clark started bobbing her head up and down |
 | a sad little chord | 一小段忧伤的和弦 | as she strummed a sad little chord. |
 
-## 一句话总结**： 一场深夜的对话让 Shosh 第一次说出「我交到一个朋友」，而全章用喜剧垫底，最后把这份轻盈压在一句只有六个词的句子上——她的妹妹当时正在学尤克里里。
+## 一句话总结
+
+一场深夜的对话让 Shosh 第一次说出「我交到一个朋友」，而全章用喜剧垫底，最后把这份轻盈压在一句只有六个词的句子上——她的妹妹当时正在学尤克里里。

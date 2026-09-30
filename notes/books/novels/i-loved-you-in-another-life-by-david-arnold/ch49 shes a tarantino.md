@@ -152,4 +152,6 @@ modified: "2026-09-30"
 | the rest of your life | 你的余生 | If you choose to spend the rest of your life waiting for bad things to happen |
 | to be part of | 成为其中一员 | You don’t want to be part of that program, and that’s why you let the deadline lapse? |
 
-## 一句话总结**： 这一章把两件事钉在同一根钉子上：他终于说出了「她太好了」，然后承认放弃申请表不是因为没时间，是因为他选了那个不合逻辑的答案。
+## 一句话总结
+
+这一章把两件事钉在同一根钉子上：他终于说出了「她太好了」，然后承认放弃申请表不是因为没时间，是因为他选了那个不合逻辑的答案。

@@ -156,4 +156,6 @@ modified: "2026-09-30"
 | a large handle | 一大壶酒（handle 指酒壶的柄） | from a large handle she kept under the bed |
 | an audible rain cloud | 一朵听得见的雨云（视觉比喻听觉化） | they seemed to follow wherever she went, an audible rain cloud |
 
-## 一句话总结**： Shosh 把床推得与窗齐平，让自己能躺在世界的边缘，然后在手机上一张挪威木屋的照片下面贴上自己写的两行诗按了发布——她做到的不是变好，是把「什么都做不了」换成了「每天做一件不致命的事」。
+## 一句话总结
+
+Shosh 把床推得与窗齐平，让自己能躺在世界的边缘，然后在手机上一张挪威木屋的照片下面贴上自己写的两行诗按了发布——她做到的不是变好，是把「什么都做不了」换成了「每天做一件不致命的事」。

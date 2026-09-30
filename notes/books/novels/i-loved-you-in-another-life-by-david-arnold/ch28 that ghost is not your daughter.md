@@ -155,4 +155,6 @@ modified: "2026-09-30"
 | sheet | 床单（此处是罩住 E.T. 伪装的那块） | Ali throws the sheet over her entire costume, E.T. mask and all. |
 | sugar | 糖（此处是四个人哭之前的助力） | in the final scene, hyped up on sugar and feelings, all four of us weep openly |
 
-## 一句话总结**： 全家人用一部每年重看的电影把一个死去的妹妹重新认领了一次，而唯一敢问「她真的以为那是自己女儿吗」的是那个每年被床单罩住的人——Evan 看完这一夜之后明白了一件事：往后的每一个拥抱，都会被今天这个量一遍。
+## 一句话总结
+
+全家人用一部每年重看的电影把一个死去的妹妹重新认领了一次，而唯一敢问「她真的以为那是自己女儿吗」的是那个每年被床单罩住的人——Evan 看完这一夜之后明白了一件事：往后的每一个拥抱，都会被今天这个量一遍。

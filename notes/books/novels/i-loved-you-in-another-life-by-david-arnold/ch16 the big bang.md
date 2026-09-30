@@ -154,4 +154,6 @@ modified: "2026-09-30"
 | coins a new nickname | 造一个新外号（原文动词形） | Yurt coins a new nickname for Shosh that ultimately falls flat: Big Bang Cuoco. |
 | to fall flat | 无人问津，失败 | Yurt coins a new nickname for Shosh that ultimately falls flat |
 
-## 一句话总结**： 全校在用手机围观 Shosh 的崩坏，而 Evan 一次都没看手机——他在听一场只有他能听见的演出，那场演出在 Shosh 停嗓的那一分钟开始，并最终把他冲成了海里的一粒。
+## 一句话总结
+
+全校在用手机围观 Shosh 的崩坏，而 Evan 一次都没看手机——他在听一场只有他能听见的演出，那场演出在 Shosh 停嗓的那一分钟开始，并最终把他冲成了海里的一粒。

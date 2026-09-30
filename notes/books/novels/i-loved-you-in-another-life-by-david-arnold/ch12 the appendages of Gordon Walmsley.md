@@ -152,4 +152,6 @@ modified: "2026-09-30"
 | trees in snow | 雪里的树（那首歌的内容） | There’s one about trees in snow, I think? |
 | toast | 完蛋（此处指要是挨上那一拳） | I would have been toast were it not for this little tornado of a kid |
 
-## 一句话总结**： Evan 和 Ali 用一本谁都读不完的书标记他们的友谊，也用一个八岁孩子掏出来的弹簧刀标记它的来路；而当她靠一个撩头发的动作追到他藏着的秘密时，他交出来的偏偏是错的那一件。
+## 一句话总结
+
+Evan 和 Ali 用一本谁都读不完的书标记他们的友谊，也用一个八岁孩子掏出来的弹簧刀标记它的来路；而当她靠一个撩头发的动作追到他藏着的秘密时，他交出来的偏偏是错的那一件。

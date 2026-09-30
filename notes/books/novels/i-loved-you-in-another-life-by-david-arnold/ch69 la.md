@@ -166,4 +166,6 @@ modified: "2026-09-30"
 | to slurp | 咕咚咕咚地喝（此处是她把自己的汽水灌下去） | “I don’t know what that means,” said Shosh, who then proceeded to slurp the hell out of her Diet Coke. |
 | to melt into | 融入（此处是她化成好莱坞的背景） | Shosh felt herself melt into the gritty Hollywood tableau, wishing she were someplace else, someplace cold, someplace north. |
 
-## 一句话总结**： 全书倒数第三章，她终于在现场听到了那首歌、终于见到了唱它的人——而作者让这场相遇以三句话结束：不是他写的、我不告诉你、我就是这样；于是她站在自己的城市里，只想着一句「我更想跟 Evan 说话」，和一句「但愿我在北方」。
+## 一句话总结
+
+全书倒数第三章，她终于在现场听到了那首歌、终于见到了唱它的人——而作者让这场相遇以三句话结束：不是他写的、我不告诉你、我就是这样；于是她站在自己的城市里，只想着一句「我更想跟 Evan 说话」，和一句「但愿我在北方」。

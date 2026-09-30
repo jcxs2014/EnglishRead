@@ -152,4 +152,6 @@ modified: "2026-09-30"
 | good night | 晚安 | “Say good night to our guest, it’s time for bed.” |
 | a handshake | 一次握手 | a continuation of their handshake from the night of the kickback |
 
-## 一句话总结**： 这是她全书里过得最好的一夜：她在一栋别人的房子里哭了一次、牵了一次手、被一个孩子说过一句太好的话，而作者让「我不配」这三个字，正好出现在幸福最满的地方。
+## 一句话总结
+
+这是她全书里过得最好的一夜：她在一栋别人的房子里哭了一次、牵了一次手、被一个孩子说过一句太好的话，而作者让「我不配」这三个字，正好出现在幸福最满的地方。

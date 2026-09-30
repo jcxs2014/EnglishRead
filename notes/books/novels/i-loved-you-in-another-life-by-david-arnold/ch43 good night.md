@@ -150,4 +150,6 @@ modified: "2026-09-30"
 | sweetfruit | 甜水果（此处是作者自造的合写词） | I can smell her breath: tangy, botanic, sweetfruit. |
 | in a while | 有一阵子 | I haven’t heard her in a while |
 
-## 一句话总结**： 他排练了所有版本的动作，最后递出去的是一只握手的手；她握住它，说了晚安，然后用一条短信把这本书里最深的那个谜放在了他面前。
+## 一句话总结
+
+他排练了所有版本的动作，最后递出去的是一只握手的手；她握住它，说了晚安，然后用一条短信把这本书里最深的那个谜放在了他面前。

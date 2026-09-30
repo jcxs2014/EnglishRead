@@ -158,4 +158,6 @@ modified: "2026-09-30"
 | halfway | 走到一半 | Halfway upstairs, I realize the song coming from her room is the same one I heard in the park last night. |
 | dark corners of the mind | 内心阴暗的角落 | the cooking, the loud music, the second job—all of it—are great ways to avoid the darker corners of the mind. |
 
-## 一句话总结**： Evan 借弟弟的道歉便条和一首歌，把「混乱但独一无二」写成家里每个人的处境——包括他自己。
+## 一句话总结
+
+Evan 借弟弟的道歉便条和一首歌，把「混乱但独一无二」写成家里每个人的处境——包括他自己。

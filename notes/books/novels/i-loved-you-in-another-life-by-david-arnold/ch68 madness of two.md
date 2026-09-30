@@ -111,4 +111,6 @@ modified: "2026-09-30"
 | what she could | 她能给出的东西（此处是她给出的答案） | in the absence of reason, she offered what she could |
 | a soul | 一个灵魂（此处是两个灵魂） | until it was impossible for one soul to tell the other apart. |
 
-## 一句话总结**： 全书倒数第四章只写了一个问题和一个答案——她想知道他是否感觉到，于是她用最直接的方式把那个感觉放进了他的身体；而这一吻的结果，是两个终于不再需要区分彼此的人。
+## 一句话总结
+
+全书倒数第四章只写了一个问题和一个答案——她想知道他是否感觉到，于是她用最直接的方式把那个感觉放进了他的身体；而这一吻的结果，是两个终于不再需要区分彼此的人。

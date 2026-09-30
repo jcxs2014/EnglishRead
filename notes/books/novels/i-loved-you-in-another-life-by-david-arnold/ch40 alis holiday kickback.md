@@ -151,4 +151,6 @@ modified: "2026-09-30"
 | buried her face in her hands | 把脸埋进手里（原文过去式） | Sara buried her face in her hands |
 | borderline fluorescent | 亮得近乎荧光的（此处形容那杯饮料） | a cup of something borderline fluorescent |
 
-## 一句话总结**： 她被这群人的光好好地照了一遍，然后在心里承认：黑洞里的日子已经够难受了，不需要太阳再来炫耀它的光辉。
+## 一句话总结
+
+她被这群人的光好好地照了一遍，然后在心里承认：黑洞里的日子已经够难受了，不需要太阳再来炫耀它的光辉。

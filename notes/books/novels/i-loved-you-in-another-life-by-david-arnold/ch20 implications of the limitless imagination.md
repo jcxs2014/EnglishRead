@@ -156,4 +156,6 @@ modified: "2026-09-30"
 | Honor the memory | 为留住纪念而不换新（此处指不再养狗） | We said we’d wait to get another dog. Honor the memory. |
 | speak in the language of percentages | 用百分数的语言说话 | You speak in the language of percentages, as if the years of a life were dollars saved and spent. |
 
-## 一句话总结**： 一场治疗把 Evan 一年多以来所有的逃跑追到一个根上——他相信「心不发光就是在死」，所以当身体开始不发光（Will、妈妈、他自己），他唯一会做的事就是离开房间；而他唯一的出路，是承认自己一直在被人看见。
+## 一句话总结
+
+一场治疗把 Evan 一年多以来所有的逃跑追到一个根上——他相信「心不发光就是在死」，所以当身体开始不发光（Will、妈妈、他自己），他唯一会做的事就是离开房间；而他唯一的出路，是承认自己一直在被人看见。

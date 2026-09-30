@@ -156,4 +156,6 @@ modified: "2026-09-30"
 | an old teddy bear | 阁楼里翻出来的旧泰迪熊（此处是他回到公园时的比喻） | Being here now feels like pulling an old teddy bear out of the attic, holding some long-forgotten token of love. |
 | to brush away | 扫开（此处是他把秋千上的雪扫掉） | At the swing set, I brush away the snow and sit on the frozen bench. |
 
-## 一句话总结**： 一个男孩在咨询室里把「我到底在等什么」讲成了密歇根湖底的一头猛犸，讲到中途被逼着承认自己翻过母亲的包、也承认自己没资格生气——然后一首歌应召而来，把他从沙发上赶了出去，开车进一个公园，数到十三棵树，坐在秋千上等来身后一句「你也听得见她」。
+## 一句话总结
+
+一个男孩在咨询室里把「我到底在等什么」讲成了密歇根湖底的一头猛犸，讲到中途被逼着承认自己翻过母亲的包、也承认自己没资格生气——然后一首歌应召而来，把他从沙发上赶了出去，开车进一个公园，数到十三棵树，坐在秋千上等来身后一句「你也听得见她」。

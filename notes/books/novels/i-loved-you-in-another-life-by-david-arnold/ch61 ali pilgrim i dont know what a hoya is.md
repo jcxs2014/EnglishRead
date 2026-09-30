@@ -150,4 +150,6 @@ modified: "2026-09-30"
 | a spiral notebook | 螺旋线圈笔记本（此处是服务员手上的东西） | He consulted a spiral notebook on the stand |
 | end to end | 从一头到另一头（此处是展开围巾的动作） | When he held the scarf end to end, it read: HONORARY TAFT |
 
-## 一句话总结**： 一群人用一整套他们自己发明的礼节，把一个谁也说不清是什么的 Hoya，献给了即将去 Georgetown 的人；而这一章真正的落点在最后一句——一个一整晚都在用假酒讲真话的女孩，终于开口要了一杯最大的。
+## 一句话总结
+
+一群人用一整套他们自己发明的礼节，把一个谁也说不清是什么的 Hoya，献给了即将去 Georgetown 的人；而这一章真正的落点在最后一句——一个一整晚都在用假酒讲真话的女孩，终于开口要了一杯最大的。

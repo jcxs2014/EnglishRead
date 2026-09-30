@@ -156,4 +156,6 @@ modified: "2026-09-30"
 | the human condition | 人类的处境 | But maybe that’s the human condition: we’ll believe in anything if it means believing in something. |
 | to make you better, not lesser | 把你变得更好，而不是更差 | I think you should let your brother’s love make you better, not lesser. |
 
-## 一句话总结**： 一个把「害怕」改名叫「规划」的人，在万圣节夜的一趟散步里被人改回了真名——而那次改名是从一句「你怕的是进得去」开始的。
+## 一句话总结
+
+一个把「害怕」改名叫「规划」的人，在万圣节夜的一趟散步里被人改回了真名——而那次改名是从一句「你怕的是进得去」开始的。

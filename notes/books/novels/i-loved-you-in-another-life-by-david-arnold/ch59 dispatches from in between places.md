@@ -150,4 +150,6 @@ modified: "2026-09-30"
 | a split second | 一瞬（此处是屋内喧闹与户外寂静之间那一瞬） | she thought she would live in that split second between the chattering crowd and the quiet stillness |
 | on the line | 押在危险中（此处指两人的未来一起冒险） | they’d put their future together on the line |
 
-## 一句话总结**： 这一章用一场没有 gin 的派对来写两个人的双重出柜——她向全世界藏着自己要演下去，他向全世界宣布自己要去 Alaska，而所有人在为别人举杯；等到最后只剩下雾的时候，两人把所有正确的话都说尽了，唯独没说那件真正要说的，于是他们站在那里，等一句话自己成形。
+## 一句话总结
+
+这一章用一场没有 gin 的派对来写两个人的双重出柜——她向全世界藏着自己要演下去，他向全世界宣布自己要去 Alaska，而所有人在为别人举杯；等到最后只剩下雾的时候，两人把所有正确的话都说尽了，唯独没说那件真正要说的，于是他们站在那里，等一句话自己成形。

@@ -106,4 +106,6 @@ modified: "2026-09-30"
 | in the bottom corner | 在照片的那个角 | In the bottom corner, she typed cabin couplet #22 |
 | staring out | 望着远处 | there was a person, wrapped in a blanket, staring out across the landscape. |
 
-## 一句话总结**： 她在一张别人的风景照里放进一个站着的人，然后在照片角上写下一首关于他的诗，最后用四个字的私信把这件事交到他手上——全章最短，但这一章是她主动的。
+## 一句话总结
+
+她在一张别人的风景照里放进一个站着的人，然后在照片角上写下一首关于他的诗，最后用四个字的私信把这件事交到他手上——全章最短，但这一章是她主动的。

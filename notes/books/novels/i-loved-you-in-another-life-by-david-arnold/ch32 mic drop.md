@@ -154,4 +154,6 @@ modified: "2026-09-30"
 | soft serve | 软冰淇淋 | I know a Dairy Queen soft serve isn’t literally the most delicious thing in the world |
 | the treatment | 治疗 | I go in five times a week for more treatment |
 
-## 一句话总结**： 一个把献词当成念完书之后手续的孩子，在满场笑声里把母亲正在死于癌症四个字念了出来——而那晚剩下的路程里，这位母亲把癌症讲成了一份运气清单，最后三个人在车里抱成一团，谁也没能把话说整齐。
+## 一句话总结
+
+一个把献词当成念完书之后手续的孩子，在满场笑声里把母亲正在死于癌症四个字念了出来——而那晚剩下的路程里，这位母亲把癌症讲成了一份运气清单，最后三个人在车里抱成一团，谁也没能把话说整齐。

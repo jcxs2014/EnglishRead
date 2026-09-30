@@ -157,4 +157,6 @@ modified: "2026-09-30"
 | giant feathered wings | 巨大的羽翼（她身上那幅画的图案） | standing naked by the window, giant feathered wings sprouting from her back— had put the notion into her head. |
 | sprouting from | 从…长出（原文动名词） | giant feathered wings sprouting from her back— had put the notion into her head. |
 
-## 一句话总结**： 作者在 1832 年的巴黎放下一首歌、一只鸟和一句「我会找到你」，然后让全书的另外 66 章花两百年去应验它。
+## 一句话总结
+
+作者在 1832 年的巴黎放下一首歌、一只鸟和一句「我会找到你」，然后让全书的另外 66 章花两百年去应验它。

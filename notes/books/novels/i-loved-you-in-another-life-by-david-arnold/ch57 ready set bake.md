@@ -151,4 +151,6 @@ modified: "2026-09-30"
 | willing | 意愿（此处 be willing to do 的变形，指用眼神祈求） | staring inside, as if willing a suitable bake |
 | ukulele | 尤克里里（Stevie 留下的乐器） | Stevie’s old ukulele, as if it had just been played yesterday |
 
-## 一句话总结**： 这一章里春天是被烤出来的——一个三口之家用一个德语蛋糕的复数格当动词，把「我们少了一个」改写成「这项爱好刚好合适」；而真正让门松动的是那道缝：母亲在 Stevie 的房间里哼着旧曲，于是 Shosh 听见屋里第一次没有 Nightbird，只有解冻的声音，并且第一次对另一个人承认——也许「没事」是可以的。
+## 一句话总结
+
+这一章里春天是被烤出来的——一个三口之家用一个德语蛋糕的复数格当动词，把「我们少了一个」改写成「这项爱好刚好合适」；而真正让门松动的是那道缝：母亲在 Stevie 的房间里哼着旧曲，于是 Shosh 听见屋里第一次没有 Nightbird，只有解冻的声音，并且第一次对另一个人承认——也许「没事」是可以的。

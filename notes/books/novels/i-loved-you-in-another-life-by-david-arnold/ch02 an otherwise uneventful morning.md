@@ -155,4 +155,6 @@ modified: "2026-09-30"
 | say who you were | 说出你是谁（此处指用衣着表明身份） | if you couldn’t say who you were with your clothes, there wasn’t much sense getting out of bed in the morning, was there. |
 | in the order of things | 在万物的秩序中 | recognize her own infinitesimal place in the order of things; |
 
-## 一句话总结**： Shosh 把自己活成了一件湿透的外套，而作者让一只不扇翅的鸟和一次失败的美（melancholy）替她说完了她说不出口的那部分。
+## 一句话总结
+
+Shosh 把自己活成了一件湿透的外套，而作者让一只不扇翅的鸟和一次失败的美（melancholy）替她说完了她说不出口的那部分。

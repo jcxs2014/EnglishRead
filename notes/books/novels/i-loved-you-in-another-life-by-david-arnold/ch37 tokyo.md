@@ -154,4 +154,6 @@ modified: "2026-09-30"
 | wings | 翅膀（此处是画上那只鸟的姿态，也是它后来的姿态） | a large bird perched on the edge of the piano, broad wings spread as if about to take flight; |
 | the far-left aisle | 最左边那条过道（此处是画上标出的坐标） | it was drawn from the audience’s point of view, set on the far-left aisle, just a few rows back. |
 
-## 一句话总结**： 一个十岁的男孩在 1953 年的东京送出一张画，画上标着「观众席最左过道往后数几排」，画里那只张开翅膀的鸟在十三年后的奥斯陆音乐厅里真的落到了钢琴上——而作者让志津子先弹完，才抬起头。
+## 一句话总结
+
+一个十岁的男孩在 1953 年的东京送出一张画，画上标着「观众席最左过道往后数几排」，画里那只张开翅膀的鸟在十三年后的奥斯陆音乐厅里真的落到了钢琴上——而作者让志津子先弹完，才抬起头。

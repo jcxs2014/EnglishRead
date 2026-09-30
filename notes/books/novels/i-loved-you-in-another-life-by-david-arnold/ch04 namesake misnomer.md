@@ -170,4 +170,6 @@ modified: "2026-09-30"
 | a glimmer in her eye | 眼里的微光（挑选时的那种精明） | Stevie studied the stacks of wedges with a glimmer in her eye, as if picking out a wedding ring or a luxury sedan. |
 | gripe | 抱怨，不满 | Aside from the smell, her main gripe with the Iverton police station was the seating situation |
 
-## 一句话总结**： 一个被姐姐取名的女孩，在派出所里被人叫成姐姐的名字，作者用一场超市里的奶酪之争把这个名字的来历讲完，再用一句「只有没机会说出口的人，才觉得告别痛苦」把它变成全书最重的一块石头。
+## 一句话总结
+
+一个被姐姐取名的女孩，在派出所里被人叫成姐姐的名字，作者用一场超市里的奶酪之争把这个名字的来历讲完，再用一句「只有没机会说出口的人，才觉得告别痛苦」把它变成全书最重的一块石头。

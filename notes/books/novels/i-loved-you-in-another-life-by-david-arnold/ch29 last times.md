@@ -154,4 +154,6 @@ modified: "2026-09-30"
 | superheroes | 超级英雄（此处是一起穿过院子的那群人） | A group of superheroes, Marvel and DC alike, cut through a yard together. |
 | a ghost costume | 一身幽灵装扮（此处是楼下那个小孩） | Down below, a little kid in a ghost costume was yelling at a Darth Vader for leaving him behind |
 
-## 一句话总结**： 这一章里 Shosh 什么都没做，只是坐在窗框上把一罐可乐倒在楼下的玫瑰丛里，然后被一个七岁小孩逗笑、再被一个大人的两个词问倒——而真正改变的是最后一秒：她闭着眼睛想找出自己上一次登台的日子，找不到。
+## 一句话总结
+
+这一章里 Shosh 什么都没做，只是坐在窗框上把一罐可乐倒在楼下的玫瑰丛里，然后被一个七岁小孩逗笑、再被一个大人的两个词问倒——而真正改变的是最后一秒：她闭着眼睛想找出自己上一次登台的日子，找不到。

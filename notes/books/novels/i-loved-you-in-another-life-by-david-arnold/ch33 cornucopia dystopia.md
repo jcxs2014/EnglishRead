@@ -155,4 +155,6 @@ modified: "2026-09-30"
 | blank-faced | 面无表情的 | The rest of the family sank backward in their chairs, blank-faced. |
 | alone together | 独自相伴（那两个字词） | Those two words—‘alone together’—they were supposed to go here. |
 
-## 一句话总结**： 一桌人吵的是汉堡店和婚姻，而 Shosh 在笑到最响的时候没有逃——她坐在自己的黑洞里，等全桌静下来，然后说出那两个本来要和姐姐一起纹的词；就在那一刻，那首歌的歌词第一次被听清了。
+## 一句话总结
+
+一桌人吵的是汉堡店和婚姻，而 Shosh 在笑到最响的时候没有逃——她坐在自己的黑洞里，等全桌静下来，然后说出那两个本来要和姐姐一起纹的词；就在那一刻，那首歌的歌词第一次被听清了。

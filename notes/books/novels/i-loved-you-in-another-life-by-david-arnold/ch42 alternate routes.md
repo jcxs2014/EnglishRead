@@ -150,4 +150,6 @@ modified: "2026-09-30"
 | cranked the volume | 把音量拧大（原文过去式） | Balding cranked the volume. |
 | passing trees in the night | 在夜里从树旁掠过（原文进行时） | passing trees in the night |
 
-## 一句话总结**： 一辆挤着四个人的车开在回家的路上，副驾座上的人掏出一枚戒酒的纪念章，Shosh 就此发现自己一生中最坚固的那条界线原来只是一场自我谈判。
+## 一句话总结
+
+一辆挤着四个人的车开在回家的路上，副驾座上的人掏出一枚戒酒的纪念章，Shosh 就此发现自己一生中最坚固的那条界线原来只是一场自我谈判。
