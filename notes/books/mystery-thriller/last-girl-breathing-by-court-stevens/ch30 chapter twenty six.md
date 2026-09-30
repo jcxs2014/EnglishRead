@@ -101,8 +101,9 @@ modified: "2026-10-01"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| grief | 悲痛 | Bile rises in my throat and I turn away, coughing, gagging with grief. |
 | toothbrush | 牙刷 | His toothbrush showed up one day, his shampoo the next, his shaving kit the day after that. |
+| shampoo | 洗发水 | His toothbrush showed up one day, his shampoo the next, his shaving kit the day after that. |
+| alibi | 不在场证明 | “I have an alibi, and all you have is free time in LaRue until four.” |
 
 
 ## 一句话总结
