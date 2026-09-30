@@ -78,7 +78,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：全书论点最直白的一次落地，也是最不加修饰的一次：fair game（任人下手）与 loose change（零钱）用的是同一套钱的比喻，而 loose 这个词同时挂着「松散」与「零钱」两义，一句话完成定性。ready access 指向另一层现实——受害者因为自己所处的位置而更容易被接近；作者把它摆上桌，是不让读者把评论区里的火气当成纯粹的刻薄。
 
-**读者视角提示**：这个账号名在全书末尾还会以另一种形式再出现一次。读到收尾那一章时，请回到这段话重新读一遍：那时它的主语会换人。
+**读者视角提示**：这个账号名会一路活跃到 ch70 才被揭出真实身份。读到那一章时，请回到这段话重新读一遍：那时看的人会发现，说这番话的人根本不在现场。
 
 ---
 > **原句 7:** "It feels like a hot flash, but now I’m beginning to understand what it really is. There’s something about a woman’s rage that feels very old, very primal. A man’s rage may be more physical, but a woman’s rage is born from centuries of violence. It calls across cultures. It calls across race. It is old, and hungry, and dark, and does not know its power. Yet."
@@ -87,7 +87,7 @@ modified: "2026-09-30"
 
 **关键词**：a woman’s rage（女人的愤怒）· born from centuries of violence（从几百年的暴力里生出来）· does not know its power（还不知道自己的力量）
 
-**为什么这样写**：把生理反应与政治判断接在同一根线上，再用 centuries（世纪）把个人情绪拉到历史尺度。It calls across cultures 与 It calls across race 这对同构短句，把愤怒写成一种跨界的语言；末句那个挂在破折号后的 yet 则把「还不知道」变成一张待兑现的欠条。
+**为什么这样写**：把生理反应与政治判断接在同一根线上，再用 centuries（世纪）把个人情绪拉到历史尺度。It calls across cultures 与 It calls across race 这对同构短句，把愤怒写成一种跨界的语言；末句那个被单独拆成一句的 yet 则把「还不知道」变成一张待兑现的欠条。
 
 **读者视角提示**：「还不知道自己的力量」是给整本书下的任务书。本章她只在评论区顶了一句，任务书却写在这里；往后每一次她真正动手，都是在兑现这个 yet。
 

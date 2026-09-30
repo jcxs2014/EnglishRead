@@ -41,7 +41,7 @@ modified: "2026-09-30"
 
 > **原句 3:** "I suppose that’s the problem with marrying your childhood sweetheart. You sometimes miss out on having friends. You’re too wrapped up in each other to think that one day the other may not be enough."
 
-**中文理解**： 作者说，问题大概出在嫁给了儿时恋人这件事上：这样有时就会错过交朋友。你们太裹在彼此身上，以至于不会想到有一天其中一个可能不再够用。
+**中文理解**： 她（叙述者）说，问题大概出在嫁给了儿时恋人这件事上：这样有时就会错过交朋友。你们太裹在彼此身上，以至于不会想到有一天其中一个可能不再够用。
 
 **关键词**： marrying your childhood sweetheart（嫁给儿时恋人）· miss out on having friends（错过交朋友）· may not be enough（可能不再够用）
 

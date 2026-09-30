@@ -17,7 +17,7 @@ modified: "2026-09-30"
 
 > **原句 1:** "Twenty-eight customers today. Salena is ordering more stock, especially of children’s books, and of today’s surprise bestseller, Managing the Menopause. It was Kafka’s Choice last week, which explains its popularity. At least, that’s what Salena thinks. I happened to think that all men (yes, all men) should know at least something about these things."
 
-**中文理解**： 今天二十八位客人。Salena 正在补货，尤其是童书，还有今天意外冒出来的畅销书《Managing the Menopause》；上周的畅销书是《Kafka’s Choice》，这大概能解释它的销量——至少 Salena 是这么想的。而作者觉得，所有男人（是的，所有男人）至少该懂一点这些事。
+**中文理解**： 今天二十八位客人。Salena 正在补货，尤其是童书，还有今天意外冒出来的畅销书《Managing the Menopause》；上周的畅销书是《Kafka’s Choice》，这大概能解释它的销量——至少 Salena 是这么想的。而叙述者觉得，所有男人（是的，所有男人）至少该懂一点这些事。
 
 **关键词**： today’s surprise bestseller（今天的意外畅销书）· Kafka’s Choice last week（上周是 Kafka’s Choice）· all men (yes, all men)（所有男人（是的，所有男人））
 

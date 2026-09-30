@@ -77,11 +77,11 @@ modified: "2026-09-30"
 
 > **原句 6:** "And as the stagehands raced to remove the heavily laden table, she moved to the front of the stage and knelt to whisper softly in my ear. And then she stood up, and drained her glass in a single mouthful, and winked at me, and took a bow, and the applause was thunderous."
 
-**中文理解**： 她把这一夜全部记成别人都不在场的样子；唯一被留下的是台上的女人，俯身在她耳边留下的那句话。
+**中文理解**： 这一夜她记下的全是舞台上的动作：跪到台前的一阵耳语，之后才是起身、饮尽杯中酒、眨眼、谢幕。
 
 **关键词**： knelt to whisper softly（跪下来轻声耳语）· the applause was thunderous（掌声雷动）
 
-**为什么这样写**： 先给一场震耳欲聋的谢幕（thunderous），再让一个人在满场的响动里跪到台前、几乎是私语——宏大的与极小的相接，是这一夜真正的转折点；而这一刻发生在一个孩子身上。
+**为什么这样写**： 先让一个人在满场的响动里跪到台前、几乎是私语，随后才是那场震耳欲聋的谢幕（thunderous）——极小的与宏大的相接，是这一夜真正的转折点；而这一刻发生在一个孩子身上。
 
 **读者视角提示**： 这是全书唯一一次「被选中」的时刻。它发生在 1981 年，她此后用了四十多年才敢承认。
 
@@ -93,7 +93,7 @@ modified: "2026-09-30"
 
 **关键词**： Little girl（小女孩）· Make them look（让他们看看）
 
-**为什么这样写**： 全章的最后一句是全书唯一一句祈使句，除主语外没有任何修饰：不是「变出魔法」，而是「让他们看」——宾语是一群尚未登场的人。整本书要回答的问题是：她后来让谁看了。
+**为什么这样写**： 全章的最后一句是一句祈使句，除称呼外没有任何修饰：不是「变出魔法」，而是「让他们看」——宾语是一群尚未登场的人。整本书要回答的问题是：她后来让谁看了。
 
 **读者视角提示**： 记住这个祈使句的宾语。它是全书真正的悬念所在，比任何谋杀都更早被提出来。
 
