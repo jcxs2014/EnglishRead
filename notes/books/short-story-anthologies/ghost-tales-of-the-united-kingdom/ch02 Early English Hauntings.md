@@ -166,6 +166,9 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
+
+### ⭐⭐⭐ 高级
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | apparition | （幽灵；显形的鬼魂） | This done, the apparition walked with him as if it were a horse. |
@@ -178,12 +181,24 @@ modified: "2026-09-30"
 | attendants | （侍从；随员） | The room where she died is at the top of the Silver Stick Stairs, named after the sign of office of one of the king's attendants. |
 | disappointment | （失望；失望的落空） | In 1537 she gave birth to Henry's first son after years of disappointment and two previous wives not providing him with an heir. |
 | impotent | （性无能的；无能力的） | Catherine was still a teenager when she married an obese and, some say, impotent king. |
+
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | stumbled | （绊倒；踉跄） | His horse stumbled on the road and broke its leg. |
 | terrified | （极度恐惧的） | The terrified man invoked the name of Jesus Christ, praying the horse would do him no harm. |
 | injustice | （不公；不义） | Ghosts were also known to appear to remedy earthly injustice. |
 | cemetery | （墓地；公墓） | The aforementioned woman was buried in the cemetery of Ampleford. |
 | conjured | （被降服的；被魔力召唤的） | Finally, she was conjured to another place because of the nightly fear and terror of the people of the village. |
 | downward | （向下地） | The right hand of that woman was hanging downward and was exceedingly black. |
+
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | offended | （被冒犯的；有罪的） | I seek pardon, nevertheless, if by chance I have offended in writing contrary to the truth. |
 | contrary | （相反的；违反的） | I seek pardon, nevertheless, if by chance I have offended in writing contrary to the truth. |
 | believed | （相信） | Perhaps the Romans saw ghosts there, too, as they certainly believed in them. |

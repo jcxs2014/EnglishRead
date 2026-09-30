@@ -162,6 +162,9 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
+
+### ⭐⭐⭐ 高级
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | Brooding | （阴沉的；笼罩着不祥氛围的） | Brooding castles hold tales of bloodshed and honor. |
@@ -172,6 +175,12 @@ modified: "2026-09-30"
 | disappearances | （失踪（复数）） | Some Scots say this is a land haunted by spirits, a place of strange disappearances and unexplained phenomena. |
 | Anglo-Saxon | （盎格鲁-撒克逊的） | This division goes back to the 5th century, when the ancient Britons fled west in the face of the Anglo-Saxon incursion. |
 | downright | （十足地；完全地——多接负面词） | Some of those tales are downright grisly. |
+
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | prehistoric | （史前的） | Its rolling countryside is dotted with prehistoric burial mounds and stone circles. |
 | neighboring | （邻近的；毗连的） | The Welsh have their distinct language and customs and have always felt themselves to be a people apart from the neighboring English. |
 | elaborate | （华丽精细的；精心制作的） | Medieval churches have elaborate stained glass windows and gruesome carvings, reflecting a mixture of hope and darkness. |
@@ -183,6 +192,12 @@ modified: "2026-09-30"
 | warriors | （武士；战士（复数）） | It has produced explorers, warriors, inventors, writers, and more than a few murderers. |
 | inventors | （发明家（复数）） | It has produced explorers, warriors, inventors, writers, and more than a few murderers. |
 | Medieval | （中世纪的） | Medieval churches have elaborate stained glass windows and gruesome carvings, reflecting a mixture of hope and darkness. |
+
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | darkness | （黑暗；晦暗） | Medieval churches have elaborate stained glass windows and gruesome carvings, reflecting a mixture of hope and darkness. |
 | countryside | （乡村；乡间地区） | Its rolling countryside is dotted with prehistoric burial mounds and stone circles. |
 | reflecting | （反映；映照（reflect 的现在分词）） | Medieval churches have elaborate stained glass windows and gruesome carvings, reflecting a mixture of hope and darkness. |

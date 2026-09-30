@@ -73,27 +73,41 @@ for f in sorted(glob.glob(f"{book}/ch*.md"), key=lambda x: int(re.search(r"ch(\d
     if not m or not m.group(1).strip():
         print(f"❌ {n}: ## 一句话总结 有标题无正文（所有门禁都不查这一项）")
         bad += 1
-    # 本章词汇：三档表头下每档至少一条词条
-    v = re.search(r"^## 本章词汇(.*?)(?=\n## |\Z)", txt, re.M | re.S)
-    if v:
+    # 本章词汇 / 词汇分级：三档表头下每档至少一条词条
+    # ⚠️ 2026-09-30 修正（Ghost Tales of the UK 终验实测 20 章假红）：非虚构论述档的
+    #    节名是 `## 词汇分级`（非虚构档）而非 `## 本章词汇`（言情/精简档），
+    #    原式只认后者 ⇒ 分档检查整段跳过。**两档节名都认**，任一命中即查。
+    for vsec in ("本章词汇", "词汇分级"):
+        v = re.search(rf"^## {vsec}(.*?)(?=\n## |\Z)", txt, re.M | re.S)
+        if not v:
+            continue
         tiers = re.split(r"(?m)^### ", v.group(1))[1:]
         for ti in tiers:
             rows = [x for x in ti.split("\n") if x.startswith("| ") and "词/短语" not in x and not x.startswith("|---")]
             if not rows:
                 print(f"❌ {n}: 词表档位「{ti.splitlines()[0].strip()}」只有表头没有词条")
                 bad += 1
+        break
     # 导航必备 5 项：**只判「项数 ≥5 且每项有正文」，不锁死标签措辞**——
     # 言情档写「Tropes 兑现/反转」、双时间线档写「本节在双线中的位置」、
     # 非言情精简档写「母题/冲突兑现/反转」；枚举标签会把每种正当写法都判成假红
     # （AGENTS 8.3：格式自成一派的书是合法的；假红型先修工具）。
-    nav = re.search(r"^## 本章导航[ \t]*\n(.*?)(?=\n## |\Z)", txt, re.M | re.S)
+    # ⚠️ 2026-09-30 修正（Ghost Tales of the UK 终验实测 20 章假红）：非虚构论述档的
+    #    对应节是 `## 概览`（出处/作者/章节定位/字符数/一句话主旨 5 项），
+    #    原式只认 `## 本章导航` ⇒ nav 为 None ⇒ 恒 0 条 ⇒ **全量假红**。
+    #    **两档节名都认**（`本章导航` 或 `概览`），与 ⑬b 的判据一致。
+    nav = None
+    for nsec in ("本章导航", "概览"):
+        nav = re.search(rf"^## {nsec}[ \t]*\n(.*?)(?=\n## |\Z)", txt, re.M | re.S)
+        if nav:
+            break
     # ⚠️ 冒号后**允许前导空格**（2026-09-30 Broken Light 终验实测）：
     #    原式 `：(\S.*)$` 要求首字符非空白，于是写成「**： 内容」（带一个空格）的
     #    5 个导航项全被判 0 条 —— ch21–ch25 五章假红，内容本身完好。
     #    前导空格是正常排版，不是缺陷；判据只该管「有没有正文」。
-    items = re.findall(r"(?m)^[-*]?\s*\*\*([^*]+)\*\*：\s*(\S.*)$", nav.group(1)) if nav else []
+    items = re.findall(r"(?m)^[-*]?\s*\*\*([^*]+)\*\*[：:]\s*(\S.*)$", nav.group(1)) if nav else []
     if len(items) < 5:
-        print(f"❌ {n}: 导航粗体项 {len(items)} 条 < 5（缺项或写法不匹配 `**X**：`）")
+        print(f"❌ {n}: 导航/概览 粗体项 {len(items)} 条 < 5（缺项或写法不匹配 `**X**：`）")
         bad += 1
     for k, v in items:
         if not v.strip():

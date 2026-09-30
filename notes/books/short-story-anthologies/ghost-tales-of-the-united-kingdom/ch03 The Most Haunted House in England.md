@@ -168,6 +168,9 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
+
+### ⭐⭐⭐ 高级
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | manifestations | （灵异显现；超自然现象的显现） | It was during his tenure at the house that the manifestations became stronger. |
@@ -184,6 +187,12 @@ modified: "2026-09-30"
 | disconnected | （被断开的；被拆线的） | These bells started to go off at odd hours, even though the system had been disconnected in favor of a modern electric bell system. |
 | assistants | （助手（复数）） | One of Price's assistants, Helen Glanville, held a séance concerning the house on October 31, 1937. |
 | volunteers | （志愿者） | Occasionally, the volunteers heard footsteps or found that objects had moved from their places, but little else was reported. |
+
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | deciphered | （破译出；辨认出） | Some could not be deciphered. |
 | occurrences | （发生；事件（复数）） | Within a year, strange occurrences were reported by the reverend's children, as well as locals visiting the house. |
 | residence | （常驻；居住） | It seems that every historic home—and even some modern ones—has a ghost in residence. |
@@ -195,6 +204,12 @@ modified: "2026-09-30"
 | whispers | （低语；耳语（复数）） | The new reverend also heard many moans and whispers. |
 | reporter | （记者） | The paper sent a reporter and also called in a paranormal researcher named Harry Price. |
 | messages | （讯息；留言（复数）） | The messages would always be an almost illegible scribble, a desperate scrawl that wrote over itself. |
+
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | illegible | （难以辨认的；字迹不清的） | The messages would always be an almost illegible scribble, a desperate scrawl that wrote over itself. |
 | apparition | （幽灵；显形的鬼魂） | When they tried to speak to her, the apparition disappeared. |
 | reverend | （牧师；教区牧师） | The reverend's wife was cleaning out a cupboard when she found a package wrapped in brown paper. |
