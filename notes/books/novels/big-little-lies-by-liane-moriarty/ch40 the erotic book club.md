@@ -117,11 +117,6 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
-### ⭐⭐⭐ 高级
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| environment | 安全环境 | You need to be able to send your child to school and know that she’s in a safe environment. |
 | emphatically | 斩钉截铁地 | Lipmann: I most emphatically disagree. |
 | accidentally | （不小心）错签 | Gabrielle: Don’t tell anyone, but I think I accidentally signed it. |
 | pedestrian | 行人（过街） | I thought it was the petition about getting the council to put in a pedestrian crossing on Park Street. |
@@ -141,11 +136,6 @@ modified: "2026-09-30"
 | inevitably | 难免 | The only problem was that Madeline or Ed inevitably fell asleep too, emerging from Chloe’s room an hour or so later, dazed and blinking. |
 | angelically | 天使般地 | She gazed angelically up at them and hugged her teddy. |
 
-### ⭐⭐ 进阶
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| brownies | 布朗尼 | “Stop calling it the Erotic Fiction Club,” said her first guest, Samantha as she handed over a plate of brownies. |
 | marathons | 马拉松 | She ran marathons, but Madeline forgave her for this flaw because Samantha seemed to say exactly what she thought and she was also one of those people who were completely at the mercy of her own sense of humor. |
 | befriend | （跟谁）交好 | Madeline’s fear that Chloe would befriend Skye had therefore proven unfounded. |
 | unfounded | （担心）落空 | Madeline’s fear that Chloe would befriend Skye had therefore proven unfounded. |
@@ -153,11 +143,6 @@ modified: "2026-09-30"
 | suspended | （学籍）暂停 | “It’s a petition to have Ziggy suspended from the school,” said Samantha with an apologetic grimace, as if she’d stepped on Madeline’s toe. |
 | marvelous | 绝妙的（意象） | “If anyone uses the words ‘marvelous imagery’ or ‘narrative arc,’ slap them for me,” he’d told her. |
 
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-| petition | 请愿 | Samantha: Have you heard about the petition? |
 | logistical nightmare | 排期地狱 | “Oh, yes, it’s a logistical nightmare,” said Madeline. |
 
 ## 一句话总结
