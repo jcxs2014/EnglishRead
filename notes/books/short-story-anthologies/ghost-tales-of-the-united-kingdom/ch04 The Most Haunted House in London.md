@@ -166,7 +166,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -183,7 +183,7 @@ modified: "2026-09-30"
 | mourning | （哀悼；居丧守制） | The attic room where Myers had spent his lonely vigil mourning his love life was apparently the scene of a suicide. |
 | babbling | （喋喋不休；（听觉上的）含混说话声） | Occasionally, they heard strange sounds and babbling emanating from the lonely home. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -200,7 +200,7 @@ modified: "2026-09-30"
 | upstairs | （楼上的；楼上——作名词时指楼上房间） | By this time, the upstairs room had developed quite a reputation. |
 | recluse | （隐居者；离群索居的人） | Falling into a deep depression, Myers became a recluse. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

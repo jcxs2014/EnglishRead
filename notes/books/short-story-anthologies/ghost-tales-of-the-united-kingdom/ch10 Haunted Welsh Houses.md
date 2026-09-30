@@ -179,7 +179,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -196,7 +196,7 @@ modified: "2026-09-30"
 | commissions | （委托项目；委约（复数）——建筑师语境指「受托工程」） | Arnold Dunbar Smith (1866-1933) was one of the leading architects of his day, working on many major commissions. |
 | revitalized | （使复兴；改造更新——`revitalize` 的过去分词） | They pointed out that the area was quite rough before it was revitalized, with thefts and murders being commonplace. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -213,7 +213,7 @@ modified: "2026-09-30"
 | workload | （工作量——`work` 加 `load`） | They built up a regular customer base, enjoyed a brisk trade, and hired several employees to help with the increased workload. |
 | composure | （镇定；沉着——`compose` 加 -ure） | After regaining their composure, they decide to continue. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

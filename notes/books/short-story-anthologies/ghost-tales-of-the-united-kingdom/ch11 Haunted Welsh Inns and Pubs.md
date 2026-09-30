@@ -177,7 +177,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -194,7 +194,7 @@ modified: "2026-09-30"
 | cloying fear | （黏腻的恐惧——cloy 加 -ing，本义形容甜腻过度） | Upstairs, people report feeling like they are being strangled or suddenly experiencing a cloying fear that has no source. |
 | baleful presence | （凶险的存在；恶意的出没） | He is not seen but felt as a baleful presence on the stairs. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -211,7 +211,7 @@ modified: "2026-09-30"
 | Visitors | （访客；来客（复数）） | Visitors can still see the marks the rope left on the wood. |
 | occurred | （发生了；出现了——occur 的过去式） | It is here where the spectral stranglings have occurred. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

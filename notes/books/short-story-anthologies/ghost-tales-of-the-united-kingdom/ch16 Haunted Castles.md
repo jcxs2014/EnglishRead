@@ -190,7 +190,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -208,7 +208,7 @@ modified: "2026-09-30"
 | invisible | 看不见的；无形的——in- + visible | Residents in the castle have complained of hearing footsteps down empty corridors and feeling invisible fingers touch their hair. |
 | mainstay | 支柱； mainstay 亦作「主要支柱」 | Phantom coaches such as this are a mainstay of ghost sightings across the British Isles. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -221,7 +221,7 @@ modified: "2026-09-30"
 | military | 军事的；军用的 | From small family forts to massive military establishments and royal domains, Scotland is estimated to have some 3,000 castles. |
 | musician | 乐师——music 加 -ian | The piper pretended to be a wandering musician and asked for entry to the castle. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

@@ -173,7 +173,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -189,7 +189,7 @@ modified: "2026-09-30"
 | intensity | 强度；剧烈程度 | At first, he thought it was a cigarette, but it grew in intensity and smelled more akin to burning plastic. |
 | severely | 严重地；剧烈地——severity 的副词形 | Three died, and the rest were severely injured. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -204,7 +204,7 @@ modified: "2026-09-30"
 | hitchhiking | 搭便车（动名词） | It just goes to show that not only is hitchhiking dangerous, but it can be dangerous to pick up a hitchhiker. |
 | hitchhiker | 搭车客；搭便车者 | It just goes to show that not only is hitchhiking dangerous, but it can be dangerous to pick up a hitchhiker. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

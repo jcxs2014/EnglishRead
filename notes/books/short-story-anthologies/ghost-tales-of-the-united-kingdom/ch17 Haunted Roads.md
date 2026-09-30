@@ -185,7 +185,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -202,7 +202,7 @@ modified: "2026-09-30"
 | violently | 剧烈地；暴烈地——violent 的副词形 | Suddenly, they felt the temperature plunge, and the car began to rock violently from side to side as if by an unseen force. |
 | overwhelms | 压倒；使不知所措——overwhelm 的三单 | The power of the sun overwhelms them, it being too powerful for them to manifest in their weakened state, and thus blanks them out. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -218,7 +218,7 @@ modified: "2026-09-30"
 | performers | 表演者（复数）——performer 的复数 | The medieval refugees seem to be the only repeat performers on the A75. |
 | vanished | 消失了——vanish 的过去式 | Once he'd pulled over, he jumped out of his vehicle to search for the bodies, but the couple had vanished. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

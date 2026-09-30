@@ -180,7 +180,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -195,7 +195,7 @@ modified: "2026-09-30"
 | persistent | （持续的；执拗的——persist 加 -ent） | It was only after persistent threats from her former lover, now King Henry I, that the Prince of Ceredigion let her go. |
 | undiscovered | （未被发现；下落不明的——discover 的否定式） | None have dared to follow, however, and the secret of the books’ hiding place remains undiscovered to this day. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -210,7 +210,7 @@ modified: "2026-09-30"
 | sensation | （感觉；直觉——此处指「他觉得他想给你看什么」的那种感觉） | Some get the sensation he wants to show them something. |
 | beckoning | （招手；召唤——beckon 的现在分词） | He often stands in a far corner, beckoning to those who see him. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

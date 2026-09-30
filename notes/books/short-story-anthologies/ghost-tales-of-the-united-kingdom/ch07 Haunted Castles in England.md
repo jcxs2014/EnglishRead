@@ -171,7 +171,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -188,7 +188,7 @@ modified: "2026-09-30"
 | bombardment | （炮击；轰炸——`bombard` 的名词形） | John Birch and his Parliamentarian army were still outside, and the bombardment was beginning to take its toll. |
 | impassable | （无法通过的；不可通行的——`pass` + `-able` 否定前缀） | Clifford led his steed down to the crossing on the River Wye, only to find the rain had swollen the river and the ford was impassable. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -205,7 +205,7 @@ modified: "2026-09-30"
 | crossing | （渡口；横渡处） | Clifford led his steed down to the crossing on the River Wye, only to find the rain had swollen the river and the ford was impassable. |
 | purchased | （买下；购得） | When it was purchased by Henry Beecham in 1905, he had a lot of restoration work to do. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

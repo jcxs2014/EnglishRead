@@ -170,7 +170,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -187,7 +187,7 @@ modified: "2026-09-30"
 | poltergeists | （恶作剧鬼；掷物作祟的鬼——`poltergeist` 的复数） | Noises tend to be the signature of poltergeists, and those particular spirits rarely show themselves. |
 | congregation | （会众；教堂全体信众） | His passing was a grievous loss to the congregation, but old Henry didn’t fully leave. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -204,7 +204,7 @@ modified: "2026-09-30"
 | cloister | （回廊；修道院回廊——`cloister` 亦指修道院） | Established in 1150, it is noteworthy for having the only surviving cloister of the Gilbertine Order. |
 | residents | （居民（复数）——此处指修院内的修道士与修女） | At the priory’s height, the residents numbered about a hundred. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

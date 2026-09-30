@@ -172,7 +172,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -187,7 +187,7 @@ modified: "2026-09-30"
 | poisonous | 有毒的；有害的——poison 加 -ous | Miners were often killed in cave-ins, from poisonous gas emitted from the ground, and explosions. |
 | extensive | 广泛的；大量的——extent 加 -ive | Sometimes the coal vein would ignite, and if the fire became too extensive, the only way to douse it was to flood the mine. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -201,7 +201,7 @@ modified: "2026-09-30"
 | released | 被释放的；释出的——release 的过去分词 | These explosions occurred because the natural gases released by the coal could be flammable and were made worse by the coal dust in the air. |
 | occurred | 发生了——occur 的过去式 | These explosions occurred because the natural gases released by the coal could be flammable and were made worse by the coal dust in the air. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

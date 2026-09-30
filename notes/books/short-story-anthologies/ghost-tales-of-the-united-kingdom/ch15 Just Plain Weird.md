@@ -182,7 +182,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -197,7 +197,7 @@ modified: "2026-09-30"
 | enclosed | 被围墙圈起的；封闭的 | The prints ran along fields, along the tops of houses and walls, and through enclosed gardens. |
 | wonderful | 精彩的；极好的——此处带反讽意味 | “After scrutinizing her himself, he crept back to call his family to see this wonderful sight. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -212,7 +212,7 @@ modified: "2026-09-30"
 | headless | 无头的——head 加 -less | Wales may be unique in having a strange twist on the headless horseman: the two-headed ghost. |
 | pony | 矮种马；小马 | The tracks looked like horseshoes but were smaller than a horse or a pony. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

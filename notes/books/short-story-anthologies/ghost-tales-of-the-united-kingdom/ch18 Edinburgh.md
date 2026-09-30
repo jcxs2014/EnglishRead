@@ -224,7 +224,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -241,7 +241,7 @@ modified: "2026-09-30"
 | Covenanter |  Covenanters 誓约派成员（复数） | The uprising was quickly quashed when the Covenanter Army met with defeat at the Battle of Bothwell Bridge on June 22 of that year. |
 | highwayman | 强盗；拦路抢劫者——highway + man 复合 | At first, all was quiet at the mausoleum, but it is said that a highwayman named John Hayes fled there sometime in the 18th century. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -258,7 +258,7 @@ modified: "2026-09-30"
 | invisible | 看不见的；无形的——in- + visible | Some people have also said they’ve felt an invisible hand tugging on their clothing. |
 | sacrificed | 被献祭的——sacrifice 的过去分词 | Small animals are often found sacrificed at the entrance. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

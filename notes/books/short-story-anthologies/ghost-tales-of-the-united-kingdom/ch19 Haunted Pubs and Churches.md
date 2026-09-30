@@ -190,7 +190,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -207,7 +207,7 @@ modified: "2026-09-30"
 | disciplinarian | 纪律执行者——discipline 加 -arian | By all accounts, Robert de Montrose was a kindly and fair man, but in his office as prior, he sometimes had to be the disciplinarian. |
 | presbytery | （教堂东端的）祭坛区；司铎席 | Parts of the wall survive with their original arches, as does the east gable of the presbytery that once housed St. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -220,7 +220,7 @@ modified: "2026-09-30"
 | stunning | 令人惊叹的；惊人的——stun 加 -ning | After almost 500 years of neglect, much of the cathedral has vanished, but what remains is stunning in its grandeur. |
 | magnificent | 宏伟的；壮丽的 | The views from the top of it are truly magnificent, with the ruins of the cathedral, the nearby town, and sea all laid out beneath. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

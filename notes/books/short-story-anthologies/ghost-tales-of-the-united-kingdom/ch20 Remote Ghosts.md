@@ -209,7 +209,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -226,7 +226,7 @@ modified: "2026-09-30"
 | archipelago | 群岛——`archi-` 首 + pelagos 海 | It sits on a hill by the settlement of Mid Yell, on the island of Yell, the second largest island in the archipelago besides Mainland. |
 | excavations | 发掘（复数）——excavate 的名词形 | The excavations were done in preparation for the restoration of the house, which still continues. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -242,7 +242,7 @@ modified: "2026-09-30"
 | prosperous | 富足的；兴旺的——prosper 加 -ous | Baubie Skithawa was an old woman who had led what passed for a prosperous life on the islands. |
 | farmstead | 农场；农庄——farm 加 stead（place） | She had a good farmstead, plenty to eat, and clothes on her back. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

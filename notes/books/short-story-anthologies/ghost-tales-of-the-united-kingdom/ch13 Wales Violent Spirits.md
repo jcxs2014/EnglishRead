@@ -182,7 +182,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -199,7 +199,7 @@ modified: "2026-09-30"
 | parchment | 羊皮纸——亦为书写材质名 | “The head, as the frightened observer now describes it, was like a deaths-head covered with wrinkled parchment. |
 | descending | 正在落下的；下降中的 | At first it was one of the men who were thrashing that noticed a stone descending on the thrashing floor. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -213,7 +213,7 @@ modified: "2026-09-30"
 | skeletal | 骨骼的；骷髅般的 | Or perhaps it was the sight of the floating, skeletal ghost that proved more frightening. |
 | children | 儿童（复数）——child 的复数 | Several of the children were struck till they went out of the house. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

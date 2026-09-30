@@ -171,7 +171,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -183,7 +183,7 @@ modified: "2026-09-30"
 | frequently | （频繁地；经常） | Another, quieter ghost is more frequently seen, that of a gray figure that appears to be a man, looking thoughtfully off into the distance. |
 | approached | （走近；接近——approach 的过去式） | When approached, the figure silently fades away, only to reappear in another part of the cemetery. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -198,7 +198,7 @@ modified: "2026-09-30"
 | distance | （距离） | Another, quieter ghost is more frequently seen, that of a gray figure that appears to be a man, looking thoughtfully off into the distance. |
 | graveyard | （墓园——多指教堂附属的旧墓园，语域窄于 cemetery） | Sometimes, it rushed out of the graveyard to attack people. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|

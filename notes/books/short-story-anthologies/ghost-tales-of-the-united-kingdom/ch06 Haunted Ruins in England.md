@@ -175,7 +175,7 @@ modified: "2026-09-30"
 
 ## 词汇分级
 
-**⭐⭐⭐ 高级**
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -192,7 +192,7 @@ modified: "2026-09-30"
 | harbingers | （先兆；预示……的人或物——`harbinger of`） | The rumor is that the horses are harbingers of evil, and no one wants to tempt fate. |
 | earthworks | （土方工程；古代防御土垒（复数）） | Avebury is set within an ancient landscape of monuments, such as prehistoric burial mounds, rock carvings, and ancient earthworks. |
 
-**⭐⭐ 进阶**
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
@@ -209,7 +209,7 @@ modified: "2026-09-30"
 | kindling | （引火柴；柴火——此处作复数或不可数） | They stacked kindling and logs soaked with pitch against the walls to start bonfires whose heat cracked the great stones apart. |
 | villagers | （村民（复数）） | The villagers then hauled the pieces away for use in local buildings. |
 
-**⭐ 基础**
+### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
