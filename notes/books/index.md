@@ -192,6 +192,7 @@ title: 书单
 | [The Saint of Bright Doors](books/novels/the-saint-of-bright-doors-by-vajra-chandrasekera/) | Vajra Chandrasekera |
 | [Save What's Left](books/novels/save-whats-left-by-elizabeth-castellano/) | Elizabeth Castellano |
 | [The Sea Hides Its Dead](books/novels/the-sea-hides-its-dead-by-megan-bontrager/) | Megan Bontrager |
+| [The Secret Wife](books/novels/the-secret-wife-by-paul-gill/) | Paul Gill |
 | [Season of the Serpent](books/novels/season-of-the-serpent-by-suyi-davies-okungbowa/) | Suyi Davies Okungbowa |
 | [See You Yesterday](books/novels/see-you-yesterday-by-rachel-lynn-solomon/) | Rachel Lynn Solomon |
 | [The Shadow King](books/novels/the-shadow-king-by-maaza-mengiste/) | Maaza Mengiste |
