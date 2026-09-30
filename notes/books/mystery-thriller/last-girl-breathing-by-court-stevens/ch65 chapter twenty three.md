@@ -94,7 +94,7 @@ modified: "2026-10-01"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | reflection | （水面的）倒影 | Above me the clouds shift and the reflection reminds me of flying marshmallows. |
-| scope | （步枪的）瞄准镜 | The shooter’s down there somewhere. |
+| squirrel | 松鼠 | Far off in the distance, there’s a single gunshot. Low caliber. Probably someone shooting squirrels. |
 | stock | （枪的）枪托 | I tighten my grip on the stock. There’s sweat on the metal and some part of me feels it coming from my palms. |
 | radio | 电台 | “Dana,” I say into the radio, feeling both stupid and terrified. |
 | hood | （雨衣的）兜帽 | This person is dressed head to toe in black rain gear, the hood pulled completely over their face. |
