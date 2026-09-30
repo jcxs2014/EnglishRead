@@ -116,7 +116,7 @@ modified: "2026-09-30"
 | footsteps | 脚步声（foot + step + s） | I have no patience for crowds, and my footsteps on the concrete stairs echo with a satisfying thump. |
 | quickening | 加快、加速（quicken + -ing，此处形容心跳） | I try to ignore the quickening of my heart rate, but the panic is stronger. |
 | compliment | 称赞（com-「完全」+ ply「填满」+ -ment） | Earlier this morning, he told me the sock was the most Barrett Bloom thing he’d ever seen, and the fact that I had only one of them even more so, and I chose to take it as a compliment. |
-| breathless | 气喘吁吁的（breath + less） | Breathless, I fling an arm out, gesturing to the scene around me. |
+| breathless | 气喘吁吁的（breath + less） | Breathless, I fling an arm out, gesturing to the scene around us. |
 | defensive | 戒备的、嘴硬的（de-「离、去除」+ fens「挡」+ -ive） | “I’m having fun,” he says, defensive, dragging a hand through his hair. |
 | optimistic | 乐观的（optim「最好」+ -istic） | “You’re supposed to be the optimistic one,” I say, tapping his ankle with my SHITSHOW-socked foot. |
 
