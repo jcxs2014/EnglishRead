@@ -27,7 +27,7 @@ modified: "2026-09-30"
 **中文理解**：她的依据是：自己在候机厅就看见过这孩子吃的东西。
 **关键词**：I saw, in the departure lounge
 **为什么这样写**：把「我早就知道会出事」降格成一句目击记录，主语是「我看到」而不是「我预言」，因果关系被悄悄换了位置。
-**读者视角提示**：这是本章唯一的证据句，也是整段免责的支点。
+**读者视角提示**：这一句是她整段免责给出的依据，前后两句都在为它铺垫。
 
 > **原句 3:** "You didn’t need any special abilities to predict that particular outcome."
 
@@ -35,8 +35,6 @@ modified: "2026-09-30"
 **关键词**：didn’t need any special abilities, predict that particular outcome
 **为什么这样写**：用「不需要」这个否定把「预言」和「推断」划开；particular outcome 一词又反过来暗示这一次的结局很特殊。
 **读者视角提示**：本章到此结束，没有写那位小女孩后来怎么样。
-
-## 本章词汇
 
 ## 本章词汇
 

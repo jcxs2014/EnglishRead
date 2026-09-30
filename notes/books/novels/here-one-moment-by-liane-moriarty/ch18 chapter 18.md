@@ -20,7 +20,7 @@ modified: "2026-09-30"
 **中文理解**：乘务员问他去霍巴特是出差还是休假，他只答：Funeral，那姑娘的笑容就找不到地方放了。
 **关键词**：‘Funeral,’, didn’t know where to put her smile
 **为什么这样写**：越短的答案越撞得慌——那个词与对方准备好的闲聊正面碰上；尴尬不写在她脸上，而写在「她的笑容无处安放」上，叙述者还顺手替她解围（poor girl）。
-**读者视角提示**：本章开头就点明他上飞机前满脑子都是死亡，这句问答是那份心思第一次外露。
+**读者视角提示**：本章开头就点明他上飞机前满脑子都是死亡，这句问答让那份心思外露了一次。
 
 > **原句 2:** "Harvey is dead. Harvey doesn’t ‘say’ things. Harvey ‘said’ things. Harvey is forevermore in the past tense. He’s said everything he will ever get to say."
 
@@ -63,8 +63,6 @@ modified: "2026-09-30"
 **关键词**：Ethan Chang, so very, very sorry for your loss
 **为什么这样写**：把 funeral etiquette 里那句套话原样搬到结尾，主语换回他自己；客套话在葬礼上是流程，在这里成了自嘲式的收束。
 **读者视角提示**：本章以他自己认领这句套话收束；而他正哭得连眼镜都起雾：His glasses are fogging up.
-
-## 本章词汇
 
 ## 本章词汇
 

@@ -34,7 +34,7 @@ modified: "2026-09-30"
 **中文理解**：她刚刚才想起来：外祖母的手失去了灵活性，刷牙时得用橡皮筋把牙刷绑在手上。
 **关键词**：lost the dexterity in her hands, an elastic band to keep her toothbrush attached to her hand
 **为什么这样写**：先说「刚刚才想起」，把记忆的时间点摆到读者眼前；橡皮筋这个道具越小越具体，恐惧因此不靠形容词而靠实物。
-**读者视角提示**：紧接的下一句是本章唯一一次直接的情绪表态：I’m not keen on that happening to me.
+**读者视角提示**：紧接的下一句是她难得直接写出来的情绪表态：I’m not keen on that happening to me.
 
 > **原句 4:** "She sounded like my auntie Pat, who was a lifelong smoker, although the ‘ciggies’ didn’t kill her. She died of kidney disease caused by the large doses of phenacetin in the ‘Bex Powders’ she took every day for her headaches."
 
@@ -63,8 +63,6 @@ modified: "2026-09-30"
 **关键词**：But I guess, already knew that
 **为什么这样写**：一句话把读者从旁观者拉成同谋，前面六十多段铺垫因此不再是对往事的记录，而像是一次提醒。
 **读者视角提示**：本章在请读者自行判断的姿势上结束；那天剩下的时间她是这样度过的：That would have been at least four hours, which is a long time to sit without moving, without thinking a single thought. I didn’t eat breakfast. Or morning tea. Or lunch. I did not have a glass of water or even a cup of tea.
-
-## 本章词汇
 
 ## 本章词汇
 

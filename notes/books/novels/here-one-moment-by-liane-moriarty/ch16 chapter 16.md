@@ -11,7 +11,7 @@ modified: "2026-09-30"
 - **叙事视角**：第三人称限知，紧贴 Allegra；现在时。
 - **场景与时间**：ch12 停在事故发生前的那一格；中间隔了几段插叙之后，这一格在客舱里落地。
 - **人物弧线**：从训练有素的完美应对（救生筏、假闪电、全套流程）到事故中的失控（背痛、眼泪），再回到专业台词——人物的变化不在能力，在代价。
-- **叙事手法**：把培训清单与事故清单并列对读；老妇的行进线用两组比喻收束（分发的点心、造山的动作）。
+- **叙事手法**：把培训清单与事故清单并列对读；老妇的行进线只用一个比喻收束——像乘务员一路发点心那样稳当地往前走。
 
 ## 精读
 
@@ -27,7 +27,7 @@ modified: "2026-09-30"
 **中文理解**：训练时她反复喊着「Brace」，想象办公楼坠向地面；在游泳池里架救生筏，让洒水系统当暴雨、假闪电在头顶闪。
 **关键词**：Brace, Brace, Brace, a life raft in a swimming pool, fake lightning flashed overhead
 **为什么这样写**：把真的应急程序放进假场景里（泳池、洒水、假闪电），专业动作与游戏布景并置，写出培训日的荒谬感；而 Brace 的三次重复像是当时真的喊出了声。
-**读者视角提示**：这段里唯一提到的人名是 Anders——他是被她拖着演受伤乘客的同事，本章只出现这一次。
+**读者视角提示**：这段里出现过的人名是 Anders——他在演练里扮演被拖行的受伤乘客，本章对他只有这一个称呼。
 
 > **原句 3:** "She can resuscitate, placate and charm. She is word perfect on every drill, every procedure. She is ready and willing to save her passengers’ lives: even the whiny, grabby ones. She is not, however, prepared for a small child to projectile-vomit on her like she’s channelling the kid in The Exorcist."
 
@@ -41,7 +41,7 @@ modified: "2026-09-30"
 **中文理解**：她一弯腰，背里的构造板块就跟着移动。
 **关键词**：bends forward, tectonic plates shift in her back
 **为什么这样写**：把一次弯腰放大成地质活动，疼痛被写成缓慢而不可逆的地壳运动，人物的痛感因此有了尺度。
-**读者视角提示**：本章前面她提过自己的下背不对劲，这里的地质比喻接住了那处伏笔。
+**读者视角提示**：ch12 里她说过自己的下背不对劲，这里把同一个部位放大成地质活动，那处伏笔在此接住。
 
 > **原句 5:** "It’s my birthday, she thinks pathetically as her eyes fill with tears of pain and she attempts to smile at the glassy-eyed little girl now slumped back in her seat, with a relieved, stunned expression on her face and her thumb in her mouth."
 
@@ -56,8 +56,6 @@ modified: "2026-09-30"
 **关键词**：Please don’t worry, It happens, decision to remain childless is now set in stone
 **为什么这样写**：台词越是服务业的套话，后半句的人生决定越显得是被一场意外顶出来的；set in stone 把心理活动写成不可撤销的物理事实。
 **读者视角提示**：本章结尾，那位老妇还在按自己的节奏往机舱后面走：The lady progresses down the plane as steadily and efficiently as a conscientious crew member distributing snacks.——她的路线没有被这一章打断。
-
-## 本章词汇
 
 ## 本章词汇
 
