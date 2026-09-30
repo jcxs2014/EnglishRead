@@ -52,7 +52,7 @@ modified: "2026-09-30"
 - **中文理解**：「你想不想回我公寓去一趟？」他问。
 - **句子结构**：`Would you like to …?` 是**疑问句形式的建议句**（以 would like 引导，把提议包装成问句，比 `Do you want to…?` 更客气）；`to come back to` 里 `back` 与 `to my apartment` 连用表示「回到某处」；`he asked` 是**逗号引出说话人**（不用冒号），说话内容在前面已用引号标出。
 - **关键词**：Would you like to / come back to my apartment / he asked
-- **为什么这样写**：这是 Dmitri 全章第一次**主动提议**，用的却是最轻的包装：`Would you like to…?` 让拒绝变得很容易，从而把主动权交给对方——这与他前面那句 `‘Could you fetch another bottle of wine from your bar?’` 是同一套策略：把索求说成给对方一个选项。她上一段的回答也验证了这套有效：`I’ll pick you up after your shift`（她主动去接他下班）与 `Yes, of course, I’ll call on her tomorrow` 都是她抢在他前面应承下来的。
+- **为什么这样写**：这是 Dmitri 全章第一次**主动提议**，用的却是最轻的包装：`Would you like to…?` 让拒绝变得很容易，从而把主动权交给对方——这与他前面那句 `‘Could you fetch another bottle of wine from your bar?’` 是同一套策略：把索求说成给对方一个选项。她上一段的回答也验证了这套有效：`I’ll pick you up after your shift`（他说要接她下班）与 `Yes, of course, I’ll call on her tomorrow` 都是她抢在他前面应承下来的。
 - **读者视角提示**：`would like to` 比 `Do you want to…?` 客气，否定时不能缩成 `wouldn’t like to`（缩了就不客气了）；`come back to` 里 `back` 指「回到说话人自己的地方」；`he asked` 用逗号而不是冒号，是因为引语本身已是完整句子。
 
 > **原句 6:** "‘He didn’t ask,’ she said in a small voice, and Dmitri felt compassion for her."

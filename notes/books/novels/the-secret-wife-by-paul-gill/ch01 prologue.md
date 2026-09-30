@@ -37,9 +37,9 @@ modified: "2026-09-30"
 
 - **中文理解**：「你已到达目的地」那个女声说道，可 Kitty 眼前只有路两旁密密的森林。她又往前开了一段，可那个声音在催她「掉头」。
 - **句子结构**：`‘You have reached your destination’ she said` 是**间接引语不直接引、只用逗号引出说话人**（无逗号、无冒号）的一种紧凑变体；后半句 `but all Kitty could see was ...` 是省略结构（could see 后省略了 `that`）；`the voice urged her to ‘Turn around’` 中 `Turn around` 用直接引号嵌在间接引语里。
-- **关键词**：voice-lady / destination / dense forest
+- **关键词**：You have reached your destination / dense forest / Turn around
 - **表达方式**：导航说「到了」，现实说「没到」——两者用**同一句话的主语切换**呈现：`all Kitty could see was dense forest`。作者不给判断句（导航错了），只把两个系统的话并排放着。
-- **为什么这样写**：这是全书解谜结构的一次微型预演。技术系统（导航）给出了明确的「答案」但答案是错的；真正正确的坐标在委托人（公证文件附的地图）手里。二十九小时后 Kitty 自己也犯过同样的错（Voice-Lady 也带她找过湖边木屋）。**先让一个权威系统失灵一次，读者之后才会信任作者给出的线索。**
+- **为什么这样写**：这是全书解谜结构的一次微型预演。技术系统（导航）给出了明确的「答案」但答案是错的；真正正确的坐标在木屋所有权文件随附的那张地图手里（`the map that had been sent with the cabin’s ownership documents`）——**同一位导航员，前面刚把她带到了密林里**。**先让一个权威系统失灵一次，读者之后才会信任作者给出的线索。**
 - **读者视角提示**：`dense forest lining the road on either side` 里 `lining` 用了及物动词的「沿……成排」义，中文里没有直接对应说法；读到时容易误解成「道路两旁有森林的边界」，其实是「森林在路两边排成两列」。
 
 > **原句 4:** "It was thirty years since anyone had lived there and Kitty was prepared for the cabin to be reduced to a pile of rubble. Instead it was as if the forest had created a cocoon to protect it from the elements."

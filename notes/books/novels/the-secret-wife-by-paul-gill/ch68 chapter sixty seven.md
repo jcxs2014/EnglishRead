@@ -7,11 +7,11 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：2016 年 11 月的伦敦，凯蒂从纽约的兰登书屋那边收到邮件，去沃克斯霍尔桥路的办公室读到了曾外祖父与塔季扬娜**合写**的手稿和 Knopf 创办人的亲笔便函，回家一路读到深夜，把这段几十年的秘密恋情一路读成对自己与汤姆关系的提醒；等她合上书，她想的是 `She wanted to be with him when they were both in their seventies.`
+- **一句话概括**：2016 年 11 月的伦敦，凯蒂从纽约的兰登书屋那边收到邮件，去沃克斯霍尔桥路的办公室读到了外曾祖父与塔季扬娜**合写**的手稿和 Knopf 创办人的亲笔便函，回家一路读到深夜，把这段几十年的秘密恋情一路读成对自己与汤姆关系的提醒；等她合上书，她想的是 `She wanted to be with him when they were both in their seventies.`
 - **情感弧线位置**：晚线（Kitty）的**收束段**。它在体裁上是本章的高潮（真相落地：手稿是两人合写），在情感上却不是，而是**从别人的故事里认出自己**：`Honest communication was the only way through an emotional impasse; Kitty had learned that over the summer.` 全章的曲线是「发现 → 震动 → 反思 → 落到汤姆身上」。
-- **Tropes 兑现/反转**：兑现「隐藏身世」与「寻根得证」两条老线索，但作者把**验证方式推给科学**（`the only way of proving it categorically will be if we have DNA tests carried out on a skeleton that I found a few weeks ago at Dmitri’s old cabin in New York State`）——情感上的确信（`She hoped so.`）和证据上的未决被刻意分开。反转在合著者身上：她本以为那只是曾外祖父一个人的作品，问出的答案是 `‘They both did.’`，一句四个字把一个孤独的隐居者变成一个共同作者。
+- **Tropes 兑现/反转**：兑现「隐藏身世」与「寻根得证」两条老线索，但作者把**验证方式推给科学**（`the only way of proving it categorically will be if we have DNA tests carried out on a skeleton that I found a few weeks ago at Dmitri’s old cabin in New York State`）——情感上的确信（`She hoped so.`）和证据上的未决被刻意分开。反转在合著者身上：她本以为那只是外曾祖父一个人的作品，问出的答案是 `‘They both did.’`，一句四个字把一个孤独的隐居者变成一个共同作者。
 - **人物弧线**：凯蒂在本章完成从「调查者」到「继承者」的转身。见面时她还在猜对方想谈什么（`Kitty wondered if they wanted to talk about reissuing Dmitri’s novels. She hoped so.`），读到深夜后她已经在规划身后事——`she would rebury Tatiana’s body in Dmitri’s grave in the Cedar River cemetery near Lake Akanabee`。中间那段对祖母玛尔塔的推想是本章的真正内核：`Perhaps she avoided confrontation, like her granddaughter, and the result was that the wound was never able to heal.`，她把一桩祖辈的旧账认领成自己的功课。
-- **叙事手法**：第三人称限知（凯蒂视角）；时间戳地点行 `London, November 2016` 定锚；**双层文本嵌套**是本章的骨架——现实里读手稿，手稿里又是 1918 年的事，作者只用两句带过（`The writing was elegant and spare.` 与后面连串的 `read about …`），让嵌套层始终保持**被概述而非被展开**的状态；结尾用**视角合流**收束：从曾外祖父的七十岁移到 `She wanted to be with him when they were both in their seventies.`，把历史直接接到读者眼前的感情上。
+- **叙事手法**：第三人称限知（凯蒂视角）；时间戳地点行 `London, November 2016` 定锚；**双层文本嵌套**是本章的骨架——现实里读手稿，手稿里又是 1918 年的事，作者只用两句带过（`The writing was elegant and spare.` 与后面连串的 `read about …`），让嵌套层始终保持**被概述而非被展开**的状态；结尾用**视角合流**收束：从外曾祖父的七十岁移到 `She wanted to be with him when they were both in their seventies.`，把历史直接接到读者眼前的感情上。
 
 ## 精读
 
@@ -25,11 +25,11 @@ modified: "2026-09-30"
 
 > **原句 2:** "‘I read it at the weekend,’ Olivia told her. ‘It’s the story of your great-grandfather and his love affair with the Russian Grand Duchess Tatiana Romanova. It’s quite astounding.’"
 
-- **中文理解**：「我周末读过了，」奥利维亚告诉她。「写的是你曾外祖父的故事，还有他与俄国大公妃塔季扬娜·罗曼诺娃的那段恋情。真是惊人。」
+- **中文理解**：「我周末读过了，」奥利维亚告诉她。「写的是你外曾祖父的故事，还有他与俄国大公妃塔季扬娜·罗曼诺娃的那段恋情。真是惊人。」
 - **句子结构**：`I read it at the weekend` 是**一般过去时**（不加时间状语也不加 `have read`，是口语里常见的「我（那天）读了」），`at the weekend` 是**介词短语作时间状语**（英式用法，周末的介词常用 `at`）。`Olivia told her` 是**插入的叙述动词**（`told` 后接间接宾语 `her`，逗号引出直接引语）。`It’s the story of A and his love affair with B` 用 **`It is the story of …`** 的表语结构（`A` 与 `his love affair with B` 并列作 `of` 的宾语，用 `and` 连接）。`It’s quite astounding` 用**同位重复**（主语 `It` 重复前句的 `It`）。
 - **关键词**：I read it at the weekend / Olivia told her / his love affair with / It’s quite astounding
-- **为什么这样写**：这一轮是**全章题眼的位置**，而作者把它拆成两句短话，第二句才落刀。第一句 `I read it at the weekend` 把「我读过了」这件平常事说完，故意不评价；第二句先给结构（这是你曾外祖父的故事加一段 `love affair with`），最后才给判断 `It’s quite astounding.`。这个顺序意味着**凯蒂先知道了内容，再知道对方的反应**——震撼是她必须自己接收的，不是被转述的。`the Russian Grand Duchess Tatiana Romanova` 这一串头衔与全名放在句末，把 `love affair` 的另一端从「一个曾外祖父」升格成一个有正式身份的人：她是在跟皇室谈恋爱。
-- **读者视角提示**：`at the weekend` 是**英式英语**，美式说 `on the weekend`；此处作状语的是介词短语，`the` 不能省。`love affair` 指**婚外的浪漫关系**，不带褒贬，本书里它是中性甚至略带旧派色彩的词。`great-grandfather` 是**曾外祖父／外曾祖父**（父系）或**曾祖父**（母系）的统称，英美都用；`great-` 表明隔了两代（grandfather 隔一代，great-grandfather 隔两代）。`astounding` 是**令人震惊的**（多指好得超出预期），语气比 `shocking` 正面。
+- **为什么这样写**：这一轮是**全章题眼的位置**，而作者把它拆成两句短话，第二句才落刀。第一句 `I read it at the weekend` 把「我读过了」这件平常事说完，故意不评价；第二句先给结构（这是你外曾祖父的故事加一段 `love affair with`），最后才给判断 `It’s quite astounding.`。这个顺序意味着**凯蒂先知道了内容，再知道对方的反应**——震撼是她必须自己接收的，不是被转述的。`the Russian Grand Duchess Tatiana Romanova` 这一串头衔与全名放在句末，把 `love affair` 的另一端从「一个外曾祖父」升格成一个有正式身份的人：她是在跟皇室谈恋爱。
+- **读者视角提示**：`at the weekend` 是**英式英语**，美式说 `on the weekend`；此处作状语的是介词短语，`the` 不能省。`love affair` 指**婚外的浪漫关系**，不带褒贬，本书里它是中性甚至略带旧派色彩的词。`great-grandfather` 是**外曾祖父**（父系）或**曾祖父**（母系）的统称，英美都用；`great-` 表明隔了两代（grandfather 隔一代，great-grandfather 隔两代）。`astounding` 是**令人震惊的**（多指好得超出预期），语气比 `shocking` 正面。
 
 > **原句 3:** "Kitty showed her Ortipo’s dog tag, with the jewels set in a pretty golden oval. ‘This dates from the very beginning of their relationship,’ she said. ‘But the only way of proving it categorically will be if we have DNA tests carried out on a skeleton that I found a few weeks ago at Dmitri’s old cabin in New York State.’"
 
@@ -73,7 +73,7 @@ modified: "2026-09-30"
 | non-fiction | 非虚构（与 fiction 小说相对，指纪实类） | ‘To the editorial director of non-fiction in 2020: This is dynamite! |
 | bestseller | 畅销书（best + seller 复合词） | Believe me when I tell you that you have a bestseller on your hands. |
 | sensitively | 谨慎地、有分寸地（sensitive 形容词 + -ly 副词） | ‘Publish it sensitively,’ he advised. |
-| great-grandfather | 曾外祖父（great- 加祖父那一代的辈分前缀） | ‘This is an unpublished manuscript of your great-grandfather’s that we found in the archives,’ she said, indicating a stack of pages covered in an old-fashioned typewriter font. |
+| great-grandfather | 外曾祖父（great- 加祖父那一代的辈分前缀） | ‘This is an unpublished manuscript of your great-grandfather’s that we found in the archives,’ she said, indicating a stack of pages covered in an old-fashioned typewriter font. |
 | confrontation | 正面对抗（confront 动词的名词化） | Perhaps she avoided confrontation, like her granddaughter, and the result was that the wound was never able to heal. |
 | communication | 沟通、交谈（此处指把话说开这种沟通方式） | Honest communication was the only way through an emotional impasse; Kitty had learned that over the summer. |
 | infidelity | 不忠、出轨（in + fidelity 忠诚，前缀 in- 否定） | She had also learned that infidelity need not be the end of a relationship – some things are more important. |
@@ -112,7 +112,7 @@ modified: "2026-09-30"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | grudge | 积怨、怨恨（hold a grudge lasting thirty years） | She was surprised that Marta, the sweet grandmother she remembered, could have held a grudge lasting thirty years. |
-| love affair | 恋情（此处指曾外祖父与塔季扬娜的感情） | ‘It’s the story of your great-grandfather and his love affair with the Russian Grand Duchess Tatiana Romanova. |
+| love affair | 恋情（此处指外曾祖父与塔季扬娜的感情） | ‘It’s the story of your great-grandfather and his love affair with the Russian Grand Duchess Tatiana Romanova. |
 | copyright | 版权 | ‘It’s your copyright so we will need to contract you in order to publish it. |
 | dog tag | 军籍牌（脖子上的身份牌，狗牌） | Kitty showed her Ortipo’s dog tag, with the jewels set in a pretty golden oval. |
 | granddaughter | 孙女（grand + daughter） | Perhaps she avoided confrontation, like her granddaughter, and the result was that the wound was never able to heal. |

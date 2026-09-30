@@ -78,7 +78,7 @@ modified: "2026-09-30"
 | symmetrical | 对称的（此处是 Tom 拿她母亲的挑剔标准开玩笑的原话） | ‘Now, Elizabeth,’ he’d smile, ‘are you sure that flower arrangement is perfectly symmetrical? |
 | arrangement | 插花布置（此处是 Tom 笑她吹毛求疵的那件事） | ‘Now, Elizabeth,’ he’d smile, ‘are you sure that flower arrangement is perfectly symmetrical? |
 | depression | 抑郁、消沉（此处指她读完汤姆的信后整个人陷进去的状态） | In the days after reading Tom’s letter, Kitty tipped into a depression. |
-| great-grandfather | 曾外祖父／外曾祖父（此处指 Dmitri Malama 是她的曾祖父辈） | How strange that both she and her great-grandfather had the same profession; perhaps it was in their genes. |
+| great-grandfather | 外曾祖父（此处指 Dmitri Malama 是她的曾祖父辈） | How strange that both she and her great-grandfather had the same profession; perhaps it was in their genes. |
 | contemplate | 正视、细想（此处是「真相太可怕，不忍细想」） | Kitty imagined it was because the truth – that all the royal children were slaughtered – was too horrific to contemplate. |
 | sublimating | 升华、把…转化为（此处指把痛苦记忆转成另一个身份的说法） | He suggested that maybe something terrible had happened in her previous life, and she was sublimating the memory by assuming a new identity. |
 

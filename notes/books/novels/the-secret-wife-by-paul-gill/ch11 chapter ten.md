@@ -7,7 +7,7 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：阿卡纳比湖线。到达次日（2016 年 7 月 20 日）Kitty 开车进 Indian Lake 镇采购工具，把那枚祖传吊坠拿给珠宝商验看，得知它是法贝热作品、工匠是 1903 至 1918 年任职的 Henrik Wigström，随后在路边咖啡店上网搜出曾外祖父的笔名与书单并订了一本；她在邮差箱子前犹豫要不要打开，最后选择 `Let him wait`，并且在结尾承认自己才一晚就已经爱上阿卡纳比湖。
+- **一句话概括**：阿卡纳比湖线。到达次日（2016 年 7 月 20 日）Kitty 开车进 Indian Lake 镇采购工具，把那枚祖传吊坠拿给珠宝商验看，得知它是法贝热作品、工匠是 1903 至 1918 年任职的 Henrik Wigström，随后在路边咖啡店上网搜出外曾祖父的笔名与书单并订了一本；她在邮差箱子前犹豫要不要打开，最后选择 `Let him wait`，并且在结尾承认自己才一晚就已经爱上阿卡纳比湖。
 - **情感弧线位置**：2016 线里**独立成块的一次回暖**。她带着离婚的烂摊子来这里，本章仍不肯点开邮箱（`It was tempting to click on it and see what mails came in`），但全章的落点是向外的：采购、验货、打听、上网搜索。结尾 `The sense of being part of this awe-inspiring landscape brought a kind of clarity in the midst of her emotional turmoil` 与 `After one night there, she was already falling in love with Lake Akanabee` 两句，把「逃开」写成「开始复原」，而不是「逃开成功」。
 - **Tropes 兑现/反转**：本章兑现「继承遗产／寻根」这一套路，但把它**接在婚姻危机之后**，而且不按常理推进。常规写法是先找到亲人或故居，本章她先摸到的却是一块石头——一枚 `rose gold set with a sapphire, a ruby and imperial topaz` 的吊坠；真正的线索要靠珠宝商一句 `it’s Henrik Wigström, who was their head workmaster from 1903 through to 1918` 才第一次把她的家族和俄国历史接上。另一处反转是**寻根者本人的专业性**：她当场问 `Do you have a sliding bevel?`，用结果把周围人对她的印象改写了一遍。
 - **人物弧线**：Kitty 本章的弧线是**从「逃离者」变成「在场者」**。她开篇只是 `crawled along looking for a hardware store`，结尾已经被风景围住（`dense green forest, sparkly blue water and hazy blue sky for as far as the eye could see`）。中间靠一件实物完成转折：吊坠贴在 `her breastbone` 上，同时催生 `curiosity about her great-grandfather`——她第一次主动去查一个陌生人的来历，而不是被动地接受别人给的身份。
@@ -52,16 +52,16 @@ modified: "2026-09-30"
 - **中文理解**：「那些是极不寻常的珠宝作品，是皇室每年复活节互相赠送的，里面藏着让人意外的惊喜。」
 - **句子结构**：`They were extraordinary jewelled creations` 是**主系表句**，表语由形容词加名词构成；`that the royal family gave each other for Easter` 是**限定性定语从句**修饰 creations，从句里 `give` 用过去式、宾语 `each other` 放在动词之后；句末 `with hidden surprises inside` 是**介词短语作伴随状语**，说明「里面」这一层。
 - **关键词**：extraordinary jewelled creations / gave each other for Easter / hidden surprises inside
-- **为什么这样写**：珠宝商在介绍法贝热蛋（Fabergé eggs）时，作者没有让他用专业术语，而是让**一件礼物承担一整套背景**：`extraordinary` 先给评价，`given each other` 再给关系（互赠，不是售卖），`hidden surprises` 最后给那种「打开才知道」的童心。三个成分由浅入深，恰好对应 Kitty 从「这是值钱的珠宝」到「这是一段被人珍视的关系」的认知转移。这句也是全章**唯一一处让外部世界说话而 Kitty 不接话**的地方，读者只能从对方的叙述里拼出这东西有多重。
+- **为什么这样写**：珠宝商在介绍法贝热蛋（Fabergé eggs）时，作者没有让他用专业术语，而是让**一件礼物承担一整套背景**：`extraordinary` 先给评价，`given each other` 再给关系（互赠，不是售卖），`hidden surprises` 最后给那种「打开才知道」的童心。三个成分由浅入深，恰好对应 Kitty 从「这是值钱的珠宝」到「这是一段被人珍视的关系」的认知转移。这句让外部世界把整段背景一次说完（紧接着 Kitty 才惊呼 `‘Oh my God!’`），读者是从对方的叙述里拼出这东西有多重的。
 - **读者视角提示**：`give sb sth` 与 `give sth to sb` 都可以，此处 `gave each other` 是**双宾语倒装的中间形式**（each other 与 the creations 互为宾语）。`for Easter` 是**介词短语作时间/目的状语**。`with hidden surprises inside` 中 `inside` 是副词，补充说明 `surprises` 的位置。
 
 > **原句 6:** "As she drove back towards Lake Akanabee, with the pendant resting on her breastbone, Kitty was overcome with curiosity about her great-grandfather."
 
-- **中文理解**：当她开车回到阿卡纳比湖那边时，吊坠正贴在她的胸骨上，菲舍尔被一种关于她曾外祖父的好奇淹没了。
+- **中文理解**：当她开车回到阿卡纳比湖那边时，吊坠正贴在她的胸骨上，菲舍尔被一种关于她外曾祖父的好奇淹没了。
 - **句子结构**：`As she drove back towards Lake Akanabee` 是**时间状语从句**（as 引导）；`with the pendant resting on her breastbone` 是**with 复合结构**作伴随状语，其中 `the pendant` 是逻辑主语、`resting` 是现在分词；主句 `Kitty was overcome with curiosity about her great-grandfather` 是**主系表结构**（`was overcome` 作表语），`about her great-grandfather` 是**介词短语**说明好奇的对象。
 - **关键词**：drove back towards / with the pendant resting on her breastbone / was overcome with curiosity about
 - **为什么这样写**：作者把「好奇」写成一个**被动的、几乎生理性的状态**：`was overcome with`（被……压倒），而不是 `she was curious about`。同时用 `with the pendant resting on her breastbone` 这个小画面替代任何心理描写——吊坠贴在胸口，**它已经在她身上了**，读者因此读出好奇的来源是被物证激发的，而不是凭空想起。这次好奇里还有一层她没说的话：上一段里她已经假设过 `Her grandfather must have been wealthy`，而作者立刻让这个念头长成更大的问题——为什么她从没听说过这个人。
-- **读者视角提示**：`As` 在此表示「当……的时候」，也可换成 `while`。`with + 名词 + doing` 是绝对结构，`resting` 的逻辑主语是 `the pendant` 而不是 Kitty。`be overcome with` 意为「被……充满／压倒」，`with` 后接原因或情绪名词。`great-grandfather` 是**曾外祖父／外曾祖父**，`great-` 表示往上数几代。
+- **读者视角提示**：`As` 在此表示「当……的时候」，也可换成 `while`。`with + 名词 + doing` 是绝对结构，`resting` 的逻辑主语是 `the pendant` 而不是 Kitty。`be overcome with` 意为「被……充满／压倒」，`with` 后接原因或情绪名词。`great-grandfather` 是**外曾祖父**，`great-` 表示往上数几代。
 
 ## 本章词汇
 

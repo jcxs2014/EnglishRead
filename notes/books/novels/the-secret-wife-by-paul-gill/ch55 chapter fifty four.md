@@ -36,7 +36,7 @@ modified: "2026-09-30"
 - **中文理解**：「我带了个东西，好让你确信是我，」她说着，在口袋里摸索了一阵，然后掏出一枚镶珠宝的狗牌——那是她当年请 Fabergé 为 Ortipo 定制的。
 - **句子结构**：`‘I brought something so you would be sure it is me,’` 里 `so you would be sure it is me` 是**目的状语从句**，`would be sure` 是虚拟语气（表示「好让你能确定」这个目的的假设）；`she said, and fumbled … before producing …` 是两个**过去式并列谓语**，`before producing` 里 `producing` 是**动名词**作介词宾语，`before` 在此是「在……之前」而非「因为」；`she’d commissioned Fabergé to make for Ortipo` 是**过去完成时 + 宾语补足语不定式**（commission somebody to do something），注意 `commission … to do` 的「委托」义，以及 Fabergé 后**省略了 to make 的施动者**。
 - **关键词**：fumbled in her pocket / producing the jewelled dog tag / commissioned Fabergé to make
-- **为什么这样写**：重逢场景最忌靠长相确认——三十年后谁都可能像，作者因此**让她带一件物证**。这枚狗牌不是随便的纪念品：它属于 Ortipo（那只 1918 年夏天她在营地里喂过的流浪狗），而狗牌是**只有她和他知道的东西**，因此它的证据力远高于任何长相描述。`fumbled in her pocket` 这个细节承担了全部情感重量：她**事先准备好**了它，但她拿出来的动作是笨拙的、不熟练的，所以那个「她带着凭证来认领」的从容与「她手忙脚乱地翻口袋」形成反差。这就是作者写克制的激情的方式。
+- **为什么这样写**：重逢场景最忌靠长相确认——三十年后谁都可能像，作者因此**让她带一件物证**。这枚狗牌不是随便的纪念品：它属于 Ortipo（1914 年 Dmitri 送给塔季扬娜的那只法国斗牛犬，她当时在彼得堡的军医院做护士），而狗牌是**只有她和他知道的东西**，因此它的证据力远高于任何长相描述。`fumbled in her pocket` 这个细节承担了全部情感重量：她**事先准备好**了它，但她拿出来的动作是笨拙的、不熟练的，所以那个「她带着凭证来认领」的从容与「她手忙脚乱地翻口袋」形成反差。这就是作者写克制的激情的方式。
 - **读者视角提示**：`commission` 在这里是「委托制作」，不是「委派任职」；`Fabergé` 是专有名词，前面的 `to make for Ortipo` 是**不定式作宾语补足语**，省略了宾语（Fabergé 替她做了那枚狗牌）。`producing` 是动名词不是分词（不能作定语修饰 the jewelled dog tag）。`fumble` 表示**笨拙地摸索**，常带一点紧张，与 `produce`（端出、拿出）的从容形成对照。
 
 > **原句 4:** "‘I only discovered you were a writer just before the war. I saw a newspaper article, with a grainy photograph alongside, and couldn’t believe my eyes. I had been told you were killed at Tsaritsyn in 1919 so my shock then was similar to yours tonight. I rushed out to buy your books straight away and when I read Interminable Love …’"

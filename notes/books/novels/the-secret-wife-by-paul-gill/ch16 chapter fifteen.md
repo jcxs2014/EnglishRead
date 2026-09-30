@@ -7,10 +7,10 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：2016 年 7 月底，Kitty 把整栋木屋当作一桩工程来做：锯掉压路的枝、拆掉台阶重做、清空室内的蛛网骸骨、每天收工游泳；Jeff 送来曾外祖父的第一本小说，末章写到 Mikhail 冲向西伯利亚集体农场里正开着一台新式拖拉机干活的 Valerina，她读到这里哭到失控——可她自己也说不清那眼泪是为了小说还是想到了 Tom；她随后查移民记录拿到真名 `Dmitri Yakovlevich Malama`；开船靠岸的钓鱼人 Bob 一眼认出「你是 Dmitri 的亲戚」，她才第一次从活人嘴里听到这个名字；收工时她回到刷了一半的清漆前，发现已刷的那一段落满死苍蝇。
-- **情感弧线位置**：**向内塌陷一次，再被修复**。前半章的节奏全是向外的（干活、读书、查资料、认人），而崩溃点恰恰发生在她读曾外祖父的书时：`She hadn’t even cried like this when her parents died`——作者用一个更重的丧失来量这次的眼泪。哭完之后她立刻自问自答（`What was this about? And as soon as she asked the question, she knew: it was because she missed Tom`），这一问一答就是她本章的转折；结尾的苍蝇把情绪重新收回到「做不完的活」。
-- **Tropes 兑现/反转**：本章兑现「用祖辈遗物启动自我疗愈」这一套路，但**疗愈没有发生**。通常这种情节会在读到大作时得到答案或使命感，本章她读到的却是一本以**主角之死**收尾的小说（`Modernity was often portrayed as evil in the novel`），而且那本小说写的是她曾外祖父自己的爱情。更冷的一层是：她哭完了才发现眼泪是给汤姆的，而不是给故事的——`it was because she missed Tom`。作者把「疗愈」的预期彻底拆掉，让一件本该指向过去的东西掉头指向她正在逃离的婚姻。
-- **人物弧线**：Kitty 本章的弧线是**从「修复房子」到「被迫修自己」**。她开头是纯粹的体力劳动者（`She painstakingly rebuilt the steps`），中段忽然被拉进一段二十岁时的记忆（`Mine’s half a bitter`），结尾又被邻居的一句话逼出一个新的事实：她的曾外祖父晚年**孤独地住在这里**（`I never saw a woman. Just him padding around on his own`）。一个人把房子修好、把身世查清、把邻居认识下来，而她自己的婚姻问题被整章**压着没解决**——这个悬置本身就是人物弧线。
+- **一句话概括**：2016 年 7 月底，Kitty 把整栋木屋当作一桩工程来做：锯掉压路的枝、拆掉台阶重做、清空室内的蛛网骸骨、每天收工游泳；Jeff 送来外曾祖父的第一本小说，末章写到 Mikhail 冲向西伯利亚集体农场里正开着一台新式拖拉机干活的 Valerina，她读到这里哭到失控——可她自己也说不清那眼泪是为了小说还是想到了 Tom；她随后查移民记录拿到真名 `Dmitri Yakovlevich Malama`；开船靠岸的钓鱼人 Bob 一眼认出「你是 Dmitri 的亲戚」，她才第一次从活人嘴里听到这个名字；收工时她回到刷了一半的清漆前，发现已刷的那一段落满死苍蝇。
+- **情感弧线位置**：**向内塌陷一次，再被修复**。前半章的节奏全是向外的（干活、读书、查资料、认人），而崩溃点恰恰发生在她读外曾祖父的书时：`She hadn’t even cried like this when her parents died`——作者用一个更重的丧失来量这次的眼泪。哭完之后她立刻自问自答（`What was this about? And as soon as she asked the question, she knew: it was because she missed Tom`），这一问一答就是她本章的转折；结尾的苍蝇把情绪重新收回到「做不完的活」。
+- **Tropes 兑现/反转**：本章兑现「用祖辈遗物启动自我疗愈」这一套路，但**疗愈没有发生**。通常这种情节会在读到大作时得到答案或使命感，本章她读到的却是一本以**主角之死**收尾的小说（`Modernity was often portrayed as evil in the novel`），而且那本小说写的是她外曾祖父自己的爱情。更冷的一层是：她哭完了才发现眼泪是给汤姆的，而不是给故事的——`it was because she missed Tom`。作者把「疗愈」的预期彻底拆掉，让一件本该指向过去的东西掉头指向她正在逃离的婚姻。
+- **人物弧线**：Kitty 本章的弧线是**从「修复房子」到「被迫修自己」**。她开头是纯粹的体力劳动者（`She painstakingly rebuilt the steps`），中段忽然被拉进一段二十岁时的记忆（`Mine’s half a bitter`），结尾又被邻居的一句话逼出一个新的事实：她的外曾祖父晚年**孤独地住在这里**（`I never saw a woman. Just him padding around on his own`）。一个人把房子修好、把身世查清、把邻居认识下来，而她自己的婚姻问题被整章**压着没解决**——这个悬置本身就是人物弧线。
 - **叙事手法**：第三人称限知（Kitty 视角）。本章做了两件特别的事：一是**长段的工作蒙太奇**（砍树—修屋顶—掏烟囱—重做台阶—刷漆），全部用并列动词与分号推进，让读者先感到「累」再进入情节；二是**嵌套引文**，小说里的情节被摘要成第三人称，中间忽然整段切回 Kitty 二十岁时的第一人称回忆（`she was stalking him`，以及 `Mine’s half a bitter`），再切回第三人称。这种切换在小说的小说里最考验读者，而作者用 `she stopped abruptly` 这种短促动作做转轴。
 
 ## 精读
@@ -61,7 +61,7 @@ modified: "2026-09-30"
 - **句子结构**：`We said hi when we bumped into each other at the store` 是**一般现在时**，`when we bumped into each other` 是**时间状语从句**（`bumped` 用过去时）；`but he never invited me here and I never invited him to mine` 由 `but` 并列，第二个分句省略了 `never`，`to mine` 中 `mine` 是**名词性物主代词**（= to my place）；`We lived our own lives` 是**主谓宾**结构，`our own lives` 中 `own` 是**形容词**作定语。
 - **句子结构补充**：`bumped into each other` 中的 `into` 表示**接触、撞上**，所以是「偶然碰见」而非「打招呼」。
 - **关键词**：We said hi / bumped into each other at the store / he never invited me here and I never invited him to mine / We lived our own lives
-- **为什么这样写**：作者让一个邻居用最平淡的语气**否定掉**菲舍尔期待的那种「传承」：没有密友、没有团聚、没有临终托付，只有 `We lived our own lives`（各过各的）。这和曾外祖父那本写尽相思的小说形成直接矛盾——**作品里的爱和真实生活里的孤独**，正是这一章里最有落差的一处。而 `to mine` 里的 `mine` 是一个词就把「他的家」说完，英文在这里省得极漂亮，读者读到的是两次对称的关门动作。
+- **为什么这样写**：作者让一个邻居用最平淡的语气**否定掉**菲舍尔期待的那种「传承」：没有密友、没有团聚、没有临终托付，只有 `We lived our own lives`（各过各的）。这和外曾祖父那本写尽相思的小说形成直接矛盾——**作品里的爱和真实生活里的孤独**，正是这一章里最有落差的一处。而 `to mine` 里的 `mine` 是一个词就把「他的家」说完，英文在这里省得极漂亮，读者读到的是两次对称的关门动作。
 - **读者视角提示**：`bump into sb` 是**习语**，意为「偶遇某人」。`each other` 是**相互代词**，作 `bumped into` 的宾语，双方对称。`mine` 是**名词性物主代词**，可单独使用（= my place），`to mine` 即「到我家」。`our own lives` 中的 `own` 表**强调**「我们自己的」，暗示互不干涉。
 
 ## 本章词汇
@@ -134,4 +134,4 @@ modified: "2026-09-30"
 
 ## 一句话总结
 
-她把整栋木屋拆开重做了一遍，又从曾外祖父的第一本小说里读到一场被拖拉机压死的重逢——然后发现自己哭的不是那本书，是汤姆；而这个发现才是这一个月里她真正拆开的第一个东西。
+她把整栋木屋拆开重做了一遍，又从外曾祖父的第一本小说里读到一场被拖拉机压死的重逢——然后发现自己哭的不是那本书，是汤姆；而这个发现才是这一个月里她真正拆开的第一个东西。

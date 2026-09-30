@@ -7,20 +7,20 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：2016 年 9 月底，Kitty 菲舍尔经历那场夜半惊吓之后几天，正在木屋旁边种花，Jeff 开车带着祖父送来一个从伦敦寄到的包裹——里面除了她向清洁工 Marion 要的橄榄绿毛衣，还有汤姆的一封信和玛丽安的一张便条；祖父随口说出「上次来这儿是发现你曾外祖父遗体」以及他留下一儿一女却始终没被找到，Kitty 由此发现自己对家族几乎一无所知；黄昏她在栈桥上读完整封长信——汤姆在信里承认出轨四次、正在接受咨询、把自己归入中年危机，也承认她父母去世后她买下 Tottenham 那栋房子整天修缮却从不提这件事——读到最后她抱紧信纸像孩子一样哭起来，却说不清为什么哭。
-- **情感弧线位置**：2016 线的**下行段**。前一段是读完处决记述后的惊惧与自我否定，本段没有立刻反弹，而是先被两件小事**轻轻拽住**（包裹、曾外祖父的狗），再被汤姆那封信**重新打回底部**。弧线的关键不在事件而在**阅读**：她读信的全过程被写成「喝一口酒—读一段—再喝一口」的循环，而她流泪的原因被她自己否定了——`What am I crying for? she wondered, and had no answer`。
+- **一句话概括**：2016 年 9 月底，Kitty 菲舍尔经历那场夜半惊吓之后几天，正在木屋旁边种花，Jeff 开车带着祖父送来一个从伦敦寄到的包裹——里面除了她向清洁工 Marion 要的橄榄绿毛衣，还有汤姆的一封信和玛丽安的一张便条；祖父随口说出「上次来这儿是发现你外曾祖父遗体」以及他留下一儿一女却始终没被找到，Kitty 由此发现自己对家族几乎一无所知；黄昏她在栈桥上读完整封长信——汤姆在信里承认出轨四次、正在接受咨询、把自己归入中年危机，也承认她父母去世后她买下 Tottenham 那栋房子整天修缮却从不提这件事——读到最后她抱紧信纸像孩子一样哭起来，却说不清为什么哭。
+- **情感弧线位置**：2016 线的**下行段**。前一段是读完处决记述后的惊惧与自我否定，本段没有立刻反弹，而是先被两件小事**轻轻拽住**（包裹、外曾祖父的狗），再被汤姆那封信**重新打回底部**。弧线的关键不在事件而在**阅读**：她读信的全过程被写成「喝一口酒—读一段—再喝一口」的循环，而她流泪的原因被她自己否定了——`What am I crying for? she wondered, and had no answer`。
 - **Tropes 兑现/反转**：兑现「丈夫写信求和」这一婚姻线老套路，但作者**拆掉了它的赎罪功能**：汤姆的自我剖析越坦白，Kitty 读出的越是「他在为自己的问题整理一份会计报告」（原文直接拿他的职业打比方——`studying it as if for one of his accountancy exams`）。反转在两处：其一是**信息顺序的错位**——包裹先于信到达，Marion 的便条先替汤姆说了好话（`He’s a decent man.`），而 Kitty 的反应是 `People always thought Tom was decent.`，一句就把这种辩护顶了回去；其二是**她的崩溃没有对象**，哭完之后那处痛还在，位置没变。
-- **人物弧线**：本章里 Kitty 有两次开口，都被立刻堵住。第一次是那位老人问她曾外祖父是什么样的人，他只能答 `Well, we never got much beyond saying howdy and commenting on the weather.`——她对家族的认知停在「打过招呼、聊过天气」。第二次是她在信读完之后自问 `What am I crying for?`。两次她都提出问题，都没有答案。作者因此把她放在**知情的边缘**：她掌握了大量外部事实（谁死了、谁被处决、谁有儿女、谁写信来），却没有一条通向亲历的解释。
+- **人物弧线**：本章里 Kitty 有两次开口，都被立刻堵住。第一次是那位老人问她外曾祖父是什么样的人，他只能答 `Well, we never got much beyond saying howdy and commenting on the weather.`——她对家族的认知停在「打过招呼、聊过天气」。第二次是她在信读完之后自问 `What am I crying for?`。两次她都提出问题，都没有答案。作者因此把她放在**知情的边缘**：她掌握了大量外部事实（谁死了、谁被处决、谁有儿女、谁写信来），却没有一条通向亲历的解释。
 - **叙事手法**：第三人称限知（Kitty 视角）；时间戳地点行 `Lake Akanabee, New York State, end of September 2016` 定锚；结构上是**一条双轨并置**的线——外面是种花、拆包裹、煎酒（`a bottle of Chardonnay by her side`、`poured a second glass`），里面是那封信的正文，整段以**信件体直接引文**呈现，作者一句转述都不加；信件插入 Kitty 的反应只有两次（`Kitty’s eyes widened with surprise.` 和 `Kitty shivered, although it was a balmy evening,`），都是**身体动作**；结尾用一个**不完整**的动作收束——她把信抱在胸前哭，上床后那处痛还在。
 
 ## 精读
 
 > **原句 1:** "‘Last time I was out here must have been when we found your great-granddaddy’s body,’ the old man commented."
 
-- **中文理解**：「我上次来这儿，应该就是发现你曾外祖父遗体那会儿。」老人说道。
+- **中文理解**：「我上次来这儿，应该就是发现你外曾祖父遗体那会儿。」老人说道。
 - **句子结构**：`‘Last time I was out here must have been when we found your great-granddaddy’s body’` 中 `must have been` 是**情态动词 + 过去完成时**表推测（想必是那会儿），`when we found …` 是**时间状语从句**，`found` 用**过去式**（find 的三单变化，同形）；`the old man commented` 是**主谓宾**（`commented` 是不及物动词，后不接宾语，说明引语是间接引语式的转述）；全句把**引语放在句首**、说话标签放句尾，这在英文里比 `he said, ‘…’` 更显得**随口而出**。
 - **关键词**：must have been / when we found / commented
-- **为什么这样写**：这句在结构上就是「一提而已」——`must have been` 把它说成**不确定的猜测**，而不是陈述；说话标签用 `commented` 而不是 `said`，更轻。作者特意让这句**轻描淡写**地过去，是因为它马上要引出 Kitty 的反应：`Kitty was startled.` 一句独段，无解释。从「种花」到「曾外祖父冻死在自家院里」，中间只隔一句闲话，这种落差正是作者要的——家族史不是被郑重讲述的，是被**路过的人顺口提起的**。
+- **为什么这样写**：这句在结构上就是「一提而已」——`must have been` 把它说成**不确定的猜测**，而不是陈述；说话标签用 `commented` 而不是 `said`，更轻。作者特意让这句**轻描淡写**地过去，是因为它马上要引出 Kitty 的反应：`Kitty was startled.` 一句独段，无解释。从「种花」到「外曾祖父冻死在自家院里」，中间只隔一句闲话，这种落差正是作者要的——家族史不是被郑重讲述的，是被**路过的人顺口提起的**。
 - **读者视角提示**：`must have been` 里的 `must` 表**推测**（想必），与 `must be`（一定正在）在时间层上不同；`Last time I was out here` 里 `Last time` 是**名词短语**（上一次），作时间状语，句首要大写。`comment` 作动词讲「评论」时通常**不带宾语**（宾语从句直接跟），这与 `to comment that …` 不同。
 
 > **原句 2:** "‘Well, we never got much beyond saying howdy and commenting on the weather. After he died we tried our damnedest to find some relatives but without success, so the wife and I went to his funeral to pay our respects.’"
@@ -73,7 +73,7 @@ modified: "2026-09-30"
 |------|------|------|
 | olive-green | 橄榄绿的（olive 橄榄 + green，中间连字符的复合颜色词） | The bag was open at the top and she glanced in to see her long, chunky olive-green cardigan, a useful cold-weather cover-up. |
 | cold-weather | 御寒的（cold + weather，连字符复合形容词） | The bag was open at the top and she glanced in to see her long, chunky olive-green cardigan, a useful cold-weather cover-up. |
-| great-granddaddy | 曾外祖父（口语化的曾祖父，比书面语更亲近） | ‘Last time I was out here must have been when we found your great-granddaddy’s body,’ the old man commented. |
+| great-granddaddy | 外曾祖父（口语化的曾祖父，比书面语更亲近） | ‘Last time I was out here must have been when we found your great-granddaddy’s body,’ the old man commented. |
 | storekeeper | 杂货店店主（store 店 + keeper 看管人，复合名词） | I came out to look for him after the storekeeper told me she hadn’t seen him for a couple of weeks. |
 | interruption | 打断、干扰（interrupt 名词化，-ion 后缀） | That meant if there was any interruption to the normal harmony, it was automatically assumed to be her fault. |
 | handwriting | 笔迹（hand 手 + writing 书写，拼写上合为一个词） | Kitty glanced inside and recognised Tom’s handwriting. |
@@ -111,10 +111,10 @@ modified: "2026-09-30"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | old man | 老人（此处是 Jeff 的祖父） | The old man was looking round the yard. |
-| body | 身体、遗体（此处指曾外祖父的尸体） | ‘Last time I was out here must have been when we found your great-granddaddy’s body,’ the old man commented. |
+| body | 身体、遗体（此处指外曾祖父的尸体） | ‘Last time I was out here must have been when we found your great-granddaddy’s body,’ the old man commented. |
 | dog | 狗（此处是那条守着尸体的半饥饿的狗） | Found him lying frozen solid on the ground and his dog guarding the body. |
 | child | 孩子（此处是她哭得像个孩子） | She grasped the letter and hugged it tightly to her chest as she wept like a child, with complete abandon. |
-| daughter | 女儿（此处是曾外祖父留下的女儿 Marta） | ‘He had a daughter, Marta, who was my grandmother, and a son, Nicholas, as well. |
+| daughter | 女儿（此处是外曾祖父留下的女儿 Marta） | ‘He had a daughter, Marta, who was my grandmother, and a son, Nicholas, as well. |
 | emails | 电子邮件（email 的复数） | If you’ve been reading my emails (and I hope you have), you’ll know that I’ve been seeing a counsellor for six weeks now. |
 | gas lamp | 煤气灯（gas 煤气 + lamp 灯，复合名词） | She fetched her gas lamp, poured a second glass, then began to read. |
 | big gulp | 的一大口（此处是得知汤姆在看心理医生时） | She took a big gulp of wine before reading on. |

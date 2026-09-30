@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 > **原句 3:** "Vera shrugged and continued: ‘It seems you must knead the dough for at least twenty minutes to get air into it, then let it rest for half an hour before moulding it into shape. Any activity that distracts us from missing Mama, Papa and Maria is welcome, and I expect that in my next life the skill of breadmaking will prove useful.’"
 
-- **中文理解**：「看来你得把面团至少揉二十分钟，好让它里面进气，然后让它醒半个小时，再把它捏成形。」
+- **中文理解**：她耸耸肩：「看来你得把面团至少揉二十分钟，好让它里面进气，然后让它醒半个小时，再把它捏成形。凡是能让人不去想妈妈、爸爸和玛丽的事，做什么都欢迎——我猜下一辈子，这门做面包的手艺大概还用得上。」
 - **句子结构**：`It seems (that) you must …` 是**插入语结构**，核心是 `you must knead …`，从句用**情态动词 must + 动词原形**；`knead the dough for at least twenty minutes` 里 `for …` 是**表示时长的介词短语**（持续多久），`at least` 是**程度限定语**；`to get air into it` 是**不定式表目的**；`then let it rest for half an hour` 是**并列祈使句省略主语的 let 结构**（let 后接宾语 + 动词原形），`then` 是并列连词；`before moulding it into shape` 是**介词 before + 动名词**的结构。
 - **关键词**：you must knead the dough / for at least twenty minutes / to get air into it / before moulding it into shape
 - **为什么这样写**：这是日记里**最平淡无奇的一段**，而它在全章承担了最重的功能：让读者相信这不是小说。烘焙的操作细节（揉二十分钟、醒半小时、进气、捏形）琐碎到近乎无聊，作者偏偏把它整段照录，正是因为**死者的手记就是这样**——里面记着揉面和父亲挖的鸭池，而不是什么命运。作者用一条完整的工序（`knead … then let it rest … before moulding`）把读者拉进囚室的下午，读者的同情心是被流程本身勾起来的，不是被形容词。

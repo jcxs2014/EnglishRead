@@ -28,7 +28,7 @@ modified: "2026-09-30"
 - **中文理解**：「我认识你，」其中一个天使说着，款步走向他的床边。「你以前在彼得霍夫宫的近卫军里吧？跳进海里救狗的那个人，不就是你吗？」
 - **句子结构**：`‘I know you,’ one of the angels said` 是**直接引语 + 逗号引出说话人**（不用冒号），且引语内的逗号标点位置保留在引号内；`one of the angels` 作主语、said 作谓语，**施事者不点名字**；后半段 `‘...’` 又是一段直接引语，问句以 `Weren’t you the one who dived into the sea to rescue a dog?` 的**反义疑问句（附加问句）**收尾，句末省略了助动词与 be 动词。
 - **关键词**：one of the angels / gliding over to / imperial guard / weren’t you the one
-- **为什么这样写**：这一句是**整章的引擎**——她凭一件旧事认出了陌生人，而那件旧事正是他与狗的轶事，也就是他自己讲过的第一个故事。作者让 `one of the angels` 保持匿名到下一段才揭晓，读者因此先接受「护士」这个外壳。`Weren’t you the one who dived into the sea to rescue a dog?` 用**反义疑问**而不是陈述式的确认，语气上带了一点「我记得，不会错吧」的熟稔，这比客气的 `Did you`（他自己在下一段回忆时正是这么讲的：`He thought back to the moment when he ran out to collect Malevich`）更能确立两人之间的不对等：她是认出他的人。
+- **为什么这样写**：这一句是**整章的引擎**——她凭一件旧事认出了陌生人，而那件旧事正是他与狗的轶事，也就是他自己讲过的第一个故事。作者让 `one of the angels` 保持匿名到下一段才揭晓，读者因此先接受「护士」这个外壳。`Weren’t you the one who dived into the sea to rescue a dog?` 用**反义疑问**而不是陈述式的确认，语气上带了一点「我记得，不会错吧」的熟稔，这比客气的 `Did you` 更能确立两人之间的不对等：她是认出他的人。
 - **读者视角提示**：`the one who` 是**定语从句**修饰 `the one`，`who` 在从句里作主语；`dived into the sea` 里的 `dive into` 是「潜入」，不是「跳进（某个坑）」——结合上下文是跳进海里救落水的狗。`rescue a dog` 前没有冠词，是**不定冠词**泛指一条狗，不是特指。
 
 > **原句 3:** "‘I think small. And there’s no need to call me “Your Imperial Highness”. I am a nurse here, not a royal. Mama, my sister Olga and I are all training as nurses to help the war effort. These days I am known as “Nurse Romanova Three”, while they are One and Two.’"

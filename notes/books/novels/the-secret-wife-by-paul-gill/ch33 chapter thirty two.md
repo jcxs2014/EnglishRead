@@ -49,7 +49,7 @@ modified: "2026-09-30"
 
 > **原句 5:** "The farmer’s wife kicked it. ‘What use is your money without our daughter? Did you think of that? Or was she not a person to you, just a body you could buy? You disgust me.’"
 
-- **中文理解**：农妇的丈夫（妻子）踢开那只袋子。「没了我们女儿，你这些钱有什么用？这一点你想过吗？还是说对你而言她根本不是个人，只是一具你可以买下来的身体？你让我恶心。」
+- **中文理解**：农妇踢开那只袋子。「没了我们女儿，你这些钱有什么用？这一点你想过吗？还是说对你而言她根本不是个人，只是一具你可以买下来的身体？你让我恶心。」
 - **句子结构**：`The farmer’s wife kicked it` 是**主谓宾的简单句**，`it` 指上一段那袋两千卢布；`kicked it` 后直接接引语，中间**不用逗号**，是英语中常见的「动作 + 直接引语」连用。引语内部由四个句子组成：两个**疑问句**（`What use is your money without our daughter?` 与 `Did you think of that?`）、一个**选择疑问句**（`Or was she not a person to you, just a body you could buy?`）、一个**陈述句**（`You disgust me.`）。`What use is …` 是**疑问词 + 主谓倒装**；`Or was she not A, just B?` 是**否定疑问 + 对举**（`A, just B`），末尾 `just` 一词把 B 压到最低。
 - **关键词**：kicked it / What use is your money / Or was she not … just a body you could buy? / You disgust me
 - **为什么这样写**：这一击之所以狠，是因为农妇说的**不是道德判断而是事实**：钱是交易的对价，而交易的对象此刻不在了——`What use is your money without our daughter?` 一句就把德米特里整套计划的物质基础抽空了。`Or was she not a person to you, just a body you could buy?` 用 `just` 把对方推到最坏的解读上，而这个解读**恰恰最接近事实**：他付过两千卢布，他也确实在某个层面上把她当成一个必须弄到手的目标。作者让这句指责**贴着他自己的行为**成立，因此接下来的 `Dmitri hung his head in misery. He disgusted himself too.` 里的 `too` 才那么重——不是他厌恶那个农妇，是**农妇说出了他自己不敢承认的那部分**。

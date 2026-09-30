@@ -28,7 +28,7 @@ modified: "2026-09-30"
 - **中文理解**：他写信给母亲，嘱咐她去聘请一位好律师。
 - **句子结构**：`He wrote to his mother` 是**动词 + 介词短语**（write to sb 表示写信给某人）；`and instructed her to engage a good lawyer` 是**并列的第二谓语**，与前半句共用主语 He，不重复写出；`instructed her to engage …` 是**动词 + 宾语 + 不定式**的三位结构（tell/ask/instruct 一类动词的接法），不定式 `to engage` 的逻辑主语是 her。
 - **关键词**：wrote to his mother / instructed her to engage / a good lawyer
-- **为什么这样写**：这一句是**全章里他作为家族成员的最后一次有效行动**，作者只用了一个句子就写完，动作小到近乎琐碎——不是策动、不是反抗，只是`instructed her to engage a good lawyer`。这份低力度恰恰是本线此刻的真实处境：政变已经发生，他能做的只剩下花钱请律师。而下一段立刻用 `for the time being his first loyalty must be with his wife` 把这份家族责任压下去，所以这一句既是行动也是**让步**。
+- **为什么这样写**：这一句是**全章里他作为家族成员的最后一次有效行动**，作者只用了一个句子就写完，动作小到近乎琐碎——不是策动、不是反抗，只是`instructed her to engage a good lawyer`。这份低力度恰恰是本线此刻的真实处境：政变已经发生，他能做的只剩下花钱请律师。而同章别处立刻用 `for the time being his first loyalty must be with his wife` 把这份家族责任压下去，所以这一句既是行动也是**让步**。
 - **读者视角提示**：`instruct` 的搭配是 `instruct sb to do sth`，不是 `instruct sb to do` 的宾格变化；`engage` 在此是「聘请」这个正式义，不要读成「结婚」。`his mother` 与后面的 `his father` 都是「他的」，与俄语里亲近的家庭称谓 `Mama` / `Papa`（塔季扬娜那一侧用的）分属两套称谓系统。
 
 > **原句 3:** "Dmitri was astonished by Tatiana’s everyday tone. Did she realise that the nation was rift in two?"

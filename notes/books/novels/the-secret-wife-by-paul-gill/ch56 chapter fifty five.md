@@ -7,7 +7,7 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：2016 年 10 月 10 日，阿卡纳比湖，编辑丽贝卡·威克斯回信说出版社的账房部门留有两封与伊琳娜·马尔科娃有关的信——一封是 1958 年 7 月的遗嘱式月付三千美元安排，一封是 1975 年 5 月的讣告式交代，请后代来认领版税；Kitty 由此算出尸体就是伊琳娜，随即在族谱论坛上发现一位自称伊琳娜继女的 Hana Markova 并预约了通话。
+- **一句话概括**：2016 年 10 月 10 日，阿卡纳比湖，编辑丽贝卡·威克斯回信说出版社的账房部门留有两封与伊琳娜·马尔科娃有关的信——一封是 1958 年 7 月的遗嘱式月付三百美元安排，一封是 1975 年 5 月的讣告式交代，请后代来认领版税；Kitty 由此算出尸体就是伊琳娜，随即在族谱论坛上发现一位自称伊琳娜继女的 Hana Markova 并预约了通话。
 - **情感弧线位置**：2016 线的**第二次「发现」**，但与第一次的性质不同：第一次找到的是木屋和一枚吊坠（物证），这一次找到的是**一整套他生前安排好的善后**。Kitty 的情绪不是震惊，而是 `That’s me!` 那种撞上来的认领感——她第一次觉得自己是被特意选中的。
 - **Tropes 兑现/反转**：兑现「家族秘密靠档案文件揭开」这一类型套路（出版社账房、旧信件），但反转是这两封信的内容**完全不是线索而是遗嘱**：一个人预见到了自己的死，也预见到了她会被卷进来。另一个反转在时间轴上——档案里的 1958 与 1975，正好落在 1918 线两人隐姓埋名生活的那几十年里，把两条线的同一段时间**并排放在一起**。
 - **人物弧线**：Kitty 从「查案的人」转向「被托付的人」。本节她做了一件她自己没预料到的事：她没有继续推理，而是立刻打电话给一个自称继女的女人，**行动优先于结论**——这与她前几章反复空转的推理形成对比，也是她开始行动的转折点。
@@ -44,7 +44,7 @@ modified: "2026-09-30"
 - **中文理解**：第二重打击来临时，她算出伊琳娜·马尔科娃已经死了四十一年——那就意味着，躺在木屋里的那具尸体真的是她。日期对得上。
 - **句子结构**：`The second shock came when she calculated that …` 里 `came` 不带宾语，是**不及物动词**（打击「到来」），`when` 引导时间状语从句；`she calculated that Irena Markova had died forty-one years earlier` 里 `had died` 是**过去完成时**，标记时间早于「计算」这个当下，锚点是 2016 年；`so that meant she really could be the body at the cabin` 用 **so 连接结果**，`that meant` 是**过去时插入语**，`could be` 是**推测性虚拟语气**；全句是一个长句，不切分。`The dates fitted.` 独立成句，是**结论性的单句**。
 - **关键词**：came when she calculated / had died forty-one years earlier / could be the body at the cabin / The dates fitted
-- **为什么这样写**：作者让 Kitty **算**，而不让她感觉到——这是本章与全书 2016 线一以贯之的写法：**证据在前，冲击在后**。`had died forty-one years earlier` 里的 `earlier` 指向 2016 年往前数：1975 年 5 月，与前一封信的日期严丝合缝，这个「吻合」正是作者要读者自己看见的东西，所以作者只给一句 `The dates fitted.`（对得上）而不解释怎么对。`so that meant she really could be` 里的 `really` 与 `could be` 是一对：她的判断从「不排除」升到「只能是」，紧接着的两个疑问（`Did he murder her?` 与 `But why had he been so concerned to keep paying Irena`）却立刻把它推翻——让她刚建立的结论被自己的问题击穿。
+- **为什么这样写**：作者让 Kitty **算**，而不让她感觉到——这是本章与全书 2016 线一以贯之的写法：**证据在前，冲击在后**。`had died forty-one years earlier` 里的 `earlier` 指向 2016 年往前数：1975 年 5 月，与前一封信的日期严丝合缝，这个「吻合」正是作者要读者自己看见的东西，所以作者只给一句 `The dates fitted.`（对得上）而不解释怎么对。`so that meant she really could be` 里的 `really` 与 `could be` 是一对：她的判断从「不排除」升到「只能是」，紧接着的两个疑问（`Did he murder her?` 与 `But why had he been so concerned to keep paying Irena in the event of him dying first?`）却立刻把它推翻——让她刚建立的结论被自己的问题击穿。
 - **读者视角提示**：`The second shock came …` 用**不定冠词**（`a second shock`）而非序数词，暗示这是「再受一击」而非排序第三；`calculated` 是**过去式**（计算这个动作完成了），`died forty-one years earlier` 是完成时（死亡更早）。`could be` 在这里是**推测性可能**，不是能力也不是许可，中文若译成「可以」会误。`fitted` 是 fit 的过去式（相配、相符）。
 
 > **原句 5:** "She logged in to her genealogy forum to find there were some replies to her question, and scrolled down the list. Several mentioned websites in the Czech Republic but these would only be useful if she could post in Czech."

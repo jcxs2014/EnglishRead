@@ -76,7 +76,7 @@ modified: "2026-09-30"
 | brick-built | 砖砌的（brick 名词 + -built 过去分词作后置修饰） | It drew up outside an old-fashioned brick-built house that opened directly onto the street. |
 | oak-panelled | 橡木镶板的（oak 名词 + panelled 形容词，连字符连接复合定语） | She gestured for her to go through to an oak-panelled kitchen with windows looking out over a children’s play park. |
 | generations | 一代又一代（generation 名词的复数，指好几代人留下的痕迹） | Kitty sat down at an oak table scarred by the scorch marks of generations. |
-| great-grandfather | 曾外祖父／外曾祖父（great- 隔代前缀 + grandfather） | ‘Ortipo was the French Bulldog that your great-grandfather gave to Grand Duchess Tatiana back in 1914, soon after they met. |
+| great-grandfather | 外曾祖父（great- 隔代前缀 + grandfather） | ‘Ortipo was the French Bulldog that your great-grandfather gave to Grand Duchess Tatiana back in 1914, soon after they met. |
 | captivated | 被完全吸引住的（captivate 动词的过去分词形容词） | Hana offered her a slice of cake, but Kitty shook her head, totally captivated by the story. |
 | cross-matched | 交叉比对的（cross- 交叉 + match 过去式，DNA 检测用语） | They cross-matched bone samples with people who have Romanov DNA, including our Prince Philip. |
 | contaminated | 被污染的、弄脏的（contaminate 动词的过去分词，医学/化学用语） | ‘If you’ve read about the investigation, you’ll know how badly the samples were contaminated over the years. |

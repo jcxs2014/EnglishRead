@@ -58,7 +58,7 @@ modified: "2026-09-30"
 > **原句 6:** "It was only then she realised they were seriously investigating her great-grandfather for murder."
 
 - **中文理解**：直到那时她才意识到，他们是在认真调查她的曾祖父是否杀了人。
-- **句子结构**：`It was only then she realised (that) ...` 是**强调句型**（`It is/was + 被强调成分 + that + 主语 + 谓语`），被强调的是**时间状语 then**；从句主干是 `they were investigating her great-grandfather for murder`，`investigate someone for something` 是**动词 + 介词**的结构（`for` 表明调查的目的/缘由）。
+- **句子结构**：`It was only then she realised (that) ...` 是**强调句型**（`It is/was + 被强调成分 + that + 主语 + 谓语`），被强调的是**时间状语 then**；从句主干是 `they were seriously investigating her great-grandfather for murder`，`investigate someone for something` 是**动词 + 介词**的结构（`for` 表明调查的目的/缘由）。
 - **关键词**：It was only then / she realised / were seriously investigating / for murder
 - **为什么这样写**：`It was only then` 这个**强调结构**在本章反复出现（前面还有 `It was horrible to think of the body as a person`），是 Kitty 的**醒悟标记**：她一再地、晚一步地意识到事情更严重。真正击垮她的不是他被调查，而是**被调查这件事本身**——侦探没有说「我们认为他是凶手」，只说她才明白他们的工作性质。作者不写她的心理，只写这一句事实，因为事实已经够重了。
 - **读者视角提示**：`It was only then she realised` 里的 `realise` 后接**宾语从句**，`that` 可省略；`for murder` 里的 `for` 表示**调查的理由**（为谋杀一案），不是「为了」；`seriously`（认真地）在这里的作用是把「例行走访」升级成「正式侦查」。

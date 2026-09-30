@@ -28,7 +28,7 @@ modified: "2026-09-30"
 - **中文理解**：她查德米特里的资料时撞上了一堵墙，于是决定改从族谱网站上看看能查到罗莎·利伯曼什么。
 - **句子结构**：`She had hit a brick wall researching Dmitri` 里 `hit a brick wall` 是**短语动词**（碰壁、走进死胡同），`researching Dmitri` 是**现在分词作伴随状语**；`so she decided to see what she could find` 用 so 引导**结果状语从句**；`what she could find about Rosa Liebermann` 是**宾语从句**作 see 的宾语，`could` 是情态动词；`through her genealogy site` 是**介词短语**交代渠道。
 - **关键词**：had hit a brick wall / researching Dmitri / what she could find / through her genealogy site
-- **为什么这样写**：作者用一个**比喻化的短语**交代失败（`hit a brick wall`），随后用一个 `so` 把策略切换交代完——查不到人就查配偶。这是解谜线最实用的一次推进：她不再从主人的书里找线索，而从**家谱记录**里找人。`Rosa Liebermann` 这个名字在这里第一次以完整形式出现（前一章她只知道姓氏），读者由此明白：她要查的不是丈夫的祖父，是**那个女人**。
+- **为什么这样写**：作者用一个**比喻化的短语**交代失败（`hit a brick wall`），随后用一个 `so` 把策略切换交代完——查不到人就查配偶。这是解谜线最实用的一次推进：她不再从主人的书里找线索，而从**家谱记录**里找人。`Rosa Liebermann` 这个全名在 ch16 已经出现过一次（当时 Kitty 还「从未听说过」这个名字），这一次她终于照着它查到了人。读者由此明白：她要查的不是那位已故的曾外祖父，是**另一个女人**。
 - **读者视角提示**：`hit / run into / come across a brick wall` 都表示碰壁；`had hit` 是**过去完成时**，说明碰壁发生在做这个决定之前；`what she could find` 里的 what 是**连接代词**引导宾语从句，本身不作成分；`genealogy` 指家谱学，此处作定语修饰 site。
 
 > **原句 3:** "‘Only two weeks until we close for winter,’ Jeff told her."
