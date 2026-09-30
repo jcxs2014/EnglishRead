@@ -61,7 +61,7 @@ modified: "2026-09-30"
 
 **中文理解**：最后一句她转向读者：不过我想你早就知道了。
 **关键词**：But I guess, already knew that
-**为什么这样写**：一句话把读者从旁观者拉成同谋，前面六十多段铺垫因此不再是对往事的记录，而像是一次提醒。
+**为什么这样写**：一句话把读者从旁观者拉成同谋，前面那一长串铺垫因此不再是对往事的记录，而像是一次提醒。
 **读者视角提示**：本章在请读者自行判断的姿势上结束；那天剩下的时间她是这样度过的：That would have been at least four hours, which is a long time to sit without moving, without thinking a single thought. I didn’t eat breakfast. Or morning tea. Or lunch. I did not have a glass of water or even a cup of tea.
 
 ## 本章词汇

@@ -27,7 +27,7 @@ modified: "2026-09-30"
 **中文理解**：Harvey 死了；Harvey 不再「说」，Harvey 已经「说了」；Harvey 从此是过去时，他把要说的话都说完了。
 **关键词**：Harvey is dead, forevermore in the past tense, He’s said everything he will ever get to say
 **为什么这样写**：用时态本身承担哀悼——同一个动词在现在时与过去时之间来回，读者不必读到「死亡」以外任何一个形容情绪的词。
-**读者视角提示**：这四个短句是本章的骨架，后面那段长长的「以后他再也不会……」是它的展开。
+**读者视角提示**：这几句是本章的骨架，后面那段长长的「以后他再也不会……」是它的展开。
 
 > **原句 3:** "Harvey will never again text Ethan some random, weird-angled photo of a sign or a tree or a street corner that means something to Harvey but nothing to Ethan."
 
@@ -45,9 +45,9 @@ modified: "2026-09-30"
 
 > **原句 5:** "‘Assault,’ repeats the woman. ‘As I said. Age thirty.’"
 
-**中文理解**：他追问了年龄，老妇把同一个词又说了一遍：死因，袭击；年龄，三十。
+**中文理解**：他本能地反问「袭击」是不是指打一架，老妇把同一个词原样重复一遍，再补上年龄：三十。
 **关键词**：‘Assault,’ repeats the woman, ‘As I said.’, Age thirty
-**为什么这样写**：重复而不解释，是本章最冷的一处——他把问题听懂了、也确认了，她的回应只是复读；「As I said」把预言说成她刚刚报过的一条事实。
+**为什么这样写**：重复而不解释，是本章最冷的一处——他没听懂这个词，只是本能地反问，她的回应却只是复读；「As I said」把刚说出口的那个词原样按回去，不补一个字的说明。
 **读者视角提示**：他说自己二十九岁，这一年之差本章没有解释，却是整章情绪的引线。
 
 > **原句 6:** "Guys like us don’t die young, Harvey. Guys like us get old and bald and paunchy. Guys like us peak in our fifties, standing around the barbeque in short-sleeved plaid shirts talking about cholesterol and interest rates."
