@@ -6,7 +6,7 @@ modified: "2026-09-30"
 # 109. chapter 109
 
 ## 本章导航
-- **一句话概括**：Cherry 细数与 Ned 的三十几年：旅行分工、争吵与和解、隔壁的 Jill 与 Bert，以及那场把三个人一起带走的车祸幻觉。
+- **一句话概括**：Cherry 细数与 Ned 相处的那些年：旅行分工、争吵与和解、隔壁的 Jill 与 Bert，以及那场把三个人一起带走的车祸幻觉。
 - **叙事视角**：第三人称限知，Cherry 视角——她边说边自我更正，最后主动把读者推向下一段。
 - **场景与时间**：婚后多年；悉尼、牛津郡、布鲁克林，最后定居霍巴特；幻觉发生在某个周日早上。
 - **人物弧线**：她从「扫描风险的人」退回到「愿意让风险发生的人」；失去 Jill 与 Bert 的想象没有摧毁她，反而把她推回那个平常的周日。
@@ -25,7 +25,7 @@ modified: "2026-09-30"
 
 **中文理解**：这次脑子里那个冷静而精确的声音，和当年 Jack 要去越南时一模一样。
 **关键词**：the same cool precise voice, when Jack was going away to Vietnam
-**为什么这样写**：作者用同一个声音把相隔几十年的两次恐惧接起来；cool precise 三个词并置，写的是声音的质地而不是内容。
+**为什么这样写**：作者用同一个声音把两个相隔很久的恐惧接起来；cool precise 连在一起，写的是声音的质地而不是内容。
 **读者视角提示**：这句话出现在幻觉之后——同一副声音，只是这次叙述者已经能分辨它的可靠程度。
 
 > **原句 3:** "I saw it happening. The men a bit raucous after the wine-tasting. Jill distracted. Just for a moment, as she took a sharp bend too fast. The car flipping. Three times before it settled. Bang, bang, bang. All three gone. Only me remaining."

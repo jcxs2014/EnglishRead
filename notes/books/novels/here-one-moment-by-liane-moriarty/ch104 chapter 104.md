@@ -39,7 +39,7 @@ modified: "2026-09-30"
 
 **中文理解**：Jonny 的短信不冷也不热，是中性；中性很可怕。
 **关键词**：not cold, not warm either, Neutral is awful
-**为什么这样写**：先用一次 not 排除一端，再用一次 not 排除另一端，把剩下的选项单独提成一句并重复一遍——重复是这一段唯一的强调手段，比任何形容词都重。
+**为什么这样写**：先用一次 not 排除一端，再用一次 not 排除另一端，把剩下的选项单独提成一句并重复一遍——而重复在这里替代了任何形容词。
 **读者视角提示**：前面那句他自我介绍为 ‘Allegra’s friend’ 才是这份「中性」的来由。
 
 > **原句 5:** "‘I wasn’t pretending to be a pilot,’ says Allegra. ‘I was pretending to be a plane.’"

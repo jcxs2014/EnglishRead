@@ -36,7 +36,7 @@ modified: "2026-09-30"
 **为什么这样写**：本段起句把主语从 lady 换成复数的「他们」，视角因此从被观察者甩给整架飞机上的乘客——这是前面十几段 lady 主语之后的一次切换。句子的短促模仿的是乘客期待的落空。
 **读者视角提示**：紧接的下一段给出具体时长 The plane sits on the tarmac without moving for ninety-two horrendous minutes.——「十五分钟」与「九十二分钟」的落差是本章时间感的全部来源。
 
-> **原句 4:** "At no stage does the lady make a bitter-voiced performative phone call to tell someone that she is ‘stuck on a plane’ ‘still here’ ‘no way we’ll make our connection’ ‘just go ahead without me’ ‘we’ll need to reschedule’ ‘I’ll have to cancel’ ‘nothing I can do’ ‘I know! It’s unbelievable"
+> **原句 4:** "At no stage does the lady make a bitter-voiced performative phone call to tell someone that she is ‘stuck on a plane’ ‘still here’ ‘no way we’ll make our connection’ ‘just go ahead without me’ ‘we’ll need to reschedule’ ‘I’ll have to cancel’ ‘nothing I can do’ ‘I know! It’s unbelievable.’"
 
 **中文理解**：一整段都在写她「没有」做的事——打那通带情绪的表演性电话，而且把这类电话里所有的套话逐个列出。
 **关键词**：At no stage, bitter-voiced, performative, reschedule

@@ -6,7 +6,7 @@ modified: "2026-09-30"
 # 107. chapter 107
 
 ## 本章导航
-- **一句话概括**：Cherry 回忆丈夫 Ned：他的课堂、他的第一场电影、他的第一次吻，以及那支「跑不出墨」的钢笔。
+- **一句话概括**：Cherry 回忆丈夫 Ned：他的课堂、第一次约会看的那部电影、他的初吻，以及那支「跑不出墨」的钢笔。
 - **叙事视角**：第三人称限知，Cherry 视角——她在不断纠正自己，而纠正比叙述更频繁。
 - **场景与时间**：从大学时代的一场讲座到婚后第五年；一个数学符号贯穿全章。
 - **人物弧线**：写的是她如何逐步承认「我也喜欢上了他」；前半段的否认与后半段的认领构成一条完整的斜坡。
@@ -40,20 +40,20 @@ modified: "2026-09-30"
 **中文理解**：她从影院门厅出来，Ned 在等她，把她拉进怀里、弯下腰吻她，像战争结束的那一刻。
 **关键词**：came out into the foyer, bent me backwards, like it was the end of the war
 **为什么这样写**：像 it was the end of the war 这个比喻把一次初吻放到历史尺度上，而作者马上用 Mind you, that was our first kiss, a little presumptuous! 把它拽回来；先夸大再自嘲是本章的节奏。
-**读者视角提示**：括号里的 (I didn’t mind.) 是全章最短的一次自白，也是唯一一次她没反驳自己。
+**读者视角提示**：括号里的 (I didn’t mind.) 是本章的例外：这一次她没有反驳自己。
 
 > **原句 5:** "Ned Lockwood. The most exasperating, impatient, intelligent, funny, curious, intense man."
 
 **中文理解**：Ned Lockwood——最让人抓狂、最没耐心、最聪明、最有趣、最好奇、最激烈的男人。
 **关键词**：Ned Lockwood, exasperating, impatient, curious, intense
-**为什么这样写**：全章最长的一段回忆在这一句被压成一个词串，六个形容词没有任何解释，全靠前面几千字给它们充电；句首重复姓名，等于给这份名单盖章。
+**为什么这样写**：前面那整段回忆在这一句被压成一个词串，形容词一个解释也没有，全靠前面的细节给它们充电；句首重复姓名，等于给这份名单盖章。
 **读者视角提示**：六个词里有三个说的是同一件事：不能等——这正好是后文那场门诊的关键。
 
 > **原句 6:** "On our first wedding anniversary he gave me a beautiful gold brooch inscribed with the Kronecker delta symbol. I’ve worn it every single day since."
 
 **中文理解**：结婚一周年他送她一枚刻着那个数学符号的金胸针，她此后每天都戴着。
 **关键词**：beautiful gold brooch, inscribed with the Kronecker delta symbol, every single day since
-**为什么这样写**：全章从一支跑不出墨的笔走到这枚胸针，两件东西都是同一个符号的容器；every single day since 是全章唯一没有反讽的肯定句。
+**为什么这样写**：全章从一支跑不出墨的笔走到这枚胸针，两件东西都是同一个符号的容器；every single day since 是一句没有任何反讽的肯定——与前面那些自我更正的语气正好相反。
 **读者视角提示**：这枚胸针上的符号，与本章前面那场 a lecture on the principles of Kronecker delta 是同一个——那堂课上他递笔给她，纪念日上他把符号刻进金属。
 
 ## 本章词汇

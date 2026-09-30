@@ -47,7 +47,7 @@ modified: "2026-09-30"
 **中文理解**：她完全不记得自己表达过对萨尔萨的兴趣；她只是多年来一次次想出各种办法说服 Max 多运动。
 **关键词**：can’t remember ever expressing an interest, at various times, creative ways
 **为什么这样写**：主句是「我不记得」，从句是「我一直在想办法」，两个时间尺度叠在一起，于是她的动机既可疑又可爱；at various times 这个模糊时间状语替她留了退路。
-**读者视角提示**：下一句 He likes dancing at weddings. 是全章最短的情报句——她了解他，他不了解她。
+**读者视角提示**：下一句 He likes dancing at weddings. 只交付了一个情报：她了解他，他不了解她。
 
 > **原句 6:** "No more fussing. She will simply cherish every moment she’s allocated until there are no more."
 

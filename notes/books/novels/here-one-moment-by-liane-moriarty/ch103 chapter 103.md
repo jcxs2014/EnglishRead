@@ -8,7 +8,7 @@ modified: "2026-09-30"
 ## 本章导航
 - **一句话概括**：Cherry 以事后追述的口吻清算自己的离婚与母亲的临终，把一场没有仪式的死亡和另一场有演出的死亡并排放在同一章。
 - **叙事视角**：第三人称限知，Cherry 视角——她一边讲述一边对读者打预防针。
-- **场景与时间**：前段是离婚后多年的回望；五月某个下午，五月午后病房里的临终场景。
+- **场景与时间**：前段是离婚后多年的回望；五月的某个下午，病房里的临终场景。
 - **人物弧线**：从「被抛下的人」退回到「有幽默感的人」——最后那个关于父母的梦把整章的沉重收成温柔的落点。
 - **叙事手法**：把「离婚」写成一种没有仪式的死亡；用括号插入的自我更正制造犹豫感；临终对话靠动作与听觉推进，不用病痛特写。
 
@@ -33,13 +33,13 @@ modified: "2026-09-30"
 **中文理解**：黄昏的光变柔，姑姑早些时候在厨房说过一句「快了」——现在真的到了那一刻。
 **关键词**：The light was softening, earlier in the kitchen, Not long now
 **为什么这样写**：一句话里同时装着过去与现在：earlier in the kitchen 的插入语把一句预告回溯成已发生的事，读者因此先于叙述者知道结局。
-**读者视角提示**：Not long now 是全章最短的一句临终预告，短到不像对临终的人说的话——这份轻正是全章语气的定调。
+**读者视角提示**：Not long now 这句预告短到不像对临终的人说的话——这份轻正是全章语气的定调。
 
 > **原句 4:** "At one point she waved two fingers like a conductor, her eyes still shut, and said, ‘Dancing the Swiss fondue! Wasn’t that funny, Pat?’"
 
 **中文理解**：母亲闭着眼睛挥了两根手指，像指挥那样说起「瑞士奶酪火锅」的笑话，还问姑姑好不好笑。
 **关键词**：waved two fingers like a conductor, her eyes still shut, Dancing the Swiss fondue
-**为什么这样写**：临终场景里唯一被强调的动作是指挥——指挥棒在别人看不见的时候仍然在动，把病人的幻觉与艺术家的习惯叠在一起；句尾报出 Pat 这个亲昵称呼，等于把读者直接拉进家属席。
+**为什么这样写**：临终场景里被强调的动作是指挥——指挥棒在别人看不见的时候仍然在动，把病人的幻觉与艺术家的习惯叠在一起；句尾报出 Pat 这个亲昵称呼，等于把读者直接拉进家属席。
 **读者视角提示**：下一段姑姑的回应只有一句：‘It was so funny, Mae,’ said my aunt, and she smiled at me.——那个笑是转达给叙述者的。
 
 > **原句 5:** "I think maybe Mum could already see Dad and she was telling him about it, because she said, ‘Oh, darling, isn’t she the funniest little thing?’"
@@ -54,7 +54,7 @@ modified: "2026-09-30"
 **中文理解**：作者说自己梦见父母在跳舞，回头看见她，伸出手臂；她跑过去，快得像风，像个孩子。
 **关键词**：The other night I dreamed, held out their arms, like a child
 **为什么这样写**：整章的沉重在最后两句被改写成速度——fast as the wind 把「奔向逝者」写成儿童游戏，而 like a child 明确交代这只是梦，不是复活。
-**读者视角提示**：这是本章唯一一处「我的梦」，其余内容都是清醒的回望——作者把出口留给了梦。
+**读者视角提示**：本章其余内容都是清醒的回望，只有结尾这一处是梦——作者把出口留给了梦。
 
 ## 本章词汇
 
