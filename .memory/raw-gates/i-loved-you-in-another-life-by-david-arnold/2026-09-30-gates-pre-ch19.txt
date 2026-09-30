@@ -1,0 +1,152 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub）===
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 539/539 引文可核实（100%）；完全干净文件 72/72；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 1424
+--- FAIL (0) ---
+--- WARN (60) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 524 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 25 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 a bird in a tree at night.md              ch01 a bird in a tree at night.md: 8/8 in ch01 text
+ch02 an otherwise uneventful morning.md        ch02 an otherwise uneventful morning.md: 8/8 in ch02 text
+ch03 the dichotomy of will taft.md             ch03 the dichotomy of will taft.md: 8/8 in ch03 text
+ch04 namesake misnomer.md                      ch04 namesake misnomer.md: 7/7 in ch04 text（另有 1 条短引语未校验）
+ch05 paris.md                                  ch05 paris.md: 8/8 in ch05 text
+ch06 kafkaesque.md                             ch06 kafkaesque.md: 8/8 in ch06 text
+ch07 dispatches from frozen places.md          ch07 dispatches from frozen places.md: 7/7 in ch07 text（另有 1 条短引语未校验）
+ch08 storms.md                                 ch08 storms.md: 8/8 in ch08 text
+ch09 rogue amphibians.md                       ch09 rogue amphibians.md: 8/8 in ch09 text
+ch10 night devices.md                          ch10 night devices.md: 8/8 in ch10 text
+ch11 morning reflections.md                    ch11 morning reflections.md: 6/6 in ch11 text
+ch12 the appendages of Gordon Walmsley.md      ch12 the appendages of Gordon Walmsley.md: 8/8 in ch12 text
+ch13 what id be without you.md                 ch13 what id be without you.md: 8/8 in ch13 text
+ch14 221b.md                                   ch14 221b.md: 8/8 in ch14 text
+ch15 the moth.md                               ch15 the moth.md: 8/8 in ch15 text
+ch16 the big bang.md                           ch16 the big bang.md: 8/8 in ch16 text
+ch17 somewhere in the northern atlantic.md     ch17 somewhere in the northern atlantic.md: 7/7 in ch17 text（另有 1 条短引语未校验）
+ch18 listen.md                                 ch18 listen.md: 7/7 in ch18 text（另有 1 条短引语未校验）
+ch19 the living of other lives.md              ch19 the living of other lives.md: 8/8 in ch19 text
+ch20 implications of the limitless imagination.md ch20 implications of the limitless imagination.md: 8/8 in ch20 text
+ch21 the art of polite thievery.md             ch21 the art of polite thievery.md: 8/8 in ch21 text
+ch22 no muscles.md                             ch22 no muscles.md: 8/8 in ch22 text
+ch23 everything happens for a reason and other nuggets of actual bullshit.md ch23 everything happens for a reason and other nuggets of actual bullshit.md: 8/8 in ch23 text
+ch24 strangely accurate descriptors.md         ch24 strangely accurate descriptors.md: 8/8 in ch24 text
+ch25 home phone.md                             ch25 home phone.md: 8/8 in ch25 text
+ch26 phone home.md                             ch26 phone home.md: 8/8 in ch26 text
+ch27 unst shetland isles.md                    ch27 unst shetland isles.md: 8/8 in ch27 text
+ch28 that ghost is not your daughter.md        ch28 that ghost is not your daughter.md: 8/8 in ch28 text
+ch29 last times.md                             ch29 last times.md: 8/8 in ch29 text
+ch30 impossible migrations.md                  ch30 impossible migrations.md: 7/7 in ch30 text（另有 1 条短引语未校验）
+ch31 missed connections.md                     ch31 missed connections.md: 8/8 in ch31 text
+ch32 mic drop.md                               ch32 mic drop.md: 8/8 in ch32 text
+ch33 cornucopia dystopia.md                    ch33 cornucopia dystopia.md: 8/8 in ch33 text
+ch34 ill be right here.md                      ch34 ill be right here.md: 8/8 in ch34 text
+ch35 four.md                                   ch35 four.md: 7/7 in ch35 text（另有 1 条短引语未校验）
+ch36 willow seed.md                            ch36 willow seed.md: 8/8 in ch36 text
+ch37 tokyo.md                                  ch37 tokyo.md: 8/8 in ch37 text
+ch38 the spinning night.md                     ch38 the spinning night.md: 7/7 in ch38 text（另有 1 条短引语未校验）
+ch39 alone together.md                         ch39 alone together.md: 5/5 in ch39 text（另有 3 条短引语未校验）
+ch40 alis holiday kickback.md                  ch40 alis holiday kickback.md: 8/8 in ch40 text
+ch41 elves presley.md                          ch41 elves presley.md: 8/8 in ch41 text
+ch42 alternate routes.md                       ch42 alternate routes.md: 8/8 in ch42 text
+ch43 good night.md                             ch43 good night.md: 8/8 in ch43 text
+ch44 past present future.md                    ch44 past present future.md: 8/8 in ch44 text
+ch45 us.md                                     ch45 us.md: 1/1 in ch45 text（另有 3 条短引语未校验）
+ch46 in the quiet shine.md                     ch46 in the quiet shine.md: 8/8 in ch46 text
+ch47 anything is possible and everything is perfect.md ch47 anything is possible and everything is perfect.md: 8/8 in ch47 text
+ch48 movie night at the taft house.md          ch48 movie night at the taft house.md: 8/8 in ch48 text
+ch49 shes a tarantino.md                       ch49 shes a tarantino.md: 8/8 in ch49 text
+ch50 her favorite view.md                      ch50 her favorite view.md: 5/5 in ch50 text
+ch51 the horniness encroaches.md               ch51 the horniness encroaches.md: 8/8 in ch51 text
+ch52 hands.md                                  ch52 hands.md: 6/6 in ch52 text
+ch53 new york city.md                          ch53 new york city.md: 8/8 in ch53 text
+ch54 blue.md                                   ch54 blue.md: 8/8 in ch54 text
+ch55 true blue.md                              ch55 true blue.md: 5/5 in ch55 text
+ch56 the thing itself.md                       ch56 the thing itself.md: 6/6 in ch56 text
+ch57 ready set bake.md                         ch57 ready set bake.md: 8/8 in ch57 text
+ch58 the ice queen.md                          ch58 the ice queen.md: 8/8 in ch58 text
+ch59 dispatches from in between places.md      ch59 dispatches from in between places.md: 8/8 in ch59 text
+ch60 time encapsuled.md                        ch60 time encapsuled.md: 8/8 in ch60 text
+ch61 ali pilgrim i dont know what a hoya is.md ch61 ali pilgrim i dont know what a hoya is.md: 8/8 in ch61 text
+ch62 kids in parks.md                          ch62 kids in parks.md: 8/8 in ch62 text
+ch63 the worst scene in every animal movie.md  ch63 the worst scene in every animal movie.md: 8/8 in ch63 text
+ch64 proud glad sad love.md                    ch64 proud glad sad love.md: 6/6 in ch64 text（另有 2 条短引语未校验）
+ch65 oslo.md                                   ch65 oslo.md: 8/8 in ch65 text
+ch66 happy bird day.md                         ch66 happy bird day.md: 8/8 in ch66 text
+ch67 folie a deux.md                           ch67 folie a deux.md: 8/8 in ch67 text
+ch68 madness of two.md                         ch68 madness of two.md: 5/5 in ch68 text
+ch69 la.md                                     ch69 la.md: 8/8 in ch69 text
+ch70 glacier bay.md                            ch70 glacier bay.md: 8/8 in ch70 text
+ch71 lofoten islands.md                        ch71 lofoten islands.md: 8/8 in ch71 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+⚠️ ch02 an otherwise uneventful morning.md: md 块 8 / 工具抽到 8
+⚠️ ch05 paris.md: md 块 8 / 工具抽到 8
+⚠️ ch08 storms.md: md 块 8 / 工具抽到 8
+⚠️ ch10 night devices.md: md 块 8 / 工具抽到 8
+⚠️ ch14 221b.md: md 块 8 / 工具抽到 8
+⚠️ ch16 the big bang.md: md 块 8 / 工具抽到 8
+⚠️ ch19 the living of other lives.md: md 块 8 / 工具抽到 8
+⚠️ ch25 home phone.md: md 块 8 / 工具抽到 8
+⚠️ ch33 cornucopia dystopia.md: md 块 8 / 工具抽到 8
+⚠️ ch35 four.md: md 块 8 / 工具抽到 8
+⚠️ ch38 the spinning night.md: md 块 8 / 工具抽到 8
+⚠️ ch41 elves presley.md: md 块 8 / 工具抽到 8
+⚠️ ch43 good night.md: md 块 8 / 工具抽到 8
+⚠️ ch53 new york city.md: md 块 8 / 工具抽到 8
+⚠️ ch54 blue.md: md 块 8 / 工具抽到 8
+⚠️ ch55 true blue.md: md 块 5 / 工具抽到 5
+⚠️ ch58 the ice queen.md: md 块 8 / 工具抽到 8
+⚠️ ch65 oslo.md: md 块 8 / 工具抽到 8
+⚠️ ch66 happy bird day.md: md 块 8 / 工具抽到 8
+⚠️ ch67 folie a deux.md: md 块 8 / 工具抽到 8
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（i-loved-you-in-another-life-by-david-arnold）===
+  ✅ 逐字 2064 ｜ ⚠️ 跨章 17 ｜ 🔶 拼接 1 ｜ 🟠 部分命中 90 ｜ 🟡 词形 6 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 22
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 1 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+❌ ch19 the living of other lives.md: 词表档位「⭐⭐⭐ 高级」只有表头没有词条
+=== 空段扫描：1 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 24/24 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 15/15 ✅
+
+=== 总览引文 39/39 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
