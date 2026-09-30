@@ -17,11 +17,11 @@ modified: "2026-09-30"
 
 > **原句 1:** "No man ever really believes, deep down, that he is a predator. Some abusers blame their wives for their sexual frustration. Some blame their mothers for the way they were raised. Some men even tell themselves they are acting out a biological imperative, effectively blaming Mother Nature herself for their lack of self-control. There’s always a woman to blame behind every crime against womankind."
 
-**中文理解**： 没有任何一个男人真的相信自己心底是个捕食者。有的施暴者怪妻子性欲受挫，有的怪母亲的养育方式，还有些男人甚至对自己说那只是在执行某种生物本能，等于把自己的自制力不足赖到自然母亲头上。每一桩针对女性的罪行背后，总有一个女人可以背锅。
+**中文理解**： 没有任何一个男人真的相信自己心底是个捕食者。有的施暴者把自己的性挫败怪到妻子头上，有的怪母亲的养育方式，还有些男人甚至对自己说那只是在执行某种生物本能，等于把自己的自制力不足赖到自然母亲头上。每一桩针对女性的罪行背后，总有一个女人可以背锅。
 
 **关键词**： believes, deep down, that he is a predator（心底相信自己是个捕食者）· every crime against womankind（每一桩针对女性的罪行）
 
-**为什么这样写**： 这一段是全书的题眼，也是全书最需要小心的段落：它把『捕食者』从道德判断改写成心理事实——men（男人）这个词一落笔就自动完成概括，而例证又用了 some（有…）与 others（有的）这样的分散句式，读起来像在分类而不像在指控。写作上它极其有效，也正因如此更需要读者自己盯住它。
+**为什么这样写**： 这一段是全书的题眼，也是全书最需要小心的段落：它把『捕食者』从道德判断改写成心理事实——men（男人）这个词一落笔就自动完成概括，而例证又连用了三个 some（有的）这样的分散句式，读起来像在分类而不像在指控。写作上它极其有效，也正因如此更需要读者自己盯住它。
 
 **读者视角提示**： 记住 deep down（心底）这个词：它不指责男人心里有恶魔，它只说他们不承认自己有。这两种写法后果完全不同。
 
@@ -53,13 +53,13 @@ modified: "2026-09-30"
 
 > **原句 4:** "It’s only a muscle relaxant, he thinks: it doesn’t do them any harm. It makes them happy. It makes them forget the stresses and worries of modern life. It brings them back to their natural state of feminine trust and dependency."
 
-**中文理解**： 他心里想：那不过是一种肌肉松弛剂，不会对她们造成伤害。它让她们快乐。让她们忘掉现代生活的压力和烦恼。它把她们带回那种天然的、对女性的信任与依赖。让她们变得温顺、多情。
+**中文理解**： 他心里想：那不过是一种肌肉松弛剂，不会对她们造成伤害。它让她们快乐。让她们忘掉现代生活的压力和烦恼。它把她们带回那种天然的、对女性的信任与依赖。
 
 **关键词**： It’s only a muscle relaxant（那不过是一种肌肉松弛剂）· feminine trust and dependency（对女性的信任与依赖）
 
 **为什么这样写**： 这一段是全书最需要慢读的一段：每一个分句都在做减法——先是去掉伤害，再去掉罪，最后连性别也被改写成化学名词。作者用第三人称间接引语（他心里想）而不是引号对话，让这套说辞看起来像叙述而不是发言，读者因此更难察觉自己正在读一份自我授权书。
 
-**读者视角提示**： 留意它结尾那句收尾式的重复：前面每个分句都短，句尾一律用句号，这是法律文书的节奏。
+**读者视角提示**： 留意这一串分句的节奏：每句只做一件事，句号多于逗号，读起来像在宣读一份说明书——而说明书式的语言，正是自我授权书的样子。
 
 ---
 
@@ -71,9 +71,9 @@ modified: "2026-09-30"
 
 **为什么这样写**： 这一段把前文所有零散线索（手臂上的刀口、他对女孩的闪躲）一次性并进同一个瞬间，像用剪刀一次剪断几根线。more intimate than the heart（比心还私密）这个比较把可信度提到了最高：不是心在说话，是比心更靠里的东西在说话——所以否定它没有意义。两个分句各只有几个词，中间不用连接词，读起来像两次敲击。
 
-**读者视角提示**： 这里是全书两处自我揭发之一（另一处接在下一段之后）。读到它请记住：她救 Iris 的能力，和她伤害过 Katie 的事实，是同一件东西。
+**读者视角提示**： 本章的自我揭发还没有说完：读到这里请记住——她救 Iris 的能力，和她当年对 Katie 做过的事，是同一件东西。
 
----
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -84,7 +84,7 @@ modified: "2026-09-30"
 | knick-knacks | 小摆件、零碎装饰品（此处指他家客厅的杂物） | I looked around his bright front room, with all its props and knick-knacks. |
 | dependency | 依赖（此处是他给药的目的之一） | It brings them back to their natural state of feminine trust and dependency. |
 | conquests | 猎物、战利品式情史（此处指他把受害者叫成这个） | The photos he’d taken afterwards, the trophies of his conquests. |
-| encounters | 邂逅、遭遇（此处是写在那句委婉的包装） | There’s no evil there either, just a lot of outdated porn, splashy teenage crushes, some blurry, drunken encounters, a buried sexual fantasy about his best friend’s mother, some creepy Twitter sock puppet accounts, and that unpleasant little joke about Jo Perry that morning – @radfem_Bonnie95: She was only running. |
+| rough diamond | 粗琢的钻石、璞玉（此处说他看着有问题、底子却是好人） | A bit of a rough diamond, perhaps, but underneath, a good guy. |
 | half-timbered | 半木结构式的（仿古建筑样式，此处指那家酒馆） | A half-timbered, mock-Tudor gastropub of the kind that Iris would never choose, but where Woody could pass unnoticed. |
 | unfounded | 毫无根据的（此处指她担心会被扣上的指控） | Or would she assume I was crazy, making unfounded accusations against a man I barely knew? |
 | avuncular | 叔伯式的、像大哥一样的（此处写他说话时的口气） | But his was a constant monologue, self-satisfied and avuncular, covering everything from politics to his fitness regime, humour to nutrition, and requiring nothing by way of response but occasional validation. |

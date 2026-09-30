@@ -10,18 +10,18 @@ modified: "2026-09-30"
 - **一句话概括**： 同一天（3 月 30 日）的下午，她在书店里确认自己「不一样了」，去搜了一下 Finchley Fliers 这支跑团，琢磨自己为什么想要朋友，也把 Amazon Guy 的购书方向调成了实体店；最后在 Salena 的追问下点了头。
 - **情感弧线位置**： 承接 ch21 的怒气但给它换了个用途：愤怒开始变成日常手艺——整理书目、安排一个陌生人的消费决定；而「想交个朋友」也从疯话变成一件可以点头答应的事。
 - **线索伏笔**： ① 开头那句「你在发光」把性与更年期绑在一起；② 她学会用「把他们摆正」来安放 Salena 的怀疑，书店这条线开始产生属于她自己的账目；③ 中间对 Dante 的一段是全书对母职最直接的一次自我修正；④ Amazon Guy 那套手法是可复用的，后文她还会用在别处。
-- **人物弧线**： 她第一次承认「想要朋友」这件事对她而言近乎背叛婚姻；Dante 那一段则把「我以为我能把他变成我以为他会成为的人」写成一句认错。
+- **人物弧线**： 在本章她承认「想要朋友」这件事对自己而言近乎背叛婚姻；Dante 那一段则把「我以为我能把他变成我以为他会成为的人」写成一句认错。
 - **叙事手法**： 与 ch21 同日期的后半段：承接动作、不承接情绪。日记体里嵌进大段自我审视，用三个递进的复盘给新能力做风险评估，最后以一个「Maybe」收束。
 
 ## 精读
 
-> **原句 1:** "‘You’re glowing.’ She grinned. ‘You look as if you’ve just had either great sex, or a really good breakfast. Or both.’"
+> **原句 1:** "‘You look as if you’ve just had either great sex, or a really good breakfast. Or both.’"
 
-**中文理解**： Salena 一进门就笑，说她在「发光」：看起来不是刚过了极好的一夜，就是吃了一顿非常好的早餐——也可能两样都有。
+**中文理解**： Salena 一进门先说她「在发光」，接着补一句：看起来不是刚过了极好的一夜，就是吃了一顿非常好的早餐——也可能两样都有。
 
-**关键词**： You’re glowing（你在发光）· just had either great sex（刚过了极好的一夜）· Or both（或者两样都有）
+**关键词**： just had either great sex（刚过了极好的一夜）· a really good breakfast（一顿非常好的早餐）· Or both（或者两样都有）
 
-**为什么这样写**： Salena 的恭维是全书少有的、双关没有被拆掉的时刻：两种可能并排放着，谁都不点破，笑意留在 or both 里。叙述者立刻自己把答案改掉，说明这份夸奖她其实接不住——而被恭维的人正想被人恭维。
+**为什么这样写**： Salena 的恭维是全书少有的、双关没有被拆掉的时刻：great sex 与 great breakfast 两种可能并排放着，谁都不点破，笑意留在最后那三个词里。叙述者立刻自己把答案改掉，说明这份夸奖她其实接不住——而被恭维的人正想被人恭维。
 
 **读者视角提示**： 这一句把「被看见」和「性」绑在一起，是她全书最想躲开、也最想得到的东西。
 
@@ -65,14 +65,13 @@ modified: "2026-09-30"
 
 > **原句 5:** "I thought of the way I’d used my rage as a defensive weapon. Then I thought of Jo Perry, and the way she’d tried to placate her murderer. I thought of the way I’d apologized to the man who’d attacked me, assuming that I was at fault. These instincts we have as women, conforming to expectations."
 
-**中文理解**： 她回想自己怎样把怒气当成防身武器；又想到 Jo Perry，想起她曾试图安抚杀害自己的人；再想到自己昨天怎样向袭击她的男人道歉，认定错在自己身上。这些就是身为女人被装进身体里的本能，顺从期待。
+**中文理解**： 她回想自己怎样把怒气当成防身武器；又想到 Jo Perry，想起她试图安抚杀害她的人那副样子；再想到自己昨天怎样向袭击她的男人道歉，认定错在自己身上。这些就是身为女人被装进身体里的本能，顺从期待。
 
-**关键词**： my rage as a defensive weapon（把怒气当防身武器）· placate her murderer（安抚杀害她的人）· conforming to expectations（顺从期待）
+**关键词**： my rage as a defensive weapon（把怒气当防身武器）· placate her murderer（安抚那个动手杀人的人）· conforming to expectations（顺从期待）
 
 **为什么这样写**： 三个递进的复盘把「昨天的胜利」翻成三条女性自证公式：先发火的是我所以我得反击，先被激怒的是我所以错在我，先被杀的是她所以她得先去安抚。assumed（认定）把责任直接内化，末句再用「我们作为女人」把私人习惯升成共性。
 
 **读者视角提示**： 本章由此给出全书最冷的一句判断：她的新能力越顺手，这些旧公式就越危险。
-
 
 ## 本章词汇
 

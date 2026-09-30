@@ -69,7 +69,7 @@ modified: "2026-09-30"
 
 **关键词**： a splinter of mirror in a boy’s eye（嵌进男孩眼里的镜片碎屑）· You made them look（是你让他们看了的）
 
-**为什么这样写**： 这是全书第一句把童年那句命令原样还给她的话，而它紧跟在一整段为男性网暴辩护的转写后面，质问的对象却是她自己。镜片的碎屑是可以留在肉里的创伤，也是魔术的道具——两种含义在同一句里同时生效。
+**为什么这样写**： 这是童年那句命令被原样还给她的话，而且是以质问的形式——质问的对象恰恰是她自己。镜片的碎屑是可以留在肉里的创伤，也是魔术的道具——两种含义在同一句里同时生效。
 
 **读者视角提示**： 回到第一章去对读：当年她只被要求「让他们看看」，从没人告诉她这要付什么代价。
 
@@ -93,7 +93,7 @@ modified: "2026-09-30"
 
 **关键词**： use my own mirrors（用她自己的镜子）· to make the Sphinx disappear（把斯芬克斯变没）· deflect his thoughts（让他的心思偏开）
 
-**为什么这样写**： 斯芬克斯之谜的谜底是「什么动物早上像人、中午像狮、傍晚像虫」，而魔术里的解法是角度与镜子——作者把「人性之谜」直接兑换成一个舞台技术，让干预听起来像魔术而不是袭击。deflect 一词用得极轻：她只说把注意力引开，没说引向哪里。
+**为什么这样写**： 斯芬克斯是这一卷里唯一以神话命名的魔术原理，而作者交给它的解释只有镜子：换一个角度，同一样东西就不必是它自己。作者把一个看似哲学的问题兑换成舞台技术，于是干预听起来像魔术，不像袭击。deflect 一词用得极轻：她只说把注意力引开，没说引向哪里。
 
 **读者视角提示**： 全章停在这句之后，下一行只剩一个咒语词。至于生效没有、改变了什么，本章一个字都没交代。
 
@@ -101,10 +101,6 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
-### ⭐⭐⭐ 高级
-
-| 词/短语 | 释义 | 例句 |
-|------|------|------|
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
@@ -119,14 +115,14 @@ modified: "2026-09-30"
 | undeserving | 不值得的（两尊前妻像的判词） | Two tumbled statues on the marble floor below represent his ex-wives, both harpies who proved themselves undeserving of his love. |
 | heliographing | 用日光镜打信号（此处写她房里闪出的情绪信号） | A series of flashes from her house, heliographing her sentiments. |
 | murmuration | 椋鸟群（她写潮热像一群鸟在发根聚集） | Soon they would become a murmuration. |
-| superpowers | 超能力（她朋友对她的用法） | Use your superpowers. |
+| autobiography | 自传（出版方在这章里争相要买的那本） | Ironically, several publishers have offered him large advances for his autobiography. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| epiphany | 顿悟、大彻大悟（她说这天没有） | There was no great epiphany. |
-| ephemeral | 短暂的、转瞬即逝的（她形容那些梦中的女孩） | Dream girls are ephemeral. |
+| solutions | 解法、出路（她对「人」这件事的结论） | With human beings, there are no easy solutions. |
+| teaching | 教学（那桩案子的社会后果落在哪个职业上） | There are calls to tighten up the rules on who is allowed to enter the teaching profession. |
 | trending | 正在热搜、正在流行（话题标签被顶上来的说法） | Online, #NotAllMen is trending. |
 | overused | 被用滥的 | The phrase ‘one bad apple’ is overused, prompting me to wonder whether any of these people have ever arranged a fruit bowl. |
 | splinter | 碎片（这里是一片嵌进眼睛的镜片） | But a splinter of mirror in a boy’s eye can change the way he sees the world. |
@@ -150,19 +146,6 @@ modified: "2026-09-30"
 | press | 报刊媒体 | Martin doesn’t see anything right now, except his most famous client, doggedly trashing his legacy in the Press and on social media. |
 | tweet | 推文（她逐条读并转写） | Predictably, his tweet has provoked some anger. |
 | work | 上班 | When Martin had gone to work, I put on the red dress and the stolen shoes (patent red, block-heeled, and tall as a giant redwood), and looked at myself in the bedroom mirror. |
-<<TIERS103>>
-
-### ⭐⭐ 进阶
-
-| 词/短语 | 释义 | 例句 |
-|------|------|------|
-<<TIERS109>>
-
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|------|------|------|
-<<TIERS115>>
 
 ## 一句话总结
 

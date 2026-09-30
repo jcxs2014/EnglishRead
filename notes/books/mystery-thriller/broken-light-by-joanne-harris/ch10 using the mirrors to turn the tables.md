@@ -9,7 +9,7 @@ modified: "2026-09-30"
 
 - **一句话概括**：阿基米德的镜子、阿基米德的战术。Rohypnol 要二十分钟才发作，她等了十五分钟就进去了；她记住那个人挑角落坐、记住饮料里加了什么，只看够用的一眼——她不读 Iris 的记忆，因为未经允许再看一步，她就和 Woody 没什么两样。药效一起，她伸手碰了他一下、同时握住 Iris 的手，把她的昏沉与他的清醒对调：碎片撒了一地，什么也没碎，什么也没丢。
 - **情感弧线位置**：上一章（ch09）的风险是「我疯了」，本章的风险变成「这也太容易了」。她自己都觉得干净得可疑：没有碎盘子、没有秘密外泄、心跳几乎没加快。于是一场拯救以魔术的手法完成，而完成之后她连一句实话都没能对 Iris 说出来。
-- **线索伏笔**：① 内心批判者把她的行为重新命名成小女孩去玩男孩的玩具箱；② 她从 Iris 头上摘下来的那枚记忆是一枚黄气球，属于她自己童年的夏天；③ 剂量是她控着的，作用只是让人睡两小时；④ Iris 临走前自己去他外套里拿了钱——这一笔把本章的力量关系整个翻了过来。
+- **线索伏笔**：① 内心批判者把她的行为重新命名成小女孩去玩男孩的玩具箱；② 她从 Iris 头上摘下来的那枚记忆，是一枚飘走的黄气球和一片夏日的天空；③ 剂量是她控着的，作用只是让人睡两小时；④ Iris 临走前自己去他外套里拿了钱——这一笔把本章的力量关系整个翻了过来。
 - **人物弧线**：Bernie 以为自己是来收拾残局、充当保护者的，结果整晚最完整、最有决断的人变成了 Iris；当对方反过来要她上车、要她说清楚时，她第一次发现自己解释不清，而 Iris 恰恰没有追问到底。
 - **叙事手法**：2022 线继续，仍是同一晚（ch11 是当晚回家路上与到家之后）。本章大量回扣舞台与魔术术语（聚光灯、滚鼓、观众席的静默、桌上的桌布），把第一部那场演出与这一次干预焊在一起；换状态的过程则被写成一道菜：用一次味觉交换（草莓夹心糖换猪肉派）来解释一次意识交换。
 
@@ -65,7 +65,7 @@ modified: "2026-09-30"
 
 > **原句 5:** "For a second, I had a foot in both their houses. Hers was soft and sleepy as pastel cashmere, his was a marauder’s maze, all barbed wire and stacked garbage."
 
-**中文理解**： 有那么一秒钟，她两只脚踏进了他们两个人的房子里。她的那边柔软、昏睡，像一条粉色的开司米；他的那边是一座劫掠者的迷宫，到处是带刺的铁丝和堆起来的垃圾。
+**中文理解**： 有那么一秒钟，她两只脚踏进了他们两个人的房子里。她的那边柔软、昏睡，像一匹粉彩色的羊绒；他的那边是一座劫掠者的迷宫，到处是带刺的铁丝和堆起来的垃圾。
 
 **关键词**： a foot in both their houses（两只脚踏进了他们两个人的房子）· all barbed wire and stacked garbage（到处是带刺的铁丝和堆起来的垃圾）
 
@@ -85,7 +85,7 @@ modified: "2026-09-30"
 
 **读者视角提示**： 记住这个问句。它比整章任何一句魔法描写都更能说明这本书接下来要去哪里。
 
----
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -118,7 +118,7 @@ modified: "2026-09-30"
 | authority | 权威、威势（此处写 Iris 身上那种安静的掌控力） | I found myself responding instinctively to her air of quiet authority, as if I, and not she, were the victim. |
 | instinctively | 本能地（此处写她下意识地被那种气势带着走） | I found myself responding instinctively to her air of quiet authority, as if I, and not she, were the victim. |
 | expectation | 预期（此处说她完全没料到自己会被无视） | She had no fear of the traffic; no expectation of being ignored. |
-| distant | 遥远的、隐隐的（此处形容酒馆里的音乐与人声） | But the night was damp and cool, and there was a distant scent of smoke. |
+| distant | 远远飘来的、若有若无的（此处指夜风里那股烟味） | But the night was damp and cool, and there was a distant scent of smoke. |
 | consent | 同意（此处是她给自己定的边界） | Looking further without her consent would have made me no better than Woody. |
 
 ### ⭐ 基础
@@ -126,10 +126,10 @@ modified: "2026-09-30"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | drink | 那一杯、饮料（本章的操作对象） | Iris had almost finished her drink. |
-| pub | 小酒馆（英式说法；此处是仿都铎式的那一家） | No one came after us from the pub; from inside came the distant drone of music and conversation. |
+| pub | 小酒馆（英式说法；全章的关键场所） | No one came after us from the pub; from inside came the distant drone of music and conversation. |
 | bedtime | 就寝时间（此处写他睡过去的样子） | He slipped gently into sleep, like a child up past his bedtime, and she stood up, abruptly alert, and crackling with nervous energy. |
 | glass | 杯子、酒杯（她拿起来喝干的那一只） | You slip the drug into the can, or sometimes straight into the glass. |
-| bench | 长凳（此处是 Pub 里的座位） | I sat on the bench, feeling the hot flash rise to my face; to my scalp; to my neck; to the roots of my hair. |
+| bench | 长凳（此处是她坐下喘气的地方） | I sat on the bench, feeling the hot flash rise to my face; to my scalp; to my neck; to the roots of my hair. |
 | cab | 出租车（本章结尾她拦车的动作） | ‘We should get a cab home,’ she said. |
 | wallet | 钱包（Iris 自己伸手去拿的那一只） | She stooped as if to kiss him goodnight, then, reaching inside his jacket, she pulled out his wallet, removed a wad of twenties, then replaced the wallet before turning to me. |
 | sleep | 睡着（本章被交换掉的两种状态之一） | He slipped gently into sleep, like a child up past his bedtime, and she stood up, abruptly alert, and crackling with nervous energy. |

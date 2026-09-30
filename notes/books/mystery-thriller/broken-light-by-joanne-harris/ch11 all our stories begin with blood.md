@@ -9,7 +9,7 @@ modified: "2026-09-30"
 
 - **一句话概括**：全章不到三页，只做三件事：把这一天结算成一句脏话；让心里那个声音第一次软下来，而她顺势把「不过是荷尔蒙」这句话反过来念——激素不是借口，激素是人体里最强大的力量；最后由叙述者自己给出一条政治性结论：所有故事都从血开始。
 - **情感弧线位置**：这一天结束了，但她没有结束。上一章（ch10）她救下了 Iris，本章她开始想要更多——最后两行写的是「有些女人会欢迎这个」与「有些女人会走得更远」。那不是胜利宣言，是危险宣言。
-- **线索伏笔**：① 母亲打来三通未接电话（本线下一章之前一直悬着）；② 浴缸里的水变红——她自己在上一章也出了血；③ 全章只提出问题不给答案：如果这一切都是真的，拿到这种力量之后要拿它做什么。
+- **线索伏笔**：① 母亲打来三通未接电话，本章没有交代结果；② 她泡澡时发现水变成红色，只给了一句自我厌恶，没有解释；③ 全章只提出问题不给答案：如果这一切都是真的，拿到这种力量之后要拿它做什么。
 - **人物弧线**：本章是转折点。前半段她还在自我说服（他只是喝多了；这只是脑子糊了），后半段她把这种说服整个反用：激素不是借口，是力量。
 - **叙事手法**：2022 线的最短一章，无对话、散点式。几处只有一个短句的段落（两句关于今天的话、最后两句关于女人的话）像敲击，前后夹着两段长论述。叙述从私人记忆升级为公开宣言，用词也随之从日常词切到抽象名词：力量、变化、发育、人格。
 
@@ -49,7 +49,7 @@ modified: "2026-09-30"
 
 **读者视角提示**： 记住最后那两行独立成段的短句：有些女人会欢迎这个，有些女人会走得更远。它不是收尾，是提问。
 
----
+
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -86,7 +86,7 @@ modified: "2026-09-30"
 | body | 身体（本章最常出现的词之一） | My body ached, and I could feel dull pain in my lower abdomen. |
 | bath | 浴缸、洗澡（此处是她的收场方式） | In these cases, DeeDee LaDouce (now forever LaDouche) recommends turning off all screens, then a warm bath, with essential oils, and maybe a glass of iced cucumber water if you’re feeling especially stressed. |
 | phone | 手机（她到家后关掉的东西） | I had to make do with Epsom salts and a large glass of Merlot, but turning off the phone felt good. |
-| water | 水（此处是那缸变成红色的水） | In these cases, DeeDee LaDouce (now forever LaDouche) recommends turning off all screens, then a warm bath, with essential oils, and maybe a glass of iced cucumber water if you’re feeling especially stressed. |
+| steam | 蒸汽、水汽（此处是浴缸上方升起的那一片） | Steam rose into the air and hung in sheets at the windows. |
 | truth | 真相（此处说真相亮到让人看不见） | Just as the mind sometimes refuses to see the truth. |
 | pain | 痛（此处是她感到的那种钝痛） | My body ached, and I could feel dull pain in my lower abdomen. |
 | blood | 血（本章的题目） | All our stories begin with blood. |

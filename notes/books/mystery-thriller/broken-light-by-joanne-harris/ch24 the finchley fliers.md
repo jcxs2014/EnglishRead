@@ -7,11 +7,11 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**： 3 月 31 日傍晚，Bernie 第一次走进 Finchley Allsports 参加 The Fliers 的慢跑训练，认识了 Alex、Leonie、Rahmi 与 Steph，在谈话里说出了三十周年的高中聚会和一句被截断的话；跑完全程回家时，发现 Woody 倒在她家客厅的地板上。
-- **情感弧线位置**： 2022 线第一次「成功」——不是报复的成功，而是一群陌生女人愿意接住她的那种成功；结尾那一倒立刻把这一切重新压回悬案。
+- **一句话概括**： 3 月 31 日傍晚，Bernie 走进 Finchley Allsports 参加 The Fliers 的慢跑训练（ch22 里她对 Salena 的「Maybe I will」还只是口头应允），认识了 Alex、Leonie、Rahmi 与 Steph，在谈话里说出了三十周年的高中聚会和一句被截断的话；跑完全程回家时，发现 Woody 倒在她家客厅的地板上。
+- **情感弧线位置**： 本段的走向是一次「成功」——不是报复的成功，而是一群陌生女人愿意接住她的那种；结尾那一倒立刻把这一切重新压回悬案。
 - **线索伏笔**： ① 「做像女孩的事就等于做不好」这条判断在本章被说了出来，是全书论点；② Steph 与那段音乐说明她的能力在熟人面前会犹豫；③ Alex 那个没有被探索的房间留下一个男孩的影子；④ Woody 当夜出现在她家，为下一章的处置提供了条件。
-- **人物弧线**： Salena 从同事变成担保人（她替 Bernie 作证「她是我的朋友」）；Leonie 用一句话取消了 Bernie 的自我审查；而 Bernie 第一次把三十年前那句没说完的祈使句说出了头。
-- **叙事手法**： 2022 线最长的一章，双场一次切换（运动店与自家客厅），中间靠 Leonie 的问答接力。引语在本章后段第一次脱离对白，成为独立成行的祈使句。
+- **人物弧线**： Salena 从同事变成担保人（她替 Bernie 作证「她是我的朋友」）；Leonie 用一句话取消了 Bernie 的自我审查；而 Bernie 在日记里把三十年前那句没说完的话接上了——写成独立成行的一句。
+- **叙事手法**： 双场一次切换（运动店与自家客厅），中间靠 Leonie 的问答接力。引语在本章后段脱离对白，成为独立成行的祈使句。
 
 ## 精读
 
@@ -21,7 +21,7 @@ modified: "2026-09-30"
 
 **关键词**： today’s surprise bestseller（今天的意外畅销书）· Kafka’s Choice last week（上周是 Kafka’s Choice）· all men (yes, all men)（所有男人（是的，所有男人））
 
-**为什么这样写**： 书店这一章的流水账句其实是全书对新能力的第一次财务记账。题材全部指向更年期的日常困扰，销量却要归功于一本男性作家的书，这个错位由 at least, that’s what Salena thinks 轻轻点破；真正的反驳塞在括号里——yes, all men，既是补充又是否定。
+**为什么这样写**： 书店这一章的流水账句其实是对新能力的一次财务记账。题材全部指向更年期的日常困扰，销量却要归功于一本男性作家的书，这个错位由 at least, that’s what Salena thinks 轻轻点破；真正的反驳塞在括号里——yes, all men，既是补充又是否定。
 
 **读者视角提示**： 这一章的流水账与 ch22 书店里的那句「十九位客人」是同一种记账法：她开始有自己的账目了。
 
@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **关键词**： younger, fitter (better)（更年轻、更合身（更好））· take one look, and laugh at me（只要看一眼就会笑我）· just as they had at Mulberry House（正如当年在 Mulberry House 那样）
 
-**为什么这样写**： 括号里那个 better 是叙述者替小说店补上去的：她在做旧日的算术——别人的「合身」等于我的「更好」。Mulberry House 第一次进入 2022 线，三十年前女校那套评判标准被直接接到今天的运动店门口。
+**为什么这样写**： 括号里那个 better 是叙述者替小说店补上去的：她在做旧日的算术——别人的「合身」等于我的「更好」。女校名 Mulberry House 早在 ch06 就进过 2022 线，而 Mulberry High 在本章之前从没被念到——三十年前那套评判标准就是这样被直接接到今天的运动店门口的。
 
 **读者视角提示**： 她担心的仍然是「被看出来」。这与 ch20 里 Kate 视角说的「没有人主动为难她，也没有人费心与她做朋友」是同一种伤。
 
@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 > **原句 4:** "With a sudden jolt of surprise, I recognized Steph among them; she gave me a brief and welcoming smile, then set off ahead of the others. For a second, I felt a flash of unease at our previous intimacy. Then came the sound of Schubert through the windows of her house, and then she was gone, like the memory of a half-forgotten dream."
 
-**中文理解**： 她猛地一惊，认出 Steph 就在人群里；Steph 给了她一个短促而热情的smile，转身先跑开了。有那么一瞬，她为从前那段亲密感到一阵不安。接着传来从她家窗户飘出的舒伯特，然后人就走了，像一段半被忘掉的梦的记忆。
+**中文理解**： 她猛地一惊，认出 Steph 就在人群里；对方给了她一个短促而热情的微笑，转身先跑开了。有那么一瞬，她为从前那段亲密感到一阵不安。接着传来从她家窗户飘出的舒伯特，然后人就走了，像一段半被忘掉的梦的记忆。
 
 **关键词**： a sudden jolt of surprise（猛地一惊）· unease at our previous intimacy（为从前那段亲密不安）· like the memory of a half-forgotten dream（像半被忘掉的梦的记忆）
 
@@ -63,25 +63,25 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 5:** "‘Bullshit. Everyone has a reason,’ said Leonie. ‘People run to gain confidence, or strength, or endurance, or to outrun their ex, or to say “fuck you” to cancer. There’s always a reason. Hold on to yours. It’ll keep you coming back.’"
+> **原句 5:** "‘People run to gain confidence, or strength, or endurance, or to outrun their ex, or to say “fuck you” to cancer. There’s always a reason. Hold on to yours. It’ll keep you coming back.’"
 
-**中文理解**： Leonie 说：屁话。每个人都有理由。人们跑步是为了自信、为了力量、为了耐力、为了跑赢前任，或者为了对癌症说一声去你的。理由总是有的。抓住你自己那个，它会让你一次次回来。
+**中文理解**： Leonie 说：人们跑步是为了自信、为了力量、为了耐力、为了跑赢前任，或者为了对癌症说一声去你的。理由总是有的。抓住你自己那个，它会让你一次次回来。
 
-**关键词**： Everyone has a reason（每个人都有理由）· outrun their ex（跑赢前任）· Hold on to yours（抓住你自己那个）
+**关键词**： gain confidence, or strength, or endurance（为了自信、力量、耐力）· outrun their ex（跑赢前任）· Hold on to yours（抓住你自己那个）
 
-**为什么这样写**： 一句粗口取消了「先证明资格」这套程序；四个 or 排比把动机写得毫无高低之分，连最重的那一条也用脏话收尾，不留给它任何庄严。Hold on to yours 是命令，却是这本书里第一次有人教她怎么使用自己。
+**为什么这样写**： 四个 or 排比把动机写得毫无高低之分，连最重的那一条也用脏话收尾，不留给它任何庄严。Hold on to yours 是命令，却是本段里有人头一次教她怎么使用自己——而不是先教她凭什么配。
 
 **读者视角提示**： 她接下来的回答正是这套程序的终点——她给出了那场三十周年的聚会，以及聚会背后那条被截断的旧命令。
 
 ---
 
-> **原句 6:** "‘There’s a party I’m meant to be going to,’ I said. ‘I suppose that was my reason. The thirtieth anniversary of my last year in high school. I wasn’t so happy in high school. I didn’t make the most of it. And I want –’"
+> **原句 6:** "‘I suppose that was my reason. The thirtieth anniversary of my last year in high school. I wasn’t so happy in high school. I didn’t make the most of it. And I want –’"
 
-**中文理解**： 她说：有一场聚会我本来是要去的。我想那就是我的理由——我高中最后一年的三十周年。我在高中过得并不快乐，也没有把它过得最好。而我想要——
+**中文理解**： 她回答：我想那就是我的理由——我高中最后一年的三十周年。我在高中过得并不快乐，也没有把它过得最好。而我想要——
 
-**关键词**： a party I’m meant to be going to（一场我本来要去的聚会）· The thirtieth anniversary of my last year in high school（高中最后一年的三十周年）· I didn’t make the most of it（我没有把它过得最好）
+**关键词**： I suppose that was my reason（我想那就是我的理由）· The thirtieth anniversary of my last year in high school（高中最后一年的三十周年）· I didn’t make the most of it（我没有把它过得最好）
 
-**为什么这样写**： 句子停在 And I want 处被截断，这是本章的结构机关：说话人自己停住，而两段之后补上的不是字面意思，是 ch01 那个祈使句。Leonie 抢先给的「You want to show them」是一次错误翻译，这次的断句让正确答案隔空落下。
+**为什么这样写**： 句子停在 And I want 处被截断，这是本章的结构机关：说话人自己停住，而两段之后补上的不是字面意思，是 ch01 那个祈使句。Leonie 抢先给的「You want to show them」是一次错误翻译，这次的断句让正确答案隔空落下——她被截断的那半句，其实是被 ch01 截断过的那半句。
 
 **读者视角提示**： 三十年前她在场却没有被看见；这一章她要靠跑步重新走进去。上一章 ch23 停在 Woody 昏倒的消息上，本章先把那条线挂起。
 
@@ -108,7 +108,6 @@ modified: "2026-09-30"
 **为什么这样写**： 整章以气味开场、以身体动作收场，中间六页都在为这一倒积蓄她「已经有了一个新身份」的确信。T恤上的标语提前把读者的怀疑说破，而叙述者只来得及 register（辨认）——她跑得越顺，屋里的画面就越突然。
 
 **读者视角提示**： ch23 停在他昏倒了一次，本章停在他再次昏倒；两章之间她还没有动手，却已经想好用哪种语气跟他说话了。
-
 
 ## 本章词汇
 
@@ -157,4 +156,4 @@ modified: "2026-09-30"
 
 ## 一句话总结
 
-她第一次跑完全程、第一次被人接住、第一次把三十年前那句没说完的话说出口——然后在自家门口看见一个倒地的人，把这一切重新压回悬案。
+她跑完全程、被人接住、把三十年前那句没说完的话在日记里写了出来——然后在自家门口看见一个倒地的人，把这一切重新压回悬案。

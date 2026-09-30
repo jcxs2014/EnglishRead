@@ -31,7 +31,7 @@ modified: "2026-09-30"
 
 **中文理解**： 一则新闻的正文：四十二岁的伦敦私人教练患上一种连医生都束手无策的病——只要接触某些特定的词或短语，他就会陷入两到六小时的深睡。他身上没有任何可以解释的生理症状；已知的触发词包括 woke、feminist、females、abortion、pills、pro-choice、transgender、relax，以及最荒唐的一个：doughnut。
 
-**关键词**： developed a condition（患上一种病）· had doctors baffled（让医生束手无策）· fall into deep sleep（陷入深睡）· most bizarrely（最 bizarre 的那个）
+**关键词**： developed a condition（患上一种病）· had doctors baffled（让医生束手无策）· fall into deep sleep（陷入深睡）· most bizarrely（最离谱的那一个）
 
 **为什么这样写**： 新闻腔在这里被当成叙事装置来用：先给一个足够离奇的病症，再把触发词列成清单。荒诞感不来自叙述者的评论，而来自引用本身——政治词与甜甜圈并排躺在同一串清单里，读者自己会笑。叙述者只在清单末尾加了一个副词 most bizarrely，几乎不出声，正是她后文自认的「我已经三十年不提这件事」的克制。
 

@@ -9,7 +9,7 @@ modified: "2026-09-30"
 
 - **一句话概括**：2022 年 3 月 26 日清晨，Bernie 从一个掐住脖子的梦里醒来，摸到的是自己睡裙上的血与床垫上的血；同一天上午她在 Twitter 上刷到一条本地新闻，认出死者正是两周前在她书店买过书的 Jo Perry；帖子下的评论区把她逼着承认：她知道凶手是怎么动手的、动了多久，甚至觉得那感觉不错。
 - **情感弧线位置**：2022 线的引爆位。此前她只是失眠、潮热、睡不好；本章有人死在她够得着的范围内，而她掌握着不该掌握的信息。恐惧由此转成一种不打算再沉默的怒气，ch04 起那条线才会变成实际的调查。
-- **线索伏笔**：① 梦的听觉锚点 Neneh Cherry 的 Manchild，与新闻里死者当时正在听的歌是同一首；② 死者卫衣上 Feminist Killjoy 那行字，以及被追问的「为什么她要穿这件」；③ Martin 的密码 DreamgirlKatie；④ 客人房里那张常年铺好的床，从空置到被 Dante 占用；⑤ 那条 Mattress 上形状像分号的污渍。
+- **线索伏笔**：① 梦的听觉锚点 Neneh Cherry 的 Manchild，与新闻里死者当时正在听的歌是同一首；② 死者卫衣上 Feminist Killjoy 那行字，以及被追问的「为什么她要穿这件」；③ Martin 的密码 DreamgirlKatie；④ 客人房里那张常年铺好的床，从空置到被 Dante 占用；⑤ 床垫上那块形状像分号的污渍。
 - **人物弧线**：Bernie 在这一章里不再只是「被删掉的人」：她从被动的梦醒过来，动手把床垫翻面，主动点开那条新闻，再在评论区里亲自下场。她的对手不是某个男人，而是评论区那一整套把「女的活该」当常识的说法。
 - **叙事手法**：日记体（LiveJournal + 日期行 + 展品编号）＋ 梦与新闻的双线缝合：作者先让读者以为那只是一个关于身体和更年期的梦，再在同一章用评论区的发言把两条线焊死。⚠️ 本章的上一章（ch02）属于 1992 线，与本章不是同一条时间线，写「前文」时不能直接顺接。
 
@@ -21,9 +21,9 @@ modified: "2026-09-30"
 
 **关键词**：The curse is come upon me（诅咒已经落在我身上）· cried The Lady of Shalott（莎洛特夫人喊道）
 
-**为什么这样写**：题词借来的是一位拒绝直视真实世界的女人的结局；而这一章里的 Bernie 恰恰相反——她看，而且看见的比自己该看见的多。curse 这个词在本章反复换主人：母亲当年把不来月经叫作 The Curse，叙述者醒来后也照着母亲的叫法说「我以为已经过去了」，最后同一口气又落到被杀的女人身上。
+**为什么这样写**：题词借来的是一位拒绝直视真实世界的女人的结局；而这一章里的 Bernie 恰恰相反——她看，而且看见的比自己该看见的多。这个词在本章反复换主人：母亲当年把月事叫作 The Curse；丈夫那句「不是早就完了吗」触到它，叙述者的反应是「我想我知道那是什么意思了」；同一口气，它又落到被杀的那个女人身上。
 
-**读者视角提示**：标题与题词是同一个装置：先给出一个被诅咒的处境，再让读者等作者说出诅咒从何而来。记住这个术语，它在本章会以三种身份反复回来。
+**读者视角提示**：标题与题词是同一个装置：先给出一个被诅咒的处境，再让读者等作者说出诅咒从何而来。记住这个术语：它在本章换着身份出现，一次比一次更重。
 
 ---
 > **原句 2:** "All our stories begin with blood."
@@ -34,7 +34,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：它既是正文的引子，也是对上一章末尾那句孤零零短句的回应：那边只陈述了一件事，这边把它抬成规矩。位置也讲究——放在日记日期之前，等于让读者先拿到一条总纲，再被交接到某个具体的一天。
 
-**读者视角提示**：「全都」两个字的分量在这里最重：上一章的节选体只答应了一个孩子的生日夜，这一句却说，所有故事都这样。读下去时请带着这句的分寸去衡量后面那些看起来很小的细节。
+**读者视角提示**：All 后面那个 all 在中文里是「全都」，分量在这里最重：上一章的节选体只答应了一个孩子的生日夜，这一句却说，所有故事都这样。读下去时请带着这句的分寸去衡量后面那些看起来很小的细节。
 
 ---
 > **原句 3:** "I try to turn. But his other hand has already moved to my throat. Too late, I try to scream – to breathe – but too late. He has moved in closer. The stink of his rage is overwhelming. A sense of suffocation, a pressure on the side of my neck, and a thought – This isn’t happening. This isn’t how it’s supposed to be, I was going to make pizza tonight, I was going to read to the kids, and maybe have a long, hot bath, with lavender oil, that’s good for stress, and oh, this can’t be happening, oh, let me live, oh, let me breathe –"
@@ -45,7 +45,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：最暴力的动作被塞进一句几乎不含形容词的句子里，紧接着句子整个滑进一串琐碎的日常打算。Too late 被反复使用，把「来不及」压成一段节拍；后面那串 oh 让节奏彻底散架。恐惧写得越具体，越像是一个普通周六晚上被人从中间打断。
 
-**读者视角提示**：这串打算不是闲笔：全章末尾，叙述者会告诉读者，被害的那个人当晚本来也要做披萨。到那一刻回头看，本段就是两份记忆叠在一起的地方。
+**读者视角提示**：这串打算不是闲笔：全章末尾，叙述者会告诉读者，Jo Perry 当晚本来也要做披萨。到那一刻回头看，本段就是两份记忆叠在一起的地方。
 
 ---
 > **原句 4:** "Lying there in the darkness; listening to the sounds from above; the footsteps of the living. Because that’s the worst thing about being dead. Everyone else goes on living. The sun keeps shining. Years come and go. People fall in love, and out. But not you. That’s over for you."
@@ -76,7 +76,7 @@ modified: "2026-09-30"
 
 **关键词**：Jo Perry is the victim（Jo Perry 是受害者）· Murder is not an accident（谋杀不是意外）· Loose women, like loose change（松散的女人，像零钱）
 
-**为什么这样写**：全书论点最直白的一次落地：fair game（任人下手）与 loose change（零钱）用的是同一套钱的比喻，而 loose 这个词同时挂着「松散」与「零钱」两义，一句话完成定性。ready access 指向另一层现实——受害者因为自己所处的位置而更容易被接近；作者把它摆上桌，是不让读者把评论区里的火气当成纯粹的刻薄。
+**为什么这样写**：全书论点最直白的一次落地，也是最不加修饰的一次：fair game（任人下手）与 loose change（零钱）用的是同一套钱的比喻，而 loose 这个词同时挂着「松散」与「零钱」两义，一句话完成定性。ready access 指向另一层现实——受害者因为自己所处的位置而更容易被接近；作者把它摆上桌，是不让读者把评论区里的火气当成纯粹的刻薄。
 
 **读者视角提示**：这个账号名在全书末尾还会以另一种形式再出现一次。读到收尾那一章时，请回到这段话重新读一遍：那时它的主语会换人。
 
@@ -89,18 +89,18 @@ modified: "2026-09-30"
 
 **为什么这样写**：把生理反应与政治判断接在同一根线上，再用 centuries（世纪）把个人情绪拉到历史尺度。It calls across cultures 与 It calls across race 这对同构短句，把愤怒写成一种跨界的语言；末句那个挂在破折号后的 yet 则把「还不知道」变成一张待兑现的欠条。
 
-**读者视角提示**：「还不知道自己的力量」是给整本书下的任务书。本章她只在线下打了一行字，任务书却写在这里；往后每一次她真正动手，都是在兑现这个 yet。
+**读者视角提示**：「还不知道自己的力量」是给整本书下的任务书。本章她只在评论区顶了一句，任务书却写在这里；往后每一次她真正动手，都是在兑现这个 yet。
 
 ---
 > **原句 8:** "He choked her from behind. I know. It doesn’t take long, if you know the technique. In any case, Jo Perry was unconscious in thirty seconds. He kept the hold for five minutes more, just to be certain. And it felt good, lying on top of her on the grass, face pressed hungrily into her hair."
 
-**中文理解**：他从背后掐住了她。我知道。如果懂手法，这不需要很久。无论如何，Jo Perry 在很短时间内就失去了意识。他又多掐了一会儿，只为确定无疑。而躺在草地上压在她身上、把脸贪婪地埋进她头发里，感觉很好。
+**中文理解**：他从背后掐住了她。我知道。如果懂手法，这不需要很久。无论如何，Jo Perry 三十秒内就失去了意识。他又多掐了五分钟，只为确定无疑。而躺在草地上压在她身上、把脸贪婪地埋进她头发里，感觉很好。
 
 **关键词**：He choked her from behind（他从背后掐住了她）· if you know the technique（如果懂手法）· face pressed hungrily into her hair（把脸贪婪地埋进她的头发）
 
 **为什么这样写**：本章最后一段用第一人称认领了一件本不该被知道的事：出手的角度、让人失去意识要多久、事后还要多按一会儿才放心，甚至承认「感觉很好」。if you know the technique 与 just to be certain 这类公文式措辞，把行凶者写成一个在核对流程的人；而最后一句让「我」躺进了那个姿势里——知道与实施之间的距离，被这段文字悄悄抹平。
 
-**读者视角提示**：到这里，本章的两条记忆合成一条：梦里那个正在做披饵、正在被掐脖子的陌生女人，与新闻里的 Jo Perry 是同一个人，而叙述者对这一切只给出一句最朴素的 I know。
+**读者视角提示**：到这里，本章的两条记忆合成一条：梦里那个正盘算着今晚要做披萨、正被掐住脖子的陌生女人，与新闻里的 Jo Perry 是同一个人，而叙述者对这一切只给出一句最朴素的 I know。
 
 ## 本章词汇
 

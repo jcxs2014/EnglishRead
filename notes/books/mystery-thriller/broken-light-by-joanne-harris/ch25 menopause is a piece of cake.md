@@ -8,8 +8,8 @@ modified: "2026-09-30"
 ## 本章导航
 
 - **一句话概括**： 救护车迟迟不来，她借着照看昏睡的 Woody 第二次进入他的记忆，把那一夜归档进「无关紧要」，又用三次试验找出昏厥的触发点是某一个词，最后以「他不是我的责任」收束。
-- **情感弧线位置**： 报复线第一次从念头变成操作。她既没有愤怒也没有愧疚，只剩下实验者的兴趣。
-- **线索伏笔**： ① 触发词机制（某一个词连着某种行为）此后会反复使用；② 第二次进他的房子所得与第一次并不对得上，说明她掌握的能力有盲区；③ Martin 与 Woody 在电话里把她的话题转成减肥，暴露两人共享的同一套偏见。
+- **情感弧线位置**： 报复线在这里从念头变成操作。她既没有愤怒也没有愧疚，只剩下实验者的兴趣。
+- **线索伏笔**： ① 触发词机制（某一个词连着某种行为）此后会反复使用；② 她把这一趟写成 searching his house again，而本章没有交代上一次看到了什么——能力的边界因此留着口子；③ Martin 与 Woody 在电话里把她的话题转成减肥，暴露两人共享的同一套偏见。
 - **人物弧线**： 本章的她是全书最冷的版本：她明确否认自己的责任。也正因为否认得这样轻松，上一章那个「为一场聚会去跑一次」的版本才显得珍贵。
 - **叙事手法**： 日期续章，同一条 2022 线的当天夜。全章以一场无人接管的等待为框架：急救电话的问答与后文两人对话的平行结构，提示她一直被当作症状讨论。
 
@@ -33,22 +33,21 @@ modified: "2026-09-30"
 
 **关键词**： take precedence（占先、优先）· file it under Irrelevance（把它归进「无关紧要」）· a better chance of his seeing me without a reaction（让他看见我时不那么有反应的可能）
 
-**为什么这样写**： 这是全书第一次把「看进房子」这项能力写成一页操作手册：三个否定短句先划出它做不到的事，再给出替代方案。push（推）与 file（归档）两个动词把记忆处理成抽屉——不是消除，是降级；而降级恰好够用。
+**为什么这样写**： 这一段把「看进房子」这项能力写成一页操作手册：三个否定短句先划出它做不到的事，再给出替代方案。push（推）与 file（归档）两个动词把记忆处理成抽屉——不是消除，是降级；而降级恰好够用。
 
-**读者视角提示**： 她明说这是第二次进这间房子。第一次看到了什么，本章没有交代。
+**读者视角提示**： 这一回她把进这间房子说成 searching his house again——上一次看到了什么，本章没有交代。
 
 ---
 
 > **原句 3:** "By the time the ambulance finally came, Woody had passed out three more times. The third time was during a conversation about cancel culture in publishing; specifically, at the word woke. How strange. I wonder how many other words or thoughts are linked to his behaviour. I faked concern for Martin’s sake, but I can’t find it in me to feel either guilt or sympathy. The thing I introduced into his mind isn’t dangerous. It’s more like a circuit breaker that will trip if he thinks of doing bad things. So no. I don’t feel guilty at all. He isn’t my responsibility."
 
-**中文理解**： 救护车终于来时，Woody 又昏过去三次。第三次是在聊出版业的取消文化时，具体地说，是在那个词上——就是那个表示「被冒犯」的词。多么奇怪。我不知道还有多少别的词或念头与他的行为连着。她为Martin 的缘故装出关切，可在自己心里既找不到愧疚也找不到同情。她引进他脑子的那样东西并不危险，更像一个断路器：等他想到做坏事时才会跳闸。所以不，她一点也不内疚。他不是她的责任。
+**中文理解**： 救护车终于来时，Woody 又昏过去三次。第三次是在聊出版业的取消文化时，具体地说，是在那个词上——就是那个表示「被冒犯」的词。多么奇怪。我不知道还有多少别的词或念头与他的行为连着。她为着 Martin 的缘故装出关切，可在自己心里既找不到愧疚也找不到同情。她引进他脑子的那样东西并不危险，更像一个断路器：等他想到做坏事时才会跳闸。所以不，她一点也不内疚。他不是她的责任。
 
-**关键词**： specifically, at the word woke（具体地说，是那个词）· what might trigger his episodes（什么能触发他的发作）· more like a circuit breaker（更像一个断路器）
+**关键词**： specifically, at the word woke（具体地说，是那个词）· words or thoughts are linked to his behaviour（词或念头与他的行为相连）· more like a circuit breaker（更像一个断路器）
 
 **为什么这样写**： 她做了三次试验，第三次得到一个词——全书最冷静也最锋利的一次诊断：不是催眠，不是药物，而是一个词与行为之间的固定连线。circuit breaker（断路器）是她给这套机制下的定义，要点在于它必须等对方自己「想到坏事」才跳闸，于是责任被完整地推回被改造的人身上。
 
 **读者视角提示**： 本章的落点是最后一句：他不是她的责任。下一章 ch26 转入 1992 线，这条 2022 线的账要隔一段才结。
-
 
 ## 本章词汇
 
@@ -92,4 +91,4 @@ modified: "2026-09-30"
 
 ## 一句话总结
 
-报复在这里第一次有了操作手册：把记忆归档、把词变成开关、把责任推给对方；写下来的是一句「他不是我的责任」，而这句话本身就是全书最重的那份口供。
+报复在这里有了操作手册：把记忆归档、把词变成开关、把责任推给对方；写下来的是一句「他不是我的责任」，而这句话本身就是全书最重的那份口供。

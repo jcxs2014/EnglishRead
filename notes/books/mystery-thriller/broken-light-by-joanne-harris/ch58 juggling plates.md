@@ -8,11 +8,10 @@ modified: "2026-09-30"
 ## 本章导航
 
 - **一句话概括**：她几乎一夜没睡，认定两场死亡都与 Iris 有关，却也知道那不是 Iris 的错——是她自己先把力量给了她；Jocelyn Moore 进了修道院，Philips 躲去母亲家，新出的网络红人忙着向每个遇到的人道歉；Pog Hill 的重聚派对不到三周，而 Iris 让她去用她的超能力。
-- **本章日期**：5 月 23 日星期一。上一章是 5 月 21 日，中间的周末她什么都没写成，只在开篇承认了整夜没睡。
 - **情感弧线位置**：悬置位。外部事件暂时收住——Philips 闭嘴、Crawley 已死、Woody 已死——压力全部内转成「我会不会害了她」的自问。
-- **线索伏笔**：① Jocelyn Moore 进修道院：献出一切之后的最后一件事。② Philips 去母亲家暂住，与她前一章动过的那面镜子直接相关。③ 新出的网络红人是一个到处道歉、盘子失控的年轻人。④ 重聚派对在即。⑤ 她看见 Iris 家镜子上的字条，知道对方也知道她在看。
-- **人物弧线**：她第一次说出「我抱着人抱得太紧，所以最后弄坏了他们」，并把这一次和上一次区别开来——这一次她打算先动手。
-- **叙事手法**：日记体，但社交媒体转写与手机短消息交替出现，把公开的愤怒和私下的哄劝压在同一页上。结尾由内心一句「你爱她」把全章的责任问题挑明，而她的回答是保证，不是计划。
+- **线索伏笔**：① Jocelyn Moore 进修道院：献出一切之后的最后一件事。② Philips 去母亲家暂住，与她前一章动过的那面镜子直接相关。③ 新出的网络红人是一个到处道歉、盘子失控的年轻人。④ 重聚派对在即。⑤ 她看见 Iris 家镜子上方那块写着恭维话的招牌，知道对方也知道她在看。
+- **人物弧线**：她在本章说出「我抱着人抱得太紧，所以最后弄坏了他们」，并把这一次和上一次区别开来——这一次她打算先动手。
+- **叙事手法**：2022 线日记体，日期行为 5 月 23 日星期一；上一章是 5 月 21 日，中间这个周末她一个字没写，只在开篇承认了整夜没睡。社交媒体转写与手机短消息交替出现，把公开的愤怒和私下的哄劝压在同一页上。结尾由内心一句「你爱她」把全章的责任问题挑明，而她的回答是保证，不是计划。
 
 ## 精读
 
@@ -36,7 +35,7 @@ modified: "2026-09-30"
 
 **为什么这样写**： 清单全部用分号平铺，不给任何一项优先级，于是「把 Iris 摁住」与「照看儿子」在语法上完全等价——这正是她真正害怕的东西：她的超能力看起来跟她的生活责任长得一模一样。前一句里盘子一个比一个高，把这份平铺的危险写成了技术难度。
 
-**读者视角提示**： 魔术秀的比喻在这里已经用旧了，作者也顺手用旧——它第一次出现在她还是观众的时候。
+**读者视角提示**： 「顶盘子」与「魔术秀」在本章是同一件事的两面：她担心的每一项都和她的超能力一样，失控只是时间问题。
 
 ---
 
@@ -48,7 +47,7 @@ modified: "2026-09-30"
 
 **为什么这样写**： shrunk 与 embraced 是一对精确的对仗，同一个动作在两个女孩身上给出完全相反的反应——这既是全书对「同一股力量」的处理原则，也是 Bernie 此刻全部焦虑的来源：如果力量不认人，只认胆量，那它当然会挑 Iris。
 
-**读者视角提示**： 退缩与拥抱这一对在全书还会再出现一次，出现在另一个人身上。
+**读者视角提示**： 退缩与拥抱这一对是本章的判词：同一股力量在两个女孩身上给出两种反应，区别只在胆量。
 
 ---
 
@@ -84,16 +83,12 @@ modified: "2026-09-30"
 
 **为什么这样写**： 本章的自我认识到此成形：她不再把责任推给「被剪掉的那个人」或「有力量本身」，而是认下一条属于自己性格的规律。最后那句把 perhaps 塞进从句里，把一次保证削成了半信；本章到此为止，她没有写任何计划。
 
-**读者视角提示**： 她也说过自己「完全能控制」。对照上一章末尾那句「我在控制」再看一次，两处一样的措辞，问题一样。
+**读者视角提示**： 对照 ch54 里她动手之前那句「我在控制」再看一次：这一次的 in 后面多了 complete，前面却多了一个 perhaps。
 
 ---
 
 ## 本章词汇
 
-### ⭐⭐⭐ 高级
-
-| 词/短语 | 释义 | 例句 |
-|------|------|------|
 ### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
@@ -115,39 +110,27 @@ modified: "2026-09-30"
 |------|------|------|
 | monastery | 修道院 | A further, deeper search reveals that he has joined a monastery. |
 | donating | 捐赠（他已经捐掉一个肾） | Having given all his possessions away, as well as donating a kidney, what does he have left to give? |
-| apologizing | 道歉（那位新红人唯一在做的事） | Leonie thinks I should stop apologizing for things, assuming guilt for things, and just be my authentic self. |
+| apologizing | 道歉（那位新红人一直在做的事） | Leonie thinks I should stop apologizing for things, assuming guilt for things, and just be my authentic self. |
 | juggling |  juggling 式的杂耍；此处是顶盘子 | I feel as if I am juggling plates, each one higher than the last. |
 | authentic | 真实的、原本的样子（朋友给她的建议） | Leonie thinks I should stop apologizing for things, assuming guilt for things, and just be my authentic self. |
 | embraced | 拥抱、接受（Iris 对那股力量的态度） | But while Katie shrank at what she found, Iris has embraced it. |
 | conspiracy | 阴谋 | On Twitter, @irisnoir23 writes in response to a tweet about Woody’s death: Why should there be a conspiracy? |
 | empathy | 同理心 | Where’s your sense of empathy? |
 | orbit | 轨道、势力范围（她那圈子里没人安全） | But a combination of Iris’ lack of empathy and her ‘fuck them up’ attitude means that no man in her orbit is safe. |
-| appetite | 胃口（此处不只指吃的） | But I know that she goes on Tinder, and that she has a healthy appetite for sex as well as food. |
+| Tinder | 交友软件（她说她一直在上面约人） | But I know that she goes on Tinder, and that she has a healthy appetite for sex as well as food. |
 | process | 消化、处理（此处指消化坏消息） | In actual fact, Martin is still struggling to process what happened to Woody. |
+| recognize | 认出来（她说没看视频也认得出那个人） | I haven’t seen the footage yet, but I think I would recognize him. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| pizza | 披萨（她的周六晚上） | Pizza and a movie. |
-| movie | 电影 | Pizza and a movie. |
+| party | 派对（不到三周的那一场重聚） | It’s less than three weeks now until the date of the Pog Hill reunion party. |
 | guy | 家伙（她评价那位出版圈人士） | That guy who wrote The Sphinx, right? |
-| party | 派对（不到三周的那一场） | It’s less than three weeks now until the date of the Pog Hill reunion party. |
 | kidney | 肾（他献出去的那一件） | Having given all his possessions away, as well as donating a kidney, what does he have left to give? |
-| apology | 道歉（他在镜头上低声说的那句） | A young man in a baseball cap; twisted with uncertainty; rooted to the spot as he whispers his apology. |
-<<TIERS92>>
-
-### ⭐⭐ 进阶
-
-| 词/短语 | 释义 | 例句 |
-|------|------|------|
-<<TIERS98>>
-
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|------|------|------|
-<<TIERS104>>
+| apology | 道歉（他在镜头里低声说的那一句） | A young man in a baseball cap; twisted with uncertainty; rooted to the spot as he whispers his apology. |
+| storm | 风暴（派对有时像一面倒下的墙） | On other days, it’s like a storm, with thunderheads about to collide. |
+| name | 名字（修道院里连这个也没有了） | There, he has no possessions; no family; not even his name. |
 
 ## 一句话总结
 
