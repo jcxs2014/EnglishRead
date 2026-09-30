@@ -6,7 +6,11 @@
 再写一条检查型规则没用（第 8 条早就写过），治法是换生产方式。
 
 硬门禁（任一不满足 → 退出码 2，**不写入**）：
-  1. **板消息长度**：默认 ≤20 行且 ≤5000 B（2026-09-29 由 2500 上调，字节是失控兜底），超出即拒收，并提示把细节挪到工作日志
+  1. **板消息长度**：默认 ≤20 行且 ≤5000 B（2026-09-29 由 2500 上调，字节是失控兜底），
+     超出即拒收，并提示把细节挪到工作日志。
+     ⚠️ 口径 = **只算正文**（`count_text(entry_body(...))`）：自动抬头那 2 行、
+     条目之间的分隔空行都不计入，**写入端与 `check` 体检端共用同一个函数**
+     （2026-09-30 修；此前两把尺子，见 `count_text` 的注释）
   2. **每书一条**：板与日志**各自**独立判重；同一本书已有条目时只允许 --append 就地追加，
      不允许再开新条目
   3. **基线检查**：写前 `git log -1 -- <file>` 必须存在（防「板上有、HEAD 上无」）
@@ -121,6 +125,47 @@ def board_entries(text):
     return out
 
 
+# ── 长度口径：全脚本唯一 ────────────────────────────────────────────────────────
+# 2026-09-30 修。此前同一份内容在三个地方量出三个数：
+#   ① 门禁 1 数**裸正文**（`body.count("\n")+1`，那时还没拼自动抬头）；
+#   ② 新建 board 时把抬头拼上后**又数一遍**（含抬头 2 行）；
+#   ③ `check` 体检数 `board_entries` 切片——除抬头外，切片还天然带着
+#      「本条抬头 → 下一条抬头」之间的**分隔空行**（2 个 `\n`）。
+# 实测后果：正文 12 行 → 写入门禁读 12、体检读 16；正文 17 行 → 门禁放行、
+# `check` 报 21 行判 ❌。于是「照写入端的 20 行写」会**稳定**产出体检红条，
+# 真实安全线被压到 16 行 —— 一把尺子两个刻度，且两处都"没写错"。
+# 现在统一到 `count_text(entry_body(x))`：**只算正文**，入参是裸正文还是整条目
+# 都得到同一个数字。阈值仍是 20 行 / 5000 B（即正文 20 行），不再被虚高吃掉 4 行。
+
+
+def entry_body(entry):
+    """剥掉**自动抬头**，只留正文。
+
+    只对 `board_entries` / `_log_sections` 的切片调用——切片首行必然是脚本自己
+    写的抬头（板只切 `^### [`、日志只切 `^## `），所以**不存在误剥**正文的风险。
+
+    ⚠️ 不要拿它去处理调用方传进来的裸正文：那段正文若自己以 `## ` 开头
+    （`daily` 新建允许自带标题），会被剥掉，反而与写入端量出的数不一致。
+    """
+    lines = entry.split("\n")
+    if lines and (lines[0].startswith("### [") or lines[0].startswith("## ")):
+        k = 1
+        while k < len(lines) and not lines[k].strip():   # 跳过抬头与正文之间的空行
+            k += 1
+        return "\n".join(lines[k:])
+    return entry
+
+
+def count_text(t):
+    """长度口径（唯一）：**(行数, 字节数)**，只算正文。
+
+    先 `rstrip("\\n")` 再数——切片尾部带着条目之间的分隔空行（通常 2 个 `\n`），
+    而写入端拿到的是刚拼好的 body（尾部已被 `rstrip`）；不剥就会稳定差 2 行。
+    """
+    t = t.rstrip("\n")
+    return (t.count("\n") + 1 if t else 0), len(t.encode())
+
+
 def log_path(book):
     d = datetime.date.today().isoformat()
     return f"{LOGDIR}/{d}.md"
@@ -152,15 +197,17 @@ def main():
     ap.add_argument("--replace", action="store_true",
                     help="整体重写我已有的那一条（完工+审查合并压缩时用）；标题里的完工时间原样保留")
     ap.add_argument("--limit", type=int, default=20,
-                    help="**板消息**行数上限（默认 20）。⚠️ 2026-09-29 起这道门只对 board 生效，"
-                         "daily 是长期存档档、不设行数上限；daily 改用「--replace 净减守卫」")
+                    help="**板消息正文**行数上限（默认 20）。口径=只算正文，自动抬头与条目间"
+                         "空行不计（写入端与 check 共用 count_text）。⚠️ 2026-09-29 起这道门"
+                         "只对 board 生效，daily 是长期存档档、不设行数上限；"
+                         "daily 改用「--replace 净减守卫」")
     # 5000 B（2026-09-29 由 2500 上调）：字节不是与行数平级的门槛，而是**失控兜底**——
     # 行数数「要读几件事」，字节数在本库（CJK 1 字 3 B）只反映「写得密不密」，
     # 惩罚密度会误伤结构良好的紧凑通报。实测全板：行数达标者最大 4,359 B、
     # 真正的失控条目最小 6,029 B，**5,000–6,000 之间无条目** ⇒ 阈值落在这道空隙里。
     ap.add_argument("--maxbytes", type=int, default=5000,
-                    help="**板消息**字节兜底阈值（默认 5000；超出行数限制才是主要信号）。"
-                         "同 --limit，只对 board 生效")
+                    help="**板消息正文**字节兜底阈值（默认 5000；超出行数限制才是主要信号）。"
+                         "口径同 --limit（只算正文），也只对 board 生效")
     ap.add_argument("--force", action="store_true",
                     help="daily --replace 的净减守卫：确属有意精简时强推（默认拒收净掉 30%%／20 行以上的重写）")
     a = ap.parse_args()
@@ -209,10 +256,11 @@ def main():
     if not check_baseline(path):
         return 2
 
-    # 门禁 1：长度
-    n, b = body.count("\n") + 1, len(body.encode())
+    # 门禁 1：长度（此时 body 还是裸正文，尚无自动抬头；`count_text` 对裸正文与
+    # 整条目给出同一数字，所以「只算正文」在这里就是**原样计数**）
+    n, b = count_text(body)
     if a.mode == "board" and (n > a.limit or b > a.maxbytes):
-        print(f"❌ 板消息 {n} 行 / {b} B，超出 {a.limit} 行 / {a.maxbytes} B —— 未写入。\n"
+        print(f"❌ 板消息正文 {n} 行 / {b} B，超出 {a.limit} 行 / {a.maxbytes} B —— 未写入。\n"
               f"   板上只放：文件数 · 门禁数字 · 结论 · commit 计数 · 一行日志指引。\n"
               f"   逐行输出、三档定性、原文支撑行号等明细请用 --mode daily 写进工作日志。")
         return 2
@@ -247,12 +295,9 @@ def main():
             return 2
         note = f" / {a.note} {now_stamp()}" if a.note else ""
         body = f"### [{stamp}{note}] [{ident}] → {a.to}\n\n" + body
-        n, b = body.count("\n") + 1, len(body.encode())
-        if n > a.limit or b > a.maxbytes:
-            print(f"❌ 板消息 {n} 行 / {b} B，超出 {a.limit} 行 / {a.maxbytes} B —— 未写入。\n"
-                  f"   板上只放：文件数 · 门禁数字 · 结论 · commit 计数 · 一行日志指引。\n"
-                  f"   逐行输出、三档定性、原文支撑行号等明细请用 --mode daily 写进工作日志。")
-            return 2
+        # ⚠️ 此处**不再复检长度**：拼上抬头前后量的是同一份正文，门禁 1 已经用
+        # `count_text` 查过。原先是「拼完抬头再数一遍」的第二道门，含抬头 2 行 ⇒
+        # 与门禁 1 差 2 行；三处口径正是从这种"顺手再数一次"长出来的（2026-09-30 修）。
 
     if hit and (a.append or a.replace) and a.mode == "board":
         head = hit[0].split("\n")[0]
@@ -286,11 +331,13 @@ def main():
         # 书名有没有被别处提到**，与内容长度无关（见 _log_sections 的分节问题）。
         # 报错文案当时还是板口径「请用 --replace 整体重写」——对 47 行的存档节，
         # 那条建议会把存档压没（实测真发生过：387 行完工记录被 132 行新片段覆盖）。
-        mn, mb = merged.count("\n") + 1, len(merged.encode())
+        mn, mb = count_text(entry_body(merged))
         if a.mode == "board" and (mn > a.limit or mb > a.maxbytes):
             act = "重写" if a.replace else "追加"
-            print(f"❌ {act}后整条 {mn} 行 / {mb} B，超出 {a.limit} 行 / {a.maxbytes} B —— 未写入。\n"
-                  f"   现有 {hit[0].count(chr(10)) + 1} 行，本次新增 {body.count(chr(10)) + 1} 行。\n"
+            on, _ = count_text(entry_body(hit[0]))
+            an, _ = count_text(body)
+            print(f"❌ {act}后正文 {mn} 行 / {mb} B，超出 {a.limit} 行 / {a.maxbytes} B —— 未写入。\n"
+                  f"   现有正文 {on} 行，本次新增 {an} 行（口径：不含自动抬头与条目间空行）。\n"
                   f"   **请把完工要点与审查结论合并压缩到 {a.limit} 行以内，用 --replace 整体重写**：\n"
                   f"     python3 scripts/post_collab.py board <新正文> --book \"<书>\" --me \"<身份>\" --replace\n"
                   f"   压缩时必须两段都在——完工的门禁数字与审查的缺陷数是后来者唯一的入口。")
@@ -299,13 +346,15 @@ def main():
             # daily 档没有行数上限，但 **--replace 只换正文、保留抬头** ⇒ 新正文
             # 必须自带原内容，否则整段被覆盖（上面那条实测）。这道守卫替代行数门禁，
             # 拦的正是那次事故：净掉 30% 以上或 20 行以上即拒，--force 可强推。
-            old_body = hit[0].split("\n", 1)[1] if "\n" in hit[0] else ""
-            dn = hit[0].count("\n") + 1 - mn
-            db = len(old_body.encode()) - len(body.encode())
-            if (dn > 20 or db > 0) and (dn > 0.3 * (hit[0].count("\n") + 1) or db > 0.3 * max(1, len(old_body.encode()))):
+            # 口径同 `count_text`：新旧都剥掉节标题（`## <书名>`）后比正文，
+            # 否则 1 行标题的差会混进净减量（2026-09-30 统一）
+            on, ob = count_text(entry_body(hit[0]))
+            nn, nb = count_text(entry_body(body))
+            dn, db = on - nn, ob - nb
+            if (dn > 20 or db > 0) and (dn > 0.3 * on or db > 0.3 * max(1, ob)):
                 if not a.force:
                     print(f"❌ --replace 会让该节净掉 {dn} 行 / {db} B"
-                          f"（现有 {hit[0].count(chr(10)) + 1} 行 → {mn} 行）—— 拒绝，存档被压没过。\n"
+                          f"（现有正文 {on} 行 → {nn} 行）—— 拒绝，存档被压没过。\n"
                           f"   **--replace 只换正文、抬头自动保留**，所以新正文必须自带原有全部内容。\n"
                           f"   先 git show HEAD:{path} 取回既有正文，与新片段拼接后再提交；"
                           f"确属有意精简才加 --force。\n未写入。")
@@ -336,7 +385,7 @@ def main():
                 body = f"## {a.book}\n\n" + body
             new = text.rstrip() + "\n\n" + body + "\n"
         act = "已新建条目"
-        n, b = body.count("\n") + 1, len(body.encode())   # 补了标题，重新计数
+        n, b = count_text(entry_body(body))   # 补了标题后重算；口径同 `check`（只算正文）
 
     # 门禁 4：**先在内存里验证，再落盘**——否则返回 2 时文件已被改动，
     # 会留下「工具说失败、内容却在」的半成品（2026-09-28 注入自证抓到）
@@ -404,23 +453,30 @@ def verify(book, day):
 
 
 def check_all(limit, maxbytes):
-    """全板体检。**行数与字节两维都判**——
+    """全板体检。**行数与字节两维都判**，口径与写入端**逐字相同**（`count_text`）——
 
-    写入路径（`board`）判的是 `n > limit or b > maxbytes`，
-    若体检只判行数，就会**漏报「只超字节」的条目**：实测 2026-09-29 有 6 条
-    行数达标、字节 2.6–5.4 KB，`check` 却一直显示正常。
+    ① 写入路径（`board`）判的是 `n > limit or b > maxbytes`；若体检只判行数，
+       就会**漏报「只超字节」的条目**：实测 2026-09-29 有 6 条行数达标、
+       字节 2.6–5.4 KB，`check` 却一直显示正常。
+    ② 更隐蔽的是**行数口径**：体检原先直接数 `board_entries` 切片，自带抬头 2 行
+       与条目间空行 2 行 ⇒ 比写入端**稳定多 4 行**。后果是体检红条与写入拒收指的不是
+       同一件事：写入端放行的「正文 20 行」，体检报 24 行 ❌，于是运维的人把安全线
+       手动压到 16 行。2026-09-30 起两端共用 `count_text(entry_body(...))`。
     ⇒ 体检与写入必须用同一把尺子，否则体检没有意义。
     """
     t = open(BOARD, encoding="utf-8").read()
     ents = board_entries(t)
-    rows = sorted(((e.count("\n") + 1, len(e.encode()), e.split("\n")[0][:46]) for e in ents),
-                  reverse=True)
+    rows = []
+    for e in ents:
+        n, b = count_text(entry_body(e))
+        rows.append((n, b, e.split("\n")[0][:46]))
+    rows.sort(reverse=True)
     over_n = [r for r in rows if r[0] > limit]
     over_b = [r for r in rows if r[1] > maxbytes]
     over = [r for r in rows if r[0] > limit or r[1] > maxbytes]
     print(f"=== 协作板体检：{len(ents)} 条｜超线 {len(over)} 条"
           f"（行 {len(over_n)} · 字节 {len(over_b)}）"
-          f"｜阈值 {limit} 行 / {maxbytes} B ===")
+          f"｜阈值 {limit} 行 / {maxbytes} B（只算正文；抬头与条目间空行不计）===")
     for n, b, h in rows:
         why = "、".join(x for x, bad in (("行", n > limit), ("字节", b > maxbytes)) if bad)
         print(f"  {'❌' if why else '  '} {n:4} 行 {b:6} B  {h}"

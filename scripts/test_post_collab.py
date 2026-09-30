@@ -6,6 +6,7 @@
 所以副本必须在一个 git 仓库里、且目标文件已提交过），用 POST_COLLAB_BOARD /
 POST_COLLAB_LOGDIR 两个环境变量把路径指过去（默认值不变，对其他实例零影响）。
 """
+import datetime
 import os
 import re
 import shutil
@@ -21,7 +22,13 @@ R = os.path.join(T, "repo")
 os.makedirs(os.path.join(R, "scripts"), exist_ok=True)
 os.makedirs(os.path.join(R, ".memory/daily"), exist_ok=True)
 B = os.path.join(R, "COLLABORATION.md")
-TG = os.path.join(R, ".memory/daily/2026-09-29.md")
+# ⚠️ 日志路径必须用**今天**的日期：`post_collab.log_path()` 取 `date.today()`，
+# 写死 `2026-09-29.md` 会让脚本去找 `2026-09-30.md`，门禁 3 直接判「无基线可比对」
+# （❓ 退出码 2）⇒ daily 的 7 个用例**整体假红**，与脚本改动无关。
+# 样本内容仍取固定的 09-29 那份（③⑥ 的锚点「节112 / 521 行」依赖它的结构）。
+TODAY = datetime.date.today().isoformat()
+SAMPLE_LOG = os.path.join(REAL, ".memory/daily/2026-09-29.md")
+TG = os.path.join(R, ".memory/daily", TODAY + ".md")
 SCRIPT = os.path.join(R, "scripts/post_collab.py")
 if not os.path.isdir(os.path.join(R, ".git")):
     shutil.copy(os.path.join(REAL, "scripts/collab_identities.json"),
@@ -32,7 +39,7 @@ BOOK = "The Lonely Hearts Book Club"
 
 def reset():
     shutil.copy(os.path.join(REAL, "COLLABORATION.md"), B)
-    shutil.copy(os.path.join(REAL, ".memory/daily/2026-09-29.md"), TG)
+    shutil.copy(SAMPLE_LOG, TG)
     shutil.copy(os.path.join(REAL, "scripts/post_collab.py"),
                 os.path.join(R, "scripts/post_collab.py"))
     subprocess.run(["git", "add", "-A"], cwd=R, capture_output=True)
