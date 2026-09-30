@@ -36,6 +36,7 @@ daily（工作日志）是**长期存档档**，与板不同：
 """
 import argparse
 import datetime
+import glob
 import json
 import os
 import re
@@ -229,6 +230,9 @@ def main():
                          "口径同 --limit（只算正文），也只对 board 生效")
     ap.add_argument("--force", action="store_true",
                     help="daily --replace 的净减守卫：确属有意精简时强推（默认拒收净掉 30%%／20 行以上的重写）")
+    ap.add_argument("--day", metavar="YYYY-MM-DD",
+                    help="verify 专用：查该日的日志文件（默认今天）。"
+                         "**跨日归档的书必须显式指定作业日**，否则会因当天无该书节而误报 ❌")
     a = ap.parse_args()
 
     if a.mode == "check":
@@ -236,7 +240,7 @@ def main():
     if a.mode == "verify":
         if not a.book:
             ap.error("--verify 需要 --book")
-        return verify(a.book, datetime.date.today().isoformat())
+        return verify(a.book, a.day or datetime.date.today().isoformat())
     if a.mode == "mine":
         if not a.me:
             ap.error("--mine 需要 --me")
@@ -473,14 +477,33 @@ def verify(book, day):
     # 于是 `verify` 报「5 处」——数字虚高且与「每书一条」的语义无关。
     ltxt = open(lp, encoding="utf-8").read() if os.path.exists(lp) else ""
     lc = sum(1 for e in _log_sections(ltxt) if book in e)
+    # ⚠️ 2026-09-30 修：作业跨日时（正文写在 09-29、审查在 09-30 发起），
+    # 当日文件里本就没有该书节，verify 会以「日志 0 节 ❌ + 退出码 2」把**板已正确**
+    # 的状态报成失败——退出码无法区分「板真错」与「书归档在别的日子」，
+    # 照着它去改板反而会误伤他人条目。⇒ 当日 0 节时回溯最近有该书节的日志文件。
+    alt = ""
+    if lc == 0 and day == datetime.date.today().isoformat():
+        cands = sorted(glob.glob(f"{LOGDIR}/*.md"), reverse=True)
+        for c in cands:
+            if os.path.basename(c) == f"{day}.md" or os.path.basename(c).startswith("_"):
+                continue
+            t2 = open(c, encoding="utf-8").read()
+            n2 = sum(1 for e in _log_sections(t2) if book in e)
+            if n2:
+                lc, alt = n2, os.path.basename(c)
+                break
     ok = bc == 1
     print(f"板：{bc} 条（须恰为 1）{'✅' if ok else '❌'}")
     print(f"日志 {lp}：{lc} 个二级节（须 ≥1）{'✅' if lc >= 1 else '❌'}"
-          + ("（同书多节＝当天完工与审查各一节，正常）" if lc > 1 else ""))
+          + ("（同书多节＝当天完工与审查各一节，正常）" if lc > 1 else "")
+          + (f"（当日无本书节，已回溯到作业日 {alt}）" if alt else ""))
     if not ok:
         print(f"\n❌ 板上有 {bc} 条含「{book}」的条目——每{'主题' if book.startswith('【') else '书'}只应一条。"
               f"多的那条多半是别人发的或历史遗留，**不要去删别人的**；"
               f"把自己的那条用 --append 补齐即可。")
+    if ok and lc == 0:
+        print(f"\n❌ 板 1 条正确，但所有日志文件里都找不到「{book}」的二级节——"
+              f"补一条工作日志（作业日可用 --day 指定）。")
     return 0 if ok and lc >= 1 else 2
 
 
