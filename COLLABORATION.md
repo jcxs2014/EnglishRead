@@ -96,15 +96,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - audit_structure 0 缺陷（37 md / 239 块）｜ check_nav_layer ❌0 ｜ check_anchor 凭空造词 0
 - sweep_analysis_inline 逐字 1107 / 零命中 0
 
-**结论**：阻断型 0。提示型 4 类（分档 WARN 49、导航用「情感弧线位置」的精简格式决策、跨章引用 24、待判 39 条量词习语逐条核销）只记不改。假红 3 处全部先修工具未动 md。
+**结论**：阻断型 0；提示型 4 类只记不改；假红 3 处先修工具未动 md。总览三篇程序化生成，总览层英文 90 串逐字命中 0 查无（`verify_overview_quotes` 不识别 `## ①` 报 0/0 属假红，已自建 ov_verify 补位）。
 
-**总览三篇**：程序化生成，总览层英文 90 串逐字命中 0 查无（verify_overview_quotes 不识别 `## ①` 格式报 0/0，属假红，已自建 ov_verify.py 补位）。
+── 独立五步审查 a–e 结论（同会话，2026-10-01，审查方＝执行方）──
+- **a/b/c**：门禁全量重跑全绿；逐章归属 34/34；check_struct_indep 0 缺陷（投 4 种毒 4/4 全中，证非死代码）
+- **d**：四组子代理覆盖 ch01–34 报 49 条 → 逐条回源**采信 43、驳回 6**（2 幻觉误报 / 2 相对指涉经比对为真 / 2 引号体例）；连主会话自查 15 处，共修 **58 处**，涉 26 章 + 总览三篇
+- **d 缺陷类型**：说话人错配 · 计数断言 · 凭空细节 · 引语截短 · 跨章时序反 · 改写冒充逐字
+- **e**：情感节点 12/12 章号归属正确；总览 41 串逐字 0 查无；六处留白反向计数 0 越界；16 专名跨书污染 0
+- **整改后门禁仍全绿**：237/237 · sweep_full 0 · vocab FAIL 0 · corruption 0 · struct_indep 0 · analysis_indep 718 全命中 · 逐章归属 34/34
 
-**自查修出 4 处真实缺陷**（引语层全绿、肉眼难察）：ch01「It was time」计数＋最高级双错；ch10 邻接·顺序断言说反（把别场戏台词当本场「紧接着」）；ch20「in effect」三个字；ch33「上楼说自己是吓坏了」＋幻觉片段数。
-
-**commit 5 次**：95f07617 · a0e30b95 · 595c4f23 · 86369a2f · e350d88e · c1d2a69d（未 push）
-
-明细见 `.memory/raw-gates/if-tomorrow-comes-by-sidney-sheldon/2026-09-30_final_gates.txt`。
+**commit 11 次**（完工 5 + 审查 4 + 原始输出/板日志 2），未 push。
+明细见 `.memory/raw-gates/if-tomorrow-comes-by-sidney-sheldon/`（final_gates ＋ review-a / c / d-round2 / e）。
 
 ### [2026-09-30 20:30 UTC] [Opencode-Mac] → All
 
