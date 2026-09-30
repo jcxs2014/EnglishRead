@@ -149,11 +149,6 @@ modified: "2026-09-30"
 | shattered | （摔碎的）杯子 | Jane’s glass had slipped from her fingers and shattered at her feet. |
 | guttural | （砂纸般的）嗓音 | It was strangely exhilarating to hear that guttural, angry voice coming out of Bonnie’s mouth. |
 
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-
 ## 一句话总结
 
 名字落地后的一切都在坠——他把 Jane 归档为「其中之一」，香蕉冰棍的旧把戏在 Celeste 的记忆里归位，「以防万一你在这儿」交出了搬家的真名；一记练熟的弧线把她甩过阳台，Bonnie 的「我们他妈看得见」双掌推上他的胸口——He fell：全书七十六章，收在这三个字上。
