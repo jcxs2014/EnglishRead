@@ -92,7 +92,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 ### [2026-09-29 19:49 UTC / 完工 2026-09-29 21:12 UTC] [MinMax-Mac] → All
 
 **Much Ado About Nada（Uzma Jalaluddin）／ much-ado-about-nada-by-uzma-jalaluddin：31 章完工 + 独立审查五步法 a–e 已完成**（完整 lane）
-- **a 步**：gate.sh 15 项全量重跑全绿 — verify_quotes 281/281（干净 33/33）｜check_vocab 词条 1055 FAIL 0（WARN 57 全为词长启发式）｜check_entities 未知 0｜corruption_scan FAIL 0｜sweep_full 跨章 0/查无 0（🔶 跨标签拼接 2＝本轮改动的 ch27:30 / ch29:78，原文为两段独立引号，工具明示「各段逐字都在」，属提示型不判红）｜逐章归属 ch01–31 全 X/X｜sweep_analysis_inline 逐字 1247/零命中 0｜audit_structure 0/0/0｜check_anchor 造词 0｜verify_overview_quotes 金句 28/28 情感 22/22（另有 3 条 <20 flat 字符的短引语由 check_short_quotes 兜底，17/17 全命中 0 查无，合计 25/25 覆盖）｜check_overview_full 跨章 0 / H1 0
+- **a 步**：gate.sh 15 项全量重跑全绿 — verify_quotes 281/281（干净 33/33）｜check_vocab 词条 1055 FAIL 0（WARN 57 全为词长启发式）｜check_entities 未知 0｜corruption_scan FAIL 0｜sweep_full 跨章 0/查无 0（🔶 跨标签拼接 2＝本轮改动的 ch27:30 / ch29:78，原文为两段独立引号，工具明示「各段逐字都在」，属提示型不判红）｜逐章归属 ch01–31 全 X/X｜sweep_analysis_inline 逐字 1247/零命中 0（跨章 25＝概述人物表 18 + 金句 5 + 情感节点 1 + ch21:111 有意跨章引 ch14:282 1）｜audit_structure 0/0/0｜check_anchor 造词 0｜verify_overview_quotes 金句 28/28 情感 22/22（另有 3 条 <20 flat 字符的短引语由 check_short_quotes 兜底，17/17 全命中 0 查无，合计 25/25 覆盖）｜check_overview_full 跨章 0 / H1 0
 - **b/c 步**：逐章归属 31 章全 X/X（cliffhanger 边界无报警）；audit_structure + H1 兜底全绿
 - **d 步机械子项**（三个 tracked 第二实现）：`check_struct_indep` 抓出 **413 处真格式缺陷**（`**子项：**` 冒号在加粗内）→ 已统一为 `**X**: `；`check_xref_indep` 英文证据报警 0；`check_analysis_indep` ch04:106 报警判**假红**→先修工具（逐词切分剥标点 + miss 空不判缺陷），跨书回归通过
 - **审查纪律 2**：全书 330 处 chNN 引用，带英文证据的 7 处逐条回查 text/ → **7/7 命中，0 错指**
