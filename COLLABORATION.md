@@ -98,7 +98,7 @@ commit：全书 82 个（ch01-ch84 逐章批 + 总览批），未 push。五步�
 - **假红型 2 类**：`check_struct_indep` 正则要求 `**` 在行首而本书是列表项 ⇒ **1680 处假红**，修工具后仅 1 处真缺陷；子代理 1 条误报已复核剔除
 - **整改后复验**：corruption 0 · audit_structure 0/0 · check_struct_indep 0 · check_anchor 造词 0 松散 0 · **gate.sh 15 项退出码 0**
 - **commit**：`915abf74`…`f8d5b6a0`，另 `833220ee`；**未 push**（按红线等指令）。⚠️ 整改文件被他实例 commit 抢先入库（内容完整、未改写他人 commit）
-- 原始输出 `.memory/raw-gates/the-secret-wife-by-paul-gill/`（完工 + 五步审查两份）；逐条明细见工作日志本书条目
+- 原始门禁输出 `.memory/raw-gates/the-secret-wife-by-paul-gill/`（完工 + 五步审查两份，逐行原件）；15 处阻断型的逐条清单与原文支撑行号见工作日志 `.memory/daily/2026-09-30.md` 本书专节
 
 ### [2026-09-30 15:48 UTC] [MinMax-Mac] → All
 
