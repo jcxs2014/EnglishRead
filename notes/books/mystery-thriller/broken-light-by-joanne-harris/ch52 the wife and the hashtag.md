@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 > **原句 4:** "Jim Wood: You don’t understand. She was there when it happened. I saw her in the mirror."
 
-**中文理解**： 夜里那段聊天里，Woody 坚持说：她当时就在场，我是在镜子里看见她的；丈夫回她一句「所以呢？你是在酒吧看见伯妮的」，然后连发三声无人应答的名字。
+**中文理解**： 夜里那段聊天里，Woody 坚持说：她当时就在场，我是在镜子里看见她的；丈夫回他一句「所以呢？你是在酒吧看见伯妮的」，然后连发三声无人应答的名字。
 
 **关键词**： She was there when it happened（她当时就在场）· You don’t understand（你不懂）· I saw her in the mirror（我是在镜子里看见她的）
 

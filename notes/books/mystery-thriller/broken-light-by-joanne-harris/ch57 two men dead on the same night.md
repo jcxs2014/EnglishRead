@@ -17,7 +17,7 @@ modified: "2026-09-30"
 
 > **原句 1:** "London Man Dies in Yoga Class Rampage. That was the headline. It makes it sound as if he were the victim. The Sun puts it more succinctly: Doughnut Guy’s Lethal Workout."
 
-**中文理解**： 伦敦男子死于瑜伽课枪击。那就是标题。这标题让他听起来像是受害者。《太阳报》说得更干脆：甜甜圈哥的致命健身。
+**中文理解**： 伦敦男子死于瑜伽课持刀行凶。那就是标题。这标题让他听起来像是受害者。《太阳报》说得更干脆：甜甜圈哥的致命健身。
 
 **关键词**： That was the headline（那就是标题）· It makes it sound as if he were the victim（这标题让他听起来像受害者）· more succinctly（说得更干脆）
 
@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 **关键词**： He was a douche（他是个混蛋）· Isn’t that better for everyone（这样对大家都更好吧）
 
-**为什么这样写**： 这两句与本卷开篇引语一字不差。开篇时它们悬在半空、还没有主语；三十年后它们有了说话人，也有了对象。同一句话被放在这一卷的开头与此处，读者读到这里才拿到它的主语与对象。
+**为什么这样写**： 这两句与本卷开篇引语一字不差。在本卷题词处它们悬在半空、还没有主语；等 Iris 在这一章说出口，它们才有了说话人，也有了对象。同一句话被放在这一卷的开头与此处，读者读到这里才拿到它的主语与对象。
 
 **读者视角提示**： 把这两句和本卷开篇那两行对照着读，是理解这一卷结构最省力的一步。
 

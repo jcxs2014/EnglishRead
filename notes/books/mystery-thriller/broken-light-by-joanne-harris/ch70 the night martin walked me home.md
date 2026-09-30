@@ -124,7 +124,7 @@ modified: "2026-09-30"
 |------|------|------|
 | gentleman | 绅士 | ‘Of course,’ he said; ever the gentleman. |
 | condom | 避孕套 | And then I took a long, long shower, and made the bed, and felt just fine – until I found the condom where he had dropped it on the floor, and I began to tremble. |
-| exchange | 交换；此处是拿一次约会换一次舞会 | One bad date in exchange for the thing he did the night of the Pog Hill Prom. |
+| exchange | 交换；此处是拿一次约会换他那夜做的事 | One bad date in exchange for the thing he did the night of the Pog Hill Prom. |
 | incident | 小事件；她用来降级的词 | Just one, silly, trivial incident. |
 | moth | 飞蛾；此处是被聚光灯钉住的样子 | For a moment, he stood there, wavering, pinned like a moth in the spotlight. |
 

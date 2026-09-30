@@ -21,7 +21,7 @@ modified: "2026-09-30"
 
 **关键词**： especially, gruesomely vivid（格外鲜明，鲜明到骇人）· built from scraps and fragments（用碎片和残骸搭起来）· a yawning sink-hole that seemed to go down forever（一个一直往下张着大口的坑）
 
-**为什么这样写**： 三个否定（没见过／不可能／go down forever）把房子的合法性全部取消，剩下的只有材质。梦之所以更骇人，不是因为里面有怪物，而是因为它没有来处——而这一卷的恐惧一直建立在来处上：谁的房子、谁的名字、哪一年。
+**为什么这样写**： 三个否定（没见过／不可能存在／没有底）把房子的合法性全部取消，剩下的只有材质。梦之所以更骇人，不是因为里面有怪物，而是因为它没有来处——而这一卷的恐惧一直建立在来处上：谁的房子、谁的名字、哪一年。
 
 **读者视角提示**： 无底坑是全章的核心道具，帽子里还装着它。
 
@@ -29,7 +29,7 @@ modified: "2026-09-30"
 
 > **原句 2:** "Then she takes off her big top hat, and beckons me to look inside. And inside, I see the sinkhole again, like a rabbit hole to hell. And inside, in the darkness, I can see them all: the men. Jim Wood. Graham Crawley. Jocelyn Moore. Mr D. Jared Noonan Philips. All of them falling, all of them damned, all of them caught in that magic hat."
 
-**中文理解**： 然后她摘下那顶大礼帽，招手叫我往里看。里面又是那个坑，像通往地狱的兔子洞。黑暗里她看见全都在那儿：那些人。Jim Wood。Graham Crawley。Jocelyn Moore。Jared Noonan Philips 先生。他们全都在坠落，全都被判了罪，全都被扣在这顶魔术帽里。
+**中文理解**： 然后她摘下那顶大礼帽，招手叫我往里看。里面又是那个坑，像通往地狱的兔子洞。黑暗里我看，全都在那儿：那些人。Jim Wood。Graham Crawley。Jocelyn Moore。Jared Noonan Philips 先生。他们全都在坠落，全都被判了罪，全都被扣在这顶魔术帽里。
 
 **关键词**： beckons me to look inside（招手叫我往里看）· like a rabbit hole to hell（像通往地狱的兔子洞）· All of them falling, all of them damned（他们全都在坠落，全都被判了罪）
 

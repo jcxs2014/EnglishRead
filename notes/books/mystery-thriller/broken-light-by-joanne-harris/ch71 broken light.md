@@ -17,7 +17,7 @@ modified: "2026-09-30"
 
 > **原句 1:** "After that, everything happened at once. I remember the lights going down; the safety curtain crashing. Martin, at the top of his voice, shouting for a doctor. Lucas saying: Is that blood? in a voice that sounded high and far away; the cramps in my belly twisting like a vicious corkscrew in my gut. Andrew and Joss had already pinned Adam to the ground, but there was no sign of a weapon now, and Adam wasn’t moving."
 
-**中文理解**： 那之后所有事同时发生：灯灭了，安全幕砸下来，Martin 扯着嗓子喊医生，Lucas 用一种又高又远的声音问那是血吗，她腹部的绞痛像一只恶性开瓶器在肠子里绞。她试过要挤到 Bernie 那边，可台前已经挤满了人；Andrew 和 Joss 把 Adam 按在地上，那里已经没有凶器的影子，Adam 也不动了。
+**中文理解**： 那之后所有事同时发生：灯灭了，安全幕砸下来，Martin 扯着嗓子喊医生，Lucas 用一种又高又远的声音问那是血吗，她腹部的绞痛像一只恶性开瓶器在肠子里绞。Andrew 和 Joss 把 Adam 按在地上，那里已经没有凶器的影子，Adam 也不动了。
 
 **关键词**： everything happened at once · the safety curtain crashing · Is that blood? · there was no sign of a weapon now
 

@@ -9,7 +9,7 @@ modified: "2026-09-30"
 
 - **一句话概括**：她几乎一夜没睡，认定两场死亡都与 Iris 有关，却也知道那不是 Iris 的错——是她自己先把力量给了她；Jocelyn Moore 进了修道院，Philips 躲去母亲家，新出的网络红人忙着向每个遇到的人道歉；Pog Hill 的重聚派对不到三周，而 Iris 让她去用她的超能力。
 - **情感弧线位置**：悬置位。外部事件暂时收住——Philips 闭嘴、Crawley 已死、Woody 已死——压力全部内转成「我会不会害了她」的自问。
-- **线索伏笔**：① Jocelyn Moore 进修道院：献出一切之后的最后一件事。② Philips 去母亲家暂住，与她前一章动过的那面镜子直接相关。③ 新出的网络红人是一个到处道歉、盘子失控的年轻人。④ 重聚派对在即。⑤ 她看见 Iris 家镜子上方那块写着恭维话的招牌，知道对方也知道她在看。
+- **线索伏笔**：① Jocelyn Moore 进修道院：献出一切之后的最后一件事。② Philips 去母亲家暂住，与她 ch54 用斯芬克斯原理动过的那面镜子直接相关。③ 新出的网络红人是一个到处道歉、盘子失控的年轻人。④ 重聚派对在即。⑤ 她看见 Iris 家镜子上方那块写着恭维话的招牌，知道对方也知道她在看。
 - **人物弧线**：她在本章说出「我抱着人抱得太紧，所以最后弄坏了他们」，并把这一次和上一次区别开来——这一次她打算先动手。
 - **叙事手法**：2022 线日记体，日期行为 5 月 23 日星期一；上一章是 5 月 21 日，中间这个周末她一个字没写，只在开篇承认了整夜没睡。社交媒体转写与手机短消息交替出现，把公开的愤怒和私下的哄劝压在同一页上。结尾由内心一句「你爱她」把全章的责任问题挑明，而她的回答是保证，不是计划。
 
@@ -95,7 +95,7 @@ modified: "2026-09-30"
 |------|------|------|
 | combustion | 自燃（她形容两场死亡用的公文式词） | I have no doubt now that she was the cause of both Woody’s and Crawley’s combustion. |
 | possessions | 财产、随身物（他全都送掉了） | Having given all his possessions away, as well as donating a kidney, what does he have left to give? |
-| bewildered |  bewildered 的：不知所措的（此处写他的亲友） | His loved ones are bewildered. |
+| bewildered | 不知所措的（此处写他的亲友） | His loved ones are bewildered. |
 | nondescript | 不起眼、平平无奇的（形容新出的那位红人） | This one, an otherwise nondescript young man, has made it his task to apologize to everyone he meets. |
 | uncertainty | 不确定（写他在镜头里的状态） | A young man in a baseball cap; twisted with uncertainty; rooted to the spot as he whispers his apology. |
 | thunderheads | 积雨云（重聚派对前她心里的天） | On other days, it’s like a storm, with thunderheads about to collide. |
@@ -111,7 +111,7 @@ modified: "2026-09-30"
 | monastery | 修道院 | A further, deeper search reveals that he has joined a monastery. |
 | donating | 捐赠（他已经捐掉一个肾） | Having given all his possessions away, as well as donating a kidney, what does he have left to give? |
 | apologizing | 道歉（那位新红人一直在做的事） | Leonie thinks I should stop apologizing for things, assuming guilt for things, and just be my authentic self. |
-| juggling |  juggling 式的杂耍；此处是顶盘子 | I feel as if I am juggling plates, each one higher than the last. |
+| juggling | 杂耍；此处是顶盘子 | I feel as if I am juggling plates, each one higher than the last. |
 | authentic | 真实的、原本的样子（朋友给她的建议） | Leonie thinks I should stop apologizing for things, assuming guilt for things, and just be my authentic self. |
 | embraced | 拥抱、接受（Iris 对那股力量的态度） | But while Katie shrank at what she found, Iris has embraced it. |
 | conspiracy | 阴谋 | On Twitter, @irisnoir23 writes in response to a tweet about Woody’s death: Why should there be a conspiracy? |

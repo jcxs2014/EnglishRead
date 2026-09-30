@@ -59,7 +59,7 @@ modified: "2026-09-30"
 
 **为什么这样写**： 这是全书视角转换最关键的一次：aggression 被改写成 confusion，七岁的孩子被关在成年人的身体里。作者没有让 Kate 说「他其实不是坏人」，而是让她用「我在听一个七岁的人说话」这件更技术性的事来完成同一判断。
 
-**读者视角提示**： 记住这个改写。它和 2022 线上 Bernie 认出「我体内有另一个人的记忆」是同一套机制，只是十年之差。
+**读者视角提示**： 记住这个改写。它和 2022 线上 Bernie 认出「我体内有另一个人的记忆」是同一套机制，只是三十年之差。
 
 ---
 
@@ -137,7 +137,7 @@ modified: "2026-09-30"
 | goblin | 妖精（她童年给 Adam 的形象） | Adam Price had always looked like a skinny little goblin to me, but now, with his face in shadow and his hair torched silver by the lights, he looked like a creature from a dark fairy tale, all scrawny limbs and shock-headed spite. |
 | princess | 公主（她童年的自我形象，也是他给她的称呼） | I’d been a princess, then, too. |
 | monster | 怪物 | It felt like being – A monster. |
-| floor | 地板（她童年记忆里的那一幕发生处） | I could see Simon and Lorelei Jones necking on the dance floor. |
+| floor | 地板（舞会散场后，她看见 Simon 与 Lorelei Jones 挤在那里的地方） | I could see Simon and Lorelei Jones necking on the dance floor. |
 | drink | 一杯酒 | I briefly considered asking my date to get me a drink, but Simon was dancing with Lorelei Jones, and I didn’t want to disturb them. |
 | feet | 脚（银凉鞋磨脚） | My silver sandals were hurting my feet, and I wanted to sit down. |
 | attack | 攻击（她伸手挡住的动作） | I put out my hands, as if to ward off an attack. |

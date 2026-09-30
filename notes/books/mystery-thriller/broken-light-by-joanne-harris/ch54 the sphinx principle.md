@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 > **原句 4:** "The phrase ‘one bad apple’ is overused, prompting me to wonder whether any of these people have ever arranged a fruit bowl."
 
-**中文理解**： 「一个坏苹果」这个说法被用滥了，以至于她忍不住想：这些说法里提到的人，有谁真在办公室放过一盆水果？
+**中文理解**： 「一个坏苹果」这个说法被用滥了，以至于她忍不住想：这些说法里提到的人，有谁真放过一盆水果？
 
 **关键词**： is overused（被用滥了）· have ever arranged a fruit bowl（放过一盆水果）
 

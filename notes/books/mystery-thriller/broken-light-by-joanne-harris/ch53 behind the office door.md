@@ -93,7 +93,7 @@ modified: "2026-09-30"
 
 **关键词**： just a crack（只是一道缝）· all we need to let the light come shining through（足以让光透进来）
 
-**为什么这样写**： 开篇那扇「没有声音」的门，在这里变成了她亲手开的一道缝，方向也整个调转：不再是隔开两人的墙，而是让人看见彼此的口子。本章最后她说「你回来了」而她答「我一直都在这里」，两句话正是这道缝的两端。
+**为什么这样写**： 开篇那扇「没有声音」的门，在这里变成了她亲手开的一道缝，方向也整个调转：不再是隔开两人的墙，而是让人看见彼此的口子。本章最后他说「你回来了」而她答「我一直都在这里」，两句话正是这道缝的两端。
 
 **读者视角提示**： 全章以「门」为轴：门后的无声 → 门上的名字 → 被他从里面反锁的那扇门 → 她推开的一道缝。四个环节由同一件家具串起。
 
@@ -137,12 +137,12 @@ modified: "2026-09-30"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| door | 门（本章的支点，也是她最后推开的那一道缝） | Wednesday, May 11th No sound from behind the office door. |
+| door | 门（本章的支点：开篇她敲不开的那一扇，也是结尾她推开的同一扇） | Wednesday, May 11th No sound from behind the office door. |
 | cat | 猫（她说他像一只总会自己回来的流浪猫） | But when he’s like this, all I can do is leave him alone, be patient, and hope that, like a stray cat, he somehow comes back of his own accord. |
 | rock | 石头（她说爱像海滩上一块始终在那里的石头） | It just is, like a rock on a beach. |
 | bath | 洗澡、浴缸（她跑了一缸玫瑰与广藿香味的热水） | The things that other people do – the cups of tea, the holding hands, the little everyday kindnesses, like making lunch, or running a bath, or a bunch of flowers on Valentine’s Day – we were beyond those common things. |
-| light | 光（她说只要一道缝就够让光透进来） | And then I was there, like a sudden flash of light into a darkened room. |
-| glass | 玻璃（空屋里散落的碎片，也是镜子） | Then I got into a bath that was scented with rose and patchouli, and closed my eyes, and considered the reflections in the window glass of a haunted house. |
+| light | 光（她一「看」进那栋房子，就知道自己已到了） | And then I was there, like a sudden flash of light into a darkened room. |
+| glass | 玻璃（泡澡时她对着窗玻璃，看那栋闹鬼房子的倒影） | Then I got into a bath that was scented with rose and patchouli, and closed my eyes, and considered the reflections in the window glass of a haunted house. |
 
 ## 一句话总结
 

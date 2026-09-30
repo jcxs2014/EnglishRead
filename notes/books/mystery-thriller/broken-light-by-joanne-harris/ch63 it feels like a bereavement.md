@@ -29,7 +29,7 @@ modified: "2026-09-30"
 
 > **原句 2:** "The barman asks where her friend has gone, but she does not remember me. Nor does he – I took from his mind the details of my appearance. His name is Nathan. I check his house. He’s kind. His concern is genuine."
 
-**中文理解**： 酒保问她的朋友去哪儿了，她却不记得她。他也不记得——她从他的心智里取走了关于自己外貌的细节。他叫 Nathan。她查了他的房子。他人很好，他的担心是真的。
+**中文理解**： 酒保问她的朋友去哪儿了，她却不记得我。他也不记得——她从他的心智里取走了关于自己外貌的细节。他叫 Nathan。她查了他的房子。他人很好，他的担心是真的。
 
 **关键词**： but she does not remember me（她不记得我）· I took from his mind the details of my appearance · His name is Nathan · I check his house（查了他的房子）
 
