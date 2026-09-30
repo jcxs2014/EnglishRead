@@ -17,97 +17,97 @@ modified: "2026-09-29"
 
 > **原句 1:** "one half devoted to the food court featuring dozens of halal food stalls, the other half filled with blue-swagged booths set up in a grid pattern with a central circular stage"
 
-**中文理解：** 市集占着机库那么大的空间：一半是摆满清真小吃摊的美食区，另一半是垂着蓝色帷幔、按网格排开、中央架一座圆形舞台的展台区。
+**中文理解**:  市集占着机库那么大的空间：一半是摆满清真小吃摊的美食区，另一半是垂着蓝色帷幔、按网格排开、中央架一座圆形舞台的展台区。
 
-**关键词：** blue-swagged（垂着蓝色帷幔的）/ in a grid pattern（按网格排开）/ a central circular stage（中央的圆形舞台）
+**关键词**:  blue-swagged（垂着蓝色帷幔的）/ in a grid pattern（按网格排开）/ a central circular stage（中央的圆形舞台）
 
-**为什么这样写：** one half 与 the other half 构成严格对称的长句，两个分句都用"过去分词短语 + 介词短语"铺陈，空间与句法同时变整齐；blue-swagged 这种"颜色 + 装饰物"的复合形容词把帷幔的垂坠感压进一个词，让读者记住这个会场的颜色。
+**为什么这样写**:  one half 与 the other half 构成严格对称的长句，两个分句都用"过去分词短语 + 介词短语"铺陈，空间与句法同时变整齐；blue-swagged 这种"颜色 + 装饰物"的复合形容词把帷幔的垂坠感压进一个词，让读者记住这个会场的颜色。
 
-**读者视角提示：** 开篇先交付场地规模，读者由此估量出这对兄弟"做多大动静"——后面关于他音乐事业的一切吹嘘都有了舞台背景。
+**读者视角提示**:  开篇先交付场地规模，读者由此估量出这对兄弟"做多大动静"——后面关于他音乐事业的一切吹嘘都有了舞台背景。
 
 ---
 
 > **原句 2:** "when vendors eager to get rid of stock would slash prices in an end-of-convention fire sale"
 
-**中文理解：** 等到展会最后一天，急着清库存的摊主会把价格砍下来，办一场收尾清仓大甩卖——她们要买的正是那天的颜色和花样。
+**中文理解**:  等到展会最后一天，急着清库存的摊主会把价格砍下来，办一场收尾清仓大甩卖——她们要买的正是那天的颜色和花样。
 
-**关键词：** eager to get rid of stock（急着清库存）/ slash prices（砍价、大幅降价）/ fire sale（清仓大甩卖）
+**关键词**:  eager to get rid of stock（急着清库存）/ slash prices（砍价、大幅降价）/ fire sale（清仓大甩卖）
 
-**为什么这样写：** vendors eager to... 把商家的动机前置，读者先看到"他们想脱手"，再看到顾客的战术，两边同时得利；slash 这个动词自带"一刀砍下去"的力度，比平铺直叙的降价更有画面；fire sale 是零售行话，搬到宗教市集上便自动带出反差。
+**为什么这样写**:  vendors eager to... 把商家的动机前置，读者先看到"他们想脱手"，再看到顾客的战术，两边同时得利；slash 这个动词自带"一刀砍下去"的力度，比平铺直叙的降价更有画面；fire sale 是零售行话，搬到宗教市集上便自动带出反差。
 
-**读者视角提示：** 商业嗅觉藏在闲笔里——这几个朋友不是来朝圣的，是来逛展销会的，这一点让后面的"相亲局"更自然。
+**读者视角提示**:  商业嗅觉藏在闲笔里——这几个朋友不是来朝圣的，是来逛展销会的，这一点让后面的"相亲局"更自然。
 
 ---
 
 > **原句 3:** "That means it's ironic, but not in a mean way."
 
-**中文理解：** "那意思就是它带反讽意味，但不是恶意的那种。"
+**中文理解**:  "那意思就是它带反讽意味，但不是恶意的那种。"
 
-**关键词：** ironic（反讽的）/ but not in a mean way（但不是恶意的）
+**关键词**:  ironic（反讽的）/ but not in a mean way（但不是恶意的）
 
-**为什么这样写：** 粉丝为偶像辩护的方式是**给概念下定义**：ironic 先被拿来当护身符，再用 but not in a mean way 预先挡掉可能的指控。这个 not 结构是全章喜剧的最小零件——一个少女的紧张，全压在一句自我辩解的否定里。
+**为什么这样写**:  粉丝为偶像辩护的方式是**给概念下定义**：ironic 先被拿来当护身符，再用 but not in a mean way 预先挡掉可能的指控。这个 not 结构是全章喜剧的最小零件——一个少女的紧张，全压在一句自我辩解的否定里。
 
-**读者视角提示：** 紧接着娜达那句"多谢解释"，讽刺由读者代为完成，作者不必再置一词。
+**读者视角提示**:  紧接着娜达那句"多谢解释"，讽刺由读者代为完成，作者不必再置一词。
 
 ---
 
 > **原句 4:** "Sex on legs, Nada thought, and wondered if Haleema had started on birth control yet."
 
-**中文理解：** "双腿就是性"，娜达心想，接着还琢磨 Haleema 是不是已经上避孕药了。
+**中文理解**:  "双腿就是性"，娜达心想，接着还琢磨 Haleema 是不是已经上避孕药了。
 
-**关键词：** Sex on legs（双腿即性）/ Nada thought（娜达心想）/ wondered if（琢磨是否）
+**关键词**:  Sex on legs（双腿即性）/ Nada thought（娜达心想）/ wondered if（琢磨是否）
 
-**为什么这样写：** 插入语 Nada thought 把这句评语标记成她的私念，作者因此可以借她之口说出极不留情面的话；and wondered if...yet 再把毒舌推进一层，从身材评判滑向对闺蜜私生活的揣测，喜剧与冒犯之间只隔一个连词。
+**为什么这样写**:  插入语 Nada thought 把这句评语标记成她的私念，作者因此可以借她之口说出极不留情面的话；and wondered if...yet 再把毒舌推进一层，从身材评判滑向对闺蜜私生活的揣测，喜剧与冒犯之间只隔一个连词。
 
-**读者视角提示：** 这是全章最不像"淑女主角"的一句，也最能说明她此刻的混乱状态：越是心乱，刻薄越顺手。
+**读者视角提示**:  这是全章最不像"淑女主角"的一句，也最能说明她此刻的混乱状态：越是心乱，刻薄越顺手。
 
 ---
 
 > **原句 5:** "gesture he probably practiced in the mirror"
 
-**中文理解：** 他抬手捋了一下头发，做那种"哎呀，说我呢？"的姿态——这动作他大概对着镜子练过。
+**中文理解**:  他抬手捋了一下头发，做那种"哎呀，说我呢？"的姿态——这动作他大概对着镜子练过。
 
-**关键词：** probably（大概）/ practiced（练过）/ in the mirror（对着镜子）
+**关键词**:  probably（大概）/ practiced（练过）/ in the mirror（对着镜子）
 
-**为什么这样写：** probably 是叙述者替读者留的怀疑，practiced in the mirror 则把"偶像人设"降格成**可复制的表演**；破折号插入语把嘲讽夹在描写中间，既不掉节奏，也不必另起一句去说明。
+**为什么这样写**:  probably 是叙述者替读者留的怀疑，practiced in the mirror 则把"偶像人设"降格成**可复制的表演**；破折号插入语把嘲讽夹在描写中间，既不掉节奏，也不必另起一句去说明。
 
-**读者视角提示：** 娜达拒绝把 Zayn 当神，读者因此确认：她心里的秤是歪的，而歪的那一端压着 Baz。
+**读者视角提示**:  娜达拒绝把 Zayn 当神，读者因此确认：她心里的秤是歪的，而歪的那一端压着 Baz。
 
 ---
 
 > **原句 6:** "I forgot you were funny," he said, almost to himself.
 
-**中文理解：** "我忘了你很幽默，"他说，几乎像在自言自语。
+**中文理解**:  "我忘了你很幽默，"他说，几乎像在自言自语。
 
-**关键词：** I forgot（我忘了）/ almost to himself（几乎像自言自语）
+**关键词**:  I forgot（我忘了）/ almost to himself（几乎像自言自语）
 
-**为什么这样写：** 这句是对上一章"我不得不长大"的反向回应——那时他说她停滞了，如今承认忘掉她的恰恰是自己；almost to himself 把赞美降格成失言，话一出口便无从收回，本章的冰墙由此裂开一道缝。
+**为什么这样写**:  这句是对上一章"我不得不长大"的反向回应——那时他说她停滞了，如今承认忘掉她的恰恰是自己；almost to himself 把赞美降格成失言，话一出口便无从收回，本章的冰墙由此裂开一道缝。
 
-**读者视角提示：** 全章最轻的一句却最要紧：他记得她的幽默，说明那些年他并没有真的把她删掉。
+**读者视角提示**:  全章最轻的一句却最要紧：他记得她的幽默，说明那些年他并没有真的把她删掉。
 
 ---
 
 > **原句 7:** "He was lying, but she had no right to call him out on it, since they were both still pretending their shared history had been nasty, brutish, and short."
 
-**中文理解：** 他在撒谎，可她没有资格戳穿——因为他们俩都还在假装共同的那段过去既下作、又残酷、又短暂。
+**中文理解**:  他在撒谎，可她没有资格戳穿——因为他们俩都还在假装共同的那段过去既下作、又残酷、又短暂。
 
-**关键词：** call him out on it（戳穿他）/ still pretending（还在假装）/ nasty, brutish, and short（下作、残酷而短暂）
+**关键词**:  call him out on it（戳穿他）/ still pretending（还在假装）/ nasty, brutish, and short（下作、残酷而短暂）
 
-**为什么这样写：** but 与 since 两个连接词把"识破"与"不追究"绑在一起，而理由不是宽恕，是共谋；nasty, brutish, and short 三个形容词先加码再骤然收短，模拟的正是他们对外维持的那份轻描淡写。
+**为什么这样写**:  but 与 since 两个连接词把"识破"与"不追究"绑在一起，而理由不是宽恕，是共谋；nasty, brutish, and short 三个形容词先加码再骤然收短，模拟的正是他们对外维持的那份轻描淡写。
 
-**读者视角提示：** 读者已经读过霸凌那一章，知道那段过去短不了——这层反讽只有连着 ch03 读才成立。
+**读者视角提示**:  读者已经读过霸凌那一章，知道那段过去短不了——这层反讽只有连着 ch03 读才成立。
 
 ---
 
 > **原句 8:** "not through sheer charm like his brother, but by his dark, determined presence"
 
-**中文理解：** 他宽阔的肩膀轻松地分开人群，靠的不是他哥哥那种十足的魅力，而是一种阴沉而坚决的存在感。
+**中文理解**:  他宽阔的肩膀轻松地分开人群，靠的不是他哥哥那种十足的魅力，而是一种阴沉而坚决的存在感。
 
-**关键词：** sheer charm（十足的魅力）/ a dark, determined presence（阴沉而坚决的存在感）/ not through...but by（不是靠……而是靠）
+**关键词**:  sheer charm（十足的魅力）/ a dark, determined presence（阴沉而坚决的存在感）/ not through...but by（不是靠……而是靠）
 
-**为什么这样写：** not through...but by... 把兄弟俩的差别压进一个对照结构；sheer 修饰魅力，dark, determined 修饰存在感，前者的修饰语是褒义、后者的偏中性，于是这判断看似客观，落差却留在字缝里。
+**为什么这样写**:  not through...but by... 把兄弟俩的差别压进一个对照结构；sheer 修饰魅力，dark, determined 修饰存在感，前者的修饰语是褒义、后者的偏中性，于是这判断看似客观，落差却留在字缝里。
 
-**读者视角提示：** 全章最后一笔把注意力从哥哥转回弟弟，娜达还没决定想要谁，但她的眼睛已经先投票了。
+**读者视角提示**:  全章最后一笔把注意力从哥哥转回弟弟，娜达还没决定想要谁，但她的眼睛已经先投票了。
 
 ## 本章词汇
 

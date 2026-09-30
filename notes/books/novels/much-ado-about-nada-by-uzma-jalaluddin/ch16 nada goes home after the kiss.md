@@ -19,7 +19,7 @@ modified: "2026-09-29"
 
 **中文理解**：脑子深处响起了警报，像在提醒她什么，但她把它推到了一边。
 
-**关键词：** An alarm clanged（警报响了起来）/ in the back of her mind（在她脑子深处）/ she pushed it away（她把它推到一边）
+**关键词**:  An alarm clanged（警报响了起来）/ in the back of her mind（在她脑子深处）/ she pushed it away（她把它推到一边）
 
 **为什么这样写**：alarm 被写成一件会在脑子里"叮当"作响的东西，于是提醒这件事有了声音；push away 把她的清醒写成一次主动的抵抗，而不是一次迟到的醒悟，读者只能看见她在往回走，看不见她为什么必须走。
 
@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 **中文理解**：身后一记摔门，听起来像一声惊雷，把那一刻整个击碎了。
 
-**关键词：** The slamming of a door（摔门）/ sounded like a thunderclap（听起来像一声惊雷）/ shattering（击碎）
+**关键词**:  The slamming of a door（摔门）/ sounded like a thunderclap（听起来像一声惊雷）/ shattering（击碎）
 
 **为什么这样写**：主语是 The slamming of a door这样一个所有格结构，把声音写成了事件；sounded like 只说像什么、不说像谁，读者于是要自己决定这记雷来自走廊另一头还是来自更早以前的某个夜晚。
 
@@ -43,7 +43,7 @@ modified: "2026-09-29"
 
 **中文理解**：那一个词里有渴望，也有愤怒、悲伤和挫败。
 
-**关键词：** longing（渴望）/ in that one word（在那一个词里）/ frustration（挫败）
+**关键词**:  longing（渴望）/ in that one word（在那一个词里）/ frustration（挫败）
 
 **为什么这样写**：前面他只叫了她的名字，叙述者立刻把这个名字拆成四种情绪并排摆开；but also 一个词就把其中三种推翻成互相打架的东西，读者这才明白"别走"三个字底下压着多少没说出来的话。
 
@@ -55,7 +55,7 @@ modified: "2026-09-29"
 
 **中文理解**：她受不了。这个还是这么疼。过了这么久，它不该还这么疼。
 
-**关键词：** couldn't stand it（受不了）/ This still hurt（这个还是疼）/ after all this time（过了这么久）
+**关键词**:  couldn't stand it（受不了）/ This still hurt（这个还是疼）/ after all this time（过了这么久）
 
 **为什么这样写**：三个短句全是现在时的否定，没有一个词提到他的名字；after all this time 把"合理"和"事实"分成两栏摆在读者面前，疼得比时间允许的更多，这件事本身就是错的。
 
@@ -67,7 +67,7 @@ modified: "2026-09-29"
 
 **中文理解**："偏头痛要犯了。我得回家。"
 
-**关键词：** coming on（要发作）/ I need to（我得）
+**关键词**:  coming on（要发作）/ I need to（我得）
 
 **为什么这样写**：两条短信都不带主语、不带解释，像顺手发出的两张便条；前一条刚好够 Haleema 放心，后一条把真正的原因整个删掉，读者读到的落差就是她此刻的处境。
 
@@ -79,7 +79,7 @@ modified: "2026-09-29"
 
 **中文理解**：不管她把和 Baz 的这段关系朝哪个方向举到光下看，最后他们还是不快乐，还是一个人。
 
-**关键词：** No matter which way（不管哪一边）/ held … up to the light（举到光下看）/ wound up（落到）
+**关键词**:  No matter which way（不管哪一边）/ held … up to the light（举到光下看）/ wound up（落到）
 
 **为什么这样写**：up to the light 借的是鉴宝的动作，可这里被鉴的不是物件而是一段关系；No matter which way 先把所有可能性一次封死，再让 wound up 把两个逗号隔开的词收进同一行，读者看见的是一条无论怎么转都会回到原地的线。
 
@@ -91,7 +91,7 @@ modified: "2026-09-29"
 
 **中文理解**：Baz 向来有一种奇怪的幽默感。那枚戒指滑上她左手无名指，分毫不差。
 
-**关键词：** a strange sense of humor（一种奇怪的幽默感）/ slid onto（滑上）/ perfectly（分毫不差）
+**关键词**:  a strange sense of humor（一种奇怪的幽默感）/ slid onto（滑上）/ perfectly（分毫不差）
 
 **为什么这样写**：前半句把刻字解释成一个玩笑，后半句用 perfectly 把玩笑落实成尺寸——它没有一点松紧地"刚好"，说明它当初就是照这根手指做的；两句一轻一重，读者听见的是她这七年里反复讲给自己听的那个版本。
 
@@ -103,7 +103,7 @@ modified: "2026-09-29"
 
 **中文理解**：她在衣帽间铺着地毯的地面上坐下来，开始读那些邮件往来——那些把这一切开始的信——仿佛她就是那个苦恋着自己 Captain Wentworth 的 Anne Elliot。
 
-**关键词：** the carpeted floor of the closet（衣帽间铺地毯的地面）/ the ones that had started it all（那些把一切开始的信）/ pining after（苦恋着）
+**关键词**:  the carpeted floor of the closet（衣帽间铺地毯的地面）/ the ones that had started it all（那些把一切开始的信）/ pining after（苦恋着）
 
 **为什么这样写**：一个分词短语先把她的姿势放低到地面上，the ones that had started it all 又把这叠纸推到了因果的源头；末句把自己安放进一个十九世纪小说的人物里，而 pining 这个词比任何形容词都更准确地交代了她此刻的状态。
 

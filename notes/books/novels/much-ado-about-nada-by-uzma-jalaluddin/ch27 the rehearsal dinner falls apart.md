@@ -19,7 +19,7 @@ modified: "2026-09-29"
 
 **中文理解**："你知道我叫 Nada。别演了。"
 
-**关键词：** You know my name（你知道我的名字）/ Drop the act（别演了）
+**关键词**:  You know my name（你知道我的名字）/ Drop the act（别演了）
 
 **为什么这样写**：她没有反驳任何一句话，只是纠正了一个称呼；drop the act 用的是剧场用语，而对方刚刚真的把主角当成了新娘，于是这句纠正同时是在把整场戏的道具拆掉。
 
@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 **中文理解**："一个女人这么恶毒，我觉得挺可怜的。你在毁掉他的人生，你知道吗。"
 
-**关键词：** pathetic（可怜的）/ so spiteful（这么恶毒）/ ruining his life（毁掉他的人生）
+**关键词**:  pathetic（可怜的）/ so spiteful（这么恶毒）/ ruining his life（毁掉他的人生）
 
 **为什么这样写**：pathetic 这个词在英语里既是"可怜"也是"可悲"，一个词就把同情和鄙视一起说完；加上 so spiteful 之后，整句的语气从评论滑到了定罪，而被定罪的人甚至还没开口。
 
@@ -43,7 +43,7 @@ modified: "2026-09-29"
 
 **中文理解**："他偷过我的，也偷过别人的，他对你也会一样。我们彼此不喜欢对方，可我不想看到你出事。"
 
-**关键词：** He stole from me and others（他偷过我的也偷过别人的）/ he'll do the same to you（他对你也会一样）/ I don't want anything bad to happen to you（我不想看到你出事）
+**关键词**:  He stole from me and others（他偷过我的也偷过别人的）/ he'll do the same to you（他对你也会一样）/ I don't want anything bad to happen to you（我不想看到你出事）
 
 **为什么这样写**：前面那句"他不是好人"说完，她隔了一轮才把这一句递出来，于是整句话变成一个对自己都没好处的提醒；而 he'll do the same to you 把未来摆成必然，读者听见的是她已经知道结局、只是不肯认输。
 
@@ -55,7 +55,7 @@ modified: "2026-09-29"
 
 **中文理解**："他没有立场。我信你。"
 
-**关键词：** He doesn't have a side（他没有立场）/ I believe（我相信）
+**关键词**:  He doesn't have a side（他没有立场）/ I believe（我相信）
 
 **为什么这样写**：别人还在争谁版本是真的，他直接跳到相信哪一个人；七个词里没有一个解释，读者听见的却是一句迟到了六年的、和当年在图书馆里完全对称的话。
 
@@ -67,7 +67,7 @@ modified: "2026-09-29"
 
 **中文理解**："有人跟我说，我太有天赋了，不该放弃音乐。"
 
-**关键词：** too talented（太有天赋）/ give up on music（放弃音乐）
+**关键词**:  too talented（太有天赋）/ give up on music（放弃音乐）
 
 **为什么这样写**：他说的是"有人告诉我"，读者却立刻知道那个人是谁；而整句用一种轻描淡写的抱怨语气，把当年她在速配桌前说的那个主意变成了他今天的职业方向。
 
@@ -79,7 +79,7 @@ modified: "2026-09-29"
 
 **中文理解**："如果你听了坏主意，或者跟着坏榜样走，能怪的就只有一个人。"
 
-**关键词：** take bad advice（听坏主意）/ follow a bad example（跟坏榜样）/ only one person at fault（能怪的就一个人）
+**关键词**:  take bad advice（听坏主意）/ follow a bad example（跟坏榜样）/ only one person at fault（能怪的就一个人）
 
 **为什么这样写**：这是一句可以当格言用的判词，可他说得又平又稳，像在陈述一条不针对任何人的法律；而这句话紧接着她对 Rusul 的那句维护之后落地，读者才听得出，它是说给她母亲听的，也是说给他自己听的。
 
@@ -91,7 +91,7 @@ modified: "2026-09-29"
 
 **中文理解**："很高兴看到你玩得开心——你刚把我的职业生涯一把火烧了。"
 
-**关键词：** setting my career on fire（把我的职业生涯点着了）
+**关键词**:  setting my career on fire（把我的职业生涯点着了）
 
 **为什么这样写**：on fire 这个说法把一场诉讼说成了一场纵火，而 Glad to see 把它包成祝贺；两者拼在一起是一句完美的反讽，读者听见的是一个人被逼到墙角之后，连失态都失态得体面。
 
@@ -103,7 +103,7 @@ modified: "2026-09-29"
 
 **中文理解**："因为不会有婚礼了。Zayn 两天前就取消了。"
 
-**关键词：** there isn't going to be a wedding（不会有婚礼了）/ two days ago（两天前）
+**关键词**:  there isn't going to be a wedding（不会有婚礼了）/ two days ago（两天前）
 
 **为什么这样写**：前面那句"我在参加我的彩排晚宴"还是礼仪套话，这一句用 except 把整套话术整个掀掉；two days ago 这个时间差放在最后，读者才算出新娘这两天的笑容是怎么撑过来的。
 

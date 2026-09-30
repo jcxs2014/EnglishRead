@@ -20,7 +20,7 @@ modified: "2026-09-29"
 
 **中文理解**："我不需要靠本子来记住。我怀疑我这辈子都不会忘记今天和你在这儿。"
 
-**关键词：** a notebook to remember（靠本子记住）/ I'll ever forget（我会忘记）
+**关键词**:  a notebook to remember（靠本子记住）/ I'll ever forget（我会忘记）
 
 **为什么这样写**：她问的是一个关于写作的玩笑，他把它接成了关于记忆的承诺；I doubt 一句把最重的话包在一种学术式的怀疑里，读者听得出他其实一点也不怀疑。
 
@@ -32,7 +32,7 @@ modified: "2026-09-29"
 
 **中文理解**："这里是我的家，我最后总会回到这儿。不过在 meantime，我正享受着把事情慢慢想明白的过程。"
 
-**关键词：** This is home（这里是我的家）/ end up back here（最后总会回到这儿）/ in the meantime（在 meantime 这段时间里）
+**关键词**:  This is home（这里是我的家）/ end up back here（最后总会回到这儿）/ in the meantime（在 meantime 这段时间里）
 
 **为什么这样写**：前两句是认输，后一句是抢在认输之前先宣布自己拿到了好处；in the meantime 把全部的将来时压成一段空白，读者于是明白这段关系的期限已经被他说出来了。
 
@@ -44,7 +44,7 @@ modified: "2026-09-29"
 
 **中文理解**："我不一样。我想搬出去，我想去旅行。可我父母不会同意，在我结婚之前不会。"
 
-**关键词：** It's different for me（我不一样）/ I want to travel（我想去旅行）/ not until I'm married（不到结婚不罢休）
+**关键词**:  It's different for me（我不一样）/ I want to travel（我想去旅行）/ not until I'm married（不到结婚不罢休）
 
 **为什么这样写**：三个短句全是直陈，中间两句用同一个 I want 排比，最后一句用 not until 把整段话钉回父母那条线上；她说完立刻 froze，而叙述者只补一句"希望他别误会我在暗示什么"——读者已经听见了。
 
@@ -56,7 +56,7 @@ modified: "2026-09-29"
 
 **中文理解**："我想做很多事，可我怕自己失败。我没有安全网。"
 
-**关键词：** I want to do so much（我想做很多事）/ I'm scared I'll fail（我怕自己失败）/ I don't have a safety net（我没有安全网）
+**关键词**:  I want to do so much（我想做很多事）/ I'm scared I'll fail（我怕自己失败）/ I don't have a safety net（我没有安全网）
 
 **为什么这样写**：她本可以说"我父母不让"，那句话说出口又咽了回去，换成这一句；三个分句从"想"到"怕"再到"没有"，前一句还留着可能性，后一句就把退路整个取消，而 safety net 把整段家庭压力翻译成一件可以垫在身下的东西。
 
@@ -68,7 +68,7 @@ modified: "2026-09-29"
 
 **中文理解**："我让他们心碎了。"
 
-**关键词：** I broke their hearts（我让他们心碎了）
+**关键词**:  I broke their hearts（我让他们心碎了）
 
 **为什么这样写**：回答父母是否生气的那一问，他用了一句不带任何解释的陈述；matter-of-factly 紧跟其后，把这份坦白处理成一条已经结案的旧账，读者听不见悔意，只听见他早就想过无数遍。
 
@@ -80,7 +80,7 @@ modified: "2026-09-29"
 
 **中文理解**："我会把它们存下来，这样一天结束的时候就有东西可以读。"
 
-**关键词：** used to save them（会把它们存下来）/ at the end of the day（一天结束的时候）/ something to read（有东西可读）
+**关键词**:  used to save them（会把它们存下来）/ at the end of the day（一天结束的时候）/ something to read（有东西可读）
 
 **为什么这样写**：他上一句还在说天天盼着她的信，这一句就降成一个具体到近乎寒酸的习惯——存起来留到收工后读；to have something to read 这个不定式把"读完就睡"讲得极其日常，读者听见的不是浪漫，是一个人在异乡靠邮件过日子。
 
@@ -92,7 +92,7 @@ modified: "2026-09-29"
 
 **中文理解**："我真的很喜欢你，Nada，可我以前没做过这种事。"
 
-**关键词：** I really like you（我真的很喜欢你）/ I haven't done this before（我以前没做过这种事）
+**关键词**:  I really like you（我真的很喜欢你）/ I haven't done this before（我以前没做过这种事）
 
 **为什么这样写**：前半句是表白，后半句立刻自我拆台，而 hadn't done this before 这个坦白等于承认自己也在生手；整句没有一个多余的字，读者听见的正是一通鼓足了勇气才拨出去的、不熟练的电话。
 
@@ -104,7 +104,7 @@ modified: "2026-09-29"
 
 **中文理解**："我想让所有人都知道你的存在。但我也想先弄清楚这是什么，再把别人牵进来。"
 
-**关键词：** tell everyone about you（让所有人知道你）/ figure out what this is（弄清楚这是什么）/ bring anyone else into it（把别人牵进来）
+**关键词**:  tell everyone about you（让所有人知道你）/ figure out what this is（弄清楚这是什么）/ bring anyone else into it（把别人牵进来）
 
 **为什么这样写**：两个 I 分别领起"公开"和"不公开"，而 but 把后一句压在前一句上面，于是他的体贴读起来像一次推迟；bring anyone else into it 用的是把人拉进一个房间的动作，读者于是看见这通电话真正的风险不在父母，在所有还没成形的将来。
 

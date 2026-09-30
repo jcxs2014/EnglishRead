@@ -20,7 +20,7 @@ modified: "2026-09-29"
 
 **中文理解**："一个男人就不能安安静静地亲一下自己老婆吗？"
 
-**关键词：** a man（一个男人）/ kiss his wife（亲自己老婆）/ in peace（安安静静地）
+**关键词**:  a man（一个男人）/ kiss his wife（亲自己老婆）/ in peace（安安静静地）
 
 **为什么这样写**：can not 之后接的竟是一项基本权利，而 in peace 又把这件权利说成是别人打扰来的；这句话在图书馆里说出来理直气壮，读者听见的却是一个必须不断给自己找理由的人。
 
@@ -32,7 +32,7 @@ modified: "2026-09-29"
 
 **中文理解**："我想和你去看金字塔。我想在尼罗河上巡航的时候吻你。"
 
-**关键词：** the pyramids（金字塔）/ cruising the Nile（在尼罗河上巡航）/ kiss you（吻你）
+**关键词**:  the pyramids（金字塔）/ cruising the Nile（在尼罗河上巡航）/ kiss you（吻你）
 
 **为什么这样写**：两个并列的 I want 一句景、一句人，风景句里嵌进一个动作；cruising 这个词把"移动"和"奢侈"放进同一个画面，读者听见的是一个把未来当成已经去过的地方在说话的人。
 
@@ -44,7 +44,7 @@ modified: "2026-09-29"
 
 **中文理解**："我们现在不用做任何决定。我们余生有的是时间慢慢聊、慢慢计划。我爱你。剩下的都是细节。"
 
-**关键词：** don't have to make any decisions（不用做任何决定）/ the rest of our lives（我们余生）/ The rest is just details（剩下的都是细节）
+**关键词**:  don't have to make any decisions（不用做任何决定）/ the rest of our lives（我们余生）/ The rest is just details（剩下的都是细节）
 
 **为什么这样写**：前两句把时间拉到无限长，第三句忽然缩回眼前一秒；而 The rest is just details 这句把一场仓促的、私密的婚事整个降级成"细节"，读者听得出这句话救不了任何事，只救得了今晚。
 
@@ -56,7 +56,7 @@ modified: "2026-09-29"
 
 **中文理解**："我们可以天天都这样。一起醒来。每晚睡在同一张床上。除了彼此，不用向任何人交代。跟我逃走吧？"
 
-**关键词：** Waking up together（一起醒来）/ No one to answer to except each other（除了彼此不用向谁交代）/ Run away with me（跟我逃走吧）
+**关键词**:  Waking up together（一起醒来）/ No one to answer to except each other（除了彼此不用向谁交代）/ Run away with me（跟我逃走吧）
 
 **为什么这样写**：四个短句全是名词短语，像一份日程表，而最后一句才突然变回请求；读者先看见一套完美生活的全部细节，再听见那个把它整个推翻的动词。
 
@@ -68,7 +68,7 @@ modified: "2026-09-29"
 
 **中文理解**："这件事让我震惊，也让我失望，Nada。你几乎没考虑后果，就嫁给了一个陌生人。你当时在想什么？"
 
-**关键词：** shocked and disappointed（震惊又失望）/ married a stranger（嫁给一个陌生人）/ little thought of the consequences（没怎么考虑后果）
+**关键词**:  shocked and disappointed（震惊又失望）/ married a stranger（嫁给一个陌生人）/ little thought of the consequences（没怎么考虑后果）
 
 **为什么这样写**：她找的是全城最不会评判她的人，而对面第一句就是审判；What were you thinking 用一个最家常的问法把整场谈话拽到最不客气的位置，读者听见的是一扇门在她面前合上。
 
@@ -80,7 +80,7 @@ modified: "2026-09-29"
 
 **中文理解**："他也许是个不错的小伙子，但他显然还没有准备好面对婚姻会带来的所有东西。"
 
-**关键词：** a fine young man（不错的小伙子）/ not ready（还没准备好）/ everything a marriage will bring（婚姻会带来的一切）
+**关键词**:  a fine young man（不错的小伙子）/ not ready（还没准备好）/ everything a marriage will bring（婚姻会带来的一切）
 
 **为什么这样写**：前半句先替对方留了余地，后半句用 clearly 把这份余地收回；everything a marriage will bring 不做枚举，于是批评悬在半空，读者被迫自己往下想。
 
@@ -92,7 +92,7 @@ modified: "2026-09-29"
 
 **中文理解**："我结过十五年婚，孩子。前夫不是个坏人，但他从来不想让我为自己去争取任何东西。"
 
-**关键词：** married for fifteen years（结过十五年婚）/ not a bad man（不是个坏人）/ pursue anything for myself（为自己争取任何东西）
+**关键词**:  married for fifteen years（结过十五年婚）/ not a bad man（不是个坏人）/ pursue anything for myself（为自己争取任何东西）
 
 **为什么这样写**：先承认对方不是坏人，再用一个 never 把全部问题归到一处；habibti 这个称呼放在十五年之后分量更重，读者听得出这不是反驳，是证词。
 
@@ -104,7 +104,7 @@ modified: "2026-09-29"
 
 **中文理解**："我把你那个 Ask Apa 点子告诉我儿子 Haneef 了，他觉得是个好主意。"
 
-**关键词：** I told my son, Haneef（我告诉我儿子 Haneef）/ your idea for the Ask Apa app（你那个 Ask App 点子）/ he thought it was a good one（他觉得是个好主意）
+**关键词**:  I told my son, Haneef（我告诉我儿子 Haneef）/ your idea for the Ask Apa app（你那个 Ask App 点子）/ he thought it was a good one（他觉得是个好主意）
 
 **为什么这样写**：整句是极平常的一句报信，可它同时办了三件事：通知、介绍、以及把一个母亲变成了中间人；而 it was a good one 这个轻飘飘的评价，正是后来那场纠纷的全部开端。
 

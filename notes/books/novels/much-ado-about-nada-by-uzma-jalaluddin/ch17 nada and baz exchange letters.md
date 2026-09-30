@@ -20,7 +20,7 @@ modified: "2026-09-29"
 
 **中文理解**："记住，语法就像一道复杂的数学题，只不过没有人真懂那些规则，因为它们是很久以前一帮死掉的白人老爷定的。"
 
-**关键词：** a complicated math equation（一道复杂的数学题）/ no one really understands the rules（没有人真懂那些规则）/ dead white dudes（一帮死掉的白人老爷）
+**关键词**:  a complicated math equation（一道复杂的数学题）/ no one really understands the rules（没有人真懂那些规则）/ dead white dudes（一帮死掉的白人老爷）
 
 **为什么这样写**：他刚用工程师的口气讲完标点规则，立刻拿工程师的比喻把这套规则作废；except 一句把转折做成结论，而 dead white dudes 这个粗口让整段教学在最后一秒垮掉，读者听见的不是纠正，是两个人在互相逗。
 
@@ -32,7 +32,7 @@ modified: "2026-09-29"
 
 **中文理解**："第一，我知道逗号是干什么用的。第二，谁会用逗号啊，它还彻底打断我的思路。"
 
-**关键词：** First of all（第一）/ what a comma is for（逗号是干什么用的）/ interfere with your flow（打断你的思路）
+**关键词**:  First of all（第一）/ what a comma is for（逗号是干什么用的）/ interfere with your flow（打断你的思路）
 
 **为什么这样写**：First of all 和 Second of all 把回信排成清单，一开口就是把老师批改作业；what a comma is for 用一个孩子问问题的方式回答，而 totally interfere with your flow 里的 flow 又是他刚刚教她的词，她用他的词反过来顶他。
 
@@ -44,7 +44,7 @@ modified: "2026-09-29"
 
 **中文理解**："可惜不是每个人都像你一样，敢把自己的语法搞成无政府状态。"
 
-**关键词：** Sadly（可惜）/ as brave or as bold（像你这样大胆）/ grammatical anarchy（语法的无政府状态）
+**关键词**:  Sadly（可惜）/ as brave or as bold（像你这样大胆）/ grammatical anarchy（语法的无政府状态）
 
 **为什么这样写**：他上一封还在教她规矩，这一封就改口羡慕她的破规矩；anarchy 这个词把她的乱写抬成了主张，而 Sadly 一个词就把自己放回了规矩那一边，读者听见的是一个人输得心甘情愿。
 
@@ -56,7 +56,7 @@ modified: "2026-09-29"
 
 **中文理解**："你知道吗，有姐妹的男人往往比没有姐妹的更适应得好、也更心理健康。"
 
-**关键词：** men who have sisters（有姐妹的男人）/ tend to be（往往更）/ well-adjusted（适应得更好的）
+**关键词**:  men who have sisters（有姐妹的男人）/ tend to be（往往更）/ well-adjusted（适应得更好的）
 
 **为什么这样写**：一个问句里塞进一项社会统计，而 well-adjusted 和 mentally healthy 两个褒义形容词把结论先给出去了；读者因此听出他不是真的在问她知不知道，而是在给她一个留着当下去的理由。
 
@@ -68,7 +68,7 @@ modified: "2026-09-29"
 
 **中文理解**："我的人生基本上早就替我定好了。我要做的只是沿着铺好的那条路走。"
 
-**关键词：** already decided for me（早就替我定好了）/ walk the path laid out（沿着铺好的路走）
+**关键词**:  already decided for me（早就替我定好了）/ walk the path laid out（沿着铺好的路走）
 
 **为什么这样写**：decided 用被动，而 for me 把主语从自己换成了别人，于是"被安排"变成了一件发生在自己身上的自然事；铺好的路连弯都没有，读者看见的是他把反抗的力气提前用光了。
 
@@ -80,7 +80,7 @@ modified: "2026-09-29"
 
 **中文理解**："既然上哪所学校、学什么其实都无所谓，那你就该去你真正想去的地方、学你真正想学的东西，未来的事留到未来再操心。"
 
-**关键词：** doesn't matter（无所谓）/ exactly where you want（正是你想去的地方）/ worry about the future in the future（未来的事留到未来再操心）
+**关键词**:  doesn't matter（无所谓）/ exactly where you want（正是你想去的地方）/ worry about the future in the future（未来的事留到未来再操心）
 
 **为什么这样写**：整句是一个条件句套三个并列的祈使句，exactly 出现两次，把"随便"和"所要"顶在一起；in the future 重复 future 这个词本身，让读者听见她把同一件事说了两遍——她有多想说，又有多不敢说。
 
@@ -92,7 +92,7 @@ modified: "2026-09-29"
 
 **中文理解**："给建议的人手册里第一条规则，就是拥抱 hypocrisy。"
 
-**关键词：** the advice-givers playbook（给建议的人手册）/ Rule number one（第一条规则）/ Embrace the Hypocrisy（拥抱自相矛盾）
+**关键词**:  the advice-givers playbook（给建议的人手册）/ Rule number one（第一条规则）/ Embrace the Hypocrisy（拥抱自相矛盾）
 
 **为什么这样写**：她刚指责他把自己的建议原封不动地扔回给自己，于是承认两者都是傻子；Embrace 后面接的名词被大写成一条口号，两个词拼在一起既荒唐又准确，读者笑出声的同时也听见她已经放弃辩赢了。
 
@@ -104,7 +104,7 @@ modified: "2026-09-29"
 
 **中文理解**："如果刚才还不够清楚，那我现在正式约你出去。"
 
-**关键词：** In case that wasn't clear（如果刚才还不够清楚）/ I'm asking you out（我约你出去）
+**关键词**:  In case that wasn't clear（如果刚才还不够清楚）/ I'm asking you out（我约你出去）
 
 **为什么这样写**：前面他还在幽默地列举两人共同认识的年份和年龄，到这一句全部收干净，只剩一个动词短语；In case that wasn't clear 把责任轻轻推回给她，而真正难说出口的人其实是他。
 

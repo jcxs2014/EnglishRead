@@ -19,7 +19,7 @@ modified: "2026-09-29"
 
 **中文理解**：到目前为止，这个周末像是某件事的终局开头，又或者像是开场的终局。
 
-**关键词：** the beginning of the end（终局的开头）/ or maybe（又或者）/ the end of the beginning（开场的终局）
+**关键词**:  the beginning of the end（终局的开头）/ or maybe（又或者）/ the end of the beginning（开场的终局）
 
 **为什么这样写**：两个结构完全对称的 of 短语互为镜像，把一句最普通的不确定写出了格言的重量；the 反复出现，让读者意识到她连自己的处境都说不准是开始还是结束——而这份说不准正是昨夜那场谈话留在她身上的东西。
 
@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 **中文理解**："你这张脸，让人看了就想告你。"
 
-**关键词：** a face that makes people want to（一张让人想……的脸）/ to sue（告你）
+**关键词**:  a face that makes people want to（一张让人想……的脸）/ to sue（告你）
 
 **为什么这样写**：定语从句把"脸"与"诉讼"硬接在一起，中间只用一个 makes people want to 过渡，荒诞因此不需要任何解释；她本在求他推荐律师，却拿律师这件事本身开刀，一句话把求人的姿态转成挑衅，处境与性格同时交代。
 
@@ -43,7 +43,7 @@ modified: "2026-09-29"
 
 **中文理解**："我要叫媒体。我要在脸书上辱骂你。我还要在 WhatsApp 上发起连锁签名请愿！"
 
-**关键词：** call the press（叫媒体）/ badnaam（用乌尔都语辱骂）/ a chain letter petition（连锁签名请愿）
+**关键词**:  call the press（叫媒体）/ badnaam（用乌尔都语辱骂）/ a chain letter petition（连锁签名请愿）
 
 **为什么这样写**：三个以 I will 开头的句子一路加码，从正规媒体一路降到社交平台，构成一条越来越原始的施压链；badnaam 这个外来词嵌在英文句子里，是南亚母亲在英语世界里的真实武器，而 chain letter 三个词自带的末日感，正好被这一章后来发生的闹剧一一兑现。
 
@@ -55,7 +55,7 @@ modified: "2026-09-29"
 
 **中文理解**：他把演戏的基因从母亲那里继承了下来。
 
-**关键词：** inherited（继承）/ the drama gene（演戏的基因）/ from his mother（来自他母亲）
+**关键词**:  inherited（继承）/ the drama gene（演戏的基因）/ from his mother（来自他母亲）
 
 **为什么这样写**：gene 让家庭特质变成可遗传的生理玩笑，读者不必评价谁对谁错，性格的传递就被交代完；母子和女儿共享同一副脾气，而娜达此刻正在用这种脾气对付 Baz——这层同源关系让全家的荒诞一次连上三人。
 
@@ -67,7 +67,7 @@ modified: "2026-09-29"
 
 **中文理解**：他的共济失调——一种罕见的神经与肌肉疾病，会导致四肢震颤。
 
-**关键词：** ataxia（共济失调）/ a rare neurological and muscular condition（罕见的神经与肌肉疾病）/ tremors in his limbs（四肢震颤）
+**关键词**:  ataxia（共济失调）/ a rare neurological and muscular condition（罕见的神经与肌肉疾病）/ tremors in his limbs（四肢震颤）
 
 **为什么这样写**：同位语把一个专业词当场翻译成普通读者的语言，前面加 rare，后面给症状，读者三句话内完成从"不懂"到"明白这件事有多重"的全过程；而这一切是用一段平静的说明插入的，越是平静，越显出这个家庭日常背负的重量。
 
@@ -79,7 +79,7 @@ modified: "2026-09-29"
 
 **中文理解**：大多数人对他要么就是把他当小孩哄，要么就是干脆当没看见。
 
-**关键词：** Most people tended to（大多数人倾向于）/ either（要么）/ infantilize（当婴儿般对待）
+**关键词**:  Most people tended to（大多数人倾向于）/ either（要么）/ infantilize（当婴儿般对待）
 
 **为什么这样写**：either 后面省略了另一半，句子因此悬在半空，读者必须顺着 either 想出"要么无视"，而这正是叙述者要的那份不义；把两种加害并列却不加评论，讽刺由结构本身完成。
 
@@ -91,7 +91,7 @@ modified: "2026-09-29"
 
 **中文理解**：她那个寡言的哥哥最不愿意做的事，就是当众解剖自己还在流血的心。
 
-**关键词：** reserved（寡言的）/ a public postmortem（一次公开的验尸）/ his still-bleeding heart（他还在流血的心）
+**关键词**:  reserved（寡言的）/ a public postmortem（一次公开的验尸）/ his still-bleeding heart（他还在流血的心）
 
 **为什么这样写**：postmortem 是医学与死亡报告的词，被搬来给一个仍然活着的人，读者立刻感到那种不合时宜的残忍；reserved 一词又提前说明这是他的性格，于是"不愿公开验尸"成了性格与创口的双重推托。
 
@@ -103,7 +103,7 @@ modified: "2026-09-29"
 
 **中文理解**：她努力不去太佩服 Baz 应付她母亲的第二场会面时那份老练。
 
-**关键词：** masterful（老练到近乎表演的）/ managed（应付、掌控）/ the second meeting（第二场会面）
+**关键词**:  masterful（老练到近乎表演的）/ managed（应付、掌控）/ the second meeting（第二场会面）
 
 **为什么这样写**：managed 与 masterful 的头韵把叙述从"他做了什么"推到"他多会做"；the second meeting 精确的序数说明娜达心里一直在数——她记得每一次交锋，而这句话就是她数完之后的结论。
 

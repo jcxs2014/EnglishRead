@@ -19,7 +19,7 @@ modified: "2026-09-29"
 
 **中文理解**：她昏了头，有那么一瞬间跳回了少年时的那场罗曼史，可那不是真的，而她现在输不起这份好不容易换来的谨慎。
 
-**关键词：** lost her head（昏了头）/ leapt for a brief moment（有一瞬间跳了回去）/ jeopardize（拿……去冒险）
+**关键词**:  lost her head（昏了头）/ leapt for a brief moment（有一瞬间跳了回去）/ jeopardize（拿……去冒险）
 
 **为什么这样写**：leapt 是个往下砸的动词，而 for a brief moment 又把这次坠落标了时限；后半句两个短句一转折一收束，读者听见一个人正在给自己的动摇找一份听起来理性的说明书。
 
@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 **中文理解**："Baz 消失的时间，和你差不多。"
 
-**关键词：** disappeared（消失）/ around the same time（差不多同一时间）
+**关键词**:  disappeared（消失）/ around the same time（差不多同一时间）
 
 **为什么这样写**：disappeared 这个词是那天整场戏里用得最重的一个，而说话的人只是顺口一提；around the same time 把两个人的消失摆成对称，读者立刻明白这不是巧合，只是谁都没有说破。
 
@@ -43,7 +43,7 @@ modified: "2026-09-29"
 
 **中文理解**："还好你和 Baz 在大会上没处到一起，不然我可能就得去砍——哎，你没事吧？"
 
-**关键词：** didn't hit it off（没处到一起）/ cut a（砍……）/ hey, are you okay（哎，你没事吧）
+**关键词**:  didn't hit it off（没处到一起）/ cut a（砍……）/ hey, are you okay（哎，你没事吧）
 
 **为什么这样写**：cut a 后面那个没说完的词被生生切断，读者只能自己补完它有多狠；下一句问候来得又快又轻，一句话之内从最坏的猜测跳到最日常的关心，这份转换本身就是她此刻的心理。
 
@@ -55,7 +55,7 @@ modified: "2026-09-29"
 
 **中文理解**："他想请 Firdous 来，我不知道怎么拒绝。"
 
-**关键词：** wants to invite（想请）/ I don't know how to（我不知道怎么）
+**关键词**:  wants to invite（想请）/ I don't know how to（我不知道怎么）
 
 **为什么这样写**：整句里最重的信息是 wants to invite，而它被放在一个再普通不过的位置；I don't know how to say no 把她的为难摆在明面上，读者却听得出来，她为难的不是怎么拒绝，而是怎么问出下一句。
 
@@ -67,7 +67,7 @@ modified: "2026-09-29"
 
 **中文理解**：那些话像一把匕首扎进她的胸口，穿过骨头，直直插进心里。
 
-**关键词：** a dagger（匕首）/ through bone（穿过骨头）/ straight into her heart（直直插进心里）
+**关键词**:  a dagger（匕首）/ through bone（穿过骨头）/ straight into her heart（直直插进心里）
 
 **为什么这样写**：through bone 和 straight into 两个介词短语把一把刀的路分成三段，每一段都比上一段更深；读者于是被按着走完一条从表皮到心脏的路径，而这一切只用了半句话。
 
@@ -79,7 +79,7 @@ modified: "2026-09-29"
 
 **中文理解**："别那么加拿大，动不动就道歉。我知道你在大会上见到 Baz 了。"
 
-**关键词：** Stop being so Canadian（别那么加拿大）/ I know you saw（我知道你见到了）
+**关键词**:  Stop being so Canadian（别那么加拿大）/ I know you saw（我知道你见到了）
 
 **为什么这样写**：她被一个国籍当成了性格，而道歉这件小事立刻被这条罪名推翻了；后半句直接跳到正题，两个句子之间没有过渡，读者听得出对面那个人早就等着她先开口。
 
@@ -91,7 +91,7 @@ modified: "2026-09-29"
 
 **中文理解**："他跟我说，隔了这么多年再见你之后，他才意识到自己一直抓着一个早就不存在的东西。"
 
-**关键词：** made him realize（让他意识到）/ been holding on to（一直抓着）/ doesn't exist anymore（早就不存在了）
+**关键词**:  made him realize（让他意识到）/ been holding on to（一直抓着）/ doesn't exist anymore（早就不存在了）
 
 **为什么这样写**：整句的主语是"他告诉我的转述"，而真正的暴击藏在最后一个定语从句里；has been holding on 这个进行时把"抓着"这件事拉成了一段持续的动作，读者听见的是一句迟到了七年的自我诊断。
 
@@ -103,7 +103,7 @@ modified: "2026-09-29"
 
 **中文理解**："我觉得最好还是结束这件事、往前走吧，这一次是真的。"
 
-**关键词：** end things（把事情结束）/ move on（往前走）/ for real this time（这一次是真的）
+**关键词**:  end things（把事情结束）/ move on（往前走）/ for real this time（这一次是真的）
 
 **为什么这样写**：for real this time 挂在句末，像一句迟到了很久的加餐；它承认前面那些次"再等等"全都是假的，读者于是知道说这句话的人一直在数她拖过去的次数。
 

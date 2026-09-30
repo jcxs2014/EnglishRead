@@ -19,7 +19,7 @@ modified: "2026-09-29"
 
 **中文理解**："为什么就没有人要呢？"
 
-**关键词：** Why doesn't（为什么不）/ anybody（任何人）/ want me（要我）
+**关键词**:  Why doesn't（为什么不）/ anybody（任何人）/ want me（要我）
 
 **为什么这样写**：一个问句，没有主语也没有对象，像是从身上掉下来的；认识 Haleema 这么多年，读者很少听见她用这么小的声音问一句关于自己的话。
 
@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 **中文理解**："不是的。我能告诉你一件事：不管这是什么事，它都跟你本身无关。"
 
-**关键词：** That's not true（不是的）/ whatever this is（不管这是什么事）/ it's not about you（它跟你无关）
+**关键词**:  That's not true（不是的）/ whatever this is（不管这是什么事）/ it's not about you（它跟你无关）
 
 **为什么这样写**：她没有说"他们会回头的"，也没有说"你很美"；whatever this is 把问题整个抽象化，读者听见的是一个习惯先拆结构再说结论的人——她处理危机的顺序，和她母亲处理催婚的顺序完全一样。
 
@@ -43,7 +43,7 @@ modified: "2026-09-29"
 
 **中文理解**："他每次看见你，整个人都亮了起来。"
 
-**关键词：** lit up（亮起来）/ every time（每一次）/ he saw you（看见你时）
+**关键词**:  lit up（亮起来）/ every time（每一次）/ he saw you（看见你时）
 
 **为什么这样写**：lit up 这个短语把一整套感受压缩成一次视觉事件，读者看不见灯光，只看见一个人在发光；她犹豫了片刻才说这句，读者听得出她既不想撒谎，也不想替对方添希望。
 
@@ -55,7 +55,7 @@ modified: "2026-09-29"
 
 **中文理解**："你还没见过那个人呢。挺帅的……挺逗的……你也有伴了，真好……"
 
-**关键词：** Cute（挺帅的）/ funny（挺逗的）/ good for you to have someone（你也有伴了）
+**关键词**:  Cute（挺帅的）/ funny（挺逗的）/ good for you to have someone（你也有伴了）
 
 **为什么这样写**：三个词之间全被省略号切开，是一个正在被药劲拖进睡眠的人勉强说出的证词；good for you 这句祝福在此刻听上去几乎像一句遗言——而她第二天醒来就忘了自己还说过这句。
 
@@ -67,7 +67,7 @@ modified: "2026-09-29"
 
 **中文理解**："我想我也许可以来这边帮上点忙。"
 
-**关键词：** I thought（我想）/ might be able to（也许可以）/ help here（来这边帮忙）
+**关键词**:  I thought（我想）/ might be able to（也许可以）/ help here（来这边帮忙）
 
 **为什么这样写**：instead 这个词把整句话的重心挪到了"代替缺席的哥哥在这里"；而他选择说的是这一句而不是"我来看看"，读者听得出他这一个月来一直在这栋房子里，只是没人叫他下来。
 
@@ -79,7 +79,7 @@ modified: "2026-09-29"
 
 **中文理解**："谁都会临阵怯场的。我知道 Zayn 爱我。他会想明白的。"
 
-**关键词：** cold feet（临阵怯场）/ loves me（爱我）/ come to his senses（想明白过来）
+**关键词**:  cold feet（临阵怯场）/ loves me（爱我）/ come to his senses（想明白过来）
 
 **为什么这样写**：三句全是自我安慰，而且是那种最常见、最没有根据的安慰；读者听得出她其实在给一个两天前刚打电话退婚的人找台阶，而这也正是她自己六年来的原话。
 
@@ -91,7 +91,7 @@ modified: "2026-09-29"
 
 **中文理解**："Baz 比我小，可我们俩一直有这个颠倒。我仰望着他。連他都没办法和自己爱了大半辈子的那个女人把日子过下去，我还有什么机会？"
 
-**关键词：** role reversal（角色颠倒）/ I look up to him（我仰望着他）/ what chance do I have（我还有什么机会）
+**关键词**:  role reversal（角色颠倒）/ I look up to him（我仰望着他）/ what chance do I have（我还有什么机会）
 
 **为什么这样写**：整段话的骨架是一个 if even he can't 的条件句——用弟弟的失败来推自己的失败；role reversal 这四个字把兄弟俩的位置说反了，读者于是听见这个从小被当作哥哥的人，其实一直是弟弟在撑。
 
@@ -103,7 +103,7 @@ modified: "2026-09-29"
 
 **中文理解**："听一个到过那里、并且选错的人说吧。选爱和幸福，别选恐惧。要有信念。否则留给你的唯一安慰，就是当一切希望都没了之后，你还爱得更久一点。"
 
-**关键词：** made the wrong choice（选错过）/ Choose love and happiness, not fear（选爱与幸福，别选恐惧）/ Have faith（要有信念）/ when all hope is gone（当一切希望都没了）
+**关键词**:  made the wrong choice（选错过）/ Choose love and happiness, not fear（选爱与幸福，别选恐惧）/ Have faith（要有信念）/ when all hope is gone（当一切希望都没了）
 
 **为什么这样写**：她把自己的失败当成入场券说出来，Take it from someone who's been there 让劝告有了代价；紧跟着的 Have faith 三个字，是她从不信的那一栏里递过来的，读者听出这既是经验也是警告——因为她自己就是那个"爱得更久"的人。
 

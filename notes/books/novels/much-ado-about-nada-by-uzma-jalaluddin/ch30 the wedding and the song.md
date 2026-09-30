@@ -19,7 +19,7 @@ modified: "2026-09-29"
 
 **中文理解**："那已经足够了。她的目光又一次飘向台上的他。他一直都足够。"
 
-**关键词：** It had been enough（那已经足够了）/ Her gaze drifted once more to him on stage（她的目光又一次飘向台上的他）/ He had always been enough（他一直都足够）
+**关键词**:  It had been enough（那已经足够了）/ Her gaze drifted once more to him on stage（她的目光又一次飘向台上的他）/ He had always been enough（他一直都足够）
 
 **为什么这样写**：完成时的 It had been enough 和 always 承下的 He had always been enough 把整场只有三个人的婚礼和此刻两百人的盛宴放在同一个天平上；夹在中间的那句视线漂移，正是她在两个"足够"之间做的一次校准，读者听见的是她花了六年才承认的一句话。
 
@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 **中文理解**："这一首是给我哥哥和新嫂子的，当然。可它也是给我自己的。"
 
-**关键词：** for my big brother and new sister（给我哥哥和新嫂子）/ of course（当然）/ But it's for me too（可它也是给我自己的）
+**关键词**:  for my big brother and new sister（给我哥哥和新嫂子）/ of course（当然）/ But it's for me too（可它也是给我自己的）
 
 **为什么这样写**：前半句用 of course 把话头让给全场，后半句一个 But 就把听众从两百个人换回他一个人；这半句是全书他说过的最要命的一句谦辞，读者听见的是他明知台下有谁，才敢把话说到这里。
 
@@ -43,7 +43,7 @@ modified: "2026-09-29"
 
 **中文理解**："那时没有成群的祝福者，没有水晶吊灯，没有巨大的花瓶和花墙。没有音乐陪她走过走道，也没有鼓手为她招待宾客。其实连一个宾客都没有。只有一位伊玛目、两位证人、Bisma，和 Baz。"
 
-**关键词：** no crowd of well-wishers（没有成群的祝福者）/ no crystal chandeliers（没有水晶吊灯）/ no music to accompany her down the aisle（没有音乐陪她走过走道）/ Only an imam, two witnesses, Bisma, and Baz（只有一位伊玛目、两位证人、Bisma 和 Baz）
+**关键词**:  no crowd of well-wishers（没有成群的祝福者）/ no crystal chandeliers（没有水晶吊灯）/ no music to accompany her down the aisle（没有音乐陪她走过走道）/ Only an imam, two witnesses, Bisma, and Baz（只有一位伊玛目、两位证人、Bisma 和 Baz）
 
 **为什么这样写**：四个 no 把缺失一件件摆出来，中间那句"没有音乐陪她走过走道"精确到仪式本身，而最后一句用一个 Only 把整场婚礼压缩成一份名单；读者听见的不是穷酸，是一种她愿意认领的完整。
 
@@ -55,7 +55,7 @@ modified: "2026-09-29"
 
 **中文理解**："我一次都没有停过，一次也没有。"
 
-**关键词：** I never stopped（我一次都没有停过）/ not once（一次也没有）
+**关键词**:  I never stopped（我一次都没有停过）/ not once（一次也没有）
 
 **为什么这样写**：stopped 这个动词本身就预设了一个起点——她不是在宣布自己开始爱，而是在清点这六年里没有中断过的事实；not once 再把一次否定压成零，读者听见的是她把六年浓缩成一句对时间的判决。
 
@@ -67,7 +67,7 @@ modified: "2026-09-29"
 
 **中文理解**："我是你的第一批订阅用户之一。"
 
-**关键词：** one of your first subscribers（你的第一批订阅用户之一）
+**关键词**:  one of your first subscribers（你的第一批订阅用户之一）
 
 **为什么这样写**：他用了一个产品术语，把七年前那封没寄出的信、六年里没打的一个电话，压成一次注册；读者听见的是这个人从没有一刻真的走开过。
 
@@ -79,7 +79,7 @@ modified: "2026-09-29"
 
 **中文理解**："我该怎么赢回我所爱的人的心？"
 
-**关键词：** win back（赢回）/ the love of my life（我所爱的人）
+**关键词**:  win back（赢回）/ the love of my life（我所爱的人）
 
 **为什么这样写**：那个被她在推特上标记为"最傻的问题"，他真的输入了，而且输入了很多次；win back 用的是战争的词汇，读者于是听见这六年里他把追回她当成一场必须打赢的仗。
 
@@ -91,7 +91,7 @@ modified: "2026-09-29"
 
 **中文理解**："我也许倔过、傲慢过、怨过，但我从来没有变过心。我这一生只爱过你，我的 Nada。你的心现在还在我这儿，比六年前你打碎它的时候还要完整。我们能再试一次吗？"
 
-**关键词：** never inconstant（从来没有变过心）/ loved none but you（只爱过你）/ Can we try again（我们能再试一次吗）
+**关键词**:  never inconstant（从来没有变过心）/ loved none but you（只爱过你）/ Can we try again（我们能再试一次吗）
 
 **为什么这样写**：三个自我指控排完之后，一个 never 把它们全部推翻；last 一个问题用的是 can we，是请求而不是通牒，而读者听得出，他花了一整首歌才换得说这一句的资格。
 
@@ -103,7 +103,7 @@ modified: "2026-09-29"
 
 **中文理解**："等我们第一个孩子出生之后，这个故事可以慢慢讲。反正到那时候他们想杀我们，也逃不掉换尿布了。"
 
-**关键词：** share that story（把那个故事讲出来）/ murder us（杀了我们）/ changing all the diapers（换所有的尿布）
+**关键词**:  share that story（把那个故事讲出来）/ murder us（杀了我们）/ changing all the diapers（换所有的尿布）
 
 **为什么这样写**：他先用一句玩笑把六年的秘密整个打包，再用一个具体的婴儿用品把读者的想象推到他俩的余生里；murder 用来指父母、diapers 用来挡住父母，两个词之间那道缝就是这一整章的荒诞与温柔。
 

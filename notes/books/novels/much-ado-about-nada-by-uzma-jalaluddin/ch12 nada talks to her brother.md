@@ -19,7 +19,7 @@ modified: "2026-09-29"
 
 **中文理解**：Jameela 是个方脸的女人，三十七岁的她比当年做新娘时更好看。
 
-**关键词：** square-faced（方脸的）/ more attractive（更好看）/ at thirty-seven（三十七岁）/ as a young bride（做新娘时）
+**关键词**:  square-faced（方脸的）/ more attractive（更好看）/ at thirty-seven（三十七岁）/ as a young bride（做新娘时）
 
 **为什么这样写**：前半句用最不留情面的外形词（方脸），后半句立刻用一个跨二十年的比较把判断推翻；as a young bride 把参照点钉在婚礼那一天，于是"变好看了"与"离开了他"在同一句里同时成立，读者不需要任何评论。
 
@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 **中文理解**：只要能避免，Waqas 从不提起 Esa 的名字。
 
-**关键词：** by name（直呼其名）/ if he could help it（只要能避免）
+**关键词**:  by name（直呼其名）/ if he could help it（只要能避免）
 
 **为什么这样写**：if he could help it 是英语里最典型的委婉说法，把一个主动的回避说成无可奈何；by name 则把矛头指向最具体的一样东西——名字，于是读者明白他不是不愿谈前妻，而是不愿承认前妻的丈夫确实存在。
 
@@ -43,7 +43,7 @@ modified: "2026-09-29"
 
 **中文理解**："我知道的，Waqas。你从来不是故意的。"
 
-**关键词：** I know（我知道）/ You never do anything on purpose（你从来不是故意的）
+**关键词**:  I know（我知道）/ You never do anything on purpose（你从来不是故意的）
 
 **为什么这样写**：前一句还是安慰，后一句就变成刀；do anything on purpose 在英语里是日常说法，套在这里却正好命中她丈夫那桩"不是故意"的事——读者听得出这句话二十年如一日地在他们之间被重复。
 
@@ -55,7 +55,7 @@ modified: "2026-09-29"
 
 **中文理解**："爸爸做了最低限度的事总有人鼓掌，妈妈没做到超人就被骂 名声扫地。"
 
-**关键词：** applauded（被鼓掌称赞）/ the bare minimum（最低限度的付出）/ vilified（被丑化抹黑）/ superwomen（超人般的母亲）
+**关键词**:  applauded（被鼓掌称赞）/ the bare minimum（最低限度的付出）/ vilified（被丑化抹黑）/ superwomen（超人般的母亲）
 
 **为什么这样写**：前半句与后半句各用一组不及物的被动（被称赞／被丑化），主语都是一整个群体，句子因此成了一条社会公理；superwomen 这个合成词一出场，就把"妈妈的标准"抬到不可能的高度——整句话不批评任何人，只把两套标准并排摆着。
 
@@ -67,7 +67,7 @@ modified: "2026-09-29"
 
 **中文理解**："我们只是不再……朝同一个目标、那种同样的人生去努力了。"
 
-**关键词：** stopped（停下了）/ working toward the same goal（朝同一个目标努力）/ the same sort of life（那种同样的人生）
+**关键词**:  stopped（停下了）/ working toward the same goal（朝同一个目标努力）/ the same sort of life（那种同样的人生）
 
 **为什么这样写**：他把整段婚姻的终结压缩成一个不及物的停顿，没有对错、没有争吵对象；两个 the same 并列，等于把失败的原因归到"一致"的消失上，读者由此听见一种极安静的、比怨更难受的东西。
 
@@ -79,7 +79,7 @@ modified: "2026-09-29"
 
 **中文理解**：他们的话像一把把小刀，往彼此皮肤底下扎。
 
-**关键词：** like tiny knives（像一把把小刀）/ jabbed（扎）/ under each other's skin（往彼此皮下）
+**关键词**:  like tiny knives（像一把把小刀）/ jabbed（扎）/ under each other's skin（往彼此皮下）
 
 **为什么这样写**：这个词只肯用复数、偏只给一把，读者先看见的是"小"，随即才感到那句"你不是故意的"的锋利；under each other's skin 把刀尖的位置交代得极准——不是伤在表面，是扎进去不见血，而全家人都在假装没看见。
 
@@ -91,7 +91,7 @@ modified: "2026-09-29"
 
 **中文理解**："请务必、务必把这事往心里去，Nada。"
 
-**关键词：** Feel free to（请随意、尽管）／very, very personally（极其往心里去）／Nada（直呼其名）
+**关键词**:  Feel free to（请随意、尽管）／very, very personally（极其往心里去）／Nada（直呼其名）
 
 **为什么这样写**：把一句通常表示"别介意"的话强行拧成反话，意思正好相反；very 重复两次，还在逗号里断开，制造出一种故作体贴的腔调，而直呼其名（而不是只说"你"）把这份体贴戳破成挑衅。
 
@@ -103,7 +103,7 @@ modified: "2026-09-29"
 
 **中文理解**："Baz 和我没有在一起。他该有多幸运啊。"
 
-**关键词：** are not together（没有在一起）/ He should be so lucky（他该多幸运）
+**关键词**:  are not together（没有在一起）/ He should be so lucky（他该多幸运）
 
 **为什么这样写**：第一句是澄清，第二句却把"幸运"的方向悄悄拧了一个身位；should be so lucky 在英语里常是反话，读者不需要她解释就能听出言外之意，而全章她唯一真正想说的话，恰恰是这一句没有说出口的。
 

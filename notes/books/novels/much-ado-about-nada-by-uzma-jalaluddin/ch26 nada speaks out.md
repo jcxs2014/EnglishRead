@@ -19,7 +19,7 @@ modified: "2026-09-29"
 
 **中文理解**："你理想的结果是什么？我猜 El-Haad 先生更倾向于和解，前提是你有他不当行为的证据。你要的是这个吗——损失收入的补偿？"
 
-**关键词：** ideal outcome（理想结果）/ prefer to settle（更愿意和解）/ proof of wrongdoing（不当行为的证据）
+**关键词**:  ideal outcome（理想结果）/ prefer to settle（更愿意和解）/ proof of wrongdoing（不当行为的证据）
 
 **为什么这样写**：律师一开口问的不是"你有没有错"，而是"你想要什么"，这一个问题把整场谈判的方向从对错挪到了价钱；后面那半句还是用问号收的，读者听见的是对方在把她当成一个能算账的当事人。
 
@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 **中文理解**："我试过把它放下，可我做不到。"
 
-**关键词：** put it behind me（把它放下）/ I can't（我做不到）
+**关键词**:  put it behind me（把它放下）/ I can't（我做不到）
 
 **为什么这样写**：前一句"他的整个事业都建立在我被偷走的东西上"才是她真正要说的话，而这一轮她只递出来半句；I can't 三个词收得极干脆，读者听见的是她花了六年才敢承认的那句话——不是不恨，是不敢承认自己还在恨。
 
@@ -43,7 +43,7 @@ modified: "2026-09-29"
 
 **中文理解**："处理创伤是要花时间的。有些人会立刻反应，但很多时候有非常强烈的人际关系牵涉其中，事情就变复杂了。"
 
-**关键词：** process trauma（处理创伤）/ react immediately（立刻反应）/ complicate matters（让事情变复杂）
+**关键词**:  process trauma（处理创伤）/ react immediately（立刻反应）/ complicate matters（让事情变复杂）
 
 **为什么这样写**：律师用一句几乎像心理科普的话，把她的沉默解释成一种常见反应而不是软弱； oftentimes 和 in stake 两个短语把话说得又慢又稳，读者听见的是有人在替她把那句"我当时太蠢了"挡回去。
 
@@ -55,7 +55,7 @@ modified: "2026-09-29"
 
 **中文理解**："一个年轻女人，为了帮助自己的穆斯林社区而做了一份理想主义的商业计划，被一个有多年不干净生意史的家族朋友占了便宜？"
 
-**关键词：** idealistic business plan（理想主义的商业计划）/ taken advantage of（被占便宜）/ a history of shady business practices（有多年不干净生意史）
+**关键词**:  idealistic business plan（理想主义的商业计划）/ taken advantage of（被占便宜）/ a history of shady business practices（有多年不干净生意史）
 
 **为什么这样写**：整句全是名词短语，一个动词都没有，读起来像一份新闻导语；而 taken advantage of 用的是最被动的说法，把主动的那一方整个藏了起来，读者因此听见了律师真正在教她的东西——怎么把这件事说给不认识她的人听。
 
@@ -67,7 +67,7 @@ modified: "2026-09-29"
 
 **中文理解**："在这种时候，舆论法庭可以是一个很有力的盟友。当然，我不是在建议什么。"
 
-**关键词：** the court of public opinion（舆论法庭）/ a powerful ally（很有力的盟友）/ Not that I'm suggesting anything（我不是说我在建议什么）
+**关键词**:  the court of public opinion（舆论法庭）/ a powerful ally（很有力的盟友）/ Not that I'm suggesting anything（我不是说我在建议什么）
 
 **为什么这样写**：前一句用军事与司法的词把网络说成战场，后一句立刻用一个否认把它整个收回去；律师的专业底线和她的私心在同一个句子里打架，读者听见的是有人一边教她，一边假装自己没有那个意思。
 
@@ -79,7 +79,7 @@ modified: "2026-09-29"
 
 **中文理解**："以真主的名义。这件事我会点名。社区里的金童、亲爱的 #UkhtiApp 的 CEO，Haneef El-Haad，是个骗子。他偷了我的点子。"
 
-**关键词：** Bismillah（以真主的名义）/ This story will name names（这件事我会点名）/ is a fraud（是个骗子）
+**关键词**:  Bismillah（以真主的名义）/ This story will name names（这件事我会点名）/ is a fraud（是个骗子）
 
 **为什么这样写**：开头一句祈祷把后面的内容罩上一层庄严，后面的措辞却全是新闻标题和判决书；golden boy 和 fraud 这两个词挨得极近，读者看见的正是舆论最擅长的那一手——用最短的词定性。
 
@@ -91,7 +91,7 @@ modified: "2026-09-29"
 
 **中文理解**："我们在代码、设计和营销上一起干活。他想靠广告赚钱。我想让它一直免费，做成我所在社区和像我这样的其他社区的一份资源。"
 
-**关键词：** code, design, marketing together（代码、设计和营销一起做）/ monetize through advertising（靠广告赚钱）/ I wanted to keep it free（我想让它一直免费）
+**关键词**:  code, design, marketing together（代码、设计和营销一起做）/ monetize through advertising（靠广告赚钱）/ I wanted to keep it free（我想让它一直免费）
 
 **为什么这样写**：前半句用三个并列的名词交代"我们是一起干的"，把功劳分得很匀；后半句才把两个人真正的分歧摆出来，读者由此明白这不是"谁抄了谁"，而是两种生意观撞在了一起。
 
@@ -103,7 +103,7 @@ modified: "2026-09-29"
 
 **中文理解**："她不过是个女孩，本来就该靠别人浪打上来的泡沫过日子。"
 
-**关键词：** foam from other people's waves（别人浪打上来的泡沫）/ just a girl（不过是个女孩）
+**关键词**:  foam from other people's waves（别人浪打上来的泡沫）/ just a girl（不过是个女孩）
 
 **为什么这样写**：foam 这个词把别人的成功说成了一层一戳就破的东西，而 just a girl 把她的年龄和身份一起削下去；整句没有一个脏字，读者却听见了一整套针对女性的说辞。
 

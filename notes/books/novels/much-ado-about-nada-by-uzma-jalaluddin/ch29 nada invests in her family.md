@@ -19,7 +19,7 @@ modified: "2026-09-29"
 
 **中文理解**："别拿那句 Inshallah 来糊弄我，Nada！"
 
-**关键词：** Inshallah（如果真主愿意）/ nonsense（胡话）
+**关键词**:  Inshallah（如果真主愿意）/ nonsense（胡话）
 
 **为什么这样写**：nonsense 这个词把一句虔诚的祈祷直接降级成废话，而她平时连说这句都要带上"如果真主愿意"的完整尾音；读者听见的是"在我家，信仰不是挡箭牌"。
 
@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 **中文理解**："也许这算进步。也许有一天他们能好好说话，不必每聊一句都被撕得粉碎。"
 
-**关键词：** progress（进步）/ talk civilly（好好说话）/ ripped to shreds（撕得粉碎）
+**关键词**:  progress（进步）/ talk civilly（好好说话）/ ripped to shreds（撕得粉碎）
 
 **为什么这样写**：整段由两个 Maybe 领起，一个可能，一个更远；without 引导的部分把"好好说话"的标准定得很低——不是和好，是不撕碎，读者由此听出她对这段关系的要求已经低到了什么程度。
 
@@ -43,7 +43,7 @@ modified: "2026-09-29"
 
 **中文理解**："我还以为你会高兴呢。"
 
-**关键词：** I thought you'd be happy（我还以为你会高兴）/ lying cheerfully（一边撒谎一边笑）
+**关键词**:  I thought you'd be happy（我还以为你会高兴）/ lying cheerfully（一边撒谎一边笑）
 
 **为什么这样写**：这句玩笑的锋刃藏在 thought 这个虚拟语气里——他明知道对方不会高兴，却用 lying cheerfully 这个状语把底牌自己翻了出来，读者听见的不是一个要搬走的儿子，是一个替父母把台阶铺好的人。
 
@@ -55,7 +55,7 @@ modified: "2026-09-29"
 
 **中文理解**："你不是不知感恩，Jamal 也不是没皮没臊。也许你说得还真对。"
 
-**关键词：** ungrateful（不知感恩的）/ shameless（没皮没臊的）/ Perhaps you might even be right（也许你还真说对了）
+**关键词**:  ungrateful（不知感恩的）/ shameless（没皮没臊的）/ Perhaps you might even be right（也许你还真说对了）
 
 **为什么这样写**：前两句用两个形容词把家里两个人都定性了，第三句突然松口；perhaps 和 might even 双重软化，读者听见的正是一个不会吵架、只会和解的父亲——他连认输都要先替对方把台阶留好。
 
@@ -67,7 +67,7 @@ modified: "2026-09-29"
 
 **中文理解**："游轮都是死亡陷阱。"
 
-**关键词：** Cruise ships（游轮）/ death traps（死亡陷阱）
+**关键词**:  Cruise ships（游轮）/ death traps（死亡陷阱）
 
 **为什么这样写**：一句用来堵住女儿的话，说得像一条航海事故新闻；读者听得出这位父亲拒绝新事物的方式，就是把新事物说成凶器——而他下一句就承认自己一辈子没休过假。
 
@@ -79,7 +79,7 @@ modified: "2026-09-29"
 
 **中文理解**："先是 Jamal，接下来很快就是 Waqas，"父亲突然说，"你也一样，会离开这个家。"
 
-**关键词：** First Jamal（先是 Jamal）/ will leave this home（会离开这个家）
+**关键词**:  First Jamal（先是 Jamal）/ will leave this home（会离开这个家）
 
 **为什么这样写**：把三个名字排成一列，动词只有一个，而且是将来时；abruptly 这个副词放在前面，读者听得出这句话在他心里已经排练过很多年，今天只是终于说出口。
 
@@ -91,7 +91,7 @@ modified: "2026-09-29"
 
 **中文理解**："你会的。这就在你血里，比两个儿子还要明显。只是你花了更久一点，才接受自己身上这一部分。"
 
-**关键词：** It's in your blood（就在你血里）/ more than the boys even（比两个儿子还明显）/ a little longer to accept（花了更久一点才接受）
+**关键词**:  It's in your blood（就在你血里）/ more than the boys even（比两个儿子还明显）/ a little longer to accept（花了更久一点才接受）
 
 **为什么这样写**：他连"你会做生意"这件事都是用血缘来说的，而 more than the boys even 把她这个一直被当成"稳定那个"的人一下提到了最前面；最后半句是最温柔的一次纠正——不是你不像，是你自己不认。
 
@@ -103,7 +103,7 @@ modified: "2026-09-29"
 
 **中文理解**："也许你还能问我几个怎么经营生意的问题；我也正好有几个问题要问你。我保证不偷你的点子，你保证跟我解释一下互联网创业是怎么回事。"
 
-**关键词：** ask me a few questions about how to run a business（问我几个怎么经营生意的问题）/ I promise not to steal your ideas（我保证不偷你的点子）/ how an internet start-up works（互联网创业是怎么回事）
+**关键词**:  ask me a few questions about how to run a business（问我几个怎么经营生意的问题）/ I promise not to steal your ideas（我保证不偷你的点子）/ how an internet start-up works（互联网创业是怎么回事）
 
 **为什么这样写**：一个财务上的父亲把自己降级成一个有问必答的咨询对象，还特意加了一句"我保证不偷你的点子"；internet start-up 这个词从他嘴里说出来带着明显的陌生，读者听见的不是玩笑，是这个男人用他能想到的最严肃的方式，给女儿递了一张投资意向书。
 

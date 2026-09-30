@@ -19,7 +19,7 @@ modified: "2026-09-29"
 
 **中文理解**："遗憾，一堆堆在我四周越堆越高。遗憾，由我自己执笔写成。"
 
-**关键词：** piled in growing heaps（越堆越高）/ all around me（在我四周）/ authored by my own hand（由我自己执笔）
+**关键词**:  piled in growing heaps（越堆越高）/ all around me（在我四周）/ authored by my own hand（由我自己执笔）
 
 **为什么这样写**：前一句还是名词的堆积，后一句突然把它变成一份有作者、有笔迹的文件；authored 把"这些遗憾是怎么来的"一次性交代完，读者听见的是一份自己签字的供词。
 
@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 **中文理解**：娜达独自一人，安静地往下沉，而把她按在水下的那只手是她自己的。
 
-**关键词：** quietly drowning（安静地沉下去）/ the hand that held her under（把她按下去的那只手）/ her own（她自己的）
+**关键词**:  quietly drowning（安静地沉下去）/ the hand that held her under（把她按下去的那只手）/ her own（她自己的）
 
 **为什么这样写**：quietly 这个副词决定了这场溺水有多安静，读者因此听不见呼救；把施暴者写成"她自己的一只手"，比任何外部的责难都更难逃开——因为她连恨谁都不知道该恨谁。
 
@@ -43,7 +43,7 @@ modified: "2026-09-29"
 
 **中文理解**：Baz 当初也和她一样相信这个，可他有勇气终于给两个人共同的梦判了死刑。
 
-**关键词：** shared this belief（也抱着同样的信念）/ had the guts（有那个胆量）/ call time of death on（给……判死刑）
+**关键词**:  shared this belief（也抱着同样的信念）/ had the guts（有那个胆量）/ call time of death on（给……判死刑）
 
 **为什么这样写**：belief 和 dream 两个词把它框成两个人共同持有的一份资产，而 call time of death 是一句医学与法律都熟悉的公文用语；读者于是听见他把一桩感情纠纷处理成了一份结案通知。
 
@@ -55,7 +55,7 @@ modified: "2026-09-29"
 
 **中文理解**："四十岁还住在爸妈的地下室里，哪怕我已经有工作也有孩子？不，这不在计划里。我去跟他说。"
 
-**关键词：** To be forty years old（四十岁）/ not part of the plan（不在计划里）/ I'll talk to him（我去跟他说）
+**关键词**:  To be forty years old（四十岁）/ not part of the plan（不在计划里）/ I'll talk to him（我去跟他说）
 
 **为什么这样写**：前半句用一串具体到刺人的事实（年龄、工作、孩子）作主语，后面却跟一个最短的动词；读者听见的是一个把委屈数清楚、然后只给自己留一个动作的人。
 
@@ -67,7 +67,7 @@ modified: "2026-09-29"
 
 **中文理解**："我娶 Jameela 的时候犯过这个错。我把爸爸的安心和不安全感，放在了我妻子想要的上面；那种事我不会再让它发生。"
 
-**关键词：** put Dad's comfort and insecurities above（把爸爸的安心与不安放在更重要的位置）/ what my wife wanted（我妻子想要的）/ won't let that happen again（不会再让它发生）
+**关键词**:  put Dad's comfort and insecurities above（把爸爸的安心与不安放在更重要的位置）/ what my wife wanted（我妻子想要的）/ won't let that happen again（不会再让它发生）
 
 **为什么这样写**：insecurities 这个词把父亲的强硬翻译成了恐惧，读者于是明白那间更大的房子不是控制欲，是补偿；而 won't let that happen again 用一个双重否定把责任接到自己身上，这一晚他不是抱怨的人，是认账的人（ch12、ch18 两次他都是抱怨的那一个）。
 
@@ -79,7 +79,7 @@ modified: "2026-09-29"
 
 **中文理解**："你这一轮重来，有没有从上一轮犯的错里学到点什么？"
 
-**关键词：** past mistakes（过去犯的错）/ learning from（从……里学到）/ this second time around（这一轮重来）
+**关键词**:  past mistakes（过去犯的错）/ learning from（从……里学到）/ this second time around（这一轮重来）
 
 **为什么这样写**：a second time around 把这整件事说成第二季，玩笑的语气却压着一个真问题；而 learning from 用一个求学动词把上一段感情降格成了一次练习。
 
@@ -91,7 +91,7 @@ modified: "2026-09-29"
 
 **中文理解**："我袖子里有几张牌，不过魔术师从来不揭自己的底。"
 
-**关键词：** tricks up my sleeve（袖子里藏着招）/ a magician（魔术师）/ never reveals her secrets（从不揭自己的底）
+**关键词**:  tricks up my sleeve（袖子里藏着招）/ a magician（魔术师）/ never reveals her secrets（从不揭自己的底）
 
 **为什么这样写**：她把"我现在还不说"包装成一句行话，于是拒绝变成了职业操守；紧接着她自己却把袖子翻开了，读者听见的是一个人用玩笑争取到的那两秒钟。
 
@@ -103,7 +103,7 @@ modified: "2026-09-29"
 
 **中文理解**："我要把 Haneef 对我做过的那些事公开。我想我该去了解一下我能走的法律途径。"
 
-**关键词：** go public（公开）/ look into（了解、查一查）/ legal options（法律上的可选办法）
+**关键词**:  go public（公开）/ look into（了解、查一查）/ legal options（法律上的可选办法）
 
 **为什么这样写**：go public 是新闻语言，放在自家饭桌上像一声枪响；look into my legal options 又立刻退回到一种行政式的谨慎，读者听见的是一个人把愤怒先压成流程，再动手。
 

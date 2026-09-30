@@ -20,7 +20,7 @@ modified: "2026-09-29"
 
 **中文理解**："你们两个都还这么年轻，Nada 的工程学位都还没念完。我听说你已经不在学校了？"
 
-**关键词：** so young（这么年轻）/ has not yet finished（还没念完）/ no longer in school（已经不在学校了）
+**关键词**:  so young（这么年轻）/ has not yet finished（还没念完）/ no longer in school（已经不在学校了）
 
 **为什么这样写**：他先用"年轻"当理由，又立刻换成一个具体的进度问题；而 I heard 更把听来的二手消息摆上台面，读者听得出这场审讯是从家里一路准备到咖啡店里的。
 
@@ -32,7 +32,7 @@ modified: "2026-09-29"
 
 **中文理解**："那你打算把你这颗聪明、勤奋又有天赋的脑子用在哪个方向，Baz？还是打算一辈子待在你父亲的店里？"
 
-**关键词：** what direction（哪个方向）/ talented, smart, and hard-working（聪明勤奋有天赋）/ indefinitely（没期限地、一辈子）
+**关键词**:  what direction（哪个方向）/ talented, smart, and hard-working（聪明勤奋有天赋）/ indefinitely（没期限地、一辈子）
 
 **为什么这样写**：三个褒义词先堆到他无法拒绝的位置，下一句才把真正的问句递过去；indefinitely 把"暂时帮忙"改成"永远"，读者听得出这一问不是为了了解，是要一个承诺。
 
@@ -44,7 +44,7 @@ modified: "2026-09-29"
 
 **中文理解**："如果这段关系不会有什么结果，那我看不出现在继续下去有什么意义。"
 
-**关键词：** no point（没有意义）/ continuing this relationship（把这段关系继续下去）/ lead anywhere（通向任何结果）
+**关键词**:  no point（没有意义）/ continuing this relationship（把这段关系继续下去）/ lead anywhere（通向任何结果）
 
 **为什么这样写**：主语是 no point，整句因此没有"谁"在做判断；if 从句把全部的前提条件交出去，于是这句话读起来像一条可以随时翻案的条款——而这正是他最不留情面的地方。
 
@@ -56,7 +56,7 @@ modified: "2026-09-29"
 
 **中文理解**："Nada 说过我老派，也许她是对的。可我已经老到知道，人生里没几个决定比你们俩此刻执意要做的这个更重要。"
 
-**关键词：** old-fashioned（老派的）/ old enough to know（老到知道）/ seem intent on（执意要）
+**关键词**:  old-fashioned（老派的）/ old enough to know（老到知道）/ seem intent on（执意要）
 
 **为什么这样写**：前半句是认，后半句是压；few decisions in life more important 用一个比较级把这场谈话的份量一次抬到顶，而 his voice caught 又提醒读者这番话不是从喉咙里推出来的。
 
@@ -68,7 +68,7 @@ modified: "2026-09-29"
 
 **中文理解**："我知道我现在能拿出的东西不多，但我保证会尽我所能，配得上您的女儿。"
 
-**关键词：** don't have much to offer（能拿出的东西不多）/ do everything in my power（尽我所能）/ worthy of（配得上）
+**关键词**:  don't have much to offer（能拿出的东西不多）/ do everything in my power（尽我所能）/ worthy of（配得上）
 
 **为什么这样写**：先认穷再立誓，两个分句的顺序不能颠倒；worthy of your daughter 把"我能不能养你"换成了"我配不配得上她"，一句话把一场关于经济的质询扳成了关于品格的承诺。
 
@@ -80,7 +80,7 @@ modified: "2026-09-29"
 
 **中文理解**："你那个年轻人，信心倒是很足。"
 
-**关键词：** Your young man（你那个年轻人）/ plenty of confidence（信心很足）
+**关键词**:  Your young man（你那个年轻人）/ plenty of confidence（信心很足）
 
 **为什么这样写**：在回家的车上，父亲终于开口评点了，而评的偏偏是 confidence；叙述者紧跟一句"这不是一句恭维"，读者于是明白这三个字在这个家庭里的分量——它和"不成熟"是同一个意思。
 
@@ -92,7 +92,7 @@ modified: "2026-09-29"
 
 **中文理解**："我爱你，Baz。嫁给我。"
 
-**关键词：** I love you（我爱你）/ Marry me（嫁给我）
+**关键词**:  I love you（我爱你）/ Marry me（嫁给我）
 
 **为什么这样写**：上一句还是"我想每天都见到你"，下一句就跨过了求婚；两个短句之间没有一个过渡词，也没有一个问号，读者听见的不是被问出来的一句话，是跳下去的那一步。
 
@@ -104,7 +104,7 @@ modified: "2026-09-29"
 
 **中文理解**："我在还不懂'爱'这个字是什么意思的时候就已经爱上你了。我想永远和你在一起。你让我的心里全是欢喜，我等不及要和你一起过日子了。你愿意嫁给我吗？"
 
-**关键词：** since before I knew what that word meant（在我还不懂那个字的意思之前）/ fill my heart with joy（让我心里全是欢喜）/ Will you marry me（你愿意嫁给我吗）
+**关键词**:  since before I knew what that word meant（在我还不懂那个字的意思之前）/ fill my heart with joy（让我心里全是欢喜）/ Will you marry me（你愿意嫁给我吗）
 
 **为什么这样写**：明明该由他问出最后一句，他却先把三句排比垫上去，读者被一路推到那句问话面前，已经没有拒绝的余地；since before I knew what that word meant 把起点推到语言之前，等于宣布这件事早于他理解它。
 

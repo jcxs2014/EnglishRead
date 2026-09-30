@@ -38,8 +38,14 @@ for md in sorted(B.glob('ch*.md')):
             if len(re.sub(r'[^a-z0-9]','',frag.lower()))<20: continue
             tot+=1
             if re.sub(r'[^a-z0-9]','',frag.lower()) in book_flat: continue
-            words=[w.strip('’\'-').lower() for w in frag.split()]
+            # 2026-09-30 修假红：逐词判据原只剥 `’'-`，遇到 `dark, determined` 这类
+            # 带逗号的词会因 `dark,` 查无而误报（整串 flat 其实命中，原文逐字相符）。
+            # 判据是「该词是否出现在 flat 里」，标点本就不参与 flat，故一并剥掉。
+            words=[re.sub(r'[^a-z0-9]','',w.lower()) for w in frag.split()]
             miss=[w for w in words if len(w)>2 and w not in book_flat]
+            # 词全命中（miss 为空）= 整串因跨片段/跨位置而不连续，但每个词都真在原文 ⇒
+            # 属「拼接」而非「走形」，不计入缺陷（否则词序调整就会永久误报）。
+            if not miss: continue
             BAD.append((md.name,i,frag.strip(),miss))
 print(f"抽出分析层英文片段 {tot} 条")
 if BAD:

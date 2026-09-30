@@ -18,9 +18,9 @@ modified: "2026-09-29"
 
 > **原句 1:** "Remember, all you have to do is pass. Nobody is expecting greatness."
 
-**中文理解：** "记住，你要做的只是别挂科。没人指望你成大器。"
+**中文理解**:  "记住，你要做的只是别挂科。没人指望你成大器。"
 
-**关键词：** all you have to do is（你要做的只是）/ pass（通过、及格）/ Nobody is expecting greatness（没人指望伟大）
+**关键词**:  all you have to do is（你要做的只是）/ pass（通过、及格）/ Nobody is expecting greatness（没人指望伟大）
 
 **为什么这样写**：两个否定——Nobody is expecting 与 all you have to do is ——把一句宽慰压成了最低限度的承诺；greatness 这个大词被放进最随意的口气里，读者由此明白这不是安慰而是实情，而能这样说实话的人，正是娜达在高年级才会遇到的那一个。
 
@@ -32,7 +32,7 @@ modified: "2026-09-29"
 
 **中文理解**："大概没有女生竞选过任何一个职位吧。"
 
-**关键词：** No girls（没有女生）/ ran for（竞选）/ any of the positions（任何一个职位）
+**关键词**:  No girls（没有女生）/ ran for（竞选）/ any of the positions（任何一个职位）
 
 **为什么这样写**：把责任推给"没 人报名"而不是"不让报名"，主语一换，问题就从歧视变成了缺席；I guess 挂在句末，把一句指控降格成随口的猜测，而全句真正的重量落在 positions 这个复数上——七个位置，一个不落。
 
@@ -44,7 +44,7 @@ modified: "2026-09-29"
 
 **中文理解**：他比她高出那么多，却放慢了脚步，好让两人的步幅一致。
 
-**关键词：** so much taller（高出那么多）/ he slowed（他放慢脚步）/ their strides matched（两人的步幅一致）
+**关键词**:  so much taller（高出那么多）/ he slowed（他放慢脚步）/ their strides matched（两人的步幅一致）
 
 **为什么这样写**：but 把两个身体事实接在一起，so much 与 so 两处 so 一递一还：差距在高度上，被另一个 so 抵消在速度上；一句话里没有出现任何动词指向情感，读者却已经看完了一次完整的迁就。
 
@@ -56,7 +56,7 @@ modified: "2026-09-29"
 
 **中文理解**：他的铅笔是温和的，他那艺术家的目光也是柔和的，甚至带着亲昵。
 
-**关键词：** his pencil（他的铅笔）/ artist's eye（艺术家的目光）/ affectionate even（甚至带着亲昵）
+**关键词**:  his pencil（他的铅笔）/ artist's eye（艺术家的目光）/ affectionate even（甚至带着亲昵）
 
 **为什么这样写**：kind 与 gentle 叠用在"铅笔"这种无生命的东西上，读者才发觉被形容的是人；even 一个词把亲昵抬到前两项之上，等于说"而且不止于温柔"，而这层递进没有任何一个外部证据——全凭叙述者的转述，恰好因此更像当事人心里反复把玩过的那句话。
 
@@ -66,9 +66,9 @@ modified: "2026-09-29"
 
 > **原句 5:** "It made her feel seen, in a way that felt intimate and gratifying."
 
-**中文理解：** 那让她感到自己被看见了，而且这被看见的方式既私密又令人满足。
+**中文理解**:  那让她感到自己被看见了，而且这被看见的方式既私密又令人满足。
 
-**关键词：** feel seen（感到被看见）/ intimate（私密的）/ gratifying（令人满足的）
+**关键词**:  feel seen（感到被看见）/ intimate（私密的）/ gratifying（令人满足的）
 
 **为什么这样写**：seen 这个极简的动词把"被注视"直接写成"被当作对象来认识"；in a way that felt 又套一层模糊化，让读者无法确定这种被看见的边界在哪——intimate 与 gratifying 一个偏向温度，一个偏向满足，恰好构成被偷看的人最矛盾的那两种感受。
 
@@ -78,9 +78,9 @@ modified: "2026-09-29"
 
 > **原句 6:** "Embarrassment, hurt, vulnerability, and anger all shook hands and formed fast friendships as they passed across his face"
 
-**中文理解：** 难堪、受伤、脆弱与愤怒全都在他脸上握了握手、结成了快速的友谊，一个接一个掠过去。
+**中文理解**:  难堪、受伤、脆弱与愤怒全都在他脸上握了握手、结成了快速的友谊，一个接一个掠过去。
 
-**关键词：** shook hands（握手）/ formed fast friendships（结成短暂的友谊）/ passed across his face（从他脸上掠过）
+**关键词**:  shook hands（握手）/ formed fast friendships（结成短暂的友谊）/ passed across his face（从他脸上掠过）
 
 **为什么这样写**：把四种情绪写成一群互相结交的朋友，是把"同时发生"这件事推到极致；动词全部借来社交场合的说法，于是那张独自承受一切的脸反而被写成了最拥挤的场合，而末尾的 passed across 提醒读者它们终究留不住。
 
@@ -90,9 +90,9 @@ modified: "2026-09-29"
 
 > **原句 7:** "How would you know? You're just an engineer."
 
-**中文理解：** "你怎么知道？你不过是个工科生。"
+**中文理解**:  "你怎么知道？你不过是个工科生。"
 
-**关键词：** How would you know（你怎么知道）/ You're just（你不过是）/ an engineer（一个工科生）
+**关键词**:  How would you know（你怎么知道）/ You're just（你不过是）/ an engineer（一个工科生）
 
 **为什么这样写**：两个短句都是问句与判断句的极端压缩；just 一个词把十年来所有的分歧一次性铺开，而 how would you know 表面在质疑她的判断，实际在质疑她整个世界——她夸的是诗，他听见的是身份。
 
@@ -104,7 +104,7 @@ modified: "2026-09-29"
 
 **中文理解**：在她的世界里，并没有多少位置留给故事与艺术。
 
-**关键词：** wasn't a lot of space（没有多少位置）/ stories or art（故事或艺术）/ in her world（在她的世界里）
+**关键词**:  wasn't a lot of space（没有多少位置）/ stories or art（故事或艺术）/ in her world（在她的世界里）
 
 **为什么这样写**：把抽象的"我不懂文学"降格成一个空间问题——不是她不想，而是没地方放；in her world 这个限定让整句话从自谦变成诊断，读者由此明白她当年接受那句否定并非全无道理，而这一点让今日的重逢更难。
 

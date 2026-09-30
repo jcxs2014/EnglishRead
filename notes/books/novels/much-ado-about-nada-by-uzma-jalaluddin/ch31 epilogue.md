@@ -19,7 +19,7 @@ modified: "2026-09-29"
 
 **中文理解**："你并没有辞职。你只是在走他们创业那条路。我为你骄傲。"
 
-**关键词：** You didn't quit（你并没有辞职）/ entrepreneurial footsteps（创业那条路）/ I'm so proud of you（我为你骄傲）
+**关键词**:  You didn't quit（你并没有辞职）/ entrepreneurial footsteps（创业那条路）/ I'm so proud of you（我为你骄傲）
 
 **为什么这样写**：她不是在替他辩解，而是在把父亲的句子当成一句可以被重新解释的话——quit 是不动，footsteps 是动，同一件事换个动词就从背叛变成继承；读者听见的不是安慰，是她早就想好的、只等这一刻说出口的判词。
 
@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 **中文理解**："我爸妈还在为我辞职生气。"
 
-**关键词：** still so angry（还在生气）/ I quit（我辞职）
+**关键词**:  still so angry（还在生气）/ I quit（我辞职）
 
 **为什么这样写**：almost to himself 交代了这句话其实不是说给谁听的，而 still 和 so 各自加了一层——still 是时间还没有过去，so 是他自己也还没想好怎么面对；读者听见的是一个人在车里对着空气交代一件他还没准备好公开的事。
 
@@ -43,7 +43,7 @@ modified: "2026-09-29"
 
 **中文理解**："其实，我要站到最后一排去。Baz 会上台。他要在演唱会上发布 Ummah Talent。"
 
-**关键词：** Actually（其实）/ standing at the very back（站到最后一排）/ on stage（上台）/ launching（发布）
+**关键词**:  Actually（其实）/ standing at the very back（站到最后一排）/ on stage（上台）/ launching（发布）
 
 **为什么这样写**：他刚说完要"站到最后一排去"，她用 Actually 把同一个位置从自己身上接过来又还给他——她不要最后一排，她要台上那个人；三个短句一路递进到 launching，读者听见的不是抢话，是她把"跟着看"换成了"参与"。
 
@@ -55,7 +55,7 @@ modified: "2026-09-29"
 
 **中文理解**："你什么时候上线 Rumor Mill？我这儿有几条传闻想跟你分享一下。比如说，你知道 Nanima's Chai Shop 那两位非常成功、非常值得嫁的单身汉打算开分店了吗？"
 
-**关键词：** When are you launching（你什么时候上线）/ rumors（传闻）/ very eligible bachelors（非常值得嫁的单身汉）/ are about to franchise（打算开分店）
+**关键词**:  When are you launching（你什么时候上线）/ rumors（传闻）/ very eligible bachelors（非常值得嫁的单身汉）/ are about to franchise（打算开分店）
 
 **为什么这样写**：他用一条她app的假消息来问她发布日程，For instance 把提问和八卦绑在一条引号里；读者听见的正是他最擅长的那套（ch09 夏令营医务室、ch28 急诊室都是同一招）——把真话藏在假消息里递过去。
 
@@ -67,7 +67,7 @@ modified: "2026-09-29"
 
 **中文理解**："那你呢，Nada 姐姐？"
 
-**关键词：** What about you（那你呢）/ Nada Apa（Nada 姐姐）
+**关键词**:  What about you（那你呢）/ Nada Apa（Nada 姐姐）
 
 **为什么这样写**：Apa 这个称呼来自更早那一句让她去做姐姐的邀约，全书结束时他还这样叫她；一个问句里只装了称呼没装内容，读者听见的不是寒暄，是他还把她当那个能被问的人。
 
@@ -79,7 +79,7 @@ modified: "2026-09-29"
 
 **中文理解**："Baz 采纳了她开一家面向穆斯林创作者的人才经纪公司的建议，并且一路做下去了。虽然公婆并不高兴儿子为了和艺人合作而放弃 D&D，但她知道，这个决定对她的丈夫是对的——他是个有创造力、有热情的人。"
 
-**关键词：** taken her suggestion（采纳了她的建议）/ talent agency for Muslim creatives（面向穆斯林创作者的人才经纪公司）/ run with it（一路做下去）/ creative, passionate husband（有创造力、有热情的丈夫）
+**关键词**:  taken her suggestion（采纳了她的建议）/ talent agency for Muslim creatives（面向穆斯林创作者的人才经纪公司）/ run with it（一路做下去）/ creative, passionate husband（有创造力、有热情的丈夫）
 
 **为什么这样写**：in-laws 这个词把"爸妈"换成了外人称呼，提醒读者她已经进了一个新家庭；run with it 用的是她年轻时的说法，而 creative, passionate 两个形容词是她（ch31）第一次这样正面地称颂他；读者听见的是她终于不再替他解释，改成替他背书。
 
@@ -91,7 +91,7 @@ modified: "2026-09-29"
 
 **中文理解**："离 Zaynimals 远一点，除非你打算戴头盔。"
 
-**关键词：** Try to stay away from（离……远一点）/ the Zaynimals（Zayn 的粉丝团）/ you're wearing a helmet（你打算戴头盔）
+**关键词**:  Try to stay away from（离……远一点）/ the Zaynimals（Zayn 的粉丝团）/ you're wearing a helmet（你打算戴头盔）
 
 **为什么这样写**：Zaynimals 是 Zayn 粉丝团的名字，Jamal 用它当危险名词来调侃妹妹；helmet 这个来自他上一次出事的词在这里变成了笑话，读者听见的不是警告，是一个住在合租房里替人看店、刚当上店经理的弟弟，在用他仅剩的调侃方式催她来。
 
@@ -103,7 +103,7 @@ modified: "2026-09-29"
 
 **中文理解**："在阴影里过了这么多年之后，她想让全世界都来见证她的幸福。"
 
-**关键词：** living her life in the shadows（在阴影里过日子）/ the entire world（全世界）/ bear witness（见证）/ her happiness（她的幸福）
+**关键词**:  living her life in the shadows（在阴影里过日子）/ the entire world（全世界）/ bear witness（见证）/ her happiness（她的幸福）
 
 **为什么这样写**：这一句是全书的判词，in the shadows 和 bear witness 是同一组对照的两端，一个写她此前的全部人生，一个写她此刻索取的见证；读者听见的不是一句抒情，是她终于敢当众承认自己想要。
 

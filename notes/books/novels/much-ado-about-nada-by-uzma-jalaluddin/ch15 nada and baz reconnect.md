@@ -20,7 +20,7 @@ modified: "2026-09-29"
 
 **中文理解**："Firdous 就是头牛。她现在住在 Edmonton，嫁给了一个有钱的开发商。"
 
-**关键词：** a cow（头牛、混账）/ lives in Edmonton（住在 Edmonton）/ a rich developer（有钱的开发商）
+**关键词**:  a cow（头牛、混账）/ lives in Edmonton（住在 Edmonton）/ a rich developer（有钱的开发商）
 
 **为什么这样写**：当年那个让 Bisma 去扯头巾的人，十四岁之后再没出现过，一出现就是一句 a cow 加一份现状；三个短句全是转述的闲话，语气轻得像在讲别人的笑话，读者却知道这四个字背后压着一整个童年。
 
@@ -32,7 +32,7 @@ modified: "2026-09-29"
 
 **中文理解**："我没退学。我是休学。"
 
-**关键词：** I didn't drop out（我没退学）/ I took a leave（我是休学）
+**关键词**:  I didn't drop out（我没退学）/ I took a leave（我是休学）
 
 **为什么这样写**：前一句是别人替他做的总结，后一句是他自己的定义，两个句子结构完全对称，只换了一个词；一个词之差就是"我失败了"和"我做了个选择"之间的全部距离，而读者刚认识这个人两分钟。
 
@@ -44,7 +44,7 @@ modified: "2026-09-29"
 
 **中文理解**："那是对你隐私的侵犯，是一件很糟糕的事。"
 
-**关键词：** an invasion of your privacy（对你隐私的侵犯）/ a rotten thing to do（很糟糕的一件事）
+**关键词**:  an invasion of your privacy（对你隐私的侵犯）/ a rotten thing to do（很糟糕的一件事）
 
 **为什么这样写**：两个分句从定性走到自责，句式却越走越平；a rotten thing to do 用的是极普通的日常说法，放在一场迟到八年的道歉里，重量全靠上一句撑住。
 
@@ -56,7 +56,7 @@ modified: "2026-09-29"
 
 **中文理解**："我那时候十八岁，未来感觉像一道朝我压过来的潮水。我不知道这话说得通不通。"
 
-**关键词：** a tidal wave heading toward me（一道朝我压过来的潮水）/ I don't know if that makes any sense（我不知道这话说得通不通）
+**关键词**:  a tidal wave heading toward me（一道朝我压过来的潮水）/ I don't know if that makes any sense（我不知道这话说得通不通）
 
 **为什么这样写**：他前面那句 I left because . . . 停在半空，真正的理由隔了一会儿才来，而理由是一个十八岁的人说不清的体感；最后一句立刻把刚说出口的比喻撤回，读者于是明白他不是不懂表达，是没有词。
 
@@ -68,7 +68,7 @@ modified: "2026-09-29"
 
 **中文理解**："我知道潮水是怎么运作的。"
 
-**关键词：** I know how tidal waves work（我知道潮水是怎么运作的）
+**关键词**:  I know how tidal waves work（我知道潮水是怎么运作的）
 
 **为什么这样写**：她先报出 I'm an engineer，再把专业口径接到他那个说不清的比喻上；know how tidal waves work 字面上完全成立，在这场对话里却等于说"你说的那个我懂"，一句话把两个人的语域拉到同一水平面上。
 
@@ -80,7 +80,7 @@ modified: "2026-09-29"
 
 **中文理解**："这件事没有手册，你知道的。也没有人写过，怎么作为一个穆斯林、一个加拿大人、一个移民的孩子去过创作性生活。"
 
-**关键词：** no manual（没有手册）/ a creative life（创作性生活）/ a Muslim, Canadian, child of immigrants（一个穆斯林、加拿大人、移民的孩子）
+**关键词**:  no manual（没有手册）/ a creative life（创作性生活）/ a Muslim, Canadian, child of immigrants（一个穆斯林、加拿大人、移民的孩子）
 
 **为什么这样写**：三个身份用逗号并列成定语，越说越长，句子也越来越像在给自己列一份没人认领的档案；no manual 把整套困境说成一份缺失的文件，于是它既荒谬又具体。
 
@@ -92,7 +92,7 @@ modified: "2026-09-29"
 
 **中文理解**："工程师造的是会往下沉的图书馆，不是句子。"
 
-**关键词：** Engineers construct（工程师造出）/ sinking libraries（会下沉的图书馆）/ not sentences（不是句子）
+**关键词**:  Engineers construct（工程师造出）/ sinking libraries（会下沉的图书馆）/ not sentences（不是句子）
 
 **为什么这样写**：她要他写信，他先把退路堵死，再把堵死退路的动作做给她看——造一座每年下沉几毫米的图书馆；整句用他刚讲过的潮水当材料，于是玩笑和心事在同一个词上叠在一起。
 
@@ -104,7 +104,7 @@ modified: "2026-09-29"
 
 **中文理解**："叫 Ask Apa。就是那些你需要一个大姐头的时刻。"
 
-**关键词：** Ask Apa（名字本身）/ those times（那些时刻）/ a big sister（一个大姐头）
+**关键词**:  Ask Apa（名字本身）/ those times（那些时刻）/ a big sister（一个大姐头）
 
 **为什么这样写**：一个尚未存在的项目先用一句使用场景来命名，理由完全私人——apa 在乌尔都语里就是大姐头，而读者刚在半小时前听说另一个女生说她抢了娜达的创意；名字先于产品出现，读者因此先记住它的温度，再记住它的用途。
 

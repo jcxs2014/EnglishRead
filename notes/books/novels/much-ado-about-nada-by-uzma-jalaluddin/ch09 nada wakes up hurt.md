@@ -17,9 +17,9 @@ modified: "2026-09-29"
 
 > **原句 1:** "Why do I always get hurt around you?"
 
-**中文理解：** "为什么我总是在你身边受伤？"
+**中文理解**:  "为什么我总是在你身边受伤？"
 
-**关键词：** always（总是）/ get hurt（受伤）/ around you（在你身边）
+**关键词**:  always（总是）/ get hurt（受伤）/ around you（在你身边）
 
 **为什么这样写**：她把自 ch07 以来所有的事——撞墙、肘击、昏厥——收进一句反问，而 around you 这个介词才是真正的指控：她没有问"你为什么这样对我"，而是问"你身上怎么总是发生这种事"，责任因此悬在两人之间，读者无法简单站队。
 
@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 **中文理解**：他用自己那副令人难忘的肩膀，在她与挤过来的人潮之间撑出一道屏障。
 
-**关键词：** impressive shoulders（令人难忘的肩膀）/ create a shield（撑出屏障）/ between her and the crowd（在她与人潮之间）
+**关键词**:  impressive shoulders（令人难忘的肩膀）/ create a shield（撑出屏障）/ between her and the crowd（在她与人潮之间）
 
 **为什么这样写**：impressive 在此不是"令人钦佩"，而是"大得吓人"——他用体型当建筑材料，动词 create 把一次本能的侧身写成了主动的工程；between her and the crowd 精确交代屏障的位置，读者于是看见他的保护不是浪漫姿态，而是一次持续的身体劳动。
 
@@ -43,7 +43,7 @@ modified: "2026-09-29"
 
 **中文理解**："那就像她们把自己的内衣扔向你！"
 
-**关键词：** It's like（那就像）/ their underwear（她们的内衣）/ at you（朝你）
+**关键词**:  It's like（那就像）/ their underwear（她们的内衣）/ at you（朝你）
 
 **为什么这样写**：她急于让对方理解事态之荒诞，只好借一个跨文化的粗俗类比来完成沟通；It's like 把一句可能冒犯的直言降格成比喻，yet 三个短促的成分（throwing / their underwear / at you）像急刹车一样连响，脑震后的语无伦次因此有了节奏。
 
@@ -55,7 +55,7 @@ modified: "2026-09-29"
 
 **中文理解**："我倒希望我恨你，"他说，几乎像自言自语。
 
-**关键词：** I wish I hated（我倒希望我恨）/ almost to himself（几乎像自言自语）
+**关键词**:  I wish I hated（我倒希望我恨）/ almost to himself（几乎像自言自语）
 
 **为什么这样写**：全章最重的一句，用的是最轻的形式——插入语 almost to himself 把告白降级为口误，于是他可以不必为它负责；I wish 用虚拟式与过去事实唱反调，读者由此明白他刚才那句"是，我恨你"是敷衍，而这一句才是真话。
 
@@ -67,7 +67,7 @@ modified: "2026-09-29"
 
 **中文理解**：他笑起来的时候很好看。他皱眉的时候极具杀伤力，就像现在这样。
 
-**关键词：** beautiful when he smiled（笑起来很好看）/ devastating when he scowled（皱眉时极具杀伤力）/ like he was right now（就像他此刻）
+**关键词**:  beautiful when he smiled（笑起来很好看）/ devastating when he scowled（皱眉时极具杀伤力）/ like he was right now（就像他此刻）
 
 **为什么这样写**：两个 when 从句结构相同、主语相同，只换掉一个形容词，读者便在两句之间读出完整的情绪刻度；beautiful 与 devastating 共享同一词根，一个造人、一个拆人，末句用 like he was right now 把比喻钉回现场，欣赏因此被收束成一个当下的动作。
 
@@ -79,7 +79,7 @@ modified: "2026-09-29"
 
 **中文理解**：Zayn 管她们叫"双头巾"。
 
-**关键词：** Zayn calls them（Zayn 叫她们）／the Double Hijabis（双头巾）
+**关键词**:  Zayn calls them（Zayn 叫她们）／the Double Hijabis（双头巾）
 
 **为什么这样写**：整句只有五个实词，却完成一次社区内部的命名行为——戏谑只有圈内人才笑得出来，圈外人听见的只是复数绰号；台词挂在 Zayn 名下而非说话人名下，于是这玩笑的来源与眼前这个人的立场被悄悄分开半步。
 
@@ -91,7 +91,7 @@ modified: "2026-09-29"
 
 **中文理解**：不是什么长得好看的 Dr. Phil 心理医生。
 
-**关键词：** not a pretty-boy（不是那种好看的）／Dr. Phil（以电视心理专家为原型的绰号）
+**关键词**:  not a pretty-boy（不是那种好看的）／Dr. Phil（以电视心理专家为原型的绰号）
 
 **为什么这样写**：用一位美国电视名嘴的姓名去影射一位当红歌手，两种公共人物在一句俏皮话里并置；pretty-boy 前置否定，等于先把可能的夸奖挡掉，再让毒舌落地——她说得刻薄，也说得太准，刻薄与准确在这一句里无法分开。
 
@@ -103,7 +103,7 @@ modified: "2026-09-29"
 
 **中文理解**：第二天早上醒来时，她的朋友已经走了。
 
-**关键词：** In the morning（早上）/ when she woke up（她醒来时）/ already gone（已经不在了）
+**关键词**:  In the morning（早上）/ when she woke up（她醒来时）/ already gone（已经不在了）
 
 **为什么这样写**：全章最后一句只剩状态，没有动作，也没有一句解释；already 一个词把"整夜倾诉"折算成了一段无人见证的时间，而 gone 与本章前文的 disappeared 属同一语义家族，读者至此明白这场夜谈留下的不是进展，只是一间空房。
 

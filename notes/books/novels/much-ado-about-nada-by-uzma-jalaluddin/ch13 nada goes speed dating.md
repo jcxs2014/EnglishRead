@@ -19,7 +19,7 @@ modified: "2026-09-29"
 
 **中文理解**："我宁可跟自己说话、跟墙说话、跟一个 jinn 说话，或者跟另外十个陌生人说话，也不愿花一秒钟跟你说话。"
 
-**关键词：** a jinn（一个 jinn）/ rather than（而不是）/ a single second（一秒钟）
+**关键词**:  a jinn（一个 jinn）/ rather than（而不是）/ a single second（一秒钟）
 
 **为什么这样写**：四个并列对象从"自己"一路排到"十个陌生人"，数量递增、语气却递减，读者读到最后一个才明白她把自己排在了最后一位；the wall 和 a jinn 都不是真的选项，正是这份荒唐把敌意写成了段子。
 
@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 **中文理解**："我为你的方案做过顾问，还帮你找过程序员和开发者。我没有义务告诉你我自己的生意构想。"
 
-**关键词：** consulted on your plan（为你的方案做过顾问）/ helped you source（帮你找来的）/ had no obligation（没有义务）
+**关键词**:  consulted on your plan（为你的方案做过顾问）/ helped you source（帮你找来的）/ had no obligation（没有义务）
 
 **为什么这样写**：他把自己写成两条并列的"帮忙"，再补一条"我没错"；三个句子全是已完成的事实陈述，没有一个形容词，读者却听见一个人正在把自己的履历当盾牌使。
 
@@ -43,7 +43,7 @@ modified: "2026-09-29"
 
 **中文理解**："你碰巧和我同时想到一个专门做穆斯林的搜索引擎，碰巧把它取名叫 Ukhti——这个词在阿拉伯语里就是大姐头的意思，和乌尔都语里的 apa 一样——然后你比我早六个月上线。而这一切都发生在你帮我开发 Ask Apa 的时候。"
 
-**关键词：** happened to（碰巧）/ a Muslim-specific search engine（一个专做穆斯林的搜索引擎）/ six months before my go-live（比我早六个月上线）
+**关键词**:  happened to（碰巧）/ a Muslim-specific search engine（一个专做穆斯林的搜索引擎）/ six months before my go-live（比我早六个月上线）
 
 **为什么这样写**：两个 happened to 把巧合重复成控诉，节奏上像在数罪；最后一句把时间线整个翻过来——他所有"顺便"都发生在帮她的时候，于是"偷"这个字始终没有被她说出口，读者替她说了。
 
@@ -55,7 +55,7 @@ modified: "2026-09-29"
 
 **中文理解**："也许我是想把事情做对。"
 
-**关键词：** Maybe（也许）/ make things right（把事情做对）
+**关键词**:  Maybe（也许）/ make things right（把事情做对）
 
 **为什么这样写**：五个词的转折句，前一秒他还在谈合同；make things right 是极普通的日常搭配，放在两个互相敌视的人之间，反而比任何辩解都重。
 
@@ -67,7 +67,7 @@ modified: "2026-09-29"
 
 **中文理解**："还是这么倔。我希望你的骄傲夜里能给你取暖，Nada。反正似乎没别人想要你。"
 
-**关键词：** Still so stubborn（还是这么倔）/ keeps you warm at night（夜里给你取暖）/ Nobody else（没别人）
+**关键词**:  Still so stubborn（还是这么倔）/ keeps you warm at night（夜里给你取暖）/ Nobody else（没别人）
 
 **为什么这样写**：前两句还在讲道理，第三句突然落到夜里；warm 在这里是双关，被当成了被爱的替代品，而全句用虚拟语气 I hope，恶意藏在体贴的句型里。
 
@@ -79,7 +79,7 @@ modified: "2026-09-29"
 
 **中文理解**："给我配的是个 sociopath 和一个 ice giant。零星。不会推荐。"
 
-**关键词：** set up with（给我配的是）/ a sociopath（一个 sociopath）/ Zero stars（零星）/ Would not recommend（不会推荐）
+**关键词**:  set up with（给我配的是）/ a sociopath（一个 sociopath）/ Zero stars（零星）/ Would not recommend（不会推荐）
 
 **为什么这样写**：整段套的是点评应用的三段式评分——情况、评分、结论，把一场灾难写成了差评；an ice giant 是两人之间的旧称呼，放在这里让她的刻薄带上了私人温度。
 
@@ -91,7 +91,7 @@ modified: "2026-09-29"
 
 **中文理解**："我认识的那个娜达绝不会接受这个。她会为了她的生意、为了她的梦想牺牲一切。"
 
-**关键词：** The Nada I knew（我认识的那个娜达）/ would never have accepted（绝不会接受）/ sacrificed everything（牺牲一切）
+**关键词**:  The Nada I knew（我认识的那个娜达）/ would never have accepted（绝不会接受）/ sacrificed everything（牺牲一切）
 
 **为什么这样写**：主语从 I 换成 The Nada I knew，一个定冠词把现在这个她推成了另一个人；两个 would have 都不是已经发生、而是本该发生，读者听见的是一句迟到的悼词。
 
@@ -103,7 +103,7 @@ modified: "2026-09-29"
 
 **中文理解**："我能怎么办，去这个社区里当一个唱作人吗？"
 
-**关键词：** What was I going to do（我能怎么办）/ become a singer-songwriter（去当一个唱作人）/ in the Muslim community（在这个社区里）
+**关键词**:  What was I going to do（我能怎么办）/ become a singer-songwriter（去当一个唱作人）/ in the Muslim community（在这个社区里）
 
 **为什么这样写**：一个开放式的自问把理由全推给那个从不出现的"别人"；in the Muslim community 在这里不是地点而是借口，他把自己算进了那个几分钟前他还在替她辩护的群体里。
 

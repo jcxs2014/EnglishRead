@@ -19,7 +19,7 @@ modified: "2026-09-29"
 
 **中文理解**："我一直在找你。你跑哪儿去了？我又找到两个不错的男孩，想介绍给你认识。"
 
-**关键词：** I was looking for you（我一直在找你）/ Where did you disappear（你跑哪儿去了）/ two nice boys（两个不错的男孩）
+**关键词**:  I was looking for you（我一直在找你）/ Where did you disappear（你跑哪儿去了）/ two nice boys（两个不错的男孩）
 
 **为什么这样写**：三句全是日常抱怨，可 complain 的话头一转就变成了推销；结尾那个 nice boys 用了一个母亲挑对象时才用的词，读者于是听见她连儿子女儿都在一并物色。
 
@@ -31,7 +31,7 @@ modified: "2026-09-29"
 
 **中文理解**："孩子，找对的人是要花时间的；你要是老说不要、不要、不要，好机会就从你身边过去了。"
 
-**关键词：** it takes time（是要花时间的）/ you keep saying no（你老说不要）/ will pass you by（从你身边过去）
+**关键词**:  it takes time（是要花时间的）/ you keep saying no（你老说不要）/ will pass you by（从你身边过去）
 
 **为什么这样写**：no, no, no 三个重复把抽象的坚持变成一件可以听见的事，而 will pass you by 用的是天气一样的说法——机会像路人一样走过去，不记恨也不停留；母亲把催促包装成忠告，读者听得出这层包装有多旧。
 
@@ -43,7 +43,7 @@ modified: "2026-09-29"
 
 **中文理解**："我想要的是这个，孩子。留在家里照顾我的孩子、管好这个家，是我自己的选择。"
 
-**关键词：** I wanted this（我想要的是这个）/ It was my choice（这是我的选择）/ to manage the home（管好这个家）
+**关键词**:  I wanted this（我想要的是这个）/ It was my choice（这是我的选择）/ to manage the home（管好这个家）
 
 **为什么这样写**：她用 I wanted this 回答的是"你有没有为自己想要过什么"，而 It was my choice 把一整套被动的人生整个收进自己的名下；读者该听出代价在哪一句里都没有被提起。
 
@@ -55,7 +55,7 @@ modified: "2026-09-29"
 
 **中文理解**："我本来想当律师，可是后来我 abba 和 ammi 收到了你父亲的一份好提议。Waqas 出生几年之后，我们搬到了加拿大。"
 
-**关键词：** I wanted to be a lawyer（我本来想当律师）/ a good proposal（一份好提议）/ received（收到）
+**关键词**:  I wanted to be a lawyer（我本来想当律师）/ a good proposal（一份好提议）/ received（收到）
 
 **为什么这样写**：前半句用过去时把愿望钉死，后半句用 received 这个中性的词把"提亲"写成一份送到手上的文件；读者看见的是两个年轻人被一叠纸决定了后半生，而她说完这段，语气仍然平得像在报菜名。
 
@@ -67,7 +67,7 @@ modified: "2026-09-29"
 
 **中文理解**："我什么都已经在做了，没有必要再去做点什么。"
 
-**关键词：** There is no need（没有必要）/ do something（去做点什么）
+**关键词**:  There is no need（没有必要）/ do something（去做点什么）
 
 **为什么这样写**：前一句是防御，后一句是结论，句子却越说越短；do something 这种空泛的说法被她当成一件具体的事来拒绝，读者听见的正是一个把所有可能性一起关掉的人。
 
@@ -79,7 +79,7 @@ modified: "2026-09-29"
 
 **中文理解**："不存在这样一个世界：我不选你，Nada beta，把你排在别人后面。我永远都会选你。"
 
-**关键词：** A world doesn't exist（不存在这样的世界）/ over everyone else（排在别人后面）/ I will always choose you（我永远会选你）
+**关键词**:  A world doesn't exist（不存在这样的世界）/ over everyone else（排在别人后面）/ I will always choose you（我永远会选你）
 
 **为什么这样写**：A world doesn't exist 先用否定把一个空集造出来，再往里塞进一个绝对的选择；over everyone else 里的 everyone 把这份优先权推到了最大，而 I will always choose you 用最简单的将来时把话说死，读者无从反驳。
 
@@ -91,7 +91,7 @@ modified: "2026-09-29"
 
 **中文理解**："你知道我过去一年都干了什么吗？什么也没干。你知道爸妈想让我接下来一年干什么吗？也什么也不干。"
 
-**关键词：** for the past year（过去这一年）/ Do you know what（你知道……吗）/ Nothing（什么也没有）
+**关键词**:  for the past year（过去这一年）/ Do you know what（你知道……吗）/ Nothing（什么也没有）
 
 **为什么这样写**：两个问句结构完全一样，答案却都落在同一个 Nothing 上；前一个 Nothing 是他自己造成的，后一个 Nothing 是别人替他安排的，读者听见的是"空"被两个不同的人分别接管。
 
@@ -103,7 +103,7 @@ modified: "2026-09-29"
 
 **中文理解**："你还不懂吗？他们不会放我们走任何一个人。你从本科起就一直想走。Waqas 结了婚也没搬出去。我不想再等你们里头的谁先迈一步了。你太胆小。"
 
-**关键词：** They're never going to let any of us go（他们不会放我们任何一个人走）/ trying to leave since undergrad（从本科起就一直想走）/ You're too scared（你太胆小）
+**关键词**:  They're never going to let any of us go（他们不会放我们任何一个人走）/ trying to leave since undergrad（从本科起就一直想走）/ You're too scared（你太胆小）
 
 **为什么这样写**：这一串排比把家里每个人都点名点了一遍，读起来像一份清单；结句从陈述突然掉到一句两个人之间的旧账，读者这才听见他真正想说的不是家不放人，而是家里人没有一个敢先动。
 

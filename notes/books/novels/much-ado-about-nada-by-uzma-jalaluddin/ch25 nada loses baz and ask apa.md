@@ -20,7 +20,7 @@ modified: "2026-09-29"
 
 **中文理解**："我们要有孩子了？"
 
-**关键词：** We're going to（我们要）/ have a baby（有一个孩子）
+**关键词**:  We're going to（我们要）/ have a baby（有一个孩子）
 
 **为什么这样写**：他刚听懂"不是"，脸上的表情却是"要"；整句没有一个感叹号，读者却听见一个人把坏消息直接翻译成了好消息，而那正是她此刻最害怕的东西。
 
@@ -32,7 +32,7 @@ modified: "2026-09-29"
 
 **中文理解**："我留在家看孩子，等你念完书，我们就可以去旅行。还有什么比婴儿更好带的，你说是不是？"
 
-**关键词：** stay home and watch the baby（留在家看孩子）/ we can travel（我们就可以去旅行）/ more portable than an infant（比婴儿还好带）
+**关键词**:  stay home and watch the baby（留在家看孩子）/ we can travel（我们就可以去旅行）/ more portable than an infant（比婴儿还好带）
 
 **为什么这样写**：他把她全部的恐惧（学业、旅行、钱）排成一列，然后用一句俏皮话把它们清空；portable 这个词把婴儿当成行李，而行李正是他接下来打算扔下的东西——读者听见他刚刚在无意间承认了自己要走。
 
@@ -44,7 +44,7 @@ modified: "2026-09-29"
 
 **中文理解**："跟我离婚。去旅行。过你的人生。去爱上别人。"
 
-**关键词：** Divorce me（跟我离婚）/ Travel（去旅行）/ Fall in love with someone else（去爱上别人）
+**关键词**:  Divorce me（跟我离婚）/ Travel（去旅行）/ Fall in love with someone else（去爱上别人）
 
 **为什么这样写**：四个动词全是命令句，一个主语都没有，像是把一句道歉压缩成一份清单；而最后一条最重——她正在亲手把"还会有别人"这件事说出口，读者听得见她在此后六年里有多少个夜晚想起过这四个字。
 
@@ -56,7 +56,7 @@ modified: "2026-09-29"
 
 **中文理解**："婚姻是造出来的，不是天生的。你让一个根本不了解我们的人说动了你。又或者，她只是印证了你本来的想法？"
 
-**关键词：** built, not born（造出来的，不是天生的）/ doesn't know us（不了解我们）/ confirmed your own feelings（印证了你本来的想法）
+**关键词**:  built, not born（造出来的，不是天生的）/ doesn't know us（不了解我们）/ confirmed your own feelings（印证了你本来的想法）
 
 **为什么这样写**：前半句是一句格言，后半句立刻把矛头从母亲转回她身上；一个问号比任何指控都难顶，读者听见的不是吵架，是一个从不认输的人开始怀疑自己。
 
@@ -68,7 +68,7 @@ modified: "2026-09-29"
 
 **中文理解**："我想要的是今天的你，可我不能和一个不选择今天这个我的人在一起——不是选择我明天可能成为的那个人。"
 
-**关键词：** for myself（为我自己的）/ doesn't choose me（不选择我）/ not the man I might be tomorrow（不是我明天可能成为的那个人）
+**关键词**:  for myself（为我自己的）/ doesn't choose me（不选择我）/ not the man I might be tomorrow（不是我明天可能成为的那个人）
 
 **为什么这样写**：today 和 tomorrow 各出现一次，整句话就是靠这两个时间点撑起来的；他把"未来"这个她许诺过的词，还成了一张空头承诺，读者于是听见他拒绝她递过来的那张画饼。
 
@@ -80,7 +80,7 @@ modified: "2026-09-29"
 
 **中文理解**："如果你想结束这段婚姻，你可以自己去办离婚。"
 
-**关键词：** you can divorce me yourself（你自己去办离婚）
+**关键词**:  you can divorce me yourself（你自己去办离婚）
 
 **为什么这样写**：把决定权交还给她，等于把整件事的责任推给她一个人；而 yourself 这个词在英语里带着一点冷，读者听见的是他连争都不再争了。
 
@@ -92,7 +92,7 @@ modified: "2026-09-29"
 
 **中文理解**："我认识他一辈子了。"
 
-**关键词：** I've known him my entire life（我认识他一辈子了）
+**关键词**:  I've known him my entire life（我认识他一辈子了）
 
 **为什么这样写**：前面那句"我信他"是她上一轮说出口的，这一轮她只补了这一句；my entire life 把"认识很久"和"信错人"两件事摞在一起，而她没有替自己辩解一个字，读者听见的是一份迟到了太久的供词。
 
@@ -104,7 +104,7 @@ modified: "2026-09-29"
 
 **中文理解**："他否认偷了你的点子，可事实自己会说话。这都是我的错。"
 
-**关键词：** denies（否认）/ the facts speak for themselves（事实自己会说话）/ This is all my fault（这都是我的错）
+**关键词**:  denies（否认）/ the facts speak for themselves（事实自己会说话）/ This is all my fault（这都是我的错）
 
 **为什么这样写**：一个成年人替自己的儿子做转述，用的却是"他会抵赖"这种预设口吻；而最后一句把整件事的责任揽过来，读者听见的是一位母亲不知道该怎么向一个孩子交代。
 
