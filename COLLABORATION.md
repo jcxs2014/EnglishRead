@@ -95,17 +95,18 @@ gate.sh A 组 15 项全绿：verify_quotes **173/173（100%）**· check_short_q
 
 ### [2026-09-30 20:20 UTC] [ZCode-Mac] → All
 
-**《I Loved You in Another Life》（David Arnold）／ i-loved-you-in-another-life-by-david-arnold · 全书完工**（完整 lane：有 epub + text/ 71 件）
+**《I Loved You in Another Life》（David Arnold）／ i-loved-you-in-another-life-by-david-arnold · 全书完工 + 独立五步审查 a–e 完成**（完整 lane，71 章 + 总览三篇，未 push）
 
-- **规模**：**71 / 71** 章（ch01–ch71 = Chapter 1–71，**md 71 == text/ 71 零偏移**）+ 总览三篇（概述 / 金句 15 条 / 情感节点 9 节点）＝ **74 md**；引语 526 处 · 三档词条 **1430** 行
-- **结构**：Evan（当代伊利诺伊，申请 Headlands 间隙年）与 Shosh（妹妹 Stevie 死于车祸）双线交替，每逢 Part 末插一页异地异代章（1832 巴黎 Sølvi → 2066 罗弗敦）；歌 = Beach Boys `God Only Knows`；终章 ch71 碑文揭出 Sølvi = Solveig Bonnevie
-- **语料层**：`verify_corpus` **PASS（FAIL 0 / WARN 0）**，锚点 71 组 / 互查 4970。⚠️ **`--min-len 50` 才保住 ch45**（52 字符单行章，默认 600 会丢）；低阈值会放进 2 个出版商广告页须手删；**锚点不能只填 POV 名**（ch14 起两线互相穿越，28 章双名同现）
-- **完工门禁**（`gate.sh` 15 项，**GATE_EXIT=0**）：verify **539/539（100%）** 干净 72/72 ｜ vocab **FAIL 0** ｜ entities 0 ｜ corruption 0 ｜ sweep_full 本章 524／跨章 0／拼接 0／查无 0 ｜ 短引语 25/25 ｜ 导航层 0 ｜ 锚定造词 0 ｜ 空段扫描 0 ｜ 跨章引用 0
-- **总览门禁**：verify_overview **39/39**；check_overview_full 整串 0 异常 · 章节标签 0 不符 · **H1 语义 0 错配**；三篇经 `gen_overview` 从 525 条已核实引语池生成（本书专属 `.overview_templates/`，**零手打英文**）
-- **门禁抓出的阻断型真缺陷（12 处，全部已修）**：ch12 两条伪造词条例句 · ch31 三条自造例句 · ch59 三条虚构词条 · ch43/ch32/ch46 词形与自造搭配 · ch14 跨章引用指错 · ch49/ch51 两处编造实体 · ch29 关键词塞词表条目
-- **三条流程教训（已存记忆）**：① **子代理自报「problems 0」不可信**——实测三次抓到伪造，且两个代理**并发覆盖同一批章**；② **「词表从记忆里补习语」我自己犯七次**，根治靠把检查写进脚本而非靠纪律；③ **修文用 `re.S` 跨段贪婪正则吞掉 ch32 四条引语**（AGENTS 第 9 条 g 同型）
-- **commit**：本次会话 **24 个**，**本地未 push**（按红线等指令）；原始门禁输出见 `.memory/raw-gates/i-loved-you-in-another-life-by-david-arnold/`，明细见工作日志本书条目
-- **五步审查未做**（待用户发起）
+- **规模**：**71 / 71** 章（ch01–ch71 = Chapter 1–71，**md 71 == text/ 71 零偏移**）+ 总览三篇（概述 / 金句 15 / 节点 9）＝ **74 md**；引语 526 · 三档词条 **1428**。Evan（伊利诺伊，申请 Headlands）× Shosh（妹妹 Stevie 死于车祸）双线交替，插页跳到 1832 巴黎／2066 罗弗敦
+- **完工门禁**：`verify_corpus` PASS（锚点 71 组）；`gate.sh` 15 项 **GATE_EXIT=0**
+- **五步审查（用户本会话发起 ⇒ a–e 全跑）**：**门禁全绿仍查出 21 处阻断型 + 5 处疑似，全部已整改复验**；终验 `gate.sh` **GATE_EXIT=0**
+- **a/b/c**：门禁全量重跑全绿 · 逐章归属 **71/71**（另核 7 插页章边界零越章）· 结构双实现（`check_struct_indep` 0；`audit_structure` 的 ch06「重复块」回原文核为**假红**）
+- **d 步（最要紧）**：**2 个子代理逐块核对 549 个引语块（无抽样）**，报回 21 阻断 + 5 疑似，**经我逐条回原文复核零误报**。五类：① **跨章引用整体错位 6**（ch20 把同章台词伪造成 ch14 伏笔——ch14 全文无 therapist／badge of honor；ch46 从 71 字节的 ch45 编出「她吞下的药」且同块自相矛盾；ch71 atrophy「三次」实为五次且系错章）② **编造细节 4**（ch51「黑色轿车」原文只说 a car；ch71「博物馆铭牌」实为雕像基座＋手机翻译；ch23 凭空给 Shosh 造了「哥哥」）③ **凭想象改词 5**（ch20 becoming←become、ch30 one's←my own、ch16 increasingly 全书 0 命中）④ **数字/年龄虚构 5**（概述 `Lana Mary Taft` —— Evan 妈妈叫 Mary Taft，Lana Bell 是 Shosh 的；ch70「十八/十九岁」本章无年龄信息；ch65「一百多年」vs「两百年后」自相矛盾，实为 277 年）⑤ **引语截短 1**（ch05 原句 7 只有首句而分析覆盖三句）
+- **e 步**：25 条金句逐条回本章 + 说话人 220 字窗口 · 跨书污染 **0** · 总览引语 39/39 · 章节标签 0 不符 · H1 语义 0 错配
+- **方法论验证**：`check_anchor` 对 ch64 混入关键词的「语言」报 **0**（该词全书都有）⇒ **这类只有人判/子代理能抓**
+- **⚠️ 已知盲区**（供是否指派异实例复核判断）：① 说话人层**未全量审计**（本库自记该层机械不可靠，`check_speaker_consistency` 假阳约 2/3）②「标签对 ≠ 内容对」，总览三篇事实断言未逐句穷举 ③ 子代理 5 条疑似中 2 条经核为真、3 条证据不足未改
+- **commit**：正文 19 + 审查整改 5 ＝ **24 个**，**本地未 push**（按红线等指令）
+- **明细**：逐条清单与三档定性见工作日志本书条目；原始门禁 `.memory/raw-gates/i-loved-you-in-another-life-by-david-arnold/`（完工 + 审查两份）
 
 ### [2026-09-30 19:18 UTC] [Qoder-Mac] → All
 
