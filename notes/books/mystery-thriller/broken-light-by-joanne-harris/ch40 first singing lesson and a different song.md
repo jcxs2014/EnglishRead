@@ -15,7 +15,7 @@ modified: "2026-09-30"
 
 ## 精读
 
-> **原句 1:** "I’d imagined her looking something like Mrs Clarke from Mulberry House, with cat’s-eye glasses and tight grey perm."
+> **原句 1:** "I’d imagined her looking something like Mrs Clarke from Mulberry House, with cat’s-eye glasses and tight grey perm. I don’t know why I thought this. Perhaps because of her name – Charlotte Hyde – or her address in a nice part of Hampstead. Perhaps because the concept of singing lessons is still so strange to me – even stranger than running club, or going for a drink with friends. That’s what I’ll have to tell Martin when I go out on Wednesday nights. Going for a drink with friends. The singing lessons will remain a closely guarded secret."
 
 **中文理解**： 我原以为老师会比我年纪大，也许六十多岁或七十多岁。我想象中的她有点像 Mulberry House 的 Clarke 太太，戴猫眼眼镜，梳紧贴头皮的灰色短卷发。我不知道自己为什么会这么想。也许是因为她的名字——Charlotte Hyde——或者因为她在 Hampstead 一个不错地段住的地址。也许因为「上声乐课」这件事本身对我来说仍然太古怪——比跑步俱乐部还古怪，比和朋友出去喝一杯还古怪。那就是我周三晚上要跟 Martin 说的话：和朋友出去喝一杯。声乐课会是我严守的秘密。
 
@@ -27,7 +27,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 2:** "For our first lesson, all I did was repeat assorted vowel sounds in different vocal registers, while she played the accompanying line on her grand piano. It wasn’t singing. It wasn’t even music. I felt uncomfortable."
+> **原句 2:** "For our first lesson, all I did was repeat assorted vowel sounds in different vocal registers, while she played the accompanying line on her grand piano. It wasn’t singing. It wasn’t even music. I felt uncomfortable. I knew I sounded ridiculous. I didn’t sound at all like myself – I didn’t even sound human. And yet a glance into Charlie’s house revealed no scorn, no judgement. Charlie’s house is at variance with her punkish appearance: a place of order on every side, smooth and cool and disciplined."
 
 **中文理解**： 第一堂课上我做的全部事情，就是在不同的声区里重复各种元音，她在她的三角钢琴上弹伴奏线。这不是唱歌。这甚至不算音乐。我感到不自在。我知道自己听上去很可笑。我听起来完全不像我自己——我听起来甚至不像人。可我往 Charlie 的屋子里看了一眼，里面没有轻蔑，也没有评判。Charlie 的屋子与她那身朋克外表并不相符：处处是秩序，光滑、冰凉、自律。
 
@@ -39,7 +39,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 3:** "I can smell my teenage sweat; the scent of my Impulse body spray; the hot smell of the stage lights and the sawdust of the scenery."
+> **原句 3:** "The hot flash is tremendous, sweeping over me like the sea. I feel the sweat stinging my scalp; my throat is dry and scratchy. For a moment, I’m back at Pog Hill Prom, watching Katie sing on stage. I can smell my teenage sweat; the scent of my Impulse body spray; the hot smell of the stage lights and the sawdust of the scenery. I can hear the sigh of the crowd, like waves of the seashore, and above it, her voice, so high and sweet, swooping like a seagull –"
 
 **中文理解**： 那股潮热来势汹汹，像海一样扫过我。我感到汗刺着我的头皮；喉咙又干又涩。有那么一瞬，我又回到了 Pog Hill 那场舞会，看着 Katie 在台上唱。我闻得到自己少年时的汗味、那股 Impulse 身体喷雾的味道、舞台灯的热气、布景木屑的味道。我听得到人群的那声叹息，像海边的浪，而在它上面，是她的声音，那么高、那么甜，俯冲得像一只海鸥。
 

@@ -27,7 +27,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 2:** "The photograph they have chosen to use shows Emma in a bikini. I wonder what that’s meant to say. That she was fair game? Presumably she didn’t wear it when teaching."
+> **原句 2:** "The photograph they have chosen to use shows Emma in a bikini. I wonder what that’s meant to say. That she was fair game? Presumably she didn’t wear it when teaching. Already the replies to the piece are filled with misogyny and hate. Many address her directly, as if she had written the article:"
 
 **中文理解**： 他们选用来配图的那张照片，是穿比基尼的 Emma。我想这图想说明什么？说明她是任人挑的？想必她上课时不穿这个。底下的回复已经塞满了厌女与仇恨，很多人直接对她说话，好像文章是她写的：醒醒吧亲爱的，你连 5 分都算不上。
 
@@ -39,7 +39,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 3:** "To them, masculinity means crime. Destroy masculinity, they think, and crime will be a thing of the past. And so, they’re poisoning the men. It’s chemical castration on a massive scale."
+> **原句 3:** "To them, masculinity means crime. Destroy masculinity, they think, and crime will be a thing of the past. And so, they’re poisoning the men. It’s chemical castration on a massive scale. That’s why there are so many kids who don’t know what they are anymore."
 
 **中文理解**： 在他们眼里，男性气质就等于犯罪。摧毁男性气质，他们想，犯罪就会成为过去。所以他们在给男人下毒。这是大规模的化学阉割。所以才有这么多孩子不知道自己是什么。
 

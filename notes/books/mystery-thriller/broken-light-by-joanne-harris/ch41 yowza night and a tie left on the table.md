@@ -15,7 +15,7 @@ modified: "2026-09-30"
 
 ## 精读
 
-> **原句 1:** "She calls them our Yowza nights, when we get to celebrate our achievements. It doesn’t have to be much. A PB from one of our runners. Someone got a promotion at work. Kafka got a mention on some influencer’s TikTok."
+> **原句 1:** "Alex has a tradition of going out every week with some of the girls for drinks. She calls them our Yowza nights, when we get to celebrate our achievements. It doesn’t have to be much. A PB from one of our runners. Someone got a promotion at work. Kafka got a mention on some influencer’s TikTok. We talk about anything we like. We drink tequila shots, craft beer. Rahmi doesn’t drink, but she likes virgin cocktails with parasols."
 
 **中文理解**： Alex 有一个惯例：每周和几个女孩出去喝一次。她管这叫我们的 Yowza 之夜，用来庆祝我们的成就。规模不必大：某个跑者跑出一个 PB；有人升职了；Kafka 在某个网红的 TikTok 上被人提到一句。我们什么话都说。我们喝龙舌兰小杯酒、精酿啤酒。Rahmi 不喝酒，但她喜欢带小伞伞的无酒精鸡尾酒。
 
@@ -63,11 +63,11 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 5:** "I saw his perfect projections – his highly paid job, his collection of shirts from Jermyn Street, his cabinet of first editions and his carefully curated circle of not-quite-friends."
+> **原句 5:** "I saw his perfect projections – his highly paid job, his collection of shirts from Jermyn Street, his cabinet of first editions and his carefully curated circle of not-quite-friends. And behind them, I saw all his doors – his secrets, his insecurities, the mirrors reflecting his true self – and flipped them all like playing cards."
 
-**中文理解**： 我看见他那些完美的投射物——那份高薪工作、他在 Jermyn Street 买的衬衫、他的初版本书柜，以及他那圈精心经营出来的、算不上朋友的人。而在那背后，我看见了他所有的门——他的秘密、他的不安全感、那些映出他真面子的镜子——我像翻扑克牌一样把它们全翻了。我让他看清自己有多小。我让他看见他那些同侪的毫无价值、他们价值观的空洞。我感觉像 The Great Carovnik，被镜子包围着，占据舞台，微笑着，浸在掌声里。
+**中文理解**： 我看见他那些完美的投射物——那份高薪工作、他在 Jermyn Street 买的衬衫、他的初版本书柜，以及他那圈精心经营出来的、算不上朋友的人。而在那背后，我看见了他所有的门——他的秘密、他的不安全感、那些映出他真面子的镜子——我像翻扑克牌一样把它们全翻了。我让他看清自己有多小。我让他看见他那些同侪的毫无价值、他们价值观的空洞。
 
-**关键词**： his perfect projections（他那些完美的投射物）· his collection of shirts from Jermyn Street（他在 Jermyn Street 买的衬衫）· his carefully curated circle of not-quite-friends（精心经营出来的、算不上朋友的圈子）· his doors – his secrets, his insecurities（他的门——他的秘密与不安全感）· surrounded by mirrors（被镜子包围着）
+**关键词**： his perfect projections（他那些完美的投射物）· his collection of shirts from Jermyn Street（他在 Jermyn Street 买的衬衫）· his carefully curated circle of not-quite-friends（精心经营出来的、算不上朋友的圈子）· his doors – his secrets, his insecurities（他的门——他的秘密与不安全感）
 
 **为什么这样写**： 投射物（projections）一词先给出他如何被建造出来（高薪、衬衫、初版本、圈），随后 the doors 把他的内里拆成一扇扇可翻的门；两个清单用 but / And behind them 硬接，动作是「翻牌」——所以后面那句 Great Carovnik 的比喻不是抒情，是对她刚才那套操作的描述。
 
