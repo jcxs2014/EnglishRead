@@ -151,11 +151,6 @@ modified: "2026-09-30"
 | audacious | 敢想敢干的 | This was not the career she’d dreamed of as an ambitious seventeen-year-old, but now it was hard to remember ever feeling innocent and audacious enough to dream of a certain type of life, as if you got to choose how things turned out. |
 | innocuous | 无害的、轻飘飘的 | She could shrink her fears down into innocuous little status updates that drifted away on the news feeds of her friends. |
 
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-
 ## 一句话总结
 
 一鞋盒报账单据管不住一颗奔腾的心——Jane 把「正常」设成本学期 OKR，志愿者、约会、朋友圈三线开工，身体却用一阵呕吐宣告主权：那个气味，在 Ziggy 情绪骤变时会准时出现；而访谈室里，她的「外遇」已经谣言出六个版本，没有一个接近真相。
