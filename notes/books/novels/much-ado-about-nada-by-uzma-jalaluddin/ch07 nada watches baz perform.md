@@ -79,11 +79,11 @@ modified: "2026-09-29"
 
 **中文理解**:  一丝极淡的渴望舒展开来，像一朵休眠已久的花。
 
-**关键词**:  the barest curl（最细微的一卷）／want（想要）／unfurled like a long-dormant flower（像久 dormant 的花舒展开）
+**关键词**:  the barest curl（最细微的一卷）／want（想要）／unfurled like a long-dormant flower（像一朵长久休眠的花舒展开）
 
 **为什么这样写**:  the barest curl 用数量词把欲望压到最低，unfurled 却是舒展、是打开，两者形成"几乎不存在却正在发生"的张力；long-dormant 一词把这份吸引接到更早的年份上——不是今晚才有，只是睡了很久。
 
-**读者视角提示**:  这是她第一次用身体语言承认她想要他（ch07 第 5 处）；写法克制，但位置很低，克制反而更重。
+**读者视角提示**:  这是她第一次用身体语言承认她想要他（ch07 原句 6）；写法克制，但位置很低，克制反而更重。
 
 ---
 

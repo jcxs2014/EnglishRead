@@ -89,7 +89,7 @@ modified: "2026-09-29"
 
 > **原句 7:** "Baz is my younger brother, but we've always had this role reversal. I look up to him. If even he can't make things work with the woman he's been in love with for half his life, what chance do I have?"
 
-**中文理解**："Baz 比我小，可我们俩一直有这个颠倒。我仰望着他。連他都没办法和自己爱了大半辈子的那个女人把日子过下去，我还有什么机会？"
+**中文理解**："Baz 比我小，可我们俩一直有这个颠倒。我仰望着他。连他都没办法和自己爱了大半辈子的那个女人把日子过下去，我还有什么机会？"
 
 **关键词**:  role reversal（角色颠倒）/ I look up to him（我仰望着他）/ what chance do I have（我还有什么机会）
 
