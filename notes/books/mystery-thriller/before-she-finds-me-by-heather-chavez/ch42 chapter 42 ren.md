@@ -7,7 +7,7 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：Ren 坐在诊所外的车里，手里握着一份自己配的毒，反复掂量要不要对 Julia 下手，最后走进超声室，在屏幕上看见一个陌生的小生命，并脱口报出了目标的名字。
+- **一句话概括**：Ren 坐在诊所外的车里，那份自己配的毒还留在家里的袜子中间，她反复掂量要不要对 Julia 下手，最后走进超声室，在屏幕上什么也辨不出，却脱口报出了目标的名字。
 - **情感弧线位置**：职业化的镇定 → 自我辩护 → 听见心跳时的裂缝 → 名字脱口而出的失守
 - **Tropes 兑现/反转**：杀手拒绝用枪 · 把谋杀做成工艺的「仁慈」 · 婴儿戏码里一句泄露情感的命名
 - **人物弧线**：Ren 用毒学术语把杀人降格成配方与剂量；她的身体（胃的响动）和嘴（Impulsively 那一句）两次先于意志行动
@@ -27,7 +27,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 2:**  actually said that: our brand. As if they sold sneakers or auto insurance.
+> **原句 2:** He’d actually said that: our brand. As if they sold sneakers or auto insurance.
 
 **中文理解**：他当时确实就是这么说的：我们的品牌。好像他们卖的是运动鞋，或者汽车保险。
 
@@ -45,7 +45,7 @@ modified: "2026-09-30"
 
 **关键词**：Papaver somniferum / illegal / Life was risk
 
-**为什么这样写**：两个长分句结构对仗，都以 it was illegal to 起头；破折号后的插入语承担科普，末尾 `Life was risk` 把整段冷静的工序收成一句格言。作者把「种」与「杀」并排放，等于宣布在她的账本上两者同价——这不是辩护，是定价。
+**为什么这样写**：两个长分句结构对仗，都以 it was illegal to 起头；逗号后的同位语承担科普，末尾 `Life was risk` 把整段冷静的工序收成一句格言。作者把「种」与「杀」并排放，等于宣布在她的账本上两者同价——这不是辩护，是定价。
 
 **读者视角提示**：记住这一句里被并列的两件事。后面她在车里为自己开脱、在公寓里收拾行李，算的都是同一笔账。
 
@@ -63,7 +63,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 5:** reminded Brie of ethylene glycol: sweet to the taste but common and unreliable. An amateur’s poison. In contrast, Julia was more like tetrodotoxin, a sodium channel blocker carried in some fish. Elegant and extremely potent.
+> **原句 5:** She reminded Brie of ethylene glycol: sweet to the taste but common and unreliable. An amateur’s poison. In contrast, Julia was more like tetrodotoxin, a sodium channel blocker carried in some fish. Elegant and extremely potent.
 
 **中文理解**：她让 Brie 想起乙二醇：入口是甜的，可是常见、也不可靠，业余者的毒。相比之下 Julia 更像河豚毒素，一种由某些鱼携带的钠通道阻断剂。优雅，而且效力极强。照 Ren 的看法，是个更有意思的选择。
 
