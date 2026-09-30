@@ -50,10 +50,10 @@ modified: "2026-10-01"
 - **为什么这样写**：一句条件句把父子关系写成连锁反应：爸爸是什么，儿子就买什么。而 mop 与 monkey 两个物件并排，一件属于清洁工、一件属于动物园——荒诞的对仗里藏着一句极准的观察：一个只想当警察的儿子，身上带着父亲的全部形状。
 - **读者视角提示**：这是全书对父子最漂亮的一次速写； Owl 若不是警长而是别的什么，这家人依然是这一家人。
 
-> **原句 6:** He looks tempted to let his good fist fly against the closet door. Instead, he does the action in slow motion and stops inches from the wood.
+> **原句 6:** Instead, he does the action in slow motion and stops inches from the wood.
 
-- **中文理解**：「他看上去很想把那只好看的拳头砸在壁橱门上；但他改为把这个动作放成慢镜头，停在离木头几英寸的地方。」
-- **关键词**：let his good fist fly · does the action in slow motion · stops inches from the wood
+- **中文理解**：「相反，他把这个动作放成慢镜头，停在离木头几英寸的地方。」
+- **关键词**：does the action in slow motion · stops inches from the wood
 - **为什么这样写**：动词 good（好看的）插进拳头与门之间，把暴力先打扮了一下。in slow motion 是电影语言——作者把 Neil 的克制拍成了慢镜头；而 inches（英寸）再次用那把尺子量他的距离，与 Duck Pond 抬尸体时同一把尺。这是全书第二次出现以英寸计量的克制。
 - **读者视角提示**：弟弟的拳头停在门外，而他的姐姐此刻正躺在门后的某个地方；这一英寸之差，读者比谁都清楚意味着什么。
 
