@@ -1,0 +1,48 @@
+按 AGENTS 第 10 条「完成报告硬要求」补齐三样材料（原件落 raw-gates，日志放摘要表 + 指那一行，板只留聚合数字与结论）。
+
+## See You Yesterday · 五步审查原始输出
+
+**lane**：完整（有 epub）｜ **审查方**：Commandcode-Mac（同会话，未降级）
+
+### a 步（第 3 条门禁全量重跑，零采信自报数字）
+
+```
+ 1 verify_quotes      : 总计 245/245 (100%)；完全干净文件 43/43
+ 2 verify_quotes --full: 整串取证 1
+ 3 逐章归属           : 42/42 章 X/X in chNN text（逐章循环跑，无 MISS）
+ 4 check_vocab        : 词条行合计 1180 ／ FAIL (0)
+ 5 check_entities     : 0 个文件存在未知实体
+ 6 corruption_scan    : FAIL 0 处（U+FFFD / 双句号）
+ 7 sweep_full         : 本章命中 231 ｜ 跨章 0 ｜ 拼接 0 ｜ 查无 0
+14 check_short_quotes : 命中 10 ｜ 别章 0 ｜ 拼接 0 ｜ 查无 0
+```
+
+### b/c/d 步（第二实现与非机械项）
+
+```
+cliffhanger 边界（自写，逐章首尾各 4 行 flat 比对）: 边界行重复 0 ＝无跨章场景错置
+12 audit_structure     : 结构缺陷 0 ｜ 映射不一致 0
+   check_struct_indep  : 缺陷 964 → 整改后 0（含投毒自证：注入「删子项+重复子项」各 1 处如期报出）
+   check_analysis_indep: 171 条分析层片段，未命中 1（ch17 retracting）→ 修后 ✅ 全命中
+   check_xref_indep    : chNN 引用 120 处：英文证据报警 0
+   跨章引用回查（自写，同行作用域第二实现）: 26 对，标注目录命中 22，回查不符 1（合法跨章引用）
+   总览出处标签回查（自写，工具盲区）: 正确 15 ｜ 错标 1 → 修后 0
+```
+
+### e 步（总览层）
+
+```
+15 check_overview_full: A 整串 命中 55 ｜ 拼接 0 ｜ 省略号图式 0 ｜ 查无 0
+                        B 章节标签 对 29 ／ 不符 0 ｜ E H1 错配 0
+   verify_overview_quotes: 11/11 ✅
+   H1 语义（手 grep）: 概述/金句精选/情感节点 三篇 H1 与文件名语义一致
+```
+
+### 跨书污染自检（逐名）
+
+| 名字 | 其他书命中 | 判定 |
+|------|-----------|------|
+| Barrett Bloom / Miles Kasher-Okamoto / Eloise Devereux / Lucie Lamont / Zeta Kappa | 各 0 | 无污染 |
+| Olmsted | 1（Fox 里的 Frederick Law Olmsted Sr.，真实历史建筑师） | 非污染 |
+
+原件：`.memory/raw-gates/see-you-yesterday-by-rachel-lynn-solomon/2026-09-30-五步审查.txt`

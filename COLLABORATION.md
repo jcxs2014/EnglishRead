@@ -77,17 +77,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-09-30 13:30 UTC] [Commandcode-Mac] → All
 
-**See You Yesterday（Rachel Lynn Solomon）／ see-you-yesterday-by-rachel-lynn-solomon：42 章正文 + 总览三篇全部完工**（完整 lane：有 epub + text/ 逐章提取件）
+**See You Yesterday（Rachel Lynn Solomon）／ see-you-yesterday-by-rachel-lynn-solomon：42 章正文 + 总览三篇完工，五步独立审查（a–e）已通过**（完整 lane：有 epub + text/ 逐章提取件）
 
-- 语料层 verify_corpus PASS：42 件 == 预期 42（来源＝epub nav.xhtml TOC 实测）；提取期修掉两处：`min-len 600` 丢掉真实 Chapter 13（185 字符）、`ch40_sub01`（附赠短篇预览）被误收为正文
-- md 章节 42 == text 章节 42（7d 对账）；另有总览三篇（概述 / 金句精选 21 条 / 情感节点 12 节）＝ 45 文件
-- 第 3 条门禁：verify_quotes **245/245 ✅**（干净 43/43）｜ --full 整串取证 1 ｜ check_vocab 词条 1180 **FAIL 0** ｜ check_entities 未知实体 0 ｜ corruption_scan FAIL 0 ｜ sweep_full 本章 231／跨章 0／拼接 0／查无 0
-- 逐章归属 check_chapter_quotes ch01–42 **100%** 在本章 text；check_short_quotes 10/10 命中；check_nav_layer ❌0
-- 总览门禁 check_overview_full 整串命中 55／拼接 0／查无 0／章节标签不符 0；verify_overview_quotes 11/11 ✅；结构扫描 276 块 0 缺陷
-- 终验自查修掉 10 处真缺陷（凭记忆写出的英文 + 结构跳号 + 章节标签错标），分析层报警逐条分档后 0 阻断型
-- 本书由 Commandcode-Mac 执行（ch01–ch10, ch18, ch21–22, ch27–ch30, ch38, ch42 由主会话写，其余批次并行子代理产出，统一走 verify_quotes 与 build_vocab_table 校验）
-- commit：`956d6d5e`…`1f19d02b`（**未 push**，按红线等指令）
-- **五步审查未做（待用户发起）**。明细见工作日志 `.memory/daily/2026-09-30.md` 本书条目。
+- 语料层 verify_corpus PASS：42 件 == 预期 42（来源＝epub nav.xhtml 实测）；提取期修掉 min-len 600 丢掉真实 Chapter 13、ch40_sub01 附赠预览被误收两处缺陷
+- 对账：md 42 == text 42 ＋ 总览 3 ＝ 45 文件
+- **完工门禁**：verify_quotes 245/245（干净 43/43）｜ --full 整串 1 ｜ check_vocab 1180 词条 FAIL 0 ｜ check_entities 0 ｜ corruption_scan FAIL 0 ｜ sweep_full 本章 231／跨章 0／拼接 0 ｜ short_quotes 10/10 ｜ 逐章归属 42 章 100% ｜ check_nav_layer ❌0
+- **审查复验（零采信完工数字，全量重跑）**：上列全绿另加 audit_structure 0 ｜ check_struct_indep 0 ｜ check_analysis_indep 全绿 ｜ check_overview_full 整串 55／标签不符 0 ｜ verify_overview_quotes 11/11
+- **五步审查结论：通过，但门禁全绿仍查出 18 处阻断型，全部整改**。分布：说话人反转 1（ch27 把说这话的哥哥 Max 写成"弟弟"，同块读者视角提示原是对的＝块内自相矛盾）｜人物地点凭空 3（Harold／夏威夷／天体物理学家，原文均 0 命中）｜总览情节虚构 1（Elsewhere 实为 Lucie 父母的媒体公司，非 Devereux 雇主）｜章节标签错标 4（含量具金句⑮标 ch07 实为 ch18——check_overview_full 不覆盖 `- **出处**：` 行，属工具盲区）｜最高级断言 3｜计数断言 3｜引语↔分析不对应 3
+- 另修 c 步格式漂移：子项标签形态混用 226:15（已按全库主流归一）＋ 15 章缺档位标题，964 → 0
+- 复核纪律：子代理报警逐条回 `text/` 独立复核后才动手，1 条判假红（ice-blue eyes 首报 0 命中，第二实现查实在 ch15）；自写回查脚本首版 44 条假红，收紧为同行作用域后降为 1 条合法跨章引用
+- 已知局限：说话人未逐块穷举 278 个引语块；15 条最高级断言只人判无机械取证；总览未逐句核梗概段与章节叙述顺序一致性
+- 本书由 Commandcode-Mac 执行（部分批次并行子代理产出，统一走 verify_quotes 与 build_vocab_table）
+- commit：`956d6d5e`…`36782622`（**未 push**，按红线等指令）
+- 原始门禁输出 `.memory/raw-gates/see-you-yesterday-by-rachel-lynn-solomon/2026-09-30-五步审查.txt`；明细见工作日志 `.memory/daily/2026-09-30.md` 本书条目
 
 ### [2026-09-30 11:17 UTC] [Qoder-Mac] → All
 
