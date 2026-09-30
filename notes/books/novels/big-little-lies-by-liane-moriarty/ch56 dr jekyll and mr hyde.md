@@ -119,6 +119,43 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| relationships | （暴力）关系的走向 | Violent relationships tend to become more violent over time. |
+| nonjudgmental | 不评判的（语气） | Had she read it in some of that folder of paperwork, or was it something Susi had said in that cool, nonjudgmental voice of hers? |
+| superstitious | 迷信（的预感） | She’d been right to be superstitious. |
+| compassion | （真切得吓人的）关切 | “Celeste is sick,” she’d heard him say, and the concern and compassion in his voice were so real, so genuine, it was as though he really did believe that she’d suddenly been felled by a mysterious illness. |
+| precautions | （安全）防范 | “You need to take precautions. |
+| delusional | （自以为）清醒的幻想 | She was delusional. |
+| trajectory | （暴力升级的）轨迹 | If she stayed, and they remained on this trajectory together, he would probably, eventually, find something to be angry enough about that he would kill her. |
+| eventually | 迟早 | If she stayed, and they remained on this trajectory together, he would probably, eventually, find something to be angry enough about that he would kill her. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| nauseated | （孕吐）恶心 | She was fourteen weeks pregnant at the time, nauseated and bloated, with a permanent metallic taste in her mouth, and she was refusing to believe in this pregnancy—but Perry was high on hope, as if the new house would somehow guarantee the pregnancy would work, because “What a life! |
+| metallic | （嘴里的）金属味 | She was fourteen weeks pregnant at the time, nauseated and bloated, with a permanent metallic taste in her mouth, and she was refusing to believe in this pregnancy—but Perry was high on hope, as if the new house would somehow guarantee the pregnancy would work, because “What a life! |
+| pregnancy | （这一胎）怀孕 | She was fourteen weeks pregnant at the time, nauseated and bloated, with a permanent metallic taste in her mouth, and she was refusing to believe in this pregnancy—but Perry was high on hope, as if the new house would somehow guarantee the pregnancy would work, because “What a life! |
+| overcome | （突然）被击倒 | “I have to go into the office this afternoon, but I’ll work from home this morning to make sure you’re OK,” he’d said after he’d helped her off the hallway floor, as if she’d slipped and hurt herself, or been suddenly overcome by a dizzy spell. |
+| handsome | （英俊又）体贴的（脸） | She looked at his handsome, caring face, blinked and saw his face up close to hers, jeering, “Not good enough,” before he slammed her head against the wall. |
+| throbbing | （一跳一跳）隐隐作痛 | The ice pack had helped, but the pain had settled at a certain level and stayed that way, as if it were always going to be there: a tender, throbbing circle. |
+| battered | 受虐的（女性） | The most dangerous time for a battered woman is after she ends the relationship,” Susi had told Celeste more than once at their last session, as though she were looking for a response that Celeste wasn’t giving her. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| baddie | （哪个才是）坏人 | Which one was the baddie? |
+| fool | 傻瓜 | She was a fool. |
+| ice pack | 冰袋 | The ice pack had helped, but the pain had settled at a certain level and stayed that way, as if it were always going to be there: a tender, throbbing circle. |
+| joke | 笑话 | It was a joke. |
+| notch higher | （怒火再）高一度 | If his anger had burned just a notch higher today, then he would have hit her head once more against the wall. |
+| pulpy tomato | （一按就烂的）番茄 | When she put her fingertips to it, she expected it to feel like a pulpy tomato. |
+| whole story | （照片没讲的）全部真相 | Would he feel humiliated if the world knew that his Facebook posts didn’t tell the whole story? |
+
 ## 一句话总结
 
 床上看海的视角换了主人——「杰基尔与海德」的谜题她答不出，「走与留」的两道死亡算术却算得分明；中介那句「你们自己看」成了婚姻的谶语，铺好的公寓床铺在新算术面前成了笑话：她的清醒终于追上了事实，只差一个真正的计划把「迟早」改成「never」。
