@@ -47,7 +47,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 3:** “I don’t know why that never occurred to me . . .” She swallowed, looked right at Will. “She died, my sister. So I cry a lot now.”
+> **原句 3:** I don’t know why that never occurred to me . . .” She swallowed, looked right at Will. “She died, my sister. So I cry a lot now.”
 
 **中文理解**：「我不知道为什么我以前从来没想过这一点……」她咽了口唾沫，直直看着 Will。「我姐姐死了。所以我现在很爱哭。」
 
@@ -125,7 +125,7 @@ modified: "2026-09-30"
 | splashed | 泼，溅（此处指往脸上泼水） | She splashed water on her face, looked at herself in the bathroom mirror. |
 | consecutive | 连续的，不间断的 | for most consecutive minutes without thinking of her sister. |
 | shorthand | 速记；此处指家人之间的默契 | There was a clear shorthand between them |
-| jolt | 震颤，颠动（此处指终身的细小震动） | A 10.0 earthquake, followed by a lifetime of little jolts. |
+| jolts | 震颤，颠动（此处指终身的细小震动） | A 10.0 earthquake, followed by a lifetime of little jolts. |
 | imprinted | 压印，留下印子（原文过去分词） | as if her hand had imprinted itself on the memory of Evan’s. |
 | abruptly | 突然地（此处指他猛地站起来） | “Okay, then.” Evan stood abruptly, clapped his hands together. |
 | prowling | 潜行搜索的（此处形容发问的专注） | Will turned to his brother with the intensity of a prowling lioness. |
@@ -138,7 +138,7 @@ modified: "2026-09-30"
 | duly impressed | 恰到好处的钦佩 | Will said, looking duly impressed at her display of cinematic trivia. |
 | a pregnant pause | 意味深长的停顿 | A pregnant pause, and then Will turned to his brother |
 | in the days to come | 在往后的日子里 | That night, and in the days to come, she wondered |
-| to fall short of | 未能达到，未够格 | all the ways she’d fallen short of them |
+| fell short of | 未能达到，未够格 | all the ways she’d fallen short of them |
 | baked into | 融进，渗入 | It was baked into their smiles as they watched |
 | thrust into | 被抛进（此处形容灰尘被气流扬起） | little dust particles from a nearby vent thrust into the air |
 
