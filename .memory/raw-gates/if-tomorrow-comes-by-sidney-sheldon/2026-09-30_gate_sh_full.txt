@@ -1,0 +1,95 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub）===
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 237/237 引文可核实（100%）；完全干净文件 34/34；正文章节 0 提取 0；总览 0 提取转交 2 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 988
+--- FAIL (0) ---
+--- WARN (49) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 237 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 doris says goodbye.md                     ch01 doris says goodbye.md: 8/8 in ch01 text
+ch02 the day the news comes.md                 ch02 the day the news comes.md: 8/8 in ch02 text
+ch03 a gun and a setup.md                      ch03 a gun and a setup.md: 8/8 in ch03 text
+ch04 charles hangs up and the prison bus.md    ch04 charles hangs up and the prison bus.md: 4/4 in ch04 text（另有 1 条短引语未校验）
+ch05 the first day inside.md                   ch05 the first day inside.md: 6/6 in ch05 text
+ch06 the cell block takes her in.md            ch06 the cell block takes her in.md: 7/7 in ch06 text（另有 1 条短引语未校验）
+ch07 she plans her escape.md                   ch07 she plans her escape.md: 6/6 in ch07 text
+ch08 the investigator says she is framed.md    ch08 the investigator says she is framed.md: 5/5 in ch08 text
+ch09 the rules of the prison.md                ch09 the rules of the prison.md: 8/8 in ch09 text
+ch10 the laundry truck arrives.md              ch10 the laundry truck arrives.md: 8/8 in ch10 text
+ch11 amy falls into the lake.md                ch11 amy falls into the lake.md: 8/8 in ch11 text
+ch12 the magnetized deposit slips.md           ch12 the magnetized deposit slips.md: 8/8 in ch12 text
+ch13 pope is exposed at the poker table.md     ch13 pope is exposed at the poker table.md: 7/7 in ch13 text
+ch14 lawrence is jailed in moscow.md           ch14 lawrence is jailed in moscow.md: 6/6 in ch14 text
+ch15 tracy comes home to philadelphia.md       ch15 tracy comes home to philadelphia.md: 8/8 in ch15 text
+ch16 tracy robs the bellamy house.md           ch16 tracy robs the bellamy house.md: 6/6 in ch16 text
+ch17 two men board the train.md                ch17 two men board the train.md: 6/6 in ch17 text
+ch18 the con man jeff stevens.md               ch18 the con man jeff stevens.md: 8/8 in ch18 text
+ch19 cooper names the burglar.md               ch19 cooper names the burglar.md: 4/4 in ch19 text
+ch20 the queen elizabeth two.md                ch20 the queen elizabeth two.md: 8/8 in ch20 text
+ch21 the emerald that came back.md             ch21 the emerald that came back.md: 8/8 in ch21 text
+ch22 the orient express heist.md               ch22 the orient express heist.md: 8/8 in ch22 text
+ch23 cooper solves the locked room.md          ch23 cooper solves the locked room.md: 6/6 in ch23 text
+ch24 the name at the top of the list.md        ch24 the name at the top of the list.md: 6/6 in ch24 text
+ch25 the beam sounds when you step out.md      ch25 the beam sounds when you step out.md: 8/8 in ch25 text
+ch26 the baroness and the fake treasure.md     ch26 the baroness and the fake treasure.md: 8/8 in ch26 text
+ch27 the caves and the commission.md           ch27 the caves and the commission.md: 4/4 in ch27 text
+ch28 madrid and the rival.md                   ch28 madrid and the rival.md: 8/8 in ch28 text
+ch29 the prado and the alarm button.md         ch29 the prado and the alarm button.md: 4/4 in ch29 text
+ch30 the prado heist.md                        ch30 the prado heist.md: 8/8 in ch30 text
+ch31 the diamond heist.md                      ch31 the diamond heist.md: 8/8 in ch31 text
+ch32 alkmaar refuge and a proposal.md          ch32 alkmaar refuge and a proposal.md: 8/8 in ch32 text
+ch33 gold and the trap closing in.md           ch33 gold and the trap closing in.md: 8/8 in ch33 text
+ch34 amsterdam decoy and the homing pigeon.md  ch34 amsterdam decoy and the homing pigeon.md: 8/8 in ch34 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：34 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（if-tomorrow-comes-by-sidney-sheldon）===
+  ✅ 逐字 1107 ｜ ⚠️ 跨章 24 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 19
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: ➖ 无引语行（正常，非门禁项）
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: ➖ 无引语行（正常，非门禁项）
+
+=== 总览引文 0/0 可核实（0%）；完全干净文件 0/0；已核覆盖 0/3 篇（无引语 3 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0

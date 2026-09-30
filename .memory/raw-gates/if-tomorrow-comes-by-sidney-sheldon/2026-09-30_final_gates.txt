@@ -1,0 +1,164 @@
+# If Tomorrow Comes (Sidney Sheldon) 全书终验 2026-09-30
+# epub=notes/books/novels/if-tomorrow-comes-by-sidney-sheldon/library/If Tomorrow Comes (HarperCollins) - Sheldon, Sidney - libgen.li.epub  (完整 lane)
+
+===== 1. verify_quotes（指纹优化） =====
+ch33 gold and the trap closing in.md: 8/8 ✅
+ch34 amsterdam decoy and the homing pigeon.md: 8/8 ✅
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 2 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 237/237 引文可核实（100%）；完全干净文件 34/34；正文章节 0 提取 0；总览 0 提取转交 2 ===
+
+===== 2. verify_quotes --full（关指纹优化） =====
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 2 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 237/237 引文可核实（100%）；完全干净文件 34/34；正文章节 0 提取 0；总览 0 提取转交 2；--full 整串取证 0 ===
+
+===== 3. check_vocab =====
+  ch28 madrid and the rival.md [基础] 基础档疑含超纲词「beginning」
+  ch28 madrid and the rival.md [基础] 基础档疑含超纲词「assistant manager」
+  ch29 the prado and the alarm button.md [基础] 基础档疑含超纲词「uniformed guard」
+  ch32 alkmaar refuge and a proposal.md [基础] 基础档疑含超纲词「conversation」
+  ch33 gold and the trap closing in.md [高级] 高级档混入常用词「out-of-the-way」
+  ch33 gold and the trap closing in.md [基础] 基础档疑含超纲词「astonished pause」
+
+===== 4. check_entities =====
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+===== 5. corruption_scan =====
+
+=== 编辑损坏扫描（if-tomorrow-comes-by-sidney-sheldon）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+===== 6. sweep_full =====
+=== 引语整串 flat 比对（if-tomorrow-comes-by-sidney-sheldon）===
+  参照集：text/ 逐章（34 章，可定章） + epub 交叉验证
+  ✅ 本章命中 237 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+===== 3. check_vocab（汇总行在前） =====
+词条行合计: 988
+--- FAIL (0) ---
+  ch01 doris says goodbye.md [基础] 基础档疑含超纲词「grandchild」
+  ch02 the day the news comes.md [基础] 基础档疑含超纲词「telephone」
+  ch04 charles hangs up and the prison bus.md [基础] 基础档疑含超纲词「hammerblow」
+  ch06 the cell block takes her in.md [基础] 基础档疑含超纲词「casserole」
+  ch06 the cell block takes her in.md [基础] 基础档疑含超纲词「streetcar」
+  ch07 she plans her escape.md [基础] 基础档疑含超纲词「ancestors」
+（以上 6 条为基础/高级档分档提示，属【提示型】：只记不改）
+
+===== 7. check_short_quotes =====
+=== 短引语兜底核对（if-tomorrow-comes-by-sidney-sheldon）===
+  verify_quotes 跳过（<20 flat 字符）的引语：2 条 —— 这些主门禁**根本没查**
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+===== 8. check_chapter_quotes =====
+Usage: scripts/check_chapter_quotes.py <NN> "<md_file>" [--out-dir <dir>] [--book-dir <book_dir>]
+===== 8. check_chapter_quotes（逐章，34 章） =====
+逐章归属：通过 34 章 ｜ MISS 0 章
+
+===== 9. check_nav_layer =====
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+===== 10. audit_structure =====
+=== 精读结构扫描（if-tomorrow-comes-by-sidney-sheldon）===
+  扫 37 个 md、239 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+===== 11. check_block_coverage =====
+✅ 块覆盖对账：34 个文件，每块都进了 verify_quotes 校验
+
+===== 12. check_anchor =====
+  扫 37 个 md，239 个引语块，239 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（35 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+===== 13. sweep_analysis_inline（分析层英文） =====
+  ⚠️  00_金句精选.md:64  「We don’t run a Sunday school show,」→ 实为 ch18
+  ⚠️  00_金句精选.md:64  「We’re flimflam artists. But remember, sonny, you can’t c」→ 实为 ch18
+  ⚠️  00_金句精选.md:72  「Of course. Everyone knows me. I am the greatest chess pl」→ 实为 ch20
+  ⚠️  00_金句精选.md:72  「I am also a great fuck.」→ 实为 ch20
+  ⚠️  00_金句精选.md:80  「I don’t want to make a lot of money,」→ 实为 ch20
+  ⚠️  00_金句精选.md:80  「I want this boat to sink. Why couldn’t this be the Titan」→ 实为 ch20
+  ⚠️  00_金句精选.md:96  「A step van, twenty feet long, seven feet wide, six feet 」→ 实为 ch33
+  ⚠️  ch17 two men board the train.md:56  「Her face was covered with a mudpack, and her hair was tu」→ 实为 ch16
+
+===== 14. 自建 itc_strict（逐字/字形/词形/占位） =====
+if-tomorrow-comes 交付自检（只读脚本；子代理**禁止修改**本文件）
+
+===== 15. 自建 itc_scan（专名/计数/最高级/相对指涉/草稿泄漏） =====
+
+============================================================
+全书扫描：阻断 0 ｜ 提示 0 ｜ 待判条目 33
+
+===== 16. 自建 itc_adj（邻接·顺序断言） =====
+==============================================================
+邻接/顺序断言：待判 0 条
+----- 13b. sweep_analysis_inline 汇总 -----
+（⚠️ 项为跨章引用：00_三篇按全书核、ch17 引 ch16 属合法跨章，均属【提示型】只记不改）
+
+----- 14b. itc_strict 全书汇总 -----
+  [提示] 本章导航无「人物弧线」行（参考章 ch01 用「情感弧线位置」替代）
+
+==================================================================
+【阻断 0】必须改 ｜【提示 34】只记不改 ｜【待判组 6】交主会话裁决
+----- 13c. sweep_analysis_inline 首行汇总 -----
+3:  落点 #14 表格单元格：1192 个表格行、952 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1107 ｜ ⚠️ 跨章 24 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 19
+
+===== 17. 总览层英文逐字（自建 ov_verify.py，双源：text/ 全体 + epub 解包） =====
+总览层英文串：逐字命中 90 ｜ ❌ 查无 0
+
+================================================================
+门禁结论三档分类（AGENTS 第 3 条：不分类就照单全改会改坏正当内容）
+================================================================
+【阻断型】0 条 —— 无须改动内容。
+
+【提示型】只记不改，共 4 类：
+  1. check_vocab WARN 49 条：基础/高级档分档提示（疑含超纲词 / 高级档混入常用词）。
+     例句本身全部逐字命中 text/，分档口径是词表覆盖问题，不动。
+  2. itc_strict 提示 34 条：每章一条「导航无『人物弧线』行（参考章 ch01 用『情感弧线位置』替代）」。
+     这是用户在开工前拍板的精简格式决策本身，不是缺陷。
+  3. sweep_analysis_inline ⚠️ 跨章 24 条：00_三篇按全书核属正常；ch17 引 ch16 的 Ellen Branch 是合法跨章引用。
+  4. itc_strict / itc_scan 待判 39 条：逐条人工裁决后全部为量词习语
+     （一个人／两个人／一张行军床／一张照片）或源文可数（ch01 `And can't`=2 词、
+     讽刺=2 字、全章唯一医学信息；ch10 Romano/Pope/Lawrence/Orsatti 四人名 grep 命中；
+     ch20 本章开头 forty-seventh-floor、本章结尾 checked out…no forwarding address；
+     ch21 两个分句以 but 相连；ch32 `he said lightly`=3 词；ch33 `generous` 一个词／
+     duet 两个声部／twelfth birthday）。
+
+【假红型】先修工具，本轮 3 处：
+  1. verify_overview_quotes 对 00_三篇报 0/0（0%）—— 它不识别 `## ① "…"` 格式。
+     ⇒ 自建 /tmp/itc_gate/ov_verify.py 补位：≥4 词英文串对 text/ 全体 flat + epub 解包双源核验，
+     结果 逐字命中 90 ｜ ❌ 查无 0。
+  2. itc_scan.py 的专名口径自称「全书」但实为本章 src（跨章合法引用整类假红，如 Ellen Branch）——
+     已修工具（_BOOK_FLAT），未动 md。
+  3. /tmp/itc_adj.py 整行判方向导致「前面刚写完 X，紧接着落一句 Y」5 条假红 ——
+     已修工具（只看片段紧前 28 字符），未动 md。
+
+================================================================
+本轮自查抓到并已修的真实缺陷（4 处，均在 md 侧）
+================================================================
+  1. ch01「It was time. 只有两个词，是本章最短的一句」—— 计数错（实为 3 词）＋ 最高级错
+     （全章最短是原句 5 里的孤词 `No.`）。
+  2. ch10 一处邻接·顺序断言说反：把前一场戏（src pos 10517）的「你也要出去吗／I'm going to be
+     here for a long while」说成紧接在引语之后 —— 引语逐字过、门禁全绿，是 itc_adj 才看得见的类。
+  3. ch20「in effect 三个字」—— 实为 2 个词。
+  4. ch33 一句话总结「随后上楼说自己是吓坏了」—— 原文无上楼；「I—I was so scared」出自警察问话，
+     证词在证人席崩溃。同块「幻觉四个越来越短的片段」也不成立（第二声比第一声长）。
