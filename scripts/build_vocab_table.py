@@ -21,10 +21,18 @@ from pathlib import Path
 
 
 def load_chapter(book_dir: str, ch: str) -> str:
-    hits = sorted(Path(book_dir, "text").glob(f"ch{ch}_*.txt"))
-    if len(hits) != 1:
-        sys.exit(f"expected exactly one text/ch{ch}_*.txt, got {len(hits)}")
-    return strip_running_head(hits[0].read_text(encoding="utf-8"))
+    # ⚠️ 位数不能写死：`--ch 1` 配 `f"ch{ch}_*.txt"` 会找 `ch1_*.txt`，
+    # 而磁盘上是 `ch01_*.txt` ⇒ 命中 0 件、静默 SystemExit（本库同型第 4 次：
+    # check_chapter_quotes / gen_overview / 自写脚本都栽过）。
+    # 做法：依次试 1/2/3/4 位，取第一个命中的；一个都没命中才报错。
+    tdir = Path(book_dir, "text")
+    for width in (1, 2, 3, 4):
+        tag = str(int(ch)).zfill(width)
+        hits = sorted(tdir.glob(f"ch{tag}_*.txt"))
+        if len(hits) == 1:
+            return strip_running_head(hits[0].read_text(encoding="utf-8"))
+    sys.exit(f"expected exactly one text/ch<NN>_*.txt for ch{ch} (tried 1-4 digit tags), "
+             f"got 0 in {tdir}")
 
 
 def strip_running_head(text: str) -> str:
@@ -103,6 +111,27 @@ def strip_running_head(text: str) -> str:
             break
         j, cand = rest[0]
         words = cand.split()
+        # 归属行（"From the LiveJournal of …: March 26th, 2022" /
+        # "Extract from Class of '92, by Kate Hemsworth …"）：**必须先于标点守卫判**——
+        # 这类行含 `:` 与 `,`，会被下面的 `re.search(r"[.?!:;,]")` 否掉，于是
+        # `sentences()` 折行时把它粘到正文首句前面（2026-09-30 Broken Light 实测：
+        # 全库 10951 件里 28 件、13 本书命中，例句变成
+        # "From the LiveJournal of … : March 26th, 2022 The first seven years…"）。
+        #
+        # ⚠️ **必须同时要求整行无句末标点**（2026-09-30 同日实测的过度修正）：
+        # 头一版只判 `^From` 就把**以 From 开头的真散文**也剥了，回归扫到 11 处
+        # （"From infancy to death, we're surrounded…" / "From the longhouse they
+        # ride out…" / "From what we can see through the windows…"…）——而这些句子
+        # 本来就以 `.` 收尾，`sentences()` 切得开，**根本不产生污染**。
+        # 判据应当是「这行会不会被粘走」，不是「它像不像归属行」：
+        # 粘连只发生在**没有句末标点**的行上。
+        is_attr = bool(re.match(r"^(From|Extract from|Reprinted from|Adapted from|"
+                                r"Translated from)\b", cand)) \
+            and not re.search(r"[.!?]", cand)
+        if is_attr:
+            cut = j + 1
+            rest = [(i, l) for i, l in rest if i > j]
+            continue
         if re.search(r"[.?!:;,]", cand) or not (1 <= len(words) <= 4):
             break
         cap = [w for w in words if w.casefold() not in FUNC]
