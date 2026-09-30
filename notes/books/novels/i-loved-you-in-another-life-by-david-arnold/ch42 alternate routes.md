@@ -109,7 +109,7 @@ modified: "2026-09-30"
 
 > **原句 8:** She watched the unfamiliar roads the rest of the way home, passing trees in the night.
 
-**中文理解**： 余下的路程她一直在看着那些不熟悉的路，车灯从夜色中的树旁掠过。
+**中文理解**： 余下的路程她一直在看着那些不熟悉的路，从夜色中的树旁掠过。
 
 **关键词**： unfamiliar roads（不熟悉的路）；the rest of the way home（回家的余下路程）；passing trees in the night（在夜里掠过树）
 

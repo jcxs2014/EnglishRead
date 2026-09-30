@@ -109,7 +109,7 @@ modified: "2026-09-30"
 
 > **原句 8:** “Goodbyes are a gift, Evan. Don’t ever be sad you get a good-bye.” She tilts her head, her lips so close to my ear now I can feel each exhale. “Anyway, meeting in time to say goodbye means we met in time to say hello.”
 
-**中文理解**： 「告别是礼物，Evan。别为你得到过一句告别而难过。」她歪了歪头，嘴唇离我的耳朵近到我能感觉到每一次呼气。「总之，能来得及告别，就意味着我们能来得及说再见。」
+**中文理解**： 「告别是礼物，Evan。别为你得到过一句告别而难过。」她歪了歪头，嘴唇离我的耳朵近到我能感觉到每一次呼气。「总之，能来得及说再见，就意味着我们来得及打招呼。」
 
 **关键词**： Goodbyes are a gift（告别是礼物）；each exhale（每一次呼气）；meeting in time（来得及）
 

@@ -61,7 +61,7 @@ modified: "2026-09-30"
 
 > **原句 4:** “Ali Pilgrim, I don’t know what a Hoya is, but I humbly submit this alpine currant as a Thing That Might Be a Hoya.”
 
-**中文理解**： 「Ali Pilgrim，我不知道石松是什么，但我谨 submits 这株高山红醋栗，作为一个可能算是石松的东西。」
+**中文理解**： 「Ali Pilgrim，我不知道石松是什么，但我谨提交这株高山红醋栗，作为一个可能算是石松的东西。」
 
 **关键词**： I humbly submit（我谨提交，法律用语）；alpine currant（高山红醋栗）；a Thing That Might Be（一个也许是……的东西）
 

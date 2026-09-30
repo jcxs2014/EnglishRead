@@ -73,7 +73,7 @@ modified: "2026-09-30"
 
 > **原句 5:** Shosh tells me she’s “arranged a car” for our ride to the Discount, and that I should be in front of my house at six p.m. I tell her I can drive, but she won’t hear of it, and sure enough, right at six, a car pulls in the driveway, and Shosh climbs out of the back.
 
-**中文理解**： Shosh 告诉我她为去 Discount「安排了一辆车」，让我六点站在家门口。我说我可以自己开，她听不进去；果然，六点整，一辆黑色轿车开进车道，Shosh 从后座爬了出来。
+**中文理解**： Shosh 告诉我她为去 Discount「安排了一辆车」，让我六点站在家门口。我说我可以自己开，她听不进去；果然，六点整，一辆 a car 开进车道，Shosh 从后座爬了出来（原文只说 a car，没说车型与颜色）。
 
 **关键词**： “arranged a car”（安排了一辆车）；she won’t hear of it（她听不进去）；climbs out of the back（从后座爬出来）
 
