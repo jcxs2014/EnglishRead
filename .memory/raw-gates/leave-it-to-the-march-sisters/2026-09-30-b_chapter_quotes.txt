@@ -1,0 +1,45 @@
+# Leave It to the March Sisters · 原始门禁输出（2026-09-30 独立审查）
+
+## b 步：逐章归属（40 章逐一）
+```
+ch01 chapter one.md: 9/9 in ch01 text（另有 2 条短引语未校验）
+ch02 chapter two.md: 20/20 in ch02 text
+ch03 chapter three.md: 24/24 in ch03 text（另有 2 条短引语未校验）
+ch04 chapter four.md: 26/26 in ch04 text（另有 1 条短引语未校验）
+ch05 chapter five.md: 22/22 in ch05 text
+ch06 chapter six.md: 14/14 in ch06 text
+ch07 chapter seven.md: 14/14 in ch07 text
+ch08 chapter eight.md: 14/14 in ch08 text
+ch09 chapter nine.md: 14/14 in ch09 text
+ch10 chapter ten.md: 14/14 in ch10 text
+ch11 chapter eleven.md: 14/14 in ch11 text
+ch12 chapter twelve.md: 14/14 in ch12 text
+ch13 chapter thirteen.md: 14/14 in ch13 text
+ch14 chapter fourteen.md: 14/14 in ch14 text
+ch15 chapter fifteen.md: 14/14 in ch15 text
+ch16 chapter sixteen.md: 14/14 in ch16 text
+ch17 chapter seventeen.md: 14/14 in ch17 text
+ch18 chapter eighteen.md: 14/14 in ch18 text
+ch19 chapter nineteen.md: 14/14 in ch19 text
+ch20 chapter twenty.md: 14/14 in ch20 text
+ch21 chapter twenty-one.md: 14/14 in ch21 text
+ch22 chapter twenty-two.md: 14/14 in ch22 text
+ch23 chapter twenty-three.md: 14/14 in ch23 text
+ch24 chapter twenty-four.md: 14/14 in ch24 text
+ch25 chapter twenty-five.md: 14/14 in ch25 text
+ch26 chapter twenty-six.md: 14/14 in ch26 text
+ch27 chapter twenty-seven.md: 14/14 in ch27 text
+ch28 chapter twenty-eight.md: 14/14 in ch28 text
+ch29 chapter twenty-nine.md: 14/14 in ch29 text
+ch30 chapter thirty.md: 14/14 in ch30 text
+ch31 chapter thirty-one.md: 14/14 in ch31 text
+ch32 chapter thirty-two.md: 14/14 in ch32 text
+ch33 chapter thirty-three.md: 14/14 in ch33 text
+ch34 chapter thirty-four.md: 14/14 in ch34 text
+ch35 chapter thirty-five.md: 14/14 in ch35 text
+ch36 chapter thirty-six.md: 13/13 in ch36 text（另有 1 条短引语未校验）
+ch37 chapter thirty-seven.md: 14/14 in ch37 text
+ch38 chapter thirty-eight.md: 14/14 in ch38 text
+ch39 chapter thirty-nine.md: 14/14 in ch39 text（另有 1 条短引语未校验）
+ch40 chapter forty.md: 13/13 in ch40 text
+```

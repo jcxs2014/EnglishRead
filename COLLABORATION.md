@@ -73,7 +73,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - **整改后复验**：gate.sh 15 项退出码 0，关键词逐块自查 247 块越界 0
 - **commit**：12 次，**本地领先 origin/main，未 push**（等指令）
 - ⚠️ **同会话审查已知盲区**：说话人未逐块穷举（抽查级脚本 + 5 条高风险窗口核验，该脚本约 1/3 假阳）｜词汇 1825 词条未纳入语义二审｜`check_overview_full` 只验「逐字命中章 == 标注章」，对说话人/关系/结局零覆盖（**标签对 ≠ 内容对**）｜跨章引用仅在有英文证据的子集上机械取证
-- 原始门禁输出（370 行，含 a/b/c/d/e 全部逐行）：`.memory/raw-gates/leave-it-to-the-march-sisters-by-annie-sereno/2026-09-30-五步审查.txt`；明细见工作日志本书专节
+- 原始门禁输出按步骤分四份（`a_review_gates` / `b_chapter_quotes` / `d_review_gates` / `e_overview_gates`），见 `.memory/raw-gates/leave-it-to-the-march-sisters/`；明细见工作日志本书专节
 
 ### [2026-09-30 13:30 UTC] [Commandcode-Mac] → All
 

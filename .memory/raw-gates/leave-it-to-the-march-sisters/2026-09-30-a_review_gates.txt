@@ -1,0 +1,125 @@
+# Leave It to the March Sisters · 原始门禁输出（2026-09-30 独立审查）
+
+## a 步：第 3 条门禁全量重跑
+```
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub）===
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 578/578 引文可核实（100%）；完全干净文件 41/41；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 1825
+--- FAIL (0) ---
+--- WARN (85) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 565 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 4 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 33 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 chapter one.md                            ch01 chapter one.md: 9/9 in ch01 text（另有 2 条短引语未校验）
+ch02 chapter two.md                            ch02 chapter two.md: 20/20 in ch02 text
+ch03 chapter three.md                          ch03 chapter three.md: 24/24 in ch03 text（另有 2 条短引语未校验）
+ch04 chapter four.md                           ch04 chapter four.md: 26/26 in ch04 text（另有 1 条短引语未校验）
+ch05 chapter five.md                           ch05 chapter five.md: 22/22 in ch05 text
+ch06 chapter six.md                            ch06 chapter six.md: 14/14 in ch06 text
+ch07 chapter seven.md                          ch07 chapter seven.md: 14/14 in ch07 text
+ch08 chapter eight.md                          ch08 chapter eight.md: 14/14 in ch08 text
+ch09 chapter nine.md                           ch09 chapter nine.md: 14/14 in ch09 text
+ch10 chapter ten.md                            ch10 chapter ten.md: 14/14 in ch10 text
+ch11 chapter eleven.md                         ch11 chapter eleven.md: 14/14 in ch11 text
+ch12 chapter twelve.md                         ch12 chapter twelve.md: 14/14 in ch12 text
+ch13 chapter thirteen.md                       ch13 chapter thirteen.md: 14/14 in ch13 text
+ch14 chapter fourteen.md                       ch14 chapter fourteen.md: 14/14 in ch14 text
+ch15 chapter fifteen.md                        ch15 chapter fifteen.md: 14/14 in ch15 text
+ch16 chapter sixteen.md                        ch16 chapter sixteen.md: 14/14 in ch16 text
+ch17 chapter seventeen.md                      ch17 chapter seventeen.md: 14/14 in ch17 text
+ch18 chapter eighteen.md                       ch18 chapter eighteen.md: 14/14 in ch18 text
+ch19 chapter nineteen.md                       ch19 chapter nineteen.md: 14/14 in ch19 text
+ch20 chapter twenty.md                         ch20 chapter twenty.md: 14/14 in ch20 text
+ch21 chapter twenty-one.md                     ch21 chapter twenty-one.md: 14/14 in ch21 text
+ch22 chapter twenty-two.md                     ch22 chapter twenty-two.md: 14/14 in ch22 text
+ch23 chapter twenty-three.md                   ch23 chapter twenty-three.md: 14/14 in ch23 text
+ch24 chapter twenty-four.md                    ch24 chapter twenty-four.md: 14/14 in ch24 text
+ch25 chapter twenty-five.md                    ch25 chapter twenty-five.md: 14/14 in ch25 text
+ch26 chapter twenty-six.md                     ch26 chapter twenty-six.md: 14/14 in ch26 text
+ch27 chapter twenty-seven.md                   ch27 chapter twenty-seven.md: 14/14 in ch27 text
+ch28 chapter twenty-eight.md                   ch28 chapter twenty-eight.md: 14/14 in ch28 text
+ch29 chapter twenty-nine.md                    ch29 chapter twenty-nine.md: 14/14 in ch29 text
+ch30 chapter thirty.md                         ch30 chapter thirty.md: 14/14 in ch30 text
+ch31 chapter thirty-one.md                     ch31 chapter thirty-one.md: 14/14 in ch31 text
+ch32 chapter thirty-two.md                     ch32 chapter thirty-two.md: 14/14 in ch32 text
+ch33 chapter thirty-three.md                   ch33 chapter thirty-three.md: 14/14 in ch33 text
+ch34 chapter thirty-four.md                    ch34 chapter thirty-four.md: 14/14 in ch34 text
+ch35 chapter thirty-five.md                    ch35 chapter thirty-five.md: 14/14 in ch35 text
+ch36 chapter thirty-six.md                     ch36 chapter thirty-six.md: 13/13 in ch36 text（另有 1 条短引语未校验）
+ch37 chapter thirty-seven.md                   ch37 chapter thirty-seven.md: 14/14 in ch37 text
+ch38 chapter thirty-eight.md                   ch38 chapter thirty-eight.md: 14/14 in ch38 text
+ch39 chapter thirty-nine.md                    ch39 chapter thirty-nine.md: 14/14 in ch39 text（另有 1 条短引语未校验）
+ch40 chapter forty.md                          ch40 chapter forty.md: 13/13 in ch40 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+⚠️ ch02 chapter two.md: md 块 20 / 工具抽到 20
+⚠️ ch03 chapter three.md: md 块 26 / 工具抽到 26
+⚠️ ch04 chapter four.md: md 块 27 / 工具抽到 27
+⚠️ ch05 chapter five.md: md 块 22 / 工具抽到 22
+⚠️ ch06 chapter six.md: md 块 14 / 工具抽到 14
+⚠️ ch07 chapter seven.md: md 块 14 / 工具抽到 14
+⚠️ ch08 chapter eight.md: md 块 14 / 工具抽到 14
+⚠️ ch09 chapter nine.md: md 块 14 / 工具抽到 14
+⚠️ ch10 chapter ten.md: md 块 14 / 工具抽到 14
+⚠️ ch12 chapter twelve.md: md 块 14 / 工具抽到 14
+⚠️ ch13 chapter thirteen.md: md 块 14 / 工具抽到 14
+⚠️ ch14 chapter fourteen.md: md 块 14 / 工具抽到 14
+⚠️ ch16 chapter sixteen.md: md 块 14 / 工具抽到 14
+⚠️ ch17 chapter seventeen.md: md 块 14 / 工具抽到 14
+⚠️ ch18 chapter eighteen.md: md 块 14 / 工具抽到 14
+⚠️ ch20 chapter twenty.md: md 块 14 / 工具抽到 14
+⚠️ ch21 chapter twenty-one.md: md 块 14 / 工具抽到 14
+⚠️ ch23 chapter twenty-three.md: md 块 14 / 工具抽到 14
+⚠️ ch24 chapter twenty-four.md: md 块 14 / 工具抽到 14
+⚠️ ch26 chapter twenty-six.md: md 块 14 / 工具抽到 14
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（leave-it-to-the-march-sisters-by-annie-sereno）===
+  ✅ 逐字 1971 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 35
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 14
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 11/11 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 35/35 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+```
