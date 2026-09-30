@@ -17,7 +17,7 @@ modified: "2026-09-30"
 
 > **原句 1:** "It feels like a bereavement. Iris has been such an important part of my life over the past couple of months that it’s hard for me to imagine going on without her. I’ll still have my friends from the club, of course, and Salena at the shop; but Iris was the only one who ever saw the whole of me. Who accepted the darkness as well as the light."
 
-**中文理解**： 这感觉像丧亲。过去这几个月 Iris 是她生命里那么要紧的一部分，她很难想象没有对方要怎么过下去。跑团的 friends 当然还在，店里的 Salena 也在；但只有 Iris 见过完整的她——那个同时接纳黑暗与光亮的她。
+**中文理解**： 这感觉像丧亲。过去这几个月 Iris 是她生命里那么要紧的一部分，她很难想象没有对方要怎么过下去。跑团的朋友当然还在，店里的 Salena 也在；但只有 Iris 见过完整的她——那个同时接纳黑暗与光亮的她。
 
 **关键词**： It feels like a bereavement（这感觉像丧亲）· hard for me to imagine going on without her · the only one who ever saw the whole of me · accepted the darkness as well as the light
 

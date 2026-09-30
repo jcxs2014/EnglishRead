@@ -9,8 +9,8 @@ modified: "2026-09-30"
 
 - **一句话概括**：5 月 24 日，书店终于从赤字里走出来，Salena 把这一天说成奇迹；她却已经在为两周后的另一件事攒力气——跑团给她的自信，和一份不肯被「明智」两个字打发掉的计划。
 - **情感弧线位置**：上升段的中枢。外部的坏消息（Jared Noonan Philips 案）在这里被降级成背景音，她第一次把「变好」写成自己主动做的事。
-- **线索伏笔**：① Salena 上了年度致敬名单，书店开始接到各出版公司的宣传邀约。② 她说如今不用能力就能看出 Salena 的情绪与家里的紧张。③ Martin 头一回没有一口回绝去看心理治疗这件事。④ 「in just over two weeks」的倒计时，指向重聚派对那一晚。
-- **人物弧线**：她给 Salena 的回应是「I’m nothing special」，而本章结尾她写自己「I’m planning for spectacular, and sexy, and surprising」——同一个人的两句自称，中间隔着两页纸。
+- **线索伏笔**：① Salena 被《The Bookseller》列入 Indie Heroes，书店开始接到各出版公司的宣传邀约。② 她说如今不用能力就能看出 Salena 的情绪与家里的紧张。③ Martin 头一回没有一口回绝去看心理治疗这件事。④ 「in just over two weeks」的倒计时，指向重聚派对那一晚。
+- **人物弧线**：她给 Salena 的回应是「I’m nothing special」，而本章结尾她写自己「I’m planning for spectacular, and sexy, and surprising」——同一个人的两句自称，前一句把自己说小，后一句已经准备好往外放话。
 - **叙事手法**：2022 线 LiveJournal 日记体，日期行为 Tuesday, May 24th；本 Track 开篇，题词那一段与 ch64 正文里的一句一字不差地重合。全章先报账、再报人，最后才报心事。
 
 ## 精读
