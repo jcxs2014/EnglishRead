@@ -11,7 +11,7 @@ modified: "2026-09-30"
 - **叙事视角**：第三人称限知，紧贴 Paula；全章只在最后接进一通电话里的另一个人声。
 - **场景与时间**：当下的客厅，与十几年前的街上、治疗师诊室、露台高处以自由联想的方式穿插。
 - **人物弧线**：从「我已经好了」的自评，到承认自己早已学会医生会说什么、却不再去预约——她的自信与她的拖延在本章并排摆着。
-- **叙事手法**：现在完成时（present perfect）式自我诊断＋整段童年仪式清单＋结尾一句反转。
+- **叙事手法**：用现在完成时写自我诊断＋整段童年仪式清单＋结尾一句反转。
 
 ## 精读
 
@@ -27,7 +27,7 @@ modified: "2026-09-30"
 **中文理解**：姐姐把她的事告诉了父母，却坚持自己只是「传达了信息」，不算告密。
 **关键词**：Lisa snitched to their parents, ‘I conveyed information,’ I did not snitch
 **为什么这样写**：先直说告密，再用两句引号把同一个行为改名；convey 这个词的正式感与 snitch 的口语感形成落差，笑话因此出现在措辞而不是事件上。
-**读者视角提示**：姐姐在这章里始终是替妹妹遮掩的那一方——本章后段会交代，她其实是唯一一个当场说出「你不会那么做」的人。
+**读者视角提示**：姐姐在这章里始终是替妹妹遮掩的那一方——本章后段会交代，当场说出「你不会那么做」这句话的是她。
 
 > **原句 3:** Prior to then, there had been various therapists over the years, none of whom helped much, probably because they never got the full story. Paula excelled at secrecy.
 
@@ -39,7 +39,7 @@ modified: "2026-09-30"
 > **原句 4:** He said, ‘Yes, it’s true, Paula, you could run those people over.’
 
 **中文理解**：治疗师不给她台阶，直接承认她当年怕的事是真的：她确实可能撞死那些人。
-**关键词**：Dr Donnelly was not a fan of reassurance, Unlike her sister, he promised her nothing, ‘Yes, it’s true, Paula, you could run those people over.’
+**关键词**：He said, ‘Yes, it’s true, Paula, you could run those people over.’
 **为什么这样写**：引语是一句陈述加一个名字再接一个后果，三个成分一样长，不留安慰的余地；和上一段姐姐那句承诺对照，两种应对方式的效果都被写进文本里。
 **读者视角提示**：本章后面会专门交代治疗后那些不快乐的记忆——也就是说，本章最沉重的一句不是崩溃，而是一句承认。
 
@@ -105,4 +105,4 @@ modified: "2026-09-30"
 | palm | 手掌 | I just remember her in my kitchen, reading my palm. |
 | art gallery | 艺术画廊 | I own an art gallery. |
 
-## 一句话总结**：本章先用一整节把她的病写成一屋子无人知晓的仪式，再让她用「我已经会自己治了」把治疗师关在门外，最后用一通电话把整条调查线重新接通——一个叫 Cherry 的名字，是全章唯一的收获。
+## 一句话总结**：本章先用一整节把她的病写成一屋子无人知晓的仪式，再让她用「我已经会自己治了」把治疗师关在门外，最后用一通电话把整条调查线重新接通——整条线最后落在一个叫 Cherry 的名字上。

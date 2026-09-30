@@ -47,7 +47,7 @@ modified: "2026-09-30"
 **中文理解**：Ned Lockwood——最让人抓狂、最没耐心、最聪明、最有趣、最好奇、最激烈的男人。
 **关键词**：Ned Lockwood, exasperating, impatient, curious, intense
 **为什么这样写**：前面那整段回忆在这一句被压成一个词串，形容词一个解释也没有，全靠前面的细节给它们充电；句首重复姓名，等于给这份名单盖章。
-**读者视角提示**：六个词里有三个说的是同一件事：不能等——这正好是后文那场门诊的关键。
+**读者视角提示**：六个词里有几个说的是同一件事：不能等——这正好是后文那场门诊的关键。
 
 > **原句 6:** "On our first wedding anniversary he gave me a beautiful gold brooch inscribed with the Kronecker delta symbol. I’ve worn it every single day since."
 

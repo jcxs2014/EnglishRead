@@ -10,7 +10,7 @@ modified: "2026-09-30"
 - **一句话概括**：回忆一位常来算命的女客人——总把订婚戒指转到能接光的位置，婚礼一年后在商店里判若两人，三年后死于一场 house fire；母亲的回答是「我不能让人做任何事」。
 - **叙事视角**：Cherry 第一人称回忆，写的是她从小在母亲的生意里当「客人身边的孩子」。
 - **场景与时间**：先是母亲的客厅，再是一次教堂婚礼、一年后的商店重逢、三年后的结局。
-- **人物弧线**：Cherry 从被婚礼感染的旁观者变成把结局记了一辈子的讲述者；女客人则从 glowing with anticipation 走到 drab。
+- **人物弧线**：Cherry 从被婚礼感染的旁观者变成把结局记了一辈子的讲述者；女客人则从 glowed with anticipation 走到 drab。
 - **叙事手法**：细节对照（angling 出来的左手 vs 合身与否的开衫）＋ 留白（只写 heard a lot of talk I wasn’t meant to hear）＋ 承认看不见。
 
 ## 精读
@@ -20,21 +20,21 @@ modified: "2026-09-30"
 **中文理解**：她是个甜甜的、穿得漂亮的年轻女人，总把左手摆到能接住光的角度，好让订婚钻戒闪一下；每隔几个月来算一次牌，总是很早到，跟我说话时把我当大人，而不是别扭的小孩。
 **关键词**：angling her left hand, caught the light, cards read, like I was a grown-up, not an awkward child
 **为什么这样写**：angling（调整角度）与 caught the light（接住光）连着写，把「她想让戒指被看见」写成连续动作而不是心理描写；后面那句 not an awkward child 顺手交代了叙述者在整段里的位置——她是背景，不被咨询。
-**读者视角提示**：angling 这个动作是主动的、有目的的。三年后遇到同一个人时，这个动作会从她身上彻底消失。
+**读者视角提示**：angling 这个动作是主动的、有目的的。一年后她在商店再遇到这个人时，这个动作已经从她身上消失了。
 
 > **原句 2:** "The woman stopped coming for regular readings after that, and I must admit I forgot about her existence, until one day, maybe a year later, I saw her at the shops. I nearly didn’t recognise her. She looked completely different: drab, slumped shoulders, a cardigan that didn’t fit or flatter her. She smiled and waved but didn’t want to talk. I thought, Is that what happens when you can’t work?"
 
 **中文理解**：婚礼之后她就不来了，我得承认我把她忘了——直到一年后左右在商店碰见，我差点没认出她。她完全变了样：灰败，肩膀塌着，开衫既不称身也不衬人。
 **关键词**：forgot about her existence, I nearly didn’t recognise her, drab, didn’t fit or flatter her
-**为什么这样写**：叙述者先交出自己的失职（forgot about her existence），让后面的转折不带任何自我辩护。变样全交给三个压缩的名词性成分，不作解释； didn’t fit or flatter her 用一个连词把「合身」和「好看」两件事一起否掉，也就是上一段 angling her left hand 所追求的东西。
+**为什么这样写**：叙述者先交出自己的失职（forgot about her existence），让后面的转折不带任何自我辩护。变样全交给一串压缩的名词性成分，不作解释； didn’t fit or flatter her 用一个连词把「合身」和「好看」两件事一起否掉，也就是上一段 angling her left hand 所追求的东西。
 **读者视角提示**：戒指是别人送的、开衫是自己穿的——两件衣服的差别，正好是她这一年的账。
 
 > **原句 3:** "She said, ‘I can’t make anyone do anything, Cherry, and I don’t always get it right.’"
 
-**中文理解**：她停下脚步朝我喊：「Cherry！跟大家讲讲你妈妈是做什么的！」——这句话背后是一场没人真的会相信的热闹，而我只能站在那里点头。
-**关键词**：She stopped, turned and called out, and everyone wanted to hear it
-**为什么这样写**：全句用两个逗号把三个动作串成一条直线（停下、转身、喊），节奏完全跟着被点名的人走；everyone wanted to hear it 是叙述者的概括，落点在「都」，而不在母亲。整句没有出现任何人对这件事的真实反应。
-**读者视角提示**：这是母亲记忆里最响的一次亮相，也是最没有内容的一次——热闹属于听众，事实属于账本。
+**中文理解**：我后来问过母亲：有没有劝过她别嫁，是不是看到了后面这些。母亲的回答是：我没法让任何人做任何事，而且我也不是每次都看得准。
+**关键词**：I can’t make anyone do anything, I don’t always get it right
+**为什么这样写**：前半句否的是能力（不能左右任何人），后半句缩的是准确率（不是次次都对）——这种自我设限，等于这位算命师自己拆掉了这一行的可靠性。句末点名 Cherry，把这段旧事按回母女关系里。
+**读者视角提示**：always 一词是重点：这位算命师对自己没能做到的事是记得的，不是推掉的。
 
 > **原句 4:** "I don’t think anyone at that beautiful wedding could have seen it."
 

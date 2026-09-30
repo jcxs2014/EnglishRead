@@ -73,9 +73,10 @@ modified: "2026-09-30"
 |---|---|---|
 | enormous weight | 巨大的重担 | An enormous weight I didn’t know I was carrying lifted from my shoulders. |
 | entire body | 整个身体 | The most extraordinary sensation of relief suffused my entire body. |
-| particular version | 某个特定版本 | Everyone loves a particular version of you and when that person is gone that version goes with them. |
 | breakfast buffet | 自助早餐 | Perhaps at the breakfast buffet. |
-| different version | 另一个版本 | Mum was interested too, but Mum loved a different version of me. |
+| particular version | 某个特定版本 | Everyone loves a particular version of you and when that person is gone that version goes with them. |
+| big avocado | 大牛油果（澳洲「大地标」之一） | We now boast a big beer can, a big ram, a big guitar, a big apple, a big avocado and many more ‘big things’. |
+| big ram | 大公羊（澳洲「大地标」之一） | We now boast a big beer can, a big ram, a big guitar, a big apple, a big avocado and many more ‘big things’. |
 | big apple | 大苹果（澳洲「大地标」之一） | We now boast a big beer can, a big ram, a big guitar, a big apple, a big avocado and many more ‘big things’. |
 
 ## 一句话总结**：这一章用「你也这样吧」把读者的直觉接过来，再让一连串家庭旧事把这份直觉一点点耗空，最后只剩一句没法兑现的抱怨。

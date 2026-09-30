@@ -17,7 +17,7 @@ modified: "2026-09-30"
 
 > **原句 1:** "Hi Ethan, it’s Leo here, from the Hobart flight. We shared a taxi home. I just wondered if you had seen the distressing video doing the rounds on the internet? Wondering if it’s fake?"
 
-**中文理解**：同学 Leo 发来短信：还记得机场那趟航班吗？两人一起打了车回家；他只是想知道「Ethan」有没有看过那段在网上疯传的惨烈视频，想问问是不是伪造的。
+**中文理解**：同学 Leo 发来短信做自我介绍，说他是机场那趟航班上的那位，两人还一起打了车回家；他只是想知道 Ethan 有没有看过那段在网上疯传、令人不安的视频，想问问是不是伪造的。
 **关键词**：from the Hobart flight, shared a taxi home, distressing video, Wondering if it’s fake?
 **为什么这样写**：作者先给聊天记录下了个判语——他打字像老年人，“old-person style”，句子全部带标点。这句判语既解释了标点满天飞的排版，也把一个二十来岁的人写成了老人，于是读者读短信时会带着一点笑意，而笑意正是下一段要打破的东西。
 **读者视角提示**：记住这条短信的语气。它是后面 Ethan 回信时那种轻描淡写的对照物。
@@ -57,7 +57,7 @@ modified: "2026-09-30"
 **为什么这样写**：全章结束在一个纯动作上，没有一句心理总结；练习器的用法本身是机械的、可数对的，而 Ethan 的心理此刻并不整齐——前面那句 “He hasn’t been diligent enough with his exercises.” 说明连这个他都没做够。
 **读者视角提示**：手腕还疼这件事是本章的最后一句体检报告；把这一章读完之后，下一次看见「他说自己不怕」的时候，先想起这个练习器。
 
-## ## 本章词汇
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
@@ -96,6 +96,5 @@ modified: "2026-09-30"
 | universe | 宇宙 | Ethan is not the centre of the universe. |
 | distressing video | 令人不安的视频 | I just wondered if you had seen the distressing video doing the rounds on the internet? |
 | taxi home | 打车回家 | We shared a taxi home. |
-
 
 ## 一句话总结**：这一章写的是一个人如何用一堂统计课给自己发一张「我没那么倒霉」的证明，而证明做完之后，他仍然没有真的睡着。

@@ -19,15 +19,15 @@ modified: "2026-09-30"
 
 **中文理解**：她慢慢、刻意地走过中殿。人家告诉她不要赶路，她就牢牢记下了这条指令：每隔几步就停一停、微笑，再抓一把花瓣一颗一颗撒到地上，像从指缝里漏沙。
 **关键词**：walks slowly and deliberately, taken this instruction to heart, trickling sand through her fingers
-**为什么这样写**：每个动作都被拆成两拍（stops, pauses / takes … and letting them fall），把童年的仪式感写到近乎滑稽；比喻落在 trickling 而不是 scattering，于是花瓣不是撒下而是「漏」，节奏握在孩子自己手里。
+**为什么这样写**：一个动作被拆成两拍来写（stops, pauses / takes … and letting them fall），把童年的仪式感写到近乎滑稽；比喻落在 trickling 而不是 scattering，于是花瓣不是撒下而是「漏」，节奏握在孩子自己手里。
 **读者视角提示**：one by one 强调的是「一颗一颗」——本章后面还会反复出现这种逐件清点的注意力。
 
 > **原句 2:** "she thinks about Willow walking down the aisle one day in twenty years or so, on Matt’s similarly crooked arm, and in scuttles the thought, before she can stomp on it: Will there be a toast at Willow’s wedding for the bride’s little brother who so sadly, tragically drowned when he was just seven years old?"
 
 **中文理解**：笑容已经撑得脸发酸的时候，她忽然替二十年后想了一遍：Willow 会挽着和父亲一样歪的胳膊走过这条中殿。念头还没成形就被她自己踩熄——但那句没被踩熄的话已经问出来：她妹妹的小弟弟，婚礼敬酒时会有人提到吗？他七岁就溺死了。
 **关键词**：one day in twenty years or so, in scuttles the thought, so sadly, tragically drowned
-**为什么这样写**：眼前是花瓣与鼓风机一般的抒情，心里是敬酒词上的追悼，两层同时进行。用一个疑问句把最坏的可能说出口，再立刻用 scuttles / stomp on it 压回去，读者同时拿到恐惧和她的抵抗。
-**读者视角提示**：记住那个七岁。下一章的婴儿游泳课会把这个数字反过来用。
+**为什么这样写**：眼前是花瓣与鼓风机一般的抒情，心里是敬酒词上的追悼，两边同时进行。用一个疑问句把最坏的可能说出口，再立刻用 scuttles / stomp on it 压回去，读者同时拿到恐惧和她的抵抗。
+**读者视角提示**：记住那个七岁。ch41 的婴儿游泳课里，Paula 会拿这个数字反过来用。
 
 > **原句 3:** "She sees the sorrow dragged like claw-marks down the lady’s face."
 
@@ -40,7 +40,7 @@ modified: "2026-09-30"
 
 **中文理解**：出了飞机上的事她谁也没说，连昨晚才到的丈夫也没说。同座位的苏格兰人让她彻底别想，她知道自己做不到，但铁了心要把这个可怕的预言瞒住，免得给妹妹的婚礼投下阴影。
 **关键词**：She has told no-one about what happened, Not even Matt when he arrived last night
-**为什么这样写**：前两句全是短促的否定（told no-one / Not even Matt），第三句忽然变长，把「说不出口」与「为什么要瞒」两条理由并进同一个 so as not to 结构——她的选择因此不是迟钝而是牺牲。
+**为什么这样写**：开头的短句全是短促的否定（told no-one / Not even Matt），随后忽然变长，把「说不出口」与「为什么要瞒」两条理由并进同一个 so as not to 结构——她的选择因此不是迟钝而是牺牲。
 **读者视角提示**：keep the awful prediction a secret 这个承诺的寿命就是这一章：它在本章被当众破掉。
 
 > **原句 5:** "‘So you were talking to her.’ He is a lawyer too. When they argue they look for holes."
@@ -55,7 +55,7 @@ modified: "2026-09-30"
 **中文理解**：「反正没什么好担心的，」Matt 说，坏情绪已经抽走了——而他本来就擅长这个。「我们别……把这事闹大。」
 **关键词**：it’s nothing to worry about, already snapping out of his bad mood, He is good at that
 **为什么这样写**：说出口的安慰与情绪复位被作者压在同一个分句里，而 He is good at that 紧跟其后：那不是称赞，是预告这招会被反复使用。
-**读者视角提示**：make a thing of it 是这一章的转折点——Paula 的回应只有三个词。
+**读者视角提示**：make a thing of it 是这一章的转折点——Paula 的回应短到只有一句。
 
 > **原句 7:** "Just another wholesome family memory."
 

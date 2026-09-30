@@ -19,7 +19,7 @@ modified: "2026-09-30"
 
 **中文理解**：她在跑步机上喘着气，对屏幕里的教练说自己快死了。
 **关键词**：I feel like I’m dying, puffs
-**为什么这样写**：这是全书里第一次让她开口。puffs 这个词把「说」换成了「喷气」——她不是讲话，是喘。而她说的是快死了，却只是因为在跑步。
+**为什么这样写**：本段让她一开口就是喘。puffs 这个词把「说」换成了「喷气」——她不是讲话，是喘。而她说的是快死了，却只是因为在跑步。
 **读者视角提示**：这句先建立一个喜剧性的错位，下一段马上把「葡萄牙」拆掉；两层叠起来才是本章真正的开场。
 
 > **原句 2:** She is not really in Portugal at sunset, she is on a treadmill in her parents’ garage in North Ryde, Sydney, Australia, and Jay is her virtual trainer on the monitor, while a fan blows a fake sea breeze in her face. She’s on week two of a ‘Basics of Running’ series. Jay says they’re going on a ‘fitness journey’.
@@ -39,22 +39,22 @@ modified: "2026-09-30"
 > **原句 4:** First Officer Jonathan Summers seems intent on seducing her even though it’s not necessary – the job’s done, Jonny – but the excellent lattice-topped pie was just the beginning.
 
 **中文理解**：有可能——虽然还不能确定——她现在有新男友了。副驾驶 Jonathan Summers 似乎铁了心要追她，其实根本没必要——活儿早干完了，Jonny——可那块格子顶派的点心只是个开头。
-**关键词**：although certainly not confirmed, intent on seducing, it’s not necessary, the job’s done
+**关键词**：intent on seducing, it’s not necessary, the job’s done, Jonny
 **为什么这样写**：although certainly not confirmed 这个插入语把一件刚说出口的事又收回去一半；破折号之间的 the job’s done, Jonny 是全句的口语核心——用的是缩写 Jonny，不是全名。lattice-topped pie 这类词毫无必要地具体，只为让「只是个开头」有实物支撑。
-**读者视角提示**：这里第一次出现「对空中乘务员来说这活儿已经干完了」的意思。全书对这个职业的态度一直很清醒，而她正在用看综艺的心态处理自己的感情。
+**读者视角提示**：这里点出了「对空中乘务员来说这活儿已经干完了」的意思。这个职业在她心里一直很清醒，而她正在用看综艺的心态处理自己的感情。
 
 > **原句 5:** ‘Hi, Allegra. Listen, you were cabin manager on a Hobart–Sydney flight back in April where a passenger supposedly made predictions . . . about deaths of passengers, correct?’ says Trina. ‘I assume you know what I’m talking about. The media is picking up on it. We’re getting calls.’
 
 **中文理解**：舱务经理 Trina 来电，说她四月在霍巴特飞悉尼的航班上当时是乘务长，有位乘客作了一些关于乘客死亡的预言；她说这事媒体已经炒起来了，公司电话被打爆。
-**关键词**：cabin manager, a passenger supposedly made predictions, the media is picking up on it, We’re getting calls
+**关键词**：cabin manager, a passenger supposedly made predictions, The media is picking up on it, We’re getting calls
 **为什么这样写**：supposedly 这个词是全句的防线——公司在陈述时已经预留了「据说」的退路。We’re getting calls 用复数 we 把公司变成一个整体，也让读者感到这件事已经不由乘务员决定。
-**读者视角提示**：这通电话是本章的转折点，也是全书第一次从公司角度回头看那趟航班。用词的分寸值得记：谁在传说、谁在承认，两边不同。
+**读者视角提示**：这通电话是本章的转折点，也是全书里少见的、从公司这一侧回头看那趟航班的场面。用词的分寸值得记：谁在传说、谁在承认，两边不同。
 
 > **原句 6:** Something about the tone and the words ‘take your time’ reminds Allegra of a detective interviewing a suspect.
 
 **中文理解**：对方那种语气、那句「你慢慢来」，让她想起侦探在审问嫌疑人——也就是说，她刚一开口就觉得自己在被审。
 **关键词**：the tone, ‘take your time’, reminds, detective interviewing a suspect
-**为什么这样写**：整句的主语是 Something about a 短语，谓语是 reminds，Allegra 是被提醒的对象而不是原因——比喻的距离感就来自这里。取笑的是 Trina 的客套，落点却在 Allegra 自己的感觉上。
+**为什么这样写**：整句的主语是一个 Something about 开头的短语，谓语是 reminds，Allegra 是被提醒的对象而不是原因——比喻的距离感就来自这里。取笑的是 Trina 的客套，落点却在 Allegra 自己的感觉上。
 **读者视角提示**：留意前面那句你慢慢来。客套话在这里不是善意，是审讯技巧；Allegra 自己也知道，所以她一接电话就开始为自己辩解。
 
 > **原句 7:** Allegra blinks away a droplet of sweat that has run into her eye as she reads the error message on the treadmill monitor: Uh-oh, looks like your treadmill has stopped.

@@ -39,8 +39,8 @@ modified: "2026-09-30"
 > **原句 4:** "We had the same superstitions as most people we knew. We knocked on wood. If we spilled salt we threw some over our left shoulder."
 
 **中文理解**：三个人称 we 把一串民间禁忌串成清单，最后一条连验证都省了。
-**关键词**：knocked on wood, spilled salt, double-yolk egg, we never checked
-**为什么这样写**：三个条件句都以 If 开头，节奏整齐；末尾「从来不查证」既是清单的注脚，也是作者埋下的怀疑——这套仪式的效力从来没有被检验过。
+**关键词**：knocked on wood, spilled salt, over our left shoulder
+**为什么这样写**：两个条件句都以 If 开头，节奏整齐；后面紧跟着的那句「我们从来不查」把整串迷信的效力一笔勾销——作者埋下的怀疑就藏在这半句里。
 **读者视角提示**：下一段只有两句，却把整个清单的调子从玩笑改成严肃；这一转就是全章的枢纽。
 
 > **原句 5:** "But after Dad died, everything changed. All our superstitions got serious."
@@ -55,7 +55,7 @@ modified: "2026-09-30"
 **中文理解**：末句是对母亲说的半句抱怨：如果当时真给个准信，爸爸也许就不用去。
 **关键词**：A heads-up, might have been helpful
 **为什么这样写**：整章的论证收在一个只有两个成分的短语上；might have 让它停在「也许」，而「本来可以」把责任轻轻推回母亲那边，却不下定论。
-**读者视角提示**：下一章开头正是把这半句抱怨拆成两条规则来谈——「提前告知」这件事的门槛到底在哪里。
+**读者视角提示**：ch57 开头正是把这半句抱怨拆成两条规则来谈——「提前告知」这件事的门槛到底在哪里。
 
 ## 本章词汇
 

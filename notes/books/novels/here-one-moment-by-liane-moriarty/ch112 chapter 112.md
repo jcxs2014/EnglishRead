@@ -7,7 +7,7 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：Ethan 在 Harvey 葬礼后的酒吧里认识 Lila 的表妹 Faith，当场被告知 Harvey 生前本打算把他介绍给 Faith、还认定他是最稳的伴郎；一只栏杆上的海鸥让「这是巧合吗」这个问题第一次摆上桌。
+- **一句话概括**：Ethan 在 Harvey 葬礼后的酒吧里认识 Lila 的表妹 Faith，当场被告知 Harvey 生前本打算把他介绍给 Faith、还认定他是最稳的伴郎；一只栏杆上的海鸥让「这是巧合吗」这个问题摆上桌。
 - **叙事视角**：第三人称限知，POV 是 Ethan——本章所有判断（Harvey 的意图、巧合的分量）都经由他的回想展开。
 - **场景与时间**：悉尼一家酒吧，Harvey 葬礼之后的夜里，两人去取第三轮酒。
 - **人物弧线**：Faith 从「Harvey 提过的一个名字」变成同桌的活人；Ethan 从拿死人开玩笑转到怀疑死者仍在安排什么。
@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **中文理解**：Ethan 只说出两个词就被叙述者打断——This is moving fast. 是叙述者直接钻进他脑子里的一句话，把他说不出口的部分替他说了。
 **关键词**：This is moving fast, I mean –
-**为什么这样写**：引号在这里断开、叙述文字插进对话中间，这是本章唯一一次叙述者越位。这句插入同时办了两件事：把语速拉慢，又让读者知道这个人连回应都要犹豫一下。
+**为什么这样写**：引号在这里断开、叙述文字插进对话中间，叙述者就此越了一次位。这句插入同时办了两件事：把语速拉慢，又让读者知道这个人连回应都要犹豫一下。
 **读者视角提示**：破折号后面的 I mean – 之后什么也没有留下，这个未完成的转折一路拖到下一段 Lila 的回话——别把它当成 Ethan 已经把话说完。
 
 > **原句 4:** "‘Do you think that’s Harvey checking in on us?’ Faith nods at the scowling seagull on the railing."
@@ -101,4 +101,4 @@ modified: "2026-09-30"
 | faces | 脸 | Now Lila, Faith and Ethan are all laugh-sobbing, their faces crumple-wrinkled like old peaches as they rock with laughter and grief. |
 | major award | 重量级奖项 | One of her computer games just won a major award so she might be able to cut back on the pet business soon, although she enjoys it. |
 
-## 一句话总结**：本章把一个死人重新放回牌桌上——先由 Lila 交代他生前的安排，再由一只海鸥替他露面，而 Ethan 唯一能做的，是把这两件事并排放在心里，然后被一个陌生人的眼神打断。
+## 一句话总结**：本章把一个死人重新放回牌桌上——先由 Lila 交代他生前的安排，再由一只海鸥替他露面，而 Ethan 能做的，只是把这两件事并排放在心里，然后被一个陌生人的眼神打断。

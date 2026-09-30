@@ -41,7 +41,7 @@ modified: "2026-09-30"
 **中文理解**：她举的第一个例子：一个男人手里那份工程类杂志，加上「男性在职场的死亡可能性远高于女性」这条群体口径，就足以让她推出「工伤」这个死因。
 **关键词**：For example, magazine, Men are ten times more likely, workplace accident, cause of death
 **为什么这样写**：把一条命因拆成「一个可见线索 + 一个群体统计」；这一步既是她的自证，也是作者的反驳——如果一条命只需要这么多输入就推得出来，那它离真正看见未来差着整个概率模型。
-**读者视角提示**：注意她用问句收尾（Is that all it took...），自问自答的节奏在这里第一次转成对自己的质问。
+**读者视角提示**：注意她用问句收尾（Is that all it took...），自问自答的节奏在这里转成对自己的质问。
 
 > **原句 5:** "I know I watched Kayla Halfpenny at the airport and saw her knock over her drink and then her phone. Was it my observation of the sweet girl’s clumsiness together with the fact that road traffic injuries are one of the leading causes of death amongst young adults that led me to say ‘car accident’?"
 

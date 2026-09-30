@@ -9,7 +9,7 @@ modified: "2026-09-30"
 
 - **一句话概括**：Sue 站在货架前把那段视频看完，然后对着一张特价牌停了半秒，最后决定回家把检查做完。
 - **叙事视角**：第三人称限知，跟着 Sue；回忆（丈夫教开车、孩子们出门前的叮嘱）穿插在当下的动作之间。
-- **场景与时间**：与前一章那通电话之后不久的又一个下午，食品超市；这次她已经把手机举起来了。
+- **场景与时间**：与 ch56 那通电话之后不久的又一个下午，食品超市；这次她已经把手机举起来了。
 - **人物弧线**：Sue 从「求你别是真的」到「那我把自己的事做掉」；她的职业素养让她无法在别人的痛苦上停留，于是把情绪压回购物车里。
 - **叙事手法**：用促销标签与死亡并置（特价香蕉 / 手机里的死）→ 插入一连串当父母的临别叮嘱 → 以条件句收束：她答应自己的不是判断，而是行动。
 
@@ -46,8 +46,8 @@ modified: "2026-09-30"
 > **原句 5:** "She thinks of Kayla’s parents but only momentarily because she could never have worked in Emergency for all these years if she took on everyone’s pain."
 
 **中文理解**：她想到女孩的父母，却只能想一小会儿，因为她在这行多年也承受不了每个人的痛苦。
-**关键词**：only momentarily, took on everyone’s pain, There is no pain relief she can offer
-**为什么这样写**：only momentarily 是自陈的职业限制；两个被否定的短句把话说死，再由 no pain relief 把「止痛」从医疗语境挪到无处可医的语境。
+**关键词**：only momentarily, took on everyone’s pain, all these years
+**为什么这样写**：only momentarily 是自陈的职业限制：她的职业身份让这段反思只能占这么短的时间；后面那两个被否定的短句再把话说死，而 no pain relief 把「止痛」从医疗语境挪到无处可医的语境。
 **读者视角提示**：这一段是本章的骨气所在——她给不出安慰，但下一段她决定去做自己的事。
 
 > **原句 6:** "This doesn’t mean her own prediction will also come true, of course it doesn’t, but as soon as she gets home she will make the appointments. She will do the tests."

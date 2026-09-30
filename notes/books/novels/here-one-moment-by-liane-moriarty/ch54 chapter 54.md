@@ -11,7 +11,7 @@ modified: "2026-09-30"
 - **叙事视角**：第三人称限知，主要跟着 Leo；中途有一次短暂落到哥哥 Oli 身上，随即切回客厅。
 - **场景与时间**：航班之后三个月，早七月，一个周六下午，家里厨房到客厅。
 - **人物弧线**：Leo 从「切洋葱的普通父亲」到被女儿一句话钉在「她会应验吗」的恐惧上；Bridie 从不敢看视频到坚持要按播放。
-- **叙事手法**：先用三段互不相关的生活细节造出「什么都没发生」的错觉 → 用一声尖叫切断 → 结尾停在「按播放」，把动作留给下一章。
+- **叙事手法**：先用三段互不相关的生活细节造出「什么都没发生」的错觉 → 用一声尖叫切断 → 结尾停在「按播放」，把视频里是什么推到本章之外（ch58 从另一户人家的手机屏幕上重放同一段）。
 
 ## 精读
 
@@ -46,7 +46,7 @@ modified: "2026-09-30"
 > **原句 5:** "‘Nope! We don’t need to see any more proof of psychic predictions coming true,’ says Neve at the same time as Leo says, ‘Maybe show us after dinner?’"
 
 **中文理解**：父母几乎同时开口，一个拒绝，一个想推迟，两个人说的却是同一件事。
-**关键词**：Nope, no more proof, at the same time as
+**关键词**：Nope, more proof, at the same time as
 **为什么这样写**：一个 at the same time as 把两句话焊在同一时刻上，读者能同时听见两种态度；母亲那句里的 proof 已经默认了预言正在应验，父亲那句只谈时机。
 **读者视角提示**：这一段之后是父母的对视，然后才轮到女儿把手机递过去——争执没有结论，是女儿自己推进的。
 
@@ -81,13 +81,15 @@ modified: "2026-09-30"
 | chopping | 切；剁 | Leo is so badly startled he narrowly misses chopping off the top of his thumb. |
 | carrying | 搬运；提着 | Neve comes through the back door carrying a laundry basket laden with dry clothes from the clothesline. |
 | direction | 方向 | Neve dumps the laundry basket, leaps athletically over it, and also sprints in the same direction. |
+| cataclysmic injury | 灾祸级的伤 | It sounds like she has suffered a cataclysmic injury. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | laundry basket | 洗衣篮 | Neve comes through the back door carrying a laundry basket laden with dry clothes from the clothesline. |
-| cataclysmic injury | 灾祸级的伤 | It sounds like she has suffered a cataclysmic injury. |
+| dog snores | 狗在打呼（整句是拟人式写法） | The dog snores. |
+| triumphant | 凯旋的；得意扬扬的 | Oli steps out of the shower after a muddy soccer game where he scored the triumphant winning goal. |
 | muddy soccer | 踢得满身是泥的足球赛 | Oli steps out of the shower after a muddy soccer game where he scored the triumphant winning goal. |
 | mild winter | 温和的冬天 | A mild winter so far, which is nice. |
 | peaceful sunny | 平静而晴朗的 | It’s a peaceful sunny Saturday afternoon three months after the flight. |

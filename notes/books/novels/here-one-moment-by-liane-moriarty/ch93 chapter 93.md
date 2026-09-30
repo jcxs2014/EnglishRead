@@ -59,10 +59,10 @@ modified: "2026-09-30"
 
 > **原句 7:** It was Auntie Pat telling me Mum was unwell and had been refusing to go to the doctor for months now.
 
-**中文理解**：她一个人站在阳台上看他走远，心疼他的同时冒出一个念头：他从来没问过她想要什么，因为她的想法从来不算数。
-**关键词**：a red towel over his shoulder, my heart broke for him, my feelings were never especially relevant
-**为什么这样写**：前两个分句全是外部动作（红毛巾、垂着头），最后一句突然转成自我评估；especially 这个副词把「无所谓」写成了「不算重要」，否定比正说更冷。
-**读者视角提示**：本章就在这个念头之后结束——电话响，她转身回屋，把这半句自我评价留在身后没有说完。
+**中文理解**：电话是姨妈打来的，通知她母亲已经病了几个月，却一直拒绝去看医生。
+**关键词**：It was Auntie Pat telling me Mum was unwell, had been refusing to go to the doctor for months now
+**为什么这样写**：It was 开头只交代消息来源，生病的部分放在后面才说；时间状语 months now 压在句末，把「已经拖了多久」放到整句的重心位置。
+**读者视角提示**：本章停在这通电话上，没有写她当天做了什么，也没有写母亲为什么会认定自己将死——那个理由要到后面几章才被说出口。
 
 ## 本章词汇
 

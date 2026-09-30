@@ -60,7 +60,7 @@ modified: "2026-09-30"
 > **原句 7:** Ethan puts in his AirPods, turns up his music loud enough to give him permanent hearing damage and waits for the snooty neighbour in the opposite apartment to do it first.
 
 **中文理解**：他不报警，也不开门，而是戴上耳机把音量拧到会伤耳朵的程度，然后等隔壁那个势利邻居先去报警。
-**关键词**：puts in his AirPods, permanent hearing damage, waits for the snooty neighbour … to do it first
+**关键词**：puts in his AirPods, permanent hearing damage, waits for the snooty neighbour in the opposite apartment to do it first
 **为什么这样写**：整句由三个动作串成，全部是回避：塞耳、放大、等别人代办；最后那个 to do it first 把责任也一并推了出去。
 **读者视角提示**：本章到此结束——前面那句「有人在敲门」被处理成一个关于房租与邻居的问题，死线那头的世界照旧往前走。
 

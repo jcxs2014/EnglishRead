@@ -48,7 +48,7 @@ modified: "2026-09-30"
 **中文理解**：骂完人她自己先怯了——这样咒骂在外公看来要不得，公公大概会在坟里翻身。
 **关键词**：Isn’t that dreadful? The swearing, I mean, rolling in his grave
 **为什么这样写**：上一段是全章最凶的一句，紧接着这一段立刻自我降温，语气从喊叫换成自嘲。The swearing, I mean 这个插入语替读者把笑点说破，作者却不让它停在笑话上——rolling in his grave 把家族和死亡重新接回话题。
-**读者视角提示**：这个自嘲不是插科打诨的调味，它是她第一次对自己的失态做出判断；后面她说自己为这句脏话感到羞耻，语气与这里完全一致。
+**读者视角提示**：这个自嘲不是插科打诨的调味，而是她对自己的失态做出的判断；后面她说自己为这句脏话感到羞耻，语气与这里完全一致。
 
 > **原句 6:** "I went into the grocery store and filled my basket, but then, when I was at the check-out, I realised I had bought pistachios. I do not like pistachios. I only ever bought them for Ned."
 

@@ -7,7 +7,7 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：预测者本人用三句清点自己预言的后果——身份暴露之后同时收到 hate mail 与感谢卡，而她不知道该作何感想。
+- **一句话概括**：预测者本人用寥寥几行清点自己预言的后果——身份暴露之后同时收到 hate mail 与感谢卡，而她不知道该作何感想。
 - **叙事视角**：第一人称「我」，即做出那些预言的人；本章没有点出「我」是谁。
 - **场景与时间**：身份被外界知道之后；没有地点标记。
 - **人物弧线**：不写弧线，只列出三种反应的存在：恶意、真诚感谢，以及面对真诚时的茫然。
@@ -20,7 +20,7 @@ modified: "2026-09-30"
 **中文理解**：我那些预言的后果，并不一定是负面的。
 **关键词**：The consequences of my predictions, not necessarily negative
 **为什么这样写**：not necessarily 是本章的关键否定：它不说「其实不是坏事」，只说「不一定」。整句用近似公告的语气给出一个偏乐观的暗示，随即被自己削掉一截。
-**读者视角提示**：本章三句都很短，情绪全靠否定词和副词的位置；下一句的 both 会把这条被削过的线重新拉开。
+**读者视角提示**：本章每句都很短，情绪全靠否定词和副词的位置；下一句的 both 会把这条被削过的线重新拉开。
 
 > **原句 2:** "After my identity became known, I received both ‘hate mail’ and heartfelt thank you cards."
 
@@ -62,4 +62,4 @@ modified: "2026-09-30"
 | identity became | 身份变得 | After my identity became known, I received both ‘hate mail’ and heartfelt thank you cards. |
 | cards | 卡片 | After my identity became known, I received both ‘hate mail’ and heartfelt thank you cards. |
 
-## 一句话总结**：三句话里最诚实的是最后一句：她把两种反应都摆出来，然后承认自己处理不了被感谢这件事。
+## 一句话总结**：她把两种反应都摆出来，然后在最后承认自己处理不了被感谢这件事——这一章停在这里。

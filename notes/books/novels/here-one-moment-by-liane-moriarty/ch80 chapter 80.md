@@ -19,7 +19,7 @@ modified: "2026-09-30"
 
 **中文理解**：Paula 有点发抖，抬头看着大教堂塔尖，说她也想过那位会不会今天出现；她说众所周知，凶手总会躲在被害人的葬礼后面——或者至少电视里是这么演，她不知道现实里是不是这样。
 **关键词**：breathes a little shakily, the spires, turn up today, lurk, funerals of their victims
-**为什么这样写**：前半句全是她自己的身体和视线，后半句用一个很长的从句套从句把比喻展开。or they do on television, I don’t know if they really do in real life 这个自我修正，让比喻一边成立一边漏水。
+**为什么这样写**：前半句全是她自己的身体和视线，后半句用一个很长的从句套从句把比喻展开。Or they do on television, I don’t know if they really do in real life 这个自我修正，让比喻一边成立一边漏水。
 **读者视角提示**：这里把「找凶手」和「找预言者」直接画等号。两个素不相识的人能这么快对上话，靠的就是这个不合逻辑却完全成立的类比。
 
 > **原句 2:** ‘Me too,’ says Eve. ‘I’m going to pay her to give me a different prediction. I’m hoping she will do it for a hundred dollars, do you reckon that’s enough?’ It better be enough.
@@ -34,20 +34,20 @@ modified: "2026-09-30"
 **中文理解**：疑虑爬上来了。她父亲贿赂算命先生的故事一直是她家的既定事实，所以她一直假设所有通灵者都可以被收买；可万一这个假设是错的呢——就像她那么多别的假设一样。
 **关键词**：Doubt slithers, tarot card reader, an established fact, what if that assumption is incorrect, like so many of her assumptions
 **为什么这样写**：Doubt slithers 是全句第一个词，也是全句最短的一个——它先动，再解释。like so many of her assumptions 把一个具体疑问立刻扩成对她全部人生判断的怀疑。
-**读者视角提示**：这是 Eve 第一次开始怀疑自己家的说法。作者没有让她想通，只让她动摇，而这条裂缝后面会一直跟着她。
+**读者视角提示**：Eve 从这里开始怀疑自己家的说法。作者没有让她想通，只让她动摇，而这条裂缝后面会一直跟着她。
 
 > **原句 4:** ‘I’m not even one per cent worried,’ says Eve. ‘He would never, ever, hurt me, not in a million years.’
 
 **中文理解**：Eve 说她一点百分之一都不担心；无论过一百万年，他都绝对不会伤害她。
 **关键词**：not even one per cent worried, never, ever, not in a million years
-**为什么这样写**：这三个短促的 never, ever 连着排出来，是全章唯一一次修辞性强调。not in a million years 用一个夸张的时间量，把绝对化的语气再推一层。
+**为什么这样写**：这三个短促的 never, ever 连着排出来，是全章里最用力的一处修辞强调。not in a million years 用一个夸张的时间量，把绝对化的语气再推一层。
 **读者视角提示**：说得越绝对，越像在说服自己。她自己说这句话时，脑子里浮现的是别人那些有审问意味的眼神——这层矛盾是本章真正的暗线。
 
 > **原句 5:** ‘He wants to do all sorts of stupid things now, like sleeping in separate rooms, when we’ve only got one bedroom!’ She hears the brittle, tense sound of her voice. It’s familiar. She realises she is sounding like her mother. ‘He suggested he lock himself up in the bathroom! Like he’s a werewolf.’
 
 **中文理解**：他如今要做一堆蠢事，比如分房睡——可他们只有一间卧室！她听见自己声音里那种发紧、发脆的响动，很耳熟；她意识到自己听起来像她母亲。接着他提出要把自己锁在浴室里，像个狼人。
-**关键词**：all sorts of stupid things, separate rooms, brittle, tense, sounding like her mother, like he’s a werewolf
-**为什么这样写**：前半段是她的吐槽，插入的三句短叙述是自我察觉，末句又回到他的笑话。sound ing like her mother 这一句把「遗传」和「模仿」压成同一件事——她正在变成她母亲那种惊惶的人。
+**关键词**：all sorts of stupid things, separate rooms, brittle, tense, sounding like her mother, Like he’s a werewolf
+**为什么这样写**：前半段是她的吐槽，插入的三句短叙述是自我察觉，末句又回到他的笑话。sounding like her mother 这一句把「遗传」和「模仿」压成同一件事——她正在变成她母亲那种惊惶的人。
 **读者视角提示**：这段的中断式节奏是喜剧，但内容是丈夫在自我囚禁。整章的黑色幽默都建在这个落差上，不要当成单纯的调侃读。
 
 > **原句 6:** Paula says, ‘I’ve got Timmy enrolled at three different swim schools. It’s the only time I feel calm, when he’s swimming.’
@@ -62,7 +62,7 @@ modified: "2026-09-30"
 **中文理解**：她抬头看向 Paula，说：我们得快点找到她。
 **关键词**：She looks up at Paula, We need to find her fast
 **为什么这样写**：句子的宾语在前、结论在后，正常的语序是「我们得快点找到她」——作者把动作（她抬头看向 Paula）写在前面，像是她先抓住对方的手臂才说得出这句话。
-**读者视角提示**：上一段那条推送是关于一只鹦鹉，喜剧之后紧跟这句转向。这一句是全章的收口，也是她第一次承认这件事有时间压力。
+**读者视角提示**：上一段那条推送是关于一只鹦鹉，喜剧之后紧跟这句转向。这一句是全章的收口，也让她承认了这件事有时间压力。
 
 ## 本章词汇
 

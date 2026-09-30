@@ -26,7 +26,7 @@ modified: "2026-09-30"
 
 **中文理解**：真正让他不安的不是回家办公本身，而是办公室主管 Kath 追问的那句「Lilith 知道这事吗」。
 **关键词**：at his level, permission, Does he? No.
-**为什么这样写**：一整段辩解之后，句子被劈成三个字的反问——论证突然收成空的，等于他自己承认没把握。
+**为什么这样写**：一整段辩解之后，句子被劈成三个词的反问——论证突然收成空的，等于他自己承认没把握。
 **读者视角提示**：permission 外面带着引号，那是叙述者自己加的，不是制度里的说法。
 
 > **原句 3:** "Multiple safety issues had been on the agenda at this morning’s meeting and Leo had mentioned – he’s not sure if it was to entertain the team or genuinely to caution them – that it seemed he was destined to die in a workplace accident when he turned forty-three in a little over a month’s time, so could everyone please bring their A game when it came to safety?"

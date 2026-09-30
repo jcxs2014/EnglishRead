@@ -20,13 +20,13 @@ modified: "2026-09-30"
 **中文理解**：霍巴特一个冰冷的灰色星期天，Paula 坐在自家车的驾驶座上，车停在离圣大卫座堂只有几步路的地方；她考虑着要不要回家，把这个位置让给一个更配得上它的人——一个真正认识芭芭拉和布莱恩·贝利医生、真心来吊唁并纪念他们漫长一生的人，而不是为了她自己那些奇怪又自私的理由。
 **关键词**：icy grey, driver’s seat, more deserving, Doctors Barbara and Brian Bailey, strange, selfish reasons
 **为什么这样写**：整句用 and 一路接下去，从天气一路接到自我指控，中间不给一次换气的机会；more deserving 这个比较级把「在场资格」写成了需要申请的资格。冷灰色、多云、几步路——这些细节都在拖延她真正要说的话。
-**读者视角提示**：这句是全章的自我陈述，也是唯一交代她来这儿理由的地方。后面所有的紧张都要靠这句才成立：她不是来送别亲人的，她是来守着一个孩子的。
+**读者视角提示**：这句是全章的自我陈述，也是全篇交代她来这儿理由的地方。后面所有的紧张都要靠这句才成立：她不是来送别亲人的，她是来守着一个孩子的。
 
 > **原句 2:** Her thoughts spool endlessly: Where will it happen? Pool? River? Ocean? How will it happen? How can I stop it? How can I prepare?
 
 **中文理解**：她的念头像胶片一样无尽地倒下去：会在哪儿发生？游泳池？河里？海里？会怎么发生？我怎么拦住它？我怎么提前准备？
 **关键词**：spool endlessly, Where will it happen, Pool, River, Ocean, How can I stop it
-**为什么这样写**：前四个问句越来越短，Pool、River、Ocean 三个词各自单列成句，像在清单上打勾。到第四问开始变成 how can I——问题从「会发生什么」变成「我能做什么」，句子也从名词变成动词。
+**为什么这样写**：前四个问句越来越短，Pool、River、Ocean 三个词各自单列成句，像在清单上打勾。到第四问开始从「会发生什么」转向「我能做什么」，句子也从名词变成动词。
 **读者视角提示**：这三行短问句是全章的呼吸口。后面凡是 Paula 情绪松一点的段落（泳池、电话），都紧跟在它们后面。
 
 > **原句 3:** The only time her mind is truly at rest is when she’s in the pool with Timmy, watching him effortlessly ‘self-rescue’, watching him not drown, watching him float so peacefully, so confidently, his face dreamy, as if he’s back in the womb.
@@ -34,7 +34,7 @@ modified: "2026-09-30"
 **中文理解**：她心里真正安静下来的时候，只有一件事：跟 Timmy 待在泳池里，看着他毫不费力地「自救」，看着他没有淹，看着他那样安详、那样自信地浮着，脸上一片恍惚，好像还在娘胎里。
 **关键词**：at rest, in the pool, effortlessly, self-rescue, as if he’s back in the womb
 **为什么这样写**：前半句是「在池子里」这个事实，后半句是三个分词短语连排：effortlessly、not drown、float so peacefully。三层从技术到结果到姿态，一层层把紧张化解掉。
-**读者视角提示**：这里的 watching 重复三次，是整段唯一的韵脚。写母亲的恐惧，最有效的不是喊出来，是让她盯着一个不会出事的画面看很久。
+**读者视角提示**：这里的 watching 重复了三次，整段的节拍就落在它上面。写母亲的恐惧，最有效的不是喊出来，是让她盯着一个不会出事的画面看很久。
 
 > **原句 4:** ‘Why not?’ says her sister. ‘Life is short, and I don’t need to fit into a wedding dress anymore. What are you doing?’
 
@@ -61,8 +61,8 @@ modified: "2026-09-30"
 
 **中文理解**：是她。那位新娘。那架飞机上的。
 **关键词**：It’s the bride, From the plane
-**为什么这样写**：两句断成两个短段，第二句只有四个词，From the plane 挂在后面。句子越短，说明她认出对方的那一瞬间越短。
-**读者视角提示**：认出来的人只有一个具体目标——不是叙旧，不是道谢。下一章她马上挂掉电话下车，这一章的钩子在这里已经收好。
+**为什么这样写**：两句断成两个短段，第二句只有三个词，From the plane 挂在后面。句子越短，说明她认出对方的那一瞬间越短。
+**读者视角提示**：认出来的人只有一个具体目标——不是叙旧，不是道谢。本章最后一段她立刻挂掉电话、推门下车，这一章的钩子在这里已经收好。
 
 ## 本章词汇
 
@@ -103,4 +103,4 @@ modified: "2026-09-30"
 | old man | 老头 | She thinks the old man may have smiled at her children. |
 | black dress | 黑裙子 | She’s wearing a black dress that is too big for her. |
 
-## 一句话总结**：本章把「不敢来的葬礼」写成一场漫长的自我审判——她嘴上说的是那对医生，心里数的是儿子会淹死的年龄，全章唯一让她安静下来的画面是婴儿在泳池里浮着；直到那位新娘从车前走过，Paula 立刻挂断电话下车。
+## 一句话总结**：本章把「不敢来的葬礼」写成一场漫长的自我审判——她嘴上说的是那对医生，心里数的是儿子会淹死的年龄，全章让她安静下来的只有那个画面——婴儿在泳池里浮着；直到那位新娘从车前走过，Paula 立刻挂断电话下车。

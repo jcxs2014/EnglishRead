@@ -20,7 +20,7 @@ modified: "2026-09-30"
 **中文理解**：讲述者说，正是「我的时间到了，那就认了吧」这句随口的评论，让她在晚宴上不小心把母亲的事讲了出来。
 **关键词**：If my time’s up, so be it, This was the facile comment, accidentally share a deeply personal story
 **为什么这样写**：全章用一句完整引语起手，紧接着用 This was the facile comment 把它定性为轻率的话。facile 这个词带贬义，等于叙述者先替当年的自己判了罪，后面所有失言都从这里派出来。
-**读者视角提示**：这句话同时是全书那条暗线——它是机舱里那位老妇的口头禅，而它最早出现在这里，是别人说给她听的。
+**读者视角提示**：这句话同时是全书那条暗线——它是机舱里那位老妇的口头禅，而它并不是她的发明：前一段插叙已经交代过它的来路。
 
 > **原句 2:** "This was the facile comment that led me to accidentally share a deeply personal story about my mother while we ate our terrible apricot chicken at that long-ago dinner party."
 

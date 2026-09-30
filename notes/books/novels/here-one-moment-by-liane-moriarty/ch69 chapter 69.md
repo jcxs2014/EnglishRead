@@ -8,7 +8,7 @@ modified: "2026-09-30"
 ## 本章导航
 
 - **一句话概括**：凌晨三点被室友吵醒的 Ethan，决定按 Carter 的样子活一次来反击他；结果他刚在厨房和 Jasmine 靠在一起看那段视频，灯就被打开了。
-- **叙事视角**：第三人称限知，贴着 Ethan，间插已死的 Harvey 的声音；全章的对比轴是「他模仿的人」与「真正在场的人」。
+- **叙事视角**：第三人称限知，贴着 Ethan，中间插进 Harvey 的声音（对方仍以现在时说话）；全章的对比轴是「他模仿的人」与「真正在场的人」。
 - **场景与时间**：凌晨三点到清晨，公寓的卧室、浴室、厨房；场景不大，情绪却从头堆到尾。
 - **人物弧线**：从被同住的人逼到自我作态，再到在厨房里短暂地把注意力交出去——而这正是被撞破的一刻。
 - **叙事手法**：反讽（模仿失败）＋ 明喻把日常抬成舞台（灯下的 Jasmine）＋ 结尾用一句反问收场，留白交给下一章。
@@ -20,13 +20,13 @@ modified: "2026-09-30"
 **中文理解**：「Carter」不像客人，甚至不像大人；他像个巨大又被宠坏的小孩。
 **关键词**：doesn’t behave like a guest or even a grown-up, giant, spoiled preschooler
 **为什么这样写**：作者先否掉两种身份（客人、成年人），再给一个更低一级的比喻；否定加比喻的三段式让读者迅速认定这段关系不可调和，也顺势解释了 Ethan 为什么宁愿在外面待着。
-**读者视角提示**：这个 preschooler 比喻后面还会被反过来用——记在这里，后文 Ethan 的自我作态才有对比对象。
+**读者视角提示**：记住这个比喻的重量——本节后半 Ethan 反复模仿 Carter 的举止，正是拿这个比喻当靶子。
 
 > **原句 2:** "He gets out of bed. He will turn off the dripping tap. He will make himself a cup of tea with one of the ‘Sleepytime’ tea bags that Jasmine is always offering him. He will not put on a shirt. He pays rent. He too will walk shirtless around his apartment like Carter."
 
 **中文理解**：他起床，关掉滴水的水龙头，给自己泡一杯 Jasmine 常推荐的安眠茶，不穿上衣，走路也光着上身——他也在自己家里学 Carter。
 **关键词**：He will turn off the dripping tap, Sleepytime tea bags, He will not put on a shirt, He pays rent
-**为什么这样写**：连续的 He will … 把起床写成一串宣言，每句都比上一句短，最后两句却突然回到陈述句（他付房租，他也学人光膀子）；节奏一降，语气就暴露了——宣言撑不住几秒钟。
+**为什么这样写**：连续的 He will … 把起床写成一串宣言，中途忽然插进最短的一句 He pays rent，末两句又退回陈述语气；节奏一降，人物就露了底——宣言撑不住几秒钟。
 **读者视角提示**：注意「他付房租」这句是整段宣言里最实在的一句，夹在模仿里显得格外单薄。
 
 > **原句 3:** "He gets a second cup and when he turns she’s illuminated by the bright light of the open refrigerator, like a beautiful actress under a spotlight on a dark stage about to deliver a dramatic monologue."
@@ -52,12 +52,12 @@ modified: "2026-09-30"
 
 > **原句 6:** "Carter blinks and frowns, his hand on the light switch, and says with ferocious sarcasm, ‘Ah, sorry, guys, am I interrupting?’"
 
-**中文理解**：「Carter」眨着眼、皱着手按在开关上，说：哎，抱歉 guys，我打扰了吗？
+**中文理解**：「Carter」眨着眼、皱着眉、手按在开关上，说：哎，抱歉 guys，我打扰了吗？
 **关键词**：blinks and frowns, his hand on the light switch, with ferocious sarcasm, am I interrupting?
-**为什么这样写**：反问句本身在道歉，内容却全盘挑衅；作者还把这三个动作拆成一段视觉描写（眨眼、皱眉、手按在开关上），让讽刺有了身体。上一句 ‘Oh, Ethan,’ she says. They are standing close to each other, her hand on his bare chest. 里的「Oh, Ethan,」此刻有了回声。
+**为什么这样写**：反问句本身在道歉，内容却全盘挑衅；作者还把这三个动作拆成一段视觉描写（眨眼、皱眉、手按在开关上），让讽刺有了身体。前面那段 ‘Oh, Ethan,’ she says. They are standing close to each other, her hand on his bare chest. 里的「Oh, Ethan,」此刻有了回声。
 **读者视角提示**：本章到此收在别人的一句话上；厨房里那两个人没有回答，接下来会发生什么不在本章。
 
-## ## 本章词汇
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
@@ -95,6 +95,5 @@ modified: "2026-09-30"
 | kitchen floods | （厨房）被光灌满 | The kitchen floods with fierce, blinding light. |
 | grown-up | 大人；成年人 | Carter doesn’t behave like a guest or even a grown-up. |
 | deadly collision | 致命的撞车 | The volume is low but loud enough for him to hear the sounds of the deadly collision. |
-
 
 ## 一句话总结**：一个人模仿他最讨厌的室友来给自己壮胆，模仿到一半就被撞见——而撞破这一切的，正是他模仿了一整夜的那个人。

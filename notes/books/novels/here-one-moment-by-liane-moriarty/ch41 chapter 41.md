@@ -19,48 +19,48 @@ modified: "2026-09-30"
 
 **中文理解**：但 Paula 等不了了。她对立刻行动的渴望太强。Timmy 现在就得学游泳——这不合逻辑：如果她相信飞机上那位 lady 的预言，那她也相信他要到七岁才会出事，那还早着呢。可这不让人安心。
 **关键词**：she couldn’t wait, he’s not drowning until he’s seven, But that brings no comfort
-**为什么这样写**：自相矛盾被完整写出来而不加评语：逻辑说该等，情绪说不等。全段用两个 But 接力，让「该等」和「不服」轮流上台，最后一句把这道解法判为无效。
+**为什么这样写**：自相矛盾被完整写出来而不加评语：逻辑说该等，情绪说不等。全段靠 But 接力，让「该等」和「不服」轮流上台，最后一句把这道解法判为无效。
 **读者视角提示**：把「七岁」当保险用的人，其实是在害怕同一件事——数字一旦被拿来当保证，就说明它一直在响。
 
 > **原句 2:** "Since returning to Hobart after the wedding, she and Matt have not spoken about the prediction. After all, what more is there to say? She knows he wants her to forget about it but she thinks of it constantly. Even while she is chatting quite coherently and cheerfully about something else, a tickertape of thoughts scrolls through her head: I don’t believe it. But what if it’s true?"
 
-**中文理解**：「Timmy 还太小，不适合上游泳课，」婆婆在她把 Willow 送到自己家时说道，「这是因为飞机上那个女巫，对吧？」
-**关键词**：he’s too young for swimming lessons, This is because of the witch on the plane
-**为什么这样写**：前一句用事实（年龄），后一句用指认（女巫），两句之间没有任何推理过程。This is because … , yes? 的问法让指责变成了确认，暗示婆婆早就想好了要怎么接这件事。
-**读者视角提示**：同一个「预言」，在教堂里是 grief，在这句里是 witch——同一条信息在每个人嘴里都会变形。
+**中文理解**：自婚礼回霍巴特以后，她和 Matt 再没提过那个预言——毕竟还能说什么呢？她知道他要她忘掉，可她一直在想。即使在眉飞色舞地聊别的事时，一串滚动字幕也从她脑子里过：我不信。可万一是真的呢？
+**关键词**：have not spoken about, a tickertape of thoughts, I don’t believe it, But what if it’s true
+**为什么这样写**：tickertape（滚动字幕）把内心的循环具象成一条横向滚动的字幕带，于是「我」的两半可以同框、可以对话。I don’t believe it 与 But what if it’s true 两句交替出现，每次重复都更短，最后只剩否定这一半在喊。
+**读者视角提示**：注意那条字幕里有一句是动作而不是反驳：Work out how you know her!——它提出任务，却在同段里被 But how will that help? 否定。
 
 > **原句 3:** "The instructor turns serious. ‘By coming here today you are giving your children a head start on a natural skill that may one day save their lives.’"
 
-**中文理解**：「你的宝宝天生就有水的亲和力，」教练说着，把一个娃娃放低，「小婴儿在水里不会憋气——那是哺乳动物的潜水反射。」
-**关键词**：has an affinity for water, the mammalian dive reflex
-**为什么这样写**：营销话术里嵌了一个生理学术语，两种语域在同一句里并置。reflex 一词把「本能」写成「反射」，于是安抚性的表演突然有了一个硬邦邦的科学底。
-**读者视角提示**：这一段把「会游泳」从爱好改写成生存能力；读者已经知道这正是预言说的那件事。
+**中文理解**：教练神色转为认真：「你们今天来这里，是让孩子在一项可能有一天会救他们命的天然能力上抢得一个身位。」
+**关键词**：turns serious, a head start, a natural skill, may one day save their lives
+**为什么这样写**：turns serious 之后接的是本卷最重的一个主题——救命——但被裹在「早课领先」的销售话术里。作者让最沉重的词出现在最无害的语境，与 Paula 的处境形成一个她听不出来的反讽。
+**读者视角提示**：把 may one day save their lives 与她脑子里那条字幕并排读：同一章里，两种「也许」互相拆台。
 
 > **原句 4:** "‘Timmy is too little for swim lessons,’ Paula’s mother-in-law said when Paula dropped Willow off at her place this morning. ‘This is because of the witch on the plane, yes?’"
 
-**中文理解**：「我们教的是 self-rescue，」教练走到池边，「让他们学会在没人帮的时候，把脸抬起来。」
-**关键词**：self-rescue, lift their own faces out of the water
-**为什么这样写**：课程名被拆成一个动作短语解释，术语在这里被降格为一句口诀。抬脸是一个极小的动作，却被写成「自救」的全部内容。
-**读者视角提示**：这句话比这一章里任何一句都更接近预言——只是它不带日期，也不带任何人的名字。
+**中文理解**：「Timmy 还太小，不适合上游泳课，」婆婆在她早上把 Willow 送到自己家时这么说，「这是因为飞机上那个女巫，对吧？」
+**关键词**：Timmy is too little for swim lessons, This is because of the witch on the plane
+**为什么这样写**：前一句用事实（年龄），后一句用指认（女巫），两句之间没有任何推理过程。This is because … , yes? 的问法让指责变成了确认，暗示婆婆早就想好了要怎么接这件事。
+**读者视角提示**：同一个「预言」，在教堂里是 grief，在这句里是 witch——同一条信息在每个人嘴里都会变形。
 
 > **原句 5:** "Zehra shrugged an elegant shoulder. ‘They are Swarovski.’"
 
 **中文理解**：Zehra 耸了耸一边肩膀。「是 Swarovski 的。」
 **关键词**：Shrugged an elegant shoulder, They are Swarovski
-**为什么这样写**：全章对迷信最认真的一次表态只有几个实词。品牌名代替了理由，语气里的耸肩把郑重降级为品牌背书；同时也说明这只小小的东西并不便宜——她是认真的。
-**读者视角提示**：把这一句和前半章那场关于溺水反射的讲解并读：她要的证据和教练给的证据一样具体——一个牌子，或者一条生理学名词。
+**为什么这样写**：她对迷信的表态只有几个实词。品牌名代替了理由，语气里的耸肩把郑重降级为品牌背书；同时也说明这只小小的东西并不便宜——她是认真的。
+**读者视角提示**：把这一句和本章前面那些关于溺水反射的讲解并读：她要的证据和教练给的证据一样具体——一个牌子，或者一条生理学名词。
 
 > **原句 6:** "Everyone has superstitions. That sensible-looking, glasses-wearing guest at Paula’s sister’s wedding, a tax auditor apparently, was ecstatic to catch the bouquet, as if she truly believed it would bring her a marriage proposal."
 
-**中文理解**：「他们总是先掉下去再学游泳，」教练说，「我们只是提前教他们怎么抬起头。」
-**关键词**：they fall first, we just teach them how to lift their heads
-**为什么这样写**：先掉下去被说成自然过程，学的只是抬头——把「会」与「不会」之间的全部危险压缩成一个动作。教练的语气越轻松，这句话听起来越像一种豁免。
-**读者视角提示**：Paula 坐在旁边鼓掌，心里知道这一句是本章里唯一一句她不敢细想的。
+**中文理解**：每个人都有迷信。Paula 妹妹婚礼上那位看起来很讲道理、戴眼镜的客人——据说是个税务审计员——抢到花束时高兴坏了，仿佛真相信那会给她带来一纸婚约。
+**关键词**：Everyone has superstitions, sensible-looking, glasses-wearing, catch the bouquet
+**为什么这样写**：好几个形容（sensible-looking / glasses-wearing / a tax auditor apparently）都在建立「理性人」的人设，而紧接着的 was ecstatic 把这个人设打掉。as if she truly believed 又加一层：不是说她信，是说她的行为像信。
+**读者视角提示**：这一段把「迷信」从岳母身上分摊给全场，于是它变成一种普遍状况，而不是某一家的毛病。
 
 > **原句 7:** "she clasped the evil eye bracelet around Timmy’s wrist: ‘It may not have been a prediction, Paula, it may have been a curse.’"
 
 **中文理解**：「也许那根本不是预言，Paula。」她把声音压得很低，低到 Paula 得弯下腰才听清，「也许那是个诅咒。」
-**关键词**：it wasn’t a prediction, it was a curse
+**关键词**：the evil eye bracelet, It may not have been a prediction, it may have been a curse
 **为什么这样写**：最后一句用同一个判断词换了主语：不是预言，是诅咒。压低的音量让它像一句忏悔，而 it may have been 那种留了退路的说法表示连她也不敢断定。
 **读者视角提示**：整章从「你还太小」开始，到这句「也许是个诅咒」结束。中间所有的水、玩具、笑声，都没能把这句话压下去。
 

@@ -26,7 +26,7 @@ modified: "2026-09-30"
 
 **中文理解**：同一套说法的第二半：医生若告诉你多少人死于这种病，你多半也会死；但万一你正是那个例外，你会认定自己特别、受到祝福，家里人也会认定他们的祈祷有了回报——而这不过是数学。
 **关键词**：beats the odds, special and blessed, the fervency of their prayers, paid dividends, it’s just maths
-**为什么这样写**：先让读者点头承认这种可能，再用末尾两句把这份自我解释抽走；同一句数学说两遍，是本章唯一被重复的强调。
+**为什么这样写**：先让读者点头承认这种可能，再用末尾两句把这份自我解释抽走；同一句数学说两遍，是本章里被重复的那一处强调。
 **读者视角提示**：注意后面那位孕妇正是靠「接受治疗」击败了概率，于是这段议论不是空转，而是在给随后的例子预支解释。
 
 > **原句 3:** "The woman who was pregnant on the plane, the one who had been refusing treatment because she believed it would make no difference, decided to accept her oncologist’s advice. She is now cancer-free."

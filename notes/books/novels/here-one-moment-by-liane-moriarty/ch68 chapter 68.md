@@ -50,14 +50,14 @@ modified: "2026-09-30"
 **为什么这样写**：这句话被写成全大写，且把她的名字当成收尾的落款——她在教训的对象其实是她自己；作者把一句内心骂话排版成标语，让它在纸面上比任何人的声音都响。
 **读者视角提示**：紧跟其后的一句说明这只是在她脑子里说；喊得再响，出声的一直只有她自己。
 
-> **原句 6:** "Yes. That’s the answer. She will pay the lady to tell Dom she got it wrong, and now here is the right prediction, and of course you’re not going to kill your wife, for fuck’s sake"
+> **原句 6:** "Yes. That’s the answer. She will pay the lady to tell Dom she got it wrong, and now here is the right prediction, and of course you’re not going to kill your wife, for fuck’s sake (she probably won’t say ‘for fuck’s sake’, Eve can’t imagine her swearing), you’re going to live happily ever after and you won’t die until you’re as wrinkly and ancient as the adorable Dr Baileys."
 
-**中文理解**：对了，这就是答案。她要花钱请那位女士告诉 Dom 他算错了，然后给出新的预言：你当然不会杀你老婆——（她大概不会真的说这句粗话），你们会幸福地生活下去。
-**关键词**：Yes. That’s the answer, pay the lady to tell Dom she got it wrong, the right prediction, you’re not going to kill your wife
+**中文理解**：对了，这就是答案。她要花钱请那位女士告诉 Dom 他算错了，然后给出新的预言：你当然不会杀你的老婆，说这种粗话她大概说不出口，然后你们会幸福地生活下去，直到你老得像 Dr Baileys 那样又皱又老。
+**关键词**：Yes. That’s the answer, pay the lady to tell Dom she got it wrong, you’re not going to kill your wife, you’re going to live happily ever after, the adorable Dr Baileys
 **为什么这样写**：这段内心独白一口气把「花钱—改口—得逞」三步说完，中途还替对方写好了台词（作者注明她大概不会真的用那个粗词）；于是读者同时拿到了她的计划、她的自我辩解，以及计划本身有多便宜。
 **读者视角提示**：本章最后一句和 She just has to find her. 同形——她已经准备好去找那个人了，而前面那位也在找同一个人。
 
-## ## 本章词汇
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
@@ -95,6 +95,5 @@ modified: "2026-09-30"
 | sleep routine | 睡眠规律 | He doesn’t have a sleep routine because she thinks he might be trying to stay awake. |
 | streaming services | 流媒体订阅服务 | They have cancelled all their streaming services. |
 | tarot card | 塔罗牌 | She thinks of her dad bribing the tarot card reader to say he was the man of her mother’s dreams. |
-
 
 ## 一句话总结**：这一章里所有的保护措施都在制造它要防的风险，所有的省钱决定都在制造更穷，而 Eve 的解决方案是花钱买一句违心话——「这不浪漫，这是可怕。」

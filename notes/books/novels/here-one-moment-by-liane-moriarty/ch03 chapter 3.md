@@ -19,7 +19,7 @@ modified: "2026-09-30"
 
 **中文理解**：以 Well 开头的自白：叙述者说自己曾爱过一个又高又瘦的男孩，他有一双看上去脆弱的脖颈；正是他给了她勇气，让她敢去参加派对和舞会——那时她怕自己会紧张到晕过去。
 **关键词**：once loved, most vulnerable of necks, gave me the courage, pass out from shyness
-**为什么这样写**：句子把「他是谁」和「他做了什么」用 who 引导的关系从句焊在一起，两个部分中间不给停顿，读起来像一口气讲完的旧事。most vulnerable of necks 用最高级修饰名词短语，把「脆弱」写成一种看得见的外貌，而不是性格。
+**为什么这样写**：句子把「他是谁」和「他做了什么」用 who 引导的关系从句焊在一起，两个部分中间不给停顿，读起来像一口气讲完的旧事。most vulnerable of necks 这一串用 most 起头，把「脆弱」写成一种看得见的外貌，而不是性格。
 **读者视角提示**：注意 once loved 的时态——这件事已经过去；本章随后给出的解释，会把这个「已过去」处理成「此刻仍在想」。
 
 > **原句 2:** "‘On the count of three,’ he’d say while my heart pounded and my vision blurred, and he’d take my hand in his. ‘One. Two. Three.’"

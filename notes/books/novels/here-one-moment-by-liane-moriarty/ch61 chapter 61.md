@@ -84,16 +84,18 @@ modified: "2026-09-30"
 | bravely | 勇敢地 | Kayla was terrified of flying but that weekend she was bravely flying alone to Sydney for a friend’s party. |
 | carousel | （机场的）行李转盘 | She told everyone about the very tall boy she’d met at the baggage carousel. |
 | Diploma | 文凭；证书 | She was studying for a Diploma of Beauty Therapy. |
+| passionate fan | 狂热的粉丝 | She was a ‘Swiftie’ (a passionate fan of the extraordinary performer, Taylor Swift, whose music I also find extremely catchy). |
+| departure lounge | 出发大厅 | I saw Kayla in the departure lounge in Hobart. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | life story | 人生故事 | It feels wrong to be sharing my life story, without acknowledging the life story of Kayla Halfpenny. |
-| passionate fan | 狂热的粉丝 | She was a ‘Swiftie’ (a passionate fan of the extraordinary performer, Taylor Swift, whose music I also find extremely catchy). |
 | younger sisters | 两个妹妹（此处指较小的两个姐妹） | Her younger sisters worshipped her. |
 | puppy | 小狗 | She called the puppy ‘Ruby Tuesday’. |
-| departure lounge | 出发大厅 | I saw Kayla in the departure lounge in Hobart. |
+| phone | 手机 | The one who knocked over her drink and then her phone. |
+| sister | 姐妹 | Not the sister. |
 | clear | 晴朗的；清澈的 | It was a clear, cold July day. |
 
 ## 一句话总结**：这一章把一个被预言夺走的十九岁一年一年讲成一份可以查证的档案，讲完之后作者没有安慰任何人，只交代自己动过一个不该动的念头。

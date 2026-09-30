@@ -19,14 +19,14 @@ modified: "2026-09-30"
 
 **中文理解**：此刻他们就是一条 Instagram 帖子里那对蜜月夫妇：晒得黝黑、刚做过爱、头发好看、天空是粉的，落日把海水调成玫瑰金。Eve 喜欢玫瑰金，连手机壳都是这个颜色。
 **关键词**：honeymooners in an Instagram post, rose gold, the sky is pink
-**为什么这样写**：这一段把「旅行中的人」和「照片里的人」合并成一句判断：他们既是真实的人，也是姿势和打光。rose gold 连说两次，把一种颜色写成角色的偏好，而后面正是这层颜色滤镜被潮水一点点撤掉。
+**为什么这样写**：这一段把「旅行中的人」和「照片里的人」合并成一句判断：他们既是真实的人，也是姿势和打光。rose gold 反复出现，把一种颜色写成角色的偏好，而后面正是这层颜色滤镜被潮水一点点撤掉。
 **读者视角提示**：记住它是「此刻」的状态描述——作者随后要说明这片玫瑰金过一会儿就没了。
 
 > **原句 2:** "Once they knew he was definitely out of earshot they couldn’t stop laughing. The terrible view, the buzzing fruit flies, the icky carpet. ‘We could be on a reality show,’ said Dom. ‘Honeymoons from Hell.’"
 
 **中文理解**：确认那位工作人员已经走远听不见之后，两人笑个不停：糟糕的风景、嗡嗡飞的果蝇、湿冷得像苔藓的地毯。Dom 说：「我们可以上真人秀了，《地狱蜜月》。」
 **关键词**：Once they knew he was definitely out of earshot, they couldn’t stop laughing, Honeymoons from Hell
-**为什么这样写**：作者用 out of earshot 这一处交代了叙述者与当事人的关系——她知道这段对话、又不在场。笑点则由三个并列的糟糕细节累积而成，最后落到一个自造剧名上，把丢人的度假村升级成了可传播的内容。
+**为什么这样写**：作者用 out of earshot 这一处交代了叙述者与当事人的关系——她知道这段对话、又不在场。笑点由一串并列的糟糕细节累积而成，最后落到一个自造剧名上，把丢人的度假村升级成了可传播的内容。
 **读者视角提示**：笑完之后两人滚到床中央；下一块开始，这个房间会重新被不安的话题占领。
 
 > **原句 3:** "‘Worried? Of course I’m not,’ says Eve. ‘I do not think you’re going to murder me, Dom.’"
@@ -34,21 +34,21 @@ modified: "2026-09-30"
 **中文理解**：「担心？开什么玩笑，」Eve 说，「我可不觉得你会杀我。」
 **关键词**：Worried? Of course I’m not, I do not think you’re going to murder me
 **为什么这样写**：反问开头加否定回答，是把一个念头按下去的标准口语动作；后半句用 I do not think 而不是 I don’t think，语序更正式，反而更像在向自己保证。murder 一词与此刻两人正吃着的零食并置，形成刻意的错位。
-**读者视角提示**：这句保证刚落地，Dom 就把薯片袋的封口折出一条直线——身体动作先于语言，读者应当留意。
+**读者视角提示**：这句保证落下之后，本章后面还有一个动作：Dom 把薯片袋的封口折出一条直线——身体动作先于语言，读者应当留意。
 
 > **原句 4:** "‘Respiratory tract infection,’ says Dom. ‘But I’ll be in jail, right, for killing you? So I’d rather die young.’"
 
 **中文理解**：「呼吸道感染，」Dom 说，「不过我要是杀了你就得坐牢，对吧？那我还不如早点死。」
 **关键词**：Respiratory tract infection, So I’d rather die young
-**为什么这样写**：前半句是机械的医学术语纠正，后半句才是真话：把谋杀当作一道算术题（坐牢还是早死），用轻快语气说出一条最狠的逻辑。反讽在于——预言说的是他杀死她，而他给出的唯一解法是自己先死。
-**读者视角提示**：这句之后两人把话头交回给薯片和水，恐慌被压回日常；本章真正的转折不在这句，在最后两块。
+**为什么这样写**：前半句是机械的医学术语纠正，后半句才是真话：把谋杀当作一道算术题（坐牢还是早死），用轻快语气说出一条最狠的逻辑。反讽在于——预言说的是他杀死她，而他给出的现成解法是自己先死。
+**读者视角提示**：这句之后两人把话头交回给薯片和水，恐慌被压回日常；本章真正的转折不在这句，在结尾处。
 
 > **原句 5:** "Dom doesn’t look at her. ‘I wasn’t worried, but last night, in the middle of the night, I woke up and remembered something – and now I can’t stop thinking about it.’"
 
 **中文理解**：「我之前不担心，」Dom 说，眼睛没看她，「但昨晚半夜我醒来想起了一件事——然后就停不下来了。」
-**关键词**：last night, in the middle of the night, I woke up and remembered something, I don’t want to freak you out
-**为什么这样写**：半夜里想起的事被压了一夜才说出，句子用一串时间状语把等待写长；I don’t want to freak you out 一句让读者知道他考虑过她的感受，于是威胁感反而更重。全段唯一动作是他不看她。
-**读者视角提示**：Eve 接下来的反应是拿玩笑去接；真正的余波出现在本章最后两块——那里他的身体比他的嘴诚实。
+**关键词**：last night, in the middle of the night, I woke up and remembered something, and now I can’t stop thinking about it
+**为什么这样写**：半夜里想起的事被压了一夜才说出，句子用一串时间状语把等待写长；I don’t want to freak you out 一句让读者知道他考虑过她的感受，于是威胁感反而更重。这段里他始终没有对上她的眼睛。
+**读者视角提示**：Eve 接下来的反应是拿玩笑去接；真正的余波出现在本章结尾——那里他的身体比他的嘴诚实。
 
 > **原句 6:** "Dom folds the top of the chip bag into a firm straight line."
 

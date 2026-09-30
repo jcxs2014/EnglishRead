@@ -52,12 +52,12 @@ modified: "2026-09-30"
 
 > **原句 6:** "Mum said, ‘Father, I see a forbidden love in your future.’"
 
-**中文理解**：神父 Father O’Malley 端茶劝她靠在主身上，母亲对他说：神父，我看见您的将来里有一段禁忌之恋。
+**中文理解**：母亲对那位神父说：神父，我看见您的将来里有一段禁忌之恋。
 **关键词**：Mum said, Father, I see a forbidden love, in your future
-**为什么这样写**：前一段刚把算命写成概率骗局，这里就用一句「我看见您的将来」把神父本人变成客户；叙述者紧接着冷冷地补上一句 Father O’Malley got out of there fast.，把这件事的方向掉了个个儿——母亲的「禁忌之恋」，成了别人真的落进情网的事。
+**为什么这样写**：前面刚把算命写成概率骗局，这里就用一句「我看见您的将来」把神父本人变成客户——他本是端着茶来劝她依靠主的那一位；叙述者紧接着冷冷地补上一句 Father O’Malley got out of there fast.，把这件事的方向掉了个个儿：母亲的「禁忌之恋」，成了别人真的落进情网的事。
 **读者视角提示**：全章末尾作者还不放过她：她承认母亲的预言可能不是巧合，并给出她自己的解释。到底是概率还是眼力，本章不给答案。
 
-## ## 本章词汇
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
@@ -96,6 +96,5 @@ modified: "2026-09-30"
 | occult gifts | 神秘的天赋 | Instead she came home with piles of books about ‘connecting with spirits’, ‘accessing your occult gifts’ and ‘interpreting tarot’. |
 | bank | 银行 | She behaved as though it was somehow ill-gotten, as if Dad had robbed a bank, not insured his life. |
 | big leap | 大大的一步 | This was a big leap forward from Grandma’s secret palm-reading. |
-
 
 ## 一句话总结**：本章把「精确」这条主线从一张改错的数字卷到一桩算命生意，最后让说出这句话的人自己承认——逻辑也有解决不了的事。

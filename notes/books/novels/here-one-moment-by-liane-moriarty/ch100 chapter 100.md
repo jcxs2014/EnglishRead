@@ -27,7 +27,7 @@ modified: "2026-09-30"
 **中文理解**：理由不只是安全，而是他这个人带着某种说不清的东西。
 **关键词**：It’s the only way, The feeling is you’re kind of, cursed
 **为什么这样写**：The feeling is 把公司的一个决定换成了「大家的感觉」，主语从制度变成了一种集体情绪；cursed 一词又是他借对方之口说出的一口凉气。
-**读者视角提示**：这四个字是本章里唯一一次有人把这份排挤说成迷信，而不是说成便利；说的人还加了 you know 这样的缓冲词。
+**读者视角提示**：这四个字是本章里罕见的一次有人把这份排挤说成迷信，而不是说成便利；说的人还加了 you know 这样的缓冲词。
 
 > **原句 3:** ‘Right,’ says Leo. ‘Well, that’s kind of you.’ It doesn’t feel kind, it feels like people believe his mere presence will cause an accident.
 
@@ -46,7 +46,7 @@ modified: "2026-09-30"
 > **原句 5:** He wonders if Lilith is an alien, imagines her going home each night and peeling off her face.
 
 **中文理解**：他当面问出照片里那个从未露面的丈夫叫什么，随后在心里判定那是编的。
-**关键词**：John!, Likely story!, wonders if Lilith is an alien, peeling off her face
+**关键词**：wonders if Lilith is an alien, imagines her going home each night, peeling off her face
 **为什么这样写**：先用两个字加感叹号把追问顶回去，再用一句戏谑的猜想把整段关系升级成非人的猜测；叙述里的想象把职场恐惧推成了生理上的荒谬。
 **读者视角提示**：这之后的两段插入括号，把他的好心情归给一通旧友的电话——工作这一段的冷和后面那段的热，是同一章里并列的两条情绪线。
 

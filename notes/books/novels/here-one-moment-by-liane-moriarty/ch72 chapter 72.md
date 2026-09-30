@@ -47,7 +47,7 @@ modified: "2026-09-30"
 
 **中文理解**：他发觉自己总在替对方把话说完，于是提醒自己别人更愿意自己说完；接着他把相框拉近，告诉自己不能死——这个家需要他。
 **关键词**：finishing her sentences, pulls the photo closer, He can’t die, He’s necessary
-**为什么这样写**：前两句是完整的议论句，后面三句每句只剩三四个词。He can’t die 与 He’s necessary 连着两拍，把一整段推理压成两个短断言：这是本章里他最接近撑不住的地方，也是全章最短的句子。
+**为什么这样写**：前两句是完整的议论句，后面三句每句只剩三四个词。He can’t die 与 He’s necessary 连着两拍，把一整段推理压成两个短断言；全章数这一段最短，推演到这儿，他也离认输只差一步。
 **读者视角提示**：相框里是妻子和两个孩子。Necessary 在这里不是英雄主义的说法，是算账式的；记住它，后面辞职那段反转会更有分量。
 
 > **原句 6:** ‘If working for that woman ends up killing you, I will kill that manipulative, micromanaging bitch myself.’
@@ -73,7 +73,7 @@ modified: "2026-09-30"
 | aquarobics | 水中有氧操 | She recently made a new friend at aquarobics, also a widow. |
 | infiltrate | （使）悄悄渗入；渗透 | The words infiltrate. |
 | devastated | 悲痛欲绝的；心碎 | The woman said her parents had been blessed with long happy lives but she was still ‘devastated’ to lose them. |
-| indication | 迹象； indications of 意为「有…的迹象」 | I’ve had all these tests and there is no indication that I’ve got any kind of cancer. |
+| indication | 迹象；表明（常用于「有……的迹象」这一说法） | I’ve had all these tests and there is no indication that I’ve got any kind of cancer. |
 | coincidence | 巧合 | ‘A terrible coincidence,’ says Leo. |
 | grandmotherly | 像祖母一般的；有祖母样子的 | She sounds younger on the phone than he remembers from the plane, less grandmotherly, more like someone the same age as him. |
 | multi-storey | 多层的 | There was a story about a multi-storey crane collapse on a site last week. |
@@ -84,7 +84,7 @@ modified: "2026-09-30"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | resilient | 有韧性的；恢复力强的 | ‘Kids are resilient,’ says Sue. |
-| overheard | 偷听到（overhear 的过去式/过去分词） | Unfortunately Bridie does know – she overheard me talking to my wife about it and got very worked up for a while. |
+| overheard | 偷听到（这个词是「偷听」的过去式和过去分词） | Unfortunately Bridie does know – she overheard me talking to my wife about it and got very worked up for a while. |
 | glamorous | 光鲜亮丽的 | It’s nowhere glamorous, just the three of them on the couch, Neve in the middle, a kid tucked under each arm. |
 | assuming | 擅自认定；以为 | The other day she told Leo she is sick of people assuming she is over her grief by now. |
 | billable | 可计费的 | This is not billable time. |

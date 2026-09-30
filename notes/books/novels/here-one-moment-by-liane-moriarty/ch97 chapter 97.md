@@ -20,7 +20,7 @@ modified: "2026-09-30"
 **中文理解**：她后来听说，那些熟人看到了她的照片，却没有一个人说或做什么——他们认定她若想被找到，自然会自己出现。
 **关键词**：came across my photo online, chose to do or say nothing, if I wanted to be found, I would be
 **为什么这样写**：主语从句很长，把「看到照片」「选择沉默」「认定她会自己出现」三步压在一句里；I would be 用虚拟语气替别人下了结论，讽刺因此落在她的自作主张上。
-**读者视角提示**：整段的前半句是转述，后半句是推断，而推断才是她真正要说的——这个落差是本章唯一的推进。
+**读者视角提示**：整段的前半句是转述，后半句是推断，而推断才是她真正要说的——这个落差才是本章被推着往前走的那一步。
 
 > **原句 2:** Presumably these are the people who wouldn’t turn me in if they saw my face on a wanted poster, so that’s nice to know.
 

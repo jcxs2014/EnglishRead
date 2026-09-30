@@ -19,42 +19,42 @@ modified: "2026-09-30"
 
 **中文理解**：母亲告诉他：「悲伤是一波一波来的。」是的，但 Harvey 只配得到涟漪——他活着的时候，Ethan 从没为这个人花过这么多心思。
 **关键词**：‘Grief comes in waves,’ his mother told him, Yes, but Harvey should only get ripples
-**为什么这样写**：先原样引一句格言，再用一个比喻的降级把它驳掉——降级本身就是态度。三句都很短，最后一句把差别钉在「活着的时候」，也就是把亏欠推到了事后。
+**为什么这样写**：先原样引一句格言，再用一个比喻的降级把它驳掉——降级本身就是态度。这几句都很短，末句把差别钉在「活着的时候」，也就是把亏欠推到了事后。
 **读者视角提示**：Harvey 在本章里已经不在场却处处在；后面灵媒说到「someone you see often」时，读者会比他先知道指的是谁。
 
 > **原句 2:** "They are on their way to see a psychic. It’s the first time Ethan has ever been to one, if he doesn’t count the lady on the plane, which he doesn’t because he didn’t sign up for that prediction. This time he has an actual appointment. He has basically agreed to be scammed for seventy-five bucks."
 
 **中文理解**：他们正要去见一位灵媒。这是他头一回主动去——如果不算飞机上那位的话，而他不算，因为他没报名听那个预言。这一次他有正式预约，基本上等于同意被骗七十五块。
 **关键词**：if he doesn’t count the lady on the plane, an actual appointment, agreed to be scammed for seventy-five bucks
-**为什么这样写**：两个 if 从句加一次自我排除，把「第一次」写成有条件的；agrees to be scammed 故意认输，与前一句的正式流程形成反讽——仪式越齐全，越说明他知道自己不信。
-**读者视角提示**：他带着防线的方案走进房间：poker face。那个方案在下一块就作废了。
+**为什么这样写**：if 从句加上一次自我排除，把「头一次去」这个说法写成有条件的；agreed to be scammed 故意认输，与前一句的正式流程形成反讽——仪式越齐全，越说明他知道自己不信。
+**读者视角提示**：他带着防线的方案走进房间：poker face。那个方案很快就被他自己作废了。
 
 > **原句 3:** "They do ‘hot and cold readings’. A hot reading is where they research you beforehand. A cold reading is where they ask open-ended questions and monitor your reactions. Ethan plans to sit there with a poker face."
 
 **中文理解**：他们做热读和冷读：热读是先查你的资料，冷读是抛开放性问题并观察你的反应。Ethan 打算全程摆一张扑克脸。
 **关键词**：hot and cold readings, research you beforehand, open-ended questions, a poker face
-**为什么这样写**：两个定义句用完全对称的 A is where… 结构写成，方便对照也方便记忆；后面的 poker face 与后面「自己在配合」的段落形成反差。
+**为什么这样写**：定义句用完全对称的 A is where… 结构写成，方便对照也方便记忆；后面的 poker face 与后面「自己在配合」的段落形成反差。
 **读者视角提示**：记住 cold reading 的定义：接下来灵媒问的那些问题，读者可以逐条拿这句来对照。
 
 > **原句 4:** "‘Wrist,’ says Ethan. ‘Rock-climbing accident.’ Dammit! All he needed to say was ‘wrist’. He’s already given away information without even being asked!"
 
 **中文理解**：「手腕。」Ethan 说，「攀岩事故。」——该死！他说手腕就够了；还没人问，他已经把信息交出去了。
 **关键词**：Dammit! All he needed to say was ‘wrist’. He’s already given away information without even being asked!
-**为什么这样写**：引语只有两个短成分，慌乱全部交给引语之后的复盘；这句本身就是冷读的现场演示，作者让读者和人物同时看穿。
+**为什么这样写**：引语只有极短的成分，慌乱全部交给引语之后的复盘；这句本身就是冷读的现场演示，作者让读者和人物同时看穿。
 **读者视角提示**：这个失误是后面对方准确说中伤处的原因，也是「扑克脸」彻底落空的证据。
 
 > **原句 5:** "He hears himself speaking humbly and respectfully, as if he’s at the doctor. He’s fascinated by his own collusion with the process."
 
 **中文理解**：他听见自己用谦卑、客气的口吻说话，像在门诊里对医生那样；而他对自己正在配合这套流程感到着迷。
 **关键词**：fascinated by his own collusion with the process
-**为什么这样写**：句子先描述外部症状（语气变软），再补内部反应（着迷），两句构成「中招了但很享受」；collusion 把占卜写成共谋，暗示双方都在演，而演得比现实更顺。
+**为什么这样写**：句子先描述外部症状（语气变软），再补内部反应（着迷），合起来是「中招了但很享受」；collusion 把占卜写成共谋，暗示双方都在演，而演得比现实更顺。
 **读者视角提示**：collusion（串通）是本章的暗线：读者要意识到对方每一句「对」都有可能是编的。
 
 > **原句 6:** "‘To a degree, but I can’t say: “This is definitely your future”. Why? Because the moment I do, you change your behaviour. You’re no longer the same person you were a moment before. See the logic? So – all I can do is interpret the cards to help you see possible paths.’"
 
 **中文理解**：「一定程度上信，但我不能说『这就是你确定的未来』。为什么？因为我一这么说，你的行为就变了，你就不再是前一刻的那个人了。逻辑是这样。所以我只能解读牌，帮你看到可能的路径。」
 **关键词**：I can’t say: “This is definitely your future”, you change your behaviour, interpret the cards to help you see possible paths
-**为什么这样写**：全章只有这一段带论证，See the logic? 把说服的动作写进台词；possible paths（可能的路径）刻意用复数，与所有人来这里想要的那个确定答案正好相反。作者借一个骗子之口把「预言会不会改变人」这个题目正面摆出来。
+**为什么这样写**：这一段之所以特别，在于它带论证：See the logic? 把说服的动作写进台词；possible paths（可能的路径）刻意用复数，与所有人来这里想要的那个确定答案正好相反。作者借一个骗子之口把「预言会不会改变人」这个题目正面摆出来。
 **读者视角提示**：这本书里听到预言的人，行为都被改动了——包括此刻正在做解读的人自己。
 
 > **原句 7:** "Luca opens his eyes and grins wickedly. ‘But maybe you won’t, Jason Bourne, maybe you won’t.’"

@@ -19,7 +19,7 @@ modified: "2026-09-30"
 
 **中文理解**：那段标注为 “TikTok Live” 的事故录像在家属要求下架，但已经拿了不少播放和点赞；有人告诉叙述者，这不等于大家「喜欢」 Kayla 死了这件事。
 **关键词**：eventually removed after a request from the family, a million views, I am told that this does not mean, ‘liked’
-**为什么这样写**：作者把两个数字放进同一句，句尾却用一句转述把这层意思推开；「我听说」这个措辞把作者从结论里摘了出去，于是听起来像在为读者考虑，而不是为传播效果辩护。
+**为什么这样写**：作者把播放量和点赞数放进同一句，句尾却用一句转述把这层意思推开；「我听说」这个措辞把作者从结论里摘了出去，于是听起来像在为读者考虑，而不是为传播效果辩护。
 **读者视角提示**：注意那些加引号的词——作者不肯把播放、点赞直接说成支持，这种引号是本章的修辞习惯。
 
 > **原句 2:** "To put it in perspective: a video of a dog barking at its own reflection in an oven door got two million views and ten thousand likes."
@@ -33,8 +33,8 @@ modified: "2026-09-30"
 
 **中文理解**：人们忘了。只有那些认识并爱着 Kayla 的人还在谈论她。
 **关键词**：People forgot, Only those who knew and loved Kayla, continued to talk about her
-**为什么这样写**：两个短句形成一次收束，前一句冷、后一句暖，但并没有给出任何安慰；作者把「记住」的权利限定给极少数人，于是遗忘成了默认状态。
-**读者视角提示**：紧接着的一段里，作者顺手列出了其余几方在这场热度里的下场，谁也没好到哪去。
+**为什么这样写**：前一句冷、后一句暖，形成一次收束，但并没有给出任何安慰；作者把「记住」的权利限定给极少数人，于是遗忘成了默认状态。
+**读者视角提示**：本章前面已经列过其余几方在这场热度里的下场——家属、拍下事故的那位乘客；谁也没好到哪去。
 
 > **原句 4:** "At this point no-one had yet referred to me as ‘the Death Lady’."
 
@@ -43,7 +43,7 @@ modified: "2026-09-30"
 **为什么这样写**：这句写的是一个「还没有」，前文所有关于传播、遗忘的清点都是为这个「还没有」搭台；作者把尚未发生的事单列成一句，全章因此有了向前的拉力。
 **读者视角提示**：紧跟着的下一句 “That was all to come.” 把这句话的劲收住；本章到此结束，后面发生了什么，本章不说。
 
-## ## 本章词汇
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
@@ -73,6 +73,5 @@ modified: "2026-09-30"
 | dog | 狗 | To put it in perspective: a video of a dog barking at its own reflection in an oven door got two million views and ten thousand likes. |
 | friend | 朋友 | Her friend, the passenger who filmed the accident, had to spend weeks in hospital and she shut down her social media during that time. |
 | prediction | 预言 | Kayla’s family never spoke publicly about the prediction. |
-
 
 ## 一句话总结**：本章是一份热度结算单——它把一场死亡的传播量逐项记清，然后用一条狗的视频把数字还原成数字，最后告诉你，名字还要等一等。

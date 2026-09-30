@@ -20,7 +20,7 @@ modified: "2026-09-30"
 **中文理解**：她借一位长辈的口吻说，第四次死亡这件事最让人恼火——恼火的是这件事本身，而不是任何人的反应。
 **关键词**：The fourth death, really gets my goat, as Auntie Pat liked to say
 **为什么这样写**：口语习语被放在后半句，前面先把被抱怨的对象说清楚；as Auntie Pat liked to say 把习语归给一个不在场的人，语气因此从控诉滑向闲谈。
-**读者视角提示**：这一句把本章唯一的时间坐标交出来——前面已经发生过三次，本章处理的是第四次。
+**读者视角提示**：这一句把本章的时间坐标交出来——前面几次死亡都被它串在同一条线上，这一件是最新的一件。
 
 > **原句 2:** That’s when everyone lost their damned minds. That’s when articles about me began appearing in ‘respectable’ publications.
 

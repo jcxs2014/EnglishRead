@@ -7,10 +7,10 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：年老的 Cherry 回忆自己第一份工作是数灰大袋鼠，并交代那次田野里她一时冲动替主妇读了手相——那是她此生第一次、也是此后多年内唯一一次。
+- **一句话概括**：年老的 Cherry 回忆自己第一份工作是数灰大袋鼠，并交代那次田野里她一时冲动替主妇读了手相——原文说那是她读过的第一只手，之后许多年没再读过。
 - **叙事视角**：第一人称，POV 是老年 Cherry；她一边对读者说话，一边不断切换到二十出头时的自我评价。
 - **场景与时间**：回忆主线为工作初期，国家公园与野生动物部门的办公室与牧场驻站；主线之外插入一段电视纪录片与跳伞的当下插话。
-- **人物弧线**：从「我从不假装会看手相」走到「I see you leaving」这句她听母亲说了无数遍的话，最后以 Baashir 的苏格兰口音收束——她对旅行的胃口是被他喂出来的。
+- **人物弧线**：从「我从不假装会看手相」走到「I see you leaving」这句她听母亲说过很多遍的话，最后以 Baashir 的苏格兰口音收束——她对旅行的胃口是被他喂出来的。
 - **叙事手法**：先自嘲拆台（读者想象的画面 vs 现实），再用长插入句切回现在时，最后以 Don’t try to be funny, Cherry. 一句自指收口。
 
 ## 精读
@@ -27,14 +27,14 @@ modified: "2026-09-30"
 **中文理解**：站在大牧场的开阔地平线上，她说自己喜欢那种「小」和「无足轻重」的感觉。
 **关键词**：sensation of vertigo, insignificant, healthy
 **为什么这样写**：把眩晕感先说成 not unpleasant，再立刻折成一句格言——感受被转成了对读者的建议。
-**读者视角提示**：记住「无足轻重」这个褒义用法；全书让她说话的那份本事，正是从这种旁观位置长出来的。
+**读者视角提示**：记住「无足轻重」这个褒义用法；她后来那套看人的本事，正是从这个旁观位置上长出来的。
 
 > **原句 3:** "I asked her if she’d like me to read her palm. I told her my mother and grandmother were well-known palm readers and implied I had the same skills."
 
 **中文理解**：放下茶杯的举动连她自己都吓一跳，于是谎称母亲与外婆都是有名的手相师，暗示自己也有同样的本事。
 **关键词**：read her palm, well-known palm readers, implied
-**为什么这样写**：三个动词递减——提议、撒谎、暗示，最后一个最弱也最心虚，暴露她自己也知道自己没有底。
-**读者视角提示**：implied 后面没有展开她到底暗示了什么，下一句马上跳到别的例子，这种跳正是心虚的表现。
+**为什么这样写**：三个动词一路弱下去——提议、撒谎、暗示，越往后越没有底，等于自己承认本事不够。
+**读者视角提示**：implied 后面没有展开她到底暗示了什么，下一句马上跳到别的例子，这种跳本身就说明了心虚。
 
 > **原句 4:** "I heard myself telling Suzanne, with absolute confidence, that her lifeline had nothing to do with the length of her life but with the richness of experiences that were in her future, and hers was deep, so there were many, many experiences ahead of her."
 
@@ -48,7 +48,7 @@ modified: "2026-09-30"
 **中文理解**：她说出那句从母亲那儿听来的断言，并解释这句话原本是说给谁听的。
 **关键词**：I see you leaving, soggy, balled-up handkerchiefs
 **为什么这样写**：前半是转述的母亲台词，后半转入带画面感的细节（湿透、揉皱的手帕），把一句商业话术还原成真实的哭泣现场。
-**读者视角提示**：Madame Mae 是她母亲的艺名式称呼；下一段紧接着写主妇们哭着问的那句，将来会在别处再出现。
+**读者视角提示**：Madame Mae 是她母亲的艺名式称呼；下一段紧接着写主妇们哭着问的那句，作者在此先把它立成一个反复出现的句式。
 
 > **原句 6:** "He was like a carpet salesman, unfurling rug after rug, each more exquisite than the last."
 
@@ -96,4 +96,4 @@ modified: "2026-09-30"
 | future | 未来 | As a child I never mimicked my mother or grandmother by pretending to read palms or see the future. |
 | purple curtain | 紫色帘子 | There was no door to the back veranda where Mum saw her customers, just a purple curtain which she drew to give the illusion of privacy. |
 
-## 一句话总结**：她用「数大袋鼠」这个不浪漫的开场把自己钉在不信的一边，可偏偏是那一次顺手替人读了手相，让她第一次尝到掌心的重量。
+## 一句话总结**：她用「数大袋鼠」这个不浪漫的开场把自己钉在不信的一边，可偏偏是那一次顺手替人读了手相，让她尝到了掌心的重量。

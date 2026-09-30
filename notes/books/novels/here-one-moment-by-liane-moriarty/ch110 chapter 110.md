@@ -33,7 +33,7 @@ modified: "2026-09-30"
 **中文理解**：父亲说更担心的是妹妹，该学防身的是她，把那些防身的东西给她。
 **关键词**：I worry more about your sister, should be arming herself, self-defence stuff
 **为什么这样写**：父亲的解决方案是物理性的，母亲的解决方案是性格性的，两句并置把「家人怎么面对预言」写成了两种互不相容的应对。
-**读者视角提示**：叙述者说本想引用 the statistics relating to the death of young adult males by assault versus females 却忍住了——这组数据没有被说出来，是本章最大的一处留白。
+**读者视角提示**：叙述者说本想引用 the statistics relating to the death of young adult males by assault versus females 却忍住了——这组数据最终没有被说出来。
 
 > **原句 4:** "She’ll be one of those friends who come in and out of his life, but she’s not for him."
 

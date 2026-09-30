@@ -39,15 +39,15 @@ modified: "2026-09-30"
 > **原句 4:** because it feels like you’re the one paying it. Not them. They’re getting off scot-free – back to stardust, or resting in peace with their heavenly Father, or rerouted to another body, whatever it is you believe – they’re the ones leaving, and you will be the one left behind.
 
 **中文理解**：她在这一段里写照护者的私心——明知早一点诊断本可以救下那个人，仍希望对方为自己的愚蠢付出代价。
-**关键词**：an earlier diagnosis would have saved them, it feels like you’re the one paying it, Not them, getting off scot-free, you will be the one left behind
+**关键词**：it feels like you’re the one paying it, Not them, getting off scot-free, you will be the one left behind
 **为什么这样写**：破折号里连列三种「免罪」的去处，把抽象的超脱写成清单；Not them 单独成句后，跟着的两个分句一主一宾，把付费的人和离开的人彻底分开。
 **读者视角提示**：这一段用的是一般现在时的 you，读者被直接写进去；紧接其后的几段仍用这个 you，直到她回到第一人称、开始讲自己收养的经历。
 
 > **原句 5:** That photo we received should have gone to Mr and Mrs David and Cheryl Smith, not Mr and Mrs David and Cherry Smith.
 
 **中文理解**：领养机构打来电话，说那张照片本来该寄给另一个人——两个名字只差一个字母。
-**关键词**：there had been a mix-up, should have gone to Mr and Mrs David and Cheryl Smith, not Mr and Mrs David and Cherry Smith
-**为什么这样写**：两个几乎一样的人名被完整重复，唯一变化落在那一个字母上；句子靠重复制造出错觉，读者必须读到句尾才发现被换掉的是什么。
+**关键词**：should have gone to Mr and Mrs David and Cheryl Smith, not Mr and Mrs David and Cherry Smith
+**为什么这样写**：两个几乎一样的人名被完整重复，真正的变化只落在那一个字母上；句子靠重复制造出错觉，读者必须读到句尾才发现被换掉的是什么。
 **读者视角提示**：本章把这份差错写成一个纯粹的巧合，并让对方在电话里追问「怎么会这么巧」——巧合被点了名，反而更让人不安。
 
 > **原句 6:** I felt compelled to throw a spring roll at him. I am not proud of that moment but I don’t regret it.

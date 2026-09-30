@@ -54,7 +54,7 @@ modified: "2026-09-30"
 
 **中文理解**：Lila 说随时可以打给她，她也一样想念 Harvey。
 **关键词**：Call him – call me – any time you feel like it, people are out there thinking of Harvey, Missing him too
-**为什么这样写**：两个破折号把死去的朋友与活着的妹妹摆成一对可替换的出口；Missing him too 四个字把单向倾诉改成双向的。
+**为什么这样写**：两个破折号把死去的朋友与活着的妹妹摆成一对可替换的出口；Missing him too 三个词把单向倾诉改成双向的。
 **读者视角提示**：他确实好了一些，并且立刻用「Carter 不会得意太久」把情绪收了回去。
 
 > **原句 7:** "Death and brutality in his own front yard."

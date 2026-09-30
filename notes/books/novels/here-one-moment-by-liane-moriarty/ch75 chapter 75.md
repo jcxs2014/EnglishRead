@@ -8,7 +8,7 @@ modified: "2026-09-30"
 ## 本章导航
 
 - **一句话概括**：机上那位「死亡女士」以第一人称回忆十八岁生日后三天：家里请木匠钉隔板，她去厨房倒水，正好撞见那个叫 Jack 的高个子年轻人伸出手，从此她认定那是一场非同寻常的事。
-- **叙事视角**：第一人称，讲述者就是那位老妇本人——本章是她视角的正式展开，也是全书里她唯一一次正面讲述自己的过去。
+- **叙事视角**：第一人称，讲述者就是那位老妇本人——本章从头到尾不切视角，是她一段完整的自述。
 - **场景与时间**：悉尼 Hornsby 一栋房子里，某个多云有风的星期六上午；时间是几十年前，她十八岁生日后第三天。
 - **人物弧线**：本章只写到「那一刻」，不写后果。开头她说「我一向不研究幽默的修辞」，结尾又用同样的话自我辩护，两次自我更正把她的叙述姿态先立住。
 - **叙事手法**：以「我以为你在夸张」开场又收尾，把自嘲做成框；用报刊广告式的介绍给 Jack 开场；结尾故意不说那件事是什么。
@@ -31,23 +31,23 @@ modified: "2026-09-30"
 
 > **原句 3:** Everyone I knew thought my studies were useless, like learning a language nobody spoke. Maths, by the way, is a language, I would argue a beautiful one, and it’s the only universal language there is, because it’s the same all over the world.
 
-**中文理解**：身边所有人都觉得她读的这门学问没用，像在学一门没人说的话。她插一句：数学就是一种语言，她愿意说是一门美的语言，而且是世上唯一普遍的语言，因为它到哪儿都一样。
+**中文理解**：身边所有人都觉得她读的这门学问没用，像在学一门没人说的话。她插一句：数学就是一种语言，她愿意说是一门美的语言，而且按她的说法是世上最普遍的一门语言，因为它到哪儿都一样。
 **关键词**：like learning a language nobody spoke, Maths, by the way, universal language
-**为什么这样写**：前一句是比喻（像学没人说的话），后一句用 Maths, by the way 硬生生转成断言。作者让比喻落地成论断，是本章里她唯一一次为一件抽象事争辩。
+**为什么这样写**：前一句是比喻（像学没人说的话），后一句用 Maths, by the way 硬生生转成断言。作者让比喻落地成论断，这在本章里是罕见的一次抬杠。
 **读者视角提示**：the only universal language 这句话会在后面被回收——她后来的职业正是数那些遍布全国的动物。
 
 > **原句 4:** Nineteen years old. Tall, lanky, but graceful in his lankiness. The most vulnerable of necks and the kindest of eyes. Jack was the tallest man who had ever entered our house, which meant that he was the first and only person to nearly bang his head on our mother-of-pearl hanging light fixture. He swerved his head in a nimble, sporty way as if he were changing direction in a rugby game.
 
-**中文理解**：那年他十九岁，又高又瘦，但瘦得好看：脖子最细，眼神最温和。他是高个子，进屋时头几乎要撞上那盏贝母吊灯，于是像打橄榄球变向那样灵活地一偏头躲开。
-**关键词**：Nineteen years old, lanky, graceful in his lankiness, the most vulnerable of necks
-**为什么这样写**：开头先给一个光秃秃的年龄短句，紧接着两个短句给身形，最后两个长句才给动作。Nineteen years old 后面是句号而不是逗号，读者必须在这里停一下。the most vulnerable of necks 用 of 结构把「最」交给被比较的那一项，不是她自己的判断。
+**中文理解**：那年他十九岁，又高又瘦，但瘦得好看：The most vulnerable of necks 是作者对他的评语，接着才是眼神最温和。他是高个子，进屋时头几乎要撞上那盏贝母吊灯，于是像打橄榄球变向那样灵活地一偏头躲开。
+**关键词**：Nineteen years old, lanky, graceful in his lankiness, The most vulnerable of necks
+**为什么这样写**：开头先给一个光秃秃的年龄短句，紧接着两个短句给身形，最后两个长句才给动作。Nineteen years old 后面是句号而不是逗号，读者必须在这里停一下。The most vulnerable of necks 用 of 结构把「最」交给被比较的那一项，不是她自己的判断。
 **读者视角提示**：这段的开场节奏完全照着介绍商品的方式写——先编号，再尺寸，再瑕疵。可写的是脖子最细、眼睛最温和，被写成「优点」的其实是弱点。
 
 > **原句 5:** ‘Of course I saw it! Blind Freddy could have seen it!’
 
-**中文理解**：木匠走后，母亲和 Pat 阿姨尖叫着跳起来，像少女片里的女孩子；Pat 阿姨说她当然看见了，瞎子弗雷迪都看得见。
-**关键词**：shrieked, Blind Freddy could have seen it
-**为什么这样写**：这两个女人是全书里唯一为这件事尖叫的人，而作者把她们的处理方式一律写成夸张的俗语。Blind Freddy 是个现成的澳洲玩笑，指「瞎子都看得见」。
+**中文理解**：木匠走后，母亲和 Pat 阿姨尖叫着跳起来，像少女片里的女孩子；其中一个问「你看见了吗？」，另一个立刻回「我当然看见了！瞎子弗雷迪都看得见！」
+**关键词**：Of course I saw it, Blind Freddy could have seen it
+**为什么这样写**：这一章里为这件事尖叫的只有这两个女人，而作者把她们的处理方式一律写成夸张的俗语。Blind Freddy 是个现成的澳洲玩笑，指「瞎子都看得见」。
 **读者视角提示**：从这段开始，叙述里的两人组就一直在替读者尖叫；而她们尖叫的对象，是她当年只看了一眼的那次握手。
 
 > **原句 6:** I note with interest that something similar happened to the world-famous ‘Crocodile Hunter’ Steve Irwin and his wife, Terri, on the day they met. I have seen interviews where they discussed that moment, and my experience with Jack was very similar to theirs, although obviously there were no crocodiles at our house in Hornsby.
@@ -61,7 +61,7 @@ modified: "2026-09-30"
 
 **中文理解**：但她相信，如果这种事发生在谁身上，谁都会懂。
 **关键词**：But I know, you will understand, ever happened to you
-**为什么这样写**：But 承接前一句的自我贬低，把话头扳回来。整句最重的词是 you——前面一直讲她自己的经历，这一句第一次把读者拖进当事人位置。
+**为什么这样写**：But 承接前一句的自我贬低，把话头扳回来。整句的分量落在 you 上——前面一直讲她自己的经历，这一句把读者拖进当事人位置。
 **读者视角提示**：她始终没有说出那件事到底是什么。整章的悬念不是「后来怎样」，而是「究竟是什么让你二十年还记得」。
 
 ## 本章词汇
@@ -74,11 +74,11 @@ modified: "2026-09-30"
 | fulfilling | 实现（愿望、梦想） | I was fulfilling my father’s dream for me. |
 | vulnerable | 脆弱的；易受伤的 | The most vulnerable of necks and the kindest of eyes. |
 | bell-bottomed | （牛仔裤）喇叭口的 | I wore blue bell-bottomed jeans, a tight blue and yellow–striped t-shirt, and silver hoop earrings. |
-| hyperbolic | 夸张的（hyperbole 的形容词） | Perhaps you think describing this incident as ‘extraordinary’ is hyperbolic language. |
+| hyperbolic | 夸张的；言过其实的 | Perhaps you think describing this incident as ‘extraordinary’ is hyperbolic language. |
 | acceptable | 可接受的 | The handshake lasted perhaps one or two seconds longer than socially acceptable. |
 | particular | 特定的；这一次 | Auntie Pat was over, she was over more often than not, but this time she was there for a particular purpose: Floating Shelves. |
 | shrieked | 尖声叫喊 | After he left, Mum and Auntie Pat shrieked and jumped about like girls in a teen movie. |
-| lankiness | 瘦高（lanky 的名词形式） | Tall, lanky, but graceful in his lankiness. |
+| lankiness | 瘦高；高挑 | Tall, lanky, but graceful in his lankiness. |
 
 ### ⭐⭐ 进阶
 

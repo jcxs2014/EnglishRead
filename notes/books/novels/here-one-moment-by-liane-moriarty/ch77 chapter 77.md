@@ -10,7 +10,7 @@ modified: "2026-09-30"
 - **一句话概括**：认识半年后，她对笃信天主教的祖母说自己爱 Jack 胜过爱上帝；这一章用蜜月期的野餐、冰洞游泳和一笔笔旧便条把那段日子摊开，结尾用一句「婚姻哪怕从里面看也是神秘的」把语气一下子降温。
 - **叙事视角**：第一人称回溯，说话的是 Cherry 本人。
 - **场景与时间**：几十年前，认识 Jack 之后的半年里，从 Avoca Beach 的冰洞那一段写到婚后生活；时间在本章后半被压成一整段推演。
-- **人物弧线**：她在这章里第一次承认自己当年并不知道自己不想生孩子——她只是把「让 Jack 把它变得可以忍受」当成前提。
+- **人物弧线**：她在这章里承认自己当年并不知道自己不想生孩子——她只是把「让 Jack 把它变得可以忍受」当成前提。
 - **叙事手法**：章内嵌一段作者直接对读者说话的安全提示（关于冰洞）；用旧便条的实物细节代替抒情；结尾用两句互相拆台的短句收束。
 
 ## 精读
@@ -19,7 +19,7 @@ modified: "2026-09-30"
 
 **中文理解**：认识六个月后，她发现自己有必要告诉那位笃信天主教的祖母：她爱 Jack Murphy 胜过爱上帝。
 **关键词**：Six months after we met, found it necessary, devout Catholic grandmother, more than God
-**为什么这样写**：find it necessary to do 这个说法把一件情感上的坦白写成了义务上的必要性。complicated 的成分在于 more than God——在笃信天主教的人家里，这句话的重量比在别处大得多。
+**为什么这样写**：found it necessary to inform 这个说法把一件情感上的坦白写成了义务上的必要性。分量重的是 more than God——在笃信天主教的人家里，这句话的重量比在别处大得多。
 **读者视角提示**：六个月后这三个字把关系的时间刻度定死了：本章写的是「早」，不是「后来」。祖母的反应也只有一句带过，作者不给她任何反驳的余地。
 
 > **原句 2:** Blowholes can be treacherous, and blowhole swimming can be deadly. Please don’t do it. Even if you are a young boy with shiny tanned shoulders and think you are capable of anything, you are not.
@@ -47,7 +47,7 @@ modified: "2026-09-30"
 
 **中文理解**：她说自己不知道 Jack 是否爱她胜过上帝，但她知道他爱她。那段时间的卡片和便条她都留着：他说她是「他的人」、说他「要把她永远留下」、说「他的心属于她」。他的字写得很好看。他的拼写不太好。
 **关键词**：I don’t know if, but I know he loved me, keeping me forever, His spelling was not the best
-**为什么这样写**：整段靠两组对照收尾：beautiful 与 not the best。把手写体同时当作深情证据和笑话证据，是本章里唯一的抒情位置。
+**为什么这样写**：整段靠两组对照收尾：beautiful 与 not the best。把手写体同时当作深情证据和笑话证据，是本章里最直接的一处抒情。
 **读者视角提示**：这张卡片读者永远看不到，只能通过「她留着」来确认它存在。这种写法让实物缺席，但情感在场。
 
 > **原句 6:** Marriage is a mysterious institution, even from the inside.
@@ -62,7 +62,7 @@ modified: "2026-09-30"
 **中文理解**：有时候，从里面看婚姻像一间布置得很软的低安保监狱。
 **关键词**：Sometimes, it can feel like, softly furnished, minimum security prison
 **为什么这样写**：softly furnished 和 minimum security 是同一句话里两组互相拆台的定语——柔软与低安保本来不该放在一处。The security 的措辞让这个词不只指门锁，也指人。
-**读者视角提示**：这句紧接着上一句，两个短句一稳一刺。作者不给结论，只给一个比喻；而这个比喻恰好是本章里唯一没有对应物件的句子。
+**读者视角提示**：这句紧接着上一句，两个短句一稳一刺。作者不给结论，只给一个比喻；而这个比喻恰好没有对应的物件。
 
 ## 本章词汇
 

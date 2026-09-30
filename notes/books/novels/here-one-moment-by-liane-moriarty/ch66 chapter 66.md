@@ -24,26 +24,26 @@ modified: "2026-09-30"
 
 > **原句 2:** "‘Sometimes,’ says the cousin. ‘Like if your circumstances change. Or if you make a different choice. My clairvoyant shows me different scenarios and it’s up to me to manifest the outcome I want.’"
 
-**中文理解**：对方说，有时候会，比如情况变了，或者你做了不同的选择；她的通灵者会摆出不同的情景，而最后实现哪一种，由 Paula 自己 manifest。
+**中文理解**：对方说，有时候会，比如情况变了，或者你做了不同的选择；她的通灵者会摆出不同的情景，而最后实现哪一种，由 Paula 自己挑。
 **关键词**：Sometimes, if your circumstances change, my clairvoyant shows me different scenarios, it’s up to me to manifest the outcome I want
 **为什么这样写**：对方的回答是一套万能挡箭牌：条件一用「情况变了」，条件二用「你选了别的路」，收尾还把主动权推给提问者——每一句都能对上任何追问，等于没有一句能被证伪。
-**读者视角提示**：记住这里的关键字 woo woo 那一段出现的 “different energy”——同样的招数她会再用一次。
+**读者视角提示**：注意这句的条件式挡箭牌——同样的招数本章还会再用一次，后面那句 “different energy” 就是它的翻版。
 
 > **原句 3:** "‘Right,’ says Paula. ‘It’s just that my baby boy can swim now. So I guess I just wondered if that would change her prediction? Like when you change your diet and get your cholesterol down, your doctor predicts you’ll live longer.’"
 
 **中文理解**：Paula 说：是这样的，我的小男孩现在会游泳了，所以我才想问问这会不会改变她的预言？就像你改了饮食、把胆固醇降下来，医生就会说你能活得更久。
 **关键词**：my baby boy can swim now, would change her prediction, get your cholesterol down, you’ll live longer
 **为什么这样写**：她用一个听起来非常讲道理的健康类比去求证玄学，作者却让对方立刻用一句更硬的数据把类比顶回去——「我的医生说饮食只占血液里胆固醇的两成左右」。挡她的人不是她笨，是她给的理由不够硬。
-**读者视角提示**：“clairvoyant” 这个健康类比是本章难得让 Paula 显得像在推理的段落；它一出现就被对方用更硬的数据顶回去，而她还得接着把问题问下去。
+**读者视角提示**：这个胆固醇类比是本章难得让 Paula 显得像在推理的段落；它一出现就被对方用更硬的数据顶回去，而她还得接着把问题问下去。
 
 > **原句 4:** "Different energy. All this woo woo language. It’s ridiculous."
 
 **中文理解**：不同的气场。全套这种玄乎说法。真是荒谬。
 **关键词**：Different energy, woo woo language, It’s ridiculous
-**为什么这样写**：全章最后一句仍是叙述者的吐槽，她把对方的术语整个念出来，念完再补一句判断；作者故意让「荒谬」出现在已经确认「非听不可」之后，于是读者的怀疑和她的行动之间留了一道缝。
+**为什么这样写**：全章最后一句仍是叙述者的吐槽，她把对方的术语整个念出来，念完再补一句判断；作者故意让这句吐槽停在「荒谬」上收尾，而紧跟着的两句会把它顶回来——读者和她之间因此留了一道缝。
 **读者视角提示**：本章最后两句把这句吐槽的漏洞补上——她心里清楚自己需要从那位女士嘴里听到答案，于是 woo woo 这种词眼挡不住她。
 
-## ## 本章词汇
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
@@ -72,6 +72,5 @@ modified: "2026-09-30"
 | baby boy | 男宝宝 | ‘It’s just that my baby boy can swim now. |
 | circumstances change | 情况变了 | ‘Like if your circumstances change. |
 | different energy | 不一样的气场 | Also, my clairvoyant says that sometimes you might just have a different energy on the day. |
-
 
 ## 一句话总结**：这一章是一通什么也没问到的电话：问的人想确认一件她不敢确认的事，答的人什么都能圆，而她接下来能做的只有「找到那个人」这一件事。

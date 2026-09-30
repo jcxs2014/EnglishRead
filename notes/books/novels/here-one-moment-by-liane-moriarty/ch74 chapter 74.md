@@ -26,7 +26,7 @@ modified: "2026-09-30"
 
 **中文理解**：离他三十岁生日还有十一天。生日落在星期一，而星期一是很不适合当重要生日的一天——尤其是当那可能是最后一次的时候。
 **关键词**：Eleven days, thirtieth birthday, shit day, my last
-**为什么这样写**：全章叙述都用第三人称 he，句子的主语却是无人的祈使式短句（Eleven days until…）。紧接着 especially if it’s my last 里，人称突然从 he 掉成 my——作者让主角在内心闪回自己时不做任何提示，这是自由间接引语最干净的用法。
+**为什么这样写**：全章叙述都用第三人称 he，句子的主语却是无人的祈使式短句（Eleven days until…）。紧接着 Especially if it’s my last 一句里，人称突然从 he 掉成 my——作者让主角在内心闪回自己时不做任何提示，这是自由间接引语最干净的用法。
 **读者视角提示**：注意从 he 到 my 的那次切换。整章的恐惧都靠这一处人称泄漏，读到后面会发现「他」和「我」在这本书里从来不是同一层。
 
 > **原句 3:** These morbid thoughts are like pop-up ads and he can’t seem to access the right security software for his brain to stop them appearing, even though he truly believes himself to still be unconcerned and sceptical.
@@ -54,14 +54,14 @@ modified: "2026-09-30"
 
 **中文理解**：当 Carter 小心地问他，既然朋友刚走，这是不是反而让你感激死的不是自己，Ethan 回答：不，只是让他难过，那个人是他朋友。
 **关键词**：No, said Ethan, sad, it was him
-**为什么这样写**：全句只有五个词不到，用一个单独的 No 先把对方的整套逻辑挡回去，再给一个 it 只是让……这样「不充分」的答案。it just makes me sad 把「感激自己活着」这种更大的命题降级成一件小事。
+**为什么这样写**：整句压到最短：用一个单独的 No 先把对方的整套逻辑挡回去，再给一个 it 只是让……这样「不充分」的答案。It just makes me sad 把「感激自己活着」这种更大的命题降级成一件小事。
 **读者视角提示**：Ethan 的诚实是本章里最沉的一笔。他不打算把死亡变成教训，Harvey 死了在他这里只等于失去一个朋友。
 
 > **原句 7:** It actually is quite beautiful.
 
 **中文理解**：他隔了一会儿才承认：其实确实挺美的。
 **关键词**：It actually is, quite beautiful
-**为什么这样写**：actually 是全句唯一的新信息，it actually is 把前面那句客气的附和翻过来。句子很短，句号前面几乎什么都没加。
+**为什么这样写**：actually 一词是全句的新信息，It actually is 把前面那句客气的附和翻了过来。句子很短，句号前面几乎什么都没加。
 **读者视角提示**：首句那棵樱花树是别人指给他看的，末句这句是他自己说的——同一个词，从应酬变成承认。
 
 ## 本章词汇
@@ -98,10 +98,10 @@ modified: "2026-09-30"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | thirtieth birthday | 三十岁生日 | Eleven days until his thirtieth birthday. |
-| abundant froth | 繁密的一团（froth 指泡沫，这里形容花团） | She points through the window at the abundant froth of pale pink flowers. |
+| abundant froth | 繁密的一团（原指泡沫，这里用来形容花团） | She points through the window at the abundant froth of pale pink flowers. |
 | gold coin | 金币 | It was a gold coin he ‘carries everywhere’ inscribed with the words Memento Mori, which means ‘Remember Death’. |
 | material world | 物质世界 | The idea, she went on, was to help you lose your attachment to the material world. |
 | big head | 自大；翘尾巴 | ‘So that the dude didn’t get a big head,’ explained Carter. |
 | ancient philosophy | 古老的哲学 | One of his poker buddies has got Carter into ‘the ancient philosophy of Stoicism’. |
 
-## 一句话总结**：本章把整章关在一班公交里，靠两端重复的「美」把中段兜住——中段是数倒计时、回忆被追杀的中学往事、和一群把「快死了」当社交谈资的室友；Ethan 唯一没有配合演出的地方，是他说死亡只让他难过，不让他感激。
+## 一句话总结**：本章把整章关在一班公交里，靠两端重复的「美」把中段兜住——中段是数倒计时、回忆被追杀的中学往事、和一群把「快死了」当社交谈资的室友；Ethan 没有配合演出的地方，是他说死亡只让他难过，不让他感激。

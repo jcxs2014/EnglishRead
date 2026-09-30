@@ -25,15 +25,15 @@ modified: "2026-09-30"
 > **原句 2:** "After their dinner, she’d felt a weight lift. Knowing she had the forms to do the tests somehow meant she didn’t need to actually do them."
 
 **中文理解**：拿到转诊单反而让她轻松，好像只要手续齐全，检查本身就可以不做。
-**关键词**：a weight lift, somehow meant, had come to seem absurd
-**为什么这样写**：作者用 somehow 把这种自我安慰的性质点破——知道该做什么带来的安心，和真的去做之间隔着一层；concerns 变成 absurd 用了完成时态，像一个已经结束的阶段。
+**关键词**：a weight lift, somehow meant, actually do them
+**为什么这样写**：作者用 somehow 把这种自我安慰的性质点破——知道该做什么带来的安心，和真的去做之间隔着一层；这一段之后 concerns 就变成 absurd 了，某个阶段被作者当成已经结束。
 **读者视角提示**：这三句是全章的前状态；下面电话一来，这个「荒唐」的判断就要被检验了。
 
 > **原句 3:** "‘It’s a girl. Seems like she was on your flight,’ says Caterina. ‘It’s . . . distressing. I’m surprised it hasn’t been taken down yet.’"
 
 **中文理解**：对方先给性别，再给「好像和你同一班飞机」，然后说视频的内容让人难受。
-**关键词**：It’s a girl, seems like she was on your flight, hasn’t been taken down yet
-**为什么这样写**：三个短句的信息密度逐级上升，句号把「是个女孩」与「和你同机」切成两块；那一串被拉长的省略号，全章只出现这一次，也是全章唯一一次让对方说不下去。
+**关键词**：It’s a girl, on your flight, hasn’t been taken down yet
+**为什么这样写**：三个短句的信息密度逐级上升，句号把「是个女孩」与「和你同机」切成两块；那一串被拉长的省略号，全章只出现这一次，也正是在这里让对方说不下去。
 **读者视角提示**：「还没被下架」意味着内容正在扩散——这解释了为什么这通电话打得急。
 
 > **原句 4:** "‘It’s probably just a coincidence,’ says Caterina. ‘Like Nostradamus getting lucky.’"
@@ -74,12 +74,14 @@ modified: "2026-09-30"
 | vibrating | 震动 | Now Sue’s phone is buzzing and vibrating like a child’s toy. |
 | buzzing | 嗡嗡响；震动 | Now Sue’s phone is buzzing and vibrating like a child’s toy. |
 | muffled | 被捂住而含糊的 | ‘Just one moment,’ says Caterina, her voice muffled. |
+| referrals | 转诊单 | Is Caterina annoyed with her for wasting her time writing out the referrals? |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| referrals | 转诊单 | Is Caterina annoyed with her for wasting her time writing out the referrals? |
+| plastic | 塑料的 | Someone approaches the avocadoes with a determined expression, and Sue steps aside, kicking her plastic shopping basket across the floor. |
+| floor | 地板 | Someone approaches the avocadoes with a determined expression, and Sue steps aside, kicking her plastic shopping basket across the floor. |
 | coincidence | 巧合 | ‘It’s probably just a coincidence,’ says Caterina. |
 | dinner | 晚餐 | After their dinner, she’d felt a weight lift. |
 | child | 孩子 | Now Sue’s phone is buzzing and vibrating like a child’s toy. |

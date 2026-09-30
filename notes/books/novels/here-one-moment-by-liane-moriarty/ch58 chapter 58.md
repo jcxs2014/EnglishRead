@@ -53,9 +53,9 @@ modified: "2026-09-30"
 > **原句 6:** "Paula has been so obsessively worried about Timmy that she has not given a thought to anyone else on the same flight who also received a scary prediction."
 
 **中文理解**：她承认自己只顾着自家的孩子，从没想过同一班飞机上还有别人收到过吓人的预言。
-**关键词**：not given a thought to anyone else, scary prediction, easy to be cool and rational
-**为什么这样写**：前半句先认自己的偏心，后半句给出更冷的判词——事情发生在别人身上时才容易理性；两句连起来是本章的转折，也是 Paula 立刻想通的那件事。
-**读者视角提示**：这一段的末句已经写明她打算怎么做——联系女孩、告诉她不必担心；但视频没有给她这个机会。
+**关键词**：not given a thought to anyone else, scary prediction, given a thought
+**为什么这样写**：前半句先认自己的偏心，把同机的人整个排在了注意力之外；这一段的末句已经写明她打算怎么做——联系女孩、告诉她不必担心，但视频没有给她这个机会。
+**读者视角提示**：同一段的后半截已经写明她打算怎么做——联系女孩、告诉她不必担心，但视频没有给她这个机会。
 
 > **原句 7:** "The other car appears like the sudden leaping snarling attack of an animal."
 

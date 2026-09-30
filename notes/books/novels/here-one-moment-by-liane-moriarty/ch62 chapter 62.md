@@ -17,10 +17,10 @@ modified: "2026-09-30"
 
 > **原句 1:** "‘It’s only money, babe,’ says Dom when he finds Eve crying, her phone pressed to her collarbone."
 
-**中文理解**：丈夫进门的第一句话就把她的哭归到钱上，用最日常的口吻把一件大事说成小事，还顺手追问是不是又有一张账单要付。
+**中文理解**：丈夫进门的第一句话就把她的哭归到钱上，用最日常的口吻把一件大事说成小事。
 **关键词**：only money, finds Eve crying, phone pressed to her collarbone
-**为什么这样写**：开场就把「钱」摆在读者面前，让人以为这就是本章的主题；作者随后用整整一段电费与暖气把这个方向作废：“It’s a cold day and they’re trying to save money by not turning on the heating because every volt of electricity, or whatever you call it, costs so much.”。而引语末尾把哭这个动作钉在 “her phone pressed to her collarbone” 上——读者先看见身体，再听见理由。
-**读者视角提示**：这句末尾的追问不是闲笔，后面那段关于电费的说明正是对它的回答；两处一前一后，中间隔着的正是她说不出口的那件事。
+**为什么这样写**：开场就把「钱」摆在读者面前，让人以为这就是本章的主题；作者随后用整整一段电费与暖气把这个方向作废（“It’s a cold day and they’re trying to save money by not turning on the heating because every volt of electricity, or whatever you call it, costs so much.”）。而引语末尾把哭这个动作钉在 “her phone pressed to her collarbone” 上——读者先看见身体，再听见理由。
+**读者视角提示**：这一句先搭好一个日常的解释框架；后面那段关于电费的说明会把它彻底作废，而两处之间隔着的，正是她说不出口的那件事。
 
 > **原句 2:** "She has played the video at least five times, as if hoping something different will happen. It feels like her heart is breaking and she doesn’t know this girl, so her heart has no right to break!"
 
@@ -43,7 +43,7 @@ modified: "2026-09-30"
 **为什么这样写**：全章以一句没有引号标记的内心话收尾，stupid 连着出现两次；重复不是为了骂得响，而是让读者看见她生气的原因——她刚说过自己的心「没有权利」碎掉。
 **读者视角提示**：这句里先写他看、再写她看，到后半句才分出第三个人称，转成她在心里骂自己；本章所有没说出口的东西，最后都收在这里。
 
-## ## 本章词汇
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
@@ -70,6 +70,5 @@ modified: "2026-09-30"
 |---|---|---|
 | face | 脸 | He watches the video and she watches his face, and then she thinks to herself, Oh, Eve, you stupid, stupid girl. |
 | phone | 手机 | Dom takes the phone. |
-
 
 ## 一句话总结**：本章把一场哭拆成两半——丈夫那半被归给钱，她那半被归给「我跟她不熟凭什么难过」，最后她自己把这笔账算到了自己头上。

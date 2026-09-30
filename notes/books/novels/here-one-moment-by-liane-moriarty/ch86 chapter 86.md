@@ -27,7 +27,7 @@ modified: "2026-09-30"
 **中文理解**：照片毫无意义，却因为太像他会发的东西，笑到一半变成哭，一路哭到洗澡刮脸。
 **关键词**：meaningless blurry close-up, bursts into tears, when will this be DONE
 **为什么这样写**：句子把笑与哭连成一个动作链，末了冒出一句粗口问句，把悲伤降格成一件待办事项。
-**读者视角提示**：DONE 三个字母大写，是他难得认真问一次自己什么时候能翻篇。
+**读者视角提示**：DONE 四个字母大写，是他难得认真问一次自己什么时候能翻篇。
 
 > **原句 3:** "All the women on his team give him gifts with which to protect himself in a fight: a self-defence keychain with a ‘super loud’ personal alarm, a pepper spray in its own leather pouch, and something called a ‘multi-function stealth knife’."
 

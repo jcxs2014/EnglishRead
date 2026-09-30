@@ -24,9 +24,9 @@ modified: "2026-09-30"
 
 > **原句 2:** We’d been the same height and build for many years, but our hugs had always been of a parent and child. I had always leaned towards her. Now for the first time it was as though I was taking her in my arms.
 
-**中文理解**：两个人身高体型一直一样，拥抱的姿势却第一次调了个方向：从前是女儿靠着母亲，现在像是母亲被抱在女儿怀里。
+**中文理解**：两个人身高体型一直一样，拥抱的姿势却忽然调了个方向：从前是女儿靠着母亲，现在像是母亲被抱在女儿怀里。
 **关键词**：the same height and build, our hugs had always been of a parent and child, I had always leaned towards her, taking her in my arms
-**为什么这样写**：三个分句一路用过去时把旧姿势写死，再用 Now for the first time 引出唯一一次例外；整段没有一个形容词写病，只靠姿势的方向变化说话。
+**为什么这样写**：三个分句一路用过去时把旧姿势写死，再用 Now for the first time 引出这处例外；整段没有一个形容词写病，只靠姿势的方向变化说话。
 **读者视角提示**：这个身体细节紧接在一段瘦削、病态的外形描写之后——外形是母亲自己撑着的，姿势是女儿才发现的。
 
 > **原句 3:** Of course, we didn’t know what we didn’t know. We didn’t know many of the Korean children adopted at this time were not orphans at all.
@@ -34,7 +34,7 @@ modified: "2026-09-30"
 **中文理解**：叙述者用一整段替当年的自己补上当时不知道的事：当时被领养的孩子里有很大一部分并不是孤儿。
 **关键词**：we didn’t know what we didn’t know, We didn’t know many of the Korean children, were not orphans at all
 **为什么这样写**：标题式的短句 we didn’t know what we didn’t know 先承认双重无知，再由三个并列的 We didn’t know 把这份无知拆成清单；句式的重复让「当年的我们」显得整齐又无知。
-**读者视角提示**：这是全章唯一由后见之明插入的一段，接在一家人兴致勃勃的讨论之后；读者的不适感来自时序，不来自任何一句评论。
+**读者视角提示**：这是全章少有的、由后见之明插入的一段，接在一家人兴致勃勃的讨论之后；读者的不适感来自时序，不来自任何一句评论。
 
 > **原句 4:** It was as I’d always suspected, Madame Mae was simply a mirror, reflecting back whatever her customers so obviously wanted to hear. An untrained therapist who spoke in generalisations.
 
@@ -105,4 +105,4 @@ modified: "2026-09-30"
 | castle | 城堡 | Glinting diamonds in the sunlight, and you see the spires of a castle, and you’re laughing with somebody who makes you happy, and you . . . oh, that’s gone . . . let me see . . . |
 | silly diets | 那些愚蠢的节食 | The silly diets had not been the cause of her digestive problems. The silly diets had masked the true cause. |
 
-## 一句话总结**：这一章把一次告别写成一场完整营业——换装、灯光、录音、报价，一样不缺；而在那套流程中间，第一次说出真正要命的句子的是母亲，说完之后她照旧收钱、照旧微笑，两个数字则是本章唯一由别人给出的答案。
+## 一句话总结**：这一章把一次告别写成一场完整营业——换装、灯光、录音、报价，一样不缺；而在那套流程中间，真正要命的那句话出自母亲，说完之后她照旧收钱、照旧微笑，两个数字则是本章由别人给出的答案。

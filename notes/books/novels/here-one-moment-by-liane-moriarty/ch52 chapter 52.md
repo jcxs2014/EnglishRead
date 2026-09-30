@@ -47,14 +47,14 @@ modified: "2026-09-30"
 
 **中文理解**：蜜月夜里 Dom 查完资料后对她说的话，语气从恐慌退到一种认命式的体贴。
 **关键词**：Forget the psychic, we should be aware, hurt you in my sleep
-**为什么这样写**：两个分句一路降级，从「别管那个算命的」到「我们心里有数就行」；他把一件超自然的事处理成了家庭安全议题。
+**为什么这样写**：Forget the psychic 之后紧跟的 we should be aware 一路降级，从「别管那个算命的」到「我们心里有数就行」；他把一件超自然的事处理成了家庭安全议题。
 **读者视角提示**：她紧接着的回应分两层：先说「你不会杀我」，再说「我根本不信通灵师」——两层否认叠在一起。
 
 > **原句 6:** "‘I know,’ said Dom’s dad sadly. ‘They don’t know what they don’t know.’"
 
 **中文理解**：订婚派对上 Dom 的父亲对 Eve 的母亲说的话；前半句是应和，后半句才是重点。
 **关键词**：sadly, They don’t know what they don’t know
-**为什么这样写**：同一个分句在相邻两句话里各说一遍，第二遍把「不知道」从一种状态改成「对自己不知道这件事的无知」——语义在重复里翻了一层。
+**为什么这样写**：they don’t know what they don’t know 这一句里 don’t know 出现两次，第二次把「不知道」从一种状态改成「对自己不知道这件事的无知」——语义在重复里翻了一层。
 **读者视角提示**：下一段 Eve 反问「那他们为什么不直接告诉他们」——这句反问把两代人的判断悬在半空，本章不给答案。
 
 > **原句 7:** "‘I smashed the car on the way home,’ says Dom. He sits down heavily on the bed. There is no colour in his face. ‘And I think I forgot to pay the car insurance.’"
