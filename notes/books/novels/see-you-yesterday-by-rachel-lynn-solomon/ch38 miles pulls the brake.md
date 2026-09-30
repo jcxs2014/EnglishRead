@@ -99,7 +99,7 @@ modified: "2026-09-30"
 | unmistakable | 不可能认错的、 unmistakable（un- + mistake 弄错 + -able：无法被误认的） | It’s gray and dark and deathly quiet, with an unmistakable chill in the air, though it should be warm with all that machinery. |
 | floundering | 手忙脚乱、把人做砸（flounder 挣扎 + -ing，本章指她又要在采访里搞砸） | I’ve never nailed this interview, and I don’t want to risk screwing anything up by floundering again. |
 | guiltiest | 最内疚的（guilt 内疚 + -iest，最高级修饰目光） | I even return my pasta bowls to the dining hall, giving the woman working the dishwasher my guiltiest look and about a dozen sorrys before handing them over. |
-| summoning | 鼓起、召唤（sum- 总 + -mon 警告 → 召集；此处 summon the courage 攒起勇气） | He nods, as though summoning the courage for what he says next. |
+| summoning | 鼓起、召集（sum- 总 + -mon 警告 → 召集；原文作 "summoning the courage"） | He nods, as though summoning the courage for what he says next. |
 | haphazard | 随意乱来的（hap 运气 + hazard 冒险 → 全靠运气） | She nods, mouth half-open, tucking a strand of gray hair into that haphazard bun. |
 
 ### ⭐⭐ 进阶
@@ -111,7 +111,7 @@ modified: "2026-09-30"
 | conclusion | 结论（conclude 结束 + -ion，本章 Miles 抵达的「结论」） | Maybe, finally, arriving at a conclusion. |
 | sophomore | 大学二年级生（sophom 聪明 + -ore，指大一之后那一年） | It wouldn’t be the worst thing, I decide, if I don’t get on the Washingtonian until sophomore year, and maybe I’ll be so overcome with the joy of making it to Thursday that it won’t feel like something is missing. |
 | startling | 吓人的、惊人的（startle 惊 + -ing，颈侧那一下热度） | His mouth drops to the side of my neck for just a moment, the sensation a startling shot of warmth in this cold metal box. |
-| assessing | 评估、考察（assess 评定 + -ing，assess the inner workings 的评鉴义） | Come to think of it, I haven’t spent much time in general assessing the inner workings of an elevator, but here we are. |
+| assessing | 评估、考察（assess 评定 + -ing，原文作 "assessing the inner workings" 的评鉴义） | Come to think of it, I haven’t spent much time in general assessing the inner workings of an elevator, but here we are. |
 | explaining | 解释、说明（explain 解释 + -ing） | We’ve just finished explaining our predicament to her—again. |
 | maintenance | 维护、保养（maintain 维持 + -ance，维修工专用的那部电梯） | Probably only used by maintenance workers and kids trying to get out of time loops. |
 | convinced | 确信的（convince 说服 + -ed，convinced I hear a clock ticking 的语法游戏） | I’m convinced I hear a clock ticking somewhere in the library, until it grows louder and louder and I realize it’s my own heart. |

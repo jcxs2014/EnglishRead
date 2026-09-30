@@ -118,7 +118,7 @@ modified: "2026-09-30"
 | draftiness | 穿堂风（draft + -i + -ness） | It’s eerie enough to send a shiver down my spine that isn’t just the draftiness of the library. |
 | helpfully | 热心地（helpful + -ly） | She gestures at me to go ahead, and so I accept the notebook and pen Miles has so helpfully presented to me and start up my recording app. |
 | smoothness | 流利（smooth + -ness） | “Right, of course,” I say, working some smoothness into my voice. |
-| springing | spring「弹出」+ -ing；此处 spring this on me 指 Miles 事先抛给她一套说法 | With a few lifts of my eyebrows, I try to communicate to Miles that I will punish him with a thousand irritating questions about time travel later for springing this on me. |
+| springing | spring「弹出」+ -ing；原文作 "springing this on me"，指 Miles 事先抛给她一套说法 | With a few lifts of my eyebrows, I try to communicate to Miles that I will punish him with a thousand irritating questions about time travel later for springing this on me. |
 | interviewing | 采访（interview + -ing） | And not just on my feet, but on bare feet walking over shards of glass, depending on who I’m interviewing. |
 
 ### ⭐ 基础

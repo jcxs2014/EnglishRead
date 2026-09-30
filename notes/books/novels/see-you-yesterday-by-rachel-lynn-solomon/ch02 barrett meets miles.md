@@ -111,7 +111,7 @@ modified: "2026-09-30"
 | tinkering | 摆弄、鼓捣（tinker 名词「补锅匠」+ -ing） | The professor is tinkering with a cluster of cables behind the podium. |
 | thoroughly | 彻底地、十足地（thorough 的副词） | Even the floppy collar of his plaid red flannel looks thoroughly annoyed by me. |
 | unblinking | 不眨眼的、毫不闪避的（un- + blinking） | His face scrunches in this strange way, dark eyes unblinking. |
-| accumulate | 累积、积攒（此处「accumulate sweat」） | I climb three flights of steep stairs and accumulate three times more sweat than I’d like before reaching the newsroom on the top floor. |
+| accumulate | 累积、积攒（原文作 "accumulate three times more sweat"） | I climb three flights of steep stairs and accumulate three times more sweat than I’d like before reaching the newsroom on the top floor. |
 | unseasonably | 反常地、不合季节地（un- + seasonably） | My phone tells me it’s seventy-five degrees outside, unseasonably warm for late September in Seattle. |
 | insinuating | 暗示的、意味深长的（insinuate 的形容词形式） | “I don’t know what I did to offend you, aside from gently insinuating that I am not in love with physics, but there’s a seventy percent chance my roommate is going to slip Nair into my shampoo later, so it’s been a bit of a rough day. |
 | housekeeping | 内务、家务（house + keeping，此处指课程里的杂务通知） | “Moving on to some basic housekeeping: this university has a zero-tolerance policy for plagiarism….” |

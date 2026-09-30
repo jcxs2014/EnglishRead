@@ -117,7 +117,7 @@ modified: "2026-09-30"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| adorned | 装饰着（adorn + ed，此处「bulletin board adorned with」） | It’s adorned with Finding Nemo cutouts and study tips. |
+| adorned | 装饰着（adorn + ed，原文作 "adorned with Finding Nemo cutouts"） | It’s adorned with Finding Nemo cutouts and study tips. |
 | cutouts | 剪贴画（cut + out + s，此处 Finding Nemo） | It’s adorned with Finding Nemo cutouts and study tips. |
 | lettered | 写字（letter + ed，此处门上贴名字） | On my door, my name was bubble-lettered onto a green Sour Patch Kid. |
 | knuckling | 攥紧（knuckle + ing） | It’s only when I’m back in my room, white-knuckling my remaining shreds of sanity and focusing all my energy on box-breathing my way into September 22, that something hits me. |

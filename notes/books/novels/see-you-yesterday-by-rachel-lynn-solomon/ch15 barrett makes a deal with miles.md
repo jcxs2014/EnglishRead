@@ -127,7 +127,7 @@ modified: "2026-09-30"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| breakfast | 早餐（此处作动词用：eat logic for breakfast） | We can’t use logic to solve something illogical, and Miles eats logic for breakfast with a side of whole-grain critical thinking. |
+| breakfast | 早餐（此处作动词用） | We can’t use logic to solve something illogical, and Miles eats logic for breakfast with a side of whole-grain critical thinking. |
 | shoulders | 肩膀（shoulder + s） | Her shoulders go rigid when she sees me, and she swipes a hand across her face. |
 | elevators | 电梯（elevator + s） | Back in Olmsted, all four elevators are at the top floors, and because they take forever to get back down, I opt to trudge up the nine flights of stairs instead. |
 | highlighter | 荧光笔（highlight + -er） | Halfheartedly, he drags a highlighter through a sentence in his book. |
