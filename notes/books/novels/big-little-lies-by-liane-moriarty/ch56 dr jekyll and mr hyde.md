@@ -11,11 +11,11 @@ modified: "2026-09-30"
 
 **情感弧线位置**：Celeste 线的「清醒极点」——Susi 的警告（结束关系后最危险）第一次被她真正听进去；两道死亡算术让「跷跷板」与「不算糟」全部作废。
 
-**Tropes 兑现/反转**：双面人谜题（Jekyll and Hyde）；「最危险的时刻」的警告学（after she ends the relationship）；「 escape plan is a joke」的规划破产。
+**Tropes 兑现/反转**：双面人谜题（Jekyll and Hyde）；「最危险的时刻」的警告学（after she ends the relationship）；「no escape plan」的那句规划破产。
 
 **人物弧线**：Celeste 的「震惊」完成最后一次自我解剖（每个受害者都以为自己是最意外的那个）；Perry 的「照护模式」与暴力模式无缝切换（帮老婆请假、说是「生病了」）。
 
-**叙事手法**：窗与海的构图（他拉开窗帘让她看海）——买房的浪漫记忆与床上的淤青记忆叠印；两段「If she left / If she stayed」的排比给全书家暴线立起终极公式。
+**叙事手法**：窗与海的构图（他拉开窗帘让她看海）——买房的浪漫记忆与床上的淤青记忆叠印；两段「If she left…」与「If she stayed…」的排比给全书家暴线立起终极公式。
 
 **内容提示**：本章涉及家暴致死风险的讨论，聚焦幸存者心理与风险评估。
 

@@ -11,7 +11,7 @@ modified: "2026-09-30"
 
 **情感弧线位置**：凶案的第一道物理冲突落地——泼酒事件的「叙事权战争」（怎么发生的）比事件本身更凶； Bonnie 的「roughness」（磨出来的粗粝）第一次显声。
 
-**Tropes 兑现/反转**：泼酒罗生门（the Rashomon cocktail）；「原谅的健康益处」的布道撞墙；时尚的阶级学（真赫本 vs 无家可归风）。
+**Tropes 兑现/反转**：泼酒罗生门（同一事件四种说法）；「原谅的健康益处」的布道撞墙；时尚的阶级学（真赫本 vs 无家可归风）。
 
 **人物弧线**：Madeline 的「bugger niceness」（今晚不做好人）是她的引爆声明；Bonnie 的「Nathan left you fifteen years ago」与 roughness 撕开她的纸片人设一条缝；Harper 的「我看见了！」为访谈体的立场学盖章。
 

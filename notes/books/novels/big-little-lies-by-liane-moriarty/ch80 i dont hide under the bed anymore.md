@@ -11,7 +11,7 @@ modified: "2026-09-30"
 
 **情感弧线位置**：全书的救赎线抵达——Bonnie 从「纸片人」变成「幸存者」；她的自白反向为 Celeste 的沉默解除义务；两个女人的联盟从「共谋」升级为「各自作证」。
 
-**Tropes 兑现/反转**：千层面的橄榄枝（the casserole olive branch）；「床底下」意象的闭环（童年躲藏→今晚不再躲）；告解的语法（I'm a good liar→I'm not hiding anymore）。
+**Tropes 兑现/反转**：千层面的橄榄枝（the casserole olive branch）；「床底下」意象的闭环（童年躲藏→今晚不再躲）；告解的语法（从「I’m a good liar」到「I don’t hide under the bed anymore」）。
 
 **人物弧线**：Bonnie 的 roughness 完成整合（不再分裂）；Celeste 承认自己「能撒谎」的坦白第一次成为爱的证明；双胞胎当重量砝码的体感（boys as heavy weights）完成母职主题的最柔一稿。
 

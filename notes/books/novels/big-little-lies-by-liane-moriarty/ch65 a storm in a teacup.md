@@ -9,7 +9,7 @@ modified: "2026-09-30"
 
 **一句话概括**：案发前八小时——雨下疯了，Jane 把 Ziggy 送去外婆家后陷入「疯狂乐观症」：Max 的真相会让请愿悄悄消失、也许还有人会道歉、茶杯里的风暴而已；后视镜里的新短发让她五年来第一次「不带分析地」喜欢镜子里的自己；她冲进雨里跑向 Blue Blues——一个已经像家的地方。访谈体无。
 
-**情感弧线位置**：全书最温柔的暴风雨前——乐观、短发、归属感同时到账；「Rich, beautiful people aren't asked to leave」的预言将在今夜接受最残酷的检验。
+**情感弧线位置**：全书最温柔的暴风雨前——乐观、短发、归属感同时到账；「Rich, beautiful people weren’t asked to leave anywhere」那句预言将在今夜接受最残酷的检验。
 
 **Tropes 兑现/反转**：变身后的第一次亮相（the new self）；疯狂乐观症的病理自白（Maybe I've won a car!）；「茶杯风暴」的著名误判。
 
