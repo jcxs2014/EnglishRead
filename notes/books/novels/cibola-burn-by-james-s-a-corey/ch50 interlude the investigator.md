@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 **关键词： **the tool for finding what is missing, All the rest is artifact, half-fondness half-contempt, Extraneous. Meaningless
 
-**为什么这样写： **整章是 Miller 的遗产生物清单，而清单的判词在最冷的一句：Extraneous. Meaningless. 一行一个词地否定人的全部遗产（酒、帽子、记忆、幽默、爱、思乡）——宣告"人味"是机器不承认的残次品。作者把 Miller 穷尽一生积累的人性（Julie、Talissa、Roc在iline 家、Cibola 的家）压缩成"artifact"（人工制品/遗物），与全书的造门遗迹同一分类。对照 ch49 他在雨里"拍了拍 Amos 的肩"——那一拍在清单上被列为"多余"，却即将在余下章节决定一艘船和一个星球的存亡。
+**为什么这样写： **整章是 Miller 的遗产生物清单，而清单的判词在最冷的一句：Extraneous. Meaningless. 一行一个词地否定人的全部遗产（酒、帽子、记忆、幽默、爱、思乡）——宣告"人味"是机器不承认的残次品。作者把 Miller 穷尽一生积累的人性（Julie、Talissa、Rocinante 的家、已化为烂泥球的 Ilus）压缩成"artifact"（人工制品/遗物），与全书的造门遗迹同一分类。对照 ch49 他在雨里"拍了拍 Amos 的肩"——那一拍在清单上被列为"多余"，却即将在余下章节决定一艘船和一个星球的存亡。
 
 **读者视角提示： **"多余"与"无意义"是本书关于人性成本的判词，也预告 Miller 将被关闭（工具完成使命即废弃）。记住这张清单：它每一项都将在 ch51–54 兑现成行动——清单为遗嘱，行动为验证。
 
