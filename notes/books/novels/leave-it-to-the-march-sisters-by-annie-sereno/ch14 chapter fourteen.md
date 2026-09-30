@@ -11,7 +11,7 @@ modified: "2026-09-30"
 - **情感弧线位置**：转折（工作与朋友两场戏都顺，末段却一步步逼近他对 Amy 的真实态度）
 - **Tropes 兑现/反转**：bromance 的对照实验——Lando 的直球求婚与 Theo 的闪躲并置；并让他俩想撮合的相亲话题替他做了一半上回他不敢做的事。
 - **人物弧线**：他先向朋友交底（父母当年就算找过咨询师也无济于事，并承认包括对自己的伤害），再承认自己总在修补坏掉的东西是出于同一种原因；章末他把这判断落到 Amy 身上。
-- **叙事手法**：**第三人称限知（Theo 视角；全书 8 章 Theo 视角：ch05/08/12/14/17/24/28/36）**；全章在包间与店外长椅之间切换，Lando 与 Stella 的斗嘴充当过场；末段转为直接对着读者的内心独白。
+- **叙事手法**：**第三人称限知（Theo 视角；全书 9 章 Theo 视角：ch05/08/12/14/17/22/24/28/36）**；全章在包间与店外长椅之间切换，Lando 与 Stella 的斗嘴充当过场；末段转为直接对着读者的内心独白。
 
 ## 精读
 
@@ -19,7 +19,7 @@ modified: "2026-09-30"
 **中文理解**：爱是我们离开时唯一带得走的东西。
 **关键词**：the only thing / carry with us / when we go
 **为什么这样写**：the only thing 用限定词把范围压到一项，carry with us 用复数第一人称把说话人算进去，when we go 的条件从句把「带走」设成离别时的动作。Beth March 把题词放在这一章——他刚在店里看见一个盘子摔碎就胃里一沉，而 Beth 的句子谈的正是丧失之后还剩下什么。
-**读者视角提示**：题署是 —Beth March, Little Women。全章他没有对 Amy 说一句完整的话，唯一接近告白的，是末段那段内心独白。
+**读者视角提示**：题署是 —Beth March, Little Women。全章他没有对 Amy 说一句完整的话；接近告白的段落要等到末段那段内心独白。
 
 > **原句 2:** Benny joked that leprechauns had built the narrow entrance. In every other way, Laurel’s favorite watering hole was the quintessential Irish pub.
 **中文理解**：Benny 开玩笑说那道窄门是小妖精修的。除此之外，Laurel 人气最旺的酒馆就是最标准的爱尔兰酒吧。
@@ -46,7 +46,7 @@ modified: "2026-09-30"
 **读者视角提示**：Lando 刚在上一回合里判定他们快到头了，而这一段是 Theo 心里给对方记的账；他明早本来打算接她的暧昧短信。
 
 > **原句 6:** “Today. Which is why I’m telling you about it. Our session went very well and he’s decided to stay with me.” It was Theo’s first time helping a combat veteran with post-traumatic stress disorder. Watching a grown man cry was one of the harder experiences of his professional life.
-**中文理解**：今天。所以我才要跟你们说。那次会谈进行得很顺利，他决定继续跟着我。这是 Theo 第一次接手一位有创伤后应激障碍的退役军人。看着一个成年男人哭，是他职业生涯里最难熬的经历之一。
+**中文理解**：今天。所以我才要跟你们说。那次会谈进行得很顺利，他决定继续跟着我。这类案子他此前没接过：一位有创伤后应激障碍的退役军人。看着一个成年男人哭，是他职业生涯里最难熬的经历之一。
 **关键词**：Which is why I’m telling you about it / a combat veteran / one of the harder experiences
 **为什么这样写**：Which is why 从句把今天和所以要说连成因果——他坚持讲这件事，理由就摆在这句里。post-traumatic stress disorder 用全称而不用缩写，句子长度立刻被拉长，术语本身承担了重量。动名词做主语把最难熬的场面缩成一次观看：他所做的只是坐在那里看。
 **读者视角提示**：Lando 接的是他今天决定番茄酱里罗勒与牛至的比例，把两件大事并排放进同一句玩笑。Theo 说不出话，Stella 用一个碰拳代替——这一章里他的职业成就与他的失语是同一件事的两面。
@@ -84,14 +84,14 @@ modified: "2026-09-30"
 > **原句 12:** “I don’t think it is a problem,” Theo said in his discussion-over voice. It had been a good day, and he didn’t want to end it on a downbeat. Because it was a problem.
 **中文理解**：「我不认为这是个问题。」Theo 用那种这事到此为止的口气说。今天本来过得不错，他不想以一个下行的调子收场。可它就是个问题。
 **关键词**：in his discussion-over voice / end it on a downbeat / Because it was a problem
-**为什么这样写**：in his discussion-over voice 把声调当成可数的名词：他有一套专门用来结束话题的嗓音，这里第一次被写成可以被指认的东西。didn’t want to end it on a downbeat 用乐谱比喻来管理情绪，把谈话说成排曲。Because it was a problem 单独成句，把前面的托词一次拆穿，叙述者与角色的分寸在这一句上交换。
+**为什么这样写**：in his discussion-over voice 把声调当成可数的名词：他有一套专门用来结束话题的嗓音，这里他把这套嗓子明确地指认了出来。didn’t want to end it on a downbeat 用乐谱比喻来管理情绪，把谈话说成排曲。Because it was a problem 单独成句，把前面的托词一次拆穿，叙述者与角色的分寸在这一句上交换。
 **读者视角提示**：Lando 问的是他为什么从不承诺一个女人。Theo 给了职业式的否认，随即被自己的一句旁白推翻——这就是 ch12 那个点头在更大尺度上的回声。
 
 > **原句 13:** The thing about Amy was, she was so casual about her beauty that you got used to it. And then it struck you like a thunderbolt if you hadn’t seen her for a while.
 **中文理解**：Amy 这件事就是：她对自己的美太随手了，习惯之后你就不再注意。可要是隔了一阵子没见，它又会像一道晴天霹雳那样打在你身上。
 **关键词**：The thing about Amy was / so casual about her beauty / you got used to it / struck you like a thunderbolt
 **为什么这样写**：The thing about … was, 把主语从句提到句首的写法，后面跟的第一个逗号制造了停顿，像是要说什么又改了口。so … that 让随手变成一个可量化的程度；if 从句被塞进后半句，条件来得比预期晚，霹雳于是没有预警。两个 you 都不指定是谁：前一个 you 是读者的位置，后一个也是。
-**读者视角提示**：这一段的触发点是他解锁了车却没上车，改为坐在礼品店外翻手机照片。他找的是第一次在 Laurel 看见她的那张。
+**读者视角提示**：这一段的触发点是他解锁了车却没上车，改为坐在礼品店外翻手机照片。他找的是刚搬来镇上那次在 Laurel 初见她的照片。
 
 > **原句 14:** But he was just fooling himself. Because the thing about Amy was, he never could get her out of his mind.
 **中文理解**：可他只是在骗自己。因为 Amy 这件事就是：他从来没能把她从脑子里赶出去。
@@ -177,4 +177,4 @@ modified: "2026-09-30"
 
 ## 一句话总结
 
-这一章的闲话里他一件自己的事也没解决：客户要换到他手里、狗被一对老夫妇领养、朋友想把父母塞进他的名单、朋友又追问他为什么从不承诺——唯一被他正面写下来的，是坐在礼品店外的那段：时间和距离都没能把 Amy 从脑子里赶走。
+这一章的闲话里他一件自己的事也没解决：客户要换到他手里、狗被一对老夫妇领养、朋友想把父母塞进他的名单、朋友又追问他为什么从不承诺——而被他正面写下来的，是坐在礼品店外的那段：时间和距离都没能把 Amy 从脑子里赶走。

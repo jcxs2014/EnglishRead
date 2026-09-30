@@ -11,7 +11,7 @@ modified: "2026-09-30"
 - **情感弧线位置**：转折（僵局被一场暴雨和一次道歉解开，但 Jo 那条线仍未解决）
 - **Tropes 兑现/反转**：misunderstanding-of-silence 的和解——她要的不是解释而是一句明说的原谅，他那句 water under the bridge 被她自己驳回；forced proximity 由一场暴雨提供，两人被钉在同一辆车里。
 - **人物弧线**：他从 helpful-housemate mode 切换到 counselor mode 再切回，说明他清楚自己总把该说的话推到职业之后；结尾那个点头，是他全章最接近坦白的一次。
-- **叙事手法**：**第三人称限知（Theo 视角；全书 8 章 Theo 视角：ch05/08/12/14/17/24/28/36）**；全章几乎全部发生在车里——一个封闭的移动空间把两人按在同一段对话里；对白密度高，叙述者的插入句与台词交替出现。
+- **叙事手法**：**第三人称限知（Theo 视角；全书 9 章 Theo 视角：ch05/08/12/14/17/22/24/28/36）**；全章几乎全部发生在车里——一个封闭的移动空间把两人按在同一段对话里；对白密度高，叙述者的插入句与台词交替出现。
 
 ## 精读
 
@@ -31,13 +31,13 @@ modified: "2026-09-30"
 **中文理解**：旧习难改。他又变回二十来岁的 Theo，一边说服自己不嫉妒 Amy 最新的那个大学男友。
 **关键词**：did die hard / convincing himself / jealous of
 **为什么这样写**：谚语 Old habits did die hard 以否定形式开场（die hard 单独用是「难死」），紧跟缩合词 twentysomething 把年龄压成一个词，「他变成二十来岁」于是像身体反应而不像回忆。convincing himself 是他给自己的诊断：他把嫉妒归给「旧习惯」，也就把自己降格成一个还没戒掉毛病的二十岁小伙。
-**读者视角提示**：he again 里的 again 提示这轮回退不是第一次——他刚在脑子里给她编出一整套前任形象，这里是他承认动机不纯。
+**读者视角提示**：he again 里的 again 把这次的嫉妒接在他一贯的老毛病上——他刚在脑子里给她编出一整套前任形象，这里是他承认动机不纯。
 
 > **原句 4:** “Here’s something else to chortle about. I can’t get a ride service to save my life.”
 **中文理解**：还有一件更好笑的事。我怎么也叫不到车。
 **关键词**：something else to chortle about / to save my life
 **为什么这样写**：她用自己的玩笑去顶他的玩笑：chortle 是偏正式的字眼，被她扔回来当作主题。something else to chortle about 用 else 把前一句并进一份清单；to save my life 是早就语焉不详的习语，字面「为救我的命」，实际只剩「怎么都不行」的夸张。
-**读者视角提示**：这是本章她第一次承认自己走投无路。前一句他还在拿 Hondas 的平均寿命开玩笑，她这句把话题从「车不耐用」换成「我一个人搞不定」。
+**读者视角提示**：这句里她把处境摊开来说。前一句他还在拿 Hondas 的平均寿命开玩笑，她这句把话题从「车不耐用」换成「我一个人搞不定」。
 
 > **原句 5:** “Sit tight. I need an excuse to get out of the house.” Where his mind had strayed into the forbidden territory of her personal life.
 **中文理解**：等着。我需要一个出门的借口。——而他的心思早就溜进了她的私生活这片禁区。
@@ -78,7 +78,7 @@ modified: "2026-09-30"
 > **原句 11:** So many, but it was the last one he remembered most clearly. Shutting the door against her stricken, tearful face and pleading voice. Sliding down that closed door onto the floor.
 **中文理解**：道歉有很多次，但最后那一次他记得最清楚：把门关在她那张写满痛苦、流着泪的脸和哀求的声音之外；然后顺着关上的门滑坐到地板上。
 **关键词**：the last one he remembered / Shutting the door against / Sliding down that closed door
-**为什么这样写**：后两个小句是无主语的动名词短语（shutting / sliding），把连续动作压成蒙太奇；against 这个介词把「关门」写成一道隔断，门成了人与人的唯一屏障。most clearly 与他后面那句「早就说过了，只是她不再知道」形成对照：记忆是他的，遗忘是她的。
+**为什么这样写**：后两个小句是无主语的动名词短语（shutting / sliding），把连续动作压成蒙太奇；against 这个介词把「关门」写成一道隔断，门成了两人之间那道阻隔。most clearly 与他后面那句「早就说过了，只是她不再知道」形成对照：记忆是他的，遗忘是她的。
 **读者视角提示**：这段回忆里没有他的一句话，只有动作和她的声音。整章他愿意说出口的只有原谅本身，往事则退回身体动作——这正是她当场点破的 counselor 病根。
 
 > **原句 12:** “Sorry. I should have said it sooner.” In his heart, he already had. He’d forgotten that Amy no longer knew his heart.

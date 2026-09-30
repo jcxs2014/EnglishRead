@@ -182,7 +182,7 @@ modified: "2026-09-30"
 | chutzpah | 厚脸皮，胆量（意第绪语借词） | And—she had to hand it to him—the chutzpah of her pre-Derek boyfriend, Banana Brad. |
 | aspiring actor | 立志成演员的人（aspire 渴望 + -ing） | An aspiring actor, he had decided that dressing as various giant fruits was his brand. |
 | assaulted | 攻击，袭击（assault 名词兼动词） | Even after an irate senior citizen assaulted the stem of his apple, Brad soldiered on. |
-| soldiered | 继续努力，顽强支撑（soldier on 短语） | Even after an irate senior citizen assaulted the stem of his apple, Brad soldiered on. |
+| soldiered | 继续努力，顽强支撑（soldiered on，本章为过去式） | Even after an irate senior citizen assaulted the stem of his apple, Brad soldiered on. |
 | swinging | 摆动的（此处指挥舞的手提包） | Originality, ambition, and courage in the face of a swinging handbag—what wasn’t to like? |
 | heartily | 热切地，由衷地（hearty 的副词形式） | And she’d come up with quite a few doozies in her dating lifetime, heartily approved of by Jo, who heartily disapproved of the boyfriends. |
 | effective | 有效的（effect 效果 + -ive） | Sassing her way out of wacky relationships had proved effective indeed. |
