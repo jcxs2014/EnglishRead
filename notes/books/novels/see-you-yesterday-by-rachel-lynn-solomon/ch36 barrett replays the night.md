@@ -17,49 +17,49 @@ modified: "2026-09-30"
 
 > **原句 1:** "I am utterly, perfectly gone for him, and it’s this realization that warms the cold hard truth of another September 21."
 
-**中文理解：** 我已经彻彻底底、完完全全地栽在他身上了——而正是这个"意识到"，把"又一个 9 月 21 日"这个冰冷的硬事实焐热了一点。
+**中文理解**： 我已经彻彻底底、完完全全地栽在他身上了——而正是这个"意识到"，把"又一个 9 月 21 日"这个冰冷的硬事实焐热了一点。
 
-**关键词：** utterly, perfectly gone（彻底沦陷）/ this realization（这个认知）/ the cold hard truth（冰冷的硬事实）
+**关键词**： utterly, perfectly gone（彻底沦陷）/ this realization（这个认知）/ the cold hard truth（冰冷的硬事实）
 
-**为什么这样写：** 两个副词并列（utterly / perfectly）造出"彻底且完美"的双重强调，而 gone 这个词本身是"缺席、消失"——她"消失"在他身上，紧接着 realization 又把这个消失翻译成 cold hard truth 的反义；warms 与 cold hard 只隔一个转折，读者在同一句里同时拿到暖与冷，这正是本章的全部张力。
+**为什么这样写**： 两个副词并列（utterly / perfectly）造出"彻底且完美"的双重强调，而 gone 这个词本身是"缺席、消失"——她"消失"在他身上，紧接着 realization 又把这个消失翻译成 cold hard truth 的反义；warms 与 cold hard 只隔一个转折，读者在同一句里同时拿到暖与冷，这正是本章的全部张力。
 
-**读者视角提示：** 第一个意识到"我彻底爱上他"的人，第二个念头是"而明天又是 9 月 21 日"——书把甜和账单压在同一行。
+**读者视角提示**： 第一个意识到"我彻底爱上他"的人，第二个念头是"而明天又是 9 月 21 日"——书把甜和账单压在同一行。
 
 ---
 
 > **原句 2:** "My brain is jumbled, a blurred calendar that begins and ends on a single page."
 
-**中文理解：** 我的脑子乱成一团，像一本起了雾的日历，起始页和结束页是同一页。
+**中文理解**： 我的脑子乱成一团，像一本起了雾的日历，起始页和结束页是同一页。
 
-**关键词：** jumbled（乱成一团的）/ a blurred calendar（一本模糊的日历）/ begins and ends on a single page（起于同一页也止于同一页）
+**关键词**： jumbled（乱成一团的）/ a blurred calendar（一本模糊的日历）/ begins and ends on a single page（起于同一页也止于同一页）
 
-**为什么这样写：** 抽象的时间被降格成一件日常物品（日历），而 "begins and ends on a single page" 用日历的物理结构（一天就是一页）精确地把循环的机制写成了常识：读者翻过日历的动作，恰好是"再过一天"的动作；blurred 与 jumbled 叠加，说明她不是不懂规则，而是记忆已经无法承载规则。
+**为什么这样写**： 抽象的时间被降格成一件日常物品（日历），而 "begins and ends on a single page" 用日历的物理结构（一天就是一页）精确地把循环的机制写成了常识：读者翻过日历的动作，恰好是"再过一天"的动作；blurred 与 jumbled 叠加，说明她不是不懂规则，而是记忆已经无法承载规则。
 
-**读者视角提示：** 全书关于 loop 最经济的一次技术说明——没有一个生词，却把"永远重复同一天"讲透了。
+**读者视角提示**： 全书关于 loop 最经济的一次技术说明——没有一个生词，却把"永远重复同一天"讲透了。
 
 ---
 
 > **原句 3:** "It's worth the light-headedness for the way Miles’s face lights up, eyes brightening, a touch of a blush spreading across his cheeks."
 
-**中文理解：** 为了看见 Miles 亮起来的脸——眼睛发亮，一抹红晕爬上他的脸颊——这点头晕是值得的。
+**中文理解**： 为了看见 Miles 亮起来的脸——眼睛发亮，一抹红晕爬上他的脸颊——这点头晕是值得的。
 
-**关键词：** It’s worth（值得）/ light-headedness（轻微的眩晕）/ the way Miles’s face lights up（Miles 的脸亮起来的样子）
+**关键词**： It’s worth（值得）/ light-headedness（轻微的眩晕）/ the way Miles’s face lights up（Miles 的脸亮起来的样子）
 
-**为什么这样写：** It’s worth 是一句交易式的措辞：她把"看他的脸"和"头晕"放在天平两端明码标价；face lights up 与 eyes brightening 同义叠写，脸和眼睛被拆成两级递进；a touch of a blush spreading 是身体的慢镜头——阅读速度被这三个分词拖慢到与他脸红的速度一致。
+**为什么这样写**： It’s worth 是一句交易式的措辞：她把"看他的脸"和"头晕"放在天平两端明码标价；face lights up 与 eyes brightening 同义叠写，脸和眼睛被拆成两级递进；a touch of a blush spreading 是身体的慢镜头——阅读速度被这三个分词拖慢到与他脸红的速度一致。
 
-**读者视角提示：** 她的身体还没从昨夜缓过来，她把这当作见他的入场费；循环的代价第一次以生理反应的形式出现。
+**读者视角提示**： 她的身体还没从昨夜缓过来，她把这当作见他的入场费；循环的代价第一次以生理反应的形式出现。
 
 ---
 
 > **原句 4:** "“I just think,” I say, running my fingers up and down his spine, making him shiver against me, “that if and when we get out of here, we’d be disappointed in ourselves if we didn’t spend an entire imaginary day… doing this.”"
 
-**中文理解：** "我只是觉得，"我一边手指沿着他的脊背上下滑动、让他贴着我发抖，一边说，"如果我们能出去、而且真能出去的那天，回头看会觉得：如果我们没有把这么一整个想象出来的一天……用来做这件事，我们会对自己失望。"
+**中文理解**： "我只是觉得，"我一边手指沿着他的脊背上下滑动、让他贴着我发抖，一边说，"如果我们能出去、而且真能出去的那天，回头看会觉得：如果我们没有把这么一整个想象出来的一天……用来做这件事，我们会对自己失望。"
 
-**关键词：** if and when we get out of here（如果我们能出去的那天）／we’d be disappointed in ourselves（我们会对自己失望）／an entire imaginary day（一整个想象的一天）
+**关键词**： if and when we get out of here（如果我们能出去的那天）／we’d be disappointed in ourselves（我们会对自己失望）／an entire imaginary day（一整个想象的一天）
 
-**为什么这样写：** 双重虚拟（if and when）加上一个嵌套的 if，把一句邀请写成了三层假设，语法本身就是"还不确定能不能出去"；disappointed in ourselves 罕见地指向自己而不是他，是全书少见的自我问责；imaginary day 一词把"这一天不存在"与"我们决定它值得存在"并置，一个形容词同时否认与占有。
+**为什么这样写**： 双重虚拟（if and when）加上一个嵌套的 if，把一句邀请写成了三层假设，语法本身就是"还不确定能不能出去"；disappointed in ourselves 罕见地指向自己而不是他，是全书少见的自我问责；imaginary day 一词把"这一天不存在"与"我们决定它值得存在"并置，一个形容词同时否认与占有。
 
-**读者视角提示：** 她第一次为"未来的自己"做决定——不是回忆，不是重复，而是许诺。
+**读者视角提示**： 她第一次为"未来的自己"做决定——不是回忆，不是重复，而是许诺。
 
 ## 本章词汇
 

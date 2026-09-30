@@ -19,7 +19,7 @@ modified: "2026-09-30"
 
 **中文理解**："我都告诉你我们要去一场一辈子只有一次的冒险了，而你理解成的是卡其裤配条纹 Polo衫？"
 
-**关键词：** once-in-a-lifetime（一辈子只有一次）/ decided that meant（认定这就是）
+**关键词**： once-in-a-lifetime（一辈子只有一次）/ decided that meant（认定这就是）
 
 **为什么这样写**：decided that meant 把他的穿衣直接翻译成他的想法，她不需要证据，因为 Miles 的每一件衣服都是他内心的自白；once-in-a-lifetime 是她上一章那句 "the time of our fucking lives" 的降级版，同一件事被她用更客气的词再说一遍，就成了调侃。卡其裤配条纹 Polo 的并列不评价，只给画面，让读者自己笑。
 
@@ -31,7 +31,7 @@ modified: "2026-09-30"
 
 **中文理解**："我知道。可即便如此……有时候人的脑子也不那么讲道理，对吧？"
 
-**关键词：** I’m aware（我知道）/ aren’t entirely logical（并不那么合乎逻辑）/ sometimes（有时候）
+**关键词**： I’m aware（我知道）/ aren’t entirely logical（并不那么合乎逻辑）/ sometimes（有时候）
 
 **为什么这样写**：他先用 I’m aware 堵住她那句"我这就给你讲讲让飞机飞起来的科学"，把自己摆在"早就知道没道理"的位置上；And yet 之后那串省略号，是一个人把道理和自己的恐惧并排放在嘴边的那半秒。are they? 用反问把论证交给对方，实际上是在向对方求助，而不是在讲道理。
 
@@ -43,7 +43,7 @@ modified: "2026-09-30"
 
 **中文理解**：这让我心里某个地方动了一下，因为即便 Miles 有时让人火大，我也不想让他难受。
 
-**关键词：** does something to my heart（让我心里某处一动）/ frustrating（让人火大）/ I don’t want him to be miserable（我不想他不开心）
+**关键词**： does something to my heart（让我心里某处一动）/ frustrating（让人火大）/ I don’t want him to be miserable（我不想他不开心）
 
 **为什么这样写**：does something to my heart 是全书最克制也最重的一句告白——她没有说心疼，只说有件事在心脏上发生了动作，把情感交给身体代述；as frustrating as … can be 里的 can be 把"他很烦人"降成一种偶尔状态，于是后半句的不忍就成了她能给出的最大让步。两个转折靠 because 串起来：先承认缺点，再承认在意的分量。
 
@@ -55,7 +55,7 @@ modified: "2026-09-30"
 
 **中文理解**："你……要不要握着我的手？"我问，不知道还能给他别的什么。
 
-**关键词：** Do you… want（省略号里的犹豫）/ hold my hand（握我的手）/ what else to offer（还能给他别的什么）
+**关键词**： Do you… want（省略号里的犹豫）/ hold my hand（握我的手）/ what else to offer（还能给他别的什么）
 
 **为什么这样写**：省略号放在 Do 和 you 之间，把提议的前半句拆成了两步——她连把话问完都要缓一下；前半句是问句，后半句却是不确定还能提供什么，安慰在这里不是姿态而是能力不足。她明说这是玩笑，但句子本身先把自己抖了一下，才轮到笑。
 
@@ -67,7 +67,7 @@ modified: "2026-09-30"
 
 **中文理解**：我们在牵手。我们在牵手。也许我只是在给他安慰，而他也接下了，但这改变不了一个事实：直到这一刻，我从没和不是亲人的人牵过手。
 
-**关键词：** We are holding hands（我们在牵手）/ offering comfort（给予安慰）/ never held hands with someone not related to me（从没和非亲人的人牵过手）
+**关键词**： We are holding hands（我们在牵手）/ offering comfort（给予安慰）/ never held hands with someone not related to me（从没和非亲人的人牵过手）
 
 **为什么这样写**：开头把同一句复述两次，是她需要时间接受这件事真的在发生；but 之后忽然拉出一句这么长的对比，把"牵手"这一个动作摊开到十八年——不是她没谈过恋爱，是她从来没有用这种方式和一个具体的人待在一起。她给的理由是"从没牵过"，读者听到的却是"第一次"。
 
@@ -79,7 +79,7 @@ modified: "2026-09-30"
 
 **中文理解**：而不知怎么，在他于俄勒冈州上空松开我的手、轻声说了句"谢谢"的时候，反倒是我喘不上气。
 
-**关键词：** somehow（不知怎么）/ lets go of my hand（松开我的手）/ somewhere over Oregon（在俄勒冈州上空）/ I’m the one who’s breathless（反倒是我喘不上气）
+**关键词**： somehow（不知怎么）/ lets go of my hand（松开我的手）/ somewhere over Oregon（在俄勒冈州上空）/ I’m the one who’s breathless（反倒是我喘不上气）
 
 **为什么这样写**：somewhere over Oregon 明显是在跟摇篮曲里那个 over the moon and down the sea 抢一句，但把月亮换成了俄勒冈州、把海换成了氧气——够不着的地方；lets go 把主动权还给他，又立刻用 I’m the one who’s 推翻读者刚刚的预期：怕飞的是他，喘不过气的却是她。breathless 一词在 ch19 结尾出现过一次，这里换了主语，读者会记得。
 

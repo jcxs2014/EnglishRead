@@ -17,73 +17,73 @@ modified: "2026-09-30"
 
 > **原句 1:** "WHEN I WAKE UP BACK in Olmsted with Lucie and Paige and my illicit pasta bowls, I have to fight the urge to hurl one of them against the wall."
 
-**中文理解：** 当我在 Olmsted 又醒来，身边是 Lucie、Paige 和我那些偷来的面碗，我不得不压住把它们砸在墙上的冲动。
+**中文理解**： 当我在 Olmsted 又醒来，身边是 Lucie、Paige 和我那些偷来的面碗，我不得不压住把它们砸在墙上的冲动。
 
-**关键词：** illicit pasta bowls（偷来的面碗）/ fight the urge（压住那一阵冲动）
+**关键词**： illicit pasta bowls（偷来的面碗）/ fight the urge（压住那一阵冲动）
 
 **为什么这样写**：全大写的开篇是全书标志性的一声吼，而 illicit 一个词就把"面碗"从午餐道具翻成了赃物——它们是被她从自助餐厅顺带上楼的，循环因此不是从抽象的时间开始，而是从一件实实在在的、她该为之感到难堪的私藏开始；to hurl one of them against the wall 让读者与她共享"扔掉过去"的冲动，而叙述者偏偏按住了。
 
-**读者视角提示：** 面碗会在 ch14 以"I took advantage of the alone time"再次被点名——留意这个物件如何在两条时间线之间保持一致。
+**读者视角提示**： 面碗会在 ch14 以"I took advantage of the alone time"再次被点名——留意这个物件如何在两条时间线之间保持一致。
 
 ---
 
 > **原句 2:** "I keep my eyes squeezed shut, my breaths even, while Lucie complains to Paige about me. Once they’re gone, I set my plan in motion: I am going to be the best fucking person this campus has ever seen."
 
-**中文理解：** 我把眼睛闭紧，呼吸放平，装睡听 Lucie 跟 Paige 抱怨我。等她们一走，我就启动我的计划：我要成为这个校园有史以来最他妈好的一个人。
+**中文理解**： 我把眼睛闭紧，呼吸放平，装睡听 Lucie 跟 Paige 抱怨我。等她们一走，我就启动我的计划：我要成为这个校园有史以来最他妈好的一个人。
 
-**关键词：** set my plan in motion（启动计划）/ the best fucking person（最他妈好的人）
+**关键词**： set my plan in motion（启动计划）/ the best fucking person（最他妈好的人）
 
 **为什么这样写**：squeezed shut 与 breaths even 一对细节先立住"表演性的假睡"——她不是在休息，是在等；Once they're gone 之后立刻转成宣言，I am…I am 的排比把一个人的临时起意撑成了史诗口吻，fucking 一词又把史诗拽回十八岁的粗粝，形成喜剧落差；"this campus has ever seen" 暗示这是一个没有观众的舞台，因为她要的观众只有一个，而那个人还在教室。
 
-**读者视角提示：** "本校园有史以来"是自封的桂冠——下一句她就去问 AI 自己该怎么当好人，这个落差就是本章的推进方式。
+**读者视角提示**： "本校园有史以来"是自封的桂冠——下一句她就去问 AI 自己该怎么当好人，这个落差就是本章的推进方式。
 
 ---
 
 > **原句 3:** "I’m not sure if that’s the best course of action this early in the quarter. Everyone just moved in, and people probably aren’t thinking about what they want to give away."
 
-**中文理解：** 我不确定开学第一周这么做是不是最好的选择。大家刚搬进来，可能还没想过要捐什么。
+**中文理解**： 我不确定开学第一周这么做是不是最好的选择。大家刚搬进来，可能还没想过要捐什么。
 
-**关键词：** the best course of action（最好的做法）/ this early in the quarter（学期这么早就……）
+**关键词**： the best course of action（最好的做法）/ this early in the quarter（学期这么早就……）
 
 **为什么这样写**：这是全书少有的、成年人对 Barrett 说不的场面，而她把对方的拒绝读成了"日程不合适"（course of action）而非"你这个人不行"——这正是她全书的核心防御：把道德评判改写成流程问题；are probably not thinking 把猜测摆在前面，让否定句有了缓冲，礼貌因此不必付出任何伤害的成本。
 
-**读者视角提示：** 第一个"否定"她的人不是 Miles 也不是 Lucie，而是一个素来与人为善的 RA——记下这个反差，读者会理解她为什么把结论倒过来当成机会。
+**读者视角提示**： 第一个"否定"她的人不是 Miles 也不是 Lucie，而是一个素来与人为善的 RA——记下这个反差，读者会理解她为什么把结论倒过来当成机会。
 
 ---
 
 > **原句 4:** "Except then he uncaps a vial and ohhhhh no, I make the fatal mistake of looking at the needle."
 
-**中文理解：** 可他一拔开药瓶盖——哦不，我犯了致命的错误：我看了那根针。
+**中文理解**： 可他一拔开药瓶盖——哦不，我犯了致命的错误：我看了那根针。
 
-**关键词：** uncaps（拔开瓶盖）/ the fatal mistake（致命的错误）
+**关键词**： uncaps（拔开瓶盖）/ the fatal mistake（致命的错误）
 
 **为什么这样写**：Except 承接上一句"那算不上什么"，把安全感瞬间抽掉；ohhhhh 把内心的一声惊叫拉成可听见的音长，是叙述节奏替代标点的写法；the fatal mistake 用夸张的判词（fatal）配上一个极小的失误（看了针），喜剧与恐惧在同一行里共处——她把一次晕厥说成命运判决，正是"标签"母题的又一层：一个词盖住整件事。
 
-**读者视角提示：** 这是她第一次被自己的善意反噬，读者要记住这个反转：越是想修好形象，越要交出身体的控制权。
+**读者视角提示**： 这是她第一次被自己的善意反噬，读者要记住这个反转：越是想修好形象，越要交出身体的控制权。
 
 ---
 
 > **原句 5:** "“It was a valiant attempt.” Miles notices the powdered sugar on his pocket and brushes it off with a casual sweep of his fingers. “Unfortunately, it was also a futile one.”"
 
-**中文理解：** "这是一次英勇的尝试。"Miles 注意到口袋上的糖粉，随手拂了拂。"可惜，也是一次徒劳的尝试。"
+**中文理解**： "这是一次英勇的尝试。"Miles 注意到口袋上的糖粉，随手拂了拂。"可惜，也是一次徒劳的尝试。"
 
-**关键词：** a valiant attempt（英勇的尝试）/ a futile one（一次徒劳的尝试）
+**关键词**： a valiant attempt（英勇的尝试）/ a futile one（一次徒劳的尝试）
 
 **为什么这样写**：前半句褒义、后半句否定，用同一个句型（a ___ attempt）完成一次降级，礼貌地拆她的台；"Unfortunately" 把转折推给转折本身，减轻了否定的人身性，而它落在随身动作上的"随手一拂"——正是这种不刻意的施舍感，让两个敌对的人第一次在同一画面里呼吸；糖粉是他带来的甜甜圈留下的，他拂掉的是自己带来的证据，暗示他本可以走开但没走。
 
-**读者视角提示：** 这一刻是"敌人"结构的松动点：他给了她一句既贬低又留有空间的评价，而不是冷淡的走开。
+**读者视角提示**： 这一刻是"敌人"结构的松动点：他给了她一句既贬低又留有空间的评价，而不是冷淡的走开。
 
 ---
 
 > **原句 6:** "“I suppose I could use a bit of entertainment.”"
 
-**中文理解：** "我想我大概可以找点乐子。"
+**中文理解**： "我想我大概可以找点乐子。"
 
-**关键词：** suppose（我想、大概）/ a bit of entertainment（一点乐子）
+**关键词**： suppose（我想、大概）/ a bit of entertainment（一点乐子）
 
 **为什么这样写**：结句把前面那场笨拙的英雄戏降级成"节目"——entertainment 把她的一厢情愿说成给他提供的消遣，也让读者意识到：他并不打算帮她，他只是不打算走；"I suppose" 里的 suppose 保留了商量余地，傲慢与松动同时存在，正是这本书里 Miles 一贯的说话温度。
 
-**读者视角提示：** 这句是 Miles 第一次主动给出"陪伴"的信号，虽以调侃的形式，读者要把它当作全章真正的转折点。
+**读者视角提示**： 这句是 Miles 第一次主动给出"陪伴"的信号，虽以调侃的形式，读者要把它当作全章真正的转折点。
 
 ## 本章词汇
 

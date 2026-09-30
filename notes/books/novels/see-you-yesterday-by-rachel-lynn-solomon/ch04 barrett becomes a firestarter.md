@@ -17,75 +17,77 @@ modified: "2026-09-30"
 
 > **原句 1:** "“Barrett Bloom,” she says smoothly, clearly loving that she’s throwing me to the wolves."
 
-**中文理解：** "Barrett Bloom，"她流畅地说，显然很享受把我扔给狼群这件事。
+**中文理解**： "Barrett Bloom，"她流畅地说，显然很享受把我扔给狼群这件事。
 
-**关键词：** smoothly（流畅地）/ throwing me to the wolves（把我扔给狼群）
+**关键词**： smoothly（流畅地）/ throwing me to the wolves（把我扔给狼群）
 
-**为什么这样写：** smoothly 与 clearly loving 并置，前者写台词的专业、后者写内心的恶意，落差全在转折；throw me to the wolves 是成语，但 smoothly 让这句台词听起来体面而客气——恶意藏在最没有恶意的语调里。
+**为什么这样写**： smoothly 与 clearly loving 并置，前者写台词的专业、后者写内心的恶意，落差全在转折；throw me to the wolves 是成语，但 smoothly 让这句台词听起来体面而客气——恶意藏在最没有恶意的语调里。
 
-**读者视角提示：** 这是全书"标签"母题的第二次显形——Lucie 每次出手都体面得让人无从反驳。
+**读者视角提示**： 这是全书"标签"母题的第二次显形——Lucie 每次出手都体面得让人无从反驳。
 
 ---
 
 > **原句 2:** "Well, it felt like I was back in high school."
 
-**中文理解：** 嗯，那感觉就像我又回到了高中。
+**中文理解**： 嗯，那感觉就像我又回到了高中。
 
-**关键词：** felt like（感觉像是）
+**关键词**： felt like（感觉像是）
 
-**为什么这样写：** 一句独立成段的 "Well," 先给出一个转折停顿，把读者从叙述者的辩解里拽出来；整句用现在时而非过去时，让"回到高中"成为一种正在发生的状态——创伤不是回忆，是回路。
+**为什么这样写**： 一句独立成段的 "Well," 先给出一个转折停顿，把读者从叙述者的辩解里拽出来；整句用现在时而非过去时，让"回到高中"成为一种正在发生的状态——创伤不是回忆，是回路。
 
-**读者视角提示：** 这是全书时间循环母题的第一次语义预告：她不是在回忆高中，她正在回到高中。
+**读者视角提示**： 这是全书时间循环母题的第一次语义预告：她不是在回忆高中，她正在回到高中。
 
 ---
 
 > **原句 3:** "A disaster that’s graduated from Harvard and joined Mensa and won a Nobel Prize."
 
-**中文理解：** 一场已经从哈佛毕业、加入了门萨、并拿过诺贝尔奖的灾难。
+**中文理解**： 一场已经从哈佛毕业、加入了门萨、并拿过诺贝尔奖的灾难。
 
-**关键词：** graduated from Harvard（哈佛毕业）/ Mensa（门萨俱乐部）/ Nobel Prize（诺贝尔奖）
+**关键词**： graduated from Harvard（哈佛毕业）/ Mensa（门萨俱乐部）/ Nobel Prize（诺贝尔奖）
 
-**为什么这样写：** 把三段式递进用在灾难上，越说越光鲜，讽刺全靠搭配的错位；Mensa 首字母大写的正确写法，与 Harold 的顶级灾难形成了荒诞的落差。
+**为什么这样写**： 把三段式递进用在灾难上，越说越光鲜，讽刺全靠搭配的错位；Mensa 首字母大写的正确写法，与 Harold 的顶级灾难形成了荒诞的落差。
 
-**读者视角提示：** 读者会笑，但下一句她就该哭了——这是本书把喜剧和痛觉缝在同一个段落里的手法。
+**读者视角提示**： 读者会笑，但下一句她就该哭了——这是本书把喜剧和痛觉缝在同一个段落里的手法。
 
 ---
 
 > **原句 4:** "The photos are paired with words like BANNED FOR LIFE and FIRESTARTER and WE’LL FIND YOU, BARRETT BLOOM."
 
-**中文理解：** 这些照片配上了 BANNED FOR LIFE（永久禁入）、FIRESTARTER（纵火犯）、WE’LL FIND YOU, BARRETT BLOOM（我们会找到你，Barrett Bloom）之类的字样。
+**中文理解**： 这些照片配上了 BANNED FOR LIFE（永久禁入）、FIRESTARTER（纵火犯）、WE’LL FIND YOU, BARRETT BLOOM（我们会找到你，Barrett Bloom）之类的字样。
 
-**关键词：** FIRESTARTER（纵火犯）/ paired with（配上）
+**关键词**： FIRESTARTER（纵火犯）/ paired with（配上）
 
-**为什么这样写：** 全大写的标签把三个词变成三份判决书，最后一个还附上了她的全名——从群体暴力到点名追杀，只多了一个逗号；而"And those are the nice ones."紧跟其后，让最恶毒的措辞都显得温和。
+**为什么这样写**： 全大写的标签把三个词变成三份判决书，最后一个还附上了她的全名——从群体暴力到点名追杀，只多了一个逗号；而"And those are the nice ones."紧跟其后，让最恶毒的措辞都显得温和。
 
-**读者视角提示：** 这里与高中时的 #debloomed 完全同构，她面对的从来不是新问题，是同一个问题的换皮。
+**读者视角提示**： 这里与高中时的 #debloomed 完全同构，她面对的从来不是新问题，是同一个问题的换皮。
 
 ---
 
 > **原句 5:** "I hadn’t known my heart was capable of breaking in that specific way, and that’s why it’s crucial no one ever sees those jagged pieces."
 
-**中文理解：** 我从不知道我的心还能以那种特定的方式碎掉，这就是为什么绝对不能让任何人看到那些锯齿状的碎片。
+**中文理解**： 我从不知道我的心还能以那种特定的方式碎掉，这就是为什么绝对不能让任何人看到那些锯齿状的碎片。
 
-**关键词：** capable of（能够……的）/ jagged pieces（锯齿状的碎片）
+**关键词**： capable of（能够……的）/ jagged pieces（锯齿状的碎片）
 
-**为什么这样写：** breaking 和 jagged pieces 用同一个形象贯穿——心不是被打碎，而是裂成带刺的边缘；"crucial" 把她的隐忍写成一个战术选择，而不是天生坚强，读者因此明白她一直在用力。
+**为什么这样写**： breaking 和 jagged pieces 用同一个形象贯穿——心不是被打碎，而是裂成带刺的边缘；"crucial" 把她的隐忍写成一个战术选择，而不是天生坚强，读者因此明白她一直在用力。
 
-**读者视角提示：** 这是全书对 Barrett 防御机制最清晰的一次剖白，后面每一次自嘲都是这些"锯齿"的外壳。
+**读者视角提示**： 这是全书对 Barrett 防御机制最清晰的一次剖白，后面每一次自嘲都是这些"锯齿"的外壳。
 
 ---
 
 > **原句 6:** "I am the same disaster of a person I’ve always been, no matter how much I wish I could leave her in my past."
 
-**中文理解：** 无论我多想把她留在过去，我一直都是那个同样的灾难般的人。
+**中文理解**： 无论我多想把她留在过去，我一直都是那个同样的灾难般的人。
 
-**关键词：** no matter how much I wish（无论我多想）
+**关键词**： no matter how much I wish（无论我多想）
 
-**为什么这样写：** 收尾把"New Barrett"整套自我改造判了死刑：a person 与 I 同指，灾难成了身份而非事件；no matter how much I wish 让改变的可能从一开始就被否定，语气平静得近乎温柔，反而更残酷。
+**为什么这样写**： 收尾把"New Barrett"整套自我改造判了死刑：a person 与 I 同指，灾难成了身份而非事件；no matter how much I wish 让改变的可能从一开始就被否定，语气平静得近乎温柔，反而更残酷。
 
-**读者视角提示：** 这是全书第一个章末的自我定论，也是接下来 40 章要推翻的那句话。
+**读者视角提示**： 这是全书第一个章末的自我定论，也是接下来 40 章要推翻的那句话。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|

@@ -17,85 +17,85 @@ modified: "2026-09-30"
 
 > **原句 1:** "I thought that maybe you’d actually traveled through time."
 
-**中文理解：** 我当时甚至以为，你可能真的穿越过时间。
+**中文理解**： 我当时甚至以为，你可能真的穿越过时间。
 
-**关键词：** I thought that（我当时以为）/ maybe（也许）/ you’d actually traveled through time（你真的穿越了时间）
+**关键词**： I thought that（我当时以为）/ maybe（也许）/ you’d actually traveled through time（你真的穿越了时间）
 
-**为什么这样写：** 在一位「擅长时间旅行」的老学者面前说这句话是全章最锋利的一句恭维——actually 把「可能」和「真的」之间的距离压到最短；叙述者用最天真的方式说出了读者早已猜到的答案，而被猜到的人偏偏多年没人提起，这个反转比揭穿更有力。
+**为什么这样写**： 在一位「擅长时间旅行」的老学者面前说这句话是全章最锋利的一句恭维——actually 把「可能」和「真的」之间的距离压到最短；叙述者用最天真的方式说出了读者早已猜到的答案，而被猜到的人偏偏多年没人提起，这个反转比揭穿更有力。
 
-**读者视角提示：** 她十七岁时把「我能穿越时间」当笑话，而这里它已经变成一个悬而未决的现实可能。
+**读者视角提示**： 她十七岁时把「我能穿越时间」当笑话，而这里它已经变成一个悬而未决的现实可能。
 
 ---
 
 > **原句 2:** "my heart swelling with something like pride, because of course Miles knows."
 
-**中文理解：** 我的心因为某种近似骄傲的东西涨了起来——毕竟 Miles 当然是知道的。
+**中文理解**： 我的心因为某种近似骄傲的东西涨了起来——毕竟 Miles 当然是知道的。
 
-**关键词：** my heart swelling（心里涨起）/ something like pride（某种近似骄傲的东西）/ because of course（毕竟）
+**关键词**： my heart swelling（心里涨起）/ something like pride（某种近似骄傲的东西）/ because of course（毕竟）
 
-**为什么这样写：** swelling 是身体动词，把情绪写成物理膨胀；something like pride 里的 like 不肯把话说满，说明她还没习惯为一个人感到骄傲；而 because of course 两个词轻轻放下，把他的优秀说成理所当然——这份自然才是最亲密的表白。
+**为什么这样写**： swelling 是身体动词，把情绪写成物理膨胀；something like pride 里的 like 不肯把话说满，说明她还没习惯为一个人感到骄傲；而 because of course 两个词轻轻放下，把他的优秀说成理所当然——这份自然才是最亲密的表白。
 
-**读者视角提示：** 三周前她会对这句冷嘲热讽，现在只有一点柔，这是全书感情线的体温计。
+**读者视角提示**： 三周前她会对这句冷嘲热讽，现在只有一点柔，这是全书感情线的体温计。
 
 ---
 
 > **原句 3:** "The fact that I can keep my hormones in check enough to ask the professor somewhat articulate questions is a feat of tremendous strength."
 
-**中文理解：** 我能在荷尔蒙不失控的情况下，向这位教授问出还算有条理的问题，这件事本身需要极大的意志力。
+**中文理解**： 我能在荷尔蒙不失控的情况下，向这位教授问出还算有条理的问题，这件事本身需要极大的意志力。
 
-**关键词：** keep my hormones in check（管住自己的荷尔蒙）/ articulate questions（有条理的问题）/ a feat of tremendous strength（需要极强的意志力）
+**关键词**： keep my hormones in check（管住自己的荷尔蒙）/ articulate questions（有条理的问题）/ a feat of tremendous strength（需要极强的意志力）
 
-**为什么这样写：** 一句话里堆了三层拔高——管住荷尔蒙、问得有条理、还需要极强的意志力，每一层都在往抬高，把学术场景拍成一场她拼命想通过的考试；clauses 一层套一层，像在写一份过度的实验报告，喜剧与心虚同框。
+**为什么这样写**： 一句话里堆了三层拔高——管住荷尔蒙、问得有条理、还需要极强的意志力，每一层都在往抬高，把学术场景拍成一场她拼命想通过的考试；clauses 一层套一层，像在写一份过度的实验报告，喜剧与心虚同框。
 
-**读者视角提示：** 恋爱中的学术成就在这一刻被精准地量化为「还剩多少理智」。
+**读者视角提示**： 恋爱中的学术成就在这一刻被精准地量化为「还剩多少理智」。
 
 ---
 
 > **原句 4:** "We’re closer than we’ve ever been to figuring this out, and yet I only feel farther away."
 
-**中文理解：** 我们比以往任何时候都更接近想明白这件事，可我却只觉得自己更远了。
+**中文理解**： 我们比以往任何时候都更接近想明白这件事，可我却只觉得自己更远了。
 
-**关键词：** closer than we’ve ever been（比以往任何时候都更近）/ figuring this out（想明白）/ farther away（更远）
+**关键词**： closer than we’ve ever been（比以往任何时候都更近）/ figuring this out（想明白）/ farther away（更远）
 
-**为什么这样写：** 一句里两个方向相反的比较级，closer 衡量知识、farther 衡量感受；这套词只在她真正拿到答案的每一章里反复出现，这里是它第一次双向生效——知识的进展和情感的茫然被证明可以完全脱钩。
+**为什么这样写**： 一句里两个方向相反的比较级，closer 衡量知识、farther 衡量感受；这套词只在她真正拿到答案的每一章里反复出现，这里是它第一次双向生效——知识的进展和情感的茫然被证明可以完全脱钩。
 
-**读者视角提示：** 本书对「解谜」和「相爱」两条线的一次冷静切割：搞懂循环不等于走出循环。
+**读者视角提示**： 本书对「解谜」和「相爱」两条线的一次冷静切割：搞懂循环不等于走出循环。
 
 ---
 
 > **原句 5:** "maybe you strayed onto the wrong path somehow, and time intervened to shift you onto the path you’re supposed to be on."
 
-**中文理解：** 也许你们不知怎么走岔了路，于是时间出面，把你们挪到你们本该走的路上。
+**中文理解**： 也许你们不知怎么走岔了路，于是时间出面，把你们挪到你们本该走的路上。
 
-**关键词：** strayed onto the wrong path（走错了岔路）/ time intervened（时间出面干预）/ the path you’re supposed to be on（你本该在的那条路）
+**关键词**： strayed onto the wrong path（走错了岔路）/ time intervened（时间出面干预）/ the path you’re supposed to be on（你本该在的那条路）
 
-**为什么这样写：** 是 path 而不是 choice，路径词把「选择」升格成早已铺好的轨道，于是「被困住」这件事从灾难变成了一种被摆布的必然；time intervened 借用外交辞令，把时间写成一位多管闲事的调停者——这正是 Barrett 立刻接上「你叫我不要拟人化宇宙」的由头。
+**为什么这样写**： 是 path 而不是 choice，路径词把「选择」升格成早已铺好的轨道，于是「被困住」这件事从灾难变成了一种被摆布的必然；time intervened 借用外交辞令，把时间写成一位多管闲事的调停者——这正是 Barrett 立刻接上「你叫我不要拟人化宇宙」的由头。
 
-**读者视角提示：** 本章最重要的那句台词：循环不再是惩罚，而是宇宙在推着两个人走向某个它自己也没说出口的目的地。
+**读者视角提示**： 本章最重要的那句台词：循环不再是惩罚，而是宇宙在推着两个人走向某个它自己也没说出口的目的地。
 
 ---
 
 > **原句 6:** "Even when it’s acting normally, or whatever our concept of ‘normal’ is."
 
-**中文理解：** 哪怕它表现得很正常——或者该说，按照我们关于「正常」的定义。
+**中文理解**： 哪怕它表现得很正常——或者该说，按照我们关于「正常」的定义。
 
-**关键词：** Even when（哪怕）/ acting normally（表现正常）/ whatever our concept of ‘normal’ is（按照我们对「正常」的某种理解）
+**关键词**： Even when（哪怕）/ acting normally（表现正常）/ whatever our concept of ‘normal’ is（按照我们对「正常」的某种理解）
 
-**为什么这样写：** 她本可以说「even when it works properly」，却先给出一个保证安全的说法，再用 or whatever 反手拆掉它；引号里的 ‘normal’ 把自己刚刚的保证重新加上引号，于是全句从「时间出错」退回到「我们凭什么知道它出错」——科学家的谨慎和青春期的多疑在同一个从句里握手。
+**为什么这样写**： 她本可以说「even when it works properly」，却先给出一个保证安全的说法，再用 or whatever 反手拆掉它；引号里的 ‘normal’ 把自己刚刚的保证重新加上引号，于是全句从「时间出错」退回到「我们凭什么知道它出错」——科学家的谨慎和青春期的多疑在同一个从句里握手。
 
-**读者视角提示：** 这本书对「正常」这个词的处理：不断有人用「一切照旧」来说服他们继续被困。
+**读者视角提示**： 这本书对「正常」这个词的处理：不断有人用「一切照旧」来说服他们继续被困。
 
 ---
 
 > **原句 7:** "It certainly feels like a time loop sometimes."
 
-**中文理解：** 有时候这地方的确挺像一个时间循环。
+**中文理解**： 有时候这地方的确挺像一个时间循环。
 
-**关键词：** It certainly（的确）/ feels like（感觉像）/ a time loop（一个时间循环）
+**关键词**： It certainly（的确）/ feels like（感觉像）/ a time loop（一个时间循环）
 
-**为什么这样写：** 全章用城堡、教会、实验室三个空间层层加码地写「出口」，然后把她扔进最普通的一间市政会议室，用 certainly 把断言拉回日常；feel like 与 certainly 互相拆台——语义上断言，感官上怀疑，一句反讽把「出口还没找到」的失落干净利落地收尾。
+**为什么这样写**： 全章用城堡、教会、实验室三个空间层层加码地写「出口」，然后把她扔进最普通的一间市政会议室，用 certainly 把断言拉回日常；feel like 与 certainly 互相拆台——语义上断言，感官上怀疑，一句反讽把「出口还没找到」的失落干净利落地收尾。
 
-**读者视角提示：** 全章最刻薄也最诚实的一句：循环还没有被打破，但时间已经把所有人都变成了它的同谋。
+**读者视角提示**： 全章最刻薄也最诚实的一句：循环还没有被打破，但时间已经把所有人都变成了它的同谋。
 
 ## 本章词汇
 

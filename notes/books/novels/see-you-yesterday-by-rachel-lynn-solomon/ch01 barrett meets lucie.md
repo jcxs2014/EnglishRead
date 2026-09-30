@@ -17,75 +17,77 @@ modified: "2026-09-30"
 
 > **原句 1:** "Home sweet concrete prison."
 
-**中文理解：** 家啊 sweet——不，是水泥监狱。
+**中文理解**： 家啊 sweet——不，是水泥监狱。
 
-**关键词：** concrete prison（水泥监狱）
+**关键词**： concrete prison（水泥监狱）
 
-**为什么这样写：** 她把家话套语故意停在 "sweet concrete prison" 的转折上，一个词完成从"家"到"牢"的堕落；砖墙的实物感落地，喜剧自嘲里透着无人接住的孤独。
+**为什么这样写**： 她把家话套语故意停在 "sweet concrete prison" 的转折上，一个词完成从"家"到"牢"的堕落；砖墙的实物感落地，喜剧自嘲里透着无人接住的孤独。
 
-**读者视角提示：** 这是 Barrett 的语调定型句——先给套语，再抽掉温度，全书的幽默都是这个手势。
+**读者视角提示**： 这是 Barrett 的语调定型句——先给套语，再抽掉温度，全书的幽默都是这个手势。
 
 ---
 
 > **原句 2:** "By Lucie Lamont, read the byline, our teacher elevating Lucie’s status above my own, and in tiny type: with Barrett Bloom."
 
-**中文理解：** 署名行写着 Lucie Lamont——我们的老师把 Lucie 的地位排在我之上，然后用极小的字号写着：与 Barrett Bloom 合作。
+**中文理解**： 署名行写着 Lucie Lamont——我们的老师把 Lucie 的地位排在我之上，然后用极小的字号写着：与 Barrett Bloom 合作。
 
-**关键词：** byline（署名行）/ in tiny type（极小字号）
+**关键词**： byline（署名行）/ in tiny type（极小字号）
 
-**为什么这样写：** 冒号把句子劈成两半，冒号前是"世界怎么看我"，冒号后是"世界怎么印我"；tiny type 让"合作"二字在版面上真的变小，字面与隐喻严丝合缝。
+**为什么这样写**： 冒号把句子劈成两半，冒号前是"世界怎么看我"，冒号后是"世界怎么印我"；tiny type 让"合作"二字在版面上真的变小，字面与隐喻严丝合缝。
 
-**读者视角提示：** 这处"字号"是全书主题的第一次显影——被缩小的不只是署名，还有一个人在集体眼里的份量。
+**读者视角提示**： 这处"字号"是全书主题的第一次显影——被缩小的不只是署名，还有一个人在集体眼里的份量。
 
 ---
 
 > **原句 3:** "“And god help me for needing to acknowledge this, but I feel like it’s common courtesy not to… you know. Indulge in that particular brand of self-love when someone else is in the room. Sleeping or not.”"
 
-**中文理解：** "天哪，为了要说这件事还得先铺垫一句，但这好像是基本礼貌：不要……你懂的。当别人在房间里时，沉浸在那种特定的自娱自乐里。哪怕对方睡着了也不行。"
+**中文理解**： "天哪，为了要说这件事还得先铺垫一句，但这好像是基本礼貌：不要……你懂的。当别人在房间里时，沉浸在那种特定的自娱自乐里。哪怕对方睡着了也不行。"
 
-**关键词：** common courtesy（基本礼貌）/ that particular brand of self-love（那种特定的自娱自乐）
+**关键词**： common courtesy（基本礼貌）/ that particular brand of self-love（那种特定的自娱自乐）
 
-**为什么这样写：** 省略号加 "you know" 让难以启齿的话有了停顿，而 self-love 被降格为 brand of——把亲热的词商用化，反倒比直说更刻薄；"god help me for needing to acknowledge this" 先自嘲一句要开口，才显得勉强是真的。
+**为什么这样写**： 省略号加 "you know" 让难以启齿的话有了停顿，而 self-love 被降格为 brand of——把亲热的词商用化，反倒比直说更刻薄；"god help me for needing to acknowledge this" 先自嘲一句要开口，才显得勉强是真的。
 
-**读者视角提示：** 句尾 "Sleeping or not" 把她的边界钉死，Barrett 此后所有的越界玩笑都是在这条线上来回试探。
+**读者视角提示**： 句尾 "Sleeping or not" 把她的边界钉死，Barrett 此后所有的越界玩笑都是在这条线上来回试探。
 
 ---
 
 > **原句 4:** "“We can put your attempt to sabotage our school behind us."
 
-**中文理解：** "我们可以把你那次搞砸我们学校的事抛在脑后。"
+**中文理解**： "我们可以把你那次搞砸我们学校的事抛在脑后。"
 
-**关键词：** attempt（尝试）/ sabotage（蓄意破坏）
+**关键词**： attempt（尝试）/ sabotage（蓄意破坏）
 
-**为什么这样写：** 原文那句 "We can put your attempt to sabotage our school behind us." 先是给台阶，"attempt" 却把当年那件事缩成一次未遂的尝试，"sabotage" 更把对方的指控定成罪行；一个短句里递进三层，把报复说成了既往不咎。
+**为什么这样写**： 原文那句 "We can put your attempt to sabotage our school behind us." 先是给台阶，"attempt" 却把当年那件事缩成一次未遂的尝试，"sabotage" 更把对方的指控定成罪行；一个短句里递进三层，把报复说成了既往不咎。
 
-**读者视角提示：** 这句是全书"标签"母题的宣言——Lucie 一直用一个词概括掉整件事，读者要等很久才知道那个词盖住了什么。
+**读者视角提示**： 这句是全书"标签"母题的宣言——Lucie 一直用一个词概括掉整件事，读者要等很久才知道那个词盖住了什么。
 
 ---
 
 > **原句 5:** "Lucie Lamont may be a bitch, but unfortunately for her, so am I."
 
-**中文理解：** Lucie Lamont 也许是个婊子，但不幸的是，对她来说我也是。
+**中文理解**： Lucie Lamont 也许是个婊子，但不幸的是，对她来说我也是。
 
-**关键词：** bitch（婊子）/ unfortunately for her（不幸的是，对她来说）
+**关键词**： bitch（婊子）/ unfortunately for her（不幸的是，对她来说）
 
-**为什么这样写：** 先递一句赞同再翻转，but 之后用 unfortunately for her 假装替对方惋惜，实则认下同类；明写脏话反而把两个女孩的处境摆平——敌人是彼此照出的镜子。
+**为什么这样写**： 先递一句赞同再翻转，but 之后用 unfortunately for her 假装替对方惋惜，实则认下同类；明写脏话反而把两个女孩的处境摆平——敌人是彼此照出的镜子。
 
-**读者视角提示：** 这是全书第一句把两人并置的句子，后面所有"我们不同"的辩解都在拆它。
+**读者视角提示**： 这是全书第一句把两人并置的句子，后面所有"我们不同"的辩解都在拆它。
 
 ---
 
 > **原句 6:** "The unknown is always scarier, and maybe that’s why it was so easy to pretend I didn’t care when the entire school decided I wasn’t to be trusted."
 
-**中文理解：** 未知总是更可怕，或许正因如此，当整个学校认定我不可信时，我才那么轻易地假装自己毫不在乎。
+**中文理解**： 未知总是更可怕，或许正因如此，当整个学校认定我不可信时，我才那么轻易地假装自己毫不在乎。
 
-**关键词：** the unknown（未知）/ pretend I didn’t care（假装不在乎）
+**关键词**： the unknown（未知）/ pretend I didn’t care（假装不在乎）
 
-**为什么这样写：** 一句里两次转折：unknown（未来的新生活）与 not to be trusted（过去被审判），把"向前怕"与"向后伤"叠在一句；pretend 让"不在乎"从性格变成一个需要维持的谎言。
+**为什么这样写**： 一句里两次转折：unknown（未来的新生活）与 not to be trusted（过去被审判），把"向前怕"与"向后伤"叠在一句；pretend 让"不在乎"从性格变成一个需要维持的谎言。
 
-**读者视角提示：** 这是全章的题眼，也是全书引擎——她之所以没能走出高中，是因为还没准备好面对自己做过的事。
+**读者视角提示**： 这是全章的题眼，也是全书引擎——她之所以没能走出高中，是因为还没准备好面对自己做过的事。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|

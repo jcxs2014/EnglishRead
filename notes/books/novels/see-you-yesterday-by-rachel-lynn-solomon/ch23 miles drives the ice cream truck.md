@@ -17,73 +17,73 @@ modified: "2026-09-30"
 
 > **原句 1:** "Miles being the only person I talk to on a regular basis is really fucking with my brain."
 
-**中文理解：** 我唯一能经常说话的人就是 Miles 这件事，真的快把我脑子搞坏了。
+**中文理解**： 我唯一能经常说话的人就是 Miles 这件事，真的快把我脑子搞坏了。
 
-**关键词：** on a regular basis（经常地）/ fucking with my brain（把我的脑子搞坏）
+**关键词**： on a regular basis（经常地）/ fucking with my brain（把我的脑子搞坏）
 
-**为什么这样写：** fucking with 是极口语的"折磨、搞乱"，套进 my brain 就把一整类社会关系压缩成一个动词短语；前面用 the only person 划出唯一性，后面用 really 加码——她的处境不需要解释，只需要一个形容强度的小词。
+**为什么这样写**： fucking with 是极口语的"折磨、搞乱"，套进 my brain 就把一整类社会关系压缩成一个动词短语；前面用 the only person 划出唯一性，后面用 really 加码——她的处境不需要解释，只需要一个形容强度的小词。
 
-**读者视角提示：** 她在向自己承认：她已经没有任何别的坐标系了，一个人的存在就等于全部参照系。
+**读者视角提示**： 她在向自己承认：她已经没有任何别的坐标系了，一个人的存在就等于全部参照系。
 
 ---
 
 > **原句 2:** "It doesn’t matter if certain elements of him are appealing in a certain way during certain hours of September 21."
 
-**中文理解：** 他身上某些成分会在九月二十一日的某些时段以某种方式显得有吸引力——这件事无关紧要。
+**中文理解**： 他身上某些成分会在九月二十一日的某些时段以某种方式显得有吸引力——这件事无关紧要。
 
-**关键词：** certain elements（某些成分）/ appealing（有吸引力的）/ certain hours（某些时段）
+**关键词**： certain elements（某些成分）/ appealing（有吸引力的）/ certain hours（某些时段）
 
-**为什么这样写：** 三个 certain 精确到近乎机械，把心动拆成一组可枚举的条件；appeal 是"迎合"而非"喜欢"，暗示这份吸引力一部分来自她"被迎合"时的自我价值；句首 It doesn’t matter 连说两遍，是说服自己的样子。
+**为什么这样写**： 三个 certain 精确到近乎机械，把心动拆成一组可枚举的条件；appeal 是"迎合"而非"喜欢"，暗示这份吸引力一部分来自她"被迎合"时的自我价值；句首 It doesn’t matter 连说两遍，是说服自己的样子。
 
-**读者视角提示：** 作者把"我怕我喜欢上他"写成一句条件命题——读者要记住，她现在还在否认。
+**读者视角提示**： 作者把"我怕我喜欢上他"写成一句条件命题——读者要记住，她现在还在否认。
 
 ---
 
 > **原句 3:** "It’s supposed to be freezing in here—it’s the name of the goddamn truck."
 
-**中文理解：** 这里面本该冷得发抖——毕竟这车就叫这个该死的名字。
+**中文理解**： 这里面本该冷得发抖——毕竟这车就叫这个该死的名字。
 
-**关键词：** supposed to be（本该是）/ freezing（冷冻的）/ the name of the goddamn truck（那该死的车的名字）
+**关键词**： supposed to be（本该是）/ freezing（冷冻的）/ the name of the goddamn truck（那该死的车的名字）
 
-**为什么这样写：** the name of 是一句极古老的英语解释句式，作者把它套在一辆写着 THE BIG FREEZE 的甜品车上，让"冷"这个属性和"冷"这个词互相证明；goddamn 三个字母承担全部情绪，脏话越短，窘迫越真。
+**为什么这样写**： the name of 是一句极古老的英语解释句式，作者把它套在一辆写着 THE BIG FREEZE 的甜品车上，让"冷"这个属性和"冷"这个词互相证明；goddamn 三个字母承担全部情绪，脏话越短，窘迫越真。
 
-**读者视角提示：** 这是全书最漂亮的用词玩笑之一——笑点成立的前提是读者真的注意到了车身上那行字。
+**读者视角提示**： 这是全书最漂亮的用词玩笑之一——笑点成立的前提是读者真的注意到了车身上那行字。
 
 ---
 
 > **原句 4:** "This friendship between us is still so new. Breakable."
 
-**中文理解：** 我们之间的这份友谊还这么新。新到一碰就碎。
+**中文理解**： 我们之间的这份友谊还这么新。新到一碰就碎。
 
-**关键词：** still so new（还这么新）/ Breakable（易碎的）
+**关键词**： still so new（还这么新）/ Breakable（易碎的）
 
-**为什么这样写：** 两个短句之间用句号断开，让"新"和"易碎"各自独立成立又互相证明；形容词 Breakable 提为独立短句，语法上的停顿就是心理上的悬崖——她在计算这段关系的承重。
+**为什么这样写**： 两个短句之间用句号断开，让"新"和"易碎"各自独立成立又互相证明；形容词 Breakable 提为独立短句，语法上的停顿就是心理上的悬崖——她在计算这段关系的承重。
 
-**读者视角提示：** 全章唯一的冷句，也是她给这段关系定下的第一条规矩：不能让它有代价。
+**读者视角提示**： 全章唯一的冷句，也是她给这段关系定下的第一条规矩：不能让它有代价。
 
 ---
 
 > **原句 5:** "I’m going to try my best not to comment on the fact that he said make love to instead of have sex with or sleep with."
 
-**中文理解：** 我得尽力不去评论一件事：他说的不是 have sex with，也不是 sleep with，而是 make love to。
+**中文理解**： 我得尽力不去评论一件事：他说的不是 have sex with，也不是 sleep with，而是 make love to。
 
-**关键词：** try my best not to（尽力不去）/ make love to（做爱，说得更柔一点）/ instead of（而不是）
+**关键词**： try my best not to（尽力不去）/ make love to（做爱，说得更柔一点）/ instead of（而不是）
 
-**为什么这样写：** 三个短语以 instead of 排成降级阶梯，把"用词"问题写成一道语法排序题；作者让叙述者花整整一句去计算一个词的重量，正是她试图用理性管理一段已经开始失控的注意力的证据。
+**为什么这样写**： 三个短语以 instead of 排成降级阶梯，把"用词"问题写成一道语法排序题；作者让叙述者花整整一句去计算一个词的重量，正是她试图用理性管理一段已经开始失控的注意力的证据。
 
-**读者视角提示：** 这道排序题没有答案——她自己也分不清 make love 和 sleep with 差在哪里，读者同样分不清。
+**读者视角提示**： 这道排序题没有答案——她自己也分不清 make love 和 sleep with 差在哪里，读者同样分不清。
 
 ---
 
 > **原句 6:** "I never thought I’d be so excited to plunge my hands into frozen tubs of dairy."
 
-**中文理解：** 我从没想过，自己会这么急着把双手插进一桶桶冻硬的乳制品里。
+**中文理解**： 我从没想过，自己会这么急着把双手插进一桶桶冻硬的乳制品里。
 
-**关键词：** never thought I’d（从没想过）/ plunge my hands（把手插进去）/ frozen tubs of dairy（冻硬的乳制品桶）
+**关键词**： never thought I’d（从没想过）/ plunge my hands（把手插进去）/ frozen tubs of dairy（冻硬的乳制品桶）
 
-**为什么这样写：** dairy 是行业词，dairy products 才是日常词；作者在这里故意让她的措辞降级到新闻稿口吻，而 plunge 和 tubs 把劳动写得又重又狼狈，句末的 so excited 反着说——她高兴的不是冰淇淋，是不必再谈刚才那些事。
+**为什么这样写**： dairy 是行业词，dairy products 才是日常词；作者在这里故意让她的措辞降级到新闻稿口吻，而 plunge 和 tubs 把劳动写得又重又狼狈，句末的 so excited 反着说——她高兴的不是冰淇淋，是不必再谈刚才那些事。
 
-**读者视角提示：** 全章的收尾句把主题钉在"逃"上：甜品车救的不是心情，是话题。
+**读者视角提示**： 全章的收尾句把主题钉在"逃"上：甜品车救的不是心情，是话题。
 
 ## 本章词汇
 

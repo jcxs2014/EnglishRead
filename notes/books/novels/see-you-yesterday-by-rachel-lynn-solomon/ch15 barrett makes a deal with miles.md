@@ -17,73 +17,73 @@ modified: "2026-09-30"
 
 > **原句 1:** "My brain is soup, a simmering mess of neurons stumbling their way around dimly lit pathways."
 
-**中文理解：** 我的脑子是一锅汤，一团文火慢煨着的神经元，踉踉跄跄地走在光线昏暗的小路上。
+**中文理解**： 我的脑子是一锅汤，一团文火慢煨着的神经元，踉踉跄跄地走在光线昏暗的小路上。
 
-**关键词：** simmering mess（小火慢炖的一团乱）/ stumbling（踉跄）
+**关键词**： simmering mess（小火慢炖的一团乱）/ stumbling（踉跄）
 
-**为什么这样写：** 开篇把 WE'VE BEEN IN THE LIBRARY 全大写当作已耗掉的时间，一句 soup 就把三天努力降格成一锅糊；simmering 选得极准——不是沸腾（爆发），是将开未开（憋着），而 stumbling 又把神经元的走路姿势写成醉汉，neuron 与 pathway 都在低头赶路，没有一个抬头。这就是全书写 Miles 的语法：无限努力但毫无进展。
+**为什么这样写**： 开篇把 WE'VE BEEN IN THE LIBRARY 全大写当作已耗掉的时间，一句 soup 就把三天努力降格成一锅糊；simmering 选得极准——不是沸腾（爆发），是将开未开（憋着），而 stumbling 又把神经元的走路姿势写成醉汉，neuron 与 pathway 都在低头赶路，没有一个抬头。这就是全书写 Miles 的语法：无限努力但毫无进展。
 
-**读者视角提示：** 注意 soup 与 simile 连用的这个开场，它是 Barrett 观察 Miles 时反复使用的降调法，后面她看 Miles 叹气、写 Miles 关门都是同一个句式。
+**读者视角提示**： 注意 soup 与 simile 连用的这个开场，它是 Barrett 观察 Miles 时反复使用的降调法，后面她看 Miles 叹气、写 Miles 关门都是同一个句式。
 
 ---
 
 > **原句 2:** "A sigh, which is the primary way Miles and I interact."
 
-**中文理解：** 一声叹气——这是 Miles 和我主要的交流方式。
+**中文理解**： 一声叹气——这是 Miles 和我主要的交流方式。
 
-**关键词：** primary way（主要方式）/ interact（互动）
+**关键词**： primary way（主要方式）/ interact（互动）
 
-**为什么这样写：** 先给名词再补同位语 which...，把"两个人相对无言"直接定义成一种互动模式，语气是学术的（primary way 像论文里的措辞），内容却是全书写过最孤独的画面；而后面那串 the...sigh 的清单用「破折号式的并列」把叹气写成可分类的数据，是 Barrett 用科学家的语言解剖科学家。
+**为什么这样写**： 先给名词再补同位语 which...，把"两个人相对无言"直接定义成一种互动模式，语气是学术的（primary way 像论文里的措辞），内容却是全书写过最孤独的画面；而后面那串 the...sigh 的清单用「破折号式的并列」把叹气写成可分类的数据，是 Barrett 用科学家的语言解剖科学家。
 
-**读者视角提示：** 读者要看懂：这段两人互动的全部内容就是一个形容词的位置，Barrett 会记住每一种叹气的分类学，却读不出沉默里的情绪。
+**读者视角提示**： 读者要看懂：这段两人互动的全部内容就是一个形容词的位置，Barrett 会记住每一种叹气的分类学，却读不出沉默里的情绪。
 
 ---
 
 > **原句 3:** "My way means accepting this might be magic, and not science."
 
-**中文理解：** 我的方式意味着接受这件事可能是魔法，而不是科学。
+**中文理解**： 我的方式意味着接受这件事可能是魔法，而不是科学。
 
-**关键词：** accepting（接受）/ magic（魔法）
+**关键词**： accepting（接受）/ magic（魔法）
 
-**为什么这样写：** 这句是她把谈判桌推到桌子中央的一击：my way 后面没有解释，先用 accepting（accepting 是 receive 的另一种过去分词，跟 receive 拼写极像，巧到像在说"我接收这种可能"）把这个词立成关键词；magic 与 science 不是对立而是替代（and not science），既承认对方的规则，又拒绝被它吞没。这是全书少见的一次角色发力宣言。
+**为什么这样写**： 这句是她把谈判桌推到桌子中央的一击：my way 后面没有解释，先用 accepting（accepting 是 receive 的另一种过去分词，跟 receive 拼写极像，巧到像在说"我接收这种可能"）把这个词立成关键词；magic 与 science 不是对立而是替代（and not science），既承认对方的规则，又拒绝被它吞没。这是全书少见的一次角色发力宣言。
 
-**读者视角提示：** 读者要听出她语气里的两件事：一是她其实已经接受了对方的规则（motivated by constant questioning 那段她没反驳），二是她更想被验证而不是被原谅。
+**读者视角提示**： 读者要听出她语气里的两件事：一是她其实已经接受了对方的规则（motivated by constant questioning 那段她没反驳），二是她更想被验证而不是被原谅。
 
 ---
 
 > **原句 4:** "I see someone who’s just as lost as I am, someone who was maybe lost before his timeline ever veered off course."
 
-**中文理解：** 我看到的是一个和我一样迷失的人，一个也许在他那条时间线偏航之前就已经迷失了的人。
+**中文理解**： 我看到的是一个和我一样迷失的人，一个也许在他那条时间线偏航之前就已经迷失了的人。
 
-**关键词：** lost（迷失）/ veered off course（偏航）
+**关键词**： lost（迷失）/ veered off course（偏航）
 
-**为什么这样写：** 前一句还是 I don’t only see the reserved, stoic boy from day one（我不只看到第一天那个克制、寡言的男孩），后一句用 someone...someone 的同位重复把句子从"看到 Miles"降级成"看到一个人"；veered off course 是航海词，把整本书的时间循环压缩成一次航线偏离，Lost 的双重含义（一无所获／迷失）在 lost / veered off course 三个词上同时响。
+**为什么这样写**： 前一句还是 I don’t only see the reserved, stoic boy from day one（我不只看到第一天那个克制、寡言的男孩），后一句用 someone...someone 的同位重复把句子从"看到 Miles"降级成"看到一个人"；veered off course 是航海词，把整本书的时间循环压缩成一次航线偏离，Lost 的双重含义（一无所获／迷失）在 lost / veered off course 三个词上同时响。
 
-**读者视角提示：** 这是本章最重要的一次视角滑移——她第一次用共情而不是竞争去看 Miles，读者要在这里开始意识到她已经不只是把他当研究对象。
+**读者视角提示**： 这是本章最重要的一次视角滑移——她第一次用共情而不是竞争去看 Miles，读者要在这里开始意识到她已经不只是把他当研究对象。
 
 ---
 
 > **原句 5:** "Jesus, I’m incapable of doing a single good thing."
 
-**中文理解：** 天哪，我连一件好事都做不成。
+**中文理解**： 天哪，我连一件好事都做不成。
 
-**关键词：** incapable（没有能力）
+**关键词**： incapable（没有能力）
 
-**为什么这样写：** 自嘲段落的通用套路是"我又闯祸了"，但 incapable 把能力问题坐实成身份问题——不是运气差，是没有这个能力；single a（连一件都）这种强调结构的目的是把所有小失败一次性打包，Jesus 又把语气拉回宗教式惊呼（对比Miles 的自然科学家身份）。
+**为什么这样写**： 自嘲段落的通用套路是"我又闯祸了"，但 incapable 把能力问题坐实成身份问题——不是运气差，是没有这个能力；single a（连一件都）这种强调结构的目的是把所有小失败一次性打包，Jesus 又把语气拉回宗教式惊呼（对比Miles 的自然科学家身份）。
 
-**读者视角提示：** 读者要把这句和"她本来是好意"对齐——她提醒了滑板少年，是少年自己分心了，这个因果缺口就是 Barrett 自我定罪的方式。
+**读者视角提示**： 读者要把这句和"她本来是好意"对齐——她提醒了滑板少年，是少年自己分心了，这个因果缺口就是 Barrett 自我定罪的方式。
 
 ---
 
 > **原句 6:** "“Yep. I’m getting out of this hellhole—why wouldn’t it be?” With a final sniff, she pushes to her feet, shoulders back, confidence restored. “Have a good freshman year, Barrett.”"
 
-**中文理解：** "是啊。我正要离开这个地狱——不然还能怎样？"她吸了最后一下鼻子，站起身，肩膀重新挺起，自信归位。" Barrett，祝你大一愉快。"
+**中文理解**： "是啊。我正要离开这个地狱——不然还能怎样？"她吸了最后一下鼻子，站起身，肩膀重新挺起，自信归位。" Barrett，祝你大一愉快。"
 
-**关键词：** final sniff（最后吸一下鼻子）/ confidence restored（自信恢复）/ Have a good freshman year（祝你大一愉快）
+**关键词**： final sniff（最后吸一下鼻子）/ confidence restored（自信恢复）/ Have a good freshman year（祝你大一愉快）
 
-**为什么这样写：** 破折号后的反问 why wouldn’t it be? 承担了全部重量——这句话既是安慰，也是"我能走，你走不了"；破折号前是承认，破折号后是攻击，藏在反问的轻描淡写里；而 confidence restored 和肩膀重新挺起都是被动式主语（她不是在逞强，是身体自动重启了）；最后那句客套用词极其普通，正是这种普通让恶意看起来无害——读者要在这里第一次感觉到 Lucie 在用礼貌当武器。
+**为什么这样写**： 破折号后的反问 why wouldn’t it be? 承担了全部重量——这句话既是安慰，也是"我能走，你走不了"；破折号前是承认，破折号后是攻击，藏在反问的轻描淡写里；而 confidence restored 和肩膀重新挺起都是被动式主语（她不是在逞强，是身体自动重启了）；最后那句客套用词极其普通，正是这种普通让恶意看起来无害——读者要在这里第一次感觉到 Lucie 在用礼貌当武器。
 
-**读者视角提示：** 读者应该把这句话和 ch01 里"四年后你会变成怎样的人"的预言连起来读；本章结尾那声 heavy door 的摔门声，就是这个预言的兑现声。
+**读者视角提示**： 读者应该把这句话和 ch01 里"四年后你会变成怎样的人"的预言连起来读；本章结尾那声 heavy door 的摔门声，就是这个预言的兑现声。
 
 ## 本章词汇
 

@@ -17,9 +17,9 @@ modified: "2026-09-30"
 
 > **原句 1:** "People don’t just disappear in this day and age. Not without an explanation."
 
-**中文理解：** 在这个时代，人不会就这么凭空消失的。不会没有一个解释。
+**中文理解**： 在这个时代，人不会就这么凭空消失的。不会没有一个解释。
 
-**关键词：** in this day and age（在这个时代）/ disappear（消失）/ Not without an explanation（不会没有解释）
+**关键词**： in this day and age（在这个时代）/ disappear（消失）/ Not without an explanation（不会没有解释）
 
 **为什么这样写**：in this day and age 是一句几乎写死在英美小说里的"常识声明"，作者让它以最普通的形式出现，好让后面 Not without an explanation 的短句变成一次私人信念的坚持；她要的不是答案，是"这种事不会没有理由"的确认。
 
@@ -29,21 +29,21 @@ modified: "2026-09-30"
 
 > **原句 2:** "She walks with an indifferent kind of confidence."
 
-**中文理解：** 她走着，步子里带着一种漫不经心的自信。
+**中文理解**： 她走着，步子里带着一种漫不经心的自信。
 
-**关键词：** walks（走着）/ indifferent（漠不关心的）/ kind of confidence（一种自信）
+**关键词**： walks（走着）/ indifferent（漠不关心的）/ kind of confidence（一种自信）
 
 **为什么这样写**：a kind of 是一次克制的降调，把最强的那个词 confidence 圈进"某种"里，于是读者同时看到她的确自信和叙述者不肯承认；indifferent 又是她的错词——她不是无视这层混乱，是这层混乱先对她让开路。
 
-**读者视角提示：** 这一幕是全书"标签"母题的具象化——整个办公室因为姓 Lamont 而安静，而她自己毫无所觉。
+**读者视角提示**： 这一幕是全书"标签"母题的具象化——整个办公室因为姓 Lamont 而安静，而她自己毫无所觉。
 
 ---
 
 > **原句 3:** "“I’m a great listener who never judges or makes inappropriate jokes?”"
 
-**中文理解：** "因为我是个从不评判人、也不讲不合时宜的玩笑的绝佳听众？"
+**中文理解**： "因为我是个从不评判人、也不讲不合时宜的玩笑的绝佳听众？"
 
-**关键词：** a great listener（绝佳的听众）/ never judges（从不评判）/ inappropriate jokes（不合时宜的玩笑）
+**关键词**： a great listener（绝佳的听众）/ never judges（从不评判）/ inappropriate jokes（不合时宜的玩笑）
 
 **为什么这样写**：她把对方刚说出口的"我都不知道为什么要告诉你"直接拿来当自己的理由，把自嘲伪装成客观依据；never 与 or 排成两道防线，而 inappropriate 用的正是她自己最熟悉的自我评价标准——她骂的是别人，其实照的是自己那面镜子。
 
@@ -53,9 +53,9 @@ modified: "2026-09-30"
 
 > **原句 4:** "But they still want me to be their perfect clone, and sometimes it feels… suffocating."
 
-**中文理解：** 但他们还是想让我做他们的完美克隆，有时候那种感觉……让人窒息。
+**中文理解**： 但他们还是想让我做他们的完美克隆，有时候那种感觉……让人窒息。
 
-**关键词：** still（还是）/ perfect clone（完美克隆）/ it feels… suffocating（感觉……窒息）
+**关键词**： still（还是）/ perfect clone（完美克隆）/ it feels… suffocating（感觉……窒息）
 
 **为什么这样写**：still 挂在 but 之后，把"我以为上大学会不一样"与"结果不是"之间的距离压成两秒；她选的词是 clone 而不是 successor——不是"接班人"这个职业身份，而是生物学意义上的复制品，窒息感由此有了物理解释。
 
@@ -65,9 +65,9 @@ modified: "2026-09-30"
 
 > **原句 5:** "And I’m heartbroken that no matter what progress we’ve made, it’ll all be erased by tomorrow."
 
-**中文理解：** 而让我心碎的是：不管我们已经走了多远，明天一切都会被抹掉。
+**中文理解**： 而让我心碎的是：不管我们已经走了多远，明天一切都会被抹掉。
 
-**关键词：** no matter what（不管什么）/ progress we've made（我们已取得的进展）/ it'll all be erased（这一切都会被抹掉）
+**关键词**： no matter what（不管什么）/ progress we've made（我们已取得的进展）/ it'll all be erased（这一切都会被抹掉）
 
 **为什么这样写**：把两段最沉重的思考压进一个单句从句：no matter what 前置，条件先行，结论落在被动语态 it’ll all be erased 上——"被抹掉"的主语不是人而是"这一切"，人被算进了"这一切"里却毫无还手之力；开头的 And 让这一切挂在上一句"我们会是朋友"的后面，最甜的结论被最狠的注脚收尾。
 

@@ -17,75 +17,77 @@ modified: "2026-09-30"
 
 > **原句 1:** "It’s amazing what a massive amount of cash can accomplish."
 
-**中文理解：** 巨额现金能办成什么事，真是令人惊叹。
+**中文理解**： 巨额现金能办成什么事，真是令人惊叹。
 
-**关键词：** a massive amount of cash（巨额现金）/ accomplish（办成）
+**关键词**： a massive amount of cash（巨额现金）/ accomplish（办成）
 
-**为什么这样写：** 作者用 cash 这个词直接承认这场"奇迹"只是用钱买的，It’s amazing 的反讽全靠这个前提；accomplish 用在领养狗上，把本来做不到的事写成了某种成就，讽刺因此落在金钱的万能性上。
+**为什么这样写**： 作者用 cash 这个词直接承认这场"奇迹"只是用钱买的，It’s amazing 的反讽全靠这个前提；accomplish 用在领养狗上，把本来做不到的事写成了某种成就，讽刺因此落在金钱的万能性上。
 
-**读者视角提示：** 他们有钱、有时间、有十五只狗——这才是他们"正常的明天"该有的样子。
+**读者视角提示**： 他们有钱、有时间、有十五只狗——这才是他们"正常的明天"该有的样子。
 
 ---
 
 > **原句 2:** "We’d recently come into an inheritance, we said."
 
-**中文理解：** 我们说，我们最近刚得到了一笔遗产。
+**中文理解**： 我们说，我们最近刚得到了一笔遗产。
 
-**关键词：** come into（得到、继承）/ an inheritance（一笔遗产）
+**关键词**： come into（得到、继承）/ an inheritance（一笔遗产）
 
-**为什么这样写：** we said 这个尾巴把"事实"降级为"我们编的理由"，叙述者立刻承认这是一句谎话；这与 Barrett 一贯的自我保护一脉相承——她习惯用一个无害的谎言换取不必解释的清静。
+**为什么这样写**： we said 这个尾巴把"事实"降级为"我们编的理由"，叙述者立刻承认这是一句谎话；这与 Barrett 一贯的自我保护一脉相承——她习惯用一个无害的谎言换取不必解释的清静。
 
-**读者视角提示：** 她学会的第一条生存法则：不必解释，直接用钱解决。
+**读者视角提示**： 她学会的第一条生存法则：不必解释，直接用钱解决。
 
 ---
 
 > **原句 3:** "They’re entranced, under some spell apparently only Miles has cast."
 
-**中文理解：** 它们都着迷了，显然是被某种只有 Miles 才施放的咒语定住的。
+**中文理解**： 它们都着迷了，显然是被某种只有 Miles 才施放的咒语定住的。
 
-**关键词：** entranced（着迷的）/ under some spell（被某种咒语）
+**关键词**： entranced（着迷的）/ under some spell（被某种咒语）
 
-**为什么这样写：** The dogs 是主语，Miles 才是施咒者，而 apparently 让她的判断退为推测；entranced 与 spell 让一只科学家的严肃形象瞬间坍塌成童话里的巫师，反差写出了她对他另一面的惊叹。
+**为什么这样写**： The dogs 是主语，Miles 才是施咒者，而 apparently 让她的判断退为推测；entranced 与 spell 让一只科学家的严肃形象瞬间坍塌成童话里的巫师，反差写出了她对他另一面的惊叹。
 
-**读者视角提示：** 这才是 Miles 真正的样子——对所有需要温柔的对象一视同仁。
+**读者视角提示**： 这才是 Miles 真正的样子——对所有需要温柔的对象一视同仁。
 
 ---
 
 > **原句 4:** "I try whistling at the dogs, throwing a few tennis balls, even getting down in the mud to play, but nothing works."
 
-**中文理解：** 我试着对狗吹口哨、丢几只网球，甚至趴到泥里陪它们玩，但全都没用。
+**中文理解**： 我试着对狗吹口哨、丢几只网球，甚至趴到泥里陪它们玩，但全都没用。
 
-**关键词：** whistling（吹口哨）/ throwing a few tennis balls（丢几只网球）/ nothing works（全都没用）
+**关键词**： whistling（吹口哨）/ throwing a few tennis balls（丢几只网球）/ nothing works（全都没用）
 
-**为什么这样写：** 三个动作用 try / throwing / even getting down 逐级加码，even 一词把"趴进泥里"标成她自己的极限，而 nothing works 把全部努力一次性否掉；她越努力，越显得她和他之间的差距不在技巧而在别的地方。
+**为什么这样写**： 三个动作用 try / throwing / even getting down 逐级加码，even 一词把"趴进泥里"标成她自己的极限，而 nothing works 把全部努力一次性否掉；她越努力，越显得她和他之间的差距不在技巧而在别的地方。
 
-**读者视角提示：** 她愿意趴进泥里讨狗开心——这比任何告白都更早暴露了她的心思。
+**读者视角提示**： 她愿意趴进泥里讨狗开心——这比任何告白都更早暴露了她的心思。
 
 ---
 
 > **原句 5:** "The glimpses I’ve gotten of this Miles aren’t nearly enough, even when they’re making my heart skip and stutter inside my chest."
 
-**中文理解：** 我看到的这个 Miles 的这些片段还远远不够，即便它们已经让我的心脏在胸腔里又跳又停不下来。
+**中文理解**： 我看到的这个 Miles 的这些片段还远远不够，即便它们已经让我的心脏在胸腔里又跳又停不下来。
 
-**关键词：** glimpses（片段）/ aren’t nearly enough（远远不够）/ heart skip and stutter（心跳又乱又停）
+**关键词**： glimpses（片段）/ aren’t nearly enough（远远不够）/ heart skip and stutter（心跳又乱又停）
 
-**为什么这样写：** 两处否定（aren't nearly enough、even when）把它写成了不够满足的贪心，而不是心动的抒情；skip and stutter 用两个不规则动词形容心跳，把生理的节律失常直接搬进情感描写——她心动时身体先于语言出问题。
+**为什么这样写**： 两处否定（aren't nearly enough、even when）把它写成了不够满足的贪心，而不是心动的抒情；skip and stutter 用两个不规则动词形容心跳，把生理的节律失常直接搬进情感描写——她心动时身体先于语言出问题。
 
-**读者视角提示：** 这是全书罕见的一次她主动承认"我还想要更多"，而对象是另一个人。
+**读者视角提示**： 这是全书罕见的一次她主动承认"我还想要更多"，而对象是另一个人。
 
 ---
 
 > **原句 6:** "“You want to play dirty?” he says, reaching for my legs and dragging me back into the mud."
 
-**中文理解：** "你想玩脏的吗？"他说着，伸手抓住我的腿，把我拖回泥里。
+**中文理解**： "你想玩脏的吗？"他说着，伸手抓住我的腿，把我拖回泥里。
 
-**关键词：** play dirty（玩脏的）/ dragging me back into the mud（把我拖回泥里）
+**关键词**： play dirty（玩脏的）/ dragging me back into the mud（把我拖回泥里）
 
-**为什么这样写：** You want to play dirty? 用疑问句挑衅，把她刚画在脸上的泥当成宣战书；dragging 呼应全章的泥地主题，两个人从各自的位置回到同一个泥坑——这句的动作既是惩罚也是邀请。
+**为什么这样写**： You want to play dirty? 用疑问句挑衅，把她刚画在脸上的泥当成宣战书；dragging 呼应全章的泥地主题，两个人从各自的位置回到同一个泥坑——这句的动作既是惩罚也是邀请。
 
-**读者视角提示：** 全书唯一一次他把玩笑当真：她也用同一句回敬，两人就此确定了关系的新规则。
+**读者视角提示**： 全书唯一一次他把玩笑当真：她也用同一句回敬，两人就此确定了关系的新规则。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|

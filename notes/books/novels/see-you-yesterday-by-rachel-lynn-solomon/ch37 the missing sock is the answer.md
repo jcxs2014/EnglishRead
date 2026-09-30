@@ -17,61 +17,61 @@ modified: "2026-09-30"
 
 > **原句 1:** "I swear to god, only Miles could make the words structural integrity sound hot."
 
-**中文理解：** 我对天发誓，全世界只有 Miles 能把"结构完整性"这几个字说得这么性感。
+**中文理解**： 我对天发誓，全世界只有 Miles 能把"结构完整性"这几个字说得这么性感。
 
-**关键词：** I swear to god（我对天发誓）／only Miles could（只有 Miles 能）／sound hot（听起来性感）
+**关键词**： I swear to god（我对天发誓）／only Miles could（只有 Miles 能）／sound hot（听起来性感）
 
-**为什么这样写：** 一句典型的第一人称吐槽，句法上是"强调句 + 感官判断"：only Miles could 把主语锁死，sound hot 用听觉通道去评价一个物理术语，制造错位；structural integrity 是工程学术语，Miles 那个"物理系天才"的人设本该让这句话更冷，Barrett 却听出热度——错位正是笑点与心动的交界。
+**为什么这样写**： 一句典型的第一人称吐槽，句法上是"强调句 + 感官判断"：only Miles could 把主语锁死，sound hot 用听觉通道去评价一个物理术语，制造错位；structural integrity 是工程学术语，Miles 那个"物理系天才"的人设本该让这句话更冷，Barrett 却听出热度——错位正是笑点与心动的交界。
 
-**读者视角提示：** 全书对 Miles 智商与性吸引力最省力的一次合并：同一句台词同时完成人设与心动。
+**读者视角提示**： 全书对 Miles 智商与性吸引力最省力的一次合并：同一句台词同时完成人设与心动。
 
 ---
 
 > **原句 2:** "The living room has been transformed, a miniature museum of my mom and Jocelyn’s relationship."
 
-**中文理解：** 客厅被彻底改造成了一座微缩博物馆，收藏的是我妈妈和 Jocelyn 的关系。
+**中文理解**： 客厅被彻底改造成了一座微缩博物馆，收藏的是我妈妈和 Jocelyn 的关系。
 
-**关键词：** has been transformed（被彻底改造）／a miniature museum（一座微缩博物馆）／of my mom and Jocelyn’s relationship（关于我妈妈与 Jocelyn 的关系）
+**关键词**： has been transformed（被彻底改造）／a miniature museum（一座微缩博物馆）／of my mom and Jocelyn’s relationship（关于我妈妈与 Jocelyn 的关系）
 
-**为什么这样写：** 被动语态 has been transformed 把"改变"的责任从人身上拿走，好像这客厅是自己变成的——而她明明跪在地上粘了一整天胶水；a miniature museum 后面接 of + 关系（抽象名词），"博物馆收藏关系"本身是矛盾的比喻，正是全章的核心修辞：把两个人之间的日子做成可陈列、可索引的物件。
+**为什么这样写**： 被动语态 has been transformed 把"改变"的责任从人身上拿走，好像这客厅是自己变成的——而她明明跪在地上粘了一整天胶水；a miniature museum 后面接 of + 关系（抽象名词），"博物馆收藏关系"本身是矛盾的比喻，正是全章的核心修辞：把两个人之间的日子做成可陈列、可索引的物件。
 
-**读者视角提示：** 这是 Barrett 视角里的母题——她一直在给别人的关系写注脚，却不肯有人给她写。
+**读者视角提示**： 这是 Barrett 视角里的母题——她一直在给别人的关系写注脚，却不肯有人给她写。
 
 ---
 
 > **原句 3:** "But when his voice trails off, it isn’t awkward. I’m Barrett’s ellipsis—somehow, it fits."
 
-**中文理解：** 可当他话音断在那里时，并不尴尬。我是 Barrett 的省略号——不知怎么的，刚刚好。
+**中文理解**： 可当他话音断在那里时，并不尴尬。我是 Barrett 的省略号——不知怎么的，刚刚好。
 
-**关键词：** his voice trails off（他的声音断在半截）／it isn’t awkward（并不尴尬）／I’m Barrett’s ellipsis（我是 Barrett 的省略号）
+**关键词**： his voice trails off（他的声音断在半截）／it isn’t awkward（并不尴尬）／I’m Barrett’s ellipsis（我是 Barrett 的省略号）
 
-**为什么这样写：** trails off（话说到一半消失）把"他还没准备好说出'男朋友'"这件事变成一个语法现象；他没说完的名词正是全书这一对的关系定义词，而她把它命名为标点符号；ellipsis 三个点既是他没说的部分，也正好是她名字后面省略掉的部分——一个标点同时收纳两人的胆怯；somehow, it fits 用口语的松散（无 that）把"合身"说得像试衣服。
+**为什么这样写**： trails off（话说到一半消失）把"他还没准备好说出'男朋友'"这件事变成一个语法现象；他没说完的名词正是全书这一对的关系定义词，而她把它命名为标点符号；ellipsis 三个点既是他没说的部分，也正好是她名字后面省略掉的部分——一个标点同时收纳两人的胆怯；somehow, it fits 用口语的松散（无 that）把"合身"说得像试衣服。
 
-**读者视角提示：** 这是全书最精巧的一次自我命名：她不定义他是谁，只定义他和自己之间缺了什么。
+**读者视角提示**： 这是全书最精巧的一次自我命名：她不定义他是谁，只定义他和自己之间缺了什么。
 
 ---
 
 > **原句 4:** "But there’s something solemn in my mom’s tone, and as perfect as this night is, I’m suddenly reminded of what I’m keeping from her. The things I haven’t told her, the things I’m still finding the courage to admit to myself."
 
-**中文理解：** 可妈妈的语气里有一种郑重，而尽管今夜如此完美，我忽然想起我正瞒着她什么：那些我还没告诉她的事，那些我甚至还在鼓起勇气去承认的事。
+**中文理解**： 可妈妈的语气里有一种郑重，而尽管今夜如此完美，我忽然想起我正瞒着她什么：那些我还没告诉她的事，那些我甚至还在鼓起勇气去承认的事。
 
-**关键词：** something solemn（某种郑重）／what I’m keeping from her（我瞒着她的东西）／the courage to admit to myself（承认给自己的勇气）
+**关键词**： something solemn（某种郑重）／what I’m keeping from her（我瞒着她的东西）／the courage to admit to myself（承认给自己的勇气）
 
-**为什么这样写：** solemn 一词把欢乐的客厅瞬间降温，But 与 as perfect as... 是双重转折，先让步再收回；keeping from her 用 keep from（瞒着）的介词搭配，把"隐瞒"写成一件持续进行的行为而非已完成的决定；haven't told 与 still finding 并列时态，把"说出真相"写成一条还没走完的路，而终点不是妈妈，是她自己——admit to myself 说明她现在怕的对象里已经包括她自己。
+**为什么这样写**： solemn 一词把欢乐的客厅瞬间降温，But 与 as perfect as... 是双重转折，先让步再收回；keeping from her 用 keep from（瞒着）的介词搭配，把"隐瞒"写成一件持续进行的行为而非已完成的决定；haven't told 与 still finding 并列时态，把"说出真相"写成一条还没走完的路，而终点不是妈妈，是她自己——admit to myself 说明她现在怕的对象里已经包括她自己。
 
-**读者视角提示：** 本章的道德重量全在这两句：她可以替妈妈办一场完美的婚礼，却连自己做过什么都还没准备好承认。
+**读者视角提示**： 本章的道德重量全在这两句：她可以替妈妈办一场完美的婚礼，却连自己做过什么都还没准备好承认。
 
 ---
 
 > **原句 5:** "The reason we’re trapped, the reason we always wake up back here. That place where, if Dr. Devereux is to be believed, parallel universes shouldn’t meet but do. The connection point. It’s Olmsted."
 
-**中文理解：** 我们被困住的原因，我们总是醒在这儿的那个原因。就是那个地方——如果德弗罗博士的理论可信的话——平行宇宙本不该相遇、却偏偏相遇的地方。那个连接点。就是 Olmsted 这栋楼。
+**中文理解**： 我们被困住的原因，我们总是醒在这儿的那个原因。就是那个地方——如果德弗罗博士的理论可信的话——平行宇宙本不该相遇、却偏偏相遇的地方。那个连接点。就是 Olmsted 这栋楼。
 
-**关键词：** parallel universes shouldn’t meet but do（平行宇宙本不该相遇却相遇）／The connection point（那个连接点）／It’s Olmsted（就是 Olmsted）
+**关键词**： parallel universes shouldn’t meet but do（平行宇宙本不该相遇却相遇）／The connection point（那个连接点）／It’s Olmsted（就是 Olmsted）
 
-**为什么这样写：** 三个短句靠句号阶梯式推进，把推理写成落地：先是"原因"，再是理论名词，最后是楼名，读者跟着每一步台阶往下走；shouldn't meet but do 用虚拟语气标记"本不该发生"——这一行的关键词是 should，而世界本身违反了它；最后一句把四字答案压到最短，像一记不留余地的断言，且用 It's 而非 This is，让主语回指前面那整个世界。
+**为什么这样写**： 三个短句靠句号阶梯式推进，把推理写成落地：先是"原因"，再是理论名词，最后是楼名，读者跟着每一步台阶往下走；shouldn't meet but do 用虚拟语气标记"本不该发生"——这一行的关键词是 should，而世界本身违反了它；最后一句把四字答案压到最短，像一记不留余地的断言，且用 It's 而非 This is，让主语回指前面那整个世界。
 
-**读者视角提示：** 本章所有喜剧线条（求婚、袜子、眉眼）在此刻全部变成燃料：她第一次不是因为爱、而是因为线索清醒过来。
+**读者视角提示**： 本章所有喜剧线条（求婚、袜子、眉眼）在此刻全部变成燃料：她第一次不是因为爱、而是因为线索清醒过来。
 
 ## 本章词汇
 

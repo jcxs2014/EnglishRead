@@ -17,75 +17,77 @@ modified: "2026-09-30"
 
 > **原句 1:** "I try to cling to the not-memory, searching it for details, for a way to make sense of all this, but it’s a slippery thing, unwilling to be pinned down."
 
-**中文理解：** 我试着抓住那段不存在的记忆，在里面搜寻细节、搜寻能解释这一切的线索，可它滑溜溜的，不肯被钉住。
+**中文理解**： 我试着抓住那段不存在的记忆，在里面搜寻细节、搜寻能解释这一切的线索，可它滑溜溜的，不肯被钉住。
 
-**关键词：** cling to（抓住）/ the not-memory（那段不存在的记忆）/ unwilling to be pinned down（不肯被钉住）
+**关键词**： cling to（抓住）/ the not-memory（那段不存在的记忆）/ unwilling to be pinned down（不肯被钉住）
 
-**为什么这样写：** not-memory 用连字符把"记忆"和否定缝成一个新词，于是那段东西既存在又不成立；slippery 与 unwilling 都给了它意志——不是她记不清，而是那段记忆在躲她，读者由此第一次怀疑"另一个版本的她"有自主性。
+**为什么这样写**： not-memory 用连字符把"记忆"和否定缝成一个新词，于是那段东西既存在又不成立；slippery 与 unwilling 都给了它意志——不是她记不清，而是那段记忆在躲她，读者由此第一次怀疑"另一个版本的她"有自主性。
 
-**读者视角提示：** 这段闪回不是 Bug，是线索——她身上有两个时间线在打架。
+**读者视角提示**： 这段闪回不是 Bug，是线索——她身上有两个时间线在打架。
 
 ---
 
 > **原句 2:** "That much I’m certain of, the way I’m certain that somewhere out there, in a timeline parallel to this one or in some shape my puny human mind can’t possibly fathom, Barrett Bloom kissed Miles Kasher-Okamoto."
 
-**中文理解：** 这一点我很确定，就像我很确定在某个地方、在与这条平行的时间线上，或者以我的可怜人类大脑根本无法想象的形式，Barrett Bloom 吻过 Miles Kasher-Okamoto。
+**中文理解**： 这一点我很确定，就像我很确定在某个地方、在与这条平行的时间线上，或者以我的可怜人类大脑根本无法想象的形式，Barrett Bloom 吻过 Miles Kasher-Okamoto。
 
-**关键词：** parallel（平行的）/ can’t possibly fathom（根本无法想象）/ Barrett Bloom kissed Miles Kasher-Okamoto
+**关键词**： parallel（平行的）/ can’t possibly fathom（根本无法想象）/ Barrett Bloom kissed Miles Kasher-Okamoto
 
-**为什么这样写：** that much I'm certain of 与 the way I'm certain that 用同一个句式把"确定"和"确信"嵌套，于是客观事实与主观确信在句法上对齐；最后把叙述者的全名与他哥哥姓氏并置，正式得像一份证词，而 puny human mind 又立刻自嘲，把证词的可信度亲手降级。
+**为什么这样写**： that much I'm certain of 与 the way I'm certain that 用同一个句式把"确定"和"确信"嵌套，于是客观事实与主观确信在句法上对齐；最后把叙述者的全名与他哥哥姓氏并置，正式得像一份证词，而 puny human mind 又立刻自嘲，把证词的可信度亲手降级。
 
-**读者视角提示：** 她敢肯定的不是"我吻了他"，而是"某个 Barrett 吻过他"——两者之间的距离，就是她还没准备好的事。
+**读者视角提示**： 她敢肯定的不是"我吻了他"，而是"某个 Barrett 吻过他"——两者之间的距离，就是她还没准备好的事。
 
 ---
 
 > **原句 3:** "This perfect day, now completely shattered."
 
-**中文理解：** 这个完美的一天，现在彻底碎掉了。
+**中文理解**： 这个完美的一天，现在彻底碎掉了。
 
-**关键词：** perfect day（完美的一天）/ completely shattered（彻底碎掉）
+**关键词**： perfect day（完美的一天）/ completely shattered（彻底碎掉）
 
-**为什么这样写：** perfect 与 shattered 共用一个被 now 连接起来的句，两个极端形容词之间只隔着时间副词；一句话完成从拥有到失去的完整落差，读者因此在读到的瞬间经历了一次崩塌。
+**为什么这样写**： perfect 与 shattered 共用一个被 now 连接起来的句，两个极端形容词之间只隔着时间副词；一句话完成从拥有到失去的完整落差，读者因此在读到的瞬间经历了一次崩塌。
 
-**读者视角提示：** 她失去的不是一天，是她以为自己终于配得上的那种生活。
+**读者视角提示**： 她失去的不是一天，是她以为自己终于配得上的那种生活。
 
 ---
 
 > **原句 4:** "We’re going to die, I think, the fear a hot and sticky thing in my throat."
 
-**中文理解：** 我觉得我们要死了，恐惧像一团又烫又黏的东西堵在喉咙里。
+**中文理解**： 我觉得我们要死了，恐惧像一团又烫又黏的东西堵在喉咙里。
 
-**关键词：** We’re going to die（我们要死了）/ the fear a hot and sticky thing（恐惧像又烫又黏的东西）
+**关键词**： We’re going to die（我们要死了）/ the fear a hot and sticky thing（恐惧像又烫又黏的东西）
 
-**为什么这样写：** 一个省略了 be 的同位语结构（the fear a… thing），把抽象名词直接换成一团有温度有黏度的实体；in my throat 把抽象压进生理位置，于是叙述者的第一反应不是思考而是窒息。
+**为什么这样写**： 一个省略了 be 的同位语结构（the fear a… thing），把抽象名词直接换成一团有温度有黏度的实体；in my throat 把抽象压进生理位置，于是叙述者的第一反应不是思考而是窒息。
 
-**读者视角提示：** 全书所有关于"害怕"的描写都是生理的——她从来不会说"我很害怕"，只会说她的身体怎么了。
+**读者视角提示**： 全书所有关于"害怕"的描写都是生理的——她从来不会说"我很害怕"，只会说她的身体怎么了。
 
 ---
 
 > **原句 5:** "I’m not ready."
 
-**中文理解：** 我还没准备好。
+**中文理解**： 我还没准备好。
 
-**关键词：** I’m not ready（我还没准备好）
+**关键词**： I’m not ready（我还没准备好）
 
-**为什么这样写：** 三个词独立成段，前面刚写完"我们要死了"，这里却说她还没准备好——未准备好的不是死，而是死前那些没做完的事；把生死时刻缩窄成一份人生进度清单，是她最真实的自私，也是最真实的清醒。
+**为什么这样写**： 三个词独立成段，前面刚写完"我们要死了"，这里却说她还没准备好——未准备好的不是死，而是死前那些没做完的事；把生死时刻缩窄成一份人生进度清单，是她最真实的自私，也是最真实的清醒。
 
-**读者视角提示：** 全章最重要的三个字，也是全书情感命题的压缩版：她终于知道自己舍不得的是什么。
+**读者视角提示**： 全章最重要的三个字，也是全书情感命题的压缩版：她终于知道自己舍不得的是什么。
 
 ---
 
 > **原句 6:** "The last thing I register as metal smashes into metal and glass rains down on us is Miles’s hand finding mine and holding on tight."
 
-**中文理解：** 金属撞上金属、玻璃如雨落在我身上，我最后意识到的，是 Miles 的手找到了我的手，紧紧握住。
+**中文理解**： 金属撞上金属、玻璃如雨落在我身上，我最后意识到的，是 Miles 的手找到了我的手，紧紧握住。
 
-**关键词：** metal smashes into metal（金属撞上金属）/ glass rains down（玻璃如雨落下）/ holding on tight（紧紧握住）
+**关键词**： metal smashes into metal（金属撞上金属）/ glass rains down（玻璃如雨落下）/ holding on tight（紧紧握住）
 
-**为什么这样写：** 把三个被动的灾难名词排在前面，把唯一主动的动作留到最后；is 之后那句冗长的插入语读者读到一半才知道终点是"找到我的手"，于是希望被结构本身延迟到最后一刻。
+**为什么这样写**： 把三个被动的灾难名词排在前面，把唯一主动的动作留到最后；is 之后那句冗长的插入语读者读到一半才知道终点是"找到我的手"，于是希望被结构本身延迟到最后一刻。
 
-**读者视角提示：** 她在濒死时看见的不是天光是他——全书对 romantic 关系的最终确认，藏在一句事故描写里。
+**读者视角提示**： 她在濒死时看见的不是天光是他——全书对 romantic 关系的最终确认，藏在一句事故描写里。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|

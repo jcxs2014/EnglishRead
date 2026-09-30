@@ -17,9 +17,9 @@ modified: "2026-09-30"
 
 > **原句 1:** "“HAPPY SEPTEMBER TWENTY-FIRST,” MILES SAYS in his cheeriest voice when I walk into physics, his eyes bright and thoroughly judgy."
 
-**中文理解：** "九月廿一号快乐，"Miles 用他最欢快的语气在我走进物理课时说，眼睛亮着，写满了看穿。
+**中文理解**： "九月廿一号快乐，"Miles 用他最欢快的语气在我走进物理课时说，眼睛亮着，写满了看穿。
 
-**关键词：** thoroughly judgy（满满看穿/审判）/ in his cheeriest voice（用他最欢快的声音）
+**关键词**： thoroughly judgy（满满看穿/审判）/ in his cheeriest voice（用他最欢快的声音）
 
 **为什么这样写**：以全大写的一句祝福开场，配上 cheeriest voice 这个极端矛盾的搭配——语气最甜、用意最刻薄，正是 Miles 式的挖苦；"HAPPY" 这个生日式的套话用在一个被反复重来的日子上，荒诞感几乎冲出纸面；judgy 那个通俗口语词点破：他在笑她，但那双"亮着的眼睛"又出卖了他其实一直在等她来。
 
@@ -31,7 +31,7 @@ modified: "2026-09-30"
 
 **中文理解**：Miles 对待笑容的方式，就像我对待贴纸和文具一样——极不情愿把它们分出去，仿佛它们是他数量有限、弥足珍贵的宝贝。
 
-**关键词：** reluctant to part with them（不愿把它们给出去）/ a finite number of（数量有限的）
+**关键词**： reluctant to part with them（不愿把它们给出去）/ a finite number of（数量有限的）
 
 **为什么这样写**：一个精准的类比把 Miles 的吝啬翻译成了她自己身上的一样毛病——她也不爱乱用贴纸和文具，两个"小气鬼"在这一点上完全一致；as though 把一个心理猜测写成了调侃，可笑的是这个猜测很可能正中要害；finite number 把"笑不出来"翻译成了一桩可量化的匮乏，一个玩笑里藏着的东西有点沉。
 
@@ -43,7 +43,7 @@ modified: "2026-09-30"
 
 **中文理解**： "既然要继续，我们得给"异常"换个更好的词。"
 
-**关键词：** a better word than anomaly（比"异常"更好的词）/ we're going to do this（我们要做这件事）
+**关键词**： a better word than anomaly（比"异常"更好的词）/ we're going to do this（我们要做这件事）
 
 **为什么这样写**：Miles 用一个学究式的抽象名词 anomaly 指代她反复经历的循环，可她立刻否决了它——这既是语言洁癖，也是她拒绝被"分类"的最后防线；better word 这个短语很轻，落到两个人身上却重：她要的不只是换词，而是要一个能正视这整件事的说法；we're going to do this 里的复数 we，是她第一次用"我们"来框定一场只关于两个人的行动。
 
@@ -55,7 +55,7 @@ modified: "2026-09-30"
 
 **中文理解**： 可有件事一直压在我心上，我不确定没有答案之前我能不能一头扎进这堆发霉的图书馆研究里去。
 
-**关键词：** something is weighing on me（有件事压在我心上）/ commit to（投入、扎进）/ musty（发霉的、陈旧的）
+**关键词**： something is weighing on me（有件事压在我心上）/ commit to（投入、扎进）/ musty（发霉的、陈旧的）
 
 **为什么这样写**：weighing on me 用一个具体的"重量"把无形的焦虑实体化，与他这章一味追求确定性的姿态形成对照；musty 一个词就把他守了六十五天的那间地下室图书馆的气味写尽，也让"查资料"这件事在他那边和在她这边完全不是同一件事；commit to 还是他教她的用词——她在用他世界里的词来怀疑他的世界，分寸拿捏得极准。
 
@@ -67,7 +67,7 @@ modified: "2026-09-30"
 
 **中文理解**： "我的理论，是以自然的基本法则为基础的。"
 
-**关键词：** grounded in（以……为基础）/ the fundamental laws of nature（自然的基本法则）
+**关键词**： grounded in（以……为基础）/ the fundamental laws of nature（自然的基本法则）
 
 **为什么这样写**：把"我喜欢 Groundhog Day 那套"说成"我不过是讲究科学"，grounded in 一词用双关把"扎在现实里"和"有根据"压成同一个词——在 Miles 的词典里，这两者本就密不可分；the fundamental laws（基本法则）暗含"最高不可推翻"之意，傲慢得滴水不漏，而她自己这边抛出的理由不过是"也许我们该循环到变好为止"，荒唐与堂皇一比，照出两人此刻的分歧有多大。
 
@@ -79,7 +79,7 @@ modified: "2026-09-30"
 
 **中文理解**： "因为不知怎么的，违背我所有的理智判断……我喜欢上你了。"
 
-**关键词：** against all my better judgment（违背我所有的理智）/ somehow（不知怎么的）/ I like you（我喜欢你）
+**关键词**： against all my better judgment（违背我所有的理智）/ somehow（不知怎么的）/ I like you（我喜欢你）
 
 **为什么这样写**：前两层是退让（somehow 把"我本来不至于"和"也许我疯了"都兜了进去），against all my better judgment 更是把理智全盘否定，只为放行最简单的一句；三个字，不加"作为朋友"，不加"有的时候"，他给的是最直白的版本——对一个把"六成不讨厌"当极限的人来说，这已经是他的全力一击；后面的 "Not in that way" 是他笨拙的自救，也恰好坐实了这句的分量。
 

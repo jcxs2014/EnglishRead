@@ -17,9 +17,9 @@ modified: "2026-09-30"
 
 > **原句 1:** "Three weeks I’ve been stuck, and many more for Miles, and I have to admit, all the excitement is starting to feel exhausting."
 
-**中文理解：** 我被困了三个星期，Miles 更是数不清多少个星期，我得承认，这种兴奋开始变得令人疲惫了。
+**中文理解**： 我被困了三个星期，Miles 更是数不清多少个星期，我得承认，这种兴奋开始变得令人疲惫了。
 
-**关键词：** I've been stuck（我一直被困着）/ many more（多得多）/ starting to feel exhausting（开始觉得累）
+**关键词**： I've been stuck（我一直被困着）/ many more（多得多）/ starting to feel exhausting（开始觉得累）
 
 **为什么这样写**：Three weeks 与 many more 并置，先用"数得清"与"数不清"划出两个人被困的深浅，再让同一个 I have to admit 把两个数字收进一句自白；exhausting 用在"兴奋"上，让享乐和疲倦共用一个词——循环里的乐趣本质上是同一件事重复到令人麻木。
 
@@ -29,9 +29,9 @@ modified: "2026-09-30"
 
 > **原句 2:** "No matter what we do, I always wake up to Lucie’s voice. I always get a text from my mom at seven thirty, and that skateboarder always crashes into the swing dancers at ten to four. Over and over and over."
 
-**中文理解：** 不管我们做什么，我醒来听见的永远是 Lucie 的声音。我总是在七点三十收到妈妈的短信，那个滑板少年总在十点四分摔进跳华尔兹的人群里。一遍又一遍，又一遍。
+**中文理解**： 不管我们做什么，我醒来听见的永远是 Lucie 的声音。我总是在七点三十收到妈妈的短信，那个滑板少年总在十点四分摔进跳华尔兹的人群里。一遍又一遍，又一遍。
 
-**关键词：** No matter what we do（不管我们做什么）/ I always（我总是）/ Over and over and over（一遍又一遍）
+**关键词**： No matter what we do（不管我们做什么）/ I always（我总是）/ Over and over and over（一遍又一遍）
 
 **为什么这样写**：三个 always 与一个 no matter what 构成一组反证——"我们做的所有事"抵不过"每天同一时刻"；两个 I always 之后换成第三人称的 that skateboarder，句子从她的身体移向整个世界，循环因此不再是她的私事；最后那句把 over 重复三次，第三次的重音落在句号前的沉默里。
 
@@ -41,9 +41,9 @@ modified: "2026-09-30"
 
 > **原句 3:** "“And you’re getting yours in a very secret, very special place.”"
 
-**中文理解：** "而你的，我给你挑了个非常隐秘、非常特别的地方。"
+**中文理解**： "而你的，我给你挑了个非常隐秘、非常特别的地方。"
 
-**关键词：** very secret（非常隐秘的）/ very special（非常特别）/ getting yours（给你挑的）
+**关键词**： very secret（非常隐秘的）/ very special（非常特别）/ getting yours（给你挑的）
 
 **为什么这样写**：两个 very 并列，把一个还没揭晓的位置说成双重秘密；sentence 的信息量几乎为零，可读者和她一样只能等——这正是本场戏的全部张力所在，作者用一句台词的空白撑起一整段等待。
 
@@ -53,9 +53,9 @@ modified: "2026-09-30"
 
 > **原句 4:** "It’s designed to be permanent, and yet we’re getting them for the sole reason that they’re temporary."
 
-**中文理解：** 它被设计成永久的，可我们去做它的唯一理由，正是它们是临时的。
+**中文理解**： 它被设计成永久的，可我们去做它的唯一理由，正是它们是临时的。
 
-**关键词：** designed to be permanent（被设计成永久的）/ the sole reason（唯一的理由）/ temporary（临时的）
+**关键词**： designed to be permanent（被设计成永久的）/ the sole reason（唯一的理由）/ temporary（临时的）
 
 **为什么这样写**：and yet 把两个对立的形容词塞进同一句，句子于是自己变成了悖论；the sole reason 把前半句彻底推翻——纹身的意义不在于 permanence 本身，而在于用一件"会消失"的东西去标记一段"会消失"的时间。
 
@@ -65,9 +65,9 @@ modified: "2026-09-30"
 
 > **原句 5:** "“If we wake up on Thursday,” he says, “I hope you’re ready to pay for tattoo-removal appointments, along with all the therapy I’m going to need to recover from this traumatic experience.”"
 
-**中文理解：** "要是我们醒过来已经是星期四了，"他说，"我希望你做好付去除纹身预约的钱的准备，外加我为了从这段创伤经历里恢复过来所需的所有心理治疗费用。"
+**中文理解**： "要是我们醒过来已经是星期四了，"他说，"我希望你做好付去除纹身预约的钱的准备，外加我为了从这段创伤经历里恢复过来所需的所有心理治疗费用。"
 
-**关键词：** wake up on Thursday（星期四醒来）/ tattoo-removal appointments（去除纹身的预约）/ traumatic experience（创伤经历）
+**关键词**： wake up on Thursday（星期四醒来）/ tattoo-removal appointments（去除纹身的预约）/ traumatic experience（创伤经历）
 
 **为什么这样写**：If we wake up on Thursday 是全书最清楚的一次前提出售——"醒过来"才是这两个人每天最大的赌局，而它被轻描淡写地放进一个以 if 开头的从句；therapist 式的 payment、therapy、traumatic 三个词把玩笑层层加码，最后落在"这段创伤经历"上收尾时，喜剧与心酸同时落地。
 
@@ -77,9 +77,9 @@ modified: "2026-09-30"
 
 > **原句 6:** "“We’re going to pick up my brother from rehab.”"
 
-**中文理解：** "我们要去康复中心接我哥哥。"
+**中文理解**： "我们要去康复中心接我哥哥。"
 
-**关键词：** pick up（接人）/ my brother（我哥哥）/ from rehab（从康复中心）
+**关键词**： pick up（接人）/ my brother（我哥哥）/ from rehab（从康复中心）
 
 **为什么这样写**：全章最后一句只有六个词，靠三个极平常的动词短语完成一次生活剧变；rehab 这个词在此之前从未出现，读者与角色同时第一次听见它，而叙述者立刻结束了本章——信息给足、情绪不给，是作者一贯的收尾手法。
 

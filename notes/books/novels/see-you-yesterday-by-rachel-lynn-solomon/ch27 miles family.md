@@ -17,63 +17,65 @@ modified: "2026-09-30"
 
 > **原句 1:** "“I’m just screwing with you. Means a lot that you’re here. Really.”"
 
-**中文理解：** "我只是跟你开玩笑。你能来，我真的很高兴。"
+**中文理解**： "我只是跟你开玩笑。你能来，我真的很高兴。"
 
-**关键词：** just screwing with you（只是跟你开玩笑）/ Means a lot（意义重大）
+**关键词**： just screwing with you（只是跟你开玩笑）/ Means a lot（意义重大）
 
-**为什么这样写：** 前半句是玩笑，后半句用 Really 单独成句把玩笑撤掉——同一口气里完成了从调侃到承认的切换；Means a lot 与 screwing with 两个短促的动词短语并置，让弟弟的在乎显得手足无措。
+**为什么这样写**： 前半句是玩笑，后半句用 Really 单独成句把玩笑撤掉——同一口气里完成了从调侃到承认的切换；Means a lot 与 screwing with 两个短促的动词短语并置，让弟弟的在乎显得手足无措。
 
-**读者视角提示：** Max 的这一句提前告诉读者，Miles 身边有人在等他回来，而读者知道明天不会来。
+**读者视角提示**： Max 的这一句提前告诉读者，Miles 身边有人在等他回来，而读者知道明天不会来。
 
 ---
 
 > **原句 2:** "Max slings an arm around Miles’s neck, and this clear brotherly affection does that thing to my heart again."
 
-**中文理解：** Max 把一条胳膊甩到 Miles 脖子上，这份显而易见的兄弟亲情又一次让我的心脏做了那个动作。
+**中文理解**： Max 把一条胳膊甩到 Miles 脖子上，这份显而易见的兄弟亲情又一次让我的心脏做了那个动作。
 
-**关键词：** slings an arm around（甩胳膊搭上）/ brotherly affection（兄弟之间的爱）/ does that thing to my heart（又一次让我心口一紧）
+**关键词**： slings an arm around（甩胳膊搭上）/ brotherly affection（兄弟之间的爱）/ does that thing to my heart（又一次让我心口一紧）
 
-**为什么这样写：** again 让这份心口一紧成为重复出现的固定反应——她每次旁观别人自然而然的亲情都会疼；brotherly affection 前加了 clear（显而易见的），说明她嫉妒的从来不是爱，而是那种不需要争取就到手的东西。
+**为什么这样写**： again 让这份心口一紧成为重复出现的固定反应——她每次旁观别人自然而然的亲情都会疼；brotherly affection 前加了 clear（显而易见的），说明她嫉妒的从来不是爱，而是那种不需要争取就到手的东西。
 
-**读者视角提示：** 这就是全书情感缺口的写法：不是她缺少爱，是她缺少"本来就该属于我"的东西。
+**读者视角提示**： 这就是全书情感缺口的写法：不是她缺少爱，是她缺少"本来就该属于我"的东西。
 
 ---
 
 > **原句 3:** "I want to wrap this boy in cellophane and then wrap that in a blanket so he never has to get his heart broken ever again."
 
-**中文理解：** 我想把这个男孩裹进玻璃纸里，再把玻璃纸裹进毯子，让他这辈子都不用再心碎。
+**中文理解**： 我想把这个男孩裹进玻璃纸里，再把玻璃纸裹进毯子，让他这辈子都不用再心碎。
 
-**关键词：** wrap this boy in cellophane（把男孩裹进玻璃纸）/ so he never has to（让他再也不必）
+**关键词**： wrap this boy in cellophane（把男孩裹进玻璃纸）/ so he never has to（让他再也不必）
 
-**为什么这样写：** 从玻璃纸到毯子的层层包裹，把"保护"写成了包装动作，荒诞与心酸同时到位；so...ever again 的双重否定让这份心愿带上了宿命的重量，而她才刚认识这个人的家庭。
+**为什么这样写**： 从玻璃纸到毯子的层层包裹，把"保护"写成了包装动作，荒诞与心酸同时到位；so...ever again 的双重否定让这份心愿带上了宿命的重量，而她才刚认识这个人的家庭。
 
-**读者视角提示：** 她想保护的人不是恋人、不是朋友，而是一个她连生日都不知道的男孩——这份越界的关切比表白更早说明她动心了。
+**读者视角提示**： 她想保护的人不是恋人、不是朋友，而是一个她连生日都不知道的男孩——这份越界的关切比表白更早说明她动心了。
 
 ---
 
 > **原句 4:** "“My birthday—it’s tomorrow,” he manages, trying and failing to muffle his laughter with his shoulder. “September twenty-second.”"
 
-**中文理解：** "我的生日——就是明天，"他勉强挤出声音，想用肩膀捂住笑声却没成功。"九月二十二号。"
+**中文理解**： "我的生日——就是明天，"他勉强挤出声音，想用肩膀捂住笑声却没成功。"九月二十二号。"
 
-**关键词：** my birthday（我的生日）/ trying and failing（想做到却没做到）/ September twenty-second
+**关键词**： my birthday（我的生日）/ trying and failing（想做到却没做到）/ September twenty-second
 
-**为什么这样写：** 破折号把"我的生日"从句子里拽出来单独一顿，那半秒停顿是他的身体先笑出声才补上的；date 用完整的英文日期写出，精确得像实验记录，可这个日期恰好是循环的边界——他用科学家的方式报出了自己最不想要的结果。
+**为什么这样写**： 破折号把"我的生日"从句子里拽出来单独一顿，那半秒停顿是他的身体先笑出声才补上的；date 用完整的英文日期写出，精确得像实验记录，可这个日期恰好是循环的边界——他用科学家的方式报出了自己最不想要的结果。
 
-**读者视角提示：** 全书最巧的一次结构反讽：越精确的时间点，越无法兑现。
+**读者视角提示**： 全书最巧的一次结构反讽：越精确的时间点，越无法兑现。
 
 ---
 
 > **原句 5:** "“To be perfectly honest, I forgot.”"
 
-**中文理解：** "坦白讲，我忘了。"
+**中文理解**： "坦白讲，我忘了。"
 
-**关键词：** To be perfectly honest（坦白讲）/ I forgot（我忘了）
+**关键词**： To be perfectly honest（坦白讲）/ I forgot（我忘了）
 
-**为什么这样写：** To be perfectly honest 先声明要诚实，而紧跟的却是全章最不诚实的答案；forget 一个动词把整件事的重量卸掉，让读者看见他在循环里已经数不清日子、也不再有生日可过。
+**为什么这样写**： To be perfectly honest 先声明要诚实，而紧跟的却是全章最不诚实的答案；forget 一个动词把整件事的重量卸掉，让读者看见他在循环里已经数不清日子、也不再有生日可过。
 
-**读者视角提示：** 这不是遗忘，是六十一天的循环早就剥夺了"纪念日"这个概念——而这正是 Barrett 拼命想还给他的东西。
+**读者视角提示**： 这不是遗忘，是六十一天的循环早就剥夺了"纪念日"这个概念——而这正是 Barrett 拼命想还给他的东西。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|

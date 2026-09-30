@@ -17,9 +17,9 @@ modified: "2026-09-30"
 
 > **原句 1:** "“I’m not sure what kind of a joke this is,” the man says with a derisive laugh, “but we are an esteemed institution. That class sounds like pure fiction.”"
 
-**中文理解：** "我不太确定这是哪种玩笑，"那人带着嘲笑说，"但我们是一所声名显赫的学府。那门课听起来纯属虚构。"
+**中文理解**： "我不太确定这是哪种玩笑，"那人带着嘲笑说，"但我们是一所声名显赫的学府。那门课听起来纯属虚构。"
 
-**关键词：** derisive laugh（嘲笑）/ an esteemed institution（声名显赫的学府）/ pure fiction（纯属虚构）
+**关键词**： derisive laugh（嘲笑）/ an esteemed institution（声名显赫的学府）/ pure fiction（纯属虚构）
 
 **为什么这样写**：derisive laugh 把拒绝写成了一句嘲笑，于是"查无此人"不再是行政失误，而是一种居高临下的判定；更狠的是 esteemed institution——对方搬出"名校"给自己背书，好像虚构一门课比虚构一个人更不可原谅。两句都是名词化的短促判决句，句号连着句号，读者能听出他根本没打算听完。
 
@@ -29,9 +29,9 @@ modified: "2026-09-30"
 
 > **原句 2:** "“But I’m a basic autumn bitch, Miles. I’m at my most powerful in the fall. I need PSLs and boots and cable-knit sweaters to survive. I need to frolic in a pile of leaves.”"
 
-**中文理解：** "可我就是个_basic 秋天婊子啊，Miles。我最厉害的时候就是秋天。我需要乐福鞋、靴子和麻花毛衣才能活下去。我需要在落叶堆里打滚。"
+**中文理解**： "可我就是个_basic 秋天婊子啊，Miles。我最厉害的时候就是秋天。我需要乐福鞋、靴子和麻花毛衣才能活下去。我需要在落叶堆里打滚。"
 
-**关键词：** basic autumn bitch（最普通不过的秋天爱好者）/ at my most powerful（状态最好的时候）/ frolic（欢快地跑跳）
+**关键词**： basic autumn bitch（最普通不过的秋天爱好者）/ at my most powerful（状态最好的时候）/ frolic（欢快地跑跳）
 
 **为什么这样写**：她把"我喜欢秋天"这种小爱好抬成 self-love 的宣言，basic 与 powerful 的反差是笑点；但三个 need 排成一列清单，三个 I need 不肯喘气，正好画出她此刻的心理——被否定的人开始盘算"我到底想要什么"。frolic 在这里是最后一块遮羞布，说出口才发现听起来很脏，作者让笑点和窘迫在同一句里落地。
 
@@ -43,7 +43,7 @@ modified: "2026-09-30"
 
 **中文理解**：跑步一直像是惩罚。今天，它像是逃跑。
 
-**关键词：** a punishment（惩罚）/ an escape（逃亡）
+**关键词**： a punishment（惩罚）/ an escape（逃亡）
 
 **为什么这样写**：两句结构完全对称，只有第二个名词换掉了，句子的全部力气都压在这个替换上；Always 与 Today 把她的运动史一刀切成两段，而 Today 后面不加停顿，说明这个转折她自己也没完全消化。跑步的褒义在中文里来得别扭，escape 才把它拽回英文读者熟悉的"逃亡"。
 
@@ -55,7 +55,7 @@ modified: "2026-09-30"
 
 **中文理解**："明天不会有人记得你那些滑头的舞步。"
 
-**关键词：** going to remember（会记得）/ slick dance moves（利落的舞步）
+**关键词**： going to remember（会记得）/ slick dance moves（利落的舞步）
 
 **为什么这样写**：她把"你跳得太僵了"翻译成一句劝对方别出丑的话，slick 在这里是反话；tomorrow 又是时间循环里最凶的那个词——明天对别人存在，对他们不存在，于是"没人会记得"在这里是一句近乎温柔的话。句子短、否定先行，把调侃压进了承诺里。
 
@@ -67,7 +67,7 @@ modified: "2026-09-30"
 
 **中文理解**："我们刚刚发现时间旅行确实存在，而到目前为止呢？无聊死了，Miles！"
 
-**关键词：** time travel exists（时间旅行存在）/ so far（到目前为止）/ boring（无聊）
+**关键词**： time travel exists（时间旅行存在）/ so far（到目前为止）/ boring（无聊）
 
 **为什么这样写**：先老老实实复述发现，再用一个 so far? 把它作废；boring 这个评价词把宏大发现降格成一次无聊的日常，而 Miles 被点名作证，让宣告有了听众。更妙的是这句话紧跟在"没有后果"的推论之前——她把威胁说成抱怨，读者听出的是"我已经想拿它当游戏机了"。
 
@@ -79,7 +79,7 @@ modified: "2026-09-30"
 
 **中文理解**："系好安全带，亲爱的。接下来我们要过上这辈子最爽的日子了。"
 
-**关键词：** buckle up（系好安全带）/ buttercup（亲爱的）/ the time of our fucking lives（一辈子最爽的日子）
+**关键词**： buckle up（系好安全带）/ buttercup（亲爱的）/ the time of our fucking lives（一辈子最爽的日子）
 
 **为什么这样写**：buckle up 是上车的动作，buttercup 是哄小孩的称呼，两句合起来正好把她"要劫银行"的疯话翻译成带他去兜风；结尾 the time of our fucking lives 把"时间"这个词一词两用——既是流逝的时间，也是他们被困住的那个东西。脏话落在最畅快处，是 Barrett 少有的不设防的瞬间。
 

@@ -17,61 +17,61 @@ modified: "2026-09-30"
 
 > **原句 1:** "The first time, I was so focused on feeling wanted. I was filling up some emptiness inside me, seeking validation. This time, it matters that he’s the one over me, under me."
 
-**中文理解：** 第一次的时候，我只顾着感受"被想要"——我在填补自己内心的某个空缺，在索取认可。这一次，重要的是他是那个在我上面、也在我下面的那个人。
+**中文理解**： 第一次的时候，我只顾着感受"被想要"——我在填补自己内心的某个空缺，在索取认可。这一次，重要的是他是那个在我上面、也在我下面的那个人。
 
-**关键词：** so focused on（只顾着）/ filling up some emptiness（填补空虚）/ seeking validation（索取认可）
+**关键词**： so focused on（只顾着）/ filling up some emptiness（填补空虚）/ seeking validation（索取认可）
 
-**为什么这样写：** This time 把两段经历叠进同一个段落，用句号切断、让 "This time" 独立成句，像一个被反复排练过的自我修正；over me, under me 两个介词把"位置"写成拥抱本身——上下不是权力关系，是同时被罩住；validation 与前一句的 wanted 同根（val- 价值），提醒读者这整段都在处理同一个旧伤口。
+**为什么这样写**： This time 把两段经历叠进同一个段落，用句号切断、让 "This time" 独立成句，像一个被反复排练过的自我修正；over me, under me 两个介词把"位置"写成拥抱本身——上下不是权力关系，是同时被罩住；validation 与前一句的 wanted 同根（val- 价值），提醒读者这整段都在处理同一个旧伤口。
 
-**读者视角提示：** 这是全书写得最诚实的一句身体描写，作者不把它写成炫技或转折，而是写成自我审计。
+**读者视角提示**： 这是全书写得最诚实的一句身体描写，作者不把它写成炫技或转折，而是写成自我审计。
 
 ---
 
 > **原句 2:** "It’s only when the backs of my legs bump against the bed that it hits me: we are alone in a hotel room with no one to answer to and no curfew, and it’s a heady, intoxicating feeling."
 
-**中文理解：** 直到我小腿的背面撞上床沿我才反应过来：我们在一间旅馆房里，没有人需要交代，也没有人管几点必须回去——那种感觉让人上头，像喝醉了一样。
+**中文理解**： 直到我小腿的背面撞上床沿我才反应过来：我们在一间旅馆房里，没有人需要交代，也没有人管几点必须回去——那种感觉让人上头，像喝醉了一样。
 
-**关键词：** bump against（撞上）/ no one to answer to（不用向谁交代）/ heady（令人上头的）
+**关键词**： bump against（撞上）/ no one to answer to（不用向谁交代）/ heady（令人上头的）
 
-**为什么这样写：** It's only when... that 把领悟压到身体撞到东西的那一刻，规则的解除不是靠宣布、而是被家具"撞"出来的；no one to answer to 和 no curfew 两个否定并列，把青春的有限（ curfew、监护）逐项划掉，剩下空出来的自由才显得 heady；heady 与 intoxicating 两个近义强词叠加，让读者和她一起缺氧。
+**为什么这样写**： It's only when... that 把领悟压到身体撞到东西的那一刻，规则的解除不是靠宣布、而是被家具"撞"出来的；no one to answer to 和 no curfew 两个否定并列，把青春的有限（ curfew、监护）逐项划掉，剩下空出来的自由才显得 heady；heady 与 intoxicating 两个近义强词叠加，让读者和她一起缺氧。
 
-**读者视角提示：** 旅馆套房是全书的"真空箱"——与 Olmsted 相反，这里没有任何时间在倒计时，于是她第一次彻底放松。
+**读者视角提示**： 旅馆套房是全书的"真空箱"——与 Olmsted 相反，这里没有任何时间在倒计时，于是她第一次彻底放松。
 
 ---
 
 > **原句 3:** "“I didn’t think I could like someone this much,” I say instead. “Or maybe it’s that I didn’t know someone could like me this much. If you—you know. Like me.”"
 
-**中文理解：** "我没想到自己可以这么喜欢一个人，"我改口说。"或者也许是我从来不知道，有人可以这么喜欢我。如果……你懂的。喜欢我。"
+**中文理解**： "我没想到自己可以这么喜欢一个人，"我改口说。"或者也许是我从来不知道，有人可以这么喜欢我。如果……你懂的。喜欢我。"
 
-**关键词：** instead（改口说）/ didn’t know someone could like me（不知道有人能喜欢我）/ If you—you know（如果……你懂的）
+**关键词**： instead（改口说）/ didn’t know someone could like me（不知道有人能喜欢我）/ If you—you know（如果……你懂的）
 
-**为什么这样写：** instead 明写她咽回了什么，与前一句 I love you, I almost say 形成对账；两个 didn't 的句式对称，一个管"我能给出多少"，一个管"我配得到多少"，把爱的能力与被爱的资格对拆；最后那个破折号和 If you—you know 是她自己示范给读者看的：说出"喜欢我"对她而言有多难。
+**为什么这样写**： instead 明写她咽回了什么，与前一句 I love you, I almost say 形成对账；两个 didn't 的句式对称，一个管"我能给出多少"，一个管"我配得到多少"，把爱的能力与被爱的资格对拆；最后那个破折号和 If you—you know 是她自己示范给读者看的：说出"喜欢我"对她而言有多难。
 
-**读者视角提示：** 全章最重要的替换——"我爱你"被换成了"我知道有人能喜欢我"，她把告白降级成了陈述一个发现。
+**读者视角提示**： 全章最重要的替换——"我爱你"被换成了"我知道有人能喜欢我"，她把告白降级成了陈述一个发现。
 
 ---
 
 > **原句 4:** "Only occasionally does the possibility hit me that we may never leave this place. That we’ll live an entire life of Wednesdays."
 
-**中文理解：** 只是偶尔，那个可能性才会击中我：我们也许永远都离不开这个地方。我们会过完一整段由星期三构成的人生。
+**中文理解**： 只是偶尔，那个可能性才会击中我：我们也许永远都离不开这个地方。我们会过完一整段由星期三构成的人生。
 
-**关键词：** Only occasionally（只是偶尔）/ the possibility hit me（那个可能性击中我）/ an entire life of Wednesdays（一整段星期三的人生）
+**关键词**： Only occasionally（只是偶尔）/ the possibility hit me（那个可能性击中我）/ an entire life of Wednesdays（一整段星期三的人生）
 
-**为什么这样写：** 把及物动词 hit 配无生命主语 the possibility，是"想法像子弹一样打中我"的拟人化惯用法；Only occasionally 提前替读者打预防针，说明这个念头被她管理着、而不是随时爆发的；Wednesdays 大写并单数化复数，暗示这不是"很多个星期三"而是"一个反复的星期三"，恐怖感来自量的错觉。
+**为什么这样写**： 把及物动词 hit 配无生命主语 the possibility，是"想法像子弹一样打中我"的拟人化惯用法；Only occasionally 提前替读者打预防针，说明这个念头被她管理着、而不是随时爆发的；Wednesdays 大写并单数化复数，暗示这不是"很多个星期三"而是"一个反复的星期三"，恐怖感来自量的错觉。
 
-**读者视角提示：** 读者此时才明白：他们在海边度过的一夜，在世界的时间轴上根本不存在。
+**读者视角提示**： 读者此时才明白：他们在海边度过的一夜，在世界的时间轴上根本不存在。
 
 ---
 
 > **原句 5:** "He brushes curls away from my face, settles his head beneath my chin. “Maybe not,” he says. “But it’s nice to dream.”"
 
-**中文理解：** 他把卷发从我脸上拨开，把头枕在我的下巴底下。"也许不行，"他说。"不过，做梦倒是不错。"
+**中文理解**： 他把卷发从我脸上拨开，把头枕在我的下巴底下。"也许不行，"他说。"不过，做梦倒是不错。"
 
-**关键词：** settles his head beneath my chin（把头搁在我下巴下）/ Maybe not（也许不行）/ it’s nice to dream（做梦倒是不错）
+**关键词**： settles his head beneath my chin（把头搁在我下巴下）/ Maybe not（也许不行）/ it’s nice to dream（做梦倒是不错）
 
-**为什么这样写：** 三个分词（brushes / settles）接一个主句，动作全是照顾性的，替代了任何情话；Maybe not 先认输，再用 it’s nice to dream 把失败重组成一种温柔——他没有说"我们会成功的"，只承诺"我们还能想象"；nest 一样的姿势（头在她的下巴下）与他此前"把头埋进她肩窝"形成呼应，是全书他唯一的身体台词。
+**为什么这样写**： 三个分词（brushes / settles）接一个主句，动作全是照顾性的，替代了任何情话；Maybe not 先认输，再用 it’s nice to dream 把失败重组成一种温柔——他没有说"我们会成功的"，只承诺"我们还能想象"；nest 一样的姿势（头在她的下巴下）与他此前"把头埋进她肩窝"形成呼应，是全书他唯一的身体台词。
 
-**读者视角提示：** 这是 Miles 的性格定调：他不许愿，他只陪你做梦；那句 But it's nice to dream 之后，全章结束。
+**读者视角提示**： 这是 Miles 的性格定调：他不许愿，他只陪你做梦；那句 But it's nice to dream 之后，全章结束。
 
 ## 本章词汇
 

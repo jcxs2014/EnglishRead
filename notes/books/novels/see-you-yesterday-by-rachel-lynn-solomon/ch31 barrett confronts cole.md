@@ -17,73 +17,73 @@ modified: "2026-09-30"
 
 > **原句 1:** "Nothing matters up here in Cloud World."
 
-**中文理解：** 在上面这个「云朵世界」里，什么都不重要。
+**中文理解**： 在上面这个「云朵世界」里，什么都不重要。
 
-**关键词：** Nothing matters（什么都不重要）/ up here（在上面）/ Cloud World（云朵世界）
+**关键词**： Nothing matters（什么都不重要）/ up here（在上面）/ Cloud World（云朵世界）
 
-**为什么这样写：** 开篇她还在昏迷，通篇用 cloud 这个自造的词把「上」变成一个地方——up here 既是天花板之上，也是失聪之中；Nothing matters 用全否定句把刚刚差点死掉这件事一笔勾销，这种轻描淡写本身就是创伤的 symptoms。
+**为什么这样写**： 开篇她还在昏迷，通篇用 cloud 这个自造的词把「上」变成一个地方——up here 既是天花板之上，也是失聪之中；Nothing matters 用全否定句把刚刚差点死掉这件事一笔勾销，这种轻描淡写本身就是创伤的 symptoms。
 
-**读者视角提示：** 这是全书对「重来」最残忍的一次描写——她没有变成更好的人，只是变成了一个还在呼吸的云朵。
+**读者视角提示**： 这是全书对「重来」最残忍的一次描写——她没有变成更好的人，只是变成了一个还在呼吸的云朵。
 
 ---
 
 > **原句 2:** "With my other hand, I pat the cloud mattress beneath me, and slowly, slowly, the reality drips in."
 
-**中文理解：** 我用另一只手拍了拍身下这块云朵床垫，然后，很慢很慢地，现实一滴一滴渗了进来。
+**中文理解**： 我用另一只手拍了拍身下这块云朵床垫，然后，很慢很慢地，现实一滴一滴渗了进来。
 
-**关键词：** pat（拍）/ beneath me（在我身下）/ slowly, slowly（很慢很慢）/ the reality drips in（现实渗进来）
+**关键词**： pat（拍）/ beneath me（在我身下）/ slowly, slowly（很慢很慢）/ the reality drips in（现实渗进来）
 
-**为什么这样写：** drips in 把「苏醒」写成渗水，一滴一滴对应她意识一点点回来；连用两个 slowly 是身体先于意识知道危险的程度；而 other hand 说明另一只手正疼着，这个身体细节比任何形容词都更快建立可信度。
+**为什么这样写**： drips in 把「苏醒」写成渗水，一滴一滴对应她意识一点点回来；连用两个 slowly 是身体先于意识知道危险的程度；而 other hand 说明另一只手正疼着，这个身体细节比任何形容词都更快建立可信度。
 
-**读者视角提示：** 现实是一点点渗进来的——全书所有真相也都是这样回来的。
+**读者视角提示**： 现实是一点点渗进来的——全书所有真相也都是这样回来的。
 
 ---
 
 > **原句 3:** "The sudden darkness of it fills me with more hope than I’ve had all day. A sharp and spiteful kind of hope."
 
-**中文理解：** 那种突然暗下来的东西，让我比一整天加起来都更充满希望。一种尖锐的、带着恶意的希望。
+**中文理解**： 那种突然暗下来的东西，让我比一整天加起来都更充满希望。一种尖锐的、带着恶意的希望。
 
-**关键词：** sudden darkness（突然的黑暗）/ fills me with（让我心里充满）/ A sharp and spiteful kind of hope（一种尖锐而刻薄的希望）
+**关键词**： sudden darkness（突然的黑暗）/ fills me with（让我心里充满）/ A sharp and spiteful kind of hope（一种尖锐而刻薄的希望）
 
-**为什么这样写：** hope 一词先被抬高到「一整天最多」，紧接着就被 self 的同位语削成 sharp and spiteful；两个形容词都用刃器的质感，把「复仇」写成一种会割伤人的亮光，读者从这一刻起就该知道这条路走不通。
+**为什么这样写**： hope 一词先被抬高到「一整天最多」，紧接着就被 self 的同位语削成 sharp and spiteful；两个形容词都用刃器的质感，把「复仇」写成一种会割伤人的亮光，读者从这一刻起就该知道这条路走不通。
 
-**读者视角提示：** 全章最危险的转折点——她第一次因为恨而有了盼头，而她随即被现实打脸。
+**读者视角提示**： 全章最危险的转折点——她第一次因为恨而有了盼头，而她随即被现实打脸。
 
 ---
 
 > **原句 4:** "Not resigned to it—accepting it."
 
-**中文理解：** 不是无奈接受——而是接受。
+**中文理解**： 不是无奈接受——而是接受。
 
-**关键词：** Not resigned（不是无奈忍受）/ accepting it（接受它）
+**关键词**： Not resigned（不是无奈忍受）/ accepting it（接受它）
 
-**为什么这样写：** 叙述者本来在替 Lucie 找补，用一个转折词把「不得不」改成「愿意」；resigned 与 accepting 一字之差却是两种人格，前者是被生活推着走，后者是主动腾出位置，这正是全书对两个女孩共同处境的命名。
+**为什么这样写**： 叙述者本来在替 Lucie 找补，用一个转折词把「不得不」改成「愿意」；resigned 与 accepting 一字之差却是两种人格，前者是被生活推着走，后者是主动腾出位置，这正是全书对两个女孩共同处境的命名。
 
-**读者视角提示：** 一个否定加一个替换，就完成了 Barrett 对室友的第一次重新评估。
+**读者视角提示**： 一个否定加一个替换，就完成了 Barrett 对室友的第一次重新评估。
 
 ---
 
 > **原句 5:** "All those years I thought my armor was impenetrable, when inside I’m as soft and gooey as the inside of a mozzarella stick fresh from the fryer."
 
-**中文理解：** 那些年里我一直以为自己的盔甲刀枪不入，可它的里面其实像刚出锅的马苏里拉芝士条一样，又软又黏。
+**中文理解**： 那些年里我一直以为自己的盔甲刀枪不入，可它的里面其实像刚出锅的马苏里拉芝士条一样，又软又黏。
 
-**关键词：** armor（盔甲）/ impenetrable（刀枪不入的）/ as soft and gooey（又软又黏）/ mozzarella stick（马苏里拉芝士条）
+**关键词**： armor（盔甲）/ impenetrable（刀枪不入的）/ as soft and gooey（又软又黏）/ mozzarella stick（马苏里拉芝士条）
 
-**为什么这样写：** 前半句用金属的 impenetrable，后半句立刻换成食物的 soft and gooey，一硬一软两句压在一起；比喻选芝士条而不是别的东西，是因为它外面有一层脆壳、内里拉丝——外壳正好是她给自己看的形象，而 gooey 是她自己都不肯承认的黏度。
+**为什么这样写**： 前半句用金属的 impenetrable，后半句立刻换成食物的 soft and gooey，一硬一软两句压在一起；比喻选芝士条而不是别的东西，是因为它外面有一层脆壳、内里拉丝——外壳正好是她给自己看的形象，而 gooey 是她自己都不肯承认的黏度。
 
-**读者视角提示：** 全书写「我没事」的反面教材，也解释了 Miles 那句 live in your bad feelings 为什么让她那么恼火。
+**读者视角提示**： 全书写「我没事」的反面教材，也解释了 Miles 那句 live in your bad feelings 为什么让她那么恼火。
 
 ---
 
 > **原句 6:** "I’m going to have to remember this for the rest of my life. The rest of my fucking life, because you took that away from me."
 
-**中文理解：** 我却要一辈子记住这件事。记一辈子，因为他从我这里夺走了这个选择权。
+**中文理解**： 我却要一辈子记住这件事。记一辈子，因为他从我这里夺走了这个选择权。
 
-**关键词：** remember（记住）/ the rest of my life（一辈子）/ because you took that away from me（因为你把它从我这里拿走了）
+**关键词**： remember（记住）/ the rest of my life（一辈子）/ because you took that away from me（因为你把它从我这里拿走了）
 
-**为什么这样写：** 同一句话说两遍「一辈子」，第二遍只多出三个脏字与一个 because——前半句是控诉，后半句才点出真正的罪名：她要的不是道歉，是拿回「谁决定我的人生」这件东西的归属；the rest of my life 重复，恰好模拟了一件事在她脑子里被反复重放的质感。
+**为什么这样写**： 同一句话说两遍「一辈子」，第二遍只多出三个脏字与一个 because——前半句是控诉，后半句才点出真正的罪名：她要的不是道歉，是拿回「谁决定我的人生」这件东西的归属；the rest of my life 重复，恰好模拟了一件事在她脑子里被反复重放的质感。
 
-**读者视角提示：** 她为 prom 那天说的话比十几年来任何时候都诚实，可对方转身一句话也没说。
+**读者视角提示**： 她为 prom 那天说的话比十几年来任何时候都诚实，可对方转身一句话也没说。
 
 ## 本章词汇
 
