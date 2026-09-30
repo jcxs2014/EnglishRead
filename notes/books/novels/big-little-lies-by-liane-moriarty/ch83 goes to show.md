@@ -117,6 +117,35 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| resolution | （课程化的）化解 | I thought we might do a special unit on conflict resolution. |
+| appropriate | 合适的 | It seems appropriate. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| extremely | （好得）不得了 | We’re all back to normal now, except all us parents are being extremely nice to one another. |
+| hilarious | 挺荒诞的 | It’s kind of hilarious. |
+| canceled | （被）取消 | Gabrielle: They’ve canceled the spring ball. |
+| sticking | （凑合做）蛋糕义卖 | We’re sticking to cake stalls now. |
+| visiting | （明年将）去探望 | Harper: Naturally, we’ll be visiting Renata in London next year! |
+| document | （把一切）记录下来 | And to document everything. |
+| Christian | 基督徒的 | But funnily enough, just yesterday, a friend from church mentioned she belonged to a Christian Erotic Fiction Club. |
+| chapters | （已读）章节 | I’m already three chapters into our first book, and I won’t lie, it’s quite fun and really rather, well, what’s the word? |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| instincts | （警探的）直觉 | Goes to show you can’t always trust your instincts. |
+| joke | （那个）玩笑 | It was all a joke! |
+| saga | （漫长的）风波 | Quite a saga, eh? |
+| second chance | 第二次机会 | Yes, I am giving Graeme a second chance. |
+
 ## 一句话总结
 
 尾声像一张褪色的全家福——舞会变蛋糕义卖、Renata 举家迁伦敦、Harper 用「他在付账」给婚姻续期、Barnes 把惨案做成教案、Lipmann 学会「更和善」与「记录一切」、Carol 拆穿情色读书会的玩笑；而警长在最后承认——所有直觉都押在妻子身上，押错了，「这说明直觉靠不住」。
