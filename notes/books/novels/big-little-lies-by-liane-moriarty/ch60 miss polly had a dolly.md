@@ -93,6 +93,42 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| understanding | （当年的）约定 | That was the deal so Madeline could check in any time, along with the understanding that Madeline was allowed to silently creep into Abigail’s bedroom at random moments like a cat burglar and look over her shoulder at the computer screen for as long as it took Abigail to notice she was standing there, which often took a while, because Madeline had a special talent for creeping. |
+| solidified | （怒气）凝结 | Her anger had cooled and solidified into something mammoth and glacial. |
+| devastated | （小狗死了）崩溃 | Abigail was devastated. |
+| impossibility | （任务的）不可能 | She was filled with despair at the impossibility of the task. |
+| combination | （字母数字的）组合 | It could be anything, any combination of letters and numbers. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| password | 密码 | “That’s the password. |
+| accounts | （社交）账号 | She’d always known Abigail’s passwords for her social media accounts. |
+| silently | （无声）潜入 | That was the deal so Madeline could check in any time, along with the understanding that Madeline was allowed to silently creep into Abigail’s bedroom at random moments like a cat burglar and look over her shoulder at the computer screen for as long as it took Abigail to notice she was standing there, which often took a while, because Madeline had a special talent for creeping. |
+| creeping | （潜行）天赋 | That was the deal so Madeline could check in any time, along with the understanding that Madeline was allowed to silently creep into Abigail’s bedroom at random moments like a cat burglar and look over her shoulder at the computer screen for as long as it took Abigail to notice she was standing there, which often took a while, because Madeline had a special talent for creeping. |
+| presence | （被察觉的）存在 | It drove Abigail crazy and made her jump out of her skin each time she finally sensed Madeline’s presence, but Madeline didn’t care, that was good parenting in this day and age, you spied on your children, and that was why this would never have happened if Abigail had been at home where she belonged. |
+| parenting | （现代）育儿 | It drove Abigail crazy and made her jump out of her skin each time she finally sensed Madeline’s presence, but Madeline didn’t care, that was good parenting in this day and age, you spied on your children, and that was why this would never have happened if Abigail had been at home where she belonged. |
+| belonged | （女儿本该）在家 | It drove Abigail crazy and made her jump out of her skin each time she finally sensed Madeline’s presence, but Madeline didn’t care, that was good parenting in this day and age, you spied on your children, and that was why this would never have happened if Abigail had been at home where she belonged. |
+| lowercase | （全）小写 | It’s all lowercase, no spaces. |
+| redirect | （域名）重定向 | “I was thinking I could try to redirect the domain name,” said Nathan, “but then I still need to log in to her account. |
+| revolves | （世界）围着（登录）转 | The world revolves around log-ins. |
+| planning | （真的打算）实行 | “She’s not really planning to actually go through with this. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| car keys | （抓起）车钥匙 | She’d already pulled her car keys from her bag. |
+| cat burglar | 飞贼 | That was the deal so Madeline could check in any time, along with the understanding that Madeline was allowed to silently creep into Abigail’s bedroom at random moments like a cat burglar and look over her shoulder at the computer screen for as long as it took Abigail to notice she was standing there, which often took a while, because Madeline had a special talent for creeping. |
+| log-in details | 登录信息 | I need her log-in details. |
+| public website | 公网上的（网站） | It’s a public website held on a server that’s not inside the house. |
+| special talent | （潜行的）特殊天赋 | That was the deal so Madeline could check in any time, along with the understanding that Madeline was allowed to silently creep into Abigail’s bedroom at random moments like a cat burglar and look over her shoulder at the computer screen for as long as it took Abigail to notice she was standing there, which often took a while, because Madeline had a special talent for creeping. |
+
 ## 一句话总结
 
 密码攻防战打到第三轮——「波莉小姐的娃娃」失效、「Huckleberry 的小狗」失守，女儿的新锁里锁着十四岁的殉道计划；Madeline 用「好父亲」三连夸把 Nathan 讽成冰川，决定亲自去学校捞人，左眼皮却在「Celeste 病了」的顺带请求里轻轻一跳：她的直觉又一次对了，对的还是她看不见的那件事。
