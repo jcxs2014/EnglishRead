@@ -71,7 +71,7 @@ modified: "2026-09-30"
 
 **关键词： **knew intellectually, better than feeling lonesome or guilty, the rage from feeling real
 
-**为什么这样写： **Elvi 的自我解剖精确到残忍。作者给了她一个几乎不属于通俗小说的能力：一边愤怒，一边给自己的愤怒写摘要。lonesome or guilty 两个词的并列泄露全章底账——她嫉妒的是亲密（前文Sex wasn't a strange thing 段），内疚的是与殖民者的对立。intellectually 与 feeling real 的对仗是全段的机关：认识不能取消感受，人只能同时抱着两者走路。这行字也是她这个人物的方法论：先理解，再行动。
+**为什么这样写： **Elvi 的自我解剖精确到残忍。作者给了她一个几乎不属于通俗小说的能力：一边愤怒，一边给自己的愤怒写摘要。lonesome or guilty 两个词的并列泄露全章底账——她嫉妒的是亲密（前文 Sex wasn't a strange thing 段），内疚的是与殖民者的对立。intellectually 与 feeling real 的对仗是全段的机关：认识不能取消感受，人只能同时抱着两者走路。这行字也是她这个人物的方法论：先理解，再行动。
 
 **读者视角提示： **"愤怒是止痛药"这个机制解释了她为什么深夜追灯进遗迹——科学家的正义感只是孤独的马甲。注意她带着手电独自出门时，作者一个字没写她怕，怕是留给读者的。
 
