@@ -105,7 +105,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 8:** "Lovely! What shall I bring?" she whispered back, while she put one hand on Ed's arm and squeeze hard. It turned out that a conversation with Bonnie was just like being in labor: The pain could always get much, much worse.
+> **原句 8:** "Lovely! What shall I bring?" she whispered back, while she put one hand on Ed's arm and squeezed hard. It turned out that a conversation with Bonnie was just like being in labor: The pain could always get much, much worse.
 
 **中文理解**：「太好了！我带点什么？」她压低声音回答，一只手却在 Ed 的手臂上狠狠掐紧。原来跟 Bonnie 说话就像在分娩：疼，永远可以更疼得多。
 

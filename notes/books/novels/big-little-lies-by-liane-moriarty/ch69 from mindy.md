@@ -69,7 +69,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 5:** "From Mindy." / "Your property manager," said Perry. / Celeste's stomach plunged.
+> **原句 5:** "Your property manager," said Perry. Celeste's stomach plunged. She let Josh wriggle off her lap.
 
 **中文理解**：「Mindy 转达的。」——「你的物业管理，」Perry 说。——Celeste 的胃猛地一沉。
 
