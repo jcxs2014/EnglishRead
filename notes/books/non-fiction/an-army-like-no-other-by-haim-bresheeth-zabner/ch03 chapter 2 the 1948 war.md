@@ -10,7 +10,7 @@ modified: "2026-09-30"
 - **出处**：*An Army like No Other: How the Israel Defense Forces Made a Nation*（Haim Bresheeth-Žabner, Verso 2020）之 Part I, Chapter 2 "The 1948 War"
 - **作者**：Haim Bresheeth-Žabner（1946– ）
 - **章节定位**：**Part I: Israel's Wars** 第二章（全 15 件之第 3 件）。它同时承担三件事，在全书结构上是"奠基章"：① 用大量史料（哈加纳档案、村庄档案、转运委员会、Plan C/D、本-古里安日记与议员辩论记录）论证 1948 年战争并非偶发而是长期策划；② 讨论"意图"（intentionality）这一史学争点，借新史学（Ilan Pappe、Nur Masalha、Walid Khalidi）与 Morris 的自陈来展示证据链；③ 以九条"持续模式"收束，宣布这场战争是后续一切战争的模板
-- **字符数**：约 55,100（395 句）
+- **字符数**：65,779（约 332 句）
 - **一句话主旨**：1948 年战争是以色列全部后续行为的原型与母本——它确立了"军事手段是政治默认工具""进攻优于防守""军民合一""以含混与谎言处理非法行动"这七条至今未改的操作规程，而"大卫与歌利亚"这一神话则被用来封住七十年的追问。
 
 **本章分节**（原文小标题顺序）：
