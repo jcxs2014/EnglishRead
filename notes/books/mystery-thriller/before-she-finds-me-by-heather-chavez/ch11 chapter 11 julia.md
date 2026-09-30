@@ -21,7 +21,7 @@ modified: "2026-09-30"
 
 **关键词**：banana pancakes with chocolate chips / cure gunshot wounds / the idea that seemed even crazier
 
-**为什么这样写**：一段里连用三个 `As if`，把同一个比喻推到第三次才收口：能治病 → 能治创伤 → 能分心，一级比一级轻，也一级比一级贴近真相。破折号里的 `banana pancakes with chocolate chips` 是插入式补语，把「最爱」落实成一个具体配方。结尾不解释那个想法是什么。
+**为什么这样写**：一句 `As if` 后面拖着两个并列的 `Or`，把同一个比喻分三层推到收口：能治病 → 能治创伤 → 能分心，一级比一级轻，也一级比一级贴近真相。破折号里的 `banana pancakes with chocolate chips` 是插入式补语，把「最爱」落实成一个具体配方。结尾不解释那个想法是什么。
 
 **读者视角提示**：读者会在这里等那个想法被说出口，而作者用一个独立成段的问句兑现它。早餐的甜与女儿手臂上的绷带是同一件事的两面：她今天能做的只有这一件。
 
