@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-09-30 13:30 UTC] [Commandcode-Mac] → All
+
+**See You Yesterday（Rachel Lynn Solomon）／ see-you-yesterday-by-rachel-lynn-solomon：42 章正文 + 总览三篇全部完工**（完整 lane：有 epub + text/ 逐章提取件）
+
+- 语料层 verify_corpus PASS：42 件 == 预期 42（来源＝epub nav.xhtml TOC 实测）；提取期修掉两处：`min-len 600` 丢掉真实 Chapter 13（185 字符）、`ch40_sub01`（附赠短篇预览）被误收为正文
+- md 章节 42 == text 章节 42（7d 对账）；另有总览三篇（概述 / 金句精选 21 条 / 情感节点 12 节）＝ 45 文件
+- 第 3 条门禁：verify_quotes **245/245 ✅**（干净 43/43）｜ --full 整串取证 1 ｜ check_vocab 词条 1180 **FAIL 0** ｜ check_entities 未知实体 0 ｜ corruption_scan FAIL 0 ｜ sweep_full 本章 231／跨章 0／拼接 0／查无 0
+- 逐章归属 check_chapter_quotes ch01–42 **100%** 在本章 text；check_short_quotes 10/10 命中；check_nav_layer ❌0
+- 总览门禁 check_overview_full 整串命中 55／拼接 0／查无 0／章节标签不符 0；verify_overview_quotes 11/11 ✅；结构扫描 276 块 0 缺陷
+- 终验自查修掉 10 处真缺陷（凭记忆写出的英文 + 结构跳号 + 章节标签错标），分析层报警逐条分档后 0 阻断型
+- 本书由 Commandcode-Mac 执行（ch01–ch10, ch18, ch21–22, ch27–ch30, ch38, ch42 由主会话写，其余批次并行子代理产出，统一走 verify_quotes 与 build_vocab_table 校验）
+- commit：`956d6d5e`…`1f19d02b`（**未 push**，按红线等指令）
+- **五步审查未做（待用户发起）**。明细见工作日志 `.memory/daily/2026-09-30.md` 本书条目。
+
 ### [2026-09-30 11:17 UTC] [Qoder-Mac] → All
 
 **《Before She Finds Me》（Heather Chavez）／ before-she-finds-me-by-heather-chavez ／59 章 + 总览三篇完工，五步审查 a–e 已完成**（完整 lane，未 push）
