@@ -43,7 +43,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **Havelock 的拒绝以医疗术语完成。hospice（临终关怀）是对整艘船的拟人——他拒绝的不是镇静剂，是"宣判仪式"。Not yet 两个字是全句的活扣：他没说"绝不"，说明他知道自己可能守不住。作者让这句话出现在"给全船下药"的计划后面，道德的挣扎有了精确的刻度：他愿意给麻醉，不愿意给葬礼。
 
-**读者视角提示： **"不进临终关怀"对照 ch41 的"死猫" Murtry 与本章他的"丰碑"——船上每个人都在决定"怎么处理这艘将死的船"。记住 Not yet：它后面会被他自己推翻（开笼就是承认"已经到时候了"）。
+**读者视角提示： **"不进临终关怀"对照 ch36 的"死猫" Murtry 与本章他的"丰碑"——船上每个人都在决定"怎么处理这艘将死的船"。记住 Not yet：它后面会被他自己推翻（开笼就是承认"已经到时候了"）。
 
 > **原句 4:** A drop of blood welled on his skin, growing to the size of a dark red marble, the surface tension pulling it out along his skin as he watched. When he moved, he left a spray of droplets hanging in the air like little planets and moons.
 

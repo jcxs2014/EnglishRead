@@ -37,7 +37,7 @@ modified: "2026-09-30"
 
 > **原句 3:** We’re doing sensor sweeps and dropping the occasional high-atmo probe, but it’s like giving starving people a cracker when they can smell the buffet. It’s starting to come out at the seams a little.
 
-**中文理解： **我们在做传感器扫描，偶尔投几枚高空大气探针，但这就像让人闻着自助餐的香味，却只给他一块饼干。火山开始从缝里往外冒了。
+**中文理解： **我们在做传感器扫描，偶尔投几枚高空大气探针，但这就像让人闻着自助餐的香味，却只给他一块饼干。短缺开始从缝里露出来了。
 
 **关键词： **starving people a cracker, smell the buffet, come out at the seams
 
@@ -61,7 +61,7 @@ modified: "2026-09-30"
 
 **关键词： **Make it a club, a shared hobby, paint guns
 
-**为什么这样写： **Murtry 的民兵方案是全书最完备的"影子战争"文书。club 与 hobby 是免责的语法：兴趣小组不需要预算科目，彩弹枪不算武器库存——每个词都在给将来的暴行预签免责单。make sure they're ready 五个字把爱好者的遮羞布一把掀掉：他要的从来是战备。作者让这一段保持 chamåmpagne 级的轻松语调，正因为它轻松得可怕——把平民武装成军队，在这个人嘴里只是一个排期问题。
+**为什么这样写： **Murtry 的民兵方案是全书最完备的"影子战争"文书。club 与 hobby 是免责的语法：兴趣小组不需要预算科目，彩弹枪不算武器库存——每个词都在给将来的暴行预签免责单。make sure they're ready 五个字把爱好者的遮羞布一把掀掉：他要的从来是战备。作者让这一段保持 champagne 级的轻松语调，正因为它轻松得可怕——把平民武装成军队，在这个人嘴里只是一个排期问题。
 
 **读者视角提示： **记住 club 这个词的双面性：爱好俱乐部与敢死队共用同一份成员表。对照 Murtry 历次授权（先发制人、武装穿梭机、民兵）——他每一件都"备而不用"，而读者已经见过一次"用"。
 

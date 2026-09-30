@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 **关键词： **the only part where I actually know, a licensed class 3 vacuum welder, cut my way into
 
-**为什么这样写： **Basia 的职业尊严在本章完成加冕。the only part where I actually know 的转折把全书的身份倒挂一次性理顺：所有人都担心他最擅长的环节。Just try 的挑衅收尾是全书第一次听见 Basia 的骄傲——从 ch01 的"温和的人"到持证切船者，中间隔着一场屠杀、一副镣铐和三十九章。作者让焊接证书成为他的作战执照：平民的战争资格，从来长在工牌上。
+**为什么这样写： **Basia 的职业尊严在本章完成加冕。the only part where I actually know 的转折把全书的身份倒挂一次性理顺：所有人都担心他最擅长的环节。Just try 的挑衅收尾是全书第一次听见 Basia 的骄傲——从 ch02 的"温和的人"到持证切船者，中间隔着一场屠杀、一副镣铐和三十九章。作者让焊接证书成为他的作战执照：平民的战争资格，从来长在工牌上。
 
 **读者视角提示： **"三级焊工"回收 ch24 Naomi 的问句（"Welder?"——因为船上总有维修清单）与 ch02 的"温和的人"——身份的伏笔在本章引爆。记住 cut my way into：它定义了接下来两章的动作戏规则——他不是潜入，是开门。
 

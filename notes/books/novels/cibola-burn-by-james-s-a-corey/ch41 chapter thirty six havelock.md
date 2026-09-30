@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **Marwick 的怒气用历史最著名的海军将领作刻度。Admiral Nelson 的典故一石二鸟：嘲轮机长的僭越（练兵几天就想指挥舰队），也自嘲以色列号如今的处境（伟大的舰队困在电池上）。fucking 的位置在 Admiral 与 Nelson 之间——脏话的插入点本身就是军阶玩笑。作者让两位军官互喷时 Havelock 在中间记笔记（他会管住他），权力的三角在本章保持微妙的平衡。
 
-**读者视角提示： **"彩弹将军"回收 ch18/ch22 的民兵线——野心的膨胀速度比战斗力快。对照 ch27 Murtry 的"你不是扣扳机的人"：本书每个掌权者都在重新发明忠诚的考试题。
+**读者视角提示： **"彩弹将军"回收 ch18/ch22 的民兵线——野心的膨胀速度比战斗力快。对照 ch21 Murtry 那句"you're not the man to pull that trigger"：本书每个掌权者都在重新发明忠诚的考试题。
 
 > **原句 3:** The faces and personalities of all the newsfeeds he followed to stay in touch with how things were going back at home were coming to him now. Humanity’s attention was pointed out to New Terra. To him.
 

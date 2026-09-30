@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **沙暴夜的科学课，其实是全书的宇宙论题词。Elvi 的问题链从化学爬到哲学：条件齐备，生命却只发生了多次中的"一次"。Schrödinger crystal 与 codon map 是她造的缩写世界——两个 One 并排，强迫感扑面而来。这个问题在本章的真正功能是给 Fayez 的答案当炮架：他马上要给出一个骇人的候选解释——竞争者被杀光了。生命学问题与殖民问题在这里完成一次悄悄的对齐。
 
-**读者视角提示： **"生命为什么只有一次"是本书隐藏的总谜题（对应 ch05：谁杀死了造门文明）。记住 Fayez 的回答——"活下来的杀光了竞争者"——它会一路回响到最后。
+**读者视角提示： **"生命为什么只有一次"是本书隐藏的总谜题（对应 ch09 Miller 那句"Who done it"：谁杀死了造门文明）。记住 Fayez 的回答——"活下来的杀光了竞争者"——它会一路回响到最后。
 
 > **原句 3:** “Geology is about studying natural patterns. Nothing here’s natural. The whole planet was machined. The lithium ore you people are mining? No natural processes exist that would make it as pure as what you’re pulling out of the ground. It can’t happen. So apparently, whatever built the gates also had something around here somewhere that concentrated lithium in this one spot.”
 
@@ -93,7 +93,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **全章的惊悚落点是一份色觉报告。functional gray（功能灰）与 bright red and yellow 的对照是本章的配色方案：伪装成工具的日常，标签才是真话。两行全大写的警示语直接以无引语的形态嵌进叙述——它们既是情节（炸药实锤），也是修辞：官方语言第一次替"凶手"开口。作者让 Elvi 的 "Oh hell no" 说完所有情绪，随后章切 Reeve 办公室——发现即移交，恐惧开始走流程。
 
-**读者视角提示： **炸药箱对应的正是 ch02 造的炸弹（同一种包装与警告语）。记住发现地点（遗迹深处）与线索状态（Elvi 只报了藏点）——这颗雷的引线现在握在 Reeve 手里。
+**读者视角提示： **炸药箱对应的正是 ch02 造的炸弹（同样是把废料改装成爆炸物，容器则不同）。记住发现地点（遗迹深处）与线索状态（Elvi 只报了藏点）——这颗雷的引线现在握在 Reeve 手里。
 
 ## 本章词汇
 

@@ -63,7 +63,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **礼貌的餐桌下压着一整份起诉书。shared your bed 的日常 intimacy 与 wanted me dead 的暴力意图焊在一行，夫妻的知识分工（她真的不知情吗？）被悬置疑案——Elvi 拒绝下结论，但拒绝本身就是判断。作者让这段内心独白紧跟Lucia 的感谢（谢谢你对女儿好），两种语言的落差正是本章的社交语法：所有人都在用礼貌支付安全感。而 Elvi 的回答（You're welcome）证明她也是这门语言的流利使用者。
 
-**读者视角提示： **记住这层"餐桌下的起诉书"——它与 ch07 Lucia 的"I will not forgive you"、ch11 的洗不净的血互为三方证词。Merton 家的案情，全书没有一张完整口供，只有这些侧写。
+**读者视角提示： **记住这层"餐桌下的起诉书"——它与 ch15 Lucia 那句"I will not forgive you for it"、ch11 的洗不净的血互为三方证词。Merton 家的案情，全书没有一张完整口供，只有这些侧写。
 
 > **原句 6:** “Not that, no,” Lucia said, laughing. “That she’s leaving this planet is the only good thing that’s happened since we came. It’s only that I’m afraid she’s doing it because it’s what I do. Better that she find her own way.”
 

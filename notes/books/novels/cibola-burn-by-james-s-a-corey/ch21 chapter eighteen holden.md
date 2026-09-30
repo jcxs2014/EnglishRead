@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **Holden 的最后通牒其实是一份权力自白书。the only guy in the system 是他压箱底的资产——但他紧接着把这张王牌折算成"带大家走"的公共服务，权力在他手里永远先变成责任。you idiots 的爆口与 aliens kill all of us 的并置暴露了他的真实排序：人类的愚蠢排在外星威胁前面。作者让这句威胁自带破产条款——它很快会被 Murtry 驳回，因为 Murtry 看懂了他不敢开火。
 
-**读者视角提示： **对照 ch06 Naomi 的"你是替罪羊"与本段"唯一战舰"——Holden 的权力全部依赖"敢不敢"这个动词，而全书一直在测试它。
+**读者视角提示： **对照 ch09 Naomi 那句"You're an easy scapegoat."与本段"唯一战舰"——Holden 的权力全部依赖"敢不敢"这个动词，而全书一直在测试它。
 
 > **原句 3:** “So, here’s the price of fame,” Murtry continued. “You are one of the most recognized people in the solar system. It’s why they sent you. Fame gives you the illusion of power. But it’s all just a façade.”
 

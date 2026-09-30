@@ -23,7 +23,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **末日巡逻的开场写成生物行为观察。nosing 与 probe 的动词让毒虫有了"工兵"的耐心——它们不撞门，它们研究门。wad of fabric 这个人类补丁在昆虫的工程学面前显得单薄。作者让 Holden 的日常从"守城"降级为"补漏"，文明的防御在本章的尺度是一条布：大灾难之后，战争以厘米为单位继续。
 
-**读者视角提示： **"找路进去"对照 ch11 Coop 的 pop a seal——同一个"入口"主题，敌我两版。记住蛞蝓的鼻子：它们的探测能力后面会被证明和防御网一样"敬业"。
+**读者视角提示： **"找路进去"对照 ch07 Coop 那句"pop a seal and let someone die"——同一个"入口"主题，敌我两版。记住蛞蝓的鼻子：它们的探测能力后面会被证明和防御网一样"敬业"。
 
 > **原句 2:** Holden grabbed the man by the shoulders and shoved him onto his back. “The fuck?” the other man said. They were all backing away from him like onlookers at the start of a fight.
 
@@ -51,7 +51,7 @@ modified: "2026-09-30"
 
 **关键词： **can’t see to piss, hitting their shoes
 
-**为什么这样写： **物流瓶颈被一句糙话钉死。piss without hitting their shoes 是盲度的口语化标尺——比"视力丧失"这种临床词更准确地传达了日常技能的崩塌。作者让 Holden 接 Amos 的"坏消息"时用厕所级比喻接住，全章的基层语言（铁锹、电池、尿鞋）与实验室语言（CBC、血气）形成双轨：末日里，文明的词汇表分等级贬值。
+**为什么这样写： **物流瓶颈被一句糙话钉死。piss without hitting their shoes 是盲度的口语化标尺——比"视力丧失"这种临床词更准确地传达了日常技能的崩塌。厕所级比喻出自 Amos 之口，Holden 只回一句"Right up until then"接住，全章的基层语言（铁锹、电池、尿鞋）与实验室语言（CBC、血气）形成双轨：末日里，文明的词汇表分等级贬值。
 
 **读者视角提示： **"尿不进鞋"对照 ch42 的"读屏器"困境——失明不是黑暗，是所有需要瞄准的事一起失效。记住这条标尺：它是"谁还能出门"的唯一资格考。
 
@@ -77,13 +77,13 @@ modified: "2026-09-30"
 
 > **原句 7:** “These people,” Murtry said, “are eating my food, drinking my water, and taking my medicine. My team is gathering the supplies and doing the dangerous salvage work that makes any of this possible. You know what? As long as that remains true, they can throw up a few walls for me when I ask.”
 
-**中文理解： **"这些人，"Murtry 说，"吃着我们的食物，喝着我们的水，用着我们的药。我们的队伍在收集补给、干着让这一切成为可能的危险打捞工作。你猜怎么着？只要这一点不变，我让竖几面墙，他们就得竖。"
+**中文理解： **"这些人，"Murtry 说，"吃着**我的**食物，喝着**我的**水，用着**我的**药。**我的**队伍在收集补给、干着让这一切成为可能的危险打捞工作。你猜怎么着？只要这一点不变，我让竖几面墙，他们就得竖。"
 
 **关键词： **eating my food, drinking my water, throw up a few walls
 
 **为什么这样写： **Murtry 的债务经济学在救命的语境里开工。三个 my 的排比把救援重新登记成赊账——每一口食物都是一张欠条，walls 是利息。throw up a few walls 的轻描淡写最险：他要求的"几面墙"就是 ch41 那座印着 RCE 的丰碑。作者让善举与奴役共用一本流水账，是本书对"援助政治"最冷的注解：免费的东西最贵。
 
-**读者视角提示： **"吃我的喝我的"对照 ch08 Elvi 被轰下台的演讲与 ch31 的"呼吸你的空气"——共同体与债主，只隔着一场灾难的距离。记住这本账：它会在遗迹里被 Elvi 的一句话（免疫者的血）临时清零。
+**读者视角提示： **"吃我的喝我的"对照 ch31 的"呼吸你的空气"——共同体与债主，只隔着一场灾难的距离。记住这本账：它会在遗迹里被 Elvi 的一句话（免疫者的血）临时清零。
 
 > **原句 8:** “They have the mistaken impression you’re in charge. Correcting them seemed impolite.”
 

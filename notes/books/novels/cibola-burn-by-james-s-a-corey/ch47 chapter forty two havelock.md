@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **全章最轻的自嘲，回应"第一次哗变？"的提问。something I do 的句式把哗变降格为职业习惯的反面——他一生的"做的事"是阻止哗变。作者让这句干巴巴的承认接住 Naomi 的调侃，两人关系的新阶段（共犯）就此低调挂牌。对照 ch46 的"教我怎么让大家好起来"：他的每一步"不干的事"，都是被 Murtry 逼出来的"必须干的事"。
 
-**读者视角提示： **"我一般不干"对照 ch11 的"pop a seal"（Coop 的杀人日常）——同样一句话，说的人决定它是职业还是堕落。记住它：本章结束时，"他干的事"清单已彻底重写。
+**读者视角提示： **"我一般不干"对照 ch07 的"pop a seal"（Coop 的杀人日常）——同样一句话，说的人决定它是职业还是堕落。记住它：本章结束时，"他干的事"清单已彻底重写。
 
 > **原句 3:** “You have interesting personal boundaries,” Naomi said.
 
@@ -51,7 +51,7 @@ modified: "2026-09-30"
 
 **关键词： **head of security, I appreciate it, this is what I do
 
-**为什么这样写： **Havelock 的兵权声明用最平和的语法完成夺回。appreciate it 与 what the hell 并置是管理者的标准双声道：先给面子，再收权柄。this is what I do 呼应 ch02 "what I do" 句式的 Murtry（I understand its uses）——两代安保头目共用同一句自我认证，只是服务对象已换。作者让这场对峙零枪声解决：权威的博弈里，语气就是武器。
+**为什么这样写： **Havelock 的兵权声明用最平和的语法完成夺回。appreciate it 与 what the hell 并置是管理者的标准双声道：先给面子，再收权柄。this is what I do 呼应 ch21 Murtry 那句"I understand its uses better than most"——两代安保头目共用同一句自我认证，只是服务对象已换。作者让这场对峙零枪声解决：权威的博弈里，语气就是武器。
 
 **读者视角提示： **"这才是我的本职"对照 ch45 的 hospice 拒绝——他守的本职此刻从"维护秩序"改写为"保住人命"。记住这场对白：它是全书唯一一次"用职位说话"打赢了"用枪说话"。
 
@@ -83,7 +83,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **Havelock 的政治宣言用开除星球籍的方式完成。unpleasant ball of mud 把 ch01 的"千个世界"奇观贬成烂泥——探险的浪漫在他这里已清仓。He cared about the people 三个层次的罗列（船上/船上/地表）是全章最重的账本：他叛变的受益人名单。作者让"公司的地皮"与"所有人"在天平两端现形，Murtry 的丰碑（ch41）就此被称出重量——不够。
 
-**读者视角提示： **"在乎的是人"对照 ch24 Naomi 的"不作为也是行动"与 ch30 的"说到做到"——Rocinante 一侧的价值观，此刻由敌营的安保官独立推导出来了。记住 wasn't good enough：它是本书对一切"宏大叙事"的终审用语。
+**读者视角提示： **"在乎的是人"对照 ch20 Lucia 那句"Not doing anything now keeps you on their side"与 ch30 的"说到做到"——Rocinante 一侧的价值观，此刻由敌营的安保官独立推导出来了。记住 wasn't good enough：它是本书对一切"宏大叙事"的终审用语。
 
 > **原句 8:** “We’re leaving,” she said. “Want to come with?”
 
@@ -93,7 +93,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **全章的落点是一句邀请函，与 ch11 Coop 的收编话术（"跟着我干"）同构，却完全是另一种分量。Want to come with 没有许诺（没有安全、没有胜利、没有 land），只有同行——这是 Naomi 式的招募学：把选择权完整交出。作者让这句话向 Basia 发出（而不是向读者），三条线在此合拢：哗变者、劫囚者、切船者，从此互为 crew。对照 ch37 Alex 的"It's family"——Rocinante 的门永远为"愿意输脸面的人"开着。
 
-**读者视角提示： **"一起来吗"回收 ch34 Fayez 的"我就在这儿"与 ch45 的 cage click——本书的结盟从不靠宣誓，靠的是"我在/你来"。记住这句：Basia 的回答在下一章，而答案早已在他按下焊枪扳机时给出。
+**读者视角提示： **"一起来吗"回收 ch40 Fayez 那句"And I'm right here"与 ch45 的 cage click——本书的结盟从不靠宣誓，靠的是"我在/你来"。记住这句：Basia 的回答在下一章，而答案早已在他按下焊枪扳机时给出。
 
 ## 本章词汇
 

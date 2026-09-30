@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **Murtry 的辩护策略是把因果链倒装。You put me in this room——施害者说成被动者：不是我来夺权，是你们的暴力"把我放"在这里。Big explosion? Crashing ship? 两问用场景感官替代证据清单，省掉一切论证又压满杀伤力；It would have been hard to miss 把讥讽包在常识里。作者让这场仲裁的第一回合展示真正的权力语法：谁能把叙事钉进"常识"，谁就先赢。
 
-**读者视角提示： **对照 ch12 他的 "dignity in consequences" 与 ch15 的 landing speech——Murtry 的每一句都自带因果倒装。这间会议室里唯一说"我们杀过人"的是 Carol 一侧，但大嗓门从来不是证据。
+**读者视角提示： **对照 ch04 他的 "dignity in consequences" 与 ch15 的 landing speech——Murtry 的每一句都自带因果倒装。这间会议室里唯一说"我们杀过人"的是 Carol 一侧，但大嗓门从来不是证据。
 
 > **原句 3:** “And you,” Holden continued, pointing at Murtry, “are a murderer, and one I intend to see prosecuted to the fullest extent of the law—”
 

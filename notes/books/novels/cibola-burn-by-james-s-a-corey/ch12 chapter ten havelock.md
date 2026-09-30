@@ -21,7 +21,7 @@ modified: "2026-09-30"
 
 **关键词： **the consequences of violence, that first section, how everything comes after
 
-**为什么这样写： **本章以一场"戏中戏"开场：游戏开发者 Curvelo 在 Monica Stuart 的节目里为自己的暴力内容辩护。consequences of violence 这句话在五分钟后被本书字面兑现——采访谈的是游戏里的杀戮，轨道这头真有人刚杀完人。Everybody's looking at that first section 一语双关：玩家盯的是开场的爽，世人盯的是爆炸的那一下，而"之后的一切"（追杀、掩埋、报复）才是作者要写的。作者把全书的方法论藏进一个花边访谈：别看事件，看余波。
+**为什么这样写： **本章以一场"戏中戏"开场：游戏开发者 Curvelo 在 Monica Stuart 的节目里为自己的暴力内容辩护。consequences of violence 这句话在五小时前的那场访谈里被本书字面兑现——采访谈的是游戏里的杀戮，轨道这头真有人刚杀完人。Everybody's looking at that first section 一语双关：玩家盯的是开场的爽，世人盯的是爆炸的那一下，而"之后的一切"（追杀、掩埋、报复）才是作者要写的。作者把全书的方法论藏进一个花边访谈：别看事件，看余波。
 
 **读者视角提示： **记住 Monica Stuart——她在本书会反复出现，是"叙事者"角色的化身：她采访暴力，就像作者书写暴力，就像读者围观暴力。这场访谈是作者递给读者的镜子。
 
@@ -73,7 +73,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **全章的权力重锤落在这里。preemptive lethal response 是把"先杀人"翻译成公文的三连修饰——preemptive 抹掉动机问题，lethal 抹掉分寸问题，response 再把"出手"说成"回应"。waited a moment for the words to sink in 是作者的手术刀：他不是在宣布政策，是在欣赏政策落地——他要看清每个下属咽下这三个词的样子。作者不给这段任何道德注解，只让 Havelock 在下一行给出自己的裁决：丑，但没得选。
 
-**读者视角提示： **"先发制人"四个字是 Murtry 从 ch04 的 "dignity in consequences" 长出的正式条款。对照 ch07 会场的 "I'm done sacrificing"——两边都在授权杀人，语言一个在法庭一个在战场。
+**读者视角提示： **"先发制人"四个字是 Murtry 从 ch04 的 "dignity in consequences" 长出的正式条款。对照 ch08 会场的 "I'm done sacrificing things to science"——两边都在授权杀人，语言一个在法庭一个在战场。
 
 > **原句 7:** “I was wondering if you could take her a sandwich, sir.”
 

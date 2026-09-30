@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **Naomi 的政治课是本章的理性底座。她的推理链严丝合缝：无解→必有人怨→需要一个背锅位→透明的人最合适。scapegoat 一词选自祭祀语汇——替罪的山羊，无辜而必需。最毒的是最后一句的转折：他们雇他最大的优点（不藏话）恰好是给他定罪的刑具。作者让全书最懂飞船的人也最懂权力——这份清醒日后她会一而再地需要。
 
-**读者视角提示： **记住"透明即罪名"这个悖论，它是 Holden 全书的政治处境。他在 ch06 亲口承诺 absolute transparency——Naomi 等于提前给他读了判决书。
+**读者视角提示： **记住"透明即罪名"这个悖论，它是 Holden 全书的政治处境。他在 ch06 被 Fred Johnson 点破——"you maintain absolute transparency"——Naomi 等于提前给他读了判决书。
 
 > **原句 5:** Naomi reached up and pulled a hair out of his temple. Before he could say “ouch” she held it up in front of him. It was the gray of damp ashes.
 

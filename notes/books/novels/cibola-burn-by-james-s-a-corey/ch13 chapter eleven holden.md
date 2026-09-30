@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **路过屠杀现场时的一句冷笑话，把殖民史浓缩成一道公式。That's how we claim stuff 说的是所有人的历史：从 flags 到 blood，占有的凭据从来是死亡。officially ours 的 officially 是刀尖——法律文书与尸体在同一个句子里互相盖章。作者让 Amos（本书对制度最不感冒的人）说破这层关系，等于宣布：Holden 带来的那套"程序正义"，在这里早就被用旧了。
 
-**读者视角提示： **对照 ch13 广场上两条命名之争（Ilus／New Terra）与 Charter 条款——"谁先来"的裁判权之争，最后都落在"谁的死人算数"。这句玩笑是全书政治戏的题眼。
+**读者视角提示： **对照本章酒吧里那场命名之争（Ilus／New Terra）与 Charter 条款——"谁先来"的裁判权之争，最后都落在"谁的死人算数"。这句玩笑是全书政治戏的题眼。
 
 > **原句 5:** “They got murdered,” Murtry corrected him, not losing his smile. The man made Holden think of a shark. All bared teeth and cold black eyes.
 
@@ -61,7 +61,7 @@ modified: "2026-09-30"
 
 **关键词： **murdered, not losing his smile, a shark
 
-**为什么这样写： **双方的第一场交锋用词序打赢：Holden 说 disappeared，Murtry 说 murdered——一个中性动词被当场纠正成定性词，等于在初次见面就钉死了叙事框架。not losing his smile 与鲨鱼比喻互为注解：鲨鱼的表情就是牙齿本身，笑与咬共用同一张脸。作者用"动物比喻"给 Murtry 定档，比形容词清单高效得多——ch04 的 loader 意象（把人当货检）至此升级成捕食者。
+**为什么这样写： **双方的第一场交锋用词序打赢：Holden 说 disappeared，Murtry 说 murdered——一个中性动词被当场纠正成定性词，等于在初次见面就钉死了叙事框架。not losing his smile 与鲨鱼比喻互为注解：鲨鱼的表情就是牙齿本身，笑与咬共用同一张脸。作者用"动物比喻"给 Murtry 定档，比形容词清单高效得多——ch03 的 loader 意象（把人当货检）至此升级成捕食者。
 
 **读者视角提示： **记住鲨鱼这个落点，本章稍后它会有一次捕食演示（Coop）。对照 ch02 的 Coop——两条捕食链在广场上相遇，小的那条先死。
 
