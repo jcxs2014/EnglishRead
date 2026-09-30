@@ -43,7 +43,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **末日预报的接听方式：先点菜再问价。wrath of God package 把风暴（狂风、闪电、暴雨）包装成航空餐的规格，minus drowning 的幽默是恐惧的泄压阀——他能笑，是因为 tsunami 那款"包含溺水"的套餐轮不到他们。reaching for humor 的叙述注脚诚实：笑话是工具，不是心态。作者让指挥官在部下面前保持菜单式冷静，恐惧只许在动词（hide）里漏气。
 
-**读者视角提示： **对照 ch21 Murtry 的词库、ch25 的喷嚏段子——本书三种幽默的功能各异：Murtry 用它美化杀戮，Havelock 用它稀释恐惧，Holden 用它稳住船员。记住这份"菜单"，它是压力表的另一种读法。
+**读者视角提示： **对照 ch21 Murtry 的词库、ch30 的喷嚏段子——本书三种幽默的功能各异：Murtry 用它美化杀戮，Havelock 用它稀释恐惧，Holden 用它稳住船员。记住这份"菜单"，它是压力表的另一种读法。
 
 > **原句 4:** “Uh, Captain? I’m watching the other side of the planet rip itself to shreds right now. This isn’t a prediction. This is thousands of klicks of planet between you and the apocalypse disappearing fast.”
 

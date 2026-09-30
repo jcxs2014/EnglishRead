@@ -43,7 +43,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **Miller 的侦探直觉与插叙的宇宙学在此同题同解：ch17 的"凶案现场"（空公寓比喻）是他的报告，本章是"官方标注"（the one thing that doesn't belong）。作者让职业（侦探）与病（载体）共享同一识别力——断点（the place that nothing goes）在两套语言里是同一坐标。这是 Miller 作为工具第一次与主语重叠，也是他的私家推理被写入纪要的瞬间。
 
-**读者视角提示： **"不属于此处"对照 ch09 的"造门者已经不再应答"——断点的性质一致（缺席），但 ch09 是推测，ch50 是定论。记住 doesn’t belong：它将在 ch51–53 变成行动目标。
+**读者视角提示： **"不属于此处"对照 ch01 那句"造门者已经不再应答"——断点的性质一致（缺席），但 ch09 是推测，ch50 是定论。记住 doesn’t belong：它将在 ch51–53 变成行动目标。
 
 > **原句 4:** A bullet. A bomb still ticking under the kitchen table after the blitz was over.
 
@@ -63,7 +63,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **《麦克白》的质问（To be or not to be 的变体）在此转成酷刑指控：Did He… made thee 撕开"造物主"的神学包装，Whoever killed you fuckers 收回全部敬意，把"造门者"降格为一句脏话。Something made for your death, and it's right there 是全章的引擎句：凶手为受害者量身打造了一件凶器（"为你的死"），而那凶器就站在调查现场（Miller 本人）。作者让这句在读者意识到双关的瞬间完成全书的结构性惊悚。
 
-**读者视角提示： **"为你的死造出来的"——这就是 Miller 与调查者同一性的公式。对照 ch14 开始的"从死者骨骼里长出"（ch50 显影：骨头内生长、眼睛被重新植入生命）：寄生与遗产只隔一层语义。
+**读者视角提示： **"为你的死造出来的"——这就是 Miller 与调查者同一性的公式。对照本章自己的"从死者骨骼里长出"（ch50 显影：骨头内生长、眼睛被重新植入生命）：寄生与遗产只隔一层语义。
 
 > **原句 6:** It looks for a path and finds one. Not there, not quite, but close. Two points define a line. One point is alive, and one point is death. Neither came from here. Bang those rocks together and see what sparks. See what burns.
 

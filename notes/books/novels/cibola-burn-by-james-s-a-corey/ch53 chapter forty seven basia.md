@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **为什么这样写：** 武器命名在此以家常口吻落地——电磁炮的第一次台词不是"战争"，是"打实心弹"。solid metal slugs, not explosives 的对照句（金属 vs 炸药）把"炮"从爆炸美学里拽出来，还原为动能工具。这与下一段"对付救人船"的荒谬（拿自保武器当火源）一脉相承：整章都在做"物尽其用"的降维焊接。slash 语感留在 Naomi 的话里——她永远在陈述物理事实，不在道歉。
 
-**读者视角提示：** 记住"实心弹不是炸药"：这是全章的机制钥匙（后文的推进剂来源）。对照 ch12 Naomi 拆掉穿梭机引信（那时是"和平的炸药"）——两章合读，是本书对"武器用错地方"的完整语法。
+**读者视角提示：** 记住"实心弹不是炸药"：这是全章的机制钥匙（后文的推进剂来源）。对照 ch12 Havelock 把轻型穿梭机改成炸弹——两章合读，是本书对"武器用错地方"的完整语法。
 
 > **原句 3:** “But we’re not buying ourselves much in the process. With our power failing and running on a little over half thrust, we’re getting very close to the point that we won’t be able to get to a stable orbit where we can die slowly when the environment systems shut down. And, of course, we’ll have moved as many of the Barb’s crew as we can to this ship. Which just means we’ll burn through our power that much faster. This is lose, lose, lose, Basia. There aren’t any good choices anymore.”
 
@@ -91,9 +91,9 @@ modified: "2026-09-30"
 
 **关键词：** You’ll kill us, but you won’t kill us easy, the angry brown ball
 
-**为什么这样写：** 全章题眼的心理时刻，也是全书最著名的主角内心独白之一。angry brown ball（愤怒的褐色球）把行星拟人成"有脾气"的施暴者，而"你不会杀我痛快"是《地形之战》里 Winston Smith 式的倔强：即便 doomed 也要把最后的三分钟拖成三个剧场。anger 在此既是星球的属性（auburn 的风暴球体）也是 Basia 自己被激起的——一个对石头喊"别想轻易赢我"的瞬间，把英雄主义剥到只剩姿态，却正是本书的立身。
+**为什么这样写：** 全章题眼的心理时刻，也是全书最著名的主角内心独白之一。angry brown ball（愤怒的褐色球）把行星拟人成"有脾气"的施暴者，而"你不会杀我痛快"是《一九八四》里 Winston Smith 式的倔强：即便 doomed 也要把最后的三分钟拖成三个剧场。anger 在此既是星球的属性（auburn 的风暴球体）也是 Basia 自己被激起的——一个对石头喊"别想轻易赢我"的瞬间，把英雄主义剥到只剩姿态，却正是本书的立身。
 
-**读者视角提示：** 记住这句内心：它是 ch03 的 Coriolis（科里奥利力，各人自转）到 ch57 的北方（Miller 的墓）之间的英雄语法原型。记住 angry brown ball：它会与 ch50 的 bomb、ch56 的防御网汇成同一意象群。
+**读者视角提示：** 记住这句内心：它是本章 Basia 孤身一人时的英雄语法原型。记住 angry brown ball：它会与 ch50 的 bomb、ch56 的防御网汇成同一意象群。
 
 ## 本章词汇
 

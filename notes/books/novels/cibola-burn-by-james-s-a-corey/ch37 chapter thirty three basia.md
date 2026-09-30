@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **死亡倒计时的几何学。tiny icon 把整艘载人巨舰缩成一个像素——他女儿的全部安全压缩在屏幕上的一粒光点里；imperceptible increment 是最残忍的修饰：每圈只近"看不出"的一步，恐怖以不可见的方式复利。作者让 Basia 学会"不看"（He avoided looking），宣告数据时代的无力：信息给不了的，是停下来。对照 ch29 的信号晚半秒——宇宙的冷漠有各种单位，这是轨道力学的版本。
 
-**读者视角提示： **"每圈近一步"对照 ch37 全章的"等待"主题：倒计时不是压迫，是钝刀。记住 icon 这个词——它把 ch15 的"屏幕恩人"逻辑反过来用了一次：现在屏幕上装的是他的女儿。
+**读者视角提示： **"每圈近一步"对照 ch37 全章的"等待"主题：倒计时不是压迫，是钝刀。记住 icon 这个词——它把 ch07 的"屏幕恩人"逻辑反过来用了一次：现在屏幕上装的是他的女儿。
 
 > **原句 5:** “Wasn’t a joke. Just yanked the reactor apart. Injector works, fuel pellets drop, laser array fires, magnetic bottle is stable. All the parts that make it a fusion reactor work just fine. Only, you know, without the fusing.”
 

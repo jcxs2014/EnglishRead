@@ -9,7 +9,7 @@ modified: "2026-09-30"
 
 - **一句话概括**：Basia 独自在空船的作战甲板接到儿子的越轨通话——Jacek 让他"开炮炸了 RCE 船"，他忍住眼泪布置了守护 Lucia 的任务，"我爱你"说出口时信号已经断了；随后在驾驶舱听完 Alex 的 Talissa 忏悔（二十年的等待换不回一个园丁），被对方一句"你搞砸了就认下"当头棒喝，两人各自攥着自己那笔还不清的债。
 - **POV 与视角**：**POV：Basia Merton**。第三人称有限视角，本章是"父亲章"——通话戏的全部表演（强装的笑、轻的语气、漏掉的告白）都发生在通话的两端之间；Alex 的故事则是本书最完整的一次男性忏悔。
-- **情感弧线位置**：全书泪点最高的一章：儿子天真喊出的暴力愿望与父亲咽下的求救、Alex 的花园与猎户座的乡愁、最后以 RAIL GUN ARMED 的红字把温柔切回战争。
+- **情感弧线位置**：全书泪点最高的一章：儿子天真喊出的暴力愿望与父亲咽下的求救、Alex 的花园与故星的乡愁、最后以 RAIL GUN ARMED 的红字把温柔切回战争。
 - **人物弧线**：Basia——他在通话里完成了从"囚犯"到"远程父亲"的身份重组；Alex 的棒喝（own that shit）给了他此后一切行动的语法。Alex 则首次交出自己的原罪：他不是 gardener，是 long-flight pilot。
 - **叙事手法**：通话戏用"单向信号"做泪点机关（告白晚于挂断）；Alex 的忏悔用"错位的劳动分工"讲孤独婚姻的结构性；双男人的对话以武器系统的红字收束——温情与火力同屏是本章的美学。
 
@@ -31,7 +31,7 @@ modified: "2026-09-30"
 
 **关键词： **still felt like being locked out
 
-**为什么这样写： **独立成段的六词句是全章的心理坐标。前一行的理性自辩（安全措施而已，仅此而已）越完整，这一行的感受越诚实——隔着一道自动舱门，Basia 听见的是"被排除"的声音。作者用这个微小的不适定义囚犯与客人的分界：舱门对他是礼貌，对船员是习惯。locked out 同时是他在家庭里的处境镜像—— ch20 的告别后，他已经被生活的房间锁在了外面。
+**为什么这样写： **独立成段的七词句是全章的心理坐标。前一行的理性自辩（安全措施而已，仅此而已）越完整，这一行的感受越诚实——隔着一道自动舱门，Basia 听见的是"被排除"的声音。作者用这个微小的不适定义囚犯与客人的分界：舱门对他是礼貌，对船员是习惯。locked out 同时是他在家庭里的处境镜像—— ch20 的告别后，他已经被生活的房间锁在了外面。
 
 **读者视角提示： **"被锁在门外"与 ch24 的"被锁着的镣铐"是同一个人的两把锁：一把在手腕上，一把在身份上。本章他会慢慢发现哪把更难受。
 
@@ -51,7 +51,7 @@ modified: "2026-09-30"
 
 **关键词： **watch her, looking things up at night, make sure she gets some sleep
 
-**为什么这样写： **父亲的遗言式托付全部藏在生活细节里。watch her / look after her 的动词都是照料类——他把"替我守着这个家"翻译成了"让她睡觉"，用最小可执行任务包裹最大的重托。Medical things 三词泄露他最深的担心：Lucia 会在失眠里翻医学文献（找 Fareed 治病的方法？找离开的办法？）。作者让这段托付避开一切"我爱你"的正面表述——Basia 的语言里，责任就是爱的全部拼写。
+**为什么这样写： **父亲的遗言式托付全部藏在生活细节里。watch her / look after her 的动词都是照料类——他把"替我守着这个家"翻译成了"让她睡觉"，用最小可执行任务包裹最大的重托。Medical things 三词泄露他最深的担心：Lucia 会在失眠里翻医学文献（找治病的方法？找离开的办法？）。作者让这段托付避开一切"我爱你"的正面表述——Basia 的语言里，责任就是爱的全部拼写。
 
 **读者视角提示： **对照 ch15 Lucia 的"你现在还不是这里的人"——本章他的托付书等于承认：短期内回不去了，家需要换一个监护人。记住"让她睡觉"这个任务，Felcia 的大学、Jacek 的长大，都接在它后面。
 
@@ -83,7 +83,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **Alex 的忏悔给"自我"定了罪。fail just by being who they are 是全书对身份与责任的最终裁定：真诚不是免罪符，天性也会变成债。somethin' had to break 的宿命感与 Basia 的账单并排——一个是被梦想辜负的丈夫，一个是被执念拖下水的父亲。作者让两个"失败者"在炮手的座椅上交换罪状，等于宣布本书的成年人无一清白：区别只在认不认。
 
-**读者视角提示： **对照 ch21 Naomi 的"不作为也是行动"与本章的"做自己也会辜负"——本书的伦理学一路收紧：先是行动有罪，再是存在有债。记住这句，它是 Alex 人物线的墓志铭。
+**读者视角提示： **对照 ch20 Lucia 那句"Not doing anything now keeps you on their side"与本章的"做自己也会辜负"——本书的伦理学一路收紧：先是行动有罪，再是存在有债。记住这句，它是 Alex 人物线的墓志铭。
 
 > **原句 8:** “It’s still on you. I will never live down not being the person my wife needed after she spent twenty years waitin’ for me. I can never make that right. Don’t go feelin’ sorry for yourself. You fucked up. You failed the people you love. They’re payin’ the price for it right now and you demean them every second you don’t own that shit.”
 

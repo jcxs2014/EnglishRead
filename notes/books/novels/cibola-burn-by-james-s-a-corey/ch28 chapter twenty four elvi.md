@@ -43,7 +43,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **科学家的起床气以方言级暴力输出。这句睡前狠话的语法（撕开＋撒尿）是 Belter 酒馆级别的威胁模板，从 Elvi 嘴里出来制造了全章最大的反差萌——被吵醒的专家比武装的少年更凶。作者让 Fayez 的笑声（他懂她）立刻接住这份凶，等于告诉读者：这个团队的亲密是用互相威胁来计价的。它同时是本章温度计的零点——梦醒后的她浑身是刺，因为梦里那份"高兴"还没散。
 
-**读者视角提示： **记住这句威胁，它是 Elvi 全书唯一一次"动物性发言"。对照她下一章拆 Jacek 时用的"I'm scared"——同一个女人，两种语言：对朋友亮爪，对孩子亮腹。
+**读者视角提示： **记住这句威胁，它是 Elvi 全书唯一一次"动物性发言"。对照她本章后段拆 Jacek 时用的"I'm scared"——同一个女人，两种语言：对朋友亮爪，对孩子亮腹。
 
 > **原句 4:** The moon shifted colors for a moment, turning from dull red to a bright orange to yellow-white, and then back down the spectrum again, waning as suddenly as it had waxed.
 
@@ -51,7 +51,7 @@ modified: "2026-09-30"
 
 **关键词： **turned from dull red, back down the spectrum, waning as suddenly as it had waxed
 
-**为什么这样写： **超自然事件的第一现场用光谱写。红色→橙→黄白的升温序列是发热的身体语言——月亮在"发烧"，而 waning as suddenly as it had waxed 的对称句式给它装上呼吸节律：这不是爆炸，是生理活动。作者让全场的科学家集体沉默（her voice instinctively low），用语调的压低完成对未知的敬意。熔月在这里还不是威胁，是"生命体征"——真正吓人的是下一章的解释：它在试启动，而且失败了。
+**为什么这样写： **超自然事件的第一现场用光谱写。红色→橙→黄白的升温序列是发热的身体语言——月亮在"发烧"，而 waning as suddenly as it had waxed 的对称句式给它装上呼吸节律：这不是爆炸，是生理活动。作者让全场的科学家集体沉默——先开口的 Elvi 把语调压低（her voice instinctively low），用语调的压低完成对未知的敬意。熔月在这里还不是威胁，是"生命体征"——真正吓人的是下一章的解释：它在试启动，而且失败了。
 
 **读者视角提示： **记住这个光谱循环，它与 ch19 机器垂死的 keen、ch14 的"零件做梦"串成本插叙线的生命体征表。月亮的"退烧"，现在读来是平静，稍后读来是死亡。
 

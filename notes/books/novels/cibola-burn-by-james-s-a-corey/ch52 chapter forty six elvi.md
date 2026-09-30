@@ -23,7 +23,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **Elvi（科学家）与 Lucia（医生）的世界观在此精确分工：治愈的样本量是科学指标，病人的恢复是临床时间轴。doing brilliantly 与 back to baseline 的并置把"奇迹"与"未完成"绑在一起——作者的冷静比任何欢呼都更可信。Lucia 的短句没有情绪词（brilliantly 是数据词），这是本章的底线：医学不庆祝，只计数。
 
-**读者视角提示： **"这不是科学"回收 ch16 那句"She was talking about the biology and the science, but what she meant was Help me"的憋屈与 ch46 的 Skippy 洞见——同一门知识在三种人（Elvi/Lucia/Fayez）里是三种语言。记住 baseline：它后面会变成 ch58 的一句危言。
+**读者视角提示： **"这不是科学"回收 ch16 那句"She was talking about the biology and the science, but what she meant was Help me"的憋屈与 ch46 的 Skippy 洞见——同一门知识在三种人（Elvi/Lucia/Fayez）里是三种语言。记住 baseline：它后面会变成本书的一句危言。
 
 > **原句 2:** “We’ve traded up from dying in the storm to dying from the slugs to dying of hunger in a few weeks.”
 

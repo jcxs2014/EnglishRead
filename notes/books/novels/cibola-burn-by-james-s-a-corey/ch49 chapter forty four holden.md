@@ -23,7 +23,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **疲劳的精确度量衡全部失效。thirty-hour day 的行星设定第一次成为负担——连"熬了多久"都算不清，人的时间感被异星日长没收。A long time 的贫瘠答案是全段的笑点兼警报：词汇量的塌方比视力更早。作者让英雄的账本（他一生都在算）在本章清零，为接下来的所有冒险改用"直觉驾驶"。
 
-**读者视角提示： **"算不出没睡多久"对照 ch16 的 error bars——测量的全面失守（天数、血象、视力）是本章的世界观：仪器先于人崩溃。记住 A long time：它是 Holden 对所有提问的临时统一回复。
+**读者视角提示： **"算不出没睡多久"对照 ch23 的 error bars——测量的全面失守（天数、血象、视力）是本章的世界观：仪器先于人崩溃。记住 A long time：它是 Holden 对所有提问的临时统一回复。
 
 > **原句 2:** It all felt vaguely ridiculous, tap-dancing around the issue. They both knew what was happening. He felt like they were playing poker and only pretending they couldn’t see each other’s hand.
 
@@ -41,7 +41,7 @@ modified: "2026-09-30"
 
 **关键词： **a shade more genuine, leave a note
 
-**为什么这样写： **Murtry 的黑色幽默第一次接近真诚。a shade more genuine 的修饰是全章最险的一笔：他的笑向来是 fake 的度量单位，此刻"真实了一格"——因为死亡对他的会计学（ch41 的 win 理论）而言是可接受科目。留条声明是对 ch47 Havelock 式幽默的致敬（也是挑衅）：连遗书都要预写免责条款。作者让这行笑谈在下一章全部应验（Murtry 真的去赴死了），黑色的种子提前落土。
+**为什么这样写： **Murtry 的黑色幽默第一次接近真诚。a shade more genuine 的修饰是全章最险的一笔：他的笑向来是 fake 的度量单位，此刻"真实了一格"——因为死亡对他的会计学（ch04 的 win 理论）而言是可接受科目。留条声明是对 ch47 Havelock 式幽默的致敬（也是挑衅）：连遗书都要预写免责条款。作者让这行笑谈在下一章全部应验（Murtry 真的去赴死了），黑色的种子提前落土。
 
 **读者视角提示： **"不是你的错"对照 ch47 Havelock 的"死人自由"——两个决心赴死者交换遗嘱格式。记住这张"便条"：它会在全书最后几章兑现，届时请核对签名。
 
@@ -51,9 +51,9 @@ modified: "2026-09-30"
 
 **关键词： **yanked the terminal, shoved him to the muddy ground
 
-**为什么这样写： **调解人的最后一次"调解"是物理执法。yanked 与 shoved 两个动词不带任何犹豫——前文（And then he stopped fighting）的停止挣扎即决心的生效。作者让这场抢夺毫无修辞保护（不是智取，是抢劫），正因如此它才是本书最诚实的一次武力：为了救 Naomi，程序正义被他亲手按进泥里。对照 ch07 的"一厘米也不让"——Murtry 的一厘米，这回是被别人推的。
+**为什么这样写： **调解人的最后一次"调解"是物理执法。yanked 与 shoved 两个动词不带任何犹豫——前文（And then he stopped fighting）的停止挣扎即决心的生效。作者让这场抢夺毫无修辞保护（不是智取，是抢劫），正因如此它才是本书最诚实的一次武力：为了救 Naomi，程序正义被他亲手按进泥里。对照 ch16 的"一厘米也不让"——Murtry 的一厘米，这回是被别人推的。
 
-**读者视角提示： **"抢终端"对照 ch27 Basia 的拦路相认——两代"下黑手"都是为家人。记住 muddy ground：Murtry 的每一段下坡路，本章起都是字面意义的。
+**读者视角提示： **"抢终端"对照 ch17 Basia 的拦路相认——两代"下黑手"都是为家人。记住 muddy ground：Murtry 的每一段下坡路，本章起都是字面意义的。
 
 > **原句 5:** “It’s working,” Elvi said, and her frown shifted into a brilliant smile. “The microorganism’s cell replication is failing. The colonies are breaking down and the light-scattering effect is going too. I can almost read again, if the font’s big enough.”
 

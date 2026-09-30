@@ -51,9 +51,9 @@ modified: "2026-09-30"
 
 **关键词： **between former employee and accomplice, a wider range
 
-**为什么这样写： **Havelock 用行政词给自己下了半截判语（HR 式区间定位），而 immediately 承认区间本身失去参照（比自己的处置能力还宽）。forfeit corporate law、governmental authority 失效的荒诞，全压在"前雇员"这个词的尴尬里——他叛出岗位，却找不到"岗位外的自己"。
+**为什么这样写： **Havelock 用行政词给自己下了半截判语（HR 式区间定位），而紧接着承认区间本身失去参照（比自己的处置能力还宽）。corporate law、governmental authority 都不再适用的荒诞，全压在"前雇员"这个词的尴尬里——他叛出岗位，却找不到"岗位外的自己"。
 
-**读者视角提示： **"前雇员/共犯之间"回收 ch45 开笼、ch47 哗变——他每走一步都离 HR 的格子更远。记住这个区间：它是全书对"体制内叛逃者"最精准的身份描述。
+**读者视角提示： **"前雇员/共犯之间"回收 ch47 的开笼与哗变——他每走一步都离 HR 的格子更远。记住这个区间：它是全书对"体制内叛逃者"最精准的身份描述。
 
 > **原句 5:** From where he was, the fear had stopped being an emotion and turned into an environment.
 
@@ -91,9 +91,9 @@ modified: "2026-09-30"
 
 **关键词： **the worst of it, wasn’t actually surprised
 
-**为什么这样写： **袭击的心理落点只有一句，且是自陈的。wasn't actually surprised 把"同伙背刺"的创伤从震撼改写为"确认"——这比愤怒更深。作者让 Havelock 在臂伤与破片之间完成对 RCE 军心的最终诊断：他早知道他们会开火（The RCE team had launched the shuttle… tried to break up a civilian rescue operation），确认感压过惊讶。这就是 ch30 那句"法律不在此处生效"的报应。
+**为什么这样写： **袭击的心理落点只有一句，且是自陈的。wasn't actually surprised 把"同伙背刺"的创伤从震撼改写为"确认"——这比愤怒更深。作者让 Havelock 在臂伤与破片之间完成对 RCE 军心的最终诊断：他早知道他们会开火（The RCE team had launched the shuttle… tried to break up a civilian rescue operation），确认感压过惊讶。这就是本章那句"法律不在此处生效"的报应。
 
-**读者视角提示： **"并不意外"回收 ch47 他开笼前的理由（"我更愿意听她描述的死亡"）与本章的对照——他押对了人、也看清了人。记住这句：它是全书对"公司军"最冷的一句判词。
+**读者视角提示： **"并不意外"回收 ch47 他开笼前的理由（他更喜欢她描述的那种死法）与本章的对照——他押对了人、也看清了人。记住这句：它是全书对"公司军"最冷的一句判词。
 
 ## 本章词汇
 

@@ -10,8 +10,8 @@ modified: "2026-09-30"
 - **一句话概括**：Havelock 爬出舱外，用一挺失效的近防炮当掩体，劝降一路听不进去的民兵（"你们算过账了，这图什么？"）；他挡下三枚土制导弹，被第四枚炸飞进太空——Basia 用抓钩把他拽回来，而民兵掉头把 Barbapiccola 轰得开始翻滚，缆绳断了；Havelock 拄着断腿守在气闸口，念叨着安保这行的真谛："别把事情搞得更糟。"
 - **POV 与视角**：**POV：Dimitri Havelock**。第三人称有限视角，本章是"职业伦理的实战"章：他要开枪杀的都是自己的学员（No Belters 的反向操作），而全书对"职责"的定义在此被一句话说穿——威胁只是工具之一，重点是别让局面更糟。
 - **情感弧线位置**：武力章（ch51 拖曳／ch53 电磁炮）之后的人性章：爆炸的高峰（Havelock 飞出去）之后，节奏骤然转缓（拉人、安顿、守门），章末的悬念回到道德两难。
-- **人物弧线**：Havelock——从"前雇员与共犯之间"进一步走到"用身体挡住自己的学员"；他与 Basia 的并肩（互相揪着对方往回爬）是 ch45 开笼之后的结盟回响。
-- **叙事手法**：舱外视角（磁靴、头盔 HUD、旋转失重）当本章的声场；劝降与不听劝的对照（Both the "mean" speech and the "math" speech——"你们算过账吗？"）把同一次对话写成两轮；深空的失重让"以厘米计的坠落"成为最后一句的度量（ch51 倒计时、ch53 一厘米一厘米地死，本章又"以厘米计"坠落，三者形成一条坠落线）。
+- **人物弧线**：Havelock——从"前雇员与共犯之间"进一步走到"用身体挡住自己的学员"；他与 Basia 的并肩（互相揪着对方往回爬）是 ch47 开笼之后的结盟回响。
+- **叙事手法**：舱外视角（磁靴、头盔 HUD、旋转失重）当本章的声场；劝降与不听劝的对照（Both the "mean" speech and the "math" speech——"你们算过账吗？"）把同一次对话写成两轮；深空的失重让"以厘米计的坠落"成为最后一句的度量（ch51 倒计时、ch52 一厘米一厘米地死，本章又"以厘米计"坠落，三者形成一条坠落线）。
 
 ## 精读
 
@@ -43,7 +43,7 @@ modified: "2026-09-30"
 
 **为什么这样写：** Havelock 的劝降核心是"math"（算账）——他不说仁义，只说账目：双方的数字一样，谁也不赚。这是 Belter 式的、也是安保官式的实话（It’s just being mean 把战争降格为"使坏"，用孩子气的词剥夺它的尊严）。done the math 是全章的钥匙：这些工程师不是被洗脑，他们是会算账的人——Havelock 用他们的语言劝他们，而他们用自己的语言拒绝（Murtry 下了死命令）。作者让劝降与拒绝构成对称的两段算术：同一个"数字"，一份用来拖，一份用来杀。
 
-**读者视角提示：** 记住"math"：这是本书处理"讲道理"失败时的默认语言（ch03 的"计算"、ch40 的"预算是战争"）。记住"就是使坏"：它是 Havelock 对自己的定性——而他接着又替对手留了余地（"你们没这个必要"）。
+**读者视角提示：** 记住"math"：这是本书处理"讲道理"失败时的默认语言（ch03 的"计算"、本章的"就是使坏"）。记住"就是使坏"：它是 Havelock 对自己的定性——而他接着又替对手留了余地（"你们没这个必要"）。
 
 > **原句 4:** “Walters? Is this how you want to go down? Don’t listen to them for a second. Seriously, just turn off the radio. We don’t have to hurry here. Do you think you’re doing the right thing?”
 
@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 **为什么这样写：** 劝降的第二轮从命令滑向诘问。Is this how you want to go down（你想这样走完人生吗）把战术对话翻转成临终对话；turn off the radio（把无线电关了）是最小、最易行的投降动作——不是要他们认输，只是要他们停手。而最后一句 Do you think you're doing the right thing 把矛头递回他们自己的良心，而不是指责。作者让 Havelock 用 Walters 的名字点名——他一个一个叫，记住了每一张面罩后的脸（本章前文的 faceplates 匿名化在这里被逐一破解）。
 
-**读者视角提示：** 记住"Walters"这个被点名的名字：它是 Havelock 与学员们之间"私交"的证据（ch22 他教他们战术，ch47 他电晕他们，ch55 他叫他们的名字劝降）。记住"你觉得你在做对的事吗"：它会在几章后由同一个 Walters 回答（以一种 Havelock 没料到的方式）。
+**读者视角提示：** 记住"Walters"这个被点名的名字（本章后他不再登场）：它是 Havelock 与学员们之间"私交"的证据（ch22 他教他们战术，ch47 他电晕他们，ch55 他叫他们的名字劝降）。记住"你觉得你在做对的事吗"：它会在几章后由同一个 Walters 回答（以一种 Havelock 没料到的方式）。
 
 > **原句 5:** Murtry’s legacy would be that he hadn’t given up a centimeter. Not on the ground, not in space, not on the abstract legal battlefield. Nowhere.
 
@@ -61,9 +61,9 @@ modified: "2026-09-30"
 
 **关键词：** he hadn’t given up a centimeter, the abstract legal battlefield, Nowhere
 
-**为什么这样写：** 遗言式的判词，用"一厘米"作度量单位（回收 ch15 撤退宣言里的"一厘米土地"）。三个"没有"（not on the ground / not in space / not on the abstract legal battlefield）把"不退"从空间扩展到抽象域——连法律战场都不让。Nowhere 的落点是全章对 Murtry 的定性：他不是战败，是退到死为止的坚持。作者让 Havelock 在此把自己的 former boss 看清（下一段即"只是奇怪、可悲"）。
+**为什么这样写：** 遗言式的判词，用"一厘米"作度量单位（回收 ch16 撤退宣言里的"一厘米土地"）。三个"没有"（not on the ground / not in space / not on the abstract legal battlefield）把"不退"从空间扩展到抽象域——连法律战场都不让。Nowhere 的落点是全章对 Murtry 的定性：他不是战败，是退到死为止的坚持。作者让 Havelock 在此把自己的 former boss 看清（下一段即"只是奇怪、可悲"）。
 
-**读者视角提示：** 记住"一厘米"：它从 ch15 的口号走到 ch55 的墓志铭。记住 Nowhere：Murtry 的战术终点（不退）与 Havelock 的职业信条（别搞得更糟）构成本章的正面碰撞。
+**读者视角提示：** 记住"一厘米"：它从 ch16 的口号走到 ch55 的墓志铭。记住 Nowhere：Murtry 的战术终点（不退）与 Havelock 的职业信条（别搞得更糟）构成本章的正面碰撞。
 
 > **原句 6:** “You guys need to slow down now,” Havelock said. “You’re still my people, and I don’t want to hurt any of you.”
 
@@ -73,7 +73,7 @@ modified: "2026-09-30"
 
 **为什么这样写：** 劝降的第三层——从"算账"退到"感情"。my people（我的人）三个词把身份从职务还原成归属：他叫他们"我的人"，正如 ch22 他训练他们时、ch47 他电晕他们时——他对这支民兵的责任从不因哗变而注销。slow down now（现在减速）与 don't want to hurt any of you（不想伤你们）把请求降到最低语速、最低诉求：不必投降，只须慢下来。这句话后民兵回答的是 Murtry 的死命令（"我们把他和那个 Belt 婊子带回 Israel 号"）——Havelock 用人心打的赌，输给了上级的令。
 
-**读者视角提示：** 记住"我的人"：它与 ch22 的"我们是三个人"（Alex 版）、ch18 的"我们过去数的最后一个"（Havelock 版）同族，是他在叛变后重建自我的语法。记住"不想伤你们"：这句与章末"要开枪了"的恐惧构成他整章的内在张力。
+**读者视角提示：** 记住"我的人"：它与 ch22 训练他们时、ch47 电晕他们时那句"我们"的语法同族，是他在叛变后重建自我的语法。记住"不想伤你们"：这句与章末"要开枪了"的恐惧构成他整章的内在张力。
 
 
 > **原句 7:** No one really appreciated how much of security work was just trying to keep things under control for a few more minutes, giving everyone involved in the crisis a little time to think it all through. The threat of violence was just one tool among many, and the point was not making things worse.
@@ -92,9 +92,9 @@ modified: "2026-09-30"
 
 **关键词：** falling by centimeters, struggling for a few more minutes, he was going to have to shoot somebody
 
-**为什么这样写：** 章末的清醒。falling by centimeters 把前几章的三个刻度（ch51 的倒计时、ch53 的"一厘米一厘米地死"）合到一枚坠落的砝码上；worried him most 的落点最狠：他不怕死（falling into a planet），他怕的是成为要开枪的人（shoot somebody）。全章的张力从"活不活得下来"倒置为"还保不保得住职业伦理"。作者让职业的尊严在坠落中显影——人到了这个高度才分得出什么最重。
+**为什么这样写：** 章末的清醒。falling by centimeters 把前几章的三个刻度（ch51 的倒计时、ch52 的"一厘米一厘米地死"）合到一枚坠落的砝码上；worried him most 的落点最狠：他不怕死（falling into a planet），他怕的是成为要开枪的人（shoot somebody）。全章的张力从"活不活得下来"倒置为"还保不保得住职业伦理"。作者让职业的尊严在坠落中显影——人到了这个高度才分得出什么最重。
 
-**读者视角提示：** 记住"一厘米"这条线（ch53 饿死的一厘米→ch55 退让的一厘米→ch55 坠落的一厘米）：本书把"距离"做成主计量衡，而本章让三个一厘米汇成同一句。记住"要开枪"：它接 ch56 的转折（他真的要开那一枪）。
+**读者视角提示：** 记住"一厘米"这条线（ch52 饿死的一厘米→ch55 退让的一厘米→ch55 坠落的一厘米）：本书把"距离"做成主计量衡，而本章让三个一厘米汇成同一句。记住"要开枪"：它接 ch56 的转折（他真的要开那一枪）。
 
 ## 本章词汇
 

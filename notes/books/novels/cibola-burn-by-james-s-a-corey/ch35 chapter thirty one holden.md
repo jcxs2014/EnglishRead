@@ -10,7 +10,7 @@ modified: "2026-09-30"
 - **一句话概括**：Holden 站在 First Landing 的原点——什么都没剩下（"没有可重建之物"），雨里带着辐射，药片见底，RCE 的律师隔空打官腔回绝放人；神经毒素蛞蝓咬死了第一个殖民者，他把 Murtry 逼到墙角发出全员撤离令，对方竟出人意料地答应；章末 Elvi 纠正了 Murtry 的甩锅，Amos 递上本章判词："那说明你不是个混蛋。"
 - **POV 与视角**：**POV：James Holden**。第三人称有限视角，本章是"幸存者政府"的第一天：清点损失（物质与人心）、下命令、试探对手；童年龙卷风记忆为"什么都没有的废墟"提供量尺。
 - **情感弧线位置**：灾难后的秩序重建章——恐惧、辐射、毒虫接踵而至，而政治（撤离权的分配）才是真正的雷区；Murtry 的"爽快"让和平比战争更可疑。
-- **人物弧线**：Holden——用 terrible press 这类"地球武器"逼宫，Plan B（让 Amos 动手）在他脑内待命；他承认自己"无法回答"能不能活下来。Elvi 的直率反驳与 Amos 的"混蛋鉴定"是本章的道德锚点。
+- **人物弧线**：Holden——用 terrible press 这类"地球武器"逼宫，Plan B（让 Amos 动手）在他脑内待命；他承认自己答不上这个问题（ch34 那句"我不知道该怎么回答"）。Elvi 的直率反驳与 Amos 的"混蛋鉴定"是本章的道德锚点。
 - **叙事手法**：童年记忆闪回（龙卷风的 pinwheel）当灾难的参照系；神经毒素死亡把生态威胁从"科学"降格为"日常"；谈判戏的膛线（逼近—僵持—反转）以 Plan B 独白压舱；章末 Amos 的"混蛋学"收束全书价值观。
 
 ## 精读
@@ -23,7 +23,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **Holden 的灾难教育从童年 开始。giant's fist 的比喻把龙卷风写成蓄意的击打——自然第一次在他眼里露出"选择"的假象（只打市场，放过两侧的店面）。pinwheel（风车）的图案感最惊人：毁灭竟有构图，混乱竟能成画。作者让童年记忆当本章的量尺——但量到最后他必须承认：This was worse（下一行）。孩子的噩梦是龙卷风，成年人的噩梦是"连噩梦的参照系都不够大"。
 
-**读者视角提示： **记住 pinwheel 这个图案——它与 ch32 的爆炸（白火柱）、ch34 的黑墙并列本书灾难三部曲：拳头、火柱、黑幕。灾难在本书始终有"造型"，这是它最不祥的部分。
+**读者视角提示： **记住 pinwheel 这个图案——它与 ch32 的爆炸（白火柱）、ch33 的黑墙并列本书灾难三部曲：拳头、火柱、黑幕。灾难在本书始终有"造型"，这是它最不祥的部分。
 
 > **原句 2:** There were no flattened buildings. No wreckage strewn across the ground. With the fury and duration of the winds, it was entirely possible that the detritus of First Landing was hundreds or even thousands of kilometers away. The colonists would never rebuild. There was nothing to rebuild.
 
@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **"没有"的三连排比是本章最冷的开场清单。灾难的常规语法（废墟、残骸、瓦砾）在这里全部失效——ch34 的"想象没有瓦砾"在本章成为实地考察报告。nothing to rebuild 的终极判断最狠：重建叙事（文明的本能）被剥夺了宾语。作者让 Holden 用双脚走完这个空集合，等于替全书宣布：殖民第一回合结束，双方都成了无家可归者。
 
-**读者视角提示： **"没有可重建之物"对照 ch15 Basia 的"我们现在就是这里的人"——认同感的物质基础被风抽走了。记住这行：它是撤离令的心理许可证。
+**读者视角提示： **"没有可重建之物"对照 ch07 Basia 那句"We all belong here"——认同感的物质基础被风抽走了。记住这行：它是撤离令的心理许可证。
 
 > **原句 3:** “I’m running low on my cancer meds,” Holden said.
 
@@ -71,7 +71,7 @@ modified: "2026-09-30"
 
 **关键词： **the last of her supplies, humanitarian crisis, terrible press
 
-**为什么这样写： **Holden 的谈判术在本章换弹：从程序（ch17）换成舆论。terrible press 是地球武器的精确投放——法律在十八个月外，媒体在六小时电波内，他终于找到了能立刻兑现的杠杆。as if he hadn't interrupted 的细节最妙：谈判者对对手每一次打断都不接招，只按自己的议程推进。作者让"人道主义"与"公关灾难"并列使用——他清楚哪根杠杆真的会动，道德与效率在他的语法里各司其职。
+**为什么这样写： **Holden 的谈判术在本章换弹：从程序（ch17）换成舆论。terrible press 是地球武器的精确投放——法律在十八个月外，媒体在五小时电波内，他终于找到了能立刻兑现的杠杆。as if he hadn't interrupted 的细节最妙：谈判者对对手每一次打断都不接招，只按自己的议程推进。作者让"人道主义"与"公关灾难"并列使用——他清楚哪根杠杆真的会动，道德与效率在他的语法里各司其职。
 
 **读者视角提示： **对照 ch09 Naomi 的替罪羊论——本章 Holden 主动把"媒体的审判"当武器递出去，等于自己接下了那口锅。记住 terrible press 这招：它是"透明人"第一次把透明当武力。
 

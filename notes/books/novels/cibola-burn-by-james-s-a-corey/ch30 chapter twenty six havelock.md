@@ -21,7 +21,7 @@ modified: "2026-09-30"
 
 **关键词： **the mood of the ship had clarified, the rightful explorers, strangely, they were free
 
-**为什么这样写： ** siege 心理的教科书描述。clarified 一词最险：把孤立说成"清澈"——自我叙事洗掉了最后一点含糊，全员对齐。rightful（合法）是这套心理的承重梁：只要"我们才是合法的"成立，一切暴行都是执法。And so, strangely, they were free 是全句的毒针：被全世界敌视竟兑换成免于自我审视的自由——没有外部认同，就不必向任何标准交代。作者让 Havelock 以半旁观半共谋的口吻记录这一切，他的不适藏在 strangely 这个副词里。
+**为什么这样写： **围城心理的教科书描述。clarified 一词最险：把孤立说成"清澈"——自我叙事洗掉了最后一点含糊，全员对齐。rightful（合法）是这套心理的承重梁：只要"我们才是合法的"成立，一切暴行都是执法。And so, strangely, they were free 是全句的毒针：被全世界敌视竟兑换成免于自我审视的自由——没有外部认同，就不必向任何标准交代。作者让 Havelock 以半旁观半共谋的口吻记录这一切，他的不适藏在 strangely 这个副词里。
 
 **读者视角提示： **"围城即自由"是本书对极端化最精的一句诊断。对照 ch22 的"澄清"前史（种姓摩擦）与本章——同一个船体，从内耗切到同仇，只用了 Naomi 的被捕。
 
@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **船长的 Want/Expect 二分法是军人的清醒剂。want 三连（放人、回家、按合同）是他自己的账，expect 一句（去查清是虚张还是真炮）是他布置的活——欲望建立在私约上，判断建立在威胁上。the way my contract said 是全段的锚：他对这场战争的全部立场就是合同期限。作者让最想回家的人说出最关键的侦察令——Murtry 的豪赌（他们不敢开火）需要有人去验证，而验证者心里只装着"回家"。
 
-**读者视角提示： **对照 ch25 的"回家党"（Marwick 的 Medina 账本）——船长的每句话都在给 Murtry 的战争拆台。记住 want/expect 这个动词对：全书政治里，说"我要什么"的人诚实，说"你预计什么"的人危险。
+**读者视角提示： **对照本章 Marwick 登场时的 Medina 账本——船长的每句话都在给 Murtry 的战争拆台。记住 want/expect 这个动词对：全书政治里，说"我要什么"的人诚实，说"你预计什么"的人危险。
 
 > **原句 5:** “Alex saying how it is,” Naomi said. “All that stuff he told you? Those are just axioms now.”
 
@@ -73,7 +73,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **全书的信任学说在此定稿。does what he says he's going to do 是 Naomi 用一生舱次验证的引擎规格；要么实现要么他死 的二元式把承诺写成布尔代数——没有第三态。作者让这句话在"她是否恐惧"的微妙语气（a hint of apprehension）里说出：她不是吹嘘，是在给恋人写讣告预案。对照 ch27 Murtry 的 "Everyone loses eventually"——同一份死亡概率，Murtry 拿它合理化杀戮，Naomi 拿它给爱定价。
 
-**读者视角提示： **"说到做到，否则我死"是本书英雄主义的合同条款。对照 ch20 Lucia 的"想办法回来"——两个女人的命令式共用同一条语法：不给自己人留退路，也不给对方留谎言。
+**读者视角提示： **"说到做到，否则我死"是本书英雄主义的合同条款。对照 ch24 那句"想办法回来"——两个女人的命令式共用同一条语法：不给自己人留退路，也不给对方留谎言。
 
 > **原句 7:** “We’re not the bad guys here. RCE didn’t start any of this. You said you liked Holden because he always does what he says he’ll do? That’s us. RCE are the ones who asked permission and made a plan and came out here to do what everyone agreed we should do.”
 

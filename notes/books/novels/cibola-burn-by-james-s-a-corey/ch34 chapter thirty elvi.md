@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **时间知觉的病理报告。doomed patience（绝望的耐心）是本段最狠的组合词——耐心通常配希望，这里配 doomed；mercy of the attacker 把风暴写成施暴者，人类退回受害者位置，连"结束"的权利都不在自己手里。作者用这个比喻把自然灾害与人间暴力接通：本章躲在遗迹里的两拨人，正是一周内互为 attacker 的两拨人。半知觉的写法也让她的记忆在泥浆里失序——-trauma 的真实语法。
 
-**读者视角提示： **"施暴者的仁慈"对照 ch34 之后菲尔米林的"五天"——行星的暴力与人的暴力在本章共享同一套受害者词汇。记住这个句式，它在后面每场灾难里都会换主语。
+**读者视角提示： **"施暴者的仁慈"对照本章末 Fayez 的"五天"——行星的暴力与人的暴力在本章共享同一套受害者词汇。记住这个句式，它在后面每场灾难里都会换主语。
 
 > **原句 3:** “The usual state of nature is recovering from the last disaster,” she said. It was a truism of ecological biologists, and she said it the way a religious person might pray.
 
@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **四个"没了"的排比是本章最省笔墨的灾难报告。nothing at all 的加重（不是没找到人，是没找到任何东西）把"失踪"升级为"坐标失灵"——路的消失意味着空间的重新洗牌，人连迷路的资格都被没收。作者让 Fayez 用报菜名的节奏清点失去物，情绪全部藏在标点里。First Landing's gone 三个词独立成立：ch02 里那座"像星星落进人间"的镇子，本书就此注销。
 
-**读者视角提示： **对照 ch20 Basia 的砖房骄傲（barbarian palace）与本章——人类在 Ilus 的一切建设，寿命不足一章。记住"路也没了"：它是下一章所有地图的语言学灾难。
+**读者视角提示： **对照 ch07 Basia 的砖房骄傲（barbarian palace）与本章——人类在 Ilus 的一切建设，寿命不足一章。记住"路也没了"：它是下一章所有地图的语言学灾难。
 
 > **原句 5:** “You know those pictures you see of a natural disaster where there’s nothing but mud and rubble? Imagine that without the rubble.”
 

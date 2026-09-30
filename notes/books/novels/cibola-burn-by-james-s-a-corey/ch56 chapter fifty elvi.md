@@ -23,7 +23,7 @@ modified: "2026-09-30"
 
 **为什么这样写：** 地质学冷笑话的教科书。hemlines（裙边）把行星的地貌从"山"（tectonics 的产物）翻译成"服装"（人类产物）——而全书对"造门者"的定性正是"它给我们造了一件裙子"（ch54 的 gas station）。这个比喻的射程极远：说这句的 Fayez 是地球地质出身，他本能地认出这颗行星"穿的是裙子"（表层被工程化），而非"长的是山"（原生地质）。作者让一个玩笑承担世界观：这片地貌的每一条平滑褶皱都是工程而非地质。
 
-**读者视角提示：** 记住"裙边"：它是本书对 Ilus 地貌最经济的定性。记住"先得有板块"：当 ch26 的"凶器是一颗子弹"（有人精准打中心脏）时，这句玩笑的底色浮现——不是自然，是设计。
+**读者视角提示：** 记住"裙边"：它是本书对 Ilus 地貌最经济的定性。记住"先得有板块"：当 ch50 的"凶器是一颗子弹"（有人精准打中心脏）时，这句玩笑的底色浮现——不是自然，是设计。
 
 > **原句 2:** All of nature was a record of crisis and destruction and adaptation and flourishing and being knocked back down again. What had happened on New Terra was singular and concrete, but the pattern it was part of seemed to apply everywhere and maybe always.
 
@@ -31,7 +31,7 @@ modified: "2026-09-30"
 
 **关键词：** a record of crisis and destruction, adaptation and flourishing, apply everywhere and maybe always
 
-**为什么这样写：** 本章的哲学支点，也是 Elvi 科学家身份的最高光。record（记录）的隐喻把自然写成一份档案：灾难不是例外而是常态。五个词的循环（crisis-destruction-adaptation-flourishing-knocked down）不讲希望，只讲节律。singular and concrete（独一份的、具体的）与 every where and maybe always（处处适用、也许一直适用）的对句，把个人灾难接入宇宙史——这是 ch26 母体"它一直在等回音"的回响，只是用 Elvi 的语法说出（区别于 Miller 的侦探语法）。
+**为什么这样写：** 本章的哲学支点，也是 Elvi 科学家身份的最高光。record（记录）的隐喻把自然写成一份档案：灾难不是例外而是常态。五个词的循环（crisis-destruction-adaptation-flourishing-knocked down）不讲希望，只讲节律。singular and concrete（独一份的、具体的）与 every where and maybe always（处处适用、也许一直适用）的对句，把个人灾难接入宇宙史——这是 ch50 母体"它一直在等回音"的回响，只是用 Elvi 的语法说出（区别于 Miller 的侦探语法）。
 
 **读者视角提示：** 记住"记录"与"处处适用"：这是本书对"灾变"的哲学定性，与 ch50 的"造门者也曾崩溃"互为镜像。记住循环五词：它会在 ch63（终章前夜）再次出现，作为人类位置的最后定语。
 
@@ -41,9 +41,9 @@ modified: "2026-09-30"
 
 **关键词：** could only see its behaviors as play, Splashing in puddles, keep from stopping and looking
 
-**为什么这样写：** 观察的暴力。"behaviors as play"（把行为看成玩耍）——她给一颗星星般起落的银蓝结构（升起、坍塌、再升起）安上了一个最幼稚的解释，因为它活像小孩跳进水洼。而后半句是本章的残酷对照：她"拼尽所能才不让自己停下来"看——这正是科学家的饥渴，Ch57 她将为此付出盲目的代价。作者用"只有她能把它看成玩耍"点出观察者的天真：看的人可以暂时无视死亡的锋利（ch21 割喉者、ch55 枪口下的自己）。
+**为什么这样写：** 观察的暴力。"behaviors as play"（把行为看成玩耍）——她给一颗星星般起落的银蓝结构（升起、坍塌、再升起）安上了一个最幼稚的解释，因为它活像小孩跳进水洼。而后半句是本章的残酷对照：她"拼尽所能才不让自己停下来"看——这正是科学家的饥渴，Ch57 她将为此付出盲目的代价。作者用"只有她能把它看成玩耍"点出观察者的天真：看的人可以暂时无视死亡的锋利（ch28 割喉者、本章枪口下的自己）。
 
-**读者视角提示：** 记住"只能看作玩耍"：它是全书的探照灯悖论（观察即参与）。记住"把水洼当游戏"：它与下一章 Fayez 真正"玩"命挥拳（ch55）互为镜像。
+**读者视角提示：** 记住"只能看作玩耍"：它是全书的探照灯悖论（观察即参与）。记住"把水洼当游戏"：它与本章后段 Fayez 真正"玩"命挥拳互为镜像。
 
 > **原句 4:** “Case they decide to shoot someone,” Amos said, restarting the generator.
 
@@ -63,7 +63,7 @@ modified: "2026-09-30"
 
 **为什么这样写：** 恐怖从温度开始。clean（干净）反衬外界的白色（雪/灰烬），melting away（融化）提供不安的运动。warm（暖）是地球家园的身体记忆，它与 unnerving（不安）构成本章的核心悖论：宜居即危险。snow 是灰的（第一场预报），暖的（房子），雪在融化（不真实），而"暖"正是作者用来给陷阱涂糖衣的词。作者让 Elvi 的身体先于大脑报警（感到 unnerving 却说不出为什么）——这正是 ch57 她的科学解释的对照面。
 
-**读者视角提示：** 记住"暖而不安"：它与 ch53 Naomi 讲的"元素轰击我们"（ warmth as attack）是同一部族。记住"雪是灰的"：它与 ch40"融化的山"（熔月）是同一事件的回声。
+**读者视角提示：** 记住"暖而不安"：它与 ch52 Elvi 讲的"元素轰击我们"（ warmth as attack）是同一部族。记住"雪是灰的"：它与 ch40"融化的山"（熔月）是同一事件的回声。
 
 > **原句 6:** “Then he’s trespassing and he’ll need to leave.” Wei’s stance softened for a moment, and when she spoke there was something like sorrow in her voice. Not the thing itself, but like it. “When it’s time to go, there’s worse ways than dying at your post.”
 
@@ -73,7 +73,7 @@ modified: "2026-09-30"
 
 **为什么这样写：** 死亡的语法课。sorrow（悲伤）被严格限定：不是为 Holden，是"像那件事一样的东西"（像失去职业尊严）。worse ways than dying at your post（比死在岗位上更糟的死法）是对死者的重定义——把"殉职"从荣耀降级为最差选项。Wei 在本章是全书最悲凉的声音之一：她不是背叛者，她是在给每个走掉的人发讣告预告。ch20 她说"守岗位"，本章她证明守岗位的人是谁。
 
-**读者视角提示：** 记住"比死在岗位上更糟"：它会在 ch63（hounding）成为 Havelock 知道自己也逃不掉时的低语。记住"像它"的悲伤：Wei 的忠诚是残的，残得比 Murtry 的忠诚更纯。
+**读者视角提示：** 记住"比死在岗位上更糟"：它会在 ch63 成为 Havelock 知道自己也逃不掉时的低语。记住"像它"的悲伤：Wei 的忠诚是残的，残得比 Murtry 的忠诚更纯。
 
 > **原句 7:** What I’m not doing, and I hope you understand this, is running around in a circle with my dick in my hand whining about how nothing matters because we’re all going to die. We all knew when we got on the Edward Israel that we might not make it back. That was a risk you were willing to take because it meant you could do your job. I’m no different.
 
@@ -91,7 +91,7 @@ modified: "2026-09-30"
 
 **关键词：** a pistol fired twice, didn’t look back, everything she was, the wide, dark veins of the structure
 
-**为什么这样写：** 观察者被迫行走的最后一格。She didn't look back（没回头）是科学家、旁观者、记录者的人设被一枪击穿——她把"不回头"（她看见了 Fayez 被打、Fayez 在喊"跑"）留给了恐惧，把"向前"留给了求生的唯一指令。The wide, dark veins of the structure（这结构宽大而暗的血管）把建筑改写成生理（她正穿过一个巨大生物的心脏）——与 ch08 的"跨段拼接"（她最初的"我在这类东西的血管里走"）和 ch54 的"器官核心"（Holden 的那类陈述）遥相呼应。Everything in her, everything she was（她的一切、她所是的一切）连用两遍"她所是"，把逃跑写成了身份的解剖：她不是逃，她是在以自己的全部存在"跑"。
+**为什么这样写：** 观察者被迫行走的最后一格。She didn't look back（没回头）是科学家、旁观者、记录者的人设被一枪击穿——她把"不回头"（她看见了 Fayez 被打、Fayez 在喊"跑"）留给了恐惧，把"向前"留给了求生的唯一指令。The wide, dark veins of the structure（这结构宽大而暗的血管）把建筑改写成生理（她正穿过一个巨大生物的心脏）——与 ch26 的"跨段拼接"（她最初的"我在这类东西的血管里走"）和 ch54 的"器官核心"（Holden 的那类陈述）遥相呼应。Everything in her, everything she was（她的一切、她所是的一切）连用两遍"她所是"，把逃跑写成了身份的解剖：她不是逃，她是在以自己的全部存在"跑"。
 
 **读者视角提示：** 记住"没回头"：它是 Elvi 、科学、观察的终结式，也是她完全成为"行动者"的开始。记住"宽大而暗的血管"：这颗行星一直是活的（连废墟也是），她到最后一刻才明白。
 
