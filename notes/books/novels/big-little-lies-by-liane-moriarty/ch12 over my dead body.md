@@ -133,11 +133,6 @@ modified: "2026-09-30"
 | children | （来自 broken homes 的）孩子们 | I feel so sorry for children from broken homes, don’t you? |
 | fighting | 打斗、争吵 | I’m sure Madeline and Bonnie were fighting about Abigail at the trivia night. |
 
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-
 ## 一句话总结
 
 一张晚餐桌把新年的站队格局摆齐：Chloe 用一句 playdate 给 Ziggy 开城门，Ed 用掐脖手势复述流言，Abigail 用吃素改换门庭——而访谈室里 Harper 的「亲耳听见要杀人」与 Bonnie 的「我们是个团队」，让 trivia night 的每一根引线都挂上了人名。
