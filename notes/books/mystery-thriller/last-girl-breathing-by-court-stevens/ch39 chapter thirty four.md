@@ -93,7 +93,6 @@ modified: "2026-10-01"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | divot | （下巴上的）小凹 | His lips were pink and narrow, the upper lip almost disappearing into his mouth, but he had a wide divot below his nose. |
-| jaw drops | （她）惊得下巴都要掉了 | My jaw drops. “He did not.” |
 
 
 ## 一句话总结
