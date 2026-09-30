@@ -105,6 +105,48 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| dishwasher | 洗碗机 | Celeste was the last one there and was efficiently scraping plates and putting them into Madeline’s dishwasher. |
+| unobtrusive | 不声不响的 | Celeste had a talent for the silent, unobtrusive tidy-up. |
+| ravenously | 如饥似渴地（挖八卦） | Her appetite for gossip was healthy; she wasn’t one of those mothers always ravenously searching it out. |
+| confession | （迫不及待的）忏悔 | She felt guilty about it and she wanted the release of confession. |
+| coincidence | 巧合 | She was trying not to sound breathlessly thrilled by this horrible coincidence. |
+| embittered | 怨气渐深 | But there was an irresistible breathless pleasure in it and, like the awful petition, it was a welcome distraction from her increasingly embittered, almost crazed feelings about Abigail. |
+| unfaithful | 出轨 | I can’t even imagine him being unfaithful. |
+| responsible | 难辞其咎 | There was an expression of shame on her face, as though she were feeling somehow responsible. |
+| development | （地产）开发 | What were the chances of there being two men of around the same age named Saxon Banks in property development? |
+| interstate | 州际、外州 | “We don’t see him so much now we’ve all got children, and he lives interstate,” said Celeste. |
+| relationship | （亲戚）关系 | It wasn’t like she wanted Ziggy to have some sort of relationship with this man. |
+| reiterated | 重申、再说一遍 | It was obviously important to Celeste that this point was reiterated. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| scraping | 刮（盘子） | Celeste was the last one there and was efficiently scraping plates and putting them into Madeline’s dishwasher. |
+| pristine | 一尘不染 | Any time Madeline had Celeste over, her kitchen would be left pristine, bench tops gleaming. |
+| awkwardly | 局促地 | She went to sit down, but then she awkwardly half stood and said, “Where’s Ed? |
+| appetite | （八卦）胃口 | Her appetite for gossip was healthy; she wasn’t one of those mothers always ravenously searching it out. |
+| confessed | 坦白 | “I Googled him,” confessed Madeline. |
+| thrilled | （猎奇地）兴奋 | She was trying not to sound breathlessly thrilled by this horrible coincidence. |
+| horrible | 可怕的 | She was trying not to sound breathlessly thrilled by this horrible coincidence. |
+| fraternal | 异卵（双胞胎） | “But then I found out that’s only for fraternal twins, not identical twins, so my boys were just a random . |
+| identical | 同卵（双胞胎） | “But then I found out that’s only for fraternal twins, not identical twins, so my boys were just a random . |
+| childish | 孩子气的（眼神） | She gave Madeline a strangely furtive, almost childish look. |
+| defensive | （替谁）护短 | Let him be defensive. |
+| solemnly | 郑重地 | “Yes, so maybe you do have to keep it a secret from him, Celeste,” said Madeline solemnly, knowing as she spoke that if it were Ed she’d be yelling at him the moment he walked in the front door. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| property developer | 地产开发商 | “A property developer. |
+| assault | 袭击 | Or an assault. |
+| formality | （例行）确认 | It was a formality; Jane had told her that she’d told Celeste as well. |
+
 ## 一句话总结
 
 一块玛芬呛出全书的心脏搭桥手术——Perry 的表哥、同卵双胞胎的母亲、地产商的名片，把 Saxon Banks 从 Jane 的过去接进了 Celeste 的现在；「我喜欢过他」的羞耻与「我很擅长保密」的寒意同桌对坐，两个女人就此签下以「不确定」为墨的秘密协定。
