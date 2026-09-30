@@ -67,7 +67,7 @@ modified: "2026-09-30"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| pretensions | （此处指学校自命不凡，摆出一种并不属于它的格调） | But Pog Hill had pretensions. |
+| torch songs | 老情歌（上世纪三四十年代流行的那种抒情歌） | The songs were mostly old torch songs, easy to learn and to perform. |
 | invincible | 不可战胜的、无坚不摧的（此处形容十八岁那晚的感觉） | All I knew was that I felt invincible, ready to face the future with head held high, and a smile on my face. |
 | colour-blind | 色盲的；此处比喻身处多彩世界却完全感受不到 | I feel as if I’m colour-blind in a world of rainbows. |
 | personified | 拟人化；此处指某个抽象概念的化身 | I was Promise, personified; sparkling in silver lamé. |
@@ -79,7 +79,7 @@ modified: "2026-09-30"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | frumpy | （衣着）老气、臃肿不中看的 | Bernie Moon looked frumpy in a black dress that looked like it belonged to her mum. |
-| knockout | 极美的、惊艳的（此处作形容词） | I looked a knockout. |
+| shebang | （口语）全部、一整套（此处指裙子、嗓子这些全用上） | And so I pulled out all the stops: the dress, the voice, the whole shebang. |
 | gilded | 镀金的；此处形容被金色的回忆照亮 | Thus the Pog Hill Summer Prom took on a gilded quality, something like the Oxbridge May Balls of the Head’s student days. |
 | resentful | 心怀不满的、隐隐怀恨的 | And maybe I felt resentful of her. |
 | aimlessly | 漫无目的地 | And while I bounced aimlessly from one boyfriend to another, never really feeling anything, she was in love. |

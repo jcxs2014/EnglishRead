@@ -68,7 +68,6 @@ modified: "2026-09-30"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | merciless | 毫不留情面的、绝不留情 | Iris, as always, is merciless. |
-| furtive | 鬼鬼祟祟的、藏着事的（此处见副词 obscurely furtive） | It felt obscurely furtive. |
 | distasteful | 令人反感的、难以忍受的 | There’s something distasteful about these fabricated holidays. |
 | fabricated | 捏造的、人为制造的（此处指被发明出来的节日） | There’s something distasteful about these fabricated holidays. |
 | temptation | 难以抗拒的冲动、诱惑 | The temptation to just take a look is almost overwhelming. |
@@ -76,6 +75,7 @@ modified: "2026-09-30"
 | demonstrative | 不动声色的；此处反用为「少有的外露感情」 | Martin is rarely demonstrative. |
 | reassurance | 安慰、让人安心 | We haven’t really been OK for years, not in the way he means, but I know he needs reassurance. |
 | hives | （医名）荨麻疹 | That vision of me at the Pog Hill Prom – so young, so raw, so insecure – returns like a vicious outbreak of hives. |
+| investigation | 调查（此处指需要调查的那点可疑） | Does he still suspect me of something that requires investigation? |
 
 ### ⭐⭐ 进阶
 
@@ -101,7 +101,7 @@ modified: "2026-09-30"
 | monster | 怪物 | Or am I secretly afraid that if he sees who I really am, he will know that I am a monster? |
 | cliff | 悬崖 | Or the man in the castle on the cliff, with its rooms all filled with secrets? |
 | park | 公园 | I can glance across the park, and summon a dozen strangers. |
-| joke | 玩笑 | That was a joke. |
+| candles | 蜡烛（此处指马丁破天荒摆上桌的那一对） | And there was a bottle of wine, too, and candles on the table. |
 | middle | 中间；此处指把房子一分为二 | When we first moved here, we silently split the house down the middle. |
 | dozen | 一打（十二个） | I can glance across the park, and summon a dozen strangers. |
 

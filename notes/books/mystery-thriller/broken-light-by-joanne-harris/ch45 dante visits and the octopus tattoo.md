@@ -7,8 +7,8 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：复活节后第一个周二，儿子 Dante 带着花上门，看过母亲之后带着一脸做贼心虚。她趁他去客厅的间隙「看」进儿子的家，看见一个男朋友、一个房间、一条章鱼纹身——能力涨得太快，她当场用一个甜甜圈把 Woody 放倒，才终于有时间和儿子把话说开。
-- **情感弧线位置**：母子线回暖，也是全书第一次她与儿子真正说上话。失败的一半原因是：她连儿子的性取向都是刚刚才从墙上知道的。
+- **一句话概括**：复活节那周的周二，儿子 Dante 带着花上门，看过母亲之后带着一脸做贼心虚。她趁他去客厅的间隙「看」进儿子的家，看见一个男朋友、一个房间、一条章鱼纹身——能力涨得太快，她当场用一个甜甜圈把 Woody 放倒，才终于有时间和儿子把话说开。
+- **情感弧线位置**：母子线回暖，也是全书第一次她与儿子真正说上话。失败的一半原因是：她连儿子的性取向，都是刚刚才在儿子家里看到的。
 - **线索伏笔**：① 母亲的压力通过儿子传导（「我总不能永远在了」这句话不是她说的，是母亲对儿子说的）；② 她闻到了母亲留在儿子身上的气味，第一次意识到自己正在变成母亲；③ 儿子的秘密清单（性取向、男友、纹身、大麻、学校里那些难捱的年月）说明她对自己的家一无所知；④ 潮热与能力同时爆发，身体与超自然一起失控；⑤ 一个甜甜圈解决了 Woody——她已经能「让人闭嘴」了。
 - **人物弧线**：本章她从偷看者变回母亲的尝试；而当她终于抱住儿子时，儿子感受到的是母亲的失望像瘴气一样布满全屋。她修补的顺序是对的（先抱住人），但她拿到的是一份清单，不是一次谈话。
 - **叙事手法**：2022 线。日志体（日期行 Tuesday, April 19th）。能力段落第一次写成「画面倾泻」——cascade of images，成串地涌进来且带推力；与前面那些短促的偷看相比，这是规模升级的信号。
@@ -123,7 +123,7 @@ modified: "2026-09-30"
 | playing House | 玩过家家（英式说法，此处指假装这是自己家、可以随便闯进儿子家） | Call it playing House, if you like, but it’s trespass. |
 | trespass | 非法侵入、闯界（此处指偷看别人的内心与房间） | Call it playing House, if you like, but it’s trespass. |
 | gooseberry | 当电灯泡、夹在中间碍事的人 | But I needed to talk to my son, and Woody was playing gooseberry. |
-| slaked | 解渴、喂饱（固定说法 slake an appetite） | It feels like an enormous appetite that has never been fully slaked. |
+| slaked | 解渴、喂饱（书中用例：has never been fully slaked） | It feels like an enormous appetite that has never been fully slaked. |
 | cascade | 倾泻而下的瀑布（此处指看一眼涌进来的成串画面） | How happy I am that he has found love – Among the cascade of images that come from Dante’s house comes the realization of how much my talent has grown since I last explored it. |
 | bleeding inside | 内里在流血（此处是看完儿子家之后她给自己的诊断） | I’m bleeding inside from what I’ve seen. |
 | ghastly | 难堪的、难看的（此处形容她挤出的一声笑） | It’s – just –’ I gave a ghastly little laugh. |
