@@ -19,15 +19,15 @@ modified: "2026-09-30"
 
 **中文理解**：记者问他是不是游泳比走路还早，他低头对着麦克风认真作答：确实如此——他还在襁褓里时，一位算命先生就告诉过他母亲，他会七岁溺亡，于是母亲很早就让他学起了游泳。
 **关键词**：It is true, a fortune teller told my mother, I’d drown when I was seven, got me into swimming pretty early
-**为什么这样写**：全书最出名的那个预言在这里以传闻形态重新出现，说出它的人是被预言者本人，而来源被处理成一句转述；这段里唯一的补救动作是「很早学游泳」。
+**为什么这样写**：那条关于七岁溺亡的预言在这里以传闻形态重新出现，说出它的人是被预言者本人，而来源被处理成一句转述；这段里唯一的补救动作是「很早学游泳」。
 **读者视角提示**：注意他没有交代自己信不信，只交代母亲因此做了什么——把要不要当真的决定权，交给了一个婴儿的母亲。
 
 > **原句 2:** "‘No, but when I was seven, I went on a school excursion and got knocked off a rock platform into the sea by a freak wave, fully dressed. I should have drowned. Most kids my age would have drowned. But I was a super strong swimmer, so here I am.’"
 
 **中文理解**：记者说他显然推翻了预言；他不这么认为：那年他正好七岁，学校郊游时一个反常的浪把他从岩石平台上打进了海里，他穿着全套衣服，本该淹死，同龄的孩子多半都活不下来，只因为他是个特别强的游泳者，所以他还在这儿。
 **关键词**：No, but when I was seven, a school excursion, knocked off a rock platform, a freak wave, fully dressed, a super strong swimmer, so here I am
-**为什么这样写**：把「预言落空」换成「死因照旧」——年龄与死法都没变，变的只是地点；末句 so here I am 把一场惊险经历收成一句轻描淡写。
-**读者视角提示**：注意他用 No 开头：记者要的是「你证明她是错的」，他递回去的却是「她也几乎说中了」。
+**为什么这样写**：把「预言落空」换成「差点照旧」——年龄与死法都对得上，只是人活了下来；末句 so here I am 把一场惊险经历收成一句轻描淡写。
+**读者视角提示**：注意他用 No 开头：记者要的是「你证明她说错了」，他递回去的却是「她几乎说中了」。
 
 > **原句 3:** "‘You’re welcome,’ says Cherry Lockwood from her armchair in front of the television. ‘Now bring home the gold, Timmy.’"
 

@@ -98,7 +98,7 @@ modified: "2026-09-30"
 | flatmate | 合租室友 | ‘She’s my flatmate,’ says Ethan. ‘So . . . you know, I’m feeding her fish.’ |
 | fist | 拳头 | He uses his fist to make a crude gesture. |
 | harbour | 港湾 | the city lights reflect off the shimmering harbour and Ethan isn’t dead, he’s alive, he’s so amazingly, gratefully alive, and he doesn’t remember it happening but Faith seems to be holding his hand. |
-| girlfriend | 女朋友 | ‘You fucking him?’ He points at Ethan. ‘He fucked my girlfriend, you know. Right under my nose.’ |
+| angry | 生气的 | He seems amicable. Not angry. Perhaps it will be fine. |
 | crowd | 人群 | weaving in and out of the crowd, but then Ethan knows somehow he should turn |
 | drunk | 喝醉的 | With the studied carefulness of a drunk he places both drinks down on Ethan’s table and proffers his fist for one of his ridiculous fist-bumps. |
 

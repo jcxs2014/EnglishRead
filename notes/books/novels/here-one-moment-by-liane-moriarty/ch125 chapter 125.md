@@ -27,11 +27,11 @@ modified: "2026-09-30"
 **中文理解**：她把不手术的路走了一遍：针灸、物理治疗、锻炼；到二十九岁生日那天，她已经不再疼，也回到了岗位。
 **关键词**：threw herself into non-surgical treatments, acupuncture, physical therapy, exercise, pain-free and back at work
 **为什么这样写**：三个治疗手段排成一列，末尾用 pain-free 与 back at work 两个短成分收口；年龄被放在句末而不是句首，时间的重量因此落在结果那一侧。
-**读者视角提示**：注意这一段写的是绕路而不是痊愈——下一段立刻让她把原本互不相干的几方约到同一张餐桌上。
+**读者视角提示**：注意这一段写的是绕路而不是痊愈——三个手段被逐条列出来，读起来像一份清单，而清单式写法正是她证明自己没错的方式。
 
-> **原句 3:** "At this point she rewrote history and said at no time was she concerned, not at all, she always knew the lady had no special abilities, in the same way she correctly surmised she worked in the insurance industry. Then she said, ‘In fact if I had to guess which of my children might be susceptible to depression I would have thought it would be your brother, not you.’"
+> **原句 3:** "her mother, at least, didn’t truly stop worrying until Allegra had outlived the predicted age of her death. At this point she rewrote history and said at no time was she concerned, not at all, she always knew the lady had no special abilities, in the same way she correctly surmised she worked in the insurance industry. Then she said, ‘In fact if I had to guess which of my children might be susceptible to depression I would have thought it would be your brother, not you.’"
 
-**中文理解**：父母在看到那位老妇的公开声明后不再为「自杀」那句预言担心，母亲收到转寄来的手写道歉信后更安心了一些；但母亲自己也承认，直到女儿活过被判定的那个年龄才真正放下心来，随后便改口说自己从来没担心过，还顺手断定那位老妇其实在保险业做事——接着又添了一句：真要猜两个孩子里谁更容易陷入抑郁，她会猜哥哥而不是她。
+**中文理解**：母亲这边的情况是：直到女儿活过被判定的那个年龄，她其实都没有真正放下心来；此后便改口说自己从来没担心过，还顺手断定那位老妇其实在保险业做事——接着又添一句，真要猜两个孩子里谁更容易陷入抑郁，她会猜哥哥而不是她。
 **关键词**：rewrote history, at no time was she concerned, correctly surmised, insurance industry, susceptible to depression
 **为什么这样写**：前半段用一个时间条件（活过被判定的年龄）拆穿母亲的安心，后半段让母亲把这份安心追认成一贯正确的判断；同一个人于是既精明又脆弱。
 **读者视角提示**：注意母亲紧接着的那句话把「担心女儿」换成了「打量儿子」——话题的移位比那句结论更值得看。
@@ -55,7 +55,7 @@ modified: "2026-09-30"
 **中文理解**：她想起那位老妇寄来的道歉卡：抱歉两条路径以那种方式交会，她对卡上说过的话没有理由。
 **关键词**：apology card, our paths crossed, There was no reason for what I said to you
 **为什么这样写**：卡片上的话被原样转述，而紧接的下一段立刻用「可是如果交会是有理由的呢」把它顶回去；一推一拉之间，本章真正要问的问题露了出来。
-**读者视角提示**：注意这张卡是被「想起来」的而不是刚收到——那位老妇当众道过歉之后，这份歉意还有一个私人版本，而她仍在琢磨它。
+**读者视角提示**：注意这张卡是被「想起来」的而不是刚收到——它不是当场发生的事，是隔了一段日子才被翻出来、并且还在被翻看的东西。
 
 > **原句 7:** "She doesn’t lean forward, towards her brother, she leans back. Not too serious, but no jokes."
 

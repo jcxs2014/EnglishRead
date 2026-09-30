@@ -8,7 +8,7 @@ modified: "2026-09-30"
 ## 本章导航
 
 - **一句话概括**：公开否认自己拥有特殊能力的声明发出来之后，这一章跟着一名医疗中心的接待员过完一个工作日——她替患者改地址、替自己家还债焦虑、替伴侣把睡眠问题想到一个解法，末了她给自己下了一句宣言。
-- **叙事视角**：第三人称有限视角，贴着 Eve；本章是全书少数不再由「老妇自述」主导的一章。
+- **叙事视角**：第三人称有限视角，贴着 Eve；全书的镜头在这一章转到了机上其他人身上。
 - **场景与时间**：航班事件之后若干周，工作日的白天，医疗中心前台。
 - **人物弧线**：从被债务与伴侣的睡眠障碍双重压着，到把解法想出来、收到朋友的消息，最后把未来收回自己手里。
 - **叙事手法**：以琐事推进 ＋ 插入他人转发的消息 ＋ 结尾一句自我宣告。
@@ -17,17 +17,17 @@ modified: "2026-09-30"
 
 > **原句 1:** "There was no need for bribery in the end. One hundred bucks saved. Just as she and Paula identified her, the Death Lady released a public apology, explaining she’d had a mental health crisis on the plane. She was not a psychic, she was an actuary and had no special abilities."
 
-**中文理解**：这一章开场即交代航线上的悬案如何收场：原本计划用来收买线索的一百块钱没花出去，因为当事人抢先一步发了公开声明，承认自己在航班上精神崩溃，并说明自己是精算师、没有任何特殊能力。
+**中文理解**：这一章开场即交代机上那场风波如何收场：原以为要花钱打点才能拿到的线索，最后一分钱没花，因为当事人抢先一步发了公开声明，承认自己在航班上精神崩溃，并说明自己是精算师、没有任何特殊能力。
 **关键词**：no need for bribery, public apology, mental health crisis, an actuary, no special abilities
 **为什么这样写**：用「省钱」这件小事起笔，再落到公开声明上——线索赛跑的反面不是悬案被解开，而是当事人自己把话说完；no need for bribery 把一种紧张感转成了喜剧感。
-**读者视角提示**：注意这段是从 Eve 的视角转述的声明内容，她读到的版本与后面老妇自己写下的自白互为印证，但读者要分清这是转述，不是原话。
+**读者视角提示**：注意这段是 Eve 读到的转述版本，不是当事人的原话；当事人自己的措辞写在前面那篇自白里，两处互为印证，但用词并不相同。
 
 > **原句 2:** "The woman who trained her said it was important to always be kind and polite to patients, because some of them were nervous, and some were feeling sick, or in pain, and yes, some were just awful people, but you couldn’t tell by looking at them. ‘So be nice to everyone, please, Eve.’"
 
 **中文理解**：带她的前辈留下一条工作准则：永远对患者客气，因为来的人有的紧张、有的难受、有的其实就是难相处的人，而你从脸上分不出来。
 **关键词**：kind and polite, nervous, in pain, awful people, couldn’t tell by looking at them
-**为什么这样写**：把「你对谁都要客气」的理由逐条列开，末句 you couldn't tell by looking at them 把判断权收回到不可知；这一段也顺手为后面那位难缠患者埋了底。
-**读者视角提示**：注意这句叮嘱是前辈直接对她说的，点名到 Eve——同一份善意在下一段就被她用来对付自己的患者了。
+**为什么这样写**：把「你对谁都要客气」的理由逐条列开，末句 you couldn't tell by looking at them 把判断权收回到不可知；这一段也顺手为后面那一连串患者定下了基调。
+**读者视角提示**：注意这句叮嘱是前辈直接对她说的，点名到 Eve——同一份善意落到她自己身上，接下来她就用它去接待自己的患者。
 
 > **原句 3:** "Eve looks up at him. He is a businessman. He is literally wearing a tie. She looks at his date of birth on his file as she changes his address. Ten years older than her. If he’s having financial problems, why does Eve feel such shame and self-loathing about their spiralling debt? Some people don’t have family, but Eve and Dom do. They are lucky. Yes, they messed up, yes, it’s embarrassing, but it’s not actually the end of the world, is it?"
 
@@ -41,7 +41,7 @@ modified: "2026-09-30"
 **中文理解**：她笑着说完「都办好了」，对方却多看了她一会儿；她顺势把戴婚戒的左手亮出来，那人便懂了，转身走了。
 **关键词**：looks at her for a moment too long, angles her left hand, her wedding ring, he gets the message
 **为什么这样写**：用动作代替台词——抬手、亮戒指、对方读懂，三个动作完成一次拒绝；破折号里那句心态是全段唯一的内心独白，把动作里的尴尬补上。
-**读者视角提示**：注意这段的患者就是上一段那位商务人士，两个动作串起来读，才能看出她对「省钱」与「示好」两种诉求的分别应付。
+**读者视角提示**：注意这段的患者就是上一段那位商务人士；两段串起来读，才能看出她在办事与划界之间的分寸。
 
 > **原句 5:** "But this message from Paula is about something else: I just remembered the person next to me on the flight was an expert in sleep disorders. Tracked him down (easy after Cherry). He is lovely. Said you or Dom can call him any time, he can definitely help. Warning: strong Scottish accent."
 
@@ -59,10 +59,10 @@ modified: "2026-09-30"
 
 > **原句 7:** "She is Eve Archer-Fern and the future is in her hands."
 
-**中文理解**：上一段她刚说自己像超人、像芭比、像一串榜样，这一段把话收成一句：本名在此，未来在我手里。
+**中文理解**：她把话收成一句：本名在此，未来在自己手里。
 **关键词**：Eve Archer-Fern, the future is in her hands
-**为什么这样写**：本章的最后一个比喻清单在这里被清空，只留下人名与未来；连用两次的「在我手里」把前面所有被动等待的消息（声明、道歉、朋友转来的专家）一次性换成主动。
-**读者视角提示**：注意她的名字在这一句里连着姓氏一起出现——本姓与夫姓合体的写法，本身就是这一章里「两个人的事」的一个标记。
+**为什么这样写**：句子短得像一句口号，却把整章的被动等待（声明、道歉、朋友转来的专家）一次性换成主动；前面还在借用一串现成形象打比方，这里比喻被清空，只剩下人名与未来。
+**读者视角提示**：注意她在这里用的是全名而不是小名——姓与名一起出现，是这一章里她唯一一次这样称呼自己。
 
 ## 本章词汇
 
