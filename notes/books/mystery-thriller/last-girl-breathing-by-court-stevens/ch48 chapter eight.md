@@ -28,7 +28,7 @@ modified: "2026-10-01"
 - **中文理解**：「Martin 是对的。关于这一切。」
 - **关键词**：Martin was right · About all of it
 - **为什么这样写**：全书最短的一次追认，而 About all of it（关于这一切）把两年来的怀疑、对 Neil 的辩护、以及那晚没听完的告白，一次性全部兑现。这句的分量在于：它由一个把 U 盘插进自己台式机的人说出，用的是最平的陈述语气。
-- **读者视角提示）：请把它与第一部末句「他死了，因为我没信他」并读——那是同一件事的两半：一半是她的判决，一半是证据的翻案。
+- **读者视角提示**：请把它与第一部末句「他死了，因为我没信他」并读——那是同一件事的两半：一半是她的判决，一半是证据的翻案。
 
 > **原句 3:** Robert sat at our little farm table that first Thanksgiving, held my mother’s hand, and raised a glass of sparkling grape juice to the life Clay would never live, while knowing exactly who took it from him.
 
@@ -104,7 +104,6 @@ modified: "2026-10-01"
 | bolt | （门的）插销 | I step to the door and quietly turn the bolt. |
 | perch | （坐在……边缘） | I perch at the edge of PoppaJack’s bed and force myself to hold one thought at a time. |
 | compost | 堆肥（此处：卖堆肥为业） | He lives on a farm and sells compost for a living. |
-| lockjaw? no | | |
 | loop | （往返的）动线 | Salome’s heavy body traverses the carpet, back and forth to the kitchen, in a loop. |
 
 Total: 高级 6 · 进阶 7 · 基础 4 = 17
