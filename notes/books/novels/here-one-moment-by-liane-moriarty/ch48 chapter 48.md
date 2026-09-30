@@ -27,7 +27,7 @@ modified: "2026-09-30"
 **中文理解**：作者直接给出那种想法的名字：说未来事件的概率会随过去事件改变，这叫 Monte Carlo fallacy，也就是赌徒谬误。
 **关键词**：the probability of future events changes based on past events, the Monte Carlo fallacy, the gambler’s fallacy
 **为什么这样写**：一个定义句插在家庭对话中间，像从书里抄来的旁白；作者故意让文体在自家客厅里断一次。
-**读者视角提示**：这个专有名词出自摩纳哥的一间赌场，本章下一节就交代那次二十六连黑；ch50 里它又变回一块饼干的牌子。
+**读者视角提示**：这个专有名词出自摩纳哥的一间赌场，紧接着的一段就交代那次二十六连黑；ch50 里它又变回一块饼干的牌子。
 
 > **原句 3:** "My dad was struck by lightning while he, Angelo and Ralph were rock fishing. They’d had a marvellous afternoon. The fish were biting. They’d all agreed on just five minutes more."
 
@@ -55,7 +55,7 @@ modified: "2026-09-30"
 **中文理解**：父亲葬礼第二天，她朝那个保险推销员喊：我爸爸死了，现在你得付我们钱。
 **关键词**：The day after my dad’s funeral, I saw Jiminy Cricket trot down the pathway, I was thrilled, so now you have to pay us money!
 **为什么这样写**：What good timing 独立成句，把悲伤与兴奋放进同一口气；Ivy 说她笑得诡异、推销员吓坏了，说明孩子眼里这件事有多正当。
-**读者视角提示**：这位每月上门收保费的推销员在 ch46 出现过，这里是同一个人的第二次出场。
+**读者视角提示**：这位每月上门收保费的推销员在 ch46 出现过，这里他又一次走进她的视线。
 
 > **原句 7:** "We won, because it was unlikely a big strong clever man like my dad would die at thirty-two."
 
