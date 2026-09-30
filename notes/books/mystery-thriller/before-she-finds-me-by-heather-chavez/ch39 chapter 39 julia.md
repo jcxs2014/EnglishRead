@@ -69,7 +69,7 @@ modified: "2026-09-30"
 
 **关键词**：Julia ran her finger over the embossed lettering / he hadn’t mentioned it was at Baird Enterprises / What would happen now that he was no longer Brie’s husband?
 
-**为什么这样写**：名片是全章唯一一件能被拿走的实物，作者让 Julia 先用指腹去摸那行凸字、再开口，读与摸被合成一个动作，人物的专业性就藏在这个触觉里。接下来三个短句按顺序落地：他知道这份工作、他没提公司名、那他现在的身份是什么。`What would happen now that…` 用一个开放问句收尾，作者不给她答案，把问题原样交给读者。名片上那行公司名是本章推出来的最大一块新拼图，它不在书房里，在口袋里。
+**为什么这样写**：名片是全章唯一一件能被拿走的实物，作者让 Julia 先用指腹去摸那行凸字、再开口，读与摸被合成一个动作，人物的专业性就藏在这个触觉里。接下来三个短句按顺序落地：他知道这份工作、他没提公司名、那他现在的身份是什么。`What would happen now that he was no longer Brie’s husband?` 用一个开放问句收尾，作者不给她答案，把问题原样交给读者。名片上那行公司名是本章推出来的最大一块新拼图，它不在书房里，在口袋里。
 
 **读者视角提示**：这一段的关键不是名片上的公司名，是最后那个问句——Julia 在这里问的是往后的事（他怎么办），而不是往后的事（谁做的）。她还没有把这个问题指向任何一个人。
 

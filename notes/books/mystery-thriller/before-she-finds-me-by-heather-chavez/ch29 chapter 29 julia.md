@@ -103,16 +103,37 @@ modified: "2026-09-30"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| desperately | adv. 拼命地 | While she wanted answers too, she worried that the ones the detective sought might be ones she desperately wanted buried. |
+| Reluctantly | adv. 不情愿地 | Reluctantly, she thought of Eric’s questions that first day. |
+| nightstand | n. 床头柜 | On the nightstand sat a nearly full mug of tea, the string from the tea bag trailing onto the tabletop. |
+| half-hidden | adj. 半藏着的 | A pair of sneakers half-hidden beneath the bed. |
+| secondhand | adj. 二手的 | Most of their furniture had been purchased secondhand, and the cash in their checking account wouldn’t have covered a venti latte at Starbucks. |
+| acknowledgment | n. 认可 | Instead, he nodded once in acknowledgment. |
+| unblinking | adj. 不眨眼的 | Hoffman did some more scribbling and then stared at her again, unblinking. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| squinted | v. 眯起眼睛看 | He squinted behind his glasses, the frames rounded, the lenses lightly tinted in the sun. |
+| stiffened | v. 僵硬 | Her spine stiffened. |
+| lingering | v. 萦绕不散 | Breathing in the lingering scent of her daughter’s life, she waited for a reply that didn’t come. |
+| battered | adj. 破旧的 | The phantom weight of that battered backpack lodged between her shoulder blades. |
+| infected | v. 感染 | During that time, Julia had scratched at her wrists until welts appeared, then worried they would become infected because she had no way to clean them. |
+| punishing | v. 惩罚 | She knew now that she’d been punishing herself. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| blackout blinds | n. 遮光窗帘 | The spare bedroom was darker than the living room had been, the blackout blinds still drawn. |
+| cat meme | n. 猫咪梗图 | Julia sat on the corner of the bed and texted Cora a cat meme. |
+| fetid lake | n. 腐臭的湖 | Julia could suddenly smell the fetid lake near her childhood home and the tang of blood. |
+| green comforter | n. 绿色被套 | The bed was hastily made, the green comforter more lumps than smoothed edges. |
+| heightened reflexes | n. 过度敏锐的反应 | She owed her heightened reflexes to all that happened next. |
+| imaginary dandelion | n. 不存在的蒲公英 | She fought her fingers, which moved to clench around an imaginary dandelion. |
+| spare bedroom | n. 客房 | The spare bedroom was darker than the living room had been, the blackout blinds still drawn. |
+| venti latte | n. 超大杯拿铁 | Most of their furniture had been purchased secondhand, and the cash in their checking account wouldn’t have covered a venti latte at Starbucks. |
 
 ## 一句话总结
 

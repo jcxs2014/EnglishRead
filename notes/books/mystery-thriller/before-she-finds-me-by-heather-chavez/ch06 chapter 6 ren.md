@@ -10,7 +10,7 @@ modified: "2026-09-30"
 - **一句话概括**：Ren 在自家客厅那把最爱的躺椅上等丈夫 Nolan 回来，发现他背着她做完了一单狙击杀人案；追问之下他交代下一个目标 Karl Voss 锁死清洁工致死的旧账，她从抵触一路走到默许。
 - **情感弧线位置**：职业性的冷静 → 信任被戳 → 道德不适 → 与丈夫重新结盟
 - **Tropes 兑现/反转**：杀手夫妇的日常化（丈夫的浪漫礼物是一袋毒株球根）· 契约杀的伦理话术 · 怀孕带来的生理松动与道德松动
-- **人物弧线**：Ren 全程是那个做侦察的人：她不质疑手法，只质疑时机与正当性；章末那两句是她全章唯一一次完全同意丈夫
+- **人物弧线**：Ren 全程是那个做侦察的人：她不质疑手法，只质疑时机与正当性；章末那两句里她不再反驳，直接把结论交给他去执行
 - **叙事手法**：第三人称限知（Ren 视角），家居细节与凶案细节共用一套匠人语言；中段整段是 Nolan 的转述，火力从夫妻对话转到案件叙述，章末用两句极短的判断收束
 
 ## 精读
@@ -21,7 +21,7 @@ modified: "2026-09-30"
 
 **关键词**：took craft seriously / stain-resistant / His own blood / Not a target’s / would never be so careless
 
-**为什么这样写**：这一段把「杀人」和「做家具」放进同一套评价体系：`craft`（手艺）是作者给 Ren 这份职业的定性词，而「不脱线、不歪缝、耐污」这套标准与「不出差错」本来就是同一条。全段的判断只有最后一句，把人直接推到「完美」的位置；而「是他自己的血」被单独切成一句短句，像一份预先写好的免责声明。
+**为什么这样写**：这一段把「杀人」和「做家具」放进同一套评价体系：`craft`（手艺）是作者给 Ren 这份职业下的定性，而「不脱线、不歪缝、耐污」这套标准与「不出差错」本来就是同一套。全段的判断只有最后一句，把人直接推到「完美」的位置；而「是他自己的血」被单独切成一句短句，像一份预先写好的免责声明。
 
 **读者视角提示**：这段出现时 Nolan 刚进门，读者还不知道他今晚做了什么，「血」在这里只是家居事故；要等读者知道他去了哪里，这行字才会变成题眼。
 
@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **关键词**：Every shot hit its target / fifteen hundred meters / so much movement on the ground / but still: Every. Fuckin’. Shot.
 
-**为什么这样写**：三个距离单位连着报，把射击写成一门可测量的手艺；作者先用 `but still` 把所有客观困难推翻，再把整句拆成逐词加句点的短句，最后一个词独占一步。炫技者压不住得意的那一下，就落在标点上。
+**为什么这样写**：三个距离单位连着报，把射击写成一门可测量的手艺；作者先用 `but still` 把所有客观困难推翻，再把整句拆成一片片加句点的短片段，末尾那处单独占一步。炫技者压不住得意的那一下，就落在标点上。
 
 **读者视角提示**：这一段是「讲」出来的而不是「写」出来的：Ren 只能听见，读者也只能听见，语气之外一无所获。
 
@@ -57,9 +57,9 @@ modified: "2026-09-30"
 
 **关键词**：the kindergarten teacher / had it coming / That’s the point
 
-**为什么这样写**：Nolan 刚说完他们不杀幼儿园老师，Ren 的反驳不是「你撒谎」，而是把那句话按它自己的逻辑推到尽头：他们杀的是「通常名单上的人」，而她从没说过这个名单由谁来定。`That’s the point`（那才是重点）用三个词把心里话标成结论，等于当着读者的面写下：这条线是她自己画的。
+**为什么这样写**：Nolan 刚说完他们不杀幼儿园老师，Ren 的反驳不是「你撒谎」，而是把那句话按它自己的逻辑推到尽头：他们杀的是「通常名单上的人」，而她从没说过这个名单由谁来定。`That’s the point`（那才是重点）把心里话直接标成结论，等于当着读者的面写下：这条线是她自己画的。
 
-**读者视角提示**：这是全章唯一一次 Ren 说出真正相信的话，而且只在心里说；此后她一句反驳也没再给。
+**读者视角提示**：这是 Ren 说出自己真正相信的话的地方，而且只在心里说；此后她一句反驳也没再给。
 
 ---
 
@@ -69,7 +69,7 @@ modified: "2026-09-30"
 
 **关键词**：shook her head / We’re the connection / It’s too soon / Too risky
 
-**为什么这样写**：前面 Nolan 刚摆完「警察不可能把两桩案子连起来」的整套理由，这一句用四个词把它顶回去：连接点不是地点也不是时间，是他们自己。`too soon` 在她要求「下周再动」时已经用过一次，这里再出现一次，就把「谨慎」从情绪钉成了原则。
+**为什么这样写**：前面 Nolan 刚摆完「警察不可能把两桩案子连起来」的整套理由，这一句只用一个短句就把它顶回去：连接点不是地点也不是时间，是他们自己。`too soon` 在她要求「下周再动」时已经出现过，这里再出现，就把「谨慎」从情绪钉成了原则。
 
 **读者视角提示**：她不是在阻止杀人，她是在推迟——读者要盯住的不是「要不要杀」，是「下周」。
 
@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 **关键词**：broke through a window / dragged her back into the building / He returned the cell phones / waited for Teresa to die / Only then did he call Baird
 
-**为什么这样写**：这段里最冷的不是锁门，是最后那个 `Only then`（只有在那之后）：求救被写成流程的最后一步，救援成了结案手续。中间 `He returned the cell phones`（他把手机还了）先递一次希望，紧接着的下一句把希望收走——恶意靠这个「先给再收」的动作成立。
+**为什么这样写**：这段里最冷的不是锁门，是最后那个 `Only then`（只有在那之后）：求救被写成流程的最后一步，救援成了结案手续。中间 `He returned the cell phones`（他把手机还了）先递出一个希望，紧接着的下一句把它收走——恶意靠这个「先给再收」的动作成立。
 
 **读者视角提示**：读者到这里才明白 Ren 的问题其实不是「该不该杀」，而是「值不值得等」；而 Nolan 讲完这段，等于把答案直接交到她手里。
 
@@ -93,9 +93,9 @@ modified: "2026-09-30"
 
 **关键词**：Her husband was right / Karl Voss needed to die
 
-**为什么这样写**：全章起点是「他不告诉我」，终点是「他说得对」，中间只隔着 Voss 的旧账。作者不给 Ren 任何一句自我辩论，直接用两句短陈述收束：先认自己判断错，再放弃抵抗。`needed to die` 用的是判断语气，没有情绪词，也没有「应该」这种道德词。
+**为什么这样写**：全章起点是「他不告诉我」，终点是「他说得对」，中间只隔着 Voss 的旧账。作者不给 Ren 任何一句自我辩论，直接用两句短陈述收束：先认自己判断错，再放弃抵抗。`needed to die` 用的是判断语气，句中不带情绪，也不带「应该」这种道德字眼。
 
-**读者视角提示**：读者手里第一次有了一件可掂量的东西（那四名清洁工的死），而 Ren 已经用它替丈夫背书——这就是作者给 Ren 定的调子：她的谨慎是有价的。
+**读者视角提示**：读者到这里才手里有了一件可掂量的东西（那四名清洁工的死），而 Ren 已经用它替丈夫背书——这就是作者给 Ren 定的调子：她的谨慎是有价的。
 
 ## 本章词汇
 
@@ -109,7 +109,7 @@ modified: "2026-09-30"
 | unclogging | v. 疏通（管道）——原文用在「宁愿去通马桶」的假设里 | But at the moment, she would’ve been more aroused had she been unclogging the toilet. |
 | milligrams | n. 毫克 | She could remember how many milligrams of monkshood she’d used on the banker from Santa Fe, and how he’d complained about a burning in his mouth before his breathing grew ragged. |
 | unsanctioned | adj. 未经许可的 | The charitable interpretation was that Voss figured the work would get done faster if they weren’t distracted, and if they couldn’t leave the building for unsanctioned smoke breaks or fast-food runs. |
-| quickening | n. 胎动（初次感到胎儿在动） | Now she could feel the baby quickening. |
+| quickening | n. 胎动（感到腹中胎儿在动的那一下） | Now she could feel the baby quickening. |
 
 ### ⭐⭐ 进阶
 

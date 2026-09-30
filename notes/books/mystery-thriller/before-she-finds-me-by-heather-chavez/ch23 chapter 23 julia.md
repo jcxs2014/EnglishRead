@@ -11,7 +11,7 @@ modified: "2026-09-30"
 - **情感弧线位置**：警情之后的余悸 → 守夜时的强迫性观察 → 求熟人时的讥讽与示弱 → 听完代价之后的发冷
 - **Tropes 兑现/反转**：创伤后的半夜守望 · 「我查得比你安全」被反将一军 · 知情者以亲身失败案例劝退
 - **人物弧线**：她整晚都在做「准备」（查旧案、托人、打听），而真正的转折是承认自己已经被卷进一件会反噬的事
-- **叙事手法**：第三人称限知（Julia 视角），把一夜切成「车里—楼下一家—一通电话」三段，每段都靠一个身体动作收尾（手指冻住、太阳爬上胳膊、米克没说完的话）
+- **叙事手法**：第三人称限知（Julia 视角），把一夜切成几段各自收尾的段落，每段都靠一个身体动作收尾（手指冻住、太阳爬上胳膊、米克没说完的话）
 
 ## 精读
 
@@ -23,7 +23,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：这两句被放在「确认没人跟踪、开去海边」之后，而不是放在一段回忆里——作者不给场景，只给一个数字和一个否定式：伤疤的内容被整段留白，留下的只有年份。全夜的行动目标（女儿是否安全）在这里被压缩成一句自我承诺，而 `wouldn’t allow` 用情态动词写意志，比「她决定」更硬。
 
-**读者视角提示**：读者第一次拿到 Julia 伤疤的年份，却拿不到内容；这个缺口整章都没有填。
+**读者视角提示**：读者拿到了 Julia 伤疤的年份，却拿不到内容；这个缺口整章都没有填。
 
 ---
 
@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **关键词**：only a few letters / before her fingers froze / another quote about hopes and prayers
 
-**为什么这样写**：那套仪式是书里早就交代过的心理动作：反复清点旧案，像数念珠。这里作者让它在动作中途失败——不是她放弃了，是身体先退出。后面两句用「又一张」「又一段」把这份材料写成会耗尽的东西：它陪她过了很多年，今晚第一次不够用。
+**为什么这样写**：那套仪式是书里早就交代过的心理动作：反复清点旧案，像数念珠。这里作者让它在动作中途失败——不是她放弃了，是身体先退出。后面两句用「又一张」「又一段」把这份材料写成会耗尽的东西：它陪她过了很多年，今晚却不够用了。
 
 **读者视角提示**：读者会在这里把「她为什么反复去看枪击案」从习惯改读成戒断反应。
 
@@ -83,7 +83,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：本章前面她特意挪动椅子、把那条手臂藏进阴影，这里是同一个动作被打破的对照。作者不写她的表情，只写她怎么对待一束光：`She welcomed the pain` 用主动及物动词把疼当成可以接受的东西，于是恐惧有了替代品：疼是确定的，冷是不确定的。
 
-**读者视角提示**：读者要注意这束光是她自己选的——整章没有一次求助真正发生。
+**读者视角提示**：读者要注意这束光是她自己选的——她这一夜向人开口，说的全是女儿的事。
 
 ---
 
@@ -98,6 +98,43 @@ modified: "2026-09-30"
 **读者视角提示**：读者到这里才明白，她整晚做的事没有一件是在救自己——她只是把女儿的安全换成了自己的风险。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| greenhouse | n. 温室 | In the greenhouse, the past Julia had fought to keep at bay for decades had settled in her gut like a stone. |
+| transparency | n. 透明（此处指薄到透光） | When Cora was anxious, she would ball her hands around the shirt and tug, so that over the years its hem had stretched to near transparency. |
+| storefronts | n. 临街店面 | As she sat in front of the bakery, she watched the street for dark sedans, and the storefronts for possible stalkers. |
+| hesitation | n. 迟疑 | But now there was no hesitation. |
+| door-to-door | adv. 挨家挨户地 | I’m not planning to buy a fake badge and go door-to-door. |
+| begrudgingly | adv. 不情愿地 | “Yes,” he said begrudgingly. |
+| Photoshopped | v. 用图像软件修过的 | It wasn’t him—it was Photoshopped—but it didn’t matter. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| aimlessly | adv. 漫无目的地 | After disconnecting, she drove aimlessly for more than an hour, attention darting frequently to her rearview mirror. |
+| rearview | n. 车后视野（镜） | After disconnecting, she drove aimlessly for more than an hour, attention darting frequently to her rearview mirror. |
+| sweeping | n. 清扫（街道） | Julia parked along the curb next to a sign warning of street sweeping the next morning. |
+| curtains | n. 窗帘 | Julia killed the engine and watched the upstairs window, its sheer curtains drawn. |
+| blanched | v. 变白（指指节） | Her knuckles blanched as her grip on the phone tightened. |
+| thrumming | v. 搏动、跳动 | Blood thrumming in her ears, Julia sent another text, this time to Cora—Call me when you’re up—before punching in Mike’s number. |
+| scalding | v. 烫到 | Impatient, she took a sip of her latte, scalding her tongue. |
+| grimaced | v. 皱起脸（因疼痛） | She grimaced and put the cup down. |
+| wavering | adj. 动摇的 | She sensed him wavering. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| bakery | n. 面包店 | As she sat in front of the bakery, she watched the street for dark sedans, and the storefronts for possible stalkers. |
+| cautionary tale | n.  cautionary 警世故事、教训 | This was a cautionary tale, and those never had happy endings. |
+| late hour | n. 深夜 | Despite the late hour, the lights remained on in the Fourniers’ apartment. |
+| sandwich board | n. 人字立式广告牌 | In case that wasn’t enough, there was also a sandwich board that promised, in bold cursive, the best lattes, according to Thrillist. |
+| street sweeper | n. 清扫车 | Julia left before the street sweeper came after all. |
+| talisman | n. 护身符 | She took out her phone and started typing into the browser, intending to revisit the familiar list of shootings as she had dozens of times over the years, counting on each like a talisman. |
 
 ## 一句话总结
 

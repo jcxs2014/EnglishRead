@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **关键词**：more comfortable chair / just as intently / My daughter is dead
 
-**为什么这样写**：三个短句把两个人之间的对视写成了对称动作——他 `studied her`，她 `watched him just as intently`，中间的 `just as` 直接把这场对视标成平手。可最后那句台词的重量完全压不下去：他刚用 `at this moment I don’t give a fuck` 把顾虑撇开，转头就说出了这句话。前面越是平视，后面那个极短句就越像一记落地锤。
+**为什么这样写**：这一串短句把两个人之间的对视写成了对称动作——他 `studied her`，她 `watched him just as intently`，中间的 `just as` 直接把这场对视标成平手。可最后那句台词的重量完全压不下去：他刚用 `at this moment I don’t give a fuck` 把顾虑撇开，转头就说出了这句话。前面越是平视，后面那个极短句就越像一记落地锤。
 
 **读者视角提示**：这一句是整章的转折点，也是 Ren 全部计划失效的起点。读者会立刻明白：她今晚不是来谈生意的，是被叫来对质的。
 
@@ -45,7 +45,7 @@ modified: "2026-09-30"
 
 **关键词**：biological systems / toxicant / I wouldn’t use arsenic
 
-**为什么这样写**：一句术语纠正把谈判的调子整个掀翻——Baird 用的是门外汉的词，Ren 用的是行内人的词，纠正完还顺手补一句我也不会用。三段全是陈述句，没有一句带情绪，却把我是专业的、你不是这条落差摆到了桌面上。她在这个男人家里唯一握得住的东西就是行话。
+**为什么这样写**：一句术语纠正把谈判的调子整个掀翻——Baird 用的是门外汉的词，Ren 用的是行内人的词，纠正完还顺手补一句我也不会用。通篇是陈述句，没有一处带情绪，却把我是专业的、你不是这条落差摆到了桌面上。她在这个男人家里唯一握得住的东西就是行话。
 
 **读者视角提示**：注意她说这句时是在平静地纠正，不是在得意地纠正。读者要读出她靠专业维持自尊，而不是在炫技。
 
@@ -57,7 +57,7 @@ modified: "2026-09-30"
 
 **关键词**：irritation was surfacing / a wasp emerging from its cocoon / Ready to sting
 
-**为什么这样写**：比喻里最狠的是被单独切出来的 `Ready to sting`——它成了两个词的小句，节奏上等于门开了一条缝，让读者先于 Ren 听见蛰刺的声音。前半句还只是情绪在往外渗，后半句已经是威胁成形；而紧接着的下一段写的是门被推开、两名守卫站到门槛上，正好把蛰前的两秒落实成画面。
+**为什么这样写**：比喻里最狠的是那句被切出来的 `Ready to sting`——它自己站成了一个小句，节奏上等于门开了一条缝，让读者先于 Ren 听见蛰刺的声音。前半句还只是情绪在往外渗，后半句已经是威胁成形；而紧接着的下一段写的是门被推开、两名守卫站到门槛上，正好把蛰前的两秒落实成画面。
 
 **读者视角提示**：这一段之后 Ren 才开始真正清点逃生路线。读者要记住这条界线：她此前评估的是怎么脱身，从这一刻起评估的才是自己会不会被留下来。
 
@@ -81,15 +81,15 @@ modified: "2026-09-30"
 
 **关键词**：A wraith in black / haloed in light / A current passed between them, mother to mother
 
-**为什么这样写**：三个句子把一次对视拆成看见、站定、通电三拍。`floated`（飘浮）把一个刚在书房转身走开的女人写成吊着的影子，`haloed in light` 让她背光得像一幅画像；最后 `A current passed between them, mother to mother` 用一个同位语把身份直接按在两人之间——这半句里没有一个字的对话，却比屋里所有的谈判都重。
+**为什么这样写**：这一串句子按看见、站定、通电的顺序把一次对视拆开。`floated`（飘浮）把一个刚在书房转身走开的女人写成吊着的影子，`haloed in light` 让她背光得像一幅画像；最后 `A current passed between them, mother to mother` 用一个同位语把身份直接按在两人之间——这半句里没有一个字的对话，却比屋里所有的谈判都重。
 
-**读者视角提示**：读者要记住这一眼。Baird 全章的逻辑是把女儿之死算成人与人之间的一笔账，而他妻子在这扇窗后面用的是另一套逻辑；Ren 站在楼下时才第一次撞见那套逻辑。
+**读者视角提示**：读者要记住这一眼。Baird 全章的逻辑是把女儿之死算成人与人之间的一笔账，而他妻子在这扇窗后面用的是另一套逻辑；Ren 站在楼下时才撞见那套逻辑。
 
 ---
 
 > **原句 7:** Touch me again and I’ll kill you,” she said coolly, before lowering herself into the Buick’s back seat.
 
-**中文理解**：「你再碰我一下，我就杀了你。」她冷冷地说完，才弯腰坐进别克的後座。
+**中文理解**：「你再碰我一下，我就杀了你。」她冷冷地说完，才弯腰坐进别克的后座。
 
 **关键词**：Touch me again / I’ll kill you / lowering herself into the Buick’s back seat
 

@@ -7,10 +7,10 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：Julia 和 Mike 在自家厨房敲进暗网，玩笑还挂在嘴上时，帖子从枪械技术滑向阴谋论，再滑向「新郎雇了人」——只因为匿名，一个陌生人的职业和住址就当众被拆开。
+- **一句话概括**：Julia 和 Mike 在自家厨房敲进暗网，玩笑还挂在嘴上时，帖子从枪械技术滑向阴谋论，再滑向对新郎的指控——只因为匿名，一个陌生人的职业和住址就当众被拆开。
 - **情感弧线位置**：亲密的日常（送点心、互相挖苦）→ 屏幕带来的生理性恐惧 → 被区分「愤怒的人」与「以此为乐的人」→ 差点下场辩护、以及为自己没看住而惊到的瞬间
 - **Tropes 兑现/反转**：网络围猎式的人肉搜索 · 旧友以自曝失败案例的方式劝退 · 匿名狂欢里「多一个人转发就成立」
-- **人物弧线**：她本为查案而来，却在屏幕前从「调查者」变成「当事人」；救不救的判断第一次落到她对前夫的立场，而不是女儿
+- **人物弧线**：她本为查案而来，却在屏幕前从「调查者」变成「当事人」；救不救的判断落到了她对前夫的立场，而不是女儿
 - **叙事手法**：第三人称限知（Julia 视角），叙述与匿名帖交替推进，帖子的密度就是她的恐慌曲线；结尾停在施暴者报出的价码上
 
 ## 精读
@@ -21,7 +21,7 @@ modified: "2026-09-30"
 
 **关键词**：His pained expression deepened / you can’t type worth shit
 
-**为什么这样写**：在一段注定要紧张的戏之前，作者先给一句粗口玩笑，还让它挂在「痛苦表情加深」这个反差上：越是要她小心，他越用玩笑卸力。`worth shit` 这种粗俗说法并不常见，它的作用是证明这两人熟到不需要客套。
+**为什么这样写**：在接下来要紧张起来的一段戏之前，作者先给一句粗口玩笑，还让它挂在「痛苦表情加深」这个反差上：越是要她小心，他越用玩笑卸力。`worth shit` 这种粗俗说法在这句里承担的是亲昵：它证明这两人熟到不需要客套。
 
 **读者视角提示**：读者要记住这个自称打字很烂的人，等下他会是唯一按住她那只手的人。
 
@@ -35,7 +35,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：三个无害名词对三个越界名词，用 `shared space with` 一句并置，句子的并列结构本身就是论点：这里没有分区的道德感。Mike 在前面刚说完那句打字很烂的玩笑，紧接着就是这一屏，读者被按在屏幕前，成了它们的同类。
 
-**读者视角提示**：读者在这里第一次和 Julia 一起意识到：他们要走进去的不是某一个论坛，是这一类。
+**读者视角提示**：读者在这里和 Julia 一起意识到：他们要走进去的不是某一个论坛，是这一类。
 
 ---
 
@@ -69,7 +69,7 @@ modified: "2026-09-30"
 
 **关键词**：some zealots who follow this type of violence / who’s outraged. Horrified. / they get off on it
 
-**为什么这样写**：Mike 用 `Outraged.` 和 `Horrified.` 两个单词成句切开人群，切口小到只有两个词；`get off on it` 把「乐」写成一个俚语动词，直接把对面那类人从愤怒的人群里挖出来。中间那句写她脸颊发热是本章唯一一次：被澄清的不是事实，是她。
+**为什么这样写**：Mike 用 `Outraged.` 和 `Horrified.` 两个单词成句切开人群，切口小到只有两个词；`get off on it` 把「乐」写成一个俚语动词，直接把对面那类人从愤怒的人群里挖出来。中间那句写她脸颊发热，就插在两句台词之间：被澄清的不是事实，是她。
 
 **读者视角提示**：读者要注意她脸红的时机：她要的不是「事情很大」的提醒，是「你没有变成那种人」的确认。
 
@@ -93,11 +93,47 @@ modified: "2026-09-30"
 
 **关键词**：Just like that / occupation / were out there
 
-**为什么这样写**：不到五个词的因果：`Just like that` 把一整串推理压成一次打火，句子主语是 Eric，谓语是 `were out there`，被交出去的两样东西都用了最日常的名词。匿名论坛里没有一个字提到 Julia，但她已经被算进了代价。
+**为什么这样写**：整句因果被压成一次打火：`Just like that` 之后，句子主语是 Eric，谓语是 `were out there`，被交出去的两样东西都用了最日常的名词。匿名论坛里没有一个字提到 Julia，但她已经被算进了代价。
 
-**读者视角提示**：读者会立刻明白那句规则的真意——被扒出来的从来不只有不相干的人，而且一次比一次快。
+**读者视角提示**：读者会立刻明白那句规则的真意——被扒出来的，从来不只有不相干的人。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| cautiously | adv. 谨慎地 | “Appears that way,” he said cautiously. |
+| masturbation | n. 手淫（此处是论坛分区名） | On the screen, threads on gardening, books, and video games shared space with ones on masturbation, insurance fraud, and recreational drugs. |
+| recreational | adj. 娱乐用的、消遣性的 | On the screen, threads on gardening, books, and video games shared space with ones on masturbation, insurance fraud, and recreational drugs. |
+| speculation | n. 猜测、臆测 | Most of it was speculation, but she filled pages anyway. |
+| space-traveling | adj. 会太空旅行的 | Anonymous: I heard she was sacrificed to the space-traveling lizard men who rule our planet. |
+| eviscerate | v. 剖腹、彻底击溃 | “Actually, I think it would be entertaining as hell watching you eviscerate them. |
+| occupation | n. 职业 | Just like that, Eric’s occupation and where he lived were out there. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| infusion | n. 注入、浸泡 | Despite the infusion of sugary carbs, Mike wore a pained expression as Julia carefully typed in the URL he had given her. |
+| lettering | n. 字母、字样 | Julia hit enter, bringing up a black screen with strings of white and red lettering. |
+| thrashed | v. 剧烈跳动 | Julia’s heart thrashed in her chest like a startled bird. |
+| unbidden | adv. 未经邀请地、不由自主地 | The memory played, unbidden. |
+| fraction | n. 极小的一份 | Cora stepping aside a fraction of a second before the first bullet struck. |
+| traction | n. 势头 | She understood then: if the story gained traction, it grew more likely that Cora’s survival would become bigger news too. |
+| defiantly | adv. 挑衅地、不服输地 | She stared at him defiantly. |
+| lopsided | adj. 不对称的（此处形容笑） | He grinned in that lopsided way, though now it held more than a hint of sadness. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| cell phone | n. 手机 | Midway through the thread, someone posted a link to the cell phone video. |
+| cranberry-orange scones | n. 蔓越莓橙味司康 | Julia had dropped off the box of pastries at Evie’s apartment on the way back to her house, but she’d saved Mike a couple of the cranberry-orange scones. |
+| field day | n. 尽兴欢乐的一天（此处带反讽） | If the police ever searched her home, they’d have a field day with this notebook. |
+| real name | n. 真名 | Brie Bennett wasn’t even her real name. |
+| startled bird | n. 受惊的鸟 | Julia’s heart thrashed in her chest like a startled bird. |
+| sudden warmth | n. 突如其来的暖意 | Their faces hovered inches apart, two pairs of eyes fixed on the screen, and she felt the sudden warmth of him. |
 
 ## 一句话总结
 

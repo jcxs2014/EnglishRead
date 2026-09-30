@@ -9,8 +9,8 @@ modified: "2026-09-30"
 
 - **一句话概括**：Cora 打电话来说自己不在父亲那儿，Julia 赶到圣克莱门特的一间酒吧，从喝醉的前夫 Eric 口中听到 Brie 出轨的证据；Eric 差点动手打人、掀翻桌子，Julia 两次出手拦下他，同时发现吧台边有一个瘦削男人在看她——不是看 Eric。
 - **情感弧线位置**：搜索无果的焦躁 → 酒吧里被人群包围的生理性紧绷 → 旧爱重逢的荒诞感 → 一连串失控的照看 → 结尾被人盯上的不安
-- **Tropes 兑现/反转**：离婚夫妻的酒桌对质 · 前夫自曝出轨以换取共鸣 · 母亲以出手代替说教 · 被跟踪者的第一次自我察觉
-- **人物弧线**：Julia 本章的行动全部是替人收拾——去接女儿、捞前夫、让砸在膝盖上的酒瓶和满地碎玻璃留在自己身上；而当她终于把注意力从 Eric 身上移开、第一次主动去辨认盯着自己的那张脸时，她的本事才从照看家人切换成辨认威胁
+- **Tropes 兑现/反转**：离婚夫妻的酒桌对质 · 前夫自曝出轨以换取共鸣 · 母亲以出手代替说教 · 被跟踪者的自我察觉
+- **人物弧线**：Julia 本章的行动全部是替人收拾——去接女儿、捞前夫、让砸在膝盖上的酒瓶和满地碎玻璃留在自己身上；而当她终于把注意力从 Eric 身上移开、主动去辨认盯着自己的那张脸时，她的本事才从照看家人切换成辨认威胁
 - **叙事手法**：第三人称限知（Julia 视角），明线是醉汉与旧账，暗线是那盒预付卡与那部第二手机；回忆插叙只用一段野餐完成时间落差，结尾用一个残句把威胁从背景推到前景
 
 ## 精读
@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **关键词**：Instead / a long, shaky breath / You can’t come to Dad’s
 
-**为什么这样写**：作者先用 `Instead` 否掉 Julia 在前一段预演好的整套回答（女儿会抱怨、会说没事、会叫她别问），再让 Cora 用一口气把剧本撕掉。这口气是颤抖的——电话那头的人不是在赌气，是在害怕。整段只给了两个动作和一句话，Julia 还没问出任何问题，局面已经整个翻转。
+**为什么这样写**：作者先用 `Instead` 否掉 Julia 在前一段预演好的整套回答（女儿会抱怨、会说没事、会叫她别问），再让 Cora 用一口气把剧本撕掉。这口气是颤抖的——电话那头的人不是在赌气，是在害怕。整段只给了一个动作和一句话，Julia 还没问出任何问题，局面已经整个翻转。
 
 **读者视角提示**：读者要靠这一口气判断女儿的处境：她不是在闹别扭，她是在躲。往后 Julia 在酒吧里做的每一件事，都该被读成一次脱身。
 
@@ -47,7 +47,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：作者把生理反应放在听觉之前——`Her whole body clenched` 出现在句子最前面，说明她不是想清楚了才紧张，而是声音一到、身体先锁死。后半句用 `Many of them were drunk` 这个平淡的说法收尾，把威胁写得毫无情绪：这才是她真正在算的账，人群里喝醉的有多少。
 
-**读者视角提示**：枪响那天的教训是人群会失控，读者到这里才明白她躲的其实不是危险，是人数。
+**读者视角提示**：读者到这里才明白她躲的其实不是危险，是人数——本章开头她就交代过，枪响之后自己再没进过人群。
 
 ---
 
@@ -57,7 +57,7 @@ modified: "2026-09-30"
 
 **关键词**：that awkward boy / borrowed picnic basket / taking full advantage of that fact
 
-**为什么这样写**：回忆只用了几笔（喷奶酪、起泡苹果酒、后颈晒伤），然后立刻被 `Still, it was` 折回现实，两个分句一旧一新并排放：一边是借来的篮子和喷雾奶酪，一边是已经喝到这个份上。作者不写她怀旧，只写她还在用那个版本的他看眼前这个人——落差全在 `Now` 这个词上。
+**为什么这样写**：回忆只用了几笔（喷奶酪、起泡苹果酒、后颈晒伤），然后立刻被 `Still, it was` 折回现实，旧的一笔与新的一笔并排摆着：一边是借来的篮子和喷雾奶酪，一边是已经喝到这个份上。作者不写她怀旧，只写她还在用那个版本的他看眼前这个人——落差全在 `Now` 这个词上。
 
 **读者视角提示**：读者要顺着这个落差读下去：当年连翘了课都要等她问起成绩才承认的人，此刻正在把话说到她女儿身上。
 
@@ -69,7 +69,7 @@ modified: "2026-09-30"
 
 **关键词**：Cora’s not you / She has two parents to keep her safe
 
-**为什么这样写**：醉汉的反击只用了两句，第二句还把话说得斩钉截铁——把单亲说成一个缺陷，把两个大人说成一道保险。紧接着作者立刻替 Julia 解围：她清楚这句冲的不是自己，是男人从丧女里挑出来的怒气。可理解归理解，她的胸口还是收紧了。
+**为什么这样写**：醉汉的反击短到只剩一句宣言，而且斩钉截铁——把单亲说成一个缺陷，把两个大人说成一道保险。紧接着作者立刻替 Julia 解围：她清楚这句冲的不是自己，是男人从丧女里挑出来的怒气。可理解归理解，她的胸口还是收紧了。
 
 **读者视角提示**：读者要看到这两层的落差。Julia 认得这股怒气的来源，也照样被它划了一道——这正是她今晚一直在做的事，替别人挡下不属于她的东西。
 
@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 **关键词**：I told myself / I was looking for proof / I can admit that
 
-**为什么这样写**：一个喝醉的丈夫把侦查经过当忏悔来背，三个分句一路往下台阶——先给自己找理由（帮她洗衣），再承认动机（找证据），最后 `I can admit that` 单独成句，等于自愿把武器交出来。Julia 听完没有揭穿他，也没有安慰他；她的手停在原处，只因为他那双肿着的眼睛。
+**为什么这样写**：一个喝醉的丈夫把侦查经过当忏悔来背，这一串分句一路往下台阶——先给自己找理由（帮她洗衣），再承认动机（找证据），最后 `I can admit that` 单独成句，等于自愿把武器交出来。Julia 听完没有揭穿他，也没有安慰他；她的手停在原处，只因为他那双肿着的眼睛。
 
 **读者视角提示**：读者要记住她咽下去的是什么——她本来可以拿那部第二手机去砸他，但她选择什么都不说。这一笔让读者明白：她今晚握着的牌比 Eric 多得多，而她一张都没打。
 
@@ -93,9 +93,9 @@ modified: "2026-09-30"
 
 **关键词**：lean and angular / unlike the other curious patrons / Not Eric
 
-**为什么这样写**：前一句还在写 Eric 醉醺醺地乱指认视线来源，下一句就用一个三词的残句把结论钉住。前半句用 `unlike the other curious patrons` 把这个男人从围观群众里摘出来——他不只是看得多，他是另有所看；后半句再把刚要成立的解释关掉。本章所有的轻松都在这一个残句上收摊。
+**为什么这样写**：前一句还在写 Eric 醉醺醺地乱指认视线来源，下一句就用一个残句把结论钉住。前半句用 `unlike the other curious patrons` 把这个男人从围观群众里摘出来——他不只是看得多，他是另有所看；后半句再把刚要成立的解释关掉。本章所有的轻松都在这一个残句上收摊。
 
-**读者视角提示**：读者到这里才发现，她这一整晚训练出来的本事是辨认危险，而第一次真正需要用它，是对着一个完全陌生的人。
+**读者视角提示**：读者到这里才发现，她这一整晚训练出来的本事是辨认危险，而真正需要用它的那一次，对准的是一个完全陌生的人。
 
 ## 本章词汇
 
@@ -106,7 +106,7 @@ modified: "2026-09-30"
 | estrangement | n. 疏远／关系破裂 | She knew Brie’s estrangement predated her relationship with Eric, and that before they’d married, Brie had gone by her mom’s maiden name. |
 | exaggerated | v. 夸张地做出（表情） | She exaggerated her wince at his flammable breath. |
 | condensation | n. 凝结的水汽 | There was still condensation on the glass. |
-| togetherness | n. 厮混／在一起的那段日子 | To celebrate three months of togetherness, Eric had bought that woman an Armani jersey dress. |
+| togetherness | n. 在一起的那段日子 | To celebrate three months of togetherness, Eric had bought that woman an Armani jersey dress. |
 | impressive | adj. 惊人的／出人意料的 | He pushed past her, moving with impressive speed considering moments before he’d struggled to remain upright. |
 | half-eaten | adj. 吃了一半的 | Wineglasses, beer bottles, and an array of half-eaten appetizers began a slow-motion landslide that Julia could’ve easily stopped—if not for Eric’s clumsy step, his foot sliding out from under him at the same moment. |
 | pretending | v. 假装（做某事） | Over the years, she’d grown expert at pretending. |
@@ -140,4 +140,4 @@ modified: "2026-09-30"
 
 ## 一句话总结
 
-一个把先听、再动当作生存法则的母亲，今晚救了前夫两次，却在人群里第一次意识到，真正需要辨认的不是伤害别人的那个，是正在观察自己的那个。
+一个把先听、再动当作生存法则的母亲，今晚救了前夫两次，却在人群里意识到，真正需要辨认的不是伤害别人的那个，是正在观察自己的那个。

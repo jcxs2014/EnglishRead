@@ -43,7 +43,7 @@ modified: "2026-09-30"
 
 **中文理解**：她等着对方的反应。Clarissa 似乎在掂量要和这个陌生人分享多少。经验教会了 Ren 不要追问。被弄得不自在的时候，她从前的一个目标曾拿圆珠笔戳她的眼睛。
 
-**关键词**：waiting for the other woman’s reaction / considering how much to share / Experience had taught Ren not to push
+**关键词**：She waited for the other woman’s reaction / considering how much to share / Experience had taught Ren not to push
 
 **为什么这样写**：前三句是 Ren 的现场操作：等、观察、克制。第四句突然从当下跳到旧事，用一句具体的伤害（圆珠笔戳眼睛）解释她的克制从哪来——`not to push` 不是礼貌，是自我保护。作者不给时间跨度，也不加「有一次」这类限定，让读者自己意识到她这些年积累了多少次「差点翻车」。
 
@@ -108,10 +108,8 @@ modified: "2026-09-30"
 | surveillance | n. 事先踩点／监视所得的情报 | From her surveillance, Ren knew that Clarissa was rarely impolite. |
 | inappropriate | adj. 不太得体的 | “This might be inappropriate,” Ren said, dropping her voice, “but do you have a current work phone for Karl? |
 | uncomfortable | adj. 让人不自在的 | Made uncomfortable, one of her targets had once tried to stab her in the eye with a ballpoint pen. |
-| twelve-hour | adj. 十二小时的 | Good money, even if he did put in twelve-hour shifts. |
 | on-the-clock | adj. 上班时间的 | When did he have time for an on-the-clock affair? |
 | ex-husband | n. 前夫 | But Clarissa didn’t seem the type to cover for her ex-husband. |
-| billionaire | n. 亿万富翁 | Besides, if Voss was managing several of Baird’s properties, what were the chances the billionaire didn’t know what his night manager was doing? |
 
 ### ⭐⭐ 进阶
 
@@ -124,7 +122,6 @@ modified: "2026-09-30"
 | narrowed | v. 收窄（目光） | headed toward the counter, Clarissa’s eyes narrowed to slits. |
 | ballpoint | n. 圆珠笔 | Made uncomfortable, one of her targets had once tried to stab her in the eye with a ballpoint pen. |
 | juggling | v. 同时兼顾（多家） | Yet apparently, Voss had been putting in twelve-hour shifts juggling multiple properties. |
-| managing | v. 打理／管理 | Besides, if Voss was managing several of Baird’s properties, what were the chances the billionaire didn’t know what his night manager was doing? |
 
 ### ⭐ 基础
 
@@ -136,7 +133,6 @@ modified: "2026-09-30"
 | martial arts | n. 武术 | Ren decided the martial arts studio wasn’t an option. |
 | night manager | n. 夜班经理 | Besides, if Voss was managing several of Baird’s properties, what were the chances the billionaire didn’t know what his night manager was doing? |
 | predator | n. 捕食者（此处指人） | As soon as she’d walked into Baird’s office, Ren had recognized him as a predator. |
-| slight smile | n. 淡淡的微笑 | Ren thanked her and offered a slight smile. |
 
 ## 一句话总结
 

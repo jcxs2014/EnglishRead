@@ -103,15 +103,37 @@ modified: "2026-09-30"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| blue-streaked | adj. 挑染了蓝色条纹的 | When Ren walked into Anthony’s Gym, Darien was helping an attractive woman with short blue-streaked hair figure out the cable tower. |
+| occasionally | adv. 偶尔 | Still, though her habit occasionally proved inconvenient, she couldn’t very well keep a jar of debit cards. |
+| inconvenient | adj. 碍事的／不方便的 | Still, though her habit occasionally proved inconvenient, she couldn’t very well keep a jar of debit cards. |
+| Twenty-four | num. 二十四 | Twenty-four dead. |
+| remembering | v. 回忆着 | Ren placed the penny back in line and started brushing her fingertips across each of the others in turn, remembering. |
+| administer | v. 施予（药） | It had belonged to the only woman she’d ever killed, one of the few times she’d needed to administer a second injection. |
+| belladonna | n. 颠茄 | The atropine found in belladonna was a wonderful poison. |
+| implicated | v. 牵涉进 | The target in that first belladonna poisoning had been implicated in the death of her teen son, whose body had been found in their crawl space, so Ren hadn’t minded the woman’s extended suffering. |
+| strychnine | n. 士的宁（番木鳖碱） | Ren had followed the man for two weeks before slipping some strychnine salt into his wine. |
+| transaction | n. 交易 | And the most reasonable explanation remained the narrative Nolan had sold her back then: Usoro had come to Baird’s attention through a minor business transaction, and when Baird found out what kind of man Usoro was, he scuttled the deal. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| resorted | v. 转而（去做某事） | Lately, it had been harder to come by the coins she needed for her collection, and several times she’d resorted to checking a target’s cupholder or junk drawer. |
+| inscribed | v. 刻有字样的 | When Ren was done sorting the coins, she felt calmer, studying the tidy rows of silver and copper, each inscribed with a year she’d worked to memorize. |
+| shiniest | adj. 最亮的 | It was the shiniest of the pennies she held in her palm now, the copper-plated zinc, newly minted when she’d taken it a few years before. |
+| overdosed | v. 服用过量 | The 1993 penny had been taken from a man who’d overdosed on morphine, the drug’s effects hastened by the cheap vodka he’d been drinking. |
+| hastened | v. 加快 | The 1993 penny had been taken from a man who’d overdosed on morphine, the drug’s effects hastened by the cheap vodka he’d been drinking. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
+|---|---|---|
+| mason jar | n. 玻璃 Mason 罐 | Ren retreated into her office, closing the door behind her, and unlocked the largest desk drawer, taking out the mason jar of coins. |
+| backrest | n. 靠背 | Decades of sweat had worn the nubs off the once-textured fabric, and stains darkened the backrest, but Ren saw no reason to replace it. |
+| billionaire | n. 亿万富翁 | The billionaire probably spent more each week on his security detail. |
+| cable tower | n. 龙门架器械 | When Ren walked into Anthony’s Gym, Darien was helping an attractive woman with short blue-streaked hair figure out the cable tower. |
+| copper-plated zinc | n. 镀铜锌（硬币材质） | It was the shiniest of the pennies she held in her palm now, the copper-plated zinc, newly minted when she’d taken it a few years before. |
+| dark web | n. 暗网 | Unless Steph frequented the dark web? |
 
 ## 一句话总结
 

@@ -9,9 +9,9 @@ modified: "2026-09-30"
 
 - **一句话概括**：Nolan 回家时电视上正放着 Brie Bennett 的照片，Ren 关掉电视、审完丈夫的脸，才允许他摊牌；三张宝丽来对话照片证明雇主另有其人，而真正的坏消息是第二个目标没死。
 - **情感弧线位置**：被压住的怒气 → 职业性的冷静 → 真相落地时身体先于语言反应 → 不情愿地点头让父亲进场
-- **Tropes 兑现/反转**：杀手配偶的「我们只是在做活」 · 委托照片留下指纹 · 「死者没死」的任务反转
+- **Tropes 兑现/反转**：杀手配偶的职业化口径 · 委托照片留下指纹 · 第二个目标居然没死的任务反转
 - **人物弧线**：Ren 全章用「为了孩子」给自己上闸；情绪每被推高一次，闸门就紧一道，最后仍以一个半点头换来父亲的介入
-- **叙事手法**：第三人称限知（Ren 视角），明线是夫妻互相试探的对白，水面下压着一次真正的失手；结尾不写后果，只写她去不去敲那扇门
+- **叙事手法**：第三人称限知（Ren 视角），明线是夫妻互相试探的对白，水面下压着一次真正的失手；结尾不交代后果，只留一句她不愿多想
 
 ## 精读
 
@@ -33,9 +33,9 @@ modified: "2026-09-30"
 
 **关键词**：less in control of her anger / satisfying to see it shatter / anger wasn’t good for the baby
 
-**为什么这样写**：暴力的冲动和理性的收尾共用同一个物件：遥控器先是砸墙的工具，最后成了桌面上被摆整齐的一样东西。中间那句 `But anger wasn’t good for the baby` 是全章的闸门——它把「我想做什么」直接改写成「我不能做什么」，从此人物只能用动作（放好、摆齐）来代替情绪。留意作者选的是 `wasn’t good` 而不是 `was wrong`：她给怒气定的不是道德罪，是身体禁忌。
+**为什么这样写**：暴力的冲动和理性的收尾共用同一个物件：遥控器先是砸墙的工具，最后成了桌面上被摆整齐的一样东西。中间那句 `But anger wasn’t good for the baby` 是全章的闸门——它把「我想做什么」直接改写成「我不能做什么」，从此人物只能用动作（放好、摆齐）来代替情绪。留意作者落点是「不是好事」而不是「不对」：她给怒气定的不是道德罪，是身体禁忌。
 
-**读者视角提示**：读者会在这里第一次意识到孩子是 Ren 的刹车；后面每一次她忍住，踩的都是同一块刹车。
+**读者视角提示**：读者会在这里意识到孩子是 Ren 的刹车；此后她把怒气咽回去，用的都是同一块刹车。
 
 ---
 
@@ -71,7 +71,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：上一段是能力，这一段是判决：句子短、结论硬，`had been` 把他的身体表现定义成一件已经验讫的证物。作者让 Ren 用刚展示完的那套手艺，替读者亲手排除掉最顺手的方向——委托人杀了自己的女儿。真正的委托人要到下一场才进门。
 
-**读者视角提示**：读者要留意的不是这个结论对不对，而是她凭什么这么确定：本章里，她一次也没有读过 Nolan 的身体。
+**读者视角提示**：读者要留意的不是这个结论对不对，而是她下判断有多快：排除一个方向，靠的只是几分钟的观察加一套熟练。
 
 ---
 
@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 **关键词**：I know why / released a hard breath / The second target / She’s not dead
 
-**为什么这样写**：坏消息被拆成两级：先给一个可以解释的小原因（款子没到），再换一口气把它推翻（人没死）。`released a hard breath` 是全段唯一的体态描写，被摆在句中当分隔线；最后用四个词的 `She’s not dead` 收尾，本章最重的信息用最短的句子说完。
+**为什么这样写**：坏消息被拆成两级：先给一个可以解释的小原因（款子没到），再换一口气把它推翻（人没死）。这三句里能看见的动作只有一个——`released a hard breath`，被摆在句中当分隔线；末句 `She’s not dead` 把话整个翻过来：前面谈的是钱，这里变成人命，而且说得毫无修饰。
 
 **读者视角提示**：读者在这里才把 Nolan 说的那个女孩对上号：本章前面那张照片里有两个人，被拍下来的只有一个。
 
@@ -98,6 +98,41 @@ modified: "2026-09-30"
 **读者视角提示**：注意她说的是「你说」，不是「你骗我」：她要的是确认，不是谴责——读者会感到她对丈夫的态度比语气冷得多。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| complexity | n. 复杂性（此处指面部肌肉群之复杂） | With its complexity of muscle groups, the face was capable of thousands of unique expressions, but Ren had no problem reading her husband. |
+| exasperation | n. 恼火、不耐烦 | Nolan sighed in exasperation. |
+| sentimental | adj. 多愁善感的、感情用事的 | She didn’t want him to think her sentimental. |
+| matter-of-factly | adv. 不带感情地、就事论事地 | “If we don’t give Baird a name, he’ll kill us,” Ren said matter-of-factly. |
+| confirmation | n. 确认 | Second payment when I get confirmation. |
+| Misunderstanding | n. 误解（被人当作失误的那一类） | Misunderstanding. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| anonymity | n. 匿名性 | “The anonymity is what protects us. |
+| resurrect | v. 重新挑起（陈年旧事） | For the baby, she decided not to resurrect old arguments, even as her temples throbbed. |
+| throbbed | v. 搏动、隐隐作痛 | For the baby, she decided not to resurrect old arguments, even as her temples throbbed. |
+| Polaroids | n. 宝丽来一次成像照片 | The Polaroids. |
+| twitches | n. 抽动、微颤 | There were a thousand different twitches and spasms and tightening muscles that she’d cataloged. |
+| cataloged | v. 逐条记录归档 | There were a thousand different twitches and spasms and tightening muscles that she’d cataloged. |
+| Poisoning | n. 下毒 | Poisoning was as much art as science, one she’d spent years studying, as a woman often alone with men twice her size. |
+| circulate | v. 流传、扩散 | “There’s a recent photo of the girl on social media, and it’s starting to circulate. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| anger | n. 怒气 | If she’d been less in control of her anger, she might’ve thrown the remote against the wall. |
+| asshole | n. 混蛋 | Baird’s a zealot, maybe even an asshole, but our goals are aligned, aren’t they? |
+| blind spot | n. 盲区 | Nolan had always been her blind spot, but she felt the tingle of instinct. |
+| deep breath | n. 深呼吸 | Take a deep breath and release it slowly. |
+| wrong woman | n. 挑错的人 | Nolan had picked the wrong woman to kill. |
+| zealot | n. 狂热分子 | Baird’s a zealot, maybe even an asshole, but our goals are aligned, aren’t they? |
 
 ## 一句话总结
 

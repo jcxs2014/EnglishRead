@@ -10,7 +10,7 @@ modified: "2026-09-30"
 - **一句话概括**：Ren 带着丈夫上父亲的门，用一杯三十三年的单一麦芽把三个人按成同席；席上抛出 Eric Bennett 这个名字，父亲只用一句追问就把丈夫的心思拆穿。
 - **情感弧线位置**：门外的克制与排场 → 席间仪式化的亲和 → 提名字时的犹疑变成确信 → 结尾的威胁与安抚搅在一起
 - **Tropes 兑现/反转**：杀手世家的家规 · 「完美对象」的一句歧义 · 家族忠诚与已经出嫁的女儿
-- **人物弧线**：Ren 全程被两个男人夹在中间；她唯一一次被当成决策者，是父亲问完那句话之后她用沉默作答
+- **人物弧线**：Ren 全程被两个男人夹在中间；被当成决策者的一刻，是父亲问完那句话之后她用沉默作答
 - **叙事手法**：第三人称限知（Ren 视角），明线是喝酒与旧案插入，水面下是三个人对同一个名字的不同盘算；结尾用一句玩笑话把威胁说成家常
 
 ## 精读
@@ -41,13 +41,13 @@ modified: "2026-09-30"
 
 > **原句 3:** Nolan and her father had always possessed an easy rapport, but when Nolan reached the part where Baird had expressed reservations about their business relationship, her father tensed. His lips compressed into a thin line, and for several seconds that felt much longer, no one spoke.
 
-**中文理解**：Nolan 和她父亲一向处得融洽，可当 Nolan 讲到贝尔德对这门生意有所保留的那一段时，她父亲绷紧了。他的嘴唇抿成一条细线，有好几秒钟——感觉上远比几秒更长——谁也没说话。
+**中文理解**：Nolan 和她父亲一向处得融洽，可当 Nolan 讲到 Baird 对这门生意有所保留的那一段时，她父亲绷紧了。他的嘴唇抿成一条细线，有好几秒钟——感觉上远比几秒更长——谁也没说话。
 
 **关键词**：always possessed an easy rapport / her father tensed / lips compressed into a thin line / no one spoke
 
-**为什么这样写**：`but` 之前先给足铺垫，之后立刻用一个可观察的最小动作收账：`His lips compressed into a thin line` 是全场唯一能被看见的证据，台词之外的信息全压在这一条线上。随后 `for several seconds that felt much longer` 把客观时长和主观时长拆成两栏，读者被迫跟着一起等。
+**为什么这样写**：`but` 之前先给足铺垫，之后立刻用一个可观察的最小动作收账：`His lips compressed into a thin line`，台词之外作者只再给了这一个动作，全场的信息都压在这一条线上。随后 `for several seconds that felt much longer` 把客观时长和主观时长拆成两栏，读者被迫跟着一起等。
 
-**读者视角提示**：这一场的唯一信息就在那条抿紧的唇线上，而 Ren 这一次没有去读它。
+**读者视角提示**：这一场能被看见的信息都在那条抿紧的唇线上，而 Ren 没有去读它。
 
 ---
 
@@ -57,7 +57,7 @@ modified: "2026-09-30"
 
 **关键词**：face softened / touch the word cut in the heavy crystal / GRANDFATHER
 
-**为什么这样写**：杯子上刻的不是名字也不是祝酒词，是一个称谓；作者让老人去「摸」而不是「念」，说明这三个字对他不是称呼，而是一个承诺的对象。`softened` 出现在伸手之后——他的柔软是被人递了东西才发生的，这是本章他唯一一次先收下、后开口。
+**为什么这样写**：杯子上刻的不是名字也不是祝酒词，是一个称谓；作者让老人去「摸」而不是「念」，说明这三个字对他不是称呼，而是一个承诺的对象。`softened` 出现在伸手之后——他的柔软是被人递了东西才发生的——他在这一场里是先用动作回答、再用嘴说话。
 
 **读者视角提示**：读者会在这只杯子之后，把 Nolan 带来的那个纸袋重新想一遍：那不是随手带的伴手礼。
 
@@ -81,9 +81,9 @@ modified: "2026-09-30"
 
 **关键词**：eyes narrowed to slits / What do you mean by that
 
-**为什么这样写**：`eyes narrowed to slits` 与前一句的 `softened` 构成一对反写，同样只写眼睛，幅度却完全相反。老人抓住的是一个形容词：他把这个词原样重复一遍，再用追问把它从夸奖扭成另一种评价——这句之后，全场最危险的其实是被夸的那个人。
+**为什么这样写**：`eyes narrowed to slits` 与前一句的 `softened` 构成一对反写，同样只写眼睛，幅度却完全相反。老人抓住的是那个形容词：他不接受它已经被听成夸奖，直接要求把话说明白；作者随即把镜头切给 Ren 去找丈夫脸上的反应，而那里什么也没有。
 
-**读者视角提示**：读者此刻比 Ren 更清楚丈夫说的是什么——这也是这句反问可怕的地方：老人听懂的速度比她快。
+**读者视角提示**：读者会跟着这个反问回去重听那句夸奖：老人听懂的速度，比 Ren 快一拍。
 
 ---
 
@@ -98,6 +98,43 @@ modified: "2026-09-30"
 **读者视角提示**：读者要注意这一句既是对 Nolan 说的，也是对她说的：她父亲仍然把她算在这句话的射程里。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| reservations | n. 保留意见、顾虑 | Nolan and her father had always possessed an easy rapport, but when Nolan reached the part where Baird had expressed reservations about their business relationship, her father tensed. |
+| compressed | v. 收紧、抿成一条线 | His lips compressed into a thin line, and for several seconds that felt much longer, no one spoke. |
+| GRANDFATHER | n. 外公（此处是水晶杯上刻出的称谓） | Her father’s face softened as he reached out to touch the word cut in the heavy crystal: GRANDFATHER. |
+| incubating | v. 孕育（此处指腹中的孩子） | They were in this together, even if one of them couldn’t drink because she was incubating a human. |
+| strychnine | n. 番木鳖碱（剧毒） | Ren had suggested strychnine for that one—she wanted to see the hotel clerk and his two associates suffer—but her father had insisted he and Nolan take the lead. |
+| unrelenting | adj. 不放松的、不移开的 | Nolan leaned forward, meeting her father’s unrelenting gaze. |
+| malnourished | adj. 营养不良的 | That clerk who’d kept six malnourished and bruised girls sedated in a Seattle hotel room. |
+| surveillance | n. 监视、盯梢 | “I could do some surveillance,” she said. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| bungalow | n. 平房 | Anthony Petrovic lived on the west side of Los Angeles in a 1940s two-bedroom bungalow, painted an unremarkable gray with simple white trim and a dark blue door. |
+| retrieve | v. 取出、拿来 | Nolan pulled the stopper out of the bottle, then put his hand back in the bag to retrieve three glasses. |
+| engraved | v. 刻上（字样） | One was engraved. |
+| symbolic | adj. 象征性的 | Ren knew her pour was symbolic. |
+| Mirroring | v. 模仿（对方） | Ren recognized what he was doing: Mirroring her father. |
+| deference | n. 敬重、服从姿态 | Showing deference. |
+| careless | adj. 粗心不谨慎的 | Since Baird was careless with his passwords, it could’ve been anyone who’d been in his home. |
+| witnessed | v. 目睹 | True, the motive was shaky, but she’d witnessed enough evil to know it was often hidden. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| decanter | n. 醒酒瓶、玻璃酒瓶 | He reached into the bag and brought out a decanter filled with an amber liquid. |
+| easy rapport | n. 融洽默契 | Nolan and her father had always possessed an easy rapport, but when Nolan reached the part where Baird had expressed reservations about their business relationship, her father tensed. |
+| human traffickers | n. 人口贩卖者 | “The human traffickers. |
+| son-in-law | n. 女婿 | “As the son-in-law, he would’ve had access to Baird’s estate. |
+| unremarkable gray | n. 毫不起眼的灰色 | Anthony Petrovic lived on the west side of Los Angeles in a 1940s two-bedroom bungalow, painted an unremarkable gray with simple white trim and a dark blue door. |
+| youth minister | n. 青年会牧师 | The youth minister. |
 
 ## 一句话总结
 

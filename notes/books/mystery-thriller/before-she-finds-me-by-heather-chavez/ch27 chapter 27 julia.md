@@ -115,15 +115,42 @@ modified: "2026-09-30"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| increasingly | adv. 越来越 | While Julia was growing increasingly worried about Eric after seeing the talk online, she was also growing worried about how she’d bring it up. |
+| restaurant | n. 餐馆 | The last time she and Eric talked, she’d tripped him in a restaurant. |
+| Cautiously | adv. 小心地 | Cautiously, she approached. |
+| refrigerator | n. 冰箱 | For several seconds, she listened, but she heard only the soft ticking of the refrigerator. |
+| bruise-like | adj. 像淤青一样的 | He wore the past two days as thick stubble along his jaw and bruise-like smudges beneath his eyes. |
+| three-quarter-length | adj. 七分袖的 | After a minute, she found a blue shirt with three-quarter-length sleeves. |
+| overlooking | v. 忽略 | “I didn’t think…” His voice trailed off, as if overlooking that was an unimaginable failure. |
+| fingertips | n. 指尖 | He brushed his fingertips over the wrinkled fabric. |
+| reconciled | v. 和解 | “They’d been estranged for years, but they reconciled shortly after the wedding. |
+| implications | n. 含义／后果 | Eric seemed unaware of the implications of what he’d just said. |
+| Sharp-eyed | adj. 目光锐利的 | Sharp-eyed. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| sourdough | n. 酸种面包 | On her way, Julia stopped at the grocery store to pick up some seeded sourdough, a bottle of distilled water for the newly potted plant, and a large can of Eric’s favorite lentil soup. |
+| distilled | adj. 蒸馏的 | On her way, Julia stopped at the grocery store to pick up some seeded sourdough, a bottle of distilled water for the newly potted plant, and a large can of Eric’s favorite lentil soup. |
+| hangover | n. 宿醉 | Good hangover food. |
+| thumping | n. 砰砰的响动 | Then a loud thumping erupted from the back of the house. |
+| burrowed | v. 埋头钻进 | He burrowed into the pile. |
+| delicates | n. 贴身细软衣物 | Among the delicates was a teal blouse with three-quarter sleeves. |
+| forgotten | adj. 被遗忘的 | She pulled out the shirt, creased from its time forgotten in the dryer. |
+| estranged | adj. 断绝往来的 | “They’d been estranged for years, but they reconciled shortly after the wedding. |
+| supposed | adj. 原本该是 | It was supposed to mean better things for us. |
+| mattress | n. 床垫 | He planted both palms on the mattress to steady himself, but even then he nearly toppled as he stood. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
+|---|---|---|
+| belated honeymoon | n. 补办的蜜月 | “A few months ago, we were planning a belated honeymoon. |
+| grocery bag | n. 食品杂货袋 | Seeing nothing amiss, she closed the door behind her, then set her grocery bag on the kitchen counter. |
+| laundry hamper | n. 洗衣篮 | He emptied a laundry hamper on the bed and tossed it aside. |
+| teal blouse | n. 蓝绿色女衫 | Among the delicates was a teal blouse with three-quarter sleeves. |
+| wrinkled fabric | n. 起皱的布料 | He brushed his fingertips over the wrinkled fabric. |
 
 ## 一句话总结
 
