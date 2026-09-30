@@ -119,6 +119,41 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| this-is-of-no-relevance-to-me | （与我无关的）礼貌脸 | At first his face was completely neutral: friendly, this-is-of-no-relevance-to-me polite. |
+| inappropriately | （不合时宜地）冒出 | The cheery phrase popped inappropriately into her head. |
+| fabricated | （连名字都是）编的 | As if your name could not be fabricated, even though you could fabricate your personality, fabricate your attention. |
+| tablecloth | （浆白的）桌布 | White starched tablecloth. |
+| underwater | （深水下般的）轰鸣 | There was a hollow roaring sensation in her ears, as though she were deep underwater. |
+| dismissing | （眼都不抬地）打发 | Jane watched Perry turn away from her to look at his wife, instantly dismissing her without even bothering to remember or acknowledge her. |
+| pornography | 色情（消费） | Jane was pornography. |
+| viscerally | （生理性地）应激 | Over the years that followed, she reacted viscerally to the words “Pirriwee Peninsula” in conversation or in print. |
+| preposterous | 荒唐透顶 | It was preposterous and embarrassing. |
+| imperceptible | （几不可察的）耸肩 | The almost imperceptible shrug that said Who cares about her? |
+| infidelity | （普通的）婚外情 | He thought this was about infidelity. |
+| garden-variety | （最常见款的）风流案 | He thought he’d been caught out in a garden-variety business-executive-goes-on-an-interstate-trip one-night stand. |
+| instinctively | （本能）抬起 | Perry’s right hand rose instantly, instinctively, gracefully. |
+| exhilarating | （痛快得）离奇 | It was strangely exhilarating to hear that guttural, angry voice coming out of Bonnie’s mouth. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| dredging | （打捞）记忆 | But when she said “Saxon Banks” there was a flicker, not because he recognized her, he still had no idea, couldn’t even be bothered to go to the effort of dredging up the appropriate memory, but because he understood who she must be, what she represented. |
+| starched | 浆洗挺括的（桌布） | White starched tablecloth. |
+| yearning | （渴望的）悲意 | She’d seen something on his face: a sadness, a desperate sort of yearning, and she had thought, in all her idiotic naivety, that she knew exactly what that sadness indicated. |
+| practiced | （练熟的）弧线 | His hand curved in a perfect, practiced, brutal arc that flung back her head and sent her body flying across the balcony where she fell, clumsily and hard on her side. |
+| shattered | （摔碎的）杯子 | Jane’s glass had slipped from her fingers and shattered at her feet. |
+| guttural | （砂纸般的）嗓音 | It was strangely exhilarating to hear that guttural, angry voice coming out of Bonnie’s mouth. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+
 ## 一句话总结
 
 名字落地后的一切都在坠——他把 Jane 归档为「其中之一」，香蕉冰棍的旧把戏在 Celeste 的记忆里归位，「以防万一你在这儿」交出了搬家的真名；一记练熟的弧线把她甩过阳台，Bonnie 的「我们他妈看得见」双掌推上他的胸口——He fell：全书七十六章，收在这三个字上。
