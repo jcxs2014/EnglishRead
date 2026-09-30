@@ -151,7 +151,7 @@ modified: "2026-09-30"
 | the cafeteria | 学校食堂 | Ali and I walked into the cafeteria |
 | library lunches | 在图书馆吃午饭 | we decided to spend our library lunches working our way through the most pretentious books we could find. |
 | junior year | 高二（美国中学四年级） | ON THE FIRST DAY OF junior year |
-| surreal |  surreal（超现实的；此处形容那部小说读起来的感觉） | “It’s very—surreal,” she says, waving her SunButter sandwich around the room as if to demonstrate |
+| surreal | 超现实的；飘忽不定的（此处形容那本小说的读感） | “It’s very—surreal,” she says, waving her SunButter sandwich around the room as if to demonstrate |
 | a family of sick badgers | 一窝生病的獾（Ali 形容 Gordon Walmsley 的比喻） | she was like, “It smells like a yeast factory run by a family of sick badgers,” |
 | it’s your tell | 那是你的习惯动作／破绽 | “It’s your tell.” |
 
