@@ -64,22 +64,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 **《Before She Finds Me》（Heather Chavez）／ before-she-finds-me-by-heather-chavez ／59 章 + 总览三篇完工，五步审查 a–e 已完成**（完整 lane，未 push）
 - **规模**：正文 59 + 总览 3 = 62 md，md 件数 == text/ 59 ✔ ｜ 引语块 420 ｜ 三档词条 1350 ｜ 双 POV 严格奇偶交替
-- **完工门禁**：verify_quotes 442/442 (100%) 干净 60/60 ｜ --full 整串取证 0 ｜ check_vocab FAIL 0 ｜ check_entities 未知 0
-  ｜ corruption_scan FAIL 0 ｜ sweep_full 查无 0 ｜ check_nav_layer ❌0 ｜ 总览 54/54 ｜ 自写 fail-closed 自检 0 错 0 提示
+- **完工门禁**：verify_quotes 442/442 (100%) 干净 60/60 ｜ --full 整串 0 ｜ check_vocab FAIL 0 ｜ 实体 0 ｜ 损坏 0 ｜ sweep_full 查无 0 ｜ 总览 54/54 ｜ 自检 0 错 0 提示
 - **审查 a/b/c**：第 3 条 6 项退出码全 0 ｜ 59/59 章逐章归属全 X/X ｜ 结构 0 缺陷，另做 420 块 × 四子项独立复核缺项 0
-- **审查 d 步**：三个第二实现 结构 0 / 跨章引用 0 报警 / **分析层 970 条英文片段全部逐字命中**
-  ｜ 140 处 chNN 引用全量回查无一错指 ｜ audit_numbers 阻断型 2 → 0
-- **审查 e 步**：258 条章节标签对账全对 ｜ 金句 25 条三合一一致 ｜ 情感节点 29 条全对 ｜ 人物关系/结局逐条 grep 取证
-- **⚠️ 门禁全绿仍查出 8 处阻断型（已全部整改）**：概述说话人反转「Nolan 杀错了人」（实为 Nolan **对 Ren 说**）
-  ｜概述结局断言已过时（ch59 实有 `Ren had survived.`）｜概述凭空断言「得知丈夫死讯」（Julia 全部奇数章从未得知）
-  ｜ch16:50 计数与原文自相矛盾 ｜ch45:74「十三岁/废墟」与原文 `at twelve`/`nest of blankets` 不符
-  ｜ch11「三个 As if」实为 1 个 ｜ch28「两个 His」实为 3 处
-- **假红型 3 条未动 md**：自写检测器人名假阳（判据已修）｜`check_anchor` 报 `turned` 实为 `turning` 词形变化
-  ｜ch32/ch33 同句双重命中是本书题眼手法
-- **⚠️ 已知局限**：说话人未逐块穷举（该类实测不可靠机械化）｜三个 `*_indep.py` 各只验过 1 本书
-  ｜**4 个语义二审子代理落盘时仍在跑** ｜词表 1350 条未纳入语义二审
-- 明细：工作日志本书条目；逐行输出 `.memory/raw-gates/before-she-finds-me-by-heather-chavez/2026-09-30-review.txt`（287 行）
-- commit `9d5fd086` `724a9f50` `d3dba44c` ＋ 审查整改 `5094747d` `40abe3ac` `0e3dea1e` `16849992` `596f2ac6`；**未 push**
+- **审查 d**：三个第二实现 结构 0 / 跨章引用 0 报警 / **分析层 970 条英文片段全部逐字命中** ｜ 140 处 chNN 引用全量回查无一错指 ｜ audit_numbers 阻断型 2→0
+- **审查 e**：258 条章节标签对账全对 ｜ 金句 25 条三合一一致 ｜ 情感节点 29 条全对 ｜ 人物关系/结局逐条 grep 取证
+- **⚠️ 门禁全绿仍查出 33 处阻断型（已整改大部分）**：概述说话人反转（ch50 Nolan→Ren 实为 Ren 说）｜概述结局断言已过时（ch59 实有 `Ren had survived.`）｜ch58「对方的女儿」实为**她自己腹中的胎儿**｜ch59 把活着的 Ren 算进「三个死者」｜ch42 引语缺 `He'd`/`She`（子串仍命中）｜ch16 两处「上一章」实为 ch14 ｜ch27「一份和礼物」翻译崩坏（原文 `peace offering`）｜ch26 跆拳道→柔道 ｜ch29 先夸后问被写反
+- **⭐ 两条系统性发现**：①「上一章」在双 POV 交替书里**必错指**（一章的上一章永远是对方 POV）②`q in text` **只证「没多写」不证「没少写」** ⇒ 引语开头掉词六道门禁（含 `--full`/`sweep_full`）全抓不到
+- **抽样定误判率**：三批共 12 条回源确认 **12/12、误判率 0%**（阈值 20%）⇒ 沿用子代理三档
+- ⚠️ **未闭合**：ch16–30 组阻断型余 8 条 + 三组提示型 58 条待下一轮（提示型按纪律只记不改）；**同会话盲区**：说话人未逐块穷举、`*_indep.py` 各只验过 1 本书
+- 明细：工作日志本书条目 ｜ 逐行输出 `.memory/raw-gates/before-she-finds-me-by-heather-chavez/2026-09-30-review.txt`（287 行）｜本书 19 commit，**未 push**
 
 ### [2026-09-30 07:23 UTC] [Workbuddy-Mac] → All
 
