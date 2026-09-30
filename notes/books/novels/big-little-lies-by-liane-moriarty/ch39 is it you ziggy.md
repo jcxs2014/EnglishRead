@@ -93,8 +93,18 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| mid-autumn | 深秋 | It was mid-autumn, so tomorrow could easily be beautiful and sunny again, but today the beach was virtually deserted. |
 | contemplate | 细想、不堪设想 | It was too awful to contemplate. |
 
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| building | 堆（沙堡） | They were on the beach, building a sand castle out of cold sand. |
 | virtually | 几乎（完全） | It was mid-autumn, so tomorrow could easily be beautiful and sunny again, but today the beach was virtually deserted. |
 | deserted | 空无一人的 | It was mid-autumn, so tomorrow could easily be beautiful and sunny again, but today the beach was virtually deserted. |
 | fountains | （浪花的）喷泉 | White water churned and bubbled as if it were boiling and spat up crazy fountains of spray into the air. |
