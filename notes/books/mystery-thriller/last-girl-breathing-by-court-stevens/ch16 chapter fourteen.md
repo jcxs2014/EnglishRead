@@ -50,9 +50,9 @@ modified: "2026-10-01"
 - **为什么这样写**：compartment（舱室）借自飞机与潜艇的意象——能塞东西、能暂时封闭；而 on another planet 把它推得足够远，远到可以当下不管。down and in 两个方向副词一收，把整套自我安慰的动作写成一个往下按的手势。
 - **读者视角提示**：这是全书对「用力不当回事」最具体的描写；而下一行她仍然按流程呼吸（Blue whale breath），说明这套办法是有工序的。
 
-> **原句 6:** He shakes his head at Owl and pulls out two fingers.
+> **原句 6:** He shakes his head at Owl and flashes two fingers.
 
-- **中文理解**：（原文为：The officer bent over in the blind rises up and does his best to keep a neutral expression. He shakes his head at Owl and flashes two fingers.）
+- **中文理解**：「他朝 Owl 摇了摇头，亮出两根手指。」
 - **关键词**：keep a neutral expression · shakes his head at Owl · flashes two fingers
 - **为什么这样写**：全章最重的信息不走语言，走三个动作：先是中性表情（专业训练），再是摇头（不是 Astrid），最后是两根手指（是两个）。而这个手势只发给 Owl 一个知情者；山脊上的几十号人只看见他站起来——这正是 Lucy 感到寒冷的原因。
 - **读者视角提示**：两根手指把单人案变成复数案；Neil 那句没说完的「如果那是 Astrid」在下一句被这两根手指接住。
