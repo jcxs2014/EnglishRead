@@ -70,7 +70,7 @@ modified: "2026-09-30"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| disorderly | 扰乱秩序的（conduct = 行为） | Disorderly conduct it is, then, they said. |
+| Disorderly | 扰乱秩序的（conduct = 行为） | Disorderly conduct it is, then, they said. |
 | counsellor | 心理咨询师（英式拼写，双 l） | I’ve got a counsellor called Mike, who listens to what I’ve been doing. |
 | accommodation | 住处；此处指庇护性住所 | I’ve moved away from Malbry into some sheltered accommodation in Leeds. |
 | speckled | 布满斑点的；墓碑上嵌的亮石 | Just that piece of stone, all speckled with pieces of shiny stuff, reflecting my face like a mirrorball. |

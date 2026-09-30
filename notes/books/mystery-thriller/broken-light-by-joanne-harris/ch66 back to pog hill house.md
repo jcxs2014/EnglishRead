@@ -113,7 +113,7 @@ modified: "2026-09-30"
 | prominent | 突出的、显眼的；此处说颧骨 | Otherwise, he looked startlingly similar: grey eyes under small wire glasses, prominent cheekbones, wry mouth. |
 | stalking | 跟踪（骚扰的一种） | They told me he’d admitted to stalking me on campus. |
 | infraction | 违规行为；此处指违反释放条件 | He wasn’t prosecuted, but the conditions of his release after the fire at his foster home meant that even a small infraction could mean serious trouble for Adam. |
-| ceremonies | 司仪；主持（此处作主语） | Lucas was Master of Ceremonies. |
+| Ceremonies | 司仪；主持（此处作主语） | Lucas was Master of Ceremonies. |
 | well-spent | 过得值当的；此处说那身发福是生活过得不错的迹象 | It feels like the sign of a life well-spent. |
 
 ### ⭐ 基础

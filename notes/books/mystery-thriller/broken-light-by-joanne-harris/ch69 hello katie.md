@@ -31,7 +31,7 @@ modified: "2026-09-30"
 
 **中文理解**： 过去一年左右她一直有不规则出血，可最近三四个月完全没有来潮。对某些人来说这算解脱，但那些症状她认得：那种绞痛，那身让她的金属长裙紧到难受的浮肿，连嗓音里的变化也一样。真是他妈的绝妙时机。
 
-**关键词**： irregular bleeding · no flow at all · the lamé dress feel so tight · What fucking perfect timing
+**关键词**： irregular bleeding · no flow at all · my lamé dress feel so tight · What fucking perfect timing
 
 **为什么这样写**： 前半把身体写成一份她熟悉到可以默背的症状清单，后半用一句粗口把它拉回当下；最后那句把生理时钟和舞台时间硬撞在一起——她在自己身体里感到讽刺，而不是在别人身上。
 
