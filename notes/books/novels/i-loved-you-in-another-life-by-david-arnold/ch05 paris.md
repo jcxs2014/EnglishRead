@@ -95,11 +95,11 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 7:** “Ç’est de la folie,” said the man.
+> **原句 7:** “Oui,” said Étienne, sitting in the man’s chair, placing his hand on the table. “Une folie à deux.”
 
-**中文理解**：「这是疯狂，」那男人说。「是，」Étienne 说，坐进那人的椅子，把手放在桌上。「两个人的疯狂。」
+**中文理解**：「是，」Étienne 说，坐进那人的椅子，把手放在桌上。「两个人的疯狂。」
 
-**关键词**： Ç’est de la folie（这是疯狂，法语塞音字母 Ç）；Une folie à deux（两个人的疯狂）
+**关键词**： sitting in the man’s chair（坐进那人的椅子）；placing his hand on the table（把手放在桌上）；Une folie à deux（两个人的疯狂）
 
 **为什么这样写**： 决定两个人一起纹同一只鸟时，作者让那个「行刺式纹身的匠人」先说这是疯狂（de la folie），再让 Étienne 回答：既是疯狂——但这是两个人的疯狂（à deux）。这句法语回应是全书最漂亮的一次语言运用：folie（疯狂）被加了个 à deux（两个人），于是「一件疯狂的事」被改写成「两个人的爱情」。而 Étienne 说话时坐在匠人的椅子上、手放在桌上——他坐进了执行者的位置，暗示这不是她一个人的事。
 

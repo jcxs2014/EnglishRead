@@ -87,7 +87,7 @@ modified: "2026-09-30"
 
 **中文理解**： 概率低、不合逻辑，恰恰就是灾难之所以成为灾难的原因。所以，尽管我很愿意活在一个「追求自己的梦想不会伤害我最爱的人」的世界里，可我正忙着活在一个充满可能性的世界里。
 
-**关键词**： Improbable illogicality（不合逻辑的低概率）；the pursuit of one’s dream（追求梦想）；possibilities（可能性）
+**关键词**： Improbable illogicality（不合逻辑的低概率）；the pursuit of my own dream（追求我自己的梦想）；possibilities（可能性）
 
 **为什么这样写**： 作者把 Evan 的整套推演拧成一句自嘲的悖论：正因那些事几乎不可能发生，才必须把它们全部想到（If plane crashes were probable, no one would ever fly）。这句是 Evan 智力上的顶点——他不是在辩解，他是在证明自己的恐惧是理性的，而证明的方式是承认恐惧不理性。这个转折让读者第一次对他的态度发生变化：从「他在为自己开脱」到「他在自己骗自己」。
 
@@ -99,7 +99,7 @@ modified: "2026-09-30"
 
 **中文理解**：我认为，因为怕一件事成不了就提前把它关掉，这是人之常情，但这不能让这件事变成对的。
 
-**关键词**： preemptively（预先地）；shutting something down（提前关停）；not lesser（不是更差）
+**关键词**： preemptively（预防性地）；shutting something down（提前关停）；doesn’t make it right（这并不能让它变成对的）
 
 **为什么这样写**： Ali 全书第一次不是拆穿、而是下判断，而且她用的句式是「这很自然，但这不对」——先把 Evan 从道德指责里放出来，再放回他自己面前。而后半句（让你弟弟的爱把你变得更好，而不是更差）精确对准了 Evan 全书的病症：他把 Will 当作不走的**理由**（留在家里照顾他），Ali 告诉他那是**动力**（因为他爱弟弟所以他该变好）。作者用 better / lesser 这一对反义词，把 Evan 的整个自我叙事翻了个面。
 

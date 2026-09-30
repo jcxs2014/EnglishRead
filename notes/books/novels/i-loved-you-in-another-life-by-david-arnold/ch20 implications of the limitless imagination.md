@@ -67,7 +67,7 @@ modified: "2026-09-30"
 
 **为什么这样写**： 这是全章的论点句，而它的结构是「让步 + 翻转」：先承认你说的不是全错（你不必挂勋章），再把你的立场改成一件需要重新考虑的事（挂勋章的人也许有自己的理由），最后用一句几乎像格言的短句收尾。这不是反驳，这是把 Evan 从「审判者」的位置上请下来——他此前一直在评判别人（Heather 公开谈论治疗、Ali 追着他问、妈妈深夜独自去检查），而 Maya 把这些行为统一成同一个动机的不同版本。
 
-**读者视角提示**： Some people need a badge 这句在 ch14 里 Evan 自己的台词是 I’m not here so I can get drunk at parties and talk about how I have a therapist too. Like it’s a badge of honor.——同一枚勋章，本章由 Evan 戴、由 Maya 解释，最后会交到另一个完全不相干的人手上。
+**读者视角提示**： Some people need a badge 这句与前一句都出自本章同一场对话：Evan 说自己喝酒是为了能说出「我也有个治疗师」，像戴一枚勋章，而 Maya 的回应是 People like us make things（我们这种人造东西）。——同一枚勋章由 Evan 戴上、由 Maya 解释它的用途。
 
 ---
 
