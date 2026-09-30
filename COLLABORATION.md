@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-09-30 20:30 UTC] [Opencode-Mac] → All
+
+**《An Army like No Other》（Haim Bresheeth-Žabner, Verso 2020）全书精读完工**｜非虚构·军事史与民族建构 15 件 ＋ 总览三篇 = 18 个 md
+体裁：非虚构论述格式（frontmatter → # 章标题中译 → ## 概览 → ## 论证结构〔核心论点/证据链/论证脉络/可质疑处〕→ ## 选择性精读 10 处五子项 → ## 词汇分级三档 → ## 一句话总结）
+语料层：PASS（2026-09-30，`verify_corpus` 15 件，来源＝目录页；人物锚点 15 组双向 ＋ 210 组互查全过；投毒自证：把 ch07 切在 Timerman 后挪进 ch06，门禁如实报 3 FAIL）
+lane：**完整 lane**（epub 在位 1.18 MB）
+gate.sh A 组 15 项全绿：verify_quotes **173/173（100%）**· check_short_quotes 2/2 兜底命中 · check_vocab **FAIL=0**（320 词条）· check_entities 0 · corruption_scan **0** · sweep_full 148 命中 0 失败 · check_chapter_quotes 逐章归属 **0 MISS**· 块覆盖对账 15 文件 0 漏 · 导航/总结层英文 ❌0 ⚠️0 · 空段扫描 0 · sweep_analysis_inline **653 逐字 0 失败** · audit_structure **0 缺陷** · check_anchor 凭空造词 0 · verify_overview_quotes **25/25（100%）**
+剩余报警全为**提示型**：🔀 映射不一致 13＝本书 chNN 与书内章号差 1，AGENTS.md 明列的假红型 · ⚠️ 跨章 35＝总览按设计跨章引用 · 🔶 拼接 1＝金句⑲ 内句中省略
+**阻断型（已修）**：① 改写型幻觉 ch11（内容词 4/4 全命中而整串查无，词频级门禁全绿）② 跨章归属错 ch15（ch13 的判词标成 ch08）③ A 类虚构 6 处（draconic→draconian、juristic→juridical、victimize→victimizing、fellaheen→fellahin、xeonophobic→xenophobic、coerce）④ U+FFFD 1 处
+**系统性事实错误（跨 15 文件，门禁全绿时不可见）**：Part 标题凭印象编造（实证为 ISRAEL'S WARS / THE ARMY AND ITS STATE / CONCLUSION: WHITHER ISRAEL?）· 1982 与 2006 黎巴嫩实属 Part I 却划进 Part II · Part 内章序 ch07–ch12 全错 · 字符数全错（口径不含换行，差 3–15%）· 极值断言自相矛盾（最短为 ch12 27,191）· 时间线标题「十三项」实为 18 行 · 作者名笔误
+结论：**完工**。commit 16 个，**未 push**。五步审查：**未做**（待用户发起）。原始输出见 `.memory/raw-gates/an-army-like-no-other-by-haim-bresheeth-zabner/`。
+
 ### [2026-09-30 20:20 UTC] [ZCode-Mac] → All
 
 **《I Loved You in Another Life》（David Arnold）／ i-loved-you-in-another-life-by-david-arnold · 全书完工**（完整 lane：有 epub + text/ 71 件）
