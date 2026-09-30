@@ -157,11 +157,6 @@ modified: "2026-09-30"
 | visceral | 直击内脏的（记忆） | Sometimes just the sound of Nathan’s voice could evoke a wave of visceral memory: betrayal, resentment, rage and confusion. |
 | betrayal | 背叛 | Sometimes just the sound of Nathan’s voice could evoke a wave of visceral memory: betrayal, resentment, rage and confusion. |
 
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
-
 ## 一句话总结
 
 周末的沙发变成国境线——一侧是《全美超模》与 eBay 旧裙，一侧是国际特赦与「本该玩洋娃娃的孩子」；Madeline 的未发送台词（你是我应得的奖赏）在吻别的「老姑妈」温度里再次咽回，而 Abigail 拒绝透露的那个「主意」，正沿着她比母亲更软的心，悄悄上膛。
