@@ -150,9 +150,9 @@ modified: "2026-09-30"
 |---|---|---|
 | the cafeteria | 学校食堂 | Ali and I walked into the cafeteria |
 | library lunches | 在图书馆吃午饭 | we decided to spend our library lunches working our way through the most pretentious books we could find. |
-| finger lickin’ good | 美味到舔手指（口语） | —finger lickin’ good, apparently |
-| a ziploc bag | 一个密封袋 | one ziploc bag at a time |
+| junior year | 高二（美国中学四年级） | ON THE FIRST DAY OF junior year |
+| surreal |  surreal（超现实的；此处形容那部小说读起来的感觉） | “It’s very—surreal,” she says, waving her SunButter sandwich around the room as if to demonstrate |
+| a family of sick badgers | 一窝生病的獾（Ali 形容 Gordon Walmsley 的比喻） | she was like, “It smells like a yeast factory run by a family of sick badgers,” |
 | it’s your tell | 那是你的习惯动作／破绽 | “It’s your tell.” |
-| chocolate chip cookie dough | 巧克力豆曲奇面团 | with chocolate chip cookie dough |
 
 ## 一句话总结**： Evan 和 Ali 用一本谁都读不完的书标记他们的友谊，也用一个八岁孩子吹响的折叠刀标记它的来路；而当她靠一个撩头发的动作追到他藏着的秘密时，他仍然只肯交出那个不是秘密的那一件。
