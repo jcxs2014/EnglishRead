@@ -79,7 +79,7 @@ modified: "2026-10-01"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | nonsensically | （不合理地、荒唐地） | He refuses and the amount grows nonsensically. |
-| imperceptible | （缓慢到）无法察觉的 | They’re hoping to create slow, imperceptible damage that will eventually cause this dam will fail. |
+| imperceptible | （缓慢到）无法察觉的 | They’re hoping to create slow, imperceptible damage that will eventually cause this dam to fail. |
 | assessments | （财产）评估报告 | Multiple property assessments are included. |
 | installation | 安装 | Two hundred fifty thousand dollars upon installation. |
 | resignation | 辞职（书） | The fourth and final document is Robert’s resignation from Tamerlane. |
