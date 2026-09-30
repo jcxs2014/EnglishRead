@@ -19,7 +19,7 @@ modified: "2026-10-01"
 
 - **中文理解**：卧室里乱作一团。我躺在地板上，拼命忍着不要当场尿出来。我用尽全部力气撑起身子，一寸寸爬向洗手间。
 - **关键词**：in disarray（乱作一团）／fighting the urge（拼命忍着一个念头）／prop myself up（撑起身体）／crawl（爬行）
-- **为什么这样写**：闪回不解释，直接从最难堪的身体状态切入。"fighting the urge not to pee myself"（忍着不让自己尿出来）是她自己都压不住的窘迫，而 "With all my strength"（用尽全部力气）说明她连翻身的力气都没有——地板到这里已经不只是难看的背景，是她当时处境的刻度。作者让她写"爬"而不是写"扶墙走"，一个动词就把尊严削掉了。这一段没有任何一个词提到原因，读者只能靠下一段那个字面意义上的 "treasure" 自己去拼。
+- **为什么这样写**：闪回不解释，直接从最难堪的身体状态切入。"fighting the urge not to pee myself"（忍着不让自己尿出来）是她自己都压不住的窘迫，而 "With all my strength"（用尽全部力气）说明她连翻身的力气都没有——地板到这里已经不只是难看的背景，是她当时处境的刻度。紧接着她写的是 "I take the doorknob and push myself up"（我抓住门把手把自己撑起来）——连站起来都要借门把手，一个细节就把尊严削掉了。这一段没有任何一个词提到原因，读者只能靠下一段那个字面意义上的 "treasure" 自己去拼。
 - **读者视角提示**：留意卧室"乱"的原因本章没交代——是这一天弄乱的，还是本来就乱。
 
 > **原句 2:** Seconds later, Jimmy comes to the bedroom, holding treasure in his hands. I hear a sigh coming out of him, and then the steps approaching the bed.

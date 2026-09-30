@@ -8,9 +8,9 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **一句话概括**：她打电话给二十五年前那位心理医生 Dr. Walker 预约复诊，因为无法向警察说明自己没证据；医生听完花、巫毒娃娃和五百万，只回她一句"你仍在婚姻里？"，最后建议她想想会不会是丈夫在跟她开玩笑。
-- **情感弧线位置**：从求助的微弱希望（"a dash of hope"）滑到被专业否定的空落，再被结尾那记冷不丁的建议重新推高——这一章是外部恐吓第一次被一个有资质的第三方正式命名。
+- **情感弧线位置**：从求助的微弱希望（"a dash of hope"）滑到被专业否定的空落，再被结尾那记冷不丁的建议重新推高——台阶上那个娃娃这件事，到这里才第一次被一个有专业资格的人完整听了一遍，并且拿到了一个名字：paranoia（偏执）。
 - **线索结构**：把第 13 章的恐吓事件完整复述一遍（花、娃娃、报警、Jimmy 说"邻居家小孩"、他不愿去上班），并首次给出金额这一变量；"paranoia"（偏执）在这里被下了定义，是往后每一章怀疑的公共标尺。
-- **人物弧线**：Lynn 从"我要一个答案"退到"我只是想把心放平"——她进来时想证明自己在被跟踪，出来时被劝去怀疑自己的判断；她接受了，因为对方问的那句"你们还结婚吗"她答得最慢。
+- **人物弧线**：Lynn 从"我要一个答案"退到"我只是想把心放平"——她进来时想证明自己在被跟踪，出来时被劝去怀疑自己的判断；她接受了，因为对方问到"你们还结婚吗"时，她只答了 "I am."（是的）两个字——整场谈话最短的一次作答。
 - **叙事手法**：以"同一栋楼、不同颜色"的时间对照开场，中间插进她旧日坐过的金属腿椅子；她向医生复述警方的沉默，医生回给她一个词的定义；结尾由医生主动抛出那个最危险的假设，视角不落在她的反应上。
 
 ## 精读
@@ -26,7 +26,7 @@ modified: "2026-10-01"
 
 - **中文理解**：运气不错，她明天上午十一点有空，我心里升起一小撮希望，觉得解脱就要来了。再说 Jimmy 那时候在上班，我就不必跟他报备我的行踪了。
 - **关键词**：opening（空档，预约机会）／a dash of hope（一小撮希望）／clear my whereabouts（报备行踪）
-- **为什么这样写**：希望被她自己压得极小——"a dash"（一小撮）而不是 a wave（一股），这个词本身就说明她不敢期待。而 "Plus"（再者）后面跟的那句才是全段真正的信息：她需要的不是一个疗程，是一段不必向丈夫交代的时间。"clear my whereabouts"（报备行踪）把婚姻里的日常写成了一道手续——她出门要报备，这件事她在第一章的闪回里做过一次（Jimmy 出门前的那番盘问），在这里又以动词形式出现。读者可以据此量出这二十五年的距离。
+- **为什么这样写**：希望被她自己压得极小——"a dash"（一小撮）而不是 a wave（一股），这个词本身就说明她不敢期待。而 "Plus"（再者）后面跟的那句才是全段真正的信息：她需要的不是一个疗程，是一段不必向丈夫交代的时间。"clear my whereabouts"（报备行踪）把婚姻里的日常写成了一道手续——她要见医生这件事，前提是丈夫在上班；连出门这个动作都得先算好他的班表。读者可以据此量出这二十五年的距离。
 - **读者视角提示**：注意她在最脆弱的处境下才敢为自己争取这么一小块时间。
 
 > **原句 3:** All those therapy sessions still didn’t bring my guilt to a manageable level. Dr. Walker probably considered me a hopeless case, and she’d encouraged me to continue my healing journey, but what was the point? I was just throwing money on co-payments, the money that I could use for tough days, when Jimmy unleashed his fury and refused to pay rent.
@@ -54,7 +54,7 @@ modified: "2026-10-01"
 
 - **中文理解**：我打了。但我好像没拿出够硬的证据，所以他们就把我的电话挂了。我这么说。我们这一带算是安全的，所以我在想，我会不会只是在疑神疑鬼。今天来就是为了把心放平，把话说开。
 - **关键词**：strong enough case（够硬的证据／够格的案子）／hung up on me（把电话挂了我）／being paranoid（疑神疑鬼）
-- **为什么这样写**：这是她第一次对第三方复述第 13 章那次报警——注意措辞的漂移：原来是她对着接线员说"I think I'm in trouble"（我觉得我有麻烦），现在变成了 "they hung up on me"（他们把我挂了）。她把没得到回应改写成了自己被挂断，主语从"我"移到了"他们"。接下来一句更要紧：她主动替对方说话了——"so I wonder if I'm just being paranoid"（所以我想我可能只是在疑神疑鬼）。Dr. Walker 还没下诊断，她已经先替对方诊断了。
+- **为什么这样写**：这是第 13 章那次报警被复述给第三方听——注意措辞的漂移：原来是她对着接线员说"I think I'm in trouble"（我觉得我有麻烦），现在变成了 "they hung up on me"（他们把我挂了）。她把没得到回应改写成了自己被挂断，主语从"我"移到了"他们"。接下来一句更要紧：她主动替对方说话了——"so I wonder if I'm just being paranoid"（所以我想我可能只是在疑神疑鬼）。Dr. Walker 还没下诊断，她已经先替对方诊断了。
 - **读者视角提示**：留意 "relatively safe"（相对安全）这个限定——她自己也知道这条路走不通，所以才来。
 
 > **原句 7:** She spends several minutes explaining the definition of paranoia, and I think it fits the bill. Suspicion or mistrust of people or their actions without evidence or justification.
