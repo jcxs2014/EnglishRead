@@ -1,0 +1,54 @@
+=== 语料层验收（P0-0）: an-army-like-no-other-by-haim-bresheeth-zabner ===
+text/ 件数: 15
+  [1] 件数 15 == 预期 15  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 15 组 / 互查 210 组  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (502 句)
+      首| An Army like No Other: How the Israel Defense Forces Made a Nation
+      末| The bottom line of this analysis is the need for international action on the scale and of the qu
+    ch02 (648 句)
+      首| An Army like No Other: How the Israel Defense Forces Made a Nation
+      末| This was true even before 1948 but it intensified in the decades that followed, as the new natio
+    ch03 (395 句)
+      首| An Army like No Other: How the Israel Defense Forces Made a Nation
+      末| The methods employed are explored in the following chapters.
+    ch04 (402 句)
+      首| An Army like No Other: How the Israel Defense Forces Made a Nation
+      末| On the day Israel was forced to withdraw from Sinai, it began to prepare for the 1967 war, an ev
+    ch05 (460 句)
+      首| An Army like No Other: How the Israel Defense Forces Made a Nation
+      末| On these foundations the New (Zionist) Jerusalem was built.
+    ch06 (293 句)
+      首| An Army like No Other: How the Israel Defense Forces Made a Nation
+      末| It was not at all clear that this phase of the conflict would prove easier for Israel, either mi
+    ch07 (410 句)
+      首| An Army like No Other: How the Israel Defense Forces Made a Nation
+      末| The Begin–Sharon war in 1982 played a crucial role in enabling the new Israel, so accurately for
+    ch08 (351 句)
+      首| An Army like No Other: How the Israel Defense Forces Made a Nation
+      末| To have this strong military and political partner supporting Israel in anything it may wish to 
+    ch09 (197 句)
+      首| An Army like No Other: How the Israel Defense Forces Made a Nation
+      末| One certainly hopes to be proven wrong.
+    ch10 (280 句)
+      首| An Army like No Other: How the Israel Defense Forces Made a Nation
+      末| While Obama was visibly troubled as he supported Israeli infractions, Trump is visibly elated to
+    ch11 (375 句)
+      首| An Army like No Other: How the Israel Defense Forces Made a Nation
+      末| They are totally unlikely to be replaced by peaceful and nonconflictual policies and industries 
+    ch12 (171 句)
+      首| An Army like No Other: How the Israel Defense Forces Made a Nation
+      末| We know from other arenas of mass murder that without dehumanization of the victims, it is not p
+    ch13 (354 句)
+      首| An Army like No Other: How the Israel Defense Forces Made a Nation
+      末| If this insight is important elsewhere, it is much more crucial when looking at Israeli society 
+    ch14 (244 句)
+      首| An Army like No Other: How the Israel Defense Forces Made a Nation
+      末| This may become an important lever to change the situation in Palestine.
+    ch15 (228 句)
+      首| An Army like No Other: How the Israel Defense Forces Made a Nation
+      末| With Israeli society more inclined than ever to inflict lethal damage on the Palestinians and th
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
