@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 **关键词**：If you’ve taken part in the planning or the killing / you should take part in the cleanup
 
-**为什么这样写**：整条规矩只有一个句子，靠 `If you’ve taken part in the planning or the killing` 与 `you should take part in the cleanup` 的对仗把「不许逃避」写成因果：参与过就要负责收尾。它以 `he’d said` 收尾，说明这不是 Ren 自己的判断，而是父亲留给她的行为准则；也是全章最冷的一句，因为说这话的对象当时还是个孩子，而孩子是没有资格拒绝的。
+**为什么这样写**：整条规矩只有一个句子，靠 `If you’ve taken part in the planning or the killing` 与 `you should take part in the cleanup` 的对仗把「不许逃避」写成因果：参与过就要负责收尾。它以 `he’d said` 收尾，说明这不是 Ren 自己的判断，而是父亲留给她的行为准则；也是这一句里最冷的，因为说这话的对象当时还是个孩子，而孩子是没有资格拒绝的。
 
 **读者视角提示**：这条规矩一直管到本章末尾她收起地图那一刻；读者会明白，她今天做的每个动作都还照着父亲教的来。
 
@@ -93,7 +93,7 @@ modified: "2026-09-30"
 
 **关键词**：without telling her / Nolan had completed a job / had ended up on CNN
 
-**为什么这样写**：`Yet today` 三个词把整章拉回今天，`without telling her` 直接点破被打破的那条规矩：他们的分工一向清晰，谁也不越界。破折号后的 `one that had ended up on CNN` 把「一票活」落成具体结果，也让这句短促的陈述成为全章的落锤——前面所有的地图、硬币罐、荧光灯，都在这一句里失去了掩护作用。
+**为什么这样写**：`Yet today` 把整章拉回今天，`without telling her` 直接点破被打破的那条规矩：他们的分工一向清晰，谁也不越界。破折号后的 `one that had ended up on CNN` 把「一票活」落成具体结果，也让这句短促的陈述成为全章的落锤——前面所有的地图、硬币罐、荧光灯，都在这一句里失去了掩护作用。
 
 **读者视角提示**：全章停在这句上；读者此刻已经和她一样，把电视里的那个狙击手与电话那头的丈夫对上了号。
 

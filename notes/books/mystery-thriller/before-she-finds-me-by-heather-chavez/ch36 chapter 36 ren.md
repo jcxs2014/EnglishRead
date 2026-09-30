@@ -57,7 +57,7 @@ modified: "2026-09-30"
 
 **关键词**：Unless they killed him / the inheritance would probably revert to the daughter / Ren found that poetic
 
-**为什么这样写**：作者用一个 `Unless` 把上一段的结论整个掀开：如果 Eric 也死了，钱反而回到被杀的那个女儿手上。Ren 用 `found that poetic` 三个词收掉整段——`that` 让这个念头有了具体指向，`poetic` 则把一次冷冰冰的推演说成了审美活动，人物的心在此处变得干净。
+**为什么这样写**：作者用一个 `Unless` 把上一段的结论整个掀开：如果 Eric 也死了，钱反而回到被杀的那个女儿手上。Ren 用 `found that poetic` 收掉整段——`that` 让这个念头有了具体指向，`poetic` 则把一次冷冰冰的推演说成了审美活动，人物的心在此处变得干净。
 
 **读者视角提示**：读者在这里看见 Ren 处理「杀掉一个孩子」这件事的方式。
 

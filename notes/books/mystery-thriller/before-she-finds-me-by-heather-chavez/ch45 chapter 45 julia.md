@@ -45,7 +45,7 @@ modified: "2026-09-30"
 
 **关键词**：If not for his breathing / he had disconnected / his finger that was broken, and not yours
 
-**为什么这样写**：作者先用一段听觉上的空白把读者吊起来，再用那句对照式的玩笑兑现：`his finger that was broken, and not yours` 的重点落在后半截。前一句让呼吸声独自支撑通话，最后一句立刻用调侃把情绪推开——这是全章唯一一次用玩笑收尾。
+**为什么这样写**：作者先用一段听觉上的空白把读者吊起来，再用那句对照式的玩笑兑现：`his finger that was broken, and not yours` 的重点落在后半截。前一句让呼吸声独自支撑通话，最后一句立刻用调侃把情绪推开——她用玩笑收尾。
 
 **读者视角提示**：这句玩笑其实是一句道歉：他被排除在外，而他唯一能做的就是在电话这头替她高兴。
 
