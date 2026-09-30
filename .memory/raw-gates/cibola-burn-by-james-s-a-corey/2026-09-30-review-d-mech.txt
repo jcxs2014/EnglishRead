@@ -1,0 +1,33 @@
+=== d 步机械子项（第二实现，审查方专用）===
+--- check_analysis_indep ---
+抽出分析层英文片段 785 条
+✅ 全部片段在全书 text/ 逐字命中
+
+--- check_xref_indep ---
+        句：ch05–ch61 六段插叙唯一的"停"，也是 ch01 那句"open a door to 1000 new worlds"（人类终于推门）的镜像：门开了、车停了、世界归位。
+  ❌ ch62 chapter fifty five havelock.md:54 → ch16：证据 ['），而此刻由 Alex（飞行员）用'] 在该章查无
+        句："always"与"just how it goes"（就是这样）把灾难从例外降级为运营常态——这正是 Holden 一生对抗的命题（ch06"透明"，ch16"系统"），而此刻由 Alex（飞行员）
+  ❌ ch64 epilogue avasarala.md:26 → ch01：证据 ['给 Holden 打电话时房间的百叶窗'] 在该章查无
+        句：对照 ch01 她"给 Holden 打电话时房间的百叶窗"（她从不从后背看人）——识别术的连贯性。
+  ❌ ch64 epilogue avasarala.md:66 → ch31：证据 ["Everything's going fine"] 在该章查无
+        句：**读者视角提示：** 记住"小恩小惠"：它与 ch31 的"Everything's going fine"、ch62 的"活不过一年"同族。
+=== chNN 引用 883 处：英文证据报警 19 处 ／ 中文式待人判 837 处 ===
+
+--- sweep_analysis_inline（写作期，抽查对照）---
+=== 分析层行内英文逐字核查（cibola-burn-by-james-s-a-corey）===
+  参照集：text/（65 个提取件） + epub 交叉验证 ；扫 67 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：1678 个表格行、1186 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1398 ｜ ⚠️ 跨章 51 ｜ 🔶 拼接 1 ｜ 🟠 部分命中 14 ｜ 🟡 词形 3 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 2325
+
+--- check_anchor（抽查）---
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（65 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 5 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+--- audit_numbers（抽查）---
+  ❓ ch62 chapter fifty five havelock.md:96  「两个阿门」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch64 epilogue avasarala.md:36  「三个人造自然」非英文（中文短语或小节标题），不判 —— 需人判
+  ❓ ch64 epilogue avasarala.md:44  「一个词」参照串未解析 —— 需人判
+  ❓ ch64 epilogue avasarala.md:44  「一个就这么多」非英文（中文短语或小节标题），不判 —— 需人判
+  ⚪ ch61 interlude the investigator.md:66  「四岁」年龄/百分比类，文本层推不出真值，只列出待人核

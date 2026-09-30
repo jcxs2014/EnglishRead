@@ -1,0 +1,23 @@
+=== c 步：结构扫描 ===
+--- audit_structure（写作期实现）---
+=== 精读结构扫描（cibola-burn-by-james-s-a-corey）===
+  扫 67 个 md、542 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+--- check_struct_indep（第二实现，审查方专用）---
+  ❌ ch55 chapter forty nine havelock.md: [summary] 引语 6: 子项「为什么这样写」出现 2 次（须恰 1）
+=== 独立结构扫描：64 个 md，缺陷 1 处 ===
+
+--- check_overview_full（总览整串 + 章节标签对账 + H1）---
+=== 总览整串核查（cibola-burn-by-james-s-a-corey）===
+  参照集：text/ 逐章（64 章） ｜ 总览文件 3 个
+  A 整串：命中 22 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 13
+  B 章节标签：对 21 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 1 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 11 ｜ 不符 0（**只报不判红**）｜ 跳过 18
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+--- H1 语义（grep）---
+notes/books/novels/cibola-burn-by-james-s-a-corey/00_概述.md:# 《Cibola Burn》（燃烧之地）概述
+notes/books/novels/cibola-burn-by-james-s-a-corey/00_金句精选.md:# 《Cibola Burn》（燃烧之地）金句精选
+notes/books/novels/cibola-burn-by-james-s-a-corey/00_情感节点.md:# 《Cibola Burn》（燃烧之地）情感节点

@@ -1,0 +1,64 @@
+=== Cibola Burn 五步审查 a 步原始门禁输出 · 2026-09-30 ===
+lane：完整（有 epub）
+
+--- verify_corpus（语料层）---
+      末| Holden didn’t wait to hear the rest of what was said.
+    ch64 (258 句)
+      首| Cibola Burn: Book Four of the Expanse
+      末| “I need to put you back on the board, soldier.”
+
+FAIL  ch01 未命中本篇人物「ch02=Basia」
+FAIL  ch01 未命中本篇人物「ch05=investigator」
+FAIL  ch01 未命中本篇人物「ch61=investigator」
+FAIL  ch01 未命中本篇人物「ch64=Avasarala」
+
+=== P0-0 语料验收: FAIL（FAIL 4 / WARN 0）===
+**这一层不过，下面所有门禁的绿都是假的**（方案 §10.1）
+
+--- verify_quotes ---
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 497/497 引文可核实（100%）；完全干净文件 65/65；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+--- verify_quotes --full ---
+
+=== 总计 497/497 引文可核实（100%）；完全干净文件 65/65；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+--- check_vocab ---
+  ch57 chapter fifty one basia.md [基础] 基础档疑含超纲词「calculate」
+  ch58 chapter fifty two elvi.md [基础] 基础档疑含超纲词「territory」
+  ch60 chapter fifty four elvi.md [基础] 基础档疑含超纲词「conscious」
+  ch62 chapter fifty five havelock.md [基础] 基础档疑含超纲词「operation」
+  ch62 chapter fifty five havelock.md [基础] 基础档疑含超纲词「buildings」
+  ch64 epilogue avasarala.md [基础] 基础档疑含超纲词「situation」
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- corruption_scan ---
+  FAIL 0 处（U+FFFD / 双句号）
+
+--- sweep_full ---
+  参照集：text/ 逐章（64 章，可定章） + epub 交叉验证
+  ✅ 本章命中 474 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 24 条归 check_short_quotes；无章可对 0 条未判）
+
+--- check_short_quotes ---
+=== 短引语兜底核对（cibola-burn-by-james-s-a-corey）===
+  verify_quotes 跳过（<20 flat 字符）的引语：26 条 —— 这些主门禁**根本没查**
+  ✅ 命中 26 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+--- verify_corpus（重跑，锚点分隔符修正为 ;）---
+    ch64 (258 句)
+      首| Cibola Burn: Book Four of the Expanse
+      末| “I need to put you back on the board, soldier.”
+
+FAIL  ch64 本篇不含 Bobbie，但含他篇 ch01 的人物「Bobbie」
+
+=== P0-0 语料验收: FAIL（FAIL 1 / WARN 0）===
+**这一层不过，下面所有门禁的绿都是假的**（方案 §10.1）
+
+--- check_vocab FAIL/WARN 汇总行 ---
+--- FAIL (0) ---
+--- WARN (80) ---

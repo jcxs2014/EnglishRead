@@ -1,0 +1,144 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub）===
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 498/498 引文可核实（100%）；完全干净文件 65/65；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 1294
+--- FAIL (0) ---
+--- WARN (80) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 475 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 25 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 prologue bobbie draper.md                 ch01 prologue bobbie draper.md: 6/6 in ch01 text（另有 1 条短引语未校验）
+ch02 chapter one basia.md                      ch02 chapter one basia.md: 8/8 in ch02 text
+ch03 chapter two elvi.md                       ch03 chapter two elvi.md: 8/8 in ch03 text
+ch04 chapter three havelock.md                 ch04 chapter three havelock.md: 8/8 in ch04 text
+ch05 interlude the investigator.md             ch05 interlude the investigator.md: 5/5 in ch05 text
+ch06 chapter four holden.md                    ch06 chapter four holden.md: 8/8 in ch06 text
+ch07 chapter five basia.md                     ch07 chapter five basia.md: 8/8 in ch07 text
+ch08 chapter six elvi.md                       ch08 chapter six elvi.md: 8/8 in ch08 text
+ch09 chapter seven holden.md                   ch09 chapter seven holden.md: 8/8 in ch09 text
+ch10 chapter eight elvi.md                     ch10 chapter eight elvi.md: 8/8 in ch10 text
+ch11 chapter nine basia.md                     ch11 chapter nine basia.md: 8/8 in ch11 text
+ch12 chapter ten havelock.md                   ch12 chapter ten havelock.md: 8/8 in ch12 text
+ch13 chapter eleven holden.md                  ch13 chapter eleven holden.md: 8/8 in ch13 text
+ch14 interlude the investigator.md             ch14 interlude the investigator.md: 5/5 in ch14 text
+ch15 chapter twelve basia.md                   ch15 chapter twelve basia.md: 8/8 in ch15 text
+ch16 chapter thirteen elvi.md                  ch16 chapter thirteen elvi.md: 8/8 in ch16 text
+ch17 chapter fourteen holden.md                ch17 chapter fourteen holden.md: 8/8 in ch17 text
+ch18 chapter fifteen havelock.md               ch18 chapter fifteen havelock.md: 8/8 in ch18 text
+ch19 chapter sixteen elvi.md                   ch19 chapter sixteen elvi.md: 8/8 in ch19 text
+ch20 chapter seventeen basia.md                ch20 chapter seventeen basia.md: 8/8 in ch20 text
+ch21 chapter eighteen holden.md                ch21 chapter eighteen holden.md: 8/8 in ch21 text
+ch22 chapter nineteen havelock.md              ch22 chapter nineteen havelock.md: 8/8 in ch22 text
+ch23 chapter twenty elvi.md                    ch23 chapter twenty elvi.md: 8/8 in ch23 text
+ch24 chapter twenty one basia.md               ch24 chapter twenty one basia.md: 8/8 in ch24 text
+ch25 chapter twenty two havelock.md            ch25 chapter twenty two havelock.md: 8/8 in ch25 text
+ch26 interlude the investigator.md             ch26 interlude the investigator.md: 5/5 in ch26 text
+ch27 chapter twenty three holden.md            ch27 chapter twenty three holden.md: 8/8 in ch27 text
+ch28 chapter twenty four elvi.md               ch28 chapter twenty four elvi.md: 8/8 in ch28 text
+ch29 chapter twenty five basia.md              ch29 chapter twenty five basia.md: 8/8 in ch29 text
+ch30 chapter twenty six havelock.md            ch30 chapter twenty six havelock.md: 8/8 in ch30 text
+ch31 chapter twenty seven elvi.md              ch31 chapter twenty seven elvi.md: 8/8 in ch31 text
+ch32 chapter twenty eight basia.md             ch32 chapter twenty eight basia.md: 8/8 in ch32 text
+ch33 chapter twenty nine holden.md             ch33 chapter twenty nine holden.md: 8/8 in ch33 text
+ch34 chapter thirty elvi.md                    ch34 chapter thirty elvi.md: 8/8 in ch34 text
+ch35 chapter thirty one holden.md              ch35 chapter thirty one holden.md: 8/8 in ch35 text
+ch36 chapter thirty two havelock.md            ch36 chapter thirty two havelock.md: 8/8 in ch36 text
+ch37 chapter thirty three basia.md             ch37 chapter thirty three basia.md: 8/8 in ch37 text
+ch38 interlude the investigator.md             ch38 interlude the investigator.md: 6/6 in ch38 text
+ch39 chapter thirty four holden.md             ch39 chapter thirty four holden.md: 8/8 in ch39 text
+ch40 chapter thirty five elvi.md               ch40 chapter thirty five elvi.md: 8/8 in ch40 text
+ch41 chapter thirty six havelock.md            ch41 chapter thirty six havelock.md: 8/8 in ch41 text
+ch42 chapter thirty seven elvi.md              ch42 chapter thirty seven elvi.md: 8/8 in ch42 text
+ch43 chapter thirty eight holden.md            ch43 chapter thirty eight holden.md: 8/8 in ch43 text
+ch44 chapter thirty nine basia.md              ch44 chapter thirty nine basia.md: 8/8 in ch44 text
+ch45 chapter forty havelock.md                 ch45 chapter forty havelock.md: 8/8 in ch45 text
+ch46 chapter forty one elvi.md                 ch46 chapter forty one elvi.md: 8/8 in ch46 text
+ch47 chapter forty two havelock.md             ch47 chapter forty two havelock.md: 8/8 in ch47 text
+ch48 chapter forty three basia.md              ch48 chapter forty three basia.md: 8/8 in ch48 text
+ch49 chapter forty four holden.md              ch49 chapter forty four holden.md: 8/8 in ch49 text
+ch50 interlude the investigator.md             ch50 interlude the investigator.md: 8/8 in ch50 text
+ch51 chapter forty five havelock.md            ch51 chapter forty five havelock.md: 7/7 in ch51 text（另有 1 条短引语未校验）
+ch52 chapter forty six elvi.md                 ch52 chapter forty six elvi.md: 8/8 in ch52 text
+ch53 chapter forty seven basia.md              ch53 chapter forty seven basia.md: 8/8 in ch53 text
+ch54 chapter forty eight holden.md             ch54 chapter forty eight holden.md: 8/8 in ch54 text
+ch55 chapter forty nine havelock.md            ch55 chapter forty nine havelock.md: 8/8 in ch55 text
+ch56 chapter fifty elvi.md                     ch56 chapter fifty elvi.md: 8/8 in ch56 text
+ch57 chapter fifty one basia.md                ch57 chapter fifty one basia.md: 8/8 in ch57 text
+ch58 chapter fifty two elvi.md                 ch58 chapter fifty two elvi.md: 8/8 in ch58 text
+ch59 chapter fifty three holden.md             ch59 chapter fifty three holden.md: 8/8 in ch59 text
+ch60 chapter fifty four elvi.md                ch60 chapter fifty four elvi.md: 8/8 in ch60 text
+ch61 interlude the investigator.md             ch61 interlude the investigator.md: 6/6 in ch61 text
+ch62 chapter fifty five havelock.md            ch62 chapter fifty five havelock.md: 8/8 in ch62 text
+ch63 chapter fifty six holden.md               ch63 chapter fifty six holden.md: 8/8 in ch63 text
+ch64 epilogue avasarala.md                     ch64 epilogue avasarala.md: 8/8 in ch64 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+⚠️ ch06 chapter four holden.md: md 块 8 / 工具抽到 8
+⚠️ ch08 chapter six elvi.md: md 块 8 / 工具抽到 8
+⚠️ ch12 chapter ten havelock.md: md 块 8 / 工具抽到 8
+⚠️ ch15 chapter twelve basia.md: md 块 8 / 工具抽到 8
+⚠️ ch17 chapter fourteen holden.md: md 块 8 / 工具抽到 8
+⚠️ ch18 chapter fifteen havelock.md: md 块 8 / 工具抽到 8
+⚠️ ch19 chapter sixteen elvi.md: md 块 8 / 工具抽到 8
+⚠️ ch24 chapter twenty one basia.md: md 块 8 / 工具抽到 8
+⚠️ ch27 chapter twenty three holden.md: md 块 8 / 工具抽到 8
+⚠️ ch29 chapter twenty five basia.md: md 块 8 / 工具抽到 8
+⚠️ ch31 chapter twenty seven elvi.md: md 块 8 / 工具抽到 8
+⚠️ ch32 chapter twenty eight basia.md: md 块 8 / 工具抽到 8
+⚠️ ch33 chapter twenty nine holden.md: md 块 8 / 工具抽到 8
+⚠️ ch34 chapter thirty elvi.md: md 块 8 / 工具抽到 8
+⚠️ ch35 chapter thirty one holden.md: md 块 8 / 工具抽到 8
+⚠️ ch36 chapter thirty two havelock.md: md 块 8 / 工具抽到 8
+⚠️ ch37 chapter thirty three basia.md: md 块 8 / 工具抽到 8
+⚠️ ch39 chapter thirty four holden.md: md 块 8 / 工具抽到 8
+⚠️ ch40 chapter thirty five elvi.md: md 块 8 / 工具抽到 8
+⚠️ ch41 chapter thirty six havelock.md: md 块 8 / 工具抽到 8
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（cibola-burn-by-james-s-a-corey）===
+  ✅ 逐字 1404 ｜ ⚠️ 跨章 71 ｜ 🔶 拼接 1 ｜ 🟠 部分命中 4 ｜ 🟡 词形 2 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 2308
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 4 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 18/18 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 42/42 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
