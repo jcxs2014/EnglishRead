@@ -119,6 +119,46 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| physiotherapy | 理疗（康复） | She would be in a cast for four to six weeks, and after that there would be physiotherapy. |
+| merry-go-round | （记忆的）旋转木马 | Madeline’s head swirled with a violent merry-go-round of images from the previous night. |
+| self-absorbed | （自私的）自恋 | What sort of an obtuse, self-absorbed friend had Madeline been to have missed something like that? |
+| coordinator | （足球队）协调员 | Meanwhile Celeste had listened while Madeline had talked endlessly about everything from how much she hated the under-seven soccer coordinator to her feelings about Abigail’s relationship with her father. |
+| disfigured | （被暴怒扭曲的）脸 | She remembered Bonnie’s face disfigured with rage as she screamed at Perry. |
+| accidental | （无意的）死亡 | Maybe it was actually an unspoken instant agreement between the four women on the balcony: No woman should pay for the accidental death of that particular man. |
+| backhanded | 反手（耳光） | Maybe it was for every rape, every brutal backhanded slap, every other Perry that had come before this one. |
+| unsettling | （令人不安的）别扭 | There was something unsettling about having your husband and your ex-husband standing next to each other, looking down at you while you lay in bed. |
+| positive-thinking | （正能量的）笑容 | The big positive-thinking smile had gone, and now he looked like the man in the wrong at a car accident. |
+| psychiatrist | 精神科医生 | well, one psychiatrist diagnosed post-traumatic stress. |
+| post-traumatic | （创伤后）应激 | well, one psychiatrist diagnosed post-traumatic stress. |
+| desperately | （绝望地）求助 | “She’s a good person, Maddie,” said Nathan desperately. |
+| twenty-year-old | （记忆里的）二十岁 | He was asking twenty-year-old Madeline for a favor. |
+| merchandise | 商品 | And then there was the sort of evil of which Madeline had no experience: cruelty in hotel rooms and violence in suburban homes and little girls being sold like merchandise, shattering innocent hearts. |
+| shattering | （心）被击碎的 | And then there was the sort of evil of which Madeline had no experience: cruelty in hotel rooms and violence in suburban homes and little girls being sold like merchandise, shattering innocent hearts. |
+| automatically | （自动）为家人撒谎 | How could she possibly explain to Ed that she didn’t particularly like Bonnie, or understand her, but that it turned out she was prepared to lie for her in the same way that she would automatically lie for Ed, her children, her mother? |
+| improbable | （看似）不可能的 | It turned out, as strange and improbable as it seemed, that Bonnie was family too. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| snitching | 向老师打小报告 | “This isn’t snitching to the teacher! |
+| fluttery | （眨动的）睫毛 | That fluttery thing Skye did with her eyelashes, the way she always hid behind her mother’s skirt. |
+| atavistic | （本能深处的）古老反应 | Maybe it was an involuntary, atavistic response to thousands of years of violence against women. |
+| handicaps | 差点（golf handicaps） | He was the one who saw the broken, twisted body of a man who had just moments before been talking and laughing with him about golf handicaps. |
+| affidavit | 宣誓书 | I’ll have to sign an affidavit. |
+| cardboard | （家族树的）硬纸板 | It was crazy and it made no sense because she did not forgive him, and she chose to never forgive him, and he would drive her to distraction for the rest of her life, and one day he’d walk Abigail down the aisle and Madeline would be grinding her teeth the whole way, but he was still family, he still belonged on her piece of cardboard showing her family tree. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| family tree | （家族）家谱 | It was crazy and it made no sense because she did not forgive him, and she chose to never forgive him, and he would drive her to distraction for the rest of her life, and one day he’d walk Abigail down the aisle and Madeline would be grinding her teeth the whole way, but he was still family, he still belonged on her piece of cardboard showing her family tree. |
+| forensic evidence | （法庭级）物证 | Obviously we’ll be studying the forensic evidence when it becomes available. |
+
 ## 一句话总结
 
 「以及一条命」把整晚的账单结清——病房里「Perry 打我」那三秒钟的亏欠、Nathan 用旧情换来的绝望求情、「Something snapped」的断裂声，最终换来一句「我们什么都没看见」；Ed 的椅子刮着地面离席，警长一句「有人没说真话」留在走廊尽头：一场没有原告的审判，就此立案。
