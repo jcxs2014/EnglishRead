@@ -37,7 +37,7 @@ modified: "2026-09-30"
 
 > **原句 2:** “It’th my bird-day, Thoth,” he said, chin down, eyebrows furrowed.
 
-**中文理解**： 「今天是我的鸟日，Thoth（索斯的发音），」他说，下巴压着，眉毛皱着。
+**中文理解**： 「今天是我的鸟日，Thoth，」他说（原文 It’th my bird-day，th 替了 t，是幼儿的口齿；Thoth 是他对 Shosh 的固定称呼），下巴压着，眉毛皱着。
 
 **关键词**： chin down（下巴压着）；eyebrows furrowed（眉头皱着）；my bird-day（我的鸟日）
 
