@@ -11,7 +11,7 @@ modified: "2026-09-30"
 
 **情感弧线位置**：Madeline 线的失控峰值——失女之怒与 控制权之争合流；「绝密项目」的伏笔正式挂出（Abigail 线的爆点）。
 
-**Tropes 兑现/反转**：光剑裁决（toy lightsaber verdicts）；母亲变「跟踪者」（stalking her own daughter）；单边决定（unilateral decision）——离婚战争的领土升级。
+**Tropes 兑现/反转**：光剑裁决（玩具光剑的判决）；母亲变「跟踪者」（stalking her own daughter）；单边决定（unilateral decision）——离婚战争的领土升级。
 
 **人物弧线**：Madeline 的愤怒完成「名单化管理」（每个敌人一句 Damn）；Nathan 的新语气（不再赔笑的销售员）标志着他 「2.0 固件」的彻底安装；Abigail 的 Top secret 在午夜闪耀。
 

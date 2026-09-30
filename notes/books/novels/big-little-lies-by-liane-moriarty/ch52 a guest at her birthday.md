@@ -41,7 +41,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：母职的计量单位是早餐——最日常的信息流向被倒转，就是失去的全部形状。作者让「早饭」这个细节承担十三年的重量：她喂过女儿无数顿早餐，如今情报权旁落。 Bonnie 的「陌生」定性（下一段的 caricature）说明 Madeline 的策略：拒绝承认她是一个「真实的人」，才能拒绝承认她赢了。
 
-**读者视角提示**：对照 ch48 的「services no longer required」——早餐情报的旁落是那份辞令的日常版。 Madeline 对 Bonnie 的全部敌意，浓缩起来就是这句「她凭什么知道」。
+**读者视角提示**：对照 ch48 的「her services as Abigail’s mother were no longer required」——早餐情报的旁落是那份辞令的日常版。 Madeline 对 Bonnie 的全部敌意，浓缩起来就是这句「她凭什么知道」。
 
 ---
 

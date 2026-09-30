@@ -1,0 +1,14 @@
+# d 步机械项（修复后复跑，2026-09-30）
+
+## check_xref_indep
+=== chNN 引用 768 处：英文证据报警 0 处 ／ 中文式待人判 661 处 ===
+
+## check_analysis_indep
+      未命中词: ['motherdaughter', 'debate']
+  ch80 i dont hide under the bed anymore.md:14  the casserole olive branch
+      未命中词: ['branch']
+  ch82 vic says hurry up.md:14  the posthumous go-between
+      未命中词: ['posthumous', 'gobetween']
+
+## sweep_full
+  ✅ 本章命中 590 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0

@@ -159,6 +159,13 @@ modified: "2026-09-30"
 | heavenly | 美妙的 | Every morning the boys climbed into bed with her for a cuddle, and at first it was heavenly, and then, after about ten minutes or so, they started fighting, and it was terrible. |
 | gorgeous | 极好的 | Her boys were gorgeous little darlings. |
 
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| upper arm | 上臂 | He grabbed her upper arm. |
+| anger | 怒气 | The pain ignited her anger. |
+
 ## 一句话总结
 
 僵尸片的夜晚泄露了这个家的全部地质构造：胃里的一攥、鼻孔的呼吸、菜单式的选项、易燃油料的储库——Celeste 用「他病了」「还不算糟」「我爱他」三套图纸加固牢笼，最后签下章题判决：不离开，即默许；她离不开他，就像离不开孩子们。

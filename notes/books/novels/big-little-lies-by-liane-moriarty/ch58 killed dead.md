@@ -158,6 +158,13 @@ modified: "2026-09-30"
 | enormous | （有的字母）巨大 | Some were enormous. |
 | calamity | 灾祸 | Oh, calamity. |
 
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| blond bob | （金发）波波头 | Two people came inside: a woman with a blond bob and an unremarkable businessman. |
+| brisk breeze | （一阵）劲风 | There was a brisk breeze blowing and the sea looked playful, with white wavelets dancing across the horizon. |
+
 ## 一句话总结
 
 苹果松饼与「被威胁的女儿会死」的誓言同桌——Jane 用「写下来不算说」的 loophole 撬开儿子的忠诚锁，Graeme 的律师拳头被 Tom 一句「请你出去」没收；纸条上四个大小不一的字母 M a K s，是五岁孩子的笔迹，也是全书最大反转的第一帧。

@@ -161,6 +161,13 @@ modified: "2026-09-30"
 | headland | 海岬（晨走） | If she left Pirriwee, she’d miss her morning walks around the headland with Jane. |
 | shuddered | 打了个寒战 | She shuddered. |
 
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| bargain price | 特价货 | A little violence was a bargain price for a life that would otherwise be just too sickeningly, lavishly, moonlit perfect. |
+| bedroom furniture | 卧室家具 | anyhow, long story short, I’m walking through a Harvey Norman store where they had all the bedroom furniture on display, and there’s Celeste White, lying flat on her back in the middle of a double bed, staring at the ceiling. |
+
 ## 一句话总结
 
 一间小公寓、一盏他讨厌的蘑菇灯、一份「随时激活」的备用人生——Celeste 把逃跑做成了全套 homework；「无声尖叫的房子」与「另一个人的梦想成真」在她的账本上互相抵消，只剩下一个悬而未决的问题：那她到底，到底在这儿干嘛。

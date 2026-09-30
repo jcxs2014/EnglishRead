@@ -1,0 +1,36 @@
+# d 步原始输出（2026-09-30 五步审查）
+
+## sweep_full（整行连续 sweep，d 步终验标准件）
+=== 引语整串 flat 比对（big-little-lies-by-liane-moriarty）===
+  参照集：text/ 逐章（84 章，可定章） + epub 交叉验证
+  ✅ 本章命中 590 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 39 条归 check_short_quotes；无章可对 0 条未判）
+
+## check_xref_indep（跨章引用第二实现）
+        句：**读者视角提示**：把「moving to London」与 ch55 的「Little Juliette wanted to take him to France」并读——两个女人（Renata 
+  ❌ ch84 this can happen to anyone.md:44 → ch77：证据 ['She was one of many'] 在该章查无
+        句：**读者视角提示**：把「fear of losing her」与 ch77 的「She was one of many」并读——他的恐惧与他的冷漠指向同一个缺口：Celeste 从未被真正看见。
+  ❌ ch84 this can happen to anyone.md:68 → ch76：证据 ["He's the one who did those things to Jane"] 在该章查无
+        句：**读者视角提示**：把「Do you think you deserved that」与 ch76 的「He's the one who did those things to Jane」并读：Ma
+  ❌ ch84 this can happen to anyone.md:80 → ch07：证据 ['你不该为 Perry 的死亡而哭'] 在该章查无
+        句：**读者视角提示**：把「I know he was」与 ch07 的「你不该为 Perry 的死亡而哭」（Celeste 的内心指控）并读——Ch04 的 Cella 在 ch10 的婚床上想「这是
+  ❌ ch84 this can happen to anyone.md:116 → ch51：证据 ['The class already knew what they were waiting for'] 在该章查无
+        句：**读者视角提示**：把「This can happen to anyone」与 ch01 的 Mrs. Ponder 隔窗的耳朵、ch51 的「The class already knew what
+  ❌ ch84 this can happen to anyone.md:171 → ch77：证据 ['I never see anything'] 在该章查无
+        句：一年后的讲台上，抖着手端水的 Celeste 把一年前计划好的体面扔进了麦克风里——判刑书（二百小时、栏杆矮几寸、双方醉意）、对 Perry 的三重矛盾哀悼（他该死／她想他／她疯了）、给 Ziggy 
+=== chNN 引用 771 处：英文证据报警 29 处 ／ 中文式待人判 660 处 ===
+
+## check_analysis_indep（分析层行内英文第二实现）
+  ch62 but im not their mother.md:14  the mother-daughter debate
+      未命中词: ['motherdaughter', 'debate']
+  ch80 i dont hide under the bed anymore.md:14  the casserole olive branch
+      未命中词: ['branch']
+  ch82 vic says hurry up.md:14  the posthumous go-between
+      未命中词: ['posthumous', 'gobetween']
+
+## check_speaker_consistency（抽查级，说话人）
+⚠️ 归因与原文不一致 0
+
+⚠️ 抽查级：**报 0 不等于「说话人都对」**，只等于「没找到可判的归属矛盾」。
+   实测 315 本 1 条真缺陷 / 命中约 1/3 假阳 ⇒ 不进提交门禁。
+   无对话标签的叙述层引语、间接引语、转述，全部不在口径内。

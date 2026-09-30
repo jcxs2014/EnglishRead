@@ -29,7 +29,7 @@ modified: "2026-09-30"
 
 **关键词**：a flicker（闪了一下）；She was one of many（她是其中之一）
 
-**为什么这样写**：全书对施暴者心理最狠的一笔解剖——他连「记起她」都不配得到：她要靠「类别」（fat girl, bar pickup, one of many）才能在他脑内占一个格子。作者让 flicker 的机制（认类不认人）完成对 Jane 五年屈辱的最终定价：她等的「被看见」，得到的只是「被归档」。这也是对 ch31 的「flying fist 闪念」的终局回应：当年他「认得」她的身材，如今他「认得」她的类别——两次，他都没认出「Jane」。
+**为什么这样写**：全书对施暴者心理最狠的一笔解剖——他连「记起她」都不配得到：她要靠「类别」（fat girl, bar pickup, one of many）才能在他脑内占一个格子。作者让 flicker 的机制（认类不认人）完成对 Jane 五年屈辱的最终定价：她等的「被看见」，得到的只是「被归档」。这也是对 ch23 的「the shock and the force of a flying fist」的终局回应：当年他「认得」她的身材，如今他「认得」她的类别——两次，他都没认出「Jane」。
 
 **读者视角提示**：把「one of many」与 ch31 的「过程清单」（AmEx、唱歌、电梯）连读——那套流程不是为她定制的，是流水线。 Bonnie 的「我们看得到」与这句「其中之一」在下一章将汇成同一个判词：他伤害的不是某个女人，是「女人」这个集合。
 
@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 **关键词**：Just in case（以防万一）
 
-**为什么这样写**：全书最后一块自白——ch04 的「on a whim」、ch65 的「on a whim she decided」全部在此刻交出真名：她搬来是为了「可能遇见他」。作者让这句坦白完成最温柔的自我赦免：她五年来「不敢承认的动机」（想被他看见、想让他看看 Ziggy）在此刻当众交付，而收件人不再重要——Madeline 们才是真正该听这句的人。这也解释了 ch04 的「the end would be even better」：她想结束的，正是这段「躲着他」的隐性人生。
+**为什么这样写**：全书最后一块自白——ch04 的两处「on a whim」（「on a whim, I guess」与「the phrase 'on a whim' came to her out of nowhere」）全部在此刻交出真名：她搬来是为了「可能遇见他」。作者让这句坦白完成最温柔的自我赦免：她五年来「不敢承认的动机」（想被他看见、想让他看看 Ziggy）在此刻当众交付，而收件人不再重要——Madeline 们才是真正该听这句的人。这也解释了 ch04 的「or the end, which would be even better」：她想结束的，正是这段「躲着他」的隐性人生。
 
 **读者视角提示**：对照 ch20 的「也许该发个朋友圈」、ch47 的「happiest moments」——Jane 的搬家史在这里完成最终解释：她不是在逃，她在慢慢接近一个她既怕又盼的坐标。「以防万一」是受害者最矛盾的导航：朝着伤疤走，赌的是伤疤已经被自己长好了。
 
@@ -79,7 +79,7 @@ modified: "2026-09-30"
 
 **为什么这样写**： Celeste 的第二次「出庭」——上一句她为儿子作证，这一句她为 Jane 作证。作者让这句话完成对 Perry 耸肩（who cares about her）的正面驳回：他以为这是「婚外情风波」，Celeste 用五个字纠正了整个案件的性质——这不是风流债，是对一个真实的人（和她的孩子）的终身伤害。这句话也是她全书勇气的坐标：她终于把「那个女人」从「他的丑闻」还原成「Jane」。
 
-**读者视角提示**：把「meant something to her」与 ch72 的「She was one of many」连读——两个女人在同一分钟完成了对「人数」的翻译：他数的是「多少个」，她数的是「这一个」。全书的女人们（Jane、Celeste、Bonnie、甚至 Eleni）在此刻结成了没有名字的同盟。
+**读者视角提示**：把「meant something to her」与 ch76 的「She was one of many」连读——两个女人在同一分钟完成了对「人数」的翻译：他数的是「多少个」，她数的是「这一个」。全书的女人们（Jane、Celeste、Bonnie、甚至 Eleni）在此刻结成了没有名字的同盟。
 
 ---
 
@@ -148,6 +148,13 @@ modified: "2026-09-30"
 | practiced | （练熟的）弧线 | His hand curved in a perfect, practiced, brutal arc that flung back her head and sent her body flying across the balcony where she fell, clumsily and hard on her side. |
 | shattered | （摔碎的）杯子 | Jane’s glass had slipped from her fingers and shattered at her feet. |
 | guttural | （砂纸般的）嗓音 | It was strangely exhilarating to hear that guttural, angry voice coming out of Bonnie’s mouth. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| name | 名字 | He’d lied about his name. |
+| adult movie | 成人片 | Jane was the adult movie that didn’t appear on his hotel bill. |
 
 ## 一句话总结
 

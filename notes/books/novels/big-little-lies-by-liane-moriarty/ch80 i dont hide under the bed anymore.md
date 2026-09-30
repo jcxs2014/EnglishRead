@@ -11,7 +11,7 @@ modified: "2026-09-30"
 
 **情感弧线位置**：全书的救赎线抵达——Bonnie 从「纸片人」变成「幸存者」；她的自白反向为 Celeste 的沉默解除义务；两个女人的联盟从「共谋」升级为「各自作证」。
 
-**Tropes 兑现/反转**：千层面的橄榄枝（the casserole olive branch）；「床底下」意象的闭环（童年躲藏→今晚不再躲）；告解的语法（从「I’m a good liar」到「I don’t hide under the bed anymore」）。
+**Tropes 兑现/反转**：千层面的橄榄枝（那盘千层面的橄榄枝）；「床底下」意象的闭环（童年躲藏→今晚不再躲）；告解的语法（从「I’m a good liar」到「I don’t hide under the bed anymore」）。
 
 **人物弧线**：Bonnie 的 roughness 完成整合（不再分裂）；Celeste 承认自己「能撒谎」的坦白第一次成为爱的证明；双胞胎当重量砝码的体感（boys as heavy weights）完成母职主题的最柔一稿。
 
@@ -101,7 +101,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：告解的核心条款——前半句是她的自我革命（不再躲），后半句是她对他人的请求（别替我守）。作者让「别替我守秘密」同时是对 Celeste 的托付：她不要同盟的庇护，要同盟的诚实。这条宣言也是本书对「共犯式关爱」的最终诊断：为了保护某人而替她撒谎，恰恰是把她按在床底下。
 
-**读者视角提示**：把「不要替我守秘密」与 ch77 的「we didn't see a thing」、ch78 的「we won't say anything」连读——过去三章的「守护」宣言在此被一句真话废掉。Bonnie 的请求是对 Pirriwee 女子联盟的最终诊断：她们用谎互相保护，也用谎把彼此锁死在原地。走出床底的路只有一条：自己开口。
+**读者视角提示**：把「不要替我守秘密」与 ch77 的「I didn’t see a thing」、ch78 的「We’re not going to say anything to the police」连读——过去三章的「守护」宣言在此被一句真话废掉。Bonnie 的请求是对 Pirriwee 女子联盟的最终诊断：她们用谎互相保护，也用谎把彼此锁死在原地。走出床底的路只有一条：自己开口。
 
 ---
 

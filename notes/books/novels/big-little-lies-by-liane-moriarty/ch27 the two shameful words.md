@@ -163,6 +163,13 @@ modified: "2026-09-30"
 | unsmiling | 面无表情的 | They went to charity balls and Perry would bid twenty, thirty, forty thousand dollars with the unsmiling nod of a head. |
 | generous | 慷慨的 | He was generous with his money. |
 
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| house | 房子 | She would be horrified if she could see Celeste right now, sitting down, while other people cleaned her house. |
+| man | 男人 | The vacuum cleaner stopped, and she heard a man’s voice, followed by a roar of raucous laughter. |
+
 ## 一句话总结
 
 楼上的吸尘器在欢笑，楼下的 Celeste 在给自己判刑——掐出的淤痕、捐出的两万五、必须插好的道歉花束，全部记在同一本「活该」的账上；当她终于把那两个可耻的词敲进搜索框，二十岁那个打壁球、上法庭、笑声震天的女孩，第一次收到了寻人启事。

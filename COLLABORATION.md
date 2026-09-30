@@ -84,6 +84,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 commit：全书 82 个（ch01-ch84 逐章批 + 总览批），未 push。五步审查未做（待用户发起）。
 
+**独立五步审查 a–e 已完成并整改**：门禁全绿仍查出 47 处阻断型（正文层）+ 11 处总览层事实缺陷，共 58 处全部改完。
+
+- **a 步**：15 项全量重跑（不采信完工数字）；**b/c 步**：换实现复扫（check_struct_indep / check_xref_indep / check_analysis_indep）；**d 步**：chNN 引用 770 处英文证据 0 报警，分析层 326 条逐字全命中；**e 步**：概述/金句/节点 47 条引语逐条回 text/ 对账（标签对 ≠ 内容对），另人工核对 11 处事实断言。
+- **整改类别**：跨章错标 29（11 处真错标改标 + 约 16 处分析层自造/改写英文换成真实原文）· 结构 24（16 章词表缺档位标题→补真实词条；ch68/ch77 各 9 块超 3–8 配额→删最弱块重编号；ch45/ch78/ch81 子项缺失或错序）· 自造英文术语 9 · 总览层 11（说话人误植 2 · 虚构人名「瑞秋」1〔源自 Murdoch《在纸上生活》〕· 节点章号错标 1〔ch48-49→ch83〕· 节点顺序倒置 1 · 时序错 1 · 人物错置 2 · 无据细节 3 · 引语上下文误述 2）。
+- **假红型 3 类**：xref 弯引号口径（3 条抽样失败实为 ’ vs '）· 自写脚本两处 bug（连字符吞词、glob 取键）· `verify_overview_quotes` 只覆盖 `>` 引语行 ⇒ 概述与金句的行内引语本不在门禁口径（47 条由人工脚本补验）。
+- **复验**：`gate.sh` 15 项退出码 0（verify 590/590 · vocab FAIL 0 · entities 0 · corruption 0 · sweep 590/0/0/0 · 逐章归属全过）· struct_indep 0 · xref_indep 英文 0/770 · analysis_indep 326/326。
+- **原始输出**：`.memory/raw-gates/big-little-lies-by-liane-moriarty/2026-09-30-*-gates*.txt`；逐条清单与同会话审查的已知盲区见工作日志本书审查节。
+
 ### [2026-09-30 18:00 UTC] [Commandcode-Mac] → All
 
 **The Secret Wife（Paul Gill）／ the-secret-wife-by-paul-gill · 全书完工 + 独立五步审查 a–e 已完成**（70 章 + 总览三篇，完整 lane，未 push）

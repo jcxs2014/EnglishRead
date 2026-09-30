@@ -140,6 +140,13 @@ modified: "2026-09-30"
 | relished | 津津有味地享受 | It was almost like they both relished the opportunity to fight without boundaries. |
 | perverted | 变态的、反常的 | As if she and Perry engaged in some sort of strange, disgusting and perverted sexual practice. |
 
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| counselor | 咨询师 | Celeste had been buoyant with hope, but as soon as she saw the cheap vinyl couch and the counselor’s eager, earnest face, she knew it was a mistake. |
+| drink | 一杯饮料 | After they left the counselor’s office, they were both so exhilarated to be out of there, their performance over, that they went to a hotel bar in the middle of the afternoon and had a drink, and flirted with each other, and they couldn’t keep their hands off each other. |
+
 ## 一句话总结
 
 「第二天」的默契让这对完美夫妻照常营业——眼睛的账目、凌晨五点的誓言、咨询师面前的演出全部归档；Celeste 拿着右肩的疼在脑内对 Renata 演完那段演讲：他打我，但从不打脸，他没那么粗俗——你的呢？

@@ -45,19 +45,8 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 3:** People walk through fire and flood for my coffee," said Tom.
 
-**中文理解**：「人们为了我的咖啡赴汤蹈火，」Tom 说。
-
-**关键词**：fire and flood（赴汤蹈火——字面的火与洪水）
-
-**为什么这样写**：自嘲的精准预言——Jane 刚刚真的蹚了「洪水」来喝他的咖啡。作者让这句咖啡馆老梗在此时此地变成字面事实：他以为在讲笑话，读者知道在讲她。这种「说者无意」的错位是莫里亚蒂喜剧的核：浪漫从不敲门，它扮成冷笑话进来。
-
-**读者视角提示**：把「赴汤蹈火」与 ch65 的「冲进雨里」连读——她的乐观症（今天要开心）与咖啡因依赖合谋完成了这场淋雨。明晚的访谈室里，这段「 flood」还会被 Carol 们加工成别的版本。
-
----
-
-> **原句 4:** She felt unaccountably happy. Cherished.
+> **原句 3:** She felt unaccountably happy. Cherished.
 
 **中文理解**：她感到没来由地快乐。被珍视。
 
@@ -69,7 +58,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 5:** "I'm not gay," said Tom.
+> **原句 4:** "I'm not gay," said Tom.
 
 **中文理解**：「我不是 gay，」Tom 说。
 
@@ -81,7 +70,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 6:** "I know I do jigsaws and make amazing pumpkin soup, but I'm actually straight."
+> **原句 5:** "I know I do jigsaws and make amazing pumpkin soup, but I'm actually straight."
 
 **中文理解**：「我知道我又拼图又做很神的南瓜汤，但我其实是直的。」
 
@@ -93,7 +82,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 7:** She'd let herself feel attracted to him because he was gay, so it didn't count.
+> **原句 6:** She'd let herself feel attracted to him because he was gay, so it didn't count.
 
 **中文理解**：她允许自己被他吸引——因为他是 gay，所以那不算数。
 
@@ -105,7 +94,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 8:** Her stomach dropped as if she were at the top of a roller coaster. Oh, calamity.
+> **原句 7:** Her stomach dropped as if she were at the top of a roller coaster. Oh, calamity.
 
 **中文理解**：她的胃猛地下坠，像站在过山车的最高点。哦，大祸临头。
 
@@ -117,7 +106,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 9:** She hoped the tremor in her fingers looked like clumsiness.
+> **原句 8:** She hoped the tremor in her fingers looked like clumsiness.
 
 **中文理解**：她希望自己手指的颤抖看起来只是笨拙。
 

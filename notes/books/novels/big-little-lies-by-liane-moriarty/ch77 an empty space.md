@@ -47,19 +47,8 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 3:** "I didn't see what happened. I didn't see him fall."
 
-**中文理解**：「我没看见发生了什么。我没看见他摔下去。」
-
-**关键词**：I didn't see（我没看见）
-
-**为什么这样写**：同盟的第一份签署——Renata 一边打电话叫救护车一边完成证词预设。作者让这句话的时机（在她报警的同时）完成全书最精妙的一次双面操作：她是本书最守法的公民（报警、控诉、走程序），也是第一个说「没看见」的人——她的法律脑同时算出了两个答案：真相重要，Bonnie 的自由更重要。这两件事在她那里没有冲突，因为她是律师。
-
-**读者视角提示**：把 Renata 的「没看见」与 ch26 的「As I said to Renata, that was just thoughtless」连读——她全书给人的印象是「不留情面的正确」，而此刻她交出的第一份证词是「空白」。这个反转是莫里亚蒂对「正义盟主」最温柔的一次改写：她的义气比她的正义快了一步。
-
----
-
-> **原句 4:** "So was I," she said. "I didn't see anything either."
+> **原句 3:** "So was I," she said. "I didn't see anything either."
 
 **中文理解**：「我也是，」她说。「我也什么都没看见。」
 
@@ -71,7 +60,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 5:** "I didn't see a thing," she said, and her voice sounded almost conversational.
+> **原句 4:** "I didn't see a thing," she said, and her voice sounded almost conversational.
 
 **中文理解**：「我什么都没看见，」她说，语气几乎像在闲聊。
 
@@ -83,7 +72,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 6:** But then she thought of her children and she didn't need to pretend anymore.
+> **原句 5:** But then she thought of her children and she didn't need to pretend anymore.
 
 **中文理解**：然后她想到了孩子们——她不再需要假装了。
 
@@ -95,7 +84,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 7:** "There's been an accident," Renata was saying into her mobile phone.
+> **原句 6:** "There's been an accident," Renata was saying into her mobile phone.
 
 **中文理解**：「这里出了事故，」Renata 对着手机说。
 
@@ -107,7 +96,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 8:** As Jane fell, she put one hand to save herself and felt something snap with sickening wrongness near her shoulder as she landed hard on her side.
+> **原句 7:** As Jane fell, she put one hand to save herself and felt something snap with sickening wrongness near her shoulder as she landed hard on her side.
 
 **中文理解**：Jane 摔倒时伸手撑地，肩膀附近传来一声令人作呕的错位脆响——她重重地侧摔在地。
 
@@ -119,7 +108,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 9:** Wait, it is Sarah, isn't it? Not Susan. My mind went blank. Sorry, Sarah. Sarah. A lovely name. It means “princess,” I think. Listen, Sarah, I need to pick up my daughter now.
+> **原句 8:** Wait, it is Sarah, isn't it? Not Susan. My mind went blank. Sorry, Sarah. Sarah. A lovely name. It means “princess,” I think. Listen, Sarah, I need to pick up my daughter now.
 
 **中文理解**：……等等，你是 Sarah 对吧？不是 Susan。我脑子一片空白。抱歉，Sarah。Sarah。好听的名字。我想是「公主」的意思。听着，Sarah，我得去接我女儿了。
 

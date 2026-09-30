@@ -11,7 +11,7 @@ modified: "2026-09-30"
 
 **情感弧线位置**：Jane 线的「重新生活」与「真相的延期」并行——恋情线向前推一格（初吻），记忆线原地停留（维克多的来信 / Jane 听错的那个名字）；这是全书唯一给 Jane 的一格蜜糖，也是最甜也最苦的一格。
 
-**Tropes 兑现/反转**：死者传讯（the posthumous go-between）；晴天的初吻（kiss in daylight）——与 ch31 的夜之吻对照；「 insisting on the 礼貌的记忆」（better manners to remember that nice movie）——真相 vs 体面的选择题。
+**Tropes 兑现/反转**：死者传讯（死者充当的传话人）；晴天的初吻（kiss in daylight）——与 ch31 的夜之吻对照；「 insisting on the 礼貌的记忆」（better manners to remember that nice movie）——真相 vs 体面的选择题。
 
 **人物弧线**：Jane 与 Celeste 的沉默（都已看见、都不说）——两人在本书的必修课是「等对方先开口」；Tom 从不承认的直白（Death 的口供 he 只有在对方先动心才敢）；Bonnie 的替罪文书已完成（charged），世界并没有因为真相而更清澈。
 
@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：四个星期后的全部真相悬于一个「也许」。作者把本书最大的定时装置放在 Jane 的一个不确定句里：跪在教堂外、几乎走不动的那个高个子（Nathan？）其实是……？」——但 Jane 自己不确认，于是「那条胳膊」永远悬着。这比确证更残酷：知情者永远可以相信他们选择相信的那一版。
 
-**读者视角提示**：把「Oh, Saxon」与 ch76 的「Except you said your name was Saxon Banks」并读——一句真话、一句未证的声音，中间隔着四周的时间与沉默。Jane 此刻「不确认」是保护也是共犯：她没有说出它，就没有人必须回答它。
+**读者视角提示**：把「Oh, Saxon」与 ch75 的「Except you said your name was Saxon Banks」并读——一句真话、一句未证的声音，中间隔着四周的时间与沉默。Jane 此刻「不确认」是保护也是共犯：她没有说出它，就没有人必须回答它。
 
 ---
 
@@ -99,9 +99,9 @@ modified: "2026-09-30"
 
 **关键词：** destined for friendship（注定做朋友）；came up for air（浮出水面换气）
 
-**为什么这样写**：吻后的第一句是她的旧恐惧（我们的统计上更适合当朋友）——她习惯用数据自保（ch68：The statistics were better for relationships）。作者让这个吻刚好落在「自保声明」之前，就为了一秒钟，让那句统计显得多余。真爱是让统计失效的统计。
+**为什么这样写**：吻后的第一句是她的旧恐惧（我们的统计上更适合当朋友）——她习惯用数据自保（本章那句「The statistics were better than for relationships」）。作者让这个吻刚好落在「自保声明」之前，就为了一秒钟，让那句统计显得多余。真爱是让统计失效的统计。
 
-**读者视角提示**：把「注定只能做朋友」与 ch50 的「friendship was the wrong word」并读——Pirriwee 的人群把「朋友」当避难所（bottles of orange juice 友谊的老地图），而真吻是唯一的越狱令。Tom 的回应（I've got enough friends——他说反话）把同一词还给爱情：在 Pirriwee，说「我有足够的朋友」的人正在准备发一个婚礼。
+**读者视角提示**：把「注定只能做朋友」与 本章 Tom 那句「I’ve got enough friends」并读——Pirriwee 的人群把「朋友」当避难所（bottles of orange juice 友谊的老地图），而真吻是唯一的越狱令。Tom 的回应（I've got enough friends——他说反话）把同一词还给爱情：在 Pirriwee，说「我有足够的朋友」的人正在准备发一个婚礼。
 
 ---
 

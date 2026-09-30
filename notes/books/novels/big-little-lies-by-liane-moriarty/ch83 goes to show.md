@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：调查中心的退场——Renata 先走了。作者让「迁居」成为 Pirriwee 里比法庭更彻底的判决：不止婚礼，Geoff 的厨师、发布、房子、社交版图全部重建。ch82 里那条「Renata moved to London with her new family」的伏笔在此正式落地：那条新闻线的唯一读者（Jane）已经不在这个信息宇宙里，Pirriwee 用午餐谈资铸造的「小世界」一夜蒸发。
 
-**读者视角提示**：把「moving to London」与 ch55 的「Little Juliette wanted to take him to France」并读——两个女人（Renata 与 Juliette）都被「英国/法国男人带走」的故事吞没，差别是：其中一个人的婚姻没有随行李一起走。本书对「出走」的处理永远带着反讽：Renata 逃出了镇，逃进了另一个更小的镇。ch82 的 Jane 逃出得更远（去到海边），也更彻底（她留下了完整的自己）。
+**读者视角提示**：把「moving to London」与 ch55 的「little Juliette wants to take him to meet ’er parents in France」并读——两个女人（Renata 与 Juliette）都被「英国/法国男人带走」的故事吞没，差别是：其中一个人的婚姻没有随行李一起走。本书对「出走」的处理永远带着反讽：Renata 逃出了镇，逃进了另一个更小的镇。ch82 的 Jane 逃出得更远（去到海边），也更彻底（她留下了完整的自己）。
 
 ---
 

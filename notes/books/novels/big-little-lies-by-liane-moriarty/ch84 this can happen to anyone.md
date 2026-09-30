@@ -41,7 +41,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：Perry 的心理侧写在此由 Celeste 以「回看」的方式给出——三个「怕」并列，正是那夜（chapter 「It meant something to her」）的底片：他不是在实施暴力，他是在害怕失序。作者让读者在倒数第二章的此刻才拿到这份侧写——它把 Perry 从「怪物」还原为「恐惧的人」，却丝毫不减轻其罪责（恐惧解释暴力，但不为它开脱）。Celeste 用「for fear」的统一句式，把三个恐惧排成一条心理链。
 
-**读者视角提示**：把「fear of losing her」与 ch77 的「She was one of many」并读——他的恐惧与他的冷漠指向同一个缺口：Celeste 从未被真正看见。她在讲台上要做的（让医生们「问对问题」）就是补上这个缺口——用「看见每一个受害者」的系统性方案。
+**读者视角提示**：把「fear of losing her」与 ch76 的「She was one of many」并读——他的恐惧与他的冷漠指向同一个缺口：Celeste 从未被真正看见。她在讲台上要做的（让医生们「问对问题」）就是补上这个缺口——用「看见每一个受害者」的系统性方案。
 
 ---
 
@@ -65,7 +65,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：治疗的反问模板，也是 Celeste 整个思考机的动力源——每一件小事（I know I should have gotten the boys to tidy the Legos that day, but I was tired）都在等 Susi 的这句仲裁。作者让「公平」与「该受」这两个词在法庭与治疗室之间架起桥：Celeste 需要的不是同情（我可怜）而是仲裁（那件事该不该发生），而 Susi 从不裁定，只把问题原样抛回——正义不在她手上，在她终于停止替 Perry 计算之后。
 
-**读者视角提示**：把「Do you think you deserved that」与 ch76 的「He's the one who did those things to Jane」并读：Madeline 用「事实」定罪，Celeste 用「公平」自审，Susi 用「反问」治疗——三套语言在本书构成三种面对 Perry 的方式。医疗工作会议上 Celeste 选择的正是第三种（呈现事实、拒绝裁定），这是她作为「幸存者同伴」而非「法官」站上讲台的理由。
+**读者视角提示**：把「Do you think you deserved that」与 ch78 的「He’s the one who did those things to Jane」并读：Madeline 用「事实」定罪，Celeste 用「公平」自审，Susi 用「反问」治疗——三套语言在本书构成三种面对 Perry 的方式。医疗工作会议上 Celeste 选择的正是第三种（呈现事实、拒绝裁定），这是她作为「幸存者同伴」而非「法官」站上讲台的理由。
 
 ---
 
@@ -77,7 +77,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：Jane 与 Celeste 的理解在这张咖啡桌的两端对接——Jane 曾说「我不想当他妈地搬来」（ch82）、「Oh, Saxon」的悬案（四周后）、而 ch82 里她对 Celeste 的「I know he was」已是一种和解的雏形。ch84 把它定稿：Jane 懂了 Celeste 的伤，也懂了 Perry 的边界；而 Celeste 唯一放心不下的是「她那么近地爱过他会不会背叛 Jane」——这在讲台上的自我检验里完成了和解（她的爱人已死，她的信托已设给 Ziggy）。
 
-**读者视角提示**：把「I know he was」与 ch07 的「你不该为 Perry 的死亡而哭」（Celeste 的内心指控）并读——Ch04 的 Cella 在 ch10 的婚床上想「这是背叛」，ch84 她以「我懂他全部的不是」作结。全书的女性友谊最终不是原谅 Perry（那无关紧要），是原谅彼此爱过同一个人的事实。
+**读者视角提示**：把「I know he was」与 ch27 的「Deserve to be hit. Deserve it.」（她对自己的判词）并读——Ch04 的 Cella 在 ch10 的婚床上想「这是背叛」，ch84 她以「我懂他全部的不是」作结。全书的女性友谊最终不是原谅 Perry（那无关紧要），是原谅彼此爱过同一个人的事实。
 
 ---
 
@@ -113,7 +113,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：全书的题眼与末句。计划中的版本是「This can happen」——一个未完成的句子（Susi 教她用「在任何人身上」收尾，但 Celeste 此刻自己找到了它）。作者让这句同时完成三件事：① 取消「受害者长什么样」的想象（ch84 开场 Susi 的第一句）；② 取消「谁会被家暴」的社会学地图（Celeste 的一生正是这张地图的反例：有钱、漂亮、有才、有朋友、有工作——而正是这些保护了她免于「不被看见」）；③ 把「这」扩大成公共的：不是「我在讲我的故事」，是「这条路上谁都可能站着」。她用一年前从 ch82 的墨迹里继承的诚实，在讲台上把它放大成了给所有人的镜子。
 
-**读者视角提示**：把「This can happen to anyone」与 ch01 的 Mrs. Ponder 隔窗的耳朵、ch51 的「The class already knew what they were waiting for」并读——Pirriwee 一直都知道，只是不说；一年后，一个前受害者在台上替它说出了它从不说出口的那半句。这是莫里亚蒂为 Pirriwee 写下的唯一道歉。
+**读者视角提示**：把「This can happen to anyone」与 ch01 的 Mrs. Ponder 隔窗的耳朵、ch83 的「And to document everything. Everything.」并读——Pirriwee 一直都知道，只是不说；一年后，一个前受害者在台上替它说出了它从不说出口的那半句。这是莫里亚蒂为 Pirriwee 写下的唯一道歉。
 
 ## 本章词汇
 
@@ -159,6 +159,13 @@ modified: "2026-09-30"
 | terrified | （极度）害怕 | She wanted to give that terrified man in the uncool sweater the confidence to share his own bare ugly truth. |
 | mistakes | （那些年的）错误 | She wanted to let him know that at least one person here today understood all the mistakes he’d made along the way: the times he’d hit back, the times he’d stayed when he should have left, the times he’d given her another chance, the times he’d deliberately antagonized her, the times he’d let his children see things they shouldn’t see. |
 
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| accident | 事故 | Celeste had made it clear she wanted no money from the school and that she would be donating back any payouts she received to cover higher insurance premiums as a result of the accident. |
+| bar stools | 吧台凳 | He also took into account the testimony of expert witnesses who proved that the balcony railing was beneath the minimum height requirements of the current building code, that the bar stools were not appropriate for use on the balcony, and that other contributing factors included the weather, the consequent slipperiness of the railing and the intoxication of both the defendant and the victim. |
+
 ## 一句话总结
 
-一年后的讲台上，抖着手端水的 Celeste 把一年前计划好的体面扔进了麦克风里——判刑书（二百小时、栏杆矮几寸、双方醉意）、对 Perry 的三重矛盾哀悼（他该死／她想他／她疯了）、给 Ziggy 的等额信托、给「另一个她」的握手，全部汇入那句从 ch77 的「I never see anything」走到今天的五个词：**This can happen to anyone.**
+一年后的讲台上，抖着手端水的 Celeste 把一年前计划好的体面扔进了麦克风里——判刑书（二百小时、栏杆矮几寸、双方醉意）、对 Perry 的三重矛盾哀悼（他该死／她想他／她疯了）、给 Ziggy 的等额信托、给「另一个她」的握手，全部汇入那句从 ch77 的「I didn’t see a thing」走到今天的五个词：**This can happen to anyone.**

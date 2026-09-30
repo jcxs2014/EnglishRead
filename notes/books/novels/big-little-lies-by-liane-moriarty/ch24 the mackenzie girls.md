@@ -155,6 +155,13 @@ modified: "2026-09-30"
 | mortified | 羞愧到想找地缝 | He looked mortified. |
 | fiercely | 用力狠狠地 | Madeline saw Nathan smile fiercely at the little girl and squeeze her hand. |
 
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| house color | 班色 | Chloe and Fred were “Dolphins” and their house color was green, which was fortunate because Madeline looked good in green. |
+| money | 钱 | “We’ll have to work out the money,” said Nathan. |
+
 ## 一句话总结
 
 绿发喷雾还没落下，家已经先散了场——Abigail 用「灵性」完成叛逃登记，Nathan 用好爸爸制服领走掌声与女儿； Madeline 把十年的空账清算成一句「立法提案」，又在 Miss Barnes 那颗「什么都不下垂」的青春果实前，吞下了年龄政治的本日份。

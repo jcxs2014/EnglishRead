@@ -11,7 +11,7 @@ modified: "2026-09-30"
 
 **情感弧线位置**：校园战争的白热化倒计时——请愿书把 Ziggy 案推到「公投」级别；而读书会之夜的客厅里，两份孩子的证词（Lily 的善意、Chloe 的拳头）给出大人们给不出的判断。
 
-**Tropes 兑现/反转**：驱逐请愿（the expulsion petition）——用民主程序包装的围猎；读书会的政治学（culture war in the living room）；拳头外交——Chloe 的右直拳终于兑现（ch07 的预言）。
+**Tropes 兑现/反转**：驱逐请愿（驱逐请愿书）——用民主程序包装的围猎；读书会的政治学（culture war in the living room）；拳头外交——Chloe 的右直拳终于兑现（ch07 的预言）。
 
 **人物弧线**：Madeline 的「悲伤项目管理学」（没人送花就办读书会）与她的情报反应速度同框；Harper 从「附和者」升级为「发起人」；Chloe 的正义感继承自母亲，且先开火。
 
@@ -117,6 +117,11 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| environment | （安全）环境 | You need to be able to send your child to school and know that she’s in a safe environment. |
 | emphatically | 斩钉截铁地 | Lipmann: I most emphatically disagree. |
 | accidentally | （不小心）错签 | Gabrielle: Don’t tell anyone, but I think I accidentally signed it. |
 | pedestrian | 行人（过街） | I thought it was the petition about getting the council to put in a pedestrian crossing on Park Street. |
@@ -131,11 +136,18 @@ modified: "2026-09-30"
 | ill-begotten | 来路不正的 | Then she’d blushed, ashamed of her ill-begotten knowledge. |
 | apologetic | 歉意的 | “It’s a petition to have Ziggy suspended from the school,” said Samantha with an apologetic grimace, as if she’d stepped on Madeline’s toe. |
 | ridiculous | 荒唐 | That’s ridiculous! |
+| five-year-old | 五岁（的） | To get rid of a five-year-old? |
 | pretentious | 装腔作势的 | He said the idea of book clubs brought back horrible memories of pretentious classmates in English Lit. |
 | infestation | （怪兽）出没 | Due to the recent monster infestation of her room, Chloe had developed a new habit where Mummy or Daddy had to lie down with her “just for a few minutes” before she fell asleep. |
 | inevitably | 难免 | The only problem was that Madeline or Ed inevitably fell asleep too, emerging from Chloe’s room an hour or so later, dazed and blinking. |
 | angelically | 天使般地 | She gazed angelically up at them and hugged her teddy. |
 
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Samantha | 人名（Samantha） | Samantha: Have you heard about the petition? |
+| disagree | 不同意 | Lipmann: I most emphatically disagree. |
 | marathons | 马拉松 | She ran marathons, but Madeline forgave her for this flaw because Samantha seemed to say exactly what she thought and she was also one of those people who were completely at the mercy of her own sense of humor. |
 | befriend | （跟谁）交好 | Madeline’s fear that Chloe would befriend Skye had therefore proven unfounded. |
 | unfounded | （担心）落空 | Madeline’s fear that Chloe would befriend Skye had therefore proven unfounded. |
@@ -143,6 +155,10 @@ modified: "2026-09-30"
 | suspended | （学籍）暂停 | “It’s a petition to have Ziggy suspended from the school,” said Samantha with an apologetic grimace, as if she’d stepped on Madeline’s toe. |
 | marvelous | 绝妙的（意象） | “If anyone uses the words ‘marvelous imagery’ or ‘narrative arc,’ slap them for me,” he’d told her. |
 
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | logistical nightmare | 排期地狱 | “Oh, yes, it’s a logistical nightmare,” said Madeline. |
 
 ## 一句话总结

@@ -147,6 +147,13 @@ modified: "2026-09-30"
 | crouched | 蹲下 | “Bonnie looks so professional,” commented Samantha as Bonnie crouched down into a starting position. |
 | masterful | 霸气的、说一不二 | “I love it when you’re masterful, Jonathan,” said Samantha. |
 
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| big deal | 大事 | This was not a big deal, she kept telling herself. |
+| children practice | 孩子们练习朗读 | Every Monday morning she and another parent volunteer helped out Miss Barnes by listening to the children practice their reading. |
+
 ## 一句话总结
 
 起跑线上，Jane 交齐了社交税却仍被记成「Jess」——审视的和风里，那盏「瞪视之灯」与喉咙上的重压第一次近景曝光；Bonnie 蹲出全场唯一的专业姿势，Renata 的胫骨替她免赛，而 Thea 用「说不出好话就别说」的格言，完成了一记最响的沉默。

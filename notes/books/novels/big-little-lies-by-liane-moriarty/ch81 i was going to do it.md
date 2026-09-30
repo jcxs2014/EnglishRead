@@ -59,7 +59,7 @@ modified: "2026-09-30"
 
 > **原句 4:** No, you weren’t, my darling, she thought as she brushed away her tears with the back of her hand. No, you weren’t.
 
-**中文理解**（我的思维）：你并没有，亲爱的——她用手背抹掉眼泪时想。你并没有。
+**中文理解**：你并没有，亲爱的——她用手背抹掉眼泪时想。你并没有。
 
 **关键词**： No, you weren’t（你并没有）
 

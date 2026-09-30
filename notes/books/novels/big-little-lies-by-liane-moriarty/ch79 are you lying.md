@@ -57,6 +57,13 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| conversation | （警方的）问话 | She looked at the door of her room and wished for someone, anyone, to come and save her from this conversation. |
+| relationship | （与 Perry 的）关系 | “And what was your relationship with Perry? |
+
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |

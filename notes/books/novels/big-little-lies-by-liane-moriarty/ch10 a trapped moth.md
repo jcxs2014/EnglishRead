@@ -132,6 +132,13 @@ modified: "2026-09-30"
 | personality | 人格、个性 | New personality traits could appear overnight. |
 | blue-veined | 透着青色血管的 | His blue-veined eyelids twitched. |
 
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| freckles | 雀斑 | He had three freckles on his nose now. |
+| whiskers | 猫须（触须） | There would be tiny black dots of whiskers across his upper lip. |
+
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |

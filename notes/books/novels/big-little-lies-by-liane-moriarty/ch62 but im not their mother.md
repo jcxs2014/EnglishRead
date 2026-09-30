@@ -11,7 +11,7 @@ modified: "2026-09-30"
 
 **情感弧线位置**：Madeline 线的爱之极限——「我不是她们妈妈」这句话同时是失败的辩护与成功的表白；追尾事故给案发前夜的火药再添一层「保险杠外交」。
 
-**Tropes 兑现/反转**：亲子辩论赛（the mother-daughter debate）；「前戏预演」的残酷问题清单（hotel? lift? condoms?）；追尾的宿命（rear-ending the enemy）。
+**Tropes 兑现/反转**：亲子辩论赛（母女在车厢里的那场辩论）；「前戏预演」的残酷问题清单（hotel? lift? condoms?）；追尾的宿命（rear-ending the enemy）。
 
 **人物弧线**：Madeline 的「想象力管理论」（关上心、想新鞋）被女儿一句「她们也在十四岁」击穿；Abigail 的眼泪第一次与语言同步（不再只有倔强）；Renata 的宝马「被撞」在访谈体里获得阴谋论包装。
 

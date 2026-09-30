@@ -117,6 +117,15 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| unselfconsciously | 毫不忸怩地 | Madeline hobbled along in bare feet, leaning heavily and unselfconsciously on Jane’s shoulder as if they were old friends. |
+| secondhand | 二手的 | The bright blue uneven walls were lined with rickety shelves filled with secondhand books. |
+| dissatisfied | 不满足的 | As Jane looked around her, she felt that dissatisfied feeling she often experienced when she was somewhere new and lovely. |
+| effervescent | 活泼冒泡的 | Ziggy too had been wide-eyed and self-conscious at the novelty of having another child in the backseat with him, especially one as effervescent and charismatic as Chloe. |
+
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |

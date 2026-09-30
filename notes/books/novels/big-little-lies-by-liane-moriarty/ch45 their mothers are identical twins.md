@@ -23,15 +23,14 @@ modified: "2026-09-30"
 
 > **原句 1:** "Perry has a cousin called Saxon Banks," said Celeste.
 
-**中文理解**：「Perry 有个表哥叫 Saxon Banks，」Celeste 说。
 
-**为什么这样写**：全书结构的中枢神经在此接通——八个字把两条线（Jane 的过去、Celeste 的现在）焊成一条。作者让这个揭示以最家常的形态出现：洗碗池边、半块玛芬、一句咳嗽。没有配乐，没有闪回——莫里亚蒂故意不给这场「真相」任何仪式感，因为生活里的巧合从来不敲门。
+**中文理解**：「Perry 有个表哥叫 Saxon Banks，」Celeste 说。
 
 **关键词**：a cousin（表哥）
 
-**读者视角提示**：把这一句抄进证据链正中央。终章的一切（Perry 为什么在车里、为什么认识 Jane、为什么那晚在阳台）都从这条血缘出发。此刻你只需记住：世界很小，小到施暴者与受害者的邻居是亲戚。
+**为什么这样写**：全书结构的中枢神经在此接通——八个字把两条线（Jane 的过去、Celeste 的现在）焊成一条。作者让这个揭示以最家常的形态出现：洗碗池边、半块玛芬、一句咳嗽。没有配乐，没有闪回——莫里亚蒂故意不给这场「真相」任何仪式感，因为生活里的巧合从来不敲门。
 
----
+**读者视角提示**：把这一句抄进证据链正中央。终章的一切（Perry 为什么在车里、为什么认识 Jane、为什么那晚在阳台）都从这条血缘出发。此刻你只需记住：世界很小，小到施暴者与受害者的邻居是亲戚。
 
 > **原句 2:** "And he's devoted to his wife," said Celeste as Madeline pulled up the page again. "He's lovely! Warm, funny. I can't even imagine him being unfaithful. Let alone being so . . . cruel."
 

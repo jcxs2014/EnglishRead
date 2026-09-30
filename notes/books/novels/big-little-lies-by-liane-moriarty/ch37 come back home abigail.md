@@ -41,7 +41,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：作者把「跟前任做朋友」的社交定律移植到母女身上——同一段关系，两种语法互译。 Madeline 的自我审查清单（怪癖、浮夸、tacky）在此全部立案：青春期的目光是母亲的镜子，而且是不反光的那种。三个名词短语（随意、脆弱、自觉）精确复刻离异父母见孩子的心理台本。
 
-**读者视角提示**：对照 ch32 的「silly girl」辩论——成年人对「可爱」的定义权之争无处不在。Abigail 的目光让 Madeline 第一次从被爱的确信里跌出来。
+**读者视角提示**：对照 ch34 的「silly girl」辩论——成年人对「可爱」的定义权之争无处不在。Abigail 的目光让 Madeline 第一次从被爱的确信里跌出来。
 
 ---
 
@@ -156,6 +156,13 @@ modified: "2026-09-30"
 | excessive | 过量的（共情） | She had too much empathy (although, of course, all that excessive empathy was never directed at Madeline or Ed, or Chloe and Fred). |
 | visceral | 直击内脏的（记忆） | Sometimes just the sound of Nathan’s voice could evoke a wave of visceral memory: betrayal, resentment, rage and confusion. |
 | betrayal | 背叛 | Sometimes just the sound of Nathan’s voice could evoke a wave of visceral memory: betrayal, resentment, rage and confusion. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| bloody | 他妈的 | She imagined grabbing him by the hair on the back of his head and smashing his face over and over against some sort of concrete surface until it was a bloody, pulpy mess. |
+| cheek | 脸颊 | “Bye, Mum,” said Abigail, and she leaned down to kiss her compassionately on the cheek, as if Madeline were an elderly aunt she’d been visiting and now, phew, it was time to get out of this musty place and go back home. |
 
 ## 一句话总结
 

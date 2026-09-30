@@ -77,7 +77,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：本章的表情特写——「遥远」是个不可思议的词，配在一个五岁孩子脸上。作者用「目光越过母亲」完成关系位移的镜头语言：他第一次不看她（ch07 的直视 Renata、ch29 的考拉攀挂都过去了）。这个孩子学会了对母亲「封闭频道」——不是叛逆，是自保。
 
-**读者视角提示**：把「remote」与 ch07 的「clear and precise」对照——同一个孩子的两种防线：对外，他把话说得清楚；对内（对最爱他的人），他选择没有表情。这句话会在终章得到解释，值得划线。
+**读者视角提示**：把「remote」与 ch07 的「He spoke very clearly and precisely」对照——同一个孩子的两种防线：对外，他把话说得清楚；对内（对最爱他的人），他选择没有表情。这句话会在终章得到解释，值得划线。
 
 ---
 
@@ -112,6 +112,13 @@ modified: "2026-09-30"
 | Pinching | 掐 | “Pinching her. |
 | carefully | 小心地（耙出直线） | He kept his eyes on the sand, carefully raking straight lines. |
 | somewhere | （目光落在脑后的）某处 | His eyes looked off somewhere behind her head. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| dog | 狗 | Far in the distance, Jane could see someone walking a dog, and one lone surfer in a full-body wet suit was walking toward the water, his board under his arm. |
+| sand castle | 沙堡 | They were on the beach, building a sand castle out of cold sand. |
 
 ## 一句话总结
 

@@ -1,0 +1,166 @@
+# a 步原始门禁输出（2026-09-30 五步审查）
+
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub）===
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 592/592 引文可核实（100%）；完全干净文件 84/84；正文章节 0 提取 0；总览 0 提取转交 2 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 1880
+--- FAIL (0) ---
+--- WARN (76) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 592 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 40 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 a riot not a trivia night.md              ch01 a riot not a trivia night.md: 8/8 in ch01 text
+ch02 festival of madeline.md                   ch02 festival of madeline.md: 8/8 in ch02 text
+ch03 jane meets madeline.md                    ch03 jane meets madeline.md: 8/8 in ch03 text
+ch04 blue blues.md                             ch04 blue blues.md: 8/8 in ch04 text
+ch05 champagne breakfast.md                    ch05 champagne breakfast.md: 8/8 in ch05 text
+ch06 the police lineup.md                      ch06 the police lineup.md: 8/8 in ch06 text
+ch07 ziggy doesnt lie.md                       ch07 ziggy doesnt lie.md: 8/8 in ch07 text
+ch08 christmas five months before.md           ch08 christmas five months before.md: 6/6 in ch08 text
+ch09 put down your pens.md                     ch09 put down your pens.md: 8/8 in ch09 text
+ch10 a trapped moth.md                         ch10 a trapped moth.md: 8/8 in ch10 text
+ch11 perhaps she could stay.md                 ch11 perhaps she could stay.md: 7/7 in ch11 text
+ch12 over my dead body.md                      ch12 over my dead body.md: 7/7 in ch12 text
+ch13 the day after.md                          ch13 the day after.md: 8/8 in ch13 text
+ch14 stilettos in the pool.md                  ch14 stilettos in the pool.md: 8/8 in ch14 text
+ch15 banana muffins.md                         ch15 banana muffins.md: 8/8 in ch15 text
+ch16 damaged girls.md                          ch16 damaged girls.md: 7/7 in ch16 text
+ch17 pink envelopes.md                         ch17 pink envelopes.md: 8/8 in ch17 text
+ch18 this is war.md                            ch18 this is war.md: 8/8 in ch18 text
+ch19 keep an eye on jane.md                    ch19 keep an eye on jane.md: 7/7 in ch19 text
+ch20 perfect petes plumbing.md                 ch20 perfect petes plumbing.md: 7/7 in ch20 text（另有 1 条短引语未校验）
+ch21 disney on ice.md                          ch21 disney on ice.md: 8/8 in ch21 text
+ch22 tacit permission.md                       ch22 tacit permission.md: 8/8 in ch22 text
+ch23 harry the hippo.md                        ch23 harry the hippo.md: 8/8 in ch23 text
+ch24 the mackenzie girls.md                    ch24 the mackenzie girls.md: 8/8 in ch24 text
+ch25 the kindy mums race.md                    ch25 the kindy mums race.md: 8/8 in ch25 text
+ch26 the blue ribbon.md                        ch26 the blue ribbon.md: 8/8 in ch26 text
+ch27 the two shameful words.md                 ch27 the two shameful words.md: 8/8 in ch27 text
+ch28 packing abigails bed.md                   ch28 packing abigails bed.md: 8/8 in ch28 text
+ch29 the family tree project.md                ch29 the family tree project.md: 8/8 in ch29 text
+ch30 saxon banks.md                            ch30 saxon banks.md: 8/8 in ch30 text
+ch31 the glass bubble.md                       ch31 the glass bubble.md: 8/8 in ch31 text
+ch32 one man said it was so.md                 ch32 one man said it was so.md: 8/8 in ch32 text
+ch33 a plan for next time.md                   ch33 a plan for next time.md: 8/8 in ch33 text
+ch34 she couldnt unknow it.md                  ch34 she couldnt unknow it.md: 8/8 in ch34 text
+ch35 the lapis necklace.md                     ch35 the lapis necklace.md: 8/8 in ch35 text
+ch36 the principals office.md                  ch36 the principals office.md: 8/8 in ch36 text
+ch37 come back home abigail.md                 ch37 come back home abigail.md: 8/8 in ch37 text
+ch38 awaiting activation.md                    ch38 awaiting activation.md: 7/7 in ch38 text（另有 1 条短引语未校验）
+ch39 is it you ziggy.md                        ch39 is it you ziggy.md: 6/6 in ch39 text
+ch40 the erotic book club.md                   ch40 the erotic book club.md: 8/8 in ch40 text
+ch41 is nobody allowed to play with me.md      ch41 is nobody allowed to play with me.md: 6/6 in ch41 text
+ch42 another tennis partner.md                 ch42 another tennis partner.md: 6/6 in ch42 text
+ch43 incandescent.md                           ch43 incandescent.md: 7/7 in ch43 text
+ch44 a man of mystery.md                       ch44 a man of mystery.md: 7/7 in ch44 text
+ch45 their mothers are identical twins.md      ch45 their mothers are identical twins.md: 7/7 in ch45 text
+ch46 genetic half brothers.md                  ch46 genetic half brothers.md: 7/7 in ch46 text（另有 1 条短引语未校验）
+ch47 he hasnt got it in him.md                 ch47 he hasnt got it in him.md: 8/8 in ch47 text
+ch48 damn you to hell.md                       ch48 damn you to hell.md: 8/8 in ch48 text
+ch49 like a plane taking off.md                ch49 like a plane taking off.md: 6/6 in ch49 text（另有 1 条短引语未校验）
+ch50 like mother like son.md                   ch50 like mother like son.md: 7/7 in ch50 text
+ch51 the boss has spoken.md                    ch51 the boss has spoken.md: 7/7 in ch51 text
+ch52 a guest at her birthday.md                ch52 a guest at her birthday.md: 8/8 in ch52 text
+ch53 darth vader.md                            ch53 darth vader.md: 8/8 in ch53 text
+ch54 not good enough.md                        ch54 not good enough.md: 7/7 in ch54 text
+ch55 geoff and juliette.md                     ch55 geoff and juliette.md: 6/6 in ch55 text（另有 1 条短引语未校验）
+ch56 dr jekyll and mr hyde.md                  ch56 dr jekyll and mr hyde.md: 8/8 in ch56 text
+ch57 buymyvirginitycom.md                      ch57 buymyvirginitycom.md: 7/7 in ch57 text
+ch58 killed dead.md                            ch58 killed dead.md: 7/7 in ch58 text
+ch59 the ringleaders front tooth.md            ch59 the ringleaders front tooth.md: 7/7 in ch59 text
+ch60 miss polly had a dolly.md                 ch60 miss polly had a dolly.md: 5/5 in ch60 text（另有 1 条短引语未校验）
+ch61 ziggy was a hero.md                       ch61 ziggy was a hero.md: 7/7 in ch61 text
+ch62 but im not their mother.md                ch62 but im not their mother.md: 8/8 in ch62 text
+ch63 sliding doors.md                          ch63 sliding doors.md: 8/8 in ch63 text
+ch64 the bering strait.md                      ch64 the bering strait.md: 7/7 in ch64 text
+ch65 a storm in a teacup.md                    ch65 a storm in a teacup.md: 5/5 in ch65 text（另有 2 条短引语未校验）
+ch66 love account.md                           ch66 love account.md: 6/6 in ch66 text（另有 1 条短引语未校验）
+ch67 larry fitzgerald.md                       ch67 larry fitzgerald.md: 6/6 in ch67 text
+ch68 im open for you.md                        ch68 im open for you.md: 7/7 in ch68 text（另有 2 条短引语未校验）
+ch69 from mindy.md                             ch69 from mindy.md: 6/6 in ch69 text
+ch70 not on a school night.md                  ch70 not on a school night.md: 8/8 in ch70 text
+ch71 its over.md                               ch71 its over.md: 7/7 in ch71 text
+ch72 the spilled cocktail.md                   ch72 the spilled cocktail.md: 8/8 in ch72 text
+ch73 my fair lady.md                           ch73 my fair lady.md: 8/8 in ch73 text
+ch74 you got the wrong kid.md                  ch74 you got the wrong kid.md: 6/6 in ch74 text
+ch75 except you said saxon banks.md            ch75 except you said saxon banks.md: 8/8 in ch75 text
+ch76 he fell.md                                ch76 he fell.md: 8/8 in ch76 text
+ch77 an empty space.md                         ch77 an empty space.md: 9/9 in ch77 text
+ch78 bonnie is family too.md                   ch78 bonnie is family too.md: 7/7 in ch78 text（另有 1 条短引语未校验）
+ch79 are you lying.md                          ch79 are you lying.md: 3/3 in ch79 text
+ch80 i dont hide under the bed anymore.md      ch80 i dont hide under the bed anymore.md: 7/7 in ch80 text（另有 1 条短引语未校验）
+ch81 i was going to do it.md                   ch81 i was going to do it.md: 5/5 in ch81 text（另有 1 条短引语未校验）
+ch82 vic says hurry up.md                      ch82 vic says hurry up.md: 8/8 in ch82 text
+ch83 goes to show.md                           ch83 goes to show.md: 8/8 in ch83 text
+ch84 this can happen to anyone.md              ch84 this can happen to anyone.md: 8/8 in ch84 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+⚠️ ch02 festival of madeline.md: md 块 8 / 工具抽到 8
+⚠️ ch03 jane meets madeline.md: md 块 8 / 工具抽到 8
+⚠️ ch04 blue blues.md: md 块 8 / 工具抽到 8
+⚠️ ch06 the police lineup.md: md 块 8 / 工具抽到 8
+⚠️ ch07 ziggy doesnt lie.md: md 块 8 / 工具抽到 8
+⚠️ ch08 christmas five months before.md: md 块 6 / 工具抽到 6
+⚠️ ch11 perhaps she could stay.md: md 块 7 / 工具抽到 7
+⚠️ ch12 over my dead body.md: md 块 7 / 工具抽到 7
+⚠️ ch14 stilettos in the pool.md: md 块 8 / 工具抽到 8
+⚠️ ch16 damaged girls.md: md 块 7 / 工具抽到 7
+⚠️ ch17 pink envelopes.md: md 块 8 / 工具抽到 8
+⚠️ ch18 this is war.md: md 块 8 / 工具抽到 8
+⚠️ ch19 keep an eye on jane.md: md 块 7 / 工具抽到 7
+⚠️ ch21 disney on ice.md: md 块 8 / 工具抽到 8
+⚠️ ch23 harry the hippo.md: md 块 8 / 工具抽到 8
+⚠️ ch25 the kindy mums race.md: md 块 8 / 工具抽到 8
+⚠️ ch26 the blue ribbon.md: md 块 8 / 工具抽到 8
+⚠️ ch28 packing abigails bed.md: md 块 8 / 工具抽到 8
+⚠️ ch30 saxon banks.md: md 块 8 / 工具抽到 8
+⚠️ ch32 one man said it was so.md: md 块 8 / 工具抽到 8
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（big-little-lies-by-liane-moriarty）===
+  ✅ 逐字 1953 ｜ ⚠️ 跨章 27 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 24
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 8 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 28/28 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: ➖ 无引语行（正常，非门禁项）
+
+=== 总览引文 28/28 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
