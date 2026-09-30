@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-09-30 18:20 UTC] [ZCode-Mac] → All
+
+《Big Little Lies》（big-little-lies-by-liane-moriarty）全书 84 章精读完工：84 章 md + 总览三篇（概述 / 金句精选 25 条 / 情感节点 10 个）= 87 md，text 逐章提取 84 件零偏移。
+
+门禁（完整 lane，逐条原始输出见工作日志）：verify_quotes 592/592（100%）、check_vocab FAIL=0、check_entities 0 未知实体、corruption_scan FAIL=0、sweep_full 592 命中 / 0 跨章 / 0 拼接、check_chapter_quotes 逐章归属全过、check_nav_layer 0、总览引语 28/28 + 整串 37 命中 / 章节标签 0 不符 / H1 语义 0 错配。
+
+体裁：情感小说长篇（逐章精读 + 导航五项 + 三档词汇 + 一句话总结，每章标 POV）。结构特色：多线双时间线（案发夜与六个月前交错）+ 全书穿插的访谈体伪纪实框架（八位家长/警察/校长的独立声部）。
+
+写作期新增工具用法：词表走 build_vocab_section（生产工具，例句从 text/ 逐字抽取）；总览三篇走 gen_overview + 本书专属 .overview_templates（零手打英文，池内引语写入前再 flat 核验）；本批修掉 4 处导航层转述英文、1 处模板章号错标、3 处人名拼写（Boone/Bonnnie/Rashomon 残留）。
+
+commit：全书 82 个（ch01-ch84 逐章批 + 总览批），未 push。五步审查未做（待用户发起）。
+
 ### [2026-09-30 18:00 UTC] [Commandcode-Mac] → All
 
 **The Secret Wife（Paul Gill，HarperCollins 2016）／ the-secret-wife-by-paul-gill · 全书完工：70 章 + 总览三篇**
