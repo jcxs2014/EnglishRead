@@ -8,7 +8,7 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **一句话概括**：她用一夜把丈夫肢解、装进四只行李袋，冲掉地上的血；Rose 上午来敲门，她一边应付一边扫掉角落那摊血，Rose 临走撂下一句"你的秘密藏不久"，她随即拨通了 Skull 的电话。
-- **情感弧线位置**：全书**事后最冷**的一章。上一章是爆发，本章是**打扫**——作者把她的情绪压到近乎没有，恐怖反而从流程与细节里渗出来。唯一一次情绪外泄是她看见行李袋渗血时那一下头晕。
+- **情感弧线位置**：全书事后情绪**压得最低**的一章。上一章是爆发，本章是**打扫**——作者把她的情绪压到近乎没有，恐怖反而从流程与细节里渗出来。情绪外泄只有一处，是她看见行李袋渗血时那一下头晕。
 - **线索结构**：四样东西被摆上台面——**四只装人的行李袋**、**浴缸里冲掉的血**、**沙发（Rose 差一点坐上去）**、**昨夜那声喊叫**。而"丈夫为什么在她昏迷前不在场"这个问题，本章没有交代。
 - **人物弧线**：Lynn 从"刚杀完人的人"切换成"处理善后的人"，切换速度快得可怕——她能一边盯着袋子一边琢磨鲨鱼。谎话脱口而出的速度比上一章的锤子还快。
 - **叙事手法**：用**家务流程**写凶案善后（洗衣纸、漂白水、扔进浴缸、旧毯子盖沙发）；Rose 的来访把她的独白切成一问一答，读者被迫跟着她**一边说谎一边目视血迹**。
@@ -26,14 +26,14 @@ modified: "2026-10-01"
 
 - **中文理解**：那双打了我那么多次的手臂，现在躺在厨房地板上，紧挨着他的头，从脖子上被切了下来。防水布被血泡透了。
 - **关键词**：hit me so many times（打了我那么多次）／lying on the kitchen floor（躺在厨房地板上）／cut from his neck（从脖子上被切下）／drenched in blood（被血浸透）
-- **为什么这样写**：全书最冷的一次报复记账——她没有说"我杀了他"，而是说**那双手臂在哪里**。定语从句 his arms that hit me so many times 把施暴史压进了主语里，一句话同时完成受害与偿清。作者把断口的位置写得极具体（next to his head，紧挨着头），让读者看见**客厅到厨房的这段地板**。The tarp is drenched in blood 单独成句，句子越短，血越多。
+- **为什么这样写**：冷到极点的一次报复记账——她没有说"我杀了他"，而是说**那双手臂在哪里**。定语从句 his arms that hit me so many times 把施暴史压进了主语里，一句话同时完成受害与偿清。作者把断口的位置写得极具体（next to his head，紧挨着头），让读者看见**客厅到厨房的这段地板**。The tarp is drenched in blood 单独成句，句子越短，血越多。
 - **读者视角提示**：防水布在前面章节就已经铺在地板上，本章它是**回收利用**的道具。留意这层连续性：她处理尸体的每一步都在用家里现成的东西。
 
 > **原句 3:** The murdering part on its own had been much easier than the clean-up. Who knew taking a life would be so simple? It just takes a few swings to extinguish a whole existence.
 
 - **中文理解**：光是杀人这一段，比收拾残局容易得多。谁会想到取一条命竟然这么简单。只要挥几下，就能掐灭一整条存在。
 - **关键词**：on its own（单就……本身而言）／much easier than（比……容易得多）／a few swings（几下挥击）／extinguish a whole existence（掐灭一整条存在）
-- **为什么这样写**：作者在这里做了一件冷酷的事——**把杀的容易和善后的难倒过来讲**。读者预期的是"杀人难、清理更难"，作者说反了，于是真正的重量落到了下一段：她光是分装就干了一整夜。extinguish（掐灭）把杀人写成**熄火**，一个日常的、不流血的动作；a few swings（几下）里的"几下"是全书最轻描淡写的杀人描述。紧接着的下一段她又想起运尸地点：*But now I need to dispose of him somewhere. I wrack my brain, but then I realize what better place than the vast ocean, where sharks will feast on him? Except, I don’t have a boat to get to the deeper depths.*——**没有船**这三个字让她的轻松立刻落空。
+- **为什么这样写**：作者在这里做了一件冷酷的事——**把杀的容易和善后的难倒过来讲**。读者预期的是"杀人难、清理更难"，作者说反了，于是真正的重量落到了下一段：她光是分装就干了一整夜。extinguish（掐灭）把杀人写成**熄火**，一个日常的、不流血的动作；a few swings（几下）里的"几下"把杀人写成了不值得多说的动作。紧接着的下一段她又想起运尸地点：*But now I need to dispose of him somewhere. I wrack my brain, but then I realize what better place than the vast ocean, where sharks will feast on him? Except, I don’t have a boat to get to the deeper depths.*——**没有船**这三个字让她的轻松立刻落空。
 - **读者视角提示**：⚠️ 原文只说她**想到**深海投尸，**没有说**她后来真的这么做了。本章的处置计划停在"缺一条船"。
 
 > **原句 4:** “I’ve been fine.” She elongates the word “fine,” then leans forward, placing her hands on her knees. “I think I heard a scream coming out of your house last night. Was that you?”

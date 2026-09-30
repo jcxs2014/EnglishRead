@@ -8,9 +8,9 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **一句话概括**：她翻出那个二十多年没敢再拨的号码，请当年唯一肯赊账给她的毒贩来家里；两个小时后她当面说出"我杀了他"，付了一百 thousand美元买运尸；可松下来的那一刻，真正压着她的账才浮上来——全家都死在她手上。
-- **情感弧线位置**：全书**唯一一次让"温暖"落进她生活**的章节。旧日被救的往事、拥抱、被叫一声"姑娘"，全是真心的；但这份温暖是当天付钱买的，所以紧跟着价码与清算。
-- **线索结构**：三样东西。Skull 的真名本章**仍然没有出现**——她自己也说不知道；那个跟踪她的女人由**她本人**提出怀疑，措辞是"我觉得"，全程没有证据；本章唯一被明码标价的东西是**运尸**。
-- **人物弧线**：Lynn 从"一个人扛"变成"雇人办事"——她第一次承认自己付不起也做不了；同时她第一次**对别人说出**自己杀了人。
+- **情感弧线位置**：全书**极少见的"温暖"章节**。旧日被救的往事、拥抱、被叫一声"姑娘"，全是真心的；但这份温暖是当天付钱买的，所以紧跟着价码与清算。
+- **线索结构**：三样东西。Skull 的真名本章**仍然没有出现**——她自己也说不知道；那个跟踪她的女人由**她本人**提出怀疑，措辞是"我觉得"，全程没有证据；本章被明码标价的只有**运尸**这一件。
+- **人物弧线**：Lynn 从"一个人扛"变成"雇人办事"——她承认自己付不起也做不了；同时她**对别人说出**了自己杀了人。
 - **叙事手法**：先用**听觉场景**开场（只闻其声、不见其人，读者和她一起等对面开口）；中段靠一连串短引语推进，把最重的自白压成五个字；结尾一句把"雇人处理掉"的释然，换成另一笔更大的债。
 
 ## 精读
@@ -26,7 +26,7 @@ modified: "2026-10-01"
 
 - **中文理解**：是他在那家餐馆后面找到我的——我因为差点过量，躺在地上毫无生气。他开车送我去过两次医院，我的命 thanks to 他才不止一次被救回来。过了这么多年我仍觉得自己和他有牵连，可我连他的真名都不知道。
 - **关键词**：behind the restaurant（在餐馆后面）／lying on the ground lifeless（躺在地上毫无生气）／nearly overdosed（差点用药过量）／saved more than once（不止一次被救回）／don’t even know his real name（连他的真名都不知道）
-- **为什么这样写**：全书最重的一次**关系倒置**——她此刻要买的是杀夫的运尸服务，而这个人是当年两次把她从死亡线上拉回来的人。作者用**加害者施恩**的错位制造不适感，也让她的"我必须找他"变得可以理解：她手上能打的牌只剩这一张。末句的 don't even know his real name 极关键——这说明 Skull 这个人对她而言**至今仍是一个代号**，而读者也始终拿不到名字。作者顺手补了一句他的来历：*He got the nickname Skull because his head is shaped just like one.*（头形像骷髅，所以得了这个绰号）
+- **为什么这样写**：这里有一处刺眼的**关系倒置**——她此刻要买的是杀夫的运尸服务，而这个人是当年两次把她从死亡线上拉回来的人。作者用**加害者施恩**的错位制造不适感，也让她的"我必须找他"变得可以理解：她手上能打的牌只剩这一张。末句的 don't even know his real name 极关键——这说明 Skull 这个人对她而言**至今仍是一个代号**，而读者也始终拿不到名字。作者顺手补了一句他的来历：*He got the nickname Skull because his head is shaped just like one.*（头形像骷髅，所以得了这个绰号）
 - **读者视角提示**：⚠️ 本章**没有**交代 Skull 的真名、他的过去细节，也没有交代他与那个跟踪她的女人是否有关系。写分析时不要替作者补人设。
 
 > **原句 3:** He came up to Skull and put his face in his, threatening to kill him if he bothered me again. Skull didn’t bother me, but who could ever convince Jimmy of anything?
@@ -47,7 +47,7 @@ modified: "2026-10-01"
 
 - **中文理解**：我抬起头，直直地看着 Skull 的眼睛。"我杀了他。"
 - **关键词**：stare Skull in the eyes（直盯着 Skull 的眼睛）／I killed him（我杀了他）
-- **为什么这样写**：全书最重要的一次**自白**，被压成五个字，前面还挂着一个动作。作者先写她低头找词（*I bow my head and search for the right words to tell him*），再让她抬头直视——低头是羞愧，抬头是**把话硬塞给对方**。这句话之所以重，不在于内容（读者上一章已知），而在于**第一次由她亲口说给别人听**；对面立刻回了一句（*“Whoa, whoa,” Skull says.*），全书由此进入"有第二个人知道"的状态。紧接着的下一句更冷：*I point my index finger toward the living room. “Over there. I put him in the duffel bags.”*
+- **为什么这样写**：全书一次难以绕开的**自白**，被压成短短一句，前面还挂着一个动作。作者先写她低头找词（*I bow my head and search for the right words to tell him*），再让她抬头直视——低头是羞愧，抬头是**把话硬塞给对方**。这句话之所以重，不在于内容（读者上一章已知），而在于**由她亲口说给别人听**；对面立刻回了一句（*“Whoa, whoa,” Skull says.*），全书由此进入"有第二个人知道"的状态。紧接着的下一句更冷：*I point my index finger toward the living room. “Over there. I put him in the duffel bags.”*
 - **读者视角提示**：⚠️ 原文**没有**写 Skull 的第一反应是报警或拒绝。他接下来是照看她的身体反应（*runs his hand across his forehead, even though there’s no speck of sweat on it*），不要替作者补他的立场。
 
 > **原句 6:** He looks around the kitchen and probably wonders what I can afford. “It will be a 100k.”
@@ -61,7 +61,7 @@ modified: "2026-10-01"
 
 - **中文理解**："几周前我中彩票了。五百万。所有事都是在我中奖之后开始的。有个女人开始跟着我，我觉得她跟丈夫串通了一起对付我。"
 - **关键词**：a couple of weeks ago（几周前）／Five million（五百万）／Everything started（一切都开始）／followed me around（跟着我）／I think she conspired with（我觉得她串通了）
-- **为什么这样写**：这是全书第一次由**她本人**把那个跟踪的女人和丈夫并到一条线上。措辞极其克制：Everything started（一切都开始）只给时间关系，不给因果；I think（我觉得）与 conspired（串通）都是**推测动词**，没有一句是断言。作者让她在**刚刚承认杀人之后**说出这段，读者会下意识把两件事连起来——但原文把这条线**留在推测层面**。更关键的是她随即自己刹车：*I stop suddenly and shake my head. “The lottery is to blame for everything. My life went from bad to worse.”*（她把账全算在中奖上，绕开了那个女人）
+- **为什么这样写**：这一段由**她本人**把那个跟踪她的女人和丈夫并到一条线上。措辞极其克制：Everything started（一切都开始）只给时间关系，不给因果；I think（我觉得）与 conspired（串通）都是**推测动词**，没有一句是断言。作者让她在**刚刚承认杀人之后**说出这段，读者会下意识把两件事连起来——但原文把这条线**留在推测层面**。更关键的是她随即自己刹车：*I stop suddenly and shake my head. “The lottery is to blame for everything. My life went from bad to worse.”*（她把账全算在中奖上，绕开了那个女人）
 - **读者视角提示**：⚠️ 原文到此**没有**给出任何证据支持"串通"之说，也没有说这个女人是谁、和谁有关系。写分析时必须标明这是**她的怀疑**；作者在本章**没有**替读者解答。
 
 > **原句 8:** The thought that won't leave me alone is about my whole nuclear family—and how they’re dead because of me.
