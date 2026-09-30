@@ -57,7 +57,7 @@ modified: "2026-09-30"
 
 > **原句 6:** "‘I would prefer a boy so he could grow up just like you.’"
 
-- **中文理解**「我倒希望是个男孩，这样他就能长得像你一样。」
+- **中文理解**：「我倒希望是个男孩，这样他就能长得像你一样。」
 - **句子结构**：`I would prefer A so (that) B` 是**偏好 + 目的状语**的结构，`so` 引导**目的状语从句**（that 常省略）；`a boy` 是 prefer 的**宾语**（prefer 不接不定式，只接名词、代词或动名词）；`grow up just like you` 里 just 是**强调副词**（强调「完全一样」）。
 - **关键词**：I would prefer / a boy so he could grow up / just like you
 - **为什么这样写**：这句把罗莎对这段关系的期待一次说尽：她要的不是丈夫的名分，而是**一个活着的证据**。`I would prefer` 是委婉的说法（她并不真的挑），但后面的 `so he could grow up just like you` 一点也没委婉——她要一个像他的孩子。同一段里她接着说 `If the doctor is right about it being twelve weeks, then he will arrive in May next year`，把预产期算到月份。这种**浪漫与务实同体**的写法，正是作者写 Rosa 一贯的方式。

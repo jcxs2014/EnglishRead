@@ -54,7 +54,15 @@ def check(md: Path):
         blk = s[m.end():end]
         pos = []
         for name in SUB:
-            hits = [mm.start() for mm in re.finditer(r'^\*\*' + name + r'\*\*[：:]', blk, re.M)]
+            # ⚠️ 2026-09-30 修正（The Secret Wife 实测 1680 处假红）：子项行以
+            # `- **中文理解**：` 起首（列表项），而原正则 `^\*\*` + re.M 要求
+            # `**` 出现在**行首** ⇒ 全书 420 块 × 4 子项全部「出现 0 次」。
+            # 本库两种形态并存（A：`**中文理解**：` 行首；B：`- **中文理解**：`
+            # 列表项行首），且**冒号可在粗体内或粗体外**。
+            # 教训同 audit_structure 的 RE_ANY_LABEL：**正则不加前导容错就是静默空跑**。
+            hits = [mm.start() for mm in
+                    re.finditer(r'^[ \t]*(?:[-*+]\s+)?\*\*' + name + r'\*\*[：:]',
+                               blk, re.M)]
             if len(hits) != 1:
                 out.append(f"原句 {m.group(1)}: 子项「{name}」出现 {len(hits)} 次（须恰 1）")
             else:
