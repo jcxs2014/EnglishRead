@@ -1,0 +1,83 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub）===
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 173/173 引文可核实（100%）；完全干净文件 16/16；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 394
+--- FAIL (0) ---
+--- WARN (153) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 148 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 introduction.md                           ch01 introduction.md: 12/12 in ch01 text
+ch02 chapter 1 the origins of the idf.md       ch02 chapter 1 the origins of the idf.md: 12/12 in ch02 text
+ch03 chapter 2 the 1948 war.md                 ch03 chapter 2 the 1948 war.md: 12/12 in ch03 text
+ch04 chapter 3 the 1956 war.md                 ch04 chapter 3 the 1956 war.md: 12/12 in ch04 text
+ch05 chapter 4 the 1967 war.md                 ch05 chapter 4 the 1967 war.md: 12/12 in ch05 text
+ch06 chapter 5 the 1973 war.md                 ch06 chapter 5 the 1973 war.md: 12/12 in ch06 text
+ch07 chapter 6 israel longest war lebanon war 1982-2000.md ch07 chapter 6 israel longest war lebanon war 1982-2000.md: 12/12 in ch07 text
+ch08 chapter 7 lebanon 2006 israel failed war against hezbollah.md ch08 chapter 7 lebanon 2006 israel failed war against hezbollah.md: 12/12 in ch08 text
+ch09 chapter 8 the armed settlements project.md ch09 chapter 8 the armed settlements project.md: 12/12 in ch09 text
+ch10 chapter 9 the first intifada and the oslo accords.md ch10 chapter 9 the first intifada and the oslo accords.md: 12/12 in ch10 text
+ch11 chapter 10 israel military-industrial complex.md ch11 chapter 10 israel military-industrial complex.md: 12/12 in ch11 text
+ch12 chapter 11 the idf today.md               ch12 chapter 11 the idf today.md: 12/12 in ch12 text
+ch13 chapter 12 more divided than ever.md      ch13 chapter 12 more divided than ever.md: 12/12 in ch13 text
+ch14 chapter 13 is israel a democracy.md       ch14 chapter 13 is israel a democracy.md: 12/12 in ch14 text
+ch15 afterword can there be another israel.md  ch15 afterword can there be another israel.md: 12/12 in ch15 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+⚠️ ch01 introduction.md: md 块 10 / 工具抽到 10
+⚠️ ch02 chapter 1 the origins of the idf.md: md 块 10 / 工具抽到 10
+⚠️ ch03 chapter 2 the 1948 war.md: md 块 10 / 工具抽到 10
+⚠️ ch05 chapter 4 the 1967 war.md: md 块 10 / 工具抽到 10
+⚠️ ch07 chapter 6 israel longest war lebanon war 1982-2000.md: md 块 10 / 工具抽到 10
+⚠️ ch08 chapter 7 lebanon 2006 israel failed war against hezbollah.md: md 块 10 / 工具抽到 10
+⚠️ ch09 chapter 8 the armed settlements project.md: md 块 10 / 工具抽到 10
+✅ 块覆盖对账：15 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（an-army-like-no-other-by-haim-bresheeth-zabner）===
+  ✅ 逐字 653 ｜ ⚠️ 跨章 35 ｜ 🔶 拼接 1 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1375
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 12
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 13
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: ➖ 无引语行（正常，非门禁项）
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 25/25 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  ⚠️ 00_金句精选.md:143  段内拼接（叙述标签被删）：as … was reported to have dismissed
