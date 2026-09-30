@@ -119,9 +119,9 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 9:** Bonnie: ...Wait, it is Sarah, isn't it? Not Susan. My mind went blank. Sorry, Sarah. Sarah. A lovely name. It means "princess," I think. Listen, Sarah, I need to pick up my daughter now.
+> **原句 9:** Wait, it is Sarah, isn't it? Not Susan. My mind went blank. Sorry, Sarah. Sarah. A lovely name. It means “princess,” I think. Listen, Sarah, I need to pick up my daughter now.
 
-**中文理解**：Bonnie：……等等，你是 Sarah 对吧？不是 Susan。我脑子一片空白。抱歉，Sarah。Sarah。好听的名字。我想是「公主」的意思。听着，Sarah，我得去接我女儿了。
+**中文理解**：……等等，你是 Sarah 对吧？不是 Susan。我脑子一片空白。抱歉，Sarah。Sarah。好听的名字。我想是「公主」的意思。听着，Sarah，我得去接我女儿了。
 
 **关键词**：My mind went blank（脑子一片空白）；I need to pick up my daughter（我得去接女儿）
 
