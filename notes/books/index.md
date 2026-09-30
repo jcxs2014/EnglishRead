@@ -301,7 +301,6 @@ title: 书单
 | [Everything Is F*cked](books/non-fiction/everything-is-fcked-by-mark-manson/) | Mark Manson |
 | [Exhausted: An A–Z for the Weary](books/non-fiction/exhausted-an-a-z-for-the-weary-by-anna-katharina-schaffner/) | Anna Katharina Schaffner |
 | [Extraordinary Insects](books/non-fiction/extraordinary-insects-by-anne-sverdrup-thygeson/) | Anne Sverdrup-Thygeson |
-| [Fluent in 3 Months](books/non-fiction/fluent-in-3-months-by-benny-lewis/) | Benny Lewis |
 | [HBR Women at Work](books/non-fiction/hbr-women-at-work-by-harvard-business-review/) | Harvard Business Review |
 | [The Highly Sensitive Person's Survival Guide](books/non-fiction/the-highly-sensitive-persons-survival-guide-by-ted-zeff/) | Ted Zeff |
 | [If We Cannot Go at the Speed of Light](books/non-fiction/if-we-cannot-go-at-the-speed-of-light/) | — |
