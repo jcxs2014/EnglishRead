@@ -7,10 +7,10 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：Julia 与一个身份不明的女人把「意图还是结果」谈完，对方借「姐姐」之名脱身；Mike 赶到后先为迟到道歉，再把她带去见一个叫 Kamal 的年轻人。
+- **一句话概括**：Julia 与一个身份不明的女人把「意图还是结果」谈完，对方借「姐姐」之名脱身；Mike 赶到后先拿迟到的事垫了几句，再把她带去见一个叫 Kamal 的年轻人。
 - **情感弧线位置**：高度戒备的辨认 → 被一个自己已判过无数次的问题说动 → 与女儿那道无声告别的落差 → 被推向下一个躲不掉的约
 - **Tropes 兑现/反转**：陌生人的哲学问题其实是自己的判例 · 恶人先承认自己的恶 · 「我本来可以不问」的诘问
-- **人物弧线**：Julia 全章都在替别人找台阶：替那位女子解掉「她很眼熟」的疑虑，替 Mike 解掉「他迟到了」的尴尬，替自己解掉「女儿不肯留」的难受；只有最后那句「Okay. Let's go talk to Kamal.」是她自己走出来的
+- **人物弧线**：Julia 全章都在替别人找台阶：替那位女子解掉「她很眼熟」的疑虑，替 Mike 解掉「他迟到了」的尴尬，替自己解掉「女儿不肯留」的难受；只有最后那句「Okay. Let’s go talk to Kamal.」是她自己走出来的
 - **叙事手法**：第三人称限知（Julia 视角），桌上对话靠短引号推进，中间插进身体反应（发抖、滑手、剥叶）做节拍；换场由一句提议完成，不做转场铺垫
 
 ## 精读
@@ -35,7 +35,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：台词先用 `intentions and outcomes are important` 摆出骑墙，再用 `that’s not choosing, is it` 亲手把这个答案拆掉——`is it` 把判断变成向对方求证的问句。作者随后把注意力交给一盆可以转动的仙人掌，让思考有了一个手上的动作，直到最后一句才交出代价：手在抖，嘴上却还在讲道理。
 
-**读者视角提示**：读者在这里第一次看见 Julia 的「公众状态」和「身体状态」分了家。对方随口一问，她答的却是自己一辈子的判例。
+**读者视角提示**：读者在这里第一次看见 Julia 的「公众状态」和「身体状态」分了家：桌上那盆仙人掌还能转，手却已经在抖。
 
 ---
 
@@ -45,9 +45,9 @@ modified: "2026-09-30"
 
 **关键词**：intend to save someone’s life / they’re still dead, aren’t they / outcome matters more
 
-**为什么这样写**：三个短问句连着用同一个 `they’re`、`doesn’t`、`aren’t`，把一段推理拆成一节一节落地，每问一次就划掉一个选项。`So I’d say` 收在末尾，把整套论证压成一句口头禅——她答的不是对方的问题，是自己的判例。
+**为什么这样写**：一串短问句连着用同一个 `they’re`、`doesn’t`、`aren’t`，把一段推理拆成一节一节落地，每问一次就划掉一个选项。`So I’d say` 收在末尾，把整套论证压成一句口头禅——她答的不是对方的问题，是自己的判例。
 
-**读者视角提示**：读者若只把它当餐桌闲聊就会滑过去。作者要读者注意到：这个陌生人问的问题，她自己已经问过无数遍。
+**读者视角提示**：读者若只把它当餐桌闲聊就会滑过去。作者要读者注意到：原文紧接着就交代她 `countless times` 问过自己同一个问题。
 
 ---
 
@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 **关键词**：someone we should talk to / He lives about twenty minutes from here
 
-**为什么这样写**：台词用 `we` 而不是 `I`，把 Julia 一秒钟拖进了这件事。地点用 `about twenty minutes from here` 给出、却不报地名——这既是台词，也是迈克递给她的量：你只要走二十分钟。作者不解释这人是谁，先把她从餐桌前的犹豫里拉走。
+**为什么这样写**：台词用 `we` 而不是 `I`，把 Julia 一秒钟拖进了这件事。地点用 `about twenty minutes from here` 给出、却不报地名——这既是台词，也是迈克递给她的量：你只要走二十分钟。作者不解释这人是谁，先把她从餐桌前的盘问里拉走。
 
 **读者视角提示**：读者在此和 Julia 一起被转场。这是本章的出口，而出口并不让人安心。
 
@@ -136,7 +136,6 @@ modified: "2026-09-30"
 | perfect eyebrows | n. 完美的眉毛 | At the same moment, the other woman glanced down at her phone and sighed, her perfect eyebrows knitting together. |
 | pregnant stranger | n. 怀孕的陌生女人 | The pregnant stranger with the dark hair and blue eyes stared at Julia. |
 | quick retreat | n. 利落的抽离／迅速退开 | The quick retreat rocked Julia. |
-| sausage platter | n. 香肠拼盘 | Mike flagged the server, asked for a lemonade, a sausage platter, and an order of spicy brussels sprouts, then turned his attention back to Julia. |
 | tongue tacky | adj. 舌头发黏的（tacky 黏） | And then there was that question, which left Julia’s mouth dry and her tongue tacky, because she’d asked herself the very same question countless times before. |
 | uneasy | adj. 不安／不踏实 | The distance between them made her uneasy, but it still felt safest, until she figured out what was really going on. |
 

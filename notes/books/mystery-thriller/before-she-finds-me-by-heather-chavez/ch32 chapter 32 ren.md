@@ -109,7 +109,7 @@ modified: "2026-09-30"
 | two-seater | n. 双人桌 | The two-seater next to her was unoccupied. |
 | unoccupied | adj. 无人占用的 | The two-seater next to her was unoccupied. |
 | quick-witted | adj. 反应快的／机智的 | What would it be like to go up against someone so quick-witted? |
-| compromising | v. 违背（compromise one’s ethics 牺牲自己的原则） | She wasn’t used to being nervous, and she’d never before thought of compromising her ethics. |
+| compromising | v. 违背（原文 compromising her ethics，指牺牲自己的原则） | She wasn’t used to being nervous, and she’d never before thought of compromising her ethics. |
 
 ### ⭐⭐ 进阶
 

@@ -8,10 +8,10 @@ modified: "2026-09-30"
 ## 本章导航
 
 - **一句话概括**：Ren 备好箭毒、回到那家死了四个工人的酒店外盯了二十分钟，随后用一整段回忆交代她是怎么被父亲造出来的——以及她因此把枪换成了毒；闪回的最后一句，是父亲凑到她耳边说：我要你杀了他。
-- **情感弧线位置**：职业的冷 → 四个名字的重量 → 父女之间第一次出现的裂缝 → 一句更冷的委托
-- **Tropes 兑现/反转**：职业杀手被父亲的"也许这条路不适合你"动摇 · 父亲的教诲被主角当场翻译成自己的版本 · 「我们总是单独行动」被一句话推翻
-- **人物弧线**：Ren 全章都在用流程压住情绪——查工具、查现场、跑步。可她唯一一次主动出手（把照片发给父亲）恰恰指向那个"不按规则走"的女人：她对自己的判断力，远没有她以为的那么可靠。
-- **叙事手法**：第三人称限知（Ren 视角）。前段是装备与现场的冷叙事，中段整段倒回十一岁与第一次杀人，末段以父亲的耳语收束闪回，再落回她收拾背包准备出发。
+- **情感弧线位置**：职业的冷 → 四个名字的重量 → 父女之间冒出的裂缝 → 一句更冷的委托
+- **Tropes 兑现/反转**：职业杀手被父亲的「也许这条路不适合你」动摇 · 父亲的教诲被主角当场翻译成自己的版本 · 「我们总是单独行动」被一句话推翻
+- **人物弧线**：Ren 全章都在用流程压住情绪——查工具、查现场、跑步。可她唯一一次主动出手（把照片发给父亲）恰恰指向那个「不按规则走」的女人：她对自己的判断力，远没有她以为的那么可靠。
+- **叙事手法**：第三人称限知（Ren 视角）。前段是装备与现场的冷叙事，中段整段倒回十一岁与当年那桩入门任务，末段以父亲的耳语收束闪回，再落回她收拾背包准备出发。
 
 ## 精读
 
@@ -21,7 +21,7 @@ modified: "2026-09-30"
 
 **关键词**：potent muscle relaxant / paralyzed / First the eyelids stiffened / futile
 
-**为什么这样写**：`First... Then... And finally...` 把致死过程拆成三个并列小句，像一份操作步骤。作者不用「渐渐」这类副词，改用三个序数标记把死亡切成可核对的段落；而结尾的 `futile`（徒劳的）落在一个拟人化的细节上——心脏还在跳，却已经没有用——整段因此从技术说明翻成冷判词。前面一句 `derived from a South American vine` 故意用植物来源起头，先递上一个「天然」错觉，再由本段自己不作解释地留着它。
+**为什么这样写**：`First the eyelids stiffened. Then swallowing became impossible. And finally, the lungs froze too` 把致死过程拆成三个并列小句，像一份操作步骤。作者不用「渐渐」这类副词，改用三个序数标记把死亡切成可核对的段落；而结尾的 `futile`（徒劳的）落在一个拟人化的细节上——心脏还在跳，却已经没有用——整段因此从技术说明翻成冷判词。前面一句 `derived from a South American vine` 故意用植物来源起头，先递上一个「天然」错觉，再由本段自己不作解释地留着它。
 
 **读者视角提示**：这段出现在回忆之前，读者会以为它只是本章开头的装备说明。紧接着的下一句就把它的适用范围划掉——「吃下去就无害」——于是读者明白，她父亲教的那套手艺，在这里是被人改造过地继承着。
 
@@ -71,7 +71,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：三个等长的祈使句短句，都不带主语，像一句被拆成三段的誓词。作者不写她「相信」这句话，只写她「给」出了这句话——`the words he wanted` 把落点从内容挪到来源：这是父亲的措辞，不是她的。紧接的下一段把两句并置来做对账：`His mantra, not hers.` 后面跟着她自己的版本，`Hers was simpler, and more complicated: Do what’s right.`
 
-**读者视角提示**：读者在这里第一次听见这套口径。把它当人物设定读会太早——同一章里她已经有一套自己的说法，两者的差别才是这整段闪回真正要交代的东西。
+**读者视角提示**：读者在这里听见这套口径。把它当人物设定读会太早——同一章里她已经有一套自己的说法，两者的差别才是这整段闪回真正要交代的东西。
 
 ---
 
@@ -83,7 +83,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：先给时间与地点（两年前、租来的房子、后院），再给植物，然后用两个极短的名词句拍出它的样子——`All toxic` 三个词单独成句，把前面那份好看直接翻译成判决。作者先让读者看见一朵粉花，再让读者听见结论；顺序若反过来，杀戮就退化成背景知识。
 
-**读者视角提示**：这是她转向毒的关键一步，也是她第一次把「好看的东西」和「能杀人的东西」放进同一句话。读者若注意到她随即 `She nodded once, deciding.`，就会明白这里没有比喻。
+**读者视角提示**：这是她转向毒的关键一步，也是她把「好看的东西」和「能杀人的东西」放进同一句话的地方。读者若注意到她随即 `She nodded once, deciding.`，就会明白这里没有比喻。
 
 ---
 
@@ -115,16 +115,40 @@ modified: "2026-09-30"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| curare-based | adj. 以箭毒为基底的 | Ren strapped on her ankle holster and stashed a fresh vial of curare-based poison and a syringe injector in the glove box. |
+| surveilling | v. 监看／盯梢（远距离持续观察） | Ren spent twenty minutes surveilling the property from half a mile away, through a pair of Steiner binoculars. |
+| ex-military | adj. 退伍军人的 | Was she ex-military, like Nolan? |
+| endorphins | n. 内啡肽（运动后由体内分泌的止痛物质） | Once her feet hit the packed dirt, she felt the surge of endorphins. |
+| incubating | adj. 正在孕育的（此处指腹中胎儿） | Eventually, concern for the tiny incubating stranger slowed Ren’s pace, and she succeeded in pushing the woman from her mind. |
+| homeschooled | adj. 在家受教的 | While other kids were at sleepovers or school dances, she was burying bodies and being homeschooled on how not to get caught. |
+| rhododendrons | n. 杜鹃花（其蜜可致幻觉甚至致死） | Her rhododendrons too were poisonous, with their clusters of orange blossoms. |
+| neurotoxins | n. 神经毒素 | Nearby she housed a bee colony, as bees that fed on either flower created a honey with enough neurotoxins to cause hallucinations and, if prepared correctly, death. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| paralyzed | v. 使瘫痪／使麻痹 | A potent muscle relaxant derived from a South American vine, it paralyzed its target in minutes. |
+| stiffened | v. 变得僵硬 | First the eyelids stiffened. |
+| anomalous | adj. 反常的／不合常规的 | She disliked surprises, but the woman’s anomalous behavior also intrigued her. |
+| calloused | adj. 满是老茧的 | Anthony Petrovic was six foot four, with calloused hands and eyes that gave people the wrong impression. |
+| adulterer | n. 婚外情者／出轨者 | That first time Ren killed a man—an adulterer who had twice broken his son’s arm—his expression was just as easy to read. |
+| diverging | adj. 分岔的／分岔而出的 | There were no diverging roads, no alternate routes, only a single, linear highway with no exit ramps until the very end. |
+| vocation | n. 使命／正当职业（此处被反讽为杀人） | Besides, killing rapists, abusers, and murderers was a far nobler vocation than filing insurance claims in some cubicle. |
+| oleander | n. 夹竹桃（全株有毒，花叶可入药） | She thought of her garden, begun two years before in the backyard of the duplex she’d rented, and the oleander that grew there. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| ankle holster | n. 绑在脚踝上的枪套 | Then she slipped her ankle holster back on and threw her sneakers in the trunk, suddenly aware of the passing seconds. |
+| bee colony | n. 蜂群／养蜂箱 | Nearby she housed a bee colony, as bees that fed on either flower created a honey with enough neurotoxins to cause hallucinations and, if prepared correctly, death. |
+| binoculars | n. 双筒望远镜 | As she packed away the binoculars, she tried hard to focus on the four victims, and not the crouching woman she’d seen on her computer the night before. |
+| dark-haired woman | n. 深色头发的女人 | The dark-haired woman. |
+| edible | adj. 可食用的 | As an edible, it was harmless. |
+| four victims | n. 四名受害者 | As she packed away the binoculars, she tried hard to focus on the four victims, and not the crouching woman she’d seen on her computer the night before. |
+| plaid shirt | n. 格纹衬衫 | The man in the plaid shirt. |
+| syringe injector | n. 注射式注射器（可自行装填药剂的那种） | Ren strapped on her ankle holster and stashed a fresh vial of curare-based poison and a syringe injector in the glove box. |
 
 ## 一句话总结
 

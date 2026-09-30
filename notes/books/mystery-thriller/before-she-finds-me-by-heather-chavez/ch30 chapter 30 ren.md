@@ -21,9 +21,9 @@ modified: "2026-09-30"
 
 **关键词**：no other route / glanced at / attributed the slowdown to
 
-**为什么这样写**：`no other route that would’ve taken Ren where she needed to go` 先替她把理由排除干净：她不是顺路瞄一眼，是专程来盯的。于是紧跟着的 `glanced at` 就成了多余的一瞥——多出来的那一下，正是她此刻状态不稳的痕迹。末尾的 `attributed`（归因）是新闻播报的公文腔，把一件活人的事塞进路况播报的标准格式里，格式本身的冷就是态度。
+**为什么这样写**：`no other route that would’ve taken Ren where she needed to go` 先替她把理由排除干净：她不是顺路瞄一眼，是专程来盯的。于是紧跟着的 `glanced at` 就成了多余的一瞥——多出来的那一下，正是她此刻状态不稳的痕迹。末尾的 `attributed`（归因）是新闻播报的公文腔，把一条只值半句话的路面状况也处理成必须交代因果的事，格式本身的冷就是态度。
 
-**读者视角提示**：这一段发生在任何暴力之前，读者只会把「多看一眼路况」读成谨慎。要记住这个误读。
+**读者视角提示**：这一段里 Ren 只是在赶路，读者会把「多看一眼路况」读成谨慎。要记住这个误读——本章真正的变数还在后面。
 
 ---
 
@@ -65,7 +65,7 @@ modified: "2026-09-30"
 
 > **原句 5:** She’d been proud of that one; the powdered poison came from the seeds of the Strychnos nux-vomica, also known as Semen strychnos. Semen was Latin for seed, of course, but also an appropriate name given that the supplements Usoro had taken had been for improved sexual vigor and longevity.
 
-**中文理解**：那一手她曾经为之自豪：粉末状的毒物取自番木鳖的种子，这味东西又叫马钱子。Semen 在拉丁文里当然是「种子」，但考虑到死者吃的那种保健品本来就是冲着性能力与长寿去的，这个名字也确实恰如其分。
+**中文理解**：那一手她曾经为之自豪：粉末状的毒物取自马钱子（Strychnos nux-vomica）的种子，学名又作 Semen strychnos。Semen 在拉丁文里当然是「种子」，但考虑到死者吃的那种保健品本来就是冲着性能力与长寿去的，这个名字也确实恰如其分。
 
 **关键词**：been proud of that one / also known as / an appropriate name given that
 
@@ -83,7 +83,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：`even before her profile grew visible` 把辨认的门槛压到极低——她不是看清了才认出来，是身体先认了出来；紧随其后的 `sucked in a sharp breath` 只记生理反应，不写一句判断。末尾 `All thoughts of Usoro and Baird and the fetid heat vanished in a blink` 用一份清单式的收束让工作状态瞬间清零，取代思考的是本能。
 
-**读者视角提示**：这是全章的转折点：侦查现场（乌索罗、贝尔德）与真正的目标（Julia）在这里换位。读者要从此明白，她等的另有其人。
+**读者视角提示**：这是全章的转折点：侦查现场（乌索罗、贝尔德）与门廊上的人在这里换位。读者要从此明白，她等的另有其人。
 
 ---
 
@@ -95,7 +95,7 @@ modified: "2026-09-30"
 
 **为什么这样写**：`highlighted`（挑染）这个词里本来就带着「刻意打理过」的信息，作者却用 `Unstyled but well cut` 把它折成两半：不吹不弄，但剪得对——观察者的眼光被拆成「造型」与「剪裁」两档来称重。末句的 `about five seven, five eight` 不给数字，而给两个连写的猜测，把「估测」这件事本身写进了句式。
 
-**读者视角提示**：整段都是别人在看她，Julia 此刻毫无防备。读者应把这个单向的打量记下来——它会在本章最后几行失控。
+**读者视角提示**：整段都是别人在看她，Julia 此刻毫无防备。读者应把这个单向的打量记下来——本章就停在这个打量上。
 
 ## 本章词汇
 
@@ -115,8 +115,8 @@ modified: "2026-09-30"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| cordoned | v. 用路障围出（cordon off 封锁一段区域） | To the right, orange construction netting cordoned off a stretch of hard-packed dirt that bristled with weeds. |
-| bristled | v. 密生／长满（bristle with 意为「满是」） | To the right, orange construction netting cordoned off a stretch of hard-packed dirt that bristled with weeds. |
+| cordoned | v. 用路障围出（原文 cordoned off，指封锁一段区域） | To the right, orange construction netting cordoned off a stretch of hard-packed dirt that bristled with weeds. |
+| bristled | v. 密生／满是（原文 bristled with weeds，指长满杂草） | To the right, orange construction netting cordoned off a stretch of hard-packed dirt that bristled with weeds. |
 | cloudless | adj. 无云的 | The sky above was pale and cloudless. |
 | discreet | adj. 距离适中的／不引人注意的 | She found a spot a discreet distance from Eric Bennett’s town house and parked. |
 | intrigued | v. 引起兴趣／勾起好奇 | She found the comment from Scott that had first intrigued her: Jim’s timing always sucked. |
@@ -124,7 +124,7 @@ modified: "2026-09-30"
 | loopholes | n. 漏洞（合同中可钻的 空子） | Maybe he’d planned to sue, but she still couldn’t imagine Baird’s lawyers leaving any loopholes in a contract. |
 | grounded | v. 使镇定下来／把人拉回现实（此处指痛感让人清醒） | The gentle pain grounded her. |
 | herbalist | n. 草药医生／卖草药配方的商贩 | He got this boner powder from an herbalist and they found strychnine in it. |
-| frothing | v. 冒泡沫（froth at the mouth 口吐白沫） | Ren could still picture the way Usoro had died: seizing, twitching, frothing at the mouth. |
+| frothing | v. 冒白沫（原文 frothing at the mouth，指口吐白沫） | Ren could still picture the way Usoro had died: seizing, twitching, frothing at the mouth. |
 
 ### ⭐ 基础
 
