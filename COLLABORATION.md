@@ -91,16 +91,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-09-29 19:49 UTC / 完工 2026-09-29 21:12 UTC] [MinMax-Mac] → All
 
-**Much Ado About Nada（Uzma Jalaluddin）／ much-ado-about-nada-by-uzma-jalaluddin：31 章正文 + 总览三篇全部完工**（完整 lane：有 epub + text/ 逐章提取件）
-- 语料层 verify_corpus --expect 31 → PASS（0 FAIL/0 WARN）
-- md 章节 31 == text 章节 31（7d 对账）；另有总览三篇（概述 / 金句精选 30 条 / 情感节点 10 节）
-- 第 3 条门禁：verify_quotes 281/281（干净 33/33）｜--full 整串取证 0 ｜ check_vocab 词条 1055 FAIL 0 ｜ check_entities 未知实体 0 ｜ corruption_scan FAIL 0 ｜ sweep_full 本章 236 / 跨章 0 / 拼接 0 / 查无 0
-- 逐章归属 check_chapter_quotes ch01–31 逐章 240/240（31/31 章 100%）；check_short_quotes 17 命中 0 查无
-- 分析层 sweep_analysis_inline 逐字 1247 / 零命中 0 / 拼接 0 / 部分命中 0 ｜ check_anchor 凭空造词 0 ｜ audit_structure 缺陷 0 / 提示 0 / 映射不一致 0
-- 总览门禁 check_overview_full 整串 51 命中 / 0 查无 / 0 拼接 / H1 错配 0；verify_overview_quotes 金句 28/28（情感节点为 `> "…"` 格式、该脚本口径外，已按 check_overview_full + 逐条按章回源核验 25/25 归属正确）
-- 本轮修：7c 断言全书 33 文件约 110 处改可证写法；带出并修 2 处自造英文（ch31 Handwritten poems / ch11 bear witness）
-- commit：1b452d8f（ch28–30）｜60c82eaa（ch31）｜总览三篇｜ea4e3e8b（7c 统一）
-- **五步审查未做（待用户发起）**。原始逐行输出见工作日志 2026-09-29。
+**Much Ado About Nada（Uzma Jalaluddin）／ much-ado-about-nada-by-uzma-jalaluddin：31 章完工 + 独立审查五步法 a–e 已完成**（完整 lane）
+- **a 步**：gate.sh 15 项全量重跑全绿 — verify_quotes 281/281（干净 33/33）｜check_vocab 词条 1055 FAIL 0（WARN 57 全为词长启发式）｜check_entities 未知 0｜corruption_scan FAIL 0｜sweep_full 跨章 0/查无 0｜逐章归属 ch01–31 全 X/X｜sweep_analysis_inline 逐字 1247/零命中 0｜audit_structure 0/0/0｜check_anchor 造词 0｜verify_overview_quotes 金句 28/28 情感 23/23｜check_overview_full 跨章 0 / H1 0
+- **b/c 步**：逐章归属 31 章全 X/X（cliffhanger 边界无报警）；audit_structure + H1 兜底全绿
+- **d 步机械子项**（三个 tracked 第二实现）：`check_struct_indep` 抓出 **413 处真格式缺陷**（`**子项：**` 冒号在加粗内）→ 已统一为 `**X**: `；`check_xref_indep` 英文证据报警 0；`check_analysis_indep` ch04:106 报警判**假红**→先修工具（逐词切分剥标点 + miss 空不判缺陷），跨书回归通过
+- **审查纪律 2**：全书 330 处 chNN 引用，带英文证据的 7 处逐条回查 text/ → **7/7 命中，0 错指**
+- **d 步语义二审**（verifier 两批，附真实反例 + 防幻觉条款）：A 批 ch01–16（128 块）7 阻断全整改；B 批 ch17–31（120 块）16 阻断中 **11 阻断已整改、1 判假红**。子代理报警一律先独立回源再改（本轮 1 次子代理误报、2 次主会话改反）
+- **e 步**：说话人 200 字符窗口复核 3 处高风险全部一致；金句 30 条按章回查 0 不符；情感节点 25 条按章号范围判 0 越界；总览英文引语行级回源 56 条查无 0；结局走向三处一致
+- **跨书污染自检**：10 个专名全库 grep，**他书命中全 0**
+- **本轮修的代表性阻断型**：ch22 三处词数错（6→9 / 6:6→9:4 / 三句等长→7/16/4 不等长）｜ch30「四个 no」→6 个｜ch31 apa 称呼按 ch05/ch13 实证重写并补明说者是 Sufyan｜ch27:2 与 ch29:6 引语内混入叙述标签 5 处剥离并同步分析层说话人证据｜ch28:92 繁体「連」
+- 提交：`7ee6da37`（413 处格式 + 工具假红修复）｜`0f70f00f`（B 批整改 + A 批遗留 10 文件）
+- ⚠️ **同会话审查已知盲区**（供判断是否另派异实例复核）：说话人未逐块穷举（只复核 3 处高风险 + 抽查级脚本，该脚本约 1/3 假阳）｜词汇表 1055 词条未纳入语义二审｜d 步第二实现尚无跨书基线｜**门禁全绿 ≠ 内容全对**（check_overview_full B 段只验标签不验内容）
+- 本地领先 origin/main，**未 push**（等用户明确指令）。原始逐行输出见工作日志 2026-09-29 本书节
 
 ### [2026-09-29 19:49 UTC] [MinMax-Mac] → All
 
