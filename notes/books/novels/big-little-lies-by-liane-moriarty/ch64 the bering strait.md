@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 2:** "Yes, it came out of nowhere." Celeste gave a strange little laugh and put a hand to the back of her head.
+> **原句 2:** Celeste gave a strange little laugh and put a hand to the back of her head. “Yes, it came out of nowhere.”
 
 **中文理解**：「是啊，毫无征兆。」Celeste 怪怪地轻笑了一声，一只手摸向后脑勺。
 
@@ -104,6 +104,33 @@ modified: "2026-09-30"
 **读者视角提示**：把「查虱子」与 ch61 的「Ponder 广播」连读——虱子事件的传播链在傍晚完成最后一环：Madeline 亲手把消息送进 Perry 家。明天晚上的集体瘙痒（Thea 的访谈已预告）将是本案最滑稽的背景音。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| shepherded | （把孩子们）领进门 | Celeste really did look ill, thought Madeline as she shepherded the twins in the door. |
+| reproachfully | （大灯）谴责地盯着 | The smashed headlight stared at her reproachfully and expensively. |
+| expensively | （账单）价值不菲 | The smashed headlight stared at her reproachfully and expensively. |
+| squabbling | （后座）拌嘴 | She’d left Abigail crying in the front seat and Fred and Chloe squabbling in the back (and she’d also noticed Fred giving his head a good, vicious scratch, and she knew from horrible experience exactly what that probably meant; it would be just absolutely marvelous if she also had to deal with a nit outbreak right now). |
+| auctioning | （正在网上）拍卖 | “Yes, I was shouting because Abigail is auctioning off her virginity online in a bid to stop child marriage,” continued Madeline. |
+| nonchalance | （故作）无所谓的 | “It’s all for a good cause,” said Madeline with mock nonchalance. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| marvelous | （真棒极了）讽刺 | She’d left Abigail crying in the front seat and Fred and Chloe squabbling in the back (and she’d also noticed Fred giving his head a good, vicious scratch, and she knew from horrible experience exactly what that probably meant; it would be just absolutely marvelous if she also had to deal with a nit outbreak right now). |
+| unlimited | （周五）无限量（屏幕时间） | “I let them have unlimited screen time on Friday afternoons. |
+| desperate | （迫切想）倾诉 | Celeste was the first person she’d been able to tell; she was desperate to talk about it. |
+| eighties | （八十年代） | “It was in the eighties. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| nit outbreak | 虱子爆发 | She’d left Abigail crying in the front seat and Fred and Chloe squabbling in the back (and she’d also noticed Fred giving his head a good, vicious scratch, and she knew from horrible experience exactly what that probably meant; it would be just absolutely marvelous if she also had to deal with a nit outbreak right now). |
+| smashed headlight | 撞碎的大灯 | The smashed headlight stared at her reproachfully and expensively. |
 
 ## 一句话总结
 
