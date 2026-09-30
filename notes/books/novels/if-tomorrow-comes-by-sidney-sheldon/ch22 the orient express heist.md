@@ -17,7 +17,7 @@ modified: "2026-09-30"
 
 > **原句 1:** There was one credo she lived by: She was careful never to hurt the innocent. The people who jumped at her swindles were greedy or immoral, or both. No one will ever commit suicide because of what I’ve done to them, Tracy promised herself.
 
-- **中文理解**：她只有一条信条：绝不去伤害无辜。上她当的人不是贪就是坏，再不然两者兼有。没有人会因为我做的事去自杀——Tracy 对自己许诺。
+- **中文理解**：她只有一条信条：绝不去伤害无辜。上当的人不是贪就是坏，再不然两者兼有。没有人会因为我做的事去自杀——Tracy 对自己许诺。
 - **关键词**：one credo she lived by · never to hurt the innocent · will ever commit suicide
 - **为什么这样写**：作者把一整套作案方法论压成一条否定式的自我约束，而这条约束靠「上当了的人都不干净」才站得住——它保护的不是受害者，是她自己不必为此愧疚。最后一句用将来时，是一张永远不会被兑现的收据。
 - **读者视角提示**：她在本章里自陈准则只此一回；后面撬锁、下药、换装，一路都没有再拿出来对照。
@@ -29,7 +29,7 @@ modified: "2026-09-30"
 - **为什么这样写**：pigeons 是作者随手取的形象，而 ripe for plucking 本就是英语现成说法——把一场针对人的犯罪压成厨房里的一个动作，读者读着轻，句子也轻。
 - **读者视角提示**：注意主语是复数的「她们」——这趟车上待宰的不止一个，而本章真正下手的那位当时还不在名单里。
 
-> **原句 3:** The mirror is lying, Tracy thought. I’m not that woman anymore. I’m living a masquerade.
+> **原句 3:** The mirror is lying, Tracy thought. I’m not that woman anymore. I’m living a masquerade. But an exciting one.
 
 - **中文理解**：镜子在撒谎，Tracy 想。我已经不是原来那个女人了。我过着一种假面生活。不过是场痛快的。
 - **关键词**：The mirror is lying · I’m not that woman anymore · I’m living a masquerade
@@ -43,7 +43,7 @@ modified: "2026-09-30"
 - **为什么这样写**：这句话是一句转述——她把丈夫刚说过的话原样扔回去，前面加了个 She said。短短一句转述配 sharply，比一整段争吵更省力，也更像她的处境：在这段婚姻里，她连顶撞都要借别人的嘴。
 - **读者视角提示**：这一句之后紧接着是 Silvana turned white with anger，再往后丈夫把一盘肉汁打翻在她裙子上；这章里 Tracy 一直在替她记丈夫的账。
 
-> **原句 5:** “We have a lovely villa off the Appian Way.
+> **原句 5:** “We have a lovely villa off the Appian Way. Ten acres of—” His hand made a sweeping gesture and knocked a bowl of gravy into his wife’s lap. Tracy could not be sure whether it was deliberate or not.
 
 - **中文理解**：「我们在阿庇安大道边上有一栋漂亮的别墅，十英亩——」他手一甩，把一碗肉汁打进了妻子的裙子上。Tracy 说不准这是不是故意的。
 - **关键词**：a lovely villa off the Appian Way · a sweeping gesture · knocked a bowl of gravy into his wife’s lap
@@ -57,7 +57,7 @@ modified: "2026-09-30"
 - **为什么这样写**：这段紧跟在尖叫之后出现，等于把一场惊叫重新拆成技术说明。through the keyhole 这个细节把锁的前提整个绕过去了，写在它前面的 Fornati 那句 The door was locked 到此才有回声。
 - **读者视角提示**：视角跟着列车员走，读者拿到了方法，Tracy 自己什么都没交代。
 
-> **原句 7:** “Inspector, we have searched every inch. We have examined the engine, the dining rooms, the bar, the toilets, the compartments. We have searched the passengers and crew and examined every piece of luggage. I can swear to you that the jewelry is not on board this train.
+> **原句 7:** “Inspector, we have searched every inch. We have examined the engine, the dining rooms, the bar, the toilets, the compartments. We have searched the passengers and crew and examined every piece of luggage. I can swear to you that the jewelry is not on board this train. Perhaps the lady imagined the theft.”
 
 - **中文理解**：「探员，我们搜遍了每一个角落。我们查了机车、餐车、酒吧、洗手间、包厢。我们查了乘客和乘务人员，检查了每一件行李。我可以向您保证，这批珠宝不在这趟车上。也许是那位女士自己记错了。」
 - **关键词**：we have searched every inch · every piece of luggage · Perhaps the lady imagined the theft

@@ -61,7 +61,7 @@ modified: "2026-09-30"
 
 - **中文理解**：一天早饭时，Amy 说：「我爱你，Tracy。你愿意做我的妈妈吗？」
 - **关键词**：I love you, Tracy · Will you be my mother
-- **为什么这样写**：孩子的问题是双重身份的：她刚说完 love you，下一句就要求一个新的身份。Tracy 的回答把两样都挡回去（One mother is enough. You don’t need two.），但挡的方式是简短的说教，不是拒绝亲近；紧接着孩子问她「你也要出去吗」，她答 I’m going to be here for a long while, Amy. 这句谎话把她和孩子之间那层已经绷紧的东西又拉紧了一道。
+- **为什么这样写**：孩子的问题是双重身份的：她刚说完 love you，下一句就要求一个新的身份。Tracy 的回答把两样都挡回去（One mother is enough. You don’t need two.），但挡的方式是简短的说教，不是拒绝亲近；孩子立刻反驳，说朋友的爸爸再婚了、Sally Ann 因此有两个妈妈，Tracy 只能拿 “You’re not Sally Ann” 再挡一次。她给得出道理，给不出同意——而孩子随即说了 “I’m not hungry anymore.”，把拒绝变成了一场谁都吃不成的早饭。
 - **读者视角提示**：Amy 提出的请求正是 Tracy 最不需要的东西——任何牵挂。越狱计划在这一点上已经开始付账。
 
 > **原句 8:** “Ernie, what’s a laundry truck doing here? The prison has its own laundry.”

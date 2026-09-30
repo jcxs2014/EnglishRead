@@ -57,7 +57,7 @@ modified: "2026-09-30"
 - **为什么这样写**：同伙刚说完一句「完成了」，叙述立刻用一句内心独白把它顶回去。作者不在这里解释她凭什么确定，只让一个 Wrong 悬在半空，随后交给一连串现实（警报线、光束、阁楼）来兑现这份确定。
 - **读者视角提示**：Tracy 的自信在这一章从不来自本事，来自她肯把「完了」当废话。
 
-> **原句 7:** Hesitantly, Jean Louis stepped out of the infrared beams. All was quiet. He looked back at Tracy with large, frightened eyes.
+> **原句 7:** Hesitantly, Jean Louis stepped out of the infrared beams. All was quiet. He looked back at Tracy with large, frightened eyes. She was standing in the middle of the beams, her body heat keeping the sensors from sounding the alarm.
 
 - **中文理解**：Jean Louis 犹犹豫豫地迈出红外光束。什么也没响。他回头看 Tracy，眼睛睁得又大又怕。她站在光束正中间，是她的体温把感应器压住，让警报不响。
 - **关键词**：Hesitantly, Jean Louis stepped out of the infrared beams · her body heat keeping the sensors from sounding the alarm
@@ -68,7 +68,7 @@ modified: "2026-09-30"
 
 - **中文理解**：他身边是一条大杜宾犬。Tracy 放声大笑，在面包车开走时朝 Jeff 飞了个吻。
 - **关键词**：At his side was a large Doberman · Tracy laughed aloud · blew a kiss to Jeff as the van sped away
-- **为什么这样写**：警报还没停，读者却被挪到一棵树的树荫下——Jeff 坐在车里等着。作者把两条杜宾塞进同一句里，读者若记得那只被抛过墙的母犬，就会明白他来不是为了报案；而她那一吻，是全章里少有的一次不装的表态。
+- **为什么这样写**：警报还没停，读者却被挪到一棵树的树荫下——Jeff 坐在车里等着。这是杜宾第二次出场：上一次她把它抛过墙，这一次它跟 Jeff 一起等在车里。读者若记得那只母犬，就会明白他来不是为了报案；而她那一吻，是全章里少有的一次不装的表态。
 - **读者视角提示**：警笛声是本章最后一句（the wail of approaching police sirens）。Jeff 身边那条是不是她抛进墙里的那一条，原文没写，读者只能猜。
 
 ## 本章词汇

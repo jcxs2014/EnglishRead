@@ -27,7 +27,7 @@ modified: "2026-09-30"
 - **中文理解**：十二岁的 Daniel Cooper 今天在 Fred Zimmer 的庭审中作证。Zimmer 被控强奸并杀害这个男孩的母亲。按男孩的证词，他放学回家，看见邻居 Zimmer 离开 Cooper 家，手上和脸上都是血。男孩进屋后，在浴缸里发现了母亲的尸体。她被残忍地刺死。Zimmer 承认自己是 Cooper 太太的情人，但否认杀了她。
 - **关键词**：Twelve-year-old Daniel Cooper today testified · a next-door neighbor · savagely stabbed to death
 - **为什么这样写**：这是一则写得极干的社会新闻，句子全是动词：testified、saw、leaving、entered、discovered。作者不给任何形容词，也不写男孩的感受，只有最后一句 denied that he had killed her 留下一个不闭合的口子——读者和当年的男孩一样，只能靠猜。
-- **读者视角提示**：整篇报道里男孩只出现两次，都以 the boy 指代，从头到尾没人叫他的名字；二十多年后他自己把这张纸从箱子里拿出来看。
+- **读者视角提示**：报道里的男孩始终以 the boy 指代，从头到尾没人叫他的名字；后来是他自己把这张纸从箱子里拿出来重看。
 
 > **原句 3:** Daniel Cooper’s trembling hands dropped the clipping back into the box and locked it. He looked around wildly. The walls and ceiling of the hotel bathroom were spattered with blood. He saw his mother’s naked body floating in the red water. He felt a wave of vertigo and clutched the sink. The screams inside him became gutteral moans, and he frantically tore off his clothes and sank down into the blood-warm bath.
 
@@ -36,7 +36,7 @@ modified: "2026-09-30"
 - **为什么这样写**：外界的实景只留一句，主角整个塌进旧事里——血从「溅在墙上」变成「温热的水」，温度接管了视觉。作者不写他在哭也不写他在喊，只让 screams inside him 变成 gutteral moans：声音一直都在，只是从嗓子挪到了身体里。
 - **读者视角提示**：这一段是全书里直接写 Cooper 内心的少数几处之一，而且发生在浴室——与剪报里母亲死去的地点是同一个。旧案没有讲完，只被重新走了一遍。
 
-> **原句 4:** “When a gang is involved, there’s always someone who talks too much, drinks too much, spends too much.
+> **原句 4:** “When a gang is involved, there’s always someone who talks too much, drinks too much, spends too much. It’s impossible for a large group of people to keep a secret. Would you mind giving me your files on this gang?”
 
 - **中文理解**：「只要有团伙，就总有人话太多、酒喝太多、花钱太多。一大群人不可能保住一个秘密。您能把关于这个团伙的卷宗给我看看吗？」
 - **关键词**：When a gang is involved · talks too much, drinks too much, spends too much · impossible for a large group of people to keep a secret
@@ -50,7 +50,7 @@ modified: "2026-09-30"
 - **为什么这样写**：推理过程被写成一句冒号后的长句，中间只用分号断一次，最后落在 exchange suitcases and disappear 这么平常的动作上。作者让 Cooper 不炫技：破解一桩悬案靠的不是灵感，是把对方没做的那一步补上。
 - **读者视角提示**：他说完就走了（I’ll be running along），把卷宗丢给 Trignant 去调——这是他亮出本事的一刻，也让 Trignant 不得不认真听他讲话。
 
-> **原句 6:** When he completed the telephone call, he sat back in his chair thinking, This Daniel Cooper is très formidable.
+> **原句 6:** When he completed the telephone call, he sat back in his chair thinking, This Daniel Cooper is très formidable. Very formidable, indeed.
 
 - **中文理解**：打完电话，他靠回椅子里想：这个 Daniel Cooper 真是厉害。非常厉害。
 - **关键词**：This Daniel Cooper is très formidable · Very formidable, indeed.
