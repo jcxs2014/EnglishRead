@@ -116,13 +116,13 @@ modified: "2026-10-01"
 | porch | 门廊，前廊 | Outside, the rain is making a constant commotion while dripping on the open front porch that is yet to be fixed. |
 | plank | 木板，板条 | A single plank is missing and even though it’s visible, Jimmy’s foot has fallen through so many times when drunk. |
 | cops | 警察 | People have called cops on him multiple times. |
-| appear in court | 出庭 | By now, he has avoided appearing in court or going to jail several times, and as long as he knows he will have that cover, he will act up as badly and as often as he wants to. |
+| appearing in court | 出庭 | By now, he has avoided appearing in court or going to jail several times, and as long as he knows he will have that cover, he will act up as badly and as often as he wants to. |
 | voice mail | 语音留言 | A reporter at the local Hampton news station has left a voice mail, practically begging me to call him back. |
 | volunteer | 主动去做（应征） | Regardless, I pick up my phone and call the news station back to volunteer for the interview. |
 | interview | 采访 | Regardless, I pick up my phone and call the news station back to volunteer for the interview. |
 | mirror | 镜子 | I'm practicing my cheerful disposition for TV, but the bathroom mirror says otherwise. |
 | a blue bruise | 一块青紫的淤青 | A blue bruise is forming under my eyes, and I am certain it will take a good amount of makeup to conceal it. |
-| repair trust | 修复信任 | I don’t want him there, but if I offer something he can look forward to, we will repair a little trust that’s left, at least temporarily. |
+| repair | 修复信任 | I don’t want him there, but if I offer something he can look forward to, we will repair a little trust that’s left, at least temporarily. |
 
 ## 一句话总结
 

@@ -83,7 +83,7 @@ modified: "2026-10-01"
 | permanently attached | 永远附着在……上的 | It’s not like you can just shake off guilt and live happily ever after. Years of therapy could help to teach you how to cope, but even then… this kind of guilt is permanently attached to my soul. |
 | hooked | 上了瘾 | I was hooked. |
 | snort it | 吸食（毒品） | She put white powder on her hand and instructed me to snort it. |
-| a rush of energy | 一股猛冲上来的能量 | I felt an instant rush of energy. |
+| rush of energy | 一股猛冲上来的能量 | I felt an instant rush of energy. |
 | on top of the world | 兴奋到极点 | I was on top of the world. |
 | spooks me | 让我发怵（口语） | For the rest of the day, I try not to think about the mystery sender, even though it spooks me. |
 | clammy | 湿黏的（手心、皮肤） | Sweat beads down my neck and my hands are clammy. |
@@ -100,7 +100,7 @@ modified: "2026-10-01"
 | I resort to silence | 我选择闭嘴 | I resort to silence to avoid provoking him further. |
 | a pleasant aroma | 一股好闻的香气 | As soon as I do, a pleasant aroma hits me and the image of the most beautiful flowers—daisies, roses, daffodils—puts a smile on my face. |
 | rather peculiar | 相当奇怪 | It’s a lovely gesture, but it seems rather peculiar that there’s no signature or name attached to it. |
-| a signature | 签名 | It’s a lovely gesture, but it seems rather peculiar that there’s no signature or name attached to it. |
+| signature | 签名 | It’s a lovely gesture, but it seems rather peculiar that there’s no signature or name attached to it. |
 | brings chills to my spine | 让我脊背发凉 | The way he says it brings chills to my spine. |
 | a smirk | 得意的一笑，假笑 | “Must be your secret admirer.” Jimmy looks at me with a smirk. |
 | bad vibes | 很不好的感觉，直觉不对劲 | The silence on the other line sends me bad vibes. |
@@ -121,7 +121,7 @@ modified: "2026-10-01"
 | daffodils | 水仙花 | As soon as I do, a pleasant aroma hits me and the image of the most beautiful flowers—daisies, roses, daffodils—puts a smile on my face. |
 | bouquet | 花束 | I pick up the note sitting on the top of the bouquet and read: CONGRATULATIONS. |
 | flower shop | 花店 | I take my phone and dial the flower shop listed on the label at the top of the box. |
-| a secret delivery | 一份匿名／秘密送达的订单 | I introduce myself and inquire about the secret delivery at my house. |
+| secret delivery | 一份匿名／秘密送达的订单 | I introduce myself and inquire about the secret delivery at my house. |
 | steering wheel | 方向盘 | He’s clenching the steering wheel hard and looking straight ahead. |
 | an extra shift | 多上一个班 | One night, she asked me to stay an extra shift, because another waiter was sick and couldn’t make it. |
 | waiter | 服务员 | One night, she asked me to stay an extra shift, because another waiter was sick and couldn’t make it. |

@@ -116,7 +116,7 @@ modified: "2026-10-01"
 |---------|------|------|
 | news feed | 动态消息流 | It’s private, so nothing shows up on their news feed. |
 | memes and reels | 梗图和短视频 | I open the Facebook app on my phone on rare occasions, just to check out the funny memes and reels. |
-| a soul mate | 灵魂伴侣 | She’d described him as her soul mate, and said no one would ever come close. |
+| soul mate | 灵魂伴侣 | She’d described him as her soul mate, and said no one would ever come close. |
 | a celebrity | 名人 | “You’re going to be a celebrity in town. Everyone’s already talking about it,” Rose says, but then her eyes glaze over with a mysterious look. |
 | hump on her back | 背上的驼峰 | She moves fast for an old lady, even though she has a hump on her back, which doesn’t seem to slow her down. |
 | this row | 这一排房子 | We’re getting out of this shithole, Rose. No offense to you or anyone else living in this row. |

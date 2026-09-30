@@ -47,7 +47,7 @@ modified: "2026-10-01"
 
 - **中文理解**："大概吧。"我怕她会发现，我的热情跟她的相比差得不能看。我现在羞于承认，其实我本可以不见 Greta 的。"你还跟……那是 Greg 吗？"
 - **关键词**：I suppose（大概吧）／my enthusiasm does not match hers（我的热情比不过她）／I could have lived without seeing Greta（我可以不见 Greta 也照样活）
-- **为什么这样写**：作者用一问一答拆穿这次重逢的礼貌："I suppose"（大概吧）是她能给出的最热的回应，而对方的热情是 "catching up soon"（尽快聚聚）、"so much catching up to do"（有那么多要叙旧）。省略号把 "Are you still married to …" 断在半空，Lynn 连那个名字都不敢确定，说明她当年连这位朋友嫁了谁都记不牢。
+- **为什么这样写**：作者用一问一答拆穿这次重逢的礼貌："I suppose"（大概吧）是她能给出的最热的回应，而对方的热情是 "we’re here again, with so much catching up to do"（我们又见面了，有那么多要叙旧）。省略号把 "Are you still married to …" 断在半空，Lynn 连那个名字都不敢确定，说明她当年连这位朋友嫁了谁都记不牢。
 - **读者视角提示**：留意那句关于热情的自我诊断：不是 Greta 变了，是她知道自己这几年过成了什么样子。留意 "I could have lived without seeing Greta"（我本可以不见她）——她后悔的不是重逢本身，是重逢暴露出的差距。
 
 > **原句 6:** “Yeah, he ended up cheating on me with his ex. Douchebag. But now I’m married to a wonderful man who grew up a couple of blocks from our house. Gerry.” She laughs. “I can’t get away from G.”

@@ -7,10 +7,10 @@ modified: "2026-10-01"
 
 ## 本章导航
 
-- **一句话概括**：丈夫出门上班后，她把病情一次性摊开给自己听——一个周前确诊、六个月前开始咳血、两人都没有医保、癌已转移到骨头、自己只肯给两个月；随后她走进那家事务所，看清税后约三百万、当场选定一次性领取，并宣布要全部捐掉，律师在这四个字上第一次失态。
-- **情感弧线位置**：接住 ch04 结尾的最低点，本章开头是空与反胃的，中段用一整段自述把情绪压平，再在会谈里短暂回升（全捐是她的计划第一次被另一个人听见），最后被收尾那句追问重新按住。
+- **一句话概括**：丈夫出门上班后，她把病情一次性摊开给自己听——一个周前确诊、六个月前开始咳血、两人都没有医保、癌已转移到骨头、自己只肯给两个月；随后她走进那家事务所，看清税后约三百万、当场选定一次性领取，并宣布要全部捐掉，律师在这四个字上失态。
+- **情感弧线位置**：接住 ch04 结尾的最低点，本章开头是空与反胃的，中段用一整段自述把情绪压平，再在会谈里短暂回升（全捐是她的计划头一回被另一个人听见），最后被收尾那句追问重新按住。
 - **线索结构**：埋四样日后要回收的东西——确诊时间与自估时限（"cancer"这个词在 ch01 到 ch04 一次都没出现过，本章是头一次）、事务所招牌 LIBBY AND LIBBY, ESQ. 与她自称 Sam（short for Samantha）、叙述者扫过对方左手却没看到戒指的那一眼、以及她"我们没有家人"这句回答（这段婚姻把她的外部关系全切断了）。
-- **人物弧线**：Lynn 在两种人面前判若两人——对 Jimmy 是忍耐与瞒报，对 Sam 是提问、拍板、拒绝商量；可一旦被追问过去，她立刻收声。这套对不同对象切换口径的能力，正是 ch06 谈崩的起点。
+- **人物弧线**：Lynn 在两种人面前判若两人——对 Jimmy 是忍耐与瞒报，对 Sam 是提问、拍板、拒绝商量；可一旦被追问过去，她立刻收声。这套对不同对象切换口径的能力，正是 ch06 开头那句拒绝的来处。
 - **叙事手法**：中段插入一整段第一人称的病情自述，把悬疑节奏让位给交代；会谈写成逐问逐答的短对白，靠问答密度推进；结尾不写她的反应，只把全章重量压到对方的一个问题上。
 
 ## 精读
@@ -19,8 +19,8 @@ modified: "2026-10-01"
 
 - **中文理解**：等他完事，他起身去了洗手间。我羞耻地侧过身，把腿收到下巴那么高。我感到又空又廉价，也怨恨 Jimmy 在这么久——好几个月，好几年——之后主动来做这件事。我早忘了那是什么感觉，现在只希望自己没被提醒。
 - **关键词**：bring my legs up to my chin／empty and cheap／I’d forgotten how it feels
-- **为什么这样写**：开场就用一个时间状语把昨夜那场事处理成流程——等他完事，主语是"他"，她的身体被放进别人的进度条里。empty and cheap（空且廉价）用价格衡量身体，与 ch01 她对钱的谨慎是同一套价值语言。I’d forgotten how it feels（我早忘了那感觉）说明这是多年来第一次被动重温；希望自己没被提醒是本章唯一一次她的主动表达，而它仍是否定句。
-- **读者视角提示**：注意她怨恨的是"发起"这个动作，不是它本身——责任被定位在动词上，这套定位在 ch07 会用得更狠。
+- **为什么这样写**：开场就用一个时间状语把昨夜那场事处理成流程——等他完事，主语是"他"，她的身体被放进别人的进度条里。empty and cheap（空且廉价）用价格衡量身体，与 ch01 她对钱的谨慎是同一套价值语言。I’d forgotten how it feels（我早忘了那感觉）说明这是多年没有过的被动重温；希望自己没被提醒是本章里她唯一的一次主动表达，而它仍是否定句。
+- **读者视角提示**：注意她怨恨的是"发起"这个动作，不是它本身——责任被挂在动词上。同一套挂法在 ch07 指向她自己：她认定丈夫没原谅的是她。
 
 > **原句 2:** “Damn it, Lynn, you’re useless!” He slams the fridge door, then walks into the living room. It’s amazing how fleeting and short-lasting his happiness is. His belt jangles as he puts his pants on. He mutters under his breath, then leaves the house, slamming the door behind him.
 
@@ -34,13 +34,13 @@ modified: "2026-10-01"
 - **中文理解**：就在一个周前，我的医生递来了肺癌这个毁灭性的诊断。她克制着不去透露关于我剩余时间的预后，可我没法不在心里只给自己划出两个月——如果命运肯仁慈的话。
 - **关键词**：the devastating diagnosis of lung cancer／refrained from divulging a prognosis／allocate myself a mere two fleeting months
 - **为什么这样写**：delivered（递来）把医生写成送件的人，语气平得反常；refrained from（克制着不）说明医生其实知道却不说的专业姿态，而叙述者立刻看穿这一点。真正狠的词是 allocate（分配）——她把余生当一笔预算去划，而这笔预算只有两个月。if fate should prove merciful（如果命运肯仁慈）把活命说成运气，把 should（大概会）挂在命运上，条件不成立就没有下文。
-- **读者视角提示**：这一段是全书第一次给出确诊时间与自估时限，也第一次把她的病写成一个有日程的账目。ch07 展开 1997 年那次住院，两段时间线到本章才第一次并排摆在读者眼前。
+- **读者视角提示**：ch01 到 ch04 一次都没出现过 cancer 这个词，本章才给出确诊时间与自估时限，也把她的病写成一个有日程的账目。ch07 展开 1997 年那次住院，两段时间线到本章才第一次并排摆在读者眼前。
 
 > **原句 4:** About six months ago, I’d coughed up some nasty bloody stuff, and the naïve me thought it was from the long-lasting effect of chain-smoking when I was younger. I’d quit smoking many years ago, but the cancer snuck up on me unexpectedly. If I’d had a better health insurance, I would have gone to see my doctor a lot sooner. But I don’t have any. Neither does Jimmy.
 
 - **中文理解**：大约六个月前，我咳出过一些难看的带血的东西，天真的我以为那是我年轻时长时间连着抽烟留下的后果。我很多年前就戒烟了，可癌还是出其不意地找上了我。要是我有一份好一点的医保，我早就去看医生了。可我一张也没有。Jimmy 也没有。
 - **关键词**：the naïve me／the cancer snuck up on me unexpectedly／Neither does Jimmy
-- **为什么这样写**：the naïve me（天真的我）把叙述者切成两个人：一个当年无知犯错，一个如今复盘，而复盘的那个并不打算责怪当年的那个。真正把病程锁死的是那张医保——虚拟语气 If I’d had（要是当时有）把延误归到一份保单上，作者由此把贫穷写成因果而不是运气。But I don’t have any. Neither does Jimmy.两句都是短句，她把自己和丈夫并列进无保单的人里，这是全书第一次由她本人指出这个家的结构性缺口。
+- **为什么这样写**：the naïve me（天真的我）把叙述者切成两个人：一个当年无知犯错，一个如今复盘，而复盘的那个并不打算责怪当年的那个。真正把病程锁死的是那张医保——虚拟语气 If I’d had（要是当时有）把延误归到一份保单上，作者由此把贫穷写成因果而不是运气。But I don’t have any. Neither does Jimmy.两句都是短句，她把自己和丈夫并列进无保单的人里，这是她头一次由本人指出这个家的结构性缺口。
 - **读者视角提示**：没有医保这条与 ch06 那句"I’m broke as hell"（我穷得要命）是同一个经济事实的两次亮相：钱在这一章同时是救命钱和她的辞职基金。
 
 > **原句 5:** I follow her and enter her enormous office overlooking the beach. “Wow, that’s quite the view,” I say. She smiles. “Right? I’ve worked so hard for this, and it better be worth it.” I’ve worked hard all my life, and what do I have? A shoe box and a shitty husband making my life miserable. But that’s all about to change, I suppose.
@@ -54,7 +54,7 @@ modified: "2026-10-01"
 
 - **中文理解**："现在来说说这笔钱。我要说明的是：虽然你中了五百万美元，可你看不到那个总数，因为，这笔钱得交税——它被算作收入。"我咽下一口唾沫。"好。"
 - **关键词**：you won’t see that total amount／you need to pay taxes on it／I swallow a lump in my throat
-- **为什么这样写**：从五百万到"你看不到那个总数"是本章第一次缩水，而作者让这个数字由律师的嘴说出、不是由叙述者感叹——缩水于是成了一条程序事实。她唯一的反应是一个生理动作加一个单词：咽唾沫，开口只说好。打击被写成身体的哽住，而不是抗议。
+- **为什么这样写**：从五百万到"你看不到那个总数"是本章头一次缩水，而作者让这个数字由律师的嘴说出、不是由叙述者感叹——缩水于是成了一条程序事实。她唯一的反应是一个生理动作加一个单词：咽唾沫，开口只说好。打击被写成身体的哽住，而不是抗议。
 - **读者视角提示**：她还没听到税后那个数就已经咽口水——她在意的不是钱，是这个数字会不会继续往下掉。三百万要到下一轮问答才落地。
 
 > **原句 7:** “Winning the lottery can be tricky.” She stares at me and continues. “You never know who’s going to be after your money.” A chill goes down my spine. There is something in her voice that makes her statement sinister.
@@ -68,7 +68,7 @@ modified: "2026-10-01"
 
 - **中文理解**："我打算把它全捐给慈善。"她挪了挪身子，清了清嗓子，皱着眉盯着桌面，手指摆弄着。"请原谅，我再问一遍：你是说你要把它全部捐给慈善？"我点头。"我是说，是的，也许会留一点去度假、再处理一些没办完的私事，那花不了太多，剩下的我打算捐给慈善。""你跟丈夫商量过吗？""没有。"我摇头。"我该商量吗？""恐怕作为一对夫妻，你们得一起决定。""为什么？票是我中的，不是他。我怎么花我的钱是我的事，他也一样处理他的钱。我们有各自的活期和储蓄账户。它们其实早就几乎见底了。""这样的决定可能让婚姻吃紧，甚至导致离婚。"——我要是能离成婚就好了。
 - **关键词**：I beg your pardon／unfinished personal business／I would be so darn lucky
-- **为什么这样写**：I beg your pardon（请恕我冒昧）把刚才的反应抬进礼节，可下一句"你是说"暴露那不是礼貌，是没听清。清嗓子、皱眉、摆弄手指——三个小动作代替台词，这是她在本章的头一次失态。对面给的是职业建议（一起决定），她给的是权利陈述（票是我中的）；紧跟着那句关于离婚的话把威胁翻成她的愿望，一句话掉转了整段对话的张力。她唯一留的口子是"没办完的私事"，含糊得连她自己都说不清。
+- **为什么这样写**：I beg your pardon（请恕我冒昧）把刚才的反应抬进礼节，可下一句"你是说"暴露那不是礼貌，是没听清。清嗓子、皱眉、摆弄手指——三个小动作代替台词，这是她在本章里的头一处失态。对面给的是职业建议（一起决定），她给的是权利陈述（票是我中的）；紧跟着那句关于离婚的话把威胁翻成她的愿望，一句话掉转了整段对话的张力。她唯一留的口子是"没办完的私事"，含糊得连她自己都说不清。
 - **读者视角提示**：本章最后一句是对方把话头转向她的过去——"Is there a story behind all this?"（这里面是不是有故事？）。作者不给她的回答，ch06 开头第一句就是她的拒绝。
 
 ## 本章词汇
@@ -122,4 +122,4 @@ modified: "2026-10-01"
 
 ## 一句话总结
 
-她用一整章把死期算清、把税务听清、把领取方式拍板，最后把"全捐"两个字放到桌上——对面那位专业人士在这两个字上第一次忘了自己的职业。
+她用一整章把死期算清、把税务听清、把领取方式拍板，最后把"全捐"两个字放到桌上——对面那位专业人士在这两个字上忘了自己的职业。

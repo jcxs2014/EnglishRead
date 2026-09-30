@@ -26,7 +26,7 @@ modified: "2026-10-01"
 
 - **中文理解**：我坐在沙发上，把 Jimmy  好好发泄了一番。我的身体太弱了，而且我非常清楚自己的骨头在一点点坏掉。以我现在的身体状况，我永远不可能挡得住 Jimmy  的力气。
 - **关键词**：avail myself of（拿……发泄一番）／bones are slowly deteriorating（骨头在一点点衰退）／defend myself（自保、护住自己）
-- **为什么这样写**：开头的短语用错了方向——"avail oneself of"本该是"利用"，她却用在一个不能反抗的人身上，句子本身就把她的无能为力写了出来。随后的身体清单是本章的硬信息：力气正在流失，而她能想到的自保也被身体否掉。作者把她的处境落在一具正在坏掉的身体上，因此"被锁"这件事的可怕不止是门，还包括她根本没力气破门。
+- **为什么这样写**：开头的短语用错了方向——"avail myself of"本该是"利用"，她却用在一个不能反抗的人身上，句子本身就把她的无能为力写了出来。随后的身体清单是本章的硬信息：力气正在流失，而她能想到的自保也被身体否掉。作者把她的处境落在一具正在坏掉的身体上，因此"被锁"这件事的可怕不止是门，还包括她根本没力气破门。
 - **读者视角提示**：注意这一段是她自己算出来的结论，不是别人的诊断；她对自己的病了解得比任何人都早，这也让她后面的顺从显得像是她自己签的字。
 
 > **原句 3:** Jimmy takes the key from the inside of the door, exits the room, and closes the door behind. I hear him working the key on the knob, locking me inside. It’s his new way of punishing me. I know it’s stupid, but I’m grateful he chooses to lock me in my bedroom as opposed to beating me up. It’s an improvement, a step up from the usual.

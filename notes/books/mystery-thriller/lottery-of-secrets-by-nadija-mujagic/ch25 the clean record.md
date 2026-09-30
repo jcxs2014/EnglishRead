@@ -136,7 +136,7 @@ modified: "2026-10-01"
 | gun | 枪支 | “Anyway, I was mainly interested if your husband might have bought a weapon in the shop. New Hampshire, as you know, is pretty flexible with gun laws. Live free or die, and all that jazz.” He scoffs. “But he didn’t buy any weapons.” |
 | convenience store | 便利店 | “I followed him today and there’s really nothing unusual. No unusual places. He’s gone to a convenience store and came out with a small bag and a can of soda. Then he went to a pawnshop next town over. He did spend a considerable amount of time in there, though.” |
 | gnaws | （疑虑）啃噬，折磨 | My heart slows down, and I can breathe again. But a strange feeling gnaws at me. I’m having a hard time believing everything he tells me. |
-| by itself | 独自；本身 | That he doesn’t even have a speeding ticket shows that he is a criminal in and of itself. |
+| in and of itself | 独自；本身 | That he doesn’t even have a speeding ticket shows that he is a criminal in and of itself. |
 | conclusion | 结论 | “I completely understand. But I will continue my investigation, and if in a week I don’t find any suspicious activities, I’m afraid I will need to bring it to a conclusion.” |
 | suspicious | 可疑的 | “I completely understand. But I will continue my investigation, and if in a week I don’t find any suspicious activities, I’m afraid I will need to bring it to a conclusion.” |
 
