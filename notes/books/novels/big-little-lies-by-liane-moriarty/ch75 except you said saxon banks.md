@@ -119,6 +119,40 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| renovations | （浴室）装修 | Madeline was trapped in a passionate conversation with some Year 2 parents about bathroom renovations. |
+| flattering | （显身材的）裙型 | She liked the parents very much, and she knew she’d just bored the husband silly while she and the wife had an intense conversation about the most flattering types of wrap dresses, so she owed it to the poor man to keep listening. |
+| scandalous | （不可告人的）猛料 | As she made her way through the crowd, she passed a group of four Blond Bobs huddled together so close, it was obvious they were sharing something scandalous. |
+| gobsmacked | 惊掉下巴 | “I am just gobsmacked that the school let it go on for as long as it did. |
+| frightened | （吓怕了的）小女孩 | “When I get frightened, I lash out. |
+| celebrating | （正）庆祝 | “I’ve been celebrating the happy ending to our daughter’s little drama,” said Nathan. |
+| satisfaction | （满意地）凝视 | She really did look wonderful tonight, thought Madeline with satisfaction, and she realized that the constant gum-chewing had stopped sometime over the last few weeks without her noticing. |
+| gum-chewing | 嚼口香糖（停了） | She really did look wonderful tonight, thought Madeline with satisfaction, and she realized that the constant gum-chewing had stopped sometime over the last few weeks without her noticing. |
+| obsequious | （不再）巴结 | Madeline noticed she wasn’t quite as obsequious toward Perry now that she knew his son had been bullying her daughter. |
+| semicircle | （围成的）半圆 | Somehow they’d formed a semicircle around Perry, as though he were their leader. |
+| remonstrating | （像训孩子一样）呵斥 | “Hey now,” said Renata sharply, as if she were remonstrating a child. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| delivery | （台词的）功力 | Her delivery was absolutely perfect, thought Madeline, and that’s what gave it away. |
+| composed | （过分）镇定 | Right now she looked completely composed and poised, and her eyes held Madeline’s. |
+| distract | （大有）分心之事 | Juliette found much to distract her in Pirriwee. |
+| Polyamour | 多元之爱（法语词） | Polyamour. |
+| boyishly | （男孩气的）凌乱 | He ruffled his hair with his fingertips so he looked boyishly rumpled and sat himself up on a bar stool, his back to the balcony. |
+| emerging | （浮出的）满月 | He looked very tall up on the bar stool, with the sky clearing behind him, clouds backlit by the moonlight from an emerging full moon, like a magical gold disc. |
+| sculpture | （美丽的女人）雕像 | She looked like she was carved out of stone, a sculpture of a beautiful woman. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| fright | （受）惊 | “I got a fright,” said Renata. |
+
 ## 一句话总结
 
 阳台上二十分钟走完三个月的案情——Renata 烧了自家后院、认领了道歉、Celeste 当众交出 Max 的名字，而站着的 Jane 仰头对着坐着的猫王说出了那七个字：「你说你的名字叫 Saxon Banks」；月亮升成金盘，蒙娜丽莎坐成了石雕——所有伏笔在此刻收网，所有沉默在今晚到期。
