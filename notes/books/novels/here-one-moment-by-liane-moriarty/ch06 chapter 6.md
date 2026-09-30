@@ -18,7 +18,7 @@ modified: "2026-09-30"
 > **原句 1:** "She wouldn’t have lasted long in her line of work if she took words to heart. She deals with angry, violent, distressed, drunk, high and psychotic people every day. They spit terrible insults at her, along with the occasional sexually charged death threat. Water off a duck’s back. Sticks and stones."
 
 **中文理解**：讲述者说，要是把话往心里去，她这份工作早就干不下去了——她每天面对愤怒、暴力、痛苦、醉酒、嗑药和精神失常的人；他们朝她吐很难听的脏话，偶尔还夹带性意味的死亡威胁，而她的应对是当耳边风。
-**关键词**：taken to heart, angry, violent, distressed, psychotic, death threat, Water off a duck’s back
+**关键词**：took words to heart, angry, violent, distressed, psychotic, death threat, Water off a duck’s back
 **为什么这样写**：这一段先立一块挡箭牌，再把清单逐项摊开，读者于是不容易马上把老妇的话当真。结尾用同一句谚语的两个分句收束，是全段的语气落点。
 **读者视角提示**：记住「Sticks and stones」这套挡法——本章后面她自己的恐惧要正面撞上来，挡法就不管用了。
 

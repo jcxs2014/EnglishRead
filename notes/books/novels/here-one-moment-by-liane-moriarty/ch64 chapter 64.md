@@ -17,7 +17,7 @@ modified: "2026-09-30"
 
 > **原句 1:** "Hi Ethan, it’s Leo here, from the Hobart flight. We shared a taxi home. I just wondered if you had seen the distressing video doing the rounds on the internet? Wondering if it’s fake?"
 
-**中文理解**：同学 Leo 发来短信做自我介绍，说他是机场那趟航班上的那位，两人还一起打了车回家；他只是想知道 Ethan 有没有看过那段在网上疯传、令人不安的视频，想问问是不是伪造的。
+**中文理解**：Leo 发来短信做自我介绍，说他就是机场那趟航班上的那位、两人还一起打了车回家；他只是想知道 Ethan 有没有看过那段在网上疯传、令人不安的视频，想问问是不是伪造的。
 **关键词**：from the Hobart flight, shared a taxi home, distressing video, Wondering if it’s fake?
 **为什么这样写**：作者先给聊天记录下了个判语——他打字像老年人，“old-person style”，句子全部带标点。这句判语既解释了标点满天飞的排版，也把一个二十来岁的人写成了老人，于是读者读短信时会带着一点笑意，而笑意正是下一段要打破的东西。
 **读者视角提示**：记住这条短信的语气。它是后面 Ethan 回信时那种轻描淡写的对照物。

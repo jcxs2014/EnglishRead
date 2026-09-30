@@ -19,14 +19,14 @@ modified: "2026-09-30"
 
 **中文理解**：同一个句子被再说了一遍。
 **关键词**：It was a terrible thing to say to a mother
-**为什么这样写**：本章用完全逐字相同的一句开场，差别只在说话人——从那位母亲换成听见这句的人。不加任何评论，让重复本身承担转折。
+**为什么这样写**：本章用同一句话开场，差别在两处：时态从此刻的判断变成回顾，句子也从喊出来变成被想起来。不加任何评论，让重复本身承担转折。
 **读者视角提示**：把这句话和前一章末句并排读——同样的词、同样的顺序，换了主语之后，意思从控诉变成了自责。
 
 > **原句 2:** "When I put my hands to my cheeks I can still feel the heat of my shame."
 
 **中文理解**：当她把手贴到脸颊上，那股羞耻的热度现在还留在脸上。
 **关键词**：put my hands to my cheeks, can still feel, the heat of my shame
-**为什么这样写**：can still feel 把羞耻写成一种留在皮肤上的物理残留——不是回忆里的情绪，是现在还摸得到的东西。语法上句子用了间接引语，省掉了主语，读者被放进她的身体里。
+**为什么这样写**：can still feel 把羞耻写成一种留在皮肤上的物理残留——不是回忆里的情绪，是现在还摸得到的东西。语法上没有间接引语，分句的主语都是明写的 I；读者被放进她的身体里，靠的是前面那个 when 从句先把她按回那个动作。
 **读者视角提示**：注意这是本章里仅有的身体描写，位置在两段抽象判断之间——生理反应被放在道德清算前面。
 
 > **原句 3:** "I brought my profession, the profession I love, into serious disrepute that day, and we already had an image problem."

@@ -61,7 +61,7 @@ modified: "2026-09-30"
 
 **中文理解**：全章的总括句——这位后来被称为「the Death Lady」的老妇，在那班延误的 3.20 pm 霍巴特飞悉尼航班上，不值得任何人多看一眼。
 **关键词**：later become known, the Death Lady, not worthy of a second glance, not until she does what she does
-**为什么这样写**：这一句一次性给出书名（「the Death Lady」）、时间（3.20 pm）、航段与结局预告（not until she does what she does），却仍然把重点放在「不值得多看一眼」。书名、航班号、悬念三者并置，读者同时拿到答案和更想知道的东西。
+**为什么这样写**：这一句一次性给出她的称号（「the Death Lady」）、时间（3.20 pm）、航段与结局预告（not until she does what she does），却仍然把重点放在「不值得多看一眼」。称号、航班、悬念三者并置，读者同时拿到答案和更想知道的东西。
 **读者视角提示**：本章结束在一句预告上——真正让人回头的时刻还没发生。下一章是第一位乘客 Leo 的视角。
 
 ## 本章词汇

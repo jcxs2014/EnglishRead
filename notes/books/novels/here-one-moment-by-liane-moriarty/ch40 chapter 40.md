@@ -20,7 +20,7 @@ modified: "2026-09-30"
 **中文理解**：那天，在霍巴特飞悉尼的航班上，我就是那只蝴蝶。
 **关键词**：That day, on the flight from Hobart to Sydney, I was the butterfly
 **为什么这样写**：句子把时间（That day）、航段（on the flight from … to …）和自喻一次交清，中间不插入任何修饰语。比喻被单独摆在这里，像一张还没有配图的标题卡。
-**读者视角提示**：在此之前的叙述里「我」一直没有自报姓名；到这里才由本人开口。
+**读者视角提示**：她自报姓名的场面在 ch24 已经出现过一次；这一句换的不是名字，是自喻的身份——从「那班航班上的老妇」换成「一只乱扑腾的鸟」。
 
 > **原句 2:** "Actually, I was the less poetic seagull."
 

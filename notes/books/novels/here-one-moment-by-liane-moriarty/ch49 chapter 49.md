@@ -47,7 +47,7 @@ modified: "2026-09-30"
 
 **中文理解**：接电话的是 Lila，Harvey 的妹妹，两人在葬礼上见过。
 **关键词**：The woman says, ‘Ethan? It’s Lila.’, Harvey’s sister, We met at the funeral
-**为什么这样写**：这里先给声音再给脸：一句 Hello? 之后隔了一段才报名字；打给死人号码这件事被一句寒暄轻轻带过。
+**为什么这样写**：这里先给声音再给脸：叙述者先写「那位女人说」，名字紧跟着那一声招呼就报出来，没有给任何铺垫；打给死人号码这件事被一句寒暄轻轻带过。
 **读者视角提示**：本章从头到尾没有写 Harvey 是怎么死的，只有一场葬礼和一句「他从小就像个中年人」。
 
 > **原句 6:** "‘Call him – call me – any time you feel like it. It’s nice for me to know people are out there thinking of Harvey. Missing him too. Bye, Ethan.’"

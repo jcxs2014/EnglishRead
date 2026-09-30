@@ -48,7 +48,7 @@ modified: "2026-09-30"
 **中文理解**：如果她那天开得没那么慢，也许会在另一个路口，遇上另一个闯红灯的人。
 **关键词**：had been driving faster that day, at a different intersection, drove straight through a red light
 **为什么这样写**：整个反事实嵌在一句里，主语从女孩换成闯红灯的人，长长的定语（年龄、酒量、时间、前科、时速）把「另一个人」堆成一堵墙；句子的复杂度就是叙述者有多想找到出口。
-**读者视角提示**：全章没有第二处这样写：整整一句里没有出现死者的名字，主语一路让给闯入者——它在替死者开脱的同时，替那个人减了刑。
+**读者视角提示**：全章没有第二处这样写：名字只在开头那个 if 从句里出现一次，随后整句的主语一路让给那个闯入者——它在替死者开脱的同时，替那个人减了刑。
 
 > **原句 6:** "I wish this thought had not occurred to me and I hope it has not occurred to her parents."
 

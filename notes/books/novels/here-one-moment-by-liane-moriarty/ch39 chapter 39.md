@@ -7,7 +7,7 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **一句话概括**：五月中旬的一个晚上，Suz 和 Caterina 吃着意式前菜，从「intimate partner homicide」的转述一路聊到胰腺癌的风险清单，最后那句「I'm just not ready to die」被端着帕尔马森的服务员正好听见。
+- **一句话概括**：五月中旬的一个晚上，Sue 和 Caterina 吃着意式前菜，从「intimate partner homicide」的转述一路聊到胰腺癌的风险清单，最后那句「I'm just not ready to die」被端着帕尔马森的服务员正好听见。
 - **叙事视角**：Sue O’Sullivan 第三人称限知，视角一直贴在她这一边。
 - **场景与时间**：五月中旬、出发旅行满一个月之后；一家新开的意式餐厅，灯光昏暗，两杯 Aperol Spritz 摆在桌上。
 - **人物弧线**：从「把飞机上的事留到最后再说」到说完之后反而更想说点别的；恐惧被她临时改写成对旅行的期待。
@@ -19,15 +19,15 @@ modified: "2026-09-30"
 
 **中文理解**：她讲到「亲密伴侣杀人」那一条：转述里说，那位 lady 告诉那位新娘，她会死于前伴侣之手。
 **关键词**：intimate partner homicide, every single passenger, The bride was still in her dress
-**为什么这样写**：全句是一次转述套着另一次转述：Suz 说的是「别人说的」，而那个「别人」又是 lady 说的。法律术语 intimate partner homicide 在日常对话里突兀得近乎公文，正是这份突兀让读者记住它。
+**为什么这样写**：全句是一次转述套着另一次转述：Sue 说的是「别人说的」，而那个「别人」又是 lady 说的。法律术语 intimate partner homicide 在日常对话里突兀得近乎公文，正是这份突兀让读者记住它。
 **读者视角提示**：这一段被放在吃到一半的时候说出：先让她把话咽回去、把面包蘸了橄榄油，再让那几个字出来。
 
 > **原句 2:** "‘Violent? No, not at all,’ says Sue. ‘But they never look violent in their wedding photos, do they?’"
 
-**中文理解**：「你是说你觉得这事很吓人？」Caterina 问，然后自己先笑了，「他们说他当时看起来一点都不慌。」
+**中文理解**：对方惊呼一声「太可怕了」，身子前倾，追问那位新郎当时看起来是否凶；被这句没说完的问话逼着的是 Sue，她替对方把话补完：暴力？不，一点都不——反正人在婚礼照片里看着从来不像是会动手的人，不是吗？
 **关键词**：Violent, No, not at all, they never look violent in their wedding photos
-**为什么这样写**：对话里没有一个人说「害怕」，问句用的是更轻的词；回答用 not at all 直接切断，语气比问题还硬。两个短促的否定并排，把不安压成了一种社交噪音。
-**读者视角提示**：这一段之后两人都没有再谈飞机——不谈论是她们处理恐惧的方式之一，而不是已经忘了。
+**为什么这样写**：对话里没有一个人说「害怕」，问句用的是更轻的词、而且被作者掐在半句上；回答用 not at all 直接切断，语气比问题还硬。两个短促的否定并排，把不安压成了一种社交噪音。
+**读者视角提示**：紧接着的一段两人就换到「有些很聪明的人也信灵媒」这个话题上——不谈论那趟航班，是她们处理恐惧的方式之一，而不是已经忘了。
 
 > **原句 3:** "Caterina gives her a look of mock suspicion, wipes her mouth with her napkin and drops it back on her lap. ‘I’d love to hear any actual evidence of accurate psychic predictions.’"
 
@@ -59,7 +59,7 @@ modified: "2026-09-30"
 
 > **原句 7:** "‘I’m just not ready to die,’ says Sue dramatically at the exact moment the waitress with the lovely hair appears to offer parmesan and black pepper."
 
-**中文理解**：「我只是还没准备好死，」Suz 戏剧性地说着，恰好就在那个头发好看的服务员端着帕尔马干和黑胡椒出现的那一刻。
+**中文理解**：「我只是还没准备好死，」Sue 戏剧性地说着，恰好就在那个头发好看的服务员端着帕尔马干和黑胡椒出现的那一刻。
 **关键词**：I’m just not ready to die, dramatically, at the exact moment, the waitress with the lovely hair
 **为什么这样写**：严肃的话与端盘子的动作被 at the exact moment 精确对齐，一秒不差。前面几段已经把死亡铺到体检清单的高度，这一句把它拽回餐厅日常；而 the waitress with the lovely hair 这个称呼又让人想起她自己夸过的服务员的头发——笑点埋在措辞里。
 **读者视角提示**：全章以这个错位收尾：台词被人打断，服务员会不会当真，是本章留给读者的空白。

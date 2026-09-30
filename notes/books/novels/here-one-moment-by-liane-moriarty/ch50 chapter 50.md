@@ -34,7 +34,7 @@ modified: "2026-09-30"
 **中文理解**：她一直以为大家都这样吃，直到去年看见好友 Bert 一口把两层咬穿，碎屑乱飞，还眨眼说「我喜欢活得危险，Cherry」。
 **关键词**：my good friend, Bert, bite heedlessly through both layers at once, Crumbs flying, ‘I like to live dangerously, Cherry.’
 **为什么这样写**：heedlessly 这个副词把「一口咬穿」写成了态度；Crumbs flying 单独成句，剥掉了动作的主语，只剩一个画面。
-**读者视角提示**：Bert 这个名字只在本章出现一次；他把危险当口味来点，而这一卷里真有人用同样的口气说过更要紧的话。
+**读者视角提示**：Bert 就是前面几章里那对总被错认成旧友的夫妻中的男方（ch19、ch26 都写过他），这里是他难得的一次开口；他把危险当口味来点，而这一卷里真有人用同样的口气说过更要紧的话。
 
 ## 本章词汇
 
