@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 **关键词**：I guess leaving this world a better place / Being kind / Giving strangers cookies
 
-**为什么这样写**：她刚问完 `What do you think it means to live a good life?`——这个问题她小时候和父亲聊过，本章前面那次回述里的原话是 `They talked about what it meant to live a good life.`。作者让她把父亲时代的题目原封不动地搬给一个即将死的人，而对方的答案与那套口径完全不同：不是正义与复仇，是待人友善。末尾那句 `“Giving strangers cookies.”` 是他给自己下的判词，短得像签名。
+**为什么这样写**：她刚问完 `What do you think it means to live a good life?`——这个问题她小时候和父亲聊过，两章之前的 ch10 闪回里那次回述里的原话是 `They talked about what it meant to live a good life.`。作者让她把父亲时代的题目原封不动地搬给一个即将死的人，而对方的答案与那套口径完全不同：不是正义与复仇，是待人友善。末尾那句 `“Giving strangers cookies.”` 是他给自己下的判词，短得像签名。
 
 **读者视角提示**：读者此刻同时握着两侧的钥匙：带来毒的人与说出善意的话的人，在她对面同一张长椅上。这一段不给任何一方开脱——越真诚，越难原谅。
 
