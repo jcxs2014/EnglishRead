@@ -27,7 +27,7 @@ from pathlib import Path
 B=Path(sys.argv[1])
 book_flat=re.sub(r'[^a-z0-9]','',"".join(p.read_text() for p in sorted((B/'text').glob('ch*.txt'))).lower())
 EN=re.compile(r"[A-Za-z][A-Za-z’,'\-]*(?:\s+[A-Za-z][A-Za-z’,'\-]*){2,}")
-BAD=[]; tot=0
+BAD=[]; RECON=set(); tot=0
 for md in sorted(B.glob('ch*.md')):
     for i,line in enumerate(md.read_text().split('\n'),1):
         if line.startswith('> ') or line.startswith('|') or line.strip().startswith('#') \
@@ -45,7 +45,23 @@ for md in sorted(B.glob('ch*.md')):
             miss=[w for w in words if len(w)>2 and w not in book_flat]
             # 词全命中（miss 为空）= 整串因跨片段/跨位置而不连续，但每个词都真在原文 ⇒
             # 属「拼接」而非「走形」，不计入缺陷（否则词序调整就会永久误报）。
-            if not miss: continue
+            #
+            # 2026-09-30 补一档（**原静默豁免是本脚本最大的盲区**）：Cibola Burn 轮实证
+            # 14 条伪造/改写式跨章引语（"advocates no sign"、"as if you don't like me right
+            # now"、"make up lost time"…）**每一个词都在书里**，因此全部落进这条豁免、
+            # 脚本却报「✅ 全部命中」。⇒ 这类片段改列为 ⚠️ 待人判并**逐条列出**，
+            # 退出码不变（不判红），否则全库会涌入大量拼接假阳。
+            if not miss:
+                # 关键词行常是「A, B, C」逐条并列，每条各自逐字、只是整串不连续。
+                # 按逗号/分号/斜杠分片后逐片核，只把**单片也查无**的留下，
+                # 否则噪声（实测 465 条）会淹没真正的改写冒充逐字。
+                for piece in re.split(r'[,;]|\s/\s', frag):
+                    p=re.sub(r'[^a-z0-9]','',piece.lower())
+                    if len(p)<20 or p in book_flat: continue
+                    pw=[re.sub(r'[^a-z0-9]','',w.lower()) for w in piece.split()]
+                    if any(len(w)>2 and w not in book_flat for w in pw): continue
+                    RECON.add((md.name,i,piece.strip()))
+                continue
             BAD.append((md.name,i,frag.strip(),miss))
 print(f"抽出分析层英文片段 {tot} 条")
 if BAD:
@@ -53,4 +69,7 @@ if BAD:
     for f,i,frag,miss in BAD: print(f"  {f}:{i}  {frag[:88]}\n      未命中词: {miss}")
 else:
     print("✅ 全部片段在全书 text/ 逐字命中")
+if RECON:
+    print(f"⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）{len(RECON)} 条 —— 只报不判红，须人判：")
+    for f,i,frag in sorted(RECON): print(f"  {f}:{i}  {frag[:88]}")
 sys.exit(1 if BAD else 0)

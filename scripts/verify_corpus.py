@@ -212,8 +212,9 @@ def main():
                     if nm in names or nm.lower() in shared:
                         continue
                     if has_token(norm_all[nn], nm):
-                        leak_other.append('ch%02d 本篇不含 %s，但含他篇 ch%02d 的人物「%s」'
-                                          % (nn, nm, other_nn, nm))
+                        leak_other.append('ch%02d 本篇含他篇 ch%02d 的人物「%s」'
+                                          '（长篇里角色跨章出现属正常；续章人物请用 --shared 豁免）'
+                                          % (nn, other_nn, nm))
             for nm in names:
                 if not has_token(norm_all[nn], nm):
                     miss_own.append('ch%02d 未命中本篇人物「%s」' % (nn, nm))
