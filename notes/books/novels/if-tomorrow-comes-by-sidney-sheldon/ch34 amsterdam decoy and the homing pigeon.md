@@ -6,7 +6,7 @@ modified: "2026-09-30"
 # 34. Chapter Thirty-Four
 
 ## 本章导航
-- **地点·时间**：荷兰 Amsterdam——Alkmaar 旅馆的早餐（窃听）、Amro Bank 对面楼顶的警方指挥点、Coster 的 Nederlands Diamond-Cutting Factory、Oosterpark 的公共洗手间与长椅、Schiphol 机场，最后转到一架飞往 Brazil 的 Pan American 747 的头等舱。原文给出的绝对时间只有章首的 FRIDAY, AUGUST 22—8:00 A.M.，此后一律用钟点（nine-thirty、Late that afternoon）和相对位置交代。
+- **地点·时间**：荷兰 Amsterdam——Amstel 酒店套房的早餐（窃听）、Amro Bank 对面楼顶的警方指挥点、Coster 的 Nederlands Diamond-Cutting Factory、Oosterpark 的公共洗手间与长椅、Schiphol 机场，最后转到一架飞往 Brazil 的 Pan American 747 的头等舱。原文给出的绝对时间只有章首的 FRIDAY, AUGUST 22—8:00 A.M.，此后一律用钟点（nine-thirty、Late that afternoon）和相对位置交代。
 - **一句话概括**：Cooper 布在银行外的口袋只等来两个穿保安制服的陌生人，他当场判定「This whole setup was a decoy」；真正的行动同时在几公里外的钻石加工厂进行——Jeff 断电、放假烟，Tracy 把一箱假石头倒给争抢的人群，真钻石装进一只叫 Margo 的信鸽腿上飞往 London。
 - **情感弧线位置**：终章。情绪不是爆发而是收束：Cooper 的必败被明说，Tracy 在登机口给了他一个告别的挥手，最后一句却不是任何人的结局，而是一个陌生人的自我介绍。
 - **叙事手法**：两线硬切加时间差。银行这条线几乎全由对话和短句推进（口令、报点、倒数）；加工厂那条线的推进几乎全压在动词上（cascaded、scrambled、disappeared）。两条线在正文中不相接，读者要自己把「诱饵」这个词从 Cooper 嘴里搬到几公里外去。结尾不做收束，只把镜头交给一个刚出现的名字。
@@ -19,7 +19,7 @@ modified: "2026-09-30"
 - **中文理解**：侦探们一脸茫然。「我不知道。女佣正在给管家打电话。她进来打扫，可她说自己听不懂——她听得见有人说话，可她看不见任何人。」
 - **关键词**：The detectives looked baffled · she doesn’t understand—she hears voices · she doesn’t see anybody
 - **为什么这样写**：整段的推进靠一个破折号。前半句是一个自洽的困惑（听不懂），破折号之后把它翻成另一个困惑（听得见、看不见）——管家拿到的答案和 Cooper 拿到的是同一个：屋里有声音，没有人。baffled 这一个形容词就把这一组侦探的状态交代完了。这一句同时是女佣的实话和 Cooper 下一分钟要看到的现实，只是此刻谁也不会往那个方向想。
-- **读者视角提示**：注意这里的声音不是从眼前的人嘴里出来的，而是从磁带里出来的。就在这一段之前，房间里唯一剩下的是沙发上的一台 tape recorder。那个从早餐就开始工作的监听设备在这一刻变成了实物，也变成了陷阱。
+- **读者视角提示**：注意这里的声音不是从眼前的人嘴里出来的，而是从磁带里出来的。就在这一段之后，Cooper 和警探们冲进套房：除了一脸困惑的女佣，房里空无一物，沙发前的咖啡桌上有一台正在放音的 tape recorder。那个从早餐就开始工作的监听设备在这一刻变成了实物，也变成了陷阱。
 
 > **原句 2:** Inspector van Duren spoke rapidly into the walkie-talkie. “Attention, all units. The fish are in the net. Let them swim in.”
 

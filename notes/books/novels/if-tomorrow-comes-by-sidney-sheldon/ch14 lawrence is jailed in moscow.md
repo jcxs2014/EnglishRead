@@ -50,12 +50,12 @@ modified: "2026-09-30"
 - **为什么这样写**：全章最见功夫的一处机关在这句提示里：解码没有交给任何人来做，而是把标好的原文递给读者，让读者自己拼。作者甚至连拼出来的字都不写。Every fourth word had been underlined 是一个纯事实句，放在几个人物的对话中间却比哪一句台词都重——真相一直摆在纸面上，缺的只是有人肯跳着读。
 - **读者视角提示**：把这一块和前面那块放在一起读：前一块给的是信，后一块给的是尺子，中间被跳过的那几个词就是信本身。
 
-> **原句 6:** It said, FROM DORIS WHITNEY’S DAUGHTER.
+> **原句 6:** I want some flowers delivered to Anthony Orsatti. A funeral wreath of white carnations on a stand, with a wide ribbon. I want the ribbon to read: ‘REST IN PEACE.’ “ She wrote out a card. It said, FROM DORIS WHITNEY’S DAUGHTER.
 
-- **中文理解**：她写了一张卡片。卡片上写着：多丽丝·惠特尼的女儿。
-- **关键词**：It said · FROM DORIS WHITNEY’S DAUGHTER
-- **为什么这样写**：全章最后落在一张卡片上，而签名里没有 Tracy 自己的名字。作者让一个惯于借别人身份说话的人（她刚在一通电话里冒充协会主席）署上的是母亲的姓——这条复仇线从头到尾在借母亲的名字签字。句子用 It said 而不是 It read，翻译成中文正好是「上面写着」，一句几乎没有动作的叙述承载了本章的签名动作。
-- **读者视角提示**：这条线在全章末尾是以一件实物收场的：名字写在缎带上，意思却要靠那张卡片才成立；寄件人为什么不署自己的名字，本章没有给答案。
+- **中文理解**：她订了一只立在架上的白康乃馨葬礼花圈，配一条宽缎带，缎带上写：安息吧。她另外写了一张卡片。卡片上写着：多丽丝·惠特尼的女儿。
+- **关键词**：a funeral wreath of white carnations · I want the ribbon to read · It said · FROM DORIS WHITNEY’S DAUGHTER
+- **为什么这样写**：全章最后落在两件买来的东西上：缎带上是所有人都会写的那句套话，署名却落在另一张卡片上，而签名里没有 Tracy 自己的名字。作者让一个惯于借别人身份说话的人（她刚在一通电话里冒充协会主席）署上的是母亲的姓——这条复仇线从头到尾在借母亲的名字签字。句子用 It said 而不是 It read，翻译成中文正好是「上面写着」，一句几乎没有动作的叙述承载了本章的签名动作。
+- **读者视角提示**：这条线在全章末尾是以两件实物收场的：一件写着 REST IN PEACE，一件写着 FROM DORIS WHITNEY’S DAUGHTER；寄件人为什么不署自己的名字，本章没有给答案。
 
 ## 本章词汇
 

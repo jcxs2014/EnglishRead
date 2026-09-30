@@ -11,7 +11,7 @@ modified: "2026-09-30"
 - **一句话概括**：Tracy 住进能望见普拉多的房间，而 Jeff Stevens 也为同一幅画来到马德里——两人以情侣的姿态巡游全城，Daniel Cooper 跟在后面，在警探的抱怨和自己的嫉妒之间越陷越深。
 - **情感弧线位置**：从「接活」落到「被围住」——她要的猎物和她的对手住在同一条街、看同一座博物馆，而她必须一边应付对手的殷勤，一边让两个警探和一名美国探员以为她只是在谈恋爱。
 - **叙事手法**：以空间写包围——每换一个地点（套房、Jockey、Segovia、bodega），跟随他们的那双眼睛就换一处站位；Tracy 与 Jeff 的对白始终是短句，衬得旁白里 Cooper 与 Pereira 的评论越来越长。章末用一句叙述者的判词收束。
-- **线索进展**：① Jeff 以马德里商会的名义打电话来，被 Tracy 一句「你怎么知道我在这儿」逼出破绽；② Jeff 明说他也在为那幅画而来；③ Cooper 查出 Jeff 无犯罪记录、登记为游客，却坚持要盯他；④ Tracy 明确认定她要抢在 Jeff 之前；⑤ Segovia 之旅是两人共度的整天；⑥ 结束的夜里她把到了嘴边的那个字咽了回去。
+- **线索进展**：① Jeff 以马德里商会的名义打电话来，被 Tracy 一句「你怎么知道我在这儿」逼出破绽；② Tracy 认定 Jeff 也在为那幅画而来，Jeff 只承认 shopping and sightseeing；③ Cooper 查出 Jeff 无犯罪记录、登记为游客，却坚持要盯他；④ Tracy 明确认定她要抢在 Jeff 之前；⑤ Segovia 之旅是两人共度的整天；⑥ 结束的夜里她把到了嘴边的那个字咽了回去。
 
 ## 精读
 
@@ -41,7 +41,7 @@ modified: "2026-09-30"
 - **中文理解**：他夜里梦见 Tracy。她被关在一只巨大的笼子里，赤身裸体，哀求他放她出去。我爱你，他说，可我永远不会放你走。
 - **关键词**：dreamed about Tracy at night · a giant cage, naked · pleading with him to set her free · I’ll never set you free
 - **为什么这样写**：追逐在这里被改写成囚禁，而梦里的台词把两样东西焊在一句里——I love you 是他对 Tracy 说过的最直白的话，I’ll never set you free 是同一口气里的拒绝。作者不给他的欲望任何辩解，只给行为。
-- **读者视角提示**：这一段紧跟在 `She had become an obsession.` 之后，而且插在西班牙警探的监视段落中间——读者同时感受到被追捕的目光和被梦想的目光，而这两种目光落在同一人身上。
+- **读者视角提示**：这一段紧跟在 `She had become an obsession.` 之后，位置在西班牙警探的监视段落之前——读者先撞见 Cooper 梦里的目光，再撞见警探车里的目光，而这两种目光落在同一人身上。
 
 > **原句 5:** “Depends on the shape of the windmill,” he said softly. He moved closer to her.
 

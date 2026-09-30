@@ -1,0 +1,136 @@
+# 五步审查 d 步（第二轮整改后）原始逐行输出 — if-tomorrow-comes-by-sidney-sheldon
+# 生成时间：2026-10-01 ｜ lane：完整 lane（epub）
+
+## 1. verify_quotes
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+ch01 doris says goodbye.md: 8/8 ✅
+ch02 the day the news comes.md: 8/8 ✅
+ch03 a gun and a setup.md: 8/8 ✅
+ch04 charles hangs up and the prison bus.md: 4/4 ✅（另有 1 条短引语未校验）
+ch05 the first day inside.md: 6/6 ✅
+ch06 the cell block takes her in.md: 7/7 ✅（另有 1 条短引语未校验）
+ch07 she plans her escape.md: 6/6 ✅
+ch08 the investigator says she is framed.md: 5/5 ✅
+ch09 the rules of the prison.md: 8/8 ✅
+ch10 the laundry truck arrives.md: 8/8 ✅
+ch11 amy falls into the lake.md: 8/8 ✅
+ch12 the magnetized deposit slips.md: 8/8 ✅
+ch13 pope is exposed at the poker table.md: 7/7 ✅
+ch14 lawrence is jailed in moscow.md: 6/6 ✅
+ch15 tracy comes home to philadelphia.md: 8/8 ✅
+ch16 tracy robs the bellamy house.md: 6/6 ✅
+ch17 two men board the train.md: 6/6 ✅
+ch18 the con man jeff stevens.md: 8/8 ✅
+ch19 cooper names the burglar.md: 4/4 ✅
+ch20 the queen elizabeth two.md: 8/8 ✅
+ch21 the emerald that came back.md: 8/8 ✅
+ch22 the orient express heist.md: 8/8 ✅
+ch23 cooper solves the locked room.md: 6/6 ✅
+ch24 the name at the top of the list.md: 6/6 ✅
+ch25 the beam sounds when you step out.md: 8/8 ✅
+ch26 the baroness and the fake treasure.md: 8/8 ✅
+ch27 the caves and the commission.md: 4/4 ✅
+ch28 madrid and the rival.md: 8/8 ✅
+ch29 the prado and the alarm button.md: 4/4 ✅
+ch30 the prado heist.md: 8/8 ✅
+ch31 the diamond heist.md: 8/8 ✅
+ch32 alkmaar refuge and a proposal.md: 8/8 ✅
+ch33 gold and the trap closing in.md: 8/8 ✅
+ch34 amsterdam decoy and the homing pigeon.md: 8/8 ✅
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 2 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 237/237 引文可核实（100%）；完全干净文件 34/34；正文章节 0 提取 0；总览 0 提取转交 2 ===
+
+## 2. sweep_full
+=== 引语整串 flat 比对（if-tomorrow-comes-by-sidney-sheldon）===
+  参照集：text/ 逐章（34 章，可定章） + epub 交叉验证
+  ✅ 本章命中 237 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+
+## 3. check_vocab（FAIL 段）
+--- FAIL (0) ---
+
+--- WARN (49) ---
+  ch01 doris says goodbye.md [基础] 基础档疑含超纲词「grandchild」
+
+## 4. check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+## 5. corruption_scan
+
+=== 编辑损坏扫描（if-tomorrow-comes-by-sidney-sheldon）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+## 6. audit_structure
+=== 精读结构扫描（if-tomorrow-comes-by-sidney-sheldon）===
+  扫 37 个 md、239 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+## 7. check_struct_indep（第二实现）
+=== 独立结构扫描：34 个 md，缺陷 0 处 ===
+
+## 8. check_analysis_indep（第二实现）
+抽出分析层英文片段 718 条
+✅ 全部片段在全书 text/ 逐字命中
+
+## 9. check_chapter_quotes × 34
+ch01 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch02 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch03 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch04 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch05 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch06 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch07 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch08 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch09 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch10 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch11 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch12 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch13 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch14 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch15 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch16 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch17 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch18 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch19 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch20 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch21 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch22 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch23 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch24 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch25 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch26 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch27 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch28 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch29 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch30 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch31 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch32 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch33 全章扫描: 解析引语块 237，命中本章 237（100%）
+ch34 全章扫描: 解析引语块 237，命中本章 237（100%）
+
+## 10. verify_overview_quotes（⚠️ 0 提取＝不覆盖，故不作为判据）
+=== lane：完整 lane（epub） ===
+00_情感节点.md: ➖ 无引语行（正常，非门禁项）
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: ➖ 无引语行（正常，非门禁项）
+
+=== 总览引文 0/0 可核实（0%）；完全干净文件 0/0；已核覆盖 0/3 篇（无引语 3 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+## 11. 自写第二实现：总览引语逐字回查（阈值 5 词）
+00_概述.md: 片段 16 ｜ 命中 16 ｜ 查无 0
+00_金句精选.md: 片段 12 ｜ 命中 12 ｜ 查无 0
+00_情感节点.md: 片段 13 ｜ 命中 13 ｜ 查无 0
+合计片段 41 ｜ 命中 41 ｜ 查无 0（阈值 5 词）
+
+## 12. 自写第二实现：引语块引号配对复扫
+半开引号块 1 处：['notes/books/novels/if-tomorrow-comes-by-sidney-sheldon/ch11 amy falls into the lake.md:60']

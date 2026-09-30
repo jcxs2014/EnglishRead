@@ -50,7 +50,7 @@ modified: "2026-09-30"
 - **为什么这样写**：作者先写外界的乱，再写内心的乱，两者是同一个动作的两面。中间那句自言被一个叹号切成两截，前后都是完整句子，节奏因此骤然收紧；紧接着的不是决心而是心跳——她把"动手"写成了一次生理事件。
 - **读者视角提示**：这场混乱的目的不是拿走画，而是把守卫从画前调开；她的搭档 Porretta 需要的就是那几秒钟。
 
-> **原句 6:** Señor, it is impossible for anyone to steal a painting from this museum. Our security is what you call proof from fools.”
+> **原句 6:** Señor, it is impossible for anyone to steal a painting from this museum. Our security is what you call proof from fools.
 
 - **中文理解**：「不可能有人从本馆偷走一幅画。我们的安防就是您说的那种——对蠢人的证明。」
 - **关键词**：it is impossible for anyone to steal a painting · proof from fools

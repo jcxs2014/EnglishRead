@@ -8,7 +8,7 @@ modified: "2026-09-30"
 ## 本章导航
 
 - **地点·时间**：New Orleans，仍是 2 月 21 日。下午在 Magazine Street 的小旅馆打电话，傍晚沿 Canal Street 走到当铺，入夜后到 Jackson Square 的 Joe Romano 宅邸，随后是深夜的出租车与机场、Algiers 区的警察局拘留所，第二天上午出庭。
-- **一句话概括**：Tracy 买枪上门讨说法，枪却在挣脱中走火打伤 Joe Romano；她在机场落网，检察官 Ed Topper 当庭抛出一桩她没参与的画作盗窃，律师 Perry Pope 谈成的缓刑在法庭上被法官 Henry Lawrence 当场改成十五年。
+- **一句话概括**：Tracy 买枪上门讨说法，枪却在她伸手去够的时候走火打伤 Joe Romano；她在机场落网，检察官 Ed Topper 当庭抛出一桩她没参与的画作盗窃，律师 Perry Pope 谈成的缓刑在法庭上被法官 Henry Lawrence 当场改成十五年。
 - **情感弧线位置**：从复仇启动一路滑到绝望的第一处谷底；这一章同时把「整座城市压在家族手里」的量级摆上台面，为后面要对付的东西定下尺寸。
 - **叙事手法**：第三人称紧贴 Tracy，中段只用她一个念头（Was it only this morning that I was here?）把一整天压成一瞬；后段让法律术语与人物情绪正面相撞一次，读者由此看清「讲道理」这条路在本地有多短。
 - **线索进展**：① 她的原计划是逼 Romano 写供词交给 Lieutenant Miller；② 枪是在她伸手去够的时候走火的，枪随后被留在 Romano 客厅的地毯上；③ Topper 声称她持枪闯入、偷走一幅值 half a million dollars 的雷诺瓦并 cold-blooded 杀人；④ Perry Pope 说破圈套：保险索赔由 Romano 拿，保险公司找她；⑤ 本市归 Anthony Orsatti 家族管，Romano 从前是他的 hit man；⑥ Orsatti 没买通过的法官只有 Henry Lawrence 一个；⑦ 谈成的是 suspended sentence，实际宣判十五年。

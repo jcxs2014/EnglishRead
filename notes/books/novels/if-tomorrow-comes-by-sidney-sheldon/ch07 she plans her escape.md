@@ -10,7 +10,7 @@ modified: "2026-09-30"
 - **一句话概括**：Tracy 在禁闭室里把身体练成工具、把脑子练成机器，练到第七天被放出来，面对典狱长的两次追问都答「不」，然后带着一片从床架上撬下的金属片回到原牢房，用它打退 Paulita 和 Lola，并向 Ernestine 开口要人帮忙越狱。
 - **情感弧线位置**：从刚过去的谷底往上回升的起点。她不再是被动承受的一方——全章的动词从「受」变成「练」「撬」「打」「要求」。
 - **叙事手法**：第三人称贴身限知，全程贴着 Tracy。禁闭室内几乎没有外部事件，作者用两条并行的清单（身体的功课／脑子的功课）撑住时间；进典狱长办公室后改成对答推进，句子越来越短；牢房夜里的对峙靠对话与动作交替，最后用一个别人的喊声转折。
-- **线索进展**：① 她在禁闭中每天练一遍 t’ai chi ch’uan，练的是备战而不是健身；② Ernestine 说当初要是开了口就是 dead meat，Tracy 相信她——「向典狱长指认」等于送死；③ 她从床架底下撬下一片金属并压在床垫下；④ 她两次对典狱长说不：不作证、不调仓；⑤ 章末她向 Ernestine 提出越狱，本章没有给出答复。
+- **线索进展**：① 她在禁闭中每天早晚各练一遍 t’ai chi ch’uan，练的是备战而不是健身；② Ernestine 说当初要是开了口就是 dead meat，Tracy 相信她——「向典狱长指认」等于送死；③ 她从床架底下撬下一片金属并压在床垫下；④ 她两次对典狱长说不：不作证、不调仓；⑤ 章末她向 Ernestine 提出越狱，本章没有给出答复。
 
 ## 精读
 > **原句 1:** The cell was too cramped for extensive exercise, but it was large enough for t’ai chi ch’uan, the centuries-old martial art that was taught warriors to prepare them for combat.

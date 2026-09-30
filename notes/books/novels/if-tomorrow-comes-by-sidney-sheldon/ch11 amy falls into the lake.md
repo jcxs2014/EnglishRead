@@ -50,10 +50,10 @@ modified: "2026-09-30"
 - **为什么这样写**：前面所有紧张都被收进一段叙述，结尾的 Or dead. 被单独切成一句。它前面那个句号已经把上一小句也切断了，于是 free 这个词独自悬在半空，要读者自己把它和 dead 放到天平两端。作者不写她怕，写的是整个厨房在怕她。
 - **读者视角提示**：读者在这里已经握住了越狱的时间、路线和篮子，也知道 Big Bertha 已经从别人嘴里听说了计划；唯一还没走的那一步是告密。
 
-> **原句 6:** We’re having a delegation of VIP visitors today. They’ll be having lunch here at the house, so Amy won’t be having her nap. You may take her with you.”
+> **原句 6:** “What? Oh. Didn’t anyone tell you, Tracy? We’re having a delegation of VIP visitors today. They’ll be having lunch here at the house, so Amy won’t be having her nap. You may take her with you.”
 
 - **中文理解**：「什么？哦。没人告诉你吗，Tracy？今天有一批贵宾来访。他们要在这屋里吃午饭，所以 Amy 不午睡了。你可以带她走。」
-- **关键词**：a delegation of VIP visitors · Amy won’t be having her nap · You may take her with you
+- **关键词**：Didn’t anyone tell you, Tracy? · a delegation of VIP visitors · Amy won’t be having her nap · You may take her with you
 - **为什么这样写**：掀翻计划的是一句完全出于好意的通知。Sue Ellen 并不知道午睡正是 Tracy 全部时间表里最关键的那一格，她甚至以为自己在替对方排忧。You may take her with you 从句法上像一份恩赐，落到 Tracy 耳朵里却是一纸判决。作者让最不在场的权力（州长的巡视）通过一个不知情的主妇的手来完成这次破坏。
 - **读者视角提示**：这一处的反讽很冷：所有人都出于善意，而所有出口同时消失。
 

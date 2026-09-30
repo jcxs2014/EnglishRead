@@ -10,7 +10,7 @@ modified: "2026-09-30"
 - **一句话概括**：Jeff 折返接走高烧昏迷的 Tracy，把她藏在 Alkmaar 的小旅店里护理到退烧，两人相爱、破晓求婚、约定收手；Gunther Hartog 用一份「worth two million dollars」且「no risks」的工作把他们拉回阿姆斯特丹，而 Daniel Cooper 说动警察局长批准全天候监视，随后又拿到在酒店房间装窃听器的许可。
 - **情感弧线位置**：全书中段的转折点。上半程的两条线在这里合成一条——两个逃亡者变成同行者；而这一章又在这份亲密上压住一层侦查者的视线，甜与险同时到达顶点。
 - **叙事手法**：三重视角交替——Jeff 与 Tracy 一侧、Daniel Cooper 一侧、荷兰警方一侧（局长 Toon Willems 的判断甚至被单独写了一段）。段落极短，多数一段一句，读起来像监视报告；同一场景常常写两遍（Jeff 与 Tracy 看到的旅行，与 Cooper 收到的书面汇报）。
-- **线索进展**：① Jeff 把 Tracy 从阿姆斯特丹带到 Alkmaar，对旅店老板谎称是度蜜月的新婚夫妇；② Jeff 说明折返的真实原因——交接钻石时她「looked like death」，他没等到她登机；③ 两人在运河边破晓求婚，并决定不再接风险活；④ Gunther Hartog 打来电话，提出一份报酬两百万、没有风险的工作，Tracy 当场开始盘算可行性；⑤ Cooper 让局长批准二十四小时监视，失败两次（先是窃听被驳回）后，凭邮展上的试探记录拿到许可，当晚技术员进房装下 transmitters。
+- **线索进展**：① Jeff 把 Tracy 从阿姆斯特丹带到 Alkmaar，对旅店老板谎称是度蜜月的新婚夫妇；② Jeff 说明折返的真实原因——交接钻石时她「looked like death」，他没等到她登机；③ 两人在运河边破晓求婚，并决定不再接风险活；④ Gunther Hartog 打来电话，提出一份报酬两百万、没有风险的工作，Tracy 当场开始盘算可行性；⑤ Cooper 让局长批准二十四小时监视，此前申请酒店窃听被驳回一次，随后凭邮展上的试探记录拿到许可，当晚技术员进房装下 transmitters。
 
 ## 精读
 
@@ -37,7 +37,7 @@ modified: "2026-09-30"
 
 > **原句 4:** He sat in the darkness of the small church, on a hard wooden bench, and he prayed: Oh, make her mine, Father. Give her to me to punish so that I may wash myself of my sins. The evil in her spirit shall be exorcised, and her naked body shall be flagellated…And he thought about Tracy’s naked body in his power and felt himself getting an erection. He hurried from the church in terror that God would see and inflict further punishment on him.
 
-- **中文理解**：Cooper 跪在教堂的硬木长椅上祷告：父亲啊，让她归我，把她交给我惩罚，好让我洗清罪过；她灵魂里的恶要被驱出，她赤裸的身体要被鞭打。祷告还没结束，他想到 Tracy 裸体在自己手里，身体起了反应；他吓坏了，逃出教堂，怕上帝看见并降下更重的惩罚。
+- **中文理解**：Cooper 坐在教堂的黑暗里，坐在那张硬木长椅上祷告：父亲啊，让她归我，把她交给我惩罚，好让我洗清罪过；她灵魂里的恶要被驱出，她赤裸的身体要被鞭打。祷告还没结束，他想到 Tracy 裸体在自己手里，身体起了反应；他吓坏了，逃出教堂，怕上帝看见并降下更重的惩罚。
 - **关键词**：make her mine, Father · wash myself of my sins · her naked body shall be flagellated · in terror that God would see
 - **为什么这样写**：祷词整段套用圣经的语体（第一人称呼告、shall 构成的判定句、洗清罪过的说法），作者一句注释都不加。而同一段里，紧跟着这句神学句子就写他的身体反应，然后写他逃离教堂的恐惧。神圣语体与欲望被压进同一段、同一口气，中间没有转折词也没有换行——读者被迫自己把这两件事连起来，而作者不给出任何评价。
 - **读者视角提示**：这是本段最值得停一下的地方：全章让读者进到 Cooper 脑子里的地方很少（另一处是他得出「God will give her to me」那一句），而他在这里把祷文和欲望毫无间隔地并排放着，退出教堂时还在发抖。他的可信度正建立在这段的自相矛盾上：他能背诵祷文，同时把祷文当成占有的许可证。

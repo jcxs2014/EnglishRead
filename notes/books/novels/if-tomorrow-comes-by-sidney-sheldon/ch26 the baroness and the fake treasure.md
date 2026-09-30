@@ -43,7 +43,7 @@ modified: "2026-09-30"
 - **为什么这样写**：作者在一句话里嵌了两个转折，各自接一个理由：先解释「为什么要自沉」，再解释「为什么取不到」。这种结构让骗局听起来像一份档案的转述，而不是一个男人在推销。整句没有一处表示怀疑，荒唐之处全靠平铺直叙交付给读者。
 - **读者视角提示**：紧接着的一句补上最后一块零件——文件之所以留存下来，只因为海盗船上没人识字。
 
-> **原句 5:** A con game is similar to ju jitsu. In ju jitsu you use your opponent’s strength to win. In a con game, you use his greed. You make the first move, and he does the rest of your work for you.”
+> **原句 5:** A con game is similar to ju jitsu. In ju jitsu you use your opponent’s strength to win. In a con game, you use his greed. You make the first move, and he does the rest of your work for you.
 
 - **中文理解**：骗局和柔术是一回事。柔术里你借对手的力量取胜；骗局里你借他的贪心。你先走出第一步，剩下的活他替你干完。
 - **关键词**：A con game is similar to ju jitsu · you use his greed · You make the first move · he does the rest of your work for you
@@ -119,4 +119,4 @@ modified: "2026-09-30"
 
 ## 一句话总结
 
-Tracy 用两本贵族名录给自己造出一个男爵夫人，再用一场并不存在的沉船宝藏同时钓住骗子与黑帮，让他们在自己的局里互相加注——而这一章真正收网的不是她，是那位把机器买下来之后才发现自己被骗的黑店老板。
+Tracy 用两本贵族名录给自己造出一个男爵夫人，再用一场并不存在的沉船宝藏同时钓住骗子与黑帮，让他们在自己的局里互相加注——而这一章真正收网的不是她，是那位交出五十万才发现人去楼空、又在 Cooper 说出「这机器只能印信纸」之后才回头查的黑店老板。

@@ -19,7 +19,7 @@ modified: "2026-09-30"
 
 - **中文理解**：她演过太多角色，已经不太确定自己是谁了；但她确实明白，自己永远回不去从前的生活。没关系，Tracy 固执地想。孤独的人多了去了。Gunther 说得对，我什么都有了。
 - **关键词**：played so many parts · could never return to the life she had once had · I have everything
-- **为什么这样写**：前半句是自我认识，后半句是自我说服，中间只靠 defiantly 这一个副词转折。而更要紧的是最后那句 I have everything 与前面 Gunther 说的那句一模一样——她拿别人的结论盖住自己的空缺，作者让同一句话在两张嘴里各说一遍，谁也没被拆穿。
+- **为什么这样写**：前半句是自我认识，后半句是自我说服，中间只靠 defiantly 这一个副词转折。而更要紧的是最后那句 I have everything 与前面 Gunther 那句 You have everything you’ll ever need 只差一个词——他把 need 说出口，她把它咽了回去；紧接着叙述又用 Everything she would ever need 把她这句在心里重复了一遍。作者让同一句话在两张嘴里各说一遍，谁也没被拆穿。
 - **读者视角提示**：Everything she would ever need 与 Except for someone to share it with 是同一段的上一句；写在这里的孤独不是缺钱，是缺一个能一起演戏的人——不对，是缺一个不必一起演戏的人；后者她连找都不用找，因为她本身就是。
 
 > **原句 2:** Tracy smiled sweetly. “I meant Rose.”
@@ -43,10 +43,10 @@ modified: "2026-09-30"
 - **为什么这样写**：报复被安排在一个物理结构里——电梯门一关，人就无处可走。作者不写 Jeff 的反应，只用 indignant strangers 把惩罚外包给一群不相干的人；这句话的杀伤力全在公众场合成心照不宣的那一刻。
 - **读者视角提示**：这一回是 Tracy 主动出手，而她挑的地方人多、最没法还嘴——与她做贼的逻辑是同一套。
 
-> **原句 5:** This one varied from the others in one significant respect: The burglar had set off an alarm, and when the police arrived, they were greeted at the door by a woman wearing a filmy negligee. Her hair was tucked into a curler cap, and her face was thickly covered with cold cream.
+> **原句 5:** This one varied from the others in one significant respect: The burglar had set off an alarm, and when the police arrived, they were greeted at the door by a woman wearing a filmy negligee. Her hair was tucked into a curler cap, and her face was thickly covered with cold cream. She claimed to be a houseguest of the Van Ruysens’. The police accepted her story, and by the time they were able to check it out with the absent owners, the woman and the jewelry had vanished.
 
 - **中文理解**：这一案与别的案有一点明显不同：窃贼触发了警报，警察赶到时，开门迎接他们的是一个穿着薄如蝉翼的睡袍的女人。她的头发盘在卷发帽里，脸上厚厚涂着冷霜。她自称是 Van Ruysen 一家的住客。
-- **关键词**：This one varied from the others in one significant respect · greeted at the door by a woman wearing a filmy negligee · thickly covered with cold cream
+- **关键词**：This one varied from the others in one significant respect · greeted at the door by a woman wearing a filmy negligee · thickly covered with cold cream · She claimed to be a houseguest of the Van Ruysens’
 - **为什么这样写**：作者把这处细节写在警方报告里，而不是写在 Tracy 的自述里，于是它成了只有读者和 Cooper 同时掌握的东西。冷霜、卷发帽、薄睡袍——这三样不是罪证，是一个独居者刚起身时的样子；警方照单全收，Cooper 却从「像刚起床」反推出「她不是主犯，是撑场面的人」。
 - **读者视角提示**：这层窗户纸捅不捅得破，全看 Cooper 怎么解释；他自己也要过几道关才肯承认（逻辑，逻辑。Logic, logic.）。
 
@@ -104,4 +104,4 @@ modified: "2026-09-30"
 
 ## 一句话总结
 
-满屋客人面前，Tracy 把老对手的每段婚姻都叫出名字；同一座城市的另一头，Cooper 把一份笔录读到第三遍，从一个穿睡袍的女主人身上认出同一张脸——这一章让扮演与识破同时发生，而她那句「我什么都有了」正贴在通缉令边上。
+满屋客人面前，Tracy 把老对手的每段婚姻都叫出名字；同一段日子里，另一座城市——巴黎——的 Cooper 把一份笔录从第一句重新读起，从一个穿睡袍的女主人身上认出同一张脸——这一章让扮演与识破同时发生，而她那句「我什么都有了」正贴在通缉令边上。

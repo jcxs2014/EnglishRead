@@ -22,7 +22,7 @@ modified: "2026-09-30"
 - **为什么这样写**：紧接在「她被敌人包围」的判断之后，作者让她把唯一指望的名字念两遍：第一遍还是转述，第二遍加进 God——求救的对象从 Charles 变成上帝，这半句的插入等于她自己承认这要求不合理。kept repeating 给的是持续动作，不是情绪：她不是在喊，是在对自己施行同一句话。
 - **读者视角提示**：这几行里她还不知道 Charles 正在读报上关于她的报道；同一章后面那通电话会把这份错位完整揭开。
 
-> **原句 2:** The family can’t afford to get mixed up in a thing like this. Surely you can see that. This has been a terrible shock for us. Obviously, I never really knew you.”
+> **原句 2:** The family can’t afford to get mixed up in a thing like this. Surely you can see that. This has been a terrible shock for us. Obviously, I never really knew you.
 
 - **中文理解**：「我们家承受不起卷进这种事。你应该能理解。这对我们是个可怕的打击。显然，我从来没有真正了解过你。」
 - **关键词**：The family can’t afford to get mixed up · Surely you can see that · This has been a terrible shock for us · Obviously, I never really knew you

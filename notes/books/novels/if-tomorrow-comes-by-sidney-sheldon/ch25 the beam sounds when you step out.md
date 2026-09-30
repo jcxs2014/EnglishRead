@@ -20,7 +20,7 @@ modified: "2026-09-30"
 - **中文理解**：Gunther Hartog 告诉过 Tracy，伯爵每年为儿童医院办的这场舞会是个骗局：十分之一的钱进了医院，九成进了他口袋。
 - **关键词**：The benefit ball the count gives each year · is a racket · ninety percent goes into his pocket
 - **为什么这样写**：这条判断被放进第三方转述里（Gunther Hartog had told Tracy），于是它不是叙述者的定论，而是她背后那位军师的鉴定。作者不做评论，只把十分与九成摆出来；贪不贪，读者自己算。
-- **读者视角提示**：Tracy 全程照演这场慈善；而伯爵事后对外的说法是 On three occasions thieves have tried to get at my treasures——被偷的人已经自己数到了第三回。
+- **读者视角提示**：Tracy 全程照演这场慈善；而伯爵当晚在城堡里就对她说过 On three occasions thieves have tried to get at my treasures——他自己数到的第三回，正是这一夜。
 
 > **原句 2:** Tracy said tonelessly, “I’m sure that one day he’ll be as normal as you are, Mr. Stevens.”
 
@@ -36,7 +36,7 @@ modified: "2026-09-30"
 - **为什么这样写**：作者靠一处词源巧合把她整场表演收进hypocrite这个词里——hypocrite 同时牵着「伪君子」和「演员」，而它的来路恰好就是「演」。她自认轻松，语气却像在递一份诊断书。
 - **读者视角提示**：这是全章里她停演之后立刻又盘算的地方；松弛只维持了这么一句。
 
-> **原句 4:** “Then you must also know that the beam doesn’t sound the alarm when you step into it. It sounds the alarm when you step out of it. It senses the heat change.
+> **原句 4:** “Then you must also know that the beam doesn’t sound the alarm when you step into it. It sounds the alarm when you step out of it. It senses the heat change. There’s no way you can get through it without setting it off.”
 
 - **中文理解**：「那你一定也知道：这束光在你踏进去的时候不会报警，在你踏出来的时候才会报警。它感应的是温度变化。」
 - **关键词**：the beam doesn’t sound the alarm when you step into it · It sounds the alarm when you step out of it · It senses the heat change
@@ -68,7 +68,7 @@ modified: "2026-09-30"
 
 - **中文理解**：他身边是一条大杜宾犬。Tracy 放声大笑，在面包车开走时朝 Jeff 飞了个吻。
 - **关键词**：At his side was a large Doberman · Tracy laughed aloud · blew a kiss to Jeff as the van sped away
-- **为什么这样写**：警报还没停，读者却被挪到一棵树的树荫下——Jeff 坐在车里等着。这是杜宾第二次出场：上一次她把它抛过墙，这一次它跟 Jeff 一起等在车里。读者若记得那只母犬，就会明白他来不是为了报案；而她那一吻，是全章里少有的一次不装的表态。
+- **为什么这样写**：警报还没停，读者却被挪到一棵树的树荫下——Jeff 坐在车里等着。这是杜宾第二次出场：上一次是一只母犬被抛过墙，这一次一条大杜宾在 Jeff 身边等着。读者若记得那只母犬，就会明白他来不是为了报案；而她那一吻，是全章里少有的一次不装的表态。
 - **读者视角提示**：警笛声是本章最后一句（the wail of approaching police sirens）。Jeff 身边那条是不是她抛进墙里的那一条，原文没写，读者只能猜。
 
 ## 本章词汇
