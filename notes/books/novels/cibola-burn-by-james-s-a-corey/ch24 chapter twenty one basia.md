@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **Lucia 的告别把语法当武器。making each word its own sentence——作者刻意描写断句本身：两个字一句的顿挫，是把"必须做到"刻进听者耳膜的节奏。Don't make me grow old on this world alone 把余生的时间尺度交给对方保管——这不是情话，是任务书。作者让这句话成为 Basia 后半本书的唯一行动纲领：他后来做的每个选择（配合、逃跑、牺牲）都是在对这份任务书负责。
 
-**读者视角提示： **对照 ch15 她的"Now. Tonight. I gave her permission."——Lucia 的语言极限一直是"把句子剁碎"。记住 grow old alone 这个条件句：它是全书埋得最深的动机炸弹之一。
+**读者视角提示： **对照 ch20 他（Basia）那句"Now. Tonight. I gave her permission."——Basia 的语言极限一直是"把句子剁碎"。记住 grow old alone 这个条件句：它是全书埋得最深的动机炸弹之一。
 
 > **原句 5:** The Rocinante, dropping through the atmosphere faster than sound, descending on them all like the angel of judgment.
 

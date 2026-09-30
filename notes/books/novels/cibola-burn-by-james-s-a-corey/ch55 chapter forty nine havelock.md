@@ -67,7 +67,7 @@ modified: "2026-09-30"
 
 > **原句 6:** “You guys need to slow down now,” Havelock said. “You’re still my people, and I don’t want to hurt any of you.”
 
-**中文理解：** "你们现在得减速，"Havelock 说。"你们还是我的人，我，不想伤你们。"
+**中文理解：** "你们现在得减速，"Havelock 说。"你们还是我的人，我不想伤你们。"
 
 **关键词：** slow down now, my people, don’t want to hurt any of you
 
@@ -75,7 +75,6 @@ modified: "2026-09-30"
 
 **读者视角提示：** 记住"我的人"：它与 ch22 的"我们是三个人"（Alex 版）、ch18 的"我们过去数的最后一个"（Havelock 版）同族，是他在叛变后重建自我的语法。记住"不想伤你们"：这句与章末"要开枪了"的恐惧构成他整章的内在张力。
 
-**为什么这样写：** 本章的"理念句"是下一段：
 
 > **原句 7:** No one really appreciated how much of security work was just trying to keep things under control for a few more minutes, giving everyone involved in the crisis a little time to think it all through. The threat of violence was just one tool among many, and the point was not making things worse.
 

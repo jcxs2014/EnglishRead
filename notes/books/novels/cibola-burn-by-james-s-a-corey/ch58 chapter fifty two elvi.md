@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 **为什么这样写：** Holden's 逻辑是"反向乐观"——从最坏推出最好，而逻辑基础却稳得像铁：Amos 死，则别人全死；别人没死，则 Amos 没死。这个"反证法"是他对 Miller（死者）的另一种运用：逻辑是逆向的安慰。作者让这句既是战术（坚持救援的论据）又是角色（他在 ch51 坚持"他要救 Amos"时用的同一套）。
 
-**读者视角提示：** 记住"反证式乐观"：它是 ch51 坚持"他是我人"时那句话的另一层——"我活着，所以我有义务"与"我活，所以他还活着"是同源的。对照 ch55 "We're still alive, so Amos is too"——完全同源。
+**读者视角提示：** 记住"反证式乐观"：它是 ch51 坚持"他是我人"时那句话的另一层——"我活着，所以我有义务"与"我活，所以他还活着"是同源的。对照本章自己那句"We're still alive, so Amos is too"——完全同源（ch55 全章无此句）。
 
 > **原句 5:** “Someone has to find this whatever-it-is and shut off the planetary defenses, and someone has to shoot Murtry.”
 

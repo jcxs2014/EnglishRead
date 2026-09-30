@@ -83,7 +83,7 @@ modified: "2026-09-30"
 
 **为什么这样写：** 本章的哲学升华藏在最朴素的动词里（作者前一句写他们"毫不犹豫"——without question——那是本书对"共同体"的最终定义：不是理想，是行动时不问"值不值"）。而 microcosm（缩影）把太空灾难折回日常伦理：buy a little more（多买一点）就是人活着的全部算法。Bought a little more with a lot of hard work 是全章的悼词与处方合二。
 
-**读者视角提示：** 记住 without question：它与 ch13 的 "They're not us"（阵营语法）正好相反——本书的终点是拆掉那个 us。记住"多买一点"：它后面会在 Miller 的荒原（ch57+）以另一种方式重演。
+**读者视角提示：** 记住 without question：它与 ch33 Amos 那句"They're not us"（阵营语法）正好相反——本书的终点是拆掉那个 us。记住"多买一点"：它后面会在 Miller 的荒原（ch57+）以另一种方式重演。
 
 > **原句 8:** Looking at the angry brown ball of Ilus, rotating past on his screen, Basia thought, You’ll kill us, but you won’t kill us easy.
 

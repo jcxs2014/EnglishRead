@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **为什么这样写：** Murtry 的殉道修辞在此到达顶峰。他把船上人的死（their deaths will have meaning，ch59 上文）兑换成"一厘米"的领土学。held to the last gasp（死攥到最后一口气）是本章的暴力美学：不是贪婪，是原则。Cortez burned his ships（科尔特斯烧自己的船）这一典故既是历史援引也是疯话——自焚式的开拓。Holden 的反驳（worshiping mass murderers）把"殉道"拉回"拜杀人的神"：两条路（ cortado 一厘米/ 护林卡) 在此刻互为镜像。作者用这组典故让反派有了自洽的修辞，这是本书对极端立场的最高礼遇——它让读者在下一章的枪响前真的犹豫了一秒。
 
-**读者视角提示：** 记住"一厘米"：它从 ch15 走到 ch55 的墓志铭，此处被 Murtry 重新点亮为教义。对照 ch35 的"a shed strong enough to be a headstone"——RCE 在建陵墓的同时给它写好了碑文。
+**读者视角提示：** 记住"一厘米"：它从 ch15 走到 ch55 的墓志铭，此处被 Murtry 重新点亮为教义。对照 ch41 的"a shed strong enough to be a headstone"——RCE 在建陵墓的同时给它写好了碑文。
 
 > **原句 3:** “A guy I once knew tried to justify his life choices to me by comparing himself to Genghis Khan.”
 

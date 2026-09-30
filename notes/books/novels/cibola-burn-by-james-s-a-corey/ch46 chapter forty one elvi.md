@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **科学失败的标准信函，礼貌得残忍。error bars（误差条）是本章的关键词：Holden 的免疫在数据里"合法地"不存在——答案不在已测量的地方。barking up the wrong tree（爬错树）的猎犬比喻给科研的挫败配上森林意象。作者让 Luna 的专家系统先关上一扇门，才能让 Elvi 自己的顿悟开门——好的突破总以"所有人认输"为前缀。
 
-**读者视角提示： **"爬错树"对照 ch42 的"needle in a complex organism"——本书的科研线全程遵守"先迷路后抵达"。记住 error bars：它们是 ch28"醒错"假说的亲兄弟——这个宇宙连它的例外都要按误差条报。
+**读者视角提示： **"爬错树"对照 ch43 Elvi 那句"We're looking for a needle in a complex organism"——本书的科研线全程遵守"先迷路后抵达"。记住 error bars：它们是 ch28"醒错"假说的亲兄弟——这个宇宙连它的例外都要按误差条报。
 
 > **原句 3:** “I wouldn’t have known about this. This wouldn’t have happened yet. I’d know I was taking a risk. I did know. Of course I’d get on that ship.”
 

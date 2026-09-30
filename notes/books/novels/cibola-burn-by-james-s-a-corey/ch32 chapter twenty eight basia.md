@@ -73,7 +73,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **Belter 的宿命论短语（Is what is）承担了神学功能：接受不可改变之事，是为了让爱超越它。破折号后的 And Katoa 是全章最暗的一笔——爱的清单念到一半，死者自己走了进来：他的爱从未完整，因为名单上永远缺一个名字。作者让这个插入语不被说出（心里话），像伤口的自白只在深夜开放。父女通话的温柔由此完成最后的定价：和解是真的，亏欠也是。
 
-**读者视角提示： **"谁被我留下等死"回收 ch11 的"I left Katoa behind because I thought he was dead"——如今他不再用"以为"当缓冲垫。对照 ch02 的 "And I let them"：同一份罪，三年后终于敢用完成时态认领。
+**读者视角提示： **"谁被我留下等死"回收 ch02 的"I left Katoa behind because I thought he was dead"——如今他不再用"以为"当缓冲垫。对照 ch02 的 "And I let them"：同一份罪，三年后终于敢用完成时态认领。
 
 > **原句 7:** The island, the massive upwelling of the ocean, the smaller nearby islands, they all disappeared in a column of white fire and a rapidly rising mushroom cloud.
 
