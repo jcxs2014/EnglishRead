@@ -69,7 +69,7 @@ modified: "2026-09-30"
 
 **关键词**：the first job they’d done for Baird / Usoro abused his wife / His stepson / his sixteen-year-old girlfriend / slipping some strychnine salt into his wine
 
-**为什么这样写**：`Usoro abused his wife.` 后面跟三个名词短语，句子没有谓语——这是全书很冷的一种写法：作者和叙述者都不加形容词，只把受害者的清单列出来，让读者自己下判断。而 Ren 本人也被压缩成了一串动作（跟踪两周、掺盐），没有一句心理描写。一串没有谓语的 `His…` 片段（继子／十六岁的女友／还有瞪大的眼睛）让暴行的范围逐级扩大：先是成年人，然后是孩子。
+**为什么这样写**：`Usoro abused his wife.` 后面跟三个名词短语，句子没有谓语——这是全书很冷的一种写法：作者和叙述者都不加形容词，只把受害者的清单列出来，让读者自己下判断。而 Ren 本人也被压缩成了一串动作（跟踪两周、掺盐），没有一句心理描写。一串没有谓语的 `His…` 片段（继子／十六岁的女友）把受害清单从成人推到未成年人；紧随其后的 `His eyes had bulged.` 换了个主语——那是死者本人的死状。
 
 **读者视角提示**：注意「三年前的第一单」这个坐标——这是她与 Baird 合作史的起点，也是本章后面那个悬案的开端。
 
