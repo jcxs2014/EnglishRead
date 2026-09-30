@@ -117,6 +117,37 @@ modified: "2026-09-30"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| undulating | （船般的）起伏 | Jane had a sense of gentle undulating movement, as though she were on a ship. |
+| circulated | （谣言）流转 | A rumor circulated that someone had ordered in pizza. |
+| passionately | （激烈地）争论 | Two Audreys and an Elvis argued loudly and passionately about standardized testing. |
+| standardized | 标准化（测试） | Two Audreys and an Elvis argued loudly and passionately about standardized testing. |
+| enunciating | （一字一顿）念 | She was enunciating her words very slow-ly and care-ful-ly to make sure nobody knew she was tipsy. |
+| resentfully | 愤愤地 | “I’m dressed as Audrey Hepburn in My Fair Lady, by the way,” said Miss Barnes resentfully. |
+| passive-aggressive | 阴阳怪气的 | ‘We need to be sure our children are in a safe environment,’ and then some of them do this passive-aggressive thing: ‘I know you’re under-resourced, Miss Barnes, so do you need more parent helpers? |
+| under-resourced | （自认）资源不足 | ‘We need to be sure our children are in a safe environment,’ and then some of them do this passive-aggressive thing: ‘I know you’re under-resourced, Miss Barnes, so do you need more parent helpers? |
+| benevolently | （家长）慈眉善目地 | The parents lay on their deck chairs, smiling benevolently, as if they were doing me a wonderful favor! |
+| harassment | 骚扰 | “It sounds like harassment to me,” said Jane. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| pretzels | 椒盐卷饼 | She held out her hand and he gave her a handful of pretzels. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| pink boa | 粉色羽毛围脖 | She was wearing a giant hat, a pink boa and carrying a parasol. |
+| death stare | 死亡凝视 | Lipmann giving me a death stare. |
+| parasol | （阳）伞 | She was wearing a giant hat, a pink boa and carrying a parasol. |
+| roster | （家长邮件的）排班表 | I think there’s a roster. |
+| trivia night | 知识竞赛夜 | The trivia night had been going for over an hour now without food or trivia. |
+
 ## 一句话总结
 
 没有食物没有题目的竞赛夜像一艘起伏的船——Stu 的薯片、Barnes 的《窈窕淑女》与永远不下班的控诉、Tom 的椒盐卷饼和摘羽毛服务，把失控的夜晚泡成一段温柔的浮世绘；「别让我在想象」的祈祷刚落，一只凉手落在 Jane 臂上——Celeste 借一步说话的地方，就是阳台的入口。
