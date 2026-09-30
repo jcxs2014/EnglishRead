@@ -9,9 +9,9 @@ modified: "2026-10-01"
 
 - **一句话概括**：Lynn 从手机上的摄像头画面里盯着 Jimmy 进门，握着床下的刀等他破门；他却只是来叫她十一点一起看房——一栋将近两百万的海景房；她当着中介的面替丈夫圆场说"我中彩票了"，回头在车上又用"这房子不对劲"把 Jimmy 逼到暴怒。
 - **情感弧线位置**：从"他一定是来杀我的"绷到极限，被一句看房预约突然松开；松气之后是炫富、被打脸、被强按着头推销的憋屈，最后沉到比恐惧更低处——她开始把"入土"当成解脱。
-- **线索结构**：留下三样日后要用的东西——他对外用的名字（本章他自称 James）、两人在中介面前的姓氏问题（本章两人各说各的）、以及那栋两百万的房子（本章她已经在盘算怎么劝退）。
+- **线索结构**：留下三样日后要用的东西——对外用的名字（本章他自称 James 并把 Lynn 指给对方，而她的姓要到第 22 章在中介办公室才被问起）、以及那栋两百万的房子（本章她已经在盘算怎么劝退）。
 - **人物弧线**：Lynn 从"握着刀等死的人"变成"当众替丈夫圆谎的人"：她保住了夫妻对外的体面，代价是自己多说了一句假话，也把往后的时间又押上去一天。
-- **叙事手法**：用监控画面的视野限制制造信息差（只看得见后脑勺，看不见表情）；用"提议—追问—威胁"三段对话压缩正面冲突；末尾把恐惧转成一个死后的想象，靠一句自我说服收束。
+- **叙事手法**：用监控画面的视野限制制造信息差（只看得见后脑勺，看不见表情）；用"提议—追问—威胁"的对话结构压缩正面冲突；末尾把恐惧转成一个死后的想象，靠一句自我说服收束。
 
 ## 精读
 
@@ -68,7 +68,7 @@ modified: "2026-10-01"
 
 - **中文理解**：别再走这条老路了。但这一次不一样。等我进了地下六英尺，我就再也不用面对 Jimmy、再也不用承受他的惩罚了。我告诉自己，这一次值得。
 - **关键词**：Don’t go down this road again（别再走这条老路了）／this time, it’s different（这一次不一样）／six feet under the ground（入土、葬身地下六英尺）／contend with（对抗、应付）／it’s worth it（值得）
-- **为什么这样写**：本章以她的威胁作结，而威胁的内容是死亡。重复他的话再翻转成"到那时我就解脱了"，是本章唯一一次她把算盘拨到自己身上——不是算 Jimmy 会怎样，是算自己不必再应付他。末句 "I tell myself that this time it's worth it." 用了 tell myself（我告诉自己），作者把这个念头明确标成自我说服，读者会替她可疑。
+- **为什么这样写**：本章以她的威胁作结，而威胁的内容是死亡。重复他的话再翻转成"到那时我就解脱了"，是她把算盘拨到自己身上的地方——不是算 Jimmy 会怎样，是算自己不必再应付他。末句 "I tell myself that this time it's worth it." 用了 tell myself（我告诉自己），作者把这个念头明确标成自我说服，读者会替她可疑。
 - **读者视角提示**：注意她放弃的是"说服他"，不是"活下去"；这与她还在付钱、还在上班的状态形成反差，也把下一章她被反制的结果提前铺好。
 
 ## 本章词汇
@@ -100,13 +100,13 @@ modified: "2026-10-01"
 | distorted (into) | 扭曲成（某种形状） | Anger distorts his jaw. |
 | glazed | （眼神）呆滞无神的 | His eyes are glazed and out of focus. |
 | stern (look) | 严厉的（目光） | Jimmy jerks his head toward me and gives me a stern look. |
+| appointment | 预约，约会 | “Go get ready. We have an appointment with an agent at eleven.” |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | real estate agent | 房地产中介，经纪人 | “I made an appointment with a real estate agent at eleven. Get ready and let’s go!” |
-| appointment | 预约，约会 | “Go get ready. We have an appointment with an agent at eleven.” |
 | after taxes | 扣完税之后 | Well, it’s actually almost four after taxes, or that’s what I’ve been told. |
 | pencil skirt | 铅笔裙 | She’s dressed in a pencil skirt and a white blouse. |
 | cologne | 古龙水，男士香水 | I catch a whiff of his cologne as it spreads throughout the room, and I notice he has freshly shaved. |

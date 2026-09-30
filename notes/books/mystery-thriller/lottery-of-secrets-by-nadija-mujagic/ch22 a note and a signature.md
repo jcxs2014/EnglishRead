@@ -10,7 +10,7 @@ modified: "2026-10-01"
 - **一句话概括**：周一早上 Jimmy 告诉她自己也辞职了，并逼她照旧去赴十点的约；出门时她捡到一只白信封，里面只有一句"YOU BETTER BUY THE HOUSE, OR ELSE …"；她回查摄像头却发现那几台只给实时画面、没有录像，于是瞒下纸条，在中介办公室签下自己的姓氏以外的一切，回家路上又看见 sidewalk 上那个女人。
 - **情感弧线位置**：从清晨厨房的例行压迫（摔杯子、逼问行踪）滑到捡到信封时的悬空，再到签字时的机械服从，最后以车窗外那次对视收尾——全章没有一次情绪落地，末句是投降。
 - **线索结构**：交出三样本章新出现的东西——那张威胁纸条（本章没有交代是谁写的）、那台只能看实时画面的摄像头（把她的取证路线当场掐断）、以及那个站在路边与她对视的女人（本章只给外貌，没给名字和身份）。
-- **人物弧线**：Lynn 从"还想报警取证"滑到"先瞒下来再说"：她第一次主动决定不把威胁告诉丈夫——不是因为信任，是因为她认定说了只会换来一句否认。
+- **人物弧线**：Lynn 从"还想报警取证"滑到"先瞒下来再说"：这一章她主动决定不把威胁告诉丈夫——不是因为信任，是因为她认定说了只会换来一句否认。
 - **叙事手法**：用一场家务化的早餐争吵开场，把"辞职"这种大事压进咖啡杯和报纸里；用一张纸条把外部威胁重新送进已经只剩两个人的密闭空间；结尾用一次隔着车窗的对视收束，把压迫感从家庭内部转到街上。
 
 ## 精读
@@ -33,21 +33,21 @@ modified: "2026-10-01"
 
 - **中文理解**：这张纸条把一阵恐惧击穿了我的身体。字是墨水写的，笔迹我不认得。那么就不可能是 Jimmy  写的——除非他另外雇了个人来做。也许就是那个给我送花、给我送巫毒娃娃的同一个人。那个我连续两天各见到一次、跟在我身后的年轻女人。
 - **关键词**：scribbled in ink（用墨水潦草写下）／handwriting I don’t recognize（我不认得的笔迹）／unless he hired someone else（除非他另外雇了人）／the same person（那同一个人）／stalking（跟踪）
-- **为什么这样写**：排除法被写得很冷静：先是笔迹不认识（所以不是他），再退一步（除非他雇了人），再串起旧线索（花、巫毒娃娃、那个跟了她两天的年轻女人）。四步全部由她一个人在门口站着完成，没有人可以商量。纸条上那句"OR ELSE"（否则）留着不填的空，跟她的推理一样，都停在半路。
+- **为什么这样写**：排除法被写得很冷静：先是笔迹不认识（所以不是他），再退一步（除非他雇了人），再串起旧线索（花、巫毒娃娃、那个跟了她两天的年轻女人）。这串推断全部由她一个人在门口站着完成，没有人可以商量。纸条上那句"OR ELSE"（否则）留着不填的空，跟她的推理一样，都停在半路。
 - **读者视角提示**：这一段没有给出寄信人。她只列出了可能，而本章后面也没有任何一句确认过其中任何一个可能——除了她自己的怀疑。
 
 > **原句 4:** I don’t tell Jimmy about the surprise message. Not this time. I suspect all I will get from him is a denial, a sort of confirmation that I’m paranoid or crazy. I’m still convinced he has something to do with this, so I keep it to myself.
 
 - **中文理解**：我没把这条突如其来的消息告诉 Jimmy。这一次不说。我猜我从他那儿换来的只会是一句否认，等于反过来确认我在疑神疑鬼、或者干脆疯了。可我仍然确信这件事跟他脱不了干系，所以我把它藏了起来。
 - **关键词**：Not this time（这一次不说）／a denial（一句否认）／paranoid or crazy（多疑或疯了）／keep it to myself（把它瞒下来）
-- **为什么这样写**：这是全书里她第一次主动选择沉默，而理由不是怕他，是判定无效：她认为"告诉他"这个动作只会生产出一句否认，等于替怀疑盖章。作者把"策略"和"绝望"写成同一件事——她瞒下来不是因为聪明，是因为连试都不值得试。
+- **为什么这样写**：这是她主动选择沉默的一次，而理由不是怕他，是判定无效：她认为"告诉他"这个动作只会生产出一句否认，等于替怀疑盖章。作者把"策略"和"绝望"写成同一件事——她瞒下来不是因为聪明，是因为连试都不值得试。
 - **读者视角提示**：注意她紧接着写下一句 "I have a perfect plan."（我有一个完美的计划），但本章没有把这个计划写出来，读者只知道她打算换 Jimmy 手里那把钥匙。
 
 > **原句 5:** I instinctively reach for my phone to check the camera activities for the past day. Maybe the footage will reveal the person standing on our steps. Even a glimpse of the person might help lead to the ultimate discovery. I’ll take the footage to the police station, and they can start the search. That thought gives me hope. I find the app and, with shaking hands, I look for the recorded footage. But I find none. I scoff and cuss under my breath. Apparently, I didn’t buy cameras that record. They only give live view access. Are you fucking kidding me?
 
 - **中文理解**：我本能地伸手去拿手机，想调出过去一天的摄像头记录。也许录像能拍出站在我们台阶上的人。哪怕只看清一眼，也可能顺着找到最后的答案。我会把录像送到警察局，让他们开始找人。这个念头给了我希望。我找到那个应用，抖着手去找录像。可我什么也没找到。我在嘴里轻轻地嗤了一声、骂了一句。显然，我买的不是能录像的摄像头。它们只给实时画面。这也行？开什么玩笑。
 - **关键词**：instinctively（本能地）／reveal the person（把人拍出来）／That thought gives me hope（这个念头给了我希望）／live view access（实时画面查看权限）
-- **为什么这样写**：取证的希望被作者用一句产品说明掐断，而她花在证据上的全部努力——三个摄像头（见第 18 章）——原来只给了她一面单向玻璃：她能看见家里，家里看不见她。末句那个反问把愤怒写成了滑稽，也让"自保装备"这件事在读者心里第一次显得可笑。
+- **为什么这样写**：取证的希望被作者用一句产品说明掐断，而她花在证据上的全部努力——三个摄像头（见第 18 章）——原来只给了她一面单向玻璃：她能看见家里，家里看不见她。末句那个反问把愤怒写成了滑稽，也让"自保装备"这件事在读者眼里显得可笑。
 - **读者视角提示**：注意她的推理链一步没错：她先假设有人站在台阶上，再去找录像，再交给警察——断的是工具，不是判断。
 
 > **原句 6:** He looks excited. His eyes are sparking like stars. He is so consumed in his own joy, he doesn’t notice how unwell I look, not only because I am dying—that’s a constant—but also because I have had so little sleep these last few days. We look like the complete opposites of each other. Like life and death.
@@ -62,7 +62,7 @@ modified: "2026-10-01"
 - **中文理解**："James Corrigan。"Jimmy 先报了名。……"那你就是 Lynn Corrigan？"……"不，不是。"我立刻纠正她。"我是 Miller。"……Jimmy 给了我一个恶狠狠的眼神。他始终没法原谅我没有用他的姓——在他看来那是他们婚姻的象征。可实际上，那不过是 Jimmy 又一件可以拿来为难我、拿来抱怨的东西。
 - **关键词**：I’m quick to correct her（我立刻纠正她）／a mean look（一个恶狠狠的眼神）／a symbol of our marriage（他们婚姻的象征）／use against me（拿来对付我）
 - **为什么这样写**：本章最日常也最伤人的一处：一个姓，被当成婚姻的收据。她纠正得越快，读者的心越沉——她护的其实不是自己的姓，是那段早就死掉的婚姻的最后一点形式。末句由叙述者直接拆穿它在他手里的真实用途，讽刺由她本人完成。
-- **读者视角提示**：他这一趟出门用的是"James Corrigan"，前一章他向中介报的名字也是 James——同一个名字，本章第一次落进了纸面。
+- **读者视角提示**：他这一趟出门用的是"James Corrigan"，前一章他向中介报的名字也是 James——同一个名字，本章落进了纸面。
 
 > **原句 8:** And then out of nowhere, I see her. She’s standing on the sidewalk, facing the car, her long dark hair parted in the middle, covering her torso. Our eyes meet for a second, and as the car goes by, she turns toward it, and her eyes follow mine as I turn to face her. I want to scream and tell Jimmy to stop the car and let me out. But he’s in his own world, and I say nothing. I surrender myself to his actions as he drives me into the figurative abyss.
 
@@ -100,6 +100,7 @@ modified: "2026-10-01"
 | smirks | （得意地）咧嘴一笑 | He smirks and gives me a deadly look. |
 | somersaults | 空翻；翻跟头 | My stomach churns and enacts a million somersaults. |
 | savoring | 细细体会、品着 | enjoy the sunsets, savoring the planet as much as I can |
+| signature | 签名 | I take the pen, and with a shaky hand, I place my signature on the line. |
 
 ### ⭐ 基础
 
@@ -112,10 +113,9 @@ modified: "2026-10-01"
 | sidewalk | 人行道 | She’s standing on the sidewalk, facing the car |
 | torso | 上身；躯干 | her long dark hair parted in the middle, covering her torso |
 | cliff | 悬崖 | It hangs on a cliff overlooking the ocean. |
-| signature | 签名 | I take the pen, and with a shaky hand, I place my signature on the line. |
 | drum up | 临时想出（借口、说法） | I was hoping he’d already be at work so I can drum up an excuse not to go to the appointment |
 | paper tissue | 纸巾 | I tuck the note in my purse and take out a paper tissue before wiping the sweat from my forehead. |
 
 ## 一句话总结
 
-这一章她拿到了一张写着自己死活的纸条、丢掉了唯一能指认人的录像，然后在"你最好买下那栋房子"这句威胁里签下了名字——她照旧没有说出那个一直跟着她的女人是谁。
+这一章她捡到一张只写着"你最好买下那栋房子，否则……"的纸条、却查不到任何能指认人的录像，然后在同一句威胁里签下了自己的名字——她照旧没有说出那个一直跟着她的女人是谁。

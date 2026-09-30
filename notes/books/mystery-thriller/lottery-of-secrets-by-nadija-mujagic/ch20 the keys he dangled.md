@@ -19,7 +19,7 @@ modified: "2026-10-01"
 
 - **中文理解**：我们婚姻里最幸福的那段日子，是 Jimmy  和我一起计划将来：兴奋于它会带来什么，会怎么改变我们各自、又会怎么改变我们这个家。现在很难相信我们曾经那么幸福、那么不受后来一路攒下的这些往事影响。
 - **关键词**：blissful（极其幸福的）／consisted of（由……构成）／It’s hard to believe now（现在很难相信）／unaffected by（不受……影响）
-- **为什么这样写**：回忆被冠以"最幸福"这个最高评价，但最后一句立刻用"很难相信"把它抽走——作者先给出结论，再当场否证其可信度。"the history we have created"（我们一起攒下的这些历史）用 created（创造）而非 suffered（承受），把创伤说成一对夫妻共同的产物，这一笔比单纯的受害者视角更冷。
+- **为什么这样写**：回忆一开始就被冠以"最幸福"这个评价，但最后一句立刻用"很难相信"把它抽走——作者先给出结论，再当场否证其可信度。"the history we have created"（我们一起攒下的这些历史）用 created（创造）而非 suffered（承受），把创伤说成一对夫妻共同的产物，这一笔比单纯的受害者视角更冷。
 - **读者视角提示**：这一句在回忆开始之前就先交代了它的位置——它是"现在"回头看"从前"，因此本章的甜全部是带引号的。
 
 > **原句 2:** I’d reached for the keys, but he yanks his hand out of my way, points the keys in another direction and dangles them again. He makes me giggle. … “I’ve found us a new place, baby-face. A block from the beach.”
@@ -33,14 +33,14 @@ modified: "2026-10-01"
 
 - **中文理解**：作为机械师，Jimmy  爱车爱得要命。他一有机会就看一级方程式，也爱去经典车和古董车的展览。我陪他去这些展览，他直接把我忘了。他比自己进了糖果店的孩子还夸张。
 - **关键词**：in love with cars（爱车爱得要命）／Formula One（一级方程式赛车）／classic and antique（经典与古董的）／he forgets I’m there（他把我忘了）／a kid in a candy store（进了糖果店的小孩）
-- **为什么这样写**：这一段是全章唯一一处与他无关的插叙，作用是把他的"痴迷"落到一个具体爱好上，从而让后面的转变有了支点：爱车的人，对房子也用同一种眼光。末句用孩子气的比喻收尾，作者没有加评论，读者自己会笑，也自己会心凉——陪在旁边都能被忘掉的人，不会有空替她想别的事。
+- **为什么这样写**：这一段是全章里少有的一处与他无关的插叙，作用是把他的"痴迷"落到一个具体爱好上，从而让后面的转变有了支点：爱车的人，对房子也用同一种眼光。末句用孩子气的比喻收尾，作者没有加评论，读者自己会笑，也自己会心凉——陪在旁边都能被忘掉的人，不会有空替她想别的事。
 - **读者视角提示**：注意这一段里她的位置是"陪同者"，与后文两百万那场看房时她的位置完全相同，只是那时她连陪同的资格都要靠撒谎去争。
 
 > **原句 4:** He walks into the bathroom, and while taking a piss, he yells out, “You’ll see the place soon. It’s great. It’s not much bigger than this place, but it’s a step up.” He flushes the toilet, and without washing his hands, he steps out and zips his pants up.
 
 - **中文理解**：他走进卫生间，一边小便一边朝外喊："你很快就会看到那地方了。很好。地方没比现在大多少，但总算上了一个台阶。"他冲了水，出来时连手都没洗，拉上裤链。
 - **关键词**：yells out（大声朝外喊）／a step up（上了一个台阶，好一些）／without washing his hands（连手都没洗）／zips his pants up（拉上裤链）
-- **为什么这样写**：作者把最浪漫的信息（他要给她一个家）塞进最不浪漫的场景里：他在小便，她在门外等。宣布好消息的方式因此带上了生理性的滑稽，而"冲了水不洗手就走"这一笔把这份滑稽推到底——她将来要跟这样一个细节共度一生。上下两句一热一冷，是本章甜度里始终存在的裂缝。
+- **为什么这样写**：作者把最浪漫的信息（他要给她一个家）塞进最不浪漫的场景里：他在小便，她在门外等。宣布好消息的方式因此带上了生理性的滑稽，而"冲了水不洗手就走"这一笔把这份滑稽推到底——她将来要跟这样一个细节共度一生。前后形成一热一冷的对照，是本章甜度里始终存在的裂缝。
 - **读者视角提示**：留意"a step up"（上了一个台阶）：他对改善生活的想象从来是"同一个地方高一点点"，这个尺度到后文变成两百万的房子，中间的膨胀过程他一句都没有错过。
 
 > **原句 5:** But she doesn’t know that my other, more serious habits haven’t changed since I got pregnant. It’s a secret I’ve kept from Jimmy and now from my doctor, as well.
@@ -89,6 +89,8 @@ modified: "2026-10-01"
 | pack stuff up | 收拾打包 | “I negotiated April first. We’ll have time to pack stuff up.” |
 | candy store | 糖果店（进入就出不来的地方） | He’s worse than a kid in a candy store. |
 | nonsense | 胡说八道 | He looks at me with a funny face and scoffs, “That’s nonsense.” |
+| negotiated | 谈定、协商好了 | “I negotiated April first. We’ll have time to pack stuff up.” |
+| pacifiers | 奶嘴 | In fact, he has already bought baby things in blue. A blanket, bottles, pacifiers … |
 
 ### ⭐ 基础
 
@@ -96,10 +98,8 @@ modified: "2026-10-01"
 |---------|------|------|
 | giggle | 咯咯笑 | He makes me giggle. |
 | Formula One | 一级方程式赛车 | He watches Formula One at every chance he gets |
-| negotiated | 谈定、协商好了 | “I negotiated April first. We’ll have time to pack stuff up.” |
 | due in November | 预产期在十一月 | Our current studio is so small that we have no place to store our clothes, never mind build a nursery for the baby, and I’m due in November. |
 | diet | 饮食（尤指节食要求） | she warned me I needed to improve my diet and take care of the baby |
-| pacifiers | 奶嘴 | In fact, he has already bought baby things in blue. A blanket, bottles, pacifiers … |
 | instinct | 本能，直觉 | I’ve told Jimmy frequently it’s a boy because a mother’s instinct is always right. |
 | yells out | 朝外大声喊 | while taking a piss, he yells out |
 | a block from the beach | 离海滩一个街区 | “I’ve found us a new place, baby-face. A block from the beach.” |

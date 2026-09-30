@@ -27,7 +27,7 @@ modified: "2026-10-01"
 - **中文理解**：雇一个职业杀手要安全得多。雇一个女的也行。怎么管用怎么来。
 - **关键词**：It’s a lot safer to（……要安全得多）／hire a hitman（雇一个职业杀手）／Whatever works（怎么管用怎么来）
 - **为什么这样写**：句子越写越短，像一份越写越不体面的采购清单。"Or a hit woman." 单独成句，把性别当成一个可以替换的参数，用公文式的冷漠写她的绝望。末句的随意与前一句的恐怖内容形成落差——最可怕的不是她想过杀人，而是她想得如此随手。
-- **读者视角提示**：这是她第一次把"自己会死"当成一个可以安排的实际问题来想。本章到这里仍然没有出现任何具体的威胁者。
+- **读者视角提示**：在这里她把"自己会死"当成一个可以安排的实际问题来想。本章到这里仍然没有出现任何具体的威胁者。
 
 > **原句 3:** I’m more afraid to go home now than ever. I could sleep in my car, I suppose, but I’ve done it too many times, and it’s uncomfortable.
 
@@ -47,7 +47,7 @@ modified: "2026-10-01"
 
 - **中文理解**：靠。我的脸烧得发烫。就是在这样的时刻我才意识到：话是没错，钱买不来幸福，可钱能带来舒适和内心的安稳，幸福大概反倒会因为这些更容易到手。
 - **关键词**：burns with embarrassment（因难堪而烧得发烫）／money doesn’t bring us happiness（钱买不来幸福）／peace of mind（内心的安稳）／attain（获得）
-- **为什么这样写**：一句粗口独立成段，是全章唯一一次情绪外泄，而它只为一件小事而发——刷卡失败。真正的死亡威胁她反倒冷静，这个不对称说明她习惯的不是恐惧，是难堪。随后她把格言当场拆开重讲：钱买不来幸福，但钱能先买来舒适与安心，幸福才有实现的条件。自嘲与清醒写在同一口气里。
+- **为什么这样写**：一句粗口独立成段，是全章情绪最外露的一处，而它只为一件小事而发——刷卡失败。真正的死亡威胁她反倒冷静，这个不对称说明她习惯的不是恐惧，是难堪。随后她把格言当场拆开重讲：钱买不来幸福，但钱能先买来舒适与安心，幸福才有实现的条件。自嘲与清醒写在同一口气里。
 - **读者视角提示**：她此刻还一分钱没拿到，已经因为刷不出钱而脸红——她的窘迫来自信用额度，不来自现金。这个细节会在本章后半段再次咬她。
 
 > **原句 6:** I feel like a fugitive. I’m a mere few blocks away from my home, but I’m hiding from my husband, who’s conspiring against me. If I wasn’t convinced before that Jimmy doesn’t deserve my money, now I feel it with all my heart.
@@ -55,13 +55,13 @@ modified: "2026-10-01"
 - **中文理解**：我像个逃犯。我离家不过几个街区，却在躲自己的丈夫——那个正在密谋对付我的人。如果说我以前还不确定 Jimmy  不配拿我的钱，现在我是打心底这么认为了。
 - **关键词**：a fugitive（一个逃犯）／a mere few blocks（不过几个街区）／conspiring against me（密谋对付我）／with all my heart（打心底）
 - **为什么这样写**：用"仅仅"把距离压到最小——威胁不在远方，就在几个街区外，于是躲进酒店这个动作的代价被写得很清楚：安全只值一晚。末句用反事实（"如果我此前还不确定"）把结论的变化摊成时间线：她不是一直这样看，是被这一夜推着改的；而 "conspiring against me" 只是她的判断，原文没有给出来源。
-- **读者视角提示**：这是她第一次把"他配不配拿我的钱"当成结论说出来，并且因此踏实。注意她手里一个证据也没有，只有推断。
+- **读者视角提示**：她在这里把"他配不配拿我的钱"当成结论说了出来，并且因此踏实。注意她手里一个证据也没有，只有推断。
 
 > **原句 7:** The store is nearly empty. I walk around the aisles looking for something that will help me spy on Jimmy. As I turn, my eyes land on some cameras resting on the shelf. I grab one—no, two. No, three is better!
 
 - **中文理解**：店里几乎没什么人。我在货架通道之间走着，找一样能帮我监视 Jimmy 的东西。转过身时，我的目光落在货架上摆着的一批摄像头上。我抓了一个——不，两个。不，三个更好！
 - **关键词**：aisles（货架之间的通道）／spy on（监视）／my eyes land on（我的目光落在）／three is better（三个更好）
-- **为什么这样写**：两次自我改口写成两个短促的修正，句子随着她的贪心越写越短，把一次采购写成临时起意。她先说目的（找一样能帮我监视 Jimmy 的东西），后说物（摄像头），说明方案不是在计划里完成的，是在货架上现编的——这也是她此刻处境的准确写照：反应快，工具乱。
+- **为什么这样写**：自我改口被写成短促的修正，句子随着她的贪心越写越短，把一次采购写成临时起意。她先说目的（找一样能帮我监视 Jimmy 的东西），后说物（摄像头），说明方案不是在计划里完成的，是在货架上现编的——这也是她此刻处境的准确写照：反应快，工具乱。
 - **读者视角提示**：注意"店里几乎没人"与"大街上可能撞见熟人"是同一枚硬币的两面：她躲熟人，却顺手做了一笔冲动消费。
 
 > **原句 8:** Between the cameras and the knife, I should feel safer. Then another thought occurs to me. To act out on it, I slam the bedroom door shut and lock myself inside.

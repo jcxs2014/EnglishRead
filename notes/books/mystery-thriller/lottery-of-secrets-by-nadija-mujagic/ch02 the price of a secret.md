@@ -98,7 +98,8 @@ modified: "2026-10-01"
 | predictability | 可预测性，规律性 | I’m sure he appreciates our predictability and the fact he doesn’t have to do any major repairs, even though the house needs them. |
 | welcome reprieve | 受欢迎的喘息/缓冲 | He explained that it was just a welcome reprieve from his busy day from work, and not a vice. |
 | menacing | 威胁的，令人恐惧的 | Jimmy stands in the middle of the room, his menacing eyes looking at me. |
-| woozy | 昏沉的，晕晕乎乎的 | I stand up and sit straight on the couch, feeling woozy from the sleep. || intimidating | 令人恐惧的，有威慑力的 | His voice sounds harsh and intimidating. |
+| woozy | 昏沉的，晕晕乎乎的 | I stand up and sit straight on the couch, feeling woozy from the sleep. |
+| intimidating | 令人恐惧的，有威慑力的 | His voice sounds harsh and intimidating. |
 | interrogation | 审问，盘问 | More intimidation and interrogation. |
 | numb | 麻木的 | Those threats came and went, over and over, and I’m just numb to them now. |
 | prelude | 前奏，序幕 | A single slap is always just a prelude. |
