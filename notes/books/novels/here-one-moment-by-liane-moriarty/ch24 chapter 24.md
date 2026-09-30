@@ -26,7 +26,7 @@ modified: "2026-09-30"
 
 **中文理解**：在某次行业聚会上，一位女士冷笑着开口，质问她是没打算说自己的名字吗。
 **关键词**：chuckled crossly, are you going to tell me your name
-**为什么这样写**：被动式（was snapped）把那句质问写成被别人抢白的结果；她接下来立刻为自己辩解，两段拼起来正好复现了那场餐桌上的一瞬间。
+**为什么这样写**：用被动式把那句质问写成被别人抢白的结果；她接下来立刻为自己辩解，两段拼起来正好复现了那场餐桌上的一瞬间。
 **读者视角提示**：注意她记得的细节是「是否笑了」而不是对方的长相——她复述的始终是自己那一侧的失误。
 
 > **原句 3:** "Not Cheryl, if that’s what you think you heard. Cherry."
@@ -91,15 +91,15 @@ modified: "2026-09-30"
 | terrific | 极好的；了不起的 | It landed with a terrific splash in his glass of soft drink and he leaped back with the most appalled expression on his face. |
 | appalled | 感到震惊与反感的 | It landed with a terrific splash in his glass of soft drink and he leaped back with the most appalled expression on his face. |
 | intuition | 直觉 | She used probability every day of her life and called it intuition. |
+| complexion | 肤色 | My mother took her dreams as seriously as her complexion. |
+| unexceptional name | 平凡无奇的名字 | Don’t concern yourself, it was an unexceptional name. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| complexion | 肤色 | My mother took her dreams as seriously as her complexion. |
 | trivial incident | 无足轻重的小事 | I really should have forgotten such a trivial incident by now. |
 | spring roll | 春卷 | I lost my mind and my temper and threw a spring roll at him. |
-| unexceptional name | 平凡无奇的名字 | Don’t concern yourself, it was an unexceptional name. |
 | favourite number | 最喜爱的数字 | My number was seven, which is not my favourite number but it’s likely yours. |
 
 ## 一句话总结**：本章用一个记不清的餐桌误会开头，最后落到「她的名字只有一个正确写法」上——「the name that appears on my birth certificate is Cherry.」这句话在这一章里被当成宪法一样念了三遍。

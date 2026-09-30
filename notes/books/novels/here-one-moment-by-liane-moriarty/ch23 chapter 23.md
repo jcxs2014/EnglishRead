@@ -19,7 +19,7 @@ modified: "2026-09-30"
 
 **中文理解**：她后知后觉地弄清了一件事：那天正好是那位空乘人员的生日。
 **关键词**：twenty-eighth birthday, that day, i have learned
-**为什么这样写**：句子用 I have learned 打头，把一个事实摆在「后来才学到」的位置上；读者因此与她共享一份迟到的知情，而生日这个信息是这份知情里最扎人的一格。
+**为什么这样写**：句子用「后来才学到」的口气开头，把一个事实摆在事后诸葛的位置上；读者因此与她共享一份迟到的知情，而生日这个信息是这份知情里最扎人的一格。
 **读者视角提示**：本章的信息量全靠这一句撑住——在此之前，读者只知道有人被报了死因，不知道那个人当天是什么日子。
 
 > **原句 2:** "My gift to her was to predict she would take her own life before she turned twenty-nine. If only I’d predicted a long happy life and a natural death. That would have been kinder. More festive."
@@ -27,13 +27,13 @@ modified: "2026-09-30"
 **中文理解**：她送给对方的「礼物」是预告她会在二十九岁之前自我了断；她随即想，如果当初报的是长寿与自然死，那份礼物才算厚道，甚至算得上喜庆。
 **关键词**：my gift, take her own life, natural death
 **为什么这样写**：先用一个日常词（礼物）装进一个最沉重的句子，再连用三个短句把「本该怎样」列出来；两份清单并排放着，凶险的那份反而被日常的说法包得更严实。
-**读者视角提示**：注意 If only I’d 这个结构把后悔落在「当初报错了内容」上，而不是落在「不该预言」这件事本身——她的忏悔是有边界的。
+**读者视角提示**：注意那句「要是当初」的假设结构——她把后悔落在「当初报错了内容」上，而不是落在「不该预言」这件事本身，她的忏悔是有边界的。
 
 > **原句 3:** "Honestly, sometimes I feel so ashamed I can hardly breathe."
 
 **中文理解**：她说自己常常羞愧到几乎喘不过气。
 **关键词**：ashamed, hardly breathe, honestly
-**为什么这样写**：整章以一个生理动作收尾，把 moral 上的愧疚换成呼吸上的困难；这一句既是本章的结论，也是全书里她反复出现的那种过度自责的第一次亮相。
+**为什么这样写**：整章以一个生理动作收尾，把道德层面的愧疚换成呼吸上的困难；这一句既是本章的结论，也是全书里她反复出现的那种过度自责的第一次亮相。
 **读者视角提示**：全章最重的一句交给一个生理反应，读到这里的停顿感就是这句造成的。
 
 ## 本章词汇
@@ -58,4 +58,4 @@ modified: "2026-09-30"
 |---|---|---|
 | natural death | 自然死亡 | If only I’d predicted a long happy life and a natural death. |
 
-## 一句话总结**：本章用一个「礼物」的比喻把一次死亡预告包成体面的样子，再在最后一句拆穿自己的体面——她反复说出的「to predict she would take her own life before she turned twenty-nine.」，正是这份体面底下的内容。
+## 一句话总结**：本章用一个「礼物」的比喻把一次死亡预告包成体面的样子，再在最后一句拆穿自己的体面——而她真正说出口的正是这一句：「to predict she would take her own life before she turned twenty-nine.」。

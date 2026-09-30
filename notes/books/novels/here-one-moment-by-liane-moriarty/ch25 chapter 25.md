@@ -87,13 +87,13 @@ modified: "2026-09-30"
 | wrangling | 调度；指挥（人群） | A guy in a high-vis vest with a whistle around his neck is wrangling the queue. |
 | innocuous | 无害的；不起眼的 | There she is at the back of the queue, wheeling a small suitcase: innocuous, self-contained, sane. |
 | appalled | 自我嫌恶的 | ‘Don’t take her seriously, dude,’ says Leo, and is instantly appalled by his use of the word ‘dude’. |
+| daytripper | 当天往返的短途旅客 | Also a daytripper. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | high-vis vest | 荧光背心 | A guy in a high-vis vest with a whistle around his neck is wrangling the queue. |
-| daytripper | 当天往返的短途旅客 | Also a daytripper. |
 | fortune teller | 算命先生 | Not a fortune teller. |
 | infinity symbol | 无限符号 | Was it an infinity symbol? |
 | flight attendant | 空乘人员 | He had discreetly observed her across the aisle after the flight attendant brought her back to her seat. |

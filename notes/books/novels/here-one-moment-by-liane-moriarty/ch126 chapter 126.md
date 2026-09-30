@@ -48,7 +48,7 @@ modified: "2026-09-30"
 **中文理解**：她说自己不是天生的好老师，但没关系，她在和小女孩一起进步；她最喜欢的部分其实就是聊天。那孩子想当演员——不是精算师——是演员；孩子的父亲和她一致认为她会把能拿的奖都拿一遍。
 **关键词**：My favourite part, just chatting with her, She wants to be an actress, Not an actuary, An actress
 **为什么这样写**：三句话里两次出现演员，中间插一句被否掉的职业；这个否定让童言成了全章最亮的一句，也让全书的题眼词在这里出现了一次，却是被孩子否掉的。
-**读者视角提示**：注意这位老妇在前一卷自白里还在拿精算师的统计为自己当天的话辩护；同一个人，一个版本在自证，一个版本在这里被孩子轻轻推翻。
+**读者视角提示**：注意本章前面刚出现过同一个词的另一头——她母亲做预测靠的是数据和概率，no different from an actuarial table；同一个人，一个版本在拿统计自证，另一个版本在这里被孩子轻轻推翻。
 
 > **原句 6:** "I often fall asleep like that, hugging his words instead of him."
 

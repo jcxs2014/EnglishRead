@@ -88,13 +88,13 @@ modified: "2026-09-30"
 | comedian | 喜剧演员 | She had the fearful, flinching smile of someone in the front row of a performance by a cruel comedian. |
 | emanating | 散发（出来） | ‘Thank you,’ I said, and I sniffed, because there was a smell of vomit and it seemed to be emanating from her. |
 | resemble | 相像 | I noted he did not resemble Henry from the Hornsby Picture Theatre, or if he did, it was only in the most superficial way. |
+| army camouflage | 军迷彩 | I remembered him – and specifically his army camouflage backpack – from the departure gate. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | ice cube | 冰块 | It’s possible to choke on an ice cube and stop breathing before the ice cube melts. |
-| army camouflage | 军迷彩 | I remembered him – and specifically his army camouflage backpack – from the departure gate. |
 | backpack | 背包 | The last person to leave the plane was a little boy wearing a backpack. |
 | charity shop | 慈善商店 | I had donated the dress to a charity shop in Hobart. |
 | plastic cup | 塑料杯 | I looked down and saw that I was holding a plastic cup, empty except for an ice cube. |

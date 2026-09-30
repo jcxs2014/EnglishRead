@@ -102,7 +102,7 @@ modified: "2026-09-30"
 | burger | 汉堡 | Now Allegra studies Taj as he works his way through his burger. |
 | ears | 耳朵 | Taj cups his hands behind his ears. |
 | familiar face | 熟悉的面孔 | She scans his familiar face. |
-| fingertip | 指尖 | Her tone is as light as a fingertip. |
-| extraordinary ability | 非凡的能力 | They have an extraordinary ability to conceal and mask their true feelings. |
+| tone | 语气 | Her tone is as light as a fingertip. |
+| mask | 掩饰 | They have an extraordinary ability to conceal and mask their true feelings. |
 
 ## 一句话总结**：这一章表面是兄妹吃一顿垃圾食品，实际上是一次家访式排查——妹妹把「微笑型抑郁」的说明读完，把职业术语听懂了，把道歉卡想了一遍，最后把所有力气收成指尖那么轻，只叫了一声哥哥的名字。

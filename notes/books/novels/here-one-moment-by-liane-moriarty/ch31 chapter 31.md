@@ -89,6 +89,7 @@ modified: "2026-09-30"
 | mitigate | 减轻 | His role is to straighten and adjust, mitigate risk and worry, hers is to mollify and soothe, to unwind his wound-up self. |
 | wound-up | 紧绷的 | His role is to straighten and adjust, mitigate risk and worry, hers is to mollify and soothe, to unwind his wound-up self. |
 | captioned | 配上说明文字的 | They send photos of amazing car spots on the family WhatsApp captioned: Thanks, Dad! |
+| beautiful miracle | 美丽的奇迹 | He cleaned her glasses with his handkerchief and straightened the frame and when she put them back on she said it was a beautiful miracle. |
 
 ### ⭐ 基础
 
@@ -98,7 +99,6 @@ modified: "2026-09-30"
 | parking sign | 停车标志牌 | Their first kiss was under the parking sign which he had, as he suspected, misread. |
 | windscreen wiper | 挡风玻璃雨刷 | The ticket was already there, under his windscreen wiper, so he didn’t move it and he didn’t care. |
 | deceased father | 已故的父亲 | He and his sisters are always asking their deceased father to help them find parking spots. |
-| beautiful miracle | 美丽的奇迹 | He cleaned her glasses with his handkerchief and straightened the frame and when she put them back on she said it was a beautiful miracle. |
 | bra strap | 内衣肩带 | Now it drives him mad when a bra strap slithers to her elbow. |
 
 ## 一句话总结**：本章先用一只表和一桩家事把「死」安放进日常（「he looks up at the stars himself and thanks Neve’s mother for the Cartier watch that brought them together.」），最后让一个什么也没做错的孩子问出那句话（「in a heartbreaking, terror-trembled tiny voice: ‘Is Daddy going to die」）——作者把解释权全部留给了没戴眼镜的那一方。

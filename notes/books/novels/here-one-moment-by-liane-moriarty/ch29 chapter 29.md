@@ -32,7 +32,7 @@ modified: "2026-09-30"
 > **原句 3:** "‘Oh, no,’ says Leo. ‘He didn’t die.’ He looks out the window wistfully. ‘We just lost touch.’"
 
 **中文理解**：Leo 说那位朋友没有死，只是他们断了联系。
-**关键词**：«K3》
+**关键词**：we just lost touch, wistfully, didn’t die
 **为什么这样写**：前一段刚把气氛推到最沉，这里用一个语义上的错位把重量卸掉；「断了联系」四个字与「葬礼」并排，让读者意识到这段对话谈的其实是两件不同的事。
 **读者视角提示**：紧随其后的一句「好吧，那这话真够怪的」是叙述者替读者说出来的——本章的幽默几乎都由这种替读者发言的动作完成。
 

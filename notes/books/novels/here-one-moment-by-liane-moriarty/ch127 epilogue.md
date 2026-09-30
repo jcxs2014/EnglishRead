@@ -34,7 +34,7 @@ modified: "2026-09-30"
 **中文理解**：在家里的扶手椅上看着电视的那位老妇，应了一声「不客气」，并要他把金牌带回家。
 **关键词**：You’re welcome, Cherry Lockwood, from her armchair, in front of the television, bring home the gold, Timmy
 **为什么这样写**：全场只有这一句是朝屋里说的；「不客气」三个字把记者刚才高声递出去的那份功劳接了过来，不着一字地接过来。
-**读者视角提示**：注意她始终没有出现在镜头里——全书最后一场，她的座位是沙发，而不是报告席。
+**读者视角提示**：注意原文给她的位置一直是家里的扶手椅和那台电视——全书最后一场，写她时用的仍是室内的坐标，不是报告席。
 
 > **原句 4:** "It is only when we truly know and understand that we have a limited time on Earth and that we have no way of knowing when our time is up that we begin to live each day to the fullest, as if it were the only one we had."
 
@@ -69,11 +69,11 @@ modified: "2026-09-30"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| television | 电视 | ‘You’re welcome,’ says Cherry Lockwood from her armchair in front of the television. |
+| gold | 金牌 | ‘Now bring home the gold, Timmy.’ |
 | swimming | 游泳 | The boy is seventeen, tall and broad-chested, dark hair cut short, swimming cap and goggles in one hand. |
 | knocked | 撞落；打落 | ‘No, but when I was seven, I went on a school excursion and got knocked off a rock platform into the sea by a freak wave, fully dressed. |
 | dressed | 穿着衣服的 | ‘No, but when I was seven, I went on a school excursion and got knocked off a rock platform into the sea by a freak wave, fully dressed. |
 | welcome | 不客气（回应道谢） | ‘You’re welcome,’ says Cherry Lockwood from her armchair in front of the television. |
 | school | 学校 | ‘No, but when I was seven, I went on a school excursion and got knocked off a rock platform into the sea by a freak wave, fully dressed. |
 
-## 一句话总结**：这本书收在一个客厅里——少年在电视上说出那句「我七岁那年差点淹死」，沙发上的人替一位从未露面的算命先生领了功，然后站起来握拳；全书关于「知道终点会来」的争论，到这里变成了一句格言和一次欢呼，不再需要任何人证明自己看见了未来。
+## 一句话总结**：这本书收在一个客厅里——少年在电视上说出那句「我七岁那年差点淹死」，沙发上的人替那位没上镜的算命人领了功，然后站起来握拳；全书关于「知道终点会来」的争论，到这里变成了一句格言和一次欢呼，不再需要任何人证明自己看见了未来。
