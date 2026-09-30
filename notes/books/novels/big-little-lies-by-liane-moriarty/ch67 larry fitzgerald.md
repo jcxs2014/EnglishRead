@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 6:** "Crisis averted." / Just how lucky was that?
+> **原句 6:** Ed leaned back in his chair with his hands crossed behind his head. "Crisis averted."
 
 **中文理解**：「危机解除。」——到底有多巧呢？
 
