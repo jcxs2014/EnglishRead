@@ -21,7 +21,7 @@ modified: "2026-09-30"
 
 ## 精读
 
-> **原句 1:** "He's very articulate and confident and kind."
+> **原句 1:** Ziggy is a lovely little boy,” said the psychologist. “Very articulate and confident and kind.”
 
 **中文理解**：「他表达流畅、自信，而且善良。」
 
