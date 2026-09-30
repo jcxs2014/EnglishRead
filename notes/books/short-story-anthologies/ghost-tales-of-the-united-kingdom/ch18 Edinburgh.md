@@ -11,7 +11,7 @@ modified: "2026-09-30"
 - **作者**：Sean McLachlan（据 epub 版权页 About the Author：曾多年在欧洲、中东与美国从事考古工作，现为全职作家）
 - **章节定位**：**全书最长的一章**（约 28,118 字符），也是**第一次把一座城市当作一个案例**。此前每章的场所是单一的（一座城堡、一处酒馆、一段路），本章的场所是整座城市，而它的材料来源也因此扩展到法庭记录、验尸史、19 世纪的街头黑暗与地窖
 - **字符数**：约 28,118 字符（不含空白）
-- **一句话主旨：爱丁堡的鬼不是被传出来的，是被一连串真实的判决与处决制造出来的——而全章最有分量的那句怀疑，来自一个被处决的凶手在狱中的自白
+- **一句话主旨**：爱丁堡的鬼不是被传出来的，是被一连串真实的判决与处决制造出来的——而全章最有分量的那句怀疑，来自一个被处决的凶手在狱中的自白
 
 ## 论证结构
 
@@ -132,7 +132,7 @@ modified: "2026-09-30"
 
 - 句子结构：句首为**形容词短语** `Now clean and visitor-friendly` 作主语补足（省略 `it is`）；逗号后主句为 `it was once a hellhole of …`，`of` 后接四个并列名词短语（overcrowded tenements / filthy streets / narrow lanes clogged with trash / the occasional dead body）。
 
-- 关键词：**hellhole**（地狱般的窝；极脏的地方——`hell` 加 `hole`）；**tenements"（公寓；廉租楼——尤指贫民区建筑）；**filthy"（肮脏的——`filth` 加 -y）；**clogged with"（被……塞满的——`clog` 表「堵塞」）；**the occasional"（偶尔的；时有的——`occasional` 的名词形）
+- 关键词：**hellhole**（地狱般的窝；极脏的地方——`hell` 加 `hole`）；**tenements**（（公寓；廉租楼——尤指贫民区建筑）；**filthy**（（肮脏的——`filth` 加 -y）；**clogged with**（（被……塞满的——`clog` 表「堵塞」）；**the occasional**（（偶尔的；时有的——`occasional` 的名词形）
 
 - 表达方式：**用四个并列名词短语把「地狱」逐项兑现**。而今昔的对照只用一个逗号完成。
 
@@ -144,7 +144,7 @@ modified: "2026-09-30"
 
 - 句子结构：主句为 `Some historians estimate` + **省略 that 的宾语从句**（`he killed 18,000 of them`）；`in what has become known as "the Killing Time."` 为**介词 + what 引导的名词性从句**结构作时间状语，内含被动式 `has become known as`。
 
-- 关键词：**estimate**（估计——学术常用中性词）；**kill 18,000 of them**（杀了他们一万八千人——`them` 回指 Covenanters）；**what has become known as**（后来被称为——`what` 引导名词性从句 + 现在完成时被动）；**the Killing Time"（杀戮时期——带定冠词的专名，引号标示其为后设命名）
+- 关键词：**estimate**（估计——学术常用中性词）；**kill 18,000 of them**（杀了他们一万八千人——`them` 回指 Covenanters）；**what has become known as**（后来被称为——`what` 引导名词性从句 + 现在完成时被动）；**the Killing Time**（（杀戮时期——带定冠词的专名，引号标示其为后设命名）
 
 - 表达方式：**用一个数字与一个后设命名，把一连串处决压缩成两项**。句子只有二十来个词。
 
@@ -168,7 +168,7 @@ modified: "2026-09-30"
 
 - 句子结构：全句为**动名词作主语**的结构（`Walking through the burial ground` + 系动词 is + 表语 `a creepy experience`）。
 
-- 关键词：**walking through"（穿过……行走——`walk through` 表「走过」）；**creepy"（令人发毛的；怪森的——`creep` 加 -y）；**experience"（体验；经历——此处指「感受」而非「经历」）；**the burial ground"（这片墓地——`burial ground` 指墓地，语体较 cemetery 正式）
+- 关键词：**walking through**（（穿过……行走——`walk through` 表「走过」）；**creepy**（（令人发毛的；怪森的——`creep` 加 -y）；**experience**（（体验；经历——此处指「感受」而非「经历」）；**the burial ground**（（这片墓地——`burial ground` 指墓地，语体较 cemetery 正式）
 
 - 表达方式：**用动名词开头，把读者放进走进去的那个人身上**。全句没有鬼，只有体验。
 
@@ -180,7 +180,7 @@ modified: "2026-09-30"
 
 - 句子结构：主句为 `Brodie was eventually caught`（被动语态）与 `hanged in 1788 in front of a huge crowd`（**过去分词作表语的被动式**，= was hanged）由 and 连接；`as most thieves are` 为**省略的 比较结构**作插入语（= as most thieves are caught）；句末 `said to have numbered 40,000` 为**过去分词短语**作后置定语修饰 crowd。
 
-- 关键词：**eventually**（最终——`eventual` 的副词形）；**be caught"（被抓——`catch` 的被动式）；**hang"（绞死；吊死——此词兼表「悬挂」与「绞刑」）；**a huge crowd"（巨大人群）；**said to have numbered"（据说多达——`be said to` 表传闻 + 完成式）
+- 关键词：**eventually**（最终——`eventual` 的副词形）；**be caught**（（被抓——`catch` 的被动式）；**hang**（（绞死；吊死——此词兼表「悬挂」与「绞刑」）；**a huge crowd**（（巨大人群）；**said to have numbered**（（据说多达——`be said to` 表传闻 + 完成式）
 
 - 表达方式：**用一个括号式的插入语把一个人的命运归入常态，再用一个人口普查数字给围观人数定性**。
 
@@ -192,7 +192,7 @@ modified: "2026-09-30"
 
 - 句子结构：主句为 `The word comes from` + 两个并列成分（`the German poltern …` 与 `Geist …`），后者由 and 连接；`that's exactly what the poltergeists … do` 为**表语从句**（省略 the thing that），内含**定语从句**修饰 the poltergeists。
 
-- 关键词：**come from"（源自；来自）；**poltern"（德语：弄出声响——构词成分）；**Geist"（德语：鬼；灵——`Geist` 亦为德语「精神」）；**exactly what … do"（正是……所做的——`what` 引导的名词性从句作表语）；**at the Learmonth Hotel"（在 Learmonth 酒店——`at` 表地点）
+- 关键词：**come from**（（源自；来自）；**poltern**（（德语：弄出声响——构词成分）；**Geist**（（德语：鬼；灵——`Geist` 亦为德语「精神」）；**exactly what … do**（（正是……所做的——`what` 引导的名词性从句作表语）；**at the Learmonth Hotel**（（在 Learmonth 酒店——`at` 表地点）
 
 - 表达方式：**先给出词源，再用词源解释行为**。这是本章唯一一次从语言学出发解释灵异现象。
 
@@ -204,7 +204,7 @@ modified: "2026-09-30"
 
 - 句子结构：前半为三个并列的系表句（`It was cold, it was damp, and it was pitch dark`），由 but 转折；后半为省略的系表结构 `but at least it was free`。
 
-- 关键词：**damp"（潮湿的——`damp` 表「微湿、潮」）；**pitch dark"（漆黑——`pitch` 表「程度最高的」，此处作强调词）；**at least"（至少——`least` 表最低限度）；**be free"（免费——此处 `free` 的常用义）
+- 关键词：**damp**（（潮湿的——`damp` 表「微湿、潮」）；**pitch dark**（（漆黑——`pitch` 表「程度最高的」，此处作强调词）；**at least**（（至少——`least` 表最低限度）；**be free**（（免费——此处 `free` 的常用义）
 
 - 表达方式：**用三个短句排成一份清单，再用半句收束**。全章最经济的一段贫困生活描写。
 
@@ -216,7 +216,7 @@ modified: "2026-09-30"
 
 - 句子结构：主句为 `they were charged with murdering 16 people`（被动语态 + `be charged with` 指控）；`all of whom were sold to …` 为**关系代词** whom 引导的**非限定性定语从句**（`all of whom` 表「所有这些人」）；句末 `a surgeon who used to lecture on human anatomy by dissecting corpses in front of a paying audience` 为**同位语 + who 定语从句**修饰 Dr. Robert Knox。
 
-- 关键词：**be charged with"（被控以……罪——司法用语）；**in total"（总共）；**all of whom"（他们所有人——`all of whom` 复数关系代词短语）；**be sold to"（被卖给——`sell` 的被动式）；**surgeon"（外科医生）；**dissect"（解剖——`dissection` 的动词形）；**a paying audience"（付费的观众——`paying` 形容词作定语）
+- 关键词：**be charged with**（（被控以……罪——司法用语）；**in total**（（总共）；**all of whom**（（他们所有人——`all of whom` 复数关系代词短语）；**be sold to**（（被卖给——`sell` 的被动式）；**surgeon**（（外科医生）；**dissect**（（解剖——`dissection` 的动词形）；**a paying audience**（（付费的观众——`paying` 形容词作定语）
 
 - 表达方式：**用一条商业链把谋杀、受害者、医生与听众串成一串**。而 `all of whom were sold to` 这半句是全章的枢纽。
 

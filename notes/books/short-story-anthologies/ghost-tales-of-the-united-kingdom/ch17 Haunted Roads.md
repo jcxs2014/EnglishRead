@@ -11,7 +11,7 @@ modified: "2026-09-30"
 - **作者**：Sean McLachlan（据 epub 版权页 About the Author：曾多年在欧洲、中东与美国从事考古工作，现为全职作家）
 - **章节定位**：全书**证据方法最成形**的一章。它首次把一个灵异现象的**目击数据整理成模式**（同一地点、同一动作、跨三十年），并首次引入解释机制（鬼从周围空气中汲取环境能量，因而使气温骤降）
 - **字符数**：约 5,598 字符（不含空白）
-- **一句话主旨：A75 公路上的鬼彼此从不重复——母鸡、老妇、无头者、中世纪难民流民——而作者说这恰恰是它不同于其他鬼屋之处
+- **一句话主旨**：A75 公路上的鬼彼此从不重复——母鸡、老妇、无头者、中世纪难民流民——而作者说这恰恰是它不同于其他鬼屋之处
 
 ## 论证结构
 
@@ -105,7 +105,7 @@ modified: "2026-09-30"
 
 - 句子结构：主句为 `They didn't have long to look`（`have time to do` 的否定形式，`didn't have long to` 表「没多少时间」）；`as` 引导**原因状语从句**（all of the people and the creatures disappeared in an instant）。
 
-- 关键词：**didn't have long to**（没多少工夫去……——`have long to do` 表「花长时间做」）；**in an instant"（转瞬之间——`instant` 前须加不定冠词）；**the creatures"（那些生物——`creature` 加定冠词指前文提到的母鸡与老妇）
+- 关键词：**didn't have long to**（没多少工夫去……——`have long to do` 表「花长时间做」）；**in an instant**（（转瞬之间——`instant` 前须加不定冠词）；**the creatures**（（那些生物——`creature` 加定冠词指前文提到的母鸡与老妇）
 
 - 表达方式：**用「没来得及」把一个动作的缺失写成时间的不足**。消失之所以神秘，一部分是因为它发生得太快。
 
@@ -117,7 +117,7 @@ modified: "2026-09-30"
 
 - 句子结构：句首为**插入语** `Derek, either bravely or foolishly,`（以人称作主语 + `either … or …` 插入）；主句由两个并列分句构成（`Derek got out of the car` 与 `the movement stopped`），句末 `as abruptly as it had started` 为**比较结构**（`as … as` + 过去完成时从句）。
 
-- 关键词：**either bravely or foolishly**（或勇敢或愚蠢——`either … or` 表两者之一）；**get out of**（从……里出来——方向性介词）；**abruptly"（突然地；骤然地——`abrupt` 的副词形）；**as … as**（与……一样——同级比较）；**had started"（已经开始——过去完成时）
+- 关键词：**either bravely or foolishly**（或勇敢或愚蠢——`either … or` 表两者之一）；**get out of**（从……里出来——方向性介词）；**abruptly**（（突然地；骤然地——`abrupt` 的副词形）；**as … as**（与……一样——同级比较）；**had started**（（已经开始——过去完成时）
 
 - 表达方式：**用一个插入语替主角的动机两开，然后把一个物理现象的起止配成对称**。晃动的开始与结束，句法上完全对称。
 
@@ -129,7 +129,7 @@ modified: "2026-09-30"
 
 - 句子结构：全句为**系表句**（`The detail … is an interesting one`），主语为带**介词短语** `about the temperature going down` 的名词短语 detail；系动词 is + 表语 an interesting one（`one` 为**替代词**，代指 detail）。
 
-- 关键词：**the detail about**（关于……的细节——`about` 表主题）；**go down"（下降——此处指气温下降）；**an interesting one"（一个有意思的（细节）——`one` 替代前面的 `detail`）
+- 关键词：**the detail about**（关于……的细节——`about` 表主题）；**go down**（（下降——此处指气温下降）；**an interesting one**（（一个有意思的（细节）——`one` 替代前面的 `detail`）
 
 - 表达方式：**用一句极短的判断，专门点出一处细节**。全章最长的一处生理感受描写之后，作者用十几个字把它单独拎了出来。
 
@@ -141,7 +141,7 @@ modified: "2026-09-30"
 
 - 句子结构：主句为 `It is interesting that …`（**形式主语** + that 从句）；从句主语为**限定性定语从句** `the ghosts that came at the Fergusons` + 谓语 seemed to be trying to communicate with + 宾语 the land of the living。
 
-- 关键词：**It is interesting that"（有意思的是——形式主语结构）；**come at sb"（向某人袭来——`at` 表方向）；**seem to be trying"（似乎正试图——`seem to be + doing` 进行时的推测）；**communicate with"（与……沟通）；**the land of the living"（活人之地——`the living` 作名词，指活人）
+- 关键词：**It is interesting that**（（有意思的是——形式主语结构）；**come at sb**（（向某人袭来——`at` 表方向）；**seem to be trying**（（似乎正试图——`seem to be + doing` 进行时的推测）；**communicate with**（（与……沟通）；**the land of the living**（（活人之地——`the living` 作名词，指活人）
 
 - 表达方式：**用一个「有意思」重复 ⑥ 的表态，再抛出一个更大的解读**。⑥ 说那条细节有意思，⑦ 说这整件事有意思。
 
@@ -153,7 +153,7 @@ modified: "2026-09-30"
 
 - 句子结构：主语为带**定语从句** `The medieval refugees` 的名词短语 + 系动词 seem to be + 表语 `the only repeat performers`；`on the A75` 为地点后置修饰 performers。
 
-- 关键词：**the medieval refugees"（中世纪难民——`medieval` 中世纪的）；**seem to be"（似乎是）；**the only repeat performers"（唯一反复表演者——`repeat` 此处作形容词「重复的」）；**on the A75"（在 A75 路上——`on` 表在某条线路上）
+- 关键词：**the medieval refugees**（（中世纪难民——`medieval` 中世纪的）；**seem to be**（（似乎是）；**the only repeat performers**（（唯一反复表演者——`repeat` 此处作形容词「重复的」）；**on the A75**（（在 A75 路上——`on` 表在某条线路上）
 
 - 表达方式：**用「表演者」这个剧场词汇来指代鬼**。全章对鬼的称呼本来是统一的（ghosts、apparitions、phantoms），这一句忽然换成了**演员**。
 
@@ -165,7 +165,7 @@ modified: "2026-09-30"
 
 - 句子结构：`While hauntings in most places are typified by …` 让步状语从句（含 `like …` 举例）；主句为 `the A75 ghosts are unusual for their variety`，`including …` 为分词短语作补充说明。
 
-- 关键词：**be typified by"（以……为典型——`typify` 的被动式）；**appearing again and again"（一再出现——分词作主语补足语）；**be unusual for"（因……而不同寻常——`unusual for` 表「在……方面异乎寻常」）；**variety"（多样性）；**eyeless phantoms"（无眼的幻象——`eyeless` 无眼的）
+- 关键词：**be typified by**（（以……为典型——`typify` 的被动式）；**appearing again and again**（（一再出现——分词作主语补足语）；**be unusual for**（（因……而不同寻常——`unusual for` 表「在……方面异乎寻常」）；**variety**（（多样性）；**eyeless phantoms**（（无眼的幻象——`eyeless` 无眼的）
 
 - 表达方式：**用一组对照句给一段路命名**。前半是一般，后半是这一个地方。
 
@@ -177,7 +177,7 @@ modified: "2026-09-30"
 
 - 句子结构：主句为 `Phantom travelers who suddenly disappear have been a part of road lore`（含 who 定语从句）；`probably as long as there have been roads` 为**比较结构**作补充；`but with the invention of the automobile, they took on a different flavor` 为转折分句，`with` 短语作状语。
 
-- 关键词：**phantom travelers"（幽灵行者——`traveler` 亦可作动词「旅行」）；**road lore"（道路传说——`lore` 指民间传说体系）；**as long as"（与……一样长——此处用于时间长度）；**there have been roads"（一直有路——`there have been` 现在完成时表持续）；**take on"（换上；呈现——`take on a flavor` 表「带上某种味道」）；**flavor"（味道；风格——此处抽象化）
+- 关键词：**phantom travelers**（（幽灵行者——`traveler` 亦可作动词「旅行」）；**road lore**（（道路传说——`lore` 指民间传说体系）；**as long as**（（与……一样长——此处用于时间长度）；**there have been roads**（（一直有路——`there have been` 现在完成时表持续）；**take on**（（换上；呈现——`take on a flavor` 表「带上某种味道」）；**flavor**（（味道；风格——此处抽象化）
 
 - 表达方式：**用一个时间比较给一个传说定性，再用「换味」二字收尾**。同一种传说，两个时代，两种形态。
 

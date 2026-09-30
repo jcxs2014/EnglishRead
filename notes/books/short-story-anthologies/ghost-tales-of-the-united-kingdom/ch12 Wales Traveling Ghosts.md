@@ -11,7 +11,7 @@ modified: "2026-09-30"
 - **作者**：Sean McLachlan（据 epub 版权页 About the Author：曾多年在欧洲、中东与美国从事考古工作，现为全职作家）
 - **章节定位**：**全书第一次让鬼离开建筑**。此前十一章的鬼全都锚定在某个地点，本章把它们放到公路、航线与海面上——于是「目击者」的规模从一两人变成几十人，而证据也随之从口述变成报警记录与军事查询
 - **字符数**：约 7,029 字符（不含空白）
-- **一句话主旨：鬼一旦上路，证据的等级就随目击者的人数上升——本章三则里，唯一经得起查证的是那架飞机，因为它触发过对皇家空军与机场的查询，而答案是「没有」
+- **一句话主旨**：鬼一旦上路，证据的等级就随目击者的人数上升——本章三则里，唯一经得起查证的是那架飞机，因为它触发过对皇家空军与机场的查询，而答案是「没有」
 
 ## 论证结构
 
@@ -141,7 +141,7 @@ modified: "2026-09-30"
 
 - 句子结构：主语为 `This long, beautiful beach along Carmarthen Bay in South Wales`（带两个形容词与两重介词短语的后置修饰）；系动词 has + 表语 `a notorious past`，`as` 引导**原因状语从句**，从句内为并列结构（the sand reefs … have snagged many a ship 与 some of these wrecks have not been accidental）。
 
-- 关键词：**a notorious past","（声名狼藉的过去——`notorious` 意为「臭名昭著」）；**sand reefs**（沙洲——`reef` 在航海语境指浅滩）；**snag**（（使）搁浅；（使）受阻——`snag` 是本句最形象的一个动词）；**not accidental**（并非意外——`accidental` 的否定）
+- 关键词：**a notorious past**（声名狼藉的过去——`notorious` 意为「臭名昭著」）；**sand reefs**（沙洲——`reef` 在航海语境指浅滩）；**snag**（（使）搁浅；（使）受阻——`snag` 是本句最形象的一个动词）；**not accidental**（并非意外——`accidental` 的否定）
 
 - 表达方式：**用一句地理交代完成一次道德定罪**。风景是「long, beautiful」，历史是「notorious」，两个形容词在同一个主语上并列。
 

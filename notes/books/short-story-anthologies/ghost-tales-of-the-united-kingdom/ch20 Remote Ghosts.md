@@ -11,7 +11,7 @@ modified: "2026-09-30"
 - **作者**：Sean McLachlan（据 epub 版权页 About the Author：曾多年在欧洲、中东与美国从事考古工作，现为全职作家）
 - **章节定位**：**全书的收尾章**，也是论证最完整的一章。本章第一次让**考古发掘直接验证地方传说**（Windhouse 2017 年挖出两具骸骨，证实「房子建在墓场上」），并在最后把书推向一个开放的结尾（1964 年发现的尸体年龄对不上、骨头从未安葬、荒原上也许还有别的尸体）
 - **字符数**：约 17,563 字符（不含空白）
-- **一句话主旨：偏远没有减少鬼，只会减少目击者——本章三处偏远之地（Sanday、Bressay、Arnish Moor）各有一具没有被妥善安放的遗骨，而本世纪的一次发掘让其中一处终于从传说变成了遗址
+- **一句话主旨**：偏远没有减少鬼，只会减少目击者——本章三处偏远之地（Sanday、Bressay、Arnish Moor）各有一具没有被妥善安放的遗骨，而本世纪的一次发掘让其中一处终于从传说变成了遗址
 
 ## 论证结构
 
@@ -93,7 +93,7 @@ modified: "2026-09-30"
 
 - 句子结构：主语为 `Some of the greatest attractions in Scotland`（带后置定语的名词短语，`the greatest` 为最高级）；系动词 are + 表语 `its many wild and remote areas`（三个并列形容词修饰 areas）。
 
-- 关键词：**the greatest attractions"（最吸引人的景点——`greatest` 最高级 + 复数名词）；**wild and remote"（荒凉而偏远的——`wild` 表「荒野的、非人造的」）；**areas"（地区——地理学的用词）；**Some of"（一些……——`some of` + the + 最高级 + 复数名词）
+- 关键词：**the greatest attractions**（（最吸引人的景点——`greatest` 最高级 + 复数名词）；**wild and remote**（（荒凉而偏远的——`wild` 表「荒野的、非人造的」）；**areas**（（地区——地理学的用词）；**Some of**（（一些……——`some of` + the + 最高级 + 复数名词）
 
 - 表达方式：**用一句定义式的判断开启全书最后一章**。句子把「景点」与「荒凉」直接划等号。
 
@@ -105,7 +105,7 @@ modified: "2026-09-30"
 
 - 句子结构：主语 `The area` + 被动 `is made up of` + 表语（`jagged sea cliffs` 与 `bleak moorland` 两个并列名词短语）；`much of it owned by the Ministry of Defense` 为**独立主格结构**（= much of it is owned）；`so few people go there` 为**结果状语从句**。
 
-- 关键词：**be made up of"（由……构成——固定被动结构）；**jagged"（嶙峋的；锯齿状的——`jag` 加 -ged）；**bleak"（荒凉的；萧瑟的——bleak 亦表「阴冷无望」）；**moorland"（泥炭地；荒原——`moor` 加 land）；**Ministry of Defense"（国防部——`ministry` 部 + `defense` 防卫）；**so …"（因此……——`so` 引结果）
+- 关键词：**be made up of**（（由……构成——固定被动结构）；**jagged**（（嶙峋的；锯齿状的——`jag` 加 -ged）；**bleak**（（荒凉的；萧瑟的——bleak 亦表「阴冷无望」）；**moorland**（（泥炭地；荒原——`moor` 加 land）；**Ministry of Defense**（（国防部——`ministry` 部 + `defense` 防卫）；**so …**（（因此……——`so` 引结果）
 
 - 表达方式：**用一个被动句写地形，用一个独立主格写产权，用一个 so 句写人少**。三拍递进，把「偏远」拆成了三条成因。
 
@@ -117,7 +117,7 @@ modified: "2026-09-30"
 
 - 句子结构：主句为两个并列的过去式（`The phantom hand touched …` 与 `recoiled`）；`that had been driven into the bolt` 为**过去完成时的被动定语从句**修饰 awls；句末 `for no spirit can touch iron` 为**原因状语从句**（`for` 表原因，非「因为是」）。
 
-- 关键词：**phantom hand"（幻手；鬼的手——`phantom` 指「幽影」）；**awl"（锥子；尖锥——`awl` 是一种钻孔工具）；**be driven into"（被钉入——`drive` 的被动分词 + `into` 表方向）；**recoil"（退缩；畏缩——`recoil` 亦指「后坐力」）；**for …"（因为……——`for` 引导原因）；**no spirit"（没有灵体；任何鬼——`no` + 单数名词表全称否定）
+- 关键词：**phantom hand**（（幻手；鬼的手——`phantom` 指「幽影」）；**awl**（（锥子；尖锥——`awl` 是一种钻孔工具）；**be driven into**（（被钉入——`drive` 的被动分词 + `into` 表方向）；**recoil**（（退缩；畏缩——`recoil` 亦指「后坐力」）；**for …**（（因为……——`for` 引导原因）；**no spirit**（（没有灵体；任何鬼——`no` + 单数名词表全称否定）
 
 - 表达方式：**用一个触而即退的动作宣布一条世界规则**。全章最简短的设定句。
 
@@ -129,7 +129,7 @@ modified: "2026-09-30"
 
 - 句子结构：主句为 `Ghost hunters theorize` + that 宾语从句；从句内含时间状语从句 `when spirits try to manifest`、主句 `they draw ambient energy from the surrounding air`，句末 `causing the temperature to plummet` 为**分词短语**作结果状语。
 
-- 关键词：**theorize"（推测；提出理论——`theory` 的动词形）；**try to manifest"（试图显现——`manifest` 作动词表「使显现」）；**draw energy from"（从……汲取能量——`draw` 表「吸取」）；**ambient"（周围的；环境的——`ambi-` 两 + `ent`）；**causing"（致使——`-ing` 分词表结果）；**plummet"（骤降；垂直下降——`plummet` 兼指铅锤）
+- 关键词：**theorize**（（推测；提出理论——`theory` 的动词形）；**try to manifest**（（试图显现——`manifest` 作动词表「使显现」）；**draw energy from**（（从……汲取能量——`draw` 表「吸取」）；**ambient**（（周围的；环境的——`ambi-` 两 + `ent`）；**causing**（（致使——`-ing` 分词表结果）；**plummet**（（骤降；垂直下降——`plummet` 兼指铅锤）
 
 - 表达方式：**用一个机制句解释一种现象**。全章唯一一次给出可推演的因果。
 
@@ -141,7 +141,7 @@ modified: "2026-09-30"
 
 - 句子结构：`As they approached the dark house` 为时间状语从句；主句为 `the windows lit up one after the other until the entire house was ablaze with light`（含 until 引导的结果/范围从句与被动系表结构 `was ablaze with`）；句末 `despite the fact the house had no electricity at the time` 为**让步状语**（`despite the fact` + that 从句省略）。
 
-- 关键词：**approach"（走近；接近——`approach` 兼作名词与动词）；**light up"（亮起——`light` 作不及物动词）；**one after the other"（一个接一个——固定短语）；**be ablaze with"（充满； blazing——`ablaze` 为形容词，表「熊熊燃烧」）；**despite the fact"（尽管——`the fact` 后省略 that）；**no electricity"（没有电——`no` + 不可数名词）
+- 关键词：**approach**（（走近；接近——`approach` 兼作名词与动词）；**light up**（（亮起——`light` 作不及物动词）；**one after the other**（（一个接一个——固定短语）；**be ablaze with**（（充满； blazing——`ablaze` 为形容词，表「熊熊燃烧」）；**despite the fact**（（尽管——`the fact` 后省略 that）；**no electricity**（（没有电——`no` + 不可数名词）
 
 - 表达方式：**把一次显形写成一段有起止的程序**。先是逐扇亮起，直至通体，然后才补一句「而当时没有电」。
 
@@ -153,7 +153,7 @@ modified: "2026-09-30"
 
 - 句子结构：句首为**分词短语** `Judging from artifacts found with the mortal remains`（其逻辑主语是全句主语 cemetery）；主句为 `the cemetery dated to the 13th or 14th century`（`date to` 表「上溯至」）；句末 `long before the house had been built` 为**比较结构**（`long before` + 过去完成时）。
 
-- 关键词：**judge from"（据……判断——`judge` 的用法与 `judging from` 同）；**artifacts"（器物；人工制品——`artifact` 的复数）；**mortal remains"（遗骸——`mortal` 表「会死的」，`remains` 表「遗骸」）；**date to"（上溯到——`date` 作动词）；**long before"（远早于——`long` 强调时间间隔）；**had been built"（已经被建造——过去完成时被动）
+- 关键词：**judge from**（（据……判断——`judge` 的用法与 `judging from` 同）；**artifacts**（（器物；人工制品——`artifact` 的复数）；**mortal remains**（（遗骸——`mortal` 表「会死的」，`remains` 表「遗骸」）；**date to**（（上溯到——`date` 作动词）；**long before**（（远早于——`long` 强调时间间隔）；**had been built**（（已经被建造——过去完成时被动）
 
 - 表达方式：**用一个考古学的判据句完成全书的闭合**。前面是传说，这里是年代。
 
@@ -165,7 +165,7 @@ modified: "2026-09-30"
 
 - 句子结构：句首为**句首副词** `Perhaps`；主语为 `their discoveries` + 情态动词 `will help to` + **省略 to 的不定式** `finally lay the old spirits to rest`。
 
-- 关键词：**perhaps"（也许——本书全篇最常见的情态词之一）；**discovery"（发现（复数）——`discover` 的名词形）；**will help to"（将有助于——`help to` 表「有助于」）；**lay sb to rest"（使某人安息——固定习语，`lay` 的原形与过去式同形）；**the old spirits"（那些古老的灵魂——`old` 此处表「年代久远的」）
+- 关键词：**perhaps**（（也许——本书全篇最常见的情态词之一）；**discovery**（（发现（复数）——`discover` 的名词形）；**will help to**（（将有助于——`help to` 表「有助于」）；**lay sb to rest**（（使某人安息——固定习语，`lay` 的原形与过去式同形）；**the old spirits**（（那些古老的灵魂——`old` 此处表「年代久远的」）
 
 - 表达方式：**用一个推测句收尾一段发掘工作**。句子是全章倒数第二段的开头，而它的宾语是「灵魂」。
 
@@ -177,7 +177,7 @@ modified: "2026-09-30"
 
 - 句子结构：主句为被动 `The body was identified as` + 表语（`that of a man` 与 `aged between 20 and 25` 两个并列表语成分）；`which is too old to fit the story` 为**非限定性定语从句**（`too … to` 表「太……以致不能」）；`and there were no missing bones` 为并列分句。
 
-- 关键词：**be identified as"（被鉴定为——`identify` 的被动式 + `as` 表身份）；**aged between"（年龄在……之间——`aged` 此处作形容词「……岁的」）；**too old to"（太老了以致不能——`too … to` 表否定结果）；**fit"（符合；契合——`fit the story` 表「与故事相符」）；**missing bones"（缺失的骨头——`missing` 作形容词）
+- 关键词：**be identified as**（（被鉴定为——`identify` 的被动式 + `as` 表身份）；**aged between**（（年龄在……之间——`aged` 此处作形容词「……岁的」）；**too old to**（（太老了以致不能——`too … to` 表否定结果）；**fit**（（符合；契合——`fit the story` 表「与故事相符」）；**missing bones**（（缺失的骨头——`missing` 作形容词）
 
 - 表达方式：**用两个否证收尾整章**。第一个是年龄不合，第二个是骨头没缺。
 
@@ -189,7 +189,7 @@ modified: "2026-09-30"
 
 - 句子结构：句首为句首副词 `Perhaps`；主语为 `there are more bodies on the moor`（there be 存在句 + more）；句末 `waiting to be found` 为**分词短语**作后置定语修饰 bodies，内含被动不定式 `to be found`。
 
-- 关键词：**there are"（有——`there be` 存在句）；**more"（更多的——`more` + 复数名词）；**bodies"（尸体（复数）——全章反复出现；`on the moor` 表「在荒原上」）；**wait to be found"（等着被发现——分词 + 被动不定式）；**be found"（被发现——被动语态）
+- 关键词：**there are**（（有——`there be` 存在句）；**more**（（更多的——`more` + 复数名词）；**bodies**（（尸体（复数）——全章反复出现；`on the moor` 表「在荒原上」）；**wait to be found**（（等着被发现——分词 + 被动不定式）；**be found**（（被发现——被动语态）
 
 - 表达方式：**用一个存在句作全书最后一句**。句子没有主语的动作、没有解释，只有「有」与「等着」。
 
