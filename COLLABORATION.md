@@ -60,6 +60,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-09-30 15:48 UTC] [MinMax-Mac] → All
+
+**《Ghost Tales of the United Kingdom》（Charles River Editors 2018 / Sean McLachlan，20 章 + 总览三篇）完工 + 独立五步审查 a–e 完成**（完整 lane：有 epub + text/ 逐章提取件）
+
+- **体裁**：非虚构超自然史料汇编（抽检三章判定，无虚构人物/情节/POV）⇒ 非虚构论述档（概览 + 论证结构 + 10 处五子项 + 三档词汇 + 一句话总结），总览三篇为强制项
+- **规模**：20 章 md ＋ 总览三篇 ＝ 23 md；**md 20 == text 20** ✔；引语块 200 处、词条 576 条
+- **语料层**：本书 epub 为**单分册**（20 节全在 part0000.xhtml 内 362 KB），现成 extract_chapters.py 按 spine 取件只能吐 0–1 件；改按标题切分，件数真值取自 toc.ncx 27 navPoint 剔 7 装置页 ＝ 20，与正文标题节独立对账一致；verify_corpus FAIL 0 / WARN 0（40 个逐章独有实体锚点）
+- **完工门禁**：verify_quotes 245/245（100%）、干净 22/22 ｜ check_vocab FAIL 0 ｜ entities 0 ｜ corruption_scan FAIL 0 ｜ sweep_full 本章命中 200 / 跨章 0 / 拼接 0 / 查无 0 ｜ 逐章归属 **20/20 章全 10/10 命中本章 text** ｜ 总览 45/45 ｜ check_overview_full 查无 0 / 章节标签不符 0 / H1 语义错配 0 ｜ gate.sh 15 项 exit 0
+- **审查 a–e**：门禁全量重跑（不采信完工数字）全绿；b 步 20/20；c 步 **audit_structure 报 0 但独立子项复核抓到真缺陷**；d 步三个 `*_indep` 第二实现 + 93 处 chNN 引用与 29 处「chNN＋引语」**逐条回源**；e 步概述 32 条四类事实断言逐条回源 0 条无支撑、跨书污染 0 例
+- **审查结论：门禁全绿仍查出 4 处阻断型，已全部整改**（`298fd5f4`）
+  ① ch05 块⑨ 缺「表达方式」子项（`audit_structure` 的多数派推断漏报，靠 200 块逐块独立比对抓出）
+  ②–④ **总览层章节错标 3 处**：`00_金句精选.md` 一处把 ch05 的句子标成 ch19、⑦ 标 ch05 实为 ch03、⑯ 标 ch12 实为 ch09
+  —— 引语逐字正确（45/45 绿），错的只是**章号标注**；`verify_overview_quotes` 只验「在 epub 里」、`check_overview_full` 只验「逐字命中章==标注章」，**两者都不验标注对错**（标签对 ≠ 内容对）
+  另 2 处提示型（`check_vocab` 20 WARN 均为「论证结构表已排除」、`check_anchor` 18 条松散关键词）**只记不改**；3 条跨章引语补章号（已修，过程中一次自伤：章号插在引号前会破坏抽取格式，提取数 20→17，由门禁掉数暴露）
+- **【跨书】门禁工具修复**（`98592009`）：`check_struct_indep.py` 与 `gate.sh` ⑬ 把必备节/子项集/引语格式/块数配额**锁死在言情·精简档**，对**每一本非虚构论述档书籍全量假红**（本书 140 处「缺陷」而真实缺陷 0；`gate.sh` ⑬ 20 章全红）。已改为**按体裁档位判定**＋节名双档兼容（`## 本章导航` 或 `## 概览`）。**30 本随机抽样回归：变好 15 ｜ 变坏 0 ｜ 不变 15**（hbr-women-at-work 2921→119、what-grows-in-the-dark 872→0、the-do-over 860→0）；认不出档位的书**退回旧行为**，不套用别档判据
+- **commit**：本书 23 次 + 工具修复 1 次，**本地领先 origin/main，未 push**（按 push 红线等指令）
+- ⚠️ **同会话审查已知盲区**：说话人/人物正确性无逐块穷举（`check_speaker_consistency.py` 实测约 1/3 假阳，只能人判，本次未做）｜词汇 576 条未纳入语义二审（只验逐字性，未验释义恰当）｜三个 `*_indep` 与 `check_overview_full` 各只验过极少书目，其口径本身可能有未暴露的假阳/假阴
+- 明细见工作日志本书专节；逐行门禁输出 `.memory/raw-gates/ghost-tales-of-the-united-kingdom/`（`review-a-gates.txt` / `review-postfix.txt`）
+
 ### [2026-09-30 18:40 UTC] [ZCode-Mac] → All
 
 **cibola-burn-by-james-s-a-corey｜Cibola Burn（James S. A. Corey，The Expanse #4）全书完工**（完整 lane：有 epub + text/ 64 件）
@@ -67,9 +86,10 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - **规模**：正文 64 章（Prologue + Ch1–56 + 6 段 Investigator 插叙 + Epilogue，POV 轮转：Basia/Elvi/Havelock/Holden + 调查者六段）+ 总览三篇（概述 / 金句 25 条 / 情感节点 10 节点）= **67 md**（md 67 ↔ text/ 64 件对账齐）
 - **第 3 条门禁（全量）**：verify_quotes **497/497（100%）· 65/65 文件完全干净**｜check_chapter_quotes 逐章 8/8 零跨章｜check_vocab **FAIL 0**｜check_entities **0 未知实体**｜corruption_scan **FAIL 0**｜sweep_full（整串 flat）**跨章 0 · 拼接 0 · 查无 0**｜check_short_quotes 16/16
 - **总览门禁**：verify_overview_quotes **42/42**（概述行内引语人工 grep 5/5）｜check_overview_full 整串 0 异常 · 章节标签 0 不符 · H1 语义 0 错配｜三篇经 gen_overview 从已核实引语池生成（本书专属模板入 .overview_templates/，零手打英文）
-- **commit**：正文逐章 64 次 + 总览/修复批 2 次，**本地领先 origin/main，未 push**（等用户指令）
+- **commit**：正文逐章 64 次 + 缺陷小修复 9 次 + 总览/导航批 1 次 = **74 次**（`git log -- <书目录>` 实测），**本地领先 origin/main，未 push**（等用户指令）
+- **门禁抓出自伤**：24 处（引语词替换伪造 3 · 跨段拼接 3 · 专名拼写 4 · A 类虚构词头 1 · 占位/垃圾行 5 · 中英交界 6 · 导航层 2），已全部回改复验；详见工作日志
 - **结论**：全书完工，门禁全绿，可交付独立五步审查（由用户发起）
-- **明细**：原始门禁输出见工作日志 2026-09-30 本书条目
+- **明细**：原始门禁输出与 24 处自伤逐条修复记录见工作日志 `.memory/daily/2026-09-30.md` 本书条目
 
 ### [2026-09-30 18:20 UTC] [ZCode-Mac] → All
 
