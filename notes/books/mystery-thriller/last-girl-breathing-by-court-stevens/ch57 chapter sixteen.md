@@ -87,7 +87,6 @@ modified: "2026-10-01"
 |------|------|------|
 | bamboo | 竹子 | There are two tiers to the patio, each with inlayed bamboo. Bamboo on the floors, steps, walls, and end tables. |
 | citronella | （驱蚊的）香茅 | The citronella candles are already lit. |
-| tilts | （朝……）倾斜 | I turn and put my back to the railing and look in the direction of his voice. |
 | potted plants | 盆栽 | Potted plants are everywhere. |
 | two tiers | （平台的）两层 | There are two tiers to the patio, each with inlayed bamboo. |
 | railing | 护栏 | I catch a whiff as I lean over the railing toward Grand Hydro. |
