@@ -54,7 +54,7 @@ modified: "2026-09-30"
 
 **中文理解**：三个人笑到发抖又同时在哭，脸皱得像放久了的桃子；作者收口说，他们是一团 hot mess。
 **关键词**：laugh-sobbing, crumple-wrinkled like old peaches, They’re a hot mess
-**为什么这样写**：这句里叠了三种语体：造出来的复合词 laugh-sobbing、比喻 crumple-winkled like old peaches、以及彻底口语的 They’re a hot mess。三层叠加不是炫技，而是这桌人此刻的状态本身——谁也不知道该笑还是该哭。
+**为什么这样写**：这句里叠了三种语体：造出来的复合词 laugh-sobbing、比喻 crumple-wrinkled like old peaches、以及彻底口语的 They’re a hot mess。三层叠加不是炫技，而是这桌人此刻的状态本身——谁也不知道该笑还是该哭。
 **读者视角提示**：hot mess 是口语标签，注意它紧跟在比喻后面——比喻负责给画面，口语标签负责把画面收掉。
 
 > **原句 7:** "‘Ah, Ethan,’ says Faith as they are finally regaining their composure. She is looking over her shoulder. ‘Do you know that guy? Because he looks kind of . . . mad with you.’"

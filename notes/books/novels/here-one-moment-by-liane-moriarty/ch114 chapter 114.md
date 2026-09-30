@@ -53,15 +53,15 @@ modified: "2026-09-30"
 > **原句 6:** "She has become so self-absorbed, for a moment she literally forgot about this woman’s terrible loss. She should be reaching across the table for her hand and saying, ‘How are you?’"
 
 **中文理解**：面对旧同事的追问，Paula 一出口就知道语气不对——她太过专注于自己的心事，一时竟忘了这个女人也刚失去至亲；换个人早该伸手过去说那句 How are you?
-**关键词**：so self-absorbed, literally forgot, terrible loss, reaching across the table
-**为什么这样写**：作者把她的失礼写成一次具体的失误：忘了伸手。should have been reaching 在这里既是道德判断，也是动作指导，读者能看见她本该做而没做的那个手势。
+**关键词**：so self-absorbed, literally forgot, terrible loss
+**为什么这样写**：原文用 so self-absorbed 与 literally forgot 两次点破：失礼不是恶意，是心思先走到了别处。整句里没有任何补救动作，也没有道歉——缺口就留在那儿。
 **读者视角提示**：接下来她补了一句 I should have called——她能向人道歉社交的疏忽，却对桌上那叠纸一句不让。两种愧疚并置才是她此刻的状态。
 
 > **原句 7:** "‘She and her husband were best friends with my parents.’"
 
 **中文理解**：对方刚报出 Cherry Lockwood 的名字，Stephanie 的头立刻转了过来，说自己认识她——她和她丈夫曾与她父母是最好的朋友。
 **关键词**：I know Cherry Lockwood, best friends with my parents
-**为什么这样写**：引语之前先写了一个动作 her head snaps back around，句子本身才来。作者让身体反应先于语言出现，说明这句话对她不是意外，而是牵出一段旧关系。
+**为什么这样写**：引语之前先写了一个动作 Stephanie’s head snaps back around，句子本身才来。作者让身体反应先于语言出现，说明这句话对她不是意外，而是牵出一段旧关系。
 **读者视角提示**：本章到这句为止，Paula 才第一次知道那个说自己能预言的人有名字，也才第一次和对方的旧关系接上头；这条线下一章还会继续。
 
 ## 本章词汇

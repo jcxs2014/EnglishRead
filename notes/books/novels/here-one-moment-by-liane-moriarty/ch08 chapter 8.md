@@ -26,7 +26,7 @@ modified: "2026-09-30"
 
 **中文理解**：她把背挺直，抹了口红的嘴唇抿了一下，看着镜子里自己的脸切进工作模式：专业、礼貌、别惹我。
 **关键词**：straightens her back, lipsticked lips, go into work mode, professional, polite, do not fuck with me
-**为什么这样写**：冒号后三个词一个比一个短，最后一个干脆是粗口，句子在最后一步突然下沉。watch her face in the mirror go into work mode 把「切换状态」写成一个看得见的动作，而不是一句心理描写。
+**为什么这样写**：冒号后三个词一个比一个短，最后一个干脆是粗口，句子在最后一步突然下沉。watches her face in the mirror go into work mode 把「切换状态」写成一个看得见的动作，而不是一句心理描写。
 **读者视角提示**：do not fuck with me 是本章的口语锚点——后面她对乘客说的每一句客套话都是它的反面。
 
 > **原句 3:** "A small grey-haired lady is midway down the plane, pointing at passengers on both sides of the aisle one by one, as if she’s assigning tasks. It’s clear she is leaving ripples of mild consternation in her wake. Virtually every single head turns to watch her progress."

@@ -60,7 +60,7 @@ modified: "2026-09-30"
 > **原句 7:** "Ethan Chang is so very, very sorry for his loss."
 
 **中文理解**：本章最后一行，是他自己对自己说了那句葬礼上说了无数遍的话。
-**关键词**：Ethan Chang, so very, very sorry for your loss
+**关键词**：Ethan Chang, so very, I’m so sorry for your loss
 **为什么这样写**：把 funeral etiquette 里那句套话原样搬到结尾，主语换回他自己；客套话在葬礼上是流程，在这里成了自嘲式的收束。
 **读者视角提示**：本章以他自己认领这句套话收束；而他正哭得连眼镜都起雾：His glasses are fogging up.
 

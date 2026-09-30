@@ -32,7 +32,7 @@ modified: "2026-09-30"
 > **原句 3:** "The woman who was pregnant on the plane, the one who had been refusing treatment because she believed it would make no difference, decided to accept her oncologist’s advice. She is now cancer-free. Her husband wrote me a very nice letter telling me I’d saved his wife’s life and enclosed a photo of their sweet, enormous baby."
 
 **中文理解**：第一个落空的例子：那位在飞机上因为觉得治疗无用而拒绝治疗的孕妇改变了主意，听从了肿瘤科医生的建议，如今已经痊愈；她丈夫写信说是这位老妇救了他妻子，还附上一张照片。
-**关键词**：was pregnant on the plane, refusing treatment, accepted her oncologist’s advice, cancer-free, enclosed a photo
+**关键词**：was pregnant on the plane, refusing treatment, decided to accept her oncologist’s advice, cancer-free, enclosed a photo
 **为什么这样写**：把「救命」这件事算到说话人头上，用一封信和信里的一张照片把这份感激落实；讽刺的锋刃藏在叙述者对自身作用的转述里。
 **读者视角提示**：注意这是「预言落空反而救人」的第一例，本章的论证由此从「她算错了」转向「她算错是要付代价的」。
 
