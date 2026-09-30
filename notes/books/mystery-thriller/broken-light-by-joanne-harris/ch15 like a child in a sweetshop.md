@@ -27,7 +27,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 2:** "I stole a sausage roll because I was feeling hungry. And now I am so hungry for love, and this feels so right that it’s dangerous"
+> **原句 2:** "I stole a sausage roll because I was feeling hungry. And now I am so hungry for love, and this feels so right that it’s dangerous."
 
 **中文理解**： 我偷那份香肠卷，是因为饿了。而现在我如此饥饿于爱，这感觉对得让我害怕。
 

@@ -27,7 +27,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 2:** "Bernie Moon looked frumpy in a black dress that looked like it belonged to her mum. I didn’t know she was pregnant then. All I knew was that I felt invincible, ready to face the future with head held high, and a smile on my face."
+> **原句 2:** "There are pictures of me still on the Pog Hill Facebook page. I looked a knockout. I was wearing a backless lamé dress cut low to the very small of my back, and although it had quite a high neckline, I knew it was making people stare. Bernie Moon looked frumpy in a black dress that looked like it belonged to her mum. I didn’t know she was pregnant then. All I knew was that I felt invincible, ready to face the future with head held high, and a smile on my face."
 
 **中文理解**： 照片里她自己那条露背 lamé 礼服正让人盯着看，而伯妮·穆恩穿一条黑裙，像是她妈妈的衣服。她顺手补一句「那时我还不知道她怀孕」，然后把镜头按回自己：不可战胜、昂着头、带着笑面向未来。
 
@@ -95,7 +95,7 @@ modified: "2026-09-30"
 | boyfriend | 男朋友 | I didn’t steal Bernie’s boyfriend. |
 | ankle | 脚踝 | He was supposed to be dating Amanda Bond, but she’d broken her ankle playing hockey, and wasn’t coming to the prom. |
 | caretaker | 看门人、校工 | He was only the caretaker’s boy. |
-| evening | 夜晚；此处指舞会之夜的 starring 义 | I was the star of the evening. |
+| evening | 夜晚；此处指舞会当晚的主角那句说法 | I was the star of the evening. |
 | prom | （中学的）毕业舞会 | I had a boyfriend of my own – Simon Naylor, whose family owned property on Millionaire’s Row – and he was taking me to the prom in his dad’s Lexus. |
 | subjects | 科目（英式用法：指学校里的学科） | She was top in all her subjects. |
 | hockey | 曲棍球 | He was supposed to be dating Amanda Bond, but she’d broken her ankle playing hockey, and wasn’t coming to the prom. |

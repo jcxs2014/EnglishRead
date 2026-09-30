@@ -15,7 +15,7 @@ modified: "2026-09-30"
 
 ## 精读
 
-> **原句 1:** "Don’t think of it as stealing,’ she said. ‘Think of it as doing your bit to redress the balance of inequality. You know all that high-end stuff’s made in a sweatshop in China or somewhere. Besides, everyone knows that designers are falling over each other to get stars to wear their dresses. That guy was practically begging me as soon as I mentioned the MTV Awards."
+> **原句 1:** "‘Don’t think of it as stealing,’ she said. ‘Think of it as doing your bit to redress the balance of inequality. You know all that high-end stuff’s made in a sweatshop in China or somewhere. Besides, everyone knows that designers are falling over each other to get stars to wear their dresses. That guy was practically begging me as soon as I mentioned the MTV Awards."
 
 **中文理解**： Iris 给偷窃找的第一个理由是拉平不平等：那些高单价的东西本来就是在某个 sweatshop 里做出来的，而且设计师巴不得有明星穿；她一提到 MTV Awards，那个店员就已经在求她了。
 

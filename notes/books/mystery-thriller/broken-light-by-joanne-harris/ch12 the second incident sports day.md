@@ -8,14 +8,14 @@ modified: "2026-09-30"
 ## 本章导航
 
 - **一句话概括**：1992 年的夏天，十三岁的 Kate 在运动日上讲述「第二次事件」的起点：跑得最快的 Grace 在四百米中途像撞上墙一样停住、摔下 Sports Day 冲出校门，而真正站在原地脸色发白、手按着下腹的人，是从不参赛的 Bernie——Kate 把它误读成了初潮带来的疼痛。
-- **情感弧线位置**：从「旁观者的羞愧」到「共情刚刚成形」。这一章把 2022 线里那个被指控的女孩，还原成一个坐在草地上远远看别人跑步、被同学造谣的十三岁孩子。
-- **线索伏笔**：① 观看时那股 strange intensity、发红的脸与突然加快的呼吸；② Grace 冲出校门时那声 Never! Never again!；③ 初潮与能力开关在同一天打开；④ Kate 反复回到的 darkened cellar 愧疚意象；⑤ 下一学期 Mr D 的 gruesome 下场，而没有人把它与 Bernie 联系起来。
+- **情感弧线位置**：从「旁观者的羞愧」到「共情刚刚成形」。这一章把 2022 线里那个被所有人绕开的女孩，还原成一个坐在草地上远远看别人跑步、被同学造谣的十三岁孩子。
+- **线索伏笔**：① 观看时那股 strange intensity、发红的脸与突然加快的呼吸；② Grace 冲出校门时那声 Never! Never again!；③ 初潮在这一天到来（能力随初潮开关的说法写在 ch13 里，两件事要读者自己接上）；④ Kate 反复回到的 darkened cellar 愧疚意象；⑤ 下一学期 Mr D 的 gruesome 下场，而没有人把它与 Bernie 联系起来。
 - **人物弧线**：Kate 十三岁时把愧疚算成「我是不是本可以多做一点」，四十多岁写下这一段时仍在做同一道算术；而被钉住的 Bernie 在本章里只有两句台词，是全书「在场但不说话」的人形。
 - **叙事手法**：节选体证词。开头一句话先交出记忆的缺口，随后大量校园程序词与体育术语把叙述压成档案语气；跨线插入——前一章 ch11 是 2022 线，后一章 ch13 又切回 2022 线。
 
 ## 精读
 
-> **原句 1:** "I wish I could give you more details about The Second Incident. But I was just thirteen years old. I had troubles of my own"
+> **原句 1:** "I wish I could give you more details about The Second Incident. But I was just thirteen years old. I had troubles of my own."
 
 **中文理解**： 叙述者一开口就在为「第二次事件」缺细节道歉：当时她才十三岁，自己也一堆麻烦在身。一件后来被编入编号的事，先被她降级成一个十三岁孩子讲不清楚的插曲。
 
@@ -27,7 +27,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 2:** "When she ran, she became something else; something more than beautiful. Watching her run, you could almost believe that girls could be cheetahs and gazelles"
+> **原句 2:** "When she ran, she became something else; something more than beautiful. Watching her run, you could almost believe that girls could be cheetahs and gazelles."
 
 **中文理解**： 跑起来的时候，她变成了另一样东西，比漂亮更甚；看着她跑，你几乎可以相信女孩也能是猎豹和瞪羚。
 
@@ -39,7 +39,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 3:** "Instead, she just watched us run, with a strange intensity that made me quite uncomfortable. I can’t really tell you why it was weird. It just was. Her face would go pink. Sometimes her breathing would quicken, so that by the end of the race she was as out of breath as any of the runners"
+> **原句 3:** "Instead, she just watched us run, with a strange intensity that made me quite uncomfortable. I can’t really tell you why it was weird. It just was. Her face would go pink. Sometimes her breathing would quicken, so that by the end of the race she was as out of breath as any of the runners."
 
 **中文理解**： 她从不加入，只是看着我们跑，那股奇怪的专注让我挺不舒服；她的脸会发红，有时呼吸会变快，到比赛结束她喘得和任何一个选手一样厉害。
 
@@ -51,7 +51,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 4:** "Bernie was sitting on the grass fifty yards away from me. There was a space around her, as if she were a stone that had been thrown into a puddle. Beyond it, the other girls sat in groups, or talked, or did stretches. For the first time in three years, I felt a little sorry for Bernie"
+> **原句 4:** "Bernie was sitting on the grass fifty yards away from me. There was a space around her, as if she were a stone that had been thrown into a puddle. Beyond it, the other girls sat in groups, or talked, or did stretches. For the first time in three years, I felt a little sorry for Bernie."
 
 **中文理解**： Bernie 坐在离我五十码远的草地上。她周围空出一圈，像一块扔进水坑的石头；再往外，别的女孩三五成群、聊天、拉伸。而我三年来头一次，对她生出一点歉意。
 
@@ -63,7 +63,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 5:** "I remember the way she stopped – abruptly, as if she’d hit a wall. Some of the other girls slowed down too, then speeded up reluctantly, like cars in the wake of a motorway crash"
+> **原句 5:** "I remember the way she stopped – abruptly, as if she’d hit a wall. Some of the other girls slowed down too, then speeded up reluctantly, like cars in the wake of a motorway crash."
 
 **中文理解**： 我记得她停下来的样子——突然，像撞上了一堵墙。别的女孩也慢下来，又不情愿地加速，像高速公路上追尾之后的车流。
 
@@ -71,7 +71,7 @@ modified: "2026-09-30"
 
 **为什么这样写**： hit a wall（撞墙）是身体最本能的借口：一个正在全速冲刺的人不会因为累而急停。第二句把观众席的反应也写成事故现场之后的机械动作——slowed down 又 speeded up reluctantly，追尾车流里谁都不敢第一个停下来。reluctantly 这个副词承担了整段的判决：这些人并非冷血，只是被吓住了。
 
-**读者视角提示**： 「撞墙」是这一段给出的解释，而这一段的叙述者离现场最远——记住这个距离，它是本案的第一个谎。
+**读者视角提示**： 「撞墙」是这一段给出的解释，而给出解释的人离现场最远——记住这段距离，它是本章的盲区。
 
 ---
 
@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 **关键词**： the sound of her voice on the wind（她的声音顺风传过来）· Never! Never again!（不！永远不要了！）
 
-**为什么这样写**： 全章最短的一段证词，却是被听见的唯一一句直接引语：叙述者只拿到声音，没拿到脸、没拿到语境，于是这两个词只能靠猜测去填。Never 与 again 各自重复一次，节奏像被打断的话——她要拒绝的不是这一次跑，是这一整件事。书名里的光要熄了，而她喊的是「不要」。
+**为什么这样写**： 全章最短的一段证词，却是被完整转述下来的一句喊话：叙述者只拿到声音，没拿到脸、没拿到语境，于是这两个词只能靠猜测去填。Never 与 again 各自重复一次，节奏像被打断的话——她要拒绝的不是这一次跑，是这一整件事。书名里的光要熄了，而她喊的是「不要」。
 
 **读者视角提示**： 记住这两个否定词：她否定的不是自己，而是刚刚发生过的那件事。
 
@@ -99,7 +99,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 8:** "‘If this is growing up,’ she said, ‘I think it’s overrated"
+> **原句 8:** "‘If this is growing up,’ she said, ‘I think it’s overrated.’"
 
 **中文理解**： 「如果这就叫长大，」她说，「那我觉得它被吹得太好了。」
 

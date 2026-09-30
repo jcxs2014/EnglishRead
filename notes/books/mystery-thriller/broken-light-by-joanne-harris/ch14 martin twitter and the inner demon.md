@@ -15,7 +15,7 @@ modified: "2026-09-30"
 
 ## 精读
 
-> **原句 1:** "Martin and I have a Sunday routine. It goes more or less like this. I get up at eight o’clock, go for a walk, take a shower, maybe do some quiet housework, like dusting or washing the windows"
+> **原句 1:** "Martin and I have a Sunday routine. It goes more or less like this. I get up at eight o’clock, go for a walk, take a shower, maybe do some quiet housework, like dusting or washing the windows."
 
 **中文理解**： 我和 Martin 的周日有一套流程，大致这样：八点起床、散步、洗澡，也许做点安静家务，比如掸灰或擦窗户。
 
@@ -27,7 +27,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 2:** "I can always tell when he’s stressed; this morning he seemed to crackle with a kind of furious energy"
+> **原句 2:** "I can always tell when he’s stressed; this morning he seemed to crackle with a kind of furious energy."
 
 **中文理解**： 我总能看出他什么时候压力大；今天早上他身上噼啪作响，像带了一种愤怒的能量。他弓着背扑在笔记本上，我进门他都没抬头，我放好的那壶咖啡原封没动。
 
@@ -51,7 +51,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 4:** "In its place, I could feel a mounting sense of danger, like the approach of a thunderstorm, and with it, the return of that rage, like a dog that has been fed before, and needs no more encouragement"
+> **原句 4:** "In its place, I could feel a mounting sense of danger, like the approach of a thunderstorm, and with it, the return of that rage, like a dog that has been fed before, and needs no more encouragement."
 
 **中文理解**： 取而代之的，是一阵越来越近的危险感，像雷暴逼近；而随它一起回来的，还有那股怒气——像一条早就喂过、现在连哄都不用的狗。
 
@@ -75,7 +75,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 6:** "Fuck that. Let’s get more of that dopamine"
+> **原句 6:** "Fuck that. Let’s get more of that dopamine."
 
 **中文理解**： 去他的。去找多点那种多巴胺回来。
 

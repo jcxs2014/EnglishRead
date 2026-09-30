@@ -31,7 +31,7 @@ modified: "2026-09-30"
 
 **中文理解**： 她把自己第三年英文老师的评语原文念了出来：肯下功夫、做事认真，就是缺乏想象力。她接着说，那是一个可以理解的错误。
 
-**关键词**： hard-working and conscientious（肯下功夫又认真）· but she lacks imagination（但缺乏想象力）· an understandable mistake（一个可以理解的误会）
+**关键词**： a school report（一份校方评语）· hard-working and conscientious（肯下功夫又认真）· but she lacks imagination（但缺乏想象力）
 
 **为什么这样写**： 报告里的 but 是转折，读者却读到的是一份误诊：她把自己「不再信超自然故事」当成性格描述，而下一段她说明那其实是一次创伤后的自我阉割。引号里的原话逐字保留，是这一节体裁（出版节选）的特权，也是它的责任。
 

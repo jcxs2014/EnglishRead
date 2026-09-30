@@ -65,9 +65,9 @@ modified: "2026-09-30"
 
 > **原句 5:** "I saw his perfect projections – his highly paid job, his collection of shirts from Jermyn Street, his cabinet of first editions and his carefully curated circle of not-quite-friends."
 
-**中文理解**： 我看见他那些完美的投射物——那份高薪工作、他在 Jermyn Street 买的成衬衫、他的初版本书柜，以及他那圈精心经营出来的、算不上朋友的人。而在那背后，我看见了他所有的门——他的秘密、他的不安全感、那些映出他真面子的镜子——我像翻扑克牌一样把它们全翻了。我让他看清自己有多小。我让他看见他那些同侪的毫无价值、他们价值观的空洞。我感觉像 The Great Carovnik，被镜子包围着，占据舞台，微笑着，浸在掌声里。
+**中文理解**： 我看见他那些完美的投射物——那份高薪工作、他在 Jermyn Street 买的衬衫、他的初版本书柜，以及他那圈精心经营出来的、算不上朋友的人。而在那背后，我看见了他所有的门——他的秘密、他的不安全感、那些映出他真面子的镜子——我像翻扑克牌一样把它们全翻了。我让他看清自己有多小。我让他看见他那些同侪的毫无价值、他们价值观的空洞。我感觉像 The Great Carovnik，被镜子包围着，占据舞台，微笑着，浸在掌声里。
 
-**关键词**： his perfect projections（他那些完美的投射物）· his collection of shirts from Jermyn Street（他在 Jermyn Street 买的成衬衫）· his carefully curated circle of not-quite-friends（精心经营出来的、算不上朋友的圈子）· his doors – his secrets, his insecureties（他的门——他的秘密与不安全感）· surrounded by mirrors（被镜子包围着）
+**关键词**： his perfect projections（他那些完美的投射物）· his collection of shirts from Jermyn Street（他在 Jermyn Street 买的衬衫）· his carefully curated circle of not-quite-friends（精心经营出来的、算不上朋友的圈子）· his doors – his secrets, his insecurities（他的门——他的秘密与不安全感）· surrounded by mirrors（被镜子包围着）
 
 **为什么这样写**： 投射物（projections）一词先给出他如何被建造出来（高薪、衬衫、初版本、圈），随后 the doors 把他的内里拆成一扇扇可翻的门；两个清单用 but / And behind them 硬接，动作是「翻牌」——所以后面那句 Great Carovnik 的比喻不是抒情，是对她刚才那套操作的描述。
 

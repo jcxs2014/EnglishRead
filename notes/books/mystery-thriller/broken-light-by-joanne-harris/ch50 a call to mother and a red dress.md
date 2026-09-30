@@ -11,13 +11,13 @@ modified: "2026-09-30"
 - **情感弧线位置**：全书家庭线压到最低点的一章：母亲那边是纯粹的旧账与拒绝，Iris 这边是纯粹的邀约与肯定，两股压力在同一上午合流，而她第一次允许别人替自己做决定。
 - **线索伏笔**：① 母亲当面点出她两年没上门，还提到 Dan 与 Katie 那一支；② 母亲说 Katie 与 Lucas 也会到场，指的是六月的同学会；③ 她冒出的念头是自己可以「修好」母亲——全书最危险的一次自认；④ 红裙已经在手，鞋还欠着。
 - **人物弧线**：她把母亲当成一件可以修好的故障品（I could fix my mother），也终于承认自己被别人当了枪使；同一天她两次说 SHUT UP，一次说出口，一次只在心里。
-- **叙事手法**：长章（正文约一万二千字符），一通电话、一场跑步、一次购物三段推进。母亲的话全部用单引号独立成段，Iris 的插科打诨则与叙述者的句子混在同一段——两种压力靠段落密度分开。
+- **叙事手法**：长章，一通电话、一场跑步、一次购物三段推进；母亲的话全部用单引号独立成段，Iris 的插科打诨则与叙述者的句子混在同一段——两种压力靠段落密度分开。
 
 ## 精读
 
 > **原句 1:** "At last, I called my mother today. I’ve been putting the call off since Easter. Martin, being an orphan, doesn’t have this problem. I sometimes find myself envying him. And then I feel guilty, because she tried. She did her best to shield me. But a shield is hard. It has to be. And I needed her softness. So now we are both hard, and polished, and bright, reflecting back at each other."
 
-**中文理解**： 她把搁了自复活节以来的一通电话终于打了出去。她羡慕没有这层包袝的马丁，转头又自责——母亲已经尽力，只是盾牌的材质注定是硬的，而她需要的是那份柔软。于是两个人都变得又硬、又亮，像两面镜子对着照。
+**中文理解**： 她把搁了自复活节以来的一通电话终于打了出去。她羡慕没有这层包袱的马丁，转头又自责——母亲已经尽力，只是盾牌的材质注定是硬的，而她需要的是那份柔软。于是两个人都变得又硬、又亮，像两面镜子对着照。
 
 **关键词**： putting the call off since Easter（从复活节起一拖再拖）· She did her best to shield me（她尽力护着我）· reflecting back at each other（彼此对镜反照）
 

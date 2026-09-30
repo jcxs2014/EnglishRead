@@ -39,7 +39,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 3:** "It felt like you’d shone a spotlight on me. No – right into me. One moment I was dopey as hell, and the next I felt like I’d drunk ten espressos. Nothing works that fast. If it did, every coffee shop in London would go out of business."
+> **原句 3:** "It felt like you’d shone a spotlight on me. No – right into me. One moment I was dopey as hell, and the next I felt like I’d drunk ten espressos. Nothing works that fast. If it did, every coffee shop in London would go out of business.’"
 
 **中文理解**： 那感觉像你在我身上打了一束追光——不，是直接照进了我身体里。前一刻我还昏昏沉沉，下一刻就像灌了十杯意式浓缩；要是真能这么快见效，伦敦每一家咖啡店都得倒闭。
 
@@ -51,7 +51,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 4:** "My curious ability – which left with the arrival of my first menstrual blood, and has returned now, with the end of it – is something that even I barely understand. It can be good, even harmless. A looking inside other people. But it’s a lens that can also burn"
+> **原句 4:** "My curious ability – which left with the arrival of my first menstrual blood, and has returned now, with the end of it – is something that even I barely understand. It can be good, even harmless. A looking inside other people. But it’s a lens that can also burn."
 
 **中文理解**： 我那点好奇的能力——它曾经随着初潮的到来离开，又随着初潮的结束回来——连我自己都还没太弄明白。它可以是好的、甚至无害的：往别人里面看一眼。但它也是一片会灼伤的镜片。
 
@@ -63,7 +63,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 5:** "But this one was hot and greasy and good; and it was good to enjoy it from inside this passing stranger’s house without the smallest sense of guilt. There are whole rooms in my house devoted to guilt and self-hatred; whole galleries of unflattering selfies; forbidden fruits; whole food groups labelled Danger"
+> **原句 5:** "But this one was hot and greasy and good; and it was good to enjoy it from inside this passing stranger’s house without the smallest sense of guilt. There are whole rooms in my house devoted to guilt and self-hatred; whole galleries of unflattering selfies; forbidden fruits; whole food groups labelled Danger."
 
 **中文理解**： 可这一份又热又油又好吃；而且能从一个路人的家里、毫无愧色地享用掉，这感觉真好。我家里有整间屋子专门供奉愧疚与自我憎恶，整面墙是不修边幅的自拍、禁果、整类整类贴着危险标签的食物。他的家不一样。在他的家里，吃饭是件必须做的事。
 
@@ -87,7 +87,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 7:** "I should have tried something harder"
+> **原句 7:** "I should have tried something harder."
 
 **中文理解**： 我应该试试更难一点的。
 

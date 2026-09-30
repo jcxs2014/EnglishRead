@@ -93,7 +93,7 @@ modified: "2026-09-30"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | ozone | 臭氧（保护层的气体；此处与烟花、烧纸并列为「变化的气味」） | There’s something in the air today; a sense of possibility; something that smells of fireworks, and burning paper, and ozone, and change. |
-| footnote | 脚注（脚上那一行小字；her own footnote 指被排在边角的人生） | I feel as if, for the first time, I could take control of my life: be the hero of my story, instead of a sad little footnote. |
+| footnote | 脚注（脚上那一行小字；a sad little footnote 指被排在边角的人生） | I feel as if, for the first time, I could take control of my life: be the hero of my story, instead of a sad little footnote. |
 | nurture | 养育、抚育（此处是母亲塑造儿子的动词） | In spite of all my attempts to nurture my son’s softer side, he remained stubbornly, predictably masculine. |
 | dominant | 占主导地位的（dominate 的形容词） | I loved him – and I still do – with a fierce kind of desperation, but my mother’s influence remains the dominant one in my son’s life. |
 | masculine | 男性气质的（masculine；反义为 feminine） | In spite of all my attempts to nurture my son’s softer side, he remained stubbornly, predictably masculine. |

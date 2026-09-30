@@ -85,7 +85,7 @@ modified: "2026-09-30"
 | glimpses | 一瞥（名词复数） | My glimpses into her house suggest that, yes, it’s likely to be her. |
 | mothering | 母性行为、母性的照顾 | It’s surely nothing as basic as the mothering instinct. |
 | rebellion | 反叛、反抗感 | And yet, the part of me that bought those running shoes and sports bra feels a twinge of rebellion. |
-| needling | 刺人的、恼人的（a needling voice 尖刻细小的声音） | You could do those things yourself, it says in a tiny, needling voice. |
+| needling | 刺人的、恼人的（a tiny, needling voice 尖刻细小的声音） | You could do those things yourself, it says in a tiny, needling voice. |
 | Marathon | 马拉松（此处首字母大写指具体赛事） | I could even learn how it feels to run the London Marathon. |
 
 ### ⭐ 基础
