@@ -109,7 +109,7 @@ modified: "2026-10-01"
 |------|------|------|
 | folder | （文件）夹 | One labeled Tamerlane. The other Dam Footage. |
 | dam | 水坝 | I’m going to show you the grate now.” |
-| grate | 栅栏（格） | He’s hoping to create slow, imperceptible damage that will eventually cause this dam to fail. |
+| grate | 栅栏（格） | blocking the LaRue Dam with a metal grate. |
 | footage | （影像）资料 | I click back to the front and choose Dam Footage. |
 | fifty thousand | 五万美元 | Two hundred fifty thousand dollars upon installation. |
 
