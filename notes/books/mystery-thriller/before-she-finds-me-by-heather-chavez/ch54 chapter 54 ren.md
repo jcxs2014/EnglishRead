@@ -45,7 +45,7 @@ modified: "2026-09-30"
 
 **关键词**：wished anew / she wavered / reminding her of the stakes / There was nothing more important than her daughter / Julia would understand that too
 
-**为什么这样写**：这是全章的支点，也是本书反复出现的自我说服范式：`wished anew` 承认这不是第一次这么想，`wavered` 承认动摇真的发生过；紧跟的 `Then` 一转，胃立刻接管——身体被写成随身携带的良心。最后一句把 Julia 直接写进这笔交易：杀人者需要被害人「也能理解」，这是把谋杀改写成协议的典型句法。
+**为什么这样写**：这是全章的支点，也是本书反复出现的自我说服范式：`wished anew`（anew 即「再一次」）承认这种念头不是新冒出来的，`wavered` 承认动摇真的发生过；紧跟的 `Then` 一转，胃立刻接管——身体被写成随身携带的良心。最后一句把 Julia 直接写进这笔交易：杀人者需要被害人「也能理解」，这是把谋杀改写成协议的典型句法。
 
 **读者视角提示**：在本章之内，Ren 说 Julia 会理解，但 Julia 没有说过一句话可以被理解为同意——这个不对称是整章唯一的裂缝。
 
@@ -57,7 +57,7 @@ modified: "2026-09-30"
 
 **关键词**：She’d planned on meeting him / with Julia gone / she would have to pivot
 
-**为什么这样写**：`pivot`（转向、改弦）是商业词，作者用它收束一个绑架者的行动说明，把一场绑架写成了项目调整。`with Julia gone` 用介词短语把「人不见了」当既成条件处理，不解释、不懊悔——本章唯一一次提及 Julia 已经脱身，语气平得像换了个会议室。
+**为什么这样写**：`pivot`（转向、改弦）是商业词，作者用它收束一个绑架者的行动说明，把一场绑架写成了项目调整。`with Julia gone` 用介词短语把「人不见了」当既成条件处理，不解释、不懊悔——这里提到 Julia 已经脱身，语气平得像换了个会议室。
 
 **读者视角提示**：本章停在这里，Ren 出门去找人；她将如何找到，是本章不回答的部分。
 

@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **关键词**：cold enough to make her fingers feel frostbitten / as if it were a snow globe / mount a little figurine inside
 
-**为什么这样写**：这是全章最漂亮的一次用幽默挡刀。Julia 拿到的是一瓶待客的水，她做的事是把它当玩具——`She shook it as if it were a snow globe`，一个 `as if` 让读者看见她在演「无害的访客」；紧跟着的 `watching the ice chips swirl` 又把注意力钉回真实的寒冷，而浮着的冰片本来是在替她压住手心的汗。台词的可爱是一层防御：`mount a little figurine inside`（在里面摆个小摆件）把「被盘问」的话题整个换成室内陈设，对方只能顺着她的话回答，而回答的方式是反过来问她事情。
+**为什么这样写**：这是全章很漂亮的一次用幽默挡刀。Julia 拿到的是一瓶待客的水，她做的事是把它当玩具——`She shook it as if it were a snow globe`，一个 `as if` 让读者看见她在演「无害的访客」；紧跟着的 `watching the ice chips swirl` 又把注意力钉回真实的寒冷，而浮着的冰片本来是在替她压住手心的汗。台词的可爱是一层防御：`mount a little figurine inside`（在里面摆个小摆件）把「被盘问」的话题整个换成室内陈设，对方只能顺着她的话回答，而回答的方式是反过来问她事情。
 
 **读者视角提示**：读者会在这里听懂 Julia 的生存方式：她不是靠说真话脱身，是靠说无害的话把场子拖住。
 
@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 **关键词**：in sudden understanding / You were babysitting me, weren’t you?
 
-**为什么这样写**：全章唯一一次 Julia 主动出手，而她出手的方式是提问。`in sudden understanding`（恍然）把这一刻写成念头闪过的瞬间，句首那个 `Ah` 又把思考压回成声音。她没有说「你一直在替 Baird 试探我」，而是把对方的角色降级成一个动词——`babysitting`。降级是这一句的武器：把一场有组织的盘问说成临时照看，被识破的一方就只能顺着「对」字往下说，而对方的回应是整理一下裙子、一句客套、一句道别。人一走，房间里就只剩真正要做这笔交易的人。
+**为什么这样写**：Julia 在这里主动出手，而她出手的方式是提问。`in sudden understanding`（恍然）把这一刻写成念头闪过的瞬间，句首那个 `Ah` 又把思考压回成声音。她没有说「你一直在替 Baird 试探我」，而是把对方的角色降级成一个动词——`babysitting`。降级是这一句的武器：把一场有组织的盘问说成临时照看，被识破的一方就只能顺着「对」字往下说，而对方的回应是整理一下裙子、一句客套、一句道别。人一走，房间里就只剩真正要做这笔交易的人。
 
 **读者视角提示**：读者要留意 Julia 收网的方式：她先逼对方自己确认对方的身份，再等对方离场。
 

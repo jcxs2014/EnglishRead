@@ -21,7 +21,7 @@ modified: "2026-09-30"
 
 **关键词**：better at picking locks / looking harmless and pregnant / took the front
 
-**为什么这样写**：全章第一句就用同一个 `better at` 把夫妻二人对切开，句式对称到近乎任务简报，读者立刻知道这是分工而不是商量——分工里没有协商，只有各取所长。`picking locks`（撬锁）动手、`looking harmless`（看着无害）示弱，一粗一细，恰好对应后文 Nolan 从背后动手、Ren 站在门口说话。`pregnant` 放在 `looking` 后面很要紧：她不是「装」出孕相，而是靠真实的孕相拿到按门铃的豁免——一个词同时是伪装道具和她自己的处境。
+**为什么这样写**：全章第一句就用同一个 `better at` 把夫妻二人对切开，句式对称到近乎任务简报，读者立刻知道这是分工而不是商量——分工里没有协商，只有各取所长。`picking locks`（撬锁）动手、`looking harmless`（看着无害）示弱，一粗一细，恰好对应后文 Nolan 从背后动手、Ren 站在门口说话。`pregnant` 放在 `looking` 后面很要紧：她不是「装」出孕相，而是靠真实的孕相拿到按门铃的豁免——`pregnant` 这个词同时是伪装道具和她自己的处境。
 
 **读者视角提示**：本句是全章的分诊句。读者此刻只会把它读成行动前的分工交代；读到后面才会发现「她怀着孕」这件事会变成另一层重量。
 
@@ -65,11 +65,11 @@ modified: "2026-09-30"
 
 > **原句 5:** Bennett swatted at his neck and stumbled, either the toxin or the last drips of adrenaline making him sway. He opened his mouth, and Ren froze, anticipating a scream. But Bennett only slurred, the words as soft and ill-defined as a toddler’s. Ren could make out only one word: “Cora.”
 
-**中文理解**：Bennett 拍了一下自己的脖子，踉跄着——是毒液在起作用，还是最后几滴肾上腺素在作祟，说不准。他张开嘴，Ren 僵住了，预想中的尖叫就要来了。可 Bennett 只是含混地发音，那些词软而模糊，像幼儿说话。Ren 只听清了一个词：「Cora。」
+**中文理解**：Bennett 拍了一下自己的脖子，踉跄着——是毒液在起作用，还是最后几滴肾上腺素在作祟，说不准。他张开嘴，Ren 僵住了，预想中的尖叫就要来了。可 Bennett 只是含混地发音，那些词软而模糊，像幼儿说话。Ren 只听清的是女儿的名字：「Cora。」
 
 **关键词**：the last drips of adrenaline / anticipating a scream / as soft and ill-defined as a toddler’s
 
-**为什么这样写**：作者先让读者和 Ren 一起屏息等那声尖叫——`He opened his mouth, and Ren froze` 把时间拉到极限，再用 `But` 一句话把期待全部放空：`only slurred`。`as soft and ill-defined as a toddler’s` 把一个成年男人的垂死之语比作幼儿发音，不是贬低他，是说明药已经把他的语言能力拆回到最原始的一层。整段唯一的实词是女儿的名字，而且是以听觉残片的形式到达的，不是理解、不是忏悔，只是一个音节。
+**为什么这样写**：作者先让读者和 Ren 一起屏息等那声尖叫——`He opened his mouth, and Ren froze` 把时间拉到极限，再用 `But` 一句话把期待全部放空：`only slurred`。`as soft and ill-defined as a toddler’s` 把一个成年男人的垂死之语比作幼儿发音，不是贬低他，是说明药已经把他的语言能力拆回到最原始的一层。整段唯一的实词是女儿的名字，而且是以听觉残片的形式到达的，不是理解、不是忏悔，只是声音本身。
 
 **读者视角提示**：这一幕的残忍在于 Ren 等来的是名字，不是求饶。她据此重新估算了这个人的分量；这个估算不会改变她今晚要做的任何一件事，却会改变她接下来如何谈论他。
 

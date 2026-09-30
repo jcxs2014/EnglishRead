@@ -81,7 +81,7 @@ modified: "2026-09-30"
 
 **关键词**：the idea that had been evading her / coalesced into a cold lump in her gut / The eucalyptus
 
-**为什么这样写**：前一句写「聚拢」，后一句只剩三个词。`had been evading her` 把一个念头写成会动的东西，`coalesced` 再把它落成身体里的一坨——推理与恐惧被压进同一个动词。作者不给这三个字任何解释，因为答案在同一段之前已经摆好：那棵树就立在院子边上。
+**为什么这样写**：前一句写「聚拢」，后一句缩成 `The eucalyptus.` 一句。`had been evading her` 把一个念头写成会动的东西，`coalesced` 再把它落成身体里的一坨——推理与恐惧被压进同一个动词。作者不给这个短语任何解释，因为答案在同一段之前已经摆好：那棵树就立在院子边上。
 
 **读者视角提示**：读者会立刻回想起前面那句 `someone had propped a bouquet of white roses against the trunk of a eucalyptus.`，并意识到她真正要说出口的不是「桉树」这三个字，而是「桉树挡在了哪儿」。
 
