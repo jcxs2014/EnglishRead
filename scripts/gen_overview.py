@@ -60,9 +60,23 @@ def build_pool(book: str):
                 continue            # 紧跟的是别的子项行，不是中文理解
             else:
                 zh = seg            # 无标记形态：整段就是中文理解
-            if re.sub(r"[^a-z0-9]", "", q.lower()) not in flat:
-                print(f"❌ ch{n:02d}#{seq} 不在 text/，池中止")
-                raise SystemExit(2)
+            # ⚠️ 2026-09-30 修正（The Secret Wife 实测 22 条）：含 `…` 的引语
+            # **整串**永远 flat 匹配不上——flat 化会把省略号连同两侧空白全删掉，
+            # 于是「A … B」被拼成「AB」，而原文里 A 与 B 之间隔着整段文字。
+            # 后果：build_pool 在第一个带省略号的块上就 SystemExit，
+            # **该书任何模板都生成不出来**，而实际两侧逐字都在（已逐条取证）。
+            # 按 AGENTS 第 5 条「判 A 前必须拆 fragment 分段取证」的口径，
+            # 这里同样分段验证：每一片段单独 flat 命中即算通过。
+            _q = re.sub(r"[^a-z0-9]", "", q.lower())
+            if _q not in flat:
+                _frags = [re.sub(r"[^a-z0-9]", "", p.lower())
+                          for p in re.split(r"…|\.\.\.", q)]
+                _frags = [f for f in _frags if f]
+                if _frags and all(f in flat for f in _frags):
+                    pass                      # 分段全部命中 ⇒ 合法省略
+                else:
+                    print(f"❌ ch{n:02d}#{seq} 不在 text/，池中止")
+                    raise SystemExit(2)
             pool[(n, seq)] = (q, zh)
             found += 1
         if not found:

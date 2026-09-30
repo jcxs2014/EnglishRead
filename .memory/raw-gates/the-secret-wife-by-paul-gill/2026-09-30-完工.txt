@@ -1,0 +1,131 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub）===
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 430/430 引文可核实（100%）；完全干净文件 71/71；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 3082
+--- FAIL (0) ---
+--- WARN (114) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 414 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 6 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 prologue.md                               ch01 prologue.md: 8/8 in ch01 text
+ch02 chapter one.md                            ch02 chapter one.md: 6/6 in ch02 text
+ch03 chapter two.md                            ch03 chapter two.md: 6/6 in ch03 text
+ch04 chapter three.md                          ch04 chapter three.md: 6/6 in ch04 text
+ch05 chapter four.md                           ch05 chapter four.md: 6/6 in ch05 text
+ch06 chapter five.md                           ch06 chapter five.md: 6/6 in ch06 text
+ch07 chapter six.md                            ch07 chapter six.md: 6/6 in ch07 text
+ch08 chapter seven.md                          ch08 chapter seven.md: 6/6 in ch08 text
+ch09 chapter eight.md                          ch09 chapter eight.md: 6/6 in ch09 text
+ch10 chapter nine.md                           ch10 chapter nine.md: 6/6 in ch10 text
+ch11 chapter ten.md                            ch11 chapter ten.md: 6/6 in ch11 text
+ch12 chapter eleven.md                         ch12 chapter eleven.md: 6/6 in ch12 text
+ch13 chapter twelve.md                         ch13 chapter twelve.md: 6/6 in ch13 text
+ch14 chapter thirteen.md                       ch14 chapter thirteen.md: 6/6 in ch14 text
+ch15 chapter fourteen.md                       ch15 chapter fourteen.md: 6/6 in ch15 text
+ch16 chapter fifteen.md                        ch16 chapter fifteen.md: 6/6 in ch16 text
+ch17 chapter sixteen.md                        ch17 chapter sixteen.md: 6/6 in ch17 text
+ch18 chapter seventeen.md                      ch18 chapter seventeen.md: 6/6 in ch18 text
+ch19 chapter eighteen.md                       ch19 chapter eighteen.md: 6/6 in ch19 text
+ch20 chapter nineteen.md                       ch20 chapter nineteen.md: 6/6 in ch20 text
+ch21 chapter twenty.md                         ch21 chapter twenty.md: 6/6 in ch21 text
+ch22 chapter twenty one.md                     ch22 chapter twenty one.md: 6/6 in ch22 text
+ch23 chapter twenty two.md                     ch23 chapter twenty two.md: 5/5 in ch23 text
+ch24 chapter twenty three.md                   ch24 chapter twenty three.md: 6/6 in ch24 text
+ch25 chapter twenty four.md                    ch25 chapter twenty four.md: 5/5 in ch25 text
+ch26 chapter twenty five.md                    ch26 chapter twenty five.md: 6/6 in ch26 text
+ch27 chapter twenty six.md                     ch27 chapter twenty six.md: 6/6 in ch27 text
+ch28 chapter twenty seven.md                   ch28 chapter twenty seven.md: 6/6 in ch28 text
+ch29 chapter twenty eight.md                   ch29 chapter twenty eight.md: 6/6 in ch29 text
+ch30 chapter twenty nine.md                    ch30 chapter twenty nine.md: 6/6 in ch30 text
+ch31 chapter thirty.md                         ch31 chapter thirty.md: 6/6 in ch31 text
+ch32 chapter thirty one.md                     ch32 chapter thirty one.md: 6/6 in ch32 text
+ch33 chapter thirty two.md                     ch33 chapter thirty two.md: 6/6 in ch33 text
+ch34 chapter thirty three.md                   ch34 chapter thirty three.md: 6/6 in ch34 text
+ch35 chapter thirty four.md                    ch35 chapter thirty four.md: 5/5 in ch35 text
+ch36 chapter thirty five.md                    ch36 chapter thirty five.md: 7/7 in ch36 text
+ch37 chapter thirty six.md                     ch37 chapter thirty six.md: 6/6 in ch37 text
+ch38 chapter thirty seven.md                   ch38 chapter thirty seven.md: 6/6 in ch38 text
+ch39 chapter thirty eight.md                   ch39 chapter thirty eight.md: 6/6 in ch39 text
+ch40 chapter thirty nine.md                    ch40 chapter thirty nine.md: 7/7 in ch40 text
+ch41 chapter forty.md                          ch41 chapter forty.md: 6/6 in ch41 text
+ch42 chapter forty one.md                      ch42 chapter forty one.md: 6/6 in ch42 text
+ch43 chapter forty two.md                      ch43 chapter forty two.md: 6/6 in ch43 text
+ch44 chapter forty three.md                    ch44 chapter forty three.md: 6/6 in ch44 text
+ch45 chapter forty four.md                     ch45 chapter forty four.md: 6/6 in ch45 text
+ch46 chapter forty five.md                     ch46 chapter forty five.md: 6/6 in ch46 text
+ch47 chapter forty six.md                      ch47 chapter forty six.md: 6/6 in ch47 text
+ch48 chapter forty seven.md                    ch48 chapter forty seven.md: 6/6 in ch48 text
+ch49 chapter forty eight.md                    ch49 chapter forty eight.md: 6/6 in ch49 text
+ch50 chapter forty nine.md                     ch50 chapter forty nine.md: 6/6 in ch50 text
+ch51 chapter fifty.md                          ch51 chapter fifty.md: 6/6 in ch51 text
+ch52 chapter fifty one.md                      ch52 chapter fifty one.md: 6/6 in ch52 text
+ch53 chapter fifty two.md                      ch53 chapter fifty two.md: 6/6 in ch53 text
+ch54 chapter fifty three.md                    ch54 chapter fifty three.md: 6/6 in ch54 text
+ch55 chapter fifty four.md                     ch55 chapter fifty four.md: 6/6 in ch55 text
+ch56 chapter fifty five.md                     ch56 chapter fifty five.md: 6/6 in ch56 text
+ch57 chapter fifty six.md                      ch57 chapter fifty six.md: 6/6 in ch57 text
+ch58 chapter fifty seven.md                    ch58 chapter fifty seven.md: 6/6 in ch58 text
+ch59 chapter fifty eight.md                    ch59 chapter fifty eight.md: 6/6 in ch59 text
+ch60 chapter fifty nine.md                     ch60 chapter fifty nine.md: 6/6 in ch60 text
+ch61 chapter sixty.md                          ch61 chapter sixty.md: 6/6 in ch61 text
+ch62 chapter sixty one.md                      ch62 chapter sixty one.md: 6/6 in ch62 text
+ch63 chapter sixty two.md                      ch63 chapter sixty two.md: 6/6 in ch63 text
+ch64 chapter sixty three.md                    ch64 chapter sixty three.md: 6/6 in ch64 text
+ch65 chapter sixty four.md                     ch65 chapter sixty four.md: 6/6 in ch65 text
+ch66 chapter sixty five.md                     ch66 chapter sixty five.md: 6/6 in ch66 text
+ch67 chapter sixty six.md                      ch67 chapter sixty six.md: 6/6 in ch67 text
+ch68 chapter sixty seven.md                    ch68 chapter sixty seven.md: 6/6 in ch68 text
+ch69 chapter sixty eight.md                    ch69 chapter sixty eight.md: 5/5 in ch69 text
+ch70 historical afterword.md                   ch70 historical afterword.md: 6/6 in ch70 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：70 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（the-secret-wife-by-paul-gill）===
+  ✅ 逐字 9501 ｜ ⚠️ 跨章 204 ｜ 🔶 拼接 446 ｜ 🟠 部分命中 538 ｜ 🟡 词形 40 ｜ ⚪ 术语 7 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 2433
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 16/16 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 10/10 ✅
+
+=== 总览引文 26/26 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
