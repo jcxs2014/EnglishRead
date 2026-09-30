@@ -66,11 +66,11 @@ modified: "2026-09-30"
 
 **中文理解**：面对如此 massive 的不义，一个人要么挺身反对，要么就——不论是否出于自愿——加入其中。
 
-**句子结构**：When faced with such massive injustice 为前置条件状语（with such… 的程度修饰）；主句是 or 连接的二选一：rises in opposition 与 joins in 共享后半句 unwillingly or otherwise，形成"两条路同一条泥沼"的封闭结构；willingly, otherwise 以逗号并列的插入语把"自愿"与"否则"压成一次让步。
+**句子结构**：When faced with such massive injustice 为前置条件状语（with such… 的程度修饰）；主句是 or 连接的二选一：rises in opposition 与 joins in 共享后半句 willingly or otherwise，形成"两条路同一条泥沼"的封闭结构；willingly, otherwise 以逗号并列的插入语把"自愿"与"否则"压成一次让步。
 
 **关键词**：massive injustice / rises in opposition / willingly or otherwise / joins in
 
-**表达方式**：对偶式警句。两个动词短语一动一静（rise 与 join），共享一个 by 状语的否定式（unwillingly），把"反抗"和"合谋"的道德距离一笔抹平——作者不是描述选择，而是宣布选择的虚假性。
+**表达方式**：对偶式警句。两个动词短语一动一静（rise 与 join），共享一个 by 状语的「未必自愿」（willingly or otherwise 把"自愿"与"否则"压成一次让步），因而不判定"反抗"与"合谋"在道德上的距离——正是这句的模糊性所在——作者不是描述选择，而是宣布选择的虚假性。
 
 **为什么这样写**：这是全书的伦理起点，也是作者对自己那一代人的判词。他先用这句话解释父母何以从社会主义犹太工运（社会党犹太劳工联盟）的中立者变成 1964 年以后"军事成为生存象征"的一代；紧接着用同样的句法套在自己身上（"I, on the other hand…"），把"被迫合谋"的机制同时按在敌人和盟友身上。这一句要抢在读者形成"作者如何站队"的判断之前，先把"站队"这个概念本身废掉。
 
