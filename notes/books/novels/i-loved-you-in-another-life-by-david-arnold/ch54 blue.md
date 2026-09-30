@@ -133,7 +133,7 @@ modified: "2026-09-30"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| to wind up | 结果落到（此处指两个人不知怎么就成了这个姿势） | I’m not sure how we wound up like this |
+| wound up | 结果落到（此处指两个人不知怎么就成了这个姿势） | I’m not sure how we wound up like this |
 | working up to something | 攒着劲要说某件难事 | I can tell she’s working up to something |
 | half in, half out | 一半在里面一半在外面（原文短语，指她常坐在窗沿上） | she showed me how her bed lined up with her window, and said she often sat half in, half out |
 | a rote solution | 一套背下来的成规答案 | all the times Maya could have responded with some rote solution but, instead, chose to meet me where I was |
@@ -146,7 +146,7 @@ modified: "2026-09-30"
 |---|---|---|
 | strands | （头发的）缕 | gently pulling a few strands of my hair to their fullest length |
 | a wreck | 一团乱（口语） | It’s always such a wreck. |
-| to whisper | 低声说 | “I’m a mess,” she whispers |
+| whispers | 低声说 | “I’m a mess,” she whispers |
 | galaxies collide | 星系相撞（此处形容额头相贴的那一刻） | I lean forward, our foreheads touch, galaxies collide—pasts and futures, too |
 
 ## 一句话总结**： 这一章把两条线第一次放在同一个量纲上——她讲她的哥哥，他讲他的母亲，谁也没被治好，但两个人各自交出了一句真话，然后在差一厘米的地方，一起把时间慢了下来。
