@@ -30,10 +30,10 @@ modified: "2026-10-01"
 - **为什么这样写**：整段最长的复仇想象（按在水下、鱼吃眼睛、扔下坝）以一句自我否定收场——凶器不够。这个转折既暴露了 Owl 的清醒，也暴露了他的界线：他要的不是死，是一个够长的痛苦。
 - **读者视角提示》：请把这句与那封匿名信并读（One word and you're next）；两句话出自同一种愤怒，可只有一种被兑现了。
 
-> **原句 3:** “No, sweetheart,” he whispers.
+> **原句 3:** he whispers, “No, sweetheart,” and part of my heart breaks.
 
 - **中文理解**：「「不，亲爱的，」他耳语道。」
-- **关键词**：No, sweetheart · he whispers
+- **关键词**：he whispers · “No, sweetheart” · part of my heart breaks
 - **为什么这样写**：全书最轻的一次否决——一个词，加一个从未被用过的称呼。whisper（耳语）让这个「不」从三十英尺外飘过来；而 sweetheart 这个词在此第一次从他嘴里出现，它抹平了他整个警长的身份，只剩一个父亲的音。
 - **读者视角提示》：请记住这个「不」与她此前所有的猜测并读：不是他不愿承认，是他否认了——她不是他的女儿，而真正的是另一个人。
 
@@ -82,7 +82,7 @@ modified: "2026-10-01"
 | beat | （节拍的）一拍 | “She knocked on my door with authority, and without missing a beat she said, ‘I know you’re my dad.’” |
 | landing | （码头的）上岸处 | Stole Neil’s kayak and paddled all the way down the creek to Topper’s Landing |
 | siblings | 兄弟姐妹 | They weren’t in some weird relationship. They were siblings who shared a secret. |
-| slurred | （醉着）含糊不清 | He slurs the words. |
+| slurs | （醉着）含糊地说 | He slurs the words. |
 
 Total: 高级 7 · 进阶 5 · 基础 5 = 17
 
