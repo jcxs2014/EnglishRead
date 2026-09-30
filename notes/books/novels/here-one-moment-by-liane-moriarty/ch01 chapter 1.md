@@ -19,36 +19,36 @@ modified: "2026-09-30"
 
 **中文理解**：以「Later」开篇，先把叙述者的立足点推到事件之后——此刻正在写登机的人，读到这句的人却被告知：登机这件事本身不会被任何人记住。
 **关键词**：Later, not a single person, recall, board
-**为什么这样写**：全书题眼「one moment」的第一次现身——重点不在发生了什么，而在「有没有人记得」。开场就把「记忆」立为标尺，后面每一段都在称量她在这把尺子上的刻度。
+**为什么这样写**：题眼「one moment」在这句里是以「记忆」的形式登场的——重点不在发生了什么，而在「有没有人记得」。开场就把「记忆」立为标尺，后面每一段都在称量她在这把尺子上的刻度。
 **读者视角提示**：注意这句里的 Later 与本章结尾的 will later 同源，首尾各自指向同一段时间差。
 
 > **原句 2:** "She is not drunk or belligerent or famous."
 
 **中文理解**：三个否定排比，把「引人注意」的常规理由逐条排除：不是醉酒、不是好斗、不是名人。
 **关键词**：not drunk, belligerent, famous
-**为什么这样写**：三个形容词都是「一眼可判定」的类型，而否定它们等于宣布她连「可判定」都不成立。这条短句是全书否定式清单的最小样本，后面每一条都比它长。
+**为什么这样写**：三个形容词都是「一眼可判定」的类型，而否定它们等于宣布她连「可判定」都不成立。这条短句是本章否定式清单的起点，后面每一条都比它长。
 **读者视角提示**：留意后面每条「She is not … like …」都比这句多一个 like——从「不是这类人」滑向「不像这类人」，直到不再有类别可归。
 
 > **原句 3:** "They are not on their way in fifteen minutes."
 
 **中文理解**：上一句机长还让乘客「放松，他们十五分钟后就能出发」，这句用同一个时间点翻案。
 **关键词**：not on their way, fifteen minutes
-**为什么这样写**：全章唯一一次以「他们」作主语的短否定句，前面是 lady 的「She is not …」，这里突然换成复数主语，把视角从被观察者甩给整架飞机上的乘客。句子的短促模仿的是乘客期待的落空。
+**为什么这样写**：本段起句把主语从 lady 换成复数的「他们」，视角因此从被观察者甩给整架飞机上的乘客——这是前面十几段 lady 主语之后的一次切换。句子的短促模仿的是乘客期待的落空。
 **读者视角提示**：紧接的下一段给出具体时长 The plane sits on the tarmac without moving for ninety-two horrendous minutes.——「十五分钟」与「九十二分钟」的落差是本章时间感的全部来源。
 
-> **原句 4:** "At no stage does the lady make a bitter-voiced performative phone call to tell someone that she is 'stuck on a plane' 'still here' 'no way we'll make our connection' 'just go ahead without me' 'we'll need to reschedule' 'I'll have to cancel' 'nothing I can do' 'I know! It's unbelievable.'"
+> **原句 4:** "At no stage does the lady make a bitter-voiced performative phone call to tell someone that she is ‘stuck on a plane’ ‘still here’ ‘no way we’ll make our connection’ ‘just go ahead without me’ ‘we’ll need to reschedule’ ‘I’ll have to cancel’ ‘nothing I can do’ ‘I know! It’s unbelievable"
 
 **中文理解**：一整段都在写她「没有」做的事——打那通带情绪的表演性电话，而且把这类电话里所有的套话逐个列出。
 **关键词**：At no stage, bitter-voiced, performative, reschedule
 **为什么这样写**：句首的 At no stage 把否定升级为「任何阶段都没有」，比前面的 She is not 更绝对；引号内那一串短语是同一段话里会出现的不同措辞，作者把它们当清单摆出来，等于替读者把「拖延时大家会说什么」写完，于是读者的注意力不会落在 lady 上。
-**读者视角提示**：这一段的写法是全书埋设注意力的核心手段——把配角的行为写足，中心人物才显得空。
+**读者视角提示**：这一段的写法是作者埋设注意力的手段——把配角的行为写足，中心人物才显得空。后面多章会反复用同一手法。
 
 > **原句 5:** "She does not die."
 
 **中文理解**：在这份越来越长的「她没有……」清单里，这一条是全章最重的一句。
 **关键词**：does not die
 **为什么这样写**：前面写的都是行为层面的出格（唱歌、吸烟、脱衣），到了这一句升格为存在层面。紧跟其后的一句括号插入语把这份清单收束成航空业的黑色笑话——原来这些事在现实中全都发生过，于是「她没有死」从一句描写变成了一份行业记录。
-**读者视角提示**：这是全书死亡主题第一次正面出现，却以否定形式出现；记住这种「先说不会发生的事」的写法，后面预测死亡的情节会把它翻过来。
+**读者视角提示**：死亡主题在这里以否定形式露头——记住这种「先说不会发生的事」的写法，后面预测死亡的情节会把它翻过来。
 
 > **原句 6:** "One thing is clear: the lady is a lady."
 
@@ -57,7 +57,7 @@ modified: "2026-09-30"
 **为什么这样写**：句首的 One thing is clear 与前面所有的 not 形成反差：否定这么多之后，作者只肯确定一件事，而这件确定的事是「她被称作什么」。这一句还提前把读者会用的词排除掉，之后正文再提她的年龄、她的外表，都建立在这个词的约束上。
 **读者视角提示**：紧接着的一句 Not a single person will later describe her as a 'woman' or a 'female'. 把这个用词规矩正式写成规则——记住这条规则，ch02 起别人提到她时用什么词，就是有分量的细节。
 
-> **原句 7:** "Which is all to say, the lady who will later become known as 'the Death Lady' on the delayed 3.20 pm flight from Hobart to Sydney is not worthy of a second glance, not by anyone, not a single crew member, not a single passenger, not until she does what she does."
+> **原句 7:** "Which is all to say, the lady who will later become known as ‘the Death Lady’ on the delayed 3.20 pm flight from Hobart to Sydney is not worthy of a second glance, not by anyone, not a single crew member, not a single passenger, not until she does what she does."
 
 **中文理解**：全章的总括句——这位后来被称为「the Death Lady」的老妇，在那班延误的 3.20 pm 霍巴特飞悉尼航班上，不值得任何人多看一眼。
 **关键词**：later become known, the Death Lady, not worthy of a second glance, not until she does what she does
