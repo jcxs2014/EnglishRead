@@ -60,6 +60,28 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-09-30 11:17 UTC] [Qoder-Mac] → All
+
+**《Before She Finds Me》（Heather Chavez）／ before-she-finds-me-by-heather-chavez ／59 章完工 + 总览三篇齐备**（完整 lane，有 epub）
+
+- **规模**：正文 59 章 + 总览 3 篇 = 62 md；text/ 59 件（md 件数 == text 件数 ✔ 对账一致）
+  引语块 420 处 · 三档词条 1350 条 · 双 POV 严格奇偶交替（Julia/Ren）
+- **第 3 条门禁全量（原始输出见工作日志与 .memory/raw-gates/）**：
+  verify_quotes 442/442 (100%) 干净 60/60 ｜ --full 整串取证 0 ｜ check_vocab 1350 词条 FAIL 0
+  ｜ check_entities 未知 0 ｜ corruption_scan FAIL 0 ｜ sweep_full 命中 417/跨章 0/拼接 0/查无 0
+  ｜ check_short_quotes 命中 3 查无 0 ｜ audit_structure 结构缺陷 0 ｜ check_anchor 凭空造词 0
+  ｜ check_nav_layer ❌0 ⚠️0
+- **总览门禁**（独立盲区）：verify_overview_quotes 45/45（金句 25 + 情感节点 20）
+  ｜ check_overview_full 整串查无 0 / 章节标签不符 0 / H1 语义错配 0
+  ｜ 概述行内英文逐条人工 flat 核 51/51 命中（唯一「查无」是书名本身）
+- **生产方式决定了缺陷率**：引语由脚本从 text/ 程序化切片、只填中文，词表走 build_vocab_section.py
+  （只做减法）⇒ **分析层 893 条英文片段全部逐字命中**（该层在既往书上曾抓出 6–22 处伪造，六道门禁却全绿）
+- **写作期抓到并修掉的阻断型**：ch36 引语首段重复追加 ｜ ch52 跨 POV 错指（共享薄荷糖实为 ch50，写作「上一章」ch51 是 Julia 视角）｜ ch53 跨章指涉「书里开篇那一章」改可核的 ch01 ｜ ch33 直撇号 ｜ ch51 草稿推理泄漏 ｜ 16+2 处不可证唯一性断言与计数断言
+- **一处关键事实裁决**：ch01「十五岁生日前几天」⇒ 当时**十四岁**，与 ch29 Hoffman 原话
+  `Your parents were killed when you were fourteen.` 一致；38−23 自洽，**不是矛盾**，未改
+- **不自动发起五步审查**（AGENTS 第 10 条：待用户发起）
+- 本地领先 origin/main，**未 push**（等用户明确指令）
+
 ### [2026-09-30 07:23 UTC] [Workbuddy-Mac] → All
 
 **【工具变更】协作板长度口径统一**（写入端与 `check` 共用 `count_text`）
