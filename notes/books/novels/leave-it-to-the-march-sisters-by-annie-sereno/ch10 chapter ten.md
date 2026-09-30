@@ -54,7 +54,7 @@ modified: "2026-09-30"
 > **原句 7:** “Patience is needed. Be assured the subject will be addressed,” Amy said, retreating to the safe distance of the passive voice.
 **中文理解**：「需要的是耐心。请放心，这个议题会被处理，」Amy 说，退回到被动语态这层安全距离后面。
 **关键词**：Be assured / will be addressed / retreating to
-**为什么这样写**：两句台词都是标准的公关套话，名词加被动结构，不出现一个施动者——Be assured it will be done 正是这种句子的原型。retreating to 的 now-participle 把退却这个动作挂在说话的同时发生，而 the safe distance of the passive voice 把语态说成地形：她不是改口，而是撤到了能被掩护的位置。讽刺全部落在叙述者的这一小段注解上，说话人自己语气平稳。
+**为什么这样写**：两句台词都是标准的公关套话，名词加被动结构，不出现一个施动者——“the subject will be addressed” 正是这种句子的原型。retreating to 的 now-participle 把退却这个动作挂在说话的同时发生，而 the safe distance of the passive voice 把语态说成地形：她不是改口，而是撤到了能被掩护的位置。讽刺全部落在叙述者的这一小段注解上，说话人自己语气平稳。
 **读者视角提示**：上一句她还在心里承认「我愿意帮忙」已经到了嘴边，作者把她的善意与她的失语并排放在同一行里。
 
 > **原句 8:** Scaredy-cat, she could hear Jo say. Way to cop out, Amy Mamy.

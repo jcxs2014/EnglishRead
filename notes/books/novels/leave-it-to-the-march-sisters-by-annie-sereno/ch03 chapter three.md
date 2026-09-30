@@ -132,7 +132,7 @@ modified: "2026-09-30"
 > **原句 20:** The Sinclairs were their closest neighbors—next door having a different meaning when a house was nestled in acreage—and only-child Theo had grown up accustomed to the finest in everything.
 **中文理解**：Sinclair 一家是她们最近的邻居——而当房子坐落于大片土地上时，「隔壁」这个词就有了另一层意思——独生子 Theo 从小就习惯了凡事最讲究的。
 **关键词**：独立主格插入语 / only-child
-**为什么这样写**：破折号里的 next door having a different meaning… 用独立主格结构（名词 + having）作插入语，把「隔壁在乡下意味着几英里」这件事夹在句中；only-child Theo 则把家世和名字焊在一起。acquainted to the finest in everything 用 the finest（最好的那个）指代一整片无法列举的优越，笼统得像一句抱怨。
+**为什么这样写**：破折号里的 next door having a different meaning… 用独立主格结构（名词 + having）作插入语，把「隔壁在乡下意味着几英里」这件事夹在句中；only-child Theo 则把家世和名字焊在一起。grown up accustomed to the finest in everything 用 the finest（最好的那个）指代一整片无法列举的优越，笼统得像一句抱怨。
 **读者视角提示**：这句交代了两人童年距离的量级：她家是活动房，他家在庄园。
 
 > **原句 21:** Sounds passionate enough to be a lovers’ quarrel.
@@ -144,7 +144,7 @@ modified: "2026-09-30"
 > **原句 22:** Leave it to Amy to moon over a high-school crush.
 **中文理解**：果然是 Amy，还在为高中时代的暗恋发呆。
 **关键词**：Leave it to / moon over
-**为什么这样写**：Leave it to… to do 是固定句型，字面是「让……去干」，作者把它与下一格 Jo 的专有短语配对使用，形成姐妹俩的暗语。moon over 在这里是及物用法（对……发呆），比 stare at 更口语，也更显出少年气的痴。
+**为什么这样写**：Leave it to… to do 是固定句型，字面是「让……去干」，作者把它与下一格 Jo 的专有短语配对使用，形成姐妹俩的暗语。moon over 在这里是及物用法（对……发呆），比 stared at 更口语，也更显出少年气的痴。
 **读者视角提示**：前一格是 Jo 的回信 Who gives a hoot?（谁在乎？），她俩对同一件事的重量判断完全不同。
 
 > **原句 23:** Leave it to was the sisters’ affectionate shorthand for expressing everything from sympathy to disapproval.

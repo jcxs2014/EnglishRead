@@ -61,7 +61,7 @@ modified: "2026-09-30"
 **中文理解**：有什么能长久的呢。
 **关键词**：Nothing lasts / forever
 **为什么这样写**：主语 Nothing 加一般现在时，构成绝对判断；整句没有限定语，没有条件从句。这是他所能给出的最省力的普遍化，也是最典型的逃避——把一次具体的事件（他和谁睡）抬成一条关于一切的规律。forever 这个时间副词被放在句末，让断言听起来像叹息，而实际上是推卸。
-**读者视角提示**：这句出现在 Amy 追问他为什么不早说之后。前面他一直在用画布和颜料回避（pour a wide white stripe in reply），直到被追问才给出一句空话。
+**读者视角提示**：这句出现在 Amy 追问他为什么不早说之后。前面他一直在用画布和颜料回避（poured a wide white stripe across the top of the canvas in reply），直到被追问才给出一句空话。
 
 > **原句 9:** “The way I see it,” he said, “you act like you can take me or leave me. So I took Jaycee.”
 **中文理解**：照我看，你表现得好像可以随时要我或不要我。所以我选了 Jaycee。

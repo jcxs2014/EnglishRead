@@ -55,7 +55,7 @@ modified: "2026-09-30"
 **中文理解**：与其去辩自己为什么写的是《Idylls of the King》而不是 Little Women，Amy 打算直接把完成的稿子交到 Fiona 面前。一件既成事实，恐怕挑不出毛病。
 **关键词**：Rather than debate / A fait accompli / not likely to be challenged
 **为什么这样写**：Rather than 引导的对比结构把她正在放弃的动作挡在前面，作者借此表现她选了更强的一招：让稿子先到。fait accompli 是法语借词，以 as it were 软化后反倒更像一句自我安慰；not likely to be challenged 用否定加可能，把「无法反驳」说成概率判断。
-**读者视角提示**：她这一章全程在防守——挡 Fiona 追问选题、挡那个关于学生热情的谎被拆穿。计划好的既成事实，是她手里唯一一张进攻牌。
+**读者视角提示**：她这一章全程在防守——挡 Fiona 追问选题、挡那个关于学生热情的谎被拆穿。计划好的既成事实，是她手里那张进攻牌。
 
 > **原句 8:** “Jo only has a BA, and she teaches high school in Seattle. But she is a published author. And she doesn’t…uh…warm bar stools.” Amy repressed a laugh, remembering the time Jo fell off one, her tolerance for alcohol being worse than hers or Marmee’s.
 **中文理解**：Jo 只有一个学士学位，在西雅图教高中。但她是个出过书的作家。而且她不……呃……给人暖吧台。Amy 忍住了笑，想起 Jo 从吧台上摔下来那一回，她的酒量比 Amy 和 Marmee 都差。

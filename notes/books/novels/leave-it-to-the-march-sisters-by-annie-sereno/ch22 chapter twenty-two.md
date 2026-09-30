@@ -89,7 +89,7 @@ modified: "2026-09-30"
 
 > **原句 13:** They did that awkward goodbye dance—one step toward each other, one step away—and laughed that awkward laugh when the situation wasn’t really funny.
 **中文理解**：他们跳了那支尴尬的告别舞——朝对方迈一步，又退一步——然后在根本没好笑的情况下发出了尴尬的笑声。
-**关键词**：the awkward goodbye dance / one step toward each other, one step away
+**关键词**：goodbye dance / one step toward each other, one step away
 **为什么这样写**：插入语被两个破折号夹住，把 awkward 拆成一对方向相反的动作：朝对方迈一步、退一步，而这个舞本身又没有配乐。laughed that awkward laugh 用定语从句给笑声加上 awkward 的限定词，句子却在 wasn’t really funny 这里自行拆穿——他们都知道不好笑，是仪式把他们推到了要笑的位置上。
 **读者视角提示**：紧接着是两句 See ya 各说一遍，然后 Theo 在她走出十几步之后叫住她。
 

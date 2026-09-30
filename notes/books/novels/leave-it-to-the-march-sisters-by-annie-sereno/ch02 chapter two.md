@@ -24,7 +24,7 @@ modified: "2026-09-30"
 > **原句 2:** It always was sensitive to her moods, prone to droopiness whenever she had had a trying day.
 **中文理解**：它总是对她的情绪很敏感，只要她过了难熬的一天就耷拉下来。
 **关键词**：prone to / a trying day
-**为什么这样写**：prune to 搭配的两个词在这里一个指倾向（易于……），一个指具体诱因（难熬的一天），把植物的状态和主人的情绪连成一条因果链。It always was 用一般现在时加 always 写成一条老规律，而 whenever 引出的条件句又把它限定在具体时刻。作者借一盆蕨类写出「有人比你更先察觉你的状态」，却没说这个人是谁。
+**为什么这样写**：prone to 搭配的两个词在这里一个指倾向（易于……），一个指具体诱因（难熬的一天），把植物的状态和主人的情绪连成一条因果链。It always was 用一般现在时加 always 写成一条老规律，而 whenever 引出的条件句又把它限定在具体时刻。作者借一盆蕨类写出「有人比你更先察觉你的状态」，却没说这个人是谁。
 **读者视角提示**：这盆蕨是她从客厅搬来作伴的（for company）。她向植物倾诉，恰恰因为身边没有可说的人。
 
 > **原句 3:** Having been so magnanimous as to give her the coffeemaker, he was sleeping the sleep of the just.

@@ -10,7 +10,7 @@ modified: "2026-09-30"
 - **一句话概括**：Theo 开车送 Amy 去赴 Turner 的约，一路把车、美食和音乐聊成一场盘问；滑冰场上他一言不发地换上溜冰鞋抢走了满场的掌声，又一路跟回 Laurel，最后用一句过敏把满屋子的猫清了出去。
 - **情感弧线位置**：升温（起点是别扭，中段靠他那场表演把气氛推上去，末段在她自己的幻视与约会对象的冷淡之间落回地面）
 - **Tropes 兑现/反转**：「主角在场却全程透明」被反过来用——Theo 不是隐形人，而是把整场戏连人带掌声一起抢走的那个人；而「约会对象不如前任」这个老套也没有靠对比台词坐实，是靠她早就替自己备好的回家理由。
-- **人物弧线**：Amy 用学术腔给自己壮胆（esoteric 与 eighteenth-century 混在一起说笑话），一整章都在维持体面；真正破功的是那段关于跳舞的幻视，而她随即用一句含糊的 mumble 把话头拽了回来。
+- **人物弧线**：Amy 用学术腔给自己壮胆（esoteric 与 eighteenth-century 混在一起说笑话），一整章都在维持体面；真正破功的是那段关于跳舞的幻视，而她随即用一句含糊的 mumbled 把话头拽了回来。
 - **叙事手法**：第三人称限知（Amy 视角）；一整章走一条线（车道 → 停车场 → 冰场 → 车道 → 门廊），转场靠人物动作而不是时间跳跃；自由间接引语用得很密，叙述者的评语和 Theo 的对白在同一句里混着走。
 
 ## 精读
@@ -30,19 +30,19 @@ modified: "2026-09-30"
 > **原句 3:** “S’okay. I appreciate you helping me pack and deliver healthy meals to Lando and Stella. There’s only so much pizza anyone can eat.”
 **中文理解**：「没事。我谢谢你帮我给 Lando 和 Stella 打包送饭。披萨这种东西，再能吃也是有个限的。」
 **关键词**：S’okay / I appreciate you helping / only so much pizza anyone can eat
-**为什么这样写**：S’okay 是缩到近乎一个词的回应，它表示的是「我大人大量」，不是「我不介意」。There's only so much 用 there is 引导的主语从句，把一句主观抱怨包装成客观限量，因此比直说更客气也更有距离。healthy meals 与 only so much pizza 在同一段里打了个小对照：健康的那一路和放纵的那一路，各让一步。
+**为什么这样写**：S’okay 是缩到快看不出字母的回应，它表示的是「我大人大量」，不是「我不介意」。There’s only so much 用 there is 引导的主语从句，把一句主观抱怨包装成客观限量，因此比直说更客气也更有距离。healthy meals 与 only so much pizza 在同一段里打了个小对照：健康的那一路和放纵的那一路，各让一步。
 **读者视角提示**：她谢的是他替好兄弟们跑腿的事——这等于把自己摆在「帮手」那一侧，而不是「欠人情」的那一侧。
 
 > **原句 4:** “I had her overhauled. She’s in tip-top shape.”
 **中文理解**：「我给她做过一次大修。她现在状态好得很。」
 **关键词**：I had her overhauled / tip-top shape
-**为什么这样写**：had her overhauled 用过去完成时的 have 强调结构加过去分词，把整修说成一件已经办完、不必细讲的事。tip-top 是复合词，top 单独用就是「顶尖」，于是整句话没有出现任何形容词来夸车，全靠一个副词位短语把状态交出去。
+**为什么这样写**：had her overhauled 用过去完成时的 have 强调结构加过去分词，把整修说成一件已经办完、不必细讲的事。tip-top 是复合词，字面就是「好到不能再好」，于是整句话没有出现任何形容词来夸车，全靠一个副词位短语把状态交出去。
 **读者视角提示**：隔一拍他就给出了理由——他给这辆车起名叫 Lucille。
 
 > **原句 5:** “I’ve named her Lucille. The name B. B. King gave to all his guitars.”
 **中文理解**：「我给她起名叫 Lucille。这是 B. B. King 给他所有吉他起的名字。」
 **关键词**：I’ve named her Lucille / The name B. B. King gave to all his guitars
-**为什么这样写**：I've named her 用完成时把命名说成一件已经生效的事实，而不是一个打算。The name 用 the 起头，后面的 that 从句立刻降级成补充说明，于是重点全落在名字本身。给乐器一律用同一个名字这个做法，把车直接抬进了乐器的行列。
+**为什么这样写**：I’ve named her 用完成时把命名说成一件已经生效的事实，而不是一个打算。The name 用 the 起头，后面的 that 从句立刻降级成补充说明，于是重点全落在名字本身。给乐器一律用同一个名字这个做法，把车直接抬进了乐器的行列。
 **读者视角提示**：他对这辆车讲的话，比他对自己讲的话坦率。
 
 > **原句 6:** “A used army jeep would be your best bet. If it can withstand military operations, it can withstand you.”
@@ -60,13 +60,13 @@ modified: "2026-09-30"
 > **原句 8:** “A camel spin,” the man said reverentially.
 **中文理解**：「一个骆驼旋转。」那位男的说，语气里带着敬意。
 **关键词**：A camel spin / the man said reverentially
-**为什么这样写**：冰场边上一个跟谁都不相干的观众，用专业术语报出这个动作——camel spin 把一个像骆驼屈膝跪地的姿态收进了两个词。reverentially 是副词，把看表演的姿态写成近乎宗教上的恭敬；而这份恭敬给的不是她的约会对象。
+**为什么这样写**：冰场边上一个跟谁都不相干的观众，用专业术语报出这个动作——camel spin 把一个像骆驼屈膝跪地的姿态收成了一个复合词。reverentially 是副词，把看表演的姿态写成近乎宗教上的恭敬；而这份恭敬给的不是她的约会对象。
 **读者视角提示**：她的约会对象在旁边，礼貌地夸着另一个男人滑得好。
 
 > **原句 9:** Her delightful vision was interrupted by Turner asking if they could leave soon.
 **中文理解**：她脑子里那个美妙的画面，被 Turner 问「我们能早点走吗」这句话打断了。
 **关键词**：Her delightful vision / was interrupted by / asking if they could leave soon
-**为什么这样写**：过去分词短语挂在 vision 后面，把「被打断」这个动作交给打断本身，而主语仍然是那个幻视。by 后面接动名词 Turner asking，于是「打断她的」和「打断她的想象」被压进同一个介词短语里，读者自己分得清区别在哪。delightful 一词把她的走神写成了享受，而 interrupted 把它按回地面。
+**为什么这样写**：过去分词短语挂在 vision 后面，把「被打断」这个动作交给打断本身，而主语仍然是那个幻视。by 后面接动名词 Turner asking，于是「打断她的」和「打断她的想象」被压进同一个介词短语里，读者自己分得清区别在哪。delightful 这个词把她的走神写成了享受，而 interrupted 把它按回地面。
 **读者视角提示**：那个幻视里有他，而且是有舞池、有长裙的那种他。
 
 > **原句 10:** “Sure,” he said with more enthusiasm about leaving than he’d shown all afternoon.
@@ -91,7 +91,7 @@ modified: "2026-09-30"
 **中文理解**：他凝视着她，凝视得足够久，久到她掉了进去——在那片他眼睛的海里游着。
 **关键词**：gazed at her long enough / fall into—and swim in—the sea of his eyes
 **为什么这样写**：long enough 后面接的是一个结果从句，而落进与游泳共享同一个破折号插入的 the sea of his eyes，于是「坠入」和「游」变成同一片水的两种状态，中间隔着一枚破折号又连着。gazed at 是最朴素的动词，全部的文学性都压在那个时长上——他只要早一点收回目光，这句就不会成立。
-**读者视角提示**：下一句她就把话头拽回来了，剩下一句含糊的 mumble。
+**读者视角提示**：下一句她就把话头拽回来了，剩下一句含糊的 mumbled。
 
 > **原句 14:** “Well,” Theo drawled. “That takes care of that.”
 **中文理解**：「好吧，」Theo 拖着调子说。「这下省了。」
@@ -162,4 +162,4 @@ modified: "2026-09-30"
 
 ## 一句话总结
 
-Amy 把这一整场约会撑了下来：她用 esoteric 和 eighteenth-century 给自己壮胆，用「不算太无趣」这种留了余地的评价给 Turner 打了分，用 the laser death ray eyes 把自己的嫉妒说成玩笑——唯一没算进去的变量是那个换上冰鞋、赢来满场 applause、然后一路跟到她家门口的人。
+Amy 把这一整场约会撑了下来：她用 esoteric 和 eighteenth-century 给自己壮胆，用「不算太无趣」这种留了余地的评价给 Turner 打了分，用 the laser death ray eyes 把自己的嫉妒说成玩笑——没算进去的那个变量是那个换上冰鞋、赢来满场 applause、然后一路跟到她家门口的人。

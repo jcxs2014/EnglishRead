@@ -78,7 +78,7 @@ modified: "2026-09-30"
 > **原句 11:** PIZZA DELIVERED FASTER THAN A TELEGRAPH.
 **中文理解**：披萨送得比电报还快。
 **关键词**：全大写的招牌
-**为什么这样写**：作者把一整句广告语用全大写排版（PLIZZA DELIVERED FASTER THAN A TELEGRAPH）当作独立成句，形式本身就模拟了招牌。这句在 1957 年写在雨篷上，用电报作比已经过时近两个世纪——笑点在于它还在用。
+**为什么这样写**：作者把一整句广告语用全大写排版（PIZZA DELIVERED FASTER THAN A TELEGRAPH）当作独立成句，形式本身就模拟了招牌。这句在 1957 年写在雨篷上，用电报作比已经过时近两个世纪——笑点在于它还在用。
 **读者视角提示**：这家店叫 Marconi's Pizza，是 Lando 开的，也是全书写 Amy 前男友女友工作的那家店。
 
 > **原句 12:** “Dora the Explorer, home from his world travels,” Lando said from behind the counter when Theo entered.
@@ -96,7 +96,7 @@ modified: "2026-09-30"
 > **原句 14:** “I have a perpetual five-o’clock shadow.”
 **中文理解**：「我永远留着五点钟的胡渣。」
 **关键词**：perpetual / five-o’clock shadow
-**为什么这样写**：five-o’clock shadow 是英语里对傍晚长出的胡渣的固定说法，本义是「刚够让人显得体面」的那种程度；作者用 perpetual（永远）把这个一次性状态改成常态，恰好是上一章 Amy 那句「never had a special claim」的反面——他要的是永远，而她从没得到过。
+**为什么这样写**：five-o’clock shadow 是英语里对傍晚长出的胡渣的固定说法，本义是「刚够让人显得体面」的那种程度；作者用 perpetual（永远）把这个一次性状态改成常态，恰好是上一章 Amy 那句「would never have a special claim on his heart again」的反面——他要的是永远，而她从没得到过。
 **读者视角提示**：Stella 的回话是「That’s not all that’s perpetual.」（不止那个是永远的。）两人在互相加码对方的未来。
 
 > **原句 15:** “No shit,” Stella said. “If we turn into your parents, we’re in big trouble.”
@@ -114,7 +114,7 @@ modified: "2026-09-30"
 > **原句 17:** “We were close friends once. We’re not anymore. End of story.”
 **中文理解**：「我们曾经是很好的朋友。现在不是了。到此为止。」
 **关键词**：End of story / 时态对比
-**为什么这样写**：作者用 once（曾经）一个词就把现在与过去切断，We’re not anymore 再用现在完成时确认。End of story 三个词做全章最短的收束，而叙述者立刻接上 But he shrugged（他耸了耸肩）——身体的松弛与话语的僵硬形成反差。
+**为什么这样写**：作者用 once（曾经）一个词就把现在与过去切断，We’re not anymore 再用现在完成时确认。End of story 三个词做全章最短的收束，而叙述者立刻接上 he shrugged（他耸了耸肩）——身体的松弛与话语的僵硬形成反差。
 **读者视角提示**：这一段是本书对二人过往最简短、也最可疑的一句概括：Lando 听出来了，Stella 也在场。
 
 > **原句 18:** Frister and frother, Amy had jokingly labeled them.
@@ -126,7 +126,7 @@ modified: "2026-09-30"
 > **原句 19:** touched his lips to her soft, full mouth—and Amy bloomed into someone else. Someone open to other possibilities besides frister.
 **中文理解**：他的唇碰上她柔软丰润的嘴——而 Amy 一下子变成了另一个人。一个对 frister 之外的其他可能性敞开的人。
 **关键词**：and 连接的突变 / bloomed
-**为什么这样写**：作者用一个 and 加一个破折号，把「嘴唇相触」这一瞬间和「她变成了另一个人」并置。bloomed（绽放）是作者写过的最文学的一个动词：它既是「开花」也是「变化」，而 Possible possibilities（可能性）用的是 Possible 之外的 possibilities——她在第一章引的正是这层意思（爱情不该是唯一选项）。
+**为什么这样写**：作者用一个 and 加一个破折号，把「嘴唇相触」这一瞬间和「她变成了另一个人」并置。bloomed（绽放）是作者写过的最文学的一个动词：它既是「开花」也是「变化」，而 Possible possibilities 这一处把普通名词换成了形容词——她在第一章引的正是这层意思（爱情不该是唯一选项）。
 **读者视角提示**：作者在这里第一次把上一章的回忆的「动机」补齐了：她当年不是在被亲，她是在被打开。
 
 > **原句 20:** “Dunno, Theodore. I sense amore in the air.”

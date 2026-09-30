@@ -18,19 +18,19 @@ modified: "2026-09-30"
 > **原句 1:** The sincere wish to be good is half the battle.
 **中文理解**：真诚地想做个好人，就等于赢了一半。
 **关键词**：The sincere wish / be good / half the battle
-**为什么这样写**：题词出自 Marmee March。主语是 the sincere wish（中心名词落在 wish 上），be good 用不定式去限定这个愿望的内容，half the battle 再用「一场战役的一半」这个习语把结果说成可分割的一份。sincere 一词把「想做好」和「做好」拆开——它只担保动机，不担保结果，于是这句祝福在开口时就已经把失败的那一半留在了外面。
+**为什么这样写**：题词出自 Marmee March。主语是 the sincere wish（中心名词落在 wish 上），be good 用不定式去限定这个愿望的内容，half the battle 再用「一场战役的一半」这个习语把结果说成可分割的一份。sincere 这个词把「想做好」和「做好」拆开——它只担保动机，不担保结果，于是这句祝福在开口时就已经把失败的那一半留在了外面。
 **读者视角提示**：这一章的开头照例放一句《小妇人》里人物的台词，署名是那位母亲，而不是前几章的 Jo。
 
 > **原句 2:** “The infamous Gallagher love nest,” she remarked.
 **中文理解**：「那间声名狼藉的盖勒式爱巢。」她说着。
 **关键词**：The infamous / love nest / she remarked
-**为什么这样写**：说话人标签用 she remarked 这个不带情绪的组合，把一句刻薄的指认压成平淡的登记。love nest 是复合名词，love 与 nest 两个成分并成一个词，读者不用任何解释就懂它指的是什么。infamous 加在前面，于是命名本身就完成了判决，而作者不必再补一句评价。
+**为什么这样写**：说话人标签用 she remarked 这个不带情绪的组合，把一句刻薄的指认压成平淡的登记。love nest 是复合名词，love 与 nest 两个成分并成一个复合词，读者不用任何解释就懂它指的是什么。infamous 加在前面，于是命名本身就完成了判决，而作者不必再补一句评价。
 **读者视角提示**：她指的那扇亮着的窗在二楼，正是她刚才和 Athena 一起走过的、她与 Derek 同住过的那栋楼。
 
 > **原句 3:** “Quentin always jokes about us ‘making the beast with two backs.’ It’s a line from Othello,” Athena said.
 **中文理解**：「Quentin 总拿我们俩『像野兽一样结合』这事儿开玩笑。那是《奥赛罗》里的台词。」Athena 说。
 **关键词**：always jokes / a line from Othello / Athena said
-**为什么这样写**：一句话里塞了三样东西——玩笑内容、玩笑的出处、以及说话人。嵌套的单引号把那句被引用的台词再引一层，读者在视觉上就分清了哪层是谁说的。always 与下一段的 never 隔空对照：一个说习惯，一个说例外。in Othello 这个介词短语替读者确认这不是 Athena 自己的俏皮话，于是玩笑的份量从她的嘴转到了文本上。
+**为什么这样写**：这一句里同时装了玩笑内容、玩笑的出处和说话人本身。嵌套的单引号把那句被引用的台词再引一层，读者在视觉上就分清了哪层是谁说的。always 与下一段的 never 隔空对照：一个说习惯，一个说例外。a line from Othello 这个名词短语替读者确认这不是 Athena 自己的俏皮话，于是玩笑的份量从她的嘴转到了文本上。
 **读者视角提示**：莎士比亚的台词被搬进一家咖啡馆的闲聊里——这本书里这种错位一直在发生，也是它对经典最常用的办法。
 
 > **原句 4:** “He’s dated a gazillion women, but he’s never…how’d he put it?”
@@ -43,7 +43,7 @@ modified: "2026-09-30"
 **中文理解**：Amy 和 Athena 面面相觑，两个人都用口型把 backpack 这个词默念了出来。
 **关键词**：looked at each other / in astonishment / both mouthing the word
 **为什么这样写**：现在分词短语 both mouthing the word backpack 挂在主语后面，把「两个人同时做同一个动作」压进一句，不必再写第二个主语。in astonishment 与 looked at each other 加在一起给出的是一种同步的沉默：她们都听懂了，都没说出来。
-**读者视角提示**：Gary 背着狗上班这件事，通篇只由一个口型交代；作者把最重要的一件事实放在了两句对话之间的沉默里。
+**读者视角提示**：Gary 背着狗上班这件事，通篇只由一个口型交代；作者把它放在了这段对话与那段对话之间的沉默里。
 
 > **原句 6:** “I might write a Scandinavian noir novel about it, featuring a couple of female professor investigators.”
 **中文理解**：「说不定我能为它写一本北欧黑色小说呢，主角是一对女教授侦探。」

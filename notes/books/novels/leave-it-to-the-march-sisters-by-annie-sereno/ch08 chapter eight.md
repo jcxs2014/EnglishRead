@@ -72,7 +72,7 @@ modified: "2026-09-30"
 > **原句 10:** “Everyone’s a happy camper. The Farraguts are on the right track. Did you enjoy the Labor Day weekend?” Theo asked to turn the conversation away from the Spragues.
 **中文理解**：「大家都当快乐营地客吧。Farraguts 夫妇走在正轨上。劳动节周末过得开心吗？」Theo 这样问，只是想把话题从那对年轻夫妻身上引开。
 **关键词**：a happy camper / to turn the conversation away from
-**为什么这样写**：孩子气的问候被原样当作上司的开场白，作者把这句热络放在最不容置疑的位置；而叙述者紧跟着点破它的用途——不是回答，是调虎离山。to turn away from 与他真正想谈的那对夫妻被写成了明面上的错位。
+**为什么这样写**：孩子气的问候被原样当作上司的开场白，作者把这句热络放在最不容置疑的位置；而叙述者紧跟着点破它的用途——不是回答，是调虎离山。而他真正想谈的那对夫妻被写成了明面上的错位。
 **读者视角提示**：他的两难在于答案会让他自己不好受，而 happy camper 这个说法又正好把答案堵在门外。
 
 > **原句 11:** “I’m afraid you have a problem, Theo. Your success rate with couples is…” He lifted a hand and rocked it back and forth. “Two of them are headed to divorce court.”

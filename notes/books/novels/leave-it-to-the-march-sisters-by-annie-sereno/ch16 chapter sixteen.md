@@ -24,7 +24,7 @@ modified: "2026-09-30"
 > **原句 2:** Amy had never paid close attention to architecture, but she’d come to appreciate the perfectly proportioned rooms of Theo’s house and its beautiful woodwork and charming nooks, like the one beneath her bedroom window where Nina liked to curl up.
 **中文理解**：Amy 从来没仔细看过建筑，可她开始欣赏 Theo 这栋房子比例完美的房间、漂亮的木作和讨人喜欢的小角落——比如她卧室窗下那个 Nina 喜欢蜷着睡的凹处。
 **关键词**：had never paid close attention to architecture / the perfectly proportioned rooms / charming nooks
-**为什么这样写**：had never paid close attention to…but she’d come to appreciate 是「从不曾注意、却已开始欣赏」的转折结构，两个完成时（had paid / had come）把「注意到」和「欣赏」分别安在两个过去阶段，中间是整整一个转变期。perfectly proportioned 与 beautiful woodwork 并列，全是建筑学的评价词，可最后落到 charming nooks（讨喜的小角落）这样一个纯日常的词上：她欣赏的其实是一个能藏猫的凹处。作者让她用专业词汇说一件私人的事，语法越正式，私心越明显。
+**为什么这样写**：had never paid close attention to…but she’d come to appreciate 是「从不曾注意、却已开始欣赏」的转折结构，两个完成时（had never paid / had come）把「注意到」和「欣赏」分别安在两个过去阶段，中间是整整一个转变期。perfectly proportioned 与 beautiful woodwork 并列，全是建筑学的评价词，可最后落到 charming nooks（讨喜的小角落）这样一个纯日常的词上：她欣赏的其实是一个能藏猫的凹处。作者让她用专业词汇说一件私人的事，语法越正式，私心越明显。
 **读者视角提示**：这一章她对 Theo 的评价都经由房子，而她对 Theo 本人的判断要到章末才直接给出。
 
 > **原句 3:** Can I borrow the futon? My sister will be visiting, and I don’t have an extra bed. Oh, by the way, I’m THRILLED to hear you’ve sold two paintings. And I was wondering…have you figured out the difference between Manet and Monet by now, YOU TWIT?

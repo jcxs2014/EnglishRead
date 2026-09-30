@@ -8,7 +8,7 @@ modified: "2026-09-30"
 ## 本章导航
 
 - **一句话概括**：Theo 用搅拌机安顿满屋子的猫和狗，说服自己「感激已有的」就开始一天；给 Warren 和 Cynthia Sprague 做咨询时，他发现这对夫妻怕的其实是父母的离婚，而这正是他自己一直在躲的事；Stella 受伤的消息把他从诊所一路送到医院，好兄弟在走廊上逼他正面回答愿不愿意让人找到自己。
-- **情感弧线位置**：升温（起点是壁炉那晚压下来的余波；中段他在别人的婚姻里第一次把自己的事看穿；末段车里的那口气是这一章真正松开的地方）
+- **情感弧线位置**：升温（起点是壁炉那晚压下来的余波；中段他在别人的婚姻里把自己的事看穿；末段车里的那口气是这一章真正松开的地方）
 - **Tropes 兑现/反转**：「咨询师治不了自己」这个老套没有按老路走完——他不是在诊室里顿悟，而是借一对别人的夫妻照见自己；Stella 受伤一场把刚立起来的希望重新按回地面，再用好兄弟一句戳穿收尾。
 - **人物弧线**：他从「别去动别人的婚姻」退到「先承认自己也在躲」，而承认的方式不是抒情而是执行：道歉、换一种做法、把 Sprague 的恐惧和自己的恐惧并排放在一起说出口。
 - **叙事手法**：**第三人称限知（Theo 视角；全书 9 章 Theo 视角：ch05/08/12/14/17/22/24/28/36）**；一章之内多次场景切换（公寓 → 诊所 → 医院 → 车里），每次切换都用一个短动作或一条短信作铰链；对白密度高，他的自嘲几乎全在旁白里。
@@ -28,7 +28,7 @@ modified: "2026-09-30"
 **读者视角提示**：这一句把职业上的麻烦先摆在读者面前：他能替别人的婚姻想办法，却连自己的都理不清。
 
 > **原句 3:** Lately, on the rare occasions she left things behind, the objects, more than her actual presence, were the only signs she lived in the house.
-**中文理解**：近来，只有在她偶尔落下东西的时候，那些物件——而不是她本人在场——才是她住在这屋里的唯一证据。
+**中文理解**：近来，只有在她偶尔落下东西的时候，那些物件——而不是她本人在场——才是她住在这屋里的凭据。
 **关键词**：on the rare occasions / more than her actual presence / the only signs
 **为什么这样写**：主语 the objects 被 more than her actual presence 抬了一级，优先级于是整个倒过来：物件才是证据，人不是。were the only signs 里的 only 把这个判断封死，不给第二种解释；而 on the rare occasions 先承认了这种时刻有多罕见。
 **读者视角提示**：他注意到的是水槽里堆好的杯盘——她在家的时候，他几乎见不到她这个人。
@@ -54,7 +54,7 @@ modified: "2026-09-30"
 > **原句 7:** “They made us play games in our Children of Divorce support group,” Cynthia said.
 **中文理解**：「当年在我们的离婚子女互助小组里，他们逼着我们做游戏。」Cynthia 说。
 **关键词**：play games / Children of Divorce support group / Cynthia said
-**为什么这样写**：前一句 Warren 刚用 Stupid waste of time 把同一段经历否掉，she said 之后的 It's where we met 就把它整个翻了过来——两个人说的是同一件事，意思完全相反。Children of Divorce 用大写字母写成专名，读起来像一块机构的招牌，也让这段童年有了一个可被归档的名字。
+**为什么这样写**：前一句 Warren 刚用 Stupid waste of time 把同一段经历否掉，she said 之后的 It’s where we met 就把它整个翻了过来——两个人说的是同一件事，意思完全相反。Children of Divorce 用大写字母写成专名，读起来像一块机构的招牌，也让这段童年有了一个可被归档的名字。
 **读者视角提示**：这一句把咨询的起点换掉了：他们不是来修补关系的，他们是先在同一个地方认识的。
 
 > **原句 8:** “I owe you both an apology,” he said. “I never asked about your family history.”
@@ -72,19 +72,19 @@ modified: "2026-09-30"
 > **原句 10:** “What if our parents started out like us,” Warren said, “and then it all went to shit?”
 **中文理解**：「要是我们的父母当年也跟我们一样起步，后来才全烂掉呢？」Warren 说。
 **关键词**：What if / started out like us / went to shit
-**为什么这样写**：句子从陈述折成一个问句，What if 把这对夫妻最怕的东西直接摆上桌面。started out like us 把起点按在过去，and then it all went to shit 用一个 it all 把崩塌说成不可拆的整体；而 went to shit 这个粗口正是全篇唯一一次情绪失控。
+**为什么这样写**：句子从陈述折成一个问句，What if 把这对夫妻最怕的东西直接摆上桌面。started out like us 把起点按在过去，and then it all went to shit 用一个 it all 把崩塌说成不可拆的整体；而 went to shit 这个粗口把情绪一次交了出去。
 **读者视角提示**：他回答的下一句几乎是墙上宣传单的原文，作者随即自嘲地认了下来。
 
 > **原句 11:** Fear had paralyzed Warren and Cynthia—and he too had been a deer in the headlights of his own life.
 **中文理解**：恐惧已经让 Warren 和 Cynthia 瘫住了——而他自己也一直是自己生活里那只被车灯照住、动不了的鹿。
 **关键词**：had paralyzed / and he too / a deer in the headlights
-**为什么这样写**：破折号后面的 and he too 三个字完成了身份转移，咨询对象和他被并进同一句判断。had paralyzed 用过去完成时把后果定位成已经造成、无法撤回。a deer in the headlights 是英语里现成的比喻，被放在句末当落点，而「自己生活里」这半句又把范围从婚姻扩到了一生。
+**为什么这样写**：破折号后面的 and he too 完成了身份转移，咨询对象和他被并进同一句判断。had paralyzed 用过去完成时把后果定位成已经造成、无法撤回。a deer in the headlights 是英语里现成的比喻，被放在句末当落点，而「自己生活里」这半句又把范围从婚姻扩到了一生。
 **读者视角提示**：这是这一章的合流处：他一边教这对夫妻面对恐惧，一边承认自己从没敢动。
 
 > **原句 12:** Stella badly hurt. In hospital. Need you. Pronto!!
 **中文理解**：Stella 伤得很重。在医院。需要你。快。
 **关键词**：Stella badly hurt / Need you / Pronto
-**为什么这样写**：这几行都不带完整的主谓结构，动词直接落在 hurt、need 上，地点干脆压成一个名词。Pronto 是西班牙语借词，用在这里像一句军令。末尾连着两个叹号，把紧急程度推到纸面之外——这是全章唯一一次作者放弃完整的句子。
+**为什么这样写**：这几行都不带完整的主谓结构，动词直接落在 hurt、need 上，地点干脆压成一个名词。Pronto 是西班牙语借词，用在这里像一句军令。末尾连着叹号，把紧急程度推到纸面之外——作者就在这里放弃了完整的句子。
 **读者视角提示**：前一秒他还在自己的咨询室里，下一秒他已经在去医院的路上。
 
 > **原句 13:** “Your woman’s out there, Theodore. The real question is, are you going to finally let her find you? ’Cause you’ve been hiding for a long time.”
