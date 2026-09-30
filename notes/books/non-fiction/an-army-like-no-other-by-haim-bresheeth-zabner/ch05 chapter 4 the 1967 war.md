@@ -103,7 +103,7 @@ modified: "2026-09-30"
 
 **句子结构**：本块为结果状语从句，主句为 The command structure of the IDF promised Eshkol that…；promised 之后接 that 从句，从句内的内容为 a few hours, after which Israel would rule the sky, so…。so 在从句中表结果，把前面"空军袭击只需几小时"与后面"战争是安全的风险"连成因果链。
 
-**关键词**：the command structure of the IDF promised / a few hours / so the war was a “safe risk.”
+**关键词**：a few hours / so the war was a “safe risk.”
 
 **表达方式**：矛盾修饰（oxymoron）——"风险"被直接加上"安全"的限定词。引号标明这不是作者的话，而是国防军指挥层的说法。so 一个词把军事判断（速胜）与政治判断（可接受）合并。
 
