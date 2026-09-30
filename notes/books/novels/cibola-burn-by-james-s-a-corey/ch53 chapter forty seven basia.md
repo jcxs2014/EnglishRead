@@ -63,7 +63,7 @@ modified: "2026-09-30"
 
 **为什么这样写：** 炮手对着一艘残破的船说"我很兴奋"，是全章对灾难的荒谬注脚。part of this plan（参与方案）用的是最外向的词（part of），把一场买时间的死斗说成"加入"——Alex 用"参与感"消解了恐惧（典型的战斗乐观主义）。Let’s get going 的祈使句把这场五千分之一概率的赌注拍成即刻执行的动作，节奏上与前面三连 lose 形成反向的推进力：一边是宣判，一边是发车。
 
-**读者视角提示：** 记住"我很兴奋能参与"：它对照 lose, lose, lose 构成本章的情绪摆（一沉一起）。对照 ch51 的"as if you don't like me right now"式的嘴硬——Alex 的热血是它一贯的续航电池。
+**读者视角提示：** 记住"我很兴奋能参与"：它对照 lose, lose, lose 构成本章的情绪摆（一沉一起）。对照 ch51 Basia 那句"There's a seam here I don't like"的嘴硬——Alex 的热血是它一贯的续航电池。
 
 > **原句 6:** It was all just delaying games. Try to save the Barb a little longer with their rail gun heroics. If not, save a few people by moving them to the Roci before she fell out of the sky or turned into a killing jar with twenty more people breathing her air and overloading her life support.
 

@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **全书的本体论在此转折：那个"缺失"终于有了形状——一颗有名字的种子晶体，造门者的"夏娃"。None of that mattered 三个词是人性的死刑判决书：曾经的爱、绝望、牺牲，在功能论证里一文不值。作者让"缺失"从物理学滑向伦理学——本该在此者不在，是全书所有事件的总定义。对照 Miller 的个人史（他一生在找"死掉的女儿"）——两种缺失，缝合成一个。
 
-**读者视角提示： **"种子晶体"回收 ch05 的"advocates no sign"（造门者）——他们是这颗"孩子"的父母或造物。记住 None of that mattered：它将在章尾以"无意义的遗产"（Extraneous）第二次宣判。
+**读者视角提示： **"种子晶体"回收 ch05 的"It builds the investigator from that template"（造门者）——他们是这颗"孩子"的父母或造物。记住 None of that mattered：它将在章尾以"无意义的遗产"（Extraneous）第二次宣判。
 
 > **原句 3:** The investigator knows this. The world is a crime scene, and the one thing that stands out—the one thing that doesn’t belong—is the place that nothing goes.
 

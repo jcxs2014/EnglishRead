@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **对"水晶球"的思想实验只回一枪。Fayez 问"如果能预见今天的下场你还来吗"，她的回答把预见性彻底判为探索的死敌——知道结局的船票没人买，文明也就停摆了。作者让这行短句承担全书的探险哲学：探索的本质是同意被意外改写。对照 ch09 Alex 的"锂是大爆炸限定款"——宇宙慷慨，但从不预告。
 
-**读者视角提示： **"永远不去探索"回收 ch16 的"unfamiliar 星域"与本章 Skippy 的命名——探索者的字典里，"未知"是资产不是负债。记住这句：它是本书对殖民悲剧最干净的辩护，也最脆弱。
+**读者视角提示： **"永远不去探索"回收 ch01 那句"an unfamiliar sun"（探测船传回的新影像）与本章 Skippy 的命名——探索者的字典里，"未知"是资产不是负债。记住这句：它是本书对殖民悲剧最干净的辩护，也最脆弱。
 
 > **原句 5:** Elvi closed her eyes, shutting out the green. A beautiful cascade of logic and implication opened before her like stepping into a garden. She caught her breath, and grinned. The joy of insight lifted her up.
 

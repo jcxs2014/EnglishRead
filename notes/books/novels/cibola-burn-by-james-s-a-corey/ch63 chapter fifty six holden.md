@@ -71,7 +71,7 @@ modified: "2026-09-30"
 
 **关键词：** not your fault, just bad luck, Miller’s partner on Ceres
 
-**为什么这样写：** 全书最大的一块拼图在这句家常里落位。Miller 的搭档不是别人，是 Havelock——ch45–ch62 一路跟随的那个安保主管。not your fault / just bad luck 是 Naomi 对 Holden 囚禁她的开脱，也是她转述 Miller 生平的铺垫。"partners on Ceres"（Ceres 的搭档）是 ch46 Miller 讲过的"我在 Ceres 当警察"的必然延伸。作者让两个死对头（Holden 与 Havelock，一个开枪一个执行）发现他们各自的导师是同一个人——这让全书 64 章的两条安保线在最后一句突然长成同一条。
+**为什么这样写：** 全书最大的一块拼图在这句家常里落位。Miller 的搭档不是别人，是 Havelock——ch45–ch62 一路跟随的那个安保主管。not your fault / just bad luck 是 Naomi 对 Holden 囚禁她的开脱，也是她转述 Miller 生平的铺垫。"Miller's partner on Ceres"（Ceres 的搭档）接的是 ch41 里 Havelock 那句"He was a cop on Ceres"。作者让两个死对头（Holden 与 Havelock，一个开枪一个执行）发现他们各自的导师是同一个人——这让全书 64 章的两条安保线在最后一句突然长成同一条。
 
 **读者视角提示：** 记住"搭档"：它是 ch45–ch62 Havelock 频繁质疑自己的根（他为何反复替 Miller 办事、为何对"坏人"心软）。ch63 揭晓：因为他一生的老师是 Miller。对照 ch62 他"Williams 让我很不好受"的自责——他继承的是 Miller 的标准，不是 RCE 的。
 

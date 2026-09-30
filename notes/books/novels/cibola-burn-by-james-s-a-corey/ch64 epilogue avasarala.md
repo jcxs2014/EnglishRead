@@ -63,7 +63,7 @@ modified: "2026-09-30"
 
 **为什么这样写：** 行星爆炸在两位政治家的嘴里是"小恩小惠"（small favors）。这个短语把 ch32–ch60 的全部灾难（致死风暴、生态崩溃、几百条命）压成一句外交辞令——而它之所以刺，正因为它是真的。Avasarala 与 Bobbie 都知道：Ilus 没炸死人类（这就是"小"），但它炸掉了火星的续命故事（所以才要紧）。snort（哼声）是她拒绝庄重的最后手段：连同情的资格都要用冷哼来领取。
 
-**读者视角提示：** 记住"小恩小惠"：它与 ch31 的"Everything's going fine"、ch62 的"活不过一年"同族。记住 snort：这是 Avasarala 全书唯一的身体反应——她所有的情绪都藏在鼻子里。对照 Bobbie 的 "Well," she said. "Shit."（她用脏话）——两种女性面对末日的语用学。
+**读者视角提示：** 记住"小恩小惠"：它与 ch31 里 Elvi 那句"I'm fine. I'm sorry."、ch62 的"活不过一年"同族。记住 snort：这是 Avasarala 全书唯一的身体反应——她所有的情绪都藏在鼻子里。对照 Bobbie 的 "Well," she said. "Shit."（她用脏话）——两种女性面对末日的语用学。
 
 > **原句 6:** Welcome to the greatest migration in the history of human civilization.
 

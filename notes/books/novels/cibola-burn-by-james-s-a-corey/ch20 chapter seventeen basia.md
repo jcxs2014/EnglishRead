@@ -83,7 +83,7 @@ modified: "2026-09-30"
 
 **为什么这样写： **全章最柔软的转折：反对者亲手把路线图念成祝福。become a doctor 一语双关——那是 Felcia 的梦想，也是 Lucia 的旧路，父亲的祝福里同时装着妻子与女儿两代人的复活。fantastic life 与他此刻的现实（欠着血债、即将被捕的星球）之间的落差，全由"when they let the ship leave"这个条件句扛着——连祝福都带着对封解锁的愤怒。作者让 Basia 的转变在此落地：不靠顿悟，靠把女儿放进未来里的那一眼。
 
-**读者视角提示： **对照 ch15 他那句三个词的 "No, you're not."——本章的 You go 是同一句话的完整赎回版。Merton 家的战争打了六章，和解只用了两行。
+**读者视角提示： **对照 ch15 他那句"No. No, son. You're not."——本章的 You go 是同一句话的完整赎回版。Merton 家的战争打了六章，和解只用了两行。
 
 > **原句 8:** Maybe they’re gone, and maybe they aren’t, but they left a lot of stuff behind and some of it’s waking up. So before we wind up being Eros with a great big sky, everyone is getting the hell out of Dodge.
 

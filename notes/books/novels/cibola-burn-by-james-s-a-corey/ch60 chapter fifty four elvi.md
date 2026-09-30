@@ -83,7 +83,7 @@ modified: "2026-09-30"
 
 **为什么这样写：** 本章的形而上学核心。unmade（被拆解）与 made（被制造）是同一个词根的反义——她正走进自己被制造的源头（也是她被制造的反面）。watched herself being unmade（看着自己被拆）是科学家的凝视在最恐怖之处的保持：她把解构过程当实验记录。而降格三连（细菌→病毒→景观→世界）是 ch28 学科分类学的反向运行：Elvi 一辈子在给生命分门别类，此刻她自己被降级为其中一层。最后的 fell farther in（往更深处坠落）既是下坠也是钻研——两次坠落叠成一个动词，全章的语法在坠落里完成了抵达。
 
-**读者视角提示：** 记住"unmade"：它与 ch28 的"made her go to pieces"（拆船）同族，全书对"制造"的最终清算。记住"景观→世界"：她被还原成一颗行星——她进出的东西与 ch32–ch40 那些"新世界"同一量级。
+**读者视角提示：** 记住"unmade"：它是全书对"制造"的最终清算——她被自己制造出来的东西还原回原料。记住"景观→世界"：她被还原成一颗行星——她进出的东西与 ch32–ch40 那些"新世界"同一量级。
 
 > **原句 8:** It had saved her, and she had never seen anything in her life that filled her with a deeper dread than that complex darkness.
 

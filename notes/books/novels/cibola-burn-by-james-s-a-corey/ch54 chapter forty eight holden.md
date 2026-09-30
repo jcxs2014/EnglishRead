@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 **为什么这样写：** 前半是解药：怪物不等于威胁（空白点死过侵入者=它可能弱）。后半是引擎：buckle up 是战争年代遗留下来的口令，而 make up lost time（追回时间）是这一章的完整句法——倒计时、deadline、还有多少小时，整卷书的度量衡被 Miller 一句"追时间"吸收。恐怖的被囚牢状态在这里被翻译成一场竞赛：不是逃命，是追回。
 
-**读者视角提示：** 记住"make up lost time"：它回收 ch04 的"running a race with the clock"（安迪/鲍勃与时间的赛跑），是本卷反复的句式引擎。记住 buckle up——下一段 Miller 就是"什么该期待"的引子。
+**读者视角提示：** 记住"make up some lost time"：Miller 把追回来的每一分钟说成"补上"——全书仅此一处谈"追时间"。记住 buckle up——下一段 Miller 就是"什么该期待"的引子。
 
 > **原句 5:** “It’s not for show,” Miller said, then the robot began scuttling toward a distant wall. “This is the point of this planet.”
 

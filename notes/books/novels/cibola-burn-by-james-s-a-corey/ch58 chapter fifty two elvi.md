@@ -73,7 +73,7 @@ modified: "2026-09-30"
 
 **为什么这样写：** 一句话三次身份切换：人名（Detective Miller）—死法（Eros 撞 Venus）—现身份（原分子的 puppet）。puppet（木偶）一词选得极准：既是被操纵（无自主），又保留着本人的意志（它能开玩笑、能拒绝）。这是 ch54–ch58 之间 Miller 身份的总定性句，也是它自己向 Elvi 做的"官方介绍"——像机器给自己读说明书。Eros 撞 Venus（而非 Eros 感染）是本系列的核心创伤（ch13 Holden's "V 陨石"，此句把它接到 Miller 身上），一笔把两个主角的过去焊死。
 
-**读者视角提示：** 记住"Eros 撞 Venus"：它是 Miller 全部来历的一句话版（ch26 "unburied dead"、ch33 "I saw it"）。记住 puppet：它是 ch61–64 Miller 身份边界的关键词（半自主 puppet vs 完整自主？答案在 ch63）。
+**读者视角提示：** 记住"Eros 撞 Venus"：它是 Miller 全部来历的一句话版——死法、身份与现处境一句话说完（他的警察身份另由 ch41 的 Havelock 补足："He was a cop on Ceres"）。记住 puppet：它是 ch61–64 Miller 身份边界的关键词（半自主 puppet vs 完整自主？答案在 ch63）。
 
 > **原句 7:** “Don’t know. Seems like I’m acing my Turing test, though.”
 
