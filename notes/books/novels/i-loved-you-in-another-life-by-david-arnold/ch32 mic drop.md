@@ -31,43 +31,43 @@ modified: "2026-09-30"
 
 **为什么这样写**： 作者把「一见钟情」写成一个电器动作：不是心跳加速，是被点亮（set me off）。而这个比喻的妙处在于它是双向的——感应灯需要有人经过才亮，而 Evan 自己就是那只灯。这与他在 ch14 礼堂里被那首歌淹成一片海是同一种写法：Evan 表达强烈情感时从不写情绪，而写物理状态。
 
-**读者视角提示**： 这是全书第一次把 Evan 对 Shosh 的感情挑明（虽然他自己还没承认）。请记住 lighting lamps 这个意象——它和 ch70 他终于买到的那间木屋的灯、ch16 里把她唱的歌写成一片海，是同一条线。
+**读者视角提示**： 这是 Evan 第一次在自己心里承认「这是喜欢一个人」，而他的写法是身体而不是心情。同一条线里他对 Shosh 的另一次描写也完全不用情绪词——把她唱的歌写成一片海。留意他在什么时刻用什么比喻，那才是他真实的语言。
 
 ---
 
-> **原句 2:** But there’s something else, too, something I can’t put my finger on.
+> **原句 2:** When you have a Will in your life, you’re on constant alert for Will breakers. Sometimes it’s the obvious bully with mean eyes; sometimes, it’s the one you least expect, hiding behind a grin.
 
-**中文理解**： 但还有别的什么，是我指不出来的。
+**中文理解**： 当你的生活里有一个 Will，你就永远处于对「Will 破坏者」的警戒状态。有时是那个眼神凶的 obvious bully（恶霸）；有时是你最想不到的那一个，藏在一张笑脸后面。
 
-**关键词**： something else（别的什么）；can’t put my finger on（指不出来，说不准）
+**关键词**： on constant alert（一直保持警戒）；Will breakers（会伤害 Will 的人）；the one you least expect（你最想不到的那一个）
 
-**为什么这样写**： 三个极短的句子构成一次刹车。Evan 刚说完身体被点亮，作者立刻让他自己踩一脚——而这一脚踩的是一个自相矛盾的表达：can’t put my finger on（我说不清）本身就是在指。全章的这一次自我打断，是 Evan 面对 Shosh 时的标准动作：每次快要承认，就要自己停一次。
+**为什么这样写**： 作者先造一个专有名词（Will breakers），再给它下定义——这个顺序让读者在读到定义之前就已经接受了这个说法。而 on constant alert 是军事用语，作者把家长护犊子的心思临时改写成警戒状态。两种危险被并排放：看得见的欺凌，和藏在笑脸后面的那位——作者把「不要轻信友好」写成了一位母亲的日常功课。
 
-**读者视角提示**： 这一句是 Evan 这条线的一个路标：他在能命名之前就已经感觉到了。后面 ch69 两人相遇时，缺的不是感情，是命名。
-
----
-
-> **原句 3:** “Do you know which book he chose?” Mom asks, and like the focus on a lens, I adjust from Shosh World to Real World.
-
-**中文理解**：「你知道他选了哪本书吗？」妈妈问，于是像对焦镜头一样，我从 Shosh 世界调回真实世界。
-
-**关键词**： like the focus on a lens（像镜头对焦）；adjust from…to…（从…调焦到…）
-
-**为什么这样写**： 作者把「注意力被拉回现实」写成一个光学动作：调焦。Evan 刚在自己的世界里（Shosh World），母亲的一句话就把他拧回 Real World。这个「调焦」是他这一生的动作——他总在两个世界之间来回，而这一章是第一次给这两个世界各自命了名。
-
-**读者视角提示**： Real World 这个词组后面还会出现（ch69 两人相遇就是在两个世界对上的那一刻）。留意 Evan 每次切换时付出的代价。
+**读者视角提示**： 这一段是全书难得一次把「母亲」写成警戒状态的人。而这位母亲接下来在车上要做的事，是把这份警戒的起因平静地说了出来——听众正是那个被她瞒着的人。
 
 ---
 
-> **原句 4:** This is the last page. It’s a picture of me, walking away. Sometimes I like to take really high steps—like this.
+> **原句 3:** “My book is called Will’s Question,” he says, standing at the podium in that red hoodie, a look of fierce determination on his face, and God, I love him so much.
 
-**中文理解**： 这是最后一页。画的是我，走着 away。有时候我喜欢迈特别大的步子——像这样。
+**中文理解**： 「我的书叫《威的问题》，」他说着，站在那个讲台前，穿着那件红卫衣，脸上是一种决绝的神情。天哪，我爱他爱得不得了。
 
-**关键词**： the last page（最后一页）；walking away（走开）；take really high steps（迈特别高的步子）
+**关键词**： Will’s Question（威的问题）；a look of fierce determination（脸上那种决绝的神情）；I love him so much（我爱他爱得不得了）
 
-**为什么这样写**： 一个孩子把自己画成「走开的人」，然后立刻在全场面前演示了那个走法。作者让一个七岁小孩在图书馆里抬起腿走了两步——而这个画面之所以好笑又残忍，是因为没有人知道（除了读者）这个「走开」在另一条线上真的发生过：ch01 里 Evan 就是在同一个星期从同一场派对上逃走的人。Will 画的是哥哥的样子，而哥哥当时正在被那句话震着。
+**为什么这样写**： 作者先给出书名，而书名本身已经预告了爆炸点：这本书叫「问题」，而它的内容就是他还在问的那个问题。全场的人把书名听成一个小孩的胡闹，而 Evan 在同一秒钟里既想笑又想哭——作者用一句直接冲进叙述层的告白（God, I love him so much）把这两种情绪并排摆着。a look of fierce determination（决绝的神情）也是双关：读者当时以为那是认真，如今才知道那是赴死。
 
-**读者视角提示**： 这本书的结构在这里露了一次头：弟弟画的是哥哥，而哥哥马上要做出画里那个动作。这两章（ch01 与 ch32）互为镜像，读者可以把它们并排读。
+**读者视角提示**： 这一章里孩子说的每句话都是双层的——他当时以为自己只是在念一本书，而后面那句献词会证明他早就知道自己在做什么。
+
+---
+
+> **原句 4:** Will proceeds to show the entire library how he likes to take really high steps.
+
+**中文理解**： Will 接着就把整个图书馆都演示了一遍：他喜欢迈特别高的步子。
+
+**关键词**： proceeds to（接着就）；the entire library（整个图书馆）；take really high steps（迈特别高的步子）
+
+**为什么这样写**： 全书最悲伤也最好笑的一句。一个孩子把「我会描述图上的画」落实成真的站起来走了两步，而作者把这个动作的执行范围直接放大成整个图书馆——他不知道自己刚刚把一场朗读变成了表演。这一句同时完成三件事：把观众从悲伤里拉出来、把 Will 的天真写到极致、也为下一句的安静（那句献词）攒足了反差。
+
+**读者视角提示**： 作者对孩子的残酷在于此：他写的大笑与后面几秒的静默之间不留任何缓冲。而紧接着再出现的那种笑，正是 Evan 要记住的那一笔。
 
 ---
 
