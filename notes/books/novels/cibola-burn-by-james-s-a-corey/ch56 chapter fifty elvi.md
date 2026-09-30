@@ -77,7 +77,7 @@ modified: "2026-09-30"
 
 > **原句 7:** What I’m not doing, and I hope you understand this, is running around in a circle with my dick in my hand whining about how nothing matters because we’re all going to die. We all knew when we got on the Edward Israel that we might not make it back. That was a risk you were willing to take because it meant you could do your job. I’m no different.
 
-**中文理解：** "我没有在干的事（我希望你理解这点），是攥着JJ绕圈子哭天：反正我们都要死了，什么都不重要。我们上 Edward Israel 号时就知道可能回不来——那是你甘愿冒的险，因为那意味着你能干你的活。我也一样。"
+**中文理解：** "我没有在干的事（我希望你理解这点），是攥着命根子绕圈子哭天：反正我们都要死了，什么都不重要。我们上 Edward Israel 号时就知道可能回不来——那是你甘愿冒的险，因为那意味着你能干你的活。我也一样。"
 
 **关键词：** running around in a circle, with my dick in my hand, you could do your job, I’m no different
 
