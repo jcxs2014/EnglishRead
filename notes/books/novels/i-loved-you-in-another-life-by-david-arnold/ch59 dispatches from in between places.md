@@ -125,9 +125,9 @@ modified: "2026-09-30"
 |---|---|---|
 | manifestation | 具象化，具体体现（此处指酒瓶＝舒适的具象） | The bottles in her house had been the manifestation of comfort |
 | bated breath | 屏住呼吸（bated，屏气的；with bated breath 屏息等待） | the nominees waited with bated breath as the envelope was being opened |
-| concocted 调制的，配制的（此处指那杯假马提尼） | sipping her elderflower concoction |
+| concoction | 调制品，混合物（此处指那杯不含酒精的果花马提尼） | sipping her elderflower concoction |
 | ravenous | 饥渴的（此处形容这个房间的胃口） | the ravenous room celebrating around them |
-| nutritiously | 有营养地（作者故意造出来的副词，讽刺这个房间靠坏消息摄取营养） | said Ali, a worthy effort, but nutritiously insufficient |
+| nutritiously | 有营养地（此处指 Georgetown 那句话对全场的喂养，营养不足） | said Ali, a worthy effort, but nutritiously insufficient |
 | dapper | 衣冠楚楚的（此处形容 Evan 的 Gatsby 打扮） | ever the dapper Gatsby |
 
 ### ⭐⭐ 进阶
