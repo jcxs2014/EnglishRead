@@ -55,7 +55,7 @@ modified: "2026-09-30"
 
 **中文理解**： 夜里那段聊天里，Woody 坚持说：她当时就在场，我是在镜子里看见她的；丈夫回她一句「所以呢？你是在酒吧看见伯妮的」，然后连发三声无人应答的名字。
 
-**关键词**： She was there when it happened（她当时就在场）· I saw her in the mirror（我是在镜子里看见她的）· So what? You saw Bernie in a pub?（所以呢？你是在酒吧看见伯妮的？）
+**关键词**： She was there when it happened（她当时就在场）· You don’t understand（你不懂）· I saw her in the mirror（我是在镜子里看见她的）
 
 **为什么这样写**： 四句话只给出一个新信息，而这个信息正好落在全书最早那场魔术的道具上——镜子；丈夫那句反问把一句指控降格为一次目击，直到最后三声重复的名字才把重量重新压回来。
 
