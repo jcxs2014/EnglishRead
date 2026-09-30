@@ -1,0 +1,60 @@
+# ch01 首章试产门禁原始输出 2026-09-30 20:06 UTC  lane=完整(有epub)
+
+=== verify_quotes ===
+ch01 doris says goodbye.md: 8/8 ✅
+
+=== 总计 8/8 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0 ===
+=== verify_quotes --full ===
+ch01 doris says goodbye.md: 8/8 ✅
+
+=== 总计 8/8 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+=== check_vocab ===
+  [P0-4] 正文章节 1 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 26
+
+--- FAIL (0) ---
+
+--- WARN (1) ---
+  ch01 doris says goodbye.md [基础] 基础档疑含超纲词「grandchild」
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+=== corruption_scan ===
+
+=== 编辑损坏扫描（if-tomorrow-comes-by-sidney-sheldon）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+=== sweep_full ===
+=== 引语整串 flat 比对（if-tomorrow-comes-by-sidney-sheldon）===
+  参照集：text/ 逐章（34 章，可定章） + epub 交叉验证
+  ✅ 本章命中 8 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+=== check_chapter_quotes 01 ===
+全章扫描: 解析引语块 8，命中本章 8（100%）
+✅ 全部引语均归属正确章节
+=== check_anchor ===
+  扫 1 个 md，8 个引语块，8 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（35 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+=== audit_structure ===
+=== 精读结构扫描（if-tomorrow-comes-by-sidney-sheldon）===
+  扫 1 个 md、8 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+=== check_nav_layer ===
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+=== sweep_analysis_inline ===
+=== 分析层行内英文逐字核查（if-tomorrow-comes-by-sidney-sheldon）===
+  参照集：text/（35 个提取件） + epub 交叉验证 ；扫 1 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：32 个表格行、29 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 35 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 0
+=== check_block_coverage ===
+⚠️ ch01 doris says goodbye.md: md 块 8 / 工具抽到 8
+   [尾部叙述标签未进 verify_quotes（由 sweep_full 整串兜）] “I feel like a princess in a fairy tale, Mother,” Tracy  …→ 校验到 'I feel like a princess in a fairy tale, Moth'
+✅ 块覆盖对账：1 个文件，每块都进了 verify_quotes 校验
+=== verify_corpus (no --anchors) ===
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===
