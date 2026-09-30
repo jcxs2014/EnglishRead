@@ -7,10 +7,10 @@ modified: "2026-09-30"
 
 ## 本章导航
 
-- **地点·时间**：开头明写 Philadelphia，TUESDAY, OCTOBER 7—4:00 P.M.（十月七日星期二下午四点）。此后依次是 New Orleans 机场、次日上午十一点的 Philadelphia Trust and Fidelity Bank、当晚的 Café Royal、次日的同一家银行与街边药店、随后是 New York 的 Lexington Avenue、Lower East Side 的公寓、Wellington Arms 旅馆，以及 Conrad Morgan et Cie Jewelers（第五大道 640 号）。本章没有换视角。
+- **地点·时间**：开头明写 Philadelphia，TUESDAY, OCTOBER 7—4:00 P.M.（十月七日星期二下午四点）。此后依次是 New Orleans 机场、次日上午十一点的 Philadelphia Trust and Fidelity Bank、当晚的 Café Royal、次日的同一家银行与街边药店、随后是 New York 的 Lexington Avenue、Lower East Side 的公寓、Wellington Arms 旅馆，以及 Conrad Morgan et Cie Jewelers（第五大道 640 号）。
 - **一句话概括**：Tracy 回到 Philadelphia 收私尾——银行拒她复职、Charles 已经娶了别人、她顺手把属于自己的一笔钱取出来；北上纽约后处处被档案挡在门外，最后在珠宝商 Conrad Morgan 手上接下第一桩活。
 - **情感弧线位置**：这是复仇完成之后的那段空档：她已经替母亲了结了名单上的人，却开始被一整个社会用「档案」推着走；结尾处她从「我来了」滑到「那我得说好」，是主线上一道真正的道德滑坡。
-- **叙事手法**：第三人称紧贴 Tracy 一人，中途插入银行回信与结尾处 Morgan 独坐的收尾。伪装线（假发、下巴上的假疤、墨西哥口音）与技术线（授权码 = 季节 + 当天日期）交替推进；结尾突然把镜头交给独坐的珠宝商，把全章的道德重量转给局外人。
+- **叙事手法**：第三人称紧贴 Tracy 一人，中途插入银行回信与结尾处 Morgan 独坐的收尾。伪装线视角紧贴 Tracy，只在结尾交给珠宝商一次。伪装线（假发、下巴上的假疤、墨西哥口音）与技术线（授权码 = 季节 + 当天日期）交替推进；结尾突然把镜头交给独坐的珠宝商，把全章的道德重量转给局外人。
 - **线索进展**：① 她在机场只对 Ernestine 和 Al 说要「回银行上班」；② Clarence Desmond 拒绝她复职，理由写明 armed robbery and attempted murder；③ 她在 Café Royal 看见 Charles 与妻子并确认这段关系已经结束；④ 银行以 employees’ financial plan 的 morals policy 为名把她那份钱并入 general fund，她用 Rita Gonzales 的假身份和季节授权码把钱转到纽约取现；⑤ 求职被银行、保险、出口公司一路拒绝，一进店就被人认出来；⑥ Conrad Morgan 提出两万五千美元的条件；⑦ 她化名 Rita Gonzales，租车的计划按 Morgan 的安排进行；⑧ 她口头应下周六夜里去 Long Island 的活。
 
 ## 精读
@@ -20,7 +20,7 @@ modified: "2026-09-30"
 - **中文理解**：「Whitney 小姐。」她已经不再是 Tracy 了。「很抱歉，您要求的这件事完全办不到。我想您能理解，我们的客户不会愿意和一个因为持械抢劫和杀人未遂在监狱里待过的人打交道。那和我们的高道德形象太不相称了。以您的背景，我认为任何银行都不会聘用您。我建议您去找一份更适合您目前处境的工作。我希望您明白，这里面没有任何个人因素。」
 - **关键词**：quite out of the question · served time in the penitentiary · hardly fit in with our high ethical image · nothing personal in this
 - **为什么这样写**：辞退的措辞是全章最冷的一处技术表演：先换成姓（Miss Whitney），再说 out of the question（不在考虑之列），再把拒绝包装成替对方着想（more suitable to your circumstances），最后补一句 there is nothing personal in this。作者让读者亲耳听见官僚话术怎么运转——话都礼貌，话也都在关门。It was no longer Tracy 这一句夹在称呼和长篇之间，是把改名写成一个瞬间动作。
-- **读者视角提示**：注意 he 的回答里一次也没提她今天为什么来；Tracy 带来的「我技术还在」这句话，只换来了关于道德形象的讨论。
+- **读者视角提示**：注意他的回答里一次也没提她今天为什么来；Tracy 带来的「我技术还在」这句话，只换来了关于道德形象的讨论。
 
 > **原句 2:** Tracy moved toward the exit, head held high, dying inside. I can’t let them do this to me. My pride is all I have left, and no one is going to take that away from me.
 
@@ -33,7 +33,7 @@ modified: "2026-09-30"
 
 - **中文理解**：没有爱。没有快乐。这就是 Charles 的惩罚，Tracy 想；她忽然涌起一阵解脱，一种从那些又深又黑的感情锁链里挣脱出来的自由。
 - **关键词**：No love · No joy · That is Charles’s punishment · a freedom from the deep, dark, emotional chains
-- **为什么这样写**：作者先用 No love. No joy. 两记极短的否定句把一个下午的观察结算掉，再把结论塞进一个偏正结构里（That is Charles’s punishment, Tracy thought）。judgment 的力气全在 That 一个指示词里：她没有说「他活该」，只说这是他的惩罚，而「惩罚」这个词意味着她曾经判过他。后面那串 deep, dark, emotional 三个形容词叠在 chains 前面，是全书少见的直白抒情。
+- **为什么这样写**：作者先用 No love. No joy. 两记极短的否定句把一个下午的观察结算掉，再把结论塞进一个偏正结构里（That is Charles’s punishment, Tracy thought）。判断的力气全在 That 一个指示词里：她没有说「他活该」，只说这是他的惩罚，而「惩罚」这个词意味着她曾经判过他。后面那串 deep, dark, emotional 三个形容词叠在 chains 前面，是全书少见的直白抒情。
 - **读者视角提示**：这段是本章情绪的转折点：她不是抢回了什么，是把一样旧东西放下了；放下之后的那句 It was over 才是真的结束。
 
 > **原句 4:** Tempting, Tracy thought. Since she had access, there was no limit to the amount the now subservient computer would give her. She could have taken millions. But she was no thief All she wanted was what was rightfully owed her.
@@ -47,8 +47,8 @@ modified: "2026-09-30"
 
 - **中文理解**：但 Tracy 发现，电脑忽然变成了她的敌人。她的人生不再是私人的了。那些银行电脑存着她一生的故事，谁按对了键它就讲给谁听。她的犯罪记录一被调出来，申请就被自动驳回。
 - **关键词**：the computer had suddenly become her enemy · Her life was no longer private · readily told it to everyone · automatically rejected
-- **为什么这样写**：前四节里电脑还是她的工具（她设置过那套安防），这一节里它成了告发她的地方，而中间她没有做错任何事。作者把转折压进一个副词 suddenly，接着用四个被动结构收尾（held / told / revealed / rejected），一个主动的人被整段流程吞掉。Her life was no longer private 这一句既是情节也是主题：她出狱是为了把往事变成往事，而往事现在被存成了档案。
-- **读者视角提示**：这一节之后她的每一次求职都不再是情节推进，而是同一件事的复述——这也是作者让求职失败一段带过的原因。
+- **为什么这样写**：前面她还是这台系统的内行人（那套安防正是她参与设置的），这一段里它成了告发她的地方，而中间她没有做错任何事。作者把转折压进一个副词 suddenly，接着用四个被动结构收尾（held / told / revealed / rejected），一个主动的人被整段流程吞掉。Her life was no longer private 这一句既是情节也是主题：她出狱是为了把往事变成往事，而往事现在被存成了档案。
+- **读者视角提示**：这一段之后她的每一次求职都不再是情节推进，而是同一件事的复述——这也是作者让求职失败一段带过的原因。
 
 > **原句 6:** “I have a very profitable little sideline, Miss Whitney, and I take great pleasure in sharing those profits with my colleagues. I have been most successful employing people like yourself—if you’ll forgive me—who have served time in prison.”
 
@@ -62,7 +62,7 @@ modified: "2026-09-30"
 - **中文理解**：它就摆在那里，摊在明处。凭你那段履历……
 - **关键词**：And there it was, out in the open · With your record
 - **为什么这样写**：这一处重击短得几乎只剩语气，而力量来自破折号式的省略（原文写的是 record 后接省略号）：经理那半句 With your record 没有说完，也不用说完——读者和 Tracy 都知道后面是什么。这半句既是罪名，也是那句「我们得叫警察」的全部理由；作者把它放在这场戏里唯一被指控的地方，而告发她的人根本没有恶意。
-- **读者视角提示**：半小时后经理回来笑着说戒指是她自己放错了——错不在这里，这块写的是标签贴上之后人怎么活。
+- **读者视角提示**：半小时后经理回来笑着说戒指是她自己放错了——错并不在她身上；这一块真正写的是标签贴上之后人怎么活。
 
 > **原句 8:** When Tracy had left, Conrad Morgan sat in the dark in his office, thinking about her. A beautiful woman. Very beautiful, indeed. It was a shame. Perhaps he should have warned her that he was not really that familiar with that particular burglar-alarm system.
 

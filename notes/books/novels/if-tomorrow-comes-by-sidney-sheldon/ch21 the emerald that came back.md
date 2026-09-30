@@ -58,7 +58,7 @@ modified: "2026-09-30"
 
 > **原句 7:** The taxi ride was interminable. Halston transported himself from the heights of heaven to the depths of hell, and back again. If the emerald was indeed similar to the other one, he would be wealthy beyond his wildest dreams. Four hundred thousand dollars, he’ll pay. A $300,000 profit. He would buy a place on the Riviera. Perhaps get a cruiser. With a villa and his own boat, he would be able to attract as many handsome young men as he liked… .
 
-- **中文理解**：那段出租车路程漫长得要命。Halston 在天堂的高度和地狱的深处之间来回了好几趟。要是那块宝石确实和另一块相像，他就会富到连最疯狂的梦都不止——四十万美元，他会付。三十万的利润。他可以在 Riviera 买一处房子。也许再弄一艘游艇。有了别墅和自己的船，他就可以招来尽可能多的 handsome young men。
+- **中文理解**：那段出租车路程漫长得要命。Halston 在天堂的高度和地狱的深处之间来回了好几趟。要是那块宝石确实和另一块相像，他就会富到连最疯狂的梦都不止——四十万美元，他会付。三十万的利润。他可以在 Riviera 买一处房子。也许再弄一艘游艇。有了别墅和自己的船，他就可以随心所欲地招来尽可能多的俊俏年轻男人。
 - **关键词**：from the heights of heaven to the depths of hell, and back again · A $300,000 profit · as many handsome young men as he liked
 - **为什么这样写**：这段自由间接引语把一连串数字和幻想直接放进叙述者的句子，不加引号也不标人称，于是贪心的推演读上去像脑子里的声音。heavens 与 hell 的对称是假的——他在两端之间来回摆动，恰恰说明他从没真的冷静过；后面那句关于别墅、船和年轻男人的幻想越具体，读者越替他捏汗，因为越具体越说明这不是一时冲动。
 - **读者视角提示**：作者在这里已经不打算让读者惊讶了，只想让他们等着看这笔账怎么结。

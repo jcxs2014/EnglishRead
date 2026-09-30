@@ -10,7 +10,7 @@ modified: "2026-09-30"
 - **地点·时间**：西班牙 Majorca 岛。Tracy 从 Biarritz 飞到首府 Palma，入住 Son Vida 酒店的 Royal Suite；随后到 Porto Cristo 附近的 Cuevas del Drach（「龙之洞穴」）。原文给的时间是「接下来的第二天早上」和「星期六」，没有日历日期。
 - **一句话概括**：Gunther Hartog 把一桩高价委托交给 Tracy——从马德里的普拉多博物馆弄到戈雅的 Puerto 一画——两人在龙穴洞的地下罗马剧场碰头，而跟在后面的 Cooper 在人群中跟丢了她。
 - **情感弧线位置**：节奏从「布局」落到「接活」——Tracy 还没出手，读者先看到一桩听起来不可能的活被摆到她面前；她没有立刻答应，只是把地名说出口。
-- **叙事手法**：三条线在一章内轮转——Tracy 与 Gunther 的对话、Cooper 与 Palma 警方的交涉（Trignant 打来Interpol 的定性电话、Cooper 否定「她在观光」）、以及洞穴里的接头。全章靠一个动作收束：`She was alone.` 前面那条 `She was alone.` 与 Cooper 的盯梢形成错位。
+- **叙事手法**：三条线在一章内轮转——Tracy 与 Gunther 的对话、Cooper 与 Palma 警方的交涉（Trignant 打来Interpol 的定性电话、Cooper 否定「她在观光」）、以及洞穴里的接头。全章收在一个画面上：洞口外 Cooper 站着看 Tracy 走出来，叙述者只补一句 `She was alone.`——他一路跟进洞、在人群里跟丢了她，看到的仍只是一个独自离开的观众，而接头早已在剧场的第二十一个座位上完成。
 - **线索进展**：① Interpol 对 Tracy 发出红色通报，Palma 警方在她入住后设二十四小时监视；② Cooper 抵达 Palma，向警长 Ernesto Marze 断言她「不是来旅游的」；③ Gunther 开价：委托人愿以五十万美元现金换取任何能拿到 Puerto 的人；④ 画在马德里的普拉多博物馆；⑤ Tracy 约在洞穴的罗马剧场碰头，以第二十一个座位为记；⑥ 演出结束后她独自出洞。
 
 ## 精读
@@ -34,14 +34,14 @@ modified: "2026-09-30"
 - **中文理解**：「一位有钱的委托人急着要弄到一幅画。是戈雅的一幅，叫 Puerto。谁能替他拿到，他当场付五十万美元现金。这高过我自己的抽成。」
 - **关键词**：A wealthy client is eager to acquire a certain painting · It’s a Goya, called Puerto · half a million dollars in cash · That’s above my commission
 - **为什么这样写**：He’ll pay whoever can obtain it for him 把竞争者直接写进了价目表——价不是给某个人的，是给「任何人」的，于是自己找上门来的活不必再推。That’s above my commission 是他给出的全部理由：不是义气，是抽成。整段用四个短句交付一桩委托，语速快得像报价单。
-- **读者视角提示**：紧跟着的一句是 `“This will take a great deal of ingenuity.”`——他把「这活要巧思」提前挂在墙上，而巧思正是他自己赖以为生的那一样。
+- **读者视角提示**：她听完没有立刻接活，先反问一句 `“Are there others trying?”`——她算的是对手的数量，不是价钱。Gunther 隔了几轮才补上那句 `“This will take a great deal of ingenuity.”`，把「要巧思」提前挂在墙上。
 
 > **原句 4:** “The Prado!” The word that flashed through Tracy’s mind was impossible.
 
 - **中文理解**：「普拉多！」掠过 Tracy 脑海的那个词是不可能的。
 - **关键词**：The Prado! · The word that flashed through Tracy’s mind was impossible
 - **为什么这样写**：她的反应被拆成两层：先是被喊出来的地名，再是叙述者替她下的判断。the word that flashed through 把念头写成一道闪电——它来得比思考快。作者没说清 impossible 指的是哪一层：难办，还是「居然是这里」。这一层留白让读者自己填，而两种填法都成立。
-- **读者视角提示**：紧接着她说的是 `“And do you know what city I’ve always wanted to see, Gunther? Madrid.”`——把不可能改写成心愿，就是她在洞穴里给出的反手。
+- **读者视角提示**：她没有把这句不可能说出口——先用一个反问和一句玩笑挡过去，直到演出散场才对 Gunther 说 `“And do you know what city I’ve always wanted to see, Gunther? Madrid.”` 把不可能改写成心愿，就是她在洞穴里给出的反手。
 
 ## 本章词汇
 

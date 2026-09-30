@@ -53,7 +53,7 @@ modified: "2026-09-30"
 
 - **中文理解**：正因为两人被分开坐着，Boris Melnikov 和 Pietr Negulesco 根本没想到，说到底他们是在彼此对弈。Melnikov 对 Tracy 走的每一步，Tracy 就在 Negulesco 那边重复一遍；而 Negulesco 怎样反击，她就照样拿去对 Melnikov。
 - **关键词**：had no idea that, in effect, they were playing against each other · Tracy repeated with Negulesco · Tracy used that move against Melnikov
-- **为什么这样写**：作者把底牌用一个 because 让步分句提前摊开，再用两个结构对称的句子把机关拆成两半——一句是搬运，一句是回敬。Tracy 这个词在两句里各出现一次，且都被放在动词后面当主语，强调的不是她聪明，是她在做搬运工。in effect 三个字承担了全部的法律重量：纸面上是三方对局，实际上是两人互殴。
+- **为什么这样写**：作者把底牌用一个 because 让步分句提前摊开，再用两个结构对称的句子把机关拆成两半——一句是搬运，一句是回敬。Tracy 这个词在两句里各出现一次，且都被放在动词后面当主语，强调的不是她聪明，是她在做搬运工。in effect 两个词承担了全部的法律重量：纸面上是三方对局，实际上是两人互殴。
 - **读者视角提示**：这一段是全章的机关说明。前面几千字都在铺两个人的虚荣，这里用一句话把他们的虚荣变成了彼此的武器。
 
 > **原句 7:** And Negulesco thought, She is Melnikov’s protégée. The bastard has taught her his game.

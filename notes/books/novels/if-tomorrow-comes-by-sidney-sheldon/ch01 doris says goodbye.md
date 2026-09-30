@@ -62,7 +62,7 @@ modified: "2026-09-30"
 - **中文理解**：一响炸雷，像后台的提示。是时候了。除了最后一声告别，已无话可说。
 - **关键词**：a loud clap of thunder · like an offstage cue · a final farewell
 - **为什么这样写**：offstage cue 是戏剧术语——台外的提示音，演员听见了就上场。Doris 把雷声当成自己的出场铃。与前面 Hitchcock 的比喻同一条线：她一直在用「这是一出戏」的距离感撑着自己不抖。
-- **读者视角提示**：It was time. 只有两个词，是本章最短的一句。作者用它把前面所有寒暄一笔结账。
+- **读者视角提示**：It was time. 只有三个词，却把前面所有寒暄一笔结账。全章最短的一句其实是原句 5 里那个孤零零的 No.——同样只有一个词，但那是一句被截断的心里话，这一句是拍下来的板。
 
 > **原句 8:** She raised the gun to her temple and squeezed the trigger.
 

@@ -55,7 +55,7 @@ modified: "2026-09-30"
 - **中文理解**：「男爵夫人，那球在空中的时速接近一百英里。打在头上你就死了。不过球员很少失手。」
 - **关键词**：travels through the air at almost a hundred miles an hour · If you get hit in the head · it’s rare for a player to miss
 - **为什么这样写**：三句分别是事实、后果、例外，而 But 把刚说出口的死亡立刻收回去。危险因此被写成刺激而不是威胁——它当场就被一个「很少」否定掉了。读者被吓到的余味还在，但叙述的语气已经回到看球闲聊。
-- **读者视角提示**：这一段埋下的「罕见失手」在下一段立刻兑现，一名球员用错角度把球砸向看台。
+- **读者视角提示**：这一段埋下的「罕见失手」在下一段立刻兑现——球局中段，一名球员没打招呼就把球甩向 backboard，角度也错了。
 
 > **原句 7:** Armand Grangier said softly, “Counterfeit! You were going to pay us off with counterfeit money.” He watched the expressions that played across her face. Denial, outrage, and then defiance.
 
@@ -68,7 +68,7 @@ modified: "2026-09-30"
 
 - **中文理解**：根本没有造币窝点，也没有在瑞士等着她的雕刻师。Tracy Whitney 从来没有上当那个沉船宝藏的故事。这个婊子拿他自己的局当了饵，从他手里骗走五十万。而 If the word of this got out…——这句话在原文里就没有下文。
 - **关键词**：no counterfeiting operation · had never fallen for the sunken-treasure story · used his own scheme as the bait · If the word of this got out…
-- **为什么这样写**：反转完全落在 Grangier 的意识里完成，两个 no 开头的否定句把 Tracy 讲给他听的每一件硬件逐条注销。bait 一词把「沉船宝藏」重新定性：它从头到尾不是故事，是饵。而 him 指回 Grangier 自己——骗局的靶子一直站在他面前，他知道，只是太晚。
+- **为什么这样写**：反转完全落在 Grangier 的意识里完成，两个 no 开头的否定句把 Tracy 讲给他听的每一件硬件逐条注销。bait 一词把「沉船宝藏」重新定性：它从头到尾不是故事，是饵。而 him 指回 Grangier 自己——被钓的那一条鱼一直站在这间屋子里，他知道得太晚。
 - **读者视角提示**：引语最后一个 If the word of this got out… 是原文里一句没有写完的话——省略号之后直接断掉。他真正怕的不是被骗，是消息传出去，于是本章的收束不是复仇预告，而是他自己的灭顶之灾。
 
 ## 本章词汇

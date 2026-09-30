@@ -20,21 +20,21 @@ modified: "2026-09-30"
 - **中文理解**：Tracy 注意到，每个展厅入口都站着一名穿制服的警卫，他手肘旁边有一个红色报警按钮。她知道，警报一响，博物馆的所有出入口都会被封死，她不会有任何逃脱的机会。
 - **关键词**：a uniformed guard was stationed at the entrance to each room · at his elbow was a red alarm button · the moment the alarm sounded · no chance of escape
 - **为什么这样写**：这一段没有任何动作，只有清点。作者把「每个展厅」「每个门口」写成重复结构，让读者跟着她的视线把整栋楼数了一遍；而 She knew 把这一切从观察升成推演——她在看的同时已经在算触发之后的结果。no chance of escape 是全句的落点，前面所有名词都是为它服务的铺垫。
-- **读者视角提示**：紧随其后的一句是 `She could see a round access fixture on each side of the doorway.`——读者刚被告知门会被封，她已经在量门框了。
+- **读者视角提示**：接下来另起一段，她已经在量门框——`She could see a round access fixture on each side of the doorway.` 读者刚被告知门会被封，她已经在找那个装置。
 
 > **原句 2:** And there, next to The Witches’ Sabbath, was the Puerto. Tracy stopped and stared at it, her heart beginning to pound. In the foreground of the painting were a dozen beautifully dressed men and women standing in front of a stone wall, while in the background, seen through a luminous mist, were fishing boats in a harbor and a distant lighthouse. In the lower left-hand corner of the picture was Goya’s signature.
 
 - **中文理解**：就在那儿，紧挨着《女巫的安息日》（The Witches’ Sabbath），是那幅《Puerto》。Tracy 停下脚步，盯着它，心开始砰砰直跳。画面前景里，一群衣着华美的男女站在石墙前；背景透过一层发光的雾，是港口里的渔船和一座远处的灯塔。画的左下角是戈雅的签名。
 - **关键词**：next to The Witches’ Sabbath, was the Puerto · her heart beginning to pound · seen through a luminous mist · In the lower left-hand corner of the picture was Goya’s signature
 - **为什么这样写**：作者把「发现」写成一次空间定位——next to 一个已经在地的作品，读者因此确信这幅画不是被特意陈列的主角，而是被摆在别人旁边的一件。接着的 her heart beginning to pound 是本章里她写出来的生理反应，而用现在分词 beginning，把这一下心跳写成还没结束的过程。画作本身被拆成前景／背景两层来描述，收尾却落到一个精确到角落的细节上——签名。
-- **读者视角提示**：下一句是 `This was the target. Half a million dollars.`——两个短句把价钱摆出来，而在此之前没有任何人为它开过价。
+- **读者视角提示**：下一句是 `This was the target. Half a million dollars.`——两个短句把价钱摆出来，而这一章在她看到画之前没有出现过这个价钱。
 
 > **原句 3:** It’s going to be a race, Mr. Stevens, and I’m going to win it.
 
 - **中文理解**：这是一场赛跑，Stevens 先生，而我打算赢。
 - **关键词**：It’s going to be a race, Mr. Stevens · I’m going to win it
-- **为什么这样写**：全句没有提画，也没有提博物馆，可读者刚看完那幅画——作者靠「不点破」让这句台词自己带上下文。称对方为 Mr. Stevens 而非 Jeff，是她在心里把公事与私情切开；而 It’s going to be a race 与 I’m going to win it 都用 going to 这个形式，像赛跑已经开始之后的解说。
-- **读者视角提示**：这句紧接着 `Tracy averted her head and hurried out the side entrance before he could see her.`——她赢了这一回合，代价是还没跟对手说过一句话。
+- **为什么这样写**：全句没有提画，也没有提博物馆，可读者刚看完那幅画——作者靠「不点破」让这句台词自己带上下文。称对方为 Mr. Stevens 而不是 Jeff，这句台词把公事与私情切开了；而 It’s going to be a race 与 I’m going to win it 都用 going to 这个形式，像赛跑已经开始之后的解说。
+- **读者视角提示**：它前面那句是 `Tracy averted her head and hurried out the side entrance before he could see her.`——她避开对手之后，这句才落下来，而这一回合她跟对手连一句话都没说过。
 
 > **原句 4:** “She’s not going to try any of the usual ways. You must have the museum vents protected, in case of a gas attack. If the guards drink coffee on the job, find out where they get it and if it can be drugged. Check the drinking water—”
 
