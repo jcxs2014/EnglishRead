@@ -1,0 +1,73 @@
+# 五步审查 e 步（总览层事实核对）原始逐行输出 — if-tomorrow-comes-by-sidney-sheldon
+# 生成时间：2026-10-01
+
+## 1. 情感节点：逐节点关键引语 ↔ 标注章号 对账（自写第二实现）
+  ✅ 一：一条为血迹准备的睡裙（ch01） → ['01']
+  ✅ 二：「我失败了」（ch02） → ['02']
+  ✅ 三：十五年（ch03） → ['03']
+  ✅ 四：那根断掉的电话线（ch04） → ['04']
+  ✅ 五：Fresh meat（ch05–ch06） → ['06']
+  ✅ 六：一句零成本的真相（ch08） → ['08']
+  ✅ 七：一句常识疑问（ch10） → ['10']
+  ✅ 八：湖边的一个身影（ch11） → ['11']
+  ✅ 九：空白的存款单（ch12–ch14） → ['14']
+  ✅ 十：一场被撤销的梦（ch31） → ['31']
+  ✅ 十一：Alkmaar 的那个夜晚（ch32） → ['32']
+  ✅ 十二：过道里的那个人（ch34） → ['34']
+归属正确 12 ｜ 错配 0
+
+## 2. 总览三篇英文引语逐字回查（阈值 5 词，verify_overview_quotes 对本书 0 提取不覆盖）
+00_概述.md: 片段 16 ｜ 命中 16 ｜ 查无 0
+00_金句精选.md: 片段 12 ｜ 命中 12 ｜ 查无 0
+00_情感节点.md: 片段 13 ｜ 命中 13 ｜ 查无 0
+合计片段 41 ｜ 命中 41 ｜ 查无 0（阈值 5 词）
+
+## 3. 概述各章断言定向回源（chNN + 特征词）
+Traceback (most recent call last):
+  File "<stdin>", line 13, in <module>
+ValueError: Unknown format code 'd' for object of type 'str'
+
+## 4. 反向计数：六处留白是否被总览代为裁决
+  ⚠️ 1  Doris 动机
+       … 阅读提示  以下六处全书**未给出定论**，引用时须保留原样，不得代为裁决：Doris 自杀的动机 · Tracy 在第 15 章是否真的去偷了那批珠宝（原文…
+  ✅ 0  Pierpont 同一人
+  ✅ 0  辞职信已递出
+  ✅ 0  祖母绿来路
+  ✅ 0  ch15 是否真偷
+  ⚠️ 1  Jeff 现金自洽性
+       …y 在第 15 章是否真的去偷了那批珠宝（原文停在她口头应下） · Jeff 逃走时带走的现金与结尾分成的数额是否自洽 · 祖母绿「本来不存在」那块的真实来路 · 末章自我介绍的…
+
+## 5. Doris 出场章计数（「只用一章」断言的对账）
+  text/ch01_1.txt: 7
+  text/ch02_2.txt: 3
+  text/ch03_3.txt: 1
+  text/ch04_4.txt: 1
+
+## 6. 跨书污染定向反查（16 个专名）
+  ✅ Doris Whitney: 1 本书
+  ✅ Daniel Cooper: 1 本书
+  ✅ Jeff Stevens: 1 本书
+  ✅ Ernestine Littlechap: 1 本书
+  ✅ Joe Romano: 1 本书
+  ✅ Perry Pope: 1 本书
+  ✅ Anthony Orsatti: 1 本书
+  ✅ Henry Lawrence: 1 本书
+  ✅ Maximilian Pierpont: 1 本书
+  ✅ Gunther Hartog: 1 本书
+  ✅ Fred Zimmer: 1 本书
+  ✅ Van Duren: 1 本书
+  ✅ Trignant: 1 本书
+  ✅ Brannigan: 1 本书
+  ✅ Otto Schmidt: 1 本书
+  ✅ Count de Ma-tigny: 1 本书
+
+## 7. 总览 H1 与文件名语义一致（第 9 条 h 机检）
+notes/books/novels/if-tomorrow-comes-by-sidney-sheldon/00_情感节点.md:# 情感节点
+notes/books/novels/if-tomorrow-comes-by-sidney-sheldon/00_概述.md:# 概述
+notes/books/novels/if-tomorrow-comes-by-sidney-sheldon/00_金句精选.md:# 金句精选
+
+## 8. corruption_scan（改后必跑）
+
+=== 编辑损坏扫描（if-tomorrow-comes-by-sidney-sheldon）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
