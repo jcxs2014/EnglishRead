@@ -105,7 +105,7 @@ modified: "2026-09-30"
 
 ---
 
-> **原句 8:** She threw her mobile phone so hard against the wall it bounced back, landing faceup on the carpet, right at her feet, so she could see the shattered screen, like the sharp reprimand of an adult to a child.
+> **原句 8:** Madeline threw her mobile phone so hard against the wall it bounced back, landing faceup on the carpet, right at her feet, so she could see the shattered screen, like the sharp reprimand of an adult to a child.
 
 **中文理解**：她把手机狠狠砸向墙壁，手机弹了回来，屏幕朝上落在她脚边的地毯上——正对着她，碎屏像一句大人对孩子的厉声训斥。
 
