@@ -152,6 +152,8 @@ modified: "2026-09-30"
 
 - 关键词：**put into**（塞进）；**brick up**（用砖砌死、封住）；**niche**（壁龛——墙上的凹槽）；**remain**（剩下）；**witness**（目击；见证）；**get beheaded**（被斩首——`get` 加过去分词表被动）
 
+- 表达方式：**把一场处决写成一条施工流程**。塞入（put into）→ 砌死（brick up）→ 只留（only … remained）→ 以便观看（so she could witness），四个环节全部用**被动或自动式**推进，没有一个主动施事的动作被强调；`until` 与 `only` 两个词把「留缝」这件事压成一道**最小限度的开口**。
+
 - 为什么这样写：整句的残忍全在 `so` 之后——**那道缝不是疏忽，是设计**。作者用 `so she could witness` 把「让她看得见」写成目的，而目的的实现方式（被砌死时留缝）使酷刑与观看互为条件。
 
 **⑩** "Historians dismiss this plaque, saying the style dates it to the late 18th century, a time when Gothic tales were all the rage and a story about a bricked-up, pregnant nun would have had wide appeal."

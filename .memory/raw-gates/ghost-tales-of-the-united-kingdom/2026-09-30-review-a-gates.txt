@@ -1,0 +1,148 @@
+# Ghost Tales of the United Kingdom — 五步审查 a 步原始门禁输出
+# 时间: 2026-09-30 18:08 UTC ｜ lane: 完整
+
+=== ① verify_quotes ===
+00_情感节点.md: 20/20 ✅
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 25/25 ✅
+ch01 Introduction.md: 10/10 ✅
+ch02 Early English Hauntings.md: 10/10 ✅
+ch03 The Most Haunted House in England.md: 10/10 ✅
+ch04 The Most Haunted House in London.md: 10/10 ✅
+ch05 Haunted Churches in England.md: 10/10 ✅
+ch06 Haunted Ruins in England.md: 10/10 ✅
+ch07 Haunted Castles in England.md: 10/10 ✅
+ch08 Haunted Graveyards across England.md: 10/10 ✅
+ch09 Haunted Welsh Castles.md: 10/10 ✅
+ch10 Haunted Welsh Houses.md: 10/10 ✅
+ch11 Haunted Welsh Inns and Pubs.md: 10/10 ✅
+ch12 Wales Traveling Ghosts.md: 10/10 ✅
+ch13 Wales Violent Spirits.md: 10/10 ✅
+ch14 The Pit of Ghosts.md: 10/10 ✅
+ch15 Just Plain Weird.md: 10/10 ✅
+ch16 Haunted Castles.md: 10/10 ✅
+ch17 Haunted Roads.md: 10/10 ✅
+ch18 Edinburgh.md: 10/10 ✅
+ch19 Haunted Pubs and Churches.md: 10/10 ✅
+ch20 Remote Ghosts.md: 10/10 ✅
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 245/245 引文可核实（100%）；完全干净文件 22/22；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== ①b verify_quotes --full ===
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 245/245 引文可核实（100%）；完全干净文件 22/22；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab ===
+词条行合计: 576
+--- FAIL (0) ---
+--- WARN (20) ---
+
+=== ③ check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan ===
+
+=== 编辑损坏扫描（ghost-tales-of-the-united-kingdom）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full ===
+=== 引语整串 flat 比对（ghost-tales-of-the-united-kingdom）===
+  参照集：text/ 逐章（20 章，可定章） + epub 交叉验证
+  ✅ 本章命中 200 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+=== ② check_vocab WARN 逐条（须定档）===
+--- WARN (20) ---
+  ch01 Introduction.md [?] 词汇节外有 3 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch02 Early English Hauntings.md [?] 词汇节外有 8 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch03 The Most Haunted House in England.md [?] 词汇节外有 7 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch04 The Most Haunted House in London.md [?] 词汇节外有 5 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch05 Haunted Churches in England.md [?] 词汇节外有 5 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch06 Haunted Ruins in England.md [?] 词汇节外有 7 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch07 Haunted Castles in England.md [?] 词汇节外有 7 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch08 Haunted Graveyards across England.md [?] 词汇节外有 1 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch09 Haunted Welsh Castles.md [?] 词汇节外有 6 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch10 Haunted Welsh Houses.md [?] 词汇节外有 12 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch11 Haunted Welsh Inns and Pubs.md [?] 词汇节外有 9 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch12 Wales Traveling Ghosts.md [?] 词汇节外有 5 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch13 Wales Violent Spirits.md [?] 词汇节外有 5 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch14 The Pit of Ghosts.md [?] 词汇节外有 3 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch15 Just Plain Weird.md [?] 词汇节外有 8 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch16 Haunted Castles.md [?] 词汇节外有 17 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch17 Haunted Roads.md [?] 词汇节外有 12 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch18 Edinburgh.md [?] 词汇节外有 38 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch19 Haunted Pubs and Churches.md [?] 词汇节外有 15 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch20 Remote Ghosts.md [?] 词汇节外有 23 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+
+=== b 步 逐章归属（逐一，必须全 X/X in chNN text）===
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+FileNotFoundError: [Errno 2] No such file or directory: ''
+
+=== ⑥ check_short_quotes（<20 字符兜底）===
+=== 短引语兜底核对（ghost-tales-of-the-united-kingdom）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+=== b 步 逐章归属（逐一，必须全 X/X in chNN text）===
+OK  ch01 Introduction.md: 10/10 in ch01 text
+OK  ch02 Early English Hauntings.md: 10/10 in ch02 text
+OK  ch03 The Most Haunted House in England.md: 10/10 in ch03 text
+OK  ch04 The Most Haunted House in London.md: 10/10 in ch04 text
+OK  ch05 Haunted Churches in England.md: 10/10 in ch05 text
+OK  ch06 Haunted Ruins in England.md: 10/10 in ch06 text
+OK  ch07 Haunted Castles in England.md: 10/10 in ch07 text
+OK  ch08 Haunted Graveyards across England.md: 10/10 in ch08 text
+OK  ch09 Haunted Welsh Castles.md: 10/10 in ch09 text
+OK  ch10 Haunted Welsh Houses.md: 10/10 in ch10 text
+OK  ch11 Haunted Welsh Inns and Pubs.md: 10/10 in ch11 text
+OK  ch12 Wales Traveling Ghosts.md: 10/10 in ch12 text
+OK  ch13 Wales Violent Spirits.md: 10/10 in ch13 text
+OK  ch14 The Pit of Ghosts.md: 10/10 in ch14 text
+OK  ch15 Just Plain Weird.md: 10/10 in ch15 text
+OK  ch16 Haunted Castles.md: 10/10 in ch16 text
+OK  ch17 Haunted Roads.md: 10/10 in ch17 text
+OK  ch18 Edinburgh.md: 10/10 in ch18 text
+OK  ch19 Haunted Pubs and Churches.md: 10/10 in ch19 text
+OK  ch20 Remote Ghosts.md: 10/10 in ch20 text
+→ b 步结论：20/20 章全 10/10 命中本章 text
+
+=== c 步 audit_structure（⚠️ 子项检查是假阴性高发点，0 ≠ 齐全）===
+=== 精读结构扫描（ghost-tales-of-the-united-kingdom）===
+  扫 23 个 md、247 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== c 步 check_overview_full（总览三篇）===
+=== 总览整串核查（ghost-tales-of-the-united-kingdom）===
+  参照集：text/ 逐章（20 章） ｜ 总览文件 3 个
+  A 整串：命中 47 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 9
+  B 章节标签：对 0 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 47 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 1
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== c 步 无 epub 时的手 grep 兜底（H1 语义）===
+notes/books/short-story-anthologies/ghost-tales-of-the-united-kingdom/00_情感节点.md:# 情感节点
+notes/books/short-story-anthologies/ghost-tales-of-the-united-kingdom/00_概述.md:# 概述
+notes/books/short-story-anthologies/ghost-tales-of-the-united-kingdom/00_金句精选.md:# 金句精选
