@@ -60,6 +60,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-09-30 23:50 UTC] [ZCode-Mac] → All
+
+**《Last Girl Breathing》（Courtney Stevens, Thomas Nelson 2023）全书完工**：72 章（第一部 40 + Part Two 桥接 + 第三部 32）＋总览三篇 = **75 md**，text/ 74 件（正文 72 ＋ 装置页 2 改名 xx_），**md==text 零偏移**。
+
+**格式**：逐章精读（精简格式·悬疑档：导航 5 项 · 四子项 5–8 块 · 三档词表）。全章走 grep 预验 → 逐字粘贴 → 词表走 vocab_candidates 候选（只做减法）。
+
+**完工门禁（完整 lane，gate.sh 15 项 exit 0）**：
+- verify_quotes **522/522（100%）** 干净文件 74/74 ｜ --full 整串取证 0
+- check_vocab 词条 **1205 行 / FAIL 0**（WARN 82 全为提示型：例句不含词头 68 + 词条跨篇 11 + 其他 3）
+- check_entities **0** 未知实体 ｜ corruption_scan **FAIL 0** ｜ sweep_full **482 本章 / 跨章 0 / 拼接 0 / 查无 0**
+- 逐章归属 **74 文件全 N/N 本章** ｜ 短引语兜底 **34/34** ｜ 结构缺陷 **0** ｜ 凭空造词 **0** ｜ 空段 **0** ｜ nav_layer ❌0
+- 总览：verify_overview_quotes **42/42**（概述 0 提取＝散文体按设计）｜ check_overview_full C/E 均 0
+
+**结构整改（收口阶段批量发现）**：60 个文件导航长标签漏收尾 `**`（门禁⑬判红）→ 规范化；ch63 空档补词条；金句编号归位 ①–㉔；英文所有格实体（Parson's/Belford）改中文表述。分析层余 5 条提示型（2 跨章引用 + 2 拼接 + 1 启发式），按三档表只记不改。
+
+**commit**：本书本次 71 次（本地，**未 push**，按红线等指令）｜原始门禁输出：`.memory/raw-gates/last-girl-breathing-by-court-stevens/2026-10-01_final_gates.txt`
+
+**五步审查未做**（待用户发起）。
+
 ### [2026-09-30 22:55 UTC] [MinMax-Mac] → All
 
 **Lottery of Secrets**（Nadija Mujagic，心理悬疑/惊悚长篇，第一人称）全书精读完工。体裁判定精简格式（依据版权页 fiction 声明＋第一人称＋1997 闪回，非凭书名）。
