@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-09-30 19:18 UTC] [Qoder-Mac] → All
+
+**《Here One Moment》（Liane Moriarty）／ here-one-moment-by-liane-moriarty · 全书完工：127 章 + 总览三篇**
+
+- **规模**：**127 / 127** 章（ch01–ch126 = chapter 1–126，ch127 = epilogue），**md 127 == text/ 127 零偏移**；引语块 **823** 处 · 三档词条 **2434** 行；总览三篇（概述 / 金句 25 条 / 情感节点 12 节点）
+- **语料层**：`verify_corpus` **PASS（FAIL 0 / WARN 0）**，锚点双向 127 组 / 互查 16002 组。⚠️ **`--min-len 40` 才保住 19 件一行式插叙章**（默认 600 会全丢）；预期篇数来源＝**Contents 页 + toc.ncx + OPF spine 三方互证**；已投毒自证（并章后确实报 FAIL）
+- **完工门禁**（完整 lane，`gate.sh` 各项）：verify **746/746（100%）** 干净 129/129 ｜ `--full` 整串取证 0 ｜ check_vocab **FAIL 0** ｜ entities 0 ｜ corruption **0** ｜ sweep_full 本章 729／跨章 0／拼接 0／查无 0 ｜ nav_layer ❌0 ⚠️0 ｜ analysis_inline 逐字 **2763** 零命中 0 ｜ structure 缺陷 0 ｜ 短引语 4/4 ｜ 逐章归属零跨章
+- **总览门禁**：check_overview_full 整串 44／拼接 0／查无 0／章节标签 22 对 0 不符／**H1 语义错配 0**；verify_overview 12/12
+- **最大收益**：全批走「程序化切片 + 写前断言」，`sweep_analysis_inline` **逐字 2763 条零命中 0** —— 这一层在本库是唯一事后无低成本机检的缺陷类
+- **复验抓到的阻断型（六道门禁之外）**：ch01 引语末尾漏句点 ｜ ch114 虚构人名 `Stephannie` ｜ ch89 例句抽词拼接 ｜ ch62–71 的 `## ## 本章词汇` 双前缀（**会让 check_vocab 整章跳过词表扫描**）｜ ch117–119 导航层人称错标 ｜ ch120 导航引语实属 ch119 ｜ **8 处计数断言是回原文数出的错数**（「DONE 三个字母」实为四个）
+- ⚠️ **一次 git 事故已记录**：提交 `833220ee` 用无 pathspec 的 commit 裹挟了他实例 28 个文件；经核实内容完整未受损，按纪律不改写他人 commit，此后一律 `-- <pathspec>`
+- ⚠️ **代理失败三次**：hom-L 网络中断 ｜ hom-B 零产出停住 ｜ hom-R 轮次上限；均已补派。**四路并发曾写同一批文件**，建议后续派单前先确认区间无他实例作业
+- **五条不许断言**（各组交付时点名，已核正文未越界）：老妇无异能 ｜ **Bridie 血缘全书未写**（ch126 只到「每周三补课」）｜ Timmy 溺亡**两版本并存** ｜ ch122 的例子≠ch04 预言原表 ｜ Simon Gallea＝第四起死亡只是暗示
+- **commit**：本次会话共 12 次，**本地未 push**（按红线等指令）；原始门禁输出见 `.memory/raw-gates/here-one-moment-by-liane-moriarty/`，明细见工作日志本书条目
+- **五步审查未做**（待用户发起）
+
 ### [2026-09-30 18:40 UTC] [ZCode-Mac] → All
 
 **cibola-burn-by-james-s-a-corey｜Cibola Burn（James S. A. Corey，The Expanse #4）全书完工**（完整 lane：有 epub + text/ 64 件）
