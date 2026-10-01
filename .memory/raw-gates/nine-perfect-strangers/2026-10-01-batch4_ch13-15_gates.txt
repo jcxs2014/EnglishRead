@@ -1,0 +1,44 @@
+=== batch4 ch13-ch15 gates Thu Oct  1 10:29:03 UTC 2026 ===
+--- verify_quotes (positional epub; --epub is NOT a flag) ---
+ch13 Masha.md: 19/19 ✅（另有 1 条短引语未校验）
+ch14 Frances.md: 31/31 ✅
+ch15 Lars.md: 34/34 ✅（另有 1 条短引语未校验）
+⚠️ 全书共 4 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+=== 总计 290/290 引文可核实（100%）；完全干净文件 15/15；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- check_vocab ---
+词条行合计: 596
+--- FAIL (0) ---
+--- WARN (26) ---
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption_scan ---
+
+=== 编辑损坏扫描（nine-perfect-strangers-by-liane-moriarty）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+--- sweep_full ---
+=== 引语整串 flat 比对（nine-perfect-strangers-by-liane-moriarty）===
+  参照集：text/ 逐章（79 章，可定章） + epub 交叉验证
+  ✅ 本章命中 288 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 2 ｜ ❌ 全书查无 0
+  （短引语 4 条归 check_short_quotes；无章可对 0 条未判）
+  🔶 ch06 Frances.md（ch6）跨标签拼接，各段逐字都在：I didn’t expect to see families doing this r
+  🔶 ch11 Frances.md（ch11）跨标签拼接，各段逐字都在：Frances felt hope rise in the room like a de
+--- check_short_quotes ---
+=== 短引语兜底核对（nine-perfect-strangers-by-liane-moriarty）===
+  verify_quotes 跳过（<20 flat 字符）的引语：4 条 —— 这些主门禁**根本没查**
+  ✅ 命中 4 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+--- check_chapter_quotes ---
+⚠️  全书共 4 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 290，命中本章 290（100%）
+✅ 全部引语均归属正确章节
+--- audit_structure ---
+=== 精读结构扫描（nine-perfect-strangers-by-liane-moriarty）===
+  扫 15 个 md、294 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 15
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 2 ｜ 🔀 映射不一致 0
+  ⚠️ ch14 Frances.md  引语 31 个，与本书众数 15 相差过大
+  ⚠️ ch15 Lars.md  引语 35 个，与本书众数 15 相差过大
+--- check_anchor ---
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 34 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
