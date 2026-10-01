@@ -48,7 +48,7 @@ modified: "2026-09-30"
 - **中文理解**：没有安全网，我绝不可能走进那栋房子。
 - **关键词**：There’s no way I’m going into · without a safety net
 - **为什么这样写**：safety net（安全网）是本句唯一的抽象名词，也是全章唯一的比喻：她要先把后路交给 Charles，才允许自己往前走。作者没有写她打电话的紧张，只写这个安排像挂一张网。
-- **读者视角提示**：这张网在第七章末尾（本章）她上楼时仍然有效——她心里还数着 Charles 五十分钟后会报警。这份安全感将在下一章被彻底抽掉。
+- **读者视角提示**：这张网在她上楼时仍然有效——ch58 里她心里还数着 Charles 五十分钟后会报警。这份安全感将在下一章被彻底抽掉。
 
 > **原句 6:** “An hour at most. But if you don’t hear from me, I need you to call this number and tell Detective Garcia what’s going on.”
 

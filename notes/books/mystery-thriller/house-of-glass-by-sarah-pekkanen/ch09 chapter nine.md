@@ -68,7 +68,7 @@ modified: "2026-09-30"
 
 - **中文理解**：没有任何一样东西是玻璃做的。
 - **关键词**：Nothing made of glass
-- **为什么这样写**：独立成段，只有五个词。前面刚列完三样缺席的物件，这里用 Nothing（什么也没有）把范围从「这三样」扩大成「全部」。陈述句，不用疑问句——她不是在问。
+- **为什么这样写**：独立成段，只有四个词。前面刚列完三样缺席的物件，这里用 Nothing（什么也没有）把范围从「这三样」扩大成「全部」。陈述句，不用疑问句——她不是在问。
 - **读者视角提示**：此前她已经注意到楼梯上那排照片全都没有玻璃；这里是她第一次把这条线索放到案子上想。
 
 > **原句 9:** But I read up on plexiglass windows last night—they’re far more common than I thought—and now I realize there’s a clue in the fact that I can barely hear the mechanical noises from outside. Old, thin glass wouldn’t be able to buffer those loud sounds as effectively.

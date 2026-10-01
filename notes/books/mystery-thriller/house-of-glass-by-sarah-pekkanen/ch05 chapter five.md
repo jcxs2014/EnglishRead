@@ -40,7 +40,7 @@ modified: "2026-09-30"
 
 - **中文理解**：我飞快地把这段记忆推开。
 - **关键词**：push away · the memory · fast
-- **为什么这样写**：独立成段，只有五个词。fast 这个副词既是速度也是意志——不是记忆自己退下去，是她把它按下去。这一段回光返返的自我暴露，就此被她手动切断。
+- **为什么这样写**：独立成段，只有六个词。fast 这个副词既是速度也是意志——不是记忆自己退下去，是她把它按下去。这一段回光返返的自我暴露，就此被她手动切断。
 - **读者视角提示**：紧接着下一段就回到「我聊了匹马叫 Pacino 爱吃薄荷糖」——把沉重瞬间换成闲聊。这个急刹车是 Stella 处理创伤的固定动作。
 
 > **原句 5:** It’s an old trick to hide books beneath different books’ jackets to camouflage what you’re reading.

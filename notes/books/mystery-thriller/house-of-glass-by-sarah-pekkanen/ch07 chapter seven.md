@@ -96,7 +96,7 @@ modified: "2026-09-30"
 
 - **中文理解**：我当时那么想撒谎，强烈得不得了。
 - **关键词**：I wanted to lie · so badly
-- **为什么这样写**：单独成段，只有七个词。so badly（厉害地、强烈地）修饰 want，不是修饰 lie——她想要的程度到了失控。短句把全部心理压力压进一个词。
+- **为什么这样写**：单独成段，只有六个词。so badly（厉害地、强烈地）修饰 want，不是修饰 lie——她想要的程度到了失控。短句把全部心理压力压进一个词。
 - **读者视角提示**：前一段她还在理性推演「钱不是他的」，这一段就塌了。十七岁、一万块、没人看见——读者比她更清楚她应该怎么选。
 
 > **原句 13:** The only reason I didn’t keep the money was because I figured I’d get caught. Life didn’t usually break my way.

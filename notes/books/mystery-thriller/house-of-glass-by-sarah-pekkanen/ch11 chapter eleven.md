@@ -82,7 +82,7 @@ modified: "2026-09-30"
 
 - **中文理解**：Rose 对他们两个都没有任何回应。
 - **关键词**：Rose · doesn’t acknowledge either of them
-- **为什么这样写**：四个词的独立成段。either（两者中的任一）比 both 更冷：不否认某一个，是把两个人一并清空。acknowledge（搭理、承认）用在这里指的不是礼貌，是意识层面的登记。
+- **为什么这样写**：六个词的独立成段。either（两者中的任一）比 both 更冷：不否认某一个，是把两个人一并清空。acknowledge（搭理、承认）用在这里指的不是礼貌，是意识层面的登记。
 - **读者视角提示**：上文她的父母一个说做手工、一个说看电影，两句都是讨好。读者在这里第一次意识到，那些话连门都没敲到。
 
 > **原句 11:** When Rose was standing in the hallway, listening to her parents argue, she reminded me of a fawn in the woods that freezes when danger is near.

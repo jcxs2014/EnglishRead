@@ -152,7 +152,7 @@ modified: "2026-09-30"
 
 - **中文理解**：至于我父亲，那就不一样了。
 - **关键词**：With my father · it’s different
-- **为什么这样写**：四个词的独立成段。前文的沉重全部压在这一句上，而作者只用一个 it’s different 就切换了。all this darkness 之所以现在变成了一句轻描淡写，是因为她已经把母亲那笔账算到「可能无法结清」，而父亲那一笔，她早就结清了。
+- **为什么这样写**：五个词的独立成段。前文的沉重全部压在这一句上，而作者只用一个 it’s different 就切换了。all this darkness 之所以现在变成了一句轻描淡写，是因为她已经把母亲那笔账算到「可能无法结清」，而父亲那一笔，她早就结清了。
 - **读者视角提示**：读者会在这里松一口气——然后马上意识到，作者马上要来一次反转。
 
 > **原句 21:** He swerved off a road at dusk and slammed into a tree. Then his beautiful, kind heart stopped beating before the ambulance arrived.

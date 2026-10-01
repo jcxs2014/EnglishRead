@@ -36,7 +36,7 @@ modified: "2026-09-30"
 
 > **原句 4:** "“I would never!” Harriet sounds almost indignant. “She’s my granddaughter. I think what happened is she threw her book across the room when I told her she needed to stop reading and go to sleep. She didn’t mean to hit me in the face with it.”"
 
-- **中文理解**：「我绝不会！」Harriet 的语气几乎是义愤的。「她是我的外孙女。我想事情是这样：她在我叫她别再看书、该睡觉的时候，把书扔过了房间。她不是故意拿它砸我脸的。」
+- **中文理解**：「我绝不会！」Harriet 的语气几乎是义愤的。「她是我的孙女。我想事情是这样：她在我叫她别再看书、该睡觉的时候，把书扔过了房间。她不是故意拿它砸我脸的。」
 - **关键词**：`Harriet sounds almost indignant` · `I think what happened is` · `She didn’t mean to hit me in the face with it`
 - **为什么这样写**：almost indignant 让读者看到这套说辞的表演性质：她不是在辩解，她在摆出被冤枉的姿态。句末的强调落在 face 上——把一起袭击降级成一次失手。
 - **读者视角提示**：I think what happened is 这个开头把断言软化成推测。读者应把「她提出一种解释」和「解释成立」分开。
