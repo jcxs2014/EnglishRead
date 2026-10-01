@@ -27,7 +27,7 @@ modified: "2026-09-30"
 - **中文理解**：打电话的人多半已经掩盖了自己的踪迹。
 - **关键词**：Whoever placed the calls · would likely have · covered their tracks
 - **为什么这样写**：主语用 Whoever（无论谁），把一个具体的施害者抽象成一个占位符。covered their tracks（掩盖踪迹）本身就是侦查学的说法，让一个调解人的日常语言突然专业起来——也暗示她在无意识地向侦查者靠拢。
-- **读者视角提示**：this is the first time she thinks like an investigator. 这条线往后会越来越粗，本句是第一次显形。
+- **读者视角提示**：这条线往后会越来越粗，本句是它第一次显形。
 
 > **原句 3:** Savvy, despite her innocent affect.
 

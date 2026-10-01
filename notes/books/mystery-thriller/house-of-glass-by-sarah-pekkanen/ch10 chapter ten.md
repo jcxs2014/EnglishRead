@@ -113,7 +113,7 @@ modified: "2026-09-30"
 - **为什么这样写**：A high-pitched（高调的、尖细的）先给音质，再给方向。erupts（爆发）把声源写成突然的火山——和这一整天所有铺垫过的、慢性的、压着的东西形成对照。
 - **读者视角提示**：读者刚听完那晚的目击证词（那声尖叫），就听见了又一声。而这一次喊出来的是 Beth。
 
-> **原句 14:** “How could you be so careless?” Beth snaps. “I told you we don’t allow glass in this house!”
+> **原句 15:** “How could you be so careless?” Beth snaps. “I told you we don’t allow glass in this house!”
 
 - **中文理解**：「你怎么能这么不小心？」Beth 厉声说。「我告诉过你不许在家里用玻璃！」
 - **关键词**：How could you be so careless · Beth snaps · we don’t allow glass in this house

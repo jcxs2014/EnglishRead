@@ -125,7 +125,7 @@ modified: "2026-09-30"
 - **中文理解**：「我的女接待员马上要生第一胎，刚刚递了辞呈。她五月离职。现在找个聪明、勤快的人，几乎和找个诚实的人一样难。所以，如果你喜欢这份工作，我再劝你来为我工作就更费劲了。」
 - **关键词**：just gave notice · a smart, hard worker · as it is to find an honest person
 - **为什么这样写**：And it’s almost as difficult to find a smart, hard worker as it is to find an honest person 把「诚实」抬到和聪明、勤快同等的位置——这是他对她的评价，也是他自己要用的筛选标准。最后一句故意说反（it’ll be harder to convince you），把「你很抢手」说成「你不请自来」的样子。
-- **读者视角提示**：前面刚有一大段他陈述「你没有法律风险」，紧接着就是这段——读者能看出他一边把风险全消掉，一边把好处抛出来。The reason for her honesty, in his framing, is scarcity.
+- **读者视角提示**：前面刚有一大段他陈述「你没有法律风险」，紧接着就是这段——读者能看出他一边把风险全消掉，一边把好处抛出来。他要的从来不是她的合法，而是她的需要。
 
 > **原句 17:** He nodded again, just once, like he’d come to a decision. Then: “Too bad.”
 
