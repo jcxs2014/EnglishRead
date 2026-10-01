@@ -164,6 +164,9 @@ source_text: ch10_chapter_9_democracies_can_we_still_hold_.txt
 | gatekeepers | 把关人；守门人 | In the past, organizations like newspapers, radio stations, and established political parties acted as gatekeepers, deciding who was heard in the public sphere. |
 | deepfaking | 深度伪造 | The law should prohibit not just deepfaking specific real people—creating a fake video of the U.S. president, for example—but also any attempt by a nonhuman agent to pass itself off as a human. |
 | curation | 内容筛选；编排 | At the very least, corporations should be transparent about the curation principles their algorithms follow. |
+| bogus categories | 虚假的类别 | As we saw in chapter 8, computers are likely to suffer from their own biases and to invent inter-computer mythologies and bogus categories. |
+| reoffending | 再次犯罪 | When the judge came to determine the sentence, he consulted with an algorithm called COMPAS, which Wisconsin and several other U.S. states were using in 2013 to evaluate the risk of reoffending. |
+| segregated | 实行种族隔离的 | The board members were all white, the Browns were Black, and the nearby school was a segregated school for white children. |
 
 ### ⭐⭐ 进阶
 
@@ -193,13 +196,10 @@ source_text: ch10_chapter_9_democracies_can_we_still_hold_.txt
 |---------|------|-------------|
 | job market | 就业市场 | A second threat is that automation will destabilize the job market and the resulting strain may undermine democracy. |
 | unemployment | 失业率 | Whereas just prior to the Wall Street crash of 1929 the German unemployment rate was about 4.5 percent of the labor force, by early 1932 it had climbed to almost 25 percent. |
-| bogus categories | 虚假的类别 | As we saw in chapter 8, computers are likely to suffer from their own biases and to invent inter-computer mythologies and bogus categories. |
 | appeal | 上诉 | Loomis appealed to the Wisconsin Supreme Court, arguing that the judge violated his right to due process. |
 | lawsuit | 诉讼 | Together with twelve other families who received similar refusals, Brown filed a lawsuit against the Topeka Board of Education, which eventually reached the U.S. Supreme Court. |
 | enroll | 入学 | For example, in 1951 bureaucrats of the Board of Education in the town of Topeka, Kansas, refused to enroll the daughter of Oliver Brown at the elementary school near her home. |
-| segregated | 实行种族隔离的 | The board members were all white, the Browns were Black, and the nearby school was a segregated school for white children. |
 | premium | 保费 | If this rigid medical algorithm is used by my insurance company, it may prompt the insurer to raise my premium. |
-| reoffending | 再次犯罪 | When the judge came to determine the sentence, he consulted with an algorithm called COMPAS, which Wisconsin and several other U.S. states were using in 2013 to evaluate the risk of reoffending. |
 | interpreted | 解释；解读 | This opinion ignored the fact that accurate data may well be wrongly interpreted and that it was impossible for Loomis to deny or explain all the publicly available data on him. |
 | audit | 审计 | No matter which technology we develop, we will have to maintain bureaucratic institutions that will audit algorithms and give or refuse them the seal of approval. |
 | regulate | 监管 | How can elected officials regulate unfathomable algorithms? |
@@ -210,6 +210,8 @@ source_text: ch10_chapter_9_democracies_can_we_still_hold_.txt
 | bot | 机器人账号 | On many social media platforms, bots constitute a sizable minority of participants. |
 | rigid | 僵化的 | But it is a mistake to think that the rigid algorithm has really discovered the truth about me. |
 | conscious | 有意识的 | Thus whereas scientists, lawmakers, and the meat industry often demand impossible standards of evidence in order to acknowledge that cows and pigs are conscious, pet owners generally take it for granted that their dog or cat is a conscious being capable of experiencing pain, love, and numerous other feelings. |
+| public debate | 公共辩论 | Especially when dealing with urgent and important problems, the public debate should be conducted according to accepted rules, and there should be a legitimate mechanism to reach some kind of final decision, even if not everybody likes it. |
+| trust | 信任 | we don’t want the police to know we take recreational drugs, but we trust our physician with all this information so that she can take good care of our health. |
 
 ## 一句话总结
 
