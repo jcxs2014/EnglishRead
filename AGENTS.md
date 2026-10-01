@@ -25,6 +25,15 @@
 > 触发 Cloudflare 计费构建）。事故案例见 `docs/实测档案/K_git策略与协作事故.md`；**第 4 条已改为指针**。
 
 - **`git add` 只加本任务明确路径清单**——**禁止 `git add -A` / `git add .`**（本机多 IDE 共目录作业，会跨书吞文件）。
+  ⚠️ **add 之前先看 `git status --short` 的第二列（暂存区列）**——**别人可能已经 `git add` 过、还没来得及 commit**；
+  此时即便你只 add 自己的路径，随后的 **`git commit`（不带路径）= 提交整个暂存区**，会把别人的文件一起卷进来
+  （10-01 实证：`63a936e10` 一次卷入他实例 11 个文件，内容无损但 commit message 与实际内容不符）。
+  **正确做法：`git commit -- <明确路径>`（pathspec 模式）**——实测（git 2.54）它会**只提交该路径**，
+  且**别人的暂存内容原封不动留在暂存区**。注意：**新文件必须先 `git add` 才能被 pathspec 提交**
+  （否则报 `pathspec ... did not match`，退出码 1），而 add 之后仍用 pathspec 提交即可隔离。
+- **禁止 `git commit --amend`**（除非已 `git log -1` 核过 HEAD 的哈希与消息确属自己）——多实例下 HEAD 随时会被别人推进，
+  amend 会把自己的提交**改基压到别人的提交之上**（10-01 实证：改文件名时 HEAD 已被别的实例推进了两个 commit）。
+  要改自己的提交，重做一次**带 pathspec 的 `git commit -- <路径>`**。
 - **commit 前 `git status` 确认工作树归属**（要提交的文件可能已被他实例抢先提交）。
 - **遇 `index.lock` 等重试，禁止强删**（会损坏他人正在进行的提交）。
 - **改 `COLLABORATION.md` 前先重读最新版**防覆写丢消息；**写完必跑 `python3 scripts/check_collab_guard.py`**
