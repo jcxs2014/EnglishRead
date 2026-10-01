@@ -1,0 +1,36 @@
+### ch01 第3条门禁（2026-10-01，完整 lane，档标题修正后复跑）
+
+$ python3 scripts/verify_quotes.py ...
+ch01 shadow pinned.md: 8/8 ✅
+
+=== 总计 8/8 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+$ python3 scripts/check_vocab.py ...
+  [P0-4] 正文章节 1 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 21
+
+--- FAIL (0) ---
+
+--- WARN (0) ---
+
+$ python3 scripts/check_entities.py ...
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+$ python3 scripts/check_chapter_quotes.py 1 ...
+ch01 shadow pinned.md: 8/8 in ch01 text
+
+$ python3 scripts/corruption_scan.py ...
+
+=== 编辑损坏扫描（the-saint-of-bright-doors-by-vajra-chandrasekera）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+$ python3 scripts/sweep_full.py ...
+=== 引语整串 flat 比对（the-saint-of-bright-doors-by-vajra-chandrasekera）===
+  参照集：text/ 逐章（34 章，可定章） + epub 交叉验证
+  ✅ 本章命中 8 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+$ python3 scripts/check_nav_layer.py ...
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===

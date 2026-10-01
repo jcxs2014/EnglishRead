@@ -19,7 +19,7 @@ modified: "2026-10-01"
 
 **中文理解：** 就在叙述者出生的那一刻，母亲把他的影子用一枚大黄铜钉钉在地上，然后从他身上撕了下来。
 
-**关键词：** mother of glory
+**关键词：** The moment Fetter is born, pins his shadow, a large brass nail
 
 **为什么这样写：** 开篇第一句就把时间点钉在「出生的那一刻」，再用一个力度极大的具体动作（钉、撕）交代这具身体自始就不完整。影子在此不是光学现象，而是可以被摘除、可以被随身携带的东西——后面的「一缕胎带的影子被绳结勒断」正是这个定义的延伸。
 
@@ -97,7 +97,7 @@ modified: "2026-10-01"
 
 ## 本章词汇
 
-### ### ⭐⭐⭐ 高级
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
@@ -110,7 +110,7 @@ modified: "2026-10-01"
 | gramarye | （本书专名）咒术；召唤与约束无形之力的法术体系 | Fetter learns the gramarye of summoning and binding. |
 | revanche | （法语借词）复仇；被要求练习的一门课 | gramarye, dialectics, revanche, deferral, and murder |
 
-### ### ⭐⭐ 进阶
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
@@ -123,7 +123,7 @@ modified: "2026-10-01"
 | skittering | 疾走；小步快速窜动 | tendrils waving, skittering across the main street |
 | seating herself | （此处义）落座；把自己安置在某个位置上 | seating herself on a tree-stump |
 
-### ### ⭐ 基础
+### ⭐ 基础
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
