@@ -29,22 +29,21 @@ WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验�
   ✅ 本章命中 78 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
   （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
 
-########## b 步 · 逐章归属 ##########
-ch01  命中本章 78（100%）
-ch02  命中本章 78（100%）
-ch03  命中本章 78（100%）
-ch04  命中本章 78（100%）
-ch05  命中本章 78（100%）
-ch06  命中本章 78（100%）
-ch07  命中本章 78（100%）
-ch08  命中本章 78（100%）
-ch09  命中本章 78（100%）
-ch10  命中本章 78（100%）
-ch11  命中本章 78（100%）
-ch12  命中本章 78（100%）
-ch13  命中本章 78（100%）
-
-########## c 步 · 结构扫描（双实现交叉）##########
+########## b 步 · 逐章归属（工具真实输出：check_chapter_quotes.py <NN> <md>，不带 --out-dir）##########
+ch01 prologue.md: 6/6 in ch01 text
+ch02 what is information.md: 6/6 in ch02 text
+ch03 stories unlimited connections.md: 6/6 in ch03 text
+ch04 documents the bite of the paper tigers.md: 6/6 in ch04 text
+ch05 errors the fantasy of infallibility.md: 6/6 in ch05 text
+ch06 decisions a brief history of democracy and totalitarianism.md: 6/6 in ch06 text
+ch07 the new members.md: 6/6 in ch07 text
+ch08 relentless the network is always on.md: 6/6 in ch08 text
+ch09 fallible the network is often wrong.md: 6/6 in ch09 text
+ch10 democracies can we still hold a conversation.md: 6/6 in ch10 text
+ch11 totalitarianism all power to the network.md: 6/6 in ch11 text
+ch12 the silicon curtain global empire is back.md: 6/6 in ch12 text
+ch13 epilogue.md: 6/6 in ch13 text
+（13/13 章，每章 6/6。⚠️ 加 --out-dir 会切成「全章扫描：解析引语块 78，命中本章 78（100%）」——那是全书合计口径，不是逐章数字）########## c 步 · 结构扫描（双实现交叉）##########
 --- audit_structure ---
 === 精读结构扫描（nexus-by-yuval-noah-harari）===
   扫 16 个 md、121 个引语块；多数派必备节：## 词汇分级
@@ -85,3 +84,19 @@ notes/books/non-fiction/nexus-by-yuval-noah-harari/00_金句精选.md:# 《Nexus
   ch10 democracies can we still hold a conversation.md:10  A Brief History of Information Networks from the Stone Age to AI
   ch10 democracies can we still hold a conversation.md:67  It is a mistake to imagine that
   ch11 totalitarianism all power to the network.md:10  A Brief History of Information Networks from the Stone Age to AI
+
+########## d 步补充 · check_analysis_indep 须人判项逐条定性（绿头行不代表逐字清零）##########
+工具输出：抽出分析层英文片段 517 条 ｜ ✅ 全部片段在全书 text/ 逐字命中
+        ⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）22 条 —— 只报不判红，须人判
+人判结果（22/22 已判）：
+  13 条 = 各章 frontmatter 第 10 行的书名副标题「A Brief History of Information Networks from the Stone Age to AI」→ 非引语
+  ch05:64  「we can trust the self-correcting mechanisms to be free from error」→ 原文逐字含问号 ✅ 假红（脚本截断所致）
+  ch07:151 「excuse somebody of something」→ 原文 0 次，自撰搭配示例（讲 excuse sb of sth）→ 提示型，接受
+  ch08:96  ×2 → 原文「was not an ability to constantly watch everyone, but rather …」，md 承前省略主语 → 正当简写
+  ch09:149 「their long-term geopolitical goals」→ 引语原句即此 ✅ 假红（另处 long-term political aims 与本块无关）
+  ch09:177 「there is an almost opposite situation」→ 原文逐字 ✅
+  ch10:67  「It is a mistake to imagine that」→ 原文「It is a mistake, however, to imagine that」，去插入语 → 正当简写
+  ch12:67  「The rise of AI poses…」→ 原文「The rise of AI, then, poses…」，去插入语 → 正当简写
+  ch12:123 「information technology is so powerful」→ 原文「…today is so powerful」，去状语 → 正当简写
+  ⇒ 本 22 条 0 条新缺陷。
+  ⚠️ 但真缺陷 ch05:106（that was→were + 系表→强调句/定语从句）**不在此 22 条内**——它整串大部分命中、只在「整串改字」上出错，属绿头行覆盖不到的盲区。

@@ -103,7 +103,7 @@ source_text: ch05_chapter_4_errors_the_fantasy_of_infallib.txt
 
 **中文理解**：相比之下，科学机构之所以获得权威，是因为它具有强有力的自我纠错机制，这些机制会暴露并纠正机构自身的错误。正是这些自我纠错机制、而不是印刷技术，才是科学革命的引擎。
 
-**句子结构**：首句主语为 A scientific institution，gained authority because… 为因果结构，that exposed and rectified… 为限定性关系从句修饰 mechanisms，exposed 与 rectified 由 and 并列。末句为强调句型 It was…that… 的疑问式变体，被强调成分为 these self-correcting mechanisms，not the technology of printing 作对比插入，that was the engine of the scientific revolution 为系表结构。
+**句子结构**：首句主语为 A scientific institution，gained authority because… 为因果结构，that exposed and rectified… 为限定性关系从句修饰 mechanisms，exposed 与 rectified 由 and 并列。末句为强调句型 It was…that… 的疑问式变体，被强调成分为 these self-correcting mechanisms，not the technology of printing 作对比插入，that were the engine of the scientific revolution 为定语从句修饰 mechanisms；整句 It was … that were … 是强调句，被强调成分为 these self-correcting mechanisms。
 
 **关键词**：gained authority because it had strong self-correcting mechanisms / exposed and rectified the errors of the institution itself / not the technology of printing, that were the engine of the scientific revolution
 

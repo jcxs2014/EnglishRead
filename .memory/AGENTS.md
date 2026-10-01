@@ -207,6 +207,6 @@ metadata:
 
 ### 2026-09-15 新增
 
-- **工具链盲区固化**（topic: `tool-blinds-202609`）：verify_quotes 弯引号截断/不覆盖总览文件/跨块引语只取第一段；extract_chapters dropcap 正则制造虚构连字；check_vocab 撇号词条误报/概述层`|`分隔符误判；双绿≠语义干净（第 3 条门禁全绿仍有引语↔分析错位、说话人反转、cliffhanger跨章、总览层虚构）；整行sweep≥3次应列入终验标准件
+- **工具链盲区固化**（topic: `tool-blinds-202609`）：verify_quotes 弯引号截断/不覆盖总览文件/跨块引语只取第一段；extract_chapters dropcap 正则制造虚构连字；check_vocab 撇号词条误报/概述层`|`分隔符误判；双绿≠语义干净（第 3 条门禁全绿仍有引语↔分析错位、说话人反转、cliffhanger跨章、总览层虚构）；整行sweep≥3次应列入终验标准件。**2026-10-01 Nexus 五步审查追加 ④ 条**：⑨分析层**语法级改字**（`that was` vs 原文 `that were`、`a extremely` vs `an`）是六道门禁共同盲区——投毒测试证明 sweep_analysis_inline/verify_quotes/check_vocab 三把主力尺子全漏，**仅 `check_analysis_indep` 可抓，建议其进常规门禁清单**（当前仅 d 步跑）；⑩`verify_corpus --anchors` 是**小说人物消歧**口径，非虚构论述书误用报 82 条假红，且 ①④ 不验章节归属须另用「逐章首行标题 vs epub 目录页」独立验；⑪子代理的**阻断型定性与行号都需复核**（23 条→实 19 条：2 假红+1 幻觉+2 升级+1 部分成立），⚠️有 Prologue 的书两套章号差 1，判跨章引用前先确认对方用哪套；⑫「引语截短」在脚本化生产下为 0（判据=中文理解里的英文词是否全在引语内 + 理解/引语字数比）。⚠️**另记一条审查期教训**：投毒测试的 `git checkout` 回滚**会把既存缺陷一起还原**——本轮 ch05:106（that was/were）即因此被误还原，**注入前必须先 `git diff` 确认工作树干净、并把备份与原文逐字比对**（Nexus 完整实例见 `docs/实测档案/N_Nexus五步审查_缺陷清单.md`）
 - **子代理幻觉根因**（topic: `subagent-hallucination`）：根因=分析子项未锚定原文仅靠泛化指令生成；缓解=引语先行（每块附英文原句逐字粘贴）+ ≥20章自建关键词锚定检查器；实证=100G ch86引语与分析完全错位/NS 137块主会话逐对核对可补救
 - **关键词锚定检查器**（topic: `keyword-anchor-checker`）：≥20章推荐；原理=分析块关键词英文词须命中该块引语或"为什么这样写"文本；Memories Like Fangs实战=237块扫出59+处违规（说明问题在大批次中普遍，需系统性扫描而非人工抽检）
