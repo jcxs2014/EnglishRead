@@ -1,0 +1,39 @@
+=== b 步：逐章归属 check_chapter_quotes（32 章逐一）===
+ch01 agoge.md                      ch01 agoge.md: 10/10 in ch01 text
+ch02 sparrow.md                    ch02 sparrow.md: 10/10 in ch02 text
+ch03 family.md                     ch03 family.md: 10/10 in ch03 text
+ch04 nursery.md                    ch04 nursery.md: 10/10 in ch04 text
+ch05 avicenna.md                   ch05 avicenna.md: 9/9 in ch05 text（另有 1 条短引语未校验）
+ch06 strike.md                     ch06 strike.md: 10/10 in ch06 text
+ch07 dreadnought.md                ch07 dreadnought.md: 7/7 in ch07 text（另有 1 条短引语未校验）
+ch08 yiso.md                       ch08 yiso.md: 8/8 in ch08 text（另有 2 条短引语未校验）
+ch09 raingold.md                   ch09 raingold.md: 9/9 in ch09 text（另有 1 条短引语未校验）
+ch10 ally.md                       ch10 ally.md: 8/8 in ch10 text（另有 2 条短引语未校验）
+ch11 magnus.md                     ch11 magnus.md: 9/9 in ch11 text
+ch12 water.md                      ch12 water.md: 10/10 in ch12 text
+ch13 alone.md                      ch13 alone.md: 10/10 in ch13 text
+ch14 the depths.md                 ch14 the depths.md: 10/10 in ch14 text
+ch15 a door a key.md               ch15 a door a key.md: 7/7 in ch15 text（另有 1 条短引语未校验）
+ch16 cursed.md                     ch16 cursed.md: 8/8 in ch16 text（另有 2 条短引语未校验）
+ch17 the prince.md                 ch17 the prince.md: 10/10 in ch17 text
+ch18 victory.md                    ch18 victory.md: 9/9 in ch18 text（另有 1 条短引语未校验）
+ch19 doomsday.md                   ch19 doomsday.md: 7/7 in ch19 text（另有 3 条短引语未校验）
+ch20 assignment.md                 ch20 assignment.md: 7/7 in ch20 text
+ch21 providence.md                 ch21 providence.md: 8/8 in ch21 text
+ch22 journey.md                    ch22 journey.md: 9/9 in ch22 text
+ch23 the halls of the wise.md      ch23 the halls of the wise.md: 6/6 in ch23 text（另有 4 条短引语未校验）
+ch24 the wisdom.md                 ch24 the wisdom.md: 7/7 in ch24 text
+ch25 the beginning.md              ch25 the beginning.md: 9/9 in ch25 text（另有 1 条短引语未校验）
+ch26 sabotage.md                   ch26 sabotage.md: 10/10 in ch26 text
+ch27 command.md                    ch27 command.md: 10/10 in ch27 text
+ch28 aulus jole.md                 ch28 aulus jole.md: 5/5 in ch28 text（另有 3 条短引语未校验）
+ch29 enemy action.md               ch29 enemy action.md: 7/7 in ch29 text（另有 1 条短引语未校验）
+ch30 escape.md                     ch30 escape.md: 8/8 in ch30 text
+ch31 boom.md                       ch31 boom.md: 7/7 in ch31 text（另有 1 条短引语未校验）
+ch32 valkyrie.md                   ch32 valkyrie.md: 7/7 in ch32 text（另有 1 条短引语未校验）
+
+--- 短引语兜底 check_short_quotes ---
+=== 短引语兜底核对（some-desperate-glory-by-emily-tesh）===
+  verify_quotes 跳过（<20 flat 字符）的引语：27 条 —— 这些主门禁**根本没查**
+  ✅ 命中 27 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核

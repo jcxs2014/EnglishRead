@@ -1,0 +1,75 @@
+=== a 步：第 3 条提交门禁全量重跑 2026-10-01 12:51 UTC ===
+
+--- lane ---
+完整 lane
+
+--- ① verify_quotes ---
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 23/23 ✅（另有 2 条短引语未校验）
+ch01 agoge.md: 10/10 ✅
+ch02 sparrow.md: 10/10 ✅
+ch03 family.md: 10/10 ✅
+ch04 nursery.md: 10/10 ✅
+ch05 avicenna.md: 9/9 ✅（另有 1 条短引语未校验）
+ch06 strike.md: 10/10 ✅
+ch07 dreadnought.md: 7/7 ✅（另有 1 条短引语未校验）
+ch08 yiso.md: 8/8 ✅（另有 2 条短引语未校验）
+ch09 raingold.md: 9/9 ✅（另有 1 条短引语未校验）
+ch10 ally.md: 8/8 ✅（另有 2 条短引语未校验）
+ch11 magnus.md: 9/9 ✅
+ch12 water.md: 10/10 ✅
+ch13 alone.md: 10/10 ✅
+ch14 the depths.md: 10/10 ✅
+ch15 a door a key.md: 7/7 ✅（另有 1 条短引语未校验）
+ch16 cursed.md: 8/8 ✅（另有 2 条短引语未校验）
+ch17 the prince.md: 10/10 ✅
+ch18 victory.md: 9/9 ✅（另有 1 条短引语未校验）
+ch19 doomsday.md: 7/7 ✅（另有 3 条短引语未校验）
+ch20 assignment.md: 7/7 ✅
+ch21 providence.md: 8/8 ✅
+ch22 journey.md: 9/9 ✅
+ch23 the halls of the wise.md: 6/6 ✅（另有 4 条短引语未校验）
+ch24 the wisdom.md: 7/7 ✅
+ch25 the beginning.md: 9/9 ✅（另有 1 条短引语未校验）
+ch26 sabotage.md: 10/10 ✅
+ch27 command.md: 10/10 ✅
+ch28 aulus jole.md: 5/5 ✅（另有 3 条短引语未校验）
+ch29 enemy action.md: 7/7 ✅（另有 1 条短引语未校验）
+ch30 escape.md: 8/8 ✅
+ch31 boom.md: 7/7 ✅（另有 1 条短引语未校验）
+ch32 valkyrie.md: 7/7 ✅（另有 1 条短引语未校验）
+
+⚠️ 全书共 27 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 294/294 引文可核实（100%）；完全干净文件 33/33；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+--- ①b verify_quotes --full ---
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 294/294 引文可核实（100%）；完全干净文件 33/33；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+--- ② check_vocab ---
+词条行合计: 1092
+--- FAIL (0) ---
+--- WARN (83) ---
+
+--- ③ check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- ④ corruption_scan ---
+
+=== 编辑损坏扫描（some-desperate-glory-by-emily-tesh）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- ⑤ sweep_full ---
+=== 引语整串 flat 比对（some-desperate-glory-by-emily-tesh）===
+  参照集：text/ 逐章（32 章，可定章） + epub 交叉验证
+  ✅ 本章命中 271 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 25 条归 check_short_quotes；无章可对 0 条未判）

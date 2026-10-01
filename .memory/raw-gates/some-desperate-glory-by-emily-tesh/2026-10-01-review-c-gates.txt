@@ -1,0 +1,43 @@
+=== c 步：结构扫描 ===
+
+--- ⑪ audit_structure（子项检查是假阴性高发点，0≠齐）---
+=== 精读结构扫描（some-desperate-glory-by-emily-tesh）===
+  扫 35 个 md、348 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+--- ⚠️ 子项齐全的第二实现 check_struct_indep ---
+  ❌ ch14 the depths.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch14 the depths.md: [summary] 引语 10: 子项「读者视角提示」出现 2 次（须恰 1）
+  ❌ ch16 cursed.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch17 the prince.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch18 victory.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch19 doomsday.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch22 journey.md: [summary] 引语块 9 个，超出 3–8 配额
+  ❌ ch23 the halls of the wise.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch25 the beginning.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch26 sabotage.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch27 command.md: [summary] 引语块 10 个，超出 3–8 配额
+=== 独立结构扫描：32 个 md，缺陷 25 处 ===
+
+--- ⑬ 空段扫描 ---
+
+--- ⑧ 块覆盖对账 ---
+✅ 块覆盖对账：32 个文件，每块都进了 verify_quotes 校验
+
+--- ⑮ check_overview_full（总览三篇）---
+=== 总览整串核查（some-desperate-glory-by-emily-tesh）===
+  参照集：text/ 逐章（32 章） ｜ 总览文件 3 个
+  A 整串：命中 50 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 24
+  B 章节标签：对 30 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 20 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 38 ｜ 不符 0（**只报不判红**）｜ 跳过 27
+  C 跨章多重命中：4 ｜ E H1 语义错配：0
+  ⚠️ 00_情感节点.md:26  同一句在 2 章出现（ch2,ch27），章节标注有歧义：I would rather stand three times in 
+  ⚠️ 00_概述.md:13  同一句在 2 章出现（ch2,ch27），章节标注有歧义：I would rather stand three times in 
+  ⚠️ 00_金句精选.md:32  同一句在 2 章出现（ch2,ch27），章节标注有歧义：I would rather stand three times in 
+  ⚠️ 00_金句精选.md:156  同一句在 2 章出现（ch2,ch27），章节标注有歧义：I would rather stand three times in 
+
+--- H1 语义（手 grep 兜底）---
+notes/books/novels/some-desperate-glory-by-emily-tesh/00_金句精选.md:# 《Some Desperate Glory》金句精选
+notes/books/novels/some-desperate-glory-by-emily-tesh/00_概述.md:# 《Some Desperate Glory》概述
+notes/books/novels/some-desperate-glory-by-emily-tesh/00_情感节点.md:# 《Some Desperate Glory》情感节点

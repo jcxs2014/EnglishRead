@@ -1,0 +1,30 @@
+=== d 步：语义二审 · 机械子项（第二实现）===
+
+--- check_analysis_indep（分析层行内英文，不得复述 sweep_analysis_inline）---
+  ch09 raingold.md:70  And your sons will be everything you are and more
+  ch12 water.md:78  she set her shoulder against it and gave it one good shove
+  ch14 the depths.md:36  I don’t think you were going to need them
+  ch15 a door a key.md:86  I don’t know how to explain
+  ch15 a door a key.md:98  the trilling syllables fell apart on her tongue
+  ch16 cursed.md:86  all the other things were worse
+  ch18 victory.md:108  I've run Doomsday four times
+  ch19 doomsday.md:118  Who would have dared to enter this facility
+  ch21 providence.md:36  the only room with a lock
+  ch22 journey.md:80  I'd do something about it
+  ch25 the beginning.md:90  because you think you're worth saving
+  ch26 sabotage.md:50  You drove me round the fucking twist
+  ch29 enemy action.md:100  She had done nothing to earn that expression from a majo
+  ch30 escape.md:66  not the fault of the boys
+  ch30 escape.md:70  They towered massively above the crowd
+  ch31 boom.md:58  Lisabel elbowed him hard in the stomach
+  ch31 boom.md:68  the slaughter of the innocents
+  ch31 boom.md:80  Not every sentence gets heard for what it means
+  ch31 boom.md:98  determined to be better
+  ch32 valkyrie.md:28  She had done this before
+
+--- check_xref_indep（跨章引用回查，口径收紧过两次才对）---
+  ❌ ch15 a door a key.md:30 → ch02：证据 ['pointless and stupid', 'pointless and stupid'] 在该章查无
+        句：**读者视角提示**：`fierce and clear` 的两个形容词都是她自己的标准用词（ch02「pointless and stupid」、ch12「serene and powerful」）
+=== chNN 引用 521 处：英文证据报警 1 处 ／ 中文式待人判 482 处 ===
+
+--- ⚠️ 三脚本各只在本库 1 本书上验证过 ---

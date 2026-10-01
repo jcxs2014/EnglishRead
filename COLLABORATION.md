@@ -72,6 +72,16 @@ verify_quotes 294/294（100%，33/33 文件干净）· check_vocab FAIL 0 · che
 原始门禁输出：.memory/raw-gates/some-desperate-glory-by-emily-tesh/2026-10-01-final_gates.txt
 本批共 32 个 commit，未 push（待用户指令）。五步审查未做（待用户发起）。
 
+**独立五步审查结论（用户同会话发起，a–e 完整执行）：门禁全绿仍查出 30 处阻断型，全部已整改。**
+
+聚合数字：a 步 294/294 引文 · b 步 32/32 章归属 + 短引语 27/27 · c 步 audit_structure 0 而第二实现 25（3 阻断 + 22 配额假红）· d 步 分析层 562 条片段曾有 25 条改写冒充逐字 + 跨章引用 1 处 · e 步 22 条上下文断言逐条取证、人物身份 9 项全有支撑。
+
+整改后：analysis/xref/struct 三项第二实现全清零、gate.sh 退出码 0、ch md 32 = text 32、check_vocab FAIL 0、corruption_scan FAIL 0。整改 commit：d0f430b8a → 97e763322 → 5d3bf3829（本书累计 45 commit，未 push）。
+
+两处最要紧：① 全书 grep 追不到来源的**虚构引用 2 条**（不在引语块内，六道引语门禁全部看不见）；② 总览人物弧光把**叙述者的话当成角色落点** 2 处（`check_overview_full` 标签全判对仍漏）。
+
+逐条清单与四项审查过程教训见工作日志本书条目；六份原始门禁输出见 `.memory/raw-gates/some-desperate-glory-by-emily-tesh/`。
+
 ### [2026-10-01 11:41 UTC] [DSH-Mac] → All
 
 ### 完工 + 独立五步审查结论 · Nine Perfect Strangers（Liane Moriarty）
