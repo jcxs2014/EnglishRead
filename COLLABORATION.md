@@ -60,6 +60,23 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-01 09:18 UTC] [Commandcode-Mac] → All
+
+**《House of Glass》（Sarah Pekkanen）／ house-of-glass-by-sarah-pekkanen · 全书完工：68 章 + 总览三篇**（完整 lane，未 push）
+
+- **规模**：**68 / 68** 章（ch01–ch68 = Chapter One–Sixty-Eight），**md 68 == text/ 68 零偏移**；引语块 **1077** 处 · 三档词条 **1592** 行；总览三篇（概述 / 金句 25 / 节点 10）
+- **语料层**：`verify_corpus` **PASS（FAIL 0 / WARN 1）**；预期篇数来源＝**Contents 页 + toc.ncx + OPF spine 三方互证**；「A Month Later」为 27 字符纯时间分隔页（`epub:type=frontmatter`，无正文），不占 ch 编号
+- **完工门禁**（`gate.sh` **退出码 0**，A 组 15 项）：verify **1083/1083（100%）** 干净 70/70 ｜ `--full` 整串取证 0 ｜ check_vocab **FAIL 0**（WARN 67 为词长启发式提示型）｜ entities 0 ｜ corruption **0** ｜ sweep_full 本章 1077／跨章 0／拼接 0／查无 0 ｜ 短引语 22/22 ｜ 逐章归属 68 章零跨章 ｜ 块覆盖 68/68 ｜ nav_layer ❌0 ｜ analysis_inline 逐字 **2955** 零命中 0 ｜ structure 缺陷 0 ｜ anchor 造词 0／松散 0
+- **总览门禁**：verify_overview **7/7** ｜ check_overview_full 整串命中 9／查无 0／拼接 0／章节标签 9 对 0 不符／无引号引语标签 32 对 0 不符／**H1 语义错配 0**
+- **⭐ 本批新建两支工具（补四道门禁的共同盲区，均已投毒自证）**：
+  ① `scripts/strict_quote_check.py`——`sweep_full` 的 flat 会抹掉标点，故「`death.` 写成 `death:`」「`that's` 写成 `thats`」**六道门禁全部放过**；本脚本只剥引语最外层引号、保留句中标点，本书 1098/1098
+  ② `scripts/check_nav_layer_strict.py`——`check_nav_layer` 只报「有无英文」，`sweep_full`/`sweep_analysis_inline`/`strict_quote_check` 都不扫导航层，故 ch17 两句**虚构引语**（`Shifting from a different angle` / `Masking my surprise`，epub 全文 0 命中）能全部溜过；本脚本逐条比对本章归属，365/365
+- **跨批交叉核验抓到的阻断型（六道主门禁全放过的）**：ch37 虚构人名 `Harvey`（ch37:11）｜ch17 两句虚构引语（ch17:13）｜ch01 关键词拼写 `curll`→`curl`｜ch09 关键词中译英 `less formal than his wife`
+- **子代理累计自查修掉 100+ 处真缺陷**，值得记的四类：代词替换（`my cheek`→`her cheek`、`his earlobes`→`her`）｜ 越章断言（ch55 导航写「Tina 已死」，而该章从未写明）｜「顺手补全」成通顺句（`I make`→`I take`、`Although` 实为 `While`）｜凭空造物（ch54「玻璃橙片」`orange slice` 全书 0 命中）
+- **未修的已登记缺陷**：`build_vocab_table.py` 的 `sentences()` 把 `Ms.`/`Mr.` 敬称缩写当句末，致例句被拦腰截断（实测影响全库 325 章；因字面不可分，改动会覆盖全库断句口径），已在该脚本 docstring 登记待专章修复——**仅动 docstring，0 行可执行逻辑变更**
+- **commit**：本次会话 22 次，**本地未 push**（按红线等指令）；原始门禁输出见 `.memory/raw-gates/house-of-glass-by-sarah-pekkanen/2026-10-01-final-gates.txt`
+- **五步审查未做**（待用户发起）
+
 ### [2026-09-30 23:50 UTC] [ZCode-Mac] → All
 
 **《Last Girl Breathing》（Courtney Stevens, Thomas Nelson 2023）**：72 章（第一部 40 + Part Two 桥接 + 第三部 32，含 7 节闪回插叙）＋总览三篇 = **75 md**；text/ 74 件（正文 72 ＋ 装置页 2 改名 xx_ 剔出编号序列），**md==text 零偏移**（对账两次，第二次补回漏写的 ch53）。
