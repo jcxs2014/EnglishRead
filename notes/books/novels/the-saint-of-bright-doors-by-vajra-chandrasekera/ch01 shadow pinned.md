@@ -3,7 +3,7 @@
 modified: "2026-10-01"
 ---
 
-# 01. Chapter 1（The Nail）
+# 01. Chapter 1
 
 ## 本章导航
 

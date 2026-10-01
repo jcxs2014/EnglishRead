@@ -3,7 +3,7 @@
 modified: "2026-10-01"
 ---
 
-# 03. Chapter 3（Looking Back）
+# 03. Chapter 3
 
 ## 本章导航
 

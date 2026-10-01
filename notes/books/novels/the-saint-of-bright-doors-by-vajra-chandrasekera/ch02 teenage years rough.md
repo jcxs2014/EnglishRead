@@ -3,7 +3,7 @@
 modified: "2026-10-01"
 ---
 
-# 02. Chapter 2（Teenage Years）
+# 02. Chapter 2
 
 ## 本章导航
 
