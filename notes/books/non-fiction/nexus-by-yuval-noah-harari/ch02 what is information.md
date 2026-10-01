@@ -22,7 +22,7 @@ source_text: ch02_chapter_1_what_is_information.txt
 |------|------|---------|
 | 迷途信鸽在炮火中完成送信 | 战争个案 | 信息的载体可以是活物而非人造符号 |
 | 诺亚放鸽带回橄榄枝与虹 | 神话材料 | 信使与信物同样承载信息 |
-| 迦萨战事中英军炮击误落己方阵地 | 战争个案 | 同一张纸在一种情形下是情报、另一种情形下是致命错误 |
+| 一战法国北部的「失落营」战役中美军炮火误落己方阵地 | 战争个案 | 同一张纸在一种情形下是情报、另一种情形下是致命错误 |
 | 情报组织用百叶窗开合传递军情 | 间谍个案 | 同一物件可同时是公开物与秘密 |
 | 信鸽误落奥军军官家中 | 情报事故 | 载体本身的存在就泄露了整个网络 |
 | 为在位君主推算命盘被列为死罪 | 法律材料 | 社会对占卜的重视程度远超其准确度 |
@@ -79,7 +79,7 @@ source_text: ch02_chapter_1_what_is_information.txt
 
 **中文理解**：一张一比一的地图看上去也许是现实的终极再现，但耐人寻味的是，它已经完全不再是一种再现了；它就是现实本身。
 
-**句子结构**：主句为 A one-to-one map may look like the ultimate representation of reality，may look like 为情态动词构成的推测；but 引导的对照分句中 tellingly 作插入语提示，it is no longer a representation at all 中 at all 作强调；分号后 it is the reality 为省略了系动词的倒装式补充，the 在此为特指用法。
+**句子结构**：主句为 A one-to-one map may look like the ultimate representation of reality，may look like 为情态动词构成的推测；but 引导的对照分句中 tellingly 作插入语提示，it is no longer a representation at all 中 at all 作强调；分号后 it is the reality 为完整的系表结构补充，is 明写、the 在此为特指用法。
 
 **关键词**：may look like the ultimate representation of reality / it is no longer a representation at all / it is the reality
 
@@ -107,13 +107,13 @@ source_text: ch02_chapter_1_what_is_information.txt
 
 **中文理解**：和音乐一样，DNA 也不再现现实。尽管一代又一代的斑马一直在躲避狮子，你却无法在斑马的 DNA 里找到一段代表「狮子」的核苷酸序列，也找不到另一段代表「逃跑」的序列。
 
-**句子结构**：首句为比较结构，Like music 为主语同位语，doesn’t represent reality 为省略主语的否定谓语。次句为让步状语从句 Though generations of zebras have been fleeing lions 开头，主句为 you cannot find…，其中 in the zebra DNA 作地点状语；两个 that 省略的关系代词引导并列的动名词短语 representing “lion” 与 another string representing “flight”，nor 为否定并列连词。
+**句子结构**：首句为比较结构，Like music 为主语同位语，doesn’t represent reality 为省略主语的否定谓语。次句为让步状语从句 Though generations of zebras have been fleeing lions 开头，主句为 you cannot find…，其中 in the zebra DNA 作地点状语；两个并列成分分别由省略关系代词 that 的动名词短语 representing “lion” 与完整名词短语 another string representing “flight” 充当，nor 为否定并列连词。
 
 **关键词**：Like music, DNA doesn’t represent reality / generations of zebras have been fleeing lions / a string of nucleobases representing “lion”
 
 **表达方式**：作者先给一句极短的类比判断，再用斑马与狮子这个具体场景证明「找不到」——用可被检验的缺失来支撑不可见的定义。
 
-**为什么这样写**：如果信息只等于再现，那么「DNA 里没有狮子的编码」就只是无关紧要的观察。作者把它推到荒谬的推论前 thereby 说明：连接才是评价生物信息的正确标准。这使人类历史的信息与生物系统的信息可以在同一套标准下讨论。
+**为什么这样写**：如果信息只等于再现，那么「DNA 里没有狮子的编码」就只是无关紧要的观察。作者把它推到荒谬的推论前，用以说明：连接才是评价生物信息的正确标准。这使人类历史的信息与生物系统的信息可以在同一套标准下讨论。
 
 ### ⑥ 它总是连接
 

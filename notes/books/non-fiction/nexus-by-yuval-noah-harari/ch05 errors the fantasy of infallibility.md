@@ -61,7 +61,7 @@ source_text: ch05_chapter_4_errors_the_fantasy_of_infallib.txt
 
 **中文理解**：要能够运作，自我纠错机制需要正当性。可如果人类天生容易犯错，我们又凭什么相信这些纠错机制本身不含错误？
 
-**句子结构**：首句为 To…purpose 状语开头的目的状语从句，need legitimacy 为省略 to be 的谓语结构。次句为 If 引导的条件状语从句，If humans are prone to error，其中 be prone to 为固定搭配；主句为 we can trust the self-correcting mechanisms to be free from error，to be free from 为不定式作 trust 的宾语补足语，how 引导的疑问词在整个条件句中作主语。
+**句子结构**：首句为 To…purpose 状语开头的目的状语从句，need legitimacy 为省略 to be 的谓语结构。次句为 If 引导的条件状语从句，If humans are prone to error，其中 be prone to 为固定搭配；主句为 we can trust the self-correcting mechanisms to be free from error，to be free from 为不定式作 trust 的宾语补足语，how 为方式疑问副词作状语，主句主语是 we。
 
 **关键词**：self-correcting mechanisms need legitimacy / If humans are prone to error / how can we trust the self-correcting mechanisms to be free from error
 
@@ -81,7 +81,7 @@ source_text: ch05_chapter_4_errors_the_fantasy_of_infallib.txt
 
 **表达方式**：全句以一个动名词短语作主语、以一个不及物动词作谓语，中间的因果由一个 because 从句补上；作者不写「失败了」，而用一个带爆炸意味的词把失败写成反作用力。
 
-**为什么这样写**：这句话是本节标题「制度反扑」的实质结论。经书的目标是让神的字句不再经由会犯错的人之手，可要读懂经书就必须有人来读——于是原本要削弱中介的装置，反而生产出一个更强大的中介。作者把这一反噬过程描述为必然，因而也就取消了「换个更好的经书就能解决」的可能性。
+**为什么这样写**：这句话是本节标题「绕过人的尝试如何反噬」的实质结论。经书的目标是让神的字句不再经由会犯错的人之手，可要读懂经书就必须有人来读——于是原本要削弱中介的装置，反而生产出一个更强大的中介。作者把这一反噬过程描述为必然，因而也就取消了「换个更好的经书就能解决」的可能性。
 
 ### ③ 猎巫官僚的产出
 
@@ -135,7 +135,7 @@ source_text: ch05_chapter_4_errors_the_fantasy_of_infallib.txt
 
 **关键词**：tend to create doubts, disagreements, conflicts, and rifts / to undermine the myths that hold the social order together
 
-**表达方式**：作者把纠错的后果写成一系列由轻到重的名词——怀疑、分歧、冲突、裂痕——再用 undermine 把「神话」这一支点抽掉。整句是本章唯一一处把纠错说成危险的句子，语气上的收敛与前文对纠错的推崇形成落差。
+**表达方式**：作者把纠错的后果写成一系列由轻到重的名词——怀疑、分歧、冲突、裂痕——再用 undermine 把「神话」这一支点抽掉。本段先说纠错机制在维持秩序上代价高昂，再用这一串名词把代价具体化，语气上的收敛与前文对纠错的推崇形成落差。
 
 **为什么这样写**：如果纠错只有好处，宗教与威权体制就没有理由排斥它，本节的论证也就失去分量。作者承认代价，才能解释为什么连教会也需要自我纠错却始终不愿承认；同时这句也为下一章留下真正的难题——民主与独裁如何在承担秩序职责的同时维持纠错。
 

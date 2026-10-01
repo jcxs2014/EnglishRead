@@ -111,7 +111,7 @@ source_text: ch08_chapter_7_relentless_the_network_is_alwa.txt
 
 **关键词**：the algorithms far surpass humans in their ability to spot patterns / Identifying patterns requires both the ability to create ideas and the ability to make decisions
 
-**表达方式**：前半句用 far surpass 把量差拉开，后半句立刻把「发现模式」拆成两半能力。作者把上一章给出的判准原样搬过来接到这里，于是量的描述在一句之内被换成了质的判断。
+**表达方式**：前半句用 far surpass 把量差拉开，后半句立刻把「发现模式」拆成两半能力。作者把上一章界定的两项能力（自行决策、自行产生新想法）接到「发现模式」这一新语境上，于是量的描述在一句之内被换成了质的判断。
 
 **为什么这样写**：本章的论证不是「机器更大更快」，而是「机器接手了原本由人做的判断」。作者先给出计算机的两项本领，再点明筛选模式同时用到这两项本领，效率问题就此转成权力问题。他随即补上一句「做决定与犯错不可分」，把本章与下一章的网路常错扣在一起。
 
@@ -141,7 +141,7 @@ source_text: ch08_chapter_7_relentless_the_network_is_alwa.txt
 
 **表达方式**：作者用软件语汇 bug 去描述一套中世纪的评价机制，随即又否定它；随后用一个当代已经改变了的词义为这个判断提供旁证。整段不出现一个数字，论证完全交给定性与词源承担。
 
-**为什么这样写**：这是本节真正的支点。前面用金钱与声誉两个市场的对比铺陈了很长一段，作者在此把结论压成一句定性判断：模糊性保护了人，精确性才危险。这样一来，社会信用系统的分量就不来自它的严酷，而来自它把一件本来模糊的事变成了可计算的事——这也正是作者把一家点评网站的评分看得比秘密警察更重的原因。
+**为什么这样写**：这是本节真正的支点。前面用金钱与声誉两个市场的对比铺陈了很长一段，作者在此把结论压成一句定性判断：模糊性保护了人，精确性才危险。这样一来，社会信用系统的分量就不来自它的严酷，而来自它把一件本来模糊的事变成了可计算的事——这也正是作者把点对点监控（如一家点评网站的用户互评）列为与自上而下监控并列的第二类监控的原因。
 
 ### ⑥ 不知疲倦本身就是伤害
 
@@ -153,7 +153,7 @@ source_text: ch08_chapter_7_relentless_the_network_is_alwa.txt
 
 **关键词**：the very fact that it is always on might be damaging to organic entities like humans / take away our opportunities to disconnect and relax / If an organism never has a chance to rest, it eventually collapses and dies
 
-**表达方式**：作者先用一个 Even if 把「网路可能是好的」这个相当有力的反对意见让掉，再用 the very fact 把重心从网路的内容转到网路的状态；末句把整段的抽象论断压成一条不指明主体的生物规律，收在 dies 这个词上，全章在此落幕。
+**表达方式**：作者先用一个 Even if 把「网路可能是好的」这个相当有力的反对意见让掉，再用 the very fact 把重心从网路的内容转到网路的状态；末句把整段的抽象论断压成一条不指明主体的生物规律，收在 dies 这个词上；其后原文另有两段收束（追问如何让网路慢下来、以及守住控制社会的底线），本章并非在此结束。
 
 **为什么这样写**：前面各节都在讲监控能做什么，这一节提醒读者：即使监控全部用于善事，一直开着这件事本身也有代价。作者把类比的主语从人换成有机体，这个更替让结论显得不可商量。也正因为网路既不知疲倦、又仍然可能错，下一章才必须紧接着处理「网路常常出错」。
 

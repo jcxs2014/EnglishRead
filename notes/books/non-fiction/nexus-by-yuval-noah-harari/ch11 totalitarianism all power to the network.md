@@ -78,7 +78,7 @@ source_text: ch11_chapter_10_totalitarianism_all_power_to_.txt
 
 **表达方式**：全句用一个名词化的主语把「集中」这一做法本身当作讨论对象，再以 which 从句把它挂回二十世纪的极权体制。两个分句的谓语都是判断性的（was / might become），却分处两个时代，形成同一属性的前后翻转。作者不用「但是」这类显性转折词，而靠 which 从句与 might 的情态化让转折自然发生。
 
-**为什么这样写**：这句话是全章的枢纽。前文已经论证集中导致信息过载、极权因缺乏纠错而屡犯错误，这里把同一个属性放到新的技术条件下重新称量——弱点并未消失，但它的分量变了。作者把「阿喀琉斯之踵」这个已经出现在别处的比喻放在转折点上，等于承认极权体制的自我评价标准（集中即强）第一次获得了技术支撑，从而把后面关于接管与两难的讨论引出来。
+**为什么这样写**：这句话是全章的枢纽。前文已经论证集中导致信息过载、极权因缺乏纠错而屡犯错误，这里把同一个属性放到新的技术条件下重新称量——弱点并未消失，但它的分量变了。作者在这里首次引入「阿喀琉斯之踵」这个比喻并放在转折点上，等于承认极权体制的自我评价标准（集中即强）第一次获得了技术支撑，从而把后面关于接管与两难的讨论引出来。
 
 ### ② 机器人监狱：恐怖不适用于无机代理
 
@@ -104,7 +104,7 @@ source_text: ch11_chapter_10_totalitarianism_all_power_to_.txt
 
 **关键词**：computers are bad at understanding doublespeak / A chatbot instructed to adhere to Russian law and values / conclude that freedom of speech is a core Russian value
 
-**表达方式**：先下一个关于机器能力的短判断，再用一个被动式的假想场景把这个判断演示出来。作者选择宪法作为演示材料，是因为宪法的字面承诺与实际做法之间的落差恰恰靠双重话来维持。might 一词把整个推演保持在假设层面，与本节反复声明的「这是一种可能性」相呼应。
+**表达方式**：先下一个关于机器能力的短判断，再用一个被动式的假想场景把这个判断演示出来。作者选择宪法作为演示材料，是因为宪法的字面承诺与实际做法之间的落差恰恰靠双重话来维持。might 一词把整个推演保持在假设层面，与本章末尾「这不是预言，只是一种可能性」的声明相呼应。
 
 **为什么这样写**：这一段把前面关于遗忘的讨论接到一个更基础的问题上：机器不是不听话，而是它只听话面的那一层。人类在极权体制里学会了不看穿字面，机器没有这种自卫能力。作者用宪法而非具体法令作例子，是因为矛盾被写进了公开文本，无须任何隐密证据即可成立，也让读者能在自己熟悉的政治语境中立刻复现这条推理。
 
@@ -126,7 +126,7 @@ source_text: ch11_chapter_10_totalitarianism_all_power_to_.txt
 
 > **原句 5:** "Whereas democracies assume that everyone is fallible, in totalitarian regimes the fundamental assumption is that the ruling party or the supreme leader is always right. Regimes based on that assumption are conditioned to believe in the existence of an infallible intelligence and are reluctant to create strong self-correcting mechanisms that might monitor and regulate the genius at the top."
 
-**中文理解**：民主假定人人都可能出错，而在极权体制中，根本性的假定是执政党或最高领袖永远正确。建立在这一假定之上的体制，会被训练得去相信某种不会错的智能的存在，并且不愿建立强有力的自我纠错机制去监控和规训顶端的才能。
+**中文理解**：民主假定人人都可能出错，而在极权体制中，根本性的假定是执政党或最高领袖永远正确。建立在这一假定之上的体制，会被训练得去相信某种不会错的智能的存在，并且不愿建立强有力的自我纠错机制去监控和规训顶端的天才。
 
 **句子结构**：首句为 whereas 引导的对比结构，Whereas democracies assume that everyone is fallible 为让步分句（主系表结构，内含 assume that… 宾语从句），in totalitarian regimes the fundamental assumption is that the ruling party or the supreme leader is always right 为主句，that the ruling party or the supreme leader is always right 为同位语从句修饰 assumption。次句主语为 Regimes based on that assumption（that assumption 为定语从句），谓语为 are conditioned to believe… and are reluctant to create…，两个被动式由 and 并列，to believe in the existence of an infallible intelligence 为不定式，that might monitor and regulate the genius at the top 为定语从句修饰 mechanisms。
 
@@ -148,7 +148,7 @@ source_text: ch11_chapter_10_totalitarianism_all_power_to_.txt
 
 **表达方式**：两个选项都以同一个主语 they 起首，形成结构上的严格对仗；两个选项的代价也写在同一个位置——都以 might 开头，落到傀儡或限制。to 为两处，too 收尾，把第二个选项的代价压到与第一个同等重，全句读下来因此没有轻松的那一边。
 
-**为什么这样写**：全章的问题在此收束成两难，而两难之所以成立，依赖前面两节的铺垫：一方面独裁者历来死于下属，另一方面人工智能不可被监禁、收买或杀害。这个句式的作用是把「用技术解决政治问题」的思路本身封死——无论信还是不信，代价都由独裁者自己承担。也正因为没有出口，作者才在下一段引出爱因斯坦与罗素宣言，把讨论从独裁者的处境转向全人类能否合作。
+**为什么这样写**：全章的问题在此收束成两难，而两难之所以成立，依赖前面两节的铺垫：一方面原文指出独裁者历来最大的威胁来自自己的下属，另一方面人工智能不可被监禁、收买或杀害。这个句式的作用是把「用技术解决政治问题」的思路本身封死——无论信还是不信，代价都由独裁者自己承担。也正因为没有出口，作者才在下一段引出爱因斯坦与罗素宣言，把讨论从独裁者的处境转向全人类能否合作。
 
 ## 词汇分级
 
