@@ -45,6 +45,9 @@ from pathlib import Path
 
 QUOTE_RE = re.compile(r'^> \*\*原句 (\d+):\*\* "(.*)"$', re.M)
 BLOCK_RE = re.compile(r'^> \*\*原句 (\d+):\*\* ', re.M)
+# ⚠️ 2026-10-01 新增：编号 + 引语头的整体迭代器。编号、引语、关键词三者必须同源切分，
+# 否则切块与取号口径不一致会让 zip() 错位（详见 check() 内注释）。
+BLOCK_ITER = re.compile(r'^> \*\*原句 (\d+):\*\* (.*)$', re.M)
 # ⚠️ 2026-10-01 修正：原式 ^\*\*关键词\*\*：  行首锚定，只认「顶格」形态；
 #    而本库通行形态是列表项 `- **关键词**：…`（行首是 `- `）⇒ 47 章全报「关键词行 0」，
 #    整类假红。改为接受「行首可选列表符号」。
@@ -82,9 +85,22 @@ def check(md: Path, book: Path):
         return out + [f"{md.name}: 期望恰好 1 个 text/ch{n:02d}_*.txt，实得 {len(hits)}"]
     t = hits[0].read_text(encoding="utf-8")
     ps = paras(t)
-    chunks = re.split(r'^> \*\*原句 \d+:\*\* ', s, flags=re.M)[1:]
-    nums = [x for x in QUOTE_RE.findall(s)]
-    for (num, q), chunk in zip(nums, chunks):
+    # ⚠️ 2026-10-01 修正（本书 ch02 触发）：原实现用 BLOCK_RE 切块、却用 QUOTE_RE 取
+    # 「编号 + 引语」，**两者口径不一致**——QUOTE_RE 要求引语被直双引号包裹，而引语行
+    # 同样常见「原文弯引号」或「完全不加引号」两种形态。那类文件 BLOCK_RE 切出 N 块、
+    # QUOTE_RE 只取到 M<N 个，`zip()` 随即**错位配对**：把靠前块的关键词报在靠后块的
+    # 编号名下。实测 ch02（10 块里 2 块用弯引号）把原句 1 的关键词报成「原句 3」，
+    # 偏移量恰为 N−M。
+    # 危害不止噪音：错位会让**真实的关键词越界被报在别的块名下**，复核时极易被当成假阳放过。
+    # 处置：按块整体切分（编号 / 引语 / 关键词三者同源），配对不再跨口径；并剥掉包裹引号。
+    for m in BLOCK_ITER.finditer(s):
+        num, body = m.group(1), m.group(2)
+        # body 到下一个引语块头（或文件末）为止
+        nxt = s.find("\n> **原句 ", m.end())
+        block = s[m.end(): nxt if nxt != -1 else len(s)]
+        q = body.strip()
+        if len(q) > 1 and q[0] in '"“‘' and q[-1] in '"”’':
+            q = q[1:-1]
         if q not in t:
             out.append(f"{md.name} 原句{num}: 引语非本章 text/ 逐字连续子串")
             continue
@@ -94,8 +110,8 @@ def check(md: Path, book: Path):
         # （实测跨书抽样：`stunned / flabbergasted / so shocked he'll faint`）⇒ 未命中分隔符的
         # 整串「a / b / c」被当成**一个**关键词去引语里找，必然查无 ⇒ 7/7 块全假红。
         # 判据不变（每个关键词须能在本块引语内逐字找到），只是把分隔符补齐。
-        kws = [k.strip() for k in re.split(r"[；;／/]", KW_RE.search(chunk).group(1)) if k.strip()] \
-            if KW_RE.search(chunk) else []
+        kws = [k.strip() for k in re.split(r"[；;／/]", KW_RE.search(block).group(1)) if k.strip()] \
+            if KW_RE.search(block) else []
         miss = [k for k in kws if k.lower() not in q.lower()]
         if miss:
             out.append(f"{md.name} 原句{num}: 关键词不在本块引语内 → {miss}")
