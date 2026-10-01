@@ -25,7 +25,7 @@ modified: "2026-10-01"
 
 **读者视角提示**：`Vallie` 这个昵称第一次出现在陌生人嘴里。注意它在本章是敌意的，到ch26 会变成完全不同的东西。
 
-> **原句 2:** “Let’s ignore people like you for now because, actually, it was the executed part that concerned me,” said Avi. “Crazy, I know, but I want to keep living.”
+> **原句 2:** “Let’s ignore people like you for now because, actually, it was the executed part that concerned me,” Avi said. “Crazy, I know, but I want to keep living.”
 
 **中文理解**：「我们先别讨论『你这种人』，因为实际上让我在意的是那个『被处决』的部分，」Avi 说。「我知道这很疯，但我想活下去。」
 
