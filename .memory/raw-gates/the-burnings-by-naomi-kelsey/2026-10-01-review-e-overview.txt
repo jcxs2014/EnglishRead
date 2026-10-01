@@ -1,0 +1,42 @@
+########## e 步：总览层事实核对（2026-10-01 12:54 UTC）##########
+
+== E1 章节标签对账（独立工具盲区：verify 只验逐字、不验标注对错）==
+独立 flat 核验：抽到 111 条 ｜ 本章命中 96 ｜ 全书命中 15 ｜ 查无 0
+判定：PASS 总览引语全部逐字命中原文
+
+== E2 说话人窗口核验（±200 字符，抽验金句 ①②③ 与节点三）==
+  ch1#6（序章：叔父在刀被收起之后说的）
+      窗口末 200 字尾：…hwell rocked back on his heels, relishing the word. ‘And how to frighten him?’   The prisoner’s face lurched towards Bothwell’s. ‘I can help you! Set me free and I’ll help.’   A slow smile p
+  ch2#8（伊尔莎对玛格丽塔说）
+      窗口末 200 字尾：…s it fear or the wind that brought, through the window and into the soft opulence of the royal chambers, a smell that scratched against skin, snagged on silk: the roast-pork-wrongness of bur
+  ch35#4（公堂判决后被告自己说）
+      窗口末 200 字尾：…in anything. Except this. And I don’t regret it. I want James to know what I’ve done.’ Agnes’s smile glittered scarlet. ‘Before I’m finished with him, I will make sure he never forgets my na
+  ch44#5（判决词念毕被告说）
+      窗口末 200 字尾：…and scores of Scots have died for it.’   She saw people frowning, jeers hovering on their lips. Some whispered to their neighbours; others spat scornfully.   Above her, Maitland narrowed his
+  ch46#4（约翰对国王说）
+      窗口末 200 字尾：…eeks to gain the throne by legitimate means, those are the means you must use to stop him.’   ‘I am the king,’ James hissed. ‘Everything I do is legitimate; everything I do is sanctioned by 
+  ch47#3（尾声叙述层）
+      窗口末 200 字尾：…er fate? Margareta knew where it lay: with the pale-haired woman laughing as her son wobbled towards her, a woman no longer accused of barrenness. And, of course, with the man at Anna’s side
+
+== E3 反向计数（验「没写的该不该写」这一层：门禁只能验写了的对不对）==
+  禁写项 14 项，命中 0：
+  叔父被补名 / 叔父给了卒年 / ch47 两男孩被合并 / Euphame 死法二选一 / Anna 一直知道 /
+  John 买通狱卒 / 剂量与流产写成因果 / Bothwell 罪名或刑期 / 死者总数被统一 / 处决年被指定 /
+  the Margaret 与人混用 / 断桅船与不点灯船被合并 / ch13 女人被写成 Anna / 产妇被补名
+
+== E4 缺陷与处置（1 条阻断型，已修）==
+  ❌ 00_概述.md:12 / 00_情感节点.md 节点二
+     原写：「玛格丽塔在赫尔辛格火刑现场昏了过去，醒来时约翰只告诉她名单上的名字」
+     回源：grep ch02 全文无 faint/unconscious/woke/About Ilsa ⇒ ch02 里她没有昏。
+           ch02 原文收在 Margareta ripped herself away. 'Enough, Ilsa! I'm going back.'（自己走）
+           昏倒在 ch25（书内 Ch24）para 64 'I told Anna you'd felt unwell all day before you collapsed'，
+           醒来时约翰只说 'About Ilsa.'（para 66）
+     ⇒ 两章的场景被并成一场；且「巫术在你的血里」的时序也接错（实为转身离开前说的，不是醒来后）
+     处置：改模板后重生成（概述拆两段 ＋ 情感节点二标题去「昏厥」）。commit 072138259
+
+== E5 一条经原文否证的怀疑（判为假红，不改）==
+  怀疑：ch02 里 Ilsa 叫的「Greta」可能是 Geillis 的化名 ⇒「巫术在你的血里」是对 Geillis 说的
+  否证：ch02 段 8 逐字 'her milk-sister's hiss … told her it was Ilsa, along with
+        the childish nickname only Ilsa remembered'
+        且 'For you to meet with Geillis Duncan.' / 'Who?' ⇒ Geillis Duncan 是第三个人
+  ⇒ Greta = Margareta 的童年昵称；概述与金句精选 ③ 的归属正确

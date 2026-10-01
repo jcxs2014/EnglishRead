@@ -1,0 +1,41 @@
+=== d 步：换检查路径（三个 *_indep 第二实现）===
+
+## 1 check_analysis_indep（分析层行内英文的第二实现）
+抽出分析层英文片段 1049 条
+❌ 未命中 1 条：
+  ch112 chapter 112.md:57  crumple-winkled like old peaches
+      未命中词: ['crumplewinkled']
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）5 条 —— 只报不判红，须人判：
+  ch08 chapter 8.md:29  watch her face in the mirror go into work mode
+  ch114 chapter 114.md:57  should have been reaching
+  ch114 chapter 114.md:64  her head snaps back around
+  ch124 chapter 124.md:35  accepted her oncologist’s advice
+  ch18 chapter 18.md:63  very sorry for your loss
+
+## 2 check_xref_indep（跨章引用回查的第二实现）
+=== chNN 引用 95 处：英文证据报警 0 处 ／ 中文式待人判 95 处 ===
+
+## 3 check_struct_indep 终态
+  ❌ ch03 chapter 3.md: [summary] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch07 chapter 7.md: [summary] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch11 chapter 11.md: [summary] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch44 chapter 44.md: [summary] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch59 chapter 59.md: [summary] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch59 chapter 59.md: [summary] 引语块 1 个，超出 3–8 配额
+  ❌ ch63 chapter 63.md: [summary] 词汇档位标题缺「### ⭐ 基础」
+  ❌ ch71 chapter 71.md: [summary] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+=== 独立结构扫描：127 个 md，缺陷 8 处 ===
+
+## 4 sweep_analysis_inline（写作期口径，供对照）
+  ⚠️  00_概述.md:56  「Well. That’s the only one of my questions I can answer w」→ 实为 ch122
+  ⚠️  00_金句精选.md:62  「I know who you are, Leopold.」→ 实为 ch92
+  ⚠️  00_金句精选.md:76  「On the count of three.」→ 实为 ch2,3,4,77
+
+## 5 check_crossref（写作期口径）
+交叉引用核对：0 对，报警 0
+
+## 6 audit_numbers
+  ⚪ ch86 chapter 86.md:44  「九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch94 chapter 94.md:10  「三十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch94 chapter 94.md:20  「三十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch96 chapter 96.md:10  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核

@@ -1,0 +1,47 @@
+=== c 步：结构扫描 ===
+
+## 1 audit_structure（写作期口径）
+=== 精读结构扫描（here-one-moment-by-liane-moriarty）===
+  扫 130 个 md、777 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 7
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 12 ｜ 🔀 映射不一致 0
+  ⚠️ ch03 chapter 3.md  引语 3 个，与本书众数 7 相差过大
+  ⚠️ ch11 chapter 11.md  引语 3 个，与本书众数 7 相差过大
+  ⚠️ ch119 chapter 119.md  引语 3 个，与本书众数 7 相差过大
+  ⚠️ ch15 chapter 15.md  引语 3 个，与本书众数 7 相差过大
+  ⚠️ ch23 chapter 23.md  引语 3 个，与本书众数 7 相差过大
+  ⚠️ ch36 chapter 36.md  引语 3 个，与本书众数 7 相差过大
+  ⚠️ ch42 chapter 42.md  引语 3 个，与本书众数 7 相差过大
+  ⚠️ ch50 chapter 50.md  引语 3 个，与本书众数 7 相差过大
+  ⚠️ ch59 chapter 59.md  引语 1 个，与本书众数 7 相差过大
+  ⚠️ ch71 chapter 71.md  引语 3 个，与本书众数 7 相差过大
+  ⚠️ ch95 chapter 95.md  引语 3 个，与本书众数 7 相差过大
+  ⚠️ ch97 chapter 97.md  引语 3 个，与本书众数 7 相差过大
+
+## 2 check_struct_indep（第二实现，只验过 1 本书，口径须谨慎）
+  ❌ ch81 chapter 81.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch82 chapter 82.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch83 chapter 83.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch84 chapter 84.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch85 chapter 85.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch86 chapter 86.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch87 chapter 87.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch88 chapter 88.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch89 chapter 89.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch90 chapter 90.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch91 chapter 91.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch92 chapter 92.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch93 chapter 93.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch94 chapter 94.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch95 chapter 95.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch96 chapter 96.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch97 chapter 97.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch98 chapter 98.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+  ❌ ch99 chapter 99.md: [summary] 必备节「## 一句话总结」出现 0 次（须恰 1）
+=== 独立结构扫描：127 个 md，缺陷 135 处 ===
+
+## 3 check_block_coverage
+✅ 块覆盖对账：127 个文件，每块都进了 verify_quotes 校验
+
+## 4 孤儿块/重复块/编号连续（自建，不依赖 audit_structure 的多数派推断）
+孤儿块 0 ｜ 重复块 0 ｜ 编号不连续 0 章

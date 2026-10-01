@@ -1,0 +1,181 @@
+########## a 步：第 3 条提交门禁全量重跑（2026-10-01 12:51 UTC）##########
+## lane 判定
+完整 lane（epub 在）
+
+$ verify_quotes.py
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 20/20 ✅
+ch01 prologue.md: 7/7 ✅
+ch02 chapter 1.md: 8/8 ✅
+ch03 chapter 2.md: 8/8 ✅
+ch04 chapter 3.md: 7/7 ✅
+ch05 chapter 4.md: 7/7 ✅
+ch06 chapter 5.md: 7/7 ✅
+ch07 chapter 6.md: 8/8 ✅
+ch08 chapter 7.md: 8/8 ✅
+ch09 chapter 8.md: 8/8 ✅
+ch10 chapter 9.md: 8/8 ✅
+ch11 chapter 10.md: 8/8 ✅
+ch12 chapter 11.md: 8/8 ✅
+ch13 chapter 12.md: 8/8 ✅
+ch14 chapter 13.md: 7/7 ✅
+ch15 chapter 14.md: 8/8 ✅
+ch16 chapter 15.md: 8/8 ✅
+ch17 chapter 16.md: 8/8 ✅
+ch18 chapter 17.md: 8/8 ✅
+ch19 chapter 18.md: 8/8 ✅
+ch20 chapter 19.md: 8/8 ✅
+ch21 chapter 20.md: 8/8 ✅
+ch22 chapter 21.md: 8/8 ✅
+ch23 chapter 22.md: 8/8 ✅
+ch24 chapter 23.md: 8/8 ✅
+ch25 chapter 24.md: 8/8 ✅
+ch26 chapter 25.md: 6/6 ✅
+ch27 chapter 26.md: 7/7 ✅
+ch28 chapter 27.md: 7/7 ✅
+ch29 chapter 28.md: 7/7 ✅
+ch30 chapter 29.md: 7/7 ✅
+ch31 chapter 30.md: 7/7 ✅
+ch32 chapter 31.md: 7/7 ✅
+ch33 chapter 32.md: 7/7 ✅
+ch34 chapter 33.md: 8/8 ✅
+ch35 chapter 34.md: 7/7 ✅
+ch36 chapter 35.md: 8/8 ✅
+ch37 chapter 36.md: 8/8 ✅
+ch38 chapter 37.md: 7/7 ✅
+ch39 chapter 38.md: 8/8 ✅
+ch40 chapter 39.md: 8/8 ✅
+ch41 chapter 40.md: 7/7 ✅
+ch42 chapter 41.md: 8/8 ✅
+ch43 chapter 42.md: 8/8 ✅
+ch44 chapter 43.md: 8/8 ✅
+ch45 chapter 44.md: 8/8 ✅
+ch46 chapter 45.md: 8/8 ✅
+ch47 epilogue.md: 7/7 ✅
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 378/378 引文可核实（100%）；完全干净文件 48/48；正文章节 0 提取 0；总览 0 提取转交 1 ===
+退出码 0
+
+$ verify_quotes.py --full
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 20/20 ✅
+ch01 prologue.md: 7/7 ✅
+ch02 chapter 1.md: 8/8 ✅
+ch03 chapter 2.md: 8/8 ✅
+ch04 chapter 3.md: 7/7 ✅
+ch05 chapter 4.md: 7/7 ✅
+ch06 chapter 5.md: 7/7 ✅
+ch07 chapter 6.md: 8/8 ✅
+ch08 chapter 7.md: 8/8 ✅
+ch09 chapter 8.md: 8/8 ✅
+ch10 chapter 9.md: 8/8 ✅
+ch11 chapter 10.md: 8/8 ✅
+ch12 chapter 11.md: 8/8 ✅
+ch13 chapter 12.md: 8/8 ✅
+ch14 chapter 13.md: 7/7 ✅
+ch15 chapter 14.md: 8/8 ✅
+ch16 chapter 15.md: 8/8 ✅
+ch17 chapter 16.md: 8/8 ✅
+ch18 chapter 17.md: 8/8 ✅
+ch19 chapter 18.md: 8/8 ✅
+ch20 chapter 19.md: 8/8 ✅
+ch21 chapter 20.md: 8/8 ✅
+ch22 chapter 21.md: 8/8 ✅
+ch23 chapter 22.md: 8/8 ✅
+ch24 chapter 23.md: 8/8 ✅
+ch25 chapter 24.md: 8/8 ✅
+ch26 chapter 25.md: 6/6 ✅
+ch27 chapter 26.md: 7/7 ✅
+ch28 chapter 27.md: 7/7 ✅
+ch29 chapter 28.md: 7/7 ✅
+ch30 chapter 29.md: 7/7 ✅
+ch31 chapter 30.md: 7/7 ✅
+ch32 chapter 31.md: 7/7 ✅
+ch33 chapter 32.md: 7/7 ✅
+ch34 chapter 33.md: 8/8 ✅
+ch35 chapter 34.md: 7/7 ✅
+ch36 chapter 35.md: 8/8 ✅
+ch37 chapter 36.md: 8/8 ✅
+ch38 chapter 37.md: 7/7 ✅
+ch39 chapter 38.md: 8/8 ✅
+ch40 chapter 39.md: 8/8 ✅
+ch41 chapter 40.md: 7/7 ✅
+ch42 chapter 41.md: 8/8 ✅
+ch43 chapter 42.md: 8/8 ✅
+ch44 chapter 43.md: 8/8 ✅
+ch45 chapter 44.md: 8/8 ✅
+ch46 chapter 45.md: 8/8 ✅
+ch47 epilogue.md: 7/7 ✅
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 378/378 引文可核实（100%）；完全干净文件 48/48；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+退出码 0
+
+$ check_vocab.py
+词条行合计: 1001
+
+--- FAIL (0) ---
+
+--- WARN (34) ---
+  ch01 prologue.md [基础] 基础档疑含超纲词「strolling」
+  ch01 prologue.md [基础] 基础档疑含超纲词「glittered」
+  ch04 chapter 3.md [基础] 基础档疑含超纲词「ambassadors」
+  ch04 chapter 3.md [基础] 基础档疑含超纲词「attention」
+  ch05 chapter 4.md [基础] 基础档疑含超纲词「apprentice」
+  ch05 chapter 4.md [基础] 基础档疑含超纲词「beekeeper」
+  ch15 chapter 14.md [基础] 基础档疑含超纲词「accusation」
+  ch17 chapter 16.md [基础] 基础档疑含超纲词「seamstress」
+  ch18 chapter 17.md [基础] 基础档疑含超纲词「bedchamber」
+  ch20 chapter 19.md [基础] 基础档疑含超纲词「fireworks」
+  ch20 chapter 19.md [基础] 基础档疑含超纲词「associates」
+  ch22 chapter 21.md [基础] 基础档疑含超纲词「arrogance」
+  ch22 chapter 21.md [基础] 基础档疑含超纲词「cold calculation」
+  ch23 chapter 22.md [基础] 基础档疑含超纲词「beardless youth」
+  ch27 chapter 26.md [基础] 基础档疑含超纲词「knifepoint」
+  ch27 chapter 26.md [基础] 基础档疑含超纲词「celebration」
+  ch28 chapter 27.md [基础] 基础档疑含超纲词「hedgerows」
+  ch30 chapter 29.md [基础] 基础档疑含超纲词「courtyard」
+  ch30 chapter 29.md [基础] 基础档疑含超纲词「gratitude」
+  ch31 chapter 30.md [基础] 基础档疑含超纲词「spattered」
+  ch31 chapter 30.md [基础] 基础档疑含超纲词「abandoned」
+  ch31 chapter 30.md [基础] 基础档疑含超纲词「listening」
+  ch31 chapter 30.md [基础] 基础档疑含超纲词「deservedly」
+  ch32 chapter 31.md [基础] 基础档疑含超纲词「crossroads」
+  ch34 chapter 33.md [基础] 基础档疑含超纲词「confessions」
+  ch35 chapter 34.md [基础] 基础档疑含超纲词「bloodline」
+  ch38 chapter 37.md [基础] 基础档疑含超纲词「courtyard」
+  ch38 chapter 37.md [基础] 基础档疑含超纲词「afternoon」
+  ch38 chapter 37.md [基础] 基础档疑含超纲词「beautiful day」
+  ch40 chapter 39.md [基础] 基础档疑含超纲词「attention」
+  ch40 chapter 39.md [基础] 基础档疑含超纲词「accusation」
+  ch42 chapter 41.md [基础] 基础档疑含超纲词「whimpering」
+  ch43 chapter 42.md [基础] 基础档疑含超纲词「banisters」
+  ch44 chapter 43.md [基础] 基础档疑含超纲词「splinters」
+退出码 0
+
+$ check_entities.py
+=== 实体一致性检测：0 个文件存在未知实体 ===
+退出码 0
+
+$ corruption_scan.py
+
+=== 编辑损坏扫描（the-burnings-by-naomi-kelsey）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+退出码 0
+
+$ sweep_full.py
+=== 引语整串 flat 比对（the-burnings-by-naomi-kelsey）===
+  参照集：text/ 逐章（47 章，可定章） + epub 交叉验证
+  ✅ 本章命中 358 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+退出码 0
