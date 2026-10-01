@@ -83,7 +83,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 前半句是被动的：必须被。后半句换成两个并列的塞入动作，把束身写成折叠被褥；as a winter quilt into a trunk 这个比较把「穿衣」和「装箱」并成同一件事。
 
-**读者视角提示：** 同一段紧接着的是 regrets lodged in our chests like a gumnut that never seeded；gumnut 这个比喻在 ch01 也出现过一次，两处相距一百八十年。
+**读者视角提示：** 同一段紧接着的是 regrets lodged in our chests like a gumnut that never seeded；gumnut 这个意象在 Judith 自己的日记里反复出现——ch08 里 Pooke 拿它当玩笑，ch11 的最后一段又写了一次。
 
 > **原句 8:** "Reader, Sydney is behind us, and my heart lifts."
 
