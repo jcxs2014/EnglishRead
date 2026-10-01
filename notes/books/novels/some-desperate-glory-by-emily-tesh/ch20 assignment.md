@@ -75,11 +75,11 @@ modified: "2026-10-01"
 
 **读者视角提示**：`destiny`（命运）这个词是 ch01 那句 `That was their mistake.`（那是他们的错）的反面——**Gaea 相信命运是被夺走的，而 Val 不相信命运存在**；而她即将遇到的这个人，第一句话就是说「像是命中注定」。
 
-> **原句 7:** “Stop that,” said Val to them, and after taking in her navy and gold splendor none of them risk arguing, just sloped off with the affronted air of wronged teenagers everywhere.
+> **原句 7:** “Stop that,” said Val to them, and after taking in her navy and gold splendor none of them risked arguing, just sloped off with the affronted air of wronged teenagers everywhere.
 
 **中文理解**：「住手，」Val 对他们说，然后——在她那身海军蓝与金色的威仪被收进眼底之后——他们谁也不敢争辩，就这么溜了，带着那种到处都有的、被冒犯了的青少年特有的神气。
 
-**关键词**：navy and gold splendor（海军蓝与金色的威仪）/ none of them risk arguing（谁也不敢争辩）/ sloped off（溜走）/ the affronted air of wronged teenagers（被冒犯的青少年的神气）
+**关键词**：navy and gold splendor（海军蓝与金色的威仪）/ none of them risked arguing（谁也不敢争辩）/ sloped off（溜走）/ the affronted air of wronged teenagers（被冒犯的青少年的神气）
 
 **为什么这样写**：**全书最精确的一次社会力学描写**，而作者让它用**服装**作为全部机制：`navy and gold splendor`（海军蓝与金色的威仪）——一个抽象的 `splendor`（威仪／辉煌）被挂在一身制服上。而 `wronged teenagers everywhere`（到处都有被冒犯的青少年）里那个 `everywhere`（到处）把一个个人的姿态**升级成一个普遍规律**，仿佛他们生下来就是这副样子。**而她做的事本身只是：命令他们不要把装饰石子扔进鱼塘。** 作者让读者同时感到这两件事的分量差，从而明白这本书讲的到底是什么。
 
