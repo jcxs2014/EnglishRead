@@ -19,7 +19,7 @@ modified: "2026-10-01"
 
 - **中文理解**：心底里我知道这话没错，可我心里还是为杀死丈夫找理由：那是自卫。可罪疚还是翻倍了。我把整个娘家都抹掉了。什么样脑子正常的人干得出来这种事？
 - **关键词**：Deep down（心底里）／justify killing（为杀人找理由）／It was in self-defense（那是自卫）／the guilt has multiplied（罪疚翻倍）／I’ve erased my whole family（我把整个娘家抹掉了）
-- **为什么这样写**：作者让她**明知道自己错、仍然替自己开脱**，而且开脱得很快：in my mind（在心里）几个词就把现实与辩解切开。真正的重量落在 multiplied（翻倍）——罪疚不是新增的，是**成倍**的，这说明辩解不但没用还在加速。I've erased my whole family（我把整个娘家抹掉了）是她给这件事定的量级：她用的词是"整个"，主语是"娘家"，而这一句在本章**没有解释**"抹掉"具体指什么，只给结论。What shitty person in their right mind（什么样脑子正常的人）是这一句里她用脏话骂自己。
+- **为什么这样写**：作者让她**明知道自己错、仍然替自己开脱**，而且开脱得很快：in my mind（在心里）几个词就把现实与辩解切开。真正的重量落在 multiplied（翻倍）——罪疚不是新增的，是**成倍**的，这说明辩解不但没用还在加速。I've erased my whole family（我把整个娘家抹掉了）是她给这件事定的量级：她用的词是 whole（整个），而 family 在原文里**没有指明是父系还是母系**（此处译作"娘家"是取"原生家庭"这一层），这一句在本章**没有解释**"抹掉"具体指什么，只给结论。What shitty person in their right mind（什么样脑子正常的人）是这一句里她用脏话骂自己。
 - **读者视角提示**：⚠️ 原文此处**没有**说明"抹掉全家"指的是哪些事。分析停在她的自责与结论上。
 
 > **原句 2:** If I give away all my lottery money for a good cause, maybe my guilt will erase like sand on the beach as a tide rises. Maybe I can find redemption and die in peace.
