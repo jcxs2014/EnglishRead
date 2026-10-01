@@ -15,7 +15,7 @@ modified: "2026-10-01"
 
 ## 精读
 
-> **原句1:** The sky lit up with green subreal flashes as a Wisdom cruiser dropped out of shadowspace. Kyr took a deep breath, narrowed her eyes to see past the hyperspatial feedback, and watched for the tiny dart coming through in the cruiser’s wake, nearly hidden behind its mass and shine. Her battered combat suit wouldn’t pick it up yet, but in the visible-light spectrum human eyes were a long-range sensor that the majo always underestimated.
+> **原句 1:** The sky lit up with green subreal flashes as a Wisdom cruiser dropped out of shadowspace. Kyr took a deep breath, narrowed her eyes to see past the hyperspatial feedback, and watched for the tiny dart coming through in the cruiser’s wake, nearly hidden behind its mass and shine. Her battered combat suit wouldn’t pick it up yet, but in the visible-light spectrum human eyes were a long-range sensor that the majo always underestimated.
 
 **中文理解**：天空亮起绿色的亚实景闪光，一艘智慧级巡洋舰从影空间掉出。Kyr 深吸一口气，眯起眼想看清超空间干扰，盯着巡洋舰尾流里穿出来的那枚小小飞镖——它几乎被舰体与舰光的巨大所掩盖。她那套破旧的战斗服还探测不到它，可是在可见光波段里，人眼是一台远程传感器，而 majoda（他们自己）总是低估这一点。
 

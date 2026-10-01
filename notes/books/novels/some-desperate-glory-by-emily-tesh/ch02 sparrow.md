@@ -15,7 +15,7 @@ modified: "2026-10-01"
 
 ## 精读
 
-> **原句1:** “Tell me why we need water,” said Kyr. She was not angry, exactly. There was no point getting angry with idiots. She was annoyed, because cadets as old as the Blackbirds should know better. And she was enjoying, as she usually did, being in the right.
+> **原句 1:** “Tell me why we need water,” said Kyr. She was not angry, exactly. There was no point getting angry with idiots. She was annoyed, because cadets as old as the Blackbirds should know better. And she was enjoying, as she usually did, being in the right.
 
 **中文理解**：「说说我们为什么需要水，」Kyr 说。她并不算生气——跟蠢人生气没有意义。她是恼火，因为像 Blackbird 她们这么大的学员本来就该懂事了。而且她也像往常一样享受着「自己是对的」这件事。
 
