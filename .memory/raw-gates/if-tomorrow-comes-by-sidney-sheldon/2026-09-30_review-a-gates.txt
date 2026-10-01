@@ -1,0 +1,68 @@
+# 五步审查 a 步：第 3 条提交门禁全量重跑（2026-09-30 21:0x UTC）
+# lane: 完整｜epub=notes/books/novels/if-tomorrow-comes-by-sidney-sheldon/library/If Tomorrow Comes (HarperCollins) - Sheldon, Sidney - libgen.li.epub
+# 纪律：a 步禁止采信完工报告数字，全部当场复验
+
+===== verify_quotes =====
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 2 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 237/237 引文可核实（100%）；完全干净文件 34/34；正文章节 0 提取 0；总览 0 提取转交 2 ===
+
+===== verify_quotes --full（关指纹优化） =====
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 237/237 引文可核实（100%）；完全干净文件 34/34；正文章节 0 提取 0；总览 0 提取转交 2；--full 整串取证 0 ===
+
+===== check_vocab =====
+词条行合计: 988
+--- FAIL (0) ---
+--- WARN (49) ---
+
+===== check_entities =====
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+===== corruption_scan =====
+=== 编辑损坏扫描（if-tomorrow-comes-by-sidney-sheldon）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+===== sweep_full =====
+=== 引语整串 flat 比对（if-tomorrow-comes-by-sidney-sheldon）===
+  参照集：text/ 逐章（34 章，可定章） + epub 交叉验证
+  ✅ 本章命中 237 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+
+===== check_short_quotes =====
+  verify_quotes 跳过（<20 flat 字符）的引语：2 条 —— 这些主门禁**根本没查**
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+===== check_chapter_quotes（34 章，b 步同批） =====
+逐章归属：全通过 34 章 ｜ MISS 0 章
+
+===== md 件数 vs text 件数对账 =====
+md(非00_)=34 text=35
+===== 整改后复跑（第一轮） =====
+=== 编辑损坏扫描（if-tomorrow-comes-by-sidney-sheldon）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+
+=== 总计 237/237 引文可核实（100%）；完全干净文件 34/34；正文章节 0 提取 0；总览 0 提取转交 2 ===
+
+词条行合计: 988
+--- FAIL (0) ---
+
+  ✅ 本章命中 237 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== 独立结构扫描：34 个 md，缺陷 0 处 ===
+
+抽出分析层英文片段 710 条
+✅ 全部片段在全书 text/ 逐字命中
