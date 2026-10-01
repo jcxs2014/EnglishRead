@@ -76,7 +76,7 @@ modified: "2026-10-01"
 - **中文理解**：我方恳请您Consider您在她生命中的分量，以及您的支持所能带来的积极影响。
 - **关键词**：urge（敦促）／significance（意义，分量）／your role（您的角色）／positive impact（积极影响）
 - **为什么这样写**：信件的最后一句把 Jimmy 重新定义为**一个孩子的父亲**，语气恳切到近乎讨好。作者让读者同时看见两件事：这封信写得有礼有节，而收信人已经不能回信了。significance（分量）与 role（角色）这两个词在此格外刺耳——他在**另一个孩子的人生里**确实有分量，这正是他没能在 Lynn 的人生里做到的事。
-- **读者视角提示**：⚠️ 原文在信末请求的是**钱**，并附费用清单（enclosed breakdown of estimated costs）；信中未威胁、未施压。这一"文明"是本章最值得注意的处理。
+- **读者视角提示**：⚠️ 原文在信末请求的是**钱**，并附费用清单（a breakdown of estimated costs）；信中未威胁、未施压。这一"文明"是本章最值得注意的处理。
 
 > **原句 10:** My mind is churning, each word a weight upon my conscience, each revelation a cut that runs deep.
 

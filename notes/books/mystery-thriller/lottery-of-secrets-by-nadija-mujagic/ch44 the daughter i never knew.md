@@ -40,7 +40,7 @@ modified: "2026-10-01"
 
 - **中文理解**："母亲，"她重复道。"我叫露西。我 1997 年 10 月出生在朴次茅斯地区医院。他们随后把我带走，交给了一个家庭。"
 - **关键词**：My name is Lucy（我叫露西）／the Portsmouth Regional Hospital（朴次茅斯地区医院）／They then took me away（他们把我带走）／gave me to a family（交给一个家庭）
-- **为什么这样写**：作者让 Lucy **先报名字、再报医院、再报日期**——三样都是可核查的硬信息，正是这种"档案式"的报法后来才让 Lynn 动摇了（下一段她想"the information checks out"）。gave me to a family（交给一个家庭）用被动语态 hide 了执行者：**她只说"他们"**。
+- **为什么这样写**：作者让 Lucy **先报名字、再报医院、再报日期**——三样都是可核查的硬信息，正是这种"档案式"的报法后来才让 Lynn 动摇了（下一段她想"the information she gives me checks out"）。gave me to a family（交给一个家庭）用被动语态 hide 了执行者：**她只说"他们"**。
 - **读者视角提示**：⚠️ 原文只说 "They"，**没有说是谁把她带走的**。是医院、护士、还是 Jimmy，原文没写。**不要替作者指认执行人。**
 
 > **原句 5:** They lied to you, mother. All of it.

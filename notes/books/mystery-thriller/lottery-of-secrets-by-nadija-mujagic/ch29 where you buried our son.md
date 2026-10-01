@@ -53,42 +53,42 @@ modified: "2026-10-01"
 > **原句 6:** It’s the ultimate confirmation of what I’ve feared all along.
 
 - **中文理解**：这是我一直以来最害怕的那件事的最终确认。
-- **关键词：**ultimate（最终的，决定性的）／confirmation（确认）／what I’ve feared all along（一直以来所害怕的）
+- **关键词**：ultimate（最终的，决定性的）／confirmation（确认）／what I’ve feared all along（一直以来所害怕的）
 - **为什么这样写**：注意"确认"的**对象是恐惧**而不是事实——她要的不是真相，是**坏消息**。这个倒置是全章的枢纽：她要拿到证据，好让自己不必再忍。all along（一直以来）把三十年的等待一笔带过，说明她其实早就有结论，只是不敢承认。
 - **读者视角提示**：⚠️ 原文到此**没有给出任何证实**——Andrew 消失、字条出现，两件事都可能是巧合，是她自己把它们并成了因果。写分析时要把"她的结论"与"小说的事实"分开。
 
 > **原句 7:** Everything makes sense. I need to get away from him as fast and as soon as possible.
 
 - **中文理解**：一切都说得通了。我得尽快、尽快离开他。
-- **关键词：**makes sense（说得通）／get away from（逃离）／as fast and as soon as possible（尽快，越快越好）
+- **关键词**：makes sense（说得通）／get away from（逃离）／as fast and as soon as possible（尽快，越快越好）
 - **为什么这样写**：两句话之间是一次跳跃：前句是**结论**，后句是**行动**，中间没有任何过渡。作者让读者和她一起经历这个"啊哈"时刻——而所有人都知道，一块字条加一个空号，逻辑上根本撑不起"一切都说得通"。as fast and as soon as possible 叠用两个同义的时间状语，把她写成**急着逃离**。
 - **读者视角提示**：这是她全书第一次把"逃走"放到计划的核心位置。注意她随即补了一句"但我得先从 Jimmy 那里拿到信息"——**逃走是要做的，先问清楚才是下一步**。
 
 > **原句 8:** Under no circumstances can Jimmy find out about this. Now I can execute my plan.
 
 - **中文理解**：无论如何都不能让 Jimmy 知道这件事。现在我就可以执行我的计划了。
-- **关键词：**Under no circumstances（无论如何，绝不）／execute（执行）／my plan（我的计划）
+- **关键词**：Under no circumstances（无论如何，绝不）／execute（执行）／my plan（我的计划）
 - **为什么这样写**：用 Under no circumstances（绝不）这种绝对化的表述，是**军事式的语气**——她已经从"过日子"切换到"执行任务"。my plan（我的计划）第一次带上前缀 my：这个计划是她自己的，不属于任何人。钱到账这件事在她眼里不是运气，是**装备到位**。
 - **读者视角提示**：留意"钱到账"紧接在"她想尖叫但不敢"之后——作者把一笔巨款的到手写成**潜伏中的兴奋**，与她第一章拿到彩票时坐在车里狂喜的情形正好相反。同一笔钱，两种人生。
 
 > **原句 9:** I can tell he’s thinking, ruminating over the question.
 
 - **中文理解**：我看得出他在想，在这个问题上反复思量。
-- **关键词：**ruminating（反复思量，反刍）／over the question（就这个问题）
+- **关键词**：ruminating（反复思量，反刍）／over the question（就这个问题）
 - **为什么这样写**：ruminate（反刍）本来是牛吃草的动作，用在人身上带着一丝轻蔑——她把丈夫的沉默读成**反刍**，而不是"考虑"。这个用词泄露了她的优越感：她在评估他，而不在等他回答。作者借她这个词，把这段沉默写成一桩僵持。
 - **读者视角提示**：留意下一句她说的是"My pleads only seem to make him angry"（我的恳求只会让他更生气）——她已算出说软话无用，所以才换了更直接的问法。
 
 > **原句 10:** It’s the threat I’ve heard so many times before, but it has never rung as true as now.
 
 - **中文理解**：这句话我听过很多次了，但从没有像现在这样听着这么真。
-- **关键词：**threat（威胁）／so many times before（以前很多次）／ring as true（听起来这么真切）
+- **关键词**：threat（威胁）／so many times before（以前很多次）／ring as true（听起来这么真切）
 - **为什么这样写**：全章最重的一句判断。同一句威胁她听过几十次，**以前都被她归到酒精和情绪**；这一次的不同不在于内容，而在于**她已经无法再解释了**。ring（响）这个动词把威胁当成声音：以前是杂音，这次是清晰的音。作者不写她怕了什么，只写这句话的可信度变了。
 - **读者视角提示**：这是全书**她第一次承认自己有理由害怕**，而不是替丈夫找理由。留意这个转折与下一段的动作（装旅行袋）之间只隔了几行——**判断一变，行动立刻跟上**。
 
 > **原句 11:** I wait for Jimmy to fall into a deep enough sleep not to flinch at a notable sound.
 
 - **中文理解**：我等着 Jimmy 睡得足够沉，以至于听见明显的动静也不会惊跳。
-- **关键词：**fall into a deep enough sleep（睡得足够沉）／not to flinch（不会惊跳）／a notable sound（明显的声响）
+- **关键词**：fall into a deep enough sleep（睡得足够沉）／not to flinch（不会惊跳）／a notable sound（明显的声响）
 - **为什么这样写**：作者用**否定结构**写她的计划：不要求他睡死，只要求他"不会被声音惊动"。这个精确到近乎专业的条件，说明她观察丈夫已经很久——她知道他多浅、多容易被惊醒。not to flinch（不惊跳）也回照第 30 行他被吵醒后的样子：一个人对声音的反应，是她全部计划的基础。
 - **读者视角提示**：这是全书她**最接近"计划"的一次**。注意她挑的时间（凌晨两点）与他前几章的作息对应；她不是在逃，是在执行。
 

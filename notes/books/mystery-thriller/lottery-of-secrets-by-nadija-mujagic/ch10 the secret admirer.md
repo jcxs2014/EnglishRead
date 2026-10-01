@@ -46,7 +46,7 @@ modified: "2026-10-01"
 > **原句 5:** The way he says it brings chills to my spine. I take my phone and dial the flower shop listed on the label at the top of the box. A man answers the phone after two rings. I introduce myself and inquire about the secret delivery at my house. “Can you tell me who it came from?” The silence on the other line sends me bad vibes. “I’m sorry, but I can’t give you the information because of our customers’ confidentiality. I simply can’t disclose it. Sorry.”
 
 - **中文理解**：他这么说让我脊背发凉。我拿起手机，拨了盒子顶部标签上印的那家花店。电话响了两声，一个男人接起来。我自我介绍，问起送到我家的这份神秘订单。"你能告诉我这是谁送的吗？"电话那头的沉默让我很不踏实。"抱歉，我没法告诉您，因为要为客户的保密负责。我确实不能透露。抱歉。"
-- **关键词**：bring chills to my spine（让我脊背发凉）／bad vibes（很不好的感觉）／I simply can’t disclose it（我确实不能透露）
+- **关键词**：brings chills to my spine（让我脊背发凉）／bad vibes（很不好的感觉）／I simply can’t disclose it（我确实不能透露）
 - **为什么这样写**：三步被同一道门挡住——她问、花店沉默、花店拒绝。真正的转折是那段沉默："The silence on the other line"（电话那头的沉默）先于任何解释到达，读者和她同时意识到对方在犹豫。花店的两次 "Sorry" 与 "I simply can't disclose it"（我确实不能透露）把她挡在门外，而她甚至没机会说出理由。
 - **读者视角提示**：留意她说服自己的顺序：先 "this could be serious"（这可能是严重的事）再 "I need to know the name"（我需要知道名字）——她在怀疑，却还没敢把怀疑说出口。
 

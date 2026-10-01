@@ -53,7 +53,7 @@ modified: "2026-10-01"
 > **原句 6:** It’s the one that contains memories, prospects, the fleeting potential of another life.
 
 - **中文理解**：就是那一只——里面装着记忆、前途，装着另一种人生稍纵即逝的可能。
-- **关键词**：memories（记忆）／prospects（前景，希望）／fleeting（稍纵即逝的）／the potential of another life（另一种人生的可能）
+- **关键词**：memories（记忆）／prospects（前景，希望）／fleeting（稍纵即逝的）／potential of another life（另一种人生的可能）
 - **为什么这样写**：作者用三个并列的名词把一只行李袋抬到**一生的高度**。fleeting（稍纵即逝）这个词是关键：她抢回来的不是资产，是"可能性"本身——而她知道它随时会消失。这一句与上一章那笔三百万到账形成对照：钱是到账的，这个才是她必须冒险去拿的。
 - **读者视角提示**：⚠️ 原文到此**没有打开袋子**，也没有说明里面具体有什么。写分析时停在"她抢回的是可能性"，不要补写内容。
 

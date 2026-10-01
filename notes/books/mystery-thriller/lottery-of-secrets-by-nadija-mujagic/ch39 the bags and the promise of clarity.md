@@ -46,8 +46,8 @@ modified: "2026-10-01"
 > **原句 5:** I still have a lot to do before death consumes me. Finding my son’s grave is going to be a challenge, but I’m determined. Aren’t there groundskeepers in the graveyards I can ask?
 
 - **中文理解**：在死把我吞掉之前，我还有很多事要做。找到儿子的坟会很难，但我下了决心。墓园里应该有管事的人可以问吧？
-- **关键词**：before death consumes me（在死把我吞掉之前）／Finding my son’s grave（找到儿子的坟）／I’m determined（我下了决心）／groundkeepers in the graveyards（墓园的管事人）
-- **为什么这样写**：作者用**疑问句**代替抒情——groundkeepers（管事人）那个"吧"字，是她在给自己鼓劲。她把临终前的清单排成流水账：找坟、选捐给谁、取消买房，于是 cancel 那通电话也显得像**清单上的一项**：*This reminds me. I have to call Cecilia and cancel our offer on the house.* 而这一通电话本身又是一层伏笔——对方的电话没人接，只有语音信箱，留言里她用了丈夫的正式名字：*This is Lynn Miller. I need to speak with you about the property my husband James and I put an offer on.*
+- **关键词**：before death consumes me（在死把我吞掉之前）／Finding my son’s grave（找到儿子的坟）／I’m determined（我下了决心）／groundskeepers in the graveyards（墓园的管事人）
+- **为什么这样写**：作者用**疑问句**代替抒情——groundskeepers（管事人）那个"吧"字，是她在给自己鼓劲。她把临终前的清单排成流水账：找坟、选捐给谁、取消买房，于是 cancel 那通电话也显得像**清单上的一项**：*This reminds me. I have to call Cecilia and cancel our offer on the house.* 而这一通电话本身又是一层伏笔——对方的电话没人接，只有语音信箱，留言里她用了丈夫的正式名字：*This is Lynn Miller. I need to speak with you about the property my husband James and I put an offer on.*
 - **读者视角提示**：⚠️ 本章**没有**写她找到坟，也没有写电话那头发生了什么（没人接、只有语音留言）。写分析时不要替她补上结果。
 
 > **原句 6:** I’m assuming this is his guy with a boat, the one who will take Jimmy hundreds of feet from the shore and drop him into the water like a useless pile of rocks.
