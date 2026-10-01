@@ -103,7 +103,6 @@ modified: "2026-10-01"
 |---|---|---|
 | haphazard | 杂乱无章的；（此处）路网越往外越没有章法 | a grid of roads that grows more haphazard the further he walks |
 | mushed | 糊在一起；（此处）一串字母挤成一团、读不出来 | it seems to be all consonants mushed together |
-| hellspeak | 掺着粗鄙玩笑的俚语；（此处）营地里的六种口音 | half a dozen dialects of hellspeak |
 | poach | 擅自取用；（此处）拿别人的口粮和物项 | as long as he doesn’t attempt to poach their scarce resources |
 | demarcated | 划定的；（此处）划给某个人、等着他去住的那块位置 | in the hope of finding a space demarcated for them |
 | dogsbody | 打杂的；地位最低的办事人 | He is brought in as a hanger-on and dogsbody |
@@ -124,6 +123,7 @@ modified: "2026-10-01"
 | broiling | 闷煮；（此处）发烧叠上白天的热气那种感觉 | broiling slowly with fever and the heat of day |
 | abstruse | 晦涩难懂的；（此处）填表这件本事 | when he proves capable of abstruse paperwork |
 | nominally | 名义上；（此处）写了却从不兑现的那种权利 | nominally have rights under Luriati law |
+| hellspeak | （本书用语）通用语；此处指他几乎全听不懂的六种方言 | half a dozen dialects of hellspeak |
 
 ### ⭐ 基础
 

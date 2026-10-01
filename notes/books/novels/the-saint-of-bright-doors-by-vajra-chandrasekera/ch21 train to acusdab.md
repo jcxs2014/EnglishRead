@@ -102,7 +102,7 @@ modified: "2026-10-01"
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | detritus | 碎屑；（此处）耕作留下的残渣与废物堆 | Outside is the familiar detritus of slash-and-burn agriculture gone to an uncanny half-rot, |
-| haecceity | （哲学用语）个体性；辨出一个人是他自己的那串独有标记 | He had signed so many government forms as a witness or reference; they have his haecceity strings, and the database will throw up every single one of those people as a suspect in a terror network. |
+| haecceity | （哲学术语）此在性；此处指一个人身上那组决定其身份、种族与阶层的标记 | He had signed so many government forms as a witness or reference; they have his haecceity strings, and the database will throw up every single one of those people as a suspect in a terror network. |
 | irrevocable | 不可挽回的；（此处）迈出去就收不回的那几步 | With a drowning feeling, he faces the thought he’s been pushing away since he took those irrevocable sideways steps and threw away two of his lives: both the identity of Peroe, all the friends and relationships he made wearing the name of that stranger he’s never met, his … connection, perhaps, with Pipra, which is over before it even started; and much bigger than that, the identity of Fetter, the Luriati Fetter, the new self he wore in the city, the one familiar to Koel and Caduv and all the people he’s met and known and helped and loved in the Sands and in the city, the life he’d truly thought of as his own. |
 | coalesce | 凝聚成一体；（此处）散乱的罪疚在肚子里结成一块石头 | The guilt starts to coalesce in his belly like a stone. |
 | misdirection | 声东击西的引导；（此处）先用假身份把人引开的做法 | But that misdirection will not last long; soon enough Defense will know Fetter’s face and name. |

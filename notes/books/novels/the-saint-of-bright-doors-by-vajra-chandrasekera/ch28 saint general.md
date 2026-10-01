@@ -106,7 +106,7 @@ modified: "2026-10-01"
 | puissant | （法语借词）有强大之力；能力超群的 | “Many puissant penitents and ascetics end up turning tricks on the street, one way or the other.” |
 | supramundane | 超日常的；超出常理与经验的 | “There is no such thing as a seeable future; I know some things that are going to happen—only through experience, planning, and the judicious exercise of overwhelming power, both mundane and supramundane.” |
 | unmoored | （此处）脱缆；表面与内里不再系在一起 | But in fact, I came here to die.” His face betrays no anguish or pain. It’s as if the surface of that face is disconnected, unmoored from the words and thoughts in his depths. |
-| haecceity | （哲学术语）此在性；证件上专属于这个人的那一串信息 | He studies the card and its strings of haecceity, the photograph in which he is squinting and unrecognizable to himself. |
+| haecceity | （哲学术语）此在性；此处指一个人身上那组决定其身份、种族与阶层的标记 | He studies the card and its strings of haecceity, the photograph in which he is squinting and unrecognizable to himself. |
 | enweaponed | （本书造词）被武装起来的；月亮被画成一头带武器的兽 | The sun and the moon, or a great enweaponed snarling beast. |
 | predication | （哲学术语）谓述；把某物说成某物的那一层 | “Though self, identity, predication, time, fatherhood, and absence are all constructs whose meanings dissolve under scrutiny. |
 | discomfit | 使窘迫；让人不知如何应对 | He wants to take control of this conversation, to discomfit his father in some way, or at least to provoke a reaction beyond equanimity. |

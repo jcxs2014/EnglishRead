@@ -102,7 +102,7 @@ modified: "2026-10-01"
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | garbled | （此处义）被搅得面目全非；说法走样到传不下去 | there will one day come a point when the story is so garbled |
-| haecceity | （哲学术语）此在；个体之所以为这个个体的那个东西。此处指身份卡上标记你属于哪套意义体系的符号 | the strings of haecceity printed on your identity cards |
+| haecceity | （哲学术语）此在性；此处指一个人身上那组决定其身份、种族与阶层的标记 | the strings of haecceity printed on your identity cards |
 | unpickable | 撬不开的；（此处）形容锁无法被工具打开 | Knobs will turn and tumblers roll, but their locks, if they have locks, are unpickable. |
 | unopenable | 打不开的；（此处）从另一侧再也推不开 | will vanish from one side and become unopenable from the other |
 | indeterminate | 长度不明的；说不准多久的（与 definite 相对） | The bright doors, after an indeterminate time, become indestructible |
@@ -118,7 +118,7 @@ modified: "2026-10-01"
 | waxing and waning | 此消彼长；（委员会对某扇门的）兴趣涨落 | Depending on the waxing and waning interests and enthusiasms of their given committees, each door receives its own unique combination of attentions. |
 | nepotism | 任人唯亲；靠亲属关系而不是本事取得机会 | the waiting list is a barrier to weed out anyone without the proper connections of nepotism or bribery. |
 | potency | 效力；某人身上起作用的能量大小 | Anybody who bears a degree of potency, no matter how small, in a system of significance other than the Path Behind. |
-| hinterlands | 腹地；远离城市中心的内地 | there are records of it happening deep in the hinterlands. |
+| hinterlands | （本书用语）后陆；远离中心的内陆地带 | there are records of it happening deep in the hinterlands. |
 | untrustworthy | 不可信的；听上去像真的却站不住的说法 | The most popular and enduring of these untrustworthy rumours is that there will one day come a point when the story is so garbled that the prophet loses all power and virtue, and at that point the Walking will walk again. |
 | masquerade | （此处作动词）假扮；以别人的身份出现 | we would have you masquerade, say, as a student of such phenomena from a moderately prestigious university, applying to the committee for a period of field study— |
 | rebellion | 反叛；集体违抗既有秩序的行动 | Many joined the rebellion. |

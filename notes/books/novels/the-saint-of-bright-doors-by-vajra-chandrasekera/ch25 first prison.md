@@ -103,7 +103,7 @@ modified: "2026-10-01"
 |---|---|---|
 | timepass | 消磨时光的空白时段；（此处）由窗帘和电视撑起来的那段时间 | The discrete tick tock of timepass becomes a liquid gurgle |
 | slurry | 稀泥；糊状的混合物 | dissolve into a slurry that passes into silt through his hands |
-| haecceity | 本质；此处指那串构成「他是谁」的编号字符 | He tries to remember his strings of haecceity |
+| haecceity | （哲学术语）此在性；此处指一个人身上那组决定其身份、种族与阶层的标记 | He tries to remember his strings of haecceity |
 | sacralized | 被神圣化的；（此处）重播多遍之后被当成仪式的那些动作 | the sacralized movements of his father’s face |
 | self-abnegating | 充分自我贬抑的；（此处）电视台愿意放他出镜的条件 | as long as they are sufficiently self-abnegating |
 | girt | 束着；被……围住（此处指刚换上的统一服装） | So girt, they are guided outside |

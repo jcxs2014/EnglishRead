@@ -101,7 +101,7 @@ modified: "2026-10-01"
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| haecceity | （本书术语）一个人身上那组决定其身份、种族与阶层的标记；本文用复数 haecceity strings 指证件上的一串识别纹 | The haecceity strings that mark his race and caste must have changed. |
+| haecceity | （哲学术语）此在性；此处指一个人身上那组决定其身份、种族与阶层的标记 | The haecceity strings that mark his race and caste must have changed. |
 | underscent | （此处）压在烟味底下的另一种气味；用来分辨某场火到底是什么样的火 | Sometimes the fires are bright doors burning: he can tell from the faint underscent beneath the smoke. |
 | hellspeak | （本书世界）当地通用的一种语言；这里只看烧剩的招牌碎片就够认出被烧的是什么店 | He can tell, from the charred fragments of hellspeak, that the shops were not randomly selected but targeted by the assigned race and caste of their owners. |
 | condescension | 居高临下的态度；（此处）他终于在自己脸上认出来的那种优越神情 | Even the faces that he does recognize—at least, the unmasked parts that seem familiar—treat him with caution and a condescension that he recognizes and is belatedly shamed by, the superiority of the ones who have been here and who know to the newcomer who hasn’t, and doesn’t. |

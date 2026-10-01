@@ -115,7 +115,7 @@ modified: "2026-10-01"
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| haecceity | （此处义）个体性；一个具体的人之所以是这个人、因而能领取服务的那份编号 | bearing the relevant sigils of power and strings of haecceity that give access to Luriat’s services |
+| haecceity | （哲学术语）此在性；此处指一个人身上那组决定其身份、种族与阶层的标记 | bearing the relevant sigils of power and strings of haecceity that give access to Luriat’s services |
 | segue | （此处义）不知不觉地过渡；（一段关系从一种状态滑进另一种） | Fetter isn’t sure when things segue from dating to relationship |
 | postcoital tension | （此处义）事后那种说不清的紧绷；他刚学来的约会流程里的固定一环 | followed by sex and postcoital tension |
 | make do | （此处义）将就着办；没有条件也想办法撑过去 | They make do with a newfound illiteracy. |
