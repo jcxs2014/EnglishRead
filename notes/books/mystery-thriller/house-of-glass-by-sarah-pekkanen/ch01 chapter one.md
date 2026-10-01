@@ -18,7 +18,7 @@ modified: "2026-09-30"
 > **原句 1:** The thought makes my shoulders curl forward, as if I’m instinctively forming a version of the fetal position.
 
 - **中文理解**：这个念头让我肩膀前蜷，仿佛本能地缩成了某种胎儿姿势。
-- **关键词**：curll forward · instinctively · fetal position
+- **关键词**：curl forward · instinctively · fetal position
 - **为什么这样写**：用身体的自我蜷缩把「抗拒这份工作」写成一个不受意志控制的生理反应——她还没开口说不，身体已经先替她答了。一个比喻锚定在读者自己的身体记忆上。
 - **读者视角提示**：注意这是全书的第一个身体细节。Stella 之后每次情绪高压，肩膀/身体姿态都会先于台词作出反应——留意这个线索的回声。
 

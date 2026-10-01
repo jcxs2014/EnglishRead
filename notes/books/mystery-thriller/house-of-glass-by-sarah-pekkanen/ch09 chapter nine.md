@@ -39,7 +39,7 @@ modified: "2026-09-30"
 > **原句 4:** “Come on in.” He opens the door wide, and as I step into the entryway, I notice he’s wearing socks but no shoes.
 
 - **中文理解**：「请进。」他把门大大敞开，我踏进门厅时，注意到他穿着袜子却没穿鞋。
-- **关键词**：opens the door wide · he’s wearing socks but no shoes · less formal than his wife
+- **关键词**：opens the door wide · he’s wearing socks but no shoes · step into the entryway
 - **为什么这样写**：but（却）把两个事实拧在一起：穿袜子、不穿鞋。这个 but 是 Stella 的判断句——她立刻把它解读为「他比妻子随便」。
 - **读者视角提示**：这双袜子在本章末尾会第二次出现（她低头看他脚上那双深色运动袜）。它在这里是性格，在那里是路线。
 
