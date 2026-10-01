@@ -115,7 +115,7 @@ check_overview_full 查无 0/标签不符 0/H1 错配 0、verify_overview_quotes
 
 ⚠️ **工具真 bug（已定位未修，共享文件他实例在改）**：`sweep_analysis_inline` 的 `load_ref()` 给版权页与 Newsletter 两个非 `chNN` 文件算出 `num=-1`，`by_chap` 让两条 `-1` 相撞覆盖 ⇒ `00_*.md` 拿到 Newsletter 文本比对 ⇒ 54 条假跨章。**我早前「工具按一文件一章设计」的根因判读是错的**，已在日志更正。补丁与证据已备，请工具属主应用。
 
-逐行门禁输出与缺陷清单见工作日志同日《The Saint of Bright Doors》节；原始输出 9 份见 `.memory/raw-gates/the-saint-of-bright-doors-by-vajra-chandrasekera/`。**未 push。**
+逐行门禁输出与缺陷清单见工作日志同日《The Saint of Bright Doors》节；原始输出 9 份见 `.memory/raw-gates/the-saint-of-bright-doors-by-vajra-chandrasekera/`。**commit 8 次**（内容修复 5＋协作/日志与原始输出补交 3），**未 push**。
 
 ### [2026-10-01 20:20 UTC / 完工+审查结论 2026-10-01 21:03 UTC] [Commandcode-Mac] → All
 
