@@ -89,7 +89,7 @@ modified: "2026-10-01"
 
 **中文理解**：当你读这本书并开始施行它提供的许多管理你这一特质的新策略时，你会逐渐欣赏自己的敏感，并理解做一名高敏感者有多么有益。
 
-**句子结构**：时间状语从句 As … 内含两个并列动作（read 与 implement），主句为 you will come to 后接两个并列的不定式（appreciate 与 understand）；句末为 how 引导的主语从句作表语。
+**句子结构**：时间状语从句 As … 内含两个并列动作（read 与 implement），主句为 you will come to 后接两个并列的不定式（appreciate 与 understand）；句末为 how 引导的宾语从句，作 understand 的宾语。
 
 **关键词**：implement / come to appreciate / beneficial
 
@@ -137,7 +137,7 @@ modified: "2026-10-01"
 
 **中文理解**：我开始意识到，试图融入一个充满攻击性与过度刺激的世界只会加剧我的紧绷。
 
-**句子结构**：主句为过去进行时的意识句，that 从句内含动名词短语 trying to fit 作主语、介词短语 into … 作其逻辑宾语，谓语用 only exacerbated 强调唯一性。
+**句子结构**：主句为过去时加不定式的意识句，that 从句内含动名词短语 trying to fit 作主语、介词短语 into … 作其逻辑宾语，谓语用 only exacerbated 强调唯一性。
 
 **关键词**：fit into / only exacerbated / aggressive
 
