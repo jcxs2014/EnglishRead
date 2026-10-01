@@ -1,0 +1,50 @@
+### 1 verify_quotes --full
+      首个不命中片段：flat 偏移 30  「rlookquiteintellectualandspiritualthough」
+
+=== 总计 391/391 引文可核实（100%）；完全干净文件 18/18；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 2 ===
+
+### 2 check_vocab
+词条行合计: 757
+--- FAIL (0) ---
+--- WARN (31) ---
+
+### 3 check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+### 4 corruption_scan
+=== 编辑损坏扫描（nine-perfect-strangers-by-liane-moriarty）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+### 5 sweep_full
+  ✅ 本章命中 388 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 3 ｜ ❌ 全书查无 0
+
+### 6 check_short_quotes
+  ✅ 命中 4 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+
+### 7 check_chapter_quotes
+全章扫描: 解析引语块 391，命中本章 391（100%）
+✅ 全部引语均归属正确章节
+
+### 8 audit_structure
+  扫 18 个 md、395 个引语块；多数派必备节：（无，不判）
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 4 ｜ 🔀 映射不一致 0
+
+### 9 nav/summary layer
+  ❌ 不符（差 ≥2）0 ｜ ⚠️ 差 1 1 ｜ ❓ 参照串未解析未判 59 ｜ ⚪ 不可机械核查 53
+  ⚠️ ch18 Tony.md:64  「五个No」→ 本块引语出现 6 次
+
+### 10 sweep_analysis_inline
+=== 分析层行内英文逐字核查（nine-perfect-strangers-by-liane-moriarty）===
+  ✅ 逐字 1242 ｜ ⚠️ 跨章 31 ｜ 🔶 拼接 6 ｜ 🟠 部分命中 16 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1099
+
+### 11 check_anchor
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 34 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+### 12 空段扫描
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+### 13 exit code of gate.sh
+gate.sh exit=0
