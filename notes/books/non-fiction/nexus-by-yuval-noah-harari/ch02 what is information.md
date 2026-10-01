@@ -10,7 +10,7 @@ source_text: ch02_chapter_1_what_is_information.txt
 - **出处**：*Nexus: A Brief History of Information Networks from the Stone Age to AI*，Chapter 1
 - **作者**：Yuval Noah Harari
 - **章节定位**：Part I（Human Networks）开篇，全书理论地基所在；序章提出「网路问题」，本章给出信息的第一定义
-- **字符数**：约 26,000 字符
+- **字符数**：约 31,190 字符
 - **一句话主旨**：信息之所以是信息，不在于它再现了现实，而在于它把原本分散的事物连接成网；因此评判信息的关键问题不是「它是否真实」，而是「它把什么连成了什么」。
 
 ## 论证结构

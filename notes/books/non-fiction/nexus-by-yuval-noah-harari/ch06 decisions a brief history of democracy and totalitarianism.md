@@ -10,7 +10,7 @@ source_text: ch06_chapter_5_decisions_a_brief_history_of_d.txt
 - **出处**：*Nexus: A Brief History of Information Networks from the Stone Age to AI*，Chapter 5
 - **作者**：Yuval Noah Harari
 - **章节定位**：Part I 终章，全书篇幅最长的一章；把第四、五、六至八节的共同框架（信息如何流动）应用于政治制度，并为第二部分的人工智能问题设定判准
-- **字符数**：约 128,500 字符
+- **字符数**：约 153,550 字符
 - **一句话主旨**：民主与极权不是道德对立的两端，而是两种信息流动方式——一个让对话在许多独立节点之间持续进行，一个把所有信息汇入单一中心；而大规模的两者都只有在新信息技术出现之后才成为可能，因此当下的关键问题不再是「选哪一边」，而是「非人类的智能会加入哪一种」。
 
 ## 论证结构

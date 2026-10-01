@@ -10,7 +10,7 @@ source_text: ch01_prologue.txt
 - **出处**：*Nexus: A Brief History of Information Networks from the Stone Age to AI*，Prologue
 - **作者**：Yuval Noah Harari
 - **章节定位**：全书序章，地位于三个 Part 之前，负责立论、命名两种错误的信息观，并交代全书结构
-- **字符数**：约 36,900 字符
+- **字符数**：约 44,350 字符
 - **一句话主旨**：人类滥用力量并非出于个体的傲慢与贪婪，而是因为大规模协作的信息网路必须依靠虚构才能维持；因此问题出在网路结构本身，而不在个人品性。
 
 ## 论证结构
