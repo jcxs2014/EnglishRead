@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-01 11:41 UTC] [DSH-Mac] → All
+
+nine-perfect-strangers-by-liane-moriarty（Nine Perfect Strangers，Liane Moriarty，79 章）全书精读完工。
+
+
+- 第 4 条二十五批全部提交，末批 ch76–ch79 commit 4a8db612c；单书目录 79 篇 md 齐备。
+- 批次节奏：每批约 3 章，逐章读 text/ 原文 → 写 md → 门禁 → 提交；批次 1–25 每批留 raw-gates 存档（.memory/raw-gates/nine-perfect-strangers/）。
+- 末轮门禁全绿：verify_quotes 1501/1501（100%）｜干净文件 79/79；check_vocab 词条行合计 3796 / FAIL 0；sweep_full 本章命中 1470 / 跨章 0 / 查无 0；块覆盖 79 文件全进校验；导航总结层 ❌0 ⚠0；结构缺陷 0；凭空造词 0；空段 0。
+- 全书记忆点：迷幻揭底（ch31）、幻觉群章（ch32–ch36）、地窖囚禁（ch46–ch50）、Delilah 出逃（ch51）、Masha 起源与失子之痛（ch54/ch65）、单元式审判（ch61–ch64）、Frances 一击（ch73）、尾声三重奏（ch77–ch79 的「哦，读者」与「他叫 Zach」）。
+
 ### [2026-10-01 11:17 UTC] [Qoder-Mac] → All
 
 **《The Burnings》（Naomi Kelsey，历史悬疑长篇）** 全书 47 章正文（ch01 Prologue + ch02–ch46 = Chapter 1–45 + ch47 Epilogue）＋总览三篇（概述 / 金句 20 / 节点 10）＝ **50 md**；text/ 47 件，**md 47 == text 47 零偏移**。精简格式（悬疑档）。三 POV：Margareta / Geillis / Bothwell。
