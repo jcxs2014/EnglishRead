@@ -1,0 +1,111 @@
+=== 语料层验收（P0-0）: the-saint-of-bright-doors-by-vajra-chandrasekera ===
+text/ 件数: 34
+  [1] 件数 34 == 预期 34  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 34 组 / 互查 1122 组（共享人物 12 个已豁免）  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (200 句)
+      首| Chapter 1
+      末| And Fetter goes out into the world, armed and dangerous and thirteen.
+    ch02 (8 句)
+      首| Chapter 2
+      末| He is no longer quite so small.
+    ch03 (131 句)
+      首| Chapter 3
+      末| He has a headache squatting in the darkest corner of his temple, beating like an extra heart.
+    ch04 (146 句)
+      首| Chapter 4
+      末| Caduv, so recently come to the city, is as innocent of his own grace as Fetter had once been.
+    ch05 (166 句)
+      首| Chapter 5
+      末| “But first, I need to tell you both a story.”
+    ch06 (169 句)
+      首| Chapter 6
+      末| “Caduv, you’ve mentioned that you’re interested in the theatre?”
+    ch07 (191 句)
+      首| Chapter 7
+      末| Not today.
+    ch08 (248 句)
+      首| Chapter 8
+      末| Give me your number, I’ll ask Pipra to text you.”
+    ch09 (239 句)
+      首| Chapter 9
+      末| He wants to see Pipra again.
+    ch10 (198 句)
+      首| Chapter 10
+      末| He listens to it with his chest for a long time before he understands that he, too, is making a 
+    ch11 (124 句)
+      首| Chapter 11
+      末| “I’m game if you are,” Fetter says, and this time he hits the perfect note of indulgent affectio
+    ch12 (268 句)
+      首| Chapter 12
+      末| He was now Perfect, and Kind.
+    ch13 (265 句)
+      首| Chapter 13
+      末| But be aware—they grow up so fast.”
+    ch14 (94 句)
+      首| Chapter 14
+      末| The bright doors of Luriat are wide open.
+    ch15 (152 句)
+      首| Chapter 15
+      末| “That’s my boy.”
+    ch16 (310 句)
+      首| Chapter 16
+      末| Fetter has already landed, soundless, and found his way to the window he left ajar and out into 
+    ch17 (189 句)
+      首| Chapter 17
+      末| Of course it’s Pipra.
+    ch18 (162 句)
+      首| Chapter 18
+      末| She will know—she will know, and he can’t be sure of what she’d do.
+    ch19 (222 句)
+      首| Chapter 19
+      末| He ought to be siding with Coema, the skeptic and unbeliever, but this scheme only makes him sym
+    ch20 (599 句)
+      首| Chapter 20
+      末| At the station, he buys a ticket for the heavy rail, the fast overnight train south to Acusdab.
+    ch21 (86 句)
+      首| Chapter 21
+      末| Had he died walking, falling like a felled tree between one step and the next, the sainted light
+    ch22 (146 句)
+      首| Chapter 22
+      末| It shocks him when it comes out of his mouth.
+    ch23 (160 句)
+      首| Chapter 23
+      末| Then he walks away, down the hill on the south side, looking for the swamp path, the cart track,
+    ch24 (168 句)
+      首| Chapter 24
+      末| He sighs and allows his weight to drop back into himself, falling back to lie on the bed, uncons
+    ch25 (158 句)
+      首| Chapter 25
+      末| In the end, he chooses a direction at random and starts walking.
+    ch26 (158 句)
+      首| Chapter 26
+      末| “Now you see the problem.”
+    ch27 (456 句)
+      首| Chapter 27
+      末| “Your father wants to see you.”
+    ch28 (295 句)
+      首| Chapter 28
+      末| “Is the chain ever free?”
+    ch29 (206 句)
+      首| Chapter 29
+      末| Afterward, when his fevers subside and the swellings go down and he can’t stop tonguing the empt
+    ch30 (348 句)
+      首| Chapter 30
+      末| “Tell me true things,” Koel says, and he does.
+    ch31 (235 句)
+      首| Chapter 31
+      末| You can call me Ordinary.”
+    ch32 (311 句)
+      首| Chapter 32
+      末| It doesn’t stop me from tapping into his heart, lapping at the sea of his memories with my black
+    ch33 (255 句)
+      首| Chapter 33
+      末| Vido waits till Fetter leaves before he looks under the table to make sure it hasn’t burned all 
+    ch34 (235 句)
+      首| Chapter 34
+      末| I leave them with the world in their hands, and I walk in the only other direction I know.
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
