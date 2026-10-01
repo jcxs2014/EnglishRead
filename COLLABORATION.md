@@ -114,22 +114,25 @@ commits **17 个**，**均未 push**（按红线等指令）。**五步审查未
 
 ### [2026-10-01 11:20 UTC] [MinMax-Mac] → All
 
-《Silenced》（Ann Claycomb，Titan Books 2023）多 POV 悬疑长篇精读完工。
+《Silenced》（Ann Claycomb，Titan Books 2023）多 POV 悬疑长篇精读完工 ＋ **五步审查已做（用户 2026-10-01 同会话发起，a–e 完整执行）**。
 
-**文件**：46 章正文（ch01–ch46，27 dated 节 + 19 Fairy Tales Forever Discord 节，与 text/ 零偏移）+ 总览三篇 = **49 md**。
-**规模**：368 引语块 / 943 词条；四线 Abony / Jo / Ranjani / Maia，故事时间 7/27–8/24。
+**文件**：46 章正文（ch01–ch46，27 dated 节 ＋ 19 Fairy Discord 节，与 text/ 零偏移）＋ 总览三篇 = **49 md**。368 引语块 / 943 词条；四线 Abony / Jo / Ranjani / Maia，故事时间 7/27–8/24。
 
-**门禁（lane＝完整，A 组 15 项全绿）**：verify_quotes 393/393（100%，干净 47/47）· verify_overview_quotes 40/40 · check_overview_full 章节标签 0 不符 / H1 语义 0 错配 · check_vocab FAIL 0（WARN 49 全为长度 ≥9 启发式＝提示型）· entities 0 · corruption 0 · sweep_full 368 全本章命中 · 逐章归属 46×8/8 · 块覆盖 46 文件全进 · nav 层 0/0 · analysis_inline 1170 逐字 / 零命中 0 · structure 0 · anchor 0 · 空段 0 · 语料层 verify_corpus PASS。
+**完工门禁（lane＝完整，A 组 15 项全绿）**：verify_quotes 393/393（干净 47/47）· verify_overview_quotes 40/40 · check_overview_full 章节标签 0 不符 / H1 0 错配 · check_vocab FAIL 0 · entities 0 · corruption 0 · sweep_full 368 全本章命中 · 逐章归属 46×8/8 · 块覆盖全进 · nav 0/0 · analysis_inline 1170 逐字 · structure 0 · anchor 0 · 空段 0 · verify_corpus PASS。
 
-**方法学**：引语英文 100% 由脚本从 `text/` 逐字注入（`build_silenced.py` 走 spec 的定位前缀，fail-closed；总览层走 `gen_overview.py` 从已过门禁的 368 条引语池生成）。**分析层手打英文 = 0 处**，本批次未出现引语伪造类缺陷。
+**方法学**：引语英文 100% 脚本从 `text/` 逐字注入（`build_silenced.py` 走定位前缀 fail-closed；总览走 `gen_overview.py`，从已过门禁的 368 条引语池生成）。分析层手打英文 = 0 处。
 
-**三档定性**：阻断型 0 · 提示型 49（长度启发式）+ 3（词表例句跨行，逐一 flat 核验为命中）· 假红型 0。审查期自查并修 6 处：worker 引入的 4 处分析层凭空断言（母亲「最后一次出场」/ three dots 计数 / 二十多条短信 / Fairy 提交人名单张冠李戴）＋ ch11 中文理解残留英文 ＋ ch14 结构损坏（中文理解与关键词被并成一行，成因是主会话一次 edit 误吞换行，已同步修 spec 防复发）。
+**审查怎么跑的**：门禁全部重跑、不采信完工报告数字；b/c 用第二实现（`sweep_full` / `check_struct_indep`）＋自写逐块点数三路交叉；d 步三个 `*_indep.py` 第二实现 ＋ 可数断言专项（201 条候选逐条回查）＋ 3 批子代理引语↔分析逐对核对（附本库真实反例与防幻觉条款）；e 步总览章节标签对账 ＋ 跨书污染自检 ＋ 人物属性逐条回原文。
 
-**结论**：完工，无阻断型遗留。**五步审查未做（待用户发起）**。
+**结论：门禁全绿仍查出阻断型 21 处，已全部整改**（commit `e9dbe5c02`）。分布＝计数断言数错 9 · 章节归属错位 2 · 引语/分析边界 4 · 跨短语拼接冒充逐字 2 · 排版断言虚构 1 · 同文件自相矛盾 1 · 总览人物属性虚构 2 · 总览情节虚构 1 · 其他 3；另消歧 2。最重三条：ch18「缩进与四个断口」在 epub 里实为单个 `<p>`；ch35 把「惩罚/秘密处决」整体错挂一节且与 ch08 自相矛盾；概述把 Abony 写成「销售」（实为 HR 负责人）、把 Maia 写成「异族通婚」（查无支撑）。
 
-**原始逐行输出**：`.memory/raw-gates/silenced-by-ann-claycomb/2026-10-01-final_gate.txt`
+**判假红型不采信 2 条**（子代理报警）：ch15「GC's office」全书 46 md ＋ 46 text 皆 0 命中＝幻觉；ch39「四个角色」实为按位置列举，位次全对。
 
-commits 7 个，**均未 push**。
+**整改后复验**：corruption_scan FAIL 0 · gate.sh 15 项全绿（sweep_analysis_inline 跨章 3→2，即 ch14 错引已删的证据）。
+
+**原始逐行输出**（聚合外的明细全在这）：`.memory/raw-gates/silenced-by-ann-claycomb/2026-10-01-{a_step,bc_step,d_step,after_fix}.txt`；逐条缺陷清单见工作日志本书条目。
+
+commits 均在本地，**未 push**。
 
 ### [2026-10-01 10:29 UTC] [DSH-Mac] → All
 
