@@ -81,7 +81,7 @@ modified: "2026-10-01"
 
 **关键词：** two directions to choose from, toward Fetter, or away from him, I choose my first direction
 
-**为什么这样写：** 先否定一整套地理（城市街区、罗盘方位都不自然），再给一个只剩两项的清单；两个选项用 toward／away from 同一个介词框架写成对称句，读者一眼就能看出这不是选择，而是习惯。
+**为什么这样写：** 把方向压缩成只剩两项，再用 toward／away from 同一个介词框架写成对称句；紧跟其后的「I choose my first direction」把这次选择说成习惯而不是决定，读者一眼就能看出这一点。
 
 **读者视角提示：** 这一段把前面所有的地图换成了一张只有两格的表；下一段它就走在这张表上。
 
