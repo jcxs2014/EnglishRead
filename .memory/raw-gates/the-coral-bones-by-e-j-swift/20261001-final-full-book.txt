@@ -176,3 +176,101 @@ ch13 Hana January.md                           ch13 Hana January.md: 8/8 in ch13
 === ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
   ⚠️ 00_情感节点.md:60  同一句在 2 章出现（ch10,ch13），章节标注有歧义：It’s going to be a girl. I thought y
 gate_exit=0
+
+════════ 验证器反馈逐条回证（16:40）════════
+收到 2 条「证据缺口」，按「先回取证再动手」逐条核当前文件与原文，结论：**两条都是反馈方的工具 bug，本书内容原本无误**。
+
+【① 00_概述.md:27 「北面的珊瑚已经死了九成」被指在 ch07 无出处】——**假红型，反馈方 grep 大小写敏感**。
+  原文 text/ch07_hana_september.txt:211 逐字：
+    Ninety per cent of the coral in the northern region was dead.
+  大小写敏感实测：该句命中 **1**；小写 "ninety per cent of the coral" 命中 **0**。
+  ⇒ 反馈方只 grep 了小写 ninety（全书小写仅 ch03:93 分钟 / ch10:22 物种数），漏掉句首大写的 Ninety。**这是本书坑字典「锚点大小写不敏感」第 5 次复发**，且这次发生在审查方一侧。**md 未改一字**。
+
+【② 00_概述.md:40 被指「把 1865 年溺亡写成 Pooke」】——**假红型，反馈方误读中文主语**。
+  原文 text/ch13_hana_january.txt:322 逐字：
+    She died much younger than Pooke, in ... yes, 1865. She was accompanying Pooke on an expedition, and their ship was wrecked off the coast around Cape Tribulation. He survived, she was lost at sea.
+  原文另有：Marriage in 1840, death certificate 1891. ⇒ 溺亡者是 **Judith**，Pooke 幸存。
+  改前的中文句「妻 Judith Holliman，1865 年随船失事于 Cape Tribulation 外海，溺亡」主语承前＝Judith，**与原文及 ch13 Hana January.md:10「他妻子 Judith Holliman 在海上失踪」一致**；三篇总览 grep 全文，无任何一处把溺亡归给 Pooke。⇒ **原句事实无误**。
+  **但**：反馈方确实读错了，说明该句中文主语有**可证实的歧义** ⇒ 做**最小消歧**（不改任何事实、只把归属写死并补上「Pooke 幸存／死亡证明 1891」这个原文本有的关键事实）。
+
+--- 处置 ---
+  改 00_概述.md:40 与 .overview_templates/ov_00_概述.md.tpl（保持模板可复现）；00_概述.md:27 **不动**。
+  新增英文逐条可溯源 ch13：Jonathan Samuel Pooke 2 / Judith Holliman 2 / Cape Tribulation 1 / lost at sea 2 / death certificate 1。
+
+--- 处置后重跑 gate.sh ---
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 127/127 引文可核实（100%）；完全干净文件 14/14；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 467
+--- FAIL (0) ---
+--- WARN (19) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 104 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 1 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 hana may.md                               ch01 hana may.md: 8/8 in ch01 text
+ch02 Judith.md                                 ch02 Judith.md: 8/8 in ch02 text
+ch03 Telma Interior.md                         ch03 Telma Interior.md: 8/8 in ch03 text
+ch04 Hana July.md                              ch04 Hana July.md: 8/8 in ch04 text
+ch05 Judith.md                                 ch05 Judith.md: 8/8 in ch05 text
+ch06 Telma City.md                             ch06 Telma City.md: 8/8 in ch06 text
+ch07 Hana September.md                         ch07 Hana September.md: 8/8 in ch07 text
+ch08 Judith.md                                 ch08 Judith.md: 8/8 in ch08 text
+ch09 Telma Island.md                           ch09 Telma Island.md: 8/8 in ch09 text
+ch10 Hana November.md                          ch10 Hana November.md: 8/8 in ch10 text
+ch11 Judith.md                                 ch11 Judith.md: 8/8 in ch11 text
+ch12 Telma Lagoon.md                           ch12 Telma Lagoon.md: 8/8 in ch12 text
+ch13 Hana January.md                           ch13 Hana January.md: 8/8 in ch13 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：13 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（the-coral-bones-by-e-j-swift）===
+  ✅ 逐字 481 ｜ ⚠️ 跨章 30 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 25/25 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 50/50 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  ⚠️ 00_情感节点.md:60  同一句在 2 章出现（ch10,ch13），章节标注有歧义：It’s going to be a girl. I thought y
+gate_exit=0
