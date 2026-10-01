@@ -19,7 +19,7 @@ modified: "2026-10-01"
 
 **中文理解**：倒不是没有声音。事实证明，一个活着的世界会制造各种各样的噪音。
 
-**关键词**：It was not that there were no sounds（倒不是没有声音）／a living world made all sorts of noise（活着��世界会制造各种噪音）
+**关键词**：It was not that there were no sounds（倒不是没有声音）／a living world made all sorts of noise（活着的世界会制造各种噪音）
 
 **为什么这样写**：作者用一个**否定先行**的句式开始本章，而它立刻被反转：**问题不是安静，是她不知道这些声音是什么。** 而 `a living world` 这个词组是全章的核心——Gaea 不是活的世界（它是石头、引擎、循环空气），而这里的世界自己会出声。这句话把整章的任务说清楚了：她要学的不是战斗，是**辨认一个不响的世界的语法**。
 
