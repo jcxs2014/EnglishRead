@@ -46,7 +46,7 @@ modified: "2026-10-01"
 > **原句 5:** If there’s one thing I’ve come to believe over the last two years, it’s that Astrid died in LaRue.
 
 - **中文理解**：「如果说我这两年学到的一件事，那就是：Astrid 死在 LaRue。」
-- **关键词**：the one thing I’ve come to believe · over the last two years · Astrid died in LaRue
+- **关键词**：I’ve come to believe over the last two years · over the last two years · Astrid died in LaRue
 - **为什么这样写**：一句信念被限定在两年之内（over the last two years），像在给一份证词标注时间与有效期。而「死于 LaRue」用的是 died 而不是 was killed——她早就学会了在官方结论之外保存自己的版本。
 - **读者视角提示**：这句信念是第三部所有推理的前提；请记住它，因为它会在被推翻之前一直被引用。
 

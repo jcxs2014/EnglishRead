@@ -35,35 +35,35 @@ modified: "2026-10-01"
 - **中文理解**：「Robert 坐在我们家那张小餐桌旁第一个感恩节上，握着我母亲的手，举起一杯起泡葡萄汁，为 Clay 那条永远不会活到的人生祝酒——而他完全知道是谁把 Clay 从她那里带走的。」
 - **关键词**：sat at our little farm table · raised a glass of sparkling grape juice · the life Clay would never live · knowing exactly who took it from him
 - **为什么这样写**：一句把三个动作（坐、握、举杯）与一个从句（而他知道）焊在一起。sparkling grape juice（起泡葡萄汁）是儿童饮料，而这杯酒敬的是一个死去的孩子的未来；to the life Clay would never live 这一宾语把祝词的方向整个调转——不是庆祝一个开始，而是承认一个从不开始的开始。
-- **读者视角提示》：这一桌就是全书所有「家庭」场景的原型；请把它与 ch20 那个厨房长夜（同一张桌子，Robert 用机器人式的语气谈儿子）并读。
+- **读者视角提示**：这一桌就是全书所有「家庭」场景的原型；请把它与 ch20 那个厨房长夜（同一张桌子，Robert 用机器人式的语气谈儿子）并读。
 
 > **原句 4:** Worse even, he sat glassy-eyed at another family table and lied when Dana asked if he could think of anyone who would want to hurt his son.
 
 - **中文理解**：「更糟的是，在另一张家庭餐桌上，他眼神空洞地坐着，当 Dana 问他能想到谁会想伤害他儿子时，撒了谎。」
 - **关键词**：sat glassy-eyed · at another family table · lied when Dana asked
 - **为什么这样写**：两张桌子构成本章最狠的一次对照——一张是感恩节（他举杯），一张是询问（他撒谎）。glassy-eyed（玻璃眼）把一个父亲的眼睛写成两片不再反光的玻璃；而 lied（撒谎）这个过去式没有任何修饰，像一份账上的记账。
-- **读者视角提示》：Dana 那次询问（ch20）她也在场却没听出破绽；请把这句与她当时的「I know better than to shoot the messenger」并读——她们都把沉默当成了回答。
+- **读者视角提示**：Dana 那次询问（ch20）她也在场却没听出破绽；请把这句与她当时的「I know better than to shoot the messenger」并读——她们都把沉默当成了回答。
 
 > **原句 5:** Robert doesn’t behave violently; he barters like a businessman.
 
 - **中文理解**：「Robert 不会动手；他像一个商人那样讨价还价。」
 - **关键词**：doesn’t behave violently · he barters like a businessman
 - **为什么这样写**：一句否定加一个比喻，把一个可能的杀人场景拆掉。barter（以物易物、讨价还价）是商业动词，用在这里，Robert 就从「父亲」降格为「对手」；而 violently 这个词被主动否定，比任何描述都更快地定义了这个人。
-- **读者视角提示》：这是她推理的第一步，也可能是全书对 Robert 最准确的一次定性；请把它与第一部那场「Monopoly 玩到赢为止」的细节并读。
+- **读者视角提示**：这是她推理的第一步，也可能是全书对 Robert 最准确的一次定性；请把它与第一部那场「Monopoly 玩到赢为止」的细节并读。
 
 > **原句 6:** And at least two other men knew what happened to the LaRue Dam because they caused it: Andy Bedford and his associate.
 
 - **中文理解**：「至少还有另外两个男人知道 LaRue 大坝发生了什么，因为他们正是造成它的人：Andy Bedford 和他的同伙。」
 - **关键词**：at least two other men · because they caused it · Andy Bedford · his associate
 - **为什么这样写**：一句把范围从一家公司缩小到两个人。because they caused it（因为是他们干的）用因果关系把「知情」与「动手」锁死；而 his associate（同伙）三个字没有名字，只有关系。
-- **读者视角提示》：这两个名字是第三部的靶心；请把 Andy 从第一部那件外套拉格泰姆的外套（I hate this place）与 ch47 那笔两笔款里认出来。
+- **读者视角提示**：这两个名字是第三部的靶心；请把 Andy 从第一部那件外套拉格泰姆的外套（I hate this place）与 ch47 那笔两笔款里认出来。
 
 > **原句 7:** Andy didn’t think of the hunters. Of PoppaJack. Of the five-year-old kid who loved glowbugs and couldn’t pronounce his g’s.
 
 - **中文理解**：「Andy 没想到那些猎人。没想到 PoppaJack。也没想到那个喜欢萤火虫、g 音发不准的五岁孩子。」
 - **关键词**：didn’t think of the hunters · Of PoppaJack · the five-year-old kid · couldn’t pronounce his g’s
 - **为什么这样写**：三个 Of 排成一列，一层比一层近——从人群（猎人）到主人（PoppaJack）到那个孩子。三个 did not（没想）连成一份供词；而 lowbu 那个发音错误在此被重新提起，成了这次推理的注脚。
-- **读者视角提示》：她已经把五年前的记忆调用过一次；请把它与 ch05 那场夺旗游戏里 Parson 扔起 Clay 的画面并读——那一次，Clay 差点死在水里。
+- **读者视角提示**：她已经把五年前的记忆调用过一次；请把它与 ch05 那场夺旗游戏里 Parson 扔起 Clay 的画面并读——那一次，Clay 差点死在水里。
 
 > **原句 8:** This evidence can get Neil released.
 

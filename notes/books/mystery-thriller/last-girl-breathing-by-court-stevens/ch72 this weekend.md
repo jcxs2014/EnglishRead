@@ -47,6 +47,13 @@ modified: "2026-10-01"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|------|------|------|
+| hero | （众人中的）主角 | He trots along at my heels, always the hero among the strangers we meet. |
+| handsome | （外表）英俊的 | They say things like, “What a handsome boy you are!” |
+
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |

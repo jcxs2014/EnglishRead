@@ -49,7 +49,7 @@ modified: "2026-10-01"
 - **中文理解**：「「他答应替这个孩子保密了吗？」」
 - **关键词**：Did he agree · to keep the baby a secret
 - **为什么这样写**：一句问句，两个信息：有一个秘密（keep…a secret），以及一个曾经答应的第三方（Did he agree）。而 keep a secret 与后半章那只保险箱形成了同构——Robert 也把什么东西锁了起来，只是没有商量。
-- **读者视角提示》：注意 keep 这个动词在全书里的双面性：守密与保险箱的门，都是它。
+- **读者视角提示**：注意 keep 这个动词在全书里的双面性：守密与保险箱的门，都是它。
 
 > **原句 6:** “He likes him better than Robert. That’s a popular topic around here.”
 
@@ -63,7 +63,7 @@ modified: "2026-10-01"
 - **中文理解**：「一台 GoPro 运动相机，侧边用胶带贴着一个 U 盘。」
 - **关键词**：A GoPro camera · with a flash drive · taped to its side
 - **为什么这样写**：全书最重要的一个物件被三个成分说完：相机、存储、胶带。taped（被胶带贴住）这个词尤其重——它说明这不是一次录制，而是一次转移；有人把影像从一台设备搬到另一台设备上，再把设备藏进保险箱最里层。
-- **读者视角提示》：请记住这个组合的运动相机与 U 盘；第三部剩下的调查，都从这一台设备里出来。
+- **读者视角提示**：请记住这个组合的运动相机与 U 盘；第三部剩下的调查，都从这一台设备里出来。
 
 > **原句 8:** For the sake of my memories, she offers me privacy.
 

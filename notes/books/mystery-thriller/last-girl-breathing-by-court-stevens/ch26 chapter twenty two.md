@@ -48,7 +48,7 @@ modified: "2026-10-01"
 - **中文理解**：「「按肝温推算，大约在两点到四点之间。」」
 - **关键词**：Sometime between two and four · based on liver temperature
 - **为什么这样写**：验尸用语进入家庭对话，落点却是一个母亲最想躲也最躲不开的四小时窗口。based on liver temperature（依据肝温）把死亡时间写成一件可以被体温量出来的东西；而一个经验不足的验尸官（Owl 只是因兼默认值守）亲手量自己儿子的死——这层身份之难藏在 based on 三个字母里。
-- **读者视角提示**：两点到四点这四小时将在下一章被填满；而 Lena 上午那句「我离开时他还好好的」正落在这个窗口的边缘。
+- **读者视角提示**：两点到四点这四小时将在下一章被填满；而 Lucy 上午那句「我离开时他还好好的」正落在这个窗口的边缘。
 
 > **原句 6:** “He wouldn’t have asked for a loan if he had $2k rolling in each month.”
 
@@ -60,7 +60,7 @@ modified: "2026-10-01"
 > **原句 7:** “I’d drop this and look into that big company Robert’s talking to now. Spector. Maybe they don’t like Robert saying no to building a pharmaceutical plant in Grand Junction.”
 
 - **中文理解**：「「我会先放一放那个，去看看 Robert 现在正在谈的那家大公司——Spector。也许他们不喜欢 Robert 说不建制药厂。」」
-- **关键词**：drop this · the big company Robert’s talking to now · saying no to building a pharmaceutical plant
+- **关键词**：drop this · that big company Robert’s talking to now · saying no to building a pharmaceutical plant
 - **为什么这样写**：一句 drop this 把半章的本地账本整个推开——Parson 不与数字争，他换一张桌子去算账。而 saying no（说不）三个字轻得像随口一句，实则是全书最贵的动作：这一个「不」值十亿美元。
 - **读者视角提示**：Spector 三个字在本节第一次由 Parson 说出口（此前只在 ch20 由 Robert 的助理电话里出现过）；从这一句起，嫌疑的方向从人转向公司。
 

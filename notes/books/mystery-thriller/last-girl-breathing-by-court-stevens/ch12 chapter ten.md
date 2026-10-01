@@ -25,7 +25,7 @@ modified: "2026-10-01"
 > **原句 2:** Neil glared long enough and hard enough that he lost control of the skid steer and barreled into the rental building’s overhead door.
 
 - **中文理解**：「Neil 瞪得够久、够狠，以至于他失控了滑移装载机，一头撞进租赁行的卷帘门。」
-- **关键词**：glared long enough and hard enough · lost control of the skid steer · barreled into the overhead door
+- **关键词**：glared long enough and hard enough · lost control of the skid steer · barreled into the rental building’s overhead door
 - **为什么这样写**：一个副词对（long enough and hard enough）把瞪视写成有长度的物理过程，长到足够发生一起事故。barreled（横冲直撞）是农机词——把卷帘门的损坏写成耕作事故，而始作俑者的情绪（glare）被并排放进同一句，机器的失控就是怒气的失控。
 - **读者视角提示**：那扇被撞坏的卷帘门是那天的物证；今晚他们重逢时，这道门早已不在，但 Neil 的怒气还在原地待命。
 

@@ -42,7 +42,7 @@ modified: "2026-10-01"
 - **中文理解**：「（蜡笔字条上写着）爸爸，你工作太多了。爱我。什么时候看到这个，就来抱我一下吧。就算我长大了、有了自己的孩子。」
 - **关键词**：Dad, you work too much · Come hug me whenever you find this · Even if I’m old and have my own kids
 - **为什么这样写**：一张孩子写给继父的字条，句子全是短句，全是对将来的想象（Even if I’m old and have my own kids）。而作者把这张纸留在书桌底下，让它比任何搜查记录都更贴近这家人的真相：这个家的代价写在最下面，压在抽屉和胶带下面。
-- **读者视角提示**：Please note that Clay 把 Robert 叫 Dad——请把它与 ch23 那句「Dad said the weather forecast was bunk」并读；这两处是同一份称呼的两端。
+- **读者视角提示**：Please note that Clay 把 Robert 叫 Dad——请把它与 ch05 插叙里那句「Dad said the weather forecast was bunk」并读；这两处是同一份称呼的两端。
 
 > **原句 5:** There’s no return address. No mail stamps. Only Robert’s name and address on a typed label across the front.
 

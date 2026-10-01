@@ -42,7 +42,7 @@ modified: "2026-10-01"
 - **中文理解**：「「它只有四十八英寸长。」／Parson 六英尺一（英寸）。」
 - **关键词**：only forty-eight inches long · Parson was six one
 - **为什么这样写**：两句并置，尺寸对尺寸：箱子四十八英寸（合三点三英尺），他六英尺一。一个被关过的人的尺寸，被另一个人用量尺的形式还了回来——而这一节里 Owl 只说了一句「It gets worse」，就把这两个数字永远钉在案卷上。
-- **读者视角提示**：全书最冷的一次计量；请把它与那晚 Duck Pond 里抬遗体时用过的英寸并读——同一个单位，两种用途。
+- **读者视角提示**：全书最冷的一次计量；请把它与插叙里 Clay 离被砸中只差几英寸那处并读——同一个单位，两种用途。
 
 > **原句 5:** “If you love her, let her go, brother. You know she’ll wait for you. You can’t let her.”
 
@@ -56,7 +56,7 @@ modified: "2026-10-01"
 - **中文理解**：「「他没有算计过你，小不点。到最后都没有。」」
 - **关键词**：He didn’t outsmart you, kiddo · Not in the end
 - **为什么这样写**：全书最暖的一次纠正，用 kiddo 这个称呼把她拉回孩子；而 Not in the end（在最后没有）把整局的胜负重新裁定——不是他更聪明，是他在最后一格停了下来（那支被做了手脚的枪，是他能想到的最后的自制）。
-- **读者视角提示**：这一句是 Owl 给她的判词，也是全书对她说的最后一句评语；请把它与那句「Neil was right. About all of it.」并读——两个人都说对了，只是指的是不同的「对」。
+- **读者视角提示**：这一句是 Owl 给她的判词，也是全书对她说的最后一句评语；请把它与 ch48 里那句「Martin was right. About all of it.」并读——那一次她信的是继弟，而这一次她信的是自己。
 
 > **原句 7:** I think about how I buried bulbs in the ground this morning. Ugly brown knobs of potential.
 
@@ -78,7 +78,7 @@ modified: "2026-10-01"
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| cage | （关人的）笼子 | When they searched Parson’s house, they found the cage in the basement. It’s only forty-eight inches long.” |
+| cage | （关人的）笼子 | When they searched Parson’s house, they found the cage in the basement. It’s only forty-eight inches long. |
 | counterproductive | （看起来）起反效果的 | I said it sounds counterproductive, and she said, “The anger will come out no matter what. |
 | chronological | （按时间顺序的） | The first chronological entry begins, I am 6. |
 | rigged | （被做了手脚的） | He was sure he wouldn’t have to kill me himself because Neil’s rifle was rigged. |

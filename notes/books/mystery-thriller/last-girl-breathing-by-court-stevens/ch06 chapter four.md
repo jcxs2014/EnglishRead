@@ -39,6 +39,7 @@ modified: "2026-10-01"
 > **原句 4:** I love this land. The visual. The way it smells. The song it sings.
 
 - **中文理解**：「我爱这片土地。它的样子。它的气味。它唱的歌。」
+- **关键词**：I love this land · The visual · The way it smells · The song it sings
 - **为什么这样写**：先一句总说，后面三个短句碎片：The visual / The way it smells / The song it sings——视觉、嗅觉、听觉依次点名，节奏像在数三样宝贝。前一句还是陈述（I love this land），后三句已经变成歌谣；作者用排比把这片野地写成一位有形有声的朋友。
 - **读者视角提示**：这四句是全章的抒情顶点——它们距「地上的血像红餐垫」只有一页之遥，对读之下，抒情本身就是一种危险的信号。
 

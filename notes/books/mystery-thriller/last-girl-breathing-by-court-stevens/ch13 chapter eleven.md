@@ -10,7 +10,7 @@ modified: "2026-10-01"
 - **地点·时间**：同一个凌晨、同一辆卡车内（LaRue 停车场）；雾停搜之后、天亮前的最后几小时，两个人轮流守着浅浅的一觉。
 - **一句话概括**：这是全书第一次真正的坦白：Neil 主动交代当天下午他和 Martin 一起在 LaRue，并要求她相信自己与此事无关；她连一秒怀疑都没有就把他的头接进掌心；两人说完「爱你」，就在窄车厢里各自缩回自己的四号尺寸。
 - **情感弧线位置**：悬置中的唯一亮区——它不提供任何答案，只把「该不该信他」这个问题立起来又立刻放倒；而尺码的回声把它缝回上一章的分手现场。
-- **叙事手法**：第一人称；对白承担全部推进，每一句的提示语都以一个极简动作收尾（masseges his temple、lays his cheek in my palm）；情绪只靠身体调度（armrest digs into my back、tears rolling down his cheeks、skin raw）；结尾用一个三重 because 的从句把上一章的牛仔裤比喻原样奉还。
+- **叙事手法**：第一人称；对白承担全部推进，每一句的提示语都以一个极简动作收尾（masseges his temple、lays his cheek in my palm）；情绪只靠身体调度（armrest digs into my back、tears are rolling down his cheeks、skin raw）；结尾用一个三重 because 的从句把上一章的牛仔裤比喻原样奉还。
 - **线索进展**：① Neil 当天下午与 Martin 同在 LaRue（此前他只说「在打猎」）；② 他主动要求她相信自己与两起失踪无关，理由是他们正在闹别扭、而他恨 Robert；③ 他把这件事压到深夜才说；④ 她的回答是无条件的（Why wouldn’t I believe you?）；⑤ 夜里两人在车里互换「爱你」——并且都知道这爱是什么成分。
 
 ## 精读
@@ -33,7 +33,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「Neil 冻结着、专注着，就是他比赛时的样子。只是眼泪正顺着他的脸颊滚下来。」
 - **关键词**：frozen and focused · the way he behaves during competitions · Except tears are rolling down his cheeks
-- **为什么这样写**：前一句用 Except 一个转折词把赛场状态劈成两半——frozen and focused 说的是一张职业的脸，而 Except 之后的脸在流泪。这个 Except 是全章唯一一次让平常与失态并排出现，比任何心理描写都省字。
+- **为什么这样写**：同一句里的 Except 用一个转折词把赛场状态劈成两半——frozen and focused 说的是一张职业的脸，而 Except 之后的脸在流泪。这个 Except 是全章唯一一次让平常与失态并排出现，比任何心理描写都省字。
 - **读者视角提示**：流眼泪的运动员是这本书里少有的高光——Neil 今晚不是在为她流泪，是为自己没能拦住的这一切。
 
 > **原句 4:** Neil lays his cheek in my palm, and I feel the curve of his smile as he says, “Thank you.”

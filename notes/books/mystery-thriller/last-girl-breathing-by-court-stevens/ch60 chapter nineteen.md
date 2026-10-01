@@ -21,21 +21,21 @@ modified: "2026-10-01"
 - **中文理解**：「我相信 Neil 是在狱中被谋杀的，因为他知道的事；而我想证明它。」
 - **关键词**：I believe Neil was murdered · in prison · for what he knew · I want to prove it
 - **为什么这样写**：一句台词完成两件事：把死因定性（murdered，而不是自杀），并把定性归因于一个具体的东西（for what he knew——因为他知道什么）。而 I believe 与 I want to prove 并列：信念在前、举证在后；这不是控诉，是一份立案申请的措辞。
-- **读者视角提示》：请把这句与 ch51 那通电话里 Dana 的说法并读——那时 Neil 认了罪，而现在她公开说那是 murder；这中间隔着一只 U 盘、一张威胁条与一个 KaYakittyYak。
+- **读者视角提示**：请把这句与 ch51 那通电话里 Dana 的说法并读——那时 Neil 认了罪，而现在她公开说那是 murder；这中间隔着一只 U 盘、一张威胁条与一个 KaYakittyYak。
 
 > **原句 2:** I have evidence that might set you free.
 
 - **中文理解**：「我手里有证据，也许能还你自由。」
 - **关键词**：I have evidence · that might set you free
 - **为什么这样写**：一句刻意做成双重意义的英文——set you free（让你自由）表面指 Neil，而对着镜头说话的人，说的其实是自己。might（也许）是全句最重要的一个词：它既留了退路，又足够有力地传达到那条在评论里等着的人耳朵里。
-- **读者视角提示】：这句话是她与 Astrid 之间的一次隔空握手；请把下一章那条短信与它并读——对方接住了。
+- **读者视角提示**：这句话是她与 Astrid 之间的一次隔空握手；请把下一章那条短信与它并读——对方接住了。
 
 > **原句 3:** It’s dangerous to send this. If Tamerlane is following sites like this, admitting you have evidence is a bad idea.
 
 - **中文理解**：「「发这个很危险。如果 Tamerlane 在盯着这类网站，承认自己有证据就是坏主意。」」
 - **关键词**：It’s dangerous to send this · If Tamerlane is following sites like this · admitting you have evidence is a bad idea
 - **为什么这样写**：警告由那个职业习惯写成——admitting（承认）是把 risk（风险）动词化；而 a bad idea（坏主意）故意用轻的词去说一件致命的事。Dana 的那句 if 让最坏的可能第一次被说出口，而它指的是那个公司，不是任何人。
-- **读者视角提示》：全书最重的一句警告是轻描淡写的；请把它与 ch26 那句「It can’t be replaced by answers」并读——这一次她选择了另一条路。
+- **读者视角提示**：全书最重的一句警告是轻描淡写的；请把它与 ch20 里 Dana 那句「It can’t be replaced by answers」并读——这一次她选择了另一条路。
 
 > **原句 4:** Within ten minutes, the video is live. / Ten minutes after that, I have a text.
 

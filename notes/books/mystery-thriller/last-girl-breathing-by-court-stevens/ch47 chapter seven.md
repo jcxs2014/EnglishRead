@@ -26,7 +26,7 @@ modified: "2026-10-01"
 > **原句 2:** Two hundred fifty thousand dollars upon installation. Another $250,000 when his assessment report is filed with the army and the EPA declares any failure is an act of nature.
 
 - **中文理解**：「安装完成付二十五万美元；等他把评估报告交给军队、并由环保署宣布任何失效都属天灾之后，再付二十五万。」
-- **关键词**：upon installation · Another $250,000 · declares any failure an act of nature
+- **关键词**：upon installation · Another $250,000 · the EPA declares any failure is an act of nature
 - **为什么这样写**：一句合同式的付款条款把谋杀拆成两次付款；而第二个条件（由环保署宣布失效属天灾）就是全书那句官方结论的原文——它在溃坝之前就已写进一份匿名邮件里。
 - **读者视角提示**：这是全书最冷的一处结构：灾难先被写成了条款，后被写成了新闻；请记住「act of nature」这个短语，它在 ch15 的官方推文里出现过一次。
 

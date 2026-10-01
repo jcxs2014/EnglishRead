@@ -61,7 +61,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「我有过无数次猜想：当他把儿子留在那里、抱着 Astrid 转身回岸时，他对 Neil 说了什么。」
 - **关键词**：what he said to Neil · as he left his son there · started back to the shore with Astrid
-- **为什么这样写**：作者把一个不存在的场景交给读者去填：Danny 在无人能听见的距离对儿子说了什么。left his son there（把儿子留在那里）与 started back（转身回去）两个短语之间只隔一个介词短语，转身就是全部的代价；而 wondering a million times 这个夸张的计数代替了一生的沉默。
+- **为什么这样写**：作者把一个不存在的场景交给读者去填：Danny 在无人能听见的距离对儿子说了什么。left his son there（把儿子留在那里）与 started back（转身回去）两个短语之间只隔一个介词短语，转身就是全部的代价；而 I’ve wondered a million times 这个夸张的计数代替了一生的沉默。
 - **读者视角提示**：这句话与前一句（父亲对 Lucy 说的三个字）互为镜像：两代父亲在同一条溪的两边，各自对着听不见的人说了最重要的一句。
 
 ## 本章词汇

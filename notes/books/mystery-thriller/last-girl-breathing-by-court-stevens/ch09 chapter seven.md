@@ -68,7 +68,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「我想不再失去任何人，可这世上没有任何人能许诺我不再失去。」
 - **关键词**：I want to be done losing people · there’s no one on the planet who can promise me I am
-- **为什么这样写**：全章最后一句用否定句式收束：想要（want）与无人能许诺（no one can promise），主语从一个愿望滑向整个地球的否定。done with losing people 把「失去」处理成一件可以「了结」的工作，可作者偏偏在最后一个词上把这道门焊死。
+- **为什么这样写**：全章最后一句用否定句式收束：想要（want）与无人能许诺（no one can promise），主语从一个愿望滑向整个地球的否定。I want to be done losing people 把「失去」处理成一件可以「了结」的工作，可作者偏偏在最后一个词上把这道门焊死。
 - **读者视角提示**：这句是全书动机的根——之后所有的坚持、逞强与查案，都是她向这句「许诺」讨要的一个交代。
 
 ## 本章词汇

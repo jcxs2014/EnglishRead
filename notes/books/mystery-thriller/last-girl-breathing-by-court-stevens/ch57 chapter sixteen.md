@@ -21,7 +21,7 @@ modified: "2026-10-01"
 - **中文理解**：「（我们）现在把他放进哪一类：反派，还是受害者？」
 - **关键词**：Which category · Villain or victim
 - **为什么这样写**：一句把自己写成档案员的话。她不用判断，只提供两个格子；Colon 后的大写 Villain 与小写 victim 并列，把两者的分量差异写进了大小写里。而 now 一词提醒读者：分类是随着新证据改的。
-- **读者视角提示》：全书对 Robert 的定性一直在这两格之间摆动；请把这句与 ch58 那句「I'm trying to decide if I've got it in me to kill your stepfather」并读。
+- **读者视角提示**：全书对 Robert 的定性一直在这两格之间摆动；请把这句与 ch58 那句「I'm trying to decide if I've got it in me to kill your stepfather」并读。
 
 > **原句 2:** “I think we’re running out of suspects that aren’t Owl.”
 
@@ -42,7 +42,7 @@ modified: "2026-10-01"
 - **中文理解**：「我一步两级地冲上台阶——心里清楚，只要我一旦把身子放进那张躺椅，就会被火箭一样地送回一个我爱过的地方（的从前）。」
 - **关键词**：pound up the steps two at a time · the moment I lower my body · rocket backward in time
 - **为什么这样写**：一个现在时（pound）里嵌一个将来完成（the moment…will rocket）——她把「躺下」写成一个开关，而开关一按，时间就倒转。而 rocket backward（向后发射）用了一个机械词：回到从前不是回忆，是一次推进器的反向点火。
-- **读者视角提示》：火箭这个意象在第三部还有一次出现（ch64）；请把它与本书开篇那个 Three dots appear. Disappear. 并读——她一直在时间的两端之间来回。
+- **读者视角提示**：火箭这个意象在第三部还有一次出现（ch64）；请把它与本书开篇那个 Three dots appear. Disappear. 并读——她一直在时间的两端之间来回。
 
 > **原句 5:** Our rooftop is decadent.
 

@@ -21,28 +21,28 @@ modified: "2026-10-01"
 - **中文理解**：「不管是什么，我大概都不想知道。」
 - **关键词**：Whatever this is · I probably don’t want to know
 - **为什么这样写**：一句提前写下的悼词。Whatever this is 把未知的事物说成一个不定代词，而 probably（大概）保留了余量——她知道自己会知道，她只是先承认自己不想。
-- **读者视角提示》：这句话是全章的门闩；请记住它，因为它一小时内就被撞开。
+- **读者视角提示**：这句话是全章的门闩；请记住它，因为它一小时内就被撞开。
 
 > **原句 2:** I give myself a five-second count of ignorance before I unlock my phone and tap on Dana’s name.
 
 - **中文理解**：「在解锁手机、点开 Dana 的名字之前，我给了自己五秒钟的无知。」
 - **关键词**：a five-second count of ignorance · before I unlock my phone · tap on Dana’s name
 - **为什么这样写**：作者把「点开消息」这个动作写成了自我审判——a count of ignorance（无知的倒数），像给一个刑期计时。before 从句把五秒与她一生所有的克制并置：那不是无知，是选择。
-- **读者视角提示》：这五秒是全书最长也最短的一段时间；请把它与她每次「Blue whale breath」的那次计数并读——这是她第四次使用「数」来对抗自己。
+- **读者视角提示**：这五秒是全书最长也最短的一段时间；请把它与她每次「Blue whale breath」的那次计数并读——这是她又一次使用「数」来对抗自己。
 
 > **原句 3:** “Five hours ago, Neil killed himself in prison.”
 
 - **中文理解**：「「五小时前，Neil 在狱中自杀了。」」
 - **关键词**：Five hours ago · Neil killed himself · in prison
 - **为什么这样写**：全书最短的一次通报，而信息被排成三段：五小时前／Neil／在狱中。Five hours ago 这个时间戳放在最前面，让听者先算清自己「什么都不知道」有多久；而 killed himself（自杀）用主动语态，把死的主体交还给他本人。
-- **读者视角提示**：请把这句与她在第一章末说的那句「Neil didn’t do this」并读——她第一次对 Dana 说这句话时，说的正是那个人。
+- **读者视角提示**：请把这句与 ch39 里她探监回来、坐在 Nissan 里说的那句「Neil didn’t do this」并读——她说这句话时，心里指的正是那个人。
 
 > **原句 4:** “No. That’s not possible.”
 
 - **中文理解**：「「不。这不可能。」」
 - **关键词**：No · That’s not possible
 - **为什么这样写**：两个否定被拆成两句：第一个是喉咙里的声音（No.），第二个才是完整的话。而 That’s（那是）把整件事当成一个已经存在的事实去否认——她否认的不是内容，是存在。
-- **读者视角提示**：这是全书最后一次她为 Neil 说话；请把它与她当年在法庭外说的「Neil didn’t do this」并读——两句话之间隔着两年与一条命。
+- **读者视角提示**：这是全书最后一次她为 Neil 说话；请把它与 ch39 里她在探视归来的车上心里说的「Neil didn’t do this」并读——两句话之间隔着两年与一条命。
 
 > **原句 5:** “Someone got to him,” I say. “Someone got to Neil.”
 
@@ -56,7 +56,7 @@ modified: "2026-10-01"
 - **中文理解**：「她没有反驳，也没有认同。」
 - **关键词**：She doesn’t argue · and she doesn’t agree
 - **为什么这样写**：两个否定构成一次悬置，而不使用任何形容（她沉默了很久／她似乎在思考）——作者把 Dana 的态度写成一面不表态的镜子。而这一句之所以重要，是因为它让读者与她同时失去了那份确认。
-- **读者视角提示》：这不是作者的判断，是叙述者的观察；请把它与 ch08 那次「She shouldn’t be comfortable」并读——Dana 永远不替她下结论。
+- **读者视角提示**：这不是作者的判断，是叙述者的观察；请把它与 那次她握着方向盘、什么都没说并读——Dana 永远不替她下结论。
 
 > **原句 7:** I open the door, wearing yesterday, smelling of yesterday, and too broken to stand for more than the seconds it takes me to turn the handle.
 

@@ -35,7 +35,7 @@ modified: "2026-10-01"
 - **中文理解**：「这一位 Ashley Smith——世界上最好的小提琴老师——没有犯罪记录、没有以她名义办的信用卡、没有任何不动产。Dana 连一份租约都找不到。」
 - **关键词**：no criminal record · no credit cards in her name · no property · can’t even find a lease
 - **为什么这样写**：三个 no 排成一列，像一份从零开始的资产负债表；而 this particular 把「这一位」三字加重——同名的人太多了，Dana 能抓到的只有空白。最后那半句（连租约都没有）把悬念推到最荒诞处：一个人必须住在某个地方。
-- **读者视角提示》：这份「空白」清单是全书最有力的一次间接指控；请把它与 ch44 那张被翻出来的旧贺卡并读——她们找不到的档案，这边有人从抽屉里翻出了一张。
+- **读者视角提示**：这份「空白」清单是全书最有力的一次间接指控；请把它与 ch44 那张被翻出来的旧贺卡并读——她们找不到的档案，这边有人从抽屉里翻出了一张。
 
 > **原句 4:** I’ve moved from surprise to impossibility on this Astrid/Ashley idea.
 

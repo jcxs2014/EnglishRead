@@ -21,14 +21,14 @@ modified: "2026-10-01"
 - **中文理解**：「我的脸感觉像一块白板，所有人都在上面写下过自己最深的秘密。」
 - **关键词**：a whiteboard · where everyone has written · their deepest secrets
 - **为什么这样写**：一张白板本该是可擦的，而她说的是所有人在上面留下最深秘密——不可擦。白板与脸的重合让「被写满」成为一种暴露：她走到哪里都带着那些字。
-- **读者视角提示》：这张白板上的作者如今列到第五个了；请把它与 Dana 那句「I have so many people I've given up on」并读——两个女人各自数着自己数不完的人。
+- **读者视角提示**：这张白板上的作者如今列到第五个了；请把它与 Dana 那句关于「我早就不指望谁了」的话并读——两个女人各自数着自己数不完的人。
 
 > **原句 2:** Underwater, baby. / Baby is a word lovers use. And also fathers for their baby girls.
 
 - **中文理解**：「（视频里那句是）Underwater, baby。而 baby 是情人之间的称呼，也是父亲对女儿的称呼。」
 - **关键词**：Underwater, baby · a word lovers use · fathers for their baby girls
 - **为什么这样写**：全书最关键的一次词源推理：同一个称呼，在两套关系里各有一种体温。而 And also（还有）这个词把情人与父亲并列，紧接着的 their baby girls 用 all 物主代词（他们的）把这个称呼与所有权问题绑在一起——她是在问：那一声 baby 说的是谁的女儿。
-- **读者视角提示》：请把这句与屋顶上 Owl 的“No, sweetheart”并读；两次称呼，两个人，两种答案。
+- **读者视角提示**：请把这句与屋顶上 Owl 的“No, sweetheart”并读；两次称呼，两个人，两种答案。
 
 > **原句 3:** Danny Clark doesn’t look like a man afraid to find his daughter dead; he looks like a man trying to hide behind false shock and exaggerated emotions.
 
@@ -49,7 +49,7 @@ modified: "2026-10-01"
 - **中文理解**：「（我只）点了一下，就尖叫起来。是她。」
 - **关键词**：One click · I scream · It’s her
 - **为什么这样写**：全书最短的一次发现，用三个短拍完成——一次点击，一声尖叫，一个指认。而 It’s her（是她）里的 her 没有任何修饰语：不是那个 KaYakittyYak 这个人，是 Astrid 这件事。
-- **读者视角提示**：这一声尖叫是第三部的中点；请把它与 ch42 那次「Welcome home, stranger」并读——两年半前她回到 Dana 家，而今晚她找到了那个必须回去的地方。
+- **读者视角提示**：这一声尖叫是第三部的中点；请把它与 ch41 那次「Welcome home, stranger」并读——两年半前她回到 Dana 家，而今晚她找到了那个必须回去的地方。
 
 ## 本章词汇
 

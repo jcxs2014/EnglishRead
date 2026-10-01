@@ -27,14 +27,14 @@ modified: "2026-10-01"
 
 - **中文理解**：「（她对着电台说）Parson 说得对。有人在拽我的链子。」
 - **关键词**：Parson was right · Someone’s jerking my chain
-- **为什么这样写**：一句把猜疑写成被牵着走的比喻。jerking（猛地一扯）是狗链子的动作，而 chain 这个词把她的处境降格成一只被拴着的动物——她带着枪、站在坝顶，却仍然是被动的一方。
+- **为什么这样写**：一句把猜疑写成被牵着走的比喻。jerking（猛地一扯）是狗链子的动作，而 chain 这个词把她的处境降格成一只被拴着的动物——她带着枪、站在旧坝址边的一道小土堤上，却仍然是被动的一方。
 - **读者视角提示**：请把 jerking my chain 与后文那句「I’m the bait」并读——从这一句开始，她对自己在这盘棋里的位置有了第一次准确的比喻。
 
 > **原句 3:** “Give her another five minutes.”
 
 - **中文理解**：「（Dana 在电台里说）再给她五分钟。」
 - **关键词**：Give her another five minutes
-- **为什么这样写**：Dena 全书最短的一次指令，用祈使句而不是商量。而 give her（给她）这个说法把等待的对象处理成一份资源：五分钟可以给，但只能给五分钟。
+- **为什么这样写**：Dana 全书最短的一次指令，用祈使句而不是商量。而 give her（给她）这个说法把等待的对象处理成一份资源：五分钟可以给，但只能给五分钟。
 - **读者视角提示**：这五分钟是全书最长的一次倒数；请把它与两次电话里的时间差（五小时前、十分钟）对读——她在计时上从来没有宽松过。
 
 > **原句 4:** “Astrid!” I scream at the water in frustration, wishing I could manifest her.
@@ -49,7 +49,7 @@ modified: "2026-10-01"
 - **中文理解**：「（那个人）走得很刻意、很谨慎，像在穿越雷区。」
 - **关键词**：very deliberate steps · as if walking through a minefield
 - **为什么这样写**：deliberate steps（刻意的步子）把一个普通的走路动作写成军事动作；而 minefield（雷区）是她此刻脑子里真正的地形：她确实在猜这个人是敌是友。用 as if 让比喻悬在半空——像雷区，也可能只是像。
-- **读者视角提示**：请把这一句与她上一次见到「可疑者」的经验并读：那一次是那只 GoPro 里的人影，隔着屏幕，隔着两年。
+- **读者视角提示**：请把这一句与她上一次见到「可疑者」的经验并读：那一次是那只 GoPro 里的镜头——拍摄于大坝溃决前一天的河底，而看它的人已经长大成人。
 
 > **原句 6:** I take the safety off and hold the rifle in a loose firing position and begin to advance.
 
@@ -61,7 +61,7 @@ modified: "2026-10-01"
 > **原句 7:** It’s not who the person is that scares me. It’s not even how sorry she says she is. It’s the simple phrase that comes after her apology.
 
 - **中文理解**：「（让我害怕的）不是这个人是谁，也不是她道歉时的悔意。而是那句紧跟在道歉之后的简单句子。」
-- **关键词**：not who the person is · not even how sorry she is · the simple phrase that comes after her apology
+- **关键词**：not who the person is · not even how sorry she says she is · It’s the simple phrase that comes after her apology
 - **为什么这样写**：三次否定（不是这个、不是那个、而是这个），把恐惧从「人」转移到「话」。而 simple phrase（简单的句子）这个词在此是反语：全章最轻的一句台词，承担了最重的威胁。
 - **读者视角提示**：这句把全书关于「谁在说话」的追踪推向最后一格；请把它与那两次辨认声音的记录并读——从「像 Orson Welles」到「像爸爸」。
 

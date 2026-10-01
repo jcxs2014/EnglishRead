@@ -19,7 +19,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「我来自一个离肯塔基大坝不远的小河畔镇。西肯塔基塑造了我的童年，因此，我的创作生活一次又一次回到小镇与不听话的水域。」
 - **关键词**：a small river town · shaped my childhood · misbehaving waterways
-- **为什么这样写**：作者自我介绍不报城市报水文——身份由「河畔镇」与「大坝的距离」来定义。misbehaving 是把淘气孩子的形容词挪给水：水域在她笔下从第一句起就不是布景，而是有性格、会闯祸的角色。returns again and then again 的重复感也由 again and again 直接给出，创作被写成一种回游。
+- **为什么这样写**：作者自我介绍不报城市报水文——身份由「河畔镇」与「大坝的距离」来定义。misbehaving 是把淘气孩子的形容词挪给水：水域在她笔下从第一句起就不是布景，而是有性格、会闯祸的角色。returns again and again 的重复感也由 again and again 直接给出，创作被写成一种回游。
 - **读者视角提示**：记住这片「不听话的水」。全书的故事舞台是虚构的水乡小镇，人物的生计、玩要与死亡都缠在这片水域上——作者在此先把自己的执念交代了。
 
 > **原句 2:** I never steal the exact setting for my novels, but pieces from the entire region morph into a newly created location with familiar sounding restaurants and features. You’ll see plenty of Western Kentucky in the fictional town of Grand Junction.

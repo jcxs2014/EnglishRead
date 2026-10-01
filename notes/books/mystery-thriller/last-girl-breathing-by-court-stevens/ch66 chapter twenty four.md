@@ -42,28 +42,28 @@ modified: "2026-10-01"
 - **中文理解**：「他们（电影里的人）知道，因为他们的骨头在尖叫。」
 - **关键词**：They know · because their bone is screaming
 - **为什么这样写**：一句以「他们」开头的元批评（他们＝电影里那些中一枪还站着说话的人），而答案被写成一声生理性的叫喊：骨头在尖叫。这句话把她的经验换算成对类型片的清算——她不再笑了，因为现在她知道那种笑要付多少钱。
-- **读者视角提示》：请把这一句与那句「I've never shot a target that wasn't paper or cans」并读——她对「电影里的伤」的假设，在这一章结账。
+- **读者视角提示**：请把这一句与那句「I've never shot a target that wasn't paper or cans」并读——她对「电影里的伤」的假设，在这一章结账。
 
 > **原句 5:** “He said he would blow the dam if I didn’t meet you. There’s dynamite at Grand Hydro. The threat. It’s how he controls everything. Me. Neil. Everyone.”
 
 - **中文理解**：「「他说，如果我不来见你，他就炸大坝。Grand Hydro 里有炸药。就是那个威胁。这正是他控制一切的方式。我。Neil。所有人。」」
 - **关键词**：he would blow the dam · There’s dynamite at Grand Hydro · It’s how he controls everything · Me. Neil. Everyone.
 - **为什么这样写**：Astrid 的供述用四个短段落推进，每段一个名词：炸坝／炸药／威胁／控制。真正的重量在最后一行——三个人名各占一格（Me. Neil. Everyone.），把「控制」这个词从抽象落回三个人身上；而 Everyone 排在最后，像落幕的信号。
-- **读者视角提示》：请把这条供述与那封匿名信（One word and you’re next）并读——同一只手的两种笔迹。
+- **读者视角提示**：请把这条供述与那封匿名信（One word and you’re next）并读——同一只手的两种笔迹。
 
 > **原句 6:** I’ve never shot a target that wasn’t paper or cans.
 
 - **中文理解**：「（她想）我从没打过不是纸的、不是罐头的靶子。」
 - **关键词**：never shot a target · that wasn’t paper or cans
 - **为什么这样写**：一句关于射手生涯的短陈述，用 was not paper or cans 两个否定把二十年训练全部否掉。而她正在做的是第一次；这个事实由她自己在这句里承认，比任何旁白都冷。
-- **读者视角提示》：请把它与 Parson 的 那句「you're the most talented marksman I've ever worked with」并读——这句夸奖在此刻变成了她最不想拥有的东西。
+- **读者视角提示**：请把它与 Parson 的 那句「you're the most talented marksman I've ever worked with」并读——这句夸奖在此刻变成了她最不想拥有的东西。
 
 > **原句 7:** “Lucy. Danny’s down. You’re safe. I’ve got him.”
 
 - **中文理解**：「（他喊）Lucy。Danny 倒了。你安全。我抓到他了。」」
 - **关键词**：Danny’s down · You’re safe · I’ve got him
 - **为什么这样写**：全书最有毒的一句谎话，用最短的三段宣告。down（倒了）在警务用语里可以是「被制服」，而 safe（安全）在枪口下说出口，等于在瞄准镜前替射手报了靶；第三句把这场戏的全部道具一次摆齐——我抓到凶手了。
-- **读者视角提示》：请把这句话与她五年里无数次对警察的信任并读；也请把它与下一章揭晓的那声狼哨并读——这句话是用一个警察的嗓子说的。
+- **读者视角提示**：请把这句话与她五年里无数次对警察的信任并读；也请把它与下一章揭晓的那声狼哨并读——这句话是用一个警察的嗓子说的。
 
 ## 本章词汇
 

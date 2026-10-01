@@ -21,14 +21,14 @@ modified: "2026-10-01"
 - **中文理解**：「「你已经站在陷阱正中间了。」」
 - **关键词**：in the middle of · a trap
 - **为什么这样写**：全书最短的一次警告，而 in the middle of（正中间）把陷阱画成了一块圆——她在圆心，而圆心正是所有路径交会的地方。这句话不是恐吓，是几何。
-- **读者视角提示》：请把 trap（陷阱）与那句「Whoever did this had to know us all well enough to set up Neil」并读——设局的人要的不是她的钱，是她的位置。
+- **读者视角提示**：请把 trap（陷阱）与那句「Whoever did this had to know us all well enough to set up Neil」并读——设局的人要的不是她的钱，是她的位置。
 
 > **原句 2:** “Justice fixes this!”
 
 - **中文理解**：「「正义修得了这个！」」
 - **关键词**：Justice fixes this
 - **为什么这样写**：一句抢白，三个词，是全书她唯一一次把抽象名词当动词用。fixes（修）本该属于钱与工程，而她把它挂在了正义上——一句话否定了 Robert 那套买断未来的整套语法。而感叹号让这不再是对话，是宣言。
-- **读者视角提示》：这句与 Robert 那句「I transferred a hundred thousand dollars into your account」正面相撞；请把这两句并读——这家人一辈子都在用钱说话，只有她在这一句里没有。
+- **读者视角提示**：这句与 Robert 那句「I transferred a hundred thousand dollars into your account」正面相撞；请把这两句并读——这家人一辈子都在用钱说话，只有她在这一句里没有。
 
 > **原句 3:** I have never seen such a tall man fold in half.
 

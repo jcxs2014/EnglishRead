@@ -73,6 +73,13 @@ modified: "2026-10-01"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|------|------|------|
+| calico | 三花猫 | I hope it’s a calico, a boy, and he doesn’t mind living in the desert and going by the name Dog. |
+| Meanwhile | 与此同时 | Meanwhile, the police have all the evidence they need. |
+
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |

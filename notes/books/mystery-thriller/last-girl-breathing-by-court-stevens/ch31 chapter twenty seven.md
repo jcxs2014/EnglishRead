@@ -8,7 +8,7 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：同一天的傍晚到入夜。Parson 的 Ford → Clark 家（七十年代错层房、金色长绒地毯、门与门之间挂着 Dollar General 的「Family First」铁牌）→ 车库的梯子 → Astrid 二楼那扇她爬过上百次的窗 → Astrid 的房间。
-- **一句话概括**：三个人闯进一间贴着警戒线的女孩卧室，找到了她藏起来的旧 iPad：警方拿走了她的 CPU（桌面下一圈长方形的灰印），而旧 iPad 藏在沙发垫与垫面之间的暗袋里；账户连上，最后一条对话停在周五 11:43——Astrid 对 Deuce 说「我知道。溃坝。你的钱从哪来。」「Martin 要说出来了。你该做点什么。」「1:30 在 VCB 见。」「K。」「我划船从 Greenwood Church 的下水点过来。」
+- **一句话概括**：三个人闯进一间贴着警戒线的女孩卧室，找到了她藏起来的旧 iPad：警方拿走了她的 CPU（桌面下一圈长方形的灰印），而旧 iPad 藏在她枕头里那张膝桌的坐垫夹层中；账户连上，最后一条对话停在周五 11:43——Astrid 对 Deuce 说「我知道。溃坝。你的钱从哪来。」「Martin 要说出来了。你该做点什么。」「1:30 在 VCB 见。」「K。」「我划船从 Greenwood Church 的下水点过来。」
 - **情感弧线位置**：第一部收束前的最后一次搜屋——搜的不是尸体而是解释；而本节拿到的那几条短信把嫌疑从死人身上挪到活人身上（Astrid 知道钱、并且主动去赴一个约定）。
 - **叙事手法**：第一人称；现场勘查的清单式描写（灰印、爬窗、撒落在膝上的木瓦片）；三人的不同反应并置（Neil 蹲进地毯里、站在门口不敢跨线、Parson 先问设备清单）；证据以聊天记录的原格式呈现，作者不翻译不加注；章末一行「I’ll kayak from the put-in…」把一条短信变成一条水路。
 - **线索进展**：① 警方已搜过 Astrid 的房间，移走了 CPU（台式机）与手机、电脑；② 旧 iPad 未被带走，藏在沙发垫暗袋，账户可连；③ 最后活跃时间：周五 11:43；④ 最后一段对话是 Astrid 与 Deuce；⑤ Astrid 的三句：她知道溃坝内情、知道 Deuce 的钱、警告他「Martin 要说出来了」并要他「做点什么」；⑥ 约定：1:30，VCB；⑦ Astrid 计划从 Greenwood Church 的下水点划独木舟过来；⑧ 警方未在现场，家中无人，狗在叫。
@@ -41,7 +41,7 @@ modified: "2026-10-01"
 - **中文理解**：「Astrid 与 Neil 两扇门之间，挂着一块从 Dollar General 买来的超大金属牌，上面写着「家庭第一」。」
 - **关键词**：Between Astrid’s and Neil’s doors · an overlarge metal sign from the Dollar General · “Family First.”
 - **为什么这样写**：一句里放了三样东西：位置（两扇门之间）、来源（五美元店的铁牌）、内容（家庭第一）。而这个招牌恰恰横在两个房间之间——姐弟的门各自开着，中间隔着这块廉价的宣言；overlarge 让它显得既郑重又滑稽，像这个家对「第一」这个词的执念。
-- **读者视角提示**：这块牌子是 Clark 家全部道德表演的道具；请把它与下一章那句 The whole Clark family follows strange morality rules 并读。
+- **读者视角提示**：这块牌子是 Clark 家全部道德表演的道具；请把它与下一章那句 The whole Clark family does 并读。
 
 > **原句 5:** Neil sinks into the carpet and massages the long tufts of golden shag.
 
@@ -61,14 +61,14 @@ modified: "2026-10-01"
 
 - **中文理解**：「里面，一台旧 iPad 被塞在桌面与坐垫之间的一个暗袋里。」
 - **关键词**：an old iPad · a hidden pocket between the desk surface and the cushion
-- **为什么这样写**：偷渡与搜查的交叉点——沙发垫被翻过之后，iPad 还在；tucked（塞）与 hidden pocket（暗袋）把一个家用家具写成藏匿点。而 between the desk surface and the cushion 这个夹缝只有几指宽，作者用它量出 Astrid 的缜密。
+- **为什么这样写**：偷渡与搜查的交叉点——枕头被翻过之后，iPad 还在；tucked（塞）与 hidden pocket（暗袋）把一个家用家具写成藏匿点。而 between the desk surface and the cushion 这个夹缝只有几指宽，作者用它量出 Astrid 的缜密。
 - **读者视角提示**：这台 iPad 是 Astrid 留给她们的唯一入口；而它在最后一刻被清空了——除了一段与 Deuce 的对话。
 
 > **原句 8:** Astrid: Martin is going to tell. You should do something.
 
 - **中文理解**：「Astrid：Martin 要说出来了。你该做点什么。」
 - **关键词**：Martin is going to tell · You should do something
-- **为什么这样写**：全书最危险的一句短信只有十一个词：Martin 要说出来了。你该做点什么。这句话是威胁、哀求还是提醒，取决于它从谁的手指发出来；而最后那三个词正是 Martin 自己那晚对她说过的话（You should do something to find Clay）——本句把 Martin 的语法借给 Astrid，一个少年、一个女孩，用的是同一句台词。
+- **为什么这样写**：全书最危险的一句短信只有十一个词：Martin 要说出来了。你该做点什么。这句话是威胁、哀求还是提醒，取决于它从谁的手指发出来；而最后那三个词正是 ch13 里 Martin 当面说过的话的语法（他说的是 I think I might die if I don't tell you）——本句把 Martin 的措辞借给 Astrid，一个少年、一个女孩，用的是同一种口吻。
 - **读者视角提示**：把这句与后文那句「Underwater, baby」并读：一句话可以推着两个人各走各的路，而作者至死不给这句话标上说话人的意图。
 
 ## 本章词汇

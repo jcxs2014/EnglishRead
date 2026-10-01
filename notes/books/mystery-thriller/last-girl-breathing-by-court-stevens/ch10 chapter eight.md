@@ -19,7 +19,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「「他要是活着，就一定听说了。」Parson 在意识到自己说了什么的那一刻就闭了嘴。」
 - **关键词**：If he’s alive, he’s heard · stops talking the minute he realizes
-- **为什么这样写**：前半句是一句冷静的概率推理，后半句立刻给它标上代价——条件句（If）在这里不是修辞，是刀：说出口的同一瞬间，说话人就把自己请进了「他可能不在了」的名单。stop talking the minute…把沉默本身写成了动作，像是话在喉咙里被自己按住。
+- **为什么这样写**：前半句是一句冷静的概率推理，后半句立刻给它标上代价——条件句（If）在这里不是修辞，是刀：说出口的同一瞬间，说话人就把自己请进了「他可能不在了」的名单。stops talking the minute he realizes what he’s said…把沉默本身写成了动作，像是话在喉咙里被自己按住。
 - **读者视角提示**：这个「如果活着就一定听说」是 Neil 缺席的第一个解释；而在此之前，他曾亲口说过「据 Martin 说，确实有（凶手）」——两句放在一起，Neil 的不在场就多了一层重量。
 
 > **原句 2:** “Martin’s not my flex, whatever that means,” I say.

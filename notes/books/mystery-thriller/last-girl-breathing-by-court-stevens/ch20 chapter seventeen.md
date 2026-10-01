@@ -61,7 +61,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「这样做不只是道德问题，也是统计问题。」
 - **关键词**：not only an issue of morality · but one of statistics
-- **为什么这样写**：not only…but one of 把伦理与算术并成一根轴——在统计里，先找活人不是慈悲，是效率；在道德里，它是义务。两个抽象名词一摆，把个人悲痛换算成一张时间表。而下一句紧跟：locating Astrid is the best chance of catching the killer——道德与统计学在这里给出同一个答案。
+- **为什么这样写**：not only…but one of 把伦理与算术并成一根轴——在统计里，先找活人不是慈悲，是效率；在道德里，它是义务。两个抽象名词一摆，把个人悲痛换算成一张时间表。而下一句紧跟：locating Astrid Clark is the best chance of catching who murdered your son and Officer——道德与统计学在这里给出同一个答案。
 - **读者视角提示**：这本书里每一次「无情」的建议都长这个样子；请注意 Dana 的无情是替人省时间，不是替自己。
 
 > **原句 8:** “Wait,” Robert says. “Can you find who did this to Martin?”

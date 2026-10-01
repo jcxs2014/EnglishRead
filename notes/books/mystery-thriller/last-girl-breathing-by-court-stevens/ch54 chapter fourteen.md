@@ -21,35 +21,35 @@ modified: "2026-10-01"
 - **中文理解**：「对我来说，我能用一个短语吐出我的童年：Grand Junction 是我的哥哥们死去的地方。」
 - **关键词**：spit out my childhood · in a single phrase · the place my brothers died
 - **为什么这样写**：作者先铺陈「回家被压缩成一句话」的普遍说法（I grew up in Alaska. My family loved baseball.），随即给出她自己那一句——而这一句里没有一个形容词，只有一个地点和一个事件。spit out（吐出来）这个动词带着一点粗粝的不耐烦，像她对自己童年档案的处置方式。
-- **读者视角提示》：这句话是全书对「家」最冷的一次定义；请把它与下一步那句绿色路牌并读——同一个镇子，一边是死亡，一边是奖牌。
+- **读者视角提示**：这句话是全书对「家」最冷的一次定义；请把它与下一步那句绿色路牌并读——同一个镇子，一边是死亡，一边是奖牌。
 
 > **原句 2:** I have two stories about that river. It’s gorgeous and resourceful, and, at its worst, it tore us all apart.
 
 - **中文理解**：「关于那条河，我有两个版本。它壮丽而坚韧；而在它最糟的时候，它把我们全都撕开了。」
 - **关键词**：two stories about that river · gorgeous and resourceful · tore us all apart
 - **为什么这样写**：一条河有两个故事，这本身是全书的结构（红茶室的甜与泥里/deer blood 的深）。gorgeous and resourceful 是褒义词的一对（壮丽＋有办法），而 tear us all apart（把我们撕开）把同一个主语换成了受害者；而 resourcefulness 一词在此还带着一层反讽——最会「用尽办法」的那一方，正是这面水。
-- **读者视角提示》：请把它与那晚 Duck Pond 的黑水与第一插叙里那只被丢进咖啡杯的蜗牛并读——水在这本书里从来是「美丽／夺命」的双声部。
+- **读者视角提示**：请把它与那晚 Duck Pond 的黑水与第一插叙里那只被丢进咖啡杯的蜗牛并读——水在这本书里从来是「美丽／夺命」的双声部。
 
 > **原句 3:** Wilma’s more quintessentially Southern than bacon grease in green beans.
 
 - **中文理解**：「Wilma 比青豆里的培根油还要地道南方。」
 - **关键词**：more quintessentially Southern · than bacon grease in green beans
 - **为什么这样写**：一句把一个活人比作食材的夸张，而 bacon grease in green beans（青豆里的培根油）是南方餐桌最基本的一味——它不精致、不讲究，却是那口味的底。quintessentially（本质地）这个长词配上一句家常菜，形成一次文体的错位：她在用美食的语法夸一个人。
-- **读者视角提示》：这本是全书最像「她自己」的一句俏皮话；请记住它属于第三部的第一道缓坡——她还能开这种玩笑，说明她正在回血。
+- **读者视角提示**：这本是全书最像「她自己」的一句俏皮话；请记住它属于第三部的第一道缓坡——她还能开这种玩笑，说明她正在回血。
 
 > **原句 4:** Everyone will have a chance to speak about all of our boys.
 
 - **中文理解**：「我们每一个人都会有机会，为我们所有的孩子说点什么。」
 - **关键词**：Everyone · a chance to speak · all of our boys
 - **为什么这样写**：all of our boys（我们所有的孩子）用一个所有格把整个露营家族并成一个丧亲团；而 speak about（说说他们）而不是 say goodbye（道别）更克制——不说永别，只说一说他。Everyone will have a chance 则把说话权平均分配，像一份轮流发言的议程。
-- **读者视角提示》：请注意「所有」二字里的 Astrid：Wilma 说这句时还在犹豫要不要把她算进去；第三部最后一场戏（ch72）也在这同一片草地上。
+- **读者视角提示**：请注意「所有」二字里的 Astrid：Wilma 说这句时还在犹豫要不要把她算进去；第三部最后一场戏（ch72）也在这同一片草地上。
 
 > **原句 5:** “We all need a reminder that there is still beauty in broken places.”
 
 - **中文理解**：「「我们都需要一个提醒：破碎的地方，仍有美。」」
 - **关键词**：a reminder · there is still beauty in broken places
 - **为什么这样写**：一句关于疗愈的格言，却由一个刚刚在靶场边喝葡萄酒的女人说出。still（仍然）这个词是全句的重心——美不是回来了，是一直在那里没人看见。而 a reminder（提醒）把这句话降格成一句需要被反复说的话。
-- **读者视角提示》：紧接着的一句内心旁白揭了底：Inwardly I question if Auntie pushed for this option so she could put that phrase on a town brochure（我心里怀疑她是不是为了把这句印在小镇宣传册上才推动这个方案）；请把这两句并读——希望与作秀，只隔一层窗户纸。
+- **读者视角提示**：紧接着的一句内心旁白揭了底：Inwardly I question if Auntie pushed for this option so she could put that phrase on a town brochure（我心里怀疑她是不是为了把这句印在小镇宣传册上才推动这个方案）；请把这两句并读——希望与作秀，只隔一层窗户纸。
 
 ## 本章词汇
 

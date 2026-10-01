@@ -11,7 +11,7 @@ modified: "2026-10-01"
 - **一句话概括**：这一章是第三部唯一一次同时出现三个人：Owl 瘦得像被削过（He's whittled.），进门第一句是「Dang, kid, you’re supposed to take better care of yourself than this」；他带来 Neil 的消息——因为监狱超员他被调往爱达荷（South Boise Prison Complex），如今转移抽签落到了密歇根城，他愿意见 Dana 与她；四年前她飞去 Boise 见过他一次，三十分钟的探视里只准谈巴黎与比赛，他临走留下一句：「四年后带着金牌再来」——他几乎让她恨他，而她觉得这就是他的计划。
 - **情感弧线位置**：第三部的关系重建——与 Owl 的重逢、探监前的等待、以及那句「四年后带来金牌」所埋下的期限。
 - **叙事手法**：第一人称；Owl 的外貌用雕塑比喻（削、刻）；门铃—对质—拥抱的节奏与旧日那夜（见 ch28）互为镜像；探监那段的限制被写成一种制度（只准谈巴黎与比赛、30 分钟），而 Neil 的惩罚不是沉默，是把她赶进一块只许谈奥运的玻璃里。
-- **线索进展**：① Owen 这两年在徒步与举铁；② 他与 Dana 每周日通电话，这次见面是 Dana 通知的（Party in Michigan City）；③ Dana 有一个叫 Kaitlin 的女儿要学小提琴（她当场编出来的名字）；④ Neil 因超员从 Eddyville 调至爱达荷 South Boise Prison Complex，如今转移到密歇根城；⑤ 探视许可：一小时，实际只给三十分钟；⑥ 四年前他给过她一个期限（四年后带来金牌）。
+- **线索进展**：① Owl 这两年在徒步与举铁；② 他与 Dana 每周日通电话，这次见面是 Dana 通知的（Party in Michigan City）；③ Dana 有一个叫 Kaitlin 的女儿要学小提琴（她当场编出来的名字）；④ Neil 因超员从 Eddyville 调至爱达荷 South Boise Prison Complex，如今转移到密歇根城；⑤ 探视许可：一小时，实际只给三十分钟；⑥ 四年前他给过她一个期限（四年后带来金牌）。
 - （探视后的内容在 ch43 展开。）
 
 ## 精读
@@ -49,7 +49,7 @@ modified: "2026-10-01"
 - **中文理解**：「在一小时的规定探视时间里，他给了我三十分钟，外加一条规则：不许谈任何事，除了巴黎和比赛。」
 - **关键词**：thirty minutes of our allotted hour · not allowed to talk about anything except · Paris and the competition
 - **为什么这样写**：allotted（规定的）与 allowed（被允许的）两个词指向同一座制度的墙；而 Paris and the competition 恰是两年后她真正拥有的东西——他把牢房变成了训练室，用三年时间把她锁进未来。
-- **读者视角提示》：这一条限制是 Neil 全部计划的缩影；请把它与她两年后真的带着铜牌回来并读。
+- **读者视角提示**：这一条限制是 Neil 全部计划的缩影；请把它与她两年后真的带着铜牌回来并读。
 
 > **原句 6:** “Come back again in four years with the gold.”
 

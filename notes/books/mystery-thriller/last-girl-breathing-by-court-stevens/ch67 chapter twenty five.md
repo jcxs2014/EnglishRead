@@ -21,7 +21,7 @@ modified: "2026-10-01"
 - **中文理解**：「「我陷进了一个糟糕的局面，而唯一的出路是从中间穿过去。」」
 - **关键词**：I got in a bad spot · the only way out · was through
 - **为什么这样写**：一句把「我杀了三个人」翻译成「我走投无路」的句子，而 through（穿过）这个介词是关键：出路不在旁边，就在这件事的正中间。作者让他用一条商业谈判的语法来陈述一场谋杀，语气与本章开头那句「I never wanted to hurt anyone」构成同一种体面。
-- **读者视角提示**：请把它与 ch26 那句「Justice is slower than it should be」并读——她父亲当年也用过同一种「只是穿过去」的逻辑。
+- **读者视角提示**：请把它与 ch20 里 Dana 那句「Justice is slower than it should be」并读——她父亲当年也用过同一种「只是穿过去」的逻辑。
 
 > **原句 2:** “I’m a very good shot.”
 
@@ -42,7 +42,7 @@ modified: "2026-10-01"
 - **中文理解**：「（她想）他赌的就是：以为我手里有那一枪。」
 - **关键词**：He’s counting on me · to think I have a shot
 - **为什么这样写**：一句心理学的推断，用 count on（指望）这个商业动词点出对方的算盘。而 have a shot 在此一词两义：他以为她有一枪；她真的有，但她不打算用。
-- **读者视角提示**：这是全书最清醒的一次思考；请把它与那句「I want to be done with Dad」并读——她在整个青少年时代第一次先算对方再动自己。
+- **读者视角提示**：这是全书最清醒的一次思考；请把它与本章那三句重复的「I will not stop. I will not die.」并读——她在最紧的时刻仍然先算对方手里有没有枪。
 
 > **原句 5:** My hands close around a baseball bat–sized limb.
 
@@ -56,9 +56,16 @@ modified: "2026-10-01"
 - **中文理解**：「我等我的时刻。」
 - **关键词**：I wait · for my moment
 - **为什么这样写**：全章最后一句五个词，把全部主动权收进一个名词（my moment）。而 wait 一词在此不是被动——它属于猎人：她已经换好了装备、选好了位置，剩下的只是时间。
-- **读者视角提示**：全书用「等待」做结的地方不止一处；请把它与那句「Neil waited and took the shot」并读——同一个动作，两代人的不同用法。
+- **读者视角提示**：全书用「等待」做结的地方不止一处；请把它与本章开头那四行「I will not stop. I will not die.」并读——同一个动作，一个是宣言，一个是倒计时。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|------|------|------|
+| a loaded weapon | 上了膛的武器 | A hunter never hands their prey a loaded weapon. |
+| through | （穿过） | “I got in a bad spot and the only way out was through.” |
 
 ### ⭐⭐ 进阶
 

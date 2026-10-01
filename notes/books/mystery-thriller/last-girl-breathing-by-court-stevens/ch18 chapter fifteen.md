@@ -32,7 +32,7 @@ modified: "2026-10-01"
 > **原句 3:** Neil made this blind in his garage and then floated it along the creek behind his house and into LaRue on a pontoon. All the way to the Duck Pond, where he anchored it atop the trunks of two old cypress knees jutting up from the marsh.
 
 - **中文理解**：「Neil 在自家车库里做了这只棚，然后用 pontoon 顺着屋后的溪漂进 LaRue。一路漂到 Duck Pond，锚在两根从沼泽里戳出来的老柏树膝上。」
-- **关键词**：made this blind in his garage · floated it along the creek on a pontoon · anchored it atop two old cypress knees
+- **关键词**：made this blind in his garage · floated it along the creek behind his house and into LaRue on a pontoon · he anchored it atop the trunks of two old cypress knees
 - **为什么这样写**：全书的作案（藏尸）场所被一件件手工活拼出来：车库、溪流、pontoon、柏树膝——每一步都是「把家搬到野外」的具体动作。jutting up（戳出来）用在柏树膝上，写出水面下那两只脚；这只棚在地理上是漂来的，在情感上是 Neil 的延伸。
 - **读者视角提示**：这只棚的每一样部件都来自 Neil 的日常；他今天穿着它的一次性证据，被拆得比谁都慢。
 

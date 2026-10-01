@@ -21,14 +21,14 @@ modified: "2026-10-01"
 - **中文理解**：「我们生活在一个这样的世界：如果他动得不对，我就会被一个拿着枪和警棍的人隔开。」
 - **关键词**：if he moves incorrectly · we will be separated · by a man with a gun and a nightstick
 - **为什么这样写**：一句把一场拥抱写成一整套安保程序。moves incorrectly（动得不对）这个说法把探视里每一个手势都变成可能违规的动作——多站一厘米、多看一眼，都可能是把两人分开的理由；而 man with a gun and a nightstick 这份清单单调得可怕。
-- **读者视角提示》：本节所有的拥抱都要在这条规则下读；请记住那句 gun——第二部的凶器与这里的枪托，在同一座建筑里。
+- **读者视角提示**：本节所有的拥抱都要在这条规则下读；请记住那句 gun——第二部的凶器与这里的枪托，在同一座建筑里。
 
 > **原句 2:** Once upon a time, an abundance of water, a wall of water, ruined my life. Today, a single drop almost does the same.
 
 - **中文理解**：「从前，水太多、一堵水墙毁了我的人生。而今天，一滴水差点做到同样的事。」
 - **关键词**：an abundance of water · a wall of water · ruined my life · a single drop almost does the same
 - **为什么这样写**：两句把全书的水与眼泪放进同一把尺子里——前者是 abundance（洪水），后者是 a single drop（一滴），而 a wall of water 里的 water 与 drop 里的 drop 同源。作者用 almost does the same（差点做到同样的事）让一场重逢与一次溃坝在语法上等价。
-- **读者视角提示》：这就是那滴眼泪的来历；请把它与 ch05 那场夺旗游戏、ch24 那道闪电并读——这部书里每一场雨都还在下。
+- **读者视角提示**：这就是那滴眼泪的来历；请把它与 ch05 那场夺旗游戏、ch24 那道闪电并读——这部书里每一场雨都还在下。
 
 > **原句 3:** “I got a birthday card from PoppaJack.”
 
@@ -42,7 +42,7 @@ modified: "2026-10-01"
 - **中文理解**：「「Neil，你的姐姐打过电话。她说没伤任何人。生日快乐。」
 - **关键词**：your sister phoned · She said you didn’t hurt anyone · Happy birthday
 - **为什么这样写**：三句短文，一句一句叠上去。第一句是事实，第二句是从别人那里转述的清白，第三句是贺卡本来的用途——而 PoppaJack 的痴呆让这三句话同时成为证词与失误。anyone（任何人）这个泛指的宾语在此格外刺眼：他们没有说 Martin，没有说 Deuce，只说了 anyone。
-- **读者视角提示》：anyone 在此有极广的射程，请把它与她记忆里那封「别来看我」的信并读；这位老人用错的方式，再一次替这个家说了实话。
+- **读者视角提示**：anyone 在此有极广的射程，请把它与她记忆里那封「别来看我」的信并读；这位老人用错的方式，再一次替这个家说了实话。
 
 > **原句 5:** Under the table, Owl clenches my knee.
 
@@ -56,14 +56,14 @@ modified: "2026-10-01"
 - **中文理解**：「「监狱小卖部有，」他说。「他们不让我给你，但你要知道它们是给你的。」」
 - **关键词**：They had them in the commissary · won’t let me give them to you · but you know they’re for you
 - **为什么这样写**：一盒不能给的糖，被分成两层：制度不许给（they won’t let me），但归属早已写好（they’re for you）。for you 这三个字把一次被没收的礼物变成一份口头遗嘱；tic tac 还是那盒 tic tac，只是从七盒变成了一盒，从寄件变成了当面。
-- **读者视角提示》：这是 Neil 与她之间的第二次 tic tac 仪式（第一次是分手后的七盒）；请把它与 ch12 那张字条并读——同一句仪式，一次是诀别，一次是赦免。
+- **读者视角提示**：这是 Neil 与她之间的第二次 tic tac 仪式（第一次是分手后的七盒）；请把它与 ch12 那张字条并读——同一句仪式，一次是诀别，一次是赦免。
 
 > **原句 7:** “I’m struggling, Luce. I try not to need you, but today I wasn’t strong enough to turn you away.”
 
 - **中文理解**：「「我在硬撑，Luce。我一直努力不去需要你，但今天我没能硬到把你推开。」」
 - **关键词**：I’m struggling · I try not to need you · I wasn’t strong enough to turn you away
 - **为什么这样写**：整句由两个「不」构成（不去需要、没能推开），而 struggling（硬撑）把这个词引向了内在的消耗。strong enough to turn you away（硬到足以推开你）用的是一个否定式的力气——他的强不是把她推开，是终于承认自己需要。
-- **读者视角提示》：这是 Neil 在第二部里唯一一次示弱；请把它与四年前那句「I never meant to break up with you」并读——三年牢狱只换来一句承认。
+- **读者视角提示**：这是 Neil 在第二部里唯一一次示弱；请把它与四年前那句「I never meant to break up with you」并读——三年牢狱只换来一句承认。
 
 > **原句 8:** “That your girl, Fat Potter? She know you got killer magic in you? You little Voldemort?”
 

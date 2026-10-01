@@ -53,6 +53,14 @@ modified: "2026-10-01"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|------|------|------|
+| forgiven | （被）原谅 | I’ve never forgiven that tree. |
+| smash | （用力）砸 | I smash the back of his skull with the biggest swing my shoulder can manage. |
+| grateful | （心存）感谢的 | I thank God for both the seed that grew into this oak and whatever storm knocked this branch to the ground. |
+
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |

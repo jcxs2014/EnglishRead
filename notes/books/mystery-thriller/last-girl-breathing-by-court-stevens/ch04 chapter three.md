@@ -40,7 +40,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「我的小弟弟 Clay 死了。从那以后，妈妈变成了一个宿命论者，而我变成了一个爱引用「可怕的事在同一家里重复发生」之微小概率的人。」
 - **关键词**：My little brother, Clay, died · a fatalistic thinker · the unlikely odds of terrible things
-- **为什么这样写**：三句把一家人分成两路：妈妈接受必然，Lucy 搬出概率。And since then 是这条分岔的时间铰链；quoting the unlikely odds 把「安慰」降格成「引用数字」——她对付恐惧的方式不是相信，而是检索。
+- **为什么这样写**：三句把一家人分成两路：妈妈接受必然，Lucy 搬出概率。And since then 是这条分岔的时间铰链；someone who quoted the unlikely odds 把「安慰」降格成「引用数字」——她对付恐惧的方式不是相信，而是检索。
 - **读者视角提示**：Clay 的死是这本书的地基。记住母亲走的是宿命这条路、Lucy 走的是概率这条路——本章最后那句回指，正是这条断层在 Martin 身上合拢的地方。
 
 > **原句 5:** “LaRue,” she says, answering the second question instead of the first.

@@ -28,42 +28,42 @@ modified: "2026-10-01"
 - **中文理解**：「PoppaJack 让我把 LaRue 的地形记在脑子里。」
 - **关键词**：PoppaJack made me · memorize · the footprint of LaRue
 - **为什么这样写**：一句把地貌写成 footprint（足迹）——那是一片被人走过的、有形状的地方；而 memorize（背熟）说明这不是天赋，是被教的功课。这份功课在此刻救了整队人。
-- **读者视角提示》：请把这句与 ch46 那封「别来看我」的信并读：祖父教她地形，又求她别回来；这两种赠予都来自同一个人。
+- **读者视角提示**：请把这句与 ch46 那封「别来看我」的信并读：祖父教她地形，又求她别回来；这两种赠予都来自同一个人。
 
 > **原句 3:** Andy stopped running so abruptly I ran over him.
 
 - **中文理解**：「Andy 停得那么突然，我直接撞到了他身上。」
 - **关键词**：Andy stopped running · so abruptly · I ran over him
 - **为什么这样写**：一句以身体事故写下的震惊——她撞在他身上，而不是说「他突然停下」。run over（跑过／撞上）这个动词把一次急停变成一次冲撞；后文紧接着是那句「That was the dam!」，两次急停之间的空隙就是全书最大的那次震动。
-- **读者视角提示》：这一撞之后，两人同时转过身；请记住他们的视线里只找得出一个解法，而那解法来自一个孩子的记忆。
+- **读者视角提示**：这一撞之后，两人同时转过身；请记住他们的视线里只找得出一个解法，而那解法来自一个孩子的记忆。
 
 > **原句 4:** “Up,” he said, pointing at the strongest tree with low branches.
 
 - **中文理解**：「「上树，」他指着那棵枝条最低、也最结实的大树说。」
 - **关键词**：Up · pointing at · the strongest tree · low branches
 - **为什么这样写**：一句被压到只剩一个词的指令（Up.）。strongest（最结实）与 low branches（低枝）之间那个 and 是全部的求生逻辑：树要撑得住，也要够得着。而这条指令的来源，是 PoppaJack 早先说过的话——知识第一次成为动作。
-- **读者视角提示）：strongest tree（最结实的那棵）正是那棵她抱了十五英尺的树；请把它与后面那只抓住的 branch（树枝）并读。
+- **读者视角提示**：strongest tree（最结实的那棵）正是那棵她抱了十五英尺的树；请把它与后面那只抓住的 branch（树枝）并读。
 
 > **原句 5:** Love and trust are what send you running in the rain, not a one-shoed girl with a little brother on her back and blood on her face.
 
 - **中文理解**：「让人冲进雨里的，是爱与信任，不是一个只穿一只鞋、背上背着弟弟、脸上带血的女孩。」
 - **关键词**：Love and trust · send you running in the rain · not a one-shoed girl · a little brother on her back
 - **为什么这样写**：一句把「英雄」这个称号按回原处。Love and trust 两个抽象名词被放进一句否定句（不是……），而被否定的那个形象全是具体的：一只鞋、一个背上的弟弟、一张带血的脸。作者用清单的方式，把她的全部功劳换算成别人的选择。
-- **读者视角提示》：I had never been a hero（我从来不是英雄）与这句是同一件事的两面；请把它们并读——她拒绝这个词的理由，是她知道喊出那句警告的力量不在自己身上。
+- **读者视角提示**：I had never been a hero（我从来不是英雄）与这句是同一件事的两面；请把它们并读——她拒绝这个词的理由，是她知道喊出那句警告的力量不在自己身上。
 
 > **原句 6:** I held on. I held my breath. I held my life to the bark.
 
 - **中文理解**：「我抓紧。我屏住呼吸。我把自己的命交给树皮。」
 - **关键词**：I held on · I held my breath · I held my life to the bark
 - **为什么这样写**：三个句子用同一个动词排成阶梯，held 的宾语一次比一次重——从抓紧，到屏息，到把命交给一块树皮。而 to the bark（交给树皮）把最后一击落在一件最不值钱的东西上：这本书记得最牢的依靠，是一块树皮。
-- **读者视角提示》：全书有两次「抓紧」的呼应：这次在树上，那一次在 Duck Pond 的黑暗里；请把它们并读——她一生都在做同一个动作。
+- **读者视角提示**：全书有两次「抓紧」的呼应：这次在树上，那一次在 Duck Pond 的黑暗里；请把它们并读——她一生都在做同一个动作。
 
 > **原句 7:** If I could stand in the middle of a thundercloud, the sound would be a whisper compared to the water that hit our tree.
 
 - **中文理解**：「就算我能站到雷云的正中间，那声音跟砸上我们这棵树的水比起来，也只是一声耳语。」
 - **关键词**：stand in the middle of a thundercloud · the sound would be a whisper · compared to the water that hit our tree
 - **为什么这样写**：全书对声音最大的一次夸张，而这个夸张的方向却是向下（连雷声都只是耳语）。相比（compared to）把水声放在更高的量级上；而 stand in the middle of a thundercloud 借的是 ch05 那句 Middle 的回声——她终于站到了正中间，只是这一次中间是雷云。
-- **读者视角提示》：请把这句与本章开头那三个 middle 并读；全书到此把这个词从「位置」改写成了「天气」。
+- **读者视角提示**：请把这句与本章开头那三个 middle 并读；全书到此把这个词从「位置」改写成了「天气」。
 
 ## 本章词汇
 

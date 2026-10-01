@@ -21,21 +21,21 @@ modified: "2026-10-01"
 - **中文理解**：「「我正在掂量，自己心里有没有那一份能杀掉你继父的东西。」」
 - **关键词**：trying to decide · if I’ve got it in me · to kill your stepfather
 - **为什么这样写**：一个把杀人放进「决定」里的句子。got it in me（我心里有没有那份东西）用身体内蕴的说法，把意图写成一味药；而 your stepfather（你继父）三个词里没有名字，只有关系——他说这句话时，甚至没有用称呼。
-- **读者视角提示》：请把它与她车上那三声「Lucy!」并读：这一章的第一个动作，是 Dana 最害怕的那件事发生了。
+- **读者视角提示**：请把它与她车上那三声「Lucy!」并读：这一章的第一个动作，是 Dana 最害怕的那件事发生了。
 
 > **原句 2:** This gun can’t make him suffer enough.
 
 - **中文理解**：「这把枪没法让他受够苦。」
 - **关键词**：This gun · can’t make him suffer enough
 - **为什么这样写**：整段最长的复仇想象（按在水下、鱼吃眼睛、扔下坝）以一句自我否定收场——凶器不够。这个转折既暴露了 Owl 的清醒，也暴露了他的界线：他要的不是死，是一个够长的痛苦。
-- **读者视角提示》：请把这句与那封匿名信并读（One word and you're next）；两句话出自同一种愤怒，可只有一种被兑现了。
+- **读者视角提示**：请把这句与那封匿名信并读（One word and you're next）；两句话出自同一种愤怒，可只有一种被兑现了。
 
 > **原句 3:** he whispers, “No, sweetheart,” and part of my heart breaks.
 
 - **中文理解**：「「不，亲爱的，」他耳语道。」
 - **关键词**：he whispers · “No, sweetheart” · part of my heart breaks
 - **为什么这样写**：全书最轻的一次否决——一个词，加一个从未被用过的称呼。whisper（耳语）让这个「不」从三十英尺外飘过来；而 sweetheart 这个词在此第一次从他嘴里出现，它抹平了他整个警长的身份，只剩一个父亲的音。
-- **读者视角提示》：请记住这个「不」与她此前所有的猜测并读：不是他不愿承认，是他否认了——她不是他的女儿，而真正的是另一个人。
+- **读者视角提示**：请记住这个「不」与她此前所有的猜测并读：不是他不愿承认，是他否认了——她不是他的女儿，而真正的是另一个人。
 
 > **原句 4:** “She knocked on my door with authority, and without missing a beat she said, ‘I know you’re my dad.’”
 

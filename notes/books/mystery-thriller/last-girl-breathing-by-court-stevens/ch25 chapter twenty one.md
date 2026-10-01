@@ -10,7 +10,7 @@ modified: "2026-10-01"
 - **地点·时间**：雾中的 LaRue 指挥中心帐篷外 → Dana 的吉普（沿撤离后的车队慢慢挪）。雾又起，两小时的雾还压着搜索。
 - **一句话概括**：Owl 当众把 Martin 的整套怀疑推翻了——「那是一场自然灾害，我儿子当时还是个孩子，孩子。」「除非 Robert 就是大自然 Mother Nature，Martin 满嘴胡话」；媒体在雾里追问，Owl 一声「不」把所有人逼退；随后他在 Dana 的车里卸了力（像浴缸里的水一样流走），被 Lucy 抱住式的问话安抚，转身用一句「Whatever it takes, for as long as it takes」买下了寻找 Astrid 的全部时间——而全章最后，他没能把那句话说完：「我不能再承受一个……」
 - **情感弧线位置**：第一部收束前的最低点（Owl 个人）——父亲在众人面前守住自然灾难的结论、私下却付不出第二笔钱；本节把「搜寻」这件公共事务换算成一个父亲的极限。
-- **叙事手法**：第一人称；公开与私密的两次切换（帐篷外的 growl 与吉普里的耳语）；用身体写疲惫（energy drains like water in a tub、head snaps up、pats my head awkwardly）；把媒体与围观者写成雾里的饥饿（blurs of motion、chomping at the bit）；结尾以一句未完成的话加一句作者的注释收束（He doesn’t say death. He doesn’t have to.）。
+- **叙事手法**：第一人称；公开与私密的两次切换（帐篷外的 growl 与吉普里的耳语）；用身体写疲惫（The energy drains out of him like water in a tub、head snaps up、pats my head awkwardly）；把媒体与围观者写成雾里的饥饿（blurs of motion、chomping at the bit）；结尾以一句未完成的话加一句作者的注释收束（He doesn’t say death. He doesn’t have to.）。
 - **线索进展**：① Owl 对外的官方立场：溃坝是自然灾害，十二英寸雨量，任何同尺寸的大坝都会垮；② 他当众否认了土地与付款两条线（property thing 很可能什么都不是、Deuce 那笔钱完全是场闹剧）；③ 电台里下令叫 Declan 来指挥帐篷，并央求一小时清静（Declan 报告雾还有两小时）；④ 两小时的雾对 Astrid 意味着她还活着——这是全书第一次把天气当作希望的证据；⑤ Owl 主动付钱雇 Dana 找 Astrid，价钱与时长不限；⑥ 未完成的那句话：他不能再承受一次死亡。
 
 ## 精读
@@ -47,7 +47,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「「我不知道你的收费标准是多少，但我愿意付任何代价、花任何时间，去找到 Astrid。」」
 - **关键词**：I don’t have any idea what your rate is · whatever it takes, for as long as it takes · to find Astrid
-- **为什么这样写**：for as long as it takes 在句子里被写成对时间的无限开价，而 whatever it takes 把价钱也一并交出——一个镇上的警长在两小时内把全部身家押进了一句以「找到她」为条件的祈使里。而 he doesn’t have to speak the name 这个事实，正因为不必说出那个名字才如此完整。
+- **为什么这样写**：for as long as it takes 在句子里被写成对时间的无限开价，而 whatever it takes 把价钱也一并交出——一个镇上的警长在两小时内把全部身家押进了一句以「找到她」为条件的祈使里。而 He doesn’t say death. He doesn’t have to. 这个事实，正因为不必说出那个名字才如此完整。
 - **读者视角提示**：这是 Owl 与全书的第一次交底——他不再站在证据一侧，而是站到了时间一侧：钱可以无限，时间不能。
 
 > **原句 6:** “I can’t take another . . .”
@@ -58,6 +58,13 @@ modified: "2026-10-01"
 - **读者视角提示**：第一部在这里结束在一个警长的沉默上；而 Dana 已经听见这半句话——她后来所有的动作（清点时间、先找活人）都是从这半句话里长出来的。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|------|------|------|
+| natural disaster | 天灾 | “It was a natural disaster,” Owl says sharply. |
+| defensive tangent | （防御性的）岔开话题 | “Yeah,” I answer because Owl begins a defensive tangent. |
 
 ### ⭐⭐ 进阶
 

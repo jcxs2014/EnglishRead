@@ -61,7 +61,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「「我不能走。这是我的命，」他含混地说着，脚步蹒跚地走开，烟雾在他头边翻卷。」
 - **关键词**：Can’t leave · This is my lot · slurs and weaves an unsteady path
-- **为什么这样写**：slurs（口齿不清）与 weaves（踉跄行进）把醉态写进动词；而 This is my lot（这是我的命/份）用 Biblic 的口吻认领——他不是说「我在这工作」，是说「这归我受」。烟雾在头边打转的收尾让这个人一边划火一边谢幕。
+- **为什么这样写**：slurs（口齿不清）与 weaves（踉跄行进）把醉态写进动词；而 This is my lot（这是我的命/份）用 Biblical（圣经式）的口吻认领——他不是说「我在这工作」，是说「这归我受」。烟雾在头边打转的收尾让这个人一边划火一边谢幕。
 - **读者视角提示**：这是全书给 Andy Bedford 定下的底色——他在 18:03 那天在场，他恨这个地方，他不能走。
 
 > **原句 8:** An hour later, the screams start.
