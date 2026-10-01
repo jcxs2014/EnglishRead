@@ -15,15 +15,15 @@ modified: "2026-10-01"
 
 ## 精读
 
-> **原句 1:** She must have walked, but then where was Tiên? She was… She was in the Citadel, and then she was back in her body – in the heartroom, sitting on the steps before the throne and her organic core, desperately trying to focus, the bots around her scattered like the corpses of slaughtered birds, feebly twitching. She was shivering and shaking – every single sensor input merging together: the coldness of space on her hulls; the footsteps in the corridors; the voices in the rooms; the smell of steamed buns; the chatter of comms and other ships; the awareness of being docked, gently held by the magnets tying her to the Citadel. It was all too much at once, and she couldn’t deal…
+> **原句 1:** Rice Fish didn’t remember how she came back.
 
-**中文理解**：「她一定是走回来的，可那么 Tiên 去哪了？她……她在堡垒里，然后她又回到了自己的身体里——在心室，坐在王座前与她那具有机核心的台阶上，死死想集中精神，四周散落的机器人像被宰杀的鸟尸一样，微弱地抽搐着。她在发抖、在颤抖——每一路传感器输入都混作一团：舰壳上太空的寒冷；走廊里的脚步声；房间里的说话声；蒸笼面包的气味；通讯与别的舰只的嘈杂；被堡垒的磁力轻轻托住、拴在这里的那种意识。这一下子涌进来太多，她应付不了……」
+**中文理解**：「旗舰不记得自己是怎么回来的。」
 
-**关键词**：didn’t remember how she came back（不记得自己是怎么回来的） / scattered like the corpses of slaughtered birds（像被宰杀的鸟尸一样） / every single sensor input merging together（每一路传感器输入都混作一团） / the smell of steamed buns（蒸笼面包的气味） / gently held by the magnets tying her to the Citadel（被堡垒的磁力轻轻托住） / It was all too much at once（这一下子涌进来太多）
+**关键词**：Rice Fish didn’t remember how she came back（旗舰不记得自己是怎么回来的）
 
-**为什么这样写**：全章的第一句就把失忆与过载绑在一起：她不是不记得，是记得的代价太大，所以不敢整理。随后一段全是感官的清单——寒冷、脚步、说话声、面包气味、通讯的嘈杂、磁力——作者让一艘刚被踢出议会的心智舰靠气味与触感醒来。那个鸟尸的比喻一次交代两件事：机器人真的像死了一样，同时这也是她在血里泡久了才有的看法。
+**为什么这样写**：全章的第一句只有十来个词，句子本身就是一个失忆的陈述：主语是旗舰自己，动词是否定，宾语是过程。作者不写她忘了什么，只写她忘了怎么回来——于是读者手里握着的是一个没有内容的空壳，而全章剩下的部分就是不断往这个空壳里填东西。醒不过来与不记得是同一件事的两面。
 
-**读者视角提示**：注意她说自己是在走回来的，却完全不记得走的过程。这段记忆缺失要到本章后半才被补上。
+**读者视角提示**：紧接着的一段全是感官的清单：寒冷、脚步、说话声、面包气味、通讯的嘈杂、磁力。她是靠这些才重新把自己拼回来的——而拼回来的过程，正是本章全部要处理的东西。
 
 > **原句 2:** ‘They voted me out! The council. They said I’d recklessly endangered the Citadel and everyone within.’
 
@@ -85,15 +85,15 @@ modified: "2026-10-01"
 
 **读者视角提示**：注意她没有说不想逃，她只是说不出留下。紧接的那三个字才是她的全部情绪——同一段里两次同样的句式，也是本章的收束方式。
 
-> **原句 8:** She was, in fact, in the middle of space: her last known position had been heading out of the Citadel on an intercept vector with the censor’s fleet. She had gone to get more evidence. The kind that she hoped against all hope would be believed. Typical. And then…
+> **原句 8:** A flare. A jumbled distress call – so badly mangled it gave no precise location – and then silence.
 
-**中文理解**：「她确实正处在太空正中央：她最后已知的位置是正在驶出堡垒，朝着拦截监察使舰队的航线上。她是去取更多的证据的。那种她明知希望渺茫却仍然指望能被相信的证据。典型的做法。然后……一道闪光。一段乱成一团的求救信号——被破坏得如此彻底，给不出任何精确位置——然后是沉默。」
+**中文理解**：「一道闪光。一段乱成一团的求救信号——被破坏得如此彻底，给不出任何精确位置——然后是沉默。」
 
-**关键词**：heading out of the Citadel on an intercept vector（驶出堡垒，朝着拦截监察使舰队的航线） / She had gone to get more evidence（她是去取更多的证据） / hoped against all hope would be believed（明知希望渺茫却仍然指望能被相信的） / A flare（一道闪光） / a jumbled distress call（一段乱成一团的求救信号） / gave no precise location（给不出任何精确位置）
+**关键词**：A flare（一道闪光） / a jumbled distress call（一段乱成一团的求救信号） / so badly mangled（被破坏得如此彻底） / gave no precise location（给不出任何精确位置） / and then silence（然后是沉默）
 
-**为什么这样写**：作者先用一段冷静的技术陈述解释旗舰的行为，再用一个短句打断它。那道闪光是全章唯一一次句子骤然变短，而它出现的位置恰好在典型之后——她照例做了正确的事，于是正确把她害死了。乱成一团与给不出任何精确位置是一组技术描写，把求救信号写成一段残缺的噪音：读者与她同时只能得到一半信息。
+**为什么这样写**：全章唯一一次句子骤然变短，而这一段的四个短句是一个完整的降级过程：先是一道光，然后是信号，然后是信号本身残缺，最后是沉默。作者用求救信号的技术状态——被破坏到给不出位置——把一份告急写成噪音，于是读者与她同时只能得到一半信息：知道出事了，不知道在哪里。
 
-**读者视角提示**：此后的事实她都还说不上来：被俘，还是受损。而被俘这个可能性是她自己先排除的，因为她认定对方有导航程序。
+**读者视角提示**：这一段之前的那一行写的是她为什么会在那里：她出门是为了拦截监察使的舰队，为了取那种明知不会被相信的证据。方法完全正确，于是方法把她带到了这里。
 
 ## 本章词汇
 
