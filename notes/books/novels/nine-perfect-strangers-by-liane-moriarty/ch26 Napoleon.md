@@ -275,7 +275,7 @@ modified: "2026-10-01"
 
 **读者视角提示**：注意"兰博基尼"在这个清单里的位置：**它来自上一段的 Ben 的车**（`Apparently, that young bloke in front of him drove a Lamborghini.`）。也就是说，**他是把眼前院子里的一辆车放进了自己为儿子列出的世界清单。** 留意"全套汉堡"（`hamburgers with the lot`）这个澳大利亚说法，它让整份清单带上了一种具体的家乡感。
 
-> **原句 27:** He heard a sound and realized it was him. Zoe turned to look at him. He tried to smile at her reassuringly. I'm fine, Zoe, just yelling at your brother. His eyes blurred. / My boy. My boy. My boy.
+> **原句 27:** He heard a sound and realized it was him. Zoe turned to look at him. He tried to smile at her reassuringly. I'm fine, Zoe, just yelling at your brother. His eyes blurred. … My boy. My boy. My boy.
 
 **中文理解**：他听见一个声音，意识到那是他自己发出的。Zoe 转头看他。他试着对她安慰地笑笑。我没事，Zoe，我只是在冲你哥哥喊。他的眼睛模糊了。／我的孩子。我的孩子。我的孩子。
 

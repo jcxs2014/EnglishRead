@@ -75,7 +75,7 @@ modified: "2026-10-01"
 
 **读者视角提示**：注意 Jessica 拒绝唱歌这个细节（她是本章唯一还坚持体面的人）；作者随后立刻让她说出"我觉得 Masha 要做点什么了"，把她的理智与她的孤立放在同一段。
 
-> **原句 7:** Napoleon had thought when he woke this morning that the feeling that permeated his body must be anger, because he had the right to be incandescent with anger at his wife for what she had concealed from him, and what she had chosen to finally reveal in the most nightmarish of settings. He'd dreamed of Zach, but he hadn't dreamed Heather's revelation.
+> **原句 7:** Napoleon had thought when he woke this morning that the feeling that permeated his body must be anger, because he had the right to be incandescent with anger at his wife for what she had concealed from him, and what she had chosen to finally reveal in the most nightmarish of settings … He’d dreamed of Zach, but he hadn’t dreamed Heather’s revelation.
 
 **中文理解**：Napoleon 今早醒来时曾以为弥漫他身体的那种感觉一定是愤怒，因为他有权利对妻子怒不可遏——对她向他隐瞒的事，对她选择在最噩梦般的场合才最终揭示的事。他梦见了 Zach，但他没有梦到 Heather 的坦白。
 

@@ -45,7 +45,7 @@ modified: "2026-10-01"
 
 **读者视角提示**：注意这个句式（"单独来看都容易，合起来就埋葬人"）是**本书对不可见劳动的标准表述**，而它与 ch21 后文的家务清单（洗衣、护照、Airbnb）构成同一主题。她还提到"她甚至不用自己洗衣服……她读到这里时高兴得哭了"——**一个能被免除洗衣的人，说明她原先的负担有多重**。
 
-> **原句 4:** But then that tiny voice beneath the exultant chanting, just the faintest whisper, had begun: I wonder what they’re doing now. / No, but seriously, what do you think they’re doing RIGHT NOW? / That’s when she’d felt her sanity come loose.
+> **原句 4:** But then that tiny voice beneath the exultant chanting, just the faintest whisper, had begun: I wonder what they’re doing now. … No, but seriously, what do you think they’re doing RIGHT NOW? That’s when she’d felt her sanity come loose.
 
 **中文理解**：但接着，在那欢欣的吟诵之下，一个小小的声音，仅仅是最微弱的低语，开始了：我不知道他们现在在做什么。／不，说真的，你觉得他们**现在**在做什么？／就是那个时候，她感觉自己的理智松开了。
 
@@ -55,7 +55,7 @@ modified: "2026-10-01"
 
 **读者视角提示**：注意她数圈时的咒语 `I’m so happy, I’m so happy, I’m so happy, breathe`（我很幸福，我很幸福，我很幸福，呼吸）——**她需要用口号才能维持幸福**，而那个小声音就是在这套口号底下开始说话的。留意"他们"指的是什么，本章后面才揭晓（Joel 与他的新家庭）——作者把最关键的宾语推迟了整整一段。这是本书处理嫉妒的典型方式：**先给节奏，后给对象。**
 
-> **原句 5:** It was an amicable divorce. Amicable on Joel’s part, anyway. On Carmel’s part, it felt like a death no one acknowledged. / It happens. It happens a lot. It’s essential the discarded wife remain dignified. She must not wail and weep, except in the shower … It is better for all concerned if she is thin.
+> **原句 5:** It was an amicable divorce. Amicable on Joel’s part, anyway. On Carmel’s part, it felt like a death no one acknowledged. … It happens. It happens a lot. It’s essential the discarded wife remain dignified. She must not wail and weep, except in the shower … It is better for all concerned if she is thin.
 
 **中文理解**：那是一场友好的离婚。至少对 Joel 那边是友好的。对 Carmel 来说，那感觉像一场没有人承认的死亡。／这种事会发生。它经常发生。被抛弃的妻子必须保持有尊严。她不可以嚎哭，除了在淋浴的时候……对所有相关的人而言，如果她瘦一点会更好。
 

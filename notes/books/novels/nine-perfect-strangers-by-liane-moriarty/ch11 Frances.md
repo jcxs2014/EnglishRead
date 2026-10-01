@@ -165,7 +165,7 @@ modified: "2026-10-01"
 
 **读者视角提示**：⚠️ **请在读到这句时注意它前后的环境**：没有人动、没有人咳嗽。**一个不好笑的夸张表演却没有引起任何骚动，这才是真正让人不安的地方。**
 
-> **原句 16:** Frances felt hope rise in the room like a delicate mist. Oh, to be transformed, to be someone else, to be someone better. No one moved.
+> **原句 16:** Frances felt hope rise in the room like a delicate mist. Oh, to be transformed, to be someone else, to be someone better.
 
 **中文理解**：Frances 感到希望像一层轻柔的雾一样在房间里升起。噢，被改变，成为别人，成为更好的人。
 

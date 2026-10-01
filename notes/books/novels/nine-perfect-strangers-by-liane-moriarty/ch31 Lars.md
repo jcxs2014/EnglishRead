@@ -125,9 +125,9 @@ modified: "2026-10-01"
 
 **读者视角提示**：把 Zoe 这句话与她此前"我每年都在等死"的自述对照阅读，会有更沉的意味：她说"感觉好"，恰恰是最不安全的时刻。
 
-> **原句 12:** “I can’t take credit for it. I come from a long line of devastatingly handsome men.” “You yourself are very handsome,” said Frances to Lars. “Devastatingly handsome, in fact.” Lars always felt fondly toward people who were unequivocal in their acknowledgment of his looks.
+> **原句 12:** “You yourself are very handsome,” said Frances to Lars. “Devastatingly handsome, in fact.” … Lars always felt fondly toward people who were unequivocal in their acknowledgment of his looks. … “That’s kind of you,” he said modestly. “I can’t take credit for it. I come from a long line of devastatingly handsome men.”
 
-**中文理解**："我不能为此居功。我出自一长串毁灭性英俊的男人。""你自己就很英俊，"Frances 对 Lars 说，"事实上是毁灭性地英俊。"Lars 对那些无条件承认他长相的人总是心怀好感。
+**中文理解**："你自己就很英俊，"Frances 对 Lars 说，"事实上是毁灭性地英俊。"……Lars 对那些无条件承认他长相的人总是心怀好感。……"你太客气了，"他谦虚地说，"我不能为此居功。我出自一长串毁灭性英俊的男人。"
 
 **关键词**：a long line of devastatingly handsome men / devastatingly handsome, in fact / unequivocal in their acknowledgment of his looks
 

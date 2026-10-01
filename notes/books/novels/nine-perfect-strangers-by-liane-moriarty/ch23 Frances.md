@@ -235,7 +235,7 @@ modified: "2026-10-01"
 
 **读者视角提示**：注意这段话紧接在"Choice"（选择）之后出现——**她刚说完这是她的选择，就想起了一个她曾打算为之赴美的男孩。** 作者不给任何评断，而读者自己会看见这两句之间的距离。留意"假装是 Ari 的男孩"这个表述：**她甚至不确定那个人是不是同一个骗子。**
 
-> **原句 23:** “Do you have children?” Frances asked Masha. She was allowed to ask questions. This woman was not her therapist. She probably had no qualifications whatsoever! / “I am not in a relationship and I do not have children,” said Masha. She had become very still. She looked very steadily at Frances—so steadily that Frances couldn’t help but wonder if she was lying, although it was impossible to imagine Masha in a relationship. She could never be half of any relationship.
+> **原句 23:** “Do you have children?” Frances asked Masha. She was allowed to ask questions. This woman was not her therapist. She probably had no qualifications whatsoever! … “I am not in a relationship and I do not have children,” said Masha. She had become very still. She looked very steadily at Frances—so steadily that Frances couldn’t help but wonder if she was lying, although it was impossible to imagine Masha in a relationship. She could never be half of any relationship.
 
 **中文理解**："你有孩子吗？"Frances 问 Masha。她有权提问。这个女人不是她的治疗师。她大概根本没有资质！／"我不在恋爱中，我也没有孩子，"Masha 说。她变得非常静止。她非常稳定地看着 Frances——稳定到 Frances 忍不住怀疑她在撒谎，尽管无法想象 Masha 谈恋爱的样子。她永远不可能成为任何关系的一半。
 
@@ -375,7 +375,7 @@ modified: "2026-10-01"
 
 **读者视角提示**：注意 "It all starts with the VCR."（一切从录像机开始。）这个句子在本章后文被重复，也将在 ch20 的闪回里出现（录像机、沙发、前夫的手臂）。**这是本书给 Masha 的一条私人时间线：她的人生不是从心脏骤停开始的，是从一台录像机开始的。**
 
-> **原句 37:** “Our neighbors in the flat next to ours got a VCR. Nobody could afford such a thing. They inherited money from a relative who died in Siberia. These neighbors were good friends of ours and they asked us over to see movies.” Her gaze became unfocused, once again remembering. / “It was a window into another world. Into a capitalist world. It all seemed so different, so amazing, so … abundant.”
+> **原句 37:** “Our neighbors in the flat next to ours got a VCR. Nobody could afford such a thing. They inherited money from a relative who died in Siberia. These neighbors were good friends of ours and they asked us over to see movies.” Her gaze became unfocused, once again remembering. … “It was a window into another world. Into a capitalist world. It all seemed so different, so amazing, so … abundant.”
 
 **中文理解**："我们隔壁公寓的邻居有一台录像机。没人买得起这种东西。他们从一位死在西伯利亚的亲戚那里继承了钱。这些邻居是我们的好朋友，他们请我们过去看电影。"她的目光变得失焦，再一次陷入回忆。／"那是通往另一个世界的一扇窗。通往一个资本主义世界。一切看起来都那么不同、那么惊人、那么……丰盛。"
 

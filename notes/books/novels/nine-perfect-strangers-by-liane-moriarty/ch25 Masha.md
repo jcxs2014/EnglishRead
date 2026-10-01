@@ -105,7 +105,7 @@ modified: "2026-10-01"
 
 **读者视角提示**：注意这一段在本书的结构位置：**它出现在章节中段，而它将被结尾的"儿子"部分击穿**——她讲给 Tony 的版本里有湖、有光、有醒来的比喻，而没有那个男孩。留意她讲这段时用的动词（`she had breathed it, heard it, smelled it, tasted it`，见下一段）：**五种感官全开，这正是她劝客人做的事。**
 
-> **原句 10:** She had already revealed too much of her personal life earlier to that Frances Welty, with her bouncy hair and red lipstick, nearly knocking Masha's glass ball off the desk, like a child, asking her greedy, nosy questions, making Masha forget her position. / She reminded Masha of a little girl in her second-grade class. A plump, pretty, vain little girl who always had a pocket filled with Vzletnaya candies. People like Frances lived candy-filled lives.
+> **原句 10:** She had already revealed too much of her personal life earlier to that Frances Welty, with her bouncy hair and red lipstick, nearly knocking Masha's glass ball off the desk, like a child, asking her greedy, nosy questions, making Masha forget her position. … She reminded Masha of a little girl in her second-grade class. A plump, pretty, vain little girl who always had a pocket filled with Vzletnaya candies. People like Frances lived candy-filled lives.
 
 **中文理解**：她之前已经对那个 Frances Welty 透露了太多私生活——那个头发蓬松、涂红唇膏的女人，像个孩子一样差点把 Masha 桌上的玻璃球碰掉，问着她贪心的、爱打听的问题，让 Masha 忘了自己的位置。／她让 Masha 想起她二年级班上的一个小女孩。一个胖乎乎的、漂亮的、爱虚荣的小女孩，口袋里总装满 Vzletnaya 糖果。像 Frances 那样的人过的是糖果填满的人生。
 

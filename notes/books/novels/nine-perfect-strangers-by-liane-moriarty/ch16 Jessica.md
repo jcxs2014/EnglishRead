@@ -95,7 +95,7 @@ modified: "2026-10-01"
 
 **读者视角提示**：注意 Jessica 的"鲜红脚趾甲"在月光下这个画面本身其实很美，是她自己没看见的东西。全书多次写她**只通过镜头看自己的美**（ch07 的镜子、这里的拍照冲动），而本章最动人的画面恰恰是无人拍摄的那一个。这是作者对"记录"与"经历"的整个主题的第一次布置。
 
-> **原句 9:** That last hashtag would have made her look quite intellectual and spiritual, thought Jessica, which was good, because you had to be careful not to come across as superficial on your socials.
+> **原句 9:** That last hashtag would have made her look quite intellectual and spiritual, she thought, which was good, because you had to be careful not to come across as superficial on your socials.
 
 **中文理解**：那最后一个标签会让她显得相当有智识、有灵性，Jessica 想，这很好，因为你得小心别在社交平台上显得肤浅。
 
