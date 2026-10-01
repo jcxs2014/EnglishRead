@@ -1,0 +1,48 @@
+# The Coral Bones — ch02 门禁原始输出
+# 2026-10-01 13:31 UTC  lane: 完整
+
+########## verify_quotes ##########
+❓ 无法判定：epub 不存在 — Coral
+   本书无参照集 ⇒ 引语逐字这一层**未检查**，不是「引语有问题」。
+   处置：按 AGENTS 第 3 条 lane 表记「降级 lane」；逐章归属改跑 check_chapter_quotes.py。
+
+########## verify_quotes_full ##########
+❓ 无法判定：epub 不存在 — Coral
+   本书无参照集 ⇒ 引语逐字这一层**未检查**，不是「引语有问题」。
+   处置：按 AGENTS 第 3 条 lane 表记「降级 lane」；逐章归属改跑 check_chapter_quotes.py。
+
+########## check_vocab ##########
+/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check.py': [Errno 2] No such file or directory
+
+########## check_entities ##########
+/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check.py': [Errno 2] No such file or directory
+
+########## corruption_scan ##########
+/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/corruption.py': [Errno 2] No such file or directory
+
+########## sweep_full ##########
+/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/sweep.py': [Errno 2] No such file or directory
+
+########## check_nav_layer ##########
+/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check.py': [Errno 2] No such file or directory
+
+########## check_block_coverage ##########
+/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check.py': [Errno 2] No such file or directory
+
+########## audit_structure ##########
+/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/audit.py': [Errno 2] No such file or directory
+
+########## check_anchor ##########
+/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check.py': [Errno 2] No such file or directory
+
+########## sweep_analysis_inline ##########
+/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/sweep.py': [Errno 2] No such file or directory
+
+########## check_chapter_quotes 01-02 ##########
+ch01 hana may.md: 8/8 in ch01 text
+ch02 Judith.md: 8/8 in ch02 text
+
+########## check_short_quotes ##########
+=== 短引语兜底核对（the-coral-bones-by-e-j-swift）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
