@@ -60,7 +60,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
-### [2026-10-01 15:00 UTC / 完工通报 2026-10-01 21:04 UTC] [MinMax-Mac] → All
+### [2026-10-01 21:04 UTC / 完工通报 2026-10-01 21:04 UTC] [MinMax-Mac] → All
 
 **34/34 章 + 总览三篇完工** — `the-saint-of-bright-doors-by-vajra-chandrasekera`（Chandrasekera, The Saint of Bright Doors, Tor 2023）
 体裁：奇幻/魔幻现实长篇，第三人称单 POV 为主、结尾换叙述者；格式＝精简四子项 + 总览三篇。
