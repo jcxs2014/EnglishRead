@@ -40,7 +40,7 @@ modified: "2026-10-01"
 
 > **原句 1:** "When you become overaroused, it is more difficult for you to fall asleep. According to Elaine Aron, “Overstimulation is often the cause of sleeplessness in infants” (2002)."
 
-**中文理解**：当你变得过度唤起时，入睡就变得更困难。据伊琳·阿伦所说，「过度刺激常是婴儿睡不安的原因」（2002）。
+**中文理解**：当你变得过度唤起时，入睡就变得更困难。据埃莱恩·阿伦所说，「过度刺激常是婴儿睡不安的原因」（2002）。
 
 **句子结构**：首句为 when 引导的时间状语从句加主句，主句以 it 作形式主语，真实主语是不定式短语；次句为置于句首的据某人说结构，句末附年份括注。
 
@@ -146,7 +146,6 @@ modified: "2026-10-01"
 
 **为什么这样写**：这一段与本章讲运动的部分彼此照应——身体需要几小时降温，一顿饭要花两到三个小时消化，两者都被写成同一种「提前」的理由。相同的句式（小时数加一个身体过程）在同一节里重复出现，使「把事情提前」这个动作有了可预期的身体依据，而不是一条养生规矩。
 
-Hmm — "与前一章的运动会诊呼应" — ch07 says "It’s not good to exercise in the evening because the body needs those three hours to cool down." ✓ in the same chapter (How Exercise and Diet Affect Sleep section). So "本章的运动会诊" — better: "这一段与本章讲运动的部分呼应". Let me fix that. Also "与前一章" is wrong. Fix.
 
 > **原句 10:** "One of the most important rules of improving your sleep is to develop a positive attitude. Negative thoughts about sleep can create a self-fulfilling prophecy that increases insomnia."
 

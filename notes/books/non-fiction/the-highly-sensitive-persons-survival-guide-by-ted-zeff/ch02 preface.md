@@ -53,13 +53,13 @@ modified: "2026-10-01"
 
 **中文理解**：什么音乐？我什么都没听见。你不该让噪声困扰你。你有问题。
 
-**句子结构**：四个独立句，前三个以疑问或否定收束，末句为 be 动词引导的判断句；前句的 you 与末句的 you 指向不同，前者是邻居，后者是说话者所诊断的对象。
+**句子结构**：四个独立句，前三个以疑问或否定收束，末句为 be 动词引导的判断句；句中两个 you 都落在被抱怨的那一方身上，差别只在说话者对它的态度：先劝其别在意，随后断定其出了问题。
 
 **关键词**：I don’t hear a thing / Something’s wrong with you
 
 **表达方式**：以第二人称的旁观者发言，四句层层加码，最后一句不加修饰地落下诊断。
 
-**为什么这样写**：这段话把全书要拆解的那句话原样摆出来——「你有问题」。作者不立即反驳，而是先让读者经历被这样对待的瞬间，再转入第三章式的反转；诊断句被单独放在末尾，重音自然落在最后。
+**为什么这样写**：这段话把全书要拆解的那句话原样摆出来——「你有问题」。作者不立即反驳，而是先让读者经历被这样对待的瞬间，再转入本篇下一句的反转；诊断句被单独放在末尾，重音自然落在最后。
 
 > **原句 3:** "Actually nothing is wrong with you if you are sensitive to noise, scents, lights, or if you feel overwhelmed by crowds and time pressure or can’t screen out stimuli. You may simply be part of the 15 to 20 percent of the population who are highly sensitive."
 

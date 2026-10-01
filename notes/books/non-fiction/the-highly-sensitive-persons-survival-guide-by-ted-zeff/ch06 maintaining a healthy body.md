@@ -76,7 +76,7 @@ modified: "2026-10-01"
 
 > **原句 4:** "One student, Jean, told the class that she was addicted to eating chocolate candy every afternoon. However, as a New Year’s resolution, she decided to abstain from sugar for a period of several months. When Jean finally ate her first sweet after the sugar fast, the candy actually tasted bitter to her and she could no longer consume the sugary treat."
 
-**中文理解**：有一名学生让恩告诉全班，她每天下午都离不开巧克力糖。新年决心之下，她决定戒糖几个月。等她结束糖禁食、重新尝甜食时，那颗糖尝起来竟然是苦的，她再也吃不下这种甜食了。
+**中文理解**：有一名学生珍妮告诉全班，她每天下午都离不开巧克力糖。新年决心之下，她决定戒糖几个月。等她结束糖禁食、重新尝甜食时，那颗糖尝起来竟然是苦的，她再也吃不下这种甜食了。
 
 **句子结构**：首句主语为同位语结构 One student, Jean，谓语为 told，宾语为 that 从句（从句内含 be addicted to 的不定式短语）；次句以 However 领起转折，as 引导的状语从句内嵌过去时的决定；第三句为 When 引导的时间状语从句，主句由「尝起来是苦的」与「再也吃不下」两个谓语并列。
 

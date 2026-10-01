@@ -33,7 +33,7 @@ modified: "2026-10-01"
 **可质疑处**
 
 1. 本章的证据年代集中在较久以前——1974 年的对照研究、1981 年作者本人的研究、1970 与 1998 年的两项生理与睡眠研究——作者以与当代结论相同的确定语气引用它们，却未交代样本量、对照如何设置，也没有交代自己的研究与外部文献之间的界线。
-2. 「态度决定压力水平」这一节建立在两个不可比的个案上：一名邮局分信工与一名跨国公司首席执行官；由两个极端推出「态度是主要因素」的普遍判断，中间的权重与适用范围都无法判断。
+2. 「态度决定压力水平」这一节建立在两个不可比的个案上：一名在店里排队印名片的店员与一名跨国公司首席执行官；由两个极端推出「态度是主要因素」的普遍判断，中间的权重与适用范围都无法判断。
 3. 同章之内两类主张被赋予了同样的确定语气：有文献支持的部分（冥想降低心率、敌意影像压制免疫）与纯意象部分（地心缆绳、白光护盾）并列陈述，后者没有任何可检验的证据；读者无法从行文中分辨哪些是研究结论、哪些是作者的自我调节处方。
 
 ## 选择性精读
@@ -42,7 +42,7 @@ modified: "2026-10-01"
 
 **中文理解**：作为一名高敏感者，光是在红灯前旁观那场刺激，就让我焦虑到能感到自己身体里的肌肉在绷紧，握方向盘的手也不自觉地攥得更用力。
 
-**句子结构**：主句为过去时感官报告，宾语从句 until 之前由并列结构组成；从句的主语是 the muscles，谓语 becoming tense，其后 as 引导的原因状语从句再以 grasped 的比较级 tighter 收尾。
+**句子结构**：主句为过去时感官报告，宾语从句的主语是 the muscles，谓语为 becoming tense，其后 as 引导的原因状语从句再以 grasped 的比较级 tighter 收尾；make 使某人处在某状态的两层结构（made me so anxious that … becoming tense） 收尾。
 
 **关键词**：just watching / muscles / tighter
 
@@ -102,7 +102,7 @@ modified: "2026-10-01"
 
 **中文理解**：高敏感者必须认识到：即便你无法控制 A 型的环境，你仍然有力量控制自己对它的反应。
 
-**句子结构**：主句为 It’s important for … to realize that 的形式主语结构；that 从句以 even if 引导让步状语从句，随后以 but 的省略形式转出主句，两个分句分别以 you cannot control 与 you do have the power 构成对照，反应一否定一肯定。
+**句子结构**：主句为 It’s important for … to realize that 的形式主语结构；that 从句以 even if 引导让步状语从句，其后直接接完整主句 you do have the power；两个分句分别以 you cannot control 与 you do have the power 构成对照，反应一否定一肯定。
 
 **关键词**：control the Type A environment / power to control / even if
 
@@ -138,7 +138,7 @@ modified: "2026-10-01"
 
 **中文理解**：对于那些正从你脑海中驶过的压力巴士，你始终可以选择是否继续当一名乘客。任何时候，你都可以选择从一段消极的心念旅程中下车。
 
-**句子结构**：首句主语为 You，谓语为 have a choice about，whether 引导的宾语从句内含动名词 remain 作表语、anxious 的 from 结构作后置限定；次句沿用 You can always choose to 句型，以不定式 disembark 作补足成分并以 at any time 与 from a negative mental journey 分别作时间与来源状语。
+**句子结构**：首句主语为 You，谓语为 have a choice about，whether 引导的宾语从句内含动名词 remain 作表语、on any of the stressful buses that are passing through your mind 作 passenger 的后置定语；次句沿用 You can always choose to 句型，以不定式 disembark 作补足成分并以 at any time 与 from a negative mental journey 分别作时间与来源状语。
 
 **关键词**：remain a passenger / disembark / negative mental journey
 

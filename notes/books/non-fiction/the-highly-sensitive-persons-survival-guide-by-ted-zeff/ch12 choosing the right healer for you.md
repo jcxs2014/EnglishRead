@@ -124,7 +124,7 @@ modified: "2026-10-01"
 
 **中文理解**：你不会买下你看的第一辆车。你却要把自己的心理健康托付给你选中的那位专业人士，并与这个选择的全部后果共处，其影响的时长至少与你拥有一辆车的时间一样长。
 
-**句子结构**：首句为省略主语的否定虚拟句 would buy，that 引导定语从句修饰 car；次句主句为将来时 will be trusting，主语是 trusting 与 living 两个并列动名词短语，其后 as long as 引导比较状语从句，从句内 would own 亦为虚拟式。
+**句子结构**：首句为省略主语的否定虚拟句 would buy，that 引导定语从句修饰 car；次句主句为将来时的进行体被动 will be trusting，You 为保留主语，trusting 与 living 两个分词并列作其宾语，其后 as long as 引导比较状语从句，从句内 would own 亦为虚拟式。
 
 **关键词**：buy the first car / trusting your mental health / at least as long as you would own a car
 
@@ -136,7 +136,7 @@ modified: "2026-10-01"
 
 **中文理解**：这种没有任何刺激的氛围对高敏感者可能是有益的。不过，一些高敏感者可能会因为在黑暗中漂在盐水里而感到害怕，也可能觉得那些盐水有刺激性。
 
-**句子结构**：首句为情态动词 could be 的可能性判断，of 结构后置修饰 atmosphere；次句为 However 引导的转折，主句由两个 may 分句并列，以 or 连接，两者之后各补一个动名词短语（floating … 与 find …）。
+**句子结构**：首句为情态动词 could be 的可能性判断，次句为 However 引导的转折，主句由两个 may 分句并列，以 or 连接，两者之后各补一个动名词短语（floating … 与 find …）。
 
 **关键词**：atmosphere could be beneficial / frightened floating in salt water / salt water irritating
 
@@ -150,7 +150,7 @@ modified: "2026-10-01"
 
 **句子结构**：首句为 While 引导的让步状语从句加主句，两个分句各以一个现在进行时构成对照；次句主句为 I am confidant that 的信念句，that 从句内再嵌 as 引导的时间状语从句，从句主句为将来时的 you will experience；末句为省略主语（you）的祈使句。
 
-**关键词**：coming to an end / journey toward inner peace / you are not alone
+**关键词**：coming to an end / journey toward inner-peace / you are not alone
 
 **表达方式**：以「书结束了，旅程刚开始」的对仗收束全书，并把作者与读者的处境明确区分开。
 
