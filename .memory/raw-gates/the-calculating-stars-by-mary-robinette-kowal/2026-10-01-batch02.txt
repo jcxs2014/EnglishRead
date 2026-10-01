@@ -1,0 +1,38 @@
+batch02 ch02-ch04 2026-10-01 13:45 UTC
+ch01 the meteor hits.md: 8/8 ✅
+ch02 the airblast.md: 8/8 ✅
+ch03 forced landing.md: 8/8 ✅
+ch04 the phone call.md: 8/8 ✅
+
+=== 总计 32/32 引文可核实（100%）；完全干净文件 4/4；正文章节 0 提取 0；总览 0 提取转交 0 ===
+  ch01 the meteor hits.md [基础] 基础档疑含超纲词「broadcast」
+  ch01 the meteor hits.md [基础] 基础档疑含超纲词「announcer」
+  ch01 the meteor hits.md [基础] 基础档疑含超纲词「inherited」
+  ch02 the airblast.md [基础] 基础档疑含超纲词「windshield」
+  ch02 the airblast.md [基础] 基础档疑含超纲词「delicately」
+  ch02 the airblast.md [基础] 基础档疑含超纲词「peppermint」
+  ch03 forced landing.md [基础] 基础档疑含超纲词「radioactivity」
+  ch04 the phone call.md [基础] 基础档疑含超纲词「handkerchief」
+  ch04 the phone call.md [基础] 基础档疑含超纲词「refrigerator」
+  ch04 the phone call.md [基础] 基础档疑含超纲词「television」
+  ch04 the phone call.md [基础] 基础档疑含超纲词「destruction」
+  ch04 the phone call.md [基础] 基础档疑含超纲词「discipline」
+=== 实体一致性检测：0 个文件存在未知实体 ===
+=== 编辑损坏扫描（the-calculating-stars-by-mary-robinette-kowal）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+  参照集：text/ 逐章（40 章，可定章） + epub 交叉验证
+  ✅ 本章命中 32 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+ch02 the airblast.md: 8/8 in ch02 text
+ch03 forced landing.md: 8/8 in ch03 text
+ch04 the phone call.md: 8/8 in ch04 text
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  落点 #14 表格单元格：134 个表格行、112 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 156 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1
+  ❓ ch01 the meteor hits.md:64  「一个词」「N 个词」指引语内某子短语，无法机械定位，不判（整条引语 36 词） —— 需人判
+  ⚪ ch02 the airblast.md:32  「零三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch02 the airblast.md:34  「零三岁」年龄/百分比类，文本层推不出真值，只列出待人核
