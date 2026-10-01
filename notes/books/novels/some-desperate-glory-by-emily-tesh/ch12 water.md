@@ -13,6 +13,10 @@ modified: "2026-10-01"
 - 人物弧线：Kyr 在本章第一次**主动放弃**一个已经安全的选项（`Kyr even tried, for a moment, to picture herself staying`），而作者用「这一切的代价是」把这个放弃算成了一笔账。她在本章也第一次**对陌生人撒谎**并且毫不困难（`there was no harm in lying to a child`），这个变化比 ch04 那次更冷。
 - 叙事手法：一次**清晨的盘点**（笔、纸、彩色 T 恤、挂钩上的雨衣）+ 一个八岁孩子的对质 + 一段**暴力的清单式内省**（她逐个列出自己有能力杀掉的人）→ 场景切换到空屋 → 一次撬锁与搜屋 → 结尾把战略推理摊开。
 
+- **人物弧线**：Kyr 从「我要救我的同班」走到「我要做一件我不会告诉任何人的事」——本章是她第一次**主动欺骗一个孩子**（那句「我保证我会回来」），而作者让这次欺骗发生在她唯一一次真心想回去的时刻。她也第一次**意识到自己身上已经没有任何武器**（枪和刀都留在了铁皮棚里）。
+
+- **叙事手法**：**一次清晨的承诺**（对一个八岁孩子的谎）→ **一次空屋**（打不开的门、消失的两人、不见了的武器）→ **一次策略的成形**（刺杀、破坏、一句公文腔的收尾）。全章的紧张来自**她手里什么都没有**。
+
 ## 精读
 
 > **原句 1:** All it would cost her was her war. All it would cost was the memory of the dead, and the service she’d been born for, and the knowledge that out in deep space, clinging to a cold rock orbiting an unfriendly star, the last soldiers of humanity were still refusing to surrender, and Kyr was not among them.

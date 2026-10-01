@@ -13,6 +13,10 @@ modified: "2026-10-01"
 - 人物弧线：Kyr 在本章第一次**恨自己**（`She hated Val, possibly, more than she’d ever hated anyone in her life.`），也第一次**为自己的胜利感到屈辱**（`Val, somewhere inside her, was dying of mortification`）。而本章末尾她喊出的那句 **`He took the credit!`**——**这是全书她第一次为一件具体的事感到义愤，而那件事是她自己做的功被记在了别人名下。**
 - 叙事手法：**一个浴室**（全章前三分之一的场景只有马桶、水槽、淋浴）→ **两套记忆的交替叙述** → **一次清单式的清点**（谁存在、谁不存在）→ 结尾由 Yiso 的 `not quite` 把读者推向 ch22。
 
+- **人物弧线**：两个 Kyr/Val 从「谁才是真的」走到「我们都觉得对方是假的」——**全书唯一一次两个意识在同一页上互相打断**。而她在本章第一次**认领了一个不属于她的错误**（`He took the credit!`），也第一次**为了一个从未存在过的孩子松了口气**（`Good, thought both Kyr and Val.`）。
+
+- **叙事手法**：**一次错位的醒**（她在一个陌生人的浴室里）→ **一次清点**（谁存在、谁不存在）→ **一次打碎**（墙上的合影）。全章的节奏是**两次清点之间的一次低声自语**：None of this is real. All of this is real.
+
 ## 精读
 
 > **原句 1:** None of this is real. All of this is real.

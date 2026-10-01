@@ -13,6 +13,10 @@ modified: "2026-10-01"
 - 人物弧线：Kyr 在本章第一次**看清 Jole**——不是通过档案（ch06），不是通过梦（ch01），而是**站在他面前听他说「我们对不起你」然后看着那张脸把话咽下去**。她在本章也第一次明白：**这个宇宙里的每一个细节，都是被安排好的**（智慧送她回来，然后自毁了）。
 - 叙事手法：**一次彻底的场景重复**（同一段战斗，第二次跑，结局相反）→ **一次触摸的拒绝**（他擦她的眼泪，她后退一步）→ **一次全站集合**（把全部人口放在一个房间里）→ **一次演讲**（全书最长的一段公共语言分析）。
 
+- **人物弧线**：Kyr 从「我要重来一遍」走到「我不想要重来的那一遍」——**这是全书唯一一次重演一个场景，而且这一次她选择了不动**。她在这一章第一次**看清 Jole 的脸**（不是档案里的照片），也第一次**在心里把十九年的旧账一条条念完**——然后她站起来，站到了 Jole 面前。
+
+- **叙事手法**：**一次镜像**（同一个训练室、同一场战斗、相反的结局）→ **一次清单**（她在心里数完她被欠的每一笔）→ **一次集合**（全站第一次紧急集合 + 一次演讲）。全章的高潮是一次**公开宣称**，而它的听众里有一个人已经知道结局。
+
 ## 精读
 
 > **原句 1:** “I am stoppable,” Kyr said. “Look at me. I’ve stopped.”
@@ -160,6 +164,17 @@ modified: "2026-10-01"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 
+| difference | n. 差别 | The death of one world, the death of thousands, fourteen billion people, twenty trillion people, what difference did it make? |
+| everywhere | adv. 到处 | He expected enemies everywhere. |
+| population | n. 人口 | The only space big enough to hold the station’s whole population was the arcade. |
+| expression | n. 表情 | Avi with his neck broken, Avi preening under Admiral Jole’s approval, Mags dead of misery or Mags run away to fight for the majo, Cleo’s expression when she talked about her father, Yiso who had looked at Kyr and said unstoppable— |
+| perfection | n. 完美 | “No one expects perfection from you, Valkyr,” said Jole. |
+| whispering | n. 低语（whisper 的动名词） | Five rows ahead of her one of the twelve-year-old Blackbirds was craning her neck to look and then whispering to her neighbor. |
+| remembered | v. 记得（remember 的过去式） | She remembered this; how he’d come in, and smiled, and told her he was proud, and then the wing assignments had started. |
+| destroying | v. 摧毁（destroy 的动名词） | And they’d leave, again, do all the same things again, except this time Kyr guessed she was meant to stop Mags killing Leru, or stop Avi taking control of the Wisdom and destroying all those majo, and she didn’t care anymore. |
+| pretending | v. 假装（pretend 的动名词） | She seemed to be pretending that Kyr was not there. |
+| surrounded | v. 包围（surround 的过去式） | She was surrounded by the downed shells of majo fighters, alone, the last soldier standing. |
+| simulation | n. 模拟 | Her field knife had dissolved along with the rest of the agoge simulation. |
 ## 一句话总结
 
 她对着虚空说了「我再也做不了了」，然后就真的站着不动，看着那颗炸弹又一次落下去；出来之后，叔叔替她擦掉眼泪说「有时候我也会这样」，她退开一步，然后在心里把十九章来所有的旧账一条条念了出来——**然后那个全站紧急集合的夜里，站在台上的那个人说：「智慧自毁了。他们的时间过去了。我们的时代到了。」**

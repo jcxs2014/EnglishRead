@@ -13,6 +13,10 @@ modified: "2026-10-01"
 - 人物弧线：Kyr 在本章第一次**为一个不是自己人的东西承担责任**（那只 majo），也第一次**对着一具尸体只发出一个音节**（`oh.`）；她在本章最后做的事是**让一个外星人摸自己的头发**——**而这是全书唯一一次她的身体不用于战斗、不用于逃跑、也不用于训练。**
 - 叙事手法：**一个倒计时贯穿全章**（十二／十／八／还有多少）→ **一次坠落中的战斗**（影引擎之间的三段自由落体）→ **一次通信的单向故障**（她说得到、听不见）→ **以两个「最后的温度」收尾**（他是暖的／恒星很远）。
 
+- **人物弧线**：Kyr 从「我要执行命令」走到「我要留下来」——**全书最后一章里她没有一次改变计划，也没有一次成为计划的主人**：她跳、她接住、她踢出那一脚，全部按 ch07 与 ch13 学过的动作，而最后她做的事是**让一个正在睡去的人摸自己的头发**。
+
+- **叙事手法**：**一个倒计时贯穿全章**（十二 → 十 → 还有多少）→ **一次自由落体中的战斗**（三段）→ **一次单向通讯**（她说得到、听不见）→ **以两个「最后的温度」收尾**（他是暖的／恒星很远）。全章的高潮是一个**没有对象的请求许可**：我可以摸你的冠羽吗。
+
 ## 精读
 
 > **原句 1:** She did not do that now. She let herself fall.
@@ -140,6 +144,20 @@ modified: "2026-10-01"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 
+| underneath | adv. 在下面 | Kyr dived through the heart of it and felt the wave of a shadowspace distortion take hold of her from underneath. |
+| shimmering | adj. 闪烁的 | Gravity inverted and she was falling upward into the shimmering maw of Scythica. |
+| breathless | adj. 气喘吁吁的 | There was a part of her that felt it still, that wanted to be breathless and weightless and surviving and laughing in the face of forces that wanted to tear her apart atom by atom. |
+| weightless | adj. 无重量的 | There was a part of her that felt it still, that wanted to be breathless and weightless and surviving and laughing in the face of forces that wanted to tear her apart atom by atom. |
+| apparently | adv. 显然 | And Yiso’s plan, apparently, was to stop trying to live. |
+| confidence | n. 信心 | And the gigantic feeling of not caring what Jole thought hardened into confidence—yes, she could take him down—and along with confidence bloomed an old familiar anger. |
+| peripheral | adj. 周边的 | In her peripheral vision Kyr saw fear flash across his face. |
+| remembered | v. 记得（remember 的过去式） | Twelve minutes, Kyr remembered. |
+| unshielded | adj. 无屏蔽的 | Three unshielded shadow engines were building themselves up to full power behind her. |
+| impossible | adj. 不可能的 | Soon it was impossible to tell the grumble of a launching dreadnought from the groan of shattering rock. |
+| dimensions | n. 维度（dimension 的复数） | If she got it wrong she would be slammed into the cradle of a shadow engine, or caught by one of the great unsecured cables that linked them, and die smeared across fifteen dimensions. |
+| discovered | v. 发现（discover 的过去式） | “I’m not here to impress you,” Kyr said, and discovered as she said it that it was true. |
+| scrambling | v. 攀爬（scramble 的动名词） | She sprinted down through the dreadnought, past half-repaired shells of long-abandoned galleyways, scrambling down emergency ladders and dodging around the tool kits and heaps of plasteel, feeling the good burn of her breath as she ran. |
+| quiescence | n. 静默 | Kyr and Yiso could hear it when the Victrix launched above them, pulling herself out of her long quiescence at the base of the hangar. |
 ## 一句话总结
 
 十二分钟；她跳进站心，在三台影引擎之间把人接住、把叔叔踢进 Ferox 引擎（她只发出一个音节：哦），然后隧道塌了、通讯只剩半个方向、妹妹在耳机里喊「胜利或死亡」；**而她最后做的事，是坐在虚空里的一块不存在的东西上，问那只正在睡去的外星人「我可以摸你的冠羽吗」——然后她说「我想，也许「目的」这件事被高估了」。**

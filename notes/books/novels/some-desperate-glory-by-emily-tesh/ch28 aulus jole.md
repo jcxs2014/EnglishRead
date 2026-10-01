@@ -13,6 +13,10 @@ modified: "2026-10-01"
 - 人物弧线：Kyr 在本章**第一次成为一个失败的朋友**——她说不出「你是我朋友」的答案，而 Avi 也没有要她回答；她被按在地上、说「我会杀了你」，而对方是**她以为是「某个伤心的老兵」的那个人**。作者让她在最狼狈的一刻**被认出了母亲的脸**。
 - 叙事手法：**一次记忆的移植**（用 `ambient scioactive force` 这种技术腔标记非本人语言）→ **一次倒带的重现**（`In it she thought they were both hearing, again, a gunshot.`）→ **一场伏击**（用格斗训练的全部细节写一场她输掉的打斗）→ **一次身份揭示**（一枚百合徽章）。
 
+- **人物弧线**：Kyr 从「我要保守秘密」走到「我要让他恨我」——她在本章第一次**为了保住一只无人机而放弃全部真相**，而这一章最重要的推进是她**让一个外星人改造了另一个人的记忆**。Avi 在这一章得到了他的一生（被掐断脖子的一生），也第一次问出一句她答不出的话。
+
+- **叙事手法**：**一次追问**（他要求那些记忆）→ **一次灌入**（用 `ambient scioactive force` 标记非本人语言）→ **一次身份揭示**（两枚百合徽章）。全章的高潮是一枚藏在常规徽章旁边的旧徽章，和一句「人们通常注意不到它」。
+
 ## 精读
 
 > **原句 1:** I don’t have friends.
@@ -140,6 +144,18 @@ modified: "2026-10-01"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 
+| manipulate | v. 操纵 | You were born to manipulate shadowspace. |
+| remembered | v. 记得（remember 的过去式） | She remembered suddenly not-Avi, in that vanished other timeline, saying incarnation. |
+| discovered | v. 发现（discover 的过去式） | Kyr then had to get herself and Avi out of Agricole before someone discovered their unorthodox council of war. |
+| everywhere | adv. 到处 | And here they were, alive, planning, hoping; carrying it all with them, everywhere they went, forever; living with what they had and hadn’t done. |
+| impressive | adj. 令人印象深刻的 | Kyr hated that he was impressive. |
+| allowances | n. 津贴（allowance 的复数） | A promise about new luxury allowances in a few weeks—true or lies? |
+| expression | n. 表情 | He stared up at her, his expression dazed. |
+| unreadable | adj. 读不懂的 | Corporal Lin was watching her with a cool unreadable gaze. |
+| fingertips | n. 指尖（fingertip 的复数） | Her cigarette was down to her fingertips; she tossed it to the plasteel floor tiles and ground it into the Gaean dust there under the toe of her uniform boot. |
+| conquering | v. 征服（conquer 的动名词） | Since that moment when they’d stood together on the bridge and he’d talked about conquering worlds, he wanted Kyr on hand constantly. |
+| constantly | adv. 不断地 | Since that moment when they’d stood together on the bridge and he’d talked about conquering worlds, he wanted Kyr on hand constantly. |
+| privileges | n. 特权（privilege 的复数） | Nursery privileges had been suspended during the Victrix refit: no distractions. |
 ## 一句话总结
 
 她说「我们已经做过一次」，而他立刻说「那我就要那些记忆」，于是那只 majo 把上一轮的全部灌进了他的脑子——他站起来摸自己的喉咙，问：「你真的把我杀了？」；而当天夜里她被人从背后按进储藏室，按住她的人一边说「我不是畜生」一边，另一个坐在控制台后面抽烟的人说：「你长得真像你妈妈。」

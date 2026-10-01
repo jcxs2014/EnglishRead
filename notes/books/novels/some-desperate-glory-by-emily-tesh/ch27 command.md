@@ -13,6 +13,10 @@ modified: "2026-10-01"
 - 人物弧线：Kyr 在本章第一次**对一群人做出承诺**（`I promise you.`），而她随即对自己承认**这个承诺来自一套她已经污染过的语言**（`Gaea had planted its seeds in all of them. They were in Kyr too.`）——**她知道自己在做正确的事，而她知道「正确」这个姿势正是灾难的来源。** 这是全书最清醒的一次自我认识。
 - 叙事手法：**一次伪装行动**（一张纸 + 一个岗位调整）→ **一次藏匿**（温室的树窝）→ **一场会议**（作者逐个点名每个人的反应）→ 结尾把镜头从这六个人移到**整条走廊上那些不向她敬礼的人**。
 
+- **人物弧线**：Kyr 在这一章第一次**承诺一个群体**（不只是同班），也因此第一次**被一群她不欠的人接受**（七个微小的松弛）。她在本章也第一次**承认自己被同一个地方塑造过**（`present company excepted`），而这个承认让她成了唯一一个**知道自己会怎么犯错的人**。
+
+- **叙事手法**：**一次伪装**（一张纸 + 一个岗位调整）→ **一次藏匿**（温室顶层的秘密树窝）→ **一次会议**（逐个点名每个人的反应）。全章的高潮是一次**集体的点头**，而作者把每一个点头都写成了一个身体动作。
+
 ## 精读
 
 > **原句 1:** And Kyr had told him, out of that cold place inside which accepted no compromises: Not negotiable.
@@ -160,6 +164,18 @@ modified: "2026-10-01"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 
+| negotiable | adj. 可协商的 | And Kyr had told him, out of that cold place inside which accepted no compromises: Not negotiable. |
+| scheduling | n. 排班 | It would take someone who cared a long time going through the scheduling for the day to spot that it had come from nowhere and been signed off by no one. |
+| expression | n. 表情 | Yiso’s expression cleared. |
+| adjustment | n. 调整 | As long as he did not get caught doing the thousand small tweaks Kyr needed from him in the meantime, like that roster adjustment, they would be fine. |
+| physically | adv. 身体上 | Somewhere inside her there was still the sick horror over her original assignment: nothing struck her as more viscerally, physically disgusting than having to be the mother of humanity’s future. |
+| understood | v. 明白（understand 的过去分词） | There were things the two of them couldn’t understand—not in the ugly way that all the Sparrows understood them. |
+| bloodstain | n. 血迹 | She was scrubbing at the old, dark bloodstains that spattered up the wall. |
+| remembered | v. 记得（remember 的过去式） | She still remembered one of the first things Yiso had ever said to her: Why are you afraid of me? |
+| constantly | adv. 不断地 | But Kyr had a list humming in her head which was constantly shuffling and rearranging itself, obstacles—solutions—sting in the tail. |
+| watchfully | adv. 警觉地 | Kyr was half aware of Mags hovering watchfully behind her. |
+| vulnerable | adj. 脆弱的 | Avi was by far the most vulnerable person in Kyr’s little network. |
+| officially | adv. 官方地 | But she had not been assigned new quarters, officially, and the rest of the Sparrows had. |
 ## 一句话总结
 
 她递出一张没人签过字的派工单、把一个怕光的 majo 藏进温室顶层的树窝，然后在储藏室里问「谁上船」；她说带上所有孩子、所有育龄女性，Cleo 说好；两个从来没进过育儿翼的男人露出作者称之为「困惑」的表情——**而她说「不。不是心软。」**

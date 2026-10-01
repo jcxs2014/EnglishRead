@@ -13,6 +13,10 @@ modified: "2026-10-01"
 - 人物弧线：Cleo 在本章从 ch08 的刀战走到 `I'll cover for you. Give him hell from me.`（我替你打掩护。替我狠狠骂他）——**她的复仇对象从「妹妹」变成了「叔叔」**，而这个转移是全书对 Jole 审判的第一次外部确认。Kyr 则第一次承认自己当年的逃跑**与使命无关**（`She’d been horrified and she’d been afraid`）。
 - 叙事手法：**一次未完成的见面**（`That's your brother, isn't it?` 作为开场）→ **一段关于不在场者的对质**（Cleo 列举了 Sparrows 的下场）→ **一次身体接触的误读**（Kyr 以为要被打）→ 一句关于「直」的诊断收尾。
 
+- **人物弧线**：Cleo 从「我要杀你」走到「你走吧」——**全书唯一一次和解**，而它的形式是两个人抱在一起哭完之后，她说了一句「我会替你打掩护」。Kyr 则第一次**把自己拆成两个人**来看待自己（Kyr 负责勇气，Val 负责傲慢），而这种拆分在 ch27 变成了一句自觉：种子里有我。
+
+- **叙事手法**：**一次误认**（她进门时不知道屋里坐着谁）→ **一份损失清单**（Jeanne、Arti 和 Vic、Cleo 自己）→ **一次结盟**（两个短句，不需要任何解释）。全章的高潮是一句**六个字的中断**：`“But it did,” Avi said. “To me.”`
+
 ## 精读
 
 > **原句 1:** “I’m not your stupid friend,” Kyr wanted to snap, except it was lies.
