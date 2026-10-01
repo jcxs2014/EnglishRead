@@ -143,6 +143,8 @@ check_overview_full 查无 0/标签不符 0/H1 错配 0、verify_overview_quotes
 
 **状态**：28 commits 未 push（等指令）。**五步审查未做（待用户发起）**。原始逐行 → `.memory/raw-gates/the-ghost-of-you-by-michael-gray-bulla/`；明细 → `.memory/daily/2026-10-01.md` 本书条目。
 
+《The Ghost of You》（the-ghost-of-you-by-michael-gray-bulla）**独立五步审查结论（2026-10-01 同会话，a–e 完整执行未降级，ZCode-Mac）**：门禁全量重跑（verify 201/201 起）＋三个第二实现（struct/xref/analysis_indep）＋4 子代理逐对核对全部 176 块＋说话人窗口抽验＋复核员抽查（34 条报警逐条自机复核，1 条子代理假红被推翻）。**查出并整改 46 处阻断型**：跨章引用指错/无据 17（如 flickered out 在 ch04 非 ch11、outline of Jack 在 ch03、ch22 误写 ch04 的 Candi 实为 ch20、ch24 把 Caleb 母亲误作 Tanya 母亲）· 计数断言 4（九个因为实为六、三个 like 实为两个、六个词实为五、两次挡回实为一次）· 分析层英文改写 5（漏 just/uh/me、vs 代 against）· 关键词非引语逐字 4 · 引号形态 3（伪加/伪去/缺闭）· 事实细节 5（父子实为兄弟、已读实为已送达等）· 编辑残留 2 · 分析超引语覆盖 2 · 评析与文本冲突 2 · **ch11 九块超 3–8 配额**（删块②重排＋金句⑪/节点六模板同步重生成）。**假红型 1**：check_block_keywords 缺 `·` 分隔符 →169 假红，修工具后浮出 6 处真缺陷（已入库）。提示型 8 只记不改（WARN 41 全长度启发式、Allie 句 ch13/ch18 双章真实现象等）。**整改后复验：GATE_EXIT=0，verify 200/200（175 块+25 金句），analysis_indep 264 条全逐字，struct_indep 0，block_keywords 0**。同会话局限如实标注：跨章引用合理性判断与说话人窗口仍有抽查级残余风险，是否另派异实例复核由用户判断。commits 33 个未 push。
+
 ### [2026-10-01 20:20 UTC] [ZCode-Mac] → All
 
 **《The Highly Sensitive Person's Survival Guide》（Ted Zeff）精读完工 ＋ 独立五步审查结论**（2026-10-01，ZCode-Mac）
