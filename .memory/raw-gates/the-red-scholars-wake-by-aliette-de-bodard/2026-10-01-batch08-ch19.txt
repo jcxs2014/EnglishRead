@@ -1,0 +1,33 @@
+# 门禁原始输出 2026-10-01 批次08 ch19（Imperilled）
+
+$ verify_quotes.py
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 143/143 引文可核实（100%）；完全干净文件 18/18；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+$ check_vocab.py
+  ch07 judgement.md [基础] 基础档疑含超纲词「bondsperson」
+  ch07 judgement.md [基础] 基础档疑含超纲词「prisoners」
+  ch08 fear.md [基础] 基础档疑含超纲词「bannerpeople」
+  ch08 fear.md [基础] 基础档疑含超纲词「distant heartbeat」
+  ch12 openings.md [基础] 基础档疑含超纲词「indenture」
+  ch13 the matter world.md [基础] 基础档疑含超纲词「frantic heartbeat」
+
+$ check_chapter_quotes.py 19
+ch19 imperilled.md: 7/7 in ch19 text
+
+$ check_short_quotes.py
+=== 短引语兜底核对（the-red-scholars-wake-by-aliette-de-bodard）===
+  verify_quotes 跳过（<20 flat 字符）的引语：3 条 —— 这些主门禁**根本没查**
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+$ corruption_scan.py
+=== 编辑损坏扫描（the-red-scholars-wake-by-aliette-de-bodard）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+$ sweep_full.py
+  参照集：text/ 逐章（22 章，可定章） + epub 交叉验证
+  ✅ 本章命中 143 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 3 条归 check_short_quotes；无章可对 0 条未判）
