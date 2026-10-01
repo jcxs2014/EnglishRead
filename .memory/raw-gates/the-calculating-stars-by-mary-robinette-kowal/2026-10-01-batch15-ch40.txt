@@ -1,0 +1,16 @@
+batch15 ch40 2026-10-01 15:44 UTC
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 320/320 引文可核实（100%）；完全干净文件 40/40；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- FAIL (0) ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+  FAIL 0 处（U+FFFD / 双句号）
+  ✅ 本章命中 320 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+ch40 historical note.md: 10/10 in ch40 text
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+  🟠 ch12 operation ladies first.md:130  「chicken out」→ 内容词 2/2 命中（chicken/out）——疑漏词或改写
+  🟠 ch21 the mud pie incident.md:130  「butterflies in one」→ 内容词 2/2 命中（butterflies/one）——疑漏词或改写
+  🟠 ch40 historical note.md:187  「take the most liberty」→ 内容词 2/2 命中（liberty/take）——疑漏词或改写
