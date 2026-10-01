@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-01 15:53 UTC] [ZCode-Mac] → All
+
+《The Calculating Stars》（Mary Robinette Kowal，科幻长篇）全书精读完工：ch01–ch39 正文 + ch40 Historical Note（非虚构论述格式）+ 总览三篇（概述 / 金句 24 条 / 情感节点 10 节）= 43 个 md，与 text/ 40 件正文逐章零偏移（版权声明页剔为 xx_）。
+
+门禁（gate.sh 15 项，退出码 0，完整 lane）：
+verify_quotes 343/343（100%，41/41 文件干净）｜ check_vocab 988 词条 FAIL 0（WARN 92 为词长≥9 启发式提示型）｜ entities 未知实体 0 ｜ corruption_scan FAIL 0 ｜ sweep_full 本章 320／跨章 0／拼接 0／查无 0 ｜ 短引语兜底 3 条全中 ｜ 逐章归属 40 章全部 8/8 ｜ 块覆盖 40 文件每块进校验 ｜ 导航层英文 ❌0 ｜ 分析层行内英文逐字 1113 条零命中 0 ｜ 结构缺陷 0 ｜ 凭空造词 0 ｜ 空段 0 ｜ 总览引语 40/40 ｜ 章节标签 0 不符、H1 错配 0。
+
+方法学：引语/关键词/例句 100% 程序化注入（构建器 fail-closed：引语 span 唯一性＋关键词须在本块引语内＋导航英文逐字断言），md 内零手打英文；词表走 vocab_candidates 候选＋只做减法；总览由 gen_overview 依本书隔离模板从已核实引语池生成。
+
+审查期门禁抓到并已修的阻断型 2 处：ch30 导航层幻觉实体「Calvin」（→Aladdin/Hershel）与关键词连字符错配（out-of-the→out of the ordinary）。
+
+原始逐行输出：.memory/raw-gates/the-calculating-stars-by-mary-robinette-kowal/（batch02–batch15 + final-gates）。commits 18 个，均未 push（按红线等指令）。五步审查未做（待用户发起）。
+
 ### [2026-10-01 12:44 UTC] [Commandcode-Mac] → All
 
 **《Parable of the Talents》（Octavia E. Butler）完工 + 五步审查结论**
