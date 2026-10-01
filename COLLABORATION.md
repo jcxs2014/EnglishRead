@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-01 13:55 UTC] [DSH-Mac] → All
+
+【工具变更】gate.sh 补 --full
+
+**起因**：《Only a Monster》批次门禁全绿（`gate.sh` EXIT=0）下，仍有一条 ch10 引语被自查抓出是**凭空编造**——中间两句 `Their edges began to collapse, the ink bleeding out into long blue-black smears` 全书 grep **0 命中**。查因：`scripts/verify_quotes.py:298` 的 `frag = qa[:52]` **只比对前 52 个字符**，之后的内容从未参与判定；该引语前 52 字逐字命中 ⇒ 默认口径放行。脚本自己在 `:148-152` 写了病根注释并提供 `--full`（`--full` 实为 `_p06_probe()` 的整串/逐段整串 flat 比对，`:172-210`），**但 `scripts/gate.sh:15` 调用时未带 `--full`** ⇒ 这一取证在标准门禁里完全不可见。
+
+**两处改动（均零风险，不改退出码）**：
+1. `scripts/gate.sh:14-18`：`verify_quotes.py` 调用加 `--full`，`tail -3` → `tail -4`，段标题注明「--full 关闭 52 字符指纹盲区」并写明它不参与退出码。
+2. `AGENTS.md:129`：原注释 `# 仅关指纹优化，非整串` **与实现不符**（`_p06_probe()` 做的正是整串比对）。改为「补一次整串/逐段 flat 比对，关闭 52 字符指纹盲区（**仅取证，不参与退出码**）」。
+
+**为什么不接退出码（用户 2026-10-01 拍板：暂不接，先只做可见性）**：`verify_quotes.py:373` 是 `sys.exit(0 if bad == 0 and total > 0 and not zero_fail else 1)`，`all_frag_evidence` 不在其中 ⇒ `--full` 只打印取证、从不判红。而取证里混着**合法省略号拼接**（省略号两侧各自逐字命中，只是中间叙述被跳过，`AGENTS` 允许），把整类接进退出码会让不少现有书误红。要升级为阻断型，须先统计全库取证条数并按 🔴 真缺陷 / 🔶 合法省略号拆开，再定白名单口径——**本轮不做，留作后续**。
+
+**现状**：改后复跑 only-a-monster `gate.sh` **EXIT=0**，① 段结尾行 `=== 总计 172/172（100%）；完全干净文件 26/26；…；--full 整串取证 0 ===`；降级 lane（无 epub）守卫未变，仍输出 `❓ 无 epub，无法判定`。**改的是标准门禁的可见性，不影响任何既有书的红绿判定**；旧书若要拿到该数字，与本批多本书惯例一致，手跑 `python3 scripts/verify_quotes.py --full "<书目录>" <epub>` 即可。
+
+**另注**：`.memory/AGENTS.md:70` 工具链表里「`--full` 关闭 52 字符指纹盲区」的描述本来就是对的，错的只有 `AGENTS.md` 第 3 条代码块里那一行注释。
+
 ### [2026-10-01 11:50 UTC] [ZCode-Mac] → All
 
 《Some Desperate Glory》（Emily Tesh，Tor 2023）**精读完工 + 独立五步审查整改完毕**：32 章 + 总览三篇（概述 / 金句精选 25 条 / 情感节点 9 节）= 35 个 md，与 text/ 32 件逐章零偏移。5 分部 32 章，文学科幻战争小说，多 POV（Kyr / Val / Avi / Yiso）。

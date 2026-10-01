@@ -126,7 +126,7 @@
    ls "<书目录>"/library/*.epub >/dev/null 2>&1 && echo "完整 lane" || echo "降级 lane"
 
    python3 scripts/verify_quotes.py "<书目录>" "<该书epub>"                    # 引文逐字（每篇 10/10 ✅）
-   python3 scripts/verify_quotes.py "<书目录>" "<该书epub>" --full             # 仅关指纹优化，非整串
+   python3 scripts/verify_quotes.py "<书目录>" "<该书epub>" --full             # 补一次整串/逐段 flat 比对，关闭 52 字符指纹盲区（**仅取证，不参与退出码**）
    python3 scripts/check_vocab.py "<书目录>"                                   # 词汇表（FAIL=0）
    python3 scripts/check_entities.py "<书目录>"                                # 梗概实体一致性（未知实体=0）
    python3 scripts/corruption_scan.py "<书目录>"                              # 编辑损坏（U+FFFD/双句号）——见下

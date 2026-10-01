@@ -11,8 +11,10 @@ cd "$(git rev-parse --show-toplevel)"
 echo "=== lane ==="
 [ -n "$EPUB" ] && echo "完整 lane（有 epub）" || echo "降级 lane（无 epub）"
 
-echo; echo "=== ① verify_quotes（引语逐字，对 epub）==="
-if [ -n "$EPUB" ]; then python3 scripts/verify_quotes.py "$B" "$EPUB" 2>&1 | tail -3
+echo; echo "=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）==="
+# --full 只补一次整串/逐段 flat 比对并打印「--full 整串取证 N」计数；
+# 它不参与退出码（verify_quotes.py:373 只看 bad/total/zero_fail），故不会让任何书误红。
+if [ -n "$EPUB" ]; then python3 scripts/verify_quotes.py "$B" "$EPUB" --full 2>&1 | tail -4
 else echo "❓ 无 epub，无法判定"; fi
 
 echo; echo "=== ② check_vocab（词汇真实性/例句/分档）==="
