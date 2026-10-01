@@ -121,9 +121,6 @@ modified: "2026-10-01"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| hyperspatial feedback | n. 超空间干扰 | Kyr took a deep breath, narrowed her eyes to see past the hyperspatial feedback, and watched for the tiny dart coming through in the cruiser’s wake, nearly hidden behind its mass and shine. |
-| sensation ghosts | n. 感觉的残影（sensation 的复数所有格 ghost） | She gasped, feeling the sensation ghosts of arctic chill and impossible heat blast through her and vanish. |
-## 一句话总结
 | shadowspace | n. 影空间（折叠空间，超光速航行所经） | The sky lit up with green subreal flashes as a Wisdom cruiser dropped out of shadowspace. |
 | visible-light | adj. 可见光的 | Her battered combat suit wouldn’t pick it up yet, but in the visible-light spectrum human eyes were a long-range sensor that the majo always underestimated. |
 | underestimated | v. 低估（underestimate 的过去式/过去分词） | Her battered combat suit wouldn’t pick it up yet, but in the visible-light spectrum human eyes were a long-range sensor that the majo always underestimated. |
@@ -136,7 +133,8 @@ modified: "2026-10-01"
 | civilization | n. 文明 | It was their name for themselves, for their civilization, for their language, and for the source of their power. |
 | triumphantly | adv. 得意地，胜利地 | Kyr swore triumphantly as the panel came loose and fell away—fifty thousand feet to the ocean below—and used the gun in her free hand to shoot two fighters out of the sky without looking around. |
 | brightfire | n. 炽焰弹（majoda 的一种致残武器） | It was Aulus Jole, newly crippled by majo brightfire, who’d been only a handful of instants too late. |
-| new-forged | adj. 新凝成的（新结成的） | She saw the blue planet unraveling in her dreams, and felt it as the void pulling shards of new-forged ice out of her own heart; and she hadn’t been there. |
+| new-forged | adj. 新凝成的 | She saw the blue planet unraveling in her dreams, and felt it as the void pulling shards of new-forged ice out of her own heart; and she hadn’t been there. |
+| hand-to-hand | adj. 徒手的，近身肉搏的 | Kyr knew where the other girls from Sparrow mess were: hand-to-hand practice mats, shooting range, volunteer rotations in Systems or Nursery. |
 | reluctantly | adv. 不情愿地，勉强地 | Kyr went anyway, reluctantly. |
 | uncomfortable | adj. 不自在的，不舒服的 | Cadet barracks were for sleeping; no one wasted time in the arcade but weaklings and traitors-in-waiting; and despite everything Kyr had always been taught and everything she knew she owed to her species—as a survivor, as a woman—she always got bored and uncomfortable in Nursery, the one wing that never turned female volunteers away. |
 | increasingly | adv. 越来越多地，日益 | She put Cleo out of her thoughts—Cleo was increasingly difficult to deal with lately, and Kyr didn’t want to think about her—and instead thought of nothing; but that nothing turned again and again into the unraveling death of her planet. |
@@ -175,7 +173,6 @@ modified: "2026-10-01"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| hand-to-hand | adj. 徒手的，近身肉搏的 | Kyr knew where the other girls from Sparrow mess were: hand-to-hand practice mats, shooting range, volunteer rotations in Systems or Nursery. |
 | defense platform | n. 防御平台 | The defense platform she was standing on was littered with the shells of shot-down enemy fighters. |
 | dart | n. 飞镖（一种小型无人飞行器） | She had six minutes before the dart’s course was irretrievable and the planet was doomed. |
 | jump hook | n. 跃迁钩 | She could use her jump hook to reach it, alerting the cruiser in the process and leaving herself with majo fightercraft to fend off while she tried to disable the bomb. |
@@ -189,6 +186,9 @@ modified: "2026-10-01"
 | dull headache | n. 那种钝痛（持续性头痛） | She’d run Doomsday four times today, and now she had the dull headache that happened when you spent too long in the agoge. |
 | free hand | n. 空着的那只手 | Kyr swore triumphantly as the panel came loose and fell away—fifty thousand feet to the ocean below—and used the gun in her free hand to shoot two fighters out of the sky without looking around. |
 | gloom | n. 幽暗，晦暗 | Dark pits opened in the cruiser’s underside, and rows of majo fighters buzzed into life in the gloom. |
+| hyperspatial feedback | n. 超空间干扰 | Kyr took a deep breath, narrowed her eyes to see past the hyperspatial feedback, and watched for the tiny dart coming through in the cruiser’s wake, nearly hidden behind its mass and shine. |
+| sensation ghosts | n. 感觉的残影（sensation 的复数所有格 ghost） | She gasped, feeling the sensation ghosts of arctic chill and impossible heat blast through her and vanish. |
 
+## 一句话总结
 
 她在一场模拟里第四次眼看地球死掉，被一句「干得好，Valkyr」打发出来，然后从弟弟嘴里听说——那个让她嫉妒了整个童年的胜利，其实只是一场游戏里的私下通话；可她当时还不知道，这正是她此后全书要面对的核心问题：**改变命运的是力量，还是有人在背后看着。**
