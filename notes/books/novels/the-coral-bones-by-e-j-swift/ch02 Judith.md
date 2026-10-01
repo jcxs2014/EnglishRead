@@ -97,7 +97,7 @@ modified: "2026-10-01"
 
 ## 本章词汇
 
-### ⭐⭐⭐
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
@@ -116,7 +116,7 @@ modified: "2026-10-01"
 | acquiescence | 默许；顺从（此处含贬义：表面答应） | But I knew better than to trust such easy acquiescence. |
 | incarceration | 监禁；关押 | For the alternative, incarceration at Government House, is frankly unthinkable. |
 | bloodletting | 放血（十八、十九世纪常见的医疗手段） | Mrs Bateman, who was sworn to secrecy even to her husband, had been well-rehearsed in her part (and handsomely recompensed for it too, although she had also endured at least one unnecessary bloodletting). |
-### ⭐⭐
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
@@ -132,7 +132,7 @@ modified: "2026-10-01"
 | treacherous | 背信弃义的（此处是叙述者对 Belinda 的反讽式评语） | Yes, sir, she is a woman now, said the treacherous Belinda, upon which Father examined me closer, evidently recalling some three years had passed since he had seen me last. |
 | humiliation | 羞辱；难堪 | This regard drew a flush of humiliation to my cheeks, and I folded my arms across my chest, the better to disguise the distressing afflictions of womanhood. |
 | hibernation | 冬眠 | The water dragon had unfortunately gone into its winter hibernation, and nothing could be seen of it other than the tip of its tail. |
-### ⭐
+### ⭐ 基础
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|

@@ -97,7 +97,7 @@ modified: "2026-10-01"
 
 ## 本章词汇
 
-### ⭐⭐⭐
+### ⭐⭐⭐ 高级
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
@@ -131,7 +131,7 @@ By now it was approaching midday, and the three of us retreated into the slim sh
 | premonitory | 预兆的；预示不祥的 | It would be too easy to see menace in the isolation, the oppressive heat, to give in to the premonitory feeling of the day. |
 | inhabitants | 居民；栖居者 | The reef’s most flaunted icon, for anyone familiar with its inhabitants. |
 | macroalgal | 大藻型的；被大型藻类覆盖的 | This reef had already flipped to a macroalgal state. |
-### ⭐⭐
+### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
@@ -154,7 +154,7 @@ By now it was approaching midday, and the three of us retreated into the slim sh
 
 
 Hana! called Aaron, who was still in the dinghy. |
-### ⭐
+### ⭐ 基础
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
