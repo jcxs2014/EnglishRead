@@ -42,7 +42,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：这句放在本应是重要转折的位置，却被换衣间的粗鄙玩笑占满。作者用一句把整段严肃的路线讨论打断，读者跟着笑出声，而 Joan 换衣服的这几分钟里，社交压力已经悄悄松了一层——人物关系是在插科打诨里改变的。
 
-**读者视角提示**：注意紧接在后面的是 Aaron 现身换装，却被 Joan 评成"剪裁不对"。这一晚她对 Aaron 的每句评价都在拆他的男性形象，读者到最后才会发现她拆的正是他赖以自保的那层壳。
+**读者视角提示**：注意紧接在后面的是 Aaron 现身换装：Joan 先问"这件 T 恤哪里不对"，回话的却是 Aaron 自己——"剪裁不对。"这一晚她对 Aaron 的每句评价都在拆他的男性形象，读者到最后才会发现她拆的正是他赖以自保的那层壳。
 
 > **原句 4:** ‘I’ve been wondering,’ Aaron said to Ying from his place at the pillar. ‘You identified our families just by looking at us.’ It was a detail that Joan hadn’t noticed. ‘A Hunt and an Oliver. How did you know that?’
 
@@ -50,7 +50,7 @@ modified: "2026-10-01"
 
 **关键词**：identified our families just by looking at us（只是看一眼就认出了我们的家族）/ from his place at the pillar（在他靠着的那根柱子边）/ a detail that Joan hadn’t noticed（一个 Joan 没注意到的细节）
 
-**为什么这样写**： Aaron 提的这个问题，实则是他在秀自己的家族有多强——"认出族裔"是 Oliver 的权力，不是 Liu 的。作者把炫耀写成提问，又顺手提醒读者 Joan 全程没注意到，暗示这场交易里她并不是主导者。
+**为什么这样写**： Aaron 提的这个问题，实则是他在秀自己的家族有多强——"认出族裔"是 Liu 家的记谱之能，不是 Oliver 的。作者把炫耀写成提问，又顺手提醒读者 Joan 全程没注意到，暗示这场交易里她并不是主导者。
 
 **读者视角提示**：这句提问真正逼出的不是 Liu 的记忆能力，而是那段家族口诀——Olivers see. Hunts hide. 十二家族的权力一口气念完，像儿歌。后面 Aaron 会说每个怪物小孩都熟知这段押韵。
 
@@ -62,7 +62,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：作者不写 Ying 的表情，只写他声音里的 sad reverence——虔敬却悲伤，正是相信"我们不是原版"的人会有的语气。这也解释了为什么他先讲完就不再往下说：这不是他编的信仰，是他家族世代守护的东西。
 
-**读者视角提示**：他说 some people believe 开头，把这套说法划到"少数派信仰"里；而 Aaron 立刻用一句"边缘信仰"把它按下去。读者要靠后面 Aaron 自己想起除他之外没人这么说过，才明白谁才是少数派。
+**读者视角提示**：他说 some people believe 开头，把这套说法划到"少数派信仰"里；而 Aaron 立刻用一句"边缘信仰"把它按下去。读者要靠 Aaron 后来的动摇，才明白谁才是少数派。
 
 > **原句 6:** ‘All I can tell you is that it’s held at a place called the Monster Court.’ Ying was still looking at her with that new attention. ‘The seat of the King’s power. And you don’t need to ask me how to get to it.’ He picked up the necklace, and, to Joan’s surprise, placed it back into her hand, coiling it slowly before letting the end drop. ‘You have a key.’
 

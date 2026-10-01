@@ -7,7 +7,7 @@ modified: "2026-10-01"
 
 ## 本章导航
 
-- **一句话概括**：Joan 以为走进餐馆只是躲开人群，却在对面坐下的是 Nick；一句 "I’m human" 把他从"怪物家族的凶手"改写成"另一个物种的执法者"，接着他要走了吊坠、亮出刀，而 Joan 当着他的面宣告要杀他——本章结束时，两人仍然互相握着手。
+- **一句话概括**：Joan 以为走进餐馆只是躲开人群，却在对面坐下的是 Nick；一句 "I’m human" 把他从"怪物家族的凶手"改写成"另一个物种的执法者"，接着他要走了吊坠、亮出刀，而 Joan 当着他的面宣告要杀他——本章收在 Nick 松开她的手腕、退开一步持刀戒备上。
 - **情感弧线位置**：全书最低点与最高点同时落在这一场早餐里：Joan 的世界观塌了一次，她自己的杀意却第一次成形，结尾那句 "Aren’t we all" 把复仇对象推回到不确定的位置。
 - **叙事手法**：全章几乎只有两个人与一张桌子，作者用第三人称介入不断插进来做旁白评判——旁白替读者说出"那不是真实的 Nick"，而 Nick 本人一句也没承认过自己变了。
 - **核心线索**：Nick 说 "I’m human."，整个"猎杀怪物者"的立场被一句话掀翻；他承认自己找过吊坠，说 "I looked for this at the house."，Gran 之死因此多出一个她此前没算进去的解释；他把 "I’m going to kill you." 当作预言听完后只回 "Aren’t we all."，他说的是时间线上人人都会死。
@@ -22,7 +22,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：全章第一句就用三个连续动作把距离归零——shot out 是速度，clamping 是力度，而第三句把声音转回她自己的身体内部。恐怖不写在他脸上，写在 Joan 听见自己的呼吸被卡住这件事上。
 
-**读者视角提示**：注意这个动作和前一章 Aaron 抓住她手腕时的力度被刻意做了区分。同一双手，在不同人身上意味着不同的暴力，读者到此刻才意识到 Joan 一直在被各种"保护"夹着前进。
+**读者视角提示**：注意这个动作和 Aaron 一路搀扶她时的手劲被刻意做了区分。同一双手，在不同人身上意味着不同的暴力，读者到此刻才意识到 Joan 一直在被各种"保护"夹着前进。
 
 > **原句 2:** ‘No!’ Nick’s jaw tightened. ‘I’m human.’
 
@@ -42,7 +42,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：三个排比句像清单一样念下去，每一句都比前一句更具体，从类别收到家族再收到两个大家族。作者让 Nick 说出他最难听的一段话时，语气反而是冷的——他不是在辩解，是在做陈述。
 
-**读者视角提示**：注意这套说辞的漏洞被 Joan 指出过：偷过时间的还有人类那边的人吗？Nick 的回答是 "The humans they stole from."，用"他们"把受害者划成另一群人。读者要记住这个分裂的用词，它是后面一切反转的起点。
+**读者视角提示**：注意这套说辞的漏洞是他自己点出来的——"The humans they stole from."：Joan 说 "You're killing people!" 时，Nick 回的正是这句，用"他们"把受害者划成另一群人。读者要记住这个分裂的用词，它是后面一切反转的起点。
 
 > **原句 4:** Nick shifted subtly, changing his grip on Joan, making it look more like they were holding hands. His posture changed too, loosening out of dangerous into something gentler.
 
@@ -62,7 +62,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：Joan 问的是杀人的感受，Nick 用一个去掉主语、去掉情感的中性句回答。作者不写他变脸，只用一个逗号加一个句号：目光坚硬。危险。两个词各自独立成句，冷得像判决书。
 
-**读者视角提示**：这是本章第二次称呼 him as the new Nick——上一次 Joan 以为看见旧 Nick 时，她马上否认了它；这一次是叙述者直接确认。这一来一去，就把 Joan 的挣扎完整地摆出来了：她想相信旧的那个，而作者不让。
+**读者视角提示**：本章两次把他称作 the new Nick，两次都是叙述者的笔；Joan 自己那一次否认用的是另一句——"That Nick had never existed."这一来一去，就把 Joan 的挣扎完整地摆出来了：她想相信旧的那个，而作者不让。
 
 > **原句 6:** He gave her his familiar solemn smile, the one that he’d given her all the time at the house. ‘Aren’t we all,’ he said. ‘Somewhere on the timeline.’
 

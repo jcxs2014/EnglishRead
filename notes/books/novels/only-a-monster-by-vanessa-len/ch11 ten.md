@@ -22,7 +22,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：作者把全书情绪最重的一次重逢交给一个慢动作——摸头发，而不是拥抱。开头那句 owed me 把两年逃亡的代价一次性交代掉：Ruth 是靠一笔笔还人情找到 Joan 的，所以这次重逢不是巧合，而是她主动清算的结果。
 
-**读者视角提示**：注意这次是指尖的动作。同一种描写在本章后面会以完全不同的力度回来——抓住手腕、攥住不放。读者要到夜里才会明白这双手既摸过头发，也握过刀。
+**读者视角提示**：注意这次是指尖的动作。同一种「指尖」在全书别处会以完全不同的力度回来——Nick 双手扣住她的手腕，那双手里随即就有一把刀。读者要读到那里才明白这双手既摸过头发，也握过刀。
 
 > **原句 2:** ‘Go?’ Joan said. From downstairs, voices rose, raucous and drunk. Ruth’s eyes flicked to the door. That was different too. Ruth was usually brazenly confident, but this version of her seemed as watchful as an animal. ‘Go where?’ Joan said.
 
@@ -62,7 +62,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：在喝茶吃派的一小段安宁之后，作者用一句平静的陈述把空气掀开。被动语态 isn’t recorded 后面没有施动者——是没人记录，还是记录被人动过手脚？作者把这个问题留给读者，自己不作答。
 
-**读者视角提示**：hand shaking a little 和他说话时的克制形成反差，说明他早就认定这件事不对，只是一直没有可以说的人。同一杯茶，接下来就由 Aaron 自己打翻。
+**读者视角提示**：hand shaking a little 和他说话时的克制形成反差，说明他早就认定这件事不对，只是一直没有可以说的人。同一杯茶再没被端起来——他放下它时手还在抖。
 
 > **原句 6:** ‘In the myths,’ Aaron said now, ‘the human hero is the end of days. He kills the first monster, unravelling us all so that monsters never exist. We’re never born.’
 

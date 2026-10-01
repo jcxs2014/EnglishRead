@@ -52,7 +52,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：作者把"偷来的时间只有一份"这条硬规则交给一个交通比喻。跳过一次就没了、再跳就是没有刹车——这让能量守恒听起来像新手驾驶，而不是玄学。Joan 的误解（以为还剩一点）和他的一致（以为还能再来一次）在同一句话里并置。
 
-**读者视角提示**：注意他用的是 you didn’t know，不是 you couldn’t。责任落在"不知道"而非"做不到"上——这与他上一章怪 Hunt 家"没教她基本安全"是同一笔账，读者能听出他把"她的无知"归到家族教育上。
+**读者视角提示**：注意他用的是 you didn’t know，不是 you couldn’t。责任落在"不知道"而非"做不到"上——这与他本章后面怪 Hunt 家"没教她基本安全"是同一笔账，读者能听出他把"她的无知"归到家族教育上。
 
 > **原句 5:** ‘Big hair, but not giant hair,’ Aaron said. ‘And no neon. So we’re not in the eighties. No Rachel haircuts either, so this must be pre-Friends. That’s a window of 1990 to 1994. After that, it’s easy enough to narrow it down. That man’s phone.’
 

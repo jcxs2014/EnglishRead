@@ -62,7 +62,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：这是全章最冷的一段攻击，因为它的威胁不是刀，而是一份族谱。Edmund 用的每个动词都在处理"名分"——除名、剥名。姓氏在这本书里是通行证，也是枷锁，因此这一句同时威胁到 Aaron 当晚唯一的伪装。
 
-**读者视角提示**：注意作者让 Aaron 全程保持"careless"的姿态，一个字都没有反驳。真正的伤口藏在 Joan 的观察里，而 Edmund 说完这句后立刻发现自己引来了围观。
+**读者视角提示**：注意作者让 Aaron 全程保持"careless"的姿态，可 Edmund 一提到新继承人，他当场就顶回一句"我还以为这池子这么浅"。真正的伤口藏在 Joan 的观察里，而 Edmund 说完这句后立刻发现自己引来了围观。
 
 > **原句 6:** ‘Royal escape route.’ Aaron sounded grudgingly impressed. ‘Every palace has one.’
 
