@@ -22,7 +22,7 @@ source_text: ch21_chapter_20.txt
 
 **关键词**：no love in the Alexander house / the habit of being together / the fear of even greater loneliness
 
-**为什么这样写**：两个短句先把「爱」除名，再把替代物命名为 `habit`（习惯）——习惯是被动、无情感投向的。用 `and, I suppose, the fear of even greater loneliness`（和——我想——对更大孤独的恐惧）把动机补上时，还加了插入语 `I suppose`（我想），承认这是她的推测而非观察。`even greater`（更大的）说明两种孤独有高低之分：留在家里也有孤独，但外面的更大。
+**为什么这样写**：两个短句先把「爱」除名，再把替代物命名为 `habit`（习惯）——习惯是被动、无情感投向的。同一段的 `and, 1 suppose, the fear of even greater loneliness`（和——我想——对更大孤独的恐惧）把动机补上时，还加了插入语 `1 suppose`（我想），承认这是她的推测而非观察。`even greater`（更大的）说明两种孤独有高低之分：留在家里也有孤独，但外面的更大。
 
 **读者视角提示**：这句为整章的出走提供了最冷静也最不容反驳的理由——她不是在追求爱，而是在逃离更大的孤独。
 
