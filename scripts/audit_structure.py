@@ -379,7 +379,12 @@ def main():
                 os.path.join(book, 'text', 'ch%02d*.txt' % sno)):
             mapping.append((name, 'source_text 指向 ch%02d，但 text/ 无该章提取件' % sno))
         if hno is not None and fno is not None and hno != fno:
-            mapping.append((name, 'H1「第 %d」↔ 文件名 ch%02d 不一致' % (hno, fno)))
+            # 2026-10-01 修正假红：Prologue 占 md ch01 时，书内「第 N 章」= md 章号 - 1。
+            # Nexus 实测 11 条误报全是这个形态（ch02↔H1「第 1」…ch12↔H1「第 11」）。
+            # AGENTS 已定「两侧命名不同 ⇒ 按章号映射」，而 prologue 让偏移恒为 1，
+            # 旧口径拿 H1 直接比文件名必然全量假红——先修工具，不许照单去改 md。
+            if not (fno - hno == 1 and glob.glob(os.path.join(book, 'text', 'ch01*.txt'))):
+                mapping.append((name, 'H1「第 %d」↔ 文件名 ch%02d 不一致' % (hno, fno)))
 
         # ── D. 必备节名（多数派口径）
         if not is_overview:
