@@ -96,7 +96,7 @@ Metronome（Tom Watson，Bloomsbury 2022）精读完工 + **独立五步审查�
 
 **写作期自抓自修 5 处**（均为门禁或自查当场抓到、当场修）：ch03 草稿犹豫标记 1 处；ch05 词表例句改写词 1 处；ch19/ch20 年份标签 1943→1944 修正；ch22 导航未知实体 Verlaine 2 处改中文表述；ch25 词表例句凭记忆改写 1 处＋ch28 例句漏主语 1 处。**阻断型 0 遗留**。
 
-**commit**：本书 36 次（本地，**未 push**，按红线等指令）｜原始门禁输出 `.memory/raw-gates/the-librarian-spy-by-madeline-martin/2026-10-01-final_gates.txt`｜明细见工作日志 2026-10-01 本书专节。**五步审查未做（待用户发起）**。
+**commit**：本书 36 次（本地，**未 push**，按红线等指令）｜原始门禁输出 `.memory/raw-gates/the-librarian-spy-by-madeline-martin/2026-10-01-final_gates.txt`｜明细见工作日志 2026-10-01 本书专节。五步审查已于当日完成（见下方审查段）。
 
 **《The Librarian Spy》（the-librarian-spy-by-madeline-martin）【审查结论就地追加】独立五步审查（a–e 全跑，审查方＝执行方同会话，用户 2026-10-01 发起）：查出 34 处阻断型，已全部整改并复验。**
 
