@@ -1,0 +1,13 @@
+抽出分析层英文片段 722 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）10 条 —— 只报不判红，须人判：
+  ch06 chapter five.md:76  a wedge for them to use on him at the polls
+  ch06 chapter five.md:100  cockroaches won’t hold up to a spotlight
+  ch09 chapter eight.md:89  She was paying much closer attention later
+  ch16 chapter fourteen.md:76  not finding fault with Ashley or blaming postpartum depression
+  ch16 chapter fourteen.md:88  she couldn’t think of an argument she wanted to make
+  ch18 chapter sixteen.md:14  notes on this case are shamefully thin
+  ch27 chapter twenty four.md:101  consider things cordial
+  ch40 interstitial.md:40  I only protecting my family
+  ch51 chapter forty four.md:88  Robbie wouldn’t have given up that car of his for the world
+  ch69 chapter sixty.md:54  he had started to say these things aloud

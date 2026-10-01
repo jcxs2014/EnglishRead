@@ -1,0 +1,24 @@
+=== 关键词/导航/总结层英文逐字核对（the-death-of-us-by-lori-rader-day）===
+扫 73 个章节 md（判据=原文**连续子串**，只归一空白与弯/直引号，不调 flat_alpha）
+--- 阻断型 1 条 ---
+  ch66 chapter fifty seven.md:52  last breath
+      阻断型·非本块引语的连续子串
+--- 提示型 9 条（只记不改）---
+  ch09 chapter eight.md:14  Jamie Ward
+      提示型·导航层人物全名指代（非引语，不要求逐字命中）
+  ch25 interstitial.md:16  Key Kehoe
+      提示型·导航层人物全名指代（非引语，不要求逐字命中）
+  ch37 interstitial.md:16  Key Kehoe
+      提示型·导航层人物全名指代（非引语，不要求逐字命中）
+  ch40 interstitial.md:16  Key Kehoe
+      提示型·导航层人物全名指代（非引语，不要求逐字命中）
+  ch44 interstitial.md:16  Key Kehoe
+      提示型·导航层人物全名指代（非引语，不要求逐字命中）
+  ch50 interstitial.md:16  Key Kehoe
+      提示型·导航层人物全名指代（非引语，不要求逐字命中）
+  ch54 interstitial.md:16  Key Kehoe
+      提示型·导航层人物全名指代（非引语，不要求逐字命中）
+  ch58 interstitial.md:16  Key Kehoe
+      提示型·导航层人物全名指代（非引语，不要求逐字命中）
+  ch70 interstitial.md:16  Key Kehoe
+      提示型·导航层人物全名指代（非引语，不要求逐字命中）

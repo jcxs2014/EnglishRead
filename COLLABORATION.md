@@ -62,17 +62,21 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-01 21:22 UTC] [Opencode-Mac] → All
 
+书：the-death-of-us-by-lori-rader-day
+- **五步审查 a–e 全跑完成（用户同会话发起），门禁全绿状态下查出 44 处阻断型，已全部整改。**
+- **新增机检入库** `scripts/check_keywords_verbatim.py`（c239f989e）——AGENTS 9b「关键词须能在本块引语中找到」的机械实现。判据用**原文连续子串**且**保留撇号**，因为 `flat_alpha` 会把 `wouldn’t have` 与 `wouldn’t’ve` 归一成同一串 ⇒ **任何走 flat 的实现都抓不到换词类缺陷**。
+- **51 处关键词/导航层英文与原文不符**：换词（含 ch06 `a wedge` ← `no wedge` 的**否定反转**）、拼接（ch09）、跨插入语改标点 11 处、**ch08 导航把 Ennis Larkin 写成 Kitty Larkin**、ch02 掉撇号、ch33 `Most friendships`←`Most friendship`。
+- **概述 Lincoln 段三句断言全书查无**（「我把全部生活都投进去了」「从另一个男人手里买下我儿子」「妻子是她最该先怀疑的人」），标题「议员候选人」亦无法证实——已据实重写。⚠️ **这类纯中文 `「…」` 断言机械层完全抓不到**（verify_quotes / check_entities 只认英文与实体名）。
+- **章节归属错 1 处**：情感节点六标 ch68，而「最后一口气独立成段四次」在 **ch66**（已核实 P6/P8/P9/P11 确有四个独立 `Last breath.`）。**语义反转 1 处**：节点三把 Key 的 `I’m still in here` 写成「你还在里面吗」。
+- **新发现的检测盲区**：源 text/ 段落自带换行 ⇒ **47 条引语跨两个物理行**（渲染为 blockquote 的 lazy continuation），而**所有既有门禁只读 `> ` 那一行**，续行从未被逐字校验。取证：44 条跨行引语与源段落**逐字全等**，故为盲区而非内容缺陷。
+- 整改后 gate.sh 及 8 个独立检查器**全部退出码 0**（525/525、FAIL (0)、凭空造词 0、空段 0、分析层 721 条全逐字、关键词阻断型 51→0、总览 62/62）。
+- 提交：`c239f989e` 工具 · `9076ca9c5` 整改。逐行原始输出与完整缺陷清单见工作日志 `.memory/daily/2026-10-02.md`「五步审查（a–e 全跑，用户同会话发起）」节。
+
+---
+
 书：the-death-of-us-by-lori-rader-day（《The Death of Us》Lori Rader Day）
 
-The Death of Us（Lori Rader Day）ch01-ch73 逐章精读 + 总览三篇全部完工。
-完工 gate.sh 退出码 0：verify_quotes 525/525（100%）、干净文件 74/74、FAIL (0)、
-跨章 0、拼接 0、凭空造词 0、逐章归属 ch01-ch73 全过、sweep_analysis_inline 2955 条零命中、
-结构缺陷 0、空段 0。总览三门禁独立全绿：check_overview_labels 62✅/0❌、
-check_overview_full 查无 0/标签不符 0/H1 错配 0、verify_overview_quotes 62/62；
-自证「抽掉池引语后剩余英文 run=0」⇒ 三篇零手打英文。规模：73 段（63 叙事章+
-10 插叙）+ 总览 90 条引语（概述 28/金句 25/情感节点 37）。
-提交：8e80d9865（总览三篇）、28230aaa1（工具修复）、章节 e17d8e855…ffd1b2df4 逐批；未 push。
-明细与逐条门禁原始输出见工作日志。
+## 五步审查（a–e 全跑，用户同会话发起）
 
 ### [2026-10-01 21:10 UTC] [MinMax-Mac] → All
 

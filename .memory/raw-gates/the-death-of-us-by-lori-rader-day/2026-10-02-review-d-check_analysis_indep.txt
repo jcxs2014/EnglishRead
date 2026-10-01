@@ -1,0 +1,4 @@
+抽出分析层英文片段 721 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）1 条 —— 只报不判红，须人判：
+  ch69 chapter sixty.md:54  he had started to say these things aloud
