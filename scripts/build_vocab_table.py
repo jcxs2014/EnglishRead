@@ -188,6 +188,21 @@ def sentences(text: str) -> list[str]:
     被切开，例句只剩 `“You’re hyperventilating,”`——**与上面这条判据直接矛盾**，
     属实现与判据脱节（不是抄写错误，是当初只顾修 ② 漏了 ①）。
     A/B 三本书 45 章：片段例句 6→5 / 1→0 / 0→0，零回归。
+
+    ⚠️⚠️ **未修的已知缺陷：敬称缩写被当成句末**（2026-09-30 House of Glass ch52
+    实测，`grep -rl 'Ms\\.' --include='ch*.txt' notes/books/` = **325 章**命中）：
+    `[.?!]` 会在 `Ms.` 之后断开，于是
+    `Unlike Ms. Barclay, who appeared to consider her words carefully before
+    speaking, Mr. Barclay presented as uncalculating and forthright.`
+    被切成两条，例句抽成 **`Barclay presented as uncalculating and forthright.`**
+    ——以姓氏开头、真实句子被拦腰截断。`is_complete_sentence` 的「首字母大写
+    开头」判据抓不到（`Barclay` 本身大写开头）。
+
+    ⚠️ **本次未修的理由**：改这一处要动全库 325 章共用的断句口径，而
+    「`.` 后面跟 `Mr. Smith`」与「句号 + 新句以 `Mr.` 开头」在字面上**不可分**
+    （`He left. Mr. Smith arrived.` 与 `Unlike Ms. Barclay, …` 同形），
+    任何否定前瞻都会连带吞掉真句末 ⇒ 回归面覆盖全库，超出单章写作的授权范围。
+    故保留原样，例句照脚本输出粘贴（见 ch52 词表），缺陷在此登记待专章修复。
     """
     flat = re.sub(r"\s+", " ", text.replace("\n", " "))
     parts = re.split(r"(?<=[.?!])\s+|(?<=[.?!][”’])\s+", flat)
