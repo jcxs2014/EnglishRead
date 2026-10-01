@@ -22,11 +22,11 @@ modified: "2026-10-01"
 - **为什么这样写**：一次极短的时间切换。Back to（回到）两个字宣告这不是新故事，是**折返**；dreadful（可怕的）则先把这一整年定性，再让读者进入。作者不解释是哪一天、发生了什么，只给年份——而这个年份在前面章节里已经被反复标记为分水岭（ch27 里她说 1997 年是最鲜明的一年，记忆一次次顶到前面）。这一句也把读者的位置摆清楚了：**你将离开现在三十七章的重量，回去看它是怎么来的**。
 - **读者视角提示**：⚠️ 本章**没有给出具体日期**。写分析时不要替原文补月份。
 
-> **原句 2:** The room is cast in a subdued glow, the warm light of a lone lamp on the nightstand carving out a small pocket of comfort amid the encroaching darkness. My fingers tremble as they brush against my distended belly, the evidence of my hidden transgressions.
+> **原句 2:** The room is cast in a subdued glow, the warm light of a lone lamp on the nightstand carving out a small pocket of comfort amid the encroaching darkness. I perch on the edge of the bed, my body weighed down by the burden of my secret. My fingers tremble as they brush against my distended belly, the evidence of my hidden transgressions.
 
-- **中文理解**：房间笼罩在一片柔和的暗光里，床头柜上那一盏孤灯的暖光，在逼近的黑暗中 carve 出一小块舒适。我的手指发抖，擦过我隆起的肚子——那是我隐秘过错的证据。
-- **关键词**：subdued glow（柔和的暗光）／a lone lamp（一盏孤灯）／carving out（ carve 出来，凿出）／encroaching darkness（逼近的黑暗）／distended belly（隆起的肚子）／the evidence of（……的证据）
-- **为什么这样写**：这一段是**文体转折的样本**，也是她平时那种口吻的反面。前面章节里她写自己从不这样铺陈氛围，作者在这里却用了一整段分词与隐喻：光是"凿出来的"（carving out），黑暗在"逼近"（encroaching），舒服的地方被写成一块**被围出来的**领地。而最后半句把胎儿直接说成 evidence（证据）——她连自己的肚子都当成对自己不利的物证。这个词把整段气氛一下子拉回冷。
+- **中文理解**：房间笼罩在一片柔和的暗光里，床头柜上那一盏孤灯的暖光，在逼近的黑暗中 carve 出一小块舒适。我坐在床沿上，身体被秘密的重量压着。我的手指发抖，擦过我隆起的肚子——那是我隐秘过错的证据。
+- **关键词**：subdued glow（柔和的暗光）／a lone lamp（一盏孤灯）／carving out（ carve 出来，凿出）／encroaching darkness（逼近的黑暗）／weighed down by the burden of my secret（被秘密的重量压着）／distended belly（隆起的肚子）／the evidence of（……的证据）
+- **为什么这样写**：这一段是**文体转折的样本**，也是她平时那种口吻的反面。前面章节里她写自己从不这样铺陈氛围，作者在这里却用了一整段分词与隐喻：光是"凿出来的"（carving out），黑暗在"逼近"（encroaching），舒服的地方被写成一块**被围出来的**领地。作者随即用 **weighed down by the burden of my secret**（被秘密的重量压着）把这块舒适地立刻压塌——这不是松了口气的时刻。最后半句更狠：她把胎儿直接说成 evidence（证据），连自己的肚子都当成对自己不利的物证。这个词把整段气氛一下子拉回冷。
 - **读者视角提示**：⚠️ 这一段里的"证据"指的是**她吸毒这件事**，不是孩子的状况。原文在这一层上不给别的暗示。
 
 > **原句 3:** “Just one more time. Just one more time, and then I can stop using.”
