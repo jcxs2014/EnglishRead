@@ -41,7 +41,7 @@ modified: "2026-10-01"
 - **中文理解**：「我盯着歌词唱——地板上的血／我漂向岸边——努力让自己留在歌里。」
 - **关键词**：the blood on the floor · I float up to shore · stay in the song
 - **为什么这样写**：歌词的两行意象（血与漂流）在此刻有三重身份：Holden 的 James 之死、Caleb 的 Ghost 溺水感、以及一次公开演出的恐惧预演；stay in the song 像对自己下的锚——这首歌本来就是写给「差一点消失的人」的。
-- **读者视角提示**：Ducks on the Pond 的歌名出自 Holden 问出租车司机的鸭子段—— Jack 荧光笔划过的那一段；父子两代人在同一首歌里交接。
+- **读者视角提示**：Ducks on the Pond 的歌名出自 Holden 问出租车司机的鸭子段—— Jack 荧光笔划过的那一段；兄弟两代人在同一首歌里交接。
 
 > **原句 5:** Jack was dead, but he wasn’t gone—he was everywhere, the fact of his death permeating everything, his absence a constant.
 
@@ -54,7 +54,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「我受不了父亲想重看 Jack 的家庭录像，受不了他就这么坐着、盯着我像不认识我，更受不了 Jack 曾经那么像父亲——以至于如今我看着父亲，还能认出我哥哥的倒影、认出那双蓝眼睛和尖鼻子源自何处。」
 - **关键词**：staring at me like he didn’t recognize me · the reflection of my brother · the origin of his blue eyes
-- **为什么这样写**：三个受不了层层加码，最后一层最狠——父亲的脸上住着儿子；reflection 与 origin 两个词把哀伤与遗传学焊在一起。第四章的 outline of Jack 在此升级为 full reflection。
+- **为什么这样写**：三个受不了层层加码，最后一层最狠——父亲的脸上住着儿子；reflection 与 origin 两个词把哀伤与遗传学焊在一起。第三章的 outline of Jack 在此升级为 full reflection。
 - **读者视角提示**：这场爆发不是针对「看录像」，是针对「到处都是他」；请留意 Caleb 吼完就逃——他对家人的怒气永远以撤退收场。
 
 > **原句 7:** Friday couldn’t come fast enough.

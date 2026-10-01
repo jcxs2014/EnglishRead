@@ -40,7 +40,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「看另一个人接收这个消息，感觉很奇怪。我在他垮下去的脸上、在他眼睛后面的什么东西里，看见了我自己。」
 - **关键词**：watching someone else receive that news · I saw myself
-- **为什么这样写**：Caleb 第一次以旁观者身份目睹「收到死讯」——五个月前自己那套表情被原样播放；face fell 与 the look behind his eyes 是镜子内外的一对。共情在此以恐怖的方式达成。
+- **为什么这样写**：Caleb 第一次以旁观者身份目睹「收到死讯」——五个多月前自己那套表情被原样播放；face fell 与 the look behind his eyes 是镜子内外的一对。共情在此以恐怖的方式达成。
 - **读者视角提示**：这一段为后面的爆发供能——他不忍看别人受他受过的疼，偏偏又是他自己递出去的刀。
 
 > **原句 5:** “Well, I’ve seen enough people go down that road that I knew that’s where he was headed.”
@@ -62,7 +62,7 @@ modified: "2026-10-01"
 - **中文理解**：「可我已经不在乎了。我想逃出我自己的脑子。我想变成另一个人。我想死。」
 - **关键词**：out of my mind · someone else · dead
 - **为什么这样写**：三个 I wanted 递降成三级台阶——从「逃离意识」到「换一个人」到「不存在」，一步比一步彻底；作者不解释、不软化，短句直接落地。这是全书第一次把「死」字放进 Caleb 自己的愿望里。
-- **读者视角提示**：这一段与 ch03 的 Would You Rather、ch02 的 escape myself 连成线——酒精在这里不再是社交润滑剂，而是慢性自毁的燃料；Emmett 与读者的警觉应同时拉满。
+- **读者视角提示**：这一段与 ch03 的 Would You Rather、ch06 的 escape myself 连成线——酒精在这里不再是社交润滑剂，而是慢性自毁的燃料；Emmett 与读者的警觉应同时拉满。
 
 > **原句 8:** All I remembered was looking out the passenger window as Emmett drove, watching as the stars blinked at me, the haze of the dark, and, in the side-view mirror, Ghost’s form in the back seat.
 
@@ -98,7 +98,7 @@ modified: "2026-10-01"
 | go down that road | 走上那条（不归）路 | I’ve seen enough people go down that road |
 | forcefully | 冲口而出地重 | I didn’t realize it came out as forcefully as it did |
 | insistence | 执意、坚持 | something about his insistence on watching home videos together bothered me |
-| itch — no。改：itching for something to happen | 痒着盼出事 | I was itching for something to happen. |
+| itching for something to happen | 痒着盼出事 | I was itching for something to happen. |
 
 ### ⭐ 基础
 

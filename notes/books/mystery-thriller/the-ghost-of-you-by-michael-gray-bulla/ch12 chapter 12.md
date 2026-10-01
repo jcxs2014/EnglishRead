@@ -19,14 +19,14 @@ modified: "2026-10-01"
 
 - **中文理解**：「房间又乱，却又莫名空得让人难受。像没人住过。母亲翻过他的五斗柜，抽屉一个个空着躺在地板上，被掏空了。」
 - **关键词**：upsettingly empty · Unlived in · gutted
-- **为什么这样写**：两个大写短语像批注一样插进叙述——Unlived in 用房产广告的语法说「这里已经没有生命」；gutted 本是形容动物被开膛的词，用在抽屉上，清房便有了解剖的意味；「乱」与「空」并存，正是收拾到一半的死亡现场。
+- **为什么这样写**：大写插入语 Unlived in 像批注一样插进叙述，用房产广告的语法说「这里已经没有生命」；gutted 本是形容动物被开膛的词，用在抽屉上，清房便有了解剖的意味；「乱」与「空」并存，正是收拾到一半的死亡现场。
 - **读者视角提示**：这一章的所有动作（私拿香烟、偷走 thumb drive）都发生在这个被掏空的房间里——Caleb 的「偷」，是他唯一还能对哥哥做的占有。
 
 > **原句 2:** I wondered if he saw himself in Holden Caulfield, if he ever thought about running away, the way that Holden did. I wondered if he ever struggled to connect to people—if he ever reached out, over and over again, in the only way he knew how, only to be shot down every time.
 
 - **中文理解**：「我想他是否在 Holden 身上看见了自己，是否也想过一走了之，像 Holden 那样。我想他是不是也很难与人连接——是不是也曾用他唯一会的方式一次次伸出手，却一次次被打了回来。」
 - **关键词**：saw himself in Holden Caulfield · reached out, over and over again · shot down every time
-- **为什么这样写**：三个 I wondered 递进，把读书笔记变成性格侧写——reached out 与 shot down 是一组 violently 对位的动词组，中间隔着的 over and over again 是全书重复出现的时间语法（失去在重复，伸手的失败也在重复）。Caleb 读完批注后替哥哥把书读成了传记。
+- **为什么这样写**：两个 I wondered 递进，把读书笔记变成性格侧写——reached out 与 shot down 是一组 violently 对位的动词组，中间隔着的 over and over again 是全书重复出现的时间语法（失去在重复，伸手的失败也在重复）。Caleb 读完批注后替哥哥把书读成了传记。
 - **读者视角提示**：注意这组猜想与第九章页边批注（being brushed off? trying to reach out to people?）直接对上——哥哥的笔迹正在教弟弟读自己。
 
 > **原句 3:** for me, it was as if acknowledging that I was trans opened the dysphoria Pandora’s box, and suddenly it was debilitating.
@@ -91,7 +91,7 @@ modified: "2026-10-01"
 | catalyst | 催化剂、契机 | and it was the catalyst for our routine of watching movies together that summer. |
 | exponentially | 成倍地、急剧地 | My crush had seemed to grow exponentially since Saturday |
 | per se | 本身、严格来说 | She didn’t seem mad at me, per se |
-| meticulously之外——annoyingly predictable | 俗得让人恼火地可预测 | it was so cliché of me, so annoyingly predictable |
+| annoyingly predictable | 俗得让人恼火地可预测 | it was so cliché of me, so annoyingly predictable |
 
 ### ⭐ 基础
 

@@ -36,7 +36,7 @@ modified: "2026-10-01"
 - **为什么这样写**：gone 与 replaced 是一记双重打击——先宣布失去，再宣布顶替；stranger 不带任何修饰，比「病人」「成瘾者」都冷。这句话说的是他十三岁那年，用的却是丧礼的语法——哀悼在死亡之前就开始了。
 - **读者视角提示**：原文接下来两句更狠（「我想他。甚至在他死之前。」）——本章的悼词结构在此定型：Caleb 对 Jack 的哀伤是双份的。
 
-> **原句 4:** “Just because we don’t know each other super well doesn’t mean I can’t care
+> **原句 4:** “Just because we don’t know each other super well doesn’t mean I can’t care,”
 
 - **中文理解**：「「我们不算特别熟，但这不代表我就不能关心你」」
 - **关键词**：don’t know each other super well · doesn’t mean I can’t care
@@ -46,7 +46,7 @@ modified: "2026-10-01"
 > **原句 5:** “There are days that I feel a little more masc, a little more femme, sometimes both—but I never feel fully like a ‘guy,’ you know?”
 
 - **中文理解**：「「有些日子我觉得自己更 masc 一点，有些日子更 femme，有时两者都有——但我从来不会完全觉得自己是个『男的』，你懂吗？」」
-- **关键词**：a little more masc · a little more femme · never feel fully like a ‘guy’
+- **关键词**：a little more masc · a little more femme · never feel fully like a ‘guy,’
 - **为什么这样写**：性别被写成一种每日浮动的刻度——a little 出现两次，幅度刻意放小；never feel fully 里 fully 一词顶住整句，说明排斥的不是男性气质而是「全有」；引号里的 guy 带着一点自嘲的距离。
 - **读者视角提示**：这段自述是本书处理性别流动最直接的一处；它与 Caleb「重新学习点头与坐姿」的段落互为注脚——身份不是宣布一次就完成的。
 

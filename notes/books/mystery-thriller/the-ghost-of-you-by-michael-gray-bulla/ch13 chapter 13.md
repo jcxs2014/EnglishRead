@@ -34,7 +34,7 @@ modified: "2026-10-01"
 - **中文理解**：「「Allie，别让我消失，」Emmett 引了原句。」
 - **关键词**：don’t let me disappear
 - **为什么这样写**：六个词原样引自《麦田》，放在两个人的沉默里却像一枚双面镜——Holden 怕自己消失，向死去的弟弟求救；Caleb 何尝不是在向 Ghost、向 Jack 求同一句话。Emmett 选这一句来接住这首歌，说明他们听懂了歌里没写出的那层。
-- **读者视角提示**：消失（disappear）与 Ghost 的 flickered out of existence（第十一章）共用同一套词汇场；这本书真正害怕的从来不是鬼，是消失。
+- **读者视角提示**：消失（disappear）与 Ghost 的 flickered out of existence（第四章）共用同一套词汇场；这本书真正害怕的从来不是鬼，是消失。
 
 > **原句 4:** I felt it—their past, their grief, lingering in the space around us. Was this what it was like to other people, when it was clear that Jack was on my mind?
 
@@ -47,7 +47,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「「我喜欢你那么爱它的样子。」」
 - **关键词**：how much you love it
-- **为什么这样写**：全句没有一个「你」字级的情话，却比直白更近——它爱的不是人设而是热情本身；对时常觉得自己「多余」「无趣」的 Caleb，这句话等于告诉他：你的着迷本身就是可爱之处。
+- **为什么这样写**：这不是一句表白，却比表白更近——它爱的是热情本身，而不是人设；对时常觉得自己「多余」「无趣」的 Caleb，这句话等于告诉他：你的着迷本身就是可爱之处。
 - **读者视角提示**：恐怖片知识从防御（第十一章的紧张）变成了被珍视的特质；两个人的关系在这里完成了第一次「互相兑换弱点」。
 
 > **原句 6:** Yes. That much was immediately clear to me: I wanted this to be a date. Because I liked them.

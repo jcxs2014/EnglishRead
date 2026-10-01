@@ -40,7 +40,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「说不清为什么，十年既是永远，又像根本没有过去。我如今二十四岁，还在发现新的想念她的方式、新的哀悼方式。大多数日子里，我把这看作一种福气——这说明她还在我身边。」
 - **关键词**：forever and no time at all · new ways to miss her · It means she’s still with me
-- **为什么这样写**：forever and no time at all 与 ch17 的五个月、ch02 的五个月互为时间方言——哀伤的时钟从不走直线；new ways to grieve 是本书「练习谈论哀伤」的作者版，而 blessing 的转折把「还在痛」重新定价为「还在爱」。
+- **为什么这样写**：forever and no time at all 与 ch02、ch04 反复出现的「五个月」互为时间方言——哀伤的时钟从不走直线；new ways to grieve 是本书「练习谈论哀伤」的作者版，而 blessing 的转折把「还在痛」重新定价为「还在爱」。
 - **读者视角提示**：这四个句子是全书结局（让音乐漫过自己）的现实蓝本——接受哀伤，不是不再痛，而是让「痛」转译为「同在」。
 
 > **原句 5:** Sometimes we need to be able to name our pain in order to heal from it.
@@ -54,7 +54,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「你并不孤单，读者。一切都会好起来的。我保证。」
 - **关键词**：You are not alone · it’s going to be okay · I promise
-- **为什么这样写**：后记以第二人称收束，I→You 的换挡让全书第一次直接面向合上书的你；You are not alone 正是 Jack（ch12）与 Tanya 的母亲（ch19）说过的话，此刻由作者签字画押。promise 单独成词，是全书最后一记重音。
+- **为什么这样写**：后记以第二人称收束，I→You 的换挡让全书第一次直接面向合上书的你；You are not alone 正是 Jack（ch12）与 Caleb 的母亲（ch19）说过的话，此刻由作者签字画押。promise 单独成词，是全书最后一记重音。
 - **读者视角提示**：把这句当作书的最后一道门——正文里每个角色轮流说过的安慰，最终由作者本人作保；The Ghost of You 至此从一只猫的故事，变成一封回信。
 
 ## 本章词汇

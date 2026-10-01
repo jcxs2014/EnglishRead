@@ -15,7 +15,7 @@ modified: "2026-10-01"
 
 ## 精读
 
-> **原句 1:** You’re allowed to be busy sometimes, I said. You’re allowed to have your own life.
+> **原句 1:** “You’re allowed to be busy sometimes,” I said. “You’re allowed to have your own life.”
 
 - **中文理解**：「「你有时候就是可以忙自己的，」我说。「你可以有你自己的生活。」」
 - **关键词**：allowed to be busy · your own life
@@ -34,7 +34,7 @@ modified: "2026-10-01"
 - **中文理解**：「我把关于性别与 transition 的太多感受都压在了那段关系上，几乎把它当成「我是女孩」的唯一证明——所以当前任暴露出混蛋本色，我丢掉的不只是一个男朋友，还有一部分我自己。」
 - **关键词**：only validation · lost a boyfriend · lost a part of myself
 - **为什么这样写**：Tanya 用自己的旧伤解释 Nat 的退缩——validation 是身份政治里最重的词之一，她把它与「分手丢掉自我」直接焊在一起；这既是经验传承，也是她能为爱人做的最诚实的事：不催。
-- **读者视角提示**：与 ch04 的 Candi（也需要一个可怪罪的人）一样，本书的疗愈样本都来自「过来人的自述」；Tanya 的 bittersweet 于此有了来处。
+- **读者视角提示**：与 ch20 的 Candi（也需要一个可怪罪的人）一样，本书的疗愈样本都来自「过来人的自述」；Tanya 的 bittersweet 于此有了来处。
 
 > **原句 4:** I’m happy I get to be that person for them, the way we were for each other.
 
@@ -55,7 +55,7 @@ modified: "2026-10-01"
 - **中文理解**：「「我知道我没办法像你那样看见他，可是有时候……我发誓我真的能感觉到他在附近。」」
 - **关键词**：can’t see him like you do · feels like I can tell that he’s around
 - **为什么这样写**：Tanya 说出全书最温柔的一条超自然旁证——她看不见，却开始「感觉得到」；省略号里的犹豫让这句话保持在她惯有的分寸内。画布上的猫形黑影是友谊的终极礼物：她把 Caleb 的孤独画进了自己的作品。
-- **读者视角提示**：这与 ch03 的「也许别人也能感觉到一点痕迹」完成闭环——Caleb 曾猜 Ghost 的存在会「漏」出来，此处终于有人作证。
+- **读者视角提示**：这与 ch13 的「他的存在是否会在别人身上留痕」之问完成闭环——Caleb 曾猜 Ghost 的存在会「漏」出来，此处终于有人作证。
 
 > **原句 7:** In a way, it felt like Jack was with us.
 

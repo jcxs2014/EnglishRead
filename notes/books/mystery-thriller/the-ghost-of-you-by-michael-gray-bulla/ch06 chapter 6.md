@@ -27,7 +27,7 @@ modified: "2026-10-01"
 - **中文理解**：「Jack 的画面闪过脑海——上楼时缓慢沉重的脚步、我在他浴室垃圾桶里见过一次的针头、他那些用来遮住小臂的连帽衫和长袖。」
 - **关键词**：flashed through my head · the needles · hiding his forearms
 - **为什么这样写**：三个意象排成一条证据链，全都不点破、只陈列——脚步、针头、长袖，读者自己拼出「注射」二字；flashed 是回闪的动作词，创伤记忆的调用方式本身就是画面式的，一句过渡都不给。
-- **读者视角提示**：track marks（注射痕）四个音节就能引爆的应激，说明这条暗线在 Caleb 身上从未结痂；「长袖」与第二章 party 里 Jack 的形象接上了。
+- **读者视角提示**：track marks（注射痕）四个音节就能引爆的应激，说明这条暗线在 Caleb 身上从未结痂；与第二章深夜偷溜回家、布满血丝的 Jack 形象接上了。
 
 > **原句 3:** I wondered if this was how Jack got started with everything—if it began as that feeling I had earlier, I want to be high, just to escape the social pressure, just to escape myself.
 

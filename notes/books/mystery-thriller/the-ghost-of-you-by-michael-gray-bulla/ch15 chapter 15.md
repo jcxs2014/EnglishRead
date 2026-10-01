@@ -27,7 +27,7 @@ modified: "2026-10-01"
 - **中文理解**：「我根本不太在乎它的味道、它在肺里的感觉、那股冲劲——我满脑子只有一件事：这些是 Jack 的。他也这么干过。知道这一点，竟让我安心。」
 - **关键词**：how these had been Jack’s · He’d done this, too · The knowledge was comforting
 - **为什么这样写**：comforting 用在香烟上是一次冷峻的反讽——安心的来源不是尼古丁而是「共栖」：通过与哥哥做同一件事来重建连接；破折号前的三个名词罗列把快感清零，只为突出真正的目的。哀伤的逻辑在成瘾的逻辑里借宿。
-- **读者视角提示**：与第十二章「我想 high 只为逃开自己」连读——Caleb 正一步步走进 Jack 的旧轨道；背包底的伏特加、抽屉里的烟，都在等一个更坏的夜晚。
+- **读者视角提示**：与第六章「我想 high 只为逃开自己」连读——Caleb 正一步步走进 Jack 的旧轨道；背包底的伏特加、抽屉里的烟，都在等一个更坏的夜晚。
 
 > **原句 3:** “Let me be alone,” I whispered. That was as loud as I could force my voice to get. “Please, Ghost. Please just let me be alone.”
 
@@ -39,7 +39,7 @@ modified: "2026-10-01"
 > **原句 4:** It wasn’t even six months since Jack’s death, and barely even twenty-four hours since I learned that Jack was assaulted as a child—how could I be sitting here, planning a date?
 
 - **中文理解**：「Jack 死了还不到六个月，而我得知他童年遭遇性侵，甚至还不满二十四小时——我怎么还能坐在这里，盘算一次约会？」
-- **关键词**：not even six months · barely even twenty-four hours · planning a date
+- **关键词**：wasn’t even six months · barely even twenty-four hours · planning a date
 - **为什么这样写**：两个时间刻度递缩（六个月→二十四小时），把哀伤的计时器拧到最紧；how could I 是自我审判的句式，与第四章 Refuse 的回声同一频率。幸福被量化成一种背叛。
 - **读者视角提示**：这是「该不该继续生活」之问的第一次正面爆发；Emmett 正是这个问题无意识的解药——本书让爱情与愧疚同步生长，而不是一先一后。
 
@@ -60,7 +60,7 @@ modified: "2026-10-01"
 > **原句 7:** I was giddy from the date, drunk off my time with Emmett, my mind only on us and Emmett’s lips and their smile when they called me their boyfriend—so, I wasn’t expecting the strong smell of cigarettes when I opened my car door, and it was a hard crash back to reality, the world outside us slamming into me in one hard swing: Jack’s book. Jack’s thumb drive. Jack’s cigarettes. Jack’s childhood. Jack’s addiction. Jack’s death.
 
 - **中文理解**：「约会的晕眩还没散，我像醉在跟 Emmett 相处的时间里，满脑子只有我们、Emmett 的嘴唇、还有他们叫我男朋友时的笑——所以，拉开自己车门时，那股浓烈的烟味我毫无防备，现实猛地回撞，把我一把抡回外面的世界：Jack 的书。Jack 的 U 盘。Jack 的烟。Jack 的童年。Jack 的毒瘾。Jack 的死。」
-- **关键词**：drunk off my time with Emmett · a hard crash back to reality · Jack’s ×6
+- **关键词**：drunk off my time with Emmett · a hard crash back to reality · the world outside us slamming into me
 - **为什么这样写**：drunk off 甜蜜与真实烟味的对撞只用一扇车门完成；六个 Jack’s 是全书的钟声——每敲一下，甜蜜的气球就漏一分，从书到死，链条完整得残忍。作者让嗅觉当开关，因为记忆的引信从来不由理智保管。
 - **读者视角提示**：注意后视镜里的 Ghost「全程随行」——幸福时段它退场（coffee shop 无它的描写），坠落时刻它准时显形；它是晴雨表，也是无法取消的乘客。
 

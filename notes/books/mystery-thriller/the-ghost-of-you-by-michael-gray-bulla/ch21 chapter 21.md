@@ -33,7 +33,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「重要的是他走了，剩下的每个人都得找到没有他的活法。所以……别把太多时间花在弄懂这一切上，别弄着弄着把生活本身忘了，好吗？」
 - **关键词**：find a way to live without him · make sense of it all · forget about living
-- **为什么这样写**：忠告的骨架是一组交换——答案的确定性与生活的连续性不可兼得；forget about living 与 ch15 的 forget about living 在本书反复押韵（Jack 的 don’t think 也是一种 forget）。这是 Walter 用十五分钟休息换给 Caleb 的遗产。
+- **为什么这样写**：忠告的骨架是一组交换——答案的确定性与生活的连续性不可兼得；forget about living 则与第十一章想象的「don’t think, stay high, don’t think」独白互为镜像——Jack 用来逃的是思考，Walter 挽回的是生活。这是 Walter 用十五分钟休息换给 Caleb 的遗产。
 - **读者视角提示**：这句话回答了 ch03 那道 Would You Rather——痛苦不会只来一次，但生活也不必等痛苦结束才开始；把它当全书的实用哲学收好。
 
 > **原句 4:** I didn’t want to remember him as only his addiction or his trauma or his secrets. Those were parts of him, but they weren’t everything.

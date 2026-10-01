@@ -33,7 +33,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「另一些时候，我坐下来要做正事，身体却动不了。我心想『该写了』『必须写了』，拼命命令自己动起来，却像被钉住一样——四肢不再听我的，身体像不是我的。」
 - **关键词**：couldn’t get my body to move · my limbs wouldn’t listen to me · my body wasn’t mine
-- **为什么这样写**：内心引语连用两遍（should / need）造出自我催促的噪音，随后三个 like 从句层层降格——从「不听话」降到「不是我的」，把意志与肉体的脱钩写成了所有权纠纷；动词全是 attempt（would think / try to will），没有一个成功。
+- **为什么这样写**：内心引语连用两遍（should / need）造出自我催促的噪音，随后两个 like 从句层层降格——从「不听话」降到「不是我的」，把意志与肉体的脱钩写成了所有权纠纷；动词全是 attempt（would think / try to will），没有一个成功。
 - **读者视角提示**：这条「身体失联」与 Ghost 的「擦除未遂」互为镜像——一个从内部失灵，一个从外部看不清；两者都是「人不再完整」的不同投影。
 
 > **原句 4:** Sometimes I’ll just be talking with my friends completely normally, just going about my day, and it’s like, all of a sudden, I remember that my mom is dead, and it feels like I’m losing her all over again, and my day is just . . . ruined.

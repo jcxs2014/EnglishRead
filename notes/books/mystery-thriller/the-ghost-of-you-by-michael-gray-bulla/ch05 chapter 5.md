@@ -19,12 +19,12 @@ modified: "2026-10-01"
 
 - **中文理解**：「我永远不可能有一天能摆脱它。这我已经知道几个月了。但有时候它会突然砸中我：往后的余生，我大概都得这样活。每一天。每一刻。这几乎注定会变成我『正常』的一部分。」
 - **关键词**：never get a day away from him · Every day. Every moment. · a part of my normal
-- **为什么这样写**：先给结论，再补「早就知道」，最后才让真正的新东西登场——不是「它在」，是「 forever 」；Every day. Every moment. 两个独词句像钟表滴答，把一辈子切成无数个今天。normal 加进 this would become a part of 的时候，恐怖被驯化成了日程表。
+- **为什么这样写**：先给结论，再补「早就知道」，最后才让真正的新东西登场——不是「它在」，是「 forever 」；Every day. Every moment. 两个二词短句像钟表滴答，把一辈子切成无数个今天。normal 加进 this would become a part of 的时候，恐怖被驯化成了日程表。
 - **读者视角提示**：这是慢性化的恐惧——比突然的惊吓更重；记住「它会变成正常」这个预言，后面 Caleb 对 Ghost 的每一次习以为常都在兑现它。
 
 > **原句 2:** For a second, anger flooded me, and I hated Ghost. I hated him more than I’d ever hated anything. I wanted to tell him to fuck off, leave me alone, stop following me, stop stop stop.
 
-- **中文理解**：「有一瞬间怒火把我淹了，我恨 Ghost。我恨它超过恨过的一切。我想冲它喊：滚、别跟着我、停下停下停下。」
+- **中文理解**：「有一瞬间怒火把我淹了，我恨 Ghost。我恨它超过恨过的一切。我想冲它喊：滚、别烦我、别跟着我、停下停下停下。」
 - **关键词**：anger flooded me · more than I’d ever hated anything · stop stop stop
 - **为什么这样写**：flood 承认了情绪的不由分说，more than I'd ever hated anything 把恨推向全书最高级；结尾 stop 不加标点地叠三次，像是骂到词穷只剩原地踏步——愤怒撞上了无力，一句顶一万句。
 - **读者视角提示**：与第四章「我恨那个 ghost」的含混不同，这一次恨意有了名字和对象；但 Caleb 当堂把火压了下去——他对谁都不敢发作。
@@ -46,7 +46,7 @@ modified: "2026-10-01"
 > **原句 5:** “Maybe there’s something drawing him to Emmett. Maybe it has to do with his ‘unfinished business.’”
 
 - **中文理解**：「「也许有什么东西在把他往 Emmett 那儿引。也许这跟他的『未了之事』有关。」」
-- **关键词**：something drawing him to Emmett · ‘unfinished business’
+- **关键词**：something drawing him to Emmett · ‘unfinished business.’
 - **为什么这样写**：两个 Maybe 起头的句子把猜测叠上猜测，而引号里的 unfinished business 才是真正的落点——Tanya 引用的是幽灵故事的通用规则（死了但有放不下的事），把它第一次安到 Ghost 头上；缩在单引号里的术语既玩笑又认真。
 - **读者视角提示**：这是全书的第一个「解谜假设」；它可以解释 Ghost 为什么选中某些人——前提是先弄清一只猫还有什么放不下。
 

@@ -54,7 +54,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「可这就是天大的事，因为我总是搞砸她的计划，因为这已经是第一百万次我扫了她享受的兴，因为这也不是第一次她因为我提前离场，也不是第一次我任由 Ghost 挡在我——甚至 Tanya——的生活前面，因为我哥哥死了，因为我看得见别人都看不见的东西，因为我是世界上最完蛋的人——」
 - **关键词**：mess up her plans · the millionth time · the world’s most fucked-up person
-- **为什么这样写**：整句是一个不肯停的 because 流水——九个「因为」从具体（搞砸计划）滚到抽象（哥哥死了）再滚到自我判决，句法上的失控就是惊恐发作时思绪的失控；破折号处戛然而止，判决书没有落款，因为 Tanya 根本不接受这份自罪。
+- **为什么这样写**：整句是一个不肯停的 because 流水——六个「因为」从具体（搞砸计划）滚到抽象（哥哥死了）再滚到自我判决，句法上的失控就是惊恐发作时思绪的失控；破折号处戛然而止，判决书没有落款，因为 Tanya 根本不接受这份自罪。
 - **读者视角提示**：这是 Caleb 自我认知的核心句——把丧亲、幻视、友谊愧疚全部捆成一束砸向自己；后面任何一章他贬低自己时，都能回溯到这一串「因为」。
 
 > **原句 7:** When the anxiety attack was finally finished with me, I was exhausted, as if all the energy had been sapped out of me. I looked up; Ghost was sitting only a few feet away. He had followed me out here.

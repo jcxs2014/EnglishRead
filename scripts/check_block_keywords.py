@@ -110,7 +110,11 @@ def check(md: Path, book: Path):
         # （实测跨书抽样：`stunned / flabbergasted / so shocked he'll faint`）⇒ 未命中分隔符的
         # 整串「a / b / c」被当成**一个**关键词去引语里找，必然查无 ⇒ 7/7 块全假红。
         # 判据不变（每个关键词须能在本块引语内逐字找到），只是把分隔符补齐。
-        kws = [k.strip() for k in re.split(r"[；;／/]", KW_RE.search(block).group(1)) if k.strip()] \
+        # ⚠️ 2026-10-01 第二次补（The Ghost of You 五步审查实测）：上次补了 ` / `，
+        # 但全库主流关键词分隔符还有 ` · `（间隔号，Last Girl Breathing 系 24 章
+        # 全部如此）⇒ 整串「a · b · c」被当成一个关键词，24 文件 169 块全假红。
+        # 把 `·` 补进切分类；判据不变（每个关键词须能在本块引语内逐字找到）。
+        kws = [k.strip() for k in re.split(r"[；;／/·]", KW_RE.search(block).group(1)) if k.strip()] \
             if KW_RE.search(block) else []
         miss = [k for k in kws if k.lower() not in q.lower()]
         if miss:

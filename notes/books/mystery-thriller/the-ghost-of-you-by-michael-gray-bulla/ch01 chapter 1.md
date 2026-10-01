@@ -55,7 +55,7 @@ modified: "2026-10-01"
 - **中文理解**：「从记事起我们就是最好的朋友，可在这么多年的交情里，我从没见过一个对我们轻声细语、迟疑不定的 Tanya。」
 - **关键词**：as long as I could remember · gentle or hesitant
 - **为什么这样写**：一句话里放了两个时间尺度——一生的友谊与「从来没有过」；gentle 和 hesitant 本是两个可爱的词，放在「不该出现」的位置上就成了症状。哀伤在这里不用眼泪写，用友谊变了调的语气写。
-- **读者视角提示**：Tanya 的小心翼翼不是变温柔，是失衡；本章她两次被 Caleb 挡回，这份小心以后往哪个方向长，值得盯住。
+- **读者视角提示**：Tanya 的小心翼翼不是变温柔，是失衡；本章她递来的陪伴被 Caleb 婉拒，这份小心以后往哪个方向长，值得盯住。
 
 > **原句 7:** That was when it started to sink in for me—from now on, everything would be different. Nothing could go back to the way it was before.
 

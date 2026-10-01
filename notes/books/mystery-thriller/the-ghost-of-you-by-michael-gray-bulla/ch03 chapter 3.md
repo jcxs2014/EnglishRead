@@ -31,7 +31,7 @@ modified: "2026-10-01"
 
 > **原句 3:** Sometimes his body would become fuzzy, weird, and I couldn’t look at him for too long, otherwise it would start to feel like I was watching something I shouldn’t be, and then there would be a gap in my memory and time would slip away and Ghost wouldn’t be there anymore when I returned to myself, and all that was left was a pounding in my head.
 
-- **中文理解**：「有时候它的身体会变得毛糙、怪异，我不能盯着它看太久——不然就像在窥看什么不该看的东西，然后记忆里会出现一段空白，时间溜走，等我回到自己身上时 Ghost 已经不在了，只剩太阳穴里一阵咚咚的跳痛。」
+- **中文理解**：「有时候它的身体会变得毛糙、怪异，我不能盯着它看太久——不然就像在窥看什么不该看的东西，然后记忆里会出现一段空白，时间溜走，等我回到自己身上时 Ghost 已经不在了，只剩脑中一阵咚咚的跳痛。」
 - **关键词**：watching something I shouldn’t be · a gap in my memory · time would slip away
 - **为什么这样写**：整句用 and 一路串联七个小句，不作停顿——语法上的「不能喘气」复刻了那种越看越糟的失控；shouldn’t be 把超自然写成禁忌，gap 与 slip away 让「丢时间」像丢了随身物，最后落点只是一个生理症状，一个解释都没有。
 - **读者视角提示**：这是全书第一次给出「代价」机制：看见 Ghost 是有损耗的；后面凡是 Caleb 头痛、失神，都可以回溯到这条规则。
@@ -62,7 +62,7 @@ modified: "2026-10-01"
 - **中文理解**：「但现在我懂了。巨大的痛从来不会只来一次。那种痛——那种体量的痛——在你以为它已经走了之后，还会陪你很久。它会赖着不走。也许一辈子。」
 - **关键词**：No huge pain was ever just once · a pain that size · It would linger
 - **为什么这样写**：章尾把童年游戏改写成全书命题：No huge pain was ever just once 用全称否定句一锤定音；插入语 a pain that size 像用手比了个尺寸，然后三个越来越短的句子（would stay / would linger / for the rest of your life）把「一辈子」压成最后一个落点。
-- **读者视角提示**：这是 Part 2 开局的精神底稿——Caleb 已经不再指望「熬过一次就好」；他接下来做的所有尝试，都建立在「与长期痛共处」这个前提上。
+- **读者视角提示**：这是 Part 2 前段的精神底稿——Caleb 已经不再指望「熬过一次就好」；他接下来做的所有尝试，都建立在「与长期痛共处」这个前提上。
 
 ## 本章词汇
 
