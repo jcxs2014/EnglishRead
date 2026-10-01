@@ -29,7 +29,7 @@ WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验�
   ✅ 本章命中 78 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
   （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
 
-########## b 步 · 逐章归属（工具真实输出：check_chapter_quotes.py <NN> <md>，不带 --out-dir）##########
+########## b 步 · 逐章归属（工具真实输出：check_chapter_quotes.py <NN> <md>，不带参数）##########
 ch01 prologue.md: 6/6 in ch01 text
 ch02 what is information.md: 6/6 in ch02 text
 ch03 stories unlimited connections.md: 6/6 in ch03 text
@@ -43,7 +43,7 @@ ch10 democracies can we still hold a conversation.md: 6/6 in ch10 text
 ch11 totalitarianism all power to the network.md: 6/6 in ch11 text
 ch12 the silicon curtain global empire is back.md: 6/6 in ch12 text
 ch13 epilogue.md: 6/6 in ch13 text
-（13/13 章，每章 6/6。⚠️ 加 --out-dir 会切成「全章扫描：解析引语块 78，命中本章 78（100%）」——那是全书合计口径，不是逐章数字）########## c 步 · 结构扫描（双实现交叉）##########
+（13/13 章，每章 6/6。**口径说明**：不带参数 = 逐章「chNN.md: 6/6 in chNN text」；带 `--book-dir` = 全书扫描「解析引语块 78，命中本章 78（100%）」，**78 是全书 13×6 合计、不是本章数字**——**初版误报 78 的成因＝审查期沿用写作期带 `--book-dir` 的批量命令，未核对口径标签**）########## c 步 · 结构扫描（双实现交叉）##########
 --- audit_structure ---
 === 精读结构扫描（nexus-by-yuval-noah-harari）===
   扫 16 个 md、121 个引语块；多数派必备节：## 词汇分级
