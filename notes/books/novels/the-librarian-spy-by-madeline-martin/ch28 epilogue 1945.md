@@ -136,7 +136,7 @@ modified: "2026-10-01"
 |------|------|------|
 | imprisoned | 被囚的 | He too spent most of his days tracking down family for those who had been unjustly imprisoned. |
 | unfolded | 展开 | With trembling hands, she unfolded the note. |
-| handwriting | 笔迹 | She used two fingers to gently pry apart the paper and immediately recognized the handwriting as her own. |
+| handwriting | 笔迹 | Elaine used two fingers to gently pry apart the paper and immediately recognized the handwriting as her own. |
 | survivors | 幸存者 | So vast was the number of people seeking family members, that she printed lists of survivors to reunite them with who had been lost. |
 
 ### ⭐ 基础
