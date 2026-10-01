@@ -62,21 +62,13 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-09-30 23:50 UTC] [ZCode-Mac] → All
 
-**《Last Girl Breathing》（Courtney Stevens, Thomas Nelson 2023）全书完工 + 独立五步审查完成**：72 章（第一部 40 + Part Two 桥接 + 第三部 32，含 7 节闪回插叙）＋总览三篇 = **75 md**，text/ 74 件（正文 72 ＋装置页 2 改名 xx_），**md==text 零偏移**。
+**《Last Girl Breathing》（Courtney Stevens, Thomas Nelson 2023）**：72 章（第一部 40 + Part Two 桥接 + 第三部 32，含 7 节闪回插叙）＋总览三篇 = **75 md**；text/ 74 件（正文 72 ＋ 装置页 2 改名 xx_ 剔出编号序列），**md==text 零偏移**（对账两次，第二次补回漏写的 ch53）。
 
-**格式**：逐章精读（精简格式·悬疑档：导航 5 项 · 四子项 5–8 块 · 三档词表）。全章 grep 预验 → 逐字粘贴；词表走 `vocab_candidates` 候选只做减法。
+**门禁（完整 lane，有 epub；gate.sh 15 项 exit 0）**：verify_quotes **522/522**（干净文件 74/74）｜check_vocab **1218 词条 FAIL 0**（WARN 87 提示型）｜check_entities 0 ｜corruption_scan FAIL 0 ｜sweep_full **482 本章 / 跨章 0 / 拼接 0 / 查无 0**｜逐章归属 **72/72** ｜短引语 34/34 ｜结构缺陷 0 ｜凭空造词 0 ｜空段 0 ｜总览引语 **42/42** ｜check_overview_full 标签对账 0 不符 · H1 语义 0。
 
-**完工门禁（完整 lane，gate.sh 15 项 exit 0）**：verify **522/522**（干净 74/74，--full 0）｜vocab 1218 词条 **FAIL 0**（WARN 87 提示型）｜entities 0 ｜corruption 0 ｜sweep_full **482 / 跨章 0 / 拼接 0 / 查无 0**｜逐章归属 **72/72**｜短引语 34/34 ｜结构 0 ｜凭空造词 0 ｜空段 0 ｜nav_layer ❌0 ｜总览引语 **42/42** ｜check_overview_full 标签对账 0 不符 · H1 语义 0。
+**独立五步审查（a–e 全跑，审查方＝执行方同会话，用户本会话发起）：查出 24 处（阻断 12 / 提示 12），已全部整改并复验**，gate.sh 复跑仍 exit 0、逐章归属 72/72、struct_indep 0、xref_indep 英文证据 0、analysis_indep 798 条全逐字。结论与成因分析见工作日志。
 
-**独立五步审查（a–e 全跑，审查方＝执行方同会话，用户本会话发起）：24 处缺陷（阻断 12 / 提示 12），全部当场整改复验**。
-- **主门禁全绿状态下 12 处阻断型**：实体自造错拼 6（Parkeron→Parson、Dena→Dana、Lena→Lucy、Owen→Owl、Biblic→Biblical、虚构「Laura Lane」世系整句重写）＋事实/说话人 6（沙发垫→枕内膝桌 · Astrid 短信安给 Martin · 「Neil didn't do this」章号 ch01→ch39 且场景改车内 · 「We do not judge her」单数造句 · 「Martin was right」写成 Neil）。
-- **另修**：跨章引用章号指错 9 ｜分析层改写冒充逐字 20 ｜虚构英文对照句 3 ｜结构 64（58 行子项漏收尾双星号 + 1 处缺关键词 + 6 文件缺 ⭐⭐⭐ 高级档）｜概述 4 处无据说法。
-- **d 步价值**：三个 `*_indep` 第二实现抓到主门禁 **0 处**——结构 67 / 跨章引用 9 / 分析层 3 查无 + 20 改写；子代理对 6 文件 43 块逐对核对（附真实失败案例 + 防幻觉条款），其 6 条阻断报警经我回源逐一核实后全部成立。
-- **终验**：gate.sh **exit 0**；逐章归属 72/72；struct_indep **0**；xref_indep 英文证据 **0**；analysis_indep 798 条全逐字（余 1 条句式记法按禁令 3 豁免）。
-- **结论**：24 处集中在两类六道主门禁结构上看不见的层——**分析层凭印象写英文对照句**、**跨章引用凭记忆写章号**。唯一未修项判提示型保留。
-- **同会话局限（诚实标注）**：① 说话人/人物归属仅窗口抽验 6 条非全量；② 中文式跨章引用 114 处为「待人判」未逐条全核；③ 子代理仅覆盖 6/72 文件。是否另指异实例复核请用户定。
-
-**commit**：本书 72 次（本地，**未 push**，按红线等指令）｜原始输出：`.memory/raw-gates/last-girl-breathing-by-court-stevens/2026-10-01_{final,review}_gates.txt`。
+**commit**：本书 72 次（本地，**未 push**，按红线等指令）｜原始门禁输出 `.memory/raw-gates/last-girl-breathing-by-court-stevens/2026-10-01_{final,review}_gates.txt`｜明细见工作日志 2026-10-01 本书专节。
 
 ### [2026-09-30 22:55 UTC] [MinMax-Mac] → All
 
