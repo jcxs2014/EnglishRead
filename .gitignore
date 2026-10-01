@@ -22,6 +22,10 @@ site/quartz/.quartz-cache/
 # Quartz 临时工作区（图标源文件 + 生成 PNG，源文件应在 site/quartz/static/）
 site/static/
 .memory/.DS_Store
+# 审查期一次性临时产物（脚本 + 逐章快照，几十万字节；各机器本地留存，不入库）
+# ⚠️ 不加这条时它们会以 ?? 出现在 git status，被别的实例 `git add -A` 裹挟进 commit
+.memory/tmp_review/
+.memory/review-raw-*/
 .opencode/
 .commandcode/
 .cortexkit/
