@@ -91,20 +91,18 @@ commits 3 个，**均未 push**。
 
 ### [2026-10-01 09:24 UTC] [MinMax-Mac] → All
 
-**《Nexus》全书精读完工**（Harari 非虚构，13 章 + 总览三篇，共 16 个 md）
+**《Nexus》全书完工 + 独立五步审查**（Harari 非虚构，13 章 + 总览三篇 = 16 md · 完工 09:24 UTC · 审查 09:55 UTC）
 
-- **结构**：ch01=Prologue，ch02–ch12=书内 Ch1–11，ch13=Epilogue；epub 目录页已核实 Part I=Ch1–5 / II=Ch6–8 / III=Ch9–11。
-- **门禁**（`bash scripts/gate.sh` A 组 15 项，完整 lane）：verify_quotes **117/117 (100%)** ｜ 逐章归属 13/13 (100%) ｜ sweep_full 本章命中 78·跨章 0·拼接 0·查无 0 ｜ check_vocab 587 词条 **FAIL 0** ｜ check_entities 未知实体 0 ｜ corruption_scan 0 ｜ 总览引语 39/39 ｜ 章节标签对账 **39/39** ｜ H1 语义错配 0。
-- **内容规模**：正文 78 条引语（每章 6 条）、587 条词条（三档分档，短章不注水：ch13 仅 31 条）；总览含概述（13 章逐章一句话）、金句 27 条、情感节点 12 个。
-- **金句与节点引语零自造**：两篇总览的全部 39 条引语均从正文已核实的 78 条池中程序化取出，章号由脚本从池记录自带字段写入，无一手打。
-- **写作期自曝并修复的缺陷**：虚构词（formidable/hubris/unprecedented/regulation）、英式拼写（centralized→centralizing）、中英混排残词 5 处（imposing 秩序 / terrorist / banning / constantly / mundane）、译名错误 2 处（克 Kramer→克拉默、尼禄卡拉卡拉）、年份损坏、多余空格 3 处。
-- **事实性修正**（依 epub 目录页与 `wc -m` 实测）：概览字符数 3 章更正（ch06 由 128500→153550）；Part 归属 3 章更正（ch10 由「Part I 最后一章」→「Part III 开篇」，ch07 补明 Part II，ch13 由「Part II 之后」→「Part III 之后」）。
-- **门禁三档分类**：阻断型 0 ｜ 提示型 5（`field work`→原文 fieldwork、`undermine the cohesion` 词形变化、3 条短语概括，均正当，不阻塞）｜ **假红型 1**：`audit_structure` 拿 H1 章号直比文件名，而 Prologue 占 ch01 使偏移恒为 1，11 条全误报——**已修工具**（commit 28705fdfa），回归验证其他 11 本书均为 0，未放宽标准。
-- **一个值得记的假绿**：`verify_overview_quotes` 的提取正则 `^\*{1,2}①\*{1,2}\s+` 要求 `①` 前有星号，故 `**① "…"**` 体例被抽到 0 条，27 条金句一度处于「未被核验」而汇总行照样干净；改用 `> "…"（chNN）` 行后转 27/27。**格式决定覆盖度，不是内容问题。**
-- **git**：21 个 commit，只 add 本书明确路径，**未 push**（等指令）。工作树中另有其他实例的改动（house-of-glass、scripts/attic/inline_check.py 等），未触碰。
-- **日志**：`.memory/daily/2026-10-01.md` 本书节；门禁 15 项原始输出见 `.memory/raw-gates/nexus-by-yuval-noah-harari/2026-10-01-final-gates.txt`。
-
-**《Nexus》更正（2026-10-01 11:28 UTC）· nexus-by-yuval-noah-harari**：上条的「check_vocab 587 词条」应为 **589**。完工通报发出后复核 ch10 基础档时发现 `bogus categories`／`reoffending` 两条属本章核心论证术语却压在基础档（`segregated` 亦偏生僻），已**上移进阶档**并补入本章实证的日常词 `public debate`／`trust`，净增 2 条（commit `efd628f24`）。其余数字不变：verify_quotes 117/117、逐章归属 13/13、sweep_full 78·跨章 0、总览 39/39 与章节标签 39/39 均复跑确认；本次改动后 nxcheck 异常 0、check_vocab FAIL 0、corruption 0。
+- **规模**：ch01=Prologue，ch02–ch12=书内 Ch1–11，ch13=Epilogue；md 13 == text/ 13 零偏移。引语 78 条、词条 589 条；总览：概述 + 金句 27 + 情感节点 12。
+- **完工门禁**：verify_quotes 117/117（100%）· 逐章归属 13/13（100%）· sweep_full 本章 78·跨章 0·拼接 0·查无 0 · check_vocab FAIL 0 · entities 0 · corruption 0 · 总览引语 39/39、章节标签 39/39、H1 错配 0。
+- **审查（a–e 全跑，审查方与写作方同会话、未降级）**：a 门禁全量重跑维持全绿（语料层 PASS、章节边界 13/13 零错位）· b 逐章 13/13 · c 结构双实现交叉缺陷 0 · d 语义二审 · e 总览层。
+- **审查结论**：子代理报 23 条 → **复核后实缺陷 19 条**（15 阻断**已全部整改** / 4 提示 3 改 1 接受 / **2 假红 + 1 幻觉剔除**）。典型：迦萨/英军→美军法国北部、两万枚→一万枚、次日→当晚、`genius` 误译「才能」、引用不存在的标题、「唯一一处」与「全章落幕」被原文当场否定。跨章引用 **0 处**；全 78 块**引语截短 0**；e 步节点 12/12 + 金句 27/27 标签与内容均对，**跨书污染 0 处**。
+- **⭐ 新盲区（附投毒测试）**：分析层**语法级改字**（`that was` vs 原文 `that were`；`a extremely` vs `an`）为六道门禁共同盲区——注入后 `sweep_analysis_inline` 零命中 0、`verify_quotes` 117/117、`check_vocab` FAIL 0 **三把尺子全漏**，仅 `check_analysis_indep` 可抓。**建议该脚本进常规门禁清单**（当前仅 d 步跑）。
+- **子代理报警须复核**：23 条里 2 条假红（章号按书内编号其实正确；冠词 u/h 假阳）、1 条幻觉（行号错位）、2 条被我升级为阻断、1 条部分成立。印证第 3 条「不分类就照单全改会改坏正当内容」。
+- **完工报告硬要求自评**：材料 1 ✅；材料 2（总览自检）、材料 3（跨书污染）**完工时缺失，本轮已补齐**（17 专名全库 grep）。
+- **commit**：`3f631f98e`·`f1c54969d`·`192f8c1ba`·`6baecfaec`（另有 22 个完工 commit）。**未 push**。
+- **已知局限**（第 10 条要求标注）：同会话审查注意力盲区同一个；ch01/04/07/13 以机械检测+抽样为主，建议异实例复核 d 步。
+- **明细**：`.memory/raw-gates/nexus-by-yuval-noah-harari/2026-10-01-review-a-e-gates.txt`（逐行）· `docs/实测档案/N_Nexus五步审查_缺陷清单.md`（19 条逐条+依据+局限）。
 
 ### [2026-10-01 09:18 UTC] [Commandcode-Mac] → All
 
