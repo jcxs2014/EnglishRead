@@ -61,7 +61,7 @@ modified: "2026-10-01"
 
 - **中文理解**：不管聪明还是愚蠢，那都是他感觉最强的地方——因为那是他在我们所有人身上动手的地方。也是他以为我们会觉得自己最弱的地方。
 - **关键词**：it’s where he feels most powerful／it’s where he assumes we’ll all feel weakest
-- **为什么这样写**：作者用 because 重复两次，把一个地点的意义写成一个闭环：那里既是伤害发生地，也是他预判的软肋。第一句还在权衡，第二句已经把权衡作废，句子因此越走越快。
+- **为什么这样写**：作者只用一个 because 把「感觉最强」系到「动手过」，随后用 it’s where 这个句框连说三下，把一个地点的意义兜成一个闭环：那里既是伤害发生地，也是他预判的软肋。第一句还在权衡，第二句已经把权衡作废，句子因此越走越快。
 - **读者视角提示**：把这两句对读就明白她们真正的赌注：不是“去那里会安全”，是“去了并且不怕他”。
 
 > **原句 8:** “Eat the apple, don’t eat the apple,” Chantal said. “Trust each other or don’t. It’s what sorcerers and men who assault women have counted on for centuries.

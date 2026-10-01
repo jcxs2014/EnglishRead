@@ -33,7 +33,7 @@ modified: "2026-10-01"
 
 - **中文理解**：有很多很多童话，看起来就是在折腾女人的脚。
 - **关键词**：seem like they’re about messing with women’s feet
-- **为什么这样写**：发言者用三个独立的 So. Many. 断开来模拟一口气敲不完的语气，作者照原样保留了这种不规整的敲法。否定式 seem like 让这句保持怀疑语气，她不是说童话一定在讲脚，而是说这批故事看上去都跟脚有关。
+- **为什么这样写**：发言者用两个各自带句点的 So. 和 Many. 断开来模拟一口气敲不完的语气，作者照原样保留了这种不规整的敲法。否定式 seem like 让这句保持怀疑语气，她不是说童话一定在讲脚，而是说这批故事看上去都跟脚有关。
 - **读者视角提示**：留意她下一句主动排除了迪士尼版本——这条线关心的是安徒生与格林的文本，不是流行改编。
 
 > **原句 4:** Eden: yes that one totally! And while we’re on Andersen has anyone read “The Red Shoes.” Go read it now but also don’t because it’s AWFUL. About this girl who is poor her whole life, has no shoes at all and just really wants a pretty pair of shoes, but then when she falls in love with these red shoes in a store, everyone tells her that good Christian girls don’t wear red shoes (!) and tries to guilt her into boring black ones. She gets the red ones anyway and wears them to church and everyone is *gasp* and someone (pretty sure it’s a man, duh) curses her so that she can’t get the shoes off and has to keep dancing in them forever!

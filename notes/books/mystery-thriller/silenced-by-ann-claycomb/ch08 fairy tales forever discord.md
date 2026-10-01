@@ -27,7 +27,7 @@ modified: "2026-10-01"
 - **中文理解**：从前，一位学者（没错，孩子们，是个女的）得知某个男人被授予了王国里的司法权，将会凌驾于他人之上。
 - **关键词**：a scholar (yes, children, a woman)／the scales of justice
 - **为什么这样写**：作者在开场句里插进一个对童话听众喊话的括号：（是的，孩子们，是位女性）。这半句是全书的论点，被作者直接塞进寓言的第一行，先把读者的预期打掉。
-- **读者视角提示**：留意这个括号体在本篇之后还有没有出现。它是这套 Fairy 线唯一一次直接对读者说话。
+- **读者视角提示**：留意这个括号体在本篇之后还有没有出现。它是这套 Fairy 线里叙述者直接插话对读者说话的一种手法，后面还会以别的形态再出现（ch10 收尾那句「here, children」就是同一手法的另一种形态）。
 
 > **原句 3:** They said that women, even great scholars, were often mistaken about men’s intentions.
 
@@ -48,7 +48,7 @@ modified: "2026-10-01"
 - **中文理解**：整个王国的女人都在等着看国王和朝廷会怎么做，都确信这一次女人会被相信。
 - **关键词**：waited to see what the king and court would do／sure that this time the woman would be believed
 - **为什么这样写**：作者让全篇第二次出现“她们确信这一次会不同”，而这次的结局紧接着就被否掉了。sure that this time 这个短语本身就是叙事伏笔的形状。
-- **读者视角提示**：把这句和前一篇里“她们确信这次会被相信”对读：同一句式，两次落空。看到这个句式再次出现，就要开始准备。
+- **读者视角提示**：把这句和本篇前面那句「the next time ... they would be sure to believe her」对读：同一句式，两次落空。看到这个句式再次出现，就要开始准备。
 
 > **原句 6:** They saw that it couldn’t be broken by a prince with a magical sword, a clever tailor, or a handsome youngest son—yet these were the only heroes permitted.
 

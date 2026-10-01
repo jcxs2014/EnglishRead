@@ -31,7 +31,7 @@ modified: "2026-10-01"
 
 > **原句 3:** They weren’t even beautiful; they were ferocious. They made her calves pop and her butt sway when she walked and their heels didn’t give a rat’s ass about sore feet or twisted ankles. All they cared about was keeping Abony literally on her toes.
 
-- **中文理解**：今天这双鞋是豹纹马鬃毛的，鞋头包着红帽、钉满尖钉，鞋跟有三英寸高。它们甚至算不上漂亮；它们是凶悍的。它们让她走路时小腿绷起来、屁股摇起来，而它们的鞋跟根本不在乎酸痛的脚或者扭伤的脚踝。它们唯一在意的，就是让 Abony 时刻绷在脚尖上。
+- **中文理解**：它们甚至算不上漂亮；它们是凶悍的。它们让她走路时小腿绷起来、屁股摇起来，而它们的鞋跟根本不在乎酸痛的脚或者扭伤的脚踝。它们唯一在意的，就是让 Abony 时刻绷在脚尖上。
 - **关键词**：they were ferocious／didn’t give a rat’s ass／literally on her toes
 - **为什么这样写**：作者先用一个分号否掉“美”这个词，再给出一个更狠的形容词——ferocious 本义是野兽的凶猛。后面两句把鞋写成有脾气的东西：鞋跟不在乎疼，不 caring 的是鞋，而被疼的是人。最后一句用 literally on her toes 这个英语习语，字面上写“站在脚尖上”，实际上写“高度戒备”，两层意思同时成立。
 - **读者视角提示**：这段是全书“鞋＝武器/护甲”母题最完整的一次展开：前面把鞋当消费，这里把鞋当性格。
@@ -54,10 +54,10 @@ modified: "2026-10-01"
 
 - **中文理解**：“《蓝胡子》。”这个故事我连听都没听过。你呢？
 - **关键词**：Bluebeard／I’ve never even heard of this story
-- **为什么这样写**：作者让 Abony 在本子里直接说“我连听都没听过”，把一个她理应熟悉的经典留成空白。这个空白是设计出来的：读者比她先知道这篇故事，而她的无知因此变成一种安全的伪装，紧接着那句关于迪士尼的调侃就把伪装维持住了。
+- **为什么这样写**：作者让 Abony 捧着 Ranjani 的手机、当着她的面直接说“我连听都没听过”，把一个她理应熟悉的经典留成空白。这个空白是设计出来的：读者比她先知道这篇故事，而她的无知因此变成一种安全的伪装，紧接着那句关于迪士尼的调侃就把伪装维持住了。
 - **读者视角提示**：这是 Ranjani 读过的同一篇；看到这里可以回头对照她在上一条线里读完后发的那一连串追问。
 
-> **原句 7:** He did it and then took away our choices. Even Maia.
+> **原句 7:** But he didn’t—and here’s another phrase to make you cringe—he didn’t ‘just’ assault us. He did it and then took away our choices. Even Maia.
 
 - **中文理解**：可他没有——再给你一个会让你难受的词——他并不是“只是”侵害了我们。他做了，然后拿走了我们的选择。连 Maia 也是。
 - **关键词**：took away our choices／Even Maia

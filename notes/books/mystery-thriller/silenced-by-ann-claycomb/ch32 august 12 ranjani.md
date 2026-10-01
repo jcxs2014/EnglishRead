@@ -40,7 +40,7 @@ modified: "2026-10-01"
 
 - **中文理解**：那个女巫做的苹果，吃下去第一分钟是水果的滋味，下一分钟是冰淇淋店的冰淇淋，再是 Shreshthi 一年只做一次的那种薄脆饼——烫、酥、带着胡椒的辣——最后是 Amit 第一次吻她时嘴里的味道。每一种味道都像一道电流在她体内跑，跑到脚心，跑到手，跑到眼睛。
 - **关键词**：one minute of fruit／run like a current inside her／to the soles of her feet
-- **为什么这样写**：作者用「一分钟…下一分钟…然后…然后…」把味觉写成一条时间线，而时间的单位精确到荒谬，反而像身体记忆。三个破折号把食物的三个口感压成一口气；末句用电流（current）把味觉转成触觉与视觉，再一路落到脚心，把全书的「脚」这条母题接了进来。
+- **为什么这样写**：作者用「一分钟…下一分钟…然后…然后…」把味觉写成一条时间线，而时间的单位精确到荒谬，反而像身体记忆。两个破折号把三个口感括成一口气；末句用电流（current）把味觉转成触觉与视觉，再一路落到脚心，把全书的「脚」这条母题接了进来。
 - **读者视角提示**：留意电流的终点顺序：脚、手、眼睛——身体由下往上收，而这一串记忆停在「第一次」，说明它是被那一次亲吻封顶的。
 
 > **原句 5:** This… the progression is happening rapidly and I’m not…” She masked this faltering with another sip of tea. “I’m not ready. Can we get in with someone else soon?”

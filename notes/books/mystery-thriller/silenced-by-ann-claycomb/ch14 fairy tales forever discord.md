@@ -29,7 +29,7 @@ modified: "2026-10-01"
 - **为什么这样写**：提问者把困惑拆成两句，而第二句的写法是自我怀疑：我明明不信，但我读出来的就是那个意思。这正是这一层楼存在的理由——读者说不出自己被什么说服了，于是来问。Because 这个连词把两个立场钉在一起，矛盾被留在纸面上。
 - **读者视角提示**：「我非常不这么认为，可故事在暗示她活该」——这句是整层楼的题眼，后面大部分回复都在回答它。
 
-> **原句 3:** You have to stop and really just go—wait, a guy whose wives have all disappeared and never been found tells someone not to go into a certain room and when they do it and find the dead bodies THEY deserve to get in trouble?? Umm, hello, serial killers get off on power!
+> **原句 3:** You have to stop and really just go—wait, a guy whose wives have all disappeared and never been found tells someone not to go into a certain room and when they do it and find the dead bodies THEY deserve to get in trouble?? Umm, hello, serial killers get off on power! We shouldn’t be taking orders from them!
 
 - **中文理解**：你必须停下来好好想一遍——等等，一个妻子全都失踪、再也没被找到的男人，告诉别人不许进某个房间，而当她们进去了、看见了那些尸体，她们的错？？呃，拜托，连环杀手享受的就是权力！我们不该听他们的！
 - **关键词**：go—wait,／THEY deserve to get in trouble／serial killers get off on power
@@ -47,7 +47,7 @@ modified: "2026-10-01"
 
 - **中文理解**：（Angelofthehouse 发言）对，那把血淋淋的钥匙确实很瘆人；但我真正恨的是，那个妻子几乎是被安排成有过错的——就因为她为了钱嫁给他，而那个年代的女人为了活下去 HAD TO DO（不得不这么做）；还因为她「违抗」了他，去开那扇他告诉她不许开的门。
 - **关键词**：she married him for money, which women HAD TO DO back then just to survive／set up to be at fault／disobeys
-- **为什么这样写**：发言者用两个 because 把「她的错」一条条摆出来，然后卡在 where women HAD TO DO back then just to survive 上。三个全大写的词在句中炸开，那是她唯一一次提高音量。而她随即补上一条更狠的：违反的是他亲手定下的规矩，所以错不在她做了什么，在于有人先规定了不许做。
+- **为什么这样写**：发言者用两个 because 把「她的错」一条条摆出来，然后卡在 which women HAD TO DO back then just to survive 上。三个全大写的词在句中炸开，那是她唯一一次提高音量。而她随即补上一条更狠的：违反的是他亲手定下的规矩，所以错不在她做了什么，在于有人先规定了不许做。
 - **读者视角提示**：把这句话和提问者的题眼并排读：一个人被写成有过错，往往是因为她手里没有别的选项。
 
 > **原句 6:** But talking about sexism not racism here, my thing with “Bluebeard” is that the limits on women are really right in your face because of the door. In the story it’s a literal door hiding the dead wives, but think about the metaphor: unlocking a door means opening up new possibilities, new potential, new choices…

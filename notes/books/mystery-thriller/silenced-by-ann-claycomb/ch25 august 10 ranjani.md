@@ -61,7 +61,7 @@ modified: "2026-10-01"
 
 - **中文理解**：“我是说，也许你手上已经有东西可以拿出来了——但会不会是，你得去做一件有象征意义、有力量的事？”
 - **关键词**：maybe you have something to show for it／do something symbolically powerful
-- **为什么这样写**：他用“something”而不是“something to do”把选项重开一次，于是“剪头发”不是完成任务，而是做一件有含义的事。这半句话把 ch05 里那串推不动的程序性问题换成了另一个层级的问题。
+- **为什么这样写**：他先用 something to show for it 把选项限定在「已经有成果」，再用 something symbolically powerful 换到「做一件有含义的事」，于是“剪头发”不是完成任务，而是做一件有含义的事。这半句话把 Amit 刚抱怨的「出门永远有借口」（同一章，you make up some excuse）换成了另一个层级的问题。
 - **读者视角提示**：本书里所有“该做什么”的讨论最终都落在这条线上：不是拿到某个东西，是做一件有含义的事。
 
 > **原句 8:** As the scissors bit through her hair, Ranjani murmured a prayer to Ganesha under her breath. It was one that her mother had taught her when she was little, and which Shreshthi herself used to recite as she washed her hands before every surgery.

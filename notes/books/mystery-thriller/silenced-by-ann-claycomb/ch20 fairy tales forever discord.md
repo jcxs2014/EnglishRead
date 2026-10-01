@@ -55,7 +55,7 @@ modified: "2026-10-01"
 - **中文理解**：但她们甚至都不被允许「想要」权力。
 - **关键词**：not even supposed to WANT power／WANT power
 - **为什么这样写**：作者把 want 全部大写成 WANT，一个简单的视觉手段就把「意愿」抬到了政治层面：问题不是她们滥用权力，是她们连想的资格都没有。句子短，前一句又长，于是这句的独立反而成了整段的落点。
-- **读者视角提示**：全篇有两次大写强调，另一次在 REBekah 那段里（EAT）。把这两处并排看，就知道作者在哪两个点上加重语气。
+- **读者视角提示**：全篇的大写强调不止两处：Eden 抱怨继母那段的 EAT（同一段里连用两次）、Angelofthehouse 那句 CAN、写女巫那段的 BE，加上本块的 WANT。把 WANT 与 Eden 的 EAT 并排看，就知道作者在哪两个点上加重语气。
 
 > **原句 7:** (Yes, I am Hermione, who is also a witch.) In the book of The Wizard of Oz, the witch of the west isn’t even green (!) and the good witch of the north is a little old woman. But then when Hollywood gets ahold of the story, the wicked witch turns green and shrieky and Glinda is basically Fairy Princess Barbie.
 

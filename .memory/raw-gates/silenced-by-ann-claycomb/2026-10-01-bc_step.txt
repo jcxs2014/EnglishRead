@@ -1,0 +1,65 @@
+### b/c 步 · 2026-10-01 12:56 UTC
+
+=== b 步第二实现：sweep_full（定章整串，与 check_chapter_quotes 不同实现）===
+=== 引语整串 flat 比对（silenced-by-ann-claycomb）===
+  参照集：text/ 逐章（46 章，可定章） + epub 交叉验证
+  ✅ 本章命中 368 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+=== b 步主实现：check_chapter_quotes 汇总 ===
+     1 ch01 july 27 abony.md: 8/8 in ch01 text
+     1 ch02 fairy tales forever discord.md: 8/8 in ch02 text
+     1 ch03 july 27 29 jo.md: 8/8 in ch03 text
+     1 ch04 fairy tales forever discord.md: 8/8 in ch04 text
+     1 ch05 july 27 31 ranjani.md: 8/8 in ch05 text
+     1 ch06 fairy tales forever discord.md: 8/8 in ch06 text
+     1 ch07 july 31 ranjani.md: 8/8 in ch07 text
+     1 ch08 fairy tales forever discord.md: 8/8 in ch08 text
+     1 ch09 august 1 abony.md: 8/8 in ch09 text
+     1 ch10 fairy tales forever discord.md: 8/8 in ch10 text
+     1 ch11 august 8 jo.md: 8/8 in ch11 text
+     1 ch12 fairy tales forever discord.md: 8/8 in ch12 text
+     1 ch13 august 8 ranjani.md: 8/8 in ch13 text
+     1 ch14 fairy tales forever discord.md: 8/8 in ch14 text
+     1 ch15 august 9 abony.md: 8/8 in ch15 text
+     1 ch16 fairy tales forever discord.md: 8/8 in ch16 text
+     1 ch17 august 9 maia.md: 8/8 in ch17 text
+     1 ch18 fairy tales forever discord.md: 8/8 in ch18 text
+     1 ch19 august 10 abony.md: 8/8 in ch19 text
+     1 ch20 fairy tales forever discord.md: 8/8 in ch20 text
+     1 ch21 august 10 maia.md: 8/8 in ch21 text
+     1 ch22 fairy tales forever discord.md: 8/8 in ch22 text
+     1 ch23 august 10 abony.md: 8/8 in ch23 text
+     1 ch24 fairy tales forever discord.md: 8/8 in ch24 text
+     1 ch25 august 10 ranjani.md: 8/8 in ch25 text
+     1 ch26 fairy tales forever discord.md: 8/8 in ch26 text
+     1 ch27 august 12 jo.md: 8/8 in ch27 text
+     1 ch28 fairy tales forever discord.md: 8/8 in ch28 text
+     1 ch29 august 12 maia.md: 8/8 in ch29 text
+     1 ch30 fairy tales forever discord.md: 8/8 in ch30 text
+     1 ch31 august 12 maia.md: 8/8 in ch31 text
+     1 ch32 august 12 ranjani.md: 8/8 in ch32 text
+     1 ch33 august 12 abony.md: 8/8 in ch33 text
+     1 ch34 august 12 13 jo.md: 8/8 in ch34 text
+     1 ch35 fairy tales forever discord.md: 8/8 in ch35 text
+     1 ch36 august 16 17 jo.md: 8/8 in ch36 text
+     1 ch37 fairy tales forever discord.md: 8/8 in ch37 text
+     1 ch38 august 17 maia.md: 8/8 in ch38 text
+     1 ch39 fairy tales forever discord.md: 8/8 in ch39 text
+     1 ch40 august 17 abony.md: 8/8 in ch40 text
+     1 ch41 fairy tales forever discord.md: 8/8 in ch41 text
+     1 ch42 august 24 jo.md: 8/8 in ch42 text
+     1 ch43 august 24 ranjani.md: 8/8 in ch43 text
+     1 ch44 august 24 abony.md: 8/8 in ch44 text
+     1 ch45 august 24 maia.md: 8/8 in ch45 text
+     1 ch46 august 24 jo.md: 8/8 in ch46 text
+
+=== c 步主实现：audit_structure ===
+=== 精读结构扫描（silenced-by-ann-claycomb）===
+  扫 49 个 md、408 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== c 步第二实现：check_struct_indep ===
+=== 独立结构扫描：46 个 md，缺陷 0 处 ===
+exit=0

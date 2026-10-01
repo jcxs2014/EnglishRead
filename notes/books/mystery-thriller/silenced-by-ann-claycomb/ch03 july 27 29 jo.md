@@ -64,7 +64,7 @@ modified: "2026-10-01"
 - **为什么这样写**：作者先花半句交代她一直在防守，再用 nevertheless 式的转折把防守作废；最后一句把味觉转成触觉再转成视觉，一句之内换了两次感官通道，而换通道的开关就是那条诅咒。
 - **读者视角提示**：这是诅咒第一次跑到她身上、进入公共场合。她在场的人只当她心情差——留意作者是怎么让她“看起来正常”的。
 
-> **原句 8:** The link took her not to a company message but to some kind of crowd-sourced fairy-tale encyclopedia, which was weird, plus the story tagged in the link was definitely not one she recognized.
+> **原句 8:** The link took her not to a company message but to some kind of crowd-sourced fairy-tale encyclopedia, which was weird, plus the story tagged in the link was definitely not one she recognized. Jo read it in growing horror, because this had to be from the CEO—who else could have sent it?—and it suggested that whatever it was he’d done to her, it was somehow her fault.
 
 - **中文理解**：那个链接把她带去的不是公司通知，而是某种众包编纂的童话百科，这很奇怪；而且链接里标的那篇故事，她确定自己没读过。Jo 越读越害怕，因为这必然是 CEO 发的——还能是谁呢？——而它暗示着：他对她做的事，是她自己的错。
 - **关键词**：not to a company message／crowd-sourced fairy-tale encyclopedia

@@ -9,7 +9,7 @@ modified: "2026-10-01"
 
 - **一句话概括**：频道贴出一篇寓言：一个男人向别的男人吹嘘自己未经同意就亲女人，还说自己是明星所以什么都能做；文章写他因此被全国拒绝掌权，然后只补了四个字——「别骗自己了」。
 - **情感弧线位置**：整条插叙线里最冷的一篇。它不讲童话里的女脚（那是开篇那一篇），而是把「一个男人因为有钱有名就理所当然可以为所欲为」当作公理写下来，再让读者看到这套公理是怎么被一群人真的执行过的。
-- **线索结构**：① 「明星／名人」与「不被追究」之间的等式，是 ch02 那篇把童话与现实并置的做法在本篇的升级；② pink marble and gold palaces 与 faux palaces 这组词把「看起来像」和「真的是」分开，全篇的所有权力都建立在这个区分上；③ 篇末那两句叙述者插话（我们都知道结果不是那样）提前声明了：这类寓言里的结局从不作数。
+- **线索结构**：① 「明星／名人」与「不被追究」之间的等式，是 ch02 那篇把童话与现实并置的做法在本篇的升级；② pink marble and gold（造出来的实心材料）与 faux palaces（假城堡）这组词把「看起来像」和「真的是」分开，全篇的所有权力都建立在这个区分上；③ 篇末那两句叙述者插话（我们都知道结果不是那样）提前声明了：这类寓言里的结局从不作数。
 - **人物弧线**：本篇没有角色弧线，只有一个被剥掉外衣的过程：吹嘘者先被写成「有点名气」，再被写成「靠别人的相信才有资格有名」，最后被剥到只剩「他觉得他什么都能做」。叙述者始终不评价，只在最后一句放弃了那层客气的外壳。
 - **叙事手法**：发帖外壳与前几篇完全一致，内部是一则结构极规整的现代寓言：出身、吹嘘、野心、被拒、结局。作者反复让「You can do anything」这句原话在关键节点复现两次，中间夹进一句更脏的版本；而「被拒绝掌权」这一段之后，作者只留两行就把所谓的好结局掀掉了。
 
@@ -29,12 +29,12 @@ modified: "2026-10-01"
 - **为什么这样写**：开场句把两个时间尺度叠在一起：童话的「从前」和现代的「并不太久以前」。而 bragged to other men 这个细节在第一句里就把吹嘘的对象限定了——他的观众是同类，作者要的就是这种只在男人之间流通的许可。
 - **读者视角提示**：把开头这一句和后面那句「And when you're a star they let you do it」连读：这篇文章讲的不是一个人做了坏事，是一群人替他开了绿灯。
 
-> **原句 3:** “I better use some Tic Tacs just in case I start kissing her. You know I’m automatically attracted to beautiful… I just start kissing them. It’s like a magnet. Just kiss.
+> **原句 3:** “I better use some Tic Tacs just in case I start kissing her. You know I’m automatically attracted to beautiful… I just start kissing them. It’s like a magnet. Just kiss. I don’t even wait. And when you’re a star they let you do it. You can do anything.”
 
-- **中文理解**：「我最好先含两片薄荷糖，以防我等下又亲上她了。你知道我只要看见漂亮的就……我直接就亲上去了。就像有块磁铁。直接亲。
+- **中文理解**：「我最好先含两片薄荷糖，以防我等下又亲上她了。你知道我只要看见漂亮的就……我直接就亲上去了。就像有块磁铁。直接亲。我连等都不等。等你成了明星，爱怎么怎么样都行。你什么都能做。」
 - **关键词**：Tic Tacs／Just kiss
-- **为什么这样写**：作者把一段完整的独白切成四个断口：两行是「他自以为的解释」，一行是比喻，一行是两个词的口令。缩进的全大写与省略号让语速忽快忽慢，而 just 这个词反复出现，正是他用来替代反思的全部手段。
-- **读者视角提示**：这一段的两个缩进（…… 与 Just kiss）都是原帖的形态。在这条插叙线里，破折和省略号承担的是语气，不是犹豫。
+- **为什么这样写**：作者把整段独白一口气写完，却让它自己加速：先给解释（薄荷糖、磁铁），再缩成两个词的短句 Just kiss，最后连甩三个更短的句子一路推到 You can do anything。语速的变化不靠分段和排版，全靠句子自己越缩越短；而 just 这个词反复出现，正是他用来替代反思的全部手段。
+- **读者视角提示**：这一整段在原帖里是一个不换行的段落——「……」和 Just kiss 都不是另起一行，而是长句中间的一次换气。在这条插叙线里，省略号承担的是语气，不是犹豫。
 
 > **原句 4:** When he said this, the man was famous in a curious way, not so much for anything extraordinary he had done, though he had erected buildings of pink marble and gold in a number of cities—buildings that aspired to be palaces.
 

@@ -47,7 +47,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「下午四点，还有四点三十，我们有同一支手机打出的两次 911 挂断记录。机主是一位名叫 Renee Peterson 的女士。
 - **关键词**：two 911 hang-ups／Renee Peterson
-- **为什么这样写**：作者用一句全是时间与编号的话替代了任何惊呼：四次时间戳、两次挂断、一个人名，全是机器会记下的东西。叙述者的情绪因此被彻底挡在句子外面，读者只能自己从那些数字里读出恐惧。
+- **为什么这样写**：作者用一句全是时间与编号的话替代了任何惊呼：两个时间戳、两次挂断、一个人名，全是机器会记下的东西。叙述者的情绪因此被彻底挡在句子外面，读者只能自己从那些数字里读出恐惧。
 - **读者视角提示**：这一章的转折点就在这里。此前所有对话都是关于「怎么打」，从这里开始变成「已经发生了」。
 
 > **原句 6:** “Forbes magazine just tweeted out this morning that they’re adding a ‘Five Under Fifty’ category to their annual list of the top CEOs in America,” he said.

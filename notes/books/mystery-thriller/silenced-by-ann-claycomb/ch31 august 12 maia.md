@@ -40,7 +40,7 @@ modified: "2026-10-01"
 
 - **中文理解**：我们说「计划」的时候到底指什么，这个问题仍然悬着，因为至少我并没有突然冒出一个绝妙的主意，能让我在那个被诅咒的故事里拿回或者找到属于自己的力量。不过我觉得，这恰恰就是我们现在到那天之前各自要做的事。
 - **关键词**：The open question is still／don’t suddenly have a brilliant idea
-- **为什么这样写**：作者给「计划」这个词加上引号，再用 still 挂上悬而未决的旧账感；I for one 先把自己从承诺里摘出去。破折号里那个故事名是本组章节里人物第一次在对话中说出它（她对丈夫还会再说一次，在更靠后的地方），而紧接着的 But I think 把话从悬空拉回可执行的范围。
+- **为什么这样写**：作者给「计划」这个词加上引号，再用 still 挂上悬而未决的旧账感；I for one 先把自己从承诺里摘出去。那个故事名（Thumbelina）是本组章节里人物第一次在对话中说出它，它以普通介词短语的形式挂在 for myself 后面，并没有被破折号切出来——作者没给它仪式感（她对丈夫还会再说一次，在更靠后的地方），而紧接着的 But I think 把话从悬空拉回可执行的范围。
 - **读者视角提示**：注意 I for one 这个自我设限：她不肯当那个拿出答案的人，本章的推进靠的是分工，不是主角突然开窍。
 
 > **原句 5:** “Not even a little,” Ranjani said firmly. “You’re all very decisive and brave, and maybe I’m not, but I’m used to women who are. I was raised by one. I don’t feel bullied by you.”

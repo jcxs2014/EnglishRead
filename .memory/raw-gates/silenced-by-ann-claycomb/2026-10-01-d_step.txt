@@ -1,0 +1,13 @@
+### d 步 · 2026-10-01 12:56 UTC
+
+=== 机械子项 1：check_xref_indep（跨章引用，第二实现）===
+=== chNN 引用 164 处：英文证据报警 0 处 ／ 中文式待人判 130 处 ===
+exit=0
+
+=== 机械子项 2：check_analysis_indep（分析层行内英文，第二实现）===
+抽出分析层英文片段 531 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）2 条 —— 只报不判红，须人判：
+  ch14 fairy tales forever discord.md:50  where women HAD TO DO back then just to survive
+  ch18 fairy tales forever discord.md:12  pink marble and gold palaces
+exit=0

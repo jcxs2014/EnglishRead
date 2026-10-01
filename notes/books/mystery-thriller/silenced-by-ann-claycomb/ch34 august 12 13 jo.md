@@ -34,7 +34,7 @@ modified: "2026-10-01"
 - **中文理解**：「我爱你，」Jo 说着，往自己手里啐出一小撮细碎的宝石，像撒糖粒一样，粉的、蓝的、绿的、黄的。
 - **关键词**：spat a smattering／tiny gemstones like sprinkles／pink and blue and green and yellow
 - **为什么这样写**：作者把一句最普通的情话和一串宝石放进同一个句子里，用一个 and 直接连上，既不加转折也不加解释——诅咒的机制第一次就这么平淡地露出来。like sprinkles 把宝石缩到厨房里的日常尺度，而四个颜色词排成一列，像糖纸。
-- **读者视角提示**：这是本组章节里第一次出现「嘴里出来什么由说的话决定」这件事；在那之前，这一类东西一直是随机的。
+- **读者视角提示**：Jo 线第一次主动去挑能变成紫水晶的那类话——在此之前她只能对着某人的具体特征碰运气（ch27 那颗因为「I love her freckles」而滑出来的白球，还有跟着另一句话落下的花瓣），这一章她换成了去找。
 
 > **原句 4:** I stayed up half the night finding a way to win my girlfriend back when I’m supposed to be figuring out how to fight that—goddammit!” She gagged a fat slug into her coffee cup and jerked away from the splash.
 

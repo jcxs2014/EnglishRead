@@ -1,0 +1,117 @@
+### 整改后复验 · 2026-10-01 13:10 UTC
+
+=== ④ corruption_scan（必跑）===
+
+=== 编辑损坏扫描（silenced-by-ann-claycomb）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+exit=0
+
+=== gate.sh 全量 15 项 ===
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub）===
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 393/393 引文可核实（100%）；完全干净文件 47/47；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 808
+--- FAIL (0) ---
+--- WARN (49) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 368 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 july 27 abony.md                          ch01 july 27 abony.md: 8/8 in ch01 text
+ch02 fairy tales forever discord.md            ch02 fairy tales forever discord.md: 8/8 in ch02 text
+ch03 july 27 29 jo.md                          ch03 july 27 29 jo.md: 8/8 in ch03 text
+ch04 fairy tales forever discord.md            ch04 fairy tales forever discord.md: 8/8 in ch04 text
+ch05 july 27 31 ranjani.md                     ch05 july 27 31 ranjani.md: 8/8 in ch05 text
+ch06 fairy tales forever discord.md            ch06 fairy tales forever discord.md: 8/8 in ch06 text
+ch07 july 31 ranjani.md                        ch07 july 31 ranjani.md: 8/8 in ch07 text
+ch08 fairy tales forever discord.md            ch08 fairy tales forever discord.md: 8/8 in ch08 text
+ch09 august 1 abony.md                         ch09 august 1 abony.md: 8/8 in ch09 text
+ch10 fairy tales forever discord.md            ch10 fairy tales forever discord.md: 8/8 in ch10 text
+ch11 august 8 jo.md                            ch11 august 8 jo.md: 8/8 in ch11 text
+ch12 fairy tales forever discord.md            ch12 fairy tales forever discord.md: 8/8 in ch12 text
+ch13 august 8 ranjani.md                       ch13 august 8 ranjani.md: 8/8 in ch13 text
+ch14 fairy tales forever discord.md            ch14 fairy tales forever discord.md: 8/8 in ch14 text
+ch15 august 9 abony.md                         ch15 august 9 abony.md: 8/8 in ch15 text
+ch16 fairy tales forever discord.md            ch16 fairy tales forever discord.md: 8/8 in ch16 text
+ch17 august 9 maia.md                          ch17 august 9 maia.md: 8/8 in ch17 text
+ch18 fairy tales forever discord.md            ch18 fairy tales forever discord.md: 8/8 in ch18 text
+ch19 august 10 abony.md                        ch19 august 10 abony.md: 8/8 in ch19 text
+ch20 fairy tales forever discord.md            ch20 fairy tales forever discord.md: 8/8 in ch20 text
+ch21 august 10 maia.md                         ch21 august 10 maia.md: 8/8 in ch21 text
+ch22 fairy tales forever discord.md            ch22 fairy tales forever discord.md: 8/8 in ch22 text
+ch23 august 10 abony.md                        ch23 august 10 abony.md: 8/8 in ch23 text
+ch24 fairy tales forever discord.md            ch24 fairy tales forever discord.md: 8/8 in ch24 text
+ch25 august 10 ranjani.md                      ch25 august 10 ranjani.md: 8/8 in ch25 text
+ch26 fairy tales forever discord.md            ch26 fairy tales forever discord.md: 8/8 in ch26 text
+ch27 august 12 jo.md                           ch27 august 12 jo.md: 8/8 in ch27 text
+ch28 fairy tales forever discord.md            ch28 fairy tales forever discord.md: 8/8 in ch28 text
+ch29 august 12 maia.md                         ch29 august 12 maia.md: 8/8 in ch29 text
+ch30 fairy tales forever discord.md            ch30 fairy tales forever discord.md: 8/8 in ch30 text
+ch31 august 12 maia.md                         ch31 august 12 maia.md: 8/8 in ch31 text
+ch32 august 12 ranjani.md                      ch32 august 12 ranjani.md: 8/8 in ch32 text
+ch33 august 12 abony.md                        ch33 august 12 abony.md: 8/8 in ch33 text
+ch34 august 12 13 jo.md                        ch34 august 12 13 jo.md: 8/8 in ch34 text
+ch35 fairy tales forever discord.md            ch35 fairy tales forever discord.md: 8/8 in ch35 text
+ch36 august 16 17 jo.md                        ch36 august 16 17 jo.md: 8/8 in ch36 text
+ch37 fairy tales forever discord.md            ch37 fairy tales forever discord.md: 8/8 in ch37 text
+ch38 august 17 maia.md                         ch38 august 17 maia.md: 8/8 in ch38 text
+ch39 fairy tales forever discord.md            ch39 fairy tales forever discord.md: 8/8 in ch39 text
+ch40 august 17 abony.md                        ch40 august 17 abony.md: 8/8 in ch40 text
+ch41 fairy tales forever discord.md            ch41 fairy tales forever discord.md: 8/8 in ch41 text
+ch42 august 24 jo.md                           ch42 august 24 jo.md: 8/8 in ch42 text
+ch43 august 24 ranjani.md                      ch43 august 24 ranjani.md: 8/8 in ch43 text
+ch44 august 24 abony.md                        ch44 august 24 abony.md: 8/8 in ch44 text
+ch45 august 24 maia.md                         ch45 august 24 maia.md: 8/8 in ch45 text
+ch46 august 24 jo.md                           ch46 august 24 jo.md: 8/8 in ch46 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：46 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（silenced-by-ann-claycomb）===
+  ✅ 逐字 1170 ｜ ⚠️ 跨章 2 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 7 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 346
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 15/15 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 40/40 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  ⚠️ 00_金句精选.md:48  同一句在 2 章出现（ch7,ch13），章节标注有歧义：Just be aware that I think her curse

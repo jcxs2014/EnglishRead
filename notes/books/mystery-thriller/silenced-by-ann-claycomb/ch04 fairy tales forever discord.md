@@ -57,7 +57,7 @@ modified: "2026-10-01"
 - **为什么这样写**：作者在这里插入 most unfairly 这一个主观评语，是全篇唯一一次叙述者出面表态；而恰恰是这句评语与紧接的下文构成矛盾——最不讲理的那个动作，反而成了推动全篇的情节。作者用一个副词取代了整整一场争辩。
 - **读者视角提示**：受害者的祸根是被别人转嫁的。这正是后面几条主线共同要对抗的那件事：她们各自都在被某种“责任”被转嫁到别处。
 
-> **原句 7:** When the girl told him, a ruby fell from her lips.
+> **原句 7:** One day, the king passed by with a hunting party and, seeing the beautiful girl under a tree, asked for her name. When the girl told him, a ruby fell from her lips.
 
 - **中文理解**：姑娘告诉了国王她的名字，一颗红宝石从她唇间落下。
 - **关键词**：a ruby fell from her lips

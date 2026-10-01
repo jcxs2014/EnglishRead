@@ -40,7 +40,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「另一方面，他们根本没看见她——不把她当怪人，不当她古怪，不嫌她太小，也不嫌她太大。因为她已经不是那些东西里的任何一种了。她不过是在洛克溪公园里有点不熟练地骑车的另一个女人，占着刚好够她占的那点地方。」
 - **关键词**：they didn’t see her at all／taking up exactly the space she needed to take up
-- **为什么这样写**：全章的论点用一个「另一方面」接上一个「一方面」，把被看见和不被看见并成一对。而「不再」出现两次：先把她从怪人清单里删掉，再把她放回人群——恢复正常不是变成一个新人，是回到一个不必解释的位置。
+- **为什么这样写**：全章的论点先用一个「一方面」（他们看见她、让路、挥手）接上一个「另一方面」（他们根本没看见她），把被看见和不被看见并成一对。而「不再」只写了一次——wasn’t any of those things anymore 先把她从怪人清单里删掉，紧接着的 just another woman 再把她放回人群。本章另一处 anymore 在开头，说的是她不适应车座，与身份无关。恢复正常不是变成一个新人，是回到一个不必解释的位置。
 - **读者视角提示**：那个「有点不熟练」是作者故意留着没删的：一个刚恢复的人骑得笨拙才是真的正常，而这才叫普通人。
 
 > **原句 5:** She thought about Simon, who looked a little bereft every time he came downstairs in the morning and saw their living room restored to ordinary-human-sized order.

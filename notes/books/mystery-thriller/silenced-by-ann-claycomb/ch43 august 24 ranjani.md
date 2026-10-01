@@ -41,7 +41,7 @@ modified: "2026-10-01"
 - **中文理解**：「要是你不在，谁来做饭？你知道我做不好那种印度炸面饼。我做的每次都油腻。」
 - **关键词**：Who would cook if you weren’t here／no good at puri
 - **为什么这样写**：女儿留住母亲的全部理由，最后落在一种她永远学不会的手艺上。作者不说「我会想你」，而说「你那道菜我做不出来」——把不舍写成一个厨艺缺口，让家里那个谁也替不了的岗位顶住这句话。
-- **读者视角提示**：ch05 那份清单里，这道菜正在她母亲的灶台上滚着油：同一道菜，在两章里分别属于母亲和女儿，中间隔着一次搬家。
+- **读者视角提示**：ch05 里 puri 面团还在母亲的灶台上等着下油锅，那一锅由母亲掌勺；本章这道菜换成了女儿来做——而且她明说自己做不好。
 
 > **原句 5:** She looked so bewildered that Ranjani was afraid she’d sunsetted, forgotten her own arguments, lost track of why she even had a pad covered in her own spiky handwriting in her lap.
 
