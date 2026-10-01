@@ -1,0 +1,27 @@
+# 门禁原始输出 2026-10-01 批次11（总览三篇）
+
+$ verify_overview_quotes.py
+=== lane：完整 lane（epub） ===
+00_情感节点.md: ➖ 无引语行（正常，非门禁项）
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 23/23 ✅
+
+=== 总览引文 23/23 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+$ check_overview_full.py
+=== 总览整串核查（the-red-scholars-wake-by-aliette-de-bodard）===
+  参照集：text/ 逐章（22 章） ｜ 总览文件 3 个
+  A 整串：命中 0 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 0 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 36 ｜ 不符 0（**只报不判红**）｜ 跳过 24
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+$ corruption_scan.py
+=== 编辑损坏扫描（the-red-scholars-wake-by-aliette-de-bodard）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+$ H1 语义校验
+notes/books/novels/the-red-scholars-wake-by-aliette-de-bodard/00_情感节点.md:# 《The Red Scholar's Wake》（红学者的觉醒）情感节点
+notes/books/novels/the-red-scholars-wake-by-aliette-de-bodard/00_概述.md:# 《The Red Scholar's Wake》（红学者的觉醒）概述
+notes/books/novels/the-red-scholars-wake-by-aliette-de-bodard/00_金句精选.md:# 《The Red Scholar's Wake》（红学者的觉醒）金句精选
