@@ -19,14 +19,14 @@ modified: "2026-10-01"
 
 - **中文理解**：Ilsa 笑着说：我们做过的这一切，不都是某种把戏吗？真正要紧的是别人信什么。就算最理智的人，遇上这么多凶兆也会动摇。
 - **关键词**：a trick of sorts／so many ill omens
-- **为什么这样写**：作者让一个刚在众人面前把主子当神明称呼的女人，转头就承认整套阴谋不过是把戏；宗教虔诚与实用主义之间的裂缝，靠这一次转折露出来。她把凶兆的效力归给数量而不是灵验——所以后面公鸡、黑猫、被弄脏的礼服才值得一条条念出来。凶兆这一层是全书的地面：谁在散布它、散布到哪一层人，是后面苏格兰街头那些火的火头。
+- **为什么这样写**：作者让一个刚在众人面前把主子当神明称呼的女人，转头就承认整套阴谋不过是把戏；宗教虔诚与实用主义之间的裂缝，靠这一次转折露出来。她把凶兆的效力归给数量而不是灵验——所以前面刚由 Erna 与她自己一条条念出来的黑猫、公鸡和那条无端弄脏的礼服，才值得这样铺开。凶兆这一层是全书的地面：谁在散布它、散布到哪一层人，是后面苏格兰街头那些火的火头。
 - **读者视角提示**：记住「凶兆靠数量取胜」这条。往后每一个被改动的细节都可以回来对账：它是不是只在增加数目，而从不要求人真的相信。
 
 > **原句 2:** ‘You,’ Ilsa said calmly. ‘You must ensure Anna doesn’t conceive – and if she does, you will make sure the child dies before it can be born.’
 
 - **中文理解**：「是你，」Ilsa 平静地说。「你必须保证 Anna 没有受孕——要是她怀上了，你就要让那个孩子在他出生之前死掉。」
 - **关键词**：ensure Anna doesn’t conceive／the child dies before it can be born
-- **为什么这样写**：全章最重的一句用最平的语调说出，两个「你」把选择权压回被点名的人身上。作者不给这段加任何情绪副词，只用一个 calmly，就把谋杀和日常差遣放在同一层音量里——这正是她后面所有话的口径：杀人与安排酒席用同一种声音。
+- **为什么这样写**：全章最重的一句用最平的语调说出，三个「你」把选择权压回被点名的人身上。作者不给这段加任何情绪副词，只用一个 calmly，就把谋杀和日常差遣放在同一层音量里——这正是她后面所有话的口径：杀人与安排酒席用同一种声音。
 - **读者视角提示**：注意她说的是「他出生之前」，不是「她怀上之前」。这个时间差是全章最狠的一格：被点名的人要负责的不是阻止一次怀孕，而是处理一次已经成形的生命。
 
 > **原句 3:** ‘Then make your lies as clever as possible,’ Ilsa retorted. ‘We both know of herbs that in one measure can aid conception and in another make any hope of a child bleed away. Believe what you wish about Anna and my sister’s understanding – but trust me: we’re far wiser.’
@@ -41,7 +41,7 @@ modified: "2026-10-01"
 - **中文理解**：她们谁也没等 Geillis 点头同意。仿佛下棋的是她们两个，而她只是一枚从白子拨到黑子之间的木棋。
 - **关键词**：Geillis’s agreement／a piece of wood flicked from white to black
 - **为什么这样写**：谈判到这里已经结束，作者用一句比喻把 Geillis 从参与者改写成器物。chess players 这个词把两个女人抬成对弈者，piece of wood 把主角降成随手可拨的东西——拨子的人不需要理由。这一格提前替后文那些沉默与共谋作了注：她从这一秒起就不再是需要被说服的人。
-- **读者视角提示**：记住这个棋盘的比喻。Geillis 在这一章剩下的篇幅里一直是被拨动的那一枚，从头到尾没有自己走过一步。
+- **读者视角提示**：记住这个棋盘的比喻。Geillis 剩下的篇幅确实一直是被拨动的那一枚——可她自己也动了好几回：摸黑下舱是她自己决定的，顶回 Ilsa、替死者争辩、追问姐姐的事也都是她自己开的口。
 
 > **原句 5:** ‘For us,’ Ilsa corrected her. ‘It would have been disastrous if these men had lived to speak of what – who – they’d seen here. I considered cutting their tongues out, but Erna and I could hardly manage so many. Besides, some may even have their letters, so it wouldn’t have guaranteed our safety.’
 
@@ -62,7 +62,7 @@ modified: "2026-10-01"
 - **中文理解**：「Margareta 相信安全藏在自己的沉默里，」Ilsa 冷冷地说。「她以前就错了，现在也还错着。或许你能劝她拿出勇气来。」她朝 Geillis 的下巴一顶。「记住，沉默的敌人等于已经赢下来的胜利。可你自己的沉默呢？永远别做那个掐住自己嗓子的人，Geillis Duncan。」
 - **关键词**：Margareta believes safety lies in silence／Never be the one to strangle your own voice
 - **为什么这样写**：全章最后一句把话头从死人转到还活着的人身上。作者写 Ilsa 谈 Margareta 时用的是「她错了」，不是「她背叛了」——一句话把一个家庭关系写成一桩政治指控。捏下巴这个动作与先前用拇指划下巴是同一个动作的两次，作者用它把威胁从比喻落成身体：她不是在讲道理，她是在示范怎么让人闭嘴。
-- **读者视角提示**：记住「身上兴许还带着信」这条。这是本章唯一提到船员身上有文书的地方（伊尔萨自己说他们或许还带着信），往后这艘船的残骸被当成证据还是被当成传闻，要看这条能不能被读者记起来。
+- **读者视角提示**：记住这一句里两处「沉默」指向相反的两边：敌人的沉默等于已经赢下的胜利，自己的沉默却会变成掐住自己的那只手。作者把两半并排放，就是把 Geillis 本人摆到了秤盘上——她说得出这一段，她自己却一句也没说。
 
 ## 本章词汇
 

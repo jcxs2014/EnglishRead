@@ -8,7 +8,7 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **一句话概括**：老师被控巫术，本该连夜赶去救人的 Geillis 却被伯爵的人直接押上法庭；她替老师说了一句自己都不信的话，换来一匹马和一份从此听话的合约，课后老师才告诉她这场审判从头到尾就是一场安排好的表演。
-- **情感弧线位置**：她这条线的最低点。她确实是自愿上法庭的，但真正把她按到证人席上的是别人的命令；从本章起，她做的每一次救人都由别人买单。
+- **情感弧线位置**：她这条线的最低点。她并不是自愿站上法庭的——是被 Chirnside 从 Seton 家里押来的，而真正决定她要说什么的，是别人的命令；从本章起，她做的每一次救人都由别人买单。
 - **线索结构**：一是伯爵要她做的不是辩护而是演一场闹剧——这是全书那套制造恐惧的纲领第一次落地，与开篇那位长辈给的说法同源；二是书记官那一段确立了本书的判决机关：决定结果的不是真相，是被写下来、被记住的那一份；三是被无罪释放只是这一场的结果，真正的判决要到 ch44 才在山丘上宣读。
 - **人物弧线**：她先是一个要救人的人，最后成了整场戏里唯一的演员；作者让她在说完谎之后立刻自己算一遍账——她已经知道，自己的证词只值一匹马。
 - **叙事手法**：全章重心是一间冷教堂里谁在写。作者用一支笔当权力中心，把原告、被告和旁听者统统降格成素材；中间插进伯爵的短场次，让条款与恐吓交替出现，节奏像审讯。
@@ -17,7 +17,7 @@ modified: "2026-10-01"
 
 > **原句 1:** ‘Don’t be such a fool!’ Geillis grabbed Bessie’s shoulders. ‘As soon as we open our mouths, they’ll shout us down as witches too.’ They ducked accused witches, pricked them, forced them to walk over red-hot coals. Anyone lying to save a witch couldn’t expect any kinder treatment.
 
-- **中文理解**：别犯傻！Geillis 抓住 Bessie 的肩膀。我们一开口，他们就会把我们也当成女巫喊下去。他们给受审的女巫上刑架、拿针扎、逼她们走过烧红的炭。任何一个为女巫说谎的人，都别指望能得到更温和的处置。
+- **中文理解**：别犯傻！Geillis 抓住 Bessie 的肩膀。我们一开口，他们就会把我们也当成女巫喊下去。他们把受审的女巫按进水里浸、拿针扎、逼她们走过烧红的炭。任何一个为女巫说谎的人，都别指望能得到更温和的处置。
 - **关键词**：they’ll shout us down as witches too／forced them to walk over red-hot coals／Anyone lying to save a witch
 - **为什么这样写**：作者先用一句斥责把她钉在原地，再把三种刑罚一件件平铺出来，不加形容，让读者自己量那三样东西的分量。最后一句把逻辑闭合：不是去救人，是去陪葬。前文那些要不要出手的犹豫，到这里全部有了价码。
 - **读者视角提示**：本章所有威胁都是可以看见的东西：针、炭、火焰。记住这份清单，后面的账都按它算。
@@ -26,7 +26,7 @@ modified: "2026-10-01"
 
 - **中文理解**：我要你保住 Agnes 活着，最好还让她别在监狱里。伯爵的眼睛读不出东西；Geillis 猜不透，为什么 Agnes 的生死、Agnes 的自由对他这么要紧。伯爵发出一声空洞的轻笑，像是已经读出了她的心思。她被关得越久，就越可能开口。
 - **关键词**：I need you to keep Agnes alive／Geillis wondered why Agnes’s survival, Agnes’s freedom, meant so much to him／The longer she’s imprisoned, the more likely she’ll talk
-- **为什么这样写**：作者把命令和动机疑问塞进同一段：上面交代要做什么，下面立刻让读者发现当事人也不知道为什么。这让一次交易显出成色——他要的东西，和她以为自己在交易的东西，并不一致。中间那声空洞的轻笑是全章唯一一次他露出情绪，又立刻收回去。
+- **为什么这样写**：作者把命令和动机疑问塞进同一段：上面交代要做什么，下面立刻让读者发现当事人也不知道为什么。这让一次交易显出成色——他要的东西，和她以为自己在交易的东西，并不一致。中间那声空洞的轻笑是他这一场里少有的一瞬情绪外露，而这样的外露在本章并不只一次——紧接着后文他还怒意一闪就被冷硬的命令压回去，作者要的正是这种反复收回。
 - **读者视角提示**：这句被关得越久越可能开口是本章的暗线：他要保住的不是人质，是一个不会说话的人。
 
 > **原句 3:** ‘The storms cannot be mentioned,’ Bothwell said quietly. ‘I cannot be mentioned. Fail me, and I will withdraw my protection from you both – and for women like you, only my protection can save you from the flames.’
@@ -40,7 +40,7 @@ modified: "2026-10-01"
 
 - **中文理解**：任何 … 父亲 … 都会 … 去请教 … 女巫，书记官说，笔尖追上他的话时停了一下。是他的话，不是 Dixon 的。别人说了什么都不算数。往后会被记住的、或者会被拿来定罪的，只有他选择记下来的那些。
 - **关键词**：pausing as his quill caught up with his words／His, not Dixon’s／was what that man chose to record
-- **为什么这样写**：作者先让书记官把原告的话一字不改地复述一遍，再点破这个句子的真正主语是谁，最后用一句近乎格言的判断收尾。整段没有一个判决词，却已经决定了谁赢——掌握笔的人不是法庭，是那个抄写员。
+- **为什么这样写**：作者先让书记官把原告那句话改写一遍（还刻意断成几段），再点破这个句子的真正主语是谁，最后用一句近乎格言的判断收尾。整段没有一个判决词，却已经决定了谁赢——掌握笔的人不是法庭，是那个抄写员。
 - **读者视角提示**：记住这条规矩：这里被判的不是事实，是被记录下来的那一份。后文每一次罪名成立，都要回来用它解释。
 
 > **原句 5:** ‘She did say he might die – but only because his father was too lazy to do anything but drink while his poorly thatched roof filled the cottage with smoke and corrupted that poor child’s lungs. That wasn’t a prophecy, sirs, that was common sense. Any man who can’t see that has none himself or seeks to conceal his own guilt.’
@@ -48,7 +48,7 @@ modified: "2026-10-01"
 - **中文理解**：她确实说过他会死——可那只是因为他父亲除了喝酒懒得做任何事，而那扇破屋顶漏下来的烟熏坏了那孩子的肺。这不是预言，诸位，这是常识。看不出来的人，自己就没有眼力，或者在遮自己的罪。
 - **关键词**：while his poorly thatched roof filled the cottage with smoke／That wasn’t a prophecy, sirs, that was common sense／Any man who can’t see that has none himself or seeks to conceal his own guilt
 - **为什么这样写**：这是上一章那份账单的回敬：那边说男人只看得见顺从、嫁妆、子宫，这边原告席上就坐着一个只会用常识推事、却连常识都不肯自己动一动的父亲。作者把攻击写成逻辑而不是辱骂，让一个仆人用男人们自己的规矩赢下第一回合。
-- **读者视角提示**：记住屋顶这个细节。同一个上午，原告自己在证词里已经漏过一次嘴；两处对得上，这一击才站得住。
+- **读者视角提示**：记住屋顶这个细节——叙述者在原告出场那句旁白里已经替他记下了这笔账（嗓子里的恼怒，也许是因为他从没想过修屋顶）；她这句常识之所以站得住，靠的正是这一笔，不靠原告自己说漏。
 
 > **原句 6:** Geillis sank down, leaning back against the Mercat Cross. She had a horse. All it had taken was a lie in court. How much would she have been offered to sink even lower, to become Judas? For if Bothwell could bribe juries to set his minions free, he could just as easily bribe them to reach a different verdict.
 
@@ -69,7 +69,7 @@ modified: "2026-10-01"
 - **中文理解**：一波恐惧会扫过苏格兰，比任何瘟疫都更快、更致命。别人会倒在它底下，我们不会。我们不必害怕；等这波退下去，我们会留在一个伯爵当政的土地上，而作为他的帮手，我们终于能拿到应得的那一份。
 - **关键词**：A wave of fear will sweep through Scotland／We don’t need to be afraid／Bothwell reigns and we, his helpers, will finally gain what we deserve
 - **为什么这样写**：全书的题目在这一段被说出口，用的却是那个最普通的词。作者让最懂药理的人说出最冷的算术：把别人的命当耗材，把自己的命当保险。语调还特意写成诱惑的样子——不是威胁，是邀请。
-- **读者视角提示**：这是本章唯一的正面陈述：说的人和听的人都点头。往后每一次真动用火刑，都要回到这里重读一遍。
+- **读者视角提示**：这是全章的最后一句：说的人把整盘计划摊开讲完，可听的人一句回应也没有——本章就在这里收住。往后每一次真动用火刑，都要回到这里重读一遍。
 
 ## 本章词汇
 

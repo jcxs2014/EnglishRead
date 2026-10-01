@@ -11,7 +11,7 @@ modified: "2026-10-01"
 - **情感弧线位置**：她这条线的中段转折点——本章之前她是被差遣的人，本章第一次是她自己开口说能做；也是全书第一次出现一个与 Bothwell 无关的同盟。
 - **线索结构**：一是沉船在这里第一次落到一个人的良心上（ch09 点名 Margaret，本章把它变成 Geillis 的账）；二是她在本章第一次自己决定药方，下一章法庭上那套把一切解释成寻常的辩词，靠的正是今天这批方子；三是 Katherine 的提议是一条独立于 Bothwell 的线，要回来对账。
 - **人物弧线**：她在同一章里完成了两步：先是我没有她也能行，再是我需要一个比我更有权力的人。后一步来得比前一步快得多，而作者没给她任何消化的时间。
-- **叙事手法**：回顾只用两个短段交代完，其余篇幅交给菜园和煎药的琐事当缓冲；全章几乎没有一句直接的心理描写，情绪全从动作里出来——嘴角的抽动、跪进软泥、把手贴上病人的额头。
+- **叙事手法**：回顾只用两个短段交代完，其余篇幅交给菜园和煎药的琐事当缓冲；心理描写并不少，且多停在自我诘问上（该有多愧疚、想不想知道自己是个杀人犯），而最重的几处情绪被交给动作——嘴角的抽动、跪进软泥、把手贴上病人的额头。
 
 ## 精读
 
@@ -34,7 +34,7 @@ modified: "2026-10-01"
 - **中文理解**：可风暴不是冲她们来的。它转了个身，像一头舒展开身子的黑兽，朝东边去了。Fian 和 Agnes 交换了一个笑。
 - **关键词**：a great black beast uncoiling／and stalked eastwards／had exchanged smiles
 - **为什么这样写**：全章最冷的一处。上一段还在担心是不是自己害死了人，这里一个动作就把担心改成了验收：风暴在离岸前转了向。作者不写她们怎么做到的，只写它转了、以及两个人的笑——因果留给读者自己拼。
-- **读者视角提示**：朝东边去。风暴本来要扑上的那一条海岸，正是她们要保住的那一岸——这一句就是它转开的实证。上一章点过名的那艘沉船，也正走在这条航线上。
+- **读者视角提示**：朝东边去。风暴本来要扑上的那一条海岸，正是她们要保住的那一岸——这一句就是它转开的实证。至于更早那一章里被点名的沉船，与眼下这一场风暴是**两件事**：原文写得很清楚，Geillis 自己也不敢说口哨和它有没有关系。
 
 > **原句 4:** A peace of sorts could be found in the gardens. Leafy with September life, the vegetables were sprouting fast and Geillis could barely pick the raspberry canes clean before more ripened. She was glad – the simplicity of plucking and washing and cooking could dull a mind until it was as edgeless as washed-up pebbles.
 
@@ -52,7 +52,7 @@ modified: "2026-10-01"
 
 > **原句 6:** Over the years I’ve observed that men never look at a woman and overestimate her capabilities. They see subservience, dowries, wombs. Sometimes they see us as whores, with deceit and avarice in our every movement. But they never consider that our minds might be wilier than theirs.’
 
-- **中文理解**：这些年来她观察到，男人看一个女人时，只会高估她的能力。他们看到的是顺从、嫁妆、子宫；有时候把我们看成婊子，认定我们一举一动都是欺骗与贪财。可他们从来不会想到，我们的心智也许比他们的更狡黠。
+- **中文理解**：这些年来她观察到，男人看一个女人时，从来不会高估她的能力——他们只会低估。他们看到的是顺从、嫁妆、子宫；有时候把我们看成婊子，认定我们一举一动都是欺骗与贪财。可他们从来不会想到，我们的心智也许比他们的更狡黠。
 - **关键词**：men never look at a woman and overestimate her capabilities／They see subservience, dowries, wombs／our minds might be wilier than theirs
 - **为什么这样写**：这是本章最重要的一段女性同盟宣言，被放在女主人的嘴里，句子却故意排得像一份账单：顺从、嫁妆、子宫、婊子，四项清单一列，最后用一个转折把它们全部推翻。说话的人自己就是被亏待的妻子，所以这段话不是理论，是自白。
 - **读者视角提示**：把这份清单记住。下一章里，同一个人要在一群由男人组成的审判席上，用另一种方式把这几个词挨个顶回去。
