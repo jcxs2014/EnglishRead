@@ -61,7 +61,7 @@ modified: "2026-10-01"
 
 - **中文理解**：不能。他的眼睛沉着一层悲哀：所有盼着把苏格兰王冠据为己有的人，都在找进一步伤害国王的办法。Anna 会是个现成的靶子——外来的，年轻的，而且无法履行王后的职责。
 - **关键词**：Anna will be an easy target／unable to fulfil her duties as a queen
-- **为什么这样写**：他先答一句不，再把她从危险的中心挪到危险的边缘，用三个短促的定语收口：外来的、年轻的、无法履行职责。全是事实，没有一句是感情话，正因如此才吓人。删掉她比留着她更安全——这句判断把婚姻里的位置直接换算成战场上的位置。
+- **为什么这样写**：他先答一句不，再把她从危险的中心挪到危险的边缘，用三个短促的定语收口：外来的、年轻的、无法履行职责。全是事实，没有一句是感情话，正因如此才吓人。紧挨在它前面那一句其实把方向定死了：国王不敢把她搁下，因为这桩婚事对他同样要紧——留着比删掉更安全，而这一格的答复是：也不安全。婚姻里的位置就这样直接换算成了战场上的位置。
 - **读者视角提示**：记住无法履行这个说法。后文每一次有人拿继承说事，都是在这句话上做文章。
 
 > **原句 8:** It was worse than Margareta had thought. She’d imagined the risk lay with the king’s disinterest in Anna. Now it seemed James wasn’t a threat to Anna, but her protector. And that was a terrifying prospect.

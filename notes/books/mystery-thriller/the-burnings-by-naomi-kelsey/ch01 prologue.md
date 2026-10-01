@@ -48,7 +48,7 @@ modified: "2026-10-01"
 - **中文理解**：“当然是为了把 Hepburn 家族推上王位。我当初为什么要让 Jenny 嫁给你父亲？你是国王的外孙——我当不了国王，就该你来当。”
 - **关键词**：raise the Hepburns to the throne／Jenny marry your father
 - **为什么这样写**：全章计划头一次说出口，作者用一个反问把它写成婚姻的原始动机：叔父当年把女儿嫁出去，不是联姻而是在下注。“if I can’t be king, you should be”把王位做成了可以继承的私人合约——这个句式是全书政治行动的语法。
-- **读者视角提示**：记住“raise”这个动词。叔父给的是抬高，不是夺取；他后面会把它改成别的说法（ch46 他说自己要赢得合法），两处对照着读。
+- **读者视角提示**：记住“raise”这个动词。叔父给的是抬高，不是夺取；ch46 那位苏格兰贵族的说法换了样子，后面半句变成 Bothwell 要合法地得到，两种说法对照着读。
 
 > **原句 6:** ‘You need to make him, and everyone else, see he’s a pathetic, craven sliver of a man. Make him afraid. Terrified of his own shadow. Your greatest weapon will be that boy’s fear.’
 
