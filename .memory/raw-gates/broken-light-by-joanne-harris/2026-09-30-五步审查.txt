@@ -1,0 +1,521 @@
+# Broken Light 五步审查 · a 步原始门禁输出
+# 执行方 Qoder-Mac ｜ 2026-09-30 15:07 UTC
+# 本文件为逐行原件；协作板只留聚合数字
+
+=== verify_corpus（语料层）===
+=== 语料层验收（P0-0）: broken-light-by-joanne-harris ===
+text/ 件数: 72
+  [1] 件数 72 == 预期 72  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 15 组 / 互查 210 组  OK
+  [3] 首末句抽印已跳过（--quiet-edges）
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+
+=== verify_quotes ===
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 13/13 ✅
+ch01 malbry lyceum the great carovnik.md: 7/7 ✅
+ch02 the opal fruit party.md: 8/8 ✅
+ch03 the tweets about jo perry.md: 8/8 ✅
+ch04 priscillas pantry iris and the doughnut man.md: 8/8 ✅
+ch05 chapel lane junior school adam price.md: 8/8 ✅
+ch06 jim wood and the quiet room.md: 8/8 ✅
+ch07 the voice says stop him.md: 7/7 ✅
+ch08 following woody to his front door.md: 6/6 ✅
+ch09 the banal house of a good guy.md: 5/5 ✅
+ch10 using the mirrors to turn the tables.md: 6/6 ✅
+ch11 all our stories begin with blood.md: 3/3 ✅
+ch12 the second incident sports day.md: 8/8 ✅
+ch13 what could you do with a power like that.md: 7/7 ✅
+ch14 martin twitter and the inner demon.md: 6/6 ✅
+ch15 like a child in a sweetshop.md: 4/4 ✅
+ch16 travelling is just the start.md: 8/8 ✅
+ch17 i changed his mind.md: 8/8 ✅
+ch18 the fun run poster.md: 4/4 ✅
+ch19 heliotrope and bloodstone.md: 4/4 ✅
+ch20 they were wrong.md: 6/6 ✅（另有 1 条短引语未校验）
+ch21 stop right there.md: 6/6 ✅
+ch22 nineteen customers today.md: 5/5 ✅
+ch23 like narcolepsy or something.md: 4/4 ✅
+ch24 the finchley fliers.md: 8/8 ✅
+ch25 menopause is a piece of cake.md: 3/3 ✅
+ch26 the game was only beginning.md: 5/5 ✅
+ch27 iris wants to see you in action.md: 8/8 ✅
+ch28 shame goes even deeper.md: 5/5 ✅
+ch29 a mass of toxic clutter has gone from my house.md: 4/4 ✅
+ch30 pieces of broken light.md: 5/5 ✅
+ch31 they have found him.md: 5/5 ✅
+ch32 woodys first week in the guest room.md: 7/7 ✅
+ch33 trauma a curious thing and adam price.md: 7/7 ✅
+ch34 the kate bush song and eight weeks to rehearse.md: 7/7 ✅
+ch35 the running club and what alex said.md: 7/7 ✅
+ch36 the code words exes and a walk with martin.md: 7/7 ✅
+ch37 crawley charged and a new boyfriend checked.md: 8/8 ✅
+ch38 emma button interview and a silver dress.md: 8/8 ✅
+ch39 running club and the memory of 1994.md: 8/8 ✅
+ch40 first singing lesson and a different song.md: 7/7 ✅
+ch41 yowza night and a tie left on the table.md: 8/8 ✅
+ch42 crawley thirty years ago at leeds.md: 8/8 ✅
+ch43 pog hill sixth form and adam price.md: 8/8 ✅
+ch44 easter sunday phone call and jocelyn moore on tiktok.md: 8/8 ✅
+ch45 dante visits and the octopus tattoo.md: 8/8 ✅
+ch46 two remaining problems and jim from the gym.md: 3/3 ✅
+ch47 six steps and the man who left.md: 8/8 ✅
+ch48 kate claims credit for the prom night.md: 4/4 ✅
+ch49 the killer whose light eludes her.md: 4/4 ✅
+ch50 a call to mother and a red dress.md: 8/8 ✅
+ch51 iris opens the door marked men.md: 4/4 ✅
+ch52 the wife and the hashtag.md: 4/4 ✅
+ch53 behind the office door.md: 7/7 ✅
+ch54 the sphinx principle.md: 7/7 ✅
+ch55 you look pretty like a princess.md: 7/7 ✅
+ch56 the magic hat.md: 3/3 ✅
+ch57 two men dead on the same night.md: 7/7 ✅
+ch58 juggling plates.md: 6/6 ✅
+ch59 out of the red.md: 3/3 ✅
+ch60 made you look.md: 3/3 ✅
+ch61 the angry cube of fire.md: 4/4 ✅
+ch62 iris is a problem.md: 6/6 ✅
+ch63 it feels like a bereavement.md: 3/3 ✅
+ch64 everything else is svaha.md: 3/3 ✅
+ch65 the trolley assistant remembers her.md: 3/3 ✅
+ch66 back to pog hill house.md: 6/6 ✅
+ch67 bernie moon waits in the azaleas.md: 4/4 ✅
+ch68 bernie moon takes the stage.md: 4/4 ✅
+ch69 hello katie.md: 3/3 ✅（另有 1 条短引语未校验）
+ch70 the night martin walked me home.md: 6/6 ✅
+ch71 broken light.md: 4/4 ✅
+ch72 encore the man with the child in his eyes.md: 4/4 ✅
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 434/434 引文可核实（100%）；完全干净文件 73/73；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+=== verify_quotes --full ===
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 13/13 ✅
+ch01 malbry lyceum the great carovnik.md: 7/7 ✅
+ch02 the opal fruit party.md: 8/8 ✅
+ch03 the tweets about jo perry.md: 8/8 ✅
+ch04 priscillas pantry iris and the doughnut man.md: 8/8 ✅
+ch05 chapel lane junior school adam price.md: 8/8 ✅
+ch06 jim wood and the quiet room.md: 8/8 ✅
+ch07 the voice says stop him.md: 7/7 ✅
+ch08 following woody to his front door.md: 6/6 ✅
+ch09 the banal house of a good guy.md: 5/5 ✅
+ch10 using the mirrors to turn the tables.md: 6/6 ✅
+ch11 all our stories begin with blood.md: 3/3 ✅
+ch12 the second incident sports day.md: 8/8 ✅
+ch13 what could you do with a power like that.md: 7/7 ✅
+ch14 martin twitter and the inner demon.md: 6/6 ✅
+ch15 like a child in a sweetshop.md: 4/4 ✅
+ch16 travelling is just the start.md: 8/8 ✅
+ch17 i changed his mind.md: 8/8 ✅
+ch18 the fun run poster.md: 4/4 ✅
+ch19 heliotrope and bloodstone.md: 4/4 ✅
+ch20 they were wrong.md: 6/6 ✅（另有 1 条短引语未校验）
+ch21 stop right there.md: 6/6 ✅
+ch22 nineteen customers today.md: 5/5 ✅
+ch23 like narcolepsy or something.md: 4/4 ✅
+ch24 the finchley fliers.md: 8/8 ✅
+ch25 menopause is a piece of cake.md: 3/3 ✅
+ch26 the game was only beginning.md: 5/5 ✅
+ch27 iris wants to see you in action.md: 8/8 ✅
+ch28 shame goes even deeper.md: 5/5 ✅
+ch29 a mass of toxic clutter has gone from my house.md: 4/4 ✅
+ch30 pieces of broken light.md: 5/5 ✅
+ch31 they have found him.md: 5/5 ✅
+ch32 woodys first week in the guest room.md: 7/7 ✅
+ch33 trauma a curious thing and adam price.md: 7/7 ✅
+ch34 the kate bush song and eight weeks to rehearse.md: 7/7 ✅
+ch35 the running club and what alex said.md: 7/7 ✅
+ch36 the code words exes and a walk with martin.md: 7/7 ✅
+ch37 crawley charged and a new boyfriend checked.md: 8/8 ✅
+ch38 emma button interview and a silver dress.md: 8/8 ✅
+ch39 running club and the memory of 1994.md: 8/8 ✅
+ch40 first singing lesson and a different song.md: 7/7 ✅
+ch41 yowza night and a tie left on the table.md: 8/8 ✅
+ch42 crawley thirty years ago at leeds.md: 8/8 ✅
+ch43 pog hill sixth form and adam price.md: 8/8 ✅
+ch44 easter sunday phone call and jocelyn moore on tiktok.md: 8/8 ✅
+ch45 dante visits and the octopus tattoo.md: 8/8 ✅
+ch46 two remaining problems and jim from the gym.md: 3/3 ✅
+ch47 six steps and the man who left.md: 8/8 ✅
+ch48 kate claims credit for the prom night.md: 4/4 ✅
+ch49 the killer whose light eludes her.md: 4/4 ✅
+ch50 a call to mother and a red dress.md: 8/8 ✅
+ch51 iris opens the door marked men.md: 4/4 ✅
+ch52 the wife and the hashtag.md: 4/4 ✅
+ch53 behind the office door.md: 7/7 ✅
+ch54 the sphinx principle.md: 7/7 ✅
+ch55 you look pretty like a princess.md: 7/7 ✅
+ch56 the magic hat.md: 3/3 ✅
+ch57 two men dead on the same night.md: 7/7 ✅
+ch58 juggling plates.md: 6/6 ✅
+ch59 out of the red.md: 3/3 ✅
+ch60 made you look.md: 3/3 ✅
+ch61 the angry cube of fire.md: 4/4 ✅
+ch62 iris is a problem.md: 6/6 ✅
+ch63 it feels like a bereavement.md: 3/3 ✅
+ch64 everything else is svaha.md: 3/3 ✅
+ch65 the trolley assistant remembers her.md: 3/3 ✅
+ch66 back to pog hill house.md: 6/6 ✅
+ch67 bernie moon waits in the azaleas.md: 4/4 ✅
+ch68 bernie moon takes the stage.md: 4/4 ✅
+ch69 hello katie.md: 3/3 ✅（另有 1 条短引语未校验）
+ch70 the night martin walked me home.md: 6/6 ✅
+ch71 broken light.md: 4/4 ✅
+ch72 encore the man with the child in his eyes.md: 4/4 ✅
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 434/434 引文可核实（100%）；完全干净文件 73/73；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== check_vocab ===
+词条行合计: 1849
+
+--- FAIL (0) ---
+
+--- WARN (55) ---
+  ch01 malbry lyceum the great carovnik.md [基础] 基础档疑含超纲词「assistant」
+  ch04 priscillas pantry iris and the doughnut man.md [基础] 基础档疑含超纲词「Instincts」
+  ch04 priscillas pantry iris and the doughnut man.md [基础] 基础档疑含超纲词「menopause」
+  ch06 jim wood and the quiet room.md [基础] 基础档疑含超纲词「aftershave」
+  ch07 the voice says stop him.md [基础] 基础档疑含超纲词「discomfort」
+  ch08 following woody to his front door.md [基础] 基础档疑含超纲词「attention」
+  ch13 what could you do with a power like that.md [基础] 基础档疑含超纲词「Instagram」
+  ch16 travelling is just the start.md [基础] 基础档疑含超纲词「housework」
+  ch16 travelling is just the start.md [基础] 基础档疑含超纲词「croissants」
+  ch17 i changed his mind.md [基础] 基础档疑含超纲词「customers」
+  ch19 heliotrope and bloodstone.md [基础] 基础档疑含超纲词「expression」
+  ch20 they were wrong.md [基础] 基础档疑含超纲词「electricity」
+  ch20 they were wrong.md [基础] 基础档疑含超纲词「cigarette」
+  ch22 nineteen customers today.md [基础] 基础档疑含超纲词「childhood sweetheart」
+  ch25 menopause is a piece of cake.md [基础] 基础档疑含超纲词「ambulance」
+  ch25 menopause is a piece of cake.md [基础] 基础档疑含超纲词「responsibility」
+  ch26 the game was only beginning.md [基础] 基础档疑含超纲词「champagne」
+  ch26 the game was only beginning.md [基础] 基础档疑含超纲词「photographer」
+  ch26 the game was only beginning.md [基础] 基础档疑含超纲词「cocktails」
+  ch27 iris wants to see you in action.md [基础] 基础档疑含超纲词「margaritas」
+  ch28 shame goes even deeper.md [基础] 基础档疑含超纲词「lunchtime」
+  ch28 shame goes even deeper.md [基础] 基础档疑含超纲词「chocolate」
+  ch28 shame goes even deeper.md [基础] 基础档疑含超纲词「tablecloth」
+  ch29 a mass of toxic clutter has gone from my house.md [基础] 基础档疑含超纲词「customers」
+  ch30 pieces of broken light.md [基础] 基础档疑含超纲词「croissants」
+  ch31 they have found him.md [基础] 基础档疑含超纲词「neighbours」
+  ch32 woodys first week in the guest room.md [基础] 基础档疑含超纲词「ex-colleague」
+  ch33 trauma a curious thing and adam price.md [基础] 基础档疑含超纲词「violation」
+  ch33 trauma a curious thing and adam price.md [基础] 基础档疑含超纲词「concerned」
+  ch34 the kate bush song and eight weeks to rehearse.md [基础] 基础档疑含超纲词「boyfriend」
+  ch34 the kate bush song and eight weeks to rehearse.md [基础] 基础档疑含超纲词「counsellor」
+  ch34 the kate bush song and eight weeks to rehearse.md [基础] 基础档疑含超纲词「confident」
+  ch34 the kate bush song and eight weeks to rehearse.md [基础] 基础档疑含超纲词「listening」
+  ch35 the running club and what alex said.md [基础] 基础档疑含超纲词「household」
+  ch35 the running club and what alex said.md [基础] 基础档疑含超纲词「initially」
+  ch37 crawley charged and a new boyfriend checked.md [基础] 基础档疑含超纲词「Neighbours」
+  ch37 crawley charged and a new boyfriend checked.md [基础] 基础档疑含超纲词「photograph」
+  ch37 crawley charged and a new boyfriend checked.md [基础] 基础档疑含超纲词「colleague」
+  ch37 crawley charged and a new boyfriend checked.md [基础] 基础档疑含超纲词「unnoticed」
+  ch41 yowza night and a tie left on the table.md [基础] 基础档疑含超纲词「girlfriend」
+  ch42 crawley thirty years ago at leeds.md [基础] 基础档疑含超纲词「cafeteria queue」
+  ch42 crawley thirty years ago at leeds.md [基础] 基础档疑含超纲词「douchebag」
+  ch43 pog hill sixth form and adam price.md [基础] 基础档疑含超纲词「caretaker」
+  ch46 two remaining problems and jim from the gym.md [基础] 基础档疑含超纲词「headaches」
+  ch47 six steps and the man who left.md [基础] 基础档疑含超纲词「underwear」
+  ch48 kate claims credit for the prom night.md [基础] 基础档疑含超纲词「boyfriend」
+  ch48 kate claims credit for the prom night.md [基础] 基础档疑含超纲词「caretaker」
+  ch62 iris is a problem.md [基础] 基础档疑含超纲词「friendship」
+  ch63 it feels like a bereavement.md [基础] 基础档疑含超纲词「appearance」
+  ch66 back to pog hill house.md [基础] 基础档疑含超纲词「PlayStation」
+  ch68 bernie moon takes the stage.md [基础] 基础档疑含超纲词「backstage」
+  ch70 the night martin walked me home.md [基础] 基础档疑含超纲词「gentleman」
+  ch71 broken light.md [基础] 基础档疑含超纲词「explosion」
+  ch72 encore the man with the child in his eyes.md [基础] 基础档疑含超纲词「caretaker」
+  ch72 encore the man with the child in his eyes.md [基础] 基础档疑含超纲词「mirrorball」
+
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== corruption_scan ===
+
+=== 编辑损坏扫描（broken-light-by-joanne-harris）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== sweep_full ===
+=== 引语整串 flat 比对（broken-light-by-joanne-harris）===
+  参照集：text/ 逐章（72 章，可定章） + epub 交叉验证
+  ✅ 本章命中 421 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+
+=== b 步 · 逐章归属 check_chapter_quotes（72 章逐一）===
+  ch01  缺 md
+  ch02  缺 md
+  ch03  缺 md
+  ch04  缺 md
+  ch05  缺 md
+  ch06  缺 md
+  ch07  缺 md
+  ch08  缺 md
+  ch09  缺 md
+  ch10  缺 md
+  ch11  缺 md
+  ch12  缺 md
+  ch13  缺 md
+  ch14  缺 md
+  ch15  缺 md
+  ch16  缺 md
+  ch17  缺 md
+  ch18  缺 md
+  ch19  缺 md
+  ch20  缺 md
+  ch21  缺 md
+  ch22  缺 md
+  ch23  缺 md
+  ch24  缺 md
+  ch25  缺 md
+  ch26  缺 md
+  ch27  缺 md
+  ch28  缺 md
+  ch29  缺 md
+  ch30  缺 md
+  ch31  缺 md
+  ch32  缺 md
+  ch33  缺 md
+  ch34  缺 md
+  ch35  缺 md
+  ch36  缺 md
+  ch37  缺 md
+  ch38  缺 md
+  ch39  缺 md
+  ch40  缺 md
+  ch41  缺 md
+  ch42  缺 md
+  ch43  缺 md
+  ch44  缺 md
+  ch45  缺 md
+  ch46  缺 md
+  ch47  缺 md
+  ch48  缺 md
+  ch49  缺 md
+  ch50  缺 md
+  ch51  缺 md
+  ch52  缺 md
+  ch53  缺 md
+  ch54  缺 md
+  ch55  缺 md
+  ch56  缺 md
+  ch57  缺 md
+  ch58  缺 md
+  ch59  缺 md
+  ch60  缺 md
+  ch61  缺 md
+  ch62  缺 md
+  ch63  缺 md
+  ch64  缺 md
+  ch65  缺 md
+  ch66  缺 md
+  ch67  缺 md
+  ch68  缺 md
+  ch69  缺 md
+  ch70  缺 md
+  ch71  缺 md
+  ch72  缺 md
+
+=== check_short_quotes（<20 字符短引语兜底）===
+=== 短引语兜底核对（broken-light-by-joanne-harris）===
+  verify_quotes 跳过（<20 flat 字符）的引语：2 条 —— 这些主门禁**根本没查**
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== b 步 · 逐章归属 check_chapter_quotes（72 章逐一）===
+# ⚠️ 首次跑用了 chNN_*.md 通配，而文件名是 chNN <slug>.md（空格分隔）⇒ 全部误报「缺 md」。
+#   已改用 chNN *.md 重跑；下面这 72 行才是结果。
+
+  ch01 malbry lyceum the great carovnik.md: 7/7 in ch01 text
+  ch02 the opal fruit party.md: 8/8 in ch02 text
+  ch03 the tweets about jo perry.md: 8/8 in ch03 text
+  ch04 priscillas pantry iris and the doughnut man.md: 8/8 in ch04 text
+  ch05 chapel lane junior school adam price.md: 8/8 in ch05 text
+  ch06 jim wood and the quiet room.md: 8/8 in ch06 text
+  ch07 the voice says stop him.md: 7/7 in ch07 text
+  ch08 following woody to his front door.md: 6/6 in ch08 text
+  ch09 the banal house of a good guy.md: 5/5 in ch09 text
+  ch10 using the mirrors to turn the tables.md: 6/6 in ch10 text
+  ch11 all our stories begin with blood.md: 3/3 in ch11 text
+  ch12 the second incident sports day.md: 8/8 in ch12 text
+  ch13 what could you do with a power like that.md: 7/7 in ch13 text
+  ch14 martin twitter and the inner demon.md: 6/6 in ch14 text
+  ch15 like a child in a sweetshop.md: 4/4 in ch15 text
+  ch16 travelling is just the start.md: 8/8 in ch16 text
+  ch17 i changed his mind.md: 8/8 in ch17 text
+  ch18 the fun run poster.md: 4/4 in ch18 text
+  ch19 heliotrope and bloodstone.md: 4/4 in ch19 text
+  ch20 they were wrong.md: 6/6 in ch20 text（另有 1 条短引语未校验）
+  ch21 stop right there.md: 6/6 in ch21 text
+  ch22 nineteen customers today.md: 5/5 in ch22 text
+  ch23 like narcolepsy or something.md: 4/4 in ch23 text
+  ch24 the finchley fliers.md: 8/8 in ch24 text
+  ch25 menopause is a piece of cake.md: 3/3 in ch25 text
+  ch26 the game was only beginning.md: 5/5 in ch26 text
+  ch27 iris wants to see you in action.md: 8/8 in ch27 text
+  ch28 shame goes even deeper.md: 5/5 in ch28 text
+  ch29 a mass of toxic clutter has gone from my house.md: 4/4 in ch29 text
+  ch30 pieces of broken light.md: 5/5 in ch30 text
+  ch31 they have found him.md: 5/5 in ch31 text
+  ch32 woodys first week in the guest room.md: 7/7 in ch32 text
+  ch33 trauma a curious thing and adam price.md: 7/7 in ch33 text
+  ch34 the kate bush song and eight weeks to rehearse.md: 7/7 in ch34 text
+  ch35 the running club and what alex said.md: 7/7 in ch35 text
+  ch36 the code words exes and a walk with martin.md: 7/7 in ch36 text
+  ch37 crawley charged and a new boyfriend checked.md: 8/8 in ch37 text
+  ch38 emma button interview and a silver dress.md: 8/8 in ch38 text
+  ch39 running club and the memory of 1994.md: 8/8 in ch39 text
+  ch40 first singing lesson and a different song.md: 7/7 in ch40 text
+  ch41 yowza night and a tie left on the table.md: 8/8 in ch41 text
+  ch42 crawley thirty years ago at leeds.md: 8/8 in ch42 text
+  ch43 pog hill sixth form and adam price.md: 8/8 in ch43 text
+  ch44 easter sunday phone call and jocelyn moore on tiktok.md: 8/8 in ch44 text
+  ch45 dante visits and the octopus tattoo.md: 8/8 in ch45 text
+  ch46 two remaining problems and jim from the gym.md: 3/3 in ch46 text
+  ch47 six steps and the man who left.md: 8/8 in ch47 text
+  ch48 kate claims credit for the prom night.md: 4/4 in ch48 text
+  ch49 the killer whose light eludes her.md: 4/4 in ch49 text
+  ch50 a call to mother and a red dress.md: 8/8 in ch50 text
+  ch51 iris opens the door marked men.md: 4/4 in ch51 text
+  ch52 the wife and the hashtag.md: 4/4 in ch52 text
+  ch53 behind the office door.md: 7/7 in ch53 text
+  ch54 the sphinx principle.md: 7/7 in ch54 text
+  ch55 you look pretty like a princess.md: 7/7 in ch55 text
+  ch56 the magic hat.md: 3/3 in ch56 text
+  ch57 two men dead on the same night.md: 7/7 in ch57 text
+  ch58 juggling plates.md: 6/6 in ch58 text
+  ch59 out of the red.md: 3/3 in ch59 text
+  ch60 made you look.md: 3/3 in ch60 text
+  ch61 the angry cube of fire.md: 4/4 in ch61 text
+  ch62 iris is a problem.md: 6/6 in ch62 text
+  ch63 it feels like a bereavement.md: 3/3 in ch63 text
+  ch64 everything else is svaha.md: 3/3 in ch64 text
+  ch65 the trolley assistant remembers her.md: 3/3 in ch65 text
+  ch66 back to pog hill house.md: 6/6 in ch66 text
+  ch67 bernie moon waits in the azaleas.md: 4/4 in ch67 text
+  ch68 bernie moon takes the stage.md: 4/4 in ch68 text
+  ch69 hello katie.md: 3/3 in ch69 text（另有 1 条短引语未校验）
+  ch70 the night martin walked me home.md: 6/6 in ch70 text
+  ch71 broken light.md: 4/4 in ch71 text
+  ch72 encore the man with the child in his eyes.md: 4/4 in ch72 text
+
+b 步汇总：本章命中 72 ｜ MISS 0 ｜ 缺 md 0 ｜ 共 72 章
+
+=== c 步 · 结构扫描 audit_structure ===
+=== 精读结构扫描（broken-light-by-joanne-harris）===
+  扫 75 个 md、438 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 9 ｜ 🔀 映射不一致 0
+  ⚠️ ch11 all our stories begin with blood.md  引语 3 个，与本书众数 8 相差过大
+  ⚠️ ch25 menopause is a piece of cake.md  引语 3 个，与本书众数 8 相差过大
+  ⚠️ ch46 two remaining problems and jim from  引语 3 个，与本书众数 8 相差过大
+  ⚠️ ch56 the magic hat.md  引语 3 个，与本书众数 8 相差过大
+  ⚠️ ch59 out of the red.md  引语 3 个，与本书众数 8 相差过大
+  ⚠️ ch60 made you look.md  引语 3 个，与本书众数 8 相差过大
+  ⚠️ ch63 it feels like a bereavement.md  引语 3 个，与本书众数 8 相差过大
+  ⚠️ ch64 everything else is svaha.md  引语 3 个，与本书众数 8 相差过大
+  ⚠️ ch65 the trolley assistant remembers her  引语 3 个，与本书众数 8 相差过大
+
+=== c 步 · 第二实现（自检 blight_strict，异口径）===
+=== blight_strict 自检（72 章）===
+本脚本 sha256[:12] = 1111fd465679（不许改；改了自检就对齐失效）
+阻断项 0
+
+=== c 步 · 总览三篇 H1 语义 ===
+notes/books/mystery-thriller/broken-light-by-joanne-harris/00_情感节点.md:# 情感节点
+notes/books/mystery-thriller/broken-light-by-joanne-harris/00_概述.md:# 概述
+notes/books/mystery-thriller/broken-light-by-joanne-harris/00_金句精选.md:# 金句精选
+
+=== d 步机械子项 · 三个 tracked 第二实现 ===
+=== check_struct_indep ===
+=== 独立结构扫描：72 个 md，缺陷 0 处 ===
+
+=== check_xref_indep ===
+=== chNN 引用 164 处：英文证据报警 0 处 ／ 中文式待人判 163 处 ===
+
+=== check_analysis_indep ===
+抽出分析层英文片段 787 条
+✅ 全部片段在全书 text/ 逐字命中
+
+
+=== e 步 · 总览门禁 ===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: ➖ 无引语行（正常，非门禁项）
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 13/13 ✅
+
+=== 总览引文 13/13 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== 总览整串核查（broken-light-by-joanne-harris）===
+  参照集：text/ 逐章（72 章） ｜ 总览文件 3 个
+  A 整串：命中 44 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 44 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== e 步 · 总览行内英文逐条 flat 核验（六道门禁口径外）===
+  总览行内英文片段（≥12 flat 字符、排除引语行与表格）：266 条
+  全书 flat 命中：266 ｜ 查无：0
+
+########## 整改后复验 ##########
+=== a 步复跑：第 3 条提交门禁 ===
+
+=== 总计 434/434 引文可核实（100%）；完全干净文件 73/73；正文章节 0 提取 0；总览 0 提取转交 1 ===
+=== 总计 434/434 引文可核实（100%）；完全干净文件 73/73；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+词条行合计: 1849
+--- FAIL (0) ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+  ✅ 本章命中 421 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== b 步复跑：逐章归属 ===
+  逐章归属：72/72 命中，MISS 0
+
+=== c 步复跑：结构（两实现）===
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 9 ｜ 🔀 映射不一致 0
+=== 独立结构扫描：72 个 md，缺陷 0 处 ===
+
+=== d 步机械复跑：三个第二实现 ===
+=== chNN 引用 181 处：英文证据报警 0 处 ／ 中文式待人判 180 处 ===
+抽出分析层英文片段 786 条
+✅ 全部片段在全书 text/ 逐字命中
+
+=== e 步复跑：总览 ===
+=== 总览引文 13/13 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+  A 整串：命中 47 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 47 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 1 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+########## 五步审查终态（整改后）##########
+md 章节数: 72  text: 72  总览: 3
+未提交: 0
+
+
+=== 总计 434/434 引文可核实（100%）；完全干净文件 73/73；正文章节 0 提取 0；总览 0 提取转交 1 ===
+词条行合计: 1849
+--- FAIL (0) ---
+  FAIL 0 处（U+FFFD / 双句号）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 5 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ✅ 本章命中 421 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 9 ｜ 🔀 映射不一致 0
