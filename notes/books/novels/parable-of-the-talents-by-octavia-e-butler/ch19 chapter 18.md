@@ -98,15 +98,27 @@ source_text: ch19_chapter_18.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| discipline | ⭐⭐⭐ | 纪律（此处指制度化的镇压能力） | They had the power, the knowledge, and the discipline to bury us. |
-| successful | ⭐⭐⭐ | 成功的（此处指教会而非信徒） | But in post-Pox America, successful churches were only sources of influence. |
-| reassurance | ⭐⭐ | 安慰（此处指讲道者给听众的） | People who were old enough to be my parents came to me for advice, reassurance, and comfort. |
-| profound | ⭐⭐ | 深刻的、深邃的 | I’ve always believed in the power of God, distant and profound. |
-| permitted | ⭐⭐ | 被允许的（此处指被许可看见的） | What we’re permitted to see. |
-| preaching | ⭐⭐ | 讲道、布道 | I began preaching when I was only a boy. |
-| minister | ⭐ | 牧师（此处指浸信会牧师之子） | I wonder if that’s odd in the son of a Baptist minister. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| discipline | 纪律（此处指制度化的镇压能力） | They had the power, the knowledge, and the discipline to bury us. |
+| successful | 成功的（此处指教会而非信徒） | But in post-Pox America, successful churches were only sources of influence. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| reassurance | 安慰（此处指讲道者给听众的） | People who were old enough to be my parents came to me for advice, reassurance, and comfort. |
+| profound | 深刻的、深邃的 | I’ve always believed in the power of God, distant and profound. |
+| permitted | 被允许的（此处指被许可看见的） | What we’re permitted to see. |
+| preaching | 讲道、布道 | I began preaching when I was only a boy. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| minister | 牧师（此处指浸信会牧师之子） | I wonder if that’s odd in the son of a Baptist minister. |
 
 ## 一句话总结
 

@@ -1,0 +1,35 @@
+=== audit_structure（c 步主）===
+=== 精读结构扫描（parable-of-the-talents-by-octavia-e-butler）===
+  扫 26 个 md、237 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== check_struct_indep（第二实现，模板规定用它）===
+  ❌ ch17 chapter 16.md: [summary] 词汇档位标题缺「### ⭐ 基础」
+  ❌ ch18 chapter 17.md: [summary] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch18 chapter 17.md: [summary] 词汇档位标题缺「### ⭐⭐ 进阶」
+  ❌ ch18 chapter 17.md: [summary] 词汇档位标题缺「### ⭐ 基础」
+  ❌ ch19 chapter 18.md: [summary] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch19 chapter 18.md: [summary] 词汇档位标题缺「### ⭐⭐ 进阶」
+  ❌ ch19 chapter 18.md: [summary] 词汇档位标题缺「### ⭐ 基础」
+  ❌ ch20 chapter 19.md: [summary] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch20 chapter 19.md: [summary] 词汇档位标题缺「### ⭐⭐ 进阶」
+  ❌ ch20 chapter 19.md: [summary] 词汇档位标题缺「### ⭐ 基础」
+  ❌ ch21 chapter 20.md: [summary] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch21 chapter 20.md: [summary] 词汇档位标题缺「### ⭐⭐ 进阶」
+  ❌ ch21 chapter 20.md: [summary] 词汇档位标题缺「### ⭐ 基础」
+  ❌ ch22 chapter 21.md: [summary] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch22 chapter 21.md: [summary] 词汇档位标题缺「### ⭐⭐ 进阶」
+  ❌ ch22 chapter 21.md: [summary] 词汇档位标题缺「### ⭐ 基础」
+  ❌ ch23 epilogue.md: [summary] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch23 epilogue.md: [summary] 词汇档位标题缺「### ⭐⭐ 进阶」
+  ❌ ch23 epilogue.md: [summary] 词汇档位标题缺「### ⭐ 基础」
+=== 独立结构扫描：23 个 md，缺陷 69 处 ===
+
+=== check_overview_full ===
+=== 总览整串核查（parable-of-the-talents-by-octavia-e-butler）===
+  参照集：text/ 逐章（23 章） ｜ 总览文件 3 个
+  A 整串：命中 108 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 4
+  B 章节标签：对 108 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0

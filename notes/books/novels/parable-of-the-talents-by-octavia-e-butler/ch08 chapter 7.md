@@ -98,20 +98,32 @@ source_text: ch08_chapter_7.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| world-fixers | ⭐⭐⭐ | 想改造世界者 | Yet he was the father of two would-be world-fixers. |
-| admonitions | ⭐⭐⭐ | 告诫、训诫 | Earthseed with all its definitions, admonitions, requirements, purpose. |
-| requirements | ⭐⭐⭐ | 要求、戒律 | Earthseed with all its definitions, admonitions, requirements, purpose. |
-| inevitable | ⭐⭐⭐ | 不可避免的 | She saw chaos as natural and inevitable and as clay to be shaped and directed. |
-| compliment | ⭐⭐ | 恭维、回敬 | I could return the compliment. |
-| handsomest | ⭐⭐ | 最英俊的（最高级） | My Uncle Marc was the handsomest man I’ve ever seen. |
-| palisade | ⭐⭐ | 木栅（此处指海边悬崖边的栅栏） | Halstead used to have a beach and above the beach was a palisade where the town began. |
-| well-built | ⭐⭐ | 建造精良的 | On one side of the peninsula were the old houses, large, well-built wood frame structures. |
-| sharer | ⭐⭐ | 超共感者（sharer＝与他人共感之人） | Well, my mother was a sharer, a little adult at 15, and a survivor of the destruction of her whole neighborhood at 18. |
-| survivor | ⭐⭐ | 幸存者 | Well, my mother was a sharer, a little adult at 15, and a survivor of the destruction of her whole neighborhood at 18. |
-| neighborhood | ⭐ | 街区、城区 | I was born into a world that was no bigger than the walled neighborhood enclave where my family lived. |
-| grandfather | ⭐ | 外祖父 | My grandfather was, from what I’ve heard, a good and dedicated Baptist minister. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| world-fixers | 想改造世界者 | Yet he was the father of two would-be world-fixers. |
+| admonitions | 告诫、训诫 | Earthseed with all its definitions, admonitions, requirements, purpose. |
+| requirements | 要求、戒律 | Earthseed with all its definitions, admonitions, requirements, purpose. |
+| inevitable | 不可避免的 | She saw chaos as natural and inevitable and as clay to be shaped and directed. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| compliment | 恭维、回敬 | I could return the compliment. |
+| handsomest | 最英俊的（最高级） | My Uncle Marc was the handsomest man I’ve ever seen. |
+| palisade | 木栅（此处指海边悬崖边的栅栏） | Halstead used to have a beach and above the beach was a palisade where the town began. |
+| well-built | 建造精良的 | On one side of the peninsula were the old houses, large, well-built wood frame structures. |
+| sharer | 超共感者（sharer＝与他人共感之人） | Well, my mother was a sharer, a little adult at 15, and a survivor of the destruction of her whole neighborhood at 18. |
+| survivor | 幸存者 | Well, my mother was a sharer, a little adult at 15, and a survivor of the destruction of her whole neighborhood at 18. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| neighborhood | 街区、城区 | I was born into a world that was no bigger than the walled neighborhood enclave where my family lived. |
+| grandfather | 外祖父 | My grandfather was, from what I’ve heard, a good and dedicated Baptist minister. |
 
 ## 一句话总结
 

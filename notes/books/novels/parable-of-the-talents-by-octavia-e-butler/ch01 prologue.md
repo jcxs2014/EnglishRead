@@ -98,25 +98,37 @@ source_text: ch01_prologue.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| manipulate | ⭐⭐⭐ | 操纵、操控（此处指母亲需要借助大型事件来操纵他人） | And she needed large events to manipulate. |
-| assembling | ⭐⭐⭐ | 汇集、编辑成册（叙述者把母亲遗稿编成本书的行为） | That is my reason for writing and assembling this book. |
-| metaphorically | ⭐⭐⭐ | 隐喻地、比喻意义上（叙述者以此限定母亲箴言的效力） | The words are harmless, I suppose, and metaphorically true. |
-| potential | ⭐⭐ | 潜能（Earthseed 诗中与 purpose 对举） | But with potential. |
-| developed | ⭐⭐ | 发展出（此处为 need to draw，非身体发育） | And along with the need to write, she also developed a need to draw. |
-| gathered | ⭐⭐ | 收集、搜集（叙述者收集母亲的画作） | I’ve gathered a few of her drawings, although she gave most of these away during her lifetime. |
-| notebooks | ⭐⭐ | 笔记本（母亲早年藏存的纸质笔记） | Even some of her early, paper notebooks have been copied to disk or crystal and saved. |
-| journals | ⭐⭐ | 日记（母亲的 journal 与笔记被保存下来） | These saved her life several times, and also they saved her words, her journals and notes and my father’s writings. |
-| badgered | ⭐⭐ | 纠缠、反复纠缠不休（母亲逼父亲动笔） | I’m glad she badgered him. |
-| believed | ⭐⭐ | 相信（此处为叙述者转述母亲的信念） | “God is Change,” my mother believed. |
-| harmless | ⭐⭐ | 无害的（叙述者对母亲箴言的降格评价） | The words are harmless, I suppose, and metaphorically true. |
-| memories | ⭐⭐ | 记忆（母亲最后一次「触碰」所携带之物） | And now she’s touched me one last time with her memories, her life, and her damned Earthseed. |
-| biological mother | ⭐ | 生母（以血缘限定母亲身份） | She was my biological mother. |
-| damned | ⭐ | 该死的（叙述者唯一的情绪爆发词） | And now she’s touched me one last time with her memories, her life, and her damned Earthseed. |
-| drawings | ⭐ | 图画、画作（母亲除写作外的发展） | I’ve gathered a few of her drawings, although she gave most of these away during her lifetime. |
-| lifetime | ⭐ | 一生、终身（母亲在世时赠出多数画作） | I’ve gathered a few of her drawings, although she gave most of these away during her lifetime. |
-| legal name | ⭐ | 法律姓名（叙述者以全名与「Olamina」并置） | Her legal name was Lauren Oya Olamina Bankole. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| manipulate | 操纵、操控（此处指母亲需要借助大型事件来操纵他人） | And she needed large events to manipulate. |
+| assembling | 汇集、编辑成册（叙述者把母亲遗稿编成本书的行为） | That is my reason for writing and assembling this book. |
+| metaphorically | 隐喻地、比喻意义上（叙述者以此限定母亲箴言的效力） | The words are harmless, I suppose, and metaphorically true. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| potential | 潜能（Earthseed 诗中与 purpose 对举） | But with potential. |
+| developed | 发展出（此处为 need to draw，非身体发育） | And along with the need to write, she also developed a need to draw. |
+| gathered | 收集、搜集（叙述者收集母亲的画作） | I’ve gathered a few of her drawings, although she gave most of these away during her lifetime. |
+| notebooks | 笔记本（母亲早年藏存的纸质笔记） | Even some of her early, paper notebooks have been copied to disk or crystal and saved. |
+| journals | 日记（母亲的 journal 与笔记被保存下来） | These saved her life several times, and also they saved her words, her journals and notes and my father’s writings. |
+| badgered | 纠缠、反复纠缠不休（母亲逼父亲动笔） | I’m glad she badgered him. |
+| believed | 相信（此处为叙述者转述母亲的信念） | “God is Change,” my mother believed. |
+| harmless | 无害的（叙述者对母亲箴言的降格评价） | The words are harmless, I suppose, and metaphorically true. |
+| memories | 记忆（母亲最后一次「触碰」所携带之物） | And now she’s touched me one last time with her memories, her life, and her damned Earthseed. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| biological mother | 生母（以血缘限定母亲身份） | She was my biological mother. |
+| damned | 该死的（叙述者唯一的情绪爆发词） | And now she’s touched me one last time with her memories, her life, and her damned Earthseed. |
+| drawings | 图画、画作（母亲除写作外的发展） | I’ve gathered a few of her drawings, although she gave most of these away during her lifetime. |
+| lifetime | 一生、终身（母亲在世时赠出多数画作） | I’ve gathered a few of her drawings, although she gave most of these away during her lifetime. |
+| legal name | 法律姓名（叙述者以全名与「Olamina」并置） | Her legal name was Lauren Oya Olamina Bankole. |
 
 ## 一句话总结
 

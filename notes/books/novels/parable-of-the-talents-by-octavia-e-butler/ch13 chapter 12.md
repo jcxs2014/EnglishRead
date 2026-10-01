@@ -98,20 +98,32 @@ source_text: ch13_chapter_12.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| aftereffects | ⭐⭐⭐ | 后遗症、事后反应 | Most of the time, it worked fast and caused no pain and had no nasty aftereffects. |
-| wickedness | ⭐⭐⭐ | 邪恶、恶劣 | Now we are told that our children have been saved from our wickedness. |
-| citizenship | ⭐⭐⭐ | 公民身份、国籍 | They have put our children’s feet on the pathway to good, useful American citizenship here on Earth, and to a place in heaven when they die. |
-| administered | ⭐⭐ | 施予、给药（此处指给解毒剂） | For that reason, an antidote was developed to be administered to small people who were overcome. |
-| reeducated | ⭐⭐ | 被重新教育的（此处指洗脑） | We must be reeducated. |
-| kidnappers | ⭐⭐ | 绑架者 | We’ll lie to these murderers, these kidnappers, these thieves, these slavers. |
-| malfunction | ⭐⭐ | 故障、失灵 | Someday they’ll get careless or their equipment will malfunction or we’ll find or create some weakness, some blind spot. |
-| physicians | ⭐⭐ | 医师（此处指十字军中无医） | There were no physicians among them. |
-| captors | ⭐ | 俘虏我们的人（须称其为「Teacher」） | Out of kindness and love, our captors—we are required to address them each as “Teacher”—have provided for our children. |
-| collars | ⭐ | 项圈（此处为颈上的控制装置） | Interesting that we could scrape into the girder without pain from our collars. |
-| anonymity | ⭐ | 匿名、无名（此处指社区里的无名者反成弱点） | We were nobodies, and our anonymity, far from protecting us, had made us vulnerable. |
-| amusement | ⭐ | 消遣、娱乐（此处指十字军的「娱乐」） | But even though we obey, the Crusaders must have their amusements. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| aftereffects | 后遗症、事后反应 | Most of the time, it worked fast and caused no pain and had no nasty aftereffects. |
+| wickedness | 邪恶、恶劣 | Now we are told that our children have been saved from our wickedness. |
+| citizenship | 公民身份、国籍 | They have put our children’s feet on the pathway to good, useful American citizenship here on Earth, and to a place in heaven when they die. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| administered | 施予、给药（此处指给解毒剂） | For that reason, an antidote was developed to be administered to small people who were overcome. |
+| reeducated | 被重新教育的（此处指洗脑） | We must be reeducated. |
+| kidnappers | 绑架者 | We’ll lie to these murderers, these kidnappers, these thieves, these slavers. |
+| malfunction | 故障、失灵 | Someday they’ll get careless or their equipment will malfunction or we’ll find or create some weakness, some blind spot. |
+| physicians | 医师（此处指十字军中无医） | There were no physicians among them. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| captors | 俘虏我们的人（须称其为「Teacher」） | Out of kindness and love, our captors—we are required to address them each as “Teacher”—have provided for our children. |
+| collars | 项圈（此处为颈上的控制装置） | Interesting that we could scrape into the girder without pain from our collars. |
+| anonymity | 匿名、无名（此处指社区里的无名者反成弱点） | We were nobodies, and our anonymity, far from protecting us, had made us vulnerable. |
+| amusement | 消遣、娱乐（此处指十字军的「娱乐」） | But even though we obey, the Crusaders must have their amusements. |
 
 ## 一句话总结
 

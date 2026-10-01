@@ -98,16 +98,28 @@ source_text: ch12_chapter_11.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| legitimacy | ⭐⭐⭐ | 合法性、正统性 | They have acquired… if not legitimacy, at least a shadow of sophistication. |
-| sophistication | ⭐⭐⭐ | 老练、 sophistication（此处指建制化的暴力） | They have acquired… if not legitimacy, at least a shadow of sophistication. |
-| possessions | ⭐⭐⭐ | 财物、所有物 | All possessions will be taken. |
-| maggot | ⭐⭐⭐ | maggot（装甲车，因形似蛆得名） | A maggot, nicknamed in its ugly shape, is something less than a tank, and something more than a truck. |
-| hard-currency | ⭐⭐ | 硬通货（流通货币） | They have hard-currency value. |
-| reeducation | ⭐⭐ | 再教育（此处指洗脑） | That would inhibit our reeducation. |
-| baby | ⭐ | 婴儿（此处指被抱走的 Larkin） | It was all I could do to manage not to fall on my baby, instead to have her fall on me. |
-| people | ⭐ | 人们、众人（此处指 Acorn 全体） | All I could think about was Larkin, Bankole, my people, and the damned slave collar around my neck. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| legitimacy | 合法性、正统性 | They have acquired… if not legitimacy, at least a shadow of sophistication. |
+| sophistication | 老练、 sophistication（此处指建制化的暴力） | They have acquired… if not legitimacy, at least a shadow of sophistication. |
+| possessions | 财物、所有物 | All possessions will be taken. |
+| maggot | maggot（装甲车，因形似蛆得名） | A maggot, nicknamed in its ugly shape, is something less than a tank, and something more than a truck. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| hard-currency | 硬通货（流通货币） | They have hard-currency value. |
+| reeducation | 再教育（此处指洗脑） | That would inhibit our reeducation. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| baby | 婴儿（此处指被抱走的 Larkin） | It was all I could do to manage not to fall on my baby, instead to have her fall on me. |
+| people | 人们、众人（此处指 Acorn 全体） | All I could think about was Larkin, Bankole, my people, and the damned slave collar around my neck. |
 
 ## 一句话总结
 

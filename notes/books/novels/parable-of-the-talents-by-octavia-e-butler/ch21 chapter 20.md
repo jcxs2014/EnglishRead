@@ -98,13 +98,25 @@ source_text: ch21_chapter_20.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| uncomfortable | ⭐⭐⭐ | 不自在的、不情愿的 | There was even some talk of his running for president, although he seemed uncomfortable about this. |
-| denomination | ⭐⭐⭐ | 教派（此处指基督教美国已沦为普通教派） | By then, though, the Church was just one more Protestant denomination. |
-| Protestant | ⭐⭐ | 新教的（此处指 Protestant denomination＝新教教派） | By then, though, the Church was just one more Protestant denomination. |
-| amazement | ⭐⭐ | 惊讶（此处指「竟没想到」） | But to my amazement, I missed my adoptive parents. |
-| Unitarian | ⭐ | 一神论者（此处指雇主受过的信仰背景） | She had been raised a Unitarian, but now seemed to have no religious interests. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| uncomfortable | 不自在的、不情愿的 | There was even some talk of his running for president, although he seemed uncomfortable about this. |
+| denomination | 教派（此处指基督教美国已沦为普通教派） | By then, though, the Church was just one more Protestant denomination. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| Protestant | 新教的（此处指 Protestant denomination＝新教教派） | By then, though, the Church was just one more Protestant denomination. |
+| amazement | 惊讶（此处指「竟没想到」） | But to my amazement, I missed my adoptive parents. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| Unitarian | 一神论者（此处指雇主受过的信仰背景） | She had been raised a Unitarian, but now seemed to have no religious interests. |
 
 ## 一句话总结
 

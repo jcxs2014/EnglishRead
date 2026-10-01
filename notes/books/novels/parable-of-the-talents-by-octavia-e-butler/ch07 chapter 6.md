@@ -98,21 +98,33 @@ source_text: ch07_chapter_6.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| mismatched | ⭐⭐⭐ | 不相配的 | Such mismatched people, yet such a normal reaction. |
-| euphemisms | ⭐⭐⭐ | 委婉语、雅称（此处指奴隶贩子的行业黑话） | The man was a pimp, of course—“a livestock man, specializing in lamb and chicken” as one of the euphemisms went. |
-| specializing | ⭐⭐ | 专营、专门从事 | The man was a pimp, of course—“a livestock man, specializing in lamb and chicken” as one of the euphemisms went. |
-| opportunistic | ⭐⭐ | 机会主义的、趁火打劫的 | Any home or farm that can be seen from the highway is bound to be tempting to the desperate and the opportunistic, and now the fanatical. |
-| reputation | ⭐⭐ | 名声、声誉 | Dovetree as it was survived because the family was large, well armed, and had a reputation for toughness. |
-| contagious | ⭐⭐ | 会传染的 | Thanks to malnutrition, climate change, poverty, and ignorance, a lot of old diseases are back, and some of them are contagious. |
-| outbuildings | ⭐⭐ | 附属建筑（谷仓、棚屋等） | The houses and outbuildings had been torched along with the stills and fields. |
-| formidable | ⭐⭐ | 强大的、令人生畏的 | The Georges are a formidable tribe. |
-| entrenched | ⭐⭐ | 根基稳固的、盘踞的 | They’re stronger and more entrenched, and better connected politically than the Dovetrees, but who knows? |
-| government-sanctioned | ⭐⭐ | 政府批准的 | They have no government-sanctioned authority, but they believe God is on their side, and the cleansing work they do is God’s work. |
-| established town | ⭐ | 已建成的城镇 | He worries about me more than ever now, and he’s always after me to move to an established town. |
-| matriarch | ⭐ | 女族长（家族中的女性长者） | Dolores Ramos George, the matriarch of the tribe, runs the store and the care and she knows everyone. |
-| desperate | ⭐ | 走投无路的 | Any home or farm that can be seen from the highway is bound to be tempting to the desperate and the opportunistic, and now the fanatical. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| mismatched | 不相配的 | Such mismatched people, yet such a normal reaction. |
+| euphemisms | 委婉语、雅称（此处指奴隶贩子的行业黑话） | The man was a pimp, of course—“a livestock man, specializing in lamb and chicken” as one of the euphemisms went. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| specializing | 专营、专门从事 | The man was a pimp, of course—“a livestock man, specializing in lamb and chicken” as one of the euphemisms went. |
+| opportunistic | 机会主义的、趁火打劫的 | Any home or farm that can be seen from the highway is bound to be tempting to the desperate and the opportunistic, and now the fanatical. |
+| reputation | 名声、声誉 | Dovetree as it was survived because the family was large, well armed, and had a reputation for toughness. |
+| contagious | 会传染的 | Thanks to malnutrition, climate change, poverty, and ignorance, a lot of old diseases are back, and some of them are contagious. |
+| outbuildings | 附属建筑（谷仓、棚屋等） | The houses and outbuildings had been torched along with the stills and fields. |
+| formidable | 强大的、令人生畏的 | The Georges are a formidable tribe. |
+| entrenched | 根基稳固的、盘踞的 | They’re stronger and more entrenched, and better connected politically than the Dovetrees, but who knows? |
+| government-sanctioned | 政府批准的 | They have no government-sanctioned authority, but they believe God is on their side, and the cleansing work they do is God’s work. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| established town | 已建成的城镇 | He worries about me more than ever now, and he’s always after me to move to an established town. |
+| matriarch | 女族长（家族中的女性长者） | Dolores Ramos George, the matriarch of the tribe, runs the store and the care and she knows everyone. |
+| desperate | 走投无路的 | Any home or farm that can be seen from the highway is bound to be tempting to the desperate and the opportunistic, and now the fanatical. |
 
 ## 一句话总结
 

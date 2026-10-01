@@ -98,18 +98,30 @@ source_text: ch15_chapter_14.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| illiterate | ⭐⭐⭐ | 不识字的、文盲的 | She was an old woman when I met her—illiterate, poor, and scarred. |
-| determined | ⭐⭐⭐ | 下定决心的、执意要做的 | The more she tried to talk him out of it, the more determined he was to do it. |
-| informants | ⭐⭐ | 线人、告密者（此处指提供情报的幸存者） | 1 don’t know how the Moras gave themselves away, but Cody Smith and other informants have told me they did. |
-| rebellion | ⭐⭐ | 叛乱、反抗 | She was one of the survivors of the rebellion, although as a result of it, she suffered nerve damage and eventual blindness. |
-| survivors | ⭐⭐ | 幸存者 | She was one of the survivors of the rebellion, although as a result of it, she suffered nerve damage and eventual blindness. |
-| suffering | ⭐⭐ | 苦难、痛苦 | I know this because I’ve spoken to people who were there, who survived the effort, and who remember the suffering. |
-| survived | ⭐⭐ | 幸存、活下来 | How she did it, how she survived it, I can only guess from her writings of 2033 and 2035. |
-| writings | ⭐⭐ | 著作、文字（此处指母亲留下的记录） | How she did it, how she survived it, I can only guess from her writings of 2033 and 2035. |
-| master unit | ⭐ | 主控单元（控制所有项圈的装置） | We’ve learned that the master unit, the unit that powers or controls all the collars in Camp Christian, is in my old cabin. |
-| hole | ⭐ | 坑（此处指徒劳劳役的挖填对象） | Work sixteen hours—dig a hole. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| illiterate | 不识字的、文盲的 | She was an old woman when I met her—illiterate, poor, and scarred. |
+| determined | 下定决心的、执意要做的 | The more she tried to talk him out of it, the more determined he was to do it. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| informants | 线人、告密者（此处指提供情报的幸存者） | 1 don’t know how the Moras gave themselves away, but Cody Smith and other informants have told me they did. |
+| rebellion | 叛乱、反抗 | She was one of the survivors of the rebellion, although as a result of it, she suffered nerve damage and eventual blindness. |
+| survivors | 幸存者 | She was one of the survivors of the rebellion, although as a result of it, she suffered nerve damage and eventual blindness. |
+| suffering | 苦难、痛苦 | I know this because I’ve spoken to people who were there, who survived the effort, and who remember the suffering. |
+| survived | 幸存、活下来 | How she did it, how she survived it, I can only guess from her writings of 2033 and 2035. |
+| writings | 著作、文字（此处指母亲留下的记录） | How she did it, how she survived it, I can only guess from her writings of 2033 and 2035. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| master unit | 主控单元（控制所有项圈的装置） | We’ve learned that the master unit, the unit that powers or controls all the collars in Camp Christian, is in my old cabin. |
+| hole | 坑（此处指徒劳劳役的挖填对象） | Work sixteen hours—dig a hole. |
 
 ## 一句话总结
 

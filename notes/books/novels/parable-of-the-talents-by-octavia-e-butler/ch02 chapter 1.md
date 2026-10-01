@@ -98,29 +98,41 @@ source_text: ch02_chapter_1.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| millennium | ⭐⭐⭐ | （千年）时代更替 | It began well before 2015, perhaps even before the turn of the millennium. |
-| coinciding | ⭐⭐⭐ | 恰好同时发生的 | I have also read that the Pox was caused by accidentally coinciding climatic, economic, and sociological crises. |
-| degradation | ⭐⭐⭐ | 退化、恶化（此处为 environmental degradation＝环境恶化） | I have watched as convenience, profit, and inertia excused greater and more dangerous environmental degradation. |
-| ostensibly | ⭐⭐⭐ | 表面上、名义上 | They were fought, ostensibly, to defend against vicious foreign enemies. |
-| nonmilitary | ⭐⭐⭐ | 非军事的 | Amid all this, somehow, the United States of America suffered a major nonmilitary defeat. |
-| delusional | ⭐⭐⭐ | 妄想的（delusional disorder＝妄想症） | Hyperempathy syndrome is a delusional disorder, after all. |
-| neurochemically-induced | ⭐⭐⭐ | 由神经化学物质诱发的 | There’s just the neurochemically-induced delusion that I feel the pain and pleasure that I see others experiencing. |
-| unmistakable | ⭐⭐⭐ | 不会认错的、确凿的 | But I do know that her drug left its unmistakable mark on me—my hyperempathy syndrome. |
-| congregation | ⭐⭐ | 会众、教堂会众 | The congregation of our neighbors sits before him in the large, not-quite-open area formed by our living room, dining room, and family room. |
-| stepmother | ⭐⭐ | 继母 | My stepmother is sitting behind him and a little to one side at her piano. |
-| anniversary | ⭐⭐ | 周年纪念 | Today is Arrival Day, the fifth anniversary of our establishing a community called Acorn here in the mountains of Humboldt County. |
-| recurring | ⭐⭐ | 反复出现的 | In perverse celebration of this, I’ve just had one of my recurring nightmares. |
-| perverse | ⭐⭐ | 反常的、颠倒的 | In perverse celebration of this, I’ve just had one of my recurring nightmares. |
-| hyperempathy | ⭐⭐ | 超共感（hyperempathy syndrome＝超共感症候群） | My father and stepmother cut me as little slack as possible when it came to my hyperempathy syndrome. |
-| prescription | ⭐⭐ | 处方的（prescription medicine＝处方药） | It was a new prescription medicine called Paracetco, and it was doing wonders for people who had Alzheimer’s disease. |
-| homeless | ⭐⭐ | 无家可归的 | He and my mother met during the Pox when they were both homeless wanderers. |
-| wanderers | ⭐⭐ | 流浪者 | He and my mother met during the Pox when they were both homeless wanderers. |
-| flattered | ⭐⭐ | 受宠若惊的、感到荣幸的 | And of course he was flattered that she wanted him. |
-| targeted | ⭐⭐ | 被瞄准的 | She was already a missile, armed and targeted. |
-| atheist | ⭐ | 无神论者 | A witch may also be an atheist, a “cultist,” or a well-to-do eccentric. |
-| biological | ⭐ | 生理的、生物的 | She is the woman in the one picture my father gave me of my biological mother. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| millennium | （千年）时代更替 | It began well before 2015, perhaps even before the turn of the millennium. |
+| coinciding | 恰好同时发生的 | I have also read that the Pox was caused by accidentally coinciding climatic, economic, and sociological crises. |
+| degradation | 退化、恶化（此处为 environmental degradation＝环境恶化） | I have watched as convenience, profit, and inertia excused greater and more dangerous environmental degradation. |
+| ostensibly | 表面上、名义上 | They were fought, ostensibly, to defend against vicious foreign enemies. |
+| nonmilitary | 非军事的 | Amid all this, somehow, the United States of America suffered a major nonmilitary defeat. |
+| delusional | 妄想的（delusional disorder＝妄想症） | Hyperempathy syndrome is a delusional disorder, after all. |
+| neurochemically-induced | 由神经化学物质诱发的 | There’s just the neurochemically-induced delusion that I feel the pain and pleasure that I see others experiencing. |
+| unmistakable | 不会认错的、确凿的 | But I do know that her drug left its unmistakable mark on me—my hyperempathy syndrome. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| congregation | 会众、教堂会众 | The congregation of our neighbors sits before him in the large, not-quite-open area formed by our living room, dining room, and family room. |
+| stepmother | 继母 | My stepmother is sitting behind him and a little to one side at her piano. |
+| anniversary | 周年纪念 | Today is Arrival Day, the fifth anniversary of our establishing a community called Acorn here in the mountains of Humboldt County. |
+| recurring | 反复出现的 | In perverse celebration of this, I’ve just had one of my recurring nightmares. |
+| perverse | 反常的、颠倒的 | In perverse celebration of this, I’ve just had one of my recurring nightmares. |
+| hyperempathy | 超共感（hyperempathy syndrome＝超共感症候群） | My father and stepmother cut me as little slack as possible when it came to my hyperempathy syndrome. |
+| prescription | 处方的（prescription medicine＝处方药） | It was a new prescription medicine called Paracetco, and it was doing wonders for people who had Alzheimer’s disease. |
+| homeless | 无家可归的 | He and my mother met during the Pox when they were both homeless wanderers. |
+| wanderers | 流浪者 | He and my mother met during the Pox when they were both homeless wanderers. |
+| flattered | 受宠若惊的、感到荣幸的 | And of course he was flattered that she wanted him. |
+| targeted | 被瞄准的 | She was already a missile, armed and targeted. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| atheist | 无神论者 | A witch may also be an atheist, a “cultist,” or a well-to-do eccentric. |
+| biological | 生理的、生物的 | She is the woman in the one picture my father gave me of my biological mother. |
 
 ## 一句话总结
 

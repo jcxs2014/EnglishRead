@@ -98,17 +98,29 @@ source_text: ch11_chapter_10.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| intolerable | ⭐⭐⭐ | 无法忍受的 | That would have been intolerable to him. |
-| obsessions | ⭐⭐⭐ | 执念、强迫性的专注 | People who are intelligent, ambitious, and at the same time, in the grip of odd obsessions can be dangerous. |
-| accountable | ⭐⭐⭐ | 负有责任的、可问责的 | In small communities, she believed, people are more accountable to one another. |
-| straightforward | ⭐⭐⭐ | 直截了当的、坦率的 | She was practical, straightforward, fair, honest, and she liked people. |
-| negotiating | ⭐⭐ | 谈判、协商 | She was so successful at this that by the time I was born, the community was in the process of negotiating to buy another truck. |
-| fanaticism | ⭐⭐ | 狂热（此处指 destructive fanaticism＝毁灭性的狂热） | Without adaptability, what remains may be channeled into destructive fanaticism. |
-| beryl | ⭐⭐ | 绿柱石（祖母绿为其一种） | A beryl is a very hard clear or cloudy mineral which, when properly shaped and polished, has great potential for beauty. |
-| beginning | ⭐ | 起点、开端（此处指社区与女儿的「开始」） | “We are a beginning,” I said, thinking as I spoke. |
-| baby | ⭐ | 婴儿 | He says Larkin looks just like his younger sister did when she was a baby. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| intolerable | 无法忍受的 | That would have been intolerable to him. |
+| obsessions | 执念、强迫性的专注 | People who are intelligent, ambitious, and at the same time, in the grip of odd obsessions can be dangerous. |
+| accountable | 负有责任的、可问责的 | In small communities, she believed, people are more accountable to one another. |
+| straightforward | 直截了当的、坦率的 | She was practical, straightforward, fair, honest, and she liked people. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| negotiating | 谈判、协商 | She was so successful at this that by the time I was born, the community was in the process of negotiating to buy another truck. |
+| fanaticism | 狂热（此处指 destructive fanaticism＝毁灭性的狂热） | Without adaptability, what remains may be channeled into destructive fanaticism. |
+| beryl | 绿柱石（祖母绿为其一种） | A beryl is a very hard clear or cloudy mineral which, when properly shaped and polished, has great potential for beauty. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| beginning | 起点、开端（此处指社区与女儿的「开始」） | “We are a beginning,” I said, thinking as I spoke. |
+| baby | 婴儿 | He says Larkin looks just like his younger sister did when she was a baby. |
 
 ## 一句话总结
 

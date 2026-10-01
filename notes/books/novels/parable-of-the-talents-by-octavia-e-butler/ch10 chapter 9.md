@@ -98,18 +98,30 @@ source_text: ch10_chapter_9.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| nationwide | ⭐⭐⭐ | 全国的 | She meant to make Earthseed a nationwide movement, but she had no idea how to do this. |
-| territorial | ⭐⭐⭐ | 地盘意识强的、护领地意识重的 | And it’s obvious from her treatment of Uncle Marc that she was very territorial about the whole thing. |
-| treacherous | ⭐⭐⭐ | 奸诈的、背信弃义的 | Smart, I suppose—or treacherous, depending on your point of view. |
-| idealistic | ⭐⭐ | 理想主义的 | I wanted to be a healer. I was damned idealistic about it. |
-| missionaries | ⭐⭐ | 传教士（此处指 Earthseed 的传道者） | She seemed to have vague plans to someday send out Earthseed missionaries, to use Acorn as a kind of school for such missionaries. |
-| constitution | ⭐⭐ | 宪法（此处指美国的「神圣宪法」） | Can we let them cheat us, rob us, destroy our country, use our sacred constitution as waste paper? |
-| paraphrased | ⭐⭐ | 转述、改写（此处指林肯转述《圣经》的话） | President Abraham Lincoln paraphrased them in 1858. |
-| outer-space | ⭐⭐ | 外层太空 | She had a truth that she wanted to teach and an outer-space Destiny that she wanted taken seriously and someday fulfilled. |
-| healer | ⭐ | 治愈者、医者 | I wanted to be a healer. I was damned idealistic about it. |
-| self-control | ⭐ | 自我控制 | Perhaps that’s what a collar teaches—a horrible kind of self-control. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| nationwide | 全国的 | She meant to make Earthseed a nationwide movement, but she had no idea how to do this. |
+| territorial | 地盘意识强的、护领地意识重的 | And it’s obvious from her treatment of Uncle Marc that she was very territorial about the whole thing. |
+| treacherous | 奸诈的、背信弃义的 | Smart, I suppose—or treacherous, depending on your point of view. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| idealistic | 理想主义的 | I wanted to be a healer. I was damned idealistic about it. |
+| missionaries | 传教士（此处指 Earthseed 的传道者） | She seemed to have vague plans to someday send out Earthseed missionaries, to use Acorn as a kind of school for such missionaries. |
+| constitution | 宪法（此处指美国的「神圣宪法」） | Can we let them cheat us, rob us, destroy our country, use our sacred constitution as waste paper? |
+| paraphrased | 转述、改写（此处指林肯转述《圣经》的话） | President Abraham Lincoln paraphrased them in 1858. |
+| outer-space | 外层太空 | She had a truth that she wanted to teach and an outer-space Destiny that she wanted taken seriously and someday fulfilled. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| healer | 治愈者、医者 | I wanted to be a healer. I was damned idealistic about it. |
+| self-control | 自我控制 | Perhaps that’s what a collar teaches—a horrible kind of self-control. |
 
 ## 一句话总结
 

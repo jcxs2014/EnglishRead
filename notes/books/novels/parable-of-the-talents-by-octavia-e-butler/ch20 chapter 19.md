@@ -98,16 +98,28 @@ source_text: ch20_chapter_19.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| eavesdropped | ⭐⭐⭐ | 偷听、窃听 | Then some teacher eavesdropped, realized what I was doing, and punished me for lying. |
-| immortality | ⭐⭐⭐ | 不朽、永生 | It offers the only true immortality. |
-| ultimately | ⭐⭐ | 最终、归根结底 | All religions are ultimately cargo cults. |
-| adulthood | ⭐⭐ | 成年、成人状态 | Earthseed is the dawning adulthood of the human species. |
-| scenarios | ⭐⭐ | 剧本、情境（此处指 Dreamask 剧本） | I BEGAN CREATING secret Dreamask scenarios when I was 12. |
-| Dreamask | ⭐⭐ | Dreamask（梦境面罩及其内容） | I BEGAN CREATING secret Dreamask scenarios when I was 12. |
-| religions | ⭐⭐ | 宗教（复数） | All religions are ultimately cargo cults. |
-| daughter | ⭐ | 女儿 | By then, I was very much the timid, careful daughter of Kayce and Madison Alexander. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| eavesdropped | 偷听、窃听 | Then some teacher eavesdropped, realized what I was doing, and punished me for lying. |
+| immortality | 不朽、永生 | It offers the only true immortality. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| ultimately | 最终、归根结底 | All religions are ultimately cargo cults. |
+| adulthood | 成年、成人状态 | Earthseed is the dawning adulthood of the human species. |
+| scenarios | 剧本、情境（此处指 Dreamask 剧本） | I BEGAN CREATING secret Dreamask scenarios when I was 12. |
+| Dreamask | Dreamask（梦境面罩及其内容） | I BEGAN CREATING secret Dreamask scenarios when I was 12. |
+| religions | 宗教（复数） | All religions are ultimately cargo cults. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| daughter | 女儿 | By then, I was very much the timid, careful daughter of Kayce and Madison Alexander. |
 
 ## 一句话总结
 

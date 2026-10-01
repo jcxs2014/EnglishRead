@@ -98,24 +98,36 @@ source_text: ch06_chapter_5.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| nonexistent | ⭐⭐⭐ | 不存在的 | The whole business makes me long for free broadcast radio like the kind we had when I was a kid, but that’s almost nonexistent in this area. |
-| malnutrition | ⭐⭐⭐ | 营养不良 | There are fewer of all the diseases that result from bad sanitation, spoiled food, or malnutrition. |
-| territoriality | ⭐⭐⭐ | 领地性（此处指人类争夺地盘的倾向） | Human competitiveness and territoriality were often at the root of particularly horrible fashions in oppression. |
-| oppression | ⭐⭐⭐ | 压迫 | Human competitiveness and territoriality were often at the root of particularly horrible fashions in oppression. |
-| slaughtering | ⭐⭐ | 屠杀（此处指两国互相残杀） | Greece and Turkey are on the edge of war, and Egypt and Libya are slaughtering one another. |
-| preservation | ⭐⭐ | 防腐、保存（此处指食物的保存技艺） | There are more gardens, and old-fashioned skills in food preservation are being revived. |
-| politicians | ⭐⭐ | 政客 | Life is getting better, but that won’t stop a war if politicians and business people decide it’s to their advantage to have one. |
-| generations | ⭐⭐ | 一代人代人 | People who had hated one another for generations found ways to talk peace. |
-| significant | ⭐⭐ | 重要的（此处指一周要闻中的重大条目） | So here are some of the most significant news items of the past week. |
-| world-news | ⭐⭐ | 世界新闻 | So we subscribe to a good phone news service and now and then we buy detailed world-news disks. |
-| artificial womb | ⭐ | 人工子宫 | Scientists in Australia have managed to bring a human infant to term in an artificial womb. |
-| new collars | ⭐ | 新式项圈（电子控制设备） | I’ve heard that the new collars are damned sophisticated. |
-| whole business | ⭐ | 整桩事、这一套 | The whole business makes me long for free broadcast radio like the kind we had when I was a kid, but that’s almost nonexistent in this area. |
-| corrosive slime | ⭐ | 腐蚀性黏液（此处指火星生物分泌的液体） | And they ooze through the rocks in men-slug form, their corrosive slime dissolving trails, cracks, and making more dust. |
-| family eccentric | ⭐ | 家里的怪人 | He was considered the family eccentric, and no one else in the household shared his enthusiasm for reading big, bulky books made of paper. |
-| state of the union | ⭐ | 国情咨文（此处泛指国家状况） | What I’d like to see is a state of the union where slavery isn’t being practiced. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| nonexistent | 不存在的 | The whole business makes me long for free broadcast radio like the kind we had when I was a kid, but that’s almost nonexistent in this area. |
+| malnutrition | 营养不良 | There are fewer of all the diseases that result from bad sanitation, spoiled food, or malnutrition. |
+| territoriality | 领地性（此处指人类争夺地盘的倾向） | Human competitiveness and territoriality were often at the root of particularly horrible fashions in oppression. |
+| oppression | 压迫 | Human competitiveness and territoriality were often at the root of particularly horrible fashions in oppression. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| slaughtering | 屠杀（此处指两国互相残杀） | Greece and Turkey are on the edge of war, and Egypt and Libya are slaughtering one another. |
+| preservation | 防腐、保存（此处指食物的保存技艺） | There are more gardens, and old-fashioned skills in food preservation are being revived. |
+| politicians | 政客 | Life is getting better, but that won’t stop a war if politicians and business people decide it’s to their advantage to have one. |
+| generations | 一代人代人 | People who had hated one another for generations found ways to talk peace. |
+| significant | 重要的（此处指一周要闻中的重大条目） | So here are some of the most significant news items of the past week. |
+| world-news | 世界新闻 | So we subscribe to a good phone news service and now and then we buy detailed world-news disks. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| artificial womb | 人工子宫 | Scientists in Australia have managed to bring a human infant to term in an artificial womb. |
+| new collars | 新式项圈（电子控制设备） | I’ve heard that the new collars are damned sophisticated. |
+| whole business | 整桩事、这一套 | The whole business makes me long for free broadcast radio like the kind we had when I was a kid, but that’s almost nonexistent in this area. |
+| corrosive slime | 腐蚀性黏液（此处指火星生物分泌的液体） | And they ooze through the rocks in men-slug form, their corrosive slime dissolving trails, cracks, and making more dust. |
+| family eccentric | 家里的怪人 | He was considered the family eccentric, and no one else in the household shared his enthusiasm for reading big, bulky books made of paper. |
+| state of the union | 国情咨文（此处泛指国家状况） | What I’d like to see is a state of the union where slavery isn’t being practiced. |
 
 ## 一句话总结
 

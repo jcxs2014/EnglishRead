@@ -98,13 +98,25 @@ source_text: ch22_chapter_21.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| impossibly | ⭐⭐⭐ | 难以想象地、极其（此处修饰孤独） | That would have been—had been—impossibly lonely. |
-| despised | ⭐⭐⭐ | 鄙视、鄙弃 | But to tell the truth, the more I read about Earthseed, the more I despised it. |
-| speculation | ⭐⭐ | 投机（此处指未签约先做的剧本） | Dreamask International hired me on the strength of several scenarios I had done for them on speculation. |
-| emigration | ⭐⭐ | 移民（此处指星际移民） | Interstellar emigration? |
-| Master’s | ⭐ | 硕士学位（此处为历史学硕士） | By the time I got my Master’s in history, I found that 1 couldn’t muster any belief in a literal heaven or hell, anyway. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| impossibly | 难以想象地、极其（此处修饰孤独） | That would have been—had been—impossibly lonely. |
+| despised | 鄙视、鄙弃 | But to tell the truth, the more I read about Earthseed, the more I despised it. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| speculation | 投机（此处指未签约先做的剧本） | Dreamask International hired me on the strength of several scenarios I had done for them on speculation. |
+| emigration | 移民（此处指星际移民） | Interstellar emigration? |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| Master’s | 硕士学位（此处为历史学硕士） | By the time I got my Master’s in history, I found that 1 couldn’t muster any belief in a literal heaven or hell, anyway. |
 
 ## 一句话总结
 

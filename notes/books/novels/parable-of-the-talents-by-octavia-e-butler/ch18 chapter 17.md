@@ -98,14 +98,26 @@ source_text: ch18_chapter_17.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| Alexanders | ⭐⭐⭐ | Alexanders 一家（叙述者的养父母） | i don’t doubt that she would have stolen me from the Alexanders—or died trying. |
-| significant | ⭐⭐⭐ | 重大的（此处指 Destiny 作为人类目标之重要） | The Destiny is as significant a human purpose as it ever was. |
-| automatically | ⭐⭐ | 自动地、不假思索地 | This is what I did in Acorn, and I did it automatically in Georgetown. |
-| rhythmic | ⭐⭐ | 有韵律的（此处指便于记忆的韵文） | People seemed to like brief fragments of verses or complete rhythmic verses because rhythmic verses are easy to memorize. |
-| enthusiasm | ⭐⭐ | 热情（此处指听讲时的热烈反应） | People sometimes looked puzzled, sometimes disagreed or agreed with enthusiasm, but no one complained. |
-| Georgetown | ⭐ | Georgetown（流民聚居地） | I’ve left Georgetown, left my students old and young, left my room furnished with junk. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| Alexanders | Alexanders 一家（叙述者的养父母） | i don’t doubt that she would have stolen me from the Alexanders—or died trying. |
+| significant | 重大的（此处指 Destiny 作为人类目标之重要） | The Destiny is as significant a human purpose as it ever was. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| automatically | 自动地、不假思索地 | This is what I did in Acorn, and I did it automatically in Georgetown. |
+| rhythmic | 有韵律的（此处指便于记忆的韵文） | People seemed to like brief fragments of verses or complete rhythmic verses because rhythmic verses are easy to memorize. |
+| enthusiasm | 热情（此处指听讲时的热烈反应） | People sometimes looked puzzled, sometimes disagreed or agreed with enthusiasm, but no one complained. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| Georgetown | Georgetown（流民聚居地） | I’ve left Georgetown, left my students old and young, left my room furnished with junk. |
 
 ## 一句话总结
 

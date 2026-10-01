@@ -98,25 +98,37 @@ source_text: ch04_chapter_3.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| irrational | ⭐⭐⭐ | 不理性的 | How irrational of me, then, to love a zealot. |
-| fatalistic | ⭐⭐⭐ | 宿命论的 | Yet Earthseed is not a fatalistic belief system. |
-| inexorable | ⭐⭐⭐ | 不可逆转的、不可阻挡的 | God is inexorable, yet malleable. |
-| implacable | ⭐⭐⭐ | 不可撼动的 | This is a terrifying God, implacable, faceless, yet malleable and wildly dynamic. |
-| metamorphose | ⭐⭐⭐ | 变形、变态（此处指蝇蛆化为成虫飞走） | They eat the stuff that would putrefy and cause gangrene, then, unless they’re removed, they metamorphose and fly away. |
-| immortality | ⭐⭐⭐ | 不朽、永生 | It promises its people immortality only through their children, their work, and their memories. |
-| imprisoned | ⭐⭐⭐ | 被囚禁的 | When my mother was a child, protected and imprisoned by the walls of her neighborhood, she dreamed of the stars. |
-| terrifying | ⭐⭐⭐ | 可怖的 | This is a terrifying God, implacable, faceless, yet malleable and wildly dynamic. |
-| repression | ⭐⭐ | 压抑、压制（此处指对女性的压抑） | I’ve heard that in some of the more religious towns, repression of women has become more and more extreme. |
-| practitioners | ⭐⭐ | 执业者（nurse practitioners＝护士执业者） | They’re not doctors, of course, but they know a lot Bankole says he thinks they could function well as nurse practitioners now. |
-| consciousness | ⭐⭐ | 意识（此处指清醒，regain consciousness＝恢复意识） | She never regained consciousness. |
-| reassurance | ⭐⭐ | 安慰（此处指给孩子的安抚） | They ran to him and would have piled onto his bed for reassurance and comfort if May and Allie had not stopped them. |
-| housetruck | ⭐⭐ | 房屋式卡车（改装成可居住的卡车） | From the time we found her beaten, raped, and shot, lying naked in her family’s housetruck, she’s been in a deep coma. |
-| destination | ⭐⭐ | 目的地（此处指阿拉斯加） | Alaska is a more popular destination than ever these days. |
-| responsibility | ⭐⭐ | 责任感 | The boy is already almost two meters tall—a young giant with an oldest-child’s enhanced sense of responsibility for his sisters. |
-| stoic | ⭐ | 坚忍的（此处指 Dan 咬紧牙关不流露痛苦） | Well, there’s nothing wrong with being stoic when you have to be, but there’s enough unavoidable suffering in the world. |
-| breathed | ⭐ | 呼吸（此处指 Dan 听见母亲的呼吸，确认她仍活着） | He could hear her breathing. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| irrational | 不理性的 | How irrational of me, then, to love a zealot. |
+| fatalistic | 宿命论的 | Yet Earthseed is not a fatalistic belief system. |
+| inexorable | 不可逆转的、不可阻挡的 | God is inexorable, yet malleable. |
+| implacable | 不可撼动的 | This is a terrifying God, implacable, faceless, yet malleable and wildly dynamic. |
+| metamorphose | 变形、变态（此处指蝇蛆化为成虫飞走） | They eat the stuff that would putrefy and cause gangrene, then, unless they’re removed, they metamorphose and fly away. |
+| immortality | 不朽、永生 | It promises its people immortality only through their children, their work, and their memories. |
+| imprisoned | 被囚禁的 | When my mother was a child, protected and imprisoned by the walls of her neighborhood, she dreamed of the stars. |
+| terrifying | 可怖的 | This is a terrifying God, implacable, faceless, yet malleable and wildly dynamic. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| repression | 压抑、压制（此处指对女性的压抑） | I’ve heard that in some of the more religious towns, repression of women has become more and more extreme. |
+| practitioners | 执业者（nurse practitioners＝护士执业者） | They’re not doctors, of course, but they know a lot Bankole says he thinks they could function well as nurse practitioners now. |
+| consciousness | 意识（此处指清醒，regain consciousness＝恢复意识） | She never regained consciousness. |
+| reassurance | 安慰（此处指给孩子的安抚） | They ran to him and would have piled onto his bed for reassurance and comfort if May and Allie had not stopped them. |
+| housetruck | 房屋式卡车（改装成可居住的卡车） | From the time we found her beaten, raped, and shot, lying naked in her family’s housetruck, she’s been in a deep coma. |
+| destination | 目的地（此处指阿拉斯加） | Alaska is a more popular destination than ever these days. |
+| responsibility | 责任感 | The boy is already almost two meters tall—a young giant with an oldest-child’s enhanced sense of responsibility for his sisters. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| stoic | 坚忍的（此处指 Dan 咬紧牙关不流露痛苦） | Well, there’s nothing wrong with being stoic when you have to be, but there’s enough unavoidable suffering in the world. |
+| breathed | 呼吸（此处指 Dan 听见母亲的呼吸，确认她仍活着） | He could hear her breathing. |
 
 ## 一句话总结
 

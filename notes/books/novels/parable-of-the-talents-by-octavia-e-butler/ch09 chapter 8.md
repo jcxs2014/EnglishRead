@@ -98,17 +98,29 @@ source_text: ch09_chapter_8.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| extrasolar | ⭐⭐⭐ | 太阳系外的 | If her good days were to be in the future on some extrasolar world, that only made them more pathetically unreal. |
-| sacrificed | ⭐⭐⭐ | 牺牲 | She sacrificed us for an idea. |
-| unrealistic | ⭐⭐⭐ | 不现实的 | My father called her immature, unrealistic, selfish, and shortsighted. |
-| emigrating | ⭐⭐ | 移居、迁出 | Bankole and I have been promised the home of a family who is emigrating—going to homestead in Siberia. |
-| turbines | ⭐⭐ | 涡轮机（此处指风力涡轮） | And, thanks to the wind turbines in the hills, along the ridges, there’s plenty of electricity most of the time. |
-| whitecaps | ⭐⭐ | 白浪（海面被风吹起的白色浪头） | I stood there in the buffeting wind, staring out at the whitecaps and enjoying the sheer vastness of the water. |
-| Strengthens | ⭐⭐ | 加强、增强 | Strengthens our efforts. |
-| bluffs | ⭐ | 海崖、海岬 | The house rattled and creaked, but it was warmed both by electric heaters and by fires in the fireplaces, and it was set far enough back from the coastal bluffs to be in no danger for many years, if ever. |
-| self-sufficient | ⭐ | 自给自足的 | He’s a self-sufficient man, and he truly believes he’s right. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| extrasolar | 太阳系外的 | If her good days were to be in the future on some extrasolar world, that only made them more pathetically unreal. |
+| sacrificed | 牺牲 | She sacrificed us for an idea. |
+| unrealistic | 不现实的 | My father called her immature, unrealistic, selfish, and shortsighted. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| emigrating | 移居、迁出 | Bankole and I have been promised the home of a family who is emigrating—going to homestead in Siberia. |
+| turbines | 涡轮机（此处指风力涡轮） | And, thanks to the wind turbines in the hills, along the ridges, there’s plenty of electricity most of the time. |
+| whitecaps | 白浪（海面被风吹起的白色浪头） | I stood there in the buffeting wind, staring out at the whitecaps and enjoying the sheer vastness of the water. |
+| Strengthens | 加强、增强 | Strengthens our efforts. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| bluffs | 海崖、海岬 | The house rattled and creaked, but it was warmed both by electric heaters and by fires in the fireplaces, and it was set far enough back from the coastal bluffs to be in no danger for many years, if ever. |
+| self-sufficient | 自给自足的 | He’s a self-sufficient man, and he truly believes he’s right. |
 
 ## 一句话总结
 

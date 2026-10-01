@@ -98,16 +98,28 @@ source_text: ch16_chapter_15.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| mercenaries | ⭐⭐⭐ | 雇佣兵（此处指为饭碗照管孩子的雇员） | The mercenaries were easier to please. |
-| destructive | ⭐⭐⭐ | 破坏性的、毁灭性的 | And sometimes the division was utterly destructive. |
-| inferior | ⭐⭐ | 次等的、低人一等的 | Kayce took a break from telling me how much inferior I was to Kamaria. |
-| isolated | ⭐⭐ | 孤立的、被隔离的 | But if each child was isolated and dropped into a family of good Christian Americans, then each would be changed. |
-| pressure | ⭐⭐ | 压力（此处为 parental 与 peer pressure） | Parent pressure, peer pressure, and time would remake them as good Christian Americans. |
-| rejected | ⭐⭐ | 拒绝（此处指彻底拒绝基督教美国） | The other rejected Christian America completely. |
-| minister | ⭐ | 牧师 | One became a Christian American minister. |
-| cache | ⭐ | 藏储点（此处为埋藏补给的山中洞穴） | We walked deeper into the mountains, away from paved roads, south and west to the largest of our caches where we knew there was the cold shelter of a small cave. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| mercenaries | 雇佣兵（此处指为饭碗照管孩子的雇员） | The mercenaries were easier to please. |
+| destructive | 破坏性的、毁灭性的 | And sometimes the division was utterly destructive. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| inferior | 次等的、低人一等的 | Kayce took a break from telling me how much inferior I was to Kamaria. |
+| isolated | 孤立的、被隔离的 | But if each child was isolated and dropped into a family of good Christian Americans, then each would be changed. |
+| pressure | 压力（此处为 parental 与 peer pressure） | Parent pressure, peer pressure, and time would remake them as good Christian Americans. |
+| rejected | 拒绝（此处指彻底拒绝基督教美国） | The other rejected Christian America completely. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| minister | 牧师 | One became a Christian American minister. |
+| cache | 藏储点（此处为埋藏补给的山中洞穴） | We walked deeper into the mountains, away from paved roads, south and west to the largest of our caches where we knew there was the cold shelter of a small cave. |
 
 ## 一句话总结
 

@@ -88,18 +88,30 @@ source_text: ch14_chapter_13.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| contaminate | ⭐⭐⭐ | 污染、沾染（此处指异教者会「污染」孩子） | It also provided enough room for a nursery that was completely separate from the heathen inmates who might contaminate the children. |
-| lightweight | ⭐⭐ | 轻量的、布料般的 | In spite of the way they looked, Dreamasks were lightweight, clothlike, and comfortable. |
-| ski-mask-like | ⭐⭐ | 滑雪面具般的 | Even the early ones were cheap—big ski-mask-like devices with goggles over the eyes. |
-| isolating | ⭐⭐ | 隔离、孤立 | Because of its prison structure, it lent itself more easily than did Acorn to isolating people. |
-| Reeducation | ⭐⭐ | 再教育（此处为设施正式名号） | It became Pelican Bay Christian Reeducation Camp. |
-| cesspit | ⭐ | 渗坑、污水坑 | Some of us are being made to dig a cesspit. |
-| bowls | ⭐ | 塑料碗（此处为囚房中唯一有颜色之物） | It’s odd about the bowls. |
-| new people | ⭐ | 新来的人（此处指被 maggot 运来的囚徒） | The new people are each given what we have: a blanket, a plastic bowl, a Bible, and a shelf where they must sleep and store their things. |
-| access ladder | ⭐ | 登架梯（此处指上下搁架床的梯子） | Each wall is covered with three layers of shelves plus an access ladder or two. |
-| apparent pain | ⭐ | 表面上的痛苦 | To be a sharer is to feel the pleasure and the pain—the apparent pleasure and the apparent pain—of other people. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| contaminate | 污染、沾染（此处指异教者会「污染」孩子） | It also provided enough room for a nursery that was completely separate from the heathen inmates who might contaminate the children. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| lightweight | 轻量的、布料般的 | In spite of the way they looked, Dreamasks were lightweight, clothlike, and comfortable. |
+| ski-mask-like | 滑雪面具般的 | Even the early ones were cheap—big ski-mask-like devices with goggles over the eyes. |
+| isolating | 隔离、孤立 | Because of its prison structure, it lent itself more easily than did Acorn to isolating people. |
+| Reeducation | 再教育（此处为设施正式名号） | It became Pelican Bay Christian Reeducation Camp. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| cesspit | 渗坑、污水坑 | Some of us are being made to dig a cesspit. |
+| bowls | 塑料碗（此处为囚房中唯一有颜色之物） | It’s odd about the bowls. |
+| new people | 新来的人（此处指被 maggot 运来的囚徒） | The new people are each given what we have: a blanket, a plastic bowl, a Bible, and a shelf where they must sleep and store their things. |
+| access ladder | 登架梯（此处指上下搁架床的梯子） | Each wall is covered with three layers of shelves plus an access ladder or two. |
+| apparent pain | 表面上的痛苦 | To be a sharer is to feel the pleasure and the pain—the apparent pleasure and the apparent pain—of other people. |
 
 ## 一句话总结
 

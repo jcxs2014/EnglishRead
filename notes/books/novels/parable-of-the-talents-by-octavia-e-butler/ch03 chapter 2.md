@@ -98,23 +98,35 @@ source_text: ch03_chapter_2.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| complacency | ⭐⭐⭐ | 自满、 complacency 的满足（安逸导致的松懈） | Peace is dangerous because it encourages complacency and carelessness—which also kills sooner or later. |
-| carelessness | ⭐⭐⭐ | 疏忽、草率 | Peace is dangerous because it encourages complacency and carelessness—which also kills sooner or later. |
-| variegated | ⭐⭐⭐ | 斑驳的、多彩的（此处指龙舌兰的叶色） | The agave was a handsome, variegated species—blue-green leaves edged in yellow-white. |
-| propagating | ⭐⭐⭐ | 繁殖、繁生 | It must have been growing and propagating untended for years in what was once the front yard of the farmhouse. |
-| cannibalized | ⭐⭐⭐ | 拆解取件（把旧物拆作零件） | All had been damaged by water and time, but most could be cleaned and repaired or cannibalized for parts or at least copied. |
-| self-sufficient | ⭐⭐⭐ | 自给自足的 | We have, always, a special need for spiny, self-sufficient desert plants that will tolerate our climate. |
-| commemorating | ⭐⭐ | 纪念（此处指两根烟囱如墓碑纪念被焚的房子） | It was hidden behind the larger of two chimneys that still stood like head and footstones, commemorating the burned house. |
-| undependable | ⭐⭐ | 不可靠的、不耐用 | These vehicles tended to be old and undependable, but some people had them. |
-| misfortune | ⭐⭐ | 不幸（接在 someone else's 之后，指他人遭难） | “Then, thanks to someone else’s misfortune, things improved. |
-| power-lessness | ⭐⭐ | 无力（power 与 less 连写） | They look at their children—Alan has four kids, too—and they’re afraid and ashamed of their fear, ashamed of their power-lessness. |
-| incompetence | ⭐⭐ | 无能 | Interesting that they fear Edward Jay Smith’s supposed incompetence more than they fear Jarret’s obvious tyranny. |
-| tyranny | ⭐⭐ | 暴政、专制 | Interesting that they fear Edward Jay Smith’s supposed incompetence more than they fear Jarret’s obvious tyranny. |
-| housetruck | ⭐ | 房屋式卡车（改装成可居住的卡车） | There was an old gray housetruck parked near the ruin of the house. |
-| footstones | ⭐ | 脚石（此处指倒塌烟囱如墓碑） | It was hidden behind the larger of two chimneys that still stood like head and footstones, commemorating the burned house. |
-| determined | ⭐ | 下定决心的、不顾一切的 | Our wall won’t keep determined people out, of course. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| complacency | 自满、 complacency 的满足（安逸导致的松懈） | Peace is dangerous because it encourages complacency and carelessness—which also kills sooner or later. |
+| carelessness | 疏忽、草率 | Peace is dangerous because it encourages complacency and carelessness—which also kills sooner or later. |
+| variegated | 斑驳的、多彩的（此处指龙舌兰的叶色） | The agave was a handsome, variegated species—blue-green leaves edged in yellow-white. |
+| propagating | 繁殖、繁生 | It must have been growing and propagating untended for years in what was once the front yard of the farmhouse. |
+| cannibalized | 拆解取件（把旧物拆作零件） | All had been damaged by water and time, but most could be cleaned and repaired or cannibalized for parts or at least copied. |
+| self-sufficient | 自给自足的 | We have, always, a special need for spiny, self-sufficient desert plants that will tolerate our climate. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| commemorating | 纪念（此处指两根烟囱如墓碑纪念被焚的房子） | It was hidden behind the larger of two chimneys that still stood like head and footstones, commemorating the burned house. |
+| undependable | 不可靠的、不耐用 | These vehicles tended to be old and undependable, but some people had them. |
+| misfortune | 不幸（接在 someone else's 之后，指他人遭难） | “Then, thanks to someone else’s misfortune, things improved. |
+| power-lessness | 无力（power 与 less 连写） | They look at their children—Alan has four kids, too—and they’re afraid and ashamed of their fear, ashamed of their power-lessness. |
+| incompetence | 无能 | Interesting that they fear Edward Jay Smith’s supposed incompetence more than they fear Jarret’s obvious tyranny. |
+| tyranny | 暴政、专制 | Interesting that they fear Edward Jay Smith’s supposed incompetence more than they fear Jarret’s obvious tyranny. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| housetruck | 房屋式卡车（改装成可居住的卡车） | There was an old gray housetruck parked near the ruin of the house. |
+| footstones | 脚石（此处指倒塌烟囱如墓碑） | It was hidden behind the larger of two chimneys that still stood like head and footstones, commemorating the burned house. |
+| determined | 下定决心的、不顾一切的 | Our wall won’t keep determined people out, of course. |
 
 ## 一句话总结
 

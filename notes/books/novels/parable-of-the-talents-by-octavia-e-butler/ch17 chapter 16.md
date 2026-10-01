@@ -88,16 +88,27 @@ source_text: ch17_chapter_16.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| disciplinarian | ⭐⭐⭐ | 纪律执行者、严厉管教者 | She was a stem disciplinarian, but she rarely hit me. |
-| heathenism | ⭐⭐⭐ | 异教、异端信仰 | Looking back now, I know it must have been something to do with idolatry, heathenism, or graven images. |
-| categories | ⭐⭐⭐ | 类别（此处指「罪」的类别） | Christian America had created whole new categories of sin and expanded old ones. |
-| adolescent | ⭐⭐ | 青少年（此处指娃娃的造型年龄） | The doll had been made in the image of an adolescent blond-haired blue-eyed girl. |
-| pen-and-ink | ⭐⭐ | 钢笔与墨水（此处指速写笔法） | I had just finished a pen-and-ink sketch of a woman and her two youngest kids, sitting outside their wood-and-plastic shack. |
-| blue-eyed | ⭐⭐ | 蓝眼的 | The doll had been made in the image of an adolescent blond-haired blue-eyed girl. |
-| forbidden | ⭐⭐ | 被禁止的 | I had never been told that they were sinful or forbidden or even that they existed. |
-| abandoned | ⭐⭐ | 被遗弃的 | I suspect now that this doll had been thrown over our fence and abandoned. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| disciplinarian | 纪律执行者、严厉管教者 | She was a stem disciplinarian, but she rarely hit me. |
+| heathenism | 异教、异端信仰 | Looking back now, I know it must have been something to do with idolatry, heathenism, or graven images. |
+| categories | 类别（此处指「罪」的类别） | Christian America had created whole new categories of sin and expanded old ones. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| adolescent | 青少年（此处指娃娃的造型年龄） | The doll had been made in the image of an adolescent blond-haired blue-eyed girl. |
+| pen-and-ink | 钢笔与墨水（此处指速写笔法） | I had just finished a pen-and-ink sketch of a woman and her two youngest kids, sitting outside their wood-and-plastic shack. |
+| blue-eyed | 蓝眼的 | The doll had been made in the image of an adolescent blond-haired blue-eyed girl. |
+| forbidden | 被禁止的 | I had never been told that they were sinful or forbidden or even that they existed. |
+| abandoned | 被遗弃的 | I suspect now that this doll had been thrown over our fence and abandoned. |
+
+### ⭐ 基础
+
+（本章无基础词条）
 
 ## 一句话总结
 

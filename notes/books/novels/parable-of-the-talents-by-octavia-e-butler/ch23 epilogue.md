@@ -98,15 +98,26 @@ source_text: ch23_epilogue.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| charismatic | ⭐⭐⭐ | 有魅力的、 charismatic（魅力型） | My friends and Uncle Marc’s housekeeper had told me how much I looked like this charismatic, dangerous, heathen cult leader. |
-| prepubescent | ⭐⭐⭐ | 青春期前的 | Its men and women had been enslaved for over a year by the Crusaders, and all the prepubescent children had been abducted. |
-| immensely | ⭐⭐ | 极其、非常（此处修饰富有） | She was immensely rich—or, at least, Earthseed was immensely rich. |
-| apartment | ⭐⭐ | 公寓（此处指母亲连租的公寓也没有） | But she had no home of her own—not even a rented apartment. |
-| adulthood | ⭐⭐ | 成年、成人状态 | Earthseed is adulthood. |
-| terrifies | ⭐⭐ | 使恐惧 | It terrifies. |
-| empowers | ⭐⭐ | 赋权、使有能力 | It empowers. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| charismatic | 有魅力的、 charismatic（魅力型） | My friends and Uncle Marc’s housekeeper had told me how much I looked like this charismatic, dangerous, heathen cult leader. |
+| prepubescent | 青春期前的 | Its men and women had been enslaved for over a year by the Crusaders, and all the prepubescent children had been abducted. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| immensely | 极其、非常（此处修饰富有） | She was immensely rich—or, at least, Earthseed was immensely rich. |
+| apartment | 公寓（此处指母亲连租的公寓也没有） | But she had no home of her own—not even a rented apartment. |
+| adulthood | 成年、成人状态 | Earthseed is adulthood. |
+| terrifies | 使恐惧 | It terrifies. |
+| empowers | 赋权、使有能力 | It empowers. |
+
+### ⭐ 基础
+
+（本章无基础词条）
 
 ## 一句话总结
 

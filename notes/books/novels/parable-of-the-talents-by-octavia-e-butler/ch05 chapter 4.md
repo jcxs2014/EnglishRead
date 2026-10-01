@@ -98,22 +98,34 @@ source_text: ch05_chapter_4.txt
 
 ## 本章词汇
 
-| 词/短语 | 星级 | 释义 | 例句（原文摘录） |
-|---|---|---|---|
-| sempervirens | ⭐⭐⭐ | 常绿（拉丁语，Sequoia sempervirens 为海岸红杉学名） | Sequoia sempervirens is the botanical name for this tallest of all trees, but many are evergreen no longer. |
-| anachronistic | ⭐⭐⭐ | 时代错置的、不合时宜的 | If people let them alone, they will go on, childless, anachronistic, but still alive, still reaching futilely skyward. |
-| vulnerable | ⭐⭐⭐ | 脆弱的、易受伤的 | She did it first by adopting vulnerable needy people, then by finding ways to make those people want to be part of Earthseed. |
-| pessimist | ⭐⭐⭐ | 悲观主义者 | My father, perhaps because of his age, seems to have been a loving pessimist. |
-| optimist | ⭐⭐ | 乐观主义者 | My mother, on the other hand, was a somewhat reluctant optimist. |
-| reluctant | ⭐⭐ | 不情愿的、勉强的 | My mother, on the other hand, was a somewhat reluctant optimist. |
-| seducing | ⭐⭐ | 诱惑、吸引（此处指母亲吸引他人追随 Earthseed） | Only she saw it, but that was enough to entice her on, seducing her as she seduced others. |
-| substantial | ⭐⭐ | 大量的（此处指风暴） | We still get a few substantial fall and winter storms each year, and there are still morning fogs in the spring and early summer. |
-| withering | ⭐⭐ | 枯萎的 | Nevertheless, young redwood trees—those only about a century old, not yet mature—are withering. |
-| futilely | ⭐⭐ | 徒劳地 | If people let them alone, they will go on, childless, anachronistic, but still alive, still reaching futilely skyward. |
-| childless | ⭐⭐ | 无子嗣的 | If people let them alone, they will go on, childless, anachronistic, but still alive, still reaching futilely skyward. |
-| evergreen | ⭐⭐ | 常绿的（此处指已非常绿的红杉） | Sequoia sempervirens is the botanical name for this tallest of all trees, but many are evergreen no longer. |
-| neighborly | ⭐ | 邻里友善的 | People know we don’t steal. They know better than to steal from us. And they know we’re neighborly. |
-| backpacking babies | ⭐ | 背婴（把婴儿绑在背上背着走） | Thanks to Natividad, who has carried each of her babies that way, backpacking babies has become the custom for new mothers here at Acorn. |
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| sempervirens | 常绿（拉丁语，Sequoia sempervirens 为海岸红杉学名） | Sequoia sempervirens is the botanical name for this tallest of all trees, but many are evergreen no longer. |
+| anachronistic | 时代错置的、不合时宜的 | If people let them alone, they will go on, childless, anachronistic, but still alive, still reaching futilely skyward. |
+| vulnerable | 脆弱的、易受伤的 | She did it first by adopting vulnerable needy people, then by finding ways to make those people want to be part of Earthseed. |
+| pessimist | 悲观主义者 | My father, perhaps because of his age, seems to have been a loving pessimist. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| optimist | 乐观主义者 | My mother, on the other hand, was a somewhat reluctant optimist. |
+| reluctant | 不情愿的、勉强的 | My mother, on the other hand, was a somewhat reluctant optimist. |
+| seducing | 诱惑、吸引（此处指母亲吸引他人追随 Earthseed） | Only she saw it, but that was enough to entice her on, seducing her as she seduced others. |
+| substantial | 大量的（此处指风暴） | We still get a few substantial fall and winter storms each year, and there are still morning fogs in the spring and early summer. |
+| withering | 枯萎的 | Nevertheless, young redwood trees—those only about a century old, not yet mature—are withering. |
+| futilely | 徒劳地 | If people let them alone, they will go on, childless, anachronistic, but still alive, still reaching futilely skyward. |
+| childless | 无子嗣的 | If people let them alone, they will go on, childless, anachronistic, but still alive, still reaching futilely skyward. |
+| evergreen | 常绿的（此处指已非常绿的红杉） | Sequoia sempervirens is the botanical name for this tallest of all trees, but many are evergreen no longer. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句（原文摘录） |
+|---|---|---|
+| neighborly | 邻里友善的 | People know we don’t steal. They know better than to steal from us. And they know we’re neighborly. |
+| backpacking babies | 背婴（把婴儿绑在背上背着走） | Thanks to Natividad, who has carried each of her babies that way, backpacking babies has become the custom for new mothers here at Acorn. |
 
 ## 一句话总结
 
