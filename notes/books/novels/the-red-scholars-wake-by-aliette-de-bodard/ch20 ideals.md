@@ -41,7 +41,7 @@ modified: "2026-10-01"
 
 **关键词**：make sure that Kim Thông was no longer in the picture（让 Kim Thông 从棋盘上消失） / She’d have liked to be noble（她本想表现得高尚些） / there wasn’t much left to her but revenge（她身上已经只剩下复仇了）
 
-**为什么这样写**：全章唯一一次作者让理想主义退位，而且写得很直白：她想扮演高尚的那一版自己，但演不下去，于是承认剩下的只有 revenge。这与她在 ch03 面对 Ki里 Thông 简报时那份从容形成对比——那时她还有八年计划可谈，这时她只剩一个可以立刻执行的动作。
+**为什么这样写**：全章唯一一次作者让理想主义退位，而且写得很直白：她想扮演高尚的那一版自己，但演不下去，于是承认剩下的只有 revenge。这与她在 ch03 面对 Kim Thông 那份情报简报时的从容形成对比——那时她还在盘算联盟的棋，这时她只剩一个可以立刻执行的动作。
 
 **读者视角提示**：注意 from the picture 这个比喻：她把内战看作棋局，而自己正在用子手的手段对付对方的子手。
 
@@ -51,7 +51,7 @@ modified: "2026-10-01"
 
 **关键词**：It kept you safe, didn’t it?（它让你安全了，不是吗） / For thirty years（三十年）
 
-**为什么这样写**：三十年是一个可证的数，而作者让这句话只用四个字完成反击。你毁了什么？她答：你活着，你长大了。Kim Thông 攻击的是那个理念的成果，旗舰守的却是那个理念的账本——她不谈理念，她只举一个事实。
+**为什么这样写**：三十年是一个可证的数，而作者让这句话只用三个词完成反击。你毁了什么？她答：你活着，你长大了。Kim Thông 攻击的是那个理念的成果，旗舰守的却是那个理念的账本——她不谈理念，她只举一个事实。
 
 **读者视角提示**：这个账本随后被 Hổ 用另一种方式确认：他开着紫旗的船冲上去送死。
 
@@ -63,7 +63,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：对方在这里做了一次精准的概念置换：把「建造」改写成「占据」。于是三十年的成果从一个动作变成了一句形容词，而愿景这个词被降级成一句「仅此而已」。这段对白是全书政治辩论的骨架——她赢了句子，输的是这两船谁能撑到最后。
 
-**读者视角提示**：紧接着她说 we built something，而那不是真的。
+**读者视角提示**：留意这一段的三个不是：不是拆毁（that is all）、不是只（You built nothing but）、也不是我改不了（I did nothing but）。对方每一次否认都同时承认了对象的存在——她否认的是「建造」这个动词，不是那三十年。
 
 > **原句 6:** ‘We built something,’ Rice Fish said. It wasn’t true. It wasn’t…
 
@@ -73,7 +73,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：本章最诚实的一句：她想说 yes，但作者替她说了 it wasn’t true。文本在这里与人物当场冲突——读者被推到比人物更靠前的位置，看清了这个理念撑不住。而她仍然说出这句话，说明信念已经不再依赖真伪，只依赖她是否还在说。
 
-**读者视角提示**：紧接着她说 we built something，而那不是真的。
+**读者视角提示**：她说完 we built something，作者立刻替她补上那句 it wasn’t true——而她并没有收回去。往后每逢这套理念再出现，都请留意她是否还在说：这一章之后，说下去本身成了唯一的凭据。
 
 > **原句 7:** For a moment – a single, suspended moment – Rice Fish hung, weightless, not in the vacuum of space, but near a habitat, tethered by multiple restraints. For a moment she was thirty years younger, a captive of the pirates; she knew, with absolute certainty, that she was going to be killed – or worse, completely rewired, dying piece by piece until nothing remained of her.
 

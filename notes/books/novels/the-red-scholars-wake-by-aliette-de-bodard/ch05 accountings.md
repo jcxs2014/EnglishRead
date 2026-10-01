@@ -67,9 +67,9 @@ modified: "2026-10-01"
 
 > **原句 6:** ‘I don’t know about the banner totals over my own lifetime as a pirate,’ Rice Fish said, mildly. ‘There are around five thousand people in the banner, and over this raiding season, we boarded one thousand, five hundred and thirty-eight merchant ships, and made around six hundred and fifteen prisoners.’
 
-**中文理解**：「『我不知道我作为海盗的这些年里这个联盟总共劫了多少，』旗舰说，语气平淡。『联盟里大约有五千人；这个劫掠季里，我们登上了两千零一艘商船，做了大约六百一十五名俘虏。』」
+**中文理解**：「『我不知道我作为海盗的这些年里这个联盟总共劫了多少，』旗舰说，语气平淡。『联盟里大约有五千人；这个劫掠季里，我们登上了一千五百三十八艘商船，做了大约六百一十五名俘虏。』」
 
-**关键词**：I don’t know about the banner totals（我不知道这个联盟总共劫了多少） / we boarded one thousand, five hundred and thirty-eight merchant ships（我们登上了两千零一艘商船） / made around six hundred and fifteen prisoners（做了大约六百一十五名俘虏）
+**关键词**：I don’t know about the banner totals（我不知道这个联盟总共劫了多少） / we boarded one thousand, five hundred and thirty-eight merchant ships（我们登上了一千五百三十八艘商船） / made around six hundred and fifteen prisoners（做了大约六百一十五名俘虏）
 
 **为什么这样写**：全章的算术在这一句里落地，而她的第一反应不是辩解，是承认自己不知道。承认不知道是一种诚实，也是一种战术：只要她报不出总数，西施的审计就悬空。接着她把不知道换成了精确：商船与俘虏两个数字都给出全称。作者还让她用 mildly（平淡地）说话——她连自我暴露的代价都不肯让读者看见。数字之后没有安慰、没有解释、没有辩护：句子在数字上收口。
 
@@ -81,7 +81,7 @@ modified: "2026-10-01"
 
 **关键词**：We’re not the habitats（我们不是栖息地） / An indenture is redeemed（一份卖身契是可以赎回的） / Every one of us started as a bondsperson（我们每一个人当初都是债奴） / towards your freedom（多攒下一点 towards 你的自由）
 
-**为什么这样写**：账目在这一句里完成了最后一次转义：这是本章唯一一次把账写成可赎回的——每一场劫掠都记在债奴的名下，一次劫掠换一点自由。作者把辩护词写成三句规则陈述（可以赎回／参加一次／攒下一点），一律无主语祈使，没有一句自我开脱。而 An indenture is redeemed 这一句之所以是全书最锋利的一处，是因为它就摆在西施自己的处境前面——本章她没有用它，下一章她就用它去替别人赎身。
+**为什么这样写**：账目在这一句里完成了最后一次转义：这是本章唯一一次把账写成可赎回的——每一场劫掠都记在债奴的名下，一次劫掠换一点自由。作者把辩护词写成三句规则陈述（可以赎回／参加一次／攒下一点），一律无主语祈使，没有一句自我开脱。而 An indenture is redeemed 这一句之所以是全书最锋利的一处，是因为它就摆在西施自己的处境前面——本章她没有用它，直到第七章法庭上，她用同一套账目为 Ái Nhân 争回了赎金。
 
 **读者视角提示**：记住 An indenture is redeemed 这一句。此后西施在全书里做的每一次救助，都是拿旗舰这句话作担保。
 

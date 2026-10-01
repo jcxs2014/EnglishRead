@@ -63,19 +63,9 @@ modified: "2026-10-01"
 
 **为什么这样写**：全章最关键的一击落在四个词上：Indentures（卖身契）。前一段她反复问这地方卖什么，得到的答案是一个法律名词；直到她自己把它翻译成人，那盆冷水才泼下来。作者不写她愤怒，只写一个比喻——因为愤怒稍后才有，此刻她需要的是理解，而理解用比喻来得最快。后面两句是她在现场的口头信念（人人都有机会），也是她整晚都在捍卫、也整晚都无法证实的那句话。
 
-**读者视角提示**：记住这个名词的对译：卖身契是契约，人是货物。这道翻译题是本宇宙政治与市井之间唯一的一座桥。
+**读者视角提示**：记住这个名词的对译：卖身契是契约，人是货物。这道翻译题是本宇宙政治与市井之间唯一的一座桥。而「严厉但公平」正是旗舰的原话（ch05），也正是海盗用来招徕的招牌——本章把这块招牌砸开一次，接下来每次它再出现，都要带着这个裂缝。
 
-> **原句 6:** She’d believed it. Ancestors, she’d almost believed it – almost swallowed whole what Rice Fish had told her, of a harsh but fair place.
-
-**中文理解**：「她曾相信过。天哪，她差点就信了——差点把旗舰告诉她的「严厉但公平的地方」整个吞下去。」
-
-**关键词**：She’d believed it（她曾相信过） / almost swallowed whole（整个吞下去） / a harsh but fair place（一个严厉但公平的地方）
-
-**为什么这样写**：全章最短的一段承担最重的回头路：她差点信了。almost swallowed whole 把「相信」写成一个消化动作——不是点头，是咽下去，于是作者顺手用 swallowed 埋下后面真正咽不下去的那一句（离开赎身市场时嘴里的酸味）。harsh but fair 是旗舰的原话（第五章），这里被降格成 almost 里的半成品：她吞下的不是这四个字，而是四字背后的整套保证，而这套保证现在漏了。
-
-**读者视角提示**：「严厉但公平」是旗舰的原话，也正是海盗用来招徕的招牌。本章把这块招牌砸开一次，接下来每次它再出现，都要带着这个裂缝。
-
-> **原句 7:** As they walked away, Xích Si could still feel the building, a dark, rancid thing at her back – a sour taste in her mouth that she couldn’t bring herself to swallow away.
+> **原句 6:** As they walked away, Xích Si could still feel the building, a dark, rancid thing at her back – a sour taste in her mouth that she couldn’t bring herself to swallow away.
 
 **中文理解**：「走开时，西施仍能感到那座建筑——背后一团黑而发臭的东西——嘴里的酸涩感，她怎么也咽不下去。」
 
@@ -83,33 +73,23 @@ modified: "2026-10-01"
 
 **为什么这样写**：作者让视觉与味觉同时指向那座建筑：它既是背上的一个黑影，又是一口咽不下去的酸。swallow 在这一章出现过两次——前面是她差点把旗舰的话整个吞下去，这里是她咽不下那股酸。同一动词，两次方向相反，全章的失望就在这两处之间完成。而它不肯咽下的原因，正贴在她后背：不需要转述，说不出口的东西可以一直压在身后。
 
-**读者视角提示**：这是本章的转轴。她没有说「我要改变它」，也没有说「我接受它」——她只是咽不下，然后在下一段把话题改成「喝一杯」。
+**读者视角提示**：这是本章的转轴。她没有说「我要改变它」，也没有说「我接受它」——她只是咽不下，然后在下一段把话题改成「喝一杯」。而随后那首诗给了她另一种东西：不是答案，是这个宇宙自己的美学。它不谈风月，只谈血与船——她居然听得进去，这件事后面会再被提起。
 
-> **原句 8:** It wasn’t the kind of poetry Xích Si was used to. Poetry was quiet and contemplative and beautiful – this was bloody, and messy, and the zither’s chords were just adding to the discordance. It felt as though someone was rifling through her entrails with the point of a blade. Yet it was strangely compelling – as the poet talked of ships tearing at each other in the night, and the cold light of the stars running like tears on their hull, and blood binding them all together, she couldn’t help but shiver.
-
-**中文理解**：「这不是西施习惯的诗。诗是安静的、沉思的、美的——这首 bloody，杂乱，而古筝的和弦只是在往那片不和谐里添乱。感觉像是有人正拿刀尖在她肠子里翻找。可它又莫名地引人——当那位诗人说到船只夜里互相撕咬、星光如泪般流过他们的船壳、血把所有人绑在一起，她忍不住打了个寒颤。」
-
-**关键词**：Poetry was quiet and contemplative and beautiful（诗是安静的、沉思的、美的） / this was bloody, and messy（这首血腥而杂乱） / adding to the discordance（往那片不和谐里添乱） / rifling through her entrails with the point of a blade（拿刀尖在她肠子里翻找） / blood binding them all together（血把所有人绑在一起）
-
-**为什么这样写**：作者先用一句话定义「诗」（安静／沉思／美），再逐项否定，每一项都由这首反着来：血、杂乱、不和谐。诗的美学被换成生理反应——rifling through her entrails 把听觉写成内脏被翻检的感觉。奇妙之处在 yet 之后：她一边被血与不和谐折磨，一边又忍不住发抖。这种「被吸引」没有被解释，作者宁可让它悬着，也不想让她在此刻获得一个结论。
-
-**读者视角提示**：这是她第一次接触这个宇宙自己的诗——它不谈风月，只谈血与船。而她居然听得进去，这件事后面会再被提起。
-
-> **原句 9:** ‘You… I don’t know where we stand. I don’t know what we’re supposed to do. I don’t know…’ She was crying in great large sobs now, heaving out of her, uncontrollable wave after uncontrollable wave, the pirate children and the marketplace, the homesickness and thoughts and worries about Khanh and everyone and everything she’d left behind overwhelming her. She wasn’t going back. She wasn’t ever going home. It was all dead to her. She was a consort and a pirate and that was the sum of her life, and even if they dealt with Kim Thông she didn’t see anything other than a tightly circumscribed circle where she would live and die…
+> **原句 7:** ‘You… I don’t know where we stand. I don’t know what we’re supposed to do. I don’t know…’ She was crying in great large sobs now, heaving out of her, uncontrollable wave after uncontrollable wave, the pirate children and the marketplace, the homesickness and thoughts and worries about Khanh and everyone and everything she’d left behind overwhelming her. She wasn’t going back. She wasn’t ever going home. It was all dead to her. She was a consort and a pirate and that was the sum of her life, and even if they dealt with Kim Thông she didn’t see anything other than a tightly circumscribed circle where she would live and die…
 
 **中文理解**：「『我……我不知道我们现在算什么。我不知道我们该做什么。我不知道……』她已经哭成一阵阵巨大的抽泣，从胸腔里涌出来，一波接一波，控制不住——海盗的孩子、那个市场、想家的念头、对 Khanh 和所有她留下的人的忧虑，全都涌上来把她淹没。她回不去了。她永远也回不了家。那些全死了。她只是一个侍从、一个海盗，她的一生就是这么些——就算他们真的对付了 Kim Thông，她也看不到别的结果，只看得到一个紧紧圈住的圆，她将在其中活到老死……」
 
 **关键词**：I don’t know where we stand（我不知道我们现在算什么） / I don’t know what we’re supposed to do（我不知道我们该做什么） / uncontrollable wave after uncontrollable wave（一波接一波，控制不住） / She wasn’t going back. She wasn’t ever going home（她回不去了。她永远也回不了家） / a tightly circumscribed circle where she would live and die（一个紧紧圈住的圆，她将在其中活到老死）
 
-**为什么这样写**：全章唯一一次语言失控被严格限在形式里：三个 I don’t know… 排成排比，句子越说越小，最后碎成一个省略号，读者跟着她一起说不下去。四周涌来的事物由逗号串成一串，全部用 the… 开头，把她从内部淹没。作者没有让她说出「我恨这里」——她说的是回不去了，而这一句比恨更难消化。末句用一个具体的圆（不是笼子，是她亲手量过的那种）描述她将至的余生。
+**为什么这样写**：全章唯一一次语言失控被严格限在形式里：三个 I don’t know… 排成排比，句子越说越小，最后碎成一个省略号，读者跟着她一起说不下去。四周涌来的事物由逗号串成一串，前两项用 the… 开头，把她从内部淹没。作者没有让她说出「我恨这里」——她说的是回不去了，而这一句比恨更难消化。末句用一个具体的圆（不是笼子，是她亲手量过的那种）描述她将至的余生。
 
 **读者视角提示**：这是她第一次把「我回不去了」说出口。前面几章里它是背景知识，这一晚它变成一句被人听见的台词。
 
-> **原句 10:** ‘Ah, grief.’ A silence. ‘Because it’s necessary. Because grief isn’t the whole of who I am. Because I have people to think of.’
+> **原句 8:** ‘Ah, grief.’ A silence. ‘Because it’s necessary. Because grief isn’t the whole of who I am. Because I have people to think of.’
 
-**中文理解**：「『啊，悲伤。』一阵沉默。『因为那是必要的。因为悲伤不是我全部的自我。因为我还有要牵挂的人。』」
+**中文理解**：「『啊，悲伤。』一阵沉默。『因为那是必要的。因为悲伤不是我这个人的全部。因为我还有要牵挂的人。』」
 
-**关键词**：Because it’s necessary（因为那是必要的） / Because grief isn’t the whole of who I am（因为悲伤不是我全部的自我） / Because I have people to think of（因为我还有要牵挂的人）
+**关键词**：Because it’s necessary（因为那是必要的） / Because grief isn’t the whole of who I am（因为悲伤不是我这个人的全部） / Because I have people to think of（因为我还有要牵挂的人）
 
 **为什么这样写**：西施的问题是「你怎么做到的」——怎么在失去那么多之后还笑得出来。旗舰没有讲道理，只用一个词（悲伤）接住她，再用三个 Because 把一条私人的活法讲完：necessary 是承认代价，isn’t the whole of who I am 是把自己拆成好几份，而最后一句把重心从自己移到别人身上——这句既是她的活法，也是她对西施的建议，一句话做了两件事。
 

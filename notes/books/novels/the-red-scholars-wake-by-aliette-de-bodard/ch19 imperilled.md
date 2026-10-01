@@ -23,7 +23,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：作者先用整整一句技术说明写这艘船怎么飞（用盲区穿行），再让读者随她落地到一句求祖先保佑——技术段落与祈祷段落的切换点就是 panic 的位置。而全章最狠的一处生理描写在最后：心跳不是撞在胸腔里，是穿过声带直接让声音发抖，于是恐惧第一次写进了她的台词本身。
 
-**读者视角提示**：记住盲区这个战术，它是下一章旗舰能逃脱的同一套物理。
+**读者视角提示**：记住盲区这个战术——它出自一艘小艇对一支大舰队的经验；旗舰在 ch20 没有用这一套，她用的是改装过的武器阵列与一次推进爆发。
 
 > **原句 2:** A jolt as the ship attached itself to the larger ship’s hull, somewhere near the engines. The temperature was going up – faster and faster – this was why Hổ had insisted everyone wore shadow-skins, not because they were going to end up in the vacuum of space. Because they were thermal insulators. Of course. The ship’s turrets wouldn’t fire on their own engines, and there was no need to, because the temperature was so high anyone who neared them would be burned to a crisp. The air felt on fire around her. The shuttle’s insides hadn’t even changed – no metal buckling or melting, or visible distortion. It had to be made of something highly resistant to heat.
 

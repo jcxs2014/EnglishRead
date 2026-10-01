@@ -53,7 +53,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：全章最长的一次论证押在一个必然上：即便不伸手也会被烧，因为世界本身不公平。这让她后面的能与必须改变不再是道德要求，而是推理结论——如果一定要烧，那唯一的问题是烧之前做过什么。两个改动句的对照把可能性与义务拆开：先承认有能力，再承认有义务。
 
-**读者视角提示**：这段话与西施在第十四章说的那句要的是有人能保护我正好对着来。她确实有人保护，问题在于那个人现在没有权了。
+**读者视角提示**：这段话与西施在前一段说的那句「你不再能保护我」正好对着来。她确实有人保护，问题在于那个人现在没有权了。
 
 > **原句 5:** ‘You’re just…’ Xích Si made a small, stabbing gesture with her hands, one that resonated under Rice Fish’s ceiling. ‘You’re obsessed with that place, but it’s been dead for a long time. Kim Thông hollowed it out right under you. And before that – how can you say it’s a place of freedom, when you pillage and take captives? When you indenture servants? When you kill…’ She stopped, then. ‘Your rules are just a lacquer over the law of the strongest.’
 
@@ -63,7 +63,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：她把舰队扒开的方式是连问几个什么时候：劫掠时、抓俘虏时、让仆人签卖身契时、杀人时——每一问都把一个抽象的名词（自由）换成一次具体的动作。随后那层漆的比喻把整段收成一句：海盗的规矩只是涂在强权法律上的一层漆。这是对旗舰全部道德立场的反驳，也是本书对自身最不留情面的一击。
 
-**读者视角提示**：全书对海盗暴力最直接的一次质问，出自一个刚加入不到一个月的人。她没看过审判，可她看过第十五章那盘影像。
+**读者视角提示**：全书对海盗暴力最直接的一次质问，出自一个刚加入不到一个月的人。她没看过审判，审判也没看过她——而旗舰刚在评议会上看过那盘影像，所以这句质问是被那段影像催出来的。
 
 > **原句 6:** ‘I don’t need to know her, because she’s here. She’s everywhere, big sis. You’re so obsessed with what you built together, with the perfection and pristineness of it. If she was such a paragon of virtue, then tell me – why did she teach you to be so unhappy?’
 

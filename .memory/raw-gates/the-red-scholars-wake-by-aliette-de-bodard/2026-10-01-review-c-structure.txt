@@ -1,0 +1,14 @@
+# 五步审查 c 步原始输出 2026-10-01（结构扫描）
+
+## audit_structure（主实现）
+=== 精读结构扫描（the-red-scholars-wake-by-aliette-de-bodard）===
+  扫 25 个 md、203 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+## check_struct_indep（第二实现）
+  ❌ ch10 teahouses.md: [summary] 引语块 10 个，超出 3–8 配额
+=== 独立结构扫描：22 个 md，缺陷 1 处 ===
+
+## check_block_coverage
+✅ 块覆盖对账：22 个文件，每块都进了 verify_quotes 校验

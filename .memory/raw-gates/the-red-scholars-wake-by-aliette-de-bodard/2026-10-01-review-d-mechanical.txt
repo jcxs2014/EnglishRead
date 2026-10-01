@@ -1,0 +1,45 @@
+# 五步审查 d 步原始输出 2026-10-01（语义二审 · 机械子项）
+
+## check_xref_indep（跨章引用第二实现）
+=== chNN 引用 139 处：英文证据报警 0 处 ／ 中文式待人判 137 处 ===
+
+## check_analysis_indep（分析层行内英文第二实现）
+抽出分析层英文片段 479 条
+✅ 全部片段在全书 text/ 逐字命中
+
+## sweep_analysis_inline（分析层行内英文主实现）
+=== 分析层行内英文逐字核查（the-red-scholars-wake-by-aliette-de-bodard）===
+  参照集：text/（25 个提取件） + epub 交叉验证 ；扫 25 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：785 个表格行、693 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 692 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 13
+
+## audit_numbers（计数断言）
+  ❓ ch22 aftermath.md:46  「三个字」参照串未解析 —— 需人判
+  ❓ ch22 aftermath.md:56  「一个词」参照串未解析 —— 需人判
+  ❓ ch22 aftermath.md:66  「一个词」参照串未解析 —— 需人判
+  ❓ ch22 aftermath.md:74  「三个词」参照串未解析 —— 需人判
+  ⚪ 00_金句精选.md:45  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch01 bargains.md:70  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch06 the citadel.md:14  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch11 warnings.md:10  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch11 warnings.md:50  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch11 warnings.md:52  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch11 warnings.md:110  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch17 fire and darkness.md:80  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch17 fire and darkness.md:82  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch20 ideals.md:80  「三十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch20 ideals.md:82  「三十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+
+## check_anchor（关键词锚定）
+  ch12 openings.md:72  未锚定 关键词「You think I’m done for（你指望我完蛋了） / Can yo」中的「didn't」既不在引语、也不在本块正文
+  ch18 banner.md:42  未锚定 关键词「I’m a scavenger（我是拾荒者） / No. You’re a pi」中的「i'm」既不在引语、也不在本块正文
+  ch18 banner.md:42  未锚定 关键词「I’m a scavenger（我是拾荒者） / No. You’re a pi」中的「scavenger」既不在引语、也不在本块正文
+  ch22 aftermath.md:62  未锚定 关键词「I wanted more out of the marriage（我想从这段婚」中的「estrange」既不在引语、也不在本块正文
+=== 关键词锚定自查（the-red-scholars-wake-by-aliette-de-bodard）===
+  扫 25 个 md，178 个引语块，178 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（25 个提取件）
+  ❌ 凭空造词 1 处（词全书查无）
+  ⚠️ 松散关键词 12 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 凭空造词明细 ──
+     ch22 aftermath.md:62  「estrange」← 关键词「I wanted more out of the marriage（我想从这段婚」

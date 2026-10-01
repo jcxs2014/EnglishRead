@@ -1,0 +1,75 @@
+# 五步审查 a 步原始输出 2026-10-01（门禁全量重跑）
+
+## verify_quotes
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 23/23 ✅（另有 1 条短引语未校验）
+ch01 bargains.md: 7/7 ✅（另有 1 条短引语未校验）
+ch02 ceremonial.md: 8/8 ✅
+ch03 wedding night.md: 8/8 ✅
+ch04 wanderings.md: 8/8 ✅
+ch05 accountings.md: 8/8 ✅
+ch06 the citadel.md: 8/8 ✅
+ch07 judgement.md: 8/8 ✅
+ch08 fear.md: 8/8 ✅
+ch09 mother and son.md: 8/8 ✅
+ch10 teahouses.md: 10/10 ✅
+ch11 warnings.md: 8/8 ✅
+ch12 openings.md: 8/8 ✅
+ch13 the matter world.md: 8/8 ✅
+ch14 connections.md: 7/7 ✅（另有 1 条短引语未校验）
+ch15 the council.md: 8/8 ✅
+ch16 wounds.md: 8/8 ✅
+ch17 fire and darkness.md: 6/6 ✅（另有 2 条短引语未校验）
+ch18 banner.md: 8/8 ✅
+ch19 imperilled.md: 7/7 ✅
+ch20 ideals.md: 8/8 ✅
+ch21 in the void.md: 8/8 ✅
+ch22 aftermath.md: 8/8 ✅
+
+⚠️ 全书共 5 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 196/196 引文可核实（100%）；完全干净文件 23/23；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+## verify_quotes --full
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 196/196 引文可核实（100%）；完全干净文件 23/23；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+## check_vocab
+词条行合计: 653
+
+--- FAIL (0) ---
+
+--- WARN (9) ---
+  ch01 bargains.md [基础] 基础档疑含超纲词「partnership」
+  ch07 judgement.md [基础] 基础档疑含超纲词「scavenger」
+  ch07 judgement.md [基础] 基础档疑含超纲词「corridors」
+  ch07 judgement.md [基础] 基础档疑含超纲词「bondsperson」
+  ch07 judgement.md [基础] 基础档疑含超纲词「prisoners」
+  ch08 fear.md [基础] 基础档疑含超纲词「bannerpeople」
+  ch08 fear.md [基础] 基础档疑含超纲词「distant heartbeat」
+  ch12 openings.md [基础] 基础档疑含超纲词「indenture」
+  ch13 the matter world.md [基础] 基础档疑含超纲词「frantic heartbeat」
+
+## check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+## corruption_scan
+
+=== 编辑损坏扫描（the-red-scholars-wake-by-aliette-de-bodard）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+## sweep_full
+=== 引语整串 flat 比对（the-red-scholars-wake-by-aliette-de-bodard）===
+  参照集：text/ 逐章（22 章，可定章） + epub 交叉验证
+  ✅ 本章命中 173 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 5 条归 check_short_quotes；无章可对 0 条未判）
