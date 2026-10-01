@@ -1,0 +1,110 @@
+# 独立五步审查 · a 步（第 3 条提交门禁全量重跑）
+# 书: notes/books/non-fiction/the-highly-sensitive-persons-survival-guide-by-ted-zeff
+# 时间: 2026-10-01 21:17 UTC  审查方: ZCode-Mac
+# lane: 完整 lane
+
+===== verify_quotes.py =====
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 25/25 ✅
+ch01 foreword.md: 9/9 ✅
+ch02 preface.md: 10/10 ✅
+ch03 an introduction to being an hsp.md: 10/10 ✅
+ch04 preparing for overstimulation in your daily life.md: 10/10 ✅
+ch05 calm the senses and cope with time pressure.md: 10/10 ✅
+ch06 maintaining a healthy body.md: 10/10 ✅
+ch07 sleepless no more a program for better sleep.md: 10/10 ✅
+ch08 harmonious relationships for the hsp.md: 10/10 ✅
+ch09 creating a peaceful work environment.md: 10/10 ✅
+ch10 nurturing the hsp soul.md: 10/10 ✅
+ch11 answering common questions from hsps.md: 10/10 ✅
+ch12 choosing the right healer for you.md: 10/10 ✅
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 144/144 引文可核实（100%）；完全干净文件 13/13；正文章节 0 提取 0；总览 0 提取转交 1 ===
+EXIT=0
+
+===== verify_quotes.py --full（取证）=====
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 144/144 引文可核实（100%）；完全干净文件 13/13；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+===== check_vocab.py =====
+词条行合计: 491
+
+--- FAIL (0) ---
+
+--- WARN (51) ---
+  ch01 foreword.md [基础] 基础档疑含超纲词「sensitive」
+  ch01 foreword.md [基础] 基础档疑含超纲词「attention」
+  ch02 preface.md [基础] 基础档疑含超纲词「sensitive」
+  ch02 preface.md [基础] 基础档疑含超纲词「population」
+  ch02 preface.md [基础] 基础档疑含超纲词「difficult」
+  ch02 preface.md [基础] 基础档疑含超纲词「questions」
+  ch03 an introduction to being an hsp.md [基础] 基础档疑含超纲词「sensitive」
+  ch03 an introduction to being an hsp.md [基础] 基础档疑含超纲词「environment」
+  ch04 preparing for overstimulation in your daily life.md [进阶] 例句不含词头「meditation」
+  ch04 preparing for overstimulation in your daily life.md [进阶] 例句不含词头「reduce」
+  ch04 preparing for overstimulation in your daily life.md [基础] 基础档疑含超纲词「stimulation」
+  ch04 preparing for overstimulation in your daily life.md [基础] 基础档疑含超纲词「environment」
+  ch04 preparing for overstimulation in your daily life.md [基础] 基础档疑含超纲词「protected」
+  ch05 calm the senses and cope with time pressure.md [基础] 例句不含词头「noise」
+  ch05 calm the senses and cope with time pressure.md [基础] 例句不含词头「stress」
+  ch05 calm the senses and cope with time pressure.md [基础] 例句不含词头「pressure」
+  ch06 maintaining a healthy body.md [基础] 基础档疑含超纲词「processed foods」
+  ch06 maintaining a healthy body.md [基础] 基础档疑含超纲词「allergies」
+  ch06 maintaining a healthy body.md [基础] 基础档疑含超纲词「allergist」
+  ch07 sleepless no more a program for better sleep.md [高级] 例句不含词头「sedative」
+  ch07 sleepless no more a program for better sleep.md [基础] 基础档疑含超纲词「relaxation」
+  ch07 sleepless no more a program for better sleep.md [基础] 基础档疑含超纲词「meditation」
+  ch08 harmonious relationships for the hsp.md [基础] 基础档疑含超纲词「companions」
+  ch08 harmonious relationships for the hsp.md [基础] 例句不含词头「blame」
+  ch08 harmonious relationships for the hsp.md [基础] 基础档疑含超纲词「colleague」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「environment」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「sensitive」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「challenging」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「colleagues」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「meditation」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「stretching」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「supervisor」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「meditating」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「assignments」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「comfortable chair」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「employees」
+  ch10 nurturing the hsp soul.md [基础] 基础档疑含超纲词「spiritual」
+  ch10 nurturing the hsp soul.md [基础] 基础档疑含超纲词「overloaded」
+  ch10 nurturing the hsp soul.md [基础] 基础档疑含超纲词「awareness」
+  ch10 nurturing the hsp soul.md [基础] 基础档疑含超纲词「disappointed」
+  ch11 answering common questions from hsps.md [基础] 基础档疑含超纲词「neighbors」
+  ch11 answering common questions from hsps.md [基础] 例句不含词头「neighbors」
+  ch11 answering common questions from hsps.md [基础] 基础档疑含超纲词「lifestyle」
+  ch11 answering common questions from hsps.md [基础] 基础档疑含超纲词「complained」
+  ch11 answering common questions from hsps.md [基础] 基础档疑含超纲词「challenging」
+  ch11 answering common questions from hsps.md [基础] 例句不含词头「roommate」
+  ch11 answering common questions from hsps.md [基础] 基础档疑含超纲词「compromise」
+  ch12 choosing the right healer for you.md [基础] 基础档疑含超纲词「therapies」
+  ch12 choosing the right healer for you.md [基础] 基础档疑含超纲词「supplements」
+  ch12 choosing the right healer for you.md [基础] 基础档疑含超纲词「fragrances」
+  ch12 choosing the right healer for you.md [基础] 基础档疑含超纲词「practitioner」
+EXIT=0
+
+===== check_entities.py =====
+=== 实体一致性检测：0 个文件存在未知实体 ===
+EXIT=0
+
+===== corruption_scan.py =====
+
+=== 编辑损坏扫描（the-highly-sensitive-persons-survival-guide-by-ted-zeff）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+EXIT=0
+
+===== sweep_full.py =====
+=== 引语整串 flat 比对（the-highly-sensitive-persons-survival-guide-by-ted-zeff）===
+  参照集：text/ 逐章（12 章，可定章） + epub 交叉验证
+  ✅ 本章命中 119 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+EXIT=0

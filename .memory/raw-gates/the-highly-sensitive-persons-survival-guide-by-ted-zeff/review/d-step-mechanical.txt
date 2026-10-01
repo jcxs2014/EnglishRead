@@ -1,0 +1,38 @@
+# d 步 机械子项（第二实现 *_indep.py，禁复述写作期尺子）
+# 时间: 2026-10-01 21:18 UTC
+
+===== check_struct_indep.py =====
+=== 独立结构扫描：12 个 md，缺陷 0 处 ===
+EXIT=0
+
+===== check_xref_indep.py =====
+=== chNN 引用 107 处：英文证据报警 0 处 ／ 中文式待人判 23 处 ===
+EXIT=0
+
+===== check_analysis_indep.py =====
+抽出分析层英文片段 153 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）5 条 —— 只报不判红，须人判：
+  ch07 sleepless no more a program for better sleep.md:154  which increases insomnia
+  ch09 creating a peaceful work environment.md:69  may find yourself doing
+  ch09 creating a peaceful work environment.md:81  be likely to do A than do B
+  ch09 creating a peaceful work environment.md:93  there is no correlation between A and B
+  ch12 choosing the right healer for you.md:91  tend to be more sensitive
+EXIT=0
+
+===== d 步终验标准件：sweep_full 整行连续 sweep =====
+=== 引语整串 flat 比对（the-highly-sensitive-persons-survival-guide-by-ted-zeff）===
+  参照集：text/ 逐章（12 章，可定章） + epub 交叉验证
+  ✅ 本章命中 119 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+EXIT=0
+
+===== check_overview_labels（新工具，未接 gate.sh）=====
+===== 00_金句精选.md：25 条带标签引语（跳过无标签行 0）=====
+
+----- 汇总（共 54 条带标签引语，跳过无标签行 0）-----
+  ✅ 标注章逐字 : 54
+
+----- 口径外（0 条，不计入失败，需人判）-----
+
+----- 待人判清单（0 条）-----

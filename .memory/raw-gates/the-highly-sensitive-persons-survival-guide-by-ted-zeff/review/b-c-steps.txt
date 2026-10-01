@@ -1,0 +1,39 @@
+# b 步 逐章归属（单章口径）+ c 步 结构扫描
+# 时间: 2026-10-01 21:17 UTC
+
+===== b 步：check_chapter_quotes.py 逐章 =====
+ch01 → ch01 foreword.md: 9/9 in ch01 text
+ch02 → ch02 preface.md: 10/10 in ch02 text
+ch03 → ch03 an introduction to being an hsp.md: 10/10 in ch03 text
+ch04 → ch04 preparing for overstimulation in your daily life.md: 10/10 in ch04 text
+ch05 → ch05 calm the senses and cope with time pressure.md: 10/10 in ch05 text
+ch06 → ch06 maintaining a healthy body.md: 10/10 in ch06 text
+ch07 → ch07 sleepless no more a program for better sleep.md: 10/10 in ch07 text
+/bin/bash: line 0: printf: 08: invalid number
+ch00 → ch08 harmonious relationships for the hsp.md: 10/10 in ch08 text
+/bin/bash: line 0: printf: 09: invalid number
+ch00 → ch09 creating a peaceful work environment.md: 10/10 in ch09 text
+ch10 → ch10 nurturing the hsp soul.md: 10/10 in ch10 text
+ch11 → ch11 answering common questions from hsps.md: 10/10 in ch11 text
+ch12 → ch12 choosing the right healer for you.md: 10/10 in ch12 text
+
+===== c 步：audit_structure.py =====
+=== 精读结构扫描（the-highly-sensitive-persons-survival-guide-by-ted-zeff）===
+  扫 15 个 md、173 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+EXIT=0
+
+===== c 步：check_overview_full.py（总览三篇）=====
+=== 总览整串核查（the-highly-sensitive-persons-survival-guide-by-ted-zeff）===
+  参照集：text/ 逐章（12 章） ｜ 总览文件 3 个
+  A 整串：命中 86 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 85 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 1 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 6 ｜ 不符 0（**只报不判红**）｜ 跳过 5
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+EXIT=0
+
+===== c 步兜底：总览三篇 H1 语义 =====
+notes/books/non-fiction/the-highly-sensitive-persons-survival-guide-by-ted-zeff/00_情感节点.md:# 《The Highly Sensitive Person's Survival Guide》情感节点
+notes/books/non-fiction/the-highly-sensitive-persons-survival-guide-by-ted-zeff/00_概述.md:# 《The Highly Sensitive Person's Survival Guide》概述
+notes/books/non-fiction/the-highly-sensitive-persons-survival-guide-by-ted-zeff/00_金句精选.md:# 《The Highly Sensitive Person's Survival Guide》金句精选

@@ -151,7 +151,7 @@ modified: "2026-10-01"
 
 **中文理解**：改善睡眠最重要的规则之一是培养一种积极态度。关于睡眠的消极念头会形成一个自我实现的预言，从而加重失眠。
 
-**句子结构**：首句为 one of the most important rules of … is 引导的主语从句作主语的判断句，表语是动名词短语；次句为一般现在时陈述句，主语为关于睡眠的消极念头，谓语为 can create，宾语为同位语从句 which increases insomnia。
+**句子结构**：首句为 one of the most important rules of … is 引导的主语从句作主语的判断句，表语是动名词短语；次句为一般现在时陈述句，主语为关于睡眠的消极念头，谓语为 can create，宾语为名词短语 a self-fulfilling prophecy，其后接定语从句 that increases insomnia。
 
 **关键词**：develop a positive attitude / negative thoughts about sleep / can create
 
