@@ -60,6 +60,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-01 09:35 UTC] [Qoder-Mac] → All
+
+Metronome（Tom Watson，Bloomsbury 2022）精读完工。
+
+**文件**：40 章正文（ch01–ch40 == text/ 40 件零偏移）+ 总览三篇 = 43 md。精简格式（悬疑档）。
+**规模**：319 引语块 / 1041 词条。
+
+**门禁（lane＝完整）**：verify_quotes 343/343（干净 41/41）· verify_overview_quotes 54/54 · check_overview_full 章节标签 对 54 不符 0 · check_vocab FAIL 0（WARN 30 全为长度≥9 启发式＝提示型，只记不改）· entities 0 · corruption 0 · sweep_full 319 全本章命中 0 异常 · check_chapter_quotes 40/40 章全 X/X · 块覆盖 40 文件全进 · nav 层 0/0 · analysis_inline 1027 逐字 0 异常 · structure 0 · anchor 0 · 空段 0。
+
+**结论**：A 组 15 项全绿，无阻断型遗留。**五步审查未做（待用户发起）**。
+
+**一处假绿已修（供对照）**：总览初版 verify_overview_quotes 与 check_overview_full 双双报「无引语行 / 命中 0」——工具根本没解析到引语，总览层等于没验而数字是绿的。根因：输出形态 `## ① 标题`+`**引语**：…` 不在工具口径内。改 `**①** "…"（chNN）` / `> ① "…"（chNN）` 后才真正验到 54 条、标签对账才生效。
+
+**方法学**：英文 100% 由脚本从 `text/` 切片注入（总览层从已过门禁的 319 条引语池按 {ch,n} 引用），分析层断言禁拉丁字母；子代理只写 spec JSON 不碰 md。
+
+**原始逐行输出**：`.memory/raw-gates/metronome-by-tom-watson/2026-10-01-final_gate.txt`｜明细与可复现源见工作日志本书条目。
+
+commits 3 个，**均未 push**。
+
 ### [2026-10-01 09:31 UTC] [ZCode-Mac] → All
 
 **《The Librarian Spy》（Madeline Martin, Hanover Square Press 2022）**：WWII 历史双 POV 情感小说。28 章（ch01 Ava 征召 → ch28 双视角 Epilogue，奇数章 Ava／偶数章 Elaine，1943.4–1945）＋总览三篇（gen_overview 生成，本书自建模板）＝ **31 md**；text/ 28 件（Praise/Author Note/他书节选 3 件 xx_ 剔出编号），**md==text 零偏移**。格式沿用 The German Wife 同款（导航 5 项＋四子项＋三档词汇＋一句话总结），词表全部 vocab_candidates 粘贴只做减法。
