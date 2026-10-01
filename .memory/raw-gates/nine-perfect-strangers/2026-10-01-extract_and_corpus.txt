@@ -1,0 +1,110 @@
+=== Nine Perfect Strangers — 第 1 条原文先行 原始输出 2026-10-01 09:58 UTC ===
+--- 提取器：scripts/attic/extract_nine_perfect_strangers.py（专用，原因见脚本 docstring）
+写入 79 章 → notes/books/novels/nine-perfect-strangers-by-liane-moriarty/text
+  ch01  ch01_yao.txt                          6901  Yao
+  ch02  ch02_ten_years_later.txt             18820  Ten years later
+  ch03  ch03_lars.txt                         3856  Lars
+  ch04  ch04_frances.txt                     17705  Frances
+  ch05  ch05_ben.txt                         11226  Ben
+  ch06  ch06_frances.txt                     31470  Frances
+  ch07  ch07_jessica.txt                     13188  Jessica
+  ch08  ch08_frances.txt                     14086  Frances
+  ch09  ch09_masha.txt                        9095  Masha
+  ch10  ch10_heather.txt                     13130  Heather
+  ch11  ch11_frances.txt                     18217  Frances
+  ch12  ch12_zoe.txt                         15071  Zoe
+  ch13  ch13_masha.txt                        5354  Masha
+  ch14  ch14_frances.txt                      7567  Frances
+  ch15  ch15_lars.txt                         9011  Lars
+  ch16  ch16_jessica.txt                     10850  Jessica
+  ch17  ch17_frances.txt                      4840  Frances
+  ch18  ch18_tony.txt                        12270  Tony
+  ch19  ch19_frances.txt                      7282  Frances
+  ch20  ch20_masha.txt                        3279  Masha
+  ch21  ch21_carmel.txt                      11390  Carmel
+  ch22  ch22_yao.txt                          8961  Yao
+  ch23  ch23_frances.txt                     16849  Frances
+  ch24  ch24_carmel.txt                       4902  Carmel
+  ch25  ch25_masha.txt                        7454  Masha
+  ch26  ch26_napoleon.txt                    14028  Napoleon
+  ch27  ch27_zoe.txt                          1587  Zoe
+  ch28  ch28_heather.txt                      2876  Heather
+  ch29  ch29_frances.txt                     17509  Frances
+  ch30  ch30_masha.txt                        1932  Masha
+  ch31  ch31_lars.txt                        15985  Lars
+  ch32  ch32_zoe.txt                          1479  Zoe
+  ch33  ch33_frances.txt                      7191  Frances
+  ch34  ch34_yao.txt                          2486  Yao
+  ch35  ch35_tony.txt                         1020  Tony
+  ch36  ch36_carmel.txt                       2371  Carmel
+  ch37  ch37_masha.txt                         402  Masha
+  ch38  ch38_napoleon.txt                     2988  Napoleon
+  ch39  ch39_frances.txt                      1412  Frances
+  ch40  ch40_heather.txt                      6139  Heather
+  ch41  ch41_zoe.txt                          3663  Zoe
+  ch42  ch42_napoleon.txt                      346  Napoleon
+  ch43  ch43_masha.txt                        3720  Masha
+  ch44  ch44_heather.txt                      2400  Heather
+  ch45  ch45_frances.txt                      3742  Frances
+  ch46  ch46_carmel.txt                       8118  Carmel
+  ch47  ch47_frances.txt                      4352  Frances
+  ch48  ch48_zoe.txt                          5179  Zoe
+  ch49  ch49_ben.txt                          7483  Ben
+  ch50  ch50_frances.txt                      4326  Frances
+  ch51  ch51_delilah.txt                     10728  Delilah
+  ch52  ch52_jessica.txt                      8637  Jessica
+  ch53  ch53_frances.txt                      5690  Frances
+  ch54  ch54_yao.txt                          9354  Yao
+  ch55  ch55_frances.txt                      4088  Frances
+  ch56  ch56_yao.txt                           489  Yao
+  ch57  ch57_frances.txt                      1252  Frances
+  ch58  ch58_zoe.txt                          2652  Zoe
+  ch59  ch59_masha.txt                        5437  Masha
+  ch60  ch60_frances.txt                      7142  Frances
+  ch61  ch61_napoleon.txt                     7532  Napoleon
+  ch62  ch62_frances.txt                     11061  Frances
+  ch63  ch63_lars.txt                         7186  Lars
+  ch64  ch64_jessica.txt                      4893  Jessica
+  ch65  ch65_masha.txt                       16204  Masha
+  ch66  ch66_ben.txt                          3782  Ben
+  ch67  ch67_heather.txt                     12741  Heather
+  ch68  ch68_tony.txt                         5048  Tony
+  ch69  ch69_frances.txt                      2673  Frances
+  ch70  ch70_yao.txt                           811  Yao
+  ch71  ch71_frances.txt                      2124  Frances
+  ch72  ch72_yao.txt                          2410  Yao
+  ch73  ch73_carmel.txt                       5503  Carmel
+  ch74  ch74_frances.txt                     12345  Frances
+  ch75  ch75_one_week_later.txt              19887  One week later
+  ch76  ch76_five_years_later.txt            10910  Five years later
+  ch77  ch77_chapter.txt                       783  Reader, she didn’t marry him, but he moved to Sydney for her and they lived together, and Tony was there beside her during the resurgence of her career, when Frances’s first foray into “romantic suspense” turned out to be a surprise hit. (A surprise to everyone except Jo, who called her up the day after she delivered the revised manuscript and said, in a very un-grandmotherly tone, “You fucking nailed it.”)
+  ch78  ch78_chapter.txt                       342  Of course, not everyone gets a happy ending or even the chance of one. Life doesn’t work like that. Case in point: Helen Ihnat, the reviewer of Frances’s novel What the Heart Wants, lost her entire life savings in a mortifying, high-profile cryptocurrency scam and lived in a state of quite profound unhappiness for the rest of her days.
+  ch79  ch79_chapter.txt                       409  Oh, reader, of course she married him eventually. You’ve met her. She waited until her sixtieth birthday. She wore turquoise. She had eleven bridesmaids, none of whom was under the age of forty-five, thirteen flower girls, and one page boy, a toddler just learning to walk, who clutched a Matchbox car in each of his tiny fists. His name was Zach.
+
+章号 1–79，连续性检查：连续 ✅
+
+跳过 13 页（非正文）：
+  ~ titlepage.xhtml               94   Cover
+  ~ part0000.html                  0   (empty)
+  ~ part0001.html                368   Begin Reading
+  ~ part0002.html                340   The author and publisher have provided t
+  ~ part0003.html                 50   For Kati
+  ~ part0004.html                227   You suppose you are the trouble
+  ~ part0084.html               3890   Acknowledgments
+  ~ part0085.html                119   Recommend Nine Perfect Strangers for you
+  ~ part0086.html                171   Also by Liane Moriarty
+  ~ part0087.html                417   About the Author
+  ~ part0088.html                293   Thank you for buying this
+  ~ part0089.html               1157   Contents
+  ~ part0090.html               1557   This is a work of fiction. All of the ch
+
+--- 语料层验收 verify_corpus
+=== 语料层验收（P0-0）: nine-perfect-strangers-by-liane-moriarty ===
+text/ 件数: 79
+  [1] 件数 79 == 预期 79  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 10 组 / 互查 90 组（共享人物 12 个已豁免）  OK
+  [3] 首末句抽印已跳过（--quiet-edges）
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
