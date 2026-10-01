@@ -9,7 +9,7 @@ modified: "2026-10-01"
 
 - **一句话概括**：一通用戏台词做暗号的电话找上门来，他反复推敲这是劫狱的暗示还是灭口的信号；他随即写辞职信、徒步走出沼地，一路上因为一句否认与一次祝福被当地人当成新来的驱魔医生，在替一对被附身的双胞胎兄妹处理时让那东西转到自己身上，走出沼泽后即被押送，一路由警察和士兵转手，最后见到一位自称 Salyut 的圣将军，被告知「你父亲想见你」。
 - **情感弧线位置**：开场是被找上门的窘迫，中段转成独自行走与自问的沉闷，转折点在沼泽里替别人接手一件自己也不懂的事，末段落在恐惧之后的疲惫与一句平静的召见通知上。
-- **人物弧线**：他从一个只求消失、不愿再欠任何人的囚徒，变成在沼地里被人当作能解决问题的人，并第一次靠临场应变而不是背诵咒术行事；结尾他被移交出去，身体上的怕让位给面对父亲的预感。
+- **人物弧线**：他从一个只求消失、不愿再欠任何人的囚徒，变成在沼地里被人当作能解决问题的人，并靠临场应变而不是背诵咒术替别人办成了一件事；结尾他被移交出去，身体上的怕让位给面对父亲的预感。
 - **叙事手法**：长段落的内心推演与短促对话交替；办证件式的荒诞、沼泽里分辨不出时间的静，与附身场景的恐怖靠语域突然切换拼在一起，句式也随之在长句与单行短句之间来回跳。
 - **视角**：第三人称限制，紧贴叙述者。全章不写他视野之外的人物的内心；警察、押送者、Siculu 一家都只由他看见、听见与推断。
 
@@ -128,7 +128,7 @@ modified: "2026-10-01"
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| half-moon | 半月；（此处）升起在他左手边的那一个 | Even through the crackle and hiss of the overtapped prison phone, Fetter has a sudden brief vision of a clearing open to the night sky—a half-moon rising to his left, mountains like teeth to his right |
+| half-moon | 半月；（此处）升起在他左手边的那一个 | Even through the crackle and hiss of the overtapped prison phone, Fetter has a sudden brief vision of a clearing open to the night sky—a half-moon rising to his left, mountains like teeth to his right—and he bites down hard to stop himself from blurting out the name. |
 | landline | 固定电话；不经过手机信号的直线 | It comes to the provincial secretary’s landline in their small office in the secretariat, and it picks the secretary’s day off, so Fetter is the one to answer it. |
 | rumour | 传闻；没人核实却跑得比人快 | He makes his excuses and leaves, but someone must have noticed him react to an unseen thing in the water. Rumour begins to outpace him. |
 | betel | 槟榔；这里被写成术士的瘾 | He coughs it up and spits it into the swamp, and even this affirms his legitimacy for his new fanbase, because aren’t the aduro famous for their betel addiction, their constant spitting, their blood-red mouths? |

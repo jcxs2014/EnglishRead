@@ -9,7 +9,7 @@ modified: "2026-10-01"
 
 - **一句话概括**：那位圣将军把他从监狱接出来，一路过关卡回到挂满旗幡、远处有烟柱的 Luriat，在会场侧门与电梯里被人领着走，最后在父亲的套房里接过当年那枚牙、又抛还回去；随后是一场关于世界与魔鬼的解释、一次加官晋爵的提议、一份写明边界的缓刑令，以及临出门时那句「你们两个谁在说谎」。
 - **情感弧线位置**：开场是被照顾时的困惑与不适，中段在电梯里跌进「坠落」的低点；与父亲的对谈从紧绷滑向疲惫，末段在引诱与羞辱之间来回摇摆，最后停在一个冷掉的反问上。
-- **人物弧线**：他从一个只想确认自己是否还自由的囚徒，变成一个被父亲当作继承人与工具来安排的人；两次开口拒绝，两次都没能说清自己拒绝的到底是什么。
+- **人物弧线**：他从一个只想确认自己是否还自由的囚徒，变成一个被父亲当作继承人与工具来安排的人；他在关键处开了口，却始终没能说清自己拒绝的到底是什么。
 - **叙事手法**：前半是移动中的车厢、关卡与旁人的转述，后半几乎全是对话，靠两人各自的停顿与笑容推进；中段用电梯里的一段比喻把节奏突然放慢，再用登记簿上的签字把速度推快。
 - **视角**：第三人称限制，紧贴叙述者。父亲的内心一概不写，只由表情、停顿和话里那套表层／深层的说法间接透出。末段有一处视角裂缝：父亲的目光越过他，看向叙述者所在的方向，叙述者随即声明这不可能。
 
@@ -121,7 +121,7 @@ modified: "2026-10-01"
 | multisyllabic | 多音节的；音节长得滚不溜丢 | It sounds old, rolling and multisyllabic and liquid. |
 | quarantine | （此处）隔离；用公文词把坐牢说成一道程序 | “You have proper identification waiting for you with your father. You were released after routine questioning and the completion of your quarantine.” |
 | defrock | （此处义）剥夺圣职；把教士赶下神职 | “You could close the prisons and open the borders. You could defrock the corrupt monks and end the pogroms. |
-| fealty | 效忠；（此处）向日月宣称的臣服 | The Absent King and Absent Queen will bow their absent knees; both presidents already swear fealty to the sun and the moon |
+| fealty | 效忠；（此处）向日月宣称的臣服 | The Absent King and Absent Queen will bow their absent knees; both presidents already swear fealty to the sun and the moon, and if I were to appoint you my prince regent in the north— |
 | boon | （此处义）恩赐；把手掌朝上递出的那种给予 | The Perfect and Kind holds his right hand lightly raised in the seal of the boon: the gift that is given, palm up and fingers downturned, as if handing out freedoms. |
 | gaoler | （此处）看守；把岛关在胸腔里的人 | He imagines himself chosen at last, invested with power and agency beyond his wildest dreams; he imagines a great expansion of his rib cage, bringing the island within his chest, being its gaoler instead of it being his. |
 
