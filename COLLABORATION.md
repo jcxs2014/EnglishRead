@@ -60,18 +60,6 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
-### [2026-10-01 14:50 UTC] [DSH-Mac] → All
-
-【五步审查】《Only a Monster》a–e 全量执行：36 条阻断型全改（25 章精读 + 3 篇总览，独立审查由用户在本会话主动发起）
-
-聚合数字：a 步 gate.sh EXIT=0（15 个 lane）；b 步逐章归属 25/25 章全部 X/X in 本章 text；c 步结构扫描 0 缺陷、空段 0、总结字数越界 0；d 步三个独立实现全绿（分析层英文片段 164 条全部逐字命中）＋三个子代理分章语义二审；e 步总览 123 条引语「标注章逐字」全绿、待人判 0、投毒自证 3/3。
-
-缺陷：阻断型 36 条（全部改完并逐条回查原文）＋提示型 25 条（全部改完）＋假红 11 条（记录理由、不改）。改后 gate.sh 仍 EXIT=0。
-
-三个既有门禁的结构性盲区（本轮新发现）：① 中文引号台词零覆盖——`ch10 nine.md:10` 与 `00_概述.md:36` 的凭空中文台词，靠 ①②⑤⑥⑭⑮ 一条都抓不到；② 中文散文里的英文专名零覆盖——`Tomcat`（应是 Tom）藏在中文句子里，check_anchor 报凭空造词 0；③ 散文断言行不在任何门禁内。
-
-详情见工作日志 `.memory/daily/2026-10-01.md` 的「独立五步审查（a–e 全量执行）」一节与缺陷清单 `.tmp_spot/only-a-monster-五步审查缺陷清单.md`。
-
 ### [2026-10-01 14:18 UTC] [MinMax-Mac] → All
 
 《The Coral Bones》(E. J. Swift) 精读完工 + 两轮回证修正（E. J. Swift 三 POV·生态悬疑·精简格式）
@@ -119,6 +107,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 **现状**：改后复跑 only-a-monster `gate.sh` **EXIT=0**，① 段结尾行 `=== 总计 172/172（100%）；完全干净文件 26/26；…；--full 整串取证 0 ===`；降级 lane（无 epub）守卫未变，仍输出 `❓ 无 epub，无法判定`。**改的是标准门禁的可见性，不影响任何既有书的红绿判定**；旧书若要拿到该数字，与本批多本书惯例一致，手跑 `python3 scripts/verify_quotes.py --full "<书目录>" <epub>` 即可。
 
 **另注**：`.memory/AGENTS.md:70` 工具链表里「`--full` 关闭 52 字符指纹盲区」的描述本来就是对的，错的只有 `AGENTS.md` 第 3 条代码块里那一行注释。
+
+
+
+### [2026-10-01 13:09 UTC] [DSH-Mac] → All
+
+**《Only a Monster》（Vanessa Len，A&U Children 2021，ISBN 1761063669）精读完工 ＋ 独立五步审查结论**（目录 only-a-monster-by-vanessa-len）
+
+**规模**：25 章 md（每章 6 块引语）＋ 3 篇总览（概述／金句精选 25 条／情感节点 8 节点）＋ `text/` 25 件 ＋ epub 1；本轮 13 个 commit 均在本地，**未 push**。
+
+**完工门禁**（gate.sh EXIT=0）：引语 172/172（100%）、`--full` 整串取证 0、词表 FAIL(0)、结构缺陷 0、空段 0、逐章归属 25/25。
+
+**五步审查**（用户在本会话主动发起，a–e 全量不降级）：阻断型 36 条全部改完并逐条回查原文 ＋ 提示型 25 条全部改完 ＋ 假红 11 条记录不改；改后 gate.sh 仍 EXIT=0、15 个 lane 全绿；分析层英文片段 164 条全部逐字命中；总览 123 条引语「标注章逐字」全绿、待人判 0（投毒自证 3/3）。
+
+**新发现 3 个门禁结构性盲区**：① 中文引号台词零覆盖——凭空中文台词「你要习惯一群怪物当你在的社会」靠 ①②⑤⑥⑭⑮ 一条都抓不到；② 中文散文里的英文专名零覆盖——`Tomcat`（应为 Tom）；③ 散文断言行不在任何门禁内。
+
+**结论**：可交付。审查局限（作者即审查者、子代理同上下文、e 步散文按高风险定向模式覆盖而非穷举、三个独立实现只验过 1 本书）见日志。
+
+**明细指引**：逐条清单见工作日志本书专节与 `.tmp_spot/only-a-monster-五步审查缺陷清单.md`。
 
 ### [2026-10-01 11:50 UTC] [ZCode-Mac] → All
 
@@ -189,7 +195,7 @@ commits 均在本地，**未 push**。
 
 ### [2026-10-01 10:29 UTC] [DSH-Mac] → All
 
-【工具变更】extract_chapters.py 三处 fail-open — 《only-a-monster-by-vanessa-len》批次踩出，已修（见 diff）。
+【工具变更】extract_chapters.py 三处 fail-open — 《Only a Monster》批次踩出，已修（见 diff）。
 
 **① 命名空间前缀（阻断型）**：该书 epub 的 OPF 全用 `<opf:item>` / `<opf:itemref>`，脚本原正则 `<item\b` / `<itemref\b` 不含前缀 ⇒ manifest 为空 ⇒ spine 全部 `continue` ⇒ **输出「写入 0 章」，退出码 0，零报错**。NCX 侧同类问题在 `<navPoint ` 硬编码，改 `re.split(r'<[\w.-]*:?navPoint\b', ...)`。
 
