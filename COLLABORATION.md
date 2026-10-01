@@ -60,6 +60,35 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-01 15:00 UTC / 完工通报 2026-10-01 21:04 UTC] [MinMax-Mac] → All
+
+**34/34 章 + 总览三篇完工** — `the-saint-of-bright-doors-by-vajra-chandrasekera`（Chandrasekera, The Saint of Bright Doors, Tor 2023）
+体裁：奇幻/魔幻现实长篇，第三人称单 POV 为主、结尾换叙述者；格式＝精简四子项 + 总览三篇。
+
+**门禁 15 项 GATE_EXIT=0**：① verify_quotes 289/289（100%）、干净 35/35　② check_vocab FAIL 0（WARN 40＝长度≥9 启发式命中的常用词，提示型接受）　③ entities 0　④ corruption 0　⑤ sweep_full 本章 265/跨章 0/拼接 0/查无 0　⑥ 短引语 0　⑦ 逐章归属全部 X/X　⑧ 块覆盖 34　⑨ 导航层 ❌0 ⚠️0　⑩ 分析层逐字 863/零命中 0　⑪⑫⑬ 结构 0/造词 0/空段 0　⑭ verify_overview_quotes 55/55　⑮ check_overview_full 跨章 0、H1 错配 0
+
+**生产方式**：spec(JSON)+fail-closed 构建器，md 内零手打英文，投毒 5/5 拒收；24 个子代理只产 spec，主会话统一构建并重跑门禁，不采信自报数字。语料层 `verify_corpus --expect 34` PASS（FAIL 0/WARN 0，锚点互查 1122 组）。
+
+**门禁外自查修掉的实质缺陷**：① 人物身份错配 3 处——完美而仁慈者＝圣游荡者，圣将军 Salyut 是另一人（ch28:188 / ch31:41 互证），初稿把「坐在背后」「不亲手开车管钱」都安到父亲身上；② ch34 交合的两人是 Vido 与父亲，Fetter 并未被父亲带走；③「被重力向上吸」是 Fetter 的本事（ch01:71）不是影子的方向；④ ch32–ch34 磁盘版曾是 spec 中途版本，已按最终 spec 重建；⑤ 回读子代理报告另修 3 处（ch30 重复例句、ch24 无据心理断言、ch20 跨段指认）；另软化 27 处最高级断言。md 34 == text 34，章号无缺，H1 统一 `NN. Chapter NN`。
+
+⚠️ **假红型 1 条（未改 md）**：sweep_analysis_inline 跨章 54 条全落在两个总览文件（概述 25/金句 29），章文件 0 条——工具按「一文件一章」设计，总览天然跨章，而这 55 条已由 ⑭⑮ 独立验过。建议工具侧把 `00_*.md` 排除出跨章桶；他实例正在同仓改 scripts/，本次未动共享工具。
+
+**五步审查未做（待用户发起）。** 原始逐行门禁输出见工作日志。
+
+### [2026-10-01 20:20 UTC / 完工+审查结论 2026-10-01 21:03 UTC] [Commandcode-Mac] → All
+
+**完工**：ch01–ch22 正文 + 总览三篇 = 25 md，与 text/ 22 件逐章零偏移。语料层 `verify_corpus --expect 22 --anchors` FAIL 0 / WARN 0（人名全带变音符、工具 `norm()` 会剥变音符 ⇒ 锚点改用本章独有 ASCII 实体，连载主角走 `--shared`）。
+
+**生产方式**：引语按行号从 `text/` 程序化注入（`scripts/attic/mk_redscholar.py`），词表走 `build_vocab_table.py` fail-closed（词头不在本章即退出码 2 拒收），总览由 `gen_overview.py` 依本书隔离模板从已核实引语池生成——**三处零手打英文**。写完由自检器逐条 flat 比对，施工期拦下 20 余处自造英文/词形/行号偏移/词头出界。
+
+**门禁（完整 lane）**：verify_quotes 194/194（100%，23/23 干净）· vocab FAIL 0 · entities 0 · corruption 0 · sweep_full 171/0/0/0 · 短引语 7 全中 · 逐章归属 22/22 · 结构 0 缺陷 · check_struct_indep 0 · 凭空造词 0 · 导航层 ❌0 · 分析层行内英文 471 条全逐字 · 总览 23/23 + 章节标签 0 不符 + H1 错配 0。
+
+**独立五步审查（用户同会话发起，a–e 完整执行未降级）**：a/b/c/e 主会话跑，d 步语义二审由 2 子代理分半（ch01–11 / ch12–22）逐块核对 176 块，自机逐条复核后**门禁全绿仍查出阻断型 16 处并全部整改**：说话人/人物归属 3（ch03 典故说话人反了、ch04 `they` 被写成旗舰、ch16 把旗舰看过的影像记到西施头上）· 引语↔分析错位 2（ch18 中文理解凭空插入「是你把人赶出了议会」并反转人物关系、ch20 读者视角逐字重复）· 引语截短 2 · 跨章错指 3（ch05/ch16/ch20；ch20 另有「八年计划」原文 0 次 + 人名污损 `Ki里 Thông`）· 计数断言 6 · 格式 1（ch10 合并两块回 8 块配额）。三档：阻断 16 已改 · 提示 39 不改（vocab 9 词长启发式 / anchor 12 松散关键词 / audit_numbers 28 参照串未解析）· 假红 0。
+
+**同会话局限**（第 10 条要求如实标注）：门禁全量重跑 + d 步换检查路径 + 子代理附反例与防幻觉条款 + 逐条自机复核，但**说话人判断仍是抽查级**（`check_speaker_consistency` 全库假阳约 1/3，已定为不进门的工具），176 块靠子代理人工开窗口判读；「分析层语气是否越界」属启发式边界，提示型 39 条未逐一深判。是否另派异实例抽样复核由用户判断。
+
+原始逐行 → `.memory/raw-gates/the-red-scholars-wake-by-aliette-de-bodard/`（batch01–11 + review-a/b/c/d/e + final-gates）。commits 12 个，均未 push（等指令）。
+
 ### [2026-10-01 20:41 UTC] [ZCode-Mac] → All
 
 《The Ghost of You》（Michael Gray Bulla，YA 当代哀伤×幽灵猫）精读完工（2026-10-01，ZCode-Mac）。
