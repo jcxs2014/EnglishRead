@@ -41,7 +41,7 @@ modified: "2026-10-01"
 - **中文理解**：“这东西他们叫 pilliwinks，或者 thumbikins。这么幼稚的名字，配上这么……有破坏力的东西。”他一边说，一边把夹子套上她的拇指。“你现在大概还想不到。你看它多小！你看一根拇指只占你身上多大一点！可人家告诉我，我们的手是身上最敏感的地方之一。当然，也是最有用的。像你这样的姑娘，碎了拇指还能做什么呢？”
 - **关键词**：They call them pilliwinks, or thumbikins／Such silly names for something so … damaging／our hands are among the most sensitive parts of our bodies／Whatever would a girl like you do with crushed thumbs?
 - **为什么这样写**：作者把最残忍的东西放进一段科普里讲：先给两个滑稽的名字，再用“多小”“多大一点”两个对比把恐惧卸掉，最后补一条听起来很讲道理的常识。命名、测量、讲解，三步把暴力包装成日常；而那两个 silly names 是唯一的破绽——作者借他自己的嘴提醒你，这件事本来不该被说得这么轻。
-- **读者视角提示**：这一段是全书最要紧的一处“礼貌的暴力”示范：他讲得越得体，读者越能听见她无法拒绝。
+- **读者视角提示**：这一段是本章最要紧的一处“礼貌的暴力”示范：他讲得越得体，读者越能听见她无法拒绝。
 
 > **原句 5:** He knew the name. She was already here. This wasn’t about the name; it was about Seton’s mastery over Geillis.
 
@@ -54,7 +54,7 @@ modified: "2026-10-01"
 
 - **中文理解**：“这在法律上是违法的，”Agnes 指出，“供词不能靠酷刑逼出来，对女人尤其如此。”
 - **关键词**：Which is illegal／Testimonies cannot be extracted through torture／especially not from women
-- **为什么这样写**：作者让她挨完绳子、带着伤回牢房之后，用全章最短的一段话完成转向：前一句还在列举受的苦，这一句已经把话题交给法律——而且多加了一层限定，对男人也能这么干，对女人不行。这道限定才是这段最锋利的地方，因为它同时点名分和性别两样她正在被剥夺的东西。
+- **为什么这样写**：作者让她挨完绳子、带着伤回牢房之后，用极短的一段话完成转向：前一句还在列举受的苦，这一句已经把话题交给法律——而且多加了一层限定，对男人也能这么干，对女人不行。这道限定才是这段最锋利的地方，因为它同时点名分和性别两样她正在被剥夺的东西。
 - **读者视角提示**：记住“对女人尤其如此”这个限定。下一块她把话再推一步：由违法推出主使者自以为站在法律之上。
 
 > **原句 7:** ‘He wanted us to spread fear.’ Agnes leaned forward, barely wincing now. ‘The only thing that frightens men more than witchcraft is a woman they cannot control. They want us to confess to witchcraft? We shall not. Do you hear me? We will not confess.’

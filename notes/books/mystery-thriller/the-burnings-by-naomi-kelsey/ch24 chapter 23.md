@@ -26,7 +26,7 @@ modified: "2026-10-01"
 
 - **中文理解**：但安娜服下的不会是欧芹子、valerian 或 meadowsweet。服下这些的是玛格丽塔——这样谁也挑不出我配的药不管用，只能说是她自己把药弄混了。真正灌进安娜身体里的，改为 mugwort、wormwood、tansy 三样。
 - **关键词**：Anna won’t be taking parsley seeds／none can say my remedies don’t work／mugwort, wormwood, and tansy
-- **为什么这样写**：这是全书最像技术说明的一段，作者却把它写成一场障眼法的布置：先把无效的方子交给一个人吃，再把有效的那一套换给另一个人。妙处不在药，而在「谁也挑不出毛病」这个说法——下毒的人自己先把免责的话说了，读者和她同时明白：这副药能流通，靠的不是医术，是有人替它背书。三味药被压在句末连成一串，节奏一下收紧，正像收网。
+- **为什么这样写**：这是本章最像技术说明的一段，作者却把它写成一场障眼法的布置：先把无效的方子交给一个人吃，再把有效的那一套换给另一个人。妙处不在药，而在「谁也挑不出毛病」这个说法——下毒的人自己先把免责的话说了，读者和她同时明白：这副药能流通，靠的不是医术，是有人替它背书。三味药被压在句末连成一串，节奏一下收紧，正像收网。
 - **读者视角提示**：记住「让她自己也吃」这个结构。往后凡是出现「甲替乙经手」的局面，都回到这三味药上。
 
 > **原句 3:** Left alone, Geillis stared at the twists of paper. Even delivering them was cruel enough. If she went to meet Margareta, if she killed the queen’s baby, she would never forgive herself.

@@ -19,7 +19,7 @@ modified: "2026-10-01"
 
 - **中文理解**：Geillis 恨不得自己从没在集市上提过巫术这档子事。可她根本没亲眼见过那几个人，这段记忆赖在她脑子里不走。坐在教堂里半听着讲道，她看到的不是牧师的脸，而是那三张被打烂的脸。
 - **关键词**：mentioned witchcraft in the marketplace／The memory wouldn’t leave her head／their battered faces in place of the minister’s
-- **为什么这样写**：作者把罪名的源头写成一句不设防的口误，还特意补一句她没见过那些人——没见过的人已经被处死，这是全书最冷的一种因果。前半段用三句短句赶时间，后半段一转，讲道词变成通缉画像：她坐在教堂里听的是自己的罪状。
+- **为什么这样写**：作者把罪名的源头写成一句不设防的口误，还特意补一句她没见过那些人——没见过的人已经被处死，这条因果冷得根本不需要目击者。前半段用三句短句赶时间，后半段一转，讲道词变成通缉画像：她坐在教堂里听的是自己的罪状。
 - **读者视角提示**：记住那三张被打烂的脸。全书凡是有人主张她有罪，都是从这张脸开始的。
 
 > **原句 2:** No good claiming the words were harmless. Nor could she pretend someone else would have said it before long: she had said it. Now three men were dead on Castle Hill, and no one remembered that they’d officially hanged for sinking the ship. Only that the men had been witches – and everyone knew male witches always acted alongside female witches.

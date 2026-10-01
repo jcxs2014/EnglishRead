@@ -54,7 +54,7 @@ modified: "2026-10-01"
 
 - **中文理解**：这些年来她观察到，男人看一个女人时，只会高估她的能力。他们看到的是顺从、嫁妆、子宫；有时候把我们看成婊子，认定我们一举一动都是欺骗与贪财。可他们从来不会想到，我们的心智也许比他们的更狡黠。
 - **关键词**：men never look at a woman and overestimate her capabilities／They see subservience, dowries, wombs／our minds might be wilier than theirs
-- **为什么这样写**：全书最重要的一段女性同盟宣言，被放在女主人的嘴里，句子却故意排得像一份账单：顺从、嫁妆、子宫、婊子，四项清单一列，最后用一个转折把它们全部推翻。说话的人自己就是被亏待的妻子，所以这段话不是理论，是自白。
+- **为什么这样写**：这是本章最重要的一段女性同盟宣言，被放在女主人的嘴里，句子却故意排得像一份账单：顺从、嫁妆、子宫、婊子，四项清单一列，最后用一个转折把它们全部推翻。说话的人自己就是被亏待的妻子，所以这段话不是理论，是自白。
 - **读者视角提示**：把这份清单记住。下一章里，同一个人要在一群由男人组成的审判席上，用另一种方式把这几个词挨个顶回去。
 
 > **原句 7:** Again, that twist of satisfaction on her lips. ‘Perhaps my husband has ceased to be quite as useful as he believes. My suggestion is this: if you can find a way to hurt David Seton without harming me or my daughter, I would have no objection. I might even see a way to help you.’

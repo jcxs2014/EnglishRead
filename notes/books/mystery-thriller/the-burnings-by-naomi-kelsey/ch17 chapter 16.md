@@ -62,7 +62,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「别这么傻！」Euphame 沉着脸摇头。「他们的清白正是他不会出面的原因。别人也一样。」她甩身走开，狐毛镶边的斗篷在身后翻卷，像一团火。
 - **关键词**：Their innocence is the very reason he won’t／her fox-edged cloak whipping behind her like a flame
-- **为什么这样写**：这一格把全书最要紧的一句实情放在一句骂人话后面。清白不但救不了他们，反倒是那位主事人不肯搭救的原因——因为一旦替他们说话，就要牵出真正做这件事的人。And neither will anyone else 把范围从一个人扩到所有人。最后那半句斗篷像火的比喻不给人物任何表情，只给一个动作：她走了，把这句实情留在原地。
+- **为什么这样写**：这一格把本章最要紧的一句实情放在一句骂人话后面。清白不但救不了他们，反倒是那位主事人不肯搭救的原因——因为一旦替他们说话，就要牵出真正做这件事的人。And neither will anyone else 把范围从一个人扩到所有人。最后那半句斗篷像火的比喻不给人物任何表情，只给一个动作：她走了，把这句实情留在原地。
 - **读者视角提示**：记住「清白救不了他们」这条。它同时解释了为什么这件事一直没人纠正——纠正的代价太高，而沉默的代价落在陌生人身上。
 
 > **原句 8:** Conspiracies were one thing. Trying to save your own neck another. But letting innocent men take the blame? One more sin Geillis was too frightened to stop herself committing.

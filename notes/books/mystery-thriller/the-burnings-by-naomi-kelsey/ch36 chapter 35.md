@@ -41,7 +41,7 @@ modified: "2026-10-01"
 - **中文理解**：「国王也可以讲条件。」她尽力挺直身子，学着 Agnes 当年的样子，下巴却磕在口套的铁边上。「你拿条款换丹麦的东西，我拿鸡蛋换东西，仅此而已。」
 - **关键词**：Kings aren’t above bargaining／I barter for eggs and you for terms with Denmark
 - **为什么这样写**：作者把一句大胆的话和一次笨拙的身体动作绑在一起：她想说 Agnes 那样的硬话，硬件先认输。这组对照把王权与市集放上同一架天平，等于当场取消了君臣的语法。
-- **读者视角提示**：这是她第一次把国王当交易对手。往后她的每一次沉默都在延长这份交易。
+- **读者视角提示**：这是她在本章里第一次把国王当交易对手——先开口的是她，条件也是她给的。往后她的每一次沉默都在延长这份交易。
 
 > **原句 5:** ‘But you haven’t ordered me, Your Grace. You’ve asked me. If you wished to treat me as a subject, you’d have commanded. Instead you asked. That was truly gracious.’
 

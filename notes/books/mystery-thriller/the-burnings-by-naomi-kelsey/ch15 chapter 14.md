@@ -27,7 +27,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「他们本来无关紧要，」Wemyss 阴沉地说，「要不是 James 那么 susceptible to gossip。可他对所有人往最坏处想——唯独对那几位 favourites 不是。」
 - **关键词**：so susceptible to gossip／except these favourites
-- **为什么这样写**：这一格把全书最要紧的那件工具写成了别人的弱点诊断：不是国王糊涂，是他愿意相信最坏的说法，于是所有人只要把最坏的说法递到他耳边就行。except these favourites 里的那个例外又留了一道缝——宠臣那一圈他恰好不设防。这两句拼起来，正好解释了丹麦那边为什么选「散布凶兆」而不是直接动手。
+- **为什么这样写**：这一格把本章最要紧的那件工具写成了别人的弱点诊断：不是国王糊涂，是他愿意相信最坏的说法，于是所有人只要把最坏的说法递到他耳边就行。except these favourites 里的那个例外又留了一道缝——宠臣那一圈他恰好不设防。这两句拼起来，正好解释了丹麦那边为什么选「散布凶兆」而不是直接动手。
 - **读者视角提示**：记住这条因果链：轻信 → 可被喂食 → 凶兆只要够多就能生效。往后每一处传闻被认真对待的地方，都回到这一格。
 
 > **原句 3:** ‘My task,’ Wemyss said patiently, ‘is to protect Anna. Sometimes that means keeping things from her.’
