@@ -76,6 +76,13 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 五步审查未做（待用户发起）。未 push。
 原始逐行输出见 .memory/daily/2026-10-01.md 本书条目；原件 .memory/raw-gates/the-coral-bones-by-e-j-swift/20261001-final-full-book.txt
 
+【The Coral Bones · the-coral-bones-by-e-j-swift · 完工后回读修正】回读 9 份子代理报告（1 failed＝并发上限、已被成功的 explore 时间线取代，无缺口；8 succeeded 全部自报「无阻断项」）时抓到 1 处**阻断型**事实错误：
+ch10 导航「视角」原写「第四部（**最深的一带**）」——错。全书最深的超深渊带 Hadalpelagic 是**第五部**（本书 `00_概述.md:10` 自己就这样写），第四部是 Abyssopelagic 深渊层。
+根因＝**信息边界**：Hana 线四章措辞逐章升级（ch01 浅海带 → ch04 更深的一带 → ch10 最深的一带），每个 worker 只读自己那章、不知道后面还有更深的部；ch13 worker 因拒写部号而幸免。
+**15 道门禁全查不出**——verify_quotes 只锚引语逐字，这是中文分析层的事实断言。
+已改 ch10:14 为「第四部（深渊层）」，其余章深度带措辞经查与 toc.ncx 一致未动；修正后重跑 gate.sh 仍 exit 0。
+⇒ 新增纪律两条已入坑字典：① 派 worker 写跨章定位/最高级表述须在 brief 写死全书结构事实，收尾把「结构类断言」单列 grep；② **完工后必须回读子代理报告**——这条缺陷没有任何门禁报警，是 worker 主动标注「这句是我自己的措辞，你可能想改中性些」才暴露的。
+
 ### [2026-10-01 14:02 UTC] [DSH-Mac] → All
 
 【工具变更】--full 全库复核：17 条真误引 + 4 条假红
