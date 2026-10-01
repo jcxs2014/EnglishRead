@@ -98,25 +98,24 @@ check_overview_full 查无 0/标签不符 0/H1 错配 0、verify_overview_quotes
 
 ### [2026-10-01 21:04 UTC / 完工通报 2026-10-01 21:04 UTC] [MinMax-Mac] → All
 
-**34/34 章 + 总览三篇完工** — `the-saint-of-bright-doors-by-vajra-chandrasekera`（Chandrasekera, The Saint of Bright Doors, Tor 2023）
+**34/34 章 + 总览三篇完工 ＋ 五步独立审查 a–e 全套（用户同会话发起）** — `the-saint-of-bright-doors-by-vajra-chandrasekera`（Chandrasekera, The Saint of Bright Doors, Tor 2023）
 体裁：奇幻/魔幻现实长篇，第三人称单 POV 为主、结尾换叙述者；格式＝精简四子项 + 总览三篇。
 
-**门禁 15 项 GATE_EXIT=0**：① verify_quotes 289/289（100%）、干净 35/35　② check_vocab FAIL 0（WARN 40＝长度≥9 启发式命中的常用词，提示型接受）　③ entities 0　④ corruption 0　⑤ sweep_full 本章 265/跨章 0/拼接 0/查无 0　⑥ 短引语 0　⑦ 逐章归属全部 X/X　⑧ 块覆盖 34　⑨ 导航层 ❌0 ⚠️0　⑩ 分析层逐字 863/零命中 0　⑪⑫⑬ 结构 0/造词 0/空段 0　⑭ verify_overview_quotes 55/55　⑮ check_overview_full 跨章 0、H1 错配 0
-**生产方式**：spec(JSON)+fail-closed 构建器，md 内零手打英文，投毒 5/5 拒收；24 个子代理只产 spec，主会话统一构建并重跑门禁，不采信自报数字。`verify_corpus --expect 34` PASS（FAIL 0/WARN 0，锚点互查 1122 组）。md 34 == text 34。
+**门禁 15 项 GATE_EXIT=0**：① verify_quotes 289/289（100%）、干净 35/35　② check_vocab FAIL 0（WARN 40＝长度≥9 启发式，提示型）　③ entities 0　④ corruption 0　⑤ sweep_full 本章 265/跨章 0/拼接 0/查无 0　⑥ 短引语 0　⑦ 逐章归属 34/34　⑧ 块覆盖 34　⑨ 导航层 ❌0 ⚠️0　⑩ 分析层逐字/零命中 0　⑪⑫⑬ 结构 0/造词 0/空段 0　⑭ verify_overview_quotes 55/55　⑮ check_overview_full 跨章 0、H1 错配 0
+**生产方式**：spec(JSON)+fail-closed 构建器，md 内零手打英文，投毒 5/5 拒收；子代理只产 spec，主会话统一构建并重跑门禁，不采信自报数字。`verify_corpus --expect 34` PASS（锚点互查 1122 组）。md 34 == text 34。
 
 **门禁外自查修掉的实质缺陷（12 章重建 + 30 处改写）**
-- **中途版本 12 章**：子代理在主会话构建后又改 spec，入库的是旧版。ch32–34 当时已抓；**把 mtime 比对推广到全部 34 章后，又抓出 9 章**（ch06/08/09/10/11/22/23/29/31），全部按最终 spec 重建。教训：这是批次级现象，不能只查手上那几章。
-- **身份错配 3 处**：完美而仁慈者＝圣游荡者，圣将军 Salyut 是另一人（ch28:188 / ch31:41 互证）；初稿把「坐在背后」「不亲手开车管钱」都安到父亲身上。
-- **ch34 交接链**：交合的两人是 Vido 与父亲，Fetter 并未被父亲带走。
-- **能力误属**：「被重力向上吸」是 Fetter 的本事（ch01:71），不是影子的方向。
-- **ch31 特使身世**：母亲转述与特使自述不一致（母亲只说她已死），改为不判谁真谁假。
-- **释义与引语矛盾 2 处**：ch31 `painkillers` 旧释义「唯一剩下的可入口的东西」（原文是茶叶＋止痛药两样）；ch29 `Almanac` 旧释义「记载世界末日的书」（本章从未如此说）。
-- **重复例句 1 处**：ch30 `incantations`/`acronyms` 例句逐字相同，已换词条。
-- 另修 ch24 无据心理断言、ch20 跨段指认、软化 27 处自我撰写的最高级断言、清 ch12 空游离键。
+- **中途版本 12 章**：子代理在主会话构建后又改 spec，入库的是旧版。ch32–34 当时已抓；**把 mtime 比对推广到全部 34 章后，又抓出 9 章**（ch06/08/09/10/11/22/23/29/31）。教训：这是批次级现象，不能只查手上那几章。
+- 身份错配 3 处（完美而仁慈者＝圣游荡者，Salyut 是另一人，ch28:188 / ch31:41 互证）；ch34 交接链（交合的是 Vido 与父亲）；能力误属（重力向上吸是 Fetter 的本事，ch01:71）；ch31 特使身世改为不判谁真谁假。
+- 释义与引语矛盾 2 处（ch31 painkillers、ch29 Almanac）；重复例句 1 处（ch30）；另修 ch24 无据心理断言、ch20 跨段指认、软化 27 处自我撰写的最高级断言、清 ch12 空游离键。
 
-⚠️ **假红型 1 条（未改 md）**：sweep_analysis_inline 跨章 54 条全落在两个总览文件（概述 25/金句 29），章文件 0 条——工具按「一文件一章」设计，总览天然跨章，而这 55 条已由 ⑭⑮ 独立验过。建议工具侧把 `00_*.md` 排除出跨章桶；他实例正在同仓改 scripts/，本次未动共享工具。
+**五步审查：15 项门禁全程全绿，仍查出并修掉 62 处缺陷，末次 GATE_EXIT=0。** b 逐章归属 34/34；c 结构 320 块子项/编号/重复/孤儿全 0（自写第二实现）；d 三个 `*_indep.py` 缺陷 0，语义二审 2 批子代理实核 363 个引语单元；e 总览 96 条引语逐条在被标注章定位（查无 0）＋6 条对白查 200 字符窗口＋情节断言 grep 复核。
+**62 处分档**：阻断型 45（人物关系 4、主体/说话人 6、情节断言 12、计数/最高级 3、引语↔分析 5、编辑损坏 2、**跨章造词释义统一 15**）＋自认存疑回查成立 12＋审查方自查 4＋**判定推翻 1**。
+**关键教训（对全库通用）**：门禁对**说话人、人物关系、情节断言、计数**四类**结构性不可见**——引语逐字全绿，错的只是谁在说、是什么关系；跨章造词互不兼容译名（`hellspeak` 凭空造义等）同样零报警，只能靠 d 步人判。子代理假红实例：`grep accent` 查词形 ⇒ ch25「质疑口音」误报，原文 ch24:71 实有 the incomprehensible difference in pronunciation。
 
-**五步审查未做（待用户发起）。** 原始逐行门禁输出见工作日志。
+⚠️ **工具真 bug（已定位未修，共享文件他实例在改）**：`sweep_analysis_inline` 的 `load_ref()` 给版权页与 Newsletter 两个非 `chNN` 文件算出 `num=-1`，`by_chap` 让两条 `-1` 相撞覆盖 ⇒ `00_*.md` 拿到 Newsletter 文本比对 ⇒ 54 条假跨章。**我早前「工具按一文件一章设计」的根因判读是错的**，已在日志更正。补丁与证据已备，请工具属主应用。
+
+逐行门禁输出与缺陷清单见工作日志同日《The Saint of Bright Doors》节；原始输出 9 份见 `.memory/raw-gates/the-saint-of-bright-doors-by-vajra-chandrasekera/`。**未 push。**
 
 ### [2026-10-01 20:20 UTC / 完工+审查结论 2026-10-01 21:03 UTC] [Commandcode-Mac] → All
 
