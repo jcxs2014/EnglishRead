@@ -1,0 +1,73 @@
+# The Coral Bones 批次门禁原始输出：07 08 09 10
+# 2026-10-01 13:54 UTC  lane: 完整（有 epub）
+
+########## build ch07 ##########
+[断言通过] ch07_hana_september.txt: 8 引用块 / 36 词条 / 引语与例句均为原文子串 / 拉丁 token 全部可回查
+[OK] written notes/books/novels/the-coral-bones-by-e-j-swift/ch07 Hana September.md  (13492 bytes)
+
+########## build ch08 ##########
+[断言通过] ch08_judith_captain_cooks_lizards.txt: 8 引用块 / 36 词条 / 引语与例句均为原文子串 / 拉丁 token 全部可回查
+[OK] written notes/books/novels/the-coral-bones-by-e-j-swift/ch08 Judith.md  (16882 bytes)
+
+########## build ch09 ##########
+[断言通过] ch09_telma_island.txt: 8 引用块 / 36 词条 / 引语与例句均为原文子串 / 拉丁 token 全部可回查
+[OK] written notes/books/novels/the-coral-bones-by-e-j-swift/ch09 Telma Island.md  (14566 bytes)
+
+########## build ch10 ##########
+[断言通过] ch10_hana_november.txt: 8 引用块 / 36 词条 / 引语与例句均为原文子串 / 拉丁 token 全部可回查
+[OK] written notes/books/novels/the-coral-bones-by-e-j-swift/ch10 Hana November.md  (15526 bytes)
+
+########## 1 verify_quotes ##########
+ch10 Hana November.md: 8/8 ✅
+
+=== 总计 80/80 引文可核实（100%）；完全干净文件 10/10；正文章节 0 提取 0；总览 0 提取转交 0 ===
+########## 2 verify_quotes --full ##########
+
+=== 总计 80/80 引文可核实（100%）；完全干净文件 10/10；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+########## 3 check_vocab ##########
+  ch06 Telma City.md [基础] 基础档疑含超纲词「crocodile」
+  ch07 Hana September.md [基础] 基础档疑含超纲词「scientists」
+  ch08 Judith.md [基础] 基础档疑含超纲词「spectacle」
+  ch09 Telma Island.md [基础] 基础档疑含超纲词「crocodile」
+  ch10 Hana November.md [基础] 基础档疑含超纲词「arguments」
+########## 4 check_entities ##########
+=== 实体一致性检测：0 个文件存在未知实体 ===
+########## 5 corruption_scan ##########
+
+=== 编辑损坏扫描（the-coral-bones-by-e-j-swift）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+########## 6 sweep_full ##########
+=== 引语整串 flat 比对（the-coral-bones-by-e-j-swift）===
+  参照集：text/ 逐章（13 章，可定章） + epub 交叉验证
+  ✅ 本章命中 80 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+########## check_chapter_quotes（逐章归属）##########
+ch07 Hana September.md: 8/8 in ch07 text
+ch08 Judith.md: 8/8 in ch08 text
+ch09 Telma Island.md: 8/8 in ch09 text
+ch10 Hana November.md: 8/8 in ch10 text
+########## check_short_quotes ##########
+=== 短引语兜底核对（the-coral-bones-by-e-j-swift）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+########## check_nav_layer ##########
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+########## check_block_coverage ##########
+✅ 块覆盖对账：10 个文件，每块都进了 verify_quotes 校验
+########## audit_structure ##########
+=== 精读结构扫描（the-coral-bones-by-e-j-swift）===
+  扫 10 个 md、80 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+########## check_anchor ##########
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（16 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+########## sweep_analysis_inline ##########
+=== 分析层行内英文逐字核查（the-coral-bones-by-e-j-swift）===
+  参照集：text/（16 个提取件） + epub 交叉验证 ；扫 10 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：416 个表格行、369 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 368 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1
