@@ -43,42 +43,28 @@ modified: "2026-10-01"
 - **为什么这样写**：三个动词（put / lid / stifle）都在做同一件事：封住。命名情绪（euphoria）再掐灭它，说明她对自己的快乐有戒心——这份狂喜在她经验里属于"不可靠的东西"。两个短句 "It just can't." 单独成段，是压强式的断句：她不是在推理，是在跟自己吵架。
 - **读者视角提示**：这是全书她行为逻辑的第一次亮相——**先压制情绪，再处理事实**。后面每一次她差点失控（拿到钱、动杀机、见女儿）都会重复这个动作。
 
-> **原句 5:** Clots of blood spew out of my mouth and settle on the grass beside the bush.
-
-- **中文理解**：血块从我嘴里喷出来，落在旁边的灌木丛边的草地上。
-- **关键词**：Clots of blood（血块／血凝块）／spew out（喷出）／settle on（落在……上）
-- **为什么这样写**：spew（喷、呕出）是动物性的、带恶心的动词，作者故意不用 cough up，让咳血这件事显得不受她控制。落到草地上而不是车道上——她下意识地不让血弄脏车：这细节反过来暴露她把车和钱一样当命根子护着。放在中奖的狂喜之后仅两段，情绪落差就是本章的转折点。
-- **读者视角提示**：注意这一段是全书**唯一**在第一章交代绝症的地方，后文不再复述；她此后只说 "these little attacks"。她的病是慢慢走向死亡，不是突然爆发。
-
-> **原句 6:** These little attacks I’ve been having as of late are becoming more violent and frequent, and there’s not a lot I can do to tame them.
+> **原句 5:** These little attacks I’ve been having as of late are becoming more violent and frequent, and there’s not a lot I can do to tame them.
 
 - **中文理解**：我最近这些小发作变得越来越剧烈、越来越频繁，而我没什么办法能驯服它们。
 - **关键词**：as of late（近来／最近）／more violent and frequent（更剧烈也更频繁）／tame（驯服／控制）
 - **为什么这样写**：她把病称作 "attacks"（攻击）而不是症状，主语是疾病、动词是"发动攻击"，身体被写成了她的敌人。"tame" 与原句 3 的 grapple 是同一套用力方向：她一生都在与某种东西搏斗并试图驯服它——先是疾病，然后是丈夫。as of late 也把病程绑在"最近"，为后文她越来越急迫地要花钱埋下时间压力。
 - **读者视角提示**：她说"没办法驯服"，但下一章起她却在系统性地控制环境（藏票、装摄像头、雇侦探）——身体驯服不了，她改为驯服身边的一切。
 
-> **原句 7:** The driver’s door is still jangly, but I’ve learned to yank it hard every time I open and close it.
-
-- **中文理解**：驾驶座的门还是松晃的，但我已经学会每次开关的时候都用力拽一下。
-- **关键词**：still jangly（还是松晃的／吱呀作响）／yank（用力拽）
-- **为什么这样写**：用一处车门异响承载她的整个生存状态——坏掉但还能用，得靠更用力来对付。"yank it hard" 是身体的经验之谈，与前文 "tame" 属于同一种用力：她处理世界的方式就是加力、硬拽、硬扛。车门、咳嗽、丈夫，都是同一类东西。
-- **读者视角提示**：这辆 "old Honda Acord" 是 Jimmy 修好的——丈夫施暴的间隙也修过她的车。这种"同一个人既修车又打人"的并置不用一句评论，读者自己会掂量。
-
-> **原句 8:** Jimmy has a tight leash on me, but maybe—just maybe—this is my ticket to freedom.
+> **原句 6:** Jimmy has a tight leash on me, but maybe—just maybe—this is my ticket to freedom.
 
 - **中文理解**：Jimmy  用一根紧绳牵着我，但也许——只是也许——这就是我通往自由的车票。
 - **关键词**：tight leash on me（把我勒得很紧的绳）／but maybe—just maybe（但也许——只是也许）／ticket to freedom（通往自由的门票）
 - **为什么这样写**：leash（牵狗绳）是她对婚姻最直白的定义，比任何形容词都准确。插入语 "just maybe" 自我否定一次，中奖这件天大的好事就降格成了"也许"——她不配相信好运。ticket 一词把开头那张刮刮乐和"自由"焊在一起：中奖在开篇是藏起来的秘密，在这一句变成逃跑的钥匙。
 - **读者视角提示**：注意破折号的数量——一个插入语、两个破折号，作者用标点模拟她犹疑的呼吸。她还不确定这钱能不能用。
 
-> **原句 9:** Or maybe go to Bahamas or Bermuda. Frankly, I don’t know the difference between these two, but I’ve heard they’re both exotic. Who cares about the difference?
+> **原句 7:** Or maybe go to Bahamas or Bermuda. Frankly, I don’t know the difference between these two, but I’ve heard they’re both exotic. Who cares about the difference?
 
 - **中文理解**：或者去巴哈马或者百慕大。老实说，我分不清这两个地方有什么不同，不过我听说它们都很异国情调。谁在乎有什么不同呢？
 - **关键词**：Or maybe（或者去……吧）／Frankly（老实说）／exotic（异国情调的／异域的）／Who cares about（谁在乎……呢）
 - **为什么这样写**：连两个地名都分不清的白日梦，是全书她"从未离开新英格兰"的注脚——她的世界小到只能靠听说想象远方。exotic 一词自嘲：她向往的"异域"是别人口头上的标签。三个短句层层下坠（Frankly / I've heard / Who cares），把她那份不敢深究的心虚写了出来。
 - **读者视角提示**：她想去的地方只有两种功能——晒黑、吃新口味的食物。逃亡的想象如此贫乏，说明她真正想要的是离开丈夫的视野，而"远方"只是这个愿望的包装。
 
-> **原句 10:** It will have to be spent on a good cause. Something worthy enough to bring me redemption, erase the guilt I’ve carried all these years.
+> **原句 8:** It will have to be spent on a good cause. Something worthy enough to bring me redemption, erase the guilt I’ve carried all these years.
 
 - **中文理解**：这笔钱必须花在一个好的事业上。得是那种足够分量、能给我带来救赎、把这么多年来我背负的罪疚抹掉的东西。
 - **关键词**：a good cause（一件正当的事／善举）／redemption（救赎）／erase the guilt（抹去罪疚）

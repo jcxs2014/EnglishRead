@@ -29,63 +29,34 @@ modified: "2026-10-01"
 - **为什么这样写**：用 once upon a time（很久很久以前）这个**童话套语**写一段真实的往事，是本章最锋利的一笔反讽——她与这座赌场的关系被降格成一个开场白，因为她已经无法把它当自己的过去。regularly（经常）说明她曾属于这里，下一句会说明她已经不属于。
 - **读者视角提示**：这一句与她第一章那句 "It's been a while since I won anything"（我很久没中过奖了）遥相呼应：**同一个地方，她曾经是熟客**。
 
-> **原句 3:** Today is different. When I set foot inside, the employees barely notice me.
-
-- **中文理解**：今天不一样。我一踏进门，员工们几乎没注意到我。
-- **关键词**：Today is different（今天不一样）／barely notice（几乎没注意到）
-- **为什么这样写**：以两句极短的对比完成一次身份更替。钱到位了，人却不被认出来——作者把"有钱"和"被当回事"分成两件事，戳破她以为金钱能买回位置感的期待。barely notice（几乎没看见）写的是**注意力的消失**，比轻蔑更难堪。
-- **读者视角提示**：留意下一段解释：她没升级衣橱、没去理发店。**不是她忘了，是她没时间**——这一句"我时间不多了"是全章真正的底色。
-
-> **原句 4:** I have so little time.
+> **原句 3:** I have so little time.
 
 - **中文理解**：我的时间已经不多了。
 - **关键词**：so little time（极少的时间）
 - **为什么这样写**：三个词独立成段，像她给自己下的最后通牒。作者把这一句放在"为什么不换衣服、不做头发"的解释之后，读者才明白：她的放弃不是颓废，是**倒计时**。前面四十章的咳嗽在这里换成了最朴素的四个字。
 - **读者视角提示**：⚠️ 原文**没有给出任何具体期限**（不说还剩几个月）。写分析时不要替她换算，也不要写"她知道自己只剩 X 天"。
-
-> **原句 5:** The low hum of conversation and the clinking of chips against the tables form an eerie backdrop to the scene, setting the stage for what could become a night I’ll never forget.
-
-- **中文理解**：低低的谈话声和筹码碰撞桌面的叮当声，构成了这一幕诡异的背景音乐，为那可能成为一个她永生难忘的夜晚拉开帷幕。
-- **关键词**：low hum（低沉的嗡响）／clinking（叮当碰撞）／eerie（诡异不安的）／backdrop（背景）／setting the stage（拉开帷幕）
-- **为什么这样写**：赌场的声音本该是娱乐的，作者却挑出 low hum（低鸣）与 clinking（碰撞）这两种**最像鬼片音效**的声音。setting the stage（拉开帷幕）把整段写成舞台调度，而紧接着发生的是一次认错人——预兆与实况的落差，正是本章的结构。
-- **读者视角提示**：留意 "what could become"（可能会成为）这个保留：作者在事情发生**之前**就用过去将来时埋好了"难忘的一夜"。
-
-> **原句 6:** Weeks of paranoia have led me here, to this moment of reckoning.
-
-- **中文理解**：数周的疑心把我带到了这里，带到了这个清算的时刻。
-- **关键词**：paranoia（疑心／偏执）／led me here（把我带到这里）／moment of reckoning（清算时刻；了结的时刻）
-- **为什么这样写**：她把"来赌场"定义成一次**清算**（reckoning），说明在她心里这不是消遣，是与某个问题摊牌。而 moment of reckoning 本身含有"审判"的意味——被审判的其实是她自己。作者让一场二十一点承担了全书终审的功能。
-- **读者视角提示**：留意 "Weeks of paranoia"（数周的疑心）——她把一种心理状态当成**累积的量**来数，与她数步子、数日子的习惯一致（见 ch28）。**她处理情绪的方式一直是计数。**
-
-> **原句 7:** I win. Luck has served me well lately, albeit too late.
-
-- **中文理解**：我赢了。运气最近一直很帮我，只是来得太迟了。
-- **关键词**：Luck has served me well（运气待我不薄）／albeit（虽然，只是）
-- **为什么这样写**：三句短，第一句是胜利，第二句立刻把它变成惩罚。albeit（虽然）这个词转折得极狠：它承认好运，同时宣布**好运来得太晚**。作者让她赢这一把，不是奖励，是让她尝到滋味再拿走——这一章她连赢都要输掉。
-- **读者视角提示**：这是全章的**反讽核心**：她确实有钱了（银行里有三百万），也确实赢了钱，可她用一句 "too late" 把两件事一起作废。
-
-> **原句 8:** The figure turns, slowly revealing the face, and my heart sinks like a stone. It isn’t her. It is a man, a stranger, with an expression of confusion and irritation.
+> **原句 4:** The figure turns, slowly revealing the face, and my heart sinks like a stone. It isn’t her. It is a man, a stranger, with an expression of confusion and irritation.
 
 - **中文理解**：那人慢慢转过身来，露出的脸让我心像石头一样沉下去。不是她。是个男人，一个陌生人，脸上带着困惑和恼火。
 - **关键词**：my heart sinks like a stone（心像石头一样沉下去）／It isn’t her（不是她）／confusion and irritation（困惑与恼怒）
 - **为什么这样写**：全章的高点设在一个**极小的失误**上：她认的是背影与长发。sinks like a stone（像石头下沉）写的是下坠感——不是愤怒，是失落。后面两个短句（It isn't her. It is a man.）干脆利落，把她刚刚鼓起的勇气一刀剪断。
 - **读者视角提示**：⚠️ 原文**没有说这个女人此后去了哪里**。本章只确认她认错了人、跟踪者再次消失。写分析时不要推断"她已经放弃了"或"对方发现她了"。
 
-> **原句 9:** My stalker has eluded me once again, blending into the chaos of the casino, leaving me to question my sanity.
+> **原句 5:** My stalker has eluded me once again, blending into the chaos of the casino, leaving me to question my sanity.
 
 - **中文理解**：跟踪我的人又一次从我眼前溜走了，融进赌场的混乱里，留下我怀疑自己是不是疯了。
 - **关键词**：eluded（躲过，逃开）／once again（再一次）／chaos（混乱）／question my sanity（怀疑自己是否清醒／疯了）
 - **为什么这样写**：blending into the chaos（融进混乱）给了对方一个**物理上的藏身处**——赌场人多、匿名、灯光暗。eluded（被躲过）这个及物动词把主语放在她身上：是她"被"躲过的，说明她至今无法掌控这个局面。to question my sanity（怀疑自己是否疯了）则是全章她第一次把结论指向自己。
 - **读者视角提示**：这句与 ch25 那次"他以为我疯了"（he clearly thinks I'm crazy）互为镜像：上一次是别人这么看，这一次是**她自己这么想**。作者用两章的距离完成了这个变化。
 
-> **原句 10:** the true terror lies not in the woman who may or may not have been following me but in the paranoia that had taken root within me, twisting my perception of reality into a nightmare.
+> **原句 6:** the true terror lies not in the woman who may or may not have been following me but in the paranoia that had taken root within me, twisting my perception of reality into a nightmare.
 
 - **中文理解**：真正的恐惧不在那个可能跟踪我、也可能没跟踪我的女人身上，而在我心里那株已经生根的偏执里——它把我的现实感扭成了一场噩梦。
 - **关键词**：the true terror（真正的恐惧）／lies not in… but in（不在于……而在于）／taken root（生根）／twisting（扭曲）／perception of reality（对现实的感知）
 - **为什么这样写**：全书**主题的正面陈述句**，用 not…but in（不在……而在……）的对照把恐惧从外部移到内部。taken root（生根）与 plant 相关的意象把偏执写成**一株已经长成的植物**——不可拔除，只会越长越大。twisting（扭）延续她在 ch04 那段掐灭狂喜时的手感：她一生都在用力控制，这一次控制不住了。
 - **读者视角提示**：这是作者借叙述者说出的**全书判词**。凡分析本书主题，这里是落点；引用它时不要改动 may or may not（可能……也可能没有）这层不确定。
 
-> **原句 11:** I crawl out of the chair and shuffle away, leaving my winning behind.
+> **原句 7:** I crawl out of the chair and shuffle away, leaving my winning behind.
 
 - **中文理解**：我从椅子里爬出来，拖着脚走开，把赢的钱留在了身后。
 - **关键词**：crawl out（爬出来）／shuffle（拖着脚走）／leaving my winning behind（把赢的留在身后）

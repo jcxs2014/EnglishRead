@@ -36,63 +36,35 @@ modified: "2026-10-01"
 - **为什么这样写**：作者用一句"正常流程清单"做底，再让叙述者承认自己**跳过了某一步**。three-item 排比（新住处、结婚、怀孕）是社会期待的标准次序，而他们"close enough（差不多）"——这四个字把"未婚先孕"这整件事轻描淡写地盖了过去，正是她当年的自辩方式。多年后重读这句话，读者听见的不是辩解而是心虚。
 - **读者视角提示**：这句是理解全书时间线的钥匙——**1997 年 4 月她已怀孕，而婚礼是为了补手续**。后续章节涉及孩子的线索都挂在这句话上。
 
-> **原句 4:** He opens the passenger door and shoves me in, like an animal into their cage.
-
-- **中文理解**：他打开副驾的车门，把我塞了进去，像把一只动物塞进笼子。
-- **关键词**：passenger door（副驾车门）／shoves（塞，猛推）／like an animal into their cage（像把动物塞进笼子）
-- **为什么这样写**：结婚当天，把妻子推进车厢的动作被她比作"把动物塞进笼子"——**入场如刑**。这个比喻同时暗合 ch02 那辆"车门松晃、要用力拽"的车：同一辆车，同一扇门。笼子这个意象在她后文反复出现（囚禁、圈套），这里第一次由她自己说出。
-- **读者视角提示**：留意这一段紧接在"他亲了她一下"之后——仪式上的吻与随后的推搡并置，反差不需要评论。
-
-> **原句 5:** But his voice doesn’t carry remorse.
-
-- **中文理解**：可他的声音里没有悔意。
-- **关键词**：carry remorse（带着悔意／懊悔）
-- **为什么这样写**：全章最短的一句，也是最冷的判断。作者不写她原谅或不原谅他，只写声音里**没有**那个东西——"carry"这个动词让悔意成为可听见的重量，而她听得出来。留着余地的那一方因此更冷。
-- **读者视角提示**：注意这是叙述者的**当场观察**，不是多年后的追述。与本章开头那句"他突然的改变让我想起更多"对照：多年后她要靠这段记忆来理解当下的转变。
-
-> **原句 6:** He insists we use space heaters to save money, even though he knows it’s not enough to heat the space and he knows how much I hate the cold.
+> **原句 4:** He insists we use space heaters to save money, even though he knows it’s not enough to heat the space and he knows how much I hate the cold.
 
 - **中文理解**：他坚持用取暖器省钱，尽管他知道那点热量根本不够把屋子暖起来，他也知道有多冷、我有多讨厌冷。
 - **关键词**：insist（坚持）／space heater（取暖器）／to save money（为了省钱）
 - **为什么这样写**：一个"他知道"接一个"他就知道"——他把三件事全说破了却仍照做：省钱、屋子暖不热、她怕冷。insist（坚持）这个词把这场婚姻的本质点了出来：**他不是无知，他是选择**。这也解释了她为什么在第一章说"要替他付房租那一份"——她的顺从不是出于体贴，是出于早已放弃争辩。
 - **读者视角提示**：留意这一段与 ch02 那个漏雨的屋顶是同一种逻辑：他们不修、不报、咬牙扛。**穷**只是她处境的一半，另一半是他。
 
-> **原句 7:** “It’s good for her,” he adds, like he’s talking to a close friend who gives a shit.
-
-- **中文理解**："这个对她有好处，"他补了一句，像是在跟一个真在乎的朋友说话。
-- **关键词**：adds（补充说）／a close friend who gives a shit（一个真正在乎的密友）
-- **为什么这样写**：作者用"像在跟朋友说话"来揭穿他的表演：订餐时那句体贴话，是**说给接线员听的**，不是给她听的。gives a shit（在乎／上心）这个粗口反衬出全章的体面与虚伪——一场连誓言都没有的婚礼里，唯一真心的语气用在一个电话上。
-- **读者视角提示**：留意 "her"（她）而不是"my wife"——他对她孩子的兴趣，始终隔着一层第三人称。
-
-> **原句 8:** His words sound more like a command than a healthy advice.
+> **原句 5:** His words sound more like a command than a healthy advice.
 
 - **中文理解**：他的话听起来更像一道命令，而不是一句健康的建议。
 - **关键词**：sound more like（听起来更像）／a command（一道命令）／healthy advice（有益健康的建议）
 - **为什么这样写**：替她点破"命令"与"建议"的差别。healthy（有益健康的）这个看似客观的定性，说明他原本的话听起来是**关心身体**——而关心一旦失去商量余地就成了命令。作者用 "more like"（更像）而不是 "is"（就是）给她留了半步余地，这一点在全书对 Jimmy 的描写里罕见。
 - **读者视角提示**：留意 "Eat"（吃）这个单词在原文里独立成句——她听到的正是那个单音节动词。
 
-> **原句 9:** I know what’s wrong, but I’ve no intention of telling him what it is.
-
-- **中文理解**：我知道出了什么事，可我一点也没有要告诉他的意思。
-- **关键词**：no intention of（没有打算）／telling him what it is（告诉他是什么）
-- **为什么这样写**：全书最简洁的一次隐瞒宣言：**她知道，而且她选择不说**。这句话同时解释了她为什么会逃出去、为什么会在雪夜里找 Skull——她不打算通过婚姻内部解决这件事。作者用一句写完一个人的决策，而不是用挣扎铺陈。
-- **读者视角提示**：这句与 ch24 她对 Andrew 说 "I have this awful suspicion"（我有个可怕的怀疑）形成对照：她对侦探肯说，对丈夫不说。差别在于**对方能不能改变什么**。
-
-> **原句 10:** It’s a place of comfort, a place that nourishes him.
+> **原句 6:** It’s a place of comfort, a place that nourishes him.
 
 - **中文理解**：那是一个能给他安慰的地方，一个能滋养他的地方。
 - **关键词**：comfort（安慰）／nourishes（滋养，哺育）／a place of comfort（一个能让人舒服的地方）
 - **为什么这样写**：整部书里，Skull（那个供货者）在这里第一次被**正面描写**——他此前只是 ch07 那两声"Call Skull for me"里的一个名字，而她用的词是"安慰"和"滋养"——**这两词是给婴儿用的**。作者让读者在她开口求助之前就察觉：她去找的那个人，提供的正是丈夫没给她的东西。这也让结尾那句电话台词的分量提前泄漏。
 - **读者视角提示**：⚠️ 原文到此**未说明两人谈话内容**，只写到电话接通为止。后续章节才对这条线有交代。
 
-> **原句 11:** My lips tremble, and my body shivers from the cold, but I find a way to speak: “Skull, can you meet me now?”
+> **原句 7:** My lips tremble, and my body shivers from the cold, but I find a way to speak: “Skull, can you meet me now?”
 
 - **中文理解**：我的嘴唇在抖，身体冷得直打颤，但我还是想办法开口："Skull，你现在能来见我吗？"
 - **关键词**：lips tremble（嘴唇发抖）／body shivers（身体发抖）／find a way to speak（想办法开口）
 - **为什么这样写**：两个发抖写身体，一个"想办法"写意志——三层递进后落到一个问题上。can you meet me now（你现在能来吗）用一般现在时，把时间压到最紧：她已经站在雪地里、已经拿到两枚硬币、已经跑回来了。整章以一个具体的、迫切的请求收尾，把读者留在"她要谈什么"的悬置里。
 - **读者视角提示**：注意她拿到钱的方式——抱着肚子对店员说"是为了我的孩子"，对方的脸"被同情刻出痕迹"。全章她只在**陌生人**面前争取过，而**向丈夫争取的那次失败了**。
 
-> **原句 12:** I hold on to Jimmy tightly to keep my balance. “Sorry. I’m just not feeling well.”
+> **原句 8:** I hold on to Jimmy tightly to keep my balance. “Sorry. I’m just not feeling well.”
 
 - **中文理解**：我紧紧抓住 Jimmy 才稳住身子。"抱歉，我有点不舒服。"
 - **关键词**：hold on to（紧紧抓住）／keep my balance（保持平衡）／not feeling well（不舒服）

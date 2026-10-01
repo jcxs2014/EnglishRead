@@ -29,63 +29,42 @@ modified: "2026-10-01"
 - **为什么这样写**：全书最冷的一个动作：她把被触碰的部位**收得更紧**——这与 ch23 Rose 牵手时她"把手抽出来"是同一套反射，但更严重，因为她这次连"抽手"都省了，直接绕过。To where, I do not know（去哪儿，我不知道）与 I let my feet take me（让脚带路）并置：意志已经交出，只剩身体在走。
 - **读者视角提示**：留意她仍在说 "my journey"（我的行程）——**她仍把这当成一件有目的地的事**，尽管她自己也不知道目的地。作者在讽刺她自己。
 
-> **原句 3:** I’m in a trance.
-
-- **中文理解**：我处在一种恍惚之中。
-- **关键词**：in a trance（出神，恍惚）
-- **为什么这样写**：三个词独立成段，是全章最短也最重的一句。前面两段都在写**动作**（抓、绕、走），这一句宣布这些动作不由她负责。trance（恍惚／出神）既是失神，也是出神——她此刻两者兼有。
-- **读者视角提示**：这一句是后面所有感官错乱（把路人看成 Jimmy）的**解释**。读本章时注意它是分水岭：在此之前她还在应对世界，在此之后她被自己的感知接管。
-
-> **原句 4:** I watch the people walking around me, happy in their carelessness. Am I the only one among them capable of killing an entire family?
+> **原句 3:** I watch the people walking around me, happy in their carelessness. Am I the only one among them capable of killing an entire family?
 
 - **中文理解**：我看着身边走过的人，他们幸福得无忧无虑。难道只有我一个人有能力杀掉一整家人吗？
 - **关键词**：carelessness（无忧无虑／漫不经心）／Am I the only one（难道只有我一个人）／capable of killing（有能力杀死）／an entire family（一整家人）
 - **为什么这样写**：用一句问话把叙述者与整个人群划到两侧。carelessness（无忧无虑）带轻微贬义——她把别人的轻松叫做"不留心"，反衬出自己的重。作者把她此刻的处境提升到**家族级**（an entire family），这不是她的夸大：信里那封律师函确实把"另一段家族史"推到了她面前。
 - **读者视角提示**：⚠️ 原文此处说的是 **"killing an entire family"（杀掉一整家人）作为自问**，与她已知事实（丈夫一人）之间存在落差；原文没有解释这个落差。写分析时可以指出这是她的**自感**，**不要替作者补"她其实杀了全家"之类的结论**。
 
-> **原句 5:** My face is contorted with anger. Rage. But also agony.
+> **原句 4:** My face is contorted with anger. Rage. But also agony.
 
 - **中文理解**：我的脸因愤怒而扭曲。暴怒。但也还有痛苦。
 - **关键词**：contorted（扭曲的）／Rage（暴怒）／agony（剧痛）
 - **为什么这样写**：三个情绪各占一段、一个比一个短。Rage（大写单词成段）是愤怒的顶点，但作者不让它停住——But also agony（但还有痛苦）立刻补上第三种。**暴怒只持续一个词，痛持续到句末**，这个次序说明：驱动她的是痛，不是怒。
 - **读者视角提示**：把这句与上一块那句自问并读：她问的是"我是不是唯一能杀掉全家的人"，而作者给出的回答是愤怒——**她的愤怒指向自己**。
 
-> **原句 6:** There’s my enemy. She has found me.
-
-- **中文理解**：我的敌人就在那儿。她找到我了。
-- **关键词**：my enemy（我的敌人）／She has found me（她找到我了）
-- **为什么这样写**：全章最像"反派登场"的一句，用词却极其朴素。作者让幻觉用**她自己的话**说话——是她在 ch24 向 Andrew 描述过、在 ch30 从 Rose 嘴里听到过的那个人。全书一路追踪的"敌人"，在此刻变成她脑中的自己。
-- **读者视角提示**：⚠️ 原文**没有确认**站在海里的那个人是谁。紧接着下一段就写"镜子里的暗色人影"，两处指向同一人或不同人，原文都没写。**分析只能停在"她的感知把某人当成了敌人"。**
-
-> **原句 7:** Her long dark hair, parted in the middle, covers her eyes, hiding the dark gaze.
-
-- **中文理解**：她中分的黑色长发遮住了眼睛，把那幽暗的目光藏了起来。
-- **关键词**：parted in the middle（中分的）／covers her eyes（遮住她的眼睛）／the dark gaze（幽暗的目光）
-- **为什么这样写**：这是全书**对这个人最具体的一次描写**，且与 ch30 Rose 的描述完全对应（long dark hair / 纹身）。作者在最后一刻仍不给她脸——只给头发与被遮住的眼睛。作者不让她被看清，也让读者和她一样无法确认。
-- **读者视角提示**：留意 "hiding the dark gaze"（藏着那目光）这个矛盾：**既然藏着目光，怎么还说看见目光**。这正是叙述者此刻的感知不可靠的证据。
-
-> **原句 8:** A woman around my age comes near me and offers her hand to lift me up. I shake my head and thank her. I don’t need her help.
+> **原句 5:** A woman around my age comes near me and offers her hand to lift me up. I shake my head and thank her. I don’t need her help.
 
 - **中文理解**：一个和我年纪差不多的女人走近，伸出手要拉我起来。我摇头谢过她。我不需要她的帮助。
 - **关键词**：offers her hand（伸出手）／I shake my head（摇头）／I don’t need her help（我不需要她的帮助）
 - **为什么这样写**：全书最反人道的两句。**她摔在地上，面前伸来一只手，她拒绝。**作者不写她的理由，只让她把"帮助"三个字推回去。I don’t need her help（我不需要帮助）在这里是**病征**，不是尊严——ch23 她躲开 Rose 的手时还是"不能"，到本章已变成"不需要"。
 - **读者视角提示**：把本章与 ch23 并读：那次她甩开手是因为"我不知道怎么应对善意"，这一次她因为"我不需要"。**同一个人，从被动躲避变成主动拒绝**——这一格之差就是她与外界的断裂。
 
-> **原句 9:** Dying in this bathroom is not on my to-do list, but it wouldn't be unexpected.
+> **原句 6:** Dying in this bathroom is not on my to-do list, but it wouldn't be unexpected.
 
 - **中文理解**：死在这个洗手间里不在我的待办清单上，但也不会让人意外。
 - **关键词**：not on my to-do list（不在我的待办清单上）／wouldn't be unexpected（不算意外）
 - **为什么这样写**：用**待办清单**这种轻快的现代词，写最重的一句：她在评估自己的死法。but it wouldn't be unexpected（但也不意外）把句子分成两半——前半是玩笑的壳，后半是把玩笑抽空。作者让她在最接近死亡的时刻保持幽默，而这幽默正是绝望的形状。
 - **读者视角提示**：留意这一句紧跟在咳血之后。她病到咳出血块，第一反应仍是整理待办事项——**这就是她记账式的应对方式**（数步子、数日子、数剩余生命）。
 
-> **原句 10:** When I lift my head and look at myself in the mirror, a dark figure appears in the background.
+> **原句 7:** When I lift my head and look at myself in the mirror, a dark figure appears in the background.
 
 - **中文理解**：当我抬起头，在镜子里看自己时，背景里出现了一个暗色的人影。
 - **关键词**：lift my head（抬起头）／in the mirror（在镜子里）／a dark figure appears（一个暗色人影出现）／in the background（在背景里）
 - **为什么这样写**：全章的收束镜头，也是全书最有效的一次视角转换：此前她一直在**看别人**（把路人看成 Jimmy、在海里找敌人），此刻她终于看向自己——而**自己身后站着人**。作者把威胁放进镜子的背景里，于是它同时属于幻觉与现实，读者的解释权被保留。
 - **读者视角提示**：⚠️ 原文到此**只写"出现了一个暗色人影"**，没有说那是人、是鬼、还是她的倒影。**任何"那是谁"的断言都是替作者下结论。**
 
-> **原句 11:** I widen my eyes in fear and, from the top of my lungs, I scream.
+> **原句 8:** I widen my eyes in fear and, from the top of my lungs, I scream.
 
 - **中文理解**：我恐惧地瞪大双眼，用尽肺腑之力尖叫。
 - **关键词**：widen my eyes（瞪大眼睛）／in fear（恐惧地）／from the top of my lungs（用尽全力／声嘶力竭）

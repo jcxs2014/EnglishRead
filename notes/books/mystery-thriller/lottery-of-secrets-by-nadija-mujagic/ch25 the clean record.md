@@ -36,63 +36,35 @@ modified: "2026-10-01"
 - **为什么这样写**：用烹饪意象写婚姻——高温密闭、随时可能炸开，而"等着被喷出"正是她此刻的处境：两个人都被困在里面，一个在客厅一个在卧室，谁也不能真正离开。spat out 这个略带滑稽的结尾词，与 pressure cooker 的危险形成反差，也让这一句不至于太惨。
 - **读者视角提示**：留意 "coexist"（共存）这个词的降格——上一章还是 "cat and mouse"（猫鼠游戏），这一章只剩共存。她与丈夫的关系已经退回到动物性的层面。
 
-> **原句 4:** That’s because he knows every single cop in this town, and they’d let him go in a heartbeat if he got caught.
-
-- **中文理解**：那是因为他认识这镇上每一个警察，他们要是抓到他，会毫不犹豫地放他走。
-- **关键词**：every single cop（每一个警察）／in a heartbeat（毫不犹豫地，一下子的工夫）
-- **为什么这样写**：一句解释拆掉了整份调查报告的公信力。作者让叙述者替读者提出最直接的质疑：**纸面干净只说明有人帮他擦干净了**。in a heartbeat 用生理节律形容"毫不犹豫"，比"马上"更有身体感——暗示这不是个别人的例外，而是一整套默契。
-- **读者视角提示**：这几句把嫌疑从"他做过什么"转移到"他被豁免"，是全书对"规则不保护她"这一主题第一次正面表态。
-
-> **原句 5:** He has a terrible temper that can freeze a person’s blood, just by sight.
+> **原句 4:** He has a terrible temper that can freeze a person’s blood, just by sight.
 
 - **中文理解**：他有一种糟糕的脾气，光是看一眼就能把人的血冻住。
 - **关键词**：terrible temper（糟糕的脾气）／freeze a person’s blood（把人的血冻住／让人血脉凝固）
 - **为什么这样写**：freeze a person's blood（血都冻住了）这个说法比"吓人"古老而具体，是身体先于思维的反应。作者不用"可怕"而用生理冻结，呼应她自己正在流失的血（第一章咳血）——她形容恐惧时用的是自己熟悉的那套身体语言。just by sight（单凭一眼）则把危险标注为**无条件**的。
 - **读者视角提示**：留意这是全书极少数由她给出的"危险等级"描述之一，且不带分析。她评断丈夫时用的是身体，不是逻辑。
 
-> **原句 6:** That he doesn’t even have a speeding ticket shows that he is a criminal in and of itself.
+> **原句 5:** That he doesn’t even have a speeding ticket shows that he is a criminal in and of itself.
 
 - **中文理解**：他连一张超速罚单都没有，这本身就说明他是个罪犯。
 - **关键词**：speeding ticket（超速罚单）／in and of itself（本身，就其自身而言）
 - **为什么这样写**：作者把一句常识翻转让读者站在她这边：正常人的守法记录是"清白"，她却读成"罪证"。in and of itself（其本身就是）这个稍显生硬的学术腔调，故意让她的判断听起来像法律术语——她不是在发泄，她是在做她认为唯一正确的事：举证。
 - **读者视角提示**：留意这句的逻辑是**反的**，而作者显然是有意为之：她要的证明不是"他做了什么"，而是"他被容许做了什么"。
 
-> **原句 7:** He never takes responsibility for his transgressions, even when he gets away with them. If anything, they enable him to get worse.
-
-- **中文理解**：他从不为自己的越轨行为负责，即便每次都能逃脱惩罚。如果有什么在起作用的话，那只会让他变得更糟。
-- **关键词**：transgressions（越轨行为，罪过）／takes responsibility（承担责任／负责）／get away with them（逃脱惩罚）
-- **为什么这样写**：transgression（越轨）带宗教与法律双重意味，把打架斗殴提到"罪"的层面，与她的赎罪动机形成暗线呼应。第二个句子用条件句给出因果：**不被追究 = 变本加厉**——这是她多年观察的结论，也是她对自己处境的解释（他打她，她没报警，所以他更狠）。
-- **读者视角提示**：留意 "they enable him"（它们使他得以……）——她把"逃脱惩罚"当成一种**许可**，而不是好运。这一逻辑后面会原样用在她自己身上。
-
-> **原句 8:** Andrew’s report doesn’t give me relief based on what I know. But there’s not much I can do about it.
+> **原句 6:** Andrew’s report doesn’t give me relief based on what I know. But there’s not much I can do about it.
 
 - **中文理解**：以我所知，Andrew 的报告并没有让我安心。但我也没什么办法。
 - **关键词**：report（报告）／doesn’t give me relief（没让我安心）／there’s not much I can do about it（我也没什么办法）
 - **为什么这样写**：全章最短的转折，也是她最诚实的一句：**证据不可信，但日子还得过**。第二个 "But" 承接第一个转折，把"不成立"落到"没办法"上——她不打算争辩，她打算继续观察。第二个分句与第一章的 "there's not a lot I can do to tame them"（没什么办法驯服它们）句式几乎同构，只是对象从疾病换成了处境。
 - **读者视角提示**：留意这一段之后紧跟她与 Andrew 的三句追问——她嘴上说没办法，身体已经在查了。
 
-> **原句 9:** The pawnshop owner didn’t want to divulge the information about his customers.
-
-- **中文理解**：当铺老板不愿意透露他顾客的信息。
-- **关键词**：pawnshop（当铺）／divulge（透露，泄露）／customers（顾客）
-- **为什么这样写**：Andrew 的追查在这里第一次被人**挡住**。divulge（泄露）是个正式词，作者用它来暗示这不只是店主的商业秘密，而是有人打过招呼。整句是全章唯一的外部阻力，位置也最关键——它出现在侦探刚说完"什么异常都没有"之后，像一根刺。
-- **读者视角提示**：⚠️ **原文在此并未说明店主为何隐瞒**，也没说当铺里买了什么。分析只能停在"这里有一条被人挡住的线索"，不能替作者填。
-
-> **原句 10:** I’m having a hard time believing everything he tells me.
-
-- **中文理解**：他说的每一句话，我都很難相信。
-- **关键词**：a hard time（很难）／believing（相信）／everything he tells me（他告诉我的一切）
-- **为什么这样写**：用 a hard time（很难）而不是 don't believe（不相信）——她并非全盘否定，而是承认对方说的可能是真的、只是自己接受不了。作者于是把她的处境写成一个两难：**理智告诉她安全，直觉告诉她危险，而她只能站在有危险的那一边**。
-- **读者视角提示**：这句紧跟在"我的心跳慢下来、又能呼吸了"之后，标出她的身体与判断彻底脱节——身体放松，判断收紧。
-
-> **原句 11:** I’m certain he will find traces, some kind of evidence that will make all this mess as clear as day. It is just a matter of time.
+> **原句 7:** I’m certain he will find traces, some kind of evidence that will make all this mess as clear as day. It is just a matter of time.
 
 - **中文理解**：我确信他会找到痕迹，某种能让这团乱麻变得清清楚楚的证据。这只是时间问题。
 - **关键词**：traces（痕迹）／evidence（证据）／as clear as day（像白昼一样清楚）／a matter of time（只是时间问题）
 - **为什么这样写**：她拒绝接受"查无此事"这个结论，用"只是时间问题"把它降格为暂时状态。as clear as day（清清楚楚，如白昼）这个惯用语把期待写得过于明亮，反而显出她在自我说服——她需要侦探是对的，因为如果连这最后一条路都断了，她就只剩第五章那种"numb"（麻木）。
 - **读者视角提示**：留意这是**她的信念而不是事实**。写分析时不能把它当作已证实的结论；本章的证据方向恰恰相反。
 
-> **原句 12:** It’s safe to say that you’re out of reach of any danger. Go enjoy life. Do something fun. Relax.” He chuckles.
+> **原句 8:** It’s safe to say that you’re out of reach of any danger. Go enjoy life. Do something fun. Relax.” He chuckles.
 
 - **中文理解**："可以肯定地说，你已经远离任何危险了。去享受生活吧。做点好玩的事。放松一下。"他轻笑了一声。
 - **关键词**：out of reach of（够不着，够不到）／Go enjoy life（去享受生活）／Relax（放松）／chuckles（轻笑）

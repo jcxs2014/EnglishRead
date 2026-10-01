@@ -50,49 +50,21 @@ modified: "2026-10-01"
 - **为什么这样写**：这是全书最直白的一次指控，也是 Lynn 第一次把"猜测"升级为"具体的行动"。作者用 might 让它停留在假设层面——她还不确定，但她已经把最坏的可能说出口了。hit woman 这个偏俚语的词（而非 killer）带着雇佣关系，一开口就把"情敌"与"杀手"混为一谈：这也是 Andrew 接下来要分辨的两条线。
 - **读者视角提示**：⚠️ **原文在此并未给出答案**。分析只能停在"她提出了这个假设"，不能替作者确认丈夫是否真的雇了人。
 
-> **原句 6:** I don’t believe in coincidences.” I shake my head. “I just don’t.
-
-- **中文理解**："我不相信巧合。"我摇摇头。"我就是不信。
-- **关键词**：coincidences（巧合）／I just don’t（我就是不信）
-- **为什么这样写**：全句几乎是对称的呼应结构：她说不信巧合，被追问后还是那三个字。她的坚持不是论证，是情绪。作者让这句在 Andrew 给出"小镇很小、三次不算多"的理性反驳之前落下，紧接着用他的合理化把她顶回去——两个人的方法论在此正面相撞。
-- **读者视角提示**：留意 Andrew 下一句的反驳其实很有道理，而她依然没被说服。这说明她的"不信"来自经验，不是逻辑。
-
-> **原句 7:** I feel stupid, because the day the voodoo doll materialized on our steps, I walked to the closest dumpster in town and flicked it through the air until it hit the bottom, making an echoing sound.
+> **原句 6:** I feel stupid, because the day the voodoo doll materialized on our steps, I walked to the closest dumpster in town and flicked it through the air until it hit the bottom, making an echoing sound.
 
 - **中文理解**：我觉得自己蠢透了——巫毒娃娃出现在我们家门口的那天，我走到镇上最近的垃圾桶，把它抛进空中，直到它砸到底，发出一声回响。
 - **关键词**：I feel stupid（我觉得自己蠢）／materialized（凭空出现）／flick（弹，抛）／echoing sound（回响声）
 - **为什么这样写**：作者让叙述者在陈述案情时自曝毁证，而且写得极具体——动作（抛）、工具（垃圾桶）、声音（回响）三样都在。materialized（凭空冒出来）这个词带着鬼气，与巫毒娃娃的属性呼应。她把它扔了，是因为怕——作者让她把"毁证"写成一次恐惧发作，而非冷静判断。
 - **读者视角提示**：这是全章最关键的一段自我拆台：**她把唯一的实物证据处理掉了**，而处理它的动机是害怕。留意 "echoing sound"——那个声音在叙述里回响，也提示这条线索已经追不回来了。
 
-> **原句 8:** Note to myself: I ought not to act on my impulses during these trying times.
-
-- **中文理解**：给自己记一笔：在这段难熬的日子里，我不该凭冲动行事。
-- **关键词**：Note to myself（给自己记一笔）／impulses（冲动）／trying times（难熬的日子）
-- **为什么这样写**：叙述者在讲到一半时突然停下来给自己写批注，视角从回忆拉回此刻，作者借此把"事后总结"的语调带进正文。trying times 一词轻描淡写地略过实际的危险，像她在刻意给自己减压。
-- **读者视角提示**：这条自我批评恰恰证明她知道自己错了——**能写下自我批注的人，往往正是控制不住自己的人**。这与她后面签表的决断连读，本章的自我评估并不乐观。
-
-> **原句 9:** I am certain I didn’t take it out because my purse was the safest place to keep it.
-
-- **中文理解**：我确信不是我把它拿出来的，因为我的包才是最安全的存放处。
-- **关键词**：I am certain（我确信）／purse（手提包）／the safest place to keep it（最安全的存放处）
-- **为什么这样写**：她唯一的物证凭空消失，而她给不出解释。作者不给答案（纸条的失踪全书未解），只让她把包整个倒在桌上——"直到我的包空了"。这个动作是全章最有说服力的一幕：她不是在辩解，是在自证。
-- **读者视角提示**：⚠️ 纸条失踪是**悬而未决**的线索，此处不要下"是 Jimmy 拿走的"之类的结论；原文到本章没有给出。
-
-> **原句 10:** He clearly thinks I’m crazy. I don’t feel far from it. Maybe I’m paranoid and I’ve lost the plot.
+> **原句 7:** He clearly thinks I’m crazy. I don’t feel far from it. Maybe I’m paranoid and I’ve lost the plot.
 
 - **中文理解**：他显然觉得我疯了。我自己也不觉得离疯远。说不定我是疑心病发作，已经把事情想偏了。
 - **关键词**：He clearly thinks（他显然觉得）／I don’t feel far from it（我也不觉得离它远）／lost the plot（失去理智／搞不清剧情走向）
 - **为什么这样写**：pity shines from his face（怜悯从他脸上透出来）之后紧跟这一段，作者让她接受"被当成精神病"的处境，并主动替对方补上判断。lost the plot 是口语，指"不再知道事情怎么走了"——她把自己的推理称作"剧情"，暗示她清楚自己正在像写小说一样编故事。
 - **读者视角提示**：这是全章情绪最低点，也是她唯一一次动摇自己的判断。但她没有收手，紧接着就转向纸条与填表，说明这份动摇只持续了几分钟。
 
-> **原句 11:** I wouldn’t be surprised given the frazzled state I’ve been in as of late.
-
-- **中文理解**：就我最近这副焦头烂额的样子，我一点也不会觉得意外。
-- **关键词**：I wouldn’t be surprised（我不会觉得意外）／frazzled（焦头烂额的，疲惫不堪的）／as of late（近来）
-- **为什么这样写**：frazzled（被磨得粉碎）比 tired（累）更具体——她把自己描述成"被磨碎的"，而不是"睡不够的"。这句话是她对丢纸条这件事的自我开脱：她把自己最近的狼狈状态当作解释，作者于是把这个状态也钉在了读者眼里。
-- **读者视角提示**：留意 "as of late"——第一章讲她咳血时用的也是这个词。她把自己长期的状态归结为"最近"，但这已不是第一次出现了。
-
-> **原句 12:** As I fill out the form, I feel like every word I put down is closer to me betraying Jimmy. But it has come down to this: it’s me or him. Given how little time I have left, I’d rather it be him.
+> **原句 8:** As I fill out the form, I feel like every word I put down is closer to me betraying Jimmy. But it has come down to this: it’s me or him. Given how little time I have left, I’d rather it be him.
 
 - **中文理解**：我一边填表，一边觉得每写下一个字，都更接近于我背叛了 Jimmy。但事情已经到了这一步：不是他就是我。想到我剩下的时间不多了，我宁愿是他。
 - **关键词**：fill out the form（填表）／betraying（背叛）／it’s me or him（不是他就是我）／I’d rather it be him（我宁愿是他）
