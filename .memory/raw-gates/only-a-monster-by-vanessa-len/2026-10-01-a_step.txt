@@ -1,0 +1,87 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 172/172 引文可核实（100%）；完全干净文件 26/26；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 656
+--- FAIL (0) ---
+--- WARN (9) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 144 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 3 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 prologue.md                               ch01 prologue.md: 6/6 in ch01 text
+ch02 one.md                                    ch02 one.md: 6/6 in ch02 text
+ch03 two.md                                    ch03 two.md: 6/6 in ch03 text
+ch04 three.md                                  ch04 three.md: 6/6 in ch04 text
+ch05 four.md                                   ch05 four.md: 6/6 in ch05 text
+ch06 five.md                                   ch06 five.md: 5/5 in ch06 text（另有 1 条短引语未校验）
+ch07 six.md                                    ch07 six.md: 6/6 in ch07 text
+ch08 seven.md                                  ch08 seven.md: 6/6 in ch08 text
+ch09 eight.md                                  ch09 eight.md: 6/6 in ch09 text
+ch10 nine.md                                   ch10 nine.md: 6/6 in ch10 text
+ch11 ten.md                                    ch11 ten.md: 6/6 in ch11 text
+ch12 eleven.md                                 ch12 eleven.md: 6/6 in ch12 text
+ch13 twelve.md                                 ch13 twelve.md: 6/6 in ch13 text
+ch14 thirteen.md                               ch14 thirteen.md: 6/6 in ch14 text
+ch15 fourteen.md                               ch15 fourteen.md: 6/6 in ch15 text
+ch16 fifteen.md                                ch16 fifteen.md: 6/6 in ch16 text
+ch17 sixteen.md                                ch17 sixteen.md: 6/6 in ch17 text
+ch18 seventeen.md                              ch18 seventeen.md: 6/6 in ch18 text
+ch19 eighteen.md                               ch19 eighteen.md: 6/6 in ch19 text
+ch20 nineteen.md                               ch20 nineteen.md: 6/6 in ch20 text
+ch21 twenty.md                                 ch21 twenty.md: 5/5 in ch21 text（另有 1 条短引语未校验）
+ch22 twenty-one.md                             ch22 twenty-one.md: 6/6 in ch22 text
+ch23 twenty-two.md                             ch23 twenty-two.md: 6/6 in ch23 text
+ch24 twenty-three.md                           ch24 twenty-three.md: 6/6 in ch24 text
+ch25 epilogue.md                               ch25 epilogue.md: 5/5 in ch25 text（另有 1 条短引语未校验）
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：25 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（only-a-monster-by-vanessa-len）===
+  ✅ 逐字 853 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 424
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: ➖ 无引语行（正常，非门禁项）
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 25/25 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
