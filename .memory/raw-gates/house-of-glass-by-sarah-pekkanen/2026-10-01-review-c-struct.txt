@@ -1,0 +1,33 @@
+=== c 步：结构扫描（2026-10-01 09:38 UTC）===
+--- audit_structure（自校准，按书内多数派）---
+=== 精读结构扫描（house-of-glass-by-sarah-pekkanen）===
+  扫 71 个 md、1135 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 16
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+--- check_struct_indep（第二实现）---
+  ❌ ch45 chapter forty five.md: [summary] 引语块 16 个，超出 3–8 配额
+  ❌ ch46 chapter forty six.md: [summary] 引语块 16 个，超出 3–8 配额
+  ❌ ch47 chapter forty seven.md: [summary] 引语块 14 个，超出 3–8 配额
+  ❌ ch48 chapter forty eight.md: [summary] 引语块 17 个，超出 3–8 配额
+  ❌ ch49 chapter forty nine.md: [summary] 引语块 22 个，超出 3–8 配额
+  ❌ ch50 chapter fifty.md: [summary] 引语块 23 个，超出 3–8 配额
+  ❌ ch51 chapter fifty one.md: [summary] 引语块 16 个，超出 3–8 配额
+  ❌ ch52 chapter fifty two.md: [summary] 引语块 16 个，超出 3–8 配额
+  ❌ ch53 chapter fifty three.md: [summary] 引语块 12 个，超出 3–8 配额
+  ❌ ch54 chapter fifty four.md: [summary] 引语块 16 个，超出 3–8 配额
+  ❌ ch55 chapter fifty five.md: [summary] 引语块 16 个，超出 3–8 配额
+  ❌ ch56 chapter fifty six.md: [summary] 引语块 16 个，超出 3–8 配额
+  ❌ ch57 chapter fifty seven.md: [summary] 引语块 16 个，超出 3–8 配额
+  ❌ ch58 chapter fifty eight.md: [summary] 引语块 12 个，超出 3–8 配额
+  ❌ ch59 chapter fifty nine.md: [summary] 引语块 15 个，超出 3–8 配额
+  ❌ ch60 chapter sixty.md: [summary] 引语块 16 个，超出 3–8 配额
+  ❌ ch61 chapter sixty one.md: [summary] 引语块 14 个，超出 3–8 配额
+  ❌ ch62 chapter sixty two.md: [summary] 引语块 16 个，超出 3–8 配额
+  ❌ ch63 chapter sixty three.md: [summary] 引语块 18 个，超出 3–8 配额
+  ❌ ch64 chapter sixty four.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch65 chapter sixty five.md: [summary] 引语块 17 个，超出 3–8 配额
+  ❌ ch66 chapter sixty six.md: [summary] 引语块 18 个，超出 3–8 配额
+  ❌ ch67 chapter sixty seven.md: [summary] 引语块 29 个，超出 3–8 配额
+  ❌ ch68 chapter sixty eight.md: [summary] 引语块 9 个，超出 3–8 配额
+=== 独立结构扫描：68 个 md，缺陷 68 处 ===

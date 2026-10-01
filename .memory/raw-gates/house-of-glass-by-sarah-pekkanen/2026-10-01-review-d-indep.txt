@@ -1,0 +1,28 @@
+=== d 步：语义二审·机械子项（第二实现，2026-10-01 09:45 UTC）===
+--- check_analysis_indep（分析层行内英文的第二实现）---
+❌ 未命中 2 条：
+  ch07 chapter seven.md:128  The reason for her honesty, in his framing, is scarcity
+      未命中词: ['scarcity']
+  ch24 chapter twenty four.md:30  this is the first time she thinks like an investigator
+      未命中词: ['investigator']
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）14 条 —— 只报不判红，须人判：
+  ch02 chapter two.md:44  judges appoint someone like me
+  ch03 chapter three.md:64  aren’t hard to do the math
+  ch09 chapter nine.md:63  No framed photographs or pictures
+  ch09 chapter nine.md:170  Gone is the easygoing guy
+  ch17 chapter seventeen.md:127  She can’t really say it was a person
+  ch30 chapter thirty.md:28  a low-slung redbrick building
+  ch30 chapter thirty.md:56  I can’t think of a graceful way to word it
+  ch37 chapter thirty seven.md:113  family being destroyed
+  ch40 chapter forty.md:57  the same thought process
+  ch46 chapter forty six.md:92  creature that was badly hurt
+  ch49 chapter forty nine.md:135  I google Lucille’s name and address
+  ch50 chapter fifty.md:22  glides beneath a placid surface
+  ch59 chapter fifty nine.md:118  Harriet pretending to be Rose’s alibi
+  ch60 chapter sixty.md:26  a big crystal vase of flowers on the island
+
+--- check_xref_indep（跨章引用回查第二实现）---
+=== chNN 引用 174 处：英文证据报警 0 处 ／ 中文式待人判 164 处 ===
+
+--- check_xref_zh（中文式跨章引用）---
+=== 跨章引用：章号+短语/POV 命中 45 / 错 0 / POV 错 0 ===
