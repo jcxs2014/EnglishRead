@@ -24,7 +24,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：Parker 的公开羞辱。作者让最伤人的攻击不带一个脏字（本章他只在这一处爆粗），而伤害全部落在对女性符号的物化上：漂亮、写作、无关技术。
 
-**读者视角提示**：这句话被在场所有人听见，而 Chapter 之后他的权力并未因此受损——这正是本章随后问的问题：为什么惩罚一个骚扰者要以牺牲一个技术者为代价？
+**读者视角提示**：这句话被在场所有人听见，而本章之后他的权力并未因此受损——这正是本章随后问的问题：为什么惩罚一个骚扰者要以牺牲一个技术者为代价？
 
 
 > **原句 2:** “I’d be curious to know your sources, but yes.”
@@ -35,12 +35,12 @@ modified: "2026-10-01"
 
 **为什么这样写**：章中段落的真相炸弹。作者让 Parker 在闪光灯面前承认：他将被撤换。作者把这句承认写得极短，让它的分量完全由读者自己的判断承担。
 
-**读者视角提示**：可她第一个念头是 Nathaniel 泄密（I'm hadn't told anyone anything.）——直到走廊才知真相，这是一个关于「谁在为她的厄运投票」的故事。
+**读者视角提示**：可她第一个念头是 Nathaniel 泄密（I hadn't told anyone anything.）——直到走廊才知真相，这是一个关于「谁在为她的厄运投票」的故事。
 
 
 > **原句 3:** “I have bone spurs in my neck, likely from ejections during my test pilot days. They’re pressing on my spinal column.” He shrugged, as if that was somehow no big deal. “I know what you think of me, but believe it or not, I care more about the program than I do about my place in it. I would have been a danger.”
 
-**中文理解**：「『我脖子上有骨刺，大概是试飞员时代弹射留下的。它们在压迫我的脊椎。』他耸耸肩，好像那不是什么大事。『你知道我怎么看你的，但信不信由你：我比在乎自己的位置更在乎这个项目。我会是个危险。』」
+**中文理解**：「『我脖子上有骨刺，大概是试飞员时代弹射留下的。它们在压迫我的脊椎。』他耸耸肩，好像那不是什么大事。『你知道我怎么看你的，但信不信由你：我比在乎自己的位置更在乎这个项目。我本来会是个危险。』」
 
 **关键词**：bone spurs in my neck（我脖子里的骨刺）/ pressing on my spinal column（压迫着我的脊椎）
 
@@ -66,7 +66,7 @@ modified: "2026-10-01"
 
 **关键词**：my lips remain sealed（我的嘴会封紧）/ you still need to keep your head down（你还得继续低头做人）
 
-**为什么这样写**：停飞协议的第二轮签署。作者让她在扶手椅上再次交出同一份服从——但这一次她多了半英寸的余地（earned that much），而她的沉默也被他同步记账（my lips remain sealed）。
+**为什么这样写**：保密协议的第二轮签署。作者让她在扶手椅上再次交出同一份服从——但这一次她多了半英寸的余地（earned that much），而她的沉默也被他同步记账（my lips remain sealed）。
 
 **读者视角提示**：这行同时是本书对「保密交易」最冷的经济学描述：她的沉默是他的健康、他的病腿是她的把柄。
 
@@ -77,9 +77,9 @@ modified: "2026-10-01"
 
 **关键词**：Manpower（人力储备）
 
-**为什么这样写**： sarcastic 的内心排比被独立成段。作者让读者听见她话里的讽刺，而下一段 Clemons 的公文证实了她的判断——讽刺成为全书最准的预言。
+**为什么这样写**： sarcastic 的内心排比被独立成段。作者让读者听见她话里的讽刺，而这个词先由 Clemons 说出、由她原样复述——讽刺成为全书最准的预言。
 
-**读者视角提示**：「Manpower.」这个词在下一段的会议纪要里复现：制度说「我们需要更多人手」，女人坐在原地听着同一个词换了主语。
+**读者视角提示**：「Manpower.」讽刺先于事实：她说出的判断，随后由她的复述坐实：制度说「我们需要更多人手」，女人坐在原地听着同一个词换了主语。
 
 
 > **原句 7:** But … I was feeling such a weird mix of emotions. Jacira deserved the flight. I was thrilled for her that she was going to be the first woman in space. I was relieved that it wasn’t Betty or Violette, who clearly would have just been picked for publicity. Jacira was a real pilot. I was also weirdly relieved that it wasn’t me, because as the first woman in space, she would be subjected to a level of scrutiny that would break me. Especially without resorting to Miltown.

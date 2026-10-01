@@ -90,7 +90,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：喜与悲的同体。作者让「aunt again」与「no one survived」压在同一句里——幸存者的喜讯自带阴影，家族树被补上的每一枝都在提醒断口在哪里。
 
-**读者视角提示**：「fifty miles」是本书的死亡量纲（ch01 的爆心半径）——她用工程单位丈量哀伤。
+**读者视角提示**：「fifty miles」是本书的死亡量纲（ch01 的三百英里爆心半径）——她用工程单位丈量哀伤。
 
 
 > **原句 8:** Goddamn it. My grandmother had survived the tidal waves that swamped Charleston, and I had done nothing to find her.
@@ -101,7 +101,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：章末的二次坍塌。作者让幸存的喜讯立刻变成负罪——「活着的家人」同时意味着「我放弃了搜索」。这是本书对幸存者内疚最诚实的一次建模：好消息也要付利息。
 
-**读者视角提示**：与 ch20「There aren’t any other Wexlers」对读：她当时说错了——这个错误本身就是本章的心碎。
+**读者视角提示**：与 ch20「There aren’t any other Wexlers」对读：他们当时都以为错了——这个错误本身就是本章的心碎。
 
 ## 本章词汇
 

@@ -55,7 +55,7 @@ modified: "2026-10-01"
 
 **关键词**：Blessed is He who has now freed me from the responsibility of this one（赞美那让我卸下对孩子责任的主）
 
-**为什么这样写**：父亲的祝祷词由父亲念给儿子——作者的译文（freed from responsibility）是全书最温柔的反讽：被「卸下」的是仪式责任，接手的却是永远的责任。
+**为什么这样写**：父亲的祝祷词由父亲念给儿子——作者的译文（freed me from the responsibility）是全书最温柔的反讽：被「卸下」的是仪式责任，接手的却是永远的责任。
 
 **读者视角提示**：她听得「手帕都要湿透」——这场戏里的家人全体落泪，唯独仪式本身干燥如律法。
 
@@ -88,9 +88,9 @@ modified: "2026-10-01"
 
 **关键词**：keep the Earth habitable（让地球维持宜居）/ I stress the word might（我强调「也许」这个词）
 
-**为什么这样写**：气象学家哥哥给出全书最严谨的Hope 表述：不承诺、不安慰，只有百分比与语气词。作者让「might」被说话者亲自加粗——科学与安抚的分界线从此立在这里。
+**为什么这样写**：气象学家哥哥给出全书最严谨的「也许」表述：不承诺、不安慰，只有百分比与语气词。作者让「might」被说话者亲自加粗——科学与安抚的分界线从此立在这里。
 
-**读者视角提示**：这段是 ch07「extinction event」的三年后修订版：灭绝仍是默认结局，人类第一次拿到了谈判条件。
+**读者视角提示**：这段是 ch07「extinction event」四年后的修订版：灭绝仍是默认结局，人类第一次拿到了谈判条件。
 
 
 > **原句 8:** They certainly didn’t see the memory of the year that I tried to hang myself.

@@ -22,7 +22,7 @@ modified: "2026-10-01"
 
 **关键词**：First in, last out（最先想上、最后才让上）
 
-**为什么这样写**：Myrtle 教会撒传单换来的航班，登机顺序仍由种族决定。作者用六个词（First in, last out.）完成全章最锋利的控诉——救援也有它的种族次序，且无人觉得需要解释。
+**为什么这样写**：Myrtle 教会撒传单换来的航班，登机顺序仍由种族决定。作者用最短的四个字（First in, last out.）完成全章最锋利的控诉——救援也有它的种族次序，且无人觉得需要解释。
 
 **读者视角提示**：这一句与上一章 Myrtle 的 “Where are our people?” 直接对账：她要来的航班，仍然不是平等的那一班。
 
@@ -88,9 +88,9 @@ modified: "2026-10-01"
 
 **关键词**：the oceans begin to boil（海洋开始沸腾）
 
-**为什么这样写**：对 Brannan「图表上翘代表什么」的回答，一句话把五十年后的地球推到众人面前。作者让它由她单独说出——从怯场到宣判，全章的胆量预算全部花在这六个词上。
+**为什么这样写**：对 Brannan「图表上翘代表什么」的回答，一句话把五十年后的地球推到众人面前。作者让它由她单独说出——从怯场到宣判，全章的胆量预算全部花在这句吞吞吐吐的短句上。
 
-**读者视角提示**：紧接着的比喻（空气被喷气引擎抽干）是房间里所有人的呼吸 jointly 停了一拍——安静是她赢得的第一场胜利。
+**读者视角提示**：紧接着的比喻（空气被喷气引擎抽干）是房间里所有人的呼吸同时停了一拍——安静是她赢得的第一场胜利。
 
 
 > **原句 8:** “Certainly.” He stood and came to stand by Nathaniel. “Gentlemen. Mrs. York. There is a saying in Switzerland, ‘Ne pas mettre tous ses œufs dans le même panier,’ which you will know in English as, ‘Do not put all your eggs in one basket.’ The United Nations feels that, in addition to reducing the damage here on Earth, we must also look beyond our planet. It is time, gentlemen, to colonize outer space.”

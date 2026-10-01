@@ -24,7 +24,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：Nathaniel 第一时间把「接姨妈」列为默认选项。作者让这个家的财务现状（还买不起房）与道德直觉（当然要接）在同一场景对撞——善意是免费的，住房不是。
 
-**读者视角提示**：这段为全书的生活质感记账：他们为飞行表演赔掉积蓄（ch14）的账单此刻到期。
+**读者视角提示**：这段为全书的生活质感记账：他们为飞行表演赔掉积蓄（ch15）的账单此刻到期。
 
 
 > **原句 2:** “We can’t afford a house yet, and paying more in rent for a larger place…” He spread his hands, trying not to call attention to the fact that we’d spent our savings to cover the damage to the plane in the air show.
@@ -57,7 +57,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：Hershel 的判词。作者让哥哥一句话完成她所有自我说服（「也许该专注可控的事」）的拆除——他了解她的程度精确到「不试就会烂掉」。
 
-**读者视角提示**：与 ch19 他的「他们不聘你就是傻子」连读：这个哥哥的预言系统从未失手，讽刺的是她总需要别人替她念出自己想要的答案。
+**读者视角提示**：与本章他自己那句「他们不聘你就是傻子」连读：这个哥哥的预言系统从未失手，讽刺的是她总需要别人替她念出自己想要的答案。
 
 
 > **原句 5:** “If you don’t get in, I’ll buy you a subscription to Mystery in Space.”

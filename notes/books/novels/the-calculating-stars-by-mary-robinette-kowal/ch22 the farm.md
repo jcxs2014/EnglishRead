@@ -33,7 +33,7 @@ modified: "2026-10-01"
 
 **关键词**：I’m the lead engineer.（我是总工程师。）
 
-**为什么这样写**：四个字的责任自领。作者让「guilt」在此刻选择主人——不是预算方、不是气象、是那个画图纸的人；这与她「必须是我错了」的自我归罪（ch07）同构。
+**为什么这样写**：四个字的责任自领。作者让「fault」在此刻选择主人——不是预算方、不是气象、是那个画图纸的人；这与她「都是我的错」的自我归罪（ch18）同构。
 
 **读者视角提示**：她的劝解（It’s not your fault）与他随后的自我修正（我去了也改变不了）互相给台阶——这场婚姻的危机语法越来越熟练。
 
@@ -90,7 +90,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：工程师的失眠诊断书：两笔账（为什么炸、为什么没自毁）+一句「I should」。作者让他的完美主义在此变成刑具——同一个把世界算清楚的人，此刻算不清楚。
 
-**读者视角提示**：「government inquiry」的预告与月度发射计划的推迟，把个人悲剧接上制度时钟。
+**读者视角提示**：「government inquiry」的预告与月球发射计划的推迟，把个人悲剧接上制度时钟。
 
 
 > **原句 8:** “I can’t yell when I go out on the floor. I want to. I want to scream and gnash my teeth. So thank you for giving me a place where I can be awful, and find my way back again.”
@@ -99,7 +99,7 @@ modified: "2026-10-01"
 
 **关键词**：a place where I can be awful, and find my way back again（一个可以糟糕、还能找回自己的地方）
 
-**为什么这样写**：全章的落点句。作者让婚姻的功能被 Nate 亲口命名：不是避风港的陈词，是一个「允许最差状态」的实验室——与 ch20 的当众之吻、ch19 的急救算术同属一套基础设施。
+**为什么这样写**：全章的落点句。作者让婚姻的功能被 Nathaniel 亲口命名：不是避风港的陈词，是一个「允许最差状态」的实验室——与 ch20 的当众之吻、ch19 的急救算术同属一套基础设施。
 
 **读者视角提示**：「find my way back again」与她的改出尾旋、数质数自救完全同构——这对夫妻共用同一套「找回航向」的飞行手册。
 

@@ -24,7 +24,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：着装课的一分钟改变全局。作者让 Sabiha Gökçen 用一身男装完成全部论证——测试要的是功能性，不是得体性。
 
-**读者视角提示**：第二天全场跟着换装（authors note：裤子比裙子多），竞争生态在一天内完成洗牌——应考的世界有自己的制服。
+**读者视角提示**：第二天全场跟着换装（次日再入场时，裤子比裙子多），竞争生态在一天内完成洗牌——应考的世界有自己的制服。
 
 
 > **原句 2:** Not a single one was black. And the longer I stood there, the clearer it became that Maggie was the only person who wasn’t white.
@@ -35,7 +35,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：本章的核心发现用一句统计完成。作者让「唯一的例外」既在名单上又在边缘——Maggie 是唯一可见的异类，这本身就是隐形的驱逐。
 
-**读者视角提示**：Maggie 的「心脏杂音」随后出现（ch29 末章她已被除名）——唯一的异类也是最先被制度处理的那个。
+**读者视角提示**：Maggie 的「心脏杂音」在本章稍后即被曝出——唯一的异类也是最先被制度处理的那个。
 
 
 > **原句 3:** If anyone ever forgot that these women were all pilots, all you had to do was look at the cocky edge in their stride.
@@ -46,7 +46,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：步态的工程学解读。作者让身体成为简历：肩膀后收、下巴抬起——章末的淘汰赛里，走路姿势就是成绩单的预览。
 
-**读者视角提示**：与 ch13 那个提裙擦汗裙的女飞行员、ch14 的锡箔头盔互为镜像：本书每个时代都在重新发明「像不像飞行员」。
+**读者视角提示**：与 ch13 那个整理裙摆的女飞行员、ch18 的锡箔头盔互为镜像：本书每个时代都在重新发明「像不像飞行员」。
 
 
 > **原句 4:** She shrugged. “It’s better than the men. Ever tried taking a medical history from a pilot? They’ve apparently never been ill and were born through immaculate conception.”
@@ -73,7 +73,7 @@ modified: "2026-10-01"
 
 > **原句 6:** “Does aspirin count? Or vitamin C?” I chewed my lower lip, trying to make it look like I wasn’t being a Pilot with a capital P. But goddamn it, I wasn’t going to let my anxiety ground me. “And there’s Dristan when I can’t shake a cough.”
 
-**中文理解**：「『阿司匹林算吗？或者维生素 C？』我咬着下唇，努力不让自己显得像个大写 P 的 Pil**ot。可该死的，我不能让自己的焦虑把我停飞。『还有 Dristan，我咳嗽止不住的时候吃。』」
+**中文理解**：「『阿司匹林算吗？或者维生素 C？』我咬着下唇，努力不让自己显得像个大写 P 的 Pilot。可该死的，我不能让自己的焦虑把我停飞。『还有 Dristan，我咳嗽止不住的时候吃。』」
 
 **关键词**：I wasn’t going to let my anxiety ground me（我可不打算让焦虑把我停飞）
 
@@ -86,9 +86,9 @@ modified: "2026-10-01"
 
 **中文理解**：「他们也给 Stetson Parker 做过这个。我耳朵里灌进去的东西，是 Stetson Parker 经历过的事。我唯一确切知道的是：我们和男人们接受的是完全相同的测试。如果他能挺过去，我也能。」
 
-**关键词**：exactly the same tests as the men（与男性完全相同的测试）
+**关键词**：the exact same tests as the men（与男性完全相同的测试）
 
-**为什么这样写**：本章的心理引擎。作者把 Parker（ch25 被灌过冷水的档案）插入她的候选人心智——她不是靠比较优势，是靠射程之外的男人做标尺。
+**为什么这样写**：本章的心理引擎。作者把 Parker（作为同样接受过这套测试的男人）插入她的候选人心智——她不是靠比较优势，是靠射程之外的男人做标尺。
 
 **读者视角提示**：这也回答了 Parker 的敌意：他受过的折磨她不必亲历，但他已经在楼梯上留下瘸腿的伏笔。
 

@@ -33,20 +33,20 @@ modified: "2026-10-01"
 
 **关键词**：Do you hear yourself?（你听听自己说话的样子。）
 
-**为什么这样写**：章末的诊断被提前演一次。作者让她的语言病在进入训练场之前就被丈夫命名——而她并不反驳，这说明她知道。
+**为什么这样写**：这一幕的收尾把诊断提前演一次。作者让她的语言病在进入训练场之前就被丈夫命名——而她并不反驳，这说明她知道。
 
 **读者视角提示**：与 ch25「数字是我的家」对读：这套语言既是她的避难所，也是她的隔离舱——隔离得连家人都听不见她在喊。
 
 
 > **原句 3:** Even with his aviator sunglasses in place, I could feel the glare. “I know you think you’re a pilot, but a jet is different from a prop plane.”
 
-**中文理解**：「即便他戴着飞行员墨镜，我也能感到那道目光。『我知道你觉得自己是飞行员，可喷气机跟螺旋桨机不一样。』」
+**中文理解**：「即便他戴着飞行员墨镜，我也能感到那道眩光。『我知道你觉得自己是飞行员，可喷气机跟螺旋桨机不一样。』」
 
 **关键词**：a jet is different from a prop plane（喷气机跟螺旋桨机不一样）
 
 **为什么这样写**：Parker 的 pedantic 模式登场。作者让他把偏见包装成教学：他没有说「你不配」，他说「不一样」——本书最危险的句法。
 
-**读者视角提示**：她被要求回答「你这种 prop pilot 知道的第一件事是什么」，这是把她的资格从证据降格成出身的整场手术。
+**读者视角提示**：她被要求回答「检查完周遭之后你做的第一件事是什么」，这是把她的资格从证据降格成出身的整场手术。
 
 
 > **原句 4:** There’s this weird thing in flying that makes it almost like a religion. Pilots do call-and-response as a liturgy of our own.
@@ -55,7 +55,7 @@ modified: "2026-10-01"
 
 **关键词**：call-and-response as a liturgy（把一唱一和当作礼拜仪式）
 
-**为什么这样写**：本章的信仰宣告。作者让 check list 获得礼拜词的重量——对 NASA 工程师而言，call-and-response 就是他们的弥撒。
+**为什么这样写**：本章的信仰宣告。作者让 check list 获得礼拜词的重量——对 IAC 工程师而言，call-and-response 就是他们的弥撒。
 
 **读者视角提示**：紧接着的「liturgy of our own」把她的航空母语与 Nathaniel 的航天语汇接成同一套黑话：他们的亲密建立在共享的圣典上。
 
@@ -137,7 +137,7 @@ modified: "2026-10-01"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| hangar | n. 机库 | see how you can see through the body of the plane? |
+| hangar | n. 机库 | a narrow view of the hangar on the far side of the plane |
 | visor | n. 面罩 | even with my visor. |
 | parachute | n. 降落伞 | When I finished changing into my flight suit and parachute, I grabbed my helmet out of its wooden cubby and headed out to the tarmac. |
 | simulator | n. 模拟器 | Sitting in the simulator after hours, my thick binder of checklists rested heavy on my lap. |

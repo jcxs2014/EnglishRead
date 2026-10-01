@@ -44,9 +44,9 @@ modified: "2026-10-01"
 
 **关键词**：If I go to the flight surgeon, he’ll ground me（我去看航医，他就会停我）
 
-**为什么这样写**：Paragraph of three words：他不懂自己的腿，但他懂后果。作者让_parser 停在诊断空白处——医生的在场本身就是判决书。
+**为什么这样写**：三个词的段落：他不懂自己的腿，但他懂后果。作者让叙述停在诊断空白处——医生的在场本身就是判决书。
 
-**读者视角提示**：与 ch13 的「hysterical」污名互文：Parker 从「不让女性飞」的一端滑到「怕女人宣布自己不能飞」的另一端，两人互为镜像。
+**读者视角提示**：与 ch11 的「hysterical」污名互文：Parker 从「不让女性飞」的一端滑到「怕女人宣布自己不能飞」的另一端，两人互为镜像。
 
 
 > **原句 4:** Clemons turned, one of his cigars smoldering in his hand. “There she is. Gentlemen, meet Elma York. One of our computers, and responsible for the calculations that identified the potential of the Sirius engine. Dr. York is also our newest astronaut.”

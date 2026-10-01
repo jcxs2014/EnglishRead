@@ -18,7 +18,7 @@ modified: "2026-10-01"
 
 > **原句 1:** I could solve problems in my head that they couldn’t even do on paper, and the teachers, damn them, kept shoving that in their faces until I just wanted to quit and hide … but I was also my father’s daughter. He believed in me so thoroughly that I couldn’t shame him by not trying. And I still want my father to be proud of me, even though he and Mama have been gone for four years.
 
-**中文理解**：「我能在脑子里解出他们连纸上都算不出的题，而老师们，该死的他们，偏要把这个甩到那些年轻人脸上，直到我只想退学躲起来……可我也是父亲的女儿。他对我深信不疑，我不能不努力让他蒙羞。哪怕他和妈妈已经走了四年，我还是要父亲为我骄傲。」
+**中文理解**：「我能在脑子里解出他们连纸上都算不出的题，而老师们，该死的他们，偏要把这个甩到那些年轻人脸上，直到我只想退学躲起来……可我也是父亲的女儿。他对我如此深信，使我不能因为不努力而让他蒙羞。哪怕他和妈妈已经走了四年，我还是要父亲为我骄傲。」
 
 **关键词**：solve problems in my head（在脑子里解题）/ my father’s daughter（父亲的女儿）
 
@@ -35,7 +35,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：焦虑的算术化：她连恐慌都要折算成数字（91 个台、两百万观众）。作者用「That was just two million viewers. Or more?」的反讽句式展示她的自嘲系统在满负荷运转。
 
-**读者视角提示**：π 与质数（3.1415…/2, 3, 5, 7…）在走廊里接力出现——她的镇定剂清单第一次从单一Digits 变成一套组合拳。
+**读者视角提示**：π 与质数（3.1415…/2, 3, 5, 7…）在走廊里接力出现——她的镇定剂清单第一次从单一的 π 变成一套组合拳。
 
 
 > **原句 3:** I pressed my hand against my stomach and breathed through my mouth. Don was a good man, and there wasn’t a live audience. It would just be him and the child actor. Goddamn it. Why had I said yes?
@@ -57,7 +57,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：母亲的训诫在门把手上准时上线。作者让这句家训同时是盔甲与笑点——它挡住了恐惧，也标记出她继承的那套「淑女纪律」从未离开。
 
-**读者视角提示**：「骆驼」的具体所指（驼背）呼应她在 ch01 之后所有的 deportment 教养线——家族的身体规训如今成了她的应急程序。
+**读者视角提示**：「骆驼」的具体所指（驼背）呼应她在 ch01 之后所有的仪态教养线——家族的身体规训如今成了她的应急程序。
 
 
 > **原句 5:** He held up a finger. “Actually, you should call her Dr. York—she’s a doctor, but not a medical one.”

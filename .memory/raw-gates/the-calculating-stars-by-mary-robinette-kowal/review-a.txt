@@ -1,0 +1,81 @@
+# REVIEW a 步 · 第 3 条门禁全量重跑 2026-10-01 15:56 UTC
+## lane
+完整 lane
+## ① verify_quotes
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 23/23 ✅（另有 1 条短引语未校验）
+ch01 the meteor hits.md: 8/8 ✅
+ch02 the airblast.md: 8/8 ✅
+ch03 forced landing.md: 8/8 ✅
+ch04 the phone call.md: 8/8 ✅
+ch05 meteor refugee.md: 8/8 ✅
+ch06 sitting shiva.md: 8/8 ✅
+ch07 extinction event.md: 8/8 ✅
+ch08 the wrong problem.md: 8/8 ✅
+ch09 colonize outer space.md: 8/8 ✅
+ch10 first man in space.md: 8/8 ✅
+ch11 the first cut.md: 8/8 ✅
+ch12 operation ladies first.md: 8/8 ✅
+ch13 the messerschmitts.md: 8/8 ✅
+ch14 the only white person.md: 8/8 ✅
+ch15 mr wizard.md: 8/8 ✅
+ch16 dr york.md: 8/8 ✅
+ch17 the laddy astronot.md: 8/8 ✅
+ch18 control your wife.md: 8/8 ✅
+ch19 age of anxiety.md: 8/8 ✅
+ch20 paper wings.md: 8/8 ✅
+ch21 the mud pie incident.md: 8/8 ✅
+ch22 the farm.md: 8/8 ✅
+ch23 the bar mitzvah.md: 8/8 ✅
+ch24 brittle.md: 7/7 ✅（另有 1 条短引语未校验）
+ch25 the testimony.md: 8/8 ✅
+ch26 the bomber.md: 8/8 ✅
+ch27 aunt esther.md: 8/8 ✅
+ch28 the list.md: 8/8 ✅
+ch29 the waiting line.md: 8/8 ✅
+ch30 why you.md: 8/8 ✅
+ch31 publicity stunt.md: 8/8 ✅
+ch32 ascan.md: 8/8 ✅
+ch33 the dunker.md: 8/8 ✅
+ch34 b-mag.md: 8/8 ✅
+ch35 blackmail.md: 8/8 ✅
+ch36 bone spurs.md: 8/8 ✅
+ch37 the new cm.md: 7/7 ✅（另有 1 条短引语未校验）
+ch38 we were lady astronauts.md: 8/8 ✅
+ch39 the official astronaut.md: 8/8 ✅
+ch40 historical note.md: 10/10 ✅
+
+⚠️ 全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 343/343 引文可核实（100%）；完全干净文件 41/41；正文章节 0 提取 0；总览 0 提取转交 1 ===
+## ①b verify_quotes --full
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 343/343 引文可核实（100%）；完全干净文件 41/41；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+## ② check_vocab
+--- FAIL (0) ---
+--- WARN (92) ---
+92
+## ③ check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+## ④ corruption_scan
+
+=== 编辑损坏扫描（the-calculating-stars-by-mary-robinette-kowal）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+## ⑤ sweep_full
+=== 引语整串 flat 比对（the-calculating-stars-by-mary-robinette-kowal）===
+  参照集：text/ 逐章（40 章，可定章） + epub 交叉验证
+  ✅ 本章命中 320 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+## ⑤b check_short_quotes
+=== 短引语兜底核对（the-calculating-stars-by-mary-robinette-kowal）===
+  verify_quotes 跳过（<20 flat 字符）的引语：3 条 —— 这些主门禁**根本没查**
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核

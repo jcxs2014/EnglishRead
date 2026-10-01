@@ -57,7 +57,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：本章的解药。作者让 Nathaniel 用两句不可辩驳的事实终止自我审判：末日已过（她活下来了），以及她已经是（她自己最想要的那个身份）。
 
-**读者视角提示**：「lady astronaut」在此完成从贬义到勋章的转换——这个词最后一次在她嘴里是屈辱，此刻是誓词。
+**读者视角提示**：「lady astronaut」在此完成从贬义到勋章的转换——这个词不在她嘴里，而在 Clemons 的介绍里，此刻是誓词。
 
 
 > **原句 5:** “But. There are members of Congress—and, in fact, of the UN—who only respond to questions of military threat. So if having a military component to the missions is useful in getting funding and keeping the program going, then that’s what my husband will do.”
@@ -79,7 +79,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：全书的一句箴言式台词。作者把「stories」一词从宣传贬到政治的本质：国家不讲道理，只讲版本。
 
-**读者视角提示**：这句话与 ch39 的温室效应工程形成最冷的对照——当她发现拯救世界的方案同样要靠「故事」说服人时，讽刺就变成了自嘲。
+**读者视角提示**：这句话与本章她自己那段温室效应论证形成最冷的对照——当她发现拯救世界的方案同样要靠「故事」说服人时，讽刺就变成了自嘲。
 
 
 > **原句 7:** “Same old story. Just another chapter.” She stood up and stretched. “I’d better call it a night.”

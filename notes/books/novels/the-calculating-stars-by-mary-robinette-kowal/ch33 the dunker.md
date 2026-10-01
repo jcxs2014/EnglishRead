@@ -66,9 +66,9 @@ modified: "2026-10-01"
 
 **关键词**：wearing a bikini, but I’m a goddamned pilot（穿着比基尼，可我是个他妈的飞行员）
 
-**为什么这样写**：本章的转折点。作者让一个海军下士主动把测试从模拟升级为真实——「认真做」这四个字是女性候选人在本章唯一一次主动索取的特权，而且它用技术理由而非愤怒换来的。
+**为什么这样写**：本章的转折点。作者让那位海军军官的一句提问把测试从模拟升级为真实——「认真做」这四个字是女性候选人在本章唯一一次主动索取的特权，而且它用技术理由而非愤怒换来的。
 
-**读者视角提示**：「goddamned pilot」与 Betty 的「dames」并置：同一个更衣室，两种对女性飞行员的想象。
+**读者视角提示**：「goddamned pilot」与那位军官嘴里的「dames」并置：同一个铁笼旁，两种对女性飞行员的想象。
 
 
 > **原句 6:** Panic did no good. I ground my teeth together and put my hands on my shoulders. There. The rough canvas of the shoulder harness was dead easy to find against my skin. In a flight suit, I used to have to fumble a bit.
@@ -90,7 +90,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：赛后第一反应是拆解纪录。作者让她在胜利的瞬间先做工程学免责——这份克制既是科学训练，也是她在舆论场学会的防御姿态。
 
-**读者视角提示**：对照 Jacira 的第一反应（用葡萄牙语骂人）与 Betty 的第一反应（被记者围住），三个人各有各的赛后程序。
+**读者视角提示**：对照 Jacira 的第一反应（用葡萄牙语骂人）与 Betty 的第一反应（被记者围住），三个人各有各的下水前的程序。
 
 
 > **原句 8:** But that was science, and science wasn’t what they wanted from me.

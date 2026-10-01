@@ -35,7 +35,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：拉比的布道给全书提供了一副骨架：灾难不是一个事件，是一条要跨过去的线。“What do you do after you cross that threshold?” 与 Elma 的选择（算、飞、申请）构成问答——本章标题「第一轮筛选」落选，正是她「之后」的答卷之一。
 
-**读者视角提示**：记住 Before and After 这对大写词——本书的章节 frequently 以某个「之后」开头（下一章的时间跳跃就是一道门槛）。
+**读者视角提示**：记住 Before and After 这对大写词——本书的章节常常以某个「之后」开头（下一章的时间跳跃就是一道门槛）。
 
 
 > **原句 3:** Outside the synagogue, bells began to sound across the city. Probably across the country, and maybe across the planet. I didn’t have to look at my watch. 9:53 a.m.
@@ -66,7 +66,7 @@ modified: "2026-10-01"
 
 **关键词**：did not select any women. At all.（一个女性都没选。一个都没有。）
 
-**为什么这样写**：本章的引爆句。作者让消息由丈夫口述、在巴士站牌下说完——公开名单还没发布，她提前四天知道自己落选，且不是输给了谁：根本没被允许参赛。
+**为什么这样写**：本章的引爆句。作者让消息由丈夫口述、在巴士站牌下说完——公开名单还没发布，她提前知道自己落选，且不是输给了谁：根本没被允许参赛。
 
 **读者视角提示**：「At all.」的重复是愤怒的节拍器——下一场飞行俱乐部的戏，整场都是它的回声。
 

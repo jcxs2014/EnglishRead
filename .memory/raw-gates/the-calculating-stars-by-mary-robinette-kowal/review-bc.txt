@@ -1,0 +1,66 @@
+# REVIEW b/c 步 2026-10-01 15:56 UTC
+## b 逐章归属（单章模式逐个跑）
+ch01 the meteor hits.md: 8/8 in ch01 text
+ch02 the airblast.md: 8/8 in ch02 text
+ch03 forced landing.md: 8/8 in ch03 text
+ch04 the phone call.md: 8/8 in ch04 text
+ch05 meteor refugee.md: 8/8 in ch05 text
+ch06 sitting shiva.md: 8/8 in ch06 text
+ch07 extinction event.md: 8/8 in ch07 text
+ch08 the wrong problem.md: 8/8 in ch08 text
+ch09 colonize outer space.md: 8/8 in ch09 text
+ch10 first man in space.md: 8/8 in ch10 text
+ch11 the first cut.md: 8/8 in ch11 text
+ch12 operation ladies first.md: 8/8 in ch12 text
+ch13 the messerschmitts.md: 8/8 in ch13 text
+ch14 the only white person.md: 8/8 in ch14 text
+ch15 mr wizard.md: 8/8 in ch15 text
+ch16 dr york.md: 8/8 in ch16 text
+ch17 the laddy astronot.md: 8/8 in ch17 text
+ch18 control your wife.md: 8/8 in ch18 text
+ch19 age of anxiety.md: 8/8 in ch19 text
+ch20 paper wings.md: 8/8 in ch20 text
+ch21 the mud pie incident.md: 8/8 in ch21 text
+ch22 the farm.md: 8/8 in ch22 text
+ch23 the bar mitzvah.md: 8/8 in ch23 text
+ch24 brittle.md: 7/7 in ch24 text（另有 1 条短引语未校验）
+ch25 the testimony.md: 8/8 in ch25 text
+ch26 the bomber.md: 8/8 in ch26 text
+ch27 aunt esther.md: 8/8 in ch27 text
+ch28 the list.md: 8/8 in ch28 text
+ch29 the waiting line.md: 8/8 in ch29 text
+ch30 why you.md: 8/8 in ch30 text
+ch31 publicity stunt.md: 8/8 in ch31 text
+ch32 ascan.md: 8/8 in ch32 text
+ch33 the dunker.md: 8/8 in ch33 text
+ch34 b-mag.md: 8/8 in ch34 text
+ch35 blackmail.md: 8/8 in ch35 text
+ch36 bone spurs.md: 8/8 in ch36 text
+ch37 the new cm.md: 7/7 in ch37 text（另有 1 条短引语未校验）
+ch38 we were lady astronauts.md: 8/8 in ch38 text
+ch39 the official astronaut.md: 8/8 in ch39 text
+ch40 historical note.md: 10/10 in ch40 text
+## c audit_structure
+=== 精读结构扫描（the-calculating-stars-by-mary-robinette-kowal）===
+  扫 43 个 md、362 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+## c check_struct_indep（第二实现）
+  ❌ ch40 historical note.md: [nonfiction] 引语 1: 子项「表达方式」出现 0 次（须恰 1）
+  ❌ ch40 historical note.md: [nonfiction] 引语 2: 子项「表达方式」出现 0 次（须恰 1）
+  ❌ ch40 historical note.md: [nonfiction] 引语 3: 子项「表达方式」出现 0 次（须恰 1）
+  ❌ ch40 historical note.md: [nonfiction] 引语 4: 子项「表达方式」出现 0 次（须恰 1）
+  ❌ ch40 historical note.md: [nonfiction] 引语 5: 子项「表达方式」出现 0 次（须恰 1）
+  ❌ ch40 historical note.md: [nonfiction] 引语 6: 子项「表达方式」出现 0 次（须恰 1）
+  ❌ ch40 historical note.md: [nonfiction] 引语 7: 子项「表达方式」出现 0 次（须恰 1）
+  ❌ ch40 historical note.md: [nonfiction] 引语 8: 子项「表达方式」出现 0 次（须恰 1）
+  ❌ ch40 historical note.md: [nonfiction] 引语 9: 子项「表达方式」出现 0 次（须恰 1）
+  ❌ ch40 historical note.md: [nonfiction] 引语 10: 子项「表达方式」出现 0 次（须恰 1）
+=== 独立结构扫描：40 个 md，缺陷 10 处 ===
+## c check_overview_full
+=== 总览整串核查（the-calculating-stars-by-mary-robinette-kowal）===
+  参照集：text/ 逐章（40 章） ｜ 总览文件 3 个
+  A 整串：命中 20 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 7
+  B 章节标签：对 16 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 4 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 3 ｜ 不符 0（**只报不判红**）｜ 跳过 17
+  C 跨章多重命中：0 ｜ E H1 语义错配：0

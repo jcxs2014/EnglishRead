@@ -11,7 +11,7 @@ modified: "2026-10-01"
 - **视角**：第一人称；听证会的公共羞辱与午餐会的私人互认构成双联画，末段第一次走进治疗室。
 - **情感弧线位置**：求援成行——从「我不能」到「我哭了」，求助被重新定义为勇敢而非失败。
 - **人物弧线**：Nicole 的政治夫人生存学（ conceal/medicate/fight）全盘托出；Mason 与 Nathaniel 分别代表制度的不信与家庭的保护性错误；Haddad 医生以一间客厅似的诊室登场。
-- **叙事手法**：听证会喜剧（复读句、柠檬脸）垫住午餐会的重量；「brittle」一词统摄全章；章末四字收束。
+- **叙事手法**：听证会喜剧（复读句、柠檬脸）垫住午餐会的重量；「brittle」一词统摄全章；章末三词收束。
 
 ## 精读
 
@@ -31,7 +31,7 @@ modified: "2026-10-01"
 
 **中文理解**：「『Helen 是中国人。』他一边整理文件，一边回答 Clemons 关于靶场安全官职责的提问。」
 
-**关键词**：Helen is Chinese（Helen 是中国人）/ Taiwanese（台湾人）
+**关键词**：Helen is Chinese（Helen 是中国人）/ range safety officer’s duties（靶场安全官职责）
 
 **为什么这样写**：她提议让写程序的 Helen 出庭，Nathaniel 的回答只有一句现实的残酷。作者不安排争吵——她纠正「Taiwanese」，两人都明白：问题不是国籍，是口音会替听众关上门。
 
@@ -51,13 +51,13 @@ modified: "2026-10-01"
 
 > **原句 4:** Your clothes are loose, so … Not eating. Foundation is heavier under your eyes, so … Not sleeping. Probably barely talking outside the chamber.”
 
-**中文理解**：「『衣服松了，所以……没吃饭。眼部粉底更厚，所以……没睡觉。休会之外，你们八句话都说不上一句。』」
+**中文理解**：「『衣服松了，所以……没吃饭。眼部粉底更厚，所以……没睡觉。在议院外面大概也很少开口。』」
 
 **关键词**：Not eating. Not sleeping.（没吃饭。没睡觉。）
 
 **为什么这样写**：社会名媛的体检报告。作者让 Nicole 用最物质的证据（衣服、粉底、沉默）读出这对夫妻的耗竭——比任何心理量表都快。
 
-**读者视角提示**：这份清单也是对读者 earlier 章节的对账：她的症状一路都被记录在衣物与妆容里。
+**读者视角提示**：这份清单也是对读者早先章节的对账：她的症状一路都被记录在衣物与妆容里。
 
 
 > **原句 5:** “I am not an astronaut!” My voice cut through the low hum of conversation around us. Wealthy and powerful people turned to stare. What must they think? Bending my head, I applied myself to the martini and let the cold burn of the gin distract me.
@@ -99,9 +99,9 @@ modified: "2026-10-01"
 
 **关键词**：And I wept.（我哭了。）
 
-**为什么这样写**：章末四字。作者让全章的咨询、酒精与共情在一句里决堤——不是崩溃（ch18 那种），是被接住之后的安全的哭。这一次，眼泪没有羞耻随行。
+**为什么这样写**：章末三词。作者让全章的咨询、酒精与共情在一句里决堤——不是崩溃（ch18 那种），是被接住之后的安全的哭。这一次，眼泪没有羞耻随行。
 
-**读者视角提示**：四字收章与 ch23 的重句形成对比：本书的收束句越来越短，因为信任越来越长。
+**读者视角提示**：三词收章与 ch23 的重句形成对比：本书的收束句越来越短，因为信任越来越长。
 
 ## 本章词汇
 
