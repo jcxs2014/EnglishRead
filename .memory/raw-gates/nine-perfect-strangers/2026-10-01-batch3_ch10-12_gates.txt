@@ -1,0 +1,62 @@
+=== batch3 ch10-ch12 gates (rerun after fixes) 2026-10-01T10:20:21Z ===
+--- verify_quotes ---
+❓ 无法判定：epub 不存在 — notes/books/novels/nine-perfect-strangers-by-liane-moriarty/library/Nine
+   本书无参照集 ⇒ 引语逐字这一层**未检查**，不是「引语有问题」。
+   处置：按 AGENTS 第 3 条 lane 表记「降级 lane」；逐章归属改跑 check_chapter_quotes.py。
+--- check_vocab ---
+  ch10 Heather.md [基础] 基础档疑含超纲词「cholesterol」
+  ch10 Heather.md [基础] 基础档疑含超纲词「terms and conditions」
+  ch11 Frances.md [基础] 基础档疑含超纲词「guided meditation」
+  ch11 Frances.md [基础] 基础档疑含超纲词「menopausal」
+  ch11 Frances.md [基础] 基础档疑含超纲词「chest infection」
+  ch11 Frances.md [基础] 基础档疑含超纲词「near-death experience」
+  ch11 Frances.md [基础] 基础档疑含超纲词「vocabulary」
+  ch12 Zoe.md [基础] 基础档疑含超纲词「chocolate」
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption_scan ---
+
+=== 编辑损坏扫描（nine-perfect-strangers-by-liane-moriarty）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+--- sweep_full ---
+=== 引语整串 flat 比对（nine-perfect-strangers-by-liane-moriarty）===
+  参照集：text/ 逐章（79 章，可定章） + epub 交叉验证
+  ✅ 本章命中 204 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 2 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+  🔶 ch06 Frances.md（ch6）跨标签拼接，各段逐字都在：I didn’t expect to see families doing this r
+  🔶 ch11 Frances.md（ch11）跨标签拼接，各段逐字都在：Frances felt hope rise in the room like a de
+--- check_short_quotes ---
+=== 短引语兜底核对（nine-perfect-strangers-by-liane-moriarty）===
+  verify_quotes 跳过（<20 flat 字符）的引语：2 条 —— 这些主门禁**根本没查**
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+--- audit_structure ---
+=== 精读结构扫描（nine-perfect-strangers-by-liane-moriarty）===
+  扫 12 个 md、208 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 15
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+--- check_anchor ---
+  ch06 Frances.md:32  未锚定 关键词「white uniforms（白色制服）/ both smiling（都在微笑）」中的「uniforms」既不在引语、也不在本块正文
+  ch09 Masha.md:52  未锚定 关键词「the "polite smile"（礼貌的微笑）/ Smile, gone. 」中的「polite」既不在引语、也不在本块正文
+=== 关键词锚定自查（nine-perfect-strangers-by-liane-moriarty）===
+  扫 12 个 md，194 个引语块，194 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（79 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 8 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+--- sweep_analysis_inline ---
+  🟠 ch03 Lars.md:76  「Touch me. Please, please touch me.」→ 内容词 4/4 命中（please/please/touch/touch）——疑漏词或改写
+  🟠 ch05 Ben.md:66  「Look at me! You don’t even look at me anymore!」→ 内容词 4/5 命中（anymore/even/look/look）——疑漏词或改写
+  🟠 ch05 Ben.md:166  「he told her, calmly and without swearing, that driving a」→ 内容词 13/13 命中（calmly/car/catastrophic/consequences）——疑漏词或改写
+  🟠 ch06 Frances.md:36  「It was a beautiful smile: warm and generous.」→ 内容词 4/4 命中（beautiful/generous/smile/warm）——疑漏词或改写
+  🟠 ch06 Frances.md:44  「I'm Yao. I'm your personal wellness consultant.」→ 内容词 4/6 命中（consultant/personal/wellness/yao）——疑漏词或改写
+  🟠 ch08 Frances.md:42  「tip over」→ 内容词 1/1 命中（tip）——疑漏词或改写
+  🟠 ch08 Frances.md:114  「I wasn't strictly true. Her second husband hit her once.」→ 内容词 6/8 命中（cried/hit/husband/second）——疑漏词或改写
+  🟠 ch11 Frances.md:328  「She wondered if the place might be haunted by their tort」→ 内容词 5/5 命中（haunted/place/spirits/tortured）——疑漏词或改写
+--- check_overlap_phrases ---
+/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_overlap_phrases.py': [Errno 2] No such file or directory
+--- check_chapter_quotes ---
+⚠️  全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 206，命中本章 206（100%）
+✅ 全部引语均归属正确章节
