@@ -1,0 +1,186 @@
+# 原始门禁输出 —— notes/books/non-fiction/the-highly-sensitive-persons-survival-guide-by-ted-zeff
+# 批次: batch04-ch09   时间: 2026-10-01 20:12 UTC   身份: ZCode-Mac
+# lane: 完整 lane（library/ 有 epub）
+
+===== verify_quotes.py（引语逐字） =====
+ch01 foreword.md: 9/9 ✅
+ch02 preface.md: 10/10 ✅
+ch03 an introduction to being an hsp.md: 10/10 ✅
+ch04 preparing for overstimulation in your daily life.md: 10/10 ✅
+ch05 calm the senses and cope with time pressure.md: 10/10 ✅
+ch06 maintaining a healthy body.md: 10/10 ✅
+ch07 sleepless no more a program for better sleep.md: 10/10 ✅
+ch08 harmonious relationships for the hsp.md: 10/10 ✅
+ch09 creating a peaceful work environment.md: 10/10 ✅
+ch10 nurturing the hsp soul.md: 10/10 ✅
+ch11 answering common questions from hsps.md: 10/10 ✅
+ch12 choosing the right healer for you.md: 10/10 ✅
+
+=== 总计 119/119 引文可核实（100%）；完全干净文件 12/12；正文章节 0 提取 0；总览 0 提取转交 0 ===
+EXIT=0
+
+===== verify_quotes.py --full（仅取证） =====
+ch01 foreword.md: 9/9 ✅
+ch02 preface.md: 10/10 ✅
+ch03 an introduction to being an hsp.md: 10/10 ✅
+ch04 preparing for overstimulation in your daily life.md: 10/10 ✅
+ch05 calm the senses and cope with time pressure.md: 10/10 ✅
+ch06 maintaining a healthy body.md: 10/10 ✅
+ch07 sleepless no more a program for better sleep.md: 10/10 ✅
+ch08 harmonious relationships for the hsp.md: 10/10 ✅
+ch09 creating a peaceful work environment.md: 10/10 ✅
+ch10 nurturing the hsp soul.md: 10/10 ✅
+ch11 answering common questions from hsps.md: 10/10 ✅
+ch12 choosing the right healer for you.md: 10/10 ✅
+
+=== 总计 119/119 引文可核实（100%）；完全干净文件 12/12；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+EXIT=0
+
+===== check_vocab.py（词表） =====
+词条行合计: 491
+
+--- FAIL (0) ---
+
+--- WARN (51) ---
+  ch01 foreword.md [基础] 基础档疑含超纲词「sensitive」
+  ch01 foreword.md [基础] 基础档疑含超纲词「attention」
+  ch02 preface.md [基础] 基础档疑含超纲词「sensitive」
+  ch02 preface.md [基础] 基础档疑含超纲词「population」
+  ch02 preface.md [基础] 基础档疑含超纲词「difficult」
+  ch02 preface.md [基础] 基础档疑含超纲词「questions」
+  ch03 an introduction to being an hsp.md [基础] 基础档疑含超纲词「sensitive」
+  ch03 an introduction to being an hsp.md [基础] 基础档疑含超纲词「environment」
+  ch04 preparing for overstimulation in your daily life.md [进阶] 例句不含词头「meditation」
+  ch04 preparing for overstimulation in your daily life.md [进阶] 例句不含词头「reduce」
+  ch04 preparing for overstimulation in your daily life.md [基础] 基础档疑含超纲词「stimulation」
+  ch04 preparing for overstimulation in your daily life.md [基础] 基础档疑含超纲词「environment」
+  ch04 preparing for overstimulation in your daily life.md [基础] 基础档疑含超纲词「protected」
+  ch05 calm the senses and cope with time pressure.md [基础] 例句不含词头「noise」
+  ch05 calm the senses and cope with time pressure.md [基础] 例句不含词头「stress」
+  ch05 calm the senses and cope with time pressure.md [基础] 例句不含词头「pressure」
+  ch06 maintaining a healthy body.md [基础] 基础档疑含超纲词「processed foods」
+  ch06 maintaining a healthy body.md [基础] 基础档疑含超纲词「allergies」
+  ch06 maintaining a healthy body.md [基础] 基础档疑含超纲词「allergist」
+  ch07 sleepless no more a program for better sleep.md [高级] 例句不含词头「sedative」
+  ch07 sleepless no more a program for better sleep.md [基础] 基础档疑含超纲词「relaxation」
+  ch07 sleepless no more a program for better sleep.md [基础] 基础档疑含超纲词「meditation」
+  ch08 harmonious relationships for the hsp.md [基础] 基础档疑含超纲词「companions」
+  ch08 harmonious relationships for the hsp.md [基础] 例句不含词头「blame」
+  ch08 harmonious relationships for the hsp.md [基础] 基础档疑含超纲词「colleague」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「environment」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「sensitive」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「challenging」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「colleagues」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「meditation」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「stretching」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「supervisor」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「meditating」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「assignments」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「comfortable chair」
+  ch09 creating a peaceful work environment.md [基础] 基础档疑含超纲词「employees」
+  ch10 nurturing the hsp soul.md [基础] 基础档疑含超纲词「spiritual」
+  ch10 nurturing the hsp soul.md [基础] 基础档疑含超纲词「overloaded」
+  ch10 nurturing the hsp soul.md [基础] 基础档疑含超纲词「awareness」
+  ch10 nurturing the hsp soul.md [基础] 基础档疑含超纲词「disappointed」
+  ch11 answering common questions from hsps.md [基础] 基础档疑含超纲词「neighbors」
+  ch11 answering common questions from hsps.md [基础] 例句不含词头「neighbors」
+  ch11 answering common questions from hsps.md [基础] 基础档疑含超纲词「lifestyle」
+  ch11 answering common questions from hsps.md [基础] 基础档疑含超纲词「complained」
+  ch11 answering common questions from hsps.md [基础] 基础档疑含超纲词「challenging」
+  ch11 answering common questions from hsps.md [基础] 例句不含词头「roommate」
+  ch11 answering common questions from hsps.md [基础] 基础档疑含超纲词「compromise」
+  ch12 choosing the right healer for you.md [基础] 基础档疑含超纲词「therapies」
+  ch12 choosing the right healer for you.md [基础] 基础档疑含超纲词「supplements」
+  ch12 choosing the right healer for you.md [基础] 基础档疑含超纲词「fragrances」
+  ch12 choosing the right healer for you.md [基础] 基础档疑含超纲词「practitioner」
+EXIT=0
+
+===== check_entities.py（实体） =====
+=== 实体一致性检测：0 个文件存在未知实体 ===
+EXIT=0
+
+===== corruption_scan.py（编辑损坏） =====
+
+=== 编辑损坏扫描（the-highly-sensitive-persons-survival-guide-by-ted-zeff）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+EXIT=0
+
+===== sweep_full.py（整串 flat） =====
+=== 引语整串 flat 比对（the-highly-sensitive-persons-survival-guide-by-ted-zeff）===
+  参照集：text/ 逐章（12 章，可定章） + epub 交叉验证
+  ✅ 本章命中 119 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+EXIT=0
+
+===== check_chapter_quotes.py（逐章归属） =====
+全章扫描: 解析引语块 119，命中本章 119（100%）
+✅ 全部引语均归属正确章节
+EXIT=0
+
+===== check_short_quotes.py（短引语兜底） =====
+=== 短引语兜底核对（the-highly-sensitive-persons-survival-guide-by-ted-zeff）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+EXIT=0
+
+===== audit_structure.py（结构扫描） =====
+=== 精读结构扫描（the-highly-sensitive-persons-survival-guide-by-ted-zeff）===
+  扫 12 个 md、119 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+EXIT=0
+
+===== audit_numbers.py（计数断言·抽查） =====
+=== 计数断言核查（the-highly-sensitive-persons-survival-guide-by-ted-zeff）===
+  扫 12 个 md；抓到断言 11 条（含不可机械核查的年龄/百分比 2 条）
+  词数口径：连写算 1 词（`well-known`=2、`don't`=1）—— 差 1 极可能是口径而非错误
+  ❌ 不符（差 ≥2）0 ｜ ⚠️ 差 1 0 ｜ ❓ 参照串未解析未判 9 ｜ ⚪ 不可机械核查 2
+EXIT=0
+
+===== sweep_analysis_inline.py（分析层·抽查） =====
+=== 分析层行内英文逐字核查（the-highly-sensitive-persons-survival-guide-by-ted-zeff）===
+  参照集：text/（14 个提取件） + epub 交叉验证 ；扫 12 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：658 个表格行、508 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 551 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 23
+EXIT=0
+
+===== check_anchor.py（关键词锚定·抽查） =====
+  ch12 choosing the right healer for you.md:153  未锚定 关键词「coming to an end / journey toward inner 」中的「inner」既不在引语、也不在本块正文
+  ch12 choosing the right healer for you.md:153  未锚定 关键词「coming to an end / journey toward inner 」中的「peace」既不在引语、也不在本块正文
+=== 关键词锚定自查（the-highly-sensitive-persons-survival-guide-by-ted-zeff）===
+  扫 12 个 md，119 个引语块，119 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（14 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 2 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+EXIT=0
+
+===== check_block_keywords.py（引语覆盖度） =====
+  ❌ ch01 foreword.md: 结构对账失败 —— `## 本章词汇` 出现 0 次（应为 1）
+  ❌ ch01 foreword.md: 引语块 9 个，超出言情精简格式的 3–8 配额
+  ❌ ch02 preface.md: 结构对账失败 —— `## 本章词汇` 出现 0 次（应为 1）
+  ❌ ch02 preface.md: 引语块 10 个，超出言情精简格式的 3–8 配额
+  ❌ ch03 an introduction to being an hsp.md: 结构对账失败 —— `## 本章词汇` 出现 0 次（应为 1）
+  ❌ ch03 an introduction to being an hsp.md: 引语块 10 个，超出言情精简格式的 3–8 配额
+  ❌ ch04 preparing for overstimulation in your daily life.md: 结构对账失败 —— `## 本章词汇` 出现 0 次（应为 1）
+  ❌ ch04 preparing for overstimulation in your daily life.md: 引语块 10 个，超出言情精简格式的 3–8 配额
+  ❌ ch05 calm the senses and cope with time pressure.md: 结构对账失败 —— `## 本章词汇` 出现 0 次（应为 1）
+  ❌ ch05 calm the senses and cope with time pressure.md: 引语块 10 个，超出言情精简格式的 3–8 配额
+  ❌ ch06 maintaining a healthy body.md: 结构对账失败 —— `## 本章词汇` 出现 0 次（应为 1）
+  ❌ ch06 maintaining a healthy body.md: 引语块 10 个，超出言情精简格式的 3–8 配额
+  ❌ ch07 sleepless no more a program for better sleep.md: 结构对账失败 —— `## 本章词汇` 出现 0 次（应为 1）
+  ❌ ch07 sleepless no more a program for better sleep.md: 引语块 10 个，超出言情精简格式的 3–8 配额
+  ❌ ch08 harmonious relationships for the hsp.md: 结构对账失败 —— `## 本章词汇` 出现 0 次（应为 1）
+  ❌ ch08 harmonious relationships for the hsp.md: 引语块 10 个，超出言情精简格式的 3–8 配额
+  ❌ ch09 creating a peaceful work environment.md: 结构对账失败 —— `## 本章词汇` 出现 0 次（应为 1）
+  ❌ ch09 creating a peaceful work environment.md: 引语块 10 个，超出言情精简格式的 3–8 配额
+  ❌ ch10 nurturing the hsp soul.md: 结构对账失败 —— `## 本章词汇` 出现 0 次（应为 1）
+  ❌ ch10 nurturing the hsp soul.md: 引语块 10 个，超出言情精简格式的 3–8 配额
+  ❌ ch11 answering common questions from hsps.md: 结构对账失败 —— `## 本章词汇` 出现 0 次（应为 1）
+  ❌ ch11 answering common questions from hsps.md: 引语块 10 个，超出言情精简格式的 3–8 配额
+  ❌ ch12 choosing the right healer for you.md: 结构对账失败 —— `## 本章词汇` 出现 0 次（应为 1）
+  ❌ ch12 choosing the right healer for you.md: 引语块 10 个，超出言情精简格式的 3–8 配额
+  ❌ ch12 choosing the right healer for you.md 原句10: 关键词不在本块引语内 → ['journey toward inner peace']
+=== 引语块覆盖度：12 个 md，问题 25 处 ===
+EXIT=1
