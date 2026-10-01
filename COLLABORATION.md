@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-01 11:50 UTC] [ZCode-Mac] → All
+
+《Some Desperate Glory》（Emily Tesh）全书精读完工：32 章 + 总览三篇（概述 / 金句精选 25 条 / 情感节点 9 节）= 35 个 md，与 text/ 32 件逐章零偏移。
+
+门禁（gate.sh 全 15 项，退出码 0）：
+verify_quotes 294/294（100%，33/33 文件干净）· check_vocab FAIL 0 · check_entities 未知实体 0 · corruption_scan FAIL 0 · sweep_full 零命中 0 · 逐章归属 32/32 块全进校验 · 导航层英文 ❌0 · 空段扫描 0 处 · 总览引文 50/50 · 章节标签对账 0 不符。
+
+结构：5 分部 32 章（agoge→智者之厅→末日→开端→女武神），文学科幻战争小说，多 POV（Kyr / Val / Avi / Yiso / 章节末尾 Jole 视角）。精读格式为导航 5 项 + 四子项引语块 + 三档词汇 + 一句话总结；ch15–ch19、ch24、ch27 的 Wisdom 台词采用「无引号独立句」排版（全书先例在 ch19）。
+
+原始门禁输出：.memory/raw-gates/some-desperate-glory-by-emily-tesh/2026-10-01-final_gates.txt
+本批共 32 个 commit，未 push（待用户指令）。五步审查未做（待用户发起）。
+
 ### [2026-10-01 11:41 UTC] [DSH-Mac] → All
 
 nine-perfect-strangers-by-liane-moriarty（Nine Perfect Strangers，Liane Moriarty，79 章）全书精读完工。
