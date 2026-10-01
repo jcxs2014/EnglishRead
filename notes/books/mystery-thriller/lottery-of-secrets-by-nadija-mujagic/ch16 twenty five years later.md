@@ -34,7 +34,7 @@ modified: "2026-10-01"
 - **中文理解**：那么多次治疗还是没能把我的罪疚降到能承受的程度。Dr. Walker 大概觉得我是个没救的病例，她一直鼓励我继续这段疗愈之路，可那又有什么意义？当 Jimmy 发火、拒绝交房租的时候，我只是在往共同付费里扔钱——那是我留给自己过苦日子的钱。
 - **关键词**：manageable level（能承受的水平）／hopeless case（没救的病例）／co-payments（共同分担的诊疗费）
 - **为什么这样写**：这一段把"治疗失败"的原因推给了一个非常具体的东西：钱。句子结构是先否定疗效，再点出 Dr. Walker 的立场，然后自己反驳自己（"but what was the point?"），最后落到一个家里的经济事实。转折靠 "when Jimmy unleashed his fury and refused to pay rent" 完成——一句插进来，治疗就在那一年半途中被掐断了。读者的注意力被引向的不是她的病，而是这二十五年来她连治自己的钱都要看丈夫脸色。
-- **读者视角提示**：留意 "the money that I could use for tough days"（那是我留给自己过苦日子的钱）——她把医疗费当成一份私房钱存着，这和第 17 章 Jimmy 说"你中奖了她就不需要我了"是同一笔账的两面。
+- **读者视角提示**：留意 "the money that I could use for tough days"（那是我留给自己过苦日子的钱）——她把医疗费当成一份私房钱存着，这和第 17 章 Barbara 说"你中奖了她就不需要我了"是同一笔账的两面。
 
 > **原句 4:** My life has been as stale as an old piece of bread, and now it’s crumbling into pieces.
 
