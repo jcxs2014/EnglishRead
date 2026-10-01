@@ -73,7 +73,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** Pipra 先用「不是对谁都危险」把危险收窄成一个特定对象，再用 allegedly 把这份来源传说标记成未经证实的传闻。她给信息给得极准，语气又极不像在交情报——正因如此，那个对象才不会被听者当场对上号。
 
-**读者视角提示：** 这一句把「自己父亲的牙」这层事实交给读者，而当事人在同一段里还只当它是一件需要郑重摆放的展品。
+**读者视角提示：** 这一句只把「它」悬在那里，没有说是谁；紧接着的下一段里 Pipra 才点出那个「口中」的主人。而同一处，当事人还只当那颗牙是一件需要郑重摆放的展品。
 
 > **原句 7:** "The art of the coconut leaf is about semblance, a magic of sympathy and evocation. Everything made from them is a seeming, a mimicry of a real object that evokes its symbolic function in a fleeting, biodegradable form. A seeming-canopy evokes shelter without providing it; a seeming-spear evokes protection without the capability for violence; seeming-fences represent boundaries without enforcing them."
 

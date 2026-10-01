@@ -8,7 +8,7 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **一句话概括**：城里的烟柱同时标出火葬场与杀人现场；Fetter 上街看见一个 Behinder 僧人当街自焚，信众接过他的口号喊了起来，他却在人群外围听到四种互相矛盾的解释；接着他一边躲着那场大规模屠杀的主干道，一边数清它的指挥网络，也数清自己为什么迟迟没有被捕；Koel 的住处、Caduv 的公寓、Hej 的大门全部落空，Hej 当年那次耸肩的旧账被重新翻出来；一辆把车顶涂成反光材料的车把他带走，Ulpe 承认他们一直看着他却不敢靠近；最后在 White Teak 的藏身处，Caduv 当面把话挑明——他这个父亲保着的独子不值得他们去救——而 Fetter 承认当初那句「我再也不杀人」是撒谎。
-- **情感弧线位置**：灾难全面铺开的一段——从街上的人群与传闻，转入三个门都敲不开的孤立，再转入同伴当面否定，最后落在他主动把自己交出去的一句话上。
+- **情感弧线位置**：灾难全面铺开的一段——从街上的人群与传闻，转入三处门都敲不开的孤立（Koel 的住处、Caduv 的公寓、Hej 那扇锁着的门），再转入同伴当面否定，最后落在他主动把自己交出去的一句话上。
 - **人物弧线**：Fetter 从一个只想低调活着、随时准备绕开麻烦的人，变成肯为别人的事业出力的人；中间他被旧同伴当面排除，也不得不承认自己的宽大释放并非自己挣来的功劳；这一段的终点是他放弃辩解，主动承认自己说过谎。
 - **叙事手法**：场景接力的第三人称限制：街上的人群、火葬场与自家公寓、商场废墟、车内、藏身处。信息量大的部分交给转述式对话，交代组织失败的原因与 Magellan 的作案方式，并让人物互相打断；叙述者始终只听见声音，看不见计划的全貌。
 - **视角**：第三人称限制，随 Fetter 贴附。Ulpe 的过往、Koel 与 Caduv 的计划都只由他听见；Caduv 提到的那次已经发生或即将发生的行动、Ulpe 逐个火堆追找的那个人，叙述者到最后也没弄明白。
@@ -17,7 +17,7 @@ modified: "2026-10-01"
 
 > **原句 1:** "There comes a point where pillars of smoke mark the city’s crematoria as much as sites of murder. The crematoria are overloaded with victims of the plague. There are queues, and protestors flanking the queues, the bereaved whose traditions demand burial in earth or sky, both forbidden during the White Year by special gazette from the Storm Court: they found a way to make mourning a fresh injury."
 
-**中文理解：** 到某个时候，那些烟柱标出的地方既可以是火葬场，也就是杀人现场。火葬场里堆着瘟疫的死者。队伍排着，队伍两旁站着抗议者；那些按传统必须把死者埋进土里或送进天上的哀亲，两条路都被白色之年的特令封死，于是他们找到了一种办法，让哀悼本身变成一处新伤口。那片死白背后是火，是你直视裸焰时会看见的那些红与黄：袍子、纵火、火堆与血。
+**中文理解：** 到某个时候，那些烟柱标出的地方，火葬场和杀人现场占的是同样的分量。火葬场里堆着瘟疫的死者。队伍排着，队伍两旁站着抗议者；那些按传统必须把死者埋进土里或送进天上的哀亲，两条路都被白色之年的特令封死，于是他们找到了一种办法，让哀悼本身变成一处新伤口。那片死白背后是火，是你直视裸焰时会看见的那些红与黄：袍子、纵火、火堆与血。
 
 **关键词：** pillars of smoke mark the city’s crematoria, as much as sites of murder, make mourning a fresh injury
 
@@ -61,7 +61,7 @@ modified: "2026-10-01"
 
 **关键词：** by the upper arm, like a cop, the same grabbing posture, the fingers like a claw
 
-**为什么这样写：** 抓人这个动作被写成一个普通警察的日常动作（抓上手臂），而全段没有一处交代他是怎么到的、多快；唯一留下的细节是抓完以后悬在空中的那只手，人已经不在，姿势还在。
+**为什么这样写：** 抓人这个动作被写成一个普通警察的日常动作（抓上手臂），而全段没有一处交代他是怎么到的、多快；留下来的细节只有抓完以后悬在空中的那只手，人已经不在，姿势还在。
 
 **读者视角提示：** 「像警察」这个比喻把一个不可理解的力量拉回读者熟悉的执法动作里，也顺手把它写成了这套秩序自己的一部分。
 
@@ -81,9 +81,9 @@ modified: "2026-10-01"
 
 **关键词：** I lied, I want to help, there are things I want to make up for
 
-**为什么这样写：** 三个短句递进：先承认，再给理由，最后用一个省略号把「哪些事」整个吞掉。承认在先、解释在后，而解释本身又是空的，于是这句坦白同时是交底和保留。
+**为什么这样写：** 短句逐级递进：先承认，再给理由，最后用一个省略号把「哪些事」整个吞掉。承认在先、解释在后，而解释本身又是空的，于是这句坦白同时是交底和保留。
 
-**读者视角提示：** 上一段他刚被指着鼻子说「你不需要我们」，这里一句「我撒谎了」把那个前提抽掉；这既是认错，也是他第一次主动把自己押上去。
+**读者视角提示：** 上一段他刚被指着鼻子说「你不需要我们」，这里一句「我撒谎了」把那个前提抽掉；这既是认错，也是他主动把自己押上去的那一步。
 
 > **原句 8:** "“Tell me true things,” Koel says, and he does."
 
@@ -93,7 +93,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 全章结束在一句请求加上一个完成式副词上。前面所有人都在说半句话（Ulpe 的那件事、caduv 那次没讲清的行动、Koel 关于失败原因的复盘），到这里才有人开口索要全部实情，而叙述者用一个「他照做了」把交付动作挡在句外，不给内容。
 
-**读者视角提示：** 本章通篇是隔着一层说的：传闻、暗示、转述、被打断的句子；最后一行是全章第一次有人直接提出要听真话，读者却仍然听不到。
+**读者视角提示：** 本章通篇是隔着一层说的：传闻、暗示、转述、被打断的句子；最后一行里终于有人直接开口索要实情，读者却仍然听不到。
 
 ## 本章词汇
 
@@ -122,6 +122,7 @@ modified: "2026-10-01"
 | lockstep | （此处义）齐步；思想上完全同步到容不下分歧的程度 | Now that even skeptics like Coema are formally taking to the Path, there’s a level of ideological lockstep that we’ve not had to deal with before. |
 | maze | （此处义）迷宫；高层公寓与绳索旗缆交叠成的那条开不出去的路线 | Ulpe drives deeper into this maze. |
 | incantations | （此处）咒语；把公司标语和缩写字母读成念咒的那种比喻 | There are vast concrete amphitheatres that Ulpe says are the campuses of tech companies, marked off by giant signs that Fetter has difficulty parsing, acronyms and slogans like incantations. |
+| Behinder | 比欣德派；母亲所传的那套修行理论的名称，本书用它指一个教团 | He hazily remembers his mother’s elucidations of Behinder theory. |
 
 ### ⭐ 基础
 
@@ -133,7 +134,6 @@ modified: "2026-10-01"
 | padlock | 挂锁；Hej 公寓门上那只把整扇门封死的大锁 | but the door, a stolid cage with thick bars and a fine grey mesh, is firmly secured with a huge padlock. |
 | gritty | （此处义）含砂砾的、剌嗓子的；形容那些呛进喉咙的灰 | coughing up the gritty ashes in his throat |
 | tide | （此处义）潮水；把尚未落下的惩罚写成被临时拦住的潮 | He should not take the absence of action against him as an indication that his punishment isn’t all stacking up somewhere, a tide held back only by this dam of circumstance. |
-| acronyms | 首字母缩写；科技公司那些大招牌上他读不懂的字母组合 | There are vast concrete amphitheatres that Ulpe says are the campuses of tech companies, marked off by giant signs that Fetter has difficulty parsing, acronyms and slogans like incantations. |
 
 ## 一句话总结
 
