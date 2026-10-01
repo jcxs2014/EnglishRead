@@ -82,7 +82,7 @@ modified: "2026-10-01"
 | pet names | 爱称、昵称 | I’d started getting used to things like this, pet names and casual displays of affection |
 | batting their eyelashes | 睫毛忽闪（撒娇） | batting their eyelashes at me with a wide, charming smile. |
 | fireworks | 烟花 | listening to Nat’s neighbors set off fireworks |
-| killed it — kill it | 大获成功（口语） | “Also, you’re gonna kill it.” |
+| kill it | 大获成功（口语） | “Also, you’re gonna kill it.” |
 
 ### ⭐ 基础
 
