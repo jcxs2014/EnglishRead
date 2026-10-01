@@ -127,7 +127,7 @@
 
 主脚本 `verify_overview_quotes.py` 在本书只验了 `00_金句精选.md` 的 25 条；`00_概述.md` 与 `00_情感节点.md` 因引语写在 `> ` 行而**一条未验**（⑭ 报「➖ 无引语行」）。
 
-自建 `.tmp_spot/e_overview_qcheck.py` 补齐：
+自建脚本补齐（审查期写在 `.tmp_spot/e_overview_qcheck.py`，**审查后已提升为 `scripts/check_overview_labels.py`**，修了写死的 epub 路径、补了跨书判据与退出码）：
 - 解析 `^> ` 引语行 + `00_金句精选.md` 的 `① ` 编号行（排除「呼应关系」里的纯中文引导句）；
 - 比对端 **import `scripts/verify_quotes.py` 复用其 `flat_alpha()` 与 `epub_flat_text()`**（不自写展平口径）；
 - 三档判据：`✅ 标注章逐字` / `⚠️ 标注与实章不符` / `❌ 全书查无`；非 ✅ 一律进待人判清单。
@@ -199,7 +199,7 @@
 ⑮ check_overview_full  ❌ 查无 0 ｜ 标注与实章不符 0
 ```
 
-外加本次自建：`.tmp_spot/e_overview_qcheck.py` **123 条全绿、待人判 0**；
+外加本次自建（现已 tracked 为 `scripts/check_overview_labels.py`）：**128 条全绿、待人判 0**；
 `check_struct_indep.py` / `check_xref_indep.py` / `check_analysis_indep.py` 三个独立实现全绿（`分析层英文片段 164 条 ✅ 全部逐字命中`）。
 
 ## 缺陷总计
@@ -221,4 +221,4 @@
 2. **d 步用了三个子代理，但它们与我在同一会话上下文里**（subagent_fork 继承本会话已完成的轮次），不是完全冷启动的第三方；我用「子代理结论必须逐条回查原文」来对冲，但无法排除同源偏差。
 3. **e 步的中文散文断言共 356 条 `"…"` + 51 条 `「…」` 片段**：本轮按「高风险模式定向扫」（时间词、计数词、亲属称谓、极值断言、专名、章号区间）覆盖，**不是逐条穷举**。已核验通过的是抽样 + 全部 `chNN` 标注引语；散文里可能仍有未被定向模式命中的失实。
 4. **独立实现只验过 1 本书**（`docs/新书启动模板.md:703` 要求写清）：`check_struct_indep.py` / `check_xref_indep.py` / `check_analysis_indep.py` 的零报警，在这本书上不能外推为「对任何书都灵」。
-5. **同会话内 e 步自建脚本 `.tmp_spot/e_overview_qcheck.py` 只用于本书**，未纳入 `scripts/`，也未在其他书身上验证过；其投毒自证只覆盖了 3 类已知缺陷形态。
+5. ~~e 步自建脚本只用于本书~~ —— **已于审查后解除**：`.tmp_spot/e_overview_qcheck.py` 提升为 `scripts/check_overview_labels.py`，全书 440 本跑通（393 本无 `（chNN）` 标注引语属口径外，正常返回 0；15 本非零是**其他书**的待人判项，本会话未改他人文件）。投毒自证仍只覆盖 3 类已知缺陷形态，且**未接入 `gate.sh`**——接不接是另一个决定。

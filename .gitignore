@@ -127,6 +127,8 @@ notes/books/**/*.DS_Store
 
 scripts/fix_angelic.py
 
+# --- .tmp_spot/ 一次性取证脚本区（审查产物不入库；正式工具提升到 scripts/）---
+.tmp_spot/
 # --- scripts/attic/ 一次性修复/审查脚本（各实例自用，不入库）---
 scripts/attic/
 .box-agent/
