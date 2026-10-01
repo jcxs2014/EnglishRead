@@ -87,7 +87,11 @@ def check(md: Path, book: Path):
             continue
         if sum(1 for p in ps if q in p) != 1:
             out.append(f"{md.name} 原句{num}: 引语跨自然段（拼接红线）")
-        kws = [k.strip() for k in KW_RE.search(chunk).group(1).split("；") if k.strip()] \
+        # ⚠️ 2026-10-01 修正：原实现只按「；」切分，而本库关键词的**通行写法是 ` / `**
+        # （实测跨书抽样：`stunned / flabbergasted / so shocked he'll faint`）⇒ 未命中分隔符的
+        # 整串「a / b / c」被当成**一个**关键词去引语里找，必然查无 ⇒ 7/7 块全假红。
+        # 判据不变（每个关键词须能在本块引语内逐字找到），只是把分隔符补齐。
+        kws = [k.strip() for k in re.split(r"[；;／/]", KW_RE.search(chunk).group(1)) if k.strip()] \
             if KW_RE.search(chunk) else []
         miss = [k for k in kws if k.lower() not in q.lower()]
         if miss:
