@@ -45,7 +45,8 @@ modified: "2026-10-01"
 
 > **原句 5:** Angelofthehouse: Yeah, the bloody key is super-creepy, but what I hate is that the wife is sort of set up to be at fault because she married him for money, which women HAD TO DO back then just to survive, and also because she “disobeys” him by opening the door he told her not to open.
 
-- **中文理解**：（Angelofthehouse 发言）对，那把血淋淋的钥匙确实很瘆人；但我真正恨的是，那个妻子几乎是被安排成有过错的——就因为她为了钱嫁给他，而那个年代的女人为了活下去 HAD TO DO（不得不这么做）；还因为她「违抗」了他，去开那扇他告诉她不许开的门。- **关键词**：she married him for money, which women HAD TO DO back then just to survive／set up to be at fault／disobeys
+- **中文理解**：（Angelofthehouse 发言）对，那把血淋淋的钥匙确实很瘆人；但我真正恨的是，那个妻子几乎是被安排成有过错的——就因为她为了钱嫁给他，而那个年代的女人为了活下去 HAD TO DO（不得不这么做）；还因为她「违抗」了他，去开那扇他告诉她不许开的门。
+- **关键词**：she married him for money, which women HAD TO DO back then just to survive／set up to be at fault／disobeys
 - **为什么这样写**：发言者用两个 because 把「她的错」一条条摆出来，然后卡在 where women HAD TO DO back then just to survive 上。三个全大写的词在句中炸开，那是她唯一一次提高音量。而她随即补上一条更狠的：违反的是他亲手定下的规矩，所以错不在她做了什么，在于有人先规定了不许做。
 - **读者视角提示**：把这句话和提问者的题眼并排读：一个人被写成有过错，往往是因为她手里没有别的选项。
 
