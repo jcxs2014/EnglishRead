@@ -170,7 +170,6 @@ source_text: ch11_chapter_10_totalitarianism_all_power_to_.txt
 | subordinates | 下属 | Throughout history, the biggest threat to autocrats usually came from their own subordinates. |
 | antidemocratic | 反民主的 | Because democracies take freedom of speech seriously, they keep far fewer skeletons in their closet, and they have developed a relatively high level of tolerance even to antidemocratic speech. |
 | preprogrammed | 预先设定好的 | These bots might be preprogrammed by Russian dissidents or foreign actors to intentionally spread unorthodox views, and it might be impossible for the authorities to prevent it. |
-| constitution | 宪法 | The Russian Constitution makes grandiose promises about how “everyone shall be guaranteed freedom of thought and speech” (Article 29.1), how “everyone shall have the right freely to seek, receive, transmit, produce and disseminate information” (29.4), and how “the freedom of the mass media shall be guaranteed. Censorship shall be prohibited” (29.5). |
 
 ### ⭐⭐ 进阶
 
