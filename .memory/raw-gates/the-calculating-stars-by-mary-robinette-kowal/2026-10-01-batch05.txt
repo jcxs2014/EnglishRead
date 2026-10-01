@@ -1,0 +1,22 @@
+batch05 ch11-ch13 2026-10-01 14:01 UTC
+ch11 the first cut.md: 8/8 ✅
+ch12 operation ladies first.md: 8/8 ✅
+ch13 the messerschmitts.md: 8/8 ✅
+
+=== 总计 104/104 引文可核实（100%）；完全干净文件 13/13；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- FAIL (0) ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+  FAIL 0 处（U+FFFD / 双句号）
+  ✅ 本章命中 104 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+ch11 the first cut.md: 8/8 in ch11 text
+ch12 operation ladies first.md: 8/8 in ch12 text
+ch13 the messerschmitts.md: 8/8 in ch13 text
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ⚠️  ch08 the wrong problem.md:13  「I must be wrong」→ 实为 ch7
+  ⚠️  ch09 colonize outer space.md:27  「Where are our people?」→ 实为 ch7
+  ⚠️  ch11 the first cut.md:118  「run the gauntlet」→ 实为 ch36
+  🟠 ch12 operation ladies first.md:130  「chicken out」→ 内容词 2/2 命中（chicken/out）——疑漏词或改写
