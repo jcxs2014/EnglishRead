@@ -24,7 +24,7 @@ modified: "2026-09-30"
 
 > **原句 2:** I’m not taking on any other clients until I finish the Barclay case. Rose will get my full focus; I’m going to fast-track all of my interviews. Everything else in my life will be put on hold.
 
-- **中文理解**：在 Barclay 这个案子结束之前，我不再接别的当事人。Rose 会得到我全部的注意力；我打算把所有的访谈都加速推进。我 life 里的其他一切都会被搁置。
+- **中文理解**：在 Barclay 这个案子结束之前，我不再接别的当事人。Rose 会得到我全部的注意力；我打算把所有的访谈都加速推进。我生活里的其他一切都会被搁置。
 - **关键词**：until I finish the Barclay case · Rose will get my full focus · fast-track all of my interviews · put on hold
 - **为什么这样写**：一个正在离婚案里替客户办事的中介，公开宣布把其余客户全部搁置——这在职业上是不小的代价，作者没有替她辩解，只给了四个动作。Everything else in my life will be put on hold 这一句把代价从工作扩到生活。
 - **读者视角提示**：这是一句宣言，但它出现在她还没见到 Rose 本人的时候。她入局比证据更早。

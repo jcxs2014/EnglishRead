@@ -54,7 +54,7 @@ modified: "2026-09-30"
 
 - **中文理解**：然后我认出那是照着 Rose 做的娃娃，连红头发和雀斑的分布都对得上。我走进房间，把门带上，甩掉那种娃娃的眼睛正盯着我的诡异感觉。
 - **关键词**：it’s the doll in Rose’s image · down to her red hair and scattering of freckles · close the door behind me · shaking off the creepy sense that the doll’s eyes are following me
-- **为什么这样写**：in Rose’s image（下两个词：黑头发、雀斑、两个手腕上的红绳）在英语里就是「一比一复刻」的意思，作者把它放进入屋的第一句里，等于宣布这间屋子的主人会收藏关于她自己的复制品。shaking off 把「被盯着」写成可以甩掉的错觉，却从未真的甩掉。
+- **为什么这样写**：in Rose’s image（下两个词：红头发、雀斑）在英语里就是「一比一复刻」的意思，作者把它放进入屋的第一句里，等于宣布这间屋子的主人会收藏关于她自己的复制品。shaking off 把「被盯着」写成可以甩掉的错觉，却从未真的甩掉。
 - **读者视角提示**：作者这里没有让任何人现身。房间是空的，书却不见了。空房间比有人在场更冷。
 
 > **原句 7:** Anne of Green Gables isn’t there.

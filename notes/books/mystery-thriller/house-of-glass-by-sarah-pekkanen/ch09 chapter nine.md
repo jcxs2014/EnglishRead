@@ -164,7 +164,7 @@ modified: "2026-09-30"
 
 > **原句 22:** “I told the police I work with my door shut, too. Beth could have slipped upstairs just as easily as me.”
 
-- **中文理解**：「我跟警察说过，我也是关着门做事的。Beth 一样可以从楼上下来，跟我一样容易。」
+- **中文理解**：「我跟警察说过，我也是关着门做事的。Beth 一样也能像我一样溜上楼去。」
 - **关键词**：I work with my door shut, too · Beth could have slipped upstairs · just as easily as me
 - **为什么这样写**：too（也）把这句话变成了一次对等反驳：她能说他门关着，他就能说她门也关着。just as easily as me（和我一样容易）省掉了主语——主语是「推人」这件事，双方都省略了。
 - **读者视角提示**：全章结束在这一句。Stella 找了半天的那个信号终于出现——`Gone is the easygoing guy`（那个随和的人不见了），取而代之的是 Now his narrowed eyes are flinty with anger（此刻他眯起的眼睛冷硬如燧石）。他生气，是因为被指认了，而他也回手指了回去。

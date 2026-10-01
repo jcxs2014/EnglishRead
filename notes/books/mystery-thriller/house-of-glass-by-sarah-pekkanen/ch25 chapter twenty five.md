@@ -87,7 +87,7 @@ modified: "2026-09-30"
 
 > **原句 11:** The Stranger Beside Me has disappeared. The correct novel is back in its dust jacket.
 
-- **中文理解**：《我和我的陌生女孩》不见了。那本正确的书重新套回了它的书衣里。
+- **中文理解**：《我旁边的陌生人》不见了。那本正确的书重新套回了它的书衣里。
 - **关键词**：The Stranger Beside Me has disappeared · The correct novel · back in its dust jacket
 - **为什么这样写**：两句都是被动语态（has disappeared／is back），Rose 的动作被彻底抽掉，只留下结果。第二句里的 `the correct novel`（正确的那本）带上了反讽：书是「正确」的，而被换走的这本曾经是正确的。一个人默默换回自己的书，等于宣布「我知道你动过我的东西」。
 - **读者视角提示**：`in its dust jacket` 是关键——书衣是套在外面的，能被换，也能说明书被重新装回去了。ch18 里她正是从床下抽出这本书、被锋利的书角割破手指的。
