@@ -90,7 +90,7 @@ modified: "2026-10-01"
 
 **中文理解**：研究显示，五个半小时的核心深睡眠已足以让人在白天正常运转；而如果第二天补一个小睡，少于五小时也可能够用（Jacobs 1998）。
 
-**句子结构**：主句为 Research indicates 加省略 that 的宾语从句，从句内两个分句由 and 并列；后一分句内嵌 if 引导的条件状语从句，其中 a nap is taken 为被动结构（by 的施动者省略）。
+**句子结构**：主句为 Research indicates 加 that 宾语从句（that 就在引语中），从句内两个分句由 and 并列；后一分句内嵌 if 引导的条件状语从句，其中 a nap is taken 为被动结构（by 的施动者省略）。
 
 **关键词**：five and a half hours / core, deep sleep / a nap is taken the next day
 
@@ -114,7 +114,7 @@ modified: "2026-10-01"
 
 **中文理解**：为减少睡眠问题，最该遵守的一条规则就是：晚八点以后绝不去看钟表或手表（Zeff 1999）。我许多学生只靠遵守这一条简单规则，就成功终止了自己的失眠循环。
 
-**句子结构**：首句为 one of the most important rules … is 引导的主语从句作主语的判断句，表语是动名词短语；次句主语为我的许多学生，谓语为现在完成时加动名词，by 短语作方式状语。
+**句子结构**：首句为 one of the most important rules … is 作主语的判断句，其主语为名词短语而非从句，表语也不是动名词短语；次句主语为我的许多学生，谓语为现在完成时加动名词，by 短语作方式状语。
 
 **关键词**：never ever look at a clock / after 8 P.M. / amazing success
 
@@ -151,7 +151,7 @@ modified: "2026-10-01"
 
 **中文理解**：改善睡眠最重要的规则之一是培养一种积极态度。关于睡眠的消极念头会形成一个自我实现的预言，从而加重失眠。
 
-**句子结构**：首句为 one of the most important rules of … is 引导的主语从句作主语的判断句，表语是动名词短语；次句为一般现在时陈述句，主语为关于睡眠的消极念头，谓语为 can create，宾语为名词短语 a self-fulfilling prophecy，其后接定语从句 that increases insomnia。
+**句子结构**：首句为 one of the most important rules of … is 作主语的判断句，其主语为名词短语而非从句，表语也不是动名词短语；次句为一般现在时陈述句，主语为关于睡眠的消极念头，谓语为 can create，宾语为名词短语 a self-fulfilling prophecy，其后接定语从句 that increases insomnia。
 
 **关键词**：develop a positive attitude / negative thoughts about sleep / can create
 

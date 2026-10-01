@@ -52,7 +52,7 @@ modified: "2026-10-01"
 
 > **原句 2:** Since Elaine Aron’s landmark book, The Highly Sensitive Person, was published in 1996, hundreds of thousands of HSPs (highly sensitive people) have begun to realize that they are not flawed for life due to their finely tuned nervous system. Approximately 15 to 20 percent of the population have trouble screening out stimuli and can be easily overwhelmed by noise, crowds, and time pressure.
 
-**中文理解**：自从阿伦那本奠基之作于 1996 年出版以来，已有数十万高敏感者开始意识到，他们并非因为那套过于精密的神经系统而终身有缺陷。约有百分之十五到二十的人口难以屏蔽刺激，容易被噪声、人群和时间压力压垮。
+**中文理解**：自从埃莱恩·阿伦那本奠基之作于 1996 年出版以来，已有数十万高敏感者开始意识到，他们并非因为那套过于精密的神经系统而终身有缺陷。约有百分之十五到二十的人口难以屏蔽刺激，容易被噪声、人群和时间压力压垮。
 
 **句子结构**：首句为 Since 引导的原因状语从句，主句主语为带同位语的人数短语，谓语为 have begun to realize，其后接省略引导词的宾语从句；次句主语为带后置修饰的比例短语，谓语为并列的 have trouble doing 与 can be overwhelmed by。
 
