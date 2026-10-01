@@ -1,0 +1,18 @@
+########## d 步·机械子项（用 *_indep.py 第二套实现，禁复述 audit_structure/check_crossref/sweep_analysis_inline）
+⚠️ 三脚本各只在本库 1 本书上验证过，口径非通用——本结论仅对本书成立
+
+=== D1 check_struct_indep.py ===
+=== 独立结构扫描：34 个 md，缺陷 0 处 ===
+
+=== D2 check_xref_indep.py（跨章引用）===
+=== chNN 引用 152 处：英文证据报警 0 处 ／ 中文式待人判 56 处 ===
+
+=== D3 check_analysis_indep.py（分析层行内英文）===
+抽出分析层英文片段 280 条
+✅ 全部片段在全书 text/ 逐字命中
+
+=== D4 终验标准件：整行连续 sweep_full ===
+=== 引语整串 flat 比对（the-saint-of-bright-doors-by-vajra-chandrasekera）===
+  参照集：text/ 逐章（34 章，可定章） + epub 交叉验证
+  ✅ 本章命中 265 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）

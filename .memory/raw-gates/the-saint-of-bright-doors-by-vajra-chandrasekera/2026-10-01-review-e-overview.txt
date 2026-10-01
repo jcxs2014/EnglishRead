@@ -1,0 +1,34 @@
+########## e 步：总览层事实核对 + check_vocab WARN 逐条处置
+
+=== E1 总览引语逐字 + 章节标签对账（96 条逐条定位）===
+  总览内含引语行 96 条（情感节点 30 + 概述 20 + 金句 46）；逐条在被标注章 text/ 内定位：查无 0
+  标签口径：行尾「（chNN）」或「**上下文**：chNN」；两者皆无的 9 条为概述散文体内联引语，已逐条 grep 确认落在正确章（ch06 ×2 等）
+
+=== E2 说话人归属（对白类逐条查前后 ~200 字符窗口）===
+  总览内真对白仅 6 条（实为 2 句 × 3 文件重复），其余 90 条为叙述、无说话人
+  ① 「White is the Luriati colour of death」→ 原文紧邻 'Hej says, eventually'，男性代词 his/hands/fingers；md 记 Hej＝Summer Court 文员（ch11:14 'Hej is a clerk for the Summer Court'）✅
+  ② 「Am I still a prisoner?」→ 原文 'Fetter addresses this over his shoulder at Salyut' + 'the Saint-General sitting behind him'；md 现文案已把「坐在背后」归 Salyut ✅（本会话早前修过，原为身份错配）
+
+=== E3 情节/身份/关系/结局断言（grep 全书复核）===
+  ✅ 概述「ch01 母亲说这是他父亲的领地」→ ch01:144 'his father's territory'
+  ✅ 概述/ch08「母亲在院子里开庭训他」→ ch01:32 'court and teaches her own lessons'
+  ✅ 金句/ch05「小组治疗课上他看着同样落选的陌生人」→ ch05:14 'Group meetings' + ch05:26 'unchosen together'
+  ✅ 金句/ch11「Summer Court 边上的 Abjesil 式柱廊」→ ch11 有独立词 Abjesil ×2、Abjesili ×4；柱廊＝colonnade（ch11:23）；Hej 带路 ✅
+  ✅ 金句/ch19「剧中人物对名声的解释」→ 引语 'Fame, she says, is how a ruling class...'，确为剧中女性角色 ✅
+  ✅ 金句/ch25「他第一次入狱」→ ch25:14 'this first prison'（原文明写）
+  ❌ 概述/Koel「并最早看出他身上正在发生的变化」→ 全书 grep 无支撑（命中全是「Koel 换衣服」类）；属不可核的顺序/最高级断言 → **已改**为「这两段话都出自他刚到城里那段日子（ch06）」
+
+=== E4 「本章」指代失效坑 ===
+  00_概述.md grep 本章 = 0 命中 ✅ 未犯
+
+=== E5 check_vocab WARN 逐条处置（45 → 40）===
+  全部 45 条均为「基础档疑含超纲词」，触发条件是**长度 ≥9 字符启发式**。分两类处置：
+  【阻断型·已改 5 条】该上移进阶档的世界观专名/造词：
+    ch08 Hinterlands / exorcists / crowdfunding / disconnection ；ch22 whirlpool
+  【提示型·接受不改 40 条】真·常用词，仅因字符数被启发式命中：
+    unremarkable doorframe footsteps recruited dissolved sleeveless squatting fluorescent entangled skeptical
+    discomfort quarantined nondescript cubbyholes quarantine inventories vengeance spotlight bracelets clutching
+    neighbours courtyard shepherded unhurried penitents unrecognizable painkillers protestors unbalancing weathered
+    intimidating nightmares smouldering perimeter
+  ⚠️ 本轮附带查出**回归 1 项**：上列 5 个专名我此前已上移过，但 worker 后续改 spec 时覆盖回基础档，我重建 9 章时忠实复现了 worker 的版本 ⇒ 修复被冲掉。已重上移并复验。
+    教训：修在**构建输入**（spec）上的改动，必须在**任何一次重建之后**复验——重建取的是整个输入，不是一份补丁。
