@@ -42,7 +42,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：这一段是整章的引擎，也是最狠的一处反讽：它把 Joan 一生的痛苦——去 Holland House 的强迫感、在迷宫里遇见 Nick、在 Court 门口相撞——全部解释成一条时间线的自我修复。关键在 Over and over and over 之后的 Until the rift is healed：前一句还在解释两个人的相遇有多自然，后一句就把这份自然判成不可愈合。爱情被写成一种不肯停手的暴力，而说这话的是个还在给鱼上色的十五岁男孩。
 
-**读者视角提示**：注意 belonged together 用的是过去完成式——把"本该属于一起"写成一件已经发生过的事，是这套理论的味道所在。
+**读者视角提示**：注意 belonged together 用的是一般过去时（虚拟条件句里的假设过去），不是过去完成式——把"本该属于一起"写成一件发生过的事，是这套理论的味道所在。
 
 > **原句 4:** ‘Joan, if you somehow remember this, remember what I’m saying now. You have to stay far away from me. From me and from my family. Never let me close enough to see the colour of your eyes.’
 
