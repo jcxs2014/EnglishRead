@@ -206,7 +206,7 @@ modified: "2026-10-01"
 | population | 人群；人口 | You may simply be part of the 15 to 20 percent of the population who are highly sensitive. |
 | specific | 具体的；特定的 | This book includes many methods to calm the senses, along with specific techniques to cope with time pressure. |
 | pressure | 压力 | This book includes many methods to calm the senses, along with specific techniques to cope with time pressure. |
-| difficult | 难相处的；困难的 | We’ll discuss the unique challenges for the HSP in today’s competitive work environment and many solutions to cope with stress on the job. |
+| difficult | 难相处的；困难的 | We’ll examine many questions from HSPs on how to deal with difficult situations, and you’ll learn practical solutions. |
 | questions | 问题；疑问 | We’ll examine many questions from HSPs on how to deal with difficult situations, and you’ll learn practical solutions. |
 | better | 更好的 | Then you’ll learn innovative relaxation techniques to help you sleep better. |
 | program | 方案；训练计划 | The program includes practical methods for changing a difficult work environment and suggestions for creating a new, stress-free job. |
