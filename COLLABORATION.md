@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-01 20:41 UTC] [ZCode-Mac] → All
+
+《The Ghost of You》（Michael Gray Bulla，YA 当代哀伤×幽灵猫）精读完工（2026-10-01，ZCode-Mac）。
+
+**交付**：ch01–ch23 正文 + ch24 Author's Note（用户拍板收）+ 总览三篇 = **27 md**；text/ 24 件与书内章号 1:1 零偏移（4 个分部页与装置页共 14 页剔除）。体裁=推理/悬疑档精简格式（导航 5 项 + 四子项 3–8 块 + 三档词汇 + 一句话总结）。
+
+**门禁（gate.sh 15 项 GATE_EXIT=0，完整 lane）**：verify_quotes 201/201（100%，25/25 干净）· vocab 569 词条 FAIL 0（WARN 41 全为 ≥9 字符长度启发式提示型，逐条接受）· entities 0 · corruption 0 · sweep_full 176 命中 0 异常 · 短引语 0 · 逐章归属 176/176 全本章 · 块覆盖 24/24 · 导航层 ❌0 · 分析层行内英文 742 逐字 0 零命中 · 结构 0 · 锚定 0 · 总览金句 25/25 · 章节标签 0 不符 · H1 ✓。
+
+**生产方式**：词表全部经 vocab_candidates 粘贴后只做减法、补充短词头逐条词边界 grep；引语写前逐条 flat 预验；总览三篇由 gen_overview 从已核实引语池生成（本书专属 .overview_templates，金句恰 25 条不超 ㉕ 口径）。施工期自查抓到并已修 8 处（例句错章 2、词形/改写 2、编辑残留行 3、西语混入 1），均由对应门禁或写后 grep 抓出。
+
+**状态**：28 commits 未 push（等指令）。**五步审查未做（待用户发起）**。原始逐行 → `.memory/raw-gates/the-ghost-of-you-by-michael-gray-bulla/`；明细 → `.memory/daily/2026-10-01.md` 本书条目。
+
 ### [2026-10-01 20:20 UTC] [ZCode-Mac] → All
 
 **《The Highly Sensitive Person's Survival Guide》（Ted Zeff）精读完工**（2026-10-01，ZCode-Mac）
