@@ -1,44 +1,41 @@
 # The Coral Bones — ch02 门禁原始输出
-# 2026-10-01 13:31 UTC  lane: 完整
+# 2026-10-01 13:32 UTC  lane: 完整（有 epub）
 
-########## verify_quotes ##########
-❓ 无法判定：epub 不存在 — Coral
-   本书无参照集 ⇒ 引语逐字这一层**未检查**，不是「引语有问题」。
-   处置：按 AGENTS 第 3 条 lane 表记「降级 lane」；逐章归属改跑 check_chapter_quotes.py。
+########## 1 verify_quotes ##########
+ch01 hana may.md: 8/8 ✅
+ch02 Judith.md: 8/8 ✅
 
-########## verify_quotes_full ##########
-❓ 无法判定：epub 不存在 — Coral
-   本书无参照集 ⇒ 引语逐字这一层**未检查**，不是「引语有问题」。
-   处置：按 AGENTS 第 3 条 lane 表记「降级 lane」；逐章归属改跑 check_chapter_quotes.py。
+=== 总计 16/16 引文可核实（100%）；完全干净文件 2/2；正文章节 0 提取 0；总览 0 提取转交 0 ===
 
-########## check_vocab ##########
-/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check.py': [Errno 2] No such file or directory
+########## 2 verify_quotes --full ##########
+ch02 Judith.md: 8/8 ✅
 
-########## check_entities ##########
-/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check.py': [Errno 2] No such file or directory
+=== 总计 16/16 引文可核实（100%）；完全干净文件 2/2；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
 
-########## corruption_scan ##########
-/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/corruption.py': [Errno 2] No such file or directory
+########## 3 check_vocab ##########
+  [P0-4] 正文章节 2 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 72
 
-########## sweep_full ##########
-/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/sweep.py': [Errno 2] No such file or directory
+--- FAIL (0) ---
 
-########## check_nav_layer ##########
-/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check.py': [Errno 2] No such file or directory
+--- WARN (0) ---
 
-########## check_block_coverage ##########
-/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check.py': [Errno 2] No such file or directory
+########## 4 check_entities ##########
+=== 实体一致性检测：0 个文件存在未知实体 ===
 
-########## audit_structure ##########
-/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/audit.py': [Errno 2] No such file or directory
+########## 5 corruption_scan ##########
 
-########## check_anchor ##########
-/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check.py': [Errno 2] No such file or directory
+=== 编辑损坏扫描（the-coral-bones-by-e-j-swift）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
 
-########## sweep_analysis_inline ##########
-/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/sweep.py': [Errno 2] No such file or directory
+########## 6 sweep_full ##########
+=== 引语整串 flat 比对（the-coral-bones-by-e-j-swift）===
+  参照集：text/ 逐章（13 章，可定章） + epub 交叉验证
+  ✅ 本章命中 16 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
 
-########## check_chapter_quotes 01-02 ##########
+########## check_chapter_quotes（逐章归属）##########
 ch01 hana may.md: 8/8 in ch01 text
 ch02 Judith.md: 8/8 in ch02 text
 
@@ -46,3 +43,28 @@ ch02 Judith.md: 8/8 in ch02 text
 === 短引语兜底核对（the-coral-bones-by-e-j-swift）===
   verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
   ✅ 本书无短引语，主门禁已全覆盖。
+
+########## check_nav_layer ##########
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+########## check_block_coverage ##########
+✅ 块覆盖对账：2 个文件，每块都进了 verify_quotes 校验
+
+########## audit_structure ##########
+=== 精读结构扫描（the-coral-bones-by-e-j-swift）===
+  扫 2 个 md、16 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+########## check_anchor ##########
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（16 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+########## sweep_analysis_inline ##########
+=== 分析层行内英文逐字核查（the-coral-bones-by-e-j-swift）===
+  参照集：text/（16 个提取件） + epub 交叉验证 ；扫 2 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：84 个表格行、74 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 74 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 0
