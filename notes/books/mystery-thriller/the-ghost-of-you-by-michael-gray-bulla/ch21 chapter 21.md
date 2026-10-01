@@ -100,7 +100,7 @@ modified: "2026-10-01"
 | apron | 围裙 | wearing a black apron and green beanie as he took someone’s order. |
 | fairy lights | 小串灯、仙女灯 | the patio out front was decked out in fairy lights |
 | chalkboard | 黑板（手写菜单板） | I stared at the huge chalkboard menu behind the counter |
-| outtakes | （拍摄）废片、花絮 | another folder that led to “project outtakes.” |
+| outtakes | （拍摄）废片、花絮 | I watched the outtakes next. |
 | scarf | 围巾 | I took a deep breath and wrapped my scarf around my neck tighter. |
 | frost | 霜 | the grass was a washed-out green from frost. |
 | angel statue | 天使雕像 | I remembered an angel statue standing high above it. |
