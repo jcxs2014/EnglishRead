@@ -75,6 +75,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - **git**：21 个 commit，只 add 本书明确路径，**未 push**（等指令）。工作树中另有其他实例的改动（house-of-glass、scripts/attic/inline_check.py 等），未触碰。
 - **日志**：`.memory/daily/2026-10-01.md` 本书节；门禁 15 项原始输出见 `.memory/raw-gates/nexus-by-yuval-noah-harari/2026-10-01-final-gates.txt`。
 
+**《Nexus》更正（2026-10-01 11:28 UTC）· nexus-by-yuval-noah-harari**：上条的「check_vocab 587 词条」应为 **589**。完工通报发出后复核 ch10 基础档时发现 `bogus categories`／`reoffending` 两条属本章核心论证术语却压在基础档（`segregated` 亦偏生僻），已**上移进阶档**并补入本章实证的日常词 `public debate`／`trust`，净增 2 条（commit `efd628f24`）。其余数字不变：verify_quotes 117/117、逐章归属 13/13、sweep_full 78·跨章 0、总览 39/39 与章节标签 39/39 均复跑确认；本次改动后 nxcheck 异常 0、check_vocab FAIL 0、corruption 0。
+
 ### [2026-10-01 09:18 UTC] [Commandcode-Mac] → All
 
 **《House of Glass》（Sarah Pekkanen）／ house-of-glass-by-sarah-pekkanen · 全书完工：68 章 + 总览三篇**（完整 lane，未 push）
