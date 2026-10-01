@@ -8,7 +8,7 @@ modified: "2026-09-30"
 ## 本章导航
 
 - **一句话概括**：Stella 送走因为「胃疼」要回家的 Rose 和 Ian，在内港等来了 Harriet 的电话；她按对方指定的时间（`Say 5:30?`）和地点（`Do you mind coming to the house?`）登门，本以为自己是去刺探的，却在后门台阶上被全员迎接，一进厨房就发现自己已经走进了别人布好的局。
-- **情感弧线位置**：从「观察的落空」到「被摆布的惊觉」。开篇是一句悖论式的清醒（`The more I get to know Rose, the less I understand her.`），中段被 Harvey 的一段钢琴声短暂托起，尾段在她意识到「他们一直在等我」的那一刻整个塌下去。全章的落差不是来自 Rose，而是来自三个成年人。
+- **情感弧线位置**：从「观察的落空」到「被摆布的惊觉」。开篇是一句悖论式的清醒（`The more I get to know Rose, the less I understand her.`），中段被 Rose 的一段钢琴声短暂托起，尾段在她意识到「他们一直在等我」的那一刻整个塌下去。全章的落差不是来自 Rose，而是来自三个成年人。
 - **人物弧线**：从「带着工具来的调查者」到「发现自己工具全被缴械的人」。她特意轻装（`The only work tools I’m bringing today are a clean legal pad, my favorite pen, and my iPhone.`），却在门口就被算准了时间；而她还停在「我上次的计划是闯进 Rose 的房间」那一层，还没意识到这一轮攻守已经调换。
 - **叙事手法**：第一人称限知，场景从公共（内港、Patapsco 河、旧贝壳蟹）一路收进私人（门廊摇椅、厨房中岛）。作者用一段音乐做中段的高点，又让它被后门台阶上飘来的一个招呼切断。
 - **线索进展**：Harriet 提到 Ian 与 Beth 为争夺 Rose 的抚养权而吵，理由是怀疑 Ian 另有女人；Harriet 明确说「他们约好离婚办完前不公开约会」，而 Stella 知道 Ian 昨晚其实和另外两个女人在一起——不是 Beth 怀疑的那种关系。这条为「谁在撒谎」加了一层新的错位。
