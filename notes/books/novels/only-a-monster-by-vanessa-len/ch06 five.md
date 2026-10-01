@@ -97,7 +97,7 @@ modified: "2026-10-01"
 | parquet floor | 拼花木地板 | ...the slap-slap-slap of her own feet hitting the parquet floor. |
 | mantelpiece | 壁炉架 | A clock ticked on the mantelpiece. |
 | old servants’ staircase | 老仆人楼梯 | The slice of light showed the passage between the library and the old servants’ staircase. |
-| hands on her knees | 双手撑膝（弯腰喘气） | She ran, stumbling into the hedge walls in her haste to turn corners. |
+| hands on her knees | 双手撑膝（弯腰喘气） | And then she just ran and ran until she had to stop, hands on her knees, sucking in air and trying to quiet herself. |
 | runner’s baton | 接力棒 | ...still clutching the heavy candlestick like a runner’s baton. |
 | in full bloom | 盛开 | ...the hydrangeas were in full bloom, in ice-cream shades of pink and white. |
 | scrabbled after | 争抢着够到 | ...she scrabbled after it desperately. |
