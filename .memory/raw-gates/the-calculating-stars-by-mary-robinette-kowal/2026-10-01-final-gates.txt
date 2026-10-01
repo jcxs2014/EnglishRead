@@ -1,0 +1,102 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 343/343 引文可核实（100%）；完全干净文件 41/41；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 988
+--- FAIL (0) ---
+--- WARN (92) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 320 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 the meteor hits.md                        ch01 the meteor hits.md: 8/8 in ch01 text
+ch02 the airblast.md                           ch02 the airblast.md: 8/8 in ch02 text
+ch03 forced landing.md                         ch03 forced landing.md: 8/8 in ch03 text
+ch04 the phone call.md                         ch04 the phone call.md: 8/8 in ch04 text
+ch05 meteor refugee.md                         ch05 meteor refugee.md: 8/8 in ch05 text
+ch06 sitting shiva.md                          ch06 sitting shiva.md: 8/8 in ch06 text
+ch07 extinction event.md                       ch07 extinction event.md: 8/8 in ch07 text
+ch08 the wrong problem.md                      ch08 the wrong problem.md: 8/8 in ch08 text
+ch09 colonize outer space.md                   ch09 colonize outer space.md: 8/8 in ch09 text
+ch10 first man in space.md                     ch10 first man in space.md: 8/8 in ch10 text
+ch11 the first cut.md                          ch11 the first cut.md: 8/8 in ch11 text
+ch12 operation ladies first.md                 ch12 operation ladies first.md: 8/8 in ch12 text
+ch13 the messerschmitts.md                     ch13 the messerschmitts.md: 8/8 in ch13 text
+ch14 the only white person.md                  ch14 the only white person.md: 8/8 in ch14 text
+ch15 mr wizard.md                              ch15 mr wizard.md: 8/8 in ch15 text
+ch16 dr york.md                                ch16 dr york.md: 8/8 in ch16 text
+ch17 the laddy astronot.md                     ch17 the laddy astronot.md: 8/8 in ch17 text
+ch18 control your wife.md                      ch18 control your wife.md: 8/8 in ch18 text
+ch19 age of anxiety.md                         ch19 age of anxiety.md: 8/8 in ch19 text
+ch20 paper wings.md                            ch20 paper wings.md: 8/8 in ch20 text
+ch21 the mud pie incident.md                   ch21 the mud pie incident.md: 8/8 in ch21 text
+ch22 the farm.md                               ch22 the farm.md: 8/8 in ch22 text
+ch23 the bar mitzvah.md                        ch23 the bar mitzvah.md: 8/8 in ch23 text
+ch24 brittle.md                                ch24 brittle.md: 7/7 in ch24 text（另有 1 条短引语未校验）
+ch25 the testimony.md                          ch25 the testimony.md: 8/8 in ch25 text
+ch26 the bomber.md                             ch26 the bomber.md: 8/8 in ch26 text
+ch27 aunt esther.md                            ch27 aunt esther.md: 8/8 in ch27 text
+ch28 the list.md                               ch28 the list.md: 8/8 in ch28 text
+ch29 the waiting line.md                       ch29 the waiting line.md: 8/8 in ch29 text
+ch30 why you.md                                ch30 why you.md: 8/8 in ch30 text
+ch31 publicity stunt.md                        ch31 publicity stunt.md: 8/8 in ch31 text
+ch32 ascan.md                                  ch32 ascan.md: 8/8 in ch32 text
+ch33 the dunker.md                             ch33 the dunker.md: 8/8 in ch33 text
+ch34 b-mag.md                                  ch34 b-mag.md: 8/8 in ch34 text
+ch35 blackmail.md                              ch35 blackmail.md: 8/8 in ch35 text
+ch36 bone spurs.md                             ch36 bone spurs.md: 8/8 in ch36 text
+ch37 the new cm.md                             ch37 the new cm.md: 7/7 in ch37 text（另有 1 条短引语未校验）
+ch38 we were lady astronauts.md                ch38 we were lady astronauts.md: 8/8 in ch38 text
+ch39 the official astronaut.md                 ch39 the official astronaut.md: 8/8 in ch39 text
+ch40 historical note.md                        ch40 historical note.md: 10/10 in ch40 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：40 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（the-calculating-stars-by-mary-robinette-kowal）===
+  ✅ 逐字 1113 ｜ ⚠️ 跨章 5 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 3 ｜ 🟡 词形 1 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 4
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 11 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 16/16 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 40/40 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
