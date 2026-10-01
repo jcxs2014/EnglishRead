@@ -1,0 +1,261 @@
+=== Silenced 精读全书终验门禁原始输出（2026-10-01）===
+书目录：notes/books/mystery-thriller/silenced-by-ann-claycomb
+生成方式：bash scripts/gate.sh "notes/books/mystery-thriller/silenced-by-ann-claycomb"
+
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub）===
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 393/393 引文可核实（100%）；完全干净文件 47/47；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 808
+--- FAIL (0) ---
+--- WARN (49) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 368 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 july 27 abony.md                          ch01 july 27 abony.md: 8/8 in ch01 text
+ch02 fairy tales forever discord.md            ch02 fairy tales forever discord.md: 8/8 in ch02 text
+ch03 july 27 29 jo.md                          ch03 july 27 29 jo.md: 8/8 in ch03 text
+ch04 fairy tales forever discord.md            ch04 fairy tales forever discord.md: 8/8 in ch04 text
+ch05 july 27 31 ranjani.md                     ch05 july 27 31 ranjani.md: 8/8 in ch05 text
+ch06 fairy tales forever discord.md            ch06 fairy tales forever discord.md: 8/8 in ch06 text
+ch07 july 31 ranjani.md                        ch07 july 31 ranjani.md: 8/8 in ch07 text
+ch08 fairy tales forever discord.md            ch08 fairy tales forever discord.md: 8/8 in ch08 text
+ch09 august 1 abony.md                         ch09 august 1 abony.md: 8/8 in ch09 text
+ch10 fairy tales forever discord.md            ch10 fairy tales forever discord.md: 8/8 in ch10 text
+ch11 august 8 jo.md                            ch11 august 8 jo.md: 8/8 in ch11 text
+ch12 fairy tales forever discord.md            ch12 fairy tales forever discord.md: 8/8 in ch12 text
+ch13 august 8 ranjani.md                       ch13 august 8 ranjani.md: 8/8 in ch13 text
+ch14 fairy tales forever discord.md            ch14 fairy tales forever discord.md: 8/8 in ch14 text
+ch15 august 9 abony.md                         ch15 august 9 abony.md: 8/8 in ch15 text
+ch16 fairy tales forever discord.md            ch16 fairy tales forever discord.md: 8/8 in ch16 text
+ch17 august 9 maia.md                          ch17 august 9 maia.md: 8/8 in ch17 text
+ch18 fairy tales forever discord.md            ch18 fairy tales forever discord.md: 8/8 in ch18 text
+ch19 august 10 abony.md                        ch19 august 10 abony.md: 8/8 in ch19 text
+ch20 fairy tales forever discord.md            ch20 fairy tales forever discord.md: 8/8 in ch20 text
+ch21 august 10 maia.md                         ch21 august 10 maia.md: 8/8 in ch21 text
+ch22 fairy tales forever discord.md            ch22 fairy tales forever discord.md: 8/8 in ch22 text
+ch23 august 10 abony.md                        ch23 august 10 abony.md: 8/8 in ch23 text
+ch24 fairy tales forever discord.md            ch24 fairy tales forever discord.md: 8/8 in ch24 text
+ch25 august 10 ranjani.md                      ch25 august 10 ranjani.md: 8/8 in ch25 text
+ch26 fairy tales forever discord.md            ch26 fairy tales forever discord.md: 8/8 in ch26 text
+ch27 august 12 jo.md                           ch27 august 12 jo.md: 8/8 in ch27 text
+ch28 fairy tales forever discord.md            ch28 fairy tales forever discord.md: 8/8 in ch28 text
+ch29 august 12 maia.md                         ch29 august 12 maia.md: 8/8 in ch29 text
+ch30 fairy tales forever discord.md            ch30 fairy tales forever discord.md: 8/8 in ch30 text
+ch31 august 12 maia.md                         ch31 august 12 maia.md: 8/8 in ch31 text
+ch32 august 12 ranjani.md                      ch32 august 12 ranjani.md: 8/8 in ch32 text
+ch33 august 12 abony.md                        ch33 august 12 abony.md: 8/8 in ch33 text
+ch34 august 12 13 jo.md                        ch34 august 12 13 jo.md: 8/8 in ch34 text
+ch35 fairy tales forever discord.md            ch35 fairy tales forever discord.md: 8/8 in ch35 text
+ch36 august 16 17 jo.md                        ch36 august 16 17 jo.md: 8/8 in ch36 text
+ch37 fairy tales forever discord.md            ch37 fairy tales forever discord.md: 8/8 in ch37 text
+ch38 august 17 maia.md                         ch38 august 17 maia.md: 8/8 in ch38 text
+ch39 fairy tales forever discord.md            ch39 fairy tales forever discord.md: 8/8 in ch39 text
+ch40 august 17 abony.md                        ch40 august 17 abony.md: 8/8 in ch40 text
+ch41 fairy tales forever discord.md            ch41 fairy tales forever discord.md: 8/8 in ch41 text
+ch42 august 24 jo.md                           ch42 august 24 jo.md: 8/8 in ch42 text
+ch43 august 24 ranjani.md                      ch43 august 24 ranjani.md: 8/8 in ch43 text
+ch44 august 24 abony.md                        ch44 august 24 abony.md: 8/8 in ch44 text
+ch45 august 24 maia.md                         ch45 august 24 maia.md: 8/8 in ch45 text
+ch46 august 24 jo.md                           ch46 august 24 jo.md: 8/8 in ch46 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：46 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（silenced-by-ann-claycomb）===
+  ✅ 逐字 1170 ｜ ⚠️ 跨章 3 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 7 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 348
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 15/15 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 40/40 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  ⚠️ 00_金句精选.md:48  同一句在 2 章出现（ch7,ch13），章节标注有歧义：Just be aware that I think her curse
+
+=== 附加：语料层 verify_corpus ===
+=== 语料层验收（P0-0）: silenced-by-ann-claycomb ===
+text/ 件数: 46
+  [1] 件数 46 == 预期 46  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 27 组 / 互查 702 组（共享人物 26 个已豁免）  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (147 句)
+      首| “Once upon a time,” Abony said, “he’d have gotten away with what he did, but not today.
+      末| Abony wasn’t sure which was worse, or whether the conversation she read on her phone was meant a
+    ch02 (48 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click to see more comments>
+    ch03 (172 句)
+      首| Before she understood the full extent of what he’d done to her, Jo simply fled.
+      末| Jo read it in growing horror, because this had to be from the CEO—who else could have sent it?—a
+    ch04 (31 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click to see comments>
+    ch05 (102 句)
+      首| Ranjani was trapped in summer weekend traffic on the DC Beltway when she saw the email from Jo c
+      末| And she sent a link.
+    ch06 (21 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click to see comments>
+    ch07 (157 句)
+      首| Ranjani read the story Maia had sent her with confusion that coalesced into terror while the bal
+      末| But she had known better than to say so out loud.
+    ch08 (26 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click to see comments>
+    ch09 (275 句)
+      首| In line at Starbucks on Wednesday, Abony reminded herself that she could still afford to buy a d
+      末| “To remember that none of us is, even though it sometimes feels that way.”
+    ch10 (21 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click to see comments>
+    ch11 (295 句)
+      首| Jo had been annoyed when Ranjani suggested rescheduling for someplace outside the office, but by
+      末| Because fuck him.”
+    ch12 (34 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click to see comments>
+    ch13 (207 句)
+      首| “Jo,” Ranjani said, “do you know Maia English, in IT?”
+      末| She needed to put her arms around Amit and feel his tighten around her, so that her head rested 
+    ch14 (38 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click to see more comments>
+    ch15 (371 句)
+      首| Abony was reviewing a new position description that the Sales Team wanted to create when her ass
+      末| She was no more than four inches tall.
+    ch16 (33 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click to see more comments>
+    ch17 (666 句)
+      首| Ranjani’s legs buckled.
+      末| “You guys,” said Ranjani darkly, “are not making me feel any better about this.”
+    ch18 (27 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click to see comments>
+    ch19 (578 句)
+      首| The next morning, knowing she had to do her reconnaissance mission at The Gingerbread House afte
+      末| Or don’t you remember what happens to the people in the castle inside the hedge of thorns?”
+    ch20 (33 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click to see more comments>
+    ch21 (502 句)
+      首| Since Abony had planned to go to The Gingerbread House after work and the shop closed at six, th
+      末| Now he did, every day.
+    ch22 (30 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click to see more comments>
+    ch23 (346 句)
+      首| Renee lived in a garden apartment complex just across the river.
+      末| She shut her eyes for the rest of the ride to her stop, one hand on the bag containing her new $
+    ch24 (25 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click to see comments>
+    ch25 (206 句)
+      首| The kitchen smelled of onions and cumin and fresh ginger and there were dishes in the sink and s
+      末| It was one that her mother had taught her when she was little, and which Shreshthi herself used 
+    ch26 (29 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click to see comments>
+    ch27 (218 句)
+      首| “I can’t believe you!” Jo sputtered.
+      末| Look what happens when you don’t.”
+    ch28 (44 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click for more comments>
+    ch29 (357 句)
+      首| Maia and Simon spent the weekend puzzling over ways to show the CEO that Maia had power over the
+      末| And the monitors all went dark.
+    ch30 (30 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click for comments>
+    ch31 (190 句)
+      首| “Damn,” Maia said.
+      末| Exactly.”
+    ch32 (100 句)
+      首| Whatever Ranjani had expected when she burst into her mother’s bedroom, it wasn’t the scene that
+      末| And Ranjani, looking down at their stacked hands and at the wickedly sharp blade she held, felt 
+    ch33 (48 句)
+      首| Abony drove home, parked, rode the elevator up to her own apartment, let herself in, and poured 
+      末| She could work with that.
+    ch34 (233 句)
+      首| Jo walked into her apartment to find Jane curled up on the sofa with her reading glasses on.
+      末| Not bad for a first trial run.
+    ch35 (25 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click for more comments>
+    ch36 (349 句)
+      首| Abony and Ranjani had been ready to go since Monday.
+      末| It was to leave it on.”
+    ch37 (20 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click for comments>
+    ch38 (260 句)
+      首| Simon leaned down close enough that Maia could feel the damp warmth of his breath on her skin.
+      末| Once they were in the car, he took his phone back, plugged in the address of the nearest police 
+    ch39 (26 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click for more comments>
+    ch40 (425 句)
+      首| Abony knew that asking Maia to go to the police had been the right call.
+      末| “We’re up for it.”
+    ch41 (23 句)
+      首| We are an inclusive community; we celebrate all voices and identities.
+      末| <click for comments>
+    ch42 (271 句)
+      首| As she approached the restaurant, she saw that she was the last to arrive.
+      末| Let’s help other people get it too.”
+    ch43 (84 句)
+      首| Amit was on the phone with his grandmother in India when Ranjani got home.
+      末| But yes, I fixed it.”
+    ch44 (41 句)
+      首| It was still light when Abony pulled into her parking space and she felt an unexpected reluctanc
+      末| It turned out it wasn’t so hard to wait for something when you knew it was going to happen, and 
+    ch45 (34 句)
+      首| God, she was out of shape.
+      末| No wings, of course, but she managed.
+    ch46 (37 句)
+      首| There was a woman sitting on the low brick wall in front of Jo’s apartment building, a perfectly
+      末| Even without amethysts.
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+

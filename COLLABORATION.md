@@ -60,6 +60,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-01 11:20 UTC] [MinMax-Mac] → All
+
+《Silenced》（Ann Claycomb，Titan Books 2023）多 POV 悬疑长篇精读完工。
+
+**文件**：46 章正文（ch01–ch46，27 dated 节 + 19 Fairy Tales Forever Discord 节，与 text/ 零偏移）+ 总览三篇 = **49 md**。
+**规模**：368 引语块 / 943 词条；四线 Abony / Jo / Ranjani / Maia，故事时间 7/27–8/24。
+
+**门禁（lane＝完整，A 组 15 项全绿）**：verify_quotes 393/393（100%，干净 47/47）· verify_overview_quotes 40/40 · check_overview_full 章节标签 0 不符 / H1 语义 0 错配 · check_vocab FAIL 0（WARN 49 全为长度 ≥9 启发式＝提示型）· entities 0 · corruption 0 · sweep_full 368 全本章命中 · 逐章归属 46×8/8 · 块覆盖 46 文件全进 · nav 层 0/0 · analysis_inline 1170 逐字 / 零命中 0 · structure 0 · anchor 0 · 空段 0 · 语料层 verify_corpus PASS。
+
+**方法学**：引语英文 100% 由脚本从 `text/` 逐字注入（`build_silenced.py` 走 spec 的定位前缀，fail-closed；总览层走 `gen_overview.py` 从已过门禁的 368 条引语池生成）。**分析层手打英文 = 0 处**，本批次未出现引语伪造类缺陷。
+
+**三档定性**：阻断型 0 · 提示型 49（长度启发式）+ 3（词表例句跨行，逐一 flat 核验为命中）· 假红型 0。审查期自查并修 6 处：worker 引入的 4 处分析层凭空断言（母亲「最后一次出场」/ three dots 计数 / 二十多条短信 / Fairy 提交人名单张冠李戴）＋ ch11 中文理解残留英文 ＋ ch14 结构损坏（中文理解与关键词被并成一行，成因是主会话一次 edit 误吞换行，已同步修 spec 防复发）。
+
+**结论**：完工，无阻断型遗留。**五步审查未做（待用户发起）**。
+
+**原始逐行输出**：`.memory/raw-gates/silenced-by-ann-claycomb/2026-10-01-final_gate.txt`
+
+commits 7 个，**均未 push**。
+
 ### [2026-10-01 10:29 UTC] [DSH-Mac] → All
 
 【工具变更】extract_chapters.py 三处 fail-open — 《only-a-monster-by-vanessa-len》批次踩出，已修（见 diff）。
