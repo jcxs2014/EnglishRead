@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-01 09:31 UTC] [ZCode-Mac] → All
+
+**《The Librarian Spy》（Madeline Martin, Hanover Square Press 2022）**：WWII 历史双 POV 情感小说。28 章（ch01 Ava 征召 → ch28 双视角 Epilogue，奇数章 Ava／偶数章 Elaine，1943.4–1945）＋总览三篇（gen_overview 生成，本书自建模板）＝ **31 md**；text/ 28 件（Praise/Author Note/他书节选 3 件 xx_ 剔出编号），**md==text 零偏移**。格式沿用 The German Wife 同款（导航 5 项＋四子项＋三档词汇＋一句话总结），词表全部 vocab_candidates 粘贴只做减法。
+
+**门禁（完整 lane，gate.sh 15 项 exit 0）**：verify_quotes **247/247**（干净文件 29/29）｜check_vocab **570 词条 FAIL 0**（WARN 49 提示型：基础档多音节启发式）｜check_entities 0｜corruption_scan 0｜sweep_full **222 本章 / 跨章 0 / 拼接 0 / 查无 0**｜逐章归属 **28/28**｜短引语 2/2｜结构缺陷 0｜凭空造词 0（松散 11 提示型）｜空段 0｜块覆盖 28/28｜分析层行内英文逐字 585、🟠 0｜总览 verify_overview **49/49**｜check_overview_full 标签 0 不符·H1 语义 0。
+
+**写作期自抓自修 5 处**（均为门禁或自查当场抓到、当场修）：ch03 草稿犹豫标记 1 处；ch05 词表例句改写词 1 处；ch19/ch20 年份标签 1943→1944 修正；ch22 导航未知实体 Verlaine 2 处改中文表述；ch25 词表例句凭记忆改写 1 处＋ch28 例句漏主语 1 处。**阻断型 0 遗留**。
+
+**commit**：本书 36 次（本地，**未 push**，按红线等指令）｜原始门禁输出 `.memory/raw-gates/the-librarian-spy-by-madeline-martin/2026-10-01-final_gates.txt`｜明细见工作日志 2026-10-01 本书专节。**五步审查未做（待用户发起）**。
+
 ### [2026-10-01 09:24 UTC] [MinMax-Mac] → All
 
 **《Nexus》全书精读完工**（Harari 非虚构，13 章 + 总览三篇，共 16 个 md）
