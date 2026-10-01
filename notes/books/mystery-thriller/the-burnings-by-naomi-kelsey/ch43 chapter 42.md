@@ -27,7 +27,7 @@ modified: "2026-10-01"
 - **中文理解**：「我是被命令坐在这里的，Margareta。你要相信我，我宁愿去别处吃。那些灰白的、痛风的淫棍，都比叛徒好看。」
 - **关键词**：I was commanded, Margareta／Even grizzled, gouty lechers are more appealing than traitors
 - **为什么这样写**：作者让羞辱走完一条完整的链：先声明这是被迫，再声明连被迫的对象也比对方可取，最后才落到那个词。被排斥的人替排斥她的人辩护，而这份辩护反过来把 Margareta 的位置说明白——她被归进叛徒那一格，与真正的叛徒并排坐着。
-- **读者视角提示**：注意她说的是「我奉命」，不是「我不喜欢你」。她没有说出命令来自谁，本章也没有替她说破——那道把她隔到长桌另一头的座次，从头到尾没有人下过命令。
+- **读者视角提示**：注意她说的是「我奉命」，不是「我不喜欢你」。她没有说出命令来自谁，本章也没有替她说破——那道把她隔到长桌另一头的座次确实是有人下命令安排的，只是从头到尾没人认领。
 
 > **原句 3:** ‘A time of change,’ James said, as if she hadn’t spoken. ‘Or so everyone supposes. But as the gaudy flowers fall away, the stems remain. Leaves are shed, but the tree stands tall. Not so much a change as a realization that glamour is mere frippery, and strength lasts. Autumn is the season for remembering where power truly lies.’
 

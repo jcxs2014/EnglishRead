@@ -17,7 +17,7 @@ modified: "2026-10-01"
 
 > **原句 1:** The boy toddled between rosebushes, clapping his fat little hands always a beat behind the butterflies he couldn’t catch. His chuckles cantered ahead of the spring breeze up to Stirling’s walls, where Margareta rested her elbows on warm stone and watched the young prince. Henry, they’d christened him, perhaps in homage to the English queen’s father, an attempt to flatter her into naming an heir at last – or perhaps James endeavouring to exorcise the ghost of that last Henry Stuart, his murdered father.
 
-- **中文理解**：孩子在玫瑰丛间跌跌撞撞地走，胖胖的小手总比抓不到的蝴蝶慢半拍才拍过去。他的笑声顺着春风先一步飘上 Stirling 的城墙，Margareta 把手肘搁在暖石上看着这位小王子。他们给他取名 Henry，也许是讨好英国女王的外祖父、想借此逼她终于指定继承人；也许是 James 想借此驱散上一个 Henry Stuart——他那位被谋杀的父亲——的鬼魂。
+- **中文理解**：孩子在玫瑰丛间跌跌撞撞地走，胖胖的小手总比抓不到的蝴蝶慢半拍才拍过去。他的笑声顺着春风先一步飘上 Stirling 的城墙，Margareta 把手肘搁在暖石上看着这位小王子。他们给他取名 Henry，也许是讨好英国女王的父亲、想借此逼她终于指定继承人；也许是 James 想借此驱散上一个 Henry Stuart——他那位被谋杀的父亲——的鬼魂。
 - **关键词**：The boy toddled between rosebushes／the young prince／exorcise the ghost of that last Henry Stuart, his murdered father
 - **为什么这样写**：全书的最后一章不给主角一个特写，先给一个追蝴蝶的孩子，再给取名的两条理由。作者把动机写成两种猜测并置，谁也没定论；更狠的是两个猜测指向同一件工具：用一个死人的名字去办活人的事。第一句里孩子的节奏永远慢半拍，作者把这个小小的落空留在开场。
 - **读者视角提示**：这章没有交代王子后来怎样，名字的两种说法也没有定论。不要替它选边。

@@ -10,8 +10,8 @@ modified: "2026-10-01"
 - **一句话概括**：All Saints’ Day 早上，John 说出他在 North Berwick 看见的那一夜，Margareta 才明白 Geillis 和 Agnes 一直在给她喂的药是做什么用的；她冲进 Anna 的房间时已经太迟，而她自己被钉在房里不许见光。
 - **情感弧线位置**：从早餐的暖一路推到门闩落下后的黑暗；中间那段算剂量的心理活动是本章最长的一段推演，紧接着就是崩溃——作者让她先算清楚，再让她来不及。
 - **线索结构**：他在坟场里挑中 Geillis 做双面间谍（ch30 是 Geillis 亲历那一夜，读者先知道，当事人的丈夫后知道）；她复盘码头那句关于艾草的打听（ch27 正是 Geillis 自己说出那句话的场景，她当时没有把它当成谋害）；最后那句“我们已经准备好了”指向本章不在场的行动，本章不给答案。
-- **人物弧线**：Margareta 从“我算不了这个分量”退到“我允许自己被利用”，再退到“被关在这里我什么都做不了”；John 从那个半夜赶回家的丈夫，变成宣布自己早已备好的人——备的是什么，他到最后也没告诉她。
-- **叙事手法**：第三人称限知贴住 Margareta；前半用早餐的暖写裂缝（面包、黄油、浓汤、麦酒），后半用钉死的窗板与两支蜡烛写闷；中间那段算剂量的心理活动是本章唯一保持理性的段落，用来给崩溃蓄力。
+- **人物弧线**：Margareta 从“我不过是个无名之辈”退到“我允许自己被利用”，再退到那句“困在这里，我还能做什么”；John 从那个半夜赶回家的丈夫，变成宣布自己早已备好的人——备的是什么，他到最后也没告诉她。
+- **叙事手法**：第三人称限知贴住 Margareta；前半用早餐的暖写裂缝（面包、黄油、浓汤、麦酒），后半用钉死的窗板与两支蜡烛写闷；中间那段算剂量的心理活动是本章最长也最冷的一段推演——它和开头丈夫那段挑人的冷静推演是同一套脑子，用来给崩溃蓄力。
 
 ## 精读
 
@@ -34,7 +34,7 @@ modified: "2026-10-01"
 - **中文理解**：能算的都让她算完了：喝下去多少剂、什么算多、什么算少。她推出来的结论是对方不会用猛药，因为猛药会让人立刻指向下毒的人；她们只会慢慢来。最后两句把判断推翻成了希望——也许还来得及。
 - **关键词**：What was too many／if one dosage caused a miscarriage／gradually poisoning an unborn baby／Perhaps it wasn’t too late
 - **为什么这样写**：这是本章最长的一段推演，而它的方向是往自己这边加重：她越算，越确定那两个人不蠢；不蠢就意味着精细；精细就意味着不留痕。中间那次自我纠正把两串词并排放着，把她所恐惧的性质改了——她怕的不是恶，是细致。末尾两个 Perhaps 把推理收成祷告。
-- **读者视角提示**：注意她算的是“剂量”，不是“人”。一直到冲出这个房间，她的思路都还在药理上，而不是在背叛上——这是本章最深的一处错位。
+- **读者视角提示**：注意她算的是“剂量”，不是“人”。可这段推演一结束，作者并没有让她继续算下去：紧接着她自己把 Geillis、Agnes、Ilsa 一条条接过来认账，这道错位一直到她冲进 Anna 的房间才收口。
 
 > **原句 4:** Anna moaned. Immediately, Margareta moved towards the great bed and the other women parted for her: the awkwardly hovering Scotswomen; Vibeke, empty-handed, looking like a soldier who’d lost their sword. Anna lay curled in a ball, arms wrapped around the agony and emptiness of her belly. She looked tiny, doll-like, not the queen she’d begun to be. What did crowns or jewels matter in this room?
 
@@ -55,7 +55,7 @@ modified: "2026-10-01"
 - **中文理解**：“是我允许自己被利用的。”她苦涩地摇了摇头。
 - **关键词**：I allowed myself to be used
 - **为什么这样写**：前面他还在试图把责任揽过去，这里她自己接了回来。主语从被动变成主动，句子也就从辩解变成认罪。作者只给两句，让这一句独自站着，因为本章所有的重量都压在这半句上。
-- **读者视角提示**：把这半句和她开头那句“我算不了这个分量”对读：这一章她没有一句为自己开脱的话。
+- **读者视角提示**：把这半句和她刚开头那句“我不过是个无名之辈”对读：从这一刻起，她没有再替自己说过一句开脱话。
 
 > **原句 7:** He kissed her, a lingering farewell. Before she could ask – who, how – he was striding away, on business she couldn’t help with and would only ruin if she tried. The doors closed behind him. The maid slid the bolts home, and Margareta was trapped, helpless in the darkness.
 
