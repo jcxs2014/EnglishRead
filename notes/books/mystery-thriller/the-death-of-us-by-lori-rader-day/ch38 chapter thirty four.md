@@ -62,7 +62,7 @@ She couldn’t care. If she cared at all, it was more than she should.
 
 **中文理解**：「嗯，」Mercer 说。「这个我不太确定。是个硬东西，不算太尖锐。也许是块石头？那附近到处都是。」
 
-**关键词**：Something hard, not too sharp. A rock, maybe. Lots of those lying around
+**关键词**：Something hard, not too sharp. A rock, maybe? Lots of those lying around
 
 **为什么这样写**：作者让一个警探用「也许」给出死因，而紧跟的那句（那附近到处都是）就是全书最重要的一条地理信息——**采石场**。这一格的写法极其克制：没有指纹、没有凶器、没有匹配，只有一种材质和一个方位。
 

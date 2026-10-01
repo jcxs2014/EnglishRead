@@ -37,7 +37,7 @@ modified: "2026-10-01"
 
 **中文理解**：我跟她那件事一样都没沾。我只是在保护我家人。把 Patty 和那个便宜货隔开，挡住她的说法，而且谁晓得我是不是真凶？谁晓得呢，直到她转过身来把他剩下的那点货卖给了 Link，确保我无论用什么方式都得替那个私生子付账，确保我这辈子都不可能在不把真相抖出来的前提下救 Link。
 
-**关键词**：I only protecting my family｜my sloppy seconds, making sure I paid for her bastard one way or the other
+**关键词**：I was only protecting my family｜my sloppy seconds, making sure I paid for her bastard one way or the other
 
 **为什么这样写**：作者用一段极其绕的口语把全书十五年的因果全部说完，而两个词组是它的骨头：sloppy seconds（剩下的那点货）和 her bastard（那个私生子）。而最后两句的结构是一个死结——**他不可能救儿子而同时保住秘密**。这一格也解释了他为什么在 ch03 宁愿放弃房子。
 
@@ -74,7 +74,7 @@ Ashley to come back and ask for more.
 
 **中文理解**：「要是警察想杀你，你也会这么激动，」Patty 说。
 
-**关键词**：“You’d be agitated, too, if the police tried to kill you,” Patty said.
+**关键词**：“You’d be agitated, too, if the police tried to kill you,” Patty says.
 
 **为什么这样写**：作者让 Patty 在自己丈夫瘫在池边的时候说出一句彻底不讲道理的话，而这句不讲道理是**对的**——那个警察十五分钟前还在指控她丈夫性侵和谋杀，而这个老人刚刚差点淹死在这栋房子自己的泳池里。而作者随即把这句话交出去，让另一个人接。
 

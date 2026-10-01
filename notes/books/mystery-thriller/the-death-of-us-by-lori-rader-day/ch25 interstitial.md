@@ -39,7 +39,7 @@ He’s entertaining as hell, telling me stories about the things he got up to—
 
 **中文理解**：他进来坐一会儿，逗死人了，讲他干过的那些事——有些还是在这个屋顶底下。
 
-**关键词**：entertaining as hell／some of them, under my roof
+**关键词**：entertaining as hell／under my roof, some of them
 
 **为什么这样写**：作者让父亲承认一件事：他知道儿子讲的那些事里有一部分就发生在他自己家里。而他用的词是逗死人了——他欣赏儿子那股浑劲。这正是这一格最冷的地方：一个父亲在听自己的儿子交代他偷了谁家的什么。
 

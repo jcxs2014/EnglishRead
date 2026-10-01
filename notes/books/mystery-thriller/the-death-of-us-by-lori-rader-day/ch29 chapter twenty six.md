@@ -97,7 +97,7 @@ modified: "2026-10-01"
 
 **中文理解**：「我不是 Link，Lissette。我不会只当你的朋友。」
 
-**关键词**：I’m not Link, Lissette. I’m not going to be your friend
+**关键词**：I’m not Link, Lissette… I’m not going to be your friend
 
 **为什么这样写**：作者用第二个名字称呼她（而不是平时那种），然后一句话把全书对「朋友」这个词的用法彻底翻过来。而她那一格的回答是三个字：好的，好——而作者立刻拆穿她（她没练习过对他撒谎，两个人都不信）。
 

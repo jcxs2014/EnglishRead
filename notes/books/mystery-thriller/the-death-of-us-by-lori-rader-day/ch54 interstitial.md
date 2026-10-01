@@ -61,7 +61,7 @@ modified: "2026-10-01"
 
 **中文理解**：我发现自己的手腕被绑住了。不是说我跑得掉，可他们不留任何余地。他们不信我。
 
-**关键词**：My wrists are secured down. Not like I could get away, but they aren’t taking chances. I’m not to be trusted.
+**关键词**：My wrists are secured down… Not like I could get away, but they aren’t taking chances. I’m not to be trusted.
 
 **为什么这样写**：这一格的结构是三段递进，而最后一段是全书至今唯一一次由他自己承认的**社会性判决**：他不是被当病人捆起来的，他是被当**风险**捆起来的。而作者把这个结论用一个最短的句子放下，没有解释，也没有申诉。
 
@@ -86,7 +86,7 @@ modified: "2026-10-01"
 
 **中文理解**：从前我想要你有的东西，」Slocum 说着摇头。他正在把橙子皮卷成长长的一条。手艺不错。「可现在我不会当你——给多少钱都不会，当不了，不值。」
 
-**关键词**：“I used to want what you had.”／But I wouldn’t be you now. Not for all the money, not for this ranch or that lady. Not worth it.
+**关键词**：“I used to want what you had.”／But I wouldn’t be you now… Not for all the money, not for this ranch or that lady. Not worth it.
 
 **为什么这样写**：作者让反派在此刻说出**他十五年前的位置**（他曾经想要的正是这个警长的位置），而作者紧跟着的一格立刻把这句话驳回：他在抱怨什么？他怎么知道什么值不值？也就是说，这段话里唯一有分量的不是恭维，是那个他自己也承认的**不服**（不值）。而卷橙子皮那个动作作者评为「手艺不错」——四字是全书最阴的一句评语。
 

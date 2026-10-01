@@ -86,7 +86,7 @@ But the other boyfriend had died. “Where’s your mother?” she said.
 
 **中文理解**：他们这是把男孩当成亲手淹了 Ashley 的。可这讲不通，可这把她推到了被注意的位置上。后面轮到 Callan 时她听得更仔细，每个词、每个细微差别都听。
 
-**关键词**：They were treating these boys like they’d drowned Ashley themselves／She was paying much closer attention later
+**关键词**：They were treating these boys like they’d drowned Ashley themselves／She was paying more attention later／Paying much closer attention
 
 **为什么这样写**：作者把一句荒谬的观察写成客观陈述：结论荒谬，推理正常，于是荒谬就落在镇上那一整套习惯上。而更妙的是最后两句：她后来听得更仔细，而正是这份仔细害了她——因为她要听的那场问话里有东西不对。
 

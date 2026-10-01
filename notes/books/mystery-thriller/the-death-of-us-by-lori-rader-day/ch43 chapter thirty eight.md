@@ -25,7 +25,7 @@ modified: "2026-10-01"
 
 **中文理解**：那张照片的图注写的是「provided」。匿名。可它只可能是从那群男孩里的某一个手里弄来的。
 
-**关键词**：“provided.” Anonymous. But it could have only been sourced from one of the boys
+**关键词**：“provided.” Anonymous. the photograph was credited to… anonymous
 
 **为什么这样写**：一张报纸上的照片，图注写着「provided」，等于零信息量；而作者紧跟的这一句把整件事从「匿名」翻成了「有一件待查的事」。而这一格的指向极窄也很准：那群在湖边聚会的孩子里有一个。而她此刻正在带其中一个回家。
 

@@ -61,7 +61,7 @@ modified: "2026-10-01"
 
 **中文理解**：「别拿你兑现不了的承诺去伤我孩子的心，好吗？还有他母亲的。」
 
-**关键词**：Don’t break my kid’s heart with promises you can’t deliver on. Or his mother’s
+**关键词**：Don’t break my kid’s heart with promises you can’t deliver on… Or his mother’s
 
 **为什么这样写**：作者让威胁藏在一句请求里，而真正扎人的是那个「还有」——因为说出这一串的时候，被伤到的那一个和这个他几乎不可能是同一个人。而作者紧跟着的那句内心旁白把这件事拆开给读者看：他知道说的是谁，而往后他要许诺的，是另一个。
 
@@ -87,7 +87,7 @@ Did you track any of these numbers?”
 
 **中文理解**：那我还有个小工程。
 
-**关键词**：And then I have a little project
+**关键词**：What other cases were
 
 **为什么这样写**：作者把这四个字单独切成一段，因为它要带出全书至今最大的一次自我修正——**去查他那位前任把时间花在了哪儿**。而在 ch29 那一格就已经知道：Key 的原始记录薄得不像样子。而这一句的功能是把调查方向从「谁干了」整个掉头成「十五年来谁在管这件事」。
 

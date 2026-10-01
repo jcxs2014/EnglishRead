@@ -25,7 +25,7 @@ modified: "2026-10-01"
 
 **中文理解**：「人家会说话的，警长。」她说，语气很平。「你来得这么勤，他们会说我们在约会。」
 
-**关键词**：People will talk. You’re here so often, they’ll say we’re courting
+**关键词**：People will talk… You’re here so often, they’ll say we’re courting
 
 **为什么这样写**：作者用一个把玩笑说得像警告的句子开场，而作者紧跟的那句旁白给出她的真实期待：**她希望自己想错了**——她盼的是他说事情都摆平了。而这一格的厉害在于，这个镇对一位丧子母亲的公开评价标准，居然是「谁在追她」。
 
@@ -85,7 +85,7 @@ modified: "2026-10-01"
 
 **中文理解**：「我刚才说的是，Robbie 那辆车，除非他不要钱，不然他绝不会给出去。」
 
-**关键词**：Robbie wouldn’t have given up that car of his for the world. If he’d not needed the money
+**关键词**：Robbie wouldn’t’ve given up that car of his for the world… If he’d not needed the money
 
 **为什么这样写**：作者让母亲用自己的常识否掉了一个诱人的推论——不是他不想，是因为他需要钱。而这条「需要钱」在她嘴里是理由，在他心里是**线索**，而作者立刻让她接上了全家书那一页：需要钱这件事，这个家族里都有。
 
@@ -97,7 +97,7 @@ modified: "2026-10-01"
 
 **中文理解**：「他喜欢自己作主。他不喜欢欠人。」Mim 望向园子。「这个，mind，这个家族里都有。」
 
-**关键词**：He liked to be his own man. He didn’t like to be beholden. That runs in the family, mind
+**关键词**：He liked to be his own man… He didn’t like to be beholden… That runs in the family, mind
 
 **为什么这样写**：作者用三个短句把一个人的性格和一句家族史连起来，而最后那个英式的 mind（听着）是全书最冷的一个词——它既是「我说真的」，也是「我不是在指责」。而全章在这里收掉：她期待的是她应得的东西，而那是他未必给得起的。
 

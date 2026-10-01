@@ -73,7 +73,7 @@ modified: "2026-10-01"
 
 **中文理解**：Liss 皱着眉看地上。「感觉人们并不是在挑 Ashley 的错，也不是在怪产后抑郁。感觉他们在看的是……我们。」
 
-**关键词**：not finding fault with Ashley or blaming postpartum depression／they’re looking at . . . us
+**关键词**：people are finding fault with Ashley or blaming postpartum depression／they’re looking at . . . us
 
 **为什么这样写**：作者让主角自己否掉了那个最省事的解释（大家只是在骂一个坏女人／一个生完孩子的病人），并给出真正的那一个：看的是这一家。而「产后抑郁」这四个字出现得极轻——原书至今没有认定 Ashley 患过这个病，作者是借它来写镇上人**没有**使用的那套话。
 
@@ -85,7 +85,7 @@ modified: "2026-10-01"
 
 **中文理解**：「零容忍政策——」Liss 想不出一个她真想做的论证。那条政策是用来管有人带武器进校、有人在本子柜里藏东西的。
 
-**关键词**：The zero-tolerance policy—／she couldn’t think of an argument she wanted to make
+**关键词**：The zero-tolerance policy—／couldn’t think of an argument she wanted to make
 
 **为什么这样写**：作者让这句停在一个破折号上，而破折号后面那半句她说不出口。理由在下一段给：那是她被绑住的规矩。于是全章的压抑有了制度性的来源——她不是不想反驳，是她本人就是执行这套规矩的人。
 

@@ -73,7 +73,7 @@ modified: "2026-10-01"
 
 **中文理解**：可 Wards 家的房子是黑的。「你妈今晚在家吧？」Liss 说。「她还能在哪儿？」Jamie 说。他一下车就往前爬。Liss 等到他进屋把门关好。她至少会开着门廊灯。
 
-**关键词**：the house was dark／She would have left the porch light on, at least
+**关键词**：the house was dark／Your mom’s home tonight, right
 
 **为什么这样写**：作者用一盏门廊灯把贫富差距写完，不需要任何形容词。Jamie 的回答也很妙：不谈父母在不在，直接回答她还能在哪儿——孩子对这套客套熟悉得很。
 

@@ -61,7 +61,7 @@ modified: "2026-10-01"
 
 **中文理解**：他试着活动四肢。他的左臂只想待在原处——而他本来是右利手。右手的手指抓住、张开，**每一个动作都要用尽全力**。
 
-**关键词**：His left arm wanted to stay where it was but he was right-handed. It took all his strength to exert the effort
+**关键词**：His left arm wanted to stay where it was but he was right-handed… It took all his strength to exert the effort
 
 **为什么这样写**：这一格是全书最省的一次伤情描写：作者不用医学词，只用**惯用手**这一件事把损伤换算成困难（右利手的人没法用右手的力气去做完右手的事）。而「他不想待在原处」这个拟人写法更好——它把左臂写成了一个不听话的部件。
 

@@ -61,7 +61,7 @@ modified: "2026-10-01"
 
 **中文理解**：「我一直就知道爸爸没有做。」
 
-**关键词**：“I always knew Dad didn’t do it,” Callan said
+**关键词**：“I always knew Dad didn’t do it,” I always knew Dad didn’t do it
 
 **为什么这样写**：作者让一个孩子说出全书里最不可能成立的一句确信，而她心里的反应是：哦，一个儿子对他父亲有这样的自信——然后那个词自己填上了空：父亲。而作者把这三段拆开（确信／父亲／她硬挤出一个笑），是因为这一格的分量正好等于那个词的反面。
 

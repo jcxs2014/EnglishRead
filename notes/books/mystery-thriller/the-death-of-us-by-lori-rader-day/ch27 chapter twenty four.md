@@ -37,7 +37,7 @@ modified: "2026-10-01"
 
 **中文理解**：「我什么都说了，」Link 说。「不是我做过的哪一件事，而是我没做的所有事。」
 
-**关键词**：not one thing I did, but all the things I didn’t
+**关键词**：wasn’t one thing I did, but all the things I didn’t
 
 **为什么这样写**：作者用一个对仗把一个人的全部过错重新分类：错的不是动作，是缺席。而这一句同时也是本书的判词结构——十五年来这个家丢的不是某人做了什么，是某人没做什么。
 
@@ -86,7 +86,7 @@ She would forgive anything.
 
 **中文理解**：她愿意答应任何事。她愿意原谅任何事。她愿意不再要别的。
 
-**关键词**：She would agree to anything. She would forgive anything. She would ask nothing else
+**关键词**：She would agree to anything. She would forgive anything
 
 **为什么这样写**：作者用三行独立成段把一个人在渴望中的自欺写到极致，而第三行是代价：她愿意什么都不要。这三行是全书对这本书最危险的机制的一次精确命名——它解释了后面所有的沉默、所有的不追问、所有替 Link 说的话。
 
@@ -98,7 +98,7 @@ She would forgive anything.
 
 **中文理解**：「我喜欢把关系处得和气些，不过我不能说你是我的最爱 Kehoe。」Slocum 说。「差得远呢。就当这是一次警告。」
 
-**关键词**：consider things cordial／Consider it a warning
+**关键词**：keep things cordial／Consider it a warning
 
 **为什么这样写**：作者让威胁用一个客气的外壳说出来（喜欢和气／最爱 Kehoe），而真正的信息只有最后四个字。而她那一格的反应更值得记：她听懂了关键词（警告），却没有像自己应该的那样松一口气。
 

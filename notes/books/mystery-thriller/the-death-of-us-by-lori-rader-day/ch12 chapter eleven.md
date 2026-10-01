@@ -37,7 +37,7 @@ modified: "2026-10-01"
 
 **中文理解**：「是她吗？」Larry Norville 问。Mercer 连头都不用转。Parkins 第一号关心市民。局里的人叫他 Roberts Rules——因为他总在镇议会的听众席上按程序发问；或者叫他 Larry Lawsuit——那些他从来没兑现过的威胁；或者 Petition Patty——那些他兑现过的。他坐在柜台另一头，跟儿子 Pete 一起；Pete 经营本地的机械厂，顺带保养全镇的巡逻车。大概收费高了点，但手艺好，而且比他老子少吵得多。
 
-**关键词**：Roberts Rules／Larry Lawsuit／Petition Patty
+**关键词**：Robert’s Rules／Larry Lawsuit／Petition Patty
 
 **为什么这样写**：作者用三个绰号把这个人写成一台小型舆论机器，而且每一个绰号都配一句解释。而最有分寸的一笔是最后那句比较：儿子手艺好，只是比老子吵得少——这一家在这个镇上的位置，一句话交代完。
 

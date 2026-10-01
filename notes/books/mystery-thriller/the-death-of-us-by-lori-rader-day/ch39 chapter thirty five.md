@@ -63,7 +63,7 @@ But I can’t exactly put you behind bars, can I? The shape you’re in.”
 
 **中文理解**：我开始觉得，能吊死我的罪名怕是有好几条，可要是我真能被吊死的话。不过说到第一个那个真相倒让我为难了：我要打碎谁的心？「我现在手里拿着这些信息，知道这些事，哪些人的人生会被我彻底毁掉？」
 
-**关键词**：quite a few crimes I could hang you for｜Which hearts do I break
+**关键词**：quite a few crimes I could hang you for｜Whose hearts do I break
 
 **为什么这样写**：作者让一个人的自白和对质在同一句话里完成转换——他数着自己能定的罪，紧接着问的是要毁掉谁的人生。这一格是全书对主角最不客气的刻画：他清楚自己握着的是什么，也清楚它的价码。而他接下来做的事仍然是去了那栋房子。
 
@@ -99,7 +99,7 @@ But I can’t exactly put you behind bars, can I? The shape you’re in.”
 
 **中文理解**：「他要是再出一点事，Mercer，」Patty 说。「我就告你伤害罪。我让你面对火刑架。我还要让这个镇因为你当初雇错人而破产。」
 
-**关键词**：I’ll have you in court for assault｜I’ll have you facing a firing squad｜I’ll bankrupt this town for hiring you in the first place
+**关键词**：I’ll have you in court. For assault｜I’ll have you facing a firing squad｜I’ll bankrupt this town for hiring you in the first place
 
 **为什么这样写**：作者让一个几乎溺死的人刚从水里出来就被三句等长的威胁砸中，而三句的最后一句把自己也算了进去（因为当初雇了他）。这一格的讽刺是双向的：她指控的这个人此刻还在想着一件他还没做的事——他还留着关于镇上官员的把柄，只是他说现在不是时候。
 

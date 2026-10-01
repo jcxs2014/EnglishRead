@@ -73,7 +73,7 @@ modified: "2026-10-01"
 
 **中文理解**：「那两个家伙很可能是兄弟，Mercer。不是父子。是同父异母／同母异父的兄弟。」
 
-**关键词**：likely brothers. Not father, son. Half-brothers
+**关键词**：likely brothers… Not father, son. Half-brothers
 
 **为什么这样写**：作者让解释分成三级：不是父子 → 是兄弟 → 只是同母或同父的一半。这个顺序是有讲究的——每一级都在拆掉一层本该最稳固的关系，而三级拆完，剩下的那个位置是全书唯一还没被命名的人。
 

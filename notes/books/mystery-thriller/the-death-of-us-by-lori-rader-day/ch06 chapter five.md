@@ -73,7 +73,7 @@ modified: "2026-10-01"
 
 **中文理解**：他必须把每一步都做对。不许出错，不给他们在投票上卡他脖子的楔子，不让他们把自己的新兵整残。不许有东西把他抹黑登在报上。不许让 Liss 失望。这里本来就是她的地盘，她的家人，她的了结。
 
-**关键词**：No room for error／a wedge for them to use on him at the polls／Her family, her closure
+**关键词**：No room for error／no wedge for them to use on him at the polls／Her family, her closure
 
 **为什么这样写**：作者把竞选、案子、私情三条线压进同一段排比，而每一项都以不许打头。这是全书对 Mercer 处境最准的一次概括：他做什么都有人看着，包括他心里那点算盘。
 
@@ -97,7 +97,7 @@ modified: "2026-10-01"
 
 **中文理解**：问题是，这里面有些蟑螂见不得聚光灯。
 
-**关键词**：cockroaches won’t hold up to a spotlight
+**关键词**：cockroaches wouldn’t hold up to a spotlight
 
 **为什么这样写**：作者用一个比喻收掉全章，也收掉全书的问题：光确实会照进来，但被照的人未必站得住。蟑螂这个选择很脏、很准——不是无辜的人，是藏在下水道里的那一类。
 

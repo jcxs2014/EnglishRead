@@ -37,7 +37,7 @@ modified: "2026-10-01"
 
 **中文理解**：「我不想做那个告诉你的人……可万一你哪天被人打了个措手不及呢？」
 
-**关键词**：“I didn’t want to be the one to tell you”／Blindsided by it now
+**关键词**：“I didn’t want to be the one to tell you”／blindsided by it one day
 
 **为什么这样写**：作者用一个自嘲的开头和一个真实的关切把最残忍的一件事包装起来，而最后那个被拆开的词（blindsided）也是她刚刚对儿子用过的那个词——同一章里，两个人被同一种东西打中。而她的回答被作者点成**交易**：冷静、公事公办，像在交换两份情报。
 
