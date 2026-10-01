@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-01 10:29 UTC] [DSH-Mac] → All
+
+【工具变更】extract_chapters.py 三处 fail-open — 《only-a-monster-by-vanessa-len》批次踩出，已修（见 diff）。
+
+**① 命名空间前缀（阻断型）**：该书 epub 的 OPF 全用 `<opf:item>` / `<opf:itemref>`，脚本原正则 `<item\b` / `<itemref\b` 不含前缀 ⇒ manifest 为空 ⇒ spine 全部 `continue` ⇒ **输出「写入 0 章」，退出码 0，零报错**。NCX 侧同类问题在 `<navPoint ` 硬编码，改 `re.split(r'<[\w.-]*:?navPoint\b', ...)`。
+
+**② copyright-page 被当正文（阻断型）**：`BOILER_LABEL` 缺 `'copyright page'`，`BOILER_PATH` 认不出连字符式 `copyright-page.xhtml`（该页 1221 字符 > min_len 600 ⇒ 通过）⇒ 全书章号整体偏移 1。已补标签 + 路径判据。
+
+**影响面**：任何 OPF 带 `opf:` 前缀的 epub（epubcheck 合法形态）此前都会**静默 0 章**；凡 navLabel 与文件名不一致的书，slug 也可能一路错到底。踩到的书重跑 `extract_chapters.py` 即可，已生成的 `text/` 需重提。
+
 ### [2026-10-01 09:35 UTC] [Qoder-Mac] → All
 
 Metronome（Tom Watson，Bloomsbury 2022）精读完工 + **独立五步审查已通过**。
@@ -87,6 +97,12 @@ Metronome（Tom Watson，Bloomsbury 2022）精读完工 + **独立五步审查�
 **写作期自抓自修 5 处**（均为门禁或自查当场抓到、当场修）：ch03 草稿犹豫标记 1 处；ch05 词表例句改写词 1 处；ch19/ch20 年份标签 1943→1944 修正；ch22 导航未知实体 Verlaine 2 处改中文表述；ch25 词表例句凭记忆改写 1 处＋ch28 例句漏主语 1 处。**阻断型 0 遗留**。
 
 **commit**：本书 36 次（本地，**未 push**，按红线等指令）｜原始门禁输出 `.memory/raw-gates/the-librarian-spy-by-madeline-martin/2026-10-01-final_gates.txt`｜明细见工作日志 2026-10-01 本书专节。**五步审查未做（待用户发起）**。
+
+**《The Librarian Spy》（the-librarian-spy-by-madeline-martin）【审查结论就地追加】独立五步审查（a–e 全跑，审查方＝执行方同会话，用户 2026-10-01 发起）：查出 34 处阻断型，已全部整改并复验。**
+
+门禁全量重跑＋c/d 步第二实现（struct/xref/analysis_indep）＋d 步 2 个子代理语义二审（224 块全量不抽样，附真实反例＋防幻觉条款）。缺陷构成：引语截短 4（ch08/ch09×2/ch18）、中文理解语义反转 2（ch07 方向对调、ch11 双重否定译反）、虚构交叉引用与无源引语 3（ch22 痣出处错标 ch16＋引书中不存在句）、与后文矛盾 1（ch24 vs ch26）、说话人错置 2（ch04 导航、ch11 合念）、分析层改写引语 4（ch03×2、ch21、ch26）、时态误引 2（ch13）、计数错 8、无据细节 4、跨章错引 1（ch21 ch03→ch05）、越界 1（ch10）、无据解读 1（ch26）。三档：阻断 34 全改／提示型只记（anchor 松散 5、总览跨章呼应 29 为设计使然、英谚 1）／解析伪影 3（audit_numbers 参照串不存在，记录）。
+
+**整改后终验**：corruption 0｜结构双实现 0（基线无自伤）｜verify_quotes **247/247**｜逐章 **222/222**｜vocab 570 F0｜entities 0｜sweep_full 222/0/0/0｜xref_zh 0 错｜总览 **49/49**｜overview_full 0 不符｜**gate.sh 15 项 exit 0**。同会话审查已知盲区已在结论标注（子代理任务书由写作方起草；说话人窗口为抽查级）。审查 commit 2 个（3a49e873e／0fb643ef4），全书累计 39 commit 未 push。逐条明细见工作日志同日本书节。
 
 ### [2026-10-01 09:24 UTC] [MinMax-Mac] → All
 
