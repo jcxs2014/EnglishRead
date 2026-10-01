@@ -85,7 +85,7 @@ modified: "2026-10-01"
 
 **读者视角提示：** 读者会在「怕引发山火」这里察觉这套仪式的算计：他们不是省事，是算过火势。
 
-> **原句 8:** "The house is itself at the top of a gentle hill, so they’ve raised her up as if for a sky burial. She’s the highest point for miles around. She’s dressed in white, her dark and shiny skin a net of fine wrinkles. White for death: that’s a Luriati fashion. Even Acusdab has not been immune."
+> **原句 8:** "As it is, the pyre is only a little higher than the roof—what’s left of it, an encircling barrier. The house is itself at the top of a gentle hill, so they’ve raised her up as if for a sky burial. She’s the highest point for miles around. She’s dressed in white, her dark and shiny skin a net of fine wrinkles. White for death: that’s a Luriati fashion. Even Acusdab has not been immune."
 
 **中文理解：** 屋子本身就坐落在一座缓坡的顶上，所以他们把她抬了起来，像是要办一场天葬。柴堆只比屋顶高一点——屋顶还剩下的那部分，成了一道环绕的屏障。她是方圆几里之内最高的一点。她穿着白衣，深色发亮的皮肤上是一张细密的皱纹网。白色代表死亡：那是 Luriat 的风俗。就连 Acusdab 也没有免疫这一点。
 

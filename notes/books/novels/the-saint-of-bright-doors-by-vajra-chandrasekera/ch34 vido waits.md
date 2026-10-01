@@ -15,7 +15,7 @@ modified: "2026-10-01"
 
 ## 精读
 
-> **原句 1:** "Vido waits for a night when he’s feeling less sick. I observed his intentions form slowly like clouds over many days, so I collude: I huddle into the smallest fold of his cortex, behind his eyes, and allow him to feel as healthy and vital as he needs to be."
+> **原句 1:** "Vido waits for a night when he’s feeling less sick. I observed his intentions form slowly like clouds over many days, so I collude: I huddle into the smallest fold of his cortex, behind his eyes, and allow him to feel as healthy and vital as he needs to be. I help him visit the Perfect and Kind in his room, a demon lover."
 
 **中文理解：** Vido 等一个他觉得没那么难受的夜晚。我看着他那些念头像云一样在很多天里慢慢聚拢成形，于是我配合他：缩进他皮层最小的一道褶里，躲在他眼睛后面，让他觉得自己像他需要的那样健康有力。我陪他去房里见那位完美者，做一个恶魔情人。
 

@@ -15,7 +15,7 @@ modified: "2026-10-01"
 
 ## 精读
 
-> **原句 1:** "There comes a point where pillars of smoke mark the city’s crematoria as much as sites of murder. The crematoria are overloaded with victims of the plague. There are queues, and protestors flanking the queues, the bereaved whose traditions demand burial in earth or sky, both forbidden during the White Year by special gazette from the Storm Court: they found a way to make mourning a fresh injury."
+> **原句 1:** "There comes a point where pillars of smoke mark the city’s crematoria as much as sites of murder. The crematoria are overloaded with victims of the plague. There are queues, and protestors flanking the queues, the bereaved whose traditions demand burial in earth or sky, both forbidden during the White Year by special gazette from the Storm Court: they found a way to make mourning a fresh injury. Behind the deathly white is fire, all the shades of red and yellow you might see staring into naked flame—robes and arson and pyres and blood."
 
 **中文理解：** 到某个时候，那些烟柱标出的地方，火葬场和杀人现场占的是同样的分量。火葬场里堆着瘟疫的死者。队伍排着，队伍两旁站着抗议者；那些按传统必须把死者埋进土里或送进天上的哀亲，两条路都被白色之年的特令封死，于是他们找到了一种办法，让哀悼本身变成一处新伤口。那片死白背后是火，是你直视裸焰时会看见的那些红与黄：袍子、纵火、火堆与血。
 

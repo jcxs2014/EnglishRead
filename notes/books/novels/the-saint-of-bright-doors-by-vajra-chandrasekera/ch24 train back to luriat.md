@@ -7,7 +7,7 @@ modified: "2026-10-01"
 
 ## 本章导航
 
-- **一句话概括**：三天后，Fetter 穿着一身偷来的衣服、握着一张用偷来的钱买的车票，乘早班火车回 Luriat；他为不被算进逃难人群里，专门等到车厢稀落才上车。车上的人已在议论他父亲本人，站台的士兵把他和另外十来人扣下盘问，警察把他报出的地名拼错、扇了他一巴掌，随后用一辆褐色面包车把整批人送进一家改成隔离中心的旅馆——他生平第一次坐牢。囚室的磨砂玻璃被卡在刚好会引发亮门现象的那条合规临界值上；他试着抬脚测试自己是否还能升起，最终无法确认，只好让重量落回身体，把母亲火堆的灰弄到干净的床单上。
+- **一句话概括**：三天后，Fetter 穿着一身偷来的衣服、握着一张用偷来的钱买的车票，乘早班火车回 Luriat；他为不被算进逃难人群里，专门等到车厢稀落才上车。车上的人已在议论他父亲本人，站台的警察把他和另外十来人扣下盘问，那警察又把他报出的地名拼错、扇了他一巴掌，随后用一辆褐色面包车把整批人送进一家改成隔离中心的旅馆——他生平第一次坐牢。囚室的磨砂玻璃被卡在刚好会引发亮门现象的那条合规临界值上；他试着抬脚测试自己是否还能升起，最终无法确认，只好让重量落回身体，把母亲火堆的灰弄到干净的床单上。
 - **情感弧线位置**：从一次刻意避开人群的归途开场，经过盘问时的麻木与屈辱，落到一间豪华囚室里一次没能做完的自我测试；全章的紧绷在结尾化成一声叹气。
 - **人物弧线**：Fetter 从一个训练有素的执行者，退回到一个既没有证件、也没有法子的普通人；挨打之后反而觉得更清醒，进了囚室第一件事仍是搜屋子、盘算逃跑路线——但推到最后的结论是等待。
 - **叙事手法**：第三人称限制视角贴着他走。车站盘问一段用不带修辞的流程白描压住节奏（照相、指纹、口腔与鼻腔取样、量体温、脱衣搜身），后半转入以假设句串起来的推演：他反复推演破窗之后怎么办，句子一条比一条冷静，答案却是一条比一条堵死。
@@ -101,7 +101,6 @@ modified: "2026-10-01"
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| hellspeak | 掺着粗鄙玩笑的俚语；（此处）警察之间那套外人听不懂的行话 | and Fetter spells it in Luriati hellspeak |
 | regurgitated | 被吐出来；（此处）像被人群重新吐回队首 | as if he has been regurgitated. |
 | serpentine | 蛇形的；蜿蜒的 | something serpentine in shape but otherworldly in origin |
 | pogroms | 有组织的排外暴力与驱逐；此处指腹地把人赶出来的动乱 | the train station was full of people fleeing Behinder pogroms deeper in the hinterlands |
@@ -125,6 +124,7 @@ modified: "2026-10-01"
 | deserted lobby | 空无一人的大堂；此处被临时当作入口 | and into a deserted lobby |
 | en suite | 套间；（此处）他只能从玻璃后面的布局猜出那是什么 | blocking the view behind another internal frosted glass door—an en suite bathroom |
 | claustrophobic | 幽闭恐惧的；（此处）看见薄玻璃后反而松开的那种绞紧 | the claustrophobic twisting in his belly |
+| hellspeak | （本书用语）通用语；此处是他用来拼写、而对方听不懂的那种卢里亚特话 | and Fetter spells it in Luriati hellspeak |
 
 ### ⭐ 基础
 

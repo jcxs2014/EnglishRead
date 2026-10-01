@@ -45,7 +45,7 @@ modified: "2026-10-01"
 
 **读者视角提示：** 前一段对方把自己这一生受过的善意数了一遍，这里只用一个词收掉——读者会自己回头去找这个词盖住的那一大段。
 
-> **原句 4:** "“Of course you have power. You have no shadow. You’re like a ghost. Or … or a cat. You don’t make noise when you walk. People don’t notice you. You could break into anything. You could go anywhere."
+> **原句 4:** "“Of course you have power. You have no shadow. You’re like a ghost. Or … or a cat. You don’t make noise when you walk. People don’t notice you. You could break into anything. You could go anywhere. Koel always says you could be the greatest burglar in Luriat if you wanted to."
 
 **中文理解：** 「你当然是有本事的。你没有影子。你就像个幽灵。或者……或者一只猫。你走路不出声。没人注意你。你能闯进任何地方。你能去任何地方。Koel 总说，你要是愿意，可以成为卢里亚特最出色的窃贼。」
 

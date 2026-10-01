@@ -57,7 +57,7 @@ modified: "2026-10-01"
 
 > **原句 5:** "Just like he had thought Coema and Gerau mutually hostile when they were apparently collaborators, perhaps his father is only attempting a late rapprochement. He would, after all, be walking barefoot into his mother’s territory; he might even be sick and weak when he arrives, knowingly and willingly defanged and made vulnerable. Surely this is intentional, a deliberate baring of his throat. A peace offering."
 
-**中文理解：** 就像他曾以为 Coema 与 Gerau 彼此敌对，而她们其实在合作；也许他父亲只是在尝试一次迟来的靠拢。他毕竟要赤脚走进母亲的领地；他甚至可能到时又病又弱，明知如此还自愿被拔掉爪牙、变得脆弱。这肯定是故意的，是一次主动把喉咙亮出来。一个求和的表示。
+**中文理解：** 就像他曾以为 Coema 与 Gerau 彼此敌对，而他们其实在合作；也许他父亲只是在尝试一次迟来的靠拢。他毕竟要赤脚走进母亲的领地；他甚至可能到时又病又弱，明知如此还自愿被拔掉爪牙、变得脆弱。这肯定是故意的，是一次主动把喉咙亮出来。一个求和的表示。
 
 **关键词：** a late rapprochement, knowingly and willingly defanged and made vulnerable, A peace offering
 
@@ -102,7 +102,7 @@ modified: "2026-10-01"
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | ostensibly | （此处义）表面上、名义上；动机与实际不符的说法 | Fetter goes back to Cooksferry, ostensibly to help. |
-| apotropaic | （此处义）辟邪的；被相信能挡开邪祟、限制其影响范围的 | “To test the effective apotropaic range,” |
+| apotropaic | 避邪的；（源自希腊词根）指用咒法或某件器物把伤害挡在外面 | “To test the effective apotropaic range,” |
 | semblance | （此处义）形似；只取外观而不含实体的那种像 | The art of the coconut leaf is about semblance, a magic of sympathy and evocation. |
 | evocation | （此处义）唤起；让某种象征功能被感觉到（却不真正实现） | The art of the coconut leaf is about semblance, a magic of sympathy and evocation. |
 | bathetic | （此处义）煽情过度的；情调铺得比事件本身更响的 | Fetter can’t imagine his father on the phone. It seems disturbingly bathetic. |

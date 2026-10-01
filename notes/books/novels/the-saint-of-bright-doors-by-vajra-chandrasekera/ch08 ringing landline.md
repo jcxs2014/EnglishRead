@@ -87,7 +87,7 @@ modified: "2026-10-01"
 
 > **原句 8:** "More than that, a true believer, the kind of bright-eyed zealot his mother spent his childhood warning him about."
 
-**中文理解：** 不只是信。是真正的信徒，是那种眼睛发亮的狂热者——他母亲整个童年都在拿他来警告他。
+**中文理解：** 不只是信。是真正的信徒，是那种眼睛发亮的狂热者——母亲在他整个童年里都在拿这一类人警告他。
 
 **关键词：** a true believer, bright-eyed zealot, his childhood
 

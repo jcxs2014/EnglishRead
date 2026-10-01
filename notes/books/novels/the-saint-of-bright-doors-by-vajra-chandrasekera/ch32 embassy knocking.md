@@ -73,9 +73,9 @@ modified: "2026-10-01"
 
 **为什么这样写：** 整段用四组对称句式（X 低于／高于 Y）搭出一个环，再用「而且贴近……天生的偏见」把它拉回经验层面；最后一句把整套等级论翻转成关于自身的句子——束缚与自由落在同一条链上。
 
-**读者视角提示：** 说话的人替自己的教团开脱，语气像个旁观者在评述别人的制度；但这一整段话是他说给一个刚被教团围捕的人听的，读者要自己听出这层落差。
+**读者视角提示：** 说话的人替自己的教团开脱，语气像个旁观者在评述别人的制度；但这一整段话是她说给一个刚被教团围捕的人听的，读者要自己听出这层落差。
 
-> **原句 7:** "I feel it when his heart breaks. There is no sign of it on his face or in the world, but to me the crack is loud as the thunderbolt that broke open the glaciers at the beginning of history, when time became time for the first time, bright as the lightning that slew the dragon and freed the waters. It marks a world ending, and a birth both bloody and cold."
+> **原句 7:** "Fetter’s hand remains held out even when the face he touched is gone. I feel it when his heart breaks. There is no sign of it on his face or in the world, but to me the crack is loud as the thunderbolt that broke open the glaciers at the beginning of history, when time became time for the first time, bright as the lightning that slew the dragon and freed the waters. It marks a world ending, and a birth both bloody and cold."
 
 **中文理解：** 即便他摸到的那张脸已经消失，他的手仍旧举着。我在他心碎的那一刻感觉到了。脸上没有迹象，世上也没有迹象，可对我来说那道裂缝响得像劈开冰川的雷，在有历史之初、时间第一次成为时间时响起，亮得像劈死那条龙、把水放出来的闪电。它标着一个世界的结束，也标着一次又血腥又寒冷的出生。
 
@@ -107,7 +107,7 @@ modified: "2026-10-01"
 | imprecations | 诅咒、咒骂；此处的叫骂已退化成无意义的吼声 | Ripening Wisdom is circling, spitting imprecations that Fetter hears as animal noise, wordless growls. |
 | chasm | 深沟、断崖；此处指意愿与能力之间跨不过去的落差 | The gap between the protection he wants to offer and his capability for violence yawns wide, a chasm that seems impassable. |
 | unarrested | 未被拦下的、未受阻碍的；形容那股一路不被截停的势头 | She cuts Ripening Wisdom’s throat like an overripe fruit before she enfolds the others in her dance, a single curving thread of momentum unarrested |
-| haecceity | （借词）此在性、这个东西之所以是它、换谁都换不掉的那一点 | He holds it up, running his finger under the string of haecceity that he thinks is different than it used to be. |
+| haecceity | （哲学术语）此在性；此处指一个人身上那组决定其身份、种族与阶层的标记 | He holds it up, running his finger under the string of haecceity that he thinks is different than it used to be. |
 | metonymy | 转喻；用一个邻近的词代替另一件事，混淆了两者 | “You make the same mistake again and again,” Ordinary says. “The sin of metonymy. |
 | syncretic | （此处义）兼收并蓄的；把不同来源的东西混成一套 | The Path Above adapted to the competition by becoming syncretic and flexible, but in the process it diluted itself. |
 | inveigles | （此处义）诱入、悄悄送进；把刀刃引到颈后 | when she inveigles the knife into the back of his neck with surpassing gentleness |

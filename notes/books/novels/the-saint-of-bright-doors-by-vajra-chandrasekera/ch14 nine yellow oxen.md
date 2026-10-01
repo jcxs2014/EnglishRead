@@ -75,7 +75,7 @@ modified: "2026-10-01"
 
 **读者视角提示：** 人群的漠然把危险从「一只看得见的怪兽」压成「只有一个人知道」，这种压法比任何描写都更让人不安。
 
-> **原句 7:** "It looked like a parody of the crocodiles that it shared its environment with; it looked like the nightmare that a crocodile might have. If a giant crocodile were taken and twisted like rope in the hands of a malevolent god, made into a long reptilian braid of flesh and scales tipped by a circular saw of a mouth, teeth jutting out like a cluster of arrowheads, it might look like this. This could be the very same devil, or some distant cousin."
+> **原句 7:** "It was a familiar devil; he knew it to haunt the jungle paths near the mangrove swamp. It looked like a parody of the crocodiles that it shared its environment with; it looked like the nightmare that a crocodile might have. If a giant crocodile were taken and twisted like rope in the hands of a malevolent god, made into a long reptilian braid of flesh and scales tipped by a circular saw of a mouth, teeth jutting out like a cluster of arrowheads, it might look like this. This could be the very same devil, or some distant cousin."
 
 **中文理解：** 它看上去就是他在阿库斯达布记住的那只生物的写照——那是他认识的、会出没在红树沼泽附近丛林小路上的一只熟悉的魔鬼。它看起来像是把它所处环境里的鳄鱼学歪了的样子，像是鳄鱼可能做的一场噩梦。要是有条巨鳄被某位恶意的神像搓绳一样扭过，编成一条爬行动物一样的长肉辫，末端是一把圆锯般的嘴、齿尖像一簇箭头，那就可能是这个样子。这可能就是同一只，也可能是哪个远房亲戚。
 
