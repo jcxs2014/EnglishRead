@@ -49,7 +49,7 @@ modified: "2026-10-01"
 
 **中文理解**：「我只是宁愿现在就知道。我宁愿直接知道。我不知道他们为什么要拖。说不定Command 里有人就爱看我们难受。」
 
-**关键词**：I’d rather know now（宁愿现在就知道）/ spin it out（拖下去）/ someone who likes knowing we’ll squirm（有人爱看我们难受）
+**关键词**：I’d rather know now（宁愿现在就知道）/ spin it out（拖下去）/ someone in Command who likes knowing we’ll squirm（有人爱看我们难受）
 
 **为什么这样写**：作者把 Cleo 的猜测写成一句**可验证的怀疑**——不是歇斯底里，而是一个具体的推测。而这正是全书后半部的真实机制（Kyr 的分配确实是 Jole 提前一天就签好的、也确实是「我们」这样的人）。Cleo 用一句玩笑说中了制度，作者让她自己还不知道自己说中了。`squirm`（扭动／难受）这个词选得很准：它同时是身体反应和「被摆布」的隐喻。
 

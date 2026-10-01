@@ -25,7 +25,7 @@ modified: "2026-10-01"
 
 **关键词**：did not do that now（这一次没有那样做）/ let herself fall（让自己往下掉）
 
-**为什么这样写**：**全书最短的一次技术决定，而它是全书最长的一段训练的反面。** 作者让她**在跑过同一段路之后立刻回望那个旧方法**（`She had done this before… she'd let herself be patient then, scrambled down the tunnel walls and braced herself against them`）——**而现在她放弃了那个「更聪明」的做法。** 而 `let herself fall`（让自己往下掉）这个短语在英语里同时有**坠落**和**放弃控制**两层意思。**她此刻放弃了整个 Gaea 教给她的那套谨慎，而作者让她在放弃的同一句话里承认了风险（`die smeared across fifteen dimensions`）。**
+**为什么这样写**：**全书最短的一次技术决定，而它是全书最长的一段训练的反面。** 作者让她**在跑过同一段路之后立刻回望那个旧方法**（`Kyr had done this before… she’d let herself be patient then, scrambled down the tunnel walls and braced herself against them`）——**而现在她放弃了那个「更聪明」的做法。** 而 `let herself fall`（让自己往下掉）这个短语在英语里同时有**坠落**和**放弃控制**两层意思。**她此刻放弃了整个 Gaea 教给她的那套谨慎，而作者让她在放弃的同一句话里承认了风险（`die smeared across fifteen dimensions`）。**
 
 **读者视角提示**：这一段与 ch13 那次几乎相反——ch13 她一个人攀着没有梯子的竖井下行，一寸一寸；而本章她直接跳。**中间只隔十九章，而中间发生的一切就是她学到「相信别人」。** 作者用同一个地形（站心竖井）完成了一次对照。
 

@@ -83,7 +83,7 @@ modified: "2026-10-01"
 
 **中文理解**：于是那个聪明人造了一台什么都知道的机器。你可以去问机器，找出该做的最好的那件事；而且即使结果最终是坏的，你至少会知道，你本来能做的其他所有事情都更糟。
 
-**关键词**：built a machine that knew everything（造了一台什么都知道的机器）／consult the machine（问机器）／even if it did end up being bad（即使结果最终是坏的）／all the other things were worse（其他所有事都更糟）
+**关键词**：built a machine that knew everything（造了一台什么都知道的机器）／consult the machine（问机器）／even if it did end up being bad（即使结果最终是坏的）／all the other things you could have done were worse（你本来能做的其他所有事都更糟）
 
 **为什么这样写**：一个**童话**，而它解释了整个宇宙的道德结构。作者让一个 majoda 用《格林童话》的语法（`Once upon a time…` / `Eventually they realized…`）讲一个关于「坏的必然性」的论证——**而这个论证的结构与 ch14 那句 `We lost because we didn't cheat fast enough` 完全相同：两者都把「不可避免的坏」当作释放的前提。** 而 `at least`（至少）这个词在 ch02 那句 `I'd rather stand three times...` 里出现过——**这个故事里的安慰和那条祝酒词里的安慰，是同一种安慰。**
 

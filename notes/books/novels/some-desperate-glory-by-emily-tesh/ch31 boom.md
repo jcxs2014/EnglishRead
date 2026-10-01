@@ -55,7 +55,7 @@ modified: "2026-10-01"
 
 **关键词**：not Russell（不是 Russell）/ his picked men（他挑出来的人）
 
-**为什么这样写**：**一个只有六词的段落句，而它推翻了一整套评级。** 作者刚用 ch01 的方式介绍了一场战斗（数量对比、体型对比、`one against six`），**而这一句把那套评估系统整个作废**：不是那个最强的，也不是那群精英。**而作废它的依据是「Lisabel elbowed him hard in the stomach」——一个最简单的、最没有技术的动作。**
+**为什么这样写**：**一个只有六词的段落句，而它推翻了一整套评级。** 作者刚用 ch01 的方式介绍了一场战斗（数量对比、体型对比、`one against six`），**而这一句把那套评估系统整个作废**：不是那个最强的，也不是那群精英。**而作废它的依据是「Lisabel elbowed Russell hard in the stomach」——一个最简单的、最没有技术的动作。**
 
 **读者视角提示**：注意这里的结构与 ch01 完全相同（`Kyr knew her Sparrows.` / `She knew they could win.`）——**而这一次她对的对象从单个人变成了七个人，从「我比他们强」变成了「我了解他们」。** 这就是作者说的 `idiot's castle` 被拆掉之后的替代物。
 
@@ -65,7 +65,7 @@ modified: "2026-10-01"
 
 **关键词**：slaughter of the innocents（屠杀无辜者）/ bullshit（屁话）
 
-**为什么这样写**：**一句暴怒的反驳，而它用了一个宗教典故**（`the slaughter of the innocents`， Herod 屠杀伯利恒婴孩）。**作者让他在最愤怒的一刻用了一个庄严的典故**——**而这个典故的内容是「杀掉所有无力自保的人」，正是他现在要做的事。** 作者让一个角色用他正在实施的行为的名字来反驳指控，**而这个反驳在事实上不成立、在修辞上完全成功**——**这就是他全书的说服方式。** 而 `Valkyr` 这个称呼在这里第三次被用作吵架标记。
+**为什么这样写**：**一句暴怒的反驳，而它用了一个宗教典故**（`slaughter-of-the-innocents`， Herod 屠杀伯利恒婴孩）。**作者让他在最愤怒的一刻用了一个庄严的典故**——**而这个典故的内容是「杀掉所有无力自保的人」，正是他现在要做的事。** 作者让一个角色用他正在实施的行为的名字来反驳指控，**而这个反驳在事实上不成立、在修辞上完全成功**——**这就是他全书的说服方式。** 而 `Valkyr` 这个称呼在这里第三次被用作吵架标记。
 
 **读者视角提示**：注意他紧接着说的那句（`We've got the innocents.`）——**他确实救了孩子，他确实救了大量的人。** 这本书不给任何人纯粹的立场，**而这一句是全章最难反驳的地方。**
 
@@ -77,7 +77,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：**全书最冷的一句反问，而它的形式是**先给一个全称否定，再加一个针对对方注意力的指控。** 作者让它出现在她刚刚说 `It solves nothing. It's just more death.`（这解决不了任何问题。这只是更多的死亡。）之后——**而注意这两个句子的结构几乎一样**：**她用三段式（问题、死亡、后果），他用一段式（一句解决一切）。** 而他的那个反问（`have you not been paying attention?`）把分歧从观点变成了**认知能力**：不是他与她不同，是她还没明白。
 
-**读者视角提示**：`have you not been paying attention?` 这个句式在本书里出现过两次，两次都由 Avi 使用，一次在 ch08（`Not every sentence gets heard for what it means.`），**一次在这里**。**他一直把「不听」当作别人对他的判决，而这一次他把它当成别人对世界的判决。**
+**读者视角提示**：`have you not been paying attention?` 这个句式在本书里出现过两次，两次都由 Avi 使用，一次在 ch26（`you could have known sooner, if you’d been paying attention`），**一次在这里**。**他一直把「不听」当作别人对他的判决，而这一次他把它当成别人对世界的判决。**
 
 > **原句 7:** What a waste it was, what a terrible waste, to take a person who dreamed cities and gardens and enormous shining skies and teach him that the only answer to an unanswerable suffering was slaughter.
 
@@ -95,7 +95,7 @@ modified: "2026-10-01"
 
 **关键词**：had made them both what they were（把他们两个都造成了现在的样子）/ determined to be different（决心要不一样）
 
-**为什么这样写**：**全书最后的政治判断，只有两句。** 而第一句用的是**过去完成时**（`had made`）——**它把责任再一次、也是最后一次交给一个地点，而不是任何一个人。** 而第二句的主语不是「她」，是 `Kyr`；**动词是 `be different`（要不一样），不是 `do better`（要做更好）。** 而 `determined` 这个词在本书里出现过两次：**ch04 她爬进 Nursery 的树窝时（determined to be better）**，**这一次是 `determined to be different`**（决心不同）。**三个词的差异就是这本书的结尾。**
+**为什么这样写**：**全书最后的政治判断，只有两句。** 而第一句用的是**过去完成时**（`had made`）——**它把责任再一次、也是最后一次交给一个地点，而不是任何一个人。** 而第二句的主语不是「她」，是 `Kyr`；**动词是 `be different`（要不一样），不是 `do better`（要做更好）。** 而 `determined` 这个词在本书里出现过两次：**ch02 她骂那三个走私贩时（`with determined insouciance`，带着坚决的不以为然）**，**这一次是 `determined to be different`**（决心不同）。**三个词的差异就是这本书的结尾。**
 
 **读者视角提示**：`But` 这个转折词是全章的骨架——**前一句承认共同成因，后一句宣布差异**。而作者让这个「差异」没有内容：**她没有说她要怎么做**，只有「要不一样」。**这本书把最终答案留成了一个形容词。**
 

@@ -63,11 +63,11 @@ modified: "2026-10-01"
 
 **中文理解**：那些战斗班男孩的问题不在于他们生来被造去打仗、而一生都被骗了。
 
-**关键词**：not the fault of the boys（不是男孩们的错）/ they’d been made for war（他们被造去打仗）/ lied to all their lives（一生都被骗）
+**关键词**：It wasn’t the fault of the boys in the combat messes（不是那些战斗班男孩的错）/ they’d been made for war（他们被造去打仗）/ lied to all their lives（一生都被骗）
 
 **为什么这样写**：**一句她立刻纠正的念头**，而作者让修正与念头在同一个段落里。**她先想到威胁（十三四岁的战斗班男孩），立刻改判（这不怪他们）。** 而这个改判的关键是 `been made for war`（被造去打仗）——**这是一个**制作**动词**：他们是被造的，不是自己选的。**她一生都在说「他们被派去哪里」，而这是她第一次说「他们被造成什么」。** 而 `lied to all their lives`（一生都被骗）把这句话从一个关于孩子的判断，变成一个关于**整个制度**的判断——**而这个判断她说出来的时候是清醒的。**
 
-**读者视角提示**：这一句紧跟在她那句带着恐惧的观察（`They towered massively above the crowd`）之后。**作者让她用自己的眼睛看一次威胁，再用自己的知识改判一次。** 这个模式在本章重复了三次（对 Thorald、对 Cleo、对 Sif），**而每一次改判都让她离旧自我更远一步。**
+**读者视角提示**：这一句紧跟在她那句带着恐惧的观察（`Wolf and Jaguar—towered massively above the crowd of children`）之后。**作者让她用自己的眼睛看一次威胁，再用自己的知识改判一次。** 这个模式在本章重复了三次（对 Thorald、对 Cleo、对 Sif），**而每一次改判都让她离旧自我更远一步。**
 
 > **原句 6:** I am not the first person who wanted to fight and got betrayed into Nursery.
 

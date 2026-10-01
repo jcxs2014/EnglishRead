@@ -57,7 +57,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：作者把**归因机制**写成了一个完整的逻辑动作：`told herself it was because…`。而三个归因项的顺序是刻意的：先是立场（异议者），再是物种（外星人），最后才是**渠道**（`both of them were getting to her somehow`）。`somehow`（以某种方式）是全书对「被说服」最不情愿的写法。Kyr 是全站训练成绩第一的人，而作者让她用**别人的错**来解释自己想法的来源——因为如果那些想法是她自己的，她就必须为它们负责。
 
-**读者视角提示**：紧接着的一段写她「太自信，不真信他们能影响她」——**她一边找借口，一边知道自己找的不成立。** 这是她的第二次自我审判（ch04 的 `I'm immediately ashamed of myself`）。
+**读者视角提示**：紧接着的一段写她「太自信，不真信他们能影响她」——**她一边找借口，一边知道自己找的不成立。** 这是她的第二次自我审判（ch03 的 `was immediately ashamed of herself`）。
 
 > **原句 5:** Why was it, exactly, that Command deserved more of a stake in the genetic future of humanity than serving soldiers?
 
@@ -65,9 +65,9 @@ modified: "2026-10-01"
 
 **关键词**：why was it, exactly（究竟是为什么）／Command deserved more（Command 配得上更多）／a stake in the genetic future（基因未来里的一份）
 
-**为什么这样写**：全书**最重要的一次制度质问**，而它出现在一个正在给外星人讲家常的段落里。Kyr 自己没有想过这个问题——作者明说这是 Yiso 的提问带出来的（`she found herself wondering things she’d never really wondered before`）。也就是说：**一个外星人用闲聊的力气，撬动了 Gaea 最坚固的一块自我认知。** 而 `a stake`（一份／一股）这个词把代际延续说成了**投资术语**——育儿翼不是服务，是持股。
+**为什么这样写**：全书**最重要的一次制度质问**，而它出现在一个正在给外星人讲家常的段落里。Kyr 自己没有想过这个问题——作者明说这是 Yiso 的提问带出来的（`Kyr found herself wondering things she’d never really wondered before`）。也就是说：**一个外星人用闲聊的力气，撬动了 Gaea 最坚固的一块自我认知。** 而 `a stake`（一份／一股）这个词把代际延续说成了**投资术语**——育儿翼不是服务，是持股。
 
-**读者视角提示**：这一问在 ch04 有一句镜像台词（Jole 的 `And your sons will be everything you are and more`）。两处并读：**Jole 用它说服她接受，Yiso 用它让她开始怀疑。**
+**读者视角提示**：这一问在 ch03 有一句镜像台词（Jole 的 `And your sons, Valkyr, will be everything you are and more`）。两处并读：**Jole 用它说服她接受，Yiso 用它让她开始怀疑。**
 
 > **原句 6:** on a planet with two million people on it, Mags didn’t stand out the way he did on Gaea Station.
 

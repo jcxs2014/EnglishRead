@@ -27,7 +27,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：作者让 Wisdom **用她的名字唤醒她**，而她对这个唤醒的反应是**命名**（`She was Valkyr`）——她最先抓住的不是记忆、不是母亲、不是地球，而是自己那个绰号。而 `on the edge of hearing`（在……的边缘上）这个短语把她放在**门槛上**：`on the edge of` 在本书里反复出现，而每一次都出现在一个人即将进入某个她还不理解的东西的时刻。远处钟声则把整个场景的性质说清了：**这不是回忆，这是一场召唤。**
 
-**读者视角提示**：`fierce and clear` 的两个形容词都是她自己的标准用词（ch02「pointless and stupid」、ch12「serene and powerful」）。**她的自我描述在这个假场景里完全没有被改写——被改写的只是她的记忆。**
+**读者视角提示**：`fierce and clear` 的两个形容词都是她自己的标准用词（ch06「pointless, stupid」是对 Command 的判决，ch12「serene and powerful」才是她的自我描述）。**她的自我描述在这个假场景里完全没有被改写——被改写的只是她的记忆。**
 
 > **原句 2:** Urgency snapped at her like a whip.
 
@@ -83,7 +83,7 @@ modified: "2026-10-01"
 
 **中文理解**：她不知道该怎么解释一个喷嚏。
 
-**关键词**：I don’t know how to explain（我不知道怎么解释）／a sneeze（一个喷嚏）
+**关键词**：She did not know how to explain a sneeze（她不知道该怎么解释一个喷嚏）
 
 **为什么这样写**：全书**最短的一次无知**，而它指的是一件全世界最普通的事。作者让 Gaea 最优秀的战斗员**不会解释打喷嚏**，因为在 Gaea 没有理由学这个——**知识只按用途分配**（ch12「你不是有生产任务就够了吗」）。而她的应对方式也是 Gaea 式的：`You laugh when something is funny.`（你笑是因为好笑）——一句正确但毫无解释力的话。作者让她用**答案掩盖无知**，而对方立刻识破了（`How is that different?`）。
 
@@ -95,7 +95,7 @@ modified: "2026-10-01"
 
 **关键词**：She still enjoyed herself（她玩得还是很开心）
 
-**为什么这样写**：三短句组成的**转折**。前面是失败清单：她身体形状不对（`her body was the wrong shape and size`）、她记不住那些音节（`the trilling syllables fell apart on her tongue`）、她也做不好（`Yiso because they weren't any good`）。**两个都做不好，而她仍然开心。** 而 `still`（仍然）是这句话里唯一的承重词——它明确地把「失败」与「开心」放在了同一个人身上。这就是 ch05 那位 Avi 说的那句 `Not everything has to have a point!` 在她身上**第一次生效**的时刻：**她在做一件没有用途、不成功、也没有产出的事，而她享受它。**
+**为什么这样写**：三短句组成的**转折**。前面是失败清单：她身体形状不对（`her body was the wrong shape and size`）、她记不住那些音节（`the trilling syllables fell apart on Kyr’s tongue`）、她也做不好（`Yiso because they weren't any good`）。**两个都做不好，而她仍然开心。** 而 `still`（仍然）是这句话里唯一的承重词——它明确地把「失败」与「开心」放在了同一个人身上。这就是 ch05 那位 Avi 说的那句 `Not everything has to have a point!` 在她身上**第一次生效**的时刻：**她在做一件没有用途、不成功、也没有产出的事，而她享受它。**
 
 **读者视角提示**：`enjoyed herself`（玩得开心）用的是**反身式**（herself），不是 `was happy`（很开心）。区别在于：**快乐不是她的状态，而是她做的事。**
 

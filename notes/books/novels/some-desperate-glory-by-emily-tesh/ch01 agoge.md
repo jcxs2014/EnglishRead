@@ -19,7 +19,7 @@ modified: "2026-10-01"
 
 **中文理解**：天空亮起绿色的亚实景闪光，一艘智慧级巡洋舰从影空间掉出。Kyr 深吸一口气，眯起眼想看清超空间干扰，盯着巡洋舰尾流里穿出来的那枚小小飞镖——它几乎被舰体与舰光的巨大所掩盖。她那套破旧的战斗服还探测不到它，可是在可见光波段里，人眼是一台远程传感器，而 majoda（他们自己）总是低估这一点。
 
-**关键词**：subreal flashes（亚实景闪光）/ hyperspatial feedback（超空间干扰）/ a long-range sensor the majo always underestimated（majoda 总是低估的远程传感器）
+**关键词**：subreal flashes（亚实景闪光）/ hyperspatial feedback（超空间干扰）/ a long-range sensor that the majo always underestimated（majoda 总是低估的远程传感器）
 
 **为什么这样写**：开篇第一段就把**三个科幻设定（影空间 / 超空间干扰 / 可见光波段）**和**一个战术优势（人眼比机器强）**焊进同一个动作里——「眯眼看」。设定不是被解释的，是被用来写她怎么打仗的。而最后那句「他们总是低估这一点」用一个「always underestimated」的普遍化口吻，把一次个人胜利预支成了整个人类的天赋。作者在此确立全书的战争美学：**胜利来自肉身与直觉，不来自装备**——所以她的装备坏了，戏才刚开始。
 
@@ -63,7 +63,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：Kyr 的反击只有一个人称数字加一句脏话，却比任何战术宣言都重。作者用「十四亿」这个具体到无法反驳的数字去对抗「智慧为了更大的利益」这种抽象话——**这是她全书的论证方式：永远用具体的人去反驳抽象的原则。** 插入语「who had never got this far before」轻轻一点，交代这是她的个人新高，也让这次失败有了刻度。
 
-**读者视角提示**：「against the greater good」是敌人后面会反复念的句子。把这句十四亿当作它的镜像——一边是「为了更大的利益」，一边是「下面有十四亿人」。
+**读者视角提示**：「toward the greater good」是敌人后面会反复念的句子（ch06，Professor Hussain 语）。把这句十四亿当作它的镜像——一边是「为了更大的利益」，一边是「下面有十四亿人」。
 
 > **原句 6:** The last thing Kyr saw was the antimatter explosion beginning; the death of her world, just as she had seen it happen hundreds of times before.
 

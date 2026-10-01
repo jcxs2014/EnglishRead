@@ -47,7 +47,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：**一个被重复副词撑起来的句子**（`really and truly`），而它的内容是**一件人体工程学的事**。作者让全书关于「为什么」最坦白的一次对话，用三个叠词和一幅画面构成——**而他用的词 `shot in the head`（爆头）是 Gaea 对叛逃者的官方处刑方式的描述**（ch03：他们被送去送死）。**他不是害怕抽象的死亡，他害怕的是一个具体的、被制度化的姿势。** 而紧跟其后那句 `Or whatever nastier thing Command comes up with if they decide to make an example.`（或者 Command 想出来的更恶心的东西，如果他们决定拿人立个榜样）——**他连这个都想到了，而他是这台站的第七十名 Systems 技术员。**
 
-**读者视角提示**：`make an example`（拿人立榜样）——**这个短语在 ch21 Cleo 那句 `You drove me round the fucking twist` 之后第一次以正面形式出现**：在 Gaea，**榜样不是英雄，是尸体。**
+**读者视角提示**：`make an example`（拿人立榜样）——**这个短语在 ch22 Cleo 那句 `You drive me round the fucking twist, Valkyr` 之后第一次以正面形式出现**：在 Gaea，**榜样不是英雄，是尸体。**
 
 > **原句 4:** The majo are peace-loving, a sneer, but they're not morons.
 

@@ -33,7 +33,7 @@ modified: "2026-10-01"
 
 **中文理解**：不是 Kyr 的话。她一辈子没说过这种话。但 Val 说过——Val 很有礼貌——既然她说了，Kyr 就抓住了逃走的机会，冲进公寓里唯一有锁的房间，也就是卫生间。
 
-**关键词**：Not Kyr’s words（不是 Kyr 的话）/ Val had manners（Val 很有礼貌）/ seized the chance（抓住机会）/ the only room with a lock（唯一有锁的房间）
+**关键词**：Not Kyr’s words（不是 Kyr 的话）/ Val had manners（Val 很有礼貌）/ seized the chance（抓住机会）/ the only room in the apartment with a lock on the door（公寓里唯一有锁的房间）
 
 **为什么这样写**：作者让**一句台词的来源成为情节**——她逃进浴室不是因为害怕，而是因为**那句礼貌用语给了她一个缝隙**。而这个细节是全书最精确的一次人物刻画：Kyr 的一生没有说过 `Excuse me`；Val 一辈子都在说。而两个自我立刻找到了彼此的**功能位置**：一个负责制造尴尬，另一个负责利用它逃走。**作者用一间有锁的卫生间，完成了对「身份即权限」这个概念的第一次演示。**
 

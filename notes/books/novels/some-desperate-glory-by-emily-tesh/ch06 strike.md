@@ -27,7 +27,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：作者让 Avi 用一句脏话把 Gaea 的整套说辞掀掉。官方说法是「他不会背弃人类」，而他改成「他不会抛下**你**」。这不是狡辩，是**诊断**：Kyr 已经把 Mags 的失踪整个算在自己账上（她推断出「Command 需要第二个他」），而 Avi 指出这不是她做的决定——**是 Magnus 自己做的，而理由跟她无关。** 「to hell with that」还顺手把 ch01 那句誓词（为了人类的敌人将畏惧我们）的庄重打碎了。
 
-**读者视角提示**：这一句是 ch06 的转轴。它出现在`She’d never expected him to obviously mean it` 之后——作者先让 Avi 说出「他们杀了我们的世界」（一句真话），读者才肯接受他的第二句真话。
+**读者视角提示**：这一句是 ch06 的转轴。它出现在`She hadn’t expected him to obviously mean it` 之后——作者先让 Avi 说出「他们杀了我们的世界」（一句真话），读者才肯接受他的第二句真话。
 
 > **原句 2:** “They all have this,” Avi said. “No one tells you how to use it. You’re not meant to understand what’s going on, you just fight.”
 

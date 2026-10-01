@@ -33,7 +33,7 @@ modified: "2026-10-01"
 
 **中文理解**：「我本来不觉得你会需要它们。我希望你别需要它们。我把你送回家了。」
 
-**关键词**：I don’t think you were going to need them（我不觉得你会需要）／I hoped that you weren’t（我希望你别）／I sent you home（我把你送回家）
+**关键词**：I didn’t think you were going to need them（我不觉得你会需要）／I hoped that you weren’t（我希望你别）／I sent you home（我把你送回家）
 
 **为什么这样写**：三句**时态递进**：过去（不觉得）→ 过去（希望）→ 过去（实际做了）。而作者让第一句和第二句只差一个词（`think` / `hope`），第三句却是**行动**。这就是 Avi 的整条辩护：**他不是在辩解，他是在陈述一个他自己也相信的判断**——`I hoped that you weren't going to need them` 的重量在于，希望的对象不是她自己，是**她**。而作者让这三句跟在她那句 `You sent me to a traitor.`（你把我送到一个叛徒那里）后面，于是同一组事实被两个人读成了完全相反的两件事。
 

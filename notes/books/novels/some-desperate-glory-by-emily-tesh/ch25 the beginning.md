@@ -87,7 +87,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：**全书最漂亮的一次反驳，而它用的全是对方的词。** 她刚说完 `I want to be worthy of humanity.`（我想配得上人类），而他的回答是**把它降级为「服务」**——**从道德降到行为，从配得上降到只要做了就行。** 而紧接着她心里的那句 `She thought about lies. About no one expecting perfection, and everyone being punished for falling short of it, all the time.`（她想到了谎言。想到了「没人要求完美」，而所有人一直在因为达不到它而受罚。）——**作者让读者在两句话之内看清了这个制度真正的运作方式：标准不要求，但它惩罚。**
 
-**读者视角提示**：`It’s enough that you serve.`（你肯服务就够了。）——这个 `enough` 与 ch21 那句 `because you think you're worth saving`（因为有人认为你值得被救）是同一个东西的两种说法：**Gaea 不要求你好，只要求你在。**
+**读者视角提示**：`It’s enough that you serve.`（你肯服务就够了。）——这个 `enough` 与 ch14 那句 `that someone thought you were worth saving`（因为有人认为你值得被救）是同一个东西的两种说法：**Gaea 不要求你好，只要求你在。**
 
 > **原句 8:** Was it just going to happen all over again?
 
