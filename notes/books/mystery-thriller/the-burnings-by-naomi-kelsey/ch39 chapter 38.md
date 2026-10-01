@@ -54,7 +54,7 @@ modified: "2026-10-01"
 
 - **中文理解**：芭芭拉点了点头。「现在他们动不了我了，除非连这个孩子一起害。」
 - **关键词**：not without harming the child
-- **为什么这样写**：全章最短的一次反击：她用一个不存在的孩子买下了时间。作者把这句写成双重否定，语法上的双重否定等于把「不能动」的条件收得很窄——窄到读者一眼就看出那个条件是假的，而屋里其他三个人还没反应过来。
+- **为什么这样写**：整格她只说了这一句反击：她用一个不存在的孩子买下了时间。作者把这句写成双重否定，语法上的双重否定等于把「不能动」的条件收得很窄——窄到读者一眼就看出那个条件是假的，而屋里其他三个人还没反应过来。
 - **读者视角提示**：紧接着作者就用一句心里话把这层纸戳破：肚子里并没有孩子。也就是说，这个把另外几个囚犯一起骗过去的把戏，作者没让它成立太久。
 
 > **原句 7:** A great cheer erupted from Castle Hill. Moments later, the smell of smoke, rough and thickened, as if the wood had been slightly damp, reached the tolbooth. The fire had been lit. Euphame was already dead.

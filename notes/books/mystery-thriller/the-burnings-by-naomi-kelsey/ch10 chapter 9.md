@@ -26,14 +26,14 @@ modified: "2026-10-01"
 
 - **中文理解**：你告诉他马受惊了，我们必须尽快往回骑，好把它们安置到马厩里。你说，好的国王总会照看每一个害怕的人。
 - **关键词**：the horses were frightened／A good king always looks after anyone who’s afraid
-- **为什么这样写**：全章唯一一次让她复述自己少年时说过的话，而复述它的人还不是她自己，中间隔了一层转述。作者用这种套嵌交代一个事实：她在王室里扮演的角色早就定型了，她的工作是把恐惧翻译成可以接受的形状。同一句话在本章末尾被她的身体重新演了一遍——她第一次怕的不是风暴。
+- **为什么这样写**：全章唯一一次让她复述自己少年时说过的话，而复述它的人还不是她自己，中间隔了一层转述。作者用这种套嵌交代一个事实：她在王室里扮演的角色早就定型了，她的工作是把恐惧翻译成可以接受的形状。同一句话在本章末尾被她的身体重新演了一遍——她在本章第一次怕的不是风暴。
 - **读者视角提示**：这句自画像要记住。往后她要照看的不是一个公主，而是一整个害怕的国家。
 
 > **原句 3:** The words were cold as the waves – and yet his eyes told a different story. Why was he forcing himself to become so ruthless?
 
 - **中文理解**：这些话冷得像浪——可他的眼神讲的却是另一回事。他为什么在逼自己变得这么无情？
 - **关键词**：cold as the waves／forcing himself to become so ruthless
-- **为什么这样写**：前面刚写完他对落水者的那套算式，这里作者立刻用叙述者的眼睛拆掉它：嘴上在执行，眼睛在抗拒。那个为什么的问句把判断权交还读者，也把这个人从救人的英雄改写成正在演无情的人。风暴在这一刻第一次不只是天气，而是他正在练习的那副面孔。
+- **为什么这样写**：前面刚写完他对落水者的那套算式，这里作者立刻用叙述者的眼睛拆掉它：嘴上在执行，眼睛在抗拒。那个为什么的问句把判断权交还读者，也把这个人从救人的英雄改写成正在演无情的人。风暴在这一刻不只是天气，还是他正在练习的那副面孔。
 - **读者视角提示**：记住这双眼睛。同一章里他还说过一句当众说的冷话，这两副面孔在同一副身体里互相拆台。
 
 > **原句 4:** Margareta had been afraid since the storm first struck. Now, as she looked up into Wemyss’s eyes – the same dark green as the thundercloud edges – she felt a new fear ripple through her.

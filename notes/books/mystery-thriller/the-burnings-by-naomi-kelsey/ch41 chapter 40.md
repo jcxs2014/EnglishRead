@@ -8,7 +8,7 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **一句话概括**：John 从国王的军队里消失、又从市场十字柱的公告上被念成叛徒之后，Margareta 带着一个不在场的丈夫住进福尔克兰的空宫；本章全部篇幅都在同一场对话里——安娜先用「你竟然敢来见我」把她当陌生人，再把「我不再是孩子了」这句话喊出来，最后留下一句她随时可以不说的指控。
-- **情感弧线位置**：Margareta 与 Anna 面对面直接对撞的一场戏，也是两人之间那道门被彻底推开的时刻。上一章她刚在牢里握过 Geillis 的手，本章她连自己最熟的人都握不住；温度最低，可双方第一次把话说到根子上。
+- **情感弧线位置**：Margareta 与 Anna 面对面直接对撞的一场戏，也是两人之间那道门被彻底推开的时刻。上一章她刚在牢里握过 Geillis 的手，本章她连自己最熟的人都握不住；温度最低，可双方在本章第一次把话说到根子上。
 - **线索结构**：三样东西在本章对账：① 那枚戒指与那副减半的药量（ch40 的夜里交付，本章变成安娜口中的「谁给我那些害死我孩子的草药」）；② 那份公告（ch40 念到的名单，本章变成「叛徒的妻子」这个称谓的全部依据）；③ 一个本章始终不给答案的空缺——Anna 到底知道多少。原文只让 Margareta 想到「她一直都知道，也许」——注意「也许」是她的推测，不是叙述者的判定（真正落地要等 ch43，她被诱出宫去写那封假信）。
 - **人物弧线**：本章的视角几乎全程贴在 Margareta 身上：她从「敢不敢走进这间屋子」走到「把命都给你」这句话喊出口，再到听见对方宣布她被剥夺了尊重。她也第一次在本章意识到自己这十年一直在低估对面这个人。
 - **叙事手法**：一章只写一个房间、两个人。前半段用缺席写压迫：人全去打猎了、镜子只照见没点灯的屋子、脚步声像钉子；进屋后用三样被抢走的东西标出落差——笑声（被冰雹砸中）、绣活（不再是她的）、称呼（连名字都不许叫）。吵到最凶处作者突然收声，用一句「你永远失去我的尊重」把全部张力落到一个宣告上；再用一个冰凉的领悟收尾。
@@ -19,7 +19,7 @@ modified: "2026-10-01"
 
 - **中文理解**：做叛徒的妻子，没有比这更冷的孤单了。
 - **关键词**：no loneliness colder／being a traitor’s wife
-- **为什么这样写**：全章用一句判断开场，把所有解释压到后面。作者不给人物也不给事件，直接下一个最高级——比什么更冷都还没说，就把读者的标准先架起来；紧跟的几页全是在兑现这个冷：人不在、屋空、连称呼都被收走。
+- **为什么这样写**：全章用一句判断开场，把所有解释压到后面。作者不给人物也不给事件，开场这一句就把冷度顶满——比什么更冷都还没说，就把读者的标准先架起来；紧跟的几页全是在兑现这个冷：人不在、屋空、连称呼都被收走。
 - **读者视角提示**：记住这句话的时态：它是现在时的普遍判断，不是某一天的感受。这章她被剥夺的不只是称呼，是一整套身份。
 
 > **原句 2:** Meanwhile she was a hostage without cell or shackles. She gripped her son close every moment she could, terrified he would be taken from her, and ached every time his smiles and frowns echoed his absent father’s. She hadn’t realized until now just how much she loved John – and it was too late. Too late if he was dead; too late if he was a traitor, since declaring your love for a traitor was itself tantamount to treachery. And too late to tell the one person she needed to tell.

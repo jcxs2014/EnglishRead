@@ -26,7 +26,7 @@ modified: "2026-10-01"
 
 - **中文理解**：光你一个人信这个不够，Agnes 曾这样对 Geillis 说：他也得信。为了我们安全，他还必须信这是上面的力量送来的，不是我们。
 - **关键词**：It isn’t enough／Seton must believe it too／he must believe it comes from a higher power, not us
-- **为什么这样写**：这一段把仪式的全部设计意图交了出来，而它交得极其平静、极其像常识。三个短句是一套完整的部署：受众、对象、归属。三者缺一，危险就回到她们自己头上。所以这一段既是操作手册，也是全书最冷的一页——因为它从一开始就假定了会被吓唬的那个人不会追查。
+- **为什么这样写**：这一段把仪式的全部设计意图交了出来，而它交得极其平静、极其像常识。三个短句是一套完整的部署：受众、对象、归属。三者缺一，危险就回到她们自己头上。所以这一段既是操作手册，也是本章最冷的一页——因为它从一开始就假定了会被吓唬的那个人不会追查。
 - **读者视角提示**：记住更高的力量这个归属。本章末尾当众说出来的那句话，正是这条设计的成品。
 
 > **原句 3:** Agnes reached for the pail. ‘Whatever we bring out of this well will be the destruction of David Seton.’
@@ -62,7 +62,7 @@ modified: "2026-10-01"
 - **中文理解**：接着他转过身来，脸涨成紫色，眼睛鼓着，落在 Geillis 身上。她平静地回望他。让他以为是我。让他明白我不是他的牺牲品。我有 Bothwell 的庇护——还有我自己的。
 - **关键词**：She returned his gaze calmly／Let him think it was me／I am not his victim／I have Bothwell’s protection – and my own
 - **为什么这样写**：作者用两句排比短句（让他以为、让他明白）把她整套策略摆开：她要的是被怀疑，因为被怀疑就意味着那些东西不是冲着全家来的。这是本章她头一次主动把罪名揽到自己身上，而且理由不是勇敢，是账算得清。最后半句连 Bothwell 和她自己并列，暗示这份庇护和这份自主是一回事——她早就知道有靠山。
-- **读者视角提示**：记住那句「让他以为是我」。这是她主动把罪名揽到自己身上的开始，也是她第一次替自己开路。
+- **读者视角提示**：记住那句「让他以为是我」。这是她主动把罪名揽到自己身上的开始，也是她在本章第一次替自己开路。
 
 > **原句 8:** But it was too late. All they could do was watch as a nine-year-old girl, golden curls bobbing, was first to step past the broken glass and bone.
 
