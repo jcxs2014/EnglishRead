@@ -1,0 +1,113 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub）===
+⚠️ 全书共 6 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 1169/1169 引文可核实（100%）；完全干净文件 57/57；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 2687
+--- FAIL (0) ---
+--- WARN (98) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 1143 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 26 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 6 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 Yao.md                                    ch01 Yao.md: 15/15 in ch01 text
+ch02 Ten years later.md                        ch02 Ten years later.md: 14/14 in ch02 text（另有 1 条短引语未校验）
+ch03 Lars.md                                   ch03 Lars.md: 10/10 in ch03 text
+ch04 Frances.md                                ch04 Frances.md: 14/14 in ch04 text
+ch05 Ben.md                                    ch05 Ben.md: 14/14 in ch05 text
+ch06 Frances.md                                ch06 Frances.md: 13/13 in ch06 text
+ch07 Jessica.md                                ch07 Jessica.md: 17/17 in ch07 text
+ch08 Frances.md                                ch08 Frances.md: 15/15 in ch08 text（另有 1 条短引语未校验）
+ch09 Masha.md                                  ch09 Masha.md: 15/15 in ch09 text
+ch10 Heather.md                                ch10 Heather.md: 24/24 in ch10 text
+ch11 Frances.md                                ch11 Frances.md: 26/26 in ch11 text
+ch12 Zoe.md                                    ch12 Zoe.md: 29/29 in ch12 text
+ch13 Masha.md                                  ch13 Masha.md: 19/19 in ch13 text（另有 1 条短引语未校验）
+ch14 Frances.md                                ch14 Frances.md: 31/31 in ch14 text
+ch15 Lars.md                                   ch15 Lars.md: 34/34 in ch15 text（另有 1 条短引语未校验）
+ch16 Jessica.md                                ch16 Jessica.md: 36/36 in ch16 text
+ch17 Frances.md                                ch17 Frances.md: 22/22 in ch17 text
+ch18 Tony.md                                   ch18 Tony.md: 43/43 in ch18 text
+ch19 Frances.md                                ch19 Frances.md: 22/22 in ch19 text
+ch20 Masha.md                                  ch20 Masha.md: 14/14 in ch20 text
+ch21 Carmel.md                                 ch21 Carmel.md: 14/14 in ch21 text
+ch22 Yao.md                                    ch22 Yao.md: 21/21 in ch22 text
+ch23 Frances.md                                ch23 Frances.md: 42/42 in ch23 text
+ch24 Carmel.md                                 ch24 Carmel.md: 20/20 in ch24 text
+ch25 Masha.md                                  ch25 Masha.md: 23/23 in ch25 text
+ch26 Napoleon.md                               ch26 Napoleon.md: 39/39 in ch26 text
+ch27 Zoe.md                                    ch27 Zoe.md: 6/6 in ch27 text（另有 1 条短引语未校验）
+ch28 Heather.md                                ch28 Heather.md: 14/14 in ch28 text
+ch29 Frances.md                                ch29 Frances.md: 29/29 in ch29 text
+ch30 Masha.md                                  ch30 Masha.md: 11/11 in ch30 text
+ch31 Lars.md                                   ch31 Lars.md: 23/23 in ch31 text
+ch32 Zoe.md                                    ch32 Zoe.md: 10/10 in ch32 text
+ch33 Frances.md                                ch33 Frances.md: 23/23 in ch33 text
+ch34 Yao.md                                    ch34 Yao.md: 12/12 in ch34 text
+ch35 Tony.md                                   ch35 Tony.md: 7/7 in ch35 text
+ch36 Carmel.md                                 ch36 Carmel.md: 16/16 in ch36 text
+ch37 Masha.md                                  ch37 Masha.md: 5/5 in ch37 text
+ch38 Napoleon.md                               ch38 Napoleon.md: 27/27 in ch38 text
+ch39 Frances.md                                ch39 Frances.md: 14/14 in ch39 text
+ch40 Heather.md                                ch40 Heather.md: 30/30 in ch40 text
+ch41 Zoe.md                                    ch41 Zoe.md: 21/21 in ch41 text
+ch42 Napoleon.md                               ch42 Napoleon.md: 2/2 in ch42 text
+ch43 Masha.md                                  ch43 Masha.md: 24/24 in ch43 text
+ch44 Heather.md                                ch44 Heather.md: 17/17 in ch44 text
+ch45 Frances.md                                ch45 Frances.md: 25/25 in ch45 text
+ch46 Carmel.md                                 ch46 Carmel.md: 25/25 in ch46 text（另有 1 条短引语未校验）
+ch47 Frances.md                                ch47 Frances.md: 24/24 in ch47 text
+ch48 Zoe.md                                    ch48 Zoe.md: 28/28 in ch48 text
+ch49 Ben.md                                    ch49 Ben.md: 25/25 in ch49 text
+ch50 Frances.md                                ch50 Frances.md: 18/18 in ch50 text
+ch51 Delilah.md                                ch51 Delilah.md: 40/40 in ch51 text
+ch52 Jessica.md                                ch52 Jessica.md: 29/29 in ch52 text
+ch53 Frances.md                                ch53 Frances.md: 23/23 in ch53 text
+ch54 Yao.md                                    ch54 Yao.md: 29/29 in ch54 text
+ch55 Frances.md                                ch55 Frances.md: 16/16 in ch55 text
+ch56 Yao.md                                    ch56 Yao.md: 4/4 in ch56 text
+ch57 Frances.md                                ch57 Frances.md: 6/6 in ch57 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：57 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（nine-perfect-strangers-by-liane-moriarty）===
+  ✅ 逐字 3741 ｜ ⚠️ 跨章 54 ｜ 🔶 拼接 7 ｜ 🟠 部分命中 43 ｜ 🟡 词形 1 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 4193
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 14
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 16 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 58 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+（无总览三篇，本项不适用）
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+（无总览三篇，本项不适用）
