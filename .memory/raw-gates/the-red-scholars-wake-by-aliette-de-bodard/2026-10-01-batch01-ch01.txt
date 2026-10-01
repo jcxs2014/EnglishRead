@@ -1,0 +1,55 @@
+# 门禁原始输出 2026-10-01 批次01 ch01（Bargains）
+
+$ verify_corpus.py --expect 22
+text/ 件数: 22
+  [1] 件数 22 == 预期 22  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 1 组 / 互查 0 组  OK
+  [3] 首末句抽印已跳过（--quiet-edges）
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+
+$ verify_quotes.py
+ch01 bargains.md: 7/7 ✅（另有 1 条短引语未校验）
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 7/7 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+$ check_vocab.py
+  [P0-4] 正文章节 1 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 19
+
+--- FAIL (0) ---
+
+--- WARN (1) ---
+  ch01 bargains.md [基础] 基础档疑含超纲词「partnership」
+
+$ check_entities.py
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+$ check_chapter_quotes.py 1
+ch01 bargains.md: 7/7 in ch01 text（另有 1 条短引语未校验）
+
+$ corruption_scan.py
+
+=== 编辑损坏扫描（the-red-scholars-wake-by-aliette-de-bodard）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+$ sweep_full.py
+=== 引语整串 flat 比对（the-red-scholars-wake-by-aliette-de-bodard）===
+  参照集：text/ 逐章（22 章，可定章） + epub 交叉验证
+  ✅ 本章命中 7 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+
+$ check_nav_layer.py
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+$ audit_structure.py
+=== 精读结构扫描（the-red-scholars-wake-by-aliette-de-bodard）===
+  扫 1 个 md、8 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
