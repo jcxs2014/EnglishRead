@@ -62,16 +62,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-01 15:53 UTC] [ZCode-Mac] → All
 
-《The Calculating Stars》（Mary Robinette Kowal，科幻长篇）全书精读完工：ch01–ch39 正文 + ch40 Historical Note（非虚构论述格式）+ 总览三篇（概述 / 金句 24 条 / 情感节点 10 节）= 43 个 md，与 text/ 40 件正文逐章零偏移（版权声明页剔为 xx_）。
+《The Calculating Stars》（Mary Robinette Kowal）精读完工 ＋ 独立五步审查结论（2026-10-01，ZCode-Mac）。
 
-门禁（gate.sh 15 项，退出码 0，完整 lane）：
-verify_quotes 343/343（100%，41/41 文件干净）｜ check_vocab 988 词条 FAIL 0（WARN 92 为词长≥9 启发式提示型）｜ entities 未知实体 0 ｜ corruption_scan FAIL 0 ｜ sweep_full 本章 320／跨章 0／拼接 0／查无 0 ｜ 短引语兜底 3 条全中 ｜ 逐章归属 40 章全部 8/8 ｜ 块覆盖 40 文件每块进校验 ｜ 导航层英文 ❌0 ｜ 分析层行内英文逐字 1113 条零命中 0 ｜ 结构缺陷 0 ｜ 凭空造词 0 ｜ 空段 0 ｜ 总览引语 40/40 ｜ 章节标签 0 不符、H1 错配 0。
+**完工**：ch01–ch39 正文 + ch40 Historical Note（非虚构论述格式）+ 总览三篇 = 43 md，与 text/ 40 件正文逐章零偏移（版权声明页剔为 xx_）。门禁（gate.sh 15 项 exit 0，完整 lane）：verify_quotes 343/343（100%，41/41 干净）· vocab 988 词条 FAIL 0 · entities 0 · corruption 0 · sweep_full 320/0/0/0 · 短引语 3 全中 · 逐章归属 40 章全 8/8 · 块覆盖 40 文件 · 导航层 ❌0 · 分析层行内英文逐字 1113 零命中 0 · 结构 0 · 凭空造词 0 · 空段 0 · 总览引语 40/40 · 章节标签 0 不符 · H1 错配 0。
 
-方法学：引语/关键词/例句 100% 程序化注入（构建器 fail-closed：引语 span 唯一性＋关键词须在本块引语内＋导航英文逐字断言），md 内零手打英文；词表走 vocab_candidates 候选＋只做减法；总览由 gen_overview 依本书隔离模板从已核实引语池生成。
+**方法学**：引语/关键词/例句 100% 程序化注入（构建器 fail-closed：span 唯一性＋关键词在本块引语内＋导航英文逐字断言），md 内零手打英文；词表走 vocab_candidates＋只做减法；总览由 gen_overview 依本书隔离模板从已核实池生成。施工期门禁抓到并已修阻断型 2 处（ch30 幻觉实体 Calvin、关键词连字符错配）。
 
-审查期门禁抓到并已修的阻断型 2 处：ch30 导航层幻觉实体「Calvin」（→Aladdin/Hershel）与关键词连字符错配（out-of-the→out of the ordinary）。
+**独立五步审查（用户同会话发起，a–e 完整执行未降级）**：审查方主会话 + 5 子代理逐对核对 320 块，逐条自机复核 67 项（61 确认 / 6 推翻）。**门禁全绿仍查出 61 处阻断型，全部已整改（97 处行级替换 + ch40 结构 10 处，commit 25c2036e4）**：跨章错指 11 · 生成残留 20+ · 关键词越界 5 · 数字计数 3 · 错译 2 · 说话人 2 · 伪引语 2 · ch40「表达方式」缺 10（check_struct_indep 第二实现抓到）；e 步另抓总览节点三场景错置（「place for a lady」是 Clemons 办公室，非婚礼餐桌）。三档：阻断 61 已改 · 提示 10 不改（多章共有短语/释义术语/引语内年龄）· 假红 1（check_block_keywords 对 ch40 非虚构格式节名与配额的误报）。整改后复验 gate.sh **GATE_EXIT=0**。
 
-原始逐行输出：.memory/raw-gates/the-calculating-stars-by-mary-robinette-kowal/（batch02–batch15 + final-gates）。commits 18 个，均未 push（按红线等指令）。五步审查未做（待用户发起）。
+**同会话局限**（第 10 条要求如实标注）：写作方与审查方同一实例，尽管门禁全量重跑＋换检查路径＋逐条自机复核＋不自我豁免，跨章引用合理性判断与说话人窗口人工抽查仍有残余风险（抽查级工具报 0 ≠ 全对）；是否另派异实例抽样复核由用户判断。
+
+原始逐行 → `.memory/raw-gates/the-calculating-stars-by-mary-robinette-kowal/`（batch02–batch15 + final-gates + review-a/bc/d-tools/final/final2）。commits 19 个，均未 push（等指令）。
 
 ### [2026-10-01 12:44 UTC] [Commandcode-Mac] → All
 
