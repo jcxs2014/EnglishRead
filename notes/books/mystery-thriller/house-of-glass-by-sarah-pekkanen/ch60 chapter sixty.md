@@ -23,7 +23,7 @@ modified: "2026-09-30"
 > **原句 2:** I glance around the kitchen. There are no butcher blocks of knives. No heavy glass bottle of olive oil on the counter, or big crystal vase of flowers on the island. Nothing I can use to defend myself.
 
 - **中文理解**：我扫了一眼厨房。没有装着刀的厚砧板。台面上没有那种厚玻璃瓶的橄榄油，中岛上也没有大水晶花瓶。我没有任何可以用来保护自己的东西。
-- **关键词**：I glance around the kitchen · no butcher blocks of knives · a big crystal vase of flowers on the island · Nothing I can use to defend myself
+- **关键词**：I glance around the kitchen · no butcher blocks of knives · or big crystal vase of flowers on the island · Nothing I can use to defend myself
 - **为什么这样写**：作者让角色在威胁面前数了一遍厨房的装备。每一件被点名的家用物品都是真的无害，正是这种无害让最后那句 Nothing 有了重量。
 - **读者视角提示**：前一句已经写了那只 heavy glass bottle——玻璃瓶本来能当武器。作者让它只作为背景被否掉，读者要意识到她刚刚划过了一个可选项。
 

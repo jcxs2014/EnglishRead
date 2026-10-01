@@ -124,7 +124,7 @@ modified: "2026-09-30"
 
 - **中文理解**：我回头瞥了眼房子。我觉得三层那扇窗里有一道身影一闪而过，像是有人看见我转头就缩了回去。可也可能只是光线在骗人，或者是佣人在楼上打扫。
 - **关键词**：a flash of movement in the third-story window · like someone ducked away when they saw me turn · it could just be a trick of the light · the housekeeper cleaning the upper level
-- **为什么这样写**：作者用双重否定连开两个退路（a trick of the light／the housekeeper cleaning the upper level），把一条可能的线索当面拆掉。She can’t really say it was a person，所以只给一个 like——like 把判断的把握削到最低，却没让它消失。这与本章开篇的 Something evil lurks 构成首尾：开篇要读者相信有什么，开篇的辨认却始终存疑。
+- **为什么这样写**：作者用双重否定连开两个退路（a trick of the light／the housekeeper cleaning the upper level），把一条可能的线索当面拆掉。所以只给一个 like——like 把判断的把握削到最低，却没让它消失。这与本章开篇的 Something evil lurks 构成首尾：开篇要读者相信有什么，开篇的辨认却始终存疑。
 - **读者视角提示**：注意第三层是谁的地盘，下一段 Stella 就会去问。
 
 > **原句 17:** No, no one goes in there. Even when Tina lived there, Rose understood she wasn’t allowed to go up to the third level. It was Tina’s private space.

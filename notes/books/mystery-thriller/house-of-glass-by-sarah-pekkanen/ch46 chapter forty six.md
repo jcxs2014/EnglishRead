@@ -89,7 +89,7 @@ modified: "2026-09-30"
 
 - **中文理解**：可她盯得特别久的那一张，是一只翅膀受伤的鹰的画像。那只鹰是 Lucille 的相册里唯一一只伤得很重的动物。
 - **关键词**：the one she stared at for a particularly long time · a picture of a hawk with an injured wing · the only creature in Lucille’s album that was badly hurt
-- **为什么这样写**：作者把「她究竟怎么看那只鹰」这个问题交给了**读者**，而把「她盯了多久」交给了一个否定结构（the **only** creature that was badly hurt）——她停留得最久的，偏偏是相册里唯一一个**受害者**。这就是全章最值得记下的推理装置：它不在台词里，不在表情里，而在一个人看相册的**停留时间**里。而下一段紧跟着把它翻译成两种可能（`I thought Rose’s gaze held compassion. But maybe I projected what I wanted to see.`——我以为 Rose 的目光里是同情。但也许是我把想看到的东西投射了进去。）——一种否定希望的可能，另一种是更坏的可能。
+- **为什么这样写**：作者把「她究竟怎么看那只鹰」这个问题交给了**读者**，而把「她盯了多久」交给了一个否定结构（the **only** creature in Lucille’s album that was badly hurt）——她停留得最久的，偏偏是相册里唯一一个**受害者**。这就是全章最值得记下的推理装置：它不在台词里，不在表情里，而在一个人看相册的**停留时间**里。而下一段紧跟着把它翻译成两种可能（`I thought Rose’s gaze held compassion. But maybe I projected what I wanted to see.`——我以为 Rose 的目光里是同情。但也许是我把想看到的东西投射了进去。）——一种否定希望的可能，另一种是更坏的可能。
 - **读者视角提示**：本章最值得记住的一句是「也许我投射了自己想看到的」。它是这一行当的**方法论警告**：一个训练有素的观察者，最难识别的偏差就是自己想要相信的那一种。
 
 > **原句 12:** Sam’s eyes sharpen beneath his heavy brows at my slip. My hypothetical child now has a pronoun.

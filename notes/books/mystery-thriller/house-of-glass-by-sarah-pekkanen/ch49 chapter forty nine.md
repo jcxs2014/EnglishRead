@@ -132,7 +132,7 @@ modified: "2026-09-30"
 - **中文理解**：「你觉得会不会是那个小姑娘干的？她怎么会拿到我的号码给我发短信？」
 - **关键词**：Do you think that little girl could have done this · How could she get my number to text me
 - **为什么这样写**：作者让**Lucille 自己**说出那个名字，而不是让 Stella 指认。这是一个很讲道理的设计：一个孩子几乎不可能在没有号码的情况下发出这条短信；可 Lucille 还是愿意相信是她。Stella 接下来的反应——**不否认**、只说「我保证会尽力帮她」——也正是她今晚必须做出的选择。
-- **读者视角提示**：注意提问里的 two steps：第一问是不是她，第二问她怎么拿到号码。第二问才是真问题，而 Stella 的回答（`I google Lucille’s name and address`——我上 google 搜了 Lucille 的名字和地址）把这个疑问直接改写成了「现在的孩子能找到任何东西」。
+- **读者视角提示**：注意提问里的 two steps：第一问是不是她，第二问她怎么拿到号码。第二问才是真问题，而 Stella 的回答（`I google Lucille’s name`——我上 google 搜了 Lucille 的名字和地址）把这个疑问直接改写成了「现在的孩子能找到任何东西」。
 
 > **原句 18:** “These are the waters kids swim in now. They can find out all kinds of things with a few clicks.”
 

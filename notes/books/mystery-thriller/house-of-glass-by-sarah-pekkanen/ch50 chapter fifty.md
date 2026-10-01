@@ -19,7 +19,7 @@ modified: "2026-09-30"
 
 - **中文理解**：愤怒在平静的水面下无声滑行时，才更具威胁性。那些能控制自己怒火、像甩鞭子一样把它一圈圈放出去再一把抽回来的人，比那种当场爆发的人让我不安得多。
 - **关键词**：glides beneath a seemingly placid surface · spiraling it out and yanking it back like a whip · erupts in the heat of the moment
-- **为什么这样写**：作者用**一对对照**给愤怒分级：爆发型 vs 控制型。而她把吓人程度放在了控制型那边——理由就在那个比喻里：whip（鞭子）是可以抽回来的，而爆发出去的东西收不回来。作者先写水下（glides beneath a placid surface），再写水上的动作（erupts in the heat of the moment），等于给出两条路径。
+- **为什么这样写**：作者用**一对对照**给愤怒分级：爆发型 vs 控制型。而她把吓人程度放在了控制型那边——理由就在那个比喻里：whip（鞭子）是可以抽回来的，而爆发出去的东西收不回来。作者先写水下（glides beneath a seemingly placid surface），再写水上的动作（erupts in the heat of the moment），等于给出两条路径。
 - **读者视角提示**：请把这一页当成第 13 块那句 `He doesn’t blanch, or flinch, or exhibit keen interest.`（他不惊，不缩，也不显露特别的兴趣。）的**判据**。作者先立尺子，再量人。
 
 > **原句 2:** When a fit of rage sweeps over most of us, our minds don’t seem to be guiding us. Only after the fiery heat of the emotion passes do we even seem to register that it gripped us.

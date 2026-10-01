@@ -60,7 +60,7 @@ modified: "2026-09-30"
 > **原句 7:** I don’t see any framed photographs or pictures. No paperweight on his desk. No clock on the wall.
 
 - **中文理解**：我没看到任何带框的照片或图片。桌上没有镇纸。墙上没有钟。
-- **关键词**：No framed photographs or pictures · No paperweight on his desk · No clock on the wall
+- **关键词**：I don’t see any framed photographs or pictures · No paperweight on his desk · No clock on the wall
 - **为什么这样写**：三个否定句一路排下来，把房间清空。列举的是最普通的家居物——镇纸、挂钟——正因普通，才显出被清走这件事有多反常。
 - **读者视角提示**：此处它还没有被说破；读者要等到下一段那四个字才知道她在想什么。
 
@@ -167,7 +167,7 @@ modified: "2026-09-30"
 - **中文理解**：「我跟警察说过，我也是关着门做事的。Beth 一样可以从楼上下来，跟我一样容易。」
 - **关键词**：I work with my door shut, too · Beth could have slipped upstairs · just as easily as me
 - **为什么这样写**：too（也）把这句话变成了一次对等反驳：她能说他门关着，他就能说她门也关着。just as easily as me（和我一样容易）省掉了主语——主语是「推人」这件事，双方都省略了。
-- **读者视角提示**：全章结束在这一句。Stella 找了半天的那个信号终于出现——Gone is the easygoing guy（那个随和的人不见了），取而代之的是 Now his narrowed eyes are flinty with anger（此刻他眯起的眼睛冷硬如燧石）。他生气，是因为被指认了，而他也回手指了回去。
+- **读者视角提示**：全章结束在这一句。Stella 找了半天的那个信号终于出现——`Gone is the easygoing guy`（那个随和的人不见了），取而代之的是 Now his narrowed eyes are flinty with anger（此刻他眯起的眼睛冷硬如燧石）。他生气，是因为被指认了，而他也回手指了回去。
 
 ## 本章词汇
 

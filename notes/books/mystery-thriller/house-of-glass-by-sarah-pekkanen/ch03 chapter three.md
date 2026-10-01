@@ -61,7 +61,7 @@ modified: "2026-09-30"
 
 - **中文理解**：不管那张桌子能摆多少把椅子，都不会有足够多的位子同时容纳我们两个。
 - **关键词**：No matter how many · there won’t be enough room · both of us
-- **为什么这样写**：不写「新女友要来」，只写一个装不下的空间。`It isn’t hard to do the math` 紧挨在这句之前——把情感问题直接换算成算术，于是有了前一段那句 aren’t hard to do the math。
+- **为什么这样写**：不写「新女友要来」，只写一个装不下的空间。`It isn’t hard to do the math` 紧挨在这句之前——把情感问题直接换算成算术，于是有了上一段那句关于位子的算式。
 - **读者视角提示**：这句话的结构与 ch02 那句「我们的言语缠绕，而不是我们的身体」互为镜像：那次是两人同时在场，这次是两人同时缺席。
 
 > **原句 8:** Marco has already found the hope the eagle statue in the mediator’s office promised.

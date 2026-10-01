@@ -25,7 +25,7 @@ modified: "2026-09-30"
 > **原句 2:** This low-slung redbrick building in a humble neighborhood in Rockville lacks an elevator. My mind didn’t register that detail as significant at first.
 
 - **中文理解**：Rockville 一个不起眼街区里这栋低伏的红砖楼，没有电梯。我脑子里起初没有把这个细节当作要紧的事。
-- **关键词**：a low-slung redbrick building · in a humble neighborhood in Rockville · lacks an elevator · My mind didn’t register that detail as significant at first
+- **关键词**：This low-slung redbrick building · in a humble neighborhood in Rockville · lacks an elevator · My mind didn’t register that detail as significant at first
 - **为什么这样写**：作者先给三个定语把楼写旧（`low-slung` 低矮、`redbrick` 红砖、`humble` 寒酸），再给一个否定句（`lacks an elevator`），最后让叙述者**承认自己当时没在意**。这句 `at first`（起初）是整章的开关：她把「当时没在意」写下来，读者才知道后面那句「第一条线索」是回头补上的。
 - **读者视角提示**：`humble neighborhood`（寒酸的街区）与上一章那位钢琴老师的公寓是同一个阶层词。作者在两章里各放了一间这种房子，读者若注意到，就该开始怀疑这两处是不是同一个人群。
 
@@ -53,7 +53,7 @@ modified: "2026-09-30"
 > **原句 6:** I’m used to asking probing questions, but I can’t think of a graceful way to word the one at the forefront of my mind: How in the world do you afford all these little luxuries?
 
 - **中文理解**：我向来善于问探底的问题，可我要问的那一句——你到底是怎么置办起这一屋子小奢侈品的——我却想不出一个体面的说法。
-- **关键词**：I’m used to asking probing questions · I can’t think of a graceful way to word it · the one at the forefront of my mind · How in the world do you afford all these little luxuries
+- **关键词**：I’m used to asking probing questions · I can’t think of a graceful way to word the one at the forefront of my mind · How in the world do you afford all these little luxuries
 - **为什么这样写**：作者把「问不出来」写成一个**修辞能力的失效**。`I’m used to`（我向来）先立住她的专业身份，`but` 之后立刻打脸：`graceful`（体面的）这个词很考究——不是「问不出」，是「问出来会伤人」。而冒号之后的那句是非问句，末尾没有引号，说明这是她在心里排练了无数遍、一次也没说出口的话。
 - **读者视角提示**：`How in the world`（到底怎么会）这个开头在英语里是口语，但作者让一个律师用它在心里说——读者应当感觉到她在这里不是失手，是被对方的处境绊住了。
 

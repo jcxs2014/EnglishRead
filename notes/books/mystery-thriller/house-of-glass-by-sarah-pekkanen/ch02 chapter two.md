@@ -41,7 +41,7 @@ modified: "2026-09-30"
 - **中文理解**：我们代表孩子。
 - **关键词**：We · represent the children
 - **为什么这样写**：单独立段，只有两个词加一个名词。前面一整段都是长句（brutal, complicated custody cases 那一串），到这里突然压缩到最短。像一锤定音——先把定义堆得繁复，再用一句话把它敲成一个简单事实。
-- **读者视角提示**：注意人称的转换。前一句说 judges appoint someone like me，这里变成 We——Stella 不只是个体，是这一整个职业的代表。
+- **读者视角提示**：注意人称的转换。前一句说 `appoint someone like me: a best interest attorney, or guardian ad litem`，这里变成 We——Stella 不只是个体，是这一整个职业的代表。
 
 > **原句 5:** So who does the girl think she needs to protect herself from with a shard of glass that could double as a knife?
 
