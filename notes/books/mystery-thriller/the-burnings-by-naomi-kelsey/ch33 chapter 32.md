@@ -7,7 +7,7 @@ modified: "2026-10-01"
 
 ## 本章导航
 
-- **一句话概括**：Geillis 和 Agnes 被从哈丁顿的拘留所押到 Edinburgh 的 tolbooth，Seton 亲自用针、剃刀和拇指夹逼她招出一个名字；她喊出 Agnes 的名字之后，才在囚室里一层层推出上面站着的是国王。
+- **一句话概括**：Geillis 和 Agnes 被从哈丁顿的拘留所押到 Edinburgh 的 tolbooth，Seton 亲自用针和拇指夹逼她招出一个名字，剃头则是他一声令下、由狱卒动手；她喊出 Agnes 的名字之后，才在囚室里一层层推出上面站着的是国王。
 - **情感弧线位置**：身体折磨写满了本章的篇幅：作者把她的皮肤一寸一寸写完，才让任何人开口。情绪的最低点其实不在刑具本身，而在后面 Agnes 一个一个被带回、Geillis 看着她们伤势的那一格。
 - **线索结构**：她推出“上面是国王”的那几步，把 ch01 那位被关了十年的囚徒说过的“先造恐惧”接上了：章末 Agnes 那句“比巫术更能吓住男人的，是他控制不了的女人”，正是那条纲领被拿来用的样子；而 Wemyss 的邀约她没赴，代价就落在本章。
 - **人物弧线**：Geillis 从被审的人变成自己喊出名字的人——本章她的背叛由她自己完成，不是别人替她做的；Agnes 挨完绳子回牢房第一件事，是清点谁把 Bothwell 说出去。
@@ -26,7 +26,7 @@ modified: "2026-10-01"
 
 - **中文理解**：“恐怕不对，”他说，“但今天我要的是另一种证据。我要找的是你是个女巫的证据。”
 - **关键词**：I seek a different kind of evidence today／I seek proof that you’re a witch
-- **为什么这样写**：三个短句一句比一句短，最后一句把“证明”缩到一个具体动作上。他先退一步承认她说对了，再把“证据”整个换掉——作者让程序和刑具在这里正式分家：一个管名分，一个管疼。两次重复的“找”是要让人听出这条线的方向：不是查她做过什么，是查她身上有什么。
+- **为什么这样写**：三句的句长是一短、一长、再收半步：先是一句最短的，第二句最长，第三句比第二句短一点，但比第一句长。作者让长度本身走一条“退让—展开—收窄”的曲线。他先退一步承认她说对了，再把“证据”整个换掉——作者让程序和刑具在这里正式分家：一个管名分，一个管疼。两次重复的“找”是要让人听出这条线的方向：不是查她做过什么，是查她身上有什么。
 - **读者视角提示**：记住这半句：他要的不是口供，是身上的证据。后面所有的针都长在这句话上。
 
 > **原句 3:** He pricked her face first. Even when it hurt to cry out because she was bleeding from a dozen wounds, Geillis couldn’t stop moaning. When he moved down to her arms, he drove the needle even deeper, skewering her flesh, and she hadn’t known she could make such noises. Her armpits were next, then her chest; Seton stabbed each of her breasts with a vindictive snarl, and she shrieked. By the time he moved down to her belly and her hips, her raw lips had broken open again, and her mouth filled with blood; once he’d reached her feet her throat was ragged with screaming. Finally they untied her, and she wept with relief – but then they flipped her over and the pricking began again, working up her legs to her buttocks, back, shoulders, already bloodied scalp.
@@ -34,7 +34,7 @@ modified: "2026-10-01"
 - **中文理解**：他先扎她的脸。她身上到处都在流血，疼得叫出声，却连呻吟都停不下来。移到手臂时他把针扎得更深，直接串进肉里，她这才知道自己还能发出那种声音。接着是腋下，然后是胸口的每一处。他把她和每一下都配上一个怀恨的怒容，她尖叫着。扎到腰腹和髋的时候，她裂开的嘴唇再次破开，嘴里全是血；等扎到脚，嗓子已经喊哑。他们终于解开她，她哭着松了口气——然后被翻过身去，从腿往上再扎一遍，扎到那个已经血肉模糊的头皮。
 - **关键词**：she was bleeding from a dozen wounds／he drove the needle even deeper, skewering her flesh／Seton stabbed each of her breasts with a vindictive snarl／they flipped her over and the pricking began again
 - **为什么这样写**：这一段是本章最长的一段，作者的处理是只写位置、不写她怎么想：脸、手臂、腋下、胸、腹、髋、脚，翻身再来一遍，读者被按在同一条动线上。最狠的是“扎完了又翻过来重扎”——不给喘息，也不给结束，把什么时候停的权限从他手上拿走。全段只在那一处交代了后果：那句嘴里全是血、嗓子喊哑。
-- **读者视角提示**：这段结束之后作者立刻让她开口，而那不是求饶，是要回牢房。记住这个反常：在这里，“安静”才是她唯一想要的好事。
+- **读者视角提示**：这段结束之后先开口的是那个狱卒，问的是要不要把她送回牢房；她一个字也没说，只在心里答了一声“求你”。记住这个反常：在这里，“安静”才是她唯一想要的好事。
 
 > **原句 4:** He took her hand, terrifyingly gentle. ‘They call them pilliwinks, or thumbikins. Such silly names for something so … damaging.’ He slipped the device around her thumb. ‘You might not think it now. Look how small it is! Look what a fraction of you a thumb is! And yet, I’m told, our hands are among the most sensitive parts of our bodies. And, of course, the most useful. Whatever would a girl like you do with crushed thumbs?’
 
@@ -55,7 +55,7 @@ modified: "2026-10-01"
 - **中文理解**：“这在法律上是违法的，”Agnes 指出，“供词不能靠酷刑逼出来，对女人尤其如此。”
 - **关键词**：Which is illegal／Testimonies cannot be extracted through torture／especially not from women
 - **为什么这样写**：作者让她挨完绳子、带着伤回牢房之后，用极短的一段话完成转向：前一句还在列举受的苦，这一句已经把话题交给法律——而且多加了一层限定，对男人也能这么干，对女人不行。这道限定才是这段最锋利的地方，因为它同时点名分和性别两样她正在被剥夺的东西。
-- **读者视角提示**：记住“对女人尤其如此”这个限定。下一块她把话再推一步：由违法推出主使者自以为站在法律之上。
+- **读者视角提示**：记住“对女人尤其如此”这个限定。“谁在牵头这件事，谁就自认为站在法律之上”这一步已经被原文走过，只是不在这一块里；下一块换了一件事——她把伯爵派给她们的那个任务的用途说了出来。
 
 > **原句 7:** ‘He wanted us to spread fear.’ Agnes leaned forward, barely wincing now. ‘The only thing that frightens men more than witchcraft is a woman they cannot control. They want us to confess to witchcraft? We shall not. Do you hear me? We will not confess.’
 

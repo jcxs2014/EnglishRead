@@ -27,7 +27,7 @@ modified: "2026-10-01"
 - **中文理解**：「我们就赖上他，」Euphame 说，务实到近乎无情，「为什么不呢？所有人都会信我们——被那个邪恶伯爵带偏、被吓住而屈服的女人。这就是国王想听的故事，我们不妨就这么讲。」
 - **关键词**：ruthlessly pragmatic／women led astray by the wicked earl, frightened into submission／That’s the story the king wants to hear
 - **为什么这样写**：作者用两个词就把一个人定性：一个副词加一个形容词，从此她说的每句话都不必再解释动机，因为动机已经交出去了。最狠的一句是把口供的合法性建立在国王的偏好上：只要是国王想听的版本，说这份口供的人是谁根本不重要。
-- **读者视角提示**：这一段是全书对「审判」这件事最冷的一次解释：真相不重要，版本才重要，而版本可以由被告一方自己提供。
+- **读者视角提示**：这一段是本章对「审判」这件事最冷的一次解释：真相不重要，版本才重要，而版本可以由被告一方自己提供。
 
 > **原句 3:** ‘Because that makes their accusation true!’ Geillis leaned forward. ‘Think about it. If you tell them about the queen, you’ll have to mention the herbs – and that’s confessing to witchcraft. But if you just mention Bothwell, then it’s nothing to do with witchcraft. It’s just women asking for his help, and that’s no crime.’
 
@@ -41,7 +41,7 @@ modified: "2026-10-01"
 - **中文理解**：詹姆斯一拳砸在桌上。「这场审判是我安排的，可不是为了让一群蠢货的陪审团把她判成无罪！」
 - **关键词**：James drove his fist against the table／a jury of fools could find her innocent
 - **为什么这样写**：国王当场自认这场审判是安排好的——一句台词就把它的性质从「查明真相」改写成「预定结果」。作者让动作先于台词——砸桌子——再让台词把这个动作翻译成语言：不是失态，是宣示。本章后面那次改判，就是这一句的兑现。
-- **读者视角提示**：记住「安排」这个词。它在本章后面还会被复述一次，而那一次是从被判的人自己嘴里说出来的。
+- **读者视角提示**：记住「安排」这个词。它在本章后面还会被复述一次——但复述它的是叙述者本人，不是被判的那个人嘴里；被判的人从头到尾没有用过这个词。
 
 > **原句 5:** ‘It was the king,’ she said hollowly when Euphame pressed her for an explanation. ‘He wouldn’t accept the first verdict. Even though the same questions were asked and I gave the same answers, saying nothing of witchcraft, only of asking Bothwell for help, they all changed their minds.’
 
@@ -62,7 +62,7 @@ modified: "2026-10-01"
 - **中文理解**：城堡山上爆发出一阵巨大的欢呼。片刻之后，一股粗重发闷、像木头略微受潮的烟味飘到了牢房这边。火已经点起来了。Euphame 已经死了。
 - **关键词**：A great cheer erupted from Castle Hill／the smell of smoke, rough and thickened／Euphame was already dead
 - **为什么这样写**：作者把处决的消息拆成三段送达，顺序还反常：先听见城上的欢呼，再闻到烟，最后才由叙述者宣布人已经死了。这个错位让读者比牢房里的人早半步知道发生了什么，又晚半步反应过来——欢呼是在人还活着的时候就已经响起来了。
-- **读者视角提示**：注意「像木头略微受潮」这个细节：它暗示柴是特意挑的。本章最后那句「这是给博斯韦尔的信」，说的正是这件事。
+- **读者视角提示**：注意「像木头略微受潮」这个细节：它暗示柴是特意挑的，痛苦被拉长了。本章最后那句「这是给博斯韦尔的信」说的不是柴，是这一场之后不再有宽待。
 
 > **原句 8:** ‘It’s a message,’ Geillis said bleakly. ‘To Bothwell, and to all of us. No matter who you are, there will be no more mercy.’
 

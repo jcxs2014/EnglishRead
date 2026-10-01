@@ -34,7 +34,7 @@ modified: "2026-10-01"
 - **中文理解**：「我打算管它叫《恶魔学》，」他得意地说，「写成两个哲学家对话的样子，苏格拉底式的。比干巴巴摆出自己的主张有意思多了，你说是不是？」
 - **关键词**：A dialogue between two philosophers／More entertaining than merely laying out my own creed
 - **为什么这样写**：国王把自己的审讯伪装成学术，理由是更有意思——作者让最残忍的索取用最轻的理由包装，还让她只能附和。读者由此看见这套程序的自我服务性质。
-- **读者视角提示**：书名与体裁都是他自己挑的。记住这个名目，后文还会回来。
+- **读者视角提示**：书名与体裁都是他自己挑的。记住这个名目——它同时也是这套新程序给自己取的题名。
 
 > **原句 4:** ‘Kings aren’t above bargaining.’ She tried to straighten up defiantly, as Agnes would have done, and her cheek jarred against the bridle. ‘Just because I barter for eggs and you for terms with Denmark.’
 
@@ -54,7 +54,7 @@ modified: "2026-10-01"
 
 - **中文理解**：她这才想明白 Bothwell 危险在哪里：他有诱惑力，他让人想让他赢，甚至想帮他赢。难怪 John 觉得无处落脚，连 Margareta 自己也快要想不清楚忠诚该放在哪一边。
 - **关键词**：the most dangerous thing about Bothwell／where her loyalty should lie
-- **为什么这样写**：作者让「危险」与「诱人」指同一件事，再让全章最有戒心的人承认自己也在被它牵着走。这句承认发生在牌桌中局，比任何指控都更能说明对方的手段。
+- **为什么这样写**：作者让「危险」与「诱人」指同一件事，再让全章最有戒心的人承认自己也在被它牵着走。这句承认落在发牌之前——桌上刚摆好、牌还没摸到手里，她就已经被牵走了；比任何指控都更能说明对方的手段。
 - **读者视角提示**：注意 dangerous 与 seductive 被放在同一段里。两种评价不冲突，这正是这一章的题目。
 
 > **原句 7:** ‘Perhaps it’s time,’ Bothwell continued, ‘for those women to be confronted with their sins. Those investigating might recall that Mistress Napier is kin to the Earl of Angus. Rumour has it she helped poison the old man.’ He paused – and did he wink? ‘I never did like the Douglases. If there was one witch among them, perhaps there were others.’

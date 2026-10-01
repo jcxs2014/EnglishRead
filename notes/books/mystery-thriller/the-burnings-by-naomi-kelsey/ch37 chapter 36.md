@@ -41,7 +41,7 @@ modified: "2026-10-01"
 - **中文理解**：选管子就像牵住父母的手。木料在指尖下滑过，木纹熟悉得像掌上的纹路与老茧。可她那只废掉的大拇指已经夹不住管子，只能别扭地把掌根抵上去，而父母早就不在了，没有一只手可牵。
 - **关键词**：Choosing the pipes was like taking a parent’s hand／there was no hand for her to hold
 - **为什么这样写**：作者把求生写成失去：先给触觉的亲密，再给身体的失能，最后给彻底的无人可握。每一步都靠实物推进，没有一句情绪形容词。
-- **读者视角提示**：她没有选竖琴，理由写在下一段。这个选择本身就是表态。
+- **读者视角提示**：国王让人在管子和竖琴之间挑，她没选竖琴——竖琴的声音太容易被人说成是在学动物叫；她反而说，管子，还有父亲留下的口琴。这个选择本身就是表态。
 
 > **原句 5:** The guard holding her laughed. ‘These are the king’s orders. Who do you think will save you – that fat walrus of a husband you left chewing his supper? Or the kin you tried to murder with witchcraft?’
 
