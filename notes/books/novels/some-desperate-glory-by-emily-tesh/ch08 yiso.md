@@ -25,9 +25,9 @@ modified: "2026-10-01"
 
 **读者视角提示**：`I’m getting the impression`（我感觉）是一个正在现场学习的人的说法。Yiso 是在**观察中形成政治判断**，而它一形成就是错的（全人类＝Gaea 人）。这个误判在 ch09 之后会被逐步修正。
 
-> **原句 2:** But it was an alien.
+> **原句 2:** But what else was she supposed to think? It was an alien.
 
-**中文理解**：但它是一个外星人。
+**中文理解**：但她还能想什么？它是一个外星人。
 
 **关键词**：But it was an alien（但它是一个外星人）
 
@@ -45,7 +45,7 @@ modified: "2026-10-01"
 
 **读者视角提示**：`us` 是本章第一次出现复数代词。在 ch07 她所有的句子都是 `I`；到这里她第一次用 `我们`，而它指的是一个「她和一只 majo 和一个叛徒」构成的临时同盟。
 
-> **原句 4:** “Valkyr,” said Cleo. “Stop.”
+> **原句 4:** “Valkyr,” she said. “Stop.”
 
 **中文理解**：「Valkyr，」Cleo 说，「停下。」
 
