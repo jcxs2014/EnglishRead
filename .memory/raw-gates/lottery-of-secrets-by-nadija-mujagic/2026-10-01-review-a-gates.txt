@@ -1,0 +1,87 @@
+=== a 步 · 第 3 条提交门禁全量重跑 2026-10-01 06:24 UTC ===
+=== lane ===
+完整 lane
+
+=== ① verify_quotes ===
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 22/22 ✅（另有 1 条短引语未校验）
+ch01 the winning scratch ticket.md: 9/9 ✅（另有 1 条短引语未校验）
+ch02 the price of a secret.md: 10/10 ✅
+ch03 hiding it in the wall.md: 8/8 ✅
+ch04 blood on the sand.md: 7/7 ✅
+ch05 all of it to charity.md: 8/8 ✅
+ch06 the invoice and the wall.md: 7/7 ✅
+ch07 the loss of our son.md: 7/7 ✅
+ch08 the morning after.md: 8/8 ✅
+ch09 posing for the cameras.md: 8/8 ✅
+ch10 the secret admirer.md: 8/8 ✅
+ch11 a warning in whispers.md: 8/8 ✅
+ch12 reunion and a black box.md: 8/8 ✅
+ch13 the box on the front steps.md: 7/7 ✅
+ch14 the only name on the list.md: 7/7 ✅
+ch15 a needle and a kiss.md: 8/8 ✅
+ch16 twenty five years later.md: 8/8 ✅
+ch17 the woman in the corner.md: 8/8 ✅
+ch18 a hotel and three cameras.md: 8/8 ✅
+ch19 the house by the ocean.md: 8/8 ✅
+ch20 the keys he dangled.md: 7/7 ✅
+ch21 forced to call cecilia.md: 8/8 ✅
+ch22 a note and a signature.md: 8/8 ✅
+ch23 the investigator on the beach.md: 11/11 ✅
+ch24 the investigator's coffee shop.md: 12/12 ✅
+ch25 the clean record.md: 12/12 ✅
+ch26 the necklace and the fairy tale.md: 11/11 ✅
+ch27 the wedding day in 1997.md: 12/12 ✅
+ch28 the bill in the mail.md: 12/12 ✅
+ch29 where you buried our son.md: 11/11 ✅
+ch30 the bag of another life.md: 12/12 ✅
+ch31 the blanket and the unclaimed grave.md: 8/8 ✅
+ch32 the smirk and the dead brakes.md: 8/8 ✅
+ch33 the hospital she escaped.md: 8/8 ✅
+ch34 the cast iron pan.md: 8/8 ✅
+ch35 a premeditated murder.md: 8/8 ✅
+ch36 the four duffle bags.md: 8/8 ✅
+ch37 a number she never dialed.md: 8/8 ✅
+ch38 the last time she said one more.md: 8/8 ✅
+ch39 the bags and the promise of clarity.md: 8/8 ✅
+ch40 a rat in the parking lot.md: 8/8 ✅
+ch41 a night at the casino.md: 10/10 ✅（另有 1 条短引语未校验）
+ch42 the letter for james corrigan.md: 11/11 ✅
+ch43 the figure in the mirror.md: 10/10 ✅（另有 1 条短引语未校验）
+ch44 the daughter i never knew.md: 11/11 ✅
+ch45 we both thought the other was dead.md: 14/14 ✅
+
+⚠️ 全书共 4 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 424/424 引文可核实（100%）；完全干净文件 46/46；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+=== ①b verify_quotes --full ===
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 424/424 引文可核实（100%）；完全干净文件 46/46；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 1 ===
+
+=== ② check_vocab ===
+词条行合计: 1167
+--- FAIL (0) ---
+--- WARN (69) ---
+
+=== ③ check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan ===
+
+=== 编辑损坏扫描（lottery-of-secrets-by-nadija-mujagic）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full ===
+=== 引语整串 flat 比对（lottery-of-secrets-by-nadija-mujagic）===
+  参照集：text/ 逐章（45 章，可定章） + epub 交叉验证
+  ✅ 本章命中 377 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 25 ｜ ❌ 全书查无 0
+  （短引语 3 条归 check_short_quotes；无章可对 0 条未判）

@@ -1,0 +1,46 @@
+=== b 步 · 逐章归属 check_chapter_quotes 全量重跑 2026-10-01 06:28 UTC ===
+ch01 the winning scratch ticket.md: 9/9 in ch01 text（另有 1 条短引语未校验）
+ch02 the price of a secret.md: 10/10 in ch02 text
+ch03 hiding it in the wall.md: 8/8 in ch03 text
+ch04 blood on the sand.md: 7/7 in ch04 text
+ch05 all of it to charity.md: 8/8 in ch05 text
+ch06 the invoice and the wall.md: 7/7 in ch06 text
+ch07 the loss of our son.md: 7/7 in ch07 text
+ch08 the morning after.md: 8/8 in ch08 text
+ch09 posing for the cameras.md: 8/8 in ch09 text
+ch10 the secret admirer.md: 8/8 in ch10 text
+ch11 a warning in whispers.md: 8/8 in ch11 text
+ch12 reunion and a black box.md: 8/8 in ch12 text
+ch13 the box on the front steps.md: 7/7 in ch13 text
+ch14 the only name on the list.md: 7/7 in ch14 text
+ch15 a needle and a kiss.md: 8/8 in ch15 text
+ch16 twenty five years later.md: 8/8 in ch16 text
+ch17 the woman in the corner.md: 8/8 in ch17 text
+ch18 a hotel and three cameras.md: 8/8 in ch18 text
+ch19 the house by the ocean.md: 8/8 in ch19 text
+ch20 the keys he dangled.md: 7/7 in ch20 text
+ch21 forced to call cecilia.md: 8/8 in ch21 text
+ch22 a note and a signature.md: 8/8 in ch22 text
+ch23 the investigator on the beach.md: 11/11 in ch23 text
+ch24 the investigator's coffee shop.md: 12/12 in ch24 text
+ch25 the clean record.md: 12/12 in ch25 text
+ch26 the necklace and the fairy tale.md: 11/11 in ch26 text
+ch27 the wedding day in 1997.md: 12/12 in ch27 text
+ch28 the bill in the mail.md: 12/12 in ch28 text
+ch29 where you buried our son.md: 11/11 in ch29 text
+ch30 the bag of another life.md: 12/12 in ch30 text
+ch31 the blanket and the unclaimed grave.md: 8/8 in ch31 text
+ch32 the smirk and the dead brakes.md: 8/8 in ch32 text
+ch33 the hospital she escaped.md: 8/8 in ch33 text
+ch34 the cast iron pan.md: 8/8 in ch34 text
+ch35 a premeditated murder.md: 8/8 in ch35 text
+ch36 the four duffle bags.md: 8/8 in ch36 text
+ch37 a number she never dialed.md: 8/8 in ch37 text
+ch38 the last time she said one more.md: 8/8 in ch38 text
+ch39 the bags and the promise of clarity.md: 8/8 in ch39 text
+ch40 a rat in the parking lot.md: 8/8 in ch40 text
+ch41 a night at the casino.md: 10/10 in ch41 text（另有 1 条短引语未校验）
+ch42 the letter for james corrigan.md: 11/11 in ch42 text
+ch43 the figure in the mirror.md: 10/10 in ch43 text（另有 1 条短引语未校验）
+ch44 the daughter i never knew.md: 11/11 in ch44 text
+ch45 we both thought the other was dead.md: 14/14 in ch45 text

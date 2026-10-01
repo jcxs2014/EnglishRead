@@ -1,0 +1,15 @@
+=== d 步 · 语义二审 2026-10-01 07:18 UTC ===
+
+=== ① check_xref_indep（跨章引用）===
+=== chNN 引用 320 处：英文证据报警 0 处 ／ 中文式待人判 312 处 ===
+
+=== ② check_analysis_indep（分析层行内英文）===
+抽出分析层英文片段 525 条
+❌ 未命中 1 条：
+  ch39 the bags and the promise of clarity.md:49  groundkeepers in the graveyards
+      未命中词: ['groundkeepers']
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）4 条 —— 只报不判红，须人判：
+  ch10 the secret admirer.md:49  bring chills to my spine
+  ch30 the bag of another life.md:56  the potential of another life
+  ch42 the letter for james corrigan.md:79  enclosed breakdown of estimated costs
+  ch44 the daughter i never knew.md:43  the information checks out

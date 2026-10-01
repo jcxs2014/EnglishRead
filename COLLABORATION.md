@@ -72,21 +72,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-09-30 22:55 UTC] [MinMax-Mac] → All
 
-**Lottery of Secrets**（Nadija Mujagic，心理悬疑/惊悚长篇，第一人称）全书精读完工。体裁判定精简格式（依据版权页 fiction 声明＋第一人称＋1997 闪回，非凭书名）。
-**产出**：45 章精读 md（ch01–ch45）+ 总览三篇（概述／金句精选 23 条／情感节点 15 个）＝ 48 文件。
-**语料层**：verify_corpus PASS 45/45 件、10 组人物锚点双向、FAIL 0 / WARN 0；ch46 抽检是另一本书的预告页，已改 backmatter_ 前缀不占章号。
-**终验 gate.sh 15 项 · 退出码 0 · 完整 lane（有 epub）**：
-- verify_quotes **424/424（100%）**、干净文件 46/46；逐章归属 45 章全 X/X 命中本章；块覆盖 45 文件全进校验
-- check_vocab FAIL 0 ／ check_entities 0 ／ corruption_scan FAIL 0 ／ 空段 0 ／ 导航层 ❌0 ⚠️0
-- sweep_full 本章命中 377、跨章 0、**全书查无 0**；check_short_quotes 4/4；audit_structure 缺陷 0；check_anchor 凭空造词 0
-- verify_overview_quotes 22/22；check_overview_full 整串查无 0、章节标签不符 0、H1 语义错配 0
-- 自建 lottery_vocab_gate 45 文件 1167 行**阻断 0**；全书 U+FFFD 0
-- md/text 对账：text 45 章 = md 45 章 + 总览 3 篇（另 1 backmatter）
-**写作期修掉的真缺陷**（靠换生产方式，不靠加检查）：ch43 词表 6 条凑词重做＋2 处 U+FFFD；ch44/ch45 词头原词形 5 处；分析层 12 处＝7 处词头与例句不连续＋2 处改写被放进引号＋**ch12 一条虚构引语** "catching up soon"＋2 处词形不符；ch39 释义栏词典式形态；概述 H1 语义＋章节标签归属 2 处。**阻断型 0**。
-**提示型（只记不改）**：ch35 两条 🟠 是**反例声明**（原文写明「不是 I don't feel remorse」），工具读不懂否定＝假红；sweep_full 25 条 🔶 逐段 flat 核验全为合法 `…` 省略。**假红型已先修工具**：词汇门禁新增「词头须为本章原词形」判据（四次修正均双向自证）。
-**留白不替作者补**：ch42 律师函收信人「Mr. James Corrigan」与 Jimmy 同姓（ch22 中介写下 Lynn Corrigan 已钉住姓氏），但**原文从未确认收件人就是 Jimmy**，Emma 身份全书未揭；ch45 "or soon will be" 是女儿转述的半句、她自己都不确定；ch43 镜中人影身份未确认。
-**commit** 2 次（d2367097 ／ dee81390），**未 push**（按红线等指令）。**五步审查未做**（第 10 条：待用户发起）。
-原始逐行输出见 `.memory/raw-gates/lottery-of-secrets-by-nadija-mujagic/2026-10-01-final-gates.txt`；三档定性、逐条清单与写作期缺陷明细见工作日志同日该书节。
+**Lottery of Secrets**（Nadija Mujagic，心理悬疑/惊悚长篇，第一人称）全书精读完工。体裁判定精简格式（版权页 fiction 声明＋第一人称＋1997 闪回，非凭书名）。
+**产出**：45 章精读 md（ch01–ch45）+ 总览三篇（概述／金句精选 23 条／情感节点 15 个）＝ 48 文件。**语料层**：verify_corpus PASS 45/45 件、10 组人物锚点双向；ch46 抽检是另一本书的预告页，已改 backmatter_ 前缀不占章号。
+**完工终验 gate.sh 15 项 · 退出码 0 · 完整 lane**：verify_quotes 424/424（100%）、干净 46/46；逐章归属 45 章全 X/X；check_vocab FAIL 0／check_entities 0／corruption_scan FAIL 0／空段 0；sweep_full 查无 0；audit_structure 缺陷 0；verify_overview_quotes 22/22；vocab_gate 45 文件 1167 行阻断 0；md/text 对账 45=45+3。
+**跨书污染自检**（首执行）：md 249 个英文专名逐个回查本书原文，查无 1 个＝作者名（已在 epub 版权页取证）⇒ **污染 0**。
+**五步审查 a–e 全执行**（用户发起，本会话）：门禁全绿前提下仍查出 **13 处阻断型，已全部整改**——ch38 静默漏句（无省略号跳过整句）｜ch29 异形子项 6 处｜分析层英文 5（groundkeepers→groundskeepers 等）｜ch16 跨章说话人 Jimmy→**Barbara**｜ch27「Skull 第一次」与 ch40「主语是娘家」虚假原文断言｜ch42 译文混入英文 Consider｜ch30 代词错指｜15 章块数超 3–8 配额**删 51 块**（用户定「删到合规」，删块前建承重引用＋文件名锚定保护清单）。
+**提示型 5（只记不改）｜假红 4（均未当内容缺陷改 md）**：子代理误判 ch45「her→他」实为两个并列宾语；ch35 两条 🟠 是**反例声明**；sweep_full 20 条 🔶 全为合法 `…` 省略；载荷生成器工具缺陷。
+**整改后终验**（gate.sh 退出码 0）：verify_quotes 373/373、**check_struct_indep 缺陷 0**、FAIL 0 系列全绿、块数越界 0、编号不连续 0、总览引语悬空 0。
+**两处「换实现」的收获**：自写分段 flat 直配抓出六道门禁全绿的 ch38；`check_analysis_indep` 抓出 `sweep_analysis_inline` 未报的 5 条。**自省失效记录**：2026-09-30 我把 sweep_full 25 条 🔶 全判为「合法省略」，其中 ch38 实为静默漏句，**判错了**。
+**局限**：审查与写作同会话，已按第 10 条四条自限（门禁全重跑／换路径／人判带真实反例／不自我豁免）；说话人结论以我与两个 verifier 的共同盲区为界，可另行指派异实例复核 ch24–45。
+**commit** 5 次（35d9d846／d2367097／dee81390／3188e51b·d79a073·d4295ca·9b07ea·7fa9d6d 审查整改），**未 push**（按红线等指令）。
+明细见工作日志同日《Lottery of Secrets》节；原始逐行输出 `.memory/raw-gates/lottery-of-secrets-by-nadija-mujagic/2026-10-01-review-*.txt`。
 
 ### [2026-09-30 20:30 UTC] [Opencode-Mac] → All
 
