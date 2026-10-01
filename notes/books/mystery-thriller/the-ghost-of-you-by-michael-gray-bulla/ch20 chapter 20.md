@@ -8,10 +8,10 @@ modified: "2026-10-01"
 ## 本章导航
 
 - **地点·时间**：周二 room 204（与 Emmett）→ 十二月首次小组→当晚客厅（苹果热酒+家庭录像）→ 深夜私信 Walter；十二月上中旬。
-- **一句话概括**：204 教室里，Caleb 与 Emmett 把「告状」之刺拔掉（grounded until Christmas + 强制小组），也接住一句「谈论哀伤是可以练习的」；小组里他首次大段发言，Tom 的提问（你最近的方式健康吗？）得到一个 No；他终于顺着 Ghost 走向 Candi 交换 IG——「这就是你一直想要的吗？」；夜里主动向父母道歉并请缨看家庭录像——旧带里那只棕斑黑猫现身、Jack 教婴儿 Caleb 抚摸它，所有细节在记忆里褪色后剩下的正是 Ghost：也许它是来帮我的，不是来闹鬼的。深夜，他向 Walter 发出道歉私信，换来 cafe coco 的邀约。
+- **一句话概括**：204 教室里，Caleb 与 Emmett 把「告状」之刺拔掉（grounded me until Christmas + 强制小组），也接住一句「谈论哀伤是可以练习的」；小组里他首次大段发言，Tom 的提问（你最近的方式健康吗？）得到一个 No；他终于顺着 Ghost 走向 Candi 交换 IG——「这就是你一直想要的吗？」；夜里主动向父母道歉并请缨看家庭录像——旧带里那只棕斑黑猫现身、Jack 教婴儿 Caleb 抚摸它，所有细节在记忆里褪色后剩下的正是 Ghost：也许它是来帮我的，不是来闹鬼的。深夜，他向 Walter 发出道歉私信，换来 cafe coco 的邀约。
 - **情感弧线位置**：反转与修复章——三段关系各自校正（Emmett 的「告状」、小组的沉默、父母的疏离）；Ghost 的定性从 haunting 翻转为 helping；对自我麻醉的健康自评首次说出口（No）。
 - **叙事手法**：以「练习」为词眼贯穿（练习谈论哀伤／录像里练习 pet the cat）；家庭录像的元叙事——镜头里的猫教抚触，镜头外的 Ghost 教连接；「记忆褪色＝擦除未遂」把第一章的 smudged out 补完成揭示；章尾两条私信把答案与考验并置。
-- **线索进展**：① 处罚落定：grounded until Christmas、强制参加小组数月、例外是项目工作；② Emmett/Nathan 的吵架史（Mallory 风暴期互相迁怒、各自道歉）——「练习和好」的样本；③ 小组：Katherine（12/1＝挚友去世九个月）、Garrett 剪了短发、Candi 添了鼻钉；Caleb 首次大段分享（清房、烟、批注本、Walter）；④ Candi 的教训：曾想找人怪罪（Did it? No. ’Course not.）；Tom 的提问得到 No——自我承认不健康；⑤ Ghost 行为模型破案：引导 Caleb 主动建立联结（配对、靠近 Candi、在 Emmett 旁冷静）；⑥ 与 Candi 互加 IG（她只看猫视频）；「Was that what you’d wanted this whole time?」——答案近乎肯定是 yes；⑦ 客厅：apple cider 插肉桂棒；Caleb 道歉并主动要求看家庭录像；⑧ 录像带：「Easter 2012」（3 岁 Caleb／8 岁 Jack；leave some for your sister 的 deadname 之刺）；「4-29-09」（旧屋、Spider-Man+美人鱼 Barbie、婴儿 Caleb、棕斑黑猫入镜、Jack 教 pet）；⑨ 核心揭示：家中幼年夭折的那只猫＝记忆褪色后的 Ghost（无脸、纯黑）——Maybe Ghost had come to help me. Not haunt.；⑩ Walter 回信：明天 cafe coco、三点前。
+- **线索进展**：① 处罚落定：grounded me until Christmas、强制参加小组数月、例外是项目工作；② Emmett/Nathan 的吵架史（Mallory 风暴期互相迁怒、各自道歉）——「练习和好」的样本；③ 小组：Katherine（12/1＝挚友去世九个月）、Garrett 剪了短发、Candi 添了鼻钉；Caleb 首次大段分享（清房、烟、批注本、Walter）；④ Candi 的教训：曾想找人怪罪（Did it? No. ’Course not.）；Tom 的提问得到 No——自我承认不健康；⑤ Ghost 行为模型破案：引导 Caleb 主动建立联结（配对、靠近 Candi、在 Emmett 旁冷静）；⑥ 与 Candi 互加 IG（她只看猫视频）；「Was that what you’d wanted this whole time?」——答案近乎肯定是 yes；⑦ 客厅：apple cider 插肉桂棒；Caleb 道歉并主动要求看家庭录像；⑧ 录像带：「Easter 2012」（3 岁 Caleb／8 岁 Jack；leave some for your sister 的 deadname 之刺）；「4-29-09」（旧屋、Spider-Man+美人鱼 Barbie、婴儿 Caleb、棕斑黑猫入镜、Jack 教 pet）；⑨ 核心揭示：家中幼年夭折的那只猫＝记忆褪色后的 Ghost（无脸、纯黑）——Maybe Ghost had come to help me. Not haunt.；⑩ Walter 回信：明天 cafe coco、三点前。
 
 ## 精读
 

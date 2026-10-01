@@ -19,7 +19,7 @@ modified: "2026-10-01"
 
 - **中文理解**：「我永远不可能有一天能摆脱它。这我已经知道几个月了。但有时候它会突然砸中我：往后的余生，我大概都得这样活。每一天。每一刻。这几乎注定会变成我『正常』的一部分。」
 - **关键词**：never get a day away from him · Every day. Every moment. · a part of my normal
-- **为什么这样写**：先给结论，再补「早就知道」，最后才让真正的新东西登场——不是「它在」，是「 forever 」；Every day. Every moment. 两个二词短句像钟表滴答，把一辈子切成无数个今天。normal 加进 this would become a part of 的时候，恐怖被驯化成了日程表。
+- **为什么这样写**：先给结论，再补「早就知道」，最后才让真正的新东西登场——不是「它在」，是「 forever 」；Every day. Every moment. 两个二词短句像钟表滴答，把一辈子切成无数个今天。normal 加进 this would just become a part of 的时候，恐怖被驯化成了日程表。
 - **读者视角提示**：这是慢性化的恐惧——比突然的惊吓更重；记住「它会变成正常」这个预言，后面 Caleb 对 Ghost 的每一次习以为常都在兑现它。
 
 > **原句 2:** For a second, anger flooded me, and I hated Ghost. I hated him more than I’d ever hated anything. I wanted to tell him to fuck off, leave me alone, stop following me, stop stop stop.

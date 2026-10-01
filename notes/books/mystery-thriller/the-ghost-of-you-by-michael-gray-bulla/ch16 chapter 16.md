@@ -9,7 +9,7 @@ modified: "2026-10-01"
 
 - **地点·时间**：周一的车内与学校→周二 Emmett 家（Susan 的圣经门垫→卧室录音棚）→傍晚自家餐厅的冲突；十二月上旬，showcase 定档 12 月 20 日。
 - **一句话概括**：Caleb 向 Tanya 公开恋情（她尖叫狂喜），却发现暖心好友的短信没了爱心表情、午餐还躲开 Nathan 的作伴；Mr. Russak 力邀两人登上 12/20 的 showcase；在 Emmett 家，Susan 一句 Him 让 Caleb 不知所措，卧室录音棚里初录 Ducks on the Pond、合写 The Only One；亲热在他身体的 dysphoria 处急刹；回家后父亲提议重看家庭录像，争吵爆发——他摔门而去。
-- **情感弧线位置**：恋情升温与家庭冰层并行；身体羞耻第一次正面入场（round belly vs flat stomach）；对 Tanya 的隔膜加深；章尾把怒气摔进房门，Ghost 卷在床上承接。
+- **情感弧线位置**：恋情升温与家庭冰层并行；身体羞耻第一次正面入场（我滚圆的肚皮对照对方平坦的小腹）；对 Tanya 的隔膜加深；章尾把怒气摔进房门，Ghost 卷在床上承接。
 - **叙事手法**：以「信号异常」开场（no heart emoji）写友谊的暗流；Susan 的 Him 与父亲曾被纠正的 him 形成跨章呼应；录音场景让歌词（the blood on the floor / I float up to shore）与 Ghost 线互文；摔门与床上等着的黑猫构成静物收尾。
 - **线索进展**：① Tanya 对恋情狂喜支持，但她自己「异常安静」：无爱心表情、独去美术教室、躲开 Nathan 的目光——「有什么东西横在我们中间」；② showcase 定档 12 月 20 日（extra credit），Caleb 自认 stage fright（不算 severe）；③ Emmett 家细节：圣经门垫、Jesus 主题装饰、满墙全家福；Susan 热情误用 Him，Caleb 不敢纠正；④ 卧室录音棚：麦克风/监听/Fender 木吉他+黑色电吉他/键盘/曼陀林/尤克里里；Deck of Fools 录音去 Dima 家（Ms. Khalil 的女友帮忙）；⑤ 首录曲目定名 Ducks on the Pond（歌词 the blood on the floor / I float up to shore），第二首 The Only One（Holden→Phoebe，诚实与信任）；⑥ 亲热急刹：身体比较触发 dysphoria——Emmett 全然接纳（Don’t be.）；⑦ SALINE 周五再演——Caleb 盘算借机找 Walter 问 Jack；⑧ 父亲提议周末重看家庭录像被拒；Caleb 吼出 Dad, I don’t want to!；⑨ 本章主句：Jack was dead, but he wasn’t gone—he was everywhere；⑩ Ghost 卷在床上等他——怒气的承接者。
 
@@ -34,7 +34,7 @@ modified: "2026-10-01"
 - **中文理解**：「触碰时很难不去比较我们的身体——我滚圆的肚皮贴着他们平坦的小腹，我们不同的身体构造，我的性别烦躁抬起它丑陋的头。」
 - **关键词**：my round belly against their flat stomach · differing anatomies · reared its ugly head
 - **为什么这样写**：亲密时刻被切成解剖图——两处身体部位并排陈列，dysphoria 用 reared its ugly head（抬起丑陋的头）这个惯用语，写成一头不请自来的兽。作者不让吻戏浪漫化到底：真实的身体恐惧总是按在最热的地方。
-- **读者视角提示**：这是全书第一次把「亲热的急刹车」归因给 dysphoria 而非胆怯；Emmett 的回应（Don’t be. I was gonna ask to take a break, too）是伴侣教育范本。
+- **读者视角提示**：这是全书第一次把「亲热的急刹车」归因给 dysphoria 而非胆怯；Emmett 的回应（Don’t be. I was gonna, uh, ask to take a break, too）是伴侣教育范本。
 
 > **原句 4:** I focused on the lyrics as we sang them—the blood on the floor / I float up to shore—and tried to stay in the song.
 
