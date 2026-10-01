@@ -15,7 +15,7 @@ source_text: ch08_chapter_7_relentless_the_network_is_alwa.txt
 
 ## 论证结构
 
-- **核心论点**：旧体制的监控之所以从未变成全面监控，靠的不是统治者的克制，而是两道人力的墙——记录的人与分析的人；机器学习与算法同时拆掉这两道墙，使网路从「持续收集信息」跨到「持续做出判断」，其不知疲倦与全天候覆盖便成为结构性事实。但作者不把这写成单纯的坏消息：网路有大量正面用途，真正的危险在于它不知疲倦、不知自我反思，且它的判断未必正确——后者留给下一章。
+- **核心论点**：旧体制的监控之所以始终没能变成全面监控，靠的不是统治者的克制，而是两道人力的墙——记录的人与分析的人；机器学习与算法同时拆掉这两道墙，使网路从「持续收集信息」跨到「持续做出判断」，其不知疲倦与全天候覆盖便成为结构性事实。但作者不把这写成单纯的坏消息：网路有大量正面用途，需要提防的是它不知疲倦、不知自我反思，且它的判断未必正确——后者留给下一章。
 - **证据链**：
 
 | 证据 | 类型 | 支撑什么 |
@@ -43,7 +43,7 @@ source_text: ch08_chapter_7_relentless_the_network_is_alwa.txt
 | 人每分钟约读二百五十词，四十年职业生涯约二十六亿词 | 数据 | 人类分析员的吞吐量上限 |
 | 二〇二四年的语言算法几小时内即可读完同样的二十六亿词 | 数据 | 分析吞吐量出现数量级跃升 |
 | 判断「可疑分子」需先造出一套标准再逐个套用 | 推理 | 模式识别同时包含造想法与做决定 |
-| 美国国家安全局的系统对五千五百万人逐个评估terrorist可能性 | 数据 | 算法已用于大规模人群评分 |
+| 美国国家安全局的一套系统对五千五百万人逐个评估其成为恐怖分子的可能性 | 数据 | 算法已用于大规模人群评分 |
 | 算法能发现人类分析员此前未曾注意到的全新判准 | 推理 | 算法改写的是判准本身而不只是筛选 |
 | 苏联时期任何反对政权者都可被称作恐怖分子 | 史实 | 标签本身可携带意识形态偏见 |
 | 眼动数据可推断注意力状态、人格倾向与兴趣正负 | 数据 | 监控可下探到身体与心理层面 |
@@ -53,7 +53,7 @@ source_text: ch08_chapter_7_relentless_the_network_is_alwa.txt
 | 警方称系统自动扣押车辆并移交司法机构处理 | 数据 | 自动化监控直接接上了惩罚环节 |
 | 国会山事发后执法部门用多源数据定位参与者 | 案例 | 同一套监控能力也可用于追责 |
 | 面部识别帮助找到失踪多年的儿童 | 案例 | 同一技术同时有正面用途 |
-| 丹麦一家俱乐部在合规框架内用人脸识别 banning滋事者 | 案例 | 同一技术可在监管下使用 |
+| 丹麦一家俱乐部在合规框架内用人脸识别把滋事者挡在场外 | 案例 | 同一技术可在监管下使用 |
 | 恋爱关系一方可用监控软件建立小型监控独裁 | 案例 | 监控并不限于国家机构 |
 | 祖博夫把不断扩张的商业监控命名为监控资本主义 | 学术概念 | 监控已成为市场的基础设施 |
 | 一家点评网站用用户评分同时给商家与用户排名 | 案例 | 点对点监控不需要国家出资 |
@@ -85,7 +85,7 @@ source_text: ch08_chapter_7_relentless_the_network_is_alwa.txt
 
 **表达方式**：作者先用 Not even… 把「连最坏的统治者也做不到」这一层钉死，再以 therefore 推出一个关于常态的结论；最后用三个并列的政权名把抽象结论落回具体的历史。整段不举一个数字，全部靠让步语气与地名并列完成。
 
-**为什么这样写**：这是全章的对照组设定：在计算机网路出现之前，监控的天花板是技术而不是统治者的道德意愿，因此连最彻底的极权体制都留下了默认的隐私空间。后文所有的转折——机器取消人力瓶颈、不知疲倦、皮下监控——都要靠这个「旧上限」作参照系，才能被看出究竟新增了什么。
+**为什么这样写**：这是全章的对照组设定：在计算机网路出现之前，监控的天花板是技术而不是统治者的道德意愿，因此连彻底的极权体制都留下了默认的隐私空间。后文所有的转折——机器取消人力瓶颈、不知疲倦、皮下监控——都要靠这个「旧上限」作参照系，才能被看出究竟新增了什么。
 
 ### ② 监控的真实效力来自威慑
 
@@ -153,7 +153,7 @@ source_text: ch08_chapter_7_relentless_the_network_is_alwa.txt
 
 **关键词**：the very fact that it is always on might be damaging to organic entities like humans / take away our opportunities to disconnect and relax / If an organism never has a chance to rest, it eventually collapses and dies
 
-**表达方式**：作者先用一个 Even if 把「网路可能是好的」这个最强的反对意见让掉，再用 the very fact 把重心从网路的内容转到网路的状态；末句把整段的抽象论断压成一条不指明主体的生物规律，收在 dies 这个词上，全章在此落幕。
+**表达方式**：作者先用一个 Even if 把「网路可能是好的」这个相当有力的反对意见让掉，再用 the very fact 把重心从网路的内容转到网路的状态；末句把整段的抽象论断压成一条不指明主体的生物规律，收在 dies 这个词上，全章在此落幕。
 
 **为什么这样写**：前面各节都在讲监控能做什么，这一节提醒读者：即使监控全部用于善事，一直开着这件事本身也有代价。作者把类比的主语从人换成有机体，这个更替让结论显得不可商量。也正因为网路既不知疲倦、又仍然可能错，下一章才必须紧接着处理「网路常常出错」。
 
@@ -202,8 +202,8 @@ source_text: ch08_chapter_7_relentless_the_network_is_alwa.txt
 | manipulate | 操控 | Rulers, priests, and merchants wanted to know our secrets in order to control and manipulate us. |
 | beneficial | 有益的 | Of course, surveillance has also been essential for providing beneficial services. |
 | sanitation | 卫生；公共卫生 | In modern states sanitation officials want to know where we get our water from and where we defecate. |
-| objective | 客观的 | At an even more fundamental level, it is questionable whether the systems’ definition of things like terrorism are objective. |
-| terrorism | 恐怖主义 | They may well classify innocent people as terrorists or may create a false model for radicalization. |
+| accumulate | 积累；累积 | But thanks to the magic of machine learning and AI, computers can themselves analyze most of the information they accumulate. |
+| terrorism | 恐怖主义 | At an even more fundamental level, it is questionable whether the systems’ definition of things like terrorism are objective. |
 | opposition | 反对派 | There is a long history of regimes using the label “terrorist” to cover any and all opposition. |
 | inorganic | 无机质的 | Inorganic bureaucrats can be “on” twenty-four hours a day and can monitor us and interact with us anywhere, anytime. |
 | well-honed | 磨炼到位的 | Experts possessing well-honed strategies display systematic gaze patterns, whereas the eyes of novices wander aimlessly. |
@@ -231,4 +231,4 @@ source_text: ch08_chapter_7_relentless_the_network_is_alwa.txt
 
 ## 一句话总结
 
-本章把「监控自古就有」这个老事实当作起点，追问它为什么一直停在原地：旧体制的记录与分析都要靠人，而人要睡觉、要有分析员，于是即便最极权的政权也只能在技术边界前退让，留下默认的隐私；机器学习与算法同时接管了记录与判断，模式识别又天然包含造判准与做决定，于是网路第一次可能全天候自行盯人并自行下判断，连「一直开着」本身都开始与人类需要休息的生物节律相冲突——作者随即补上一句提醒，网路既不知疲倦，也仍然可能错，于是判断的对错被留给了下一章。
+本章把「监控自古就有」这个老事实当作起点，追问它为什么一直停在原地：旧体制的记录与分析都要靠人，而人要睡觉、要有分析员，于是即便极权体制也只能在技术边界前退让，留下默认的隐私；机器学习与算法同时接管了记录与判断，模式识别又天然包含造判准与做决定，于是网路第一次可能全天候自行盯人并自行下判断，连「一直开着」本身都开始与人类需要休息的生物节律相冲突——作者随即补上一句提醒，网路既不知疲倦，也仍然可能错，于是判断的对错被留给了下一章。
