@@ -7,9 +7,9 @@ modified: "2026-10-01"
 
 ## 本章导航
 
-- **一句话概括**：Fetter 换上自己那身旧衣，按 Koel 事先算好的路线助跑腾空，从下方一把拽住正在降落的 Magellan 并引爆贴身缠着的机件，自己被炸出火球、翻过园墙落进人群，混在仓皇逃散的信众里被当作又一个被冲击波掀飞的人；他没有去 GDCC，也没有回头看那场暴动，而是步行走到 Tuft Street 上 Acusdab 那间小公使馆，用一扇常年顶开的木门走进去；屋里的特使是他的旧识，承认自己当年是母亲的恋人、在他三岁前当过他几个月的另一个母亲，说母亲在村里另办过一场葬礼、赶走过她、又托她来照看他，最后允许他改口叫自己 Ordinary。
+- **一句话概括**：Fetter 换上自己那身旧衣，按 Koel 事先算好的路线助跑腾空，从下方一把拽住正在降落的 Magellan 并引爆贴身缠着的机件，自己被炸出火球、翻过园墙落进人群，混在仓皇逃散的信众里被当作又一个被冲击波掀飞的人；他没有去 GDCC，也没有回头看那场暴动，而是步行走到 Tuft Street 上 Acusdab 那间小公使馆，用一扇常年顶开的木门走进去；屋里的特使是他的旧识，承认自己当年是母亲的恋人、在他三岁前当过他的另一个母亲；她说母亲在 Acusdab 的族人另有一场传统葬礼、自己当年不敢上门，又说自己被逐出 Acusdab、后来受母亲之托回来注册成特使照看他，最后允许他改口叫自己 Ordinary。
 - **情感弧线位置**：一次行动完成之后的空档——从孤身完成刺杀后的轻狂与近乎虚脱，转入在一间堆满床垫的屋子里被照料、被当面说破身世，最后落在一句可以互相改口的称呼上。
-- **人物弧线**：Fetter 把这次动手算成「总算替他们做成了一件事」，紧接着又冒出「也许我本来不必活下来」的念头；面对特使，他从质询变成被顶回来、最后自己交出一个称呼，完成了本章唯一一次主动的认领。
+- **人物弧线**：Fetter 把这次动手算成「总算替他们做成了一件事」，紧接着又冒出「也许我本来不必活下来」的念头；面对特使，他从质询变成被顶回来、最后自己交出一个称呼，完成了本章一次主动的认领。
 - **叙事手法**：场景接力的第三人称限制。前半段几乎全用动作与身体感觉写助跑、腾空、爆炸与失控的坠落；后半段转成一场靠问答推进的长对话，吃东西的间歇充当停顿，背景只由一问一答逐格补出，其余交给沉默与两个女人在果盘之间的短句。
 - **视角**：第三人称限制，随 Fetter 贴附。特使关于母亲、关于那扇门、关于他本人的说法全部只是说法，叙述者无从核验；两人对同一段往事的说法并不吻合，读者只能从语气与停顿里分辨。
 
@@ -43,7 +43,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 两连否定之后，落点是一个对完成任务毫无用处、甚至带风险的东西：好奇。前面刚写完一整套需要精确的动作，这里立刻把动机降级成了一种近乎孩子气的念头。
 
-**读者视角提示：** 好奇是这一章少见的正面动机，读者会在这里第一次觉得他是愿意去做这件事的，而不是被人安排的。
+**读者视角提示：** 好奇是这一章少见的正面动机，读者会在这里觉得他是自己愿意去做这件事的，而不是被人安排的。
 
 > **原句 4:** "He could have worn that saint’s face. If he had chosen."
 
@@ -53,11 +53,11 @@ modified: "2026-10-01"
 
 **为什么这样写：** 紧接上一段的「好奇」，这里立刻摆出另一条没走的路：同样的面孔、同样的飞行，他本可以得到。整句用虚拟语气加一个补充短句收尾，把这个判断交还给他自己。
 
-**读者视角提示：** 动手之前作者先让读者知道他可以不这么做，于是这桩刺杀从一开始就不是唯一解。
+**读者视角提示：** 动手之前作者先让读者知道他可以不这么做，于是这桩刺杀从一开始就是他可以选择不做的事。
 
 > **原句 5:** "Fetter reaches inside his loose collar and triggers the infernal machine wrapped around his chest. It’s been even harder to breathe for the past two hours, as if the tight vest with the packed explosives were a corset, so there is a moment of relief as it burns up and his chest expands, followed immediately by a sharp stabbing pain in his ribs—not the bomb, though, that’s his injury—and soft cool fire licks his clothes off like a lover. The shockwave hits him late, as if it had to gather itself first; his field of vision is swallowed in flame until the fireball spits him out, the force of the explosion sending him hurtling down. He misjudged the angle a little: he is being hurled backward in the air, sending him over the park wall. He’s turning, helpless to control his fall—he tucks his head down and his knees up, trying to protect himself, but this only makes him spin faster. And then there’s a … he’d call it a crash, except his body has remembered that he weighs nothing; he’s a feather, a shadow, so how could he crash?"
 
-**中文理解：** 他把手伸进宽松的领口，启动了缠在胸前的机件。过去两个小时里他一直觉得呼吸更困难，仿佛那件塞满炸药的紧背心是一具束身衣，所以火药烧起来、胸腔撑开的一刻他有一瞬的轻松，紧跟着是肋骨上一阵尖锐的刺痛——那不是炸弹造成的，是旧伤；柔软的凉火像情人一样舔掉他的衣服。冲击波来得很晚，仿佛它得先把自己攒起来；他的视野被火焰吞没，直到火球把他吐出来，爆炸的力道把他甩了下去。角度他算错了一点：人被往后抛，越过了园墙。他控制不住下坠，只能抱头屈膝想护住自己，这只让他转得更快。然后是一声……他本会称之为撞击，可他身体记得自己一钱重：他是一片羽毛、一个影子，那么怎么会撞到地上去呢？他落下来，仅此而已，旋转、翻滚，撞上柔软的温热 flesh、塑料布和厚帆布。
+**中文理解：** 他把手伸进宽松的领口，启动了缠在胸前的机件。过去两个小时里他一直觉得呼吸更困难，仿佛那件塞满炸药的紧背心是一具束身衣，所以火药烧起来、胸腔撑开的一刻他有一瞬的轻松，紧跟着是肋骨上一阵尖锐的刺痛——那不是炸弹造成的，是旧伤；柔软的凉火像情人一样舔掉他的衣服。冲击波来得很晚，仿佛它得先把自己攒起来；他的视野被火焰吞没，直到火球把他吐出来，爆炸的力道把他甩了下去。角度他算错了一点：人被往后抛，越过了园墙。他控制不住下坠，只能抱头屈膝想护住自己，这只让他转得更快。然后是一声……他本会称之为撞击，可他身体记得自己一钱重：他是一片羽毛、一个影子，那么怎么会撞到地上去呢？他落下来，仅此而已，旋转、翻滚，撞上柔软的温热躯体、塑料布和厚帆布。
 
 **关键词：** triggers the infernal machine wrapped around his chest, as if the tight vest with the packed explosives were a corset, he’s a feather, a shadow, so how could he crash
 
@@ -83,7 +83,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 这段由「另一个母亲」起头，被一个从句（until she forced me away）立刻截断，再补上分歧与驱逐；关系是亲的，结局是逐客令，而两件事都出自同一个「她」。作者把施恩与加害压在同一句里。
 
-**读者视角提示：** 读者在这里第一次听到关于那位母亲的一个不经过她转述的版本；他说的是自己被赶走，母亲从未说过这一段。
+**读者视角提示：** 读者在这里听到关于那位母亲的一个不经过她转述的版本；他母亲当年只告诉过他，这一位已经死了。
 
 > **原句 8:** “Oh, all right,” she says. “We are almost family, and I haven’t been extra in centuries. You can call me Ordinary.”
 

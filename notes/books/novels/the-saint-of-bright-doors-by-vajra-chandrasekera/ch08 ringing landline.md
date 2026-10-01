@@ -83,7 +83,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 两个夸张的说法叠在一起先把「人多」推到饱和，紧接着 I could certainly not afford 把镜头从人海拉回到一个买不起票的人身上；末句用 unmediated 与 mediated 相对，把「见不到本人」写成一种制度安排。
 
-**读者视角提示：** 读者在这里第一次借一个信徒的眼睛看他父亲：一个只存在于喇叭与巨幕里的形象，而且是被买不起票这件事挡在外面的。
+**读者视角提示：** 读者在这里是借一个信徒的眼睛看他父亲：一个只存在于喇叭与巨幕里的形象，而且是被买不起票这件事挡在外面的。
 
 > **原句 8:** "More than that, a true believer, the kind of bright-eyed zealot his mother spent his childhood warning him about."
 
@@ -122,17 +122,17 @@ modified: "2026-10-01"
 | pointedly | （此处义）故意地；明摆着要让人看见似的 | Fetter pointedly refuses to hide Hej from Mother-of-Glory. |
 | titter | 窃笑；压在喉咙里的笑 | a sort of rumbling, shaking, controlled titter, a hahaha, a hohoho. |
 | austere | （此处义）素净庄重的；不事装饰的 | dressed more formally than before in an austere pale-yellow camisa. |
-| disconnection | （此处义）断线；线路被切断之后的空响 | there is nothing to be heard on the other side, only the pure silence of disconnection. |
-| Hinterlands | （本书用语）后陆；远离中心的内陆地带 | The book is called Exorcism Rituals in the Luriati Hinterlands, which Fetter was alarmed to discover is a region that includes his hometown. |
-| exorcists | 驱魔者；为人驱除附身者的行家 | It includes interviews with many hinterlander exorcists, though Fetter doesn’t recognize any of their names. |
-| crowdfunding | 众筹；靠许多人各自出一点钱凑起来 | “Did you know there’s a crowdfunding campaign to bring him up here?” |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
+| disconnection | （此处义）断线；线路被切断之后的空响 | there is nothing to be heard on the other side, only the pure silence of disconnection. |
+| Hinterlands | （本书用语）后陆；远离中心的内陆地带 | The book is called Exorcism Rituals in the Luriati Hinterlands, which Fetter was alarmed to discover is a region that includes his hometown. |
+| exorcists | 驱魔者；为人驱除附身者的行家 | It includes interviews with many hinterlander exorcists, though Fetter doesn’t recognize any of their names. |
 | landline | 固定电话；接着线路的电话 | Not his mobile phone, which lies quiet on the table next to him, but a landline. |
 | receiver | 听筒；电话上用来贴着耳朵的那一头 | He vaguely remembers seeing a receiver when he first moved in. |
+| crowdfunding | 众筹；靠许多人各自出一点钱凑起来 | “Did you know there’s a crowdfunding campaign to bring him up here?” |
 | pilgrim | 朝圣者；为宗教目的远行的人 | To Tomarin’s left is a silver-haired woman who could be no other than Gerau, the pilgrim. |
 
 ## 一句话总结

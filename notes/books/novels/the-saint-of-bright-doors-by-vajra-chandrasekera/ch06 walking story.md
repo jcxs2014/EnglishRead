@@ -106,7 +106,6 @@ modified: "2026-10-01"
 | unpickable | 撬不开的；（此处）形容锁无法被工具打开 | Knobs will turn and tumblers roll, but their locks, if they have locks, are unpickable. |
 | unopenable | 打不开的；（此处）从另一侧再也推不开 | will vanish from one side and become unopenable from the other |
 | indeterminate | 长度不明的；说不准多久的（与 definite 相对） | The bright doors, after an indeterminate time, become indestructible |
-| supercontinent | 超级大陆；由若干普通大陆连成的大陆块 | except that it was large and populous and somewhere on the supercontinent of Jambu |
 | physiognomically | （此处义）按相貌地；以貌相判断把人归入某一类 | physiognomically, Alabi race science would group them together into a higher type than me or you, Caduv. |
 | prophet’s portion | 先知的那一份；传说传承中每一代先知私留给自己的部分 | This is called the prophet’s portion: every prophet who has ever held the mantle has kept back a portion for themselves |
 
@@ -123,6 +122,7 @@ modified: "2026-10-01"
 | untrustworthy | 不可信的；听上去像真的却站不住的说法 | The most popular and enduring of these untrustworthy rumours is that there will one day come a point when the story is so garbled that the prophet loses all power and virtue, and at that point the Walking will walk again. |
 | masquerade | （此处作动词）假扮；以别人的身份出现 | we would have you masquerade, say, as a student of such phenomena from a moderately prestigious university, applying to the committee for a period of field study— |
 | rebellion | 反叛；集体违抗既有秩序的行动 | Many joined the rebellion. |
+| supercontinent | 超级大陆；由若干普通大陆连成的大陆块 | except that it was large and populous and somewhere on the supercontinent of Jambu |
 
 ### ⭐ 基础
 

@@ -10,7 +10,7 @@ modified: "2026-10-01"
 - **一句话概括**：他搭三小时公交去城郊一座半废弃的商场，应 Coema 之邀见识一个守门观测小组，并在傍晚按新提出的说法做了一次「移开视线」的试验；门在他闭眼堵耳的那段工夫里完成了变化。
 - **情感弧线位置**：伪装阶段里少见的松弛段落；这里他以 Peroe 的身份被当作有贡献的新人对待。
 - **人物弧线**：他从「读得多、见得少」的冒名者，变成给小组补上了一个他们没想到的变量的人；末尾把「想再来」写成他本人的念头，而不只属于替身角色。
-- **叙事手法**：第三人称限制视角，随 Fetter 一路从商场入口走到最深处；专业设定几乎全靠对话带出，场景描写集中在光、藤蔓与气味三样东西上。
+- **叙事手法**：第三人称限制视角，随 Fetter 从商场入口一路往商场深处走；专业设定几乎全靠对话带出，场景描写集中在光、藤蔓与气味三样东西上。
 - **视角**：第三人称限制，随 Fetter；Pipra 与 Janno 之间的关系，由他听口音、听称谓的差异推断而来。
 
 ## 精读
@@ -53,7 +53,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 一连串排比疑问从物理（声音、气流）一路推到宇宙论（平行宇宙的布局），问得越来越不切实际，语气却始终一样地冷静。
 
-**读者视角提示：** 读者在这里第一次意识到这批人要等的不是一个答案，而是一次发生；问句的密度就是他们的耐心。
+**读者视角提示：** 读者在这里才意识到这批人要等的不是一个答案，而是一次发生；问句的密度就是他们的耐心。
 
 > **原句 5:** “How insightful,” Pipra says. “Was it me having to watch this last door all on my ownsome that gave it away? Eyes front please. No blinking.”
 
@@ -63,7 +63,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 先用褒义词夸他，再由「独自一人」这个细节把夸奖收回成识破；后面两句祈使句短促，像训练口令而不是闲聊。
 
-**读者视角提示：** 读者已经知道她独自守了很久；他那句「你看得出来」反而成了她这段里唯一露出破绽的话。
+**读者视角提示：** 读者已经知道她独自守了很久；他那句「你看得出来」反倒成了她这段里少有的一句坦白。
 
 > **原句 6:** "I’ve been assuming an equal probability of translation at any moment, but if the gambler’s fallacy doesn’t hold in this case, if a longer wait does increase the likelihood of translation, then it’s worth trying again. Ready?”"
 
@@ -93,7 +93,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 先用「他并不……另一个身份却……」把两个人分开写，末句再让叙述者以旁观者的口气把他们并成一句感叹。
 
-**读者视角提示：** 读者在这里第一次听见叙述者用「奇怪」这样的口吻谈论自己扮演的角色；这一章他贡献的是一句随口而出的猜测，得到的却是一个挂在他名下、准备排进计划的说法。
+**读者视角提示：** 本章里，叙述者头一次用「奇怪」这样的口吻谈论自己扮演的角色；这一章他贡献的是一句随口而出的猜测，得到的却是一个挂在他名下、准备排进计划的说法。
 
 ## 本章词汇
 
@@ -107,7 +107,6 @@ modified: "2026-10-01"
 | authenticated | 经过核验的；被证实为真的（此处指有可靠记录的实例） | Did you know there isn’t a single authenticated case? Not ever? |
 | anecdotal | （作定语）口述的；来自个人经历而非系统记录的 | There is anecdotal evidence of observed translations, including from people who we’ve interviewed, but they vary wildly on the details and are considered unreliable. |
 | quiescence | 静止状态；不动声色 | He takes deep breaths to force his body back to quiescence, and smells the faintest bitterness on the air. |
-| hellspeak | （本书用语）几乎一样却又不一样的说法；用来提示身份差别的口音 | he can recognize a subtle accent in Janno’s voice now, the hellspeak that is almost the same but not quite. |
 | primeval | 原始的；远古遗留下来的 | Isn’t it curious how primeval artforms recur like that? |
 
 ### ⭐⭐ 进阶
@@ -122,6 +121,7 @@ modified: "2026-10-01"
 | sentient | 有知觉的；有感受能力的 | “They’re not sentient, you know,” Pipra says. “Supramundane, yes, but they’re still doors. They don’t have feelings.” |
 | disembodied | （此处义）没有身体的；只剩一个声音的 | He tries to turn to look at her so she’s not a disembodied voice |
 | hazing | （此处义）下马威；故意刁难新人 | He’s not sure if she’s hazing him. |
+| hellspeak | （本书用语）几乎一样却又不一样的说法；用来提示身份差别的口音 | he can recognize a subtle accent in Janno’s voice now, the hellspeak that is almost the same but not quite. |
 
 ### ⭐ 基础
 

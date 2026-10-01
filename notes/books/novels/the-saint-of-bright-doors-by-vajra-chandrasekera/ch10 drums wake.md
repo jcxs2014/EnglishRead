@@ -23,7 +23,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 第一句只交付时间与身体感（醒来、以为自己是孩子），第二句立刻用「像迷宫」「像行星」两个比喻把母亲的空间与质量摆出来。医生们「正在准备」这个进行时把布场停在尚未发生的一刻，让整章真正到场之前先悬着。
 
-**读者视角提示：** 这是全书少有的「回到童年」的时刻，可它一开头就被鼓声打断；读者会意识到这不是回忆，而是鼓声把他重新推回了那个他早就不再住的位置。
+**读者视角提示：** 这是全书少有的「回到童年」的时刻，可它一开头就被鼓声打断；读者会明白鼓声并不打算让他留在童年里，它把他推回了那个他早就不再住的位置。
 
 > **原句 2:** "But this drumming isn’t like that drumming either. A different rhythm. He looks out over the balcony: it is a procession. A line of prisoners is being led through the street. Today there are more drummers than soldiers, fewer heavy boots to stamp the time. The drummers wear the same uniforms as that day, but the drumming then was a warning beat, an ominous, low, never-finished growl, keeping people away, keeping them still. Today, it is louder, more triumphantly incantatory, a summons."
 
@@ -33,7 +33,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 「不一样」被写了两次：先排除掉当年那次抓捕，再单拎出节奏这一层；随后靠制服相同这一点把两次事件缝在一起。「今天」重复三次，一次比一次肯定，把恐惧改写成召集。
 
-**读者视角提示：** 当年那次的鼓声里他是躲着的那一个；今天鼓声把整栋楼的人都叫到阳台上，他成了唯一有答案的人，位置从藏身处翻到了暴露处。
+**读者视角提示：** 当年那次的鼓声里他是躲着的那一个；今天鼓声把整栋楼的人都叫到阳台上，他们转过来向他要答案，位置从藏身处翻到了暴露处。
 
 > **原句 3:** "The prisoners walking in line are not manacled, but they are dressed in the rough grey government-issue sleeveless camisas and knee-length shorts that he knows from the news to be standard prisoner costume. Their heads are shaven, as punishment or as practicality. It helps curb the spread of lice in Luriat’s overcrowded prisons and overflowing internment camps. They each wear a garland of bright red flowers. Their faces are lowered, but he can see that they are of all ages, of all genders. They are not, he thinks, of all races and castes. There is no way to tell this by merely looking at them, but part of being Luriati, perhaps the major part of citizenship in this city, is being able to look at such a procession and know this."
 
@@ -43,7 +43,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 先给两组不写「不」的事实（没上镣铐、剃了头），再各给一个「可能」；花环的描写落在「像一圈火」的视觉上，最后用一整段才把种族与种姓那层挑明。知识不是被解释的，是被承认的。
 
-**读者视角提示：** 他对「不是所有种族」这件事的确定，靠的不是本事而是身份；读者在这里第一次看到他在这座城市里拥有的那种具体优势。
+**读者视角提示：** 他对「不是所有种族」这件事的确定，靠的是身份而非本事；读者在这里看到他在这座城市里拥有的那种具体优势。
 
 > **原句 4:** "But such a movement of protest and prevention would not be spontaneous. Unlike the prisoners’ faces, Fetter recognizes many faces around him in the crowd—they are people who live around here, who he sees all the time. Some he’s spoken to, helped with some small thing or the other, bought from or sold to, fucked or been fucked by, passed the time of day with, passed by with a nod. A much larger proportion of faces he doesn’t recognize at all. This audience has not been organized to any degree. He’s been to a few of Koel’s political meetings now, and grown familiar with the faces there; he sees none of them here. The terms and conditions of free government housing prohibits even tenants’ associations. This crowd is atomized, aerosolized, no matter how dense it is; individual particles, not a massed wave."
 
@@ -63,7 +63,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 判断先给结论，再给一条自我指令（硬起来、别喊），最后连问自己两次；问句把刚刚建立的硬撑拆掉，恐惧不是被压下去的，是被问出来的。
 
-**读者视角提示：** 他害怕的不是陌生场面，而是自己在里面的位置；本章的道德问题第一次落在他本人身上，而不是落在他观察的人群身上。
+**读者视角提示：** 他怕的是自己在里面的位置，不是场面本身；本章的道德问题因此落在他本人身上，落点与他所观察的人群分开。
 
 > **原句 6:** "It seems at first like an arithmetic problem set by a macabre tutor: how long will it take for all of the prisoners to be executed, given X nooses and an average time of execution Y? But Fetter can’t bring himself to count nooses any more than he could count the prisoners. The drumming has not stopped. If anything it is louder, more insistent, more final. Come now, it says. Come and see before there is nothing left to see."
 
@@ -116,11 +116,11 @@ modified: "2026-10-01"
 |---|---|---|
 | atavistic | （此处义）隔代遗传的；像祖先留在身体里的那种冲动 | The sea was new to him, then, and it had called to something deep in him, some atavistic urge to drown, to hold his breath and hurl himself into the calm dark of the low waters—he has never so much as dipped his head below the surface, much less explored deeper water outside the safety of TV documentaries, so he doesn’t know where the call of the abyss comes from. |
 | segues | （影视/音乐义）自然转场；（此处）人声与海声接上了 | The rumble and grumble of the crowd around him segues seamlessly into that of the sea. |
-| reedy | （此处义）又细又哑的；像芦苇发出的那种声 | but their voice is reedy and carried away by the wind from the sea. |
+| reedy | （此处义）又细又哑的；像芦苇发出的那种声 | One of the drummers on the platform ceases drumming long enough to announce a list of charges, but their voice is reedy and carried away by the wind from the sea. |
 | a slow wake | （此处义）缓慢的尾迹；队伍后面拖长的一串人 | The crowd moves more slowly than the procession, trailing it like a slow wake. |
 | atomized | （此处义）被拆成微粒的；聚而不成形 | This crowd is atomized, aerosolized, no matter how dense it is; individual particles, not a massed wave. |
 | frame of reference | 参照系；（此处）他成了队伍视野里的人，而不再是在旁边看的人 | It makes him part of the procession’s frame of reference, rather than a distanced, still observer. |
-| queasy | （此处义）翻腾难受的；胃里发虚的那种不适 | but Fetter has followed the logic of the procession and the queasy tugging in his gut. |
+| queasy | （此处义）翻腾难受的；胃里发虚的那种不适 | Others around him seem more hesitant to commit to a north or south turn until the procession catches up and makes their decision for them, but Fetter has followed the logic of the procession and the queasy tugging in his gut. |
 | by the score | （此处义）成堆地、大量地 | Luriat must have these by the score, portable, reusable. |
 
 ### ⭐ 基础
@@ -133,7 +133,7 @@ modified: "2026-10-01"
 | shaven | （此处）剃光的；头发被剃掉之后的样子 | Their heads are shaven, as punishment or as practicality. |
 | lice | 虱子；监狱里最常见的那种 | It helps curb the spread of lice in Luriat’s overcrowded prisons and overflowing internment camps. |
 | nooses | 绞索；套在脖子上、越挣越紧的那种活结 | Each of the wide crossbeams support multiple nooses. |
-| lurid | （此处义）刺眼的；艳得晃眼的那种颜色 | his breeches are a lurid purple, |
+| lurid | （此处义）刺眼的；艳得晃眼的那种颜色 | his breeches are a lurid purple, wide at the hip, narrowing and laddering into soft folds at the ankle. |
 | abraded | （此处义）被磨破的；走出来的擦伤 | The soles of his feet hurt, abraded by the walk. |
 
 ## 一句话总结

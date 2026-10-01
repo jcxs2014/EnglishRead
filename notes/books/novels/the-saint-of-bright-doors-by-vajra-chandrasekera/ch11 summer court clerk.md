@@ -73,7 +73,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 中间那一长串名词把「笑的理由」铺满，随后被一个「但」清空，只留下身体上的归属；笑的理由从建筑落到身体，判断也随之从世界落到人。
 
-**读者视角提示：** 读者会在这里第一次把这两个名字当成两个人，而不只是一套说辞的两种称呼。
+**读者视角提示：** 读者到这里会把这两个名字当成两个人，而不只是一套说辞的两种称呼。
 
 > **原句 7:** "I saw wave after wave of people murdered as if by a machine. My mother called again, she thinks I should dump you. I want you so much right now but I might also want someone else."
 

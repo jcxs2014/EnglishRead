@@ -124,7 +124,6 @@ modified: "2026-10-01"
 | brackish | 又咸又淡的；（此处）涌到他喉咙口的那股水 | He opens the door and enters the house. After these hours of travelling, he feels urgency; the cold water in him rising to his throat, brackish, making him thirsty. |
 | jamb | 门框；（此处）他退回来扶住的那道门侧木 | He steps backward to the threshold and leans on the jamb to steady himself. |
 | bondage | 束缚；被锁链捆住的那种处境 | Before him are doctors and devils, dancing. The soil under their feet is dark, as if watered with sweat, or perhaps it’s blood—some of the doctors are bleeding from their bare feet, from the hooks in their bodies that lead to their wrapping chains of bondage, from their ears and rolled-back eyes. |
-| whirlpool | 漩涡；把人卷进去的那种旋转 | He blinks, and he sees them all together, not a sea of dancers but a whirlpool with his mother’s house in its maw. |
 | Woodsmoke | 柴烟；（此处）能一眼与汽车尾气分开的味道 | Woodsmoke, easily distinguished from exhaust. |
 
 ### ⭐ 基础
@@ -135,6 +134,7 @@ modified: "2026-10-01"
 | thatched | 用茅草覆盖；（此处）屋顶铺着干椰叶 | Most sections are wattle and daub, thatched in dry coconut leaf; |
 | courtyard | 内院；四面有墙的院子 | He is not outside. It is a large inner courtyard, enclosed by walls on all sides, some intact, some broken. |
 | a dry rasp | 干涩的沙音；（此处）母亲开口时的那种嗓音 | Her voice is a dry rasp and her tone is without inflection, so he can’t tell if she’s surprised by him or disappointed in him. |
+| whirlpool | 漩涡；把人卷进去的那种旋转 | He blinks, and he sees them all together, not a sea of dancers but a whirlpool with his mother’s house in its maw. |
 
 ## 一句话总结
 

@@ -37,7 +37,7 @@ modified: "2026-10-01"
 
 > **原句 3:** "I slapped his tooth out of his mouth. I summoned every bit of power I had, called in every favour owed from the invisible laws, mustered every dreg of puissance I had ever learned, and I picked up his bloody tooth and put into it my curse. I banned him from my island for as long as I lived. I told him to get the fuck off my land. He spat blood and walked away quickly, even as the curse began to settle and the tooth slowly began to exert its influence on him. The rest is as I told you. His breaking of the island was revenge for what I had done. He took away what made us special, took away our lives and memories. But he could never cross the Hanu again as long as I held this boundary with the tooth in my possession, and so his cult fractured."
 
-**中文理解：** 我把他的牙从嘴里打了出来。我调起自己身上每一分力量，把欠那些看不见法则的人情一一讨回来，把我学过的每一分本事全数召集起来，然后捡起那颗带血的牙，把我的诅咒放了进去。我把他逐出我的岛，只要我还活着。我叫他滚出我的地。他吐了血，很快走开了；与此同时诅咒开始落定，那颗牙也开始对他起效。余下的就是我讲给你听的那一套。他对那座岛的破坏是在报复我做过的事：他拿走了让我们与众不同的东西，拿走了我们的生活和记忆。可只要这颗牙还在我手里、我守着这条边界，他就再也跨不过 Hanu，他的教派因此裂了开来。
+**中文理解：** 我伸手一巴掌把他的牙从嘴里打了出来。我调起自己身上每一分力量，把欠那些看不见法则的人情一一讨回来，把我学过的每一分本事全数召集起来，然后捡起那颗带血的牙，把我的诅咒放了进去。我把他逐出我的岛，只要我还活着。我叫他滚出我的地。他吐了血，很快走开了；与此同时诅咒开始落定，那颗牙也开始对他起效。余下的就是我讲给你听的那一套。他对那座岛的破坏是在报复我做过的事：他拿走了让我们与众不同的东西，拿走了我们的生活和记忆。可只要这颗牙还在我手里、我守着这条边界，他就再也跨不过 Hanu，他的教派因此裂了开来。
 
 **关键词：** I slapped his tooth out of his mouth, mustered every dreg of puissance, so his cult fractured
 
@@ -47,7 +47,7 @@ modified: "2026-10-01"
 
 > **原句 4:** “But you must understand what you are up against. Here in my place I am a power in my own right, but a small one as such things are measured—you are a strong little weapon, perhaps, if not a power—but he is a true power, a chosen one. He has raised mountains and broken time over his knee. He cannot be defeated by an overnight train and good timing. Without his own tooth in my house, even my curse could not have kept him away.”
 
-**中文理解：** 「但你必须明白你面对的是什么。站在我的位置上，我自成一个力量，不过按这些东西的量法，我只是个小力量——你或许是一件趁手的兵器，如果还算不上力量的话；他却是一个真正的力量，一个被选中的人。他能徒手抬起群山，能把时间掰断在膝盖上。他不可能被一列南下的夜车和一次好时机打倒。就算他的牙不在我屋里，我的诅咒也拦不住他。」
+**中文理解：** 「但你必须明白你面对的是什么。站在我的位置上，我自成一个力量，不过按这些东西的量法，我只是个小力量——你或许是一件趁手的兵器，如果还算不上力量的话；他却是一个真正的力量，一个被选中的人。他抬得起群山，能把时间掰断在膝盖上。他不可能被一列南下的夜车和一次好时机打倒。就算他的牙不在我屋里，我的诅咒也拦不住他。」
 
 **关键词：** he is a true power, a chosen one, He has raised mountains and broken time over his knee, even my curse could not have kept him away
 
@@ -102,7 +102,7 @@ modified: "2026-10-01"
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | schema | 图式；成套的框架与体系 | If the Perfect and Kind had known his own son would be his assassin, he could have designated one fewer Unforgivable and optimized his schema. |
-| a hacking cough | 干咳；（此处）她每说一句长话就压不住的那一阵 | She lets out a hacking cough. |
+| a hacking cough | 干咳；（此处）她两句话之间压不住咳出来的那一阵 | She lets out a hacking cough. |
 | liquid burr | 带水汽的沙音；（此处）她嗓子正在变坏的那种质地 | When she speaks again, her voice has a worrying, liquid burr to it. |
 | the swirl in his mind | 脑子里的旋涡；（此处）他听见的东西转瞬就被卷走 | Fetter is not sure if Mother-of-Glory has ever thanked him before, but this is almost lost in the swirl in his mind. |
 | subservient plenipotentiary | 唯命是从的全权代表；他当年给她安的那个职位 | He wanted me to be his subservient plenipotentiary in the north, you the heir to his new throne. |
@@ -124,7 +124,7 @@ modified: "2026-10-01"
 | triumphantly | 得意扬扬地；（此处）母亲设想他父亲当年的走路姿势 | He may have been walking slowly, triumphantly, to see my pyre. |
 | a jagged scratch | 一道锯齿似的划痕；（此处）安慰话在他心上留下的口子 | She sounds consoling, and this scores a jagged scratch across his heart. |
 | underestimate | 低估；（此处）她说他看轻了父亲 | But you underestimate your father, son.” |
-| Almanac | （本书专名）那部记载着世界末日的书 | Because of the pogroms and the Almanac and the camps, or because she was dying and he wanted her to die happy? |
+| Almanac | （本书专名）一部书名；与他母亲的死、那些屠杀和营地并列，被他数成理由 | Because of the pogroms and the Almanac and the camps, or because she was dying and he wanted her to die happy? |
 
 ### ⭐ 基础
 

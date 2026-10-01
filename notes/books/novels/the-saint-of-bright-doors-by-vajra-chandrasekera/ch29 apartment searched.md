@@ -9,7 +9,7 @@ modified: "2026-10-01"
 
 - **一句话概括**：叙述者回到自己的公寓，发现屋里没有任何人进来过的痕迹，只有一张被改写了身份标记的证件；他在城里看到烟柱、被弃置的亮门与成片的火堆，从一位邻居口中听出城里的变化，又在路上先后撞见一场正在进行的袭击、一张被烧熟的脸；逃跑时因为回头张望被三人抓住，证件被斥为伪造，他被打掉一颗门牙、折断一根肋骨；此后他高烧数日，稀里糊涂把一个上门送水的陌生女人当成了亮门，退烧后再也找不到她。
 - **情感弧线位置**：归来段落的中段——从「回家了却像做客」的低落，经过街头的目睹与肉体的惩罚落到底部，收在一场高烧与一个再也无法确认的名字上。
-- **人物弧线**：叙述者从一位替邻里调停、被人当作可信赖长者的中层，变成谁也不认、开口便被盘查的外人；挨打之后他第一次承认自己的身体已经不听使唤，把损失归到母亲身上；结尾他把仅剩的一点指望放在一个自己认错了的人身上，而那个人并不存在。
+- **人物弧线**：叙述者从一位替邻里调停、被人当作可信赖长者的中层，变成谁也不认、开口便被盘查的外人；挨打之后他承认自己的身体已经不听使唤，把损失归到母亲身上；结尾他把仅剩的一点指望放在一个自己认错了的人身上，而那个人并不存在。
 - **叙事手法**：第三人称限制视角紧贴叙述者。大量篇幅用于写他如何从零碎线索拼出城市的现状（口罩、证件、烟柱、亮门、火堆），中段用整段写街头追逐的呼吸与犹豫，末段切入发烧时的意识模糊与记忆变形，把一次误认写成失而复得的幻觉。
 - **视角**：第三人称限制，随叙述者贴附。警察、邻居、纵火者一律只写外部动作；关于谁在背后操纵的判断全部由他自己提出，并在同一段里被自己否定。
 
@@ -27,7 +27,7 @@ modified: "2026-10-01"
 
 > **原句 2:** "It’s a person, hovering—no, standing, as if the air were solid—hundreds of metres high, above the tallest buildings, moving in something almost like a grid pattern over the city, but with jagged angles and sudden reversals, sudden increases and decreases of speed."
 
-**中文理解：** 他盯着看了几分钟，嘴微微张着，一脸震惊，眼睛被阳光刺得眯起来。那是一个人，悬着——不，是站着，仿佛空气是实心的——在最高的楼群之上几百米处，以某种近似网格的方式在城市上空移动，却带着锯齿般的角度、忽然的折返、忽然的加速与减速。
+**中文理解：** 他盯着看了几分钟，嘴微微张着，一脸震惊，眼睛被阳光刺得眯起来。那是一个人，悬着——不，是站着，仿佛空气是实心的——在城市上空的楼群之上几百米处，以某种近似网格的方式在城市上空移动，却带着锯齿般的角度、忽然的折返、忽然的加速与减速。
 
 **关键词：** hovering—no, standing, as if the air were solid, in something almost like a grid pattern, jagged angles and sudden reversals
 
@@ -83,7 +83,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 两个「仿佛」把一件生理性的无力（打不出拳）一路推回母亲身上：不是他弱了，是她把赠予收了回去。全章都在写他在新处境里的位置，只有这一句把损失算在私人关系头上。
 
-**读者视角提示：** 读者会在这里第一次看到他对自己那套「随时可以动手」的自信发生动摇，而这次动摇正是他后来敢接下爆炸任务的内在前提。
+**读者视角提示：** 读者会在这里看到他对自己那套「随时可以动手」的自信发生动摇，而这次动摇正是他后来敢接下爆炸任务的内在前提。
 
 > **原句 8:** "Afterward, when his fevers subside and the swellings go down and he can’t stop tonguing the empty space where his front tooth used to be, he limps door to door through the entire building but never finds Bright Door again, or anybody who will claim to know her, or, for that matter, him."
 
@@ -129,7 +129,7 @@ modified: "2026-10-01"
 |---|---|---|
 | kerosene | 煤油；火堆上那股刺鼻的油味来源 | There is only the stench of kerosene and burning meat, and a blackened body slumped in the street with a burning tyre around its neck, a slender column of flame. |
 | breeches | （此处义）灯笼裤一类的宽松男裤；他自己那条是芥末黄色的 | When dressed, he sees he’s mixed up what used to be his own wardrobe with Peroe’s; he’s wearing his own loose breeches, a bright mustard yellow, but one of Peroe’s sober, fitted, sleeveless camisas in pale grey. |
-| painkillers | 止痛药；屋里唯一剩下的可入口的东西 | There is nothing in the house that can be consumed, except a bottle of tea leaves and the little cloth bag of painkillers by his bed. |
+| painkillers | 止痛药；屋里剩下的两样可入口的东西之一；另一个是一小瓶茶叶 | There is nothing in the house that can be consumed, except a bottle of tea leaves and the little cloth bag of painkillers by his bed. |
 | saffron | 藏红花色、橙黄色；（此处）高空那个不止颜色的东西所带的颜色 | He looks up to check the position of the sun, and freezes when he sees a saffron flutter far above him, unmoving in the sky, alone in the blue where nothing should be so still. |
 | pyre | （此处）堆起来焚烧的柴堆；本该是仪式的火葬，现在只剩火堆 | It is a funeral pyre of a sort, after all—except there is no grand firestorm, no towering flammable construction, no dancing mourners, no oil of sweet basil. |
 | necklace | （此处义）项圈；套在脖子上的那圈烧着的轮胎 | It’s Janno wearing the burning tyre necklace. |
