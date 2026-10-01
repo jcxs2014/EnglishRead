@@ -45,7 +45,10 @@ from pathlib import Path
 
 QUOTE_RE = re.compile(r'^> \*\*原句 (\d+):\*\* "(.*)"$', re.M)
 BLOCK_RE = re.compile(r'^> \*\*原句 (\d+):\*\* ', re.M)
-KW_RE = re.compile(r'^\*\*关键词\*\*：(.*)$', re.M)
+# ⚠️ 2026-10-01 修正：原式 ^\*\*关键词\*\*：  行首锚定，只认「顶格」形态；
+#    而本库通行形态是列表项 `- **关键词**：…`（行首是 `- `）⇒ 47 章全报「关键词行 0」，
+#    整类假红。改为接受「行首可选列表符号」。
+KW_RE = re.compile(r'^[ \t]*(?:[-*+][ \t]+)?\*\*关键词\*\*：(.*)$', re.M)
 
 
 def paras(text: str):
@@ -61,7 +64,7 @@ def check(md: Path, book: Path):
     out = []
     # --- 结构计数对账（先做，因为它最便宜且能兜住一切后续判断）---
     nq = len(BLOCK_RE.findall(s, re.M))
-    nkw = len(re.findall(r'^\*\*关键词\*\*：', s, re.M))
+    nkw = len(KW_RE.findall(s))
     nvocab = len(re.findall(r'^## 本章词汇', s, re.M))
     nsum = len(re.findall(r'^## 一句话总结', s, re.M))
     if nq == 0:
