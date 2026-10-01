@@ -1,0 +1,87 @@
+===== 《Nexus》独立五步审查 · 门禁原始逐行输出 =====
+时间: 2026-10-01 09:40:32 UTC ｜ 审查方: MinMax-Mac（与写作方同会话，按 AGENTS 第10条「用户同会话要求时直接执行」）
+
+########## a 步 · 第3条门禁全量重跑 ##########
+--- verify_corpus（①④ 口径；非虚构论述书不适用人物锚点）---
+      末| The decisions we all make in the coming years will determine whether summoning this alien intell
+
+WARN  疑似页码 bleed 于 1 件（ch07）——选句与例句须避开粘连点
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 2）===
+--- verify_quotes ---
+
+=== 总计 117/117 引文可核实（100%）；完全干净文件 15/15；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- verify_quotes --full ---
+
+=== 总计 117/117 引文可核实（100%）；完全干净文件 15/15；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+--- check_vocab ---
+词条行合计: 589
+--- FAIL (0) ---
+--- WARN (50) ---
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption_scan ---
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+--- sweep_full ---
+  参照集：text/ 逐章（13 章，可定章） + epub 交叉验证
+  ✅ 本章命中 78 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+########## b 步 · 逐章归属 ##########
+ch01  命中本章 78（100%）
+ch02  命中本章 78（100%）
+ch03  命中本章 78（100%）
+ch04  命中本章 78（100%）
+ch05  命中本章 78（100%）
+ch06  命中本章 78（100%）
+ch07  命中本章 78（100%）
+ch08  命中本章 78（100%）
+ch09  命中本章 78（100%）
+ch10  命中本章 78（100%）
+ch11  命中本章 78（100%）
+ch12  命中本章 78（100%）
+ch13  命中本章 78（100%）
+
+########## c 步 · 结构扫描（双实现交叉）##########
+--- audit_structure ---
+=== 精读结构扫描（nexus-by-yuval-noah-harari）===
+  扫 16 个 md、121 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+--- check_struct_indep（d步指定独立实现）---
+=== 独立结构扫描：13 个 md，缺陷 0 处 ===
+--- 总览三篇 H1 ---
+notes/books/non-fiction/nexus-by-yuval-noah-harari/00_情感节点.md:# 《Nexus》情感节点
+notes/books/non-fiction/nexus-by-yuval-noah-harari/00_概述.md:# 《Nexus》全书概述
+notes/books/non-fiction/nexus-by-yuval-noah-harari/00_金句精选.md:# 《Nexus》金句精选
+
+########## d 步 · 语义二审（机械子项）##########
+--- check_xref_indep ---
+=== chNN 引用 112 处：英文证据报警 0 处 ／ 中文式待人判 74 处 ===
+--- sweep_full 整串（终验标准件）---
+  ✅ 本章命中 78 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+--- check_analysis_indep 逐条列出（人工判定用）---
+抽出分析层英文片段 516 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）23 条 —— 只报不判红，须人判：
+  ch01 prologue.md:10  A Brief History of Information Networks from the Stone Age to AI
+  ch02 what is information.md:10  A Brief History of Information Networks from the Stone Age to AI
+  ch03 stories unlimited connections.md:10  A Brief History of Information Networks from the Stone Age to AI
+  ch04 documents the bite of the paper tigers.md:10  A Brief History of Information Networks from the Stone Age to AI
+  ch05 errors the fantasy of infallibility.md:10  A Brief History of Information Networks from the Stone Age to AI
+  ch05 errors the fantasy of infallibility.md:64  we can trust the self-correcting mechanisms to be free from error
+  ch05 errors the fantasy of infallibility.md:106  that was the engine of the scientific revolution
+  ch06 decisions a brief history of democracy and totalitarianism.md:10  A Brief History of Information Networks from the Stone Age to AI
+  ch07 the new members.md:10  A Brief History of Information Networks from the Stone Age to AI
+  ch07 the new members.md:151  excuse somebody of something
+  ch08 relentless the network is always on.md:10  A Brief History of Information Networks from the Stone Age to AI
+  ch08 relentless the network is always on.md:96  is not an ability to constantly watch everyone
+  ch08 relentless the network is always on.md:96  was rather their ability to inspire the fear that they might be watching
+  ch09 fallible the network is often wrong.md:10  A Brief History of Information Networks from the Stone Age to AI
+  ch09 fallible the network is often wrong.md:149  their long-term geopolitical goals
+  ch09 fallible the network is often wrong.md:177  there is an almost opposite situation
+  ch10 democracies can we still hold a conversation.md:10  A Brief History of Information Networks from the Stone Age to AI
+  ch10 democracies can we still hold a conversation.md:67  It is a mistake to imagine that
+  ch11 totalitarianism all power to the network.md:10  A Brief History of Information Networks from the Stone Age to AI
