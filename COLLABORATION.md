@@ -146,21 +146,23 @@ check_overview_full 查无 0/标签不符 0/H1 错配 0、verify_overview_quotes
 
 ### [2026-10-01 20:20 UTC] [ZCode-Mac] → All
 
-**《The Highly Sensitive Person's Survival Guide》（Ted Zeff）精读完工**（2026-10-01，ZCode-Mac）
+**《The Highly Sensitive Person's Survival Guide》（Ted Zeff）精读完工 ＋ 独立五步审查结论**（2026-10-01，ZCode-Mac）
 
-**规模**：12 章正文（Foreword、Preface + Chapter 1–10）＋ 总览三篇 = 15 md，与 text/ 12 件逐章零偏移。体裁＝非虚构论述（逐章精读 + 论证结构 + 三档词汇 + 3 篇总览）。
+**完工**：ch01–ch08、ch10–ch12 为正文、ch09 为补做章，合 12 章正文（Foreword、Preface + Chapter 1–10）＋ 总览三篇 = 15 md，与 text/ 12 件逐章零偏移。体裁非虚构论述。完工门禁（完整 lane）：verify_quotes 144/144（13/13 干净）· check_vocab 491 词条 FAIL 0 · entities 0 · corruption 0 · sweep_full 119 命中/跨章 0/拼接 0/查无 0 · 逐章归属 119/119 · audit_structure 结构缺陷 0。
 
-**完工门禁**（完整 lane，原始逐行见 `.memory/raw-gates/the-highly-sensitive-persons-survival-guide-by-ted-zeff/`）：
-verify_quotes 144/144（100%，13/13 干净）· check_vocab 491 词条 FAIL 0 · check_entities 0 · corruption_scan 0 · sweep_full 119 命中 / 跨章 0 / 拼接 0 / 查无 0 · check_chapter_quotes 119/119 逐章归属正确 · audit_structure 结构缺陷 0 · sweep_analysis_inline 零命中 0 · check_anchor 凭空造词 0。
-**总览门禁**：verify_overview_quotes 45/45（100%）· check_overview_full 整串 77 全中 / 查无 0 / 章节标签 77 全对 0 不符 / H1 错配 0。
+**独立五步审查（用户同会话发起，a–e 完整执行未降级）**：a 门禁全量重跑、b 逐章单章口径、c 结构扫描、d 语义逐对核对（119 块全量，拆三批派代理、每条报警回源复核）、e 总览事实核对。**门禁全绿仍查出阻断型 20 处，全部已整改**（`a9a4b2f68`／`d0fe04b48`／`48f42ab0a`）。
 
-**生产方式**：10 章由并行 worker 按共用指令书产出，主会话逐条回原文复验；引语/词表/总览全部程序化生成（词表走 vocab_candidates 只做减法，总览由 gen_overview 从已核实引语池注入，模板零手打英文）。
+**最要紧一条是回滚我自己的缺陷**：早前依代理报告把 ch04「邮局分信工」改成「印名片的店员」——**该改动是错的**，本轮回源查得 text:69 确有邮局分信员原文，改后同文件 ch04:123 与之自相矛盾，已回滚。教训：代理初判常错但也常对，回源不可省。
 
-**d 步语义二审已做**（用户未发起五步审查，此为执行方分内工作）：派代理逐对核对 109 块，回源复核后应用 11 处阻断型订正（1 处凭空事实「邮局分信工」→ 实为排队印名片的店员；1 处整行英文写作残留；7 处句法误判；1 处人名误译；并统一译名为埃莱恩·阿伦），另 1 条经回源确认为代理幻觉报警，未改。
+**阻断型分布**：句法分析凭空添加引语里没有的结构 13 处（ch02/04/06/07/08）｜事实与数字类 3 处（ch04「手心冒汗」为凭空生理细节；ch06「化验费用打七五折」把原文减免 75% 折算反了；00_情感节点「超过九成」实为原文 Over 95 percent）｜译名不统一 3 处｜ch07 定语从句误判为同位语从句且 that 写成 which｜概述「第五章级」应为「小学五年级」。
 
-**工具侧**：修 `check_block_keywords` 一处真 bug（BLOCK_RE 切块 vs QUOTE_RE 取号口径不一致致 zip 错位配对，已投毒验证）；`check_overview_labels` 对情感节点报 4 条「全书查无」与另三把尺子冲突，判假红型不改 md，该脚本尚未接入 gate.sh。
+**e 步**：总览 96 处引语**逐字 96/96、章标注 96/96 全对**；37 处中文式章号引用全部指向正确章；数字断言全有原文支撑；md 英文专名 100% 可回溯到本书 text/（跨书污染 0）；人物身份全部对位。
 
-**待办**：commits 均未 push，等用户指令。工作日志见 `daily/2026-10-01.md` 本书条目。
+**三档**：阻断 20 已改 · 提示 34 只记不改（禁令 3 明列豁免的语法记法、缺开引号、位置描述偏差、节名中英混用而节名属实、代理 1 条幻觉）· 假红 2（我自己审查脚本的字符范围与 grep 多字节失效）。
+
+**同会话局限**：写作方与审查方同一实例。门禁全量重跑、d 步用第二实现、语义层逐条回源复核、不自我豁免；残余风险为提示型 34 条未逐条定性、以及「说话人/指代」这类机械层查不了的判断仍靠代理人判。是否另派异实例抽样复核由用户判断。
+
+原始逐行 → `.memory/raw-gates/the-highly-sensitive-persons-survival-guide-by-ted-zeff/`（batch01–04 + final×2 + review/a·b-c·d）。commits 未 push。
 
 ### [2026-10-01 15:53 UTC] [ZCode-Mac] → All
 
