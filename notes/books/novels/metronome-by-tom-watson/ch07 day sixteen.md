@@ -7,7 +7,7 @@ modified: "2026-10-01"
 
 ## 本章导航
 
-- **一句话概括**：标着第十六天，她把每天三次服药各往后拖三分钟的做法系统化：药含在舌下、藏进笔身、设好间隔提醒、在本子上按分钟排出整周的表，算到第五十四天就能攒出一颗余量；这一天她翻泥炭、看他推车上坡，中途闪回一段往事，末了从羊身上捡到一根说不通的松针。
+- **一句话概括**：标着第十六天，她把每天三次服药各往后拖三分钟的做法系统化：药含在舌下、藏进笔身、设好间隔提醒、在本子上按分钟排出整周的表，算到第五十四天就能攒出一颗余量；这一天她在菜园锄草、收海藻、纺毛、看他推车上坡，中途闪回一段往事，末了从羊身上捡到一根说不通的松针。
 - **情感弧线位置**：从上一章的一次性试验转入长期工程。上一章她赌的是药有没有用，本章赌的是账能不能对得上——焦虑不再是身体的（心跳、眩晕），而是算错了怎么办。而她对丈夫的判断已经冷到近乎熟练：他失败的方式她背得出来，所以她连他的关心都收不下。
 - **线索结构**：一章之内推进六样：藏胶囊的整套手法（含在舌下、机会来了就取出、塞进笔身挂在颈上）· 本子上按分钟排出的服药时刻表与第五十四天那个目标 · 清晨雾中他在旧拖网船旁撬船，以及「没燃料就不算办法」这句话 · 那一大段关于他作品注定失败的熟练判断 · 关于马克西姆与医院的往事闪回 · 羊身上那根说不通的松针（他从没提过岛上有树）。
 - **人物弧线**：艾娜在本章第一次有计划、有账本、有截止日期，也把「出去」这件事正式提上了桌——她问那条船是不是出路。惠特尼则从被观察的对象变成一个被彻底看穿的人：她连他赌气要闷多久都预测得到，于是他递过来的每一句关心（去拔蓟草、午饭吃什么）在她这里都落不了地。
@@ -82,7 +82,7 @@ modified: "2026-10-01"
 | emerge | 浮现出来，扩大成（此处说裂缝会变成深沟） | Those cracks will emerge, becoming chasms, and she might speed things along with a word or a look. |
 | sulking | 生闷气，赌气不理人 | He will mope like a man betrayed, sulking for a month before starting something new. |
 | pumping | 上下猛动（此处指他挥撬棍时两条胳膊的抡动） | He worked the crowbar vigorously, pumping his arms back and forth, using his own weight as a cantilever. |
-| warden’s | 那位女监督官的（此处指她打的一套长算盘） | The twelve years spent clinging to the prospect of parole and the chance, however slim, that by playing the Warden’s long-game, she might be permitted to see Max again. |
+| warden’s | 那位监督官的（此处指她心里那盘长账（原文写的是长线打算）） | The twelve years spent clinging to the prospect of parole and the chance, however slim, that by playing the Warden’s long-game, she might be permitted to see Max again. |
 | replanted | 重新翻种、重栽 | Whitney bounds down to the berm each day, undeterred, in short-sleeves, while the oats are harvested, and the back field is tilled and replanted. |
 | affection | 有点喜欢、有点心疼（此处说她对蓟草的态度） | She feels something bordering on affection for the thistles, the plant’s stubbornness, the way it repopulates the land. |
 | midriff | 腰腹，肚子这一段 | The tide is further out than normal, revealing the sandbanks and the needles in full, and for a moment he is perfectly positioned, looking up at her, or the croft, or the length of the path, and as he catches his breath, the waves break in the distance, twisting in white spears that skewer his midriff and then his chest. |

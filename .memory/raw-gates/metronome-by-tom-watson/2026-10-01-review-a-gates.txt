@@ -1,0 +1,66 @@
+### a 步 · 第 3 条提交门禁全量重跑（2026-10-01 审查方）
+
+$ ls notes/books/novels/metronome-by-tom-watson/library/Metronome (Tom Watson) (Z-Library).epub  →  lane 判定
+完整 lane（有 epub）
+
+=== 1. verify_quotes ===
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 343/343 引文可核实（100%）；完全干净文件 41/41；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+=== 2. verify_quotes --full ===
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 343/343 引文可核实（100%）；完全干净文件 41/41；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== 3. check_vocab ===
+  ch30 shell.md [基础] 基础档疑含超纲词「impossible」
+  ch30 shell.md [基础] 基础档疑含超纲词「breathing」
+  ch31 seconds.md [基础] 基础档疑含超纲词「continues」
+  ch33 ithaca.md [基础] 基础档疑含超纲词「frightened」
+  ch33 ithaca.md [基础] 基础档疑含超纲词「recognises」
+  ch35 parole.md [基础] 基础档疑含超纲词「listening」
+
+=== 4. check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== 5. corruption_scan ===
+
+=== 编辑损坏扫描（metronome-by-tom-watson）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== 6. sweep_full ===
+=== 引语整串 flat 比对（metronome-by-tom-watson）===
+  参照集：text/ 逐章（40 章，可定章） + epub 交叉验证
+  ✅ 本章命中 319 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+check_vocab 汇总：
+词条行合计: 1041
+--- FAIL (0) ---
+--- WARN (30) ---
+
+=== 7. verify_overview_quotes（总览三篇）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 30/30 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 54/54 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== 8. check_short_quotes ===
+=== 短引语兜底核对（metronome-by-tom-watson）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+=== 9. check_block_coverage ===
+✅ 块覆盖对账：40 个文件，每块都进了 verify_quotes 校验
+
+=== 10. check_nav_layer ===
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===

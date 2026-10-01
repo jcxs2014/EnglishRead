@@ -20,7 +20,7 @@ modified: "2026-10-01"
 - **中文理解**：关节破了皮。就连那只药丸钟也擦得发亮了。
 - **关键词**：Knuckles／gleams
 - **为什么这样写**：两个短句并排：前句是身体，后句是一件不该被擦亮的物。转折只靠一个「连」——从手上擦破的皮，一路擦到那东西发亮。同一套清洁动作把人和物放在同一串里，而那只钟恰恰是最擦不掉的东西：表面亮了，机制没动。
-- **读者视角提示**：这只钟在本章只有两种状态：被擦到发亮，和在墙角发粉光。到夜里它还会变色、发药。它是全章唯一一件「看上去干净、里面被锁着」的东西。（原文对照：Their tether. Their leash. A constant metronome, ticking away, keeping them in check.）
+- **读者视角提示**：这只钟在本章至少显过四种状态：被擦亮时的粉光、服药后转绿、断了药又转红，以及被砸碎后彻底熄灭。到夜里它还会变色、发药。它是全章唯一一件「看上去干净、里面被锁着」的东西。（原文对照：Their tether. Their leash. A constant metronome, ticking away, keeping them in check.）
 
 > **原句 2:** She pictures a middle-aged man, a few years younger than Whitney, tending the croft. Perhaps he died here, drowned among the kelp, or he keeled over and is buried in the barley field.
 

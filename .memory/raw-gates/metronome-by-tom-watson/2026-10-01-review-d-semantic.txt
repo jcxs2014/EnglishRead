@@ -1,0 +1,22 @@
+### d 步 · 语义二审（2026-10-01 审查方）
+
+=== 1. check_xref_indep（跨章引用，第二实现）===
+=== chNN 引用 109 处：英文证据报警 0 处 ／ 中文式待人判 55 处 ===
+
+=== 2. check_analysis_indep（分析层行内英文，第二实现）===
+抽出分析层英文片段 70 条
+✅ 全部片段在全书 text/ 逐字命中
+
+=== 3. 专名污染检查：md 里的每个大写专名是否真在本书 text/ ===
+  File "<stdin>", line 8
+    Long Sky Croft Warden Long Sky Maxime"""".split())
+                                            ^
+SyntaxError: unterminated string literal (detected at line 8)
+
+=== 3. 专名污染检查（修正后）===
+md 中检出专名候选 386 个；本书 text/ 查无 0 个：
+  （无）
+
+=== 4. 跨章引用逐条回查（纪律 2 的回查动作）===
+带紧随引文的 chNN 引用 0 处
+✅ 全部命中标注章

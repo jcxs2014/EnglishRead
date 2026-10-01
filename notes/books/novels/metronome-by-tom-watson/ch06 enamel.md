@@ -115,7 +115,7 @@ modified: "2026-10-01"
 | counting | 数数（此处指在舌下数拍子） | She stops counting and just watches the clock. |
 | gasping | 喘不上气，呼哧呼哧地呼吸 | She is gasping for breath. |
 | tastes | 尝起来（此处指茶的味道） | She takes a swig, but it tastes foul and has lost its heat. |
-| warden | 女监督官（岛上的管事） | Now, if only our Warden was as punctual …’ |
+| warden | 监督官，典狱长（男性，在大陆那边负责接收与送药，岛上管事另有其人） | Now, if only our Warden was as punctual …’ |
 | attention | 关注，理会 | She speaks evenly, watching the candle flame bob like a child starved of attention. |
 
 ## 一句话总结
