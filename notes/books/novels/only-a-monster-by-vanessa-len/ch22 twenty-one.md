@@ -70,7 +70,7 @@ modified: "2026-10-01"
 
 **关键词**：transfer time into objects（把时间转移到物件里）/ without taking time from anyone（不用从任何人身上取时间）/ Morally, it’s the same（道德上是一样的）—— 一个逃生方案，和它当场被拆穿的道德底牌。
 
-**为什么这样写**：Aaron 的谎言在句尾被自己拆掉：Morally, it’s the same as taking the life yourself——他自己把等价关系说破了，说明他知道自己给的是一件道德上不给分的东西。真正难看的是 before he could protest 的那句 I know：他连她反对的时间都算好了，于是这次反对根本没能发生。这一章的收尾把这枚 brooch 变成一道选择题：救回家族，还是保住和一个认识她的人之间的记忆，而作者让两项都不成立。
+**为什么这样写**：Aaron 的谎言在句尾被自己拆掉：Morally, it’s the same as taking the life yourself——他自己把等价关系说破了，说明他知道自己给的是一件道德上不给分的东西。真正难看的是 before Joan could protest 的那句 I know：他连她反对的时间都算好了，于是这次反对根本没能发生。这一章的收尾把这枚 brooch 变成一道选择题：救回家族，还是保住和一个认识她的人之间的记忆，而作者让两项都不成立。
 
 **读者视角提示**：注意 I know 后面紧跟着第二次 I know——他不是在敷衍她的反对，是提前把她的反对接住了。
 
