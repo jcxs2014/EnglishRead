@@ -134,7 +134,7 @@ source_text: ch10_chapter_9_democracies_can_we_still_hold_.txt
 
 **中文理解**：在争夺人心与心智的斗争中，亲密性是一种极为强大的武器。过去，政党可以攫取我们的注意力，却难以批量制造亲密感。收音机可以把一位领袖的讲话播送给数百万人，却无法与听众交朋友。如今，一个政党，甚至一个外国政府，都可以部署一支机器人大军，与数百万公民建立友谊，然后用这种亲密关系去影响他们的世界观。
 
-**句子结构**：首句为介词短语 In the battle for hearts and minds 置于句首作状语，主语 intimacy，a extremely powerful weapon 为表语。中间两句为 but 连接的对比结构：分句主干均为省略主语的情态结构 could command / had difficulty mass-producing / could broadcast / could not befriend。末句为情态动词 could deploy 引导的预测句，that build friendships with millions of citizens 为定语从句修饰 bots，and then use that intimacy to influence their worldview 为并列的第二个不定式。
+**句子结构**：首句为介词短语 In the battle for hearts and minds 置于句首作状语，主语 intimacy，an extremely powerful weapon 为表语。中间两句为 but 连接的对比结构：分句主干均为省略主语的情态结构 could command / had difficulty mass-producing / could broadcast / could not befriend。末句为情态动词 could deploy 引导的预测句，that build friendships with millions of citizens 为定语从句修饰 bots，and then use that intimacy to influence their worldview 为并列的第二个不定式。
 
 **关键词**：in the battle for hearts and minds, intimacy is an extremely powerful weapon / they had difficulty mass-producing intimacy / they could not befriend the listeners / deploy an army of bots that build friendships with millions of citizens
 

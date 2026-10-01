@@ -82,7 +82,7 @@ source_text: ch03_chapter_2_stories_unlimited_connections.txt
 
 **中文理解**：披萨的热量值是一种客观现实，在 2010 年到 2021 年之间始终没有变；而比特币的金融价值则是一种互为主观的现实，在同一时期内发生了剧烈变化，取决于人们讲述并相信的那些关于比特币的故事。
 
-**句子结构**：While 引导让步状语从句，that remained the same between 2010 and 2021 为限定性关系从句修饰 a objective reality，is 为系动词；主句为 bitcoin 的金融价值系表结构，that changed dramatically during the same period 为限定性关系从句，depending on the stories people told and believed about bitcoin 为现在分词短语作伴随状语，内嵌省略关系代词的定语从句 people (whom) told and believed。
+**句子结构**：While 引导让步状语从句，that remained the same between 2010 and 2021 为限定性关系从句修饰 an objective reality，is 为系动词；主句为 bitcoin 的金融价值系表结构，that changed dramatically during the same period 为限定性关系从句，depending on the stories people told and believed about bitcoin 为现在分词短语作伴随状语，内嵌省略关系代词的定语从句 people (whom) told and believed。
 
 **关键词**：the caloric value of pizza is an objective reality / the financial value of bitcoin is an intersubjective reality / depending on the stories people told and believed
 
