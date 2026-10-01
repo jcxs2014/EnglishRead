@@ -28,7 +28,7 @@ modified: "2026-10-01"
 
 **中文理解**：如果这是真的，那意味着她的记忆里至少空了十三个小时。
 
-**关键词**：If this was real（如果这是真的）/ that meant that meant（那就意味着）/ a gap in her memory（记忆里的一个缺口）/ at least thirteen hours long（长达至少十三个小时）—— 条件句推出一个用数字封口的结论。
+**关键词**：If this was real（如果这是真的）/ that meant（那就意味着）/ a gap in her memory（记忆里的一个缺口）/ at least thirteen hours long（长达至少十三个小时）—— 条件句推出一个用数字封口的结论。
 
 **为什么这样写**：Joan 没有先崩溃，而是先拿咖啡馆门口那块写着营业时间的牌子做算术。"至少"和"十三"把模糊的恐惧换算成一个可以被质疑的数字——读者于是也开始跟着她算。
 

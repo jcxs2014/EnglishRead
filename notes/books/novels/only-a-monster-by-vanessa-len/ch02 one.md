@@ -46,7 +46,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：灾难用一个静止画面交代——人站着，桌子翻着，玻璃散着，全句没有一个动词写打斗；下一段才补上他"好像以为这堆 mess 是别人弄的"。责任由此被推给一个神志不清的老人，Joan 才能对侍者说 he isn’t drunk，把误会按回"他只是病了"的解释里。
 
-**读者视角提示**：bewildered 在这里是"不知所措"而不是"被打败"。这个形容与开头那位在厨房里为赝画争论的 Bertie 一样健谈，也把"混乱"从一开始就挂在人物身上。
+**读者视角提示**：bewildered 在这里是"不知所措"而不是"被打败"——写的是那位客人独自站着、什么也做不了；全句的静止画面因此有了落点：乱不在房间里，在人身上。
 
 > **原句 4:** Joan felt a strange sense of unease then. Something terrible was about to happen, she thought, and then wondered why she’d thought it.
 

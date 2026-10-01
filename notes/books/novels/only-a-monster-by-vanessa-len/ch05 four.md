@@ -7,7 +7,7 @@ modified: "2026-10-01"
 
 ## 本章导航
 
-- **一句话概括**：Joan 和 Nick 被堵在 Holland House 的长廊里，Edmund 一声令下要处死他们，Joan 夺刀自卫被刺中腰，Nick 却徒手夺剑反杀两人，随后承认自己是受训来杀怪物的人，今夜就要清剿全城。
+- **一句话概括**：Joan 和 Nick 被堵在 Holland House 的长廊里，Edmund 一声令下要处死他们，Joan 夺刀自卫被刺中腰，Nick 却徒手夺剑反击，连同先前按住他的两人，三个人倒在地上，随后承认自己是受训来杀怪物的人，今夜就要清剿全城。
 - **情感弧线位置**：庇护的反转 —— 上一章那个"怕被拒绝"的男孩在同一间屋子里露出另一种身份，而她连同他一起被卷进了她家族的清算名单。
 - **叙事手法**：用极短的判断句开场（"他们是怪物。"），再把暴力拆成几个几乎不带情绪的短句；真正的转折交给一个身体动作，而不是任何一句解释。
 - **核心线索**：七个人凭空出现在长廊里的打扮（early-twentieth-century suits and gowns）；Edmund 那句"‘Half-human, half-monster,’"；Nick 抓住 Lucien 手腕的那一拳；他自己说出的"‘Monsters killed my whole family,’"。

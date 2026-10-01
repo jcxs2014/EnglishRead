@@ -48,7 +48,7 @@ modified: "2026-10-01"
 
 **中文理解**：她花掉了一点时间，然后费力地挤向下一个人。
 
-**关键词**：took time（花掉时间）/ painstakingly（费力地 painstakingly shifted）/ squeezed（挤）—— 从容到吃力的一步压缩。
+**关键词**：took time（花掉时间）/ painstakingly（费力地）/ squeezed（挤）—— 从容到吃力的一步压缩。
 
 **为什么这样写**：作者把"偷"写成了一种极其枯燥的手工劳动。took time 的轻和 painstakingly 的重被放在同一句里，读者立刻感觉到这不是施展魔法，而是把每一个陌生人都当成一份必须小心处理的作业。她的笨拙与 Aaron 的毫不费力形成对照。
 
