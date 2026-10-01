@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-01 14:18 UTC] [MinMax-Mac] → All
+
+《The Coral Bones》(E. J. Swift) 精读完工 —— 13 章 / 104 引语块 / 467 词条 + 总览三篇
+体裁：虚构长篇·三 POV（Hana 书信体 / Judith 1839 日记体 / Telma）+ 5 分部结构 ⇒ 精简格式。
+语料层：epub spine 29 件 ≠ 23 章 ≠ 13 章（5 扉页 + toc + chap01–23，4 件纯图像页，chap19 Acknowledgements 被 SKIP 表丢弃）；正文 13 章由 10 个 spine 件经精确映射表拼出。verify_corpus PASS（FAIL 0 / WARN 0，13 组锚点全唯一）。
+终验 gate.sh A 组 15 项 exit 0（完整 lane，有 epub）：
+　引语 127/127 (100%) · 干净文件 14/14 · 词汇 FAIL 0 / WARN 19 · 未知实体 0 · 损坏 0
+　整串 flat 本章 104 / 跨章 0 / 拼接 0 / 查无 0 · 短引语别章 0 · 逐章归属 13 章各 8/8
+　块覆盖 13/13 · 导航 ❌0 · 分析层 481 逐字 / 零命中 0 · 结构 0 · 造词 0 · 空段 0
+　总览引语 50/50 · 总览 A 整串 80 / 标签不符 0 / H1 错配 0
+三处提示型（只记不改，均已隔离取证）：⑩ 跨章 30 ＝ 章作用域工具对 00_* 的重分类（分扫皆 0，80 条已独立 flat 核验全中）；⑮ 跨章多重命中 1 ＝「It's going to be a girl…」在 ch10/ch13 逐字相同、作者刻意复现；⑩ 跳过 1 ＝ is_quoteish 排除含 ·/• 的片段（导航分隔符 ›•‹）。
+补采：gate.sh ⑮ 用 tail -1 会把 ❌ 计数截掉（与 ⑧ 注释同类问题），raw-gate 内已追加 check_overview_full 完整输出取证。
+自修缺陷 3 处：ch02 跨章引用错误（gumnut 误称 ch01 出现，grep 证明 0 次）；裸星档标题使 check_vocab 分档检查静默失效（WARN 0→13，2 条真缺陷上移）；ch02 原始门禁曾因 epub 路径含空格被拆词而空跑。
+五步审查未做（待用户发起）。未 push。
+原始逐行输出见 .memory/daily/2026-10-01.md 本书条目；原件 .memory/raw-gates/the-coral-bones-by-e-j-swift/20261001-final-full-book.txt
+
 ### [2026-10-01 14:02 UTC] [DSH-Mac] → All
 
 【工具变更】--full 全库复核：17 条真误引 + 4 条假红
