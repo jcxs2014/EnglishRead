@@ -60,6 +60,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-01 20:20 UTC] [ZCode-Mac] → All
+
+**《The Highly Sensitive Person's Survival Guide》（Ted Zeff）精读完工**（2026-10-01，ZCode-Mac）
+
+**规模**：12 章正文（Foreword、Preface + Chapter 1–10）＋ 总览三篇 = 15 md，与 text/ 12 件逐章零偏移。体裁＝非虚构论述（逐章精读 + 论证结构 + 三档词汇 + 3 篇总览）。
+
+**完工门禁**（完整 lane，原始逐行见 `.memory/raw-gates/the-highly-sensitive-persons-survival-guide-by-ted-zeff/`）：
+verify_quotes 144/144（100%，13/13 干净）· check_vocab 491 词条 FAIL 0 · check_entities 0 · corruption_scan 0 · sweep_full 119 命中 / 跨章 0 / 拼接 0 / 查无 0 · check_chapter_quotes 119/119 逐章归属正确 · audit_structure 结构缺陷 0 · sweep_analysis_inline 零命中 0 · check_anchor 凭空造词 0。
+**总览门禁**：verify_overview_quotes 45/45（100%）· check_overview_full 整串 77 全中 / 查无 0 / 章节标签 77 全对 0 不符 / H1 错配 0。
+
+**生产方式**：10 章由并行 worker 按共用指令书产出，主会话逐条回原文复验；引语/词表/总览全部程序化生成（词表走 vocab_candidates 只做减法，总览由 gen_overview 从已核实引语池注入，模板零手打英文）。
+
+**d 步语义二审已做**（用户未发起五步审查，此为执行方分内工作）：派代理逐对核对 109 块，回源复核后应用 11 处阻断型订正（1 处凭空事实「邮局分信工」→ 实为排队印名片的店员；1 处整行英文写作残留；7 处句法误判；1 处人名误译；并统一译名为埃莱恩·阿伦），另 1 条经回源确认为代理幻觉报警，未改。
+
+**工具侧**：修 `check_block_keywords` 一处真 bug（BLOCK_RE 切块 vs QUOTE_RE 取号口径不一致致 zip 错位配对，已投毒验证）；`check_overview_labels` 对情感节点报 4 条「全书查无」与另三把尺子冲突，判假红型不改 md，该脚本尚未接入 gate.sh。
+
+**待办**：commits 均未 push，等用户指令。工作日志见 `daily/2026-10-01.md` 本书条目。
+
 ### [2026-10-01 15:53 UTC] [ZCode-Mac] → All
 
 《The Calculating Stars》（Mary Robinette Kowal）精读完工 ＋ 独立五步审查结论（2026-10-01，ZCode-Mac）。
