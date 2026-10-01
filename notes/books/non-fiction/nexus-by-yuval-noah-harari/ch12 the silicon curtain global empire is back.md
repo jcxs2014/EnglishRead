@@ -82,7 +82,7 @@ source_text: ch12_chapter_11_the_silicon_curtain_global_em.txt
 
 **关键词**：The leverage they now have in the international arena / testifies that in the first quarter of the twenty-first century power is distributed between a relatively large number of players / rather than monopolized by a few empires
 
-**表达方式**：作者不用「我们生活在后帝国时代」这类判断句，而让小国的杠杆本身作主语、由它来「作证」，把结论挂在证据上。distributed 与 monopolized 一对反义词把「分散」与「垄断」摆在同一尺度上，between 与 by 两个介词分别标出参与方与占有方。
+**表达方式**：作者先在小国点名之后给出「我们生活在后帝国时代」这个判断，随即改让小国的杠杆本身作主语、由它来「作证」，把结论挂在证据上，而不以判断句承重。distributed 与 monopolized 一对反义词把「分散」与「垄断」摆在同一尺度上，between 与 by 两个介词分别标出参与方与占有方。
 
 **为什么这样写**：本章讨论的是全球权力可能如何重新集中，而集中之所以成为一个真问题，前提是今天它尚未集中。作者先把「分散」这个基准线立住，后面讲数据集中、讲硅幕才构成对照；否则「权力回流到帝国」听起来只是修辞。这一句也借卡塔尔与太平洋岛国这些读者难以凭印象判断的例子，把抽象判断落到具体杠杆上。
 
