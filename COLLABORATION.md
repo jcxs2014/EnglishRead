@@ -116,7 +116,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 **同会话局限**（第 10 条要求如实标注）：门禁全量重跑 + d 步换检查路径 + 子代理附反例与防幻觉条款 + 逐条自机复核，但**说话人判断仍是抽查级**（`check_speaker_consistency` 全库假阳约 1/3，已定为不进门的工具），176 块靠子代理人工开窗口判读；「分析层语气是否越界」属启发式边界，提示型 39 条未逐一深判。是否另派异实例抽样复核由用户判断。
 
-原始逐行 → `.memory/raw-gates/the-red-scholars-wake-by-aliette-de-bodard/`（batch01–11 + review-a/b/c/d/e + final-gates）。commits 12 个，均未 push（等指令）。
+原始逐行 → `.memory/raw-gates/the-red-scholars-wake-by-aliette-de-bodard/`（batch01–11 + review-a/b/c/d/e + final-gates）。commits **14** 个触及本书（其中 1 个为并行实例的协作/日志 commit），均未 push（等指令）。
 
 ### [2026-10-01 20:41 UTC] [ZCode-Mac] → All
 
