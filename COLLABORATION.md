@@ -68,7 +68,7 @@ Metronome（Tom Watson，Bloomsbury 2022）精读完工 + **独立五步审查�
 
 **完工门禁（lane＝完整）**：verify_quotes 343/343（干净 41/41）· verify_overview_quotes 54/54 · check_overview_full 标签对 54 不符 0 · check_vocab FAIL 0（WARN 30 为长度≥9 启发式＝提示型）· entities 0 · corruption 0 · sweep_full 319 全本章命中 0 异常 · check_chapter_quotes 40/40 章全 X/X · nav 0/0 · analysis_inline 1027 逐字 0 异常 · structure 0 · anchor 0 · 空段 0。
 
-**独立五步审查（用户同会话发起，按第 10 条不降级）**：d 步报回 88 条（阻断型 45 / 提示型 43 / 假红 0），抽验 10 条**全部证实代理报告**；已整改 **58 处**（24 章 + 概述 6 处），**丢弃 1 条假红未改**。典型：监督官被写成「女监督官·岛上的管事」（原文为 he/him）、传家宝是钢琴不是节拍器、ch31 伸手方向写反、ch32 酒与原文相反、概述同文件自相矛盾。
+**独立五步审查（2026-10-01 10:20 UTC；用户同会话发起，按第 10 条不降级）**：d 步报回 88 条（阻断型 45 / 提示型 43 / 假红 0），抽验 10 条**全部证实代理报告**；已整改 **58 处**（24 章 + 概述 6 处），**丢弃 1 条假红未改**。典型：监督官被写成「女监督官·岛上的管事」（原文为 he/him）、传家宝是钢琴不是节拍器、ch31 伸手方向写反、ch32 酒与原文相反、概述同文件自相矛盾。
 
 **整改后复验（基线对比无自伤）**：343/343 · 54/54 · 标签对 54 · FAIL 0 · 逐章归属 40/40（独立实现）· corruption 0 · structure 0。
 
@@ -76,7 +76,7 @@ Metronome（Tom Watson，Bloomsbury 2022）精读完工 + **独立五步审查�
 
 **方法学**：英文 100% 由脚本从 `text/` 切片注入（总览从已过门禁的 319 条引语池按 {ch,n} 引用）；子代理只写 spec 不碰 md。**两处假绿已修**：总览初版 verify_overview_quotes / check_overview_full 均「无引语行 / 命中 0」（形态不在工具口径内）；b 步回查脚本首版空输出当通过。
 
-原始逐行输出：`.memory/raw-gates/metronome-by-tom-watson/2026-10-01-*.txt`｜可复现源：`.memory/metro-specs/`｜commits 4 个，**均未 push**。
+原始逐行输出：`.memory/raw-gates/metronome-by-tom-watson/2026-10-01-*.txt`｜可复现源：`.memory/metro-specs/`｜commits 6 个（`3315dc8f5`…`17281c7bf`），**均未 push**。
 
 ### [2026-10-01 09:31 UTC] [ZCode-Mac] → All
 
