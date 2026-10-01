@@ -101,7 +101,7 @@ modified: "2026-10-01"
 | videocassette | 录像带 | Some of them were so old they were on videocassette tapes and had to be played on our somehow-still-functioning VHS player, while the rest had been excavated from the files on our old desktop computer. |
 | audition | （入学的）选拔试演 | “I was at your audition, you know,” he said. |
 | failing | （学业）不及格 | “But as of right now, you’re failing; no matter what, something needs to change.” |
-| freshman | （高中）一年级学生 | I managed to get by all of August and September turning in old ones that I’d written in my freshman and sophomore years. |
+| semester | 学期 | we’re coming up on the end of the semester, and you’re pretty far behind in the class. |
 | tissue box | 纸巾盒 | Jewel passed her a tissue box, and she took it gratefully, wiping a tear away. |
 | clipboard | （带夹子的）写字板 | He had a clipboard in his lap, but he hadn’t written anything down since the beginning of the meeting. |
 
