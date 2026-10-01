@@ -49,6 +49,8 @@ modified: "2026-10-01"
 
 **中文理解**：她关掉显示器，好再也看不见、听不见她的客人们。她需要从他们那里休息一下，他们的音高像指甲划过黑板。
 
+**关键词**：She switched off the monitor（她关掉了监视器）／The pitch of their voices was like fingernails on a blackboard.（他们的音高像指甲刮黑板。）
+
 **为什么这样写**：全章的反转句：她把九个被囚禁的人当作噪音来源。作者用一句极常见的不满（指甲划黑板）把她的立场完整地写出来——她从"疗愈者"变成了一个想静一静的人。
 
 **读者视角提示**：注意"她需要从他们那里休息一下"是本章第一次出现她的疲惫；作者一贯让她的自我关注先于一切判断。
@@ -163,11 +165,11 @@ modified: "2026-10-01"
 
 **读者视角提示**：注意"她的身体毫无意义"这句话以她自己的声音说出，与上周她对客人宣扬的身体意识完全相反；作者从不安排她意识到这一点。
 
-> **原句 16:** She knew this because she recognized him as the person she had once been. Yet he offended him by using the word "fat." He was fat. Why the surprise? Wasn't that why he came here?
+> **原句 16:** She knew this because she recognized him as the person she had once been. Yet she offended him by using the word "fat." He was fat. Why the surprise? Wasn't that why he came here?
 
 **中文理解**：她知道这一点，因为她在他身上认出了自己曾经是的那个人。然而她用"胖"这个词冒犯了他。他是胖。有什么好惊讶的？那不就是他来这里的原因吗？
 
-**关键词**：she recognized him as the person she had once been / Yet he offended him by using the word “fat.” / He was fat. / Wasn't that why he came here?
+**关键词**：she recognized him as the person she had once been / Yet she offended him by using the word “fat.” / He was fat. / Wasn't that why he came here?
 
 **为什么这样写**：全章最能定义她的三个短句：她在客人身上认出自己，然后因为她用来描述他的词太准确而生气。作者让她的同理心与她的残忍使用同一份证据，因此读者无法把两者分开。
 

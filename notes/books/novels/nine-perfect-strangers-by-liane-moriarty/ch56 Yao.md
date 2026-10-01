@@ -29,6 +29,8 @@ modified: "2026-10-01"
 
 **中文理解**："他们又饿又累，"Yao 说。"他们脑子不清楚了。""他们该怎么做太明显了，"Masha 说。"是啊，"Yao 说。Lars 的想法是对的。
 
+**关键词**：They’re hungry and tired（他们又饿又累）／They’re not thinking straight.（他们脑子不清醒。）／It’s so obvious what they should do.（他们该怎么做太明显了。）
+
 **为什么这样写**：三个动作叠在一段里：Yao 替客人找解释、Masha 表示这显而易见、Yao 立刻同意（并在心里确认 Lars 是对的）。作者让 Yao 的"是啊"与"Lars had the right idea"形成最小落差——他一边顺服、一边在心里记下正确答案属于囚犯。
 
 **读者视角提示**：注意"Lars had the right idea"这一句叙述与对话并存，是本章唯一一次进入 Yao 的内心；作者只用一句话就交代了他的立场已经开始移位。

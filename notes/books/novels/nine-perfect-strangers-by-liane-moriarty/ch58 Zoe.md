@@ -59,6 +59,8 @@ modified: "2026-10-01"
 
 **中文理解**：那个包裹有那种硬中带软的质地，像是被气泡膜包着的东西。她笨拙地撕开胶带、扯开牛皮纸。"小心点，"她妈妈说。"它可能是易碎的。"
 
+**关键词**：firm, soft consistency of something encased in bubble wrap（包在气泡膜里的东西那种紧实柔软的质感）／fumbled with the masking tape（笨手笨脚地拆美纹胶带）
+
 **为什么这样写**：Heather 这句"可能是易碎的"是本章最重要的一句台词：整个囚禁段的谜题，唯一被认真对待的是"里面的东西不能碎"。作者让母亲在这种时刻依然给出医嘱，也就让她的爱一直以"提醒"的形式出现。
 
 **读者视角提示**：注意"硬中带软的质地"这种触觉描写——本书对重要物件第一次登场总用触觉，因为 Zoe 这一章的眼睛一直盯着天花板和别的方向。
@@ -67,7 +69,7 @@ modified: "2026-10-01"
 
 **中文理解**：Zoe 扯着气泡膜上的胶带，想起拆生日礼物时的情形——派对上的所有人都看着她 和 Zach。明天就是他们二十一岁的生日。也许是时候把它收回来了。她想，也许回到墨尔本后，她会告诉父母她想去 La Fattoria 吃披萨庆祝自己的二十一岁。突然之间，做些 Zach 死后他们就不再做的事情，好像变得可能了。
 
-**关键词**：reminded of opening a birthday gift, surrounded by people at a party, all eyes on her and Zach / Tomorrow was their twenty-first birthday. It might be time to reclaim it. / all the things they'd stopped doing after Zach died
+**关键词**：reminded of opening a birthday gift, surrounded by people at a party, all eyes on her and Zach / Tomorrow was their twenty-first birthday. It might be time to reclaim it. / it might be possible to do some of the things they’d stopped doing after Zach died
 
 **为什么这样写**：全章的情感核心，出现在她拆一个空包裹的时候：她把"生日"从禁忌变成了计划。作者用"收回"（reclaim）这个词把整本书关于哀悼的论证推进了一步——不是忘记，是把被夺走的日子拿回来。
 
@@ -116,6 +118,8 @@ modified: "2026-10-01"
 > **原句 11:** "Okay, this is really starting to piss me off now," said Lars.
 
 **中文理解**："好吧，这真的开始惹火我了，"Lars 说。
+
+**关键词**：this is really starting to piss me off now（这真的开始惹火我了）
 
 **为什么这样写**：全章末句，两秒前还是希望，现在是粗口。作者用 Lars 一句粗暴的收尾把上一段 Zoe 的柔软彻底推翻，也就是用这间屋子最冷的声音替所有人说出他们不肯说的那句。
 

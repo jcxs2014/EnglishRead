@@ -59,7 +59,7 @@ modified: "2026-10-01"
 
 **中文理解**：她说 Yao 对犯错的恐惧只来自他自己。"你天生就是这样！"她告诉他。"我们那么努力让你明白犯错没关系。我们一遍又一遍告诉你不要那么努力追求完美，犯个错不要紧。有时候我们故意犯错好让你看到人人都会犯错。你爸爸以前故意掉东西、撞墙。"
 
-**关键词**：your fear of mistakes came from no one but himself / You were born like that / we purposely made mistakes / Your father used to deliberately drop things, bump into walls.
+**关键词**：Yao’s fear of mistakes came from no one but himself / You were born like that / we purposely made mistakes / Your father used to deliberately drop things, bump into walls.
 
 **为什么这样写**：全章最彻底的一次反转：ch54 那场让 Yao 获得"犯错的自由"的童年顿悟被母亲一句话推翻。作者让"父母故意掉东西"这个细节既可爱又残忍，因此读者无法判断哪种记忆是真的——这正是本书对心理治疗的最终态度。
 
@@ -78,6 +78,8 @@ modified: "2026-10-01"
 > **原句 7:** Delilah did not face court, because no one could ever track her down.
 
 **中文理解**：Delilah 没有上法庭，因为没人找得到她。
+
+**关键词**：Delilah did not face court（Delilah 没有出庭受审）／no one could ever track her down（没人能找到她）
 
 **为什么这样写**：全章用一句单行段落交代她，语气像公文，效果却是本书最彻底的消失。作者让最先逃跑的人成为唯一没有结局的人，因此 ch51 她那句"Delilah 只管 Delilah"被完整兑现。
 
@@ -106,6 +108,8 @@ modified: "2026-10-01"
 > **原句 10:** He whispered, "Masha."
 
 **中文理解**：他低声说："Masha。"
+
+**关键词**：He whispered, “Masha.”（他低声说："Masha。"）
 
 **为什么这样写**：全章的转场被写成一次无声的呼唤，只用一个音节把 Yao 的五年压缩成一个名字。作者让她在屏幕上重新出现时他第一次开口，因此读者明白他从未真正离开过那间办公室。
 

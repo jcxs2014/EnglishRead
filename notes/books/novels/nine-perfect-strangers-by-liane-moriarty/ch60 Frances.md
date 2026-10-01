@@ -49,6 +49,8 @@ modified: "2026-10-01"
 
 **中文理解**："别喝太多水，"Heather 看到 Frances 又一次灌满水瓶从卫生间回来时对她说。"只在渴的时候喝。喝太多水会死，因为你会把体内的盐全冲掉。你可能心脏骤停。""好，"Frances 顺从地说。"谢谢。"
 
+**关键词**：Don’t drink too much water（别喝太多水）
+
 **为什么这样写**：全章最能体现 Heather 的一笔：她在自己饿到快崩溃的时候，仍然给出准确的医学提醒。作者让她的母职本能以"警告"的形式出现，而 Frances 的"谢谢"是真诚的——这间屋子里唯一还起作用的社会契约就是医嘱。
 
 **读者视角提示**：注意这段之后和 Heather 相关的屈辱感（"Carmel，你需要换一种方式理解"）也来自同一种母职语气；作者从不区分她的爱和她的控制，因为它们用的是同一个声音。
@@ -107,6 +109,8 @@ modified: "2026-10-01"
 
 **中文理解**："我不认为半夜会有什么险恶的事情发生，"Carmel 说。"我们半夜被叫醒来做星光冥想，"Heather 说。"完全可能。" "我喜欢星光冥想，"Carmel 说。Heather 叹了口气："Carmel，你真的需要换一种方式理解这里正在发生的事。"
 
+**关键词**：I don’t think anything sinister is going to happen in the middle of the night（我不认为半夜会有什么不祥的事发生）／We were woken up for the starlight（我们被叫醒去看星光）
+
 **为什么这样写**：全章最典型的"Heather 与 Carmel"交换：一个拒绝放弃警惕，一个拒绝放弃感激。作者让两人都说真话，也让她俩谁都无法说服谁——这是本书对"受害者之间如何彼此消耗"最准确的一次呈现。
 
 **读者视角提示**：注意 Heather 用的词是"重新框定你的想法"（reframe），一个心理治疗术语；作者让被囚禁的人彼此使用疗养院的语言，这是最狠的一层反讽。
@@ -114,6 +118,8 @@ modified: "2026-10-01"
 > **原句 11:** "I vote for lights off," said Frances in a low voice. Napoleon had showed them where the microphones were installed in the corners of the room. He'd told them all, in whispers, that if they wanted to share something they didn't want heard they should sit in the center of the room with their backs to the camera and keep their voices as low as possible. "I think we should give Masha the impression of total acceptance." "I agree," whispered Zoe. "She's exactly like my year eleven maths teacher. You always had to let her think she'd won."
 
 **中文理解**："我投票关灯，"Frances 低声说。Napoleon 给他们指过麦克风装在房间的哪些角落。他还小声告诉大家，如果想说些不想被听到的话，就坐在房间中央、背对摄像头、把声音压得尽可能低。"我觉得我们应该给 Masha 一种完全接受的印象。""我同意，"Zoe 悄声说。"她完全像我十一年级的数学老师。你总得让她以为她赢了。"
+
+**关键词**：I vote for lights off（我投票关灯）／Napoleon had showed them where the microphones were installed（Napoleon 已经指给他们看麦克风装在哪里）
 
 **为什么这样写**：全章的战术转折，也是九个人第一次形成联盟：他们开始表演接受。作者让这个联盟由 Napoleon 的监控知识与 Zoe 的中学经验共同促成——也就是说，打败 Masha 的将是青少年的学校智慧。
 

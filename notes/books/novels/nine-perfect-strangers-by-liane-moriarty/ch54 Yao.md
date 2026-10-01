@@ -109,6 +109,8 @@ modified: "2026-10-01"
 
 **中文理解**：但 Masha 一天天把他一点点凿开。"你没在听。这跟那个完全不一样，"她说。"你会因为海洛因而不用盘尼西林吗？""盘尼西林不影响脑化学。""好吧，那抗抑郁药呢？抗精神病药呢？"那低低的、有说服力的、带口音的声音在他耳边，那双绿眼睛定定看着他，那个身体，那种她对他拥有的、美丽的掌控。
 
+**关键词**：Masha chipped away at him, day by day（Masha 一天天一点点地磨他）／Would you not use penicillin because of heroin?（你会因为海洛因就不用青霉素吗？）
+
 **为什么这样写**：全章的"如何说服"教材：她的论证其实是可疑的（盘尼西林类比），但落到最后是一串身体细节。作者让最后一句没有动词、只有名词堆叠，因为 Yao 承认的从来不是逻辑，是引力。
 
 **读者视角提示**：注意"美丽的掌控"（beautiful hold）与前一章的"精致的折磨"（exquisite torture）是同一个词族；作者在本书里一贯把迷恋写成一种不可辩护、也不可伪装成理性的东西。
@@ -127,7 +129,7 @@ modified: "2026-10-01"
 
 **中文理解**：Delilah 在暗网上搞到供给，包括药物检测套件。Yao 做了全部检测。他和 Delilah 都同意当豚鼠。Masha 将作为致幻剂治疗师。她自己因为病史不能做这个疗法，但那没关系，因为她已经通过冥想和她那次著名的濒死体验获得过超越性的体验。
 
-**关键词**：got the supplies on the dark web / Yao did all the testing / agreed to be the guinea pigs / because of her medical history, she could not do the therapy / her famous near-death experience
+**关键词**：got the supplies on the dark web / Yao did all the testing / agreed to be the guinea pigs / because of her medical history, She herself, because of her medical history, could not do the therapy / her famous near-death experience
 
 **为什么这样写**：全章最具讽刺意味的分工：唯一用不了药的人成了治疗师，理由是"她已经超越过了"。作者让这个豁免听起来完全合理，因为整件事的逻辑核心就是：她的权威不来自证据，来自她的履历。
 
@@ -197,6 +199,8 @@ modified: "2026-10-01"
 
 **中文理解**：也许这就是他的第一个错误。
 
+**关键词**：Perhaps this was his first mistake.（也许这是他的第一个错误。）
+
 **为什么这样写**：全书最经济的一句转场，全文只有七个词，却把上一段的解脱直接换算成代价。作者从不解释它具体指哪一个动作（那次疗法？留下来？参与这个方案？），因为对他来说这些都已经是同一个决定。
 
 **读者视角提示**：注意这句出现的位置在闪回与现状之间，它标记的是本章的时态交界：从这里开始，全章变成一份事故报告。
@@ -224,6 +228,8 @@ modified: "2026-10-01"
 > **原句 22:** Masha said she had come up with something sophisticated, subtle, and symbolic that would integrate perfectly with their psychedelic experiences. ("Never afraid to blow her own trumpet, is she?" Delilah had said to Yao. Yao had put it down to jealousy. What woman wouldn't be jealous of Masha?)
 
 **中文理解**：Masha 说她设计出了一个精妙、微妙、富有象征意义的东西，会与他们的致幻体验完美融合。（"她可真不怕自吹自擂，是吧？"Delilah 曾对 Yao 说。Yao 把那归结为嫉妒。哪个女人会不嫉妒 Masha 呢？）
+
+**关键词**：sophisticated, subtle, and symbolic（精巧、微妙、象征性的）
 
 **为什么这样写**：全章对他最不留情的一处：他把一句准确的批评（自吹自擂）解释成嫉妒，而且用了一个反问来结束思考。作者用括号把这段对话装起来，就像它一直在 Yao 心里占着一个不愿细看的位置。
 

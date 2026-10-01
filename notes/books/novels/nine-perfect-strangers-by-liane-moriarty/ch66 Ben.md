@@ -109,7 +109,7 @@ modified: "2026-10-01"
 
 **中文理解**：Ben 把手指放在那行铭文上。他想到所有人都说他跟 Jessica 中了彩票是多么了不起的运气，但有时候感觉并不是那样。他看向 Jessica：他真的要做父亲了吗？他连自己的人生都还没弄明白，怎么去教一个孩子怎么活？
 
-**关键词**：He put his fingers to the inscription / sometimes it didn't feel that way / Was he really going to be a dad himself? / How could he advise a kid on how to live his life when he hadn't yet worked it out himself?
+**关键词**：Ben put his fingers to the inscription / sometimes it didn't feel that way / Was he really going to be a dad himself? / How could he advise a kid on how to live his life when he hadn't yet worked it out himself?
 
 **为什么这样写**：全章的收束：他用手触碰一段两百年前的囚犯字迹，然后问自己能不能当父亲。作者让"运气"这个词在这里第一次被质疑（他不再觉得自己幸运），而他的自我怀疑以"怎么教一个孩子"的形式出现。
 

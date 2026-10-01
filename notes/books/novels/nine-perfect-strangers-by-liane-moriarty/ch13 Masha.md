@@ -89,7 +89,7 @@ modified: "2026-10-01"
 
 **中文理解**：「只有十天，」Masha 说。「十天后你会感觉好得多，而且，那不过是你人生中的一百四十个小时。」
 
-**关键词**：only ten days（只有十天）/ only a hundred and forty hours of your life（不过是人生中的一百四十小时）
+**关键词**：only ten days（只有十天）/ it’s only ten days! The average person lives around twenty-seven thousand days.（不过是十天而已！普通人一辈子大约活两万七千天）
 
 **为什么这样写**：她不回应「搜查行李是否合法」这个真问题，而是重新定义**计量单位**——把「十天的痛苦」换算成「一百四十小时」，用数字的抽象性稀释体验的严重性。这是典型的框架操控：改掉单位，争辩的对象就消失了。
 
@@ -199,15 +199,17 @@ modified: "2026-10-01"
 
 **中文理解**：日后会有采访者问：「你第一次推行新方案时紧张吗？」Masha 会答：「完全不。我们做过研究。我们从一开始就知道它会成功。」
 
+**关键词**：Were you nervous when you first introduced the new protocol?（你第一次引入新方案时紧张吗？）／Not at all.（一点也不。）
+
 **为什么这样写**：全章最重要的一句。作者把 Masha 的自我叙述写成了**将来完成时的采访台词**——她已经在脑中预演好了一个胜利版本的历史。读者由此得知两件事：她确定会被采访（她有野心），以及她此刻讲述的「从一开始就知道」，与读者正在看到的、靠掐手臂才稳住的一幕完全不符。
 
 **读者视角提示**：这是一句出色的不可靠叙述装置。它不撒谎，只是提前把故事讲成了另一个样子。后续章节会不断回到这个「采访版本」与「实况版本」的落差。
 
-> **原句 20:** “We will begin.”
+> **原句 20:** People in this country admired humility. The biggest compliment you could give a successful woman was to describe her as “humble.”
 
 **中文理解**：你能给一个成功女性最大的恭维，就是形容她「谦逊」。这个国家的人推崇谦逊。她做得到谦逊。那不过是又一项技能。
 
-**关键词**：the biggest compliment（最大的恭维）/ People in this country admired humility（这个国家的人推崇谦逊）/ It was just another skill（那不过是又一项技能）
+**关键词**：People in this country admired humility（这个国家的人推崇谦逊）/ The biggest compliment you could give a successful woman was to describe her as “humble”（你能给一个成功女性最大的恭维，就是形容她“谦逊”）
 
 **为什么这样写**：这是对「谦逊」这一文化期待最冷的一次解构。她没有拒绝被要求谦逊，她接受了—然后把它归类为技能。这样她既满足了社会的表象要求，又保全了内心的真实确信，代价是「谦逊」这个词在她这里被彻底掏空。
 

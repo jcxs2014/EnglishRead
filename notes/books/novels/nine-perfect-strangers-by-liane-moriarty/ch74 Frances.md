@@ -59,6 +59,8 @@ modified: "2026-10-01"
 
 **中文理解**：Jan 穿着夏装，和 Gus 在一起，对发生在她工作场所的事显得脸红而兴奋。显然她和 Gus 一直在聊天（在半夜；从他们的眼神看，Frances 推断那是一场性爱后的聊天），Gus 提到他在班末拦下了一个开着黄色兰博基尼超速的女孩。
 
+**关键词**：looking flushed and excited（脸红红的、很兴奋）／the events that had transpired at her workplace（她工作场所发生的事）
+
 **为什么这样写**：全书的最后一块拼图由一个约会细节补上：Delilah 的逃跑是因为超速被抓，而这个信息来自警官的枕边闲聊。作者用最不起眼的人际关系解释最大的悬念，因此破案过程完全不靠推理。
 
 **读者视角提示**：注意 Frances 用"性爱后的聊天"来推断，这个判断在全书中属于她的专长（她为杂志写情感专栏）；作者一贯用她的职业直觉解谜。
@@ -126,6 +128,8 @@ modified: "2026-10-01"
 > **原句 12:** "There was smoke," said Frances, her mouth full of mango, the golden flesh as fresh and sweet as a summer morning. "And the sounds of a fire." "Which in reality was a YouTube clip of a house burning down played over an intercom," said the cop without inflection. "It was very convincing," said Frances unconvincingly.
 
 **中文理解**："有烟，"Frances 说，嘴里塞满芒果，金色的果肉像夏日清晨一样新鲜甜美。"还有火的声音。""而实际上那是一个房子燃烧的 YouTube 短片，通过内部通话系统播放，"警官毫无语调地说。"那是很有说服力的，"Frances 毫无说服力地说。
+
+**关键词**：There was smoke（有烟）／the golden flesh as fresh and sweet as a summer morning（金黄的果肉像夏日清晨一样新鲜甜美）
 
 **为什么这样写**：全章的喜剧由一对副词完成：警官毫无语调（without inflection），Frances 毫无说服力（unconvincingly）。作者让证词与感官享受并置（吃芒果说话），因此读者的注意力被引向写作本身而非真相。
 

@@ -9,7 +9,7 @@ modified: "2026-10-01"
 
 - **一句话概括**：离婚律师 Lars Lee 在酒庄试酒、买下双份订单，一边用味觉逃回一段可能是借来的童年记忆，一边把一条恳求的短信打到一半就删掉——他是那种把"疗养院"当宿营地、把婚姻当残骸场的男人。
 - **情感弧线位置**：回避期 — 全章没有一句自白，所有情绪都被酒、记忆和购物动作承载。
-- **Tropes 兑现/反转**：高冷专业人士（the emotionally armored professional）、用消费填洞（retail therapy）、"我只是来放松的"（the reluctant retreat-goer）。
+- **Tropes 兑现/反转**：高冷专业人士、用消费填洞、"我只是来放松的"。
 - **人物弧线**：Lars 从"酒能带我回阿马尔菲海岸"的感官逃生，到面对短信时那种**说不出口的拒绝**——他的弧线本章只有一个动作：删掉打好的回复。
 - **叙事手法**：全章以嗅觉/味觉为轴（apples and sunshine and wood smoke），把回忆写成"可能是借来的"；对话极简，所有信息靠旁人的闲聊反照（姐姐在 spa 上班、老板"a bit …"）；结尾用一个未发送的短信形成静场。
 
@@ -53,7 +53,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：本章的题眼。"empty promises" 是个双关——品酒术语里 promises 指的是酒"承诺"给味蕾的风味，而 Lars 的职业让这四个字必然带上另一层意思：**婚姻也是一种先给承诺、后给失望的东西**。他把这套逻辑用在了酒上，说明他用它看了太多别的事。
 
-**读者视角提示**：下一句是 "That must be why he was going to Tranquillum House."（所以他才要去 Tranquillum House）。作者用一句因果推论替代了心理描写——他**不去思索自己为什么去**，只用一个类比打发掉。
+**读者视角提示**：紧接着是 "Anyone who stopped here would be on their way to somewhere else."（会在这里停下的任何人，都是在去别处的路上）。作者用一句关于"过路人"的判断替代了心理描写——他**不去思索自己为什么去**，只用一个类比打发掉。
 
 > **原句 5:** He’d slammed on the brakes because that’s the sort of man he was: spontaneous.
 

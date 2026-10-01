@@ -79,7 +79,7 @@ modified: "2026-10-01"
 
 **中文理解**："二十年可是很长的一段消沉日子，"Masha 说。她在脑中花了不到一秒把这个英文词翻译过来。愚蠢的男人。她自己从来没消沉过。一次都没有。消沉是弱者的事。
 
-**关键词**：It took her a fraction of a second to translate the English word（她在脑中花了不到一秒把这个英文词翻译过来）／She herself had never moped. Not once.（她自己从来没消沉过。一次都没有。）／Moping was for the weak.（消沉是弱者的事。）
+**关键词**：It took a fraction of a second to translate the English word “moped”（她花了不到一秒就翻译出 moped 这个英文词）／She herself had never moped. Not once.（她自己从来没消沉过。一次都没有。）／Moping was for the weak.（消沉是弱者的事。）
 
 **为什么这样写**：技术要点在于**"翻译"这个动作被显式写出来**：她先处理语言，再处理人。而她的自我评价（"从来没消沉过"）与她接下来要讲的濒死体验形成反讽：**她说自己从不消沉，而她的重生是靠一位医生的提醒（"别让你的心成为你头脑的牺牲品"）和一次剃腿毛的动作完成的。**
 
@@ -145,7 +145,7 @@ modified: "2026-10-01"
 
 **读者视角提示**：注意这个谎言的时机：**它在儿子出现之前**（下一段才是那个男孩从光里走过来）。也就是说，**她是在幻觉到来之前抢先否认了它**——**这是本章对"她知道自己在做什么"最直接的证据。** 留意 Tony 提这个问题的动因：他姐姐的濒死体验让他变成一个陌生人（ch25 开场他说"我不喜欢那个"）。
 
-> **原句 14:** Such an ordinary but exquisite young man. He wore a baseball cap, like so many young men did. He took it off and scratched his head. She had only ever seen her baby, her beautiful fat-cheeked toothless baby, but she knew immediately that this was her son, this was the man he would have and should have become, and all that love was still within her, as fresh and powerful and shocking as it had been when she’d held him for the first time. She did not know if it had been a precious gift or a cruel punishment to have experienced that love again. Perhaps it was both.
+> **原句 14:** Such an ordinary but exquisite young man. He wore a baseball cap, like so many young men did. He took it off and scratched his head. She had only ever seen him as her baby, her beautiful fat-cheeked toothless baby, but she knew immediately that this was her son, this was the man he would have and should have become, and all that love was still within her, as fresh and powerful and shocking as it had been when she’d held him for the first time. She did not know if it had been a precious gift or a cruel punishment to have experienced that love again. Perhaps it was both.
 
 **中文理解**：她只见过他婴儿时的样子，她那个漂亮的、脸颊胖乎乎的、没牙的婴儿，但她立刻就知道了：这就是她的儿子，这就是他本该长成和应该长成的那个男人，而那一整份爱仍然在她心里……她不知道自己重温那份爱是一份珍贵的礼物还是一种残酷的惩罚。也许两者都是。
 

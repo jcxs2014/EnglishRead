@@ -59,6 +59,8 @@ modified: "2026-10-01"
 
 **中文理解**："我觉得我们该往上看，"她说。她站了起来。"什么？"Lars 用手肘把自己撑起来。"往哪看？""那些歌都是关于星星、月亮和天空的，"她说。"而且 Masha 说过我们得往上看。"
 
+**关键词**：I think we’re meant to look up（我觉得我们该往上看）／Look up where?（往哪儿看？）
+
 **为什么这样写**：全章的启动，而它的机制是她说得不够清楚：她给出结论（往上看）而不给理由，于是必须有人追问"往哪看"。作者让 Lars 的反应（用手肘撑起）标记这间屋子里的等级——最先怀疑的总是最该相信的人。
 
 **读者视角提示**：注意 Frances 在这里用的是"我们该"（we're meant to）而不是"我认为"，这是她一生最有用的习惯：把私人直觉说成客观义务，因此别人会跟着做。
@@ -76,6 +78,8 @@ modified: "2026-10-01"
 > **原句 7:** "There!" Heather pointed. "See? Do you see?" "I see it!" said Jessica. Frances followed her gaze. "I don't actually see anything," she said. "My eyesight is terrible." "It's a sticker," said Tony. "A sticker of a gold star."
 
 **中文理解**："那儿！"Heather 指着。"看到没？你看到了吗？""我看到了！"Jessica 说。Frances 顺着她的目光看。"我其实什么都没看见，"她说。"我的视力很差。""那是一张贴纸，"Tony 说。"一张金色的星星贴纸。"
+
+**关键词**：There!（在那儿！）／Do you see?（你看到了吗？）／I don’t actually see anything.（其实我什么也没看见。）
 
 **为什么这样写**：全章最可爱的反讽：想出"往上看"的人看不见他们找到的东西。作者用一句"我的视力很差"来完成本章对 Frances 的定调：她一生负责指方向，不负责看结果。
 
@@ -95,6 +99,8 @@ modified: "2026-10-01"
 
 **中文理解**："好，那我们把它弄下来，"Jessica 对 Ben 说。"把我举到你肩膀上。""我不举你，你怀孕了，"Ben 说。"你可能是怀孕了。""举我，爸，"Zoe 对她父亲说。"你最矮…… 你最高。" "我觉得高度不够，"Napoleon 把头往后仰，估量距离。"就算你站在我肩膀上你也够不到。"
 
+**关键词**：Lift me up onto your shoulders.（把我举到你肩上。）／you’re pregnant（你怀孕了）／You’re possibly pregnant.（你可能是怀孕了。）
+
 **为什么这样写**：全章最典型的家庭喜剧：三组人用三种逻辑处理同一件事，而 Ben 那句"你可能是怀孕了"精确回收了 ch52 的整场审讯。作者让每个人都按自己的角色行动——孕妇想上、父亲先护、前运动员是唯一想到跳的人。
 
 **读者视角提示**：注意 Napoleon 的"高度计算"与 Tony 的"我跳上去"是本组人物的两套世界观：一个算距离，一个知道自己做过更不可能的事。
@@ -103,6 +109,8 @@ modified: "2026-10-01"
 
 **中文理解**："最明显的做法是扔个东西上去把它打下来，"Lars 说。"我要跳上去把它打下来，"Tony 说。他抬头看着那根椽子，眼里有一道光。"我只需要你们几个人给我个支点。""你不可能跳那么高，"Frances 说。"我连续三年拿过年度最佳接球，"Tony 说。
 
+**关键词**：The obvious thing to do is throw something up to knock it down（最明显的办法是扔点东西上去把它打下来）／I’ll jump up and knock it down（我跳上去把它打下来）
+
 **为什么这样写**：全章的转折点由一个精确的对撞完成：Lars 的常识、"我"的判断、Tony 的证据。作者让 Tony 的自我陈述变成一种数据（三次），因为这是全书里他第一次为自己过去的能力作证，而没人能反驳。
 
 **读者视角提示**：注意 Lars 在这里只出现一句（扔东西），却立刻被 Tony 的提议取代；作者一贯让 Lars 在群体戏里充当那个被绕过的最理性声音。
@@ -110,6 +118,8 @@ modified: "2026-10-01"
 > **原句 11:** "I don't know what 'the mark of the year' means, but that's impossible," said Frances. It was like a joke to think of someone jumping that high. "You'll injure yourself." Tony looked at her. "Have you ever watched a game of Aussie Rules in your life, Frances?" "I understand that you leap about energetically—"
 
 **中文理解**："我不知道'年度最佳接球'是什么意思，但那是不可能的，"Frances 说。想到有人能跳那么高，简直像个笑话。"你会把自己弄伤的。"Tony 看着她。"你这辈子看过一场澳式足球比赛吗，Frances？""我明白你们跳来跳去的很有活力——"
+
+**关键词**：I don’t know what ‘the mark of the year’ means, but that’s impossible（我不知道"年度最佳接球"是什么意思，但那不可能）
 
 **为什么这样写**：全章最锋利的一段对话，也是本书对这两个人关系的一次定义：她依据常识否定他，他用职业身份反问她，而她用一句轻描淡写（"跳来跳去"）得罪了整项运动。作者让她的好意（怕他受伤）与她的无知同时出现。
 
@@ -129,6 +139,8 @@ modified: "2026-10-01"
 
 **中文理解**："我最高的接球接近十二英尺。"Tony 抬头看着那根椽子。"我能碰到，没问题。""是从那个 Collingwood 球员背上跳起来的，对吧？"Heather 说。"Jimmy Moyes？我和 Napoleon 当时就在那场比赛现场。"
 
+**关键词**：My highest mark ever was close to twelve feet.（我最高的一次接球将近十二英尺。）／Off the back of that Collingwood player（踩在那个 Collingwood 球员背上）
+
 **为什么这样写**：全章最温馨的一处转折：那个唯一理解 Tony 的人是一直在骂人的 Heather。作者让她说出比赛细节，从此他在这间屋子里有了一个证人——而她恰好是那个曾经对着摄像头大骂的人。
 
 **读者视角提示**：注意 Napoleon 与 Heather 都记得那场比赛（十几年前），说明这对夫妻在孩子们还小的时候有过一段普通的、会去看球的幸福；作者用一句话补上了这家人的半个过去。
@@ -146,6 +158,8 @@ modified: "2026-10-01"
 > **原句 15:** "Oh my God, could we leave the poetry and the football and maybe just focus on getting out of here?" said Lars as he picked up an empty water bottle, aimed it like a javelin, and threw it up toward the ceiling. It hit the rafter and bounced back again.
 
 **中文理解**："哦我的天，我们能不能别谈诗和足球，就专心想想怎么出去？"Lars 说着捡起一个空水瓶，像标枪一样瞄准，朝天花板扔上去。它打中椽子又弹了回来。
+
+**关键词**：could we leave the poetry and the football and maybe just focus on getting out of here?（我们能不能别谈诗和橄榄球了，专心想办法出去好吗？）
 
 **为什么这样写**：全章的分岔点：理性方案（扔东西）被完整执行、完整失败，为下一个非理性方案腾出位置。作者让 Lars 那句抱怨同时否掉诗和足球——也就是说他否掉了这间屋子剩下的全部文化。
 

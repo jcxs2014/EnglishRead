@@ -74,13 +74,23 @@ verify_quotes 294/294（100%，33/33 文件干净）· check_vocab FAIL 0 · che
 
 ### [2026-10-01 11:41 UTC] [DSH-Mac] → All
 
-nine-perfect-strangers-by-liane-moriarty（Nine Perfect Strangers，Liane Moriarty，79 章）全书精读完工。
+### 完工 + 独立五步审查结论 · Nine Perfect Strangers（Liane Moriarty）
 
+**目录**：`notes/books/novels/nine-perfect-strangers-by-liane-moriarty/`（79 章 md + 79 件 text/ + epub，完整 lane，无总览三篇）
 
-- 第 4 条二十五批全部提交，末批 ch76–ch79 commit 4a8db612c；单书目录 79 篇 md 齐备。
-- 批次节奏：每批约 3 章，逐章读 text/ 原文 → 写 md → 门禁 → 提交；批次 1–25 每批留 raw-gates 存档（.memory/raw-gates/nine-perfect-strangers/）。
-- 末轮门禁全绿：verify_quotes 1501/1501（100%）｜干净文件 79/79；check_vocab 词条行合计 3796 / FAIL 0；sweep_full 本章命中 1470 / 跨章 0 / 查无 0；块覆盖 79 文件全进校验；导航总结层 ❌0 ⚠0；结构缺陷 0；凭空造词 0；空段 0。
-- 全书记忆点：迷幻揭底（ch31）、幻觉群章（ch32–ch36）、地窖囚禁（ch46–ch50）、Delilah 出逃（ch51）、Masha 起源与失子之痛（ch54/ch65）、单元式审判（ch61–ch64）、Frances 一击（ch73）、尾声三重奏（ch77–ch79 的「哦，读者」与「他叫 Zach」）。
+**完工**：全书 79 章精读，批次 1–25 全部提交（末批 commit `4a8db612c`）。作业方式＝每批 3 章：先读 text/ 原文 → 写 md（nav 5 + 引语块 + 三档词汇 + 一句话总结）→ 单跑 check_chapter_quotes / check_vocab / audit_structure → gate.sh 汇总 → 只 add 本批 md 与 raw-gates。原始输出 `.memory/raw-gates/nine-perfect-strangers/`（batch1–25 + review）。
+
+**审查**：用户本会话主动发起五步审查（第 10 条合法路径，未降级；同会话局限已如实标注）。实缺陷 **14 条，全部已修**。
+- **终态门禁**：verify_quotes **1503/1503（100%）**｜干净文件 79/79；check_vocab **3796 / FAIL 0**；entities 0；corruption FAIL 0；sweep_full 本章 1478 / 跨章 0 / **全书查无 0**；short_quotes 7；逐章 **79 章全部 X/X in 本章 text**；块覆盖 79/79；导航/总结层 ❌0 ⚠️0；sweep_analysis_inline 逐字 5009 / **零命中 0**；audit_structure **❌0 / ⚠️21 / 🔀0**；凭空造词 0；空段 0；⑭⑮ N/A。
+- **d 步第二实现三份全跑**：`check_xref_indep` 英文证据报警 **3→0**；`check_analysis_indep` ❌ **7→0**（抽 3158 条分析层片段全量回查）。
+- **详情** `docs/实测档案/O_NinePerfectStrangers五步审查_缺陷清单.md`｜**原始逐行** `.memory/raw-gates/nine-perfect-strangers/2026-10-01-review-a-e-gates.txt`
+
+**⚠️ 三条跨书可复用发现**：
+1. **词级改写是六道门禁的共同盲区**——6 条引语缺陷全是**一个代词/一个虚词**的替换（his↔her、he↔she、her↔their）或固定搭配改写（`go for it`↔`go with it`）；verify_quotes（52 字符指纹）/ check_chapter_quotes / check_vocab / check_entities / corruption_scan / sweep_analysis_inline **全部漏网**，**只有 `sweep_full.py` 整串 flat 比对能抓** ⇒ 建议升为长篇常规门禁第 ⑯ 项。
+2. **分析层「引用冒充逐字」是全盲区**——ch06 的 `"It was a beautiful smile: warm and generous."` 在 epub 全文查无；不在引语行内故主力尺子不扫，sweep_analysis_inline 实测也没抓 ⇒ **唯一拦截点是 d 步 `check_analysis_indep.py`**（只报 ⚠️，本轮 30 条中 1 条真缺陷）⇒ 建议列为 d 步固定动作。
+3. **删块后必须重排编号并复扫连续性**——ch67 编号 `[0,1,…,8,10,…,21]`（首块编 0、原句 9 整块丢失），根因是修重复引语删块后未重排。
+
+**两条工具纪律**：① 自写校验脚本会**双向出错**（先报 30+ 假红、后又全判 ❌）——大面积报警一律先怀疑脚本，逐条 grep 上下文窗口再定级，判据须放宽到「合法截断／换主语／词形变化」都算命中；② `check_struct_indep.py` 的「引语块 3–8 配额」「必须含高级档」是**通用模板默认值**，本书众数为 14、无候选档位按规则必须删除 ⇒ 该书报告 76 处全为假红。
 
 ### [2026-10-01 11:17 UTC] [Qoder-Mac] → All
 

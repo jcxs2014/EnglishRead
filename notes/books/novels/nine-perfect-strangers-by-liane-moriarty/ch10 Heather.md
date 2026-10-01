@@ -79,6 +79,8 @@ modified: "2026-10-01"
 
 **中文理解**：而现在，他们接下来五天不能说话。
 
+**关键词**：they had to spend the next five days not talking（接下来的五天他们都不能说话）
+
 **为什么这样写**：**一个十一词的独立段落，单独成段**。作者刚说完那是"罕见而特别的幸福时刻"，下一段立刻收掉。**这个转折不讲道理，它只讲时间。** 而这一句里的 "they"（他们）用得很狠——**不是"她"，是"他们三个人"。**
 
 **读者视角提示**：⚠️ 请注意这一句的语气是绝望的、平静的，没有任何形容词。**本书在情绪最重的时刻，句子最短。**
@@ -186,6 +188,8 @@ modified: "2026-10-01"
 > **原句 18:** “Maybe we should go away this time,” Napoleon had suggested a few months ago. “Somewhere peaceful and quiet.” “Like a monastery,” Zoe had said. Then her eyes brightened. “Or, I know, a health resort! We’ll get Dad’s cholesterol down.”
 
 **中文理解**："这次也许我们该出去走走，"Napoleon 几个月前建议道。"找个安静平和的地方。""比如修道院，"Zoe 说。然后她的眼睛一亮。"或者，我知道，一家疗养院！我们把爸爸的胆固醇降下来。"
+
+**关键词**：Somewhere peaceful and quiet.（找个安静平和的地方。）／Like a monastery（像修道院一样）
 
 **为什么这样写**：**本章最精巧的一段结构：这个家庭用一句玩笑躲过了一场真正的对话。** 父亲说"找个安静的地方"，女儿先说"修道院"，然后眼睛一亮想到疗养院——**注意她给的理由是"把爸爸的胆固醇降下来"**（Napoleon 学校免费体检的结果），一个体面的、实际的、身体层面的理由。
 

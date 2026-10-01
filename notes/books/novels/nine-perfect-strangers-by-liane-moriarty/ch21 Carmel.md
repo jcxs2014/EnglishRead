@@ -89,6 +89,8 @@ modified: "2026-10-01"
 
 **中文理解**：你的身体根本没有任何问题。你是中等身材，你这个被迷惑的傻瓜！你是个有魅力、有智慧的女人，你这个白痴！你应该把一月份用来躺在吊床上吃奶酪，
 
+**关键词**：There’s not a damned thing wrong with your body.（你的身体一点毛病都没有。）／average-sized（中等身材）／an attractive, intelligent woman（一个有魅力、有智识的女人）
+
 **为什么这样写**：这是姐姐 Vanessa 的话，而它的句式是**先安慰、后辱骂**（"你是中等身材，你这被迷惑的傻瓜！"）。作者用这种矛盾修辞写出一种真实的爱：**它能同时给出最正确的内容和最粗暴的形式**。而"吃奶酪"这个具体建议正是 Carmel 唯一没有采纳的——她来这里"被转化"，而姐姐让她"躺着吃奶酪"。
 
 **读者视角提示**：注意这段话的形式（命令式、感叹号、骂人）与 Masha 的手写卡片（礼貌、被动语态、"我们请求您"）形成本章最后的结构对照：**一个要她吃奶酪，一个要她去做面部护理**——而她选了后者。留意"吊床"这个细节：本章后文 Masha 的监控里正看见 Lars 躺在吊床里喝骗来的饮料，**同一个道具被两个人使用，一个是在享乐，一个是被禁止享乐**。
@@ -107,6 +109,8 @@ modified: "2026-10-01"
 
 **中文理解**：女人应该"照顾好自己"。那是男人在约会网站上说的：我想要一个会照顾自己的女人。他们的意思是：我想要一个瘦女人。
 
+**关键词**：Women were meant to “take care of themselves.”（女人就该"保养自己"。）／I’d like a woman who takes care of herself（我想找一个懂得保养自己的女人）
+
 **为什么这样写**：这是全书唯一一次**把约会网站的措辞拆成字面与真意两行**。技术要点在于 `They meant:`（他们的意思是：）这个冒号——它不给论证、不给铺垫，直接完成一次翻译。而"照顾好自己"这个短语的可怕之处在于它是**正向的**：它把一项审美要求伪装成一项健康建议。
 
 **读者视角提示**：注意这里出现了"约会网站"——这正是 Joel 离开后直接去的地方（原句 7）。于是本章完成了一条闭环：**他被允许在上面挑选，而她开始用那里的语言评价自己**。留意这整段都没有提到 Joel 的名字，**她已经把那套标准内化到不需要他出场了**。
@@ -114,6 +118,8 @@ modified: "2026-10-01"
 > **原句 11:** She imagined Masha living Carmel’s life, standing at the front door when Joel and Sonia dropped off the girls. Joel wouldn’t have left Masha in the first place, but say he did, then Masha’s heart wouldn’t hammer with pain and humiliation at the sight of her ex-husband and his new girlfriend. Masha wouldn’t curve her body around the door at a strange angle as if to hide it from Joel. Masha would stand tall and proud. She wouldn’t hunch her body to protect her raw, broken heart.
 
 **中文理解**：她想到 Masha 那修长有雕塑感的身体线条。／如果她能改造自己的身体，她就能改造自己的人生，她就能从失败的婚姻里走出来。那不是错觉。那是事实。
+
+**关键词**：She imagined Masha living Carmel’s life（她想象 Masha 过着 Carmel 的人生）／Joel and Sonia dropped off the girls（Joel 和 Sonia 把女儿们送来）
 
 **为什么这样写**：这是本章的**决策句**，也是全书对 Tranquillum 商业模式的一次精确总结：**把"人生问题"翻译成"身体工程"**。而它的技术要点是最后两个短句（"那不是错觉。那是事实。"）——她**主动关闭了自我怀疑的通道**，这正是她即将交出自我所需的最后一步。
 
@@ -132,6 +138,8 @@ modified: "2026-10-01"
 > **原句 13:** There was a gentle knock on the door. … It was Yao. His head was bowed. He didn’t make eye contact or say a word. He held out a small card.
 
 **中文理解**：门上传来一声轻柔的敲击。……是 Yao。他低着头。他没有眼神接触，也没有说一个字。他递出一张小卡片。
+
+**关键词**：a gentle knock on the door（门上传来一声轻柔的敲击）／His head was bowed. He didn’t make eye contact or say a word.（他低着头。没有眼神接触，也没有说一个字。）
 
 **为什么这样写**：`gentle`（轻柔的）、`bowed`（低垂的）、`didn't make eye contact or say a word`（没有眼神接触也没说一个字）——三个细节共同把 Yao 写成一个**信使而非人**。而这张卡片在本章的作用，是**代替了所有可能的对话**：Masha 不需要询问 Carmel 需要什么，她已经在屏幕后面听过了。
 

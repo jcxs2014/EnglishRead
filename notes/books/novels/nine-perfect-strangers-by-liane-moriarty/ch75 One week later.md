@@ -35,7 +35,7 @@ modified: "2026-10-01"
 
 **读者视角提示**：注意 Ben 在 ch49 末句已经预言过这个结论（"所有的接吻都是告别"）；作者一贯让伏笔由当事人先说出口，再在尾声被证实。
 
-> **原句 3:** They knocked her to her knees with their embraces. She buried her nose in their hair, the crooks of her arms. They burrowed into her, and instantly began to fight over her like she was a favorite stuffed toy.
+> **原句 3:** They knocked her to her knees with their embraces. She buried her nose in their hair, the crooks of their arms. They burrowed into her, and instantly began to fight over her like she was a favorite stuffed toy.
 
 **中文理解**：她们的拥抱把她撞得跪倒在地。她把鼻子埋进她们的头发里、她们臂弯的凹陷里。她们钻进她怀里，立刻开始像争抢一个最爱的毛绒玩具一样争夺她。
 
@@ -199,7 +199,7 @@ modified: "2026-10-01"
 
 **中文理解**：在 Tranquillum House 之后，Heather 变了。不是更快乐，而是更平静。她加入了路边公园里的太极班。她是唯一一个不到七十岁的人。Heather 从来不是那种会有女性朋友的人，但不知为何她融进了这个老年圈子。"他们让我笑，"她说。"他们对我没有任何要求。"
 
-**关键词**：Not happier exactly, but calmer / a tai chi class in the park down the road / the only one under the age of seventy / not the sort of woman to have girlfriends / they don't demand anything from me.
+**关键词**：Not happier exactly, but calmer / a tai chi class in the park down the road / the only one under the age of seventy / Heather had never been the sort of woman to have girlfriends / they don't demand anything from me.
 
 **为什么这样写**：全章对 Heather 的康复给出最安静的答案：她的朋友是老人，因为他们不索取。作者回收了 ch67 那句"朋友是奢侈"，让她的社交修复以"没有要求"为条件，因此这份友谊仍然是防御性的。
 
@@ -249,6 +249,8 @@ modified: "2026-10-01"
 
 **中文理解**："你到那个陡坡了吗？"Tony 问。"到了，"Frances 说。"可你听我的呼吸！我完全不喘。""你是精英运动员，"Tony 说。"你杀了人没有？""杀了，"Frances 说，"昨天杀的。杀了我第一个角色。他完全活该。""你喜欢吗？你好，Bear。"
 
+**关键词**：Are you on your steep bit yet?（你到那个陡坡了吗？）／I’m not puffing at all.（我一点都不喘。）／Have you murdered anyone yet?（你杀了人没有？）
+
 **为什么这样写**：全章的日常对话形式是本书最放松的一段，而"杀人"被当作天气聊。作者让 Frances 那一拳（ch73）变成她的日常工作，因此创伤的消化方式在此被写成一份职业进步。
 
 **读者视角提示**：注意"你好，Bear"插在谋杀话题中间；作者一贯用这种突兀的日常插话标记生活的连续性（ch50 的客房服务）。
@@ -267,6 +269,8 @@ modified: "2026-10-01"
 
 **中文理解**："我从来没去过荷兰，"Frances 说。"你没去过？"Tony 说。"我只去过一次。我希望不会像我上次去那么冷。""我从来没去过荷兰，"Frances 又说了一遍。长长的一段停顿。Frances 停在路边，对一位戴草帽浇花的女士微笑。Tony 说："你想和我一起去荷兰吗，Frances？""想，"Frances 说，"我想。"他们的初吻在澳航休息室里。
 
+**关键词**：I’ve never been to Holland（我从没去过荷兰）／I’m hoping it’s not going to be as cold as last time I went（我希望别像我上次去的时候那么冷）
+
 **为什么这样写**：全章最经典的一次"重复即表白"：同一句话被说两遍，第二遍就是明示。作者用路边的草帽女士作为两位主角之外的唯一目击者，因此这个决定发生在一个完全公共、完全平常的场所。
 
 **读者视角提示**：注意 ch74 末句她说的"平时我会说是的"在此被反转——这一次她说了"想"；作者一贯让她的成长以同类型句子的不同答法呈现。
@@ -274,6 +278,8 @@ modified: "2026-10-01"
 > **原句 27:** "I think that you need to shout at me," she said. "What?" He looked up at her, startled. "No, I don't."
 
 **中文理解**："我觉得你需要对我吼一顿，"她说。"什么？"他抬头看她，吃了一惊。"不，我不需要。"
+
+**关键词**：I think that you need to shout at me（我觉得你需要冲我喊）／No, I don’t.（不，我不需要。）
 
 **为什么这样写**：全章最反常也最准确的一次请求：被原谅的一方要求被指责。作者让 Heather 主动打破三年来的沉默协议（"我们永远不知道够了没有"），因此她的治愈方向与 Napoleon 相反——她需要冲突，而他们两人都不擅长。
 

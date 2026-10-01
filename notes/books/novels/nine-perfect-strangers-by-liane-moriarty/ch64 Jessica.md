@@ -29,6 +29,8 @@ modified: "2026-10-01"
 
 **中文理解**："啊，是的，我大概觉得严重，"Jessica 回答。"我觉得 Masha 就像那种，完全什么都做得出来的人。她看起来非常不稳定。"她努力控制呼吸。恐惧在她胃里不断升起来又退下去，像坐游乐园的过山车时一阵阵的恶心。
 
+**关键词**：I feel like Masha is, like, totally capable of anything.（我觉得 Masha 什么都干得出来。）／She seems very unstable.（她看起来很不稳定。）
+
 **为什么这样写**：全章最好的身体化比喻：恐惧不是持续的压力，是一次次的恶心。作者让 Jessica 用游乐园的比喻描述自己的处境，因此恐怖感里始终带着一点年轻的味道。
 
 **读者视角提示**：注意她用"就像""那种"这些填充词（原文的 like、kind of）在一次真正的危机中都没有消失；作者始终让她保持这个说话习惯，从不为了紧张而升级她的语言。
@@ -146,6 +148,8 @@ modified: "2026-10-01"
 > **原句 14:** She looked up at the television screen where Masha's face had loomed. "What do you think will happen next? After we've played her stupid game?" "I don't know," said Jessica honestly. "It feels like anything could happen."
 
 **中文理解**：她抬头看向 Masha 的脸曾经逼近过的那个电视屏幕。"你觉得接下来会发生什么？我们玩完她那个愚蠢的游戏之后？""我不知道，"Jessica 诚实地说。"感觉什么都可能发生。"
+
+**关键词**：What do you think will happen next?（你觉得接下来会发生什么？）／After we’ve played her stupid game?（在我们陪她玩完这场蠢游戏之后呢？）
 
 **为什么这样写**：全章末段用一个空屏幕收尾：恐怖已经离场，但形状还留在屏幕上。作者让这间屋子里最谨慎的两个人（Zoe 与 Jessica）共同承认"什么都可能发生"，因此本章的平静始终带着预备。
 

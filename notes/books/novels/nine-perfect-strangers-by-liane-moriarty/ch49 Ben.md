@@ -129,6 +129,8 @@ modified: "2026-10-01"
 
 **中文理解**：Ben 可怜的妈妈如果听说他被人给了毒品，一定会惊恐发作。"没事的，Ben，"Jessica 轻声说，仿佛读懂了他的心思。"你现在不是瘾君子。"
 
+**关键词**：Ben’s poor mother would have a panic attack（Ben 可怜的妈妈会惊恐发作）／as if she’d read his mind（仿佛她读懂了他的心思）
+
 **为什么这样写**：全章的调子转得极轻：他从一段童年恐怖回忆里回来，接住他的是一句温柔的谎。而作者特意标出"仿佛她读懂了他的心思"，因为在这一段婚姻里，正确理解他的人一直是 Jessica。
 
 **读者视角提示**：注意这句话在书里被重复了一次（原句 16 的"I know that"），作者让 Ben 接受安慰后立刻收回，说明他不打算被安慰。
@@ -166,6 +168,8 @@ modified: "2026-10-01"
 > **原句 16:** There was something else they'd talked about too. Something he thought might have been more significant. He'd remember it in a moment. Jessica pulled out her shirt and sniffed her cleavage. "I stink. I'm going to try and have a sponge bath at the bathroom sink."
 
 **中文理解**：他们谈过的还有别的事。他觉得那可能更重要。他一会儿就能想起来。Jessica 拉开衬衫闻了闻自己的胸沟。"我臭了。我要去洗手池边擦个澡。"
+
+**关键词**：Something he thought might have been more significant.（他觉得自己可能忘了一件更重要的事。）／He’d remember it in a moment.（他马上就会想起来。）
 
 **为什么这样写**：全章最精巧的一处叙事机关：最重要的那件事被明确标出"他一会儿就想起来"，然后作者把叙述切断，让一场对话、一段回忆、一个陌生人插入其间。读者因此和 Ben 一起悬着，而答案在二十页之后才落地（原句 23）。
 
@@ -205,6 +209,8 @@ modified: "2026-10-01"
 
 **中文理解**：是 Zoe，那个和父母一起来的女孩。她在他旁边坐下。过去几天看到她时，他一直奇怪，一个她这个年纪、显然健康爱运动的人，为什么会选择来这种地方。现在他知道了。"你哥哥的事，我很抱歉，"他说。
 
+**关键词**：the girl who was here with her parents（和父母一起来这里的那个女孩）
+
 **为什么这样写**：全章唯一一次 Ben 表现出理解力：他终于把"她为什么来"和"她哥哥"连上。而他给出的第一句话是最标准的慰问语，作者让他用一句最普通的话打开全章最重的一场谈话。
 
 **读者视角提示**：注意作者特意让他先"知道"再开口，这个顺序与他在 ch07 里对 Jessica 的迟钝形成对照，说明药物后的他确实变了。
@@ -233,6 +239,8 @@ modified: "2026-10-01"
 
 **中文理解**："我爸只想跟她断绝关系，"Ben 说。"跟她再无来往。装作……她从来没存在过。他说这是个自我保护的问题。""那他结果怎么样？"Zoe 问。"对他来说太好了，"Ben 说。"他走了。妈妈和爸爸离了婚。我见到他的时候，他甚至不问起 Lucy。"
 
+**关键词**：everyone has, like, different ways of coping with stuff（每个人应对事情的方式都不太一样）／After Zach died, my father wanted to talk about him（Zach 死后，我爸想谈他）
+
 **为什么这样写**：全书对"自我保护"这个理由最干脆的一次结算：一个父亲切断了女儿，然后切断了妻子。而"结果对他来说太好了"这句反讽是本章最锋利的句子，Ben 用一句胜利的语言描述一场离家出走。
 
 **读者视角提示**：注意 Zoe 的问题（"那他结果怎么样"）就是上一章她问自己母亲的那套问题（"那你觉得这样有用吗"的语气），作者让一个刚失去哥哥的人来当这两场审判的法官。
@@ -240,6 +248,8 @@ modified: "2026-10-01"
 > **原句 24:** "I guess everyone has, like, different ways of coping with stuff," said Zoe. "After Zach died, my father wanted to talk about him all the time and my mother couldn't bear to say his name, so …" They sat in silence for a few moments. "What do you think is going on here?" asked Zoe. "I don't know," said Ben. "I really don't know."
 
 **中文理解**："我猜每个人都有，就是，不同的应对方式吧，"Zoe 说。"Zach 死后，我爸爸想一直谈他，而我妈妈连说他的名字都受不了，所以……"他们沉默地坐了一会儿。"你觉得这里出了什么事？"Zoe 问。"我不知道，"Ben 说。"我真的不知道。"
+
+**关键词**：everyone has, like, different ways of coping with stuff（每个人应对事情的方式都不太一样）／After Zach died, my father wanted to talk about him（Zach 死后，我爸想谈他）
 
 **为什么这样写**：两个失去手足的孩子在此交换了各自家庭的应对法（切断、不停说、说不出名字），然后被一句常识收拢："每个人都有不同的应对方式。"而本章最后的问题（这里发生了什么事）答案是"真的不知道"——作者让全章最诚实的话出自那个最不聪明的人。
 

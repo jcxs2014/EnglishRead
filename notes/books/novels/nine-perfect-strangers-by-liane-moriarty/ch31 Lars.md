@@ -175,7 +175,7 @@ modified: "2026-10-01"
 
 **读者视角提示**：注意 Napoleon 反复出现的"我读文件很仔细"——与 ch13 Tony 质问行李被搜查时"谁读过条款了？"形成呼应：这份合同是全书最常被提起、最少被真正阅读的东西。
 
-> **原句 17:** “I know, babe,” said Jessica, looking up at him. “But maybe we should just go for it?” “I think you two should go for it,” said Lars. “I’ve seen a lot of bad marriages, but I think your marriage has …” There was a fine word he needed to finish his fine sentence but it had escaped his brain. The word swooped about between Jessica and Ben like a frisky butterfly before it landed, quivering, on Tony’s hand. Lars leaned forward and read it. “Potential!” he said. “I think your marriage has potential.”
+> **原句 17:** “I know, babe,” said Jessica, looking up at him. “But maybe we should just go with it?” “I think you two should go for it,” said Lars. “I’ve seen a lot of bad marriages, but I think your marriage has …” There was a fine word he needed to finish his fine sentence but it had escaped his brain. The word swooped about between Jessica and Ben like a frisky butterfly before it landed, quivering, on Tony’s hand. Lars leaned forward and read it. “Potential!” he said. “I think your marriage has potential.”
 
 **中文理解**："我知道，宝贝，"Jessica 抬头看着他说，"但也许我们就顺其自然？""我觉得你俩该试一次，"Lars 说。"我见过很多糟糕的婚姻，但我觉得你们的婚姻有……"他需要一个漂亮的词来收尾这句漂亮的话，可它从脑子里溜走了。那个词像一只欢快的蝴蝶在 Jessica 和 Ben 之间飞来飞去，最后落在 Tony 的手上，颤动着。Lars 俯身去读它。"潜力！"他说。"我觉得你们的婚姻有潜力。"
 

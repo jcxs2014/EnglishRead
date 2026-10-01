@@ -99,6 +99,8 @@ modified: "2026-10-01"
 
 **中文理解**："万一他们出了什么事呢？"Frances 最后说。"万一他们全被谋杀、绑架或者病倒了呢？" "他们把门锁上了，"Lars 说。"所以看起来这是他们计划的。""也许是他们计划的，但本来只打算锁一个小时左右，"Frances 说。"然后他们出了可怕的事。"
 
+**关键词**：What if something has happened to them?（万一他们出了什么事呢？）／murdered or kidnapped or fallen ill（被谋杀、被绑架或者病倒了）
+
 **为什么这样写**：全章第一次真正的争论，而 Frances 的立场是替绑架者担心：她宁可为 Masha 找一个意外，也不愿承认这是有意的。作者把这种善意写成一个逻辑上更复杂但情感上更安全的假设。
 
 **读者视角提示**：注意她两次用"万一"（What if）来提问，而 Lars 每次都用一个事实回答；这是本章对两人智力关系的最后一次展示（ch23 他们曾在温泉里"分享了某种精神层面的东西"）。
@@ -106,6 +108,8 @@ modified: "2026-10-01"
 > **原句 10:** "So we could be here for another, what, four, five days?" said Frances. "We'll be so thin," said Carmel. "I might lose my mind," said Ben, and his voice sounded shaky, as if it were already happening. "At least we have running water," said Napoleon. "And bathrooms. It could be worse." "It could be better," said Tony. "Room service would help." "I love room service," said Frances. "Room service and a movie," sighed Tony.
 
 **中文理解**："那我们可能还要在这里待，呃，四五天？"Frances 说。"我们会变得好瘦，"Carmel 说。"我可能会疯掉，"Ben 说，他的声音发抖，仿佛那已经在发生。"至少我们有自来水，"Napoleon 说。"还有卫生间。本来可以更糟。""本来可以更好，"Tony 说。"有客房服务会好点。""我爱客房服务，"Frances 说。"客房服务加一部电影，"Tony 叹了口气。
+
+**关键词**：We’ll be so thin（我们会变得好瘦）／I might lose my mind（我可能会疯掉）／At least we have running water（至少我们有自来水）
 
 **为什么这样写**：全章的对话调度最漂亮的一段：六个人各按自己的性格说了一句话（减重、发疯、知足、挑刺、享受），而最后两句把两个人接上了线。作者用"客房服务"这个极其普通的词作为本章唯一的浪漫机制。
 
@@ -164,6 +168,8 @@ modified: "2026-10-01"
 > **原句 16:** "We don't even know if they're watching us," said Lars. "Maybe they've all got their feet up somewhere and they're watching Orange Is the New Black."
 
 **中文理解**："我们甚至不知道他们有没有在看我们，"Lars 说。"也许他们都在哪儿翘着脚看《女子监狱》。"
+
+**关键词**：Maybe they’ve all got their feet up somewhere（也许他们都在哪儿翘着脚歇着呢）／watching Orange Is the New Black（在看《女子监狱》）
 
 **为什么这样写**：全章第二次用一部电视来写监控：他们担心自己被看，而 Lars 提出的可能是看守者正在看剧。作者让最坏的可能与最琐碎的可能并列，这是本书处理阴谋的一贯方式。
 

@@ -39,7 +39,7 @@ modified: "2026-10-01"
 
 **中文理解**：某个阶段那女孩晕倒在男的怀里，那有点像浪漫吧或者随便什么，但现实生活里真的有人会晕倒吗？
 
-**关键词**：fainted into the guy’s arms / because of the fainting? / did anyone ever really faint in real life?
+**关键词**：fainted into the guy’s arms / did anyone ever really faint in real life?
 
 **为什么这样写**：她对"晕倒"这个桥段提出事实质疑——而本书里真的有人晕倒过（ch01 的 Masha、ch19 的 Frances 在泳池边），作者让她用同龄人的怀疑口吻亲手拆掉自己将要经历的情节。
 
@@ -69,6 +69,8 @@ modified: "2026-10-01"
 
 **中文理解**："我以为是本了不起的书，"她对 Frances 说，面不改色。你的国家指望你了，Zoe。
 
+**关键词**：perfectly poker-faced（完全面无表情）／Your country is depending on you, Zoe.（你的国家指望你了，Zoe。）
+
 **为什么这样写**：全章最好笑也最锋利的一处：她在心里用"国家任务"来给自己这场撒谎加冕。作者让一个刚失去哥哥的女孩把一句善意的谎称为"为国效力"，说明她完全清楚自己在做什么。
 
 **读者视角提示**：这句内心独白与她上一章那句"我很喜欢"排在一起读，就是本书对"善意谎言"的全部态度：它被当成一项需要执行的职责。
@@ -76,6 +78,8 @@ modified: "2026-10-01"
 > **原句 7:** "Maybe you're still high," said Frances. Zoe laughed. Maybe she was. "I don't think so."
 
 **中文理解**："也许你还没醒过来，"Frances 说。Zoe 笑了。也许吧。"我不这么觉得。"
+
+**关键词**：Maybe you’re still high（也许你还没醒过来）／I don’t think so.（我不这么认为。）
 
 **为什么这样写**：Frances 在替她解释那本书的好评（她宁愿相信是药物），而 Zoe 的否认带着笑意。作者用这个往返写两人的关系：一个总在找理由，一个总在轻轻挡回去。
 
@@ -284,6 +288,8 @@ modified: "2026-10-01"
 > **原句 28:** He was still there in her heart and her memory, and he was going to stay beside her, keeping her company right until the end.
 
 **中文理解**：他仍然在她的心里和她的记忆里，他会一直待在她身边，陪着她，直到最后。
+
+**关键词**：He was still there in her heart and her memory（他还在她心里、她的记忆里）／keeping her company right until the end（陪她到最后）
 
 **为什么这样写**：全章以一个陪伴的承诺收尾，而它是本书对"丧失"给出的最后一个正面答案：他不能回来，但他也没走。作者用一个"公司"式的词（keeping her company，陪伴）来决定这件事，让结局听起来是日常的，而不是庄严的。
 

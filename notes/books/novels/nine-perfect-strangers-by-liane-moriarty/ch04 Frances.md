@@ -9,7 +9,7 @@ modified: "2026-10-01"
 
 - **一句话概括**：Frances 抵达 Tranquillum House，被铁丝网和一台坏掉的对讲机困在门外二十多分钟；就在这段无人搭理的等待里，她接到经纪人确认退稿的电话，并知道了那篇说她写作"公式化、垃圾、陈腐"的书评——她此行的最后一点体面，也在那道没开的门外面耗尽了。
 - **情感弧线位置**：崩塌点 — ch02 的"我没事"在这一章被逐层剥掉：门外没人管、职业身份被撤下、最后连悲伤都"是假的"。
-- **Tropes 兑现/反转**：抵达即幻灭（arrival as disillusionment）、"照片 vs 现实"（brochure vs barbed wire）、门禁作为门槛仪式（the locked gate as threshold）。
+- **Tropes 兑现/反转**：抵达即幻灭、"照片 vs 现实"、门禁作为门槛仪式。
 - **人物弧线**：Frances 从"要体面、要懂事、不要太挑剔"的自我管理，走到"这悲伤是为一件从来不真实的事而装的"——她第一次承认自己被骗的不只是钱，是整个自我认知。
 - **叙事手法**：全章靠"等待"撑起，用录音留言的风铃声与外面的烈日形成双重折磨；把退稿消息插进等待的缝隙里（**没有一个动作是"她坐下来消化这个消息"的**）；用一句"她渴望的是白热的怒火，而不是这种彻底的悲伤"完成情绪的反向揭穿。
 
@@ -58,6 +58,8 @@ modified: "2026-10-01"
 > **原句 5:** They would be mortified to hear that their intercom had broken and Frances would be calm and understanding and brush away their apologies.
 
 **中文理解**：他们要是知道对讲机坏了，会羞愧得不行；而 Frances 会平静、体谅，把他们的道歉一挥而去。
+
+**关键词**：mortified（羞愧难当）／calm and understanding（平静而体谅）／brush away their apologies（把他们的道歉一挥而去）
 
 **为什么这样写**：她**替整间酒店预先宽恕了一次**，还给对方安排好了情绪（mortified）。这是本章写她最好的地方：她的善意不是做给人看的，是**在无人观看时自己排练的**。而这也正是她最危险的地方——一个连生气都要先替对方想好台阶的人，很难说出"我不接受"。
 

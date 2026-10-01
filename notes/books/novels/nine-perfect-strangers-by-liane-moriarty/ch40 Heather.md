@@ -249,6 +249,8 @@ modified: "2026-10-01"
 
 **中文理解**："那不是你的错，爸，"Zoe 说——她那个孤零零的独苗。在 Heather 看来，她说话很像一具僵尸，而不像一个大学生，她那年轻美丽的头脑已经像鸡蛋一样被煎透了，煎到焦脆。"那是我的错。"
 
+**关键词**：It wasn’t your fault, Dad（那不是你的错，爸爸）／her lonely only（她孤独的独生女）／like a zombie（像僵尸一样）
+
 **为什么这样写**：这是本章最复杂的一句：Heather 一边听着女儿安慰丈夫，一边在心里把女儿判成"脑子和鸡蛋一样煎糊了"。作者用"my lonely only"（把她 ch40 前面的童年恐惧直接扣在女儿头上）说明此刻她已经把两个孩子的命运叠在一起。而女儿的最后一句话（"是我的错"）她没有听见，或者说，她听见了却无法回应。
 
 **读者视角提示**：Zoe 的自责在 ch41 有完整展开，此处是它在母亲视角里的第一次出现，只有半行。
@@ -306,6 +308,8 @@ modified: "2026-10-01"
 > **原句 30:** She opened her mouth and began to tug an endless tapeworm from deep down in her throat, and it was making her gag and vomit, but there was relief in it too, because at last she was wrenching it free from her body.
 
 **中文理解**：她张开嘴，开始从喉咙深处拽出一条无尽的绦虫，这让她作呕、想吐，但其中也有解脱，因为她终于把它从身体里硬扯了出来。
+
+**关键词**：began to tug an endless tapeworm from deep down in her throat（开始从喉咙深处拽出一条无尽的绦虫）／making her gag and vomit（让她作呕）
 
 **为什么这样写**：本章以一个恶心至极的比喻结束，而它恰恰是全书对"说出秘密"最准确的描写：糅合了身体的抗拒和解脱，而且用"终于"这个词确认，她憋了三年。这条虫子将在 ch41 由她亲口说出——那是哮喘药的副作用，是她对丈夫说的那句谎。
 

@@ -89,6 +89,8 @@ modified: "2026-10-01"
 
 **中文理解**：此刻，她看起来确实很美。
 
+**关键词**：Right now, she did look beautiful.（此刻她看起来确实很美。）
+
 **为什么这样写**：作者用一句不带立场的叙述确认了她的主张，这比任何评论都公正——因为它是从最可能在背后嘲笑她的那个视角（Masha 的）发出的。本书很少给 Jessica 这样的待遇。
 
 **读者视角提示**：这一句是本章她仅有的两次被"正面看待"之一，另一次是后面"Jessica 还非常年轻"那句。
@@ -117,7 +119,7 @@ modified: "2026-10-01"
 
 **中文理解**：他们互相抱着，一遍又一遍地重复"美在观者眼中"，而 Masha 不确定地对他们微笑。这有什么好笑的？也许这是个圈内笑话。她开始不耐烦了。
 
-**关键词**：repeating over and over / smiled at them uncertainly / Why was that funny? / an inside joke / She began to feel impatient
+**关键词**：repeating “beauty is in the eye of the beholder” over and over / smiled at them uncertainly / Why was that funny? / an inside joke / She began to feel impatient
 
 **为什么这样写**：全章的转折点，也是全书对 Masha 最不留情的一段：她第一次跟不上。作者连用三个疑问／不确定的表述（uncertainly、Why was that funny、Perhaps）来写她的失灵，而结尾那句"她开始不耐烦"是她一贯的反应——听不懂就归类为无效。
 

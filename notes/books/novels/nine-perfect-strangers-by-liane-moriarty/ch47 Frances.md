@@ -219,9 +219,11 @@ modified: "2026-10-01"
 
 **中文理解**：Zoe 把声音压得很低，Frances 不得不凑近才听得见。"我觉得我现在把他找回来了，以一种很奇怪的方式。就像我想要的话可以给他发短信。" "啊，"Frances 说。"我不是说我真的会给他发短信，"Zoe 说。
 
+**关键词**：I feel like I’ve got him back now, in a weird sort of way（我觉得我用一种奇怪的方式把他找回来了）／Like I could text him if I wanted.（就像我想的话可以给他发信息。）
+
 **为什么这样写**：全章最令人心碎的一句，也是最年轻的一句：她用一个手机动作来定义"找回"（发短信）。而她立刻补救——因为她也知道这个念头有多危险。作者让这个瞬间发生在 Frances 必须凑近的距离里，因为这句话不该被别人听见。
 
-**读者视角提示**：这个念头与 ch29 里 Zoe 那句"他没留下一句短信"（ch26：Zach didn't leave a note or a text）构成最直接的反面：她想要的正好是他没留下的东西。
+**读者视角提示**：这个念头与 ch26 里 Napoleon 那句"这孩子没留下一句话，也没留下短信"（`The kid did not leave a note or a text. He did not choose to explain his actions.`）构成最直接的反面：她想要的正好是他没留下的东西。
 
 > **原句 22:** "No," said Frances. "Of course not. I understand what you're saying. You feel like you're not fighting anymore."
 
@@ -246,6 +248,8 @@ modified: "2026-10-01"
 > **原句 24:** "By the way, I forgot to tell you: I read your book during the silence," said Zoe. "I loved it." "You loved it?" said Frances. "Really? It's fine if it wasn't your cup of tea." "Frances," said Zoe firmly, "it was my cup of tea. I loved it." "Oh," said Frances. Her eyes stung, because she could see that Zoe was telling the truth. "Thank you."
 
 **中文理解**："顺便说一句，我忘了告诉你：沉默期里我读了你的书，"Zoe 说。"我很喜欢。""你喜欢？"Frances 说。"真的？如果不是你的菜也没关系。""Frances，"Zoe 坚定地说，"它是我的菜。我很喜欢。""哦，"Frances 说。她的眼睛刺痛，因为她看得出 Zoe 说的是真话。"谢谢你。"
+
+**关键词**：I read your book during the silence（在静默期间我读了你的书）／it was my cup of tea（它正合我口味）
 
 **为什么这样写**：全章、也可能是全书的落点：从 ch12 里 Zoe 把书塞进裤腰、ch14 里 Frances 被指控"misogynistic trash"、ch19 里流的那次鼻血，一路到这里——一个 20 岁女孩说"这是我的菜"。作者连续三次重复"loved"（她说了一遍，不信，再说一遍，再被重复），让确认变成一种拉锯。
 

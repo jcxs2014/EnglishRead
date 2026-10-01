@@ -69,6 +69,8 @@ modified: "2026-10-01"
 
 **中文理解**："我感激她，"Yao 说，双手枕在脑后，望着天花板，思考着这件事。"她救了我的命。"／"她没有救你的命。是你救了她的命。"／"是我主管救了她的命，"Yao 说。"我当时根本不知道自己在干什么。"
 
+**关键词**：I’m grateful to her（我很感激她）／She saved my life.（她救了我的命。）
+
 **为什么这样写**：这是全章的核心对白，而它的结构是**三次将"救"这个动词的主人换掉**：她说她救了他 → 他说其实是他救了她 → 他说其实是 Finn 救了她。技术要点在于每一次替换都**更接近事实，也更让他自己消失**——最后他连自己的功劳都交给了别人，而他依然坚持感激 Masha。
 
 **读者视角提示**：注意这与 ch01 的呼应：**ch01 里 Yao 确实错过了心脏骤停的诊断，是 Finn 喊了"开始按压"**。这段对白等于让 Yao 自己承认了那件事。留意他此刻的姿势（双手枕在脑后、望着天花板）——这与 ch22 后文"新的 Yao"的形象一致：**他已经学会在谈论自己的创伤时保持放松。**
@@ -147,11 +149,13 @@ modified: "2026-10-01"
 
 **中文理解**：他从医院回家的第二天，收到了 Masha 的一封邮件，她说如果他哪天需要逃离"老鼠赛跑"，非常欢迎他来小住，试试她的新客房。／那感觉像个征兆。／你来得正是时候，我一直不太好，他写信给她。我可能就来休息几天。
 
+**关键词**：if he ever needed to escape（如果他需要逃离）
+
 **为什么这样写**：技术要点在于**时间线的精确**（"从医院回家的第二天"）与**措辞的谦卑**（"就来几天休息一下"）。而 `It felt like a sign.`（那感觉像个征兆。）独立成段——**这是本章唯一一处 Yao 主动承认自己做了一个非理性判断**，而它没有任何修正，因为五年后的他仍然这样想。
 
 **读者视角提示**：注意"老鼠赛跑"（`the rat race`）这个说法：**它是 Masha 提供给他的解释框架**（不是他的问题，是这个世界的节奏）。这与 ch20 里 Masha 自己的表述（"我没时间处理来自过去的冲击波"）使用的是同一套词汇。留意"几天"变成五年的过程在本章是**直接跳过的**——作者不写他如何决定留下，因为**留下来的决定从来没有被做过**。
 
-> **原句 15:** He didn’t recognize Masha when he arrived at the house and a goddess in white walked out onto the veranda; a goddess who took him into her arms and said into her ear, “I will make you well.”
+> **原句 15:** He didn’t recognize Masha when he arrived at the house and a goddess in white walked out onto the veranda; a goddess who took him into her arms and said into his ear, “I will make you well.”
 
 **中文理解**：他到那座房子时没认出 Masha，一位穿白衣的女神走上阳台；一位女神把他抱进怀里，在他耳边说："我会把你治好的。"
 

@@ -29,6 +29,8 @@ modified: "2026-10-01"
 
 **中文理解**："我绝不会允许一个怀孕的女人服用那些药物，"Yao 说。"绝不会。""那她为什么一直说她是？"Masha 问。
 
+**关键词**：I would never have allowed a pregnant woman to take those substances（我绝不会允许一个孕妇服用那些物质）／Never.（绝不。）
+
 **为什么这样写**：全书对 Masha 这个人物最经济的一次刻画：Yao 关心的是一个孕妇的安全，Masha 关心的是这个谎的动机。作者让两个人在同一段里问完全相反的问题，而且不需要任何评论。
 
 **读者视角提示**：注意 Yao 的句子用的是完成时虚拟（would never have allowed），说明他在为自己辩护；而 Masha 的问题是本章被问了三次的那一句（原句 8、原句 9 附近）。
@@ -97,6 +99,8 @@ modified: "2026-10-01"
 
 **中文理解**："我给所有女人都做了妊娠测试，"Yao 说。"连年纪大的也做了。她没有怀孕。""那她为什么说她是？"Masha 又问了一遍。"我不知道，"Yao 说。他非常难过。几乎要哭了。"这样她就能告我们给她用药，"Delilah 说。
 
+**关键词**：I did pregnancy tests for all the women（我给所有女人都做了孕检）／Even the older women.（连年纪大的女人也做了。）／She’s not pregnant.（她没怀孕。）
+
 **为什么这样写**：三个人的三种反应被精确分配：Yao 用程序（测试）回答，Masha 用动机追问，Delilah 直接给出最坏的商业解释。作者让最专业的回答属于最道德的人，而最正确的猜测属于最不在乎的人。
 
 **读者视角提示**：注意 Yao 说"连年纪大的也做了"——这是本章唯一一次提到测试的伦理问题，而它被当作尽职的证据说出来。
@@ -104,6 +108,8 @@ modified: "2026-10-01"
 > **原句 10:** "She doesn't need money." Masha gestured at the screen. "Like she said, money is no issue." Delilah shrugged and sighed. "Maybe she just wants to make a point, like: 'What if I was pregnant and you gave me drugs!'"
 
 **中文理解**："她不需要钱。"Masha 朝屏幕比划了一下。"就像她说的，钱不是问题。"Delilah 耸耸肩，叹了口气。"也许她只是想表明一个态度，比如说：'万一我怀孕了而你们还给我用药呢！'"
+
+**关键词**：She doesn’t need money.（她不需要钱。）／money is no issue（钱不是问题）
 
 **为什么这样写**：全章最好的一处对话节奏：Masha 还在用钱解释人的行为，而 Delilah 给出一个更简单的答案——姿态。作者让一个准备逃跑的人看得比她的老板清楚，因为她不需要维护任何东西。
 
@@ -263,6 +269,8 @@ modified: "2026-10-01"
 
 **中文理解**："我只是不确定这是对的，"Yao 焦躁地说。"把音量调大，"Masha 说。"显然我们一出去就有义务把这件事报告给警察，"一个女人说。"那是谁？"Masha 说。"Frances，"Yao 说，眼睛盯着屏幕。Frances 背对着他们。她在和 Lars 说话。"Frances！"Masha 说。"她很爱她的体验。她好像从中获益很多！"
 
+**关键词**：I’m just not sure that this is right（我只是不确定这是对的）／Obviously we’re obligated to report this to the police（显然我们有义务报警）
+
 **为什么这样写**：全章最残酷的一次对位：Masha 把音量调大，恰好听见她最宠爱的客人在讨论报警；而她对此的回答是"她很喜欢她的体验"。作者让反派在听证会上说的第一句话是替自己辩护。
 
 **读者视角提示**：注意 Frances 是背对着摄像头的（"Had her back to them"），作者让这个她曾当过"最有价值客人"的人在此以一个背影出现，这是全书对她与 Masha 关系的最后一次画面。
@@ -340,6 +348,8 @@ modified: "2026-10-01"
 > **原句 34:** Then Masha decided she wanted to do more than micro-dosing. She wanted to do something "revolutionary." She wanted to "push the envelope." She said they would be changing the course of history. Yao had argued. He didn't want to change the course of history. He just wanted to "help people." Masha said this would be helping people in a way that would truly change their lives forever.
 
 **中文理解**：然后 Masha 决定她要做的比微量用药更多。她想做一些"革命性"的事。她想"突破边界"。她说他们将改变历史的进程。Yao 争辩过。他不想改变历史的进程。他只想"帮助人"。Masha 说这会以一种真正永远改变他们生活的方式帮助人。
+
+**关键词**：revolutionary（革命性的）／push the envelope（突破常规）
 
 **为什么这样写**：全章的升级机制被写成一个词替换另一个词的过程："帮助人"被"改变历史的进程"收编。作者让 Yao 唯一一次反抗留在引号里（"帮助人"），也就是说连他的善良也是这套话语里的一种说法。
 

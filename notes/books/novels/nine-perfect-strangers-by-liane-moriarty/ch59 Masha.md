@@ -39,6 +39,8 @@ modified: "2026-10-01"
 
 **中文理解**："公案是一个导向开悟的悖论！"Masha 说。"公案证明了他们逻辑思维的不足！""我知道公案是什么，"Yao 慢慢地说。
 
+**关键词**：A koan is a paradox that leads to enlightenment!（公案是一个导向开悟的悖论！）／A koan demonstrates the inadequacy of their logical thinking!（公案证明他们的逻辑思维是不足的！）／I know what a koan is.（我知道公案是什么。）
+
 **为什么这样写**：全章最好的一句反驳，而它只有七个词。作者让 Yao 用"我知道公案是什么"来回应她的讲授，这既是对她居高临下语气的回击，也是本章他全部怀疑的唯一出口——他没有反驳她的方案，只反驳她的讲法。
 
 **读者视角提示**：注意 Masha 用感叹号为公案下定义，这是全书仅有的几处感叹号之一；作者一贯让她的情绪强度与判断准确性成反比。
@@ -67,7 +69,7 @@ modified: "2026-10-01"
 
 **中文理解**："他们在里面太久了，"Yao 说。"他们又饿又累。他们会失去理智的。""正是如此，"Masha 说。她自己到现在已经多少天没吃东西了，多到她记不清；而自从治疗的那一晚之前，她就没睡过。她用一根手指轻点他胸口正中。她知道自己对他的触碰有多大力量。她还没有充分利用那种力量，但必要时她会。
 
-**关键词**：She had not eaten now for more days than she could remember / she had not slept since the night before the therapy sessions / She knew the power of her touch on him. / She had not yet fully exploited that power but she would if necessary.
+**关键词**：She herself had not eaten now for more days than she could remember / she had not slept since the night before the therapy sessions / She knew the power of her touch on him. / She had not yet fully exploited that power but she would if necessary.
 
 **为什么这样写**：全章对 Masha 最不体面的一段：她自己的身体状况（不眠不食）被排在客人的饥饿之后，而她的反应是把那个当证据。作者让"触摸"变成一种明说的武器——本书从此不再需要读者猜她对 Yao 做了什么。
 

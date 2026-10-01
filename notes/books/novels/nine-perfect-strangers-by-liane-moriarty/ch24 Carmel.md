@@ -69,6 +69,8 @@ modified: "2026-10-01"
 
 **中文理解**："告诉我一些与你的体重无关的、关于你自己的事，"Masha 说。／"嗯，我有四个女儿，"Carmel 说。想到她们，她笑了。"她们分别十岁、八岁、七岁和五岁。"／"我已经知道了。你是个母亲，"Masha 说。"说点别的。"／"我丈夫离开了我。他现在有新女友了。所以那一直——"／Masha 烦躁地挥手把它赶开，仿佛它毫无相关性。"说点别的。"
 
+**关键词**：Tell me something about yourself that is not related to your weight（跟我说点与你的体重无关的事）
+
 **为什么这样写**：这段的节奏是**两次作废**，而技术要点在于**Carmel 交出的两样东西（母亲身份、离婚）都是她真实生活的全部内容，而 Masha 把它们逐一勾销**。作者用一个破折号（"所以那一直——"）把 Carmel 的半句话切断——**这是全书对"被剥夺表达权"最简洁的一次排版呈现。**
 
 **读者视角提示**：注意 Masha 的"我已经知道了"—**她手里有文件，所以 Carmel 的自我介绍永远迟到一步。** 留意"烦躁地挥手"这个动作与 ch23 里她对 Frances 的同一个动作（`flicked her hand`）完全一致：**同一个手势，两个女人，这是她的标准程序。**
@@ -116,6 +118,8 @@ modified: "2026-10-01"
 > **原句 11:** “Interesting,” said Masha. “Because right now you do not seem like a very loud person.” / “You should see me in the morning when I yell at my kids,” said Carmel. / “Why have I not seen this ‘loud’ Carmel? Where is she?” / “Um—we’re not allowed to speak?” / “That is a good point. But see—even then, when you make a very valid point, you said it like a question. You put this questioning sound at the end of your sentences. Like this? Your voice goes up? Like you are not really sure? Of everything you say?”
 
 **中文理解**："有意思，"Masha 说。"因为现在你看起来不像个很吵闹的人。"／"你该看看我早上吼孩子的样子，"Carmel 说。／"那我为什么没见到这个'吵闹的'Carmel？她在哪？"／"呃——我们不是不许说话吗？"／"那是个好观点。但你看——即使是那时，当你提出一个非常有力的观点时，你说得像个问句。你在句尾加上这个疑问的调子。像这样？你的声音往上扬？就像你不太确定？对你说的每一句话？"
+
+**关键词**：you do not seem like a very loud person（你看起来不像个很吵闹的人）／You should see me in the morning（你该看看我早上的样子）
 
 **为什么这样写**：这是本章的审判现场，而技术核心是**Masha 用一连串问句来指控对方用问句**——**指控的形式与指控的内容是同一件事**。而 Carmel 的反驳（"我们不是不许说话吗"）恰恰犯了被指控的错误（句尾上扬），**这段对白因此成了一个自我实现的判决。**
 
@@ -174,6 +178,8 @@ modified: "2026-10-01"
 > **原句 17:** Masha smiled. “Good. At first it will feel strange. You will have to fake it. But then you will remember. You will think, ‘Oh, that’s right, this is how I talk, this is how I walk. This is me, Carmel.’” She knocked her closed fist against her heart. “This is who I am.”
 
 **中文理解**：Masha 笑了。"很好。起初会觉得奇怪。你得假装。但之后你会想起来。你会想：'哦对，这才是我的说话方式，这才是我的走路方式。这就是我，Carmel。'"她用握紧的拳头敲了敲自己的心口。"这就是我是谁。"
+
+**关键词**：At first it will feel strange. You will have to fake it.（一开始会觉得奇怪。你得假装。）／But then you will remember.（但然后你会想起来。）
 
 **为什么这样写**：这是本章的理论核心，也是全书对"伪装疗法"最完整的一段阐述：**先假装，然后记起来。** 技术要点在于**她敲心口的动作**——一个身体手势被用来宣告一个身份命题。而"你得假装"这句坦白是惊人的：**她直接承认了这套方法论是表演。**
 

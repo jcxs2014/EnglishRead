@@ -29,6 +29,8 @@ modified: "2026-10-01"
 
 **中文理解**：连那些药都没有真正令她不安。事实是，如果 Masha 曾问"你想尝尝这杯掺了 LSD 的奶昔吗"，Frances 也许会说"好啊，为什么不"。她会被那些关于"研究"的说法打动，会因为 Yao 的急救员背景感到安心，会被一次超越性体验的可能性吸引，尤其是如果别人先说了"好"。（少年时她母亲曾对她说："要是你所有的朋友都从悬崖上跳下去，你也跳吗？"Frances 毫无心机地回答："当然。"）
 
+**关键词**：if Masha had asked, “Would you like to try this smoothie laced with LSD?”（如果 Masha 问"你想试试这杯加了 LSD 的奶昔吗？"）／“Sure, why not?”（"当然，为什么不呢？"）
+
 **为什么这样写**：全章最坦诚的一次自供：她承认自己会因为别人先同意而同意。作者用一句母亲的老话把这件事变成一个笑话，而这个笑话的机制（别人跳我也跳）正好解释了这一整间屋子里所有人的处境。
 
 **读者视角提示**：注意原文是在括号里给出母亲的问话——作者用排版把它标成一段插话，因此这段自我揭发同时也是一个写好笑的段子，这正是 Frances 处理羞耻的方式。
@@ -156,6 +158,8 @@ modified: "2026-10-01"
 > **原句 15:** "The crime is not relevant. We've all committed crimes, Zoe," said Masha. "I think you know that. No one is innocent." "You're a psychotic—" "So presumably you are the judge, Masha?" Napoleon spoke loudly over the top of his wife.
 
 **中文理解**："罪行不相干。我们都犯过罪，Zoe，"Masha 说。"我想你知道这一点。没有人是无辜的。""你是个精神病——""所以想必你就是法官了，Masha？"Napoleon 大声盖过他妻子的声音。
+
+**关键词**：We’ve all committed crimes（我们都犯过罪）／No one is innocent.（没有人是无辜的。）
 
 **为什么这样写**：全章最重要的一句话由反派说出："没有人是无辜的。"作者让这句话在上下文里既是真的（每个人都带着自己的罪疚）又是暴政（因此没有人可以申诉），而 Napoleon 用一句程序性的问题把它挡回。
 

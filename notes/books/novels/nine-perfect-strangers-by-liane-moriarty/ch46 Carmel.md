@@ -129,6 +129,8 @@ modified: "2026-10-01"
 
 **中文理解**："我感觉比我这辈子任何时候都糟，"Jessica 说。"你看吧，"Heather 满意地说。"那么，我感觉比我这辈子任何时候都好，"Carmel 说。这并不完全属实，还有牙齿的问题，但她确实感觉相当好。
 
+**关键词**：I feel worse than I’ve ever felt in my entire life（我感觉比这辈子任何时候都更糟）／There you go（这就对了）／Well, I feel better than I’ve ever felt in my entire life（我觉得比这辈子任何时候都好）
+
 **为什么这样写**：同一件事的三次表态排成一列，最后落在 Carmel 的自相矛盾上：她的"这辈子最好"减去一桩刷牙的小事就站不住了。作者用一个括号式的让步（there was the teeth situation）写出她说话的松散程度。
 
 **读者视角提示**：注意"with satisfaction"是本章唯一一次 Heather 情绪得到满足的时刻，而她满足于一个年轻人的痛苦陈述。

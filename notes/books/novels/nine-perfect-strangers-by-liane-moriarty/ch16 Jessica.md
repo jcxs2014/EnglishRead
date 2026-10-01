@@ -97,7 +97,7 @@ modified: "2026-10-01"
 
 > **原句 9:** That last hashtag would have made her look quite intellectual and spiritual, thought Jessica, which was good, because you had to be careful not to come across as superficial on your socials.
 
-**中文解读**：那最后一个标签会让她显得相当有智识、有灵性，Jessica 想，这很好，因为你得小心别在社交平台上显得肤浅。
+**中文理解**：那最后一个标签会让她显得相当有智识、有灵性，Jessica 想，这很好，因为你得小心别在社交平台上显得肤浅。
 
 **关键词**：intellectual and spiritual（有智识且有灵性）／superficial（肤浅的）
 

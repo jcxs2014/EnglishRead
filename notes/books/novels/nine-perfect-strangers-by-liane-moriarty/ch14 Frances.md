@@ -73,7 +73,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：整句是元小说式的挑刺：她在**评论**这本书的技术选择。括号里的"毕竟这是有力度的小说"是在模仿文学圈的口吻来嘲讽它。而真正的高潮是让那句粗俗台词原样出现——她不改写、不删节，直接摆在读者面前，让读者自己尴尬。
 
-**读者视角提示**：`I want to fuck you so bad.` 是全书最直白的性台词，它的功能不是情欲，是**对照**：中年男作家的幻想，与后面 Jessica 的"Touch me, please, please touch me"（ch07）形成镜像——一个是被满足的幻想，一个是被拒绝的真实需求。
+**读者视角提示**：`I want to fuck you so bad.` 是全书最直白的性台词，它的功能不是情欲，是**对照**：中年男作家的幻想，与后面 Jessica 的"Touch me, she thought, and in her head it was an anguished wail. Please, please touch me."（ch07）形成镜像——一个是被满足的幻想，一个是被拒绝的真实需求。
 
 > **原句 7:** Frances, who had reached her limit, threw the book across the room. In your dreams, buddy!
 
@@ -323,7 +323,7 @@ modified: "2026-10-01"
 
 **为什么这样写**：整章以她"立刻入睡"结束、以她"倒抽一口气醒来"作结，中间只有一句话的空白。她用整整一章说服自己会没事（"我会瘦"、"我会走出"、"我是第一个走的"），而结尾只用三个词就否掉了这一切。
 
-**读者视角提示**：注意全书的章末策略：ch07 是"Touch me, please, please touch me"，ch11 是"Did someone go through our bags?"，这里是一声吸气。每一次收束都不是终点，而是把读者推向下一章的门。
+**读者视角提示**：注意全书的章末策略：ch07 是"Touch me, she thought, and in her head it was an anguished wail. Please, please touch me."，ch11 是"Did someone go through our bags?"，这里是一声吸气。每一次收束都不是终点，而是把读者推向下一章的门。
 
 ## 本章词汇
 

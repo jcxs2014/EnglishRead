@@ -79,6 +79,8 @@ modified: "2026-10-01"
 
 **中文理解**：烦人的是，你拥有的东西越好，你就越没法对它们放松。
 
+**关键词**：the better stuff you got, the less relaxed you could be about it（你得到的东西越好，你就越没法对它放松）
+
 **为什么这样写**：**本章对整容这件事给出的唯一解释**，而它出奇地克制。作者用一个日常的类比（走廊上贵得荒唐的新地毯——两个人都舍不得踩，客人穿着脏球鞋就大摇大摆走过去）来说明她的处境。**昂贵的东西制造的不是享受，而是持续的紧张**。
 
 **读者视角提示**：注意"新地毯"这个细节出现在她已经列了一串手术之后（牙齿、头发、皮肤、嘴唇、胸部）。**Jessica 也在本章末尾说："She had done everything there was to do."** 她已经把自己改造成了一件不敢随便使用的东西。
@@ -107,6 +109,8 @@ modified: "2026-10-01"
 
 **中文理解**："就像你打算用切奶酪的刀把我阉了。"
 
+**关键词**：Like you’re planning to cut off my balls with a cheese knife.（好像你打算用奶酪刀割掉我的蛋。）
+
 **为什么这样写**：本章唯一一句真正好笑的台词，而它出现在最窒息的时刻（她正陷在回忆里）。**这是本书处理关系的核心手法**：在最黑暗的缝隙里塞一句俏皮话，让读者和人物一起松一口气——然后再把气抽走。
 
 **读者视角提示**：注意 Jessica 的接话方式：`“I don’t even have a cheese knife,” said Jessica.`（我根本没有切奶酪的刀。）她在跟。**这就是他们婚姻里最好的一面：他们还能接住彼此。** 请记住这一点，后文会有代价。
@@ -134,6 +138,8 @@ modified: "2026-10-01"
 > **原句 13:** “It’s not like we don’t have any experience with that,” said Ben.
 
 **中文理解**："我们又不是没这方面的经验。"
+
+**关键词**：It’s not like we don’t have any experience with that（我们又不是对那件事毫无经验）
 
 **为什么这样写**：**一句话把五天沉默期变成了一个婚姻的判决**。Ben 说的是玩笑（前文他刚学完猴子叫），但 Jessica 的回答是 `“Very funny,”`（很好笑）——**而这句话在本章末尾被兑现了**：两人在半小时里坐着，一句话不说，"So the silence shouldn’t be too hard for us then."（那这沉默对我们应该不太难。）
 

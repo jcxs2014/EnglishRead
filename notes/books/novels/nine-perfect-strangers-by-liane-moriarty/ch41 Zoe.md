@@ -215,7 +215,7 @@ modified: "2026-10-01"
 
 **读者视角提示**：对照 ch26 里 Napoleon 记得的那把廉价皮带（Zach 用来上吊的），兄妹记得的是沐浴露，父亲记得的是皮带——本书对"遗物"的处理一向不体面。
 
-> **原句 21:** Zach pulled her close and whispered in her ear. “It was nothing to do with you. I didn’t do it to get at you.” He gripped his arm to make sure she got his point. “I wasn’t me.”
+> **原句 21:** Zach pulled her close and whispered in her ear. “It was nothing to do with you. I didn’t do it to get at you.” He gripped her arm to make sure she got his point. “I wasn’t me.”
 
 **中文理解**：Zach 把她拉近，在她耳边低语。"这跟你没关系。我不是为了气你才那么做的。"他握紧她的手臂，确保她明白这一点。"那不是真正的我。"
 
