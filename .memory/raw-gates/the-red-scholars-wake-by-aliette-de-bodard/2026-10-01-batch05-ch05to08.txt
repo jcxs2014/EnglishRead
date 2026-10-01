@@ -1,0 +1,46 @@
+# 门禁原始输出 2026-10-01 批次05（ch05/ch06/ch07/ch08/ch09，子代理产出 + 主会话返工）
+
+$ verify_quotes.py
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 81/81 引文可核实（100%）；完全干净文件 10/10；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+$ check_vocab.py
+词条行合计: 300
+
+--- FAIL (0) ---
+
+--- WARN (7) ---
+  ch01 bargains.md [基础] 基础档疑含超纲词「partnership」
+  ch07 judgement.md [基础] 基础档疑含超纲词「scavenger」
+  ch07 judgement.md [基础] 基础档疑含超纲词「corridors」
+  ch07 judgement.md [基础] 基础档疑含超纲词「bondsperson」
+  ch07 judgement.md [基础] 基础档疑含超纲词「prisoners」
+  ch08 fear.md [基础] 基础档疑含超纲词「bannerpeople」
+  ch08 fear.md [基础] 基础档疑含超纲词「distant heartbeat」
+
+$ check_chapter_quotes.py 5
+ch05 accountings.md: 8/8 in ch05 text
+$ check_chapter_quotes.py 6
+ch06 the citadel.md: 8/8 in ch06 text
+$ check_chapter_quotes.py 7
+ch07 judgement.md: 8/8 in ch07 text
+$ check_chapter_quotes.py 8
+ch08 fear.md: 8/8 in ch08 text
+$ check_chapter_quotes.py 9
+ch09 mother and son.md: 8/8 in ch09 text
+
+$ corruption_scan.py
+=== 编辑损坏扫描（the-red-scholars-wake-by-aliette-de-bodard）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+$ sweep_full.py
+  参照集：text/ 逐章（22 章，可定章） + epub 交叉验证
+  ✅ 本章命中 81 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+
+$ sweep_analysis_inline.py
+  参照集：text/（25 个提取件） + epub 交叉验证 ；扫 10 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：360 个表格行、318 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 324 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 6
