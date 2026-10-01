@@ -23,7 +23,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 前半句用 pale and bloodless 写颜色，后半句换 frail and puny 写体量；Olympians 一词把海里的东西抬到希腊神话的高度，而 human flesh 又把同类降回肉身。整句没有一个表示害怕的词，只有一组对比。
 
-**读者视角提示：** 同一天里水手给出的尺度是 the length of our longboats；别人先给数字，她再把数字换算成身体的对照。
+**读者视角提示：** 同一天里画家 Mr Rush 给出的尺度是 the length of our longboats；别人先给数字，她再把数字换算成身体的对照。
 
 > **原句 2:** "Look to the shore, said Belinda. Look at it, mistress. Every tree and shrub the same as far as you can see, and I’ll wager it’s the same were we to come all the way round and back to Port Jackson. It’s enough to send a person to Bedlam."
 
@@ -53,7 +53,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** their extent 与 the whims of the child 并排摆出：extent 是范围与边界，whims 是随兴的念头。她要争的正是这两者之间的距离——父亲认识的是他记忆里的女儿，不是她自称的那个人。
 
-**读者视角提示：** 这段写在谈论 Darwin 之后，而她刚被 Belinda 用 no one will speak for me 顶了一句。
+**读者视角提示：** 这段写在谈论 Darwin 之后，而它紧接在 Belinda 那句 Speak for yourself, mistress 后面——她顶回去，随即将话说死：No one will speak for me.
 
 > **原句 5:** "A manta, Miss Holliman. A species of ray. Edward Bancroft, the physician, has written about them. In Jamaica they are known as the sea-devil."
 
@@ -83,7 +83,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 她先让出 if 的假设，再用两个破折号把「其实没有证据」插进对方的推论里。safest 是行政语言，出现在一个刚在船上违抗军官的人口中；整句是论证，不是抗议。
 
-**读者视角提示：** 说完这句她下令 return to the ship；而同一个上午她还写过最想参加的就是 longboat 的 expedition。
+**读者视角提示：** 是她先下令 return to the ship，这句是紧跟着给出的理由；而更早的 8 月 28 日条目里，她还写过最想参加的就是 longboat 的 expedition。
 
 > **原句 8:** "This country robbed you of much, but it gave you one thing. You are immortal now."
 

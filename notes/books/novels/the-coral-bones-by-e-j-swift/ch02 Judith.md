@@ -41,7 +41,7 @@ modified: "2026-10-01"
 
 **关键词：** I did not mention that I had refused to leave
 
-**为什么这样写：** 全章唯一一处叙述者跳出讲述、承认自己省略了事实的地方，而且用括号把它压成一句附注。日记体在这里露出缺口：她清楚读者看不见被省掉的那部分。
+**为什么这样写：** 全章最直白的一处叙述者跳出讲述、承认自己省略了事实，而且用括号把它压成一句附注（另如她后来说自己没提母亲的盘算）。日记体在这里露出缺口：她清楚读者看不见被省掉的那部分。
 
 **读者视角提示：** 被省掉的正是她真正要说服父亲的那件事——理由不是安全，是她想去。
 
@@ -83,7 +83,7 @@ modified: "2026-10-01"
 
 **为什么这样写：** 前半句是被动的：必须被。后半句换成两个并列的塞入动作，把束身写成折叠被褥；as a winter quilt into a trunk 这个比较把「穿衣」和「装箱」并成同一件事。
 
-**读者视角提示：** 同一段紧接着的是 regrets lodged in our chests like a gumnut that never seeded；gumnut 这个意象在 Judith 自己的日记里反复出现——ch08 里 Pooke 拿它当玩笑，ch11 的最后一段又写了一次。
+**读者视角提示：** 同一段紧接着的是 regrets lodged in our chests like a gumnut that never seeded；gumnut 这个意象在 Judith 自己的日记里反复出现——ch08 里 Tucker 拿它当玩笑，ch11 的最后一段又写了一次。
 
 > **原句 8:** "Reader, Sydney is behind us, and my heart lifts."
 
