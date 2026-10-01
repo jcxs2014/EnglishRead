@@ -19,7 +19,7 @@ modified: "2026-10-01"
 
 ## 精读
 
-> **原句 1:** The skinny woman’s brittle smile cut her feeble explanation short.
+> **原句 1:** The skinny woman’s brittle smile cut her feeble explanation short. “We all are.”
 
 **中文理解**：瘦削女人的苦笑打断了她无力的解释。「我们都是家庭主妇。」
 
@@ -49,7 +49,7 @@ modified: "2026-10-01"
 
 **关键词**：a luxury compared to（跟……比算豪华）；nine men to a cell（九个人一间牢房）
 
-**为什么这样写**：九个男人怎么躺？答案只有两个词：In shifts.（轮班躺。）作者让恐怖用后勤的语言说出来——牢房的面积没有变，变的是它需要服务的酷刑容量。这段对话也教读者 Montluc 的度量衡：苦难按人头折算，尊严不在计量单位里。
+**为什么这样写**：九个男人怎么躺？原文的下一句只用两个词作答：In shifts.（轮班躺。）作者让恐怖用后勤的语言说出来——牢房的面积没有变，变的是它需要服务的酷刑容量。这段对话也教读者 Montluc 的度量衡：苦难按人头折算，尊严不在计量单位里。
 
 **读者视角提示**：把这句与 ch16 的「行李」黑话连读——同一个系统，一边用行李分类生死，一边用平方米计算人数。
 

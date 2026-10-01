@@ -7,7 +7,7 @@ modified: "2026-10-01"
 
 ## 本章导航
 
-**一句话概括**：化名两周后，Elaine 送完一批信件，在 traboules 暗道里被 Etienne 拦下面谈：Joseph 仍关在 Montluc 监狱、没有招供，而她此前的投递原来是忠诚测试。次日她按地址去书店接头，被 Nicole 领进安全屋，认识 Denise 与 Josette，学改键打字机的密码课与缝丝绸信件的手艺；席间她说出丈夫关在 Montluc——组里人立刻报出他的代号：Pierre。
+**一句话概括**：化名两周后，Elaine 送完一批信件，在 traboules 暗道里被 Etienne 拦下面谈：Joseph 仍关在 Montluc 监狱、没有招供，而她此前的投递原来是忠诚测试。次日她按地址去书店接头，被 Nicole 领进安全屋，认识 Denise 与 Josette，学改键打字机的密码课与缝丝绸信件的手艺；席间她说出丈夫关在 Montluc，问众人是否认识代号 Pierre——Josette 立刻接上：他做假证件。
 
 **情感弧线位置**：前段「任务完成」的松弛 → 暗道里「全是测试」的背刺感 → 安全屋手艺课的暖与踏实 → 结尾 Pierre 揭底后的翻涌：愧、悔、寒意交叠。
 

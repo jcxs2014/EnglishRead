@@ -43,7 +43,7 @@ modified: "2026-10-01"
 
 ---
 
-> **原句 3:** “Say something, and don’t you dare tell me to be patient again.
+> **原句 3:** “Say something, and don’t you dare tell me to be patient again. I won’t accept it. Not again.”
 
 **中文理解**：「说话啊——但你敢再叫我『耐心等等』试试。我不接受。再也不接受了。」
 

@@ -57,7 +57,7 @@ modified: "2026-10-01"
 
 > **原句 4:** “But our job is to gather new recruits, not turn them away by informing them that General de Gaulle’s most trusted man was tortured to death by Hauptsturmführer Barbie.”
 
-**中文理解**：「可我们的任务是吸收新兵，不是把人吓跑——要是登出去，告诉大家 de Gaulle 将军最信任的人在 Hauptsturmführer Barbie 手下被折磨至死，我们的支持只会流失，不会增加。」
+**中文理解**：「可我们的任务是吸收新兵，不是把人吓跑——要是登出去，告诉大家 de Gaulle 将军最信任的人在 Hauptsturmführer Barbie 手下被折磨至死。」
 
 **关键词**：gather new recruits（吸收新兵）；tortured to death（被折磨至死）
 
