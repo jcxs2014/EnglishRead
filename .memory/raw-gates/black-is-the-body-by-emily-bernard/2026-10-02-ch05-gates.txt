@@ -1,0 +1,74 @@
+# ch05 Mother on Earth 门禁原件 2026-10-02
+
+$ check_vocab_rows.py (自建，一次性)
+---- 55/55 词条行通过
+
+$ corruption_scan.py
+
+=== 编辑损坏扫描（black-is-the-body-by-emily-bernard）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+$ verify_quotes.py --full
+ch01 Beginnings.md: 10/10 ✅
+ch02 Scar Tissue.md: 9/9 ✅（另有 1 条短引语未校验）
+ch03 Teaching the N-Word.md: 9/9 ✅（另有 1 条短引语未校验）
+ch04 Interstates.md: 10/10 ✅
+ch05 Mother on Earth.md: 10/10 ✅
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 48/48 引文可核实（100%）；完全干净文件 5/5；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+$ check_vocab.py
+词条行合计: 238
+
+--- FAIL (0) ---
+
+--- WARN (0) ---
+
+$ check_entities.py
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+$ sweep_full.py --quiet
+=== 引语整串 flat 比对（black-is-the-body-by-emily-bernard）===
+  参照集：text/ 逐章（13 章，可定章） + epub 交叉验证
+  ✅ 本章命中 48 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+
+$ check_chapter_quotes.py 05
+⚠️  全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 48，命中本章 48（100%）
+✅ 全部引语均归属正确章节
+
+$ check_short_quotes.py
+=== 短引语兜底核对（black-is-the-body-by-emily-bernard）===
+  verify_quotes 跳过（<20 flat 字符）的引语：2 条 —— 这些主门禁**根本没查**
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+$ audit_structure.py --quiet
+=== 精读结构扫描（black-is-the-body-by-emily-bernard）===
+  扫 5 个 md、50 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+$ sweep_analysis_inline.py --quiet
+=== 分析层行内英文逐字核查（black-is-the-body-by-emily-bernard）===
+  参照集：text/（13 个提取件） + epub 交叉验证 ；扫 5 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：296 个表格行、226 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 393 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 1 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 156
+
+$ audit_numbers.py --quiet
+=== 计数断言核查（black-is-the-body-by-emily-bernard）===
+  扫 5 个 md；抓到断言 21 条（含不可机械核查的年龄/百分比 4 条）
+  词数口径：连写算 1 词（`well-known`=2、`don't`=1）—— 差 1 极可能是口径而非错误
+  ❌ 不符（差 ≥2）0 ｜ ⚠️ 差 1 0 ｜ ❓ 参照串未解析未判 17 ｜ ⚪ 不可机械核查 4
+
+$ check_anchor.py
+=== 关键词锚定自查（black-is-the-body-by-emily-bernard）===
+  扫 5 个 md，50 个引语块，50 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（13 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
