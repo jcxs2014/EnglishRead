@@ -22,7 +22,7 @@
 
 - **中文理解**：那栋楼 1932 年建成时是一座现代的 Lutheran Hospital。1971 年它被改成养老院，可看来医院的人并没有全走。那个鬼的身份被认为是那位「oversykepleier」，也就是护士长——医院以前的一名雇员。她的存在不只能感觉到，还能闻到，因为伴随它的是一股旧香水的气味，eau de Cologne 4711。这个灵从未伤害过谁，可有些工作人员对她在场感到不安，不安到有人拒绝在夜里上班。为解决这件事，神父被请了来。在一场安静的仪式里，神父为这栋楼祝福，想把她从这儿赶走。管理者们认为自己的处置正确，祝福之后便没有再报告过这位护士长的在场。
 - **关键词**：The building was erected in 1932 as a modern Lutheran Hospital / In 1971, it was converted to the nursing home / but it appears that not all of the hospital staff has left / The identity of the ghost is believed to be that of an / a past employee of the hospital / Her presence not only can be felt but smelled / as it is accompanied by the odor of an old perfume / the spirit has never harmed anyone / some of the staff have become uncomfortable with her presence / have refused to work at night / In a quiet ceremony, the priest blessed the home / in an attempt to rid it of its spirit / Administrators feel that they have taken the correct action / have not reported the nurse's presence since the blessing
-- **为什么这样写**：作者用 not all of the hospital staff has left 把「人都走了」与「还有人」留在一句里，**而 not only can be felt but smelled 用一对 not only ... but ... 把她的存在从触觉推到嗅觉**。结尾 has not reported since the blessing 用完成时把此后的安静写成一种选择，不是一种解决。
+- **为什么这样写**：作者用 not all of the hospital staff has left 把「人都走了」与「还有人」留在一句里，**而 not only can be felt but smelled 用一对 not only ... but ... 把她的存在从触觉推到嗅觉**。结尾 have not reported the nurse's presence since the blessing 用完成时把此后的安静写成一种选择，不是一种解决。
 - **读者视角提示**：那位护士长的姓名与离职原因，**本篇都没说**。
 
 ## 本章词汇

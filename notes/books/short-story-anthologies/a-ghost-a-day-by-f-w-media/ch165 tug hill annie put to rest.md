@@ -16,7 +16,7 @@
 - **中文理解**：1954 年，Anna J. Machowski Tebidor 的生命以惨烈方式结束。Anna 与朋友 Jan 在本地一家店买了酒，开着一辆 1949 年的 Studebaker 卡车回程；途中 Anna 犯了一个致命的错误——车开得太快，过不了 Sears Pond Road 那个急弯。卡车翻过来扣在邻近的田里。一个目击事故的年轻男子赶到现场，发现 Jan 倒在车旁：虽说他还活着，身体却多处淤伤且快要休克。Anna 没她朋友那么幸运——她的身体一动不动，手臂垂在身侧，而她被切下的头躺在六英寸外。
 - **关键词**：gruesome / flipped / adjacent / witnessed / bruised / severed head
 - **为什么这样写**：作者用 The truck flipped, landing on its roof in an adjacent field 一句把翻车写成一次落点，**而 Her body was still, arms by her side, while her severed head lay six inches away 用一个 while 把身与首分成一静一躺两个位置**。落点写进了田里，头与身体之间的距离也写了。
-- **读者视角提示**：she was going into shock 指将要休克，**本篇没说他后来如何**。
+- **读者视角提示**：he was going into shock 指将要休克，**本篇没说他后来如何**。
 
 > **原句 2:** "In August 2008, a group of paranormal investigators, having heard the tales of her ghostly presence, decided to go looking for Anna. And although they expected to find no paranormal activity, they were soon convinced that the rumors of Anna's existence were not rumors at all. Although none of their team had been walking around, they all heard gravel crunch as if it was being walked on. Strange mists and light anomalies appeared in their photos. The mists, oddly enough, contained facial features that matched Anna's picture."
 

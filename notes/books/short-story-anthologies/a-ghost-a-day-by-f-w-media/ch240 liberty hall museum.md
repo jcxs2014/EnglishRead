@@ -22,7 +22,7 @@
 
 - **中文理解**：她猛然惊醒，发现一个女人站在壁炉旁；吓得躲进被子里。等她鼓起勇气偷看一眼，那个女人已经没了——化作一阵清风消失。许多在那间闹鬼卧室睡过的人有过类似经历。还有别的访客报告说，看见「灰衣夫人」从楼上的窗户朝外张望。一位持怀疑态度、想为这些怪事找个解释的大学教授在此住了一夜；出乎他意料，他被肩上轻轻一触弄醒，睁开眼正对上一位透明的女人朝他微笑。那一夜之后，这位教授对超自然的看法被「灰衣夫人」改变了。
 - **关键词**：She awoke with a start to find a woman standing next to the fireplace / She was so terrified she hid beneath her covers / When she regained her courage, she stole a peek / but the woman was gone / She'd vanished into thin air / Many visitors who have slept in the haunted bedroom have had similar experiences / seeing “The Lady in Gray” peering out of the upstairs windows / A skeptical college professor in search of an explanation for the odd occurrences / he was awakened by a gentle touch upon his shoulder / confronted by the transparent image of a woman smiling down at him / The professor's perception of the paranormal was changed that night
-- **为什么这样写**：作者用 stole a peek 一句写出偷看的那一瞬，**而前后两句是 terrified 与 gone——怕的时候看不见，敢看的时候已经不在**。全篇最见结构的是末段：skeptical college professor 一路带着「来找解释」的目的进来，**而他带走的是一句 perception was changed——一个来解释的人，最后成了被改变的人**。
+- **为什么这样写**：作者用 stole a peek 一句写出偷看的那一瞬，**而前后两句是 terrified 与 gone——怕的时候看不见，敢看的时候已经不在**。全篇最见结构的是末段：skeptical college professor 一路带着「来找解释」的目的进来，**而他带走的是一句 the professor's perception of the paranormal was changed——一个来解释的人，最后成了被改变的人**。
 - **读者视角提示**：那位教授此后是否公开过这段经历、Margaretta 遗体究竟去了哪里，**本篇没写**。
 
 ## 本章词汇

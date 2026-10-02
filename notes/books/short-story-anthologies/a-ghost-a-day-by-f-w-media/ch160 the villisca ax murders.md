@@ -15,7 +15,7 @@
 
 - **中文理解**：第二天早上，一位邻居和 J. B. 的兄弟发现了他们毫无生气、沾满血迹的遗体。全家六口，连同那两个来做客的女孩，全被杀害。他们的头被斧头砸碎。
 - **关键词**：lifeless / blood-covered / slain / crushed
-- **为什么这样写**：作者用 a neighbor and J. B.'s discovered their lifeless, blood-covered bodies 一句用两个发现者对一群遗体，**而 All six family members, along with the two young girls who were visiting had been slain 用 along with 把来做客的也算进去**。发现的人与被害的人分成两拨，头被砸碎这一句单独立着。
+- **为什么这样写**：作者用 a neighbor and J. B.'s brother discovered their lifeless, blood-covered bodies 一句用两个发现者对一群遗体，**而 All six family members, along with the two young girls who were visiting had been slain 用 along with 把来做客的也算进去**。发现的人与被害的人分成两拨，头被砸碎这一句单独立着。
 - **读者视角提示**：Their heads crushed with an ax 指头被斧头砸碎，**本篇没说用的是哪种斧**。
 
 > **原句 2:** "The news of the massacre quickly spread through the town of 2,500. Before the police knew what was happening, the crime scene was compromised by curiosity seekers as hundreds of people walked through the Moore home, some even taking souvenirs as they left. The police had very little to go on. And although there were several suspects, the murders were never solved."

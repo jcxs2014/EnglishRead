@@ -23,7 +23,7 @@
 - **中文理解**：却不只是蜡像在惹事；博物馆的游客曾看见鬼影在蜡像之间移动；许多照片里出现奇异的异常，夜间拍摄时尤其如此。
 - **关键词**：witnessed / anomalies / night
 - **为什么这样写**：作者用 moving among the wax replicas 交代鬼影与蜡像的关系，**再用 especially when taken at night 把异常与时间绑定**。可重复的条件让异常显得可验证。
-- **读者视角提示**：Strange anomalies appeared in countless photos 指照片，**本篇没说异常具体是什么样子**。
+- **读者视角提示**：Strange anomalies have appeared in countless photos 指照片，**本篇没说异常具体是什么样子**。
 
 > **原句 3:** "intent on proving or disproving the validity of the haunting, requested to be locked in for the night by museum officials. When they opened the doors the next day, they found the cowering man was white as a ghost (no pun intended). With barely a word, he made a hasty retreat, never to be seen again"
 

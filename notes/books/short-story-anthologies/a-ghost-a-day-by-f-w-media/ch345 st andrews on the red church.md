@@ -66,6 +66,10 @@
 | church's organ | 教堂的风琴（自行演奏的） | The church's organ is known to play of its own accord, and a woman in white appears in the balcony at services. |
 | mysterious appearance | 神秘的现身方式 | Or is it a plea from the ghosts to unravel their mysterious appearance? |
 
+**附：原文 TERRIFYING TIDBIT**
+
+Many religions and cultures believe dreams to be a way to connect the physical world with the ethereal world, or the supernatural.
+
 ## 一句话总结
 
 本篇先用 of its own accord 把自动演奏归给风琴自己、再用单数 follows 收住了一双眼睛，随后把警告与求助写成两个并排的问句，最后用 unravel 把解开现身方式写成一项待办。

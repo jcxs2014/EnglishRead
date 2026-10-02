@@ -23,7 +23,7 @@
 - **中文理解**：在 England，绞架被建在交叉路口上。这样做是希望迷惑那些被绞死者的鬼魂，以防他们决定返回并重新造访那些取走他们性命的人。
 - **关键词**：crossroads / confusing / revisit
 - **为什么这样写**：作者用 in the hope of confusing 把选址写成一项针对鬼魂的措施，**而理由句里的 who 一直指到执行者那一方**。鬼魂要 revisit 的是取他们性命的人，路口为的是让他们认不出路。
-- **读者视角提示**：本篇没说这项做法是否奏效，**只说 was built at crossroads**。
+- **读者视角提示**：本篇没说这项做法是否奏效，**只说 gallows were built at crossroads**。
 
 > **原句 3:** "Dark shadows roam around the weathered gibbet accompanied by hideous moans. But even in broad daylight many have been terrorized by a cloaked figure with a skull for a head"
 

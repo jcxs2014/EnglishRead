@@ -2,7 +2,7 @@
 
 ## 本章导航
 
-- **一句话概括**：两位伦敦摄影师——Indre Shira 先生与 Provand 上尉——受 Country Life 杂志聘请，为即将出版的期刊拍摄 Raynham Hall。下午四点左右，Indre 惊呼他看见一个戴面纱的身影正走下楼梯，便请 Provand 拍一张。尽管上尉自己什么也没看见，他还是照朋友的要求拍下了那段楼梯。底片冲洗出来后，上面显出一个诡异、发着荧光的女人正走下橡木楼梯。这张照片于 1936 年刊登在 Country Life 上，此后它成了鬼魂存在之最佳摄影证据的通称。但照片里那个身影究竟是谁？多数人认为那就是 Lady Dorothy Townshend，也被称为「褐衣夫人」。她是 Raynham 的第二代 Viscount Charles Townshend 的妻子。她于 1726 年去世并下葬，但有传闻说棺材是空的。有人怀疑 Charles 怀疑妻子不忠，便伪造了葬礼，把她锁在 Raynham Hall 一个偏僻的角落里直到她死去。多年来好几位知名人物都见过「褐衣夫人」，其中包括国王 George IV。甚至还有一次报告，说有两位到访这座宅邸的访客被那道鬼影吓得朝她开了一枪——当然，结果收效甚微。
+- **一句话概括**：两位伦敦摄影师——Indre Shira 先生与 Provand 上尉——受 Country Life 杂志聘请，为即将出版的期刊拍摄 Raynham Hall。下午四点左右，Indre 惊呼他看见一个戴面纱的身影正走下楼梯，便请 Provand 拍一张。尽管上尉自己什么也没看见，他还是照朋友的要求拍下了那段楼梯。底片冲洗出来后，上面显出一个诡异、发着荧光的女人正走下橡木楼梯。这张照片于 1936 年刊登在 Country Life 上，此后它成了鬼魂存在之最佳摄影证据的通称。但照片里那个身影究竟是谁？多数人认为那就是 Lady Dorothy Townshend，也被称为「褐衣夫人」。她是 Charles Townshend 的妻子，Charles Townshend 是 Raynham 的第二代子爵。她于 1726 年去世并下葬，但有传闻说棺材是空的。有人怀疑 Charles 怀疑妻子不忠，便伪造了葬礼，把她锁在 Raynham Hall 一个偏僻的角落里直到她死去。多年来好几位知名人物都见过「褐衣夫人」，其中包括国王 George IV。甚至还有一次报告，说有两位到访这座宅邸的访客被那道鬼影吓得朝她开了一枪——当然，结果收效甚微。
 - **篇目日期**：SEPTEMBER 19, 1936（标题所载日期，即照片刊登之年）
 - **事件年代**：照片拍摄之日未给；1726 年 Lady Dorothy 下葬；1936 年照片刊登；标题日期为 1936 年
 - **地点**：Norfolk, England（Raynham Hall 的楼梯与橡木阶梯）
@@ -20,7 +20,7 @@
 
 > **原句 2:** "Most believe it is Lady Dorothy Townshend, also referred to as “The Brown Lady.” She was the wife of Charles Townshend, second Viscount of Raynham. She died and was buried in 1726, but there are rumors that the coffin was empty. Some suspect that Charles, believing that his wife had been unfaithful, faked the funeral and kept her locked up in a remote corner of Raynham Hall until she died."
 
-- **中文理解**：多数人认为那就是 Lady Dorothy Townshend，也被称为「褐衣夫人」。她是 Raynham 的第二代 Viscount Charles Townshend 的妻子。她于 1726 年去世并下了葬，但有传闻说棺材里是空的。有人怀疑 Charles 疑心妻子不忠，便伪造了葬礼，把她锁在 Raynham Hall 一个偏僻的角落里，直到她死去。
+- **中文理解**：多数人认为那就是 Lady Dorothy Townshend，也被称为「褐衣夫人」。她是 Charles Townshend 的妻子，Charles Townshend 是 Raynham 的第二代子爵。她于 1726 年去世并下了葬，但有传闻说棺材里是空的。有人怀疑 Charles 疑心妻子不忠，便伪造了葬礼，把她锁在 Raynham Hall 一个偏僻的角落里，直到她死去。
 - **关键词**：Most believe it is Lady Dorothy Townshend / also referred to as “The Brown Lady” / She was the wife of Charles Townshend, second Viscount of Raynham / She died and was buried in 1726 / but there are rumors that the coffin was empty / Some suspect that Charles, believing that his wife had been unfaithful / faked the funeral and kept her locked up in a remote corner of Raynham Hall / until she died
 - **为什么这样写**：作者用 She died and was buried 一句先给一个正常的死亡，再接 but there are rumors that the coffin was empty——**两个事实中间只隔一个转折词，读者被迫自己决定信哪一个**。而 faked the funeral 这一层更狠：不是死不见尸，是葬礼本身就是假的，**被下葬的那天站在灵柩旁的并不是她**。
 - **读者视角提示**：她究竟死在 1726 年还是更晚、Charles 后来的下场，**本篇没写**。

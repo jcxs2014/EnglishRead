@@ -16,7 +16,7 @@
 - **中文理解**：据网站 In Pure Spirit，一家人被一个鬼吓得够呛，跑去 Hartlepool 的 St. Paul's Church 求救。那位母亲接五岁的孩子放学回家，发现自己十三岁的儿子蜷成一团倒在自家前门外。据说，这年轻人当时在家听音乐，有某个看不见的东西把他从腿上提起来，拖过地板，然后甩到前门台阶上。
 - **关键词**：terrorized / fetal position / allegedly / unseen / dragged / stoop
 - **为什么这样写**：作者用 Allegedly 一句把整个过程降成据说，**而 something unseen lifted him up by the leg 用 by the leg 把施力点写成一个部位**。看不见的是那个东西，看得见的是被提的那条腿。
-- **读者视角提示**：while listening to music 指听音乐时，**本篇没说听的是什么**。
+- **读者视角提示**：in the home listening to music 指在家听音乐时，**本篇没说听的是什么**。
 
 > **原句 2:** "The attack lasted for at least five minutes. Based on the heavy breathing he'd felt while being dragged through his living room, the young man believed the entity was male. When the mother found her son, she helped him up. Together they tried the door, but it was locked. After unlocking it, they attempted to enter, but the sound of banging from within had them quickly running for safety."
 
