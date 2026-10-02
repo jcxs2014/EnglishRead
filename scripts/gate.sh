@@ -86,7 +86,12 @@ for f in sorted(glob.glob(f"{book}/ch*.md"), key=lambda x: int(re.search(r"ch(\d
         tiers = re.split(r"(?m)^### ", v.group(1))[1:]
         for ti in tiers:
             rows = [x for x in ti.split("\n") if x.startswith("| ") and "词/短语" not in x and not x.startswith("|---")]
-            if not rows:
+            # ⚠️ 2026-10-02 修正（The Whispers 终验实测 ch41 假红）：空档的**既有先例**
+            #    是写一行中文说明（`（本章无高级词条）` / `（本章过短，无基础词条）`），
+            #    原判据只认表格行 ⇒ 合法空档被报「只有表头没有词条」。
+            #    **只放行独立成行的中文括号说明**；表格占位行（`| （本章无X词） | | |`）
+            #    仍判红——它会被 check_vocab 判 FAIL，不是合法写法。
+            if not rows and not any(re.fullmatch(r"\s*（本章[^）]*）\s*", x) for x in ti.split("\n")):
                 print(f"❌ {n}: 词表档位「{ti.splitlines()[0].strip()}」只有表头没有词条")
                 bad += 1
         break
