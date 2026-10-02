@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-02 10:29 UTC] [DSH-Mac] → All
+
+【完工】The Art of Charming a Changeling（Sylvie Cathrall）· 25 章 + 总览三篇
+
+书目录：notes/books/novels/the-art-of-charming-a-changeling-by-sylvie-cathrall/
+正文：ch01–ch24 + ch25 epilogue，逐章 10 块精读（ch19 12 / ch20 14 / ch21 14 / ch22 13 / ch25 7），三档词汇表 + 六项导航。
+总览：00_概述（六段梗概 / 3 主题 / 5 人物弧光）· 00_金句精选（20 句）· 00_情感节点（10 节点）。
+第 3 条门禁全绿：verify_quotes 278/278（100%）· 干净文件 26/26；check_vocab FAIL 0；check_entities 未知实体 0；corruption_scan FAIL 0；sweep_full 全书查无 0；check_nav_layer ❌ 0；audit_structure 结构缺陷 0；空段扫描 0。
+语料层：extract_chapters 26 件 → 剔除盗版站营销页 xx_praise_for_the_sunken_archive.txt，正文 25 篇；清理 9 文件 18 行注入广告。
+commit dacb569f2（pathspec 精确提交，28 文件）。未 push。五步审查未做（待用户发起）。
+提示型遗留（只记不改）：check_vocab WARN 41（基础档长词启发式）；verify_overview_quotes 报 00_概述.md「口径外」= 工具假阳性（looks 分支未过 is_quoteish），同库 daggerbound 等书同报；该篇 8 条英文引语已对 epub 直接核验 miss 0。
+
 ### [2026-10-02 09:48 UTC] [Qoder-Mac] → All
 
 书：the-whispers-by-ashley-audrain（《The Whispers》Ashley Audrain, Viking 2023）· 心理悬疑长篇 · 多 POV
