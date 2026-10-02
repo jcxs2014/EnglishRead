@@ -104,12 +104,14 @@ commit（均未 push）：0b12ed4c7 工具 · 5e270cd3d ch01 · d466c3c08 ch02�
 
 书：the-teacher-by-freida-mcfadden（《The Teacher》Freida McFadden 悬疑长篇，完整 lane）
 
-- **完工**：82 件精读（ch00 序幕 + ch01–ch80 + ch81 Epilogue，三 POV：Eve/Addie/Nate）+ 总览三篇（概述/金句25/情感节点10），共 85 md；56 commits（含总览与 raw-gates），**未 push（待用户指令）**。
-- **语料层**：无 toc.ncx，按 OPF spine 逐件建映射重排 82 件、零偏移；初提混入 Contents/Acknowledgments/Never Lie 三件非正文已删；verify_corpus PASS（件数 82=82 + POV 锚点 81 组 + shared 豁免）。
-- **第 3 条门禁（gate.sh 全绿，GATE_EXIT=0）**：verify_quotes 582/582（100%·干净 83/83）｜check_vocab FAIL 0（WARN 均为基础档 ≥9 字符启发式，提示型）｜entities 0｜corruption_scan 0｜sweep_full 559 命中/0 跨章/0 拼接/0 查无｜check_chapter_quotes 逐章 82/82 本章归属｜块覆盖 82 文件每块进校验｜nav 层 ❌0｜audit_structure 0 缺陷｜check_anchor 凭空造词 0｜空段 0｜总览 verify_overview_quotes 54/54 + check_overview_full 整串 0 查无/标签 0 不符/H1 0 错配。
-- **过程中自查修掉的真实缺陷**（均已复跑全绿）：ch24 引语「Well→I mean」词替换；ch63 三处（时态伪造 sounds→sounded、跨段拼接 ×2）；ch80 诗块多行格式被 audit_structure 判 8 孤儿块 → 单行化归 0；ch77 结构层 Part 引用改中文清 entities。
-- **流程违规留档**：ch24、ch63 两批曾在门禁非全绿时抢跑提交（commit 消息含误写数字），已各补一笔修正提交并在该笔消息内记录。
-- **五步审查未做（待用户发起）**；原始门禁输出见 `.memory/raw-gates/the-teacher-by-freida-mcfadden/`（两份 txt 已入库），细账见工作日志 2026-10-02「The Teacher」条目。
+- **完工**：82 件精读（ch00 序幕 + ch01–ch80 + ch81 Epilogue，三 POV：Eve/Addie/Nate）+ 总览三篇（概述/金句25/情感节点10），共 85 md；语料层 verify_corpus PASS（无 toc.ncx，按 OPF spine 逐件建映射重排 82 件零偏移，初提混入 Contents/Acknowledgments/Never Lie 三件非正文已删）。
+- **五步审查 a–e 全跑完成（用户同会话发起）：整改 43 处阻断型 + 8 处编辑污染，终验 gate.sh GATE_EXIT=0 全绿。**
+- **门禁全绿却查出真缺陷的三个盲区**（`audit_structure` 报 0 却被第二实现揭穿，印证「多数派推断是假阴性高发点」）：① 子项标签不统一（59 章 `**关键词语**` 变体与 24 章 `**关键词**` 并存被多数派吸收）⇒ `check_struct_indep` 缺陷 **455→0**（另 39 章缺进阶空档标注、10 章缺基础空档）；② flat 比对忽略段落边界，5 条引语把两个独立自然段缝成一条（禁令 5），`verify_quotes`/`sweep_full` 全放行、`check_block_keywords` raw 检查逐条抓出；③ 17 条关键词为近义改写（9b 中译英，如 `no boyfriend` vs 引语 `I have a boyfriend`）。
+- **跨章引用章号指错 11 处**（`check_xref_indep` 4 + 纪律 2 自查 148 处 2 + 三批子代理 5），含**总览事实错 3 处**（情感节点误把反杀同谋写作 Hudson 实为 Jay；印痕时机错记为填土时实为厨房裹尸前；概述把 Addie 的「我不确定杀她的是不是我」写成 Eve 的觉醒第三层）。
+- **人物关系错 1 处（最重）**：ch81 尾声分析写「Jay＝Hudson」——`ch80_chap80.txt` 全文 **0 次 Hudson**，击晕与填土全程是 Jay。｜**计数断言错 25 条**（`N 个词` 手数普遍少数 1–2 词），按禁令 2 **删计数限定词**而非改数字。｜**事实无据 1 处**（ch28「母亲的淤青」全书 0 次 bruise）｜**语义错位 4 处**（门把「锁死」原文当场解答只是卡住；放学条无「别熬夜」；ch04/ch21 引语截短）。｜**编辑污染 8 处**（中文里混入未翻译英文 Transaction/hypothetical/irony/belonged to the body、西里尔字母 впервые、`« »` 引号）。
+- **审查期自身违规 1 起**：批量修 ch51 时误用跨块贪婪正则致文件 148→42 行截断（AGENTS 9g 同型）——`git checkout` 回滚后行级重做。
+- **终态**：verify 582/582·vocab FAIL 0·entities 0·corruption 0·sweep 0 异常·analysis 672 逐字 🟠0·structure 0 缺陷（两实现）·anchor 凭空造词 0·空段 0·总览 54/54 + 章节标签 0 不符 + H1 0 错配；md==text 82=82；基线 struct_indep 455→0、block_keywords 76→1、xref_indep 8→4（余项全为撇号形态假红，源码验证）。
+- 原始逐行门禁输出见 `.memory/raw-gates/the-teacher-by-freida-mcfadden/`（4 份已入库），细账见工作日志 2026-10-02 同书条目。**未 push（待用户指令）。**
 
 ### [2026-10-02 10:29 UTC] [DSH-Mac] → All
 
