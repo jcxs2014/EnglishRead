@@ -47,7 +47,7 @@ modified: "2026-10-02"
 
 > **原句 4:** He won them over in the end (Annie + Will forever), but the petition with the final tallies is framed and hanging in The Diner alongside the picture of Dolly Parton posing with the town. And I do mean the majority of the town. They heard she had stopped in for lunch while passing through, and one person called another who called their cousin who called their best friend who called their aunt’s boyfriend, and they all showed up for one huge group photo.
 
-**中文理解**：他最后还是说服了他们（Annie 和 Will 永远在一起），但那份请愿书连同最终得票数，被装裱起来挂在 The Diner 的墙上，就挂在多莉·帕顿与小镇的合影旁边。而且我说的确实是「大多数」镇民。他们听说她曾顺路进来吃了个午饭，于是一个人打给另一个人，那人打给表亲，表亲打给最好的朋友，朋友打给姑妈男朋友的男朋友——最后全体到场拍了一张大合照。
+**中文理解**：他最后还是说服了他们（Annie 和 Will 永远在一起），但那份请愿书连同最终得票数，被装裱起来挂在 The Diner 的墙上，就挂在多莉·帕顿与小镇的合影旁边。而且我说的确实是「大多数」镇民。他们听说她曾顺路进来吃了个午饭，于是一个人打给另一个人，那人打给表亲，表亲打给最好的朋友，朋友打给姑妈男朋友——最后全体到场拍了一张大合照。
 
 **关键词**：the petition with the final tallies（那份写着最终得票数的请愿书）、I do mean the majority of the town（我说的是大多数镇民）、one person called another who called their cousin（一个人打给另一个人，那人打给表亲）
 
@@ -83,11 +83,11 @@ modified: "2026-10-02"
 
 **为什么这样写**：八卦的升温靠的是身体的朝向而不是台词——作者写 Hannah 把身体侧过来（angles her body toward us），再让她抛出一个带反问的推测。abandons all pretense of styling 用「放弃装样」写她的失态，比直接说她兴奋更刻薄，也顺带把美发师的职业身份再钉一次。
 
-**读者视角提示**：这一问之后，Shirley 抛出「他们已经分手了」的消息——三条消息（不结婚、已分手、婚礼取消）由三个不同的人分三次投放，节奏由此被拉长；Emily 的反应也被摊在众人眼皮底下，无处可藏。
+**读者视角提示**：这一问之后，Shirley 抛出「他们甚至已经不再在一起了」的消息——三条消息（今天不结婚、已经分手、婚礼取消）由三个不同的人分三次投放，节奏由此被拉长；Emily 的反应也被摊在众人眼皮底下，无处可藏。
 
 > **原句 8:** She isn’t wrong, but most important (or less depending on how you look at it), I just want to get moving so I can stop thinking about Jack Bennett and wondering if he’s okay after his failed engagement—even though I’ll never see him again. Even though I often would have chosen to pluck my eyelashes out one by one instead of interacting with him. Even though he didn’t say goodbye to me.
 
-**中文理解**：她还没错，只是（看你怎么想）眼下最重要的是：我只想赶紧走，好停止想 Jack Bennett，停止琢磨他婚事失败之后过得好不好——尽管我再也见不到他了。尽管我从前宁愿把眉毛一根一根拔光，也不想和他打交道。尽管他走的时候连一声招呼都没跟我打。
+**中文理解**：她还没错，只是（看你怎么想）眼下最重要的是：我只想赶紧走，好停止想 Jack Bennett，停止琢磨他婚事失败之后过得好不好——尽管我再也见不到他了。尽管我从前宁愿把睫毛一根一根拔光，也不想和他打交道。尽管他走的时候连一声招呼都没跟我打。
 
 **关键词**：stop thinking about（停止想）、wondering if he’s okay（琢磨他是否安好）、Even though（尽管）
 

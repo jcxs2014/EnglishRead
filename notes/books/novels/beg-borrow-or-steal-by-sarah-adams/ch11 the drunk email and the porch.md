@@ -7,11 +7,11 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：Emily 在妹妹爽约、醉酒独处的夜里把八十 thousand 字的手稿投给文学经纪人，一小时后才发现邮件发错了收件人——投给了学校那位最保守的校长 Bart Killick；她赤脚冲出门求救，而唯一被她认定「什么事都解决得了」的人，是那个她讨厌了十年的 Jack。
+- **一句话概括**：Emily 在妹妹爽约、醉酒独处的夜里把八万字的手稿投给文学经纪人，一小时后才发现邮件发错了收件人——投给了学校那位最保守的校长 Bart Killick；她赤脚冲出门求救，而唯一被她认定「什么事都解决得了」的人，是那个她讨厌了十年的 Jack。
 - **情感弧线位置**：转折（全书最重要的一次靠岸）——从上一章的「婚礼取消」推进到「把最丢人的秘密交到他手上」，两人十年敌意在这一夜被拆掉承重墙。
 - **Tropes 兑现/反转**：兑现「醉酒吐真言」与「死对头救场」；反转「求助＝示弱」——她奔向的是全罗马镇唯一能修好这件事的人，而这个人恰是她口口声声最恨的那位；同时兑现「抱错了就不撒手」的暧昧张力，两人整章未接吻。
-- **人物弧线**：Emily 从「我是所有人的utility sponge，被利用完就丢」走到「我需要的那个技能就是被人需要」——她冲出门、说破困境、被抱住，三步之内她第一次承认自己孤独；Jack 从「跑得比她还快」走到「你可以脱，我替清醒的你看着」，两条线在同一场戏里完成互换。
-- **叙事手法**：第一人称崩溃体；情绪靠「身体反应先行、解释随后」推进（先说心跳停了，再补一句「我好像不太高兴」）；喜剧与崩溃交替——醉酒胡话（猫、老虎机、O.E.V.E.R.）与最沉重的独白（我怕黑、我 никогда没被人这样抱过）交替出现，让最痛的话不被当成煽情；章末以一句近乎轻浮的玩笑落地，把已经摊开的一切重新收拢。
+- **人物弧线**：Emily 从「我是所有人的utility sponge，被利用完就丢」走到「我需要的那个技能就是被人需要」——她冲出门、说破困境、被抱住，三步之内她第一次承认自己孤独；Jack 从「跑得比她还快」走到「你要穿我不拦，但清醒的你不在场，我替她看着」，两条线在同一场戏里完成互换。
+- **叙事手法**：第一人称崩溃体；情绪靠「身体反应先行、解释随后」推进（先说心跳停了，再补一句「我好像不太高兴」）；喜剧与崩溃交替——醉酒胡话（猫、老虎机、O.E.V.E.R.）与最沉重的独白（我怕黑、我从没被人这样抱过）交替出现，让最痛的话不被当成煽情；章末以一句近乎轻浮的玩笑落地，把已经摊开的一切重新收拢。
 
 ## 精读
 
@@ -43,7 +43,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：三个转移手段都是家务——清理冰箱、重排衣柜、刷地板，作者先给出她的自救方式，再让它们依次失效。最后一项不是家务而是有声书，失败原因也不同：家务失败是因为没用，有声书失败是因为太好用。整段从喜剧（牙刷刷地板）陡然跌进彻底的裸露（三句感叹号），落差就是这一章的动能来源。
 
-**读者视角提示**：注意 her为别人的故事流泪，而她说「我永远不会」——读者已经能看出她的判断错了，但她的处境是真实的；这份「认知错位」是本书情感推进的主要杠杆。
+**读者视角提示**：注意她是为别人的故事流泪，而她说「我永远不会」——读者已经能看出她的判断错了，但她的处境是真实的；这份「认知错位」是本书情感推进的主要杠杆。
 
 > **原句 4:** I set my empty wine bottle aside so I can click Buy Now on the cat bed. Ducky purrs on the floor beside me, curled up against my legs. “You love me right, Ducky? As long as I feed you and snuggle you and shower you with gifts, you’re not going to leave me behind for a better life somewhere?” A hiccup jumps out of me. “And it’d be great if you could not die. I hate when people die.” I lean my head back against the wall. “Dying sucks because it hurts so bad in here…” I slap my hand against my chest. “And there’s nothing I can do about it.” I close my eyes and then get struck with another thought. “You can’t get married either. That’s against the girl code. If we’re going to live out our lives as thriving spinsters, you can’t ditch me for a hot alley cat you meet in the city. And listen…I like to crack the eggs, okay? Because I don’t like eating shells, so you’re going to have to be okay with that.”
 
@@ -173,4 +173,4 @@ modified: "2026-10-02"
 
 ## 一句话总结
 
-她花了整章证明自己是个「有用的人」，然后在最深的一个夜里把唯一一件真正属于自己的东西（八十 thousand 字的梦）交出去、交错了人、跑去敲那个她讨厌了十年的门——而门那边的人说：告诉我你需要什么，我去做。
+她花了整章证明自己是个「有用的人」，然后在最深的一个夜里把唯一一件真正属于自己的东西（八万字的梦）交出去、交错了人、跑去敲那个她讨厌了十年的门——而门那边的人说：告诉我你需要什么，我去做。

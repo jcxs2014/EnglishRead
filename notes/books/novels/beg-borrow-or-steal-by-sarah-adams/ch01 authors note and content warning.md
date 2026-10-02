@@ -55,7 +55,7 @@ modified: "2026-10-02"
 
 **读者视角提示**：这封邮件是全书时间链条的起点：发件人是即将离开的一方，落款却用最嫌弃的语气，仿佛要走的是别人。读者此刻已经知道他们之后会重逢，却还不知道中间隔着多少年。
 
-> **原句 5:** It’s clear my impending departure has left you in a sour mood. But don’t worry, you’ll find happiness again someday. Don’t be afraid to cry when you need to, because just like the poster you have hanging in your classroom claims, all feelings are important.
+> **原句 5:** It’s clear my impending departure has left you in a sour mood. But don’t worry, you’ll find happiness again someday.
 
 **中文理解**：显然，我这次即将到来的离开让你心情酸涩。但别担心，你总有一天会重新找回快乐。
 
