@@ -16,7 +16,7 @@
 - **中文理解**：最终，病患被施以成串的电击与水疗，还有脑叶切除；体罚随之而来；1993 年这座疯人院永久关闭。
 - **关键词**：subjected / lobotomies / abuse
 - **为什么这样写**：subjected to 是被动结构，被施治者不出现在句子里。**作者让病患彻底缺席在文字上**，与后来遗体被发现的段落形成对照。
-- **读者视角提示**：Physical abuse ensued 只有三个词，却把体罚与前面列举的疗法区分开——**疗法与虐打的边界是作者刻意画出的**。
+- **读者视角提示**：Physical abuse ensued 只有短短一截，却把体罚与前面列举的疗法区分开——**疗法与虐打的边界是作者刻意画出的**。
 
 > **原句 2:** "all patients were accounted for except for one, Margaret Schillings, who disappeared on December 1, 1978. Although the facility was searched, she could not be found — not until forty-two days later when, on January 9, 1979, a maintenance man discovered her naked, decaying remains"
 
