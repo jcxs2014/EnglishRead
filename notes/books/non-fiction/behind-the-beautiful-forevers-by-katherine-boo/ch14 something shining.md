@@ -1,5 +1,5 @@
 ---
-状态: 未read
+状态: 未读
 modified: "2026-10-02"
 source_text: ch14_13_something_shining.txt
 ---
