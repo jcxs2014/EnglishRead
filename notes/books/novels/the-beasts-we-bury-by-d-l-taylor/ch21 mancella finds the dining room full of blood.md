@@ -8,7 +8,7 @@ modified: "2026-10-02"
 ## 本章导航
 
 - **一句话概括**：她一路把初识那天写给自己的那张纸条撕碎撒进风里，冲进城门时却发现整支卫队都被调去操练；她隔着二楼的窗看见父亲、妹妹和母亲正在吃饭，那画面安静得像一幅画，然后墙上一道她认得的裂缝动了起来——等她冲到门口，里面只剩一地血。
-- **情感弧线位置**：倒计时最后两天的位置上，本章把「失去」从预期变成既成事实；她却活着出来了，于是这份失去同时成了她往前走的起点。
+- **情感弧线位置**：倒计时停在还剩两天的位置上，本章把「失去」从预期变成既成事实；她却活着出来了，于是这份失去同时成了她往前走的起点。
 - **人物弧线**：Mancella 在这一章里连着做两次狠事——撕碎信物、当场下令封城门——却在看见家人那一眼时发现自己根本没有预期的解脱。
 - **叙事手法**：第一人称限知（Mancella 视角）；倒计时副标题（`|2 DAYS UNTIL THE ASSURANCE|`）；一串短促的动作段落推进，中间穿插大量单独成段的短句来制造心跳节奏，末尾以一个疑问收束。
 - **视角**：Mancella 第一人称；奇数章为她的视角。
@@ -33,7 +33,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 句子的重心从她的台词滑到旁人的反应；It sounds like 这个弱化说法把指控的性质交给听的人去判断，而 flinches 说明对方听懂了——语气里的杀气不必由她自己承认。
 
-**读者视角提示：** 她自己还不知道城里少了谁，读者却已经从前一章知道这里将要发生什么。
+**读者视角提示：** 她自己还不知道城里少了谁，读者却已经从表哥那晚说过的话里知道这里将要发生什么。
 
 > **原句 3:** "It’s a fairly large fracture, and I don’t remember it being there before, but there’s something familiar about it, something that gives me pause."
 
@@ -43,7 +43,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 作者的注意力不放在裂缝有多大，而放在「她见过」这一层；familiar 与 gives me pause 两处心理动词把悬念从外部搬进内部，读者跟着她一起先想起来。
 
-**读者视角提示：** 她认得这道裂缝——草原那边的战场上，她见过同一个人用同一种打法。
+**读者视角提示：** 她认得这道裂缝——她记得战场上有人用过同一种打法。
 
 > **原句 4:** "As soon as I think it, the cleft begins to move, slicing up the wall and creeping into the open window, feet away from where my family dines. Then it takes form, first outlining the shape of a person and then flooding that outline with color until Rift is there, painted into the picture."
 

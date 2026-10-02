@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 一句话里排了三个 to 不定式，收益一个比一个抽象；末句 His goals are the same as mine 缩成短短一句，却把判断整个收在她自己的立场上，替对方免掉了举证责任。
 
-**读者视角提示：** 她刚在上一段察觉到他在用力推，这一段立刻替他把这份用力解释成善意。
+**读者视角提示：** 她刚在心里察觉到他话里那股推力，紧接着又替他把这份推力解释成善意。
 
 > **原句 6:** "Determined and, yes, perhaps still a little reckless, I snap the bracelet shut."
 
