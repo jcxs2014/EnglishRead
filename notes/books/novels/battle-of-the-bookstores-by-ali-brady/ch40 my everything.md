@@ -9,7 +9,7 @@ modified: "2026-10-02"
 
 - **一句话概括**：一年后，他在自家书店里用手写线索做了一本叫《BookFriends to Lovers》的书，念出最后三个字母才开口求婚；她答了，但附带一个条件——毕业之后，这家书店要归他们俩所有。
 - **情感弧线位置**：不是收束而是重启——把「happy ending」这个词从一个结果改写成一段还在进行的过程，然后立刻把新一段剧情（买下书店）接到结尾。
-- **Tropes 兑现/反转**：兑现全书第一条 Tropes 线索「enemies to friends to lovers」——他把 trope 清单直接印成书里的暗语；兑现 ch01 那场「Brian」乌龙（Ryan 在 ch38 用「that first day, when she called me Brian」回指它），三个人名在求婚现场一次性回收；兑现 ch34 短信里那朵「一百万里我都不会错过」的邀请。
+- **Tropes 兑现/反转**：兑现全书第一条 Tropes 线索「enemies to friends to lovers」——他把这串 trope 当成求婚彩蛋，一个一个念了出来；兑现 ch01 那场「Brian」乌龙（Ryan 在 ch38 用「that first day, when she called me Brian」回指它），三个人名在求婚现场一次性回收；兑现 ch34 短信里那句「为了全世界我都不会错过」的邀请。
 - **人物弧线**：Ryan 从「我是那个帮人策划求婚的人」走到「轮到我自己」；Josie 则从「我配得上一个 happy ending」走到「我要把店买下来」。
 - **叙事手法**：以「叙事学讲义」开篇（把 epilogue 这个文体本身当作被误解的东西讲一遍），中间用一串速写把全书人物一次性点名回收，结尾用三行独词句（enemy / fiancée / everything）作阶梯式落槌。
 
@@ -31,7 +31,7 @@ modified: "2026-10-02"
 
 **关键词**：participating in hundreds of bookish proposals（参与过几百场书店求婚）、I was meant to help other people find their beshert（我的命就是帮别人找到命定之人）、a Yiddish word Josie taught me（Josie 教我的一个意第绪语词）、Never in a million years（做梦也想不到）、the prissy girl who worked at the highbrow bookstore next door（隔壁那家高雅书店里那个装腔作势的姑娘）
 
-**为什么这样写**：让全书最操心的人自己承认他一直在替别人做这件事；beshert 是他为了听懂她才去学的词（ch39 里她还教过他「爱像下海」），这个外来词在此完成了「她进入他的语言」的对称。
+**为什么这样写**：让全书最操心的人自己承认他一直在替别人做这件事；beshert 是他为了听懂她才去学的词（ch33 里他母亲那句「爱像在海里游泳，可你们都想直接扎进去」），这个外来词在此完成了「她进入他的语言」的对称。
 
 **读者视角提示**：读者该明白，书店行业的「专业」在这里终于和他自己的命撞到了一起；浪漫不是他的职业，是他的一生。
 
@@ -53,7 +53,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：求婚词第一句就把自己的事业（love story）降级为一条线索，把「找到她」说成是被书引路的结果；而全章唯一的玩笑是 ch01 那个人名乌龙——从初见到求婚跨了一年多的这条线，被当成情话用。
 
-**读者视角提示**：他把「线上敌人」和「线下对手」并置成同一个动词的两种宾语；读者该明白，书名里的 Bathtub Girl 才是这一段的真正主角。
+**读者视角提示**：他把「线上斗嘴（bantering online）」和「线下交锋（sparring in real life）」并置成同一个动词的两种状语；读者该明白，他真正做成的那本书是《BookFriends to Lovers》——书名本身就是这段关系的注脚。
 
 > **原句 5:** “I grew up hearing my parents say, ‘When you know, you know,’ but I didn’t really know what love was until I started loving you. What we have is deeper, and richer, and more beautiful than anything I ever could’ve imagined. So, Josie—” I take a breath, my own eyes brimming with tears. “Will you—”
 

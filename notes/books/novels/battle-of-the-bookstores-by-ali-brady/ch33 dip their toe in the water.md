@@ -9,7 +9,7 @@ modified: "2026-10-02"
 
 - **一句话概括**：BookshopGirl 说想见面，而见面的人是 Ryan；他一边后悔那一晚停下来，一边和母亲吃了一顿把「真爱」拆成零件的早餐，最后在会场看到 Josie 打赢一场本该赢的仗，也看到了她脸颊上不属于他的口红印。
 - **情感弧线位置**：停手之后的第二天；「我做了正确的事」和「正确的事让我失去了她」第一次同时成立。
-- **Tropes 兑现/反转**：兑现 chapter 16 那句承诺（真相说出口前不发生任何事），代价由他自己承担；兑现他的「妒忌自己」主题——他这一章的嫉妒对象是 RJ，一个连脸都没露过的人。反转在结尾：Kimberly 的一个吻把一整天的克制清零。
+- **Tropes 兑现/反转**：兑现 Chapter 24 那句承诺（真相说出口前不发生任何事），代价由他自己承担；兑现他的「妒忌自己」主题——他这一章的嫉妒对象是 RJ，一个连脸都没露过的人。反转在结尾：Kimberly 的一个吻把一整天的克制清零。
 - **人物弧线**：Ryan 第一次把「早说真相」当成自己的错（而不是她的错）；Josie 第一次在行业场合为年轻读者据理力争，并第一次对他说谎式地撒谎（「我有安排」）。
 - **叙事手法**：开篇两段用「更正（Correction:）」一行拆开两个自我——她想见的是 RJ，不是他；母亲的早餐用「你妈妈读过的言情小说」这一杠杆把全书的主题（叙事结构 vs 真实生活）摆上餐桌；panel 一场让 Penelope Adler-Wolf 替她解围，顺带把母亲那句「要学会等」在她身上兑现。
 
@@ -41,7 +41,7 @@ modified: "2026-10-02"
 
 **关键词**：I wish I’d told Josie the truth the day I discovered it（我真希望发现真相那天就告诉 Josie）、she hated me, Ryan（她讨厌的是 Ryan）、she wouldn’t have gone to Maine with me（她不会跟我去缅因州）、jerking off to thoughts of my fantasy girl（对着「幻想女孩」打手枪）
 
-**为什么这样写**：全句只用一个逗号就把两个身份拆成两套平行时间线，并给出「坦白」的收益账单；末句的「幻想女孩」与 chapter 21 里他给她讲的同一个词对照，把「线人」的真实代价直接说成手活儿的代价。
+**为什么这样写**：全句只用一个逗号就把两个身份拆成两套平行时间线，并给出「坦白」的收益账单；末句的「幻想女孩」与本章开头那两处同一个词对照，把「线人」的真实代价直接说成手活儿的代价。
 
 **读者视角提示**：下一段紧跟一个转折「Except…」；读者该明白，他宁可不坦白也不回到那个版本——坦白意味着她会恨 Ryan。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **关键词**：You can’t break up with someone you aren’t dating（你没法跟一个没在谈的人分手）
 
-**为什么这样写**：母亲问的是「你们是不是分手了」，他用一句逻辑上无法反驳的话把问题打回去；句子短、只含一个否定，是全书他用得最省力的防守。
+**为什么这样写**：母亲问的是「你们是不是分手了」，他用一句逻辑上无法反驳的话把问题打回去；句子短，两个否定叠在一起正好把问题挡回去，是全书他用得最省力的防守。
 
 **读者视角提示**：他母亲紧接着说「我看见你们看彼此的眼神——Dan 警官告诉我他在沙滩上当场抓到了你们」；读者该明白，短信里那些读者都知道的事，他母亲也知道。
 
@@ -83,7 +83,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：把母亲的整场论证压缩成一个限定从句：她说的都对，但结论只在双向时成立；「知道（knowing）」沿用他们家原有的说法，指的是十六岁就认定的那个瞬间。
 
-**读者视角提示**：他随即反问「我们说的是 Kate 吗」，并承认「也许是」；读者该明白，那段没爱上的旧情在这里被拉出来当对照组——他怕的是同样的单向。
+**读者视角提示**：他母亲随即问「我们说的是 Kate 吗」，他才太快地否认、又承认「也许是」；读者该明白，那段没爱上的旧情在这里被拉出来当对照组——他怕的是同样的单向。
 
 > **原句 8:** “It’s not a lie.” Her voice sounds faraway, like she’s talking to me from the past, not from across the table. “I had that ‘knowing’ moment, it just took me longer.” She sets her fork down and looks up at me, like she just had a literal lightbulb moment. “Love is like swimming in the ocean. And you, my darling—and your father, for that matter—want to cannonball right in. But some people, perhaps like your Josie”—my Josie—“need to dip their toe in the water and ease in. Slowly.”
 
@@ -91,9 +91,9 @@ modified: "2026-10-02"
 
 **关键词**：Love is like swimming in the ocean（爱就像在海里游泳）、cannonball right in（炮弹式跳进去）、my Josie（我的 Josie）、dip their toe in the water（先用脚尖试一下水）、ease in. Slowly（慢慢地进去）
 
-**为什么这样写**：一个比喻承担了整章的主题——两种入水方式，快的那个会沉；「我的 Josie」这个插入把比喻从普遍规律收回到一个具体的人，也顺手把母亲改造成了剧情同盟。
+**为什么这样写**：一个比喻承担了整章的主题——爱像在海里游泳，而他和他父亲都想直接扎进去；「我的 Josie」这个插入把比喻从普遍规律收回到一个具体的人，也顺手把母亲改造成了剧情同盟。
 
-**读者视角提示**：这一章结尾他就决定回复「IBNE 见」；读者该明白，读者已经知道 RJ 就是他——所以这一章他做的每一个决定，读者都在替他尴尬。
+**读者视角提示**：早餐后他就回复「IBNE 见」；读者该明白，读者已经知道 RJ 就是他——所以这一章他做的每一个决定，读者都在替他尴尬。
 
 ## 本章词汇
 

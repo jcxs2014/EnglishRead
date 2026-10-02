@@ -7,11 +7,11 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：饥饿游戏主题活动大获成功，两人关店后从「你太高了」一路聊到沙滩上的那个吻，然后一路聊到收银台上——他在她最想要的时刻停下来，说这不是拒绝，是邀请；她在崩溃的楼梯间里跟妹妹吵了两个小时，最后给 RJ 发出「我想见你」。
+- **一句话概括**：饥饿游戏主题活动大获成功，两人关店后从「你太高了」一路聊到沙滩上的那个吻，然后一路聊到收银台上——他在她最想要的时刻停下来，说这不是拒绝，是邀请；她在崩溃的公寓里给妹妹发了一条 SOS，然后跟妹妹视频求救（原文没给通话时长），最后给 RJ 发出「我想见你」。
 - **情感弧线位置**：全书第一次接吻与第一次「差一点」同时发生；她第一次意识到自己可能要二选一。
 - **Tropes 兑现/反转**：兑现 chapter 29 那条短信里的断言（他真被爽到，她喊「原来不是传说」）；兑现 enemy-to-lover 里「第一次接吻」的标准场景，却立刻反转成他没有继续；反转在 chapter 12 那句「差两公分」的旧账——这一次距离归零，替代品是时间。
-- **人物弧线**：Josie 第一次主动越过线（是她先说「Definitely」）；第一次在性上被拒绝却没有逃走。Ryan 第一次说出「我怕你只是渴望，不是我」，第一次承认「endgame」这个词。
-- **叙事手法**：前半段用「收银台结算」这个商业动作给对话计时（钞票一叠一叠地对齐，谈话一句一句地失控）；「我说不是传说」一句同时回收 chapter 29 的梗与她的自我否定；后半段切到 Georgia 的视频通话，用「治疗师—来访者」的格式把她的两难拆成两条并排的线。
+- **人物弧线**：Josie 第一次主动越过线（是她先说「Definitely」）；第一次在性上被拒绝却没有逃走。Ryan 第一次把「拒绝」翻成「邀请」（`This isn't a rejection.` / `It's an invitation,` he says.），第一次承认「endgame」这个词。
+- **叙事手法**：前半段用「收银台结算」这个商业动作给对话计时（钞票一叠一叠地对齐，谈话一句一句地失控）；「我说不是传说」一句同时回收 chapter 29 的梗与她的自我否定；后半段切到与 Georgia 的视频通话（`Once in my apartment, I immediately text Georgia. SOS.` 之后画面在屏幕上：`Georgia studies me through the screen.`），用「治疗师—来访者」的格式把她的两难拆成两条并排的线。
 
 ## 精读
 
@@ -43,7 +43,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：先用一个静态的、几乎礼貌的吻开头，再用「一碰到」三个字把它炸开；狮子比喻自带「早已选定猎物」的等待感，把这一吻写成伏击而不是回应。
 
-**读者视角提示**：紧随其后的是眼镜滑落、二十张钞票掉在地上、监控摄像头的念头；读者该明白，这一章的喜剧与危险是同一件事。
+**读者视角提示**：紧随其后的是眼镜滑落、钞票散落一地、监控摄像头的念头；读者该明白，这一章的喜剧与危险是同一件事。
 
 > **原句 4:** His mouth quirks. “I have a Josie Klein fetish. You, wearing nothing but these shoes. Or pressed against a bookcase with my hand up your skirt. In bed with your hair loose. In the shower. Bent over my desk. All the time. Everywhere. I can’t stop thinking about you.” He presses a kiss to my ankle, then the inside of my knee, kissing his way up my thigh, spreading my legs wider and pushing my skirt out of the way as his mouth moves up up up until he’s right there, heat and softness pressing through the thin fabric of my panties.
 
@@ -51,9 +51,9 @@ modified: "2026-10-02"
 
 **关键词**：a Josie Klein fetish（一个 Josie Klein 癖）、pressed against a bookcase with my hand up your skirt（被我按在书架上、手伸进你裙子）、In bed with your hair loose（头发散着躺在床上）、I can’t stop thinking about you（我停不下来想你）
 
-**为什么这样写**：把「她的名字」直接当癖好的名字，等于宣布只对她一个人上瘾；四个短句每句一个场景，全部是店里或工作台，没有一个属于别的地方。
+**为什么这样写**：把「她的名字」直接当癖好的名字，等于宣布只对她一个人上瘾；五个画面里三个属于店里与工作台，两个属于家，而作者刻意把「家」排在最后——癖好的清单从公共场合一路滑进私人领域。
 
-**读者视角提示**：她听见的是「他想的是这些画面」；读者该明白，这些画面全部来自前二十四章她当着他的面做过的事。
+**读者视角提示**：她听见的是「他想的是这些画面」；读者该明白，前三个画面都来自前二十四章她当着他面做过的事，后两个才是他替她补上的想象。
 
 > **原句 5:** RJ was right: all the sex I’ve had has been mediocre. There really are men who love to do this, men who can’t get enough.
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：一章之前她在短信里断言这种男人「像尼斯湖水怪」，此刻她用一句话把自己驳倒了；「RJ 是对的」五个字还顺带提醒读者：那个线人一直在线。
 
-**读者视角提示**：下一句她低声说「看来不是传说」；读者该明白，这四个字正是把 RJ 推到这段关系正中央的第一块砖。
+**读者视角提示**：她倒吸一口气说「看来不是传说」；读者该明白，这四个字正是把 RJ 推到这段关系正中央的第一块砖。
 
 > **原句 6:** “I’m saying that I’m falling for you, Josie. Hard. You’re the smartest person I’ve ever met, we have the best conversations, and you’re so beautiful I could look at you for hours and never get tired of the view. I think—” He clears his throat. “I think you could be endgame for me. But I’m not sure you feel the same way, and if that’s the case, I’ll deal with it and try to move on. Eventually. Hopefully.” He swallows. “But I care too much about you to have casual sex. This isn’t casual for me.”
 

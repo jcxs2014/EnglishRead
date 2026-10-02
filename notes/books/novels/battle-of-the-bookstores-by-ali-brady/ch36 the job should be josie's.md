@@ -9,7 +9,7 @@ modified: "2026-10-02"
 
 - **一句话概括**：会议周他过得像两辈子那么长，周三早上还是全店送行；十分钟后 Xander 宣布录用的是他，他当场辞职，把那个职位推给身边的女人。
 - **情感弧线位置**：全书职业线的终点，也是他人物弧线的终点——从 ch01 那场「与 Xander 的会面」到本章那句「另一份工作我虽然有，却不想要」；而她的终点恰恰是他递过去的那一步。
-- **Tropes 兑现/反转**：兑现 Georgia 那句「不是赞美，是警告」（他被警告的那件事当天就发生）；兑现 chapter 12「go big or go home」的反面版本——他「go home」；兑现全书反复出现的赌注：这次不是赌一个吻，是赌一份工作。反转在 Hades：白西装男人和黑猫在他腿上互相呼噜。
+- **Tropes 兑现/反转**：兑现 Georgia 那句「不是赞美，是警告」（他被警告的那件事当天就发生）；兑现全书反复出现的赌注：这次不是赌一个吻，是赌一份工作——他当场把职位让出去（`In case it’s not clear, I quit.`）。反转在 Hades：白西装男人和黑猫在他腿上互相呼噜。
 - **人物弧线**：Ryan 的自卑（骑她的(coattail)）被 Xander 当众验证，于是他用最不体面的方式——辞职、让出职位——证明 Georgia 那句警告是假的；他第一次把「我配不上」从心里的话变成公开的行动。
 - **叙事手法**：前半章用日期流水（Saturday → Wednesday）把一整周压成四段晨间小事，用早餐的六种蛋和花生酱棒棒糖写「一个高个子男人在练习怎么照顾人」；后半章用「桌子底下的手」做唯一的物理锚点（桌下握手 vs 桌面松手），最后一句改用门——他走出去的那扇门，和当初她走出书店的那扇门是同一扇。
 
@@ -33,7 +33,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：母亲的比喻在这里由他自己翻译回动作（伸脚趾试水温）；那句 Damn it 保持原样不译，正因为它是他此刻唯一能说的、带笑的自我承认。
 
-**读者视角提示**：读者该明白，这个比喻出自 Rosebud（ch33），而他上一章还嫌它肉麻；他不是不信母亲的比喻，是不敢信。
+**读者视角提示**：读者该明白，这个比喻出自他自己（`Damn it if my mom’s cheesy metaphor doesn’t make perfect sense`）——他嘴上嫌它肉麻，笔下却承认它「这么合适」；他不是不信母亲的比喻，是不敢信。
 
 > **原句 3:** “It’s not a compliment, it’s a warning,” she says, and I shut my mouth. “Josie has spent her life sacrificing her own wants and needs for other people—especially me, and I can never repay her.” Her voice cracks, and she clears her throat. “She’s busted her ass to get where she is, and I’d hate to see her get screwed over by some guy who’s riding on the coattails of her brilliance and hard work.”
 
@@ -41,7 +41,7 @@ modified: "2026-10-02"
 
 **关键词**：It’s not a compliment, it’s a warning（这不是赞美，这是警告）、sacrificing her own wants and needs（牺牲自己的愿望和需要）、I can never repay her（我永远还不清）、busted her ass to get where she is（拼了命才走到今天）、riding on the coattails of her brilliance and hard work（骑在她才华和苦干的肩膀上）
 
-**为什么这样写**：Georgia 的话设计成一个三段式：先夸（让你放松）→ 否定夸奖（让你闭嘴）→ 具体指控（让你无处可辩）；而「coattails（衣袖/马裤的下摆）」这个比喻会在半小时后由 Xander 原样奉还。
+**为什么这样写**：Georgia 的话设计成一个三段式：先夸（让你放松）→ 否定夸奖（让你闭嘴）→ 具体指控（让你无处可辩）；而「coattails（骑在她的衣袖上）」这个比喻在同一章被他自己认领（`I’ve ridden Josie’s coattails like Georgia suggested`），Xander 当晚又说出几乎同构的一句（`You were ahead all summer`）。
 
 **读者视角提示**：读者该明白，Ryan 听进的是「我配不上」而不是「要对她好」；这正是下一段要处理的错误。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：「It could be（天天都有人给我做早餐）」本是情话，被他一个不小心说出；作者让失误负责揭示——他想被照顾，但他知道被照顾的前提是对方先认账。
 
-**读者视角提示**：紧跟着一段「What if we’ve already met?」的旧账重提（他也担心自己 10 月 1 日在 IBNE 的出价让她不快）；读者该明白，36 岁的「配不上」其实是 5 岁生日前夜那个等交换的男孩。
+**读者视角提示**：紧跟着的是他吻了一下她的鼻子、翻身下床、跑去街角超市买齐食材（三十分钟后她裹着栀子花香出来）；读者该明白，三十岁的「配不上」其实是那个不敢说出自己配不配得上的男孩。
 
 > **原句 6:** Indira puts her arm around Cinderella’s shoulder, and Eliza steps in on her other side. We all move together in an awkward group hug that I wish didn’t feel so much like goodbye. Because no matter what happens, everything is going to change.
 
@@ -81,15 +81,15 @@ modified: "2026-10-02"
 
 **关键词**：His words sting（他的话刺痛了我）、It’s my worst fear coming true（我最坏的恐惧成真了）、I’m not good enough（我不够格）、I’ve ridden Josie’s coattails（骑在了 Josie 的衣袖上）、like Georgia suggested（像 Georgia 说的那样）
 
-**为什么这样写**：用了一个在 8.1 里反复出现的动物意象的近邻——「骑在衣袖上」；把前一章的比喻原封不动地接过来，让读者自己听出回声，比任何评论都重。
+**为什么这样写**：Georgia 那句「骑在她的衣袖上」本来就出自同一场戏；他把那个比喻原封不动地接了过来，让读者自己听出回声，比任何评论都重。
 
 **读者视角提示**：他此时还不知道，他给出的反应不是补救而是辞职；读者该明白，他唯一会做的补偿动作，是把自己的东西交出去。
 
 > **原句 8:** “In case it’s not clear, I quit. The job should be Josie’s.” I risk a glance down to see her looking up at me with a dazed expression I can’t read. “The job should be yours.”
 
-**中文理解**：「我说清楚点，我辞职。这个职位应该是 Josie 的。」我冒险低头看了一眼，发现她正仰头看我，表情恍惚，我读不懂。然后我站起来，看着 Xander，走了出去。
+**中文理解**：「我说清楚点，我辞职。这个职位应该是 Josie 的。」我冒险低头看了一眼，发现她正仰头看我，表情恍惚，我读不懂。（引语到此为止；站起来、看着 Xander、走出去都发生在引语之后。）
 
-**关键词**：In case it’s not clear（我说清楚点）、I quit（我辞职）、The job should be Josie’s（这个职位应该是 Josie 的）、a dazed expression I can’t read（表情恍惚，我读不懂）、walk out the front door（走了出去）
+**关键词**：In case it’s not clear（我说清楚点）、I quit（我辞职）、The job should be Josie’s（这个职位应该是 Josie 的）、a dazed expression I can’t read（表情恍惚，我读不懂）
 
 **为什么这样写**：辞职书只有三句，且全是「我说清楚点 / 应该是 / 应该是」——重复的「应该是」把命令句读成了恳求句；而他走出的是「front door（正门）」，不是后门，是他自己主动交还一切。
 

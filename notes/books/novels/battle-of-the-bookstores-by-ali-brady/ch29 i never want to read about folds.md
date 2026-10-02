@@ -10,7 +10,7 @@ modified: "2026-10-02"
 - **一句话概括**：一整个晚上她只有一个主题——言情小说里那些关于身体的胡话；他一边装傻一边接梗，两个人从「velvet-wrapped steel」一路滑到「湿漉漉的褶皱」，最后她用一个虚构的比喻把自己也拖下了水。
 - **情感弧线位置**：全书最轻松的一节；上一章两个人还在为「性描写能不能表达性格」争论，这一章她把这套争论用粗口重新讲了一遍——她开始用玩笑而不是道理靠近他。
 - **Tropes 兑现/反转**：兑现「读书会/签售会前要读一堆书」这个作者职业病；兑现 type-nerd 喜剧（他连「吹自己的喇叭」都要先声明是双关）；反转在最后一句——他居然听不出她那段比喻是双关。
-- **人物弧线**：Josie 第一次在他面前用大写字母发泄（`I NEVER WANT TO READ ABOUT FOLDS`），说明她已经不打算维持「网络人格」的克制；Ryan 第一次顺着一个玩笑走到底，而不是把话题拐回正事。
+- **人物弧线**：Josie 终于不再克制地绕弯子、直接用一句全大写发泄（`I NEVER WANT TO READ ABOUT FOLDS`），说明她已经不打算维持「网络人格」的克制；Ryan 第一次顺着一个玩笑走到底，而不是把话题拐回正事。
 - **叙事手法**：整节靠「一个词接一个词」的清单式排比推进（dick, cock → throbbing member, velvet-wrapped steel…），再用对方的复读（`You'd rather the folds be dry?`）把清单变成回旋镖；每一条消息都只有一个笑点，节奏靠时间戳切。
 
 ## 精读
@@ -23,7 +23,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：先自问三个「为什么」，再把战场从原则问题换成词表；四个自造词一个比一个长、意象一个比一个 absurd（钢铁、剑），荒诞感完全靠并置产生，不靠评论。
 
-**读者视角提示**：她说「我在为活动读书」；读者该记得，前一章他还说这本书在她的收藏书架上——她读的是他藏进去的那本。
+**读者视角提示**：她说「我在为活动读书」；读者该记得，前一章他承认自己那本《A Little Life》就摆在她收藏书架上——但这一本是她自己为活动临时补读的清单。
 
 > **原句 2:** BookshopGirl: I’d prefer not to hear about any of it. And don’t even get me started on words for the female anatomy. We don’t even get a nice, sturdy word like “cock”—we get pussy and cunt, which just rub me wrong.
 
@@ -49,7 +49,7 @@ modified: "2026-10-02"
 
 **中文理解**：BookshopGirl：是啊，可尖叫呢？能在做爱时叫成这样的人都是在演。我好像从来没发出过比一声深呼气更大的声音。
 
-**关键词**：Anyone who is THAT loud during sex is faking it（能在做爱时叫成这样的人都是在演）、a deep sigh（一声深呼气）、not to toot my own horn（不是要吹自己的喇叭）
+**关键词**：Anyone who is THAT loud during sex is faking it（能在做爱时叫成这样的人都是在演）、a deep sigh（一声深呼气）
 
 **为什么这样写**：用一个「可」把话题从「声音」转到「尖叫」——前者还能解释，后者不行；最后半句「深呼气」把整晚最夸张的形容词换成了最小的一个量词。
 

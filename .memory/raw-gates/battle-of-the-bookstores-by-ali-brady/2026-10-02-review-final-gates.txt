@@ -1,4 +1,4 @@
-=== 独立审查五步法 · 复验门禁 2026-10-02 13:02:32 UTC · DSH-Mac ===
+=== 独立审查五步法 · 复验门禁 2026-10-02 13:18:14 UTC · DSH-Mac ===
 
 --- verify_quotes --full ---
 00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
@@ -231,7 +231,7 @@ ch40 my everything.md: 8/8 ✅
 === 独立结构扫描：40 个 md，缺陷 0 处 ===
 
 --- check_xref_indep ---
-=== chNN 引用 230 处：英文证据报警 0 处 ／ 中文式待人判 153 处 ===
+=== chNN 引用 233 处：英文证据报警 0 处 ／ 中文式待人判 154 处 ===
 
 --- check_xref_chapter ---
 === 分析层跨章指认核对（battle-of-the-bookstores-by-ali-brady）===
@@ -239,7 +239,7 @@ ch40 my everything.md: 8/8 ✅
   ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
 
 --- check_analysis_indep ---
-抽出分析层英文片段 546 条
+抽出分析层英文片段 559 条
 ✅ 全部片段在全书 text/ 逐字命中
 
 --- audit_structure ---
@@ -255,7 +255,7 @@ ch40 my everything.md: 8/8 ✅
   报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
 
 --- 自写强制回查 /tmp/btb_xref_sweep.py ---
-回查 33 条 ｜ 目标章命中 24 ｜ 未命中 9
+回查 36 条 ｜ 目标章命中 27 ｜ 未命中 9
   ❌ 00_概述.md:39 [19,25,33,35] 「两个人说 technically speaking 的口气一样」 → 全书无
   ❌ 00_概述.md:47 [31,33,39] 「for the first time… I asked for what I deserve」 → 全书无
   ❌ 00_概述.md:57 [26,28] 「YA、new adult、adult，contemporary、historical，romantasy——那两支对抗的曲棍球运动员该放哪儿」 → 全书无
@@ -263,8 +263,11 @@ ch40 my everything.md: 8/8 ✅
   ❌ 00_概述.md:89 [02,05,30,39,40] 「Persephone 的宝座」 → 全书无
   ❌ 00_概述.md:89 [02,05,30,39,40] 「Elaine 的猫」 → 全书无
   ❌ ch37 if he loved you he wouldn't leave you.md:12 [35] 「happy ending 是否可信」 → 全书无
-  ❌ ch38 always.md:76 [35] 「she’s opening up to me like a flower」 → 他章
+  ❌ ch38 always.md:12 [31,35] 「Words. I need words.」 → 全书无
   ❌ ch40 my everything.md:12 [01,34,38] 「enemies to friends to lovers」 → 他章
 
 --- 自写词表例句盲区扫 ---
 词表例句 2539 条 ｜ 非本章连续命中 0 ｜ 前缀疑似截断 0
+
+--- 自写 H1↔text 盲区扫 ---
+H1↔text 核查 40 篇 ｜ 不符 0

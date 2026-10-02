@@ -9,7 +9,7 @@ modified: "2026-10-02"
 
 - **一句话概括**：她用嘴而不是用话回应了他；他在她身体上方说「无论我走到哪，两个小时还是两千英里，我都是你的」，她无声地回了同一个词；她睡着以后，他推翻了自己整套「为她牺牲」的理论。
 - **情感弧线位置**：全书情感线的收束点。不是告白（「I love you」他仍未说出口），而是一个对称的单词——两个人用同一个词承认同一件事。
-- **Tropes 兑现/反转**：兑现 chapter 22 那句 dirty talk（她第一次开口要「fantasy girl」那一套）；兑现 chapter 35「Words. I need words.」——本章它被反过来用；兑现 Nora 的「decision point」，但作者把它放在床上而不是会议桌上。反转在半段：她要的其实不是他走，是他说清楚「我不会走」。
+- **Tropes 兑现/反转**：兑现 Chapter 26–27 的「fantasy girl」暗梗（他在 Chapter 26 的内心独白里第一次用这个词，Chapter 27 她复述「Fantasy girl, remember?」）；兑现 ch35（Chapter 27）「Words. I need words.」——本章它被反过来用；兑现 Nora 在 ch31 说的「decision point」，但作者把它放在床上而不是会议桌上。反转在半段：她要的其实不是他走，是他说清楚「我不会走」。
 - **人物弧线**：Ryan 的「为她牺牲」在这一章被自己拆掉——「What if I'm sacrificing her? Us.」；他从一个替别人办手续的媒人，变成一个肯自己承担风险的人。
 - **叙事手法**：前半章用「触觉对位法」把语言逐句翻译成身体动作（手滑进头发＝我不想失去你，嘴唇压在她心口上方＝我愿为你做任何事）；后半章从情欲高峰直接切到「天花板与乱成一团的思绪」，用一个人的失眠替两个人收尾；最后一句把「一起解决」写成一句不需要读者相信的承诺。
 
@@ -21,7 +21,7 @@ modified: "2026-10-02"
 
 **关键词**：My fantasy girl（我的幻想女孩）、on her knees（跪在我面前）、tugging down my pants（扯着我的裤腰）
 
-**为什么这样写**：全章从一个短促的动作开始，没有心理铺垫；「fantasy girl」三个词是 chapter 22 那场争论的原话，而那时的语气是讽刺，现在变成了事实。
+**为什么这样写**：全章从一个短促的动作开始，没有心理铺垫；「fantasy girl」三个词最早出现在 Chapter 26 Ryan 的内心独白里（`Except my fantasy girl, the woman who was riding my face a few hours ago…`），Chapter 27 由她复述确认——那时还带着反讽的口吻，现在变成了事实。
 
 **读者视角提示**：他后来说「I can't deny this woman a single thing」；读者该明白，他不是被勾引，是被批准。
 
@@ -73,7 +73,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：整段用同一个语法模具（身体动作 + is me saying + 话语），把情话分配到三个触点上；作者拒绝让她听见，因为她此刻要的是「不靠说」。
 
-**读者视角提示**：她说「she’s opening up to me like a flower」；读者该明白，ch35 那句「我需要词」在本章被他拆成了三次身体动作。
+**读者视角提示**：他想「她像花一样对我敞开」（`Somehow, I think she understands, because she’s opening up to me like a flower…`）；读者该明白，ch35 那句「我需要词」在本章被他拆成了三次身体动作。
 
 > **原句 7:** Gazing into her bottomless eyes, I say the words I hope she’s ready to hear. “No matter where I go, if I’m two hours or two thousand miles away, I’m yours.”
 
