@@ -89,7 +89,7 @@ modified: "2026-10-02"
 
 **关键词**：fifteen years old／my English teacher fresh out of college／swore to me I was his soulmate
 
-**为什么这样写**：全书最后一颗核弹在倒数第二段引爆。作者让 Eve 的背诵揭穿整条时间线的源头：他猎Addie 之前十年，先猎了十五岁的她——身份同样（英语老师）、话术同样（灵魂伴侣）、连情书都是同一首。Addie 的「第一次」、Kenzie 的「高一」、Eve 的「十五岁」——三份青春被他按年代排成一列，本书至此升格为一份连环狩猎的完整档案。
+**为什么这样写**：全书最后一颗核弹在倒数第二段引爆。作者让 Eve 的背诵揭穿整条时间线的源头：他猎 Addie 之前十年，先猎了十五岁的她——身份同样（英语老师）、话术同样（灵魂伴侣）、连情书都是同一首。Addie 的「第一次」、Kenzie 的「高一」、Eve 的「十五岁」——三份青春被他按年代排成一列，本书至此升格为一份连环狩猎的完整档案。
 
 **读者视角提示**：记住这句「十五岁的我」。它与 Addie 的「even at sixteen」、Kenzie 的「高一起」对表——三个年龄、三段「爱情」、一个老师。序幕里那把铲子的主人，此刻终于让人明白她为什么挖得那么熟练：她埋的是自己的老师、自己的初恋、自己的十年。
 
@@ -101,7 +101,7 @@ modified: "2026-10-02"
 
 Then she / Young and alive / With smooth hands / And pink cheeks / Showed me myself / Took away my breath / With cherry-red lips / Gave me life once again
 
-（这首诗在原文里是九行独立成段；本章是它第九次出现，也是最后一次——它的收件人终于换回了第一个人。）
+（这首诗在原文里是九行独立成段；本章是它第五次完整出现，也是最后一次——它的收件人终于换回了第一个人。）
 
 **关键词**：Life nearly passed me by
 
