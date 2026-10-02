@@ -96,7 +96,7 @@ source_text: ch13_12_nine_nights_of_dance.txt
 
 **句子结构**：第一个分句为主动语态的完成被动（her regret… had been forgotten），主语为 Fatima's regret at what she'd done；第二个分句为 her act reconstrued as a flamboyant protest（省略助动词的被动结构），where reconstrued 的原形为 reconstrue（重新建构），as a flamboyant protest 为介词短语作主语补足语。
 
-**关键词**：her regret / had been forgotten / reconstrued as a flamboyant protest
+**关键词**：regret at what she'd done / had been forgotten / reconstrued as a flamboyant protest
 
 **表达方式**：作者用一组过去时的被动结构（had been forgotten / reconstrued）把两个过程都写成外部作用——不是法蒂玛忘了自己的悔意，而是悔意"被忘掉了"；不是她变成了抗议者，而是她的行为"被重构为"抗议。
 
