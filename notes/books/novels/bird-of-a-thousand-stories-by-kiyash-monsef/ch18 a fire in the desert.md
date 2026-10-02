@@ -44,7 +44,7 @@ modified: "2026-10-02"
 - **为什么这样写**：一句话里两次 `kept`，主语始终是 `stories`，把「取暖」和「烧火」这两件事合并成同一件东西。后面一句是 `Maybe`，把一次推论改成猜测——口述者不替读者下结论，只把可能性放在那里。
 - **读者视角提示**：全章的机制到这一句才被命名；而紧跟着的下一层追问是，如果这个世界失去了故事，提问的人自己会失去什么——于是解读立刻从童话折回她自己的日子。
 
-> **原句 5:** "“Who says there are rules about where and when the Bird can show up?” Carrie asked. “It’s a story, right? And the Bird has appeared many times, and every time is different, right?"**
+> **原句 5:** "“Who says there are rules about where and when the Bird can show up?” Carrie asked. “It’s a story, right? And the Bird has appeared many times, and every time is different, right? And stories get passed around all over the world, just like the one you told me yesterday. So why couldn’t it be her?”"**
 
 - **中文理解**：「谁规定那只鸟能在什么地方、什么时候出现？」Carrie 问，「这本来就是故事，对吧？那只鸟出现过很多次，而且每一次都不一样，对吧？」
 - **关键词**：rules about where and when the Bird can show up / It’s a story, right? / every time is different

@@ -95,4 +95,4 @@ modified: "2026-10-02"
 
 ## 一句话总结
 
-一场世界性的鸟类大会把 simurgh 讲成了许多种东西，却没有一只鸟指出她在哪里；两个孤儿带着沉默离场，手里只多了一只 turtledove 的半句话——`In one of them, she loved me.`
+一场世界性的鸟类大会把 simurgh 讲成了许多种东西，却没有一只鸟指出她在哪里；两个孤儿带着沉默离场，手里只多了一只 turtledove 的半句话——`“In one of them,” he continued, “she loved me.”`

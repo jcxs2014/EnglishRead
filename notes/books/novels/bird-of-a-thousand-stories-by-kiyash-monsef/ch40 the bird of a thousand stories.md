@@ -13,7 +13,7 @@ modified: "2026-10-02"
 - **视角**：**分两段**。前半是第三人称全知、说书人腔，用 `Said the one`／`Said the other` 并排两句让两个孤儿各自开出条件；后半换成第一人称限知（叙述者即 Malloryn 口中那个 `Mar`），读者只拿到她的眼睛、她听见的门响和那封摊在地板上的信。作者正是在这个换人处把「民谣的结局」和「当事人自己的收尾」并排放在一起。
 - **情感弧线位置**：收束段。前半把「两个孤儿不要王冠也不要农场」写成主动选择，情绪是高而稳的；后半把同一件事翻过来——**有人走了，而且是留下文字说明才走的**。本件的最低点在 `I hoped Malloryn came back.`，最高点在末尾张开手臂迎光那一句，中间隔着一次道歉、一次拒绝追赶和一次道歉式的自我宽解。
 - **人物弧线**： Malloryn 从「留下来做饭、替她说三句话的室友」变成留下信就走的人，而她信里那句 `I always knew, in my heart, that she wasn’t good.` 把她自己的判断也交了出来；叙述者则从被照顾的那个变成把事情记下来的人——她没追上去，她说 `I followed her instructions`，接着坐在门前把想说的话一条条摆开（`We needed new stories`）。
-- **叙事手法**：两种口吻并置（民谣 `Said the one…` 与第一人称自述），中间用一次人物进屋做接缝；用一封分行的长信代替当面告别，把最硬的话说进纸里；结尾不用叙述者收束，而用身体动作收束——张开手臂、迎光，全篇最后一句是 `the day and the world that were rising`。
+- **叙事手法**：两种口吻并置（民谣 `Said the one…` 与第一人称自述），中间用一次人物进屋做接缝；用一封分行的长信代替当面告别，把最硬的话说进纸里；结尾不用叙述者收束，而用身体动作收束——张开手臂、迎光，全篇最后一句是 `the day and the world that was rising`。
 
 ## 精读
 
@@ -57,7 +57,7 @@ modified: "2026-10-02"
 - **中文理解**：我们需要新的故事——给山坡上种番茄的孩子们的故事，给被野火灰呛着的城市的故事，给在暗处挺直了身的勇敢女孩们的故事。给孤儿和流浪女巫的故事。
 - **关键词**：We needed new stories / stories for kids growing tomatoes on hillsides / Stories for orphans and wandering witches
 - **为什么这样写**：三个 `stories for` 把「新故事」拆成**按收信人分配**的清单，而每个收信人后面跟一个具体动作或处境（种番茄／被灰呛／在暗处站直），没有一个是抽象名词。三个破折号之后的分句一长一长再一短，最后一句 `Stories for orphans and wandering witches` 忽然短下来，把前面三类的身份（孩子、城里的人、女孩）收成两个称呼。作者不解释这些故事由谁来讲，读者却已经知道答案——由留下信的那个人来讲。
-- **读者视角提示**：`wildfire ash` 在本件里不是随便一提的词——它出现在「被呛着的城市」这句里，与前面 `wildfire ash` 那份尘土恰好对上；于是这一件的行动（编故事）有了具体对象，而不是一句漂亮话。
+- **读者视角提示**：`wildfire ash` 这个词在本件里没有落在自己身上，而是落在 `cities choked with wildfire ash` 那句里——落在别人身上。作者让「需要新故事」这件事有了一个具体的承受者，于是这一件的行动（编故事）有了对象，而不是一句漂亮话。
 
 > **原句 7:** "I felt like an orphan. I felt tattered and small, a ragged patchwork of everyone who’d left."
 

@@ -144,6 +144,15 @@ for md in targets:
             #     `text/xx_section_card_*.txt`，不占 chNN 编号 ⇒ 按 chNN 比对必假红。
             if seg in _GENERIC_LABELS:
                 continue
+            # ⚠️ 2026-10-02 豁免 **`text/` 提取件文件名**（Bird of a Thousand Stories 实测）：
+            # 导航「书内章号」栏常写 epub 件名与提取件名（`ch19_chapter_twelve_a_posy_of_
+            # alkaloids.txt`）。它们是**文件名**、不是引语——按「本章 text/ 正文」比对必然
+            # 查无（文件名里还带下划线，正文里不会这么写）⇒ **必假**。
+            # 判据：以 `.txt`/`.md`/`.xhtml` 结尾，或整体形如 `chNN_...`。
+            # 回归：Bird 该项 9 → 0，而 ch06/ch08/ch40 三条**真实**缺陷不在此豁免范围内
+            #（它们不含扩展名），仍照报——**豁免只放行文件名，不放宽引语判据**。
+            if re.search(r"\.(txt|md|xhtml|epub)$", seg) or re.fullmatch(r"ch\d+_[\w.]*", seg):
+                continue
             # ⚠️ 2026-09-29 豁免 **trope / 情节标签**（全库回归实测）：
             # 本库导航层通行写法是 `- "forced proximity" 倒计时——…` /
             # `……（训话 + 裸遇 + 同居三连），"will never see again"当场作废`，

@@ -33,7 +33,7 @@ modified: "2026-10-02"
 > **原句 3:** "He was sitting on the doorstep, his travel bag on one side, a grocery bag on the other, and a small wooden case between his feet."
 
 - **中文理解**：他坐在门口的台阶上，一边是旅行包，一边是食品袋，两只脚之间放着一只小木盒。
-- **关键词**：sitting on the doorstep / a travel bag on one side / a small wooden case between his feet
+- **关键词**：sitting on the doorstep / his travel bag on one side / a small wooden case between his feet
 - **为什么这样写**：三样东西按方位排开——`on one side`、`on the other`、`between his feet`。句子靠位置把一个人摆成等待的姿势。他带了旅行包（打算被收留），带了食品袋（打算留下来做点什么），而真正要交出去的东西小到可以搁在脚边。作者不写他的表情，只写身边物件的摆法，等待这件事就成立了。
 - **读者视角提示**：`between his feet` 是三处方位里最贴身的一处：前两样东西在他身体两侧，只有这只木盒在脚边。作者故意把最小的盒子放在最近的距离上，读者在还不知道盒中是什么时，先注意到它有多小。
 

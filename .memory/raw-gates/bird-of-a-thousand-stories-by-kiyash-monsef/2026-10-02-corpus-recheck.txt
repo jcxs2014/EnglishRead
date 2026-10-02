@@ -1,0 +1,9 @@
+=== 语料层验收（P0-0）: bird-of-a-thousand-stories-by-kiyash-monsef ===
+text/ 件数: 40
+  [1] 件数 40 == 预期 40  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 40 组 / 互查 1560 组（共享人物 15 个已豁免）  OK
+  [3] 首末句抽印已跳过（--quiet-edges）
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===

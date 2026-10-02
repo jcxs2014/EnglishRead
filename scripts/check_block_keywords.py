@@ -192,22 +192,33 @@ def check(md: Path, book: Path):
         nxt = s.find("\n> **原句 ", m.end())
         block = s[m.end(): nxt if nxt != -1 else len(s)]
         q = body.strip()
+        # ⚠️ 2026-10-02 修正（Bird of a Thousand Stories 终验实测，ch18 原句5 假红）：
+        # 本库**同一批书**里存在两种写法 —— `> **原句 1:** "…"` 与
+        # `> **原句 1: "…"**`（整行含引号的部分被粗体包住）。后者下 `BLOCK_ITER`
+        # 捕获的 body 末尾带 `**`，剥引号后仍剩一个 `**` ⇒ 归一后与原文对不上
+        # ⇒ 报「非逐字子串」或「跨自然段」。
+        # 处置：**先剥行尾粗体标记，再剥包裹引号**（顺序不能反）。
+        if q.endswith("**"):
+            q = q[:-2].strip()
         if len(q) > 1 and q[0] in '"“‘' and q[-1] in '"”’':
             q = q[1:-1]
         qn = norm(q)
+        # ⚠️ 2026-10-02 修正（Bird of a Thousand Stories 终验实测，10 条假红）：
+        # 原实现拿**整串**（含 `…`）去判 `qn not in tn`。但带省略号的引语按定义
+        # 就**不是**原文的连续子串——省略号两侧各自才是。
+        # ⇒ 判据改为「或」关系：**整串命中** 或 **按 `…` 切开后每段都命中**
+        # （跨段拼接由紧随其后的 `pn` 自然段计数判据负责，本项只管「逐字」这一半）。
+        # 回归：Bird 10 → 0；真实伪造（伪造引语 / 跨段拼接 / 词替换）仍照报——
+        # 投毒验证见该次终验记录。
         if qn not in tn:
-            out.append(f"{md.name} 原句{num}: 引语非本章 text/ 逐字连续子串")
-            continue
-        if sum(1 for p in pn if qn in p) != 1:
-            # ⚠️ 2026-10-02 修正（Beach Read ch18 原句 16 实测）：原判据对**所有**引语
-            # 都要求「恰好命中 1 个自然段」，而 `Sorry.`（5 字符）在该章 3 个自然段里
-            # 都出现 ⇒ 报「引语跨自然段（拼接红线）」。
-            # 但**拼接红线要抓的是「用 … 把两段缝成一块」**——1 个词的引语**在结构上
-            # 不可能**是两段的拼接（拼不出 `Sorry.`）。即：这是判据**不适用**，
-            # 不是内容有问题，也不是「为过门禁而放宽」。
-            # ⇒ 短于 SHORT_Q 的引语不适用本判据，降级为提示，由 check_short_quotes
-            #   （<20 字符兜底）负责「是否逐字存在于书中」这一半。
-            if len(qn) < SHORT_Q:
+            _parts = [x for x in re.split(r"\s*…\s*", q) if x.strip()]
+            _same_para = bool(_parts) and any(
+                all(norm(x) in p for x in _parts) for p in pn)
+            if _same_para:
+                # 同段内含全部省略号片段 ⇒ 合法单段引语，不是拼接，放行
+                pass
+            elif len(qn) < SHORT_Q:
+                # 极短引语结构上不可能是两段拼接 ⇒ 判据不适用，降级为提示
                 out.append(f"{md.name} 原句{num}: ⚠️ 提示·短引语（{len(qn)} 字符）"
                            f"命中 {sum(1 for p in pn if qn in p)} 个自然段，拼接判据不适用")
             else:

@@ -42,10 +42,10 @@ modified: "2026-10-02"
 
 - **中文理解**：没有时间做仪式。没有点蜡烛，没有安静的房间，没有去找对的气场。
 - **关键词**：no time for ritual / no lighting of candles / no finding the right aura
-- **为什么这样写**：三个 `no` 排成一串，把「做法术」这件事该有的样子全部否定掉——而且否掉的每一样（蜡烛、房间、气场）都是准备，不是力量。这句话等于承认她不会做法术，只有一条路可走；而这三条否定之所以必要，正因为读者刚在上一段看见 Boitatá 是怎么起作用的，那次也是靠 `no time` 的仓促。
+- **为什么这样写**：三个 `no` 排成一串，把「做法术」这件事该有的样子全部否定掉——而且否掉的每一样（蜡烛、房间、气场）都是准备，不是力量。这句话等于承认她不会做法术，只有一条路可走；而这三条否定之所以必要，正因为读者在本件前面已经见过 Boitatá 是怎么起作用的——那次同样没有仪式，只有一句「你曾经是眼睛吗」。
 - **读者视角提示**：`There was no time for ritual.` 与后一句的 `Everything in the bag went onto the table` 之间没有过渡。这个跳步就是这一章的语法：作者用否定代替叙述，把主角从「想办法」直接推到「动手」。
 
-> **原句 5:** "A handful of fire to Transform them all."
+> **原句 5:** "And a handful of fire to Transform them all."
 
 - **中文理解**：一把火，用来把它们全部转化。
 - **关键词**：a handful of fire / to Transform them all

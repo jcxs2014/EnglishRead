@@ -52,8 +52,7 @@ modified: "2026-10-02"
 - **为什么这样写**：第一句的宾语只挂了一个名词，第二句把它扩成两件物品加一个时间状语；`a globe` 在两句里原样重复，像人在慌乱时反复确认同一件事。`announced` 这个词把一句请求写成宣告，说明她此刻已经不是在商量，而是在告诉自己必须怎么做。`before I forget` 是全句的压力所在。
 - **读者视角提示**：读者刚读完一大段几乎无法阅读的知觉描写（`the rumble of distant volcanoes and the murmur of tectonic plates`），这里忽然掉回两件日用品；这个落差正是本章的写作方法——把无穷大的东西压在最小的物件上才能保存。
 
-> **原句 6:** "“You didn’t have to look,” I said. “I didn’t tell you to watch. I had to go out there. I had to see what it wanted. That’s my job, and sometimes it’s scary, but I have to do it because there’s no one else who can.”"
-
+> **原句 6:** "You didn’t have to look,” I said. “I didn’t tell you to watch. I had to go out there. I had to see what it wanted. That’s my job, and sometimes it’s scary, but I have to do it because there’s no one else who can."
 - **中文理解**：「你不必看，」我说。「我没有叫你盯着我。我必须出去。我必须去看清它想要什么。这是我的工作，有时候很吓人，但我非做不可，因为没有别人能做了。」
 - **关键词**：I didn’t tell you to watch / I had to see what it wanted / there’s no one else who can
 - **为什么这样写**：这是全章最长的一次辩解，结构却极干净：前两句推责（`You didn’t have to look` / `I didn’t tell you to watch`），中间两句用同一个 `I had to` 排比，最后一句用 `because` 把理由收到最小。`That’s my job` 一句把个人选择升成职业义务——正是这份升格让后面那句否认伤人的话有了重量。
