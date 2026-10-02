@@ -63,6 +63,10 @@ KW_RE = re.compile(r'^[ \t]*(?:[-*+][ \t]+)?\*\*关键词(?:\*\*：|：\*\*)[ \t
 # 两处各写一个数就会漂）。短于此长度的引语不适用「唯一命中 1 个自然段」判据。
 SHORT_Q = 20
 
+# 「够长自然段」阈值：短于此的自然段产不出有分析价值的引语块。
+# 用于「源文本太短 ⇒ 块数下限不适用」判据（见 check() 内注释）。
+MIN_SRC_PARA = 40
+
 _TYPO = {'’': "'", '‘': "'", '“': '"', '”': '"',
          '—': '-', '–': '-', '…': '...'}
 
@@ -104,8 +108,6 @@ def check(md: Path, book: Path):
         out.append(f"{md.name}: 结构对账失败 —— `## 本章词汇` 出现 {nvocab} 次（应为 1）")
     if nsum != 1:
         out.append(f"{md.name}: 结构对账失败 —— `## 一句话总结` 出现 {nsum} 次（应为 1）")
-    if not 3 <= nq <= 8:
-        out.append(f"{md.name}: 引语块 {nq} 个，超出言情精简格式的 3–8 配额")
     # ⚠️ 2026-10-02 收口：原只认 chNN_*.txt，空格命名的书恒 0 命中（假红型）
     import sys as _sys
     _sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -117,6 +119,24 @@ def check(md: Path, book: Path):
     ps = paras(t)
     tn = norm(t)
     pn = [norm(x) for x in ps]
+    if not 3 <= nq <= 8:
+        # ⚠️ 2026-10-02（Beach Read ch13 实测，用户裁定「删到 3-8 处」后暴露）：
+        #   ch13 全文只有一句话（`I DREAMED ABOUT GUS Everett and woke up needing
+        #   a shower.`，提取件 73 B / 1 个自然段）⇒ **物理上凑不出 3 块**。
+        #   「一条引语只取一个说话轮次/一个自然段」是硬禁令，也不能为凑配额造块。
+        #   判据写成**结构性**的而非「ch13 特例」：**源文本里够长的自然段不足 3 个时，
+        #   下限不适用**（降为提示）。真实短章在别的书里也该自动豁免。
+        #   ⚠️ 本判据必须放在 t/ps 已读出**之后**——第一版写在前面，
+        #   ps 未定义 ⇒ UnboundLocalError 让整个工具崩掉；负控表现为
+        #   「注水到 12 块也不报警」，差点被读成「判据被放松了」。
+        #   **「从不报错」的第三种成因：工具自己崩了。**
+        src_paras = [p for p in ps if len(norm(p)) >= MIN_SRC_PARA]
+        if len(src_paras) < 3:
+            out.append(f"{md.name}: ⚠️ 提示·源文本仅 {len(src_paras)} 个够长自然段"
+                       f"（<{MIN_SRC_PARA} 字符），块数下限不适用（现有 {nq} 块）")
+        else:
+            out.append(f"{md.name}: 引语块 {nq} 个，超出言情精简格式的 3–8 配额")
+
     # ⚠️ 2026-10-01 修正（本书 ch02 触发）：原实现用 BLOCK_RE 切块、却用 QUOTE_RE 取
     # 「编号 + 引语」，**两者口径不一致**——QUOTE_RE 要求引语被直双引号包裹，而引语行
     # 同样常见「原文弯引号」或「完全不加引号」两种形态。那类文件 BLOCK_RE 切出 N 块、
@@ -172,8 +192,15 @@ def check(md: Path, book: Path):
         # `’` 时必然查无。两侧必须走**同一个** norm()——判据不变，只统一口径。
         # 同批补：关键词尾部的**中文注释**（`HAVE（全大写强调）`）是本库通行写法，
         # 而注释部分按定义不在引语里 ⇒ 不剥就恒假红（实测 3 条）。
+        # ⚠️ 2026-10-02（Beg, Borrow, or Steal ch03/07/08 实测）补第四类形态：
+        # 关键词**自身带句内标点**时（`gently. Tenderly.`），norm() 只统一撇号/引号/
+        # 破折号并折叠空白、**不剥句点与逗号** ⇒ 引语里逐字存在的词被报「不在块内」
+        # （实测 5 条假红）。判据不变（每个关键词仍须能在本块引语内找到），
+        # 只把两侧都归一到字母数字，与 check_chapter_quotes / sweep_full 同口径。
+        def _flat(x: str) -> str:
+            return re.sub(r'[^a-z0-9]', '', x.lower())
         miss = [k for k in kws
-                if norm(re.sub(r"（[^）]*）|\([^)]*\)", "", k)).lower() not in qn.lower()]
+                if _flat(re.sub(r"（[^）]*）|\([^)]*\)", "", k)) not in _flat(qn)]
         if miss:
             out.append(f"{md.name} 原句{num}: 关键词不在本块引语内 → {miss}")
     return out

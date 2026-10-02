@@ -30,70 +30,42 @@ source_text: "text/ch15 15 the past.txt"
 **为什么这样写：**这是**科学词与无知词的对冲**：`antioxidants`（抗氧化剂）是她能说出的那个正式名称，随即 `Or whatever was in green tea`（或者绿茶里那个东西）用 `whatever` 把精确的名词换成**「说不清是什么」**。`good for you` 加引号是关键——这三个字是**母亲会说的话**，不是饮料的说明；引号让一句健康建议变成**转述的关心**。作者接着给出原因（她记不住，是因为当时记住的重点是**让母亲高兴**，不是让自己受益），于是养生这个词被换成了**母女关系的旧账**。
 **读者视角提示：**这一句把「喝绿茶」和「母亲」焊在一起；本章接下来要掀的正是她与母亲之间那笔旧账。
 
-> **原句 3:** I reminded myself that FAMILY_SECRETS.docx was rapidly growing into a book-like thing. Even one I’d be curious to read.
-
-**中文理解：**我提醒自己，FAMILY_SECRETS.docx 正迅速长成一个像书的东西。甚至是一本我自己会有兴趣读的书。
-**关键词：**rapidly growing into / a book-like thing / one I’d be curious to read
-**为什么这样写：**`book-like`（像书的）用**后缀 -like** 承认这个文件目前**还不是书**——她没有假装自己的处境比实际更好。`rapidly growing into`（正在迅速长成）用进行时写**未完成**，随后 `Even one I’d be curious to read`（甚至是一本我会想读的）用 `Even`（甚至）把这个小小的自我评价往上抬了一格：一个业余的自我判断，因为**读者是我自己**才被允许成立。文件名在此处再次出现（上一章由她亲手改名的那个），作者用它当**进度条**。
-**读者视角提示：**她已经不再需要有人授权才能写这本书；这一句是职业自信的恢复点，也是本章崩盘前的最高水位。
-
-> **原句 4:** Sure, I drive him batty calling as much as I do, but I worry. We’re the only family each other’s got here.
+> **原句 3:** Sure, I drive him batty calling as much as I do, but I worry. We’re the only family each other’s got here.
 
 **中文理解：**我打这么多次电话肯定把他烦坏了，但我担心。我们在这座镇上就是对方仅剩的家人。
 **关键词：**drive him batty / but I worry / the only family each other’s got here
 **为什么这样写：**`drive … batty`（把人逼疯）是口语，但 `but I worry`（但我担心）用一个短促的转折把它降级成**辩解**——她先认领自己的缺点，再坚持动机。最后一句用 `each other’s`（彼此的）这个**互指所有格**一次收拢两人：`the only family` 不是各有各的家，是**彼此仅剩的那一个**。这句因此把「姑姑给侄子打电话」重新定性成**两个孤人的接线**。
 **读者视角提示：**这是 Pete 对他们关系的定义，与 January 以为的定义（他只是邻居／对手）**不在一个量级**上；她当时没有听出这一点。
 
-> **原句 5:** So much of it shows up in his books you’d think he’d be comfortable peeling off his skin and parading through Times Square.
+> **原句 4:** So much of it shows up in his books you’d think he’d be comfortable peeling off his skin and parading through Times Square.
 
 **中文理解：**他书里有那么多这样的东西，你会以为他乐意把自己的皮剥下来、到时代广场上走一趟。
 **关键词：**shows up in his books / peeling off his skin / parading through Times Square
 **为什么这样写：**这一句是对「作家不隐私」这件事的**极端比喻**：`shows up in his books`（出现在他的书里）本是中性的描述，被 `peeling off his skin`（剥皮）推成**自残式的坦白**，再被 `parading through Times Square`（到时代广场游行）推成**公开展示**。三级递进（出现 → 剥皮 → 游行）把「他把生活写进小说」翻译成一个**关于暴露程度**的刻度。作者用 `you’d think`（你会以为）保留了说话人自己的**迟疑**——她说完立刻接上一句 `that might just be me projecting`（那也许只是我在投射），把判断的重量卸掉一半。
 **读者视角提示：**她说这话时还不知道自己是**言情小说家**——两个都靠写作吃饭的人，在这一句里对上了口径。
 
-> **原句 6:** I felt like I’d just dropped a wooden doll only to watch six more fall out and discover it had been a matryoshka.
-
-**中文理解：**我感觉自己刚刚掉了一个木娃娃，结果眼看着又掉了六个出来，才发现它是个套娃。
-**关键词：**dropped a wooden doll / six more fall out / it had been a matryoshka
-**为什么这样写：**这一句是**发现落在动作之后**：先把木娃娃摔出去（`dropped`），再一个一个掉出来（`six more`），**最后**才认出它是什么（`discover it had been`）——`discover` 这个词在句末，把认知放在了视觉之后，符合「先看见现象、再认出名目」的顺序。`matryoshka`（俄罗斯套娃）是**外来词直接入文**，作者不解释、只使用，说明她假定读者认识；而套娃的核心属性（**里面还有更小的**）正好是这一段的逻辑：还有一层，还有一层。
-**读者视角提示：**下一段她把这个比喻兑现了——`There was the Gus I knew … And then there was the other Gus …`（有她认识的那个 Gus……然后还有另一个 Gus……），两个版本不是并列，是**套在一起**的。
-
-> **原句 7:** Be patient with him, January. He really likes you.
+> **原句 5:** Be patient with him, January. He really likes you.
 
 **中文理解：**对他耐心一点，January。他真的很喜欢你。
 **关键词：**Be patient with him / He really likes you
 **为什么这样写：**这是这场戏里**直白的一句肯定**，而它来自一个刚把一整串坏消息交出来的人。`Be patient with him`（对他耐心点）用祈使句把**要求**放在她身上，`He really likes you`（他真的喜欢你）把奖励悬在前面——两句构成**先付代价、后给补偿**的结构。`really`（真的）是她加重语气的地方，而这个加重恰恰落在她**已经不信**的那件事上。
 **读者视角提示：**她紧接着试图否认（`I think you’re misunderstanding the—`），但被一句 `I’m not.` 打断；这次替她说话的人**不在她这一边**。
 
-> **原句 8:** His birthday’s really hard for him ever since the split.
-
-**中文理解：**自从那次分手以来，他的生日一直很难过。
-**关键词：**His birthday’s really hard for him / ever since / the split
-**为什么这样写：**`the split`（那次分开）是一个**刻意含糊的名词**：Pete 没说离婚、也没说谁离开谁，只给了一个可以被误读成任何事的词。`ever since`（从那以后一直）把时间拉成**一条持续的线**——不是某个坏掉的日子，是此后每年同一天都在坏。`really hard` 是极轻的三个字，与前面那些大事（结婚、离婚、母亲出走）形成**落差**：最重的伤害，落在最轻的措辞上。
-**读者视角提示：**`the split` 这个含糊说法正是她接下来一句反问的起因——`She left him on his birthday?`（她是在他生日那天离开的？）。
-
-> **原句 9:** She left him on it, you know. And every year since then, his friend Markham throws this huge party to try and keep his mind off it.
+> **原句 6:** She left him on it, you know. And every year since then, his friend Markham throws this huge party to try and keep his mind off it.
 
 **中文理解：**她就是那天走的，你懂的。而从那以后每年，他朋友 Markham 都会办一场大派对，好让他别去想这件事。
 **关键词：**She left him on it / every year since then / to try and keep his mind off it
 **为什么这样写：**`left him on it`（把他留在那一天上）把「离开」写成**遗物式**的动词：不是她走了，而是**那一天把他留住了**。`it` 无先行词，指的是那个生日——作者让这一天变成一个**可以被留下、可以被回避、可以被绕开的物件**。后半句用 `to try and keep his mind off it`（好让他别去想它）收尾，`mind off`（把心思挪开）是把注意力当**可以搬走的东西**；`huge`（超大）则说明这场派对是**用力过猛**的补偿。
 **读者视角提示：**Pete 提到的 Markham 每年替他办派对，说明他**身边有人知道他过不去**——而他选择的是**让派对办成、自己不出面**（下一段：他不想要派对，但他不想让 Markham 以为他难过）。
 
-> **原句 10:** Gus had been married.
+> **原句 7:** Gus had been married.
 
 **中文理解：**Gus 结过婚。
 **关键词：**Gus had been married
 **为什么这样写：**这是全章**最短的一句陈述句**，而它前面还有一个成对的独立短句（`Gus was divorced.`——他离了婚）。两句都只有主语加谓语，没有修饰、没有解释，作者把它们**各自单独成段**，让读者在没有缓冲的段落里连吃两下。`had been`（曾经是）选的是**完成时**，强调的不是「现在是」也不是「将要是」，而是**这件事已经结束且已成事实**——与他「只来一次」的说法直接冲突。
 **读者视角提示：**这句是全章的信息核弹；它紧跟在她的 `Divorce … It was about … his divorce.` 之后，属于**双重确认**（她先听见，他姑姑再确认一次）。
 
-> **原句 11:** Like the epitome of love, the kind that can weather anything.
-
-**中文理解：**那种爱的典范，那种能挺过一切的爱。
-**关键词：**the epitome of love / the kind that can weather anything
-**为什么这样写：**这是一段**同位语的碎片**（它紧跟在前面那句关于「婚姻是神圣的东西」之后），用 `Like`（像）起头，把自己降级成**比喻**。`the epitome of`（……的典范）是很正式的书面语，被她用在一句口气松垮的心里话里，形成**语域错位**。真正的重量在 `weather`（挺过）——这个词本义是「度过风雨」，作者把它用在一段**关系**上，于是「爱」被写成一个**能扛住气候的东西**。
-**读者视角提示：**同一段里她接着说 `And I hate thinking some bad experiences justify people shitting on the entire concept.`（我讨厌那种想法：某些糟糕经历就足以让人们把这个概念整个糟蹋掉。）——她的愤怒不在于他结过婚，在于**他结过婚这件事可能证伪她的信念**。
-
-> **原句 12:** I had a feeling she would have said that even if it didn’t.
+> **原句 8:** I had a feeling she would have said that even if it didn’t.
 
 **中文理解：**我有个感觉：就算不是真的，她也照样会说那句话。
 **关键词：**I had a feeling / she would have said that even if it didn’t
