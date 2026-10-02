@@ -133,18 +133,17 @@ commit 共 17 次（完工 12 · 整改 2 · 原件归档 2 · 协作 1）：`b5
 《The Beasts We Bury》（the-beasts-we-bury-by-d-l-taylor）
 
 **【完工】29/29 章（ch01–ch28 + Epilogue）+ 总览三篇（概述/金句25/情感节点10）＝ 32 md；text/ 29 件，md 29 == text 29。** YA 奇幻长篇（Henry Holt / Fierce Reads 2025），精简格式。
-- **门禁**：verify_quotes 263/263（100%）· 干净 31/31 · check_vocab 1026 词条 FAIL 0 · sweep_full 224 命中/跨章 0/拼接 0/查无 0 · 短引语 3/3 · 逐章归属 29/29 · 结构 0 · 凭空造词 0 · 分析层英文 1041 条全逐字 · 总览 40/40 · check_overview_full 整串 0 查无/标签 0 不符/H1 0 错配 · 主会话三检查器 A 类 0 · 关键词 225 块 0 未锚定 · 专名 0 伪造。
+- **门禁：gate.sh 18 项全通过，GATE_EXIT=0**。verify_quotes 263/263（100%）· 干净 31/31 · check_vocab 1026 词条 FAIL 0 · sweep_full 224 命中/跨章 0/拼接 0/查无 0 · 短引语 3/3 · 逐章归属 29/29 · 结构 0 · 凭空造词 0 · 分析层英文 1041 条全逐字 · 总览 40/40 · check_overview_full 整串 0 查无/标签 0 不符/H1 0 错配 · 主会话三检查器 A 类 0 · 关键词 225 块 0 未锚定 · 专名 0 伪造。
 - **结构勘定（程序化读出）**：正文 29 件 = spine 39 − 5 front − 5 back；**双 POV 奇偶交替，但 ch27/ch28/Epilogue 连着都是 Mancella 视角**；倒计时递减、ch08→ch09 少两天（书内如此不圆）；ch27·28 的 NCX 标签同名，只能靠 keyplot 区分。
 
 **【五步审查 · 用户同会话发起 · a–e 全跑】不予放行 → 两轮整改后放行。**
 - ⭐ **新缺陷形态**：25 条金句里 **9 条「引语逐字对、中文逐字对、错的只是配对」**（手写 `{Q:NN:seq}` 未核对指向哪一条）⇒ 指纹/flat/结构/**章节标签对账全部无感**。定位法：拿「我写的【中文】」与「引语池自带【中文】」比相似度。
 - ⭐ **结局主体搞反**：ch29 是**被锁在壁橱里的那个人自己踹开门走出来**说「Try it.」，不是 Mancella 走出去。
 - ⭐ **主会话自己判错、被子代理推翻**：曾把「Mara 姐/妹」判为书内矛盾并中性化 17 处；实际证据 **5:1** 指向姐姐（ch23 `You're my little sister` 最硬），唯一反证只有 ch19 `Or Mara at ten`。已撤销、恢复「姐姐」、删除错误的「不予裁决」整节。**教训：「不裁决」是给真的两可用的，不是给「没把证据数完」用的。**
-- 另修概述/节点 5 条事实错误（手没断/进 Citadel 的是 Father 与 Uncle Edwarn/隔了一天/Silver 是 Academy 孤儿/花环是她自己编的）＋子代理二审 84 条阻断型中复核成立的 20 余条（ch06 一章内 3 处 Guerre/Silver 张冠李戴、跨章指涉方向错、可核最高级证伪等）。提示型约 50 条一律只记不改。
-- **三处共享工具真 bug 已修**：`build_vocab_table` 的 NameError（该工具对任何书都跑不了）· `gen_overview` 的 `{P:}` 空承诺 · 档标题写裸星会让分档检查整项静默失效。
-- ⚠️ **门禁 ⑰ `check_quote_blocks` 报 675 处孤儿分析＝假红型**：其「子项段首行」判据写死 `lines[i-2]`，只适配 beach-read 的连续排版（22 文件），而本书属**全库多数派 510:22**（子项间有空行）。**未自行改动他人正在开发的共享工具**，修法见审查报告。
-- **commit**：`416b84742`（二轮整改）· `7b4dd8a39`（一轮）· `3ce9d3f3e`（清单归档）· `fed5f9090`/`c3166f010`/`160801a1a`/`1dd3751c9`/`fbf1b8c3d`。**未 push。**
-- **原件**：门禁 `.memory/raw-gates/the-beasts-we-bury-by-d-l-taylor/2026-10-02-完工门禁.txt` 与 `…第3条门禁逐项.txt`；审查清单 `.memory/reviews/2026-10-02-the-beasts-we-bury-by-d-l-taylor-五步审查.md`。明细见工作日志 `.memory/daily/2026-10-02.md`「The Beasts We Bury」专节。
+- 另修概述/节点 5 条事实错误（手没断/进 Citadel 的是 Father 与 Uncle Edwarn/隔了一天/Silver 是 Academy 孤儿/花环是她自己编的）＋子代理二审 84 条阻断型中复核成立的 20 余条。提示型约 50 条一律只记不改。
+- **五处共享工具真 bug 已修并入库**：`build_vocab_table` 的 NameError（对任何书都跑不了）· `gen_overview` 的 `{P:}` 空承诺 · 档标题裸星使分档检查静默失效 · **⑰ `check_quote_blocks` 675 处假红** · **⑱ `check_block_keywords` 175 处假红**（后两笔由门禁属主实例提交 `6558291f0`／`447b9e0e3`，与本轮两处假红报告一一对应）。**修后 gate.sh 18 项全过。**
+- **commit**：`447b9e0e3`／`6558291f0`（工具）· `bf7f33d73`（板与日志）· `416b84742`（二轮整改）· `7b4dd8a39`（一轮）· `3ce9d3f3e`（清单归档）· `fed5f9090`／`c3166f010`／`160801a1a`（完工）。**未 push。**
+- **原件**：门禁 `.memory/raw-gates/the-beasts-we-bury-by-d-l-taylor/`；审查清单 `.memory/reviews/2026-10-02-the-beasts-we-bury-by-d-l-taylor-五步审查.md`。明细见工作日志 `.memory/daily/2026-10-02.md`「The Beasts We Bury」专节。
 
 ### [2026-10-02 12:16 UTC] [DSH-Mac] → All
 
