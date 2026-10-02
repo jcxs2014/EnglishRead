@@ -100,22 +100,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 书：Beach Read（Emily Henry, Penguin UK 2020）· 言情/rom-com 长篇 · 目录 notes/books/novels/beach-read-by-emily-henry/
 正文：ch01–ch28 逐章精读 28 件（chNN 与书内章号零偏移），引语 370 块；总览三篇（概述 3 主题+5 弧光 · 金句 18 · 节点 8）。
 语料层 P0-0 PASS：text/ 28 件 == 预期 28，锚点双向 28 组/互查 756 组；ch13 极短章经页码与 bea ID 双证据确认非缺失。
-⛔ 终验七轮，**每一轮都在「门禁全绿」下查出阻断型，每一轮的根因都是「该跑的没跑」**：① 自拼 13 道门禁、漏正门 gate.sh ⑧⑩⑬
+⛔ 终验八轮，**每一轮都在「门禁全绿」下查出阻断型，根因都是「该跑的没跑」或「没人看那一层」**：① 自拼 13 道门禁、漏正门 gate.sh ⑧⑩⑬
 → 29 处（28 章「一句话总结」非规范形态、ch04 标题重复、导航标签未加粗）；② 按「终验清单」逐项划 ✓ 发现 check_crossref 与 ⑩ 的 🟠
 「须逐条人判」从未做 → 14 处（ch22 引全书 0 命中的 one of the many、ch06 引全书无 bike 的伪造句、词表词头换词 12）；
 ③ WARN 逐条处置 → 4 处（伪造词条 frankly、词例错配 my back、高级档注水 2 条降基础档）；④ 跨章指认 → 12 处（**系统性往前偏 1–2 章**）；
-⑤ 该类固化为常跑门禁 `check_xref_chapter.py`（gate.sh ⑯，16 项）→ 再修 4 处（Ohhh／the≠Those／`/` 拼记法／biblical whale 归章）；⑥ 清单最后两项补齐 → audit_numbers ⚠️差1 四条逐条判读，修 2 处**真实计数错**（「两个 but」「第二个 to fail」原句各只有 1 个），2 条判为口径差；⑦ **工具链收口**：`ls scripts/` 共 57 个 py、我此前只跑过约 20 个（与漏跑正门、漏跑清单同形态）→ 补跑 10+ 个从未跑过的检查，再修 10 处，并**修好一个崩溃的检查器**（`check_xref_zh` 是提取件定位收口时漏掉的第 9 处，对本书直接 IndexError；改用 chapter_text_path 后全库 0 处内联 glob）。
+⑤ 该类固化为常跑门禁 `check_xref_chapter.py`（gate.sh ⑯，16 项）→ 再修 4 处（Ohhh／the≠Those／`/` 拼记法／biblical whale 归章）；⑥ 清单最后两项补齐 → audit_numbers ⚠️差1 四条逐条判读，修 2 处**真实计数错**（「两个 but」「第二个 to fail」原句各只有 1 个），2 条判为口径差；⑦ **工具链收口**：`ls scripts/` 共 57 个 py、我此前只跑过约 20 个（与漏跑正门、漏跑清单同形态）→ 补跑 10+ 个从未跑过的检查，再修 10 处，并**修好一个崩溃的检查器**（`check_xref_zh` 是提取件定位收口时漏掉的第 9 处，对本书直接 IndexError；改用 chapter_text_path 后全库 0 处内联 glob）；⑧ **独立验证器指出三处引语块结构损坏**（ch18 孤儿分析 / ch21 引语行丢 `> ` 前缀 + 原句 9-10 倒序撞车 / 写作期自查记录泄漏）——这类损坏**对六道引语门禁全部不可见**（它们只解析带 `> ` 的行），已全修并新增 `check_quote_blocks.py` 接入 gate.sh ⑰（17 项）。
 教训：清单**以 gate.sh 为准、不得自拼**；标「**须逐条人判**」的项**贴数字不算做完**；核含 U+2019 的串**不可用 grep**（`.` 匹配不了 ’，会给假的「0 命中」）。
-第 3 条门禁（末轮 exit=0）：引语 386/386（干净 29/29）· vocab FAIL 0 · entities 0 · corruption 0 · sweep_full 370/0/0/0 ·
-逐章 370/370 · short_quotes 24/24 · nav_layer 0/0 · structure 0 · anchor 0 · 块覆盖 28 文件 · 空段 0 · crossref 0 报警 ·
-audit_numbers 阻断型 0 · 占位/垃圾行 0 · ⑯ 跨章 伪造 0／移章 2（均已人工判正当）。总览 38/38 · H1 0 错配。
+第 3 条门禁（末轮 exit=0）：引语 386/386（干净 29/29）· vocab FAIL 0 · entities 0 · corruption 0 · sweep_full 372/0/0/0 ·
+逐章 372/372 · short_quotes 24/24 · nav_layer 0/0 · structure 0 · anchor 0 · 块覆盖 28 文件 · 空段 0 · crossref 0 报警 ·
+audit_numbers 阻断型 0 · 占位/垃圾行 0 · ⑯ 跨章 伪造 0／移章 2（已人工判正当）· ⑰ 引语块结构 ✅。总览 38/38 · H1 0 错配。
 生产方式：4 路子代理并行分章（所有权不重叠，brief 含真实案例与防幻觉条款），引语写前 grep 预验，词表走 vocab_candidates 只做减法，总览由 gen_overview 从已核实引语池生成；主会话重跑全量门禁，不采信 worker 自报数字。
 工具根因修复：提取件定位收口为 scripts/chapter_text_path.py（同一缺陷 8 处，7 个工具各内联一份只认下划线的 glob，而根规则规定分隔符是空格 ⇒ 假红）；回归 Whispers 67 章数字不变；check_spec.py 收口引入存量书回归，已回滚记为未修项。
 commit（均未 push）：0b12ed4c7 工具 · 5e270cd3d ch01 · d466c3c08 ch02–ch28 · 4aabd0078 总览 · 01e1dfc7f 板/日志
-+raw-gates · 923b2d8a7 修 29 处格式 · 0a502bb43 修 14 处 · b55ab2f61 修 4 处词表 · aafb93a8f 修 12 处 · 0baab9cd9 门禁 ⑯ + 修 4 处 · 1fafb11f0 修 2 处计数错 · 1aeaabef7 补跑 10+ 检查修 10 处 + 修好 1 个崩溃检查器。
++raw-gates · 923b2d8a7 修 29 处格式 · 0a502bb43 修 14 处 · b55ab2f61 修 4 处词表 · aafb93a8f 修 12 处 · 0baab9cd9 门禁 ⑯ + 修 4 处 · 1fafb11f0 修 2 处计数错 · 1aeaabef7 补跑 10+ 检查修 10 处 + 修好 1 个崩溃检查器 · ae486e334 修结构损坏 3 处 + 门禁 ⑰。
 提示型遗留（只记不改）：vocab WARN 51（全部为「基础档疑含超纲词」长度≥9 启发式）· structure 提示 1（ch13）· audit_numbers ❓60/⚪16 ·
 词表另有 50 行词头为全库一致惯例（冠词/属格/原形化/截短）· ⑯ 移章 2 条为 20 字符窗口已知误配。
-原始输出见 .memory/raw-gates/beach-read-by-emily-henry/（271+98+98+97+99+107 行六份），明细见工作日志当日条目。五步审查未做（待用户发起）。
+原始输出见 .memory/raw-gates/beach-read-by-emily-henry/（271+98+98+97+99+107+110 行七份），明细见工作日志当日条目。五步审查未做（待用户发起）。
 
 ### [2026-10-02 11:10 UTC] [ZCode-Mac] → All
 
