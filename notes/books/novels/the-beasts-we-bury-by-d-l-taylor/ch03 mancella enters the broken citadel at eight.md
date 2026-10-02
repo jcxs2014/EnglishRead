@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：八岁的 Mancella 被父亲带进废墟之城，排在姐姐 Mara 后面进 Broken Citadel；醒来时她已经躺在当下的城堡里，与新任草原 Prime Azele 同席吃饭，认出端上桌的那块肉正是自己杀的那只美洲豹，章末收到一张没有署名的便条。
+- **一句话概括**：八岁的 Mancella 被父亲带进废墟之城，排在 Mara 后面进 Broken Citadel；醒来时她已经躺在当下的城堡里，与新任草原 Prime Azele 同席吃饭，认出端上桌的那块肉正是自己杀的那只美洲豹，章末收到一张没有署名的便条。
 - **情感弧线位置**：倒计时从 ch02 的 15 天走到 14 天；这一章把「资格」的来源整个摊开——魔法不是奖赏而是筛选，而筛选的账单开在孩子身上。
 - **人物弧线**：她在这一章两次自己动手，一次是抢在大人决定之前冲进 Citadel，一次是在餐桌上把美洲豹放了出来；两次都不是为了赢，都是为了阻止场面继续按别人的样子走。
 - **叙事手法**：第一人称限知（Mancella 视角）；童年记忆与当下的餐桌两段拼接；倒计时副标题（`|14 DAYS UNTIL THE ASSURANCE|`）压在童年场景上，让回忆本身也带上了期限。
@@ -73,7 +73,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** completely bloodless 与 burst out、exploded 并置在同一句里，把「血不见了」和「血喷得到处都是」压到一起，读者不需要任何解释就会觉得矛盾；under her fingernails 这个部位选得很怪，让「血从身体里往外炸」落到了指甲缝这种细节上。
 
-**读者视角提示：** 这一段是姐姐转述的，来源是据说而不是现场；姐姐随后还给出一条「只有她自己能做到」的结论，本章不给任何旁证。
+**读者视角提示：** 这一段是姐姐转述的，来源是据说而不是现场；Mara随后还给出一条「只有她自己能做到」的结论，本章不给任何旁证。
 
 > **原句 7:** "Sitting on my shiny glass plate is a steak. Rare. No sides, no garnishes, just a giant slab of steaming, bloody meat."
 
@@ -105,7 +105,7 @@ modified: "2026-10-02"
 | disappeared | 消失；不见了人 | At least they did before they suddenly disappeared a few weeks ago, something no one has been willing to explain to me. |
 | festering | 溃烂的；正在腐烂的 | Something grew there, like a fungus in its festering corpse. |
 | quicksand | 流沙 | Like if the sand below our feet turned into quicksand, if it started to suck me in, he would drop my hand and keep walking. |
-| big-sisterly | 姐姐式的；摆出长姐的口气 | “Don’t worry so much,” she says, with big-sisterly confidence. |
+| big-sisterly | 长姐式的；摆出年长者口气的（书中据此称 Mara 年长，但 ch19 反过来说她十岁，原文自相矛盾） | “Don’t worry so much,” she says, with big-sisterly confidence. |
 | uncomfortably | 让人不舒服地；紧得难受 | I grab for her arm, but my mother pulls me back, her pretty nails scraping my wrist, and my father’s grip tightens uncomfortably. |
 | infinitesimal | 微乎其微的；短到几乎不存在 | And that small, brief, infinitesimal moment of twisting terrifies me more than the rushing, consuming force that preceded it ever could. |
 | translucent | 半透明的 | The green of the magic is paler now, ghostly and translucent in the night. |

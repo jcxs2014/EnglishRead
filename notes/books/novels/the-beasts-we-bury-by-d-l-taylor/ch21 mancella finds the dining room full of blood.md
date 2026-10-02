@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：她一路把初识那天写给自己的那张纸条撕碎撒进风里，冲进城门时却发现整支卫队都被调去操练；她隔着二楼的窗看见父亲、妹妹和母亲正在吃饭，那画面安静得像一幅画，然后墙上一道她认得的裂缝动了起来——等她冲到门口，里面只剩一地血。
+- **一句话概括**：她一路把初识那天写给自己的那张纸条撕碎撒进风里，冲进城门时却发现整支卫队都被调去操练；她隔着二楼的窗看见父亲、Mara 和母亲正在吃饭，那画面安静得像一幅画，然后墙上一道她认得的裂缝动了起来——等她冲到门口，里面只剩一地血。
 - **情感弧线位置**：倒计时停在还剩两天的位置上，本章把「失去」从预期变成既成事实；她却活着出来了，于是这份失去同时成了她往前走的起点。
 - **人物弧线**：Mancella 在这一章里连着做两次狠事——撕碎信物、当场下令封城门——却在看见家人那一眼时发现自己根本没有预期的解脱。
 - **叙事手法**：第一人称限知（Mancella 视角）；倒计时副标题（`|2 DAYS UNTIL THE ASSURANCE|`）；一串短促的动作段落推进，中间穿插大量单独成段的短句来制造心跳节奏，末尾以一个疑问收束。
@@ -134,7 +134,7 @@ modified: "2026-10-02"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | father | 父亲 | Every time I make small talk with my father. |
-| sister | 妹妹 | Unless it’s my parents, my sister, or me. |
+| sister | 姐妹中的一人（书中两处说法不一致，见下） | Unless it’s my parents, my sister, or me. |
 | family | 家人 | I have just become aware of a threat to the Prime and his family. |
 | mother | 母亲 | My mother’s sipping a drink with a pinkie extended and not one hair out of place. |
 | accusation | 指控 | It sounds like an accusation, and the guard in front of me flinches. |

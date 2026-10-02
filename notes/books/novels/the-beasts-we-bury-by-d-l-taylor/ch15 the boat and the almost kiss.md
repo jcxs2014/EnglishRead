@@ -20,7 +20,7 @@ modified: "2026-10-02"
 
 **关键词：** Warmth curls in my stomach, like steam over a mug of cocoa, I revel in the feeling
 
-**为什么这样写：** 暖被写成 steam，用一个正在上升、随即散掉的东西作比；revel in the feeling 把这份感受直接摊成享受，句子不解释她为什么高兴，读者知道原因只因为上一章她刚被追着逃命。
+**为什么这样写：** 暖被写成 steam，用一个正在上升、随即散掉的东西作比；revel in the feeling 把这份感受直接摊成享受，句子不解释她为什么高兴，读者知道原因只因为本章开头那三句已经交代过。
 
 **读者视角提示：** 本章开头那句 He actually came. I didn’t even ask him to, but he was there. 才是她高兴的理由，而这一句只写了理由的身体形状。
 

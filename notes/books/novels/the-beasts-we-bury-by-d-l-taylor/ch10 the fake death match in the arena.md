@@ -9,7 +9,7 @@ modified: "2026-10-02"
 - **一句话概括**：他被自己的计划挤到走廊上假装擦花瓶，眼看 Mance 在竞技场上一度真要把 Vie 的脖子拧断；Rooftop 当众报出死讯后他冲出宫门，在树篱迷宫里冲着追来的 Mance 发泄愤怒，却发现对方只是把他的颈骨掰回了原位。
 - **情感弧线位置**：敌我关系在这里不再只由立场维持——Silver 在这一章开始替对方的疼痛负责。
 - **人物弧线**：Silver 从计划被人抢了的不平，走到在观众席上承认自己看不下去她挨打，再到迷宫中把愤怒泼错了人；结尾他没得到解释，只得到一个先他一步离开的背影。
-- **叙事手法**：第一人称限知；倒计时副标题；场景从走廊转到竞技场侧室，再转到宫外的树篱与玻璃园。
+- **叙事手法**：第一人称限知；倒计时副标题；场景从走廊转到竞技场侧室，再转到宫外的玻璃园与树篱迷宫。
 - **视角**：Silver 第一人称；本章处于偶数章序列，与前后两章的 Mancella 视角交替。
 
 ## 精读
@@ -66,7 +66,7 @@ modified: "2026-10-02"
 
 > **原句 6:** "“The magic has a bloodlust,” she tells me. “And at a certain point in the fight, that bloodlust takes over. My sister stops guarding. She stops evading. She becomes the fight. Watch.”"
 
-**中文理解：** Mara 侧过身低声解释：魔法本身有嗜血的欲望，打到某个时刻那欲望会接管；接着她姐姐不再防守、不再躲闪，整个人变成这场战斗本身——她说，看。
+**中文理解：** Mara 侧过身低声解释：魔法本身有嗜血的欲望，打到某个时刻那欲望会接管；接着 Mance 不再防守、不再躲闪，整个人变成这场战斗本身——Mara 说，看。
 
 **关键词：** the magic has a bloodlust, that bloodlust takes over, My sister stops guarding, She becomes the fight, Watch
 
