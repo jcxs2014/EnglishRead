@@ -208,7 +208,7 @@ source_text: ch05_4_selling_israeli_occupation_to_the_worl.txt
 
 ### ⑩ 「难民被视为目标」
 
-> **原句 10:** "Refugees are seen as targets and goals to be registered."
+> **原句 10:** "Refugees are seen as targets and goals to be registered"
 
 **中文理解**：难民被视为目标，以及需要登记的指标。
 
@@ -222,7 +222,7 @@ source_text: ch05_4_selling_israeli_occupation_to_the_worl.txt
 
 ### ⑪ 「把利比亚当成坏人」
 
-> **原句 11:** "Make Libya the bad guy."
+> **原句 11:** "Make Libya the bad guy"
 
 **中文理解**：让利比亚当那个坏人。
 
@@ -278,7 +278,7 @@ source_text: ch05_4_selling_israeli_occupation_to_the_worl.txt
 
 ### ⑮ 「赎罪方式」
 
-> **原句 15:** "The Israeli government, in partnership with the German right, has been allowed to define how Germans should atone for their genocidally antisemitic past."
+> **原句 15:** "The Israeli government, in partnership with the German right, has been allowed to define how Germans should atone for their genocidally antisemitic past"
 
 **中文理解**：以色列政府，与德国右翼合作，被允许去定义德国人应当如何为其种族灭绝性的反犹历史赎罪。
 

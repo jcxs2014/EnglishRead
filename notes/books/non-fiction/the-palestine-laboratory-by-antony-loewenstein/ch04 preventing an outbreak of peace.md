@@ -236,7 +236,7 @@ source_text: ch04_3_preventing_an_outbreak_of_peace.txt
 
 ### ⑫ 「眼泪之海」与「臭水」
 
-> **原句 12:** "another innovation was the “skunk water” drone, a form of liquid emitted from a water cannon that left a foul smell on clothes and body for a long time."
+> **原句 12:** "Another innovation was the “skunk water” drone, a form of liquid emitted from a water cannon that left a foul smell on clothes and body for a long time."
 
 **中文理解**：另一项创新是「臭水」无人机——一种从水炮中喷出的液体，能在衣物与身体上留下长时间的恶臭。
 

@@ -95,9 +95,7 @@ modified: "2026-10-02"
 
 > {Q:8:5}（ch08）
 
-"My job is … to speak at Facebook on behalf of Israel and the Jewish diaspora. … I represent Israel in these meetings."
-
-（我）的工作是……代表以色列和犹太侨民在 Facebook 发言。……我在这些会议中代表以色列。
+（我）的工作是……代表以色列和犹太侨民在 Facebook 发言。我们每周开会讨论从垃圾邮件、色情到仇恨言论、欺凌和暴力的一切，以及它们与我们社区标准的关系。我在这些会议中代表以色列。
 
 **为什么这个节点重要**：这一处是全书论证的最后一环，也是最沉默的一环——没有爆炸，没有尸体，只有一个每周一次的会议。作者不给评论，是因为陈述本身已经足够。on behalf of（代表）这一外交用语把商业会议写成了外交场合；而在一个「代表」缺席、另一个国家有代表的结构里，第 8 章所列举的全部删除（#SaveSheikhJarrah、阿克萨清真寺、Qassam 庆生帖、加沙被炸建筑照片）就有了共同的方向。
 

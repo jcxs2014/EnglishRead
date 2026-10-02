@@ -147,17 +147,17 @@ source_text: ch08_7_social_media_companies_don_t_like_pale.txt
 
 ### ⑤ 「每个人的代表」
 
-> **原句 5:** "My job is … to speak at Facebook on behalf of Israel and the Jewish diaspora. … I represent Israel in these meetings."
+> **原句 5:** "My job is … to speak at Facebook on behalf of Israel and the Jewish diaspora. We have meetings every week to talk about everything from spam to pornography to hate speech and bullying and violence, and how they relate to our community standards. I represent Israel in these meetings."
 
-**中文理解**：我的工作是……代表以色列和犹太侨民在 Facebook 发言。……我在这些会议中代表以色列。
+**中文理解**：我的工作是……代表以色列和犹太侨民在 Facebook 发言。我们每周开会讨论从垃圾邮件、色情到仇恨言论、欺凌和暴力的一切，以及它们与我们社区标准的关系。我在这些会议中代表以色列。
 
-**句子结构**：两句。首句为「主语 + 系动词 + 不定式」结构：My job 为主语，is 为系动词，to speak at Facebook on behalf of Israel and the Jewish diaspora 为不定式作表语（省略了 which is 的定语从句），on behalf of 为介词短语（代表）。次句为一般现在时：I 为主语，represent 为谓语，Israel 为宾语，in these meetings 为地点状语。省略号标示中间被删去的部分。
+**句子结构**：四句。首句为「主语 + 系动词 + 不定式」结构：My job 为主语，is 为系动词，to speak at Facebook on behalf of Israel and the Jewish diaspora 为不定式作表语（省略了 which is 的定语从句），on behalf of 为介词短语（代表）。次句为一般现在时：We 为主语，have 为谓语，meetings every week 为宾语（every week 为后置定语），to talk about… 为不定式作后置定语，everything from spam to pornography to hate speech and bullying and violence 为 talk 的宾语，from A to B 为介词短语列举范围，and how they relate to our community standards 为并列的不定式短语。第三、四句为一般现在时：I 为主语，represent 为谓语，Israel 为宾语，in these meetings 为地点状语。首句的省略号标示原文即有的省略。
 
-**关键词**：My job is … to speak at Facebook on behalf of / Israel and the Jewish diaspora / I represent Israel in these meetings
+**关键词**：My job is … to speak at Facebook on behalf of / We have meetings every week / I represent Israel in these meetings
 
-**表达方式**：My job is…to do（我的工作是做）这一不定式结构；on behalf of（代表）这一正式的外交用语；末尾 again 重申「我在这些会议中代表以色列」——两句构成一个论断—重申的封闭结构。
+**表达方式**：My job is…to do（我的工作是做）这一不定式结构；on behalf of（代表）这一正式的外交用语；meetings every week（每周开会）以时间频度强调制度化的常态；末句重申「我在这些会议中代表以色列」——首句的论断与末句的确认构成一个封闭结构。
 
-**为什么这样写**：这句话出自 Jordana Cutler，Facebook 2016 年任命的以色列与犹太侨民公共政策总监，她曾任内塔尼亚胡顾问并任以色列驻华盛顿使馆幕僚长。她的表述是直接的：第一句说明职务内容（代表以色列发言），第二句说明具体场合（这些会议指社区标准会议）。作者引用它而不加评论，是因为这段话本身就是证据：一家公司内部存在一个职位，其职责是在内容政策会议上代表另一个国家。on behalf of（代表）这一外交用语的使用值得注意——它与外交场合的用法完全相同，把商业会议写成了外交场合。末尾的重申（I represent Israel in these meetings）使这句话在语义上没有任何模糊空间。
+**为什么这样写**：这句话出自 Jordana Cutler，Facebook 2016 年任命的以色列与犹太侨民公共政策总监，她曾任内塔尼亚胡顾问并任以色列驻华盛顿使馆幕僚长。她的表述是直接的：首句说明职务内容（代表以色列发言），次句说明该职务的运作频率与议题范围，末句确认具体场合。作者引用它而不加评论，是因为这段话本身就是证据：一家公司内部存在一个职位，其职责是在内容政策会议上代表另一个国家。on behalf of（代表）这一外交用语的使用值得注意——它与外交场合的用法完全相同，把商业会议写成了外交场合。而 meetings every week（每周开会）把这一安排写成一个制度而非一次事件。
 
 ### ⑥ 「分类的逻辑」
 
