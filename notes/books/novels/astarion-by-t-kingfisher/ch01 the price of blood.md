@@ -9,7 +9,7 @@ modified: "2026-10-02"
 ## 本章导航
 
 - **一句话概括**：一个年轻治安法官在判完一起偷鹿案、判得比法律宽之后，被三名苦主家属在巷子里打成濒死；一个吸血鬼用「永生」作价救活了他，两百年后我们才看到他如何偿付那笔账。
-- **书内章号**：无。本书 epub 正文无任何章节标记（spine 13 件中正文仅 1 件，h1/h2/h3 计 0 个，全文「Chapter」出现 0 次）。本节为出版方 ORN 装饰分隔符切出的第 1 章，文字范围起自开篇、止于下一个场景分隔。
+- **书内章号**：无。本书 epub 正文无任何章节标记（spine 13 件中正文仅 1 件，h1/h2/h3 计 0 个，全文「Chapter」出现 0 次，NCX 目录只把整本正文列为一条）。本节由 scripts/attic/extract_chapterless.py 按出版方自有的两级分隔符切出：起点是全书正文起点；全书 29 段 = 正文起点 1 + 装饰花饰（章界）20 + 破折号补切 8。
 - **视角**：第三人称限知，通篇锁定 Astarion 一人；本节唯一一次离开他的现场是回忆（法庭与挨打），但回忆仍由他本人执行，读者拿不到他没看到的东西。
 - **情感弧线位置**：高潮前奏。全书从这里开始讲一个「已经付过款、但还不知道自己在付款」的人；本节只负责把账单递到他手上。
 - **人物弧线**：他把「好看」当成面对暴力的第一反应——被打断手臂、摸到颅骨碎裂，评估的仍然是袖口颜色配不配得上一块腰背上的刺绣。这是他被写了二百年的生存方式，本节先把它亮出来，再让「永生」这两个字砸上去。
@@ -17,7 +17,7 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** "Blood, as various poets and murderers have observed, behaves very differently from water. It is thicker, obviously, and does not flow quite so smoothly. Raindrops falling into it leave tiny pools that float for a moment before dissolving. On wet cobblestones, blood spreads out in a pool, with edges that soften as it melts into the rain. Should it happen to encounter something—in this case, a broken crate, a wine-colored sleeve, and what appeared to be half an elderly turnip—blood will soak into them, blackening the wood, deepening the red of the fabric, and staining the turnip a rather fetching shade of pink"
+> **原句 1:** "Blood, as various poets and murderers have observed, behaves very differently from water. It is thicker, obviously, and does not flow quite so smoothly. Raindrops falling into it leave tiny pools that float for a moment before dissolving. On wet cobblestones, blood spreads out in a pool, with edges that soften as it melts into the rain. Should it happen to encounter something—in this case, a broken crate, a wine-colored sleeve, and what appeared to be half an elderly turnip—blood will soak into them, blackening the wood, deepening the red of the fabric, and staining the turnip a rather fetching shade of pink."
 
 - **中文理解**：血和水的 behaved 方式很不一样，这事诗人和杀人犯都早就说过：它更稠、流动更涩，雨滴落进去会先浮成一个个小水洼才慢慢散开；落在湿石板路上摊成一摊，边缘在雨水里泡软；要是碰上什么东西——这里是碎木箱、酒红色袖子、还有半个看着像老年芜菁的根茎——血就渗进去，把木头熏黑、把布料的红色加深、把这只芜菁染成相当讨喜的一抹粉。
 - **关键词**：behaves very differently / leave tiny pools / a rather fetching shade of pink
