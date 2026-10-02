@@ -67,7 +67,7 @@ modified: "2026-10-02"
 
 > **原句 6:** "“Stop!” sie cried. “Isn’t it obvious? You’ve lost this one, Ambassador Seimet. No, don’t sneer at me, I’ve had enough of that. The committee has to meet now, and they have to declare Reet and Qven human as quickly as possible. And then Qven has to make a door to the Hikipi ship.”"
 
-**中文理解：** 「住手！」她喊道。「这还不够明显吗？这一局您已经输了，Ambassador Seimet。不，别对我冷笑，这种笑我已经受够了。委员会必须现在开，而且必须尽快宣布 Reet 和 Qven 是人。然后 Qven 必须造一扇门，通向 Hikipi 那艘船。」
+**中文理解：** 「住手！」ta 喊道。「这还不够明显吗？这一局您已经输了，Ambassador Seimet。不，别对我冷笑，这种笑我已经受够了。委员会必须现在开，而且必须尽快宣布 Reet 和 Qven 是人。然后 Qven 必须造一扇门，通向 Hikipi 那艘船。」
 
 **关键词：** Stop! / You’ve lost this one / make a door to the Hikipi ship
 
@@ -81,7 +81,7 @@ modified: "2026-10-02"
 
 **关键词：** We have / along with the Rrrrrr growl / They are
 
-**为什么这样写：** 确认被做成问答体：问句没有主语地抛出（Are they human），答句同样没有主语（They are），而唯一的表态来源是三种声音——一个人、一具机器、一声动物叫。
+**为什么这样写：** 确认被做成问答体：问句把主语留在句外（Are they human），答句则把同一个 they 补了回来（They are）——同一个代词在问答两端各出现一次，姿态由质询变成确认。而唯一的表态来源是三种声音——一个人、一具机器、一声动物叫。
 
 **读者视角提示：** 读者会感到这一句是全书最重的一句，而它的形式轻得像会议纪要。
 
@@ -91,7 +91,7 @@ modified: "2026-10-02"
 
 **关键词：** Meeting adjourned / you have a way to get onto the Hikipi ship / I could use some tea
 
-**为什么这样写：** 全章的收束句把三件事并排写在一句公文里：宣布、派活、想喝茶。Sril 的任务描述用 Qven 自己的说法（a way to get onto），而 Enae 上一章要的那碗茶在这一句里被另一个人说出。
+**为什么这样写：** 全章的收束句把三件事并排写在一句公文里：宣布、派活、想喝茶。Sril 的任务描述用 Qven 自己的说法（a way to get onto），而 Enae 本章早些时候想要的那碗茶（a bowl of tea）在这一句里被另一个人说出——同一章内的前后呼应。
 
 **读者视角提示：** 读者会感到这本书在这一刻既结案又没完：任务指派完了，而收尾的欲望是一杯茶。
 

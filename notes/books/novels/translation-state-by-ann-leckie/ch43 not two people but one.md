@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：Enae 睡醒得知车站脱险、船员在押、Reet 与 Qven 正式为人，Caphing 亲自追到站点；她决定回 Saeniss 而不是去 Two Systems，搭 Sphene 的摆渡船上到其 bio mech 用晚餐，见到已合并为一个实体的 Reet-Qven（自称 they、尚未取名），道别后带「不再封闭自己」的实感回 Saeniss。
+- **一句话概括**：Enae 睡醒得知车站脱险、船员在押、Reet 与 Qven 正式为人，Caphing 亲自追到站点；ta 决定回 Saeniss 而不是去 Two Systems，搭 Sphene 的摆渡船上到其 bio mech 用晚餐，见到已合并为一个实体的 Reet-Qven（自称 they、尚未取名），道别后带「不再封闭自己」的实感回 Saeniss。
 - **情感弧线位置**：收束与回落：外部危机已解，全章靠见面、道别与一次回程收尾，情绪由余波转平；末尾两句仍留着未决的走向。
 - **人物弧线**：Enae 从「被处置的人」变成自己决定去哪儿的人；她回的不是第一章那栋被卖掉的房子，而是一种不再被关住的状态。
 - **叙事手法**：第三人称限制视角，紧贴 Enae；两个场景（站点与 Sphene 的船）以一段晚餐相连，对话为主，末尾以摆渡船的加速收束。
@@ -77,7 +77,7 @@ modified: "2026-10-02"
 
 > **原句 7:** "Sometimes I need to be by myself. Sphene understands.” Qven turned to the bio mech. “Don’t you.” And turning back to Enae, “Sphene had a really bad thing happen, and then it hid by itself for three thousand years.”"
 
-**中文理解：** 「有时候我需要自己待着。」那个更有点 Qven 的说。「Sphene 理解。」然后它转向那具机甲。「你不理解。」又转回 Enae：「Sphene 遇到过一次很糟的事，然后它躲起来躲了三千年。」
+**中文理解：** 「有时候我需要自己待着。」那个更有点 Qven 的说。「Sphene 理解。」然后 ta 转向那具机甲。「你不理解。」又转回 Enae：「Sphene 遇到过一次很糟的事，然后 ta 躲起来躲了三千年。」
 
 **关键词：** Sometimes I need to be by myself / Sphene understands / it hid by itself for three thousand years
 

@@ -47,7 +47,7 @@ modified: "2026-10-02"
 
 > **原句 4:** "“Once you got into that situation, you might as well have,” said Translator Dlar. Their voice was hard and angry. “The fact that you even found yourself in that situation to begin with…” They shook their head. “Ordinarily you would just be disposed of. There’s no other use for you. But this clade hasn’t had a member reach the Edges and then fail for a very long time, and it’s not going to happen now. We’ve temporarily suppressed the process that allows you to fully become an Adult, it should hold for a while, at least. If you behave suitably, for long enough, we might be able to find some sort of partner for you. It won’t be the sort of thing you were meant for, but it won’t be failure, and that’s all we can ask for right now.”"
 
-**中文理解：** 「既然你已经落到那个境地，做了也就做了，」Translator Dlar 说。声音又硬又气。「连你——你！——跟 Tzam 匹配这件事本身就已经够糟了，够让他们那个 clade 在他们觊觎已久的名声上得到这么一点立足之地。它毁掉了很多年才做成的计划，可这个我们总有办法处理。可你偏偏走到一半又停下！现在我们拿你怎么办？」
+**中文理解：** 「既然你已经落到那个境地，做了也就做了，」Translator Dlar 说。声音又硬又气。「你当初会落到那个境地这件事本身……」他们摇摇头。「照惯例你只会被处理掉——你再没有别的用处。但这个 clade 已经有很久没有成员走到 Edges 这一级、然后失败了，现在也不会有。我们暂时压住了那个让你彻底成为 Adult 的过程，至少还能撑一阵子。如果你表现得够好、够久，我们也许能给你找个什么伙伴。不会是原本该给你的那种，但也不算失败——目前我们能要求的就这些。」「连你——你！——跟 Tzam 匹配这件事本身就已经够糟了，够让他们那个 clade 在他们觊觎已久的名声上得到这么一点立足之地。它毁掉了很多年才做成的计划，可这个我们总有办法处理。可你偏偏走到一半又停下！现在我们拿你怎么办？」
 
 「那我就该让 Tzam……做完？」
 

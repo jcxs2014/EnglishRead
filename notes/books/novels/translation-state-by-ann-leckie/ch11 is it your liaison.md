@@ -49,7 +49,7 @@ modified: "2026-10-02"
 
 > **原句 4:** "“I don’t know. But you should know that I got this job because of my contacts in the Siblings of Hikipu. My last assignment was escorting a famous Hikipi singer while she was here.”"
 
-**中文理解：** 「有人在意，」Reet 指出，「而且有人在把你的行踪交给 Hikipi Nationalists。」
+**中文理解：** 「我不知道，」Reet 说，「但你该知道：我这份差事是靠我在 Siblings of Hikipu 里的关系拿到的。我上一个任务，是护送一位著名的 Hikipi 歌手来这儿。」
 
 **关键词：** I got this job because of my contacts in the Siblings of Hikipu / My last assignment was escorting a famous Hikipi singer / But you should know that
 
@@ -95,7 +95,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 全章唯一一次众人把话题直接转到 Reet 身上，而转移的方式是拍肩。拍肩膀这个动作同时是玩笑和宣告，Reet 的反应只有一句抗议，后文补出他之所以不能发作的真正理由。
 
-**读者视角提示：** 读者会在这一拍里看出：Enae 要找的人，此刻正坐在 ta 身边。
+**读者视角提示：** 读者会在这一拍里看出：Sibling 拿「你要找的会不会是个 Schan」来打趣，还把 Reet 推到她面前——可 Enae 找的是两百年前那位 Presger Translator，两条线在这里擦肩而过，谁也没接上。
 
 ## 本章词汇
 

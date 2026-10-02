@@ -37,7 +37,7 @@ modified: "2026-10-02"
 
 > **原句 3:** "The Presger Translators were… well, they looked human. They looked human but even if they were in fact entirely human, they spoke for (and thus presumably with) the alien Presger. They were the conduit by which humans (an undifferentiated mass as far as the Presger were concerned, at least that was what Enae gathered) communicated with the other side in that treaty. No one with any sense wanted to entangle themselves in that situation, for their own safety. Not to mention the safety of basically every other human in the universe."
 
-**中文理解：** 至于 Presger 的 Translators——这个嘛，他们看起来像人。看着像人，但就算他们实际上完全是人类，他们代表（因而也大概是与）外星来的 Presger 说话。他们是那条管道，人类借它跟另一边谈条约（在 Presger 看来人类是一团没有分别的东西，Enae 至少是这么打听到的）。有点脑子的人都不想把自己搅进这种处境，为了自身安全就更不必说了。
+**中文理解：** 至于 Presger 的 Translators——这个嘛，他们看起来像人。看着像人，但就算他们实际上完全是人类，他们代表（因而也大概是与）外星来的 Presger 说话。他们是那条管道，人类借它跟另一边谈条约（在 Presger 看来人类是一团没有分别的东西，Enae 至少是这么打听到的）。有点脑子的人都不想把自己搅进这种处境，为了自身安全；更不必说基本上宇宙里每一个其他人类的安全。
 
 **关键词：** they looked human / The conduit by which humans / an undifferentiated mass as far as the Presger were concerned
 

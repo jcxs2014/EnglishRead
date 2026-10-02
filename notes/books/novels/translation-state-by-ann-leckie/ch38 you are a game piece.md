@@ -43,7 +43,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 这段的定义方式全是层级：团体属于网络，网络输送支援，支援用于造成破坏。三层套嵌之后，个人归属的问题被换成了结构问题。
 
-**读者视角提示：** 读者会第一次看到 Seimet 对 Reet 说过的事实：那支飞船一直威胁的船，背后有资金来源。
+**读者视角提示：** 读者会第一次看到 Seimet 对 Reet 说过的事实：那艘一直威胁车站的飞船，背后有资金来源。
 
 > **原句 4:** "The Hikipi have split into factions—if they were ever anything but factions, unified by their opposition to the Phen. One faction had decided that the best way to bring everyone into line was to find a lost heir for everyone to support. They didn’t care if that lost heir was real or not. They only cared if she was biddable enough for their purposes. You are a game piece, Reet Hluid."
 

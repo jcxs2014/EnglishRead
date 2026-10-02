@@ -53,7 +53,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 同一句判断被说了两遍，第二遍加强的是 look 这个词：先说可能，再看，再说确实——可后面立刻接一句「但这不算保证」。Sphene 的逻辑是把外观与状态分开，Enae 要的却是确定。
 
-**读者视角提示：** 读者会注意到 Sphene 一再用看起来（look）描述 Translator 的生死，理由是它们本来就不是人类那种身体。
+**读者视角提示：** 读者会注意到 Sphene 一再用看起来（look）描述 Translator 的生死，理由是 ta 们本来就不是人类那种身体。
 
 > **原句 5:** "Sie peeled open the corrective and laid it down on the wound in the Translator’s neck. The corrective pooled, spread, and hardened. “It’s doing something,” sie said. “Do we have any water?”"
 
