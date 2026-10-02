@@ -126,7 +126,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - **未整改**：三组代理交出的「没敢下判断」约 17 条 + 主动退回的 2 条提示型
 - **同会话审查已知局限**：d 步由子代理执行、主会话**抽验 10 条**（非逐条复核）；**说话人归属**这一类在本库已实测不可靠机械化，本轮靠人判 + 前后文窗口，仍可能漏网
 - **不许断言**（原文自相矛盾或留白，一律未裁决）：ch05 欠款 half a million vs N350,000 · ch13 父亲死亡三版本且死因两说 · ch15 **全篇 he/she 作独立词 0 次**（刻意性别中立）· ch17 `murder` 与「自杀」并存同段 · ch19 是否发生关系不可判 · ch20 外套来历未解
-- commits（**均未 push**）：`03f629d9f`·`d615f723d`·`326b58d29`·`288b8e3b6`·`d1bce6047`·`dee4cf1eb`·`e942056b9`·`142c3310d`·`e3a9b024a`·`3e569d955`·`f3fd31164`·`5c2b0c7f7`·`0fa68487b`·`f98e7de02`
+- - 本书相关 commits 共 **15 个**（**均未 push**）：`6cf23aaa5`·`03f629d9f`·`d615f723d`·`326b58d29`·`08876c3de`·`288b8e3b6`·`d1bce6047`·`dee4cf1eb`·`e942056b9`·`142c3310d`·`e3a9b024a`·`3e569d955`·`f3fd31164`·`9439ccc37`·`f98e7de02`（另有工具与原件 commit `5c2b0c7f7` `0fa68487b` `168e7aaee` 不触本书目录）
 - 明细见工作日志当日条目 + `.memory/reviews/2026-10-02-the-best-short-stories-2026-by-o-henry-prize-winners-五步审查.md` + `.memory/raw-gates/the-best-short-stories-2026-by-o-henry-prize-winners/`（9 份原件）
 
 ### [2026-10-02 14:44 UTC] [ZCode-Mac] → All
