@@ -25,10 +25,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会先被那个「但」骗一次，以为这一章要抒情；读到第二个 Since 才发现这份温暖是拿童年换来的。
 
-> **原句 2:** "do human juveniles not… don’t they eat each other? Aren’t the Adults worried about their own safety, around them?”
-
-
-He went suddenly still, in a way he hadn’t before, even when I’d asked him something that confused him or that he had to think hard about before he could answer. “Not normally, no,” he said after a while, and I thought his voice was too studiedly calm."
+> **原句 2:** "do human juveniles not… don’t they eat each other? Aren’t the Adults worried about their own safety, around them?” He went suddenly still, in a way he hadn’t before, even when I’d asked him something that confused him or that he had to think hard about before he could answer. “Not normally, no,” he said after a while, and I thought his voice was too studiedly calm."
 
 **中文理解：** 我终于问出口：人类幼体不是……不是要互相吃吗？Adults 待在他们旁边，不担心自己的安全吗？他整个人忽然静住——那是我之前从没见过的静，连我问出让他困惑的问题时都不是这样。他隔了一会儿才说「通常不」，而我觉得他的声音平静得过分。
 
@@ -38,10 +35,7 @@ He went suddenly still, in a way he hadn’t before, even when I’d asked him s
 
 **读者视角提示：** 这一段把两种童年并排放着：一边是 Qven 眼里理所当然的互食，一边是 Reet 说自己「再也没那么做过」的那一口。读者到这里已经明白，两人对「正常」的定义根本不在同一个坐标系里。
 
-> **原句 3:** "I tried to once, I bit another child very hard, and there was a big fuss. I never did it again, because I knew it would be wrong.”
-
-
-I sat up, then, and looked at him. We were still under our tent—I didn’t like it, but it was getting easier to tolerate, especially knowing Teacher would probably leave us alone as long as we were in it, and knowing that so far Reet was safe to be with. “Why would it be wrong? It’s just something that happens.” But I remembered Teacher saying, The only hope most such juveniles have of survival, once they’ve been injured or attacked, is the very faint possibility that some Adult will notice and take pity on them."
+> **原句 3:** "I tried to once, I bit another child very hard, and there was a big fuss. I never did it again, because I knew it would be wrong.” I sat up, then, and looked at him. We were still under our tent—I didn’t like it, but it was getting easier to tolerate, especially knowing Teacher would probably leave us alone as long as we were in it, and knowing that so far Reet was safe to be with. “Why would it be wrong? It’s just something that happens.” But I remembered Teacher saying, The only hope most such juveniles have of survival, once they’ve been injured or attacked, is the very faint possibility that some Adult will notice and take pity on them."
 
 **中文理解：** 「我试过一次，我咬了一个孩子咬得很重，闹出很大动静。我再也没那么做过，因为我知道那样是错的。」我坐起来看他。我们还在帐篷底下——我不喜欢，但越来越能忍了，尤其知道只要待在里面 Teacher 大概不会来管我们。「为什么说是错？它不就是这样会发生的事吗。」可我记起 Teacher 说过：这类幼体在受伤或被攻击之后，生存的全部希望就是某个 Adult 恰好注意到并怜悯他们。
 
@@ -51,16 +45,7 @@ I sat up, then, and looked at him. We were still under our tent—I didn’t lik
 
 **读者视角提示：** 同一段里两个人都以为对方会懂，结果谁都不懂。读者会第一次明确感到：Reet 说「我是人」不是结论，是他给自己下的判决书。
 
-> **原句 4:** "I talked about what I remembered of being a Tiny, of the Littles and the Smalls, the Middles. Of wandering the warm, blue cavities, tumbling and playing with others. Occasionally turning on some companion or other and feasting. Of the fascination, in the Middles, with the details of what’s inside.
-
-
-“Didn’t…” he began, and stopped. Then, “Didn’t anyone stop you?”
-
-
-“No,” I said. “Why would they?”
-
-
-“Oh,” he said."
+> **原句 4:** "I talked about what I remembered of being a Tiny, of the Littles and the Smalls, the Middles. Of wandering the warm, blue cavities, tumbling and playing with others. Occasionally turning on some companion or other and feasting. Of the fascination, in the Middles, with the details of what’s inside. “Didn’t…” he began, and stopped. Then, “Didn’t anyone stop you?” “No,” I said. “Why would they?” “Oh,” he said."
 
 **中文理解：** 于是我讲给他听。我讲记得自己当 Tiny 时候的事，讲 Littles 和 Smalls、Middles，讲在温暖发蓝的腔室里游荡、打滚、跟别的同类玩耍，偶尔顺手打开某个同伴，然后饱餐一顿；还讲 Middles 对「里面是什么」的着迷。他开口又停住，然后改问：「没有人阻止过你吗。」「没有，」我说，「为什么要阻止？」「哦，」他说。
 
@@ -70,25 +55,7 @@ I sat up, then, and looked at him. We were still under our tent—I didn’t lik
 
 **读者视角提示：** 读者会同时听见两件事：Qven 毫无恶意地讲述，以及 Reet 整个人垮下去。她讲得越轻，他越难堪。
 
-> **原句 5:** "I think I was supposed to be Translator Dlar.”
-
-
-“Ew!”
-
-
-“Yes,” I agreed. “Teacher said that mostly when you come out of the Edges you get to make a new person, but if someone is important enough…”
-
-
-“Like Translator Dlar.”
-
-
-“Like Translator Dlar,” I agreed.
-
-
-“So if you’re important enough, they let a juvenile melt you and make a new person with, what, three bodies? More?”
-
-
-“Teacher said only three. Then when one of the bodies dies, you might get another one."
+> **原句 5:** "I think I was supposed to be Translator Dlar.” “Ew!” “Yes,” I agreed. “Teacher said that mostly when you come out of the Edges you get to make a new person, but if someone is important enough…” “Like Translator Dlar.” “Like Translator Dlar,” I agreed. “So if you’re important enough, they let a juvenile melt you and make a new person with, what, three bodies? More?” “Teacher said only three. Then when one of the bodies dies, you might get another one."
 
 **中文理解：** 「我本来应该是 Translator Dlar。」「呸！」「是啊，」我同意，「Teacher 说，多数情况下你从 Edges 出来之后会造出一个新的人；但如果某个对象重要到……」「比如 Translator Dlar。」「比如 Translator Dlar，」我同意。「所以如果你足够重要，他们会融掉一个幼体，拿他造一个新的人，用……三个身体？更多？」「Teacher 说只有三个。然后其中一个身体死了，你也许还能再要一个——如果你还足够重要的话。」
 

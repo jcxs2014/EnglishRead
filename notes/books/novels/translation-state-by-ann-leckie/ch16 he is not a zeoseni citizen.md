@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：Enae 找到 Reet 的双亲 Istver 与 Echemin Hluid 并聘了法学家，Mr Nadkal 抢先拦路说这是patriotic 的事；她潜进货舱堵住 Ambassador Seimet，却被当面宣告「他不是人、因此不是 Zeoseni 公民、在这里没有任何权利」，被赶走之后决定改去 Treaty Administration Facility 走条约程序。
+- **一句话概括**：Enae 找到 Reet 的双亲 Istver 与 Echemin Hluid 并聘了法学家，Mr Nadkal 抢先拦路说这是爱国者该管的事；她潜进货舱堵住 Ambassador Seimet，却被当面宣告「他不是人、因此不是 Zeoseni 公民、在这里没有任何权利」，被赶走之后决定改去 Treaty Administration Facility 走条约程序。
 - **情感弧线位置**：承接上一章报告被抄送之后的后果：从「家人到了就有希望」一路降到被大使当面试着劝退，全章最低点是大使说完就走之后她对着空气说「不」的那一句，而结尾立刻把这份否定改成了下一步行动。
 - **人物弧线**：Enae 从一个把别人当对象的外派调查员，变成必须自己承担场面的人：她被双亲当作恩人、被大使当作跑腿的、把自己逼到必须当众喊人的位置，而她的应对是照抄与外婆打交道的经验。
 - **叙事手法**：四个场景串在一起：办公室门口、法学家处、双亲的住处、货舱走廊。每个场景都由一场对话构成，且都以一方挂断、转身或被中止收尾；中间穿插她对程序进度的说明，让读者始终知道时间在走。
@@ -35,19 +35,13 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者要记住 Chirra 这个词在本章的位置：它先被用来贬低，再被法学家用来解释一个不作为的惯例。
 
-> **原句 3:** "Mr Nadkal, I am interested in Mr Hluid’s well-being and safety as a person. Not because he’s anyone in particular.”
+> **原句 3:** "Mr Nadkal, I am interested in Mr Hluid’s well-being and safety as a person. Not because he’s anyone in particular.” “Yes, yes!” agreed Mr Nadkal. “So are the Siblings of Hikipu! Come have coffee, and we’ll talk about how best to help him.” “And by the way, Mr Nadkal. It was a patriotic Hikipi who knocked me on the head and stole my things not long ago. I had quite a serious concussion"
 
-
-“Yes, yes!” agreed Mr Nadkal. “So are the Siblings of Hikipu! Come have coffee, and we’ll talk about how best to help him.”
-
-
-“And by the way, Mr Nadkal. It was a patriotic Hikipi who knocked me on the head and stole my things not long ago. I had quite a serious concussion"
-
-**中文理解：** 「『Mr Nadkal，我关心的是 Mr Hluid 这个人的安危。不是因为他是别人。』——『是，是！』Mr Nadkal 附和，『Siblings of Hikipu 也关心！来喝杯咖啡，我们聊聊怎么帮他最好。』她接着说：『顺便说一句，Mr Nadkal。前不久打劫我的，正是一个爱国的 Hikipi，我头部受的是相当严重的脑震荡。』Mr Nadkal 做出一个几乎滑稽的苦相：『哦，Mx Athtur，那是一场可怕的误会，我可以在我们——』『正如我被打断前要说的，』她厉声说，『我有一个预约。』」
+**中文理解：** 「『Mr Nadkal，我关心的是 Mr Hluid 这个人的安危。不是因为他是别人。』——『是，是！』Mr Nadkal 附和，『Siblings of Hikipu 也关心！来喝杯咖啡，我们聊聊怎么帮他最好。』她接着说：『顺便说一句，Mr Nadkal。前不久打劫我的，正是一个爱国的 Hikipi，我头部受的是相当严重的脑震荡。』」
 
 **关键词：** as a person / Not because he’s anyone in particular / a serious concussion
 
-**为什么这样写：** 她用「人」和「不是因为他是谁」这对说法把自己那一方的立场一次说清；紧接着她把袭击事件原样摆回桌上，Mr Nadkal 的反应是一个滑稽表情加一次未遂的转移话题。作者让礼节在两句话之内被打断。
+**为什么这样写：** 她用「人」和「不是因为他是谁」这对说法把自己那一方的立场一次说清；紧接着她把袭击事件原样摆回桌上——就在这一章之前，那个袭击者还站在走廊里。这一次她没有等对方把话转成喝咖啡。
 
 **读者视角提示：** 读者要注意这里没有证据、没有指控——只有一次自述和一次打断；她被拒绝的其实不是道理，是发言顺序。
 
@@ -61,44 +55,17 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者要注意这是本章唯一一段术语：它给出的不是解决办法，是一个已知会失效的渠道。
 
-> **原句 5:** "They can’t do that,” e growled. “They can’t do that, it’s not legal. Where’s this jurist, Mx Athtur? Whatever does e think e’s doing?”
+> **原句 5:** "They can’t do that,” e growled. “They can’t do that, it’s not legal. Where’s this jurist, Mx Athtur? Whatever does e think e’s doing?” “I’m sure e’s doing the best e can,” said Ms Hluid smoothly, but with an edge to her voice. She turned to Enae. “We can’t thank you enough, Mx Athtur. If you hadn’t been here, if you hadn’t contacted us, we’d never have known, and there would have been no one to even try to help Reet.” Enae felt as though Ms Hluid had slapped hir. “Ms Hluid, I’m so sorry. This is all my fault. If I hadn’t…” “You were doing your job,” Ms Hluid cut in. “I don’t see how you could have done anything else.” “I do,” grumbled Mx Hluid. Ms Hluid cast em a quelling glance. “We’ve been over this. It’s the Presger.” “Reet is human,” insisted Mx Hluid. “Legally I think he must be,” Enae agreed"
 
-
-“I’m sure e’s doing the best e can,” said Ms Hluid smoothly, but with an edge to her voice. She turned to Enae. “We can’t thank you enough, Mx Athtur. If you hadn’t been here, if you hadn’t contacted us, we’d never have known, and there would have been no one to even try to help Reet.”
-
-
-Enae felt as though Ms Hluid had slapped hir. “Ms Hluid, I’m so sorry. This is all my fault. If I hadn’t…”
-
-
-“You were doing your job,” Ms Hluid cut in. “I don’t see how you could have done anything else.”
-
-
-“I do,” grumbled Mx Hluid.
-
-
-Ms Hluid cast em a quelling glance. “We’ve been over this. It’s the Presger.”
-
-
-“Reet is human,” insisted Mx Hluid.
-
-
-“Legally I think he must be,” Enae agreed"
-
-**中文理解：** 「『他们不能这么做，』Echemin 低吼，『这不合法。那个法学家在哪儿，Mx Athtur？不管 em 在做什么？』『我敢肯定 em 尽力了。』Ms Hluid 平稳地说，声音里带着刃。『我们没法谢你够多，Mx Athtur。要不是你来、不是你去联系我们，我们连知道都不会知道，也根本不会有人试着帮他。』Enae 觉得自己像是被 Ms Hluid 扇了一记。『Ms Hluid，我很抱歉，全是我的错。如果我没有……』『你是在做你的工作，』Ms Hluid 打断她，『我看不出你还能怎么做。』『我看得出来。』Echemin 咕哝着。『这件事我们已经说过了。是 Presger 的问题。』『Reet 是人类。』Echemin 坚持。『法律上我想他必须是，』Enae 同意，『但我们得说服该说服的人。』」
+**中文理解：** 「『他们不能这么做，』Echemin 低吼，『这不合法。那个法学家在哪儿，Mx Athtur？不管 em 在做什么？』『我敢肯定 em 尽力了。』Ms Hluid 平稳地说，声音里带着刃。『我们没法谢你够多，Mx Athtur。要不是你来、不是你去联系我们，我们连知道都不会知道，也根本不会有人试着帮他。』Enae 觉得自己像是被 Ms Hluid 扇了一记。『Ms Hluid，我很抱歉，全是我的错。如果我没有……』『你是在做你的工作，』Ms Hluid 打断她，『我看不出你还能怎么做。』『我看得出来。』Echemin 咕哝着。『这件事我们已经说过了。是 Presger 的问题。』『Reet 是人类。』Echemin 坚持。『法律上我想他必须是，』Enae 同意。」
 
 **关键词：** They can’t do that, it’s not legal / Reet is human / Legally I think he must be
 
-**为什么这样写：** 全章最热闹的一场由三个层次组成：一个人喊、一个人压、一个人打圆场，最后落到 Enae 的一句让步式同意。作者让「法律上我想他必须是」成为唯一提到这个框架的正面句子，而它同时是承认无力的句子。
+**为什么这样写：** 全章最热闹的一场由三个层次组成：一个人喊、一个人压、一个人打圆场，最后落到 Enae 的一句让步式同意——她同意的是法律上的判断，不是结果。作者让「法律上我想他必须是」成为唯一提到这个框架的正面句子，而它同时是承认无力的句子。
 
 **读者视角提示：** 读者要注意「做你的工作」这句：她被感谢的方式，正好是她无法反驳的那种。
 
-> **原句 6:** "Your pardon, Mx Athtur, but you did the ambassador no favors. You merely did your job.”
-
-
-“I did her job,” Enae retorted, indignant. “The only reason I’m here at all is her predecessor’s failure, and she herself hasn’t done any better.”
-
-
-“You speak with some justice,” said Ms Eilaai. “But even if the ambassador were to see you, you wouldn’t get what you want.” Enae opened hir mouth to protest and Ms Eilaai cut hir off. “Understand, Mx Athtur, at this moment, when you speak to me you are speaking to Ambassador Seimet"
+> **原句 6:** "Your pardon, Mx Athtur, but you did the ambassador no favors. You merely did your job.” “I did her job,” Enae retorted, indignant. “The only reason I’m here at all is her predecessor’s failure, and she herself hasn’t done any better.” “You speak with some justice,” said Ms Eilaai. “But even if the ambassador were to see you, you wouldn’t get what you want.” Enae opened hir mouth to protest and Ms Eilaai cut hir off. “Understand, Mx Athtur, at this moment, when you speak to me you are speaking to Ambassador Seimet"
 
 **中文理解：** 「『请恕我直言，Mx Athtur，你并没有帮到大使什么。你只是做完了你的工作。』『我干的是她的活，』Enae 生气地顶回去，『我来这里唯一的原因是她前任失职，而她自己也并没有做得更好。』『您说得有些道理，』Ms Eilaai 说，『但即使大使愿意见您，您也不会得到您想要的。』Enae 张口要辩，Ms Eilaai 抢在她前面截住：『请明白，Mx Athtur，此刻您是在对我说话，而对我就等于在对 Ambassador Seimet 说话。』」
 

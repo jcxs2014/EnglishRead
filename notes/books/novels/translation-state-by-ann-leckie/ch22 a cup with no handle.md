@@ -15,22 +15,7 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** "Your son is not human,” said Ambassador Seimet, disdainful.
-
-
-“It’s the considered opinion of the committee member for the Geck that Reet Hluid is, in fact, human,” said Ambassador Tibanvori.
-
-
-Ambassador Seimet stared at Tibanvori but said nothing.
-
-
-“You can always have me replaced,” suggested Ambassador Tibanvori.
-
-
-“Believe me,” said Ambassador Seimet with a sneer, “I would if I could.”
-
-
-“Oh, I’m sure you can manage it,” said Tibanvori, easily. “If you put your mind to it.”"
+> **原句 1:** "Your son is not human,” said Ambassador Seimet, disdainful. “It’s the considered opinion of the committee member for the Geck that Reet Hluid is, in fact, human,” said Ambassador Tibanvori. Ambassador Seimet stared at Tibanvori but said nothing. “You can always have me replaced,” suggested Ambassador Tibanvori. “Believe me,” said Ambassador Seimet with a sneer, “I would if I could.” “Oh, I’m sure you can manage it,” said Tibanvori, easily. “If you put your mind to it.”"
 
 **中文理解：** 「你儿子不是人，」Ambassador Seimet 满是不屑地说。「Geck 那位委员会成员经过考虑认定 Reet Hluid 确实是人，」Ambassador Tibanvori 说。Seimet 瞪着 Tibanvori，什么也没说。「你随时可以把我换掉，」Tibanvori 建议道。「相信我，」Seimet 带着一声冷笑说，「要能我就换了。」「哦，我敢肯定你办得到，」Tibanvori 轻松地说，「你要是上点心。」
 
@@ -48,15 +33,9 @@ Ambassador Seimet stared at Tibanvori but said nothing.
 
 **为什么这样写：** 整段说明只用「材料 / 拼装 / 装配」这一组词，反复绕开「造」字：被拆的是别人的飞船和空间站，取的是上面的材料，接近的终点也只是「我们能接近的极限」。而这套解释被一段抿茶动作切成两半——她在陈述时最需要显得从容的时刻，正是喝汤的那一下。
 
-**读者视角提示：** 读者会在这里得到全书对 Translators 身世的官方口径；它讲得越有条理，越像一份为某种处理方式准备好的说明书。
+**读者视角提示：** 读者会在这里听到这一场对 Translators 身世的官方说法；它讲得越有条理，越像一份为某种处理方式准备好的说明书。
 
-> **原句 3:** "She’s not a person,” insisted Ambassador Seimet. “She is only part of a person. When she reaches maturity—which, let me assure you, she is on the verge of doing—she must merge with some other biologically compatible being or die. She is very, very fortunate that we found her when we did.”
-
-
-Enae made a small noise.
-
-
-“That Mx Athtur found her,” Ambassador Seimet amended. “The fact remains.”"
+> **原句 3:** "She’s not a person,” insisted Ambassador Seimet. “She is only part of a person. When she reaches maturity—which, let me assure you, she is on the verge of doing—she must merge with some other biologically compatible being or die. She is very, very fortunate that we found her when we did.” Enae made a small noise. “That Mx Athtur found her,” Ambassador Seimet amended. “The fact remains.”"
 
 **中文理解：** 「她不是人，」Seimet 坚持道。「她只是一部分的人。等她长成——我向你保证，她就要长成了——她必须和另一个生物学上相容的存在融合，否则就死。她非常、非常走运，我们及时找到了她。」Enae 发出一点声音。「那是你找到的她，」Seimet 改口说。「事实不变。」「事实是，」Istver 说，「Reet 是我们的儿子。」
 
@@ -76,19 +55,7 @@ Enae made a small noise.
 
 **读者视角提示：** 读者会听见这份陈述里真正的主语不是 Reet，而是那个「too late」——它把在场每个人都变成潜在受害者，等于取消了同情的位置。
 
-> **原句 5:** "The ambassador to the Geck,” explained Ms Yedess quietly, in the corridor outside Ambassador Seimet’s office, “does not love her job. She’s been trying to resign for years.”
-
-
-Echemin gave a bark of a laugh. “That explains her behavior in the meeting just now!”
-
-
-“It does indeed,” agreed Ms Yedess. “I suspect the ambassador will get her wish before long, though who they’ll replace her with I have no idea.”
-
-
-“For years, though!” exclaimed Ms Hluid. “How has anything gotten done, with the ambassador like this all the time?”
-
-
-“Well, she’s worse now than before,” admitted Ms Yedess, “but the truth is, the Geck are rarely involved in anything of any importance. Ordinarily the only thing they really care about is keeping their homeworld to themselves. The human ambassador to the Geck rarely has much to do to begin with."
+> **原句 5:** "The ambassador to the Geck,” explained Ms Yedess quietly, in the corridor outside Ambassador Seimet’s office, “does not love her job. She’s been trying to resign for years.” Echemin gave a bark of a laugh. “That explains her behavior in the meeting just now!” “It does indeed,” agreed Ms Yedess. “I suspect the ambassador will get her wish before long, though who they’ll replace her with I have no idea.” “For years, though!” exclaimed Ms Hluid. “How has anything gotten done, with the ambassador like this all the time?” “Well, she’s worse now than before,” admitted Ms Yedess, “but the truth is, the Geck are rarely involved in anything of any importance. Ordinarily the only thing they really care about is keeping their homeworld to themselves. The human ambassador to the Geck rarely has much to do to begin with."
 
 **中文理解：** Echemin 爆发出一声笑。「那这就解释了她刚才在会上的表现！」「确实如此，」Ms Yedess 同意，「我猜用不了多久她就能如愿，不过他们会换上谁我可说不上来。」「可她已经这样好几年了！」Hluid 太太惊呼。「她这么当大使，这些年有什么事办得成？」「她现在比从前更糟，」Ms Yedess 承认，「但实情是，Geck 很少牵涉任何重要的事。他们平常真正在意的只有一件事，就是把他们的母星留给自己。人类驻 Geck 大使本来就没什么可做的。我也说不准，那位 Geck 大使为什么在这件请愿上肯下这样的力气。」
 
@@ -98,13 +65,7 @@ Echemin gave a bark of a laugh. “That explains her behavior in the meeting jus
 
 **读者视角提示：** 读者会短暂松一口气，随即察觉这份轻松不稳：整条请愿线上唯一肯帮忙的人，动机至今没人说得清。
 
-> **原句 6:** "Enae thought of life with Grandmaman. Sie had had clothes, food, a roof over hir head. An education and an allowance.
-
-
-And constant criticism, no matter what sie did. Why didn’t sie go out into the world and make something of hirself? How could sie even imagine leaving when Grandmaman needed hir so much? The household wouldn’t run right without Enae’s management. Also sie was thoughtless and incompetent and a real housekeeper would do things so much better.
-
-
-Enae had held hir tongue. Wept occasionally in the privacy of hir own room. Endured."
+> **原句 6:** "Enae thought of life with Grandmaman. Sie had had clothes, food, a roof over hir head. An education and an allowance. And constant criticism, no matter what sie did. Why didn’t sie go out into the world and make something of hirself? How could sie even imagine leaving when Grandmaman needed hir so much? The household wouldn’t run right without Enae’s management. Also sie was thoughtless and incompetent and a real housekeeper would do things so much better. Enae had held hir tongue. Wept occasionally in the privacy of hir own room. Endured."
 
 **中文理解：** Enae 想起与祖母一起过的日子。她有过衣服，有饭吃，有遮身的屋顶。有教育，有零用钱。以及不管她做什么都跟着的批评：你为什么不出去闯一闯、做出点名堂？祖母那么需要你，你怎么就能想着离开？这个家没有 Enae 打理根本转不起来。还有，她被说成既不用心又没本事，换个真正会持家的人来做会好得多。Enae 一直忍着不说。偶尔在自己房里哭一场。忍下来。
 
@@ -114,13 +75,7 @@ Enae had held hir tongue. Wept occasionally in the privacy of hir own room. Endu
 
 **读者视角提示：** 读者会在这里第一次听见 Enae 讲自己的损失，而她的损失全部是可量化的：四项供给、零项自主要求。
 
-> **原句 7:** "They thought there was.” And when Istver frowned in puzzlement, Enae told her about the funeral. About learning that there was no money, had not been for years. That the name and the house had been sold to a stranger.
-
-
-“Your grandmother provided for you, though,” Istver pointed out. “Out of everyone else.”
-
-
-“She did,” Enae admitted. “And the first thing the new heir did was send me away. I was out here looking for Reet because everyone at home wanted to be rid of me.”"
+> **原句 7:** "They thought there was.” And when Istver frowned in puzzlement, Enae told her about the funeral. About learning that there was no money, had not been for years. That the name and the house had been sold to a stranger. “Your grandmother provided for you, though,” Istver pointed out. “Out of everyone else.” “She did,” Enae admitted. “And the first thing the new heir did was send me away. I was out here looking for Reet because everyone at home wanted to be rid of me.”"
 
 **中文理解：** 「他们以为有。」Istver 皱起眉、满脸不解时，Enae 就把葬礼那件事讲给她听。讲到自己得知根本没有钱、已经很多年没有了，讲到那个名字和那栋房子早就卖给了一个陌生人。「可你祖母毕竟养了你，」Istver 指出，「在所有亲人里，只剩她管你。」「是啊，」Enae 承认，「而新来的那个人做的头一件事就是把我赶出来。我现在在这里找 Reet，就是因为家里每个人都巴不得我消失。」
 
@@ -130,19 +85,7 @@ Enae had held hir tongue. Wept occasionally in the privacy of hir own room. Endu
 
 **读者视角提示：** 读者会发现 Enae 找 Reet 这件事的起点不在外交任命上，而在一张纸：她是被需要，才来的。
 
-> **原句 8:** "Istver put her hand on Enae’s. “I’m glad it was you and not someone else.”
-
-
-“Someone else might not have found him,” Enae protested. “He’d still be living his life.”
-
-
-“No. If what Ambassador Seimet said is true, something awful was going to happen, no matter what. But someone who didn’t care about him wouldn’t have gone to the trouble to contact us, to try to help.”
-
-
-“Reet is so lucky,” Enae said, blinking back tears. “He’s so lucky to have a family like you. Even if…” Sie swallowed. “Even if we can’t help him.”
-
-
-“We’re doing the best we can,” said Istver. “Even if it isn’t always enough.”"
+> **原句 8:** "Istver put her hand on Enae’s. “I’m glad it was you and not someone else.” “Someone else might not have found him,” Enae protested. “He’d still be living his life.” “No. If what Ambassador Seimet said is true, something awful was going to happen, no matter what. But someone who didn’t care about him wouldn’t have gone to the trouble to contact us, to try to help.” “Reet is so lucky,” Enae said, blinking back tears. “He’s so lucky to have a family like you. Even if…” Sie swallowed. “Even if we can’t help him.” “We’re doing the best we can,” said Istver. “Even if it isn’t always enough.”"
 
 **中文理解：** Istver 把手放在 Enae 的手上。「我很高兴找到他的是你，不是别人。」「换别人可能就找不到他了，」Enae 反对道，「他现在还过着自己的日子。」「不会的。如果 Ambassador Seimet 说的是真的，某种糟糕的事无论如何都会发生。可一个不关心他的人，不会费那个周折来联系我们、来帮忙。」「Reet 真幸运，」Enae 忍着眼泪说，「他有你们这样的家人。就算……」sie 咽了一下，「就算我们帮不了他。」「我们尽力了，」Istver 说，「就算那有时还不够。」
 

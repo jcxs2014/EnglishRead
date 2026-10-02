@@ -25,13 +25,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者第一次看到「正确」和「同意」被拆成两件事——这一章要交给所有人的那把钥匙，就是从这里递出去的。
 
-> **原句 2:** "All of our children… our hatchlings, are… they’re not biologically related to us.”
-
-
-“Yes.” The ambassador waved a different leg. “I understand this. It is called adoption.”
-
-
-“It is,” agreed Istver. “And further, our children all came from other places, other… other kinds of people. They were orphans, and we wanted to be sure they had a family, someone to love them and take care of them, as human children should have. But we never wanted to take them away from where they came from. We always encourage our children to find that out, even to find their biological families if that’s possible. If they want to. Sometimes…” She sighed. “Sometimes they leave us and never come back.”"
+> **原句 2:** "All of our children… our hatchlings, are… they’re not biologically related to us.” “Yes.” The ambassador waved a different leg. “I understand this. It is called adoption.” “It is,” agreed Istver. “And further, our children all came from other places, other… other kinds of people. They were orphans, and we wanted to be sure they had a family, someone to love them and take care of them, as human children should have. But we never wanted to take them away from where they came from. We always encourage our children to find that out, even to find their biological families if that’s possible. If they want to. Sometimes…” She sighed. “Sometimes they leave us and never come back.”"
 
 **中文理解：** 「我们所有的孩子……我们的幼体，他们……他们跟我们没有生物学上的亲缘。」「是的。」大使换了另一条腿摆动。「我理解。这叫收养。」「是。」Istver 说，「另外，我们的孩子全都来自别的地方，来自别的……别的种类的人。他们是孤儿，我们希望他们有家人，有爱他们、照顾他们的人，正如人类的孩子应该有的那样。但我们从没想过把他们从来的地方带走。我们一向鼓励孩子去弄清这一点，甚至去找到自己的生物学家人，如果找得到的话。如果他们想找。有时候……」她叹了口气，「有时候他们离开我们，再也不回来。」
 
@@ -81,13 +75,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会明白那位委员不是不可理喻，而是带着一笔旧账坐在席上——这让「拖延」变成了一件可以被价钱买到的事。
 
-> **原句 7:** "Don’t forget that the Presger and the Presger Translators are not the same. There are things the Presger Translators care deeply about that the Presger themselves likely don’t even realize are issues to begin with. And relations between the clades are one of those issues.”
-
-
-“Clades,” repeated Istver, frowning.
-
-
-“Lines of descent,” explained Sphene. “Like families, but not quite. The various clades—or at least, their higher-ranking members—are very jealous of clade status, and always on the lookout for some way to improve the standing of their own clade, or undermine some other one. Reet Hluid appears to have stepped into the middle of one of these inter-clade battles, and the results of this hearing will affect that battle’s stakes. Zeiat tried to explain some of it to me, but it made very little sense.”"
+> **原句 7:** "Don’t forget that the Presger and the Presger Translators are not the same. There are things the Presger Translators care deeply about that the Presger themselves likely don’t even realize are issues to begin with. And relations between the clades are one of those issues.” “Clades,” repeated Istver, frowning. “Lines of descent,” explained Sphene. “Like families, but not quite. The various clades—or at least, their higher-ranking members—are very jealous of clade status, and always on the lookout for some way to improve the standing of their own clade, or undermine some other one. Reet Hluid appears to have stepped into the middle of one of these inter-clade battles, and the results of this hearing will affect that battle’s stakes. Zeiat tried to explain some of it to me, but it made very little sense.”"
 
 **中文理解：** 「总之，这是我带来的第二份消息。别忘了，Presger 和 Presger Translators 不是一回事。有些事 Presger Translators 深切在意，而 Presger 本身很可能压根没意识到那算个问题。clade 之间的关系就是这类问题之一。」「clade，」Istver 皱着眉重复。「世系分支，」Sphene 解释，「像家族，但不完全是。各个 clade——至少是其中位阶较高的那些——对自己分支的地位极为嫉妒，一直盯着抬高本支、压低别支的每一个机会。Reet Hluid 似乎正好踏进了其中一场分支斗争的中央，而这次听证的结果会影响这场斗争的赌注。Zeiat 试着向我解释过一些，但那套说法我完全听不懂。」
 

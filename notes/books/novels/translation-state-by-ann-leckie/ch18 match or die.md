@@ -25,10 +25,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者要注意 Teacher 回答之前那个抿嘴：他既在掩饰反应，也在想怎么答。
 
-> **原句 2:** "Then send a potato to match with this fugitive’s offspring,” I said before I could stop myself. “And I will dig a hole in a garden and sit there.”
-
-
-“You understand me better than you seem to"
+> **原句 2:** "Then send a potato to match with this fugitive’s offspring,” I said before I could stop myself. “And I will dig a hole in a garden and sit there.” “You understand me better than you seem to"
 
 **中文理解：** 「『那你就派一个土豆去跟那个逃亡者的后代匹配好了，』我没忍住就说了出来，『然后我去花园里挖个坑坐在里面。』——『你比我看上去更明白我的意思，』Teacher 回答，语气不像我预想的那么严，而是平稳、有耐心。然后他们开始讲 biology。」
 
@@ -38,13 +35,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者要记住「你不是看上去的那样」：这是全章里 Teacher 唯一一次承认她比看上去更清楚自己在做什么。
 
-> **原句 3:** "How do I know what you say is true?” I asked. “Words can say things that don’t exist.”
-
-
-“I have tried to explain to those in authority that telling juveniles half-truths or falsehoods is counterproductive, or even potentially disastrous.” They paused to take a sip from their tiny bowl of tea.
-
-
-“Oh,” I said. “That’s what got you this shit assignment"
+> **原句 3:** "How do I know what you say is true?” I asked. “Words can say things that don’t exist.” “I have tried to explain to those in authority that telling juveniles half-truths or falsehoods is counterproductive, or even potentially disastrous.” They paused to take a sip from their tiny bowl of tea. “Oh,” I said. “That’s what got you this shit assignment"
 
 **中文理解：** 「『我怎么知道你讲的是真的？』我问，『话可以说出并不存在的东西。』——『我试过向掌权者说明：对幼体讲半截真话或假话是反效果的，甚至可能是灾难性的。』他们停下，从小碗里喝了一口茶。『哦。』我说，『所以你才接了这个烂差事。』——『我已经尽力了，』对方继续说，『尽可能对你坦诚。我做不了更多。你可以信我，也可以不信，随你。』」
 
@@ -56,13 +47,13 @@ modified: "2026-10-02"
 
 > **原句 4:** "So. If what Teacher had told me was true, I would either match with an appropriate partner or—if I refused, or even waited too long—I would collapse into a puddle of undifferentiated organic sludge"
 
-**中文理解：** 「那么，如果 Teacher 讲的是真的，我要么跟一个合适的对象匹配，要么——如果我拒绝，或者只是拖得太久——我就崩解成一滩没有形状的有机泥浆。他们会带来一个对象。因为某些我不太明白的原因耽搁了一阵——某一方在 interference 与死硬拒绝——但这个对象迟早会到这一点没有疑问。迟了，也许！可 Teacher 似乎认为时间还很多。当然，他也可能错了。就算现在，只要我安静下来去听，我也已经能听见房间墙壁深处的质地——颜色和轮廓，像是门和走廊，还有 Adults 的存在。我把安静的时间都用来听它们。」
+**中文理解：** 「那么，如果 Teacher 讲的是真的，我要么跟一个合适的对象匹配，要么——如果我拒绝，或者只是拖得太久——我就崩解成一滩没有形状的有机泥浆。」
 
 **关键词：** match with an appropriate partner / collapse into a puddle / undifferentiated organic sludge
 
-**为什么这样写：** 作者用「如果……那么」把整套生存条件写成一条可推导的算式，再用一句新的能力（听墙里的门）顶住它的结论。两条线并排推进：一条是崩解，一条是出口。
+**为什么这样写：** 作者用「如果……那么」把整套生存条件写成一条可推导的算式，而这个算式只有一个出口：不是配对，就是不成形。威胁被写成了语法，读者于是只能接受它，而不是反驳它。
 
-**读者视角提示：** 读者要注意「迟了，也许」这个转折：她已经开始怀疑自己那份「时间很多」是别人施舍的。
+**读者视角提示：** 读者要注意这个排比：她第一次听到自己的结局，不是被骂，而是一道算式。
 
 > **原句 5:** "We have chosen to make an open example of Tzam. They have been sealed into a container, quite alone, and there they will remain until they die. Which will probably be sometime in the next week. I suggested to your Teacher that you should be required to watch the process as it happens. Your Teacher insists we present you with a choice"
 
@@ -84,10 +75,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者要记住「确信」这个词：她这一章一直在提防的就是被人说服这件事。
 
-> **原句 7:** "No cases are the same,” I said, suddenly exhausted. “I don’t care if Tzam lives or dies. I just want…” But I wasn’t sure what I wanted. Certainly not to stand there while Tzam screamed for me. Nor to lie here drinking tea knowing they were screaming for me. “If I go to watch, will Translator Dlar dispose of them more quickly?”
-
-
-Teacher pursed their lips—considering, I thought. “I can put the matter before the Translator and see what they say. I make no promises, though. This is not entirely about you.” They shook their head, then, and made an exasperated noise I had never expected to hear from them. “The Translator refuses, unequivocally"
+> **原句 7:** "No cases are the same,” I said, suddenly exhausted. “I don’t care if Tzam lives or dies. I just want…” But I wasn’t sure what I wanted. Certainly not to stand there while Tzam screamed for me. Nor to lie here drinking tea knowing they were screaming for me. “If I go to watch, will Translator Dlar dispose of them more quickly?” Teacher pursed their lips—considering, I thought. “I can put the matter before the Translator and see what they say. I make no promises, though. This is not entirely about you.” They shook their head, then, and made an exasperated noise I had never expected to hear from them. “The Translator refuses, unequivocally"
 
 **中文理解：** 「『没有两个案子是一样的，』我说，忽然累透了，『我不在乎 Tzam 活着还是死了。我只想……』可我并不确定自己想要什么。绝不是站在那儿听 Tzam 喊我。也不是躺在这里喝茶、明知道他们在那儿喊我。 Teacher 抿了抿嘴——我猜是在盘算。『如果我去看，Translator Dlar 会不会处置得更快一点？』——『我可以把这件事呈给 Translator 问问，看他们怎么说。我不作保证。这件事不完全关系到你。』他们随后摇了摇头，发出一声我从没料到他会发出的不耐烦的鼻音。『Translator 断然拒绝了。但那不表示你在这里没有选择，没有办法拿到你想要的，或者说接近它的东西。』」
 
@@ -97,13 +85,7 @@ Teacher pursed their lips—considering, I thought. “I can put the matter befo
 
 **读者视角提示：** 读者要记住她的提议：她拿自己的观看权去换对方的处置速度，而对方连这个都不肯收。
 
-> **原句 8:** "You have only small and seemingly pointless choices available to you. But if there is anything I have been trying to teach you, it is that small actions can have larger consequences. If one has only small choices available, one must be patient, and canny.”
-
-
-I thought of a tiny black seed sprouting into a red, round, sharp-flavored radish.
-
-
-“I will say this one thing more,” said Teacher. “When you have decided what you want, remember that what one will not acknowledge is what one cannot properly control"
+> **原句 8:** "You have only small and seemingly pointless choices available to you. But if there is anything I have been trying to teach you, it is that small actions can have larger consequences. If one has only small choices available, one must be patient, and canny.” I thought of a tiny black seed sprouting into a red, round, sharp-flavored radish. “I will say this one thing more,” said Teacher. “When you have decided what you want, remember that what one will not acknowledge is what one cannot properly control"
 
 **中文理解：** 「『你手里只有很小的、看上去毫无意义的几个选择。但如果你一直想教给我的东西里有哪一条是这个，那就只能是：小的行动会带来更大的后果。如果一个人手里只有小的选择，那就必须有耐心，也要有心机。』我想到一颗小小的黑籽长成一只红而圆、味道辛辣的萝卜。『关于这件事我再说一句，』Teacher 说，『等你决定了自己想要什么之后，记住：一个人不肯承认的东西，就是这个人无法真正控制的东西。』我想了这件事很久。」
 

@@ -55,13 +55,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会第一次看见 Teacher 在 Qven 面前直接拒绝自己的上级，而 Qven 成了它拒绝的理由。
 
-> **原句 5:** "“I will do it on one condition,” I said, my arms still crossed over my chest. “You admit that Reet and I are human.”
-
-
-A long silence. Then, “Translator Dlar insists again that this is not the time for such foolishness.” I didn’t say anything, only waited. “Our saying anything on the matter is pointless,” whispered the mech eventually. “Nothing will be determined until the committee can convene again.”
-
-
-“They won’t argue with you about it,” I said, though I wasn’t certain about that. Committees argued all the time, according to the shows. “You say it now, officially. I have witnesses here: Mom… I mean Ms and Mx Hluid, and Batonen. And Committee Member Agagag. That should be enough to make it official.” I had no idea if it was, but it sounded right. “Say you’ll let me and Reet go and be human, and I’ll do what you’re asking me to. Otherwise, I won’t.”"
+> **原句 5:** "“I will do it on one condition,” I said, my arms still crossed over my chest. “You admit that Reet and I are human.” A long silence. Then, “Translator Dlar insists again that this is not the time for such foolishness.” I didn’t say anything, only waited. “Our saying anything on the matter is pointless,” whispered the mech eventually. “Nothing will be determined until the committee can convene again.” “They won’t argue with you about it,” I said, though I wasn’t certain about that. Committees argued all the time, according to the shows. “You say it now, officially. I have witnesses here: Mom… I mean Ms and Mx Hluid, and Batonen. And Committee Member Agagag. That should be enough to make it official.” I had no idea if it was, but it sounded right. “Say you’ll let me and Reet go and be human, and I’ll do what you’re asking me to. Otherwise, I won’t.”"
 
 **中文理解：** 「我有一个条件就做。」我说，双臂仍然交叉在胸前。「你们承认我和 Reet 是人。」
 
@@ -81,10 +75,7 @@ A long silence. Then, “Translator Dlar insists again that this is not the time
 
 **读者视角提示：** 读者会注意措辞的分寸：Qven 得到的是被记进议程的承认，而不是当场生效的裁定——他拿到的是凭证，不是判决。
 
-> **原句 7:** "I closed my eyes. How should I do this? I didn’t really know how to start matching on purpose. The only thing I could think of to do was reach out and touch the mech where it stuck out of the wall, and wait to see what happened next.
-
-
-I opened my eyes again. Reached out my hand for the twitching limbs of the mech. For what might be my death."
+> **原句 7:** "I closed my eyes. How should I do this? I didn’t really know how to start matching on purpose. The only thing I could think of to do was reach out and touch the mech where it stuck out of the wall, and wait to see what happened next. I opened my eyes again. Reached out my hand for the twitching limbs of the mech. For what might be my death."
 
 **中文理解：** 我闭上眼睛。该怎么做？我真的不知道该怎么主动开始匹配。能想到的只有伸手去碰那截伸出墙外的、抽动着的肢体，然后等着看接下来会发生什么。我又睁开眼睛。把手伸向那些抽动的肢体。伸向也许是我的死亡。
 

@@ -25,10 +25,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会感到这章的高潮不是靠武力，而是靠一把被磨快的餐刀撬地板。
 
-> **原句 2:** "And then the floor split and Enae was falling again.
-
-
-And suddenly wasn’t. Up and down was gone and someone had hold of hir, and Reet’s voice was in hir ear."
+> **原句 2:** "And then the floor split and Enae was falling again. And suddenly wasn’t. Up and down was gone and someone had hold of hir, and Reet’s voice was in hir ear."
 
 **中文理解：** 接着地板裂开，Enae 又在往下掉。然后突然就不是了。上下不存在了，有人抓住了她，Reet 的声音就在她耳边。「接住你了。你没事吧？」
 
@@ -78,13 +75,7 @@ And suddenly wasn’t. Up and down was gone and someone had hold of hir, and Ree
 
 **读者视角提示：** 读者会感到 Enae 赢的方式不是揭穿阴谋，而是把所有人拉回议事日程。
 
-> **原句 7:** "“We have,” said Committee Member Sril and the bio mech. The Rrrrrr made a growling noise.
-
-
-“Are they human?”
-
-
-“They are,” came the reply, along with the Rrrrrr growl."
+> **原句 7:** "“We have,” said Committee Member Sril and the bio mech. The Rrrrrr made a growling noise. “Are they human?” “They are,” came the reply, along with the Rrrrrr growl."
 
 **中文理解：** 「我们达成了。」Committee Member Sril 与那具生物机甲说。Rrrrrr 发出一声低吼。「他们是吗？」「他们是。」回答传来，同时伴随着 Rrrrrr 的低吼。
 

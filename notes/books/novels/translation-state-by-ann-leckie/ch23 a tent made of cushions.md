@@ -15,22 +15,7 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** "“Not technically,” admitted Qven, and lowering their voice, added, “They won’t hold us to the schedule if you’re ill, but the more we do, the less they’ll sus… the less they’ll worry.”
-
-
-What had they been about to say? The less they’ll suspect? What was there to suspect? Feigning illness?
-
-
-Whatever it was, Qven certainly wouldn’t answer questions about it where they thought the teacher could hear. “I’ve been in rain,” he said. “Sometimes it’s nice. Sometimes it’s miserable. It depends.”
-
-
-“There was a garden in the Edges,” said Qven, taking a dumpling with a utensil. “But it never rained there.”
-
-
-“How did the plants get water?” Reet took a dumpling for himself. It was very good.
-
-
-“I don’t know.” Qven frowned as though they’d never considered the question before. “There was a pond there. With fish.”"
+> **原句 1:** "“Not technically,” admitted Qven, and lowering their voice, added, “They won’t hold us to the schedule if you’re ill, but the more we do, the less they’ll sus… the less they’ll worry.” What had they been about to say? The less they’ll suspect? What was there to suspect? Feigning illness? Whatever it was, Qven certainly wouldn’t answer questions about it where they thought the teacher could hear. “I’ve been in rain,” he said. “Sometimes it’s nice. Sometimes it’s miserable. It depends.” “There was a garden in the Edges,” said Qven, taking a dumpling with a utensil. “But it never rained there.” “How did the plants get water?” Reet took a dumpling for himself. It was very good. “I don’t know.” Qven frowned as though they’d never considered the question before. “There was a pond there. With fish.”"
 
 **中文理解：** 「严格说不算，」Qven 承认，压低声音补了一句，「你要是生病，他们不会拿日程卡我们；可我们做得越多，他们就越会怀……」他们改口说，「……越会不操心。」——他本来要说的是什么？越会怀疑？有什么可怀疑的？装病吗？不管是什么，Qven 肯定不会在 Teacher 听得到的场合回答这类问题。「我进过雨里，」他说，「有时候很好，有时候很糟，看情况。」「Edges 那边有一个花园，」Qven 拿筷子夹起一只饺子，「但那儿不下雨。」「那些植物怎么弄到水？」Reet 也拿了一只饺子。非常好吃。「我不知道。」Qven 皱起眉，好像从没想过这个问题。「那儿有个池塘。里面有鱼。」
 
@@ -40,19 +25,7 @@ Whatever it was, Qven certainly wouldn’t answer questions about it where they 
 
 **读者视角提示：** 读者会第一次明确感到：这两个人的日常交谈是一场双向审查，一个在藏，一个在装作没听懂。
 
-> **原句 2:** "“Yes,” said Qven. “Eat your dumplings. I’ll show you something.” They got up, went into another room, and returned with a small plant pot. Tiny, rough leaves sprouted out of the dirt. “See this?”
-
-
-“It’s very nice,” said Reet, not sure what was expected of him, though clearly something was.
-
-
-Qven leaned just the slightest bit closer and said very, very quietly, “Can you hear it?”
-
-
-“No,” replied Reet, just as quietly.
-
-
-“I just wanted you to see it,” said Qven in a more normal tone. “I’ve grown a lot of them.”"
+> **原句 2:** "“Yes,” said Qven. “Eat your dumplings. I’ll show you something.” They got up, went into another room, and returned with a small plant pot. Tiny, rough leaves sprouted out of the dirt. “See this?” “It’s very nice,” said Reet, not sure what was expected of him, though clearly something was. Qven leaned just the slightest bit closer and said very, very quietly, “Can you hear it?” “No,” replied Reet, just as quietly. “I just wanted you to see it,” said Qven in a more normal tone. “I’ve grown a lot of them.”"
 
 **中文理解：** 「好，」Qven 说，「吃你的饺子。我给你看样东西。」他们起身进了另一间屋，回来时端着一个小花盆，土里冒出几片粗糙的小叶子。「看这个。」「很好看，」Reet 说，不确定对方期待的是什么，尽管显然确有期待。Qven 稍稍靠近了一点，声音压得极轻极轻：「你听得见吗？」「听不见，」Reet 同样极轻地回答。「我只是想让你看看，」Qven 换回正常的语气，「我种了很多。」Reet 点点头，好像这就解释了一切。
 
@@ -62,22 +35,7 @@ Qven leaned just the slightest bit closer and said very, very quietly, “Can yo
 
 **读者视角提示：** 读者会注意到 Reet 听不见这件植物发出的事——同一株萝卜，之后在另一个人耳里成了判断 Teacher 是否分心的仪器。
 
-> **原句 3:** "“Like this.” He rearranged some cushions and pulled a bedcover over the top, throwing them into a close, muffled dimness. “It’s like having our own little room. We can pretend no one can see us.” Qven didn’t answer, and he saw that they were a hunched shadow, frozen in their well of cushions, barely moving even to breathe. “Qven. Are you all right?”
-
-
-“I don’t like it,” they said in a distressed, nearly inaudible whisper.
-
-
-“I’ll take it down,” he said, moving to pull the cover away.
-
-
-“No!” came the agonized whisper. “Teacher will like that we’re under this. They’ll leave us alone.”
-
-
-“Do you think we can talk without them listening?” Reet asked, very quietly, and then felt bad about asking it. Clearly something about this situation was upsetting Qven badly.
-
-
-“Yes,” replied Qven, their whisper gone shaky. “If we’re very quiet.”"
+> **原句 3:** "“Like this.” He rearranged some cushions and pulled a bedcover over the top, throwing them into a close, muffled dimness. “It’s like having our own little room. We can pretend no one can see us.” Qven didn’t answer, and he saw that they were a hunched shadow, frozen in their well of cushions, barely moving even to breathe. “Qven. Are you all right?” “I don’t like it,” they said in a distressed, nearly inaudible whisper. “I’ll take it down,” he said, moving to pull the cover away. “No!” came the agonized whisper. “Teacher will like that we’re under this. They’ll leave us alone.” “Do you think we can talk without them listening?” Reet asked, very quietly, and then felt bad about asking it. Clearly something about this situation was upsetting Qven badly. “Yes,” replied Qven, their whisper gone shaky. “If we’re very quiet.”"
 
 **中文理解：** 「像这样。」他重新摆了几只靠垫，把一条毯子拉过顶面，把两人罩进一片贴近的、闷声的昏暗里。「就像我们自己有个小房间。我们可以假装没人看得见我们。」Qven 没有回答。他看见对方缩成靠垫里的一个影子，冻住，几乎连呼吸都不动。「Qven。你还好吗。」「我不喜欢这样，」他们用一种难受的、几乎听不见的耳语说。「我拿掉，」他说着要去掀毯子。「不！」传来一声痛苦的耳语。「Teacher 会喜欢我们躲在下面的。他们会不管我们。」「你觉得我们能说话而他们听不见吗？」Reet 问得非常轻，随即又为这一问感到抱歉。显然这情形让 Qven 难受得厉害。「能，」Qven 回答，耳语开始发颤，「只要我们非常非常轻。」
 
@@ -87,16 +45,7 @@ Qven leaned just the slightest bit closer and said very, very quietly, “Can yo
 
 **读者视角提示：** 读者会在这里明白 Reet 误会了什么：他以为在给 Qven 造一个藏身处，Qven 经历的却是被罩住的幽闭。
 
-> **原句 4:** "“Qven, what’s wrong?”
-
-
-There was silence. Qven themself hadn’t moved even a muscle.
-
-
-“Qven,” he said. “It’s all right. Really, I can take the cover down. I didn’t mean to upset you.”
-
-
-“They were under the bush.” Still whispered, but high and strained. “They were under the bush and they were all melted into each other. And…” They stopped speaking but now Reet could hear them breathing, almost gasping."
+> **原句 4:** "“Qven, what’s wrong?” There was silence. Qven themself hadn’t moved even a muscle. “Qven,” he said. “It’s all right. Really, I can take the cover down. I didn’t mean to upset you.” “They were under the bush.” Still whispered, but high and strained. “They were under the bush and they were all melted into each other. And…” They stopped speaking but now Reet could hear them breathing, almost gasping."
 
 **中文理解：** 「Qven，怎么了？」一片沉默。Qven 连一块肌肉都没动。「Qven，」他说，「没事的。真的，我可以把毯子拿下来。我不是故意要让你难受。」「他们当时在灌木底下。」仍在耳语里，但音调又高又紧。「他们当时在灌木底下，全都融在一起了。还有……」他停住不再说，可这时 Reet 已经能听见对方的呼吸，几乎像在喘。「我们不在灌木底下，」Reet 说，「我们只是在你的卧室里。」
 
@@ -106,13 +55,7 @@ There was silence. Qven themself hadn’t moved even a muscle.
 
 **读者视角提示：** 读者会在这里第一次听见 Qven 说出一个完整的过去，而它的触发点是布景：一个被罩住的空间，就是一个灌木丛。
 
-> **原句 5:** "Reet did turn then, tea in one hand, flask in the other. “Your progenitor,” the teacher went on, “the one who abandoned you as an infant. They fled Presger space before they matched. It disrupted a number of the clade’s plans, and caused a good deal of alarm. They almost certainly matched with some unwilling human. That’s exactly the sort of thing we try to prevent, it’s why we keep juveniles isolated from anyone else except those adults who are trained to work with them.”
-
-
-“And me?”
-
-
-“My guess would be, you were produced in order to… extend their lifespan. But something happened to prevent that. They lost you somehow. If they haven’t found you by now”—the teacher made an indefinite gesture—“they’ve likely died.”"
+> **原句 5:** "Reet did turn then, tea in one hand, flask in the other. “Your progenitor,” the teacher went on, “the one who abandoned you as an infant. They fled Presger space before they matched. It disrupted a number of the clade’s plans, and caused a good deal of alarm. They almost certainly matched with some unwilling human. That’s exactly the sort of thing we try to prevent, it’s why we keep juveniles isolated from anyone else except those adults who are trained to work with them.” “And me?” “My guess would be, you were produced in order to… extend their lifespan. But something happened to prevent that. They lost you somehow. If they haven’t found you by now”—the teacher made an indefinite gesture—“they’ve likely died.”"
 
 **中文理解：** Reet 那时确实转了身，一手端着茶，另一手拿着水壶。「说到这个，」Teacher 接着说，「你的 progenitor，那个把你当婴儿丢下的人。他们在匹配之前逃出了 Presger 空间。这打乱了那个 clade 的若干安排，也引起了不小的惊慌。他们几乎肯定和某个不情愿的人类匹配上了。那正是我们要防的那类事，这就是为什么我们把幼体和除受训成人以外的任何人隔开。」「那我呢？」「我的猜测是，你被造出来是为了……延长他们的寿命。但出了什么事拦住了。他们不知怎么把你弄丢了。要是到现在他们还没找到你——」Teacher 做了一个含糊的手势，「——那他们多半已经死了。」
 
@@ -132,19 +75,7 @@ There was silence. Qven themself hadn’t moved even a muscle.
 
 **读者视角提示：** 读者会认出那个手势——几小时前 Qven 双手捧喉、在毯子下流泪时用的正是同一个动作。此刻它才拿到解释。
 
-> **原句 7:** "“It wasn’t your fault. But it means I’m unsuitable now. They didn’t know what to do with me until you turned up.”
-
-
-“Unsuitable?”
-
-
-“I didn’t behave optimally,” Qven whispered. “And I’ve got… part of them in me.”
-
-
-“What happened to your attacker?”
-
-
-A long, long silence. “They died,” whispered Qven finally. “They were left all alone and they screamed and screamed and…”"
+> **原句 7:** "“It wasn’t your fault. But it means I’m unsuitable now. They didn’t know what to do with me until you turned up.” “Unsuitable?” “I didn’t behave optimally,” Qven whispered. “And I’ve got… part of them in me.” “What happened to your attacker?” A long, long silence. “They died,” whispered Qven finally. “They were left all alone and they screamed and screamed and…”"
 
 **中文理解：** 「不是你的错。但那意味着我现在不适用了。他们在我出现之前不知道该怎么办。」「不适用？」「我表现得不够理想，」Qven 耳语，「而且我身体里有……他们的一部分。」「那你的袭击者怎么了？」长长的沉默。「他们死了，」Qven 终于耳语，「他们被单独留下，就一直叫、一直叫……」声音断掉，哭了出来。Reet 只能看着。如果哭的是他，Maman 或 Mom 会怎么做？
 
@@ -152,18 +83,9 @@ A long, long silence. “They died,” whispered Qven finally. “They were left
 
 **为什么这样写：** Qven 用管理员的词说自己不可用：表现不够理想，含着对方的一部分——罪责被翻译成一份不合格的评语。真正的控诉藏在最后那句复述里：被单独留下，一直叫，一直叫。Reet 在此刻切换成「如果是他在哭」，把自己摆进对方的处境，替这段记忆安上一个可以被安慰的位置。
 
-**读者视角提示：** 读者会在这一句里听见全书最冷的一条因果：把一个同伴赶走，就是让它那样叫下去。
+**读者视角提示：** 读者会在这一句里听见最硬的一条因果：把一个同伴赶走，就是让它那样叫下去。
 
-> **原句 8:** "They would put their arms around him. And he might not feel better, but he would feel less alone. “Qven,” he said. “What if you wrapped a cover around you? Then I could…” He gestured with his arms. “Without touching you.” He realized, saying it, that he wanted it badly, wanted to feel, even slightly, like he wasn’t all alone in some invisible box that kept him apart from everyone else in the world. “If you didn’t like it, we’d stop.”
-
-
-They looked at him, tearful and maybe dubious. “You promise.”
-
-
-“I promise.”
-
-
-“All right,” they said."
+> **原句 8:** "They would put their arms around him. And he might not feel better, but he would feel less alone. “Qven,” he said. “What if you wrapped a cover around you? Then I could…” He gestured with his arms. “Without touching you.” He realized, saying it, that he wanted it badly, wanted to feel, even slightly, like he wasn’t all alone in some invisible box that kept him apart from everyone else in the world. “If you didn’t like it, we’d stop.” They looked at him, tearful and maybe dubious. “You promise.” “I promise.” “All right,” they said."
 
 **中文理解：** 她们会伸手抱住他。他也许不会觉得好受，但至少不会那么孤单。「Qven，」他说，「要是你拿一条毯子把自己裹起来，那我就可以……」他用手臂比划了一下，「不碰到你。」说着就意识到自己有多想要——想哪怕稍微感到自己不是孤零零待在某个看不见的盒子里，跟这世上其他所有人隔开。「你不喜欢，我们就停下。」「你保证。」「我保证。」「好，」他们说。
 

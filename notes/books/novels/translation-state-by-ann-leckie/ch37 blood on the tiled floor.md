@@ -75,10 +75,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会在这里第一次拿到 Sphene 的价码：她要的是能替掉人类辅助躯体的身体，而 Geck 手里正有那种东西——Reet 差点被当成它。
 
-> **原句 7:** "“And what had you done to warrant that?” asked Sphene.
-
-
-Nothing, thought Enae. “I existed,” sie said."
+> **原句 7:** "“And what had you done to warrant that?” asked Sphene. Nothing, thought Enae. “I existed,” sie said."
 
 **中文理解：** 「那你做过什么，值得到这种处置？」Sphene 问。什么也没做，Enae 想。「我只是存在，」她说。
 
@@ -88,13 +85,7 @@ Nothing, thought Enae. “I existed,” sie said."
 
 **读者视角提示：** 读者会在这里把第一章重读一遍：Enae 被赶出家族的房子，理由确实就是存在本身。
 
-> **原句 8:** "All the blood. So much of it. Five liters of it. “There’s less blood,” Enae realized. “It was sort of shiny and puddled before, it still is in places, but…”
-
-
-“Blood does clot, you know. And dry out.”
-
-
-“I know, but…” Enae wiped the tiled floor beside hir knees. “What’s under this floor?”"
+> **原句 8:** "All the blood. So much of it. Five liters of it. “There’s less blood,” Enae realized. “It was sort of shiny and puddled before, it still is in places, but…” “Blood does clot, you know. And dry out.” “I know, but…” Enae wiped the tiled floor beside hir knees. “What’s under this floor?”"
 
 **中文理解：** 所有的血。如此之多。五升。「地板下面是什么？」Enae 擦着膝盖旁边的瓷砖地面。
 

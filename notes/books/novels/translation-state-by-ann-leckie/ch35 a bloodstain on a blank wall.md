@@ -85,10 +85,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者跟着做完这道题，并意识到这题只有一个答案：墙另一边站着一个活的 Translator Dlar。
 
-> **原句 8:** "“Qven!” he shouted, but there was no answer. He had no idea if anyone could hear him, if his voice could reach all those rounds of the looped passage, and anyway, Qven was way, way back in the room where Reet’s parents were, talking to the mech, or e should be by now.
-
-
-“Qven!” he shouted again, and turned and pushed himself back along the passageway as quickly as he could."
+> **原句 8:** "“Qven!” he shouted, but there was no answer. He had no idea if anyone could hear him, if his voice could reach all those rounds of the looped passage, and anyway, Qven was way, way back in the room where Reet’s parents were, talking to the mech, or e should be by now. “Qven!” he shouted again, and turned and pushed himself back along the passageway as quickly as he could."
 
 **中文理解：** 「Qven！」他喊道，没有回应。他不知道有没有人听得见，不知道自己的声音能不能穿过走廊上那么多个来回。他喊了第二遍，转身沿通道以最快速度往回推。
 

@@ -25,13 +25,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会立刻明白：这不是普通的迷路，而是空间本身不再可靠。之后每次看到「又回到这里」，都会替他们数圈数。
 
-> **原句 2:** "Qven frowned at him, puzzled. “No we aren’t.”
-
-
-“We are,” he insisted. “Look.” He pushed himself back, to navigate the warped hallways, until he found himself faced with Qven again. “See?”
-
-
-“No,” said Qven. “You’re somewhere else. Where I am is different.”"
+> **原句 2:** "Qven frowned at him, puzzled. “No we aren’t.” “We are,” he insisted. “Look.” He pushed himself back, to navigate the warped hallways, until he found himself faced with Qven again. “See?” “No,” said Qven. “You’re somewhere else. Where I am is different.”"
 
 **中文理解：** Qven 困惑地皱起眉。「才没有。」
 「有的，」Reet 坚持，「你看。」他把自己撑回去，在扭歪的走廊里挪动，直到又对上 Qven。「看到了吗？」
@@ -59,7 +53,7 @@ modified: "2026-10-02"
 
 **关键词：** in the back of his mind / he ignored that, or tried to / I want to go look
 
-**为什么这样写：** 想要的是以人称代词的形式写出来的，而他说出口的却是「我想去看看」——想去而不是想被喜欢。心里想的与说出口的之间留了一道缝，正是这个人全书的写照：他要的东西一直说不出口。
+**为什么这样写：** 想要的是以人称代词的形式写出来的，而他说出口的却是「我想去看看」——想去而不是想被喜欢。心里想的与说出口的之间留了一道缝，正是这个人一贯的写照：他要的东西一直说不出口。
 
 **读者视角提示：** 读者会在这里意识到 Reet 想要的不是出口，是一个位置。被忽略的那句低语替他承认了这件事。
 
@@ -93,13 +87,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者在这里第一次听见 Reet 用条件句式说话：不是安慰，是交易。这份笨拙的实用主义正是他后来能陪着对方走完迷宫的原因。
 
-> **原句 8:** "“You promise. Tea and dumplings.”
-
-
-“I promise,” Reet agreed.
-
-
-Qven sniffled and wiped eir arm across eir eyes, sending tiny spherical teardrops floating away from eir face. “And more Pirate Exiles?”"
+> **原句 8:** "“You promise. Tea and dumplings.” “I promise,” Reet agreed. Qven sniffled and wiped eir arm across eir eyes, sending tiny spherical teardrops floating away from eir face. “And more Pirate Exiles?”"
 
 **中文理解：** 「你保证。茶和饺子。」
 「我保证，」Reet 同意。

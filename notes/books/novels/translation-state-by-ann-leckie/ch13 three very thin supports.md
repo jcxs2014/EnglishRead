@@ -85,10 +85,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会在这里松一口气，但也要记得：她是在替自己减轻「我刚发现他不是人」这件事的重量。
 
-> **原句 8:** "For three days sie said nothing. No choice seemed to be the right one.
-
-
-In the end, sie handled it the way sie would have handled a delicate issue with Grandmaman: act first, then confess and weather the resulting storm. Sie composed a report, sent it to Caphing, and then—because, like it or not, any issue involving the Presger fell under the authority of the Radchaai Ambassadors Office—sie sent the same report to the Treaty Administration Facility"
+> **原句 8:** "For three days sie said nothing. No choice seemed to be the right one. In the end, sie handled it the way sie would have handled a delicate issue with Grandmaman: act first, then confess and weather the resulting storm. Sie composed a report, sent it to Caphing, and then—because, like it or not, any issue involving the Presger fell under the authority of the Radchaai Ambassadors Office—sie sent the same report to the Treaty Administration Facility"
 
 **中文理解：** 她犹豫了三天，两个选择都不对。最后她照处理与外婆那套精密关系时的办法来做：先动手，再认错，然后承受随之而来的风暴。她写了一份报告，先发给 Caphing，然后——因为凡涉及 Presger 的事都归 Radchaai 大使馆办公室管——把同一份报告又发给了条约管理处。
 

@@ -15,13 +15,7 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** "“Is there some difficulty?” asked the Rrrrrr human, and Enae actually stood and opened hir mouth to say That person who just came in with Ambassador Seimet is someone who attacked me on Rurusk Station. But somewhere in the back of hir mind a question itched: why had Ambassador Seimet brought this person—or even Mr Nadkal—to this meeting? Obviously she’d never have troubled to do anything of the sort unless she thought it might be to her advantage.
-
-
-How was it to her advantage?
-
-
-Ambassador Seimet smiled, a small, strangely pleasant smile, which sent a chill down Enae’s neck. Sie did not like to see that, not at all. “No difficulty. Please excuse me.” Sie sat back down."
+> **原句 1:** "“Is there some difficulty?” asked the Rrrrrr human, and Enae actually stood and opened hir mouth to say That person who just came in with Ambassador Seimet is someone who attacked me on Rurusk Station. But somewhere in the back of hir mind a question itched: why had Ambassador Seimet brought this person—or even Mr Nadkal—to this meeting? Obviously she’d never have troubled to do anything of the sort unless she thought it might be to her advantage. How was it to her advantage? Ambassador Seimet smiled, a small, strangely pleasant smile, which sent a chill down Enae’s neck. Sie did not like to see that, not at all. “No difficulty. Please excuse me.” Sie sat back down."
 
 **中文理解：** 「有什么困难吗？」那位 Rrrrrr 人类问，Enae 真的站起来、张开嘴，正要说：刚跟 Ambassador Seimet 一起进来的那个人，就是在 Rurusk Station 上袭击我的人。可脑子深处有个问题在发痒：Seimet 为什么把这个人——甚至把 Mr Nadkal——带到这场会上来？除非她认为这对她有利，否则她绝不会费这个事。这对她怎么有利？Seimet 笑了一下，一个小小的、奇怪地愉快的笑，让 Enae 后颈发凉。sie 完全不喜欢看见那个笑。「没有困难。请原谅。」sie 坐了回去。
 
@@ -61,13 +55,7 @@ Ambassador Seimet smiled, a small, strangely pleasant smile, which sent a chill 
 
 **读者视角提示：** 读者会注意到请愿在这里已经不再是一份申请：Qven 的名字是在他还没被问及之前就被写进结论里的。
 
-> **原句 5:** "“These are my parents.” He shifted his head backward, just a bit, indicating Istver and Echemin Hluid. “This is my mom and my nana. And my maman is back in Zeosen, I guess.” Istver made an acknowledging noise. “I have siblings, I’m not their only child.”
-
-
-“So you’re telling the committee,” said Deputy Ormat, “that the Hluids are your family.”
-
-
-“Yes,” said Reet. “They’re not…” Enae thought he might not complete that thought aloud, he hesitated so long, but then he went on. “They’re not perfect. My nana can be… difficult sometimes. But they’ve always been there for me when I needed them. Even Nana. Especially Nana, sometimes.”"
+> **原句 5:** "“These are my parents.” He shifted his head backward, just a bit, indicating Istver and Echemin Hluid. “This is my mom and my nana. And my maman is back in Zeosen, I guess.” Istver made an acknowledging noise. “I have siblings, I’m not their only child.” “So you’re telling the committee,” said Deputy Ormat, “that the Hluids are your family.” “Yes,” said Reet. “They’re not…” Enae thought he might not complete that thought aloud, he hesitated so long, but then he went on. “They’re not perfect. My nana can be… difficult sometimes. But they’ve always been there for me when I needed them. Even Nana. Especially Nana, sometimes.”"
 
 **中文理解：** 「这是我的父母。」他把头稍稍往后一偏，示意 Istver 和 Echemin Hluid。「这是我妈妈，这是我奶奶。我妈妈还在 Zeosen，我想。」Istver 发出一声表示听到了的声音。「我有兄弟姐妹，我不是唯一的孩子。」「所以你是告诉委员会，」Deputy Ormat 说，「Hluid 一家是你的家人。」「是的，」Reet 说。「他们不……」Enae 觉得他可能不会把那个想法说出口，因为犹豫得太久，可他接着说了下去。「他们并不完美。我奶奶有时候会有点……难搞。可他们一直都在，需要的时候都在。我奶奶也是。有时候尤其是我奶奶。」
 
@@ -77,10 +65,7 @@ Ambassador Seimet smiled, a small, strangely pleasant smile, which sent a chill 
 
 **读者视角提示：** 读者会在这里听见 Reet 第一次用「我们」指代家人，而 Enae 的视角提醒：他连说缺点都要先说别人的。
 
-> **原句 6:** "“Presger Translators, as you call us, do not have families. We do not have parents. We have only the treaty. It is the reason for our existence.”
-
-
-“It’s not the reason for my existence,” Reet retorted. “My… what do you call them? My progenitor produced me and then abandoned me. But they left you, too, didn’t they? And they left me. And now I’m supposed to just… go away with you and do whatever you want and never see my family again?”"
+> **原句 6:** "“Presger Translators, as you call us, do not have families. We do not have parents. We have only the treaty. It is the reason for our existence.” “It’s not the reason for my existence,” Reet retorted. “My… what do you call them? My progenitor produced me and then abandoned me. But they left you, too, didn’t they? And they left me. And now I’m supposed to just… go away with you and do whatever you want and never see my family again?”"
 
 **中文理解：** 「你们所谓的 Presger Translators 没有家庭。我们没有父母。我们只有条约。那是我们存在的理由。」「那不是我的存在理由，」Reet 反驳道，「我的……你们管那叫什么来着？我的 progenitor 生下我，然后就丢下我。可他们不也丢下了你们吗？也丢下了我。现在我是不是就该……跟你们走，做你们要的事，再也不见我的家人？」「是存在职责这回事，」Ambassador Seimet 说，「依我的经验，多数父母都明白：有时必须做些孩子不喜欢或不理解的选择，可那最终对孩子、对他们周围的人都是最好的。」那位 Rrrrrr 委员开始极轻极轻地发出嘶声。
 
@@ -100,13 +85,7 @@ Ambassador Seimet smiled, a small, strangely pleasant smile, which sent a chill 
 
 **读者视角提示：** 读者会在这里得到本章真正的转折：Reet 是不是人已经不是争点，问题是这套制度靠什么活着。发言者先声明要支持 Geck 那位委员，随即把话头整个抢过来。
 
-> **原句 8:** "And what if they have offspring?”
-
-
-“You will have to explain more clearly why this is a danger,” said Deputy Ormat.
-
-
-“Look,” said Translator Dlar. “Listen! Maybe, yes, it seems that Reet has exercised astonishing and admirable self-control and hurt no one during a time a juvenile would be expected to have done a great deal of damage, let loose among humans. But I do not expect any other such juveniles to be able to exercise the same self-control. It’s just not how juveniles are! And furthermore, the treaty depends on Them understanding things a particular way. And I can’t explain it to you, it only makes sense to Them. The treaty as we see it, and what They consider to be happening here, are not quite the same thing, and you must believe me when I tell you that if Reet is allowed to leave here and call themself human, it will quite possibly be the end of the treaty itself.”"
+> **原句 8:** "And what if they have offspring?” “You will have to explain more clearly why this is a danger,” said Deputy Ormat. “Look,” said Translator Dlar. “Listen! Maybe, yes, it seems that Reet has exercised astonishing and admirable self-control and hurt no one during a time a juvenile would be expected to have done a great deal of damage, let loose among humans. But I do not expect any other such juveniles to be able to exercise the same self-control. It’s just not how juveniles are! And furthermore, the treaty depends on Them understanding things a particular way. And I can’t explain it to you, it only makes sense to Them. The treaty as we see it, and what They consider to be happening here, are not quite the same thing, and you must believe me when I tell you that if Reet is allowed to leave here and call themself human, it will quite possibly be the end of the treaty itself.”"
 
 **中文理解：** 「那要是他们有了后代呢？」「你得解释得更清楚，为什么这是危险，」Deputy Ormat 说。「你看，」Translator Dlar 说，「听着！也许，是的，看来 Reet 表现出了惊人而可敬的自控力，在幼体本该造成大量损害的时候没有伤害任何人。但我不指望别的幼体能有同样的自控力。这不是幼体该有的样子！更何况条约取决于 Them 以特定的方式理解事情。而我没法向你们解释，这话只对 They 才说得通。我们看到的条约，和 They 认为这里正在发生的事，并不完全一样；我告诉你们，如果让 Reet 离开这里、自称是人，那很可能就是条约本身的终结。」
 

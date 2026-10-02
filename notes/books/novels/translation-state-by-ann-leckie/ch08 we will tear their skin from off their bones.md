@@ -65,18 +65,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会比他先一步开始读歌词——这正是本章要设计的局面。
 
-> **原句 6:** "But then,
-
-
-
-
-We’ll meet the Phen
-
-
-With guns, with knives
-
-
-We’ll tear their skin from off their bones with our teeth."
+> **原句 6:** "But then, We’ll meet the Phen With guns, with knives We’ll tear their skin from off their bones with our teeth."
 
 **中文理解：** 可是接着——
 

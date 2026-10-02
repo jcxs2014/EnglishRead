@@ -45,13 +45,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会感到：称谓在这里不是礼貌，是登记。
 
-> **原句 4:** "The Adult smiled. “It won’t be long,” they said. “No, I don’t think it will be long at all. Are you eager for it? To grow up and begin your work?”
-
-
-“I suppose,” I replied. “I hardly think about it. I have so much to learn right here.”
-
-
-They nodded. “Of course. And there will be more to learn, once you’ve matured. Much more. But I think you learn quickly. It’s no surprise, really. The clade that produced you has always been among our best.” Their tone suggested to me that they shared that clade with me, though such relationships weren’t supposed to matter to us. “I’m glad to see that you live up to expectations.”"
+> **原句 4:** "The Adult smiled. “It won’t be long,” they said. “No, I don’t think it will be long at all. Are you eager for it? To grow up and begin your work?” “I suppose,” I replied. “I hardly think about it. I have so much to learn right here.” They nodded. “Of course. And there will be more to learn, once you’ve matured. Much more. But I think you learn quickly. It’s no surprise, really. The clade that produced you has always been among our best.” Their tone suggested to me that they shared that clade with me, though such relationships weren’t supposed to matter to us. “I’m glad to see that you live up to expectations.”"
 
 **中文理解：** 那 Adult 笑了笑。「不会太久了，」他们说。「不，我想根本不会太久。你急切吗？长大、开始你的工作？」
 

@@ -15,10 +15,7 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** "“You’re Sphene,” I said. “You’ve killed more people than I have.”
-
-
-“Far more,” Sphene agreed, with a barely noticeable smile."
+> **原句 1:** "“You’re Sphene,” I said. “You’ve killed more people than I have.” “Far more,” Sphene agreed, with a barely noticeable smile."
 
 **中文理解：** 「你是 Sphene，」我说，「你杀掉的人比我多。」
 「多得多，」Sphene 带着一个几乎看不出来的笑应道，「你想赶上我的机会非常小。」
@@ -39,13 +36,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会把这句当作 Qven 的第一次自我定义：她不追求成为最大的那个，她只想不被吃掉。
 
-> **原句 3:** "“I know—or suspect is more accurate—that they’re a manipulation of gate space.”
-
-
-“That’s all right, then,” said the sinuous person. “You already know how to manipulate gate space.”
-
-
-“Not like this I don’t,” said Sphene. “And I need parts of myself to do it that aren’t here and that I’m cut off from."
+> **原句 3:** "“I know—or suspect is more accurate—that they’re a manipulation of gate space.” “That’s all right, then,” said the sinuous person. “You already know how to manipulate gate space.” “Not like this I don’t,” said Sphene. “And I need parts of myself to do it that aren’t here and that I’m cut off from."
 
 **中文理解：** 「我知道它们存在，」Sphene 承认，「或者说，更准确的说法是怀疑：它们是对闸空间的操控。」
 「那我倒没事了，」那个身形如蛇的人说，「你既然已经知道怎么操控闸空间了。」
@@ -57,16 +48,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会理解为什么这一章的 Qven 既拿到了路线也仍旧没出路：知道门是什么，和能打开门，是两回事。
 
-> **原句 4:** "“What if it never stops?” I couldn’t raise my voice above a whisper. “What if it just keeps going around and around and around…”
-
-
-“Did you ever do emergency drills?” he asked.
-
-
-“What?”
-
-
-“Emergency drills. They mostly don’t show them on the dramas unless they’re part of the story."
+> **原句 4:** "“What if it never stops?” I couldn’t raise my voice above a whisper. “What if it just keeps going around and around and around…” “Did you ever do emergency drills?” he asked. “What?” “Emergency drills. They mostly don’t show them on the dramas unless they’re part of the story."
 
 **中文理解：** 「要是它永远不停呢？」我压低到几乎是耳语。「要是它就一直绕啊绕啊绕……」
 
@@ -90,16 +72,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会在这里第一次感到 Qven 那种特殊的被动：她的整个人生是被安排好的，连「出事」都不在通知范围内。
 
-> **原句 6:** "“Amaat preserve me,” she muttered. Opened her eyes again, and said, “You can keep going around the spiral. You should. But I’m not optimistic. If anyone could have come for us, they would have already. Either Translator Dlar wrenched us completely away from the universe, or anyone who would be rescuing us is busy doing something else. Like dealing with a ship that might be threatening the Central Treaty Administration Facility.”
-
-
-“Death to the Phen oppressors,” said Reet, ruefully.
-
-
-“Lovely friends you have,” said the ambassador.
-
-
-“You’re the one who brought them into the committee room,” Reet pointed out. “Not me, not Qven. Not my parents"
+> **原句 6:** "“Amaat preserve me,” she muttered. Opened her eyes again, and said, “You can keep going around the spiral. You should. But I’m not optimistic. If anyone could have come for us, they would have already. Either Translator Dlar wrenched us completely away from the universe, or anyone who would be rescuing us is busy doing something else. Like dealing with a ship that might be threatening the Central Treaty Administration Facility.” “Death to the Phen oppressors,” said Reet, ruefully. “Lovely friends you have,” said the ambassador. “You’re the one who brought them into the committee room,” Reet pointed out. “Not me, not Qven. Not my parents"
 
 **中文理解：** 「Amaat 保佑我，」她低声嘟囔，重新睁开眼，「你们可以继续在这条螺旋里绕。应该继续。但我不乐观。要是有人能来救我们，他们早就来了。要么是 Translator Dlar 把我们整个从宇宙里拽了出去，要么是想救我们的人正忙着别的事——比如去处理一艘可能威胁条约管理处的船。」
 

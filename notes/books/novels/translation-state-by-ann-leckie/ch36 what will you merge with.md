@@ -45,10 +45,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会感到谈判在这里第一次失去着力点：Qven 亮出的证据是事实，却被「不够」两个字架空。
 
-> **原句 4:** "“If I do this,” I said, “will you agree that Reet and I are human?”
-
-
-After a moment, the mech said, “Translator Dlar is angry, and expresses disappointment that you would choose a time like this to pursue your own individual interests, when so much else is at risk.”"
+> **原句 4:** "“If I do this,” I said, “will you agree that Reet and I are human?” After a moment, the mech said, “Translator Dlar is angry, and expresses disappointment that you would choose a time like this to pursue your own individual interests, when so much else is at risk.”"
 
 **中文理解：** 「如果我做了这件事，」我说，「你们会承认我和 Reet 是人吗？」停了一会儿，机甲说：「Translator Dlar 很生气，并表示失望：你会在这样的时刻去追求你自己的个人利益，而有这么多别的东西处在风险之中。」
 
@@ -58,13 +55,7 @@ After a moment, the mech said, “Translator Dlar is angry, and expresses disapp
 
 **读者视角提示：** 读者能听出这句话与刚才的「所以他们告诉我」是同一种权力：真正的决定者从头到尾没有直接出面。
 
-> **原句 5:** "“I’m a disappointment,” I said. “There’s no place for me. Except with Reet, and that was by accident.”
-
-
-“Oh, Qven,” said Mom, and she reached her hand out as though she were going to touch me, and then stopped. “You’re not a disappointment.”
-
-
-“No, I am,” I told her. “I was supposed to match with Translator Dlar, so they could keep on living instead of dying of old age. And Translator Dlar is important. I was supposed to be important.”"
+> **原句 5:** "“I’m a disappointment,” I said. “There’s no place for me. Except with Reet, and that was by accident.” “Oh, Qven,” said Mom, and she reached her hand out as though she were going to touch me, and then stopped. “You’re not a disappointment.” “No, I am,” I told her. “I was supposed to match with Translator Dlar, so they could keep on living instead of dying of old age. And Translator Dlar is important. I was supposed to be important.”"
 
 **中文理解：** 「我是个让人失望的人。」我说。「我本来该和 Translator Dlar 匹配，好让他们能继续活着，而不是老死。Translator Dlar 很重要。我本来该是重要的。」
 

@@ -45,10 +45,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者要注意「我什么都没做」这句：他自己下一段就把它改掉了——问题不在做过什么，在是什么。
 
-> **原句 4:** "Do you have a jurist on call?”
-
-
-Reet’s heart pounded with startlement and confusion. This was suddenly new and different, and it was overwhelming. And frightening. This was dangerous. But his parents had taught him what to say to this question. “I am not required to answer any questions without my jurist present"
+> **原句 4:** "Do you have a jurist on call?” Reet’s heart pounded with startlement and confusion. This was suddenly new and different, and it was overwhelming. And frightening. This was dangerous. But his parents had taught him what to say to this question. “I am not required to answer any questions without my jurist present"
 
 **中文理解：** 「过了不知多久，天花板上传来一个声音：『你有没有可以随时联系的法学家？』Reet 的心怦地跳起来，又惊又乱。这是新的、完全不一样的东西，太强大了，也太危险了。可父母教过他该怎么回答这个问题。『没有我的法学家在场，我不必回答任何问题。』第一遍出口时声音是挤出来的，他清了清喉咙，又说了一遍：『没有我的法学家在场，我不必回答任何问题。』」
 
@@ -58,22 +55,7 @@ Reet’s heart pounded with startlement and confusion. This was suddenly new and
 
 **读者视角提示：** 读者要注意他的推理：问这个问题说明有人正准备送法学家进来。也就是说外面有人在管这件事。
 
-> **原句 5:** "The articles are suspended in your case.”
-
-
-“Say that to my jurist,” said Reet. They probably already had, and not with complete success, or Reet wouldn’t have been watching Pirate Exiles all this time, he was sure.
-
-
-“Look,” said the voice, exasperated now. “We can sedate you and put you in a suspension unit and haul you off that way if we like. Your jurist”—the words were bitter—“won’t like it but there’s nothing e can do about it.”
-
-
-Ah, but that was enough to prevent them from just going ahead and doing it. They weren’t going to do that if there was any other course available, and there were probably several other courses available to them. No doubt those options would be a pain in the ass for the authorities, but there it was.
-
-
-He crossed his arms. “I’m not putting on the suit.”
-
-
-The next thing he knew, he was waking up inside the suit"
+> **原句 5:** "The articles are suspended in your case.” “Say that to my jurist,” said Reet. They probably already had, and not with complete success, or Reet wouldn’t have been watching Pirate Exiles all this time, he was sure. “Look,” said the voice, exasperated now. “We can sedate you and put you in a suspension unit and haul you off that way if we like. Your jurist”—the words were bitter—“won’t like it but there’s nothing e can do about it.” Ah, but that was enough to prevent them from just going ahead and doing it. They weren’t going to do that if there was any other course available, and there were probably several other courses available to them. No doubt those options would be a pain in the ass for the authorities, but there it was. He crossed his arms. “I’m not putting on the suit.” The next thing he knew, he was waking up inside the suit"
 
 **中文理解：** 「『法条在你这个案子里是暂停适用的。』——『这话去跟我法学家说。』他很确定对方已经说过了，而且并不成功，否则他不会一直在看剧。对方显然不耐烦了：『听着，我们可以给你用镇静剂、把你装进暂缓吊装里、那样把你运走。你的法学家』——那个词是带苦味说出来的，『不会喜欢，但她也改变不了我要做的事。』那正好够他拖住：只要还有别的路可选，他们就不会直接这么做，而可选的路显然还有好几条，那些路对当局来说大概都很麻烦。他抱起双臂：『我不穿。』——接下来他知道的下一件事，是自己已经在隔离服里醒着了。」
 
@@ -93,16 +75,7 @@ The next thing he knew, he was waking up inside the suit"
 
 **读者视角提示：** 读者要注意这两集新剧：它同时是安慰和证据——有人记得他，也有人一直在等。
 
-> **原句 7:** "Do you speak Radchaai?” asked a voice by his left ear.
-
-
-“No,” said Reet in that language. Nearly everyone knew at least a few words of Radchaai, but Reet knew considerably more. “Not one single word.”
-
-
-“Very funny,” said the voice, with an upper-class Radchaai precision of speech. “You can take the isolation suit off now.”
-
-
-“Fuck you,” said Reet, still in Radchaai"
+> **原句 7:** "Do you speak Radchaai?” asked a voice by his left ear. “No,” said Reet in that language. Nearly everyone knew at least a few words of Radchaai, but Reet knew considerably more. “Not one single word.” “Very funny,” said the voice, with an upper-class Radchaai precision of speech. “You can take the isolation suit off now.” “Fuck you,” said Reet, still in Radchaai"
 
 **中文理解：** 「左侧耳边有个声音：『你讲 Radchaai 吗？』『不讲，』Reet 用那种语言回答。『一个字都不会。』——几乎人人都懂几个 Radchaai 词，可 Reet 懂得多得多。『真有意思，』那个声音说，语调是上层的 Radchaai 精确腔，『你现在可以把隔离服脱了。』『去你的，』Reet 仍然用 Radchaai 说。『那你就穿着吧，随你，爱穿多久穿多久。』
 
@@ -112,13 +85,7 @@ The next thing he knew, he was waking up inside the suit"
 
 **读者视角提示：** 读者要注意「still in Radchaai」这个坚持：被制服之后他唯一还能自己决定的事，是用哪种语言发火。
 
-> **原句 8:** "To the Treaty Administration Facility, to return you to your clade.” That was a word Reet had never heard before. “It’s a two-week trip, but do by all means feel free to spend the entire time lying on the floor like a toddler having a tantrum.”
-
-
-“Why the isolation?” asked Reet.
-
-
-“Because Presger Translator juveniles are extremely dangerous"
+> **原句 8:** "To the Treaty Administration Facility, to return you to your clade.” That was a word Reet had never heard before. “It’s a two-week trip, but do by all means feel free to spend the entire time lying on the floor like a toddler having a tantrum.” “Why the isolation?” asked Reet. “Because Presger Translator juveniles are extremely dangerous"
 
 **中文理解：** 「『去 Treaty Administration Facility，把你送回你的 clade。』那是一个 Reet 从没听过的词。『航程两周，不过你尽可以把这整段时间都躺在地上，像个耍脾气的幼儿那样。』——『为什么要隔离？』——『因为 Presger Translator 的幼体极其危险，』对方回答。」
 

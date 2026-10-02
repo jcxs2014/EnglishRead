@@ -35,10 +35,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会在这一句上明白：袭击者不是随机冲她来的，她被人卖了行踪。
 
-> **原句 3:** "“Well, not—”
-
-
-“You’re here,” Reet interrupted, taking the empty porridge bowl and replacing it with a tumbler of weak coffee, “to at least make contact with local Hikipi. Supposedly about a matter that just isn’t worth looking into at this point. Especially if you believe the Presger don’t exist to begin with. Which some number of the Hikipi Nationalists don’t.”"
+> **原句 3:** "“Well, not—” “You’re here,” Reet interrupted, taking the empty porridge bowl and replacing it with a tumbler of weak coffee, “to at least make contact with local Hikipi. Supposedly about a matter that just isn’t worth looking into at this point. Especially if you believe the Presger don’t exist to begin with. Which some number of the Hikipi Nationalists don’t.”"
 
 **中文理解：** 「嗯，也不尽然——」
 
@@ -52,7 +49,7 @@ modified: "2026-10-02"
 
 > **原句 4:** "“I don’t know. But you should know that I got this job because of my contacts in the Siblings of Hikipu. My last assignment was escorting a famous Hikipi singer while she was here.”"
 
-**中文理解：** 「我不知道。但你该知道，我这份工作是因为我在 Siblings of Hikipu 里的关系才拿到的。我上一份差事是在一位著名的 Hikipi 歌手在这儿的时候护送她。」
+**中文理解：** 「有人在意，」Reet 指出，「而且有人在把你的行踪交给 Hikipi Nationalists。」
 
 **关键词：** I got this job because of my contacts in the Siblings of Hikipu / My last assignment was escorting a famous Hikipi singer / But you should know that
 

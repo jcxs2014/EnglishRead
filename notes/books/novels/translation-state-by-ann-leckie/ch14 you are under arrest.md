@@ -55,13 +55,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者要记住「一个也没有」这个说法：她把结论说成了可核对的数量，而不是判断。
 
-> **原句 5:** "Mr Hluid. I’m so very sorry that my work has distressed you so much. You’re a good person, and I’ve been so very grateful to have your help all this time. Not only have you been helpful, but you’ve been…” Sie stopped, as though sie was searching for the right word. “Restful and pleasant to be around. I always know if I do the wrong thing with you, but not in a way that…” Sie stopped again. “I never feel like I’m walking a tightrope, with you. I just wanted you to know that. I really appreciate your being here.”
-
-
-“Even if I’m not human?”
-
-
-“Even if you’re not human,” sie said, very seriously"
+> **原句 5:** "Mr Hluid. I’m so very sorry that my work has distressed you so much. You’re a good person, and I’ve been so very grateful to have your help all this time. Not only have you been helpful, but you’ve been…” Sie stopped, as though sie was searching for the right word. “Restful and pleasant to be around. I always know if I do the wrong thing with you, but not in a way that…” Sie stopped again. “I never feel like I’m walking a tightrope, with you. I just wanted you to know that. I really appreciate your being here.” “Even if I’m not human?” “Even if you’re not human,” sie said, very seriously"
 
 **中文理解：** 「Mr Hluid，我非常抱歉我的工作让你这么难受。你是个好人，这些日子你的帮忙我一直很感激。你不只是有用，你这个人……」她停住，像在找词。「和你在一起很安稳、很舒服。我总能察觉自己哪里做错了，可不是那种……我又停住了……跟你在一起时，我从不需要像走钢丝。我只是想让你知道这个。我很感激你在这里。」「就算我不是人？」「就算你不是人。」她说，非常认真。
 
@@ -91,10 +85,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者要注意括号里那两处补充：它们是 Reet 自己替父母找的台阶，也是他自己最怕听到的话。
 
-> **原句 8:** "Someone stepped into his room, and he came fully awake, heart racing, mouth dry. The intruder wore full protective gear—gloves, boots, helmet, all sealed up, as though Reet had something terribly, dangerously contagious. Through the door, in the bright corridor, there were more gleaming, suited figures.
-
-
-“Reet Hluid,” said the intruder as Reet lay there, naked and half under his bedcovers. “You are under arrest"
+> **原句 8:** "Someone stepped into his room, and he came fully awake, heart racing, mouth dry. The intruder wore full protective gear—gloves, boots, helmet, all sealed up, as though Reet had something terribly, dangerously contagious. Through the door, in the bright corridor, there were more gleaming, suited figures. “Reet Hluid,” said the intruder as Reet lay there, naked and half under his bedcovers. “You are under arrest"
 
 **中文理解：** 「有人走进他房间，他一下子全醒了，心跳发快，嘴里发干。进来的人穿着全套防护装备——手套、靴子、头盔，全都封着，好像 Reet 身上带着什么极其危险、会传染的东西。门外的亮走廊里，还有更多闪亮的穿制服的人。『Reet Hluid，』来人说，Reet 就那样躺着，赤身，半裹在被子底下。『你被捕了。』」
 

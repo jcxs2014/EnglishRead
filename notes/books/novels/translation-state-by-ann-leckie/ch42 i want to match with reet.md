@@ -45,10 +45,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者在此明白：他犹豫的并不是救不救，而是救的方式正好是他最想要的那一种。
 
-> **原句 4:** "Reet didn’t want that. Reet was going to match with a bio mech and go back home with Mom and Nana.
-
-
-But it would be so easy, so nice, to melt into Reet right here, right now. And Reet was bleeding and bleeding and he would die if I didn’t do something."
+> **原句 4:** "Reet didn’t want that. Reet was going to match with a bio mech and go back home with Mom and Nana. But it would be so easy, so nice, to melt into Reet right here, right now. And Reet was bleeding and bleeding and he would die if I didn’t do something."
 
 **中文理解：** Reet 不想要那个。Reet 会和一具 bio mech 匹配，然后和 Mom、Nana 一起回家。可是现在、就在这里，融进 Reet 会是那么容易、那么美好。而 Reet 在不停地流血，我不做点什么他就会死。
 
@@ -68,16 +65,7 @@ But it would be so easy, so nice, to melt into Reet right here, right now. And R
 
 **读者视角提示：** 读者会感到 Qven 撑住的方式正是他从小看的那类戏——而支撑物本身随时会塌。
 
-> **原句 6:** "“I’m not your child,” I pointed out, and fresh tears threatened.
-
-
-Nana made a dismissive snort. “You might as well be at this point.”
-
-
-I blinked, astonished. “Really?”
-
-
-“Really,” said Nana. “All our children are adopted. What’s one more?”"
+> **原句 6:** "“I’m not your child,” I pointed out, and fresh tears threatened. Nana made a dismissive snort. “You might as well be at this point.” I blinked, astonished. “Really?” “Really,” said Nana. “All our children are adopted. What’s one more?”"
 
 **中文理解：** 「我不是你们的孩子。」我指出，新的眼泪又要来了。Nana 发出不屑的鼻音。「到这份上你不如就是。」「真的？」我愣住。「真的，」Nana 说。「我们所有的孩子都是收养的。多一个又怎样？」
 

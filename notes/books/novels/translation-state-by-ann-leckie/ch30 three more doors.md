@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：被刺之后灯光熄灭、房间缩小，除 Reet、他的父母与 Mx Athtur 外所有人都消失；Qven 说出还有三道 Adults 用的门并找到三只 EMERGENCY ENCLOSURE，Mom 表示若只容四人她留在外面，Qven 遂第一次成功开门、有空气通过，Reet 与他一起挤了过去。
+- **一句话概括**：被刺之后灯光熄灭、房间缩小，除 Reet、他的父母与 Mx Athtur 外所有人都消失；Qven 说出还有三道 Adults 用的门并找到三只 EMERGENCY ENCLOSURE，Mom 表示若只容四人她留在外面，Qven 遂把门打开、有空气通过，Reet 与他一起挤了过去。
 - **情感弧线位置**：承接上一章以暴力收束的听证，本章从混乱落到一个必须有人做决定的密闭空间；情绪由失重与失序的惊惶，转成被一个家庭认下的暖意，最后落在一个已经完成的动作上。
 - **人物弧线**：Qven 从只会感觉门、被问到才承认自己感觉得到，转为主动宣布由他去开门；Reet 从被 Mom 保护的对象，转为明说「我不能留下 Qven 而不去」；Mom 则在同意之后补上一句愿意留在外面的话。
 - **叙事手法**：第一人称限制视角贴附 Qven，感官先行——先写门在叫、光在灭、方向消失，再让人物开口；关键信息都以问答推进，重要的推理由角色自己复述一遍。
@@ -15,12 +15,9 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** "All this time I had been mostly paying attention to what everyone was saying or doing, though at the back of everything I could feel, vaguely, the doors and corridors that led into and out of the room. Not the ones that the humans had used coming in, but the ones that whispered and sang to me, the ones I could feel. I hadn’t paid much attention to them because there was so much else going on that was so much more important.
+> **原句 1:** "All this time I had been mostly paying attention to what everyone was saying or doing, though at the back of everything I could feel, vaguely, the doors and corridors that led into and out of the room. Not the ones that the humans had used coming in, but the ones that whispered and sang to me, the ones I could feel. I hadn’t paid much attention to them because there was so much else going on that was so much more important. But now those doors and corridors screamed, all together, and there was a horrible, indescribable sense of dislocation, and then the lights went out and there was no up and down anymore."
 
-
-But now those doors and corridors screamed, all together, and there was a horrible, indescribable sense of dislocation, and then the lights went out and there was no up and down anymore."
-
-**中文理解：** 这段时间我大部分时候都在听大家说什么、做什么，可是在这一切的最深处，我模模糊糊地感觉得到那些通向这间屋子、通出这间屋子的门与走廊。不是人类进来时走的那些，而是那些对我低语、对我歌唱的，那些我能感觉得到的门。我没怎么留意它们，因为当时有太多更要紧的事在发生。可是现在那些门与走廊一起尖叫起来，接着是一种可怕的、无法描述的错位感，然后灯灭了，上下也没有了。
+**中文理解：** 这段时间我大部分时候都在听大家说什么、做什么，可是在这一切底下，我模模糊糊地感觉得到那些通向这间屋子、通出这间屋子的门与走廊。不是人类进来时走的那些，而是那些对我低语、对我歌唱的，那些我能感觉得到的门。我没怎么留意它们，因为当时有太多更要紧的事在发生。可是现在那些门与走廊一起尖叫起来，接着是一种可怕的、无法描述的错位感，然后灯灭了，上下也没有了。
 
 **关键词：** the ones that whispered and sang to me / those doors and corridors screamed / a horrible, indescribable sense of dislocation / there was no up and down anymore
 
@@ -28,13 +25,7 @@ But now those doors and corridors screamed, all together, and there was a horrib
 
 **读者视角提示：** 读者会在这里第一次意识到，前面那场听证里她一直分着心，而她分心的方向不是人。
 
-> **原句 2:** "Mom and Nana and Mx Athtur cried out. Lights came on again, dimmer. I looked around and saw Reet’s parents were flailing. Mx Athtur had grabbed hold of a chair, but the chair wasn’t sitting on the floor anymore, and the more sie moved the farther it moved away from the floor. Or the wall. Or whatever it was now, there was no way to tell any direction from another.
-
-
-Mom was holding on to Nana, whose eyes were firmly closed. Reet had grabbed my arm and floated beside me, his hair sticking every which way off of his head.
-
-
-And the room was different in other ways. It was, for instance, smaller. Much smaller. Translator Dlar was gone. The Rrrrrr and human committee members and their entourages, gone. Ambassador Seimet and the two humans she had brought—gone. Committee Member Agagag’s mech was still there, but it was half in, half out of the wall behind it, legs twitching."
+> **原句 2:** "Mom and Nana and Mx Athtur cried out. Lights came on again, dimmer. I looked around and saw Reet’s parents were flailing. Mx Athtur had grabbed hold of a chair, but the chair wasn’t sitting on the floor anymore, and the more sie moved the farther it moved away from the floor. Or the wall. Or whatever it was now, there was no way to tell any direction from another. Mom was holding on to Nana, whose eyes were firmly closed. Reet had grabbed my arm and floated beside me, his hair sticking every which way off of his head. And the room was different in other ways. It was, for instance, smaller. Much smaller. Translator Dlar was gone. The Rrrrrr and human committee members and their entourages, gone. Ambassador Seimet and the two humans she had brought—gone. Committee Member Agagag’s mech was still there, but it was half in, half out of the wall behind it, legs twitching."
 
 **中文理解：** Mom、Nana 和 Mx Athtur 叫出声来。灯又亮了，亮一些，也暗一些。我环顾四周，看见 Reet 的父母在扑腾。Mx Athtur 抓住一把椅子，可那把椅子已经不在地板上了；sie 动得越多，它就离地板越远——或者离墙越远。或者离现在已经不知道是什么的东西越远，反正没法从任何一个方向分辨出另一个。Mom 抓着 Nana，Nana 眼睛紧紧闭着。Reet 抓住我的手臂，飘在我旁边，头发朝各个方向支棱着。而房间在别的方面也变了。它比如说，变小了。 小得多。Translator Dlar 不见了。Rrrrrr 与人类委员及其随员，不见了。Ambassador Seimet 和她带来的那两个人，不见了。Committee Member Agagag 的机甲还在，可它有一半陷在墙里、一半在外，腿在抽动。
 
@@ -44,28 +35,7 @@ And the room was different in other ways. It was, for instance, smaller. Much sm
 
 **读者视角提示：** 读者会先数人数：走掉的每一个都在上一章说过话，而名单里没有一个是刚才握过她手的人。
 
-> **原句 3:** "“There’s nothing on the other side of that door,” I told hir. “Not even vacuum.”
-
-
-“What happened?” asked Nana. “What’s going on?”
-
-
-I said, “Translator Dlar did something to the doors. Not the doors you can see. I mean the doors we use.” The doors They used, I supposed. Reet and I drifted, somewhat pleasantly, I thought, except for the fact that we didn’t know exactly what had happened, or how to get out of here.
-
-
-“I’m going to be sick,” said Nana.
-
-
-“Where’s everyone else?” asked Mx Athtur.
-
-
-“I don’t know,” I confessed. “They must have been on the other side of…” of wherever there was a pathway or some kind of line. “There are doors here but they don’t lead anywhere.”
-
-
-“What do you mean?” asked Mom. “What do you mean there are doors here? There’s only one door that I can see.”
-
-
-“There are three more,” I told her."
+> **原句 3:** "“There’s nothing on the other side of that door,” I told hir. “Not even vacuum.” “What happened?” asked Nana. “What’s going on?” I said, “Translator Dlar did something to the doors. Not the doors you can see. I mean the doors we use.” The doors They used, I supposed. Reet and I drifted, somewhat pleasantly, I thought, except for the fact that we didn’t know exactly what had happened, or how to get out of here. “I’m going to be sick,” said Nana. “Where’s everyone else?” asked Mx Athtur. “I don’t know,” I confessed. “They must have been on the other side of…” of wherever there was a pathway or some kind of line. “There are doors here but they don’t lead anywhere.” “What do you mean?” asked Mom. “What do you mean there are doors here? There’s only one door that I can see.” “There are three more,” I told her."
 
 **中文理解：** 「那扇门另一边什么都没有，」我对 hir 说，「连真空都没有。」「发生了什么？」Nana 问，「怎么回事？」我说：「Translator Dlar 对那些门做了点什么。不是你们看得见的那些门。我是说我们用的那些门。」我想，大概是 They 用的那些门。Reet 和我飘着，我心里甚至有点舒服，只是不清楚到底发生了什么，也不知道怎么出去。「我要吐了，」Nana 说。「其他人都在哪儿？」Mx Athtur 问。「我不知道，」我承认，「他们一定在……在有路或者有某种线的那一边。」「你什么意思？」Mom 问，「你说这里有门是什么意思？我只看得到一扇门。」「还有三扇，」我告诉她。
 
@@ -85,16 +55,7 @@ I said, “Translator Dlar did something to the doors. Not the doors you can see
 
 **读者视角提示：** 读者会注意到她承认得如此之快，是因为对面坐着一个说愿意为她留下的人。
 
-> **原句 5:** "“Orange,” said Mx Athtur quickly. “It’s always an orange sign, or an orange tab or a switch. That’s what they said at the orientation when we first got here.”
-
-
-“I see orange,” I said, and pointed to where one of the mech’s stalked eyes emerged from the wall.
-
-
-“Good,” said Mom. “Well spotted.” And after some maneuvering with the chair, Mx Athtur managed to reach the orange spot, and pulled something.
-
-
-A panel came away with a click. Mx Athtur set it aside—it sat in the air beside hir, spinning, drifting just slightly—and pulled out a small orange package. “There are three more in here,” sie said. “No, wait. Two and a half more. So it looks like we have three of whatever these are."
+> **原句 5:** "“Orange,” said Mx Athtur quickly. “It’s always an orange sign, or an orange tab or a switch. That’s what they said at the orientation when we first got here.” “I see orange,” I said, and pointed to where one of the mech’s stalked eyes emerged from the wall. “Good,” said Mom. “Well spotted.” And after some maneuvering with the chair, Mx Athtur managed to reach the orange spot, and pulled something. A panel came away with a click. Mx Athtur set it aside—it sat in the air beside hir, spinning, drifting just slightly—and pulled out a small orange package. “There are three more in here,” sie said. “No, wait. Two and a half more. So it looks like we have three of whatever these are."
 
 **中文理解：** 「橙色，」Mx Athtur 很快地说，「永远是橙色牌子，或者橙色标签、橙色开关。我们刚来时的新人说明里就是这么说的。」「我看到橙色了，」我说，并指向机甲一根柄眼从墙里伸出来的地方。「很好，」Mom 说，「眼尖。」折腾了一阵椅子之后，Mx Athtur 够到了那个橙色位置，拉出什么东西。一块面板咔的一声脱开。Mx Athtur 把它搁到一边——它就悬在旁边的空气里，慢慢转着、微微漂着——然后抽出一个小的橙色包装。「里面还有三份，」sie 说，「不，等等。两份半。所以看起来我们有三份那个东西。」
 
@@ -104,13 +65,7 @@ A panel came away with a click. Mx Athtur set it aside—it sat in the air besid
 
 **读者视角提示：** 读者会在这一段第一次感到这间屋子里的秩序是靠人临时搭起来的，而搭起来的东西全是别人教她的。
 
-> **原句 6:** "“You’re an Adult, Reet. No, I know,” interrupting me before I could contradict her. “I know he’s still a juvenile, but as a human he’s grown up. So, Reet, you can do what you want to do. But I want you to understand, maybe you don’t really, but I would do anything to keep you safe. Qven, too. You are eventually going to be the same person, right? So. If there’s only space for four in the enclosure, I’ll stay out here.”
-
-
-“Don’t be ridiculous,” said Nana irritably. “I will.”
-
-
-“This isn’t convincing me to stay"
+> **原句 6:** "“You’re an Adult, Reet. No, I know,” interrupting me before I could contradict her. “I know he’s still a juvenile, but as a human he’s grown up. So, Reet, you can do what you want to do. But I want you to understand, maybe you don’t really, but I would do anything to keep you safe. Qven, too. You are eventually going to be the same person, right? So. If there’s only space for four in the enclosure, I’ll stay out here.” “Don’t be ridiculous,” said Nana irritably. “I will.” “This isn’t convincing me to stay"
 
 **中文理解：** 「你已经是大人了，Reet。不，我知道，」Mom 在我来得及反驳之前打断我，「我知道他还是个幼体，可作为人类他已经长大了。所以，Reet，你可以做你想做的。但我要你明白，也许你自己并不真的明白——我愿意做任何事来保证你安全。Qven 也一样。你们最终会变成同一个人，对吧？所以。如果那个封闭舱只装得下四个人，我就留在外面。」「别胡说，」Nana 烦躁地说，「我留。」「这可说服不了我留下，」Reet 说。
 
@@ -130,19 +85,7 @@ A panel came away with a click. Mx Athtur set it aside—it sat in the air besid
 
 **读者视角提示：** 读者会在这里第一次撞见一个她算不明白的东西：有人不为理由、也不为交换，愿意把她算进去。
 
-> **原句 8:** "I… felt the door. Tried to do what I’d felt Teacher do. Missed. Tried again.
-
-
-The door opened. Behind me I heard Mom make a surprised, distressed noise. I felt air blow past—out of the dimly lit space before me and into the much-reduced room behind. Just a small breeze. “Should we leave it open?” I asked. “There’s lots of air here.”
-
-
-“Yes,” said Mx Athtur. “We’ll stay by the enclosures just in case.”
-
-
-“Reet, be careful!” said Mom.
-
-
-“Don’t worry, Mom,” said Reet, and he grabbed one side of the door and pushed us through."
+> **原句 8:** "I… felt the door. Tried to do what I’d felt Teacher do. Missed. Tried again. The door opened. Behind me I heard Mom make a surprised, distressed noise. I felt air blow past—out of the dimly lit space before me and into the much-reduced room behind. Just a small breeze. “Should we leave it open?” I asked. “There’s lots of air here.” “Yes,” said Mx Athtur. “We’ll stay by the enclosures just in case.” “Reet, be careful!” said Mom. “Don’t worry, Mom,” said Reet, and he grabbed one side of the door and pushed us through."
 
 **中文理解：** 我……摸到了那扇门。试着去做我曾经感觉 Teacher 做过的事。没中。再试一次。门开了。我身后传来 Mom 一声又惊又慌的声音。我感觉到一股气流刮过去——从我面前那个昏暗的空间里出来，刮进身后那间已经小得多的屋子。只是很小的一阵风。「要开着它吗？」我问，「这里空气很多。」「开着，」Mx Athtur 说，「我们待在封闭舱旁边以防万一。」「Reet，小心！」Mom 说。「别担心，Mom，」Reet 说着，抓住门的一侧，把我们挤了过去。
 

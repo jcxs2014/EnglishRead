@@ -65,10 +65,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会感到「尚未取名」是这本书给出的最后状态：连称呼都还是一件待办的事。
 
-> **原句 6:** "“And how are Reet and Qven?” asked Enae. “Aren’t they here?”
-
-
-“They’re having one of their sulks,” said the mech. “They’ll be out soon.”"
+> **原句 6:** "“And how are Reet and Qven?” asked Enae. “Aren’t they here?” “They’re having one of their sulks,” said the mech. “They’ll be out soon.”"
 
 **中文理解：** 「那 Reet 和 Qven 怎么样了？」Enae 问。「他们在闹一场他们自己的闷气，」机甲说。「很快就会出来。」
 
@@ -88,10 +85,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会在这里第一次看到合并之后的那个人也会脆弱，而脆弱的方式仍然像 Qven。
 
-> **原句 8:** "“You’ll be bored,” Sphene suggested, undocking the shuttle from itself. “You’ve gotten the taste for excitement and adventure.”
-
-
-“I may have,” agreed Enae, leaning back in hir seat as the shuttle accelerated. “Just a little.”"
+> **原句 8:** "“You’ll be bored,” Sphene suggested, undocking the shuttle from itself. “You’ve gotten the taste for excitement and adventure.” “I may have,” agreed Enae, leaning back in hir seat as the shuttle accelerated. “Just a little.”"
 
 **中文理解：** 「你会无聊的，」Sphene 建议道，一边把摆渡船从自己身上解开。「也许吧，」Enae 同意，一边在座位上向后靠去，任摆渡船加速。「就一点点。」
 

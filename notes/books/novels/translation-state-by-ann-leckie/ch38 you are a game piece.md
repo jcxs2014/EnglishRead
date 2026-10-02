@@ -55,13 +55,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会在这里把早前所有关于失落继承人的说法重新过一遍：Seimet 讲的不是出身问题，而是利用问题。
 
-> **原句 5:** "I had explained, and still there was every danger that the committee was going to decide in your favor. The Geck were determined, of course. The Rrrrrr bear an old grudge that made their support for you—and more to the point, against me—a foregone conclusion. The human committee member is surrounded by advisers and staff with any number of dangerous agendas, and then the ships took an interest in the matter. They don’t have an official voice on the committee—”
-
-
-“Yet,” put in Reet.
-
-
-“Yet,” acknowledged Ambassador Seimet coldly. “In any event, a presentation of the facts did not sway the committee, and so I must perforce convince them by a demonstration."
+> **原句 5:** "I had explained, and still there was every danger that the committee was going to decide in your favor. The Geck were determined, of course. The Rrrrrr bear an old grudge that made their support for you—and more to the point, against me—a foregone conclusion. The human committee member is surrounded by advisers and staff with any number of dangerous agendas, and then the ships took an interest in the matter. They don’t have an official voice on the committee—” “Yet,” put in Reet. “Yet,” acknowledged Ambassador Seimet coldly. “In any event, a presentation of the facts did not sway the committee, and so I must perforce convince them by a demonstration."
 
 **中文理解：** 「我已经解释过了，可委员会仍然极有可能做出对你有利的裁定。Geck 当然是下了决心的。Rrrrrr 记着一笔旧怨，这份旧怨让他们支持你——更确切地说，反对我——几乎成了定局。那位人类委员身边围着一群各有各的危险盘算的顾问与幕僚，接着那些船也掺了进来。他们在委员会里没有正式发言权——」
 
@@ -91,13 +85,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者在此感到 Reet 想要的其实很小：一个住处、一份工位——这与 ch02 那个管道工是同一份人生。
 
-> **原句 8:** "“There’s blood. It’s falling through a wall at the end of the corridor.”
-
-
-“Falling through a wall,” Ambassador Seimet repeated. “There’s gravity in the corridor?”
-
-
-“No. But I think there’s gravity around the wall. I think it’s a floor, and someone is bleeding on the other side of it. I can’t get to it, though, because the gravity pushes me away and there’s nothing to brace myself with, to get close enough.”"
+> **原句 8:** "“There’s blood. It’s falling through a wall at the end of the corridor.” “Falling through a wall,” Ambassador Seimet repeated. “There’s gravity in the corridor?” “No. But I think there’s gravity around the wall. I think it’s a floor, and someone is bleeding on the other side of it. I can’t get to it, though, because the gravity pushes me away and there’s nothing to brace myself with, to get close enough.”"
 
 **中文理解：** 「有血。它正从走廊尽头的一堵墙里渗出来。」
 

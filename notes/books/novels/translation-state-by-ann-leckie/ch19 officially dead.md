@@ -15,13 +15,7 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** "There have been any number of cases of people choosing an affiliation under the treaty. But none has been contested for a good three hundred years.” She waved a hand. “Contested on the treaty level, I mean.”
-
-
-“Is that case from three hundred years ago relevant to ours?” asked Enae hopefully. Sie took a sip of hir own coffee—far too sweet, Zeoseni had a very different idea of good coffee than Enae did, but at least it was not the watery, faintly burned-tasting stuff they’d been served at the accommodation that morning.
-
-
-“In some ways it’s a very similar case,” said Ms Yedess. “A question of an orphan taken in by people at the nearest station"
+> **原句 1:** "There have been any number of cases of people choosing an affiliation under the treaty. But none has been contested for a good three hundred years.” She waved a hand. “Contested on the treaty level, I mean.” “Is that case from three hundred years ago relevant to ours?” asked Enae hopefully. Sie took a sip of hir own coffee—far too sweet, Zeoseni had a very different idea of good coffee than Enae did, but at least it was not the watery, faintly burned-tasting stuff they’d been served at the accommodation that morning. “In some ways it’s a very similar case,” said Ms Yedess. “A question of an orphan taken in by people at the nearest station"
 
 **中文理解：** 「说到正事。这会是一件微妙的事。依条约选择归属的案例有过不知多少起，但没有一起被争夺过——足足三百年。」她挥了挥手。「我是说，在条约这个层面被争夺。」Enae 抱着希望问：「三百年前那个案子跟我们这份有关吗？」「某些方面很像，」Ms Yedess 说，「是关于一个孤儿被最近空间站上的人收养的问题。」
 
@@ -41,13 +35,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者要注意这条规定的方向：它不是把 Presger 判成人，而是把人判成不再是人。
 
-> **原句 3:** "Maybe we can turn that to our advantage, though,” Enae suggested. “If Ambassador Seimet turns Reet over to the Presger Translators and he’s considered dead, then he’s unaffiliated with anyone and can choose, right? Wasn’t there a case like that?” Sie searched hir memory. “Pahlad Budrakim, right? E was declared dead for some reason but was still alive, and e successfully petitioned to be accepted as Geck.”
-
-
-“Yes,” the advocate agreed. “It was quite recent, too. But it didn’t involve the Presger Translators. And the reason a person could be considered dead after visiting the Presger, according to widely and firmly held belief here, is that the Presger themselves would have eaten them, or disassembled them or whatever, and anyone returning would only be a copy.”
-
-
-Silence. Enae opened hir mouth to say something, then closed it again"
+> **原句 3:** "Maybe we can turn that to our advantage, though,” Enae suggested. “If Ambassador Seimet turns Reet over to the Presger Translators and he’s considered dead, then he’s unaffiliated with anyone and can choose, right? Wasn’t there a case like that?” Sie searched hir memory. “Pahlad Budrakim, right? E was declared dead for some reason but was still alive, and e successfully petitioned to be accepted as Geck.” “Yes,” the advocate agreed. “It was quite recent, too. But it didn’t involve the Presger Translators. And the reason a person could be considered dead after visiting the Presger, according to widely and firmly held belief here, is that the Presger themselves would have eaten them, or disassembled them or whatever, and anyone returning would only be a copy.” Silence. Enae opened hir mouth to say something, then closed it again"
 
 **中文理解：** 「另外还有一点，」Enae 建议，『如果我们反过来利用这条呢？如果 Ambassador Seimet 把 Reet 交给 Presger Translator，而他被视为已死，那他就不属于任何人，可以自己选择，对不对？不是有过这种案子吗？』她在记忆里搜了搜，『Pahlad Budrakim，对吧？e 因某种原因被宣告死亡，但还活着，并成功申请被接纳为 Geck。』——『对，』代理人同意，『而且是相当近的事。不过它不涉及 Presger Translator。而一个人去过 Presger 之后会被视为已死——这是这里一种广为流传、根深蒂固的说法——原因在于 Presger 自己会把他吃掉，或者拆解掉，或者随便怎样，而回来的人只是一份副本。』沉默。Enae 张开嘴想说什么，又闭上了。
 
@@ -57,10 +45,7 @@ Silence. Enae opened hir mouth to say something, then closed it again"
 
 **读者视角提示：** 读者要记住「副本」这个词：这一章之后它不再只是一个比喻。
 
-> **原句 4:** "the moment the committee accepted our petition and placed it on the agenda—that is, about an hour ago—all other actions regarding the subject—Mr Hluid—were suspended. So, as a matter of treaty law, they can’t do anything to your son besides house and feed him.”
-
-
-“And eat him and send us back a copy"
+> **原句 4:** "the moment the committee accepted our petition and placed it on the agenda—that is, about an hour ago—all other actions regarding the subject—Mr Hluid—were suspended. So, as a matter of treaty law, they can’t do anything to your son besides house and feed him.” “And eat him and send us back a copy"
 
 **中文理解：** 「『不过，』代理人平静地说，『从委员会接受我们的请愿并列入议程的那一刻起——大约一小时前——关于当事人——也就是 Mr Hluid——的其他一切行动都处于暂缓状态。所以按条约法，他们除了供他吃住，对你们的儿子做不了别的。』——『然后把他吃掉，再给你们送回一个副本。』Istver 说，她的镇定第一次有了一道裂缝。」
 
@@ -80,19 +65,7 @@ Silence. Enae opened hir mouth to say something, then closed it again"
 
 **读者视角提示：** 读者要注意「skel」：它是这座空间站唯一的食物，也是这一章里唯一被形容为难吃的东西。
 
-> **原句 6:** "He wanted to cut people open and eat them,” said Echemin, brusquely. “We thought he was just, you know, having a joke.”
-
-
-Odd sort of joke, thought Enae.
-
-
-“Did he ever? Cut anyone open, I mean,” asked Batonen. “Or eat anyone.”
-
-
-Echemin stood. “How dare you! This is our son.”
-
-
-“Of course he is,” said Batonen, calmly. “But before I speak favorably to my superior about this case, I want to be certain I’m not unleashing something dangerous on you and your people. You know your son. I do not, and can’t be expected to. So I ask these questions"
+> **原句 6:** "He wanted to cut people open and eat them,” said Echemin, brusquely. “We thought he was just, you know, having a joke.” Odd sort of joke, thought Enae. “Did he ever? Cut anyone open, I mean,” asked Batonen. “Or eat anyone.” Echemin stood. “How dare you! This is our son.” “Of course he is,” said Batonen, calmly. “But before I speak favorably to my superior about this case, I want to be certain I’m not unleashing something dangerous on you and your people. You know your son. I do not, and can’t be expected to. So I ask these questions"
 
 **中文理解：** 「『他小时候有过咬人的问题，』Istver 说，『那把托儿所的保育员吓得不轻——那些人是见惯了各种孩子的。一个孩子确实需要急救。不过那之后就结了。Reet 那时几乎还不会说话，但我相信他一旦意识到自己真的伤到了人，就停了。』——『再怎么说也是个说得通的假设，』Batonen 说。『那他长大以后呢？』『他有过……』Istver 犹豫了。『有一次，一个职业顾问问他将来想做什么，他就说……』Enae 觉得她几乎说不出那是什么。然后 Istver 看向 Echemin，无声地求助。『他说他想把人剖开吃掉。』Echemin 生硬地说。『我们当时以为他只是在开玩笑。』——奇怪的那种玩笑，Enae 想。『他真的干过吗？我是说，剖开过谁？』Batonen 问，『或者吃过谁？』Echemin 站起身。『你怎么敢！这是我们的儿子！』『当然是，』Batonen 平静地说，『但在我向我的上级为这个案子说好话之前，我要确定我没有把危险的东西放到你们和你们的人身上。你们了解你们的儿子。我不了解，也没有理由该了解。所以我才有这些问题。』」
 
@@ -112,25 +85,7 @@ Echemin stood. “How dare you! This is our son.”
 
 **读者视角提示：** 读者要注意那个没说完的「而且我从来没有……」。她要说的多半是「从来没有真正懂过他」。
 
-> **原句 8:** "The Geck representatives are most sympathetic. As are the representatives of the Republic of Two Systems. Though of course they can’t give us any official assistance.”
-
-
-“The machines!” Echemin Hluid seemed horrified.
-
-
-“Oh, you wouldn’t know it, talking to them,” said Ms Yedess. “And they’ve been most obliging in this case in particular.”
-
-
-“They kill people and take over their bodies,” Echemin insisted. “That’s how they seem so human to you!”
-
-
-“They won’t be able to do that if they’re treaty members,” Enae pointed out. “Isn’t that right?” sie appealed to the advocate.
-
-
-“I can’t say that will never happen,” said Ms Yedess. “But I can say that it’s already settled law in the republic that only volunteers may be made into ancillaries.”
-
-
-“Volunteers!” Istver’s tone was uncharacteristically contemptuous. Skeptical. “Who would actually volunteer for such a thing?"
+> **原句 8:** "The Geck representatives are most sympathetic. As are the representatives of the Republic of Two Systems. Though of course they can’t give us any official assistance.” “The machines!” Echemin Hluid seemed horrified. “Oh, you wouldn’t know it, talking to them,” said Ms Yedess. “And they’ve been most obliging in this case in particular.” “They kill people and take over their bodies,” Echemin insisted. “That’s how they seem so human to you!” “They won’t be able to do that if they’re treaty members,” Enae pointed out. “Isn’t that right?” sie appealed to the advocate. “I can’t say that will never happen,” said Ms Yedess. “But I can say that it’s already settled law in the republic that only volunteers may be made into ancillaries.” “Volunteers!” Istver’s tone was uncharacteristically contemptuous. Skeptical. “Who would actually volunteer for such a thing?"
 
 **中文理解：** 「『那个案例里有人已被宣告死亡却想更换归属，』Enae 说，『那件案子涉及 Geck。』——『确实涉及，』Ms Yedess 同意，『Geck 代表最为 sympathetic，Republic of Two Systems 的代表也是。不过他们当然不能给我们任何官方协助。』——『那些机器！』Echemin Hluid 听起来像是吓坏了。——『你在跟他们说话的话，根本看不出来。他们在这个案子里一直特别配合。』——『他们杀人，还夺取别人的身体，』Echemin 坚持，『所以在你看来才那么像人！』——『如果他们已成为条约成员，就做不到这一点，不是吗？』Enae 指着代理人说。『这个我不能保证永远不会发生，但我可以说，在那个共和国里，只有自愿者才能被做成 ancillaries，这已经是既定的法。』——『自愿！』Istver 的语气里带着少见的轻蔑与怀疑，『真的会有人自愿去做这种事？』」
 

@@ -15,13 +15,7 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** "Four radishes later, Translator Dlar visited me. They came without warning into my rooms. I was nearly paralyzed with surprise, but “Stand” hissed Teacher urgently in my ear.
-
-
-Automatically I rose and said, “Translator Dlar. This is a pleasant surprise.”
-
-
-“Qven,” they acknowledged. “How have you been"
+> **原句 1:** "Four radishes later, Translator Dlar visited me. They came without warning into my rooms. I was nearly paralyzed with surprise, but “Stand” hissed Teacher urgently in my ear. Automatically I rose and said, “Translator Dlar. This is a pleasant surprise.” “Qven,” they acknowledged. “How have you been"
 
 **中文理解：** 「种完第四棵萝卜之后，Translator Dlar 来看我。他们没有预先通知就进了房间，我几乎吓得僵住，Teacher 在我耳边压着声音说：『站起来。』我机械地起身，说：『Translator Dlar，这真是意料之外的愉快。』对方应了一声：『Qven。』然后问：『你过得怎么样？』我认得这套对话——我在 Edges 练过，Teacher 现在每天都在这里逼我走一遍。」
 
@@ -41,13 +35,7 @@ Automatically I rose and said, “Translator Dlar. This is a pleasant surprise.�
 
 **读者视角提示：** 读者要记住这个打量：它是这一章里唯一一直在场的评分目光，而「我」接下来所有的顺从都是演给它看的。
 
-> **原句 3:** "… has essentially admitted guilt. Not, you understand, in so many words. But they were offered a match far more prestigious than they might otherwise expect—with the understanding that their partner would of course report whatever they learned in the process of matching. Complete exoneration, potentially, and a far better future than they can expect as things stand now.”
-
-
-I took my own sip of tea. “They refused?”
-
-
-“Their clade refused for them, of course. But the refusal itself tells us a good deal"
+> **原句 3:** "… has essentially admitted guilt. Not, you understand, in so many words. But they were offered a match far more prestigious than they might otherwise expect—with the understanding that their partner would of course report whatever they learned in the process of matching. Complete exoneration, potentially, and a far better future than they can expect as things stand now.” I took my own sip of tea. “They refused?” “Their clade refused for them, of course. But the refusal itself tells us a good deal"
 
 **中文理解：** 「『Tzam，』对方开口。我眨了眨眼，尽力不让人看出听见这个名字时自己抖了一下。Translator Dlar 似乎没有察觉。「……基本上等于认了罪。不是用那么多字说的。但我们给了对方一个远比它原本可能指望的体面匹配，条件是它的对象在匹配过程中报出学到的一切。可能是完全洗清，也可能是比现在好得多的将来。』我喝了一口自己的茶。『他们拒绝了？』『当然是他们那个 clade 替他们拒绝的。但这个拒绝本身就说明了不少。』」
 
@@ -77,13 +65,7 @@ I took my own sip of tea. “They refused?”
 
 **读者视角提示：** 读者要注意「我」的反应之前那半秒：先吐出一个单音节，再站起来。
 
-> **原句 6:** "No!” I stood, nearly oversetting my chair. “I won’t.”
-
-
-Instantly Teacher was at my side. A threat, I knew. I calmed my breathing as best I could, and sat.
-
-
-“This is why we don’t usually tell you children things like this,” said Translator Dlar. “Are you going to behave"
+> **原句 6:** "No!” I stood, nearly oversetting my chair. “I won’t.” Instantly Teacher was at my side. A threat, I knew. I calmed my breathing as best I could, and sat. “This is why we don’t usually tell you children things like this,” said Translator Dlar. “Are you going to behave"
 
 **中文理解：** 「『那还能怎么……』我随即反应过来。『不！』我站起来，椅子差点被带翻。『我不要。』Teacher 立刻到了我身边。我知道那是一个威胁。我尽力把呼吸压平，坐了回去。『这就是我们通常不把这些事讲给孩子听的原因，』Translator Dlar 说，『你打算乖吗？』」
 
@@ -93,10 +75,7 @@ Instantly Teacher was at my side. A threat, I knew. I calmed my breathing as bes
 
 **读者视角提示：** 读者要记住她答「是」时的用词：接的是「乖」，不是「同意」——这个偷换就是后面两周的全部空间。
 
-> **原句 7:** "I was going to the Treaty Administration Facility. All sorts of ships came and went from there, to and from all sorts of places.
-
-
-I had a week—maybe more, but call it a week—to find some way to escape. And I would have to be very, very good so that no one suspected my intentions"
+> **原句 7:** "I was going to the Treaty Administration Facility. All sorts of ships came and went from there, to and from all sorts of places. I had a week—maybe more, but call it a week—to find some way to escape. And I would have to be very, very good so that no one suspected my intentions"
 
 **中文理解：** 「我要去 Treaty Administration Facility 了。那地方来来往往全是船，通往各式各样的地方。我有一周——也许更久，就算一周吧——去想办法逃走。而且我得非常非常好，好到没人怀疑我的意图。」
 

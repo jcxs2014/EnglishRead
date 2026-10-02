@@ -15,32 +15,17 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** "“Kekubo would take the risk,” I said. I had begun to think that maybe it would be nice to have a gender, like Reet did, the way a lot of characters in Pirate Exiles seemed to, but I wasn’t sure how that would work. “I think I am e now, and not they,” I said. “Or I would like to try being e.”
-
-
-“All right.” He agreed so easily, and I felt absurdly better, though I hadn’t realized that I’d felt less than good before. Or, maybe I hadn’t felt less than good but it was nice to have someone agree like that. “Plenty of people change around until they find what suits them best,” he went on. “Or never settle on one in particular.”
-
-
-“So we agree, then,” I said. “I’m e and you’re he, and we’re both human and insist on telling the committee that, no matter what Translator Dlar says.”
-
-
-“We agree.”"
+> **原句 1:** "“Kekubo would take the risk,” I said. I had begun to think that maybe it would be nice to have a gender, like Reet did, the way a lot of characters in Pirate Exiles seemed to, but I wasn’t sure how that would work. “I think I am e now, and not they,” I said. “Or I would like to try being e.” “All right.” He agreed so easily, and I felt absurdly better, though I hadn’t realized that I’d felt less than good before. Or, maybe I hadn’t felt less than good but it was nice to have someone agree like that. “Plenty of people change around until they find what suits them best,” he went on. “Or never settle on one in particular.” “So we agree, then,” I said. “I’m e and you’re he, and we’re both human and insist on telling the committee that, no matter what Translator Dlar says.” “We agree.”"
 
 **中文理解：** 「Kekubo 会担这个风险，」我说。我开始想，也许有个性别会很好，像 Reet 有那样，Pirate Exiles 里好多角色似乎都有；只是我不太确定那要怎么办。「我想我现在是 e，不是 they，」我说，「或者我想试着当 e。」「好。」他答应得太轻易，我觉得自己好得离谱，尽管之前并没意识到自己原来是觉得不够好。也可能，我并没有觉得不够好，只是有人这样答应本身就很舒服。「很多人的说法会换来换去，直到找到最合适自己的，」他接着说，「或者一辈子也定不下来。」「那我们就说定了，」我说，「我是 e，你是他，我们两个都是人，不管 Translator Dlar 说什么，都要让委员会知道这一点。」「说定了。」
 
 **关键词：** Plenty of people change around / I think I am e now, and not they / I’m e and you’re he / we’re both human
 
-**为什么这样写：** 这一段把全书最抽象的一件事——挑一个代词——处理成一场谈判：提议、附条件、复述、确认。复述那一句特意把三件事捆在一起（我是 e／你是他／我们都是人），说明这个代词对 Qven 来说不是装饰，而是进入委员会主张的前提。Reet 那句「好」不附加条件，反而让她先愣一下自己原来不满。
+**为什么这样写：** 这一段把挑一个代词这件抽象事处理成一场谈判：提议、附条件、复述、确认。复述那一句特意把三件事捆在一起（我是 e／你是他／我们都是人），说明这个代词对 Qven 来说不是装饰，而是进入委员会主张的前提。Reet 那句「好」不附加条件，反而让她先愣一下自己原来不满。
 
 **读者视角提示：** 读者会在这里第一次看到两人把「怎么称呼」变成「怎么站位」——一个私人选择被直接接到一场公听会里去。
 
-> **原句 2:** "It was nice being with Reet. It had been nice being with the other Tinies and Littles and Smalls, other Middles and Edges, but that had been when I’d been… not safe, precisely, because, looking back, none of us had been safe from each other. But for whatever reason (my clade? the fact that I was intended to be Translator Dlar? the concern of Adults around me?), I had never felt not-safe. Not really.
-
-
-Not until I’d seen… that thing under the bushes in the garden, and realized what was coming, and how soon. Seen the reality, the details, of what the Teachers had spoken of in vague, glowing terms.
-
-
-And then there’d been Tzam."
+> **原句 2:** "It was nice being with Reet. It had been nice being with the other Tinies and Littles and Smalls, other Middles and Edges, but that had been when I’d been… not safe, precisely, because, looking back, none of us had been safe from each other. But for whatever reason (my clade? the fact that I was intended to be Translator Dlar? the concern of Adults around me?), I had never felt not-safe. Not really. Not until I’d seen… that thing under the bushes in the garden, and realized what was coming, and how soon. Seen the reality, the details, of what the Teachers had spoken of in vague, glowing terms. And then there’d been Tzam."
 
 **中文理解：** 和 Reet 在一起很好。以前和其他 Tiny、Little、Small 在一起也很好，其他 Middles、Edges 也是；不过那是在我还……不算安全的时候——现在回头看，我们谁对谁都不安全。但不知为什么（是我的 clade？我本来该成为 Translator Dlar？周围 Adults 的顾虑？），我从没觉得自己不安全过。真的没有。直到我看见……花园里灌木底下那样东西，意识到要来的会是什么、以及多快就要来。看见了那些现实、那些细节——Teachers 一直用含糊而闪亮的说法讲的那件事。然后就是 Tzam。
 
@@ -70,28 +55,7 @@ And then there’d been Tzam."
 
 **读者视角提示：** 读者会在这里被一句话绊住：她担心的从来不是和谁匹配，而是匹配之后自己会变成什么形状。
 
-> **原句 5:** "“Mom. Nana. This is Qven. Qven, this is my mom, and my nana.”
-
-
-“Hello, Qven,” said Mom. Quite politely, but I thought they were hesitant. She. She was hesitant. Mom was a she word. And Nana was e.
-
-
-“Hello,” I said. “It’s lovely to meet you.” I bowed.
-
-
-“My goodness, what nice manners,” said Mom.
-
-
-“I protest!” cried Translator Dlar, behind me.
-
-
-“I have a lot of practice,” I said to Mom. “Hello, Nana. It’s nice to meet you, too. Reet has missed you both.” It was the truth. We’d talked about his family.
-
-
-Nana frowned. “Are you… have you…?”
-
-
-It took me a moment to understand what e was asking."
+> **原句 5:** "“Mom. Nana. This is Qven. Qven, this is my mom, and my nana.” “Hello, Qven,” said Mom. Quite politely, but I thought they were hesitant. She. She was hesitant. Mom was a she word. And Nana was e. “Hello,” I said. “It’s lovely to meet you.” I bowed. “My goodness, what nice manners,” said Mom. “I protest!” cried Translator Dlar, behind me. “I have a lot of practice,” I said to Mom. “Hello, Nana. It’s nice to meet you, too. Reet has missed you both.” It was the truth. We’d talked about his family. Nana frowned. “Are you… have you…?” It took me a moment to understand what e was asking."
 
 **中文理解：** 「Mom。Nana。这是 Qven。Qven，这是我妈妈，这是我奶奶。」「你好，Qven，」Mom 说。相当客气，可我觉得他们有些犹豫。她。她是犹豫的。Mom 是 she 那个词。而 Nana 是 e。「你好，」我说，「很高兴认识你。」我鞠了一躬。「哎呀，多好的教养，」Mom 说。「我抗议！」Translator Dlar 在我身后喊。「我很有经验，」我对 Mom 说，「你好，Nana。也很高兴认识你。Reet 想念你们两位。」这是实话。我们聊过他的家人。Nana 皱起眉。「你们是……有没有……？」我花了一会儿才明白 e 在问什么。「他们想让我们那样。」我说。
 
@@ -101,13 +65,7 @@ It took me a moment to understand what e was asking."
 
 **读者视角提示：** 读者会第一次看到同一场里有三种代词各自指认：Reet 用他，Mom 是她，Nana 是 e。称呼的差异第一次被写成一家人的差异。
 
-> **原句 6:** "“No committee is going to order me to stay away from my son!” said Nana, loud and angry.
-
-
-“I’m human, too,” I said. “I’m e, like Nana is.”
-
-
-“Of course you are, dear,” said Mom. She sounded like she meant it, even though she had only just met me. And she seemed to be really looking at me, and listening to me, just me"
+> **原句 6:** "“No committee is going to order me to stay away from my son!” said Nana, loud and angry. “I’m human, too,” I said. “I’m e, like Nana is.” “Of course you are, dear,” said Mom. She sounded like she meant it, even though she had only just met me. And she seemed to be really looking at me, and listening to me, just me"
 
 **中文理解：** 「没有哪个委员会能命令我不许见我的儿子！」Nana 大声而生气地说。「我也是人，」我说，「我是 e，跟 Nana 一样。」「当然你是，亲爱的，」Mom 说。她听起来是真心的，尽管才刚认识我。而且她好像真的在看我、听我，只是听我一个人，哪怕四周全是喧闹和动静。
 
@@ -117,19 +75,7 @@ It took me a moment to understand what e was asking."
 
 **读者视角提示：** 读者会注意到 Qven 抢在任何人核实之前先自称是人。她不再申请验证，她开始索取承认。
 
-> **原句 7:** "“And me,” I said, standing. “I’m very sorry for interrupting, but I’m human, too, and I would like the committee to tell Translator Dlar so.”
-
-
-Committee Member Agagag whistled, “We add…” The mech flicked a leg against my shoulder and looked close at me with one stalked eye.
-
-
-“Qven,” I said.
-
-
-“We add Qven to our petition.”
-
-
-I sat back down. Translator Dlar looked, suddenly, as though they’d swallowed something the wrong way."
+> **原句 7:** "“And me,” I said, standing. “I’m very sorry for interrupting, but I’m human, too, and I would like the committee to tell Translator Dlar so.” Committee Member Agagag whistled, “We add…” The mech flicked a leg against my shoulder and looked close at me with one stalked eye. “Qven,” I said. “We add Qven to our petition.” I sat back down. Translator Dlar looked, suddenly, as though they’d swallowed something the wrong way."
 
 **中文理解：** 「还有我，」我站起来说，「很抱歉打断，不过我也是人，我希望委员会能告诉 Translator Dlar 这一点。」Committee Member Agagag 吹了声口哨：「我们加上……」那台机甲用一条腿碰了碰我的肩膀，凑近我，一只带柄的眼睛盯着看。「Qven，」我说。「我们把 Qven 加进请愿。」我坐了回去。Translator Dlar 忽然看上去像是吞错了什么东西。
 
@@ -139,22 +85,7 @@ I sat back down. Translator Dlar looked, suddenly, as though they’d swallowed 
 
 **读者视角提示：** 读者会在这里第一次看到请愿的名单被公开改写。而 Qven 事先排练过的那句「我们都是人」，此刻是以别人的名字生效的。
 
-> **原句 8:** "A door opened behind the committee member for humans, and three more humans came into the room. One, tall, very dark skinned, white clad, black hair pulled back with a jeweled clip. The other two shorter, dressed in colorful long loose shirts and trousers.
-
-
-“Mr Nadkal!” said Reet, quietly. He sounded very, very surprised.
-
-
-“Ambassador Seimet,” said the speaker for the committee member for the Rrrrrr. “We’re pleased you could join us.”
-
-
-“Reet!” That was Mx Athtur, leaning forward to hiss urgently in Reet’s ear. “Reet, that person with Mr Nadkal—”
-
-
-“What are they even doing here?” asked Reet, still quiet, though I thought Ambassador Seimet heard, and she seemed sourly amused.
-
-
-“But the other person, Reet! That’s the person who attacked me!"
+> **原句 8:** "A door opened behind the committee member for humans, and three more humans came into the room. One, tall, very dark skinned, white clad, black hair pulled back with a jeweled clip. The other two shorter, dressed in colorful long loose shirts and trousers. “Mr Nadkal!” said Reet, quietly. He sounded very, very surprised. “Ambassador Seimet,” said the speaker for the committee member for the Rrrrrr. “We’re pleased you could join us.” “Reet!” That was Mx Athtur, leaning forward to hiss urgently in Reet’s ear. “Reet, that person with Mr Nadkal—” “What are they even doing here?” asked Reet, still quiet, though I thought Ambassador Seimet heard, and she seemed sourly amused. “But the other person, Reet! That’s the person who attacked me!"
 
 **中文理解：** 委员会那位人类成员身后的门开了，又进来三个人。一个很高、皮肤很黑、穿白衣、黑发用一枚镶宝石的夹子别在脑后。另外两个矮一些，穿色彩鲜艳的宽松长衫和长裤。「Mr Nadkal！」Reet 轻声说。他的声音听起来非常、非常惊讶。「Ambassador Seimet，」Rrrrrr 那位成员的发言人说，「很高兴您能到场。」「Reet！」那是 Mx Athtur，正探身过去在 Reet 耳边急促地嘶声说。「Reet，跟 Mr Nadkal 一起的那个人——」「他们到底是来干什么的？」Reet 问，声音仍然很轻，可我觉得 Ambassador Seimet 听见了，而她似乎有点酸溜溜地觉得好笑。「可是那个人，Reet！那才是袭击我的人！」
 

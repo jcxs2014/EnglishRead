@@ -15,13 +15,7 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** "“I want to go on the adventure. A real one.”
-
-
-For the tenth or eleventh time, the security officer shot a harried look at Reet, as though he could do anything about this.
-
-
-“It’s not like adventures in shows,” argued the security officer. “Those are actors, pretending.”"
+> **原句 1:** "“I want to go on the adventure. A real one.” For the tenth or eleventh time, the security officer shot a harried look at Reet, as though he could do anything about this. “It’s not like adventures in shows,” argued the security officer. “Those are actors, pretending.”"
 
 **中文理解：** 「我想去。我想去经历一场冒险。真的那种。」Qven 说，仍旧把自己弄得像是讲道理的。「船上那些不是剧里的冒险，」军官反驳，「那些是演员在演。」
 
@@ -71,10 +65,7 @@ For the tenth or eleventh time, the security officer shot a harried look at Reet
 
 **读者视角提示：** 读者会立刻意识到：这个名字在全书至今为止从未被官方确认过，而这一章它连对方都没骗过。
 
-> **原句 6:** "“Hiding,” sneered Reet’s captor. “And you’re no Schan.”
-
-
-“I am!” Reet protested. “I’m Hikipi like you are!”"
+> **原句 6:** "“Hiding,” sneered Reet’s captor. “And you’re no Schan.” “I am!” Reet protested. “I’m Hikipi like you are!”"
 
 **中文理解：** 「躲着。」抓住他的那人嗤笑。「而且你不是 Schan。」「我是！」Reet 抗议。「我和你一样是 Hikipi！」
 
