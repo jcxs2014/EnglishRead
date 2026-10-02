@@ -66,7 +66,7 @@ source_text: ch12_11_proper_sleep.txt
 
 > **原句 1:** "But perhaps there was a trick to this success rate: not detecting the murders of inconsequential people."
 
-**中文理解**：但也许这个成功率里有个 tricks：不侦破那些无关紧要的人的谋杀。
+**中文理解**：但也许这个成功率里藏着一个诀窍：不侦破那些无关紧要的人的谋杀。
 
 **句子结构**：转折句 But perhaps there was a trick to this success rate，其中 there was 为存在句，a trick to this success rate 为表语；冒号引出省略结构（not detecting the murders of inconsequential people），省略主语与助动词。
 
@@ -74,7 +74,7 @@ source_text: ch12_11_proper_sleep.txt
 
 **表达方式**：作者用一个 perhaps（也许）把一个指控轻轻放下，随后用冒号引出解释，而这个解释本身是省略的——no one says "the police don't…"；作者只说"不侦破"，让"谁不侦破"这个问题悬在空气里。
 
-**为什么这样写**：这句是全书最具结构性的批评，而它的力量恰恰来自那句省略。作者不写"警方不侦破"，因为写出来就成为一句需要证伪的断言；而写成"成功率里有个 tricks：不侦破……"则把它变成对统计本身的观察——任何统计都可以通过改变分母来变得完美。
+**为什么这样写**：这句是全书最具结构性的批评，而它的力量恰恰来自那句省略。作者不写"警方不侦破"，因为写出来就成为一句需要证伪的断言；而写成"成功率里有个诀窍：不侦破……"则把它变成对统计本身的观察——任何统计都可以通过改变分母来变得完美。
 
 ### ② 折磨人的缓慢
 
