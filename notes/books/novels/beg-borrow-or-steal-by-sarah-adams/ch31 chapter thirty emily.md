@@ -21,7 +21,7 @@ modified: "2026-10-02"
 
 **关键词**：walk-in pantry（步入式储藏室）、 with the door shut like a coward（关着门，像个懦夫）、 runaway bride（落跑新娘）
 
-**为什么这样写**：作者用一个首尾对照撑起全章：前面五个 would 全是她「会为别人做什么」，最后一句却说她连自己的事都逃掉了。I’ve never hidden from anything 这句断言被紧接着的 But when 推翻，落差就写在同一个段落里。popcorn chip pokes me in the shoulder 一处把荒谬落到身体上——她躲进储藏室的理由是一袋零食硌了肩膀。
+**为什么这样写**：作者用一个首尾对照撑起全章：前面五个 would 全是她「会为别人做什么」，最后一句却说她连自己的事都逃掉了。I’ve never hidden from anything 这句断言被紧接着的 But when 推翻，落差就写在同一个段落里。a bag of potato chips pokes me in the shoulder 一处把荒谬落到身体上——她躲进储藏室的理由是一袋零食硌了肩膀。
 
 **读者视角提示**：这一段是全书的分水岭：她上一次躲藏发生在十八岁那年的储藏室里吗——不，正是那一年她没有躲。这一段是后文的照应。
 
@@ -41,7 +41,7 @@ modified: "2026-10-02"
 
 **关键词**：We’re going to—because it’s important to this moment（我们要谈——因为这对现在这一刻很重要）、tough and independent（坚强而独立）、closed off（把自己关起来）、froze a layer of ice over your heart（在你心上冻了一层冰）、stopped beating normally（不再正常跳动）、you’ve regretted not going with him（你后悔没跟他走）
 
-**为什么这样写**：作者让 Noah 用一个破折号（We’re going to—because）代替争辩，抢在她的拒绝后面填上理由。核心意象是一个比喻：froze a layer of ice over your heart so thick it stopped beating normally，把心理防御写成一块有厚度的冰——这层冰不只是痛，还让心跳失律。末句 you’ve regretted not going with him 用一个 hered 式的直接判断把她的二十年重新命名。
+**为什么这样写**：作者让 Noah 用一个破折号（We’re going to—because）代替争辩，抢在她的拒绝后面填上理由。核心意象是一个比喻：froze a layer of ice over your heart so thick it stopped beating normally，把心理防御写成一块有厚度的冰——这层冰不只是痛，还让心跳失律。末句 you’ve regretted not going with him 用一个不加缓冲的直接判断把她的二十年重新命名。
 
 **读者视角提示**：这是全书对 Emily 心防最精确的一次外部诊断，而诊断者是她最不可能怀疑的人——因为她从没说过，她只是没否认。
 
