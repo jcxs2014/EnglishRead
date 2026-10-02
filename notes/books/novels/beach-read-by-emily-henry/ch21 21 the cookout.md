@@ -10,8 +10,8 @@ source_text: "text/ch21 21 the cookout.txt"
 
 - **一句话概括**：接吻在地下室变成一场匆忙的、被打断的性事，中途因他没带保险套而两人跑回他屋里继续；结束后他接了一通电话就抽身，她带着宿醉般的余温去赴 Pete 与 Maggie 的独立日烧烤，在那场热闹里被一句「我要去洗手间」当场拒绝，转头就收到他关于八月二日书店活动的邮件。
 - **情感弧线位置**：**转折（本卷最重的一次下坠）**——本章前三分之一是全书**生理层面的最高点**（`you're like the sun`／`Before that goddamn frat party`），后半则**连续三次被拒**（神秘电话、取消同行、洗手间提议落空），情绪落差大到作者用了一个逗号都没加的短句收尾（`it was Gus I wanted. Only Gus. Exactly Gus.`）。
-- **Tropes 兑现/反转**：**强制同居式亲近的反转**（ch17 那句 `This seems like a dangerous environment for someone your size` 在本章被身体兑现）；**Secret Baby 反向落空**（`I knew I was not the Magical One who could fix it all just by Being Me` 是对「被选中者拯救他」这一套的**主动放弃**）；**家族晚餐的和解仪式**（biscuit 局的狗、labradorite 石头、gossip 阿姨群，被用作喜剧背景板与压力测试）。
-- **人物弧线**：January 从「被承认的恋人」走到「主动声明**我就是想要他，不是因为我以为我配得上他**」——本章最后一段是她**唯一一次在没有任何外部承诺的情况下自己选定**；Gus 从「昨晚说了想要你」走到「今天用一连串的疏远把昨晚收回」，动机在本章未交代（留到 ch22 才揭晓）。
+- **Tropes 兑现/反转**：**强制同居式亲近的反转**（ch17 那句 `This seems like a dangerous environment for someone your size` 在本章被身体兑现）；**Secret Baby 反向落空**（`I knew I was not the Magical One who could fix it all just by Being Me` 是对「被选中者拯救他」这一套的**主动放弃**）；**家族晚餐的和解仪式**（**两只 Labradors**、labradorite 石头、阿姨群，被用作喜剧背景板与压力测试）。
+- **人物弧线**：January 从「被承认的恋人」走到「主动声明**我就是想要他，不是因为我以为我配得上他**」——本章最后一段是她**唯一一次在没有任何外部承诺的情况下自己选定**；Gus 从「**几小时前**说了想要你」走到「**几小时后**用一连串的疏远把它收回」，动机在本章未交代（留到 ch22 才揭晓）。
 - **叙事手法**：**场景切换 + 时间跳跃**（地下室 → 他家客厅 → 次日车里 → 烧烤派对）；**动作复现**（`I have to pee` 这个梗源自 ch06，本章派对段落 `to set a timer to drag him out of the pool, to keep him from peeing in it`，是本卷少见的**自嘲式伏笔回收**）；**结尾用清单式内心独白**（`I knew…` 四连）替代任何外部动作收场。
 
 ## 精读
@@ -42,7 +42,7 @@ source_text: "text/ch21 21 the cookout.txt"
 **中文理解：**那又怎么样，万一他就是性事刚完就接了个神秘电话、把我赶出去呢？
 **关键词：**So what if / right after sex / a mysterious call
 **为什么这样写：****反事实问句的三段式**：`So what if he was kicking me out`（万一他把我赶出去）`right after sex`（性事之后）`to take a mysterious call`（去接一个神秘电话）——**用连缀的假设**把一个念头写成一条完整的因果链。`So what if`（那又怎么样）本身又是一个防御性的**挑衅**，是她在堵住自己的恐惧。
-**读者视角提示：**这个 `what if` 后面立刻跟着 `This was fine. It had to be. I had to be fine.`（这没事的。必须没事。我必须没事。）——**同一个句子重复三次**，但每一次都比上一次更短更硬，这是她在自我施压的语法痕迹。
+**读者视角提示：**这个 `what if` 后面立刻跟着 `This was fine. It had to be. I had to be fine.`（这没事的。必须没事。我必须没事。）——**三句独立成段、语气逐句加重**（`It had to be` 从无主语转回第一人称的 `I had to be fine`），这是她在自我施压的语法痕迹。
 
 > **原句 5:** “Hey, do you know what kind of stone this path is made of?”
 
@@ -56,7 +56,7 @@ source_text: "text/ch21 21 the cookout.txt"
 **中文理解：**他看起来不像换了一个人。他看起来更放松、更笃定，就好像一直以来我只见到过他的影子，如今才第一次和他本人面对面。
 **关键词：**more at ease, more sure / face-to-face with his shadow
 **为什么这样写：****两个否定与两个肯定的对照**：`He didn’t look like a different person`（他不像换了一个人）与 `He looked more at ease, more sure`（他看起来更放松、更笃定）——作者先否定了「他变了」这个**最容易被期待的结论**，再给出真正的变化：**他一直是这样，只是她以前没看过**。`face-to-face with his shadow`（面对面撞上他的影子）用**影子**这个他处可见的形象，定义她过去几个月所见的那个版本。
-**读者视角提示：**这个判断出现在派对**中段**（她与 Maggie 聊完石头之后），与本卷另一处的「before he puts on his face」（他把脸戴上之前）属于同一观察轴：**她两次看见没上妆的 Gus，两次的判断都是他更真。**
+**读者视角提示：**这个判断出现在她与 Gus 走石径那段对话之后、**在 Maggie 讲 labradorite 之前**，与本卷另一处的「before he puts on his face」（他把脸戴上之前）属于同一观察轴：**她两次看见没上妆的 Gus，两次的判断都是他更真。**
 
 > **原句 7:** “Gus,” I said. “Is everything okay?”
 

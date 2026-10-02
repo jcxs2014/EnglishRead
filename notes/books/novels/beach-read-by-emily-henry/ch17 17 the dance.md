@@ -8,8 +8,8 @@ source_text: "text/ch17 17 the dance.txt"
 
 ## 本章导航
 
-- **一句话概括**：两人把「研究之夜」搬到了镇上的牛仔舞厅，在齐舞里从身体接触走到言语冲突；她因他一句「敬你的 happy endings」而中途逃走，在停车场把「你结过婚」摊开，他终于说出前妻在他婚礼当天跟伴郎走了，并承认自己从没被谁选过。
-- **情感弧线位置**：**转折**——本章是全书关系线上**最大的一次前进**（他首次交代婚姻），也是**最大的一次后退**（他随即用「不写你的名字」把承诺全部收回）；两条线在同一章内先后发生，读者会短暂以为前者已经兑现。
+- **一句话概括**：两人把「研究之夜」搬到了镇上的牛仔舞厅，在齐舞里从身体接触走到言语冲突；她因他一句「敬你的 happy endings」而中途逃走，在停车场把「你结过婚」摊开，他终于说出前妻在他婚礼当天跟伴郎走了；而「他从没被谁选过」是**她**随后得出的推论。
+- **情感弧线位置**：**转折**——本章是全书关系线上**最大的一次前进**（他首次交代婚姻），也是**最大的一次后退**（他随即避开了正面回应，把话题转开）；两条线在同一章内先后发生，读者会短暂以为前者已经兑现。
 - **Tropes 兑现/反转**：**rom-com 撞嘴炮**（「I guess I survived Meg Ryan.」「I think she’d rather have your insurance card」「Or a good police sketch」「Or a crowbar」三轮接梗）；**假追妻火葬场的前置条件兑现**（他的火葬场由她当场指出，他当场否认）；** 敌对转恋人式反转**（`Your last will and testament, January.` 用遗嘱调侃两人会一起进坟墓）。
 - **人物弧线**：January 从「被撩就乱」走到「知道自己要什么、并当场索要」（本章她以吵架形式说出同一诉求，原句见 ch22：`Just tell me what you want for once.`）；Gus 从「用风流挡回去」走到「把最难看的事实交出来」，代价是他随即用 `I don't just sit through hours of conversations with you silently judging you` 把她推回去。
 - **叙事手法**：**场景切换**（舞厅 → 停车场）配合**节奏骤降**（舞厅是高密度喜剧，停车场是低密度长对话）；**一次间接引语的高潮**（`No one had chosen Gus.` 是她的内心总结，而它紧跟在他的长段自白之后）；**结尾用一个单词收束**（`It said only Ow.`）。
@@ -41,7 +41,7 @@ source_text: "text/ch17 17 the dance.txt"
 
 **中文理解：**我一直都相信我的父母，从没察觉我和 Jacques 之间那些没被说出口的部分，而现在我开始对一个人产生情感上的依恋，而那个人已经竭尽全力劝阻我。
 **关键词：**never sensed the missing pieces / emotionally attached / everything he could to convince me not to
-**为什么这样写：**三个分句用**同一个完成时框架**（`I’d always / never sensed / now I’d started`）串成一条**时间轴**，而前两分句都在说**过去的无知**：`never sensed the missing pieces`（从未察觉那些缺失的部分）是**双重否定**，语义上等于「一直都察觉到，只是没往那儿想」。末句的 `done everything he could to convince me not to`（竭尽全力劝阻）把她此刻的处境写成**他布置的**。
+**为什么这样写：**三个分句用**同一组时间框架**（两个完成时 `I’d always / now I’d started` ＋ 一个一般过去时 `never sensed`）串成一条**时间轴**，而前两分句都在说**过去的无知**：`never sensed the missing pieces`（从未察觉那些缺失的部分）是否定式，语义就是**从未察觉**——这正是她上一段关系的无知。末句的 `done everything he could to convince me not to`（竭尽全力劝阻）把她此刻的处境写成**他布置的**。
 **读者视角提示：**这里的 `missing pieces`（缺失的部分）指的是她与 Jacques 之间的空白——她在本章此处用「信息缺口」而不是「感情不好」来解释上一段关系。
 
 > **原句 5:** I’m not mad at you. We’re not even close enough for that. I’m just your casual acquaintance. It’s not like we’re friends.
@@ -63,7 +63,7 @@ source_text: "text/ch17 17 the dance.txt"
 **中文理解：**「她本该选你的。」
 **关键词：**She should have picked you
 **为什么这样写：**`She should have picked you`（她本该选你）用的是**过去情态动词**（`should have`）——本可以做而没做的事。这是一个**追认**：她无法改写离婚，但可以替对方补上那句选择。紧接的后文里她自己指出这句话**指向不明**（`even if I wasn’t sure exactly which she I was talking about`），这个自我修正让追认从控诉变成**两个人共担**。
-**读者视角提示：**这是本章的**情感落点**：整场的争点是「你为什么不告诉我」，而她给出的第一句和解不是道歉，是**替他前任认错**——错位得厉害，而这正是她表达方式的一部分。
+**读者视角提示：**这是本章的**情感落点**：整场的争点是「你为什么不告诉我」，而她**先道了歉**，然后才说 `She should have picked you`——至于这个 `she` 指谁，原文当场留了歧义，而她没有替它收口。
 
 > **原句 8:** Not believing in something doesn’t stop you from wanting it. If you’re not careful.
 

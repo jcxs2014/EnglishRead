@@ -8,27 +8,27 @@ source_text: "text/ch20 20 the basement.txt"
 
 ## 本章导航
 
-- **一句话概括**：两人头一回通宵看片（从《睡美人》一路滑到《A Streetcar Named Desire》再到 Mariah Carey 的《Glitter》），她在清晨的厨房里意识到这房子开始「像自己的了」；在 Gus 书房翻到他的高中年鉴，看见那张未笑的毕业照和他母亲去世后的疤痕；下午两人在地下室第一次接吻，而她连一件 Potato salad 都买不起。
+- **一句话概括**：两人头一回通宵看片（从《While You Were Sleeping》一路滑到《A Streetcar Named Desire》再到 Mariah Carey 的《Glitter》），她在清晨的厨房里意识到这房子开始「像自己的了」；在 Gus 书房翻到他的高中年鉴，看见那张未笑的毕业照和他母亲去世后的疤痕；下午两人在地下室第一次接吻，而她连一件 Potato salad 都买不起。
 - **情感弧线位置**：**升温**——本章是两人**接吻**的发生地，也是「非身体理由」与「身体理由」正面撞车的地方：她想留下，他问一句「你确定要看到这个？」就被她以赌约的名义接管（`if you're going, I'm going too. That's the deal.`）。
-- **Tropes 兑现/反转**：** Dating but Not Friends 反转**（ch17 她亲口否认「我们不是朋友」，本章两人在同一张沙发上睡着、一起过夜）；**护送式陪伴 反转**（`Thanks be to Jack Reacher` 变成她的回应 `Amen.`——上一章他的祈祷词被她认领）；**慢热型「朋友边界」游戏**（`how far can we go without admitting we've gone?`）。
-- **人物弧线**：January 从「把房子当行李」走到「这房子开始像我的」（`this house had started to feel like my own`）——她对**物**承认了所有权，而非对人；Gus 从「守门的人」走到「把自己家门锁留着」（`The door was unlocked.`）并说出 `if you're going, I'm going too` 的反面——`You don't have to go through all this.`
-- **叙事手法**：**清单式过场**（电影片单以越来越荒诞的顺序排列，本身就是关系升温的刻度）；**道具特写**（年鉴照片、灯泡、玻璃砖窗）；**场景下沉**（从明亮的书房到没有灯的地下室，用空间明暗对应两人关系的进退）。
+- **Tropes 兑现/反转**：** Dating but Not Friends 反转**（ch17 她亲口否认「我们不是朋友」，本章两人在同一张沙发上睡着、一起过夜）；**护送式陪伴 反转**（`Thanks be to Jack Reacher` 变成她的回应 `Amen.`——同一章里他把祈祷词说出口、她用同一个词认领）；**慢热型「朋友边界」游戏**（`how far can we go without admitting we've gone?`）。
+- **人物弧线**：January 从「把自己那栋房子当行李」走到「**他这栋**房子开始像我的」（`this house had started to feel like my own`）——她对**物**承认了所有权，而非对人；Gus 从「守门的人」走到「**被她打开的地下室门先一步破防**」（`The door was unlocked.`）并说出 `if you're going, I'm going too` 的反面——`You don't have to go through all this.`
+- **叙事手法**：**清单式过场**（电影片单以越来越荒诞的顺序排列，本身就是关系升温的刻度）；**道具特写**（年鉴照片、灯泡、玻璃砖窗）；**场景下沉**（从书房到**另一栋房子**（她父亲那套待售房）里没有灯的地下室，用空间明暗对应两人关系的进退）。
 
 ## 精读
 
 > **原句 1:** That was how we’d ended up watching, or talking through, While You Were Sleeping, A Streetcar Named Desire, Pirates of the Caribbean 3 (as punishment for making me watch A Streetcar Named Desire), and Mariah Carey’s Glitter (as we descended further into madness).
 
-**中文理解：**我们最后是这样看了——或者说，这样聊过去了：《睡美人》《欲望号街车》《加勒比海盗3》（作为罚我看他《欲望号街车》的代价），还有 Mariah Carey 的《星光闪耀》（随着我们进一步陷入疯狂）。
+**中文理解：**我们最后是这样看了——或者说，这样聊过去了：《While You Were Sleeping》《欲望号街车》《加勒比海盗3》（作为罚我看他《欲望号街车》的代价），还有 Mariah Carey 的《星光闪耀》（随着我们进一步陷入疯狂）。
 **关键词：**talking through / as punishment / descended further into madness
 **为什么这样写：****括号即注释**：`as punishment for making me watch …`（作为罚我看《欲望号街车》的代价）把一部经典戏剧降格为**惩罚**，而 `as we descended further into madness`（随着我们进一步陷入疯狂）用一个下坠的动词收尾。四部片子的排列是一条**品味下滑曲线**——作者用选片顺序代替心理描写。
 **读者视角提示：**`talking through`（一边看一边聊过）这个说法暗示他们其实**没怎么看**；注意这是本章里她把「共处一整夜」写成喜剧素材的那一处。
 
 > **原句 2:** Somewhere in the last week or so, this house had started to feel like my own.
 
-**中文理解：**在某个地方——就在最近这一周左右——这栋房子开始让我觉得像是我自己的了。
+**中文理解：**最近一周左右的某个时候——这栋房子开始让我觉得像是我自己的了。
 **关键词：**Somewhere in the last week or so / had started to feel like / my own
-**为什么这样写：****时间被模糊化**：`Somewhere in the last week or so`（在这最近一周左右的某个地方）——**一个空间性的介词被用来标记时间**，这是叙述者语言里反复出现的习惯。`had started to feel like`（开始觉得像是）用的是**进行体的回忆**，说明这个转变**不可指认到某一天**——她只知道它发生了。
-**读者视角提示：**对照 ch16 结尾她对同一栋房子的说法：`my house wasn’t a part of me. It wasn’t even really mine—it was just baggage.`（我那房子不是我的一部分，甚至不算我的——它只是行李。）**同一栋房子，两章之内的两次定义，一句是行李，一句是「我的」**。
+**为什么这样写：****时间被模糊化**：`Somewhere in the last week or so`（最近一周左右的某个时候）——**她说不清这个转变是从哪一天开始的**。`had started to feel like`（开始觉得像是）用的是**进行体的回忆**，说明这个转变**不可指认到某一天**——她只知道它发生了。
+**读者视角提示：**对照 ch16 结尾她对**自己那栋**房子的说法：`my house wasn’t a part of me. It wasn’t even really mine—it was just baggage.`（我那房子不是我的一部分，甚至不算我的——它只是行李。）**两栋不同的房子，两章之内的两次定义：她自己的那栋是行李，Gus 的这栋开始像「我的」**。
 
 > **原句 3:** “I’m choosing to take that as a compliment.”
 
@@ -56,7 +56,7 @@ source_text: "text/ch20 20 the basement.txt"
 **中文理解：**你不必经历这些。你不必经历其中任何一部分，如果你不想的话。
 **关键词：**you don’t have to go through / if you don’t want to
 **为什么这样写：****同一个句型的紧邻重复**（`You don’t have to go through …` ×2），第二句用 `any of it`（其中任何一部分）把范围从「这些」扩到「全部」，最后用 `if you don't want to`（如果你不想）把**选择权交还给她**。`go through`（经历、熬过）在英语里本身就带**承受**的分量。
-**读者视角提示：**这是他在地下室开口说的第一句话，时机是她刚跟他说了破产、卖不掉的家具、和保险金纵火的想法之后——他在回应**她的处境**，不是自己的。
+**读者视角提示：**这是他在地下室说的**第四句**（前面还有 `The door was unlocked.`、`Sorry.`、`Was that ever on the table?`），针对的是她刚下到没开灯的地下室找备用灯泡；**她谈破产与保险金纵火的那句在这之后**（见下一块）。
 
 > **原句 7:** Everything must go. It’s a fire sale, of sorts. In that this is my alternative to lighting the house on fire and trying to score the insurance money.
 
@@ -70,7 +70,7 @@ source_text: "text/ch20 20 the basement.txt"
 **中文理解：**他又吻了我一次，更深，像我们急着要去探到彼此的最深处（`the depths`）。
 **关键词：**even deeper / desperate to / plumb the depths
 **为什么这样写：**`plumb`（用铅锤测深）本是**测量深度**的动词，作者把它直接用在 `the depths of each other`（彼此的深处）上——把接吻写成一次**勘探作业**。`desperate to`（急切地要）把生理渴望写成**一种必须完成的任务**，而 `even deeper`（更深）承接前一句的 `so fierce and hot and slow`（如此凶猛炽热而缓慢）。
-**读者视角提示：**注意这里的速度与前文的对比：他们在书房是**慢的**（`a slow, sensual kiss`），在地下室是**急的**——**空间决定了节奏**。
+**读者视角提示：**注意速度：这一吻的原文是 `so fierce and hot and slow`；而 `a slow, sensual kiss` 要到 ch21 在他家书架旁才出现。
 
 ## 本章词汇
 

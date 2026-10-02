@@ -8,11 +8,11 @@ source_text: "text/ch19 19 the beach.txt"
 
 ## 本章导航
 
-- **一句话概括**：周五两人再去 Dave 家做第二轮访谈，这次面对的是他母亲 Julie-Ann，她替 New Eden 辩护说「人只要撑住对的东西，做错事也可能有个对的结局」；这句话击穿了 January 对母亲的所有怨恨，她给母亲发去一条迟到的留言；周六两人走去湖滩，Gus 讲出父亲在他母亲死后如何靠他维持活着，她拒绝把这叫同情，两人相互确认「我在乎你」。
-- **情感弧线位置**：**高潮**——这是全书感情线的**双向摊牌章**：他把童年创伤交给她（`I am angry and messed up`），她把「我不要你的同情，只要你」说出口（`I don't need you to tell me you care about me`），双方在同一段对话里互相命名对方（黑洞／亮光），并在此达成本章结尾的相互确认。
+- **一句话概括**：周五两人再去 Dave 家做第二轮访谈，这次面对的是他母亲 Julie-Ann，她替 New Eden 辩护说「人只要撑住对的东西，做错事也可能有个对的结局」；这句话击穿了 January 对母亲的所有怨恨，她给母亲发去一条迟到的留言；周六两人走去湖滩，Gus 讲出父亲在他母亲死后如何靠他维持活着，她拒绝把这叫同情、只叫在乎，而他拒绝被她当成需要修补的东西，两人相互确认「我在乎你」。
+- **情感弧线位置**：**高潮**——这是全书感情线的**双向摊牌章**：他把童年创伤交给她（`I am angry and messed up`），她把「我不需要你**开口说**你在乎我」说出口（`I don't need you to tell me you care about me`），他在本章重新说了一次 `the bright light`（ch18 那对「黑洞／亮光」的回响），并在此达成本章末尾的相互确认。
 - **Tropes 兑现/反转**：**创伤照护 Bond 反转**（本章最大的反转是他对她创伤的**拒绝被同情**，与 ch16–ch18 逐步累积的「她愿意承接一切」正好相反）；**Foil 互补对照**（亮光／黑洞的比喻在此被两人**各自认领一半**）；**「美好结局」主题句的正面回收**（ch16 那句 `To feel known and understood` 的母题在此被正面回收）。
 - **人物弧线**：January 从「用 happy ending 覆盖真相」走到**主动对母亲说出不完美的真相**（`I hope you can`），她的 fatal flaw 第一次**反向运作**；Gus 从「用风流挡回去」走到**把自己最不具备的东西命名为需求**（`I don't want you to think about me like that` 的反面是他承认自己是那个东西）。
-- **叙事手法**：**场景切换**（Dave 家客厅 → 回程的车 → 湖滩）；**一次长段插入的闪回**（两人在湖滩上互述父母，占据本章后半）；**意象回收**（Dreamsicles／tangerine 光的比喻与 ch16 的萤火虫遥相呼应）；**结尾用一句近乎耳语的台词收束**。
+- **叙事手法**：**场景切换**（Dave 家客厅 → 回程的车 → 湖滩）；**一次长段插入的闪回**（**Gus** 在湖滩上讲述父母，占据本章后半；她父母的那段回忆放在周五 Dave 家的访谈现场）；**意象回收**（Dreamsicles／tangerine 光的比喻与 ch16 的萤火虫遥相呼应）；**临近结尾用一句近乎耳语的台词收束**。
 
 ## 精读
 
@@ -35,13 +35,13 @@ source_text: "text/ch19 19 the beach.txt"
 **中文理解：**她坚称自己当时以为一切都结束了。
 **关键词：**her insistence / she’d thought it was over
 **为什么这样写：**一个**名词化的短语**（`her insistence that…`）出现在回忆里，而 `insistence`（坚持）这个词预设了**对方不承认**——她「坚称」，言下之意是另一个人（January）不认。`thought`（以为）用过去时点出**这是一个想法而不是事实**，这正是两人争端的全部内容。
-**读者视角提示：**这与 ch16 的门廊家具邮件是同一件事的两端：**January 想知道 Sonya 是谁，Sonya 拒绝谈**。本章是她第一次意识到母亲那句「我不想谈」的代价。
+**读者视角提示：**这与 ch16 那封**只谈门廊家具**的邮件是同一件事的两端：她想往下问，Sonya 拒绝谈。本章是她意识到母亲那句「我不想谈」的代价。
 
 > **原句 4:** People clinging to whatever steadfast thing they could find?
 
 **中文理解：**人们各自死死抓住他们能找到的那个最牢固的东西？
 **关键词：**clinging to / whatever / steadfast
-**为什么这样写：****内心独白式的反问句**（原文无引号，是叙述者自问）。`whatever`（无论什么）把这一群人的选择**全部抹平为同一种动作**，而 `steadfast`（牢固的、坚定的）是一个带**道德重量**的形容词——她选择「最像个价值的东西」来描述父亲当年抓住的那个东西。`clinging to`（死死抓住）的手势与她母亲的 `clinging` 是同一个词。
+**为什么这样写：****内心独白式的反问句**（原文无引号，是叙述者自问）。`whatever`（无论什么）把这一群人的选择**全部抹平为同一种动作**，而 `steadfast`（牢固的、坚定的）是一个带**道德重量**的形容词——她选择「最像个价值的东西」来描述父亲当年抓住的那个东西。`clinging to`（死死抓住）与本章 Julie-Ann 讲**她丈夫**时那句 `clinging` 是同一个词。
 **读者视角提示：**下一句是 `Yes. Yes, that made sense. It made perfect sense.`（是的，是的，这说得通。这太说得通了。）——**重复的 Yes 是一种被迫承认**，注意 `It made perfect sense` 里的 `perfect`（完美）与 ch01 那句「我的故事是完美的」用的是同一个词。
 
 > **原句 5:** “Making you keep him alive was the only way left to manipulate you,” I said.
@@ -69,7 +69,7 @@ source_text: "text/ch19 19 the beach.txt"
 
 **中文理解：**在乎你。
 **关键词：**Care about you
-**为什么这样写：**本章**收尾句**，只有两个词。原文是 `It was almost a whisper, a tender, rugged thing like Gus himself.`（那几乎是一句耳语，一个温柔的、粗粝的东西，像 Gus 本人。）——`a tender, rugged thing`（温柔而粗粝的东西）用一个**矛盾修饰语**收束整章，而 `like Gus himself`（像他本人）把这份温柔直接等同于他这个人。
+**为什么这样写：**本章**末尾附近的收束句**，只有两个词。原文是 `It was almost a whisper, a tender, rugged thing like Gus himself.`（那几乎是一句耳语，一个温柔的、粗粝的东西，像 Gus 本人。）——`a tender, rugged thing`（温柔而粗粝的东西）用一个**矛盾修饰语**收束整章，而 `like Gus himself`（像他本人）把这份温柔直接等同于他这个人。
 **读者视角提示：**注意本章的 `Care about you` 与 ch16 结尾 `I was done with secrets and lies` 的对照：**他在本章兑现了 ch16 那句宣告的**可能性（终于说出一句没有藏起来的话），而她本章发给母亲的那条短信（`I love you. Even if you can never talk about him again, I’ll always love you, Mom. But I hope you can.`）则是**她自己**的兑现。
 
 ## 本章词汇

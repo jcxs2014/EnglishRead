@@ -8,7 +8,7 @@ source_text: "text/ch18 18 the ex.txt"
 
 ## 本章导航
 
-- **一句话概括**：宿醉后的周日与短信里重新建立日常，Gus 主动说出莫比乌斯环纹身的前妻叫 Naomi，并解释那枚纹身为何被涂成一团黑；他随即问起她的前任 Jacques，她在此把「我看着他睡觉却什么都感觉不到」说出口，最后在他怀里哭到脱力，两人几乎接吻时被门铃打断。
+- **一句话概括**：宿醉后的周日与短信里重新建立日常，Gus 主动说出莫比乌斯环纹身的前妻叫 Naomi，并说明那枚纹身的来历与含义（**被涂成一团黑这件事本章始终没有交代**）；他随即问起她的前任 Jacques，她在此把「我看着他睡觉却什么都感觉不到」说出口，最后在他怀里哭到脱力，两人几乎接吻时被门铃打断。
 - **情感弧线位置**：**高潮前的铺垫**——关系在本章从「研究搭档」跨过一条实质界线：**他先交出一条真话（Naomi），她才交出一条真话（Jacques）**；但身体层面的推进（跨坐在他腿上、几乎接吻）被外力打断，情绪结算被推迟到后文。
 - **Tropes 兑现/反转**：**The Mentor 泄密式独白**（Möbius 环「走一圈会回到正上方另一面」被他解成一句关于两人关系的隐喻，随后他自己把这个隐喻作废）；**沉思型独白**（`Here’s someone I could never break. She didn’t need me.` 是全书最直白的一次示弱）；**丈母娘/前任审判 trope 的内部化**——审判者不是外人，是她自己。
 - **人物弧线**：January 从「以为自己是对方高攀不起的对象」走到「承认自己从没为对方心动过」——即从 `we were costars in a movie` 走到 `I realized I’d never thought, Jacques is so perfectly my favorite person`；Gus 从「守约式的坦白」走到**主动定义自己**（`I’ve never trusted myself with anyone … soft`）。
@@ -23,9 +23,9 @@ source_text: "text/ch18 18 the ex.txt"
 **为什么这样写：**`hung in the air`（悬在空中）是一个**图像静止但声音仍在**的描述，而 `the afterimage of a lightning strike`（闪电的残影）把这个静止画面接上一个**极短、极亮的物理事件**。闪电在这里承担比喻工作：先劈一下，留下一个比闪电本身更持久的印子。
 **读者视角提示：**作者在句子内部给出了一个**时间对比**：闪电只闪一瞬，名字却「悬着」——这正是她对 Naomi 这个名字的第一反应。
 
-> **原句 2:** If you start at one point on a Möbius strip and you follow it straight around, when you’ve done the full loop, you don’t end up back where you started. You end up right above it, but on the other side of the surface.
+> **原句 2:** If you start at one point on a Möbius strip and you follow it straight around, when you’ve done the full loop, you don’t end up back where you started. You end up right above it, but on the other side of the surface. And if you keep following it around for a second time, you’ll finally end up where you started.
 
-**中文理解：**如果你从莫比乌斯环上的某一点出发，沿着它直走一圈，走完整个环之后，你不会回到出发点。你会正好落在它的正上方，但已经在环的另一面。
+**中文理解：**如果你从莫比乌斯环上的某一点出发，沿着它直走一圈，走完整个环之后，你不会回到出发点。你会正好落在它的正上方，但已经在环的另一面。再沿着它走第二圈，你才终于回到出发点。
 **关键词：**follow it straight around / You don’t end up back where you started / on the other side of the surface
 **为什么这样写：****同一个句型的三段递进**（`you don’t end up …` → `You end up …` → 第二人称转 `And if you keep following …`），把一个拓扑学事实写成了**指示方向的路线说明**。关键是 `on the other side of the surface`（在环的另一面）——**「表面」二字让「上面／下面」变成了「里面／外面」**。
 **读者视角提示：**这是全章的结构性隐喻：她问的是纹身含义，他给的是几何；下一段他才把它接到两人关系上。
@@ -42,7 +42,7 @@ source_text: "text/ch18 18 the ex.txt"
 **中文理解：**他不怕事情变难看，不怕看见一个人最不堪的样子，也不会忙着把自己扑倒来劝我别有自己的感受。他只是**见证**了那些感受。
 **关键词：**get ugly / fall over himself / He just witnessed them
 **为什么这样写：****三个不定式的排比**（`He wasn’t afraid for … , to … , and he didn’t …`）先立三项否定，再用一个**极短句**（`He just witnessed them.`）收束。`witness`（见证）这个词把「安慰」剔除了：他做的事**不是让人好起来，是让人不必独自在场**。而 `fall over himself`（自己先扑倒）精确指出了她父亲式的那种反应——急着把她从自己的情绪里拽出来。
-**读者视角提示：**`them` 指前面列出的三项（把事情变难看／看到最弱的样子／不被劝阻），`get out of my body after years of imprisonment`（在多年囚禁后终于从我身体里出来）才是这项「见证」的效果。
+**读者视角提示：**`them` 指**她自己的感受**（`my own feelings`），所以「见证」的对象是情绪，而不是那三件事，`get out of my body after years of imprisonment`（在多年囚禁后终于从我身体里出来）才是这项「见证」的效果。
 
 > **原句 5:** He was a leading man. You know?
 
@@ -63,13 +63,13 @@ source_text: "text/ch18 18 the ex.txt"
 **中文理解：**我想给他一样秘密的东西，就像他刚才谈起 Naomi 时给我的那样。
 **关键词：**something secret / like what he’d given me
 **为什么这样写：****交换的语法**：`something secret`（一样秘密的东西）与 `what he’d given me`（他给我的东西）构成**镜像对仗**——他用一条真话换她一条真话，这个**对等交换**是本章的机制本身。`like`（像）把她的行动挂在刚发生的那一幕上，让读者看见**模仿的即时性**。
-**读者视角提示：**紧接着她给出的「秘密」是生日那天在 New Orleans 的一夜，而内容是**她如何想逃离**（`I was texting Shadi about how badly I wished we could be together`）——她交出的第一条真话，是关于**另一个女人的**。
+**读者视角提示：**紧接着她给出的「秘密」是生日那天在 New Orleans 的一夜，而内容是**她整晚在给 Shadi 发短信，说自己多想和他在一起**（`I was texting Shadi about how badly I wished we could be together`）——她交出的第一条真话，关乎的是**她自己想要什么**。
 
 > **原句 8:** The doorbell rang and all the motion, the momentum, crashed into a wall of reality.
 
 **中文理解：**门铃响了，于是所有的动作、所有的势头，一起撞上了一堵现实的墙。
 **关键词：**The doorbell rang / all the motion, the momentum / crashed into a wall of reality
-**为什么这样写：****三项 `all the …` 的排比**（`all the motion`／`the momentum`，中英夹杂地把「动作」与「势头」并置）之后，`crashed into a wall of reality`（撞上现实的墙）把**外部事件写成物理冲击**。`a wall`（一堵墙）与 `reality`（现实）之间用 `of` 连接，让现实**具备建筑属性**。
+**为什么这样写：****两项 `all the …` 的并置**（`all the motion`／`the momentum`，把「动作」与「势头」并在一起）之后，`crashed into a wall of reality`（撞上现实的墙）把**外部事件写成物理冲击**。`a wall`（一堵墙）与 `reality`（现实）之间用 `of` 连接，让现实**具备建筑属性**。
 **读者视角提示：**这是本章结构的支点：外部打断把她从**身体时间**推回**社会时间**（有客人、有外卖、有一整套要穿的衣服）。
 
 ## 本章词汇

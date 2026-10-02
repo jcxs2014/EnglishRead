@@ -8,10 +8,10 @@ source_text: "text/ch16 16 the porch furniture.txt"
 
 ## 本章导航
 
-- **一句话概括**：Gus 结束一周的消失回到工作台，两人用纸条继续往来；她把父亲留下的门廊家具拍照挂上 craigslist，转而给 Sonya 发去一封连署名都不肯留下的邮件；周五 Dave Schmidt 突然登门做四小时访谈，她踏进此前只从窗外窥看过的 Gus 的房子，也在这场访谈里第一次意识到他结过婚。
+- **一句话概括**：Gus 结束一周的消失回到工作台，两人用纸条继续往来；她把父亲留下的门廊家具拍照挂上 craigslist，转而给 Sonya 发去一封连署名都不肯留下的邮件；周五 Dave Schmidt 突然登门做四小时访谈，她踏进此前只从窗外窥看过的 Gus 的房子，也在这场访谈里**再度想起**他结过婚。
 - **情感弧线位置**：**升温**——赌约进度条继续往前（她写到约四分之一），但同一章里出现两次**信任的落差**（Gus 消失一周；她撞见「just a book」时才想起他已婚这件事）；全章落点是「结束秘密」的自愿宣告。
 - **Tropes 兑现/反转**：**rom-com 纸条传话**（MIA / NOTHING TO BE SORRY ABOUT / SORRY—TOO MUCH TO DO）——把幼儿园传纸条游戏变成两个成年人规避型的沟通方式；**soulmates 开放式追问反转**（「just a book」这句让她愣住，因为它是 Gus 自己的立论）；**遗留物作为情感载体**（门廊家具是父亲与 Sonya 的痕迹）。
-- **人物弧线**：January 从「用照片处理情绪」走到「用一封不署名的邮件处理情绪」——她能处理家具，却处理不了署名；Gus 则从「守边界的人」露出裂缝：他为她开了门（尽管是被 Dave 的登门逼的），并在她爆发时说出 Dave 母亲的选择。
+- **人物弧线**：January 从「用照片处理情绪」走到「用一封不署名的邮件处理情绪」——她能处理家具，却处理不了署名；Gus 则从「守边界的人」露出裂缝：他为她开了门（尽管是被 Dave 的登门逼的）；而讲出母亲当年如何独自把他带走的其实是 **Dave 本人**，Gus 全程只问了一句 `And you?`。
 - **叙事手法**：**第一人称 + 两段时间标记**（THURSDAY AT NOON / ON FRIDAY）；**长篇转述独白**（Dave 讲童年几乎占去全章一半，作者用引号内的第一人称让采访素材直接接管叙述者的声音）；**结尾的同句两次投放**（`It's good to see you` 说两遍，第二次是收束）。
 
 ## 精读
@@ -20,7 +20,7 @@ source_text: "text/ch16 16 the porch furniture.txt"
 
 **中文理解：**（全大写）周四中午，Gus 回到了他的厨房餐桌前，样子不再是「性感地凌乱」，而更像是被一辆尾门松脱的垃圾车从后面拖过一遍。
 **关键词：**THURSDAY AT NOON / dump truck / loose tailgate
-**为什么这样写：**全大写的 `THURSDAY AT NOON` 是本书的**时间戳章法**，把叙述锁进一个可验证的时刻。`sexily disheveled` 是**引号内的自造短语**——她上一章用这类词形容过他，这次把它降格成反讽：不是性感凌乱，是**被碾过**。`dump truck with a loose tailgate`（尾门松脱的垃圾车）精确到机械细节，而尾门松脱意味着它一路在掉东西——这是她写他这一周失联的方式。
+**为什么这样写：**全大写的 `THURSDAY AT NOON` 是本书的**时间戳章法**，把叙述锁进一个可验证的时刻。`sexily disheveled` 是**引号内的自造短语**，全书只此一次——她把它降格成反讽：不是性感凌乱，是**被碾过**。`dump truck with a loose tailgate`（尾门松脱的垃圾车）精确到机械细节，而尾门松脱意味着它一路在掉东西——这是她写他这一周失联的方式。
 **读者视角提示：**注意时态：`was back`（已经回来）说明他人已在此，但这一周去了哪里、做了什么，全章不答。
 
 > **原句 2:** I was so bad at this, so unprepared to find myself drawn to someone completely emotionally unavailable.
@@ -30,9 +30,9 @@ source_text: "text/ch16 16 the porch furniture.txt"
 **为什么这样写：**两个 `so` 开头构成分句，第二个 `so` 后接 `unprepared`（毫无准备的）——**「我准备不足」比「他不可得」更重**：她把「撞上这堵墙」重新叙述成「我没带地图」。`emotionally unavailable`（情感上不可得）是心理与亲密关系语域的固定说法，把整章的暧昧降格成一句临床描述。
 **读者视角提示：**这是她的 fatal flaw 在 ch16 以**自我评估的形式**出现在正文里，可与 ch01 开篇的 `I HAVE A FATAL flaw` 对照。
 
-> **原句 3:** At first I thought he’d gotten a new tattoo—a large black circle, solidly filled in
+> **原句 3:** At first I thought he’d gotten a new tattoo—a large black circle, solidly filled in—but then I realized it was exactly where his Möbius strip had been, only that had been blotted out entirely since I last spotted it.
 
-**中文理解：**一开始我以为他又新纹了一个纹身——一个实心填满的大黑圆。
+**中文理解：**一开始我以为他又新纹了一个纹身——一个实心填满的大黑圆——然后才意识到，那正是他莫比乌斯环纹身的原来位置，只不过那一块整个被涂掉了，自他上次看见之后就没变过。
 **关键词：**a new tattoo / solidly filled in / large black circle
 **为什么这样写：**`At first I thought … —but then I realized …` 是**误判—修正句式**，破折号里先放她**错误的视觉读数**。`solidly filled in`（实心填满）是技术性描述，她看出了填色工艺，说明她在**认真辨认他身体上的旧记号**。全章她对他的观察精度达到高点，而这个精度用在了「读错」上。
 **读者视角提示：**这个黑圆在本章只给形状、不给含义；它的来由要到后文才被解释，写这一章的分析时不要提前。
@@ -131,4 +131,4 @@ source_text: "text/ch16 16 the porch furniture.txt"
 
 ## 一句话总结
 
-本章把「写一个好结局」这门手艺推进到书里（写到约四分之一、开了十四个标签页），却又在同一个下午用一个四小时的采访证明它救不了任何人——而 January 同一天拿到两份证据：一份说明他做的事有意义，一份说明他藏着她不知道的过去。
+本章把「写一个好结局」这门手艺推进到书里（写到约四分之一、开了十四个标签页），却又在**隔天**用一个四小时的采访证明它救不了任何人——而 January 在那天下午同时拿到两份证据：一份说明他做的事有意义，一份说明他藏着她不知道的过去。
