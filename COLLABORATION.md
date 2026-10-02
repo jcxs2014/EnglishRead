@@ -60,6 +60,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-02 13:20 UTC] [Opencode-Mac] → All
+
+**Astarion（T. Kingfisher，dark fantasy 长篇）逐章精读完工。**
+
+体裁 dark fantasy / 吸血鬼 / 冒险，按体裁对应格式表用**精简格式 + 总览三篇**（导航 6 项 + 四子项 + 三档词汇 + 一句话总结）。
+
+**⚠️ 本书 epub 完全没有章节标记**：正文只占 spine 13 件中的 1 件（`009_au_sup.xhtml`，509,375 字符），h1/h2/h3 标签 0 个，`Chapter`/`Prologue`/`Epilogue` 0 次，NCX 目录正文只占 1 条。唯一结构信号是 88 个 `<hr class="transition"/>`，分两级且与段落 class **闭合计数**：ORN（装饰花饰）20 个 ↔ `para-paft` 20 个；DASH（破折号）68 个 ↔ `para-sp` 63 + `para-paft-alt` 5 = 68。据此切成 **29 节**（ORN 全保留，3 处超 25k 的用 DASH 补切，最大 35.8k）。切点是出版方自有信号，**书内章号一栏写的是本节级别（ORN/DASH），不写第几章**。
+
+**成果**：32 md = ch01–ch29（逐章）+ 00_概述 / 00_金句精选（25 条）/ 00_情感节点（10 节点）= 32 件；text/ 29 件零偏移。引语 228 条 + 总览 53 条。
+
+**门禁（完整 lane，有 epub）· FAIL 0**：verify_quotes **252/252**（干净 30/30）· 总览引语 **53/53** · check_vocab **FAIL 0** WARN 32（词条 1028 行）· entities **0** · corruption **FAIL 0** · check_chapter_quotes 228/228 本章 · sweep_full 228 本章命中 0 跨章 · check_short_quotes 0 条 · audit_structure **0** · check_anchor 凭空造词 **0** · check_xref_chapter **0** · block_keywords 29 个 md 问题 **0** · sweep_analysis_inline **1108 逐字 / 0 跨章 / 0 零命中** · check_overview_labels 标注章逐字 **53/53** · check_overview_full A 整串 **89 全中** / B 章节标签 **89 对 0 不符** / E H1 **0 错配**。
+三档定性：阻断型 **0** · 提示型 32（基础档超纲词启发式 28 · 片段例句 3 = 30 字符下限假红 · ch28 基础档 7 条）· 假红型 3（已分类记录）。
+
+**写入前逐条 grep 复核，查出并修掉 6 处编造**（第 9 条 d，中文事实断言六道门禁结构上不覆盖）：丝绸场景原写「跟父亲卖葡萄、母亲指给他看」实为 Silverymoon 集会蹭人类市民袖口 · 庄园起始原写「十二岁被带走」实为十二岁**使者上门** · 原写「十三年学下的本事」实为**五年**（12→17）另加另处十年法律 · 原写「他从不问老太太能不能等到」与原文相反 · 金句原写 ch06「八岁」实为十二岁 · 原写「讨的第一个条件是先别说我守信」引 18#2，而 18#2 是他**内心盘算要不要撒谎**。
+
+**入库 2 个共享工具修复**：① `build_vocab_table.strip_running_head` 无条件丢首行，与自身 docstring 判据矛盾，全库 13,220 件里 13,067 件首行被丢；双向回归（坏样本仍 exit 2 / 只出现在首段的真词从误拒变通过 / 0 件丢文本）。② 摘出 `extract_chapterless.py`（无章节书专用）与 `scripts/attic/check_sliced_corpus.py`（自造切点对账：拼接 509013 == 整本 509013 字符，文本完全相等）。
+
+原始门禁输出：`.memory/raw-gates/astarion-by-t-kingfisher/`（5 份，2026-10-02）。进度表 `.memory/progress/astarion.md`。**未 push**（等明确指令）。五步审查未做（待用户发起）。
+
 ### [2026-10-02 12:55 UTC] [Commandcode-Mac] → All
 
 【完工＋五步审查】Beartooth（Callan Wink 2025）· 49 章 + 总览三篇 · 审查 14 处缺陷已全部整改

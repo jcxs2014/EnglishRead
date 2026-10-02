@@ -298,7 +298,7 @@ def main():
     # 基线门禁刚放行就撞上同一个「假设文件已存在」的病灶，两处必须一起改）。
     text = open(path, encoding="utf-8").read() if os.path.exists(path) else ""
     ents = board_entries(text) if a.mode == "board" else _log_sections(text)
-    hit = [e for e in ents if a.book in e]
+    hit = _book_hit(ents, a.book)
 
     # 门禁 2：每书一条
     if hit and not (a.append or a.replace):
@@ -431,6 +431,31 @@ def main():
     return 0
 
 
+def _book_hit(sections, book):
+    """这一本书的归档节是哪一个——**标题行命中优先，其次才回落到整节子串**。
+
+    ⚠️ 2026-10-02 修（本次实测踩到）：原判据只有 `book in sec`（整节正文子串）。
+    后果：一节只要在正文里**提到过**另一本书的名字（路径、跨书同名清单…），
+    `--append` 就把那本书的内容追加进**别人的节**里。实测：发 Astarion 完工条时，
+    `## The Beasts We Bury` 正文里有一句「跨书同名 3 处 → Astarion「Rooftop
+    Henry」」，16 行完工明细被静默追加到别人的节尾，而脚本照报「已就地并入」。
+    `verify` 用同一判据统计，**写入与自查一起错** ⇒ 没有任何信号。
+    取证：全库 521 个归档节里 464 节的正文含「不在标题、却会被当书名」的串。
+
+    判据设计（消歧，不是收窄）：
+      ① 先只按 `^## ` **标题行**找；找到就用它。
+      ② 一个都没找到时**回落到旧的整节子串**——因为很多节的标题写成
+         「《The Green Road》（Anne Enright）精读完工」这类形态，slug 根本不在
+         标题里，纯收窄会让人 `--append` 重复建节（实测 272 处）。
+    ⇒ 行为变化仅限「标题行有命中」这一种情形：旧版取 `hit[0]`（文件里第一个
+    整节命中，可能是别人的节），新版只认标题行命中。
+    """
+    head_hit = [e for e in sections if book in e.split("\n", 1)[0]]
+    if head_hit:
+        return head_hit
+    return [e for e in sections if book in e]
+
+
 def _log_sections(text):
     """工作日志的「条目」＝ 一本书的当日归档节。
 
@@ -456,7 +481,7 @@ def _postcheck(new_text, path, book):
     daily 追加一律被写后自查拦下（当时 19 节里有 8 本命中 ≥2 节）。
     """
     ents = board_entries(new_text) if path == BOARD else _log_sections(new_text)
-    hit = [e for e in ents if book in e]
+    hit = _book_hit(ents, book)
     if not hit:
         print(f"❌ 写前自查失败：新文本里找不到「{book}」的条目——**未落盘**，文件保持原样。")
         raise SystemExit(2)
@@ -470,13 +495,13 @@ def verify(book, day):
     ⚠️ 不要用 `mine | grep 书名` 自查——mine 只列抬头，书名在正文里，恒返回 0。"""
     bt = open(BOARD, encoding="utf-8").read()
     ents = board_entries(bt)
-    bc = sum(1 for e in ents if book in e)
+    bc = len(_book_hit(ents, book))
     lp = f"{LOGDIR}/{day}.md"
     # 日志按**二级标题切节**统计（同 `_log_sections`）：子标题不算另开条目。
     # 2026-09-29 修：原先按 `^#{1,3} ` 切，一本书带 `###` 子标题就被算成多节，
     # 于是 `verify` 报「5 处」——数字虚高且与「每书一条」的语义无关。
     ltxt = open(lp, encoding="utf-8").read() if os.path.exists(lp) else ""
-    lc = sum(1 for e in _log_sections(ltxt) if book in e)
+    lc = len(_book_hit(_log_sections(ltxt), book))
     # ⚠️ 2026-09-30 修：作业跨日时（正文写在 09-29、审查在 09-30 发起），
     # 当日文件里本就没有该书节，verify 会以「日志 0 节 ❌ + 退出码 2」把**板已正确**
     # 的状态报成失败——退出码无法区分「板真错」与「书归档在别的日子」，
@@ -488,7 +513,7 @@ def verify(book, day):
             if os.path.basename(c) == f"{day}.md" or os.path.basename(c).startswith("_"):
                 continue
             t2 = open(c, encoding="utf-8").read()
-            n2 = sum(1 for e in _log_sections(t2) if book in e)
+            n2 = len(_book_hit(_log_sections(t2), book))
             if n2:
                 lc, alt = n2, os.path.basename(c)
                 break
