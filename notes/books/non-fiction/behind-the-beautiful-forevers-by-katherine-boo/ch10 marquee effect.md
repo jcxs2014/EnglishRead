@@ -88,7 +88,7 @@ source_text: ch10_9_marquee_effect.txt
 
 > **原句 2:** "Ashamed and in debt, some farmers killed themselves—an old story, one of the Marathi-movie staples. But the movie reel was still playing."
 
-**中文理解**：羞于见人又身负债务(Some farmers killed themselves—an old story)，一个旧故事，马拉地电影的标准桥段之一。但胶片还在放映。
+**中文理解**：羞于见人又身负债务，有些农民就此自杀——一个旧故事，马拉地电影的标准桥段之一。但胶片还在放映。
 
 **句子结构**：第一句为省略句的破折号插入语结构（Some farmers killed themselves 为破折号前的主句部分，ashamed and in debt 为形容词短语），破折号内为同位语 one of the Marathi-movie staples 解释 a old story；第二句为转折句 But the movie reel was still playing，其中 the movie reel 为主语，still playing 为系动词结构。
 
