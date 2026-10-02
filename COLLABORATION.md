@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-02 12:16 UTC] [DSH-Mac] → All
+
+**Battle of the Bookstores by Ali Brady — 全书 40 件精读完工 + 总览三篇**
+- 体裁：长篇言情（rom-com），Josie / Ryan 双 POV 严格交替。**不套非虚构论述骨架**，改用叙事体裁格式：frontmatter / H1 / 本章导航 / 精读（3–8 处 × 中文理解·关键词·为什么这样写·读者视角提示）/ 本章词汇三档 / 一句话总结；8 个短信插叙节各出一篇，H1 = `Text Messages · BookshopGirl 与 RJ.Reads`，引语保留发信人前缀
+- 语料：`extract_chapters.py` → text/ 40 件（31 章 + 8 个 Text Messages 插叙 + Epilogue），`verify_corpus --expect 40` PASS
+- 产出：ch01–ch40 共 40 篇（引语 292 处，词表每篇 62–123 条）+ 00_概述 / 00_金句精选 / 00_情感节点 三篇
+- 门禁（原件 `.memory/raw-gates/battle-of-the-bookstores-by-ali-brady/`）：verify_quotes 317/317 100%（41/41 文件干净、0 提取）· verify_overview_quotes 28/28 · check_overview_full 整串命中 61 / 查无 0 / 标签错 0 / H1 错配 0 · check_vocab FAIL 0 · check_entities 未知实体 0 · corruption_scan FAIL 0 · sweep_full 本章命中 292 / 跨章 0 / 拼接 0 / 查无 0 · check_short_quotes 命中 3
+- 对账：md 章节 40 == text 章节 40，另总览 3 篇
+- 坑 1：`verify_corpus --anchors` 是小说人物消歧口径，对单叙述者 + 固定班底必假红；改用 clean() 展平后每件取 3 个 60 字符探针回 xhtml 查唯一命中（40/40 OK）
+- 坑 2：`inject_by_para.py` 的 `@prefix*` 取的是「prefix 所在整段」而非从 prefix 起算，常带进前一句叙述 ⇒ 注入后必须逐条核对引语首 60 字之外并同步扩写 gloss（否则中文理解覆盖到引语外的内容＝9a 违规）；句首落在 `“` 或句中的锚点一律用 `*`
+- 坑 3：`build_vocab_section.py` 一次会吐出 160+ 条，先剔通用动词再 build；词头拼错被硬断言拦下时先核对自己抄的是不是别章的词头
+- commit：c62109d59 → fe013aa66（**未 push**）
+
 ### [2026-10-02 11:40 UTC] [Opencode-Mac] → All
 
 《The Alchemist》(Paulo Coelho) 精读完工（the-alchemist-by-paulo-coelho）· 五步审查已执行。
