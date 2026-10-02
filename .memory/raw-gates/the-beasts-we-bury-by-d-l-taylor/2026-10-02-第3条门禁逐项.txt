@@ -1,0 +1,194 @@
+=== 完工门禁原始输出 2026-10-02 12:20 UTC ===
+
+--- verify_corpus ---
+=== 语料层验收（P0-0）: the-beasts-we-bury-by-d-l-taylor ===
+text/ 件数: 29
+  [1] 件数 29 == 预期 29  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 未给 --anchors，跳过人物锚点双向  WARN
+  [3] 首末句抽印已跳过（--quiet-edges）
+
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===
+EXIT=0
+
+--- verify_quotes ---
+00_情感节点.md: 16/16 ✅（另有 1 条短引语未校验）
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 23/23 ✅
+ch01 father announces the jaguar hunt.md: 7/7 ✅（另有 1 条短引语未校验）
+ch02 silver climbs the cliff to break into the castle.md: 8/8 ✅
+ch03 mancella enters the broken citadel at eight.md: 8/8 ✅
+ch04 silver lures mancella into the kitchen with a torte.md: 8/8 ✅
+ch05 mancella waits for starsprouts and confronts marc on the tower.md: 8/8 ✅
+ch06 silver smuggles the apology letter past guerre.md: 8/8 ✅
+ch07 mancella sees the academy and is ordered to kill a student.md: 8/8 ✅
+ch08 silver bargains for the herald sword.md: 8/8 ✅
+ch09 the sealed market and the practice fight.md: 8/8 ✅
+ch10 the fake death match in the arena.md: 8/8 ✅
+ch11 monster and mara black room.md: 8/8 ✅
+ch12 trophy room confessions and the sword.md: 8/8 ✅
+ch13 apology ride and the border ambush.md: 8/8 ✅
+ch14 battlefield rescue and the sunk boat.md: 8/8 ✅
+ch15 the boat and the almost kiss.md: 8/8 ✅
+ch16 silver unlocks the bracelet and steals the letters.md: 8/8 ✅
+ch17 mance jumps the gap and snaps the bracelet shut.md: 6/6 ✅
+ch18 silver brings her to his hovel and guerre arrives.md: 7/7 ✅
+ch19 alect splits in two and mancella runs for the castle.md: 8/8 ✅
+ch20 mance cuts off his insignia and runs for the castle.md: 6/6 ✅
+ch21 mancella finds the dining room full of blood.md: 7/7 ✅
+ch22 silver digs vie out and rereads the letter.md: 7/7 ✅
+ch23 mara confesses the necklace that takes.md: 8/8 ✅
+ch24 silver reads the letters aloud.md: 8/8 ✅
+ch25 the bottle was not the one she threw.md: 8/8 ✅
+ch26 silver wakes with her hand in his.md: 8/8 ✅
+ch27 azele turns the stumps to ash.md: 8/8 ✅
+ch28 she rewrites the vow and the crown.md: 8/8 ✅
+ch29 the girl in the closet says try it.md: 8/8 ✅
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 263/263 引文可核实（100%）；完全干净文件 31/31；正文章节 0 提取 0；总览 0 提取转交 0 ===
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 263/263 引文可核实（100%）；完全干净文件 31/31；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+EXIT=0
+
+--- check_vocab ---
+词条行合计: 1026
+
+--- FAIL (0) ---
+
+--- WARN (17) ---
+  ch01 father announces the jaguar hunt.md [基础] 基础档疑含超纲词「courtyard」
+  ch01 father announces the jaguar hunt.md [基础] 基础档疑含超纲词「breakfast」
+  ch01 father announces the jaguar hunt.md [基础] 基础档疑含超纲词「croissant」
+  ch02 silver climbs the cliff to break into the castle.md [基础] 基础档疑含超纲词「Outskirts」
+  ch03 mancella enters the broken citadel at eight.md [基础] 基础档疑含超纲词「parchment」
+  ch03 mancella enters the broken citadel at eight.md [基础] 基础档疑含超纲词「bodyguard」
+  ch03 mancella enters the broken citadel at eight.md [基础] 基础档疑含超纲词「tablecloth」
+  ch05 mancella waits for starsprouts and confronts marc on the tower.md [高级] 高级档混入常用词「snow-white」
+  ch06 silver smuggles the apology letter past guerre.md [基础] 基础档疑含超纲词「battleground」
+  ch06 silver smuggles the apology letter past guerre.md [基础] 基础档疑含超纲词「wasteland」
+  ch06 silver smuggles the apology letter past guerre.md [基础] 基础档疑含超纲词「advantage」
+  ch07 mancella sees the academy and is ordered to kill a student.md [基础] 基础档疑含超纲词「curriculum」
+  ch07 mancella sees the academy and is ordered to kill a student.md [基础] 基础档疑含超纲词「bookshelves」
+  ch18 silver brings her to his hovel and guerre arrives.md [基础] 基础档疑含超纲词「expression」
+  ch20 mance cuts off his insignia and runs for the castle.md [基础] 基础档疑含超纲词「footprints」
+  ch21 mancella finds the dining room full of blood.md [基础] 基础档疑含超纲词「accusation」
+  ch21 mancella finds the dining room full of blood.md [基础] 基础档疑含超纲词「coincidence」
+EXIT=0
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+EXIT=0
+
+--- corruption_scan ---
+
+=== 编辑损坏扫描（the-beasts-we-bury-by-d-l-taylor）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+EXIT=0
+
+--- sweep_full ---
+=== 引语整串 flat 比对（the-beasts-we-bury-by-d-l-taylor）===
+  参照集：text/ 逐章（29 章，可定章） + epub 交叉验证
+  ✅ 本章命中 224 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+EXIT=0
+
+--- check_short_quotes ---
+=== 短引语兜底核对（the-beasts-we-bury-by-d-l-taylor）===
+  verify_quotes 跳过（<20 flat 字符）的引语：3 条 —— 这些主门禁**根本没查**
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+EXIT=0
+
+--- check_overview_full ---
+=== 总览整串核查（the-beasts-we-bury-by-d-l-taylor）===
+  参照集：text/ 逐章（29 章） ｜ 总览文件 3 个
+  A 整串：命中 49 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 4
+  B 章节标签：对 48 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 1 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+EXIT=0
+
+--- check_overview_labels ---
+=== 总览引语标注核对（逐字 + chNN 归属）：notes/books/novels/the-beasts-we-bury-by-d-l-taylor ===
+参照集：完整 lane（epub）
+
+===== 00_概述.md：0 条带标签引语（跳过无标签行 4）=====
+
+===== 00_情感节点.md：17 条带标签引语（跳过无标签行 2）=====
+
+===== 00_金句精选.md：25 条带标签引语（跳过无标签行 0）=====
+
+----- 汇总（共 42 条带标签引语，跳过无标签行 6）-----
+  ✅ 标注章逐字 : 42
+
+----- 口径外（0 条，不计入失败，需人判）-----
+
+----- 待人判清单（0 条）-----
+EXIT=0
+
+--- check_chapter_quotes ch01 ---
+ch01 father announces the jaguar hunt.md: 7/7 in ch01 text（另有 1 条短引语未校验）
+--- check_chapter_quotes ch02 ---
+ch02 silver climbs the cliff to break into the castle.md: 8/8 in ch02 text
+--- check_chapter_quotes ch03 ---
+ch03 mancella enters the broken citadel at eight.md: 8/8 in ch03 text
+--- check_chapter_quotes ch04 ---
+ch04 silver lures mancella into the kitchen with a torte.md: 8/8 in ch04 text
+--- check_chapter_quotes ch05 ---
+ch05 mancella waits for starsprouts and confronts marc on the tower.md: 8/8 in ch05 text
+--- check_chapter_quotes ch06 ---
+ch06 silver smuggles the apology letter past guerre.md: 8/8 in ch06 text
+--- check_chapter_quotes ch07 ---
+ch07 mancella sees the academy and is ordered to kill a student.md: 8/8 in ch07 text
+--- check_chapter_quotes ch08 ---
+ch08 silver bargains for the herald sword.md: 8/8 in ch08 text
+--- check_chapter_quotes ch09 ---
+ch09 the sealed market and the practice fight.md: 8/8 in ch09 text
+--- check_chapter_quotes ch10 ---
+ch10 the fake death match in the arena.md: 8/8 in ch10 text
+--- check_chapter_quotes ch11 ---
+ch11 monster and mara black room.md: 8/8 in ch11 text
+--- check_chapter_quotes ch12 ---
+ch12 trophy room confessions and the sword.md: 8/8 in ch12 text
+--- check_chapter_quotes ch13 ---
+ch13 apology ride and the border ambush.md: 8/8 in ch13 text
+--- check_chapter_quotes ch14 ---
+ch14 battlefield rescue and the sunk boat.md: 8/8 in ch14 text
+--- check_chapter_quotes ch15 ---
+ch15 the boat and the almost kiss.md: 8/8 in ch15 text
+--- check_chapter_quotes ch16 ---
+ch16 silver unlocks the bracelet and steals the letters.md: 8/8 in ch16 text
+--- check_chapter_quotes ch17 ---
+ch17 mance jumps the gap and snaps the bracelet shut.md: 6/6 in ch17 text
+--- check_chapter_quotes ch18 ---
+ch18 silver brings her to his hovel and guerre arrives.md: 7/7 in ch18 text
+--- check_chapter_quotes ch19 ---
+ch19 alect splits in two and mancella runs for the castle.md: 8/8 in ch19 text
+--- check_chapter_quotes ch20 ---
+ch20 mance cuts off his insignia and runs for the castle.md: 6/6 in ch20 text
+--- check_chapter_quotes ch21 ---
+ch21 mancella finds the dining room full of blood.md: 7/7 in ch21 text
+--- check_chapter_quotes ch22 ---
+ch22 silver digs vie out and rereads the letter.md: 7/7 in ch22 text
+--- check_chapter_quotes ch23 ---
+ch23 mara confesses the necklace that takes.md: 8/8 in ch23 text
+--- check_chapter_quotes ch24 ---
+ch24 silver reads the letters aloud.md: 8/8 in ch24 text
+--- check_chapter_quotes ch25 ---
+ch25 the bottle was not the one she threw.md: 8/8 in ch25 text
+--- check_chapter_quotes ch26 ---
+ch26 silver wakes with her hand in his.md: 8/8 in ch26 text
+--- check_chapter_quotes ch27 ---
+ch27 azele turns the stumps to ash.md: 8/8 in ch27 text
+--- check_chapter_quotes ch28 ---
+ch28 she rewrites the vow and the crown.md: 8/8 in ch28 text
+--- check_chapter_quotes ch29 ---
+ch29 the girl in the closet says try it.md: 8/8 in ch29 text

@@ -44,13 +44,13 @@ modified: "2026-10-02"
 
 **读者视角提示：** 全章最短的一句承担了最重的转折，因为它把责任从她的演技挪到了观看者身上。
 
-> **原句 4:** "because right now I could really use the reminder that I did save something. One starsprout. One little flower that I yanked from the earth in the dead of night to spare it from the inferno."
+> **原句 4:** "Then I haul myself up, drag over a chair, and stand on my tiptoes until I can grasp the handle and pull it down, because right now I could really use the reminder that I did save something. One starsprout. One little flower that I yanked from the earth in the dead of night to spare it from the inferno."
 
-**中文理解：** 她踮起脚把架子上那只种着星芽的平底锅够下来，因为此刻她需要一点提醒——自己确实救下过什么：一株星芽，一朵在深夜里被连根拔起、从那场焚烧里抢下来的小花。
+**中文理解：** 她搬来一把椅子，踮起脚去够架子上那只种着星芽的平底锅，因为此刻她需要一点提醒——自己确实救下过什么：一株星芽，一朵在深夜里被连根拔起、从那场焚烧里抢下来的小花。
 
-**关键词：** could really use the reminder, that I did save something, One starsprout, yanked from the earth in the dead of night
+**关键词：** drag over a chair, stand on my tiptoes, could really use the reminder, One starsprout, yanked from the earth in the dead of night
 
-**为什么这样写：** 全句以 because 挂在动作后面，说明她伸手不是为了拿锅；两个 One 开头的短句把数量摊成可以摆上桌的实物，让「我救过东西」变成可清点的证据。
+**为什么这样写：** 全句以 because 把搬椅子、踮脚、伸手这一串动作压在理由后面，说明她伸手不是为了拿锅；两个 One 开头的短句把数量摊成可以摆上桌的实物，让「我救过东西」变成可清点的证据。
 
 **读者视角提示：** 这株花紧接着就被发现已经枯了、土干成了一片——But when I peek over the edge, the flower is wilting and the dirt is bone dry.，她的自我安慰当场被验算。
 
