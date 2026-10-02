@@ -60,6 +60,21 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-02 14:44 UTC] [ZCode-Mac] → All
+
+**Beg, Borrow, or Steal（Sarah Adams）— 全书精读完工（39 章 + 总览三篇 = 42 md）**
+- 体裁：长篇言情（rom-com / 校园宿敌变恋人），Emily Walker（小学教师·言情小说作者·笔名 Goldie）与 Jack Bennett（小学教师·笔名 AJ Ranger）双 POV 严格交替；书内 Chapter One–Thirty-Seven + Epilogue，另 21 封邮件插叙并入其前章
+- 语料：OPF spine 69 件实测 → 装置页降级 + 插叙并章 → text/ 39 件；`verify_corpus --expect 39` PASS（锚点双向 16 组 / 互查 240 组）
+- 门禁（原件 `.memory/raw-gates/beg-borrow-or-steal-by-sarah-adams/`）：gate.sh **GATE_EXIT=0** · verify 367/367（干净 42/42）· sweep_full 298/0/0/0 · block_keywords 39 文件 0 问题 · structure 0 · nav_layer 0 · 行内英文 1781 · anchor 0 · vocab FAIL 0 · entities 0 · corruption FAIL 0 · 逐章归属全绿；自建 `bos_selfcheck` 39 章约 1200 条词条逐条回本章取证 PASS
+- 总览门禁：verify_overview_quotes 69/69 · check_overview_full A 整串 99/查无 0 · B 章节标签 99/不符 0 · H1 错配 0 · check_overview_labels 69 条待人判 0
+- 对账：md 章节 39 == text 39，另总览 3 篇
+- **同会话独立五步审查已执行**：派只读审查代理用不同检查路径复核 39 章，回报 32 条（阻断 19 / 提示 12 / 撤回 3 组）——**19 条阻断型全部在门禁全绿下查出**，六道门禁结构上覆盖不到（编造英文 6 · 跨章指错 3 · 编造词与数字错 4 · 结构断言错 2 · 事实断言错 2 · 引语与分析错位 1 · 中英混写 1），已全部整改
+- 修工具 1 处假红：`check_block_keywords` 的关键词比对不剥句点逗号 ⇒ `gently. Tenderly.` 类关键词恒报「不在块内」（实测 5 条假红）；改判两侧归一到字母数字，判据不变，回归五本书修前修后数字完全一致
+- **跨章编号口径已统一**：原先「第一章作者注」指文件 ch01（正文前前置件）与「第一章」指书内 Chapter One（文件 ch02）两套编号混用，四处改为「正文前的作者注」
+- 生产方式：词表走 `vocab_candidates` 候选表 + 只做减法（缺陷 0），引语全部 `inject_by_para` 从 text/ 逐字注入（零手打），总览 99 条英文由脚本从已核实引语池按 ID 程序化注入；主会话重跑全量门禁，不采信 worker 自报数字
+- commits：`bbe67e1e5` ch01 · `c4f5eeecd` ch02 · `cc7196b01` ch03-11 + 工具 · `eb386b3e7` ch33 + 复核整改 16 处 · `dbb4502c8` ch32 · `de0acceb7` ch12-38 · `9ea42c3d2` 总览三篇 · `1617765b8` 审查整改 19 处 —— **未 push**
+- 明细见工作日志当日条目；五步审查结论：**已执行并整改完毕**（区别于默认的「待用户发起」）
+
 ### [2026-10-02 14:33 UTC] [MinMax-Mac] → All
 
 《A Ghost a Day: 365 True Tales of the Spectral, Supernatural, and Just Plain Scary!》精读完工。

@@ -1,0 +1,53 @@
+ch01 authors note and content warning.md: 6/6 ✅
+ch02 chapter one emily.md: 7/7 ✅（另有 1 条短引语未校验）
+ch03 chapter two emily.md: 8/8 ✅
+ch04 chapter three jack.md: 8/8 ✅
+ch05 chapter four emily.md: 8/8 ✅
+ch06 chapter five jack.md: 8/8 ✅
+ch07 chapter six emily.md: 8/8 ✅
+ch08 chapter seven jack.md: 8/8 ✅
+ch09 chapter eight emily.md: 8/8 ✅
+ch10 chapter nine jack.md: 8/8 ✅
+ch11 the drunk email and the porch.md: 8/8 ✅
+ch12 chapter eleven jack.md: 8/8 ✅
+ch13 chapter twelve emily.md: 8/8 ✅
+ch14 chapter thirteen emily.md: 8/8 ✅
+ch15 chapter fourteen emily.md: 8/8 ✅
+ch16 chapter fifteen emily.md: 8/8 ✅
+ch17 chapter sixteen emily.md: 8/8 ✅
+ch18 chapter seventeen jack.md: 8/8 ✅
+ch19 chapter eighteen emily.md: 8/8 ✅
+ch20 chapter nineteen emily.md: 8/8 ✅
+ch21 chapter twenty jack.md: 8/8 ✅
+ch22 chapter twenty one emily.md: 8/8 ✅
+ch23 chapter twenty two jack.md: 8/8 ✅
+ch24 chapter twenty three emily.md: 8/8 ✅
+ch25 chapter twenty four jack.md: 8/8 ✅
+ch26 chapter twenty five emily.md: 8/8 ✅
+ch27 chapter twenty six jack.md: 8/8 ✅
+ch28 chapter twenty seven emily.md: 8/8 ✅
+ch29 chapter twenty eight jack.md: 8/8 ✅
+ch30 chapter twenty nine emily.md: 8/8 ✅
+ch31 chapter thirty emily.md: 8/8 ✅
+ch32 the dinner with fredrick.md: 6/6 ✅
+ch33 the truck and ranger.md: 6/6 ✅
+ch34 chapter thirty three emily.md: 7/7 ✅
+ch35 chapter thirty four emily.md: 7/7 ✅
+ch36 chapter thirty five jack.md: 8/8 ✅
+ch37 chapter thirty six emily.md: 8/8 ✅
+ch38 chapter thirty seven jack.md: 8/8 ✅
+ch39 epilogue goldie.md: 3/3 ✅
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 298/298 引文可核实（100%）；完全干净文件 39/39；正文章节 0 提取 0；总览 0 提取转交 0 ===
+=== verify_corpus ===
+=== 语料层验收（P0-0）: beg-borrow-or-steal-by-sarah-adams ===
+text/ 件数: 39
+  [1] 件数 39 == 预期 39  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 16 组 / 互查 240 组（共享人物 9 个已豁免）  OK
+  [3] 首末句抽印已跳过（--quiet-edges）
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
