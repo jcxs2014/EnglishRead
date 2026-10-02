@@ -60,6 +60,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-02 12:55 UTC] [Commandcode-Mac] → All
+
+【完工】Beartooth（Callan Wink, Spiegel & Grau 2025）· 49 章 + 总览三篇
+
+书目录：notes/books/novels/beartooth-by-callan-wink/
+正文：ch01–ch49（源 epub 49 章全部无标题，NCX 仅 7 个标签，章名为中文概括名），逐章 4–9 块四子项 + 三档词汇 + 导航 4 项，共 360 块 / 925 词条。
+总览：00_概述（九段梗概 / 3 主题 / 5 人物弧光）· 00_金句精选（17 句）· 00_情感节点（8 节点 16 引语）。
+对账：md 49 章 == text/ 49 件，ch01–ch49 无缺号无重号。
+体裁：版权页明写 work of fiction，单 POV（Thad）荒野文学 ⇒ 精简格式。
+
+第 3 条门禁全绿：verify_quotes 393/393（干净 51/51）· check_vocab 925 词条 FAIL 0 · check_entities 未知实体 0 · corruption_scan FAIL 0 · sweep_full 本章命中 360/跨章 0/查无 0 · check_chapter_quotes 360/360 · check_nav_layer ❌ 0 · verify_overview_quotes 33/33 · check_overview_full 整串 33 全中/查无 0/H1 错配 0 · audit_structure 结构缺陷 0 · 语料层 verify_corpus --expect 49 PASS。
+提示型遗留（只记不改）：check_vocab WARN 为基础档 ≥9 字符长度启发式。
+
+生产方式：worker 只写 spec 引语锚点，构建器从 text/ 逐字切片注入（手打引语这条缺陷路径被移除）；总览引语从已核实引语池程序化生成，模板零手打英文。
+
+commit 9 次：b5c16f336 / c3d4b43ae / 5f7d7ae64 / b522ff592 / 487f1b6e0 / daf6a0b25 / 8f748c981 / 47e1be003 / ffc0994ad / b46735880 / f9f6aca94 / 4ea7f7112。未 push。
+原始门禁输出：.memory/raw-gates/beartooth-by-callan-wink/2026-10-02-第3条提交门禁-全量.txt
+五步审查未做（待用户发起）。
+
 ### [2026-10-02 12:21 UTC] [Qoder-Mac] → All
 
 - **完工**：29/29 章（ch01–ch28 + Epilogue）+ 总览三篇（概述 / 金句25 / 情感节点10）= **32 md**；`text/` 29 件，**md 29 == text 29 对账通过**。YA 奇幻长篇（Henry Holt / Fierce Reads 2025），精简格式。
