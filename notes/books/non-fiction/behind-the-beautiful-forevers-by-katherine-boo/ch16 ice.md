@@ -9,7 +9,7 @@ source_text: ch16_15_ice.txt
 
 - **出处**：*Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity*，Chapter 15 "Ice"
 - **作者**：Katherine Boo
-- **章节定位**：全书第十五章（Part Four "up and out" 的末章），写出 Husain 一家因不买赃物而破产、因法官被调走而重审、���第二次被骗钱而无从申诉的处境，并以"冰与水"这一全书的最终隐喻收束
+- **章节定位**：全书第十五章（Part Four "up and out" 的末章），写出 Husain 一家因不买赃物而破产、因法官被调走而重审、第二次被骗钱而无从申诉的处境，并以"冰与水"这一全书的最终隐喻收束
 - **字符数**：约 11,500 字符（全书最短章之一）
 - **一句话主旨**：水与冰是同一种东西，人与人大概也是如此——但冰区别于它的原料，并且（至少在阿卜杜勒看来）更好；他想成为孟买这池脏水里的冰，而"正义的裁决"就是那块冰。
 

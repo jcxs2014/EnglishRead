@@ -9,7 +9,7 @@ source_text: ch18_a_school_a_hospital_a_cricket_field.txt
 
 - **出处**：*Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity*，Chapter 17 "A School, a Hospital, a Cricket Field"
 - **作者**：Katherine Boo
-- **章节定位**：全书第十七章（Part Four "up and out" 之内），以选举失败、污水湖被填、两匹马被媒体追���这三条并行线，检验第三章提出的"愤怒被私有化"这一判断，并交代 Husain 一家的无罪判决与阿卜杜勒的永久悬置
+- **章节定位**：全书第十七章（Part Four "up and out" 之内），以选举失败、污水湖被填、两匹马被媒体追责这三条并行线，检验第三章提出的"愤怒被私有化"这一判断，并交代 Husain 一家的无罪判决与阿卜杜勒的永久悬置
 - **字符数**：约 16,400 字符
 - **一句话主旨**：当两匹马的死亡引发全国性追责、同一个警察局对四起命案从未立案时，安纳瓦迪终于看清了自己在正义的视野里的位置——而在这同一章里，母亲与女儿被判无罪，儿子却永远停在"有罪与无罪之间的悬置状态"，最后他说：我正在变成脏水，和所有人一样。
 
