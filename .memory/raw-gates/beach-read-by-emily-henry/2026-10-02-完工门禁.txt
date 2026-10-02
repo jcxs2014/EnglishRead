@@ -1,0 +1,271 @@
+=== Beach Read 完工门禁原始输出 ===
+时间(UTC): 2026-10-02 11:19 UTC
+书目录: notes/books/novels/beach-read-by-emily-henry
+
+########## 0. 语料层 verify_corpus ##########
+=== 语料层验收（P0-0）: beach-read-by-emily-henry ===
+text/ 件数: 28
+  [1] 件数 28 == 预期 28  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 28 组 / 互查 756 组（共享人物 19 个已豁免）  OK
+  [3] 首末句抽印已跳过（--quiet-edges）
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+
+########## 1. verify_quotes ##########
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 16/16 ✅（另有 2 条短引语未校验）
+ch01 1 the house.md: 22/22 ✅（另有 1 条短引语未校验）
+ch02 2 the funeral.md: 19/19 ✅
+ch03 3 the pete cute.md: 12/12 ✅
+ch04 4 the mouth.md: 16/16 ✅（另有 1 条短引语未校验）
+ch05 5 the labradors.md: 14/14 ✅
+ch06 6 the book club.md: 15/15 ✅
+ch07 7 the ride.md: 13/13 ✅（另有 1 条短引语未校验）
+ch08 8 the bet.md: 19/19 ✅（另有 1 条短引语未校验）
+ch09 9 the manuscript.md: 12/12 ✅
+ch10 10 the interview.md: 10/10 ✅（另有 2 条短引语未校验）
+ch11 11 the not date.md: 11/11 ✅（另有 1 条短引语未校验）
+ch12 12 the olive garden.md: 12/12 ✅
+ch13 13 the dream.md: 1/1 ✅
+ch14 14 the rule.md: 12/12 ✅
+ch15 15 the past.md: 11/11 ✅（另有 1 条短引语未校验）
+ch16 16 the porch furniture.md: 16/16 ✅（另有 3 条短引语未校验）
+ch17 17 the dance.md: 14/14 ✅（另有 3 条短引语未校验）
+ch18 18 the ex.md: 14/14 ✅（另有 1 条短引语未校验）
+ch19 19 the beach.md: 14/14 ✅（另有 2 条短引语未校验）
+ch20 20 the basement.md: 14/14 ✅
+ch21 21 the cookout.md: 13/13 ✅
+ch22 22 the trip.md: 18/18 ✅（另有 1 条短引语未校验）
+ch23 23 the lake.md: 11/11 ✅（另有 1 条短引语未校验）
+ch24 24 the book.md: 12/12 ✅
+ch25 25 the letters.md: 11/11 ✅（另有 1 条短引语未校验）
+ch26 26 the best friend.md: 12/12 ✅
+ch27 27 the rain.md: 12/12 ✅
+ch28 28 nine months later.md: 10/10 ✅（另有 2 条短引语未校验）
+
+⚠️ 全书共 24 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 386/386 引文可核实（100%）；完全干净文件 29/29；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+########## 2. check_vocab ##########
+词条行合计: 991
+
+--- FAIL (0) ---
+
+--- WARN (58) ---
+  ch01 1 the house.md [基础] 基础档疑含超纲词「shabby chic apartment」
+  ch01 1 the house.md [基础] 基础档疑含超纲词「a flush of embarrassment」
+  ch02 2 the funeral.md [基础] 基础档疑含超纲词「whispering useless words」
+  ch02 2 the funeral.md [基础] 基础档疑含超纲词「a crocheted shawl」
+  ch02 2 the funeral.md [基础] 基础档疑含超纲词「tap concealer」
+  ch02 2 the funeral.md [基础] 基础档疑含超纲词「a partygoer」
+  ch03 3 the pete cute.md [基础] 基础档疑含超纲词「toothbrush」
+  ch03 3 the pete cute.md [基础] 基础档疑含超纲词「capsule wardrobes」
+  ch04 4 the mouth.md [基础] 基础档疑含超纲词「a slew of scholarships」
+  ch04 4 the mouth.md [基础] 基础档疑含超纲词「his eyebrows furrowing over his dented nose」
+  ch04 4 the mouth.md [基础] 基础档疑含超纲词「a good distraction」
+  ch04 4 the mouth.md [基础] 基础档疑含超纲词「eager to escape this conversation」
+  ch04 4 the mouth.md [基础] 基础档疑含超纲词「The effect was intimidating」
+  ch05 5 the labradors.md [高级] 词条跨篇(本章无，epub 全书有)「painfully rewritten」
+  ch05 5 the labradors.md [基础] 基础档疑含超纲词「the Queen of Not Distracting You」
+  ch05 5 the labradors.md [基础] 基础档疑含超纲词「a dollhouse」
+  ch06 6 the book club.md [高级] 高级档混入常用词「the one and only」
+  ch06 6 the book club.md [基础] 基础档疑含超纲词「the two-thirds-drunk chardonnay」
+  ch06 6 the book club.md [基础] 基础档疑含超纲词「a phenomenal writer」
+  ch07 7 the ride.md [基础] 基础档疑含超纲词「the passenger window」
+  ch07 7 the ride.md [基础] 基础档疑含超纲词「pulled slowly down the road alongside me」
+  ch07 7 the ride.md [基础] 基础档疑含超纲词「Spies and Liquified Pies」
+  ch07 7 the ride.md [基础] 基础档疑含超纲词「flipped traitorously」
+  ch09 9 the manuscript.md [基础] 基础档疑含超纲词「agreement」
+  ch09 9 the manuscript.md [基础] 基础档疑含超纲词「complicated feelings」
+  ch09 9 the manuscript.md [基础] 基础档疑含超纲词「curiosity」
+  ch11 11 the not date.md [基础] 基础档疑含超纲词「apartment」
+  ch11 11 the not date.md [基础] 基础档疑含超纲词「congresswoman」
+  ch12 12 the olive garden.md [基础] 基础档疑含超纲词「girlfriend」
+  ch14 14 the rule.md [基础] 基础档疑含超纲词「collarbone」
+  ch14 14 the rule.md [基础] 基础档疑含超纲词「an adrenaline shot」
+  ch15 15 the past.md [基础] 基础档疑含超纲词「bookstore」
+  ch15 15 the past.md [基础] 基础档疑含超纲词「matryoshka」
+  ch16 16 the porch furniture.md [基础] 基础档疑含超纲词「attention back」
+  ch16 16 the porch furniture.md [基础] 基础档疑含超纲词「a blatantly obvious metaphor」
+  ch17 17 the dance.md [基础] 基础档疑含超纲词「anxiously」
+  ch18 18 the ex.md [高级] 高级档混入常用词「night-light」
+  ch18 18 the ex.md [基础] 基础档疑含超纲词「a calloused palm」
+  ch19 19 the beach.md [基础] 基础档疑含超纲词「a beautiful life」
+  ch20 20 the basement.md [进阶] 词条跨篇(本章无，epub 全书有)「frankly」
+  ch20 20 the basement.md [进阶] 例句不含词头「frankly」
+  ch20 20 the basement.md [基础] 基础档疑含超纲词「my shoulders」
+  ch20 20 the basement.md [基础] 基础档疑含超纲词「the boundaries」
+  ch20 20 the basement.md [基础] 基础档疑含超纲词「a balconette」
+  ch20 20 the basement.md [基础] 基础档疑含超纲词「his calloused palms」
+  ch20 20 the basement.md [基础] 例句不含词头「my back」
+  ch21 21 the cookout.md [基础] 基础档疑含超纲词「his bookshelf」
+  ch22 22 the trip.md [基础] 例句不含词头「the stairs」
+  ch23 23 the lake.md [基础] 基础档疑含超纲词「anniversary」
+  ch23 23 the lake.md [基础] 基础档疑含超纲词「certain invitation」
+  ch24 24 the book.md [基础] 基础档疑含超纲词「combination」
+  ch24 24 the book.md [基础] 基础档疑含超纲词「anniversary」
+  ch24 24 the book.md [基础] 基础档疑含超纲词「my body understood」
+  ch26 26 the best friend.md [基础] 基础档疑含超纲词「connective tissue」
+  ch27 27 the rain.md [基础] 基础档疑含超纲词「beautiful woman」
+  ch28 28 nine months later.md [基础] 基础档疑含超纲词「bound manuscript」
+  ch28 28 nine months later.md [基础] 基础档疑含超纲词「cardboard box」
+  ch28 28 nine months later.md [基础] 基础档疑含超纲词「beginning」
+
+########## 3. check_entities ##########
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+########## 4. corruption_scan ##########
+
+=== 编辑损坏扫描（beach-read-by-emily-henry）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+########## 5. sweep_full ##########
+=== 引语整串 flat 比对（beach-read-by-emily-henry）===
+  参照集：text/ 逐章（28 章，可定章） + epub 交叉验证
+  ✅ 本章命中 370 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 22 条归 check_short_quotes；无章可对 0 条未判）
+
+########## 6. check_chapter_quotes（逐章归属）##########
+⚠️  全书共 22 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 370，命中本章 370（100%）
+✅ 全部引语均归属正确章节
+
+########## 7. check_short_quotes ##########
+=== 短引语兜底核对（beach-read-by-emily-henry）===
+  verify_quotes 跳过（<20 flat 字符）的引语：24 条 —— 这些主门禁**根本没查**
+  ✅ 命中 24 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+########## 8. check_nav_layer（导航/总结层）##########
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+########## 9. audit_structure ##########
+=== 精读结构扫描（beach-read-by-emily-henry）===
+  扫 31 个 md、434 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 12
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+  ⚠️ ch13 13 the dream.md  引语 1 个，与本书众数 12 相差过大
+
+########## 10. check_anchor ##########
+=== 关键词锚定自查（beach-read-by-emily-henry）===
+  扫 31 个 md，392 个引语块，396 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（31 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+########## 11. verify_overview_quotes ##########
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 22/22 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 16/16 ✅
+
+=== 总览引文 38/38 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+########## 12. check_overview_full ##########
+=== 总览整串核查（beach-read-by-emily-henry）===
+  参照集：text/ 逐章（28 章） ｜ 总览文件 3 个
+  A 整串：命中 6 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 2
+  B 章节标签：对 6 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 16 ｜ 不符 0（**只报不判红**）｜ 跳过 35
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+########## 13. check_keywords_verbatim ##########
+=== 关键词/导航/总结层英文逐字核对（beach-read-by-emily-henry）===
+扫 28 个章节 md（判据=原文**连续子串**，只归一空白与弯/直引号，不调 flat_alpha）
+--- 阻断型 6 条 ---
+  ch17 17 the dance.md:14  Just tell me what you want for once
+      阻断型·非本章 text/ 的连续子串（导航层）
+  ch19 19 the beach.md:14  happy ending
+      阻断型·非本章 text/ 的连续子串（导航层）
+  ch19 19 the beach.md:14  fatal flaw
+      阻断型·非本章 text/ 的连续子串（导航层）
+  ch23 23 the lake.md:14  happy ending
+      阻断型·非本章 text/ 的连续子串（导航层）
+  ch23 23 the lake.md:14  happy ending
+      阻断型·非本章 text/ 的连续子串（导航层）
+  ch24 24 the book.md:14  fatal flaw
+      阻断型·非本章 text/ 的连续子串（导航层）
+--- 提示型 2 条（只记不改）---
+  ch01 1 the house.md:11  Gus Everett
+      提示型·导航层人物全名指代（非引语，不要求逐字命中）
+  ch16 16 the porch furniture.md:11  Dave Schmidt
+      提示型·导航层人物全名指代（非引语，不要求逐字命中）
+
+########## 6. check_chapter_quotes ##########
+⚠️  全书共 22 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 370，命中本章 370（100%）
+✅ 全部引语均归属正确章节
+
+########## 7. check_short_quotes ##########
+=== 短引语兜底核对（beach-read-by-emily-henry）===
+  verify_quotes 跳过（<20 flat 字符）的引语：24 条 —— 这些主门禁**根本没查**
+  ✅ 命中 24 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+########## 8. check_nav_layer ##########
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+########## 9. audit_structure ##########
+=== 精读结构扫描（beach-read-by-emily-henry）===
+  扫 31 个 md、434 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 12
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+  ⚠️ ch13 13 the dream.md  引语 1 个，与本书众数 12 相差过大
+
+########## 10. check_anchor ##########
+=== 关键词锚定自查（beach-read-by-emily-henry）===
+  扫 31 个 md，392 个引语块，396 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（31 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+########## 11. verify_overview_quotes ##########
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 22/22 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 16/16 ✅
+
+=== 总览引文 38/38 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+########## 12. check_overview_full ##########
+=== 总览整串核查（beach-read-by-emily-henry）===
+  参照集：text/ 逐章（28 章） ｜ 总览文件 3 个
+  A 整串：命中 6 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 2
+  B 章节标签：对 6 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 16 ｜ 不符 0（**只报不判红**）｜ 跳过 35
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+########## 13. check_keywords_verbatim ##########
+=== 关键词/导航/总结层英文逐字核对（beach-read-by-emily-henry）===
+扫 28 个章节 md（判据=原文**连续子串**，只归一空白与弯/直引号，不调 flat_alpha）
+--- 阻断型 6 条 ---
+  ch17 17 the dance.md:14  Just tell me what you want for once
+      阻断型·非本章 text/ 的连续子串（导航层）
+  ch19 19 the beach.md:14  happy ending
+      阻断型·非本章 text/ 的连续子串（导航层）
+  ch19 19 the beach.md:14  fatal flaw
+      阻断型·非本章 text/ 的连续子串（导航层）
+  ch23 23 the lake.md:14  happy ending
+      阻断型·非本章 text/ 的连续子串（导航层）
+  ch23 23 the lake.md:14  happy ending
+      阻断型·非本章 text/ 的连续子串（导航层）
+  ch24 24 the book.md:14  fatal flaw
+      阻断型·非本章 text/ 的连续子串（导航层）
+--- 提示型 2 条（只记不改）---
+  ch01 1 the house.md:11  Gus Everett
+      提示型·导航层人物全名指代（非引语，不要求逐字命中）
+  ch16 16 the porch furniture.md:11  Dave Schmidt
+      提示型·导航层人物全名指代（非引语，不要求逐字命中）

@@ -60,6 +60,28 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-02 11:19 UTC] [MinMax-Mac] → All
+
+书：Beach Read（Emily Henry, Penguin UK 2020）· 言情/rom-com 长篇 · 目录 notes/books/novels/beach-read-by-emily-henry/
+正文：ch01–ch28 逐章精读 28 件（chNN 与书内章号零偏移），引语 370 块。
+总览：00_概述（3 主题 + 5 人物弧光）· 00_金句精选 18 句 · 00_情感节点 8 节点。
+语料层 P0-0 PASS：text/ 28 件 == 预期 28（toc.ncx + spine 实测），锚点双向 28 组/互查 756 组；ch13 极短章（73 字符）经页码与 bea ID 双证据确认非提取缺失。
+第 3 条门禁全绿：verify_quotes 386/386（100%·干净 29/29）· vocab FAIL 0 · entities 0 ·
+corruption_scan 0 · sweep_full 370/0/0/0 · check_chapter_quotes 370/370 · short_quotes 24/24 ·
+nav_layer 0/0 · structure 缺陷 0 · anchor 凭空造词 0。总览门禁：overview_quotes 38/38 ·
+check_overview_full 6 命中/0 查无/0 不符 · H1 0 错配。
+生产方式：4 路子代理并行分章（所有权互不重叠，brief 含真实案例与防幻觉条款），引语写前
+grep 预验，词表走 vocab_candidates 只做减法，总览由 gen_overview 从已核实引语池生成；
+主会话重跑全量门禁，不采信 worker 自报数字。门禁全绿下修掉真缺陷 12 类（导航层 5 · 词表
+A 类 2 · 引语拼接 1 · trope 术语 4 · 自造术语 1 · 重复引语 1），并纠正 brief 4 处结构事实错误。
+工具根因修复：提取件定位收口为 scripts/chapter_text_path.py——同一缺陷共 8 处（7 个工具各
+内联一份只认下划线的 glob，而根规则规定分隔符是空格 ⇒ 假红）；回归 Whispers 67 章数字不变。
+commit：0b12ed4c7 工具 · 5e270cd3d ch01 · d466c3c08 ch02–ch28（34 文件）· 4aabd0078 总览（未 push）。
+提示型遗留（只记不改）：vocab WARN 58（长度≥9 启发式）· structure 提示 1（ch13 事实）·
+keywords_verbatim 阻断型 6 条已逐条定性（1 假红 + 5 提示型，明细见日志）。
+原始输出 271 行见 .memory/raw-gates/beach-read-by-emily-henry/2026-10-02-完工门禁.txt，
+明细见工作日志当日条目。五步审查未做（待用户发起）。
+
 ### [2026-10-02 11:10 UTC] [ZCode-Mac] → All
 
 书：the-teacher-by-freida-mcfadden（《The Teacher》Freida McFadden 悬疑长篇，完整 lane）
