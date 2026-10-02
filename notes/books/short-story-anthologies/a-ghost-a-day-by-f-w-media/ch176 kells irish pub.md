@@ -15,7 +15,7 @@
 
 - **中文理解**：据《Seattle Times》，Pike Place Market 及其周边许多店铺都闹鬼。其中较为活跃的一处是 Kells Irish Pub；查这栋建筑的历史，就容易明白那些鬼是怎么找到这间酒馆的。从前 E. R. Butterworth and Sons 这家殡仪馆占用着 Kells 如今所在的那栋楼。殡仪馆的生意好到 1923 年因空间不够，不得不迁往 Capitol Hill。
 - **关键词**：haunted / inhabited / mortuary / thriving / relocated
-- **为什么这样写**：作者用 a mortuary, inhabited the building Kells now occupies 一句用一个逗号插入语把殡仪馆与那栋楼接在一起，**而 short on space 用一个短评把迁移的理由压到三个词**。鬼从哪里来这句没写，楼从谁手里来写了。
+- **为什么这样写**：作者用 a mortuary, inhabited the building Kells now occupies 一句用一个逗号插入语把殡仪馆与那栋楼接在一起，**而 short on space 用一个短评把迁移的理由压到最短**。鬼从哪里来这句没写，楼从谁手里来写了。
 - **读者视角提示**：many of the shops located in and about Pike Place Market 指市场内外的许多店，**本篇没说这家店是哪一间**。
 
 > **原句 2:** "The Irishman who owns the pub, Patrick McAleese, informed the Times that his business is located where the embalming room and crematorium once existed. Perhaps this explains the scores of ghostly sightings associated with the pub. Karen McAleese, the owner's sister, first noticed the ghost of a tall man in a suit jacket with long, thin hands as he meandered out of the kitchen, walked to the end of the bar, and disappeared into thin air."

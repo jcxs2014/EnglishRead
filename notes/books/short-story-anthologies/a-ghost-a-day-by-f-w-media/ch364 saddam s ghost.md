@@ -15,7 +15,7 @@
 
 - **中文理解**：Saddam Hussein 是个残酷的独裁者，他自认为是大 Babylonian 国王 Nebuchadnezzar II 的转世。他对人民的权力近乎神性，而逃过死亡的能力则近乎传奇。因此，即便在他死后，仍有一些人不肯相信他已经消失。他被吊死，与他的儿子们一同葬在家乡 Awja——这本该终结他的恐怖统治，但一些人相信他仍在从那一边伸出手来。
 - **关键词**：brutal dictator / reincarnation / godlike / legendary / refuse to believe / hanged / reign of terror / reaching out / the other side
-- **为什么这样写**：作者用 His power over his people was godlike and his ability to escape death legendary 一句用 was 把两项并成一句，**而 which should have ended his reign of terror, but some believe 把本该结束与仍然伸手顶在一起**。物理上的死亡与心理上的不散，各占一个分句。
+- **为什么这样写**：作者用 His power over his people was godlike and his ability to escape death legendary 一句用 was 把两项并成一句，**而 which should have ended his reign of terror, but some believe 把本该结束与仍然伸手顶在一起**。物理上的死亡与心理上的不散，各占一处。
 - **读者视角提示**：reign of terror 指恐怖统治，**本篇没说他统治了多久**。
 
 > **原句 2:** "In life, Saddam was a mysterious man. Rumors abound about his relationship with the supernatural. Some say he made a pact with aliens, giving them and their ships safe harbor for genetically engineered demon hounds with the killing abilities of scorpions. Others say he found a mystical blue stone with the power of bestowing immortality, which he had implanted in his forearm. Supposedly, he tested by implanting it in a chicken and then shooting the chicken with a gun. The chicken lived, protected by the stone."

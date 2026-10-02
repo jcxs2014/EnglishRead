@@ -29,7 +29,7 @@
 
 - **中文理解**：1904 年 5 月 25 日早上，先是一小处火，被不祥的风推着，很快吞掉了整座镇子，把它彻底毁了。想起那个诅咒，一批老人去查女巫的墓，让他们吃惊的是，铁链断了。二十年后，正如所应下的那样，镇子又烧了一次。如果你认为这只是一段传说，那就去 Glenwood Cemetery 亲眼看一趟那些断链。只要当心，别成为亚祖女巫的下一个受害者。
 - **关键词**：unearthly winds / engulfed / astonishment / delegation
-- **为什么这样写**：作者用 What started as a small fire, driven by unearthly winds 一句把起火与推火的风并进同一个分句，**而 a delegation of elders inspected the witch's grave 把核实写成一次集体出动**。火烧起来像被什么推着，起因没写；墓要人去查，查出来的结果是链断了。
+- **为什么这样写**：作者用 What started as a small fire, driven by unearthly winds 一句把起火与推火的风并进同一处，**而 a delegation of elders inspected the witch's grave 把核实写成一次集体出动**。火烧起来像被什么推着，起因没写；墓要人去查，查出来的结果是链断了。
 - **读者视角提示**：take a journey to Glenwood Cemetery 意为去墓园走一趟，**本篇没说那些断链后来怎样**。
 
 ## 本章词汇

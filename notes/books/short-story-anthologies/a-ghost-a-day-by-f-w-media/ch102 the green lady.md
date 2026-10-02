@@ -15,7 +15,7 @@
 
 - **中文理解**：传说一位名叫 Elisabeth Palmiter 的年轻女子死于丈夫之手，死得很惨。显然问题不在他对她做了什么，而在他什么没做。
 - **关键词**：tragically / Evidently / didn't
-- **为什么这样写**：作者用 at the hands of her husband 一句先给出加害者，**紧接着用 not what he did, but what he didn't do 把罪名从行为移到不作为**。两个分句只差一个否定，性质却完全换了一件事。
+- **为什么这样写**：作者用 at the hands of her husband 一句先给出加害者，**紧接着用 not what he did, but what he didn't do 把罪名从行为移到不作为**。前后两处只差一处否定，性质却完全换了一件事。
 - **读者视角提示**：Legend has it 是「传说如此」，**本篇没给出处**。
 
 > **原句 2:** "he just stood there, lantern in hand, and waited for his wife to disappear beneath the muck, never to breathe again. But Elisabeth, angered by her husband's inaction, returned from the dead and haunted him until he went insane"

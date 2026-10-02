@@ -22,7 +22,7 @@
 
 - **中文理解**：1809 年 7 月 4 日，堡垒指挥官 Walbach 上尉在军官宅邸里宴客时发生了一场可怕的爆炸。上尉与客人们从那栋严重受损的建筑里走出来，迎面是一幅骇人的景象：肢体散落在堡垒各处，受伤者的尖叫刺穿他们的耳朵。爆炸中八名男子与男孩死亡，另有两人后来死于伤口。据当地灯塔史学家 Jeremy D'Entremont，其中一具尸体实际上被炸过了堡垒的墙，落在了附近灯塔旁边。对这场爆炸的官方调查认定它是一场事故。
 - **关键词**：entertained / grotesque / scattered / pierced / deemed
-- **为什么这样写**：作者用 they were greeted by a grotesque scene 一句用 greeted 把「走出去」与「迎面看到」压成一次相遇，**而 an official inquiry deemed it an accident 用一个单数主语把查定与定性并成一次**。伤亡逐项报数，结论只有一个词。
+- **为什么这样写**：作者用 they were greeted by a grotesque scene 一句用 greeted 把「走出去」与「迎面看到」压成一次相遇，**而 an official inquiry deemed it an accident 用一个单数主语把查定与定性并成一次**。伤亡逐项报数，结论只有一句。
 - **读者视角提示**：one body was actually blown over the fort's wall 指一具尸体被炸过墙，**本篇没给这具尸体的身份**。
 
 > **原句 3:** "Photographs taken there often reveal strange light anomalies. Visitors sometimes smell the faint odor of gunpowder and feel a deep sadness near the site of the explosion. During an investigation by medium Maureen Wood of The New England Ghost Project, contact was made with the spirit of a terribly disfigured soldier near the lighthouse. According to Wood, he felt great remorse. She also picked up on the name, Daniel. Oddly enough, one of the men killed in the explosion was a soldier by the name McDan-iel. Is he roaming the grounds of the fort forgotten, unable to rest? Plans are now underway to erect a plaque to the men who died in that terrible explosion. Perhaps, after it is erected, Private McDaniel will soon be able to rest, knowing that he and the men that perished that fateful day will not be forgotten."

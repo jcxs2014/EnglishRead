@@ -15,7 +15,7 @@
 
 - **中文理解**：这座四十八英尺高的铁与砖造的塔建于 1878 年。130 多年里，它一直守着 Portsmouth Harbor。一任又一任看守打理着 Portsmouth Lighthouse，直到 1960 年它终于改为自动。任期最长的看守是 Joshua K. Card，他在服务 35 年后于 1909 年退役。人们问他制服上的那个 K 代表什么，他总是回答 captain。他 1911 年去世，但似乎从来没有离开过。
 - **关键词**：forty-eight-foot / iron-and-brick / oversaw / automated / retired / captain / seems / guard over
-- **为什么这样写**：作者用 the letter K on his uniform stood for 一句把制服上的一个字母当成谜面，**而 he'd tell them “captain.” 用一句他们转述的答案把谜面收掉**。字母只有一个，答案也只有一个词。
+- **为什么这样写**：作者用 the letter K on his uniform stood for 一句把制服上的一个字母当成谜面，**而 he'd tell them “captain.” 用一句他们转述的答案把谜面收掉**。字母只有一个，答案也只有一句。
 - **读者视角提示**：K 在原文里不作解释，**本篇没说他为什么穿这套制服**。
 
 > **原句 2:** "Coast Guard workers at the nearby station have reported hearing footsteps and seeing someone moving in the old keeper's house and near the tower. Others working in the tower have heard disembodied voices and unusual noises. Although most of these incidences have happened at night, one visitor to the lighthouse met the “Kaptain” in broad daylight. She was walking on her way to tour the lighthouse when she noticed a man in a uniform. However, when she reached the lighthouse he was gone."

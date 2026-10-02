@@ -29,7 +29,7 @@
 
 - **中文理解**：也许她还留在这座酿酒厂里，试图把那段禁忌之恋的浪漫记忆重新抓住。将来若你也到访者中间来分食这里的「烈酒」，你同样可能有足够的运气当面见到 Cayte。
 - **关键词**：remains / recapture / romantic / forbidden / partake
-- **为什么这样写**：作者用 Perhaps she remains at the distillery trying to recapture the romantic memories of her forbidden love 一句把留下来写成一次打捞，**而 partake in the “spirits” of the Distillery 用一对引号把酒与鬼混成一个词**。蒸馏厂卖的是酒，来的人带走的是别的东西。
+- **为什么这样写**：作者用 Perhaps she remains at the distillery trying to recapture the romantic memories of her forbidden love 一句把留下来写成一次打捞，**而 partake in the “spirits” of the Distillery 用一对引号把酒与鬼混成同一个说法**。蒸馏厂卖的是酒，来的人带走的是别的东西。
 - **读者视角提示**：you too may be lucky enough to meet Cayte in person 意为你也许有运气当面见到她，**本篇没说谁定下了这份运气**。
 
 ## 本章词汇
@@ -67,4 +67,4 @@
 
 ## 一句话总结
 
-本篇先用 so … that 把常来酒吧写成爱的量度，再把露面与挪杯并成一件事，最后用一对引号把烈酒与鬼混成一个词收束。
+本篇先用 so … that 把常来酒吧写成爱的量度，再把露面与挪杯并成一件事，最后用一对引号把烈酒与鬼混成同一个说法收束。
