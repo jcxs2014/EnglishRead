@@ -31,7 +31,7 @@ modified: "2026-10-02"
 
 **关键词：** I launch myself at the railing, for all his protests, he’s on me, expression tense as he hauls me over
 
-**为什么这样写：** 句子用 but 把场面拆成两半：她的动作在前，他的反应在后，中间那个 for all his protests 把「他反对过」写成一道已经失效的手续；三个 -ing 短语（gripping / straining / tense）把人钉在画面里，读者的注意力被摁在他身上。
+**为什么这样写：** 句子用 and 把场面顺次串开：她的动作在前，他的反应在后，中间那个 for all his protests 把「他反对过」写成一道已经失效的手续；两个 -ing 分词加一个形容词（hands gripping / arms straining / expression tense）把人钉在画面里，读者的注意力被摁在他身上。
 
 **读者视角提示：** 这一次的接触是她主动挑起来的，方式偏偏是她能想到的最不像约会的那种。
 

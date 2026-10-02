@@ -67,7 +67,7 @@ modified: "2026-10-02"
 
 > **原句 6:** "Today Guerre is dressed in the full splendor of a nobleman, dripping with jewels and fine silks that make even Mance’s usual attire look simple. His bearing and demeanor are regal, too, and his hair is darker than I’ve ever seen it before."
 
-**中文理解：** 今天他一身贵族的排场，珠宝与上好绸缎一路往下坠，衬得 Mance 平日的装束都算朴素。他的举止气度同样有威仪，头发也比她见过的任何时候都黑。
+**中文理解：** 今天他一身贵族的排场，珠宝与上好绸缎一路往下坠，衬得 Mance 平日的装束都算朴素。他的举止气度同样有威仪，头发也比他见过的任何时候都黑。
 
 **关键词：** the full splendor of a nobleman, make even Mance’s usual attire look simple, His bearing and demeanor are regal, darker than I’ve ever seen it before
 

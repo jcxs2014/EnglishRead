@@ -86,7 +86,7 @@ modified: "2026-10-02"
 
 > **原句 8:** "It’s true; my neck feels fantastic now. Like I’ve never spent a night sleeping on cobblestones in my life."
 
-**中文理解：** 她伸手摸了摸自己的喉咙，脉搏还在，脖子一点都不疼；他承认确实如此——脖子舒服得不得了，像这辈子没在石板路上睡过一夜。
+**中文理解：** 他伸手摸了摸自己的喉咙，脉搏还在，脖子一点都不疼；他承认确实如此——脖子舒服得不得了，像这辈子没在石板路上睡过一夜。
 
 **关键词：** my neck feels fantastic now, sleeping on cobblestones in my life
 

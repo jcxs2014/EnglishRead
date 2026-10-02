@@ -6,7 +6,7 @@ modified: "2026-10-02"
 # 23. Mancella Amaryllis Cliff, Title Uncertain |2 DAYS UNTIL THE ASSURANCE|
 
 ## 本章导航
-- **一句话概括**：早上她成为可能接位的人之后第一件事是哭；Mara 从天井翻进来，说破自己那些年被父亲逼出魔法的旧账，并交出一条据称能吸走魔法的项链；项链戴上后抽空了她体内的兽群，她当场拒绝，两人随即在餐厅上方布下陷阱对付 Rift，章末压在她身上的是 Silver。
+- **一句话概括**：早上她成为可能接位的人之后第一件事是哭；姐姐从天井翻进来，说破自己那些年被父亲逼出魔法的旧账，并交出一条据称能吸走魔法的项链；项链戴上后抽空了她体内的兽群，她当场拒绝，两人随即在餐厅上方布下陷阱对付 Rift，章末压在她身上的是 Silver。
 - **情感弧线位置**：背叛与站队这条线的中段——本章不谈原谅，只谈今晚谁跟谁一起活下去。
 - **人物弧线**：Mancella 从崩溃转到执事，中间的转折点是被问到要不要交出兽群时她说它们还是我；Mara 从远处递刀的帮手变成当面认错的人，把最要紧的东西交出来又被退回。
 - **叙事手法**：第一人称限知（Mancella 视角）；倒计时副标题（|2 DAYS UNTIL THE ASSURANCE|）；本章主要信息全部由姐姐的口述给出，叙述者只负责听和反应；末尾以一个画面定格。
@@ -60,7 +60,7 @@ modified: "2026-10-02"
 
 **关键词：** He liked your power a little better than mine, He wanted our realm to be strong, didn’t think my magic was good enough
 
-**为什么这样写：** Mara用 you 直接对妹妹说话，把父亲的说法原样搬过来递刀。He liked your power a little better than mine 里的 a little 把「更偏爱」和「偏爱得有限」一起说了。落点是 didn’t think my magic was good enough——不是不够强，是不够好。
+**为什么这样写：** Mara 用 you 直接对姐姐说话，把父亲的说法原样搬过来递刀。He liked your power a little better than mine 里的 a little 把「更偏爱」和「偏爱得有限」一起说了。落点是 didn’t think my magic was good enough——不是不够强，是不够好。
 
 **读者视角提示：** 她随后把宣告 Assurance 的理由落到这一句上：父亲的算盘不是需要一个继承人，是姐妹之间有一个高下。
 

@@ -76,7 +76,7 @@ modified: "2026-10-02"
 
 > **原句 7:** "So he’d stick her hand in a fire to see if she was resistant to flames. He’d stir poison into her breakfast to see if she was immune to it."
 
-**中文理解：** 从 Broken Citadel 回来后的头几年，父亲想逼出 Mara 的魔法，就把手伸进火里试她耐不耐热，把毒药搅进她的早饭试她免不免疫。
+**中文理解：** 从 Broken Citadel 回来后的头几年，父亲想逼出 Mara 的魔法，就把 Mara 的手伸进火里试她耐不耐热，把毒药搅进她的早饭试她免不免疫。
 
 **关键词：** stick her hand in a fire, resistant to flames, stir poison into her breakfast, immune to it
 

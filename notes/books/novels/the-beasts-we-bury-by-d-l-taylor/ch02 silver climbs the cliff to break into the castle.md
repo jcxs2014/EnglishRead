@@ -141,7 +141,7 @@ modified: "2026-10-02"
 | tower | 塔；岗楼 | Then he strolls toward a guard tower nearby, clearly expecting me to follow. |
 | alarm | 警报 | I expect the sound of an alarm. |
 | bakery | 面包房 | And if Rooftop hadn’t lost his bakery gig, I probably would have. |
-| Outskirts | 外城；城郊贫民区（本书的 Realm 之一） | He punches me in the chest, mumbles, “Me too,” and heads back toward the Outskirts, his back slumped. |
+| Outskirts | 贫民街区（Cliff Realm 内部的地带，非独立 Realm） | He punches me in the chest, mumbles, “Me too,” and heads back toward the Outskirts, his back slumped. |
 | knee | 膝盖 | My knee’s probably going to have a bruise, which is just great. |
 | handhold | 可抓握的着力点 | The next handhold is too far, and I can only graze it. |
 | shutters | 百叶窗；窗板 | I sincerely consider climbing back down the cliff when Guerre pries open the shutters of the guard tower with a clatter and sweeps his arm over the realm below us. |

@@ -83,7 +83,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** Rare 被单独切成一句，从菜名里剥成一个属性；后面 No sides, no garnishes 用两个 no 把配盘的可能性一条条划掉，于是这块肉只剩下体积；shiny glass plate 与 bloody meat 挤在同一句里，餐具和内容物直接对撞。
 
-**读者视角提示：** 这块肉的名字是等 Prime Azele 先尝了一口、露出放不下的神情之后，父亲才说出来的。
+**读者视角提示：** 这块肉的名字是等 Prime Azele 先尝了一口、露出一种尝不出所以蹙起眉头的神情之后，父亲才说出来的。
 
 > **原句 8:** "It doesn’t tell me who the boy is or what he wants with me or why he thinks it’s appropriate to smirk at me like that when I’m in the middle of destroying any hope we have of establishing a positive relationship with the Grassland Realm."
 

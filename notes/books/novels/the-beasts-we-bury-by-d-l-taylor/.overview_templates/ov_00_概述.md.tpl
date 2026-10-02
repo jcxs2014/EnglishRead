@@ -14,7 +14,7 @@ modified: "2026-10-02"
 
 **先给一个把杀生当早餐话题的家庭。** 父亲在早餐吃到一半时宣布，预备继承人 Mancella 今天又要杀人了。
 这家人的规矩是每年猎杀一只兽，兽的 spirit 归入血统，人因此变强；而被选中的那天，会有一场叫
-Assurance 的承认仪式。{Q:1:1}（ch01）她当天的猎物是一只美洲豹，她赢了，代价是被咬断一只手，
+Assurance 的承认仪式。{Q:1:1}（ch01）她当天的猎物是一只美洲豹，她赢了，代价是被獠牙咬穿的一只手（她当场问它会不会整个撕下来），
 以及在夺兽的瞬间短暂地活成了那只豹——她看见了它两个还在吃奶的崽子。她躺在豹尸旁边落泪时，
 脑子里只剩一个问题：{Q:1:8}（ch01）
 
@@ -24,10 +24,10 @@ Assurance 的承认仪式。{Q:1:1}（ch01）她当天的猎物是一只美洲�
 
 **八岁那年，父亲把她带去一座鬼城。** 那是 Broken Citadel，祖父和 Uncle Edwarn 进去过、
 只有父亲出来的地方；而关于父亲的哥哥为什么没能出来，家里的说法是「魔法会决定」。{Q:3:2}（ch03）
-多年以后她才在餐桌上认出，那道端上桌的菜正是她自己杀的那只美洲豹。童年不是回忆里的温暖，
+隔了一天，她就在餐桌上认出那道端上桌的菜正是自己前一天猎杀的那只美洲豹。童年不是回忆里的温暖，
 是账单最早被递到手里的地方。
 
-**书的中段换一个人来叙述。** Silver 是另一个家族的预备继承人，被雇来闯进城堡；他在 Cliff 家
+**书的中段换一个人来叙述。** Silver 是 Academy 出身的孤儿（父母被送上前线的那种孩子），被雇来闯进城堡；他在 Cliff 家
 藏成一个仆人，同时带着自己的组织（Vie、Rooftop 等人）和一件差事。他要取回一只镯子，
 戴回预备继承人的手腕上——按他的说法，那是一道屏障。{Q:16:6}（ch16）他自己说过：
 规矩要公平，所以他的魔法不能杀人，除非对方也会用魔法。
@@ -61,7 +61,7 @@ Silver 帮着 Guerre 起了这场战争，而 **Mancella（他叫她 Mance）** 
 
 ## 人物弧光
 
-**Mancella Amaryllis Cliff** —— 从「我抗议」走到「我签字」。她的转变不是变强，是发现
+**Mancella Amaryllis Cliff** —— 从「我抗议」走到「我宣誓」。她的转变不是变强，是发现
 反对这套制度没有用之后，仍然必须决定在其中把什么留下：她放走 Prime Azele 带来的和平
 （ch27），当场改写自己的誓词（ch28），并且在尾声里选择把另一个自己锁起来——而对方并没有接受这个安排。弧线的两端是同一个动作：
 不再问「该不该」，改问「由我来决定什么」。
@@ -81,18 +81,17 @@ a couple days ago`——说这句话时叙述者**就是 Mancella**。
 ⇒ **写 Silver 视角的章节时，`Mance` 指的就是 Mancella**；
 组织成员是 Vie、Rooftop 等人，**不含 Mance**。
 
-## ⭐ 又一处**书内自相矛盾**：Mara 是姐姐还是妹妹
+## 关于 Mara 的年龄：一处书内出入，按多数证据记述
 
-原文两处指向相反，**本项目不裁决**（精读里所有分析层措辞已一律改成只称 `Mara`）：
+**Mara 是 Mancella 的姐姐**——原文五处同向：
+ch01 `an older sister merely entertaining a younger sister's ridiculousness` ·
+ch03 `with big-sisterly confidence` · ch04 `her reclusive older sister` ·
+ch23 `“You're my little sister,” she tells me.` ·
+ch03 `Mara and I are going in at eight and ten years of age`（字面顺序 Mara 在前）。
 
-| 指向 Mara **更年长** | 指向 Mara **更年幼** |
-|---|---|
-| ch01 `in the patronizing manner of an older sister merely entertaining a younger sister's ridiculousness` | ch19 Alect：`You wouldn't have had to enter the Broken Citadel at eight years old. **Or Mara at ten.**` |
-| ch03 `with big-sisterly confidence` | ch03 `Mara and I are going in at **eight and ten** years of age`（Mara 在前＝年长） |
-| ch04 `It could have been her reclusive older sister` | |
-
-⇒ 总览**只写「Mara 是 Mancella 的姐姐/妹妹」这一层关系，不写谁大谁小**；
-引语原文自带 `older sister` / `sister` 的**照录不动**。
+⚠️ **唯一的反证是 ch19** Alect 的一句 `You wouldn't have had to enter the Broken Citadel
+at eight years old. Or Mara at ten.`——按此句 Mara 是十岁那一个。
+**全书精读统一按「姐姐」写**（五比一），此条出入**记录在案、不在正文里改写成另一种说法**。
 
 ## 三条不许断言（写总览时最容易写坏的地方）
 

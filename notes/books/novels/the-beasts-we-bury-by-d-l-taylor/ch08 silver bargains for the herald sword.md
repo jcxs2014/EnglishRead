@@ -21,7 +21,7 @@ modified: "2026-10-02"
 
 **关键词：** As promised, my second task, just as impossible as the first
 
-**为什么这样写：** As promised 把这句话接到上一章的那个约定上，可 promised 承诺的不是难度，是「会照旧」；just as 把两件差事绑成同一道题，于是叙述者对雇主的态度从惊讶退化成一句认命。
+**为什么这样写：** As promised 把这句话接到 Guerre 先前在 ch02 承诺「三件差事、难度相当」的那个约定上，可 promised 承诺的不是难度，是「会照旧」；just as 把两件差事绑成同一道题，于是叙述者对雇主的态度从惊讶退化成一句认命。
 
 **读者视角提示：** 这一章的差事在开头就被交代清楚——剑是刀，锁是锁，而锁的那道魔法他连撬都撬不动。
 
@@ -43,7 +43,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 句子把技术动作 can’t even penetrate 与一个视觉判断 isn’t really there 并置，于是失败的原因从「工具不好」被推到「那里没有东西可以让工具进去」；like 把这个判断写成比喻，读者因此相信这不是比喻。
 
-**读者视角提示：** 他在这之后放弃了硬撬，转而去想办法让这间办公室的主人替他开门。
+**读者视角提示：** 他在这之后放弃了硬撬，转而去想办法说服能进那间办公室的人替他开门。
 
 > **原句 4:** "So after lunch I start a (very small, nothing to worry about) fire in the kitchens and sneak in an attempt at unlocking the first door while everyone is distracted."
 

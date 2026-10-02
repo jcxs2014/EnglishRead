@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：孤塔上 Mancella 把一封盖着家族蜡印的道歉信塞给 Silver，要他偷偷塞进送信的袋子；他转头去铁匠铺把家族印玺拓成假戒指，换来那栋绿屋顶房子的地契，又当着他的面把信丢进垃圾桶——当夜他把信捡了回来，读出的结论却在夜里变了。
+- **一句话概括**：孤塔上 Mancella 把一封盖着家族蜡印的道歉信塞给 Silver，要他偷偷塞进送信的袋子；Guerre 转过头去用一枚蜡印临摹出假印玺，换来那栋绿屋顶房子的地契，又当着 Silver 的面把信丢进垃圾桶——当夜 Silver 又把它捡了回来，读出的结论却在夜里变了。
 - **情感弧线位置**：副标题与 ch05 同为 13 天；ch05 里她当面戳穿了他的假名字，这一章他把她的真话和自己的假身份并排摆上桌。
 - **人物弧线**：他本打算把她当一枚棋子，结果在塔上被她自己的处境打断；等到地契和戒指的用途摆在眼前，他又迅速把自己说服回去——信被塞进背包，蜡烛熄灭。
 - **叙事手法**：第一人称限知（Silver 视角）；倒计时副标题（`|13 DAYS UNTIL THE ASSURANCE|`）；场景切换（孤塔 → 市集铁匠铺 → 外城住处）。
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 前半句是早就谈妥的那点小利，but 之后的省略号把尺度撑开；Anything at all 单独成句，把上一句里还被具体名词限住的想象整个放开，于是读者和他同时意识到这枚戒指的用处不限于文书。
 
-**读者视角提示：** 他刚刚亲手把家族印玺压进一块软泥里拓了模。
+**读者视角提示：** 他刚刚把盖着家徽的印章递过去，对方当场压进一块软泥里拓了模。
 
 > **原句 6:** "I pluck the letter out of the bin and hurry away, tucking it into my waistcoat even though the stink of rancid meat makes my stomach turn."
 
@@ -73,7 +73,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 句子把方向相反的动作捆在一起——拔出来与走开都是往外，tucking it 却是往身上收；even though 放在最后，于是那个违心的动作被摆到理由之后，读起来像身体在替良心收尾。
 
-**读者视角提示：** 就在不久之前，这封信是他自己丢进那个垃圾桶的。
+**读者视角提示：** 就在不久之前，这封信是 Guerre 丢进那个垃圾桶的。
 
 > **原句 7:** "Worst of all, because the glass is magical, its sharp edges never smooth or break down. They just infest the earth, sowing pain for all future generations."
 

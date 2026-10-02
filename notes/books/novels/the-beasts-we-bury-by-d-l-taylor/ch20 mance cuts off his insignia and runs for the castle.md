@@ -23,7 +23,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 她用三个三词短语给他排罪状，节奏像宣判；破折号里插进的那个动作（甩镯子、他后退）把台词切成两段，读者先看见证据再听见指控；末句用一个 absurd 的降格把矛头从「全家」拽回到「脚」。
 
-**读者视角提示：** 本章最短，冲突却最集中——这一句里同时摆着三件事：他做了什么、她已经知道、以及她要往哪去。
+**读者视角提示：** 本章篇幅排全书第三短，冲突却最集中——这一句里同时摆着三件事：他做了什么、她已经知道、以及她要往哪去。
 
 > **原句 2:** "I realize now I was trying to force her forgiveness by managing the situation myself until she no longer had a reason to be upset. For all the trust she put in me, I didn’t give her any back."
 
