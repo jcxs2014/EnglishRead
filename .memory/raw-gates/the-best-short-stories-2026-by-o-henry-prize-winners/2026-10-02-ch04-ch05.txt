@@ -1,0 +1,38 @@
+# ch04 The Hare / ch05 Where Are You and Where Is My Money（ohp-B 交付）
+ch04 the hare.md: 10/10 ✅
+ch05 where are you and where is my money.md: 10/10 ✅
+=== 总计 170/170 引文可核实（100%）；完全干净文件 17/17；正文章节 0 提取 1；总览 0 提取转交 0 ===
+EXIT=0
+
+--- FAIL (0) ---
+--- WARN (43) ---
+  ch04 the hare.md [基础] 基础档疑含超纲词「hydrangeas」
+  ch04 the hare.md [基础] 基础档疑含超纲词「crosswalk」
+  ch04 the hare.md [基础] 基础档疑含超纲词「attendant」
+  ch04 the hare.md [基础] 基础档疑含超纲词「dashboard」
+  ch04 the hare.md [?] 词汇节外有 13 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch05 where are you and where is my money.md [基础] 基础档疑含超纲词「customary introductions」
+  ch05 where are you and where is my money.md [基础] 基础档疑含超纲词「supportive girlfriend」
+  ch05 where are you and where is my money.md [基础] 基础档疑含超纲词「billionaire」
+  ch05 where are you and where is my money.md [?] 词汇节外有 18 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+  ✅ 本章命中 170 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+ch04 the hare.md: 10/10 in ch04 text
+ch05 where are you and where is my money.md: 10/10 in ch05 text
+
+######## 主会话独立复验：ohp_strict + ohp_scan + 第二实现
+=== ohp_strict 自检 ===
+
+✅ 阻断型 0 处
+
+【阻断线索】必须逐条回原文定案
+========================================================================
+  （无）
+
+========================================================================
