@@ -246,7 +246,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 **《Only a Monster》（Vanessa Len，A&U Children 2021，ISBN 1761063669）精读完工 ＋ 独立五步审查结论**（目录 only-a-monster-by-vanessa-len）
 
-**规模**：25 章 md（每章 6 块引语）＋ 3 篇总览（概述／金句精选 25 条／情感节点 8 节点）＋ `text/` 25 件 ＋ epub 1；本轮 13 个 commit 均在本地，**未 push**。
+**规模**：25 章 md（每章 6 块引语）＋ 3 篇总览（概述／金句精选 25 条／情感节点 8 节点）＋ `text/` 25 件 ＋ epub 1；本书相关 16 个 commit 均在本地，**未 push**。
 
 **完工门禁**（gate.sh EXIT=0）：引语 172/172（100%）、`--full` 整串取证 0、词表 FAIL(0)、结构缺陷 0、空段 0、逐章归属 25/25。
 
@@ -257,6 +257,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 **结论**：可交付。审查局限（作者即审查者、子代理同上下文、e 步散文按高风险定向模式覆盖而非穷举、三个独立实现只验过 1 本书）见日志。
 
 **审查产物归位**：审查期自建的 `.tmp_spot/e_overview_qcheck.py` 已提升为 tracked 的 `scripts/check_overview_labels.py`（补 `> ` 形态与 `（chNN）` 标注两层，全库 440 本跑通），`.tmp_spot/` 整个删除并进 `.gitignore`；缺陷清单挪到 `.memory/reviews/`（**未接入 gate.sh**，接不接是另一个决定）。
+
+**收尾补交（2026-10-02）**：另补交 3 个本地 commit —— `09123e10b` 把 `extract_chapters.py` 三处 fail-open 修复全量入库（本书 `content.opf` 是带命名空间前缀形态 `<opf:item>` 43 次／无前缀 0 次，原正则会让 manifest 为空而「静默写入 0 章」；样板页实测 1221 字符、会整体偏移 1 章；`toc.ncx` 则是无前缀 32 处，该条属全库容错）、`a50ebe549` 板上该工具条目补入库更正与表述精确化、`7c2373e47` 补交 `scripts/_pick_vocab_rows.py`（把词表例句从「凭印象写」改成「逐字取」的生产工具，对应第 8 条主张）。本轮两次把自写的工作树改动误判为他人，判据教训（mtime 对比失效，应看行为指纹）见工作日志。
 
 **明细指引**：逐条清单见工作日志本书专节与 `.memory/reviews/2026-10-01-only-a-monster-五步审查.md`。
 
