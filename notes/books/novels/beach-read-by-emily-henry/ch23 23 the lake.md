@@ -11,7 +11,7 @@ source_text: "text/ch23 23 the lake.txt"
 - **一句话概括**：湖边一夜之后，January 与 Gus 在清晨的车程、路边餐馆的对话、酒吧的长谈与分头写作的几天里互认感情，最终在周五夜里一起跳进湖里，交换了「I love you」。
 - **情感弧线位置**：**关系公开与互认的兑现段**——前一段的赌约与试探在这里落定（两人已经互说 I love you），但外部压力并未撤走（出版社的交稿期限、双方家庭），所以本章不是终点，而是把私人幸福与公共义务并排放在一起。
 - **Tropes 兑现/反转**：**enemies-to-lovers 的兑现**（本章两人明确说出 I love you，且被叙述者自己算作「I almost love him → I'm starting to love him → I love him」的三拍递进）；**竞写赌约的反转**（赌约原是为了证明对方写不出自己的东西，本章变成两人共用同一张桌子的写作日程）；**「身体比言语先到」的 romance 套路**（`In the basement …` 段用两种节奏做对照）。
-- **人物弧线**：January 从「世界因为我讲得好听而变亮」走到**承认世界可能不好看、仍选择照样写**（`people aren't math problems` 与 `there will always be wildflowers`）；Gus 从「不信 happy ending」走到亲口说出 happy ending，并在她面前承认自己也在找证据。
+- **人物弧线**：January 从「世界因为我讲得好听而变亮」走到**承认世界可能不好看、仍选择照样写**（`people aren't math problems` 与 `there will always be wildflowers`）；Gus 从 ch12 那句 `impossible for me to believe in happy endings` 走到本章湖边的 `I love you.`——而「亲口说出 happy ending」要到 ch28 才发生。
 - **叙事手法**：**第一人称身体感开场 + 场景跳转 + 短信硬切**——开头是雨夜里帐篷中的近距离身体叙事，次日跳到车里、餐馆、书店、酒吧；Anya 的短信把私人时间硬切成截稿时间；结尾回到湖里，用一句回指把赌约反过来收束。
 
 ## 精读
@@ -28,7 +28,7 @@ source_text: "text/ch23 23 the lake.txt"
 **中文理解：**在地下室的时候，那感觉像我们 raced 急着吞掉彼此。这一次不同。
 **关键词：**racing to devour / This was different
 **为什么这样写：**用 `In the basement` 三个词把读者**瞬移回前面某一场**，再用 `racing to devour`（竞相吞噬）概括那一次的节奏，最后用只有三个词的短句 `This was different.` 截断。作者不解释哪里不同——**用句长的落差替代解释**，前面是长句（一个完整的动名词短语），后面是短句（一个判断），节奏本身就是「慢下来了」的证据。
-**读者视角提示：**`devour`（吞食）带**动物性**，这一句同时把前面那一场标为「不体面」。本章的湖边与之成对，读时要当成对照而不是升级。
+**读者视角提示：**`devour`（吞食）带**动物性**，这一句同时把前面那一场标为「不体面」。**紧邻前的黑暗中那一场**（本块原句 1 所在处）与之成对，读时要当成对照而不是升级。
 
 > **原句 3:** Instead, here we were in the car, Gus Everett holding on to my hand and not letting go.
 
@@ -65,9 +65,9 @@ source_text: "text/ch23 23 the lake.txt"
 **为什么这样写：**`change the goalposts`（移动球门线，本义是比赛中临时改动得分条件）在此被**当作策略明说**——作者不掩饰自己在改规则。后两句用**同一个条件句框架重复并只替换数字与动词**（`Two thousand` / `Four thousand`，`be in the same room` / `touch`），把「写作」写成一个**兑换表**。`we could` 这个情态动词把「奖励」说成**可能性**而非承诺，保留了讨价还价的余地。
 **读者视角提示：**这段说明本章的赌约已经不是竞赛，而是**两人合用的日程表**；与前文 `we were still bound to our deal` 里的 `bound`（被绑住）是一对。
 
-> **原句 8:** I almost love him. I’m starting to love him. I love him.
+> **原句 8:** And as we did, I thought over and over again, I almost love him. I’m starting to love him. I love him.
 
-**中文理解：**我几乎爱上他。我开始爱上他。我爱上他。
+**中文理解：**于是我像来时那样，一路反复地想：我几乎爱上他。我开始爱上他。我爱上他。
 **关键词：**almost / starting to / I love him
 **为什么这样写：**三个句子只改动**时态与情态**（`almost love` → `starting to love` → `love`），主语与宾语完全不变，构成本章最干净的一次**递进排比**。`over and over again`（一遍又一遍）说明这个自我修正不是想通一次就完，而是**在整段回湖的路上反复演练**。最后一句从否定与进行式落到**一般现在时的完成事实**，而 `I love him` 三个词与下一段他说的 `“I love you.”` 构成**精确的镜像**（我爱你／你爱我，he / you）。
 **读者视角提示：**这是叙述者在**不打折**的状态下承认感情，与 ch01 那句 `by twenty-eight years old, my story was perfect.` 互为反照——这次的好故事是她自己经历的。

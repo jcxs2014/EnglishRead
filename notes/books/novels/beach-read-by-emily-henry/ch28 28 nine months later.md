@@ -41,7 +41,7 @@ source_text: "text/ch28 28 nine months later.txt"
 
 **中文理解：**「January，January，」他唱着，牙齿冷得打颤。「就算没有雪花，我们也会一整年都有 January。」
 **关键词：**teeth clacking / there aren’t any snowflakes / all year long
-**为什么这样写：**这句是隔了数章的一次**回声**：湖边那夜她说的是「我不需要雪花……只要有 January 就够了」，到了这里，**同一条意思被改成他唱的歌**。名字被唱成两遍（`January, January`），而 `we’ll have January all year long` 把人名**当成季节**——「一整年都有」是承诺，代价是承认冬天没有雪。`his teeth clacking from the cold` 与 `Even if there aren’t any snowflakes` 并置：身体在受苦，语气在许诺。
+**为什么这样写：**这句是隔了数章的一次**回声**：湖边那夜**他**说的是「我不需要雪花……只要有 January 就够了」，到了这里，**同一条意思被改成他唱的歌**。名字被唱成两遍（`January, January`），而 `we’ll have January all year long` 把人名**当成季节**——「一整年都有」是承诺，代价是承认冬天没有雪。`his teeth clacking from the cold` 与 `Even if there aren’t any snowflakes` 并置：身体在受苦，语气在许诺。
 **读者视角提示：**注意主语从「我」变成「我们」——同一个愿望，**从一个人的坚持变成两个人的共识**。
 
 > **原句 5:** At least the last thing they’d seen, the meteor streaming toward Earth, had distracted them because of its beauty. They hadn’t been afraid. They’d been mesmerized. Maybe that was all you could hope for in life.
@@ -49,7 +49,7 @@ source_text: "text/ch28 28 nine months later.txt"
 **中文理解：**至少他们最后看见的东西——那颗正划过天空撞向地球的陨石——是因为它的美才让他们分了神。他们没有害怕。他们是被迷住了。也许人在一生里能指望的也就这个了。
 **关键词：**had distracted them / because of its beauty / mesmerized / that was all you could hope for
 **为什么这样写：**作者把**死因重写成一个误会的机制**：让他们分神的正是那道美。作者连续用三句极短的句子把判断**逐级收窄**——先否掉一种读法（`They hadn’t been afraid`），再给另一种（`They’d been mesmerized`），最后用 `Maybe that was all you could hope for in life.` 把小说结论**降级成人生尺度的一句弱建议**。同一段里 `distracted`（分神）先被当成灾祸的成因，转头又成为幸福的成因。
-**读者视角提示：**这正是全书的赌注在他那本书里的答案：**快乐不来自逃过灾难，而来自被美击中**。她在湖里跳水时对他说的那句，性质与这里完全相同。
+**读者视角提示：**这正是全书的赌注在他那本书里的答案：**快乐不来自逃过灾难，而来自被美击中**。他在本章末尾把它当成**回应**说出口（`If I were hit by a meteor while in the car with you, I would still think I went out on a high note.`），场景是车里，不是湖里。
 
 > **原句 6:** “For them,” he said. “They were happy. They had no regrets. They’d won. And they didn’t even have to see it coming. For all we know, they live in that moment forever, happy like that. Together and free.”
 

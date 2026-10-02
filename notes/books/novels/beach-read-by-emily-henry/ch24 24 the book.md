@@ -27,7 +27,7 @@ source_text: "text/ch24 24 the book.txt"
 
 **中文理解：**可在这座房子里，在他这第二段人生里，什么都有可能。
 **关键词：**anything was possible / here / his second life
-**为什么这样写：**这句是全章的**转轴**，前一段用很长的清单写父亲在俄亥俄的样子（`all biographies and cozy nights in`），作者用一个 **But** 加一个短句把清单作废。`anything was possible` 是**无限定的可能**，紧跟的 `here, in his second life` 用两个逗号把这个可能**牢牢钉在这一处**——家外的世界被排除掉了。`his second life` 三个词复述household里已经出现过的说法，把「父亲的第二段人生」当成一个**既定场所**来用。
+**为什么这样写：**这句是全章的**转轴**，前一段用很长的清单写父亲在俄亥俄的样子（`all biographies and cozy nights in`），作者用一个 **But** 加一个短句把清单作废。`anything was possible` 是**无限定的可能**，紧跟的 `here, in his second life` 用两个逗号把这个可能**牢牢钉在这一处**——家外的世界被排除掉了。`his second life` 三个词复述的是 ch01 里已经出现过的说法（`a secret second life`、`my father’s second life`），把「父亲的第二段人生」当成一个**既定场所**来用。
 **读者视角提示：**这个转轴把搜查从「找遗物」改写成「进入一个无法用第一段人生推断的区域」，也预告了后面保险箱的落空。
 
 > **原句 3:** Either way, she would know the combination.

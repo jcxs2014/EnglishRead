@@ -11,7 +11,7 @@ source_text: "text/ch27 27 the rain.txt"
 - **一句话概括**：长谈一夜之后 Shadi 下了判词「你早该去爱了」；January 等到 Gus 来敲门，开门却扑空，独自在暴雨里崩溃，随即听见音乐从隔壁传来——他在那边放《Nothing Compares 2 U》请她跳舞，把前一晚和 Naomi 的谈话讲清楚，两人最后在雨里学着那支一直没跳成的舞。
 - **情感弧线位置**：**高潮后的落定**——本章把上一章挂着的那个问题（Gus 的电话没回）解决掉，同时把「happy ending」这个赌注从**终点**降级成一个**临时选项**（`happy-for-now`）。低谷由「以为他走了」制造，只持续到她认出音乐为止。
 - **Tropes 兑现/反转**：**「雨中跳舞」的言情名场面兑现**（此前的赌约在本章末尾被认领）；**「他可能回头选前任」的插入反转**（他确实认真想过，然后改了主意）；**「我们要幸福到永远」的套路被换成「先享受暂时的幸福」**。
-- **人物弧线**：January 从 `I couldn’t know, but I could survive it.`（我可能撑不住）走到 `I feel like I need to relearn everything, especially how to be in love.`——她要学的不是他，是**怎么在爱里不把话说满**。Gus 从上一章那张关掉温度的脸，变回一个**为一件难事想了一整天**的人。
+- **人物弧线**：January 从 `I couldn’t know, but I could survive it.`（我撑得住）走到 `I feel like I need to relearn everything, especially how to be in love.`——她要学的不是他，是**怎么在爱里不把话说满**。Gus 从上一章那张关掉温度的脸，变回一个**为一件难事想了一整天**的人。
 - **叙事手法**：**门的两侧各写一段独白**（门内她与 Shadi，门外 Gus 的敲门与喊话）→ **开门扑空**制造人为低谷 → **声音先到、人后到**（音乐响起时他还没出现）→ 雨中的慢镜头对话收尾，末句认领此前那条赌约。
 
 ## 精读
@@ -42,7 +42,7 @@ source_text: "text/ch27 27 the rain.txt"
 **中文理解：**「从他家那边飘过来的。还有，我会读心。」
 **关键词：**Wafting / Also / I’m psychic
 **为什么这样写：**前半句是**没有谓语动词的名词短语**（飘自他家），后半句用 `Also` 这个**话语标记词**引出一句毫不相干的断言，于是「飘过来」和「我会读心」被并列为**两个并列的根据**。`Wafting`（飘送香气）本是餐厅上菜时用的词，挪来描述隔着一条路送来的气味，是把**服务业的词汇**用在家务场景上。`I’m psychic` 用极平的语调收尾，把一句玩笑说成**自我陈述**。
-**读者视角提示：**这句是全章的**降压阀**：她刚说完「我感觉我刚才看见了」这类重话，立刻用一个冷笑话把气压卸掉——这一晚 Shadi 一直在做这件事。
+**读者视角提示：**这句是全章的**降压阀**：**Shadi** 刚说完 `I can feel it.` 这类重话，立刻用 `Also, I’m psychic` 把气压卸掉——这一晚她一直在做这件事。
 
 > **原句 5:** “Please,” Gus said. “Please, January, I won’t keep asking if you don’t want me to, but please, talk to me.” He fell silent, and the whine of the wind stretched out like an ellipsis begging to add more.
 
