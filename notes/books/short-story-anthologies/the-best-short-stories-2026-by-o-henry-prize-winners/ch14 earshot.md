@@ -148,7 +148,7 @@ modified: "2026-10-02"
 - `life must be lived with a single heart`——全篇的前提：胎儿只认得自己那颗心跳
 - `a fusion, or rather, a cacophony`——自我更正，把"融合"当场降格成"噪音"
 - `This constant background noise formed a kind of partition between us`——把声音写成一道隔断
-- `for the first time in my life, I understood what the word music meant`——全篇唯一一次获得
+- `for the first time in my life, I understood what the word music meant`——叙述者头一次说清自己得到了什么
 - `the same profound calm that had emanated from those two strangers`——她羡慕的对象是餐厅里那对聋人夫妇
 - `I’m learning to live the life of an animal`——结尾把自己从人降格成动物
 

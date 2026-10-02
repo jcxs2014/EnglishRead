@@ -58,7 +58,7 @@ modified: "2026-10-02"
 ⑥ "My piano teacher seemed taken aback by what the record producer was asking me, but then they cut in to say, as if I was no longer present, “Well if I’m to be honest, they’re really all over the place. That is the problem."
 
 - 中文理解：制作人终于转向叙述者——这是叙述者等了一生的时刻。老师却像叙述者不在场一样插话，说对方撒得太开，这正是问题。否定只说了半句，理由要到后面才被补足：什么都在弹，作品还没成形，拉赫曼诺夫专辑录不了。
-- 句子结构：主句 My piano teacher seemed taken aback by what the record producer was asking me 中，what the record producer was asking me 是介词 by 的宾语从句；but then they cut in to say, as if I was no longer present, 用两个逗号把"插话"与"当我不在场"并列插在 say 之前；引号里的对话在句号处断成两截——前半 Well if I’m to be honest, they’re really all over the place. 是判断，后半 That is the problem. 只有五个词，是全块最短的一句。
+- 句子结构：主句 My piano teacher seemed taken aback by what the record producer was asking me 中，what the record producer was asking me 是介词 by 的宾语从句；but then they cut in to say, as if I was no longer present, 用两个逗号把"插话"与"当我不在场"并列插在 say 之前；引号里的对话在句号处断成两截——前半 Well if I’m to be honest, they’re really all over the place. 是判断，后半 That is the problem. 只有四个词，是全块最短的一句。
 - 关键词：cut in——"插话"；这个动作不是回答，是抢在对方开口之前先替对方下结论。
 - 表达方式：把致命的一击交给第三方说出口，并让当事人"不在场"；叙述者只能整句转述。
 - 为什么这样写：被否定的不是演奏，是叙述者这个人。而否定的理由是"还在进行中"——一个永远兑现不了、也永远不能反驳的形容词。
@@ -186,4 +186,4 @@ modified: "2026-10-02"
 
 ## 一句话总结
 
-一个被老师带到咖啡桌前、又当着唱片制作人的面按下去的年轻人，多年后把这件事写成了一篇文章，而老师写邮件来问的第一句话，恰恰是那篇文章的标题。
+一个被老师带到咖啡桌前、又当着唱片制作人的面按下去的年轻人，多年后把这件事写成了一篇文章，而老师找上门来问的第一件事，就是这篇文章是不是在写他。

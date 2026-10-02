@@ -19,7 +19,7 @@ modified: "2026-10-02"
 
 - 中文理解：故事从一个画布开始——如果这个村子的游乐场是一幅画，那画它的一定是 Norman Rockwell。接着作者立刻把画拆开：女孩脚上没有花边脚链，男孩的 T 恤有点旧，裸露的背上全是蚊子包；但即便如此，Rockwell 式的怀旧也看得懂贫穷，也看得懂"尽力而为"的美。
 - 句子结构：开头 `The moment before things started to unravel` 是名词短语作时间状语，后面接 before 加过去时的从句。主句 `Norman Rockwell might have painted our rez playground` 用 `might have + 过去分词` 表示对过去的推测；破折号后的 `little brown kids in tennies with jump ropes and marbles` 是同位补充（apposition）。`Sure,` 是插入语，后面三个名词短语并列（`no frilly anklets` / `the boys’ T-shirts a bit ratty` / `mosquito bites marring their bare backs`），第三项里 `as they bent to...` 是现在分词的伴随状语；最后 `but even Rockwell’s nostalgia understood poverty and the beauty of doing-the-best-you-can` 才是转折的主句。
-- 关键词：unravel——"解体、散架"；这个词被放在过去完成时之前，暗示"散架"这件事已经在发生了。
+- 关键词：unravel——"解体、散架"；作者把它放进一个过去时的从句里，而紧挨着它的 The moment before 已经把"还没散"的时间框划了出来。
 - 表达方式：先把主流文化的道具请进来（画家、画布、怀旧），再用脚链、T 恤、蚊子包把这些道具一一作废，最后让这个画家承认他画不出真实的样子。
 - 为什么这样写：Rockwell 在美国文化里等于"常态、温馨、无忧无虑"。作者借这幅画给全篇定调——这五个人活在一个人人都假装没裂缝的社会里，而散架已经开始了。
 
@@ -29,7 +29,7 @@ modified: "2026-10-02"
 - 句子结构：`“Can’t you just speak English?”` 是 can 引导的一般疑问句。叙述插入的部分 `Tired of his arrogance, but not ready to pick a fight` 由两个形容词短语（过去分词 Tired of... 与形容词 not ready...）并列作状语，说明她为什么这么回；主句是 `I add`，后面跟第二个引语 `Or dog or Michif or Anishinaabemowin or pig latin`，由四个 or 连接的名词并列而成（前三项为专名，末项故意小写）。
 - 关键词：arrogance——"傲慢"；这是她对 Wally 的评价，也是他们之间的关系定语：她崇拜他的手艺，讨厌他的语气。
 - 表达方式：用两种"听不懂"（他听不懂她、她拒绝配合他的规矩）合成一句话反击，而且反击用的全是对方的语言。
-- 为什么这样写：这一节讲的是她在两个世界之间没有位置——Wally 的棚屋是个不成学问的"非学校"，镇上的合并校又把她当展品。她把两种语言并排，正是她处境的形状。
+- 为什么这样写：这一节讲的是她在两个世界之间没有位置——Wally 的棚屋是个不成学问的"非学校"，镇上的学校又用"讲讲你们的文化"那一套把她当展品。她把两种语言并排，正是她处境的形状。
 
 ③ "I prepare to see myself in skintight leotard, cape, and tiara. But the sketch is the same goofy girl as in my mirror—V-neck T-shirt, wide forehead, low ponytail showing my ear piercings. Except for the steel of my shoulders, the knife glare of my eyes. Except for the scar fully visible on my wrist—a triumphant scar that looks like fire, like a lit sword."
 
@@ -43,7 +43,7 @@ modified: "2026-10-02"
 
 - 中文理解：拼被子的时候，她和母亲躲进一个"如果当初"的安全区：如果没有爱上 Mel，如果没有用 X-Acto 刀片割开自己的血管。收尾那句是她的自欺核心——我就是那个 Lanie，我们俩都喜欢她。
 - 句子结构：`I steer carefully` 用掌舵的比喻当主句谓语（carefully 修饰动词）。`We stay in the “what if” territory of before` 用 stay in 加一个抽象名词（territory）表示"待在某个抽象区域里"。后面两句是完全同构的虚拟式疑问：`What if I hadn’t fallen for Mel?` 与 `What if I hadn’t used an X-Acto knife to slit my drug-loving veins?`，都用 had not 加过去分词。末句 `I am that Lanie, and we both love being with her` 由两个分句用 and 连接，其中 we 指的是她和她母亲两个人。
-- 关键词：drug-loving——"爱嗑药的"；这个词挂在 veins 前面，把一道伤口也算进成瘾的一部分，是全篇最冷的一处用词。
+- 关键词：drug-loving——"爱嗑药的"；这个词挂在 veins 前面，把一道自残的伤口也算进了成瘾里，冷得不动声色。
 - 表达方式：用两个同构的 What if 把一段真实经历推成两个没发生过的分支，最后用一句"我们都喜欢那个人"把分支重新合并。
 - 为什么这样写：她不打算戒掉自伤，她打算喜欢它。这解释了后面为什么她宁可被别人看作有问题的那个，也要把 Melmo 的事藏着——被看穿就等于被迫把那个"没有伤口的 Lanie"交出去。
 
@@ -57,11 +57,11 @@ modified: "2026-10-02"
 
 ⑥ "I had to get my own fix first so I could think about how to get hers. But she couldn’t wait. Didn’t wait. Fuck, fuck, fuck all the hypocrite saviors who took her away. They won’t let me talk to her alone. She still needs me. I am building us a stronghold. Soon it will be ready. Then I will take care of her again."
 
-- 中文理解：Melmo 讲他和 Lanie 怎么互相拴住：先是每次 highs、每次 crash 都带着她一起，再一件件替她把东西换钱，直到她被那帮"假仁假义的救世主"带走。他骂完，转身宣布自己正在给她盖一座"据点"，还说很快就好。
-- 句子结构：`I had to get my own fix first so I could think about how to get hers` 是过去时的主句加 so 引导的目的状语从句，从句里再套一层 how 引导的名词性从句（how to get hers）。`But she couldn’t wait. Didn’t wait.` 第二句省掉主语与助动词，靠话题延续补齐。`Fuck, fuck, fuck all the hypocrite saviors who took her away` 把同一句话重复三次作插入语，后面接省略 that 的定语从句。末句 `I am building us a stronghold` 用现在进行时；宾语 us 把说话者自己也算进去。
+- 中文理解：Melmo 讲他为什么把 Lanie 拴住：他自己得先把毒拿到手（`get my own fix first`），否则腾不出手管她那份。他等不及她，也不再等了，于是骂那帮把她带走的"假仁假义的救世主"，说他们不肯让他单独跟她说话；又说不需要别人，她仍然需要他。骂完，他宣布自己正在盖一座"据点"，还说她仍然需要他、再一次由他来照顾。
+- 句子结构：`I had to get my own fix first so I could think about how to get hers` 是过去时的主句加 so 引导的目的状语从句，从句里再套一层 how 引导的名词性从句（how to get hers）。`But she couldn’t wait. Didn’t wait.` 第二句省掉主语与助动词，靠话题延续补齐。`Fuck, fuck, fuck all the hypocrite saviors who took her away` 把同一句话重复三次作插入语，后面接省略 that 的定语从句。`They won’t let me talk to her alone.` 与 `She still needs me.` 是两个极短的无连词陈述句。末句 `I am building us a stronghold` 用现在进行时；宾语 us 把说话者自己也算进去。
 - 关键词：stronghold——"据点、要塞"；他以为自己在保护她，读者看到的是他正在把她钉在原地。
-- 表达方式：先把自己写成被拆散的一方，再用三个重复的粗口骂那些拆散他们的人，最后用一句平静的将来时宣布自己的计划。
-- 为什么这样写：这一段是全篇最需要读者自己动手的地方——叙述者说的和他做的之间有一道缝，而作者不去缝它。Melmo 不是一个可怜的鬼魂，他是一个正在伤害活人的原因，这道缝不补上，后面 Trish 与 Wally 那些自我辩解的段落才立得住。
+- 表达方式：先给自己开脱，再用三个重复的粗口骂人，然后连着两个极短句收束，最后用一句平静的将来时宣布自己的计划。
+- 为什么这样写：这一段是全篇最需要读者自己动手的地方——叙述者说的和他做的之间有一道缝，而作者不去缝它。Melmo 不是一具可怜的亡魂，他是一个生前正把另一个人往下拖的人；这道缝不补上，后面 Trish 与 Wally 那些自我辩解的段落才立得住。
 
 ⑦ "Mel was only Mel, wasn’t he? Mostly enemy to me. We both felt that, didn’t we? “He…” I stumble a little. “He had family issues and we—Wally, Lanie, and Pud, uh, Patrick, and I didn’t have, um, resources to help. We had to back away because…because…”"
 

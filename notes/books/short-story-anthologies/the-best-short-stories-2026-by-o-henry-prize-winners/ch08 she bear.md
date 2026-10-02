@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：俄罗斯小镇上一个在林子里丢下发夹的女孩被一头熊掳走，在熊窝里过了一整个冬天、生下一个长得像熊崽却有一双绿眼睛的女儿；她带着女儿逃进另一座城市、再婚并开起五金店，女儿则被猎人收养、几经转卖，最后在马戏场练成靠识字和猜诗人挣口粮的明星熊；多年后，母女在同一座马戏场对上眼，一句话没说就抱在一起。
+- **一句话概括**：俄罗斯小镇上一个在林子里丢下发夹的女孩被一头熊掳走，在熊窝里过了整个秋天和冬天、生下一个长得像熊崽却有一双绿眼睛的女儿；她带着女儿逃进另一座城市、再婚并开起五金店，女儿则被猎人收养、几经转卖，最后在马戏场练成靠识字和猜诗人挣口粮的明星熊；多年后，母女在同一座马戏场对上眼，一句话没说就抱在一起。
 - **情感弧线位置**：全篇是一个闭合的圆环——离群、被掳、驯化、挣脱、切断、重逢。作者把最沉的一笔放在母女逃上火车那一段（女儿盯着窗外黑下来的林子，眼神是恨，衬衫上还洇出两处湿印）；最高的一笔是最后那个没有一句话的拥抱。
 - **Tropes 兑现/反转**：兑现了"异类被人类同化"（熊学做人，女孩学熊），但**反转了团圆**——女孩回到人类社会后主动切断那段记忆，从不向丈夫提起；真正的团圆不在母亲身边，而在马戏场，而且认出彼此的是那头熊。
 - **人物弧线**：人类女儿从"用逃学跟母亲赌气的女孩"变成"能说服母亲把卖房的钱花在自己身上、独自把五金店开起来的母亲"；熊的女儿从"被装在兽圈里讨拥抱的幼崽"变成"能与驯兽师配合解填字游戏、按口令表演的明星"。两个人真正交换的不是话，是各自身上对方那部分身体特征。
@@ -41,7 +41,7 @@ modified: "2026-10-02"
 
 ④ "When she finally opens the door, the Bear hands her the hair clip, decorated with leaves and pine cones. He really put some effort into it. The Bear tells her that he wants to take her into the forest with him. And if she doesn’t agree to go, he’ll kill her."
 
-- 中文理解：敲门之后，她的开门动作前面挂着一个"终于"，说明她戴着耳机、跟着音乐唱了很久才听见。熊把发夹还给她，上面还粘着树叶和松果——熊确实为这件事花了心思。接着是全篇最冷的一句威胁：带她进林子，不答应就杀她。她跟走了，理由不是怕，是赌气。
+- 中文理解：敲门之后，她的开门动作前面挂着一个"终于"，说明她这会儿在听音乐、跟着唱，起初根本没听见敲门声。熊把发夹还给她，上面还粘着树叶和松果——熊确实为这件事花了心思。接着是全篇最冷的一句威胁：带她进林子，不答应就杀她。她跟走了，理由不是怕，是赌气。
 - 句子结构：`When she finally opens the door` 是时间状语从句加主句；主句是双宾语结构（间接宾语 her 加直接宾语 the hair clip），宾语后面接分词短语 `decorated with leaves and pine cones` 作后置定语；`tells her that...` 是 that 宾语从句；`if she doesn’t agree to go` 是 if 条件状语从句，主句用情态动词 `he’ll kill her`。
 - 关键词：`decorated`——熊把人用的小物件做成了聘礼的样子；`he’ll kill her`——整句威胁只有几个词，用情态动词直接落地，前面没有任何铺垫。
 - 表达方式：先给一个体贴的动作，再给一句不解释的威胁，中间不写任何过渡。
@@ -57,7 +57,7 @@ modified: "2026-10-02"
 
 ⑥ "She makes a gesture people call “flinging up the arms” and cries. The daughter carefully selects human words, as if she is a foreigner, and tells her mother to pack her things. She knows if she doesn’t leave now, the Bear will track her down and find her in this town."
 
-- 中文理解：她走回城里的公寓，母亲在家。她做了一个被叫作"把胳膊甩起来"的动作并哭了，然后用挑选过的、像外国人一样生硬的词，要母亲收拾东西——她知道现在不走，熊就会在这座城里找到她。
+- 中文理解：她走回小镇上的公寓，母亲在家。她做了一个被叫作"把胳膊甩起来"的动作并哭了，然后用挑选过的、像外国人一样生硬的词，要母亲收拾东西——她知道现在不走，熊就会在这座城里找到她。
 - 句子结构：`a gesture people call “flinging up the arms”` 是省略关系代词的定语从句（people call 后省略 that）修饰 gesture；`as if she is a foreigner` 是 as if 方式状语从句，用 be 动词而非实义动词；末句把 if 条件状语从句整个塞进宾语从句里，主句是 `the Bear will track her down and find her in this town`。
 - 关键词：`selects`——她"挑"词而不是"找"词，这个动词说明她清楚自己已经不算正常人类；`as if she is a foreigner`——她在自己家里像外国人。
 - 表达方式：用母亲给女儿的动作手势"命名"来完成重逢；她重新学会的第一个社交动作是哭和甩胳膊，而不是拥抱。
