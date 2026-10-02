@@ -1,0 +1,618 @@
+# A Ghost a Day by F+W Media — 全书完工门禁原始输出
+
+书目录：notes/books/short-story-anthologies/a-ghost-a-day-by-f-w-media
+epub：notes/books/short-story-anthologies/a-ghost-a-day-by-f-w-media/library/A Ghost a Day_ 365 True Tales of the Spectral, Supernatural, and Just Plain Scary! (2010, F+W Media) - libgen.li.epub
+md 件数：365 ｜ text 正文：365 ｜ text 全量：368（含 3 件装置页）
+生成时间：2026-10-03
+
+```text
+### 1 verify_quotes.py <书目录> <epub>
+ch01 bones of general mad anthony wayne.md: 3/3 ✅
+ch02 the keeper of gibraltar point lighthouse.md: 3/3 ✅
+ch03 the bouncer of the bridge café.md: 3/3 ✅
+ch04 the e street unwelcomer.md: 3/3 ✅
+ch05 deadly skies.md: 3/3 ✅
+ch06 haunted derby.md: 3/3 ✅
+ch07 vivia thomas s revenge.md: 3/3 ✅
+ch08 the bloody pit.md: 3/3 ✅
+ch09 the ridges.md: 3/3 ✅
+ch10 phantom warriors.md: 3/3 ✅
+ch100 the skeletons of prague.md: 3/3 ✅
+ch101 the dolphin hotel.md: 3/3 ✅
+ch102 the green lady.md: 3/3 ✅
+ch103 the potsford gibbet.md: 3/3 ✅
+ch104 titanic exhibit.md: 3/3 ✅
+ch105 lincoln.md: 3/3 ✅
+ch106 minot s ledge lighthouse.md: 3/3 ✅
+ch107 mary surratt.md: 3/3 ✅
+ch108 mcpike mansion.md: 3/3 ✅
+ch109 bridge of sighs.md: 3/3 ✅
+ch11 tan hill inn.md: 3/3 ✅
+ch110 casa de estudillo.md: 3/3 ✅
+ch111 mark twain s museum.md: 3/3 ✅
+ch112 ghost brother intervenes.md: 3/3 ✅
+ch113 the fatal judgment.md: 3/3 ✅
+ch114 lady elliot island.md: 3/3 ✅
+ch115 dragsholm slot.md: 3/3 ✅
+ch116 barnley pub.md: 3/3 ✅
+ch117 the haunted house of rosalynn carter.md: 3/3 ✅
+ch118 hotel burchianti.md: 3/3 ✅
+ch119 lincoln special.md: 3/3 ✅
+ch12 the lost mother at the skirvin hotel.md: 3/3 ✅
+ch120 adolf hitler.md: 3/3 ✅
+ch121 crow rock.md: 3/3 ✅
+ch122 alcatraz.md: 3/3 ✅
+ch123 st simons lighthouse.md: 3/3 ✅
+ch124 the charging horseman.md: 3/3 ✅
+ch125 banta inn.md: 3/3 ✅
+ch126 dead against toll roads.md: 3/3 ✅
+ch127 theatre royal.md: 3/3 ✅
+ch128 the woodburn mansion.md: 3/3 ✅
+ch129 tintern abbey.md: 3/3 ✅
+ch13 the demon.md: 3/3 ✅
+ch130 history s first ghost hunter.md: 3/3 ✅
+ch131 the wallet man.md: 3/3 ✅
+ch132 pfister hotel.md: 3/3 ✅
+ch133 hospital horrors.md: 3/3 ✅
+ch134 farnsworth house.md: 3/3 ✅
+ch135 paranormal paws.md: 3/3 ✅
+ch136 the wunsche bros hotel and saloon.md: 3/3 ✅
+ch137 bernardsville public library.md: 3/3 ✅
+ch138 the haunted crossroads.md: 2/2 ✅
+ch139 tower of london.md: 3/3 ✅
+ch14 the screaming skull of burton agnes hall.md: 3/3 ✅
+ch140 the delta king.md: 3/3 ✅
+ch141 hull house.md: 3/3 ✅
+ch142 st bart s hospital.md: 3/3 ✅
+ch143 houska castle.md: 3/3 ✅
+ch144 gadsden high school.md: 3/3 ✅
+ch145 the witch s grave.md: 3/3 ✅
+ch146 ghost photograph verified.md: 3/3 ✅
+ch147 the heartland ghost.md: 3/3 ✅
+ch148 the moss beach distillery.md: 3/3 ✅
+ch149 cardinal beaton.md: 3/3 ✅
+ch15 the black dahlia at the biltmore hotel.md: 3/3 ✅
+ch150 heceta head lighthouse.md: 2/2 ✅
+ch151 st james theatre.md: 3/3 ✅
+ch152 fall hill.md: 3/3 ✅
+ch153 rueben s grave.md: 3/3 ✅
+ch154 viking longships.md: 3/3 ✅
+ch155 briggs lawrence county library.md: 3/3 ✅
+ch156 lyceum restaurant.md: 3/3 ✅
+ch157 the prostitute that lost her head.md: 3/3 ✅
+ch158 st augustine lighthouse.md: 3/3 ✅
+ch159 boston common.md: 3/3 ✅
+ch16 the franklin castle horror.md: 3/3 ✅
+ch160 the villisca ax murders.md: 3/3 ✅
+ch161 julian gold rush hotel.md: 3/3 ✅
+ch162 silent pool.md: 3/3 ✅
+ch163 devil stone inn.md: 3/3 ✅
+ch164 the woman in scarlet.md: 3/3 ✅
+ch165 tug hill annie put to rest.md: 3/3 ✅
+ch166 old ellerbe road school.md: 3/3 ✅
+ch167 marie laveaus.md: 3/3 ✅
+ch168 superman returns.md: 3/3 ✅
+ch169 ramoji film city.md: 3/3 ✅
+ch17 mercy brown the rhode island vampire.md: 3/3 ✅
+ch170 village inn.md: 3/3 ✅
+ch171 lizzie borden house.md: 3/3 ✅
+ch172 the ostrich inn.md: 3/3 ✅
+ch173 messenger ghost.md: 3/3 ✅
+ch174 the ghost of the los tiraditos.md: 3/3 ✅
+ch175 robert the doll.md: 3/3 ✅
+ch176 kells irish pub.md: 3/3 ✅
+ch177 uss hornet.md: 3/3 ✅
+ch178 ghost rider.md: 3/3 ✅
+ch179 the automobile that started world war i.md: 3/3 ✅
+ch18 romanian police point finger at ghosts.md: 3/3 ✅
+ch180 the murder of louisa fox.md: 3/3 ✅
+ch181 mount washington.md: 3/3 ✅
+ch182 the phantom surgery.md: 3/3 ✅
+ch183 captain joshua slocum.md: 3/3 ✅
+ch184 the ghost of jim morrison.md: 3/3 ✅
+ch185 fort constitution.md: 3/3 ✅
+ch186 the demon hounds.md: 3/3 ✅
+ch187 sedg emoor battlefield.md: 3/3 ✅
+ch188 thomas plater.md: 3/3 ✅
+ch189 major duncan campbell.md: 3/3 ✅
+ch19 the final decision.md: 3/3 ✅
+ch190 the vogue theatre.md: 3/3 ✅
+ch191 ghost throws teenager out of house.md: 3/3 ✅
+ch192 lokrum island.md: 3/3 ✅
+ch193 the ghost bride.md: 3/3 ✅
+ch194 the ghostly faces.md: 2/2 ✅
+ch195 the gas station specter.md: 3/3 ✅
+ch196 michael jackson s ghost appears on cnn.md: 3/3 ✅
+ch197 jumel mansion.md: 3/3 ✅
+ch198 the junkyard ghost.md: 3/3 ✅
+ch199 dale earnhardt sr s ghost saves son.md: 3/3 ✅
+ch20 the glenwood ambush.md: 3/3 ✅
+ch200 the haunted bed.md: 3/3 ✅
+ch201 portsmouth lighthouse.md: 3/3 ✅
+ch202 haunted house for sale.md: 3/3 ✅
+ch203 baron castle.md: 3/3 ✅
+ch204 gridley tunnel.md: 3/3 ✅
+ch205 oprah s studio.md: 3/3 ✅
+ch206 kimball castle.md: 3/3 ✅
+ch207 chez briann.md: 3/3 ✅
+ch208 killiecrankie pass.md: 3/3 ✅
+ch209 borley rectory.md: 3/3 ✅
+ch21 children of st mark s cemetery.md: 3/3 ✅
+ch210 devil s hopyard.md: 3/3 ✅
+ch211 hotel ben lomond.md: 3/3 ✅
+ch212 the blood countess.md: 3/3 ✅
+ch213 asheville high school.md: 3/3 ✅
+ch214 king william ii.md: 3/3 ✅
+ch215 the lioness of brittany.md: 3/3 ✅
+ch216 black shuck.md: 3/3 ✅
+ch217 hollywood s roosevelt hotel.md: 3/3 ✅
+ch218 the banshee.md: 3/3 ✅
+ch219 anne walker.md: 3/3 ✅
+ch22 the ss valencia.md: 3/3 ✅
+ch220 the veiled lady.md: 3/3 ✅
+ch221 the chase vault.md: 3/3 ✅
+ch222 palace of versailles.md: 3/3 ✅
+ch223 houghton mansion.md: 3/3 ✅
+ch224 fayette county courthouse.md: 3/3 ✅
+ch225 the mansion of torture.md: 3/3 ✅
+ch226 begging for mercy.md: 3/3 ✅
+ch227 dog town.md: 3/3 ✅
+ch228 the king.md: 3/3 ✅
+ch229 wicken fen.md: 3/3 ✅
+ch23 witness from the grave.md: 3/3 ✅
+ch230 brookdale lodge.md: 3/3 ✅
+ch231 the doppelganger.md: 3/3 ✅
+ch232 shanghai tunnels.md: 3/3 ✅
+ch233 goodleberg cemetery.md: 3/3 ✅
+ch234 the whaley house.md: 3/3 ✅
+ch235 banff springs hotel.md: 3/3 ✅
+ch236 pompeii.md: 3/3 ✅
+ch237 lemp mansion restaurant and inn.md: 2/2 ✅
+ch238 the venetian theatre.md: 3/3 ✅
+ch239 sheppton mine disaster.md: 3/3 ✅
+ch24 sir ernest shackleton.md: 3/3 ✅
+ch240 liberty hall museum.md: 2/2 ✅
+ch241 u s courthouse.md: 3/3 ✅
+ch242 the haunting of jack and janet smurl.md: 3/3 ✅
+ch243 jack the ripper s first victim.md: 3/3 ✅
+ch244 the white lady.md: 3/3 ✅
+ch245 belcourt castle.md: 3/3 ✅
+ch246 cooches bridge.md: 2/2 ✅
+ch247 old presque isle lighthouse.md: 2/2 ✅
+ch248 the winchester house.md: 3/3 ✅
+ch249 the haunted mirror.md: 2/2 ✅
+ch25 the mackenzie poltergeist.md: 3/3 ✅
+ch250 the decapitated ghost.md: 2/2 ✅
+ch251 our lady of leche church.md: 2/2 ✅
+ch252 the rock throwing poltergeist.md: 3/3 ✅
+ch253 the screaming skull of wardley hall.md: 2/2 ✅
+ch254 troy hill firehouse.md: 3/3 ✅
+ch255 cleopatra s needle.md: 3/3 ✅
+ch256 nicholas cage s haunted home.md: 2/2 ✅
+ch257 dungeon rock.md: 2/2 ✅
+ch258 culp s ghost.md: 3/3 ✅
+ch259 the old coot.md: 3/3 ✅
+ch26 the flying dutchman.md: 3/3 ✅
+ch260 patrick swayze.md: 3/3 ✅
+ch261 giles corey.md: 3/3 ✅
+ch262 the brown lady of raynham hall.md: 3/3 ✅
+ch263 the phantom funeral procession of red fort.md: 3/3 ✅
+ch264 the cook from hell.md: 3/3 ✅
+ch265 boggo road gaol museum.md: 3/3 ✅
+ch266 the lamplight hotel.md: 3/3 ✅
+ch267 andrew irvine.md: 3/3 ✅
+ch268 history repeats itself.md: 3/3 ✅
+ch269 lincoln s tomb.md: 3/3 ✅
+ch27 lillian collins hospital.md: 3/3 ✅
+ch270 the ghost bus of ladb roke grove.md: 3/3 ✅
+ch271 bookstore specter.md: 3/3 ✅
+ch272 bindon hill.md: 2/2 ✅
+ch273 the millionaire s ghost.md: 3/3 ✅
+ch274 the black forest haunting.md: 3/3 ✅
+ch275 the ghosts of curacoa.md: 3/3 ✅
+ch276 david carradine.md: 2/2 ✅
+ch277 saxby s gale.md: 2/2 ✅
+ch278 the haunted police station.md: 3/3 ✅
+ch279 the ringing bells.md: 2/2 ✅
+ch28 the witch of rose hall mansion.md: 3/3 ✅
+ch280 the ghost of poe.md: 2/2 ✅
+ch281 filming at little round top.md: 3/3 ✅
+ch282 mackinac island.md: 3/3 ✅
+ch283 daughters of utah pioneers museum.md: 3/3 ✅
+ch284 ringwood manor.md: 2/2 ✅
+ch285 larnach castle.md: 3/3 ✅
+ch286 the olde angel inn.md: 3/3 ✅
+ch287 the sorority house spirits.md: 2/2 ✅
+ch288 the grey library ghost.md: 3/3 ✅
+ch289 john wilkes booth house.md: 3/3 ✅
+ch29 niddry street vaults.md: 3/3 ✅
+ch290 waverly hills sanitarium.md: 3/3 ✅
+ch291 the haunted mausoleum.md: 3/3 ✅
+ch292 lenin s ghost.md: 3/3 ✅
+ch293 country house restaurant.md: 2/2 ✅
+ch294 the ghost of lord horatio nelson.md: 2/2 ✅
+ch295 tigg er s return.md: 2/2 ✅
+ch296 the spectral battle of edgehill.md: 3/3 ✅
+ch297 toys r us.md: 3/3 ✅
+ch298 eastern state penitentiary.md: 3/3 ✅
+ch299 the haunted swing.md: 2/2 ✅
+ch30 hospital specter.md: 3/3 ✅
+ch300 porsgrunn nursing home.md: 2/2 ✅
+ch301 the canmore opera house.md: 3/3 ✅
+ch302 rms rhone.md: 3/3 ✅
+ch303 phantom lights.md: 3/3 ✅
+ch304 houdini s ghost.md: 3/3 ✅
+ch305 the haunted highway.md: 3/3 ✅
+ch306 lake county coroner s office.md: 3/3 ✅
+ch307 the overexposed.md: 3/3 ✅
+ch308 the boathouse.md: 3/3 ✅
+ch309 ram island lighthouse.md: 2/2 ✅
+ch31 resurrection mary.md: 3/3 ✅
+ch310 the bones in the wall.md: 3/3 ✅
+ch311 full moon.md: 3/3 ✅
+ch312 streepers tavern.md: 3/3 ✅
+ch313 the baker hotel.md: 2/2 ✅
+ch314 the walker house.md: 3/3 ✅
+ch315 tomb of the unknown warrior.md: 3/3 ✅
+ch316 the haunting of crooked creek.md: 3/3 ✅
+ch317 amityville house.md: 3/3 ✅
+ch318 blue mist.md: 3/3 ✅
+ch319 harry s road house.md: 2/2 ✅
+ch32 thirteen lost souls.md: 3/3 ✅
+ch320 suicide bridge.md: 3/3 ✅
+ch321 ohio state reformatory.md: 3/3 ✅
+ch322 haunted route 66.md: 3/3 ✅
+ch323 hickory hill.md: 3/3 ✅
+ch324 america s stonehenge.md: 3/3 ✅
+ch325 windham restaurant.md: 3/3 ✅
+ch326 the fox sisters.md: 3/3 ✅
+ch327 santorio carlos duran.md: 3/3 ✅
+ch328 sachs bridge.md: 3/3 ✅
+ch329 point state park.md: 3/3 ✅
+ch33 haunted painting.md: 3/3 ✅
+ch330 hummel park.md: 2/2 ✅
+ch331 11 11.md: 2/2 ✅
+ch332 five to four fred.md: 2/2 ✅
+ch333 hotel del coronado.md: 3/3 ✅
+ch334 nam koo terrace.md: 3/3 ✅
+ch335 the screaming woman.md: 3/3 ✅
+ch336 the gurdon light.md: 3/3 ✅
+ch337 the disney world ghost.md: 3/3 ✅
+ch338 faces in the waves.md: 3/3 ✅
+ch339 captain tony s saloon.md: 3/3 ✅
+ch34 york treasurer s house.md: 3/3 ✅
+ch340 hollywood cemetery.md: 3/3 ✅
+ch341 selling grandpa s ghost.md: 3/3 ✅
+ch342 the dakota.md: 3/3 ✅
+ch343 fort garry hotel.md: 3/3 ✅
+ch344 the silverpilen.md: 3/3 ✅
+ch345 st andrews on the red church.md: 2/2 ✅
+ch346 the whitney restaurant.md: 3/3 ✅
+ch347 the lost viking ship.md: 3/3 ✅
+ch348 george washington.md: 3/3 ✅
+ch349 santa maria del popolo church.md: 3/3 ✅
+ch35 liberace.md: 3/3 ✅
+ch350 the bell witch.md: 3/3 ✅
+ch351 the driskill hotel.md: 3/3 ✅
+ch352 family plagued by spirits.md: 3/3 ✅
+ch353 henry the viii s ghost caught on cctv.md: 3/3 ✅
+ch354 the enfield demon.md: 3/3 ✅
+ch355 sprague mansion.md: 3/3 ✅
+ch356 the stagecoach tavern.md: 3/3 ✅
+ch357 the deer park tavern.md: 3/3 ✅
+ch358 wawel castle.md: 2/2 ✅
+ch359 mistletoe bough ghost.md: 3/3 ✅
+ch36 the spectral usher.md: 3/3 ✅
+ch360 ghostly tourists.md: 3/3 ✅
+ch361 lord calvert s mansion.md: 3/3 ✅
+ch362 the diver.md: 3/3 ✅
+ch363 flight 401.md: 2/2 ✅
+ch364 saddam s ghost.md: 3/3 ✅
+ch365 joesefa s head.md: 2/2 ✅
+ch37 boars head pub.md: 3/3 ✅
+ch38 the lady in black.md: 3/3 ✅
+ch39 altoona railroad.md: 3/3 ✅
+ch40 haunted dybbuk box.md: 3/3 ✅
+ch41 the maternity ward of grace hospital.md: 3/3 ✅
+ch42 the sultan of new orleans.md: 3/3 ✅
+ch43 hammond castle.md: 3/3 ✅
+ch44 the lady lovibond.md: 3/3 ✅
+ch45 the st valentine s day massacre.md: 3/3 ✅
+ch46 ocean born mary.md: 3/3 ✅
+ch47 the corrosion hangar bay.md: 3/3 ✅
+ch48 headless catherine.md: 3/3 ✅
+ch49 the toolmaker of tomasska street.md: 3/3 ✅
+ch50 jacob funeral home.md: 3/3 ✅
+ch51 isle of the dead.md: 3/3 ✅
+ch52 the eunice williams covered bridge.md: 3/3 ✅
+ch53 boot hill graveyard.md: 3/3 ✅
+ch54 the six monks at the alamo.md: 3/3 ✅
+ch55 smithills hall.md: 3/3 ✅
+ch56 la boheme bed and breakfast.md: 3/3 ✅
+ch57 the hollywood wax museum.md: 3/3 ✅
+ch58 kuala kangsar perak.md: 3/3 ✅
+ch59 skidaway island.md: 3/3 ✅
+ch60 mushroom tunnel.md: 3/3 ✅
+ch61 ghosts of madrid.md: 3/3 ✅
+ch62 stage fright.md: 3/3 ✅
+ch63 the hermitage.md: 3/3 ✅
+ch64 the country tavern.md: 3/3 ✅
+ch65 fob salerno.md: 3/3 ✅
+ch66 phantom monk.md: 3/3 ✅
+ch67 the barnstable house.md: 3/3 ✅
+ch68 spirit saves daughter.md: 3/3 ✅
+ch69 goody bassett and phelps manor.md: 3/3 ✅
+ch70 the haunted hockey hall of fame.md: 3/3 ✅
+ch71 the historic richmond bridge.md: 3/3 ✅
+ch72 york street jail.md: 3/3 ✅
+ch73 the ghostly neighbor.md: 3/3 ✅
+ch74 hello kitty.md: 3/3 ✅
+ch75 the bus passenger.md: 3/3 ✅
+ch76 the old ferry boat inn.md: 3/3 ✅
+ch77 the ozone disco club.md: 3/3 ✅
+ch78 the skull point bats.md: 3/3 ✅
+ch79 charles bridge.md: 3/3 ✅
+ch80 bobby mackey s music world.md: 3/3 ✅
+ch81 amtrak haunting.md: 3/3 ✅
+ch82 the octagon house.md: 3/3 ✅
+ch83 hms eurydice.md: 3/3 ✅
+ch84 dudleytown.md: 2/2 ✅
+ch85 grey s anatomy.md: 3/3 ✅
+ch86 archerfield airport.md: 3/3 ✅
+ch87 ivan the terrible.md: 3/3 ✅
+ch88 the seventh gate to hell.md: 3/3 ✅
+ch89 the duel.md: 3/3 ✅
+ch90 brandon lee.md: 3/3 ✅
+ch91 the witch of st john s.md: 3/3 ✅
+ch92 execution rocks light house.md: 3/3 ✅
+ch93 the hamptom lillibridge house.md: 3/3 ✅
+ch94 the haunting in connecticut.md: 3/3 ✅
+ch95 the mason chronometer.md: 3/3 ✅
+ch96 the ghost chicken.md: 3/3 ✅
+ch97 the concord colonial inn.md: 3/3 ✅
+ch98 the realtor.md: 3/3 ✅
+ch99 the witch of the wookey caves.md: 3/3 ✅
+
+=== 总计 1059/1059 引文可核实（100%）；完全干净文件 365/365；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+### 2 verify_quotes.py --full（取证，不参与退出码）
+ch82 the octagon house.md: 3/3 ✅
+ch83 hms eurydice.md: 3/3 ✅
+ch84 dudleytown.md: 2/2 ✅
+ch85 grey s anatomy.md: 3/3 ✅
+ch86 archerfield airport.md: 3/3 ✅
+ch87 ivan the terrible.md: 3/3 ✅
+ch88 the seventh gate to hell.md: 3/3 ✅
+ch89 the duel.md: 3/3 ✅
+ch90 brandon lee.md: 3/3 ✅
+ch91 the witch of st john s.md: 3/3 ✅
+ch92 execution rocks light house.md: 3/3 ✅
+ch93 the hamptom lillibridge house.md: 3/3 ✅
+ch94 the haunting in connecticut.md: 3/3 ✅
+ch95 the mason chronometer.md: 3/3 ✅
+ch96 the ghost chicken.md: 3/3 ✅
+ch97 the concord colonial inn.md: 3/3 ✅
+ch98 the realtor.md: 3/3 ✅
+ch99 the witch of the wookey caves.md: 3/3 ✅
+
+=== 总计 1059/1059 引文可核实（100%）；完全干净文件 365/365；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+### 3 check_vocab.py <书目录>
+  词条行合计: 6807
+  --- FAIL (0) ---
+  --- WARN (227) ---
+  提示型明细：基础档「疑含超纲词」共 227 条（词长 ≥9 字符启发式，正当词，未改）
+  抽样（前 10 条）：
+      ch01 bones of general mad anthony wayne.md [基础] 基础档疑含超纲词「successful campaign」
+      ch02 the keeper of gibraltar point lighthouse.md [基础] 基础档疑含超纲词「bootlegger」
+      ch03 the bouncer of the bridge café.md [基础] 基础档疑含超纲词「seafood restaurant」
+      ch04 the e street unwelcomer.md [基础] 基础档疑含超纲词「ghostly apparition」
+      ch04 the e street unwelcomer.md [基础] 基础档疑含超纲词「distraction」
+      ch05 deadly skies.md [基础] 基础档疑含超纲词「lone passenger」
+      ch06 haunted derby.md [基础] 基础档疑含超纲词「establishment」
+      ch09 the ridges.md [基础] 基础档疑含超纲词「criminally insane」
+      ch10 phantom warriors.md [基础] 基础档疑含超纲词「policemen」
+      ch10 phantom warriors.md [基础] 基础档疑含超纲词「reporters」
+
+### 4 check_entities.py <书目录>
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+### 5 check_chapter_quotes.py --book-dir <书目录>
+全章扫描: 解析引语块 1059，命中本章 1059（100%）
+✅ 全部引语均归属正确章节
+
+### 6 corruption_scan.py <书目录> --quiet
+
+=== 编辑损坏扫描（a-ghost-a-day-by-f-w-media）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+### 7 sweep_full.py <书目录> --quiet
+=== 引语整串 flat 比对（a-ghost-a-day-by-f-w-media）===
+  参照集：text/ 逐章（365 章，可定章） + epub 交叉验证
+  ✅ 本章命中 1059 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+### 8 check_nav_layer.py <书目录>
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+### 9 sweep_analysis_inline.py <书目录>
+=== 分析层行内英文逐字核查（a-ghost-a-day-by-f-w-media）===
+  参照集：text/（368 个提取件） + epub 交叉验证 ；扫 365 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：8997 个表格行、7462 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 7757 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 76
+
+### 10 check_anchor.py <书目录>
+=== 关键词锚定自查（a-ghost-a-day-by-f-w-media）===
+  扫 365 个 md，1059 个引语块，1059 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（368 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+### 11 audit_structure.py <书目录>
+=== 精读结构扫描（a-ghost-a-day-by-f-w-media）===
+  扫 365 个 md、1059 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 3
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+### 12 audit_numbers.py <书目录>
+=== 计数断言核查（a-ghost-a-day-by-f-w-media）===
+  扫 365 个 md；抓到断言 135 条（含不可机械核查的年龄/百分比 133 条）
+  词数口径：连写算 1 词（`well-known`=2、`don't`=1）—— 差 1 极可能是口径而非错误
+  ❌ 不符（差 ≥2）0 ｜ ⚠️ 差 1 0 ｜ ❓ 参照串未解析未判 2 ｜ ⚪ 不可机械核查 133
+  ❓ ch174 the ghost of the los tiraditos:10  「十个字」参照串未解析 —— 需人判
+  ❓ ch275 the ghosts of curacoa.md:25  「一个词」参照串未解析 —— 需人判
+  ⚪ ch05 deadly skies.md:5  「三十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch05 deadly skies.md:16  「三十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch11 tan hill inn.md:5  「十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch11 tan hill inn.md:23  「十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch111 mark twain s museum.md:5  「二十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch111 mark twain s museum.md:23  「二十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch111 mark twain s museum.md:26  「二十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch135 paranormal paws.md:5  「十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch135 paranormal paws.md:30  「十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch135 paranormal paws.md:33  「十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch135 paranormal paws.md:66  「十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch153 rueben s grave.md:5  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch153 rueben s grave.md:9  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch153 rueben s grave.md:10  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch153 rueben s grave.md:16  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch153 rueben s grave.md:19  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch153 rueben s grave.md:67  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch16 the franklin castle horror.md:5  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch16 the franklin castle horror.md:5  「五十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch16 the franklin castle horror.md:16  「十五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch17 mercy brown the rhode island va:5  「十九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch175 robert the doll.md:5  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch175 robert the doll.md:7  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch175 robert the doll.md:10  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch175 robert the doll.md:16  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch18 romanian police point finger at:23  「六十八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch180 the murder of louisa fox.md:5  「十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch180 the murder of louisa fox.md:16  「十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch191 ghost throws teenager out of h:5  「五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch191 ghost throws teenager out of h:5  「十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch191 ghost throws teenager out of h:16  「五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch191 ghost throws teenager out of h:16  「十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch191 ghost throws teenager out of h:71  「十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch198 the junkyard ghost.md:5  「三十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch198 the junkyard ghost.md:16  「三十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch217 hollywood s roosevelt hotel.md:5  「36 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch217 hollywood s roosevelt hotel.md:6  「36 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch217 hollywood s roosevelt hotel.md:10  「36 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch217 hollywood s roosevelt hotel.md:16  「36 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch220 the veiled lady.md:5  「二十八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch220 the veiled lady.md:7  「二十八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch220 the veiled lady.md:10  「二十八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch220 the veiled lady.md:23  「二十八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch221 the chase vault.md:5  「两岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch221 the chase vault.md:10  「两岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch221 the chase vault.md:23  「两岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch230 brookdale lodge.md:5  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch230 brookdale lodge.md:7  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch230 brookdale lodge.md:10  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch230 brookdale lodge.md:23  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch230 brookdale lodge.md:71  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch231 the doppelganger.md:5  「十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch231 the doppelganger.md:10  「十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch231 the doppelganger.md:16  「十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch231 the doppelganger.md:75  「十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch239 sheppton mine disaster.md:5  「五十八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch239 sheppton mine disaster.md:5  「二十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch239 sheppton mine disaster.md:10  「五十八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch239 sheppton mine disaster.md:10  「二十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch239 sheppton mine disaster.md:23  「五十八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch239 sheppton mine disaster.md:23  「二十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch248 the winchester house.md:5  「八十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch248 the winchester house.md:6  「八十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch248 the winchester house.md:7  「八十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch248 the winchester house.md:10  「八十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch248 the winchester house.md:30  「八十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch248 the winchester house.md:72  「八十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch249 the haunted mirror.md:5  「九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch249 the haunted mirror.md:9  「九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch249 the haunted mirror.md:10  「九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch249 the haunted mirror.md:23  「九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch249 the haunted mirror.md:64  「九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch250 the decapitated ghost.md:5  「七十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch250 the decapitated ghost.md:10  「七十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch250 the decapitated ghost.md:23  「七十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch250 the decapitated ghost.md:61  「七十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch261 giles corey.md:5  「八十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch261 giles corey.md:10  「八十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch261 giles corey.md:23  「八十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch261 giles corey.md:72  「八十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch265 boggo road gaol museum.md:5  「十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch265 boggo road gaol museum.md:10  「十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch265 boggo road gaol museum.md:16  「十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch268 history repeats itself.md:5  「十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch268 history repeats itself.md:7  「十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch268 history repeats itself.md:10  「十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch268 history repeats itself.md:16  「十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch268 history repeats itself.md:18  「十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch268 history repeats itself.md:68  「十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch285 larnach castle.md:5  「二十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch285 larnach castle.md:5  「二十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch285 larnach castle.md:10  「二十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch285 larnach castle.md:10  「二十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch285 larnach castle.md:16  「二十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch285 larnach castle.md:16  「二十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch285 larnach castle.md:54  「二十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch291 the haunted mausoleum.md:5  「七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch291 the haunted mausoleum.md:10  「七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch291 the haunted mausoleum.md:23  「七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch291 the haunted mausoleum.md:68  「七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch304 houdini s ghost.md:5  「五十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch304 houdini s ghost.md:7  「五十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch304 houdini s ghost.md:10  「五十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch304 houdini s ghost.md:30  「五十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch317 amityville house.md:5  「九十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch317 amityville house.md:10  「九十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch317 amityville house.md:30  「九十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch317 amityville house.md:33  「九十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch33 haunted painting.md:5  「四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch33 haunted painting.md:23  「四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch33 haunted painting.md:25  「四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch33 haunted painting.md:76  「四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch341 selling grandpa s ghost.md:5  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch341 selling grandpa s ghost.md:10  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch341 selling grandpa s ghost.md:16  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch361 lord calvert s mansion.md:5  「七十五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch361 lord calvert s mansion.md:10  「七十五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch361 lord calvert s mansion.md:16  「七十五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch40 haunted dybbuk box.md:5  「103 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch40 haunted dybbuk box.md:7  「103 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch46 ocean born mary.md:5  「九十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch46 ocean born mary.md:30  「九十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch46 ocean born mary.md:32  「九十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch64 the country tavern.md:5  「二十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch64 the country tavern.md:16  「二十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch70 the haunted hockey hall of fame:5  「十九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch70 the haunted hockey hall of fame:16  「十九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch74 hello kitty.md:5  「二十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch74 hello kitty.md:16  「二十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch75 the bus passenger.md:5  「九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch75 the bus passenger.md:16  「九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch90 brandon lee.md:5  「二十八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch94 the haunting in connecticut.md:5  「十八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+
+### 13 check_short_quotes.py <书目录>
+=== 短引语兜底核对（a-ghost-a-day-by-f-w-media）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+### 14 verify_corpus.py <书目录> --expect 365 --expect-source "epub spine + NCX 逐日序列实测"
+  （人物锚点双向 333 组的完整验收在开工第 1 步已完成，见本目录 2026-09-30 语料验收记录；
+    此处为完工时复跑，--anchors 未重复传入 333 组，故只出 2 条 WARN）
+        首| DECEMBER 31, 1890 JOESEFA'S HEAD
+        末| The legend of Jose Gaspar is celebrated yearly in Tampa, Florida, at the Gasparilla Pirate Festi
+  
+  WARN  疑似页码 bleed 于 1 件（ch178）——选句与例句须避开粘连点
+  WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+  
+  === P0-0 语料验收: PASS（FAIL 0 / WARN 2）===
+  
+
+```
