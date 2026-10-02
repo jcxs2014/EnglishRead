@@ -1,0 +1,164 @@
+# Beartooth 第3条提交门禁 原始输出  2026-10-02
+# lane: 完整 lane（library/*.epub 存在）
+
+$ python3 scripts/verify_quotes.py <book> <epub>
+00_情感节点.md: 16/16 ✅
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 17/17 ✅
+ch01 black bear.md: 8/8 ✅
+ch02 back to the truck.md: 8/8 ✅
+ch03 the burned spruce.md: 8/8 ✅
+ch04 false dawn.md: 8/8 ✅
+ch05 the chain across the driveway.md: 8/8 ✅
+ch06 bird woman.md: 5/5 ✅
+ch07 she stays.md: 8/8 ✅
+ch08 a dream is nothing.md: 6/6 ✅
+ch09 microburst.md: 8/8 ✅
+ch10 first delivery.md: 8/8 ✅
+ch11 free wood.md: 8/8 ✅
+ch12 hardest winter.md: 8/8 ✅
+ch13 the scot comes calling.md: 8/8 ✅
+ch14 cut the mailbox.md: 8/8 ✅
+ch15 beauty queen wave.md: 6/6 ✅
+ch16 the thaw and the firewood.md: 9/9 ✅
+ch17 the tow truck.md: 6/6 ✅
+ch18 the pipes and the river deal.md: 8/8 ✅
+ch19 carrying the rafts in.md: 8/8 ✅
+ch20 before dawn.md: 8/8 ✅
+ch21 the four men across the meadow.md: 8/8 ✅
+ch22 the gun in the creek.md: 8/8 ✅
+ch23 a solemn promise.md: 8/8 ✅
+ch24 wearing himself out.md: 8/8 ✅
+ch25 all the way to the gulf.md: 8/8 ✅
+ch26 the perfect rock.md: 8/8 ✅
+ch27 the pills became the problem.md: 8/8 ✅
+ch28 the cast off.md: 8/8 ✅
+ch29 the letter on the porch.md: 6/6 ✅
+ch30 in the summer of my nineteenth year.md: 8/8 ✅
+ch31 every stop on the wheel read bankrupt.md: 8/8 ✅
+ch32 license plates.md: 7/7 ✅
+ch33 there were accusations.md: 8/8 ✅
+ch34 the guy with the kilt.md: 8/8 ✅
+ch35 straight answers.md: 8/8 ✅
+ch36 the old shepherd cabin.md: 8/8 ✅
+ch37 the empty cabin, the coroner, and the bagpipes.md: 7/7 ✅
+ch38 the fires made their own wind.md: 6/6 ✅（另有 1 条短引语未校验）
+ch39 the burned letter.md: 4/4 ✅
+ch40 this dull persistent ache.md: 4/4 ✅
+ch41 she is staying.md: 7/7 ✅
+ch42 coffee on the step.md: 4/4 ✅
+ch43 the same water.md: 5/5 ✅
+ch44 the bison skull.md: 7/7 ✅
+ch45 bison antiquus.md: 8/8 ✅
+ch46 two backpacks by the door.md: 8/8 ✅
+ch47 bones under the glass case.md: 8/8 ✅
+ch48 to walk is to gather treasure.md: 8/8 ✅
+ch49 his fathers old tool belt.md: 7/7 ✅
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 393/393 引文可核实（100%）；完全干净文件 51/51；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+$ python3 scripts/check_vocab.py <book>
+词条行合计: 925
+
+--- FAIL (0) ---
+
+--- WARN (38) ---
+  ch01 black bear.md [基础] 基础档疑含超纲词「gallbladder」
+  ch01 black bear.md [基础] 基础档疑含超纲词「binoculars」
+  ch05 the chain across the driveway.md [基础] 基础档疑含超纲词「shoulders」
+  ch06 bird woman.md [基础] 基础档疑含超纲词「meatballs」
+  ch07 she stays.md [基础] 基础档疑含超纲词「disappearing」
+  ch09 microburst.md [基础] 基础档疑含超纲词「sourdough」
+  ch09 microburst.md [基础] 基础档疑含超纲词「chickadees」
+  ch10 first delivery.md [基础] 基础档疑含超纲词「trampoline」
+  ch11 free wood.md [基础] 例句不含词头「venison」
+  ch13 the scot comes calling.md [基础] 例句不含词头「ladder」
+  ch14 cut the mailbox.md [基础] 基础档疑含超纲词「paperwork」
+  ch15 beauty queen wave.md [基础] 基础档疑含超纲词「passenger」
+  ch21 the four men across the meadow.md [基础] 基础档疑含超纲词「waterfall」
+  ch22 the gun in the creek.md [基础] 基础档疑含超纲词「porcupines」
+  ch22 the gun in the creek.md [基础] 基础档疑含超纲词「binoculars」
+  ch23 a solemn promise.md [基础] 基础档疑含超纲词「downstream」
+  ch25 all the way to the gulf.md [基础] 基础档疑含超纲词「insurance」
+  ch27 the pills became the problem.md [基础] 基础档疑含超纲词「stockpiling」
+  ch27 the pills became the problem.md [基础] 基础档疑含超纲词「elaborate」
+  ch27 the pills became the problem.md [基础] 基础档疑含超纲词「midwinter」
+  ch28 the cast off.md [基础] 基础档疑含超纲词「insurance」
+  ch30 in the summer of my nineteenth year.md [基础] 基础档疑含超纲词「guardrail」
+  ch32 license plates.md [基础] 基础档疑含超纲词「registered」
+  ch32 license plates.md [基础] 基础档疑含超纲词「treasurer」
+  ch34 the guy with the kilt.md [基础] 基础档疑含超纲词「leftovers」
+  ch35 straight answers.md [基础] 基础档疑含超纲词「girlfriend」
+  ch36 the old shepherd cabin.md [基础] 基础档疑含超纲词「elevation」
+  ch36 the old shepherd cabin.md [基础] 基础档疑含超纲词「investment」
+  ch36 the old shepherd cabin.md [基础] 基础档疑含超纲词「tablecloth」
+  ch36 the old shepherd cabin.md [基础] 基础档疑含超纲词「woodstove」
+  ch37 the empty cabin, the coroner, and the bagpipes.md [基础] 基础档疑含超纲词「detective」
+  ch39 the burned letter.md [基础] 基础档疑含超纲词「somewhere」
+  ch40 this dull persistent ache.md [基础] 基础档疑含超纲词「mountains」
+  ch41 she is staying.md [进阶] 例句不含词头「tailgate」
+  ch43 the same water.md [基础] 基础档疑含超纲词「afternoon」
+  ch43 the same water.md [基础] 基础档疑含超纲词「cottonwoods」
+  ch47 bones under the glass case.md [进阶] 例句不含词头「artifacts」
+  ch47 bones under the glass case.md [基础] 基础档疑含超纲词「skeletons」
+
+$ python3 scripts/check_entities.py <book>
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+$ python3 scripts/corruption_scan.py <book>
+
+=== 编辑损坏扫描（beartooth-by-callan-wink）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+$ python3 scripts/sweep_full.py <book> --quiet
+=== 引语整串 flat 比对（beartooth-by-callan-wink）===
+  参照集：text/ 逐章（49 章，可定章） + epub 交叉验证
+  ✅ 本章命中 360 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+
+$ python3 scripts/check_chapter_quotes.py --book-dir <book>
+⚠️  全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 360，命中本章 360（100%）
+✅ 全部引语均归属正确章节
+
+$ python3 scripts/check_nav_layer.py <book> --per-chapter
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+$ python3 scripts/verify_overview_quotes.py <book> <epub>
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 16/16 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 17/17 ✅
+
+=== 总览引文 33/33 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+$ python3 scripts/check_overview_full.py <book> <epub>
+=== 总览整串核查（beartooth-by-callan-wink）===
+  参照集：text/ 逐章（49 章） ｜ 总览文件 3 个
+  A 整串：命中 33 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 17 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 16 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+$ python3 scripts/audit_structure.py <book> --quiet
+=== 精读结构扫描（beartooth-by-callan-wink）===
+  扫 52 个 md、398 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+$ python3 scripts/verify_corpus.py <book> --expect 49 ...
+=== 语料层验收（P0-0）: beartooth-by-callan-wink ===
+text/ 件数: 49
+  [1] 件数 49 == 预期 49  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 15 组 / 互查 210 组  OK
+  [3] 首末句抽印已跳过（--quiet-edges）
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
