@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 - **一句话概括**：她一个人回房，怀疑自己是不是把「怪物」这个人设穿到脱不下来；浇活了一株星芽之后，妹妹 Mara 破例请她进自己的房间，让她看清墙上的黑、听她当面拆穿骗局，并留下一瓶催泪的药剂。
-- **情感弧线位置**：紧接竞技场之后的余波，也是她头一次被人当面点破「你知道你在演」。
+- **情感弧线位置**：紧接竞技场之后的余波，也是她被人当面点破「你知道你在演」的那一场。
 - **人物弧线**：Mancella 从戏是不是砸了的自我怀疑，走到被姐姐按住之后承认自己还得练习悲伤，再到接过那瓶假眼泪。
 - **叙事手法**：第一人称限知；倒计时副标题与前一章同一数字；场景三段（自己房间→妹妹房间→地板上的临时晚饭）。
 - **视角**：Mancella 第一人称；本章与前后两章的 Silver 视角相间。
@@ -42,7 +42,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** But it turns out 把前一句的期待整个翻面；all he ever saw 用「他所见的全部」把范围锁死在一个人身上，句子因此不像抱怨，更像一次迟到的诊断。
 
-**读者视角提示：** 全章最短的一句承担了最重的转折，因为它把责任从她的演技挪到了观看者身上。
+**读者视角提示：** 这么短的一句把责任从她的演技挪到了观看者身上，本章的转折点因此不在她身上。
 
 > **原句 4:** "Then I haul myself up, drag over a chair, and stand on my tiptoes until I can grasp the handle and pull it down, because right now I could really use the reminder that I did save something. One starsprout. One little flower that I yanked from the earth in the dead of night to spare it from the inferno."
 

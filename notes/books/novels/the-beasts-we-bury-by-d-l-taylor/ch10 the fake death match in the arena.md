@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 - **一句话概括**：他被自己的计划挤到走廊上假装擦花瓶，眼看 Mance 在竞技场上一度真要把 Vie 的脖子拧断；Rooftop 当众报出死讯后他冲出宫门，在树篱迷宫里冲着追来的 Mance 发泄愤怒，却发现对方只是把他的颈骨掰回了原位。
-- **情感弧线位置**：全书里敌我关系头一次不是靠立场维持——Silver 在这一章开始替对方的疼痛负责。
+- **情感弧线位置**：敌我关系在这里不再只由立场维持——Silver 在这一章开始替对方的疼痛负责。
 - **人物弧线**：Silver 从计划被人抢了的不平，走到在观众席上承认自己看不下去她挨打，再到迷宫中把愤怒泼错了人；结尾他没得到解释，只得到一个先他一步离开的背影。
 - **叙事手法**：第一人称限知；倒计时副标题；场景从走廊转到竞技场侧室，再转到宫外的树篱与玻璃园。
 - **视角**：Silver 第一人称；本章处于偶数章序列，与前后两章的 Mancella 视角交替。
@@ -62,7 +62,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** Even more alarming 把情绪分成两级，并把这一级标成更糟；a part of me 用「一部分」替他留了退路，作者不给这句加上谴责，也不给开脱。
 
-**读者视角提示：** 这是本章里他对敌对阵营成员产生的第一次身体反应；在此之前他反复说的是自己恨 Cliff 一家有多深。
+**读者视角提示：** 在此之前他反复说的是自己恨 Cliff 一家有多深；这一句里身体先于立场动了。
 
 > **原句 6:** "“The magic has a bloodlust,” she tells me. “And at a certain point in the fight, that bloodlust takes over. My sister stops guarding. She stops evading. She becomes the fight. Watch.”"
 
@@ -70,9 +70,9 @@ modified: "2026-10-02"
 
 **关键词：** the magic has a bloodlust, that bloodlust takes over, My sister stops guarding, She becomes the fight, Watch
 
-**为什么这样写：** 解释用四个短句推进，每句只加一个动作（接管→不守→不躲→变成战斗），最后一个单词的命令收口；Watch 把读者从旁观的位置上拽了起来。
+**为什么这样写：** 这段解释由六个短句推进，只加四个动作（接管→不守→不躲→变成战斗），随后用一个单词的命令收口；Watch 把读者从旁观的位置上拽了起来。
 
-**读者视角提示：** 她说完这句，Mance 确实换了个人——他在本章里第一次不是在看一场决斗，而是在看一次失控。
+**读者视角提示：** 她说完这句，Mance 确实换了个人——他此刻看的已经不是一场决斗，而是一次失控。
 
 > **原句 7:** "Then Mance takes Vie’s head into her hands and whips it to the side, and I will never forget the thunderous crack that her bones make as they snap beneath the Prospective Seconde’s fingers."
 
@@ -146,4 +146,4 @@ modified: "2026-10-02"
 
 ## 一句话总结
 
-本章让假死在情感上付出真代价：Vie 的脖子是真断，Mance 的眼泪是真的，Silver 也在迷宫里第一次为她失控；唯独那句 Is it just me, or did her teary eyes flick in my direction when she said that? 提醒读者，整场戏的剧本还没写完。
+本章让假死在情感上付出真代价：Vie 的脖子是真断，Mance 的眼泪是真的，Silver 也在迷宫里为她失控；唯独那句 Is it just me, or did her teary eyes flick in my direction when she said that? 提醒读者，整场戏的剧本还没写完。

@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 - **一句话概括**：他在船舷上爬上来，她把两人捂暖、把 Alect 当年的寻宝旧事讲给他听、用野花扎成花束撒进水里；她问他为什么不配接受感谢，他说自己做了某件不能收回的事，两人几乎吻到一起时被雷声打断，最后只剩一间屋子和一张床。
-- **情感弧线位置**：倒计时最后一段里少有的暖场，可它落在一个正在被拆掉的谎言上——靠得越近的两个人，藏得越深。
+- **情感弧线位置**：倒计时走到这几天时出现的一段暖场，可它落在一个正在被拆掉的谎言上——靠得越近的两个人，藏得越深。
 - **人物弧线**：Mancella 从被救回来的庆幸，走到用花束给死者计数，再到把「我按行动评判一个人」当成自己的判准按下去；结尾她仍留着选择，没有做决定。
 - **叙事手法**：第一人称限知；倒计时副标题与前两章同一数字；场景两段（船舷→舱室），中间用一场暴雨切开。
 - **视角**：Mancella 第一人称；本章处于奇数章序列，与前后两章的 Silver 视角相间。
@@ -16,7 +16,7 @@ modified: "2026-10-02"
 
 > **原句 1:** "Warmth curls in my stomach like steam over a mug of cocoa, and I revel in the feeling."
 
-**中文理解：** 他还在往船上爬，她就已经觉得暖——那股暖意在胃里蜷起来，像热可可杯口冒起的那层汽，她由着这份感觉发了一会儿呆。
+**中文理解：** 他还在往船上爬，她就已经觉得暖——那股暖意在胃里蜷起来，像热可可杯口冒起的那层汽，她就在这份感觉里沉了一会儿。
 
 **关键词：** Warmth curls in my stomach, like steam over a mug of cocoa, I revel in the feeling
 
@@ -26,7 +26,7 @@ modified: "2026-10-02"
 
 > **原句 2:** "He went to the Broken Citadel and gained the power to form a ship out of nothing, one that could ride on land as if it were sea."
 
-**中文理解：** 这艘船有来历：族谱里一位贵人有大约一天半的继承资格，他去了 Broken Citadel，换来凭空造出一艘船的能力——那船能在陆地上走，像走海面一样。
+**中文理解：** 这艘船有来历：一部讲 Jungle Realm 继承序的论著里，提到一位贵族曾有大约一天半的继承资格；他去了 Broken Citadel，换来凭空造出一艘船的能力——那船能在陆地上走，像走海面一样。
 
 **关键词：** went to the Broken Citadel, form a ship out of nothing, ride on land as if it were sea
 
@@ -46,7 +46,7 @@ modified: "2026-10-02"
 
 > **原句 4:** "I loved how the trees grew back after they were trampled. I thought maybe I could be like that. I could take the harsh reality I was given and find a way to peacefully grow in spite of it."
 
-**中文理解：** 她说这个地方原本是她心里的一处避难所，即使 Alect 走后不再来，她也还会偶尔想起；她喜欢的是那些被踩过之后又能长回来的树，觉得自己也许可以像它们一样——接过被塞到手里的那个残酷现实，然后在它的照样安和平地长出来。
+**中文理解：** 她说这个地方原本是她心里的一处避难所，即使 Alect 走后不再来，她也还会偶尔想起；她喜欢的是那些被踩过之后又能长回来的树，觉得自己也许可以像它们一样——接过被塞到手里的那个残酷现实，然后即便有它压着，也安安静静地长出来。
 
 **关键词：** the trees grew back after they were trampled, I thought maybe I could be like that, take the harsh reality I was given, peacefully grow in spite of it
 
@@ -56,7 +56,7 @@ modified: "2026-10-02"
 
 > **原句 5:** "“You’re not the boat,” he says. “You’re one of the strongest people I know.”"
 
-**中文理解：** 她还没把那个比喻问完，他就给了答案：你不是那艘船，你是我认识的人里最强的之一。
+**中文理解：** 她还没把那个比喻问完，他就给了答案：「你不是那艘船，你是我认识的人里最强的之一。」
 
 **关键词：** You’re not the boat, You’re one of the strongest people I know
 
@@ -82,7 +82,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 整句的平衡点放在 as long as we do it together 上，坠落本身因此无所谓，可怕的只剩落单；My whole body 一句把心跳、皮肤和姿势合并成一次整体的苏醒，句子读起来像失重。
 
-**读者视角提示：** 这是本章她头一次主动，也是全书里她最接近承认自己动心的一段；作者随即让他的手掌挡住她的锁骨。
+**读者视角提示：** 这一段里由她先开的口，作者随即让他的手掌挡住她的锁骨——推进的人换成她，收住的却是他。
 
 > **原句 8:** "“Something I couldn’t take back,” he whispers. “Something that changed everything.”"
 

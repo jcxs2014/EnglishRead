@@ -52,7 +52,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 两个现在分词 trying… trying… 先立起普通人的正当性，再由 but 一转，理由从钱不够一路滑到 he slaughtered everyone in it；To make an example 单独立成短句，把手段和目的分开摆，读者的恶心落在最后那个词组上。
 
-**读者视角提示：** 这是 Mancella 第一次从外人嘴里听见父亲的手段，而说这话的人当着她的面把话说完；她当场道歉并许诺自己会不一样，紧接着的回应就把这个许诺折了价。
+**读者视角提示：** 这是 Mancella 在外人嘴里听见父亲手段的场面，而说这话的人当着她的面把话说完；她当场道歉并许诺自己会不一样，紧接着的回应就把这个许诺折了价。
 
 > **原句 5:** "I’ve heard a lot of promises from Primes. Enough to know how little they’re worth."
 

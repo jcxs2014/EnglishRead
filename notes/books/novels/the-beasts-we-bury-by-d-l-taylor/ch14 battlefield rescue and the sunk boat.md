@@ -22,7 +22,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 整句套在一个 if 从句里，把后悔推迟到一个不存在的过去时；launching itself 把鬣狗写成主动扑出的施动者，而 might have 让后悔停在半路，没有落到「我后悔了」。
 
-**读者视角提示：** 紧跟着的 This is what I get for caring. 把这份后悔接到关心上——本章里他头一次为别人的事冲进战场。
+**读者视角提示：** 紧跟着的 This is what I get for caring. 把这份后悔接到关心上——这一章他为别人的事冲进了战场。
 
 > **原句 2:** "So I pry a stone out of the ground and chuck it at the side of his head."
 
