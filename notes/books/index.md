@@ -9,7 +9,6 @@ title: 书单
 ## 长篇小说
 | 书名 | 作者 |
 |------|------|
-| [365 Days of Wonder](books/novels/365-days-of-wonder-by-r-j-palacio/) | R. J. Palacio |
 | [A Cozy Holiday](books/novels/a-cozy-holiday-by-denise-stone-and-kels-stone/) | Denise Stone & Kels Stone |
 | [Adam, Mine.](books/novels/adam-mine-by-k-ancrum/) | K. Ancrum |
 | [Adrift](books/novels/adrift-by-ellie-pond/) | Ellie Pond |
