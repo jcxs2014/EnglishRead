@@ -164,7 +164,12 @@ ch04 Epilogue.md:   8/8  in ch04 text
 证据链（全部可复现）：
 
 1. `OEBPS/text/9780062416216_Part_2a.xhtml` 末句 = `Because now he knew where his treasure was.` —— 知道了宝藏在哪，**但没挖**。
-2. 文件清单从 `Part_2a` **直接跳到 `Epilogue`**，无 `Part_2b` / `Part_3`。
+2. ~~文件清单从 `Part_2a` 直接跳到 `Epilogue`，无 `Part_2b` / `Part_3`。~~
+   ⚠️ **本条推断已于同日实测证伪，勿再引用**：逐项复查后确认——（a）zip 全部条目已列尽，无隐藏文件；（b）`toc.ncx` 14 个 `src` 全部命中真实文件；（c）OPF manifest 与 zip 一致。**三者均无悬空引用**。
+   且命名体例是 **`X` = 分隔页、`Xa` = 正文**（`Part_1` 471 B + `Part_1a` 70 KB；`Part_2` 473 B + `Part_2a` 175 KB），
+   所以 `Part_2a` 就是 Part Two 的全部正文，**从来就不存在 `Part_2b`**。
+   ⇒ epub 的**结构声明是自洽的**，缺的是**内容本身**（Calibre 转制时源文本即已残缺）。
+   ⇒ 正确表述：**内容级腰斩**，不是「文件被裁」。后续判读按此口径。
 3. `Epilogue` 开头 = `The boy reached the small, abandoned church just as night was falling.` —— **已在教堂**。两者之间无过渡。
 4. `Epilogue` 内男孩对风说：`You even left a bit of gold at the monastery so I could get back to this church. The monk laughed when he saw me come back in tatters.` ⇒ 指向三件在 `Part_2a` 里**全无**的事：炼金术士在修道院留金、男孩衣衫褴褛地回来、炼金术士全程暗中跟随。
 5. `Melchizedek` 全书仅 4 次命中且全在 Part One ⇒ 国王第二次出场（总览反复依赖）**不在语料内**。
@@ -177,7 +182,15 @@ ch04 Epilogue.md:   8/8  in ch04 text
 - `00_概述:40` 后半（风暴把他赶到陌生地方 / 那位老人就是那位国王）
 - `00_情感节点:90` 后半（炼金术士说去追你的梦想 / 国王为他祈祷）
 
-⚠️ **`verify_corpus` 报 PASS 是它的已知盲区**——它验「件数 = 预期篇目数」，而 `Part_2a` 是一个**完整但被截断**的文件，件数对得上。**单件内部截断它抓不到。**
+⚠️ **`verify_corpus` 报 PASS 是它的已知盲区**——它验「件数 = 预期篇目数」，而 `Part_2a` 是一个**完整但内容残缺**的文件，件数对得上。**单件内部截断它抓不到。**
+
+⚠️ **不要为它建自动化门禁**：已实测过一个启发式（「按 spine 找『本件出现 ≥2 次、此前所有件从未出现』的专有名词」），全库扫完 **929 处报警、真缺陷 0 处**——小说每章引入新人物是常态，判据与截断无关联，只会灌假红。本节第 3、5 条**只能人工判读**，单本书两分钟。
+
+**已完成的处置（2026-10-02）**：上列 4 处断言已就地加 `〔⚠️ 源 epub 在此处截断，本句无原文可核——见 library 缺陷说明〕` 标记；
+完整诊断（证据 / 为何 verify_corpus 抓不到 / 换源的 5 步路径）见
+`notes/books/novels/the-alchemist-by-paulo-coelho/library/源文件缺陷说明.md`
+（⚠️ 该路径被 `.gitignore` 第 122 行 `notes/books/**/library/` 忽略 ⇒ **本机本地文件，不在 git 里**；
+跨会话的权威载体是本节 + 记忆 #2044 / #2045）。
 
 **建议处置**：换一本完整 epub，重跑 `extract_chapters.py` + `verify_corpus.py`，再重跑本清单 d 步。
 
