@@ -20,6 +20,9 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from chapter_text_path import require_chapter_text
+
 CIRCLED = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕"
 
 # 中文理解标记：冒号可在粗体内（`**中文理解：**`）也可在粗体外（`**中文理解**：`）
@@ -33,13 +36,13 @@ def build_pool(book: str):
         found = 0
         n = int(re.search(r"ch(\d+)", f).group(1))
         # 章号位数不定：2 位（ch08_）与 3 位（ch076_，全书连号）都要认。
-        # 2026-09-28 i-have-some-questions-for-you 实测：'%02d' 匹配不到 ch076，
-        # 脚本直接 IndexError。真源是文件名自带的位数，不是 ch 的位数。
-        hits = [g for w in (3, 2, 1)
-                for g in glob.glob(f"{book}/text/ch{n:0{w}d}_*.txt")]
-        if not hits:
-            raise SystemExit(f"❌ text/ 里找不到 ch{n} 的提取件")
-        txt = open(sorted(hits)[0], encoding="utf-8").read()
+        # ⚠️ 2026-10-02 根因修复：定位逻辑收口到 chapter_text_path.require_chapter_text。
+        # 原写 glob(f"…/ch{n:0{w}d}_*.txt") **只认下划线**，而根 AGENTS.md 规定精读
+        # 文件名的唯一分隔符是**空格** ⇒ 用空格命名的书一律 SystemExit「找不到 chN 的
+        # 提取件」。同一缺陷在 vocab_candidates / check_chapter_quotes 一并复发，
+        # 三处打补丁会漏第四处，故收口为单一实现（分隔符 _ / . / 空格 + 章号多位数）。
+        tp = require_chapter_text(book, n)
+        txt = open(tp, encoding="utf-8").read()
         flat = re.sub(r"[^a-z0-9]", "", txt.lower())
         # ⚠️ 2026-09-28 修正：本工具原写 `\*\*中文理解\*\*：`（冒号在粗体**外**），
         # 而 Paris Deception 全书用 `**中文理解：**`（冒号在粗体**内**）——

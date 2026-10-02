@@ -37,6 +37,9 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from chapter_text_path import require_chapter_text
+
 # ── 高频常见词：出现在这里的不算「高级」 ────────────────────────────────
 COMMON = set("""
 the and you that have this for not with but they from like was were been being
@@ -94,27 +97,16 @@ remember remembers understand understands mean means meant seem seems
 
 
 def chapter_text(book_dir, ch):
-    """定位 text/chNN*.txt（书内命名多为 chNN_slug.txt）"""
-    tdir = os.path.join(book_dir, 'text')
-    if not os.path.isdir(tdir):
-        sys.exit('❌ 没有 text/：%s' % tdir)
-    # 章号位数不定：text/ 里既有 ch08_（2 位）也有 ch076_（3 位，全书连号），
-    # 而命令行 --ch 传的是**不带前导零的整数**。所以不能按 ch 的位数定宽度——
-    # ch76 既可能指 ch076_ 也可能指 ch76_。改为**两边都试**：
-    #   ① 3 位补零 ch076  ② 原样 ch76  ③ 2 位补零 ch076→ch76
-    # 2026-09-28 i-have-some-questions-for-you 实测：只认 '%02d' 时，
-    # 全书连号的 3 位提取件一律 sys.exit('找不到')——假红型工具缺陷，先修工具。
-    for width in (3, 2, 1):
-        tag = str(ch).zfill(width)
-        cands = [f for f in sorted(os.listdir(tdir))
-                 if re.match(r'^ch%s[_. ]' % tag, f) or re.match(r'^ch%s$' % tag, f[:-4])]
-        if cands:
-            break
-    else:
-        cands = [f for f in sorted(os.listdir(tdir)) if f.startswith('ch%s' % str(ch).zfill(3))]
-    if not cands:
-        sys.exit('❌ text/ 里找不到 ch%s 的提取件' % ch)
-    return os.path.join(tdir, cands[0])
+    """定位 text/chNN*.txt —— 收口到 chapter_text_path（唯一共用实现）。
+
+    本函数此前内联一份判定（只认 `_`/`chNN` 前缀），与 gen_overview、
+    check_chapter_quotes 的同一缺陷在一个批次里复发三次：
+    根 AGENTS.md 规定精读文件名唯一分隔符是**空格**（`ch01 1 the house.md`），
+    而三份代码都只认下划线 ⇒ 用空格命名的书一律 SystemExit「找不到 chN 的提取件」
+    （假红型：工具坏了而内容没问题）。
+    共用实现见 scripts/chapter_text_path.py：分隔符 `_` / `.` / 空格 + 章号 1/2/3/4 位。
+    """
+    return require_chapter_text(book_dir, ch)
 
 
 def sentences(src):

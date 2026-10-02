@@ -202,13 +202,13 @@ def check_chapter(nn, md_path, text_dir):
             if os.path.exists(c):
                 tp = c; break
         if tp is None:
-            # 分隔符兼容：`_` / `.` / **空格**（AGENTS「精读 md 文件名唯一分隔符＝单空格」
-            # 的同款约定，text/ 提取件同样用空格；此前只认 `_`，全库用空格命名的书
-            # 一律 SystemExit「missing chNN*.txt」＝假红型工具缺陷）
-            matches = [f for f in os.listdir(text_dir)
-                       if re.match(rf'^ch{tag}[_. ].*\.txt$', f)]
-            if matches:
-                tp = os.path.join(text_dir, matches[0])
+            # 收口：分隔符 _ / . / 空格 + 章号 1/2/3/4 位（chapter_text_path 唯一实现）
+            # ⚠️ 2026-10-02：本判据此前内联一份「只认 _」的 glob，与 gen_overview、
+            # vocab_candidates 的同一缺陷在一个批次内复发三次（假红型）⇒ 收口。
+            import sys as _sys, os as _os
+            _sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+            from chapter_text_path import find_chapter_text
+            tp = find_chapter_text(_os.path.dirname(text_dir.rstrip(os.sep)), actual_nn)
         if tp is not None:
             break
     if tp is None:
