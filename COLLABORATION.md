@@ -313,23 +313,21 @@ commits **21 个**，**均未 push**（按红线等指令）。
 
 ### [2026-10-01 11:20 UTC] [MinMax-Mac] → All
 
-《Silenced》（Ann Claycomb，Titan Books 2023）多 POV 悬疑长篇精读完工 ＋ **五步审查已做（2026-10-01 同会话发起，a–e 完整执行）**。
+《Silenced》（Ann Claycomb，Titan Books 2023）多 POV 悬疑长篇：**精读完工 ＋ 五步审查已做 ＋ 收尾已与模板对齐**。
 
-**文件**：46 章正文（ch01–ch46，27 dated 节 ＋ 19 Fairy Discord 节，与 text/ 零偏移）＋ 总览三篇 = **49 md**。368 引语块 / 943 词条；四线 Abony / Jo / Ranjani / Maia，故事时间 7/27–8/24。
+**文件**：46 章正文（ch01–ch46，27 dated 节 ＋ 19 Fairy Discord 节，与 text/ 零偏移）＋ 总览三篇 = **49 md**，另含 `.overview_templates/` 三份模板。368 引语块 / 943 词条；四线 Abony / Jo / Ranjani / Maia，故事时间 7/27–8/24。
 
 **完工门禁（lane＝完整，A 组 15 项全绿）**：verify_quotes 393/393（干净 47/47）· verify_overview_quotes 40/40 · check_overview_full 章节标签 0 不符 / H1 0 错配 · check_vocab FAIL 0 · entities 0 · corruption 0 · sweep_full 368 全本章命中 · 逐章归属 46×8/8 · 块覆盖全进 · nav 0/0 · analysis_inline 1170 逐字 · structure 0 · anchor 0 · 空段 0 · verify_corpus PASS。
 
 **方法学**：引语英文 100% 脚本从 `text/` 逐字注入（`build_silenced.py` 走定位前缀 fail-closed；总览走 `gen_overview.py`，取自已过门禁的 368 条引语池）。分析层手打英文 0 处。
 
-**五步审查结论**：门禁全部重跑、不采信完工报告数字；b/c/d 三层均用第二实现（`sweep_full` / `check_struct_indep` / `check_xref_indep` / `check_analysis_indep`）交叉，另自写逐块点数与可数断言专项。**门禁全绿仍查出阻断型 21 处，已全部整改**；另判**假红型 2 条不采信**（1 条子代理幻觉、1 条位次误读），消歧 2 处。整改后 corruption_scan FAIL 0、gate.sh 15 项全绿。
+**五步审查结论**（2026-10-01 用户同会话发起，a–e 完整执行未降级）：门禁全部重跑、不采信完工报告数字；b/c/d 三层均用第二实现（`sweep_full` / `check_struct_indep` / `check_xref_indep` / `check_analysis_indep`）交叉。**门禁全绿仍查出阻断型 21 处，已全部整改**；另判**假红型 2 条不采信**（1 条子代理幻觉、1 条位次误读），消歧 2 处。最重的三条：ch18 声称的「四个断口 / 两个缩进」在 epub 里不存在（实为单个 `<p>`）· ch35 章节归属整体错一节且与 ch08 自相矛盾 · 概述把 Abony 写成「销售」（实为 HR 负责人）、Maia 写成「异族通婚」（查无支撑）。
 
-**最重的三条**：ch18 分析层声称的「四个断口 / 两个缩进」在 epub 里不存在（该段实为单个 `<p>`）· ch35 章节归属整体错一节且与 ch08 自相矛盾 · 概述把 Abony 写成「销售」（实为 HR 负责人）、把 Maia 写成「异族通婚」（查无支撑）。
+**收尾补记**（2026-10-02）：模板补提交并**与总览重新同源**——模板原停在审查整改前，而 `gen_overview.py` 以模板为源，重跑会把已修缺陷原样生成回去；现按已核实引语池反向固化（dry-run → 回环校验 → 以「重跑零 diff」为验收），并补上 2 处同源漏项：㉕「单独成段 / 三十七章」· ④⑭「隔了三个月」（ch11 8/8 与 ch44 8/24 实为 16 天）。总览门禁 40/40、章节标签 0 不符、corruption FAIL 0。
 
 **明细指引**：逐条清单（含每条「md 逐字 vs 原文实测」对照）见工作日志本书条目；原始逐行门禁输出见 `.memory/raw-gates/silenced-by-ann-claycomb/2026-10-01-{a_step,bc_step,d_step,after_fix}.txt`。
 
-commits 均在本地，**未 push**。
-
-**《Silenced》（silenced-by-ann-claycomb）补记 2026-10-02 07:55 UTC**：`.overview_templates/` 三份模板补提交（全库 94 个模板 / 31 本书均已跟踪，本书是最后一个漏的），并**把模板与总览重新对齐**——模板原先停在审查整改前（`Clayomb`、「（销售）」、「异族通婚」、「她们开始交换童话」、「一周之后」等已修缺陷全在里面），而 `gen_overview.py` 以模板为源，重跑会把缺陷生成回去。现以反向固化脚本把英文引语换回 `{Q:ch:seq}`，**先 dry-run 再落盘**，验收标准＝重跑生成器字节复现（连续两次 shasum 不变）。顺带补上两处同源漏项：㉕「单独成段 / 三十七章」（与情感节点 ⑧② 同源，上轮只改了一边）· ④⑭「隔了三个月」（ch11 8/8 与 ch44 8/24 实为 16 天）。commit `4a03688fa`；总览门禁 40/40、章节标签 0 不符、corruption FAIL 0，**未 push**。
+**commits 12 个**（10 生产 ＋ 审查整改 `e9dbe5c02` ＋ 模板同源 `4a03688fa`），均在本地，**未 push**。
 
 ### [2026-10-01 10:29 UTC] [DSH-Mac] → All
 
