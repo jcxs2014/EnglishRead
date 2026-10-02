@@ -73,7 +73,7 @@ modified: "2026-10-02"
 
 > **原句 5:** It hits me now. Ella doesn’t want to be my friend. She just wants to hear the gossip about me so she can tell everyone how gross it was that I hooked up with Mr. Tuttle and she got to hear all about it.
 
-**中文理解**：我现在明白了。Ella 并不想跟我做朋友。她只是想听听关于我的八卦，好在转述给所有人时加上一句「想想都觉得恶心」——而我全程当她是个能说话的人。
+**中文理解**：我现在明白了。Ella 并不想跟我做朋友。她只是想听听关于我的八卦，好在转述给所有人时加上一句「想想都觉得恶心」——而我全程把她当成了能说话的人。
 
 **关键词**：gossip／It hits me now
 
