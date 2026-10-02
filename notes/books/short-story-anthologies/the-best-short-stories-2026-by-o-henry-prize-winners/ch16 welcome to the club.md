@@ -61,7 +61,7 @@ modified: "2026-10-02"
 - 句子结构：主句是 it 作形式主语的结构，真正的主语是后面的不定式 `to see you so self-righteous...`；`after` 是介词，其宾语由 what 引导的名词性从句 `what you did this morning` 承担，修饰语 `so self-righteous` 夹在 see 与 you 之间。
 - 关键词：self-righteous——"自以为是的"；这个词指责的不是她的行为，是她对自己的判断。
 - 表达方式：不用指控句（你没跳／我看见了），用一个 `It’s really something to...` 的赞叹句式完成指控。
-- 为什么这样写：全篇的转折点在此。她这一天建立的所有前提——动作很快、周围没人、时间在中午之前——都被这句话一次作废；作者让她在听到之前毫不知情，也让读者和她同时知道。
+- 为什么这样写：全篇的转折点在此。她这一天建立的所有前提——动作很快、周围没人、时间还在中午前后——都被这句话一次作废；作者让她在听到之前毫不知情，也让读者和她同时知道。
 
 ⑦ "“You want to jump in the water with a sinker of rocks tied to your waist?” He’s saying it, now he is. All those words. “All right, if that’s what you want, fine. You want to parade around among the living like nothing happened? Also fine: welcome to the club.”"
 
@@ -85,14 +85,14 @@ modified: "2026-10-02"
 - 句子结构：`Then I understand exactly what guilt does.` 用 what 引导宾语从句。下一句 `It enters like the air through the sliding glass door and flows into my lungs` 里 It（= guilt）作主语，like 后接名词短语作明喻，enters 与 flows 共用这个主语。后面两句各只剩一个主谓，短促落地；末句的 `doesn’t even move` 用否定副词 even 把"不动"的程度顶到最高。
 - 关键词：guilt——"罪疚"；这个词先由邻居交给她（说它会让她留下来），到了这一句变成她打算装进女儿心里的东西。
 - 表达方式：先讲清推演，再用比喻命名，最后用两个短句落地——抽象的道德被写成一个可以呼吸的物理过程。
-- 为什么这样写：上午那扇推拉门是她与湖之间的界线（她早上关它、后来又说 `I slide it closed`），此刻同一个入口被拿来运 guilt。作者用一个物件把一天里的两次"进来"串起来：先是外面的空气，后是她要放进去的罪。
+- 为什么这样写：中午那扇推拉门是家里关上的一扇（兔子跑出来时，是丈夫赶着把它关上的），夜里她又把它打开过一次。此刻同一个入口被拿来运 guilt。作者用一个物件把一天里的两次"进来"串起来：先是外面的空气，后是她要放进去的罪。
 
 ⑩ "A moment before falling asleep, I move my hands and don’t feel the sheets. It’s just a few seconds, it’s the end of sinking: the dark and mossy feeling on my fingertips, right when they touch the lake bottom and twitch for one last time."
 
 - 中文理解：结尾她躺下，睡前把手放在床单上，声称摸不到床单——那是手指还留在湖底泥里的感觉。开头她像宇航员着陆月球，这一结尾是触底停止下沉；两次写的都是身体与固体表面接触的那一下，一次在水底，一次在床上。
 - 句子结构：`A moment before falling asleep` 用 before 加动名词作时间状语；主句是并列的两个谓语 `I move my hands` 与 `don’t feel the sheets`（后一个原文省略了主语），一个肯定一个否定。后半 `It’s just a few seconds, it’s the end of sinking` 是两个并列分句（第二个省略了 it’s 的完整主谓，用逗号连接），冒号后的 `the dark and mossy feeling on my fingertips` 才是主语，挂在后面的 `right when they touch the lake bottom and twitch for one last time` 是介词短语状语（right when = 恰好在……的瞬间），其中 they 与 fingers 对应。
 - 关键词：`the end of sinking`——"不再下沉"；开篇是往水里沉，这一刻停住，全篇的动词在这里换了方向。
-- 表达方式：不写她想通了什么，只写手指摸到了什么；用一个感觉的回声把二十多页的湖收回到身体的一个小部位。
+- 表达方式：不写她想通了什么，只写手指摸到了什么；用一个感觉的回声把整篇的湖收回到身体的一个小部位。
 - 为什么这样写：她接受了邻居那套"每天制造一点痛"的说法，却没有杀掉那只兔子。作者不让她做出选择，只让她保留身体的记忆——读者被迫自己判断这次到底算不算入会。
 
 ## 本章词汇
