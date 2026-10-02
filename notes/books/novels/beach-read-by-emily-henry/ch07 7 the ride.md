@@ -56,7 +56,7 @@ source_text: "text/ch07 7 the ride.txt"
 **中文理解：**「因为我在这个包里带辣椒喷雾。还有一把枪。」
 **关键词：**pepper spray / this tote / And a gun
 **为什么这样写：****一个 `Because`（因为）把威胁的理由写成了自我保护**，而两个物件用**句号断开**（`pepper spray … And a gun.`）——`And` 之前那个句号是**递进的节拍**，读出来像一串越来越短的报数。`this tote`（这个包）用的是**指示代词 this**，不是 `a tote`，意思是**就这一个包，你现在看到的这个**。`And a gun`（还有一把枪）独立成句，是全章最短也最重的一句：**四个词完成了从防狼喷雾到枪械的升级**。
-**读者视角提示：**这正是他后面 `You're drunk with a gun flopping around in your wine bag?`（你喝醉了，包里一把枪乱晃？）里那个 `wine bag` 的出处——**包**是她在 ch05 `purse-wine`（包里的酒）时就用过的同一个道具。
+**读者视角提示：**这正是他后面 `You're drunk with a gun flopping around in your wine bag?`（你喝醉了，包里一把枪乱晃？）里那个 `wine bag` 的出处——**包**是她在 ch06 `purse-wine`（包里的酒）时就用过的同一个道具。
 
 > **原句 7:** "THIS IS THE trick?" I said, when we pulled into the parking lot.
 
@@ -70,14 +70,14 @@ source_text: "text/ch07 7 the ride.txt"
 **中文理解：**「我只希望不用经常把你劝上我的车，」他说。
 **关键词：**hoping I won't have to / coax you into my car / very often
 **为什么这样写：****一个希望句（`I'm hoping`）里嵌着两个双重否定**（`won't have to`、`very often` 要压低频率）——句子表面在说「希望不常有」，而 `coax you into my car`（把你哄进我的车）这个短语把**整场戏的性质**说成了**哄**。`coax`（哄、劝诱）这个词是本章的关键：她以为要付出什么才上车，他说是**哄**。
-**读者视角提示：**`coax`（哄）里的 `-oax-` 来自 `coax`（哄诱），与 ch04 她的 `groundbreaking`、ch05 的 `scooping` 同属**英式轻喜剧的用词习惯**；作者把「诱哄」这个略带温柔的词放进言情句式里，是本章最含蓄的一次**软化**。
+**读者视角提示：**`coax`（哄）里的 `-oax-` 来自 `coax`（哄诱），与 ch04 她的 `groundbreaking` 同属**英式轻喜剧的用词习惯**；作者把「诱哄」这个略带温柔的词放进言情句式里，是本章最含蓄的一次**软化**。
 
 > **原句 9:** "Just on Mondays."
 
 **中文理解：**「就每周一而已。」
 **关键词：**Just on Mondays
-**为什么这样写：****一个只有四个词的短句回应**（她那句「不会常」对「就周一」）——`Just`（只）把频率精确到**每周一次**，而 `on Mondays`（在周一）**正是 Pete 那场聚会的日子**（ch05 `It's Mondays.`）。这句把「频次」重新框定成**一个日历单位**，也让前一句 `very often`（常常）被她用**一个定冠词不必出现的 `Mondays`** 顶了回去。
-**读者视角提示：**`Mondays` 这个词在 ch05 由 Pete 说出（`It's Mondays. Can you do Monday? Tomorrow?`），在这里由 January 说出——**同一个词在两个人嘴里各出现一次**，构成 ch06→ch07 的一条暗线。
+**为什么这样写：****一个只有四个词的短句回应**（她那句「不会常」对「就周一」）——`Just`（只）把频率精确到**每周一次**，而 `on Mondays`（在周一）**正是 Pete 那场聚会的日子**（ch03 `It’s Mondays.`）。这句把「频次」重新框定成**一个日历单位**，也让前一句 `very often`（常常）被她用**一个定冠词不必出现的 `Mondays`** 顶了回去。
+**读者视角提示：**`Mondays` 这个词在 ch03 由 Pete 说出（`It’s Mondays. Can you do Monday? Tomorrow?`），在这里由 January 说出——**同一个词在两个人嘴里各出现一次**，构成 ch06→ch07 的一条暗线。
 
 > **原句 10:** “This conversation, definitely. The donuts are good. I Googled you too, by the way. You should consider getting a rarer name.”
 

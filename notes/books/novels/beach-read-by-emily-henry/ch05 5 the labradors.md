@@ -28,7 +28,7 @@ source_text: "text/ch05 5 the labradors.txt"
 **中文理解：**Anya 装作满意，我也装作相信她满意。
 **关键词：**Anya pretended to be satisfied / I pretended to believe / satisfied
 **为什么这样写：******两个 `pretended` 的对称句，主语一换、宾语一换，把「两个人都在演」这件事写成了**结构上的对称**。第二个 `pretended` 的宾语不是情绪而是一个**从句**（`believe she was satisfied`）——她演的不是「满意」，是**「相信」**这个动作，也就是她**表演了相信**，等于承认自己不信。`pretend to be`（装作是）与 `pretend to believe`（装作相信）之间只差一个 `believe`，却跨过了「状态」与「对状态的判断」两层。
-**读者视角提示：**这一句是 ch01 `It was a story I'd been telling myself`（我一直在讲给自己听的故事）的一次**缩小版复现**——区别是这一次她连**自己都骗**了，而 ch01 那次她还知道自己在编。
+**读者视角提示：**这一句是 ch01 `It was just a story I’d been telling myself`（我一直在讲给自己听的故事）的一次**缩小版复现**——区别是这一次她连**自己都骗**了，而 ch01 那次她还知道自己在编。
 
 > **原句 3:** I typed back, Still sexy. Still EVIL. I will NOT tell him as I will NOT be speaking to him again, for as long as we both shall live. He didn't remember me.
 

@@ -21,7 +21,7 @@ source_text: "text/ch04 4 the mouth.txt"
 **中文理解：**更不用提他那张歪嘴，本该被立法禁止的。
 **关键词：**crooked mouth / should've been outlawed
 **为什么这样写：**`should've been outlawed`（本该被取缔）用的是**虚拟语气**（`should have been`）——作者不说「他嘴歪」，而说「这样的嘴**应该由法律禁止**」，把审美判断升格成**立法提案**。`Not to mention`（更不用说）接在一个**否定句**后面，等于零重量地追加一条最重要的观察：她用最轻的语气说自己看得最久的东西。`Not to mention his crooked mouth` 独立成段，是全章最短的段落之一，而它写的是**标题**（The Mouth）本身。
-**读者视角提示：**这是 ch01 里 `Crooked mouth and a husky voice` 的**回照**——ch03 她刚在书店里回忆起他的脸，ch04 才把这张脸的**局部**放大成标题。
+**读者视角提示：**这是 ch03 里 `Crooked mouth and a husky voice` 的**回照**——同章她刚在书店里回忆起他的脸，ch04 才把这张脸的**局部**放大成标题。
 
 > **原句 2:** I was minorly besotted with him and his prose.
 
@@ -63,7 +63,7 @@ source_text: "text/ch04 4 the mouth.txt"
 **中文理解：**最后，我深吸一口气，挤出一个笑容，从书架之间走出来，手里攥着那杯难喝得要命的拿铁，像攥着一把枪。「嗨————，我说，然后以一种明显像机器人的方式挥了挥手。
 **关键词：**forced a smile / clutching my god-awful latte like it was a handgun / Hiiiiiiiiii / distinctly animatronic
 **为什么这样写：****三个短横线构成一个「强装镇定」的序列**：`took a deep breath`（准备）、`forced a smile`（戴上脸）、`clutching … like it was a handgun`（把唯一的武器端在手里）。`like it was a handgun` 的 `it was` 用虚拟过去（假使它是一把枪），把**没有武器**写成了**有武器**。`god-awful`（烂得要死）用连字符把「god（上帝）」和「awful（糟糕）」焊成一句粗口，是美式口语里最常见的一类喜剧复合词。`Hiiiiiiiiii`（拉长的招呼）用**字符的物理长度**写出社交的僵硬，而 `animatronic`（机械人偶的）把这个僵硬升级为**「不自然到像机器」**。
-**读者视角提示：**`clutching … like it was a handgun` 与 ch02 的 `clutching my god-awful latte` 是同一动作的两次——ch02 那次是对黑暗说心里话，这次是**武装自己上战场**，中间隔着一整章她学会了攻击。
+**读者视角提示：**`clutching … like it was a handgun` 与本章前面 `clutching my god-awful latte` 是同一动作的两次——前一处是对黑暗说心里话，这次是**武装自己上战场**，中间隔着一整章她学会了攻击。
 
 > **原句 8:** "We've met, actually," he said. The fire of a thousand suns rushed to my face, and probably my neck and chest and legs and every other exposed inch of my body.
 
@@ -132,7 +132,7 @@ source_text: "text/ch04 4 the mouth.txt"
 
 **中文理解：**「回家见，」Gus 在我身后喊道。
 **关键词：**See you at home / called after me
-**为什么这样写：****全章最后一句台词，六个字，把整场仗一笔勾销**。`at home`（在家）这个词在 ch02 的黑暗里出现过（`See you at home` 式的招呼），而这里的 `at home` 是**双关**：她正从**他家**门口走回**她家**，所以「回家」这个日常招呼在这条街上**字面为真**。`called after me`（在我身后喊）用 `after` 标记他**已经转过身**——他没有追上来，只是喊了一句，这正是 ch02 结束时他做的事（没跑开）。
+**为什么这样写：****全章最后一句台词，六个字，把整场仗一笔勾销**。`at home`（在家）这个词在本章那场黑暗里出现过（`See you at home` 式的招呼），而这里的 `at home` 是**双关**：她正从**他家**门口走回**她家**，所以「回家」这个日常招呼在这条街上**字面为真**。`called after me`（在我身后喊）用 `after` 标记他**已经转过身**——他没有追上来，只是喊了一句，这正是 ch02 结束时他做的事（没跑开）。
 **读者视角提示：**这句让 ch02 的「他没赶我走」与本章的「他没有追上来」**成对**；两次他都**留在原处喊话**，这是 Gus 在整本书里对待她的基本姿势。
 
 ## 本章词汇

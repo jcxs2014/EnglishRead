@@ -91,7 +91,7 @@ source_text: "text/ch03 3 the pete cute.txt"
 **中文理解：**能割伤人的颧骨。歪的嘴，和一副我绝不会忘记的沙哑嗓音。乱糟糟的黑发，我立刻能想象出它被荧光灯照出的光晕。
 **关键词：**Cheekbones that could cut you / husky voice / haloed in fluorescent light
 **为什么这样写：****三个名词短语的碎片式排比**（前两段是无谓语的片段，第三段才是完整句），模拟的是**记忆闪回时的语无伦次**。`that could cut you`（能割伤你）把静止的骨头写成**有攻击性的东西**；`I'd never forget`（我绝不会忘记）用的是**过去将来完成时**（`I'd never forget`），语法上属于「从过去看未来」，语气因此是**预言式**的。`fluorescent light`（荧光灯）与 ch01 提到的「烛光」构成一组**光源对照**：她想象中的他站在**日光灯**下，不是烛光下。
-**读者视角提示：**这三条是 ch01 已经给过的身体细节（`Cheekbones`、`husky voice`、`messy dark hair`）的**回照**——作者在用回忆证明「她其实一直记得他」，这是 ch01–ch03 这一段里她**第一次在字面上承认自己记得他的身体细节**。
+**读者视角提示：**这三条是本章原句 11 里她当面描绘出来的身体细节（`Cheekbones`、`husky voice`、`Messy, dark hair`）——作者在用回忆证明「她其实一直记得他」，这是 ch01–ch03 这一段里她**第一次在字面上承认自己记得他的身体细节**。
 
 > **原句 12:** I did what any reasonable adult woman would do when confronted with her college rival turned next-door neighbor. I dove behind the nearest bookshelf.
 

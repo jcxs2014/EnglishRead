@@ -35,7 +35,7 @@ source_text: "text/ch08 8 the bet.txt"
 **中文理解：**「人生基本上就是一连串好坏参半的时刻，一直到你死的那一刻为止，」他僵硬地说。
 **关键词：**a series of good and bad moments / right up until / said stiffly
 **为什么这样写：****`right up until`（一直到……为止）**把时间轴**焊死**在死亡那一刻，而 `stiffly`（僵硬地）说明**他讲这番话时不自在**——这不是一个他想说的话，是他**实际相信**的话。`a series of`（一连串）把人生写成**可数的序列**，与 `the moment you die`（你死的那一刻）形成**复数与单数**的对撞：前面全是 moments，最后收成一个 moment。
-**读者视角提示：**`stiffly` 与 ch02 `he said stiffly`（`I'll kick them out`）、ch07 `he said stiffly`（`Life is pretty much…`）是**同一副词的三次出现**——**每次他僵硬，都正好是在说真话**。
+**读者视角提示：**`stiffly` 与 ch02 `he said stiffly`（`I'll kick them out`）与本章这一处是**同一副词的两次出现**——**每次他僵硬，都正好是在说真话**。
 
 > **原句 4:** I felt a little desperate, like if I let him win this fight, it would be the final straw: there'd be no getting back to myself, to believing in love and seeing the world and the people in it as pure, beautiful things—to loving writing.
 

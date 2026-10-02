@@ -56,7 +56,7 @@ source_text: "text/ch06 6 the book club.txt"
 **中文理解：**「Sonya 临时退出了，」Pete 说，但这话听起来更像是：你 January 搞什么？
 **关键词：**had to dip out / it sounded more like
 **为什么这样写：****一个句子的两层读法被作者明写出来**：`Pete said`（Pete 说）给出的是**字面内容**，`it sounded more like`（听起来更像）给出的是**January 听到的内容**。`dip out`（临时溜掉）是**网络与口语词**（原指体育比赛中暂时退场），Pete 用它给 Sonya 的缺席一个轻描淡写的理由；而 `What the hell, January?`（你 January 搞什么）里那个**裸名不带姓**的形式，正是 ch01 里 Gus 叫她 `January` 的方式——作者让读者听出**同一个称呼在两种关系里的两种温度**。`more like`（更像）在本章是**固定工具**，它反复把「说的话」翻译成「听进去的话」。
-**读者视角提示：**`it sounded more like` 这个结构在 ch04 出现过一次（`it sounded more like Praise be…`），是本章的**句法签名**：作者关心的不只是人物说了什么，还有**她听成了什么**。
+**读者视角提示：**`it sounded more like` 这个结构在本章前面出现过一次（`it sounded more like Praise be…`），是本章的**句法签名**：作者关心的不只是人物说了什么，还有**她听成了什么**。
 
 > **原句 7:** The one and only Augustus Everett was how a book club introduced its special guest.
 
