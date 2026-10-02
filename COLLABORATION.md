@@ -83,23 +83,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 书：Beach Read（Emily Henry, Penguin UK 2020）· 言情/rom-com 长篇 · 目录 notes/books/novels/beach-read-by-emily-henry/
 正文：ch01–ch28 逐章精读 28 件（chNN 与书内章号零偏移），引语 370 块；总览三篇（概述 3 主题+5 弧光 · 金句 18 · 节点 8）。
 语料层 P0-0 PASS：text/ 28 件 == 预期 28，锚点双向 28 组/互查 756 组；ch13 极短章经页码与 bea ID 双证据确认非缺失。
-⛔ 终验两轮，均在「门禁全绿」下查出阻断型，**两轮都源于检查清单没跑全**：① 自拼 13 道门禁、漏掉正门
-`scripts/gate.sh` 的 ⑧⑩⑬ → 29 处（28 章「一句话总结」非规范形态、ch04 标题重复、ch27/ch28 导航标签未加粗）；
-② 按「终验快速检查清单」逐项划 ✓，发现 `check_crossref` 与 ⑩ 的 🟠 逐条人判从未做 → 14 处（ch22 引用全书
-0 命中的 `one of the many`、ch06 引用全书无 bike 的 `biking so hard my dead father fell off`、词表词头换词 12 处）。
-教训：完工门禁清单**以 gate.sh 为准、不得自拼**；清单里标「须逐条人判」的项，**贴数字不算做完**。
-第 3 条门禁（末轮 exit=0）：verify_quotes 386/386（干净 29/29）· vocab FAIL 0 · entities 0 · corruption 0 · sweep_full
-370/0/0/0 · 逐章 370/370 · short_quotes 24/24 · nav_layer 0/0 · structure 0 · anchor 0 · 块覆盖 28 文件 · 空段 0 ·
-crossref 0 报警 · audit_numbers 阻断型 0 · 占位/垃圾行 0 处。第三轮：WARN 逐条人判又修 4 处（伪造词条 frankly、词例错配 my back、高级档注水 2 条降基础档）；
-④ 跨章指认核对：check_crossref 只报「查无」不报「**归错章**」⇒ 又修 11 处（系统性往前偏 1–2 章）+ 1 处改词。总览：overview_quotes 38/38 · check_overview_full 6/0/0 · H1 0 错配。
-生产方式：4 路子代理并行分章（所有权不重叠，brief 含真实案例与防幻觉条款），引语写前 grep 预验，词表走 vocab_candidates
-只做减法，总览由 gen_overview 从已核实引语池生成；主会话重跑全量门禁，不采信 worker 自报数字。
+⛔ 终验五轮，**每一轮都在「门禁全绿」下查出阻断型，每一轮的根因都是「检查清单没跑全」**：① 自拼 13 道门禁、漏正门 gate.sh ⑧⑩⑬
+→ 29 处（28 章「一句话总结」非规范形态、ch04 标题重复、导航标签未加粗）；② 按「终验清单」逐项划 ✓ 发现 check_crossref 与 ⑩ 的 🟠
+「须逐条人判」从未做 → 14 处（ch22 引全书 0 命中的 one of the many、ch06 引全书无 bike 的伪造句、词表词头换词 12）；
+③ WARN 逐条处置 → 4 处（伪造词条 frankly、词例错配 my back、高级档注水 2 条降基础档）；④ 跨章指认 → 12 处（**系统性往前偏 1–2 章**）；
+⑤ 该类固化为常跑门禁 `check_xref_chapter.py`（gate.sh ⑯，16 项）→ 再修 4 处（Ohhh／the≠These／`/` 拼记法／biblical whale 归章）。
+教训：清单**以 gate.sh 为准、不得自拼**；标「**须逐条人判**」的项**贴数字不算做完**；核含 U+2019 的串**不可用 grep**（`.` 匹配不了 ’，会给假的「0 命中」）。
+第 3 条门禁（末轮 exit=0）：引语 386/386（干净 29/29）· vocab FAIL 0 · entities 0 · corruption 0 · sweep_full 370/0/0/0 ·
+逐章 370/370 · short_quotes 24/24 · nav_layer 0/0 · structure 0 · anchor 0 · 块覆盖 28 文件 · 空段 0 · crossref 0 报警 ·
+audit_numbers 阻断型 0 · 占位/垃圾行 0 · ⑯ 跨章 伪造 0／移章 2（均已人工判正当）。总览 38/38 · H1 0 错配。
+生产方式：4 路子代理并行分章（所有权不重叠，brief 含真实案例与防幻觉条款），引语写前 grep 预验，词表走 vocab_candidates 只做减法，总览由 gen_overview 从已核实引语池生成；主会话重跑全量门禁，不采信 worker 自报数字。
 工具根因修复：提取件定位收口为 scripts/chapter_text_path.py（同一缺陷 8 处，7 个工具各内联一份只认下划线的 glob，而根规则规定分隔符是空格 ⇒ 假红）；回归 Whispers 67 章数字不变；check_spec.py 收口引入存量书回归，已回滚记为未修项。
 commit（均未 push）：0b12ed4c7 工具 · 5e270cd3d ch01 · d466c3c08 ch02–ch28 · 4aabd0078 总览 · 01e1dfc7f 板/日志
-+raw-gates · 923b2d8a7 修 29 处格式 · 0a502bb43 修 14 处内容缺陷 · b55ab2f61 修 4 处词表缺陷 · aafb93a8f 修 11 处归错章。
-提示型遗留（只记不改）：vocab WARN 51（全部为「基础档疑含超纲词」长度≥9 启发式；非启发式三类已清零）· structure 提示 1（ch13）· audit_numbers ❓60/⚪16 ·
-词表另有 50 行词头为全库一致惯例（冠词/属格/原形化/截短，逐条看过判定正当）· keywords_verbatim 6 条（1 假红+5 提示型）。
-原始输出见 .memory/raw-gates/beach-read-by-emily-henry/（271+98+98+97+99 行五份），明细见工作日志当日条目。五步审查未做（待用户发起）。
++raw-gates · 923b2d8a7 修 29 处格式 · 0a502bb43 修 14 处 · b55ab2f61 修 4 处词表 · aafb93a8f 修 12 处 · 0baab9cd9 门禁 ⑯ + 修 4 处。
+提示型遗留（只记不改）：vocab WARN 51（全部为「基础档疑含超纲词」长度≥9 启发式）· structure 提示 1（ch13）· audit_numbers ❓60/⚪16 ·
+词表另有 50 行词头为全库一致惯例（冠词/属格/原形化/截短）· ⑯ 移章 2 条为 20 字符窗口已知误配。
+原始输出见 .memory/raw-gates/beach-read-by-emily-henry/（271+98+98+97+99+107 行六份），明细见工作日志当日条目。五步审查未做（待用户发起）。
 
 ### [2026-10-02 11:10 UTC] [ZCode-Mac] → All
 
