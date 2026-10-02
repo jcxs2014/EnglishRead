@@ -20,7 +20,7 @@ source_text: "text/ch05 5 the labradors.txt"
 
 **中文理解：**「我可以做到不分心。我可以当那个「不打扰你女王」，但是求你了。求你、求你、求你别在这件事上骗我。如果你想歇一下——」
 **关键词：**the Queen of Not Distracting You / please, please, please / don't lie to me
-**为什么这样写：**`the Queen of Not Distracting You` 是**自嘲式的头衔授予**——Anya 把自己封成一个官职，而这个官职的**全部内容是「不打扰」**（`Not Distracting You`），用**大写首字母的抽象名词**造出一整套虚拟国家。`Please` 重复三次且后两个**大写**（`Please, please, please`），英文里大写是**喊**——三个字的分级从陈述升到祈求。`but please`（但是求你）里的 `but` 是**转折的重量支点**：前面两句都在演，后面才是真话。`If you want a break—`（如果你想歇——）用**破折号截断**，让这句话**悬在半空**，不给对方回答的机会。
+**为什么这样写：**`the Queen of Not Distracting You` 是**自嘲式的头衔授予**——Anya 把自己封成一个官职，而这个官职的**全部内容是「不打扰」**（`Not Distracting You`），用**大写首字母的抽象名词**造出一整套虚拟国家。`Please` 重复三次而**只有第一个大写**（小写的 `but please.` 之后才是 `Please, please, please`），英文里大写是**喊**——从陈述升到祈求的那一下就压在这次大小写的切换上。`but please`（但是求你）里的 `but` 是**转折的重量支点**：前面两句都在演，后面才是真话。`If you want a break—`（如果你想歇——）用**破折号截断**，让这句话**悬在半空**，不给对方回答的机会。
 **读者视角提示：**这是全书**经纪人 Anya 的声音定型**（ch02 邮件里那个 `you beautiful and miraculous jellyfish`）——她的体贴里永远压着一个 `but`，这与 January 对父亲、对自己**一律先演再真**的方式互为镜像。
 
 > **原句 2:** I typed back, Still sexy. Still EVIL. I will NOT tell him as I will NOT be speaking to him again, for as long as we both shall live. He didn't remember me.
@@ -55,7 +55,7 @@ source_text: "text/ch05 5 the labradors.txt"
 
 **中文理解：**「平常我们都用花园，不过平常老天爷不会在头顶上打一个全中，所以今晚只能改室内了。我们还在等一个人。」
 **关键词：**Normally / God isn't bowling a perfect game overhead / inside will have to do tonight
-**为什么这样写：****一个句子里两次 `normally`（平常）**，第二次用 `but` 转折——句法本身就是**「惯例被打断」的形式**。`God isn't bowling a perfect game overhead`（老天爷不在头顶打全中）把**雷暴**写成**保龄球的一记全中**：`bowling`（打保龄球）与 `overhead`（在头顶上方）一放，读者立刻看见那个弧线——天气成了她在高空击出的球。`God` 这个词在 ch02 的 `Episcopalian church` 之后第二次出现，在 ch02 的 `biblical whale` 之后成为**她用宗教词写日常的固定手法**。
+**为什么这样写：****一个句子里两次 `normally`（平常）**，第二次用 `but` 转折——句法本身就是**「惯例被打断」的形式**。`God isn't bowling a perfect game overhead`（老天爷不在头顶打全中）把**雷暴**写成**保龄球的一记全中**：`bowling`（打保龄球）与 `overhead`（在头顶上方）一放，读者立刻看见那个弧线——天气成了她在高空击出的球。`God` 是她写日常时的**固定感叹词**：ch01 的 `Oh, God—`、ch02 的 `Oh, God.`、ch03 的 `God, I hope not.`，再到本章这一声，四章都落在同一个位置上。
 **读者视角提示：**`have to do`（只能凑合）这个短语是本句的**日常化落点**——把「被雨困住」写得像在讨论备选方案，是 Pete 这个人物的核心语感：**万事都有个凑合的方案**。
 
 > **原句 7:** Maggie's serene smile seemed to be a version of an affectionate eye roll.
@@ -69,8 +69,8 @@ source_text: "text/ch05 5 the labradors.txt"
 
 **中文理解：**「嗨，January，」那个女人从打鼾的拉布拉多底下温顺地说。她挤出一个笑。「很高兴见到你。」
 **关键词：**That Woman / meekly / from under the snoring Labradors / She forced a smile
-**为什么这样写：****全章的**收尾**落在 `That Woman` 这个**全名都没给的大写代号**上——ch02 母亲喊出 `Sonya` 之后，读者知道了名字，但 January 此刻**只肯用代号称呼她**。`meekly`（温顺地）把她的语调钉死在一个位置，而 `from under the snoring Labradors`（从打鼾的拉布拉多底下）让她**在画面最下缘、被压着、几乎看不见**——三个狗的名字是 `Labradors`，而标题正是 `The Labradors`（拉布拉多）：Sonya 出场的位置**在三条狗底下**。`She forced a smile.` 独立成段，与前面 Anya 那句 `I pretended to believe she was satisfied`（我装作相信她满意）**同型**——两个女人都**挤出了一个笑**。
-**读者视角提示：**本章用 `forced a smile`（挤出一个笑）收了两次：Pete 也有 `forcing a smile`（挤出一个笑容）出现在 ch04。**三个女人、三个笑**是这一段的暗线结构。
+**为什么这样写：****全章的**收尾**落在 `That Woman` 这个**全名都没给的大写代号**上——ch02 母亲喊出 `Sonya` 之后，读者知道了名字，但 January 此刻**只肯用代号称呼她**。`meekly`（温顺地）把她的语调钉死在一个位置，而 `from under the snoring Labradors`（从打鼾的拉布拉多底下）让她**在画面最下缘、被压着、几乎看不见**——三个狗的名字是 `Labradors`，而标题正是 `The Labradors`（拉布拉多）：Sonya 出场的位置**在三条狗底下**。`She forced a smile.` 独立成段，与本章前面那组 `Anya pretended to be satisfied, and I pretended to believe`（Anya 装作满意，而 January 装作相信她满意）**同型**——两个女人都**挤出了一个笑**。
+**读者视角提示：**本章的 `forced a smile`（挤出一个笑）**只出现过这一次**，说话的是从打鼾的拉布拉多底下钻出来的 Sonya；ch04 那次 `forced a smile` 则是**她自己**走出书架迎客。**两个女人、两次笑**互为镜像，是这一段的暗线结构。
 
 ## 本章词汇
 

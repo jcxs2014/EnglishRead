@@ -12,7 +12,7 @@ source_text: "text/ch06 6 the book club.txt"
 - **情感弧线位置**：**喜剧性的回落**（相对 ch05 的紧张）＋**关系推进**——两人仍然没有交换任何真心话，但同处一室、同坐一排、共享一瓶她带来的酒，**位置**已经变了。
 - **Tropes 兑现/反转**：**rom-com 撞嘴炮**（两人互损成习惯动作）；**三角笑话的错位反转**（以为大家在评论他的小说，其实在评论间谍小说）；**宿敌被迫同处一室**（book club 的座位安排）。
 - **人物弧线**：January 从 ch04 的**主动进攻**退到 ch05 的**自我怀疑**（认为自己的作品不如他），本章她**第一次被自己的专业身份刺伤**——不是他说的，是她自己想的（dick pic 那段）；Gus 首次**没有说出任何一句刻薄的话**（他一句都没说，只喝他的酒）。
-- **叙事手法**：**第一人称的意识流式夸张**（逃离幻想 / 职场比较幻想）＋**名单式冷幽默**（书架上一排间谍小说书名）＋**三重放屁**收尾（两明一暗）。
+- **叙事手法**：**第一人称的意识流式夸张**（逃离幻想 / 职场比较幻想）＋**名单式冷幽默**（书架上一排间谍小说书名）＋**两处放屁**收尾（一近一远）。
 
 ## 精读
 
@@ -41,7 +41,7 @@ source_text: "text/ch06 6 the book club.txt"
 
 **中文理解：**「独一无二的那位奥古斯都·埃弗里特」，这是读书会介绍特别嘉宾的说法。
 **关键词：**the one and only / how a book club introduced its special guest
-**为什么这样写：****一个 `was how …` 的比较结构把两种介绍并排**：`The one and only Augustus Everett`（特邀嘉宾的说法）被 `was how a book club introduced its special guest`（读书会介绍特别嘉宾的方式）**等号化**——本句的真实功能是**对照**，它的下一句（`This is January was how a parent forced one kindergartner to befriend another.`）就是对照的另一半。`the one and only`（独一无二的那位）是**宣传册套语**，用它来介绍一个刚从雨里走进来、看起来像从纸袋里喝出来的人，是本章最冷的一处反讽。
+**为什么这样写：****一个 `was how …` 的比较结构把两种介绍并排**：`The one and only Augustus Everett`（特邀嘉宾的说法）被 `was how a book club introduced its special guest`（读书会介绍特别嘉宾的方式）**等号化**——本句的真实功能是**对照**，它的**上一句**（`This is January was how a parent forced one kindergartner to befriend another.`）就是对照的另一半。`the one and only`（独一无二的那位）是**宣传册套语**，用它来介绍一个刚从雨里走进来、看起来像从纸袋里喝出来的人，是本章最冷的一处反讽。
 **读者视角提示：**这两句是 ch01–ch06 这一段里**对 January 身份的一次外部定性**——在同一场聚会上，她被当作「被安排来认识人的小孩」，他被当作「请来的招牌」；这个不对称是后面她「觉得不如他」的全部依据。
 
 > **原句 5:** He could show up looking like a college junior's backup pot dealer (for when the first one was in Myrtle Beach) and still get taken more seriously than I would in my stuffy Michael Kors dress.

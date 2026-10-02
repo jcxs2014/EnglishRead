@@ -27,28 +27,28 @@ source_text: "text/ch04 4 the mouth.txt"
 
 **中文理解：**他直直地盯着我的眼睛——头好奇地一歪——然后说：「我猜猜：所有人都从此幸福快乐了。又一次。」
 **关键词：**looked me dead in the eyes / his head tilted curiously / Let me guess / Again
-**为什么这样写：****两个破折号把「看」拆成三个动作**（直视、歪头、开口），这是**电影分镜写法**：`dead in the eyes`（死死盯着眼睛）是 `in the eyes` 的强调前缀，`his head tilted curiously` 用副词 `curiously` 给一个物理动作（歪头）安上心理动机。`Let me guess:`（我猜猜）把**宣判**伪装成游戏，而 `Again.`（又一次）单独成句——`Again` 是全章的**核弹**，它把这篇小说从「第一次尝试」贬成「又一篇同样的」。`Everyone lives happily ever after` 用**无主语的被动式**（所有人都……），主语缺席等于**对所有言情小说的一刀切**。
+**为什么这样写：****两个破折号把「看」拆成三个动作**（直视、歪头、开口），这是**电影分镜写法**：`dead in the eyes`（死死盯着眼睛）是 `in the eyes` 的强调前缀，`his head tilted curiously` 用副词 `curiously` 给一个物理动作（歪头）安上心理动机。`Let me guess:`（我猜猜）把**宣判**伪装成游戏，而 `Again.`（又一次）单独成句——`Again` 是全章的**核弹**，它把这篇小说从「第一次尝试」贬成「又一篇同样的」。`Everyone lives happily ever after` 用**不定代词作主语的全称判断句**（所有人都……），`everyone` 一次把范围撑到最大，等于**对所有言情小说的一刀切**。
 **读者视角提示：**`Again` 这个词是全书体裁对立的**第一次点名**——ch08 那场赌约（Gus 写 happy ending、January 写 literary fiction）就是把这一句当众兑现；写这一章时只记「这是四年前的第一记耳光」。
 
 > **原句 3:** Unless you wrote short stories with happy endings, in which case you were apparently far more likely to spend four years as rivals, pass another six occasionally Googling him to compare your careers, and then run into him here while dressed like a teen cheerleader at a car wash fundraiser.
 
 **中文理解：**除非你写的是有幸福结局的短篇，那样的结局显然是：花四年当对手，再花六年偶尔 google 他来比较各自的职业，然后穿着洗车场募捐活动的啦啦队少女装在这儿撞见他。
 **关键词：**Unless you wrote / far more likely to / occasionally Googling him to compare your careers
-**为什么这样写：****一个 `Unless`（除非）开头的长条件句，后面挂三个不定式的命运**（`to spend`、`to pass`、`to run into`），把「四年前—六年后—今天」做成**一条时间线**。`apparently`（显然）在这里是**反讽的**——「显然」后面跟的是荒唐的巧合（十六年只为了在洗车场募捐装上撞见他），而这个词在 ch02 出现过一次（`So apparently the Grump didn’t hate all people, just me.`），是叙述者**标注巧合**的固定词。`teen cheerleader at a car wash fundraiser`（洗车场募捐的啦啦队少女）用**三个具体场合**写「她穿得完全不对」——这是本句的喜剧落点。
+**为什么这样写：****一个 `Unless`（除非）开头的长条件句，后面挂三个不定式的命运**（`to spend`、`to pass`、`to run into`），把「四年前—六年后—今天」做成**一条时间线**。`apparently`（显然）在这里是**反讽的**——「显然」后面跟的是荒唐的巧合（**十年**——四年对头加六年偶尔互搜——只为了在洗车场募捐装上撞见他），而这个词在 ch02 出现过一次（`So apparently the Grump didn’t hate all people, just me.`），是叙述者**标注巧合**的固定词。`teen cheerleader at a car wash fundraiser`（洗车场募捐的啦啦队少女）用**三个具体场合**写「她穿得完全不对」——这是本句的喜剧落点。
 **读者视角提示：**这句把她自己**写成一个统计异常值**（写 happy ending 的人才会这样倒霉），是全书**体裁决定命运**这个主题的第一次明示。
 
 > **原句 4:** Finally, I took a deep breath, forced a smile, and stepped out from between the shelves, clutching my god-awful latte like it was a handgun. "Hiiiiiiiiii," I said, then waved in a distinctly animatronic way.
 
 **中文理解：**最后，我深吸一口气，挤出一个笑容，从书架之间走出来，手里攥着那杯难喝得要命的拿铁，像攥着一把枪。「嗨————，我说，然后以一种明显像机器人的方式挥了挥手。
 **关键词：**forced a smile / clutching my god-awful latte like it was a handgun / Hiiiiiiiiii / distinctly animatronic
-**为什么这样写：****三个短横线构成一个「强装镇定」的序列**：`took a deep breath`（准备）、`forced a smile`（戴上脸）、`clutching … like it was a handgun`（把唯一的武器端在手里）。`like it was a handgun` 的 `it was` 用虚拟过去（假使它是一把枪），把**没有武器**写成了**有武器**。`god-awful`（烂得要死）用连字符把「god（上帝）」和「awful（糟糕）」焊成一句粗口，是美式口语里最常见的一类喜剧复合词。`Hiiiiiiiiii`（拉长的招呼）用**字符的物理长度**写出社交的僵硬，而 `animatronic`（机械人偶的）把这个僵硬升级为**「不自然到像机器」**。
-**读者视角提示：**`clutching … like it was a handgun` 与本章前面 `clutching my god-awful latte` 是同一动作的两次——前一处是对黑暗说心里话，这次是**武装自己上战场**，中间隔着一整章她学会了攻击。
+**为什么这样写：****三个动词用逗号串成一个「强装镇定」的序列**：`took a deep breath`（准备）、`forced a smile`（戴上脸）、`clutching … like it was a handgun`（把唯一的武器端在手里）。`like it was a handgun` 的 `it was` 用虚拟过去（假使它是一把枪），把**没有武器**写成了**有武器**。`god-awful`（烂得要死）用连字符把「god（上帝）」和「awful（糟糕）」焊成一句粗口，是美式口语里最常见的一类喜剧复合词。`Hiiiiiiiiii`（拉长的招呼）用**字符的物理长度**写出社交的僵硬，而 `animatronic`（机械人偶的）把这个僵硬升级为**「不自然到像机器」**。
+**读者视角提示：**`clutching … like it was a handgun`（像端一把枪那样攥着）就是本章**唯一那一次** `clutching`——`clutching my god-awful latte` 与 `like it was a handgun` 本是**同一个小句里的两个成分**：一杯烂咖啡被她当场写成了枪。
 
 > **原句 5:** I tried not to think too hard about how Gus could have forgotten me, because doing so would only take my complexion from overcooked lobster to eggplant.
 
 **中文理解：**我尽量不去深想 Gus 怎么会忘了我，因为那样只会让我的肤色从「煮过头的龙虾」变成「茄子」。
 **关键词：**I tried not to think too hard / take my complexion from / overcooked lobster to eggplant
-**为什么这样写：****一个 `I tried not to think`（我尽量不去想）后面跟一个 `because`（因为）**——`try not to` 的语法功能是「压制」，而作者接上的 `because` 把压制失败的后果**说出来了**，这是英语里少见的**自证式心理描写**。`take my complexion from X to Y`（把我的肤色从 X 变成 Y）用 `from … to …` 的**变化区间**来写羞耻；`overcooked lobster`（煮过头的龙虾）与 `eggplant`（茄子）都是**暗紫色系**，所以这个比喻的两端其实**颜色相近**——笑点在于她连自己要多红都想好了。
+**为什么这样写：****一个 `I tried not to think`（我尽量不去想）后面跟一个 `because`（因为）**——`try not to` 的语法功能是「压制」，而作者接上的 `because` 把压制失败的后果**说出来了**，这是英语里少见的**自证式心理描写**。`take my complexion from overcooked lobster to eggplant`（把我的肤色从煮过头的龙虾变成茄子）用 `from … to …` 的**变化区间**来写羞耻；`overcooked lobster`（煮过头的龙虾）与 `eggplant`（茄子）都是**暗紫色系**，所以这个比喻的两端其实**颜色相近**——笑点在于她连自己要多红都想好了。
 **读者视角提示：**`complexion`（肤色）这个正式词用在她最不讲究的时刻；作者是在**用小说的术语写生活**——这是她职业病，也是元小说手法的日常版。
 
 > **原句 6:** "Offending you. One syllable. Ah. Pretty impressive."
@@ -138,4 +138,4 @@ source_text: "text/ch04 4 the mouth.txt"
 
 ## 一句话总结
 
-本章把「宿敌」这个词从一句背景说明补全成一场当面的、被一个音节点燃的舌战——她用他的句式反击他，他用她的词回敬她，而全章最重的一笔是他靠在书店门口喊的那句「回家见」：他没追上来，只是留在原处说了一句日常话。
+本章把「宿敌」这个词从一句背景说明补全成一场当面的、被一个音节点燃的舌战——她用他的句式反击他，他用她的词回敬她，而全章最重的一笔是**书店那头 Pete 隔着书架喊回来的那句「彼此彼此」**：他没追上来，只是留在原处回了一句日常话。

@@ -21,7 +21,7 @@ source_text: "text/ch09 9 the manuscript.txt"
 **中文理解：**女孩遇到男孩。男孩对女孩视若无睹，只在她没看的时候又偷偷盯着她。于是女孩和男孩回了家，看他把那顶闹鬼的帽子挂在一排拥挤的帽架上。
 **关键词：**Boy ignores girl / except when she’s not looking / his haunted hat on a crowded rack
 **为什么这样写：**Shadi 在短信里用**三句一组的顺口溜**复述一场约会（遇人 → 被冷落 → 跟回家看帽子），句子的主语在 `Girl` 与 `Boy` 之间按节拍轮换，读起来像童谣而不像复盘。作者把「挂帽子」这个具体动作放在最后当包袱，**先给结论再补细节**是短信体最省字的写法。`his haunted hat`（他闹鬼的帽子）里 `haunted`（闹鬼的）既是修饰帽子的定语，又是全书的关键词：这一章的闪回正是她父亲留下的「鬼」。
-**读者视角提示：**`a crowded rack`（拥挤的帽架）是她昨晚在 bar 亲眼看见的物件；这四个字是本章开篇那条短信的**物证**，把好友的转述与她的现场记忆焊在一起。
+**读者视角提示：**`a crowded rack`（拥挤的帽架）只来自 Shadi 那条短信里的 `He has a whole RACK of vintage hats!!!`——她**本人没见过**这个帽架，这四个字是**转述**，不是物证。
 
 > **原句 2:** He was a little softer than he’d been in college (not that it took much), but it suited him. Or maybe it just suited me.
 
@@ -34,8 +34,8 @@ source_text: "text/ch09 9 the manuscript.txt"
 
 **中文理解：**一场初遇。Augustus Everett 的小说里没有初遇这种桥段，这一点绝对没跑。
 **关键词：**A meet-cute / Augustus Everett novels / for damn sure
-**为什么这样写：**`A meet-cute.` 是**独立成段的片段句**，像她在文档里刚敲下这两个词又删掉了上下文。`meet-cute`（邂逅式相遇，言情/轻喜剧的固定类型词）在这里被当作**她的小说自己的题材**点出来，而紧跟着的 `There weren’t meet-cutes in Augustus Everett novels`（Augustus Everett 的小说里没有这种桥段）是把对手的**作品风格当成证据**来反驳——她了解他，靠的不是与他相识，而是读了他的书评。
-**读者视角提示：**`for damn sure` 的粗口强调（damn）是本章罕见的**情绪外露**；她嘴上在贬低他的小说，手上却已经替他想好了周六的场景（原句 2 已经说过要 `plan out Saturday’s romantic-comedy scenario for Gus`）。
+**为什么这样写：**`A meet-cute.` 是**段落中间的片段句**，像她在文档里刚敲下这两个词又删掉了上下文。`meet-cute`（邂逅式相遇，言情/轻喜剧的固定类型词）在这里被当作**她的小说自己的题材**点出来，而紧跟着的 `There weren’t meet-cutes in Augustus Everett novels`（Augustus Everett 的小说里没有这种桥段）是把对手的**作品风格当成证据**来反驳——她了解他，靠的不是与他相识，而是读了他的书评。
+**读者视角提示：**`for damn sure` 的粗口强调（damn）是本章罕见的**情绪外露**；她嘴上在贬低他的小说，手上却已经替他想好了周六的场景（**原句 4** 已经说过要 `plan out Saturday’s romantic-comedy scenario for Gus`）。
 
 > **原句 4:** People doing the wrong thing for the right reasons. People doing the right thing for the wrong reasons. Only getting what they wanted if it would ultimately destroy them.
 

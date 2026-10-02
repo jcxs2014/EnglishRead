@@ -9,7 +9,7 @@ source_text: "text/ch07 7 the ride.txt"
 ## 本章导航
 
 - **一句话概括**：夜里没有 Uber，Gus 用「我送你回家」把她从雨里请上车，却带去一家凌晨档甜甜圈店（所谓「解酒的办法」）；两个「怎么知道」把对话推成一场**互相套话的智力游戏**，最后她为「女性写作」发了一通火，他认真听完了。
-- **情感弧线位置**：**升温（第一次真正的并坐）**——前面六章两人都在**各自的场景里**（门廊、书店、洗手间、客厅），本章他们**第一次在同一个封闭空间里待够一整场对话**；关系从「互不承认」走到「交换真话」。
+- **情感弧线位置**：**升温（第一次真正的并坐）**——前面六章两人都在**各自的场景里**（门廊、书店、洗手间、客厅），本章他们**第一次同处一辆车、待够一整场对话**；关系从「互不承认」走到「交换真话」。
 - **Tropes 兑现/反转**：**rom-com 撞嘴炮**（枪 / 口交 / foot job 的连续回旋镖）；**雨夜送回家**的言情老套路被**反套路**（不送回家，先买甜甜圈）；**宿敌互挖隐私**（Why'd you move here? / What was your question?）。
 - **人物弧线**：January 从 ch06 的**自卑**（觉得自己不如他）走到本章的**愤怒**——真正的靶子不是他，是整个「不算女性小说」的分类体系；Gus 从 ch04 的刻薄走到本章的**道歉**（`It was a bad day.`），又被他自己的下一句拉回玩笑。
 - **叙事手法**：**对话体为主**（全章几乎全是台词与内心独白）＋**往复句式的结构游戏**（`How do you know …?` 的连锁）＋**场景喜剧降格**（开膛肠甜甜圈、只穿内裤的店主）。
@@ -27,7 +27,7 @@ source_text: "text/ch07 7 the ride.txt"
 
 **中文理解：**「我猜，」Gus 拖长了调子说。「跟那个真正住在这儿的人说的一模一样：这地方没有 Uber。」
 **关键词：**Let me guess / drawled / exactly as the person who actually lives here says
-**为什么这样写：****`Let me guess`（我猜）是 ch04 那句的完整回归**——四年前他说 `Let me guess: Everyone lives happily ever after. Again.`（我猜：所有人都从此幸福快乐了。又一次。），本章他用**同一个开头**说了一句完全不同的话，而她刚刚还在心里对 `Guess` 这个词敏感。`drawled`（拖着调子说）是他全书的**语言标记**，ch01 就出现过。`the person who actually lives here`（那个真正住在这儿的人）是一个**不带人称的绕口长句**，用 `actually`（真正地）把她刚才那句自相矛盾的话**原样奉还**：她先说「这地方有 Uber」，现在承认没有，而他的修辞把这个转折做成了**一条官方的更正通知**。
+**为什么这样写：****`Let me guess`（我猜）是 ch04 那句的完整回归**——四年前他说 `Let me guess: Everyone lives happily ever after. Again.`（我猜：所有人都从此幸福快乐了。又一次。），本章他用**同一个开头**说了一句完全不同的话，而她刚刚还在心里对 `Guess` 这个词敏感。`drawled`（拖着调子说）是他全书的**语言标记**，ch01 就出现过。`the person who actually lives here`（那个真正住在这儿的人）是一个**不带人称的绕口长句**，用 `actually`（真正地）把 **Pete 刚才那句纠正**原样奉还：她先说的是「我叫 Uber」，**Pete 当场回「这儿没有 Uber」**，而他的修辞把这个更正做成了**一条官方的通知**。
 **读者视角提示：**`Let me guess` 这个开头在本章是**第二次出现**（第一次在 ch04 的倒叙里）；它的重复说明**他还在用四年前那套读她的方法**，而她这次接住了。
 
 > **原句 3:** "Fine, I won't take you home until you're sober, then. I know the best trick for that in all of North Bear Shores."
@@ -48,8 +48,8 @@ source_text: "text/ch07 7 the ride.txt"
 
 **中文理解：**「我只希望不用经常把你劝上我的车，」他说。
 **关键词：**hoping I won't have to / coax you into my car / very often
-**为什么这样写：****一个希望句（`I'm hoping`）里嵌着两个双重否定**（`won't have to`、`very often` 要压低频率）——句子表面在说「希望不常有」，而 `coax you into my car`（把你哄进我的车）这个短语把**整场戏的性质**说成了**哄**。`coax`（哄、劝诱）这个词是本章的关键：她以为要付出什么才上车，他说是**哄**。
-**读者视角提示：**`coax`（哄）里的 `-oax-` 来自 `coax`（哄诱），与 ch04 她的 `groundbreaking` 同属**英式轻喜剧的用词习惯**；作者把「诱哄」这个略带温柔的词放进言情句式里，是本章最含蓄的一次**软化**。
+**为什么这样写：****一个希望句（`I'm hoping`）里嵌着一处否定加一个频率副词**（`won't have to` 是不必，`very often` 是要压低频率）——句子表面在说「希望不常有」，而 `coax you into my car`（把你哄进我的车）这个短语把**整场戏的性质**说成了**哄**。`coax`（哄、劝诱）这个词是本章的关键：她以为要付出什么才上车，他说是**哄**。
+**读者视角提示：**`coax`（哄、劝诱）是本章**只出现一次**的关键词（`I won’t have to coax you into my car`），既不是英式标记，也不是词源游戏；作者把「诱哄」这个略带温柔的词放进言情句式里，是本章最含蓄的一次**软化**。
 
 > **原句 6:** “This conversation, definitely. The donuts are good. I Googled you too, by the way. You should consider getting a rarer name.”
 
@@ -62,7 +62,7 @@ source_text: "text/ch07 7 the ride.txt"
 
 **中文理解：**「你怎么知道你不会一直用别的问题来回答我的问题，直到我们俩都死？」
 **关键词：**How do you know / answering your questions with other questions / until we both die
-**为什么这样写：****一个 `How do you know …?`（你怎么知道……）的循环句**——这已经是本章**第四个**同型句（前面三个都是她的 `How do you know I didn’t just Google it?` / `How do you know Googling me wouldn't be even more amusing?` / `How do you know I wasn't Googling you out of suspicion?`），每一句都用**同一个开头**把对方刚说的反问**顶回去**。`answering your questions with other questions`（用别的问题回答你的问题）是**对句法的自我描述**，而 `until we both die`（直到我们俩都死）用**死亡作为循环的终点**，把一个逻辑游戏写成了**两条平行的抛物线**。
+**为什么这样写：****一个 `How do you know …?`（你怎么知道……）的循环句**——这已经是本章**第四个**同型句（前面三个依次是**她**的 `How do you know I didn’t just Google it?`、**他**的 `How do you know that your Googling me wouldn’t be even more amusing to me?`、**她**的 `How do you know I wasn’t Googling you out of suspicion you had a criminal background?`），每一句都用**同一个开头**把对方刚说的反问**顶回去**。`answering your questions with other questions`（用别的问题回答你的问题）是**对句法的自我描述**，而 `until we both die`（直到我们俩都死）用**死亡作为循环的终点**，把一个逻辑游戏写成了**两条平行的抛物线**。
 **读者视角提示：**这四句是**全章的形式核心**——作者用句法的重复替代了情节推进（两人谁都没得到答案），这是 rom-com 里「**互相回避的调情**」的标准写法。
 
 > **原句 8:** Ready and willing to be read by anyone, but somehow by being a woman who writes about women, I’ve eliminated half the Earth’s population from my potential readers, and you know what? I don’t feel ashamed of that. I feel pissed.

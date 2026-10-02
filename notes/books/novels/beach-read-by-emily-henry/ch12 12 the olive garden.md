@@ -28,14 +28,14 @@ source_text: "text/ch12 12 the olive garden.txt"
 **中文理解：**回程路上我才明白，厌恶（他刚说 `Shit, I hate vomit.`）是「害怕」一种不那么难堪的说法。
 **关键词：**Hate, I found out on the ride home / a less embarrassing way to say fear
 **为什么这样写：**这是一句**语法被拆开摆平的观察**：`Hate` 在主语位置、`was a less embarrassing way to say fear` 整个成了同位语，作者用一句主干把「A 是 B 的另一种说法」这个结构**显形**。`I found out on the ride home`（我在回程路上才发现）把**发现的过程**归到具体的时间地点上，与 `Hate` 被说出来的那一刻分开——她先听见词，再在路上译出词义。`less embarrassing`（不那么难堪）把 `fear` 的难堪量化成**可比较的程度**。
-**读者视角提示：**这条等式在本章被反复使用：厌恶＝害怕、甜言＝讨好、引用＝礼貌。它是她读他的固定方法。
+**读者视角提示：**这条等式在本章**只出现过这一次**：厌恶＝害怕。它是她读他的固定方法。
 
 > **原句 3:** Hers said, You will meet a handsome stranger, and his said, Your story’s about to begin.
 
 **中文理解：**她那张写着「你将遇见一位英俊的陌生人」，他那张写着「你的故事就要开始了」。
 **关键词：**You will meet a handsome stranger / Your story’s about to begin
 **为什么这样写：**两句算命结果被写成**同构的将来时**（`will meet` / `is about to begin`），作者甚至不给它们加引号，而是接在 `Hers said,` 与 `his said,` 之后——**算命纸上的字直接当叙述句用**，像格言。`Your story’s about to begin`（你的故事就要开始了）是对言情小说**类型宣言**的戏仿：她父亲在算命摊上抽到的，是她这一整行的开场白；而 `Your story’s` 的**第二人称**此刻正对着读者。
-**读者视角提示：**她父亲那句被写在书里的献词（见原句 6）就是从这两张票来的；它们**至今还挂在客厅墙上**——至少她去年圣诞节回家时还在。
+**读者视角提示：**她父亲那句被写在书里的献词（本章中**他复述过一次**：`To my parents. Who are proof of fate’s strong, if animatronic, hand.`）就是从这两张票来的；它们**至今还挂在客厅墙上**——至少她去年圣诞节回家时还在。
 
 > **原句 4:** It felt like a metal cheese slicer, pulled right through my center, left there midway through my body.
 
@@ -48,7 +48,7 @@ source_text: "text/ch12 12 the olive garden.txt"
 
 **中文理解：**（那时）我一只包早就收拾好了，里面是一堆漫画书、几双袜子和几根燕麦棒。
 **关键词：**a bag packed with / comic books and some socks and granola bars
-**为什么这样写：**这句的力量全在**清单的琐碎**：小孩出逃，带的是**漫画书、袜子、燕麦棒**——三样都是能塞进书包、能在火车上吃的东西，没有一件是行李。作者用**并列而无层级**的三项把一场逃亡写成**一次郊游**；而 `I kept`（我一直备着）里的 `kept` 是完成时加持续义：**包是早就收好的，人却一直没走**。
+**为什么这样写：**这句的力量全在**清单的琐碎**：小孩出逃，带的是**漫画书、袜子、燕麦棒**——三样都是能塞进书包、能在火车上吃的东西，没有一件是行李。作者用**并列而无层级**的三项把一场逃亡写成**一次郊游**；而 `I kept`（我一直备着）里的 `kept` 是**一般过去时**，持续义靠 `a bag packed`（一直备着的那只包）这个宾语撑出来：**包是早就收好的，人却一直没走**。
 **读者视角提示：**这只包是为**离开他父亲**准备的，而他母亲本可以带他们走；下一段他给出答案：`She could have taken us out of there, and she didn’t.`（她本可以带我们出来，可她没有。）
 
 > **原句 6:** I know it wasn’t simple, and when I talk about this book, I tell people it’s because I want to ‘explore the reasons people stay, no matter the cost,’ but the truth is I just want to understand her reasons.
@@ -70,7 +70,7 @@ source_text: "text/ch12 12 the olive garden.txt"
 **中文理解：**在这个世界里，你永远拿不到当初许诺给你的那些纸伞。
 **关键词：**the paper umbrellas you were promised / in this world / never get
 **为什么这样写：**他用**实物**（那杯蓝色饮料上本该有的粉色小纸伞）承载**整套世界观**：`promised`（许诺的）回指全书的契约词（happy ending 就是那张纸伞），`in this world`（在这个世界里）把判断限定在**人间**而非宇宙，于是绝望变成一个**世界观**而不是一种情绪。`never get` 是一般现在时的否定，讲的是**常态**而不是意外——而 `You` 首字母大写，是**他对每一个人的断言**，包括她。
-**读者视角提示：**她的回话是 `Gus, you must be the paper umbrellas you wish to see in this world.`（你就是这个世界上我想看见的那些纸伞。）——这一来一回是本章**她把他写成一个角色**的那一处。
+**读者视角提示：**她的回话是 `Gus, you must be the paper umbrellas you wish to see in this world.`（你就是这世界上你想看见的那些纸伞。）——这一来一回是本章**她把他写成一个角色**的那一处。
 
 ## 本章词汇
 

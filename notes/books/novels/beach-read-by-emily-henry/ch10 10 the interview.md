@@ -34,7 +34,7 @@ source_text: "text/ch10 10 the interview.txt"
 
 **中文理解：**它（写作的状态）一来是痛苦的退潮，一来是绝望的涌流，仿佛是照着那堵雾墙后面某处拍岸的浪调准了节拍。
 **关键词：**painful ebbs / desperate flows / timed to the waves crashing
-**为什么这样写：**`ebbs and flows`（潮涨潮落）本是**固定搭配**，作者把它拆成两个并列名词再各配一个定语（`painful` / `desperate`），于是「潮水」被染上两种**情绪色**。`as if timed to`（仿佛照着……对好了节拍）把写作的断续说成**与外部自然同步的节律**——注意时态是 `was if timed` 的虚拟，意思是「像是」，而这一层「像是」正是她此刻还没建立起来的联系。
+**为什么这样写：**`ebbs and flows`（潮涨潮落）本是**固定搭配**，作者把它拆成两个并列名词再各配一个定语（`painful` / `desperate`），于是「潮水」被染上两种**情绪色**。`as if timed to`（仿佛照着……对好了节拍）把写作的断续说成**与外部自然同步的节律**——注意这里的时态：`came` 是过去时，`as if timed` 是**过去分词作状语**，意思才是「像是」，而这一层「像是」正是她此刻还没建立起来的联系。
 **读者视角提示：**`somewhere behind that wall of fog`（那堵雾墙后面某处）写的是**看不见的参照物**：她连自己该写什么都还没看见，只能凭潮水去校准。
 
 > **原句 4:** I remembered things as I’d thought they’d been, and then the truth, That Truth, had ripped the memories in half as easily as if they had been images on printer paper.
@@ -55,21 +55,21 @@ source_text: "text/ch10 10 the interview.txt"
 
 **中文理解：**具体的细节有助于让不可信的东西变得可信。
 **关键词：**Having specificity / make the unbelievable believable
-**为什么这样写：**这是**破折号插入的谚语式结构**：主句被 `Having specificity helps`（有具体性会有帮助）撑起，插入的动宾结构 `make the unbelievable believable`（让不可信的变可信）承担全部意思，而它本身的精妙在于**同一个形容词换一次前缀**：`unbelievable`（不可信的）加 `-en` 变成 `believable`（可信的）——`un-` 这个否定前缀在这里既是**词法**（加前缀）也是**论题**（不可信）。`helps` 而非 `makes` 保留了作者的经验主义口吻：细节是助力，不是保证。
+**为什么这样写：**这是**单句的谚语式陈述**：`Having specificity helps`（有具体性会有帮助）撑起主句，动宾结构 `make the unbelievable believable`（让不可信的变可信）承担全部意思，而它本身的精妙在于**同一个形容词换一次前缀**：`unbelievable`（不可信的）**去掉否定前缀 `un-`** 就是 `believable`（可信的）——`un-` 这个否定前缀在这里既是**词法**（加前缀）也是**论题**（不可信）。`helps` 而非 `makes` 保留了作者的经验主义口吻：细节是助力，不是保证。
 **读者视角提示：**这正是他把 Grace 带来这一趟的理由；他随后用同一个逻辑问她（`Having specificity helps make the unbelievable believable.` 之后是关于读者到底想看什么的争论）。
 
 > **原句 7:** “She snorted when she laughed.”
 
 **中文理解：**「她笑的时候会从鼻子里哼出来。」
 **关键词：**She snorted / when she laughed
-**为什么这样写：**January 给 Grace 的许可很宽：她可以说任何事，哪怕只是妹妹身上你最喜欢的一点点。Grace 给出的答案是**一个身体细节**——不是性格、不是遗憾、不是信仰，而是一声**笑里的鼻音**。`She snorted when she laughed.` 一句里 `laughed` 出现两次（`she laughed` 与 `She snorted when she laughed.`），而 `when` 从句把它变成**条件**：先是笑，才有那声哼。这个条件关系让读者意识到**这正是她怀念的东西的运行条件**。
+**为什么这样写：**January 给 Grace 的许可很宽：她可以说任何事，哪怕只是妹妹身上你最喜欢的一点点。Grace 给出的答案是**一个身体细节**——不是性格、不是遗憾、不是信仰，而是一声**笑里的鼻音**。`She snorted when she laughed.` 一句里 `laughed` **只出现一次**，它与 `snorted` 配成一对，而 `when` 从句把它变成**条件**：先是笑，才有那声哼。这个条件关系让读者意识到**这正是她怀念的东西的运行条件**。
 **读者视角提示：**这一句是全章的分寸所在：她记住的不是发生了什么，而是**她妹妹笑起来什么样**。
 
 > **原句 8:** “She was still laughing.”
 
 **中文理解：**「她当时还在笑。」
 **关键词：**She was still laughing
-**为什么这样写：**全章最重的一句，**五个词，两个词组**：`She`（她）加上 `was still laughing`（还在笑）。`still`（还在）把**时间轴拉到极限**——不是「她那时在笑」，是「一直还在笑，笑到最后」。`still` 的全部重量来自它所接的那件事：Grace 一直在等的那个发现（有什么不对劲）从未到来，而 Hope 直到死都还在笑。前面她说的是过去时的一般习惯（`She snorted when she laughed.`），这里变成 `was still laughing`（还在笑），**时态的这次滑动就是从怀念滑向事故**。
+**为什么这样写：**全章最重的一句，**四个词，两个词组**：`She`（她）加上 `was still laughing`（还在笑）。`still`（还在）把**时间轴拉到极限**——不是「她那时在笑」，是「一直还在笑，笑到最后」。`still` 的全部重量来自它所接的那件事：Grace 一直在等的那个发现（有什么不对劲）从未到来，而 Hope 直到死都还在笑。前面她说的是过去时的一般习惯（`She snorted when she laughed.`），这里变成 `was still laughing`（还在笑），**时态的这次滑动就是从怀念滑向事故**。
 **读者视角提示：**`still` 在这里是全章的关键词：Grace 用来解释自己为何没察觉的，正是这个词——**一切看起来都还正常**。
 
 ## 本章词汇

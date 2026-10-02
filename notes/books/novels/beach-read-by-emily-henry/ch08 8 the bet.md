@@ -27,8 +27,8 @@ source_text: "text/ch08 8 the bet.txt"
 
 **中文理解：**我有点绝望，仿佛我要是让他赢下这一架，那就成了最后一根稻草：我就再也回不到我自己了——回不到相信爱、把世界和世上的人看成纯粹而美好的东西的那个我——回不到热爱写作的那个我。
 **关键词：**the final straw / no getting back to myself / to loving writing
-**为什么这样写：****`the final straw`（最后一根稻草）后面接冒号**——冒号后是一整段**用三个 `to …` 排比撑开的损失清单**（回到我自己、回到相信爱、回到热爱写作），而每两个 `to` 之间用**破折号**断开。`no getting back to` 里的 `getting back to`（回到）在英语里更常见于**地点**（get back to Chicago），被用到**自我与信念**上就变成了**回归自己的版本**。`pure, beautiful things`（纯粹而美好的东西）是三个名词的并置，而**前面 `the world and the people in it`**（世界和其中的人）说明她把整个宇宙当成了**需要被爱护的对象**。
-**读者视角提示：**`the final straw` 与 `growing up and all that`（长大以及诸如此类）这类**英式短语**是 ch07 `coax`、`stuffy` 之外的**又一层英式用词线索**；作者在这条街上的幽默一直靠这种**英式短语的冷感**。
+**为什么这样写：****`the final straw`（最后一根稻草）后面接冒号**——冒号后是一整段**用三个 `to …` 排比撑开的损失清单**（回到我自己、回到相信爱、回到热爱写作），而**只有最后一个 `to` 之前**用破折号断开，前两个之间是逗号。`no getting back to` 里的 `getting back to`（回到）在英语里更常见于**地点**（get back to Chicago），被用到**自我与信念**上就变成了**回归自己的版本**。`pure, beautiful things`（纯粹而美好的东西）是**两个形容词＋一个名词**的组合，而**前面 `the world and the people in it`**（世界和其中的人）说明她把整个宇宙当成了**需要被爱护的对象**。
+**读者视角提示：**`the final straw` 后面那个冒号才是这句的支点：作者把损失摊成一整串 `to …` 排比，幽默来自**清单式的冷感**；这一章里**没有任何英式短语**可以充作线索。
 
 > **原句 3:** “You are coldly horny, Gus.”
 
@@ -42,7 +42,7 @@ source_text: "text/ch08 8 the bet.txt"
 **中文理解：**「我没在写。」我不确定自己为什么要承认这一点，尤其是对他而不是别人，但告诉他总比告诉 Anya 或 Sandy 好。
 **关键词：**I'm not writing / I wasn't sure why I was admitting it / but better him than Anya or Sandy
 **为什么这样写：****三个短句按承认的顺序排列**：先是**事实**（我没在写），再是**理由的不明**（我不知道为什么在说），最后是**选择**（但告诉他比告诉经纪人好）。`better … than`（比……好）这个比较把**告解对象**排了序，而 `Anya or Sandy`（Anya 或 Sandy）是两个**有名字的出版方人物**——用名字而不是身份（经纪人、出版人）来对比，说明她此刻把**具名的人**当成**可以被托付的对象**。`least of all to Gus`（尤其是对他）用 `least of all`（尤其是）这个**反直觉用法**：读者以为「尤其是对他」表示不该告诉他，作者正是用这个反预期来**强调不该说的话居然说了**。
-**读者视角提示：**`I'm not writing` 三个词是本章的**枢纽事实**——她对出版方隐瞒了三个月，而对一个邻居说了；这正是赌约能成立的前提。
+**读者视角提示：**`I'm not writing` 三个词是本章的**枢纽事实**——她瞒着出版方、也瞒着经纪人——离交稿只剩三个月——却对一个邻居说了；这正是赌约能成立的前提。
 
 > **原句 5:** Gus nodded thoughtfully. “It’s always harder to write when you have to. It’s like … the pressure turns it into a job, like anything else, and you might as well be selling insurance. The story suddenly loses any urgency to be told.”
 
@@ -56,21 +56,21 @@ source_text: "text/ch08 8 the bet.txt"
 **中文理解：**「你试试写阴郁的文学小说，看看那是不是你现在的样子，看你有没有能力成为那样的人」——我翻了个白眼，从他手里抢走最后一口甜甜圈。他毫不在意地接着说——「而我来写一个从此幸福快乐的结局。」
 **关键词：**bleak literary fiction / that’s who you are now / snatched the last bite of donut / unbothered
 **为什么这样写：****一个被动作打断的提议句**——`You try writing bleak literary fiction, see if that's who you are now`（你试试写阴郁文学小说，看那是不是你现在的样子）里那个 **`see if`（看看是否）**用破折号外加一个**抢 donuts 的动作**切断，`unbothered`（毫不在意地）又把它接上，最后 `and I'll write a Happily Ever After`（而我来写一个幸福结局）作为**对称句**落地。`bleak`（阴郁）与 `Happily Ever After`（童话结尾套语）在这里是**两个类型标签的正式对撞**，而 `that’s who you are now`（那是你现在的样子）把**体裁之争**与**身份之争**绑在了一句话里。
-**读者视角提示：**`snatched the last bite of donut from his hand`（从他手里抢走最后一口甜甜圈）是本章**唯一一次她主动触碰他**——虽然抢的是食物，但**手与手之间的距离**在此被取消。
+**读者视角提示：**`snatched the last bite of donut from his hand`（从他手里抢走最后一口甜甜圈）是本章**第一次她主动触碰他**（第二次是主动把手伸进他掌心，第三次是推他肩膀）——虽然抢的是食物，但**手与手之间的距离**在此被取消。
 
 > **原句 7:** The loser will promote the winner’s book, write an endorsement for the cover, recommend it in interviews, choose it when guest judging for book clubs, and all that, guaranteeing sales.
 
 **中文理解：**「输家要替赢家的书做宣传、在封面上写一条推荐语、在访谈里推荐它、在图书俱乐部当客座评委时选它，以及诸如此类——保证销量。」
 **关键词：**the winner's book / an endorsement for the cover / guest judging for book clubs / guaranteeing sales
-**为什么这样写：****四个动名词（promote / write / recommend / choose）串成一份工作清单**——每一项都是**出版业的实际职务**，而 `all that, guaranteeing sales`（以及诸如此类，保证销量）用**一个逗号把总结塞进破折号**，让「保证销量」既是**补充说明**又是**威胁**。`guest judging`（客座评审）是**出版业术语**（出版社请作者参与图书俱乐部选书），作者用它让这条规则**真的内行**。整条条款的语法是**将来时的被动式**（`will promote`），把「输」写成一个**必须执行的义务**。
+**为什么这样写：****四个动词原形（promote / write / recommend / choose）串成一份工作清单**——每一项都是**出版业的实际职务**，而 `all that, guaranteeing sales`（以及诸如此类，保证销量）用**一个逗号把总结挂在清单末尾**，让「保证销量」既是**补充说明**又是**威胁**。`guest judging`（客座评审）是**出版业术语**（出版社请作者参与图书俱乐部选书），作者用它让这条规则**真的内行**。整条条款的语法是**将来时的主动式**（`The loser will promote`），把「输」写成一个**必须执行的义务**。
 **读者视角提示：**`guaranteeing sales`（保证销量）这四个字是**赌注的真正分量所在**——这不只是面子问题，而是**谁掌握书商的推荐位**。
 
 > **原句 8:** “Oh my God!” I shoved his shoulder and flopped back into my seat, laughing. “Are you slightly misquoting A Walk to Remember at me?”
 
 **中文理解：**「我的天！」我推了他肩膀一下，整个人往后一摊靠回座位里，大笑起来。「你是在拿《恋上一个雨天》的话稍微改动一下来说我吗？」
 **关键词：**shoved his shoulder / flopped back into my seat / misquoting A Walk to Remember at me
-**为什么这样写：****三个动作（推、摊、笑）把一个禁令变成了肢体喜剧**——`shoved his shoulder`（推他肩膀）是**本章第二次她主动碰他**，而且这一次**没有任何道具**（前一次是抢甜甜圈），所以这一次是**直接的**。`flopped back into my seat`（瘫回座位）用 `flopped`（扑通一声倒下）写**彻底的放松**。`misquoting … at me`（拿……的话改装来说我）把 **quote 的动作**用成 `misquote at`（改装引用），而 `A Walk to Remember`（一部小说的名字）在这里是**只有书迷才接得住的梗**——她认出了那句话出自何处，说明她**读过那部小说**。
-**读者视角提示：**`A Walk to Remember` 这部小说里的台词是「你能不能承诺不会爱上我」——**他用的是她的书**，而不是他的墓志铭；这一层互换在小说内部就完成了。
+**为什么这样写：****三个动作（推、摊、笑）把一个禁令变成了肢体喜剧**——`shoved his shoulder`（推他肩膀）是**本章第三次她主动碰他**（前两次是抢甜甜圈、把手伸进他掌心），而且这一次**没有任何道具**，所以这一次是**直接的**。`flopped back into my seat`（瘫回座位）用 `flopped`（扑通一声倒下）写**彻底的放松**。`misquoting … at me`（拿……的话改装来说我）把 **quote 的动作**用成 `misquote at`（改装引用），而 `A Walk to Remember`（一部小说的名字）在这里是**只有书迷才接得住的梗**——她认出了那句话出自何处，说明她**读过那部小说**。
+**读者视角提示：**`A Walk to Remember` 这部小说里的台词是「你能不能承诺不会爱上我」——紧接着他就**把小说说成了电影**（`Excellent movie.`——`Sorry, film.`）；一个刚替对方站台的人先把自己降了一级。
 
 ## 本章词汇
 

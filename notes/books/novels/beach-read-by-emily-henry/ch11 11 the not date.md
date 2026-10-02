@@ -20,7 +20,7 @@ source_text: "text/ch11 11 the not date.txt"
 
 **中文理解：**我整个星期六都花得太多了，就为了给 Gus 的第一场恋爱冒险挑一个完美的地点。
 **关键词：**I SPENT FAR TOO much / a perfect destination / first Adventure in Romance
-**为什么这样写：**开头句把**主语的成本**（SATURDAY 全大写）与**宾语的琐碎**（挑地点）并置，`I SPENT FAR TOO much` 的自我检讨是叙述者式的开场白。`Adventure in Romance` 是她给这次采风起的**专名**，三个词里两个大写，把一个普通周末包装成**系列里的一项新任务**——所以本章的嘉年华注定达不到「perfect destination」的标准，而这个落差就是标题所说的「不是约会」。
+**为什么这样写：**开头句把**自我检讨的大写**（`I SPENT FAR TOO`）与**宾语的琐碎**（`much of my Saturday` 只是在挑地点）并置，这种不对等是叙述者式的开场白。`Adventure in Romance` 是她给这次采风起的**专名**，三个词里两个大写，把一个普通周末包装成**系列里的一项新任务**——所以本章的嘉年华注定达不到「perfect destination」的标准，而这个落差就是标题所说的「不是约会」。
 **读者视角提示：**这一句同时预告了两件事：她在为别人的体裁出力（不为自己），以及她把准备活动当成了正事。
 
 > **原句 2:** It didn’t take inspiration to dredge up a list of plot points, but to find that moment—the perfect moment that defined a book, that made it come alive as something greater than the sum of its words—that required an alchemy you couldn’t fake.
@@ -69,7 +69,7 @@ source_text: "text/ch11 11 the not date.txt"
 
 **中文理解：**但只是因为我非常相信 Ferris。
 **关键词：**only because / I trust Ferris so damn much
-**为什么这样写：**全章最后一句，用 `But only because`（但只是因为）把上一句的「我愿意坐那台」的**理由收窄成一条**。而这条理由值得注意：她随口把那个摩天轮女工起名叫 **Ferris**，他接住了这个名字，并且把**信任**安放在一个**角色**身上——他说的是「我相信 Ferris」，不是「我相信这个设定」。`so damn much` 的 `damn` 是本章第二次出现的粗口强调（另一处是他为不存在的 TAYLOR SWIFT MV 抬杠时她用的大写），语气比上一章更松。
+**为什么这样写：**全章最后一句，用 `But only because`（但只是因为）把上一句的「我愿意坐那台」的**理由收窄成一条**。而这条理由值得注意：她随口把那个摩天轮女工起名叫 **Ferris**，他接住了这个名字，并且把**信任**安放在一个**角色**身上——他说的是「我相信 Ferris」，不是「我相信这个设定」。`so damn much` 的 `damn` 是本章第二次出现的粗口强调（另一处是**他**脱口而出的 `Damn.`），语气比上一章更松。
 **读者视角提示：**这一句是**他对她方案的正式认可**，而形式是他一贯的挑刺式让步：先说只、再说条件、最后把条件说得极重。
 
 ## 本章词汇

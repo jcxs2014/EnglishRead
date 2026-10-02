@@ -56,7 +56,7 @@ source_text: "text/ch01 1 the house.txt"
 **中文理解：**现在我们的关系是世界上最不具竞争性的追人游戏。
 **关键词：**the world’s least / competitive / phone tag
 **为什么这样写：****三重夸张的用法**：`the world’s least` 是最高级，`competitive`（有竞争性的）被用来修饰一个**儿童游戏**（追人游戏），三者叠加出刻意的反差。作者用**游戏化**的语言来描述母女关系——这种「把沉重关系降格成游戏」的手法在本章重复出现（`old-fashioned foot job quid pro quo`、`Narrating things`）。
-**读者视角提示：**`the world’s least` 是最高级断言，但在**本书范围内**只有这一处 `least`（可核）；写分析时可保留，但不要推广成「全书最」。
+**读者视角提示：**`the world’s least` 是最高级断言，但全书 `at least` 另有 48 处，`the world’s least` 这个**最高级形态**只此一处（可核）；写分析时可保留，但不要推广成「全书最」。
 
 > **原句 7:** Old January would have known what to say, but my mind was as blank as it was every time I opened Microsoft Word.
 

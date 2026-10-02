@@ -27,7 +27,7 @@ source_text: "text/ch02 2 the funeral.txt"
 
 **中文理解：**Trials。幸福结局。苦难。幸福结局。化疗。幸福结局。
 **关键词：**Tribulation / Happy ending / Chemo. Happy ending
-**为什么这样写：****六个词组、六次句号**，把一生压成一条**极简的对照轨**：`Trial → Happy ending → Tribulation → Happy ending → Chemo → Happy ending`。作者不给任何动词与主语，让这对名词自己排队；`Tribulation`（苦难，书面语）与前后两个日常词（`Trial` 官司、`Chemo` 化疗）**语域不一致**，正是这种不一致暗示她后来把家事**写成了小说**。三个 `Happy ending` 重复三次，把「幸福结局」从偶发事件变成**默认设置**。
+**为什么这样写：****六个词组、六次句号**，把一生压成一条**极简的对照轨**：`Trial → Happy ending → Tribulation → Happy ending → Chemo → Happy ending`。作者不给任何动词与主语，让这对名词自己排队；`Tribulation`（苦难，书面语）与前后两个日常词（`Trial` 磨难、`Chemo` 化疗）**语域不一致**，正是这种不一致暗示她后来把家事**写成了小说**。三个 `Happy ending` 重复三次，把「幸福结局」从偶发事件变成**默认设置**。
 **读者视角提示：**这六个词组各自对应本章后面的一段回忆（父母分居又复合、母亲两次癌症）。这是**提纲式叙事**：先给结论，再展开证据。
 
 > **原句 3:** Mom had slipped into the bathroom, and I was alone when I saw her: the only woman I didn't recognize.
@@ -41,8 +41,8 @@ source_text: "text/ch02 2 the funeral.txt"
 
 **中文理解：**我的生日。我的生日还有七个月才到。我爸爸不会在我生日时在了。我爸爸没了。
 **关键词：**My birthday / wasn't for another seven months / My dad was gone
-**为什么这样写：****同一主语的句子排比降级**：`My birthday.`（两词独立成段）→ 展开 → `My dad would not be there`（未来否定）→ `My dad was gone`（过去完成）。四句的**主语从物换成人**，`My dad` 第二次出现**删掉了 would not be there**，只留 `was gone`——**否定先于肯定**：先说不会有，再承认已经没。作者用**日常到刺骨的小事**（生日）承载丧父，因为言情小说里「礼物」「生日在场」正是「happy ending」的标准配件。
-**读者视角提示：**父亲在信里把信交到 Sonya 手上说「信留给你的生日，你到时候可以拆」——这四句就是她**听见这句话之后的内心回声**。
+**为什么这样写：****同一主语的句子排比降级**：`My birthday.`（两词独立成段）→ 展开 → `My dad would not be there`（未来否定）→ `My dad was gone`（一般过去时）。四句的**主语从物换成人**，`My dad` 第二次出现**删掉了 would not be there**，只留 `was gone`——**否定先于肯定**：先说不会有，再承认已经没。作者用**日常到刺骨的小事**（生日）承载丧父，因为言情小说里「礼物」「生日在场」正是「happy ending」的标准配件。
+**读者视角提示：**父亲去世后是他的**律师**把信连同钥匙转交给 Sonya，Sonya 再把它按进你手心、转述「这封信留到你的生日」——这四句就是她**听见这句话之后的内心回声**。
 
 > **原句 5:** I felt like I'd been shoved off a building, like the dropping would never end.
 
@@ -55,7 +55,7 @@ source_text: "text/ch02 2 the funeral.txt"
 
 **中文理解：**我把这一切全都推出脑外，抓过一个抱枕盖住脸，睡意像一头圣经里的鲸鱼把我吞了下去。
 **关键词：**pushed it all out of my mind / sleep swallowing me like a biblical whale
-**为什么这样写：**`pushed it all out of my mind` 是**力学动词写心理动作**（把东西推出脑外），`it all` 把刚才那一整页信息打包成一个「它」——记忆在这里被**压缩成一个代词**。后半句 `sleep swallowing me` 是**倒装的分词短语作伴随状语**（没有主语、没有连词），而 `like a biblical whale` 把「睡意」比作**吞噬人的巨物**；`biblical` 一词是刻意加的——床垫厂 Swindon 的圣经故事里 Jonah 是被鲸鱼吞掉的，这里用的是那个**神学层的“被吞”**。
+**为什么这样写：**`pushed it all out of my mind` 是**力学动词写心理动作**（把东西推出脑外），`it all` 把刚才那一整页信息打包成一个「它」——记忆在这里被**压缩成一个代词**。后半句 `sleep swallowing me` 是**倒装的分词短语作伴随状语**（没有主语、没有连词），而 `like a biblical whale` 把「睡意」比作**吞噬人的巨物**；`biblical` 一词是刻意加的——这里用的是约拿被鲸吞的那个**神学典故**（全书唯一一处宗教典故与「被吞」同现）。
 **读者视角提示：**`biblical whale`（圣经里的鲸）这个词把「被吞噬」写成了**一次被选中/被考验**的经历（这是约拿的读法）——整句因此不止是睡着，而是**又一次被更大的东西吞下去**。
 
 > **原句 7:** God, he was right. He was a grump, but so was I.

@@ -20,14 +20,14 @@ source_text: "text/ch14 14 the rule.txt"
 
 **中文理解：**抱歉，我昨晚表现得怪怪的。
 **关键词：**SORRY I GOT WEIRD / LAST NIGHT
-**为什么这样写：**全大写的便条是本章的**开场文件**，也是他此前所有行为的**结算单**。`SORRY` 单独占一句，是把一句道歉压缩到只剩一个词；`WEIRD`（怪）而不是 `awkward`（尴尬）更狠——怪是**关于自己**的评价，尴尬是关于那件事的。`LAST NIGHT`（昨晚）把范围缩到**一天**：他为一件只发生了一晚上的事道歉，而这个「昨晚」正是前一晚那张 Olive Garden 的桌子。
+**为什么这样写：**全大写的便条是本章的**开场文件**，也是他此前所有行为的**结算单**。便条**只有一句**（`SORRY I GOT WEIRD LAST NIGHT.`），`SORRY` 是它的**首词**——一句道歉被压成了这一行的开头；`WEIRD`（怪）而不是 `awkward`（尴尬）更狠——怪是**关于自己**的评价，尴尬是关于那件事的。`LAST NIGHT`（昨晚）把范围缩到**一天**：他为一件只发生了一晚上的事道歉，而这个「昨晚」正是前一晚那张 Olive Garden 的桌子。
 **读者视角提示：**这句里没有一个词提到**规则**，但整章都在处理它——她收到的是道歉，不是保证。
 
 > **原句 2:** Guys like Gus were never the ones to pump the brakes when the emotional-entanglement train started moving, and they were always the ones to jump out and roll clear of the tracks once they realized they’d reached top speed.
 
 **中文理解：**像 Gus 这种人从来不是那批在「情感纠缠号列车」开动时会去踩刹车的人；他们总是等意识到已经到最高速了，才从轨道上跳开、滚到一边去。
 **关键词：**pump the brakes / the emotional-entanglement train / jump out and roll clear of the tracks / top speed
-**为什么这样写：**这一句是本章的**方法论**，用一套铁路比喻把两半配对：`pump the brakes`（踩刹车）是**主动减速**，`roll clear of the tracks`（滚出轨道）是**弃车逃生**——前者说他不会停，后者说他会跑，而作者刻意把刹车安在**别人**身上（`never the ones to … pump the brakes`），把逃逸安在**自己**身上。中间的 `the emotional-entanglement train` 是叙述者造的**复合名词**（情感 + 纠缠 + 列车），把一整段关系压成一次性开动的列车；`they’d reached top speed`（他们才意识到已经到顶速）用完成时的**迟**点明：醒悟发生在最不该醒悟的时刻。
+**为什么这样写：**这一句是本章的**方法论**，用一套铁路比喻把两半配对：`pump the brakes`（踩刹车）是**主动减速**，`roll clear of the tracks`（滚出轨道）是**弃车逃生**——前者说他不会停，后者说他会跑，而这两个动作落在**同一群人**身上：`never the ones to … pump the brakes` 是他们**从不替别人踩刹车**，`they were always the ones to jump out` 是他们**总为自己跳车**。中间的 `the emotional-entanglement train` 是叙述者造的**复合名词**（情感 + 纠缠 + 列车），把一整段关系压成一次性开动的列车；`they’d reached top speed`（他们才意识到已经到顶速）用完成时的**迟**点明：醒悟发生在最不该醒悟的时刻。
 **读者视角提示：**这段写在她认识他之前（来源是她看 Shadi 的恋爱），但它后来成了**预言**：她成了那个「从来不踩刹车的人」。
 
 > **原句 3:** It made me ache. I felt suddenly more alone than ever.
@@ -42,7 +42,7 @@ source_text: "text/ch14 14 the rule.txt"
 **中文理解：**那种因为感受得太多、而至无法思考任何东西的、一下一下脉动的空白。
 **关键词：**The pulsing blank / feeling so much / incapable of thinking anything
 **为什么这样写：**这一句是**三段排比里的收尾**：前两句分别写了白屏上闪烁的光标（写作时写不出来的空）和在暗处眯眼产生的色块（生理性的空），这一句给出**第三种**。全段用 `blank` 这个名词三次，每次配一个**定语**说明空白从哪来；`pulsing`（脉动的）把空白写成**有节律的东西**，正好对应此刻她身体里的加速。`feeling so much you’re incapable of thinking anything` 用 `so much` 的「多到……」结构，把「想太多」写成**能力的丧失**而不是情绪的形容。
-**读者视角提示：**三段并列都用 `Not the … blank of …` 的句式，最后一段改成陈述句（没有 `Not`）——**从「不是那种空白」落到「是这一种」**，是段落逻辑的收口。
+**读者视角提示：**三段并列里**只有第一项**用 `Not the … blank of …` 的排除句式，后两项直接用 `The … blank` 陈述——**从「不是那种空白」落到「是这一种」**，是段落逻辑的收口。
 
 > **原句 5:** So dumb little rabbits like me wouldn’t stand a chance.
 
@@ -69,7 +69,7 @@ source_text: "text/ch14 14 the rule.txt"
 
 **中文理解：**像 Jacques 那种男人想要的是打雪仗、埃菲尔铁塔顶上的亲吻、布鲁克林大桥上的日出散步。像 Gus 那种男人想要的是毒舌斗嘴，还有摊在没叠的衣服上的随意性爱。
 **关键词：**Guys like Jacques wanted / Guys like Gus wanted / snarky banter / their unfolded laundry
-**为什么这样写：**两个 `Guys like … wanted` 是**对偶句**，前半全是一个时代的**旅游符号**（打雪仗／铁塔／大桥），后半全是一个人的**生活残骸**（斗嘴／没叠的衣服）——`unfolded laundry`（没叠的衣物）是全句最具体的细节，也是最不浪漫的细节：`on top of`（在……上面）在两句里重复，前一句落在大桥上，后一句落在衣堆上，**同一个介词把两种人生摞在一起**。`casual sex` 与前面的 `kisses` 构成量级与语气的双重落差，而 `snarky banter`（毒舌斗嘴）恰恰是她这一周和他做的事。
+**为什么这样写：**两个 `Guys like … wanted` 是**对偶句**，前半全是一个时代的**旅游符号**（打雪仗／铁塔／大桥），后半全是一个人的**生活残骸**（斗嘴／没叠的衣服）——`unfolded laundry`（没叠的衣物）是全句最具体的细节，也是最不浪漫的细节：`at the top of`（铁塔顶）与 `on top of`（衣堆上）在两句里**互相呼应**，**一对介词把两种人生摞在一起**。`casual sex` 与前面的 `kisses` 构成量级与语气的双重落差，而 `snarky banter`（毒舌斗嘴）恰恰是她这一周和他做的事。
 **读者视角提示：**这一段是她在**给自己列证据**（`It was conceivable that I’d thrown myself at him.`）；她列得越齐，认输越快。
 
 ## 本章词汇
