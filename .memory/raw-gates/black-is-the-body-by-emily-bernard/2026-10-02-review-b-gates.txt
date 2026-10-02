@@ -1,0 +1,28 @@
+=== 五步审查 b 步：逐章归属（2026-10-02 19:48 UTC）===
+ch01 Beginnings.md: 10/10 in ch01 text
+ch02 Scar Tissue.md: 9/9 in ch02 text（另有 1 条短引语未校验）
+ch03 Teaching the N-Word.md: 9/9 in ch03 text（另有 1 条短引语未校验）
+ch04 Interstates.md: 10/10 in ch04 text
+ch05 Mother on Earth.md: 10/10 in ch05 text
+ch06 Black Is the Body.md: 10/10 in ch06 text
+ch07 Skin.md: 10/10 in ch07 text
+ch08 White Friend.md: 10/10 in ch08 text
+ch09 Her Glory.md: 10/10 in ch09 text
+ch10 Motherland.md: 10/10 in ch10 text
+ch11 Going Home.md: 10/10 in ch11 text
+ch12 People Like Me.md: 10/10 in ch12 text
+ch13 Epilogue My Turn.md: 10/10 in ch13 text
+
+=== 短引语兜底 check_short_quotes ===
+=== 短引语兜底核对（black-is-the-body-by-emily-bernard）===
+  verify_quotes 跳过（<20 flat 字符）的引语：10 条 —— 这些主门禁**根本没查**
+  ✅ 命中 10 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== check_anchor ===
+=== 关键词锚定自查（black-is-the-body-by-emily-bernard）===
+  扫 16 个 md，130 个引语块，130 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（13 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）

@@ -1,0 +1,66 @@
+=== 五步审查 a 步：第 3 条门禁全量重跑（2026-10-02 19:48 UTC）===
+=== lane ===
+完整 lane
+
+=== ① verify_quotes ===
+00_情感节点.md: 13/13 ✅（另有 5 条短引语未校验）
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 25/25 ✅（另有 3 条短引语未校验）
+ch01 Beginnings.md: 10/10 ✅
+ch02 Scar Tissue.md: 9/9 ✅（另有 1 条短引语未校验）
+ch03 Teaching the N-Word.md: 9/9 ✅（另有 1 条短引语未校验）
+ch04 Interstates.md: 10/10 ✅
+ch05 Mother on Earth.md: 10/10 ✅
+ch06 Black Is the Body.md: 10/10 ✅
+ch07 Skin.md: 10/10 ✅
+ch08 White Friend.md: 10/10 ✅
+ch09 Her Glory.md: 10/10 ✅
+ch10 Motherland.md: 10/10 ✅
+ch11 Going Home.md: 10/10 ✅
+ch12 People Like Me.md: 10/10 ✅
+ch13 Epilogue My Turn.md: 10/10 ✅
+
+⚠️ 全书共 10 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 166/166 引文可核实（100%）；完全干净文件 15/15；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== ①b verify_quotes --full ===
+ch05 Mother on Earth.md: 10/10 ✅
+ch06 Black Is the Body.md: 10/10 ✅
+ch07 Skin.md: 10/10 ✅
+ch08 White Friend.md: 10/10 ✅
+ch09 Her Glory.md: 10/10 ✅
+ch10 Motherland.md: 10/10 ✅
+ch11 Going Home.md: 10/10 ✅
+ch12 People Like Me.md: 10/10 ✅
+ch13 Epilogue My Turn.md: 10/10 ✅
+
+⚠️ 全书共 10 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 166/166 引文可核实（100%）；完全干净文件 15/15；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab ===
+词条行合计: 839
+
+--- FAIL (0) ---
+
+--- WARN (0) ---
+
+=== ③ check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan ===
+
+=== 编辑损坏扫描（black-is-the-body-by-emily-bernard）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full ===
+=== 引语整串 flat 比对（black-is-the-body-by-emily-bernard）===
+  参照集：text/ 逐章（13 章，可定章） + epub 交叉验证
+  ✅ 本章命中 128 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）

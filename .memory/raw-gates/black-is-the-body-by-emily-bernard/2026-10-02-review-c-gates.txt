@@ -1,0 +1,79 @@
+=== 五步审查 c 步：结构扫描（2026-10-02 19:48 UTC）===
+--- audit_structure ---
+=== 精读结构扫描（black-is-the-body-by-emily-bernard）===
+  扫 16 个 md、176 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+--- check_struct_indep ---
+  ❌ ch06 Black Is the Body.md: [nonfiction] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch06 Black Is the Body.md: [nonfiction] 词汇档位标题缺「### ⭐⭐ 进阶」
+  ❌ ch06 Black Is the Body.md: [nonfiction] 词汇档位标题缺「### ⭐ 基础」
+  ❌ ch07 Skin.md: [nonfiction] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch07 Skin.md: [nonfiction] 词汇档位标题缺「### ⭐⭐ 进阶」
+  ❌ ch07 Skin.md: [nonfiction] 词汇档位标题缺「### ⭐ 基础」
+  ❌ ch08 White Friend.md: [nonfiction] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch08 White Friend.md: [nonfiction] 词汇档位标题缺「### ⭐⭐ 进阶」
+  ❌ ch08 White Friend.md: [nonfiction] 词汇档位标题缺「### ⭐ 基础」
+  ❌ ch09 Her Glory.md: [nonfiction] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch09 Her Glory.md: [nonfiction] 词汇档位标题缺「### ⭐⭐ 进阶」
+  ❌ ch09 Her Glory.md: [nonfiction] 词汇档位标题缺「### ⭐ 基础」
+  ❌ ch10 Motherland.md: [nonfiction] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch10 Motherland.md: [nonfiction] 词汇档位标题缺「### ⭐⭐ 进阶」
+  ❌ ch10 Motherland.md: [nonfiction] 词汇档位标题缺「### ⭐ 基础」
+  ❌ ch11 Going Home.md: [nonfiction] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch11 Going Home.md: [nonfiction] 词汇档位标题缺「### ⭐⭐ 进阶」
+  ❌ ch11 Going Home.md: [nonfiction] 词汇档位标题缺「### ⭐ 基础」
+  ❌ ch12 People Like Me.md: [nonfiction] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch12 People Like Me.md: [nonfiction] 词汇档位标题缺「### ⭐⭐ 进阶」
+  ❌ ch12 People Like Me.md: [nonfiction] 词汇档位标题缺「### ⭐ 基础」
+  ❌ ch13 Epilogue My Turn.md: [nonfiction] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch13 Epilogue My Turn.md: [nonfiction] 词汇档位标题缺「### ⭐⭐ 进阶」
+  ❌ ch13 Epilogue My Turn.md: [nonfiction] 词汇档位标题缺「### ⭐ 基础」
+=== 独立结构扫描：13 个 md，缺陷 39 处 ===
+
+--- check_xref_indep ---
+=== chNN 引用 90 处：英文证据报警 0 处 ／ 中文式待人判 82 处 ===
+
+--- check_analysis_indep ---
+抽出分析层英文片段 231 条
+❌ 未命中 1 条：
+  ch01 Beginnings.md:10  Green Mountains Review
+      未命中词: ['review']
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）3 条 —— 只报不判红，须人判：
+  ch01 Beginnings.md:9  Stories from My Grandmother's Time
+  ch02 Scar Tissue.md:9  Stories from My Grandmother's Time
+  ch11 Going Home.md:12  Dotsie Clausell Jefferson
+
+--- sweep_analysis_inline ---
+=== 分析层行内英文逐字核查（black-is-the-body-by-emily-bernard）===
+  参照集：text/（13 个提取件） + epub 交叉验证 ；扫 16 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：1015 个表格行、788 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1248 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 1 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 661
+
+--- 总览三篇 H1 ---
+notes/books/non-fiction/black-is-the-body-by-emily-bernard/00_情感节点.md:# 00. 情感节点（9 个）
+notes/books/non-fiction/black-is-the-body-by-emily-bernard/00_概述.md:# 00. 概述（全书梗概与主题）
+notes/books/non-fiction/black-is-the-body-by-emily-bernard/00_金句精选.md:# 00. 金句精选（28 条）
+
+--- check_overview_full ---
+=== 总览整串核查（black-is-the-body-by-emily-bernard）===
+  参照集：text/ 逐章（13 章） ｜ 总览文件 3 个
+  A 整串：命中 38 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 9
+  B 章节标签：对 0 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 38 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+--- audit_numbers ---
+  ⚪ ch07 Skin.md:195  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch08 White Friend.md:23  「六十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch08 White Friend.md:38  「六十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch08 White Friend.md:186  「六十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch09 Her Glory.md:11  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch09 Her Glory.md:11  「八十九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch09 Her Glory.md:34  「八十九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch09 Her Glory.md:81  「五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch09 Her Glory.md:121  「八十九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch09 Her Glory.md:219  「八十九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch11 Going Home.md:12  「九十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch11 Going Home.md:36  「十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
