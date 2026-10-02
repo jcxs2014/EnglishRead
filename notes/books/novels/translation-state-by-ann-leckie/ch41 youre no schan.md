@@ -15,17 +15,7 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** "while an officer from Central Security stood there and explained, over and over, that no, Qven could not go aboard the Hikipi ship. “You don’t need to,” she said for the tenth or eleventh time. “All you need to do is make a way for my people to get there.”"
-
-**中文理解：** Central Security 的一名军官站在那里，反反复复地解释：不行，Qven 不能登上 Hikipi 那艘船。「你不需要去，」她说了第十遍或者第十一遍。「你只要替我们的人造一条路过去就行。」
-
-**关键词：** over and over / for the tenth or eleventh time / All you need to do is make a way for my people to get there
-
-**为什么这样写：** 全章的轻快感建立在这两次重复上：over and over 与 for the tenth or eleventh time 都不是精确计数，作者拒绝给出确切次数，于是这场拉锯显得漫长而无解。
-
-**读者视角提示：** 读者会在这两处笑出来——两个都不肯让步的人，用最不伤人的方式耗着。
-
-> **原句 2:** "“I want to go on the adventure. A real one.”
+> **原句 1:** "“I want to go on the adventure. A real one.”
 
 
 For the tenth or eleventh time, the security officer shot a harried look at Reet, as though he could do anything about this.
@@ -41,17 +31,7 @@ For the tenth or eleventh time, the security officer shot a harried look at Reet
 
 **读者视角提示：** 读者在这里第一次听见 Qven 想要「真实」——此前他所有关于剧集的向往都是关于被收留的。
 
-> **原句 3:** "Reet knew how well Qven took anyone’s orders. “It’s important,” he told em. “We could get in the way of the mission. We don’t want to do that"
-
-**中文理解：** Reet 心里清楚 Qven 听不听得别人的命令。「这很重要，」他对 ta 说。「我们可能会妨碍任务。我们不想那样做。」
-
-**关键词：** how well Qven took anyone’s orders / get in the way of the mission / We don’t want to do that
-
-**为什么这样写：** 说服的理由被限定在任务层面（妨碍），而 Reet 心里那句真正的原因（不想再体验分开时的感觉）只写在叙述里、不出口。他自己也知道这个理由站不住。
-
-**读者视角提示：** 读者会看出 Reet 在这章两次用 We 把自己绑上 Qven，而他的动机并不完全正当。
-
-> **原句 4:** "he had never seen Qven look so uncomplicatedly happy as when e put on the helmet and strapped on the chestplate that Central Security offered. And he had to admit, it felt pretty amazing to be armored himself, even that little bit. Even though he had agreed entirely with the officer who’d tried so hard to convince Qven that e didn’t need to be coming along."
+> **原句 2:** "he had never seen Qven look so uncomplicatedly happy as when e put on the helmet and strapped on the chestplate that Central Security offered. And he had to admit, it felt pretty amazing to be armored himself, even that little bit. Even though he had agreed entirely with the officer who’d tried so hard to convince Qven that e didn’t need to be coming along."
 
 **中文理解：** 在 Reet 认识 ta 的这段时间里，他从没见 Qven 像戴上头盔、扣上 Central Security 提供的胸甲时那样单纯地快乐过。而他自己也得承认，被护甲包住的感觉确实好得出奇，哪怕只有这么一点。哪怕他完全同意那位军官——她可是拼了命想劝 Qven 不用跟着来的。
 
@@ -61,7 +41,7 @@ For the tenth or eleventh time, the security officer shot a harried look at Reet
 
 **读者视角提示：** 读者会在此感到这两个人都想上那艘船，理由各不相同。
 
-> **原句 5:** "Smugglers, Reet realized. Hikipi ships smuggled arms. And people. Had the Central Security troops known to check for hidden people?"
+> **原句 3:** "Smugglers, Reet realized. Hikipi ships smuggled arms. And people. Had the Central Security troops known to check for hidden people?"
 
 **中文理解：** 走私者，Reet 反应过来。Hikipi 的船走私武器。还有人。那些 Central Security 的士兵知不知道要查一查藏起来的人？
 
@@ -71,20 +51,7 @@ For the tenth or eleventh time, the security officer shot a harried look at Reet
 
 **读者视角提示：** 读者会比部队早一步意识到船上还有人藏着——这份领先没有用上。
 
-> **原句 6:** "“The pilot has a dead-man switch that she claims will blow up the ship’s engine.”
-
-
-“That’s…” Reet frowned, looked fore again. “That’s improbable.”"
-
-**中文理解：** 「飞行员有一个死者开关，她声称那会炸掉引擎。」那是……Reet 皱起眉，又朝前面看了一眼。「那不太可能。」
-
-**关键词：** dead-man switch / will blow up the ship’s engine / That’s improbable
-
-**为什么这样写：** 威胁通过耳朵里的声音传来（远程通话），而 Reet 的判断是一个形容词加否定（不太可能），随后军官的 But not impossible 把它架在半空。全章唯一一次他的推理是关于别人。
-
-**读者视角提示：** 读者会记得这两句是一问一答：还没等答案，袭击就来了。
-
-> **原句 7:** "The knife was now at Reet’s throat. With a wrench, the person forced Reet around so that both of them now faced a wide-eyed Qven. Reet found he had to swallow but was afraid to."
+> **原句 4:** "The knife was now at Reet’s throat. With a wrench, the person forced Reet around so that both of them now faced a wide-eyed Qven. Reet found he had to swallow but was afraid to."
 
 **中文理解：** 刀已经贴在 Reet 的喉咙上。那人用一把扳手把 Reet 拧过去，于是两人一同面对瞪大眼睛的 Qven。Reet 发现自己不得不咽一下口水，又怕真咽下去。
 
@@ -94,7 +61,7 @@ For the tenth or eleventh time, the security officer shot a harried look at Reet
 
 **读者视角提示：** 读者会在这里感到这章的暴力是手上的，不是喊出来的。
 
-> **原句 8:** "“You care about me, though,” said Reet, to his captor. “I’m Reet Schan. I’m the person all this fuss has been about.”"
+> **原句 5:** "“You care about me, though,” said Reet, to his captor. “I’m Reet Schan. I’m the person all this fuss has been about.”"
 
 **中文理解：** 「不过你在乎我。」Reet 对抓住他的人说。「我是 Reet Schan。所有这些闹腾说的就是我。」
 
@@ -104,20 +71,7 @@ For the tenth or eleventh time, the security officer shot a harried look at Reet
 
 **读者视角提示：** 读者会立刻意识到：这个名字在全书至今为止从未被官方确认过，而这一章它连对方都没骗过。
 
-> **原句 9:** "“You’re lying.” The man pressed the knife harder into Reet’s throat. It stung, and Reet was sure he felt blood trickling down his neck. “How did you get on the ship?”
-
-
-He wouldn’t have believed it if Reet told him, he suspected. “Top secret stealth-and-boarding technology,” he said. And then, in Radchaai, “There’s no dead-man switch. There can’t be. Why would they have one ready?”"
-
-**中文理解：** 「你在撒谎。」那人把刀往 Reet 喉咙上又压深了一些。那儿刺得发痛，Reet 确信自己感到有血流下脖子。「你是怎么上船的？」他怀疑，如果 Reet 告诉他是不会有人信的。「顶级秘密的隐形与登船技术。」他说。然后用 Radchaai 补了一句：「没有死者开关。不可能有。他们为什么要预备一个？」
-
-**关键词：** You’re lying / blood trickling down his neck / There’s no dead-man switch. There can’t be
-
-**为什么这样写：** 否认只有两个字，随后威胁升级。Reet 的应对是反问——用对方刚刚的威胁本身去证伪，这是他在整章里唯一一次真正起作用的推理。
-
-**读者视角提示：** 读者会感到 Reet 靠的是话术而不是武力：他把对手的武器变成了对方的破绽。
-
-> **原句 10:** "“Hiding,” sneered Reet’s captor. “And you’re no Schan.”
+> **原句 6:** "“Hiding,” sneered Reet’s captor. “And you’re no Schan.”
 
 
 “I am!” Reet protested. “I’m Hikipi like you are!”"
@@ -130,7 +84,7 @@ He wouldn’t have believed it if Reet told him, he suspected. “Top secret ste
 
 **读者视角提示：** 读者会感到这一章没有给自报的身份任何结论：说了，被否认，就此打住。
 
-> **原句 11:** "And sang, his voice wavering wildly, “Oh, we’re soldiers, Soldiers of Hikipu. We’ve pledged our service to Lovehate Station.” The Siblings of Hikipu sang it at every meeting, and by now Reet could have sung it in his sleep."
+> **原句 7:** "And sang, his voice wavering wildly, “Oh, we’re soldiers, Soldiers of Hikipu. We’ve pledged our service to Lovehate Station.” The Siblings of Hikipu sang it at every meeting, and by now Reet could have sung it in his sleep."
 
 **中文理解：** 他尽量吸了一口气——喉咙上还压着刀刃——然后唱了起来，声音抖得厉害：「哦，我们是士兵，Soldiers of Hikipu。我们已向 Lovehate Station 宣誓效忠。」Siblings of Hikipu 每次聚会都唱这一段，而现在的 Reet 睡梦里都能唱出来。「我们会带着枪、带着刀去见 Phen，我们会……」
 
@@ -140,7 +94,7 @@ He wouldn’t have believed it if Reet told him, he suspected. “Top secret ste
 
 **读者视角提示：** 读者会想起第一章那栋房子、第九章的邻居与全书的族谱：Reet 想要的一直是归属，而这一章他用命去换一句承认。
 
-> **原句 12:** "He kicked and punched out as his captor tightened his grip around Reet’s neck. He thought maybe he was connecting with something, but couldn’t tell if it was his captor, or a wall, or what, and before long his vision began to spark, and darken at the edges, and then there was nothing."
+> **原句 8:** "He kicked and punched out as his captor tightened his grip around Reet’s neck. He thought maybe he was connecting with something, but couldn’t tell if it was his captor, or a wall, or what, and before long his vision began to spark, and darken at the edges, and then there was nothing."
 
 **中文理解：** 他一边踢一边朝外打，而抓住他的人把他的脖子箍得更紧。他觉得自己大概打中了什么，却分不清那是人、是墙还是别的什么；不久之后，他的视野开始冒出火花，边缘暗下去，然后就什么也没有了。
 

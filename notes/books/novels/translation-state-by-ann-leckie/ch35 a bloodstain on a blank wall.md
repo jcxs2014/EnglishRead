@@ -15,27 +15,7 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** "“You need to come back to where the committee member for the Geck’s mech is,” said Batonen, with no preamble, no response to what Qven had said. “It’s communicating with the committee member, who’s passing information from the Presger Translators. They say they need to talk to Qven.”"
-
-**中文理解：** 「你们得回到 Geck 那位委员的机甲那儿去。」Batonen 开口没有铺垫，也不接 Qven 刚才那番话。「那具机甲正在和委员通讯，委员在转达 Presger 那些 Translator 的话。他们说要和 Qven 谈。」
-
-**关键词：** with no preamble / passing information from the Presger Translators / they need to talk to Qven
-
-**为什么这样写：** 叙述用一个否定句先给 Batonen 的说话方式定性：没有开场白、也不回应。谈判式对话里最要紧的信息（要 Qven）被放在最后一句，前面全是程序。
-
-**读者视角提示：** 读者会注意到 Reet 听到消息后的第一反应是一个字：为什么——他的第一关切不是谈判成败，是这会牵连到 Qven。
-
-> **原句 2:** "Qven should. Not Qven and Reet. And he didn’t want to be apart from Qven."
-
-**中文理解：** 该去的是 Qven。不是 Qven 和 Reet。而他不想和 Qven 分开。
-
-**关键词：** Not Qven and Reet / he didn’t want to be apart from Qven
-
-**为什么这样写：** 两句都是短促的判断句，第二句才泄露动机。前面 Batonen 的建议在语法上就已经排除了他，而他先接受这个排除，再在下一段里为它付代价。
-
-**读者视角提示：** 读者在这里第一次看到 Reet 把「我想跟你在一起」压到一句陈述句里说完，然后立刻被下一段的理性推理盖过去。
-
-> **原句 3:** "There wasn’t time to think about his own wants. This was an emergency, a crisis, and lives depended on everyone doing the right thing."
+> **原句 1:** "There wasn’t time to think about his own wants. This was an emergency, a crisis, and lives depended on everyone doing the right thing."
 
 **中文理解：** 没工夫想自己想要什么。这是紧急情况、是危机，命系在每个人都做对的事上。
 
@@ -45,7 +25,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者此刻明白：Reet 每一次退让都不是因为他不想争，而是他把「做对的事」放在了前面。
 
-> **原句 4:** "It had felt so dramatic, so final, when he’d floated off in the opposite direction from Qven and Batonen, but he met them coming around. Of course. Neither Qven nor Batonen acknowledged him, which felt both oddly right and also insulting."
+> **原句 2:** "It had felt so dramatic, so final, when he’d floated off in the opposite direction from Qven and Batonen, but he met them coming around. Of course. Neither Qven nor Batonen acknowledged him, which felt both oddly right and also insulting."
 
 **中文理解：** 当他朝与 Qven、Batonen 相反的方向漂走时，那一刻感觉很戏剧、很决绝；结果他迎头撞上了他们.Of course. Qven 和 Batonen 谁也没理他，这感觉既古怪地正当，又像是侮辱。
 
@@ -55,7 +35,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者在这本书里第一次看到空间不服从人：分头走却撞上同一个人。
 
-> **原句 5:** "He tried not to stare as Qven went past, tried not to feel whatever it was he was feeling. Hurt? Abandoned? Alone? But he was used to being alone, wasn’t he?"
+> **原句 3:** "He tried not to stare as Qven went past, tried not to feel whatever it was he was feeling. Hurt? Abandoned? Alone? But he was used to being alone, wasn’t he?"
 
 **中文理解：** 他尽量不去盯着经过的 Qven，尽量不去感受自己正在感受的东西。受伤？被抛下？孤单？可他本来就习惯孤单，不是吗？
 
@@ -65,17 +45,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者看得出这里的反问不是提问，是自我安慰的失败。
 
-> **原句 6:** "There would be a mech for him. That might be all right. He thought of walking the pipeways back on Rurusk Station, with another body, one as flexible as the mech he’d seen in the committee chamber. All those limbs, all those eyes. That could be really useful. He might find, in the end, that he liked that."
-
-**中文理解：** 他会得到一具机甲。这或许还行。他想到在 Rurusk Station 走管道的那阵子，伴着另一副躯体，一具和他在委员会厅见过的那具一样柔韧的躯体。那些肢体，那些眼睛。那可能真的很有用。到最后他也许会发现自己喜欢那个。
-
-**关键词：** There would be a mech for him / all those eyes / in the end, that he liked that
-
-**为什么这样写：** 这段的动词形式值得注意：There would be 是将时，He might find 是推测套推测。整段没有一句断言，全部用虚拟与推测的语气递进，最后一句还在自己加的缓冲词 in the end 后面才敢承认。
-
-**读者视角提示：** 读者能看出他在给最坏结局铺软垫：先说也许有用，再说也许自己会喜欢。
-
-> **原句 7:** "It was Qven he yearned for. Not just anyone he might merge with, but Qven specifically. And maybe that was because they’d spent hours and hours eating cakes and watching Pirate Exiles of the Death Moons (and maybe that was why Teacher had let them do that, in the hope they would like each other enough to want to match), and maybe there was some other Presger Translator juvenile out there he would like just as much, but it was Qven he’d spent time with, and Qven who’d trusted him with the story of what had happened to em."
+> **原句 4:** "It was Qven he yearned for. Not just anyone he might merge with, but Qven specifically. And maybe that was because they’d spent hours and hours eating cakes and watching Pirate Exiles of the Death Moons (and maybe that was why Teacher had let them do that, in the hope they would like each other enough to want to match), and maybe there was some other Presger Translator juvenile out there he would like just as much, but it was Qven he’d spent time with, and Qven who’d trusted him with the story of what had happened to em."
 
 **中文理解：** 他渴望的是 Qven。不是随便一个他可能合并的对象，而是 Qven 这个人。也许是因为他们花了那么多个小时一起吃蛋糕、看 Pirate Exiles of the Death Moons（也许 Teacher 就是抱着这种希望才让他们这么做的，希望他们能喜欢上对方、想跟对方匹配）；也许外面还有别的 Presger Translator 的幼体是他同样喜欢的，可他花时间相处的是 Qven，把发生过什么讲给他听的也是 Qven。
 
@@ -85,17 +55,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会注意到 Teacher 撮合他们的动机被这样提了一句——连同一并吞下蛋糕和剧集的夜晚，也是被安排的一环。
 
-> **原句 8:** "What would that be like, to merge with someone you didn’t like, didn’t trust? Who didn’t like you? Surely the adult who resulted would be a mess, a mass of self-hatred."
-
-**中文理解：** 跟一个你不喜欢、不信任的人合并会是什么样？跟一个不喜欢你的人合并呢？最后成形的那个成年体肯定是个一团糟，一坨自我厌恶。
-
-**关键词：** merge with someone you didn’t like / didn’t trust / a mass of self-hatred
-
-**为什么这样写：** 反问句连用两个，第二句把「我不喜欢」翻到对方身上，双向否定之后紧跟一个几乎是物理的比喻 a mass。这是全章对匹配最直接的一次评价，且是以他自己的处境推演出来的。
-
-**读者视角提示：** 读者在此明白 Reet 并不是在考虑接受匹配，他是在替 Qven 计算怎么躲。
-
-> **原句 9:** "Every time he pushed himself toward the wall, every time he got close to it, he found himself propelled away. The experience was disorienting, a sudden, panicked flail as he felt like he was falling, like there was, for an instant, an up and down, and then, the next instant, he was drifting in microgravity again."
+> **原句 5:** "Every time he pushed himself toward the wall, every time he got close to it, he found himself propelled away. The experience was disorienting, a sudden, panicked flail as he felt like he was falling, like there was, for an instant, an up and down, and then, the next instant, he was drifting in microgravity again."
 
 **中文理解：** 他靠不过去。每一次朝墙推自己，每一次快要靠近，都发现自己被弹开。那种体验让人失去方向：一瞬间慌乱的扑腾，感觉像在往下掉，像有一瞬间存在了上下之分，然后下一刻，他又漂在微重力里。
 
@@ -105,7 +65,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会在这里第一次感到这堵墙是主动的：不是走不到，是被推回来。
 
-> **原句 10:** "a spot on the unreachable wall appeared, faint at first and then darkening and spreading, slowly, almost but not quite imperceptibly. Fascinated, Reet stared at it. It was a dull red, almost like…"
+> **原句 6:** "a spot on the unreachable wall appeared, faint at first and then darkening and spreading, slowly, almost but not quite imperceptibly. Fascinated, Reet stared at it. It was a dull red, almost like…"
 
 **中文理解：** 就在他挂在那里、盘算自己在这件事里有多无谓的时候，那堵够不着的墙上出现了一个点，起初很淡，然后变深、扩散，很慢，几乎察觉不到却又确实在变。Reet 着迷地盯着它。那是一种暗红色，几乎像……
 
@@ -115,17 +75,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会跟着那半个比喻悬在半空，直到下一段才落地。
 
-> **原句 11:** "As Reet watched, the stain grew slick and shiny and suddenly some of the shine gathered itself into a blob that shot toward Reet, and then, crossing some boundary, slowed, wobbled, drifting, into a shivering sphere."
-
-**中文理解：** Reet 看着，那片污渍变得湿滑发亮，然后其中一部分亮光忽然聚成一颗，射向他——穿过某个边界时减速、摇晃着，化成一颗发抖的球。Reet 伸出一根手指去碰它。
-
-**关键词：** grew slick and shiny / gathered itself into a blob / a shivering sphere
-
-**为什么这样写：** 三段动词全是自动的（grew / gathered / shot），血被写成有自己动作的东西；crossing some boundary 之后才 wobbling、drifting，是全章唯一一处把边界写出来的比喻式表达。
-
-**读者视角提示：** 读者在球减速的那一刻才确认：这不是水，是穿过什么之后才慢下来的东西。
-
-> **原句 12:** "That arm had to be somewhere. Did an arm have enough blood in it to soak through a wall? Probably not, but that arm had stabbed Translator Dlar, so where it was, likely Translator Dlar was."
+> **原句 7:** "That arm had to be somewhere. Did an arm have enough blood in it to soak through a wall? Probably not, but that arm had stabbed Translator Dlar, so where it was, likely Translator Dlar was."
 
 **中文理解：** 那条手臂总得在某个地方。一条手臂里的血够不够浸过一堵墙？大概不够，可那条手臂刺过 Translator Dlar，所以它在哪儿，Translator Dlar 大概就在哪儿。
 
@@ -135,7 +85,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者跟着做完这道题，并意识到这题只有一个答案：墙另一边站着一个活的 Translator Dlar。
 
-> **原句 13:** "“Qven!” he shouted, but there was no answer. He had no idea if anyone could hear him, if his voice could reach all those rounds of the looped passage, and anyway, Qven was way, way back in the room where Reet’s parents were, talking to the mech, or e should be by now.
+> **原句 8:** "“Qven!” he shouted, but there was no answer. He had no idea if anyone could hear him, if his voice could reach all those rounds of the looped passage, and anyway, Qven was way, way back in the room where Reet’s parents were, talking to the mech, or e should be by now.
 
 
 “Qven!” he shouted again, and turned and pushed himself back along the passageway as quickly as he could."

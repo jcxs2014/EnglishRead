@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：Presger 那边通过机甲要 Qven 与那具卡在墙里的机甲合并，才能从内部勘察通路；Qven 拿「先宣布我和 Reet 是人」作条件被斥为自私，Teacher 转为替他说话并接管对话。
+- **一句话概括**：Presger 那边通过机甲要 Qven 与那具卡在墙里的机甲合并，才能从内部勘察通路；Qven 拿「先宣布我和 Reet 是人」作条件被斥为自私，Teacher 退回后台与 Translator 争执，末了以「你的 Teacher 在这里」现身。
 - **情感弧线位置**：从上一章的坠落与惊骇回落成一场谈判戏；张力不来自外部危险，而来自 Qven 第一次在成人的规矩内部讨价还价。
 - **人物弧线**：Qven 从被要求「合并」的一方，变成拿着条件谈判的一方；同一段里他确认自己在 Teacher 的分类里没有位置，也确认此刻唯一能说真话的人不在场。
 - **叙事手法**：第一人称（我）自述，紧贴 Qven 的意识；对白占了全章绝大部分，读者靠他复述听见的内容与听见的方式。
@@ -35,27 +35,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会记住 intended 与 happened 的裂缝：Translator Dlar 制造的那场灾难，连制造者本人也没把握怎么收拾。
 
-> **原句 3:** "At first I was sure that I had heard incorrectly. “What?”"
-
-**中文理解：** 起初我确信自己听错了。「什么？」
-
-**关键词：** I was sure that I had heard incorrectly / “What?”
-
-**为什么这样写：** 全章最短的一段，用一个单词完成全部反应。中文里「什么」后通常带解释，这里不给解释——拒绝把听到的内容整理成可理解的东西，是 Qven 这一整章的姿态。
-
-**读者视角提示：** 读者跟着他停在「没听懂」的状态上，而下一段立刻给出听懂之后的第一反应：先回想 Reet 说过的话。
-
-> **原句 4:** "Match with the mech. Reet had said that the idea of merging with a bio mech was deeply offensive to Translator Dlar, something they would never countenance."
-
-**中文理解：** 跟机甲匹配。Reet 说过，把合并到生物机甲这个主意对 Translator Dlar 而言是严重犯忌，是他们绝不会容忍的事。
-
-**关键词：** deeply offensive to Translator Dlar / never countenance / Match with the mech
-
-**为什么这样写：** 第一句是 Qven 自己的复述，短促得像笔记；后面整段是记忆里的转述，长而完整。两个层次靠一个人称转折分开：他自己想的是 Match with the mech，而他记得的 Reet 说的是绝不会容忍。
-
-**读者视角提示：** 读者在此感到信息不对称：Qven 用来判断的，全部来自 Reet 讲给他的版本。
-
-> **原句 5:** "“It is not enough,” replied the mech. “You must do more than open doors. And you must find Translator Dlar to know what more it is you must do. You must do this quickly, the Hikipi ship still threatens and cannot be dealt with until this situation is resolved.”"
+> **原句 3:** "“It is not enough,” replied the mech. “You must do more than open doors. And you must find Translator Dlar to know what more it is you must do. You must do this quickly, the Hikipi ship still threatens and cannot be dealt with until this situation is resolved.”"
 
 **中文理解：** 「这还不够。」机甲回答。「你必须做得比开门更多。你还必须找到 Translator Dlar，才知道更多的是什么。你必须快点做，那艘 Hikipi 的船还在威胁，在这件事解决之前没法处理。」
 
@@ -65,27 +45,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会感到谈判在这里第一次失去着力点：Qven 亮出的证据是事实，却被「不够」两个字架空。
 
-> **原句 6:** "“They will be able to speak to you while it happens, you will be able to do as they wish while it happens, they say. Translator Dlar wishes to remind you that you did not wish to be eaten by anyone, and there is not anyone in this mech to be eaten by. It is ideal for you.”"
-
-**中文理解：** 「他们说，过程进行中他们能一直和你说话，你也能一直照他们的意思做。Translator Dlar 要提醒你，你本来就不想被谁吃掉，而这具机甲里没有任何东西可以吃你。这对你是理想的选择。」
-
-**关键词：** while it happens / you did not wish to be eaten by anyone / It is ideal for you
-
-**为什么这样写：** 这段的说服结构是承认一小点、否认一大点：先给出「不必完全被吞掉」这一让步（没有东西可吃你），随即用「理想」把整件事包装成对他诉求的满足。两个 while it happens 重复，像一只手在同一点上按两次。
-
-**读者视角提示：** 读者能听出这仍是人说的、不是机甲说的：Qven 反复要区分「他们」和「它」，而这一次他划清了。
-
-> **原句 7:** "The treaty was everything. The treaty was why we existed to begin with. The way that Reet had talked about the treaty, the way it was talked about in Pirate Exiles of the Death Moons, you would think that only the treaty stood between all humans and certain death. Which maybe was true, but then again a lot of things in Pirate Exiles of the Death Moons weren’t exactly accurate, according to Reet."
-
-**中文理解：** 条约就是一切。条约是我们之所以存在的理由。Reet 谈起条约的方式、它在 Pirate Exiles of the Death Moons 里被谈论的方式，会让你以为只有条约挡在全体人类与必死之间。这也许是真的，可据 Reet 说，Pirate Exiles of the Death Moons 里也有不少内容并不完全准确。
-
-**关键词：** The treaty was everything / stood between all humans and certain death / weren’t exactly accurate, according to Reet
-
-**为什么这样写：** 全章唯一一段内心长独白，用两次 the treaty 起头、一次 only 收束，然后立刻用一句「剧集里也不准确」把刚建立的分量抽掉一层。威胁被交给了一个 Qven 自己也打折的信息源。
-
-**读者视角提示：** 读者在此确认：Qven 用来评估自身价值的两个来源——成人的分类和人类拍的剧——在他自己眼里都不结实。
-
-> **原句 8:** "“If I do this,” I said, “will you agree that Reet and I are human?”
+> **原句 4:** "“If I do this,” I said, “will you agree that Reet and I are human?”
 
 
 After a moment, the mech said, “Translator Dlar is angry, and expresses disappointment that you would choose a time like this to pursue your own individual interests, when so much else is at risk.”"
@@ -98,7 +58,7 @@ After a moment, the mech said, “Translator Dlar is angry, and expresses disapp
 
 **读者视角提示：** 读者能听出这句话与刚才的「所以他们告诉我」是同一种权力：真正的决定者从头到尾没有直接出面。
 
-> **原句 9:** "“I’m a disappointment,” I said. “There’s no place for me. Except with Reet, and that was by accident.”
+> **原句 5:** "“I’m a disappointment,” I said. “There’s no place for me. Except with Reet, and that was by accident.”
 
 
 “Oh, Qven,” said Mom, and she reached her hand out as though she were going to touch me, and then stopped. “You’re not a disappointment.”
@@ -114,7 +74,7 @@ After a moment, the mech said, “Translator Dlar is angry, and expresses disapp
 
 **读者视角提示：** 读者在此看清：Qven 之所以觉得自己是失败品，是因为有人曾经按用途给他排过位。
 
-> **原句 10:** "The problem is, when someone comes to you and says only you can save us by sacrificing yourself, how do you know they’re right? And how do you know they’re telling the truth, and not just trying to get you to do something that would be convenient for them? If they’re telling the truth, if they’re right, then yes, you should do it. But are they?"
+> **原句 6:** "The problem is, when someone comes to you and says only you can save us by sacrificing yourself, how do you know they’re right? And how do you know they’re telling the truth, and not just trying to get you to do something that would be convenient for them? If they’re telling the truth, if they’re right, then yes, you should do it. But are they?"
 
 **中文理解：** 「问题是，当有人跑来对你说只有你能牺牲自己来救所有人，你怎么知道他说得对？你怎么知道他说的是真话，而不是只想让你去做一件对他们方便的事？如果他说的是真话、他是对的，那么是的，你就该去做。可他们是吗？」
 
@@ -124,17 +84,7 @@ After a moment, the mech said, “Translator Dlar is angry, and expresses disapp
 
 **读者视角提示：** 读者会注意到 Batonen 两次说等一下、还没说完——她不是想劝 Qven 别牺牲，是想教他先验一验对方。
 
-> **原句 11:** "“It doesn’t tell you everything,” said Batonen, “but it tells you something.”"
-
-**中文理解：** 「这并不能告诉你全部，」Batonen 说，「但它能告诉你一点。」
-
-**关键词：** It doesn’t tell you everything / but it tells you something
-
-**为什么这样写：** 这是全章最短的一次交换，两个分句结构相同、只换否定与肯定。Qven 的疑问（对方如果真这么急，为什么不肯承认我们是人）不需要被回答，只需要被掂量。
-
-**读者视角提示：** 读者在这里第一次拿到一条判断规则：全知者说不出的事，恰恰是最有信息量的部分。
-
-> **原句 12:** "“I don’t have clutchmates,” I said instead. And suddenly I felt very alone, even though Mom and Nana and Batonen were right there in the room with me. I wanted Reet. If Reet were here you wouldn’t be so alone, I thought, and then, If you were Reet you wouldn’t be alone."
+> **原句 7:** "“I don’t have clutchmates,” I said instead. And suddenly I felt very alone, even though Mom and Nana and Batonen were right there in the room with me. I wanted Reet. If Reet were here you wouldn’t be so alone, I thought, and then, If you were Reet you wouldn’t be alone."
 
 **中文理解：** 「我没有同窝的手足。」我换了个说法。忽然间我觉得非常孤单，尽管 Mom、Nana 和 Batonen 就在这个房间里。我想 Reet。如果 Reet 在这里你就不会这么孤单了，我想，接着又想到：如果你就是 Reet，你也不会孤单。
 
@@ -144,7 +94,7 @@ After a moment, the mech said, “Translator Dlar is angry, and expresses disapp
 
 **读者视角提示：** 读者会感到这一章的孤单是分类学的：不是没人陪，是没人属于同一种。
 
-> **原句 13:** "“Qven,” said the mech. “Your Teacher is here.”"
+> **原句 8:** "“Qven,” said the mech. “Your Teacher is here.”"
 
 **中文理解：** 「Qven，」机甲说。「你的 Teacher 在这里。」
 

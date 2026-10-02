@@ -65,17 +65,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会在这里意识到，这本书里改变认知的动作常常不是获得新证据，而是发现某个判断是因为谁不想面对什么。
 
-> **原句 6:** "Sie thought about what the committee member for the Geck had said about what Translator Dlar had done in that moment before they’d been stabbed. Clearly, something inexplicable and indescribable had happened, and things weren’t behaving like Enae thought they should, not even like the Presger Translators seemed to think they should. So this was… what was it?"
-
-**中文理解：** Enae 想起 Geck 那位委员在被刺之前那一刻说过 Translator Dlar 做了什么。显然确实发生了什么无法解释、无法描述的事，而这里的东西并不按 Enae 认为该有的方式运作，甚至不按 Presger 的 Translator 们认为该有的方式运作。所以这算是……到底是什么？
-
-**关键词：** before they’d been stabbed / inexplicable and indescribable / what was it
-
-**为什么这样写：** 叙述在这里第一次提到「被刺」，只用一个分词短语带过，没有交代细节。先否定两套解释（Enae 的、Translator 的），再用一个自问把它挂起来——不给名词。
-
-**读者视角提示：** 读者在此感到这不只是空间故障：Enae 与 Translator 都对空间有预期，而这套空间谁的预期都不满足。
-
-> **原句 7:** "Hir hand passed right through it. Sie had to do it three or four times more to believe it had actually happened. But it had—hir hand had gone right through the wrapper, and even the air that the passage of hir hand had disturbed didn’t seem to reach it."
+> **原句 6:** "Hir hand passed right through it. Sie had to do it three or four times more to believe it had actually happened. But it had—hir hand had gone right through the wrapper, and even the air that the passage of hir hand had disturbed didn’t seem to reach it."
 
 **中文理解：** 她的手直接穿过了那张包装纸。她得把手伸过去三四次才肯相信这件事真的发生过。但确实发生了——她的手整个从包装纸上穿了过去，连手掌划过带动的空气都似乎没能在它上面起一点作用。
 
@@ -85,7 +75,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者在此确认：Enae 面对的不是自己记错路，而是那条走廊本身不按她熟悉的方式成立——所以后面那声「是螺旋」不是灵光一现，是排除法的终点。
 
-> **原句 8:** "“It’s a spiral,” sie murmured to hirself. “It’s a spiral,” sie called, so that the others could hear hir. “It looks like a closed loop but it’s a spiral.”"
+> **原句 7:** "“It’s a spiral,” sie murmured to hirself. “It’s a spiral,” sie called, so that the others could hear hir. “It looks like a closed loop but it’s a spiral.”"
 
 **中文理解：** 「是螺旋。」sie 低声对自己说。「是螺旋。」她大声重复了一遍，好让其他人听见。「看起来像一条闭合的环，其实是螺旋。」
 
@@ -95,7 +85,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者到这里才拿到 Enae 的第一项成果：一句可以被旁人复述的判断。
 
-> **原句 9:** "“Don’t!” Sphene grabbed hir arm, slowing hir, spinning them both around. “There’s gravity there.”"
+> **原句 8:** "“Don’t!” Sphene grabbed hir arm, slowing hir, spinning them both around. “There’s gravity there.”"
 
 **中文理解：** 「别动！」Sphene 抓住她的手臂，把她拽慢，转着两个人的方向。「那边有重力。」
 

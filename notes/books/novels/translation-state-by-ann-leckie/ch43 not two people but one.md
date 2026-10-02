@@ -17,7 +17,7 @@ modified: "2026-10-02"
 
 > **原句 1:** "A glance at hir handheld told hir that the station was out of danger, the Hikipi ship’s crew under arrest. Reet and Qven were officially human. There was a message from Caphing."
 
-**中文理解：** Enae 看了一眼手边的设备：车站已脱离危险，Hikipi 那艘船的船员被拘。Reet 与 Qven 已是正式的人人。有一条来自 Caphing 的留言。
+**中文理解：** Enae 看了一眼手边的设备：车站已脱离危险，Hikipi 那艘船的船员被拘。Reet 与 Qven 已经正式是人了。有一条来自 Caphing 的留言。
 
 **关键词：** the station was out of danger / the Hikipi ship’s crew under arrest / There was a message from Caphing
 
@@ -35,19 +35,9 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会想起第一章那场葬礼：Enae 想要的归处从头到尾都不是遗产，是一个叫她起床的人。
 
-> **原句 3:** "I’m actually kind of glad I did sleep through it. Dead-man switches and secret compartments on smuggling ships, and poor Reet. I would have been so worried. But by the time I woke up, everyone was safe.”"
+> **原句 3:** "“I’m going home,” said Enae. “For a while, at least.” Sie would, it seemed, get to stay in hir old room, with nothing to do and no one to take care of. Just for a while. “Zemil will just have to deal with that.”"
 
-**中文理解：** 「说真的，我有点庆幸自己睡过去了。」Enae 说。「走私船上的死者开关和秘密隔间，还有可怜的 Reet。我本来会担心得要命。可等我醒来，所有人都安全了。」
-
-**关键词：** glad I did sleep through it / Dead-man switches and secret compartments / by the time I woke up, everyone was safe
-
-**为什么这样写：** 全章唯一一次让 Enae 主动评价自己的位置：她把缺席说成幸运。而她列举的那三样危险，全部来自上一章她睡过去的那段时间——这让「睡着」变成一种叙述内的批准。
-
-**读者视角提示：** 读者会感到 Enae 已经不是第一章那个必须全程在场、随时准备被处置的人了。
-
-> **原句 4:** "“I’m going home,” said Enae. “For a while, at least.” Sie would, it seemed, get to stay in hir old room, with nothing to do and no one to take care of. Just for a while. “Zemil will just have to deal with that.”"
-
-**中文理解：** 「我要回家了。」Enae 说。「至少暂时是这样。」看起来她可以住回自己那间旧房间，没有事做，也没有人要照顾。暂时而已。「Zemil 得自己 deal with 这件事了。」
+**中文理解：** 「我要回家了。」Enae 说。「至少暂时是这样。」看起来她可以住回自己那间旧房间，没有事做，也没有人要照顾。暂时而已。「Zemil 就得自己操心这件事了。」
 
 **关键词：** I’m going home / For a while, at least / no one to take care of
 
@@ -55,17 +45,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会感到 Enae 终于把「闲置」当成可以承受的状态——第一章她是被闲置的人。
 
-> **原句 5:** "“You know, going home doesn’t have to be permanent. But it’s nice to have someplace to come back to, where you’re welcome and safe.” She thought a moment. “As safe as you can be, anyway.”"
-
-**中文理解：** 「你知道，回家不一定是永久的。」Batonen 语气里带着精明。「不过有个可以回来的地方很好，你在那里受欢迎、也安全。」她想了一会儿。「反正，能有多安全算多安全。」
-
-**关键词：** going home doesn’t have to be permanent / where you’re welcome and safe / As safe as you can be, anyway
-
-**为什么这样写：** 安慰被写成两句限定：不必永久、以及那句自我降级的补充。it’s nice to have someplace to come back to 这句把家从终点改成可反复返回的点。
-
-**读者视角提示：** 读者会感到 Batonen 的分寸：她给的安全是打折的，而这个折扣恰好是 Enae 需要的诚实。
-
-> **原句 6:** "They were very clearly not Reet and Qven anymore, but… two people made from a combination of Reet and Qven. Sort of. And then Enae had to remind hirself that this was not two people, but one."
+> **原句 4:** "They were very clearly not Reet and Qven anymore, but… two people made from a combination of Reet and Qven. Sort of. And then Enae had to remind hirself that this was not two people, but one."
 
 **中文理解：** 他们显然已经不再是 Reet 和 Qven 了，而是……由 Reet 和 Qven 组合出来的两个人。大致如此。然后 Enae 不得不提醒自己：这不是两个人，是一个。
 
@@ -75,7 +55,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会感到这一句是全书的落点：身份不是被发现的，是被重新数的。
 
-> **原句 7:** "“I haven’t decided on a name,” said the one who seemed a bit more Qven-like, but there wasn’t really a difference, Enae knew. “And sometimes I feel like he and sometimes I feel like e and sometimes I feel kind of like both, and sometimes I’m neither one. I guess they works fine.”"
+> **原句 5:** "“I haven’t decided on a name,” said the one who seemed a bit more Qven-like, but there wasn’t really a difference, Enae knew. “And sometimes I feel like he and sometimes I feel like e and sometimes I feel kind of like both, and sometimes I’m neither one. I guess they works fine.”"
 
 **中文理解：** 「我还没想好叫什么名字。」那个看起来更有点 Qven 味道的说，可 Enae 知道其实并没有分别。「有时候我觉得自己是 he，有时候觉得是 e，有时候觉得两个都是，有时候又哪个都不是。我想 they 也挺好用。」
 
@@ -85,7 +65,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会感到「尚未取名」是这本书给出的最后状态：连称呼都还是一件待办的事。
 
-> **原句 8:** "“And how are Reet and Qven?” asked Enae. “Aren’t they here?”
+> **原句 6:** "“And how are Reet and Qven?” asked Enae. “Aren’t they here?”
 
 
 “They’re having one of their sulks,” said the mech. “They’ll be out soon.”"
@@ -98,7 +78,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会注意到 Enae 是最后一个还在用旧名字的人。
 
-> **原句 9:** "Sometimes I need to be by myself. Sphene understands.” Qven turned to the bio mech. “Don’t you.” And turning back to Enae, “Sphene had a really bad thing happen, and then it hid by itself for three thousand years.”"
+> **原句 7:** "Sometimes I need to be by myself. Sphene understands.” Qven turned to the bio mech. “Don’t you.” And turning back to Enae, “Sphene had a really bad thing happen, and then it hid by itself for three thousand years.”"
 
 **中文理解：** 「有时候我需要自己待着。」那个更有点 Qven 的说。「Sphene 理解。」然后它转向那具机甲。「你不理解。」又转回 Enae：「Sphene 遇到过一次很糟的事，然后它躲起来躲了三千年。」
 
@@ -108,7 +88,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会在这里第一次看到合并之后的那个人也会脆弱，而脆弱的方式仍然像 Qven。
 
-> **原句 10:** "“You’ll be bored,” Sphene suggested, undocking the shuttle from itself. “You’ve gotten the taste for excitement and adventure.”
+> **原句 8:** "“You’ll be bored,” Sphene suggested, undocking the shuttle from itself. “You’ve gotten the taste for excitement and adventure.”
 
 
 “I may have,” agreed Enae, leaning back in hir seat as the shuttle accelerated. “Just a little.”"
