@@ -95,16 +95,6 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者到这里才明白 Reet 真正动摇在哪里：不是血统被认出来，而是有人愿意给他一个可以属于的群体。
 
-> **原句 9:** "He opened his eyes. Set aside the carton of dumplings, ate the milk jelly, and lay down on the bed and started up an episode of Pirate Exiles of the Death Moons."
-
-**中文理解：** 他睁开眼，把那盒饺子推到一边，吃了奶冻，躺到床上，打开一集 Pirate Exiles of the Death Moons。
-
-**关键词：** Set aside the carton of dumplings / ate the milk jelly / Pirate Exiles of the Death Moons
-
-**为什么这样写：** 全章以一连串日常动作收尾，没有一句评论。推开的饺子、吃掉的奶冻、点开的剧集，都在本章前文出现过——被写成他可以躲进去的东西。查完 Hikipu 历史之后他仍然回到剧集，等于给了一个不表态的姿态。
-
-**读者视角提示：** 章末停在剧集上：他既没有接受也没有否认那个姓，只是像往常一样开始了晚上。
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

@@ -35,11 +35,11 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者要留意，这个类比是 Nadkal 第二次打断 Reet 说话时主动递上来的。
 
-> **原句 3:** "So there’s no genetic evidence of any connection to the Schans?” Enae asked Mr Hluid as he brought hir another cup of warm, watery milk. He explained about the difference between the genetics of people who had lived on Lovehate Station hundreds of years ago and the genetics of people who claimed their ancestors had come from Lovehate Station. “I see,” sie said, though sie didn’t, not entirely"
+> **原句 3:** "So there’s no genetic evidence of any connection to the Schans?” Enae asked Mr Hluid as he brought hir another cup of warm, watery milk. He explained about the difference between the genetics of people who had lived on Lovehate Station hundreds of years ago and the genetics of people who claimed their ancestors had come from Lovehate Station. “I see,” sie said, though sie didn’t, not entirely."
 
 **中文理解：** 「所以没有任何证据能证明你和 Schan 有基因上的关联？」Enae 问。对方端来一杯温吞的稀牛奶，一边解释一边把话圆过去：几百年前真的住在 Lovehate Station 的人是一套基因，声称祖先从那里来的人是另一套。「我明白了，」她说——其实并没有全明白。
 
-**关键词：** no genetic evidence of any connection / the difference between the genetics / though sie didn
+**关键词：** no genetic evidence of any connection / the difference between the genetics / not entirely
 
 **为什么这样写：** 提问被夹在对方递过来一杯东西的间隙里，说明这个话题在桌上并不好待。Enae 的问句其实已经预设了否定答案，而她的复述紧跟着一句自我否定——这是全章唯一一次她当面承认自己没听全。
 

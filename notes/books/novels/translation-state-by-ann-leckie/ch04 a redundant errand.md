@@ -95,69 +95,6 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会注意到这两句同构：一个想进这栋楼，一个还在这栋楼里。
 
-> **原句 9:** "Caphing laughed, delighted. “Excellent! So, listen. You’re right, Aunt can’t force you to do anything. She can maneuver, and put pressure on, and any number of things, but let’s be honest, you’re used to things being not entirely pleasant. You’re actually in a pretty good position here. Don’t tell Aunt I said so, she’ll be quite cross with me if she finds out, but it’s only the truth. If there’s something else you want to do, you could probably get her to agree to it.”"
-
-**中文理解：** Caphing 开心地笑了。「太好了！那么听着。你说得对，姑婆没法逼你做任何事。她能做的只是腾挪、施压，以及各式各样的手段；不过说真的，你现在处境相当不错。别跟姑婆说这是我讲的，被她知道了我要挨骂的，可这就是实话。如果还有别的事你想做，你大概能说服她点头。」
-
-**关键词：** Aunt can’t force you to do anything / She can maneuver, and put pressure on / in a pretty good position here
-
-**为什么这样写：** 先给出乐观结论，再补 don’t tell Aunt I said so，这种带点共谋的语气让全段读起来像朋友支招。She can maneuver, and put pressure on 里的三个动词全是软性的，跟本章前面 Zemil 那句其实可以逼你走的硬性说法形成对照。
-
-**读者视角提示：** 读者会觉得本章真正的推动力不是 Zemil 而是 Caphing——Enae 的许可来自这张桌子，不来自那座房子。
-
-> **原句 10:** "“Look, this job is impossible. It’s just a cover. I mean, you could go looking for this fugitive if you wanted, but you don’t have to. You’re not expected to. You’d basically make a bunch of stops and visit embassies and make formal requests for information that you probably won’t get. No one thinks you’ll be able to find this person, but it’s important right now to be seen to be looking.”"
-
-**中文理解：** 「你看，这份工作是不可能的。它就是个体面。意思是，你真要去找这个逃犯也随你，但不必去。没人指望你去。你基本上只要跑几个停靠点、造访各处使馆、正式索取一份你多半拿不到的情报。没人觉得你能找到这个人，可眼下重要的是让大家看到有人在找。」
-
-**关键词：** It’s just a cover / You’re not expected to / it’s important right now to be seen to be looking
-
-**为什么这样写：** 谈判的筹码由对方先摊开：it’s just a cover 一句就把差事的性质说破，随后三次用 you 开头的小句把义务一条条卸掉。to be seen to be looking 把「找」降级为「被看见在找」，正是全书对公事态度的定义。
-
-**读者视角提示：** 读者会拿到本章最重要的一条信息：差事是空的；后面的全部行动都出自 Enae 自己。
-
-> **原句 11:** "“I… but I’d be getting paid to do a job.”
-
-
-“Oh, yes, and mostly that job is meeting with our consular representatives in various places and asking if they have any information. Which they won’t, but it’s all about making the effort. There’s no reason not to enjoy yourself, too. Have you ever traveled top class on an intersystem liner? It’s amazing. They have restaurants, and spas, and all sorts of things. Of course, the Office of Diplomacy wouldn’t send you anywhere on a top-class ticket, not unless you were an actual ambassador, but if your allowance were large enough, you could absolutely spend a month in transit sipping arrack and getting massages and mineral packs and whatnot. Have you ever had a mineral pack? It’s incredibly relaxing."
-
-**中文理解：** 「我……可是我是拿了钱去干活的。」——哦，是的，而且那活儿基本就是和各处的领事代表见面，问他们有没有情报。他们不会有，但重点在于做出努力。没理由不顺便享受一下。你坐过星际特快船的头等舱吗？棒极了。上面有餐厅、有温泉，还有各种设施。当然外交部不会给你订头等票，除非你是真正的大使，不过只要津贴够多，你完全可以在路上花一个月，喝 arrack、做按摩、敷矿物包什么的。你用过矿物包吗？放松得不得了。
-
-**关键词：** it’s all about making the effort / sipping arrack and getting massages / a mineral pack
-
-**为什么这样写：** 这一段把「公事」拆成休息：asking if they have any information 后面立刻接 which they won’t，两句转折把整件事的成果归零。矿物包、arrack 这些具体名词让诱惑变得可触，正面回应了 Enae 那句「我是拿了钱的」。
-
-**读者视角提示：** 读者会看出这一段是全章最有温度的交涉：Caphing 不劝她为公义出门，而是拿舒服的旅行做诱饵。
-
-> **原句 12:** "Enae felt, suddenly, that sie could sit here all day and just talk with Caphing about mineral packs. Or all the beautiful things in the Peony Room. Instead, sie said, “I think if this fugitive came from the Presger, if this really is a Presger Translator we’re talking about, it makes sense to start looking near the Treaty Administration Facility.”"
-
-**中文理解：** Enae 忽然觉得，她可以就这么在这里坐上一整天，跟 Caphing 聊矿物包，或者聊这间房里所有漂亮的东西。可她说的是：「我想，如果这个逃犯来自 Presger，如果我们要找的确实是一个 Presger Translator，那从条约管理处附近开始找是说得通的。」
-
-**关键词：** that sie could sit here all day / Or all the beautiful things in the Peony Room / it makes sense to start looking near the Treaty Administration Facility
-
-**为什么这样写：** 作者先用一句欲望占满读者注意力，再紧接 Instead 把话锋折回正事。转折的代价写在 zh 里：一个本可以坐一整天的人，选择了说出第一条线索。
-
-**读者视角提示：** 读者会把这句当成本章的转折点：她接了差事，也第一次给出了自己的查法。
-
-> **原句 13:** "No, Enae wanted to protest, that’s not what I mean. But if sie’d learned one thing living with Grandmaman, it was that talking too much about eir plans beforehand was the surest way to have those plans criticized, nitpicked, negated. Better to think carefully and then go ahead and do what needed to be done and take the consequences later."
-
-**中文理解：** 不，Enae 本想抗议：不是那个意思。但她跟外婆一起生活学到的一件事就是：事先把自己的打算说得太多，是让这些打算被批评、被挑刺、被否掉的唯一途径。还不如想清楚，然后直接去做该做的事，后果以后再担。
-
-**关键词：** one thing living with Grandmaman / criticized, nitpicked, negated / take the consequences later
-
-**为什么这样写：** But 后面接一整段从外婆那里继承来的处世法，三个过去分词排比把外婆的手段一次写完。Enae 的新决定与她的旧经验在这里并不冲突——她正是在用外婆教的办法，做一件外婆没教过的事。
-
-**读者视角提示：** 读者会意识到：她的谨慎不是天生的，是被训出来的；这让她的出门更像一次逃亡。
-
-> **原句 14:** "“You know”—Caphing picked hir coffee up off the peony table—“I won’t say I’m glad the Blessed Deceased has ascended, but you’ve been wasted all these years. You’re going to be great at this.”"
-
-**中文理解：** 「你知道吗」——Caphing 从那张牡丹小桌上端起咖啡，「我不会说Blessed Deceased 升天是件好事，但你这些年是被浪费了。你干这个会很出色。」
-
-**关键词：** picked hir coffee up off the peony table / you’ve been wasted all these years / You’re going to be great at this
-
-**为什么这样写：** 全章最后一句是本章给出的唯一一次肯定，而它的对象不是即将办成的事，是过去那些年。you’ve been wasted 把二十来年的伺候重新定性；破折号插话的动作（端起杯子）让这句夸奖听起来像随口说的，越随意越难反驳。
-
-**读者视角提示：** 读者会在章末感到：Enae 答应出门，表面上是被旅行和津贴说动的，实际是被一句「你被浪费了」说动的。
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

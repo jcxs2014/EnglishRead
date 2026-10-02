@@ -95,56 +95,6 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会读出转折的物理形状：还没被吃掉的人，是靠开始数日子才长大的。
 
-> **原句 9:** "“Why can’t we just eat a Teacher?” I asked one of the older Edges who had been friendly to me more or less since I’d arrived."
-
-**中文理解：** 「我们为什么不能直接吃掉一个 Teacher？」我问了一个年长的 Edge；他自我来之后对我一直还算友好。
-
-**关键词：** Why can’t we just eat a Teacher? / the older Edges / more or less
-
-**为什么这样写：** 全章第一个直接引语就把最禁忌的事当常识问出来，语气里没有恶意，只有算计。more or less 放在叙述者的复述里，让「友好」自带折扣。
-
-**读者视角提示：** 读者会意识到：叙述者问这个问题时已经懂规矩，她只是想知道可行不可行。
-
-> **原句 10:** "“Can you imagine them letting you be a Diplomatic Operative”—they switched momentarily into human language—“a Translator, with a Teacher inside you? You know they’re bred for teaching, nothing better. Or else they’re a Failed and can’t even do the thing they were meant for."
-
-**中文理解：** 「你能想象他们让你去当什么外交行动人员吗」——他 momentarily 换成了人类的语言，「Translator，肚子里还塞着一个 Teacher？你知道他们是为教学生殖出来的，不会有更好的。要不然他们就是 Failed，连自己该做的事都做不了。」
-
-**关键词：** a Diplomatic Operative / they’re bred for teaching / Or else they’re a Failed
-
-**为什么这样写：** 括号里那句 switched momentarily into human language 是双重翻译的标记：他们本来要说自己族群的词，只是为了让我听懂才换成人类的。这句话顺带把后来那套器官用途的说法第一次点了出来。
-
-**读者视角提示：** 读者会在这里第一次听见「Translator」这个去向的名字，而说话的人并不知道自己已经说出了后来的事。
-
-> **原句 11:** "You’re in the Edges for decades. As you go along, as you learn the things you’ll need to know in the World, you learn what those first signs are, that you’re ready, that you’ve become an active danger to your former fellow Edges, no longer an Edge yourself."
-
-**中文理解：** 你在 Edges 里待几十年。随着时间过去，随着你学会去外面那个世界所需要的东西，你也会学会那些最初的征兆：你准备好了，你已经成了对昔日同类的主动危险，你已经不再是 Edge。
-
-**关键词：** You’re in the Edges for decades / you learn what those first signs are / an active danger to your former fellow Edges
-
-**为什么这样写：** 全段没有一个主动的人称主语，全是 you。ready 与 danger 同在一个判断里：长成的标志就是变成威胁。former fellow Edges 里那个 former，是本章对身份最冷的一处处理。
-
-**读者视角提示：** 读者会意识到：这里的成长定义与人类完全不同，因此整章的「长大」也就带着一层恐惧。
-
-> **原句 12:** "This is what the Teachers tell you: when you exit into the World, you’ll take the place you’ve been prepared for since birth, each of us chosen for our suitability, without reference to favoritism or any sort of partiality. Each role is necessary and noble, part of our great work, and we will all be happy and fulfilled."
-
-**中文理解：** Teachers 告诉你的是这样：等你出去进入世界，你会占住那个自出生起就为你备好的位置，我们每个人都是照着合适挑的，不带偏私，也不带任何偏爱。每个角色都必要、都高贵，是我们伟大工作的一部分，而我们都会快乐、都会满足。
-
-**关键词：** the place you’ve been prepared for since birth / without reference to favoritism or any sort of partiality / we will all be happy and fulfilled
-
-**为什么这样写：** 全段是第三人称的转述，语气和前几段的 Teachers 教条完全一致，作者不给任何提示说明这话可疑。suitability、favoritism、partiality 三个词连续落在同一句里，公平的说辞本身就是伏笔。
-
-**读者视角提示：** 读者要等到最后一句才知道这段是引用的谎言；在此之前，它听上去完全合理。
-
-> **原句 13:** "It’s all a lie."
-
-**中文理解：** 全是谎言。
-
-**关键词：** It’s all a lie
-
-**为什么这样写：** 整段只有一句，起止锚指向同一句。前面所有的复述都在为这一句积攒证据，而作者不解释哪一句是谎、到底谁在安排。
-
-**读者视角提示：** 读者会拿到第一个明确的判断，但拿不到依据——这正是本章交给下一个阶段的问题。
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
