@@ -1,0 +1,42 @@
+# ch06 Love of My Days / ch07 Stick Season（ohp-C 交付）
+ch06 love of my days.md: 10/10 ✅
+ch07 stick season.md: 10/10 ✅
+=== 总计 190/190 引文可核实（100%）；完全干净文件 19/19；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- FAIL (0) ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+  FAIL 0 处（U+FFFD / 双句号）
+  ✅ 本章命中 190 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+Traceback (most recent call last):
+  File "/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_chapter_quotes.py", line 367, in <module>
+    main()
+    ~~~~^^
+  File "/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_chapter_quotes.py", line 350, in main
+    ok, tot, miss, err, short, swallowed = check_chapter(nn, md, text_dir)
+                                           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_chapter_quotes.py", line 219, in check_chapter
+    qs, short = extract_quotes(open(md_path, encoding='utf-8').read())
+                               ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IsADirectoryError: [Errno 21] Is a directory: 'notes/books/short-story-anthologies/the-best-short-stories-2026-by-o-henry-prize-winners/'
+Traceback (most recent call last):
+  File "/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_chapter_quotes.py", line 367, in <module>
+    main()
+    ~~~~^^
+  File "/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_chapter_quotes.py", line 350, in main
+    ok, tot, miss, err, short, swallowed = check_chapter(nn, md, text_dir)
+                                           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_chapter_quotes.py", line 219, in check_chapter
+    qs, short = extract_quotes(open(md_path, encoding='utf-8').read())
+                               ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+IsADirectoryError: [Errno 21] Is a directory: 'notes/books/short-story-anthologies/the-best-short-stories-2026-by-o-henry-prize-winners/'
+
+=== ohp_strict 自检 ===
+
+✅ 阻断型 0 处
+
+【阻断线索】必须逐条回原文定案
+========================================================================
+  （无）
+
+######## 主会话跨章口径复核：先前存证的 4 处阻断型，各组已自行修掉
+  P1 ch08 `is eating` / P2 ch09 `wakes up in that hospital` / P3 ch16 `I don’t feel the sheets` / P4 ch17 `All those words.` → md 现均不含该串
