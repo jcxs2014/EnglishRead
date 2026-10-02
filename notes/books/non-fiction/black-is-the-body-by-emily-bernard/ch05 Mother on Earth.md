@@ -122,46 +122,54 @@ modified: "2026-10-02"
 
 ## 词汇分级
 
+### ⭐⭐⭐ 高级
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | ambivalence | 矛盾心情、既想又怕（名词；此处指她对促排卵药的犹豫） | I assumed I would conceive naturally when John and I decided to start a family. I didn’t. We turned to fertility drugs with ambivalence. |
-| innocuous | 无害的、不带恶意的（形容词；此处指她本会觉得无所谓的那句话） | I don’t remember what he said, but I’m sure it was something I would have otherwise considered innocuous. |
-| tsunami | 海啸（名词；此处形容暴怒突然把她淹没） | Instead a growling, uncontrollable rage emerged from nowhere and then overcame me like an emotional tsunami. |
-| contend | 应对、应付（动词；此处指怀孕之后要面对的一系列麻烦） | Even if the drugs had taken, there would have been the aftermath of pregnancy to contend with. |
-| sacrilege | 亵渎（名词；此处指不敢说出"我想把钱花别处"） | I didn’t say this out loud; it seemed like sacrilege. |
 | infertility | 不孕（名词） | Often I wondered if my infertility was some kind of holy judgment on my marriage or me. |
-| witness | 作证、见证（动词兼名词；此处是圣经与法庭共用的用法） | “This is your pain,” she said. “You must bear witness.” |
-| erect | 直立的；此处与 erect penis 同形，作者借它写"我挺起来" | Lisa was sitting across the room, but her words gripped me physically. I stopped crying. I was erect, alert, and full of purpose. |
 | revelation | 启示、顿悟（名词；此处形容某天早上醒来就知道要领养） | Adoption, however, came naturally. One day I woke up and I knew. It hit me like a revelation. |
 | altruistic | 利他的（形容词；此处指别人以为她领养是出于善心） | Sometimes people assume that my husband and I adopted for altruistic purposes. |
 | approximation | 近似、仿制品（名词；此处形容养母的爱被猜成打折版） | Her greatest fear about adoption, she wrote, had been that she would not be able to bond with her child as intensely and authentically as a natural mother, that the bond between herself and her daughter would be, at best, only an approximation of that natural bond, or, at worst, simply counterfeit. |
 | counterfeit | 假货、赝品（形容词兼名词；本节标题） | Her greatest fear about adoption, she wrote, had been that she would not be able to bond with her child as intensely and authentically as a natural mother, that the bond between herself and her daughter would be, at best, only an approximation of that natural bond, or, at worst, simply counterfeit. |
+| exasperation | 恼火、不耐烦（名词；指女儿们听腻了"奇迹"的说法） | I routinely tell my daughters that they are my miracles, gifts from Providence itself, to which they respond with exasperation, “Mommy, stop.” |
+| Providence | 天意、上帝的安排（专有名词，首字母大写） | I routinely tell my daughters that they are my miracles, gifts from Providence itself, to which they respond with exasperation, “Mommy, stop.” |
+| vigilantly | 警觉地（副词；形容那位朋友一直在留意她不是亲母这件事） | Even more disturbing was the fact that her comments revealed that she, herself, was constantly, even vigilantly, aware of the fact that I was not a biological mother. |
+| recklessly | 鲁莽地、不加遮掩地（副词；此处形容血亲关系被偷听到的场合） | Blood connections were revealed deliberately, at momentous junctures, like eighteenth birthdays, or recklessly, through overheard conversations. |
+| fraudulent | 虚假的、假的（形容词；此处形容被戳穿秘密后的"幸福家庭"） | Happy families were perceived suddenly as fraudulent. |
+| stepmother | 继母（名词） | When she was six, my daughter Isabella went through a phase during which she tried to figure out what to call me. For a while, she settled on stepmother. |
+| occasioned | 引起、带来（动词；正式语体，形容词化的过去分词） | I looked at my new daughters and realized immediately that I would spend my life trying to reconcile myself to the terrible coincidence that brought about our union, and the fact that my greatest joy was occasioned by someone else’s tragedy. |
+| exponentially | 成倍地、指数级地（副词；此处形容埃塞俄比亚人口在华盛顿的分布） | For as many Ethiopians as there are in Vermont, exponentially more live in Washington, D.C. |
+| unequivocally | 毫无疑问地（副词） | There is one story that is unequivocally true, and that true story goes like this: I am their mother on Earth, their here and now. |
+| vitalizing | 令人振奋的（动词 vitalize 的分词） | They will come upon other mysteries in their lives, and I will encourage them to view the mysteries of life as vitalizing and not crippling. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| innocuous | 无害的、不带恶意的（形容词；此处指她本会觉得无所谓的那句话） | I don’t remember what he said, but I’m sure it was something I would have otherwise considered innocuous. |
+| tsunami | 海啸（名词；此处形容暴怒突然把她淹没） | Instead a growling, uncontrollable rage emerged from nowhere and then overcame me like an emotional tsunami. |
+| contend | 应对、应付（动词；此处指怀孕之后要面对的一系列麻烦） | Even if the drugs had taken, there would have been the aftermath of pregnancy to contend with. |
+| sacrilege | 亵渎（名词；此处指不敢说出"我想把钱花别处"） | I didn’t say this out loud; it seemed like sacrilege. |
+| witness | 作证、见证（动词兼名词；此处是圣经与法庭共用的用法） | “This is your pain,” she said. “You must bear witness.” |
 | fumbled | 支吾、结巴（动词；此处指她听到别人夸亲生女儿漂亮时的反应） | But when strangers exclaimed over her biological child, she fumbled for a response. |
 | vanity | 虚荣（名词；此处是她不敢附和的原因） | To agree, she explained, felt like vanity. |
 | crocheted | 钩针编织的（形容词） | It featured two brown babies with enormous eyes. One of them was in tears; the other one looked like she was trying not to laugh. Both of them were wearing crocheted yellow caps that made me think of Esther Williams. |
 | shaves | 险胜、脱险（名词复数；此处形容领养路上的几次擦边） | What we assumed would be a straight line from us to the babies in the picture turned out to have close shaves and hair-raising detours. |
 | soberly | 冷静地、清醒地（副词；形容第二天早上认真考虑别的方案） | The next morning we soberly considered other options, like going for another round of drugs. |
-| exasperation | 恼火、不耐烦（名词；指女儿们听腻了"奇迹"的说法） | I routinely tell my daughters that they are my miracles, gifts from Providence itself, to which they respond with exasperation, “Mommy, stop.” |
-| Providence | 天意、上帝的安排（专有名词，首字母大写） | I routinely tell my daughters that they are my miracles, gifts from Providence itself, to which they respond with exasperation, “Mommy, stop.” |
 | deplaned | 下飞机（动词；此处写一家人在波士顿机场落地的瞬间） | They burst into tears as the four of us deplaned. |
-| wail | 尖声大哭（动词） | Then, as if on cue, they commenced to wail in unison until they passed out. |
 | insisted | 坚持（动词；比 offered 更强的一档） | No, I offered. Actually, I insisted. |
 | protocol | 礼仪、程序（名词；此处指迎婴派对的规矩） | I consulted friends and the Internet for baby shower protocol, shopped for the right decorations, ordered cute cakes, all the while asking myself, What are you trying to prove? |
 | concave | 内凹的（形容词；此处形容站在孕妇身边时自己的肚子） | Still, when I stand next to pregnant women, my stomach sometimes feels concave and hollow. |
 | originate | 生育、亲生（动词；此处指"生下"这层意思） | I’ve heard adoptive mothers say that they wish that they had originated their children. |
 | stunned | 惊住的（动词 stun 的过去分词） | Both times I was caught completely by surprise, stunned by how quickly ordinary activities—changing clothes, an idle conversation with a friend—transformed into emotional landmines. |
 | landmine | 地雷（名词；此处形容日常对话突然触发的情绪） | Both times I was caught completely by surprise, stunned by how quickly ordinary activities—changing clothes, an idle conversation with a friend—transformed into emotional landmines. |
-| vigilantly | 警觉地（副词；形容那位朋友一直在留意她不是亲母这件事） | Even more disturbing was the fact that her comments revealed that she, herself, was constantly, even vigilantly, aware of the fact that I was not a biological mother. |
 | primacy | 至高无上的地位（名词；此处形容血亲关系） | Before I became a mother, I believed in the primacy of blood. |
 | shrouded | 遮蔽的、笼罩的（形容词；此处形容她童年听到的收养故事） | Even though the adoption stories around me when I was growing up were shrouded in secrecy and pity, I knew of many people in the Deep South who raised children to whom they did not give birth. |
-| recklessly | 鲁莽地、不加遮掩地（副词；此处形容血亲关系被偷听到的场合） | Blood connections were revealed deliberately, at momentous junctures, like eighteenth birthdays, or recklessly, through overheard conversations. |
-| fraudulent | 虚假的、假的（形容词；此处形容被戳穿秘密后的"幸福家庭"） | Happy families were perceived suddenly as fraudulent. |
 | reassure | 安慰、使安心（动词；此处是那位朋友事后为自己辩解的用词） | Later, she explained that she had meant the comment to reassure me. |
 | policed | 管教、纠正（动词；此处形容外婆对母亲坐姿的严格） | My mother remembered her grandparents as upright, religious people who policed her posture and ate bacon with a knife and a fork. |
 | adored | 深爱的、被宠爱的（动词 adore 的过去式） | My mother remembered her grandparents as upright, religious people who policed her posture and ate bacon with a knife and a fork. She adored them and described her years with her extended family as some of the happiest of her life. |
 | intimacy | 亲密（名词；此处形容母亲对两个"母亲"不同的感觉） | My mother called her grandmother “Mama” and her mother “Mother.” To me, this said something about the different quality of intimacy she felt for each of her mothers. |
-| stepmother | 继母（名词） | When she was six, my daughter Isabella went through a phase during which she tried to figure out what to call me. For a while, she settled on stepmother. |
-| barb | 倒刺、伤人的话（名词；此处指女儿那句"你不是我的亲妈"） | Not coincidentally, when I deny her something that she wants, Isabella is the one to sometimes fling the barb that perhaps all adoptive mothers fear: “You’re not my real mother!” |
 | paternity | 父权、父亲身份（名词；此处指女儿从不质疑父亲的亲生身份） | I am fascinated by the fact that my daughters never question the authenticity of their father’s paternity, considering the racial difference between them. |
 | mugging | 扮鬼脸（动词；此处指女儿学秀兰·邓波儿做鬼脸） | “Daddy, you should get a tattoo of me going like this,” she told him years ago, mugging like Shirley Temple. |
 | pityingly | 怜悯地（副词；此处形容丈夫拍她肩膀的动作） | “No one on Earth wants to be with me as much as Isabella wants to be with you,” I sometimes complain to John. He pats my shoulder pityingly, like a prince dispensing coins to a pauper. |
@@ -170,15 +178,19 @@ modified: "2026-10-02"
 | sacrament | 圣礼（名词；此处是神父在入教仪式上的用词） | “Adoption is a holy sacrament,” said the priest at a ceremony my parents arranged to welcome our daughters into our church family in Nashville. |
 | majestic | 威严的、壮丽的（形容词；此处形容斑马） | I have the same feelings about adoption as I do about zebras, in whose astonishing, majestic presence I think, This must be God at work. |
 | unworthy | 不配的（形容词） | When we met the girls’ maternal grandmother, she said I was her daughter returned to her from the dead. She compared me to Mary, Mother of God. I was glad; I felt unworthy. |
-| agony | 痛苦（名词；此处形容生母外婆丧女的沉默） | I felt her quiet agony over her daughter’s death. |
 | reconcile | 调和、释怀（动词；此处指她一生要与自己和解的那件事） | I looked at my new daughters and realized immediately that I would spend my life trying to reconcile myself to the terrible coincidence that brought about our union, and the fact that my greatest joy was occasioned by someone else’s tragedy. |
-| occasioned | 引起、带来（动词；正式语体，形容词化的过去分词） | I looked at my new daughters and realized immediately that I would spend my life trying to reconcile myself to the terrible coincidence that brought about our union, and the fact that my greatest joy was occasioned by someone else’s tragedy. |
 | bounty | 恩赐、丰饶（名词；本节标题，指"被爱到两个大陆"） | Our daughters have known they were adopted from the moment they were capable of knowing anything. Some stories about adoption emphasize poverty or lack; a child unwanted or abandoned, a lost history. The stories we tell the girls are about bounty. |
-| exponentially | 成倍地、指数级地（副词；此处形容埃塞俄比亚人口在华盛顿的分布） | For as many Ethiopians as there are in Vermont, exponentially more live in Washington, D.C. |
 | liaison | 联络人（法语借词；此处指领养机构派来的对接人） | When the girls were two years old, we traveled to D.C. to meet our Ethiopian adoption liaison for dinner. |
 | recesses | 深处、暗处（名词复数；此处形容她们身上存着的历史） | They belong to a history preserved in the recesses of their minds and hearts; in their bodies, too, perhaps down to the level of the cell. |
-| unequivocally | 毫无疑问地（副词） | There is one story that is unequivocally true, and that true story goes like this: I am their mother on Earth, their here and now. |
-| vitalizing | 令人振奋的（动词 vitalize 的分词） | They will come upon other mysteries in their lives, and I will encourage them to view the mysteries of life as vitalizing and not crippling. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| erect | 直立的；此处与 erect penis 同形，作者借它写"我挺起来" | Lisa was sitting across the room, but her words gripped me physically. I stopped crying. I was erect, alert, and full of purpose. |
+| wail | 尖声大哭（动词） | Then, as if on cue, they commenced to wail in unison until they passed out. |
+| barb | 倒刺、伤人的话（名词；此处指女儿那句"你不是我的亲妈"） | Not coincidentally, when I deny her something that she wants, Isabella is the one to sometimes fling the barb that perhaps all adoptive mothers fear: “You’re not my real mother!” |
+| agony | 痛苦（名词；此处形容生母外婆丧女的沉默） | I felt her quiet agony over her daughter’s death. |
 
 ## 一句话总结
 

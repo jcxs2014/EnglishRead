@@ -120,43 +120,47 @@ modified: "2026-10-02"
 
 ## 词汇分级
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| connotations | 内涵、言外之意（动词 connote 的名词） | “ ‘Queer’ has important connotations for me,” he says. |
+| suspicious | 猜疑的、多疑的（动词 suspect 的形容词形式） | I am suspicious. |
+| disingenuous | 不真诚的、存心误导的（否定前缀 dis- 加 genuine 的反义构词） | I tell them that while it would be disingenuous for me to suggest that my own racial identity has nothing to do with my love for African American literature, my race is only one of the many reasons why I stand before them. |
+| unambiguous | 毫不含糊的、一清二楚的（否定前缀 un- 加 ambiguous） | I feel the power of Randall Kennedy’s book in my hands, its title crude and unambiguous. |
+| insinuating | 暗示的、含沙射影的（动词 insinuate 的分词） | She looks indignant. She is indignant because I am insinuating that there is a problem with the fact that no one in the class will say “nigger.” |
+| insecurities | 不安全感、局促（名词 insecurity 的复数） | As I sit here, I grow increasingly more alarmed at what I am revealing: my personal philosophies; my attitudes about my friend’s style of dress; my insecurities; my feelings. |
+| protracted | 长时间的、拖延的（形容词；此处形容课堂上一场拉锯式的争执） | After some protracted verbal arm wrestling, the student gave in. |
+| annihilate | 彻底摧毁（动词；与前句核弹形成同词根呼应） | Nuclear bombs annihilate. What do you imagine will be destroyed if you guys use the word in here? |
+| chastising | 责备、内心谴责（动词 chastise 的分词，此处用来说明自我数落） | People in Burlington do not want to hear “nigger” while they are eating a nice dinner, I think, chastising myself. |
+| reconstruct | 重建、还原（动词；此处指在心里重演餐厅那一晚） | I lie in bed and reconstruct the scene of David and me in the restaurant and our conversation about “nigger.” |
+| articulate | 明确说出、把话说出口（动词；名词 articulation 同源） | “Look, I don’t want to give you the impression that I am somehow longing for you guys to say ‘nigger,’” I tell them, “but I do think that something is lost when you don’t articulate it, especially if the context demands its articulation.” |
+| commiserate | 同情、互通苦衷（动词，固定搭配后接 about 或 with） | Anh and I commiserate often about being minorities in Burlington, but we usually do it silently. |
+| scuba instructor | 潜水教练 | She listens and then describes to me the latest development in her on-again, off-again relationship with her boyfriend, a scuba instructor. |
+
+### ⭐⭐ 进阶
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | epithets | 辱称、贬称（形容词 epithetic 的名词；常指种族或宗教侮辱性称呼） | I ask him what he thinks about the word “queer,” whether or not he believes, independent of the theorists he admires, that epithets can ever really be reclaimed and reinvented. |
-| connotations | 内涵、言外之意（动词 connote 的名词） | “ ‘Queer’ has important connotations for me,” he says. |
 | daring | 大胆的、敢做敢为的（动词 dare 的形容词形式） | “It’s daring, political. I embrace it.” |
-| suspicious | 猜疑的、多疑的（动词 suspect 的形容词形式） | I am suspicious. |
-| stark | 鲜明的、刺眼的（此处形容黑底白字的对比） | “Nigger,” in stark white type against a black background, is staring at him, staring at anyone who happens to be walking past the open door behind him. |
 | ardently | 热切地、衷心地（副词 ardour 的派生） | I feel my power as his professor, the mentor he has so ardently adopted. |
-| disingenuous | 不真诚的、存心误导的（否定前缀 dis- 加 genuine 的反义构词） | I tell them that while it would be disingenuous for me to suggest that my own racial identity has nothing to do with my love for African American literature, my race is only one of the many reasons why I stand before them. |
 | laziness | 懒惰、怠惰（形容词 lazy 的名词，此处指不肯下功夫读） | I say this to suggest that if you fail to fully appreciate this material, it is a matter of your intellectual laziness, not your race. |
-| unambiguous | 毫不含糊的、一清二楚的（否定前缀 un- 加 ambiguous） | I feel the power of Randall Kennedy’s book in my hands, its title crude and unambiguous. |
-| flank | 排列在…两侧（动词；此处指学生分坐长桌两边） | The rest of the students flank us on either side. |
 | recoil | 退缩、畏缩（动词；此处指学生对玩笑的反应） | Eric, who is sitting near me, does not recoil at my jokes; he does not respond to my not-so-subtle efforts to push him and everyone else back. |
 | beaming | 眉开眼笑地、热情地散发出（动词 beam 的分词） | As soon as Lauren asks me how I feel, it is as if the walls of the room soften and collapse slightly, nudging us a little bit closer together. Suddenly, eleven pairs of eyes are beaming sweet messages at me. |
 | indignant | 义愤的、愤慨的（动词 indgne 的形容词形式，此处两次重复） | She looks indignant. She is indignant because I am insinuating that there is a problem with the fact that no one in the class will say “nigger.” |
-| insinuating | 暗示的、含沙射影的（动词 insinuate 的分词） | She looks indignant. She is indignant because I am insinuating that there is a problem with the fact that no one in the class will say “nigger.” |
 | casually | 随意地、不讲究地（副词 casual） | You said that Todd exercises his white privilege by dressing so casually for class. |
-| insecurities | 不安全感、局促（名词 insecurity 的复数） | As I sit here, I grow increasingly more alarmed at what I am revealing: my personal philosophies; my attitudes about my friend’s style of dress; my insecurities; my feelings. |
 | relent | 放弃坚持、让步（动词；后面接 let go of the rope 把它坐实） | I relent, let go of the rope. |
-| protracted | 长时间的、拖延的（形容词；此处形容课堂上一场拉锯式的争执） | After some protracted verbal arm wrestling, the student gave in. |
 | envious | 羡慕的、嫉妒的（动词 envy 的形容词形式） | I am immediately envious of the easy warmth he seems to feel for John. |
 | glistened | 湿润发亮（动词 glisten 的过去式；此处指一双含泪发亮的眼睛） | The eyes of the tie-dyed student glistened. |
 | thrumming | 突突地跳、搏动（动词 thrum 的分词；此处形容心跳） | At the same time I tried to steady the thrumming of my heart by breathing deeply and repeating to myself, You are safe. You are safe. |
 | surveying | 打量、扫视（动词 survey 的分词） | I looked away, but I could feel the men surveying the small crowd that was carrying me along. |
-| annihilate | 彻底摧毁（动词；与前句核弹形成同词根呼应） | Nuclear bombs annihilate. What do you imagine will be destroyed if you guys use the word in here? |
 | nuclear bomb | 核弹（军事用语） | She says that the n-word is the ‘trump card, the nuclear bomb of racial epithets.’ |
 | in loco parentis | 代替父母的位置（拉丁语，法律与教育用语） | I remembered my role as a teacher, a mentor, in loco parentis, even though there were real parents everywhere. |
-| chastising | 责备、内心谴责（动词 chastise 的分词，此处用来说明自我数落） | People in Burlington do not want to hear “nigger” while they are eating a nice dinner, I think, chastising myself. |
-| tipsy | 微醺的、带醉意的（形容词） | I am tipsy. |
-| reconstruct | 重建、还原（动词；此处指在心里重演餐厅那一晚） | I lie in bed and reconstruct the scene of David and me in the restaurant and our conversation about “nigger.” |
 | puzzled | 困惑的、摸不着头脑的（动词 puzzle 的形容词形式） | “I hope not.” He laughs and looks puzzled. |
 | temporary | 暂时的、暂时的状况（形容词；形容词修饰前句跨过某种距离的感觉） | “It’s probably just temporary.” |
 | bullshit | 胡扯、屁话（粗俗口语，语气词） | “That’s just bullshit,” he says to the class, and I force myself not to raise an eyebrow at “bullshit.” |
-| articulate | 明确说出、把话说出口（动词；名词 articulation 同源） | “Look, I don’t want to give you the impression that I am somehow longing for you guys to say ‘nigger,’” I tell them, “but I do think that something is lost when you don’t articulate it, especially if the context demands its articulation.” |
-| commiserate | 同情、互通苦衷（动词，固定搭配后接 about 或 with） | Anh and I commiserate often about being minorities in Burlington, but we usually do it silently. |
 | logger | 伐木工（名词；Anh 父亲一带的职业） | Early in our friendship, she told me her father was a logger, as were most of the men in her family. |
-| scuba instructor | 潜水教练 | She listens and then describes to me the latest development in her on-again, off-again relationship with her boyfriend, a scuba instructor. |
 | listserv | 邮件列表服务（计算机术语，指整门课共用的一个发信地址） | Two students who are going abroad promise to keep in touch through our listserv, which we all agree to keep active until the end of the academic year, at least. |
 | inscribe | 题写、题赠（动词；此处指在书上写赠言） | I give them copies of Some of My Best Friends and inscribe each one. |
 | prodding | 催、追问（动词 prod 的分词） | Weeks of silence go by. After some prodding, Lauren posts an analysis of the poem, and then her personal reactions to it. |
@@ -164,6 +168,14 @@ modified: "2026-10-02"
 | earnest | 认真的、诚挚的（形容词；此处修饰那封学术口吻的邮件） | After Pulp Fiction came out, I wrote my brother James an earnest, academic email. |
 | shearling coat | 羊皮剪绒外套（shearling 剪毛羊皮） | He sports a shearling coat and a Caesar haircut. |
 | Caesar haircut | 短寸头（发型） | He sports a shearling coat and a Caesar haircut. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| stark | 鲜明的、刺眼的（此处形容黑底白字的对比） | “Nigger,” in stark white type against a black background, is staring at him, staring at anyone who happens to be walking past the open door behind him. |
+| flank | 排列在…两侧（动词；此处指学生分坐长桌两边） | The rest of the students flank us on either side. |
+| tipsy | 微醺的、带醉意的（形容词） | I am tipsy. |
 | mope | 闷闷不乐、没精神（动词） | Usually I am thrilled to have the house to myself for a few days. But this time, I mope. |
 | divas | 名伶、名媛（口语词；此处指会议上出名的人物） | He tells me delicious and predictable gossip about people we know and divas we know of. |
 | sift | 筛、拣（动词；此处指在电话里一条条筛八卦细节） | The personalities, the infighting—greedily we sift over details on the phone. |

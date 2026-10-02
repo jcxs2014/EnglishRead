@@ -121,23 +121,39 @@ modified: "2026-10-02"
 
 ## 词汇分级
 
+### ⭐⭐⭐ 高级
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | acquiescence | 默许、同意（动词 acquiesce 的名词；此处指父亲把方向盘交出去的姿态） | The car belongs to my father, who has entrusted the wheel to John as a symbol of his acquiescence to the new order of things, namely John’s having supplanted him as the Man in My Life. |
-| supplant | 取代、挤掉（动词；此处指John 顶替父亲成为"我生命里的男人"） | The car belongs to my father, who has entrusted the wheel to John as a symbol of his acquiescence to the new order of things, namely John’s having supplanted him as the Man in My Life. |
 | distressingly | 让人难过地、令人不安地（副词；修饰备胎本身也快没气） | I feel pride as I watch my fiancé’s strong, tan arms move in confident, rhythmic silence as he replaces the spent tire with a spare that is, distressingly, nearly flat itself. |
 | vulnerable | 无可防备的、易受伤害的（形容词；此处把家庭比作开着的窗） | There we stand—my black family, as vulnerable as an open window. We are bound by history and helplessness. |
 | hospitable | 好客的、招待周到的（形容词；此处形容父亲认定安全的加油站） | His preferred gas station had proven to be a hospitable place over the years. |
+| indisputable | 无可争辩的、确定的（形容词；否定前缀 in-） | That there is a difference is indisputable; how deep the difference runs is impossible to ascertain. |
+| admonished | 告诫、训斥（动词；此处指父亲反复数落她顶嘴） | He admonished me often for talking back. |
+| bewildered | 困惑的、不知所措的（动词 bewilder 的过去分词；此处形容母亲提起那位客人时的语气） | My friend’s father had a bite here and there, commenting all the while on calories and cholesterol. When my mother recounted the morning to me, she sounded more bewildered than offended. |
+| privations | 匮乏、艰苦（名词；复数，指童年里的缺吃少穿） | She talked about Mississippi and the joys and privations of her childhood. |
+| resourcefulness | 足智多谋、能扛（名词；此处形容母亲把日子过下去的本领） | He knew she was explaining that her lovely home and exquisite meal were evidence of struggle and triumph, emblems of her resourcefulness and strength. |
+| cautionary | 告诫的、引以为戒的（形容词；形容这个故事成了亲戚们的教训） | For my aunts, the family reunion story has served as a cautionary tale. |
+| derisively | 挖苦地、讥讽地（副词；形容那位朋友说"白人黑人佬"时的口气） | “A white Negro,” a friend smirked when I first described John to her. She meant it derisively, and I forgave her. |
+| livelihood | 生计、营生（名词；此处指岛上居民的活法） | Sapelo is unique in that it is a state reserve whose livelihood, therefore, is not determined by the whims of tourists. |
+| unremarkable | 平淡无奇的（否定前缀 un- 加动词的过去分词） | The food at our Sapelo hotel was unremarkable. |
+| proficient | 熟练的、拿手的（形容词；此处形容她后来做饭的水平） | At first I faked it, then I became passably proficient, and finally I became sincerely interested. |
+| forefather | 祖先（此处指那位白人奴隶主 Meeks） | Unlike my white forefather Meeks, John has not felt compelled to renounce his whiteness, at least so far. |
+| incarnation | 化身、具体形态（名词；此处指婚姻在日常生活中的样子） | In its everyday incarnation, our marriage is generally mundane. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| supplant | 取代、挤掉（动词；此处指John 顶替父亲成为"我生命里的男人"） | The car belongs to my father, who has entrusted the wheel to John as a symbol of his acquiescence to the new order of things, namely John’s having supplanted him as the Man in My Life. |
 | inherent | 内在的、固有的（形容词；此处形容黑人出行本身的危险） | The Green Book ceased publication in 1966, but to this day, there are cities and towns in this country in which the perils inherent in traveling black have not subsided. |
 | anxiety | 焦虑、忧虑（名词；此处指父亲那份层层叠加的历史记忆） | John was not ignorant of the root of my father’s anxiety. |
-| indisputable | 无可争辩的、确定的（形容词；否定前缀 in-） | That there is a difference is indisputable; how deep the difference runs is impossible to ascertain. |
 | ascertain | 查明、确定（动词；正式语体） | That there is a difference is indisputable; how deep the difference runs is impossible to ascertain. |
 | engender | 产生、引起（动词；此处指差异既能生痛也能生乐） | But my belief that difference can engender pleasure as well as pain made it possible for me to marry a white man. |
 | nascent | 新生的、初生的（形容词；此处形容刚刚萌芽的女权意识） | By the time I reached high school, my father and I had been at odds for several years. There were no neutral topics. In particular, he objected to the nascent feminism I was cultivating. |
 | abrasive | 刺耳的、摩擦生疼的（形容词；形容说话生硬） | Sometimes I found Dr. Jones abrasive and patronizing, but in that moment, I was thrilled to be taken seriously by this professional woman, so I nodded vigorously, even though my own experience in the world of romance was limited. |
-| admonished | 告诫、训斥（动词；此处指父亲反复数落她顶嘴） | He admonished me often for talking back. |
 | disparage | 贬低、说坏话（动词；此处指父亲长期贬低那位女医生） | As he continued to disparage Dr. Jones, I kept my mouth closed and resolved to make a point of spending time around her and other women like that as often as possible. |
-| at odds | 争执不和、意见相左（固定短语） | By the time I reached high school, my father and I had been at odds for several years. |
 | predation | 掠食、侵害（名词；此处形容当年白人青年对黑人女性的追逐） | I knew the story of my mother’s mother, who, as a young woman, had barely escaped the predation of white boys in a pickup truck as she and a few friends walked home one night from a long day of work. |
 | reveries | 遐想、幻想（名词；复数，指她少年时对未来的白日梦） | When I was a child, my reveries concerned the present: friends, toys, and animals that intrigued me. |
 | palpable | 可感知的、摸得着的（形容词；此处形容喜气） | My grandmother, delighted by the simple novelty of his presence, pulls him in for a hug. The joy in the room is palpable and satiating, at least for me; John is looking for a more practical kind of nourishment. |
@@ -147,15 +163,11 @@ modified: "2026-10-02"
 | texture | 口感、质地（名词；此处指自制意面的软硬） | An Italian American, he grew up in his parents’ kitchen, where the proper texture of homemade pasta was the topic of robust controversy. |
 | potluck | 各家各户带菜凑成的聚餐（英语特有词） | He doesn’t care for the concept of the potluck; I suspect he secretly believes it was conceived for lazy people. |
 | demure | 矜持的、端庄的（形容词；形容母亲的低调回应） | Beneath his words of praise for my mother and her demure reception, an unspoken, visceral understanding coursed between them in which I had no part. |
-| protégé | 门生、后辈（法语借词；重音在前） | As much his mother’s protégé as her son, John understood the dynamic between women and kitchens, maternal sacrifice and sweat. |
 | visceral | 发自内脏的、本能的（形容词；形容两人之间不用语言的默契） | Beneath his words of praise for my mother and her demure reception, an unspoken, visceral understanding coursed between them in which I had no part. |
 | artless | 朴实的、不做作的（形容词；形容那位网球教练朋友） | They had never met before. He was a direct person, artless yet charming. |
-| bewildered | 困惑的、不知所措的（动词 bewilder 的过去分词；此处形容母亲提起那位客人时的语气） | My friend’s father had a bite here and there, commenting all the while on calories and cholesterol. When my mother recounted the morning to me, she sounded more bewildered than offended. |
 | communion | 共享、交流（名词；此处指两个女人在厨房里的那次交心） | Their kitchen communion was probably the reason why my mother sat alone with John after that first meal, sharing intimate stories from her past. |
-| privations | 匮乏、艰苦（名词；复数，指童年里的缺吃少穿） | She talked about Mississippi and the joys and privations of her childhood. |
 | segued | 转而、话锋转到（动词；接 into，指母亲把话题切到种族） | She talked about her parents: the pleasure her mother took in the natural world, and her father’s military commitments that took the family to Germany for a year. She segued into stories about the racism she had experienced in the Jim Crow South. |
 | raconteur | 善讲故事的人（法语借词；此处同时指母亲与外婆） | My mother was, like her mother, a true raconteur. |
-| resourcefulness | 足智多谋、能扛（名词；此处形容母亲把日子过下去的本领） | He knew she was explaining that her lovely home and exquisite meal were evidence of struggle and triumph, emblems of her resourcefulness and strength. |
 | ferocious | 凶猛的、激烈的（形容词；形容少年偶像那份压在平静表面下的欲望） | Instead I recognized myself in Jim’s furious passion, his fervor, recklessness, and the ferocious, boundless desire that lay just beneath the placid surface. |
 | placid | 平静的、不起波澜的（形容词） | Instead I recognized myself in Jim’s furious passion, his fervor, recklessness, and the ferocious, boundless desire that lay just beneath the placid surface. |
 | squabble | 家庭口角、争吵（名词；形容亲戚间为聚会事务闹别扭） | The women gather at the dining room table to trade details about a family squabble concerning reunion business that has soured feelings about the reunion altogether. |
@@ -164,30 +176,30 @@ modified: "2026-10-02"
 | wilting | 灼人的、晒蔫的（形容词；此处形容正午的日头） | We are spared the wilting sunshine by the awning of a gazebo that has been erected for the reunion. |
 | gazebo | 凉亭（六角或八角顶的露天小亭） | We are spared the wilting sunshine by the awning of a gazebo that has been erected for the reunion. |
 | ceding | 让步、让出（动词 cede 的分词；此处指父亲让出排队的位次） | I hold my breath, but my father goes back to glad-handing, ceding to John’s assertion of authority just as easily as he had entrusted to him the steering wheel of his car. |
-| cautionary | 告诫的、引以为戒的（形容词；形容这个故事成了亲戚们的教训） | For my aunts, the family reunion story has served as a cautionary tale. |
 | dispensed | 免去、略过（动词 dispense 的过去式；此处指John 连招呼都省了） | John entered the house, sweaty from the drive, and focused immediately on the mountain of food prepared in his honor. He dispensed quickly with greetings and headed toward the table, where he piled macaroni and cheese, collard greens, and potato salad onto a plate. |
 | solitary | 独居的、不爱交际的（形容词；形容堂表兄 George） | Like most of the Jefferson men, George is solitary, reserved, and very tall. |
 | pristine | 原始的、未经开发的（形容词；形容那八十三英亩林地） | On the program was a list of all of the meals: a fish fry, country breakfast, and, finally, a barbecue on the family property that we call the Jefferson place, which consists of nearly two hundred acres, eighty-three of which are pristine woodland, save for a few acres cleared for family use. |
 | severed | 切断、割断（动词 sever 的过去式；此处指改姓以与奴隶主割席） | His son, Thomas James, severed his ties to slavery by casting off the name Meeks when he became an adult and took on Jefferson instead. |
 | renounce | 放弃、否认（动词；此处指与奴隶制断绝关系） | Choosing a new name was not an uncommon practice among enslaved African Americans upon liberation. It may seem curious that Thomas James would renounce his ties to slavery by adopting the name of a slave owner, but his father would have grown up hearing a lot about President Thomas Jefferson, who died within a few years of Meeks’s birth. |
 | surpass | 超过、胜过（动词；此处指Jefferson 这个姓的黑人比例仅次于Washington） | According to a recent Census Bureau survey, 75 percent of Americans with the last name of Jefferson are black. As a “black” name, it is surpassed only by Washington; 90 percent of people bearing that surname are African American. |
-| derisively | 挖苦地、讥讽地（副词；形容那位朋友说"白人黑人佬"时的口气） | “A white Negro,” a friend smirked when I first described John to her. She meant it derisively, and I forgave her. |
-| fluid | 流畅的（形容词；此处形容John 走路带的那种不紧绷的韵律） | When we first met, I saw that he moved through the world with a fluidity that was both unself-conscious and theatrical. |
 | intrigued | 被勾起兴趣的（动词 intrigue 的分词；此处指萨佩洛岛的文化史） | The culture and history of the place intrigued us as a site of resilient Africanness. |
 | resilient | 有韧性的、历经打击仍能复原的（形容词；此处形容三百年不断续的黑人聚落） | The culture and history of the place intrigued us as a site of resilient Africanness. |
-| livelihood | 生计、营生（名词；此处指岛上居民的活法） | Sapelo is unique in that it is a state reserve whose livelihood, therefore, is not determined by the whims of tourists. |
-| whims | 兴致、随性冲动（名词；此处指游客的兴致） | Sapelo is unique in that it is a state reserve whose livelihood, therefore, is not determined by the whims of tourists. |
-| heft | 拎起、扛起（动词；此处形容黑人行李工搬白人行李） | In the McIntosh County airport, black men from Jekyll and St. Simons stooped to heft the sleek leather suitcases and bulging golf bags of white men who ignored them. |
-| sleek | 锃亮的、质感好的（形容词；形容那批皮箱） | In the McIntosh County airport, black men from Jekyll and St. Simons stooped to heft the sleek leather suitcases and bulging golf bags of white men who ignored them. |
 | obsidian | 黑曜石（一种火山玻璃；此处形容深夜海水的颜色） | The moon looked heavy, worn, and marvelous. The water was the color of obsidian; it sparkled as it crested in gentle, thick waves. |
-| unremarkable | 平淡无奇的（否定前缀 un- 加动词的过去分词） | The food at our Sapelo hotel was unremarkable. |
-| proficient | 熟练的、拿手的（形容词；此处形容她后来做饭的水平） | At first I faked it, then I became passably proficient, and finally I became sincerely interested. |
 | stumped | 束手无策的、被打懵的（动词 stump 的分词；此处形容西北部的地貌） | The quality of excellent beef was simple to appreciate, but the landscape of the Northwest stumped and overwhelmed me. |
 | nauseous | 令人作呕的（形容词） | We ate marbled, juicy steak on the same day as we visited the Badlands, whose rugged, ancient grandness made me nauseous. |
 | marbled | 带大理石纹理的、油花均匀的（形容词；形容牛排） | We ate marbled, juicy steak on the same day as we visited the Badlands, whose rugged, ancient grandness made me nauseous. |
 | mundane | 平平无奇的、日常的（形容词；与"戏剧性的婚姻"对照） | In its everyday incarnation, our marriage is generally mundane. |
-| forefather | 祖先（此处指那位白人奴隶主 Meeks） | Unlike my white forefather Meeks, John has not felt compelled to renounce his whiteness, at least so far. |
-| incarnation | 化身、具体形态（名词；此处指婚姻在日常生活中的样子） | In its everyday incarnation, our marriage is generally mundane. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| at odds | 争执不和、意见相左（固定短语） | By the time I reached high school, my father and I had been at odds for several years. |
+| protégé | 门生、后辈（法语借词；重音在前） | As much his mother’s protégé as her son, John understood the dynamic between women and kitchens, maternal sacrifice and sweat. |
+| fluid | 流畅的（形容词；此处形容John 走路带的那种不紧绷的韵律） | When we first met, I saw that he moved through the world with a fluidity that was both unself-conscious and theatrical. |
+| whims | 兴致、随性冲动（名词；此处指游客的兴致） | Sapelo is unique in that it is a state reserve whose livelihood, therefore, is not determined by the whims of tourists. |
+| heft | 拎起、扛起（动词；此处形容黑人行李工搬白人行李） | In the McIntosh County airport, black men from Jekyll and St. Simons stooped to heft the sleek leather suitcases and bulging golf bags of white men who ignored them. |
+| sleek | 锃亮的、质感好的（形容词；形容那批皮箱） | In the McIntosh County airport, black men from Jekyll and St. Simons stooped to heft the sleek leather suitcases and bulging golf bags of white men who ignored them. |
 
 ## 一句话总结
 

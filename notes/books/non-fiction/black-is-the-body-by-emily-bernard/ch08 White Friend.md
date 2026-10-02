@@ -122,64 +122,76 @@ modified: "2026-10-02"
 
 ## 词汇分级
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| revelation | 顿悟（名词；此处形容卡伦睁大眼睛说浴缸印子时的表情） | “The first time he took a bath there was a dark ring inside the tub!” Karen says, her eyes wide with revelation. |
+| unsavoriness | 不好闻之处、令人不适的一面（名词） | It’s pretty clear to me that Karen realized the unsavoriness of her observation soon after it emerged from her mouth, but she couldn’t stop herself from completing her train wreck of a thought. |
+| pilgrimage | 朝圣（名词；此处指夏天专程来佛蒙特的人） | It is largely because of Loree that my daughters have had the kind of Vermont experiences that inspire people to make pilgrimages here every summer. |
+| unpretentious | 不做作的（形容词） | The farmhouse is a precise reflection of Loree herself: unpretentious, imaginative, and casual; warm and inviting. |
+| overstuffed | 坐垫过厚的（形容词） | Friends and family gather around a fireplace in a room with overstuffed couches that gently but persuasively pull your body in inch by inch until you are drowsy with warmth, good conversation, and the sun setting over the mountains outside of big bay windows. |
+| condescended | 被居高临下地对待（动词 condescend 的过去分词） | I consider what it would be like to receive such a message. Will Loree feel second-guessed, lectured at, or condescended to? |
+| ironically | 讽刺地（副词） | Ironically, it is only here in Vermont that I have a cohort of black friends in whose company I do not feel self-conscious. |
+| temptation | 忍不住的冲动（名词） | One day, temptation took over, and I told her what Karen said about her son’s skin. |
+| vulnerability | 脆弱（名词） | But the effect was to remind me of the vulnerability that stalks me, my helplessness to protect my children from the little nicks that may gather into scars like the ones I carry. |
+| helplessness | 无力感（名词） | But the effect was to remind me of the vulnerability that stalks me, my helplessness to protect my children from the little nicks that may gather into scars like the ones I carry. |
+| unblinking | 不眨的（形容词） | It happened on Martha’s Vineyard while we were swimming in a hotel pool. That hatred was conveyed through a long, unblinking stare that made me tremble with fear. |
+| compromise | 损害（动词） | She worries that her own self-consciousness might compromise the integrity of our bond. |
+| frustratingly | 令人沮丧地（副词） | But there is one certainty: we are, sometimes joyfully, sometimes frustratingly, stuck with each other, white friend and black friend. Let’s call it love. |
+
+### ⭐⭐ 进阶
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | godson | 教子（名词） | We are talking about Len, her godson, who is the son of a mutual friend. |
 | intimacy | 亲密（名词；此处指共享空间与时间是改善种族关系的关键因素） | I have been telling Karen about a course I am teaching called Interracial Intimacy, a course that speaks to one of my deepest beliefs, which is that intimacy—shared space and time—is a crucial factor in improving race relations. |
-| revelation | 顿悟（名词；此处形容卡伦睁大眼睛说浴缸印子时的表情） | “The first time he took a bath there was a dark ring inside the tub!” Karen says, her eyes wide with revelation. |
-| unsavoriness | 不好闻之处、令人不适的一面（名词） | It’s pretty clear to me that Karen realized the unsavoriness of her observation soon after it emerged from her mouth, but she couldn’t stop herself from completing her train wreck of a thought. |
 | furtively | 偷偷摸摸地（副词） | I move furtively down aisles, my eyes scanning items without fully registering what they are, hoping not to see Karen again, sure she is just as carefully avoiding me. |
 | bitter | 苦的（形容词） | But it’s not working out like I planned; Loree’s laugh is heavy, dark, and bitter. |
 | opaque | 不透的、读不懂的（形容词） | She trains her doll eyes on mine; her expression is opaque and serious. |
 | flaxen | 亚麻色的（形容词） | She has girlishly wavy flaxen blond hair and eyes as bright blue as a doll’s. |
 | inherited | 继承（动词 inherit 的过去式；此处指从丈夫那里"继承"了洛莉这个朋友） | I like to say that I inherited Loree from John because it usually makes people laugh. |
-| dowry | 嫁妆（名词） | But it’s true that Loree was part of John’s human dowry, just like his biological family. |
 | quaintly | 诙谐地、卖弄地（副词） | John grew up in Lenox, in the Berkshires, which became known in the Gilded Age as “the inland Newport” for its mansions, known quaintly as “cottages,” summer homes for the wealthy. |
 | affection | 喜爱（名词） | Initially we were “John’s friend” and “John’s girlfriend,” respectively, to each other, but a mutual affection grew quickly. |
 | timbre | 音色（名词） | I like the strong, smooth timbre of her voice and the way she moves her hands when she talks. |
 | inventory | 清点、盘点（名词；此处指中年时把身边人一个个过一遍） | An older friend told me that when she reached middle age, she took an inventory of the people in her life—family, friends old and new, neighbors, coworkers, even acquaintances—and decided that since it appeared she was stuck with them, she was just going to love them. |
-| lined | 沿…排满的（动词 line 的过去分词；此处形容木楼梯上贴满照片） | The winding wooden staircase is lined with photographs. |
-| pilgrimage | 朝圣（名词；此处指夏天专程来佛蒙特的人） | It is largely because of Loree that my daughters have had the kind of Vermont experiences that inspire people to make pilgrimages here every summer. |
-| lazed | 悠闲地泡着（动词 laze 的过去式） | During their week with her, the girls lazed in the middle of a lake in inner tubes. |
 | manure | 粪肥（名词） | Loree would send me pictures of a beaming Isabella shoveling horse manure, and a radiant Giulia holding a bottle in the mouth of a baby lamb. |
 | radiant | 容光焕发的（形容词） | Loree would send me pictures of a beaming Isabella shoveling horse manure, and a radiant Giulia holding a bottle in the mouth of a baby lamb. |
-| unpretentious | 不做作的（形容词） | The farmhouse is a precise reflection of Loree herself: unpretentious, imaginative, and casual; warm and inviting. |
-| overstuffed | 坐垫过厚的（形容词） | Friends and family gather around a fireplace in a room with overstuffed couches that gently but persuasively pull your body in inch by inch until you are drowsy with warmth, good conversation, and the sun setting over the mountains outside of big bay windows. |
 | coaxed | 哄劝、耐心诱使（动词 coax 的过去式） | To the left is a kitchen in which rich dishes, both simple and complex, are conceived and then executed; where butter and jelly are coaxed into being. |
 | conceived | 构想（动词 conceive 的过去分词） | To the left is a kitchen in which rich dishes, both simple and complex, are conceived and then executed; where butter and jelly are coaxed into being. |
 | ingenuity | 巧劲、把手艺活做出来的本领（名词） | Her children are grown, but they bear the mark of their mother’s ingenuity and insights into the work of making one’s way in the world. |
 | tedious | 乏味的（形容词） | The fact that Loree has made this home, its character and spirit, would inspire envy if Loree weren’t the kind of person who finds envy tedious. |
 | second-guessed | 被质疑过（动名词） | I consider what it would be like to receive such a message. Will Loree feel second-guessed, lectured at, or condescended to? |
-| condescended | 被居高临下地对待（动词 condescend 的过去分词） | I consider what it would be like to receive such a message. Will Loree feel second-guessed, lectured at, or condescended to? |
 | melanin | 黑色素（名词） | Once, as I was packing the girls up for Camp Loree, I realize that Loree might not know that my daughters need sunscreen; so many white people believe that the melanin in dark skin provides natural protection against sunburn. |
 | sunscreen | 防晒霜（名词） | Once, as I was packing the girls up for Camp Loree, I realize that Loree might not know that my daughters need sunscreen; so many white people believe that the melanin in dark skin provides natural protection against sunburn. |
 | cohort | 同类人群（名词） | Ironically, it is only here in Vermont that I have a cohort of black friends in whose company I do not feel self-conscious. |
 | self-conscious | 不自在的（形容词） | Ironically, it is only here in Vermont that I have a cohort of black friends in whose company I do not feel self-conscious. |
 | exclusive | 排他的（形容词；此处形容那些孩子加入的俱乐部） | They had gone to elite prep schools, belonged to exclusive clubs, and summered in places like the Berkshires, which may as well have been a foreign country to me back then. |
-| elite | 精英的（形容词） | They had gone to elite prep schools, belonged to exclusive clubs, and summered in places like the Berkshires, which may as well have been a foreign country to me back then. |
-| ironically | 讽刺地（副词） | Ironically, it is only here in Vermont that I have a cohort of black friends in whose company I do not feel self-conscious. |
 | ingrained | 根深蒂固的（形容词） | It is because of the essential values ingrained in the fabric and mundane details of the life she lives—this is why Estelle chose Karen for a godparent. |
 | fabric | 织体、结构（名词） | It is because of the essential values ingrained in the fabric and mundane details of the life she lives—this is why Estelle chose Karen for a godparent. |
 | mundane | 日常琐碎的（形容词） | It is because of the essential values ingrained in the fabric and mundane details of the life she lives—this is why Estelle chose Karen for a godparent. |
-| temptation | 忍不住的冲动（名词） | One day, temptation took over, and I told her what Karen said about her son’s skin. |
-| wary | 警惕的（形容词） | Still, I wanted to know why Karen merited such a sacred place in her life, particularly because Estelle once told me that she often finds herself wary of forming bonds with white people. |
 | sacred | 神圣的（形容词） | Still, I wanted to know why Karen merited such a sacred place in her life, particularly because Estelle once told me that she often finds herself wary of forming bonds with white people. |
 | artisanal | 手作的（形容词） | After one particular week of Camp Loree, John and I met Loree, her husband, and our daughters at an artisanal pizza restaurant halfway between Manchester and Burlington. |
 | glanced | 瞥了一眼（动词 glance 的过去式） | On the way out, Loree glanced at a woman at a table near us. |
 | spoiled | 毁掉（动词 spoil 的过去式） | I wanted Loree to be wrong. I didn’t want the afternoon to be spoiled by a reminder of the ugliness in the world. |
-| vulnerability | 脆弱（名词） | But the effect was to remind me of the vulnerability that stalks me, my helplessness to protect my children from the little nicks that may gather into scars like the ones I carry. |
 | stalks | 潜行跟踪（动词 stalk 的第三人称单数） | But the effect was to remind me of the vulnerability that stalks me, my helplessness to protect my children from the little nicks that may gather into scars like the ones I carry. |
-| helplessness | 无力感（名词） | But the effect was to remind me of the vulnerability that stalks me, my helplessness to protect my children from the little nicks that may gather into scars like the ones I carry. |
-| unblinking | 不眨的（形容词） | It happened on Martha’s Vineyard while we were swimming in a hotel pool. That hatred was conveyed through a long, unblinking stare that made me tremble with fear. |
 | tremble | 发抖（动词） | It happened on Martha’s Vineyard while we were swimming in a hotel pool. That hatred was conveyed through a long, unblinking stare that made me tremble with fear. |
 | intrigued | 好奇（动词 intrigue 的过去分词） | I am intrigued when Loree tells me that I am her only black friend. |
 | integrity | 完整、纯正（名词） | She worries that her own self-consciousness might compromise the integrity of our bond. |
-| compromise | 损害（动词） | She worries that her own self-consciousness might compromise the integrity of our bond. |
 | quirks | 怪癖（名词 quirk 的复数） | These contradictions may be a function of the condition of blackness, or they may be evidence of the quirks in my personality—it’s hard to say. |
 | gaffes | 失误、失言（名词 gaffe 的复数） | I laugh at gaffes about dark rings in bathtubs, yet I shudder with anger and sorrow when I think of all the dangers, large and small, implicit and explicit, from which I will not be able to protect my daughters. |
 | implicit | 隐含的（形容词；此处与 explicit 明说的相对） | I laugh at gaffes about dark rings in bathtubs, yet I shudder with anger and sorrow when I think of all the dangers, large and small, implicit and explicit, from which I will not be able to protect my daughters. |
 | terrain | 地带（名词） | It must be tricky terrain, the experience of being a white friend with an only black friend, and there is no road map. |
-| frustratingly | 令人沮丧地（副词） | But there is one certainty: we are, sometimes joyfully, sometimes frustratingly, stuck with each other, white friend and black friend. Let’s call it love. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| dowry | 嫁妆（名词） | But it’s true that Loree was part of John’s human dowry, just like his biological family. |
+| lined | 沿…排满的（动词 line 的过去分词；此处形容木楼梯上贴满照片） | The winding wooden staircase is lined with photographs. |
+| lazed | 悠闲地泡着（动词 laze 的过去式） | During their week with her, the girls lazed in the middle of a lake in inner tubes. |
+| elite | 精英的（形容词） | They had gone to elite prep schools, belonged to exclusive clubs, and summered in places like the Berkshires, which may as well have been a foreign country to me back then. |
+| wary | 警惕的（形容词） | Still, I wanted to know why Karen merited such a sacred place in her life, particularly because Estelle once told me that she often finds herself wary of forming bonds with white people. |
 
 ## 一句话总结
 

@@ -122,56 +122,69 @@ modified: "2026-10-02"
 
 ## 词汇分级
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| transfixed | 被钉住般入神的（动词 transfix 的过去分词） | Giulia and Tamara’s son lean into each other on a black leather couch, transfixed by the television. |
+| straitjacket | 紧身衣、束缚（名词） | As dazzling as I found my bald-headed babies, and as much as I resented the straitjacket of conventional beauty standards, particularly when it comes to black girls, the thought, once rooted, bloomed quickly. |
+| tumbleweeds | 风滚草（名词） | As I combed her hair, I studied its range of textures; some strands felt like tumbleweeds and others like corn silk. |
+| meditative | 冥想般的（形容词） | After a long week of teaching, the braiding was private and meditative. |
+| immeasurable | 无法计量的（形容词） | These are among my happiest memories: the small, still, folded brown hands; the immeasurable feeling of triumph after calming dry, angry knots into shiny, peace-loving strands while the accompanying music to the Maneaters documentary series played in the background. |
+| microsurgical | 显微手术般的（形容词） | I busied myself with laundry while I replayed my Greatest Untangling Hits in my mind, like the knot that brought tears to my eyes before I conquered it after an hour of microsurgical separation. |
+| displeasure | 不悦（名词） | Suddenly, I was sixteen years old again, pained at having been the cause of his displeasure, and furious at myself for caring. |
+| exhilarated | 亢奋的（形容词） | “Yes!” I was exhilarated. But after she was finished and I saw that most of my hair had disappeared, I cried. |
+| acclimated | 适应（动词 acclimate 的过去分词） | I had acclimated completely to my new hair when a cousin commented on Facebook that my short hair enhanced my resemblance to my father. |
+| vernacular | 土语、民间说法（名词） | My mother had what is known as “good hair” in the black vernacular. |
+| surrendered | 投降（动词 surrender 的过去式） | I could never be faithful to the mandate not to scratch, so I eventually gave up on the relaxer and surrendered to my natural hair texture, but not happily. |
+| fellowship | 团契（名词） | It was fellowship hour at church. We were standing side by side, each of us holding identical Styrofoam cups. |
+| documentary | 纪录片（名词） | The interview is a scene from the 2011 documentary Dark Girls. |
+| segregation | 种族隔离（名词） | The Clarks determined that racial segregation played a key factor in the negative attitudes toward dark skin. |
+| anticipated | 期盼（动词 anticipate 的过去式） | They had known me for most of my adult life and had anticipated the girls’ arrival as impatiently as anyone else. |
+| amputations | 截肢（名词） | But ultimately it wound up with their other dolls in the same graveyard: the potter’s field in the back of their closet, where other once-cherished plastic bodies were discarded after cruel amputations and rough, ragged haircuts. |
+| compassion | 同情（名词） | Rose looked at me with compassion. |
+| insightful | 有洞察力的（形容词） | She is insightful and sensitive when it comes to the tangled relationship between race and beauty. |
+| superficial | 表面的（形容词） | But I also do this because they are, indeed, beautiful, so when my daughters tell me I am being superficial, this is true, too. |
+| diplomatic | 外交手腕的（形容词） | Giulia had put all of her diplomatic talents to work in order to have a chance to play with Isabella’s hair. |
+| reflection | 倒影（名词） | The same creature tossed her Breck Girl hair in the mirror and told her reflection stories in sentences that traveled up into question marks at the end, just like a Valley Girl. |
+
+### ⭐⭐ 进阶
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | inherent | 固有的（形容词） | In order to maximize the potential for drama inherent in the occasion, we schedule the flattening a few days before her birthday. |
 | summons | 召唤、传唤（名词） | Three hours after I drop the girls off, I receive a summons to retrieve them. |
-| transfixed | 被钉住般入神的（动词 transfix 的过去分词） | Giulia and Tamara’s son lean into each other on a black leather couch, transfixed by the television. |
 | emerged | 出现（动词 emerge 的过去式） | In her place has emerged the head of celebrities and freaks and cartoon characters. |
 | affixed | 固定住（动词 affix 的过去分词） | Once we are safely inside, the three of us examine our new pet, relieved to see that it is still snugly and silkily affixed to Isabella’s head. |
 | humidity | 湿度（名词） | But then I remember that it is supposed to rain the next day, too, which will be accompanied by humidity, which will lead to sweating. |
 | attendant | 附带的（形容词） | I have fulfilled Isabella’s greatest wish, but it comes with the attendant costs of girlhood—black girlhood, to be precise. |
 | customary | 习俗上的（形容词） | In Northern Ethiopia it is customary to keep the heads of girl babies shorn during the first year of their lives in the hopes that regular clippings will ensure long hair in the future. |
-| shorn | 剪光的（动词 shear 的过去分词） | In Northern Ethiopia it is customary to keep the heads of girl babies shorn during the first year of their lives in the hopes that regular clippings will ensure long hair in the future. |
 | dazzling | 耀眼的（形容词） | As dazzling as I found my bald-headed babies, and as much as I resented the straitjacket of conventional beauty standards, particularly when it comes to black girls, the thought, once rooted, bloomed quickly. |
 | resented | 怨恨（动词 resent 的过去式） | As dazzling as I found my bald-headed babies, and as much as I resented the straitjacket of conventional beauty standards, particularly when it comes to black girls, the thought, once rooted, bloomed quickly. |
-| straitjacket | 紧身衣、束缚（名词） | As dazzling as I found my bald-headed babies, and as much as I resented the straitjacket of conventional beauty standards, particularly when it comes to black girls, the thought, once rooted, bloomed quickly. |
 | untenable | 撑不下去的（形容词） | The first, a short, fluffy Afro, became untenable as tangles began to develop just as quickly as her hair grew. |
-| lumpy | 疙疙瘩瘩的（形容词） | I thought short braids would keep her hair neat and orderly, but even after several YouTube tutorials, I could only manage to produce lumpy, uneven knots. |
 | nimble | 灵巧的（形容词） | I found a young woman with swift, nimble fingers who told me that extensions would help Isabella’s hair grow faster. |
 | feathery | 羽毛似的（形容词） | After a brief stint as a feathery ball on top of her head, her hair became long enough for box braids, which require the hair first to be divided into box-like sections and braided. |
-| tumbleweeds | 风滚草（名词） | As I combed her hair, I studied its range of textures; some strands felt like tumbleweeds and others like corn silk. |
-| meditative | 冥想般的（形容词） | After a long week of teaching, the braiding was private and meditative. |
 | fraying | 磨损的（动词 fray 的现在分词） | I enjoyed gathering the instruments and potions necessary to bring her tired, fraying braids back to life. |
 | tangible | 看得见摸得着的（形容词） | Unlike teaching, braiding was labor that had tangible results, and labor it was. |
 | rhythm | 节奏（名词） | The rhythm of braiding was calming—until it wasn’t. |
 | whining | 抱怨（动词 whine 的现在分词） | After the screaming, there was whining, because no matter how early I started, I found myself constantly racing against bedtime. |
 | narcotic | 麻醉剂（名词） | If we were lucky, the Discovery Channel delivered her favorite narcotic, Animal Planet. |
-| immeasurable | 无法计量的（形容词） | These are among my happiest memories: the small, still, folded brown hands; the immeasurable feeling of triumph after calming dry, angry knots into shiny, peace-loving strands while the accompanying music to the Maneaters documentary series played in the background. |
 | triumph | 胜利的快感（名词） | These are among my happiest memories: the small, still, folded brown hands; the immeasurable feeling of triumph after calming dry, angry knots into shiny, peace-loving strands while the accompanying music to the Maneaters documentary series played in the background. |
-| regal | 王者般的（形容词） | I would wait excitedly for her regal nod after she studied her fresh braids in the mirror from every possible angle. |
 | barren | 空荡荡的（形容词） | I said I was relieved to have my afternoons back, but privately, I grieved. My hands felt useless, the evenings barren. |
-| microsurgical | 显微手术般的（形容词） | I busied myself with laundry while I replayed my Greatest Untangling Hits in my mind, like the knot that brought tears to my eyes before I conquered it after an hour of microsurgical separation. |
 | unmoved | 不为所动的（形容词） | Having worked on the heads of many children, Tamara was unmoved by Isabella’s discomfort. |
 | wrestled | 较劲（动词 wrestle 的过去式） | She had her father, a former hockey player, arrange his big body on the floor at her feet and hold her tiny hand for three hours while Tamara wrestled with her hair. |
 | shaken | 受了惊的（动词 shake 的过去分词） | John came home shaken. “Does the Geneva Convention know about this?” he asked. |
 | fortitude | 坚毅（名词） | My father was not impressed by Giulia’s fortitude. |
 | falter | 动摇（动词） | She didn’t falter in her conviction, even when she was mistaken for a boy; even when, after a particularly sweaty afternoon on the playground, the class troublemaker said that her hair made her look like Albert Einstein. |
 | pleaded | 恳求（动词 plead 的过去式） | “Braids or something,” he pleaded with me during one visit, nodding his head in the direction of Giulia, who perched on her knees and colored on a piece of paper next to him. |
-| displeasure | 不悦（名词） | Suddenly, I was sixteen years old again, pained at having been the cause of his displeasure, and furious at myself for caring. |
 | furious | 愤怒的（形容词） | Suddenly, I was sixteen years old again, pained at having been the cause of his displeasure, and furious at myself for caring. |
 | deigned | 屈尊（动词 deign 的过去式） | I saw him only for occasional trims, which he deigned to execute only after scolding me. |
-| scorn | 轻蔑（名词） | I pictured Mr. Jacques—tall, black, and as sharp as a barber’s blade—and his look of scorn at even the suggestion that I would cut my hair. |
 | muttered | 咕哝（动词 mutter 的过去式） | “God gave you all this hair,” he muttered once while poking at the ends with tiny scissors. |
 | shears | 剪刀（名词） | The stylist I chose was tall and blond and did not question me or ask me what my parents would think. She moved my head from side to side, her shears cocked and loaded. |
-| exhilarated | 亢奋的（形容词） | “Yes!” I was exhilarated. But after she was finished and I saw that most of my hair had disappeared, I cried. |
-| acclimated | 适应（动词 acclimate 的过去分词） | I had acclimated completely to my new hair when a cousin commented on Facebook that my short hair enhanced my resemblance to my father. |
 | imbued | 赋予（动词 imbue 的过去式） | I was pleased by the comment and imbued it with larger, symbolic meanings. |
-| vernacular | 土语、民间说法（名词） | My mother had what is known as “good hair” in the black vernacular. |
 | bouquet | 花束（名词） | I sat as close as I could while she gathered a bouquet of her hair and pulled a plastic teal-blue comb through it all the way to its fine ends. |
 | adoration | 崇拜（名词） | As a child, her straight hair had exposed her to envy and adoration from family and strangers. |
 | reverence | 敬畏（名词） | It had excited jealous cruelty in people she loved and unsettling reverence from those she didn’t. |
-| spell | 魔力（名词） | She did not want me to fall under its spell. |
 | intact | 完好（形容词） | She kept her glory intact, but she kept it out of sight. |
 | derives | 源自（动词 derive 的第三人称单数） | The saying derives from a passage in 1 Corinthians: “If a woman have long hair, it is a glory to her: for her hair is given her for a covering.” |
 | coiled | 盘起的（动词 coil 的过去分词） | For most of my life, my grandmother kept her hair coiled in a braided bun just like my mother, taking it down only to wash and comb it. |
@@ -183,36 +196,35 @@ modified: "2026-10-02"
 | subdued | 被压服（动词 subdue 的过去分词） | When I entered high school, I tried straightening it myself with a flatiron, but no matter how much heat I applied, the frizzy bits at my temples could not be subdued. |
 | agonizing | 难熬的（形容词） | Once your hair is relaxed, you’re not allowed to scratch for an agonizing three days. |
 | mandate | 禁令、规定（名词） | I could never be faithful to the mandate not to scratch, so I eventually gave up on the relaxer and surrendered to my natural hair texture, but not happily. |
-| surrendered | 投降（动词 surrender 的过去式） | I could never be faithful to the mandate not to scratch, so I eventually gave up on the relaxer and surrendered to my natural hair texture, but not happily. |
-| fellowship | 团契（名词） | It was fellowship hour at church. We were standing side by side, each of us holding identical Styrofoam cups. |
 | mahogany | 红木色（名词） | A psychologist shows a young African American girl a row of cartoon dolls whose skin colors range from paper-white to deep mahogany. |
 | spectrum | 色阶、范围（名词） | After a moment of consideration, the girl picks one of the dolls on the lighter end of the spectrum. |
-| documentary | 纪录片（名词） | The interview is a scene from the 2011 documentary Dark Girls. |
-| segregation | 种族隔离（名词） | The Clarks determined that racial segregation played a key factor in the negative attitudes toward dark skin. |
 | landmark | 里程碑式的（形容词） | The Clark Doll Test was entered as evidence in the landmark 1954 case Brown v. Board of Education. |
-| anticipated | 期盼（动词 anticipate 的过去式） | They had known me for most of my adult life and had anticipated the girls’ arrival as impatiently as anyone else. |
 | graveyard | 坟场（名词） | But ultimately it wound up with their other dolls in the same graveyard: the potter’s field in the back of their closet, where other once-cherished plastic bodies were discarded after cruel amputations and rough, ragged haircuts. |
-| amputations | 截肢（名词） | But ultimately it wound up with their other dolls in the same graveyard: the potter’s field in the back of their closet, where other once-cherished plastic bodies were discarded after cruel amputations and rough, ragged haircuts. |
 | ragged | 参差的（形容词） | But ultimately it wound up with their other dolls in the same graveyard: the potter’s field in the back of their closet, where other once-cherished plastic bodies were discarded after cruel amputations and rough, ragged haircuts. |
-| compassion | 同情（名词） | Rose looked at me with compassion. |
-| insightful | 有洞察力的（形容词） | She is insightful and sensitive when it comes to the tangled relationship between race and beauty. |
 | enviable | 令人羡慕的（形容词） | Here was a human being whom they loved, a young woman whose hair was long and blond and therefore enviable in a culture that valorizes such attributes. |
 | valorizes | 推崇（动词 valorize 的第三人称单数） | Here was a human being whom they loved, a young woman whose hair was long and blond and therefore enviable in a culture that valorizes such attributes. |
-| adore | 喜爱（动词） | But this enviable hair belonged to Rose, whose every attribute they adored in equal measure. |
 | weaved | 穿进穿出（动词 weave 的过去式） | It was not her hair they loved, but Rose, I told myself, and watched my daughters’ eyes radiate with wonder as they weaved their brown hands in and out of Rose’s blond hair. |
 | bronze | 青铜色（名词） | They are black but their skin is light, ranging in color from bronze to light cedar. |
 | fortress | 堡垒（名词） | I believe that, brick by brick, compliment by compliment, I am building a fortress against the world out there that, studies show, will judge them as inferior for their dark skin. |
 | inferior | 低人一等的（形容词） | I believe that, brick by brick, compliment by compliment, I am building a fortress against the world out there that, studies show, will judge them as inferior for their dark skin. |
 | extolling | 颂扬（动词 extol 的现在分词） | I want to create a running script in their heads, a narrative extolling the particular beauty of their dark skin, should they encounter such discrimination. |
-| superficial | 表面的（形容词） | But I also do this because they are, indeed, beautiful, so when my daughters tell me I am being superficial, this is true, too. |
 | spectacle | 景象（名词） | As superficial as it may be, I take my daughters on pilgrimages to Washington, D.C., Nashville, and New York in order to enjoy the spectacle of blackness. |
 | glitter | 闪光（动词） | There is a girl with a copper-colored Afro so bright it glitters. |
 | wearied | 厌倦（动词 weary 的过去式） | We all wearied of the exotic pet atop Isabella’s head sooner than I would have predicted. |
-| diplomatic | 外交手腕的（形容词） | Giulia had put all of her diplomatic talents to work in order to have a chance to play with Isabella’s hair. |
 | bribed | 贿赂（动词 bribe 的过去式） | She bribed her twin with toys, money, and promises to be her “servant” for a day. |
 | obnoxious | 讨人嫌的（形容词） | Instead of Isabella, I had brought home from Tamara’s apartment a beautiful, obnoxious monster that now cackled as she ran away from her sister who stood with comb and brush aloft. |
 | cackled | 咯咯大笑（动词 cackle 的过去式） | Instead of Isabella, I had brought home from Tamara’s apartment a beautiful, obnoxious monster that now cackled as she ran away from her sister who stood with comb and brush aloft. |
-| reflection | 倒影（名词） | The same creature tossed her Breck Girl hair in the mirror and told her reflection stories in sentences that traveled up into question marks at the end, just like a Valley Girl. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| shorn | 剪光的（动词 shear 的过去分词） | In Northern Ethiopia it is customary to keep the heads of girl babies shorn during the first year of their lives in the hopes that regular clippings will ensure long hair in the future. |
+| lumpy | 疙疙瘩瘩的（形容词） | I thought short braids would keep her hair neat and orderly, but even after several YouTube tutorials, I could only manage to produce lumpy, uneven knots. |
+| regal | 王者般的（形容词） | I would wait excitedly for her regal nod after she studied her fresh braids in the mirror from every possible angle. |
+| scorn | 轻蔑（名词） | I pictured Mr. Jacques—tall, black, and as sharp as a barber’s blade—and his look of scorn at even the suggestion that I would cut my hair. |
+| spell | 魔力（名词） | She did not want me to fall under its spell. |
+| adore | 喜爱（动词） | But this enviable hair belonged to Rose, whose every attribute they adored in equal measure. |
 
 ## 一句话总结
 

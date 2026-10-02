@@ -122,72 +122,84 @@ modified: "2026-10-02"
 
 ## 词汇分级
 
+### ⭐⭐⭐ 高级
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | tentatively | 试探地、小心翼翼地（副词） | For a while, we listen to the conversation between Thomas and John. Meghan touches my hand tentatively, and I understand that she wants to examine the thick silver band I wear on my middle finger. |
-| etchings | 蚀刻纹路（名词；此处指掌心的纹线） | The dark etchings on my palm have never looked as bold, as thick, as mysterious, as they do now, set against hers, which are nearly invisible, more impressions than actual lines. |
-| curio | 奇珍（名词；此处指被当成稀罕物件） | I had not felt like a curio or an artifact. |
-| artifact | 文物、人工制品（名词；此处指展品） | I had not felt like a curio or an artifact. |
 | tenderness | 温柔（名词） | I felt only tenderness for the child and her wonder at my palm. |
-| panicked | 慌了神（动词 panic 的过去式；此处指那位听说儿子说了"黑人"的母亲） | Just a few days before, my friend Tina told me that her son had recently made a reference to a “black guy” at school. She panicked. |
-| resented | 憎恶、怨恨（动词 resent 的过去式） | I maintained the distance for as long as I could. I resented it when the distance collapsed. |
-| trove | 一大批珍藏（名词；此处比喻母亲那一批故事） | I carry the trove of my mother’s stories inside of me, like an organ. |
-| organ | 器官（名词；此处比喻随身携带、无从取出的东西） | I carry the trove of my mother’s stories inside of me, like an organ. |
 | bewilderment | 困惑（名词） | Stories of her rage, pain, and bewilderment over what she had witnessed and experienced as a black girl growing up in the Jim Crow South. |
 | obligation | 义务（名词） | Now I tell them myself, because they are interesting, because I can’t resist stories that can be felt as well as heard, and because I feel a need, both obligation and urge, to keep them alive. |
-| alien | 异质的、格格不入的（形容词；此处形容女儿听不懂母亲的故事） | As my daughters become more interested in the world and my past, I tell them my mother’s stories, which they find curious but alien. |
 | overreacting | 反应过度（动名词） | She knew I would leap to her defense, or overreact, which my daughters tell me that I do so much that overreacting is just the way that I react. |
+| humiliation | 羞辱（名词） | In her evolving life narrative, the bus story is about herself as a source of power, not as an object of humiliation. |
+| jeopardize | 危及（动词） | Not wanting to jeopardize the work relationship, not wanting to be cast as “oversensitive,” my friend accepted the compliment. |
+| proprietor | 店主（名词） | At a bed-and-breakfast in Hampton, Virginia, I become friendly with Barbara, the proprietor, a black woman, and a native Virginian. |
+| visibility | 可见度（名词） | Because the problem is not the visibility of dark skin, but who sees it and what the viewer feels motivated to do next. |
+| aggressive | 侵略性的、主动出击的（形容词；此处形容"无视"） | So we resort to the seemingly safe terrain of color-blindness, which can be a kind of violence, an aggressive act of willful ignorance. |
+| presumably | 大概、想必（副词） | They are crash courses in and against bigotry; twelve weeks on the intellectual antibiotic and you are, presumably, cured. |
+| catchphrase | 口头禅（名词） | Dr. King’s noble dream has degenerated into a cliché, a catchphrase, like “diversity,” a way out of—as opposed to a way into—complex and textured conversations about race. |
+| degenerated | 退化（动词 degenerate 的过去分词） | Dr. King’s noble dream has degenerated into a cliché, a catchphrase, like “diversity,” a way out of—as opposed to a way into—complex and textured conversations about race. |
+| predominantly | 以……为主地（副词） | Except for me, they have all grown up, or are growing up, in predominantly white environments. |
+| ornamental | 装饰性的（形容词；此处形容旅店里的雕塑） | We show each other our respective mise-en-scènes. I turn the camera on my iPad toward an ornamental shoe, a white marble sculpture of a woman’s head with a finger to its lips, and an old-fashioned typewriter. |
+| toiletries | 洗漱用品（名词） | I go to sleep and wake up to the purity of limited choices: the same few clothes, toiletries, books. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| etchings | 蚀刻纹路（名词；此处指掌心的纹线） | The dark etchings on my palm have never looked as bold, as thick, as mysterious, as they do now, set against hers, which are nearly invisible, more impressions than actual lines. |
+| artifact | 文物、人工制品（名词；此处指展品） | I had not felt like a curio or an artifact. |
+| panicked | 慌了神（动词 panic 的过去式；此处指那位听说儿子说了"黑人"的母亲） | Just a few days before, my friend Tina told me that her son had recently made a reference to a “black guy” at school. She panicked. |
+| resented | 憎恶、怨恨（动词 resent 的过去式） | I maintained the distance for as long as I could. I resented it when the distance collapsed. |
 | denounced | 公开谴责（动词 denounce 的过去式） | What happened after the insult was more remarkable to me than the slight. Patrick, a classmate and friend who lives nearby, a white boy, stood up and denounced the comment as racist. |
 | slight | 冒犯（名词；此处指那男孩在车上的那句话） | What happened after the insult was more remarkable to me than the slight. |
 | evolving | 正在成形的（动词 evolve 的分词） | In her evolving life narrative, the bus story is about herself as a source of power, not as an object of humiliation. |
 | narrative | 叙事（名词） | In her evolving life narrative, the bus story is about herself as a source of power, not as an object of humiliation. |
-| humiliation | 羞辱（名词） | In her evolving life narrative, the bus story is about herself as a source of power, not as an object of humiliation. |
 | parade | 一连串（名词；此处形容黑人男女被杀害的连续发生） | She knows that I am talking about the killings of black men and women that now seem routine, the parade of deaths that feed the news at a steady march. |
 | shelter | 庇护所（名词；此处指丈夫的身体与肤色） | My daughters enjoy the shelter of his strong, solid, male body, which they use as furniture: stool, armchair, and bed. |
 | shield | 盾牌（名词） | They don’t know it now, but the color of his body, his skin, is also a shelter, a shield, but only as long as they stay close. |
-| solid | 结实的（形容词） | My daughters enjoy the shelter of his strong, solid, male body, which they use as furniture: stool, armchair, and bed. |
 | gravely | 郑重地（副词） | When she was four years old, I teased Isabella once about who she might marry. “Your mother would be very disappointed in you,” she responded gravely. |
-| jeopardize | 危及（动词） | Not wanting to jeopardize the work relationship, not wanting to be cast as “oversensitive,” my friend accepted the compliment. |
 | brittle | 硬而脆的（形容词；此处形容那种笑） | The black women in the group, including me, laugh hard, brittle laughs, the kind of laughs that recognize painful truths. |
 | draped | 垂挂着（动词 drape 的过去分词） | After breakfast, she sits down with me at the table while I linger over coffee. She is still in her apron, her body turned toward me, one arm on the table, the other draped over her chair, her whole self a sign of reception. |
 | linger | 逗留、慢慢喝（动词） | After breakfast, she sits down with me at the table while I linger over coffee. |
-| apron | 围裙（名词） | After breakfast, she sits down with me at the table while I linger over coffee. She is still in her apron, her body turned toward me, one arm on the table, the other draped over her chair, her whole self a sign of reception. |
 | respite | 喘息、暂歇（名词；此处指她给自己安排的独处假期） | Before I arrived, I had imagined I would keep to myself during my visit to Hampton, which I had planned as a brief respite from my roles as wife and mother. |
 | empathize | 共情（动词） | She nods, accepts my confession, but cannot fully empathize. |
-| proprietor | 店主（名词） | At a bed-and-breakfast in Hampton, Virginia, I become friendly with Barbara, the proprietor, a black woman, and a native Virginian. |
 | steady | 稳住（动词；此处形容孩子抓住母亲的腰保持平衡） | Behind me, Isabella puts her hands on my hips to steady herself as she dodges Giulia’s touch. |
-| chime | 钟声（名词；此处形容没说出口的话在心里响得清清楚楚） | I don’t say them, but the words sound in my head as clear and loud as a chime. |
 | willful | 任性的（形容词；此处形容小时候的自己与后文的 color-blindness） | “You are not a little white girl,” my mother sometimes said to me when I was young and willful. |
 | swinging | 甩动（动词 swing 的分词） | In Hampton I walk the city streets, arms swinging, chin up toward the May sun. |
 | nascent | 初生的、刚萌芽的（形容词） | In Hampton I walk the city streets, arms swinging, chin up toward the May sun. Not only have I come to see brown people, I have also come to escape the gray days of nascent spring in Vermont. |
 | panelist | 与会代表（名词） | In the course of the discussion, the South Burlington chief of police, another panelist, had occasion to say, “Dark skin stands out in a white place.” |
 | veered | 转向（动词 veer 的过去式） | Discussion veered from the incident itself to the state of race relations in Vermont. |
-| visibility | 可见度（名词） | Because the problem is not the visibility of dark skin, but who sees it and what the viewer feels motivated to do next. |
 | motivated | 被激发的（动词 motivate 的过去分词） | Because the problem is not the visibility of dark skin, but who sees it and what the viewer feels motivated to do next. |
-| akin | 类似于（形容词；与 to 连用） | You might, God forbid, be called a racist, which is, in the eyes of some people, akin to being declared a murderer. |
 | terrain | 地带（名词；此处指"色盲"这块看似安全的地面） | So we resort to the seemingly safe terrain of color-blindness, which can be a kind of violence, an aggressive act of willful ignorance. |
-| aggressive | 侵略性的、主动出击的（形容词；此处形容"无视"） | So we resort to the seemingly safe terrain of color-blindness, which can be a kind of violence, an aggressive act of willful ignorance. |
 | bodiless | 无身的（形容词；此处引《看不见的人》里马戏团畸形秀的比喻） | “I am invisible, understand, simply because people refuse to see me,” explains the narrator of Invisible Man. “Like the bodiless heads you see sometimes in circus sideshows, it is as though I have been surrounded by mirrors of hard, distorting glass. |
 | figments | 臆想的产物（名词 figment 的复数） | “Like the bodiless heads you see sometimes in circus sideshows, it is as though I have been surrounded by mirrors of hard, distorting glass. When they approach me they see only my surroundings, themselves, or figments of their imagination—indeed, everything and nothing but me.” |
 | diversity | 多样性（名词；此处指高校的 diversity course） | The course is Race and the Literature of the American South. It counts as a “diversity course”; students at the University of Vermont are required to take a certain number of them. |
-| doses | 剂量（名词 dose 的复数） | These courses are meant to serve as doses of intellectual tonic whose aim is to introduce sheltered students to experiences of people that do not look like them. |
-| tonic | 补药（名词；此处形容 diversity course） | These courses are meant to serve as doses of intellectual tonic whose aim is to introduce sheltered students to experiences of people that do not look like them. |
 | sheltered | 受到遮护的（形容词；此处指没接触过异族经验的学生） | These courses are meant to serve as doses of intellectual tonic whose aim is to introduce sheltered students to experiences of people that do not look like them. |
-| presumably | 大概、想必（副词） | They are crash courses in and against bigotry; twelve weeks on the intellectual antibiotic and you are, presumably, cured. |
 | breezed | 轻快地走过（动词 breeze 的过去式；此处指老师跳过那个词） | Instead their teachers breezed past the word as if it weren’t there. |
-| cliché | 陈词滥调（名词） | Dr. King’s noble dream has degenerated into a cliché, a catchphrase, like “diversity,” a way out of—as opposed to a way into—complex and textured conversations about race. |
-| catchphrase | 口头禅（名词） | Dr. King’s noble dream has degenerated into a cliché, a catchphrase, like “diversity,” a way out of—as opposed to a way into—complex and textured conversations about race. |
-| degenerated | 退化（动词 degenerate 的过去分词） | Dr. King’s noble dream has degenerated into a cliché, a catchphrase, like “diversity,” a way out of—as opposed to a way into—complex and textured conversations about race. |
 | texture | 质地（名词；此处形容对话的复杂与细致） | Dr. King’s noble dream has degenerated into a cliché, a catchphrase, like “diversity,” a way out of—as opposed to a way into—complex and textured conversations about race. |
 | riddle | 谜（名词） | At best, what the civil rights movement appears to have produced is a generation that is keen to look beyond race, but finds on the other side not freedom but a riddle. |
-| keen | 热衷的（形容词；与 to 连用） | At best, what the civil rights movement appears to have produced is a generation that is keen to look beyond race, but finds on the other side not freedom but a riddle. |
 | vigilance | 警觉（名词） | Maybe I see it too much. Maybe my vigilance separates me from my own family, none of whom, so far, feels the periodic need to be surrounded by brown skin as deeply I do. |
-| predominantly | 以……为主地（副词） | Except for me, they have all grown up, or are growing up, in predominantly white environments. |
 | periodic | 周期性的（形容词；此处形容那种需要） | Maybe I see it too much. Maybe my vigilance separates me from my own family, none of whom, so far, feels the periodic need to be surrounded by brown skin as deeply I do. |
-| ornamental | 装饰性的（形容词；此处形容旅店里的雕塑） | We show each other our respective mise-en-scènes. I turn the camera on my iPad toward an ornamental shoe, a white marble sculpture of a woman’s head with a finger to its lips, and an old-fashioned typewriter. |
 | canopy | 床幔（名词） | They are impressed by the bed, in particular its canopy of thin white silk. |
-| toiletries | 洗漱用品（名词） | I go to sleep and wake up to the purity of limited choices: the same few clothes, toiletries, books. |
 | saddling | 强加（动词 saddle 的分词） | John could teach our daughters to live, and I could live here without saddling them with my past, my fears. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| curio | 奇珍（名词；此处指被当成稀罕物件） | I had not felt like a curio or an artifact. |
+| trove | 一大批珍藏（名词；此处比喻母亲那一批故事） | I carry the trove of my mother’s stories inside of me, like an organ. |
+| organ | 器官（名词；此处比喻随身携带、无从取出的东西） | I carry the trove of my mother’s stories inside of me, like an organ. |
+| alien | 异质的、格格不入的（形容词；此处形容女儿听不懂母亲的故事） | As my daughters become more interested in the world and my past, I tell them my mother’s stories, which they find curious but alien. |
+| solid | 结实的（形容词） | My daughters enjoy the shelter of his strong, solid, male body, which they use as furniture: stool, armchair, and bed. |
+| apron | 围裙（名词） | After breakfast, she sits down with me at the table while I linger over coffee. She is still in her apron, her body turned toward me, one arm on the table, the other draped over her chair, her whole self a sign of reception. |
+| chime | 钟声（名词；此处形容没说出口的话在心里响得清清楚楚） | I don’t say them, but the words sound in my head as clear and loud as a chime. |
+| akin | 类似于（形容词；与 to 连用） | You might, God forbid, be called a racist, which is, in the eyes of some people, akin to being declared a murderer. |
+| doses | 剂量（名词 dose 的复数） | These courses are meant to serve as doses of intellectual tonic whose aim is to introduce sheltered students to experiences of people that do not look like them. |
+| tonic | 补药（名词；此处形容 diversity course） | These courses are meant to serve as doses of intellectual tonic whose aim is to introduce sheltered students to experiences of people that do not look like them. |
+| cliché | 陈词滥调（名词） | Dr. King’s noble dream has degenerated into a cliché, a catchphrase, like “diversity,” a way out of—as opposed to a way into—complex and textured conversations about race. |
+| keen | 热衷的（形容词；与 to 连用） | At best, what the civil rights movement appears to have produced is a generation that is keen to look beyond race, but finds on the other side not freedom but a riddle. |
 | abide | 忍受（动词；与 cannot 连用） | But then, I quickly realize, I would not be able to touch them. I would no longer be able to feel the yielding texture of their skin when I pull them close, take their hands. This I could not abide. |
 
 ## 一句话总结

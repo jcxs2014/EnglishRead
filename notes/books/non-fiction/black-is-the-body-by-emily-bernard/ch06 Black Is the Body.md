@@ -122,46 +122,50 @@ modified: "2026-10-02"
 
 ## 词汇分级
 
+### ⭐⭐⭐ 高级
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | hypervigilance | 高度警觉状态（名词；此处形容她童年对种族危险的本能戒备） | My earliest experiences of blackness were defined by an unpleasant and uncomfortable hypervigilance. |
-| mundane | 日常的、平庸的（形容词） | Race determined the contours of every choice we made; every mundane public act we performed was a project with a name. |
 | integration | 融入（种族隔离撤销）；此处是全家搬进南纳什维尔时给那件事起的名字 | When we moved into our house, it was called integration. |
 | desegregation | 取消种族隔离（名词） | When my older brother and I entered the public school system, it was called desegregation. |
 | metaphorical | 隐喻的、比喻的（形容词；此处说黑人白人之间的分界不是比喻） | The split between black and white was not metaphorical; railroad tracks divided black and white Nashville. |
-| alma mater | 母校（拉丁语借词） | North Nashville was where my father practiced medicine and where we attended events at Fisk University, my parents’ alma mater, and one of this country’s oldest historically black colleges and universities, or HBCUs. |
 | parishioners | 教区会众（名词；此处指梅哈里医学院那位小礼拜堂里的人） | Among the parishioners in the chapel were men and women I called Aunt and Uncle even though we had no biological relationship. |
-| affinity | 亲和、契合（名词；此处与意识形态并列，指女儿成为黑人的第二条路径） | But my daughters were not born under the shadow of this history. They are black by ideology and affinity, but not by blood. |
-| unsettled | 感到不安的（动词 unsettle 的过去分词） | Once, when we were out of town visiting John’s extended family, I told them the Black History Month story. I could see that the story unsettled them. |
 | ideological | 意识形态的（形容词；此处形容国家像紧身衣） | What had been promoted by her elders, including my father, as a land of professional opportunity, proved to her to be an intolerable ideological straitjacket. |
-| cherubs | 小天使（名词；埃塞俄比亚东正教圣像里那种褐眼睛带光轮的圆脸孩子） | Every mother thinks her daughters look like angels, but my daughters do resemble the doe-eyed, haloed brown cherubs that dominate Ethiopian Orthodox Christian iconography. |
 | iconography | 圣像画传统（名词；此处形容孩子的长相像画里的天使） | Every mother thinks her daughters look like angels, but my daughters do resemble the doe-eyed, haloed brown cherubs that dominate Ethiopian Orthodox Christian iconography. |
-| castigate | 严厉批评（动词；此处指批评那些资本主义伪科学家） | He castigates capitalist pseudoscientists for attempting to “deprive the Negro of any share in the famous civilizations of Egypt and Ethiopia.” |
-| deprive | 剥夺（动词；此处指夺走黑人对埃及与埃塞俄比亚文明的分享权） | He castigates capitalist pseudoscientists for attempting to “deprive the Negro of any share in the famous civilizations of Egypt and Ethiopia.” |
 | preeminent | 最杰出的（形容词） | Before him, W. E. B. Du Bois—author, activist, social scientist, statesman, and arguably the preeminent First Black in American history—composed The Star of Ethiopia, an American historical pageant, which opened in New York in 1913. |
 | recuperate | 追回、重新找回（动词；此处指把被切断的非洲历史重新捡回来） | My daughters’ connection to Africa does not have to be fashioned or dramatized, invented or recuperated. |
-| inheres | 内在包含（动词；此处指非裔美国人身份的全部复杂度就在这个事实里） | So much of the complexity of being African American inheres in the fact that we are, in fact, Americans, products of this soil yet rooted in something, somewhere else. |
 | unreconciled | 未能调和的（形容词；此处引杜波依斯形容黑人双重性的那个词） | When I was growing up, some of my West Indian cousins found the unreconciled strivings of African Americans tiresome and confusing. |
-| dogged | 顽强的（形容词；此处引杜波依斯形容黑人筋骨的那个词） | “One ever feels his two-ness,—an American, a Negro; two souls, two thoughts, two unreconciled strivings; two warring ideals in one dark body, whose dogged strength alone keeps it from being torn asunder,” writes Du Bois in his 1903 classic, The Souls of Black Folk. |
-| asunder | 分散地、断裂地（副词；此处引杜波依斯那个比喻的结尾） | “One ever feels his two-ness,—an American, a Negro; two souls, two thoughts, two unreconciled strivings; two warring ideals in one dark body, whose dogged strength alone keeps it from being torn asunder,” writes Du Bois in his 1903 classic, The Souls of Black Folk. |
 | alienation | 疏离感（名词；此处指西印度表亲所说的黑人自我隔离） | Educated in the States at HBCUs, they exasperated their classmates by insisting that black alienation was self-imposed. |
-| tiresome | 令人厌烦的（形容词） | When I was growing up, some of my West Indian cousins found the unreconciled strivings of African Americans tiresome and confusing. |
 | exasperate | 使恼火（动词） | Educated in the States at HBCUs, they exasperated their classmates by insisting that black alienation was self-imposed. |
 | straitjacket | 紧身衣（名词；此处形容被国家观念套住的窒息感） | What had been promoted by her elders, including my father, as a land of professional opportunity, proved to her to be an intolerable ideological straitjacket. |
-| christen | 给…取名（动词；此处形容两代人都被取了英式名字） | As he reminisced, I considered the parallels between him and Carmichael: both graduates of HBCUs (Carmichael went to Howard), both christened with undeniably British names (my father’s first and middle names are Harold Oswald), and both, as children, subjects of the Crown. |
 | undeniably | 无可否认地（副词） | As he reminisced, I considered the parallels between him and Carmichael: both graduates of HBCUs (Carmichael went to Howard), both christened with undeniably British names (my father’s first and middle names are Harold Oswald), and both, as children, subjects of the Crown. |
 | mispronouncing | 念错（动名词） | He might have wound up in England if it hadn’t been for his uncle, another graduate of Meharry, who offered him America, where he begot children who would not only grow up on the other side of what appeared to him—at least that night at the dinner table—as an unbridgeable, ineffable divide, but who would also continuously frustrate him by mispronouncing words like “advertisement.” |
+| maliciously | 怀有恶意地（副词） | My first—and last—instinct was that Gilbert had not meant the comment maliciously. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| mundane | 日常的、平庸的（形容词） | Race determined the contours of every choice we made; every mundane public act we performed was a project with a name. |
+| affinity | 亲和、契合（名词；此处与意识形态并列，指女儿成为黑人的第二条路径） | But my daughters were not born under the shadow of this history. They are black by ideology and affinity, but not by blood. |
+| unsettled | 感到不安的（动词 unsettle 的过去分词） | Once, when we were out of town visiting John’s extended family, I told them the Black History Month story. I could see that the story unsettled them. |
+| cherubs | 小天使（名词；埃塞俄比亚东正教圣像里那种褐眼睛带光轮的圆脸孩子） | Every mother thinks her daughters look like angels, but my daughters do resemble the doe-eyed, haloed brown cherubs that dominate Ethiopian Orthodox Christian iconography. |
+| castigate | 严厉批评（动词；此处指批评那些资本主义伪科学家） | He castigates capitalist pseudoscientists for attempting to “deprive the Negro of any share in the famous civilizations of Egypt and Ethiopia.” |
+| deprive | 剥夺（动词；此处指夺走黑人对埃及与埃塞俄比亚文明的分享权） | He castigates capitalist pseudoscientists for attempting to “deprive the Negro of any share in the famous civilizations of Egypt and Ethiopia.” |
+| inheres | 内在包含（动词；此处指非裔美国人身份的全部复杂度就在这个事实里） | So much of the complexity of being African American inheres in the fact that we are, in fact, Americans, products of this soil yet rooted in something, somewhere else. |
+| dogged | 顽强的（形容词；此处引杜波依斯形容黑人筋骨的那个词） | “One ever feels his two-ness,—an American, a Negro; two souls, two thoughts, two unreconciled strivings; two warring ideals in one dark body, whose dogged strength alone keeps it from being torn asunder,” writes Du Bois in his 1903 classic, The Souls of Black Folk. |
+| asunder | 分散地、断裂地（副词；此处引杜波依斯那个比喻的结尾） | “One ever feels his two-ness,—an American, a Negro; two souls, two thoughts, two unreconciled strivings; two warring ideals in one dark body, whose dogged strength alone keeps it from being torn asunder,” writes Du Bois in his 1903 classic, The Souls of Black Folk. |
+| tiresome | 令人厌烦的（形容词） | When I was growing up, some of my West Indian cousins found the unreconciled strivings of African Americans tiresome and confusing. |
+| christen | 给…取名（动词；此处形容两代人都被取了英式名字） | As he reminisced, I considered the parallels between him and Carmichael: both graduates of HBCUs (Carmichael went to Howard), both christened with undeniably British names (my father’s first and middle names are Harold Oswald), and both, as children, subjects of the Crown. |
 | weighty | 分量沉重的（形容词；此处形容二月这个月份） | February has proven to be a weighty month for the brown girls in my house. |
 | prescient | 有先见之明的（形容词；此处带反讽，指她早就知道女儿将来要经历什么） | Ever since she was a toddler I have felt prescient pity for the boys who will fall in love with Isabella. |
 | affable | 和蔼可亲的（形容词） | Gilbert was the name of the first boy who tumbled. He was an affable child, tan and green-eyed, with long, dark eyelashes and round, dimpled cheeks. |
 | dimpled | 有酒窝的（形容词） | Gilbert was the name of the first boy who tumbled. He was an affable child, tan and green-eyed, with long, dark eyelashes and round, dimpled cheeks. |
-| stint | 一段时间（名词；此处指被罚坐惩罚椅） | He admired Isabella, in part because she had never been sentenced to a stint in the “blue chair,” the punishment chair, where he himself spent a fair amount of time. |
-| lieu | 代替（名词；与 of 连用构成短语） | In lieu of the birthday party, she asked if Isabella could come over the next afternoon for a playdate. |
 | playdate | 玩伴聚会（英语特有词） | In lieu of the birthday party, she asked if Isabella could come over the next afternoon for a playdate. |
 | plight | 困境（名词） | Even though it was a weekday, I was moved by Gilbert’s plight, so I agreed. |
 | signature | 招牌的、标志性的（形容词；此处形容伊莎贝拉的熊抱） | When I went to pick up Isabella, Gilbert’s mother and I chatted while our children said good-bye. Isabella gave Gilbert one of her signature bear hugs. |
 | scrawl | 潦草的字迹（名词） | He wrote her a note I found in her backpack. “Your hair is pretty,” read his four-year-old scrawl. |
-| maliciously | 怀有恶意地（副词） | My first—and last—instinct was that Gilbert had not meant the comment maliciously. |
 | reared its head | 冒出头来（动词短语；此处形容种族差异闯进了教室） | I emailed their teacher. It was important, I believed, that she know that race—racial difference—had reared its head in her classroom in a potentially destructive way. |
 | anecdote | 轶事（名词） | The best part of the story, my friend told me, was that whenever his grandfather repeated this anecdote, he always said, “Somewhere, right now, there is a black man telling a story to his family about that fresh-off-the-boat Dutch guy who thought the color of his skin was some kind of hoax.” |
 | immigrant | 移民（名词） | That’s what happened to my friend’s grandfather, an immigrant from the Netherlands. |
@@ -173,9 +177,17 @@ modified: "2026-10-02"
 | relented | 让步（动词） | Finally, I relented. |
 | dreading | 害怕、一直担心的（动词 dread 的分词） | It was a big moment, a moment I had been dreading since before I became a parent, and I was not prepared. |
 | piggyback | 背着（动词；此处形容三个孩子轮流背着走） | She runs up to the girls’ room where they each insist that she piggyback them around the house. |
-| tromp | 踏着重步走（动词；拟声造词） | Then, the three of them tromp up and down the streets of our neighborhood, hopping from pool to pool, outfitted in slick, wet bathing suits and mismatched flip-flops, with tight towels girdling their hips. |
 | girdling | 环绕的、束腰的（动词 girdle 的分词；此处形容泳巾） | Then, the three of them tromp up and down the streets of our neighborhood, hopping from pool to pool, outfitted in slick, wet bathing suits and mismatched flip-flops, with tight towels girdling their hips. |
 | discord | 不和、冲突（名词） | I watch them from my window. This is what childhood should look like, I think. Outside of this frame, racial discord grows and persists. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| alma mater | 母校（拉丁语借词） | North Nashville was where my father practiced medicine and where we attended events at Fisk University, my parents’ alma mater, and one of this country’s oldest historically black colleges and universities, or HBCUs. |
+| stint | 一段时间（名词；此处指被罚坐惩罚椅） | He admired Isabella, in part because she had never been sentenced to a stint in the “blue chair,” the punishment chair, where he himself spent a fair amount of time. |
+| lieu | 代替（名词；与 of 连用构成短语） | In lieu of the birthday party, she asked if Isabella could come over the next afternoon for a playdate. |
+| tromp | 踏着重步走（动词；拟声造词） | Then, the three of them tromp up and down the streets of our neighborhood, hopping from pool to pool, outfitted in slick, wet bathing suits and mismatched flip-flops, with tight towels girdling their hips. |
 
 ## 一句话总结
 

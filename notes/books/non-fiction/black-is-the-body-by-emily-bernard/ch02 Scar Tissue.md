@@ -118,10 +118,10 @@ modified: "2026-10-02"
 
 ## 词汇分级
 
+### ⭐⭐⭐ 高级
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| honed | 打磨（反复修习使之精熟；本字写作蜂蜜的名字是 hone） | The story I have honed over the years is as neat as my scar; it is smooth, and tender, and conceals more than it reveals. |
-| conceals | 掩盖、藏起（同 conceal，conceal 的三单形式） | The story I have honed over the years is as neat as my scar; it is smooth, and tender, and conceals more than it reveals. |
 | provocation | 挑衅、刺激（动词 provoke 的名词形式） | There was no apparent provocation, police said. |
 | handprints | 手印（此处指留在窗上的血手印） | Bloody handprints were visible on a window, where one of the victims apparently climbed out. |
 | proverbial | 谚语中的、人人都知的（proverb 谚语 + -ial） | Here I have lingered longer than I lingered in that moment, which passed as quickly as a proverbial blink of an eye. |
@@ -130,9 +130,22 @@ modified: "2026-10-02"
 | adrenaline | 肾上腺素（生理名词） | I would find out later that what occasioned that queer silence was adrenaline pounding in my ears and deafening me. |
 | involuntary | 不由自主的（voluntary 的反义词，前缀 in- 表否定） | My witnessing was involuntary. |
 | witnessing | 目击、见证（动词 witness 的名词形式） | My witnessing was involuntary. |
-| palpably | 明显地、可感地（palpable 的副词） | But these particular moments on this particular evening stay with me more palpably than any other moments from that long night. |
 | incompetent | 无受审能力的（法律用语，指不具备受审能力） | Nicholson noted Silva had been repeatedly ruled incompetent to stand trial for the assaults. |
-| arson | 纵火（法律用语，特指放火烧人财物） | Daniel Silva, who burned down his house, then stabbed seven people with a knife at a New Haven coffee shop, pleaded guilty to second-degree arson Tuesday and received a suspended 10-year sentence that will allow him to eventually be placed in a halfway house. |
+| salaciously | 色迷迷地、带着贪欲地（形容词淫荡的 salacious 的副词） | I had been feeling annoyed by them and their devil-may-care bluster, but now I looked up and saw that the man was staring at them, obviously and, apparently, salaciously. |
+| nasogastric tube | 鼻胃管（经鼻插入胃内的管子） | A nasogastric tube goes through the nose, down the throat, and into the stomach. |
+| gynecologist | 妇科医生 | Since then, I have related it to gynecologists, dentists, ophthalmologists, general practitioners, a dermatologist, even a podiatrist, and of course, emergency room physicians—all of these men and women in white coats, and their assistants, too. |
+| ophthalmologist | 眼科医生 | Since then, I have related it to gynecologists, dentists, ophthalmologists, general practitioners, a dermatologist, even a podiatrist, and of course, emergency room physicians—all of these men and women in white coats, and their assistants, too. |
+| podiatrist | 足科医生 | Since then, I have related it to gynecologists, dentists, ophthalmologists, general practitioners, a dermatologist, even a podiatrist, and of course, emergency room physicians—all of these men and women in white coats, and their assistants, too. |
+| apparently | 看来、似乎（副词，表推测） | Bloody handprints were visible on a window, where one of the victims apparently climbed out. |
+| presumably | 推测、大概（副词，表据理推想） | I was aware of him as he watched a table full of young girls next to me, presumably undergraduates. |
+| conversation | 交谈、对话（比 talk 更正式的词） | She tried to engage him in conversation. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| conceals | 掩盖、藏起（同 conceal，conceal 的三单形式） | The story I have honed over the years is as neat as my scar; it is smooth, and tender, and conceals more than it reveals. |
+| palpably | 明显地、可感地（palpable 的副词） | But these particular moments on this particular evening stay with me more palpably than any other moments from that long night. |
 | slasher | 砍杀片（以持刀行凶为卖点的恐怖片类型） | It sounded like something from a trailer for a slasher movie. |
 | trailer | 预告片（电影上映前发布的短片） | It sounded like something from a trailer for a slasher movie. |
 | evidently | 显然、看来（副词，比 clearly 更含推测余地） | But it wasn’t a movie, and there was a lot of blood, evidently, although I don’t remember that part. |
@@ -141,20 +154,19 @@ modified: "2026-10-02"
 | listing | 歪斜地站（此处指骑车人斜倚在车上） | It was the way he was listing on his bicycle; it was the unsettling way he looked at me. |
 | swagger | 趾高气扬、虚张声势 | The girls were loud, sexy, and full of swagger. |
 | bluster | 虚张声势、吓唬（动词兼名词） | I had been feeling annoyed by them and their devil-may-care bluster, but now I looked up and saw that the man was staring at them, obviously and, apparently, salaciously. |
-| salaciously | 色迷迷地、带着贪欲地（形容词淫荡的 salacious 的副词） | I had been feeling annoyed by them and their devil-may-care bluster, but now I looked up and saw that the man was staring at them, obviously and, apparently, salaciously. |
 | profusely | 大量地（此处形容出血，医学与新闻常用） | Both subjects had stab wounds to the stomach areas and Bleeding Profusely. |
 | gurney | 医用推床（医院里运送病人的带轮平车） | He held my bloody hand as his team moved me onto the gurney. |
-| nasogastric tube | 鼻胃管（经鼻插入胃内的管子） | A nasogastric tube goes through the nose, down the throat, and into the stomach. |
 | midline incision | 腹部正中切口（沿腹部中线作的手术切口） | A midline incision, it’s called, and it begins just under my breastbone and ends at my pubic bone, stem to stern, fore to aft. |
-| gynecologist | 妇科医生 | Since then, I have related it to gynecologists, dentists, ophthalmologists, general practitioners, a dermatologist, even a podiatrist, and of course, emergency room physicians—all of these men and women in white coats, and their assistants, too. |
-| ophthalmologist | 眼科医生 | Since then, I have related it to gynecologists, dentists, ophthalmologists, general practitioners, a dermatologist, even a podiatrist, and of course, emergency room physicians—all of these men and women in white coats, and their assistants, too. |
-| podiatrist | 足科医生 | Since then, I have related it to gynecologists, dentists, ophthalmologists, general practitioners, a dermatologist, even a podiatrist, and of course, emergency room physicians—all of these men and women in white coats, and their assistants, too. |
 | stabbed | 刺（动词 stab 的过去式；伤口多用过去分词） | The two victims most seriously hurt were covered with blood, and it was difficult to tell how many times they were stabbed, police said. |
 | provoked | 激怒、挑起（动词 provoke 的过去式） | “We have no idea what provoked him,” Lawlor said. |
 | visible | 看得见的、明显的（形容词，此处作表语） | Bloody handprints were visible on a window, where one of the victims apparently climbed out. |
-| apparently | 看来、似乎（副词，表推测） | Bloody handprints were visible on a window, where one of the victims apparently climbed out. |
-| presumably | 推测、大概（副词，表据理推想） | I was aware of him as he watched a table full of young girls next to me, presumably undergraduates. |
-| conversation | 交谈、对话（比 talk 更正式的词） | She tried to engage him in conversation. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| honed | 打磨（反复修习使之精熟；本字写作蜂蜜的名字是 hone） | The story I have honed over the years is as neat as my scar; it is smooth, and tender, and conceals more than it reveals. |
+| arson | 纵火（法律用语，特指放火烧人财物） | Daniel Silva, who burned down his house, then stabbed seven people with a knife at a New Haven coffee shop, pleaded guilty to second-degree arson Tuesday and received a suspended 10-year sentence that will allow him to eventually be placed in a halfway house. |
 
 ## 一句话总结
 

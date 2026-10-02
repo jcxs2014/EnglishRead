@@ -124,114 +124,126 @@ modified: "2026-10-02"
 
 ## 词汇分级
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| condolences | 吊唁（名词） | James and I accept condolences and say things like “It was her time” and “She lived a good, long life.” |
+| monochrome | 单色的（形容词） | I think about the monochrome black color of my clothing, my fingernails raw and bitten to the quick. |
+| emblazoned | 印着（动词 emblazon 的过去分词） | Ahead of me, I see a black man wearing a sweatshirt with “Tennessee” emblazoned on the front, a pronouncement of his otherness as frank as his dark skin. |
+| choreography | 编排、走位（名词） | But maybe he, too, is considering my act as one with historical significance. Maybe he, like me, marvels at the transformation in the choreography of race relations, and how remarkable it is, the way things have turned out. |
+| ostensibly | 表面上是（副词） | Ostensibly, I was in Hazlehurst that summer in order to conduct a research project on the history of my family. |
+| anthropological | 人类学的（形容词） | The distant, anthropological lens I had adopted made her wary. |
+| mesmerized | 入迷的（形容词） | I sat mesmerized, listening as the preacher balanced his words precisely in a sacred space between speech and song. |
+| antagonistic | 敌对的（形容词） | Black people shot bullets into the homes of other black people who were seen as antagonistic to the cause. |
+| contrariness | 唱反调的脾性（名词） | Perhaps because of my grandfather’s contrariness, perhaps as a consequence of the envy the family elicited in the community, the Jeffersons proved handy targets. |
+| aristocratic | 贵族气的（形容词） | We drive up and down Extension Street, with its parade of regal, antebellum homes and languid, aristocratic willow trees decorating the front yard. |
+| resourceful | 有办法的（形容词） | Dotsie was resourceful and industrious. |
+| intimidated | 恐吓（动词 intimidate 的过去式） | He intimidated every man who showed any kind of romantic interest in his estranged wife. |
+| strictures | 束缚（名词） | Once she left that building, the strictures of her social world forced her down a single narrow corridor. |
+| succulents | 多肉植物（名词） | She cares for her brood of African violets, snake plants, ponytails, succulents, and Christmas cactuses as faithfully as she tends to the stories her mother bequeathed to her, and that she now entrusts to me. |
+| bequeathed | 传下（动词 bequeath 的过去式） | She cares for her brood of African violets, snake plants, ponytails, succulents, and Christmas cactuses as faithfully as she tends to the stories her mother bequeathed to her, and that she now entrusts to me. |
+| apocryphal | 真伪难辨的（形容词） | Miss Dotsie, who wrung the necks of chickens until they snapped, who cut off the heads of snakes with a garden hoe; this force of nature about whom tales both factual and apocryphal were spun, are still spun, standing and waiting simply to be seen. |
+| antagonist | 敌手（名词） | Uncle Frank blocked the driveway while Aunt Bea fired a warning shot in the air at the home of the most hostile antagonist. |
+| notwithstanding | 尽管（介词） | She loved my grandfather, his hard nature notwithstanding. |
+
+### ⭐⭐ 进阶
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | gnarled | 扭曲变形的（形容词） | Severe arthritis turned her strong, wide fingers gnarled and stiff. |
-| gout | 痛风（名词） | The gout that had afflicted her for years had made walking a chore. |
 | mudroom | 门厅、泥帽间（名词） | I step into the mudroom in order to talk to Warren, from whom I also learned of my mother’s death on the morning of Christmas Eve five years ago. |
 | grimly | 苦涩地（副词） | We laugh grimly and then make plans to meet in Mississippi in January. |
-| condolences | 吊唁（名词） | James and I accept condolences and say things like “It was her time” and “She lived a good, long life.” |
 | bulges | 鼓胀（动词 bulge 的第三人称单数） | On the morning of my trip to Mississippi, the line at the US Airways counter bulges left and right and snakes back toward the shop where you can purchase Vermont sweatshirts, maple syrup, and chocolates. |
 | loafers | 乐福鞋（名词） | She wears bright gold chains around her neck, neat black pants, and shiny loafers. |
-| monochrome | 单色的（形容词） | I think about the monochrome black color of my clothing, my fingernails raw and bitten to the quick. |
-| emblazoned | 印着（动词 emblazon 的过去分词） | Ahead of me, I see a black man wearing a sweatshirt with “Tennessee” emblazoned on the front, a pronouncement of his otherness as frank as his dark skin. |
 | caress | 抚摸（动词） | I sit down, caress my coffee cup, and watch the people passing by, imagining the stories they carry. |
-| brace | 做好准备（动词） | I brace myself and wait for some mention of Aguilar’s race but there is none. |
 | saunters | 闲逛（动词 saunter 的第三人称单数） | A white businessman with his suit jacket hooked over his shoulder saunters past me toward the window. |
 | reeling off | 一口气报出（动名词短语） | Everywhere around me are black men: travelers and workers, manning kiosks and computers, reeling off flight information into microphones. |
 | brazenly | 厚着脸皮地（副词） | Brazenly, I insist on a secondary kinship by showing her pictures of my daughters, who were born in her country. |
 | acutely | 敏锐地（副词） | In this moment, I am acutely aware that, in the not-so-distant past, relatively speaking, relative to the history of the human race, that is, a black woman stepping in front of a white man would have been a consequential act. |
-| choreography | 编排、走位（名词） | But maybe he, too, is considering my act as one with historical significance. Maybe he, like me, marvels at the transformation in the choreography of race relations, and how remarkable it is, the way things have turned out. |
 | stenciled | 印刻在（动词 stencil 的过去分词） | I thought I would be able to feel my way to my grandmother’s house; I thought the map of Hazlehurst was stenciled inside of me. |
-| flush | 涨红、涌起（形容词） | I follow her home, flush with both sorrow and joy. |
-| yams | 山药（名词） | As I pile fried chicken, yams coated with roasted marshmallows, and black-eyed peas cooked with ham hocks onto my plate, I think guiltily of the fast-food wrappers. |
-| ham hocks | 猪蹄膀（名词） | As I pile fried chicken, yams coated with roasted marshmallows, and black-eyed peas cooked with ham hocks onto my plate, I think guiltily of the fast-food wrappers. |
 | wrought-iron | 锻铁的（形容词） | Soon I am lying on a bed with a wrought-iron frame in a room that my mother’s three sisters once shared. |
 | emanates | 传出（动词 emanate 的第三人称单数） | I lie on my back with my arms folded behind my head as soft laughter emanates from the living room. |
 | overcast | 阴天的（形容词） | The sky is slightly overcast, but the sun’s bright judgment pierces through the curtains anyway, insisting that we begin the day. |
 | euphemism | 委婉说法（名词） | Like passing or crossing over, the term going home is a euphemism for death. |
-| ostensibly | 表面上是（副词） | Ostensibly, I was in Hazlehurst that summer in order to conduct a research project on the history of my family. |
-| anthropological | 人类学的（形容词） | The distant, anthropological lens I had adopted made her wary. |
 | beamed | 绽开笑容（动词 beam 的过去式） | Smiling faces beamed in her direction, everyone hoping for the blessing of her wit. |
 | vibrato | 颤音（名词） | First, he added a little vibrato. |
 | cadence | 抑扬顿挫（名词） | Then, a steady cadence emerged and held firm. |
-| mesmerized | 入迷的（形容词） | I sat mesmerized, listening as the preacher balanced his words precisely in a sacred space between speech and song. |
-| staid | 刻板的（形容词） | But the staid traditions of the Episcopal Church in which I grew up held me back. |
 | frenzy | 狂热（名词） | The church was now in a frenzy, the parishioners, pastor, choir, and ushers colliding and cohering, expanding and contracting, one hydra-headed organism. |
 | hydra-headed | 多头的（形容词） | The church was now in a frenzy, the parishioners, pastor, choir, and ushers colliding and cohering, expanding and contracting, one hydra-headed organism. |
 | tights | 紧身袜（名词） | A thin woman in a pink suit and white tights appeared to faint. |
-| awash | 淹没在（形容词） | I let the tears fall, overwhelmed by the show of organic, spontaneous vitality in the room, and awash in self-pity at my utter aloneness. |
 | wilted | 萎掉（动词 wilt 的过去式） | My excitement wilted as the service began and unfolded exactly as it had the previous week. |
 | elbowed | 用肘挤开（动词 elbow 的过去式） | But fascination quickly elbowed disappointment off the stage of my imagination. |
 | touted | 被标榜（动词 tout 的过去分词） | Blues musician Robert Johnson is touted as an official native son. |
-| depot | 车站（名词） | A plaque that details his achievements is posted next to the train depot. |
 | figurines | 小雕像（名词） | We pause to step into a shop full of antiques where, as toddlers, my daughters Giulia and Isabella admired two glass figurines shaped like ducks. |
 | facades | 外立面（名词） | I see Bologna, too, a city in Italy that my husband John and I visited years ago, in the rubbed, faded colors of the buildings’ facades. |
 | manicured | 修剪整齐的（形容词） | This South is nothing like the South in which I used to live, with its manicured lawns and gated country clubs. |
 | divulge | 泄露（动词） | She is Clara Jean, or Moochie, a childhood nickname that she loathed, and which I am free to divulge here because she is no longer alive to stop me. |
 | unmoored | 失去锚的（形容词） | I have always been greedy for stories about my mother’s family, even before she died and I became overwhelmed with the continuous sensation of being unmoored. |
-| wills | 遗嘱（名词） | Aunt Julia, Warren, and I pass Town Hall and the library where, thirty years ago, I spent hours looking through old newspapers, census reports, and wills, trying to find evidence of the interracial love affair that began the Jefferson family line. |
 | agonize | 苦苦纠结（动词） | My cousin dropped me off most of the time, but sometimes I would borrow my grandmother’s brown Chevy and drive right by Town Hall into downtown Hazlehurst, where I would park, walk around, and agonize over my research. |
 | threshold | 门槛（名词） | But I could not enter; I could not find my way across the threshold. |
 | butted heads | 顶牛（动词短语） | My wild idealism butted heads with my grandmother’s pessimism. |
 | agitators | 鼓动者（名词） | Like some other black southerners of her generation, she saw civil rights activists as outside agitators who did more harm than good to southern race relations. |
 | vestiges | 残余（名词） | I saw her attitudes as sad vestiges of the past. |
 | wreaked | 造成（动词 wreak 的过去式） | But I didn’t know anything about her particular past. I didn’t know, for instance, that among the civil rights activists who came to organize the citizens of Hazlehurst were outside agitators who wreaked havoc on her community. |
-| cadre | 骨干队伍（名词） | Today, Aunt Julia describes to me how a cadre of activists from points north landed in Hazlehurst like a tornado and shook the black world at its foundation. |
 | renown | 名望（名词） | A central player in the drama was Rudy Shields, she says, an activist of national renown who traveled from Chicago to Mississippi in 1965 to organize strikes and boycotts. |
 | impulsive | 冲动的（形容词） | My grandfather, like others of his clan, like me, was proud, impulsive, quick to anger, and easy to offend. |
-| antagonistic | 敌对的（形容词） | Black people shot bullets into the homes of other black people who were seen as antagonistic to the cause. |
-| contrariness | 唱反调的脾性（名词） | Perhaps because of my grandfather’s contrariness, perhaps as a consequence of the envy the family elicited in the community, the Jeffersons proved handy targets. |
-| afoot | 在酝酿中的（形容词） | He heard of a plan afoot to cut off his youngest daughters’ long hair. |
 | hatchet | 小斧头（名词） | My grandmother carried a small hatchet in her purse whenever she took her usual shortcut through the fields that separated her from her parents. |
 | languid | 慵懒的（形容词） | We drive up and down Extension Street, with its parade of regal, antebellum homes and languid, aristocratic willow trees decorating the front yard. |
-| aristocratic | 贵族气的（形容词） | We drive up and down Extension Street, with its parade of regal, antebellum homes and languid, aristocratic willow trees decorating the front yard. |
 | carcasses | 残骸（名词） | Two blocks later, we pass carcasses of abandoned houses, each one held together weakly by rotting wood. |
 | shards | 碎片（名词） | The windows look as if they have been punched, shards of glass hanging from their frames, like rows of mouths with broken teeth. |
 | inscribed | 刻下（动词 inscribe 的过去分词） | The house is my grandmother’s grandest achievement, her dream inscribed in its foundation like initials etched in concrete. |
 | wastrels | 浪荡子（名词） | He came from a brood of handsome wastrels. |
-| brood | 一窝（名词） | He came from a brood of handsome wastrels. |
-| hasty | 仓促的（形容词） | When my grandmother left my grandfather, very soon after their hasty wedding, she returned to Mama Tempie’s house and discovered that her mother had discarded her clothes and burned all of the poetry that she had been writing since childhood. |
-| resourceful | 有办法的（形容词） | Dotsie was resourceful and industrious. |
 | yanked | 一把扯掉（动词 yank 的过去式） | They were jealous of her straight hair and yanked off the ribbons that my grandmother had tied at the ends of her daughter’s braids. |
 | meager | 微薄的（形容词） | Her mother’s judgment weighed heavily enough, but even worse was the knowledge that she and her daughter were drains on her parents’ meager resources. |
 | fawned | 讨好（动词 fawn 的过去式） | Dotsie’s mother still disapproved of her, but she fawned over Clara Jean, whom Mama Tempie viewed as a delicate, innocent victim of the mess my grandmother had made of her life. |
 | certitude | 笃定（名词） | Her mother had applied the full force of her religious certitude, and reminded her daughter over and over that regardless of the legal status of her marriage, she and Jeff were still, and always would be, husband and wife in the eyes of God. |
-| intimidated | 恐吓（动词 intimidate 的过去式） | He intimidated every man who showed any kind of romantic interest in his estranged wife. |
 | estranged | 分居的（形容词） | He intimidated every man who showed any kind of romantic interest in his estranged wife. |
-| strictures | 束缚（名词） | Once she left that building, the strictures of her social world forced her down a single narrow corridor. |
-| stony | 冷硬的（形容词） | After months of arguments and stony silence, Jeff relented. |
 | relented | 松口（动词 relent 的过去式） | After months of arguments and stony silence, Jeff relented. |
-| muggy | 闷热的（形容词） | Shot and Frank used wood, sheetrock, and concrete, laboring day after hot, muggy, Mississippi day. |
 | sheetrock | 石膏板（名词） | Shot and Frank used wood, sheetrock, and concrete, laboring day after hot, muggy, Mississippi day. |
 | drumstick | 鸡腿（名词） | I pull crunchy pieces of skin off a drumstick until the tender meat is exposed, glistening and naked. |
 | fretting | 发愁（动词 fret 的现在分词） | When I wake up, I find Aunt Julia in the living room fretting over the weather. |
 | ominous | 不祥的（形容词） | Newscasters make ominous predictions. |
-| bevy | 一群（名词） | Her worried face is framed by a bevy of lush green plants. |
 | sagged | 下沉（动词 sag 的过去式） | When it sagged from termite damage, she replaced the worn carpet with smooth wood floors. |
 | termite | 白蚁（名词） | When it sagged from termite damage, she replaced the worn carpet with smooth wood floors. |
 | progeny | 后代（名词） | Her plants are her progeny; she has no children. |
-| succulents | 多肉植物（名词） | She cares for her brood of African violets, snake plants, ponytails, succulents, and Christmas cactuses as faithfully as she tends to the stories her mother bequeathed to her, and that she now entrusts to me. |
-| bequeathed | 传下（动词 bequeath 的过去式） | She cares for her brood of African violets, snake plants, ponytails, succulents, and Christmas cactuses as faithfully as she tends to the stories her mother bequeathed to her, and that she now entrusts to me. |
-| apocryphal | 真伪难辨的（形容词） | Miss Dotsie, who wrung the necks of chickens until they snapped, who cut off the heads of snakes with a garden hoe; this force of nature about whom tales both factual and apocryphal were spun, are still spun, standing and waiting simply to be seen. |
-| riled | 激怒（动词 rile 的过去分词） | The deeper Aunt Julia gets into this story, the more layers she adds to her portrait of black life in the Jim Crow South, the more riled up we both become. |
 | casing | 踩点打量（动词 case 的现在分词） | I walk up and down the aisles slowly, casing the joint. |
 | grudge | 积怨（名词） | The pitch of my voice is the kind you might use when talking to a person with poor hearing against whom you are nursing a grudge. |
 | donned | 披挂上（动词 don 的过去式） | She remembers how her mother’s brother Frank and his wife, Bea, both of whom she adored and calls the loves of her life, donned their own rifles in the war between the Jeffersons and the activists. |
-| antagonist | 敌手（名词） | Uncle Frank blocked the driveway while Aunt Bea fired a warning shot in the air at the home of the most hostile antagonist. |
 | nosing | 闲逛探看（动词 nose 的现在分词） | What has happened in the world while my aunts, cousins, and I have been nosing around a bookstore, driving to and from Jackson, telling family tales? |
 | encased | 裹住（动词 encase 的过去分词） | We scoot our feet along the stone path to my rental car, which is encased in a thick film of ice. |
 | beaded | 缀满水珠（动词 bead 的过去分词） | Instead I turn the heat all the way up and let the engine run until the leather seats are warm and the windshield is beaded with water. |
 | icicles | 冰凌（名词） | Icicles hang from poplar trees; people slip along streets like nervous amateur skaters. |
 | valiantly | 奋勇地（副词） | Aunt Julia and I watch as a green Mustang fights valiantly for purchase, sliding back and starting forward, again and again, like the little engine that could. |
 | granite | 花岗岩（名词） | After some practice, we are able to walk with confidence past the granite Confederate soldier standing guard in front of the courthouse. |
-| condo | 公寓（名词） | But maintaining my grandmother’s house and health while keeping up her San Jose condo proved impossible. |
 | skeptical | 怀疑的（形容词） | My grandmother was always skeptical of romantic love. |
-| notwithstanding | 尽管（介词） | She loved my grandfather, his hard nature notwithstanding. |
 | flourish | 茂盛（动词） | She loves the plants that surround her beautiful Jefferson face, and that flourish in the oxygen they all share, the fuel that turns the engine of her stories. |
 | billowing | 涌出（动词 billow 的现在分词） | That night as I lie in bed, a song comes billowing out of the darkness, “Nightshift” by the Commodores: |
 | eroding | 侵蚀（动词 erode 的现在分词） | I close my eyes and let the song hold me, blend me into the night and this place, and feel the boundaries between here and there disappear, the song rubbing away the distance between then and now, like water eroding stone. |
 | linger | 磨蹭、流连（动词） | The second delay turns out to be brief, just a few hours, long enough for Aunt Julia and I to linger over coffee while we watch newscasters interview city residents about how they fared in the storm. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| gout | 痛风（名词） | The gout that had afflicted her for years had made walking a chore. |
+| brace | 做好准备（动词） | I brace myself and wait for some mention of Aguilar’s race but there is none. |
+| flush | 涨红、涌起（形容词） | I follow her home, flush with both sorrow and joy. |
+| yams | 山药（名词） | As I pile fried chicken, yams coated with roasted marshmallows, and black-eyed peas cooked with ham hocks onto my plate, I think guiltily of the fast-food wrappers. |
+| ham hocks | 猪蹄膀（名词） | As I pile fried chicken, yams coated with roasted marshmallows, and black-eyed peas cooked with ham hocks onto my plate, I think guiltily of the fast-food wrappers. |
+| staid | 刻板的（形容词） | But the staid traditions of the Episcopal Church in which I grew up held me back. |
+| awash | 淹没在（形容词） | I let the tears fall, overwhelmed by the show of organic, spontaneous vitality in the room, and awash in self-pity at my utter aloneness. |
+| depot | 车站（名词） | A plaque that details his achievements is posted next to the train depot. |
+| wills | 遗嘱（名词） | Aunt Julia, Warren, and I pass Town Hall and the library where, thirty years ago, I spent hours looking through old newspapers, census reports, and wills, trying to find evidence of the interracial love affair that began the Jefferson family line. |
+| cadre | 骨干队伍（名词） | Today, Aunt Julia describes to me how a cadre of activists from points north landed in Hazlehurst like a tornado and shook the black world at its foundation. |
+| afoot | 在酝酿中的（形容词） | He heard of a plan afoot to cut off his youngest daughters’ long hair. |
+| brood | 一窝（名词） | He came from a brood of handsome wastrels. |
+| hasty | 仓促的（形容词） | When my grandmother left my grandfather, very soon after their hasty wedding, she returned to Mama Tempie’s house and discovered that her mother had discarded her clothes and burned all of the poetry that she had been writing since childhood. |
+| stony | 冷硬的（形容词） | After months of arguments and stony silence, Jeff relented. |
+| muggy | 闷热的（形容词） | Shot and Frank used wood, sheetrock, and concrete, laboring day after hot, muggy, Mississippi day. |
+| bevy | 一群（名词） | Her worried face is framed by a bevy of lush green plants. |
+| riled | 激怒（动词 rile 的过去分词） | The deeper Aunt Julia gets into this story, the more layers she adds to her portrait of black life in the Jim Crow South, the more riled up we both become. |
+| condo | 公寓（名词） | But maintaining my grandmother’s house and health while keeping up her San Jose condo proved impossible. |
 
 ## 一句话总结
 

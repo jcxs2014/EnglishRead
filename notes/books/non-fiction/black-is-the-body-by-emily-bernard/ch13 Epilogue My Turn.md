@@ -124,11 +124,28 @@ modified: "2026-10-02"
 
 ## 词汇分级
 
+### ⭐⭐⭐ 高级
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| cache | 一批藏起来的东西（名词） | A few years after my mother died, I discovered a cache of papers she left in my childhood bedroom closet. |
-| wrinkled | 皱巴巴的（形容词） | She buried them, in an act of elegant and amusing symbolism, underneath a pile of my father’s long-forgotten wrinkled shirts. |
 | autobiographical | 自传性的（形容词） | One of them is an autobiographical narrative about her life as a child in the Jim Crow South. |
+| forbearance | 忍耐克制（名词） | She accepted her grandmother’s reasoning, and as an adult went on to practice the same kind of forbearance that made Mama Tempie the embodiment of strength and moral fortitude in the poetry my mother wrote. |
+| embodiment | 化身（名词） | She accepted her grandmother’s reasoning, and as an adult went on to practice the same kind of forbearance that made Mama Tempie the embodiment of strength and moral fortitude in the poetry my mother wrote. |
+| frantically | 发疯似地（副词） | I was looking frantically for something. |
+| abomination | 可憎之事（名词） | Some words to correct the abomination of the rocks and my mother’s bloody leg. |
+| interlocutors | 对话者、听众（名词） | Unlike my mother and grandmother, I have been lucky to find interlocutors, hungry listeners, to borrow a phrase from Their Eyes Were Watching God, a book that looks like a novel about romance but is really a story about women, mothers and daughters, the primacy of intimacy and conversation, and a woman’s fundamental hunger to tell. |
+| trajectory | 轨迹（名词） | Relatedly, I wanted, as I began to write these final pages, to compose a particular kind of narrative, a neat trajectory from her turn to mine, the past to the present, despair to hope. |
+| insubstantial | 虚薄的（形容词） | But there is no simple path forward, and maybe the hope embedded in the stories I have told in this book is insubstantial and misguided, just as misguided as the racism that spurred white boys to hurl rocks at my maternal ancestors. |
+| ambivalence | 矛盾并存（名词） | But the beauty of the condition of blackness is that it is capacious enough to carry both despair and hope, rage and delight, ambivalence and fortitude, which are all as intertwined as my intestines and scar tissue, which seem driven to entangle themselves periodically, and form adhesions that serve as a regular reminder that the scar and the story are eternally connected. |
+| intertwined | 缠在一起的（形容词） | But the beauty of the condition of blackness is that it is capacious enough to carry both despair and hope, rage and delight, ambivalence and fortitude, which are all as intertwined as my intestines and scar tissue, which seem driven to entangle themselves periodically, and form adhesions that serve as a regular reminder that the scar and the story are eternally connected. |
+| intestines | 肠子（名词） | But the beauty of the condition of blackness is that it is capacious enough to carry both despair and hope, rage and delight, ambivalence and fortitude, which are all as intertwined as my intestines and scar tissue, which seem driven to entangle themselves periodically, and form adhesions that serve as a regular reminder that the scar and the story are eternally connected. |
+| periodically | 周期性地（副词） | But the beauty of the condition of blackness is that it is capacious enough to carry both despair and hope, rage and delight, ambivalence and fortitude, which are all as intertwined as my intestines and scar tissue, which seem driven to entangle themselves periodically, and form adhesions that serve as a regular reminder that the scar and the story are eternally connected. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| wrinkled | 皱巴巴的（形容词） | She buried them, in an act of elegant and amusing symbolism, underneath a pile of my father’s long-forgotten wrinkled shirts. |
 | stroll | 散步（名词） | A pleasant stroll turned into a “nightmare,” my mother wrote. |
 | stoicism | 坚忍（名词） | Mama Tempie, who practiced the kind of black stoicism that has served as a guiding principle for African Americans since the inception of African presence in this country, walked on without evincing any emotion while the white boys jeered and pelted them with stones. |
 | inception | 开端（名词） | Mama Tempie, who practiced the kind of black stoicism that has served as a guiding principle for African Americans since the inception of African presence in this country, walked on without evincing any emotion while the white boys jeered and pelted them with stones. |
@@ -136,14 +153,7 @@ modified: "2026-10-02"
 | jeered | 嘲骂（动词 jeer 的过去式） | Mama Tempie, who practiced the kind of black stoicism that has served as a guiding principle for African Americans since the inception of African presence in this country, walked on without evincing any emotion while the white boys jeered and pelted them with stones. |
 | pelted | 连续投掷（动词 pelt 的过去式） | Mama Tempie, who practiced the kind of black stoicism that has served as a guiding principle for African Americans since the inception of African presence in this country, walked on without evincing any emotion while the white boys jeered and pelted them with stones. |
 | idolized | 崇拜（动词 idolize 的过去式） | My mother idolized Mama Tempie. |
-| forbearance | 忍耐克制（名词） | She accepted her grandmother’s reasoning, and as an adult went on to practice the same kind of forbearance that made Mama Tempie the embodiment of strength and moral fortitude in the poetry my mother wrote. |
-| embodiment | 化身（名词） | She accepted her grandmother’s reasoning, and as an adult went on to practice the same kind of forbearance that made Mama Tempie the embodiment of strength and moral fortitude in the poetry my mother wrote. |
 | fortitude | 刚毅（名词） | She accepted her grandmother’s reasoning, and as an adult went on to practice the same kind of forbearance that made Mama Tempie the embodiment of strength and moral fortitude in the poetry my mother wrote. |
-| stem | 止住（动词） | Her grandmother’s keen analysis of the nature of racism, that it was the consequence of ignorance, did not stem the flow of blood that ran down her leg. |
-| frantically | 发疯似地（副词） | I was looking frantically for something. |
-| abomination | 可憎之事（名词） | Some words to correct the abomination of the rocks and my mother’s bloody leg. |
-| salve | 药膏（名词） | And then I realized that what I was looking for was the salve, an answer, the end. |
-| interlocutors | 对话者、听众（名词） | Unlike my mother and grandmother, I have been lucky to find interlocutors, hungry listeners, to borrow a phrase from Their Eyes Were Watching God, a book that looks like a novel about romance but is really a story about women, mothers and daughters, the primacy of intimacy and conversation, and a woman’s fundamental hunger to tell. |
 | primacy | 首要地位（名词） | Unlike my mother and grandmother, I have been lucky to find interlocutors, hungry listeners, to borrow a phrase from Their Eyes Were Watching God, a book that looks like a novel about romance but is really a story about women, mothers and daughters, the primacy of intimacy and conversation, and a woman’s fundamental hunger to tell. |
 | intimacy | 亲密（名词） | Unlike my mother and grandmother, I have been lucky to find interlocutors, hungry listeners, to borrow a phrase from Their Eyes Were Watching God, a book that looks like a novel about romance but is really a story about women, mothers and daughters, the primacy of intimacy and conversation, and a woman’s fundamental hunger to tell. |
 | tending | 照看（名词） | In order to narrate her own life, she needs another person to listen, to aid in the tending of her interior. |
@@ -151,21 +161,23 @@ modified: "2026-10-02"
 | course | 奔流（动词） | My mother never saw her work in print, but her stories course through me, just like what those stories represent, which is the vital importance of intimate connection across time and circumstance, which is why, I believe, she left her papers in my closet in the first place. |
 | soothe | 安抚（动词） | It did not soothe me to have my mother’s words beside me. |
 | unsettled | 让我不安（动词 unsettle 的过去式） | Instead, it unsettled me. |
-| trajectory | 轨迹（名词） | Relatedly, I wanted, as I began to write these final pages, to compose a particular kind of narrative, a neat trajectory from her turn to mine, the past to the present, despair to hope. |
-| insubstantial | 虚薄的（形容词） | But there is no simple path forward, and maybe the hope embedded in the stories I have told in this book is insubstantial and misguided, just as misguided as the racism that spurred white boys to hurl rocks at my maternal ancestors. |
 | embedded | 嵌在里面（动词 embed 的过去分词） | But there is no simple path forward, and maybe the hope embedded in the stories I have told in this book is insubstantial and misguided, just as misguided as the racism that spurred white boys to hurl rocks at my maternal ancestors. |
 | misguided | 被误导的（形容词） | But there is no simple path forward, and maybe the hope embedded in the stories I have told in this book is insubstantial and misguided, just as misguided as the racism that spurred white boys to hurl rocks at my maternal ancestors. |
 | spurred | 驱使（动词 spur 的过去式） | But there is no simple path forward, and maybe the hope embedded in the stories I have told in this book is insubstantial and misguided, just as misguided as the racism that spurred white boys to hurl rocks at my maternal ancestors. |
-| hurl | 猛扔（动词） | But there is no simple path forward, and maybe the hope embedded in the stories I have told in this book is insubstantial and misguided, just as misguided as the racism that spurred white boys to hurl rocks at my maternal ancestors. |
 | maternal | 母系的（形容词） | But there is no simple path forward, and maybe the hope embedded in the stories I have told in this book is insubstantial and misguided, just as misguided as the racism that spurred white boys to hurl rocks at my maternal ancestors. |
 | thunders | 轰然穿过（动词 thunder 的第三人称单数） | But the need to believe thunders through my body and muscles out despair. |
 | capacious | 宽阔能容的（形容词） | But the beauty of the condition of blackness is that it is capacious enough to carry both despair and hope, rage and delight, ambivalence and fortitude, which are all as intertwined as my intestines and scar tissue, which seem driven to entangle themselves periodically, and form adhesions that serve as a regular reminder that the scar and the story are eternally connected. |
-| ambivalence | 矛盾并存（名词） | But the beauty of the condition of blackness is that it is capacious enough to carry both despair and hope, rage and delight, ambivalence and fortitude, which are all as intertwined as my intestines and scar tissue, which seem driven to entangle themselves periodically, and form adhesions that serve as a regular reminder that the scar and the story are eternally connected. |
-| intertwined | 缠在一起的（形容词） | But the beauty of the condition of blackness is that it is capacious enough to carry both despair and hope, rage and delight, ambivalence and fortitude, which are all as intertwined as my intestines and scar tissue, which seem driven to entangle themselves periodically, and form adhesions that serve as a regular reminder that the scar and the story are eternally connected. |
-| intestines | 肠子（名词） | But the beauty of the condition of blackness is that it is capacious enough to carry both despair and hope, rage and delight, ambivalence and fortitude, which are all as intertwined as my intestines and scar tissue, which seem driven to entangle themselves periodically, and form adhesions that serve as a regular reminder that the scar and the story are eternally connected. |
 | entangle | 缠住（动词） | But the beauty of the condition of blackness is that it is capacious enough to carry both despair and hope, rage and delight, ambivalence and fortitude, which are all as intertwined as my intestines and scar tissue, which seem driven to entangle themselves periodically, and form adhesions that serve as a regular reminder that the scar and the story are eternally connected. |
-| periodically | 周期性地（副词） | But the beauty of the condition of blackness is that it is capacious enough to carry both despair and hope, rage and delight, ambivalence and fortitude, which are all as intertwined as my intestines and scar tissue, which seem driven to entangle themselves periodically, and form adhesions that serve as a regular reminder that the scar and the story are eternally connected. |
 | adhesions | 粘连（名词） | But the beauty of the condition of blackness is that it is capacious enough to carry both despair and hope, rage and delight, ambivalence and fortitude, which are all as intertwined as my intestines and scar tissue, which seem driven to entangle themselves periodically, and form adhesions that serve as a regular reminder that the scar and the story are eternally connected. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| cache | 一批藏起来的东西（名词） | A few years after my mother died, I discovered a cache of papers she left in my childhood bedroom closet. |
+| stem | 止住（动词） | Her grandmother’s keen analysis of the nature of racism, that it was the consequence of ignorance, did not stem the flow of blood that ran down her leg. |
+| salve | 药膏（名词） | And then I realized that what I was looking for was the salve, an answer, the end. |
+| hurl | 猛扔（动词） | But there is no simple path forward, and maybe the hope embedded in the stories I have told in this book is insubstantial and misguided, just as misguided as the racism that spurred white boys to hurl rocks at my maternal ancestors. |
 
 ## 一句话总结
 

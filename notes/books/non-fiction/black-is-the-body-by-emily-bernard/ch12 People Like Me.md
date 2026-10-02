@@ -124,81 +124,76 @@ modified: "2026-10-02"
 
 ## 词汇分级
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| superimposed | 被叠印上去的（形容词） | Yet when I sit by Lake Champlain, or next to one of the many pristine natural springs, I see myself superimposed upon the landscape, raised and slightly askew, like a sticker in an activity book my daughters enjoyed when they were younger. |
+| transplant | 移居过来的人（名词） | The woman is new to the city, a recent transplant from Massachusetts. |
+| integrated | 融合的（形容词） | I was never able to live an integrated life in Nashville, either. |
+| treacherous | 凶险的（形容词） | the lives of black and white southerners have always been intertwined, even though our relations have been more often treacherous than not. |
+| proprietor | 店主（名词） | Maybe the proprietor overheard us. |
+| interrogation | 审讯（名词） | his eyes behind his glasses beaming like interrogation lamps. |
+| undeterred | 没有被劝退的（形容词） | I was undeterred. |
+| painstaking | 极其细致的（形容词） | I wrote out the route in painstaking detail: shuttle to subway to his office building. |
+| disconcerted | 让我不安（动词 disconcert 的过去式） | It wasn’t the number of people that disconcerted me. |
+| eavesdropped | 偷听（动词 eavesdrop 的过去式） | where I spent hours in the homes of relatives and eavesdropped as the women in my clan spun tales about the world. |
+| topography | 地貌（名词） | I recognized the topography of Lenox on the first day that John took me home to meet his family. |
+| promiscuously | 随便地、不加选择地（副词） | I use the word “home” just as promiscuously. |
+| Hypervisibility | 过度可见（名词） | Hypervisibility has its drawbacks. |
+| astonished | 让…惊异（动词 astonish 的过去式） | His smile, hair, and the color of his skin astonished them. |
+| interrogate | 盘问（动词） | During the first six months of his life here, nearly every police officer he encountered would stop and interrogate him. |
+| unobstructed | 没有遮挡的（形容词） | The view of the sky, unobstructed by city smog, changed him. |
+| kaleidoscope | 万花筒（名词） | She asked the question in the smug way of New Yorkers who believe that the cultural kaleidoscope of their world somehow confers upon them a special kind of moral rectitude. |
+| bewildering | 让人不知所措的（形容词） | I felt a rush of bewildering emotions: distress, envy, and indignation. |
+| indignation | 愤慨（名词） | I felt a rush of bewildering emotions: distress, envy, and indignation. |
+| allegiance | 归属、效忠（名词） | I started to defend the place to which I have yet to feel allegiance. |
+| surveillance | 监视（名词） | Even a short trip to the grocery store is an event that demands this self-surveillance. |
+| alienation | 疏离感（名词） | I am also aware of the irony: without our mutual sense of alienation we would perhaps not have this communion to enjoy. |
+| tumultuous | 动荡的（形容词） | It had been a tumultuous year for me. |
+| installment | 一场、一期（名词） | It was an installment of “Bridging Cultures,” a series sponsored by the Vermont Refugee Resettlement Program, which was established to assist refugees and immigrants in becoming full participants in all aspects of American life. |
+| intriguing | 引人兴味的（形容词） | I found the range of responses to the question intriguing. |
+| glistening | 油亮的（形容词） | A buffet table is surrounded by people holding paper plates sagging with savory stews and glistening sautéed vegetables. |
+
+### ⭐⭐ 进阶
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | longevity | 长久（名词） | “Home is longevity,” Ellie says when I ask what the word means to her. |
 | conceived | 想象出（动词 conceive 的过去分词） | Never, during those years, could I have conceived of a life in which she would not be a constant presence. |
 | pristine | 清冽未染的（形容词） | Yet when I sit by Lake Champlain, or next to one of the many pristine natural springs, I see myself superimposed upon the landscape, raised and slightly askew, like a sticker in an activity book my daughters enjoyed when they were younger. |
-| superimposed | 被叠印上去的（形容词） | Yet when I sit by Lake Champlain, or next to one of the many pristine natural springs, I see myself superimposed upon the landscape, raised and slightly askew, like a sticker in an activity book my daughters enjoyed when they were younger. |
-| askew | 歪着的（形容词） | Yet when I sit by Lake Champlain, or next to one of the many pristine natural springs, I see myself superimposed upon the landscape, raised and slightly askew, like a sticker in an activity book my daughters enjoyed when they were younger. |
-| gloat | 得意地炫耀（动词） | I called my parents to gloat when Vermont came in first on the night of both elections that made Barack Obama president. |
 | cherish | 珍视（动词） | I cherish these details and list them for people who ask me what it is like to live black in such a white place. |
 | tagged along | 一路跟着（动词短语） | Every day for the last seventeen years, the question has tagged along with me. |
-| clomp | 咚咚地走（动词） | My daughters’ bus driver and I trade book recommendations in the morning as the girls clomp up the stairs to their seats: Stay. |
-| slick | 光亮的（形容词） | In the parking lot of the grocery store, a white man with a slick bald head looks at me, at my license plate, and then shakes his head in disgust: Leave. |
 | stomping | 踩踏（动词 stomp 的现在分词） | A long, bitter spring of stomping through the slushy, dingy remains of that same snowfall and its successors: Leave. |
 | slushy | 泥泞的（形容词） | A long, bitter spring of stomping through the slushy, dingy remains of that same snowfall and its successors: Leave. |
-| dingy | 灰暗的（形容词） | A long, bitter spring of stomping through the slushy, dingy remains of that same snowfall and its successors: Leave. |
 | tallying | 累加计数（名词） | The tallying is continuous and exhausting. |
 | bulletin | 公告（名词） | “Ethiopian Boogie Benefit,” a poster on a bulletin board announces. |
 | acrobatic | 杂技式的（形容词） | The top of the poster features two Ethiopians in flight: one grasps his shins in an acrobatic tumble, the other walks upside down in the sky. |
-| sober | 严肃的（形容词） | This will not be a sober exchange of ideas, the poster promises. |
-| transplant | 移居过来的人（名词） | The woman is new to the city, a recent transplant from Massachusetts. |
 | inception | 创立（名词） | and therefore has been almost entirely black since its inception in 1955. |
-| integrated | 融合的（形容词） | I was never able to live an integrated life in Nashville, either. |
 | forsake | 舍弃（动词） | For as long as I can remember, I knew I would forsake close for high. |
-| maxim | 格言（名词） | I grew up hearing this maxim repeated by friends and colleagues of my parents throughout my childhood. |
-| borne out | 被证实（动词短语） | This formula has not been borne out in an absolute way in my experience, at least in terms of my life in the North. |
-| treacherous | 凶险的（形容词） | the lives of black and white southerners have always been intertwined, even though our relations have been more often treacherous than not. |
-| proprietor | 店主（名词） | Maybe the proprietor overheard us. |
 | faltered | 支吾起来（动词 falter 的过去式） | I faltered when the man asked me the same question. |
 | tremor | 一阵颤动（名词） | I laughed, too, even though I felt a tremor of hostility underneath his question. |
 | furrowed | 皱起（动词 furrow 的过去式） | His brows furrowed as he listened, but he wasn’t really listening. |
-| interrogation | 审讯（名词） | his eyes behind his glasses beaming like interrogation lamps. |
-| rigid | 僵住的（形容词） | I kept my body rigid and waited for him to walk away. |
 | ensnared | 被缠住的（动词 ensnare 的过去分词） | we were ensnared in the same historical drama. |
 | forged | 被锻造出来的（动词 forge 的过去分词） | I was forged—mind and body—in the unending conversation between southern blacks and whites. |
 | despise | 鄙弃（动词） | To despise it would be to despise myself. |
-| undeterred | 没有被劝退的（形容词） | I was undeterred. |
-| painstaking | 极其细致的（形容词） | I wrote out the route in painstaking detail: shuttle to subway to his office building. |
-| disconcerted | 让我不安（动词 disconcert 的过去式） | It wasn’t the number of people that disconcerted me. |
-| face-to-face | 脸对脸地（副词） | It was the sight of so many people standing close together—some touching, some standing face-to-face—and not talking. |
-| eavesdropped | 偷听（动词 eavesdrop 的过去式） | where I spent hours in the homes of relatives and eavesdropped as the women in my clan spun tales about the world. |
-| topography | 地貌（名词） | I recognized the topography of Lenox on the first day that John took me home to meet his family. |
 | sleigh | 雪橇（名词） | We passed the hill where a young woman on a sleigh crashed into a lamppost and died a death that inspired Edith Wharton’s Ethan Frome. |
 | imprinted | 烙印下（动词 imprint 的过去分词） | I knew the hill as it had imprinted itself in my brain and body, into the marrow of my imagination. |
 | marrow | 骨髓（名词） | I knew the hill as it had imprinted itself in my brain and body, into the marrow of my imagination. |
-| promiscuously | 随便地、不加选择地（副词） | I use the word “home” just as promiscuously. |
 | fleeces | 抓绒衣（名词） | I sneak fleeces into their backpacks and enjoy the irony: my daughters were born near the Danakil Depression, yet here they are in South Burlington, undaunted by even the harshest winters. |
 | undaunted | 毫不畏缩的（形容词） | I sneak fleeces into their backpacks and enjoy the irony: my daughters were born near the Danakil Depression, yet here they are in South Burlington, undaunted by even the harshest winters. |
-| freak | 反常的（形容词） | It took me many years of successive snowfalls to understand that I should come to expect snow in winter and not treat it as if it were a freak occurrence, as it is still treated in many parts of the South. |
-| Hypervisibility | 过度可见（名词） | Hypervisibility has its drawbacks. |
-| hijab | 头巾（名词） | Kiran, a young poet whose parents emigrated to Vermont from Pakistan, tells me that with wearing a hijab comes a burden of representation. |
 | emigrated | 移民过来（动词 emigrate 的过去式） | Kiran, a young poet whose parents emigrated to Vermont from Pakistan, tells me that with wearing a hijab comes a burden of representation. |
 | flanked | 一左一右夹着（动词 flank 的过去式） | In fact, she was persuaded to tell me this story by two of her black girlfriends, who flanked her in class and teased her good-naturedly, clearly enjoying the story—so foreign to them—about what it meant to be white in a white place. |
-| astonished | 让…惊异（动词 astonish 的过去式） | His smile, hair, and the color of his skin astonished them. |
 | conceded | 必须承认（动词 concede 的过去分词） | “In all of this,” he continued, “in which it must be conceded there was the charm of genuine wonder and in which there was certainly no element of intentional unkindness, there was yet no suggestion that I was human: I was simply a living wonder.” |
-| cover | 借口（名词） | She saw a black man once at a bus station, she said, and wanted to start a conversation, but couldn’t think of a good cover for her curiosity. |
 | expired | 到期作废（动词 expire 的过去式） | That particular option expired for me many years ago. |
-| interrogate | 盘问（动词） | During the first six months of his life here, nearly every police officer he encountered would stop and interrogate him. |
-| unobstructed | 没有遮挡的（形容词） | The view of the sky, unobstructed by city smog, changed him. |
 | amusement | 觉得好笑（名词） | Curtiss shakes his head in amusement when I tell him about the scoreboard in my head. |
 | unnerve | 让我不安（动词） | I wish, too, that it didn’t unnerve me every time someone questions my choice to live here. |
-| smug | 沾沾自喜的（形容词） | She asked the question in the smug way of New Yorkers who believe that the cultural kaleidoscope of their world somehow confers upon them a special kind of moral rectitude. |
-| kaleidoscope | 万花筒（名词） | She asked the question in the smug way of New Yorkers who believe that the cultural kaleidoscope of their world somehow confers upon them a special kind of moral rectitude. |
 | rectitude | 道德上的正当（名词） | She asked the question in the smug way of New Yorkers who believe that the cultural kaleidoscope of their world somehow confers upon them a special kind of moral rectitude. |
-| bewildering | 让人不知所措的（形容词） | I felt a rush of bewildering emotions: distress, envy, and indignation. |
-| indignation | 愤慨（名词） | I felt a rush of bewildering emotions: distress, envy, and indignation. |
-| allegiance | 归属、效忠（名词） | I started to defend the place to which I have yet to feel allegiance. |
 | ineffable | 说不出来的（形容词） | And no picture can capture the ineffable essence of a life. |
 | primping | 打扮（名词） | the care I take to make my body presentable, the primping, combing, and the application of lotions and pomades; |
 | pomades | 发膏（名词） | the care I take to make my body presentable, the primping, combing, and the application of lotions and pomades; |
-| surveillance | 监视（名词） | Even a short trip to the grocery store is an event that demands this self-surveillance. |
 | assuage | 缓解（动词） | Yet it’s never enough; no amount of grooming can protect me, can assuage the continuous feeling of vulnerability. |
-| alienation | 疏离感（名词） | I am also aware of the irony: without our mutual sense of alienation we would perhaps not have this communion to enjoy. |
 | revered | 被敬重的（形容词） | Larry was revered in our community. |
-| bawdy | 粗俗逗乐的（形容词） | After dinner, Larry treated us to a bawdy new limerick he had written. |
-| tumultuous | 动荡的（形容词） | It had been a tumultuous year for me. |
 | adhesions | 粘连（名词） | I had survived a bout of adhesions in my bowel that took a surgeon eight hours to untangle. |
 | untangle | 解开（动词） | I had survived a bout of adhesions in my bowel that took a surgeon eight hours to untangle. |
 | rattled | 心神不宁的（形容词） | I felt rattled in a global way, and I wasn’t confident about any of the decisions I had made. |
@@ -206,7 +201,6 @@ modified: "2026-10-02"
 | odious | 可憎的（形容词） | He described his work to end Kake Walk, a particularly odious fraternity tradition at the university, where white students dressed up in blackface and competed “fo’ de cake.” |
 | blackface | 涂黑脸（名词） | He described his work to end Kake Walk, a particularly odious fraternity tradition at the university, where white students dressed up in blackface and competed “fo’ de cake.” |
 | ingrained | 深植的（形容词） | Larry told them that defeating racism was a continuous struggle but that we must always confront racism, which was ingrained in this country’s fiber, and which had been learned but which could be unlearned, just as he had learned to untangle his own biases. |
-| awed | 敬畏的（形容词） | My students were awed by the handsome man with his thundering, sonorous voice and polished stories that did not coddle. |
 | sonorous | 洪亮的（形容词） | My students were awed by the handsome man with his thundering, sonorous voice and polished stories that did not coddle. |
 | coddle | 娇惯迁就（动词） | My students were awed by the handsome man with his thundering, sonorous voice and polished stories that did not coddle. |
 | evenly | 平静地（副词） | “Because I love it here,” Larry said evenly; he had heard this question before. “This is my home.” |
@@ -220,20 +214,38 @@ modified: "2026-10-02"
 | menacing | 带威胁的（形容词） | wondering if the person ahead of me buying milk or stamps or handmade soap authored the hateful, menacing sentences about a man I loved and admired. |
 | authored | 写下（动词 author 的过去式） | wondering if the person ahead of me buying milk or stamps or handmade soap authored the hateful, menacing sentences about a man I loved and admired. |
 | debris | 杂物堆（名词） | I tuck the letters under the debris of my daughters’ old schoolwork and wadded-up snow pants in the backseat. |
-| installment | 一场、一期（名词） | It was an installment of “Bridging Cultures,” a series sponsored by the Vermont Refugee Resettlement Program, which was established to assist refugees and immigrants in becoming full participants in all aspects of American life. |
-| intriguing | 引人兴味的（形容词） | I found the range of responses to the question intriguing. |
 | cavernous | 空阔得像洞穴的（形容词） | The hall is cavernous and comforting; its design is both pristine and primitive. |
 | primitive | 粗朴的（形容词） | The hall is cavernous and comforting; its design is both pristine and primitive. |
 | cherubic | 圆润如小天使的（形容词） | Like my daughters, the kids have round brown eyes, heavy, dark eyebrows, and cherubic lips. |
 | sagging | 被压得下坠的（形容词） | A buffet table is surrounded by people holding paper plates sagging with savory stews and glistening sautéed vegetables. |
 | savory | 咸香的（形容词） | A buffet table is surrounded by people holding paper plates sagging with savory stews and glistening sautéed vegetables. |
-| sautéed | 炒过的（形容词） | A buffet table is surrounded by people holding paper plates sagging with savory stews and glistening sautéed vegetables. |
-| glistening | 油亮的（形容词） | A buffet table is surrounded by people holding paper plates sagging with savory stews and glistening sautéed vegetables. |
 | monologue | 独白（名词） | “I knew you would laugh,” she murmurs, too sleepy to take offense, and begins a dreamy monologue about McDonald’s. |
-| wades | 蹚过（动词 wade 的第三人称单数） | An Ethiopian singer wades through the audience, shaking hands with the men and women who gather around him. |
 | saturates | 灌满（动词 saturate 的第三人称单数） | The singer nods at the band behind him, and Ethiopian music quickly saturates the room. |
 | spectacle | 被人围观的对象（名词） | I ache to join him, but my desire is outweighed by my fear of becoming a spectacle: the only black woman on the dance floor. |
 | towering | 高耸的（形容词） | Before the scene drowns out all thought, two sentences flash in my mind, their letters towering and spectacular: I am alive. I am safe. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| askew | 歪着的（形容词） | Yet when I sit by Lake Champlain, or next to one of the many pristine natural springs, I see myself superimposed upon the landscape, raised and slightly askew, like a sticker in an activity book my daughters enjoyed when they were younger. |
+| gloat | 得意地炫耀（动词） | I called my parents to gloat when Vermont came in first on the night of both elections that made Barack Obama president. |
+| clomp | 咚咚地走（动词） | My daughters’ bus driver and I trade book recommendations in the morning as the girls clomp up the stairs to their seats: Stay. |
+| slick | 光亮的（形容词） | In the parking lot of the grocery store, a white man with a slick bald head looks at me, at my license plate, and then shakes his head in disgust: Leave. |
+| dingy | 灰暗的（形容词） | A long, bitter spring of stomping through the slushy, dingy remains of that same snowfall and its successors: Leave. |
+| sober | 严肃的（形容词） | This will not be a sober exchange of ideas, the poster promises. |
+| maxim | 格言（名词） | I grew up hearing this maxim repeated by friends and colleagues of my parents throughout my childhood. |
+| borne out | 被证实（动词短语） | This formula has not been borne out in an absolute way in my experience, at least in terms of my life in the North. |
+| rigid | 僵住的（形容词） | I kept my body rigid and waited for him to walk away. |
+| face-to-face | 脸对脸地（副词） | It was the sight of so many people standing close together—some touching, some standing face-to-face—and not talking. |
+| freak | 反常的（形容词） | It took me many years of successive snowfalls to understand that I should come to expect snow in winter and not treat it as if it were a freak occurrence, as it is still treated in many parts of the South. |
+| hijab | 头巾（名词） | Kiran, a young poet whose parents emigrated to Vermont from Pakistan, tells me that with wearing a hijab comes a burden of representation. |
+| cover | 借口（名词） | She saw a black man once at a bus station, she said, and wanted to start a conversation, but couldn’t think of a good cover for her curiosity. |
+| smug | 沾沾自喜的（形容词） | She asked the question in the smug way of New Yorkers who believe that the cultural kaleidoscope of their world somehow confers upon them a special kind of moral rectitude. |
+| bawdy | 粗俗逗乐的（形容词） | After dinner, Larry treated us to a bawdy new limerick he had written. |
+| awed | 敬畏的（形容词） | My students were awed by the handsome man with his thundering, sonorous voice and polished stories that did not coddle. |
+| sautéed | 炒过的（形容词） | A buffet table is surrounded by people holding paper plates sagging with savory stews and glistening sautéed vegetables. |
+| wades | 蹚过（动词 wade 的第三人称单数） | An Ethiopian singer wades through the audience, shaking hands with the men and women who gather around him. |
 
 ## 一句话总结
 

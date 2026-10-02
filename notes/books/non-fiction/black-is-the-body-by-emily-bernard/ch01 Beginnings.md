@@ -117,11 +117,11 @@ modified: "2026-10-02"
 
 ## 词汇分级
 
+### ⭐⭐⭐ 高级
+
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | engendered | 产生、引发（正式用词，词根是 generate 的过去分词） | The need to understand, in fact, was what engendered the stabbing in the first place: I met the knife head on. |
-| adhesions | 粘连（腹部手术后的肠粘连，医学名词） | The surgeon was able to untangle my intestines and scar tissue, but he warned me that the adhesions would return. |
-| untangle | 解开、理清（缠结的东西） | The surgeon was able to untangle my intestines and scar tissue, but he warned me that the adhesions would return. |
 | sympathetically | 同情地、体谅地（副词，修饰说话方式） | “You’re just unlucky,” he said sympathetically. |
 | regeneration | 再生、复原（生物学词，也用于比喻） | The equation of writing and regeneration is fundamental in black American experience. |
 | encompasses | 包含、涵盖（书面的"包括"） | It is a condition that encompasses beauty, misery, wonder, and opportunity. |
@@ -131,6 +131,13 @@ modified: "2026-10-02"
 | storyteller | 讲述者、讲故事的人（复合名词） | They are also rooted in contradictions, primary among them being that the stabbing unleashed the storyteller in me. |
 | randomness | 随机性（随机 random 的名词形式） | Once I accepted the randomness of the situation in my bowel, life took on a new urgency, and so did the desire to understand it. |
 | recovering | 康复中（动词 recover 的现在分词／形容词） | It was 2001, and I was recovering from surgery on my lower bowel, which had been damaged in a stabbing. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| adhesions | 粘连（腹部手术后的肠粘连，医学名词） | The surgeon was able to untangle my intestines and scar tissue, but he warned me that the adhesions would return. |
+| untangle | 解开、理清（缠结的东西） | The surgeon was able to untangle my intestines and scar tissue, but he warned me that the adhesions would return. |
 | conceived | 构想、设想（本义"受孕"，本句一语双关） | This book was conceived in a hospital. |
 | anchored | 使扎根于（anchor 的过去分词，名词亦作"锚"） | Each essay in this book is anchored in this mystery, in blood. |
 | mystery | 谜、神秘（作名词时含"难以理解之处"之意） | Each essay in this book is anchored in this mystery, in blood. |
@@ -149,11 +156,16 @@ modified: "2026-10-02"
 | equation | 等式、平衡式（此处作"写作＝疗愈"的对等式比喻） | The equation of writing and regeneration is fundamental in black American experience. |
 | Blackness | 黑人性、黑人身份（全书关键词，抽象名词） | Blackness is an art, not a science. |
 | paradox | 悖论、自相矛盾而深刻的说法 | It is a paradox: intangible and visceral; a situation and a story. |
-| bowel | 肠道（bowels 为复数，指整套消化道） | Once I accepted the randomness of the situation in my bowel, life took on a new urgency, and so did the desire to understand it. |
 | constant condition | 恒常的状态（形容词 constant 修饰名词 condition） | It is inconsistent, continuously in flux, and yet also a constant condition that I carry in and on my body. |
+| personal essay | 个人随笔（散文的一种体裁） | Insofar as the personal essay is, at heart, an attempt to grasp the mysteries of life, the form made sense to me on a visceral level. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| bowel | 肠道（bowels 为复数，指整套消化道） | Once I accepted the randomness of the situation in my bowel, life took on a new urgency, and so did the desire to understand it. |
 | lower bowel | 下部肠道（解剖学上位于上下肠道分界以下的段落） | It was 2001, and I was recovering from surgery on my lower bowel, which had been damaged in a stabbing. |
 | knife head | 迎着刀锋（短语化用法，指正面承受） | The need to understand, in fact, was what engendered the stabbing in the first place: I met the knife head on. |
-| personal essay | 个人随笔（散文的一种体裁） | Insofar as the personal essay is, at heart, an attempt to grasp the mysteries of life, the form made sense to me on a visceral level. |
 | eyes | 眼睛（单数 eye 的复数形式） | But more meaningful to me than his skin was the look in his eyes, which were vacant of emotion. |
 | pain | 疼痛（书面语，也可抽象指"痛苦"） | The pain, he assured me, would be random and severe. |
 | art | 艺术（与后半句的 science 构成对举） | Blackness is an art, not a science. |
