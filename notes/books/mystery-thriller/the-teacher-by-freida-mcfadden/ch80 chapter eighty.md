@@ -95,19 +95,9 @@ modified: "2026-10-02"
 
 ---
 
-> **原句 7:** （全诗第九次出现——最终次）
+> **原句 7:** Life nearly passed me by / Then she / Young and alive / With smooth hands / And pink cheeks / Showed me myself / Took away my breath / With cherry-red lips / Gave me life once again
 
-> Life nearly passed me by
-> Then she
-> Young and alive
-> With smooth hands
-> And pink cheeks
-> Showed me myself
-> Took away my breath
-> With cherry-red lips
-> Gave me life once again
-
-**中文理解**：生命差点与我擦肩。直到她——年轻而鲜活——用光滑的手、粉红的脸颊，照见了我自己；夺走我的呼吸，又用樱桃色的唇，把生命重新给我。
+**中文理解**：生命差点与我擦肩。直到她——年轻而鲜活——用光滑的手、粉红的脸颊，照见了我自己；夺走我的呼吸，又用樱桃色的唇，把生命重新给我。（全诗第九次出现，也是最后一次——它的收件人在本章终于换回了第一个人。）
 
 **关键词语**：Gave me life once again
 

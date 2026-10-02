@@ -1,0 +1,255 @@
+=== 语料层验收（P0-0）: the-teacher-by-freida-mcfadden ===
+text/ 件数: 82
+  [1] 件数 82 == 预期 82  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 81 组 / 互查 6480 组（共享人物 3 个已豁免）  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch00 (74 句)
+      首| part0005
+      末| After all, I have to bury this body before the sun comes up.
+    ch01 (95 句)
+      首| part0007
+      末| And as Nate pulls the car onto the road and starts driving in the direction of the school, all I
+    ch02 (123 句)
+      首| part0008
+      末| Because the truth is, as bad as it is now, it could always be worse.
+    ch03 (75 句)
+      首| part0009
+      末| I have a terrible feeling about this girl.
+    ch04 (156 句)
+      首| part0010
+      末| In any case, I storm out of the cafeteria and sit in the library at a table all by myself, waiti
+    ch05 (111 句)
+      首| part0011
+      末| Addie is in my husband’s class too.
+    ch06 (129 句)
+      首| part0012
+      末| And he winked at me.
+    ch07 (108 句)
+      首| part0013
+      末| And just as I am congratulating myself, the alarm blasts through the store.
+    ch08 (71 句)
+      首| part0014
+      末| I mean, I’m not a complete idiot.
+    ch09 (98 句)
+      首| part0015
+      末| He’s counting on it.
+    ch10 (99 句)
+      首| part0016
+      末| He wants to talk to me “after class.” And I’m not sure I want to hear what he has to say.
+    ch11 (107 句)
+      首| part0017
+      末| Right now.”
+    ch12 (90 句)
+      首| part0018
+      末| And somehow I find myself agreeing, although a nagging voice in the back of my head won’t stop t
+    ch13 (41 句)
+      首| part0019
+      末| Nothing more.
+    ch14 (86 句)
+      首| part0020
+      末| I almost think that I maybe hear Hudson calling out my name, but I must be hallucinating because
+    ch15 (132 句)
+      首| part0021
+      末| But really, what gives me the confidence to stay is the set of Kenzie’s keys in my pocket.
+    ch16 (111 句)
+      首| part0022
+      末| And lowers his lips onto mine.
+    ch17 (90 句)
+      首| part0023
+      末| But in my heart, I know this will all end horribly.
+    ch18 (190 句)
+      首| part0024
+      末| The worst part of all though is the shiver of excitement that goes through me at the possibility
+    ch19 (87 句)
+      首| part0025
+      末| And there is nothing more on the screen.
+    ch20 (116 句)
+      首| part0026
+      末| Bennett sometimes.
+    ch21 (45 句)
+      首| part0027
+      末| I should never have married him.
+    ch22 (58 句)
+      首| part0028
+      末| And today I decide to take another look.
+    ch23 (79 句)
+      首| part0029
+      末| I can’t disagree with that sentiment.
+    ch24 (164 句)
+      首| part0030
+      末| I’m just trying my best to protect him from ending up like Art Tuttle.
+    ch25 (168 句)
+      首| part0031
+      末| Bennett for making him so unhappy.
+    ch26 (60 句)
+      首| part0032
+      末| After all, there isn’t anyone out there.
+    ch27 (159 句)
+      首| part0033
+      末| Not since Hudson helped me kill my father.
+    ch28 (140 句)
+      首| part0034
+      末| Nothing bad will happen.
+    ch29 (121 句)
+      首| part0035
+      末| As I dart from the Honda to my front door, trying to avoid the raindrops splashing down on me, I
+    ch30 (62 句)
+      首| part0036
+      末| I climb into my Kia and return to my husband who doesn’t love me.
+    ch31 (118 句)
+      首| part0037
+      末| Bennett finding out that I cheated on the trigonometry midterm.
+    ch32 (115 句)
+      首| part0038
+      末| I’m not going to let Kenzie get away with this.
+    ch33 (142 句)
+      首| part0039
+      末| I’ll be there.
+    ch34 (119 句)
+      首| part0040
+      末| And then just as I’m sifting through her shirts, I hear a crash from downstairs.
+    ch35 (51 句)
+      首| part0041
+      末| I ditched the keys in her closet, so I won’t have any temptation to come back.
+    ch36 (34 句)
+      首| part0042
+      末| She’s just lucky that Nate sees something in her, because God knows I don’t.
+    ch37 (236 句)
+      首| part0043
+      末| Then he pushes me against the table used to place developed photos, and he kisses me again.
+    ch38 (81 句)
+      首| part0044
+      末| Maybe there will be a time in the future when we can be together.
+    ch39 (48 句)
+      首| part0045
+      末| What on earth was that all about?
+    ch40 (166 句)
+      首| part0046
+      末| Gave me life once again
+    ch41 (124 句)
+      首| part0047
+      末| It would be so much better.
+    ch42 (152 句)
+      首| part0048
+      末| Bennett.
+    ch43 (86 句)
+      首| part0049
+      末| It’s Addie Severson.
+    ch44 (89 句)
+      首| part0050
+      末| But as he undoes the zipper on the back of my dress, I have no doubt about his intentions.
+    ch45 (165 句)
+      首| part0051
+      末| And in that sense, she is right.
+    ch46 (133 句)
+      首| part0052
+      末| That’s what he promised me.
+    ch47 (106 句)
+      首| part0053
+      末| With her.
+    ch48 (62 句)
+      首| part0054
+      末| But one way or another, I am not going to allow Nate to get away with this.
+    ch49 (59 句)
+      首| part0055
+      末| He has confidence in me, but the problem is, he doesn’t know my husband the way I do.
+    ch50 (211 句)
+      首| part0056
+      末| After today, he won’t be my problem ever again.
+    ch51 (123 句)
+      首| part0057
+      末| It’s so unfair, I want to scream.
+    ch52 (47 句)
+      首| part0058
+      末| It’s my only hope.
+    ch53 (66 句)
+      首| part0059
+      末| Addie?
+    ch54 (111 句)
+      首| part0060
+      末| And a split second later, everything goes black.
+    ch55 (84 句)
+      首| part0061
+      末| “Okay,” he finally says, “I’ll be right there.”
+    ch56 (105 句)
+      首| part0062
+      末| I’ll do anything he says.
+    ch57 (114 句)
+      首| part0063
+      末| And certainly not my husband, who is the one squeezing the life out of me and is the last face I
+    ch58 (120 句)
+      首| part0064
+      末| And when it’s over, we can finally be together.
+    ch59 (78 句)
+      首| part0066
+      末| I believe I can locate that road, and it will serve as the resting place for my wife as she fall
+    ch60 (150 句)
+      首| part0067
+      末| I watch him walk away until the sound of his boots crunching on the leaves vanishes into the win
+    ch61 (158 句)
+      首| part0068
+      末| “I’m on my way,” he says.
+    ch62 (69 句)
+      首| part0069
+      末| Bennett has gone missing.
+    ch63 (74 句)
+      首| part0070
+      末| And then after that, I’ll be calling the police.
+    ch64 (53 句)
+      首| part0071
+      末| Deny everything.
+    ch65 (130 句)
+      首| part0072
+      末| When I realize what she’s looking at, my heart drops into my stomach.
+    ch66 (66 句)
+      首| part0073
+      末| As long as I am careful, nobody will find out what I have done.
+    ch67 (149 句)
+      首| part0074
+      末| She knows as well as I do that it’s not the truth.
+    ch68 (67 句)
+      首| part0075
+      末| And he’s going to deny everything.
+    ch69 (102 句)
+      首| part0076
+      末| There is one other person who knows just enough to bury me, and if that person is the one taunti
+    ch70 (83 句)
+      首| part0077
+      末| And without that, there is absolutely nothing she can do to me.
+    ch71 (102 句)
+      首| part0078
+      末| I stare down at the numbers, which blur as the raindrops continue to fall.
+    ch72 (45 句)
+      首| part0079
+      末| It’s Kenzie Montgomery.
+    ch73 (103 句)
+      首| part0080
+      末| “He wrote it for me.”
+    ch74 (110 句)
+      首| part0081
+      末| “I’ll go.”
+    ch75 (94 句)
+      首| part0082
+      末| I tell her everything.
+    ch76 (92 句)
+      首| part0083
+      末| I’ve got to get out of here.
+    ch77 (60 句)
+      首| part0084
+      末| And as I wait for an echo to murmur back the word, something slams into the back of my head and 
+    ch78 (104 句)
+      首| part0086
+      末| And then I’m going to make Nate pay for this.
+    ch79 (93 句)
+      首| part0087
+      末| And he does.
+    ch80 (153 句)
+      首| part0088
+      末| Gave me life once again
+    ch81 (112 句)
+      首| part0089
+      末| THE END
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
