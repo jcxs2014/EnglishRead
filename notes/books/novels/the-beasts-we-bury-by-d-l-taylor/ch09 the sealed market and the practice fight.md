@@ -104,7 +104,7 @@ modified: "2026-10-02"
 | precarious | 不稳的；岌岌可危的 | Not the side with the nice, well-worn path that overlooks our realm, but the side that’s crammed against another mountain so it’s just stark, bare rock no matter which way you look, and every step is precarious. |
 | claustrophobic | 幽闭恐惧的；压迫感强烈的 | Sunlight fades away behind me, and I’m claustrophobic almost immediately. |
 | silhouetted | 逆光成剪影的 | He turns to me, silhouetted by the flames, and two other figures approach to flank him. |
-| stalagmites | 石钟乳（自地面向上生长的石笋） | I see the shadowy shapes of stalls strung up between stalagmites, stacks of boxes, and tables broken in half. |
+| stalagmites | 石笋（自地面向上生长的石柱） | I see the shadowy shapes of stalls strung up between stalagmites, stacks of boxes, and tables broken in half. |
 | doleful | 闷闷不乐的；愁眉苦脸的 | For a second, he looks strangely doleful, but in the next second his trademark smirk slides back into place like a door slamming shut. |
 | caramelized | 焦糖化的；熬成糖浆色的 | And the burnt sugar has fully caramelized. |
 | simpering | 谄媚地傻笑；假笑 | I don’t miss the careful phrasings or the simpering, full-dimpled smiles he used when we first met. |

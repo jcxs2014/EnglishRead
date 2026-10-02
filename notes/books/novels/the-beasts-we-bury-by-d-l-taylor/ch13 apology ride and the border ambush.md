@@ -127,7 +127,7 @@ modified: "2026-10-02"
 | puppeteer | 操纵木偶的人 | There isn’t a person in this world who doesn’t try to puppeteer everyone else; we just have different ways of going about it. |
 | coercion | 胁迫 | Human interaction, at base, is coercion. |
 | correspondences | （正式）信函 | She has sent several correspondences that were decidedly aggressive. |
-| restraint | 被压住的；克制的 | The isolation rooms are closed, the restraint chair will no longer be used, and the rocks will be put away. |
+| restraint | 约束；拘束 | The isolation rooms are closed, the restraint chair will no longer be used, and the rocks will be put away. |
 
 ### ⭐ 基础
 

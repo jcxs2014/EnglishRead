@@ -125,8 +125,8 @@ modified: "2026-10-02"
 | resigned | 无可奈何的；认命的 | Heaving a resigned sigh, she walks around the room, looking at each animal as though sifting through her memories and deciding which to present to me. |
 | determined | 下定决心；坚决的 | And if your organization genuinely thinks they can prevent atrocities like the ones you’ve just described, then…” She sheathes the blade and holds it out, expression determined. |
 | sheathes | （把剑）归鞘 | And if your organization genuinely thinks they can prevent atrocities like the ones you’ve just described, then…” She sheathes the blade and holds it out, expression determined. |
-| inscrutable | 烛光 | For a wild moment I think she might swing it at me, but she just looks at it, her expression inscrutable. |
-| condemned | 道过歉 | I look at the floor, at the rich carpet that covers it, wondering if the Prime was standing among this brutal luxury when he signed the order that condemned my parents to death. |
+| inscrutable | 高深莫测的；看不透的 | For a wild moment I think she might swing it at me, but she just looks at it, her expression inscrutable. |
+| condemned | 判罪；定罪 | I look at the floor, at the rich carpet that covers it, wondering if the Prime was standing among this brutal luxury when he signed the order that condemned my parents to death. |
 
 ### ⭐ 基础
 
@@ -141,7 +141,7 @@ modified: "2026-10-02"
 | fox | 狐狸 | Then the cat disappears, too, and she moves on, to a tiny fennec fox, with ears bigger than the rest of his body. |
 | cat | 猫 | She summons the cat onto her shoulder and it looks at me with luminous eyes, a tuft of fur sticking up above its forehead. |
 | hay | 干草 | I landed in a pile of hay and broke my arm. |
-| monkey | 红椒粉 | Staring at her when she’s trying so hard to be invisible feels invasive, so I let my gaze drift to a monkey, mid-howl, imagining what it must have been like for her to feel its life leak out between her fingers. |
+| monkey | 猴子 | Staring at her when she’s trying so hard to be invisible feels invasive, so I let my gaze drift to a monkey, mid-howl, imagining what it must have been like for her to feel its life leak out between her fingers. |
 
 ## 一句话总结
 

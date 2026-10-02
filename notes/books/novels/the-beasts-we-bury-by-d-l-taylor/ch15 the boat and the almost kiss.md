@@ -126,7 +126,7 @@ modified: "2026-10-02"
 | protest | 抗议 | “It’s … a form of protest, I guess. |
 | rhythm | 节奏 | The frenzied rhythm it pounds through my veins feels like an admission, one I can’t take back. |
 | flinches | 退缩 | I reach for his hand, but he flinches, and I draw back, stung. |
-| embarrassment | 避难所；藏身处 | I’m about to pull back in embarrassment when a tentative touch at my waist causes me to still. |
+| embarrassment | 难堪；尴尬 | I’m about to pull back in embarrassment when a tentative touch at my waist causes me to still. |
 
 ### ⭐ 基础
 
@@ -140,8 +140,8 @@ modified: "2026-10-02"
 | ivy | 常春藤 | The far wall is covered in windows, but they’re coated in ivy now, making an odd, leafy curtain. |
 | blanket | 毯子 | It even still boasts a blanket and some pillows, which will come in handy if the rain keeps up like this. |
 | boat | 船 | As I lean over the railing of the boat, watching him scale up its side, I ruminate on that fact. |
-| downpour | 船体 | Then the heavens open up and a torrential, freezing downpour slices the moment in half. |
-| cupboard | 舷窗 | Everything else is the same, though, from the cupboard and writing desk built into the wall to the bed tucked up under the windowpanes. |
+| downpour | 倾盆大雨 | Then the heavens open up and a torrential, freezing downpour slices the moment in half. |
+| cupboard | 碗柜；橱柜 | Everything else is the same, though, from the cupboard and writing desk built into the wall to the bed tucked up under the windowpanes. |
 
 ## 一句话总结
 
