@@ -94,10 +94,10 @@ modified: "2026-10-02"
 > **原句 8:** "I turned to art over science, story over solution."
 
 - **中文理解**：我转向艺术而非科学，转向故事而非解法。
-- **句子结构**：两个并列的介词短语，省略主语与谓语动词，只留两个方向相反的选择。
+- **句子结构**：主语 I 加谓语 turned，后接两组 over 介词短语并列；每组都用名词对名词（art/science、story/solution），动词只出现一次。
 - **关键词**：`art over science`、`story over solution`
 - **表达方式**：以两组对仗压缩整段人生转向；over 在此表"宁可……而不"，比 rather than 更短促。
-- **为什么这样写**：前一长句刚刚说完生活与求知的紧迫，紧接三个词的短句完成转折。句长本身在演示"从分析转向叙述"这个动作。
+- **为什么这样写**：前一长句刚刚说完生活与求知的紧迫，紧接一个只有九个词的短句完成转折。句长本身在演示"从分析转向叙述"这个动作。
 
 > **原句 9:** "There was no connection between us, no common sphere, yet we were suddenly and irreparably bound by a knife, an attachment that cost us both: him, his freedom; me, my wholeness."
 

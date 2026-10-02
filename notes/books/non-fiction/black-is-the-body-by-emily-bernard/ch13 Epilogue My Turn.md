@@ -8,7 +8,7 @@ modified: "2026-10-02"
 
 - **出处**：*Black Is the Body*，Emily Bernard 著，Alfred A. Knopf（Borzoi Books）2019 年出版
 - **作者**：Emily Bernard
-- **章节定位**：全书后记，不分小节，用破折号分隔成五段组；时间在母亲去世数年之后，落点在作者写这本书的最后几页
+- **章节定位**：全书后记，不分小节，用破折号分隔成两段组；时间在母亲去世数年之后，落点在作者写这本书的最后几页
 - **字符数**：本章 49 行，全书最短；出场人物只有三位——母亲克拉拉·琼、曾外婆坦皮妈妈、作者本人，外加鲍德温与艾丽斯·沃克的两段引文
 - **一句话主旨**：作者在母亲留下的诗稿里读到外婆被白人男孩扔石头的故事，她翻遍那些纸页想找的是药膏和结局，最后发现药膏就是讲述本身
 
@@ -88,7 +88,7 @@ modified: "2026-10-02"
 - **句子结构**：引语含两个并列分句，前句为 there be 句型（There isn’t any other tale to tell），后句为主系表（it’s the only light），其后再接省略关系词的定语从句 we’ve got；转述框架 James Baldwin explains 置于引号内逗号之后。
 - **关键词**：`There isn’t any other tale to tell`、`the only light we’ve got in all this darkness`、`James Baldwin explains`
 - **表达方式**：否定（没有别的）先清场，再给唯一（唯一的光）；light 与 darkness 是一对最简单的明暗喻，不加修饰。
-- **为什么这样写**：作者在找到"药膏"这个词之前先引这段话，等于让鲍德温替她说出后半句：讲述不需要新鲜，也不需要有效，它只是唯一还剩下的东西。整本书的题目《黑即是身体》在这里被反过来读——黑暗不是外部，是身体内部。
+- **为什么这样写**：作者先写出自己翻遍纸页想找的是"药膏"，随后才引这段话——鲍德温替她说出后半句：讲述不需要新鲜，也不需要有效，它只是唯一还剩下的东西。整本书的题目《黑即是身体》在这里被反过来读——黑暗不是外部，是身体内部。
 
 > **原句 7:** "But eventually the blood must resume its flow. We are helpless to stop it."
 

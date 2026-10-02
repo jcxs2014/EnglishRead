@@ -23,7 +23,7 @@ modified: "2026-10-02"
   | 州际公路边上父亲催促未婚夫换备胎、母亲与作者无声旁观 | 案例 | 支撑黑人家庭的脆弱与白人男性的身体优势被并置成同一个画面 |
   | 父亲偏好的加油站多年"没出事"，因为黑人出行必须靠前人经验选路线 | 数据 | 支撑"living white 与 living black"的差别不在个人谨慎，而在是否需要地图 |
   | 少年时代父亲警告"白人男孩只要一样东西"，作者却更在意他贬低女医生 | 案例 | 支撑她的反抗动力来自性别，与防御种族威胁无关 |
-  | 墙上并排贴着白人少年偶像与黑人球星的海报 | 案例 | 支撑她的少年偶像崇拜一开始就不分种族，只想逃离纳什维尔 |
+  | 墙上并排贴着少年偶像里夫·加勒特与瑞典网球明星博格的海报，此外她也追黑人歌手与黑人球星 | 案例 | 支撑她的少年偶像崇拜一开始就不分种族，只想逃离纳什维尔 |
   | 母亲第一次给未婚夫做那顿饭，之后独处时把整个童年讲给他听 | 案例 | 支撑厨房是把外人变成家人的唯一通道，代价是他也拿到了她的历史 |
   | 姑姨们此后每次都把餐桌堆满以"喂饱"未婚夫 | 案例 | 支撑一个外来者的入族仪式被固定成家族惯例 |
   | 夫妻相恋之地萨佩洛岛夜里遇响尾蛇、次日订婚 | 案例 | 支撑这段婚姻的起点带有明显的黑色文化浪漫底色 |
@@ -50,7 +50,7 @@ modified: "2026-10-02"
 > **原句 2:** "Somewhere between the clarity of his focus and the complexity of my father’s anxiety, perhaps, lies the difference between living white and living black in America."
 
 - **中文理解**：或许，就在他那种一心一意的单纯与我父亲那种层层纠结的忧虑之间，藏着在美国生活为白人与生活为黑人之间的那道差别。
-- **句子结构**：全句只有一个主语 lies，其主语为两个介词短语构成的对比（between the clarity… 与 the complexity…），perhaps 被孤立成一个词；宾语为 the difference between… and…，地点状语用 Somewhere 起头。
+- **句子结构**：主语是 the difference between… and…，谓语 lies，句首 Somewhere between the clarity… and the complexity… 是地点状语前置，perhaps 被逗号孤立成一个词。
 - **关键词**：`the clarity of his focus`、`the complexity of my father’s anxiety`、`lies the difference between living white and living black`
 - **表达方式**：Perhaps 被孤立成一个词；差别被安置在"某处之间"，既不指身体也不指法律，只指两人处理同一件事时用力的方式。
 - **为什么这样写**：作者把种族差异从可见的层面移到不可见的层面：换胎的是John 的专注与父亲的忧虑。作者不敢说这是全部差别，只敢说差别"在那之间"。
@@ -77,7 +77,7 @@ modified: "2026-10-02"
 - **句子结构**：首句省略主语与系动词（It was）；次句主语 It 指代 the dream，谓语 is 后接一串同位名词；破折号插入 men 的补充说明。
 - **关键词**：`It was never about the bodies`、`the foreign country of men—women, too—`、`unburdened by any talk about race`
 - **表达方式**：先立一个被否认的对象（身体），再给出一个没名字的对象（别的东西）；破折号里的 women, too 把刚才的男性特权连同女人一起推翻。
-- **为什么这样写**：作者借一批黑白混贴的海报解释自己少年时的追星：她要的既不是白人偶像也不是黑人偶像是"一种别的人生"。这一句是全篇少见的、她直接说出自己真正想要什么的时刻。
+- **为什么这样写**：作者借少年时贴在墙上的那些海报解释自己的追星：她要的既不是白人偶像也不是黑人偶像，而是"一种别的人生"。这一句是全篇少见的、她直接说出自己真正想要什么的时刻。
 
 > **原句 6:** "“My daughter doesn’t cook,” she once bragged to a friend who was clearly confused by the boast."
 
@@ -117,7 +117,7 @@ modified: "2026-10-02"
 - **句子结构**：主语为两个并列的所有格名词短语（John’s right hand 与 his left one）；两个 of 结构的补语各带一个形容词，第二个形容词后接 on the wheel。
 - **关键词**：`John’s right hand in mine`、`his left one sure and steady on the wheel`
 - **表达方式**：这不是抒情句，是操作说明：两只手各司其职；steady 与 wheel 组成一个把车开稳的完整动作。
-- **为什么这样写**：母亲在圣诞节清晨去世，作者在去机场的路上写下这个画面。全篇把婚姻的高潮交给一只手，恰好避开了"我爱你"这类承诺——她最终给出的答案是一件具体到近乎无聊的事。
+- **为什么这样写**：母亲在平安夜的早晨去世，作者在去机场的路上写下这个画面。全篇把婚姻的高潮交给一只手，恰好避开了"我爱你"这类承诺——她最终给出的答案是一件具体到近乎无聊的事。
 
 ## 词汇分级
 
