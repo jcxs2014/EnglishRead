@@ -1,0 +1,79 @@
+========== b. 逐章归属（check_chapter_quotes 逐章）==========
+  ch01 five bridges.md: 10/10 in ch01 text
+  ch02 flowers and their meanings.md: 10/10 in ch02 text
+  ch03 american realism.md: 10/10 in ch03 text
+  ch04 the hare.md: 10/10 in ch04 text
+  ch05 where are you and where is my money.md: 10/10 in ch05 text
+  ch06 love of my days.md: 10/10 in ch06 text
+  ch07 stick season.md: 10/10 in ch07 text
+  ch08 she bear.md: 10/10 in ch08 text
+  ch09 this time and the next.md: 10/10 in ch09 text
+  ch10 pretend.md: 10/10 in ch10 text
+  ch11 case study.md: 10/10 in ch11 text
+  ch12 ines.md: 10/10 in ch12 text
+  ch13 tender.md: 10/10 in ch13 text
+  ch14 earshot.md: 10/10 in ch14 text
+  ch15 the masterclass.md: 10/10 in ch15 text
+  ch16 welcome to the club.md: 10/10 in ch16 text
+  ch17 waiting a quintet.md: 10/10 in ch17 text
+  ch18 muscle to muscle toe to toe.md: 10/10 in ch18 text
+  ch19 all stories.md: 10/10 in ch19 text
+  ch20 the ghost coat.md: 10/10 in ch20 text
+
+  逐章归属：20/20 章 X/X in 本章 text  ✅
+
+========== c. 结构扫描 ==========
+--- c1 audit_structure（规定脚本）---
+=== 精读结构扫描（the-best-short-stories-2026-by-o-henry-prize-winners）===
+  扫 20 个 md、200 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+EXIT=0
+
+--- c2 check_struct_indep（第二实现·换检查路径）---
+  ❌ ch01 five bridges.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch02 flowers and their meanings.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch03 american realism.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch04 the hare.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch05 where are you and where is my money.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch06 love of my days.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch07 stick season.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch08 she bear.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch09 this time and the next.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch10 pretend.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch11 case study.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch12 ines.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch13 tender.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch14 earshot.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch15 the masterclass.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch16 welcome to the club.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch17 waiting a quintet.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch18 muscle to muscle toe to toe.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch19 all stories.md: [summary] 引语块 0 个，超出 3–8 配额
+  ❌ ch20 the ghost coat.md: [summary] 引语块 0 个，超出 3–8 配额
+=== 独立结构扫描：20 个 md，缺陷 20 处 ===
+EXIT=1
+
+--- c3 check_block_coverage（块覆盖对账：md 引语块是否被 verify_quotes 漏抽）---
+✅ 块覆盖对账：20 个文件，每块都进了 verify_quotes 校验
+EXIT=0
+
+========== c. 结构扫描（第二实现，修工具后重跑）==========
+=== 独立结构扫描：20 个 md，缺陷 0 处 ===
+EXIT=0
+
+######## 工具修复记录（假红型 ⇒ 先修工具，不许改 md）
+症状：20 章全量报「[summary] 引语块 0 个，超出 3–8 配额」
+根因：check_struct_indep 只有 summary（4 子项 / 3-8 块 / `> **原句 N:**`）与 nonfiction 两档；
+      短篇合集（10 块 × 五子项 × 裸圈码 `① "…"`）无对应档位 ⇒ 回退 summary ⇒ QRE 认不出 ⇒ 块数 0 ⇒ 假红，
+      且连带子项检查整段空转（假阴性比假红更坏）。与 2026-09-30 An Army 那次同型。
+修法：新增 `anthology` 档（特征节 `## 精读结束总结` + `## 可迁移表达` 双命中，QRE 认裸圈码，配额 10–10）；
+      判定顺序 nonfiction → anthology → summary。
+负控：anthology 必须**由「能解析它」自证**（QRE 认不出块就换档）——否则格式混杂的遗留书
+      the-passing-of-the-dragon-by-ken-liu（12 章用 `## 本篇导航`+`原句 N:`，仅 1-2 章带特征节）
+      会被抢档，那 1-2 章块数 0 ⇒ **缺陷数 56 静默降到 54**（少查比多报更坏）。
+第一版守卫写错：对 nonfiction 也加了 QRE 自证，而 nonfiction 的 QRE 只认粗体 `**①** "…"`，
+      两本非虚构书用裸 `① "…"` ⇒ 被一票否决，缺陷数 70→118 / 50→173 乱跳。
+      **修工具只改必要的那一处**：守卫最终只约束新增的 anthology。
+验证：投毒 5 例（干净版 0 / 子项缺失 / 编号不连续 / 块数 9 超配额 各报出；`>` 越界不适用本档）；
+      全库 364 本逐本新旧对比，**仅目标书变化（20 假红→0），其余 363 本零回归**。

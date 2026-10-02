@@ -80,6 +80,26 @@ PROFILES = {
         "RANGE": (3, 8),
         "MARK": ["## 本章导航", "## 精读"],
     },
+    # ⚠️ 2026-10-02（The Best Short Stories 2026 五步审查）新增第三档：**短篇合集档**。
+    # 症状：无此档时本类书回退 summary ⇒ summary 的 QRE 只认 `> **原句 N:**`，
+    # 而本类用裸圈码 `① "…"` ⇒ **引语块恒为 0**，且 0 落在 3–8 之外
+    # ⇒ 20 章全量报「引语块 0 个，超出 3–8 配额」**假红**，连带子项检查整段空转
+    # （假阴性比假红更坏：它报 0 缺陷而实际没查）。
+    # 与 nonfiction 同型：2026-09-30（An Army）已给 nonfiction 补了「两种抬头都认」，
+    # 本档同样需要**认自己的抬头 + 用自己的块数配额**（本库体裁对应格式表：
+    # 短篇合集＝逐篇精读 **10 处** 五子项，与长篇精简档的 3–8 处不是一回事）。
+    # 特征节取本档**独有**的 `## 精读结束总结` + `## 可迁移表达`，两者皆须命中，
+    # 避免与只写 `## 导航/## 精读/## 词汇/## 一句话总结` 的长篇小说精简档抢档。
+    "anthology": {
+        "H2": ["## 本章导航", "## 精读", "## 本章词汇", "## 精读结束总结", "## 可迁移表达", "## 一句话总结"],
+        "READ": "## 精读",
+        "SUB": ["中文理解", "句子结构", "关键词", "表达方式", "为什么这样写"],
+        #    裸圈码 `① "…"`（同系列 2024 册与本书一致）；`>` 前缀形态不属本档。
+        "QRE": re.compile(r'^([①-⑳])\s+"(.+)"\s*$', re.M),
+        "NUM": lambda m: _circled_index(m.group(1)),
+        "RANGE": (10, 10),
+        "MARK": ["## 精读结束总结", "## 可迁移表达"],
+    },
 }
 
 
@@ -90,12 +110,37 @@ def _has(s, h):
 
 
 def detect_profile(s):
-    """按**特征节**认档位（不是比数量）。nonfiction 优先——它才是新增的那一档。
-    认不出 → None（退回 summary 原行为，见 main）。"""
-    if all(_has(s, m) for m in PROFILES["nonfiction"]["MARK"]):
-        return "nonfiction"
-    if any(_has(s, m) for m in PROFILES["summary"]["MARK"]):
-        return "summary"
+    """按**特征节**认档位（不是比数量）。nonfiction → anthology → summary 依次判定。
+    认不出 → None（退回 summary 原行为，见 main）。
+
+    ⚠️ 顺序不可随意调：anthology 的特征节比 summary **更严**（两个独有节都要命中），
+    但仍排在 summary 之前——若 summary 先判，`## 本章导航`+`## 精读` 会把短篇合集抢进
+    3–8 配额档，重新制造 2026-10-02 修掉的那条假红。
+
+    ⚠️ **2026-10-02 加负控（只约束新档位）**：特征节命中**不等于**该档位的引语抬头能被
+    认出来。实测 the-passing-of-the-dragon-by-ken-liu 是**格式混杂的遗留书**（13 章里
+    12 章用 `## 本篇导航` + `> **原句 N:**`，仅 1–2 章带 anthology 的两个特征节），
+    按特征节认档会把它那 1–2 章判成 anthology，而它们用 `原句 N:` 抬头 ⇒
+    **QRE 抽到 0 块 ⇒ 缺陷数 56 静默降到 54**。那个方向比假红更坏：**不是多报，是少查**。
+    ⇒ anthology 必须**由「能解析它」自证**：QRE 认不出块就换下一档。
+
+    ⚠️⚠️ **守卫只对 `anthology` 生效，绝不碰 nonfiction**（这是第一版写错的地方）：
+    我一度对两个档案都加 QRE 守卫，结果 what-the-bees-see / why-we-read 两本**非虚构论述书**
+    从 nonfiction 掉成 None —— 因为 nonfiction 的 QRE 只认粗体 `**①** "…"`，
+    而那两本用**裸** `① "…"`，于是被守卫一票否决、缺陷数 70→118 / 50→173 乱跳。
+    **nonfiction 一直是「按特征节认、不要求 QRE 自证」**，那是它的既定契约（也是 2026-09-30
+    An Army 那次只给它补 QRE、不动认档逻辑的原因）。**修工具只改必要的那一处。**
+    """
+    for name in ("nonfiction", "anthology", "summary"):
+        P = PROFILES[name]
+        marks = P.get("MARK")
+        ok_marks = all(_has(s, m) for m in marks) if name != "summary" \
+            else any(_has(s, m) for m in marks)
+        if not ok_marks:
+            continue
+        if name == "anthology" and not P["QRE"].search(s):
+            continue          # 负控只约束新增档位
+        return name
     return None
 
 
