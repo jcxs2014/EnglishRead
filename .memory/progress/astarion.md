@@ -12,8 +12,8 @@
 
 | 批 | 章 | 状态 | commit |
 |---|---|---|---|
-| 1 | ch01–ch03 | pending | |
-| 2 | ch04–ch06 | pending | |
+| 1 | ch01–ch03 | completed | 79d24c660（ch01）· 批1 待提交 |
+| 2 | ch04–ch06 | in_progress | ch04 已写，门禁全绿 |
 | 3 | ch07–ch09 | pending | |
 | 4 | ch10–ch12 | pending | |
 | 5 | ch13–ch15 | pending | |
