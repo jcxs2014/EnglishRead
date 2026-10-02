@@ -131,8 +131,8 @@ source_text: "text/ch16 16 the porch furniture.txt"
 > **原句 17:** He was always leaning on something, like he couldn’t bear to hold all his own weight upright for more than a second or two.
 
 **中文理解：**他总是靠着什么东西，仿佛他无法忍受靠自己站着超过一两秒。
-**关键词：**always leaning on something / couldn’t bear to / hold his own weight upright
-**为什么这样写：**`couldn’t bear to`（无法忍受）后面接 `hold his own weight upright`（独自撑住自己的重量、直立站着），`bear`（承受）在动词与宾语里各出现一次，构成词根呼应。`always`（总是）把一个姿态写成**长期状态**，而 `for more than a second or two`（不超过一两秒）用**极小的时长**让这个状态变得可观测。
+**关键词：**always leaning on something / couldn’t bear to / hold all his own weight upright
+**为什么这样写：**`couldn’t bear to`（无法忍受）后面接 `hold all his own weight upright`（独自撑住自己的重量、直立站着），`bear`（承受）在动词与宾语里各出现一次，构成词根呼应。`always`（总是）把一个姿态写成**长期状态**，而 `for more than a second or two`（不超过一两秒）用**极小的时长**让这个状态变得可观测。
 **读者视角提示：**同章后文她回望大学时代对他的判断（`In college, I’d thought he was lazy about everything except writing.`），并在接近结尾处换了一种解释——这是她的**读法更换**，不是事实更换，两种读法都只能按本章原文写。
 
 > **原句 18:** It’s good to see you.

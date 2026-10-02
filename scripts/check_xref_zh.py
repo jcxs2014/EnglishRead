@@ -17,6 +17,12 @@ import os
 import re
 import sys
 
+# 收口：提取件定位统一走 chapter_text_path 唯一实现（分隔符 _ . 空格 + 章号 1/2/3/4 位）。
+# ⚠️ 2026-10-02：此文件是**收口时漏掉的第 9 处**——它从没被跑过，所以从不报错，
+#    也就没进「同一缺陷共 8 处」的统计。Beach Read 终验补跑时立刻 IndexError 崩掉。
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from chapter_text_path import find_chapter_text
+
 book = sys.argv[1]
 full = "--full" in sys.argv
 REL = re.compile(r"上一章|下一章|前一章|后一章|上章|下章|序章|开篇|尾声|结尾|本章前|几章前|"
@@ -36,18 +42,21 @@ for f in sorted(glob.glob(f"{book}/ch*.md"),
     n = int(re.search(r"ch(\d\d)", f).group(1))
     txt = open(f, encoding="utf-8").read()
     # 本章 text/ 也 flat 化，用于区分「他章才有」与「全书都没有」
-    own = re.sub(r"[^a-z0-9]", "", open(
-        glob.glob(f"{book}/text/ch{n:02d}_*.txt")[0], encoding="utf-8").read().lower())
+    _own_t = find_chapter_text(book, n)
+    if not _own_t:
+        print(f"❌ {os.path.basename(f)}  找不到本章 text/ 提取件（ch{n}）")
+        continue
+    own = re.sub(r"[^a-z0-9]", "", open(_own_t, encoding="utf-8").read().lower())
     for i, line in enumerate(txt.split("\n"), 1):
         # ① POV 断言核对：说「chNN，XXX 视角」就得那章真是这个 POV
         for m in POVREF.finditer(line):
             tgt, who = int(m.group(1)), m.group(2)
             if tgt == n or not (1 <= tgt <= 99):
                 continue
-            tp = glob.glob(f"{book}/text/ch{tgt:02d}_*.txt")
+            tp = find_chapter_text(book, tgt)
             if not tp:
                 continue
-            src = open(tp[0], encoding="utf-8").read()
+            src = open(tp, encoding="utf-8").read()
             counts = {w: len(re.findall(rf"\b{w}\b", src)) for w in ("Althea", "Hannah", "Viv")}
             real = max(counts, key=counts.get)
             if who.capitalize() != real:
@@ -60,12 +69,12 @@ for f in sorted(glob.glob(f"{book}/ch*.md"),
             tgt, phrase = int(m.group(1)), m.group(2).strip()
             if tgt == n or not (1 <= tgt <= 99):
                 continue
-            tp = glob.glob(f"{book}/text/ch{tgt:02d}_*.txt")
+            tp = find_chapter_text(book, tgt)
             if not tp:
                 print(f"❌ {os.path.basename(f)}:{i}  指向 ch{tgt:02d}（该章 text/ 不存在）")
                 miss += 1
                 continue
-            tflat = re.sub(r"[^a-z0-9]", "", open(tp[0], encoding="utf-8").read().lower())
+            tflat = re.sub(r"[^a-z0-9]", "", open(tp, encoding="utf-8").read().lower())
             p = re.sub(r"[^a-z0-9]", "", phrase.lower())
             if p in tflat:
                 ok += 1

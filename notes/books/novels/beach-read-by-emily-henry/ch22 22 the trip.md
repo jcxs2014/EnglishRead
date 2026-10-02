@@ -10,7 +10,7 @@ source_text: "text/ch22 22 the trip.txt"
 
 - **一句话概括**：独立日当天她在 Pete 与 Maggie 的派对上找不到他，回程路上两人一路别扭；第二天暴雨里她仍跟他去了 New Eden 旧址，在被烧毁的现场她拒绝回帐篷、只说一句「我在这儿」；帐篷里他交代了神秘电话是律师打来的、离婚还没办完，也交代了他大学时那些「她从来不看我」的细节，最后他说「我要你，在所有意义上」。
 - **情感弧线位置**：**高潮**——本章是全书感情线的**结算章**：ch21 之后的所有误会在此逐条拆除（`It wasn't about you. Not even a little bit.`），而拆除的方式不是道歉，是**一段冗长的自我诊断**（`I'm on medicine. I'm in therapy.`）。上一章的「我设想过被扔掉」在此被直接命名并否定。
-- **Tropes 兑现/反转**：**Rescue Me 反转**（她拒绝当拯救者：`I knew I was not the Magical One`，本章进一步变成「我陪你下去」）；** villain 缺席的村庄**（New Eden 旧址是一个**已被判了死刑的犯罪现场**，两人把那里当作试炼场）；**护送式陪伴 的强制撤离**（`“You can go back to the tent,” he said gruffly. “You don’t need to see this.”` 被她用「我在这儿」否决）；**壁咚的反向版**（`if he was descending into the darkness, I was going to tie a rope between our waists and go down with him`）。
+- **Tropes 兑现/反转**：**Rescue Me 反转**（她拒绝当拯救者：ch21 那句 `I knew I was not the Magical One…`，本章进一步变成「我陪你下去」）；** villain 缺席的村庄**（New Eden 旧址是一个**已被判了死刑的犯罪现场**，两人把那里当作试炼场）；**护送式陪伴 的强制撤离**（`“You can go back to the tent,” he said gruffly. “You don’t need to see this.”` 被她用「我在这儿」否决）；**壁咚的反向版**（`if he was descending into the darkness, I was going to tie a rope between our waists and go down with him`）。
 - **人物弧线**：January 从「必须先被选中」走到**主动选择留下**（`I'm here.`），并第一次说出条件式的要求：`Tell me what you want.`（告诉我你想要什么。）Gus 则从「用不作为保护自己」走到**用最长的句子保护自己**——他的告白是**一份带清单的自白书**（medicine／therapy／smoking／meditation／divorce）。
 - **叙事手法**：**暴雨 + 徒步**的物理节奏（作者用路程长度分配对话密度）；**两处静默的并置**（`Went, I thought.` / `Burned, I thought.` 是全章最短的两句，也是最重的一处修正）；**结尾用动作代替宣言**（`his hands swept across my back`）。
 
@@ -19,7 +19,7 @@ source_text: "text/ch22 22 the trip.txt"
 > **原句 1:** From your first real conversation, Gus made it clear he wasn’t the type to expect anything from, January. The kind not even you were capable of romanticizing.
 
 **中文理解：**从你们第一次真正的对话起，Gus 就让你明白，他不是那种会对 January 抱有任何期待的人。你甚至不具备把这种人浪漫化的能力。
-**关键词：**the first real conversation / wasn’t the type to expect anything from / not even you were capable of romanticizing
+**关键词：**your first real conversation / wasn’t the type to expect anything from / not even you were capable of romanticizing
 **为什么这样写：****两个否定叠加成一个褒义**：`wasn't the type to expect anything from`（不是那种会期待什么的人）表面是贬义，但 `The kind not even you were capable of romanticizing`（这种人连你都浪漫化不了）用 `not even`（连……都不）把她**排除在被误读的危险之外**——她不是在自贬，是在**替他挡掉那种幻想**。
 **读者视角提示：**注意这段是**她此刻的总结**（过去时 `made it clear`），而整章后面他给出的解释会**部分推翻**它——他说自己当年不是不在意，而是**在意到不敢期待**。
 

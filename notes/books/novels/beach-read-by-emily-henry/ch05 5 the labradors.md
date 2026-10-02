@@ -63,7 +63,7 @@ source_text: "text/ch05 5 the labradors.txt"
 **中文理解：**而且就算她世界观的那一部分正在休一个短假，「有时候心碎的女人也会找到她们的幸福结局、她们的落雨、音乐涌起的纯粹幸福时刻」这件事也一定是真的。
 **关键词：**taking a brief sabbatical / it had to be true / heartbroken women found their happy endings / rain-falling, music-swelling
 **为什么这样写：****`taking a brief sabbatical`（在休一个短假）把「世界观」写成一个**会去休假的员工**——这是全章最漂亮的一处**主谓错位式幽默**（世界观不是人，却能请假）。`it had to be true that …` 用**双重强调**（`had to be` 的必要性 + `true` 的真值）把她从一个怀疑者写成**下断言的人**。`their rain-falling, music-swelling moments` 用 `their` 复数指代「心碎的女人」们——这个 `their` 是**英语里少见的「她们的（多个人的）」**用法，把一个类型变成了一个群体。
-**读者视角提示：**`rain-falling, music-swelling` 这组复合形容词是 ch01 `melodramatic soundtrack` 与 `whisked off to go dancing` 的**具体化版本**：ch01 给的是清单，这里给的是**她自己书里的两个镜头**。
+**读者视角提示：**`rain-falling, music-swelling` 这组复合形容词是 ch01 `melodramatic soundtrack` 与 `whisk you off to go dancing` 的**具体化版本**：ch01 给的是清单，这里给的是**她自己书里的两个镜头**。
 
 > **原句 8:** Maybe some version of Pete would make it into the book.
 

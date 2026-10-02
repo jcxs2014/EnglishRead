@@ -69,7 +69,7 @@ source_text: "text/ch06 6 the book club.txt"
 
 **中文理解：**他就算看起来像个大学生高年级的替补毒贩（以防第一个去了棕榈滩），也还是会被比我穿那身拘谨的 Michael Kors 连衣裙时更当真。
 **关键词：**a college junior's backup pot dealer / in Myrtle Beach / my stuffy Michael Kors dress
-**为什么这样写：****一个超长的同位语插进比喻里**——`a college junior's backup pot dealer` 后面立刻跟一个括号 `(for when the first one is in Myrtle Beach)`（万一第一个在棕榈滩呢），括号的作用是**补完这个比喻的行政细节**，把荒诞落实得像一份**工作计划**。`Myrtle Beach`（棕榈滩）在这里是**大学生春假的代名词**，作者用地点代替「他不在」。`still get taken more seriously than I would`（还是会被比……更当真）把主语从「他」悄悄换成**比较的对象是我**，而 `in my stuffy Michael Kors dress`（穿着拘谨的名牌裙）把**她的失败也具体成一件衣服**。
+**为什么这样写：****一个超长的同位语插进比喻里**——`a college junior's backup pot dealer` 后面立刻跟一个括号 `(for when the first one was in Myrtle Beach)`（万一第一个在棕榈滩呢），括号的作用是**补完这个比喻的行政细节**，把荒诞落实得像一份**工作计划**。`Myrtle Beach`（棕榈滩）在这里是**大学生春假的代名词**，作者用地点代替「他不在」。`still get taken more seriously than I would`（还是会被比……更当真）把主语从「他」悄悄换成**比较的对象是我**，而 `in my stuffy Michael Kors dress`（穿着拘谨的名牌裙）把**她的失败也具体成一件衣服**。
 **读者视角提示：**`backup pot dealer`（替补毒贩）里的 `backup`（替补）说明这个比喻的**笑点在「备」**——他连当主力都不需要，替补身份就够压过她。
 
 > **原句 9:** He might as well have just sent in a dick pic.
@@ -90,7 +90,7 @@ source_text: "text/ch06 6 the book club.txt"
 
 **中文理解：**他看上去与其说是震惊，不如说是觉得好笑，像是在想是不是有人在拿他开玩笑，但又不确定到足以当面点破。
 **关键词：**didn't look horrified so much as bemused / wasn't confident enough to call it out
-**为什么这样写：****`not so much A as B`（与其说 A 不如说 B）** 是英语里修正判断的常用框架，但这里的妙处在于**被修正的不是词而是表情**：`horrified`（震惊）是**主角的标准反应**，`bemused`（被逗乐/困惑）是**他实际的表情**，而这个错位正是全章喜剧的来源——**他们讨论的根本不是他的书**。`not confident enough to call it out yet`（还不够有把握点破它）用一个 `enough` 把「不点破」写成**审慎的克制**，而不是迟钝。
+**为什么这样写：****`not so much A as B`（与其说 A 不如说 B）** 是英语里修正判断的常用框架，但这里的妙处在于**被修正的不是词而是表情**：`horrified`（震惊）是**主角的标准反应**，`bemused`（被逗乐/困惑）是**他实际的表情**，而这个错位正是全章喜剧的来源——**他们讨论的根本不是他的书**。`wasn’t confident enough to call it out yet`（还不够有把握点破它）用一个 `enough` 把「不点破」写成**审慎的克制**，而不是迟钝。
 **读者视角提示：**`bemused`（被逗乐）这个词**偏向被取悦**，说明他当时**并没有觉得被冒犯**——与他 ch01 那种「两小时不承认她存在」的姿态不同，此时他**在等**。
 
 > **原句 12:** Operation Skyforce. The Moscow Game. Deep Cover. Red Flag. Oslo After Dark.
