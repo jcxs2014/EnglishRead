@@ -62,17 +62,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-02 12:21 UTC] [Qoder-Mac] → All
 
-- **完工**：29/29 章（ch01–ch28 + Epilogue）+ 总览三篇（概述 / 金句25 / 情感节点10）= **32 md**；`text/` 29 件，**md 29 == text 29 对账通过**。体裁 YA 奇幻长篇（Henry Holt / Fierce Reads 2025），精简格式。
-- **门禁（gate.sh A 组 15 项 GATE_EXIT=0）**：verify_quotes **224/224（100%）· 干净 29/29** · check_vocab **1026 词条 FAIL 0**（WARN 17 全为长度≥9 启发式，提示型）· entities 0 · corruption 0 · sweep_full 本章命中 224 / 跨章 0 / 拼接 0 / 查无 0 · 短引语 3/3 · 逐章归属 **29/29** · 块覆盖 29/29 · 结构 0 · 凭空造词 0 · 空段 0 · 总览 verify_overview_quotes **40/40** · check_overview_full 整串 49 命中 / 0 查无 / 标签 48 对 0 不符 / H1 0 错配。
-- **结构勘定（程序化读出，非凭印象）**：正文 29 件 = spine 39 − 5 front − 5 back。**双 POV 奇偶交替，但 ch27/ch28/Epilogue 三章连着都是 Mancella 视角**；每章倒计时副标题递减，**ch08(10 天)→ch09(8 天) 少两天，书内如此不圆**；ch27·28 的 NCX 标签同名，只能靠 keyplot 区分。
-- **语料层**：`verify_corpus` PASS（29 件对账 + 29 组锚点双向）。锚点用**各章开头句程序化生成**（单章专名池 ch21/27/28 为 0），投毒两例证明该层会报（合并/拆分均被抓）。
-- **三处工具级修复入库**：`build_vocab_table` 的 NameError（该工具对任何书都跑不了）· `gen_overview` 的 `{P:}` 空承诺（模板写中文理解就一条都生成不出来）· 档标题写裸星会让 `check_vocab` 分档检查整项静默失效。
-- ⭐ **门禁全绿下仍查出并修掉的语义缺陷**（六道门禁结构上看不见）：ch24 一句话概括的**主体错配**（笑的是 Mance 给 Silver）+ **关系错配**（「兄弟俩」实为 Silver 与 Mance）+ 漏写 Prime Merod 在场；ch16 代词指向错；ch23 撇号字形 5 处；ch24 分析层多加连词；ch20「全书最短的一章」证伪。
-- ⭐ **身份坑**：`Mance` 是 **Silver 对 Mancella 的昵称**，不是第三个人（ch09 原文明写 + 全书分布印证）。据此修掉总览三篇里 5 处误认。
-- **总览层已钉死的不许断言**：结局没给结果不补；父亲生死原文没写不写；**ch25 与 ch26 谁在位书内自相矛盾，本项目不裁决**；Guerre 归属、Alect 分身代价与去向、Mara 的镯子、Sangua 死因、爆炸物归属均不下判断。
-- **commit**：`c3166f010`（29 章 + 总览 + raw-gates 原件）· `160801a1a`（清 ch06/ch08 改名遗留的孤儿路径）· 另有工具修复 3 笔与中途批次若干。**未 push。**
-- **五步审查未做（待用户发起）**。门禁原件：`.memory/raw-gates/the-beasts-we-bury-by-d-l-taylor/2026-10-02-完工门禁.txt` 与 `…第3条门禁逐项.txt`（均已入库）。
-- 明细见工作日志 `.memory/daily/2026-10-02.md`「The Beasts We Bury」专节（含三个自建检查器的投毒自证与 bug 史）。
+- **完工**：29/29 章（ch01–ch28 + Epilogue）+ 总览三篇（概述 / 金句25 / 情感节点10）= **32 md**；`text/` 29 件，**md 29 == text 29 对账通过**。YA 奇幻长篇（Henry Holt / Fierce Reads 2025），精简格式。
+- **门禁（gate.sh 15 项 GATE_EXIT=0）**：verify_quotes **263/263（100%）· 干净 31/31** · check_vocab **1026 词条 FAIL 0**（WARN 17 全为长度≥9 启发式，提示型）· entities 0 · corruption 0 · sweep_full 本章命中 224 / 跨章 0 / 拼接 0 / 查无 0 · 短引语 3/3 · 逐章归属 **29/29** · 块覆盖 29 · 结构 0 · 凭空造词 0 · 空段 0 · 分析层行内英文 **1033 条全逐字 / 零命中 0** · 总览 verify_overview_quotes 40/40 · check_overview_full 整串 49 命中 0 查无 / 标签 48 对 0 不符 / H1 0 错配。
+- **主会话三检查器（均先投毒自证）**：A 类阻断型 **0** · 关键词 225 块 0 未锚定 · 专名 0 伪造。
+- **结构勘定（程序化读出）**：正文 29 件 = spine 39 − 5 front − 5 back。**双 POV 奇偶交替，但 ch27/ch28/Epilogue 连着都是 Mancella 视角**；倒计时递减，**ch08(10 天)→ch09(8 天) 少两天，书内如此不圆**；ch27·28 的 NCX 标签同名，只能靠 keyplot 区分。锚点用各章开头句程序化生成（单章专名池 ch21/27/28 为 0），投毒两例证明该层会报。
+- ⭐ **门禁全绿下仍查出并修掉的语义缺陷**（结构上机器看不见）：ch24 一句话概括**主体错配**（笑的是 Mance 给 Silver）+ **关系错配**（「兄弟俩」实为 Silver 与 Mance）+ 漏写 Prime Merod 在场；ch16 代词指向错；ch23 撇号字形 5 处；ch24 分析层多加连词（语法级插入，指纹与 flat 双放过）；ch20「全书最短」证伪；**Mance 是 Silver 对 Mancella 的昵称而非第三人**（据此修掉总览 5 处误认）。代理侧另自查修掉 ch14 人称写反、ch12 引语末尾无句读、ch11 `It's breathes` 等 5 类。
+- **三处工具级修复入库**：`build_vocab_table` 的 NameError（该工具对任何书都跑不了）· `gen_overview` 的 `{P:}` 空承诺 · 档标题写裸星会让 `check_vocab` 分档检查整项静默失效。
+- **总览八条不许断言已反向计数确认 0 违规**：结局没给结果不补；父亲生死原文没写不写（ch25 `From your prison cell.` 是**威胁句**）；**ch25 与 ch26 谁在位书内自相矛盾，不裁决**；Guerre 归属、Alect 分身代价与去向、Mara 的镯子、Sangua 死因、爆炸物归属均不下判断。
+- ⚠️ **一次「完工判定早于最后一次写入」的纠正**：原代理 G2 在主会话 14:22 宣告完工后，于 **14:27** 才落下 ch09–ch15 终版。已复跑全量门禁、重生成 raw-gates 原件并补提交（`fed5f9090`），上方数字为复跑后终值。
+- **commit**：`fed5f9090`（终版）· `c3166f010`（29 章+总览+原件）· `160801a1a`（清 ch06/ch08 孤儿路径）· `1dd3751c9`（板与日志）＋工具修复 3 笔。**未 push。**
+- **五步审查未做（待用户发起）**。原件：`.memory/raw-gates/the-beasts-we-bury-by-d-l-taylor/2026-10-02-完工门禁.txt` 与 `…第3条门禁逐项.txt`（已入库）。明细见工作日志 `.memory/daily/2026-10-02.md`「The Beasts We Bury」专节。
 
 ### [2026-10-02 12:16 UTC] [DSH-Mac] → All
 
