@@ -138,7 +138,7 @@ modified: "2026-10-02"
 | caress | 抚摸（动词） | I sit down, caress my coffee cup, and watch the people passing by, imagining the stories they carry. |
 | brace | 做好准备（动词） | I brace myself and wait for some mention of Aguilar’s race but there is none. |
 | saunters | 闲逛（动词 saunter 的第三人称单数） | A white businessman with his suit jacket hooked over his shoulder saunters past me toward the window. |
-| reel off | 一口气报出（动词短语） | Everywhere around me are black men: travelers and workers, manning kiosks and computers, reeling off flight information into microphones. |
+| reeling off | 一口气报出（动名词短语） | Everywhere around me are black men: travelers and workers, manning kiosks and computers, reeling off flight information into microphones. |
 | brazenly | 厚着脸皮地（副词） | Brazenly, I insist on a secondary kinship by showing her pictures of my daughters, who were born in her country. |
 | acutely | 敏锐地（副词） | In this moment, I am acutely aware that, in the not-so-distant past, relatively speaking, relative to the history of the human race, that is, a black woman stepping in front of a white man would have been a consequential act. |
 | choreography | 编排、走位（名词） | But maybe he, too, is considering my act as one with historical significance. Maybe he, like me, marvels at the transformation in the choreography of race relations, and how remarkable it is, the way things have turned out. |
@@ -173,7 +173,7 @@ modified: "2026-10-02"
 | wills | 遗嘱（名词） | Aunt Julia, Warren, and I pass Town Hall and the library where, thirty years ago, I spent hours looking through old newspapers, census reports, and wills, trying to find evidence of the interracial love affair that began the Jefferson family line. |
 | agonize | 苦苦纠结（动词） | My cousin dropped me off most of the time, but sometimes I would borrow my grandmother’s brown Chevy and drive right by Town Hall into downtown Hazlehurst, where I would park, walk around, and agonize over my research. |
 | threshold | 门槛（名词） | But I could not enter; I could not find my way across the threshold. |
-| butt heads | 顶牛（动词短语） | My wild idealism butted heads with my grandmother’s pessimism. |
+| butted heads | 顶牛（动词短语） | My wild idealism butted heads with my grandmother’s pessimism. |
 | agitators | 鼓动者（名词） | Like some other black southerners of her generation, she saw civil rights activists as outside agitators who did more harm than good to southern race relations. |
 | vestiges | 残余（名词） | I saw her attitudes as sad vestiges of the past. |
 | wreaked | 造成（动词 wreak 的过去式） | But I didn’t know anything about her particular past. I didn’t know, for instance, that among the civil rights activists who came to organize the citizens of Hazlehurst were outside agitators who wreaked havoc on her community. |
