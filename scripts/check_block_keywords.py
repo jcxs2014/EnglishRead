@@ -88,6 +88,41 @@ def paras(text: str):
     return [p.strip() for p in text.split('\n\n') if p.strip()]
 
 
+# ⚠️ 2026-10-02（另一实例回报 the-beasts-we-bury 整类假红后定位）：
+#   ① 分隔符集合 `[；;／/·、]` **漏了逗号**——该书 224/225 行关键词用 `,` 分隔，
+#      整行被当成**一个**关键词去引语里找，必报不在（全库 79754 条关键词行里逗号 15491）。
+#      但逗号**不能无条件当分隔符**：`（her, 2003）` 这类括号注释内部含逗号，
+#      切开会得到「（her」这种残片 ⇒ 判据改成**括号外才算分隔符**（括号内含逗号者全库仅 11 条）。
+#   ② 原实现只对**关键词**剥括号，命中判据是「剥括号后的关键词 ∈ 引语」——`(she?)` 这类
+#      **分析者自加的旁注**因此能匹配。但它**不能反过来剥引语的括号**：括号也可能是
+#      **原文自带的插入语**（ch17 `(whether intentionally or not)`、ch20 `(as punishment…)`
+#      都在 text/ 里逐字存在）⇒ 剥引语会把原文内容删掉，真实关键词反而报不在。
+#      正解是**或**关系：关键词原样命中、或剥括号后命中，任一成立即算命中。
+_BRACKET = re.compile(r"（[^）]*）|\([^)]*\)")
+_SEP = set("；;／/·、,")
+
+
+def _split_kw(s: str) -> list:
+    """按 `；;／/·、` 与**括号外**的 `,` 切分关键词；括号深度内的字符一律并入当前词。"""
+    out, buf, depth = [], [], 0
+    for ch in s:
+        if ch in "（(":
+            depth += 1
+        elif ch in "）)":
+            depth = max(0, depth - 1)
+        if depth == 0 and ch in _SEP:
+            out.append("".join(buf))
+            buf = []
+        else:
+            buf.append(ch)
+    out.append("".join(buf))
+    return [x.strip() for x in out if x.strip()]
+
+
+def _flat(x: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", x.lower())
+
+
 def check(md: Path, book: Path):
     m = re.search(r'ch(\d+)', md.name)
     if not m:
@@ -185,8 +220,7 @@ def check(md: Path, book: Path):
         # 整个 `a（甲）、b（乙）` 被当成**一个**关键词，恒查无 ⇒ 310 条假红
         # （the-wrong-sister 全书命中）。顿号不会出现在英文词组内部，可以安全切分；
         # **`,` / `，` 不加**——它们是英文短语自身的成分（`multi-claim, hedging` 是一个词条）。
-        kws = [k.strip() for k in re.split(r"[；;／/·、]", KW_RE.search(block).group(1)) if k.strip()] \
-            if KW_RE.search(block) else []
+        kws = _split_kw(KW_RE.search(block).group(1)) if KW_RE.search(block) else []
         # ⚠️ 2026-10-02（Beach Read 修完 text 侧后仍报 7 条时定位）：上一版只把**引语**归一
         # （qn），关键词却仍拿**原样** k 去比 **原样** q ⇒ md 用直撇号 `'`、正文用弯撇号
         # `’` 时必然查无。两侧必须走**同一个** norm()——判据不变，只统一口径。
@@ -197,10 +231,9 @@ def check(md: Path, book: Path):
         # 破折号并折叠空白、**不剥句点与逗号** ⇒ 引语里逐字存在的词被报「不在块内」
         # （实测 5 条假红）。判据不变（每个关键词仍须能在本块引语内找到），
         # 只把两侧都归一到字母数字，与 check_chapter_quotes / sweep_full 同口径。
-        def _flat(x: str) -> str:
-            return re.sub(r'[^a-z0-9]', '', x.lower())
+        _qflat = _flat(qn)
         miss = [k for k in kws
-                if _flat(re.sub(r"（[^）]*）|\([^)]*\)", "", k)) not in _flat(qn)]
+                if _flat(k) not in _qflat and _flat(_BRACKET.sub("", k)) not in _qflat]
         if miss:
             out.append(f"{md.name} 原句{num}: 关键词不在本块引语内 → {miss}")
     return out
