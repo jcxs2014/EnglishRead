@@ -1,0 +1,25 @@
+════════ c 步：结构扫描 ════════
+
+──── audit_structure（⚠️ 子项检查是假阴性高发点，0 ≠ 子项齐全）────
+  扫 31 个 md、259 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+  ⚠️ ch13 13 the dream.md  引语 1 个，与本书众数 8 相差过大
+
+──── check_struct_indep（第二实现，d 步机械子项必须用它）────
+  ❌ ch13 13 the dream.md: [summary] 词汇档位标题缺「### ⭐ 基础」
+  ❌ ch13 13 the dream.md: [summary] 引语块 1 个，超出 3–8 配额
+=== 独立结构扫描：28 个 md，缺陷 3 处 ===
+
+──── check_overview_full（总览三篇；无 epub 时手 grep 兜底）────
+  F 无引号引语标签：对 16 ｜ 不符 0（**只报不判红**）｜ 跳过 35
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+──── 手 grep 兜底：00_*.md 的 H1 必须与文件语义一致 ────
+notes/books/novels/beach-read-by-emily-henry/00_情感节点.md:# 《Beach Read》情感节点
+notes/books/novels/beach-read-by-emily-henry/00_概述.md:# 《Beach Read》概述
+notes/books/novels/beach-read-by-emily-henry/00_金句精选.md:# 《Beach Read》金句精选
+
+──── check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）────
+  带前缀的 `> **原句 N:**` 行：28 个文件共 217 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏

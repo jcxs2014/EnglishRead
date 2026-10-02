@@ -1,0 +1,31 @@
+════════ b 步：逐章归属（check_chapter_quotes 逐章调用）════════
+  ch01: ch01 1 the house.md: 8/8 in ch01 text
+  ch02: ch02 2 the funeral.md: 8/8 in ch02 text
+  ch03: ch03 3 the pete cute.md: 8/8 in ch03 text
+  ch04: ch04 4 the mouth.md: 8/8 in ch04 text
+  ch05: ch05 5 the labradors.md: 8/8 in ch05 text
+  ch06: ch06 6 the book club.md: 8/8 in ch06 text
+  ch07: ch07 7 the ride.md: 8/8 in ch07 text
+  ch08: ch08 8 the bet.md: 8/8 in ch08 text
+  ch09: ch09 9 the manuscript.md: 8/8 in ch09 text
+  ch10: ch10 10 the interview.md: 7/7 in ch10 text（另有 1 条短引语未校验）
+  ch11: ch11 11 the not date.md: 8/8 in ch11 text
+  ch12: ch12 12 the olive garden.md: 8/8 in ch12 text
+  ch13: ch13 13 the dream.md: 1/1 in ch13 text
+  ch14: ch14 14 the rule.md: 8/8 in ch14 text
+  ch15: ch15 15 the past.md: 7/7 in ch15 text（另有 1 条短引语未校验）
+  ch16: ch16 16 the porch furniture.md: 8/8 in ch16 text
+  ch17: ch17 17 the dance.md: 8/8 in ch17 text
+  ch18: ch18 18 the ex.md: 8/8 in ch18 text
+  ch19: ch19 19 the beach.md: 7/7 in ch19 text（另有 1 条短引语未校验）
+  ch20: ch20 20 the basement.md: 8/8 in ch20 text
+  ch21: ch21 21 the cookout.md: 8/8 in ch21 text
+  ch22: ch22 22 the trip.md: 7/7 in ch22 text（另有 1 条短引语未校验）
+  ch23: ch23 23 the lake.md: 8/8 in ch23 text
+  ch24: ch24 24 the book.md: 8/8 in ch24 text
+  ch25: ch25 25 the letters.md: 7/7 in ch25 text（另有 1 条短引语未校验）
+  ch26: ch26 26 the best friend.md: 8/8 in ch26 text
+  ch27: ch27 27 the rain.md: 8/8 in ch27 text
+  ch28: ch28 28 nine months later.md: 7/7 in ch28 text（另有 1 条短引语未校验）
+
+  含 MISS/❌ 的章数：0
