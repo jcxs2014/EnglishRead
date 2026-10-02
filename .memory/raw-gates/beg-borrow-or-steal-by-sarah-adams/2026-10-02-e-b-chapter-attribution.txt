@@ -1,0 +1,39 @@
+ch01 authors note and content warning.md: 6/6 in ch01 text
+ch02 chapter one emily.md: 7/7 in ch02 text（另有 1 条短引语未校验）
+ch03 chapter two emily.md: 8/8 in ch03 text
+ch04 chapter three jack.md: 8/8 in ch04 text
+ch05 chapter four emily.md: 8/8 in ch05 text
+ch06 chapter five jack.md: 8/8 in ch06 text
+ch07 chapter six emily.md: 8/8 in ch07 text
+ch08 chapter seven jack.md: 8/8 in ch08 text
+ch09 chapter eight emily.md: 8/8 in ch09 text
+ch10 chapter nine jack.md: 8/8 in ch10 text
+ch11 the drunk email and the porch.md: 8/8 in ch11 text
+ch12 chapter eleven jack.md: 8/8 in ch12 text
+ch13 chapter twelve emily.md: 8/8 in ch13 text
+ch14 chapter thirteen emily.md: 8/8 in ch14 text
+ch15 chapter fourteen emily.md: 8/8 in ch15 text
+ch16 chapter fifteen emily.md: 8/8 in ch16 text
+ch17 chapter sixteen emily.md: 8/8 in ch17 text
+ch18 chapter seventeen jack.md: 8/8 in ch18 text
+ch19 chapter eighteen emily.md: 8/8 in ch19 text
+ch20 chapter nineteen emily.md: 8/8 in ch20 text
+ch21 chapter twenty jack.md: 8/8 in ch21 text
+ch22 chapter twenty one emily.md: 8/8 in ch22 text
+ch23 chapter twenty two jack.md: 8/8 in ch23 text
+ch24 chapter twenty three emily.md: 8/8 in ch24 text
+ch25 chapter twenty four jack.md: 8/8 in ch25 text
+ch26 chapter twenty five emily.md: 8/8 in ch26 text
+ch27 chapter twenty six jack.md: 8/8 in ch27 text
+ch28 chapter twenty seven emily.md: 8/8 in ch28 text
+ch29 chapter twenty eight jack.md: 8/8 in ch29 text
+ch30 chapter twenty nine emily.md: 8/8 in ch30 text
+ch31 chapter thirty emily.md: 8/8 in ch31 text
+ch32 the dinner with fredrick.md: 6/6 in ch32 text
+ch33 the truck and ranger.md: 6/6 in ch33 text
+ch34 chapter thirty three emily.md: 7/7 in ch34 text
+ch35 chapter thirty four emily.md: 7/7 in ch35 text
+ch36 chapter thirty five jack.md: 8/8 in ch36 text
+ch37 chapter thirty six emily.md: 8/8 in ch37 text
+ch38 chapter thirty seven jack.md: 8/8 in ch38 text
+ch39 epilogue goldie.md: 3/3 in ch39 text
