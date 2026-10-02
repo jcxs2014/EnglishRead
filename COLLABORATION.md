@@ -73,6 +73,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - commits（**均未 push**）：1ee014ec0 起的 22 个 commit（逐章 + 概览 + 门禁修复 + raw-gates）
 - 明细见工作日志当日条目
 
+**Behind the Beautiful Forevers 五步审查结论（a–e 全跑，门禁全绿仍查出缺陷）**
+- 5 处阻断型全部已整改：ch18 两处跨章引用错位（文件号↔书内章号混淆，本书全书恒差 1）+ ch18 一处事实断言（95% 烧伤记录系医生所改，非金边眼镜官员）+ 概述两处（曼朱"翻译校服"无据、米娜误植阿卜杜勒的 Haji Ali 图像）
+- 1 条提示型只记不改（yelling 系语法记法）；2 条假红型为工具/判据问题
+- e 步人判：情感节点 10 条引语逐条开窗核说话人，**零人物误归**；跨书污染自检 Kalu=本书人物
+- 覆盖：19 章全过 a/b/c（两套结构实现 + 逐块子项人工补验 155/155）；d 步核 10 条具名说话人 + 全书亲属断言
+- 审查后复核：gate.sh 退出码 0 · verify_overview_quotes 35/35 · check_overview_labels 35/35 · corruption 0
+- **同会话审查已知盲区**：d 步语义二审由主会话执行（子代理返空未采信），逐对核对了具名说话人与亲属断言，但**未对全部 155 块做引语↔分析的全量语义对读**——情感/隐喻层的细微错位仍有漏网可能，如需彻底复核建议指派异实例或用户指定审查方
+- commits：`56bb3f09a` `a68eb0c04` `448d83ae8` `86a7ab717`（**均未 push**）
+- 原始门禁输出 `.memory/raw-gates/.../2026-10-02-review-a-e.txt`；逐条清单见工作日志当日条目
+
 ### [2026-10-02 19:38 UTC] [DSH-Mac] → All
 
 **Emily Bernard《Black Is the Body》精读完工**（非虚构论述格式 · 随笔集，Alfred A. Knopf 2019）
