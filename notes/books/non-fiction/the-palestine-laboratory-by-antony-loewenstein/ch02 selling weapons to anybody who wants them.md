@@ -229,7 +229,7 @@ source_text: ch02_1_selling_weapons_to_anybody_who_wants_t.txt
 
 **中文理解**：「在约旦河西岸和加沙经过试验与验证，设计目的就是击败游击队。」
 
-**句子结构**：引号内为一个过去分词短语 turned…，实际为两个并列的过去分词短语：tried and tested 与 designed。tried 与 and tested 共享同一宾语 the West Bank and Gaza；designed 为第二个过去分词，其后为不定式短语 to beat the guerrilla 作目的状语，the guerrilla 为宾语。整句为无主语的过去分词结构（独立主格省略主语），作 was 引出的话语内容（explained that Israel’s prowess in Guatemala was…）。引号内首尾无主句，依赖外层句法成立。
+**句子结构**：引号内为两个并列的过去分词短语：tried and tested 与 designed。tried 与 and tested 共享同一宾语 the West Bank and Gaza；designed 为第二个过去分词，其后为不定式短语 to beat the guerrilla 作目的状语，the guerrilla 为宾语。整句为无主语的过去分词结构（省略主语），在原文中充当 was explained that Israel’s prowess in Guatemala was… 的表语。引号内首尾无主句，依赖外层句法成立。
 
 **关键词**：tried and tested on the West Bank and Gaza / designed simply to beat the guerrilla
 
