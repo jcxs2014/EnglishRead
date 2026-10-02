@@ -43,7 +43,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 时间状语从句把「接受」拖成一整天，句子真正落到的主干动作却只有一个——种；in the middle of our lawn 把位置钉死在正中央，于是紧接着的比喻把它读成了一座刚掘开的坟。
 
-**读者视角提示：** 同一株花在 ch01 里被父亲叫成 weed；这一株是她瞒着所有人自己种的。
+**读者视角提示：** 这种花在 ch01 里被父亲叫成 weed；这里这一株是她瞒着所有人自己偷偷种的。
 
 > **原句 4:** "And what’s the point of hope if it never makes it through the night? Better not to have it at all, knowing that it will be plucked up and burned."
 

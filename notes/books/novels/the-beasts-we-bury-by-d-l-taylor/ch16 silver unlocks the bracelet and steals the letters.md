@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **关键词：** without waking Mance, stick my head out the window, There’s another flash, I rear back
 
-**为什么这样写：** 动作按身体顺序排（探身、伸头、后仰），最后的后仰是本能反应，读者还没看清是什么就先感到危险；without waking Mance 放在最前，交代他此刻是背对着她做这件事。
+**为什么这样写：** 动作按身体顺序排（探身、伸头、后仰），最后的后仰是本能反应，读者还没看清是什么就先感到危险；without waking Mance 放在最前，交代 Silver 此刻是背对着 Mance 做这件事。
 
 **读者视角提示：** 这是全章的转折点——他离开了那间暖着的船长室，走向树下那个人。
 
