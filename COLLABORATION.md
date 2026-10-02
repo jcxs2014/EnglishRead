@@ -60,19 +60,37 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-02 09:15 UTC] [MinMax-Mac] → All
+
+书：Translation State（Ann Leckie）｜slug: translation-state-by-ann-leckie
+
+**《Translation State》（Ann Leckie, Orbit 2023）43/43 章 + 总览三篇完工**
+体裁：科幻（Imperial Radch 系列第 5 部），三 POV 严格轮转 Enae/Reet/Qven；格式＝精简四子项 + 总览三篇。
+
+- **语料层 P0-0 PASS**：text/ 43 件 == 预期 43（来源：epub spine 51 − 8 非正文）；人物锚点双向 43 组 / 互查 1806 组，锚点为实测导出的本书独占实体，零串章。
+- **门禁 15 项 GATE_EXIT=0**：① verify_quotes **339/339（100%）** 干净 43/43 ② check_vocab **FAIL 0**（WARN 43＝长度≥9 启发式，提示型，已逐条回本章取证）③ entities **0** ④ corruption **0** ⑤ sweep_full 本章 339 / 跨章 0 / 拼接 0 / 查无 0 ⑥ 短引语 6 条兜底全命中 ⑦ 逐章归属 **43/43 零跨章** ⑧ 块覆盖 43 ⑨ 导航层 **❌0** ⑩ 分析层行内英文 **887 条逐字、零命中 0** ⑪⑫⑬ 结构 0 / 凭空造词 0 / 空段 0 ⑭ verify_overview_quotes **45/45（100%）** ⑮ check_overview_full 整串 144、**章节标签 144/144 零不符**、H1 错配 0。
+- **生产方式**：spec(JSON) + fail-closed 构建器，**md 内零手打英文**——引语/例句/关键词全部由 pick 锚从 `text/` 程序化抽取，落盘前逐条断言。**8c 投毒 5/5 拒收**（伪造分析层英文、pick 取自他章、词头不在本章、关键词跨块、起止相隔 1.2 万字符的拼接）。子代理只产 spec，主会话统一构建并**重跑而非采信自报数字**。
+- **门禁外自查修掉的实质缺陷**：① **引语行格式**——跨段引语原样写入会带裸行，38/43 章中招，六道章节门禁**全绿**（它们只读 `> ` 那一行），但 `gen_overview` 抽 0 条 ⇒ 已折行，单行化 38→0；② **总览模板 51 处标注误写**（chNN} 半角花括号）致拆行器与标签对账双双失效，标签不符 7→0；③ ch13 引语截断 + 残词关键词（凭空造词 1→0）；④ ch12 专名 `TZam`→`Tzam`（**构建器不校验中文层拼写，可穿透全部断言**）；⑤ 中途版本入库 10 章（worker 构建后改 spec，stat mtime 比对抓出）；⑥ 密度对齐配额，8 章由 9/13/14/18/22/26/28/19 块裁至 8。
+- **对账**：md 43 == text 43 零偏移；总览 3 件 + 模板 3 件入库；书目录 `??` 归零。**跨书污染自检 19 个专名对他书精读 md 逐个 `grep -rlE \bNAME\b` ⇒ 全部 0 命中**。
+- 工具入库 `scripts/attic/build_translation_chapter.py`（构建器）· 规范 `scripts/attic/WORKER_BRIEF_TRANSLATION.md`（含「原文干净、别怀疑原文怀疑自己的手」澄清）· 脉络图 `scripts/attic/ARC_TRANSLATION.md`。
+- **未 push**（等用户指令）。逐行门禁输出与缺陷清单见工作日志 `.memory/daily/2026-10-02.md` 本书条目。
+
 ### [2026-10-02 08:52 UTC] [Commandcode-Mac] → All
 
 书：the-palestine-laboratory-by-antony-loewenstein（《The Palestine Laboratory》Antony Loewenstein, Verso 2023）
 
 - **精读完工：正文 9 章（ch01 Introduction + ch02–ch08 ＝书内 Chapter 1–7 + ch09 Conclusion）+ 总览三篇 = 12 件 md**；`text/` 10 件（9 正文 + `xx_further_reading.txt`）。引语 105 条（章节层）+ 32 条（总览层），词条 511 行。体裁走**非虚构论述格式**（概览 → 论证结构 → 选择性精读 8–12 处五子项 → 词汇分级 → 一句话总结）。
-- **gate.sh 15 项退出码 0，阻断型 0 条**：verify_quotes 135/135 · check_vocab FAIL 0（WARN 29 均提示型）· check_entities 0 · corruption_scan 0 · sweep_full 查无 0 · check_short_quotes 3/3 · 逐章归属 105/105 · 结构缺陷 0 · 凭空造词 0 · 导航层 0 · 总览 32/32 · 章节标签 33/33 且 H1 语义 0 错配。
-- **门禁当场抓出并修复 4 处阻断型**：ch04 与 ch07 各有一处**跨章搬句**（误用 ch03 与 ch01 的引语）、ch09 **换主语**（It → Israel）、ch08 分析层**误引**（"To face whose Achilles heel" → 源文逐字）。四者均由 `check_chapter_quotes` / `sweep_analysis_inline` 报出，非事后自查。
-- **禁令 1a 复发已用生产工具对治**：我凭印象写的词条被断言拒绝约 180+120+96 条（ch01/02/09），工具只写入「词头在 `text/` + 例句逐字在 `text/`」的条目，不足档位留空。工具入库 `scripts/attic/vocab_build.py`（per-book 一次性）。ch01 首次词表生成整段崩坏（800 行垃圾）已当场截断回滚。
-- **总览三篇由 `scripts/gen_overview.py` 从已核实引语池程序化生成**（25 句金句 + 8 节点，模板按书隔离，**零手打英文**）；概述行内英文由 `check_nav_layer` 与 `sweep_analysis_inline` 覆盖，零命中 0。
-- **10 commits（未 push）**：`0cc6d910f` ch01 · `68f802770` ch02 · `227b20d21` ch03 · `3f33eee4b` ch04 · `fc12022ae` ch05 · `f88c98033` ch06 · `773bc4fae` ch07 · `813342ded` ch08 · `7d9d9217b` ch09 · `173f13d0b` 总览三篇 + ch08 修正。
-- **原始输出指引**：`gate.sh` 15 项逐行见 `.memory/raw-gates/the-palestine-laboratory-by-antony-loewenstein/2026-10-02-final_gates.txt`；verify_quotes / check_vocab / check_entities / verify_corpus 逐行见同目录 `2026-10-02-final_gates_detail.txt`。两处原件已与 md 同批显式 `git add`。
-- ⚠️ **五步审查未做（待用户发起）**：本次为执行方自行完工，第 3 条门禁全量自审 + 总览三篇门禁已完成，但**语义层未做换检查路径的二次复核**——说话人正确性、跨章引用是否指对、引语↔分析是否仍对应这三类机械盲区仅由 🟠 7 条人工定性与人工回源部分覆盖。建议由用户发起独立五步审查或指派异实例复核。
-- 详细逐行明细、三档定性、跨书污染自检与已知局限见工作日志 `.memory/daily/2026-10-02.md`「The Palestine Laboratory（…）完工明细」节。
+- ✅ **五步审查已做并通过**（用户同会话发起，**a–e 全跑**）。门禁全绿状态下查出 **9 处阻断型 + 3 处事实错标**，全部整改并复验；`gate.sh` 15 项整改后仍为 **退出码 0**。
+- **c 步用第二实现抓到 3 处结构缺陷，而 `audit_structure` 报 0**（ch07 原句 9 标签误写「句子理解」且缺「为什么这样写」、原句 10 缺该子项）—— 印证「子项检查是假阴性高发点」，这是 `check_struct_indep` 存在的理由。
+- **d 步抓到 1 处引语拼接**（ch08 Cutler 引语跨原文整句拼接，违反禁令 5）+ **3 处引语非逐字**（ch05 三处引语末尾多加句号、ch03/ch04 两处首字被改成小写）。下游 3 处副本经**改模板 + `gen_overview.py` 重新生成**修好（总览三篇禁止手改）。
+- **概述层 3 处事实错标已改**：Bosworth「丑陋的真相」实为 ch08（原标 ch09）、最高法院 2021-06 停收国防出口请愿实为 ch03（原归 ch04）、Hever「学习意愿下降」实为 ch03（原未标章号）。
+- **说话人层**：107 个引语块逐块开 200 字窗口核说话人 **缺陷 0**（子代理逐章明细 + 主会话独立复核 2 处易错点：ch04 Fogel 而非提问的 Nesiel、ch02 Friedman 转述 realists，均判定正确）。
+- **假红型 2 处已判读不改 md**：`check_block_keywords.py` 硬编码言情精简格式（`## 本章词汇` + 3–8 块配额），对非虚构论述整体不适用，其「引语非连续子串」用原始子串匹配会假阴；**以 `verify_quotes` 的 flat 归一化为准，107 块 flat 查无 0**。`check_crossref` 报「0 对 0 报警」是**真空绿**（只认英文模式，对 97 处中文式 `第N章` 零覆盖），已用 `check_xref_indep` 补位并逐条人工核完 97 处。
+- **终态门禁**：verify_quotes 135/135 · check_vocab FAIL 0 · check_entities 0 · corruption_scan 0 · sweep_full 查无 0 拼接 0 · check_short_quotes 3/3 · 逐章归属 105/105 · check_struct_indep 0 · check_xref_indep 英文证据 0 · 凭空造词 0 · 导航层 ❌0 ⚠️0 · 总览 32/32 · 章号 33/33 · H1 语义 0 错配。
+- **11 commits（未 push）**：`0cc6d910f`→`68f802770`→`227b20d21`→`3f33eee4b`→`fc12022ae`→`f88c98033`→`773bc4fae`→`813342ded`→`7d9d9217b`→`173f13d0b`→`e1dfd8008`（五步审查整改）。
+- **原始输出指引**：a–e 五步逐行（含整改前后对比）见 `.memory/raw-gates/the-palestine-laboratory-by-antony-loewenstein/2026-10-02-a-e_review_gates_full.txt`；整改后终态见同目录 `2026-10-02-final_gates_after_audit.txt`。原件已显式 `git add`。
+- **已知局限**：① 三个 `*_indep` 第二实现的全库口径仍未验证（各只在本书跑过 1 次）；② 说话人层**不可机械化**，本轮靠子代理 + 独立抽查，不是机械保证；③ 本审查与写作同会话，已执行「门禁全量重跑 / 换检查路径 / 子代理附反例与防幻觉条款」三项，但换检查路径只覆盖机械层，引语与分析的论证是否相称无法用工具排除。
+- 完整逐行明细、三档定性、跨书污染自检见工作日志 `.memory/daily/2026-10-02.md`「The Palestine Laboratory（…）五步审查明细」节。
 
 ### [2026-10-01 21:22 UTC] [Opencode-Mac] → All
 

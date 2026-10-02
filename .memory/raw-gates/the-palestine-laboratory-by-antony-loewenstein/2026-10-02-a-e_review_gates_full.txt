@@ -1,0 +1,516 @@
+
+═══════════ a/gates.txt ═══════════
+########## a 步：第 3 条提交门禁全量重跑（2026-10-02 独立五步审查）##########
+
+===== ① verify_quotes =====
+00_情感节点.md: 8/8 ✅
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 22/22 ✅
+ch01 introduction.md: 10/10 ✅
+ch02 selling weapons to anybody who wants them.md: 15/15 ✅
+ch03 september 11 was good for business.md: 15/15 ✅
+ch04 preventing an outbreak of peace.md: 15/15 ✅
+ch05 selling israeli occupation to the world.md: 13/13 ✅（另有 2 条短引语未校验）
+ch06 the enduring appeal of israeli domination.md: 12/12 ✅
+ch07 israeli mass surveillance in the brain of your phone.md: 10/10 ✅
+ch08 social media companies don t like palestinians.md: 8/8 ✅
+ch09 conclusion.md: 7/7 ✅
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 135/135 引文可核实（100%）；完全干净文件 11/11；正文章节 0 提取 0；总览 0 提取转交 0 ===
+EXIT=0
+
+===== ①b verify_quotes --full =====
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 135/135 引文可核实（100%）；完全干净文件 11/11；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+===== ② check_vocab =====
+词条行合计: 511
+
+--- FAIL (0) ---
+
+--- WARN (29) ---
+  ch01 introduction.md [基础] 基础档疑含超纲词「protestors」
+  ch01 introduction.md [基础] 基础档疑含超纲词「controversial」
+  ch01 introduction.md [?] 词汇节外有 11 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch02 selling weapons to anybody who wants them.md [基础] 基础档疑含超纲词「occupation」
+  ch02 selling weapons to anybody who wants them.md [?] 词汇节外有 15 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch03 september 11 was good for business.md [基础] 基础档疑含超纲词「corruption」
+  ch03 september 11 was good for business.md [基础] 基础档疑含超纲词「occupation」
+  ch03 september 11 was good for business.md [基础] 基础档疑含超纲词「sanctions」
+  ch03 september 11 was good for business.md [基础] 基础档疑含超纲词「surveillance」
+  ch03 september 11 was good for business.md [基础] 基础档疑含超纲词「apartheid」
+  ch03 september 11 was good for business.md [基础] 基础档疑含超纲词「conscription」
+  ch03 september 11 was good for business.md [?] 词汇节外有 24 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch04 preventing an outbreak of peace.md [基础] 基础档疑含超纲词「surveillance」
+  ch04 preventing an outbreak of peace.md [基础] 基础档疑含超纲词「occupation」
+  ch04 preventing an outbreak of peace.md [基础] 基础档疑含超纲词「civilians」
+  ch04 preventing an outbreak of peace.md [?] 词汇节外有 34 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch05 selling israeli occupation to the world.md [基础] 基础档疑含超纲词「occupation」
+  ch05 selling israeli occupation to the world.md [?] 词汇节外有 24 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch06 the enduring appeal of israeli domination.md [基础] 基础档疑含超纲词「occupation」
+  ch06 the enduring appeal of israeli domination.md [基础] 基础档疑含超纲词「civilians」
+  ch06 the enduring appeal of israeli domination.md [基础] 基础档疑含超纲词「resistance」
+  ch06 the enduring appeal of israeli domination.md [?] 词汇节外有 33 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch07 israeli mass surveillance in the brain of your phone.md [基础] 基础档疑含超纲词「surveillance」
+  ch07 israeli mass surveillance in the brain of your phone.md [?] 词汇节外有 77 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch08 social media companies don t like palestinians.md [基础] 基础档疑含超纲词「occupation」
+  ch08 social media companies don t like palestinians.md [基础] 基础档疑含超纲词「resistance」
+  ch08 social media companies don t like palestinians.md [?] 词汇节外有 51 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch09 conclusion.md [基础] 基础档疑含超纲词「occupation」
+  ch09 conclusion.md [?] 词汇节外有 23 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+EXIT=0
+
+===== ③ check_entities =====
+=== 实体一致性检测：0 个文件存在未知实体 ===
+EXIT=0
+
+===== ④ corruption_scan =====
+
+=== 编辑损坏扫描（the-palestine-laboratory-by-antony-loewenstein）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+EXIT=0
+
+===== ⑤ sweep_full =====
+=== 引语整串 flat 比对（the-palestine-laboratory-by-antony-loewenstein）===
+  参照集：text/ 逐章（9 章，可定章） + epub 交叉验证
+  ✅ 本章命中 104 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 1 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+EXIT=0
+
+═══════════ b/chapter.txt ═══════════
+########## b 步：逐章归属（check_chapter_quotes 逐章独立跑）##########
+--- ch1 : notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/ch01 introduction.md
+ch01 introduction.md: 10/10 in ch01 text
+EXIT=0
+--- ch2 : notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/ch02 selling weapons to anybody who wants them.md
+ch02 selling weapons to anybody who wants them.md: 15/15 in ch02 text
+EXIT=0
+--- ch3 : notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/ch03 september 11 was good for business.md
+ch03 september 11 was good for business.md: 15/15 in ch03 text
+EXIT=0
+--- ch4 : notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/ch04 preventing an outbreak of peace.md
+ch04 preventing an outbreak of peace.md: 15/15 in ch04 text
+EXIT=0
+--- ch5 : notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/ch05 selling israeli occupation to the world.md
+ch05 selling israeli occupation to the world.md: 13/13 in ch05 text（另有 2 条短引语未校验）
+EXIT=0
+--- ch6 : notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/ch06 the enduring appeal of israeli domination.md
+ch06 the enduring appeal of israeli domination.md: 12/12 in ch06 text
+EXIT=0
+--- ch7 : notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/ch07 israeli mass surveillance in the brain of your phone.md
+ch07 israeli mass surveillance in the brain of your phone.md: 10/10 in ch07 text
+EXIT=0
+--- ch8 : notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/ch08 social media companies don t like palestinians.md
+ch08 social media companies don t like palestinians.md: 8/8 in ch08 text
+EXIT=0
+--- ch9 : notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/ch09 conclusion.md
+ch09 conclusion.md: 7/7 in ch09 text
+EXIT=0
+
+===== check_short_quotes（<20 字符兜底）=====
+=== 短引语兜底核对（the-palestine-laboratory-by-antony-loewenstein）===
+  verify_quotes 跳过（<20 flat 字符）的引语：3 条 —— 这些主门禁**根本没查**
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+EXIT=0
+
+═══════════ c/struct.txt ═══════════
+########## c 步：结构扫描（第二实现优先）##########
+===== c1 check_struct_indep（第二实现，替代 audit_structure）=====
+  ❌ ch07 israeli mass surveillance in the brain of your phone.md: [nonfiction] 引语 9: 子项「句子结构」出现 0 次（须恰 1）
+  ❌ ch07 israeli mass surveillance in the brain of your phone.md: [nonfiction] 引语 9: 子项「为什么这样写」出现 0 次（须恰 1）
+  ❌ ch07 israeli mass surveillance in the brain of your phone.md: [nonfiction] 引语 10: 子项「为什么这样写」出现 0 次（须恰 1）
+=== 独立结构扫描：9 个 md，缺陷 3 处 ===
+EXIT=1
+
+===== c2 audit_structure（基线对比，防自伤）=====
+=== 精读结构扫描（the-palestine-laboratory-by-antony-loewenstein）===
+  扫 12 个 md、143 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 15
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+  ⚠️ ch09 conclusion.md  引语 7 个，与本书众数 15 相差过大
+EXIT=0
+
+===== c3 check_block_coverage =====
+✅ 块覆盖对账：9 个文件，每块都进了 verify_quotes 校验
+EXIT=0
+
+===== c4 check_overview_full（整串+章标签+H1 语义）=====
+=== 总览整串核查（the-palestine-laboratory-by-antony-loewenstein）===
+  参照集：text/ 逐章（9 章） ｜ 总览文件 3 个
+  A 整串：命中 77 ｜ 🔶 拼接 4 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 1
+  B 章节标签：对 70 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 7 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+  ⚠️ 00_情感节点.md:96  跨标签拼接：My job is … to speak at Facebook on behalf of Isra
+  ⚠️ 00_情感节点.md:98  跨标签拼接：My job is … to speak at Facebook on behalf of Isra
+  ⚠️ 00_金句精选.md:68  跨标签拼接：My job is … to speak at Facebook on behalf of Isra
+  ⚠️ 00_金句精选.md:201  跨标签拼接：My job is … to speak at Facebook on behalf of Isra
+EXIT=0
+
+===== c5 H1 语义一行 grep（无 epub 兜底）=====
+notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/00_情感节点.md:# 《The Palestine Laboratory》情感节点
+notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/00_概述.md:# 《The Palestine Laboratory》全书概述
+notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/00_金句精选.md:# 《The Palestine Laboratory》金句精选
+
+═══════════ c/after_fix.txt ═══════════
+########## c 步整改后复扫（corruption + structure 双复扫，防自伤）##########
+===== 修复后 check_struct_indep =====
+=== 独立结构扫描：9 个 md，缺陷 0 处 ===
+EXIT=0
+
+===== 修复后 audit_structure（基线对比）=====
+  扫 12 个 md、143 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 15
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+  ⚠️ ch09 conclusion.md  引语 7 个，与本书众数 15 相差过大
+
+===== 修复后 corruption_scan =====
+
+=== 编辑损坏扫描（the-palestine-laboratory-by-antony-loewenstein）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+EXIT=0
+
+===== 修复后 verify_quotes（防修坏）=====
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 135/135 引文可核实（100%）；完全干净文件 11/11；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+===== 修复后 ch07 逐章归属 =====
+ch07 israeli mass surveillance in the brain of your phone.md: 10/10 in ch07 text
+
+═══════════ d/semantic.txt ═══════════
+########## d 步：语义二审（机械子项用第二实现 *_indep）##########
+
+===== d1 check_xref_indep（跨章引用回查，第二实现）=====
+  ❌ 00_情感节点.md:96 → ch08：证据 ['My job is … to speak at Facebook on behalf of Israel and the Jewish diaspora. … I represent Israel in these meetings.'] 在该章查无
+        句：> "My job is … to speak at Facebook on behalf of Israel and the Jewish diaspora. … I represent Israe
+  ❌ 00_金句精选.md:68 → ch08：证据 ['My job is … to speak at Facebook on behalf of Israel and the Jewish diaspora. … I represent Israel in these meetings.'] 在该章查无
+        句：**呼应关系**：与 "My job is … to speak at Facebook on behalf of Israel and the Jewish diaspora. … I repres
+  ❌ 00_金句精选.md:201 → ch08：证据 ['My job is … to speak at Facebook on behalf of Israel and the Jewish diaspora. … I represent Israel in these meetings.'] 在该章查无
+        句：㉓ "My job is … to speak at Facebook on behalf of Israel and the Jewish diaspora. … I represent Israe
+=== chNN 引用 171 处：英文证据报警 3 处 ／ 中文式待人判 97 处 ===
+EXIT=1
+
+===== d2 check_analysis_indep（分析层行内英文，第二实现）=====
+抽出分析层英文片段 537 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）21 条 —— 只报不判红，须人判：
+  ch01 introduction.md:10  How Israel Exports the Technology of Occupation around the World
+  ch01 introduction.md:63  Israel's apartheid has lasted
+  ch01 introduction.md:77  not a required religion but certainly expected
+  ch01 introduction.md:183  to show actual footage like that
+  ch02 selling weapons to anybody who wants them.md:10  How Israel Exports the Technology of Occupation around the World
+  ch02 selling weapons to anybody who wants them.md:232  explained that Israel’s prowess in Guatemala was
+  ch02 selling weapons to anybody who wants them.md:260  to erase its history and ability to remember what has been lost
+  ch03 september 11 was good for business.md:10  How Israel Exports the Technology of Occupation around the World
+  ch03 september 11 was good for business.md:178  spilled out of its containers
+  ch04 preventing an outbreak of peace.md:10  How Israel Exports the Technology of Occupation around the World
+  ch04 preventing an outbreak of peace.md:219  the shooting him in the leg or arm
+  ch04 preventing an outbreak of peace.md:257  was confident in its actions
+  ch04 preventing an outbreak of peace.md:285  who are involved in violence
+  ch04 preventing an outbreak of peace.md:285  who are not involved in violence
+  ch05 selling israeli occupation to the world.md:10  How Israel Exports the Technology of Occupation around the World
+  ch06 the enduring appeal of israeli domination.md:10  How Israel Exports the Technology of Occupation around the World
+  ch06 the enduring appeal of israeli domination.md:124  find a justification for
+  ch07 israeli mass surveillance in the brain of your phone.md:10  How Israel Exports the Technology of Occupation around the World
+  ch08 social media companies don t like palestinians.md:10  How Israel Exports the Technology of Occupation around the World
+  ch08 social media companies don t like palestinians.md:98  the only way that is left
+  ch09 conclusion.md:10  How Israel Exports the Technology of Occupation around the World
+EXIT=0
+
+===== d3 check_anchor（关键词锚定）=====
+=== 关键词锚定自查（the-palestine-laboratory-by-antony-loewenstein）===
+  扫 12 个 md，107 个引语块，107 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（10 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+===== d4 audit_numbers（计数断言）=====
+  ⚪ ch08 social media companies don t li:81  「87%」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch08 social media companies don t li:81  「 9%」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch08 social media companies don t li:286  「87%」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch08 social media companies don t li:286  「 9%」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch09 conclusion.md:31  「 47%」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch09 conclusion.md:38  「 60%」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch09 conclusion.md:51  「 67%」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch09 conclusion.md:62  「 67%」年龄/百分比类，文本层推不出真值，只列出待人核
+
+===== d5 check_crossref（基线）=====
+交叉引用核对：0 对，报警 0
+
+===== d6 check_xref_zh（中文式跨章引用补盲）=====
+=== 跨章引用：章号+短语/POV 命中 0 / 错 0 / POV 错 0 ===
+
+===== d7 sweep_full（终验标准件：整串 flat）=====
+=== 引语整串 flat 比对（the-palestine-laboratory-by-antony-loewenstein）===
+  参照集：text/ 逐章（9 章，可定章） + epub 交叉验证
+  ✅ 本章命中 104 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 1 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+
+═══════════ d/after_fix.txt ═══════════
+########## d 步整改后复跑 ##########
+===== d1 check_xref_indep =====
+=== chNN 引用 171 处：英文证据报警 0 处 ／ 中文式待人判 97 处 ===
+EXIT=0
+
+===== d2 check_analysis_indep =====
+抽出分析层英文片段 538 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）21 条 —— 只报不判红，须人判：
+  ch01 introduction.md:10  How Israel Exports the Technology of Occupation around the World
+
+===== d3 verify_quotes（防修坏）=====
+
+=== 总计 135/135 引文可核实（100%）；完全干净文件 11/11；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+===== d4 corruption_scan =====
+  FAIL 0 处（U+FFFD / 双句号）
+
+===== d5 check_struct_indep =====
+=== 独立结构扫描：9 个 md，缺陷 0 处 ===
+
+===== d6 ch08 逐章归属 =====
+ch08 social media companies don t like palestinians.md: 8/8 in ch08 text
+
+===== d7 sweep_full =====
+  参照集：text/ 逐章（9 章，可定章） + epub 交叉验证
+  ✅ 本章命中 105 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+
+═══════════ e/overview.txt ═══════════
+########## e 步：总览层核对 ##########
+===== e1 verify_overview_quotes（epub 口径）=====
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 8/8 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 32/32 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+EXIT=0
+
+===== e2 check_overview_full（整串+章标签+H1）=====
+=== 总览整串核查（the-palestine-laboratory-by-antony-loewenstein）===
+  参照集：text/ 逐章（9 章） ｜ 总览文件 3 个
+  A 整串：命中 80 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 1
+  B 章节标签：对 73 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 7 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+===== e3 check_overview_labels（逐条章号对账）=====
+参照集：完整 lane（epub）
+
+===== 00_概述.md：0 条带标签引语（跳过无标签行 3）=====
+
+===== 00_情感节点.md：8 条带标签引语（跳过无标签行 1）=====
+
+===== 00_金句精选.md：25 条带标签引语（跳过无标签行 32）=====
+
+----- 汇总（共 33 条带标签引语，跳过无标签行 36）-----
+  ✅ 标注章逐字 : 33
+
+----- 口径外（0 条，不计入失败，需人判）-----
+
+----- 待人判清单（0 条）-----
+
+===== e4 H1 语义 =====
+notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/00_情感节点.md:# 《The Palestine Laboratory》情感节点
+notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/00_概述.md:# 《The Palestine Laboratory》全书概述
+notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/00_金句精选.md:# 《The Palestine Laboratory》金句精选
+
+===== e5 概述行内英文（不在 verify 口径内）=====
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+═══════════ summary.txt ═══════════
+########## 五步审查 a–e 终态汇总（2026-10-02）##########
+
+### a 步门禁全量重跑
+=== 总计 135/135 引文可核实（100%）；完全干净文件 11/11；正文章节 0 提取 0；总览 0 提取转交 0 ===
+=== 总计 135/135 引文可核实（100%）；完全干净文件 11/11；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+--- FAIL (0) ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+  FAIL 0 处（U+FFFD / 双句号）
+
+### b 步逐章归属
+ch01 introduction.md: 10/10 in ch01 text
+ch02 selling weapons to anybody who wants them.md: 15/15 in ch02 text
+ch03 september 11 was good for business.md: 15/15 in ch03 text
+ch04 preventing an outbreak of peace.md: 15/15 in ch04 text
+ch05 selling israeli occupation to the world.md: 13/13 in ch05 text（另有 2 条短引语未校验）
+ch06 the enduring appeal of israeli domination.md: 12/12 in ch06 text
+ch07 israeli mass surveillance in the brain of your phone.md: 10/10 in ch07 text
+ch08 social media companies don t like palestinians.md: 8/8 in ch08 text
+ch09 conclusion.md: 7/7 in ch09 text
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+
+### c 步结构（第二实现 check_struct_indep）
+notes/books/non-fiction/the-palestine-laboratory-by-antony-loewenstein/00_金句精选.md:# 《The Palestine Laboratory》金句精选
+—— 整改后 ——
+=== 独立结构扫描：9 个 md，缺陷 0 处 ===
+
+### d 步语义（第二实现 check_xref_indep / check_analysis_indep）
+修复前：英文证据报警 3 处；修复后：
+=== chNN 引用 171 处：英文证据报警 0 处 ／ 中文式待人判 97 处 ===
+
+### e 步总览
+=== 总览引文 32/32 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+  A 整串：命中 80 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 1
+  ✅ 标注章逐字 : 33
+
+═══════════ gate_after_audit.txt ═══════════
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 135/135 引文可核实（100%）；完全干净文件 11/11；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 511
+--- FAIL (0) ---
+--- WARN (29) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 105 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 introduction.md                           ch01 introduction.md: 10/10 in ch01 text
+ch02 selling weapons to anybody who wants them.md ch02 selling weapons to anybody who wants them.md: 15/15 in ch02 text
+ch03 september 11 was good for business.md     ch03 september 11 was good for business.md: 15/15 in ch03 text
+ch04 preventing an outbreak of peace.md        ch04 preventing an outbreak of peace.md: 15/15 in ch04 text
+ch05 selling israeli occupation to the world.md ch05 selling israeli occupation to the world.md: 13/13 in ch05 text（另有 2 条短引语未校验）
+ch06 the enduring appeal of israeli domination.md ch06 the enduring appeal of israeli domination.md: 12/12 in ch06 text
+ch07 israeli mass surveillance in the brain of your phone.md ch07 israeli mass surveillance in the brain of your phone.md: 10/10 in ch07 text
+ch08 social media companies don t like palestinians.md ch08 social media companies don t like palestinians.md: 8/8 in ch08 text
+ch09 conclusion.md                             ch09 conclusion.md: 7/7 in ch09 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：9 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（the-palestine-laboratory-by-antony-loewenstein）===
+  ✅ 逐字 636 ｜ ⚠️ 跨章 48 ｜ 🔶 拼接 1 ｜ 🟠 部分命中 7 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 4
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 15
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 8/8 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 32/32 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+═══════════ gate_v3.txt（终态）═══════════
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 135/135 引文可核实（100%）；完全干净文件 11/11；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 511
+--- FAIL (0) ---
+--- WARN (29) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 105 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 introduction.md                           ch01 introduction.md: 10/10 in ch01 text
+ch02 selling weapons to anybody who wants them.md ch02 selling weapons to anybody who wants them.md: 15/15 in ch02 text
+ch03 september 11 was good for business.md     ch03 september 11 was good for business.md: 15/15 in ch03 text
+ch04 preventing an outbreak of peace.md        ch04 preventing an outbreak of peace.md: 15/15 in ch04 text
+ch05 selling israeli occupation to the world.md ch05 selling israeli occupation to the world.md: 13/13 in ch05 text（另有 2 条短引语未校验）
+ch06 the enduring appeal of israeli domination.md ch06 the enduring appeal of israeli domination.md: 12/12 in ch06 text
+ch07 israeli mass surveillance in the brain of your phone.md ch07 israeli mass surveillance in the brain of your phone.md: 10/10 in ch07 text
+ch08 social media companies don t like palestinians.md ch08 social media companies don t like palestinians.md: 8/8 in ch08 text
+ch09 conclusion.md                             ch09 conclusion.md: 7/7 in ch09 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：9 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（the-palestine-laboratory-by-antony-loewenstein）===
+  ✅ 逐字 636 ｜ ⚠️ 跨章 48 ｜ 🔶 拼接 1 ｜ 🟠 部分命中 7 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 4
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 15
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 8/8 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 32/32 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
