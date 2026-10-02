@@ -99,7 +99,65 @@ def detect_profile(s):
     return None
 
 
-def check(md: Path):
+SUB_LABEL_RE = lambda name: re.compile(
+    r'^[ \t]*(?:[-*+]\s+)?\*{0,2}' + name + r'\*{0,2}[：:]', re.M)
+
+
+def calibrate_sub(mds, prof):
+    """按**本书实际**校准子项集，不套外部模板的子项名。
+
+    ⚠️ 2026-10-02（The Alchemist 五步审查）：summary 档原把
+    `读者视角提示` 硬编码为必备子项，而本库小说精简档实为
+    `中文理解 / 句子结构 / 关键词 / 为什么这样写`（**无**读者视角提示），
+    于是 4 章 × 8 块 = **38 处假红**（每块各报「读者视角提示 出现 0 次」）。
+    `audit_structure` 本就「按书内主流子项集自校准，不套外部模板」，
+    本脚本却套模板 ⇒ 两把尺子口径打架，且打架方向是**制造假红**。
+
+    判据：候选子项 = 档案 SUB ∪ 常见标签；某子项在 **≥60% 的块**里出现
+    才算本书必备。**算不出（不足 2 个）就回退档案 SUB**——
+    宁可维持旧行为，也不要用一个猜出来的集合把真缺陷判成「齐」。
+    """
+    P = PROFILES.get(prof) or PROFILES["summary"]
+    cand = list(dict.fromkeys(
+        P["SUB"] + ["中文理解", "句子结构", "关键词", "表达方式", "为什么这样写"]))
+    qre, total, hit = P["QRE"], 0, {c: 0 for c in cand}
+    pos_in_blk = {}
+    for md in mds:
+        try:
+            s = md.read_text(encoding="utf-8")
+        except OSError:
+            continue
+        marks = list(qre.finditer(s))
+        for i, m in enumerate(marks):
+            end = marks[i + 1].start() if i + 1 < len(marks) else len(s)
+            if i + 1 == len(marks):
+                nxt = re.search(r'(?m)^## ', s[end:])
+                if nxt:
+                    end = end + nxt.start()
+            blk = s[m.end():end]
+            total += 1
+            for c in cand:
+                mm2 = SUB_LABEL_RE(c).search(blk)
+                if mm2:
+                    hit[c] += 1
+                    pos_in_blk.setdefault(c, []).append(mm2.start())
+    if not total:
+        return None
+    keep = [c for c in cand if hit[c] >= 0.6 * total]
+    if len(keep) < 2:
+        return None
+    # ⚠️ 顺序必须取**块内实际出现顺序**，不能沿用候选表顺序：候选表是
+    # `档案 SUB + 常见标签`，与书里的书写次序无关。The Alchemist 实为
+    # `中文理解→句子结构→关键词→为什么这样写`，而候选表把它排成
+    # `中文理解→关键词→为什么这样写→句子结构` ⇒ 38 处「子项顺序错」假红。
+    # 判据：按「各子项首次出现位置的中位数」排序，即书里实际的书写次序。
+    def med(v):
+        v = sorted(v)
+        return v[len(v) // 2]
+    return sorted(keep, key=lambda c: med(pos_in_blk.get(c, [10**9])))
+
+
+def check(md: Path, sub_override=None):
     out = []
     s = md.read_text(encoding="utf-8")
     lines = s.split("\n")
@@ -111,6 +169,8 @@ def check(md: Path):
         prof = "summary"
     P = PROFILES[prof]
     H2, SUB, QRE, NUM = P["H2"], P["SUB"], P["QRE"], P["NUM"]
+    if sub_override:            # 见 calibrate_sub()：按本书实际子项集，不套模板
+        SUB = sub_override
     LO, HI = P["RANGE"]
     # --- ④ 必备 H2 / 三档标题 ---
     for h in H2:
@@ -201,8 +261,10 @@ def main():
     if not mds:
         print(f"❌ {book} 下没有 ch*.md"); return 2
     bad = []
+    cal = {p: calibrate_sub(mds, p) for p in ("summary", "nonfiction")}
     for md in mds:
-        for msg in check(md):
+        for msg in check(md, cal.get(detect_profile(
+                md.read_text(encoding="utf-8")) or "summary")):
             bad.append(f"{md.name}: {msg}")
     for b in bad:
         print("  ❌ " + b)
