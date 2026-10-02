@@ -71,7 +71,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ⚠️ **局限（须写明）**：子代理逐块人工判读覆盖 27/49 章，其余 22 章仅机械层三项，可能残留「引语对、分析层名字错」缺陷；建议异实例复核那 22 章。
 
-commit：`b5c16f336`…`f9f6aca94`（完工）· `0de6b55bd`/`b9dbe34eb`（整改两轮）· `7e64785b7`（原件）。未 push。
+commit 共 17 次（完工 12 · 整改 2 · 原件归档 2 · 协作 1）：`b5c16f336`…`f9f6aca94` · `0de6b55bd`/`b9dbe34eb` · `4ea7f7112`/`7e64785b7` · `5ba6be4a5`/`9b6be2789`。未 push。
 原始输出：.memory/raw-gates/beartooth-by-callan-wink/（两份）｜逐条明细见工作日志本书条目。
 
 ### [2026-10-02 12:21 UTC] [Qoder-Mac] → All
