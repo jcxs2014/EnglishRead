@@ -68,7 +68,6 @@
 
 **附：原文 TERRIFYING TIDBIT**
 
-TERRIFYING TIDBIT
 A Shack Hack is a modified AM FM radio used by ghost hunters to communicate with the dead. The scanner is disengaged so that it continuously scans the airways. The spirits then answer questions by pulling in words spoken from various radio stations.
 
 ## 一句话总结

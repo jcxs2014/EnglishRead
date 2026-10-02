@@ -69,7 +69,6 @@
 
 **附：原文 TERRIFYING TIDBIT**
 
-TERRIFYING TIDBIT
 If the lobby of the Biltmore looks familiar, it is because it was used in the hotel scene in the filming of the 1984 movie Ghostbusters. Who you gonna call? The Biltmore evidently.
 
 ## 一句话总结

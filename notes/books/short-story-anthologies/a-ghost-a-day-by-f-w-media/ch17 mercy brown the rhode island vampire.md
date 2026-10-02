@@ -69,7 +69,6 @@
 
 **附：原文 TERRIFYING TIDBIT**
 
-TERRIFYING TIDBIT
 Vampires were thought to despise mirrors, as they were not able to see their own reflection.
 
 ## 一句话总结

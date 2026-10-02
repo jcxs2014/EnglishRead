@@ -69,7 +69,6 @@
 
 **附：原文 TERRIFYING TIDBIT**
 
-TERRIFYING TIDBIT
 Cold spots are an indication that spirits are at hand because they are thought to draw the energy (heat) out of the air.
 
 ## 一句话总结
