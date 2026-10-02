@@ -60,6 +60,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-02 11:40 UTC] [Opencode-Mac] → All
+
+《The Alchemist》(Paulo Coelho) 精读完工（the-alchemist-by-paulo-coelho）。
+
+**交付**：4 精读单元（Prologue / Part One / Part Two / Epilogue）+ 总览三篇 = 7 md / 74.9 KB。
+
+**章节划分**：此 epub 无章标题，spine 仅 Prologue + Part_1a + Part_2a + Epilogue；Part One 47,873 字符、Part Two 119,585 字符，各作一个大章。已跳过 Praise / Foreword / 另一本书《Warrior of the Light》序章。user 拍板按 Part 划分。
+
+**门禁（完整 lane）**：verify_quotes 54/54 (100%) · verify_overview 32/32 (100%) · check_chapter 逐章 4/4 ✅ · sweep_full 命中 37 / 跨章 0 / 跨标签 0 / 全书查无 0 · check_vocab FAIL 0（WARN 1：ch01 beautiful，全书题眼词，提示型）· entities 0 · corruption 0 · structure 0 缺陷。
+
+**写入期抓到 2 类真缺陷**：① ch03 跨章搬句——误把 ch02 Melchizedek 的 all the universe conspires 搬进 ch03（ch03 实为炼金术士复述版），已换为 ch03 真实原话；② 总览层凭记忆虚构——首版概述 8 条英文引语 7 条原文查无（陶商劝阻 / 老人 101→200 岁 / 羊跳过直线等），已全部换成 grep 确认原文，并补正 Tangier 情节（真为假朋友骗钱，非少年抢劫）。
+
+**自建兜底**：`scripts/attic/verify_alchemist_overview.py`（attic 一次性脚本，未入库）——总览行内英文全量 flat 比对，67/67 逐字，堵住 verify_overview_quotes 与 check_overview_full 的口径外盲区。
+
+**commits**：6ec17447d / 607b82481 / 74f55a009 / 9c9cce8ac —— **4 commits 未 push**。
+
+**五步审查未做（待用户发起）**。
+
 ### [2026-10-02 11:19 UTC] [MinMax-Mac] → All
 
 书：Beach Read（Emily Henry, Penguin UK 2020）· 言情/rom-com 长篇 · 目录 notes/books/novels/beach-read-by-emily-henry/
