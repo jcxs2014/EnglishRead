@@ -61,8 +61,8 @@ source_text: "text/ch16 16 the porch furniture.txt"
 > **原句 7:** I tried out three separate signatures but none seemed right. In the end, I decided not to leave so much as a J behind.
 
 **中文理解：**我试了三种不同的签名，但哪一种都不对。最后我决定连一个 J 都不留下。
-**关键词：**three separate signatures / none seemed right / not leave so much as a J
-**为什么这样写：****可数事件的精确陈述**（`three separate signatures`）加上一个**被否定的最小单位**（`not leave so much as a J`）。作者用「一个字母」这个极小单位承载全部的拒绝——她不是不想署名，是**连署名的意愿都撤回了**。`so much as`（哪怕一个）是这里语义的核心。
+**关键词：**three separate signatures / none seemed right / not to leave so much as a J
+**为什么这样写：****可数事件的精确陈述**（`three separate signatures`）加上一个**被否定的最小单位**（`not to leave so much as a J`）。作者用「一个字母」这个极小单位承载全部的拒绝——她不是不想署名，是**连署名的意愿都撤回了**。`so much as`（哪怕一个）是这里语义的核心。
 **读者视角提示：**这封邮件写给 Sonya。她刚在脑子里排了出租家具的计划（craigslist），实际发出的却是一条指向人的消息。
 
 > **原句 8:** The space was lived-in—books left open on tables, stacks of mail on top of anthologies and literary journals, a mug here or there on a coaster—but compared to his usual level of sloppiness, the room was meticulously neat.
@@ -124,7 +124,7 @@ source_text: "text/ch16 16 the porch furniture.txt"
 > **原句 16:** No explanation, no information about where he’d been.
 
 **中文理解：**没有解释，没有关于他去了哪里的任何信息。
-**关键词：**No explanation / no information / had been
+**关键词：**No explanation / no information / he’d been
 **为什么这样写：****两个分句的同构否定**（`No X, no Y`）构成排比降级：一个连**理由**都不给，一个连**行踪**都不给。`where he’d been` 用过去完成时（`had been`），暗示那段时间**已经结束且不可回溯**。
 **读者视角提示：**这与前文 Dave 的「给了四小时、给全部童年」形成**供述不对等**：Dave 说尽，他不说。
 
@@ -138,7 +138,7 @@ source_text: "text/ch16 16 the porch furniture.txt"
 > **原句 18:** It’s good to see you.
 
 **中文理解：**很高兴见到你。
-**关键词：**It’s good to see you / You said that already
+**关键词：**It’s good to see you
 **为什么这样写：**这句在本章**出现两次**：第一次是他送她出门时，第二次是他头靠在门框上、她已踏上 porch 时。第二次之前她 `hesitated at the sound of my own name`（在自己的名字响起处犹豫），而这句重复不是寒暄，是他留住她的**仅有手段**。同一句话**两次投放、零新增信息**，是本章最经济的推进。
 **读者视角提示：**她对第二次的回答是一句指控式的回话（`You said that already.`）——**把重话说成指责**，这是她防御机制的标准动作。
 

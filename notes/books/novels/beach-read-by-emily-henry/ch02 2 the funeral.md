@@ -33,7 +33,7 @@ source_text: "text/ch02 2 the funeral.txt"
 > **原句 3:** Trial. Happy ending. Tribulation. Happy ending. Chemo. Happy ending.
 
 **中文理解：**Trials。幸福结局。苦难。幸福结局。化疗。幸福结局。
-**关键词：**Tribulation / Happy ending / 分号之外的全角句点排比
+**关键词：**Tribulation / Happy ending / Chemo. Happy ending
 **为什么这样写：****六个词组、六次句号**，把一生压成一条**极简的对照轨**：`Trial → Happy ending → Tribulation → Happy ending → Chemo → Happy ending`。作者不给任何动词与主语，让这对名词自己排队；`Tribulation`（苦难，书面语）与前后两个日常词（`Trial` 官司、`Chemo` 化疗）**语域不一致**，正是这种不一致暗示她后来把家事**写成了小说**。三个 `Happy ending` 重复三次，把「幸福结局」从偶发事件变成**默认设置**。
 **读者视角提示：**这六个词组各自对应本章后面的一段回忆（父母分居又复合、母亲两次癌症）。这是**提纲式叙事**：先给结论，再展开证据。
 

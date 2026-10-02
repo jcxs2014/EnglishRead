@@ -68,7 +68,7 @@ source_text: "text/ch21 21 the cookout.txt"
 > **原句 8:** “Hey, do you know what kind of stone this path is made of?”
 
 **中文理解：**「嘿，你知道这条小路是什么石头铺的吗？」（此处为她在派对上凑近他时的耳语，与前述同一梗。）
-**关键词：**what kind of stone / I whispered back / the one thing I can never forgive you
+**关键词：**what kind of stone / this path is made of
 **为什么这样写：**这是**明知故问的转移话题**——她刚接住他那句 `“World-infamous,” he whispered.`，用一个关于石头的问题把话头带走。`I whispered back`（我低声回他）里的 **whisper** 是这一段的题眼：派对上人多，两人只能压低声音说话，于是**对话的音量本身成了他们的关系的刻度**。他回的那句 `asking that question is the one thing I can never forgive you for`（问那个问题是我唯一永远不会原谅你的事）用**玩笑的语气承认一条禁令的存在**，而 `I can never forgive you`（我永远不能原谅你）在这本书的语境里同时指向书社的题材规矩与他的嫉妒。
 **读者视角提示：**这段停在派对中段的小径上——`a nook formed by lush foliage, out of view of both the beanbag toss and the deck`（一处绿荫围成的小窝，豆包沙包架和平台甲板都看不见）。**位置本身就是这段对话的性质**：离开人群视线之后，玩笑才敢往下走一层。**）**
 
@@ -89,7 +89,7 @@ source_text: "text/ch21 21 the cookout.txt"
 > **原句 11:** “Gus,” I said. “Is everything okay?”
 
 **中文理解：**「Gus，」我说。「都还好吗？」
-**关键词：**Is everything okay / 两个词的问句
+**关键词：**Is everything okay
 **为什么这样写：****全书最短的一次关切**——一个三词问句，被她包在两个名字里（`Gus,` 与 `I said.`）才送出去。这不是寒暄，而是**一次读表**：她在一整场热闹里找不到一个能单独问他的时刻，只好借草丛的掩护低声问。`Is everything okay?`（都还好吗？）问的是状态，而她真正想问的是**他为什么不肯说**。
 **读者视角提示：**他的回答是 `Yeah, it’s nothing.`（没事。）以及随后那句 `No. There’s no ‘it’ except the blue punch, and there will be a lot of that.`（不，除了那杯蓝色鸡尾酒没什么事，而那东西会很多。）——**用玩笑把话题封死**，这是他在本章的说话方式；她那句追问（`But there is an ‘it,’`）也在这里。
 
@@ -124,7 +124,7 @@ source_text: "text/ch21 21 the cookout.txt"
 | ineffectually | 徒劳地、无效地 | My hand scraped down his front to push ineffectually at his briefs. |
 | in my peripheral vision | 在我的余光里 | His free hand reached along the shelf at my shoulder level until it met a blue jar in my peripheral vision. |
 | an intoxicating pulse | 一阵令人沉醉的搏动 | His mouth roved over my breast, and an intoxicating pulse of heat and want went through me. |
-| featherlight | 轻若无物的、极轻的 | He rested his head on my chest, his hand tracing a lazy, featherlight path back and forth in the slight valley between his hip bones. |
+| featherlight | 轻若无物的、极轻的 | He rested his head on my chest, his hand tracing a lazy, featherlight path back and forth in the slight valley between my hip bones. |
 | a sweat-sheened shoulder | 覆着汗光的肩膀 | He leaned forward and kissed my sweat-sheened shoulder, nuzzling his face into that side of my neck now. |
 | a gravelly voice | 一副沙哑的嗓子 | “I just remembered what you said about the bookshelf,” he said in a gravelly voice. |
 | lines of consternation | 忧虑的纹路 | The smile melted off his face as he stared at it, lines of consternation rising between his dark brows. |

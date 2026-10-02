@@ -20,7 +20,7 @@ source_text: "text/ch23 23 the lake.txt"
 
 **中文理解：**「January，」他在黑暗里低声说，像念一句咒语，像祷告。
 **关键词：**whispered / incantation / prayer
-**为什么这样写：**作者在开篇的**身体场景**里只给一句带引号的话，其余全用零散的动词短语推进（`tangling` / `unwinding` 之类），因为这一段要的不是台词而是**触觉**。这句台词被两个明喻夹住：`like an incantation, like a prayer`——**同一句话既是咒语又是祷告**，两个都是「把名字念出声以让某事发生」的仪式，排列结构同构。作者把她的名字写成他需要念出来的东西，**主动权因此不在她身上**。
+**为什么这样写：**作者在开篇的**身体场景**里只给一句带引号的话，其余全用零散的动词短语推进（`tangling` / `cradled` 之类），因为这一段要的不是台词而是**触觉**。这句台词被两个明喻夹住：`like an incantation, like a prayer`——**同一句话既是咒语又是祷告**，两个都是「把名字念出声以让某事发生」的仪式，排列结构同构。作者把她的名字写成他需要念出来的东西，**主动权因此不在她身上**。
 **读者视角提示：**呼应开篇全书那句 `I HAVE A FATAL flaw.`：她的 fatal flaw 是把一切押在好故事上，而这一句里他正在**替她念一个故事**。
 
 > **原句 2:** In the basement it had felt like we were racing to devour each other. This was different.

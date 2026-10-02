@@ -51,7 +51,33 @@ BLOCK_ITER = re.compile(r'^> \*\*原句 (\d+):\*\* (.*)$', re.M)
 # ⚠️ 2026-10-01 修正：原式 ^\*\*关键词\*\*：  行首锚定，只认「顶格」形态；
 #    而本库通行形态是列表项 `- **关键词**：…`（行首是 `- `）⇒ 47 章全报「关键词行 0」，
 #    整类假红。改为接受「行首可选列表符号」。
-KW_RE = re.compile(r'^[ \t]*(?:[-*+][ \t]+)?\*\*关键词\*\*：(.*)$', re.M)
+# ⚠️ 2026-10-02 修正（Beach Read 实测）：上一版只认 `**关键词**：`（冒号在粗体**外**），
+#    而本书全书用 `**关键词：**`（冒号在粗体**内**）⇒ 28 个文件全报「关键词行 0 ≠
+#    引语块 N」。全库两种形态并存（实测 8220 文件用外置 / 1964 用内置），
+#    与 gen_overview 2026-09-28 修的 `**中文理解**：` 是**同一个**已记录故障：
+#    单形态正则静默抽 0 条，症状是「结构对账失败」而非「格式错」，极难回溯。
+#    ⇒ 两种形态都必须接受（判据不变，只放宽形态）。
+KW_RE = re.compile(r'^[ \t]*(?:[-*+][ \t]+)?\*\*关键词(?:\*\*：|：\*\*)[ \t]*(.*)$', re.M)
+
+# 短引语阈值：与 check_short_quotes 的 <20 字符口径一致（同一概念只留一处数值，
+# 两处各写一个数就会漂）。短于此长度的引语不适用「唯一命中 1 个自然段」判据。
+SHORT_Q = 20
+
+_TYPO = {'’': "'", '‘': "'", '“': '"', '”': '"',
+         '—': '-', '–': '-', '…': '...'}
+
+
+def norm(s: str) -> str:
+    """md 与 text/ 的归一口径：撇号/引号/破折号统一 + 空白折叠。
+
+    ⚠️ 2026-10-02（Beach Read ch02 原句 1 实测）：原实现拿**原样** q 去 `in` **原样** t，
+    而 md 用直撇号 `'`、epub/text/ 用弯撇号 `’` ⇒ 逐字正确的引语被报「非本章 text/
+    逐字连续子串」。这类假红最坏：它把**真缺陷与量具缺陷混在同一条消息里**。
+    与 AGENTS「核含 U+2019 的串不可用 shell grep」是同一条纪律的代码形态。
+    """
+    for a, b in _TYPO.items():
+        s = s.replace(a, b)
+    return re.sub(r'\s+', ' ', s).strip()
 
 
 def paras(text: str):
@@ -89,6 +115,8 @@ def check(md: Path, book: Path):
         return out + [f"{md.name}: 找不到 text/ch{n:02d}*.txt（分隔符已兼容 _ . 空格）"]
     t = Path(_p).read_text(encoding="utf-8")
     ps = paras(t)
+    tn = norm(t)
+    pn = [norm(x) for x in ps]
     # ⚠️ 2026-10-01 修正（本书 ch02 触发）：原实现用 BLOCK_RE 切块、却用 QUOTE_RE 取
     # 「编号 + 引语」，**两者口径不一致**——QUOTE_RE 要求引语被直双引号包裹，而引语行
     # 同样常见「原文弯引号」或「完全不加引号」两种形态。那类文件 BLOCK_RE 切出 N 块、
@@ -105,11 +133,24 @@ def check(md: Path, book: Path):
         q = body.strip()
         if len(q) > 1 and q[0] in '"“‘' and q[-1] in '"”’':
             q = q[1:-1]
-        if q not in t:
+        qn = norm(q)
+        if qn not in tn:
             out.append(f"{md.name} 原句{num}: 引语非本章 text/ 逐字连续子串")
             continue
-        if sum(1 for p in ps if q in p) != 1:
-            out.append(f"{md.name} 原句{num}: 引语跨自然段（拼接红线）")
+        if sum(1 for p in pn if qn in p) != 1:
+            # ⚠️ 2026-10-02 修正（Beach Read ch18 原句 16 实测）：原判据对**所有**引语
+            # 都要求「恰好命中 1 个自然段」，而 `Sorry.`（5 字符）在该章 3 个自然段里
+            # 都出现 ⇒ 报「引语跨自然段（拼接红线）」。
+            # 但**拼接红线要抓的是「用 … 把两段缝成一块」**——1 个词的引语**在结构上
+            # 不可能**是两段的拼接（拼不出 `Sorry.`）。即：这是判据**不适用**，
+            # 不是内容有问题，也不是「为过门禁而放宽」。
+            # ⇒ 短于 SHORT_Q 的引语不适用本判据，降级为提示，由 check_short_quotes
+            #   （<20 字符兜底）负责「是否逐字存在于书中」这一半。
+            if len(qn) < SHORT_Q:
+                out.append(f"{md.name} 原句{num}: ⚠️ 提示·短引语（{len(qn)} 字符）"
+                           f"命中 {sum(1 for p in pn if qn in p)} 个自然段，拼接判据不适用")
+            else:
+                out.append(f"{md.name} 原句{num}: 引语跨自然段（拼接红线）")
         # ⚠️ 2026-10-01 修正：原实现只按「；」切分，而本库关键词的**通行写法是 ` / `**
         # （实测跨书抽样：`stunned / flabbergasted / so shocked he'll faint`）⇒ 未命中分隔符的
         # 整串「a / b / c」被当成**一个**关键词去引语里找，必然查无 ⇒ 7/7 块全假红。
@@ -118,9 +159,21 @@ def check(md: Path, book: Path):
         # 但全库主流关键词分隔符还有 ` · `（间隔号，Last Girl Breathing 系 24 章
         # 全部如此）⇒ 整串「a · b · c」被当成一个关键词，24 文件 169 块全假红。
         # 把 `·` 补进切分类；判据不变（每个关键词须能在本块引语内逐字找到）。
-        kws = [k.strip() for k in re.split(r"[；;／/·]", KW_RE.search(block).group(1)) if k.strip()] \
+        # ⚠️ 2026-10-02 第三次补（接进 gate.sh ⑱ 后对存量书回归实测）：全库分隔符实测
+        # 频次 `/`28104 · `（`22608 · `,`15491 · `）、`6295 · `；`6207 · `·`4369 · `、`4050。
+        # 漏掉 **`、`**（中文顿号）⇒ 写成「关键词（注释）、关键词（注释）」的书，
+        # 整个 `a（甲）、b（乙）` 被当成**一个**关键词，恒查无 ⇒ 310 条假红
+        # （the-wrong-sister 全书命中）。顿号不会出现在英文词组内部，可以安全切分；
+        # **`,` / `，` 不加**——它们是英文短语自身的成分（`multi-claim, hedging` 是一个词条）。
+        kws = [k.strip() for k in re.split(r"[；;／/·、]", KW_RE.search(block).group(1)) if k.strip()] \
             if KW_RE.search(block) else []
-        miss = [k for k in kws if k.lower() not in q.lower()]
+        # ⚠️ 2026-10-02（Beach Read 修完 text 侧后仍报 7 条时定位）：上一版只把**引语**归一
+        # （qn），关键词却仍拿**原样** k 去比 **原样** q ⇒ md 用直撇号 `'`、正文用弯撇号
+        # `’` 时必然查无。两侧必须走**同一个** norm()——判据不变，只统一口径。
+        # 同批补：关键词尾部的**中文注释**（`HAVE（全大写强调）`）是本库通行写法，
+        # 而注释部分按定义不在引语里 ⇒ 不剥就恒假红（实测 3 条）。
+        miss = [k for k in kws
+                if norm(re.sub(r"（[^）]*）|\([^)]*\)", "", k)).lower() not in qn.lower()]
         if miss:
             out.append(f"{md.name} 原句{num}: 关键词不在本块引语内 → {miss}")
     return out
@@ -139,7 +192,13 @@ def main():
     for md in mds:
         bad += check(md, book)
     for b in bad:
-        print("  ❌ " + b)
+        # ⚠️ 2026-10-02：提示型**不得打 ❌ 前缀**——AGENTS 三档里提示型「只记不改」，
+        #   而 gate.sh ⑱ 的退出码按「是否含 ❌」聚合 ⇒ 标错档会把提示变成阻断。
+        #   判据用「含」不用 startswith：条目是 `文件名 原句N: ⚠️ 提示…`，前缀是文件名。
+        if "⚠️ 提示" in b:
+            print("  ⚠️ " + b.split("⚠️ 提示", 1)[1].join(["提示", ""]).lstrip("·"))
+        else:
+            print("  ❌ " + b)
     print(f"=== 引语块覆盖度：{len(mds)} 个 md，问题 {len(bad)} 处 ===")
     return 1 if bad else 0
 

@@ -8,6 +8,15 @@ B="$1"
 EPUB=$(ls "$B"/library/*.epub 2>/dev/null | head -1)
 cd "$(git rev-parse --show-toplevel)"
 
+# ⚠️ 2026-10-02 修正（Beach Read 第九轮）：**本脚本此前没有任何退出码聚合逻辑**——
+#   退出码就是**最后一条管道**里 `tail` 的返回值，恒为 0。于是「bash gate.sh ⇒ exit 0」
+#   这个信号**一直是空的**：⑱ 报出 28 章配额超限时，退出码照样是 0。
+#   这与本项目已记录的「打印了成功」≠「文件改了」是同族：**量具报了失败，退出码说成功**。
+#   ⇒ 落一份完整输出，末尾按「是否含 ❌」聚合退出码。
+#   只认 ❌：⚠️（提示型）与 ❓（lane 降级不出结论）按 AGENTS 三档分类**不阻塞 commit**。
+GATE_LOG="${TMPDIR:-/tmp}/englishread_gate_last.log"
+exec > >(tee "$GATE_LOG")
+
 echo "=== lane ==="
 [ -n "$EPUB" ] && echo "完整 lane（有 epub）" || echo "降级 lane（无 epub）"
 
@@ -171,3 +180,33 @@ python3 scripts/check_xref_chapter.py "$B" 2>&1 | sed -n '1,40p'
 #   五种判据：缺前缀 / 编号倒序 / 编号撞车 / 孤儿分析 / 自查泄漏。
 echo; echo "=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）==="
 python3 scripts/check_quote_blocks.py "$B" 2>&1 | head -40
+
+
+# ⑱ 2026-10-02 新增（Beach Read 第九轮）：**引语块配额 + 关键词锚定 + 拼接红线**。
+#   起因（本项目第 4 次同形态失误）：`check_block_keywords` **从未接进正门**，
+#   于是前 17 项全绿的情况下——① 28 章**每章 12–23 块、全部超出体裁表 3–8 处配额**，
+#   ② 17 处关键词越界／删词（not to→not、plural "books,"→plural "books"）全部漏网。
+#   教训同前三次：**「以为跑了 gate.sh 就够」**——正门本身也有覆盖缺口，
+#   接进门禁的检查器集合**必须对着 `ls scripts/` 清点过**。
+#   本项同时兜住两个此前无人负责的层：块数配额（体裁表）与关键词逐字锚定。
+echo; echo "=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）==="
+python3 scripts/check_block_keywords.py "$B" 2>&1 | tail -32
+
+
+# ---- 退出码聚合（2026-10-02 新增，见文件头说明）----
+# ⚠️ 上一版用 `exec >/dev/tty` 把汇总行打回终端，在 stdout 被重定向到文件/管道的
+#   场景下 /dev/tty 不存在 ⇒ exec 失败把 stdout 置坏，汇总行根本没打出来，退出码仍 0。
+#   ⇒ 不做任何 fd  gymnastics：直接读 tee 落下的日志。sleep 只是等 tee 刷缓冲。
+sleep 0.3
+# ⚠️ 2026-10-02 第二次修正：不能简单 `grep -c "❌"`——各工具的**汇总行本身就含 ❌ 字形**
+#   却报 0（`❌ 结构缺陷 0 ｜ ⚠️ 提示 1`、`❌ 凭空造词 0 处`），第一版把 28 条真阻断
+#   数成 36。判据：缩进 ❌ **条目行**（工具逐条打印的问题），排除
+#   ① 含 `｜` 的汇总行  ② 含 ` 0 ` 的零计数行。
+_gfail=$(grep -E '^[[:space:]]+❌' "$GATE_LOG" 2>/dev/null | grep -v '｜' | grep -v ' 0 ' | wc -l | tr -d ' ')
+_gfail=${_gfail:-0}
+if [ "$_gfail" -gt 0 ]; then
+  echo "══ 正门结论：❌ ${_gfail} 条阻断型（见上；退出码 1）══"
+  exit 1
+fi
+echo "══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══"
+exit 0

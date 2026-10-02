@@ -117,14 +117,14 @@ source_text: "text/ch19 19 the beach.txt"
 > **原句 15:** “I do, you know,” he said.
 
 **中文理解：**我是在乎的，你知道的。
-**关键词：**I do / knowing
+**关键词：**I do / you know
 **为什么这样写：****四个音节的对称回应**——他前一句是 `I do, you know,`（我是在乎的），她回的是 `I do.`（我是在乎的），并补一句 `Know that, I mean.`（我是说，你知道这件事。）`I do` 这个**婚礼用语**（回答牧师的「你是否愿意」）被反复挪用到**日常确认**的场合，是本卷对「结局」这一概念的处理方式。
 **读者视角提示：**本卷对「Is this a date?」这类问题的处理是**先否认后确认**（ch17 `This date would’ve been perfect, if it had been a date.`），本章的 `I do` 是这条线上的**反向用法**。
 
 > **原句 16:** Care about you.
 
 **中文理解：**在乎你。
-**关键词：**Care about you / it was almost a whisper
+**关键词：**Care about you
 **为什么这样写：**本章**收尾句**，只有两个词。原文是 `It was almost a whisper, a tender, rugged thing like Gus himself.`（那几乎是一句耳语，一个温柔的、粗粝的东西，像 Gus 本人。）——`a tender, rugged thing`（温柔而粗粝的东西）用一个**矛盾修饰语**收束整章，而 `like Gus himself`（像他本人）把这份温柔直接等同于他这个人。
 **读者视角提示：**注意本章的 `Care about you` 与 ch16 结尾 `I was done with secrets and lies` 的对照：**他在本章兑现了 ch16 那句宣告的**可能性（终于说出一句没有藏起来的话），而她本章发给母亲的那条短信（`I love you. Even if you can never talk about him again, I’ll always love you, Mom. But I hope you can.`）则是**她自己**的兑现。
 

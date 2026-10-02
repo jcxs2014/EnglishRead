@@ -26,8 +26,8 @@ source_text: "text/ch01 1 the house.txt"
 > **原句 2:** hinging everything that happens to them on a specific characteristic: the thing they learned to do to protect themselves and can’t let go of, even when it stops serving them.
 
 **中文理解：**把发生在他们身上的一切都押在某一个特征上：那件他们小时候为了保护自己而学会、即使早已不再有用也松不开的事。
-**关键词：**hinge / characteristic / can’t let go of / stops serving them
-**为什么这样写：**用 `hinge`（把 hinge 在……上）这个**建筑/机械动词**串起后面的比喻——`even when it stops serving them` 里的 serve 是同一条隐喻的延续（机械零件「服役」）。这是 8.1 说的「关键词只从引语里挑」的高价值样本：**hinge 与 serve 属同一语义场**，而 `protect themselves` 才是真正的心理落点。作者用一个长定语从句把「童年防御机制」这个抽象概念写得可操作。
+**关键词：**hinging / characteristic / can’t let go of / stops serving them
+**为什么这样写：**用 `hinging`（hinge on，把……押在……上）这个**建筑/机械动词**串起后面的比喻——`even when it stops serving them` 里的 serve 是同一条隐喻的延续（机械零件「服役」）。这是 8.1 说的「关键词只从引语里挑」的高价值样本：**hinging 与 serve 属同一语义场**，而 `protect themselves` 才是真正的心理落点。作者用一个长定语从句把「童年防御机制」这个抽象概念写得可操作。
 **读者视角提示：**注意 `learned to do` —— 这个缺陷是**习得的**，不是天生的。这条设定决定了全书的疗愈方向：她需要拆掉的是**习得**的东西。
 
 > **原句 3:** you’re barreling down the highway in a midlife-crisis-mobile with a suitcase full of cash and a man named Stan in your trunk.
@@ -54,7 +54,7 @@ source_text: "text/ch01 1 the house.txt"
 > **原句 6:** love could whisk you off to go dancing; laughter could take some of the pain away; beauty could punch holes in your fear.
 
 **中文理解：**爱可以把你卷走去跳舞；笑可以拿走一部分疼痛；美可以在你的恐惧上打出洞。
-**关键词：**whisk / punch holes in / 分号排比
+**关键词：**whisk / punch holes in / could take some of the pain away
 **为什么这样写：****三个分句、三种结构完全同构的动词短语**（`X could + 动词 + 宾语`），作者用排比把价值观写成可口算的清单。三个动词 `whisk / take away / punch holes in` 分别是**轻快 / 移除 / 破防**，强度递进；`punch holes in your fear` 用了一个**空间化的搭配**（在恐惧上打洞），把抽象情绪写成可施工的对象。
 **读者视角提示：**下一段她把这三元组逐一复述（purpose / beauty / candlelight），说明这里的清单是她后来整个人生的**自检表**。
 

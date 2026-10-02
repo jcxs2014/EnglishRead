@@ -26,14 +26,14 @@ source_text: "text/ch22 22 the trip.txt"
 > **原句 2:** I had so many questions but all of them were nebulous, un-askable.
 
 **中文理解：**我有那么多问题，可它们全都模糊得无法问出口。
-**关键词：**nebulous, un-askable / 并列的否定形容
+**关键词：**nebulous, un-askable / so many questions
 **为什么这样写：****两个词构成递进**：`nebulous`（模糊的）说**问题的性质**——她自己都还没想清楚；`un-askable`（问不出口的）说**问题的处境**——她清楚也开不了口。中间用逗号连接，构成**同位并列**。这两个词都不是她「不会问」，是**问题的形状不对**。
 **读者视角提示：**下一段她给出的替代方案是极端的：`I felt like I’d rather risk that and keep my dignity than keep laying everything out for Gus until he finally came right out and admitted he didn’t want me`（我宁可冒险保住自尊，也不愿一直把一切摊开，直到他终于承认他不要我）——**她把尊严设成了比答案更重要的东西**。
 
 > **原句 3:** “I want you to do whatever you want to.”
 
 **中文理解：**你想做什么就做什么。
-**关键词：**do whatever you want to / 双重不定式
+**关键词：**do whatever you want to / I want you to
 **为什么这样写：****一句听起来像尊重、实则是撤退的话**。`whatever you want`（你想要的任何事）表面是全权交付，而 `I want you to do …`（我想让你去做……）把主动权交出去的同时**也把责任交出去**——她之后那句 `That’s not what I asked you.`（那不是我问你的）正是冲着这句来的。
 **读者视角提示：**这一来一回是本章**关系权力结构的缩影**：他用「随你」结束对话，她用「那不是我问的」重启对话。**两人用的是同一种句式，方向相反。**
 
@@ -68,7 +68,7 @@ source_text: "text/ch22 22 the trip.txt"
 > **原句 8:** I’m here.
 
 **中文理解：**我在这儿。
-**关键词：**I’m here / 两个词
+**关键词：**I’m here
 **为什么这样写：****两个词的回应**——她明确说自己在**有很多话想说**的时候只说出了这一句。`There was so much I wanted to say, but all I could get out was`（我本来有那么多话想说，可我能说出口的只有）——这个前置从句把两个词的重量压到最大。`I'm here`（我在这儿）是一个**位置陈述**，不是情感陈述：**她给出的是在场，不是承诺。**
 **读者视角提示：**他的反应被写成**身体的**：`his brow furrowed and his jaw tensed`（他眉头皱起、下颌绷紧）——**他没有用语言回应，而是用面部回应**，这是本卷的固定手法（对照 ch18 的 `the sharp lines etched between his brows`）。
 

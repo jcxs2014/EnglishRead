@@ -48,7 +48,7 @@ source_text: "text/ch04 4 the mouth.txt"
 
 **中文理解：**更上一层：Gus Everett 蠢得要命、恼人地好看。而且不是那种几乎因客观而把自己磨钝的通用型英俊；更像是一种由他散发出来的磁性。
 **关键词：**stupidly, infuriatingly attractive / dulls itself with objectivity / a magnetism he emanated
-**为什么这样写：****两个程度副词（`stupidly, infuriatingly`）先把「好看」贬成「蠢得恼人」，再先否定一种帅、后命名另一种**。`dulls itself with objectivity`（用客观性把自己磨钝）是说：普通意义上的英俊会因「谁看都一样」而失去吸引力——`dull`（变钝）在这里是**自动词 + 反身**。接着 `It was more of a magnetism he emanated.` 用 `emanate`（散发、 emanate 的物理义是辐射）把「帅」换成**场**的比喻：一个 magnet（磁石）**不靠近**也有场，`he emanated` 用主动语态又把它推回「他这个人」。`more of a` 的 `of` 让「磁性」成为「帅」的**程度补语**。
+**为什么这样写：****两个程度副词（`stupidly, infuriatingly`）先把「好看」贬成「蠢得恼人」，再先否定一种帅、后命名另一种**。`dulls itself with objectivity`（用客观性把自己磨钝）是说：普通意义上的英俊会因「谁看都一样」而失去吸引力——`dull`（变钝）在这里是**自动词 + 反身**。接着 `It was more of a magnetism he emanated.` 用 `emanate`（散发；它的本义是「辐射」）把「帅」换成**场**的比喻：一个 magnet（磁石）**不靠近**也有场，`he emanated` 用主动语态又把它推回「他这个人」。`more of a` 的 `of` 让「磁性」成为「帅」的**程度补语**。
 **读者视角提示：**这一段是全章**唯一一次她正面承认他好看**（回忆里）；注意她立刻用一整段的技术分析（下一页的「不是世界如何，而是他如何看东西」）把这份欣赏**压回技术层面**。
 
 > **原句 6:** Unless you wrote short stories with happy endings, in which case you were apparently far more likely to spend four years as rivals, pass another six occasionally Googling him to compare your careers, and then run into him here while dressed like a teen cheerleader at a car wash fundraiser.
@@ -77,7 +77,7 @@ source_text: "text/ch04 4 the mouth.txt"
 **中文理解：**我尽量不去深想 Gus 怎么会忘了我，因为那样只会让我的肤色从「煮过头的龙虾」变成「茄子」。
 **关键词：**I tried not to think too hard / take my complexion from / overcooked lobster to eggplant
 **为什么这样写：****一个 `I tried not to think`（我尽量不去想）后面跟一个 `because`（因为）**——`try not to` 的语法功能是「压制」，而作者接上的 `because` 把压制失败的后果**说出来了**，这是英语里少见的**自证式心理描写**。`take my complexion from X to Y`（把我的肤色从 X 变成 Y）用 `from … to …` 的**变化区间**来写羞耻；`overcooked lobster`（煮过头的龙虾）与 `eggplant`（茄子）都是**暗紫色系**，所以这个比喻的两端其实**颜色相近**——笑点在于她连自己要多红都想好了。
-**读者视角提示：**`comp[l]exion`（肤色）这个正式词用在她最不讲究的时刻；作者是在**用小说的术语写生活**——这是她职业病，也是元小说手法的日常版。
+**读者视角提示：**`complexion`（肤色）这个正式词用在她最不讲究的时刻；作者是在**用小说的术语写生活**——这是她职业病，也是元小说手法的日常版。
 
 > **原句 10:** "So," Gus said finally.
 

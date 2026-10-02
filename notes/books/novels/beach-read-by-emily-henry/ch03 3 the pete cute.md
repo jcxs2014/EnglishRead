@@ -34,7 +34,7 @@ source_text: "text/ch03 3 the pete cute.txt"
 
 **中文理解：**这位女招待确实讨人喜欢。就算咖啡难喝，我也知道自己会再来。
 **关键词：**thoroughly likable / Even if / I knew I'd be back
-**为什么这样写：**作者把**人性好感与商品质量**拆成两句话：`thoroughfully likable`（完全讨喜）说的是人，`the coffee sucked`（咖啡很糟）说的是东西，而 `Even if`（就算）**把人放在商品前面**。`I knew I'd be back` 用 `I knew` 而非 `I would`——这是**内心确信式将来时**（我现在就知道我会回来），是叙述者给自己下的**诊断**而不是计划。
+**为什么这样写：**作者把**人性好感与商品质量**拆成两句话：`thoroughly likable`（完全讨喜）说的是人，`the coffee sucked`（咖啡很糟）说的是东西，而 `Even if`（就算）**把人放在商品前面**。`I knew I'd be back` 用 `I knew` 而非 `I would`——这是**内心确信式将来时**（我现在就知道我会回来），是叙述者给自己下的**诊断**而不是计划。
 **读者视角提示：**这个「我喜欢一个人，与她做的事好不好无关」的判断是**旧 January 的残留**——下一段的 `For the old January` 会点明她怀念的正是这个版本。
 
 > **原句 4:** I liked her so much that it sent a little pang of longing through me.
@@ -54,14 +54,14 @@ source_text: "text/ch03 3 the pete cute.txt"
 > **原句 6:** I never corrected people when they said singular "book" rather than plural "books," but sometimes the assumption dug under my skin.
 
 **中文理解：**人们把复数的「书」说成单数的「书」时，我从不纠正他们，但这个假设有时会钻进我的皮肤底下。
-**关键词：**singular "book" / plural "books" / dug under my skin
+**关键词：**singular "book" / plural "books," / dug under my skin
 **为什么这样写：**`singular` 与 `plural` 是**语法学术语**，作者把一场社交冒犯写成**一个语法错误**。`I never corrected people`（我从不纠正他们）是先给出一个**有教养的反应**，然后 `but sometimes the assumption dug under my skin`（但这个假设有时会钻进我的皮肤底下）把它推翻。`dug under my skin`（钻进皮肤底下）比 `hurt`（伤害）更**具体**——它不是伤口，是**皮下掘进的动作**。
 **读者视角提示：**下一段紧接「另一群人假装我们共享一个秘密笑话」，两句合起来是**两种被误认的方式**：一种把她当 flop，一种把她当笑话。写分析时它们是并列的，不要只当上下句。
 
 > **原句 7:** This town is a nice little pocket of progressivism here in the Mitten, but the people with the purse strings are still a bunch of pearl-clutching golf bags.
 
 **中文理解：**不过这个小镇在这只「手套州」里是个小小的进步主义口袋，但掌钱袋子的那些人还是一群紧抓着珍珠（抹胸衣的搭扣）的高尔夫包。
-**关键词：**a little pocket of progressivism / pearl-clutching golf bags / the purse strings
+**关键词：**a nice little pocket of progressivism / pearl-clutching golf bags / the purse strings
 **为什么这样写：**这是**政治吐槽的高峰段**，作者用一个**双重比喻**结尾：`pearl-clutching`（抓珍珠的）说的是抹胸内衣的搭扣，`golf bags`（高尔夫包）说的是**臃肿无用的身形**。前面用 `the Mitten`（密歇根州的别名，手套形状）当地名，`a little pocket`（一个小口袋）当政治地理学——三层的**地域梗**叠在一起。这个 `but` 是**口语里的口头禅式转折**，说明这段吐槽是即兴的，不是一段经过修饰的演说。
 **读者视角提示：**Pete 的这段话是**她本人的政治立场**（小镇进步但掌钱袋的保守），不是作者的立场——作者把「吐槽写在角色嘴里」，读者听的时候要分开。
 
@@ -70,7 +70,7 @@ source_text: "text/ch03 3 the pete cute.txt"
 **中文理解：**这听起来太像爸爸会说的话了。那股痛楚灼穿我，壁炉火钳一般又利又烫。
 **关键词：**something Dad would've said / seared / fire-poker sharp and hot
 **为什么这样写：****条件式 would've said**（本会说的）——注意父亲此刻**已经不能说话**，所以这是「如果他在场他会这样说」。这个 `would've` 是**未实现的虚拟**，是本句最锋利的语法选择。`fire-poker sharp and hot`（壁炉火钳般又利又烫）把「锐利」与「烫」并列为两个**触觉维度**（利＝切口、烫＝表面），用一件具体的家什（fire poker 拨火棍）作喻体，比「如刀割」更有**家里**的味道。
-**读者视角提示：**火钳是**壁炉的配件**——这个喻体选的是「家里的东西」，与 ch01 的 `boot`（长筒靴）、`trainspotting mug` 同属「用父系物件写父系丧失」的手法家族。
+**读者视角提示：**火钳是**壁炉的配件**——这个喻体选的是「家里的东西」，与 ch01 那个被父亲 `positioned over the fireplace at home` 的畅销榜剪报同属「用家里摆放过的东西写父系丧失」的手法家族。
 
 > **原句 9:** Pete gasped and clutched my arm. "Idea, January Andrews! You should come to our book club. We'd love to have ya. Great way to get involved in the community. It's Mondays. Can you do Monday? Tomorrow?"
 
@@ -111,7 +111,7 @@ source_text: "text/ch03 3 the pete cute.txt"
 | coping mechanisms | 应对（痛苦）的机制 | I would have to find other coping mechanisms. |
 | fairly incompatible with | 与……颇不相容 | As it turned out, this “thing” of mine was fairly incompatible with the whole capsule wardrobe concept. |
 | a coffee IV | 一杯咖啡输液（IV＝静脉滴注，此处夸张俚语） | The next essential step for me to go on existing was a coffee IV. |
-| a little pocket of progressivism | 一个小小的进步主义口袋（pocket＝小块飞地） | This town is a nice little pocket of progressivism here in the Mitten, but the people with the purse strings are still a bunch of pearl-clutching golf bags. |
+| a nice little pocket of progressivism | 一个小小的进步主义口袋（pocket＝小块飞地） | This town is a nice little pocket of progressivism here in the Mitten, but the people with the purse strings are still a bunch of pearl-clutching golf bags. |
 | pearl-clutching golf bags | 紧攥珍珠（抹胸扣）的高尔夫包（双重比喻，讽刺臃肿体型） | This town is a nice little pocket of progressivism here in the Mitten, but the people with the purse strings are still a bunch of pearl-clutching golf bags. |
 | lackadaisically | 慢悠悠地、懒洋洋地 | She threw her head back and laughed again as she moved lackadaisically between machines. |
 | Plastering a smile on my face | 硬把笑容糊在脸上 | Plastering a smile on my face, I passed through the doorway into the bookstore. |

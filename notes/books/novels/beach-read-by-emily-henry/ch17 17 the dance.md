@@ -54,7 +54,7 @@ source_text: "text/ch17 17 the dance.txt"
 > **原句 6:** To your happy endings.
 
 **中文理解：**敬你的 happy ending。
-**关键词：**To your happy endings / 单数变复数
+**关键词：**To your happy endings / happy endings
 **为什么这样写：**这句把她的名字替换成**她的产品**——他举杯敬的不是一个女人，是一套写法。全大写 `CHEERS` 之后紧跟这三个词，构成**从祝酒到嘲讽的急转**。她随后的解读（他像是在笑她天真）之所以成立，正因为 `your`（你的）把主语从人换成了作品。
 **读者视角提示：**注意她是否**碰杯**：原文写她 `threw back the whiskey without meeting his lifted shot`（仰头喝下，没碰上他举着的杯）——**不碰杯是这一章的物理证据**。
 
@@ -110,7 +110,7 @@ source_text: "text/ch17 17 the dance.txt"
 > **原句 14:** She should have picked you.
 
 **中文理解：**「她本该选你的。」
-**关键词：**She should have picked you / which she
+**关键词：**She should have picked you
 **为什么这样写：**`She should have picked you`（她本该选你）用的是**过去情态动词**（`should have`）——本可以做而没做的事。这是一个**追认**：她无法改写离婚，但可以替对方补上那句选择。紧接的后文里她自己指出这句话**指向不明**（`even if I wasn’t sure exactly which she I was talking about`），这个自我修正让追认从控诉变成**两个人共担**。
 **读者视角提示：**这是本章的**情感落点**：整场的争点是「你为什么不告诉我」，而她给出的第一句和解不是道歉，是**替他前任认错**——错位得厉害，而这正是她表达方式的一部分。
 

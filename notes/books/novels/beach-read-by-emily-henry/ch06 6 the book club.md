@@ -34,7 +34,7 @@ source_text: "text/ch06 6 the book club.txt"
 
 **中文理解：**「蓝牙 smooothe，」Pete 正在说。
 **关键词：**Bluetooth shmootooth / was saying
-**为什么这样写：****叠词（reduplication）的喜剧**：`shmoo-` 是英语里一种**拖长音的即兴词**（把 `smooth` 拖成 `shmoooth`），作者把它拆成两段写出来。Pete 复述 Sonya 那句极长的借口（`I totally forgot this work call—my boss won't stop emailing until I'm in the car and on my Bluetooth.`）时，**只保留了最后一个词**，而那个词还是被拉长了的——这是**舆论复述的失真**：一整段推脱在客厅里变成了三个音节。`was saying`（正在说）用**进行时**而不是 `said`，说明 January 是在**走廊尽头偷听**的，不在对话里。
+**为什么这样写：****叠词（reduplication）的喜剧**：作者在书里造的假正经圣名是 `Bluetooth shmootooth`——把拟声词 `shmoo`（啵唧）与 `Bluetooth` 的词尾 `tooth` 拼成一个词，还让它冒充祷词（`Praise be to the Bluetooth Shmootooth!`）。Pete 复述 Sonya 那句极长的借口（`I totally forgot this work call—my boss won't stop emailing until I'm in the car and on my Bluetooth.`）时，**只保留了最后一个词**，而那个词还是被拉长了的——这是**舆论复述的失真**：一整段推脱在客厅里变成了三个音节。`was saying`（正在说）用**进行时**而不是 `said`，说明 January 是在**走廊尽头偷听**的，不在对话里。
 **读者视角提示：**这个拖长音在本章出现两次（`Bluetooth shmootooth` 与 `Praise be to the Bluetooth Shmootooth!`）——第二次是 January **在内心替 Sonya 说话**，同一个小词从「偷听到的」变成「自己用的」，这是本章唯一一处她对 Sonya 表现出**同向而非敌意**的时刻。
 
 > **原句 4:** Admittedly, it was not my good attitude and strength of spirit that got me out of the bathroom. It was the shuffle of steps and conversation moving down the hallway, the sound of Pete saying, “Oh, you’re sure you can’t stay?” in a voice that made it sound much more like What the hell, Sonya? Why is that weird little girl afraid of you? and of Sonya saying, “No, I wish I could, but I totally forgot this work call—my boss won’t stop emailing until I’m in the car and on my Bluetooth.”
