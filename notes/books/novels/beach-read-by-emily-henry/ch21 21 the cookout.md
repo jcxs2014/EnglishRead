@@ -144,7 +144,7 @@ source_text: "text/ch21 21 the cookout.txt"
 | throttled | 掐住、扼住（此处指声音被欲望压住） | My want throttled my voice into a breathy gasp when I tried to reply. |
 | his touch sharpened | 他的触碰变尖利了 | I ground myself against him and his touch sharpened. |
 | in my peripheral vision | 在我的余光里 | His free hand reached along the shelf at my shoulder level until it met a blue jar in my peripheral vision. |
-| slowly, careful kisses | 缓慢而仔细的吻 | It had never been the plan to lie naked with him while he catalogued every piece of me with slow, careful kisses. |
+| slow, careful kisses | 慢而仔细的吻 | It had never been the plan to lie naked with him while he catalogued every piece of me with slow, careful kisses. |
 | his voice thrummed | 他的声音在我身上震动 | “I love your body,” his voice thrummed against me. |
 | giddiness | 晕乎乎的欢喜 | Warmth flooded through me—embarrassment and giddiness and something softer and harder to name. |
 | face-to-face with his shadow | 面对面撞上他的影子 | He looked more at ease, more sure, like all this time I’d only ever come face-to-face with his shadow. |
@@ -156,11 +156,11 @@ source_text: "text/ch21 21 the cookout.txt"
 |---|---|---|
 | my ribs | 我的肋骨 | I gasped his name as he pushed into me again, his hands spanning my ribs. |
 | the blue punch | 蓝色鸡尾酒 | There’s no ‘it’ except the blue punch, and there will be a lot of that. |
-| his bookshelf | 他的书架 | “I just remembered what you said about the bookshelf,” he said in a gravelly voice. |
+| the bookshelf | 那个书架 | “I just remembered what you said about the bookshelf,” he said in a gravelly voice. |
 | my thighs | 我的大腿 | His hands squeezed my thighs, and I gripped the sides of the freezer as he lowered himself between my legs. |
 | the backyard | 后院 | We bypassed the front door, instead winding around the house to the backyard. |
 | a beanbag toss | 沙包投掷游戏 | We’d stopped walking on the path, in a nook formed by lush foliage, out of view of both the beanbag toss and the deck. |
-| into my ear | 进我耳朵 | “Oh my God,” I murmured against his ear. |
+| against his ear | 贴着他耳朵 | “Oh my God,” I murmured against his ear. |
 | the path | 小路 | “Hey, do you know what kind of stone this path is made of?” I whispered back. |
 | my arm | 我的手臂 | She patted his arm gently. |
 

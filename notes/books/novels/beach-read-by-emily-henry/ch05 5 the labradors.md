@@ -131,7 +131,7 @@ source_text: "text/ch05 5 the labradors.txt"
 | seemed to be a version of an affectionate eye roll | 看起来像是「带爱意的白眼」的一个版本 | Maggie’s serene smile seemed to be a version of an affectionate eye roll. |
 | The name hit my stomach like a hammer | 那个名字像锤子砸在胃上 | The name hit my stomach like a hammer. |
 | from under the snoring Labradors | 从打鼾的拉布拉多底下 | “Hi, January,” That Woman said meekly from under the snoring Labradors. |
-| painfully rewritten | 极其痛苦地重写 | I’d written dozens of those, spat out faster than I could type and then painstakingly rewritten in the months following. |
+| painstakingly rewritten | 极其费心地重写 | I’d written dozens of those, spat out faster than I could type and then painstakingly rewritten in the months following. |
 | a humiliating Gus moment | 一次让人难堪的 Gus 时刻 | She was referring to another humiliating Gus moment I’d tried to forget. |
 
 ### ⭐⭐ 进阶

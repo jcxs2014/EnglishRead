@@ -156,7 +156,7 @@ source_text: "text/ch19 19 the beach.txt"
 | thorough | 彻底的、周密的 | The first had been so thorough Gus hadn’t planned to have a second, but Dave had called him that morning. |
 | bushy eyebrows | 浓密的眉毛 | Dave’s dad had been lanky and brown-haired with bushy eyebrows and a receding chin. |
 | a receding chin | 后缩的下巴 | Dave’s dad had been lanky and brown-haired with bushy eyebrows and a receding chin. |
-| a defensive posture | 防御的姿态 | I leaned forward, trying to keep an open, friendly posture to combat her defensive one. |
+| her defensive one | 她那防御的姿态 | I leaned forward, trying to keep an open, friendly posture to combat her defensive one. |
 | estranged | 与…疏远的 | People estranged from their families. |
 | fulfilled | 满足的 | It was like they had the answers, and everyone seemed so happy, fulfilled. |
 | a scientific equation | 一个科学方程 | It was like this great big scientific equation they’d solved. |

@@ -155,7 +155,7 @@ source_text: "text/ch04 4 the mouth.txt"
 | artfully handled sexual proclivities | 被处理得极有艺术感的性癖 | As opposed to the very artfully handled sexual proclivities of your genre? |
 | love-struck pirates or love-struck werewolves | 为情冲昏的海盗或为情冲昏的狼人 | Tell me, which do you find more fascinating to write: love-struck pirates or love-struck werewolves? |
 | the stadium of Revelatories | 「启示者」那一叠（stadium＝层层围成体育场） | I did my best not to glance sideways at the stadium of Revelatories curling around the table behind me. |
-| a grounded and important | 开创性又重要的 | I’m sure it’s something really groundbreaking and important. |
+| groundbreaking and important | 开创性又重要的 | I’m sure it’s something really groundbreaking and important. |
 | a disillusioned white guy, misunderstood and coldly horny | 一个幻灭的白人男性，被误解又冷淡地性欲过剩 | Like a story about a disillusioned white guy, wandering the world, misunderstood and coldly horny. |
 
 ### ⭐⭐ 进阶

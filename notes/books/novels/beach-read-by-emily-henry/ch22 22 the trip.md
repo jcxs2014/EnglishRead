@@ -139,8 +139,8 @@ source_text: "text/ch22 22 the trip.txt"
 
 **中文理解：**「这不意味着我不想要你，January——我一直都想要你。这只意味着我也希望你快乐。」
 **关键词：**It doesn’t mean I don’t want you / I’ve always wanted you / I also want you to be happy
-**为什么这样写：****双重否定与一个插入的「也」**——`It doesn't mean I don't want you`（这不意味着我不想要你）用了两次否定却表达肯定；`I've always wanted you`（我一直都想要你）用**现在完成时**把范围拉到过去所有时间。而 `I also want you to be happy`（我也希望你快乐）里的 `also`（也）是本章的题眼——**他要的东西里包含了她的幸福**，这与 ch21 她的恐惧（他只是要一个「方便的约会对象」）正好相反。
-**读者视角提示：**这句是全章的**解药**：她在 ch21 担心自己只是「one of the many」，而他的完整句是 `I don’t want to hurt you and I don’t want to feel what it would be like to lose you.`（我不想伤害你，也不想体会失去你是什么滋味。）——**他给出的理由里有她的损失。**
+**为什么这样写：****双重否定与一个插入的「也」**——`It doesn't mean I don't want you`（这不意味着我不想要你）用了两次否定却表达肯定；`I've always wanted you`（我一直都想要你）用**现在完成时**把范围拉到过去所有时间。而 `I also want you to be happy`（我也希望你快乐）里的 `also`（也）是本章的题眼——**他要的东西里包含了她的幸福**，这与 ch21 她的自弃（`I knew I was not the Magical One who could fix it all just by Being Me.`）正好相反。
+**读者视角提示：**这句是全章的**解药**：她在 ch21 认定自己不是那个「只做自己就能修好一切的人」（`My stupid fatal flaw had struck again.` 之后就是那句 Magical One），而他给的完整理由是 `I don’t want to hurt you and I don’t want to feel what it would be like to lose you.`（我不想伤害你，也不想体会失去你是什么滋味。）——**他把自己也说成了那个给不出这份幸福的人**，两人其实是同一种害怕的两面。
 
 > **原句 19:** “Then let me be happy with you, Gus,” I said and kissed him softly, like the rare and tender thing he was.
 
@@ -182,7 +182,7 @@ source_text: "text/ch22 22 the trip.txt"
 | sepia-toned | 深褐色调的 | The third picture was much older, a sepia-toned portrait of a grinning little girl with dark curls and one dimple. |
 | whipping past | （在窗外）呼啸而过 | I stared at the buildings whipping past the window. |
 | miserably | 痛苦地、凄惨地 | More than once, I thought miserably. |
-| a misshapen thing | 一个走了形的东西 | Something real, even if a little misshapen. |
+| a little misshapen | 有点走了形 | Something real, even if a little misshapen. |
 | our separate ways | 我们各自的路 | Five PM, and we were going our separate ways. |
 | wrote furiously | 发狠地写 | I went into my house and paced angrily, and when that didn’t do the trick, I sat at my computer and wrote furiously until night fell. |
 | the kettle whistled | 水壶响了 | Behind me, the kettle whistled. |
@@ -203,9 +203,9 @@ source_text: "text/ch22 22 the trip.txt"
 | the bathroom | 洗手间 | “Maybe I’m afraid that once I get in, no one will set a timer and remind me to get out and use the bathroom,” Gus said. |
 | a beach ball | 一只沙滩球 | Maggie found a beach ball, and we started hitting it back and forth. |
 | trying on for size | 试大小（此处指试探） | That was exactly what he thought: that like our bet, Gus was something I was trying on for size while I took a break from the real me. |
-| his point | 他的重点 | I could never figure out what I’d done, and then I saw you at that party, and you were finally looking at me and—that’s my point! |
+| my point | 我的重点 | I could never figure out what I’d done, and then I saw you at that party, and you were finally looking at me and—that’s my point! |
 | a headache | 一个头痛 | “Just had a headache,” he said. |
-| the stairs | 楼梯 | The steps were creaky, wooden, and narrow. |
+| the steps | 台阶 | The steps were creaky, wooden, and narrow. |
 
 ## 一句话总结
 

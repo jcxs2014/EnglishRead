@@ -122,7 +122,7 @@ source_text: "text/ch20 20 the basement.txt"
 |---|---|---|
 | a misrepresentation of the truth | 对真相的错报 | To say we’d fallen asleep on the couch seemed like a misrepresentation of the truth. |
 | movie marathons and binge-watching | 马拉松式连看与刷剧 | For the first time since we’d started hanging out, we’d ventured to the world of movie marathons and binge-watching. |
-| a style of communication called for much context | 一种需要很多背景的沟通方式 | Not that Gus’s style of communication called for much context. |
+| Gus’s style of communication called for much context | Gus 的沟通方式需要很多背景 | Not that Gus’s style of communication called for much context. |
 | opening negotiations | 开启谈判 | I asked, opening negotiations. |
 | with trepidation | 心怀忐忑地 | An email pinged into my inbox and I opened it with trepidation. |
 | an instinctual level | 一个本能的层面 | Even if Gus was constantly surprising me in small ways, there was also an instinctual level at which I felt I knew him, recognized him. |

@@ -210,7 +210,7 @@ source_text: "text/ch08 8 the bet.txt"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| the age of twenty-two | 二十二岁 | “I remember how you wrote when you were twenty-two,” he said carefully. |
+| you were twenty-two | 你二十二岁 | “I remember how you wrote when you were twenty-two,” he said carefully. |
 | The Great American Novel | 伟大的美国小说 | I really did think I could write the kind of book Gus wrote, that I could mimic The Great American Novel. |
 | 冷静 | 冷静地 | Gus cleared his throat. “It’s not that I don’t take romance seriously as a genre. And I like reading about women. But I have a hard time with happy endings.” |
 | 肱二头肌 | 肱二头肌 | He rubbed at the curve of his bicep, an anxious tic I didn’t remember. “I guess.” |

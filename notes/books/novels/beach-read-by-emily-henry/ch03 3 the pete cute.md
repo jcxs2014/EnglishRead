@@ -149,7 +149,7 @@ source_text: "text/ch03 3 the pete cute.txt"
 | a lowly entrepreneur | 一个卑微的小业主 | “I’m just a lowly entrepreneur. |
 | swirled between tables | 在桌子之间旋动 | speckled with silver stars that swirled between tables, interrupted by the occasional framed platitude attributed to “Anonymous.” |
 | the bells over the bookshop door tinkled | 书店门上的铃铛叮当作响 | Because the bells over the bookshop door tinkled, and when I looked up, there he was. |
-| my college rival turned next-door neighbor | 从大学对手变成的隔壁邻居 | I did what any reasonable adult woman would do when confronted with her college rival turned next-door neighbor. |
+| her college rival turned next-door neighbor | 从大学对手变成的隔壁邻居 | I did what any reasonable adult woman would do when confronted with her college rival turned next-door neighbor. |
 
 ### ⭐ 基础
 

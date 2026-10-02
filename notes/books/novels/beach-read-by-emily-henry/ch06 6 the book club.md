@@ -84,7 +84,7 @@ source_text: "text/ch06 6 the book club.txt"
 **中文理解：**我那被酒泡得打滑、虚弱无力的脑子在转，试图弄清这一刻到底有什么让我这么不舒服。
 **关键词：**feeble / wine-slick wheels / what bothered me so much
 **为什么这样写：****两个形容词（`feeble` / `wine-slick`）把「脑子」降级成一对打滑的轮子**——`spun its … wheels`（转动它的轮子）用的是**机械比喻**，而 `wine-slick`（被酒浸得滑）让轮子**打滑**，于是「转不动」这件事被写成了**机器的物理故障**。`what bothered me so much`（到底是什么让我这么难受）用**最高级 so much** 而不给出**宾语的具体内容**——作者把答案留到下一段（`The difference in Pete's introductions.`），这个**延迟**制造了一个短促的悬念。
-**读者视角提示：**`feeble`（虚弱）这个形容词**评判的是脑子，不是她**——作者在自嘲时把嘲讽对准**器官**，这是 ch02 `biking so hard my dead father fell off` 那类写法在本章的对应物。
+**读者视角提示：**`feeble`（虚弱）这个形容词**评判的是脑子，不是她**——作者在自嘲时把嘲讽对准**器官**：脑子被打写成一对打滑的轮子。ch02 用的是同一手法（`my stomach bottomed out`），两处都是**器官代替人发言**。
 
 > **原句 11:** He didn't look horrified so much as bemused, like he thought someone was playing a prank on him but he wasn't confident enough to call it out yet.
 
@@ -163,7 +163,7 @@ source_text: "text/ch06 6 the book club.txt"
 | the senior photo editor of Bloomberg Businessweek | 《彭博商业周刊》的资深图片编辑 | I could get author photos taken by the senior photo editor of Bloomberg Businessweek and he could use his mom’s digital camera from 2002 to snap a shot of himself scowling on his deck and still garner more respect than me. |
 | a phenomenal writer | 一个了不起的作家 | “That got to me. It really did. And you know my heart of stone! Doug G. Hanke is just a phenomenal writer.” |
 | clutching her heart | 双手捂着心口 | “Did anyone else cry when Mark’s daughter sang ‘Amazing Grace’ at the funeral?” Lauren asked, clutching her heart. |
-| in his stuffy Michael Kors dress | 穿着他拘谨的 Michael Kors 连衣裙 | He could show up looking like a college junior’s backup pot dealer (for when the first one was in Myrtle Beach) and still get taken more seriously than I would in my stuffy Michael Kors dress. |
+| in my stuffy Michael Kors dress | 穿着我那件拘谨的 Michael Kors 连衣裙 | He could show up looking like a college junior’s backup pot dealer (for when the first one was in Myrtle Beach) and still get taken more seriously than I would in my stuffy Michael Kors dress. |
 
 ### ⭐ 基础
 
