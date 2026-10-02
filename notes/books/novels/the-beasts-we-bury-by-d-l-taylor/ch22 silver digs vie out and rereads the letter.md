@@ -17,7 +17,7 @@ modified: "2026-10-02"
 
 > **原句 1:** "Magic flame, of course. I’ve never seen this specific magic before, but I know it immediately. How could I not? It’s what made the slums what they are. Prime Gore’s magical explosions, the only thing that could shatter Prime Elod’s glass trees."
 
-**中文理解：** 当然是魔法火。这种具体的魔法我从没亲眼见过，但我一眼就认出来了。我怎么会认不出来？贫民区之所以是今天这副样子，就是它造成的。Prime Gore 的魔法爆炸，那是唯一能击碎 Prime Elod 那些玻璃树的东西。
+**中文理解：** 当然是魔法火。这种具体的魔法我从没亲眼见过，但我一眼就认出来了。我怎么会认不出来？贫民区之所以是今天这副样子，就是它造成的。Prime Gore 的魔法爆炸，也只有它能把 Prime Elod 那些玻璃树击碎。
 
 **关键词：** Magic flame, of course, I know it immediately, Prime Gore’s magical explosions, the only thing that could shatter Prime Elod’s glass trees
 
