@@ -25,7 +25,7 @@ modified: "2026-10-02"
 
 **读者视角提示**：这是叙述者声音的定调句——读者在第一段就应当听出：她处理一切事情的方式是「提前堵住，不让它发生」；全书后半段她要处理的恰恰是堵不住的那一类。
 
-> **原句 2:** And that’s exactly why I prefer to take matters into my own hands and not allow circumstances to ever reach that point.
+> **原句 2:** And that’s exactly why I prefer to take matters into my own hands and not allow circumstances to ever reach that point. I tend to speak my mind, and have it bite me in the ass too often, so I know if I tell Virginia that I hate my hair after this appointment, she’ll never forget it. By noon, she’ll have told everyone in our zero-stoplight town that I’m her pickiest, most unappeasable client. The roasting and poking will start immediately, and by five-thirty when I go to The Diner, someone will pop up out of nowhere and say, Are you sure that booth is good enough for you or would you like the one we reserve for the queen?
 
 **中文理解**：而这正是我宁可把事情拿到自己手上、也绝不让局面走到那一步的原因。我这个人说话不过脑子，而且已经因此吃过太多次亏——所以我知道，如果我对 Virginia 说「剪完我讨厌这个发型」，她永远不会忘。到中午，她就会告诉全镇所有人我是她最难伺候、最不讲道理的客人。
 
@@ -39,21 +39,21 @@ modified: "2026-10-02"
 
 **中文理解**：而且要是显得我反应过度，请务必明白：就是这个镇子，去年还发起过一份请愿书——连同抹黑攻势一起——想劝我最小的妹妹（当时她二十六岁了啊，请注意）别再和 Will Griffin 约会，因为大家都觉得她配他配亏了。
 
-**关键词**：a smear campaign（抹黑攻势）、my youngest sister（我最小的妹妹）、too good for him（配他配亏了）
+**关键词**：complete with smear campaign（连同抹黑攻势一起）、my youngest sister（我最小的妹妹）、too good for him（配他配亏了）
 
 **为什么这样写**：括号插进句中（who was twenty-six years old at the time, mind you），把读者的注意力从「请愿反暗恋」这件小事上拽走一下，再放回去——笑点是插入语本身，而不是主句。mind you 的口吻模拟当地方言的插话，让叙述者与读者站在同一边嘲笑这份请愿。
 
 **读者视角提示**：这里是全家第一次露面：四个 Walker 兄弟姐妹中最小的一个出现了；请愿能成行，说明这个镇子的舆论机器既能动员，也能倒逼——这条机制在几页之后会再次启动。
 
-> **原句 4:** And I do mean the majority of the town.
+> **原句 4:** He won them over in the end (Annie + Will forever), but the petition with the final tallies is framed and hanging in The Diner alongside the picture of Dolly Parton posing with the town. And I do mean the majority of the town. They heard she had stopped in for lunch while passing through, and one person called another who called their cousin who called their best friend who called their aunt’s boyfriend, and they all showed up for one huge group photo.
 
-**中文理解**：而且我说的确实是「大多数」镇民。他们听说她曾顺路进来吃了个午饭，于是一个人打给另一个人，那人打给表亲，表亲打给最好的朋友，朋友打给姑妈男朋友的男朋友——最后全体到场拍了一张大合照。
+**中文理解**：他最后还是说服了他们（Annie 和 Will 永远在一起），但那份请愿书连同最终得票数，被装裱起来挂在 The Diner 的墙上，就挂在多莉·帕顿与小镇的合影旁边。而且我说的确实是「大多数」镇民。他们听说她曾顺路进来吃了个午饭，于是一个人打给另一个人，那人打给表亲，表亲打给最好的朋友，朋友打给姑妈男朋友的男朋友——最后全体到场拍了一张大合照。
 
-**关键词**：I do mean the majority of the town（我说的是大多数镇民）、through the grapevine chain（顺着闲话链条层层传递）
+**关键词**：the petition with the final tallies（那份写着最终得票数的请愿书）、I do mean the majority of the town（我说的是大多数镇民）、one person called another who called their cousin（一个人打给另一个人，那人打给表亲）
 
-**为什么这样写**：作者用一串「a called another who called…」的层层转递，把流言的扩散写成一个可数的连锁反应；句子越滚越长，笑点落在最后那一步的荒谬——姑妈男朋友也被拖进来了。这条链子的结构与本段开头那份请愿的抹黑攻势形成呼应：镇子的信息传播从来不需要真相，只需要接续。
+**为什么这样写**：作者先用两个短句把请愿的结果交代掉（他赢了，但镇子把失败裱起来收藏），再用 And I do mean the majority of the town 单独起句、加重语气——这句自我更正暗示「你以为的全镇」其实还要打折。随后一串「a called another who called…」把流言的扩散写成一个层层转递的连锁反应，句子越滚越长，笑点落在最后那一步的荒谬：姑妈男朋友也被拖进来了。镇子的信息传播从来不需要真相，只需要接续。
 
-**读者视角提示**：这一段的写法是全书喜剧节奏的基准线：荒谬靠的是把一条日常链路写到底，不靠夸张的形容词。
+**读者视角提示**：这一段的写法是全书喜剧节奏的基准线：荒谬靠的是把一条日常链路写到底，不靠夸张的形容词；而「裱起来的请愿书」这个细节同时预告了本章后半段那些被 Emily 记在小本子上的全镇恩怨。
 
 > **原句 5:** The bowl weaves in front of my face again, but I intercept it this time and balance it in my lap to whisk the hell out of this cream. As all good and unbearable perfectionists know, if you want something done right, you mostly have to do it yourself.
 
