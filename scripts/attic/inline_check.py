@@ -1,44 +1,57 @@
-#!/usr/bin/env python3
-"""总览短引语 + 行内英文片段兜底（verify_overview_quotes 与 overview_check 的补盲区）"""
-import re, os, sys, glob, unicodedata
+"""校验 md 分析层/总览层里的行内英文片段是否逐字存在于 text/。
+只取「纯英文短语」（无 CJK、≥2 个英文词），逐条对全部 15 章 text/ 做 flat 断言。
+跨章引用在报告中单列（提示型，不算缺陷）。"""
+import re, glob, sys, os
+nf = lambda s: re.sub(r'\s+', ' ', s).strip()
+CJK = re.compile(r'[一-鿿　-〿＀-￯]')
+WORD = re.compile(r'[A-Za-z][A-Za-z’\'-]*')
 
-flat = lambda s: re.sub(r'[^a-z0-9]', '', unicodedata.normalize('NFKD', s).lower())
-book = sys.argv[1]
-corp = {}
-for f in glob.glob(os.path.join(book, 'text', 'ch*.txt')):
-    nn = int(re.match(r'ch(\d+)', os.path.basename(f)).group(1))
-    corp[nn] = flat(open(f, encoding='utf-8').read())
-allflat = ''.join(corp.values())
+def texts(book):
+    T = {}
+    for p in glob.glob(f"{book}/text/ch*.txt"):
+        c = int(re.match(r'ch(\d+)_', p.split('/')[-1]).group(1))
+        T[c] = nf(open(p, encoding='utf-8').read())
+    return T
 
-SPAN = re.compile(r'[""“]([^""”\n]{4,})[""”]')
-miss = 0
-short = 0
-zh = 0
-print("=== 行内引号内容逐条核对（≥4 字符，英文为主）===")
-for fn in ('00_概述.md', '00_金句精选.md', '00_情感节点.md'):
-    p = os.path.join(book, fn)
-    if not os.path.exists(p):
-        continue
-    for i, line in enumerate(open(p, encoding='utf-8'), 1):
-        for q in SPAN.findall(line):
-            a = sum(1 for c in q if 'a' <= c.lower() <= 'z')
-            # 英文引语 = ASCII 字母占比 ≥60%（中文译文里嵌专名会被误捕，见 ch 概述 L36/L72）
-            if a < 8 or a / max(1, len(q)) < 0.60:
-                # 中文内容（中文引号里的译文/书名）——非英文引语，跳过但单独计数
-                if sum(1 for c in q if '一' <= c <= '鿿') >= 8:
-                    zh += 1
+def segments(md, min_words=2):
+    """抽取所有连续英文词组（跨标点但不含 CJK），≥min_words 个词。"""
+    out, buf = [], []
+    for ch in md:
+        if CJK.search(ch):
+            if len(buf) >= min_words:
+                out.append(nf("".join(buf)))
+            buf = []
+        elif WORD.match(ch):
+            buf.append(ch)
+        else:
+            if len(buf) >= min_words:
+                out.append(nf("".join(buf)))
+            buf = []
+    if len(buf) >= min_words:
+        out.append(nf("".join(buf)))
+    return out
+
+def main():
+    book = sys.argv[1]
+    T = texts(book)
+    allt = " ‖ ".join(T.values())
+    files = sys.argv[2:] or sorted(glob.glob(f"{book}/*.md"))
+    total = ok = 0
+    report = []
+    for f in files:
+        md = open(f, encoding='utf-8').read()
+        for s in segments(md):
+            if s in allt:
+                ok += 1
                 continue
-            fq = flat(q)
-            if fq in allflat:
-                tag = 'OK  '
-            else:
-                tag = 'MISS'
-                miss += 1
-            if len(fq) < 20:
-                tag += ' [短]'
-                short += 1
-            print(f"  {tag} {os.path.basename(fn)}:L{i}  {q[:70]}")
-print(f"\n英文短引语 {short} 条（均已 flat 命中全书，报告留档），中文引号内容 {zh} 处（译文/书名，非英文引语）")
-print(f"MISS {miss} 条")
-print('INLINE_CHECK ' + ('PASS' if miss == 0 else 'FAIL'))
-sys.exit(1 if miss else 0)
+            total += 1
+            where = [c for c, t in T.items() if s in t]
+            report.append((os.path.basename(f), s, where))
+    print(f"=== 行内英文逐字核查（{os.path.basename(book)}）===")
+    print(f"  ✅ 逐字 {ok} ｜ ❌ 零命中 {total}")
+    for f, s, where in report:
+        tag = f"→ 实为 ch{','.join(map(str, where))}" if where else "→ 全书查无"
+        print(f"  ❌ {f}: 「{s[:80]}」{tag}")
+    return 0 if total == 0 else 1
+
+sys.exit(main())
