@@ -1,0 +1,99 @@
+=== verify_quotes ===
+00_情感节点.md: 8/8 ✅
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 22/22 ✅
+ch01 introduction.md: 10/10 ✅
+ch02 selling weapons to anybody who wants them.md: 15/15 ✅
+ch03 september 11 was good for business.md: 15/15 ✅
+ch04 preventing an outbreak of peace.md: 15/15 ✅
+ch05 selling israeli occupation to the world.md: 13/13 ✅（另有 2 条短引语未校验）
+ch06 the enduring appeal of israeli domination.md: 12/12 ✅
+ch07 israeli mass surveillance in the brain of your phone.md: 10/10 ✅
+ch08 social media companies don t like palestinians.md: 8/8 ✅
+ch09 conclusion.md: 7/7 ✅
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 135/135 引文可核实（100%）；完全干净文件 11/11；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== check_vocab ===
+词条行合计: 511
+
+--- FAIL (0) ---
+
+--- WARN (29) ---
+  ch01 introduction.md [基础] 基础档疑含超纲词「protestors」
+  ch01 introduction.md [基础] 基础档疑含超纲词「controversial」
+  ch01 introduction.md [?] 词汇节外有 11 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch02 selling weapons to anybody who wants them.md [基础] 基础档疑含超纲词「occupation」
+  ch02 selling weapons to anybody who wants them.md [?] 词汇节外有 15 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch03 september 11 was good for business.md [基础] 基础档疑含超纲词「corruption」
+  ch03 september 11 was good for business.md [基础] 基础档疑含超纲词「occupation」
+  ch03 september 11 was good for business.md [基础] 基础档疑含超纲词「sanctions」
+  ch03 september 11 was good for business.md [基础] 基础档疑含超纲词「surveillance」
+  ch03 september 11 was good for business.md [基础] 基础档疑含超纲词「apartheid」
+  ch03 september 11 was good for business.md [基础] 基础档疑含超纲词「conscription」
+  ch03 september 11 was good for business.md [?] 词汇节外有 24 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch04 preventing an outbreak of peace.md [基础] 基础档疑含超纲词「surveillance」
+  ch04 preventing an outbreak of peace.md [基础] 基础档疑含超纲词「occupation」
+  ch04 preventing an outbreak of peace.md [基础] 基础档疑含超纲词「civilians」
+  ch04 preventing an outbreak of peace.md [?] 词汇节外有 34 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch05 selling israeli occupation to the world.md [基础] 基础档疑含超纲词「occupation」
+  ch05 selling israeli occupation to the world.md [?] 词汇节外有 24 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch06 the enduring appeal of israeli domination.md [基础] 基础档疑含超纲词「occupation」
+  ch06 the enduring appeal of israeli domination.md [基础] 基础档疑含超纲词「civilians」
+  ch06 the enduring appeal of israeli domination.md [基础] 基础档疑含超纲词「resistance」
+  ch06 the enduring appeal of israeli domination.md [?] 词汇节外有 33 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch07 israeli mass surveillance in the brain of your phone.md [基础] 基础档疑含超纲词「surveillance」
+  ch07 israeli mass surveillance in the brain of your phone.md [?] 词汇节外有 77 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch08 social media companies don t like palestinians.md [基础] 基础档疑含超纲词「occupation」
+  ch08 social media companies don t like palestinians.md [基础] 基础档疑含超纲词「resistance」
+  ch08 social media companies don t like palestinians.md [?] 词汇节外有 51 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch09 conclusion.md [基础] 基础档疑含超纲词「occupation」
+  ch09 conclusion.md [?] 词汇节外有 23 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== verify_corpus ===
+=== 语料层验收（P0-0）: the-palestine-laboratory-by-antony-loewenstein ===
+text/ 件数: 9
+  [1] 件数 9 == 预期 9  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [4b] 疑似页码 bleed 1 件  WARN
+  [2] 未给 --anchors，跳过人物锚点双向  WARN
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (256 句)
+      首| Introduction
+      末| Israel is the ultimate model and goal.
+    ch02 (400 句)
+      首| 1
+      末| When surveillance technology is added to the mix, tested on unwilling subjects, it’s even harder
+    ch03 (310 句)
+      首| 2
+      末| “One cannot say that Israel is an apartheid state and still go to the courts.”
+    ch04 (376 句)
+      首| 3
+      末| For some sections of the Israeli public, there’s more hatred toward Orthodox communities than Pa
+    ch05 (275 句)
+      首| 4
+      末| “War is hell but clearly it is good for business,” wrote a former chief lobbyist for the powerfu
+    ch06 (307 句)
+      首| 5
+      末| In 2019 Trump reportedly suggested to his aides that to stop migrants entering the US, border gu
+    ch07 (524 句)
+      首| 6
+      末| “Market forces push insecurity in many devices, because it’s cheaper and easier to make these de
+    ch08 (335 句)
+      首| 7
+      末| Without alternative ways to communicate on more diverse platforms, and a rejection of the rigged
+    ch09 (137 句)
+      首| Conclusion
+      末| Yet Israel will need to be constantly on its guard, avoiding the endlessly exhausting number of 
+
+WARN  疑似页码 bleed 于 1 件（ch08）——选句与例句须避开粘连点
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 2）===
