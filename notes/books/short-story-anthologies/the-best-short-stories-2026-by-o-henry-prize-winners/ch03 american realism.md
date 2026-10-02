@@ -7,18 +7,18 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：卡斯帕赶到老师 Galina 为垂死的丈夫 Igor 办的告别饭局，一进门就先给弹琴的人下了一个判断；当晚他就跟那个人说过话，知道他叫 Radek，是 Igor 从布拉格来的远房侄儿，此后两人在同一家咖啡馆、同一次纪录片放映和同一个街区反复遇见，春天那场沙龙结束后并肩走出地铁站。
+- **一句话概括**：卡斯帕赶到老师 Galina 为垂死的丈夫 Igor 办的告别饭局，一进门就先给弹琴的人下了一个判断；当晚他就跟那个人说过话，知道他叫 Radek，是 Igor 从布拉格来的远房侄儿，此后两人在二月那次偶遇里当场发现彼此常去同一家咖啡馆、看的正是同一场纪录片、住在同一个街区，而春天那场沙龙结束后两人并肩走出地铁站。
 - **情感弧线位置**：从审判到交付。开篇 Caspar 认定那段舒伯特"毒舌得刺人"，结尾他承认自己"还没到能与对方平起平坐"的分量，两人在咖啡馆坐了一小时几乎没说话。
 - **Tropes 兑现/反转**：兑现"陌生人变亲近的人"，但**反转了"一见钟情"的火花**——全篇没有告白、没有接吻、没有当场被拒，只有一个同姓的巧合、一次撞上的放映和一个街区。
 - **人物弧线**：Caspar 从"用判断武装自己"走到"承认自己不确定"；Radek 从被当作一段演奏走到主动把一整首曲子的来路讲给对方听；Nina 则被文本留在一条她不肯说明的边界上。
-- **叙事手法**：第三人称限知，全程贴着 Caspar 的意识；用单独一行的破折号分节；重要信息几乎全靠对话漏出来而不是叙述交代（Igor 抓住手腕的那句、Radek 的同姓、妮娜怀孕的消息）；回忆与插叙被直接塞进正在进行的对话里。
+- **叙事手法**：第三人称限知，全程贴着 Caspar 的意识；用单独一行的破折号分节；重要信息几乎全靠对话漏出来而不是叙述交代（Igor 抓住手腕的那句、Radek 的同姓）；回忆与插叙被直接塞进正在进行的对话里。
 
 ## 精读
 
 ① "The dinner was to be at Galina’s apartment, in the East Seventies. She had been watching a lot of Visconti and wanted to re-create the salons and dinners of The Innocent, Ludwig, and Death in Venice."
 
 - 中文理解：这场饭局定在 Galina 位于上东区七十几街的公寓。她看了很多维斯康蒂，想把几部电影里的沙龙与饭局原样复刻出来。
-- 句子结构：主句用 be + to be 的被动形式写"被安排在"；后半句 was watching 与 wanted 并列，两个分句各带自己的宾语，后者用一个 of 短语把电影名单整个挂在后面。
+- 句子结构：主句用 be + to be 的形式写"被安排在"；后半句 was watching 与 wanted 并列，两个分句各带自己的宾语，后者用一个 of 短语把电影名单整个挂在后面。
 - 关键词：re-create——作者加连字符造的词，把"复刻一场沙龙"写成一件手工活。
 - 表达方式：先给一个极冷的地理坐标，再给一部电影当动机，两件事并排放，谁也不解释谁。
 - 为什么这样写：开篇就把这场饭局定义成一场复刻，全篇所有演出式的举动都在这个定义下运行。
@@ -50,7 +50,7 @@ modified: "2026-10-02"
 ⑤ "Nina and Caspar had both been Galina’s students as undergraduates. They had registered for a graduate course on Faulkner, been intimidated at first, then stayed because of Galina. Together, they made diagrams and charts to take apart The Sound and the Fury, and they ate lunches in Washington Square Park while committing lines of Faulkner’s prose to memory to recite for Galina’s lightning-round verbal interrogations. During that strangely warm fall, they became friends and, for just a couple of confused, painful weeks, nearly more than friends. But Caspar, no matter how hard he tried, was incurably gay, and Nina was, unfortunately, not willing to make herself a martyr."
 
 - 中文理解：卡斯帕和妮娜都是 Galina 的学生，一起修福克纳的课，一起给《声音与愤怒》画图表、在华盛顿广场公园背书；有过几周几乎越过朋友那条线的关系，但一个无可挽回地是同性恋，另一个不肯为自己做殉道者。
-- 句子结构：前面三个分句用并列推进（both … / They had registered … been intimidated at first, then stayed … / Together, they made …）；末句用 But 转折，其中的 no matter how hard he tried 是不定式短语作让步状语。
+- 句子结构：前面三个分句用并列推进（both … / They had registered … been intimidated at first, then stayed … / Together, they made …）；末句用 But 转折，其中的 no matter how hard he tried 是 no matter + how + 副动词构成的让步状语从句，句中没有不定式。
 - 关键词：martyr——"殉道者"。作者把断掉这段关系的责任写成一个人不肯当，另一个人不肯换。
 - 表达方式：用课程、图表和背诵这些具体的读书动作，去写一段没有结果的感情。
 - 为什么这样写：这是全篇把两人关系一次写死的句子，而它只出现在回忆里；春天沙龙上 Galina 提起往事，指的正是这里。
@@ -58,7 +58,7 @@ modified: "2026-10-02"
 ⑥ "“You’ve just seen it, haven’t you?” Igor whispered. He gripped Caspar’s wrist."
 
 - 中文理解：Igor 低声问卡斯帕是不是刚刚看到了什么，一边问一边抓住他的手腕。问句没有内容，动作也没有下文。
-- 句子结构：前半句是间接引语，疑问被改成陈述语序、不带问号；后半句是另一个独立的主谓结构，同一个人一开口、一动手被拆成两个短句，悬案就停在这个动词上。
+- 句子结构：前半句是直接引语，疑问照原样保留并带问号，后面跟一个后置的引述语；后半句是另一个独立的主谓结构，同一个人一开口、一动手被拆成两个短句，悬案就停在这个动词上。
 - 关键词：wrist——手腕；这个名词在句子里只出现一次，却承担了整段悬案的重量。
 - 表达方式：用一个没有内容的问句配一个身体动作，问句本身不给任何线索。
 - 为什么这样写：卡斯帕当场否认，Igor 只回一句"我知道你看见了"，Galina 试着把那只手掰开；这件事被搁置到春天的沙龙上才被提起，而 Caspar 到那时也只给得出"我以为有什么东西要来了"。
@@ -76,7 +76,7 @@ modified: "2026-10-02"
 - 中文理解：他把美国人的本事说成记账，而且没人比得上。一句话就把一个国家收进一种性格里。
 - 句子结构：一句话加一个叙述标签；主句 We keep score 的 like no one else 是不带 without 的比较状语，把范围一次封顶。
 - 关键词：keep score——"记账、算旧账"，把一个国家写成一种记账方式。
-- 表达方式：主语从一个人扩大到一群人，再用比较结构把这份本事封顶，两步说完一个判断。
+- 表达方式：主语直接用一个复数代词把一群人收成一个人，再用比较结构把这份本事封顶，两步说完一个判断。
 - 为什么这样写：这是全篇离标题最近的一处。故事名 American Realism 在正文里从头到尾没有被解释，读者只能从这样的断言里自己拼出一个"美国人如何算数"的形象。
 
 ⑨ "Nina sat on the arm of the chaise. She smelled like Radek’s cologne. Radek sat at the piano. He and Caspar shared a look. Then Radek began to play the second intermezzo. The others joined them near the chaise, and Radek played on. Caspar’s chest felt tight. The last notes hung in the air, and then that was it. That was it."

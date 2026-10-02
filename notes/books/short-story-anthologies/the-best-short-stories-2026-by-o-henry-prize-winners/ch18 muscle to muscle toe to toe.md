@@ -11,7 +11,7 @@ modified: "2026-10-02"
 - **情感弧线位置**：三次下沉，一次几乎察觉不到的上扬。下沉点在蜜月之后、产后；上扬点在「两年后她又能踢踏舞」那一段，但它立刻被「我的真正人生现在才开始」收紧。
 - **Tropes 兑现/反转**：兑现「社交媒体算法决定爱情」，但**反转了它的作用方向**——算法没有毁掉 M 的人生，它毁掉的是 X 对自己那段生活的解释权；而结尾真正被算法改写的，不是选择，是记忆：她身体记住的海水温度。
 - **人物弧线**：M 从「不再期待爱情、也不为年龄将就」走到「把自己打磨成别人想要的样子」；X 从「我这么糟，不可能有人爱我」走到「因为能解释这段感情而离开」；V 从「她认定更好的那个人」走到被她看清「他也不完美」。
-- **叙事手法**：全篇用单字母代称人物（M / X / S / V / G，孩子只叫 `Little M`），读者必须靠场景认人；分节用 `—` 断开，每节换一处居所或一段关系；体感描写（水温、盐的灼烧、地板上的护臀霜）与内心独白交替推进，抒情全部让位给触觉。
+- **叙事手法**：全篇用单字母代称人物（M / X / S / V / G，孩子只叫 `Little M`），读者必须靠场景认人；分节用 `—` 断开，每节换一处居所或一段关系；体感描写（水温、盐的灼烧、趴在地上摸找护臀霜）与内心独白交替推进，抒情全部让位给触觉。
 
 ## 精读
 
@@ -58,9 +58,9 @@ modified: "2026-10-02"
 ⑥ "One morning, over breakfast, he delivered the breakup message robotically, like he was ordering from a menu. Their relationship was merely a byproduct of advertising. They were no different from plastic grocery bags that came out of the process of oil refinement. He said the mystery was gone. Life was about magical moments that were unexplainable. He was going to unplug and see if he could recapture a life that wasn’t guided by an algorithm. He didn’t look at M as he spoke. After he left, he deleted his socials and never contacted her again."
 
 - 中文理解：真正的分手。X 在一个早晨的早餐桌上，把这段关系像点单一样宣布：他们的关系只是广告的副产品，和炼油过程产出的塑料袋没有区别。他说谜团已经消失，他要拔掉电源，重新过一个不被算法引导的人生。全程没有看 M 一眼；走以后删掉了社交账号，再也没有联系过她。
-- 句子结构：首句 `over breakfast` 是插入的时间状语，主句末尾用 `like` 引出比较；中间三句全是判断句（`was merely` / `no different from` / `was about`），把抒情压成定语；末句 `After he left` 是时间状语从句，主句两个谓语并列。
+- 句子结构：首句 `over breakfast` 是插入的时间状语，主句末尾用 `like` 引出比较；接下来的 `Their relationship was merely a byproduct of advertising.` / `They were no different from plastic grocery bags…` / `Life was about magical moments that were unexplainable.` 三个判断句被中间的转述句 `He said the mystery was gone.` 隔开（并非连排），把抒情压成定语；末句 `After he left` 是时间状语从句，主句两个谓语并列。
 - 关键词：`byproduct`——副产品；`robotically`——机械地；`recapture`——重新夺回。
-- 表达方式：把「结束一段感情」写成「处理一个订单」，再用连续三个判断句替它定性；倒数第二句是动作（没看她），最后一句是时间（再也没有）。
+- 表达方式：把「结束一段感情」写成「处理一个订单」，再用三个判断句（被一句转述隔开）替它定性；倒数第二句是动作（没看她），最后一句是时间（再也没有）。
 - 为什么这样写：作者不给 X 愤怒也不给他犹豫，只给他一套逻辑；而这套逻辑一旦成立，回头的路就没了。最后那个否定副词才是整段真正砸下去的一击。
 
 ⑦ "It took two years for M to feel better. Her senses returned and she could walk. She was even able to tap-dance. The muscle memory was intact. She no longer felt exhausted, which was good because it took strength to claw her way back. After two years in isolation, she no longer wished to be alone. She went out to coffee shops and shows. Her real life would begin now. The sick years would fade away, unimportant in her story."
@@ -90,7 +90,7 @@ modified: "2026-10-02"
 ⑩ "Sometimes she looked at the old Blips that had led her to him—the tap-dancing kids, the Blips that had inspired their honeymoon. The videos stirred nothing in her now. She could barely remember what it felt like to swim with the penguins in the Galápagos, though only five years had passed since that moment. It was a good thing the equatorial water was cold or maybe she wouldn’t be able to recall the memory as an experience distinct from the video. But in time, as her daughter grew older, and M grew used to being a mother, she began to think of the water as warm."
 
 - 中文理解：结尾。她重看那些带她走到 X 的旧视频，已经什么都激不起来；那段企鹅游泳的记忆她几乎调不出来了——而那只过了五年。她的解释是：幸好那片赤道海水是冷的，否则她根本没法把这段经历和那段视频分开。可最后一句是：随着女儿长大、她习惯做母亲，她开始把那片水记成温的。
-- 句子结构：`though only five years had passed since that moment` 是让步状语从句，用过去完成时与主句的现在时对照；`It was a good thing the equatorial water was cold or maybe...` 是省略 `that` 的表语从句加 `or maybe` 的补充；末句 `as her daughter grew older, and M grew used to being a mother` 是两个并列的 `as` 从句，主句 `she began to think of the water as warm` 用了过去将来时。
+- 句子结构：`though only five years had passed since that moment` 是让步状语从句，用过去完成时与主句的现在时对照；`It was a good thing the equatorial water was cold or maybe...` 是省略 `that` 的表语从句加 `or maybe` 的补充；末句 `as her daughter grew older, and M grew used to being a mother, she began to think of the water as warm` 里只有**一个** `as` 从句，它内部由 and 并列两个谓语（`her daughter grew older` 与 `M grew used to being a mother`——第二个 `grew` 没有自己的 `as`），共用一个主句 `she began to think of the water as warm`；而这个主句全句无 `would`，是**简单过去时**。
 - 关键词：`stirred nothing`——没激起任何东西；`think of the water as warm`——把那片水当成温的。
 - 表达方式：用一个不带褒义的比喻收尾——把五年前的冷水记成温水，因为身体先忘了冷。
 - 为什么这样写：标题里的「脚尖对脚尖」在这一句落地——她与这段记忆贴在一起，贴到最后连冷热都同步了。这不是复仇也不是和解，是记忆被身体改写。
@@ -163,13 +163,13 @@ modified: "2026-10-02"
 - `so + 形容词 + 省略结果从句`：`so depressed I couldn’t breathe`（原文无 `that`）
 - `which` 引导非限制性定语从句再套 `because`：`which was good because it took strength to claw her way back.`
 - 「主语＋谓语＋逗号＋形容词」的省略结构：`The sick years would fade away, unimportant in her story.`
-- 过去将来式收尾（`would fade away` / `began to think`），把判断悬在半空
+- 过去将来式与简单过去式收尾（`would fade away` 与不带 `would` 的 `began to think` 并置），把判断悬在半空
 
 ### 写作技巧
 
 - 只用单字母代称人物（M / X / S / V / G），认人全靠场景，逼读者贴着信息流走
 - 分节用 `—`，每节换一处居所或一段关系：舞蹈用品店、他的公寓、蜜月路线、那顿午餐、咖啡店、病房
-- 触感替代抒情：水的温度、盐划过鼻腔的灼烧、地板上摸索护臀霜、术后下半身的麻木
+- 触感替代抒情：水的温度、盐划过鼻腔的灼烧、趴在地上摸找护臀霜、术后下半身的麻木
 - 同一意象两次出现、含义反转：蜜月里那片冷得让人打寒颤的海，结尾被她记成温的——身体比记忆先改口
 - 喜剧与惊悚共用同一批素材：一盏灯、一双鞋、同一个人的怪癖，先被当成缘分，再被解释成投放效果
 - 反派不是人，是一种解释；把「算法」写成一个能说出完整因果句的第三方声音

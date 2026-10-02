@@ -12,8 +12,8 @@ modified: "2026-10-02"
 - **一句话概括**：休斯敦一个护士梅洛拉隔着厨房窗户看女儿在院子里把夜里冻死的幼犬一只只摆进塑料盆、盖上毯子、端去扔掉；同一天她上班迟到、在医院把一位明确要求不许翻身的老人强行翻身压伤了自己的背，晚上得知自己要被调岗，回家看到女儿因砸坏教室窗户而写的赔罪信与一纸停课通知，最后把女儿按在浴缸边用皮带打了好几下，并且觉得这是当天第一件做对的事。
 - **情感弧线位置**：全篇是一条**越走越冷**的直线。从隔窗旁观到亲手施暴，中间没有一次自辩成功——每出现一次「我该怎么办」，叙述就立刻换成一个更硬的理由。
 - **Tropes 兑现/反转**：兑现「社会性失职」（接送迟到、买不起狗粮、面临被调岗），**反转在结尾**：读者预期的是母亲崩溃或自罚，得到的却是一个平铺的动作句，和一个始终没有发出声音的孩子。
-- **人物弧线**：梅洛拉从「隔着窗户看、把视线挪开」走到「隔着车窗看、把车开走」，两次都用了同一个姿势；那个被叫作 `Beefy` 的男孩则用一句「我叔叔在伊拉克被炸掉了脑子」把两人之间的关系整个倒了过来——他是全文唯一动手照顾她的人。
-- **叙事手法**：极简的过去时叙述，辅以大量 `Melora thinks,` / `she tells herself,` / `the voice assures her,` 这类插入语，把客观叙述与她的自辩分开；`—` 分隔符把「家—学校—医院—办公室—家」切成五段，每段只放一个外部人物（`Mrs. Bellingham` / `Mr. Lowery` / 那个男孩 / 电话里的上司 / 女儿）；结尾用一个不带情绪词的陈述句收束。
+- **人物弧线**：梅洛拉从「隔着窗户看、把视线挪开」走到「隔着车窗看、看着车开走」，两次都只是看着没有伸手；那个被叫作 `Beefy` 的男孩则用一句「我叔叔在伊拉克被炸掉了脑子」把两人之间的关系整个倒了过来——他是全文唯一动手照顾她的人。
+- **叙事手法**：极简的过去时叙述，辅以大量 `Melora thinks,` / `she tells herself,` / `the voice assures her,` 这类插入语，把客观叙述与她的自辩分开；`—` 分隔符把这一天切成六段（上学的路上、校门口放下孩子、被 `Mrs. Bellingham` 拦下、医院、办公室、回家路上直到结尾），外部人物并不按段分配——医院那一段里就同时站着 `Mr. Lowery`、那个男孩和电话里的上司；结尾用一个不带情绪词的陈述句收束。
 
 ## 精读
 
@@ -43,7 +43,7 @@ modified: "2026-10-02"
 
 ④ "Mrs. Bellingham is white, of course, like every other teacher at St. Joseph’s, and her dark lipstick has dried in such a way that her mouth looks lined with blood. “A reminder, Melora,” Mrs. Bellingham says. “We do ask that all parents drop off and pick their children up on time.”"
 
-- 中文理解：校门口，`Mrs. Bellingham` 挥手让梅洛拉把头探进卡车。她的皮肤是白的——作者马上加一句「当然了，跟圣约瑟夫所有老师一样」；她的深色口红干得让嘴看起来像镶了一圈血。她提醒梅洛拉：我们要求所有家长准时送、准时接。
+- 中文理解：校门口，`Mrs. Bellingham` 守着校车通道，朝梅洛拉挥手，一边把头探进卡车里张望。她的皮肤是白的——作者马上加一句「当然了，跟圣约瑟夫所有老师一样」；她的深色口红干得让嘴看起来像镶了一圈血。她提醒梅洛拉：我们要求所有家长准时送、准时接。
 - 句子结构：首句主语 `Mrs. Bellingham` + 系动词 `is` + 表语 `white`，插入语 `of course, like every other teacher at St. Joseph’s` 把这个个人判断扩成一句类别陈述；后半句 `her dark lipstick has dried in such a way that her mouth looks lined with blood` 是结果状语从句套一个系表结构（`looks` + `lined with`）。后面两句是引语，末句 `We do ask that all parents drop off and pick their children up on time.` 用助动词 `do` 强调，主语由 `we` 换成泛指的 `all parents`。
 - 关键词：`of course, like every other teacher at St. Joseph’s`；`her mouth looks lined with blood`。
 - 表达方式：先用一个「当然了」把个人特征写成群体特征，再用一个比喻把老师的嘴写成伤口；最后那句提醒在语法上把梅洛拉换成了所有家长，责任因此不属于任何具体的人。
@@ -60,7 +60,7 @@ modified: "2026-10-02"
 ⑥ "“My father died in the hospital when I was nineteen, and I just can’t imagine how much worse it would have been if I hadn’t known we did everything we could,” Melora says calmly. The truth is Melora’s father killed himself five years earlier, and no one seems to know why."
 
 - 中文理解：梅洛拉以很平静的口气说：我父亲十九岁时在医院去世，如果我不知道我们已经尽力了，我无法想象会糟成什么样。紧接着叙述者加了一句：事实是，她父亲是更早的时候自杀的，没有人知道为什么。
-- 句子结构：引语是主句加 `and` 连接的并列分句，`would have been` 后接 `if` 从句（从句用过去完成时），`how much worse it would have been` 是一整个带比较级 `worse` 的宾语从句，构成与现在事实相反的虚拟语气。后一句 `The truth is…` 用系动词带一个 `that` 从句，这个 `that` 在此可以省略，从句主语是 `Melora’s father`、谓语 `killed himself`，`and` 后再接一个以 `no one` 为先行词的关系从句，等于说没有人知道原因。
+- 句子结构：引语是主句加 `and` 连接的并列分句，`would have been` 后接 `if` 从句（从句用过去完成时），`how much worse it would have been` 是一整个带比较级 `worse` 的宾语从句，构成与现在事实相反的虚拟语气。后一句 `The truth is…` 用系动词带一个 `that` 从句，这个 `that` 在此可以省略，从句主语是 `Melora’s father`、谓语 `killed himself`，`and` 后再接一个以 `no one` 作主语的分句，与前一分句并列，等于说没有人知道原因。
 - 关键词：`if I hadn’t known we did everything we could`；`The truth is Melora’s father killed himself five years earlier`。
 - 表达方式：角色自己给出一个版本，叙述者紧跟着用 `The truth is` 给出另一个版本；两个版本在时间上对不上，作者不给出调和，只把两个并排放着。
 - 为什么这样写：梅洛拉拿父亲当理由说服老人，而她能拿得出手的那段经历，叙述者下一句就把它撤掉了；结尾那句「终于做对了一件事」的自我肯定，就落在这段被撤掉的经历正下方。
@@ -84,7 +84,7 @@ modified: "2026-10-02"
 ⑨ "A note from the school accompanying the letter informs her that her daughter will be subject to a one-day in-home suspension the following day."
 
 - 中文理解：学校随信附了一张通知，告知她女儿第二天要在家里停课一天。
-- 句子结构：主语是 `A note from the school accompanying the letter`（介词短语 + 现在分词作后定语），谓语 `informs` 后面不接直接宾语，而接一个 `that` 从语：`that her daughter will be subject to a one-day in-home suspension the following day`——从句用被动 `will be subject to`，主语是女儿，介词短语 `a one-day in-home suspension` 作表语，`the following day` 作时间状语。
+- 句子结构：主语是 `A note from the school accompanying the letter`（介词短语 + 现在分词作后定语），谓语 `informs` 后面先接直接宾语 her，再接一个 `that` 从语：`that her daughter will be subject to a one-day in-home suspension the following day`——从句用被动 `will be subject to`，主语是女儿，介词短语 `a one-day in-home suspension` 作表语，`the following day` 作时间状语。
 - 关键词：`informs her that`；`will be subject to`。
 - 表达方式：整句没有一个人称主语，谁在通知被彻底省略，只剩一张 note 在 inform；女儿在这句话里是被通知的对象，连施事都省掉了。
 - 为什么这样写：这一天到此为止的全部重量，压在这一句公文式的被动句上。停课意味着明天不能上班；不能上班就得照看女儿；照看女儿就可能丢工作；丢了工作就养不起两条狗。整条因果链由一个 `be subject to` 打开。
@@ -163,7 +163,7 @@ modified: "2026-10-02"
 
 ### 写作技巧
 
-- 用 `—` 把一天切成五段，每段只放一个外部人物；人物进出靠物理动作（挥手、探头、拍门、按呼叫钮、关门）而不是情绪
+- 用 `—` 把一天切成六段，人物并不按段分配，同一段里可以同时站着病人、志愿者和上司；人物进出靠物理动作（挥手、探头、拍门、按呼叫钮、关门）而不是情绪
 - 用身体感替代心理描写：骨头挤压、痛像热石头在骶骨里晃、气味盖住脸、忘了用嘴呼吸
 - 把「听不见／发出声音」做成首尾呼应：窗外无声的埋葬 vs 浴缸边的第一次出声
 - 结尾不写悔恨，也不写解释——只给一个动作和一句「我终于做对了一件事」

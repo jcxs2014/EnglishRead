@@ -26,7 +26,7 @@ modified: "2026-10-02"
 ② "With my children, it was always Pretend. They begged me to play with them from breakfast till bedtime. The games they came up with were easily the best part of parenthood. They cast me as an evil queen, a shark, a puppy, a ballerina, a nurse, a knight."
 
 - 中文理解：先给结论——和两个孩子之间从头到尾只有这一个游戏；再给证据——他们从早餐缠到睡觉，她自己也承认孩子想出来的那些游戏才是当妈最难的部分；然后给道具清单。
-- 句子结构：首句用 With 开头的介词短语做状语，主句是 it was always 加名词。第二句 They begged me to play with them 用被动式加不定式，把主动权整个交给孩子。末句 They cast me as 后面跟六个并列的角色名词，只在头一个前面带冠词。
+- 句子结构：首句用 With 开头的介词短语做状语，主句是 it was always 加名词。第二句 They begged me to play with them 用主动的及物动词加双宾语（me 是宾语）+ 宾语不定式，把主动权整个交给孩子。末句 They cast me as 后面跟六个并列的角色名词，六个前面全都带冠词。
 - 关键词：cast me as——"把某人扮成某个角色"，一句话给完六个角色。
 - 表达方式：不写任何一场游戏的具体玩法，只给角色清单，让读者自己补画面。
 - 为什么这样写：她把最好的育儿经验归结成一个可以反复重演的动作；这一句是全篇的锚，后面二十多年都在回扣它。
@@ -34,8 +34,8 @@ modified: "2026-10-02"
 ③ "They outgrew Pretend before I did. Now, my daughter is twenty-three years old. She lives far away and has a job researching existential risks. When I ask what that means, she talks about resilient food sources that will save us in the event of nuclear wars and supervolcanic eruptions and asteroid impacts. It’s important work, she says. It keeps her very busy."
 
 - 中文理解：转折来了——孩子先长大，她自己还没长大。女儿二十三岁，住得很远，工作是研究存在性风险；女儿说这是重要工作，忙得很。
-- 句子结构：首句用 before 做比较，outgrew 与 did 构成一组对照，两处都省掉了同一个宾语。第二句 Now, my daughter is twenty-three years old 是系表句。第三句 lives far away and has a job 用 and 并列两个谓语。末句 It keeps her very busy 是独立主语句。
-- 关键词：outgrew——"先长大成人、先不再玩这个"，一个不及物动词就把先后顺序交代完。
+- 句子结构：首句用 before 做比较，outgrew 与 did 构成一组对照，但只有 did 一处省掉了宾语，outgrew 的宾语 Pretend 明写在句中。第二句 Now, my daughter is twenty-three years old 是系表句。第三句 lives far away and has a job 用 and 并列两个谓语。末句 It keeps her very busy 是独立主语句。
+- 关键词：outgrew——"先长大成人、先不再玩这个"，一个及物动词就把先后顺序交代完。
 - 表达方式：先用一句话完成转折，再用几句平淡到近乎乏味的近况填充，让"她还没长大"这件事被日常淹没。
 - 为什么这样写：读者刚读完孩子的天真戏法，就听见女儿已经二十三岁；落差不需要任何评论，句子本身就够了。
 

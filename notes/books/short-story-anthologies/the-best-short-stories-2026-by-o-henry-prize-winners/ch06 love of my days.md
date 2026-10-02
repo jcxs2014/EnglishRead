@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：农场主杰克·威尔一早进城买马料，回来看见一个陌生人坐在自家餐桌上说这是我的房子；那人自报 `John Timble`、自称高于州政府的 `Pinkerton` 侦探，隔着门把来赶他的县治安官 `Flower` 打死了，抢走威尔训练多年的一对马，又过了些日子，他被追进 `White Rock` 峡谷。
+- **一句话概括**：农场主杰克·威尔一早进城买马料，回来看见一个陌生人坐在自家餐桌上；说"这是我的房子"的是威尔自己，陌生人只回了一句 `You are mistaken.`；那人自报 `John Timble`、自称高于州政府的 `Pinkerton` 侦探，走出门来把来赶他的县治安官 `Flower` 打死了，抢走威尔训练多年的一对马，又过了些日子，他被追进 `White Rock` 峡谷。
 - **情感弧线位置**：一条向下的坡——荒诞的日常错位 → 抬着尸体赶七英里 → 蹭一顿鸡肉三明治 → 荒原上的一场狂奔 → 最后一段极轻、极短的回忆。
 - **Tropes 兑现/反转**：兑现"两个人同时说出同一句话"的错位开场；反转的是追捕套路——追捕者瞄准的是马而不是人，而被追的那个人从被认出到走进峡谷，一路上只在为自己开脱。
 - **人物弧线**：威尔从"要让陌生人搬走的地主"变成"替治安官收尸的人"；蒂姆布从冒充权威者变成被自己最懂的马否定的人；卡莱特是全篇唯一一个当面认出这个陌生人是谁的人：她瞒过丈夫和孩子，只讲给孙辈听，还替他包扎过手掌。
@@ -19,9 +19,9 @@ modified: "2026-10-02"
 
 - 中文理解：开头两句先把时间钉在电话还没普及的年代，再解释为什么这类事才会发生——因为消息传得慢。接着才是全篇的动作：某天清早威尔进城买马料，回到自家屋里，看见一个陌生人坐在他的餐桌前。
 - 句子结构：第二句用 `So` 起句，紧跟 `because` 引导的原因状语从句，主句 `these incidents came about` 用完整的陈述语序；第三、四句是连续的动作，`Early one morning` 作时间状语，`he saw a stranger sitting at his table` 里 `sitting` 是现在分词作宾语的后置定语。
-- 关键词：traveled slow——传得慢；全篇所有"来得及"与"来不及"都由这一句授权，包括后文那趟要走上将近一小时的七英里。
+- 关键词：traveled slow——传得慢；全篇所有"来得及"与"来不及"都由这一句授权，包括后文那一趟把尸体运回镇上、要花掉将近一小时的七英里。
 - 表达方式：先给地理（`table-flat plains`），再给时代（`before most farms had telephones`），再用一句因果把整个故事的前提兜住，最后用一个只写"看见"的动词（`saw`）把陌生人放进屋子。
-- 为什么这样写：这不是一个"还没有法律"的年代，而是一个"法律够不着"的年代——威尔能做的只是跑七英里去镇上找治安官，而这一趟本身就要花掉将近一小时；作者在故事真正开始之前，已经把这个世界的办事速度交代清楚了。
+- 为什么这样写：这不是一个"还没有法律"的年代，而是一个"法律够不着"的年代——威尔能做的只是回镇上找治安官，而杀人之后把那七英里跑完、光把尸体运回镇上就要花掉将近一小时；作者在故事真正开始之前，已经把这个世界的办事速度交代清楚了。
 
 ② "The man stood up. He wasn’t large or threatening, or red haired or dark haired or blond. Everything about him was middling—hair, height, face, age. Weir was confused by the man’s unusual conviction, though."
 
@@ -90,7 +90,7 @@ modified: "2026-10-02"
 ⑩ "He had said it to her then and he said it to her now. Someone’s boots squeaked on the snow. Budack loomed over them, his revolver out. Kneeling beside Timble, Beatril grasped his hand and said, “Don’t mind him.”"
 
 - 中文理解：开头一句先把时间拉回当年——他那时对她说过这句话，现在又对着她说了一遍。接着现实世界闯进来：雪地上响起靴子声，巴达克压过来，枪还握在手里。而在他身边跪下、握住他的手说别管他的，是他的姐姐贝阿特里尔。
-- 句子结构：首句是并列的过去时加一个重复的宾语（`He had said it to her then` 与 `he said it to her now`），用 `then`／`now` 两个时间副词把相隔多年压进同一句里；次句 `Budack loomed over them, his revolver out.` 主谓宾齐备，逗号后接一个无谓语的介词短语；末句 `Kneeling beside Timble,` 是现在分词短语作状语，主句由 `and` 连接两个并列谓语（`Beatril grasped his hand` 与 `said`），`said` 之后接直接引语，形成间接引语套直接引语。
+- 句子结构：首句是并列的过去时加一个重复的宾语（`He had said it to her then` 与 `he said it to her now`），用 `then`／`now` 两个时间副词把相隔多年压进同一句里；次句 `Budack loomed over them, his revolver out.` 主谓宾齐备，逗号后接一个无谓语的介词短语；末句 `Kneeling beside Timble,` 是现在分词短语作状语，主句由 `and` 连接两个并列谓语（`Beatril grasped his hand` 与 `said`），`said` 之后直接跟上引语本身，是直接引语加引述语，没有间接引语套直接引语。
 - 关键词：`Don’t mind him`——别管他；一句话把枪、追捕和刚才那场幻觉全部按住。
 - 表达方式：先用一句把话轮推到当年，再用现实世界的两个短句（靴声、枪口）把幻象钉住，最后让一句家常话收尾。
 - 为什么这样写：标题那句 `Love of my days` 在全篇只被说出这一次，而它落在一场正在进行的追杀中间；作者不让蒂姆布忏悔，只让他握住一只手，于是杀人者被还原成一个被人照看着的伤员。
@@ -144,7 +144,7 @@ modified: "2026-10-02"
 
 ### 本文核心表达
 
-- `A Pinkerton.`——三个音节的谎，越短越像盖了一个章
+- `A Pinkerton.`——四个音节的谎，越短越像盖了一个章
 - `It had seemed from his matched horses and nice shirt that he’d come up in the world, and she was sorry that was not true.`——这一句是全篇对蒂姆布最明确的一次裁决，出自替他包扎手掌、还把最后一块鸡肉夹给他吃的那个女人
 - `When half of you is gone, the half left behind begins its long descent into a cold strange barn.`——把一匹马写成刚刚失去另一半的人
 

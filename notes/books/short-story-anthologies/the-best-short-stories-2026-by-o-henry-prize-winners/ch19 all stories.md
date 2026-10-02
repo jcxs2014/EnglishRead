@@ -7,11 +7,11 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：叙述者是大一时在宿舍里被室友背后拿来比作 Mr. Bean 的男生，脸上一道疤，一个月前停了药；他在写作工作坊里被教授用「搬过巨石的火柴人」讲清了什么叫故事，又认识了一个叫 Karin 的生物系女生，她一再说「也许我们是灵魂伴侣」；教授在他承认高中开车撞过树之后把家里电话号码写给他；Karin 的第二篇小说把一位有妻儿的教授的婚外情整个写了出来，课上没人说破，她本人隔夜住进精神病院；他在陡坡尽头发出像动物一样的一声活了下来，回家把停掉的药全吃回去，然后坐下写那个答应母亲「他会努力」的男孩。
+- **一句话概括**：叙述者是大一时在宿舍里被室友背后拿来比作 Mr. Bean 的男生，脸上一道疤，一个月前停了药；他在写作工作坊里被教授用「搬过巨石的火柴人」讲清了什么叫故事，又认识了一个叫 Karin 的生物系女生，她一再说「也许我们是灵魂伴侣」；教授在他承认高中开车撞过树之后把家里电话号码写给他；Karin 的第二篇小说把一位有妻儿的教授的婚外情整个写了出来，课上没人说破，她本人隔夜住进精神病院；他在陡坡尽头发出像动物一样的一声活了下来，回家把停掉的药每种吃了一片，然后坐下写那个答应母亲「他会努力」的男孩。
 - **情感弧线位置**：从「我不和任何人连得上」到「被改造过一遍」，再到「被留下」。上扬只出现在课堂上和办公室里两次极短的靠近，而结尾把上扬换成了另一种东西——不是好起来，是找到了继续的方式。
-- **Tropes 兑现/反转**：兑现「写作课拯救一个崩溃的年轻人」，但**反转了导师的位置**——教授不是把他从深渊里拉出来的人，他只是写下了一篇不给结局的小说、说了一句「所有故事都有一点自传的成分」的人；真正动手的是叙述者自己。
+- **Tropes 兑现/反转**：兑现「写作课拯救一个崩溃的年轻人」，但**反转了导师的位置**——教授不是把他从深渊里拉出来的人，他只是写下了一篇很短、结局停在"看表又看门"那一刻的短篇、说了一句「所有故事都有一点自传的成分」的人；真正动手的是叙述者自己。
 - **人物弧线**：叙述者从「我无法理解任何处境」走到「我在故事里替那个男孩把当年欠母亲的话说了」；Karin 从「我要改造你」到「那晚我真的去了他家」再到住进精神病院；教授从课堂上的裁决者，变成一位给出电话号码、并且承认自己也会想「如果那个警察没停下来会怎样」的写作者。
-- **叙事手法**：现在时的第一人称回忆，全篇像一口气讲完；大量插入语与自问自答（`maybe the Great Depression`、`Had I written this?`）；两个母题反复回返——巨石与火柴人、以及那句关于自传的话；结尾把「活下去」改写成一个动词短语。
+- **叙事手法**：第一人称回望，全篇用**过去时**讲完（`I bought…` / `I skated…` / `I took one of each.`），像一口气讲完；大量插入语与自问自答（`maybe the Great Depression`、`Had I written this?`）；两个母题反复回返——巨石与火柴人、以及那句关于自传的话；结尾把「活下去」改写成一个动词短语。
 
 ## 精读
 
@@ -26,7 +26,7 @@ modified: "2026-10-02"
 ② "One time he drew a stick figure, and then he drew a giant boulder in the figure’s way, and he said this was what stories were: simply finding a way to get the figure over that boulder. In my notebook I drew a boulder on top of a stick figure, his little arms and legs poking out from under this massive rock. To me, that’s what a story was. I wanted to tell the professor that I’d tried to drive through the boulder, smash into it, but I wasn’t sure what had happened."
 
 - 中文理解：教授在黑板上先画火柴人，再画一块挡在它前面的巨石，说故事就是替这个人找一条翻过巨石的路。叙述者在笔记本里把画反了过来：巨石压着火柴人，小手小脚从石头底下露出来。而他真正做过的事是开着车直接撞上去——撞完却说不清发生了什么。
-- 句子结构：`he said this was what stories were:` 用冒号引出解释，冒号后是不定式短语 `simply finding a way to get the figure over that boulder` 作表语；次句把地点状语 `In my notebook` 提到句首，主句后接现在分词短语 `his little arms and legs poking out from under this massive rock` 作后置定语修饰 `stick figure`；末句是 `but` 连接的转折，两边都是从句。
+- 句子结构：`he said this was what stories were:` 用冒号引出解释，冒号后是**动名词（-ing）短语** `simply finding a way to get the figure over that boulder` 作表语（短语里没有 to）；次句把地点状语 `In my notebook` 提到句首，主句后接现在分词短语 `his little arms and legs poking out from under this massive rock` 作后置定语修饰 `stick figure`；末句 `I wanted to tell the professor that…, but I wasn’t sure what had happened.` 是 but 连接的两个主句（并列句），两边都有主语和谓语。
 - 关键词：`a giant boulder`——一整块巨石；`poking out from under`——从底下露出来。
 - 表达方式：先给出老师的定义，再让学生的笔记本把它翻成另一个画面；两笔都只写画面，不写情绪。
 - 为什么这样写：老师画的是「绕过」，学生画的是「压在下面」。同一个比喻差了一个上下位置——这就是他当时的状态；而他那句「撞上去」，等于提前把「故事里到底该放多少自己的事」这个问题摆到了桌面上——本篇标题 `All Stories` 要回答的正是这个问题。
@@ -42,15 +42,15 @@ modified: "2026-10-02"
 ④ "I remembered the way my mom lightly traced the scar on my face on the first night after I was released from the hospital. She said, “You are such a beautiful boy,” and I cried and I cried, and I apologized maybe thirty times for trying to kill myself. And now Karin was holding my hand, painting my nails, so careful not to get it on my skin, and I thought I was going to cry again. But I didn’t. I watched my nails sparkle in the light of her room. I stared at the dark roots of her hair. She smelled like green apples."
 
 - 中文理解：出院第一夜，妈妈的手指轻轻沿着他脸上的疤描过去，说他是个漂亮的男孩；他哭了又哭，为那次自杀道歉了大概三十次。而现在 Karin 握着他的手给他涂指甲，那么小心不让油沾到皮肤，他以为自己又要哭了——这次没有。他看指甲在她房间的光里闪，看她发根没褪掉的那截深色，闻到一股青苹果味。
-- 句子结构：首句主句 `I remembered` 后接 `the way` 引导的宾语从句，从句里再套 `my mom lightly traced the scar`；次句是间接引语加两个由 `and` 连接的并列谓语（`I cried and I cried, and I apologized...`）；末段三个短句全部是主语在前、动词直落，没有一个情绪词。
+- 句子结构：首句主句 `I remembered` 后接 `the way` 引导的宾语从句，从句里再套 `my mom lightly traced the scar`；次句 `She said, “You are such a beautiful boy,” and I cried and I cried, and I apologized...` 带引号，是**直接引语**加两个由 `and` 连接的并列谓语；末段三个短句全部是主语在前、动词直落，没有一个情绪词。
 - 关键词：`traced the scar`——沿着疤痕描；`maybe thirty times`——原文自己给的约数；`smelled like green apples`——闻起来像青苹果。
 - 表达方式：把两段记忆并排塞进同一段，让读者的情绪从「哭」转到「看」；最有温度的一句用的是嗅觉。
 - 为什么这样写：这是本篇写得温软的一处身体接触，而它靠的不是动作，是一只手有多轻。同一只手上一次描的是疤，这一次拿的是指甲油。
 
 ⑤ "“I think it has elements of a fairy tale, sure,” he offered. He seemed to consider the question a little more deeply. “I think it’s a story,” he finally said, and Karin seemed like maybe she didn’t believe him. She looked at me, her eyes wide."
 
-- 中文理解：教授先给了个台阶——他觉得这篇有童话的元素；接着他像是在心里又过了一遍，才改口说：我认为这是一个故事。Karin 显然不信这个判词，转过头来直直地看他。
-- 句子结构：`he offered` 是插在引语后的补充说明动词；`He seemed to consider the question a little more deeply` 用 `seem` 把判断弱化，把犹豫留在句子里；`he finally said` 的 `finally` 说明前面犹豫过；末句 `She looked at me, her eyes wide` 是主句加逗号接名词短语作补充语。
+- 中文理解：教授先给了个台阶——他觉得这篇有童话的元素；接着他像是在心里又过了一遍，才改口说：我认为这是一个故事。Karin 显然不信这个判词，转过头来直直地看**我**（叙述者本人）。
+- 句子结构：`he offered` 是插在引语后的补充说明动词；`He seemed to consider the question a little more deeply` 用 `seem` 把判断弱化，把犹豫留在句子里；`he finally said` 的 `finally` 说明前面犹豫过；末句 `She looked at me, her eyes wide` 是主句加逗号接名词短语作补充语——她看的是**我**（叙述者本人），不是教授。
 - 关键词：`elements of a fairy tale`——童话里的那些元素；`I think it’s a story`——教授真正要说的那几个字；`her eyes wide`——睁大了眼。
 - 表达方式：用一句轻描淡写的话对抗一个确信的判断，再把最后的裁决权交给对方的眼神。
 - 为什么这样写：他交的那篇写的是一个从树上摔下来断了腿的男孩，和一个把他往林子深处越拉越深的流浪汉——教授先给了一个安全的定性，想过之后才改口。那篇东西确实靠一个模式撑着，而作者要的并不是模式。
@@ -82,7 +82,7 @@ modified: "2026-10-02"
 ⑨ "I skated through downtown, cars humming past me. Near an old warehouse that was being renovated, I stood at the edge of a steep hill. There was no clarity, not like that time in high school, in the car, when everything made so much sense, like there was no other option. My mind was empty. Nothing in there. And I bombed that hill, closing my eyes until I got too scared and opened them again. At the end of the hill was an intersection and I could see traffic rushing by. I was so close to the end of the hill, almost there, almost there. As I hit that cross street, I made this sound, like an animal, so ragged, something I did not want inside of me. A car honked, swerved, and I sailed on, across the street, not a mark on me, still alive, still so goddamned alive."
 
 - 中文理解：市中心的车从他身边嗡过去；一个正在翻修的老仓库旁边有一道陡坡，他站在坡顶。这一次和高中在车里那次不一样——那次一切都清楚得没有第二种选择，这次脑子里是空的，什么也没有。然后他闭着眼冲下坡，太害怕才睁开。坡底是路口，车流很快；冲到那条横街的时候他发出一声像动物一样破破烂烂的声音。喇叭响，车偏开，他滑了过去，身上一点痕迹都没有，还活着，还那么该死地活着。
-- 句子结构：`Near an old warehouse that was being renovated` 是介词短语作地点状语，内含 `that` 定语从句；`not like that time in high school, in the car, when everything made so much sense` 用 `not like` 引出否定比较，`when` 从句嵌在插入语里；`And I bombed that hill, closing my eyes until I got too scared and opened them again` 是主句加现在分词短语，分词短语内部再套 `until` 从句；`A car honked, swerved, and I sailed on` 是三个并列谓语：前两个沿用上一句的主语并省略了它，第三个换回叙述者的 `I`。
+- 句子结构：`Near an old warehouse that was being renovated` 是介词短语作地点状语，内含 `that` 定语从句；`not like that time in high school, in the car, when everything made so much sense` 用 `not like` 引出否定比较，`when` 从句嵌在插入语里；`And I bombed that hill, closing my eyes until I got too scared and opened them again` 是主句加现在分词短语，分词短语内部再套 `until` 从句；`A car honked, swerved, and I sailed on` 是三个并列谓语：前两个的主语是本句**显式写出的新主语** `A car`（没有沿用上一句的 I），第三个才换回叙述者的 `I`。
 - 关键词：`bombed that hill`——把那个坡冲下来；`not a mark on me`——身上一点痕迹都没有；`still so goddamned alive`——还那么该死地活着。
 - 表达方式：把上一次自杀未遂和这一次并排摆，差别就落在「清楚」与「空」上；结尾连着两个 `still` 把语气从叙述抬成喊叫。
 - 为什么这样写：全书这一次身体力行的「翻过巨石」，靠的不是技巧，是闭眼；而救他的也不是勇气，是怕到必须睁眼。这正好是课堂那个比喻的反面——他不是绕过石头，是蒙着眼睛冲下坡，然后活在了另一头。
@@ -167,9 +167,9 @@ modified: "2026-10-02"
 
 ### 写作技巧
 
-- 现在时讲过去：叙述者站在「已经写完」的此刻，回头讲当年——于是每一次回忆都带着自嘲的余温
+- 过去时讲过去：叙述者站在「已经写完」的此刻，回头讲当年——于是每一次回忆都带着自嘲的余温
 - 母题两次出场、含义反转：巨石从「挡在前面」变成「压在头上」；关于自传的那句话从教授口中说出，又被学生原样掷回
-- 括号式插入制造犹疑：`maybe the Great Depression`、`maybe thirty times`、`or it could have just been patience`
+- 逗号插入制造犹疑（全篇不用圆括号）：`maybe the Great Depression`、`maybe thirty times`、`or it could have just been patience`
 - 把全篇最锋利的判断交给最有资格下判断的人（教授），并让被判断者用沉默或眼神回应
 - 结尾不用总结句，用一个动作短语收束，且这个动作正是全书的技艺本身
 

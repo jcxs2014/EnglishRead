@@ -8,9 +8,9 @@ modified: "2026-10-02"
 ## 本章导航
 
 - **一句话概括**：一个把石头绑在腰上沉进湖里、又把绳结解开浮上来的女人，在同一天被隔壁那个猎户当场撞破；夜里她回到他家院子里看他剥皮，换来一套"你得每天给自己制造一点痛"的处世学说，也换来一句点题的 `welcome to the club`；最后她把一只活兔子按在自家水槽里试了一次那套学说，没有下手，转身去洗澡、睡觉。
-- **情感弧线位置**：起点极低（水底），中间被拉回到一整套正常家庭生活的水平（吃午饭、找兔子、关门），随后被邻居一句话打回原处，再被他一路抬上去，最后停在"不再下沉"而不是"上岸"。
+- **情感弧线位置**：起点极低（水底），中间被拉回到一整套正常家庭生活的水平（吃午饭、找兔子、关门），随后被邻居一句话打回原处，再被他一路抬上去，最后停在"不再下沉"而不是"上岸"。（正文一律用 `my husband` 称呼丈夫，这里连用两个"他"分别指邻居与丈夫，读者需按上下文分辨。）
 - **Tropes 兑现/反转**：兑现"自杀未遂"这一类型，但**反转了施害者的位置**——知道她秘密的邻居不是来揭发她的，而是来给她讲道理的人；而她学会的那套道理，在真正要用的时候没有派上用场（她到底没有杀掉那只兔子）。
-- **人物弧线**：她从"以为今天没有人看见"，走到"知道有人看见、并且不打算否认"，再到夜里主动去问为什么；邻居从一个只在传说里出现的沉默男人，变成一个一边剥皮一边宣讲的人。
+- **人物弧线**：她从"以为今天没有人看见"，走到"知道有人看见、并且不打算否认"，再到夜里主动去问为什么；邻居从一个天天在眼前进出的男人，变成一个一边剥皮一边宣讲的人（叙述者天天看见他 `pulling up in his truck`，他也当面开过口）。
 - **叙事手法**：第一人称现在时；叙述里反复出现对自己的口头指令（`Everything is in order` 一类），那是麻木的记号；湖、门、桶是全篇的三个容器，结尾让手指再回到湖底；全篇不解释她的过去，所有背景靠回忆段落（信、丹妮拉、Toni 的咖啡馆、带铁丝网的邻居）一段段渗出来。
 
 ## 精读
@@ -18,7 +18,7 @@ modified: "2026-10-02"
 ① "Ijump into the water at the end of the dock and sink down, holding my nose. After the initial impact, I open my eyes, surrendering to the descent as it grows softer, and to the colors all around me that seem new, denser and iridescent. A minute or so passes. Finally, slowly, my feet touch the mossy ground, like I’m an astronaut landing on the moon."
 
 - 中文理解：全篇从一个主动的动作开始——跳、进水、往下沉。叙述用的是现在时，动作因此像是正在发生。紧跟着的 `surrendering`（投降）把入水写成放弃抵抗：不是挣扎，是交出去。时间也被写成可以结账的东西（大约一分钟），直到最后双脚触到长满苔藓的湖底，比作宇航员踏上月面——这一次落地，人还在往下走。
-- 句子结构：起首句的主语是 I（提取件里 I 与第一个动词连写），后面 `and sink down` 与前面的动作并列，句末的 `holding my nose` 用现在分词作伴随状语。下一句 `After the initial impact` 用介词短语起时间状语，主句 `I open my eyes` 后面挂一个现在分词 `surrendering`，它带两个并列的介词宾语：前一个是 `the descent`，并跟一个 `as it grows softer` 的状语从句；后一个是 `the colors all around me`，后面跟省略 that 的定语从句 `that seem new, denser and iridescent`，从句里三个形容词用逗号加 and 并列。`A minute or so passes.` 是只有主谓的极短句。末句用 `Finally, slowly,` 两个副词起头，`like I’m an astronaut landing on the moon` 用 like 引出明喻。
+- 句子结构：起首句的主语是 I（提取件里 I 与第一个动词连写），后面 `and sink down` 与前面的动作并列，句末的 `holding my nose` 用现在分词作伴随状语。下一句 `After the initial impact` 用介词短语起时间状语，主句 `I open my eyes` 后面挂一个现在分词 `surrendering`，它带两个并列的介词宾语：前一个是 `the descent`，并跟一个 `as it grows softer` 的状语从句；后一个是 `the colors all around me`，后面跟一个**明写着 that** 的限制性定语从句 `that seem new, denser and iridescent`，从句里三个形容词用逗号加 and 并列。`A minute or so passes.` 是只有主谓的极短句。末句用 `Finally, slowly,` 两个副词起头，`like I’m an astronaut landing on the moon` 用 like 引出明喻。
 - 关键词：surrendering——"投降、交出控制权"；这个词把"沉下去"从一个技术动作改写成一个态度。
 - 表达方式：先给动作，再给心理，再给一个精确到荒谬的比喻（脚下是苔藓，头顶是太空）。比喻里没有写"我"在哭或在怕。
 - 为什么这样写：全篇要处理的是"死"这件事，但作者始终不让人物说出死的字眼。开头这一跳加一次着陆，就把后面所有关于"要不要继续"的挣扎交代清楚了。
@@ -34,7 +34,7 @@ modified: "2026-10-02"
 ③ "I pick up the letters I left propped against them, the one I wrote for him and the one for the girls. I’m not sure whether picking up these letters is a good decision. I’m not even sure if taking them from this table means taking them from the same table where I left them not long ago."
 
 - 中文理解：两封信：一封给丈夫，一封给女儿。她把信从花瓶旁拿起来，然后又质疑这个动作本身好不好、是不是等于把它们从这个桌上拿起来。`not sure` 在这两句里连着说了两遍，这是全篇里她头一次承认自己没在状态。
-- 句子结构：`the letters I left propped against them` 里 `I left propped against them` 是过去分词短语作后置定语（相当于定语从句被压缩）。同句末尾 `the one I wrote for him and the one for the girls` 两个 the one 各带一个省略 that 的定语从句。后面两句分别以 `I’m not sure whether` 与 `I’m not even sure if` 起头，后面接 whether 和 if 引导的宾语从句；最后一句的宾语从句里还嵌了一层 `where I left them not long ago` 的定语从句修饰 table。
+- 句子结构：`the letters I left propped against them` 里 `I left propped against them` 是一个**省略 that 的完整定语从句**（从句自带主语 I 与谓语 left），被后置修饰的是 `the letters`（原文中 `propped against them` 是从句里 `left` 的过去分词补足语，不是独立的过去分词定语）；同句末尾 `the one I wrote for him and the one for the girls` 两个 the one 各带一个省略 that 的定语从句。后面两句分别以 `I’m not sure whether` 与 `I’m not even sure if` 起头，后面接 whether 和 if 引导的宾语从句；最后一句的宾语从句里还嵌了一层 `where I left them not long ago` 的定语从句修饰 table。
 - 关键词：propped——"斜靠着"；这个词把信放在了一个随时会被碰掉的位置。
 - 表达方式：用三句同构的"我不确定"制造心理晃动，再让日常（看钟、上楼、换衣服、做午饭）把晃动压回去。
 - 为什么这样写：信的存在解释了她早晨为什么要往湖里跳——她已经安排好了后事。全篇不给一次正面交代，只用桌上两封信让读者自己补上；同一段开头那句"绣球花一动未动"，说明她出门前把现场安排得很妥帖。
@@ -50,7 +50,7 @@ modified: "2026-10-02"
 ⑤ "“Who wants rabbit for dinner?” he asks. The girls scream. The man laughs."
 
 - 中文理解：他问出那句话，女儿尖叫，他笑。全段只有这三下：一句问话、一次尖叫、一声笑，中间没有写任何人的脸色，也没有交代那只兔子怎么了。
-- 句子结构：`Who wants rabbit for dinner?` 用一般现在时的特殊疑问句；`he asks` 作为间接引语挂在后面。紧跟的两句都是最小的主谓结构，各只留一个人和一个动词，前后没有任何连接词或状语。
+- 句子结构：`Who wants rabbit for dinner?` 用一般现在时的特殊疑问句，外面带引号；后面 `he asks.` 是**直接引语后面的报告语**（不是间接引语，间接引语才不会有引号）。紧跟的两句都是最小的主谓结构，各只留一个人和一个动词，前后没有任何连接词或状语。
 - 关键词：dinner——这个词在家常语境里是"吃饭"，在这里被他拿来指那只兔子；同一个词被换掉了用途，笑点与寒意都在这次替换里。
 - 表达方式：用最平的日常词造出最冷的效果，并且立刻把场面交给笑声收尾。
 - 为什么这样写：这是全篇读起来最冷的一段，而作者的写法是让它更快过去——句子越短，读者的停留时间越短，越来不及替女儿们害怕。
@@ -155,11 +155,11 @@ modified: "2026-10-02"
 
 ### 重要语法
 
-- 现在时叙述与过去时回忆交替：正文用现在时（`I look`、`I am lucid`），插进来的回忆用过去时（`I retch`、`We tried to talk to him`）
+- 现在时叙述与过去时回忆交替：正文一律用现在时（`I look at my hands`、`I am lucid`、`I retch`——爬上岸那一段也在现在时段里），插进来的回忆才用过去时（`We tried to talk to him`、`Three years ago`）
 - 强调句的两种变体：`it’s then that I think`（it is ... that）与 `He’s saying it, now he is`（把强调部分后置）
 - 破折号接不定式短语，再用冒号引出主句（`the first real fear I have that day`）
-- 过去分词作后置定语压缩定语从句：`a sinker of rocks tied to your waist`、`the letters I left propped against them`
-- 段落片段（无主谓）成串使用：`It’s curiosity.` / `All those words.` / `True pain.`
+- 过去分词作后置定语压缩定语从句（从句里没有自带主语的那种）：`a sinker of rocks tied to your waist`；对照 `the letters I left propped against them` 则是省略 that 的完整关系从句（从句自带主语 I）
+- 段落片段成串使用：有主谓的极短句（`It’s curiosity.`——主语 It + 系动词 is）夹着真正没有谓语的名词短语（`All those words.` / `True pain.`），靠句号断成一拍一拍
 
 ### 写作技巧
 

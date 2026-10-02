@@ -13,7 +13,7 @@ modified: "2026-10-02"
 - **情感弧线位置**：全篇是一份单向下行的自白——从「我不愿意当那种人」的辩解，到承认自己对父亲那件事「至今不确定严不严重」，再到亲手拆穿自己编的段落，最后塌成一个不成句的「愿意」。
 - **Tropes 兑现/反转**：兑现「错过的初遇」，但**反转了它的浪漫解释**——作者不给「错过」，只给「他宁可毁掉别的一切也要保住那一个下午」，然后用整段的语法崩坏说明这份「保住」其实只是一份反复重放的自我折磨。
 - **人物弧线**：叙述者从一开始就在防守（`don’t want to be that guy`），到第六节同时交代他既毁了事也毁了叙述本身；那个女人则几乎没有一句完整的台词，她的样子全由叙述者的注视拼出：站着抽烟、没戴墨镜、踩熄烟头、问他明天来不来、说完要去洗手间。
-- **叙事手法**：全篇是一封长信，分 `I`–`VI` 六节；每一节都从**被打断的位置**重新起头（`Sorry about that` / `Actually, this didn’t happen at Cinemateca at all` / `Oh, sorry, the capital of Albania is Tirana, yes`）；引号几乎被全部撤掉，对话靠句子长短与主谓倒装标记说话人；改地点、改名字被反复用作策略（`Berardo’s museum`→`Cinemateca`、`Sofia`→`Mariana`）。
+- **叙事手法**：全篇是一封长信，分 `I`–`VI` 六节；每一节都从**被打断的位置**重新起头（`Sorry about that` / `Actually, this didn’t happen at Cinemateca at all` / `Oh, sorry, the capital of Albania is Tirana, yes`）；引号几乎被全部撤掉，对话靠句子长短与主谓倒装标记说话人；改地点、改称呼被反复用作策略（他明说把 `Berardo’s museum` 换成了 Cinemateca，理由是怕 Sofia 生气；而 `Mariana` 是他叫那个女人的名字，与 Sofia 不是同一个人）。
 
 ## 精读
 
@@ -163,7 +163,7 @@ modified: "2026-10-02"
 ### 写作技巧
 
 - 六节全部从**被打断的位置**接上（`Sorry about that` / `Actually, this didn’t happen at Cinemateca at all` / `Oh, sorry, the capital of Albania is Tirana, yes`），把一封信写成一段段被自己打断的自白
-- 改地点、改名字（`Berardo’s museum`→`Cinemateca`、`Sofia`→`Mariana`）同时服务两个目的：替收信人挡住细节，又证明叙述者随时在编
+- 改地点、改称呼（把 `Berardo’s museum` 换说成 Cinemateca；那个女人被他叫作 `Mariana`）同时服务两个目的：替收信人挡住细节，又证明叙述者随时在编
 - 用一个物件承担全部心理：纸桌布上的水圈、卡在铺路石之间的烟头
 - 结尾不写「我至今难以忘记」，而是让句子本身崩掉——语法就是情绪
 

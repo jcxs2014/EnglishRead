@@ -10,14 +10,14 @@ modified: "2026-10-02"
 - **一句话概括**：Raúl 和姐姐 Valeria 开车从 Vigo 去 A Coruña 参加父亲新女友 Sonia 的生日聚会；半路上两人在加油站吵翻，索性改道去 Negreira 附近的水库游泳，Raúl 在把姨妈 Ana 给的腌野兔塞回后备箱时，无意中看见姐姐全部的家当就装在那辆车里。
 - **情感弧线位置**：全书是一条先松后紧、最后回落的曲线。开头在姐弟斗嘴里最松，加油站一次爆裂把松散打断，之后一路降温，到水库裸泳一段升到全篇最高的温度，然后在车头和结尾两处重新收紧。
 - **Tropes 兑现/反转**：兑现"兄弟姐妹破冰"这一类型，但反转的不是结局而是破冰的方式——全篇没有一次和解式的对话，靠的是一次下水游和一次打开后备箱。另一个兑现是物件寓言：标题里那只野兔既是礼物，也是"别无选择"这个词的落点。
-- **人物弧线**：Raúl 从"用插科打诨填补关系空白"走到"承认自己刚刚替姐姐扔掉了一件事"；Valeria 从"疲惫地应付"走到"把孤独讲成一种主动的选择"。两人真正交换的不是话，是各自生活里的一层皮：她被他看见了装在后备箱里的全部家当，他被她说了一句关于孤独的定义。
+- **人物弧线**：Raúl 从"用插科打诨填补关系空白"走到"当面撒谎说自己把那只野兔扔了"；Valeria 从"疲惫地应付"走到"把孤独讲成一种主动的选择"。两人真正交换的不是话，是各自生活里的一层皮：她被他看见了装在后备箱里的全部家当，他被她说了一句关于孤独的定义。
 - **叙事手法**：第三人称限知，全程贴着 Raúl 的感知走；故事发生在七月某天，从中午开到下午；路上的场景多用现在时叙述，插进来的往事段落改用过去时；大量自由间接引语（叙述者转述父亲、父亲的女友、加油站广播式的话却不加引号）；结尾不写结论，回到一只野兔的隐喻上。
 
 ## 精读
 
 ① "Raúl turns around and opens the back door on the passenger side, where he finds three magazines, a pair of leather sandals, and an expansive bouquet of hydrangeas. They’re blue, wrapped in newspaper."
 
-- 中文理解：故事的第一件东西不是人，是车后座的清单：三本杂志、一双皮凉鞋、一大束绣球花，蓝色，用报纸包着。这是姐姐从公寓搬上车的东西，读者还不知道花的去处，作者就先把它摆在那里。
+- 中文理解：故事的第一件东西不是人，是车后座的清单：三本杂志、一双皮凉鞋、一大束绣球花，蓝色，用报纸包着。这三样东西并不是刚从公寓搬上车——姐姐此刻正住在车里，读者还不知道这一点，作者就先把它摆在那里。
 - 句子结构：主语 Raúl 接两个并列动作 turns around / opens the back door，宾语 the back door 后面用 where 引导的定语从句说明"他是在哪里发现这些东西的"；从句内部由 and 与 a pair of 串出三样物品，末尾再补一个独立小句点明颜色与包装。
 - 关键词：expansive——"夸大的、大捧的"；作者先用这个词把"大"写足，后面那束花才立得住。
 - 表达方式：用一个方位性的动词开头（转身、开门），让读者跟着他从车外进到车里，视线和情节同时落座。
@@ -26,7 +26,7 @@ modified: "2026-10-02"
 ② "No, stupid. They’re for Mom. I would never steal flowers for Sonia. Valeria shoots a mischievous smile at Raúl, and he has no choice but to smile back. It’s always like this: he’s the first to attack, but she knows how to make him bow his neck; she breaks him."
 
 - 中文理解：弟弟问花是不是给 Sonia 的，姐姐一口回"才不是，是给妈妈的"，还补一句绝不会替 Sonia 偷花——用玩笑把父亲的新女友排除在外。接着叙述者直接给出这对姐弟的权力关系：他总是先挑事，但她总能让他低头。
-- 句子结构：前三句是短促的对白（No, stupid. / They’re for Mom. / I would never steal flowers for Sonia.）；第四句主语 Valeria + 谓语 shoots a mischievous smile，与 and he has no choice but to smile back 形成动作上的对称；末句 It’s always like this: 用冒号引出两个分号连接的转折（he’s the first to attack, but she knows how to make him bow his neck; she breaks him），等于给这场斗嘴下一个通则。
+- 句子结构：前三句是短促的对白（No, stupid. / They’re for Mom. / I would never steal flowers for Sonia.）；第四句主语 Valeria + 谓语 shoots a mischievous smile，与 and he has no choice but to smile back 形成动作上的对称；末句 It’s always like this: 用冒号引出一个逗号转折加一个分号并列的收尾（he’s the first to attack, but she knows how to make him bow his neck; she breaks him），等于给这场斗嘴下一个通则。
 - 关键词：mischievous——"促狭的、带坏意的"；这个词决定这场争执的调子是玩笑而不是真怨气。
 - 表达方式：先给一句俏皮话，再由叙述者补一条"规律"，等于替这次拌嘴找到了历史依据。
 - 为什么这样写：作者在开头就把权力关系摊开，读者从此知道，后面的冲突不是外面来的，是这两人自带的。
@@ -34,7 +34,7 @@ modified: "2026-10-02"
 ③ "The burn victim—who varies in age and the severity of her burns—is trotted out by their aunt every time someone asks her about her work. There’s no reason to think it’s a lie, and it could even be a different person each time; the world sees more tragedies in a day than can fit in the newspapers. But there’s one detail that remains constant in every version of the story: how beautiful the women were before their accidents, how gorgeous they looked in their old ID photos. Valeria and Raúl have always thought their aunt must be either a lesbian or asexual."
 
 - 中文理解：姨妈在国家警察队替人办身份证和护照，每当有人问起工作，她就会讲一个烧伤女孩的故事——年龄和伤情每次都不一样，甚至可能每次都不是同一个人。叙述者没有指控她在撒谎，还替她找了理由：一天里发生的社会新闻比报纸装得下的还多。可每个版本里恒定不变的只有一件事：那些女人出事之前有多美。两人也因此一直猜姨妈不是女同性恋就是无性恋。
-- 句子结构：主句 The burn victim—who varies in age and the severity of her burns—is trotted out by their aunt every time someone asks her about her work，中间那对破折号夹住的是同位语；紧随的两个句子由 and 与分号并列，把"不一定是谎话"和"每天的悲剧装不下"连成一句；末句 But 转向后用冒号引出唯一恒定的细节，再由 how beautiful / how gorgeous 两个名词性从句排比收尾。
+- 句子结构：主句 The burn victim—who varies in age and the severity of her burns—is trotted out by their aunt every time someone asks her about her work，中间那对破折号夹住的是挂在主语上的非限制性定语从句；紧随的两个句子由 and 与分号并列，把"不一定是谎话"和"每天的悲剧装不下"连成一句；末句 But 转向后用冒号引出唯一恒定的细节，再由 how beautiful / how gorgeous 两个名词性从句排比收尾。
 - 关键词：constant——"不变的"；年龄、伤情、甚至人物都在变，只有这一项每次都在，讽刺的刀口就落在这里。
 - 表达方式：先替说话者开脱（没有理由说谎，甚至未必是同一个人），再把恒定的那一项并排摆好，让读者自己得出结论。
 - 为什么这样写：这段把叙述者的中立写在明面上——他不评论，只负责排列。讽刺因此不来自作者的语气，而来自叙述本身的结构。
@@ -57,7 +57,7 @@ modified: "2026-10-02"
 
 ⑥ "Didn’t I tell you not to open the trunk? Her every step is heavy with violence, ready to pounce. The gas station attendant turns to look at them while he keys instructions into a pump."
 
-- 中文理解：加油站，Raúl 走开后，姐姐从餐馆门口冲出来，第一句就是"我不是告诉过你别开后备箱吗"。她没有等回答就完成了指控。而那位服务员只是回头看了一眼，继续在机器上输入指令。
+- 中文理解：加油站，Raúl 一直站在车尾那辆车的后备箱旁边，姐姐从餐馆门口冲出来，第一句就是"我不是告诉过你别开后备箱吗"。她没有等回答就完成了指控。而那位服务员只是回头看了一眼，继续在机器上输入指令。
 - 句子结构：引号里用 Didn’t I tell you not to open the trunk? 的反问式否定疑问，不需要回答就把责任按到对方头上；主句 her every step is heavy with violence 把走路拟人化，ready to pounce 用不定式补在 ready 后面；末句用 while 引出一个同时发生的动作，说明两人根本不在同一个世界里。
 - 关键词：pounce——"扑上去"；前面有 ready to，这一句因此悬着一股没落地的力。
 - 表达方式：把同一场争执拆给三种视角：她的指控、她走过来的样子、旁观者的反应。
@@ -93,7 +93,7 @@ modified: "2026-10-02"
 - 句子结构：首句用 When 引导的时间从句把"往后推一段时间"的主语让给姐姐的动作，主句用 already irreplicable 一句定性；中间连着两句用 knows 起头（主语分别是 Raúl 和 He），第三句缩成没有谓语的 That 从句，作前一句的同位解释；It’s not a choice that gets made 用 that 关系从句作后置定语，Never 单独成句加句号；末句 squeeze 与 close 两个动作并列收束。
 - 关键词：irreplicable——"不可复制的"；这个词让这一天变成一次性的，也顺手把整篇的时间感收拢。
 - 表达方式：把两句抽象道理（谎话不耐久、野兔没有选择）压进腌肉和猎物两个具体物象里。
-- 为什么这样写：标题里的野兔在这里收拢它的两重身份——它既是姨妈给的、被扔掉的礼物，也对应那句"别无选择"。至于这一层落在谁身上，原文没有点破，读者可以各读各的。
+- 为什么这样写：标题里的野兔在这里收拢它的两重身份——它既是姨妈给的、被谎称已经扔掉的礼物，也对应那句"别无选择"。至于这一层落在谁身上，原文没有点破，读者可以各读各的。
 
 ## 本章词汇
 
@@ -158,7 +158,7 @@ modified: "2026-10-02"
 - 现在时叙述与过去时插叙的交替：路上的场景（"turns around and opens the back door"）用现在时，插进来的往事段落（"Raúl chose Vigo for two reasons"）改用过去时，两种时态的切换就是叙事焦点的切换
 - whether or not 引导宾语从句（"whether or not you want to be alone"），把一个决定拆成待定的两半
 - 分号连接无谓语的名词短语清单（"A beach chair; a sleeping bag; two cardboard boxes full of clothes"），分号两侧各自是能独立成立的名词短语
-- 破折号插入同位语（"The burn victim—who varies in age and the severity of her burns—is trotted out"），把一段关系从句的信息塞进主语和谓语之间
+- 破折号插入非限制性定语从句（"The burn victim—who varies in age and the severity of her burns—is trotted out"），把一段关系从句的信息塞进主语和谓语之间
 - 不加引号的直接引语：God, you’re ridiculous. / Hey! What do you think you’re doing? 这类台词单独成段，既不进引号也不挂说话人标签，全靠上下文认出是谁在说
 - 冒号与分号的分工：冒号用来下定义（"That’s the worst possible situation"），分号用来并置转折
 
@@ -190,4 +190,4 @@ modified: "2026-10-02"
 
 ## 一句话总结
 
-两个各自把对方排除在生活之外的兄妹开了一整天车；全篇没有一次和解的对话，只有一只被扔掉的野兔替他们把话说完。
+两个各自把对方排除在生活之外的兄妹开了一整天车；全篇没有一次和解的对话，只有一只他谎称已经扔掉、其实还躺在后备箱里的野兔替他们把话说完。

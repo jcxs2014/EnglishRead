@@ -18,7 +18,7 @@ modified: "2026-10-02"
 ① "It’s said that hearing is the sharpest of the fetus’s senses. The unborn takes in all sorts of sounds coming from its mother’s circulatory, cardiac, and digestive systems; it has no choice, it can’t filter anything out. It’s constantly surrounded by these raw and indistinct noises, by the patterns and vibrations of its mother’s voice, and sounds from outside, too, that reach it, muffled by the amniotic fluid. The newborn, though, feels only the beating of its own heart. It realizes that the other heart doesn’t belong to it and will have to be left behind, that life must be lived with a single heart."
 
 - 中文理解：开篇先用第三人称写胎儿的听觉：它接收母亲循环系统、心脏与消化系统发出的各种声音，没有选择，也无法过滤任何一种；外界的声音要穿过羊水才能抵达，被闷得又钝又模糊。而新生儿只感觉得到自己的心跳——它意识到另一颗心跳不属于自己、必须留下，于是得出全篇的前提：生命只能带着一颗心跳去过。
-- 句子结构：全段五句，前三句的主语分别是 It’s said / The unborn / It’s，都是没有具体施事者的说法；第二句前半用分号把 takes in… 与 it has no choice 并列，后半 It has no choice, it can’t filter anything out. 把两个谓语挂在同一个主语上；The newborn, though, feels… 用插入语 though 把视线从胎儿挪到新生儿；末句 It realizes that… , that… 用两个并列的 that 从句收成两条同构的判断。
+- 句子结构：全段五句，只有首句 It’s said 把说话人隐去；第二、三句的主语 The unborn 与回指它的 It’s 指向的都是那个具体的胎儿；第二句前半用分号把 takes in… 与 it has no choice 并列，后半 It has no choice, it can’t filter anything out. 把两个谓语挂在同一个主语上；The newborn, though, feels… 用插入语 though 把视线从胎儿挪到新生儿；末句 It realizes that… , that… 用两个并列的 that 从句收成两条同构的判断。
 - 关键词：muffled——"被闷住的"；这个词出现在外来声音抵达胎儿的方式上，是全篇"隔绝"这个主题最早的种子。
 - 表达方式：先写一段说明性的听觉常识，再落成一个具体结论；这一段只占开头一节，功能是把后面所有的选择都变成必然。
 - 为什么这样写：作者不让人物先开口，而是先给她一副动物的耳朵。听觉在这篇里不是五感之一，而是决定身份的器官。
@@ -82,7 +82,7 @@ modified: "2026-10-02"
 ⑨ "I think of my mother again. I wonder what it was that she didn’t want to hear, that she had to bury beneath the noise of TVs and radios."
 
 - 中文理解：在这里，她又一次想起母亲，并且第一次替母亲提出疑问：母亲究竟有什么是不想听的，非得把它埋在这些电视和收音机的声音底下。
-- 句子结构：全段只有两个句子，都以 I 独立成句；第二个句子是 I wonder 引导的宾语从句，从句里再套一个强调句 what it was that she didn’t want to hear，句末用 , that she had to bury… 与前半句并列成两个并列的宾语从句。
+- 句子结构：全段只有两个句子，都以 I 独立成句；第二个句子在 I wonder 之后接的是一个 what 引导的融合关系从句——句首的 what 一共管着后面并列的两个 that 从句，两者合起来构成同一个从句，并不是两个并列的宾语从句，也没有出现强调句该有的框架。
 - 关键词：bury——"埋起来"；前面所有的电视与收音机，到这里才第一次被说成母亲藏东西的地方。
 - 表达方式：用一个疑问句代替整段回忆，疑问的对象不是"她爱不爱我"，而是"她在躲什么"。
 - 为什么这样写：这是全篇少有的一次叙述者替对方说话。此前她所有的准备都是为了指责；这一次她把问题指向了母亲内部——而母亲的答案仍旧不会出现，因为紧接着的一节就是那些问题一个一个地蒸发。
@@ -158,7 +158,7 @@ modified: "2026-10-02"
 - 分号与破折号承担切换信号：分号把"天线拉到最长"与"喇叭积灰"扣在一起，破折号把四台同时播放的机器一次性推出
 - 插入更正 `or rather,` 与插入让步 `though`
 - 过去完成时把母亲的日常与叙述者的记忆拉开：`had disappeared completely`
-- 结尾用四个省略连词、零修辞的平行小句收束：`I feed myself, I empty my bowels, I breathe, and I sleep`
+- 结尾用四个零修辞的平行小句收束，小句之间只靠逗号并列、末尾才用一个 and：`I feed myself, I empty my bowels, I breathe, and I sleep`
 
 ### 写作技巧
 

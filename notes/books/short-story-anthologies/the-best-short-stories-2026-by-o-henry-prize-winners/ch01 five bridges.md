@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：保罗，一个在美国住了三十多年、没有合法身份的管道工，周六开车把女儿杰拉尔丁从她母亲家接出来；这一次她要他爬 Mount Tam 的山，还要带上母亲和斯坦——这是她想要的一件事，也是他留在美国之前的最后一个晚上。
+- **一句话概括**：保罗，一个在美国住了三十多年、没有合法身份的管道工，周六开车把女儿杰拉尔丁从她母亲家接出来；这一次她要他爬 Mount Tam 的山，还要带上母亲和斯坦——这是她想要的一件事，也是他自己说的"还剩两天"里的第一个。
 - **情感弧线位置**：高潮前的最后铺垫。全篇是一条向下的坡：还债式的亲近 → 被当作客人 → 被安排进双人房 → 半夜独自站在阳台上，把"明天早上要叫醒她"当作自己唯一还能做的事。
 - **Tropes 兑现/反转**：兑现"非亲生父女隔阂破冰"，但**反转了团圆结局**——他没有留下，也没有获得合法身份；他得到的只是女儿当面叫出的那声 Dad，以及一段他打算讲给她听的、别人家的水管故事。
 - **人物弧线**：保罗从"用玩笑掩饰的自卑"走到"敢把现金藏进袜子、敢承认自己是 undocumented"；杰拉尔丁则从"模仿成年人语气的孩子"变成"当场替这个房间做决定的人"。两个人真正交换的不是话，是称呼。
@@ -34,7 +34,7 @@ modified: "2026-10-02"
 ③ "Sunday was his busy day. Although he called himself a plumber, he had never actually got a license and lacked the finer knowledge of the trade. He could, however, fix a leak; he could replace a washer; he could use a soldering iron; he could deal with most types of valves; and he could put in new taps. He had his own way of unblocking pipes. Anything more complicated he left to others. Since he had stopped drinking, he could set out immediately if there was an emergency. He didn’t need to advertise; people he’d worked for passed on his number to others. He could be depended on to respond to a call from anywhere in the Bay Area."
 
 - 中文理解：周日是他的"旺季"。但紧接着就拆穿了他的职业：他自称水管工，其实从没考证，也不懂精细活。他能做的就是换垫圈、用烙铁、通阀门、装水龙头——全是临时救急的活。
-- 句子结构：Although 让步状语从句先降格（called himself a plumber），主句再补两刀（had never actually got a license / lacked the finer knowledge）。动词短语按 can / could 平行排列，读起来像一份并不完整的能力清单。
+- 句子结构：Although 让步状语从句先降格（called himself a plumber），主句再补两刀（had never actually got a license / lacked the finer knowledge）。动词短语平行排列，全段只落在 could 上（can 一次也没出现），读起来像一份并不完整的能力清单。
 - 关键词：unblocking——"疏通"；后文紧接着的 "his own way of" 说明他连疏通都有自己的土办法。
 - 表达方式：用能力清单的平行结构，在看似专业的框架里塞进"其实不专业"的自我否定。
 - 为什么这样写：这一段决定了后面所有的钱和体面都建立在什么之上。他服务的是富人社区，修的是他们最不关心的那个小零件——而结尾杰拉尔丁想让他讲的，正是这个。
@@ -83,7 +83,7 @@ modified: "2026-10-02"
 
 - 中文理解：杰拉尔丁宣布这是她的特别出行，所以她来分配房间——你和妈妈住大床房，我和爸爸住双床房。她用了 Dad 这个词，而且说得毫不犹豫。
 - 句子结构：This is my special outing 是理由，So I can decide 是结果，两个短句并列后接三个 you and...／And... 的分配句。And Dad and I 里的 Dad 用大写首字母，靠排版强调。
-- 关键词：Dad——这个称呼本身。全文里桑德拉只在 Zoom 里不小心入镜过一次，而杰拉尔丁在这里把它说出口。
+- 关键词：Dad——这个称呼本身。全文里斯坦只在 Zoom 里不小心入镜过一次，而杰拉尔丁在这里把它说出口。
 - 表达方式：让一个快十二岁的孩子用行政式的口吻宣布成人世界的安排，把承诺藏在流程里说出来。
 - 为什么这样写：这一声 Dad 是全篇的高点，而她必须借"分配房间"这个安排才说得出口。称呼不是抒情的产物，是一场安排的结果——她把它放在流程里当作已定事项说出来。
 
@@ -156,7 +156,7 @@ modified: "2026-10-02"
 
 ### 重要语法
 
-- 虚拟与推测：would be easy / should have been doing 等混用，把"不确定是否成立"贯穿全篇
+- 虚拟与推测：would be easy 这类虚拟式与 could 式的推测判断交替出现，把"不确定是否成立"贯穿全篇
 - either...or 的虚拟可能式（either owned the Greyhound Track or ran it as though he owned it），刻意不判定所有权
 - 过去将来时（He would show... / He would describe...）——用语法时态代替叙事承诺，让结尾停在"尚未发生"
 - 比较结构 as if / as though 引出的心理活动（as though seeking applause / as though very little time had passed）

@@ -11,7 +11,7 @@ modified: "2026-10-02"
 - **情感弧线位置**：从一种很热闹的青春状态（旋转木马、人行道上的粉笔王国、挥霍一个下午）滑向一场很安静的听证；被叫进办公室的几个人各说一段，越说越轻，最后一个人连自己的辩解都像是说给死者听的。
 - **Tropes 兑现/反转**：兑现"青少年小团体被一件事击垮"，但反转了"活下来的人负责说出真相"的惯例——本篇里那个既知情又活着的人，选择的仍然是不说。
 - **人物弧线**：Pud 从躲在别人的棚屋里做跑腿的，走到承认自己只是想去一个地方待着；Lanie 从把伤疤藏在袖口下，走到让别人把它画出来；Melmo 从一个还在找人的活人，走成一个自认为在保护谁、实际在拖谁下水的东西；Trish 从被盘问的人，走成替所有人挡话的人；Wally 从什么都不说，走到把自己为什么不说讲成一段代入式的辩解。
-- **叙事手法**：五节换五个叙述者，第一人称；每一节都以一句短判断独立收尾，五个人的独白共用同一个节拍。全篇不解释任何人的来处与姓名——Pud 就是 Patrick 这件事，是 Trish 在被盘问时顺口说出来的；`Ambe`、`Verso`、`niijii`、`shkwebii` 这些称呼一律不给注解。
+- **叙事手法**：五节换五个叙述者，第一人称；**每节的末句都独立成段**，五个人的独白共用同一个节拍（但并非每节都以一句判断收尾——第一节 I. Pud 末两行是一问一答的对白 `"Shitstorm, can you help out here?"` / `"Ass-yay!"`）；全篇不解释任何人的来处与姓名——Pud 就是 Patrick 这件事，是 Trish 在被盘问时顺口说出来的；`Ambe`、`Verso`、`niijii`、`shkwebii` 这些称呼一律不给注解。
 
 ## 精读
 
@@ -26,15 +26,15 @@ modified: "2026-10-02"
 ② "“Can’t you just speak English?” Tired of his arrogance, but not ready to pick a fight, I add, “Or dog or Michif or Anishinaabemowin or pig latin.”"
 
 - 中文理解：Wally 要她听他的话，她用一句话顶回去：你干脆说英语吧，或者用狗语、Michif、Anishinaabemowin，或者猪拉丁语。这不是翻译，是反击——这些语言在她这里全是别人拿来做标本的东西，她把它们并排甩回去。
-- 句子结构：`“Can’t you just speak English?”` 是 can 引导的一般疑问句。叙述插入的部分 `Tired of his arrogance, but not ready to pick a fight` 由两个形容词短语（过去分词 Tired of... 与形容词 not ready...）并列作状语，说明她为什么这么回；主句是 `I add`，后面跟第二个引语 `Or dog or Michif or Anishinaabemowin or pig latin`，由四个 or 连接的名词并列而成（前三项为专名，末项故意小写）。
+- 句子结构：`“Can’t you just speak English?”` 是 can 引导的一般疑问句。叙述插入的部分 `Tired of his arrogance, but not ready to pick a fight` 由两个形容词短语（过去分词 Tired of... 与形容词 not ready...）并列作状语，说明她为什么这么回；主句是 `I add`，后面跟第二个引语 `Or dog or Michif or Anishinaabemowin or pig latin`，由四个 or 连接的名词并列而成（`Michif` 与 `Anishinaabemowin` 是专名，`dog` 与 `pig latin` 都不是）。
 - 关键词：arrogance——"傲慢"；这是她对 Wally 的评价，也是他们之间的关系定语：她崇拜他的手艺，讨厌他的语气。
 - 表达方式：用两种"听不懂"（他听不懂她、她拒绝配合他的规矩）合成一句话反击，而且反击用的全是对方的语言。
-- 为什么这样写：这一节讲的是她在两个世界之间没有位置——Wally 的棚屋是个不成学问的"非学校"，镇上的学校又用"讲讲你们的文化"那一套把她当展品。她把两种语言并排，正是她处境的形状。
+- 为什么这样写：这一节讲的是他在两个世界之间没有位置——Wally 的棚屋是个不成学问的"非学校"，而保留地上的学校又用"讲讲你们的文化"那一套把他当展品。他把两种语言并排，正是他处境的形状。
 
 ③ "I prepare to see myself in skintight leotard, cape, and tiara. But the sketch is the same goofy girl as in my mirror—V-neck T-shirt, wide forehead, low ponytail showing my ear piercings. Except for the steel of my shoulders, the knife glare of my eyes. Except for the scar fully visible on my wrist—a triumphant scar that looks like fire, like a lit sword."
 
 - 中文理解：她以为会看到紧身衣、斗篷和头饰——那种漫画里的女英雄。画上却是镜子里那个傻姑娘：宽额头、低马尾、V 领 T 恤。例外的是肩膀的钢、眼睛的刀光，以及手腕上那只完全露出来的伤疤——被写成凯旋的、像火、像一把点亮的剑。
-- 句子结构：`I prepare to see myself in skintight leotard, cape, and tiara` 里不定式作 see 的宾语补足语，冠词连用（skintight leotard, cape, and tiara 中前两项共用一个 tiara 的限定）。转折后 `the sketch is the same goofy girl as in my mirror` 是主系表结构，破折号后的三项名词短语是同位补充，第三项 `low ponytail showing my ear piercings` 用现在分词 showing 作后置修饰。最后两个句子都是 `Except for...` 开头：先排除肩膀与眼睛，再排除伤疤；破折号后的 `a triumphant scar that looks like fire, like a lit sword` 里定语从句省略 that，从句末尾用两个 like 构成"像……又像……"的比喻串联。
+- 句子结构：`I prepare to see myself in skintight leotard, cape, and tiara` 里不定式作 see 的宾语补足语，冠词连用（skintight leotard, cape, and tiara 中前两项共用一个 tiara 的限定）。转折后 `the sketch is the same goofy girl as in my mirror` 是主系表结构，破折号后的三项名词短语是同位补充，第三项 `low ponytail showing my ear piercings` 用现在分词 showing 作后置修饰。最后两个句子都是 `Except for...` 开头：先排除肩膀与眼睛，再排除伤疤；破折号后的 `a triumphant scar that looks like fire, like a lit sword` 里定语从句**明写着 that**，从句末尾用两个 like 构成"像……又像……"的比喻串联。
 - 关键词：triumphant——"凯旋的、扬眉吐气的"；作者把这个词从"战胜了什么"的语境挪到伤疤上，让它变成一句反话。
 - 表达方式：先写"我以为会看到什么"，再用两个 Except for 做递进，最后才把那个例外摆出来。
 - 为什么这样写：这一节的核心秘密就是这只伤疤——她在学校里藏它，在母亲面前藏它。Wally 的画把它翻了出来，但笔法是承认而不是揭发。整节关于"谁在看谁"的张力都压在这支笔上。
@@ -50,7 +50,7 @@ modified: "2026-10-02"
 ⑤ "The stiffness of my jeans wakes me—almost icy in the predawn. I remember having felt warm and wet, before I passed out. Was someone here with me? There, where the fire was, a body is curled with the grandfather stones. When I look closer, I see it is my twin."
 
 - 中文理解：第三节换了叙述者。Melmo 在黎明前被自己裤子的僵硬叫醒，醒来时身边一堆祖辈传下来的石头，石头旁边蜷着一具身体，他走近看清楚——是他的双胞胎兄弟。整段没有出现一个情绪词，全部是身体感觉和观察。
-- 句子结构：`The stiffness of my jeans wakes me—almost icy in the predawn` 用抽象名词（the stiffness）作主语，破折号后的 almost icy 是对 jeans 的后置说明。`I remember having felt warm and wet, before I passed out` 用完成进行体（having felt）表示"记得曾经觉得"。`Was someone here with me?` 单独成句，是过去时的直接疑问。`There, where the fire was, a body is curled with the grandfather stones` 把 there 引导的地点副词前置作状语，`where the fire was` 是关系副词从句；主句用现在时，而叙述者的时态在这里是混着的。末句 `When I look closer, I see it is my twin` 是时间状语从句加主句，主句本身又是一个强调句（真正的主语是 it）。
+- 句子结构：`The stiffness of my jeans wakes me—almost icy in the predawn` 用抽象名词（the stiffness）作主语，破折号后的 almost icy 是对 jeans 的后置说明。`I remember having felt warm and wet, before I passed out` 用完成式的动名词（having + 过去分词，没有进行体的 be）表示"记得曾经觉得"。`Was someone here with me?` 单独成句，是过去时的直接疑问。`There, where the fire was, a body is curled with the grandfather stones` 把 there 引导的地点副词前置作状语，`where the fire was` 是关系副词从句；主句用现在时，而叙述者的时态在这里是混着的。末句 `When I look closer, I see it is my twin` 是时间状语从句加主句，主句 `I see…` 后面套一个宾语从句，从句本身是主系表结构（it 是真正的主语），不是 it 强调句或分裂句。
 - 关键词：grandfather stones——祖上传下来的石头；作者给了它一个名词，从头到尾没有解释它是什么。
 - 表达方式：换人称、换时态、换世界（从学校转到树林和火堆），但一句解释都不给；只把最后四个字留在句子里。
 - 为什么这样写：全篇的转折要靠这四个字完成。读者必须自己把"这是在世的最后一个"、"报纸说自杀"这两件事拼起来，而这正是 Wally 最后一节要质疑的那份说法的起点。
@@ -58,7 +58,7 @@ modified: "2026-10-02"
 ⑥ "I had to get my own fix first so I could think about how to get hers. But she couldn’t wait. Didn’t wait. Fuck, fuck, fuck all the hypocrite saviors who took her away. They won’t let me talk to her alone. She still needs me. I am building us a stronghold. Soon it will be ready. Then I will take care of her again."
 
 - 中文理解：Melmo 讲他为什么把 Lanie 拴住：他自己得先把毒拿到手（`get my own fix first`），否则腾不出手管她那份。他等不及她，也不再等了，于是骂那帮把她带走的"假仁假义的救世主"，说他们不肯让他单独跟她说话；又说不需要别人，她仍然需要他。骂完，他宣布自己正在盖一座"据点"，还说她仍然需要他、再一次由他来照顾。
-- 句子结构：`I had to get my own fix first so I could think about how to get hers` 是过去时的主句加 so 引导的目的状语从句，从句里再套一层 how 引导的名词性从句（how to get hers）。`But she couldn’t wait. Didn’t wait.` 第二句省掉主语与助动词，靠话题延续补齐。`Fuck, fuck, fuck all the hypocrite saviors who took her away` 把同一句话重复三次作插入语，后面接省略 that 的定语从句。`They won’t let me talk to her alone.` 与 `She still needs me.` 是两个极短的无连词陈述句。末句 `I am building us a stronghold` 用现在进行时；宾语 us 把说话者自己也算进去。
+- 句子结构：`I had to get my own fix first so I could think about how to get hers` 是过去时的主句加 so 引导的目的状语从句，从句里再套一层 how 引导的名词性从句（how to get hers）。`But she couldn’t wait. Didn’t wait.` 第二句省掉主语与助动词，靠话题延续补齐。`Fuck, fuck, fuck all the hypocrite saviors who took her away` 把单词 `Fuck` 重复三次作插入语，后面只挂一次宾语，后面接省略 that 的定语从句。`They won’t let me talk to her alone.` 与 `She still needs me.` 是两个极短的无连词陈述句。末句 `I am building us a stronghold` 用现在进行时；宾语 us 把说话者自己也算进去。
 - 关键词：stronghold——"据点、要塞"；他以为自己在保护她，读者看到的是他正在把她钉在原地。
 - 表达方式：先给自己开脱，再用三个重复的粗口骂人，然后连着两个极短句收束，最后用一句平静的将来时宣布自己的计划。
 - 为什么这样写：这一段是全篇最需要读者自己动手的地方——叙述者说的和他做的之间有一道缝，而作者不去缝它。Melmo 不是一具可怜的亡魂，他是一个生前正把另一个人往下拖的人；这道缝不补上，后面 Trish 与 Wally 那些自我辩解的段落才立得住。
@@ -74,7 +74,7 @@ modified: "2026-10-02"
 ⑧ "Sometimes waiting is a strategy. Sometimes the world is spinning too fast to dismount."
 
 - 中文理解：这一节的最后两句也是全篇的题眼：等待有时是一种策略；但更多时候，是世界转得太快，你下不来。
-- 句子结构：`Sometimes waiting is a strategy.` 是主系表结构，Sometimes 在句首作状语。`Sometimes the world is spinning too fast to dismount.` 把主语换成 the world，`spinning` 用现在分词作后置定语，`too...to...` 表示"太……以至于不能……"。两句都以 Sometimes 起头，用一个对仗把两节合起来。
+- 句子结构：`Sometimes waiting is a strategy.` 是主系表结构，Sometimes 在句首作状语。`Sometimes the world is spinning too fast to dismount.` 把主语换成 the world，`spinning` 用现在分词作后置定语，`too...to...` 表示"太……以至于不能……"。两句都以 Sometimes 起头，用一个对仗把这一节的两句收束句并成一副对偶。
 - 关键词：strategy——"策略"；她把被动承受说成主动选择，句子也就从诉苦变成了表态。
 - 表达方式：一句给出乐观的解释，一句立刻用更常见的经验推翻它；两句都是判断句，不带任何例子。
 - 为什么这样写：这一节写的是"被问"——他们坐着，只能答。Trish 用这两句把自己从被审的位置挪到旁观者的位置：不是她在等，是世界在转，她是被转晕的人之一。
@@ -149,13 +149,13 @@ modified: "2026-10-02"
 ### 本文核心表达
 
 - `Another Godot moment`——Wally 对那个傍晚的定义：什么都还没发生，所以什么都还悬着
-- `What are we waiting for?`——全篇反复出现的那个问题，标题就是它的一半答案
+- `What are we waiting for?`——那个问题在文里只问过一次，标题就是它的一半答案
 - `waiting is a strategy`——Trish 把被动挨问翻成主动策略的那一句
 - `awake enough to question that`——Wally 对自己的全部定义：他做的全部事情就是保持清醒
 
 ### 重要语法
 
-- 完成进行体表示"记得曾经如何"：`I remember having felt warm and wet`
+- 完成式的动名词表示"记得曾经如何"：`I remember having felt warm and wet`（having + 过去分词，不是完成进行体）
 - 同构排比推进论点：`Maybe you would...` 连用三次
 - 反义疑问句表达怀疑而不提问：`Was I the only one...`
 - 段落片段与省略：`No one counters.` / `But she couldn’t wait. Didn’t wait.` / `He…` / `because…because…` / `Clumsily.`
@@ -166,7 +166,7 @@ modified: "2026-10-02"
 - 五个叙述者轮换，每一次换人都换一种"等"的姿势：在旁边看、等对方开口、等那个人回来、替所有人挡话、装作没看见
 - 用别人的嘴交代身份与在场者：Trish 在盘问中说出 Pud 就是 Patrick，也让读者知道那一屋里有几个人
 - 用道具承载隐喻：粉笔画出来的黄砖路、打算盖起来的据点、母亲留下的东西一件件送进当铺
-- 每节末句独立成段、语气短促，让五个人的独白共用一个节拍
+- 每节末句独立成段、语气短促，让五个人的独白共用一个节拍（收尾的形式不统一：有的是判断句，有的是陈述，有的是一问一答的对白）
 - 结尾不下结论，只把"还会有下一次"这一个问题留在读者这边
 
 ## 可迁移表达
