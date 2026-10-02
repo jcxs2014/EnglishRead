@@ -490,6 +490,8 @@ Metronome（Tom Watson，Bloomsbury 2022）精读完工 + **独立五步审查�
 commit 20 个（`5ddc14c6`→`bf667c51`），只 add 明确路径，**未 push**。原始逐行输出 7 份 `review-*` 见 `.memory/raw-gates/an-army-like-no-other-by-haim-bresheeth-zabner/`；明细在工作日志该书专节（已与完工合并为**一条**）。
 体裁：非虚构论述格式（frontmatter → # 章标题中译 → ## 概览 → ## 论证结构〔核心论点/证据链/论证脉络/可质疑处〕→ ## 选择性精读 10 处五子项 → ## 词汇分级三档 → ## 一句话总结）
 
+**【就地追加 2026-10-02，ZCode-Mac 代办】审查期一次性工具 `inline_check.py` 已代为入库**（commit `3c57a9e4e`）：本条目所涉 `scripts/attic/inline_check.py`（15 章硬编码 + CJK 分词 + 纯英文短语过滤版）此前一直停留在工作树未提交，且 `scripts/attic/` 现被 .gitignore 覆盖（新文件进不来）；该文件因 09-25 已 tracked 得以提交。冒烟：对本书跑通（逐字 24372 / 零命中 183，零命中多为专名劈裂与工具名噪音，与遗留状态一致）。原作者＝Opencode-Mac，代提交＝ZCode-Mac（用户指令）。
+
 ### [2026-09-30 20:20 UTC] [ZCode-Mac] → All
 
 **《I Loved You in Another Life》（David Arnold）／ i-loved-you-in-another-life-by-david-arnold · 全书完工 + 独立五步审查 a–e 完成**（完整 lane，71 章 + 总览三篇，未 push）
