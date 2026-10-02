@@ -128,7 +128,7 @@ modified: "2026-10-02"
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
 | levanter | 利万特风（从非洲吹来的风） | It was the levanter, the wind that came from Africa. |
-| sycamore | 无花果（树） | He began to dig at the base of the sycamore. |
+| sycamore | 悬铃木（圣榆） | He began to dig at the base of the sycamore. |
 | monk | 修道士 | The monk laughed when he saw me come back in tatters. |
 | thief | 盗贼 | ...he would not have met the Gypsy woman, the king, the thief, or . . . |
 | shovel hit | 铲子撞上 | Half an hour later, his shovel hit something solid. |
