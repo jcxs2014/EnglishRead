@@ -1,0 +1,49 @@
+=== 语料层验收（P0-0）: black-is-the-body-by-emily-bernard ===
+text/ 件数: 13
+  [1] 件数 13 == 预期 13  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 未给 --anchors，跳过人物锚点双向  WARN
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (48 句)
+      首| Beginnings
+      末| In its inherent contradictions, utter mysteries, and bottomlessness as a reservoir of narratives
+    ch02 (365 句)
+      首| Scar Tissue
+      末| It’s me.
+    ch03 (537 句)
+      首| Teaching the N-Word
+      末| It is tucked away so that only I can see the title on its spine, and then only with some effort.
+    ch04 (414 句)
+      首| Interstates
+      末| It is John’s right hand in mine, and his left one sure and steady on the wheel.
+    ch05 (253 句)
+      首| Mother on Earth
+      末| But like everyone else who resides on Earth, they will have to go there to know there and, ultim
+    ch06 (236 句)
+      首| Black Is the Body
+      末| Black is the body of the stories I tell.
+    ch07 (245 句)
+      首| Skin
+      末| I’m not sure if I have the language to teach them how, but this is what I want them to do.
+    ch08 (188 句)
+      首| White Friend
+      末| Let’s call it love.
+    ch09 (274 句)
+      首| Her Glory
+      末| She just got tired of messing with it, she said.
+    ch10 (478 句)
+      首| Motherland
+      末| Yes.
+    ch11 (541 句)
+      首| Going Home
+      末| It’s time to face the road ahead, and make my way to points north.
+    ch12 (398 句)
+      首| People Like Me
+      末| I close my eyes and give myself over to the small, full world that surrounds me, sure for once t
+    ch13 (52 句)
+      首| Epilogue: My Turn
+      末| It is a process I am helpless to stop, just like the blood that courses through the interior of 
+
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===
