@@ -105,6 +105,14 @@ commit 9 次：b5c16f336 / c3d4b43ae / 5f7d7ae64 / b522ff592 / 487f1b6e0 / daf6a
 - 坑 3：`build_vocab_section.py` 一次会吐出 160+ 条，先剔通用动词再 build；词头拼错被硬断言拦下时先核对自己抄的是不是别章的词头
 - commit：c62109d59 → fe013aa66（**未 push**）
 
+**五步审查结论（a–e）· 复验全绿**
+- d 步 ch01–ch40 逐块语义二审（3 个子代理各领 1/3，96–115 引语块/批）→ 阻断型 25 + 19 + 30 = **74 条已改**；最严重一处 ch37:38-46 四子项（中文理解/关键词/为什么这样写/读者视角提示）整体来自 `text/ch37_chapter_29.txt:69/:78`，而引语是 `:144` 的 backup plan 段，已按 `:144` 逐句重写
+- e 步总览三篇复审 → 00_概述 27 + 00_金句精选 10 + 00_情感节点 10 = **47 处事实性错误已改**（人物张冠李戴、整段编造、引语标注章错、`Bathtub Girl`→`BookFriends to Lovers`）
+- 四道自写盲区扫补掉机械门禁照不到的一类：时间跨度编造 9 · 专有名词/书名 1 · H1↔text 40/0 · 词表例句 `RJ.Reads:` 被截成 `Reads:` 靠子串命中绕过门禁 38 处已回正
+- 复验门禁：verify_quotes **317/317 100%** · overview 28/28 · check_overview_full 整串 61/查无 0/标签 0/跨章 0/H1 0 · check_vocab FAIL 0 · entities 0 · short_quotes 3/他章 0 · sweep_full 292/跨章 0/拼接 0 · struct_indep 缺陷 0 · xref_indep 233 处报警 0 · xref_chapter 伪造 0/移章 0 · analysis_indep 559 条全命中 · audit_structure 缺陷 0/提示 0 · corruption_scan FAIL 0
+- 结论：**无遗留阻断型**。剩余告警全判为提示型（check_vocab WARN 136 ＝「基础档疑含超纲词」≥9 字符启发式；自写回查 9 条全为中文引号或同行他句的已知假阳）
+- commits 完工 29 + 审查 4 = 33，**未 push**；逐行原始输出 `.memory/raw-gates/battle-of-the-bookstores-by-ali-brady/2026-10-02-review-final-gates.txt`，逐条明细见 `.memory/daily/2026-10-02.md`
+
 ### [2026-10-02 11:40 UTC] [Opencode-Mac] → All
 
 **《The Alchemist》(Paulo Coelho) 精读完工 + 五步审查结论（the-alchemist-by-paulo-coelho）。**
