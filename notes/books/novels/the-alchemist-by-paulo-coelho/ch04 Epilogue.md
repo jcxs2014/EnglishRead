@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-**一句话概括：** Santiago 带着铲子而非羊群回到那座废弃教堂，在无花果树下挖出西班牙宝藏，把 Urim and Thummim 放回箱中，然后应着风的召唤动身去找 Fatima。
+**一句话概括：** Santiago 带着铲子而非羊群回到那座废弃教堂，在圣器室旁那棵悬铃木（sycamore）下挖出西班牙宝藏，把 Urim and Thummim 放回箱中，然后应着风的召唤动身去找 Fatima。
 
 **情感弧线位置：** 收束 — 物质圆满（宝藏到手）与情感圆满（奔向 Fatima）同时抵达，但结尾停在路上，不作停留。
 
@@ -17,13 +17,13 @@ modified: "2026-10-02"
 
 > **原句 1:** The boy reached the small, abandoned church just as night was falling. The sycamore was still there in the sacristy, and the stars could still be seen through the half-destroyed roof. He remembered the time he had been there with his sheep; it had been a peaceful night . . . except for the dream.
 
-**中文理解：** 男孩在夜幕降临时回到了那座小小的废弃教堂。无花果树还在圣器室里，星星还能从半毁的屋顶望出去。他想起自己曾带着羊群待在这里的那一夜：那是个安宁的夜晚……除了那个梦。
+**中文理解：** 男孩在夜幕降临时回到了那座小小的废弃教堂。悬铃木还在圣器室里，星星还能从半毁的屋顶望出去。他想起自己曾带着羊群待在这里的那一夜：那是个安宁的夜晚……除了那个梦。
 
-**句子结构：** 三个句子。首句 "The boy reached the small, abandoned church just as night was falling" 主谓宾 + "just as..." 引导的时间状语从句。第二句 "The sycamore was still there in the sacristy, and the stars could still be seen through the half-destroyed roof" 为并列句（两句都用 still 以示对照今昔）。第三句 "He remembered the time he had been there with his sheep" 主谓宾 + 定语从句，"it had been a peaceful night . . . except for the dream" 为省略主语的并列分句（省略的 it's the same）。
+**句子结构：** 四个句子。首句 "The boy reached the small, abandoned church just as night was falling" 主谓宾 + "just as..." 引导的时间状语从句。第二句 "The sycamore was still there in the sacristy, and the stars could still be seen through the half-destroyed roof" 为并列句（两个分句都用 still 以示对照今昔）。第三、四句由分号连接：`He remembered the time he had been there with his sheep;` 主谓宾 + 定语从句；`it had been a peaceful night . . . except for the dream.` 是 `it` 回指 `the time` 的独立句——`it` 是真实代词，不是省略。
 
 **关键词：** reached, abandoned church, sycamore, sacristy, half-destroyed, remembered, peaceful, except for
 
-**为什么这样写：** 开篇三句全是"还在"（still / still）：无花果树还在、星星还能看见、无毁的屋顶还漏着光。still 的反复把"此刻"与"从前"直接对撞，无需一句解释。末句以 `except for` 收束——安宁的夜里唯一的例外正是那个梦，也就是全书的起点。这一句把首尾焊在一起。
+**为什么这样写：** 第二句里两个 still 把"此刻"与"从前"直接对撞：悬铃木还在原处，星星还从**半毁的**屋顶望得见——旧物未改，人已改。末句以 `except for` 收束——安宁的夜里唯一的例外正是那个梦，也就是全书的起点。这一句把首尾焊在一起。
 
 > **原句 2:** Now he was here not with his flock, but with a shovel.
 
@@ -77,7 +77,7 @@ modified: "2026-10-02"
 
 > **原句 7:** The wind began to blow again. It was the levanter, the wind that came from Africa. It didn't bring with it the smell of the desert, nor the threat of Moorish invasion. Instead, it brought the scent of a perfume he knew well, and the touch of a kiss—a kiss that came from far away, slowly, slowly, until it rested on his lips.
 
-**中文理解：** 风又起了。那是 levanter，从非洲吹来的风。它没有带来沙漠的气味，也没有带来摩洛哥人入侵的威胁。相反，它带来了一种他早已熟悉的气香，以及一个吻的触感——一个从远方缓缓而来的吻，缓缓地，直到停在你的双唇上。
+**中文理解：** 风又起了。那是 levanter，从非洲吹来的风。它没有带来沙漠的气味，也没有带来摩洛哥人入侵的威胁。相反，它带来了一种他早已熟悉的气香，以及一个吻的触感——一个从远方缓缓而来的吻，缓缓地，直到停在**他的**双唇上。
 
 **句子结构：** 四个句子。首句简单句。次句为同位语（`It was the levanter, the wind that came from Africa`）。第三句为并列否定句（`didn't bring ... nor ...`）。第四句为并列肯定（`brought the scent ... and the touch of a kiss`）后接破折号引出的同位语（`—a kiss that came from far away`），同位语内含 `slowly, slowly, until` 的三段递进，并以 `until` 引导时间/终点状语从句收尾。
 
@@ -85,7 +85,7 @@ modified: "2026-10-02"
 
 **为什么这样写:** 收束全文的唯一一次真正的"魔法"——风变信使。`It didn't bring ... nor ...` 先双重排除（不再是沙漠、不再是威胁），`Instead, it brought` 紧接转折，把风的意义从"灾祸"改写为"情意"。`slowly, slowly, until` 三段递进，把一个吻写成需要时间才能抵达的旅程。`it rested on his lips` 中 `rested` 是不及物动词的完成体，代替了 `settled`，因此"落下"的动作更轻。
 
-> **原句 8:** The boy smiled. It was the first time she had done that. "I'm coming, Fatima," he said.
+> **原句 8:** The boy smiled. It was the first time she had done that. … "I'm coming, Fatima," he said.
 
 **中文理解：** 男孩笑了。这是她第一次这样笑。"我就来，Fatima，"他说。
 
@@ -93,7 +93,7 @@ modified: "2026-10-02"
 
 **关键词:** smiled, the first time, done that, I'm coming
 
-**为什么这样写:** 三个短句完成全部收束。`The boy smiled.` 单句成段，语气干脆；`It was the first time she had done that.` 用完成时标出这是**第一次**——此前全书写尽他的思念与追寻，她一次也没笑过，此处由风递来，恰好是初见。全书最后一句只有一句承诺（`I'm coming, Fatima`），承诺而不告别：目标已达成，故事不收在宝藏上，而收在"上路"上。
+**为什么这样写:** 三个短句完成全部收束。`The boy smiled.` 单句成段，语气干脆；`It was the first time she had done that.` 里的 "she" 指的是**风**（上文风刚带来那个吻），不是 Fatima——男孩上一次见她笑是 Part Two 绿洲那次，这句把笑的主体让给了风，于是收束落在物上而非人上。全书最后一句只有一句承诺（`I'm coming, Fatima`），承诺而不告别：目标已达成，故事不收在宝藏上，而收在"上路"上。
 
 ## 本章词汇
 
@@ -137,4 +137,4 @@ modified: "2026-10-02"
 
 ## 一句话总结
 
-Santiago 回到一切开始的地方，发现梦想早已兑现：宝藏本就在原地，牧羊人与冒险家的差别只在于带的是羊群还是铲子——而他甚至还不知道，真正的宝藏是那两枚他已在集市用过的石头，和风替他带来的一记微笑。
+Santiago 回到一切开始的地方，发现梦想早已兑现：宝藏本就在原地，牧羊人与冒险家的差别只在于带的是羊群还是铲子——那两枚他已在集市用过的石头也被他放回箱中，因为它们是新宝藏的一部分（a part of his new treasure），提醒他那个再也见不到的老人。

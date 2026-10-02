@@ -33,7 +33,7 @@ modified: "2026-10-02"
 
 **关键词：** really desires, universe, conspires, realize his dream, echoing, Personal Legend
 
-**为什么这样写：** 炼金术士是**复述**老国王的话，作者用 `echoing the words of the old king` 把两章缝合起来——这一句既是 Part Two 的题眼，也是 Part One 结尾的回声。`really desires` 里的 really 加重语气：宇宙只回应"真正的渴望"，而非口头愿望。`The boy understood` 单独立句，节奏上短促停顿，标记顿悟。
+**为什么这样写：** 炼金术士是**复述**老国王的话，作者用 `echoing the words of the old king` 把两章缝合起来——这一句既是 Part Two 的题眼，也是 Part One 中段（广场对话）那次交代的回声。`really desires` 里的 really 加重语气：宇宙只回应"真正的渴望"，而非口头愿望。`The boy understood` 单独立句，节奏上短促停顿，标记顿悟。
 
 > **原句 3:** Listen to your heart. It knows all things, because it came from the Soul of the World, and it will one day return there.
 
@@ -45,11 +45,11 @@ modified: "2026-10-02"
 
 **为什么这样写：** 炼金术士教导 Santiago 倾听心灵——因为心灵来自"世界之魂"，所以它知道一切。"it came from the Soul of the World, and it will one day return there" 是循环论：心灵是宇宙的一部分，因此与宇宙有直接的沟通。
 
-> **原句 4:** Love is the force that transforms and improves the Soul of the World. When I first reached through to it, I thought the Soul of the World was perfect. But later, I could see that it was like other aspects of creation, and had its own passions and wars.
+> **原句 4:** Love is the force that transforms and improves the Soul of the World. When I first reached through to it, I thought the Soul of the World was perfect. But later, I could see that it was like other aspects of creation, and had its own passions and wars. It is we who nourish the Soul of the World, and the world we live in will be either better or worse, depending on whether we become better or worse. And that's where the power of love comes in. Because when we love, we always strive to become better than we are.
 
-**中文理解：** 爱是转化和改善世界之魂的力量。当我第一次触及它时，我以为世界之魂是完美的。但后来，我看到它就像创造的其他方面，有自己的激情和战争。
+**中文理解：** 爱是转化和改善世界之魂的力量。当我第一次触及它时，我以为世界之魂是完美的。但后来，我看到它就像创造的其他方面，有自己的激情和战争。**是我们滋养着世界之魂，而我们这个世界会变好还是变坏，取决于我们自己是变好还是变坏。爱之所以有力量，正在于此——因为我们爱的时候，总是在努力让自己变得比原来更好。**
 
-**句子结构：** 直接引语（复合句）。"Love is the force that transforms and improves the Soul of the World" 是主系表，"that transforms and improves the Soul of the World" 是定语从句，"When I first reached through to it" 是时间状语从句，"I thought the Soul of the World was perfect" 是主句，"But later, I could see that it was like other aspects of creation, and had its own passions and wars" 是并列句。
+**句子结构：** 直接引语（复合句）。"Love is the force that transforms and improves the Soul of the World" 是主系表，"that transforms and improves the Soul of the World" 是定语从句，"When I first reached through to it" 是时间状语从句，"I thought the Soul of the World was perfect" 是主句，"But later, I could see that it was like other aspects of creation, and had its own passions and wars" 是并列谓语（共用主语 I 的 was 与 had）。末段"It is we who nourish..."是强调主语（It is ... who ...）。
 
 **关键词：** Love, force, transforms, improves, Soul of the World, perfect, passions, wars
 
@@ -89,7 +89,7 @@ modified: "2026-10-02"
 
 **中文理解：** 因为他现在知道他的宝藏在哪里了。
 
-**句子结构：** 简单句。"Because now he knew where his treasure was" 是原因状语从句，"where his treasure was" 是宾语从句。
+**句子结构：** 单句（一个 because 引导的原因状语从句）。"Because now he knew where his treasure was" 即全句，"where his treasure was" 是 knew 的宾语从句——where 在此**作关系副词**（= in the place where），故与原句 7 句首那个地点状语从句功能不同：一句是修饰主句，一句是作宾语。
 
 **关键词：** knew, treasure
 
