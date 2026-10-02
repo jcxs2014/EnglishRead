@@ -143,7 +143,7 @@ source_text: ch07_6_israeli_mass_surveillance_in_the_brain.txt
 
 **表达方式**：perpetual（永久的）insecurity（不安全）与 Insecurity Industry（不安全产业）之间构成词源游戏：同源派生词被用作对新行业的命名；open to infection（易于被感染）把电子设备写成易感生物；willing to put money（愿意出钱）作为 anyone 的定语，把威胁人格化。
 
-**为什么这样写**：这是 Snowden 对他所在产业的命名。整段的修辞策略是把「网络安全」这个词反转：正常的网络安全（cyber security）保护用户不被攻击，而「不安全产业」（Insecurity Industry）生产攻击工具。perpetual（永久的）一词说明这不是偶发漏洞而是常态。open to infection by anyone willing to put money in the hand of… 这一分词短语把「任何人」限定为「愿意出钱的人」——威胁不是国家行为体或黑客，而是**客户**。这句与后文 Hockney 所说「做无情的人有优势」以及「消除利润动机」的建议构成同一条逻辑链：行业属性决定了它的行为。
+**为什么这样写**：这是 Snowden 对他所在产业的命名。整段的修辞策略是把「网络安全」这个词反转：正常的网络安全（cyber security）保护用户不被攻击，而「不安全产业」（Insecurity Industry）生产攻击工具。perpetual（永久的）一词说明这不是偶发漏洞而是常态。open to infection by anyone willing to put money in the hand of… 这一分词短语把「任何人」限定为「愿意出钱的人」——威胁不是国家行为体或黑客，而是**客户**。这句与后文「做无情的人有优势」（同章原句 7）以及 Snowden「消除利润动机」的建议构成同一条逻辑链：行业属性决定了它的行为。
 
 ### ③ 「唯一目的就是制造脆弱性」
 
