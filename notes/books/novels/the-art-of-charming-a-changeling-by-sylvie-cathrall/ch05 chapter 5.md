@@ -72,7 +72,7 @@ modified: "2026-10-02"
 
 **关键词：** Whatever anyone dares to discuss, in a gallery, The histories of other paintings, the prince’s frequent guests, counted on his fingers, A bit of your current events, How to laugh, how to smile, how often to nod, to avoid going on and on
 
-**为什么这样写：** 这是全章最令人心酸的一段，也是作者写孤独写得最不煽情的一次。整段是一份清单，而清单里混着三种层次完全不同的东西：画的历史（知识）、亲王的客人（闲话）、以及"怎么笑、怎么点头"（社交的本能）。作者故意不把它们分开，因为对 Vern 而言它们就是同一回事——他确实是从头学起，连微笑都需要从偷听中习得。最后那半句"how to avoid going on and on and— Well, why don’t I stop there?"是整段最精巧的地方：他在列举"如何不啰嗦"的时候自己啰嗦了，然后用这个自我打断来实际演示一遍刚学会的技巧，观众的笑和心疼在同一秒发生。而"She had already nodded ten times"的后续更狠，它戳破了清单的幻觉：他学过的东西全都做对了，可 Florrie 的换算仍然是错的。
+**为什么这样写：** 这是全章最令人心酸的一段，也是作者写孤独写得最不煽情的一次。整段是一份清单，而清单里混着三种层次完全不同的东西：画的历史（知识）、亲王的客人（闲话）、以及"怎么笑、怎么点头"（社交的本能）。作者故意不把它们分开，因为对 Vern 而言它们就是同一回事——他确实是从头学起，连微笑都需要从偷听中习得。最后那半句"how to avoid going on and on and— Well, why don’t I stop there?"是整段最精巧的地方：他在列举"如何不啰嗦"的时候自己啰嗦了，然后用这个自我打断来实际演示一遍刚学会的技巧，观众的笑和心疼在同一秒发生。而紧随其后那句"she’d already nodded ten times in their conversation"更狠，它戳破了清单的幻觉：他学过的东西全都做对了，可 Florrie 的换算仍然是错的。
 
 **读者视角提示：** 这段可以和 ch04 里"没人认认真真看过我"并读：他缺的不只是观众，而是一整套与人相处的手艺。作者让他用最轻快的语气叙述最大的匮乏。
 
@@ -86,13 +86,13 @@ modified: "2026-10-02"
 
 **读者视角提示：** 注意她报数字的习惯：十年三个月零四天、四百三十八幅、二十五个表情牌。作者用计数替代抒情，凡是 Florrie 情绪最重的地方，她都在数数。
 
-> **原句 8:** “The secret is that there’s an entire room inside that cottage, Florrie, and I live there!” He grinned, apparently delighted by his own revelation. “As far as I can tell, everything came into being with everything it needed. It’s like how he didn’t specifically paint me a heart, but I can still feel it beating.”
+> **原句 8:** “The secret is that there’s an entire room inside that cottage, Florrie, and I live there!” … “He didn’t paint it,” explained Vern. “… everything came into being with everything it needed. If there’s a cottage exterior, it must have an interior. It’s like how he didn’t specifically paint me a heart, but I can still feel it beating.”
 
-**中文理解：** "秘密就是，那间小屋里有一整个房间，Florrie，我就住在那里！"他咧开嘴笑，显然为自己的发现感到得意。"据我所知，每样东西在诞生时都配齐了它所需的一切。就像他没有专门给我画一颗心脏，但我仍然能感觉到它在跳。"
+**中文理解：** "秘密就是，那间小屋里有一整个房间，Florrie，我就住在那里！"……"不是他画的，"Vern 解释道，"……每样东西在诞生时都配齐了它所需的一切。既然有村舍的外壳，就必然有内部。就像他没有专门给我画一颗心脏，但我仍然能感觉到它在跳。"
 
-**关键词：** The secret is that, an entire room inside that cottage, I live there, delighted by his own revelation, everything came into being, with everything it needed, didn’t specifically paint me a heart, I can still feel it beating
+**关键词：** The secret is that, an entire room inside that cottage, I live there, He didn’t paint it, everything came into being, with everything it needed, If there’s a cottage exterior, it must have an interior, didn’t specifically paint me a heart, I can still feel it beating
 
-**为什么这样写：** 这是本章的揭示，也是全书设定逻辑最漂亮的一次收束。前几章读者一直以为 Vern 被困在一幅风景画里，现在才知道那只是一个门厅——他的牢房比他以为的更大，这个揭示同时扩大和加深了他的处境。而作者紧接着用"他没有专门给我画一颗心脏"把设定变成了本体论笑话：魔法不造细节，只造完备性，所以凡是需要的东西都会自己长出来，包括一颗没被画过的心脏。这一句之所以动人，是因为它同时是对造物者的控诉与对存在的确认——伪造者没打算给他生命，可他还是活着；而 Vern 自己讲这件事的语气是兴奋的，他甚至"delighted by his own revelation"，仿佛刚发现了一件有趣的藏品。
+**为什么这样写：** 这是本章的揭示，也是全书设定逻辑最漂亮的一次收束。前几章读者一直以为 Vern 被困在一幅风景画里，现在才知道那只是一个门厅——他的牢房比他以为的更大，这个揭示同时扩大和加深了他的处境。而作者紧接着用"他没有专门给我画一颗心脏"把设定变成了本体论笑话：魔法不造细节，只造完备性，所以凡是需要的东西都会自己长出来，包括一颗没被画过的心脏。这一句之所以动人，是因为它同时是对造物者的控诉与对存在的确认——伪造者没打算给他生命，可他还是活着；而 Vern 讲这件事的语气是解释性的、带着推断的口吻（"He didn’t paint it… that’s my guess"），他把一件关乎自己存在的事当成一道可以推演的谜题来讲。
 
 **读者视角提示：** 这句为后面所有关于"带他离开"的逻辑立了规矩：如果他能有心脏，那么他能不能离开画也就不是物理问题，而是意图问题。请把这一句记牢，它是后面几章推理的地基。
 

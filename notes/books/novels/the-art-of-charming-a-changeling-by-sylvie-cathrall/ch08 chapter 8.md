@@ -219,7 +219,7 @@ modified: "2026-10-02"
 | demurely | 端庄地，矜持地 | turning her eyes demurely downward |
 | novel | 新奇的，新颖的 | this novel method of meal preparation proved quite effective |
 | unfamiliarity | 不熟悉，陌生 | Vern’s relative unfamiliarity with common vegetables caused him no confusion |
-| scales | 鳞片；（此处指胡萝卜的"内层"） | he asked whether a carrot would need its internal scales removed |
+| scales | 鳞片；（此处指胡萝卜的"内层"） | he asked whether a carrot would need its “internal scales” removed |
 | tuneful | 音调优美的，悦耳的 | in a tuneful, clear tone |
 | knack | 诀窍，本领 | How fortunate, then, that you possess a knack for it. |
 | simmering | 炖，用文火慢煮 | The stew, simmering over the flames in an unadorned golden vessel |

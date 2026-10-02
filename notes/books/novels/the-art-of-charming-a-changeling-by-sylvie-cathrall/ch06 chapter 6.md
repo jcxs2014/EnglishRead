@@ -26,11 +26,11 @@ modified: "2026-10-02"
 
 **读者视角提示：** 这是本章第一个"她靠数字稳住自己"的例子。数数在本书里几乎总是焦虑的信号，而不是自信的信号。
 
-> **原句 2:** In each of those instances, Florrie followed the Code’s regulations to the letter by completing official transport condition reports. The present circumstance did not strictly qualify as official, but Florrie filled out a report anyway. What manner of vehicle will be used to transport the work? A lonely conservator on foot.
+> **原句 2:** In each of those instances, Florrie followed the Code’s regulations to the letter by completing official transport condition reports. … What manner of vehicle will be used to transport the work? A lonely conservator on foot.
 
-**中文理解：** 在每一次这样的事里，Florrie 都逐字遵照《守则》的规定，填写正式的运输状况报告。眼下的情形严格来说算不上正式，但 Florrie 还是填了一份。运送这件作品将使用何种交通工具？一位徒步的、孤单的修复师。
+**中文理解：** 在每一次这样的事里，Florrie 都逐字遵照《守则》的规定，填写正式的运输状况报告。……运送这件作品将使用何种交通工具？一位徒步的、孤单的修复师。
 
-**关键词：** followed the Code’s regulations to the letter, official transport condition reports, did not strictly qualify as official, filled out a report anyway, What manner of vehicle, A lonely conservator on foot
+**关键词：** followed the Code’s regulations to the letter, official transport condition reports, What manner of vehicle, A lonely conservator on foot
 
 **为什么这样写：** 这是本章最好笑也最巧妙的段落，因为它把她的性格与她此刻的行为并排放进一张表格。她明知这次运输"算不上正式"——也就是明知自己在违规——却仍然填了表，因为填表是她唯一会的思考方式。而幽默的支点在于问答格式：公文的提问是严肃的，回答却开始泄露出她的处境与孤独，"A lonely conservator on foot"这一行既是程序性回答，也是一句无意识的自白。作者甚至不必加评论，读者会自动把"孤单的徒步修复师"读成她此刻对自己的描述。这也是全书处理她的方法：她永远无法直接说"我很孤独"，但可以在报表的空白栏里写出来。
 
@@ -96,9 +96,9 @@ modified: "2026-10-02"
 
 **读者视角提示：** 本书经常用"不知情者的准确评论"制造反讽。留意 Chary 这句与结尾耳语的呼应：她两次说中要害，两次都被当成刻薄的玩笑。
 
-> **原句 9:** “You’ve toiled for years to establish yourself as a conservator, overcoming all manner of obstacles and frustrations,” Dr Hyverfell continued, “the likes of which most wouldn’t understand. It’s wonderful that you’ve obtained a fine position suitable to your needs. Isn’t it, Chary?”
+> **原句 9:** “You’ve toiled for years to establish yourself as a conservator, overcoming all manner of obstacles and frustrations… the likes of which most wouldn’t understand. It’s wonderful that you’ve obtained a fine position suitable to your needs. Isn’t it, Chary?”
 
-**中文理解：** "你辛苦了这么多年，才把自己立成一名修复师，克服了各式各样的障碍与挫败，"Dr Hyverfell 继续说，"那些是大多数人根本不会理解的。你得到了一个适合你需要的、很好的职位，这真是太好了。是不是，Chary？"
+**中文理解：** "你辛苦了这么多年，才把自己立成一名修复师，克服了各式各样的障碍与挫败……那些是大多数人根本不会理解的。你得到了一个适合你需要的、很好的职位，这真是太好了。是不是，Chary？"
 
 **关键词：** You’ve toiled for years, to establish yourself as a conservator, overcoming all manner of obstacles and frustrations, the likes of which most wouldn’t understand, obtained a fine position suitable to your needs, Isn’t it, Chary
 

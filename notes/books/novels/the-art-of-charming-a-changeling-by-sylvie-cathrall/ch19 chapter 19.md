@@ -206,7 +206,7 @@ modified: "2026-10-02"
 | sleeve | 袖子 | Instead, to her surprise, he leaned away, pressing his face against his sleeve. |
 | nape | 后颈 | Vern turned to face her again, his hand settling comfortably against the nape of her neck – another familiarly thrilling sensation. |
 | lace | 蕾丝 | Too startled to speak, Florrie studied the painted lace around the collar of her dress. |
-| gloves | 手套 | And you, replied Vern, are still wearing your gloves. |
+| gloves | 手套 | “And you,” replied Vern, “are still wearing your gloves. |
 | stockings | 长袜 | Beneath her dress, she was down to nothing but her stockings. |
 | cottage | 小屋 | As Vern practically dashed towards the cottage. |
 

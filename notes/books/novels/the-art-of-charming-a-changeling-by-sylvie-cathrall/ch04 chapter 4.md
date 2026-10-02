@@ -86,7 +86,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 这是本书写"被困"最集中的一处：它不写空间有多小，而写时间如何被一针一针地缝出来。读完本章后重读第 4 段 Vern 说"we'd even be about the same size"，会觉得那句话格外刺人。
 
-> **原句 8:** “The fact of the matter is that no one else has ever looked at my painting.” “Why, that’s impossible!” … “Looked properly, you understand,” Vern added.
+> **原句 8:** “The fact of the matter is that no one else has ever looked at my painting.” … “Why, that’s impossible!” … “Looked properly, you understand,” Vern added.
 
 **中文理解：** "事实是，从来没有人看过我的画。""哎呀，这不可能！"……"我是说，认认真真地看过，"Vern 补充道。
 

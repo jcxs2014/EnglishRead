@@ -150,7 +150,7 @@ modified: "2026-10-02"
 
 **中文理解：** 考虑到 Florrie 确信自己几乎愿意为 Vern 做任何事，调整一下握笔的姿势似乎就算不上特别沉重的负担了。
 
-**关键词：** do practically anything for Vern, adjusting her brush-hold, not especially burdensome
+**关键词：** do practically anything for Vern, adjusting her brush-hold, didn’t seem especially burdensome
 
 **为什么这样写：** 章末最后一句，作者用一次体量上的巨大不对称制造幽默：前提是"任何事"（无限），结论却是"调手腕"（极小）。这个落差既好笑又动人，因为它准确描述了热恋中人的心理换算——巨大的承诺被最琐碎的行动兑现，而当事人不觉得其中有什么不匹配。作者还刻意不给她任何豪言壮语，让全章以一个学画姿势的动作结束，把"爱的证明"从誓言降级为练习。这同时预告了下一章的走向：从这一刻起，这段关系的推进方式不再是想念，而是练功。
 

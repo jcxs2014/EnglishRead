@@ -74,7 +74,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 这段自述是本章对 Lord Mauve 最重要的一次翻案。作者把"反派"的动机安置在一个极普通的两难上——两份家族责任、一个人必须让步——并且让他主动选择让步，且宣称自己情愿。这个"happy for that to be me"必须与他后文的行为合起来读才有全部意味：一个愿意牺牲的人，最终用偷画的方式去求复合，说明问题从来不在于他不肯付出，而在于他不会"说"。他所有的爱都停在行动与姿态层面，从未翻译成对方听得懂的语言——本章的诗眼正在此处，而它埋在一段没有任何情绪的叙述里。
 
-**读者视角提示：** 请把这句话和后面那句"And you two became engaged?"到"he never once made a grand gesture of love"连起来读。整场悲剧的机制就散在这两句之间。
+**读者视角提示：** 请把这句话和后面那句"And you two became engaged?"到"That I had never once made a grand gesture of love"连起来读。整场悲剧的机制就散在这两句之间。
 
 > **原句 7:** “He claimed he felt neglected. That I had never once made a grand gesture of love. Thus, I decided to copy the painting.”
 
@@ -102,7 +102,7 @@ modified: "2026-10-02"
 
 **关键词：** I gave him those spectacles, Lord Mauve fumed
 
-**为什么这样写：** 全书最有杀伤力的一句短台词。前文她已经指出：藏字需要眯眼细看，而 Ardant 从不戴眼镜；这句回应把整个悲剧的因果锁成了一个闭环——那副眼镜正是他送的，而收礼的人从未戴过。作者让它以五个词、一个动词（fumed）的形式出现，并且不让他继续解释，把重量全部留给读者自己完成。本书处理悲剧的方式始终如此：不让任何人抒情感叹，只呈现一个物件与一次失察之间的荒谬错位。这也是为什么 Florrie 之后那句"he might have concealed your message a little too brilliantly"显得既体贴又不留情——而当她紧接着说出"I would like to learn how a Fairy in a changeling painting might be freed, if he wished."时，本章的重心完成了最后一次转移：从一件被偷走的画，转到一个人身上。作者把请求写得极其克制，用虚拟语气"if he wished"把主动权交回给 Vern，而不是替他决定要自由，这和她此前所有的专业习惯一致（修复师不擅自改动作品）。紧接其后的那句 Vern 的低语"Florrie. Thank you!"则是对这个语法细节的确认：他听见了那个"if he wished"。
+**为什么这样写：** 全书最有杀伤力的一句短台词。前文她已经指出：藏字需要眯眼细看，而 Ardant 从不戴眼镜；这句回应把整个悲剧的因果锁成了一个闭环——那副眼镜正是他送的，而收礼的人从未戴过。作者让它以五个词、一个动词（fumed）的形式出现，并且不让他继续解释，把重量全部留给读者自己完成。本书处理悲剧的方式始终如此：不让任何人抒情感叹，只呈现一个物件与一次失察之间的荒谬错位。这也是为什么 Florrie 之后那句"you might have concealed your message a little too brilliantly"显得既体贴又不留情——而当她紧接着说出"I would like to learn how a Fairy in a changeling painting might be freed, if he wished."时，本章的重心完成了最后一次转移：从一件被偷走的画，转到一个人身上。作者把请求写得极其克制，用虚拟语气"if he wished"把主动权交回给 Vern，而不是替他决定要自由，这和她此前所有的专业习惯一致（修复师不擅自改动作品）。紧接其后的那句 Vern 的低语"Florrie. Thank you!"则是对这个语法细节的确认：他听见了那个"if he wished"。
 
 **读者视角提示：** 请注意这一对事实的先后顺序：她先贬低他的藏法，他才扔出眼镜。作者让他被逼到墙角时才交代这件事，说明他此前的自述始终在替自己辩护。另外请注意她是在对方已经答应交画之后又加上的条件——她拿已经到手的东西换了另一样，这一笔把她的动机彻底交代清楚了。
 
