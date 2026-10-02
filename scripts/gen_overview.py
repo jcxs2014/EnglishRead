@@ -93,7 +93,19 @@ def expand(tpl: str, pool) -> str:
         if key not in pool:
             raise SystemExit(f"❌ 引语池无 ch{key[0]:02d}#{key[1]}")
         return pool[key][0]
+
+    def p(m):
+        key = (int(m.group(1)), int(m.group(2)))
+        if key not in pool:
+            raise SystemExit(f"❌ 引语池无 ch{key[0]:02d}#{key[1]}")
+        return pool[key][1]
+
     out = re.sub(r"\{Q:(\d+):(\d+)\}", q, tpl)
+    # ⚠️ 原实现只展开 {Q:}，从不展开 {P:}，而下面的 `left` 检查又会把任何
+    # {P:} 判成「未展开的占位符」并退出 ⇒ docstring 承诺的「{Q:NN:seq} / {P:NN:seq}
+    # 全部展开」是**空承诺**：模板里只要写一个 {P:}（中文理解）就一条都生成不出来。
+    # pool 里本来就存了 (q, zh) 两项，zh 从没被输出过。
+    out = re.sub(r"\{P:(\d+):(\d+)\}", p, out)
     left = re.findall(r"\{[QP]:\d+:\d+\}", out)
     if left:
         raise SystemExit(f"❌ 未展开的占位符: {left[:3]}")
