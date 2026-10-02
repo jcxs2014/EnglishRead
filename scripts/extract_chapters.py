@@ -87,7 +87,11 @@ def main():
     book_title = html.unescape(re.sub(r'\s+', ' ', _mt.group(1))).strip() if _mt else ''
 
     manifest = {}
-    for it in re.findall(r'<item\b[^>]*/?>', opf):
+    # ⚠️ 2026-10-01 修正：OPF 允许**带命名空间前缀**的 `<opf:item>` / `<opf:itemref>`
+    # （epubcheck 合法形态；实测 Only a Monster 即为此形态）。
+    # 原 `<item\b` / `<itemref\b` 不含前缀 ⇒ manifest 为空 ⇒ spine 全部 `continue`
+    # ⇒ **静默「写入 0 章」**——工具不报错、不退出非零，最危险的 fail-open。
+    for it in re.findall(r'<(?:[\w.-]+:)?item\b[^>]*/?>', opf):
         idm = re.search(r'id="([^"]+)"', it); hm = re.search(r'href="([^"]+)"', it)
         tm = re.search(r'media-type="([^"]+)"', it)
         if idm and hm: manifest[idm.group(1)] = (posixpath.normpath(posixpath.join(opf_path, unquote(hm.group(1)))), (tm.group(1) if tm else ''))
@@ -107,7 +111,9 @@ def main():
     for n in z.namelist():
         if n.lower().endswith('.ncx'):
             ncx = z.read(n).decode('utf-8', 'ignore')
-            for blk in ncx.split('<navPoint ')[1:]:
+            # ⚠️ 2026-10-01：NCX 的 `navPoint` 也可能带命名空间前缀（实测本库已有此形态），
+            # 原 `<navPoint ` 硬编码前缀 ⇒ 该文件**一个标签都取不到** ⇒ slug 回落到文件名。
+            for blk in re.split(r'<[\w.-]*:?navPoint\b', ncx)[1:]:
                 lm = re.search(r'<text>(.*?)</text>', blk); sm = re.search(r'<content\s+src="([^"]+)"', blk)
                 if lm and sm:
                     href = html.unescape(sm.group(1))
@@ -126,7 +132,8 @@ def main():
     # 改为**标签精确匹配**（出版商 nav 标签是干净短标签）+ **词边界路径判据**。
     BOILER_LABEL = {
         'cover', 'cover image', 'front cover', 'back cover', 'cover page',
-        'title page', 'half title', 'copyright', 'colophon', 'imprint',
+        'title page', 'half title', 'half title page',
+        'copyright', 'copyright page', 'copyright-page', 'colophon', 'imprint',
         'contents', 'table of contents', 'toc', 'dedication',
         'acknowledgment', 'acknowledgments', 'acknowledgement', 'acknowledgements',
         'about the author', 'about the artist', 'also by', 'also by the author',
@@ -145,7 +152,8 @@ def main():
     # 脚注按库内既有约定属非正文（`xx_` 前缀，不占 ch 编号），须在路径层拦住。
     BOILER_PATH = re.compile(
         r'_(cov|tp|cop|ctc|toc|ded|ack|ata|rsc|excerpt|newsletter|promo|ssd|bmn|cue|int|nav|ncx)\d*_'
-        r'|(^|[/_-])(nav|ncx|toc|next-?reads?|promo|advert|ads?|foot-?notes?|end-?notes?)\d*\.xhtml$', re.I)
+        r'|(^|[/_-])(nav|ncx|toc|next-?reads?|promo|advert|ads?|foot-?notes?|end-?notes?'
+        r'|copyright-?page|title-?page|half-?title-?page|dedication)\.xhtml$', re.I)
 
     def _label_key(s):
         return re.sub(r'[^a-z0-9 ]+', ' ', (s or '').lower()).strip()
@@ -161,7 +169,7 @@ def main():
     written, skipped = [], []
 
     n = a.start
-    for idref in re.findall(r'<itemref\b[^>]*idref="([^"]+)"', opf):
+    for idref in re.findall(r'<(?:[\w.-]+:)?itemref\b[^>]*idref="([^"]+)"', opf):
         if idref not in manifest: continue
         path, mtype = manifest[idref]
         if 'html' not in mtype and not path.lower().endswith(('.html','.htm','.xhtml')): continue
