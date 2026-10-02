@@ -1,6 +1,51 @@
-=== 独立审查五步法 · 复验门禁 2026-10-02 12:39:11 UTC ===
+=== 独立审查五步法 · 复验门禁 2026-10-02 13:02:32 UTC · DSH-Mac ===
 
 --- verify_quotes --full ---
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 25/25 ✅
+ch01 the blurb.md: 6/6 ✅（另有 1 条短引语未校验）
+ch02 the green dot.md: 8/8 ✅
+ch03 books are better than people.md: 4/4 ✅
+ch04 the wound and the war.md: 7/7 ✅（另有 1 条短引语未校验）
+ch05 a team that feels like family.md: 8/8 ✅
+ch06 the real villain is grandpa joe.md: 4/4 ✅
+ch07 pages and pairings.md: 7/7 ✅（另有 1 条短引语未校验）
+ch08 knitting and knotting.md: 8/8 ✅
+ch09 the literary collective.md: 8/8 ✅
+ch10 bookish never have i ever.md: 5/5 ✅
+ch11 forever seventeen.md: 8/8 ✅
+ch12 the wall comes down.md: 8/8 ✅
+ch13 make it loud.md: 8/8 ✅
+ch14 the purse book.md: 6/6 ✅
+ch15 the commandments of readers.md: 8/8 ✅
+ch16 participation trophy kid.md: 5/5 ✅
+ch17 not a bad guy.md: 8/8 ✅
+ch18 books are too important to be casualties.md: 8/8 ✅
+ch19 the truth is somewhere in the middle.md: 8/8 ✅
+ch20 pack a dress you can dance in.md: 8/8 ✅
+ch21 the only thing in color.md: 8/8 ✅
+ch22 a very nice mouth.md: 8/8 ✅
+ch23 only one bed.md: 8/8 ✅
+ch24 i miss you so much.md: 6/6 ✅
+ch25 humanizing your enemy.md: 8/8 ✅
+ch26 someone who isn't me.md: 8/8 ✅
+ch27 you got this.md: 8/8 ✅
+ch28 a happy ending needs to be earned.md: 8/8 ✅
+ch29 i never want to read about folds.md: 6/6 ✅
+ch30 i don't need to be alone.md: 8/8 ✅
+ch31 being jealous of yourself.md: 8/8 ✅
+ch32 it's an invitation.md: 8/8 ✅
+ch33 dip their toe in the water.md: 8/8 ✅
+ch34 see you soon.md: 4/4 ✅
+ch35 hoping for a happy ending.md: 8/8 ✅
+ch36 the job should be josie's.md: 8/8 ✅
+ch37 if he loved you he wouldn't leave you.md: 8/8 ✅
+ch38 always.md: 8/8 ✅
+ch39 this isn't our happy ending.md: 8/8 ✅
+ch40 my everything.md: 8/8 ✅
+
+⚠️ 全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
 ○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
 
 ○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
@@ -9,6 +54,10 @@
 === 总计 317/317 引文可核实（100%）；完全干净文件 41/41；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
 
 --- verify_overview_quotes ---
+=== lane：完整 lane（epub） ===
+00_情感节点.md: ➖ 无引语行（正常，非门禁项）
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 28/28 ✅
 
 === 总览引文 28/28 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
 
@@ -21,6 +70,144 @@
   C 跨章多重命中：0 ｜ E H1 语义错配：0
 
 --- check_vocab ---
+词条行合计: 2539
+
+--- FAIL (0) ---
+
+--- WARN (136) ---
+  ch01 the blurb.md [基础] 基础档疑含超纲词「romance bookstore」
+  ch01 the blurb.md [基础] 基础档疑含超纲词「cheese croissant」
+  ch02 the green dot.md [基础] 基础档疑含超纲词「bootstraps」
+  ch02 the green dot.md [基础] 基础档疑含超纲词「diverse selection」
+  ch03 books are better than people.md [基础] 基础档疑含超纲词「character」
+  ch03 books are better than people.md [基础] 基础档疑含超纲词「controversial opinion」
+  ch03 books are better than people.md [基础] 基础档疑含超纲词「total misanthrope」
+  ch04 the wound and the war.md [基础] 基础档疑含超纲词「constant tightrope」
+  ch05 a team that feels like family.md [基础] 基础档疑含超纲词「competition」
+  ch05 a team that feels like family.md [基础] 基础档疑含超纲词「additional overhead」
+  ch05 a team that feels like family.md [基础] 基础档疑含超纲词「walking contradiction」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「sommelier」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「indulgent smile」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「sickening crash」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「structural reasons」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「sweet nonagenarian」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「voice hysterical」
+  ch08 knitting and knotting.md [基础] 基础档疑含超纲词「diagnosis」
+  ch08 knitting and knotting.md [基础] 基础档疑含超纲词「quivering shaft」
+  ch08 knitting and knotting.md [基础] 基础档疑含超纲词「sex education」
+  ch08 knitting and knotting.md [基础] 基础档疑含超纲词「speculative stuff」
+  ch09 the literary collective.md [基础] 基础档疑含超纲词「reader equivalent」
+  ch10 bookish never have i ever.md [基础] 基础档疑含超纲词「healthier childhood」
+  ch11 forever seventeen.md [高级] 高级档混入常用词「know-it-all」
+  ch11 forever seventeen.md [基础] 基础档疑含超纲词「premonition」
+  ch12 the wall comes down.md [基础] 基础档疑含超纲词「protective tarps」
+  ch13 make it loud.md [基础] 基础档疑含超纲词「fellow bookseller」
+  ch13 make it loud.md [基础] 基础档疑含超纲词「hot commodity」
+  ch13 make it loud.md [基础] 基础档疑含超纲词「impatient breath」
+  ch13 make it loud.md [基础] 基础档疑含超纲词「protective instincts」
+  ch13 make it loud.md [基础] 基础档疑含超纲词「storybook romance」
+  ch14 the purse book.md [基础] 基础档疑含超纲词「book appreciates」
+  ch14 the purse book.md [基础] 基础档疑含超纲词「booklover」
+  ch14 the purse book.md [基础] 基础档疑含超纲词「living embodiment」
+  ch14 the purse book.md [基础] 基础档疑含超纲词「precarious pile」
+  ch14 the purse book.md [基础] 基础档疑含超纲词「serial monogamist」
+  ch15 the commandments of readers.md [基础] 基础档疑含超纲词「bestselling author」
+  ch15 the commandments of readers.md [基础] 基础档疑含超纲词「coincidence」
+  ch15 the commandments of readers.md [基础] 基础档疑含超纲词「disability」
+  ch16 participation trophy kid.md [高级] 高级档混入常用词「first-place」
+  ch16 participation trophy kid.md [基础] 基础档疑含超纲词「participation trophy」
+  ch17 not a bad guy.md [基础] 基础档疑含超纲词「curiosity」
+  ch17 not a bad guy.md [基础] 基础档疑含超纲词「excellent listener」
+  ch17 not a bad guy.md [基础] 基础档疑含超纲词「positive direction」
+  ch17 not a bad guy.md [基础] 基础档疑含超纲词「racist-ableist-eugenicist asshat」
+  ch17 not a bad guy.md [基础] 基础档疑含超纲词「romance bookstore」
+  ch17 not a bad guy.md [基础] 基础档疑含超纲词「thoughtful bookseller」
+  ch17 not a bad guy.md [基础] 基础档疑含超纲词「wonderful friend」
+  ch18 books are too important to be casualties.md [基础] 基础档疑含超纲词「competition」
+  ch18 books are too important to be casualties.md [基础] 基础档疑含超纲词「construction workers」
+  ch19 the truth is somewhere in the middle.md [基础] 基础档疑含超纲词「coincidence」
+  ch19 the truth is somewhere in the middle.md [基础] 基础档疑含超纲词「invisible barrier」
+  ch19 the truth is somewhere in the middle.md [基础] 基础档疑含超纲词「septuagenarian employee」
+  ch19 the truth is somewhere in the middle.md [基础] 基础档疑含超纲词「thoughtful discussion」
+  ch19 the truth is somewhere in the middle.md [基础] 基础档疑含超纲词「worst experience」
+  ch20 pack a dress you can dance in.md [基础] 基础档疑含超纲词「breakthrough」
+  ch20 pack a dress you can dance in.md [基础] 基础档疑含超纲词「inconvenient attraction」
+  ch20 pack a dress you can dance in.md [基础] 基础档疑含超纲词「insistent whisper」
+  ch20 pack a dress you can dance in.md [基础] 基础档疑含超纲词「invisible weight」
+  ch20 pack a dress you can dance in.md [基础] 基础档疑含超纲词「loving girlfriend」
+  ch20 pack a dress you can dance in.md [基础] 基础档疑含超纲词「overwhelming sensation」
+  ch20 pack a dress you can dance in.md [基础] 基础档疑含超纲词「prior interactions」
+  ch20 pack a dress you can dance in.md [基础] 基础档疑含超纲词「sneaking suspicion」
+  ch21 the only thing in color.md [基础] 基础档疑含超纲词「collective aww」
+  ch21 the only thing in color.md [基础] 基础档疑含超纲词「college sweetheart」
+  ch21 the only thing in color.md [基础] 基础档疑含超纲词「complicated feelings」
+  ch21 the only thing in color.md [基础] 基础档疑含超纲词「hardworking」
+  ch21 the only thing in color.md [基础] 基础档疑含超纲词「surprising bolt」
+  ch21 the only thing in color.md [基础] 基础档疑含超纲词「textbook firstborn」
+  ch21 the only thing in color.md [基础] 基础档疑含超纲词「unexpected vulnerability」
+  ch22 a very nice mouth.md [基础] 基础档疑含超纲词「obligatory dance」
+  ch23 only one bed.md [基础] 基础档疑含超纲词「dictionary entry」
+  ch23 only one bed.md [基础] 基础档疑含超纲词「mirthless laugh」
+  ch23 only one bed.md [基础] 基础档疑含超纲词「oversized cotton」
+  ch23 only one bed.md [基础] 基础档疑含超纲词「shoulders drop」
+  ch24 i miss you so much.md [基础] 基础档疑含超纲词「dozen different」
+  ch24 i miss you so much.md [基础] 基础档疑含超纲词「friendship」
+  ch25 humanizing your enemy.md [基础] 基础档疑含超纲词「bookcases」
+  ch25 humanizing your enemy.md [基础] 基础档疑含超纲词「chaotic hodgepodge」
+  ch25 humanizing your enemy.md [基础] 基础档疑含超纲词「chest constrict」
+  ch25 humanizing your enemy.md [基础] 基础档疑含超纲词「online friendship」
+  ch25 humanizing your enemy.md [基础] 基础档疑含超纲词「psychologist-in-training sister」
+  ch26 someone who isn't me.md [基础] 基础档疑含超纲词「complication」
+  ch26 someone who isn't me.md [基础] 基础档疑含超纲词「current conversation」
+  ch27 you got this.md [基础] 基础档疑含超纲词「fingertips」
+  ch27 you got this.md [基础] 基础档疑含超纲词「bookstore」
+  ch27 you got this.md [基础] 基础档疑含超纲词「college roommates」
+  ch27 you got this.md [基础] 基础档疑含超纲词「cozy atmosphere」
+  ch27 you got this.md [基础] 基础档疑含超纲词「crossbody bag」
+  ch27 you got this.md [基础] 基础档疑含超纲词「indie bookstore」
+  ch27 you got this.md [基础] 基础档疑含超纲词「invitation」
+  ch27 you got this.md [基础] 基础档疑含超纲词「neighborhood」
+  ch28 a happy ending needs to be earned.md [基础] 基础档疑含超纲词「mechanics」
+  ch28 a happy ending needs to be earned.md [基础] 基础档疑含超纲词「romantasy」
+  ch28 a happy ending needs to be earned.md [基础] 基础档疑含超纲词「shoulders relax」
+  ch28 a happy ending needs to be earned.md [基础] 基础档疑含超纲词「thirty-three-hour audiobook」
+  ch29 i never want to read about folds.md [基础] 基础档疑含超纲词「euphemisms」
+  ch29 i never want to read about folds.md [基础] 基础档疑含超纲词「oversized eel」
+  ch29 i never want to read about folds.md [基础] 基础档疑含超纲词「underutilized euphemism」
+  ch30 i don't need to be alone.md [基础] 基础档疑含超纲词「shoulders」
+  ch31 being jealous of yourself.md [高级] 高级档混入常用词「face-to-face」
+  ch31 being jealous of yourself.md [基础] 基础档疑含超纲词「young daughters」
+  ch32 it's an invitation.md [高级] 高级档混入常用词「face-to-face」
+  ch32 it's an invitation.md [基础] 基础档疑含超纲词「invitation」
+  ch32 it's an invitation.md [基础] 基础档疑含超纲词「rejection」
+  ch32 it's an invitation.md [基础] 基础档疑含超纲词「best conversations」
+  ch32 it's an invitation.md [基础] 基础档疑含超纲词「blazing-hot attraction」
+  ch32 it's an invitation.md [基础] 基础档疑含超纲词「deep connection」
+  ch32 it's an invitation.md [基础] 基础档疑含超纲词「headboard」
+  ch32 it's an invitation.md [基础] 基础档疑含超纲词「wonderful online」
+  ch33 dip their toe in the water.md [高级] 高级档混入常用词「one-on-one」
+  ch33 dip their toe in the water.md [基础] 基础档疑含超纲词「attention spans」
+  ch33 dip their toe in the water.md [基础] 基础档疑含超纲词「sickening realization」
+  ch35 hoping for a happy ending.md [基础] 基础档疑含超纲词「character flaw」
+  ch35 hoping for a happy ending.md [基础] 基础档疑含超纲词「competition」
+  ch35 hoping for a happy ending.md [基础] 基础档疑含超纲词「expectation」
+  ch35 hoping for a happy ending.md [基础] 基础档疑含超纲词「friction exquisite」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「comforting squeeze」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「community」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「competition」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「conference」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「contemplative tone」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「customers」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「expression dead」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「tentative smile」
+  ch37 if he loved you he wouldn't leave you.md [基础] 基础档疑含超纲词「crossroads」
+  ch37 if he loved you he wouldn't leave you.md [基础] 基础档疑含超纲词「lungs constrict」
+  ch37 if he loved you he wouldn't leave you.md [基础] 基础档疑含超纲词「pained expression」
+  ch37 if he loved you he wouldn't leave you.md [基础] 基础档疑含超纲词「perfect opportunity」
+  ch37 if he loved you he wouldn't leave you.md [基础] 基础档疑含超纲词「silence stretches」
+  ch38 always.md [基础] 基础档疑含超纲词「emotional mountain」
+  ch38 always.md [基础] 基础档疑含超纲词「guaranteed happy」
+  ch38 always.md [基础] 基础档疑含超纲词「tenderness back」
   ch39 this isn't our happy ending.md [基础] 基础档疑含超纲词「community」
   ch39 this isn't our happy ending.md [基础] 基础档疑含超纲词「expression」
   ch40 my everything.md [基础] 基础档疑含超纲词「assistant manager」
@@ -28,10 +215,11 @@
 --- check_entities ---
 === 实体一致性检测：0 个文件存在未知实体 ===
 
---- corruption_scan ---
-=== 编辑损坏扫描（battle-of-the-bookstores-by-ali-brady）===
-  FAIL 0 处（U+FFFD / 双句号）
-  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+--- check_short_quotes ---
+=== 短引语兜底核对（battle-of-the-bookstores-by-ali-brady）===
+  verify_quotes 跳过（<20 flat 字符）的引语：3 条 —— 这些主门禁**根本没查**
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
 
 --- sweep_full ---
 === 引语整串 flat 比对（battle-of-the-bookstores-by-ali-brady）===
@@ -39,11 +227,44 @@
   ✅ 本章命中 292 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
   （短引语 3 条归 check_short_quotes；无章可对 0 条未判）
 
+--- check_struct_indep ---
+=== 独立结构扫描：40 个 md，缺陷 0 处 ===
+
+--- check_xref_indep ---
+=== chNN 引用 230 处：英文证据报警 0 处 ／ 中文式待人判 153 处 ===
+
+--- check_xref_chapter ---
+=== 分析层跨章指认核对（battle-of-the-bookstores-by-ali-brady）===
+  参照集：text/（42 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
 --- check_analysis_indep ---
-抽出分析层英文片段 544 条
+抽出分析层英文片段 546 条
 ✅ 全部片段在全书 text/ 逐字命中
 
---- check_short_quotes ---
-  verify_quotes 跳过（<20 flat 字符）的引语：3 条 —— 这些主门禁**根本没查**
-  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
-  口径：正文章节按本章核；总览文件（00_*）按全书核
+--- audit_structure ---
+=== 精读结构扫描（battle-of-the-bookstores-by-ali-brady）===
+  扫 43 个 md、320 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+--- corruption_scan ---
+
+=== 编辑损坏扫描（battle-of-the-bookstores-by-ali-brady）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- 自写强制回查 /tmp/btb_xref_sweep.py ---
+回查 33 条 ｜ 目标章命中 24 ｜ 未命中 9
+  ❌ 00_概述.md:39 [19,25,33,35] 「两个人说 technically speaking 的口气一样」 → 全书无
+  ❌ 00_概述.md:47 [31,33,39] 「for the first time… I asked for what I deserve」 → 全书无
+  ❌ 00_概述.md:57 [26,28] 「YA、new adult、adult，contemporary、historical，romantasy——那两支对抗的曲棍球运动员该放哪儿」 → 全书无
+  ❌ 00_概述.md:85 [13,25,35,39] 「for the first time… I asked for what I deserve」 → 全书无
+  ❌ 00_概述.md:89 [02,05,30,39,40] 「Persephone 的宝座」 → 全书无
+  ❌ 00_概述.md:89 [02,05,30,39,40] 「Elaine 的猫」 → 全书无
+  ❌ ch37 if he loved you he wouldn't leave you.md:12 [35] 「happy ending 是否可信」 → 全书无
+  ❌ ch38 always.md:76 [35] 「she’s opening up to me like a flower」 → 他章
+  ❌ ch40 my everything.md:12 [01,34,38] 「enemies to friends to lovers」 → 他章
+
+--- 自写词表例句盲区扫 ---
+词表例句 2539 条 ｜ 非本章连续命中 0 ｜ 前缀疑似截断 0
