@@ -151,4 +151,6 @@ source_text: "text/ch11 11 the not date.txt"
 | smile | 笑 | I fought a smile. |
 | eyes | 眼睛 | If I closed my eyes, shutting myself off from what I could see, I could hear squeals of laughter down by the water. |
 
-## 一句话总结**：本章把「约会」降级成「教学现场」，而她在这堂课上交的作业是自己的六年——她终于把 Jacques 讲成一段照剧本演的戏，随后转身用同一套新学的手法（人物、细节、蒙太奇）为嘉年华里一个陌生的女工写出一整本小说，并被对方以「我相信 Ferris」这句挑刺式的认可收下。
+## 一句话总结
+
+本章把「约会」降级成「教学现场」，而她在这堂课上交的作业是自己的六年——她终于把 Jacques 讲成一段照剧本演的戏，随后转身用同一套新学的手法（人物、细节、蒙太奇）为嘉年华里一个陌生的女工写出一整本小说，并被对方以「我相信 Ferris」这句挑刺式的认可收下。

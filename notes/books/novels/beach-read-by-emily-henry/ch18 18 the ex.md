@@ -181,4 +181,6 @@ source_text: "text/ch18 18 the ex.txt"
 | whole body | 整个身体 | The heat in my face rushed through my whole body, and I focused on his tattoo again, nudging it with my hand. |
 | my dad | 我爸爸 | “But more than that, when I lost my dad … I mean, my dad was a liar, but I loved him. |
 
-## 一句话总结**：本章是全书**秘密交易的转折点**——他先交出一条（Naomi 与被涂黑的纹身），她才交出一条（看着 Jacques 睡觉时她什么都感觉不到），而这场交易在几乎吻成的那一刻被门铃截断，把结算推给下一章。
+## 一句话总结
+
+本章是全书**秘密交易的转折点**——他先交出一条（Naomi 与被涂黑的纹身），她才交出一条（看着 Jacques 睡觉时她什么都感觉不到），而这场交易在几乎吻成的那一刻被门铃截断，把结算推给下一章。

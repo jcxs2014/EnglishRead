@@ -167,4 +167,6 @@ source_text: "text/ch20 20 the basement.txt"
 | my chest hurt | 我的胸口疼 | When would handling something my dad had touched stop making my chest hurt so badly I couldn’t get a good breath? |
 | a single serving of | 一份 | I don’t think I can come to the party as I have recently discovered I cannot afford to bring even a single serving of potato salad. |
 
-## 一句话总结**：本章把「她住进他的房子」这件事实拆成两笔来写——**身体上住进去了（通宵、口味、火花）**，**账面上没有（一份 Potato salad 都买不起）**——而这个落差正是她当天晚上在地下室说「这是赌约」的理由。
+## 一句话总结
+
+本章把「她住进他的房子」这件事实拆成两笔来写——**身体上住进去了（通宵、口味、火花）**，**账面上没有（一份 Potato salad 都买不起）**——而这个落差正是她当天晚上在地下室说「这是赌约」的理由。

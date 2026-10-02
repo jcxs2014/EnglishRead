@@ -147,4 +147,6 @@ source_text: "text/ch26 26 the best friend.txt"
 | arms | 手臂 | She pulled back and gripped my arms, examining me. |
 | body | 身体 | Once, in a bad season of tension headaches, my doctor had told me that pain was our body demanding to be heard. |
 
-## 一句话总结**：这一章把上一夜的崩塌换成了一整个白天的家务——一箱菜、堆成小山的碗、拖到发木的地板，而她真正学到的不是想通了，是**可以不一边想一边活着**。
+## 一句话总结
+
+这一章把上一夜的崩塌换成了一整个白天的家务——一箱菜、堆成小山的碗、拖到发木的地板，而她真正学到的不是想通了，是**可以不一边想一边活着**。

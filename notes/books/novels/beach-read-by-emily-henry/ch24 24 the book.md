@@ -147,4 +147,6 @@ source_text: "text/ch24 24 the book.txt"
 | deep, dark answer | 深而暗的答案 | The deep, dark answer that I’d expected to spring out at me all summer. |
 | my body understood | 我的身体先明白了 | My heart had started racing, like my body understood before my brain could admit it. |
 
-## 一句话总结**：这一章让她在父亲的空房间里把保险箱的期待落空，又在通宵里写出整本书——然后亲手删掉那个写得漂亮却她不信的结尾，改写成「往哪走、花会是什么样子」，也正是这个不肯信的能力，把她带到门口那位手握全部信件的女人面前。
+## 一句话总结
+
+这一章让她在父亲的空房间里把保险箱的期待落空，又在通宵里写出整本书——然后亲手删掉那个写得漂亮却她不信的结尾，改写成「往哪走、花会是什么样子」，也正是这个不肯信的能力，把她带到门口那位手握全部信件的女人面前。

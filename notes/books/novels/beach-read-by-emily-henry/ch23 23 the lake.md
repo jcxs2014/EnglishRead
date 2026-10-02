@@ -147,4 +147,6 @@ source_text: "text/ch23 23 the lake.txt"
 | never got my answers | 始终没得到答案 | And I never got my answers. |
 | table | 桌子 | He touched my knee beneath the table. |
 
-## 一句话总结**：本章把「一夜之后会不会变卦」这个恐惧，用一场跳进冰湖里互相说 I love you 的荒唐夜游回答掉了，而她真正说出的是另一件事——世界不好看也不需要被算清，人不是数学题。
+## 一句话总结
+
+本章把「一夜之后会不会变卦」这个恐惧，用一场跳进冰湖里互相说 I love you 的荒唐夜游回答掉了，而她真正说出的是另一件事——世界不好看也不需要被算清，人不是数学题。

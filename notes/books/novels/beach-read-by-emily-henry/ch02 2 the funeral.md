@@ -201,4 +201,6 @@ source_text: "text/ch02 2 the funeral.txt"
 | go rigid | 身体骤然僵住 | Even silhouetted as he was, I could tell he went rigid. |
 | going taut | （绳子、神经）绷紧 | In the last few weeks of our relationship, Jacques was like one of those snakes that can sense an earthquake, going taut whenever my emotions rose, then deciding we needed something from the bodega and rushing out the door. |
 
-## 一句话总结**：本章把父亲去世从「一件事」升级为「一整套被隐瞒的生活」——葬礼上那把钥匙、旧情人、未拆的信一并交到她手上，而她在深夜对着一个看不清的邻居说出了「我好累」，把真心话说出了口；这既是她的谷底，也是两人关系的第一个真实连接点。
+## 一句话总结
+
+本章把父亲去世从「一件事」升级为「一整套被隐瞒的生活」——葬礼上那把钥匙、旧情人、未拆的信一并交到她手上，而她在深夜对着一个看不清的邻居说出了「我好累」，把真心话说出了口；这既是她的谷底，也是两人关系的第一个真实连接点。

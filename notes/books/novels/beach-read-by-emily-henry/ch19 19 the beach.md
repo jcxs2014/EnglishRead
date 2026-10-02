@@ -180,4 +180,6 @@ source_text: "text/ch19 19 the beach.txt"
 | the answers | 答案 | It was like they had the answers, and everyone seemed so happy, fulfilled. |
 | a beautiful life | 美好的人生 | I thought about Jacques and our determination to have a beautiful life, my desperation to end up with someone Mom had known and loved. |
 
-## 一句话总结**：本章把两位母亲（Julie-Ann 与 January 的母亲）放在同一句话里对读——**「我只需要没事就好，做错事也可以」**，而 January 第一次因此原谅了母亲的沉默，也第一次听见 Gus 用「在乎你」收尾。
+## 一句话总结
+
+本章把两位母亲（Julie-Ann 与 January 的母亲）放在同一句话里对读——**「我只需要没事就好，做错事也可以」**，而 January 第一次因此原谅了母亲的沉默，也第一次听见 Gus 用「在乎你」收尾。

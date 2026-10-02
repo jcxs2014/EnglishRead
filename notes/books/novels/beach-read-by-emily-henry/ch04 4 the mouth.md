@@ -199,4 +199,6 @@ source_text: "text/ch04 4 the mouth.txt"
 | rumpled blue (or faded black) T-shirt | 皱巴巴的蓝（或旧到发黑的）T恤 | He was wearing a rumpled blue (or faded black) T-shirt and rumpled dark blue (or faded black) jeans, |
 | Back atcha! | 回见！ | “Back atcha!” Pete assured me as I retreated through the maze of shelves. |
 
-## 一句话总结## 一句话总结**：本章把「宿敌」这个词从一句背景说明补全成一场当面的、被一个音节点燃的舌战——她用他的句式反击他，他用她的词回敬她，而全章最重的一笔是他靠在书店门口喊的那句「回家见」：他没追上来，只是留在原处说了一句日常话。
+## 一句话总结
+
+本章把「宿敌」这个词从一句背景说明补全成一场当面的、被一个音节点燃的舌战——她用他的句式反击他，他用她的词回敬她，而全章最重的一笔是他靠在书店门口喊的那句「回家见」：他没追上来，只是留在原处说了一句日常话。

@@ -11,8 +11,8 @@ source_text: "text/ch28 28 nine months later.txt"
 - **一句话概括**：九个月后两人的书都出了、都卖掉了、笔名也都弃了，他们在门廊上交换读过的稿子；她读到他那本写陨石撞死主角的小说笑到哭出来，他争辩那也是 happy ending，而末页的献词只有一句「我不在乎故事怎么结束，只要我和你一起度过」。
 - **情感弧线位置**：**收尾与落定**——但本章自己拒绝充当终点（`this day was neither an ending nor a beginning`），所以它把全书开头那句「真相否则全无」的契约，换成了一串「暂时幸福」：`a strand of strung-together happy-for-nows`。
 - **Tropes 兑现/反转**：**「赌注兑现但不判胜负」**（她先卖三周、他的卖得更贵，两人干脆弃用笔名）；**「雨中跳舞」的隔章回声**（本章写成 `Even if there aren’t any snowflakes, we’ll have January all year long.`）；**「末页献词当告白」的言情惯例兑现**；**「从此幸福快乐」被当成终点的套路被明确拒绝**。
-- 人物弧线：January 从开篇那句 `the ugly truth or nothing` 走到 `I knew—or rather believed—I didn’t have to worry about tomorrow.`——**「知道」被当场改成「相信」**；Gus 从不信 happy ending，变成**写出一本自己认作 happy ending 的书**，而那本书的 happy 发生在两个人被美迷住的那一瞬间。
-- 叙事手法：**插叙套插叙**（九个月后的门廊 → 冬天湖面的回忆 → 他小说的情节 → 母亲圣诞夜的通话）→ **结尾三段递进短句**（各自独立成段、不加引号）→ **献词单独成段**，让一句私人告白与全书收尾并排放在同一页。
+- **人物弧线**：January 从开篇那句 `the ugly truth or nothing` 走到 `I knew—or rather believed—I didn’t have to worry about tomorrow.`——**「知道」被当场改成「相信」**；Gus 从不信 happy ending，变成**写出一本自己认作 happy ending 的书**，而那本书的 happy 发生在两个人被美迷住的那一瞬间。
+- **叙事手法**：**插叙套插叙**（九个月后的门廊 → 冬天湖面的回忆 → 他小说的情节 → 母亲圣诞夜的通话）→ **结尾三段递进短句**（各自独立成段、不加引号）→ **献词单独成段**，让一句私人告白与全书收尾并排放在同一页。
 
 ## 精读
 
@@ -147,4 +147,6 @@ source_text: "text/ch28 28 nine months later.txt"
 | book | 书 | He set the open box down, withdrew a copy of the book, and passed it to me. |
 | eyes | 眼睛 | I rolled my eyes. |
 
-## 一句话总结**：这一章把全书的那句「真相否则全无」换成了「一串串起来的暂时幸福」——她说不清自己幸福有几分是知道的、几分只是相信的，而作者把这道更正留在破折号里，就此收尾。
+## 一句话总结
+
+这一章把全书的那句「真相否则全无」换成了「一串串起来的暂时幸福」——她说不清自己幸福有几分是知道的、几分只是相信的，而作者把这道更正留在破折号里，就此收尾。

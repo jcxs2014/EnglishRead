@@ -149,4 +149,6 @@ source_text: "text/ch09 9 the manuscript.txt"
 | father | 父亲 | I didn’t want to sit here in front of my laptop outside this house full of secrets and exorcise my father’s memory from my heart. |
 | life | 生活、人生 | I’d told them about my life, asked them endlessly about theirs so I’d never regret wasting time with them. |
 
-## 一句话总结**：本章让「开始写作」这个动作同时变成承诺与逼供——她本想用一本没人等待的书躲开市场，却在自己的手稿里撞上母亲、父亲与那位情人的相似之处，结尾落到一句她为别人写下、却也是给自己下的判词：也许那份爱根本不存在。
+## 一句话总结
+
+本章让「开始写作」这个动作同时变成承诺与逼供——她本想用一本没人等待的书躲开市场，却在自己的手稿里撞上母亲、父亲与那位情人的相似之处，结尾落到一句她为别人写下、却也是给自己下的判词：也许那份爱根本不存在。

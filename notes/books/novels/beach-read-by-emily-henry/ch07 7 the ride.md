@@ -186,4 +186,6 @@ source_text: "text/ch07 7 the ride.txt"
 | flipped traitorously | 不争气地翻了一下 | Gus’s grin split wide, and even now, my stomach flipped traitorously. |
 | the higher-ups | 上头的人 | “I’ll pass that suggestion along to the higher-ups, but I can’t make any promises,” I said. |
 
-## 一句话总结**：本章让两个不肯承认在乎对方的人共乘一辆车、去一家凌晨档甜甜圈店，用四句「你怎么知道」把互相试探写成一场有来有回的智力游戏，最后她为「女性小说不算小说」发了全书最痛快的一通火——而他一句刻薄话都没说，只是听完。
+## 一句话总结
+
+本章让两个不肯承认在乎对方的人共乘一辆车、去一家凌晨档甜甜圈店，用四句「你怎么知道」把互相试探写成一场有来有回的智力游戏，最后她为「女性小说不算小说」发了全书最痛快的一通火——而他一句刻薄话都没说，只是听完。

@@ -170,4 +170,6 @@ source_text: "text/ch05 5 the labradors.txt"
 | a dollhouse | 一座娃娃屋 | Even in the thunderstorm that had whipped off the lake that Monday evening, her home looked sweet as a dollhouse. |
 | a forced smile | 挤出来的笑 | She forced a smile. “Nice to see you.” |
 
-## 一句话总结**：本章让两个人在同一夜里各自对着一份写不出来的稿子（她在餐桌，他在黑暗的甲板），把她「连烂书都写不出来」的困境推到极限，然后在她终于去赴一场温暖的聚会时，把那个从湖畔房子里走出来的名字，塞进了她的客厅。
+## 一句话总结
+
+本章让两个人在同一夜里各自对着一份写不出来的稿子（她在餐桌，他在黑暗的甲板），把她「连烂书都写不出来」的困境推到极限，然后在她终于去赴一场温暖的聚会时，把那个从湖畔房子里走出来的名字，塞进了她的客厅。

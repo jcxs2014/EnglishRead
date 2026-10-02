@@ -151,4 +151,6 @@ source_text: "text/ch10 10 the interview.txt"
 | laugh | 笑、笑出声 | I suppressed a laugh, then fished a Sharpie out of my backpack, dragged my own notebook toward me, and flipped to a blank page. |
 | air | 空气 | Night had cooled the air, but not much. |
 
-## 一句话总结**：本章把「怎么写一本书」换成「怎么听一个人说话」——Grace 用两句极短的句子交出一个妹妹的死亡，而作者让这堂课的真正内容落在诊断上：他问她的一直是别人想读什么；等她用自己的痛换了真话回来，得到的回答是她自己早就在场。
+## 一句话总结
+
+本章把「怎么写一本书」换成「怎么听一个人说话」——Grace 用两句极短的句子交出一个妹妹的死亡，而作者让这堂课的真正内容落在诊断上：他问她的一直是别人想读什么；等她用自己的痛换了真话回来，得到的回答是她自己早就在场。

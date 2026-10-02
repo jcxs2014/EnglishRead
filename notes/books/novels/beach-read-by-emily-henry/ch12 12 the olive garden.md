@@ -150,4 +150,6 @@ source_text: "text/ch12 12 the olive garden.txt"
 | eyes | 眼睛 | He laughed, rolled his eyes, scooted forward on his bench. |
 | head | 头 | I glanced over to him, slumped back in my passenger seat with one arm folded behind his head. |
 
-## 一句话总结**：本章让两个「向父母要答案」的人在同一辆车里把各自的账摊开，随后她把他整本小说拆成零件重装成一出马戏团家庭的戏；等 Dave 不来、纸伞缺席，他们在桌下握住手又同时把手抽回——感情推进了一格，而两个人都还在用「承诺过却拿不到的东西」来丈量它。
+## 一句话总结
+
+本章让两个「向父母要答案」的人在同一辆车里把各自的账摊开，随后她把他整本小说拆成零件重装成一出马戏团家庭的戏；等 Dave 不来、纸伞缺席，他们在桌下握住手又同时把手抽回——感情推进了一格，而两个人都还在用「承诺过却拿不到的东西」来丈量它。

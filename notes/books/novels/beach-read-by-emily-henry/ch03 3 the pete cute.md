@@ -168,4 +168,6 @@ source_text: "text/ch03 3 the pete cute.txt"
 | lots of booze, always a hoot | 酒管够，气氛总是热络 | “Fantastic. I’ll send you my address. Seven PM, lots of booze, always a hoot.” |
 | the ache | 痛楚 | The ache seared through me, fire-poker sharp and hot. |
 
-## 一句话总结**：本章用一整章的喜剧把谷底情绪托起来，同时让一个热心的书店老板把「被人欢迎」这件事演给她看——而她刚学会接受一点善意，就在自家店里的书堆尽头撞见了那个人的签名，连躲都只能躲到书架后面。
+## 一句话总结
+
+本章用一整章的喜剧把谷底情绪托起来，同时让一个热心的书店老板把「被人欢迎」这件事演给她看——而她刚学会接受一点善意，就在自家店里的书堆尽头撞见了那个人的签名，连躲都只能躲到书架后面。

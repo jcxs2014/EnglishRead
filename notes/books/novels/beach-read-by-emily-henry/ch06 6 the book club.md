@@ -181,4 +181,6 @@ source_text: "text/ch06 6 the book club.txt"
 | Mags | Maggie 的昵称 | “You love everything, Mags.” |
 | a phenomenal writer | 了不起的作家 | “That got to me. It really did. And you know my heart of stone! Doug G. Hanke is just a phenomenal writer.” |
 
-## 一句话总结**：本章把 ch05 那场聚会的余波全部收进一间航海主题的洗手间——她在里面喝掉大半瓶酒、听人用「蓝牙 smooothe」打发掉父亲的情人，然后走回客厅才发现今晚要聊的是一本间谍小说，而作者就坐在她旁边，喝着她带来的酒。
+## 一句话总结
+
+本章把 ch05 那场聚会的余波全部收进一间航海主题的洗手间——她在里面喝掉大半瓶酒、听人用「蓝牙 smooothe」打发掉父亲的情人，然后走回客厅才发现今晚要聊的是一本间谍小说，而作者就坐在她旁边，喝着她带来的酒。

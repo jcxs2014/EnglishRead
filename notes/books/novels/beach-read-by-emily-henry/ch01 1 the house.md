@@ -228,4 +228,6 @@ source_text: "text/ch01 1 the house.txt"
 | holding my breath | 屏住呼吸 | I was simply holding the phone to my ear, holding my breath, holding my racing heart in my chest, as I scanned my father’s second life. |
 | a flush of embarrassment | 一阵尴尬的红晕 | Heat flared through my cheeks, a flush of embarrassment and anger. |
 
-## 一句话总结**：本章用一个元小说式的「致命缺陷」独白开场，把「用美好故事覆盖真相」立成她整套人生的基础，随后在一次搬进父亲爱巢的行动里把它整体拆掉——而拆掉她的不是悲伤本身，是门外那个两小时不肯承认她存在的人。
+## 一句话总结
+
+本章用一个元小说式的「致命缺陷」独白开场，把「用美好故事覆盖真相」立成她整套人生的基础，随后在一次搬进父亲爱巢的行动里把它整体拆掉——而拆掉她的不是悲伤本身，是门外那个两小时不肯承认她存在的人。

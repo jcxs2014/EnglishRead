@@ -35,4 +35,6 @@ source_text: "text/ch13 13 the dream.txt"
 | needing | 需要……的（现在分词作主语补语） | I DREAMED ABOUT GUS Everett and woke up needing a shower. |
 | shower | 淋浴、洗澡 | I DREAMED ABOUT GUS Everett and woke up needing a shower. |
 
-## 一句话总结**：全书最短的一章把「思念」写成「醒来需要洗澡」——梦的内容被整句留白，读者拿到的只有一个身体反应，而这一句之所以成立，是因为前面那么多章已经把那个被省略的对象攒够了分量。
+## 一句话总结
+
+全书最短的一章把「思念」写成「醒来需要洗澡」——梦的内容被整句留白，读者拿到的只有一个身体反应，而这一句之所以成立，是因为前面那么多章已经把那个被省略的对象攒够了分量。

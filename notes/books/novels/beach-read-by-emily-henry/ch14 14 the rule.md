@@ -151,4 +151,6 @@ source_text: "text/ch14 14 the rule.txt"
 | world | 世界 | If you can do that, your world’s going to be a much brighter place from now on. |
 | an adrenaline shot | 一针肾上腺素 | Panic coursed through me so fast I felt like I’d gotten an adrenaline shot in the heart. |
 
-## 一句话总结**：本章用一条规则、一辆开动的列车和一次被打断的吻，把「我们之间发生过什么」与「这算什么」彻底分开——她带着满身热度回家，却只等来一辆不在路边的车，于是把全部的失望改写成一部「反浪漫小说」，而她由此发现：她有能力写出的，正是自己最怕活成的那种故事。
+## 一句话总结
+
+本章用一条规则、一辆开动的列车和一次被打断的吻，把「我们之间发生过什么」与「这算什么」彻底分开——她带着满身热度回家，却只等来一辆不在路边的车，于是把全部的失望改写成一部「反浪漫小说」，而她由此发现：她有能力写出的，正是自己最怕活成的那种故事。

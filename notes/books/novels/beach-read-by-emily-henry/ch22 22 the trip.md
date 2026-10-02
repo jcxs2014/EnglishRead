@@ -207,4 +207,6 @@ source_text: "text/ch22 22 the trip.txt"
 | a headache | 一个头痛 | “Just had a headache,” he said. |
 | the stairs | 楼梯 | The steps were creaky, wooden, and narrow. |
 
-## 一句话总结**：本章把一场暴雨里的徒步写成两个人各自打开自己的清单——她给出一根绳子，他给出一份自白——而全章的落点是一个**不接受理由的回答**：`Then let me be happy with you, Gus.`
+## 一句话总结
+
+本章把一场暴雨里的徒步写成两个人各自打开自己的清单——她给出一根绳子，他给出一份自白——而全章的落点是一个**不接受理由的回答**：`Then let me be happy with you, Gus.`

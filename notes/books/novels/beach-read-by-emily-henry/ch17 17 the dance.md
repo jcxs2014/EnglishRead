@@ -192,4 +192,6 @@ source_text: "text/ch17 17 the dance.txt"
 | the floor | 舞池地面 | The experts swarmed the floor, filling in the gaps between the anxiously waiting beginners, of whom we made up at least 20 percent. |
 | boot-scoot-boogying | 跺着滑步跳 | When I looked over my shoulder, the woman had resumed her boot-scoot-boogying, face as stony as a sarcophagus’s. |
 
-## 一句话总结**：本章把一场本可以只是跳舞的夜晚写成一次**对等谈判**——她要一条可以提问的通道，他交出了自己从未被人选过的证据，而双方都在同一段话里确认了一件事：他不会先开口。
+## 一句话总结
+
+本章把一场本可以只是跳舞的夜晚写成一次**对等谈判**——她要一条可以提问的通道，他交出了自己从未被人选过的证据，而双方都在同一段话里确认了一件事：他不会先开口。

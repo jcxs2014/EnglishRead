@@ -164,4 +164,6 @@ source_text: "text/ch21 21 the cookout.txt"
 | the path | 小路 | “Hey, do you know what kind of stone this path is made of?” I whispered back. |
 | my arm | 我的手臂 | She patted his arm gently. |
 
-## 一句话总结**：本章把「被想要」写到极致（`Before that goddamn frat party.`），又在同一章里用三记闷棍把它收回去，而她能做的只有把结论改成那句最硬也最没指望的：**`it was Gus I wanted. Only Gus. Exactly Gus.`**
+## 一句话总结
+
+本章把「被想要」写到极致（`Before that goddamn frat party.`），又在同一章里用三记闷棍把它收回去，而她能做的只有把结论改成那句最硬也最没指望的：**`it was Gus I wanted. Only Gus. Exactly Gus.`**

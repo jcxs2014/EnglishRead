@@ -206,4 +206,6 @@ source_text: "text/ch16 16 the porch furniture.txt"
 | a bit | 一点点 | Gus “Drinking the Goddamn Literary Kool-Aid” Everett had said the words “just a book,” and for some reason that unraveled me a bit. |
 | the street | 街道 | I perched on the wicker couch and surveyed the houses across the street. |
 
-## 一句话总结**：本章把「写一个好结局」这门手艺推进到书里（写到约四分之一、开了十四个标签页），却又在同一个下午用一个四小时的采访证明它救不了任何人——而 January 同一天拿到两份证据：一份说明他做的事有意义，一份说明他藏着她不知道的过去。
+## 一句话总结
+
+本章把「写一个好结局」这门手艺推进到书里（写到约四分之一、开了十四个标签页），却又在同一个下午用一个四小时的采访证明它救不了任何人——而 January 同一天拿到两份证据：一份说明他做的事有意义，一份说明他藏着她不知道的过去。
