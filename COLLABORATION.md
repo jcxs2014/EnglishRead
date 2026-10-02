@@ -68,12 +68,12 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 体裁：科幻（Imperial Radch 系列第 5 部），三 POV 严格轮转 Enae/Reet/Qven；格式＝精简四子项 + 总览三篇。
 
 - **语料层 P0-0 PASS**：text/ 43 件 == 预期 43（来源：epub spine 51 − 8 非正文）；人物锚点双向 43 组 / 互查 1806 组，锚点为实测导出的本书独占实体，零串章。
-- **门禁 15 项 GATE_EXIT=0**：① verify_quotes **339/339（100%）** 干净 43/43 ② check_vocab **FAIL 0**（WARN 43＝长度≥9 启发式，提示型，已逐条回本章取证）③ entities **0** ④ corruption **0** ⑤ sweep_full 本章 339 / 跨章 0 / 拼接 0 / 查无 0 ⑥ 短引语 6 条兜底全命中 ⑦ 逐章归属 **43/43 零跨章** ⑧ 块覆盖 43 ⑨ 导航层 **❌0** ⑩ 分析层行内英文 **887 条逐字、零命中 0** ⑪⑫⑬ 结构 0 / 凭空造词 0 / 空段 0 ⑭ verify_overview_quotes **45/45（100%）** ⑮ check_overview_full 整串 144、**章节标签 144/144 零不符**、H1 错配 0。
+- **门禁 15 项 GATE_EXIT=0**：① verify_quotes **355/355（100%）** 干净 44/44（总览 1 篇转交 ⑭） ② check_vocab **FAIL 0**（WARN 43＝长度≥9 启发式，提示型，已逐条回本章取证）③ entities **0** ④ corruption **0** ⑤ sweep_full 本章 339 / 跨章 0 / 拼接 0 / 查无 0 ⑥ 短引语兜底命中 4 ⑦ 逐章归属 **43/43 零跨章** ⑧ 块覆盖 43 ⑨ 导航层 **❌0** ⑩ 分析层行内英文 **987 条逐字、零命中 0** ⑪⑫⑬ 结构 0 / 凭空造词 0 / 空段 0 ⑭ verify_overview_quotes **45/45（100%）** ⑮ check_overview_full 整串 144、**章节标签 144/144 零不符**、H1 错配 0。
 - **生产方式**：spec(JSON) + fail-closed 构建器，**md 内零手打英文**——引语/例句/关键词全部由 pick 锚从 `text/` 程序化抽取，落盘前逐条断言。**8c 投毒 5/5 拒收**（伪造分析层英文、pick 取自他章、词头不在本章、关键词跨块、起止相隔 1.2 万字符的拼接）。子代理只产 spec，主会话统一构建并**重跑而非采信自报数字**。
 - **门禁外自查修掉的实质缺陷**：① **引语行格式**——跨段引语原样写入会带裸行，38/43 章中招，六道章节门禁**全绿**（它们只读 `> ` 那一行），但 `gen_overview` 抽 0 条 ⇒ 已折行，单行化 38→0；② **总览模板 51 处标注误写**（chNN} 半角花括号）致拆行器与标签对账双双失效，标签不符 7→0；③ ch13 引语截断 + 残词关键词（凭空造词 1→0）；④ ch12 专名 `TZam`→`Tzam`（**构建器不校验中文层拼写，可穿透全部断言**）；⑤ 中途版本入库 10 章（worker 构建后改 spec，stat mtime 比对抓出）；⑥ 密度对齐配额，8 章由 9/13/14/18/22/26/28/19 块裁至 8。
 - **对账**：md 43 == text 43 零偏移；总览 3 件 + 模板 3 件入库；书目录 `??` 归零。**跨书污染自检 19 个专名对他书精读 md 逐个 `grep -rlE \bNAME\b` ⇒ 全部 0 命中**。
-- 工具入库 `scripts/attic/build_translation_chapter.py`（构建器）· 规范 `scripts/attic/WORKER_BRIEF_TRANSLATION.md`（含「原文干净、别怀疑原文怀疑自己的手」澄清）· 脉络图 `scripts/attic/ARC_TRANSLATION.md`。
-- **未 push**（等用户指令）。逐行门禁输出与缺陷清单见工作日志 `.memory/daily/2026-10-02.md` 本书条目。
+- 构建器/规范/脉络图在本机 `scripts/attic/`（`.gitignore`:132 明确「各实例自用，不入库」）：`build_translation_chapter.py`（spec→md fail-closed，含引语折行修正）· `WORKER_BRIEF_TRANSLATION.md`（worker 规范）· `ARC_TRANSLATION.md`（脉络图）。⚠️ **非入库件，他实例按路径自建即可，勿当库内现成工具**。
+- **未 push**（等用户指令）。缺陷清单与三档定性见工作日志 `.memory/daily/2026-10-02.md` 本书条目；**13 项检测器逐行输出全量留存**见 `.memory/raw-gates/translation-state-by-ann-leckie/2026-10-02-final_gates_after_all_fixes.txt`（105 行，GATE_EXIT=0）。
 
 ### [2026-10-02 08:52 UTC] [Commandcode-Mac] → All
 
