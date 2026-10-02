@@ -104,6 +104,13 @@ metadata:
 
 ## 重要记忆（按时间倒序）
 
+### 2026-10-02 新增
+
+- **Black Is the Body（Emily Bernard）非虚构随笔集**：13 章 + 总览三篇 = **16 md** + text/ 13 件（对账相符）。DSH-Mac 执行，15 commits 未 push（`31239fcd2`…`52b319f74`）。终值：verify_quotes --full **166/166 干净 15/15** · vocab **839 词条 FAIL0 WARN0** · entities 0 · corruption 0 · sweep_full 128/跨章 0 · 短引语 10 · 逐章归属 13×10/10 · 总览 **38/38** · audit_structure 0 · check_anchor 0 · gate.sh **EXIT=0**。
+  - 结构：非虚构论述格式（概览 → 论证结构[核心论点/证据链/论证脉络/可质疑处] → 选择性精读 10 处五子项 → 词汇三档 → 一句话总结）。四条主题＝身体是处境 · 讲述不等于治愈 · 跨种族关系的不对称是常态 · 归家找不到终点。人物弧光六条（作者 / 母亲克拉拉·琼 / 外婆多西 / 曾外婆坦皮妈妈 / 两个女儿 / 父亲）。
+  - **关键教训**：①**证据链表格第一格与第三格必须纯中文**（人名用中文音译 Karen→卡伦 / Loree→洛莉 / Estelle→埃丝黛尔）——`check_vocab` 会把任何「三列、第一格含 `[A-Za-z]{2,}`」的表格当词条形表格报 WARN，本书触发 3 次；②**短语词头必须用原书出现的词形**（`reeling off` / `butted heads`），词典原形（reel off / butt heads）会让 `sweep_analysis_inline` 复现 🟠；③中文计数词（"一个""第一个"）紧邻英文串会被 `audit_numbers` 当计数断言解析 → 删计数词或改"前者/后者"；④释义里禁夹无出处英文（写"巧劲、 inventive 的本领"→ 改纯中文）；⑤**大文件 write 后必须 `wc -c` 实测落盘**——ch09 首写时输出退化，工具回 "Created file" 但文件实际未落盘；⑥非虚构书**不给** `verify_corpus` 传 `--anchors`（小说人物消歧口径，报假红，见 2026-09-15 教训⑩）；⑦`check_overview_labels.py` 报"总览无（chNN）标注引语，跳过 N 行——不是通过"是口径而非缺陷（本书引语为裸 `> "…"` 格式）。
+  - **gate.sh ⑱ `check_block_keywords` 的三条定性（工具口径备忘）**：`is_nonfic` 判据＝文件含 `^## 选择性精读`；配额非虚构 3–10（模板:1144 规定 10 处 ①-⑩）、言情 3–8。`KW_RE = r'^[ \t]*(?:[-*+][ \t]+)?\*\*关键词(?:\*\*：|：\*\*)[ \t]*(.*)$'` ⇒ **写成 `- **关键词**:`（冒号在 `**` 外）会漏计、报"关键词行 N ≠ 引语块 M"**（本书 ch06 真缺陷，改回 `**：` 即配平）。`not only... but also...` 一类**语法术语记法**被报"关键词不在本块引语内"属**假红**（模板:133 禁令 3 明列豁免），与 `sweep_analysis_inline` 全书固定那条 🔶拼接 1 同源。
+
 ### 2026-09-18 新增
 
 - **She's a Doll（Barbara Truelove）死后成长推理长篇**：38 章精读（ch01 Content Warning + ch02–ch38 Chapter 1–37）+ 总览三篇（概述/金句精选25句/情感节点10节点）= **41 md** + text/ 41 件。Opencode-Mac 执行，独立五步审查通过。终值：verify **378/378（100%）** 干净 38/38 · vocab **331 词条 FAIL0 WARN0** · entities **0** · chapter **378/378 本章归属（零跨章）** · 8 条短引语人工 grep 命中。**关键教训**：①死后成长叙事（Posthumous Coming-of-Age）格式=精简格式（导航 5 项 + 四子项 + 三档词汇 + 一句话总结）；②verify_overview_quotes 对 00_*.md 报"未提取到编号引语"属工具盲区，须人工 grep 兜底；③概述/总览层事实错误（遗体描述/DNA归属/虚构引语）是 verify 全绿下的最大盲区，必须逐条回原文 grep 核实。**14 commits 未 push**。
