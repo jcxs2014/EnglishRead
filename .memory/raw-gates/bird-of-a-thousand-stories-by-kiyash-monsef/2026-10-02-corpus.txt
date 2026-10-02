@@ -1,0 +1,209 @@
+=== 语料层验收（P0-0）: bird-of-a-thousand-stories-by-kiyash-monsef ===
+text/ 件数: 40
+  [1] 件数 40 == 预期 40  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 40 组 / 互查 1560 组（共享人物 15 个已豁免）  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (24 句)
+      首| THE BIRD OF A THOUSAND STORIES
+      首| ONCE WAS, ONCE WASN’T.
+      末| Or maybe they did, and chose to keep these details to themselves.
+      末| Sometimes, especially at the start of a journey, it’s best not to know such things.
+    ch02 (129 句)
+      首| Chapter One: The Other Thing My Dad Left Me
+      首| | CHAPTER ONE |  THE OTHER THING MY DAD LEFT ME
+      末| “Now?” I asked.
+      末| He nodded.
+    ch03 (41 句)
+      首| The Great Family and the Tiny Dragon
+      首| THE GREAT FAMILY AND THE TINY DRAGON
+      末| They were wealthy, they possessed an unmatched knowledge of the world’s captive creatures, and t
+      末| And so, an act of hope instead created a dark new legacy: an empty teapot, and empty hearts.
+    ch04 (243 句)
+      首| Chapter Two: Is.
+      首| Tan.
+      末| There was the room, the things in it, the memories they held, and all of it was heavy and still.
+      末| “Tell me about your friend in the courtyard,” I said.
+    ch05 (42 句)
+      首| The Lamb in the Garden
+      首| THE LAMB IN THE GARDEN
+      末| But when he came to the wood, the lamb had died.
+      末| Its roots had soured in this new earth.
+    ch06 (263 句)
+      首| Chapter Three: Foreign Objects
+      首| | CHAPTER THREE |  FOREIGN OBJECTS
+      末| Other than dust motes, nothing moved inside the shop.
+      末| Nothing, that is, until I entered.
+    ch07 (418 句)
+      首| Chapter Four: The Man Who Sold Rugs
+      首| | CHAPTER FOUR |  THE MAN WHO SOLD RUGS
+      末| “Then you will hear it today,” said Amu Reza.
+      末| I settled in to listen, and it was almost like my dad was speaking through him, slipping one las
+    ch08 (60 句)
+      首| THE BIRD OF A THOUSAND STORIES
+      首| AFTER SOME DAYS ON THE ROAD, the orphans of Nishapur came upon a great conference of birds of al
+      末| Then he sighed and seemed to put his sadness to one side, as if to make room for something else.
+      末| “In one of them,” he continued, “she loved me.”
+    ch09 (74 句)
+      首| The Turtledove and the Wind
+      首| THE TURTLEDOVE AND THE WIND
+      末| Then the poor, heartbroken turtledove spread his wings and flew up to a high branch in a differe
+      末| And thus the orphans left him.
+    ch10 (181 句)
+      首| Chapter Five: Nothing Is Simple
+      首| | CHAPTER FIVE |  NOTHING IS SIMPLE
+      末| A pair of chunky headphones was draped around her neck.
+      末| “You have found her,” she said with a smile.
+    ch11 (126 句)
+      首| Chapter Six: The Phalarope
+      首| | CHAPTER SIX |  THE PHALAROPE
+      末| She raised one palm and then closed it, the coolest wave ever, accompanying a mystifying half sm
+      末| Then the glasses were back on and I was forgotten, and she was back in her plane, the best pilot
+    ch12 (414 句)
+      首| Chapter Seven: Shuck
+      首| | CHAPTER SEVEN |  SHUCK
+      末| Another text from Malloryn.
+      末| What if you could be home sooner
+    ch13 (185 句)
+      首| Chapter Eight: Home Sooner
+      首| | CHAPTER EIGHT |  HOME SOONER
+      末| My skin was still crawling.
+      末| Mostly, though, I was very tired.
+    ch14 (390 句)
+      首| Chapter Nine: My Orphans
+      首| | CHAPTER NINE |  MY ORPHANS
+      末| “You seem to have many good friends.”
+      末| Karl.
+    ch15 (67 句)
+      首| Chapter Ten: Other Factors
+      首| | CHAPTER TEN |  OTHER FACTORS
+      末| I sat down opposite him, clasped the mug in both hands, and inhaled cinnamon steam.
+      末| Then Karl began to talk, and I inhaled that, too.
+    ch16 (95 句)
+      首| The Winged Horse of Kashan
+      首| THE WINGED HORSE OF KASHAN
+      末| “Until I know what you’ve taken, and what it means,” he said, “I will do my work.”
+      末| He bowed, walked to the front door, and slipped out, and the silence he left behind vibrated wit
+    ch17 (188 句)
+      首| Chapter Eleven: Out of Wishes
+      首| | CHAPTER ELEVEN |  OUT OF WISHES
+      末| “Not much,” she said.
+      末| “So, do you want to hear this thing?”
+    ch18 (95 句)
+      首| A Fire in the Desert
+      首| A FIRE IN THE DESERT
+      末| I would have nothing to lean on, no wisdom to draw from.
+      末| If I lost my stories, I wouldn’t be anyone.
+    ch19 (415 句)
+      首| Chapter Twelve: A Posy of Alkaloids
+      首| | CHAPTER TWELVE |  A POSY OF ALKALOIDS
+      末| “I think it means,” she said, “go that way.”
+      末| Now my blood was most definitely tingling.
+    ch20 (263 句)
+      首| Chapter Thirteen: All the Water in the World
+      首| | CHAPTER THIRTEEN |  ALL THE WATER IN THE WORLD
+      末| I had felt the weight on my shoulders of all the water in the world.
+      末| The silence inside the Blue Whale was heavier.
+    ch21 (297 句)
+      首| Chapter Fourteen: Hello, and Also Goodbye
+      首| | CHAPTER FOURTEEN |  HELLO, AND ALSO GOODBYE
+      末| He was a chieftain in a cold land.
+      末| But to know his story you must first know about the old name of the bear.”
+    ch22 (48 句)
+      首| The Old Name of the Bear
+      首| THE OLD NAME OF THE BEAR
+      末| Nor did these tales mention a curious habit that the people of the village adopted, of speaking 
+      末| And as for the beast of the woods, the friend in the forest, the eater of honey—it became a mons
+    ch23 (286 句)
+      首| Chapter Fifteen: Things That Need Repair
+      首| | CHAPTER FIFTEEN |  THINGS THAT NEED REPAIR
+      末| Perhaps this one will surprise you yet.”
+      末| Malloryn’s muted words padded down the stairs and lay beneath Amu Reza’s, so that the tale of th
+    ch24 (31 句)
+      首| THE BIRD OF A THOUSAND STORIES
+      首| MANY MORE DAYS THE ORPHANS WALKED, despairing with every step that their quest was hopeless.
+      末| For it was she who had enchanted the bird’s cage, and she who had placed it in the castle, and s
+      末| You see, the witch also desired something from the Bird.
+    ch25 (224 句)
+      首| Chapter Sixteen: Centro
+      首| | CHAPTER SIXTEEN |  CENTRO
+      末| And when I looked at the reflection, I saw the guilt on Amu Reza’s face, and I saw three people 
+      末| “Why,” I said as the world fell around me.
+    ch26 (353 句)
+      首| Chapter Seventeen: We’re Here About the Bird
+      首| | CHAPTER SEVENTEEN |  WE’RE HERE ABOUT THE BIRD
+      末| An unmistakable glow bloomed in Inácio’s eyes—the glow of possibility that comes just before a s
+      末| “I know more than that,” he said.
+    ch27 (58 句)
+      首| The Forest That Returned
+      首| THE FOREST THAT RETURNED
+      末| When I was new here, he told me a tale that was hard to believe.
+      末| Now I will tell it to you, and you can decide for yourselves.
+    ch28 (30 句)
+      首| Boitatá
+      首| BOITATÁ
+      末| It is perhaps not as strong or as bright as the Boitatá that was before.
+      末| But it is growing.
+    ch29 (269 句)
+      首| Chapter Eighteen: Am I Safe
+      首| | CHAPTER EIGHTEEN |  AM I SAFE
+      末| He took my hand, closed it around the jar, and pushed it toward me.
+      末| “Isso é esperança,” he said.
+    ch30 (230 句)
+      首| Chapter Nineteen: Everything’s a Mess
+      首| | CHAPTER NINETEEN |  EVERYTHING’S A MESS
+      末| I’d looked them up while we’d been waiting for one of our planes.
+      末| This is hope.
+    ch31 (218 句)
+      首| Chapter Twenty: A Never-Ending Ellipsis
+      首| | CHAPTER TWENTY |  A NEVER-ENDING ELLIPSIS
+      末| I tried to imagine that I was as brave as her, that I believed in my own power to change things 
+      末| I made a fist, just like her, and raised it up to the sky.
+    ch32 (204 句)
+      首| Chapter Twenty-One: A Princess Trapped in a Castle
+      首| | CHAPTER TWENTY-ONE |  A PRINCESS TRAPPED IN A CASTLE
+      末| “I hate you guys for what you did to Grace’s shop.”
+      末| He shut his mouth and made a face like he had a stomachache, and didn’t say another word the ent
+    ch33 (273 句)
+      首| Chapter Twenty-Two: Sacred Treasures
+      首| | CHAPTER TWENTY-TWO |  SACRED TREASURES
+      末| “I know where the Bird is,” I said.
+      末| “Will you help me save it?”
+    ch34 (43 句)
+      首| THE BIRD OF A THOUSAND STORIES
+      首| THE CASTLE OF COME-AND-NEVER-GO was a lonely and forbidding fortress on the top of a lonely and 
+      末| “We have to find the Bird,” I said.
+      末| “We have to find it now.”
+    ch35 (342 句)
+      首| Chapter Twenty-Three: Behind and Between
+      首| | CHAPTER TWENTY-THREE |  BEHIND AND BETWEEN
+      末| The door was open.
+      末| We crossed the courtyard and went inside, and in all that time in the courtyard nothing moved, n
+    ch36 (588 句)
+      首| Chapter Twenty-Four: The Castle of Come-and-Never-Go
+      首| | CHAPTER TWENTY-FOUR |  THE CASTLE OF COME-AND-NEVER-GO
+      末| It floated past the battlements and into the depths of the forest.
+      末| And the forest roared back.
+    ch37 (413 句)
+      首| Chapter Twenty-Five: The Thing with Feathers
+      首| | CHAPTER TWENTY-FIVE |  THE THING WITH FEATHERS
+      末| “Shall we?
+      末| It’s a bit of a drive, but I’ve just remembered a story that will help pass the time.”
+    ch38 (16 句)
+      首| THE BIRD OF A THOUSAND STORIES
+      首| THE WITCH GREETED THE ORPHANS warmly when they returned with the little Bird.
+      末| As soon as the witch showed her blade, they threw open the door to the hut.
+      末| In streamed birds by the hundreds—the sparrows of Nishapur, the finches of the fields, the turtl
+    ch39 (63 句)
+      首| Chapter Twenty-Six: Horaltic
+      首| | CHAPTER TWENTY-SIX |  HORALTIC
+      末| It had been borrowed from many places and had changed many times.
+      末| I understood now that it was still changing, still growing, like the Bird, like everything else 
+    ch40 (234 句)
+      首| THE BIRD OF A THOUSAND STORIES
+      首| THE ORPHANS SAT AMONG FALLEN Feathers, considering the truths the Bird had given them.
+      末| I felt it everywhere, like it was reaching into the darkest parts of me and burning away all the
+      末| I shut my eyes and opened my arms and my body and my aching heart to the light, to the heat, to 
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
