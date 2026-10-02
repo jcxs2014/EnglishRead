@@ -35,7 +35,7 @@ modified: "2026-10-02"
 - **中文理解**：她想让他对她动一次手。她想知道那是什么滋味。
 - **关键词**：violent with her / just once / what it’s like
 - **为什么这样写**：just once 是全句的支点，把一辈子压缩成一次试用。She wants 重复两次，第二次才补上目的，让这句请求从索取变成乞求。第二句极短，像是自己也知道这要求说不出口。
-- **读者视角提示**：这两句都写在 Jacob 进病房之前——她还没听见他说什么，就已经替他把最坏的一面准备好了。
+- **读者视角提示**：这两句都写在 Jacob 进病房、开口之后——她还没听见他说什么，就已经替他把最坏的一面准备好了。
 
 > **原句 4:** "But of course, he would never hurt her. He adores her. He needs her."
 

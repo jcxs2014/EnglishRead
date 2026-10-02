@@ -1,0 +1,173 @@
+=== The Whispers 五步审查 a–e 原始输出 2026-10-02（审查方 Qoder-Mac，同会话执行）===
+
+##### a 步：第 3 条提交门禁全量重跑 #####
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 421/421 引文可核实（100%）；完全干净文件 68/68；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+=== 总计 421/421 引文可核实（100%）；完全干净文件 68/68；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+词条行合计: 1403
+--- FAIL (0) ---
+--- WARN (58) ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+  FAIL 0 处（U+FFFD / 双句号）
+  ✅ 本章命中 398 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+##### b 步：逐章归属 67/67 + 短引语 #####
+ch01-ch67 逐一 check_chapter_quotes：67/67 全部 in 本章 text（异常 0 章）
+  ✅ 命中 5 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+
+##### c 步：结构（规定实现 + 第二实现 + 逐块自验 + 投毒）#####
+  🔀 ch65 he hands back the rings.md  H1「第 63」↔ 文件名 ch65 不一致
+=== 独立结构扫描：67 个 md，缺陷 0 处 ===
+=== 逐块四子项齐全（不看多数派）: 缺项 0 ===
+=== 逐块子项顺序: 异常 0 ===
+=== 跨章引用回查（纪律 2 的回查动作）: 抽 0 条，不符 0 ===
+投毒测试：check_struct_indep 抓到编号跳号/重复 2 条；audit_structure 同一样本报 0；两者均漏「删一个中文理解子项」=> 子项齐全改用逐块判据
+
+##### d 步：语义二审 #####
+抽出分析层英文片段 618 条
+✅ 全部片段在全书 text/ 逐字命中
+=== chNN 引用 182 处：英文证据报警 0 处 ／ 中文式待人判 47 处 ===
+跨章引用人工回查 6 处（ch03→Ch1 / ch04→Ch6 / ch29→Ch22 / ch46→Ch9 / ch46→Ch45 / ch66→Ch63）：6/6 成立
+子代理 9 组逐块人判：报出 88 阻断型 + 约 60 提示型；我回源复核并整改 57 处、驳回 1 处假红
+
+##### e 步：总览层事实核对 #####
+
+=== 总览引文 53/53 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+  A 整串：命中 148 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 148 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+不许断言扫描（Xavier 死 / Ben·Jacob 合并 / ch64 怀孕结局 / Albert 死因 / W 邮件发件人）：0 处
+
+##### 整改后终验 gate.sh #####
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 421/421 引文可核实（100%）；完全干净文件 68/68；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 1403
+--- FAIL (0) ---
+--- WARN (58) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 398 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 5 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 he waits for the call.md                  ch01 he waits for the call.md: 6/6 in ch01 text
+ch02 whitney screams at xavier.md              ch02 whitney screams at xavier.md: 6/6 in ch02 text
+ch03 blair finds the foil wrapper.md           ch03 blair finds the foil wrapper.md: 6/6 in ch03 text
+ch04 xavier is brought in unconscious.md       ch04 xavier is brought in unconscious.md: 6/6 in ch04 text
+ch05 bleach on the bathroom tiles.md           ch05 bleach on the bathroom tiles.md: 6/6 in ch05 text
+ch06 mara sits on her porch.md                 ch06 mara sits on her porch.md: 6/6 in ch06 text
+ch07 whitney traces xaviers name.md            ch07 whitney traces xaviers name.md: 6/6 in ch07 text
+ch08 the girl in room 3.md                     ch08 the girl in room 3.md: 6/6 in ch08 text
+ch09 aiden drops by itsy bitsy.md              ch09 aiden drops by itsy bitsy.md: 6/6 in ch09 text
+ch10 marcus only speaks in whispers.md         ch10 marcus only speaks in whispers.md: 5/5 in ch10 text（另有 1 条短引语未校验）
+ch11 blair searches whitneys drawers.md        ch11 blair searches whitneys drawers.md: 6/6 in ch11 text
+ch12 whitney counts the days aloud.md          ch12 whitney counts the days aloud.md: 6/6 in ch12 text
+ch13 blair finds aiden keychain.md             ch13 blair finds aiden keychain.md: 6/6 in ch13 text
+ch14 rebecca checks the empty room.md          ch14 rebecca checks the empty room.md: 6/6 in ch14 text
+ch15 whitney practices her victory.md          ch15 whitney practices her victory.md: 6/6 in ch15 text
+ch16 she lies about the pregnancy.md           ch16 she lies about the pregnancy.md: 5/5 in ch16 text（另有 1 条短引语未校验）
+ch17 she gnaws his fingernail.md               ch17 she gnaws his fingernail.md: 6/6 in ch17 text
+ch18 she screams at xavi.md                    ch18 she screams at xavi.md: 6/6 in ch18 text
+ch19 ben says stop trying.md                   ch19 ben says stop trying.md: 6/6 in ch19 text
+ch20 blair remembers the open window.md        ch20 blair remembers the open window.md: 6/6 in ch20 text
+ch21 whitney collapses on the sidewalk.md      ch21 whitney collapses on the sidewalk.md: 6/6 in ch21 text
+ch22 whitney asks blair to leave.md            ch22 whitney asks blair to leave.md: 6/6 in ch22 text
+ch23 whitney plans a private school.md         ch23 whitney plans a private school.md: 6/6 in ch23 text
+ch24 albert dies in the kitchen.md             ch24 albert dies in the kitchen.md: 5/5 in ch24 text（另有 1 条短引语未校验）
+ch25 testing the limits of gravity.md          ch25 testing the limits of gravity.md: 6/6 in ch25 text
+ch26 blair serves a ruined dinner.md           ch26 blair serves a ruined dinner.md: 6/6 in ch26 text
+ch27 rebecca recalls her miscarriages.md       ch27 rebecca recalls her miscarriages.md: 6/6 in ch27 text
+ch28 rebecca tells them about mara.md          ch28 rebecca tells them about mara.md: 5/5 in ch28 text（另有 1 条短引语未校验）
+ch29 the flight that never happened.md         ch29 the flight that never happened.md: 6/6 in ch29 text
+ch30 fruit bowl across the kitchen.md          ch30 fruit bowl across the kitchen.md: 6/6 in ch30 text
+ch31 the good woman.md                         ch31 the good woman.md: 6/6 in ch31 text
+ch32 she begs him to hurt her.md               ch32 she begs him to hurt her.md: 6/6 in ch32 text
+ch33 the zero in the box.md                    ch33 the zero in the box.md: 6/6 in ch33 text
+ch34 the tiny baseball glove.md                ch34 the tiny baseball glove.md: 6/6 in ch34 text
+ch35 trespassing in the backyard.md            ch35 trespassing in the backyard.md: 6/6 in ch35 text
+ch36 the proposition of the drink.md           ch36 the proposition of the drink.md: 6/6 in ch36 text
+ch37 blair shows him the key.md                ch37 blair shows him the key.md: 6/6 in ch37 text
+ch38 the empty room is waiting.md              ch38 the empty room is waiting.md: 6/6 in ch38 text
+ch39 the shower curtain closes.md              ch39 the shower curtain closes.md: 6/6 in ch39 text
+ch40 blair asks chloe about whitney.md         ch40 blair asks chloe about whitney.md: 6/6 in ch40 text
+ch41 whitney snatches the phone.md             ch41 whitney snatches the phone.md: 6/6 in ch41 text
+ch42 rebecca drives to her mother.md           ch42 rebecca drives to her mother.md: 6/6 in ch42 text
+ch43 whitney pinches the tube.md               ch43 whitney pinches the tube.md: 6/6 in ch43 text
+ch44 she drives home bleeding.md               ch44 she drives home bleeding.md: 6/6 in ch44 text
+ch45 she holds her breath.md                   ch45 she holds her breath.md: 6/6 in ch45 text
+ch46 she keeps her wedding rings.md            ch46 she keeps her wedding rings.md: 6/6 in ch46 text
+ch47 the nurse washing her son.md              ch47 the nurse washing her son.md: 6/6 in ch47 text
+ch48 pretending it never happened.md           ch48 pretending it never happened.md: 6/6 in ch48 text
+ch49 she needs a different theory.md           ch49 she needs a different theory.md: 6/6 in ch49 text
+ch50 she would fold one more thing.md          ch50 she would fold one more thing.md: 6/6 in ch50 text
+ch51 blair shows the key.md                    ch51 blair shows the key.md: 6/6 in ch51 text
+ch52 rebecca reads the email.md                ch52 rebecca reads the email.md: 6/6 in ch52 text
+ch53 she leaves the hospital.md                ch53 she leaves the hospital.md: 6/6 in ch53 text
+ch54 blair views an empty apartment.md         ch54 blair views an empty apartment.md: 6/6 in ch54 text
+ch55 the powder room apology.md                ch55 the powder room apology.md: 6/6 in ch55 text
+ch56 mara points to her shoes.md               ch56 mara points to her shoes.md: 6/6 in ch56 text
+ch57 blair walks up jacobs driveway.md         ch57 blair walks up jacobs driveway.md: 6/6 in ch57 text
+ch58 his hand slides to her neck.md            ch58 his hand slides to her neck.md: 6/6 in ch58 text
+ch59 she bought two airplane tickets.md        ch59 she bought two airplane tickets.md: 6/6 in ch59 text
+ch60 rebecca lies to leo.md                    ch60 rebecca lies to leo.md: 6/6 in ch60 text
+ch61 blair finds what xavier wrote.md          ch61 blair finds what xavier wrote.md: 6/6 in ch61 text
+ch62 mara collects the paper planes.md         ch62 mara collects the paper planes.md: 6/6 in ch62 text
+ch63 the woman returns a key.md                ch63 the woman returns a key.md: 6/6 in ch63 text
+ch64 the growl of strength.md                  ch64 the growl of strength.md: 6/6 in ch64 text
+ch65 he hands back the rings.md                ch65 he hands back the rings.md: 6/6 in ch65 text
+ch66 she covers up his words.md                ch66 she covers up his words.md: 6/6 in ch66 text
+ch67 he will tell them everything.md           ch67 he will tell them everything.md: 6/6 in ch67 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：67 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（the-whispers-by-ashley-audrain）===
+  ✅ 逐字 1801 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 11
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 63
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 29/29 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 53/53 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  ⚠️ 00_概述.md:90  同一句在 2 章出现（ch61,ch66），章节标注有歧义：I DON’T WANT TO BE YOUR SON ANYMORE
+GATE_EXIT=0

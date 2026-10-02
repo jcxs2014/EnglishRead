@@ -49,7 +49,7 @@ modified: "2026-10-02"
 - **中文理解**：「你的孩子？」Mara 问。她抿着嘴唇，等 Rebecca 点头确认。是 Mara 说那三个字的方式——your baby——在确认她肚子里那样东西确实存在。
 - **关键词**：Your baby / waiting for Rebecca to confirm / The validation of what is inside her
 - **为什么这样写**：同一句台词被说一遍、又被叙述复述一遍，第二次不再带引号，于是重心从字面挪到语气上：validation 指的不是医学确认，是有人肯把这件事当成一件真的事来说。Mara 抿唇的动作说明她自己也知道，这个确认对 Rebecca 意味着什么。
-- **读者视角提示**：这一节里 Mara 后面还说了一句 Your husband isn’t home——同一个 Mara，作者先给她一句安慰、再给她一个坏消息，两句在她嘴里是同一种温度。
+- **读者视角提示**：这一节里 Mara 后面还说了一句 Your husband isn’t home——同一个 Mara，作者先给她一句安慰、再给她一个坏消息，两句在她嘴里是两种温度——第二句是苦的。
 
 > **原句 6:** "And then she sits on the toilet and stares between her legs and watches the thin stream of crimson curl through the water like smoke."
 

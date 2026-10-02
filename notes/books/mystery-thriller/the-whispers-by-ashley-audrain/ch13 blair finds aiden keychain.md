@@ -44,7 +44,6 @@ modified: "2026-10-02"
 - **为什么这样写**：前后两句同构，只换了一个介词短语；seemed 出现两次，把「她读到的」和「事实」之间的距离留在原地。她能记住的是他的停顿，不是他的意思。
 - **读者视角提示**：她自己也承认 She didn’t want to analyze his reaction, the pace of his breathing, his pause, but she had.——她选择了分析，只是不承认自己在分析。
 
-Hmm — "his pause" — the text says "his pause" ("the pace of his breathing, his pause"). Let me re-check: "She didn’t want to analyze his reaction, the pace of his breathing, his pause, but she had." Yes "his pause". Let me fix my line: "She didn’t want to analyze his reaction, the pace of his breathing, his pause, but she had."
 
 > **原句 5:** "I’m sorry, Blair, you . . . you were just over there, you looked like you knew."
 

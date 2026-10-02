@@ -41,7 +41,7 @@ modified: "2026-10-02"
 
 - **中文理解**：而这就是她一幻想分开就会发生的事——她每次都翻了回去。翻回那种被削小了的生活里的安稳。
 - **关键词**：fantasizes about a separation / she always flips back / living diminished
-- **为什么这样写**：分号后面半句先给结论再给结果，`flips back` 用的是翻过去这个手势，把「每次都退回去」写成一次不加思索的动作；`To the security of living diminished.` 独立成段，把退回去的好处说成一种安稳。
+- **为什么这样写**：分号后面半句先给结论再给结果，`flips back` 用的是翻过去这个手势，把「每次都退回去」写成一次不加思索的动作；`To the security of living diminished.` 单独成句，是这一段的最后一句，把退回去的好处说成一种安稳。
 - **读者视角提示**：紧挨在前面的是 `She is exhilarated and liberated`，两种情绪在同一个人身上先后出现，作者不去裁决哪一个更真。
 
 > **原句 5:** "And then her mother says she has to go. Blair knows she can’t think of anything else innocuous to fill the conversation with. Neither of them mentions her father."

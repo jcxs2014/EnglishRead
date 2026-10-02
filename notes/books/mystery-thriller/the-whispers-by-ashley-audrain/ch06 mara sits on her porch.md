@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 - **中文理解**：起初他们对她都挺好的，尽管彼此的差别明摆着。他们似乎挺关心她在这儿住了多久，还会说「哦，你一定看过这一带这些年变了不少吧」，说得像那是件多好的事。没人承认那些变化本身就是问题所在。
 - **关键词**：kind at first / despite their obvious differences / No acknowledgment
-- **为什么这样写**：那段客套话用 and 直接接进叙述，不给引号，于是听起来像 Mara 多年后还能原样复述的句子。despite their obvious differences 里的 despite 先让步、and then No acknowledgment 收尾：她要的不是不礼貌，是有人听懂。
+- **为什么这样写**：那段客套话用 and 直接接进叙述，不给引号，于是听起来像 Mara 多年后还能原样复述的句子。despite their obvious differences 里的 despite 先让步、再用 No acknowledgment that the change was exactly the problem 收尾：她要的不是不礼貌，是有人听懂。
 - **读者视角提示**：本章没有交代 Mara 搬来多久、也没有交代她从哪里来；这段只写别人问过什么、没问过什么。
 
 > **原句 3:** "The remnants of a community painstakingly built by an entire generation of her people were now just eyesores in their neighborhood."

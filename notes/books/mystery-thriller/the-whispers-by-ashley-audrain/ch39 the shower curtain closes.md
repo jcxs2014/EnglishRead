@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 - **中文理解**：她说不上来正面问过丈夫到底算什么意思。像是把一只凶猛的耗子从笼子里放了出来——虽然那东西已经不在她手里抖了，可它还活在什么地方。它还会回来。
 - **关键词**：freed a vicious rodent from a cage / it’s still alive somewhere / It will come back
-- **为什么这样写**：这是本节唯一一次她给自己刚做完的事命名，而命名用的是放生，不是拆弹。although 让「不在手里」和「还活着」同时成立，It will come back 另起一段，把刚放走的危险整个交给未来。
+- **为什么这样写**：这是本节唯一一次她给自己刚做完的事命名，而命名用的是放生，不是拆弹。although 让「不在手里」和「还活着」同时成立，It will come back 与前一句同段，把刚放走的危险整个交给未来。
 - **读者视角提示**：紧接着的 She needs everything explained 当场拆她的台——东西放走了，她就再没法假装这事已经结束。
 
 > **原句 3:** "But as she jogs down, she feels Chloe pause at the top of the stairs, watching her."
@@ -40,7 +40,7 @@ modified: "2026-10-02"
 > **原句 4:** "There are physical parts of him that feel almost like physical parts of her, and while she can’t find the attraction for him that she used to have, while she doesn’t even like him most days, she feels possessive of him."
 
 - **中文理解**：他身上有些部位几乎就像她自己的部位；她已经找不到从前对他的吸引力，多数日子里甚至不喜欢他，可她仍然对他有占有欲。
-- **关键词**：physical parts of him feel almost like physical parts of her / she doesn’t even like him / she feels possessive of him
+- **关键词**：physical parts of him that feel almost like physical parts of her / she doesn’t even like him / she feels possessive of him
 - **为什么这样写**：一个 while 又一个 while，把「不喜欢」夹在中间，占有欲只好从不肯承认的缝隙里长出来。physical 重复两次，把一段婚姻写成一具共享的身体。
 - **读者视角提示**：紧跟的那句 jawline she can trace in her sleep 说明她已经熟悉到能在睡梦里摸出他的下颌线；这种熟悉不是爱，是多年养出来的。
 

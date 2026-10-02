@@ -12,7 +12,7 @@ modified: "2026-10-02"
 - **视角**：本章是**双视角**。中段一排圆点之前是第三人称限知、POV 是 Whitney（她自己说 Whitney wants Blair gone、this pretending makes Whitney feel foolish）；圆点之后切到 Blair（Blair thinks to herself、Blair is following her family out of the kitchen）。text/ 第 6 行的 September 是月份，不是人名。
 - **情感弧线位置**：回落。聚会的喧闹已经结束，两个人留在厨房里为一件事收尾：谁都不肯先把它说出来。
 - **人物弧线**：Whitney 从「对外一律说没事」走到主动挑起话题、又在她真要开口时被人打断；Blair 从替她打圆场走到当面拒绝替她把话说圆，再走到抢先结束谈话——她决定不听了，于是回家把那条短裤扔了。
-- **叙事手法**：一章两段视角，用一排圆点硬切；切点选在吵架最热的那句之后，让读者和两个人同时换脑子。前半段靠孩子的胡话当节拍器（棋步数、纸飞机秒数都带 Or maybe），后半段全部是短来快去的对白，没有一句超过两行；结尾交给一个动作，不给评论。
+- **叙事手法**：一章两段视角，用一排圆点硬切；切点选在吵架最热的那句之后，让读者和两个人同时换脑子。前半段靠孩子的胡话当节拍器（只有棋步数那句带 Or maybe），后半段全部是短来快去的对白，没有一句超过两行；结尾交给一个动作，不给评论。
 
 ## 精读
 
@@ -21,7 +21,7 @@ modified: "2026-10-02"
 - **中文理解**：「你知道有史以来最长的一盘国际象棋走了多少步吗？269 步？或者也可能是 629。」他这句是对 Blair 说的，但下次开口前先看了 Whitney 一眼。
 - **关键词**：the longest ever game of chess / Or maybe it was 629 / he looks at Whitney
 - **为什么这样写**：孩子报数报错，作者故意留着 Or maybe 让这个数字悬在半空；这一整段里他没有一次真的在看 Blair，He tells this to Blair 把话说给谁、he looks at Whitney 把眼睛给谁，拆成两句，读者自己会算出中间那点差。
-- **读者视角提示**：这些数字是他留在别人家的理由——Blair 一句「太晚了」他就不说了，所以他还在说的时候，这一段就还散不掉。
+- **读者视角提示**：这些数字是他留在别人家的理由——Blair 说了「太晚了」之后他还在说，而她自己也主动约了下一次——这一段就还散不掉。
 
 > **原句 2:** "He nods, puts his fingers into the icing on the mini cupcakes and licks them. He’s not usually this chatty. Whitney watches in silence. Whitney wants Blair gone."
 

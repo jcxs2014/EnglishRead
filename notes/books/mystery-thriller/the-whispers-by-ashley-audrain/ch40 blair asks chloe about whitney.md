@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：Blair 先去问 Mara 听没听到，Mara 答一句 I did，眼睛却跟着落到 Loverly 家的车道上——车在，窗帘拉着，房子没动静。路上她直接问 Chloe 有没有见过 Whitney 真的对 Xavi 发火，Chloe 说只有后院那次和送饼干那次。药店里她掏出口袋里那截撕下的锡纸，一盒一盒找同款，最后只找到 plum 色，把那一排和撕口比重量、比尺寸。结账前 Chloe 哭着交代：周三课间她对 Xavi 说过很难听的话，Nobody would care if he died，he should just disappear。Blair 站在礼品架前，脑子里只剩 Xavier 一个人趴在窗边，也不盼着自己死。
+- **一句话概括**：Blair 先去问 Mara 听没听到，Mara 答一句 I did，眼睛却跟着落到 Loverly 家的车道上——车在，窗帘拉着，房子没动静。路上她直接问 Chloe 有没有见过 Whitney 真的对 Xavi 发火，Chloe 说只有后院那次和送饼干那次。药店里她掏出口袋里那截撕下的锡纸，一盒一盒找同款，最后只找到 plum 色，把那一排和撕口比重量、比尺寸。结账前 Chloe 哭着交代：周三课间她对 Xavi 说过很难听的话，Nobody would care if he died，he should just disappear。Blair 站在礼品架前，脑子里只剩 Xavier 一个人趴在窗边，也不在乎自己死不死。
 - **书内章号**：Chapter 38
 - **视角**：第三人称限知，POV 是 Blair
 - **情感弧线位置**：低谷。她一路替女儿遮风，最后却是女儿把周三的话原样交回来，她这才看见那个趴在窗边的孩子可能并不想活。

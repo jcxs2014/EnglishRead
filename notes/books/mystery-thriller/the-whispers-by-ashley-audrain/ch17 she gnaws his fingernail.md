@@ -42,7 +42,7 @@ modified: "2026-10-02"
 - **中文理解**：她其实并不喜欢玩。事实上，她讨厌玩。玩里没有产出。她讨厌装满玩具的塑料箱，讨厌坐在地板上。
 - **关键词**：she hates to / no productivity in play / hates sitting on the floor
 - **为什么这样写**：先用 doesn’t really 留半步，再自己把半步收掉换成 hates to；接着给理由 There is no productivity in play，把「讨厌」铺成一套价值观。后面连着几个 hates 同头重复，像在清点自己缺哪一项。
-- **读者视角提示**：这一段是她给自己下的判词，而判词用的是工作语言——一个儿科医生衡量一切的方式就是有没有用。
+- **读者视角提示**：这一段是她给自己下的判词，而判词用的是工作语言——一个常年替人收拾残局的人衡量一切的方式就是有没有用。
 
 > **原句 5:** "There is no color assigned to him or the twins. There is no color assigned to Play."
 

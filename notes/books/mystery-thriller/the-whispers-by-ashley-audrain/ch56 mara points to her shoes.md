@@ -48,7 +48,7 @@ modified: "2026-10-02"
 
 - **中文理解**：「这种时候你不需要听我的事。我只想告诉你：不管现在有多糟，你总会找到继续走下去的力气，用你没想到的方式。会有什么东西就落在你找得到的地方，正当你需要它的时候，」她说着，朝门廊最下面那级台阶上自己那双旧拖鞋比了比。「但是，你得等。耐心点。」
 - **关键词**：you’ll find the resolve to keep going / Something’ll land right there for you to find / you have to wait. Be patient
-- **为什么这样写**：她给的与其说是安慰不如说是一条路线图：`just when you need it` 把时机压到最后一刻，再用 `gesturing to her worn slip-on shoes` 把「会落到你身上的东西」指给一双磨旧的鞋；末尾两个逗号把 `But, you have to wait.` 切得生硬，像提醒，不像请求。
+- **为什么这样写**：她给的与其说是安慰不如说是一条路线图：`just when you need it` 把时机压到最后一刻，再用 `gesturing to her worn slip-on shoes` 把「会落到你身上的东西」指给一双磨旧的鞋；末尾那个孤零零的逗号把 `But, you have to wait.` 切得生硬，像提醒，不像请求。
 - **读者视角提示**：这双鞋是本章唯一被指给 Rebecca 看的东西，作者不作任何解释，紧接着就写 Mara 起身下楼。
 
 > **原句 6:** "She tries to find one last breath in the space between doubt and certainty, but the sourness fills her mouth, and she gives in."

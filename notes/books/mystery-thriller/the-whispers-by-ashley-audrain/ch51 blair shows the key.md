@@ -28,7 +28,7 @@ modified: "2026-10-02"
 - **中文理解**：「Chloe 不是故意的，」她压低声音说。「她很抱歉。」
 - **关键词**：didn’t mean it / whispers / so sorry
 - **为什么这样写**：这半句话是对昏迷的 Xavier 说的，用 whispers 而不是 said，因为 Whitney 正坐在同一把椅子上；作者让读者同时看到她一边安慰儿子、一边背着儿子的母亲。
-- **读者视角提示**：紧跟其后的是 `But somewhere along the line, Blair has failed.`——被安慰的是孩子，认错的却是她自己。
+- **读者视角提示**：就在这句之前的是 `But somewhere along the line, Blair has failed.`——被安慰的是孩子，认错的却是她自己。
 
 > **原句 3:** "Have I done something wrong?” Blair asks. Her voice shakes. “Or is this about Chloe?”"
 
@@ -49,7 +49,7 @@ modified: "2026-10-02"
 - **中文理解**：那把从 Whitney 抽屉里翻出来的钥匙正在她外套口袋里——像一颗拔了销的手雷。
 - **关键词**：Whitney’s drawer / coat pocket / A grenade with the pin pulled
 - **为什么这样写**：先交代物理位置（抽屉→外套口袋），再补一个军事比喻，把一颗拔了销的手雷放到 Whitney 床边；威胁的量级由比喻一次抬到顶，而她手里握着的仍然只是一把钥匙。
-- **读者视角提示**：她还没开口问，Whitney 的脸已经先转向 Aiden 的钥匙扣——`The initials.`
+- **读者视角提示**：她问出口之后，Whitney 的视线才转向 Aiden 的钥匙扣——`The initials.`
 
 > **原句 6:** "Whitney looks up. “I could ask you the same thing."
 

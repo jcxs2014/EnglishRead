@@ -28,7 +28,7 @@ modified: "2026-10-02"
 - **中文理解**：「真是对不起，Whitney。我本来可以免了这份尴尬转身出去的，可你看起来……你没事吧？」
 - **关键词**：saved myself the embarrassment / but you looked . . . / are you good?
 - **为什么这样写**：省略号处是他自己掐断的话——他本来要说「你看起来不太对」，临时改成「你没事吧」；作者把那段没说出口的话留白，让 Whitney（和读者）自己去补。
-- **读者视角提示**：这是他唯一一次开口道歉，紧接着她在心里就切成应答模式——`Of course she is good, of course she is great`，两个反问都不需要答案。
+- **读者视角提示**：这是他第二次也是最后一次为这件事道歉，紧接着她在心里就切成应答模式——`Of course she is good, of course she is great`，两个反问都不需要答案。
 
 > **原句 3:** "What happened earlier isn’t a big deal, really,” he says. “The magician’s rabbit got a little wild right at the same time, so. You weren’t the only show in town."
 

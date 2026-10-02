@@ -12,7 +12,7 @@ modified: "2026-10-02"
 - **视角**：第三人称限知，POV 是 Whitney；Louisa 和 twins（Thea、Sebastian）只在她转述里出现，没有直接进场的镜头。
 - **情感弧线位置**：回落。坠落之后的两周已经过去，恐惧没有消失却从身体搬到了别人脸上；本章收在一句还没落地的承诺上。
 - **人物弧线**：她终于拿到了她想要的东西——孩子醒着、愿意跟她说话——并用它换成了保密；本节把「做母亲」和「藏真相」压进同一个动作里。
-- **叙事手法**：用医院日常的白噪音垫底（fold the sheet、order Xavier’s breakfast、flip the sign on the door to privacy），把场景写成两个人互相猜；靠 whiteboard 上医生要记的三项（tremors、stutters、confusion）提示他脑部受损；末句单独成段，把整节从「母亲索取」翻成「孩子提问」。
+- **叙事手法**：用医院日常的白噪音垫底（fold the sheet、order Xavier’s breakfast、flips the sign on the door to privacy），把场景写成两个人互相猜；靠 whiteboard 上医生要记的三项（tremors、stutters、confusion）提示他脑部受损；末句单独成段，把整节从「母亲索取」翻成「孩子提问」。
 
 ## 精读
 
@@ -55,7 +55,7 @@ modified: "2026-10-02"
 
 - **中文理解**：「对你。」他说。「等我把一切都告诉他们的时候。」
 - **关键词**：To you / he says / When I tell them everything
-- **为什么这样写**：To you 单独成段，是他给自己前一句没头没尾的提问补主语——他问的不是自己会不会有事，是你。When 从句又把这件事整体推到将来，两个词就把全节从「母亲索取」翻成「孩子预告」。前面她自己说过 I’m yours, 同一件事被说反了两次。
+- **为什么这样写**：To you 与后半句同在一个段里，是他给自己前一句没头没尾的提问补主语——他问的不是自己会不会有事，是你。When 从句又把这件事整体推到将来，两个词就把全节从「母亲索取」翻成「孩子预告」。前面她自己说过 I’m yours, 同一件事被说反了两次。
 - **读者视角提示**：他先问的是 “What will happen?”，她摇头说不知道他指什么；这一摇把话卡在半路上，剩下的由 To you 补齐。本节在这里停住，When 里的将来没有兑现。
 
 ## 本章词汇
@@ -98,4 +98,4 @@ modified: "2026-10-02"
 
 ## 一句话总结
 
-坠落两周后的病房里，她用 moon face、privacy 标牌和一连串的 Anything 换到孩子醒着并愿意开口，而这一节最后从他嘴里出来的不是答案，是他自己那句 What will happen?，和她听懂了之后的——「To you,」
+坠落两周后的病房里，她用 moon face、privacy 标牌和一连串的 Anything 换到孩子醒着并愿意开口，而这一节最后从他嘴里出来的不是答案，是他自己那句 What will happen?，和她摇头说不知道之后的——「To you,」

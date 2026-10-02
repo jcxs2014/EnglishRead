@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：Mara 靠读唇看出隔壁有事，一边洗衣一边想起自己当年夹在 Albert 和 Marcus 中间的那些年；分节之后她端着洗衣篮上楼，闻到咖啡味转过身，看见 Albert 倒在厨房地板上——急救电话、担架、签字，然后一天就这么过去了。
+- **一句话概括**：Mara 靠读唇看出隔壁有事，一边洗衣一边想起自己当年夹在 Albert 和 Marcus 中间的那些年；分节之后她端着洗衣篮上楼，闻到咖啡味转过身，看见 Albert 倒在厨房地板上——急救电话、担架，然后一天就这么过去了。
 - **书内章号**：Chapter 22
 - **视角**：第三人称限知，POV 是 Mara
 - **情感弧线位置**：低谷。前半是压了多年的愤怒第一次被她自己说出口，后半是一场毫无铺排的丧事。
@@ -21,7 +21,7 @@ modified: "2026-10-02"
 - **中文理解**：Mara 已经很会读唇了。这是孤独者的本事。
 - **关键词**：has become good at / reading lips / a skill of the lonely
 - **为什么这样写**：两句话，前一句是技能，后一句把它归给一类人。定冠词 the lonely 把技能从她的个人本领变成一个群体的共同特征：她不是学会了看嘴唇，她是被孤独训练出来的。
-- **读者视角提示**：本章开篇她站在门廊上用的就是这套本事——Ben 背对着她跟 Blair 在车道上说话，她一个字也没听见，只看见 Blair 抬手捂住嘴，又看见自己抬手捂住嘴。
+- **读者视角提示**：本章开篇她站在门廊上用的就是这套本事——Ben 背对着她跟 Blair 在车道上说话，她一个字也没听见，只看见 Blair 抬手捂住嘴。
 
 > **原句 2:** "For years she was the referee in a boxing ring, the opponents unfairly matched. Only one of them knew how to throw a punch, although those punches were never physical."
 

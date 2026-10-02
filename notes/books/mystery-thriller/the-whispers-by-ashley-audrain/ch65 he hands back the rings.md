@@ -48,7 +48,7 @@ modified: "2026-10-02"
 
 - **中文理解**：「问我到底发生了什么？！」她的杯子在地板上打转，淌出来的水在两人之间积成一片。她站起来，摇着头，脸皱成一团哭了出来。
 - **关键词**：ASKED ME WHAT THE FUCK HAPPENED / spins across the floor / the face crumpling
-- **为什么这样写**：问句被改成全大写并去掉疑问语气，问号还在——她不是在问，是在把三个词砸出来。spins（打转）写的不是水花而是杯子失控的方向，crumpling 把哭写成纸被捏皱。
+- **为什么这样写**：问句被改成全大写并去掉疑问语气，问号还在——她不是在问，是在把六个词砸出来。spins（打转）写的不是水花而是杯子失控的方向，crumpling 把哭写成纸被捏皱。
 - **读者视角提示**：全大写只出现在这一处，本章的嗓门上限就在这句；她紧接着说的是 You haven’t asked because you don’t trust that I have nothing to do with it——她认为 Jacob 从来没信过她。
 
 > **原句 6:** "She lifts her thumb up under her shirt to touch her left nipple beside her racing heart, and it’s only then that she feels the unmistakable sensitivity."

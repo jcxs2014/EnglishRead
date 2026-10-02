@@ -20,7 +20,7 @@ modified: "2026-10-02"
 
 - **中文理解**：Blair 想到那股在这份温柔底下闷烧着的背叛。
 - **关键词**：the betrayal / smolders below this tenderness
-- **为什么这样写**：作者把背叛写成一个温度而不是一件事——smolders 是低火，不爆但一直在烧，而它被安置在 tenderness 的下面。below 一词把这两种温度接成上下层：上面是可以拥抱的，下面是烧着的；她一边看着丈夫一边想着另一个男人，句子就是这个叠放动作。
+- **为什么这样写**：作者把背叛写成一个温度而不是一件事——smolders 是低火，不爆但一直在烧，而它被安置在 tenderness 的下面。below 一词把这两种温度接成上下层：上面是可以拥抱的，下面是烧着的；她一边在自家前窗看着对面那对夫妻进来，一边想着另一个男人，句子就是这个叠放动作。
 - **读者视角提示**：这句话紧跟在 Jacob 扶着 Whitney 进门那一幕之后：她是在自己家前窗边、看着对面那两个人进来的那一刻想的。
 
 > **原句 2:** "The careful treading, texts expertly constructed by vultures."

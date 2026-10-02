@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 - **中文理解**：Ben 没发消息，也没打电话，快到中午了。她想到自己把怀孕的事告诉了他，脸一下子垮下来——早了四个半小时。她捶了一下橱柜门。
 - **关键词**：hasn’t texted / face crumples / Four and a half hours too soon
-- **为什么这样写**：`Four and a half hours too soon.` 独立成段，把一个抽象的「后悔」换算成一个具体的钟点误差；这一段的长度对上了前面「还没开始痛」的等待。
+- **为什么这样写**：`Four and a half hours too soon.` 单独成句，把一个抽象的「后悔」换算成一个具体的钟点误差；这一段的长度对上了前面「还没开始痛」的等待。
 - **读者视角提示**：这里的 soon 指的是**说早了**，不是「他回来得晚」——作者用同一个词把方向钉在读者这边。
 
 > **原句 3:** "Ben’s gone to the hospital. I heard him tell the cabbie when he left.” She gestures to the street."

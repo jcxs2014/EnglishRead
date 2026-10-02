@@ -11,7 +11,7 @@ modified: "2026-10-02"
 - **书内章号**：Chapter 43
 - **视角**：第三人称限知，POV 是 Whitney
 - **情感弧线位置**：转折。她从「这是唯一的选项」走到听见孩子动了的那一刻；中间还夹着一段她自己都不确定是否真的做过的行为。
-- **人物弧线**：从「要救他」到「我应该被逮捕」再到「我谁都不让带走」——她把同一个动作先解释成救援，再解释成失控，最后干脆用违规抱住孩子来把自己钉在原地。全章关于孩子她只问出一句 Is he all right，问的还是护士；从头到尾没有人替她回答这个问题。
+- **人物弧线**：从「要救他」到「我应该被逮捕」再到「我谁都不让带走」——她把同一个动作先解释成救援，再解释成失控，最后干脆用违规抱住孩子来把自己钉在原地。全章关于孩子她只问出一句 Is he all right，问的还是护士；只有护士点了下头替她回答了这个问题。
 - **叙事手法**：用一排圆点把病房切成两段：前段是清醒时的等待与被撞见，后段是醒来后的转述与消息；中段插入一大段她想象中的国际象棋课（她替孩子写了一张 do not disturb 的告示贴在门上），用一个几乎温柔的未来把最坏的结果压住；结尾只靠 Jacob 转述的一句「有动静」收束。
 
 ## 精读
@@ -34,7 +34,7 @@ modified: "2026-10-02"
 
 - **中文理解**：这是唯一的选项。她能感觉到宽恕就在前面不远处，她正跑着去追它，她快到了。
 - **关键词**：the only option / the relief just ahead of her / running to keep up with it
-- **为什么这样写**：第一句是六个词的判决，句子像盖子；后面两句全用 just ahead of、almost there 这类「差一点就到」的词，把 relief 写成一个越跑越近、却始终抓不到的东西。running to keep up with it 说清了她并不确定自己做对了，只是需要它是对的。
+- **为什么这样写**：第一句是五个词的判决，句子像盖子；后面两句全用 just ahead of、almost there 这类「差一点就到」的词，把 relief 写成一个越跑越近、却始终抓不到的东西。running to keep up with it 说清了她并不确定自己做对了，只是需要它是对的。
 - **读者视角提示**：这几句是她给自己的说法，不是事实判断；下一段护士进门，beeping 到底有没有响，本章始终没写。
 
 > **原句 4:** "But sometimes she feels like he’s testing her. To see how far she’d really go, before he’s there, watching, saving, reminding her again of who she needs to be."
