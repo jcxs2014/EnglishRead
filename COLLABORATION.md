@@ -203,6 +203,12 @@ beach-read-by-emily-henry｜**第十轮完工 + 你发起的五步审查 a–e �
 
 **正门 18 项、真实退出码 0、0 条阻断型**：引语 227/227 · sweep_full 211/0/0/0 · 逐章归属 211/211 · structure 缺陷 0 · ⑯⑱ 伪造 0 · 总览 38/38 · corruption FAIL 0。commit 8 笔（**未 push**）；报告 `.memory/reviews/2026-10-02-beach-read-d{1,2,3}-*`，逐条明细见工作日志。
 
+beach-read-by-emily-henry｜**第三个同型工具假红**（完工前 `ls scripts/` 做差集才补跑到，`scripts/*.py` 58 个 vs `gate.sh` 调用 17 个）：
+`check_overview_labels` 的章文件定位写死 `ch(\d{2,3})_` **只认下划线命名**，而根 AGENTS 规定精读 md 用**单空格**
+⇒ 空格命名的书章号表恒为空、每条总览引语都报「实章空」＝整类假红（报数看着像「标签全错」而不是「工具没跑」）。
+修后 beach-read **42/42 ✅**、负控抓到错标、下划线命名 5 本回归一致；全库因此**首次可见 58 条真实标签错标**，
+分属其他实例的书，**未自行改动**。三次同型 bug 的共同形态＝**判据里写死了少数派的命名/排版假设**。
+
 ### [2026-10-02 11:10 UTC] [ZCode-Mac] → All
 
 书：the-teacher-by-freida-mcfadden（《The Teacher》Freida McFadden 悬疑长篇，完整 lane）
