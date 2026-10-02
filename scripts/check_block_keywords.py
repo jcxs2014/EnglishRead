@@ -133,14 +133,20 @@ def check(md: Path, book: Path):
     # --- 结构计数对账（先做，因为它最便宜且能兜住一切后续判断）---
     nq = len(BLOCK_RE.findall(s, re.M))
     nkw = len(KW_RE.findall(s))
-    nvocab = len(re.findall(r'^## 本章词汇', s, re.M))
+    # ⚠️ 2026-10-02 假红型修正（本工具写死言情格式 `## 本章词汇` + 3–8 块配额，
+    #   而非虚构论述格式用 `## 词汇分级` + 10 处 `## 选择性精读`）。全库非虚构书
+    #   （nexus / an-expert-witness / down-girl / herlands …）逐个复跑全部报同两条，
+    #   证实是**工具的格式假设**而非内容缺陷。按 AGENTS 第 3 条「假红型先修工具」处置：
+    #   词表节标题认两种体裁；块数配额按体裁判（言情 3–8 / 非虚构上限 10，见体裁对应格式表）。
+    is_nonfic = bool(re.search(r'^## 选择性精读', s, re.M))
+    nvocab = len(re.findall(r'^## (?:本章词汇|词汇分级)', s, re.M))
     nsum = len(re.findall(r'^## 一句话总结', s, re.M))
     if nq == 0:
         return [f"{md.name}: 未找到任何 `> **原句 N:**` 引语块"]
     if nkw != nq:
         out.append(f"{md.name}: 结构对账失败 —— 关键词行 {nkw} ≠ 引语块 {nq}（内容可能被整段复制）")
     if nvocab != 1:
-        out.append(f"{md.name}: 结构对账失败 —— `## 本章词汇` 出现 {nvocab} 次（应为 1）")
+        out.append(f"{md.name}: 结构对账失败 —— 词表节（`## 本章词汇`/`## 词汇分级`）出现 {nvocab} 次（应为 1）")
     if nsum != 1:
         out.append(f"{md.name}: 结构对账失败 —— `## 一句话总结` 出现 {nsum} 次（应为 1）")
     # ⚠️ 2026-10-02 收口：原只认 chNN_*.txt，空格命名的书恒 0 命中（假红型）
@@ -154,7 +160,7 @@ def check(md: Path, book: Path):
     ps = paras(t)
     tn = norm(t)
     pn = [norm(x) for x in ps]
-    if not 3 <= nq <= 8:
+    if not 3 <= nq <= (10 if is_nonfic else 8):
         # ⚠️ 2026-10-02（Beach Read ch13 实测，用户裁定「删到 3-8 处」后暴露）：
         #   ch13 全文只有一句话（`I DREAMED ABOUT GUS Everett and woke up needing
         #   a shower.`，提取件 73 B / 1 个自然段）⇒ **物理上凑不出 3 块**。
@@ -170,7 +176,7 @@ def check(md: Path, book: Path):
             out.append(f"{md.name}: ⚠️ 提示·源文本仅 {len(src_paras)} 个够长自然段"
                        f"（<{MIN_SRC_PARA} 字符），块数下限不适用（现有 {nq} 块）")
         else:
-            out.append(f"{md.name}: 引语块 {nq} 个，超出言情精简格式的 3–8 配额")
+            out.append(f"{md.name}: 引语块 {nq} 个，超出{'非虚构论述格式的 3–10' if is_nonfic else '言情精简格式的 3–8'}配额")
 
     # ⚠️ 2026-10-01 修正（本书 ch02 触发）：原实现用 BLOCK_RE 切块、却用 QUOTE_RE 取
     # 「编号 + 引语」，**两者口径不一致**——QUOTE_RE 要求引语被直双引号包裹，而引语行
