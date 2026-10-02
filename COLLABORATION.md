@@ -79,26 +79,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-02 19:37 UTC] [ZCode-Mac] → All
 
-**《Behind the Beautiful Forevers》（Katherine Boo，普利策非虚构奖）精读完工（19 章 + 总览三篇 = 22 md）**
-- 体裁：非虚构纪实（孟买安纳瓦迪棚户区）；正文 = Prologue + 17 章 + AUTHOR'S NOTE，与书内目录页逐件对账；器件页全部剔除，text/ 19 件
-- 语料：`verify_corpus --expect 19` PASS（来源＝书内目录页，非"自己数出来的"）；书名出自米尔奇"周围一切都是玫瑰，我们就是中间的屎"
-- 门禁（原件 `.memory/raw-gates/behind-the-beautiful-forevers-by-katherine-boo/`）：gate.sh **GATE_EXIT=0** · verify 189/189（干净 21/21）· 逐章归属 155/155 · sweep_full 155/0/0/0 · 块覆盖 19 文件 0 问题 · 导航层 0 报警 · corruption 0 · 结构 0 · 实体 0 · 词表 FAIL 0（自建 vocab_row_check 逐条回本章取证 0 问题）
-- 总览门禁：verify_overview_quotes 35/35 · check_overview_full 整串 61/查无 0、章节标签 60/不符 0、H1 错配 0 · check_overview_labels 35/35（待人判 0）
-- 对账：章节 md 19 == text 19，另总览 3 篇
-- 方法学要点：① 总览三篇由 `gen_overview` + 本书专属模板生成，模板内零手打英文（引语全部来自已 flat 核实的引语池）；② 新建 `scripts/attic/vocab_row_check.py` 抓"词头不在本章 / 例句非逐字"——这类缺陷 check_vocab 全看不见，本书写作期复发 5 次；③ 修 1 处工具假红：`check_block_keywords` 写死言情格式（非虚构书逐个复跑全报），按体裁判修正
-- **五步审查未做（待用户发起）**——按 AGENTS 第 10 条，执行方不自动发起全书级审查
-- commits（**均未 push**）：1ee014ec0 起的 22 个 commit（逐章 + 概览 + 门禁修复 + raw-gates）
-- 明细见工作日志当日条目
-
-**Behind the Beautiful Forevers 五步审查结论（a–e 全跑，门禁全绿仍查出缺陷）**
-- 5 处阻断型全部已整改：ch18 两处跨章引用错位（文件号↔书内章号混淆，本书全书恒差 1）+ ch18 一处事实断言（95% 烧伤记录系医生所改，非金边眼镜官员）+ 概述两处（曼朱"翻译校服"无据、米娜误植阿卜杜勒的 Haji Ali 图像）
-- 1 条提示型只记不改（yelling 系语法记法）；2 条假红型为工具/判据问题
-- e 步人判：情感节点 10 条引语逐条开窗核说话人，**零人物误归**；跨书污染自检 Kalu=本书人物
-- 覆盖：19 章全过 a/b/c（两套结构实现 + 逐块子项人工补验 155/155）；d 步核 10 条具名说话人 + 全书亲属断言
-- 审查后复核：gate.sh 退出码 0 · verify_overview_quotes 35/35 · check_overview_labels 35/35 · corruption 0
-- **同会话审查已知盲区**：d 步语义二审由主会话执行（子代理返空未采信），逐对核对了具名说话人与亲属断言，但**未对全部 155 块做引语↔分析的全量语义对读**——情感/隐喻层的细微错位仍有漏网可能，如需彻底复核建议指派异实例或用户指定审查方
-- commits：`56bb3f09a` `a68eb0c04` `448d83ae8` `86a7ab717`（**均未 push**）
-- 原始门禁输出 `.memory/raw-gates/.../2026-10-02-review-a-e.txt`；逐条清单见工作日志当日条目
+**《Behind the Beautiful Forevers》（Katherine Boo，普利策非虚构奖）精读完工 + 五步审查两轮完成（19 章 + 总览三篇 = 22 md）**
+- 体裁：非虚构纪实（孟买安纳瓦迪棚户区）；正文 = Prologue + 17 章 + AUTHOR'S NOTE，与书内目录页逐件对账；text/ 19 件；对账 19==19
+- 门禁（原件 `.memory/raw-gates/behind-the-beautiful-forevers-by-katherine-boo/`）：gate.sh **GATE_EXIT=0** · verify 189/189（干净 21/21）· 逐章归属 155/155 · sweep_full 0 跨章/0 拼接 · corruption 0 · 结构 0 · 实体 0 · 词表 FAIL 0（自建 vocab_row_check 逐条回本章取证 0）· 总览 verify_overview_quotes 35/35 · check_overview_labels 35/35
+- 方法学：① 总览由 gen_overview + 本书专属模板生成，模板内零手打英文；② 新建 scripts/attic/vocab_row_check.py 抓"词头不在本章/例句非逐字"（check_vocab 全看不见）；③ 修 1 处工具假红：check_block_keywords 写死言情格式，按体裁判修正
+- **五步审查·第一轮（a–e）**：5 处阻断型全整改——ch18 两处跨章引用错位（文件号↔书内章号混淆，本书恒差 1）+ ch18 事实断言（95% 烧伤记录系**医生**所改，非金边眼镜官员）+ 概述两处（曼朱"翻译校服"无据、米娜误植阿卜杜勒 Haji Ali 图像）；1 提示型（yelling 系语法记法）；2 假红型（工具/判据）。e 步人判：情感节点 10 条引语开窗核说话人**零误归**；跨书污染 Kalu=本书人物
+- **五步审查·第二轮（用户指定，全量 155 块对读）**：4 处阻断型全整改——ch12 单数 trick 误作复数 tricks · ch10 中文理解内嵌英文残片 · ch10 句子结构三处错（误判省略句/形容词短语/a old）· ch06 原句8 主语 He 明确却误称省略句；机械扫描关键词 155/155 全在引语内
+- 复核：两轮后 gate.sh 仍 GATE_EXIT=0 · corruption 0 · 词表 0 问题
+- **已知局限**：两轮均由主会话执行（子代理返空未采信）；已覆盖全部 155 块引语↔分析与具名说话人，情感/隐喻层极细微错位仍不能排除，如需彻底复核建议指派异实例
+- commits（**均未 push**）：1ee014ec0 起 30 个；明细见工作日志当日条目与 `.memory/raw-gates/.../review*.txt`
 
 ### [2026-10-02 19:38 UTC] [DSH-Mac] → All
 
