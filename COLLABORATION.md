@@ -137,17 +137,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-01 20:41 UTC] [ZCode-Mac] → All
 
-《The Ghost of You》（Michael Gray Bulla，YA 当代哀伤×幽灵猫）精读完工（2026-10-01，ZCode-Mac）。
+《The Ghost of You》（the-ghost-of-you-by-michael-gray-bulla）精读完工 ＋ 独立五步审查结论（2026-10-01，ZCode-Mac）。
 
-**交付**：ch01–ch23 正文 + ch24 Author's Note（用户拍板收）+ 总览三篇 = **27 md**；text/ 24 件与书内章号 1:1 零偏移（4 个分部页与装置页共 14 页剔除）。体裁=推理/悬疑档精简格式（导航 5 项 + 四子项 3–8 块 + 三档词汇 + 一句话总结）。
+**交付**：ch01–ch23 正文 + ch24 Author's Note（用户拍板收）+ 总览三篇 = **27 md**；text/ 24 件与书内章号 1:1 零偏移（4 个分部页与装置页共 14 页剔除）；体裁=推理/悬疑档精简格式（导航 5 项 + 四子项 3–8 块 + 三档词汇 + 一句话总结）。
 
-**门禁（gate.sh 15 项 GATE_EXIT=0，完整 lane）**：verify_quotes 201/201（100%，25/25 干净）· vocab 569 词条 FAIL 0（WARN 41 全为 ≥9 字符长度启发式提示型，逐条接受）· entities 0 · corruption 0 · sweep_full 176 命中 0 异常 · 短引语 0 · 逐章归属 176/176 全本章 · 块覆盖 24/24 · 导航层 ❌0 · 分析层行内英文 742 逐字 0 零命中 · 结构 0 · 锚定 0 · 总览金句 25/25 · 章节标签 0 不符 · H1 ✓。
+**完工门禁（gate.sh 15 项 GATE_EXIT=0，完整 lane）**：verify_quotes 201/201（100%，25/25 干净）· vocab 569 词条 FAIL 0（WARN 41 全为 ≥9 字符长度启发式提示型，逐条接受）· entities 0 · corruption 0 · sweep_full 176 命中 0 异常 · 短引语 0 · 逐章归属 176/176 全本章 · 块覆盖 24/24 · 导航层 ❌0 · 分析层行内英文 742 逐字 0 零命中 · 结构 0 · 锚定 0 · 总览金句 25/25 · 章节标签 0 不符 · H1 ✓。生产方式：vocab_candidates 粘贴只做减法、引语写前逐条 flat 预验、总览由 gen_overview 从已核实引语池生成（本书专属 .overview_templates）。
 
-**生产方式**：词表全部经 vocab_candidates 粘贴后只做减法、补充短词头逐条词边界 grep；引语写前逐条 flat 预验；总览三篇由 gen_overview 从已核实引语池生成（本书专属 .overview_templates，金句恰 25 条不超 ㉕ 口径）。施工期自查抓到并已修 8 处（例句错章 2、词形/改写 2、编辑残留行 3、西语混入 1），均由对应门禁或写后 grep 抓出。
+**独立五步审查（用户同会话发起，a–e 完整执行未降级）**：门禁全量重跑 + 三个第二实现（struct/xref/analysis_indep）+ 4 子代理逐对核对全部 176 块 + 说话人窗口抽验；34 条报警逐条自机复核（推翻 1 条子代理假阴）。**门禁全绿仍查出阻断型 46 处，全部已整改**：跨章引用指错/无据 17 · 计数断言 4 · 分析层英文改写 5 · 关键词非引语逐字 4 · 引号形态 3 · 事实细节 5 · 编辑残留 2 · 分析超引语覆盖 2 · 评析与文本冲突 2 · ch11 九块超 3–8 配额（删块②升序重排＋金句⑪/节点六模板同步重生成）。**假红型 1**：check_block_keywords 缺 `·` 分隔符→169 假红，修工具后浮出 6 处真缺陷（已入库）。提示型 8 只记不改（vocab WARN 41、Allie 句 ch13/ch18 双章真实现象等）。
 
-**状态**：28 commits 未 push（等指令）。**五步审查未做（待用户发起）**。原始逐行 → `.memory/raw-gates/the-ghost-of-you-by-michael-gray-bulla/`；明细 → `.memory/daily/2026-10-01.md` 本书条目。
+**整改后复验**：GATE_EXIT=0；verify 200/200（175 块+25 金句）；struct_indep 0、analysis_indep 264 条全逐字、block_keywords 0；同会话局限如实标注：跨章引用合理性判断与说话人窗口仍有抽查级残余风险，是否另派异实例复核由用户判断。
 
-《The Ghost of You》（the-ghost-of-you-by-michael-gray-bulla）**独立五步审查结论（2026-10-01 同会话，a–e 完整执行未降级，ZCode-Mac）**：门禁全量重跑（verify 201/201 起）＋三个第二实现（struct/xref/analysis_indep）＋4 子代理逐对核对全部 176 块＋说话人窗口抽验＋复核员抽查（34 条报警逐条自机复核，1 条子代理假红被推翻）。**查出并整改 46 处阻断型**：跨章引用指错/无据 17（如 flickered out 在 ch04 非 ch11、outline of Jack 在 ch03、ch22 误写 ch04 的 Candi 实为 ch20、ch24 把 Caleb 母亲误作 Tanya 母亲）· 计数断言 4（九个因为实为六、三个 like 实为两个、六个词实为五、两次挡回实为一次）· 分析层英文改写 5（漏 just/uh/me、vs 代 against）· 关键词非引语逐字 4 · 引号形态 3（伪加/伪去/缺闭）· 事实细节 5（父子实为兄弟、已读实为已送达等）· 编辑残留 2 · 分析超引语覆盖 2 · 评析与文本冲突 2 · **ch11 九块超 3–8 配额**（删块②重排＋金句⑪/节点六模板同步重生成）。**假红型 1**：check_block_keywords 缺 `·` 分隔符 →169 假红，修工具后浮出 6 处真缺陷（已入库）。提示型 8 只记不改（WARN 41 全长度启发式、Allie 句 ch13/ch18 双章真实现象等）。**整改后复验：GATE_EXIT=0，verify 200/200（175 块+25 金句），analysis_indep 264 条全逐字，struct_indep 0，block_keywords 0**。同会话局限如实标注：跨章引用合理性判断与说话人窗口仍有抽查级残余风险，是否另派异实例复核由用户判断。commits 33 个未 push。
+**状态**：33 commits 未 push（等指令）。原始逐行 → `.memory/raw-gates/the-ghost-of-you-by-michael-gray-bulla/`；明细 → `.memory/daily/2026-10-01.md`（完工）+ `2026-10-02.md`（五步审查）。
 
 ### [2026-10-01 20:20 UTC] [ZCode-Mac] → All
 
