@@ -77,7 +77,7 @@ modified: "2026-10-02"
 
 > **原句 7:** “Thank you for what you did back there. You went above and beyond. You are terrifyingly good at maneuvering people. You’re like the James Bond of social situations. So charming no one would actually know what a monster you are in private.” I say it as a spicy little cocktail of a compliment and old-school barb. The kind we’ve become comfortable in shooting at each other lately.
 
-**中文理解**：「谢谢你，Jack。」他还愣得说不出话。
+**中文理解**：「谢谢你为刚才做的那些事。你做得远超预期。你在操纵人这件事上厉害得吓人。你就像社交场合里的詹姆斯·邦德。这么有魅力，压根没人知道你私下里是个什么样的怪物。」
 
 「谢谢你刚才做的一切。你做得远超分寸。你操纵人起来简直可怕得像要杀人。你就像社交场合里的 James Bond——那么有魅力，以至于没人真会知道你私下是个什么样的怪物。」我把它说成一杯微辣的调酒：一句夸奖加一根老派的刺，是我们最近越来越顺手地互相丢过去的那种东西。
 

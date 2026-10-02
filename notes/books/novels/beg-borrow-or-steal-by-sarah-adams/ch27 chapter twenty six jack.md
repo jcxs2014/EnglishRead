@@ -81,7 +81,7 @@ modified: "2026-10-02"
 
 **关键词**：You said you were done meeting me in the arena（你说过你要退出竞技场了）
 
-**为什么这样写**：作者让 Jack 用她自己上一章的话把话题钉回去——这句几乎不带攻击性，却因为是逐字引用而显得锋利。紧接的那段 Emily 认下真正理由：这不是在跟他比，是不愿从一个也许从未经历过这一切的成功作家那里接受安慰和忠告（It’s me not wanting to receive comfort and advice from a successful author when he might not have ever experienced this in the first place）。
+**为什么这样写**：作者让 Jack 用她自己书内第二十四章的话把话题钉回去——这句几乎不带攻击性，却因为是逐字引用而显得锋利。紧接的那段 Emily 认下真正理由：这不是在跟他比，是不愿从一个也许从未经历过这一切的成功作家那里接受安慰和忠告（It’s me not wanting to receive comfort and advice from a successful author when he might not have ever experienced this in the first place）。
 
 **读者视角提示**：这是全章的智识转折点：Emily 的愤怒从「你否定我」升级为「你的经验不适用于我的处境」，而 Jack 只能用「我一次退稿都没收过」来证明她是对的——于是两人同时无路可退。
 

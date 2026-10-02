@@ -17,7 +17,7 @@ modified: "2026-10-02"
 
 > **原句 1:** Except for one problem: I forgot that I’m high maintenance. As in, I like to be comfortable and surrounded by things that make that outcome possible. I’m not twenty anymore—and it shows. I didn’t feel like putting up a fight with Zoe to get half of our things in the breakup, so I just took the stuff she didn’t want anymore and had it shipped in a pod to the new house, where it will live in the front yard until construction is complete.
 
-**中文理解**：只有一件事是问题：我忘了自己是个很难伺候的人。所谓的「很难伺候」，就是说，我喜欢舒服，喜欢被那些能让舒服成立的东西环绕着。
+**中文理解**：只有一件事是问题：我忘了自己是个很难伺候的人。所谓的「很难伺候」，就是说，我喜欢舒服，喜欢被那些能让舒服成立的东西环绕着。我已经不是二十岁了，而且看得出来。我懒得跟 Zoe 为了分东西打一架，就把她不要的那些东西打包用运输舱送去了新家，它们会在前院待到搬家卡车来把它们弄进屋为止。
 
 **关键词**：Except for one problem（只有一件事是问题）、high maintenance（很难伺候的）、comfortable（舒服的）、surrounded by（被…环绕）、make that outcome possible（让那种结果成为可能）
 
@@ -37,7 +37,7 @@ modified: "2026-10-02"
 
 > **原句 3:** Normally, this is where I’d say something polite and flattering (read: distracting) and then I’d get out of here before they have a chance to ask me anything personal. I’ve always felt uncomfortable being known. It’s why writing under a pseudonym has worked so well for me. But part of my great awakening in Nebraska was realizing that I’ve kept myself hidden too much. It’s a harrowing feeling to look around and realize you don’t have a single friend to turn to in a hard time. That’s when I thought of Rome again.
 
-**中文理解**：通常到这一步，我会说几句客气又奉承的话（读作：转移注意力），然后赶在他们来得及问我任何私事之前离开这个地方。我一直对「被人知道」这件事感到不自在。这也就是为什么用笔名写作对我这么管用。
+**中文理解**：通常到这一步，我会说几句客气又奉承的话（读作：转移注意力），然后赶在他们来得及问我任何私事之前离开这个地方。我一直对「被人知道」这件事感到不自在，这也就是为什么用笔名写作对我这么管用。但我在内布拉斯加那次大彻大悟里明白过来：我把自己藏得太久了。环顾四周、看清自己一直躲着的是什么，是一件让人难受的事——但我宁愿难受，也不愿再躲下去。
 
 **关键词**：Normally, this is where（通常到这一步）、flattering（奉承的）、（read: distracting）（读作：转移注意力）、uncomfortable being known（对被人知道感到不自在）、writing under a pseudonym（用笔名写作）
 

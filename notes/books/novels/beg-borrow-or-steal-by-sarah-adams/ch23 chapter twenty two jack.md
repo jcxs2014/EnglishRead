@@ -57,7 +57,7 @@ modified: "2026-10-02"
 
 > **原句 5:** James smiles fully and looks to Emily. Something about his smile toward her makes me irrationally angry. Possessive. Don’t smile at my Emily like that. “She was a bartender here through college, and usually jumps back there when Hank is too covered up to handle it all. She can’t stand seeing him in pain with his knees and gets mad when his employees call out on a Friday night knowing he’s going to have to take over for them.” We both stare at Emily. “And just look at all those poor idiots hanging onto the bar hoping to get a smile from her.” He chuckles like this doesn’t make me want to rip each one of them off their ass and take their seat and then put a Taken sign on each empty stool.
 
-**中文理解**：James 朝 Emily 露出完整的笑容，看了看她。他那个笑容里有某种东西让我不理智地生气。占有欲。别那样对着我的 Emily 笑。
+**中文理解**：James 朝 Emily 露出完整的笑容，看了看她。他那个笑容里有某种东西让我不理智地生气——占有欲。别那样对着我的 Emily 笑。「她大学时就在这儿的吧台后面打工，Hank 忙不过来的时候通常会回去顶上。她看不下去 Hank 膝盖疼，周五晚上员工一请假她就来气——明知道那些活儿最后都得 Hank 自己顶。」（她指的那位是酒保 Emily；Emily 不是。）我们两个一起盯着 Emily。「再看看那些还挂在吧台上、盼着她冲自己笑一下的可怜家伙。」他笑了一声，好像这样并不会让我想把他们一个一个从凳子上拽下来，抢走他们的座位，然后在每个空凳子上贴一张《终结者》的牌子。
 
 **关键词**：irrationally angry（不理智地生气）、Possessive.（占有欲。）、Don’t smile at my Emily like that（别那样对着我的 Emily 笑）
 

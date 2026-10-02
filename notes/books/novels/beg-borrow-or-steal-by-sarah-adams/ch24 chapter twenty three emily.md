@@ -31,7 +31,7 @@ modified: "2026-10-02"
 
 **关键词**：Friends, huh?（朋友，是吗）、Weird—（奇怪）、try to get into other friends’ pants（往朋友的裤子里钻）、trapped in a closet（被困在储物间里）
 
-**为什么这样写**：作者用 huh? 把对方的话抬起来掂一掂，再用 Weird 这个小词单独起句作缓冲，最后才把界定扔出来。get into someone’s pants 比中文的「动手动脚」更具体、更有画面，而 trapped in a closet 又把它钉回两人共同的旧事。整段是全章最短的一块，因为它不需要铺垫。
+**为什么这样写**：作者用 huh? 把对方的话抬起来掂一掂，再用 Weird 这个小词单独起句作缓冲，最后才把界定扔出来。friends try to get into other friends’ pants 比中文的「动手动脚」更具体、更有画面，而 trapped in a closet 又把它钉回两人共同的旧事。整段是全章最短的一块，因为它不需要铺垫。
 
 **读者视角提示**：这是 Emily 全书最不回避的一次表述——她把两人之间发生过的事直接说了出来，而对方还打算用一个轻松的词盖过去。紧接着作者另起一段写她心跳加速却又退缩（But I get cold feet），本块的张力就落在这一进一退之间。
 

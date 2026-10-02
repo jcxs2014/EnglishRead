@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **关键词**：the petition with the final tallies（那份写着最终得票数的请愿书）、I do mean the majority of the town（我说的是大多数镇民）、one person called another who called their cousin（一个人打给另一个人，那人打给表亲）
 
-**为什么这样写**：作者先用两个短句把请愿的结果交代掉（他赢了，但镇子把失败裱起来收藏），再用 And I do mean the majority of the town 单独起句、加重语气——这句自我更正暗示「你以为的全镇」其实还要打折。随后一串「a called another who called…」把流言的扩散写成一个层层转递的连锁反应，句子越滚越长，笑点落在最后那一步的荒谬：姑妈男朋友也被拖进来了。镇子的信息传播从来不需要真相，只需要接续。
+**为什么这样写**：作者先用两个短句把请愿的结果交代掉（他赢了，但镇子把失败裱起来收藏），再用 And I do mean the majority of the town 单独起句、加重语气——这句自我更正暗示「你以为的全镇」其实还要打折。随后一串「one person called another who called their cousin…」把流言的扩散写成一个层层转递的连锁反应，句子越滚越长，笑点落在最后那一步的荒谬：姑妈男朋友也被拖进来了。镇子的信息传播从来不需要真相，只需要接续。
 
 **读者视角提示**：这一段的写法是全书喜剧节奏的基准线：荒谬靠的是把一条日常链路写到底，不靠夸张的形容词；而「裱起来的请愿书」这个细节同时预告了本章后半段那些被 Emily 记在小本子上的全镇恩怨。
 

@@ -61,7 +61,7 @@ modified: "2026-10-02"
 
 **关键词**：She was right（她说得对）、I didn’t realize it until now（我直到现在才意识到）、I’ve been trying to rush this（我一直在试图催这段关系）、I don’t think I’ve ever really felt loved until her（在她之前我从未真正感受过被爱）、tried to capture it before it was gone（赶在它消失之前把它抓住）
 
-**为什么这样写**：作者把 Jack 的全部动机压进三句，第三句是钥匙：never really felt loved until her 说明他此前没被爱过，而 rush 与 capture 两个动词都带着抢的意味——他是怕爱会消失才急着按住它。before it was gone 把「时间」写成了敌人，这与他「已经失去过父亲、失去过母亲」的身世一致。
+**为什么这样写**：作者把 Jack 的全部动机压进三句，第三句是钥匙：I don’t think I’ve ever really felt loved until her 说明他此前没被爱过，而 rush 与 capture 两个动词都带着抢的意味——他是怕爱会消失才急着按住它。before it was gone 把「时间」写成了敌人，这与他自己的经历一致——他是那个从父亲那里继承了沉默、也一直没学会怎么说的儿子。
 
 **读者视角提示**：读者在此明白他那句最后通牒不是控制欲，是恐惧；因此 Mabel 后面那段「我当年也想把他推开」不是比喻，是同一件事。
 
@@ -71,7 +71,7 @@ modified: "2026-10-02"
 
 **关键词**：She nods firmly（她重重地点了点头）、I like Emily the most（我最喜欢 Emily）、tenacious, strong-willed, protective（顽强、意志坚强、有保护欲）、a well of empathy inside her heart that I’m yet to find the bottom of（心里有一口同情的井，我还没摸到底）、scared to death of you（怕你怕得要死）
 
-**为什么这样写**：作者用一串三形容词（tenacious, strong-willed, protective）给 Emily 下一个来自旁观者的鉴定，而最有分量的是那口井：a well of empathy…find the bottom of 用「深不可测」形容同理心，同时顺手把 Emily 上一章说的「我只会照顾别人」翻转成一种天赋。When I look at her, sometimes I see myself 把这份评价从「她很好」升级为「她像年轻时的我」，于是她后面那段自白就有了根据。
+**为什么这样写**：作者用一串三形容词（tenacious, strong-willed, protective）给 Emily 下一个来自旁观者的鉴定，而最有分量的是那口井：a well of empathy…find the bottom of 用「深不可测」形容同理心，同时顺手把 Emily 在书内第二十七章说的「我只会照顾别人」翻转成一种天赋。When I look at her, sometimes I see myself 把这份评价从「她很好」升级为「她像年轻时的我」，于是她后面那段自白就有了根据。
 
 **读者视角提示**：scared to death of you 这句让 Jack 愣住（他说的是「怕我？」），而它恰好接上了本章开头他说的那句「I don’t think I’ve ever really felt loved until her」——原来她怕的是重复。
 
@@ -81,7 +81,7 @@ modified: "2026-10-02"
 
 **关键词**：oh lordy（天哪／哎呀）、I was terrified of him（我怕他怕得要命）、I couldn’t stand the thought of losing him（我受不了再失去他这个念头）、push him away（把他推开）、on my own terms（按自己的条件）、that sorry fool（那个傻小子）
 
-**为什么这样写**：作者让 Mabel 用自己的婚姻复刻 Jack 的处境，而且用词几乎一一对应：push him away 对 rush this，losing him 对 capture it before it was gone。这一段的力量在于她说得云淡风轻（oh lordy、I thought that would be easier），仿佛在讲别人的事；而 sorry fool 这个词把上一章的争吵和本章的建议连了起来。
+**为什么这样写**：作者让 Mabel 用自己的婚姻复刻 Jack 的处境，而且用词几乎一一对应：push him away 对 rush this，losing him 对 capture it before it was gone。这一段的力量在于她说得云淡风轻（oh lordy、Thought that would be easier），仿佛在讲别人的事；而 sorry fool 这个词把上一章的争吵和本章的建议连了起来。
 
 **读者视角提示**：读者要记住 Mabel 用的那个词是 sorry fool——她认定 Jack 属于「会一直回来」的那一类人，因此她才愿意把赌注押在 Emily 会回心转意上。
 

@@ -61,7 +61,7 @@ modified: "2026-10-02"
 
 **关键词**：And it really is（而且这是真的）、she and Will are perfect for each other（她和 Will 天生一对）、can’t shake the urge to cry（压不住想哭的冲动）
 
-**为什么这样写**：全段只有两句，却把承认与否认各写一次：先替妹妹下判断（perfect for each other），再承认自己身体里另有一种不受控的反应（the urge to cry）。can’t shake 三个字把情绪写成一种甩不掉的附着物，与本章开头她甩不掉的 Jack 是同一个动词结构——她开始发现自己对「失去」的嗅觉比平常灵敏。
+**为什么这样写**：全段只有两句，却把承认与否认各写一次：先替妹妹下判断（perfect for each other），再承认自己身体里另有一种不受控的反应（the urge to cry）。can’t shake 这两个词把情绪写成一种甩不掉的附着物，与本章开头她甩不掉的 Jack 是同一个动词结构——她开始发现自己对「失去」的嗅觉比平常灵敏。
 
 **读者视角提示**：这一段是本章情绪的第一个拐点：从这里起，她不再问「他为什么不来」，而是开始担心「大家都要走」。
 

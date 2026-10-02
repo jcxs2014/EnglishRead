@@ -17,7 +17,7 @@ modified: "2026-10-02"
 
 > **原句 1:** My dad once did a photo shoot in this house when I was fifteen for a magazine article about his life, his family, and following his muse. My mom and I were with him for one of the setups where we were playing a board game right here, on this table. I’d never once played a board game with my dad before that moment. Before the shoot, my mom practically threw it at me when she realized the plastic was still on it so I could run into the kitchen and crack it open with a knife. It was the strangest feeling being photographed as we smiled and laughed playing a game we were pretending to have played hundreds of times before. We didn’t know the rules. Or the objectives. So we rolled dice and moved pieces around the board for no reason at all.
 
-**中文理解**：我讨厌这张餐桌。我父亲十五岁那年曾在这屋里为一本杂志专题拍过一组照片，主题是他的人生、他的家庭，以及追随他的缪斯。我母亲和我当时就在其中一个场景里，我们正在这张桌子上玩一桌棋。我从来没有和我父亲玩过一次桌游——我太害怕了，所以每次都是他和别人下。
+**中文理解**：我父亲十五岁那年曾在这屋里为一本杂志专题拍过一组照片，主题是他的人生、他的家庭，以及追随他的缪斯。我母亲和我当时就在其中一个场景里——我们正在这张桌子上玩一桌棋。可在那之前我从来没和父亲下过一局桌游：拍摄前，母亲发现椅子上还包着塑料膜，几乎是扔给我，让我跑去厨房拿刀撬开，好让场面看起来自然些。那大概是我此生做过的最尴尬的一次配合。
 
 **关键词**：a photo shoot（一次拍摄）、 playing a board game（玩一局桌游）、 the strangest（最奇怪的）
 
@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 > **原句 2:** I know my place tonight: peacemaker. But it’s a struggle to respond to his comment tactfully. “Oh, I don’t know; the town is full of good people, and working with kids is pretty important to me.”
 
-**中文理解**：我知道自己今晚的位置：和事佬。
+**中文理解**：我知道自己今晚的位置：和事佬。但要圆滑地接住他那句话并不容易。「哦，我不知道，」我说，「这个镇子好人很多，和孩子一起工作对我很重要。」
 
 **关键词**：peacemaker（和事佬）、 tactfully（圆滑地）
 
@@ -57,7 +57,7 @@ modified: "2026-10-02"
 
 > **原句 5:** I should leave without another word. But high off adrenaline from finally telling him what I’ve wanted to say for years, I decide to stop hiding. “By the way, you’re wrong. I didn’t need your connections. I was able to write a bestselling series on my own. And when my fourth book comes out next year and you watch it top the charts—I want you to know that AJ Ranger did it without using your fucking name.”
 
-**中文理解**：我父亲的反应是脸红，然后命令我走。但在他发作之前，有一件事我早就想做了一直没做：告诉他真相。
+**中文理解**：我本该一句话不说就走的。可肾上腺素上头——终于把憋了多年的话说了出来——我决定不再躲藏。「顺便说一句，你错了。我不需要你的人脉。我靠自己写出了一套畅销系列。等我的第四本明年上市、看着它冲上排行榜——你要知道，AJ Ranger 写出这一切的时候，没有用你那个该死的姓。」
 
 **关键词**：high off adrenaline（肾上腺素上头）、stop hiding（不再躲藏）、AJ Ranger（AJ Ranger，他的笔名）
 
@@ -71,7 +71,7 @@ modified: "2026-10-02"
 
 **关键词**： sitting in the bed of her truck（坐在卡车后斗里）
 
-**为什么这样写**：全章最重的一句台词只有三个词，Long night? 而已——作者拒绝给这场决裂任何慷慨激昂的措辞。而 Emily 的出现用的是 cleansing wave（清浪）这个比喻：她不是打断，是把上一章留在父亲餐桌上的气压整个换掉。两处紧挨着，是本书反复使用的结构：**在最黑的地方放一个最轻的声音**。
+**为什么这样写**：全章最重的一句台词短得不能再短，Long night? 而已——作者拒绝给这场决裂任何慷慨激昂的措辞。而 Emily 的出现用的是 cleansing wave（清浪）这个比喻：她不是打断，是把上一章留在父亲餐桌上的气压整个换掉。两处紧挨着，是本书反复使用的结构：**在最黑的地方放一个最轻的声音**。
 
 **读者视角提示**：这里也埋着下一章的引信——她问他为什么打算骑车跑到没油为止；读者会意识到，她还不知道他今天失去了什么。
 

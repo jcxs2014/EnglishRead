@@ -41,7 +41,7 @@ modified: "2026-10-02"
 
 **关键词**：I don’t know if I can give him what he wants（我不知道能不能给他他想要的）、a broken, jagged disconnect（一道断裂的、锯齿般的鸿沟）、my body tenses up（我的身体就会绷紧）、Fight or flight kicks in（战斗还是逃跑被触发）、a thousand memories rush to the surface（一千段记忆涌上表面）
 
-**为什么这样写**：作者把「说不出口」写成一个身体反应而不是心理活动：mind 走到那条路的尽头，body 就 tenses up，两层用一句 my body tenses up 隔开。broken, jagged 里两个形容词叠用，把鸿沟写成碎玻璃而不是平整的裂缝。a thousand memories 把触发后的连锁反应量化成「一千段」，正好接上一章她说的「always hovering just below the surface」。
+**为什么这样写**：作者把「说不出口」写成一个身体反应而不是心理活动：mind 走到那条路的尽头，body 就 tenses up，两层用一句 my body tenses up 隔开。broken, jagged 里两个形容词叠用，把鸿沟写成碎玻璃而不是平整的裂缝。a thousand memories 把触发后的连锁反应量化成「一千段」，正好接上书内第二十七章末尾她说的「this pain is always hovering just below the surface」。
 
 **读者视角提示**：这是全章最重要的一段自我剖析：她怕的不是失去他，是给不出他要的那种关系——所以身体先于意志做出反应。
 
@@ -71,7 +71,7 @@ modified: "2026-10-02"
 
 **关键词**：I’m happy you’re here（我很高兴你在这里）、gut-wrenching truthfulness（极其真心的真话）
 
-**为什么这样写**：全章最短的一块，也是她说过的最短的一句真心话。作者用 gut-wrenching 把「真心」写成一种造成身体反应的东西——不是抒情，是痛感。整章她说了那么多话，而真心只有这五个词，比例本身即是内容。
+**为什么这样写**：全章最短的一块，也是她说过的最短的一句真心话。作者用 gut-wrenching 把「真心」写成一种造成身体反应的东西——不是抒情，是痛感。整章她说了那么多话，而真心只有这么短一句，比例本身即是内容。
 
 **读者视角提示**：这一句紧跟在上一块那整段推理之后，读者能感到她终于不再论证了。
 
@@ -91,7 +91,7 @@ modified: "2026-10-02"
 
 **关键词**：My breath is an earthquake（我的呼吸像一场地震）、I don’t finish my sentence（我没把这句话说完）、hovering on the edges of my skin（徘徊在我皮肤边缘）、about to break through（就要涌出来）
 
-**为什么这样写**：全章以一个未完成的句子收束。作者先用一个比喻（My breath is an earthquake）把她的身体状况推到极限，再用 I don’t finish my sentence 明说这句话没说完——而没说完的原因紧接着就交代了：眼泪先到了。hovering on the edges of my skin 精确回扣她在上一章说的 hovering just below the surface，同一个位置，只是这次要浮上来了。
+**为什么这样写**：全章以一个未完成的句子收束。作者先用一个比喻（My breath is an earthquake）把她的身体状况推到极限，再用 I don’t finish my sentence 明说这句话没说完——而没说完的原因紧接着就交代了：眼泪先到了。hovering on the edges of my skin 精确回扣她在书内第二十七章说的 this pain is always hovering just below the surface，同一个位置，只是这次要浮上来了。
 
 **读者视角提示**：本章止步于她冲出厨房，全书的正面回应留给下一章；读者会带着这句没说完的话翻页。
 

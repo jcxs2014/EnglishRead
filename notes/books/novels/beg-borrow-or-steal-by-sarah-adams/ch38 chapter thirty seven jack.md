@@ -5,7 +5,7 @@ modified: "2026-10-02"
 
 # 38. Chapter Thirty-Seven · Jack POV
 
-> 本章是全书正文最后一章（书内 Chapter Thirty-Seven），终章为 ch39（Epilogue）。
+**本章定位**：本章是全书正文最后一章（书内 Chapter Thirty-Seven），终章为 ch39（Epilogue）。
 
 ## 本章导航
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **关键词**：the AJ part is just my first and middle name swapped（AJ 那部分就是把我的名和中间名对调）、Ranger was actually the name of the stuffed bear I slept with as a kid（Ranger 其实是我小时候抱着睡的那只填充玩具熊的名字）、He was the first comforting thing in my life（他是我生命里第一个能带来安慰的东西）、give that name to the next comfort（把这个名字给下一个安慰）
 
-**为什么这样写**：作者用两段式交付这个秘密：先给一个平淡到无聊的答案（名字对调），再用一个停顿和一句 I grimace 把重量交给第二部分。he felt right to give that name to the next comfort 这句的句法本身就是他的心理——把一个童年玩偶的名字转手给一堆纸上的角色，这个动作在语法上被写成「顺理成章」，读起来才不觉得突兀。
+**为什么这样写**：作者用两段式交付这个秘密：先给一个平淡到无聊的答案（名字对调），再用一个停顿和一句 I grimace 把重量交给第二部分。it felt right to give that name to the next comfort too 这句的句法本身就是他的心理——把一个童年玩偶的名字转手给一堆纸上的角色，这个动作在语法上被写成「顺理成章」，读起来才不觉得突兀。
 
 **读者视角提示**：这是 Jack 全书唯一一次主动交代自己的来处，而他选择的措辞仍然轻描淡写——他解释的其实不是笔名，而是「我为什么需要这个出口」。
 

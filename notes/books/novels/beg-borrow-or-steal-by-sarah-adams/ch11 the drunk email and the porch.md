@@ -61,7 +61,7 @@ modified: "2026-10-02"
 
 **关键词**：aimlessly（漫无目的地）、scares the shit out of me（吓得要死）、mustard seed（芥菜种子）
 
-**为什么这样写**：作者把「梦想」写成《安徒生》里那颗必须攀爬才能得到的豆子，再用 must（我必须）把这个童话固定住——这是她梦想的原点（读给女儿听的童话）。mustard seed 与 beanstalk 之间的距离，正是她此刻焦虑的量级：一颗种子已经长成她爬不上去的东西。而 Jack 之所以在回忆里插进来，正因为「我不敢」与「你说我敢」这一组对照，只有他能触发。
+**为什么这样写**：作者把「梦想」写成《安徒生》里那颗必须攀爬才能得到的豆子——她梦想的起点正是这个她自己读过的童话，而那颗种子如今已长成她够不着的东西。mustard seed 与 beanstalk 之间的距离，正是她此刻焦虑的量级：一颗种子已经长成她爬不上去的东西。而 Jack 之所以在回忆里插进来，正因为「我不敢」与「你说我敢」这一组对照，只有他能触发。
 
 **读者视角提示**：这是全书最清楚的一次伏笔回收：豆茎意象贯穿全书，这里第一次被拆开讲；读者从这一章起，应开始留意豆子、豆茎、爬这一组词。
 
@@ -77,7 +77,7 @@ modified: "2026-10-02"
 
 > **原句 7:** The only thought that crosses my mind is: Help. And there’s only one person that I really trust to fix it. For our feuds and faults through the years, there’s one thing I know without a doubt about Jackson—he is the most competent person I’ve ever met. That’s why he’s my greatest rival. If anyone can find a way to get my email back into my computer, it’s him.
 
-**中文理解**：唯一掠过我脑海的念头是：求助。而我真正信得过能摆平这件事的人，只有一个。
+**中文理解**：唯一掠过我脑海的念头是：求助。而我真正信得过能摆平这件事的人，只有一个。这些年来我们之间的恩怨与过错，让我对 Jackson 有一件事毫不怀疑——他是我见过最能干的人。也正因如此，他才是我最大的对手。要是有谁能把我那封已经发出去的邮件弄回我电脑里，那就只有他。
 
 **关键词**：The only thought that crosses my mind（唯一掠过我脑海的念头）、there’s only one person（只有一个人）
 
