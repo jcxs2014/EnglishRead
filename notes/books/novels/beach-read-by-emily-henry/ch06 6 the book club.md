@@ -133,7 +133,6 @@ source_text: "text/ch06 6 the book club.txt"
 | Bluetooth shmootooth | 「蓝牙 smooothe」（拖长音的即兴词） | “Bluetooth shmootooth,” Pete was saying. |
 | a fistful of mini marshmallows | 一小把迷你棉花糖 | The only thing I could be sure I’d eaten was the fistful of mini marshmallows I’d grabbed on my way to a much-needed pee break. |
 | the hardest night you have all summer | 你整个夏天最难熬的一晚 | “This will be the hardest night you have all summer,” I whispered. |
-| the one and only | 独一无二的那位（宣传册套语） | “Girls,” Pete said, “I believe you all know the one and only Augustus Everett?” |
 | a college junior's backup pot dealer | 大学生高年级的替补毒贩 | He could show up looking like a college junior’s backup pot dealer (for when the first one was in Myrtle Beach) and still get taken more seriously than I would in my stuffy Michael Kors dress. |
 | wine-slick wheels | 被酒浸得打滑的轮子 | My mind spun its feeble, wine-slick wheels trying to figure out what bothered me so much about the moment. |
 | didn't look horrified so much as bemused | 与其说震惊不如说被逗乐 | He didn’t look horrified so much as bemused, like he thought someone was playing a prank on him but he wasn’t confident enough to call it out yet. |
@@ -169,6 +168,7 @@ source_text: "text/ch06 6 the book club.txt"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| the one and only | 独一无二的那位（宣传册套语） | “Girls,” Pete said, “I believe you all know the one and only Augustus Everett?” |
 | a nautical-themed bathroom | 一间航海主题的洗手间 | I twisted the top off the wine and poured it down my throat, right there in the nautical-themed bathroom. |
 | the hardest night | 最难熬的一晚 | “This will be the hardest night you have all summer,” I whispered. |
 | Life could be grand | 人生可以很宏大 | I could get a job at Ponderosa Steakhouse. Life could be grand! |

@@ -139,7 +139,6 @@ source_text: "text/ch18 18 the ex.txt"
 | gum-popping | 嚼着泡泡糖的 | I sounded like a gum-popping babysitter trying to relate to her favorite Hot Divorced Dad. |
 | babysitter | 临时保姆 | I sounded like a gum-popping babysitter trying to relate to her favorite Hot Divorced Dad. |
 | imprisonment | 囚禁 | He just witnessed them, and somehow, that let them finally get out of my body after years of imprisonment. |
-| night-light | 小夜灯 | “Whatever you are,” I said, “it’s better than a night-light. |
 | circle-jerk fiction | 互吹小说 | I’d seen it again in Pete’s bookstore when I made a jab about him writing Hemingway circle-jerk fiction. |
 | permission | 允许 | I had begun to cry without giving myself permission to. |
 | half-formed | 半成形的、没成形的 | Gus let out a half-formed laugh. |
@@ -168,6 +167,7 @@ source_text: "text/ch18 18 the ex.txt"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| night-light | 小夜灯 | “Whatever you are,” I said, “it’s better than a night-light. |
 | a black hole | 一个黑洞 | You’re not a black hole. |
 | a bad joke | 一句烂玩笑 | “After she left, it seemed more like a bad joke. |
 | the black blot | 那团黑墨 | He shrugged one shoulder, then absently scratched the black blot. |

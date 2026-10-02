@@ -151,7 +151,7 @@ source_text: "text/ch20 20 the basement.txt"
 | a packaged costume | 一套包装好的戏服 | “You literally look like you bought that outfit in a packaged Teen Rebel costume from a Halloween shop. |
 | a lampshade | 一个灯罩 | This is too bright a light to hide under a bushel or a lampshade. |
 | objectifying | 把…当物件看待 | “And again, I’m seventeen in that picture,” he said. “Please stop objectifying child-me. |
-| frankly | 坦白说 | I said helplessly. |
+| helplessly | 无助地 | I said helplessly. |
 
 ### ⭐ 基础
 
@@ -162,7 +162,7 @@ source_text: "text/ch20 20 the basement.txt"
 | the boundaries | 界线 | And it seemed like neither of us could stop pushing the boundaries. |
 | a balconette | 一件胸衣（面料花边） | One of his hands grasped at my waist while the other slipped beneath the lace of my balconette, turning heavy circles on me. |
 | his calloused palms | 他长满老茧的手掌 | As soon as I’d dropped his shirt on the ground he grabbed me, his calloused palms brushing up my sides, gathering fabric as they went. |
-| my back | 我的背 | He leaned over my shoulder to get a better look, his hands scraping down my arms to rest on my hips. |
+| rest on my hips | 撑在我胯上 | He leaned over my shoulder to get a better look, his hands scraping down my arms to rest on my hips. |
 | the tool rack | 工具架 | My back met the cold edges of the tool rack, and his eyes swept down me and back up, leaving goose bumps in their wake. |
 | my chest hurt | 我的胸口疼 | When would handling something my dad had touched stop making my chest hurt so badly I couldn’t get a good breath? |
 | a single serving of | 一份 | I don’t think I can come to the party as I have recently discovered I cannot afford to bring even a single serving of potato salad. |
