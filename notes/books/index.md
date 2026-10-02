@@ -9,12 +9,14 @@ title: 书单
 ## 长篇小说
 | 书名 | 作者 |
 |------|------|
+| [365 Days of Wonder](books/novels/365-days-of-wonder-by-r-j-palacio/) | R. J. Palacio |
 | [A Cozy Holiday](books/novels/a-cozy-holiday-by-denise-stone-and-kels-stone/) | Denise Stone & Kels Stone |
 | [Adam, Mine.](books/novels/adam-mine-by-k-ancrum/) | K. Ancrum |
 | [Adrift](books/novels/adrift-by-ellie-pond/) | Ellie Pond |
 | [Affairs of State](books/novels/affairs-of-state-by-calvin-james/) | Calvin James |
 | [The Afterdark](books/novels/the-afterdark-by-e-latimer/) | E. Latimer |
 | [A History of Burning](books/novels/a-history-of-burning-by-janika-oza/) | Janika Oza |
+| [The Alchemist](books/novels/the-alchemist-by-paulo-coelho/) | Paulo Coelho |
 | [A Lesson in Deceit](books/novels/a-lesson-in-deceit-by-allie-shante/) | Allie Shante |
 | [All Our Yesterdays](books/novels/all-our-yesterdays-by-joel-h-morris/) | Joel H. Morris |
 | [Alls Fair in Love and Field Hockey](books/novels/alls-fair-in-love-and-field-hockey-by-kit-rosewater/) | Kit Rosewater |
@@ -24,20 +26,31 @@ title: 书单
 | [The Ancient Things](books/novels/the-ancient-things-by-bonnie-quinn/) | Bonnie Quinn |
 | [An Immaculate Deception](books/novels/an-immaculate-deception-by-isabela-livino/) | Isabela Livino |
 | [An Orchestra of Minorities](books/novels/an-orchestra-of-minorities-by-chigozie-obioma/) | Chigozie Obioma |
+| [A Real Animal](books/novels/a-real-animal-by-emeline-atwood/) | Emeline Atwood |
 | [A Real Paige Turner](books/novels/a-real-paige-turner-by-michelle-eileen/) | Michelle Eileen |
+| [The Art of Charming a Changeling](books/novels/the-art-of-charming-a-changeling-by-sylvie-cathrall/) | Sylvie Cathrall |
 | [A Sea of Unspoken Things](books/novels/a-sea-of-unspoken-things-by-adrienne-young/) | Adrienne Young |
 | [Asmodeus](books/novels/asmodeus-by-rita-indiana/) | Rita Indiana (trans. Achy Obejas) |
+| [Astarion](books/novels/astarion-by-t-kingfisher/) | T. Kingfisher |
 | [A Thousand Monstrous Forms](books/novels/a-thousand-monstrous-forms-by-saratoga-schaefer/) | Saratoga Schaefer |
 | [A Trade of Blood](books/mystery-thriller/a-trade-of-blood-by-robert-jackson-bennett/) | Robert Jackson Bennett |
+| [Battle of the Bookstores](books/novels/battle-of-the-bookstores-by-ali-brady/) | Ali Brady |
+| [Beach Read](books/novels/beach-read-by-emily-henry/) | Emily Henry |
+| [Beartooth](books/novels/beartooth-by-callan-wink/) | Callan Wink |
+| [Beg, Borrow, or Steal](books/novels/beg-borrow-or-steal-by-sarah-adams/) | Sarah Adams |
+| [The Beasts We Bury](books/novels/the-beasts-we-bury-by-d-l-taylor/) | D. L. Taylor |
 | [Big Little Lies](books/novels/big-little-lies-by-liane-moriarty/) | Liane Moriarty |
+| [Bird of a Thousand Stories](books/novels/bird-of-a-thousand-stories-by-kiyash-monsef/) | Kiyash Monsef |
 | [Bitter Sweet](books/novels/bitter-sweet-by-hattie-williams/) | Hattie Williams |
 | [Black Point](books/novels/black-point-by-jacqueline-west/) | Jacqueline West |
 | [Black River](books/novels/black-river-by-ruby-jean-cottle/) | Ruby Jean Cottle |
 | [Blacktail](books/novels/blacktail-by-scott-hawkins/) | Scott Hawkins |
+| [The Bones Beneath My Skin](books/novels/the-bones-beneath-my-skin-by-tj-klune/) | TJ Klune |
 | [Book Lovers](books/novels/book-lovers/) | Emily Henry |
 | [The Book of Doors](books/novels/the-book-of-doors-by-gareth-brown/) | Gareth Brown |
 | [The Book of Heartbreak](books/novels/the-book-of-heartbreak-by-ova-ceren/) | Ova Ceren |
 | [The Bookshop by the Bay](books/novels/the-bookshop-by-the-bay-by-pamela-m-kelley/) | Pamela M. Kelley |
+| [The Boy from the Sea](books/novels/the-boy-from-the-sea-by-garrett-carr/) | Garrett Carr |
 | [The Brides](books/novels/the-brides-by-charlotte-cross/) | Charlotte Cross |
 | [The Bucket List](books/novels/the-bucket-list-by-ali-parker/) | Ali Parker |
 | [The Burial Witch](books/novels/the-burial-witch-by-cari-thomas/) | Cari Thomas |
@@ -48,6 +61,7 @@ title: 书单
 | [Butterfly Girl](books/novels/butterfly-girl-by-sarah-floyd/) | Sarah Floyd |
 | [Cabin Fever](books/novels/cabin-fever-by-riley-parker/) | Riley Parker |
 | [The Calculating Stars](books/novels/the-calculating-stars-by-mary-robinette-kowal/) | Mary Robinette Kowal |
+| [The Capital of Dreams](books/novels/the-capital-of-dreams-by-heather-oneill/) | Heather O'Neill |
 | [Carmen and Grace](books/novels/carmen-and-grace-by-melissa-coss-aquino/) | Melissa Coss Aquino |
 | [The Cafe at Beach End](books/novels/the-cafe-at-beach-end-by-raeanne-thayne/) | RaeAnne Thayne |
 | [The Castle & the Cloister](books/novels/the-castle-the-cloister-by-laura-e-weymouth/) | Laura E. Weymouth |
@@ -56,21 +70,29 @@ title: 书单
 | [Clear](books/novels/clear-by-carys-davies/) | Carys Davies |
 | [The Coral Bones](books/novels/the-coral-bones-by-e-j-swift/) | E. J. Swift |
 | [Daggerbound](books/novels/daggerbound-by-t-kingfisher/) | T. Kingfisher |
+| [Deathless](books/novels/deathless-by-julie-kagawa/) | Julie Kagawa |
 | [Demon in the Sand](books/novels/demon-in-the-sand-by-e-k-johnston/) | E.K. Johnston |
 | [Demons and Diplomacy](books/novels/demons-and-diplomacy-by-megan-frampton/) | Megan Frampton |
+| [Diana in Love](books/novels/diana-in-love-by-jen-besser-and-shana-feste/) | Jen Besser & Shana Feste |
 | [Dominion](books/novels/dominion-by-jean-kwok/) | Jean Kwok |
 | [The Do-Over](books/novels/the-do-over-by-suzanne-park/) | Suzanne Park |
 | [Don't Look at Me Like That](books/novels/dont-look-at-me-like-that-by-diana-athill/) | Diana Athill |
+| [The Dream Hotel](books/novels/the-dream-hotel-by-laila-lalami/) | Laila Lalami |
 | [Dreamland](books/novels/dreamland-by-olivie-blake/) | Olivie Blake |
 | [Ducks, Newburyport](books/novels/ducks-newburyport-by-lucy-ellmann/) | Lucy Ellmann |
 | [Earl Crush](books/novels/earl-crush-by-alexandra-vasi/) | Alexandra Vasti |
 | [Eat Post Like](books/novels/eat-post-like-by-emily-arden-wells/) | Emily Arden Wells |
+| [The Edge of Water](books/novels/the-edge-of-water-by-olufunke-grace-bankole/) | Olufunke Grace Bankole |
 | [Eight Tastes of Treachery](books/novels/eight-tastes-of-treachery-by-ryan-rose/) | Ryan Rose, Kerby Rosanes, Jane Tibbetts |
 | [The Eleventh Hour](books/novels/the-eleventh-hour-by-salman-rushdie/) | Salman Rushdie |
 | [Eliza, from Scratch](books/novels/eliza-from-scratch-by-sophia-lee/) | Sophia Lee |
 | [Embrace](books/novels/embrace-by-bal-khabra/) | Bal Khabra |
+| [Empire](books/novels/empire-by-sabaa-tahir/) | Sabaa Tahir |
+| [Ends of the Earth](books/novels/ends-of-the-earth-by-neil-shubin/) | Neil Shubin |
 | [Everything Is Fine Here](books/novels/everything-is-fine-here-by-iryn-tushabe/) | Iryn Tushabe |
+| [Everything Is Poison](books/novels/everything-is-poison-by-joy-mccullough/) | Joy McCullough |
 | [Everything Was Beautiful and Nothing Hurt](books/novels/everything-was-beautiful-and-nothing-hurt-by-ben-reeves/) | Ben Reeves |
+| [Evie and Her Nightmares](books/novels/evie-and-her-nightmares-by-francesca-zappia/) | Francesca Zappia |
 | [Exit Party](books/novels/exit-party-by-emily-st-john-mandel/) | Emily St. John Mandel |
 | [eye of Leviathan](books/novels/eye-of-leviathan-by-m-a-carrick/) | M. A. Carrick |
 | [Eyes of Kings](books/novels/eyes-of-kings-by-chloe-gong/) | Chloe Gong |
@@ -79,43 +101,59 @@ title: 书单
 | [The Fall Risk](books/novels/the-fall-risk-by-abby-jimenez/) | Abby Jimenez |
 | [Favorite Daughter](books/novels/favorite-daughter-by-morgan-dick/) | Morgan Dick |
 | [Find My Way Down to You](books/novels/find-my-way-down-to-you-by-julian-winters/) | Julian Winters |
+| [The Fine Print](books/novels/the-fine-print-by-lauren-asher/) | Lauren Asher |
 | [Fishbone Cinderella](books/novels/fishbone-cinderella-by-elizabeth-lim/) | Elizabeth Lim |
+| [Flashlight](books/novels/flashlight-by-susan-choi/) | Susan Choi |
 | [Flesh](books/novels/flesh-by-david-szalay/) | David Szalay |
 | [Floating Hotel](books/novels/floating-hotel-by-grace-curtis/) | Grace Curtis |
+| [Fold Catastrophes](books/novels/fold-catastrophes-by-peter-watts/) | Peter Watts |
 | [Fulfillment](books/novels/fulfillment-by-lee-cole/) | Lee Cole |
 | [The Garnett Girls](books/novels/the-garnett-girls-by-georgina-moore/) | Georgina Moore |
 | [The German Wife](books/novels/the-german-wife-by-kelly-rimmer/) | Kelly Rimmer |
 | [Getaway Girl](books/novels/getaway-girl-by-tessa-bailey/) | Tessa Bailey |
+| [Give Me Butterflies](books/novels/give-me-butterflies-by-jillian-meadows/) | Jillian Meadows |
 | [The Giver](books/novels/the-giver-by-lois-lowry/) | Lois Lowry |
 | [The Glass Girl](books/novels/the-glass-girl-by-kathleen-glasgow/) | Kathleen Glasgow |
 | [Go as a River](books/novels/go-as-a-river-by-shelley-read/) | Shelley Read |
 | [Golden Boy](books/novels/golden-boy-by-a-j-symon/) | A.J. Symon |
+| [Good Good Loving](books/novels/good-good-loving-by-yvvette-edwards/) | Yvvette Edwards |
 | [Green City Wars](books/novels/green-city-wars-by-adrian-tchaikovsky/) | Adrian Tchaikovsky |
 | [The Green Road](books/novels/the-green-road-by-anne-enright/) | Anne Enright |
 | [Grim Tidings](books/novels/grim-tidings-by-b-k-borison/) | B.K. Borison |
 | [Guardians of Dawn: Suhwa](books/novels/guardians-of-dawn-suhwa-by-s-jae-jones/) | S. Jae-Jones |
+| [Happily Ever Afterlife](books/novels/happily-ever-afterlife-by-emma-r-alban/) | Emma R. Alban |
+| [The Handmaid's Tale](books/novels/the-handmaids-tale-by-margaret-atwood/) | Margaret Atwood |
 | [The Happiness Blueprint](books/novels/the-happiness-blueprint-by-ally-zetterberg/) | Ally Zetterberg |
 | [The Harpy Knight](books/novels/the-harpy-knight-by-sara-omer/) | Sara Omer |
 | [Heir of Prophecy](books/novels/heir-of-prophecy-by-analeigh-sbrana/) | Analeigh Sbrana |
+| [Heirs of the Cursed](books/novels/heirs-of-the-cursed-by-denna-selen-and-l-c-emerson/) | Denna Selen & L.C. Emerson |
 | [Hello Beautiful](books/novels/hello-beautiful-by-ann-napolitano/) | Ann Napolitano |
 | [Hell to Pay](books/novels/hell-to-pay-by-lora-beth-johnson/) | Lora Beth Johnson |
 | [Helm](books/novels/helm-by-sarah-hall/) | Sarah Hall |
 | [Here One Moment](books/novels/here-one-moment-by-liane-moriarty/) | Liane Moriarty |
+| [Homeseeking](books/novels/homeseeking-by-karissa-chen/) | Karissa Chen |
 | [Home Sick](books/novels/home-sick-by-rhiannon-grist/) | Rhiannon Grist |
 | [The House of Eve](books/novels/the-house-of-eve-by-sadeqa-johnson/) | Sadeqa Johnson |
 | [How Much of These Hills Is Gold](books/novels/how-much-of-these-hills-is-gold-by-c-pam-zhang/) | C. Pam Zhang |
 | [How to Tell a True Story](books/novels/how-to-tell-a-true-story-by-tricia-springstubb/) | Tricia Springstubb |
 | [I Am Homeless If This Is Not My Home](books/novels/i-am-homeless-if-this-is-not-my-home-by-lorrie-moore/) | Lorrie Moore |
+| [I Am Not Jessica Chen](books/novels/i-am-not-jessica-chen-by-ann-liang/) | Ann Liang |
 | [I Can't Save You](books/novels/i-cant-save-you-by-anthony-chin-quee/) | Anthony Chin-Quee |
+| [I Don't Need Your Romance](books/novels/i-dont-need-your-romance-by-emma-dalton/) | Emma Dalton |
 | [If Tomorrow Comes](books/novels/if-tomorrow-comes-by-sidney-sheldon/) | Sidney Sheldon |
 | [If You've Got It, Haunt It](books/novels/if-youve-got-it-haunt-it-by-lana-wren/) | Lana Wren |
 | [I Have Some Questions for You](books/novels/i-have-some-questions-for-you-by-rebecca-makkai/) | Rebecca Makkai |
 | [I Hope This Email Finds You in Hell](books/novels/i-hope-this-email-finds-you-in-hell-by-mackenzie-reed/) | Mackenzie Reed |
 | [I Loved You in Another Life](books/novels/i-loved-you-in-another-life-by-david-arnold/) | David Arnold |
+| [Immortal](books/novels/immortal-by-sue-lynn-tan/) | Sue Lynn Tan |
 | [The Impossible Garden of Clara Thorne](books/novels/the-impossible-garden-of-clara-thorne-by-summer-n-england/) | Summer N. England |
 | [In a Heartbeat](books/novels/in-a-heartbeat-by-ali-novak/) | Ali Novak |
+| [In A Rush](books/novels/in-a-rush-by-kate-canterbary/) | Kate Canterbary |
+| [Incarnate](books/novels/incarnate-by-alma-katsu/) | Alma Katsu |
+| [Interference](books/novels/interference-by-cala-riley/) | Cala Riley |
 | [Inverno](books/novels/inverno-by-cynthia-zarin/) | Cynthia Zarin |
 | [The Invisible Life of Addie LaRue](books/novels/the-invisible-life-of-addie-laud-by-v-e-schwab/) | V.E. Schwab |
+| [Isle of Teeth](books/novels/isle-of-teeth-by-tessa-barbosa/) | Tessa Barbosa |
 | [It Comes from the River](books/novels/it-comes-from-the-river-by-rachel-bower/) | Rachel Bower |
 | [Jane Eyre](books/novels/jane-eyre-by-charlotte-bronte/) | Charlotte Brontë |
 | [Kiss Slay Replay](books/novels/kiss-slay-replay-by-rachel-harrison/) | Rachel Harrison |
@@ -134,19 +172,26 @@ title: 书单
 | [The Librarian Spy](books/novels/the-librarian-spy-by-madeline-martin/) | Madeline Martin |
 | [The Library of Heartbeats](books/novels/the-library-of-heartbeats-by-laura-imai-messina/) | Laura Imai-Messina |
 | [Life, and Death, and Giants](books/novels/life-and-death-and-giants-by-ron-rindo/) | Ron Rindo |
+| [The Life Cycle of the Common Octopus](books/novels/the-life-cycle-of-the-common-octopus-by-emma-knight/) | Emma Knight |
 | [Lives of Girls and Women](books/novels/lives-of-girls-and-women-by-alice-munro/) | Alice Munro |
 | [Local Gods](books/novels/local-gods-by-melinda-salisbury/) | Melinda Salisbury |
 | [The Lonely Hearts Book Club](books/novels/the-lonely-hearts-book-club-by-lucy-gilmore/) | Lucy Gilmore |
 | [Lonely Mouth](books/novels/lonely-mouth-by-jacqueline-maley/) | Jacqueline Maley |
 | [Lost and Found](books/novels/lost-and-found-by-tarah-dewitt/) | Tarah DeWitt |
+| [The Lost Orchid](books/novels/the-lost-orchid-by-sarah-bilston/) | Sarah Bilston |
+| [The Lost Spectacular](books/novels/the-lost-spectacular-by-zoe-duhaime/) | Zoé Duhaime |
+| [The Lotus Shoes](books/novels/the-lotus-shoes-by-jane-yang/) | Jane Yang |
 | [The Loved One](books/novels/the-loved-one-by-evelyn-waugh/) | Evelyn Waugh |
 | [The Love Hypothesis](books/novels/the-love-hypothesis-by-ali-hazelwood/) | Ali Hazelwood |
+| [Love on the Brain](books/novels/love-on-the-brain-by-ali-hazelwood/) | Ali Hazelwood |
 | [Love Sick](books/novels/love-sick-by-deidra-duncan/) | Deidra Duncan |
+| [Love, Theoretically](books/novels/love-theoretically-by-ali-hazelwood/) | Ali Hazelwood |
 | [Lucy by the Sea](books/novels/lucy-by-the-sea-by-elizabeth-strout/) | Elizabeth Strout |
 | [Make or Break](books/novels/make-or-break-by-e-j-noyes/) | E.J. Noyes |
 | [Martyr!](books/novels/martyr-by-kaveh-akbar/) | Kaveh Akbar |
 | [Massif](books/novels/massif-by-garth-nix/) | Garth Nix |
 | [Maybe Next Time](books/novels/maybe-next-time-by-cesca-major/) | Cesca Major |
+| [Maybe Once, Maybe Twice](books/novels/maybe-once-maybe-twice-by-alison-rose-greenberg/) | Alison Rose Greenberg |
 | [Meant For Me](books/novels/meant-for-me-by-betsy-st-amant/) | Betsy St. Amant |
 | [Meet Cute Magic](books/novels/meet-cute-magic-by-morgan-elizabeth/) | Morgan Elizabeth |
 | [Meet Me at Midnight](books/novels/meet-me-at-midnight-by-brianna-bourne/) | Brianna Bourne |
@@ -154,18 +199,35 @@ title: 书单
 | [The Merry Matchmaker](books/novels/the-merry-matchmaker-by-sheila-roberts/) | Sheila Roberts |
 | [Metronome](books/novels/metronome-by-tom-watson/) | Tom Watson |
 | [Misery's Wife](books/novels/miserys-wife-by-joan-tierney/) | Joan Tierney |
+| [Miss Bates](books/novels/miss-bates-by-catherine-cliff/) | Catherine Cliff |
+| [The Mismatch of the Season](books/novels/the-mismatch-of-the-season-by-michelle-kenney/) | Michelle Kenney |
+| [The Moon Papers](books/novels/the-moon-papers-by-emmalea-russo/) | Emmalea Russo |
 | [The Morningside](books/novels/the-morningside-by-tea-obreht/) | Téa Obreht |
 | [Much Ado About Nada](books/novels/much-ado-about-nada-by-uzma-jalaluddin/) | Uzma Jalaluddin |
 | [Mudlark](books/novels/mudlark-by-mary-helen-specht/) | Mary Helen Specht |
 | [My Husband's Wife](books/novels/my-husbands-wife-by-alice-feeney/) | Alice Feeney |
+| [Mystery Guest](books/novels/mystery-guest-by-maren-stoffels/) | Maren Stoffels |
+| [Nemesis Mine](books/novels/nemesis-mine-by-amy-archer/) | Amy Archer |
+| [Never Gamble Your Heart](books/novels/never-gamble-your-heart-by-lindsay-lovise/) | Lindsay Lovise |
+| [Never Let Me Go](books/novels/never-let-me-go-by-kazuo-ishiguro/) | Kazuo Ishiguro |
+| [Never Thought I'd End Up Here](books/novels/never-thought-id-end-up-here-by-ann-liang/) | Ann Liang |
 | [New Skin](books/novels/new-skin-by-miranda-nation/) | Miranda Nation |
 | [The New Wilderness](books/novels/the-new-wilderness-by-diane-cook/) | Diane Cook |
+| [The Night Always Comes](books/novels/the-night-always-comes-by-willy-vlautin/) | Willy Vlautin |
 | [The Night Circus](books/novels/the-night-circus-by-erin-morgenstern/) | Erin Morgenstern |
 | [The Night Pool](books/novels/the-night-pool-by-lauren-lee-smith/) | Lauren Lee Smith |
 | [Nine Perfect Strangers](books/novels/nine-perfect-strangers-by-liane-moriarty/) | Liane Moriarty |
 | [Nine Women, One Dress](books/novels/nine-women-one-dress-by-jane-l-rosen/) | Jane L. Rosen |
 | [No Take Backs](books/novels/no-take-backs-by-taylor-wilson-west/) | Taylor Wilson-West |
+| [Null Entity](books/novels/null-entity-by-seth-haddon/) | Seth Haddon |
+| [October Daye 20 - Divided Duty](books/novels/october-daye-20-divided-duty-by-seanan-mcguire/) | Seanan McGuire |
+| [Once Smitten, Twice Shy](books/novels/once-smitten-twice-shy-by-chloe-liese/) | Chloe Liese |
+| [The Ocean at the End of the Lane](books/novels/the-ocean-at-the-end-of-the-lane-by-neil-gaiman/) | Neil Gaiman |
 | [Only a Monster](books/novels/only-a-monster-by-vanessa-len/) | Vanessa Len |
+| [Our Cut of Salt](books/novels/our-cut-of-salt-by-deena-helm/) | Deena Helm |
+| [Out of the Woods](books/novels/out-of-the-woods-by-hannah-bonam-young/) | Hannah Bonam-Young |
+| [Pachinko](books/novels/pachinko-by-min-jin-lee/) | Min Jin Lee |
+| [The Only Way Out Is Up](books/novels/the-only-way-out-is-up-by-django-wexler/) | Django Wexler |
 | [Parable of the Talents](books/novels/parable-of-the-talents-by-octavia-e-butler/) | Octavia E. Butler |
 | [The Paris Agent](books/novels/the-paris-agent-by-kelly-rimmer/) | Kelly Rimmer |
 | [The Paris Deception](books/novels/the-paris-deception-by-bryn-turnbull/) | Bryn Turnbull |
@@ -177,9 +239,11 @@ title: 书单
 | [Preaching to the Choir](books/novels/preaching-to-the-choir-by-adrian-tchaikovsky/) | Adrian Tchaikovsky |
 | [Pretty Bossy](books/novels/pretty-bossy-by-arini-vlotman/) | Arini Vlotman |
 | [Pride and Prejudice](books/novels/pride-and-prejudice-by-jane-austen/) | Jane Austen |
+| [Problematic Summer Romance](books/novels/problematic-summer-romance-by-ali-hazelwood/) | Ali Hazelwood |
 | [The Promise](books/novels/the-promise-by-damon-galgut/) | Damon Galgut |
 | [The Raven and the Reindeer](books/novels/the-raven-and-the-reindeer-by-t-kingfisher/) | T. Kingfisher |
 | [Real Life](books/novels/real-life-by-brandon-taylor/) | Brandon Taylor |
+| [Recipe for Rivals](books/novels/recipe-for-rivals-by-kasey-stockton/) | Kasey Stockton |
 | [Redhead by the Side of the Road](books/novels/redhead-by-the-side-of-the-road-by-anne-tyler/) | Anne Tyler |
 | [The Red Scholar's Wake](books/novels/the-red-scholars-wake-by-aliette-de-bodard/) | Aliette de Bodard |
 | [Reliquary](books/novels/reliquary-by-hannah-whitten/) | Hannah Whitten |
@@ -188,6 +252,7 @@ title: 书单
 | [The Room in the Ground](books/novels/the-room-in-the-ground-by-john-ajvide-lindqvist/) | John Ajvide Lindqvist |
 | [Rooted](books/novels/rooted-by-leopoldo-gout/) | Leopoldo Gout |
 | [The Rose Bargain](books/novels/the-rose-bargain-by-sasha-peyton-smith/) | Sasha Peyton Smith |
+| [The Rules of Fortune](books/novels/the-rules-of-fortune-by-danielle-prescod/) | Danielle Prescod |
 | [The Runaway Duchess](books/novels/the-runaway-duchess-by-alda-kazmierczak/) | Alda Kazmierczak |
 | [The Saint of Bright Doors](books/novels/the-saint-of-bright-doors-by-vajra-chandrasekera/) | Vajra Chandrasekera |
 | [Save What's Left](books/novels/save-whats-left-by-elizabeth-castellano/) | Elizabeth Castellano |
@@ -195,42 +260,71 @@ title: 书单
 | [The Secret Wife](books/novels/the-secret-wife-by-paul-gill/) | Paul Gill |
 | [Season of the Serpent](books/novels/season-of-the-serpent-by-suyi-davies-okungbowa/) | Suyi Davies Okungbowa |
 | [See You Yesterday](books/novels/see-you-yesterday-by-rachel-lynn-solomon/) | Rachel Lynn Solomon |
+| [The Seven Husbands of Evelyn Hugo](books/novels/the-seven-husbands-of-evelyn-hugo-by-taylor-jenkins-reid/) | Taylor Jenkins Reid |
 | [The Shadow King](books/novels/the-shadow-king-by-maaza-mengiste/) | Maaza Mengiste |
 | [She Haunts Me Still](books/novels/she-haunts-me-still-by-de-elizabeth/) | De Elizabeth |
+| [The Snowbirds](books/novels/the-snowbirds-by-christina-clancy/) | Christina Clancy |
 | [Some Desperate Glory](books/novels/some-desperate-glory-by-emily-tesh/) | Emily Tesh |
+| [Some Other Time](books/novels/some-other-time-by-angela-brown/) | Angela Brown |
+| [Sometimes I Scare Myself](books/novels/sometimes-i-scare-myself-by-jeneva-rose/) | Jeneva Rose |
+| [The South](books/novels/the-south-by-tash-aw/) | Tash Aw |
 | [So We Meet Again](books/novels/so-we-meet-again-by-suzanne-park/) | Suzanne Park |
+| [The Spanish Love Deception](books/novels/the-spanish-love-deception-by-elena-armas/) | Elena Armas |
 | [Spellcast](books/novels/spellcast-by-sophie-jordan/) | Sophie Jordan |
 | [Strange Is the Light](books/novels/strange-is-the-light-by-sarah-maria-griffin/) | Sarah Maria Griffin |
 | [Strange Lights](books/novels/strange-lights-by-mira-gonzalez/) | Mira Gonzalez |
+| [Stuck with You](books/novels/stuck-with-you-by-ali-hazelwood/) | Ali Hazelwood |
+| [Styx The River](books/novels/styx-the-river-by-nikita-gill/) | Nikita Gill |
 | [Such a Fun Age](books/novels/such-a-fun-age-by-kiley-reid/) | Kiley Reid |
+| [Sunrise on the Reaping](books/novels/sunrise-on-the-reaping-by-suzanne-collins/) | Suzanne Collins |
 | [The Sweet Chef](books/novels/the-sweet-chef-and-the-corporate-queen-by-susanne-ash/) | Susanne Ash |
 | [Taipei Story](books/novels/taipei-story-by-r-f-kuang/) | R.F. Kuang |
+| [Take a Chance, Sasha Sinclair](books/novels/take-a-chance-sasha-sinclair-by-ashley-herring-blake/) | Ashley Herring Blake |
 | [Taken](books/novels/taken-by-sinistre-ange/) | Sinistre Ange |
 | [That First Flight](books/novels/that-first-flight-by-jenn-mcmahon/) | Jenn McMahon |
+| [The Thief and the Traitor Bride](books/novels/the-thief-and-the-traitor-bride-by-v-l-bovalino/) | V. L. Bovalino |
+| [Theft](books/novels/theft-by-abdulrazak-gurnah/) | Abdulrazak Gurnah |
+| [Their Shadows Deep](books/novels/their-shadows-deep-by-peter-golden/) | Peter Golden |
+| [There's Something About Mira](books/novels/theres-something-about-mira-by-sonali-dev/) | Sonali Dev |
+| [These Vengeful Wishes](books/novels/these-vengeful-wishes-by-vanessa-montalban/) | Vanessa Montalban |
 | [The Things We Cherished](books/novels/the-things-we-cherished-by-pam-jenoff/) | Pam Jenoff |
 | [Things We Fake](books/novels/things-we-fake-by-melinda-de-ross/) | Melinda De Ross |
 | [Things We Never Got Over](books/novels/things-we-never-got-over-by-lucy-score/) | Lucy Score |
+| [This Divine Revelry](books/novels/this-divine-revelry-by-bea-fitzgerald/) | Bea Fitzgerald |
 | [This Thing Between Us](books/novels/this-thing-between-us-by-gus-morales/) | Gus Morales |
+| [This Time Tomorrow](books/novels/this-time-tomorrow-by-emma-straub/) | Emma Straub |
 | [Ticket to Mars](books/novels/ticket-to-mars-by-kieran-fanning/) | Kieran Fanning |
 | [The Tinder Box](books/novels/the-tinder-box-by-m-r-carey/) | M.R. Carey |
 | [Tomorrow, and Tomorrow, and Tomorrow](books/novels/tomorrow-and-tomorrow-and-tomorrow-by-gabrielle-zevin/) | Gabrielle Zevin |
 | [Tomorrow in the Battle Think on Me](books/novels/tomorrow-in-the-battle-think-on-me-by-javier-marias/) | Javier Marías |
 | [Traitors' Nest](books/novels/traitors-nest-by-frances-hardinge/) | Frances Hardinge |
 | [Translation State](books/novels/translation-state-by-ann-leckie/) | Ann Leckie |
+| [Trouble Was](books/novels/trouble-was-by-charlotte-edwardes/) | Charlotte Edwardes |
+| [Twist](books/novels/twist-by-colum-mccann/) | Colum McCann |
+| [Twisted Lies](books/novels/twisted-lies-by-ana-huang/) | Ana Huang |
 | [Two Wars and a Wedding](books/novels/two-wars-and-a-wedding-by-lauren-willig/) | Lauren Willig |
+| [The Unsolvable Case](books/novels/the-unsolvable-case-by-courtney-smyth/) | Courtney Smyth |
+| [Under the Same Stars](books/novels/under-the-same-stars-by-libba-bray/) | Libba Bray |
+| [Unloved](books/novels/unloved-by-peyton-corinne/) | Peyton Corinne |
 | [Until August](books/novels/until-august-by-gabriel-garcia-marquez/) | Gabriel García Márquez |
 | [Up in Molten Lights](books/novels/up-in-molten-lights-by-eb-golden/) | E.B. Golden |
 | [Waking the Warriors](books/novels/waking-the-warriors-by-ben-okri/) | Ben Okri |
 | [We Rip the World Apart](books/novels/we-rip-the-world-apart-by-charlene-carr/) | Charlene Carr |
 | [What If It's You](books/novels/what-if-its-you-by-jilly-gagnon/) | Jilly Gagnon |
+| [What We Give Away](books/novels/what-we-give-away-by-paulette-stout/) | Paulette Stout |
 | [Who Is the Liar](books/novels/who-is-the-liar-by-laura-lee-bahr/) | Laura Lee Bahr |
+| [Wickhills](books/novels/wickhills-by-premee-mohamed/) | Premee Mohamed |
 | [Wild Dark Shore](books/novels/wild-dark-shore-by-charlotte-mcconaghy/) | Charlotte McConaghy |
 | [The Wild Huntress](books/novels/the-wild-huntress-by-emily-lloyd-jones/) | Emily Lloyd-Jones |
+| [The Winter Folk](books/novels/the-winter-folk-by-jen-julian/) | Jen Julian |
+| [Wings of Starlight](books/novels/wings-of-starlight-by-allison-saft/) | Allison Saft |
 | [The Wizard Who Kept Himself Suspicious](books/novels/the-wizard-who-kept-himself-suspicious-by-scott-lynch/) | Scott Lynch |
 | [Wolf at the Table](books/novels/wolf-at-the-table-by-adam-rapp/) | Adam Rapp |
 | [Wolftamer](books/novels/wolftamer-by-maggie-rapier/) | Maggie Rapier |
+| [Work, Consumerism and the New Poor](books/novels/work-consumerism-and-the-new-poor-by-zygmunt-bauman/) | Zygmunt Bauman |
 | [Worlds Collide](books/novels/worlds-collide-by-clint-hall/) | Clint Hall |
 | [Yellow Wife](books/novels/yellow-wife-by-sadeqa-johnson/) | Sadeqa Johnson |
+| [You Between the Lines](books/novels/you-between-the-lines-by-katie-naymon/) | Katie Naymon |
 | [You Did Nothing Wrong](books/novels/you-did-nothing-wrong-by-c-g-drews/) | C. G. Drews |
 | [Your Boyfriend Needs an Exorcist](books/novels/your-boyfriend-needs-an-exorcist-by-justine-pucella-winans/) | Justine Pucella Winans |
 | [You Were Never Not Mine](books/novels/you-were-never-not-mine-by-monica-murphy/) | Monica Murphy |
@@ -245,24 +339,39 @@ title: 书单
 | [Before She Finds Me](books/mystery-thriller/before-she-finds-me-by-heather-chavez/) | Heather Chavez |
 | [Blue Arrow Island](books/mystery-thriller/blue-arrow-island-by-brenda-rothert/) | Brenda Rothert |
 | [The Boyfriend](books/mystery-thriller/the-boyfriend-by-freida-mcfadden/) | Freida McFadden |
+| [Bright Girl](books/mystery-thriller/bright-girl-by-nancy-basile/) | Nancy Basile |
 | [Broken Light](books/mystery-thriller/broken-light-by-joanne-harris/) | Joanne Harris |
 | [The Burnings](books/mystery-thriller/the-burnings-by-naomi-kelsey/) | Naomi Kelsey |
+| [Carry Me to My Grave](books/mystery-thriller/carry-me-to-my-grave-by-christopher-golden/) | Christopher Golden |
+| [Darling Girls](books/mystery-thriller/darling-girls-by-sally-hepworth/) | Sally Hepworth |
 | [The Death of Us](books/mystery-thriller/the-death-of-us-by-lori-rader-day/) | Lori Rader-Day |
+| [Devil Inside](books/mystery-thriller/devil-inside-by-clay-mcleod-chapman/) | Clay McLeod Chapman |
+| [The Drowning Woman](books/mystery-thriller/the-drowning-woman-by-robyn-harding/) | Robyn Harding |
 | [Forest of Scars](books/mystery-thriller/forest-of-scars-by-dan-padavona/) | Dan Padavona |
 | [Forgotten Sisters](books/mystery-thriller/forgotten-sisters-by-cynthia-pelayo/) | Cynthia Pelayo |
 | [Fox](books/mystery-thriller/fox-by-joyce-carol-oates/) | Joyce Carol Oates |
 | [Destination Funeral](books/novels/destination-funeral-by-paige-harbison/) | Paige Harbison |
+| [Funerals Are for the Living](books/mystery-thriller/funerals-are-for-the-living-by-sami-ellis/) | Sami Ellis |
+| [Guilty Until Innocent](books/mystery-thriller/guilty-until-innocent-by-robert-whitlow/) | Robert Whitlow |
 | [House of Glass](books/mystery-thriller/house-of-glass-by-sarah-pekkanen/) | Sarah Pekkanen |
 | [The Ghost of You](books/mystery-thriller/the-ghost-of-you-by-michael-gray-bulla/) | Michael Gray Bulla |
 | [How to Solve Your Own Murder](books/mystery-thriller/how-to-solve-your-own-murder-by-kristen-perrin/) | Kristen Perrin |
 | [I Found a Body](books/mystery-thriller/i-found-a-body-by-becky-c-brynolf/) | Becky C. Brynolf |
+| [In the Woods They Wait](books/mystery-thriller/in-the-woods-they-wait-by-carrie-lee-south/) | Carrie Lee South |
+| [Jenny Will Eat You Now](books/mystery-thriller/jenny-will-eat-you-now-by-gillian-daniels/) | Gillian Daniels |
 | [Last Girl Breathing](books/mystery-thriller/last-girl-breathing-by-court-stevens/) | Court Stevens |
 | [Lies and Dolls](books/mystery-thriller/lies-and-dolls-by-nev-fountain/) | Nev Fountain |
+| [Lies on the Serpent's Tongue](books/mystery-thriller/lies-on-the-serpents-tongue-by-kate-pearsall/) | Kate Pearsall |
 | [Lost](books/mystery-thriller/lost-by-jenn-bullard/) | Jenn Bullard |
 | [Lottery of Secrets](books/mystery-thriller/lottery-of-secrets-by-nadija-mujagic/) | Nadija Mujagic |
+| [Mazywood](books/mystery-thriller/mazywood-by-tananarive-due/) | Tananarive Due |
+| [The Man](books/mystery-thriller/the-man-by-laura-sims/) | Laura Sims |
+| [The Ruins](books/mystery-thriller/the-ruins-by-steve-wick/) | Steve Wick |
 | [She's a Doll](books/mystery-thriller/shes-a-doll-by-barbara-truelove/) | Barbara Truelove |
 | [Silenced](books/mystery-thriller/silenced-by-ann-claycomb/) | Ann Claycomb |
+| [The Sirens](books/mystery-thriller/the-sirens-by-emilia-hart/) | Emilia Hart |
 | [Society of Lies](books/mystery-thriller/society-of-lies-by-lauren-ling-brown/) | Lauren Ling Brown |
+| [Star Circle](books/mystery-thriller/star-circle-by-davis-bunn/) | Davis Bunn |
 | [Stay Buried](books/mystery-thriller/stay-buried-by-jennifer-mcmahon/) | Jennifer McMahon |
 | [Natural Selection](books/mystery-thriller/natural-selection-by-clare-edge/) | Clare Edge |
 | [One by One](books/mystery-thriller/one-by-one-by-j-l-brooks/) | J.L. Brooks |
@@ -272,11 +381,16 @@ title: 书单
 | [The Girl from the War Room](books/mystery-thriller/the-girl-from-the-war-room-by-catherine-law/) | Catherine Law |
 | [The Italian Secret](books/mystery-thriller/the-italian-secret-by-tara-moss/) | Tara Moss |
 | [The Lost Village](books/mystery-thriller/the-lost-village-by-camilla-sten/) | Camilla Sten |
+| [Sweet Fury](books/mystery-thriller/sweet-fury-by-sash-bischoff/) | Sash Bischoff |
+| [The Stolen Queen](books/mystery-thriller/the-stolen-queen-by-fiona-davis/) | Fiona Davis |
 | [The Teacher](books/mystery-thriller/the-teacher-by-freida-mcfadden/) | Freida McFadden |
 | [The Tenants](books/mystery-thriller/the-tenants-by-m-a-hunter/) | M.A. Hunter |
+| [That's Not My Name](books/mystery-thriller/thats-not-my-name-by-megan-lally/) | Megan Lally |
+| [This is the Night They Come For You](books/mystery-thriller/this-is-the-night-they-come-for-you-by-robert-goddard/) | Robert Goddard |
 | [The Unseen](books/mystery-thriller/the-unseen-by-ania-ahlborn/) | Ania Ahlborn |
 | [What Grows in the Dark](books/mystery-thriller/what-grows-in-the-dark-by-jaq-evans/) | Jaq Evans |
 | [The Whispers](books/mystery-thriller/the-whispers-by-ashley-audrain/) | Ashley Audrain |
+| [Widows and Orphans](books/mystery-thriller/widows-and-orphans-by-kate-hilton-and-elizabeth-renzetti/) | Kate Hilton & Elizabeth Renzetti |
 | [The Wrong Sister](books/mystery-thriller/the-wrong-sister-by-claire-douglas/) | Claire Douglas |
 | [Venus Fly Trap](books/mystery-thriller/venus-fly-trap-by-emma-medrano/) | Emma Medrano |
 | [Wolf Hour](books/mystery-thriller/wolf-hour-by-jo-nesbo/) | Jo Nesbo |
@@ -292,6 +406,8 @@ title: 书单
 | [An Army Like No Other](books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/) | Haim Bresheeth-Zabner |
 | [The Art of Thinking Clearly](books/non-fiction/the-art-of-thinking-clearly-by-rolf-dobelli/) | Rolf Dobelli |
 | [Becoming](books/non-fiction/becoming-by-michelle-obama/) | Michelle Obama |
+| [Behind the Beautiful Forevers](books/non-fiction/behind-the-beautiful-forevers-by-katherine-boo/) | Katherine Boo |
+| [Black Is the Body](books/non-fiction/black-is-the-body-by-emily-bernard/) | Emily Bernard |
 | [Books That Saved My Life](books/non-fiction/books-that-saved-my-life/) | — |
 | [China's World View](books/non-fiction/chinas-world-view-by-david-daokui-li/) | David Daokui Li |
 | [Dark Psychology Secrets](books/non-fiction/dark-psychology-secrets-by-daniel-james-hollins/) | Daniel James Hollins |
@@ -301,17 +417,24 @@ title: 书单
 | [Down Girl](books/non-fiction/down-girl-by-kate-manne/) | Kate Manne |
 | [Everything Is F*cked](books/non-fiction/everything-is-fcked-by-mark-manson/) | Mark Manson |
 | [Exhausted: An A–Z for the Weary](books/non-fiction/exhausted-an-a-z-for-the-weary-by-anna-katharina-schaffner/) | Anna Katharina Schaffner |
+| [Exodus](books/non-fiction/exodus-by-paul-collier/) | Paul Collier |
 | [Extraordinary Insects](books/non-fiction/extraordinary-insects-by-anne-sverdrup-thygeson/) | Anne Sverdrup-Thygeson |
+| [The French Revolution](books/non-fiction/the-french-revolution-by-ian-davidson/) | Ian Davidson |
 | [HBR Women at Work](books/non-fiction/hbr-women-at-work-by-harvard-business-review/) | Harvard Business Review |
 | [The Highly Sensitive Person's Survival Guide](books/non-fiction/the-highly-sensitive-persons-survival-guide-by-ted-zeff/) | Ted Zeff |
+| [How to Be Resilient](books/non-fiction/how-to-be-resilient-by-gail-gazelle/) | Gail Gazelle |
 | [If We Cannot Go at the Speed of Light](books/non-fiction/if-we-cannot-go-at-the-speed-of-light/) | — |
 | [Inside the Box](books/non-fiction/inside-the-box/) | — |
 | [Language City](books/non-fiction/language-city-by-ross-perlin/) | Ross Perlin |
 | [Letters to a Friend](books/non-fiction/letters-to-a-friend-by-diana-athill/) | Diana Athill |
 | [Levels of Life](books/non-fiction/levels-of-life-by-julian-barnes/) | Julian Barnes |
+| [Life in Three Dimensions](books/non-fiction/life-in-three-dimensions-by-shigehiro-oishi/) | Shigehiro Oishi |
+| [Livia Mother of Rome](books/non-fiction/livia-mother-of-rome-by-caitlin-c-gillespie/) | Caitlin C. Gillespie |
 | [Living on Paper](books/non-fiction/living-on-paper-by-iris-murdoch/) | Iris Murdoch |
 | [Living to Tell the Tale](books/non-fiction/living-to-tell-the-tale-by-gabriel-garcia-marquez/) | Gabriel García Márquez |
+| [Marilyn and Her Books](books/non-fiction/marilyn-and-her-books-by-gail-crowther/) | Gail Crowther |
 | [Memory Speaks](books/non-fiction/memory-speaks-by-julie-sedivy/) | Julie Sedivy |
+| [My Brilliant Sister](books/non-fiction/my-brilliant-sister-by-amy-brown/) | Amy Brown |
 | [Nexus](books/non-fiction/nexus-by-yuval-noah-harari/) | Yuval Noah Harari |
 | [No Judgment](books/non-fiction/no-judgment-by-lauren-oyler/) | Lauren Oyler |
 | [Notes on Grief](books/non-fiction/notes-on-grief-by-chimamanda-ngozi-adichie/) | Chimamanda Ngozi Adichie |
@@ -321,7 +444,9 @@ title: 书单
 | [Possible](books/non-fiction/possible-by-william-ury/) | William Ury |
 | [Recollections of My Nonexistence](books/non-fiction/recollections-of-my-nonexistence-by-rebecca-solnit/) | Rebecca Solnit |
 | [Red Memory](books/non-fiction/red-memory-by-tania-branigan/) | Tania Branigan |
+| [Russia's Man of War](books/non-fiction/russias-man-of-war-by-cathy-scott-clark/) | Cathy Scott-Clark |
 | [The Secret Wife](books/non-fiction/the-secret-wife-by-paul-gill/) | Paul Gill |
+| [Smartass](books/non-fiction/smartass-by-emily-sayre-smith/) | Emily Sayre Smith |
 | [Smoke and Ashes](books/non-fiction/smoke-and-ashes-by-amitav-ghosh/) | Amitav Ghosh |
 | [Somewhere Towards the End](books/non-fiction/somewhere-towards-the-end-by-diana-athill/) | Diana Athill |
 | [Splinters](books/non-fiction/splinters-by-leslie-jamison/) | Leslie Jamison |
@@ -330,9 +455,12 @@ title: 书单
 | [The Fame Lunches](books/non-fiction/the-fame-lunches-by-daphne-merkin/) | Daphne Merkin |
 | [To the City](books/non-fiction/to-the-city-by-alexander-christie-miller/) | Alexander Christie-Miller |
 | [The Ugly History of Beautiful Things](books/non-fiction/the-ugly-history-of-beautiful-things-by-katy-kelleher/) | Katy Kelleher |
+| [We the People](books/non-fiction/we-the-people-by-jill-lepore/) | Jill Lepore |
 | [What Happened to You?](books/non-fiction/what-happened-to-you-by-oprah-winfrey-and-bruce-perry/) | Oprah Winfrey & Bruce Perry |
 | [What the Bees See](books/non-fiction/what-the-bees-see-by-craig-burrows/) | Craig Burrows |
 | [Herlands](books/non-fiction/herlands-by-megha-mohan/) | Megha Mohan |
+| [When Everyone Knows That Everyone Knows](books/non-fiction/when-everyone-knows-that-everyone-knows-by-steven-pinker/) | Steven Pinker |
+| [Why Nothing Works](books/non-fiction/why-nothing-works-by-marc-dunkelman/) | Marc Dunkelman |
 | [Why We Die](books/non-fiction/why-we-die-by-venki-ramakrishnan/) | Venki Ramakrishnan |
 | [Why We Read](books/non-fiction/why-we-read-shannon-reed-2024/) | Shannon Reed |
 | [Why We Sleep](books/non-fiction/why-we-sleep-by-matthew-walker/) | Matthew Walker |
@@ -348,9 +476,16 @@ title: 书单
 | [Alfred Hitchcock Presents: Stories to Stay Awake](books/short-story-anthologies/alfred-hitchcock-presents-stories-to-stay-awake-by/) | — |
 | [Astonishing](books/short-story-anthologies/astonishing-by-malcolm-jameson/) | Malcolm Jameson |
 | [Barron Collected Short Fiction](books/short-story-anthologies/barron-collected-short-fiction/) | — |
+| [The Best Short Stories 2026](books/short-story-anthologies/the-best-short-stories-2026-by-o-henry-prize-winners/) | O. Henry Prize Winners |
 | [Dance of the Happy Shades](books/short-story-anthologies/dance-of-the-happy-shades-by-alice-munro/) | Alice Munro |
 | [Ghost Tales of the United Kingdom](books/short-story-anthologies/ghost-tales-of-the-united-kingdom/) | Various |
+| [Out of Body Stories](books/short-story-anthologies/out-of-body-stories-by-chris-vanjonack/) | Chris Vanjonack |
+| [The Language of Knives](books/short-story-anthologies/the-language-of-knives-by-haralambi-markov/) | Haralambi Markov |
 | [Real Life: Short Stories (2002)](books/short-story-anthologies/real-life-short-stories-2002-anthology/) | Dani Couture (ed.) |
+| [Revolution in the Heart](books/short-story-anthologies/revolution-in-the-heart-by-jonathan-strahan-ed/) | Jonathan Strahan (ed.) |
+| [Something Followed Us Home](books/short-story-anthologies/something-followed-us-home-by-cynthia-pelayo-ed/) | Cynthia Pelayo (ed.) |
+| [The Twelve Loves of Christmas](books/short-story-anthologies/the-twelve-loves-of-christmas-by-various/) | Various |
+| [Traps and Specters](books/short-story-anthologies/traps-and-specters-by-philip-fracassi/) | Philip Fracassi |
 | [The Wednesday Witches Book Club](books/short-story-anthologies/the-wednesday-witches-book-club-by-sarah-beth-durst/) | Sarah Beth Durst |
 | [Battleborn](books/short-story-anthologies/battleborn-by-clare-vaye-watkins/) | Clare Vaye Watkins |
 | [Best British Short Stories 2023](books/short-story-anthologies/best-british-short-stories-2023-by-nicholas-royle/) | Nicholas Royle |
@@ -375,4 +510,5 @@ title: 书单
 | [Unearthed: New Horror of Ancient Ruins](books/short-story-anthologies/unearthed-new-horror-of-ancient-ruins-by-dan-coxon/) | Dan Coxon (ed.) |
 | [Weird Shadows over Innsmouth](books/short-story-anthologies/weird-shadows-over-innsmouth-by-stephen-jones/) | Stephen Jones (ed.), H.P. Lovecraft et al. |
 | [Very Short Stories](books/short-story-anthologies/very-short-stories-by-sean-hill/) | Sean Hill |
+| [We Were Forbidden](books/short-story-anthologies/we-were-forbidden-by-jaqueline-harpman-etc/) | Jaqueline Harpman etc. |
 | [Yellow Pine](books/short-story-anthologies/yellow-pine-by-claire-vaye-watkins/) | Claire Vaye Watkins |

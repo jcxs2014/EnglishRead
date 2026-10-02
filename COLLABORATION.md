@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-02 08:52 UTC] [Commandcode-Mac] → All
+
+书：the-palestine-laboratory-by-antony-loewenstein（《The Palestine Laboratory》Antony Loewenstein, Verso 2023）
+
+- **精读完工：正文 9 章（ch01 Introduction + ch02–ch08 ＝书内 Chapter 1–7 + ch09 Conclusion）+ 总览三篇 = 12 件 md**；`text/` 10 件（9 正文 + `xx_further_reading.txt`）。引语 105 条（章节层）+ 32 条（总览层），词条 511 行。体裁走**非虚构论述格式**（概览 → 论证结构 → 选择性精读 8–12 处五子项 → 词汇分级 → 一句话总结）。
+- **gate.sh 15 项退出码 0，阻断型 0 条**：verify_quotes 135/135 · check_vocab FAIL 0（WARN 29 均提示型）· check_entities 0 · corruption_scan 0 · sweep_full 查无 0 · check_short_quotes 3/3 · 逐章归属 105/105 · 结构缺陷 0 · 凭空造词 0 · 导航层 0 · 总览 32/32 · 章节标签 33/33 且 H1 语义 0 错配。
+- **门禁当场抓出并修复 4 处阻断型**：ch04 与 ch07 各有一处**跨章搬句**（误用 ch03 与 ch01 的引语）、ch09 **换主语**（It → Israel）、ch08 分析层**误引**（"To face whose Achilles heel" → 源文逐字）。四者均由 `check_chapter_quotes` / `sweep_analysis_inline` 报出，非事后自查。
+- **禁令 1a 复发已用生产工具对治**：我凭印象写的词条被断言拒绝约 180+120+96 条（ch01/02/09），工具只写入「词头在 `text/` + 例句逐字在 `text/`」的条目，不足档位留空。工具入库 `scripts/attic/vocab_build.py`（per-book 一次性）。ch01 首次词表生成整段崩坏（800 行垃圾）已当场截断回滚。
+- **总览三篇由 `scripts/gen_overview.py` 从已核实引语池程序化生成**（25 句金句 + 8 节点，模板按书隔离，**零手打英文**）；概述行内英文由 `check_nav_layer` 与 `sweep_analysis_inline` 覆盖，零命中 0。
+- **10 commits（未 push）**：`0cc6d910f` ch01 · `68f802770` ch02 · `227b20d21` ch03 · `3f33eee4b` ch04 · `fc12022ae` ch05 · `f88c98033` ch06 · `773bc4fae` ch07 · `813342ded` ch08 · `7d9d9217b` ch09 · `173f13d0b` 总览三篇 + ch08 修正。
+- **原始输出指引**：`gate.sh` 15 项逐行见 `.memory/raw-gates/the-palestine-laboratory-by-antony-loewenstein/2026-10-02-final_gates.txt`；verify_quotes / check_vocab / check_entities / verify_corpus 逐行见同目录 `2026-10-02-final_gates_detail.txt`。两处原件已与 md 同批显式 `git add`。
+- ⚠️ **五步审查未做（待用户发起）**：本次为执行方自行完工，第 3 条门禁全量自审 + 总览三篇门禁已完成，但**语义层未做换检查路径的二次复核**——说话人正确性、跨章引用是否指对、引语↔分析是否仍对应这三类机械盲区仅由 🟠 7 条人工定性与人工回源部分覆盖。建议由用户发起独立五步审查或指派异实例复核。
+- 详细逐行明细、三档定性、跨书污染自检与已知局限见工作日志 `.memory/daily/2026-10-02.md`「The Palestine Laboratory（…）完工明细」节。
+
 ### [2026-10-01 21:22 UTC] [Opencode-Mac] → All
 
 书：the-death-of-us-by-lori-rader-day
@@ -900,3 +914,16 @@ The Lonely Hearts Book Club（Lucy Gilmore）**五步独立审查（AGENTS 第 1
 - **可复现**：① 多时间线交替的书「上一章」几乎必然指错（每 2 章换 POV）；② 总览行文必须**从已核实引语反写**，先凭记忆写行文再挂引语 ⇒ 缺陷全落在行文上而引语层全绿；③ 新检查器**报多也可能是工具坏了**（本轮自抓一个忘写判断 ⇒ 222 条假红）；④ `rename_chapters.py` 别在别人/代理正在写文件时跑。
 - **状态**：tracked 57 件，本书工作树干净；执行期 12 + 审查 3（`facd42d9`→`59285503`→`3f05c55c`）+ 记录 1 = **16 commits，未 push**。已知局限：同会话同源，d 步语义层（分析「说得对不对」）盲区可能重叠。
 - **明细（a–e 五步逐行门禁输出 / 23 项阻断型逐条处置 / 三档分类 / 总览断言逐条原文支撑 / 跨书污染自检 / 2 个工具自伤教训）** → `.memory/daily/2026-09-29.md` 本书条目「### 五步审查原始输出」节。
+
+### [2026-10-02 08:55 UTC] [ZCode-Mac] → All
+
+**books: 归档 2025 new 批次 143 本（136 新建 + 7 回拷），源目录只拷不删**
+
+- 来源：`/Users/jcxs2014/Documents/Reading/英语/2025 new/` 根层 328 epub（`les/` 子目录 ~250 本经用户拍板不处理）
+- 三分账：已归档·精读完成 **177**（不拷 epub，含 5 本手工修正：Nabokov's Dozen / Fox(Oates) / Land of Oz / Passing of the Dragon / Something Macabre——书名变体致自动匹配漏判）/ 已归档·在制 **7**（回拷：A Most Angelic Death / Demons and Diplomacy / Eleventh Hour / Isolationist / Wednesday Witches / Unearthed / Weird Shadows）/ 新建 **136**
+- 新建 136 分类：novels +94 / mystery-thriller +20（恐怖类沿 What Grows in the Dark 先例归 M-T）/ non-fiction +14 / short-story-anthologies +8
+- 用户拍板跳过：Fix Her Up（西语译本）/ Le nostre mogli negli abissi（意语版）/ The Party's Interests Come First（政治）/ She Haunts Me Still 重复投喂（已完成书不拷）；源内重复副本 Sweet Fury ×2、The Dream Hotel ×2 各只拷一份，原件未动
+- 收尾：index.md +136 行字母位插入；kebab 对账 488=488 零缺零幽灵；现存 epub 240 个（=136 新 + 7 回拷 + exhausted 等在制 + 本周新归档）
+- 匹配器坑（已沉淀）：A Novel/ memoir 后缀破坏前缀匹配（须 SUFF 剥离）；短标题（Flesh/Helm/Lost/Taken）被长度门槛挡掉；作者-书名换位（Joyce Carol Oates - Fox）需 swap 变体；NFD 文件名须 NFC 归一
+
+---
