@@ -1,0 +1,72 @@
+# 语料层 verify_corpus（P0-0）
+=== 语料层验收（P0-0）: the-best-short-stories-2026-by-o-henry-prize-winners ===
+text/ 件数: 20
+  [1] 件数 20 == 预期 20  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 20 组 / 互查 380 组  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (647 句)
+      首| Colm Tóibín
+      末| And, if he could sleep for a while now, he would think about something else in the morning and m
+    ch02 (368 句)
+      首| Marie-Helene Bertino
+      末| Our love.
+    ch03 (699 句)
+      首| Brandon Taylor
+      末| Then he put his arm through Caspar’s and led him to the café, where they sat for an hour, not re
+    ch04 (483 句)
+      首| Ismael Ramos
+      末| He squeezes his sister’s hand and closes his eyes.
+    ch05 (609 句)
+      首| Ucheoma Onwutuebe
+      末| I thought he was home.
+    ch06 (329 句)
+      首| Louise Erdrich
+      末| Kneeling beside Timble, Beatril grasped his hand and said, “Don’t mind him.”
+    ch07 (251 句)
+      首| Jenny Xie
+      末| He would kiss her hard on the mouth and hurry out of bed so he could go outside and revel in it.
+    ch08 (334 句)
+      首| Evgenia Nekrasova
+      末| Blood starts to trickle from the human daughter’s nose.
+    ch09 (525 句)
+      首| Noel Quiñones
+      末| Love, Roselyn
+    ch10 (172 句)
+      首| Mary Williams
+      末| Did he ever twirl in the waves of the Mediterranean and tell Mary to be a still and silent clam?
+    ch11 (290 句)
+      首| Weike Wang
+      末| Only anger she saw then, not I’m angry because I’m scared to lose you; I’m scared to lose you be
+    ch12 (236 句)
+      首| João Pedro Vala
+      末| I think of me asking her would you yes to say yes my mountain flower and first she put her arms 
+    ch13 (328 句)
+      首| Sarah LaBrie
+      末| And Melora feels, for the first time that day, that finally, she has done something right.
+    ch14 (206 句)
+      首| Guka Han
+      末| Slowly, surely, I’m finding my place.
+    ch15 (197 句)
+      首| William Pei Shih
+      末| I imagine that I would say, “Yes, it was you, it was always, of course, you.” I imagine that I w
+    ch16 (459 句)
+      首| Samanta Schweblin
+      末| It’s just a few seconds, it’s the end of sinking: the dark and mossy feeling on my fingertips, r
+    ch17 (453 句)
+      首| Kimberly Blaeser
+      末| Was I the only one who knew there would be more?
+    ch18 (473 句)
+      首| Kim Samek
+      末| But in time, as her daughter grew older, and M grew used to being a mother, she began to think o
+    ch19 (411 句)
+      首| Kevin Wilson
+      末| I would keep going.
+    ch20 (176 句)
+      首| Catherine Lacey
+      末| I began to consider the direction in which my human term would now move, and once I had walked t
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+
+EXIT=0
