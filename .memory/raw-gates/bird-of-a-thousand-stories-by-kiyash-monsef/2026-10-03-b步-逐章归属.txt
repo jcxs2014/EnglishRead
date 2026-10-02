@@ -1,0 +1,47 @@
+=== b 步 · 逐章归属全量重跑 ===
+ch01 the bird of a thousand stories.md         ch01 the bird of a thousand stories.md: 8/8 in ch01 text
+ch02 chapter one the other thing my dad left me.md ch02 chapter one the other thing my dad left me.md: 8/8 in ch02 text
+ch03 the great family and the tiny dragon.md   ch03 the great family and the tiny dragon.md: 7/7 in ch03 text
+ch04 chapter two is tan bul.md                 ch04 chapter two is tan bul.md: 8/8 in ch04 text
+ch05 the lamb in the garden.md                 ch05 the lamb in the garden.md: 6/6 in ch05 text
+ch06 chapter three foreign objects.md          ch06 chapter three foreign objects.md: 5/5 in ch06 text
+ch07 chapter four the man who sold rugs.md     ch07 chapter four the man who sold rugs.md: 5/5 in ch07 text
+ch08 the bird of a thousand stories.md         ch08 the bird of a thousand stories.md: 5/5 in ch08 text
+ch09 the turtledove and the wind.md            ch09 the turtledove and the wind.md: 5/5 in ch09 text
+ch10 chapter five nothing is simple.md         ch10 chapter five nothing is simple.md: 7/7 in ch10 text
+ch11 chapter six the phalarope.md              ch11 chapter six the phalarope.md: 8/8 in ch11 text
+ch12 chapter seven shuck.md                    ch12 chapter seven shuck.md: 5/5 in ch12 text
+ch13 chapter eight home sooner.md              ch13 chapter eight home sooner.md: 6/6 in ch13 text（另有 1 条短引语未校验）
+ch14 chapter nine my orphans.md                ch14 chapter nine my orphans.md: 7/7 in ch14 text
+ch15 chapter ten other factors.md              ch15 chapter ten other factors.md: 6/6 in ch15 text
+ch16 the winged horse of kashan.md             ch16 the winged horse of kashan.md: 7/7 in ch16 text
+ch17 chapter eleven out of wishes.md           ch17 chapter eleven out of wishes.md: 7/7 in ch17 text
+ch18 a fire in the desert.md                   ch18 a fire in the desert.md: 7/7 in ch18 text
+ch19 chapter twelve a posy of alkaloids.md     ch19 chapter twelve a posy of alkaloids.md: 6/6 in ch19 text
+ch20 chapter thirteen all the water in the world.md ch20 chapter thirteen all the water in the world.md: 7/7 in ch20 text
+ch21 chapter fourteen hello and also goodbye.md ch21 chapter fourteen hello and also goodbye.md: 7/7 in ch21 text
+ch22 the old name of the bear.md               ch22 the old name of the bear.md: 5/5 in ch22 text（另有 1 条短引语未校验）
+ch23 chapter fifteen things that need repair.md ch23 chapter fifteen things that need repair.md: 7/7 in ch23 text
+ch24 the bird of a thousand stories.md         ch24 the bird of a thousand stories.md: 8/8 in ch24 text
+ch25 chapter sixteen centro.md                 ch25 chapter sixteen centro.md: 8/8 in ch25 text
+ch26 chapter seventeen were here about the bird.md ch26 chapter seventeen were here about the bird.md: 8/8 in ch26 text
+ch27 the forest that returned.md               ch27 the forest that returned.md: 8/8 in ch27 text
+ch28 boitata.md                                ch28 boitata.md: 5/5 in ch28 text
+ch29 chapter eighteen am i safe.md             ch29 chapter eighteen am i safe.md: 8/8 in ch29 text
+ch30 chapter nineteen everythings a mess.md    ch30 chapter nineteen everythings a mess.md: 8/8 in ch30 text
+ch31 chapter twenty a never ending ellipsis.md ch31 chapter twenty a never ending ellipsis.md: 8/8 in ch31 text
+ch32 chapter twenty one a princess trapped in a castle.md ch32 chapter twenty one a princess trapped in a castle.md: 8/8 in ch32 text
+ch33 chapter twenty two sacred treasures.md    ch33 chapter twenty two sacred treasures.md: 7/7 in ch33 text
+ch34 the bird of a thousand stories.md         ch34 the bird of a thousand stories.md: 5/5 in ch34 text
+ch35 chapter twenty three behind and between.md ch35 chapter twenty three behind and between.md: 7/7 in ch35 text
+ch36 chapter twenty four the castle of come and never go.md ch36 chapter twenty four the castle of come and never go.md: 7/7 in ch36 text
+ch37 chapter twenty five the thing with feathers.md ch37 chapter twenty five the thing with feathers.md: 7/7 in ch37 text
+ch38 the bird of a thousand stories.md         ch38 the bird of a thousand stories.md: 3/3 in ch38 text
+ch39 chapter twenty six horaltic.md            ch39 chapter twenty six horaltic.md: 6/6 in ch39 text
+ch40 the bird of a thousand stories.md         ch40 the bird of a thousand stories.md: 8/8 in ch40 text
+
+=== check_short_quotes ===
+=== 短引语兜底核对（bird-of-a-thousand-stories-by-kiyash-monsef）===
+  verify_quotes 跳过（<20 flat 字符）的引语：2 条 —— 这些主门禁**根本没查**
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核

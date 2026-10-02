@@ -43,7 +43,7 @@ modified: "2026-10-02"
 - **中文理解**：她甚至为我十六岁生日烤了一只出乎意料的五层彩虹蛋糕，用粉色糖霜在顶上写着「Marjan，生日快乐」。自从妈妈还在世之后，这是头一次有人给我烤蛋糕。
 - **关键词**：a surprise five-layer rainbow cake / for my sixteenth birthday / in pink icing / the first time anyone had baked me a cake / since my mom was alive
 - **为什么这样写**：`five-layer` 和 `rainbow` 是两种不同的铺张——层数是耐心的证据，颜色是心情的证据——作者把它们并在一只蛋糕上，等于把 Malloryn 这个人的两种本事叠起来。`written “Happy Birthday, Marjan”` 用粉红糖霜写出名字，把「她记得我」写成了一件摸得着的实物。真正沉下去的是后一句：`the first time … since my mom was alive`，一句里同时给出「自打妈妈还在时起」和「头一回」两重时间，两句之间的空白比任何解释都重。
-- **读者视角提示**：`It was the first time` 之后主语是 `anyone`，不是 `my friends`，这个宽泛的主语说明在 Malloryn 之前那段日子里，位置上本来就该有个人，而那个位置空了很久。
+- **读者视角提示**：`It was the first time anyone had baked me a cake` 之后主语用的是 anyone，不是「我任何一个朋友」这种更窄的说法；这个宽泛的主语说明在 Malloryn 之前那段日子里，位置上本来就该有个人，而那个位置空了很久。
 
 > **原句 5:** "It was lonely in a way that was both quiet and overwhelming at once. There were memories in every corner. The floors creaked. Everything was old."
 

@@ -1,0 +1,30 @@
+=== a 步 · 第 3 条提交门禁全量重跑（2026-10-02 五步审查，不采信完工报告）===
+### ① verify_quotes
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 295/295 引文可核实（100%）；完全干净文件 42/42；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+### ① --full（仅取证，不参与退出码）
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 295/295 引文可核实（100%）；完全干净文件 42/42；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+### ② check_vocab
+词条行合计: 919
+--- FAIL (0) ---
+--- WARN (32) ---
+
+### ③ check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+### ④ corruption_scan
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+### ⑤ sweep_full
+  🔶 ch07 chapter four the man who so（ch7）跨标签拼接，各段逐字都在：The old man’s face clouded over. “I’m so sor
+  🔶 ch07 chapter four the man who so（ch7）跨标签拼接，各段逐字都在：They did not sing to me, or to Amu Reza, or 
+  🔶 ch09 the turtledove and the wind（ch9）跨标签拼接，各段逐字都在：The Bird lives,” he said, “but not for me. N
+  🔶 ch11 chapter six the phalarope.m（ch11）跨标签拼接，各段逐字都在：When God says a thing over and over again, t
+  🔶 ch33 chapter twenty two sacred t（ch33）跨标签拼接，各段逐字都在：A proper Persian tea requires something more

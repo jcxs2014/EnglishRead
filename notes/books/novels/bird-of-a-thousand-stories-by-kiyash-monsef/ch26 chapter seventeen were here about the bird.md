@@ -50,7 +50,7 @@ modified: "2026-10-02"
 - **中文理解**：「可怜的他呀，」Millmallow 难过地说，眼睛跟着我的目光。「不必了，不必了。我们走吧，就你和我。盖起来，拉起来，拉起来。我们会找到我们的那只鸟，再一只鸟，嘻，嘻，好极了！」
 - **关键词**：following my eyes / No need, no need / Cover-it-up, pull-it-up, pull-it-up / hip, hip, hurrah
 - **为什么这样写**：这一句是全章语言变质的地方：前面她还会说完整的英文，这里改成了押韵的碎句，`No need` 重复两次、`pull-it-up` 重复三次、`hip, hip` 也重复两次，全靠声音推着走。`following my eyes` 说明她借这具身体也在往外看，于是她的悲伤有了一个具体的对象——被丢下的那个人就在她身后。
-- **读者视角提示**：`poor will` 与先前那句 `everything is amazing` 判若两人；作者不给任何解释，只是让读者听见声调换了，并从此对这张嘴保持怀疑。
+- **读者视角提示**：`Poor will` 与她先前那句 `See, see, see` 判若两人；作者不给任何解释，只是让读者听见声调换了，并从此对这张嘴保持怀疑。
 
 > **原句 6:** "I turned my head, and the hammering rolled around with it. Because the feeling was inside me, but it was coming from outside me."
 

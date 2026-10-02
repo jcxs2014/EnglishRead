@@ -35,7 +35,7 @@ modified: "2026-10-02"
 
 - **中文理解**：从我指尖一路漫到胸口的那股感觉，是一种钝而平的东西，转瞬间就填满了所有空处，不发一问，也不置一词。它没有热，也没有冷。它没有一丝情绪。并且没法跟它争。
 - **关键词**：a blunt flatness / without question or comment / There was no emotion whatsoever
-- **为什么这样写**：作者不用一个比喻，只用排比式的否定来写「死」：`no warmth`、`no coolness`、`no emotion`、`no arguing`，一层比一层空。`settled instantly into all available space` 把「占据」写成填空动作，而 `without question or comment` 让这份占据连抗议的位置都不留——不是冷漠，是根本没有可商量的对象。
+- **为什么这样写**：作者不用一个比喻，只用排比式的否定来写「死」：`There was no warmth in it, or coolness`、`There was no emotion whatsoever`、`there was no arguing with it`，一层比一层空。`settled instantly into all available space` 把「占据」写成填空动作，而 `without question or comment` 让这份占据连抗议的位置都不留——不是冷漠，是根本没有可商量的对象。
 - **读者视角提示**：同一段末尾作者又写「室内的暖气」与「胸前的印记是热的」，却紧接着说「我里面是沉而空的」。冷热两个词都出现了却互相取消，读者头一次触到这个人物时得到的就是这种互相抵消的感觉。
 
 > **原句 4:** "There were six lines. One thick, jagged horizontal line, and five thinner lines scraping downward through it in a rough curve."

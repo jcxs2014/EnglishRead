@@ -50,7 +50,7 @@ modified: "2026-10-02"
 - **中文理解**：至于他们是否把世界弄糟了，那还得往后看——这个家族已经练就了替自己的贪心开脱这门本事。也许他们确实弄糟了。
 - **关键词**：It remains to be seen / this family that came to master the fine art of excusing their own greed / Perhaps they did
 - **为什么这样写**：`It remains to be seen` 把判断悬在半空，而紧跟着的同位语 `this family that came to master the fine art of excusing their own greed` 一句话就把嫌疑坐实了——先说「还要看」，随即说他们连辩解都练成了手艺。真正的判决压在最后三个词上：`Perhaps they did.` 是全篇最短的一句，用一个句号收掉，把刚建立的推论轻轻放回读者心里。说书人不吵，只把话说一半。
-- **读者视角提示**：注意 `Perhaps` 不是 `Probably`，它给出的余地大到可以当作没说过。正因为这样，这句认账的话才显得格外扎眼：家族连自己都还没准备好承认。
+- **读者视角提示**：注意 `Perhaps they were not rewarded as much as they could have been` 用的就是 Perhaps——这个词给出的余地大到可以当作没说过。正因为这样，这句认账的话才显得格外扎眼：家族连自己都还没准备好承认。
 
 > **原句 6:** "But greed is a sticky, ruinous stain. It soaks into the soul like tar into clothes. And this great family had rolled in their greed for too long to ever get clear of it. Without a dragon to guide them, the only voice in their ears was the voice of their own hunger."
 

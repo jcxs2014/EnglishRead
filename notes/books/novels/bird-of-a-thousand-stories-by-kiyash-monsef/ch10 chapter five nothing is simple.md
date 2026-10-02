@@ -36,7 +36,7 @@ modified: "2026-10-02"
 - **中文理解**：「要紧的是眼前，」Amu Reza 说。「接下来这几天，或者也许几周。那是这只鸟最脆弱的时候。等它长齐了羽毛，等它的羽翼展开，天底下任何力量——连 Fells 也不行——都留不住它。」
 - **关键词**：It is the present that matters / That is when the Bird will be vulnerable / no force on earth
 - **为什么这样写**：这一句用 `the present` 对上未来说不定的时间（`The next days, or maybe weeks`），把模糊的将来缩成一段可以下手保护的窗口。破折号里插进 `not even the Fells`，等于把读者已经知道的那股势力先点了名，再由 `no force on earth` 封口——两个 `Once` 并列，把安全时刻挂在同一个条件上。
-- **读者视角提示**：全句的条件全押在 `flledged` 与 `spread its wings` 这两个动作上。读者跟着算日子：眼下的每一场对话都是在这段窗口里过的，所以故事有了一种催着走的节奏。
+- **读者视角提示**：全句的条件全押在 `fledged` 与 `spread its wings` 这两个动作上。读者跟着算日子：眼下的每一场对话都是在这段窗口里过的，所以故事有了一种催着走的节奏。
 
 > **原句 4:** "“I know a man,” said Amu Reza. “The Phalarope. He is the best pilot from the Maghreb to the Levant. And he owes me a favor.”"
 
