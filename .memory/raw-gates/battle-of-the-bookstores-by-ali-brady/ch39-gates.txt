@@ -1,0 +1,64 @@
+=== ch39 门禁 2026-10-02T12:06:25Z ===
+
+--- verify_quotes ---
+ch24 i miss you so much.md: 6/6 ✅
+ch25 humanizing your enemy.md: 8/8 ✅
+ch26 someone who isn't me.md: 8/8 ✅
+ch27 you got this.md: 8/8 ✅
+ch28 a happy ending needs to be earned.md: 8/8 ✅
+ch29 i never want to read about folds.md: 6/6 ✅
+ch30 i don't need to be alone.md: 8/8 ✅
+ch31 being jealous of yourself.md: 8/8 ✅
+ch32 it's an invitation.md: 8/8 ✅
+ch33 dip their toe in the water.md: 8/8 ✅
+ch34 see you soon.md: 4/4 ✅
+ch35 hoping for a happy ending.md: 8/8 ✅
+ch36 the job should be josie's.md: 8/8 ✅
+ch37 if he loved you he wouldn't leave you.md: 8/8 ✅
+ch38 always.md: 8/8 ✅
+ch39 this isn't our happy ending.md: 8/8 ✅
+
+⚠️ 全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 284/284 引文可核实（100%）；完全干净文件 39/39；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+--- check_vocab ---
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「expression dead」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「tentative smile」
+  ch37 if he loved you he wouldn't leave you.md [基础] 基础档疑含超纲词「crossroads」
+  ch37 if he loved you he wouldn't leave you.md [基础] 基础档疑含超纲词「lungs constrict」
+  ch37 if he loved you he wouldn't leave you.md [基础] 基础档疑含超纲词「pained expression」
+  ch37 if he loved you he wouldn't leave you.md [基础] 基础档疑含超纲词「perfect opportunity」
+  ch37 if he loved you he wouldn't leave you.md [基础] 基础档疑含超纲词「silence stretches」
+  ch38 always.md [基础] 基础档疑含超纲词「emotional mountain」
+  ch38 always.md [基础] 基础档疑含超纲词「guaranteed happy」
+  ch38 always.md [基础] 基础档疑含超纲词「tenderness back」
+  ch39 this isn't our happy ending.md [基础] 基础档疑含超纲词「community」
+  ch39 this isn't our happy ending.md [基础] 基础档疑含超纲词「expression」
+--- FAIL (0) ---
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- corruption_scan ---
+
+=== 编辑损坏扫描（battle-of-the-bookstores-by-ali-brady）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+=== 引语整串 flat 比对（battle-of-the-bookstores-by-ali-brady）===
+  参照集：text/ 逐章（40 章，可定章） + epub 交叉验证
+  ✅ 本章命中 284 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 3 条归 check_short_quotes；无章可对 0 条未判）
+
+--- check_chapter_quotes 39 ---
+⚠️  全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 284，命中本章 284（100%）
+✅ 全部引语均归属正确章节
+
+--- check_short_quotes ---
+=== 短引语兜底核对（battle-of-the-bookstores-by-ali-brady）===
+  verify_quotes 跳过（<20 flat 字符）的引语：3 条 —— 这些主门禁**根本没查**
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
