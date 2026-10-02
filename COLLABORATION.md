@@ -65,22 +65,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 【完工】The Art of Charming a Changeling（Sylvie Cathrall）· 25 章 + 总览三篇
 
 书目录：notes/books/novels/the-art-of-charming-a-changeling-by-sylvie-cathrall/
-正文：ch01–ch24 + ch25 epilogue，逐章 10 块精读（ch19 12 / ch20 14 / ch21 14 / ch22 13 / ch25 7），三档词汇表 + 六项导航。
-总览：00_概述（六段梗概 / 3 主题 / 5 人物弧光）· 00_金句精选（20 句）· 00_情感节点（10 节点）。
-第 3 条门禁全绿：verify_quotes 278/278（100%）· 干净文件 26/26；check_vocab FAIL 0；check_entities 未知实体 0；corruption_scan FAIL 0；sweep_full 全书查无 0；check_nav_layer ❌ 0；audit_structure 结构缺陷 0；空段扫描 0。
-语料层：extract_chapters 26 件 → 剔除盗版站营销页 xx_praise_for_the_sunken_archive.txt，正文 25 篇；清理 9 文件 18 行注入广告。
-commit dacb569f2（pathspec 精确提交，28 文件）。未 push。五步审查未做（待用户发起）。
-提示型遗留（只记不改）：check_vocab WARN 41（基础档长词启发式）；verify_overview_quotes 报 00_概述.md「口径外」= 工具假阳性（looks 分支未过 is_quoteish），同库 daggerbound 等书同报；该篇 8 条英文引语已对 epub 直接核验 miss 0。
+正文：ch01–ch24 + ch25 epilogue（逐章 10 块：ch19 12 / ch20 14 / ch21 14 / ch22 13 / ch25 7），三档词汇表 + 六项导航。总览三篇：概述 / 金句精选 20 句 / 情感节点 10 节点。
+语料：extract_chapters 26 件 → 剔除盗版站营销页 xx_praise_for_the_sunken_archive.txt；清理 9 文件 18 行注入广告。commit dacb569f2（28 文件，pathspec 精确提交）。
 
-【审查】The Art of Charming a Changeling · 五步审查 a–e 完成（书目录：notes/books/novels/the-art-of-charming-a-changeling-by-sylvie-cathrall/）
-
-**阻断型 18 条全部已改**（a 5 + d 8 + e 5），整改后 gate.sh EXIT=0。
-a 步：门禁 15 项与写作期一致，但主门禁有 **52 字符指纹盲区**（verify_quotes 常规口径只比对引语前 52 flat 字符）——「前半逐字 + 后半改写」全逃过，只有 --full 与 sweep_full 的 🔶 看得见。5 条真缺陷全部由此查出（如 ch05 原句 8 `He grinned, apparently delighted by his own revelation.` **全书查无 fabricated**；ch06 原句 9 凭空造归属句 `Dr Hyverfell continued`）。**⇒「278/278 100%」不等于整串逐字，报告必须同时报 --full 与 🔶 条数。**
-d 步：check_analysis_indep 抓出 **6 条「引号包裹的改写冒充逐字」**——分析层引号内的英文同样受逐字约束，但**两道引语门禁都看不见**（只锚 `> **原句 N:**` 行）。另词表例句是独立于引语块的第二条逐字通道，🔶 抓出 ch08/ch19 引号缺失 2 条。
-e 步：56 条总览引语逐条回 text/ ~200 字符窗口，查出 **2 条说话人错**（Vern↔Florrie 互错，源 text/ch15_chapter_15.txt 与 ch09_chapter_9.txt）、1 条引语不逐字（`"Yes,`→`"Yes.`）、1 条章节标签错（Ch.20→ch15）。跨书污染 0（58 个专名逐个全书 grep；相邻卷 Book 1 零命中）。
-假红不改 3 条：check_struct_indep 的 3–8 块配额（全库 9–14 块占 11.0%，模板 L153 明写格式自成一派合法）；verify_overview_quotes 对 00_概述 的覆盖缺口（scripts/verify_overview_quotes.py:160-162 的 looks 未过 is_quoteish，同库 daggerbound 同报，全库性）。
-复验：verify_quotes 278/278（100%）｜--full 整串取证 0｜check_analysis_indep 405 条全逐字｜sweep_full 本章命中 254/全书查无 0。
-原始输出：`.memory/raw-gates/the-art-of-charming-a-changeling/2026-10-02-a_review_gates_full.txt`｜整改记录：`.memory/reviews/2026-10-02-the-art-of-charming-a-changeling-五步审查.md`。
+【审查】2026-10-02 五步审查 a–e 完成，整改后 gate.sh EXIT=0。
+**阻断型 18 条全部已改**（a 5 + d 8 + e 5）。门禁 15 项与写作期一致、无漂移，但暴露两个结构性盲区：
+- ⭐ a 步：verify_quotes 常规口径**只比对引语前 52 flat 字符**，「前半逐字 + 后半改写」全逃过主门禁，只有 --full 与 sweep_full 的 🔶 看得见。5 条真缺陷全由此查出（ch05 原句 8 `He grinned, apparently delighted by his own revelation.` **全书查无 fabricated**；ch06 原句 9 凭空造归属句 `Dr Hyverfell continued`）。**⇒「278/278 100%」不等于整串逐字，报告须同时报 --full 与 🔶 条数。**
+- ⭐ d 步：check_analysis_indep 抓出 **6 条「引号包裹的改写冒充逐字」**——分析层引号内英文同受逐字约束，但**两道引语门禁都看不见**（只锚 `> **原句 N:**` 行）；词表例句是第二条逐字通道（ch08/ch19 引号缺失 2 条）。
+- e 步：56 条总览引语逐条回 text/ ~200 字符窗口，查出 **2 条说话人错**（Vern↔Florrie 互错）、1 条引语不逐字、1 条章节标签错。跨书污染 0（58 个专名逐个全书 grep）。
+复验：verify_quotes 278/278（100%）｜--full 整串取证 0｜check_analysis_indep 405 条全逐字｜sweep_full 本章命中 254 / 全书查无 0。
+明细（含原文取证）：`.memory/reviews/2026-10-02-the-art-of-charming-a-changeling-五步审查.md`｜a 步原始输出：`.memory/raw-gates/the-art-of-charming-a-changeling/2026-10-02-a_review_gates_full.txt`。
 commit 62b98c721（12 文件）。未 push。
 
 ### [2026-10-02 09:48 UTC] [Qoder-Mac] → All
