@@ -1,0 +1,9 @@
+===== b 步（按规则 --out-dir 单章） =====
+--- ch01 (ch01 Prologue.md) ---
+ch01 Prologue.md: 13/13 in ch01 text
+--- ch02 (ch02 Part One.md) ---
+ch02 Part One.md: 8/8 in ch02 text
+--- ch03 (ch03 Part Two.md) ---
+ch03 Part Two.md: 8/8 in ch03 text
+--- ch04 (ch04 Epilogue.md) ---
+ch04 Epilogue.md: 8/8 in ch04 text

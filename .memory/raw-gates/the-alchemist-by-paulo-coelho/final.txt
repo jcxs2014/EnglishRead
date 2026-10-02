@@ -1,0 +1,47 @@
+===== The Alchemist 五步审查 · 终验全量复跑 =====
+
+--- verify_quotes ---
+
+=== 总计 54/54 引文可核实（100%）；完全干净文件 5/5；正文章节 0 提取 0；总览 0 提取转交 1 ===
+--- verify_overview_quotes ---
+
+=== 总览引文 32/32 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+--- check_vocab ---
+--- FAIL (0) ---
+--- WARN (1) ---
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption_scan ---
+  FAIL 0 处（U+FFFD / 双句号）
+--- sweep_full ---
+  ✅ 本章命中 37 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+--- check_chapter_quotes（逐章） ---
+ch01 Prologue.md: 13/13 in ch01 text
+ch02 Part One.md: 8/8 in ch02 text
+ch03 Part Two.md: 8/8 in ch03 text
+ch04 Epilogue.md: 8/8 in ch04 text
+--- audit_structure ---
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+--- check_struct_indep（第二实现） ---
+=== 独立结构扫描：4 个 md，缺陷 1 处 ===
+--- check_xref_indep ---
+=== chNN 引用 74 处：英文证据报警 0 处 ／ 中文式待人判 73 处 ===
+--- check_analysis_indep（第二实现） ---
+抽出分析层英文片段 127 条
+✅ 全部片段在全书 text/ 逐字命中
+--- check_overview_labels ---
+----- 汇总（共 18 条带标签引语，跳过无标签行 15）-----
+  ✅ 标注章逐字 : 18
+
+--- check_overview_full ---
+  A 整串：命中 32 ｜ 🔶 拼接 2 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 4
+--- check_short_quotes ---
+  ✅ 命中 1 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+--- check_anchor ---
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+--- audit_numbers ---
+  ❌ 不符（差 ≥2）0 ｜ ⚠️ 差 1 0 ｜ ❓ 参照串未解析未判 3 ｜ ⚪ 不可机械核查 0
+--- verify_corpus ---
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===

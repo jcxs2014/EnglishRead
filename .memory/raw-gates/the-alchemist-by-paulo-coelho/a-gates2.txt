@@ -1,0 +1,22 @@
+--- 2 check_vocab ---
+词条行合计: 61
+
+--- FAIL (0) ---
+
+--- WARN (1) ---
+  ch01 Prologue.md [基础] 基础档疑含超纲词「beautiful」
+
+--- 3 check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- 4 corruption_scan ---
+
+=== 编辑损坏扫描（the-alchemist-by-paulo-coelho）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- 5 sweep_full ---
+=== 引语整串 flat 比对（the-alchemist-by-paulo-coelho）===
+  参照集：text/ 逐章（4 章，可定章） + epub 交叉验证
+  ✅ 本章命中 37 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）

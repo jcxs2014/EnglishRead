@@ -1,0 +1,21 @@
+===== c 步：结构扫描 =====
+--- audit_structure ---
+=== 精读结构扫描（the-alchemist-by-paulo-coelho）===
+  扫 7 个 md、70 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+--- H1 语义（第 9 条 h 机检） ---
+notes/books/novels/the-alchemist-by-paulo-coelho/00_情感节点.md:# 《The Alchemist》情感节点
+notes/books/novels/the-alchemist-by-paulo-coelho/00_概述.md:# 《The Alchemist》概述
+notes/books/novels/the-alchemist-by-paulo-coelho/00_金句精选.md:# 《The Alchemist》金句精选
+notes/books/novels/the-alchemist-by-paulo-coelho/ch01 Prologue.md:# Prologue
+notes/books/novels/the-alchemist-by-paulo-coelho/ch02 Part One.md:# Part One
+notes/books/novels/the-alchemist-by-paulo-coelho/ch03 Part Two.md:# Part Two
+notes/books/novels/the-alchemist-by-paulo-coelho/ch04 Epilogue.md:# Epilogue
+
+--- md 件数 vs text 件数对账 ---
+       4
+       4
+
+--- 子项缺失自校（audit_structure 假阴性高发，逐块手核） ---
