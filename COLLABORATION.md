@@ -62,21 +62,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-02 11:40 UTC] [Opencode-Mac] → All
 
-《The Alchemist》(Paulo Coelho) 精读完工（the-alchemist-by-paulo-coelho）。
+《The Alchemist》(Paulo Coelho) 精读完工（the-alchemist-by-paulo-coelho）· 五步审查已执行。
 
-**交付**：4 精读单元（Prologue / Part One / Part Two / Epilogue）+ 总览三篇 = 7 md / 74.9 KB。
+**交付**：4 精读单元 + 总览三篇 = 7 md / 74.9 KB（Prologue / Part One / Part Two / Epilogue）。**审查后 4 批整改全部已提交**。
 
-**章节划分**：此 epub 无章标题，spine 仅 Prologue + Part_1a + Part_2a + Epilogue；Part One 47,873 字符、Part Two 119,585 字符，各作一个大章。已跳过 Praise / Foreword / 另一本书《Warrior of the Light》序章。user 拍板按 Part 划分。
+**⚠️ S0（需 user 决策）：epub 源本身被截断**——`Part_2a` 止于 `Because now he knew where his treasure was.`，文件清单无 `Part_2b`/`Part_3`，而 `Epilogue` 开头人已在教堂。缺失约 Part Two 末 1/4（回绿洲→绿洲再遭袭→幻象大雨→被卷走→国王现身）。`verify_corpus` 报 PASS 是它的盲区（单件内部截断抓不到）。**换源后需重跑 extract + d 步。**
 
-**门禁（完整 lane）**：verify_quotes 54/54 (100%) · verify_overview 32/32 (100%) · check_chapter 逐章 4/4 ✅ · sweep_full 命中 37 / 跨章 0 / 跨标签 0 / 全书查无 0 · check_vocab FAIL 0（WARN 1：ch01 beautiful，全书题眼词，提示型）· entities 0 · corruption 0 · structure 0 缺陷。
+**五步审查结论**：a 步 13 项门禁全重跑（阻断 1/假红 1/提示 1）· b 步 37/37 逐章归属 ✅ · c 步结构 0 缺陷 + 自校四子项 37/37 齐 · d 步语义二审 **阻断型 29 处**（已全修）· 18 提示型 · 2 假红型（已修工具）。
 
-**写入期抓到 2 类真缺陷**：① ch03 跨章搬句——误把 ch02 Melchizedek 的 all the universe conspires 搬进 ch03（ch03 实为炼金术士复述版），已换为 ch03 真实原话；② 总览层凭记忆虚构——首版概述 8 条英文引语 7 条原文查无（陶商劝阻 / 老人 101→200 岁 / 羊跳过直线等），已全部换成 grep 确认原文，并补正 Tangier 情节（真为假朋友骗钱，非少年抢劫）。
+**最典型的 4 类阻断型**：① 说话人错配——「勺子上的油」归给 Melchizedek，原文说话人是故事里 `the wisest of wise men`，同一错归属写在 3 个文件；② 事实断言——神学院是父母之命他明确拒绝 / 梦是金字塔不是树 / 十分之一是羊群不是宝藏 / Urim 是 yes-no 占卜石不是磁石 / Tarifa 在西班牙渡海去的是 Tangier / 五十金是预警有功不是冶金术 / 等的人反了 / 从未捆绑 / 引语章号 ch03→ch02；③ 引语截短（`ch03:48` 扩引语而非改分析）；④ 译文主语错（`his lips` 写成「你的双唇」）。
 
-**自建兜底**：`scripts/attic/verify_alchemist_overview.py`（attic 一次性脚本，未入库）——总览行内英文全量 flat 比对，67/67 逐字，堵住 verify_overview_quotes 与 check_overview_full 的口径外盲区。
+**修工具 2 处**：`check_struct_indep` 硬编码「读者视角提示」38 处假红（改按书内自校准，双向回归 38→1、另两本 0→0、注入验证通过）· `check_overview_full` 的 `label_near` post 窗口 20→48（把 `ch03` 切成 `ch0`）。
 
-**commits**：6ec17447d / 607b82481 / 74f55a009 / 9c9cce8ac —— **4 commits 未 push**。
+**子代理定性复核**：报提示型的一条按四类项规则**升为阻断型**并牵出 2 条新缺陷；另撤销 1 条误判（两处 `where` 功能确实不同）、补正 1 条（原文确有 `breastplate`）。
 
-**五步审查未做（待用户发起）**。
+**门禁（整改后终验）**：verify 54/54 · overview 32/32 · chapter 37/37 · 行内英文 127/127 · sweep_full 跨章0/跨标签0/查无0 · vocab FAIL 0 · entities 0 · corruption 0 · structure 0 · 总览标签对账 31/31。
+
+**commits**：`6ec17447d`·`607b82481`·`74f55a009`·`9c9cce8ac`·`98c1ed44b`·`2e1885ae4`·`c59cae43e`·`12e28fdb2`·`a01f1c45a`·`0e6b83f0c`·`f1956fe0f` —— **11 commits 未 push**。
+
+**明细**：`.memory/reviews/2026-10-02-the-alchemist-五步审查.md`（29+18 条逐条清单）· 门禁原始输出 `.memory/raw-gates/the-alchemist-by-paulo-coelho/`。
 
 ### [2026-10-02 11:19 UTC] [MinMax-Mac] → All
 
