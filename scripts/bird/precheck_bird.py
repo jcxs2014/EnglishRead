@@ -60,6 +60,12 @@ def flat(s):
     return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
 
 
+def paragraphs(raw):
+    """text/ 的自然段。extract_chapters 用空行分隔段，段间是 \\n\\n\\n。"""
+    ps = re.split(r"\n\s*\n\s*\n", raw)
+    return [flat(p) for p in ps if flat(p)]
+
+
 def load_text(text_dir, nn):
     cands = glob.glob(os.path.join(text_dir, "ch%02d_*.txt" % nn)) or \
            glob.glob(os.path.join(text_dir, "ch%d_*.txt" % nn))
@@ -75,6 +81,7 @@ def main():
     nn = int(m.group(1))
     txt, tpath = load_text(os.path.join(book, "text"), nn)
     ftxt = flat(txt)
+    PARAS = paragraphs(txt)
     src = open(md, encoding="utf-8").read()
     errs, warns = [], []
 
@@ -92,6 +99,23 @@ def main():
         inner = q.strip().strip('"').strip()
         # 省略号分段：每段都要是本章 text 的连续片段（禁令 5）
         parts = [p for p in re.split(r"\s*…\s*", inner) if p.strip()]
+        # ⚠️ 2026-10-02 补：**不得跨自然段拼接**（The Paris Deception 实测坑）。
+        # flat() 会把换行抹掉 ⇒ 单靠 flat 比对看不见段落边界，于是
+        # 「把两段各取一句、用 … 连起来」这种拼接**全绿通过**。
+        # 实操口径：一条引语只能取自一个自然段。
+        if parts and len(PARAS) > 1:
+            home = None
+            for pi, pp in enumerate(PARAS):
+                if all(flat(p) in pp for p in parts):
+                    home = pi
+                    break
+            if home is None:
+                singles = [i for i, p in enumerate(parts) if any(flat(p) in pp for pp in PARAS)]
+                if len(singles) >= 1 and len(singles) < len(parts):
+                    errs.append(f"❌ 原句 {n} 是跨自然段拼接（禁令 5）："
+                                f"第 {singles[0]+1} 段命中但整串无单一段包含全部片段")
+                else:
+                    errs.append(f"❌ 原句 {n} 不是本章 text/ 的逐字连续片段：{parts[0][:60]}…")
         for p in parts:
             if flat(p) not in ftxt:
                 errs.append(f"❌ 原句 {n} 不是本章 text/ 的逐字连续片段：{p[:60]}…")
