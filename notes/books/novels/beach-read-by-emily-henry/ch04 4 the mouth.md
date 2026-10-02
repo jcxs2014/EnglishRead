@@ -125,7 +125,7 @@ source_text: "text/ch04 4 the mouth.txt"
 
 **中文理解：**「同一条小街上住着两位已出版作家！在 North Bear Shores！我敢说你们俩整个夏天都会一起瞎扯。我不是说过这镇子到处都是艺术家吗，January？你说这怎么样？」
 **关键词：**Two published writers on the same little street / shooting the shit all summer / How do you like that?
-**为什么这样写：****`Two published writers` 开头的**算式型排比**是 Pete 的说话方式（ch03 她就爱说 `Oh, another writer in town!`），而 `How do you like that?`（你觉得这怎么样？）是**要求对方接话**的句式——她把一场偶遇说成**她安排的成果**。`I bet you two will be`（我敢说你们俩会）用 `I bet`（我打赌）把**希望说成预言**，这是 ch08 那场赌约的**同一个词根**（bet）在别人的嘴里先出现一次。`shooting the shit`（一起瞎扯）是极粗的口语，与她前一句的 `artists` 形成**语域落差**。
+**为什么这样写：****`Two published writers` 开头的**算式型排比**是 Pete 的说话方式（ch03 她就爱说 `Ohhh, another writer in town!`），而 `How do you like that?`（你觉得这怎么样？）是**要求对方接话**的句式——她把一场偶遇说成**她安排的成果**。`I bet you two will be`（我敢说你们俩会）用 `I bet`（我打赌）把**希望说成预言**，这是 ch08 那场赌约的**同一个词根**（bet）在别人的嘴里先出现一次。`shooting the shit`（一起瞎扯）是极粗的口语，与她前一句的 `artists` 形成**语域落差**。
 **读者视角提示：**`I bet`（我打赌）与本章标题无关，却预告了 ch08——写这一章时**只记「这个词在 ch08 会以另一种形式回来」**，不要提前解释赌约内容。
 
 > **原句 17:** "See you at home," Gus called after me.

@@ -34,7 +34,7 @@ source_text: "text/ch17 17 the dance.txt"
 
 **中文理解：**那一刻在我们之间拉开。或更准确地说，它在我们之间绷紧了。
 **关键词：**stretched out / Or rather / it seemed to tighten
-**为什么这样写：****先写后自我更正**是本卷的签名手法（对照 ch01 的 `Metaphorically / Literally`）。`stretched out`（拉长、延伸）是她先给的准确版本，`Or rather, it seemed to tighten`（或者说，它似乎是收紧了）用 `it seemed to`（似乎）把断言降级为**感知报告**。两句之间唯一的实质差别在于：距离没变，**张力变了**。
+**为什么这样写：****先写后自我更正**是本卷的签名手法（对照 ch01 的 `Metaphorically` 与 `Literally`）。`stretched out`（拉长、延伸）是她先给的准确版本，`Or rather, it seemed to tighten`（或者说，它似乎是收紧了）用 `it seemed to`（似乎）把断言降级为**感知报告**。两句之间唯一的实质差别在于：距离没变，**张力变了**。
 **读者视角提示：**紧接的下一句给出机制：`since we didn't move any closer, the air grew taut`（因为我们谁也没再靠近，空气绷紧了）——**不动，比动更耗人**。
 
 > **原句 4:** Something had changed in him, again, and he was (whether intentionally or not) letting it show.

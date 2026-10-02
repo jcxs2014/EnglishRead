@@ -83,7 +83,7 @@ source_text: "text/ch05 5 the labradors.txt"
 
 **中文理解：**「平常我们都用花园，不过平常老天爷不会在头顶上打一个全中，所以今晚只能改室内了。我们还在等一个人。」
 **关键词：**Normally / God isn't bowling a perfect game overhead / inside will have to do tonight
-**为什么这样写：****一个句子里两次 `normally`（平常）**，第二次用 `but` 转折——句法本身就是**「惯例被打断」的形式**。`God isn't bowling a perfect game overhead`（老天爷不在头顶打全中）把**雷暴**写成**保龄球的一记全中**：`bowling`（打保龄球）与 `overhead`（在头顶上方）一放，读者立刻看见那个弧线——天气成了她在高空击出的球。`God` 这个词在 ch02 的 `Episcopalian church` 之后第二次出现，在 ch01 的 `biblical whale` 之后成为**她用宗教词写日常的固定手法**。
+**为什么这样写：****一个句子里两次 `normally`（平常）**，第二次用 `but` 转折——句法本身就是**「惯例被打断」的形式**。`God isn't bowling a perfect game overhead`（老天爷不在头顶打全中）把**雷暴**写成**保龄球的一记全中**：`bowling`（打保龄球）与 `overhead`（在头顶上方）一放，读者立刻看见那个弧线——天气成了她在高空击出的球。`God` 这个词在 ch02 的 `Episcopalian church` 之后第二次出现，在 ch02 的 `biblical whale` 之后成为**她用宗教词写日常的固定手法**。
 **读者视角提示：**`have to do`（只能凑合）这个短语是本句的**日常化落点**——把「被雨困住」写得像在讨论备选方案，是 Pete 这个人物的核心语感：**万事都有个凑合的方案**。
 
 > **原句 11:** Maggie's serene smile seemed to be a version of an affectionate eye roll.

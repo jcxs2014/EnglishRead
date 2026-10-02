@@ -151,3 +151,14 @@ if [ "$OV" -gt 0 ]; then
   [ -n "$EPUB" ] && python3 scripts/check_overview_full.py "$B" "$EPUB" 2>&1 | tail -1 \
                 || echo "❓ 需 epub，本项不判定"
 else echo "（无总览三篇，本项不适用）"; fi
+
+# ⑯ 2026-10-02 新增（Beach Read 第四轮终验）：分析层**跨章指认**核对。
+#   起因：`check_crossref` 只报「查无」，**不报「归错章」**——而 Beach Read 实测
+#   11 处阻断型全是后者（片段真实存在，只是不在被引章），且**系统性往前偏 1–2 章**。
+#   它不违反任何引语规则 ⇒ 前 15 项**全部放行**。本项分两档：
+#     ❌ 伪造（全书查无）  阻断型，必须改；脚本对这一档返回 2
+#     ⚠️ 移章（不在被引章）**只记不改**——「回望前章」是正当写法，真错与正当在这里同形，
+#        机械阻断会把正当内容改坏；**必须人工读行并把处置写进报告**（Beach Read 11 处即如此查出）
+echo; echo "=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）==="
+python3 scripts/check_xref_chapter.py "$B" 2>&1 | sed -n '1,40p'
+

@@ -70,7 +70,7 @@ source_text: "text/ch22 22 the trip.txt"
 **中文理解：**我在这儿。
 **关键词：**I’m here / 两个词
 **为什么这样写：****两个词的回应**——她明确说自己在**有很多话想说**的时候只说出了这一句。`There was so much I wanted to say, but all I could get out was`（我本来有那么多话想说，可我能说出口的只有）——这个前置从句把两个词的重量压到最大。`I'm here`（我在这儿）是一个**位置陈述**，不是情感陈述：**她给出的是在场，不是承诺。**
-**读者视角提示：**他的反应被写成**身体的**：`his brow furrowed and his jaw tensed`（他眉头皱起、下颌绷紧）——**他没有用语言回应，而是用面部回应**，这是本卷的固定手法（对照 ch18 的 `Those sharp lines etched between his brows`）。
+**读者视角提示：**他的反应被写成**身体的**：`his brow furrowed and his jaw tensed`（他眉头皱起、下颌绷紧）——**他没有用语言回应，而是用面部回应**，这是本卷的固定手法（对照 ch18 的 `the sharp lines etched between his brows`）。
 
 > **原句 9:** “You can go back to the tent,” he said gruffly. “You don’t need to see this.”
 
