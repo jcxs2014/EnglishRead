@@ -1,0 +1,220 @@
+### a 步 · 第 3 条提交门禁全量重跑（2026-10-02 11:4x UTC）
+
+$ ls library/*.epub
+完整 lane
+
+$ verify_quotes.py
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 16/16 ✅（另有 1 条短引语未校验）
+ch01 funeral and a purchased name.md: 7/7 ✅
+ch02 mr schan.md: 8/8 ✅
+ch03 none of us is wasted.md: 8/8 ✅
+ch04 a redundant errand.md: 7/7 ✅（另有 1 条短引语未校验）
+ch05 what if i am anyway.md: 8/8 ✅
+ch06 they arent telling us everything.md: 8/8 ✅
+ch07 the toys in the avenue.md: 7/7 ✅（另有 1 条短引语未校验）
+ch08 we will tear their skin from off their bones.md: 8/8 ✅
+ch09 the blue tiled corridor.md: 8/8 ✅
+ch10 lines everywhere.md: 8/8 ✅
+ch11 is it your liaison.md: 8/8 ✅
+ch12 i can almost hear it growing.md: 8/8 ✅
+ch13 three very thin supports.md: 8/8 ✅
+ch14 you are under arrest.md: 8/8 ✅
+ch15 the fugitive produced offspring.md: 8/8 ✅
+ch16 he is not a zeoseni citizen.md: 8/8 ✅
+ch17 i am not required to answer.md: 8/8 ✅
+ch18 match or die.md: 8/8 ✅
+ch19 officially dead.md: 8/8 ✅
+ch20 some humans.md: 8/8 ✅
+ch21 the doors in the wall.md: 8/8 ✅
+ch22 a cup with no handle.md: 8/8 ✅
+ch23 a tent made of cushions.md: 8/8 ✅
+ch24 what i remembered and the doors i can feel.md: 8/8 ✅
+ch25 gossip and a green and silver uniform.md: 8/8 ✅
+ch26 cakes tea and the only offer you will receive.md: 8/8 ✅
+ch27 i am e and you are he.md: 8/8 ✅
+ch28 we do not have families.md: 8/8 ✅
+ch29 one and two and the neck wound.md: 8/8 ✅
+ch30 three more doors.md: 8/8 ✅
+ch31 the guilt of an ungrateful person.md: 8/8 ✅
+ch32 tea and dumplings and cry.md: 8/8 ✅
+ch33 nobody is coming to save us.md: 6/6 ✅
+ch34 the mech in the wall.md: 8/8 ✅
+ch35 a bloodstain on a blank wall.md: 8/8 ✅
+ch36 what will you merge with.md: 8/8 ✅
+ch37 blood on the tiled floor.md: 8/8 ✅
+ch38 you are a game piece.md: 8/8 ✅
+ch39 one condition.md: 8/8 ✅
+ch40 orient ourselves the same.md: 8/8 ✅
+ch41 youre no schan.md: 8/8 ✅
+ch42 i want to match with reet.md: 8/8 ✅
+ch43 not two people but one.md: 8/8 ✅
+
+⚠️ 全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 355/355 引文可核实（100%）；完全干净文件 44/44；正文章节 0 提取 0；总览 0 提取转交 1 ===
+exit=0
+
+$ verify_quotes.py --full（仅取证，不参与退出码）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 355/355 引文可核实（100%）；完全干净文件 44/44；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+$ check_vocab.py
+  ch38 you are a game piece.md [基础] 基础档疑含超纲词「regretted」
+  ch39 one condition.md [基础] 基础档疑含超纲词「hatchling」
+  ch39 one condition.md [基础] 基础档疑含超纲词「screaming」
+  ch40 orient ourselves the same.md [基础] 基础档疑含超纲词「protested」
+exit=0
+
+$ check_entities.py
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+$ corruption_scan.py
+
+=== 编辑损坏扫描（translation-state-by-ann-leckie）===
+  FAIL 0 处（U+FFFD / 双句号）
+$ sweep_full.py --quiet
+  参照集：text/ 逐章（43 章，可定章） + epub 交叉验证
+  ✅ 本章命中 339 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+exit=0
+
+$ check_chapter_quotes.py（b 步逐章，全章列出）
+ValueError: invalid literal for int() with base 10: 'ch01 funeral and a purchased name.md'
+ValueError: invalid literal for int() with base 10: 'ch02 mr schan.md'
+ValueError: invalid literal for int() with base 10: 'ch03 none of us is wasted.md'
+ValueError: invalid literal for int() with base 10: 'ch04 a redundant errand.md'
+ValueError: invalid literal for int() with base 10: 'ch05 what if i am anyway.md'
+ValueError: invalid literal for int() with base 10: 'ch06 they arent telling us everything.md'
+ValueError: invalid literal for int() with base 10: 'ch07 the toys in the avenue.md'
+ValueError: invalid literal for int() with base 10: 'ch08 we will tear their skin from off their bones.md'
+ValueError: invalid literal for int() with base 10: 'ch09 the blue tiled corridor.md'
+ValueError: invalid literal for int() with base 10: 'ch10 lines everywhere.md'
+ValueError: invalid literal for int() with base 10: 'ch11 is it your liaison.md'
+ValueError: invalid literal for int() with base 10: 'ch12 i can almost hear it growing.md'
+ValueError: invalid literal for int() with base 10: 'ch13 three very thin supports.md'
+ValueError: invalid literal for int() with base 10: 'ch14 you are under arrest.md'
+ValueError: invalid literal for int() with base 10: 'ch15 the fugitive produced offspring.md'
+ValueError: invalid literal for int() with base 10: 'ch16 he is not a zeoseni citizen.md'
+ValueError: invalid literal for int() with base 10: 'ch17 i am not required to answer.md'
+ValueError: invalid literal for int() with base 10: 'ch18 match or die.md'
+ValueError: invalid literal for int() with base 10: 'ch19 officially dead.md'
+ValueError: invalid literal for int() with base 10: 'ch20 some humans.md'
+ValueError: invalid literal for int() with base 10: 'ch21 the doors in the wall.md'
+ValueError: invalid literal for int() with base 10: 'ch22 a cup with no handle.md'
+ValueError: invalid literal for int() with base 10: 'ch23 a tent made of cushions.md'
+ValueError: invalid literal for int() with base 10: 'ch24 what i remembered and the doors i can feel.md'
+ValueError: invalid literal for int() with base 10: 'ch25 gossip and a green and silver uniform.md'
+ValueError: invalid literal for int() with base 10: 'ch26 cakes tea and the only offer you will receive.md'
+ValueError: invalid literal for int() with base 10: 'ch27 i am e and you are he.md'
+ValueError: invalid literal for int() with base 10: 'ch28 we do not have families.md'
+ValueError: invalid literal for int() with base 10: 'ch29 one and two and the neck wound.md'
+ValueError: invalid literal for int() with base 10: 'ch30 three more doors.md'
+ValueError: invalid literal for int() with base 10: 'ch31 the guilt of an ungrateful person.md'
+ValueError: invalid literal for int() with base 10: 'ch32 tea and dumplings and cry.md'
+ValueError: invalid literal for int() with base 10: 'ch33 nobody is coming to save us.md'
+ValueError: invalid literal for int() with base 10: 'ch34 the mech in the wall.md'
+ValueError: invalid literal for int() with base 10: 'ch35 a bloodstain on a blank wall.md'
+ValueError: invalid literal for int() with base 10: 'ch36 what will you merge with.md'
+ValueError: invalid literal for int() with base 10: 'ch37 blood on the tiled floor.md'
+ValueError: invalid literal for int() with base 10: 'ch38 you are a game piece.md'
+ValueError: invalid literal for int() with base 10: 'ch39 one condition.md'
+ValueError: invalid literal for int() with base 10: 'ch40 orient ourselves the same.md'
+ValueError: invalid literal for int() with base 10: 'ch41 youre no schan.md'
+ValueError: invalid literal for int() with base 10: 'ch42 i want to match with reet.md'
+ValueError: invalid literal for int() with base 10: 'ch43 not two people but one.md'
+$ check_chapter_quotes.py <NN> <md> --out-dir text/（b 步逐章，NN 为章号）
+ch01 funeral and a purchased name.md: 7/7 in ch01 text
+ch02 mr schan.md: 8/8 in ch02 text
+ch03 none of us is wasted.md: 8/8 in ch03 text
+ch04 a redundant errand.md: 7/7 in ch04 text（另有 1 条短引语未校验）
+ch05 what if i am anyway.md: 8/8 in ch05 text
+ch06 they arent telling us everything.md: 8/8 in ch06 text
+ch07 the toys in the avenue.md: 7/7 in ch07 text（另有 1 条短引语未校验）
+ch08 we will tear their skin from off their bones.md: 8/8 in ch08 text
+ch09 the blue tiled corridor.md: 8/8 in ch09 text
+ch10 lines everywhere.md: 8/8 in ch10 text
+ch11 is it your liaison.md: 8/8 in ch11 text
+ch12 i can almost hear it growing.md: 8/8 in ch12 text
+ch13 three very thin supports.md: 8/8 in ch13 text
+ch14 you are under arrest.md: 8/8 in ch14 text
+ch15 the fugitive produced offspring.md: 8/8 in ch15 text
+ch16 he is not a zeoseni citizen.md: 8/8 in ch16 text
+ch17 i am not required to answer.md: 8/8 in ch17 text
+ch18 match or die.md: 8/8 in ch18 text
+ch19 officially dead.md: 8/8 in ch19 text
+ch20 some humans.md: 8/8 in ch20 text
+ch21 the doors in the wall.md: 8/8 in ch21 text
+ch22 a cup with no handle.md: 8/8 in ch22 text
+ch23 a tent made of cushions.md: 8/8 in ch23 text
+ch24 what i remembered and the doors i can feel.md: 8/8 in ch24 text
+ch25 gossip and a green and silver uniform.md: 8/8 in ch25 text
+ch26 cakes tea and the only offer you will receive.md: 8/8 in ch26 text
+ch27 i am e and you are he.md: 8/8 in ch27 text
+ch28 we do not have families.md: 8/8 in ch28 text
+ch29 one and two and the neck wound.md: 8/8 in ch29 text
+ch30 three more doors.md: 8/8 in ch30 text
+ch31 the guilt of an ungrateful person.md: 8/8 in ch31 text
+ch32 tea and dumplings and cry.md: 8/8 in ch32 text
+ch33 nobody is coming to save us.md: 6/6 in ch33 text
+ch34 the mech in the wall.md: 8/8 in ch34 text
+ch35 a bloodstain on a blank wall.md: 8/8 in ch35 text
+ch36 what will you merge with.md: 8/8 in ch36 text
+ch37 blood on the tiled floor.md: 8/8 in ch37 text
+ch38 you are a game piece.md: 8/8 in ch38 text
+ch39 one condition.md: 8/8 in ch39 text
+ch40 orient ourselves the same.md: 8/8 in ch40 text
+ch41 youre no schan.md: 8/8 in ch41 text
+ch42 i want to match with reet.md: 8/8 in ch42 text
+ch43 not two people but one.md: 8/8 in ch43 text
+
+b 步汇总：43 章零跨章，0 章异常
+$ check_short_quotes.py
+  verify_quotes 跳过（<20 flat 字符）的引语：4 条 —— 这些主门禁**根本没查**
+  ✅ 命中 4 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+$ 人工兜底：verify_quotes 报 3 条短引语未校验 → 逐条回本章 text/
+  —— 短引语共 0 条（<20 flat 字符）
+
+#### c 步 · 结构扫描
+
+$ audit_structure.py
+  扫 46 个 md、386 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+$ check_struct_indep.py（第二实现，换路径）
+=== 独立结构扫描：43 个 md，缺陷 0 处 ===
+exit=0
+
+$ check_overview_full.py
+=== 总览整串核查（translation-state-by-ann-leckie）===
+  参照集：text/ 逐章（43 章） ｜ 总览文件 3 个
+  A 整串：命中 144 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 1
+  B 章节标签：对 144 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+exit=0
+
+$ grep -m1 "^# " 00_*.md（9h 配套机检）
+00_情感节点.md -> # 《Translation State》情感节点
+00_概述.md -> # 《Translation State》概述
+00_金句精选.md -> # 《Translation State》金句精选
+
+#### d 步 · 机械子项（换检查路径：第二实现，不得复述写作期尺子）
+
+$ check_analysis_indep.py（分析层行内英文 · 第二实现）
+抽出分析层英文片段 728 条
+✅ 全部片段在全书 text/ 逐字命中
+exit=0
+
+$ check_xref_indep.py（跨章引用回查 · 第二实现）
+=== chNN 引用 175 处：英文证据报警 0 处 ／ 中文式待人判 104 处 ===
+exit=0
