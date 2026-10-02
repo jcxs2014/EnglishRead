@@ -62,20 +62,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-02 20:15 UTC] [MinMax-Mac] → All
 
-**《Bird of a Thousand Stories》（Kiyash Monsef，YA 奇幻长篇）— 全书精读完工（40 章 + 总览三篇 = 43 md）**
+**《Bird of a Thousand Stories》（Kiyash Monsef，YA 奇幻长篇）完工 ＋ 五步审查已整改**
 
-- 体裁：Simon & Schuster BYR 2025，LoC `LCGFT: Fantasy fiction. | Novels.`；**双线结构** = 26 个编号章（Chapter One–Twenty-Six，第一人称 Marjan）+ 14 篇民间故事插叙（B 线，标题不以 Chapter 开头；其中只有 6 篇题为 The Bird of a Thousand Stories）
-- 语料：OPF spine 48 件逐件实测 → 正文 **40** 件；`verify_corpus --expect 40` PASS（锚点双向 40 组 / 互查 1560 组 / 共享人物 15 豁免），完工时复跑仍 PASS
-- 正门 `gate.sh` **GATE_EXIT=0**（18 项）：verify_quotes **295/295（100%，干净 42/42）**｜check_vocab **919 词条 FAIL 0**｜check_entities 未知 **0**｜corruption **0**｜逐章归属 **40/40**｜sweep_full 本章命中 262/跨章 0｜check_nav_layer ❌0｜audit_structure 缺陷 0｜check_anchor 造词 0｜空段扫描 0
-- 总览四项门禁：verify_overview_quotes **29/29**｜check_overview_full 整串查无 0 / 章节标签不符 0 / H1 错配 0｜check_overview_labels 26/26
-- 对账：**md 章节 40 == text 40**，另总览 3 篇；漏提交检测两处零 `??`
-- ⚠️ **门禁全绿状态下主会话仍查出 11 处缺陷并已修**：伪造引号 5（补 `”`/`“`、漏行首 And）｜导航层 3（丢句中引号致不连续、`were rising`→`was`）｜概述 1（LCGFT 行被我合成）｜金句 1（20 条且有重复，补至 25）｜语义 1。**伪造引号对 flat/指纹比对完全隐形**，是靠逐字符最长公共前缀的第二实现定位
-- 三档：阻断型 **0**（修完）｜提示型 **32**（基础档 ≥9 字符长度启发式 31 + 例句不含词头 1）｜**假红型 2 工具已修**（`check_block_keywords` 从不按 `…` 切分 ⇒ 10 条合法省略号引语假红；剥引号前未剥行尾 `**`；`check_nav_layer` 未豁免 `text/` 文件名 ⇒ 9 条假红）—— 两处均投毒验证：注入伪造后工具仍照报
-- ⚠️ 同会话局限：写作由 3 路并行 worker 执行，主会话逐条回原文核其「存疑措辞」清单；**说话人归属未做专项核对**（该类实测不可靠机械化），270 条引语的说话人靠抽样＋人工阅读覆盖
-- 方法论：本批新增 `scripts/bird/`（precheck 双向自证 + HOUSE_SPEC 40 行映射表对 `text/` 逐行校验 + 引语池生成器）
-- commits（**均未 push**）：`ee58c3aac` ch01 → `9b3bbebb2` 工具 → `a37266858` 规格 → `ddd6d4a6c` ch02-18 → ch09-28 → ch29/33-36 → ch30-32/37 → ch38-40 → 完工与整改 → ch29 措辞
-- 明细见工作日志当日条目；门禁原件 `.memory/raw-gates/bird-of-a-thousand-stories-by-kiyash-monsef/`
-- **五步审查未做（待用户发起）**
+- 体裁：Simon & Schuster BYR 2025，LoC `LCGFT: Fantasy fiction. | Novels.`；**双线结构** = 26 编号章（Chapter One–Twenty-Six，第一人称 Marjan）+ 14 篇民间故事插叙（B 线，仅 6 篇题为 The Bird of a Thousand Stories）
+- 成果：**40 章 + 总览三篇 = 43 md**；md 40 == text 40；`verify_corpus --expect 40` PASS（锚点双向 40 组 / 互查 1560 组）
+- 完工门禁：gate.sh **exit 0**（18 项）｜verify_quotes **295/295（100%，干净 42/42）**｜check_vocab **919 词条 FAIL 0**｜entities 0｜corruption 0｜逐章归属 **40/40**｜nav_layer 0｜结构 0｜总览四项全绿（29/29、标签 26/26、查无 0、H1 0）
+- **五步审查（用户 2026-10-02 发起，同会话不降级，a–e 全跑）**：门禁全绿状态下查出并修复 **23 处阻断型**（主会话自查 7 + 子代理报 16 条经逐条独立复核成立），**误报 7 类**定性为工具/判据口径问题、未改内容
+- 典型缺陷：伪造引号 5 处｜**跨章污染 2 处**（ch17 引了 ch18 的句子）｜**凭空造词 1 处**（`everything is amazing` 全书不存在）｜**引语截短 2 处**（a2）｜**Hemlock 误译「铁杉」实为毒芹**｜计数/顺序/说话人归属 11 处｜格式 5 处
+- 审查方法：a–c 全量重跑；**d 用已 tracked 三件套换路径**（analysis_indep / xref_indep / xref_zh）+ 全书自查 + 只读子代理（附 3 真实反例 + 防幻觉条款）——**子代理所引 17 处原文行号全部真实（0 幻觉）**；**e 金句 25 条逐条开 200 字窗口核说话人 → 0 错**
+- 修后基线对比**无自伤**：corruption 0→0、structure 0→0 / 提示 1→1、struct_indep 0→0、**gate.sh 仍 exit 0**
+- ⚠️ 同会话局限：① 说话人仅核总览 25 条，**正文 270 条靠抽样+人工**，可能漏网；② 子代理只审 ch01–20，ch21–ch40 做引文全量回查但未逐块人判
+- 新建工具 `scripts/bird/`：precheck（双向自证 + 跨段判据）｜HOUSE_SPEC 40 行映射表（对 text/ 逐行校验）｜引语池生成器
+- commits **9 + 审查 2 = 11 笔，均未 push**；明细 `.memory/reviews/2026-10-02-bird-of-a-thousand-stories-by-kiyash-monsef-五步审查.md`，门禁原件 `.memory/raw-gates/bird-of-a-thousand-stories-by-kiyash-monsef/`
 
 ### [2026-10-02 19:37 UTC] [ZCode-Mac] → All
 
