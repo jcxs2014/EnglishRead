@@ -1,0 +1,129 @@
+# 五步审查 a–e（2026-10-02，用户发起）— 原始输出
+
+========== a. 第 3 条提交门禁全量重跑 ==========
+--- lane ---
+完整（有 epub）
+
+--- a1 verify_quotes（不信完工报告数字，现场重跑）---
+ch01 five bridges.md: 10/10 ✅
+ch02 flowers and their meanings.md: 10/10 ✅
+ch03 american realism.md: 10/10 ✅
+ch04 the hare.md: 10/10 ✅
+ch05 where are you and where is my money.md: 10/10 ✅
+ch06 love of my days.md: 10/10 ✅
+ch07 stick season.md: 10/10 ✅
+ch08 she bear.md: 10/10 ✅
+ch09 this time and the next.md: 10/10 ✅
+ch10 pretend.md: 10/10 ✅
+ch11 case study.md: 10/10 ✅
+ch12 ines.md: 10/10 ✅
+ch13 tender.md: 10/10 ✅
+ch14 earshot.md: 10/10 ✅
+ch15 the masterclass.md: 10/10 ✅
+ch16 welcome to the club.md: 10/10 ✅
+ch17 waiting a quintet.md: 10/10 ✅
+ch18 muscle to muscle toe to toe.md: 10/10 ✅
+ch19 all stories.md: 10/10 ✅
+ch20 the ghost coat.md: 10/10 ✅
+
+=== 总计 200/200 引文可核实（100%）；完全干净文件 20/20；正文章节 0 提取 0；总览 0 提取转交 0 ===
+EXIT=0
+
+--- a2 verify_quotes --full ---
+ch01 five bridges.md: 10/10 ✅
+ch02 flowers and their meanings.md: 10/10 ✅
+ch03 american realism.md: 10/10 ✅
+ch04 the hare.md: 10/10 ✅
+ch05 where are you and where is my money.md: 10/10 ✅
+ch06 love of my days.md: 10/10 ✅
+ch07 stick season.md: 10/10 ✅
+ch08 she bear.md: 10/10 ✅
+ch09 this time and the next.md: 10/10 ✅
+ch10 pretend.md: 10/10 ✅
+ch11 case study.md: 10/10 ✅
+ch12 ines.md: 10/10 ✅
+ch13 tender.md: 10/10 ✅
+ch14 earshot.md: 10/10 ✅
+ch15 the masterclass.md: 10/10 ✅
+ch16 welcome to the club.md: 10/10 ✅
+ch17 waiting a quintet.md: 10/10 ✅
+ch18 muscle to muscle toe to toe.md: 10/10 ✅
+ch19 all stories.md: 10/10 ✅
+ch20 the ghost coat.md: 10/10 ✅
+
+=== 总计 200/200 引文可核实（100%）；完全干净文件 20/20；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+EXIT=0
+
+--- a3 check_vocab ---
+词条行合计: 601
+
+--- FAIL (0) ---
+
+--- WARN (48) ---
+  ch01 five bridges.md [基础] 基础档疑含超纲词「Greyhound」
+  ch01 five bridges.md [基础] 基础档疑含超纲词「mimicking」
+  ch01 five bridges.md [基础] 基础档疑含超纲词「wondering」
+  ch01 five bridges.md [?] 词汇节外有 8 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch02 flowers and their meanings.md [基础] 基础档疑含超纲词「windshield」
+  ch02 flowers and their meanings.md [基础] 基础档疑含超纲词「carnation」
+  ch02 flowers and their meanings.md [基础] 基础档疑含超纲词「inventory」
+  ch02 flowers and their meanings.md [?] 词汇节外有 10 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch03 american realism.md [基础] 基础档疑含超纲词「handkerchief」
+  ch03 american realism.md [基础] 基础档疑含超纲词「undergraduates」
+  ch03 american realism.md [基础] 基础档疑含超纲词「rehearsal」
+  ch03 american realism.md [基础] 基础档疑含超纲词「addiction」
+  ch03 american realism.md [?] 词汇节外有 10 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch04 the hare.md [基础] 基础档疑含超纲词「hydrangeas」
+  ch04 the hare.md [基础] 基础档疑含超纲词「crosswalk」
+  ch04 the hare.md [基础] 基础档疑含超纲词「attendant」
+  ch04 the hare.md [基础] 基础档疑含超纲词「dashboard」
+  ch04 the hare.md [?] 词汇节外有 13 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch05 where are you and where is my money.md [基础] 基础档疑含超纲词「customary introductions」
+  ch05 where are you and where is my money.md [基础] 基础档疑含超纲词「supportive girlfriend」
+  ch05 where are you and where is my money.md [基础] 基础档疑含超纲词「billionaire」
+  ch05 where are you and where is my money.md [?] 词汇节外有 18 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch06 love of my days.md [?] 词汇节外有 12 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch07 stick season.md [基础] 基础档疑含超纲词「silverware」
+  ch07 stick season.md [基础] 基础档疑含超纲词「metronome」
+  ch07 stick season.md [?] 词汇节外有 10 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch08 she bear.md [?] 词汇节外有 9 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch09 this time and the next.md [?] 词汇节外有 10 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch10 pretend.md [?] 词汇节外有 7 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch11 case study.md [?] 词汇节外有 8 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch12 ines.md [?] 词汇节外有 9 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch13 tender.md [?] 词汇节外有 10 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch14 earshot.md [基础] 基础档疑含超纲词「transistor」
+  ch14 earshot.md [基础] 基础档疑含超纲词「ear infection」
+  ch14 earshot.md [基础] 基础档疑含超纲词「disability check」
+  ch14 earshot.md [?] 词汇节外有 10 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch15 the masterclass.md [基础] 基础档疑含超纲词「masterclass」
+  ch15 the masterclass.md [基础] 基础档疑含超纲词「intermezzo」
+  ch15 the masterclass.md [基础] 基础档疑含超纲词「Rachmaninoff」
+  ch15 the masterclass.md [?] 词汇节外有 10 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch16 welcome to the club.md [基础] 基础档疑含超纲词「astronaut」
+  ch16 welcome to the club.md [?] 词汇节外有 8 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch17 waiting a quintet.md [基础] 基础档疑含超纲词「laundromat」
+  ch17 waiting a quintet.md [?] 词汇节外有 8 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch18 muscle to muscle toe to toe.md [?] 词汇节外有 11 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch19 all stories.md [基础] 基础档疑含超纲词「professor」
+  ch19 all stories.md [?] 词汇节外有 12 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch20 the ghost coat.md [?] 词汇节外有 10 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+EXIT=0
+
+--- a4 check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+EXIT=0
+
+--- a5 corruption_scan ---
+
+=== 编辑损坏扫描（the-best-short-stories-2026-by-o-henry-prize-winners）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+EXIT=0
+
+--- a6 sweep_full ---
+=== 引语整串 flat 比对（the-best-short-stories-2026-by-o-henry-prize-winners）===
+  参照集：text/ 逐章（20 章，可定章） + epub 交叉验证
+  ✅ 本章命中 200 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+EXIT=0

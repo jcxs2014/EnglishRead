@@ -1,0 +1,72 @@
+========== d. 语义二审 · 机械子项（第二实现 + 终验标准件）==========
+--- d1 sweep_full（终验标准件：整串 flat 比对，52 字符指纹盲区的克星）---
+=== 引语整串 flat 比对（the-best-short-stories-2026-by-o-henry-prize-winners）===
+  参照集：text/ 逐章（20 章，可定章） + epub 交叉验证
+  ✅ 本章命中 200 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+EXIT=0
+
+--- d2 sweep_analysis_inline（七档）---
+=== 分析层行内英文逐字核查（the-best-short-stories-2026-by-o-henry-prize-winners）===
+  参照集：text/（27 个提取件） + epub 交叉验证 ；扫 20 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：964 个表格行、820 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1723 ｜ ⚠️ 跨章 3 ｜ 🔶 拼接 16 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 662
+  ⚠️  ch07 stick season.md:29  「look like」→ 实为 ch4,9,12
+  ⚠️  ch07 stick season.md:53  「The problem ...」→ 实为 ch1,4,5,11
+  ⚠️  ch18 muscle to muscle toe to toe.md:45  「so...that」→ 实为 ch1,3,4,5
+  🔶 ch06 love of my days.md:45  「His team consisted of ...」→ 整串（跨标签拼接）
+  🔶 ch06 love of my days.md:53  「At their mother’s words they spun toward her, not wonder」→ 分段命中
+  🔶 ch06 love of my days.md:53  「not...but」→ 分段命中
+  🔶 ch06 love of my days.md:61  「It had seemed ... that he’d come up in the world」→ 分段命中
+  🔶 ch06 love of my days.md:155  「It had seemed ... that ...」→ 分段命中
+  🔶 ch07 stick season.md:21  「At least I’m not wearing ...」→ 整串（跨标签拼接）
+  🔶 ch07 stick season.md:37  「uncoiling the gray scarf ...」→ 整串（跨标签拼接）
+  🔶 ch07 stick season.md:37  「She watched him do it, memorizing ...」→ 整串（跨标签拼接）
+  🔶 ch07 stick season.md:53  「Tabitha, who was thirty-two, felt keen on ...」→ 整串（跨标签拼接）
+  🔶 ch07 stick season.md:53  「Henry, who was thirty-seven, didn’t feel like ...」→ 整串（跨标签拼接）
+  🔶 ch07 stick season.md:77  「the sense that ...」→ 整串（跨标签拼接）
+  🔶 ch07 stick season.md:93  「All she knew was that ...」→ 整串（跨标签拼接）
+  🔶 ch07 stick season.md:93  「It was like those mornings that ...」→ 整串（跨标签拼接）
+  🔶 ch07 stick season.md:156  「a way that she could understand ... : how Henry could bo」→ 分段命中
+  🔶 ch17 waiting a quintet.md:77  「too...to...」→ 整串（跨标签拼接）
+  🔶 ch18 muscle to muscle toe to toe.md:37  「There was no need for him to know that..., that...」→ 分段命中
+EXIT=0
+
+--- d3 check_analysis_indep（分析层第二实现）---
+抽出分析层英文片段 1523 条
+✅ 全部片段在全书 text/ 逐字命中
+EXIT=0
+
+--- d4 check_xref_indep（跨章引用第二实现）---
+=== chNN 引用 0 处：英文证据报警 0 处 ／ 中文式待人判 0 处 ===
+EXIT=0
+
+--- d5 check_block_keywords（引语是否短于它支撑的分析 · 第 9a2 类）---
+  ❌ ch10 pretend.md: 未找到任何 `> **原句 N:**` 引语块
+  ❌ ch11 case study.md: 未找到任何 `> **原句 N:**` 引语块
+  ❌ ch12 ines.md: 未找到任何 `> **原句 N:**` 引语块
+  ❌ ch13 tender.md: 未找到任何 `> **原句 N:**` 引语块
+  ❌ ch14 earshot.md: 未找到任何 `> **原句 N:**` 引语块
+  ❌ ch15 the masterclass.md: 未找到任何 `> **原句 N:**` 引语块
+  ❌ ch16 welcome to the club.md: 未找到任何 `> **原句 N:**` 引语块
+  ❌ ch17 waiting a quintet.md: 未找到任何 `> **原句 N:**` 引语块
+  ❌ ch18 muscle to muscle toe to toe.md: 未找到任何 `> **原句 N:**` 引语块
+  ❌ ch19 all stories.md: 未找到任何 `> **原句 N:**` 引语块
+  ❌ ch20 the ghost coat.md: 未找到任何 `> **原句 N:**` 引语块
+=== 引语块覆盖度：20 个 md，问题 20 处 ===
+
+--- d6 check_anchor（关键词锚定）---
+=== 关键词锚定自查（the-best-short-stories-2026-by-o-henry-prize-winners）===
+  扫 20 个 md，200 个引语块，200 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（27 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+EXIT=0
+
+--- d7 audit_numbers（计数断言）---
+=== 计数断言核查（the-best-short-stories-2026-by-o-henry-prize-winners）===
+  扫 20 个 md；抓到断言 77 条（含不可机械核查的年龄/百分比 18 条）
+  词数口径：连写算 1 词（`well-known`=2、`don't`=1）—— 差 1 极可能是口径而非错误
+  ❌ 不符（差 ≥2）0 ｜ ⚠️ 差 1 0 ｜ ❓ 参照串未解析未判 47 ｜ ⚪ 不可机械核查 18
+EXIT=0
