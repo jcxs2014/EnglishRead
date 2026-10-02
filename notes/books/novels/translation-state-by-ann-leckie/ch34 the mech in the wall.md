@@ -15,7 +15,7 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** "Up close, the committee member for the Geck’s mech was an even more pitiful thing. Limp, wilted limbs and eyestalks emerging out of the wall."
+> **原句 1:** "Up close, the committee member for the Geck’s mech was an even more pitiful thing. Limp, wilted limbs and eyestalks emerging out of the wall. Part of the blobby body, with three more limbs and an eyestalk, these twitching occasionally. Where the bio mech met the wall, some sort of bluish fluid seeped and clung."
 
 **中文理解：** 凑近看，那位 Geck 委员的机甲更加可怜：软塌塌、枯萎的肢体从墙里伸出来，部分泡状的身体带着另外三条肢体和一根眼柄，间歇性地抽动；机甲与墙相接的地方渗出某种蓝色的液体，挂在上面。
 

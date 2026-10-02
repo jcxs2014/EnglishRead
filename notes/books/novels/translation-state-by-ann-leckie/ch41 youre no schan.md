@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会感到这一章没有给自报的身份任何结论：说了，被否认，就此打住。
 
-> **原句 7:** "And sang, his voice wavering wildly, “Oh, we’re soldiers, Soldiers of Hikipu. We’ve pledged our service to Lovehate Station.” The Siblings of Hikipu sang it at every meeting, and by now Reet could have sung it in his sleep."
+> **原句 7:** "He took as much of a breath as he could manage, given the knife edge against his throat. And sang, his voice wavering wildly, “Oh, we’re soldiers, Soldiers of Hikipu. We’ve pledged our service to Lovehate Station.” The Siblings of Hikipu sang it at every meeting, and by now Reet could have sung it in his sleep."
 
 **中文理解：** 他尽量吸了一口气——喉咙上还压着刀刃——然后唱了起来，声音抖得厉害：「哦，我们是士兵，Soldiers of Hikipu。我们已向 Lovehate Station 宣誓效忠。」Siblings of Hikipu 每次聚会都唱这一段，而现在的 Reet 睡梦里都能唱出来。「我们会带着枪、带着刀去见 Phen，我们会……」
 
@@ -85,7 +85,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会想起第一章那栋房子、第九章的邻居与全书的族谱：Reet 想要的一直是归属，而这一章他用命去换一句承认。
 
-> **原句 8:** "He kicked and punched out as his captor tightened his grip around Reet’s neck. He thought maybe he was connecting with something, but couldn’t tell if it was his captor, or a wall, or what, and before long his vision began to spark, and darken at the edges, and then there was nothing."
+> **原句 8:** "The knife’s edge dug farther into Reet’s neck and he thought, Well, I’m dead. And since he was already dead, he might as well fight. He kicked and punched out as his captor tightened his grip around Reet’s neck. He thought maybe he was connecting with something, but couldn’t tell if it was his captor, or a wall, or what, and before long his vision began to spark, and darken at the edges, and then there was nothing."
 
 **中文理解：** 他一边踢一边朝外打，而抓住他的人把他的脖子箍得更紧。他觉得自己大概打中了什么，却分不清那是人、是墙还是别的什么；不久之后，他的视野开始冒出火花，边缘暗下去，然后就什么也没有了。
 

@@ -77,7 +77,7 @@ modified: "2026-10-02"
 
 **读者视角提示：** 读者会意识到这两个人此刻的困境其实是同一件事：都在为一件自己无法控制的事负全责。
 
-> **原句 7:** "“You can feel sorry for yourself later. I’ll help you. We’ll have tea and dumplings and cry. I promise. Sometimes it’s good to cry. And I don’t want to tell you not to feel what you’re feeling, you have every reason to feel it."
+> **原句 7:** "“You can feel sorry for yourself later. I’ll help you. We’ll have tea and dumplings and cry. I promise. Sometimes it’s good to cry. And I don’t want to tell you not to feel what you’re feeling, you have every reason to feel it. But right now we have to get out of here."
 
 **中文理解：** 「你以后可以再为自己难过。我会帮你。我们会喝茶、吃饺子，然后哭一场。我保证。有时候哭一场是好的。而且我不想叫你别去感受你现在感受的东西，你完全有理由去感受。但我们现在得先出去。我们至少得试一下。」
 
