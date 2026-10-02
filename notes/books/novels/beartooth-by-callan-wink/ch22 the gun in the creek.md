@@ -44,7 +44,7 @@ modified: "2026-10-02"
 
 **关键词**：Dad, pretty great, ever done this before, pulled it off
 
-**为什么这样写**：Hazen 给这次行动找的不是法律上的理由，而是父亲的在场认可；这比 Thad 那套关于重力的说法更脆弱，因为它要靠一个已经不在的人来评价。这一段自己就把理由说尽了：maybe no one that’s ever done this before、he’d like to hear about、that we pulled it off，三句全是过去时与虚拟语气，说的都是别人的看法。
+**为什么这样写**：Hazen 给这次行动找的不是法律上的理由，而是父亲的在场认可；这比 Thad 那套关于重力的说法更脆弱，因为它要靠一个已经不在的人来评价。这一段自己就把理由说尽了：There might be no one that’s ever done this before、he’d like to hear about、that we pulled it off，三句全是过去时与虚拟语气，说的都是别人的看法。
 
 **读者视角提示**：这是本章唯一一段 Hazen 主动说出愿望（他想要父亲觉得这事 great）。紧接着 Thad 用「还没跑掉」把它切断，兄弟分歧不在道德，在想象力——一个要的是被认可，一个只看得见还没发生的事实。
 
