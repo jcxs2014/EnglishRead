@@ -82,15 +82,7 @@ modified: "2026-10-02"
 - **表达方式**：否定疑问句表面是邀答，实际不容反驳；第二句不给情绪，只给身体——两拳撑在胯上，是一个占住空间的姿势。
 - **为什么这样写**：一九八五年咖啡店里，老板听见她说要去北方，先问"你干嘛跑那么远"，再问这句。她笑着回答"我爱南方，这里永远是我的家"，而心里明白：他在她的话底下找一句真话，她的眼睛像审讯灯。这一句之后紧接着邓巴那句"我们戴着那张咧嘴说谎的面具"——面具不是比喻，是她当时正在做的事。
 
-> **原句 6:** "Today when I am in a subway car in New York, I grip the cold metal pole and look up and around and pretend I am alone in the world."
-
-- **中文理解**：如今我在纽约的地铁车厢里，攥着那根冰冷的金属杆，抬头四顾，假装这世上只有我一个人。
-- **句子结构**：when 引导的时间状语从句；主句含三个并列谓语 grip / look / pretend，前两个由 and 连接，第三个前再加 and；pretend 后接省略 that 的宾语从句。
-- **关键词**：`grip the cold metal pole`、`look up and around`、`pretend I am alone in the world`
-- **表达方式**：三个动作一个比一个往内收——抓住、张望、然后关闭；cold 是唯一的触觉词，metal 是唯一的材质词，两者合起来代替了人与人之间的接触。
-- **为什么这样写**：北方这个梦的落点。她先写当年在地铁里看见陌生人紧贴却不说话，觉得像走进了科幻片；再写那次有人帮一位女士取回包，她松了口气想"原来他们也是人"。而这一句写的是结局：她已经学会这套动作，自己也成了地铁里的僵尸之一。
-
-> **原句 7:** "I use the word “home” just as promiscuously."
+> **原句 6:** "I use the word “home” just as promiscuously."
 
 - **中文理解**：我用"家"这个词，同样随便。
 - **句子结构**：主句为"主语 I + 谓语 use + 宾语 the word "home" + 方式状语 just as promiscuously"；just as 回指前句对"love"一词的批评。
@@ -98,7 +90,7 @@ modified: "2026-10-02"
 - **表达方式**：promiscuously 本义指用情不专，被挪来形容用词；前面那位高中英语老师嫌"爱"字被滥用，这里作者自认"家"字更滥。
 - **为什么这样写**：这是她对自己方法的一次坦白，也是全章的自辩——她把旅馆房间、公寓、甚至借来的帐篷都叫作"家"。紧接着的一句是真正的转折："可我这辈子最能感到是在家的地方，一直都在别处。"
 
-> **原句 8:** "When I ask him what the term “home” means to him, he says that home is a place where he is recognized."
+> **原句 7:** "When I ask him what the term “home” means to him, he says that home is a place where he is recognized."
 
 - **中文理解**：我问他"家"这个词对他意味着什么，他说，家是一个有人认得你的地方。
 - **句子结构**：when 引导的时间状语从句，内含 what 引导的宾语从句；主句 he says 后接 that 引导的宾语从句，从句内 home is a place 后接 where 引导的定语从句。
@@ -106,7 +98,7 @@ modified: "2026-10-02"
 - **表达方式**：定义里不用 love、不用 belong，用 recognized（被认出、被承认）——一个被动语态，主语是被看的人，动作来自别人。
 - **为什么这样写**：柯蒂斯的答案，也是全章给出的最有力的一条。作者紧接着写下他被认得的代价：刚到佛蒙特的头半年，几乎每个遇到的警察都要拦下他盘问；直到他成了"骑自行车的那个黑人"，盘问才停。被认得与被盯上，在这里是同一件事的两面。
 
-> **原句 9:** "“Because I love it here,” Larry said evenly; he had heard this question before. “This is my home.”"
+> **原句 8:** "“Because I love it here,” Larry said evenly; he had heard this question before. “This is my home.”"
 
 - **中文理解**："因为我爱这里，"拉里平静地说；这个问题他听过不止一次。"这里是我的家。"
 - **句子结构**：引语被分号后的独立分句打断；前段为 Because 引导的原因从句"主语 I + 谓语 love + 宾语 it"；后段为"主语 This + 系动词 is + 表语 my home"；分句用过去完成时 had heard。
@@ -114,7 +106,7 @@ modified: "2026-10-02"
 - **表达方式**：evenly（平静地）这个副词说明这不是一次情绪爆发，而是一句准备好的回答；had heard…before 说明他被问过很多次，答案已经磨平。
 - **为什么这样写**：这一句回答的是学生那个带刺的问题"既然这么糟，你为什么不走"。作者把这句当成全章的答案之一，并紧接着写下她学到的东西：在家未必等于安宁。拉里收到过装着死亡威胁的仇恨信，把它们整整齐齐归档——爱和不安，在他这里是同时成立的。
 
-> **原句 10:** "“This a white state and the majority of the people want to keep it that way,” reads one letter. “People like you will never be welcome outside of the South Bronx and Harlem.”"
+> **原句 9:** "“This a white state and the majority of the people want to keep it that way,” reads one letter. “People like you will never be welcome outside of the South Bronx and Harlem.”"
 
 - **中文理解**："本州是白人的州，大多数人想让它一直是这样，"其中一封信写道。"像你这种人，除了南布朗克斯和哈莱姆，永远不受欢迎。"
 - **句子结构**：两段引语，倒装的转述动词 reads 置于主语 one letter 之前；前段由 and 连接两个分句，后段主语 People like you、谓语 will never be welcome，后接地点状语 outside of…。
@@ -122,7 +114,7 @@ modified: "2026-10-02"
 - **表达方式**：第一句故意漏掉系动词（This a white state），是仇恨信的原生语法；"像你这种人"直接沿用标题里的 people like me，把标题反过来砸向作者。
 - **为什么这样写**：全章最重的一击，而且它出现在作者刚刚写完佛蒙特的种种美德之后。她写下两件"最糟的事"：一是这些信写得有多近（最近的一封写于二〇〇二年），二是信的内容让她有多不意外。不意外，才是这一章真正的结论。
 
-> **原句 11:** "Before the scene drowns out all thought, two sentences flash in my mind, their letters towering and spectacular: I am alive. I am safe."
+> **原句 10:** "Before the scene drowns out all thought, two sentences flash in my mind, their letters towering and spectacular: I am alive. I am safe."
 
 - **中文理解**：在眼前的景象淹没所有念头之前，两个句子在我脑中闪过，字母高耸而壮观：我活着。我是安全的。
 - **句子结构**：Before 引导的时间状语从句；主句"主语 two sentences + 谓语 flash + 地点状语 in my mind"，后接独立主格 their letters towering and spectacular；冒号后接两个短句作同位。

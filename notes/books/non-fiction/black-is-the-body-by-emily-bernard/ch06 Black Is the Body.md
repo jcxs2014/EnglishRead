@@ -100,7 +100,7 @@ modified: "2026-10-02"
 
 - **中文理解**：可是情人节前一周，吉尔伯特告诉伊莎贝拉，那一年他只给浅肤色的人送卡片。他答应她，她要等到第二年才能拿到自己的。
 - **句子结构**：首句为 But 引导的复合句，含两个分句；第二句为含间接引语的陈述句，he promised 在句末作插入成分。
-- **关键词**:`he was only going to give the light people cards`、`She would get her card the following year`、`he promised`
+- **关键词**：`he was only going to give the light people cards`、`She would get her card the following year`、`he promised`
 - **表达方式**：分类由孩子用最朴素的颜色词完成；he promised 放在最后，把一份明确的伤害写成一份承诺。
 - **为什么这样写**：这是全篇的伤口所在。四岁的分类学不需要恶意，作者偏偏说了 I may never know——这句诚实让后面两个成人故事（荷兰移民、Malcolm X 的预言）都变得可疑。
 
