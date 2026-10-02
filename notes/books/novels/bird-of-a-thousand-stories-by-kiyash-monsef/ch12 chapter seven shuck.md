@@ -4,7 +4,7 @@ modified: "2026-10-02"
 ---
 
 
-# 07. Shuck（书内 Chapter Seven）
+# 12. Shuck（书内 Chapter Seven）
 
 ## 本章导航
 
@@ -43,7 +43,7 @@ modified: "2026-10-02"
 - **中文理解**：那是六道线。一道粗的、带锯齿的横线，还有五道更细的线斜着往下刮，穿过它，弯成一道粗糙的弧。
 - **关键词**：There were six lines / One thick, jagged horizontal line / five thinner lines scraping downward
 - **为什么这样写**：这一段是全节的落点，所以句子短促、动词全用动作：`scraping`、`downward`、`through`、`curve`。六道线没有被命名，作者不给它任何图式，只给粗细两组对比和朝向。`rough` 一词把弧度写糙，暗示这不是字迹，而是皮肤自己长出来的图形。
-- **读者视角提示**：写到这里读者已经跟着她的手掌在看。写在此之前的那段里，皮肤被形容为「比她的眼睛还浅的灰」，而印记所在的一小块是「鼓起来、发炎的」——先给颜色和质感，再给图案，顺序就是她伸手的过程。
+- **读者视角提示**：写到这里读者已经跟着她的手掌在看。写在此之前的那段里，皮肤被形容为「比他的眼睛还浅的灰」，而印记所在的一小块是「鼓起来、发炎的」——先给颜色和质感，再给图案，顺序就是她伸手的过程。
 
 > **原句 5:** "Because it was as clearly a message as was the seed in the lamb’s vegetable guts."
 

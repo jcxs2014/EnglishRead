@@ -18,13 +18,30 @@
 ## 双线结构（**最易写错的结构性事实**）
 
 - **A 线＝书内编号章**：标题形如 `Chapter One:` … `Chapter Twenty-Six:`，共 **26** 章，第一人称（Marjan 当下线）
-- **B 线＝民间故事插叙**：标题**不**以 `Chapter` 开头，共 **14** 篇，第三人称（尼沙浦尔孤儿寻「千鸟」的民谣线）
+- **B 线＝民间故事插叙**：标题**不**以 `Chapter` 开头，共 **14** 篇
 
 ⚠️ **B 线的 14 篇里只有 6 篇标题是 `THE BIRD OF A THOUSAND STORIES`**，另外 8 篇各有自己的民间故事题名
 （`The Great Family and the Tiny Dragon` / `The Lamb in the Garden` / `The Turtledove and the Wind` /
 `The Winged Horse of Kashan` / `A Fire in the Desert` / `The Old Name of the Bear` /
 `The Forest That Returned` / `Boitatá`）。
 ⇒ **判定归属看标题是否以 `Chapter` 开头，不看它是不是「千鸟」**。这是本批次最容易搞错的结构性事实。
+
+### ⚠️ B 线内部人称不统一（2026-10-02 实测，本文件此前写错）
+
+我最初把 B 线整体写成「第三人称全知/说书人」——**这是错的**，已按 `text/` 逐篇实测修正。
+写「视角」栏前必须按下表，**不要套用统一口径**：
+
+| 人称 | 篇目 |
+|---|---|
+| **第一人称亲历**（`I` 明显多于三人称） | ch09（I=42）· ch16（22）· ch18（28）· ch27（18）· **ch40（109，全书收束）** |
+| 第三人称全知/说书人 | ch01 · ch03 · ch05 · ch08 · ch22 · ch24 · ch28 · ch34 · ch38 |
+
+⚠️ **ch40 是全书收束却是第一人称**（`I` 出现 109 次）——按第三人称写必错。
+⚠️ **ch27 开头仍有说书人报幕**（`THERE IS A TERRIBLE PART TO THIS STORY.`），但正文是亲历者自述。
+**判据：先 `grep -c '\bI\b'` 与 `head -6` 读本章实况，再写视角栏。**
+
+⚠️ 同理，**A 线各章出现的人名也不一致**：ch25 的 `Marjan` 实测为 **0**（只有 `Mar`），
+`Zorro` 在 ch25/ch26 为 0。⇒ **导航与分析层里出现具体人名前，先 `grep` 本章确认**。
 
 ## 章号映射表（`text/` 件号 → 书内章号/线别/标题）
 
@@ -96,6 +113,16 @@ modified: "2026-10-02"
 
 ## 一句话总结      ← 必须有正文
 ```
+
+## 写「视角」栏之前（**这一步最容易写错**）
+
+- **B 线（插叙）人称不统一**：见上方「B 线内部人称不统一」表——
+  ch09 / ch16 / ch18 / ch27 / **ch40** 是**第一人称亲历**，其余才是第三人称全知/说书人。
+  ⚠️ **ch40 是全书收束却是第一人称**（`I` 出现 109 次），按第三人称写必错。
+  **别套统一口径**（本文件此前就写错过一次，由 ch27 worker 报告纠正）。
+- **A 线人名逐章不同**：出现 `Marjan`/`Mar`/`Malloryn`/`Zorro` 前先 `grep` 本章确认
+  （实测 ch25 的 `Marjan` 为 **0**，只有 `Mar`；`Zorro` 在 ch25/ch26 为 0）。
+- 判据动作：`grep -c '\bI\b' text/chNN_*.txt` ＋ `head -6 text/chNN_*.txt` ＋ `grep -c 'Marjan' text/chNN_*.txt`。
 
 ## 硬规则（违反即 precheck 报 ❌，禁止 commit）
 
