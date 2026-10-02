@@ -30,14 +30,14 @@ modified: "2026-10-02"
 - **为什么这样写**：这半句话是对昏迷的 Xavier 说的，用 whispers 而不是 said，因为 Whitney 正坐在同一把椅子上；作者让读者同时看到她一边安慰儿子、一边背着儿子的母亲。
 - **读者视角提示**：紧跟其后的是 `But somewhere along the line, Blair has failed.`——被安慰的是孩子，认错的却是她自己。
 
-> **原句 3:** "Have I done something wrong?” Blair asks. Her voice shakes. “Or is this about Chloe?”
+> **原句 3:** "Have I done something wrong?” Blair asks. Her voice shakes. “Or is this about Chloe?”"
 
 - **中文理解**：「我做错了什么吗？」Blair 问。她的声音在抖。「还是说这事跟 Chloe 有关？」
 - **关键词**：Have I done something wrong / voice shakes / about Chloe
 - **为什么这样写**：一个问句被拆成引语—叙述—引语，`Her voice shakes.` 硬挤在两句台词中间，把追问变成一次身体失控；两个选项都不含指控，却逼 Whitney 只能挑一个回答。
 - **读者视角提示**：Whitney 的回应只有 `Whitney is eerily still.`——越不动，越说明后一个选项踩中了她。
 
-> **原句 4:** "Come on, Whit, we’re closer than this.” Blair reaches for her arm. She wants to shake her awake, pinch her until she speaks, end this ridiculous tension between them, but Whitney yanks her arm away.
+> **原句 4:** "Come on, Whit, we’re closer than this.” Blair reaches for her arm. She wants to shake her awake, pinch her until she speaks, end this ridiculous tension between them, but Whitney yanks her arm away."
 
 - **中文理解**：「得了吧 Whit，我们比这更亲近。」Blair 去抓她的胳膊。她想把她摇醒、掐到她开口、结束这 ridiculous 的僵持，可 Whitney 把胳膊一把甩开。
 - **关键词**：closer than this / pinch her until she speaks / yanks her arm away

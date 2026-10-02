@@ -30,7 +30,7 @@ modified: "2026-10-02"
 - **为什么这样写**：`Four and a half hours too soon.` 独立成段，把一个抽象的「后悔」换算成一个具体的钟点误差；这一段的长度对上了前面「还没开始痛」的等待。
 - **读者视角提示**：这里的 soon 指的是**说早了**，不是「他回来得晚」——作者用同一个词把方向钉在读者这边。
 
-> **原句 3:** "Ben’s gone to the hospital. I heard him tell the cabbie when he left.” She gestures to the street.
+> **原句 3:** "Ben’s gone to the hospital. I heard him tell the cabbie when he left.” She gestures to the street."
 
 - **中文理解**：「Ben 去医院了。」她说他出门时讲给出租车司机听的。她朝街上比了比。
 - **关键词**：gone to the hospital / tell the cabbie / gestures to the street

@@ -44,7 +44,7 @@ modified: "2026-10-02"
 - **为什么这样写**：一句里塞进三个时间点（更早／尖叫之前／手在后袋），全靠句号断开，不给一个连接词；`cupping her ass` 是本章最直接的实写，把 Whitney 之前的猜想换成了确证。
 - **读者视角提示**：她在这里把「他为什么要道歉」和「他的手在哪里」接到了一起，而 Ben 那边什么都不知道。
 
-> **原句 5:** "I heard you’re coaching the junior school softball team? Xavier wants to try out in the spring, but he’s not the most athletically inclined.”
+> **原句 5:** "I heard you’re coaching the junior school softball team? Xavier wants to try out in the spring, but he’s not the most athletically inclined.”"
 
 - **中文理解**：「听说你在带小学组的垒球队？Xavier 想春天去试试，可他实在算不上爱运动。」
 - **关键词**：coaching the junior school softball team / try out in the spring / not the most athletically inclined

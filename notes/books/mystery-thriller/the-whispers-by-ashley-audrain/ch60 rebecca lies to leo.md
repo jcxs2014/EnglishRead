@@ -16,7 +16,7 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** "How could you have let me comfort you? Hold your hand?”
+> **原句 1:** "How could you have let me comfort you? Hold your hand?”"
 
 - **中文理解**：「你怎么能让我来安慰你？让我握着你的手？」
 - **关键词**：let me comfort you / Hold your hand

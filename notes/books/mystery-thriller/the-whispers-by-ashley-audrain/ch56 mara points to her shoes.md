@@ -37,7 +37,7 @@ modified: "2026-10-02"
 - **为什么这样写**：`as though they are not hers` 把身体挪到第三人称来看自己；脚在动，人却还在原地想事，同一双腿被写成了两拨人。
 - **读者视角提示**：接着她 `goes back to the open door and says Mara’s name`——身体和心思是分开走的。
 
-> **原句 4:** "“I told you I had a son, and that he died.” Mara pauses. “Well, what I didn’t say is that I could’ve prevented it. I was responsible. And I think about that every day.”
+> **原句 4:** "“I told you I had a son, and that he died.” Mara pauses. “Well, what I didn’t say is that I could’ve prevented it. I was responsible. And I think about that every day.”"
 
 - **中文理解**：「我跟你说过我有过一个儿子，也说过他死了。」Mara 停了一下。「只是我没说的是，那件事我本来是可以避免的。是我的责任。我每天都在想这件事。」
 - **关键词**：I told you I had a son / what I didn’t say is that I could’ve prevented it / I was responsible
