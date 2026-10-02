@@ -208,6 +208,8 @@ beach-read-by-emily-henry｜**第三个同型工具假红**（完工前 `ls scri
 修后 beach-read **42/42 ✅**、负控抓到错标、下划线命名 5 本回归一致；全库因此**首次可见 58 条真实标签错标**，
 分属其他实例的书，**未自行改动**。三次同型 bug 的共同形态＝**判据里写死了少数派的命名/排版假设**。
 
+beach-read-by-emily-henry｜**补记计数校准**：上文「commit 8 笔」是发板当时的计数；终验后本任务实为 **9 笔**（第三个工具假红修复 `f1f32e78a` 与两笔板/日志收尾在其后）。**漏提交检测已做**：本任务 raw-gates 目录 **零 `??`**、beach-read 书目录工作树 **零残留**；9 笔**均未 push**。
+
 ### [2026-10-02 11:10 UTC] [ZCode-Mac] → All
 
 书：the-teacher-by-freida-mcfadden（《The Teacher》Freida McFadden 悬疑长篇，完整 lane）
