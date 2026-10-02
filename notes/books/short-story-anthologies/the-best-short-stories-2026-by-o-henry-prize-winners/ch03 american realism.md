@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：卡斯帕赶到老师 Galina 为垂死的丈夫 Igor 办的最后一场饭局，一进门就先给弹琴的陌生人下了一个判断；两个月后他才知道那人叫 Radek，是 Igor 从布拉格来的远房侄儿，此后两人在同一家咖啡馆、同一次纪录片放映和同一个街区反复遇见，最后在春天那场沙龙上并肩走出地铁站。
+- **一句话概括**：卡斯帕赶到老师 Galina 为垂死的丈夫 Igor 办的告别饭局，一进门就先给弹琴的人下了一个判断；当晚他就跟那个人说过话，知道他叫 Radek，是 Igor 从布拉格来的远房侄儿，此后两人在同一家咖啡馆、同一次纪录片放映和同一个街区反复遇见，春天那场沙龙结束后并肩走出地铁站。
 - **情感弧线位置**：从审判到交付。开篇 Caspar 认定那段舒伯特"毒舌得刺人"，结尾他承认自己"还没到能与对方平起平坐"的分量，两人在咖啡馆坐了一小时几乎没说话。
 - **Tropes 兑现/反转**：兑现"陌生人变亲近的人"，但**反转了"一见钟情"的火花**——全篇没有告白、没有接吻、没有当场被拒，只有一个同姓的巧合、一次撞上的放映和一个街区。
 - **人物弧线**：Caspar 从"用判断武装自己"走到"承认自己不确定"；Radek 从被当作一段演奏走到主动把一整首曲子的来路讲给对方听；Nina 则被文本留在一条她不肯说明的边界上。
@@ -33,7 +33,7 @@ modified: "2026-10-02"
 
 ③ "Caspar arrived late—he’d had trouble getting across town. Protests cut a diagonal through the city, disrupting the trains and traffic. Even as he stepped into the lobby of Galina’s building, he could hear the beat of the choppers circling above, making a net of slashing light over the blocks between Park and Fifth. Galina met him just off the elevator and kissed his cheeks in greeting."
 
-- 中文理解：卡斯帕来晚了——抗议把城市斜着切成两半。他踏进门厅就听见头顶盘旋的直升机，它们在公园大道到第五大道之间的街区上空织出一张光网。Galina 在电梯口迎上来，亲他的脸颊。
+- 中文理解：卡斯帕来晚了——抗议斜着穿过整座城市。他踏进门厅就听见头顶盘旋的直升机，它们在公园大道到第五大道之间的街区上空织出一张光网。Galina 在电梯口迎上来，亲他的脸颊。
 - 句子结构：破折号插在 arrived late 与 he’d had trouble getting across town 之间补原因；主句 Protests cut a diagonal through the city 用 cut a diagonal 这个比喻写路线；Even as he stepped into … 是 Even as 引导的时间状语从句，主句 he could hear。
 - 关键词：diagonal——把一条抗议路线写成对角线，于是城市从"堵塞"变成"被切开"。
 - 表达方式：先用地理把城市封住，再让声音从上面压下来，最后才让人出现。
@@ -57,15 +57,15 @@ modified: "2026-10-02"
 
 ⑥ "“You’ve just seen it, haven’t you?” Igor whispered. He gripped Caspar’s wrist."
 
-- 中文理解：Igor 低声问他，你刚刚看到了，对吧；他抓住卡斯帕的手腕。卡斯帕否认，他盯着他看，Galina 试着把那只手掰开。
-- 句子结构：整段由转述台词构成，其中 Seen what, Igor? 省掉了主语与助动词；末句的 as Galina tried to pry his grip loose 是 as 引导的伴随状语从句，挂在 Igor stared at him 后面。
-- 关键词：pry——"撬、掰"，用在 Galina 试图分开一只抓住不放的手上。
-- 表达方式：把一个没有内容的问题放在当晚最要紧的一句台词里，并且当场不给答案。
-- 为什么这样写：这是全篇的悬案，被搁置到春天才被提起，而 Caspar 到那时也只给得出"我以为有什么东西要来了"这种回答。
+- 中文理解：Igor 低声问卡斯帕是不是刚刚看到了什么，一边问一边抓住他的手腕。问句没有内容，动作也没有下文。
+- 句子结构：前半句是间接引语，疑问被改成陈述语序、不带问号；后半句是另一个独立的主谓结构，同一个人一开口、一动手被拆成两个短句，悬案就停在这个动词上。
+- 关键词：wrist——手腕；这个名词在句子里只出现一次，却承担了整段悬案的重量。
+- 表达方式：用一个没有内容的问句配一个身体动作，问句本身不给任何线索。
+- 为什么这样写：卡斯帕当场否认，Igor 只回一句"我知道你看见了"，Galina 试着把那只手掰开；这件事被搁置到春天的沙龙上才被提起，而 Caspar 到那时也只给得出"我以为有什么东西要来了"。
 
 ⑦ "Radek laughed quietly. “Yes, something like that. It is actually very funny. Two weeks ago, I was walking into rehearsal, and I saw a poster for a talk. And it was strange, because the talk, the series, is named after Igor. And we have the same last name. So I thought, Oh, who is this? I looked it up, thinking, Is this someone from a long time ago? And I found out, no! It is Igor! I call my mom and I say, ‘Mom, Mom, I found this poster! With our name!’ Then she told me that, ‘Aha! That is your uncle’s uncle!’ ”"
 
-- 中文理解：拉德克讲自己怎么在去排练的路上看见一张海报——讲座系列以 Igor 命名，而他俩同姓；母亲告诉他，那是"你伯父的伯父"。
+- 中文理解：拉德克讲自己怎么在去排练的路上看见一张海报——讲座系列以 Igor 命名，而他俩同姓；母亲告诉他，那是"你叔叔的叔叔"。
 - 句子结构：整段先以 Radek laughed quietly 给出叙述者的观察，再接一整段引语；引语内部用 And / So I thought / I looked it up, thinking, … / And I found out, no! 四级递进，最后把母亲的原话再嵌一层单引号。
 - 关键词：uncle’s uncle——中文没有一个干净的对应说法，作者干脆把英语留在原地交给读者。
 - 表达方式：先让一个陌生人自报家门，再让读者从他的叙述节奏里听出这个人有多爱说话。
@@ -81,7 +81,7 @@ modified: "2026-10-02"
 
 ⑨ "Nina sat on the arm of the chaise. She smelled like Radek’s cologne. Radek sat at the piano. He and Caspar shared a look. Then Radek began to play the second intermezzo. The others joined them near the chaise, and Radek played on. Caspar’s chest felt tight. The last notes hung in the air, and then that was it. That was it."
 
-- 中文理解：春天的沙龙上，妮娜坐在长沙发扶手上，身上带着拉德克的味道；拉德克坐到钢琴前，弹起第二首小曲。周围的人围过来，他继续弹。卡斯帕胸口发紧，最后几个音符挂在空气里，然后就没了。
+- 中文理解：妮娜坐在长沙发扶手上，身上带着拉德克的味道；拉德克坐到钢琴前，弹起第二首小曲。周围的人围过来，他继续弹。卡斯帕胸口发紧，最后几个音符挂在空气里，然后就没了。
 - 句子结构：前四句都是"主语 + 谓语 + 方位或对象补语"的短句（sit / smell / sit / share），第五句用 Then 把真正的动作推出来；末句 that was it 用句号断成两个相同的小句。
 - 关键词：cologne——妮娜身上的味道先被写出来，她本人还没有在这段里说一句话。
 - 表达方式：用极短的句子写完整个收尾，末尾重复一次的那个小句就是落点。
@@ -159,7 +159,7 @@ modified: "2026-10-02"
 - either … or 与 there was a moment when 叠用，把选择写成一个时间窗口
 - without 被省略的比较结构（like no one else）
 - 省略主语与助动词的口语问句（Seen what, Igor?）
-- 破折号在本篇里承担三种不同功能：补原因、补结论、补一个没说出口的动作
+- 破折号在本篇里兼做补原因、补结论和补一句被打断的追问（Which is it—no or not a lot?）
 
 ### 写作技巧
 
@@ -186,4 +186,4 @@ modified: "2026-10-02"
 
 ## 一句话总结
 
-一个人在老师为垂死者办的最后一夜饭局上，先用一句判断把弹琴的陌生人推远，又在两个月后发现自己和对方住在同一个街区、看的是同一场放映、听的是同一首曲子，而故事名从未在正文里被解释。
+一个人在老师为垂死者办的告别饭局上，先用一句判断把弹琴的人推远，隔了几个月又发现自己和对方住在同一个街区、看的是同一场放映、听的是同一首被推荐过的曲子，而故事名从未在正文里被解释。
