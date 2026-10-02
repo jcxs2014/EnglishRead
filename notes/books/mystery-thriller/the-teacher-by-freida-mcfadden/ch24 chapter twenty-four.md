@@ -59,9 +59,9 @@ modified: "2026-10-02"
 
 ---
 
-> **原句 4:** “Well, we’ll see how new they are when we get the credit card bill, won’t we?”
+> **原句 4:** “I mean, we’ll see how new they are when we get the credit card bill, won’t we?”
 
-**中文理解**：「嗯，等信用卡账单来了，就知道它们是不是新的了，不是吗？」
+**中文理解**：「我是说，等信用卡账单来了，就知道它们是不是新的了，不是吗？」
 
 **关键词语**：the credit card bill／won’t we
 
