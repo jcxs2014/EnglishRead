@@ -116,17 +116,17 @@ md 70 件（ch01–ch67 + 总览三篇）＝ text/ 67 件。commit：`e914cb09e`
 书：the-palestine-laboratory-by-antony-loewenstein（《The Palestine Laboratory》Antony Loewenstein, Verso 2023）
 
 - **精读完工：正文 9 章（ch01 Introduction + ch02–ch08 ＝书内 Chapter 1–7 + ch09 Conclusion）+ 总览三篇 = 12 件 md**；`text/` 10 件（9 正文 + `xx_further_reading.txt`）。引语 105 条（章节层）+ 32 条（总览层），词条 511 行。体裁走**非虚构论述格式**（概览 → 论证结构 → 选择性精读 8–12 处五子项 → 词汇分级 → 一句话总结）。
-- ✅ **五步审查已做并通过**（用户同会话发起，**a–e 全跑**）。门禁全绿状态下查出 **9 处阻断型 + 3 处事实错标**，全部整改并复验；`gate.sh` 15 项整改后仍为 **退出码 0**。
-- **c 步用第二实现抓到 3 处结构缺陷，而 `audit_structure` 报 0**（ch07 原句 9 标签误写「句子理解」且缺「为什么这样写」、原句 10 缺该子项）—— 印证「子项检查是假阴性高发点」，这是 `check_struct_indep` 存在的理由。
-- **d 步抓到 1 处引语拼接**（ch08 Cutler 引语跨原文整句拼接，违反禁令 5）+ **3 处引语非逐字**（ch05 三处引语末尾多加句号、ch03/ch04 两处首字被改成小写）。下游 3 处副本经**改模板 + `gen_overview.py` 重新生成**修好（总览三篇禁止手改）。
-- **概述层 3 处事实错标已改**：Bosworth「丑陋的真相」实为 ch08（原标 ch09）、最高法院 2021-06 停收国防出口请愿实为 ch03（原归 ch04）、Hever「学习意愿下降」实为 ch03（原未标章号）。
-- **说话人层**：107 个引语块逐块开 200 字窗口核说话人 **缺陷 0**（子代理逐章明细 + 主会话独立复核 2 处易错点：ch04 Fogel 而非提问的 Nesiel、ch02 Friedman 转述 realists，均判定正确）。
-- **假红型 2 处已判读不改 md**：`check_block_keywords.py` 硬编码言情精简格式（`## 本章词汇` + 3–8 块配额），对非虚构论述整体不适用，其「引语非连续子串」用原始子串匹配会假阴；**以 `verify_quotes` 的 flat 归一化为准，107 块 flat 查无 0**。`check_crossref` 报「0 对 0 报警」是**真空绿**（只认英文模式，对 97 处中文式 `第N章` 零覆盖），已用 `check_xref_indep` 补位并逐条人工核完 97 处。
-- **终态门禁**：verify_quotes 135/135 · check_vocab FAIL 0 · check_entities 0 · corruption_scan 0 · sweep_full 查无 0 拼接 0 · check_short_quotes 3/3 · 逐章归属 105/105 · check_struct_indep 0 · check_xref_indep 英文证据 0 · 凭空造词 0 · 导航层 ❌0 ⚠️0 · 总览 32/32 · 章号 33/33 · H1 语义 0 错配。
-- **11 commits（未 push）**：`0cc6d910f`→`68f802770`→`227b20d21`→`3f33eee4b`→`fc12022ae`→`f88c98033`→`773bc4fae`→`813342ded`→`7d9d9217b`→`173f13d0b`→`e1dfd8008`（五步审查整改）。
-- **原始输出指引**：a–e 五步逐行（含整改前后对比）见 `.memory/raw-gates/the-palestine-laboratory-by-antony-loewenstein/2026-10-02-a-e_review_gates_full.txt`；整改后终态见同目录 `2026-10-02-final_gates_after_audit.txt`。原件已显式 `git add`。
-- **已知局限**：① 三个 `*_indep` 第二实现的全库口径仍未验证（各只在本书跑过 1 次）；② 说话人层**不可机械化**，本轮靠子代理 + 独立抽查，不是机械保证；③ 本审查与写作同会话，已执行「门禁全量重跑 / 换检查路径 / 子代理附反例与防幻觉条款」三项，但换检查路径只覆盖机械层，引语与分析的论证是否相称无法用工具排除。
-- 完整逐行明细、三档定性、跨书污染自检见工作日志 `.memory/daily/2026-10-02.md`「The Palestine Laboratory（…）五步审查明细」节。
+- ✅ **五步审查已做并通过**（用户同会话发起，**a–e 全跑**）＋ **d 步语义层加做「引语↔分析对应」专项**（该层机械门禁查不了，子代理逐块核 107 块 + 总览三篇，主会话逐条回源复核）。
+- **两轮语义审查合计查出 22 处缺陷，全部整改**：五步 a–e 9 处（c 步 3 处结构 + d 步引语拼接 1 处 + 引语非逐字 5 处 + 概述事实错标 3 处，其中 ch07 跨章搬句由 `check_chapter_quotes` 抓出、ch04/ch07 跨书污染 Hockney 由 9a2 机械化抓出）；引语↔分析对应 13 处（**内容反转 1** · **虚构事实 3** · **时间线反 1** · 转述层级/章节归属/主语/编号/次序等 7 处）。
+- **最实质的一处**：ch08 原句 7 把 Nazzal 的论证写反了 —— 源文是「以军士兵施暴巴勒斯坦人 ⇒ 视频被删；以军自豪展示暴力 ⇒ 原封不动留存」，我写成相反方向并虚构了「同一部电影两种帧」的对照。**该层六道门禁全绿下由子代理+人工回源发现**。
+- **三处虚构事实已清**：ch05「为防止病毒而建」框架（源文明写「旨在威慑难民」，本章 quarantine 计数 0）、ch05「作者亲眼看到移民溺亡」（源文无此叙述）、ch01「作者没有加引导语」（源文引导语为 "If you listen to the [Israeli] arms companies themselves…"）。
+- **跨书污染已清**：ch07 写「Hockney 所说『做无情的人有优势』」，Hockney 是画家、该名实为 Iris Murdoch《Living on Paper》中的提及，本书源文零出现。`grep -rl Hockney notes/books/` 复检 0 命中。
+- **第二实现全库口径已实测入库**（`docs/实测档案/P_第二实现全库口径实测_2026-10-02.md`）：三个 `*_indep` 在全库 **324 本**上均跑通不崩；非零率 41–65%，经归类**主因是档位识别而非缺陷**（571 个 md 识别不出档位被退回 summary 判据必然假红）。本书是 nonfiction 档、识别正确的**有效域内**情形，故其 0 报警是「有效域内的真 0」。
+- **终态门禁**：`gate.sh` 15 项 **退出码 0**、零阻断：verify_quotes 135/135 · check_vocab FAIL 0 · check_entities 0 · corruption_scan 0 · sweep_full 查无 0 · check_short_quotes 3/3 · 逐章归属 105/105 · check_struct_indep 0 · check_xref_indep 0 · 凭空造词 0 · 导航层 ❌0 ⚠️0 · 总览 32/32 · 章号 33/33 · H1 语义 0 错配 · 107 块 flat 逐字 0 查无 · 9a2 机械化仅 1 条假红（Swiss 术语注释）。
+- **13 commits（未 push）**：`0cc6d910f`→`68f802770`→`227b20d21`→`3f33eee4b`→`fc12022ae`→`f88c98033`→`773bc4fae`→`813342ded`→`7d9d9217b`→`173f13d0b`→`e1dfd8008`（五步整改）→`45c22ddbe`（审查归档）→`a26bbad66`（跨书污染+全库口径）→`c290cad58`（引语↔分析整改）。
+- **原始输出指引**：a–e 五步逐行（含整改前后对比）见 `.memory/raw-gates/the-palestine-laboratory-by-antony-loewenstein/2026-10-02-a-e_review_gates_full.txt`；终态见同目录 `2026-10-02-final_gates_after_audit.txt`。
+- **已知局限**：① 三个 `*_indep` 对第三种格式（571 个 md）整体不适用，接入门禁前须扩 `PROFILES`；② 说话人层与「引语↔分析论证是否相称」**不可机械化**，本轮靠子代理+逐条回源，非机械保证；③ 本审查与写作同会话，换检查路径只覆盖机械层；④ 上一轮终验命令 exit 1 系末句 `grep -c "palestine"` 拼写错误所致，逐段单跑确认三个门禁均为 0。
+- 完整逐行明细、三档定性、已知局限见工作日志 `.memory/daily/2026-10-02.md`「The Palestine Laboratory（…）」条目下三节。
 
 ### [2026-10-01 21:22 UTC] [Opencode-Mac] → All
 
