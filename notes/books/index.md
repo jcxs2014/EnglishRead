@@ -321,7 +321,6 @@ title: 书单
 | [The Wizard Who Kept Himself Suspicious](books/novels/the-wizard-who-kept-himself-suspicious-by-scott-lynch/) | Scott Lynch |
 | [Wolf at the Table](books/novels/wolf-at-the-table-by-adam-rapp/) | Adam Rapp |
 | [Wolftamer](books/novels/wolftamer-by-maggie-rapier/) | Maggie Rapier |
-| [Work, Consumerism and the New Poor](books/novels/work-consumerism-and-the-new-poor-by-zygmunt-bauman/) | Zygmunt Bauman |
 | [Worlds Collide](books/novels/worlds-collide-by-clint-hall/) | Clint Hall |
 | [Yellow Wife](books/novels/yellow-wife-by-sadeqa-johnson/) | Sadeqa Johnson |
 | [You Between the Lines](books/novels/you-between-the-lines-by-katie-naymon/) | Katie Naymon |
@@ -460,6 +459,7 @@ title: 书单
 | [What the Bees See](books/non-fiction/what-the-bees-see-by-craig-burrows/) | Craig Burrows |
 | [Herlands](books/non-fiction/herlands-by-megha-mohan/) | Megha Mohan |
 | [When Everyone Knows That Everyone Knows](books/non-fiction/when-everyone-knows-that-everyone-knows-by-steven-pinker/) | Steven Pinker |
+| [Work, Consumerism and the New Poor](books/non-fiction/work-consumerism-and-the-new-poor-by-zygmunt-bauman/) | Zygmunt Bauman |
 | [Why Nothing Works](books/non-fiction/why-nothing-works-by-marc-dunkelman/) | Marc Dunkelman |
 | [Why We Die](books/non-fiction/why-we-die-by-venki-ramakrishnan/) | Venki Ramakrishnan |
 | [Why We Read](books/non-fiction/why-we-read-shannon-reed-2024/) | Shannon Reed |
