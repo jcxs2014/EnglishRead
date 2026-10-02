@@ -1,0 +1,96 @@
+########## ch07 (ch07 pages and pairings.md) ##########
+--- verify_quotes ---
+ch01 the blurb.md: 6/6 ✅（另有 1 条短引语未校验）
+ch02 the green dot.md: 8/8 ✅
+ch03 books are better than people.md: 4/4 ✅
+ch04 the wound and the war.md: 7/7 ✅（另有 1 条短引语未校验）
+ch05 a team that feels like family.md: 8/8 ✅
+ch06 the real villain is grandpa joe.md: 4/4 ✅
+ch07 pages and pairings.md: 7/7 ✅（另有 1 条短引语未校验）
+ch08 knitting and knotting.md: 8/8 ✅
+
+⚠️ 全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 52/52 引文可核实（100%）；完全干净文件 8/8；正文章节 0 提取 0；总览 0 提取转交 0 ===
+exit=0
+--- check_vocab ---
+  ch04 the wound and the war.md [基础] 基础档疑含超纲词「constant tightrope」
+  ch05 a team that feels like family.md [基础] 基础档疑含超纲词「competition」
+  ch05 a team that feels like family.md [基础] 基础档疑含超纲词「additional overhead」
+  ch05 a team that feels like family.md [基础] 基础档疑含超纲词「walking contradiction」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「sommelier」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「indulgent smile」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「sickening crash」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「structural reasons」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「sweet nonagenarian」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「voice hysterical」
+  ch08 knitting and knotting.md [基础] 基础档疑含超纲词「diagnosis」
+  ch08 knitting and knotting.md [基础] 基础档疑含超纲词「quivering shaft」
+  ch08 knitting and knotting.md [基础] 基础档疑含超纲词「sex education」
+  ch08 knitting and knotting.md [基础] 基础档疑含超纲词「speculative stuff」
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption_scan ---
+=== 编辑损坏扫描（battle-of-the-bookstores-by-ali-brady）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+--- sweep_full --quiet ---
+=== 引语整串 flat 比对（battle-of-the-bookstores-by-ali-brady）===
+  参照集：text/ 逐章（40 章，可定章） + epub 交叉验证
+  ✅ 本章命中 52 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 3 条归 check_short_quotes；无章可对 0 条未判）
+--- check_chapter_quotes 7 ---
+⚠️  全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 52，命中本章 52（100%）
+✅ 全部引语均归属正确章节
+--- check_short_quotes ---
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+
+########## ch08 (ch08 knitting and knotting.md) ##########
+--- verify_quotes ---
+ch01 the blurb.md: 6/6 ✅（另有 1 条短引语未校验）
+ch02 the green dot.md: 8/8 ✅
+ch03 books are better than people.md: 4/4 ✅
+ch04 the wound and the war.md: 7/7 ✅（另有 1 条短引语未校验）
+ch05 a team that feels like family.md: 8/8 ✅
+ch06 the real villain is grandpa joe.md: 4/4 ✅
+ch07 pages and pairings.md: 7/7 ✅（另有 1 条短引语未校验）
+ch08 knitting and knotting.md: 8/8 ✅
+
+⚠️ 全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 52/52 引文可核实（100%）；完全干净文件 8/8；正文章节 0 提取 0；总览 0 提取转交 0 ===
+exit=0
+--- check_vocab ---
+  ch04 the wound and the war.md [基础] 基础档疑含超纲词「constant tightrope」
+  ch05 a team that feels like family.md [基础] 基础档疑含超纲词「competition」
+  ch05 a team that feels like family.md [基础] 基础档疑含超纲词「additional overhead」
+  ch05 a team that feels like family.md [基础] 基础档疑含超纲词「walking contradiction」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「sommelier」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「indulgent smile」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「sickening crash」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「structural reasons」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「sweet nonagenarian」
+  ch07 pages and pairings.md [基础] 基础档疑含超纲词「voice hysterical」
+  ch08 knitting and knotting.md [基础] 基础档疑含超纲词「diagnosis」
+  ch08 knitting and knotting.md [基础] 基础档疑含超纲词「quivering shaft」
+  ch08 knitting and knotting.md [基础] 基础档疑含超纲词「sex education」
+  ch08 knitting and knotting.md [基础] 基础档疑含超纲词「speculative stuff」
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption_scan ---
+=== 编辑损坏扫描（battle-of-the-bookstores-by-ali-brady）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+--- sweep_full --quiet ---
+=== 引语整串 flat 比对（battle-of-the-bookstores-by-ali-brady）===
+  参照集：text/ 逐章（40 章，可定章） + epub 交叉验证
+  ✅ 本章命中 52 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 3 条归 check_short_quotes；无章可对 0 条未判）
+--- check_chapter_quotes 8 ---
+⚠️  全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 52，命中本章 52（100%）
+✅ 全部引语均归属正确章节
+--- check_short_quotes ---
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+
