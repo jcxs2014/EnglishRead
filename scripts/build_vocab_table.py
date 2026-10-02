@@ -26,13 +26,14 @@ def load_chapter(book_dir: str, ch: str) -> str:
     # check_chapter_quotes / gen_overview / 自写脚本都栽过）。
     # 做法：依次试 1/2/3/4 位，取第一个命中的；一个都没命中才报错。
     tdir = Path(book_dir, "text")
-    for width in (1, 2, 3, 4):
-        tag = str(int(ch)).zfill(width)
-        hits = sorted(tdir.glob(f"ch{tag}_*.txt"))
-        if len(hits) == 1:
-            return strip_running_head(hits[0].read_text(encoding="utf-8"))
-    sys.exit(f"expected exactly one text/ch<NN>_*.txt for ch{ch} (tried 1-4 digit tags), "
-             f"got 0 in {tdir}")
+    # ⚠️ 2026-10-02 收口：原只认 chNN_*.txt，分隔符与章号位数统一走唯一实现
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from chapter_text_path import find_chapter_text
+    _p = find_chapter_text(book, int(ch))
+    if _p:
+        return strip_running_head(Path(_p).read_text(encoding="utf-8"))
+    sys.exit(f"expected one text/ch<NN>* for ch{ch} (分隔符 _ . 空格均支持), got 0 in {tdir}")
 
 
 def strip_running_head(text: str) -> str:

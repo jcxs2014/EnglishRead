@@ -124,10 +124,14 @@ SUM_RE = re.compile(r"^##\s+一句话总结\s*$")
 
 
 def read_chapter_text(book_dir, n):
-    for p in glob.glob(os.path.join(book_dir, "text", "ch%02d_*.txt" % n)) + \
-            glob.glob(os.path.join(book_dir, "text", "ch%d_*.txt" % n)):
-        return io.open(p, encoding="utf-8", errors="replace").read()
-    return ""
+    # ⚠️ 2026-10-02 收口：原写只认 chNN_*.txt（下划线），而根 AGENTS.md 规定精读文件名
+    # 唯一分隔符是空格 ⇒ 用空格命名的书参照集恒为空，该工具对任何文件都必然报「查无」
+    # （假红型）。分隔符与章号位数统一走 chapter_text_path 唯一实现。
+    import sys as _sys, os as _os
+    _sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
+    from chapter_text_path import find_chapter_text
+    p = find_chapter_text(book_dir, n)
+    return io.open(p, encoding="utf-8", errors="replace").read() if p else ""
 
 
 def main():

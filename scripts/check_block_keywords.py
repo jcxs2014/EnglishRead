@@ -80,10 +80,14 @@ def check(md: Path, book: Path):
         out.append(f"{md.name}: 结构对账失败 —— `## 一句话总结` 出现 {nsum} 次（应为 1）")
     if not 3 <= nq <= 8:
         out.append(f"{md.name}: 引语块 {nq} 个，超出言情精简格式的 3–8 配额")
-    hits = sorted((book / "text").glob(f"ch{n:02d}_*.txt"))
-    if len(hits) != 1:
-        return out + [f"{md.name}: 期望恰好 1 个 text/ch{n:02d}_*.txt，实得 {len(hits)}"]
-    t = hits[0].read_text(encoding="utf-8")
+    # ⚠️ 2026-10-02 收口：原只认 chNN_*.txt，空格命名的书恒 0 命中（假红型）
+    import sys as _sys
+    _sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from chapter_text_path import find_chapter_text
+    _p = find_chapter_text(str(book), n)
+    if _p is None:
+        return out + [f"{md.name}: 找不到 text/ch{n:02d}*.txt（分隔符已兼容 _ . 空格）"]
+    t = Path(_p).read_text(encoding="utf-8")
     ps = paras(t)
     # ⚠️ 2026-10-01 修正（本书 ch02 触发）：原实现用 BLOCK_RE 切块、却用 QUOTE_RE 取
     # 「编号 + 引语」，**两者口径不一致**——QUOTE_RE 要求引语被直双引号包裹，而引语行

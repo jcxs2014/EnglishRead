@@ -77,8 +77,12 @@ for line in out.split("\n"):
 # 不存在；真正要防的是①`vocab_candidates` 抽错章②词表头被自造③释义留空。
 # （2026-09-28 自证：曾把断言写成校验调用方传入的例句，结果**永远不可能触发**——
 #  是死代码，不是防线。注入跨章例句后脚本照样退出 0。）
-flat = re.sub(r"[^a-z0-9]", "", next(md.parent.glob(f"text/ch{int(ch):02d}_*.txt"))
-              .read_text(encoding="utf-8").lower())
+# ⚠️ 2026-10-02 收口：原只认 chNN_*.txt，空格命名的书此处 StopIteration（假红/崩）
+import sys as _sys
+_sys.path.insert(0, str(Path(__file__).resolve().parent))
+from chapter_text_path import require_chapter_text
+flat = re.sub(r"[^a-z0-9]", "",
+              Path(require_chapter_text(str(md.parent), int(ch))).read_text(encoding="utf-8").lower())
 cand = {h: ex for _, h, ex in rows}
 errors = []
 for head, gloss in glosses.items():
