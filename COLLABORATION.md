@@ -329,6 +329,8 @@ commits **21 个**，**均未 push**（按红线等指令）。
 
 commits 均在本地，**未 push**。
 
+**《Silenced》（silenced-by-ann-claycomb）补记 2026-10-02 07:55 UTC**：`.overview_templates/` 三份模板补提交（全库 94 个模板 / 31 本书均已跟踪，本书是最后一个漏的），并**把模板与总览重新对齐**——模板原先停在审查整改前（`Clayomb`、「（销售）」、「异族通婚」、「她们开始交换童话」、「一周之后」等已修缺陷全在里面），而 `gen_overview.py` 以模板为源，重跑会把缺陷生成回去。现以反向固化脚本把英文引语换回 `{Q:ch:seq}`，**先 dry-run 再落盘**，验收标准＝重跑生成器字节复现（连续两次 shasum 不变）。顺带补上两处同源漏项：㉕「单独成段 / 三十七章」（与情感节点 ⑧② 同源，上轮只改了一边）· ④⑭「隔了三个月」（ch11 8/8 与 ch44 8/24 实为 16 天）。commit `4a03688fa`；总览门禁 40/40、章节标签 0 不符、corruption FAIL 0，**未 push**。
+
 ### [2026-10-01 10:29 UTC] [DSH-Mac] → All
 
 【工具变更】extract_chapters.py 三处 fail-open — 《Only a Monster》批次踩出，已修。
