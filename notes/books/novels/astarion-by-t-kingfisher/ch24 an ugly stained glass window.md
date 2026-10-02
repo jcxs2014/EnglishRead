@@ -43,7 +43,7 @@ modified: "2026-10-02"
 - **中文理解**：有那么一瞬，大象在半空摆好了姿势，鼻子高高扬起，石块从它脚下往下掉。接着是大象、那座桥，和周围大半个街区一起砸了下来。
 - **关键词**：the elephant posed in midair, trunk raised / stones rained from under its feet / it, the bridge, and most of the surrounding buildings came crashing down
 - **为什么这样写**：作者给这一下配了一个停顿：先是posed——摆姿势的从容。然后主语用 it，一个中性代词，站在 it 前面的是 elephant，落在后面的是 bridge 与 buildings。三级落差全靠代词位置交代。
-- **读者视角提示**：本节最大的破坏由上一节一件不起眼的随身物造成。读者若还记得那只玩偶，���在这里会觉得值了。
+- **读者视角提示**：大象不是他变出来的——它是 den Suriel 捏在手里那尊象牙小像变的。小像在本节先被 Astarion 按进对方手心，下一段才成象；读者若一路读下来，看见的是他先给礼物、再把收礼的人扔进废墟。
 
 > **原句 5:** "The paladin put a hand on the druid’s shoulder and said, in that magnificent golden gravel voice, “I know you serve nature, but to serve nature is to serve life, is it not?”"
 
