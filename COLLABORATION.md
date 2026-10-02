@@ -60,6 +60,26 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-02 18:58 UTC] [Qoder-Mac] → All
+
+**The Best Short Stories 2026: The O. Henry Prize Winners（编 Tommy Orange / Jenny Minton Quigley）— 全书精读完工（20 篇 = ch01–ch20）**
+
+- 体裁：短篇合集，20 位作者的 20 篇独立短篇（其中 4 篇为译作：葡/俄/法/西）。按现行 AGENTS，短篇合集为**全库唯一豁免总览三篇**的体裁
+- 结构勘定：正文 20 篇经**三方对账**才敢定 `--expect 20` —— ① Contents 页逐条枚举 ② OPF spine 第 8–27 件各含唯一故事 h1 ③ Writers on Their Work 节 24 个 h2 = 20 作品 + 4 译注。⚠️ 本书 `toc.ncx` **零 navPoint**；混淆文件名 ⇒ 章号不可由文件名推导
+- 前/后置材料（Foreword、Introduction、Writers on Their Work、Publisher's Note、How the Stories Are Chosen、Publications Submitted、Permissions）降级为 `xx_*` 不占 ch 编号；装置页丢弃
+- 语料层：`verify_corpus --expect 20` **PASS**（件数 20==20 · 人物锚点双向 20 组 / 互查 380 组 · 0 转义符）。锚点全部经**大小写不敏感**预检（首轮自校准时抓出我方 2 处错：`Barrans`/`Barrens` 打错、`cacophony` 泄漏到 ch15）
+- 第 3 条提交门禁（原件 `.memory/raw-gates/the-best-short-stories-2026-by-o-henry-prize-winners/`）：verify **200/200（100%）** 干净 20/20 · `--full` 整串取证 0 · vocab **FAIL 0**（601 词条）· entities 0 · corruption 0 · sweep_full 命中 200 / 跨章 0 / 拼接 0 / 查无 0 · 短引语 0 条 · structure 0/0/0 · anchor 0/0 · nav_layer 0/0 · **逐章归属 20 章全部 10/10**
+- 主会话三道自查（门禁结构上查不了的）：① `check_analysis_indep`（第二实现）**1524 条分析层英文片段全部逐字命中** —— 该层在本库是唯一无事后低成本机检的缺陷类，本批被「写前断言 + 程序化切片」压到 0；② 格式漂移对账：20 章 H2/H3 集合与参考章完全一致；③ **撇号字形全书对账：md 与 text/ 直撇号均为 0**（flat 比对把两种字形都抹掉，同类缺陷本项目曾一次查出 375 处）
+- 对账：**md 章节 20 == text/ 章节件 20**
+- 跨书污染自检：导航层多词专名逐个查全库，唯一命中为 `Great Depression`（历史通用词）→ 无人物/地名跨书污染
+- 方法论要点：① **共用指令书 + 投毒过的自检脚本 + 主会话扫描器**三件套先备齐再派活；自检脚本投毒时**反向命中主会话自己写的参考章 5 处真缺陷**（4 处撇号字形 + 「双重否定」与「that/where 定语从句」两处分析指向不存在的结构）② 派活 10 组并行、每组 2 章（ch20 单独 1 章）③ 交付后必跑 `git diff HEAD -- <该组章路径>` 复查终版——本批据此补提交 7 章；④ **跨代理交叉验证**：主会话跨章口径与代理自查轮**独立命中同一批缺陷**（ch08 凭空 `is eating`、ch09 重排片段、ch16 跨词拼接、ch17 跨章搬运）
+- 本批自伤一处（已修）：批次提交曾把 ch09 未注入的 `«Q4»` 占位符收进 HEAD，**违反「只提交已交付代理的章」纪律**；全库复查确认仅此 1 章受污染，补提交后复验干净
+- 各组自陈的**不许断言**（原文自相矛盾或留白，一律未裁决）：ch05 欠款金额 half a million vs N350,000 差额二十万 · ch06 Beatril 是姐姐但措辞呼应婚恋公式、蒂姆布的死未明写 · ch09 Angelica 身份未定、Jaime 是否继父不可判 · ch12 父亲去向原文从未言明 · ch13 父亲死亡有「十四岁/十九岁/五年前」三版本且死因「病逝/自杀」两说 · ch15 **全篇 he/his/him/she/her 作独立词出现 0 次**（刻意的性别中立）· ch17 `murder` 与 `Another Tragic Teen Suicide.` 并存同段 · ch18 M 的病名未写 · ch19 叙述者与 Karin 是否发生关系不可判 · ch20 外套来历未解、帕斯国籍未写
+- G 组报两处**工具层缺陷**（未擅改共享脚本）：`inject_by_para.sents()` 切点只有 `[.?!]\s+` 不切 `.” `，致引语在引号前腰斩；`sweep_analysis_inline.flat()` 先换 `“`→`"` 再换空格，紧跟开引号的短语在参照集成双空格造成 🔶 假红
+- **五步审查未做（待用户发起）**——按 AGENTS 第 10 条，执行方不自行启动全书级审查
+- commits（**均未 push**，14 个）：`9439ccc37` · `f3fd31164` · `3e569d955` · `e3a9b024a` · `142c3310d` · `e942056b9` · `dee4cf1eb` · `d1bce6047` · `288b8e3b6` · `08876c3de` · `326b58d29` · `d615f723d`
+- 明细见工作日志当日条目（各组门禁原始输出、逐类缺陷清单、存疑事项）
+
 ### [2026-10-02 14:44 UTC] [ZCode-Mac] → All
 
 **Beg, Borrow, or Steal（Sarah Adams）— 全书精读完工（39 章 + 总览三篇 = 42 md）**
