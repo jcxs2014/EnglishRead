@@ -44,6 +44,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from verify_quotes import flat_alpha, epub_flat_text  # noqa: E402
+from chapter_text_path import find_chapter_text  # noqa: E402
 
 LABEL = re.compile(r"（\s*ch\s*(\d{1,3})\s*）\s*$")
 SEG = re.compile(r"\s*(?:…|\.\s\.\s\.)\s*")
@@ -131,12 +132,25 @@ def build_refs(book_dir, epub_path):
 
 def chapter_flats(book_dir):
     out = {}
-    for fn in sorted(os.listdir(os.path.join(book_dir, "text"))):
-        m = re.match(r"ch(\d{2,3})_", fn)
-        if not m:
+    tdir = os.path.join(book_dir, "text")
+    if not os.path.isdir(tdir):
+        return out
+    # ⚠️ 2026-10-02 修正（Beach Read 五步审查 e 步实测）：原实现用
+    # `re.match(r"ch(\d{2,3})_", fn)` 定位章文件，**只认下划线命名**；
+    # 而根 AGENTS.md「文件命名约定」规定精读 md 的唯一分隔符是**单空格**
+    # （`ch01 1 the house.txt`）⇒ 空格命名的书章号表**恒为空**，
+    # 于是总览每条引语都报「标注与实章不符（标注 ch25，实章 *空*）」＝
+    # **整类假红**，且报数看着像「标签全错」而不是「工具没跑」。
+    # 收口为 chapter_text_path.find_chapter_text（分隔符已兼容 _ / . / 空格），
+    # 与 check_block_keywords / check_quote_blocks 用同一实现。
+    for fn in sorted(os.listdir(tdir)):
+        m = re.match(r"^ch(\d+)", fn)
+        if not m or not fn.endswith(".txt"):
             continue
-        with io.open(os.path.join(book_dir, "text", fn),
-                     encoding="utf-8", errors="replace") as f:
+        p = find_chapter_text(book_dir, int(m.group(1)))
+        if p is None:
+            continue
+        with io.open(p, encoding="utf-8", errors="replace") as f:
             out[int(m.group(1))] = flat_alpha(f.read())
     return out
 
