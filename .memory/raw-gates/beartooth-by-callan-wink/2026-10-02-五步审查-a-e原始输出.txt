@@ -1,0 +1,253 @@
+# Beartooth 五步审查 a–e 原始输出  2026-10-02（Commandcode-Mac，审查方＝执行方同会话）
+
+========== a 步：第 3 条门禁全量重跑 ==========
+$ verify_quotes
+00_情感节点.md: 16/16 ✅
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 17/17 ✅
+ch01 black bear.md: 8/8 ✅
+ch02 back to the truck.md: 8/8 ✅
+ch03 the burned spruce.md: 8/8 ✅
+ch04 false dawn.md: 8/8 ✅
+ch05 the chain across the driveway.md: 8/8 ✅
+ch06 bird woman.md: 5/5 ✅
+ch07 she stays.md: 8/8 ✅
+ch08 a dream is nothing.md: 6/6 ✅
+ch09 microburst.md: 8/8 ✅
+ch10 first delivery.md: 8/8 ✅
+ch11 free wood.md: 8/8 ✅
+ch12 hardest winter.md: 8/8 ✅
+ch13 the scot comes calling.md: 8/8 ✅
+ch14 cut the mailbox.md: 8/8 ✅
+ch15 beauty queen wave.md: 6/6 ✅
+ch16 the thaw and the firewood.md: 9/9 ✅
+ch17 the tow truck.md: 6/6 ✅
+ch18 the pipes and the river deal.md: 8/8 ✅
+ch19 carrying the rafts in.md: 8/8 ✅
+ch20 before dawn.md: 8/8 ✅
+ch21 the four men across the meadow.md: 8/8 ✅
+ch22 the gun in the creek.md: 8/8 ✅
+ch23 a solemn promise.md: 8/8 ✅
+ch24 wearing himself out.md: 8/8 ✅
+ch25 all the way to the gulf.md: 8/8 ✅
+ch26 the perfect rock.md: 8/8 ✅
+ch27 the pills became the problem.md: 8/8 ✅
+ch28 the cast off.md: 8/8 ✅
+ch29 the letter on the porch.md: 6/6 ✅
+ch30 in the summer of my nineteenth year.md: 8/8 ✅
+ch31 every stop on the wheel read bankrupt.md: 8/8 ✅
+ch32 license plates.md: 7/7 ✅
+ch33 there were accusations.md: 8/8 ✅
+ch34 the guy with the kilt.md: 8/8 ✅
+ch35 straight answers.md: 8/8 ✅
+ch36 the old shepherd cabin.md: 8/8 ✅
+ch37 the empty cabin, the coroner, and the bagpipes.md: 7/7 ✅
+ch38 the fires made their own wind.md: 6/6 ✅（另有 1 条短引语未校验）
+ch39 the burned letter.md: 4/4 ✅
+ch40 this dull persistent ache.md: 4/4 ✅
+ch41 she is staying.md: 7/7 ✅
+ch42 coffee on the step.md: 4/4 ✅
+ch43 the same water.md: 5/5 ✅
+ch44 the bison skull.md: 7/7 ✅
+ch45 bison antiquus.md: 8/8 ✅
+ch46 two backpacks by the door.md: 8/8 ✅
+ch47 bones under the glass case.md: 8/8 ✅
+ch48 to walk is to gather treasure.md: 8/8 ✅
+ch49 his fathers old tool belt.md: 7/7 ✅
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 393/393 引文可核实（100%）；完全干净文件 51/51；正文章节 0 提取 0；总览 0 提取转交 0 ===
+$ verify_quotes --full
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 393/393 引文可核实（100%）；完全干净文件 51/51；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+$ check_short_quotes
+=== 短引语兜底核对（beartooth-by-callan-wink）===
+  verify_quotes 跳过（<20 flat 字符）的引语：1 条 —— 这些主门禁**根本没查**
+  ✅ 命中 1 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+$ check_vocab
+词条行合计: 925
+
+--- FAIL (0) ---
+
+--- WARN (38) ---
+  ch01 black bear.md [基础] 基础档疑含超纲词「gallbladder」
+  ch01 black bear.md [基础] 基础档疑含超纲词「binoculars」
+  ch05 the chain across the driveway.md [基础] 基础档疑含超纲词「shoulders」
+  ch06 bird woman.md [基础] 基础档疑含超纲词「meatballs」
+  ch07 she stays.md [基础] 基础档疑含超纲词「disappearing」
+  ch09 microburst.md [基础] 基础档疑含超纲词「sourdough」
+  ch09 microburst.md [基础] 基础档疑含超纲词「chickadees」
+  ch10 first delivery.md [基础] 基础档疑含超纲词「trampoline」
+  ch11 free wood.md [基础] 例句不含词头「venison」
+  ch13 the scot comes calling.md [基础] 例句不含词头「ladder」
+  ch14 cut the mailbox.md [基础] 基础档疑含超纲词「paperwork」
+  ch15 beauty queen wave.md [基础] 基础档疑含超纲词「passenger」
+  ch21 the four men across the meadow.md [基础] 基础档疑含超纲词「waterfall」
+  ch22 the gun in the creek.md [基础] 基础档疑含超纲词「porcupines」
+  ch22 the gun in the creek.md [基础] 基础档疑含超纲词「binoculars」
+  ch23 a solemn promise.md [基础] 基础档疑含超纲词「downstream」
+  ch25 all the way to the gulf.md [基础] 基础档疑含超纲词「insurance」
+  ch27 the pills became the problem.md [基础] 基础档疑含超纲词「stockpiling」
+  ch27 the pills became the problem.md [基础] 基础档疑含超纲词「elaborate」
+  ch27 the pills became the problem.md [基础] 基础档疑含超纲词「midwinter」
+  ch28 the cast off.md [基础] 基础档疑含超纲词「insurance」
+  ch30 in the summer of my nineteenth year.md [基础] 基础档疑含超纲词「guardrail」
+  ch32 license plates.md [基础] 基础档疑含超纲词「registered」
+  ch32 license plates.md [基础] 基础档疑含超纲词「treasurer」
+  ch34 the guy with the kilt.md [基础] 基础档疑含超纲词「leftovers」
+  ch35 straight answers.md [基础] 基础档疑含超纲词「girlfriend」
+  ch36 the old shepherd cabin.md [基础] 基础档疑含超纲词「elevation」
+  ch36 the old shepherd cabin.md [基础] 基础档疑含超纲词「investment」
+  ch36 the old shepherd cabin.md [基础] 基础档疑含超纲词「tablecloth」
+  ch36 the old shepherd cabin.md [基础] 基础档疑含超纲词「woodstove」
+  ch37 the empty cabin, the coroner, and the bagpipes.md [基础] 基础档疑含超纲词「detective」
+  ch39 the burned letter.md [基础] 基础档疑含超纲词「somewhere」
+  ch40 this dull persistent ache.md [基础] 基础档疑含超纲词「mountains」
+  ch41 she is staying.md [进阶] 例句不含词头「tailgate」
+  ch43 the same water.md [基础] 基础档疑含超纲词「afternoon」
+  ch43 the same water.md [基础] 基础档疑含超纲词「cottonwoods」
+  ch47 bones under the glass case.md [进阶] 例句不含词头「artifacts」
+  ch47 bones under the glass case.md [基础] 基础档疑含超纲词「skeletons」
+$ check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+$ corruption_scan
+
+=== 编辑损坏扫描（beartooth-by-callan-wink）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+$ sweep_full
+=== 引语整串 flat 比对（beartooth-by-callan-wink）===
+  参照集：text/ 逐章（49 章，可定章） + epub 交叉验证
+  ✅ 本章命中 360 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+$ check_block_coverage
+✅ 块覆盖对账：49 个文件，每块都进了 verify_quotes 校验
+$ verify_corpus
+=== 语料层验收（P0-0）: beartooth-by-callan-wink ===
+text/ 件数: 49
+  [1] 件数 49 == 预期 49  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 15 组 / 互查 210 组  OK
+  [3] 首末句抽印已跳过（--quiet-edges）
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+
+========== b 步：逐章归属（规定脚本 + 独立实现） ==========
+$ check_chapter_quotes --book-dir
+⚠️  全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 360，命中本章 360（100%）
+✅ 全部引语均归属正确章节
+$ 独立实现 indep_chapter.py（NFKD + 去组合符 + 折叠弯引号，与规定脚本不同口径）
+独立实现 b 步：块 360 ｜ 本章命中 360 ｜ 跨章 0 ｜ 查无 0 ｜ 短引语 1
+
+========== c 步：结构扫描 ==========
+$ audit_structure
+=== 精读结构扫描（beartooth-by-callan-wink）===
+  扫 52 个 md、398 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+$ check_struct_indep（第二实现）
+  ❌ ch16 the thaw and the firewood.md: [summary] 引语块 9 个，超出 3–8 配额
+=== 独立结构扫描：49 个 md，缺陷 1 处 ===
+
+========== d 步：语义二审（第二实现） ==========
+$ check_analysis_indep
+抽出分析层英文片段 331 条
+❌ 未命中 1 条：
+  ch02 back to the truck.md:69  exuded, shoots, intertwined, clones, consciousness
+      未命中词: ['intertwined']
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）3 条 —— 只报不判红，须人判：
+  ch14 cut the mailbox.md:71  they must have sent you a million notices
+  ch31 every stop on the wheel read bankrupt.md:59  looking over your shoulder
+  ch36 the old shepherd cabin.md:59  a brother keeping the existence of a cabin secret wasn’t a big deal
+$ check_xref_indep --list
+=== chNN 引用 68 处：英文证据报警 0 处 ／ 中文式待人判 53 处 ===
+--- 中文式待人判清单（前 53 条）---
+  00_情感节点.md:10 → ch06｜## 节点一　母亲以传闻的形式先行（ch06）
+  00_情感节点.md:18 → ch03｜## 节点二　惩罚的逻辑与无效（ch03）
+  00_情感节点.md:26 → ch30｜## 节点三　母亲从传闻变成人（ch30）
+  00_情感节点.md:34 → ch21｜## 节点四　漂流：把犯罪变成远行（ch21）
+  00_情感节点.md:42 → ch25｜## 节点五　一只手臂换来的清醒（ch25）
+  00_情感节点.md:50 → ch29｜## 节点六　等待、药与烧掉的那封信（ch29）
+  00_情感节点.md:58 → ch38｜## 节点七　山火之后，遗物成为线索（ch38）
+  00_情感节点.md:66 → ch43｜## 节点八　同一条水把两个人接在一起（ch43）
+  00_概述.md:13 → ch01｜他们清楚这在法律上叫 wanton waste、违反 Lacey Act，Thad 却在出发前跑去图书馆的电脑查过刑罚，仍选择把整只熊背下山——多留熊身并不划算，但「让整桩
+  00_概述.md:15 → ch05｜Thad 的应对是把一根采伐铁链横在车道上、配一块「No Trespassing」牌子，可锁被撬开时，他自己也说不清那到底是在防盗还是在确认自己拥有什么（ch05、ch13
+  00_概述.md:15 → ch13｜Thad 的应对是把一根采伐铁链横在车道上、配一块「No Trespassing」牌子，可锁被撬开时，他自己也说不清那到底是在防盗还是在确认自己拥有什么（ch05、ch13
+  00_概述.md:15 → ch15｜Thad 的应对是把一根采伐铁链横在车道上、配一块「No Trespassing」牌子，可锁被撬开时，他自己也说不清那到底是在防盗还是在确认自己拥有什么（ch05、ch13
+  00_概述.md:15 → ch18｜Thad 的应对是把一根采伐铁链横在车道上、配一块「No Trespassing」牌子，可锁被撬开时，他自己也说不清那到底是在防盗还是在确认自己拥有什么（ch05、ch13
+  00_概述.md:17 → ch06｜她讲的往事——名字来自部落、曾替人照看两个男孩——全是二手材料，且她坚称自己「不适合回到这里」（ch06）。
+  00_概述.md:17 → ch29｜冬天，Thad 打开一个信封，同时摸出父亲当年打喜鹊用的 .22 小手枪，在门廊上等了好几个下午（ch29）。
+  00_概述.md:19 → ch09｜为了兑现这笔钱，兄弟俩顺溪而下入主河道（ch09、ch19、ch21）。
+  00_概述.md:19 → ch19｜为了兑现这笔钱，兄弟俩顺溪而下入主河道（ch09、ch19、ch21）。
+  00_概述.md:19 → ch21｜为了兑现这笔钱，兄弟俩顺溪而下入主河道（ch09、ch19、ch21）。
+  00_概述.md:19 → ch22｜一路上他们自辩「让重力拉到地上的东西不违法」，而 Thad 自己拆台说这话 wouldn't hold up in court——这句自辩只出现在 ch22。
+  00_概述.md:21 → ch23｜事情变得一团糟——但 Hazen 确实救了他的命，这一点不可否认（ch23、ch25）。
+  00_概述.md:21 → ch25｜事情变得一团糟——但 Hazen 确实救了他的命，这一点不可否认（ch23、ch25）。
+  00_概述.md:23 → ch26｜冬天他几乎不出门，止痛药先是问题、后来本身成了问题（ch26、ch27）。
+  00_概述.md:23 → ch27｜冬天他几乎不出门，止痛药先是问题、后来本身成了问题（ch26、ch27）。
+  00_概述.md:25 → ch35｜** 案子的性质变了：起初是失联，随后州警到场、验尸官判定近距离后脑中弹，调查从「找人」升格为谋杀，联邦介入，并开始把 Hazen 当作武装危险人物对待（ch35、ch37
+  00_概述.md:25 → ch37｜** 案子的性质变了：起初是失联，随后州警到场、验尸官判定近距离后脑中弹，调查从「找人」升格为谋杀，联邦介入，并开始把 Hazen 当作武装危险人物对待（ch35、ch37
+  00_概述.md:25 → ch34｜母亲反复强调这全是她在 the hippy food store 听来的（ch34）。
+  00_概述.md:27 → ch38｜零星的 Hazen 目击报告随之而来，调查像是泄了气（ch38）。
+  00_概述.md:29 → ch41｜她留下一个女孩住在家里——那个女孩曾与 Hazen 相处过约两小时，却不肯多说（ch41、ch42、ch46）。
+  00_概述.md:29 → ch42｜她留下一个女孩住在家里——那个女孩曾与 Hazen 相处过约两小时，却不肯多说（ch41、ch42、ch46）。
+  00_概述.md:29 → ch46｜她留下一个女孩住在家里——那个女孩曾与 Hazen 相处过约两小时，却不肯多说（ch41、ch42、ch46）。
+  00_概述.md:29 → ch43｜Thad 继续用一只手臂干活，从林子里回来，发现自己遗落的橡皮艇不见了；他顺着地图上的水系推算，推到两千多英里外的墨西哥湾——同一串水，把兄弟俩接在一起（ch43、ch44
+  00_概述.md:29 → ch44｜Thad 继续用一只手臂干活，从林子里回来，发现自己遗落的橡皮艇不见了；他顺着地图上的水系推算，推到两千多英里外的墨西哥湾——同一串水，把兄弟俩接在一起（ch43、ch44
+  00_概述.md:29 → ch45｜他把一枚 Bison antiquus 的头骨藏在棚屋的帆布墙帐篷里，在图书馆查到那是一种灭绝了上万年的古野牛，却找不到可比对的标本，也没敢挂上 eBay（ch45、ch4
+  00_概述.md:29 → ch47｜他把一枚 Bison antiquus 的头骨藏在棚屋的帆布墙帐篷里，在图书馆查到那是一种灭绝了上万年的古野牛，却找不到可比对的标本，也没敢挂上 eBay（ch45、ch4
+  00_概述.md:29 → ch49｜最后，Kenyon Noble 的卡车送来瓦片、派人帮他上房顶；Thad 从棚屋翻出父亲的旧工具腰带——牛皮的、铆铜的、用了至少三十年——扣上腰带爬上房顶补瓦（ch49）。
+  00_概述.md:41 → ch01｜**Thad** —— 从 ch01 用「体面」为一桩非法买卖辩护，到 ch49 用父亲留下的旧腰带爬上自家房顶。
+  00_概述.md:41 → ch49｜**Thad** —— 从 ch01 用「体面」为一桩非法买卖辩护，到 ch49 用父亲留下的旧腰带爬上自家房顶。
+  00_概述.md:43 → ch43｜ch43 之后他只剩一条橡皮艇和两千英里的水。
+  00_概述.md:45 → ch06｜她以传闻的形式先成形于 ch06；此后直到 ch30，她都只作为被提起的母亲存在（ch11–ch29 间被点名或被提及，中间不再出场），到 ch30 才用自己的声音补齐来处
+  00_概述.md:45 → ch30｜她以传闻的形式先成形于 ch06；此后直到 ch30，她都只作为被提起的母亲存在（ch11–ch29 间被点名或被提及，中间不再出场），到 ch30 才用自己的声音补齐来处
+  00_概述.md:45 → ch11｜她以传闻的形式先成形于 ch06；此后直到 ch30，她都只作为被提起的母亲存在（ch11–ch29 间被点名或被提及，中间不再出场），到 ch30 才用自己的声音补齐来处
+  00_概述.md:45 → ch29｜她以传闻的形式先成形于 ch06；此后直到 ch30，她都只作为被提起的母亲存在（ch11–ch29 间被点名或被提及，中间不再出场），到 ch30 才用自己的声音补齐来处
+  00_概述.md:45 → ch30｜她以传闻的形式先成形于 ch06；此后直到 ch30，她都只作为被提起的母亲存在（ch11–ch29 间被点名或被提及，中间不再出场），到 ch30 才用自己的声音补齐来处
+  00_概述.md:49 → ch41｜她在 ch41、ch42、ch46 三章出场，且**只有 ch41 与 ch46 点名 Naomi**（ch42 通篇写作 the girl，从未给出名字）。
+  00_概述.md:49 → ch42｜她在 ch41、ch42、ch46 三章出场，且**只有 ch41 与 ch46 点名 Naomi**（ch42 通篇写作 the girl，从未给出名字）。
+  00_概述.md:49 → ch46｜她在 ch41、ch42、ch46 三章出场，且**只有 ch41 与 ch46 点名 Naomi**（ch42 通篇写作 the girl，从未给出名字）。
+  00_概述.md:49 → ch41｜她在 ch41、ch42、ch46 三章出场，且**只有 ch41 与 ch46 点名 Naomi**（ch42 通篇写作 the girl，从未给出名字）。
+  00_概述.md:49 → ch46｜她在 ch41、ch42、ch46 三章出场，且**只有 ch41 与 ch46 点名 Naomi**（ch42 通篇写作 the girl，从未给出名字）。
+  00_概述.md:49 → ch42｜她在 ch41、ch42、ch46 三章出场，且**只有 ch41 与 ch46 点名 Naomi**（ch42 通篇写作 the girl，从未给出名字）。
+  00_概述.md:53 → ch01｜**总览层说明**：本篇不引用任何未在章节精读中核实过的引语；人物关系、事件走向与结局均已与 ch01–ch49 的章节精读文件交叉核对。
+  00_概述.md:53 → ch49｜**总览层说明**：本篇不引用任何未在章节精读中核实过的引语；人物关系、事件走向与结局均已与 ch01–ch49 的章节精读文件交叉核对。
+  00_金句精选.md:16 → ch05｜**③** "Thad had taken to putting a heavy length of logging chain across their driveway
+  00_金句精选.md:31 → ch22｜**⑧** "When it came down to it, the whole thing seemed fairly ridiculous. Sure, they’d
+
+========== e 步：总览层 ==========
+$ verify_overview_quotes
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 16/16 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 17/17 ✅
+
+=== 总览引文 33/33 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+$ check_overview_full
+=== 总览整串核查（beartooth-by-callan-wink）===
+  参照集：text/ 逐章（49 章） ｜ 总览文件 3 个
+  A 整串：命中 33 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 17 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 16 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+$ check_nav_layer --per-chapter
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+========== 整改后复跑（基线对比） ==========
+$ corruption_scan
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+$ audit_structure
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+$ verify_quotes
+
+=== 总计 393/393 引文可核实（100%）；完全干净文件 51/51；正文章节 0 提取 0；总览 0 提取转交 0 ===
