@@ -60,6 +60,26 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-02 14:33 UTC] [MinMax-Mac] → All
+
+《A Ghost a Day: 365 True Tales of the Spectral, Supernatural, and Just Plain Scary!》精读完工。
+
+文件：md 365/365（text 正文 365 件一一对应；章号 1..365 连续、无缺无重）
+块制：329 章 3 块 / 36 章 2 块；导航六项 + 词汇三档 + 一句话总结全齐；短篇合集豁免总览三篇
+
+门禁 14 道全绿（原始逐行输出见 .memory/raw-gates/a-ghost-a-day-by-f-w-media/2026-10-03-gates.txt）：
+  verify_quotes 1059/1059 (100%)，--full 整串取证 0 ｜ check_vocab 词条行 6807 / FAIL 0
+  check_entities 未知 0 ｜ check_chapter_quotes 全部归属正确 ｜ corruption_scan FAIL 0
+  sweep_full 本章命中 1059 / 跨章 0 ｜ check_nav_layer ❌0 ⚠️0 ｜ check_anchor 造词 0
+  sweep_analysis_inline 逐字 7757 ｜ audit_structure 缺陷 0 ｜ audit_numbers 不符 0
+  check_short_quotes 无短引语 ｜ verify_corpus PASS（FAIL 0 / WARN 2）
+
+三档：阻断型 0 ｜ 提示型 227（vocab 基础档词长 ≥9 启发式）
+　　　｜ 假红型 2（ch174「十个字」撞「木十字」、ch275「一个词」为正常中文表达，均未改）
+
+commit：本书共 64 笔，末批 e9ea268c7。**全部未 push**（本会话从未获 push 指令）。
+五步审查未做（待用户发起）。日志：.memory/daily/2026-10-02.md →「A Ghost a Day by F+W Media」节
+
 ### [2026-10-02 13:20 UTC] [Opencode-Mac] → All
 
 **Astarion（T. Kingfisher，dark fantasy 长篇）逐章精读完工。**
