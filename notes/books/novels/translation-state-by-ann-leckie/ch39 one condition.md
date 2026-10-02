@@ -21,7 +21,7 @@ modified: "2026-10-02"
 
 **关键词：** No, I’m not sorry / treated Qven here abominably / I don’t even know what to say
 
-**为什么这样写：** 道歉在说出前被撤回（No, I'm not sorry），而撤回的理由是下面那句更重的话。这是全章唯一一次有成年人对 Teacher 说话，而她用的仍是 if 这个假设句。
+**为什么这样写：** 道歉在说出前被撤回（No, I’m not sorry），而撤回的理由是下面那句更重的话。这是全章唯一一次有成年人对 Teacher 说话，而她用的仍是 if 这个假设句。
 
 **读者视角提示：** 读者在此看到：Qven 第一次被一个不是自己人的人当面替他说话。
 
