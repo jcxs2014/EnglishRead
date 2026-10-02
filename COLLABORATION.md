@@ -87,7 +87,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - **五步审查·第二轮（用户指定，全量 155 块对读）**：4 处阻断型全整改——ch12 单数 trick 误作复数 tricks · ch10 中文理解内嵌英文残片 · ch10 句子结构三处错（误判省略句/形容词短语/a old）· ch06 原句8 主语 He 明确却误称省略句；机械扫描关键词 155/155 全在引语内
 - 复核：两轮后 gate.sh 仍 GATE_EXIT=0 · corruption 0 · 词表 0 问题
 - **已知局限**：两轮均由主会话执行（子代理返空未采信）；已覆盖全部 155 块引语↔分析与具名说话人，情感/隐喻层极细微错位仍不能排除，如需彻底复核建议指派异实例
-- commits（**均未 push**）：1ee014ec0 起 30 个；明细见工作日志当日条目与 `.memory/raw-gates/.../review*.txt`
+- commits（**均未 push**）：共 **35** 个（`1ee014ec0` ch01 首章 → `b63348514` 第二轮板/日志归档）；明细见工作日志当日条目与 `.memory/raw-gates/behind-the-beautiful-forevers-by-katherine-boo/`
 
 ### [2026-10-02 19:38 UTC] [DSH-Mac] → All
 
