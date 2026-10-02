@@ -62,7 +62,7 @@ source_text: "text/ch03 3 the pete cute.txt"
 
 **中文理解：**不过这个小镇在这只「手套州」里是个小小的进步主义口袋，但掌钱袋子的那些人还是一群紧抓着珍珠（抹胸衣的搭扣）的高尔夫包。
 **关键词：**a little pocket of progressivism / pearl-clutching golf bags / the purse strings
-**为什么这样写：**这是**政治吐槽的高峰段**，作者用一个**双重比喻**结尾：`pearl-clutching`（抓珍珠的）说的是抹胸内衣的搭扣，`golf bags`（高尔夫包）说的是**臃肿无用的身形**。前面用 `the Mitten`（密歇根州的别名，手套形状）当地名，`a little pocket`（一个小口袋）当政治地理学——三层的**地域梗**叠在一起。连续两个 `but` 是**口语里的口头禅**，说明这段吐槽是即兴的，不是一段经过修饰的演说。
+**为什么这样写：**这是**政治吐槽的高峰段**，作者用一个**双重比喻**结尾：`pearl-clutching`（抓珍珠的）说的是抹胸内衣的搭扣，`golf bags`（高尔夫包）说的是**臃肿无用的身形**。前面用 `the Mitten`（密歇根州的别名，手套形状）当地名，`a little pocket`（一个小口袋）当政治地理学——三层的**地域梗**叠在一起。这个 `but` 是**口语里的口头禅式转折**，说明这段吐槽是即兴的，不是一段经过修饰的演说。
 **读者视角提示：**Pete 的这段话是**她本人的政治立场**（小镇进步但掌钱袋的保守），不是作者的立场——作者把「吐槽写在角色嘴里」，读者听的时候要分开。
 
 > **原句 8:** It sounded so much like something Dad would've said. The ache seared through me, fire-poker sharp and hot.

@@ -27,7 +27,7 @@ source_text: "text/ch25 25 the letters.txt"
 
 **中文理解：**「你看，问题就出在这儿。你本来就不该有一个可以被你辜负的父亲。」
 **关键词：**See, that’s the thing / shouldn’t have had / to fail
-**为什么这样写：**`See, that’s the thing.` 是**纠正对方用词的起手式**——她先指出 Sonya 用错了动词，才把 `fail`（辜负）的对象反转成 Sonya 自己。`shouldn’t have had` 用完成式加情态否定，把**「辜负」的前提**整个抽掉：不是她辜负了父亲，而是**父亲从未被交付到她手上**。整句只有两截，第二个 `to fail` 用不定式挂在 `my father` 后面，把责任指回**对方**。
+**为什么这样写：**`See, that’s the thing.` 是**纠正对方用词的起手式**——她先指出 Sonya 用错了动词，才把 `fail`（辜负）的对象反转成 Sonya 自己。`shouldn’t have had` 用完成式加情态否定，把**「辜负」的前提**整个抽掉：不是她辜负了父亲，而是**父亲从未被交付到她手上**。整句只有两截，后一截的 `to fail` 用不定式挂在 `my father` 后面，把责任指回**对方**。
 **读者视角提示：**这是本章的**第一道逻辑关卡**；下一句 Sonya 正是**重复她的四个字**把它推翻。
 
 > **原句 3:** “Shouldn’t have? If you started at the beginning of your father’s life and predicted the whole thing, and how it should have played out, based only on where it started, he might never have found your mother. You might not exist.”
