@@ -143,7 +143,12 @@ def label_near(line, span_start, span_end):
     found = RE_LABEL.findall(pre)
     if found:
         return int(found[-1])
-    post = line[span_end:span_end + 20]
+    # ⚠️ 2026-10-02（The Alchemist 五步审查）：post 窗口原为 20，**会把章号切掉一位**——
+    # `"…awaits him," his heart said.（ch03）` 的引语终点到 `（ch03）` 恰好 20 字符，
+    # 窗口右边界落在 `ch0` 与 `3` 之间 ⇒ `ch(\d{1,3})` 吃到 `0` ⇒ 报「标注 ch0」。
+    # 20 这个数是按「标签紧贴引语、不隔字」估的，但 `said.`（5 字符）+ 全角括号（2）
+    # 就吃掉了 7 个。放宽到 48 足以覆盖 `…said.（chNN）` 这类最短载体。
+    post = line[span_end:span_end + 48]
     m = RE_LABEL.search(post)
     return int(m.group(1)) if m else None
 
