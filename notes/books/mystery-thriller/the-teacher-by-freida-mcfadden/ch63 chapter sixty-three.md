@@ -35,15 +35,15 @@ modified: "2026-10-02"
 
 ---
 
-> **原句 2:** Eve is dead—Addie has either buried her in the ground or was caught attempting to bury her after I drove off.
+> **原句 2:** She set out to destroy my life, and in the course of one night, I managed to solve this problem.
 
-**中文理解**：Eve 死了——Addie 要么已经把她埋进土里，要么在我开车走后被抓了个现行。
+**中文理解**：她一心要毁掉我的人生，而就在一个晚上，我解决了这个问题。
 
-**关键词语**：Eve is dead／or was caught attempting to bury her
+**关键词语**：set out to destroy my life／solve this problem
 
-**为什么这样写**：他的全案推演在此亮牌。作者让 Nate 的判断清单里赫然写着「或被抓现行」——他对两个变量（埋成功/暴露）都做了预案，唯独没算第三个：她没死。这句推演同时暴露他的遥控模式：昨夜离开不是逃跑，是把收尾工序外包给一个十六岁的孩子，自己在酒吧里等结果。
+**为什么这样写**：全案的账目观在此定格。作者让 Nate 把杀妻与埋尸统计算成「解决问题」——婚姻是问题，威胁是问题，而人命只是问题的一种解法。这句自评的可怕在于它的财务口吻：他没有恐惧、没有亢奋，只有一道被清偿的方程式。序幕的读者至此看清：那把铲子在他的账本上，只是一个平账科目。
 
-**读者视角提示**：记住这两个「要么/要么」。它与序幕的「帮手」之谜最终对表——那个「partner to help me back then」的真实身份与真实处境，本章全部摊开：一个被当工具用的少女，和一个被当尸体埋掉的女人。
+**读者视角提示**：记住这句「解决了这个问题」。它与「Done.」（ch50）连读——这个男人的人生由一串待办事项组成，妻子的死是其中打钩最快的一项。
 
 ---
 
@@ -59,7 +59,7 @@ modified: "2026-10-02"
 
 ---
 
-> **原句 4:** Eve is dead—Addie has either buried her in the ground or was caught attempting to bury her after I drove off. Eve was the only one who knew the truth, and she didn't tell anyone. The photographs have been deleted. And Addie has proven herself to be unbalanced.
+> **原句 4:** Eve was the only one who knew the truth, and she didn’t tell anyone. The photographs have been deleted. And Addie has proven herself to be unbalanced.
 
 **中文理解**：（Eve 是唯一知道真相的人，而她谁也没告诉。照片已经删掉。而 Addie 已经证明了自己精神不稳定。）
 
@@ -83,7 +83,7 @@ modified: "2026-10-02"
 
 ---
 
-> **原句 6:** It almost sounded like somebody is right outside the door. But that’s impossible. Eve isn’t here, and there’s nobody else who has a key.
+> **原句 6:** It almost sounds like somebody is right outside the door. But that’s impossible. Eve isn’t here, and there’s nobody else who has a key.
 
 **中文理解**：听起来几乎就像有人就站在门外。但这不可能。Eve 不在这儿，而且没有别人有钥匙。
 
@@ -134,7 +134,7 @@ modified: "2026-10-02"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| attempting | 试图（动名词） | Eve is dead—Addie has either buried her in the ground or was caught attempting to bury her after I drove off. |
+| attempting | 试图（动名词） | Addie has either buried her in the ground or was caught attempting to bury her after I drove off. |
 
 ## 一句话总结
 
