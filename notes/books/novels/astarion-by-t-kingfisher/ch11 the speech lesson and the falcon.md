@@ -21,7 +21,7 @@ modified: "2026-10-02"
 
 - **中文理解**：那是一间小屋，而一位受过歌剧训练的矮人发出的叹息，在墙上回荡得像一群受惊的鸽子。「因为，」她扯着自己的连鬓胡子，「说话很重要。你的声音会改变别人对你的反应。想想 Lady Erikinia。如果她听起来衰弱又害怕，你现在的反应还会和现在一样吗？」
 - **关键词**：the sigh of an operatically trained dwarf echoed off the walls like a flight of startled doves / Your voice can change how people react to you / If she sounded frail and frightened
-- **为什么这样写**：这一段用两句话完成了三件事：先用一个荒谬的比喻交代说话人（此处指她的身份：一个矮人，训练得像歌剧演员），再把抽象的「说话重要」落到一个可验证的假设上，最后用他无法反驳的例子（此处指他祖母本人的现状）把问题交还给他。
+- **为什么这样写**：这一段用两句话完成了三件事：先用一个荒谬的比喻交代说话人（此处指她的身份：一个矮人，训练得像歌剧演员），再把抽象的「说话重要」落到一个可验证的假设上，最后用他无法反驳的例子（此处指他曾外祖母本人的现状）把问题交还给他。
 - **读者视角提示**：他在这段里的沉默比后面所有的反驳都重要：他还没学会把不服气说出口。
 
 > **原句 2:** "The dwarf woman shook her head dismissively. “An unimportant distraction. In your case,” she said, putting her hands on her squat hips, “no matter how finely you are dressed, if you go into society speaking as you do, people will laugh behind their hands at the country bumpkin.”"
@@ -49,7 +49,7 @@ modified: "2026-10-02"
 
 - **中文理解**：结果是，它并不像 Bajia 做起来那么轻松。你需要极其灵敏的指尖和大量的耐心。她大概早就料到他几分钟内就会嫌弃地放弃。可他要想让 Bajia 刮目相看，程度不亚于他当年想让那位老老师满意；而一个孩子对自己真正在乎的事那种专注，是天下所有父母的克星。
 - **关键词**：You needed incredibly sensitive fingertips and a great deal of patience / to impress Bajia / the bane of parents everywhere
-- **为什么这样写**：作者把一个技巧写成了性格测试：重要的不是撬锁，是撬开锁之后他会有什么反应。最后那句双关是他唯一一次跳出叙事去给成人读者的建议；前面三次提到 Bajia 都用 she，第三句突然改口直接叫名字，说明这一刻她的身份在他心里变了。
+- **为什么这样写**：作者把一个技巧写成了性格测试：重要的不是撬锁，是撬开锁之后他会有什么反应。这段里 Bajia 一共出现两次——开头一次、结尾一次，中间夹一个代词 she，三处指同一个人，没有谁改口的痕迹。真正被测的不是 Bajia，是他自己那股非赢不可的劲头。
 - **读者视角提示**：他是靠这双手指后来的；他一生最大的本事，其实从这一堂课开始。
 
 > **原句 6:** "His instructor touched his shoulder. “Listen to me, Astarion. I am not here to make you feel badly about yourself. In many other places, your accent would be thought charming. But society is full of bullies who will turn on you if they perceive the slightest weakness. I am here to make certain that when you go about in society, there is nothing in your voice or your speech that they can use against you.”"

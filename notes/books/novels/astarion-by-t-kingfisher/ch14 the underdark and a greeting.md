@@ -36,13 +36,13 @@ modified: "2026-10-02"
 - **中文理解**：「皂化，」那个月精灵用一种上课的口气说，「是死后才会发生的一种化学过程：身体里的脂肪会转变成一种肥皂似的东西，就叫尸蜡。它可以在尸体长时间泡在冷水里的时候发生——而冷水恰好是博德之门从不缺的东西。尸蜡能让组织保持干缩、阻止腐败。只要你在把尸体泡下去之前做对了相应的仪式，最后就能做出一具难看至极的木乃伊。」
 - **关键词**：a chemical process occurring after death / the fats in the body are transformed into a soap-like substance / raise an extremely unpleasant-looking mummy
 - **为什么这样写**：作者让一个卖药的人背诵化学课，用的却是句法教学的口吻（in a lecturing tone）。这句定义里的每一个从句都在把恐怖降级成流程：先说脂肪变成肥皂，再说泡冷水，最后说做对了仪式就行——听上去像一份操作手册。
-- **读者视角提示**：这里提到的 corpse wax（尸蜡）与 soap mummies 会在下一章以实物出现。到那时他才明白什么叫 unpleasant-looking。
+- **读者视角提示**：这里提到的 corpse wax（尸蜡）与 soap mummies 会在隔一章的下一座城以实物出现。到那时他才明白什么叫 unpleasant-looking。
 
 > **原句 4:** "“Terroir, my uncultured friend, is a term used in winemaking to denote the flavor imparted by the soil in which the grapes are grown. You are describing the terroir of the rats, based on their diet. The Lower City rats eat garbage, the dock rats eat fish, and the Wyrm’s Rest rats eat from the grainfields.”"
 
 - **中文理解**：「风土，我那位没教养的家伙，是酿酒里用的一个词，指葡萄生长的土壤给了酒什么样的味道。你刚才描述的正是这些老鼠的风土，由它们的饭食决定。下城的老鼠吃垃圾，码头的老鼠吃鱼，巨龙之居的老鼠吃粮田里的东西。」
 - **关键词**：a term used in winemaking / the terroir of the rats, based on their diet / the Wyrm’s Rest rats eat from the grainfields
-- **为什么这样写**：作者先用一个学术词把这只地精的闲聊抬成知识，再立刻用三个分句把它落回下水道。uncultured 这个词是他存心扎人的：他说这句话的时候自己正一边走一边跨过一道污水沟，于是嘲讽和狼狈同时成立。
+- **为什么这样写**：作者先用一个学术词把闲聊抬成知识——说这个词的是 Astarion 本人，而且他正一边走一边跨过一道污水沟，于是嘲讽和狼狈同时成立。紧接着三个分句把它落回下水道：下城的老鼠吃垃圾、码头的老鼠吃鱼、Wyrm’s Rest 的老鼠吃蛇，每一句都是把 wine 的分级套到下水道上去。
 - **读者视角提示**：他把一个逃命中的对话聊成了品鉴课。这是他在 Szarr Palace 里学会的那套本事——用词把处境变得体面，本节是它用在朋友身上的头一遭。
 
 > **原句 5:** "“Maybe you can tell by the tool marks. I’m going by the graffiti over there that says, ‘Sable was here, 691 DR.’ And look, they drew a little penis next to it.”"

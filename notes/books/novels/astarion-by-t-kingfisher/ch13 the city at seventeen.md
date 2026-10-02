@@ -64,7 +64,7 @@ modified: "2026-10-02"
 - **中文理解**：那扇窗俯瞰着一条街，按银月城的标准算不上多体面，可在他眼里那是一桌宴席。常春藤爬满墙面，像情人一样绕着窗户打转。远处那栋楼的屋顶之上，他看得见塔楼与树梢、细瘦的尖顶和分岔的暮林。就连那条石子铺的街也是美的，石子摆成起伏的曲线，人行道上镶着马赛克小片，理由只是要好看。
 - **关键词**：not terribly impressive by Silverymoon standards / Ivy climbed the walls and twined around windows like a lover / for no reason except to be beautiful
 - **为什么这样写**：作者把标准与感受并排放：前半句给的是他的判断（not terribly impressive），后半句给的是他的判断被什么推翻（a feast）。而最后那句 for no reason except to be beautiful 才是本节的核心——这座城市不解释自己的美，而他从十七岁起就记住了这个解释不了的东西。
-- **读者视角提示**：这里的城市是免费的礼物：它不需要他有钱、有用或好看，就已经摆在他面前了。这座城不需要他有钱、有用或好看，就已经摆在他面前了。
+- **读者视角提示**：这里的城市是免费的礼物：它不需要他有钱、有用或好看，就已经摆在他面前了。注意他站的位置——是窗内。这份礼物他还没走出过那扇门。
 
 > **原句 8:** "Astarion wanted all of it. He wanted to drown in it—eat everything, drink everything, fuck everything. The city was a banquet, and for years, he hadn’t known that he was starving."
 

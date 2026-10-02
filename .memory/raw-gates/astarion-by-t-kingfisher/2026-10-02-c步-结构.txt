@@ -1,0 +1,34 @@
+=== c 步 · 结构扫描（audit_structure 子项检查假阴性高发，必须补第二实现）===
+=== 精读结构扫描（astarion-by-t-kingfisher）===
+  扫 32 个 md、282 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+exit=0
+
+---------- 第二实现 check_struct_indep ----------
+=== 独立结构扫描：29 个 md，缺陷 0 处 ===
+exit=0
+
+---------- check_quote_blocks ----------
+=== 引语块结构对账（astarion-by-t-kingfisher）===
+  带前缀的 `> **原句 N:**` 行：29 个文件共 228 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+exit=0
+
+---------- check_block_keywords（3–8 配额 / 关键词锚定 / 拼接红线）----------
+=== 引语块覆盖度：29 个 md，问题 0 处 ===
+exit=0
+
+---------- check_overview_full（总览三篇 H1 语义）----------
+=== 总览整串核查（astarion-by-t-kingfisher）===
+  参照集：text/ 逐章（29 章） ｜ 总览文件 3 个
+  A 整串：命中 89 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 89 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+exit=0
+
+---------- H1 语义（手 grep 兜底）----------
+notes/books/novels/astarion-by-t-kingfisher/00_概述.md:# 《Astarion》概述
+notes/books/novels/astarion-by-t-kingfisher/00_金句精选.md:# 《Astarion》金句精选
+notes/books/novels/astarion-by-t-kingfisher/00_情感节点.md:# 《Astarion》情感节点

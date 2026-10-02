@@ -1,0 +1,95 @@
+=== a 步 · 第 3 条门禁全量重跑 2026-10-02T14:26:03Z ===
+
+---------- verify_quotes ----------
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 24/24 ✅（另有 1 条短引语未校验）
+ch01 the price of blood.md: 8/8 ✅
+ch02 the first hunt.md: 8/8 ✅
+ch03 silk in the silver marches.md: 8/8 ✅
+ch04 szarr palace.md: 8/8 ✅
+ch05 the locked box.md: 7/7 ✅
+ch06 the four day journey.md: 8/8 ✅
+ch07 a hunt that fails.md: 8/8 ✅
+ch08 a hot drink never heard of.md: 8/8 ✅
+ch09 the mask and the dead potato.md: 8/8 ✅
+ch10 the window and the dragonbone harp.md: 8/8 ✅
+ch11 the speech lesson and the falcon.md: 8/8 ✅
+ch12 the contest and the singing stone.md: 8/8 ✅
+ch13 the city at seventeen.md: 8/8 ✅
+ch14 the underdark and a greeting.md: 8/8 ✅
+ch15 a romance with the law.md: 8/8 ✅
+ch16 the paladin in the cell.md: 8/8 ✅
+ch17 ten years of decency.md: 8/8 ✅
+ch18 the locksmith and the paladin.md: 8/8 ✅
+ch19 an oath as rope.md: 8/8 ✅
+ch20 a relic called it.md: 8/8 ✅
+ch21 his nose as a shrine.md: 8/8 ✅
+ch22 an elephant in a bag.md: 8/8 ✅
+ch23 trust the bat.md: 8/8 ✅
+ch24 an ugly stained glass window.md: 8/8 ✅
+ch25 a pink dressing gown and a crossbow bolt.md: 8/8 ✅
+ch26 the road again.md: 7/7 ✅
+ch27 five vials and a promise not yet earned.md: 8/8 ✅
+ch28 half a mile and a thrown key.md: 6/6 ✅
+ch29 two hundred years and a black line.md: 8/8 ✅
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 252/252 引文可核实（100%）；完全干净文件 30/30；正文章节 0 提取 0；总览 0 提取转交 1 ===
+exit=0
+
+---------- check_vocab ----------
+词条行合计: 1028
+
+--- FAIL (0) ---
+
+--- WARN (32) ---
+  ch01 the price of blood.md [基础] 基础档疑含超纲词「courtroom」
+  ch04 szarr palace.md [基础] 基础档疑含超纲词「difficult」
+  ch04 szarr palace.md [基础] 基础档疑含超纲词「miserable」
+  ch06 the four day journey.md [高级] 高级档混入常用词「great-great」
+  ch06 the four day journey.md [基础] 基础档疑含超纲词「messenger」
+  ch06 the four day journey.md [基础] 基础档疑含超纲词「classmates」
+  ch07 a hunt that fails.md [基础] 基础档疑含超纲词「businesslike care」
+  ch07 a hunt that fails.md [基础] 基础档疑含超纲词「cloying counterpoint」
+  ch08 a hot drink never heard of.md [基础] 基础档疑含超纲词「comforting hug」
+  ch08 a hot drink never heard of.md [基础] 基础档疑含超纲词「elvish noblewoman」
+  ch08 a hot drink never heard of.md [基础] 基础档疑含超纲词「shoulders」
+  ch08 a hot drink never heard of.md [基础] 基础档疑含超纲词「underground lair」
+  ch09 the mask and the dead potato.md [基础] 基础档疑含超纲词「plaything」
+  ch13 the city at seventeen.md [基础] 基础档疑含超纲词「expectant silence」
+  ch15 a romance with the law.md [基础] 基础档疑含超纲词「broadsheets」
+  ch15 a romance with the law.md [基础] 基础档疑含超纲词「city government」
+  ch15 a romance with the law.md [基础] 基础档疑含超纲词「entire framework」
+  ch15 a romance with the law.md [基础] 基础档疑含超纲词「precocious toddler」
+  ch15 a romance with the law.md [基础] 基础档疑含超纲词「suitable materials」
+  ch16 the paladin in the cell.md [基础] 基础档疑含超纲词「inquisitor」
+  ch17 ten years of decency.md [基础] 基础档疑含超纲词「creditors」
+  ch19 an oath as rope.md [基础] 基础档疑含超纲词「advantage」
+  ch19 an oath as rope.md [基础] 基础档疑含超纲词「cheekbones」
+  ch20 a relic called it.md [基础] 基础档疑含超纲词「breastbone」
+  ch21 his nose as a shrine.md [高级] 高级档混入常用词「heart-to-heart」
+  ch21 his nose as a shrine.md [基础] 基础档疑含超纲词「maintenance door」
+  ch21 his nose as a shrine.md [基础] 基础档疑含超纲词「waterskin」
+  ch21 his nose as a shrine.md [基础] 基础档疑含超纲词「fingertips」
+  ch22 an elephant in a bag.md [基础] 基础档疑含超纲词「barbarian」
+  ch24 an ugly stained glass window.md [基础] 基础档疑含超纲词「allegorical」
+  ch26 the road again.md [基础] 基础档疑含超纲词「graceful rejection」
+  ch26 the road again.md [基础] 基础档疑含超纲词「great-grandmother」
+exit=0
+
+---------- check_entities ----------
+=== 实体一致性检测：0 个文件存在未知实体 ===
+exit=0
+
+---------- corruption_scan ----------
+
+=== 编辑损坏扫描（astarion-by-t-kingfisher）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+exit=0

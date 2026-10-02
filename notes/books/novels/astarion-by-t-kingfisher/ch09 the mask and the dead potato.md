@@ -50,7 +50,7 @@ modified: "2026-10-02"
 - **中文理解**：和那位倒霉的 ecru 法师不同，这一位像是足了本：他精瘦、头剃得光光，手指交叠收在袖子里。眼睛是暗的、平的，像河底的卵石；桌上的烛火照不进去。若是在街上碰上他，Astarion 会忽然想起一件急事，急着去城的另一头办。
 - **关键词**：lean and ascetic, head shaven, fingers folded inside his sleeves / His eyes were dark and flat as river stones / would have suddenly remembered a pressing errand
 - **为什么这样写**：这一段不写怪物，只写一个「不像怪物」的样子：瘦、光头、手收在袖里，全是苦修者的标准配置。作者让主角用一个反向判断来定危险——在街上遇到就会忽然想起一件急事。上一句说眼睛里点不出一支蜡烛的火光，下一句就说这个人会让人临时找借口逃走，两句合起来是最省字的恐惧。
-- **读者视角提示**：他在走廊拐角再遇到这位客人时，只用了一句 So young 就把自己摆到了长辈位置上。
+- **读者视角提示**：对方开口第一句就是「So young」——那是他自己的开场白，也是他唯一的武器：拿年龄当门槛。Astarion 全程没有说话，只是躲在壁龛里看着那生物朝自己眨了眨眼。真正被这句话刺到的反而是 Violet，她在旁边只回了一句「我一百多岁了」。
 
 > **原句 6:** "Very well. It was just as it always was. Avoid pain and feel as little as possible. It was astonishing the things you would do of your own free will simply to avoid being forced to do them."
 

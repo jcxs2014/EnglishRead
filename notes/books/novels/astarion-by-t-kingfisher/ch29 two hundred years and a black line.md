@@ -28,7 +28,7 @@ modified: "2026-10-02"
 
 - **中文理解**：一两个月后，Cazador 用一把像酸一样灼人的银刀，在每个孩子的背上刻下一首诗，留下复杂的疤。那是酷刑，Astarion 叫到嗓子发破，然后听着其他人也在叫。他本可以对 Dalyria 和 Violet 的痛幸灾乐祸，可到最后他被抽干了，一点什么都感觉不到。疼也就算了，更糟的是他知道自己背上从此盖着一个印记：他的好看被 Cazador 的所有权划伤——这竟然比脖子上那两个圆疤还难受。
 - **关键词**：Cazador carved a poem onto the back of each of his children / he was so wrung out that he could not bring himself to feel much of anything at all / his beauty marred by the marks of Cazador’s ownership
-- **为什么这样写**：作者把这一刀刻在背上而不是脖子上，因为这一件痛在所有权：伤能愈合，「被谁拥有」不能。可最后他还是把疤和脖子上那两个圆疤放在一起比——因为后面那两个是母亲给的，前面这些不是。
+- **为什么这样写**：作者把这一刀刻在背上而不是脖子上，因为这一件痛在所有权：伤能愈合，「被谁拥有」不能。可最后他还是把它和脖子上那两个圆疤放在一起比——那两个疤的来历，书里从头到尾没有交代过一句，读者只能从「烙上去的」这个手感上自己猜。
 - **读者视角提示**：这是本节里他无力反抗的那一件事。读者要记得：从这一刻起，他不再是那个一心只想变好看的人。
 
 > **原句 3:** "“Your strategies are too complicated.” Aurelia picked up a rook that he had sacrificed early on. “You make these elaborate plans that would work on someone who was also making elaborate plans, but they’re useless against straightforward assaults.”"

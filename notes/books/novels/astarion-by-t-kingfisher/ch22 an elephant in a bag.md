@@ -19,9 +19,9 @@ modified: "2026-10-02"
 
 > **原句 1:** "“What in the Nine Hells is that?” asked the human guarding the door."
 
-- **中文理解**：守门人脱口问了一句：这是什么玩意儿。他心里清楚，这一身从头到脚的金属在这条街上只会被当成一件家具。
+- **中文理解**：守门人脱口问了一句：这是什么玩意儿。
 - **关键词**：What in the Nine Hells is that? / asked the human guarding the door
-- **为什么这样写**：作者让本节的第一句话从一个完全不懂行的人嘴里说出来，问题落在对方的常识而不是来者的身份上。读者由此知道他被认错了，而认错他的人叫 Deitre——用 morning star 像手术器械一样利落的人。
+- **为什么这样写**：他从头到脚一身金属，落在守门人眼里只可能是两种东西：一个 golem，或者一个穿盔甲的骑士。而他真正要办的事是趁人不备混进城——比喻和正事在同一句里交代完。
 - **读者视角提示**：本节的笑点全部建立在这场误会之上：他能安全进门，靠的不是本事，是别人愿意信他。
 
 > **原句 2:** "“I promise you that it shall be as well-behaved as a banker at audit time.” He gave den Suriel a very hard look. “Or else.”"
@@ -52,19 +52,19 @@ modified: "2026-10-02"
 - **为什么这样写**：作者先声明不談神学，随即用最不体面的那个生理需求把神学驳掉。判决只有一句，落点是 Themself——大写的自指：他不给任何一位神留面子。
 - **读者视角提示**：读者会在这里第一次听见他为别人的信仰说话，而他自己的立场其实更刻薄：他只在意对方别把自己弄死。
 
-> **原句 6:** "Unfortunately, what came out was an agitated, almost mechanical buzz. “Sorry,” den Suriel said, stroking Astarion under the chin with one fingertip. “I don’t speak Bat.”"
-
-- **中文理解**：从喉咙里出来的不是话，是一串激动而近乎机械的 buzz。对方一边道歉一边用一根指尖挠他下巴，说：我不会说兽语。
-- **关键词**：an agitated, almost mechanical buzz / stroking Astarion under the chin with one fingertip / I don’t speak Bat
-- **为什么这样写**：作者先写情绪（agitated）再写质地（mechanical），说明那串声音里没有内容，只有生理反应。而对方的回应是三件小事叠在一起：道歉、挠下巴、承认不懂——安慰全部落在动作上。
-- **读者视角提示**：读者此刻已经知道他马上要被变成别的东西，而这一段是本节最后的轻松时刻——它便宜，所以后面贵。
-
-> **原句 7:** "White eyes watched him solemnly. Astarion sank down onto the bare mattress and heard himself saying, from a great distance away, “It wasn’t long after he turned me. He told me I had to know what it felt like, so I wouldn’t get careless. He put on these heavy leather gloves, like a falconer’s gauntlets, and pulled back the drapes so there was a single beam of light coming into the room. Then he took my wrist and held my hand in the light. The skin burned off it and turned to ash. I watched all the little black flakes drifting down to the floor…”"
+> **原句 6:** "White eyes watched him solemnly. Astarion sank down onto the bare mattress and heard himself saying, from a great distance away, “It wasn’t long after he turned me. He told me I had to know what it felt like, so I wouldn’t get careless. He put on these heavy leather gloves, like a falconer’s gauntlets, and pulled back the drapes so there was a single beam of light coming into the room. Then he took my wrist and held my hand in the light. The skin burned off it and turned to ash. I watched all the little black flakes drifting down to the floor…”"
 
 - **中文理解**：白眼睛安静地看着他。他坐倒在光床板上，像是从很远的地方听见自己在讲：那人转过他没多久，说要让他先尝那个滋味，好叫他以后不敢大意；他戴上 falconer 那种厚皮手套，拉开帷幔，让一道光落进屋里；然后抓住他的手腕，把他的手按进那道光——皮肉烧成灰，他看着一片片黑色薄屑慢慢落到地板上。
 - **关键词**：heard himself saying, from a great distance away / like a falconer’s gauntlets / I watched all the little black flakes drifting down to the floor
 - **为什么这样写**：作者用一次身体距离把这段回忆推到远处：他自己都像在听别人说。而最疼的一处落在 falconer 的手套——猎人的工具被用来按住一只手，于是这件事从头就带着被驯养的意味。
 - **读者视角提示**：本节最重的一段是他主动交出去的。他讲这件事不是为了示弱，是因为刚被对方看穿了动作，他需要给出一个解释。
+
+> **原句 7:** "Unfortunately, what came out was an agitated, almost mechanical buzz. “Sorry,” den Suriel said, stroking Astarion under the chin with one fingertip. “I don’t speak Bat.”"
+
+- **中文理解**：从喉咙里出来的不是话，是一串激动而近乎机械的 buzz。对方一边道歉一边用一根指尖挠他下巴，说：我不会说兽语。
+- **关键词**：an agitated, almost mechanical buzz / stroking Astarion under the chin with one fingertip / I don’t speak Bat
+- **为什么这样写**：作者先写情绪（agitated）再写质地（mechanical），说明那串声音里没有内容，只有生理反应。而对方的回应是三件小事叠在一起：道歉、挠下巴、承认不懂——安慰全部落在动作上。
+- **读者视角提示**：读者此刻已经知道他马上要被变成别的东西，而这一段是本节最后的轻松时刻——它便宜，所以后面贵。
 
 > **原句 8:** "“Trust the bat when you need to fly,” the druid said, looking directly at Astarion. “But don’t become too comfortable, or you are likely to forget your purpose. And don’t get into a fight with any real flying creatures, because they’ll make a meal out of you.”"
 

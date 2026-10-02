@@ -52,26 +52,26 @@ modified: "2026-10-02"
 - **为什么这样写**：作者让同一个词在一段里出现三次：先是他自以为抓住的漏洞，再是它失效，最后变成一句拿 gods 作比的玩笑。loophole 从出路变成笑话，正是他两百年来那套自欺的全部形状。
 - **读者视角提示**：他讲这个故事的时候语速很快。读者要注意，他至今没说自己后来做了什么——只说了一句「你可以猜」。
 
-> **原句 6:** "I offer this gift freely, ancient one,” he said, lighting the candle. His voice was calm and completely unselfconscious. “If you have a blessing to impart, I ask that you give it. If not, I ask only that you continue to endure.”"
+> **原句 6:** "Astarion shook out his jacket and grabbed his pack, suddenly disgusted with himself for talking about the crypt at all. He’d used his body to seduce a victim more times than he could count. He no longer felt anything much about it. Spreading his emotions out for den Suriel felt different, though. The one thing Cazador couldn’t get to was his memories, and yet here Astarion was, using them to manipulate a man for Cazador’s ultimate benefit. He felt as if he were selling off pieces of his soul."
+
+- **中文理解**：他抖了抖外套，抓起行囊，忽然为自己居然讲了密室的事而厌恶自己。他用身体引诱过victim，多到数不清；那些事他早已没什么感觉。可对那位圣骑士摊开情绪是另一回事——主人拿不到他的记忆，而他正在拿这些记忆去操纵一个人，好让主人得利。他觉得自己像在变卖 soul 的碎片。
+- **关键词**：He’d used his body to seduce a victim more times than he could count / The one thing Cazador couldn’t get to was his memories / selling off pieces of his soul
+- **为什么这样写**：作者把他此刻的行为和两百年的行为并排放，只用一个却字分开。他自己算得出旧账的总数，却不肯算新账的那一笔——新账要拿记忆付，而记忆是主人唯一拿不到的东西。
+- **读者视角提示**：读者在本节结束前已经知道，他刚刚说的每一句实话都有用途。所以这一段的自我厌恶不是后悔，是知情。
+
+> **原句 7:** "I offer this gift freely, ancient one,” he said, lighting the candle. His voice was calm and completely unselfconscious. “If you have a blessing to impart, I ask that you give it. If not, I ask only that you continue to endure.”"
 
 - **中文理解**：那位圣骑士掰下一块行军硬饼放进壁龛，撒了一把盐，点上一截蜡烛，然后说：我把这份礼物自由地献给您，古老的那一位；您若有赐福，请给我；若没有，我只求您继续 endure 下去。
 - **关键词**：I offer this gift freely, ancient one / His voice was calm and completely unselfconscious / I ask only that you continue to endure
 - **为什么这样写**：作者把仪式拆成三样不值钱的东西：一块面包、一撮盐、一截蜡烛。真正抬高的只有语调——calm and completely unselfconscious 这句写的是嗓音，不是神迹：他连自己有没有理都不打算确认。
 - **读者视角提示**：读者会在这里第一次感到别扭：向一个可能早就不存在的神祈祷，本身就是一种代价。
 
-> **原句 7:** "It wasn’t bad. It wasn’t good. It wasn’t much of anything, to be honest, except that there had been two people in the hallway, and for just a moment, there were three. The third was invisible and voiceless, but Astarion felt them nevertheless, there and gone, along with a scent so faint that it might have been the ghost of incense."
+> **原句 8:** "It wasn’t bad. It wasn’t good. It wasn’t much of anything, to be honest, except that there had been two people in the hallway, and for just a moment, there were three. The third was invisible and voiceless, but Astarion felt them nevertheless, there and gone, along with a scent so faint that it might have been the ghost of incense."
 
 - **中文理解**：那不算坏，也不算好，其实什么都不是——只是走廊里本来有两个人，有那么一瞬间变成了 three。第三个人看不见，也没有声音，可他确实感觉到了，来去都很快，只带着一缕淡到几乎是 incense 的余味。
 - **关键词**：for just a moment, there were three / The third was invisible and voiceless / the ghost of incense
 - **为什么这样写**：作者先让叙述者三次否定（不算坏、不算好、其实什么都不是），才把那个 three 放出来。数字一出现，读者就知道多出来的是谁；可紧接着又抽走形状与声音，只留一缕 incense 的气味。
 - **读者视角提示**：这一节里最重的东西没有形状。读者只能凭气味确认它来过——而气味恰恰是全书反复用的那条线。
-
-> **原句 8:** "Astarion shook out his jacket and grabbed his pack, suddenly disgusted with himself for talking about the crypt at all. He’d used his body to seduce a victim more times than he could count. He no longer felt anything much about it. Spreading his emotions out for den Suriel felt different, though. The one thing Cazador couldn’t get to was his memories, and yet here Astarion was, using them to manipulate a man for Cazador’s ultimate benefit. He felt as if he were selling off pieces of his soul."
-
-- **中文理解**：他抖了抖外套，抓起行囊，忽然为自己居然讲了密室的事而厌恶自己。他用身体引诱过victim，多到数不清；那些事他早已没什么感觉。可对那位圣骑士摊开情绪是另一回事——主人拿不到他的记忆，而他正在拿这些记忆去操纵一个人，好让主人得利。他觉得自己像在变卖 soul 的碎片。
-- **关键词**：He’d used his body to seduce a victim more times than he could count / The one thing Cazador couldn’t get to was his memories / selling off pieces of his soul
-- **为什么这样写**：作者把他此刻的行为和两百年的行为并排放，只用一个却字分开。他自己算得出旧账的总数，却不肯算新账的那一笔——新账要拿记忆付，而记忆是主人唯一拿不到的东西。
-- **读者视角提示**：读者在本节结束前已经知道，他刚刚说的每一句实话都有用途。所以这一段的自我厌恶不是后悔，是知情。
 
 ## 本章词汇
 

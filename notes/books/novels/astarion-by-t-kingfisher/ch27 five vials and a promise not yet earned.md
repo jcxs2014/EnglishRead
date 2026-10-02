@@ -43,7 +43,7 @@ modified: "2026-10-02"
 - **中文理解**：「哼，」Cazador 点头时 Godey 说道。「哟，这可真叫一笔出其不意，板上钉钉。」他用骨节嶙峋的手指扣住 Dalyria 的肩。「来吧，小东西。咱们看看你有什么可唱的，好不好？」
 - **关键词**：that’s a turn up for the books / He closed skeletal fingers over Dalyria’s shoulder / let’s see what makes you sing
 - **为什么这样写**：作者让行刑者先用一句行话把反转说破，再用「唱」这个字把刑讯说成一场演出。整套流程被他处理得像一桩普通差事——先交接，再验货。
-- **读者视角提示**：读者会记得三天前她还在他的实验室里偷那三滴血。这一段之后，本节就再没给过她一句完整的话。
+- **读者视角提示**：偷血和受刑在同一个夜晚——她刚在自己实验室里做完那件事，转身就成了刑台上的那个。而且这一段之后她还有完整的话要讲：她主动提出要赔一条腿，还把怎么接骨说得一清二楚。受刑的是她的身体，动手的、算账的、收场的全是她。
 
 > **原句 5:** "Cazador Szarr, ancient vampire lord, servant of Mephistopheles, infernalist and ruler of the night, was weeping."
 

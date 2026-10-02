@@ -19,7 +19,7 @@ modified: "2026-10-02"
 
 > **原句 1:** "“Father, if I may…” Astarion leaned toward him and let a faintly patronizing smile play across his lips: two senior family members discussing the foibles of a young one. “Regardless of what my sister may have intended, no one could have drunk that blood. Chewed it, possibly, if you could chisel it out of the bottle. That unicorn has been dead since the Time of Troubles, at least. Its blood probably has more use as a paperweight.”"
 
-- **中文理解**：「父亲，容我说一句……」Astarion 身子前倾，让一丝居高临下的笑意浮上嘴唇——两个年长家人正在谈论一个小的毛病。「不管我姐姐是打什么主意，都不可能有人喝下那种血。除非你能从瓶子里把它凿出来嚼。那头独角兽至少从 Time of Troubles 之前就死了。它的血大概更适合当个镇纸。」
+- **中文理解**：「父亲，容我说一句……」Astarion 身子前倾，让一丝居高临下的笑意浮上嘴唇——两个年长家人正在谈论一个小的毛病。「不管我姐姐是打什么主意，都不可能有人喝下那种血。除非你能从瓶子里把它凿出来嚼。那头独角兽至少从 Time of Troubles 那段日子起就死了。它的血大概更适合当个镇纸。」
 - **关键词**：a faintly patronizing smile play across his lips / two senior family members discussing the foibles of a young one / more use as a paperweight
 - **为什么这样写**：作者把谎言写成一场角色扮演：a faintly patronizing smile 下面藏着真正的求生策略——他不是被抓包，是主动把事情降级成一个孩子的胡闹。而 no one could have drunk that blood 用的是双重否定，比直接说「她没喝」更难反驳；最后落到a paperweight 这个毫不相关的小东西上，是把话题带偏的标准动作。
 - **读者视角提示**：他这一段的说服力全在细节：主人不会去验证一头死了很久的独角兽的血能不能喝。
@@ -70,7 +70,7 @@ modified: "2026-10-02"
 
 - **中文理解**：「他以前跟我说过，他能听见石头在唱歌。」Yousen 脸上掠过一丝冷冷的惆怅。「有时候我也能听见一点。虽然从我被转生之后就没有过了。」他伸出手指沿着墙上的石头一路摸过去。「现在这一切都死了，就像别的一切一样。」
 - **关键词**：he could hear the stone singing / Sometimes I could hear it, too, a little / It all feels dead now, just like everything else
-- **为什么这样写**：作者借一个石地精之孙的耳朵，讲转生这件事的真正代价：不是不能见光，是世界失去了声音。这段里唯一的动作是trailed his fingers along the stones of the wall（此处指他用手指一路摸过墙面），说话的方式也只有a little 和 just like everything else 两处轻描淡写，而正是这种轻描淡写让它读起来像一笔旧账。
+- **为什么这样写**：作者借一个石地精自己的耳朵，讲转生这件事的真正代价：不是不能见光，是世界失去了声音。这段里唯一的动作是 trailed his fingers along the stones of the wall——他在自己家族的墙上摸出一首歌。
 - **读者视角提示**：他们要走的路靠的就是这只听不见声音的手。本节结束时，Yousen 的用途已经说清楚了。
 
 ## 本章词汇

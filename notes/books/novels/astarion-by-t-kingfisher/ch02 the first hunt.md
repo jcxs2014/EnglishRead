@@ -31,26 +31,26 @@ modified: "2026-10-02"
 - **为什么这样写**：全书的核心母题在这里完成一次反转：他打量 Boris 的方式，和七岁的他摸到绸缎袖口时完全一样——先用手摸，再拿一个日常物件打比方。同一套「鉴赏」动作，用在布料上是天赋，用在别人身上就是羞辱。banana skin 这个比喻还带着厨房的干净气味，和他身上那套血与丝的意象毫不相干，这种错位正是他的语气。
 - **读者视角提示**：香蕉是本节冒出来的食物意象；它和后文草莓蘸血那条线一起，构成他那条「美与食物纠缠不清」的习惯。
 
-> **原句 3:** "Darling, I think I’ve met smarter fried eggs.”"
-
-- **中文理解**：「亲爱的，我好像认识比这更聪明的煎蛋。」对方问他是不是傻，他的回答是：你不傻到值得我上钩。
-- **关键词**：Darling / smarter fried eggs
-- **为什么这样写**：全节最短的一次交锋，落在一个比喻上：对方问的是自己蠢不蠢，他答的却是对方够不够格。fried eggs 选得极轻——它把对方的脑子放到早餐桌上，和他那些同乡比高低；而那些同乡显然聪明得多。说得越轻，杀人的分量就越重。
-- **读者视角提示**：这句是全节最短的一次交锋，而他给同族的评价也一直沿着这条线走——对方问他蠢不蠢，他答的是对方不够格进他的名单。与上一块那句香蕉皮比喻相比，这次连解释都省了：比喻还要照顾对方的面子，这句直接把人放到早餐桌上。
-
-> **原句 4:** "Oh no,” Astarion said, dancing backward. “I’m getting away, look.”"
+> **原句 3:** "Oh no,” Astarion said, dancing backward. “I’m getting away, look.”"
 
 - **中文理解**：他倒退着跳舞，故意喊「不好啦」，还提醒对方看：我要跑了。
 - **关键词**：dancing backward / I’m getting away, look
 - **为什么这样写**：明明他占尽上风，却要演出一副落荒而逃的样子——诱捕的诀窍就在这句台词里：他必须让对方觉得自己还有机会。dancing backward 一个短语同时交出两件事：他的身体有多轻，以及他有多不把对方当回事。
 - **读者视角提示**：记住这句的语气，接下来整段追猎都是在为它做铺垫。
 
-> **原句 5:** "With a roar of rage and baffled lust, Boris charged at him. Astarion took to his heels, letting the mist swallow him, and waited. After a moment, the pursuing footsteps slowed. He slipped silently behind his quarry, stood on tiptoes, and murmured, “Catch me if you can,” into the ear with the gold dolphin."
+> **原句 4:** "With a roar of rage and baffled lust, Boris charged at him. Astarion took to his heels, letting the mist swallow him, and waited. After a moment, the pursuing footsteps slowed. He slipped silently behind his quarry, stood on tiptoes, and murmured, “Catch me if you can,” into the ear with the gold dolphin."
 
 - **中文理解**：对方怒吼着扑过来，他转身钻进雾里；等脚步声慢下来，再无声无息地绕到背后，踮起脚，把「来抓我呀」说进那只挂着金海豚的耳朵。
 - **关键词**：roar of rage and baffled lust / slipped silently behind his quarry / stood on tiptoes
 - **为什么这样写**：这是本节里叙述者停下来讲战术的一段，而讲的方式是把猎物标成 quarry（猎物），把靠近写成 tiptoes（踮脚）——偷情式的靠近和猎杀式的靠近共用同一个身体动作。baffled lust 把「被耍了的怒气」和「没到手的欲望」捆成一处，对方越难受，他越好看。
 - **读者视角提示**：金海豚这处细节是本节的钩子：读者被要求记住这只耳饰，因为本节靠它收线。
+
+> **原句 5:** "Darling, I think I’ve met smarter fried eggs.”"
+
+- **中文理解**：「亲爱的，我好像认识比这更聪明的煎蛋。」对方问他是不是傻，他的回答是：你不傻到值得我上钩。
+- **关键词**：Darling / smarter fried eggs
+- **为什么这样写**：全节最短的一次交锋，落在一个比喻上：对方问的是自己蠢不蠢，他答的却是对方够不够格。fried eggs 选得极轻——它把对方的脑子放到早餐桌上，和他那些同乡比高低；而那些同乡显然聪明得多。说得越轻，杀人的分量就越重。
+- **读者视角提示**：这句是全节最短的一次交锋，而他给同族的评价也一直沿着这条线走——对方问他蠢不蠢，他答的是对方不够格进他的名单。与本节前面那句香蕉皮的比喻相比，这次连解释都省了：比喻还要照顾对方的面子，这句直接把人放到早餐桌上。
 
 > **原句 6:** "Curses, now I’ll have to sew it. And it’s the embroidered one, too, so I’ll have to make sure all the little roses line up properly."
 

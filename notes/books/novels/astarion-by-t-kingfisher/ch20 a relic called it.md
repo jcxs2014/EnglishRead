@@ -8,7 +8,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：靠一腔怒气赶完最后一段路，他看到的是一间半年没人打理的宅子、一个只剩一只眼睛还认人的老人，以及一句他自己都还没想好怎么兑现的承诺。
+- **一句话概括**：靠一腔怒气赶完最后一段路，他看到的是一间久没人打理的宅子、一个只剩一只眼睛还认人的老人，以及一句他自己都还没想好怎么兑现的承诺。
 - **书内章号**：无。本书 epub 正文无任何章节标记（spine 13 件中正文仅 1 件，h1/h2/h3 计 0 个，全文「Chapter」出现 0 次，NCX 目录只把整本正文列为一条）。本节由 scripts/attic/extract_chapterless.py 按出版方自有的两级分隔符切出：起点是出版方装饰花饰分隔符（章界信号）；全书 29 段 = 正文起点 1 + 装饰花饰（章界）20 + 破折号补切 8。
 - **视角**：第三人称限知贴着 Astarion，而这一节里它大部分时间贴着他的听觉和触觉——他清嗓子听自己的声音有多平静，他低头看自己的手被老人的手指握住。叙述者只在最后补了一句判决。
 - **情感弧线位置**：从赶路的怒气，到进门后的压抑，到老人把整副家当交成一个代词时的荒谬感，再到他起身下命令。本节没有爆发，而全节最重的一击是那句五个字的谎。
@@ -45,19 +45,19 @@ modified: "2026-10-02"
 - **为什么这样写**：作者把两处火并排放：心里那块烧红的炭是他的愤怒，最后那点正在熄的火星是她的命。前者烧得稳，后者快完了，于是这屋里还在烧的只剩他一个。
 - **读者视角提示**：这一节连哭都被叙述者拦住了——理由是发火没有意义。
 
-> **原句 5:** "“Always been an Ancunín here…Promise me. Take care of it.”"
-
-- **中文理解**：「你一直就是 Ancunín……答应我。替我照看它。」
-- **关键词**：Always been an Ancunín here / Promise me / Take care of it
-- **为什么这样写**：作者把临终交代压成三个短句，中间那个东西一个字都不提。Take care of it 把整座产业、整桩麻烦和他往后半生压成一个代词——下一段他应下这件事，叙述者紧跟着判他撒了谎：他确实打算接下来，只是还没想过要怎么接。
-- **读者视角提示**：本节最重的一击落在一个代词上。他不知道那个东西是什么，而读者已经知道了。
-
-> **原句 6:** "A hard laugh clawed at his throat. He swallowed it down for Bajia’s and Wendin’s sakes."
+> **原句 5:** "A hard laugh clawed at his throat. He swallowed it down for Bajia’s and Wendin’s sakes."
 
 - **中文理解**：一声硬笑抓着他的喉咙往上爬。他把它咽了下去——为了 Bajia，为了 Wendin。
 - **关键词**：A hard laugh clawed at his throat / He swallowed it down / for Bajia’s and Wendin’s sakes
 - **为什么这样写**：作者让笑先长在身体里（clawed at his throat），再让他咽下去。咽的理由不是忍，是场面：屋里还有两个人看着他。
 - **读者视角提示**：这一节他连笑都得先为别人收起。
+
+> **原句 6:** "“Always been an Ancunín here…Promise me. Take care of it.”"
+
+- **中文理解**：「你一直就是 Ancunín……答应我。替我照看它。」
+- **关键词**：Always been an Ancunín here / Promise me / Take care of it
+- **为什么这样写**：作者把临终交代压成三个短句，中间那个东西一个字都不提。Take care of it 把整座产业、整桩麻烦和他往后半生压成一个代词——下一段他应下这件事，叙述者紧跟着判他撒了谎：他确实打算接下来，只是还没想过要怎么接。
+- **读者视角提示**：本节最重的一击落在一个代词上。他不知道那个东西是什么，而读者已经知道了。
 
 > **原句 7:** "Astarion went. Leaves were falling from the great tree to lie golden across the floor. He was already mounted when Bajia emerged from the house, her face twisted in a frown. “He won’t come with us,” she said grimly. “Says he’ll see her buried. He’s going to get himself killed.”"
 

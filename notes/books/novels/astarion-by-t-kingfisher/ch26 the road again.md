@@ -19,7 +19,7 @@ modified: "2026-10-02"
 
 > **原句 1:** "In a strange way, the trip to Baldur’s Gate with Bajia was not unlike the trip from the vineyard to Lady Erikinia’s estate. He was older and angrier and despairing, and yet the weather was fine, and Bajia was still a merry traveling companion. They slept rough instead of staying at inns, but Astarion would often wake to find a rabbit sizzling on a spit over the fire."
 
-- **中文理解**：说来奇怪，他和 Bajia 去博德之城的这一路，跟当年从葡萄园去 Lady Erikinia 庄园的那一趟并不像。他更老、更生气、更绝望，可天气还是那么好，Bajia 仍是个快活的旅伴。他们睡在野外不住店，可 Astarion 常常一睁眼就看见一只兔子在火上的烤架里滋滋冒油。
+- **中文理解**：说来奇怪，他和 Bajia 去博德之城的这一路，跟当年从葡萄园去 Lady Erikinia 庄园的那一趟几乎一样。他更老、更生气、更绝望，可天气还是那么好，Bajia 仍是个快活的旅伴。他们睡在野外不住店，可 Astarion 常常一睁眼就看见一只兔子在火上的烤架里滋滋冒油。
 - **关键词**：not unlike the trip from the vineyard to Lady Erikinia’s estate / He was older and angrier and despairing / a rabbit sizzling on a spit over the fire
 - **为什么这样写**：作者开头就宣布「不像」，然后用整整两页兑现那个像：同样的夜路、同样的火、同样有人替他张罗吃的。唯独没写出来的是这一趟真正的方向。
 - **读者视角提示**：读者刚读完他被出卖的那几节，这里跟着一个已经放弃伪装的人上路。他还在开玩笑，但不再计划任何事。
