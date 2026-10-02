@@ -1,0 +1,61 @@
+=== verify_quotes ===
+ch01 the blurb.md: 6/6 ✅（另有 1 条短引语未校验）
+ch02 the green dot.md: 8/8 ✅
+ch03 books are better than people.md: 4/4 ✅
+ch04 the wound and the war.md: 7/7 ✅（另有 1 条短引语未校验）
+ch05 a team that feels like family.md: 8/8 ✅
+ch06 the real villain is grandpa joe.md: 4/4 ✅
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 37/37 引文可核实（100%）；完全干净文件 6/6；正文章节 0 提取 0；总览 0 提取转交 0 ===
+exit=0
+=== check_vocab ===
+词条行合计: 166
+
+--- FAIL (0) ---
+
+--- WARN (11) ---
+  ch01 the blurb.md [基础] 基础档疑含超纲词「romance bookstore」
+  ch01 the blurb.md [基础] 基础档疑含超纲词「cheese croissant」
+  ch02 the green dot.md [基础] 基础档疑含超纲词「bootstraps」
+  ch02 the green dot.md [基础] 基础档疑含超纲词「diverse selection」
+  ch03 books are better than people.md [基础] 基础档疑含超纲词「character」
+  ch03 books are better than people.md [基础] 基础档疑含超纲词「controversial opinion」
+  ch03 books are better than people.md [基础] 基础档疑含超纲词「total misanthrope」
+  ch04 the wound and the war.md [基础] 基础档疑含超纲词「constant tightrope」
+  ch05 a team that feels like family.md [基础] 基础档疑含超纲词「competition」
+  ch05 a team that feels like family.md [基础] 基础档疑含超纲词「additional overhead」
+  ch05 a team that feels like family.md [基础] 基础档疑含超纲词「walking contradiction」
+exit=0
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+exit=0
+=== corruption_scan ===
+
+=== 编辑损坏扫描（battle-of-the-bookstores-by-ali-brady）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+exit=0
+=== sweep_full --quiet ===
+=== 引语整串 flat 比对（battle-of-the-bookstores-by-ali-brady）===
+  参照集：text/ 逐章（40 章，可定章） + epub 交叉验证
+  ✅ 本章命中 37 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+exit=0
+=== check_chapter_quotes 5 ===
+⚠️  全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 37，命中本章 37（100%）
+✅ 全部引语均归属正确章节
+exit=0
+=== check_chapter_quotes 6 ===
+⚠️  全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 37，命中本章 37（100%）
+✅ 全部引语均归属正确章节
+exit=0
+=== check_short_quotes ===
+=== 短引语兜底核对（battle-of-the-bookstores-by-ali-brady）===
+  verify_quotes 跳过（<20 flat 字符）的引语：2 条 —— 这些主门禁**根本没查**
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+exit=0
