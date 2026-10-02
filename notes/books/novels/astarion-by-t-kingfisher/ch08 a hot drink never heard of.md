@@ -73,13 +73,6 @@ modified: "2026-10-02"
 - **为什么这样写**：谈判高手的做法：先把两条路都摆出来，再立刻声明两条都不保证。她把「留下」说成学一件事，把「离开」说成转身——两个选项都不吓人，于是都不像陷阱。而 I make no promises 是把自己从承诺里摘干净，日后任何结果都不算她失约。
 - **读者视角提示**：注意她是先说 love or hate、再让他答话：在逼他之前，她已经替他把最坏的结局念了一遍。
 
-> **原句 9:** "His mother covered her face. Lady Erikinia’s smile grew to a sharp-toothed grin. “Certainly, you may. Though I ask you to give it a little time to adjust first. Say, one year?”"
-
-- **中文理解**：他母亲捂住了脸。Lady Erikinia 的笑咧开了，露出一口尖牙。「当然可以。不过我请你先给它一点时间适应——就一年，怎么样？」
-- **关键词**：His mother covered her face / Lady Erikinia’s smile grew to a sharp-toothed grin / I ask you to give it a little time to adjust first. Say, one year?
-- **为什么这样写**：他把条款的缝当场找出来问出口，她不但不驳，反而笑得更开心——因为那个缝本身就是答案。那口尖牙又与本节开头那副骷髅样貌接上了：同一副牙，换了一种用法。最后那个 one year 把一份没期限的承诺改成有到期日的合约，等于替他留了后门，也替她留下了他。
-- **读者视角提示**：记住这个一年：他答应的是先试一年，而这句话也是他全书中少数几次主动给自己留的缝。
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

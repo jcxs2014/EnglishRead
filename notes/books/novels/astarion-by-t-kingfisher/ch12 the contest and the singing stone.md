@@ -66,14 +66,7 @@ modified: "2026-10-02"
 - **为什么这样写**：这段是本节的重心：先是一个反问（此处指把 spawn 聚在一起的是什么），再由主人自己回答。作者把同一个主语重复三次（brought、made、will decide），把血写成了唯一的因果链。而他脑子里那句回话（此处指「你啊，你这头残忍的老山羊」）恰好卡在反问和回答之间——最准确的答案没有被说出口。
 - **读者视角提示**：这不是惩罚，这是抽签。真正可怕的地方在于主人把它说成一件家庭活动。
 
-> **原句 8:** "Dalyria met his eyes, as she so rarely did. “I know where to get the blood of a god.”"
-
-- **中文理解**：Dalyria 抬起眼看着他——她极少这样。「我知道去哪儿取神的血。」他的呼吸从牙缝里嘶了一声。
-- **关键词**：Dalyria met his eyes, as she so rarely did / I know where to get the blood of a god
-- **为什么这样写**：两句，第二句比第一句短得多，于是力度全落在它上面。as she so rarely did 是作者替读者标注的惊讶（此处指她平时根本不看他）；而这一节里她第一次主动看着他，紧接着就交出了一条别人不知道的路。
-- **读者视角提示**：神的血能赢过主人给的血。这句话把整场比赛的规则从「谁的猎物更稀有」改成了「谁的来源更古老」。
-
-> **原句 9:** "“He used to tell me that he could hear the stone singing.” A coldly wistful look crossed Yousen’s face. “Sometimes I could hear it, too, a little. Though not since I was turned.” The gnome reached out and trailed his fingers along the stones of the wall. “It all feels dead now, just like everything else.”"
+> **原句 8:** "“He used to tell me that he could hear the stone singing.” A coldly wistful look crossed Yousen’s face. “Sometimes I could hear it, too, a little. Though not since I was turned.” The gnome reached out and trailed his fingers along the stones of the wall. “It all feels dead now, just like everything else.”"
 
 - **中文理解**：「他以前跟我说过，他能听见石头在唱歌。」Yousen 脸上掠过一丝冷冷的惆怅。「有时候我也能听见一点。虽然从我被转生之后就没有过了。」他伸出手指沿着墙上的石头一路摸过去。「现在这一切都死了，就像别的一切一样。」
 - **关键词**：he could hear the stone singing / Sometimes I could hear it, too, a little / It all feels dead now, just like everything else

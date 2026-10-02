@@ -52,28 +52,21 @@ modified: "2026-10-02"
 - **为什么这样写**：作者先写他自评：熟练但不是大师，再写他立刻把大师当成囊中之物（此处指他认为以自己的寿命迟早能做到）。随后那句旋转是全章的转折点：句子还在庆祝，动作已经把斗篷甩了出去，而斗篷扫到了龙骨竖琴。作者在这里埋的因和后面那场闹剧的果之间只隔了一句。
 - **读者视角提示**：记住这一刻的自满：下一段之后他会亲口说这笔账该怎么算。
 
-> **原句 6:** "And then, like a thunderbolt, like a comet, like an extremely cheap gift from the gods, Rooftop Henry dove through the window and slammed his sharply curved beak into the shadow mastiff’s nose."
-
-- **中文理解**：然后——像一道闪电，像一颗彗星，像诸神送来的极廉价的一份礼物——Rooftop Henry 撞开窗子飞进来，用那道弯得尖锐的喙，狠狠啄在影犬的鼻子上。怪物尖叫一声松了口。
-- **关键词**：like a thunderbolt, like a comet, like an extremely cheap gift from the gods / Rooftop Henry dove through the window / his sharply curved beak into the shadow mastiff’s nose
-- **为什么这样写**：三个明喻一路升级，第三格忽然落在 cheap 上，把神话式救援一下拽回市井——救他的人不是命运，是一只讲条件的鸟。beak 与 nose 两个身体部位压在同一句尾，把整个救援压缩成一个接触点，而对面那只巨犬只给了一声尖叫，力量对比一眼可见。
-- **读者视角提示**：这一刻 Henry 救了他，可下一句就开始讨价还价——这本书记的恩情从来不免费。
-
-> **原句 7:** "He flung himself headfirst down the brickwork, hearing enraged barking and a few inventive avian curse words behind him. Then he was on the ground, the beautiful, glorious ground. Why had he left it in the first place? When he became a real vampire, he was never going to turn into a bat, and that was final."
+> **原句 6:** "He flung himself headfirst down the brickwork, hearing enraged barking and a few inventive avian curse words behind him. Then he was on the ground, the beautiful, glorious ground. Why had he left it in the first place? When he became a real vampire, he was never going to turn into a bat, and that was final."
 
 - **中文理解**：他头朝下顺着砖墙甩了下去，身后是气急败坏的狗叫和几句颇有创意的鸟骂。然后他落在地上，那片美丽的、荣耀的地面。他当初为什么要离开它？等他成了真正的吸血鬼，绝不会变成一只蝙蝠，这事没有商量。
 - **关键词**：the beautiful, glorious ground / flung himself headfirst down the brickwork / he was never going to turn into a bat, and that was final
 - **为什么这样写**：他先骂了一句脏话，再用两个最高级（此处指他对这片地面和他的新身份的双重赞美）把自己托上去。而 he flung himself headfirst down the brickwork 里没有任何缓冲词，句子跟着他的身体一起往下掉——这是全章动作最快的一句。最后那句用 and that was final 封口，一个副词都不容商量。
 - **读者视角提示**：他刚刚逃过一条影犬，此刻最在意的还是体面和姿势——这只小动物的口味，比他自己的命更能定义他。
 
-> **原句 8:** "You got sloppy. You started gloating before the job was done. You know better. He did know better. But a good gloat was one of the few pleasures left to him, so he’d indulged, and, like any overindulgence, he’d paid the price."
+> **原句 7:** "You got sloppy. You started gloating before the job was done. You know better. He did know better. But a good gloat was one of the few pleasures left to him, so he’d indulged, and, like any overindulgence, he’d paid the price."
 
 - **中文理解**：你搞砸了。你在活儿干完之前就开始得意。你本来知道的。可一次好得意的消遣已经是他剩下的乐趣里仅存的几样之一，于是他放纵了；而就像任何放纵一样，他为此付了账。
 - **关键词**：You got sloppy / You started gloating before the job was done / he’d paid the price
 - **为什么这样写**：作者让他自己审自己，用的是第二人称的祈使句——和前面他骂主人时用的是同一种内心语法。全段没有一个具体的错（不是哪个动作做坏了），只有一句总评；他拒绝复盘细节，只承认overindulgence 这个类别。but 从You got sloppy 转到 a good gloat，是他为自己留的那半句辩解。
 - **读者视角提示**：自我审判在这本书里从来不是为了改错，是为了下一次更好地享受。
 
-> **原句 9:** "She gazed into the small reddish-brown vial with an expression that Astarion had seen only once before. It had been on the face of a young man who had gazed at him with eyes that blazed with hope and fear and desire, as if Astarion might be the answer to the dreams he’d never even had."
+> **原句 8:** "She gazed into the small reddish-brown vial with an expression that Astarion had seen only once before. It had been on the face of a young man who had gazed at him with eyes that blazed with hope and fear and desire, as if Astarion might be the answer to the dreams he’d never even had."
 
 - **中文理解**：她盯着那只红褐色的小瓶，表情是 Astarion 只见过一次的。上一次是一个年轻人看着他的样子：眼里烧着希望、恐惧和欲望，仿佛 Astarion 就是他连做梦都没做过的那些梦的答案。
 - **关键词**：an expression that Astarion had seen only once before / eyes that blazed with hope and fear and desire / the answer to the dreams he’d never even had

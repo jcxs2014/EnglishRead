@@ -12,13 +12,13 @@
 
 | 批 | 章 | 状态 | commit |
 |---|---|---|---|
-| 1 | ch01–ch03 | completed | 79d24c660（ch01）· 批1 待提交 |
-| 2 | ch04–ch06 | in_progress | ch04 已写，门禁全绿 |
-| 3 | ch07–ch09 | pending | |
-| 4 | ch10–ch12 | pending | |
-| 5 | ch13–ch15 | pending | |
-| 6 | ch16–ch18 | pending | |
-| 7 | ch19–ch21 | pending | |
+| 1 | ch01–ch03 | completed | 79d24c660 / f08b1fd72 |
+| 2 | ch04–ch06 | completed | f08b1fd72 |
+| 3 | ch07–ch09 | completed | e46a467a1 |
+| 4 | ch10–ch12 | completed | e46a467a1 |
+| 5 | ch13–ch15 | completed | 本批 |
+| 6 | ch16–ch18 | completed | 本批 |
+| 7 | ch19–ch21 | in_progress | ch19–ch20 完成，ch21 待做 |
 | 8 | ch22–ch24 | pending | |
 | 9 | ch25–ch27 | pending | |
 | 10 | ch28–ch29 | pending | |
@@ -31,3 +31,5 @@
 - 主线：Cazador Szarr 的 spawn 血猎竞赛 → 地下城探险 → 找到死神之血 → 与 aasimar 圣骑士 Hahn den Suriel 结盟
 - 收尾：出逃未遂，Bajia 送他到 Baldur's Gate 城外，他立誓「this time no one would take it from him」
 - 核心意象：丝绸（silk）/ 血 / 变装 / 好看（looking good）
+
+**配额上限教训**：模板配额是 3–8 处，我在 worker brief 里写成「5–9 块」⇒ ch01/03/04/06/07/08/09/10/11/12/14/15/16/17/18/19 共 16 章 9 块，被 `check_block_keywords` 判「超出 3–8 配额」阻断。已把 brief 改成 5–8 块 + 加「引语只取一个自然段」一条。

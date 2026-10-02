@@ -24,56 +24,49 @@ modified: "2026-10-02"
 - **为什么这样写**：狩猎在这里是一份要交作业的差事：合格线是十天一两个，超期不达标就得被起疑。恐惧不是「猎不到东西」，是「被认为心不在这儿」——这句把风险从能力问题换成了态度问题。而开头 already knowing 先把失败的重量卸掉一半，于是失手不再是意外，是常态。
 - **读者视角提示**：记住十天一两个这个合格线：本节后半那场宴会，正是拿这条线换来的。
 
-> **原句 2:** "“As dead as a priest’s love.” Astarion’s smile had too much tooth in it."
-
-- **中文理解**：「死得像教士的爱一样死透。」他笑起来的时候，牙露得太多了一点。
-- **关键词**：As dead as a priest’s love / too much tooth in it
-- **为什么这样写**：一句俏皮话当凶讯用：死得像教士的爱——听起来像是该死的东西，其实还带着一层敬讽。紧跟的半句立刻把这层包装拆了：too much tooth 把「笑」当场翻译成獠牙。轻与重在同一行里对撞。
-- **读者视角提示**：记住这个比喻的分寸：他嘴上在报喜，牙口上已经亮了出来。
-
-> **原句 3:** "“I give you Boris’s death as a gift,” Astarion said, beginning to enjoy himself. “The world is undoubtedly better for it. I can even admire how you arranged it.” He leaned forward until she had to tilt her head back to meet his eyes. “You were clever, and you were lucky. But darling…” He smiled then, showing her the last half inch of fang. “You won’t be lucky twice.”"
+> **原句 2:** "“I give you Boris’s death as a gift,” Astarion said, beginning to enjoy himself. “The world is undoubtedly better for it. I can even admire how you arranged it.” He leaned forward until she had to tilt her head back to meet his eyes. “You were clever, and you were lucky. But darling…” He smiled then, showing her the last half inch of fang. “You won’t be lucky twice.”"
 
 - **中文理解**：「我把 Boris 的死当作一件礼物送给你，」他说，开始享受自己。「这个世界无疑因此变好了。你安排得漂亮，我甚至有点佩服。」他俯身向前，直到她不得不仰起头才能对上他的眼睛。「你很聪明，也很走运。不过亲爱的……」他笑起来，把最后一小截獠牙亮给她。「你不会有第二次好运。」
 - **关键词**：I give you Boris’s death as a gift / showing her the last half inch of fang / You won’t be lucky twice
 - **为什么这样写**：威胁被包装成恭维：先夸对方聪明、再夸手法漂亮，然后才把话收回来。而最后那句几乎没有回声——luck 与 lucky 的重复像把同一枚硬币翻了个面，读者刚被夸过的那点得意，正是用来垫底的。
 - **读者视角提示**：注意他俯身的动作：他得比她高，才好把这句话说完——威胁里带着姿势。
 
-> **原句 4:** "“Get your miserable caterwauling out of my bar!” roared the owner of the arm (and presumably the door)."
+> **原句 3:** "“Get your miserable caterwauling out of my bar!” roared the owner of the arm (and presumably the door)."
 
 - **中文理解**：「把你那套破锣嗓子从我的酒吧里滚出去！」那条手臂的主人咆哮着——大概也是那扇门的主人。
 - **关键词**：Get your miserable caterwauling out of my bar / the owner of the arm (and presumably the door)
 - **为什么这样写**：作者给一个醉汉的嗓子安了一副会撞墙的耳朵。而括号里那句玩笑把威胁降了级：吼他的既是手臂的主人，大概也是门的主人——连门都嫌他吵。这一嗓子也是本节唯一一次有人骂他，而骂的内容与他的身份毫无关系。
 - **读者视角提示**：这之后他弯腰捡起了摔坏的手风琴——本节唯一一次，他主动伸手帮一个陌生人。
 
-> **原句 5:** "Even more to his taste had been the naked revelers at the table, drunk and laughing, most of them three-quarters of the way to an orgy, some already there. Astarion had halted in the doorway, nostrils flaring, as he realized that he could smell something underneath the scent of wine and sex, something delicious, something alive…"
+> **原句 4:** "Even more to his taste had been the naked revelers at the table, drunk and laughing, most of them three-quarters of the way to an orgy, some already there. Astarion had halted in the doorway, nostrils flaring, as he realized that he could smell something underneath the scent of wine and sex, something delicious, something alive…"
 
 - **中文理解**：更合他口味的，是长桌两旁那些赤身裸体的狂欢者：喝得烂醉，笑个不停，多半已经走完四分之三、正奔着群交去，有些干脆已经在路上了。Astarion 在门口停住，鼻翼张开，因为他闻到了酒气与性气味底下的另一样东西——某种好吃的、某种还活着的味道。
 - **关键词**：Astarion had halted in the doorway, nostrils flaring / something delicious, something alive
 - **为什么这样写**：这段记忆用同一张桌子做前后对照：一边是他想象中的盛宴，一边是他等下真要端上桌的东西。而最后那三个短句把「好吃」与「活着」摞成同一口气——那具即将被端上桌的身体，恰恰是整桌唯一还热着的东西。
 - **读者视角提示**：他在门口停住时闻到的气味，正是他此后两百年一直缺的那一样。
 
-> **原句 6:** "The squeal of pleasure from his latest partner turned into a real squeal, high and shrill, and Astarion opened his eyes to find that he had his teeth buried in a pig’s throat and was dry humping the tablecloth."
+> **原句 5:** "The squeal of pleasure from his latest partner turned into a real squeal, high and shrill, and Astarion opened his eyes to find that he had his teeth buried in a pig’s throat and was dry humping the tablecloth."
 
 - **中文理解**：刚才还带着快感的尖叫，变成了一声真的尖叫——又高又尖；Astarion 睁开眼，发现自己两颗牙正埋在猪的喉咙里，正对着桌布干蹭。
 - **关键词**：turned into a real squeal, high and shrill / his teeth buried in a pig’s throat / was dry humping the tablecloth
 - **为什么这样写**：幻象不靠另起一段叙述被揭穿，而靠声音自己变调：快感的叫与真的叫只差一个形容词，读者和他同时听出来。而 dry humping 把生理上的窘迫压到最低——不是他愿意，是身体还留在惯性里没出来。
 - **读者视角提示**：这一句之后满桌都是猪；记住这个转换点，此前的一切都还没有成真。
 
-> **原句 7:** "The elder vampire hadn’t lied. This was what awaited him now—brief pleasures that gave way to humiliation and disgust. And a little fear in the back of his mind that anything he was experiencing might be an illusion. He could see that shadow in the back of Petras’s eyes, too. Is this all truly happening? Can I ever really be sure?"
+> **原句 6:** "The elder vampire hadn’t lied. This was what awaited him now—brief pleasures that gave way to humiliation and disgust. And a little fear in the back of his mind that anything he was experiencing might be an illusion. He could see that shadow in the back of Petras’s eyes, too. Is this all truly happening? Can I ever really be sure?"
 
 - **中文理解**：那位年长的吸血鬼没有骗他。这就是往后等着他的一切：短暂的欢愉，换来的是羞辱与厌恶；再加一点藏在脑子后头的怕——他正在经历的一切，会不会也只是幻象。他在 Petras 的眼睛深处也看见了同一片阴影。这是真的在发生吗？他真能确定吗？
 - **关键词**：This was what awaited him now / anything he was experiencing might be an illusion / Is this all truly happening?
 - **为什么这样写**：这一段不写他崩溃，而写他开始怀疑自己的经验：怀疑被安放在「脑子后头」，是压得住的那种。最后两句问话在原文里并不加引号，作者让它们离开叙述层，直接落到读者耳朵里；而这一节没有给出答案，就此打住。
 - **读者视角提示**：把这两句问话记住：本节里凡是他以为「得到」的东西，都得从它们面前过一遍。
 
-> **原句 8:** "Even now, long after being turned, the warm blood still slid down Astarion’s throat like silk, like velvet, like a mouth on his cock, like a hundred pleasures magnified and twisted back on themselves."
+> **原句 7:** "Even now, long after being turned, the warm blood still slid down Astarion’s throat like silk, like velvet, like a mouth on his cock, like a hundred pleasures magnified and twisted back on themselves."
 
 - **中文理解**：明明早就被转化过了，那口温热的血滑进喉咙时，仍然像丝、像丝绒、像一张嘴含着——像一百种放大之后又被扭回自身方向的乐趣。
 - **关键词**：still slid down Astarion’s throat like silk, like velvet, like a mouth on his cock / like a hundred pleasures magnified and twisted back on themselves
 - **为什么这样写**：全书的三个核心意象在这里第一次并排：丝、丝绒、还有嘴。三个 like 排成一串，把喝血这件肮脏事接到他一生最在意的触觉上；而 magnified 与 twisted back on themselves 拧在一起，快感再大，长回去的仍是它自己的形状。
 - **读者视角提示**：记住这串 like：从这里开始，丝与丝绒不再只是审美，而是他衡量一切快感的单位。
 
-> **原句 9:** "“You must admit,” Astarion said, stabbing the carved radish that decorated the rat’s tail, “the plating is superb. My compliments to the chef.”"
+> **原句 8:** "“You must admit,” Astarion said, stabbing the carved radish that decorated the rat’s tail, “the plating is superb. My compliments to the chef.”"
 
 - **中文理解**：「你得承认，」Astarion 一边用叉子戳着那只装饰在鼠尾上的雕花萝卜，一边说，「这份摆盘是极好的。替我向厨师问好。」
 - **关键词**：stabbing the carved radish that decorated the rat’s tail / the plating is superb / My compliments to the chef

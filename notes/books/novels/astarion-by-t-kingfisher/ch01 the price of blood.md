@@ -17,12 +17,12 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** "Blood, as various poets and murderers have observed, behaves very differently from water. It is thicker, obviously, and does not flow quite so smoothly. Raindrops falling into it leave tiny pools that float for a moment before dissolving. On wet cobblestones, blood spreads out in a pool, with edges that soften as it melts into the rain. Should it happen to encounter something—in this case, a broken crate, a wine-colored sleeve, and what appeared to be half an elderly turnip—blood will soak into them, blackening the wood, deepening the red of the fabric, and staining the turnip a rather fetching shade of pink."
+> **原句 1:** "Blood, as various poets and murderers have observed, behaves very differently from water. It is thicker, obviously, and does not flow quite so smoothly. Raindrops falling into it leave tiny pools that float for a moment before dissolving."
 
-- **中文理解**：血和水的 behaved 方式很不一样，这事诗人和杀人犯都早就说过：它更稠、流动更涩，雨滴落进去会先浮成一个个小水洼才慢慢散开；落在湿石板路上摊成一摊，边缘在雨水里泡软；要是碰上什么东西——这里是碎木箱、酒红色袖子、还有半个看着像老年芜菁的根茎——血就渗进去，把木头熏黑、把布料的红色加深、把这只芜菁染成相当讨喜的一抹粉。
-- **关键词**：behaves very differently / leave tiny pools / a rather fetching shade of pink
-- **为什么这样写**：开篇不写人，先写物，并且用「as various poets and murderers have observed」把叙述者的口气一次性交出来——他谈论血的方式是玩味的、分类学的，像在写一篇关于染色的小论文。三个动词（blackening / deepening / staining）一路递进，最后落到 fetching（讨喜）这个词上，把一场血腥事故说成配色方案。这一整段是为下一段的四个字准备的。
-- **读者视角提示**：注意 fetching 这个词：它同时带着屠场的眼睛和时装的眼睛，是本书的核心母题第一次露面。
+- **中文理解**：血和水的 behaves 方式很不一样，这事诗人和杀人犯都早就说过：它更稠、流动更涩，雨滴落进去会先浮成一个个小水洼，浮一会儿才散开。
+- **关键词**：behaves very differently / float for a moment / does not flow quite so smoothly
+- **为什么这样写**：开篇不写人，先写物，并且用「as various poets and murderers have observed」把叙述者的口气一次性交出来——他谈论血的方式是玩味的、分类学的，像在写一篇关于染色的小论文。整段只做一件事：把「血是什么」写成「血看起来像什么」，为下一段那四个字准备。雨滴沉下去不散开这个细节，是全段唯一的动态描写，也是后面「血不会轻易被冲走」的伏笔。
+- **读者视角提示**：这一段是纯粹的物描写，没有一个形容词落在人身上——注意这个延迟：Astarion 要到第三段才出现，而且出现时已经躺在地上了。
 
 > **原句 2:** "Astarion Ancunín was in a position to observe all this because he was lying in an alley with his right eye about six inches from the turnip in question. Also, it was his blood."
 
@@ -38,11 +38,11 @@ modified: "2026-10-02"
 - **为什么这样写**：被打断、浑身是血的人，第一反应是躺着想服装配色，而且想得极其认真：否定一次、肯定一次、再否定、再肯定。absently 把他和自己拉开距离——这份认真不是冷静，是还没意识到自己正在流血。收尾那句「他大概该记下来」是全节的题眼：他连濒死都当成一条待记的笔记。
 - **读者视角提示**：silk / waistcoat / embroidery 这三个词在本节反复出现，全书都在讲同一件事：他唯一还能自己决定的美，是身上的布。
 
-> **原句 4:** "He shrieked. Tried to shriek. His throat insisted he was screaming, but all his ears could pick up was a miserable whimper, like a dog dying in an alley."
+> **原句 4:** "His throat insisted he was screaming, but all his ears could pick up was a miserable whimper, like a dog dying in an alley."
 
-- **中文理解**：他尖叫。试图尖叫。他的嗓子坚持说他在惨叫，可他的耳朵能接收到的只有一声可怜的呜咽，像一条死在巷子里的狗。
-- **关键词**：He shrieked / Tried to shriek / his throat insisted / a miserable whimper
-- **为什么这样写**：两段成对，结构是「他尖叫。试图尖叫。」——第二段只把第一段的主语换成动词、加上「试图」，就把一次声音降级成了意图。紧接着的 his throat insisted 把发声器官写成有主张的一方，而耳朵收到的却是呜咽。四个句子没有一个完整的复合句，声音被拆到只剩残骸。
+- **中文理解**：他的嗓子坚持说他在惨叫，可他的耳朵能接收到的只有一声可怜的呜咽，像一条死在巷子里的狗。
+- **关键词**：his throat insisted / a miserable whimper / like a dog dying in an alley
+- **为什么这样写**：紧邻的前两段是「他尖叫。」和「试图尖叫。」——两句各自独立成段，第二段只把第一段的主语换成动词再加一个「试图」，就把一次声音降级成了意图。本段接着把发声器官写成有主张的一方（his throat insisted），而耳朵收到的却是呜咽。这四句里没有一个完整的复合句，声音被拆到只剩残骸。
 - **读者视角提示**：这四句之后紧接「疼痛有办法让头脑集中」，语气突然回升——他越痛越清醒，这是他被训练出来的本事，后面全书会反复用到。
 
 > **原句 5:** "It was a light sentence! Light! What did they want me to do, pat them on the head and say, “Good job, here’s a copper, go buy some candy”?"
@@ -52,33 +52,26 @@ modified: "2026-10-02"
 - **为什么这样写**：回忆段里唯一一段全大写情绪的内心独白，句子被拆成三个感叹，两次重复 Light，靠重复而不是靠形容词制造力度。pat them on the head 和 buy some candy 都是儿童语境的词，故意把「司法裁决」降到哄孩子的口吻上——但这恰恰是他被打的起因：他判得比法律宽，而宽的代价由他自己付。
 - **读者视角提示**：这一段的荒谬感来自他自己不觉得自己有错，全节后半的暴打就是对这个自信的兑付。
 
-> **原句 6:** "Young magistrates did not get to be old magistrates by being stupid."
-
-- **中文理解**：年轻的治安法官是靠不犯蠢才能熬成老的治安法官的。
-- **关键词**：Young magistrates / get to be / by being stupid
-- **为什么这样写**：整节唯一一句格言式的第三人称自警，句子被压得很短，主语用复数（Young magistrates 而不是 I），把自己放进一个职业世代里。by being stupid 用介词短语收尾，把「不愚蠢」写成活下来的唯一条件——他不是勇敢，他是在算概率。
-- **读者视角提示**：这句出现在他已经注意到被人跟踪的时候，此后每一个决定都由这句格言驱动：过马路、假装看橱窗、加快脚步、进巷子。
-
-> **原句 7:** "Slinking is a very specific sort of movement, not to be confused with skulking. Snakes slink, of course, as do cats and cat burglars and most assassins. Thugs and bruisers and most people who break heads for money skulk. (Wolves, interestingly enough, can do either.) The difference is in the fluidity of movement. If you see someone skulking, you wonder who’s going to get their bones broken, whereas if you see someone slinking, you wonder if they’ve got any bones at all."
+> **原句 6:** "Slinking is a very specific sort of movement, not to be confused with skulking. Snakes slink, of course, as do cats and cat burglars and most assassins. Thugs and bruisers and most people who break heads for money skulk. (Wolves, interestingly enough, can do either.) The difference is in the fluidity of movement. If you see someone skulking, you wonder who’s going to get their bones broken, whereas if you see someone slinking, you wonder if they’ve got any bones at all."
 
 - **中文理解**：潜行是很具体的一种移动方式，不能和鬼鬼祟祟混为一谈。蛇是潜行的，猫是潜行的，猫贼和大多数刺客也是潜行的。混混、打手、还有多数靠砸人脑袋吃饭的人是鬼鬼祟祟的。（有意思的是，狼两样都能做。）区别在动作的流畅度。看见一个人鬼鬼祟祟，你会想谁的骨头要断；看见一个人潜行，你会想他身上是不是根本没骨头。
 - **关键词**：a very specific sort of movement / not to be confused with skulking / the difference is in the fluidity of movement / any bones at all
 - **为什么这样写**：整节最大的一段离题，却不是闲笔：它用语言学的方式定义一个只属于吸血鬼的词，还顺手把狼的分类学问题挡了一句。这段插在「被吸血鬼救活」和「两百年后他出门觅食」之间，功能是让读者在没有情节推进的地方把新身份学了一遍。定义完之后立刻生效——下一段他就是用 slinking 的姿势走过酒馆门口的。
 - **读者视角提示**：if you see someone slinking, you wonder if they’ve got any bones at all 这句同时是全书对吸血鬼的定义：危险不在暴力，在没有实体。
 
-> **原句 8:** "Cazador’s proscription was clear: Thou shalt not drink the blood of intelligent beings. Astarion’s victims belonged to the master vampire alone."
+> **原句 7:** "Cazador’s proscription was clear: Thou shalt not drink the blood of intelligent beings. Astarion’s victims belonged to the master vampire alone."
 
 - **中文理解**：Cazador 的禁令写得很清楚：不可饮用智慧生物之血。Astarion 的猎物只属于那位吸血鬼领主一个人。
 - **关键词**：proscription / Thou shalt not / the blood of intelligent beings / belonged to the master vampire alone
 - **为什么这样写**：第二人称单数祈使句（Thou shalt not）在一段全是第三人称白描的叙述里突然响起，像有人在旁边念律法。最后半句用 belonged 收尾，all 一词把所有权划死——禁令不是道德，是产权。
 - **读者视角提示**：这段禁令和后面「我绝不能当第一个暴露的人」是同一条锁链的两端：他不害人，不是因为善良，是因为猎物的产权不属于他。
 
-> **原句 9:** "“The price,” the vampire said gently, “is immortality.”"
+> **原句 8:** "“The price,” the vampire said gently, “is immortality.”"
 
 - **中文理解**：「代价，」吸血鬼温和地说，「是永生。」
 - **关键词**：the vampire said gently / the price / is immortality
-- **为什么这样写**：全节唯一一次把吸血鬼的声音写成 gentle，而这个副词恰恰是他最危险的地方：他在最紧要的场合保持最柔和的语气。台词前有一个已完成的动作（he whispered, '…price…?'），两个引号一前一后夹住，读者在两次开口之间先读到「他讨价还价」这件事，再听到价码。
-- **读者视角提示**：这句话的时态是全文的时间机器：is 不是 was，也不是 will be——他说的是一个不需要时间限定的条件。
+- **为什么这样写**：全章唯一一次把吸血鬼的声音写成 gentle，而这个副词恰恰是他最危险的地方：他在最紧要的场合保持最柔和的语气。台词前有一个已完成的动作（he whispered, '…price…?'），两个引号一前一后夹住，读者在两次开口之间先读到「他讨价还价」这件事，再听到价码。
+- **读者视角提示**：这句话的时态是全书的时间机器：is 不是 was，也不是 will be——他说的是一个不需要时间限定的条件。
 
 ## 本章词汇
 

@@ -52,28 +52,21 @@ modified: "2026-10-02"
 - **为什么这样写**：城市第一次在文本里被具体点名，可作者没给一幅全景，只给了三样：亮的大理石、暗的巷子、拍桩的浪。三样都来自 Bajia 的嘴，不来自 Astarion 的眼——他此刻还只能靠别人的描述去搭。末句的「丝绸」是 ch03 那条线的正式回归：他向往的从来不是城市，是城市里的人穿什么。
 - **读者视角提示**：记下 Neverwinter、Baldur’s Gate、Waterdeep 这三个名字。下一章那一夜他就站在其中一座城里。
 
-> **原句 6:** "He felt as if his tongue had suddenly learned to see in color. “This is amazing. This is the best thing I’ve ever eaten in my life.”"
-
-- **中文理解**：他觉得自己这条舌头好像忽然学会看颜色了。「这太棒了。这是我一辈子吃过最好吃的东西。」
-- **关键词**：his tongue had suddenly learned to see in color / This is amazing / the best thing I’ve ever eaten in my life
-- **为什么这样写**：「舌头学会看颜色」是本节最漂亮的一处通感：吃进嘴里的东西被换算成他最敏感的那根神经——颜色。作者顺势把他所有的赞美压进两句短得不能再短的台词里，重复两次「最好」，一次比一次短，像一个吃到说不出话的人。
-- **读者视角提示**：记住这顿饭。这是本节他第一次不靠想象、直接吃到的东西。
-
-> **原句 7:** "It was an old refrain, and Astarion knew his part well. “I know he does.” Which was…oh, not a lie, exactly. His father did love him, with the baffled but determined love of a bird for a cuckoo’s egg. He loved Astarion, not because he thought Astarion was lovable, but because loving your children was what you did, and it would have tarnished his image of himself not to love his son."
+> **原句 6:** "It was an old refrain, and Astarion knew his part well. “I know he does.” Which was…oh, not a lie, exactly. His father did love him, with the baffled but determined love of a bird for a cuckoo’s egg. He loved Astarion, not because he thought Astarion was lovable, but because loving your children was what you did, and it would have tarnished his image of himself not to love his son."
 
 - **中文理解**：这是句老话，他台词早就背熟了。「我知道他爱我。」——严格说也不算撒谎。他父亲确实爱他，用的是一只鸟对着一枚杜鹃蛋那种又糊涂又执着的爱。他爱 Astarion，不是因为觉得这个儿子可爱，而是因为爱自己的儿子本就是该做的事，不爱反倒会弄脏他对自己的看法。
 - **关键词**：an old refrain / the baffled but determined love of a bird for a cuckoo’s egg / it would have tarnished his image of himself not to love his son
 - **为什么这样写**：这一块把「父母之爱」从抒情改成了一条逻辑：不爱会脏掉自我形象。于是父亲的爱第一次在他眼里不是庇护，是父亲的自我维护。作者用「杜鹃蛋」这个不合常理的比喻把它钉住——一只鸟凭什么知道蛋里装的是什么。
 - **读者视角提示**：记住这个比喻。本节之后他再提起家人，算的都是这笔账，不谈感情。
 
-> **原句 8:** "Astarion considered this at great length. His surname had always been Ra’tchashar, the same as his father, which meant vine-keeper in some obscure Elvish dialect. Children at school occasionally called him “Rat Catcher,” but usually not for very long. He did not fight—was quick as a weasel at wriggling out of them, in fact—but he had an amazing natural gift for picking pockets. Where respect might have failed, bullies quickly learned that if they would like to keep their coppers, their chalk, and their homework, it was better not to get on Astarion’s bad side."
+> **原句 7:** "Astarion considered this at great length. His surname had always been Ra’tchashar, the same as his father, which meant vine-keeper in some obscure Elvish dialect. Children at school occasionally called him “Rat Catcher,” but usually not for very long. He did not fight—was quick as a weasel at wriggling out of them, in fact—but he had an amazing natural gift for picking pockets. Where respect might have failed, bullies quickly learned that if they would like to keep their coppers, their chalk, and their homework, it was better not to get on Astarion’s bad side."
 
 - **中文理解**：这个他想了很久。他姓 Ra’tchashar，跟父亲一样，意思是某种冷僻精灵方言里的「看葡萄园的人」。学校里的小孩偶尔叫他「捕鼠人」，不过通常叫不了多久——他不还手（真要滑起手来他快得像条鼬鼠），但他天生极会扒口袋。哪次要是有人想动他的东西，欺负人的那伙人很快就明白：想保住自己的铜板、粉笔和作业本，最好别惹 Astarion 生气。
 - **关键词**：considered this at great length / vine-keeper in some obscure Elvish dialect / better not to get on Astarion’s bad side
 - **为什么这样写**：作者把两件事并排放：他不打架，但他会偷。这是一个十二岁孩子的完整生存算法，而算法里没有「尊严」这一项——他只算收益和成本。名字那段也不是闲笔：姓氏是父亲给的，他随即在心里挑了一个更好的。
 - **读者视角提示**：紧跟着的那一句才是关键：比起「捕鼠人」，他更喜欢另一个。
 
-> **原句 9:** "It came to him that he could be happy traveling like this forever, hearing stories of cities and eating food with exotic spices and sleeping on soft sheets—and never, ever going home again."
+> **原句 8:** "It came to him that he could be happy traveling like this forever, hearing stories of cities and eating food with exotic spices and sleeping on soft sheets—and never, ever going home again."
 
 - **中文理解**：他忽然想到：他能就这样永远走下去——一直听人讲城市，一直吃带异域香料的饭，一直睡在软床单上——而且永远、永远不回家。
 - **关键词**：sleeping on soft sheets / eating food with exotic spices / never, ever going home again

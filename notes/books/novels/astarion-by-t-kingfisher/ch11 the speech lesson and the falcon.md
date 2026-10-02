@@ -66,14 +66,7 @@ modified: "2026-10-02"
 - **为什么这样写**：两个问句都不用引号，却各有主语（一个是他想要的生活，一个是他原来的生活）——这是他在心里开的会。而 nurse 和 pick at 两个词都在写同一件事：反复触碰伤口。这两个动词选得极准（此处指让伤保持开放而非让它结痂），他后来的大半辈子，（此处指他留在那座宫殿里直到二百年的那段日子）就是这两句的后半段。
 - **读者视角提示**：他答的是第二个问题。所以本节最后他拒绝了母亲——不是因为他不想家，是因为他回答的是别的问题。
 
-> **原句 8:** "“My mother,” Astarion said. “Um…she’s a druid?” And as the man continued to stare at him: “She would turn into a bear sometimes? And a draft horse that time when we had to clear the south field?”"
-
-- **中文理解**：「我母亲，」Astarion 说。「呃……她是德鲁伊？」（此处指他母亲能变成熊）还有一次，为了清理南边那块地，她变成了一匹挽马。」马厩主管一直盯着他看。
-- **关键词**：she’s a druid? / She would turn into a bear sometimes? / a draft horse that time when we had to clear the south field
-- **为什么这样写**：作者让一个孩子用最平淡的语气说出最不合理的话，而所有的荒诞都由旁人的表情承担。他把母亲的两个形态按时间顺序并排摆出，像在报菜名；而那个 Um… 是全节唯一一处他显出心虚的地方。两个问号（此处指他把陈述说成疑问）让这段既像辩解又像炫耀。
-- **读者视角提示**：他说出这句话时还不明白其中的意思；等他成年后再回看，会发现这是他最后一次用母亲当挡箭牌。
-
-> **原句 9:** "He expected her to weep or to rail at him, but she surprised him. She drew herself up, and for a moment he could see the family resemblance to the lady of the manor. “Very well,” she said. “My house is always open to you, my son. I love you, however far away your wings take you. Go well.”"
+> **原句 8:** "He expected her to weep or to rail at him, but she surprised him. She drew herself up, and for a moment he could see the family resemblance to the lady of the manor. “Very well,” she said. “My house is always open to you, my son. I love you, however far away your wings take you. Go well.”"
 
 - **中文理解**：他以为她会哭，或者会冲他发作，但她让他意外。她挺直了身子，有那么一瞬间他看见了那个家族里的相似（此处指她与庄园女主人长得像的那张脸）。「好吧，」她说，「我的家永远为你敞开，我的儿子。我爱你，无论你的翅膀带你飞多远。一路顺风。」
 - **关键词**：He expected her to weep or to rail at him / the family resemblance to the lady of the manor / I love you, however far away your wings take you

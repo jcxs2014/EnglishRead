@@ -59,21 +59,14 @@ modified: "2026-10-02"
 - **为什么这样写**：全节最短的一句问话，前面却铺了那么多颜色和触感。它把「喜欢」翻译成一个能问出口的请求——先把模糊的喜爱变成一个具体问题，人生方向才由此生成。please 和 sir 连着用，让一个七岁孩子说话像个小绅士，阶层感在开口第一句就立住了。
 - **读者视角提示**：这是全书的转折点：往前他只是喜欢东西，往后他开始要拥有它。
 
-> **原句 7:** "It’s silk, my young friend. Comes from the South.”"
-
-- **中文理解**：「这是丝绸，我的小朋友。从南边来的。」
-- **关键词**：It’s silk, my young friend / Comes from the South
-- **为什么这样写**：第一个从别人嘴里说出的丝绸这个词自带地理坐标：材质和来处两个信息挤在同一句里，逗号后那半句几乎像随口补记。作者让一个路过的市民回答小孩，顺手把主角的目标从「想要这块料子」推进成「去它来的地方」。
-- **读者视角提示**：留意「南边」这个词——先是这匹绸子的来处，接着就成了他此后一生的方向。
-
-> **原句 8:** "Astarion didn’t even protest because his mind and his fingertips were full of the memory of silk, silk, silk."
+> **原句 7:** "Astarion didn’t even protest because his mind and his fingertips were full of the memory of silk, silk, silk."
 
 - **中文理解**：他连一句辩解都没有——脑子里和指尖里塞满的全是绸子的记忆：绸子，绸子，绸子。
 - **关键词**：didn’t even protest / his mind and his fingertips / silk, silk, silk
 - **为什么这样写**：三连的丝绸是本节最响的一记鼓点：从第二个开始，它就不再是新信息，而是身体自己在复述。作者把「没辩解」和「指尖还记着」并排放，说明那一刻占住他的不是道理，是触觉。
 - **读者视角提示**：ch04 他形容同一种安静时分两种质地：天鹅绒与丝绸。孩子这一刻的触觉记忆，到那里已经长成了成年的词。
 
-> **原句 9:** "Astarion’s entire goal in life was to get the hell out of the Silver Marches, get as far from nature as possible, and go south to a city full of colored silk."
+> **原句 8:** "Astarion’s entire goal in life was to get the hell out of the Silver Marches, get as far from nature as possible, and go south to a city full of colored silk."
 
 - **中文理解**：他们第二天就回了葡萄园，但从那一刻起，他毕生的目标就是死命离开 Silver Marches，离自然越远越好，往南，去那座满是彩绸的城市。
 - **关键词**：get the hell out of the Silver Marches / as far from nature as possible / go south to a city full of colored silk

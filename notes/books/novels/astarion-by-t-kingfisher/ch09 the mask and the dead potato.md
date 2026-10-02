@@ -45,35 +45,28 @@ modified: "2026-10-02"
 - **为什么这样写**：用空间换人：撤退的是 flesh，不是心。这个类比把「面无表情」翻译成一个战术动作，于是整段的推测都落在同一个动词上。而 it was an act 这个判断他其实没有证据，照旧相信了它——这是他读别人的一贯方式。
 - **读者视角提示**：他在这里分析她，其实也在描述自己：他同样把身体交出去，只把判断力留着。
 
-> **原句 5:** "It was terrible to be a sadist’s plaything. It was infinitely worse to be their only plaything."
-
-- **中文理解**：做一名虐主的玩物已经够糟。独自做他一个人的玩物，则糟到没有边际。
-- **关键词**：a sadist’s plaything / infinitely worse / their only plaything
-- **为什么这样写**：两句同构，第二句只换一个词（a → their）和一个程度词（terrible → infinitely worse），就把个人处境推到群体处境。a 换成 their 是全句的机关：不是主人变可怕了，是他一个人把所有人的份都占了。
-- **读者视角提示**：紧挨着这段之前，作者刚写完 Violet 被 Yousen 帮过一场——Violet 之所以还能被当成玩具，正是因为她旁边还站着别人。
-
-> **原句 6:** "Unlike the unfortunate ecru wizard, this one looked the part. He was lean and ascetic, head shaven, fingers folded inside his sleeves. His eyes were dark and flat as river stones. The candles on the table woke no reflection in them. If Astarion had encountered him on the street, he would have suddenly remembered a pressing errand on the other side of the city."
+> **原句 5:** "Unlike the unfortunate ecru wizard, this one looked the part. He was lean and ascetic, head shaven, fingers folded inside his sleeves. His eyes were dark and flat as river stones. The candles on the table woke no reflection in them. If Astarion had encountered him on the street, he would have suddenly remembered a pressing errand on the other side of the city."
 
 - **中文理解**：和那位倒霉的 ecru 法师不同，这一位像是足了本：他精瘦、头剃得光光，手指交叠收在袖子里。眼睛是暗的、平的，像河底的卵石；桌上的烛火照不进去。若是在街上碰上他，Astarion 会忽然想起一件急事，急着去城的另一头办。
 - **关键词**：lean and ascetic, head shaven, fingers folded inside his sleeves / His eyes were dark and flat as river stones / would have suddenly remembered a pressing errand
 - **为什么这样写**：这一段不写怪物，只写一个「不像怪物」的样子：瘦、光头、手收在袖里，全是苦修者的标准配置。作者让主角用一个反向判断来定危险——在街上遇到就会忽然想起一件急事。上一句说眼睛里点不出一支蜡烛的火光，下一句就说这个人会让人临时找借口逃走，两句合起来是最省字的恐惧。
 - **读者视角提示**：他在走廊拐角再遇到这位客人时，只用了一句 So young 就把自己摆到了长辈位置上。
 
-> **原句 7:** "Very well. It was just as it always was. Avoid pain and feel as little as possible. It was astonishing the things you would do of your own free will simply to avoid being forced to do them."
+> **原句 6:** "Very well. It was just as it always was. Avoid pain and feel as little as possible. It was astonishing the things you would do of your own free will simply to avoid being forced to do them."
 
 - **中文理解**：好吧。照旧。躲开疼，尽量少感觉。他随后自己补了一句：最惊人的是，你为了不被逼着做某件事，竟然会心甘情愿地去做它。
 - **关键词**：Avoid pain and feel as little as possible / the things you would do of your own free will / simply to avoid being forced to do them
 - **为什么这样写**：这一段的主语被作者抽走了：三个动词短语没有施动者、没有解释，像一套早就在身上的操作程序。而最后那句的 astonishing 是从整体陈述里冒出来的：真正恐怖的不是他被逼，而是他自愿。simply 一词把所有余地堵死——自愿并不比被迫干净。
 - **读者视角提示**：同一个下午，他就会用这套自愿的逻辑去做完全不同的事：替 Dalyria 偷那瓶血。
 
-> **原句 8:** "He set his elbows on the table, watching the reflection of the white fox mask as the wizard thrusted and grunted behind him. The mask’s eyes were cool and aloof, and behind them was nothing, nothing at all."
+> **原句 7:** "He set his elbows on the table, watching the reflection of the white fox mask as the wizard thrusted and grunted behind him. The mask’s eyes were cool and aloof, and behind them was nothing, nothing at all."
 
 - **中文理解**：杯盘不是银的，但都擦得能照出人。他把手肘撑在桌上，看着白狐面具在盘面上的倒影，以及身后那位客人耸动着的背影。面具的眼睛又凉又疏离，而眼睛后面什么也没有，什么也没有。
 - **关键词**：the reflection of the white fox mask / The mask’s eyes were cool and aloof / behind them was nothing, nothing at all
 - **为什么这样写**：作者让他从器皿的倒影里看自己，而不是从镜子里——因为吸血鬼照不了镜子，这面抛光的盘子就是他此刻唯一能用的镜子。破折号后的一顿是全句的机关：先说面具在物理上很凉，再让它在心理上很空。而 nothing, nothing at all 用重复把「空」钉了两遍。
 - **读者视角提示**：这场戏里他没有笑过一次：所有应付都发生在这张面具后面。
 
-> **原句 9:** "Regardless of his origin, Rooftop Henry fell somewhere between an extremely clever parrot and an extremely dim person. His memory for most things wasn’t good, though he knew down to the minute when the local inns put their trash out. On a good night, he was willing to act as sentry in return for a bite to eat. He was, in fact, a member in good standing of the Thieves’ Guild, though it was rumored that the treasurer covered his dues herself after he had attempted to pay in regurgitated herring."
+> **原句 8:** "Regardless of his origin, Rooftop Henry fell somewhere between an extremely clever parrot and an extremely dim person. His memory for most things wasn’t good, though he knew down to the minute when the local inns put their trash out. On a good night, he was willing to act as sentry in return for a bite to eat. He was, in fact, a member in good standing of the Thieves’ Guild, though it was rumored that the treasurer covered his dues herself after he had attempted to pay in regurgitated herring."
 
 - **中文理解**：不管他是什么来头，Rooftop Henry 都落在一种极聪明的鹦鹉和一个极笨的人之间。他记性对大多数事都不好，却能精确到分钟说出附近客栈几点倒垃圾。运气好的夜里，他愿意拿一口吃的当报酬去放哨。说到钱，他也算交足会费的盗贼工会正式会员——不过有传言说，他曾想用吐出来的小鱼干付账，会费是管事替他垫的。
 - **关键词**：between an extremely clever parrot and an extremely dim person / he was willing to act as sentry in return for a bite to eat / a member in good standing of the Thieves’ Guild
