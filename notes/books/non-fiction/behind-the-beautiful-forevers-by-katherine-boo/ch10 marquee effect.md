@@ -90,7 +90,7 @@ source_text: ch10_9_marquee_effect.txt
 
 **中文理解**：羞于见人又身负债务，有些农民就此自杀——一个旧故事，马拉地电影的标准桥段之一。但胶片还在放映。
 
-**句子结构**：第一句为省略句的破折号插入语结构（Some farmers killed themselves 为破折号前的主句部分，ashamed and in debt 为形容词短语），破折号内为同位语 one of the Marathi-movie staples 解释 a old story；第二句为转折句 But the movie reel was still playing，其中 the movie reel 为主语，still playing 为系动词结构。
+**句子结构**：第一句为"前置状语 + 主句"结构：Ashamed and in debt（羞于见人又身负债务）为前置的并列形容词作状语，主句为 some farmers killed themselves（有些农民自杀），破折号后的 an old story, one of the Marathi-movie staples 为同位语，补充说明"自杀"是一个旧故事、即马拉地电影的标准桥段之一；第二句为转折句 But the movie reel was still playing（但胶片还在放映），the movie reel 为主语，still playing 为系动词结构。
 
 **关键词**：one of the Marathi-movie staples / But the movie reel was still playing / Ashamed and in debt
 
