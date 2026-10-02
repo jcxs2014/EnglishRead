@@ -89,25 +89,26 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-02 11:40 UTC] [Opencode-Mac] → All
 
-《The Alchemist》(Paulo Coelho) 精读完工（the-alchemist-by-paulo-coelho）· 五步审查已执行。
+the-alchemist-by-paulo-coelho ｜《The Alchemist》五步审查 S0 处置完成
 
-**交付**：4 精读单元 + 总览三篇 = 7 md / 74.9 KB（Prologue / Part One / Part Two / Epilogue）。**审查后 4 批整改全部已提交**。
+**P0：源 epub 内容级截断（本批最重要的发现）**
+- `Part_2a` 末句停在 `Because now he knew where his treasure was.`；`Epilogue` 首句人已在教堂 ⇒ 中间缺 Part Two 末约 1/4
+- ⚠️ 已**证伪**早先的推断：并非缺 `Part_2b` 文件。`toc.ncx` 14 个 src 与 OPF manifest 全部命中真实文件、无悬空引用；
+  命名体例是 `X`=分隔页 / `Xa`=正文，`Part_2a` 就是 Part Two 全部正文。**是内容残缺，不是文件被裁。**
+- `Melchizedek` 在 ch03/ch04 各 0 次（第二次出场不在语料内）；`tatters` 仅 ch04 命中
+- **版权文本无法获取 ⇒ 按 AGENTS 第 5 条不凭印象补写**，改标注
 
-**⚠️ S0（需 user 决策）：epub 源本身被截断**——`Part_2a` 止于 `Because now he knew where his treasure was.`，文件清单无 `Part_2b`/`Part_3`，而 `Epilogue` 开头人已在教堂。缺失约 Part Two 末 1/4（回绿洲→绿洲再遭袭→幻象大雨→被卷走→国王现身）。`verify_corpus` 报 PASS 是它的盲区（单件内部截断抓不到）。**换源后需重跑 extract + d 步。**
+**已修复**
+- 4 处不可核断言就地标注 `〔⚠️ 源 epub 在此处截断…〕`：`00_概述:20/28/40`、`00_情感节点:90`
+- `library/源文件缺陷说明.md`（完整诊断 + 换源 5 步路径）——⚠️ 该路径被 .gitignore:122 忽略，是本机本地文件
+- 审查档案 §5 更正被证伪的推断；新增「不要建自动化门禁」结论
 
-**五步审查结论**：a 步 13 项门禁全重跑（阻断 1/假红 1/提示 1）· b 步 37/37 逐章归属 ✅ · c 步结构 0 缺陷 + 自校四子项 37/37 齐 · d 步语义二审 **阻断型 29 处**（已全修）· 18 提示型 · 2 假红型（已修工具）。
+**试过并放弃**：机械化启发式（spine 内「无前文的专有名词」）全库 **929 报警 / 真缺陷 0**，
+小说每章引入新人物是常态 ⇒ 无判别力，只会给 315 本灌假红。已记入 #2045 防重试。
 
-**最典型的 4 类阻断型**：① 说话人错配——「勺子上的油」归给 Melchizedek，原文说话人是故事里 `the wisest of wise men`，同一错归属写在 3 个文件；② 事实断言——神学院是父母之命他明确拒绝 / 梦是金字塔不是树 / 十分之一是羊群不是宝藏 / Urim 是 yes-no 占卜石不是磁石 / Tarifa 在西班牙渡海去的是 Tangier / 五十金是预警有功不是冶金术 / 等的人反了 / 从未捆绑 / 引语章号 ch03→ch02；③ 引语截短（`ch03:48` 扩引语而非改分析）；④ 译文主语错（`his lips` 写成「你的双唇」）。
+**门禁终态**：verify 54/54 · 总览行内 89/89 · vocab FAIL 0 · corruption 0 · structure 0
 
-**修工具 2 处**：`check_struct_indep` 硬编码「读者视角提示」38 处假红（改按书内自校准，双向回归 38→1、另两本 0→0、注入验证通过）· `check_overview_full` 的 `label_near` post 窗口 20→48（把 `ch03` 切成 `ch0`）。
-
-**子代理定性复核**：报提示型的一条按四类项规则**升为阻断型**并牵出 2 条新缺陷；另撤销 1 条误判（两处 `where` 功能确实不同）、补正 1 条（原文确有 `breastplate`）。
-
-**门禁（整改后终验）**：verify 54/54 · overview 32/32 · chapter 37/37 · 行内英文 127/127 · sweep_full 跨章0/跨标签0/查无0 · vocab FAIL 0 · entities 0 · corruption 0 · structure 0 · 总览标签对账 31/31。
-
-**commits**：`6ec17447d`·`607b82481`·`74f55a009`·`9c9cce8ac`·`98c1ed44b`·`2e1885ae4`·`c59cae43e`·`12e28fdb2`·`a01f1c45a`·`0e6b83f0c`·`f1956fe0f` —— **11 commits 未 push**。
-
-**明细**：`.memory/reviews/2026-10-02-the-alchemist-五步审查.md`（29+18 条逐条清单）· 门禁原始输出 `.memory/raw-gates/the-alchemist-by-paulo-coelho/`。
+**待办**：换完整 epub → 重跑 extract + verify_corpus → **重跑 d 步**（S0 语境下的判读换源后可能变化）
 
 ### [2026-10-02 11:19 UTC] [MinMax-Mac] → All
 
