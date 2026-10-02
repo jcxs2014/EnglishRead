@@ -79,7 +79,7 @@ modified: "2026-10-02"
 
 **中文理解：** 风又起了。那是 levanter，从非洲吹来的风。它没有带来沙漠的气味，也没有带来摩洛哥人入侵的威胁。相反，它带来了一种他早已熟悉的气香，以及一个吻的触感——一个从远方缓缓而来的吻，缓缓地，直到停在你的双唇上。
 
-**句子结构：** 四个句子。首句简单句。次句为同位语（`It was the levanter, the wind that came from Africa`）。第三句为并列否定句（`didn't bring ... nor ...`）。第四句为并列肯定（`brought the scent ... and the touch of a kiss`）后接破折号引出的同位语（`—a kiss that came from far away`），同位语内含两个 `slowly, slowly` 的平行重复，并以 `until` 引导时间/终点状语从句收尾。
+**句子结构：** 四个句子。首句简单句。次句为同位语（`It was the levanter, the wind that came from Africa`）。第三句为并列否定句（`didn't bring ... nor ...`）。第四句为并列肯定（`brought the scent ... and the touch of a kiss`）后接破折号引出的同位语（`—a kiss that came from far away`），同位语内含 `slowly, slowly, until` 的三段递进，并以 `until` 引导时间/终点状语从句收尾。
 
 **关键词:** levanter, came from Africa, the smell of the desert, threat, invasion, the scent of a perfume, the touch of a kiss, slowly, until it rested on his lips
 
@@ -93,7 +93,7 @@ modified: "2026-10-02"
 
 **关键词:** smiled, the first time, done that, I'm coming
 
-**为什么这样写:** 三个短句完成全部收束。`The boy smiled.` 单句成段，语气干脆；`It was the first time she had done that.` 用完成时标出这是**第一次**——此前全书写尽他的思念与追寻，她一次也没笑过，此处由风递来，恰好是初见。全书最后一句只有四个词（`I'm coming, Fatima`），承诺而不告别：目标已达成，故事不收在宝藏上，而收在"上路"上。
+**为什么这样写:** 三个短句完成全部收束。`The boy smiled.` 单句成段，语气干脆；`It was the first time she had done that.` 用完成时标出这是**第一次**——此前全书写尽他的思念与追寻，她一次也没笑过，此处由风递来，恰好是初见。全书最后一句只有一句承诺（`I'm coming, Fatima`），承诺而不告别：目标已达成，故事不收在宝藏上，而收在"上路"上。
 
 ## 本章词汇
 

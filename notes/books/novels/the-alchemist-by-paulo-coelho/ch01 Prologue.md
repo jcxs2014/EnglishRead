@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解：** 他如此迷恋自己，以至于某天早晨他坠入湖中溺亡。
 
-**句子结构：** so...that... 结果状语从句。"He was so fascinated by himself" 是主系表，"that he fell into the lake and drowned" 是结果状语从句，"one morning" 是时间状语插入其中。
+**句子结构：** so...that... 结果状语从句。"He was so fascinated by himself" 是主系表，"that, one morning, he fell into the lake and drowned" 是结果状语从句（时间状语 `one morning` 被挤在 that 与主语之间，插入而不打断）。
 
 **关键词：** fascinated, drowned
 
