@@ -155,6 +155,13 @@ source_text: ch14_13_something_shining.txt
 | exhilarating | 令人兴奋的（此处指四层楼顶的视野） | what made it exhilarating was the vista of open space, a rarity in the city |
 | barbed wire | 铁丝网（此处指塔杰餐饮围墙顶部的防御） | Behind high stone walls topped with rows of barbed wire, meals to be served on flights got made. |
 
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| barbed wire | 铁丝网（此处指塔杰餐饮围墙顶部的防御） | Behind high stone walls topped with rows of barbed wire, meals to be served on flights got made. |
+| exhilarating | 令人兴奋的（此处指四层楼顶的视野） | what made it exhilarating was the vista of open space, a rarity in the city |
+
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
