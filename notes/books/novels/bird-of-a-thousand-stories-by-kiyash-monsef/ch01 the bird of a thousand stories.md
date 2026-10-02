@@ -41,7 +41,7 @@ modified: "2026-10-02"
 > **原句 4:** "Neither girl had any memory of their true families, nor had they ever dreamed of being reunited with them."
 
 - **中文理解**：两个女孩对亲生家人毫无记忆，也从没梦想过与她们重逢。
-- **关键词**：had any memory of / nor had they ever dreamed / been reunited with them
+- **关键词**：had any memory of / nor had they ever dreamed / being reunited with them
 - **为什么这样写**：这句紧跟在麻雀许诺的 `it will reunite you with your families` 后面，用一个 `Neither` 把承诺打回原形：她们连想都没想过这件事。`nor had they ever dreamed` 用过去完成时写一个从未发生过的动作，时态本身就说明了这件事不在她们的过去里——不是忘了，是从来没有过。麻雀的许诺是真的，只是落在一块空地上。
 - **读者视角提示**：注意这句里的 `them` 指 `their true families` 而不是别人；作者宁可重复家人这个词，也不用任何代词把两个女孩和她们从未见过的亲人隔开。
 
