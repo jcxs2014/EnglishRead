@@ -25,7 +25,7 @@ modified: "2026-10-02"
 
 ② "As Geraldine fell silent, Paul realized that he should not have said that his parents had no money. Geraldine would worry about this, and it was not even true. She was almost twelve years old now, and he had resolved a while ago never to tell her anything that wasn’t true."
 
-- 中文理解：杰拉尔丁一沉默，保罗立刻意识到自己说错话了——他说父母没钱，而这件事连他自己都觉得不对。这里第一次露出他的处世原则：只说不 untrue 的事。但他刚刚违反了自己的原则，这段自述因此变成对自身的指控。
+- 中文理解：杰拉尔丁一沉默，保罗立刻意识到自己说错话了——他说父母没钱，而这件事连他自己都觉得不对。这里第一次露出他的处世原则：只说真话。但他刚刚违反了自己的原则，这段自述因此变成对自身的指控。
 - 句子结构：As 引导的时间状语从句 + 主句（Paul realized that...）+ that 宾语从句用 it was not even true 收尾，把「他刚说的不是真的」这件事压进一个平叙句里。末句用 and 把"她快十二岁"这个新信息接在"他早已立下规矩"后面。
 - 关键词：resolved——"早就下定决心"；这个词把一个临时决定写成了长期原则。
 - 表达方式：先写心理活动，再写自我评价，最后用年龄这一客观事实压上一句，让原则显得像是被迫制定的。
