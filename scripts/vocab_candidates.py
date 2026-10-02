@@ -107,7 +107,7 @@ def chapter_text(book_dir, ch):
     for width in (3, 2, 1):
         tag = str(ch).zfill(width)
         cands = [f for f in sorted(os.listdir(tdir))
-                 if re.match(r'^ch%s[_.]' % tag, f) or re.match(r'^ch%s$' % tag, f[:-4])]
+                 if re.match(r'^ch%s[_. ]' % tag, f) or re.match(r'^ch%s$' % tag, f[:-4])]
         if cands:
             break
     else:
