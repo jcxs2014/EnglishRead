@@ -17,7 +17,7 @@ modified: "2026-10-02"
 
 > **原句 1:** "There is a reason we do not all wander freely among humans ourselves. Only those of us who are carefully trained are allowed to do so. You may think that one exception can hardly pose any danger, but I assure you, you would be wrong. And how long will it be before some juvenile with human treaty status, running loose the way human juveniles do, breaks the treaty all on their own, by attacking some Rrrrrr or Geck, or even a machine? I sincerely give the juvenile Reet all my admiration, I assure you there is not another juvenile of ours who would have restrained themself so well for so long. Qven here—” Translator Dlar pointed. A very, very rude gesture among Radchaai, Reet knew. “Qven ate or vivisected countless other juveniles.” Beside Reet, Qven frowned and looked up into some distance. “One,” e whispered. “Two, three, four…”"
 
-**中文理解：** 「我们自己在人类中间并不是都能自由来去的，这是有原因的。我们自己并不都在人类中间自由来去，是有原因的。只有那些受过仔细训练的人才被允许这么做。你们也许以为一个例外 hardly 造得出什么危险，但我向你们保证，你们会错。要过多久才有一个像人类幼体那样乱跑的、具有人类条约地位的幼体，自己就把条约毁掉——袭击某个 Rrrrrr 或 Geck，甚至是某台机器？我由衷地赞赏幼体 Reet，我向你保证，没有别的同类幼体能把他们自己克制这么久、做得这么好。Qven 在那儿——」Translator Dlar 指过去。Reet 知道，在 Radchaai 当中这是很不礼貌的手势。「Qven 吃掉或者活体解剖过无数别的幼体。」Qven 在他旁边皱起眉，望向某个远处。「一，」e 低声说，「二，三，四……」
+**中文理解：** 「我们自己在人类中间并不是都能自由来去的，这是有原因的。只有那些受过仔细训练的人才被允许这么做。你们也许以为一个例外造不出什么危险，但我向你们保证，你们会错。要过多久才有一个像人类幼体那样乱跑的、具有人类条约地位的幼体，自己就把条约毁掉——袭击某个 Rrrrrr 或 Geck，甚至是某台机器？我由衷地赞赏幼体 Reet，我向你保证，没有别的同类幼体能把他们自己克制这么久、做得这么好。Qven 在那儿——」Translator Dlar 指过去。Reet 知道，在 Radchaai 当中这是很不礼貌的手势。「Qven 吃掉或者活体解剖过无数别的幼体。」Qven 在他旁边皱起眉，望向某个远处。「一，」e 低声说，「二，三，四……」
 
 **关键词：** There is a reason we do not all wander freely among humans ourselves / A very, very rude gesture among Radchaai / Qven ate or vivisected countless other juveniles / Two, three, four
 

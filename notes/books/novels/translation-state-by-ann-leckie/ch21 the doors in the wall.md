@@ -7,7 +7,7 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：Qven 练出能感觉到墙上有门的能力，随后由 Teacher 带去看 Tzam 融化致死；第二天 Reet 被带进来作她的匹配对象，她一边照脚本说话，一边听 Reet 说明自己用哪个代词。
+- **一句话概括**：Qven 练出能感觉到墙上有门的能力，随后由 Teacher 带 ta 去看 Tzam 融化致死；第二天 Reet 被带进来作 ta 的匹配对象，她一边照脚本说话，一边听 Reet 说明自己用哪个代词。
 - **情感弧线位置**：承接上一章的交底，本章从「不知道会不会等到」推进到「自己开口说要看」，整段观摩落在情绪曲线的谷底，末尾转出一场笨拙但真实的初见。
 - **人物弧线**：Qven 从藏着能力的小心翼翼，变成第一次自己挑选项、又把结果咽下去的人；Reet 则在被安排的房间里靠一句「我是 he」争到了自己的样子。
 - **叙事手法**：第一人称限制视角贴附 Qven，等待期用重复与短句压时间，观摩与初见各成一场，感官描写集中在皮肤、黏液与声音上。
@@ -41,7 +41,7 @@ modified: "2026-10-02"
 
 **关键词：** an unpleasant, crawling feeling / the places in the walls that sometimes opened / I tasted it / I knew better than to try doing it myself
 
-**为什么这样写：** 两段递进写成一次升级：先是她能定位 Tzam 在哪（爬动感），再是能分辨墙里的门（与萝卜种子的同源类比），最后是能读出 Teacher 的动作（tasted）。每一步都紧跟一句自我封口，越强能力配越强的保密，令她的坦白读起来像一份藏起来的证词。
+**为什么这样写：** 两段递进写成一次升级：先是 ta 能定位 Tzam 在哪（爬动感），再是能分辨墙里的门（与萝卜种子的同源类比），最后是能读出 Teacher 的动作（tasted）。每一步都紧跟一句自我封口，越强能力配越强的保密，令她的坦白读起来像一份藏起来的证词。
 
 **读者视角提示：** 读者到这里会开始算：她已经能开门，只是不敢。她不知道的是，那道门后来会被别人替她推开。
 
@@ -53,7 +53,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 这一段把全章的道德困境写成一个算术题：留下来要付出的代价很小（不再看见一张脸），走过去要付出的代价未知（不知道会看见什么）。所以她的选择不是勇敢，是信息需求——她要的首先是 know。走廊、门、再多的门，全是同一句论证的重复排比。
 
-**读者视角提示：** 读者会在这里明白：她不是来看 Tzam 的，她来看的是墙上的门，而 Tzam 只是必须付出的入场费。
+**读者视角提示：** 读者会在这里明白：ta 不是来看 Tzam 的，ta 来看的是墙上的门，而 Tzam 只是必须付出的入场费。
 
 > **原句 5:** "Tzam was there. Crouched, naked, sweating. It looked as though their skin was melting off their body. The room looked small, but I could feel that it was vast, full of doors, and others behind those doors. Watching, I supposed, witnessing the example that Tzam was, at this moment. I didn’t know how that made me feel, the thought that others were here besides myself, seeing this. I felt something, certainly, something very strong, but I had no name for it, nothing to tell me what sort of feeling it was."
 
@@ -77,11 +77,11 @@ modified: "2026-10-02"
 
 > **原句 7:** "I took refuge in habit. “I am so very pleased to meet you, Reet,” I recited. They looked at me as though my words had been a question that was far too difficult for them to answer. Teacher only stood there, watching. I leaned forward and said, quietly, “There’s a schedule. And a script. But if you’re ill you can drink tea in bed.” And then, louder, gesturing at the table and its two chairs, “My goodness. I think we could do with some tea.” Reet stared blankly at me. “Now you say, Tea sounds lovely, and you sit in a chair.” “Tea sounds lovely,” Reet said, and sat. In the chair, like they should. I hadn’t been certain, considering the vacant stare and the distinct possibility that they’d had no education to speak of."
 
-**中文理解：** 我躲进习惯里。「见到你真高兴，Reet，」我背了出来。他们看我的眼神，好像我那句话是一道他们实在答不出的难题。Teacher 只是站着看。我探身过去，低声说：「有日程，也有脚本。不过你要是生病了，可以躺在床上喝茶。」然后更大声些，指着桌子和那两把椅子：「天哪，我想我们该来点茶了。」Reet 茫然地看着我。「现在你可以说：茶听起来不错，然后坐到椅子上。」「茶听起来不错，」Reet 说着坐下了。坐进椅子里，像他应该那样。我原先并不确定，因为我看那发呆的眼神，也很可能他根本没受过什么教育。
+**中文理解：** 我躲进习惯里。「见到你真高兴，Reet，」我背了出来。他们看我的眼神，好像我那句话是一道他们实在答不出的难题。Teacher 只是站着看。我探身过去，低声说：「有日程，也有脚本。不过你要是生病了，可以躺在床上喝茶。」然后更大声些，指着桌子和那两把椅子：「天哪，我想我们该来点茶了。」Reet 茫然地看着我。「现在你可以说：茶听起来不错，然后坐到椅子上。」「茶听起来不错，」Reet 说着坐下了。坐进椅子里，像 ta 应该那样。我原先并不确定，因为我看那发呆的眼神，也很可能他根本没受过什么教育。
 
 **关键词：** I took refuge in habit / I recited / There’s a schedule. And a script / I am so very pleased to meet you, Reet
 
-**为什么这样写：** 寒暄被写成一场提线木偶戏：她给台词，Teacher 在旁边看，Reet 是唯一没拿到剧本的人。「躲进习惯」四个字先把这段话的性质定了性——不是社交，是躲。而她给的那条后路（生病、躺床、喝茶）是这段里唯一一次她主动递出去的东西，用关心的形式包装成流程管理。
+**为什么这样写：** 寒暄被写成一场提线木偶戏：ta 给台词，Teacher 在旁边看，Reet 是唯一没拿到剧本的人。「躲进习惯」四个字先把这段话的性质定了性——不是社交，是躲。而她给的那条后路（生病、躺床、喝茶）是这段里唯一一次她主动递出去的东西，用关心的形式包装成流程管理。
 
 **读者视角提示：** 读者会读出她的双层：她把对方当成一段需要照料的流程，同时也在偷偷给这个人一个例外。
 
@@ -136,4 +136,4 @@ modified: "2026-10-02"
 
 ## 一句话总结
 
-Qven 靠感知墙上的门撑过等待期，Teacher 带她去看 Tzam 一点点融化掉；第二天 Reet 来了，两个都不擅长寒暄的人靠一杯茶和一句「我是 he」互相认了出来。
+Qven 靠感知墙上的门撑过等待期，Teacher 带 ta 去看 Tzam 一点点融化掉；第二天 Reet 来了，两个都不擅长寒暄的人靠一杯茶和一句「我是 he」互相认了出来。

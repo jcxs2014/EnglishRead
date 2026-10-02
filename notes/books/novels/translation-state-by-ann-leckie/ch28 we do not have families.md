@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 > **原句 2:** "“When I reached the Edges, I learned that I was destined to become a Translator, to work with humans. I studied human manners and human language. But I did not want to become a Translator. I did not want to…” The hunted look was back, just for a moment, and then it was gone. “I saw them in the garden, all melted into each other, and all the other Edges were standing around looking at them, so hungry and…” Beside em, Reet stood, put his arm around eir shoulders, and said something in eir ear that Enae couldn’t hear. Qven swallowed, and actually sniffled, but then went on. “I didn’t want that. I didn’t want to do that, I didn’t want to be that. I tried to run away. But I was injured.” Qven’s voice steadied, regained its strength."
 
-**中文理解：** 「我到 Edges 的时候，得知自己注定要成为 Translator、要去和人类打交道。我学了人类的礼仪和语言。可是我不想成为 Translator。我不想……」那种被追捕的神情回来了一瞬，随即消失。「我在花园里看见他们，全都融在一起，其他 Edges 全都站在旁边看着他们，又饿又……」身旁的 Reet 站起来，把手臂搭上对方的肩，在他耳边说了句 Enae 听不见的话。Qven 咽了一下，还抽了抽鼻子，然后继续。「我不想那样。我不想做那样，我不想变成那样。我试过逃跑。可我受伤了。」Qven 的声音稳住了，重新找回力气。
+**中文理解：** 「我到 Edges 的时候，得知自己注定要成为 Translator、要去和人类打交道。我学了人类的礼仪和语言。可是我不想成为 Translator。我不想……」那种被追捕的神情回来了一瞬，随即消失。「我在花园里看见他们，全都融在一起，其他 Edges 全都站在旁边看着他们，又饿又……」身旁的 Reet 站起来，把手臂搭上对方的肩，在 ta 耳边说了句 Enae 听不见的话。Qven 咽了一下，还抽了抽鼻子，然后继续。「我不想那样。我不想做那样，我不想变成那样。我试过逃跑。可我受伤了。」Qven 的声音稳住了，重新找回力气。
 
 **关键词：** destined to become a Translator / all melted into each other / so hungry and… / put his arm around eir shoulders
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 这段的重量全在一次未完成的句子（他们不……）和它后面的长时间犹豫上；Enae 替他把心里话说破（他可能会想说「他们并不完美」），他才接上。被委员会追问出来的证词在这里变成一段家常话，而那声「尤其是我奶奶」是全场唯一一句带偏爱的话，恰好被放在最不动声色的位置上。
 
-**读者视角提示：** 读者会在这里听见 Reet 第一次用「我们」指代家人，而 Enae 的视角提醒：他连说缺点都要先说别人的。
+**读者视角提示：** 读者会在这里听见 Reet 提到家人时用的始终是复数 they、没有一次用「我们」，而 Enae 的视角提醒：他连说缺点都要先说别人的。
 
 > **原句 6:** "“Presger Translators, as you call us, do not have families. We do not have parents. We have only the treaty. It is the reason for our existence.” “It’s not the reason for my existence,” Reet retorted. “My… what do you call them? My progenitor produced me and then abandoned me. But they left you, too, didn’t they? And they left me. And now I’m supposed to just… go away with you and do whatever you want and never see my family again?”"
 
@@ -77,7 +77,7 @@ modified: "2026-10-02"
 
 > **原句 7:** "Let me speak frankly: the admission of AIs to the treaty is a direct threat to Radchaai power—a power which the Usurper holds to with increasing desperation as she fights against herself. If the Usurper loses her hold over even a fraction of the ships and stations in her territory that possess AI, if her territory dissolves into provinces and systems at war with each other or turned inward to their own concerns, what does she have left? Only the secrecy surrounding the Presger and their Translators. Only the threat of what might happen if we do not follow her advice, her instructions, her policy. And no doubt Translator Dlar’s power and status among their own people depend on this same state of affairs.”"
 
-**中文理解：** 「「让我直说：让智能体加入条约，是对 Radchaai 权力的直接威胁——那位 Usurper 正带着越来越绝望的劲头抓住这份权力，因为她正在跟自己打起来。倘若她连自己领地内那些拥有智能体的飞船与空间站里的一小部分都抓不住，倘若她的领地分裂成彼此交战的省份与星系，或者各自缩回去只顾自己，她还剩什么？只剩下围绕 Presger 与他们的 Translators 的那层秘密。只剩下不照她的建议、她的指示、她的政策行事所招来的威胁。而毫无疑问，Translator Dlar 在她自己族人之中的权力与地位，也depend 同一套局面。」
+**中文理解：** 「「让我直说：让智能体加入条约，是对 Radchaai 权力的直接威胁——那位 Usurper 正带着越来越绝望的劲头抓住这份权力，因为她正在跟自己打起来。倘若她连自己领地内那些拥有智能体的飞船与空间站里的一小部分都抓不住，倘若她的领地分裂成彼此交战的省份与星系，或者各自缩回去只顾自己，她还剩什么？只剩下围绕 Presger 与他们的 Translators 的那层秘密。只剩下不照她的建议、她的指示、她的政策行事所招来的威胁。而毫无疑问，Translator Dlar 在自己族人之中的权力与地位，也依赖同一套局面。」
 
 **关键词：** the admission of AIs to the treaty is a direct threat to Radchaai power / the Usurper holds to with increasing desperation as she fights against herself / her territory dissolves into provinces and systems at war with each other / Only the secrecy surrounding the Presger
 

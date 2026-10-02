@@ -23,7 +23,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 比喻被拆成三层：先否掉「什么是什么」，再把相似摆成清单，最后才落到可执行的三种下场。作者让 Teacher 先抽象、再具体，于是结论像是从地里长出来的，而不是宣布的。
 
-**读者视角提示：** 读者要注意 Teacher 回答之前那个抿嘴：他既在掩饰反应，也在想怎么答。
+**读者视角提示：** 读者要注意 Teacher 回答之前那个抿嘴：ta 既在掩饰反应，也在想怎么答。
 
 > **原句 2:** "Then send a potato to match with this fugitive’s offspring,” I said before I could stop myself. “And I will dig a hole in a garden and sit there.” “You understand me better than you seem to"
 
@@ -33,7 +33,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 这句反击把比喻本身当成条款来用：既然三选一，那就把这个选项也写进去。它既好笑又准确，而 Teacher 的回应把它收成一句夸奖，然后立刻转入正题——这一次争辩没有换来任何改变。
 
-**读者视角提示：** 读者要记住「你不是看上去的那样」：这是全章里 Teacher 唯一一次承认她比看上去更清楚自己在做什么。
+**读者视角提示：** 读者要记住「你不是看上去的那样」：这是全章里 Teacher 唯一一次承认 ta 比看上去更清楚自己在做什么。
 
 > **原句 3:** "How do I know what you say is true?” I asked. “Words can say things that don’t exist.” “I have tried to explain to those in authority that telling juveniles half-truths or falsehoods is counterproductive, or even potentially disastrous.” They paused to take a sip from their tiny bowl of tea. “Oh,” I said. “That’s what got you this shit assignment"
 
@@ -61,7 +61,7 @@ modified: "2026-10-02"
 
 **关键词：** make an open example of Tzam / sealed into a container, quite alone / insists we present you with a choice
 
-**为什么这样写：** 处置被写成行政语言：立榜样、封进容器、独自、直到死。而选择权不是给她的，是 Teacher 争来的——两次 insists 把这份主动权从命令者手里挪到了看守者手里。
+**为什么这样写：** 处置被写成行政语言：立榜样、封进容器、独自、直到死。而选择权不是给 ta 的，是 Teacher 争来的——两次 insists 把这份主动权从命令者手里挪到了看守者手里。
 
 **读者视角提示：** 读者要注意「我想躺到地上去」：作者先给选择，再立刻写出她身体的第一反应——身体比她更早知道这个选择的重量。
 
@@ -77,7 +77,7 @@ modified: "2026-10-02"
 
 > **原句 7:** "No cases are the same,” I said, suddenly exhausted. “I don’t care if Tzam lives or dies. I just want…” But I wasn’t sure what I wanted. Certainly not to stand there while Tzam screamed for me. Nor to lie here drinking tea knowing they were screaming for me. “If I go to watch, will Translator Dlar dispose of them more quickly?” Teacher pursed their lips—considering, I thought. “I can put the matter before the Translator and see what they say. I make no promises, though. This is not entirely about you.” They shook their head, then, and made an exasperated noise I had never expected to hear from them. “The Translator refuses, unequivocally"
 
-**中文理解：** 「『没有两个案子是一样的，』我说，忽然累透了，『我不在乎 Tzam 活着还是死了。我只想……』可我并不确定自己想要什么。绝不是站在那儿听 Tzam 喊我。也不是躺在这里喝茶、明知道他们在那儿喊我。 Teacher 抿了抿嘴——我猜是在盘算。『如果我去看，Translator Dlar 会不会处置得更快一点？』——『我可以把这件事呈给 Translator 问问，看他们怎么说。我不作保证。这件事不完全关系到你。』他们随后摇了摇头，发出一声我从没料到他会发出的不耐烦的鼻音。『Translator 断然拒绝了。但那不表示你在这里没有选择，没有办法拿到你想要的，或者说接近它的东西。』」
+**中文理解：** 「『没有两个案子是一样的，』我说，忽然累透了，『我不在乎 Tzam 活着还是死了。我只想……』可我并不确定自己想要什么。绝不是站在那儿听 Tzam 喊我。也不是躺在这里喝茶、明知道他们在那儿喊我。 Teacher 抿了抿嘴——我猜是在盘算。『如果我去看，Translator Dlar 会不会处置得更快一点？』——『我可以把这件事呈给 Translator 问问，看他们怎么说。我不作保证。这件事不完全关系到你。』他们随后摇了摇头，发出一声我从没料到 ta 会发出的不耐烦的鼻音。『Translator 断然拒绝了。但那不表示你在这里没有选择，没有办法拿到你想要的，或者说接近它的东西。』」
 
 **关键词：** I don’t care if Tzam lives or dies / dispose of them more quickly / The Translator refuses, unequivocally
 

@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **关键词：** all other actions regarding the subject / besides house and feed him / send us back a copy
 
-**为什么这样写：** 好消息被翻译成一道菜：只有「供吃住」这一项合法。作者让双亲替读者把这条好消息的最坏读法说出来，而她只加了一句「据说人类才会这样」，把指控又推回去。
+**为什么这样写：** 好消息被翻译成一道菜：只有「供吃住」这一项合法。双亲只贡献了最难听的那句菜名；把这条好消息读成理所当然的，是代理人 Ms Yedess——「Well, that’s what happens to humans, supposedly」，她用 supposedly 把话又推了回去。
 
 **读者视角提示：** 读者要注意代理人对 Reet 身份那句限定：她说他「据说是 Presger Translator——我是说从生理上说」。
 

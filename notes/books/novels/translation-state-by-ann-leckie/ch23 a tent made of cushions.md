@@ -17,7 +17,7 @@ modified: "2026-10-02"
 
 > **原句 1:** "“Not technically,” admitted Qven, and lowering their voice, added, “They won’t hold us to the schedule if you’re ill, but the more we do, the less they’ll sus… the less they’ll worry.” What had they been about to say? The less they’ll suspect? What was there to suspect? Feigning illness? Whatever it was, Qven certainly wouldn’t answer questions about it where they thought the teacher could hear. “I’ve been in rain,” he said. “Sometimes it’s nice. Sometimes it’s miserable. It depends.” “There was a garden in the Edges,” said Qven, taking a dumpling with a utensil. “But it never rained there.” “How did the plants get water?” Reet took a dumpling for himself. It was very good. “I don’t know.” Qven frowned as though they’d never considered the question before. “There was a pond there. With fish.”"
 
-**中文理解：** 「严格说不算，」Qven 承认，压低声音补了一句，「你要是生病，他们不会拿日程卡我们；可我们做得越多，他们就越会怀……」他们改口说，「……越会不操心。」——他本来要说的是什么？越会怀疑？有什么可怀疑的？装病吗？不管是什么，Qven 肯定不会在 Teacher 听得到的场合回答这类问题。「我进过雨里，」他说，「有时候很好，有时候很糟，看情况。」「Edges 那边有一个花园，」Qven 拿筷子夹起一只饺子，「但那儿不下雨。」「那些植物怎么弄到水？」Reet 也拿了一只饺子。非常好吃。「我不知道。」Qven 皱起眉，好像从没想过这个问题。「那儿有个池塘。里面有鱼。」
+**中文理解：** 「严格说不算，」Qven 承认，压低声音补了一句，「你要是生病，他们不会拿日程卡我们；可我们做得越多，他们就越会怀……」他们改口说，「……越会不操心。」——他本来要说的是什么？越会怀疑？有什么可怀疑的？装病吗？不管是什么，Qven 肯定不会在 Teacher 听得到的场合回答这类问题。「我进过雨里，」ta 说，「有时候很好，有时候很糟，看情况。」「Edges 那边有一个花园，」Qven 拿筷子夹起一只饺子，「但那儿不下雨。」「那些植物怎么弄到水？」Reet 也拿了一只饺子。非常好吃。「我不知道。」Qven 皱起眉，好像从没想过这个问题。「那儿有个池塘。里面有鱼。」
 
 **关键词：** the less they’ll sus / the less they’ll worry / What was there to suspect / a pond there. With fish
 
@@ -47,7 +47,7 @@ modified: "2026-10-02"
 
 > **原句 4:** "“Qven, what’s wrong?” There was silence. Qven themself hadn’t moved even a muscle. “Qven,” he said. “It’s all right. Really, I can take the cover down. I didn’t mean to upset you.” “They were under the bush.” Still whispered, but high and strained. “They were under the bush and they were all melted into each other. And…” They stopped speaking but now Reet could hear them breathing, almost gasping."
 
-**中文理解：** 「Qven，怎么了？」一片沉默。Qven 连一块肌肉都没动。「Qven，」他说，「没事的。真的，我可以把毯子拿下来。我不是故意要让你难受。」「他们当时在灌木底下。」仍在耳语里，但音调又高又紧。「他们当时在灌木底下，全都融在一起了。还有……」他停住不再说，可这时 Reet 已经能听见对方的呼吸，几乎像在喘。「我们不在灌木底下，」Reet 说，「我们只是在你的卧室里。」
+**中文理解：** 「Qven，怎么了？」一片沉默。Qven 连一块肌肉都没动。「Qven，」他说，「没事的。真的，我可以把毯子拿下来。我不是故意要让你难受。」「他们当时在灌木底下。」仍在耳语里，但音调又高又紧。「他们当时在灌木底下，全都融在一起了。还有……」ta 停住不再说，可这时 Reet 已经能听见对方的呼吸，几乎像在喘。「我们不在灌木底下，」Reet 说，「我们只是在你的卧室里。」
 
 **关键词：** Qven themself hadn’t moved even a muscle / They were under the bush / all melted into each other / almost gasping
 
