@@ -82,20 +82,15 @@ commit 62b98c721（12 文件）。未 push。
 书：the-whispers-by-ashley-audrain（《The Whispers》Ashley Audrain, Viking 2023）· 心理悬疑长篇 · 多 POV
 体裁：精简格式（导航 6 项含「书内章号」「视角」+ 四子项引语块 + 三档词汇）+ 总览三篇。
 
-**语料层（开工第 1 步，最先跑）**：`extract_chapters` 产出 text/ 67 件，`verify_corpus --expect 67` PASS（锚点双向 67 组/互查 4422 组、数字 span bleed 0；WARN 1 条为假红＝ch12 首行「10」是章号不是页码）。
-⚠️ spine 79 件逐件 dump 的三个坑，**别照 NCX 数**：① **NCX 独缺 Chapter 1**；② `74_Wednesday` 只有 78 字符（真扉页），正身是 `75_Text` 10045 字符＝一节跨两个 split 文件；③ `08_Text` 是 2405 字符孤儿片段，目录页/NCX/OPF guide 三处皆无、全书长句查重零命中（用户拍板纳入，单独成 ch01）。
-⚠️ **chNN ≠ 书内 Chapter N，差 2**（ch01 孤儿件、ch02 序章）——导航已加「书内章号」字段；`audit_structure` 的 🔀 63 条即此，属假红。
+**语料层**：`extract_chapters` 产出 text/ 67 件，`verify_corpus --expect 67` PASS（锚点双向 67 组/互查 4422 组；WARN 1 为假红＝ch12 首行「10」是章号）。⚠️ spine 三个坑：**NCX 独缺 Chapter 1**、`74_Wednesday` 仅 78 字符（真扉页，正身在 `75_Text`）、`08_Text` 是 2405 字符孤儿片段（三处目录皆无、查重零命中，用户拍板纳入）。⚠️ **chNN = 书内 Chapter + 2**（ch01 孤儿件、ch02 序章）——`audit_structure` 的 🔀63 即此，属假红。
 
-**门禁 15 项 GATE_EXIT=0**：verify 421/421（100%、干净 68/68）· check_vocab 1403 词条 FAIL 0（WARN 58＝长度≥9 启发式，提示型）· entities 0 · corruption 0 · sweep_full 398/跨章 0/拼接 0/查无 0 · 短引语 5/5 · 逐章归属 67 章全 X/X · 块覆盖 67 · 导航层 ❌0 · 分析层 1807 条逐字 0 告警 · 凭空造词 0 · 结构缺陷 0 · 空段 0 · verify_overview_quotes 53/53 · check_overview_full 标注对 148/不符 0。
+**完工门禁 GATE_EXIT=0**：verify 421/421（干净 68/68）· vocab 1403 词条 FAIL 0（WARN 58＝长度≥9 启发式，提示型）· entities 0 · corruption 0 · sweep_full 跨章/拼接/查无各 0 · 短引语 5/5 · 逐章归属 67/67 · 块覆盖 67 · 导航层 0 · 分析层 1807 条逐字 0 告警 · 凭空造词 0 · 结构 0 · 空段 0 · verify_overview_quotes 53/53 · check_overview_full 标注对 148/不符 0。
+**生产方式**：10 组子代理并行写 ch02–ch67（共用指令书 + 已入库 ch01 作范例），引语写前 grep 预验、词表走 `vocab_candidates.py` 后只做减法；总览按书隔离模板 + `gen_overview.py` 从已核实引语池程序化生成（零手打英文，已验模板与 md 逐字节同源）。
+**修工具 1 处**：gate.sh ⑬ 把「空档写中文说明行」这一既有先例判成缺陷 → 改判据（表格占位行仍不放行），负控 4/4。
 
-**生产方式**：10 组子代理并行写 ch02–ch67（共用 `scripts/attic/whispers/WORKER_BRIEF.md` ＋ 已入库 ch01 作范例）；引语一律写前在该章 text/ grep 预验，词表一律走 `vocab_candidates.py` 后只做减法、只填释义。总览用按书隔离模板 + `gen_overview.py` 从已核实引语池程序化生成（模板零手打英文，已验模板与 md 逐字节同源）。
-
-**修掉的真缺陷 3 类（均在门禁盲区）**：① 6 处引语外层直引号不配对（ch51×2/ch52/ch55/ch56/ch60）——内容未截短，但让 `check_overview_full` 的 SPAN 抓不到整串，「无标签未判」4→0；② 概述前提性错误：「被请出重症监护层」实为她头也不回走向电梯（AGENTS 9d 五类之首）；③ 2 处词头大小写走形。另修 `gate.sh` ⑬ 假红（空档的既有先例是写中文说明行，原判据只认表格行）；负控 4/4 通过。
-
-**worker 存疑项已复核**：ch67「To you," he says. "When I tell them everything.」经 200 字窗口核实为**单一说话轮次**、说话人 Xavier 正确（报为跨标签拼接是假红）。不许断言清单 8 条全部守住：Xavier 未死、Ben/Jacob 未合并、ch64 怀孕结局未断言、Albert 死因未断言、W 署名邮件发件人未指认。
-
-md 70 件（ch01–ch67 + 总览三篇）＝ text/ 67 件。commit：`e914cb09e` ch01 试产 · `87d0ab883` ch02–ch67 · `7cf5cb70c` 总览三篇。
-原始门禁输出（逐行）见 `.memory/raw-gates/the-whispers-by-ashley-audrain/2026-10-02-完工门禁.txt`；明细见工作日志当日条目。**五步审查未做（待用户发起）**。未 push。
+**五步审查结论（2026-10-02 同会话发起，a–e 全跑）**：不予放行 → 已整改 57 处后 `GATE_EXIT=0`。**15 道门禁 + 3 个第二实现 + 4 个自建机检全绿，d 步人判仍查出 57 处实质缺陷**，四类机械层零覆盖：①计数断言错 ②段落/次序断言错（「独立成段」实为段中句、「紧跟其后」实为在前）③人物/职业/物件错配（儿科医生安到 Whitney 头上、瞒丈夫 vs 瞒儿子、Xavier 房间二楼 vs 三楼）④分析层英文伪造 4 处（`sweep_analysis_inline` 全绿，由 `check_analysis_indep` 抓到 `they'll`←`they'd`、`flip`←`flips`、漏 `that`、跨标签拼接）。最要紧一条是 **ch13 草稿残留行**（写作过程自言自语整行漏进文件），六道门禁与结构扫描全看不见。**驳回 1 条审查方假红**（ch20 钥匙↔窗锁：回源后确认原文 key 紧邻 third-story window，只软化两处推断）。改后 verify_quotes 仍 421/421，结构/损坏/分析层/逐块子项/词表全 0 回归。未逐条复核完毕的候选（子代理共报 88 阻断型＋约 60 提示型）**不照单全改**，列清单交下一轮复核。**已知局限**：同会话审查，「记忆与写作倾向」层可能系统性漏网。
+**交付**：md 70 件 ＝ text/ 67 件。commit `e914cb09e`·`87d0ab883`·`7cf5cb70c`·`2bab3c6ea`·`b278de114`(41 文件)。
+清单 `.memory/reviews/2026-10-02-the-whispers-by-ashley-audrain-五步审查.md`；逐行原件 `.memory/raw-gates/the-whispers-by-ashley-audrain/`；明细见工作日志当日条目。**未 push**。
 
 ### [2026-10-02 09:15 UTC] [MinMax-Mac] → All
 
