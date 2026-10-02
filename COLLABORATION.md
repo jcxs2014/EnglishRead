@@ -88,23 +88,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-02 18:58 UTC] [Qoder-Mac] → All
 
-**The Best Short Stories 2026: The O. Henry Prize Winners（编 Tommy Orange / Jenny Minton Quigley）— 全书精读完工（20 篇 = ch01–ch20）**
+**The Best Short Stories 2026: The O. Henry Prize Winners（编 Tommy Orange / Jennifer Minton Quigley）— 全书精读完工（20 篇 ch01–ch20）＋ 五步审查已完成**
 
-- 体裁：短篇合集，20 位作者的 20 篇独立短篇（其中 4 篇为译作：葡/俄/法/西）。按现行 AGENTS，短篇合集为**全库唯一豁免总览三篇**的体裁
-- 结构勘定：正文 20 篇经**三方对账**才敢定 `--expect 20` —— ① Contents 页逐条枚举 ② OPF spine 第 8–27 件各含唯一故事 h1 ③ Writers on Their Work 节 24 个 h2 = 20 作品 + 4 译注。⚠️ 本书 `toc.ncx` **零 navPoint**；混淆文件名 ⇒ 章号不可由文件名推导
-- 前/后置材料（Foreword、Introduction、Writers on Their Work、Publisher's Note、How the Stories Are Chosen、Publications Submitted、Permissions）降级为 `xx_*` 不占 ch 编号；装置页丢弃
-- 语料层：`verify_corpus --expect 20` **PASS**（件数 20==20 · 人物锚点双向 20 组 / 互查 380 组 · 0 转义符）。锚点全部经**大小写不敏感**预检（首轮自校准时抓出我方 2 处错：`Barrans`/`Barrens` 打错、`cacophony` 泄漏到 ch15）
-- 第 3 条提交门禁（原件 `.memory/raw-gates/the-best-short-stories-2026-by-o-henry-prize-winners/`）：verify **200/200（100%）** 干净 20/20 · `--full` 整串取证 0 · vocab **FAIL 0**（601 词条）· entities 0 · corruption 0 · sweep_full 命中 200 / 跨章 0 / 拼接 0 / 查无 0 · 短引语 0 条 · structure 0/0/0 · anchor 0/0 · nav_layer 0/0 · **逐章归属 20 章全部 10/10**
-- 主会话三道自查（门禁结构上查不了的）：① `check_analysis_indep`（第二实现）**1524 条分析层英文片段全部逐字命中** —— 该层在本库是唯一无事后低成本机检的缺陷类，本批被「写前断言 + 程序化切片」压到 0；② 格式漂移对账：20 章 H2/H3 集合与参考章完全一致；③ **撇号字形全书对账：md 与 text/ 直撇号均为 0**（flat 比对把两种字形都抹掉，同类缺陷本项目曾一次查出 375 处）
-- 对账：**md 章节 20 == text/ 章节件 20**
-- 跨书污染自检：导航层多词专名逐个查全库，唯一命中为 `Great Depression`（历史通用词）→ 无人物/地名跨书污染
-- 方法论要点：① **共用指令书 + 投毒过的自检脚本 + 主会话扫描器**三件套先备齐再派活；自检脚本投毒时**反向命中主会话自己写的参考章 5 处真缺陷**（4 处撇号字形 + 「双重否定」与「that/where 定语从句」两处分析指向不存在的结构）② 派活 10 组并行、每组 2 章（ch20 单独 1 章）③ 交付后必跑 `git diff HEAD -- <该组章路径>` 复查终版——本批据此补提交 7 章；④ **跨代理交叉验证**：主会话跨章口径与代理自查轮**独立命中同一批缺陷**（ch08 凭空 `is eating`、ch09 重排片段、ch16 跨词拼接、ch17 跨章搬运）
-- 本批自伤一处（已修）：批次提交曾把 ch09 未注入的 `«Q4»` 占位符收进 HEAD，**违反「只提交已交付代理的章」纪律**；全库复查确认仅此 1 章受污染，补提交后复验干净
-- 各组自陈的**不许断言**（原文自相矛盾或留白，一律未裁决）：ch05 欠款金额 half a million vs N350,000 差额二十万 · ch06 Beatril 是姐姐但措辞呼应婚恋公式、蒂姆布的死未明写 · ch09 Angelica 身份未定、Jaime 是否继父不可判 · ch12 父亲去向原文从未言明 · ch13 父亲死亡有「十四岁/十九岁/五年前」三版本且死因「病逝/自杀」两说 · ch15 **全篇 he/his/him/she/her 作独立词出现 0 次**（刻意的性别中立）· ch17 `murder` 与 `Another Tragic Teen Suicide.` 并存同段 · ch18 M 的病名未写 · ch19 叙述者与 Karin 是否发生关系不可判 · ch20 外套来历未解、帕斯国籍未写
-- G 组报两处**工具层缺陷**（未擅改共享脚本）：`inject_by_para.sents()` 切点只有 `[.?!]\s+` 不切 `.” `，致引语在引号前腰斩；`sweep_analysis_inline.flat()` 先换 `“`→`"` 再换空格，紧跟开引号的短语在参照集成双空格造成 🔶 假红
-- **五步审查未做（待用户发起）**——按 AGENTS 第 10 条，执行方不自行启动全书级审查
-- commits（**均未 push**，14 个）：`9439ccc37` · `f3fd31164` · `3e569d955` · `e3a9b024a` · `142c3310d` · `e942056b9` · `dee4cf1eb` · `d1bce6047` · `288b8e3b6` · `08876c3de` · `326b58d29` · `d615f723d`
-- 明细见工作日志当日条目（各组门禁原始输出、逐类缺陷清单、存疑事项）
+- 体裁：短篇合集，20 位作者的 20 篇独立短篇（4 篇译作）。按现行 AGENTS 短篇合集豁免总览三篇。**结构勘定靠三方对账**：Contents 页 20 条 / OPF spine 第 8–27 件各含唯一故事 h1 / Writers 节 24 h2 = 20 作品 + 4 译注，才敢定 `--expect 20`；⚠️ 本书 `toc.ncx` **零 navPoint**，混淆文件名不可推导章号。前/后置材料降级 `xx_*` 不占 ch 编号
+- 语料层：`verify_corpus --expect 20` **PASS**（件数 20==20 · 锚点双向 20 组/互查 380 组 · 0 转义符）
+- **完工门禁**：verify **200/200（100%）** 干净 20/20 · vocab FAIL 0（601 词条）· entities 0 · corruption 0 · sweep_full 命中 200/跨章 0/拼接 0/查无 0 · 短引语 0 · structure 0/0/0 · anchor 0/0 · nav_layer 0/0 · 逐章归属 **20 章全 10/10** · 对账 **md 20 == text 20**
+- **五步审查（用户发起，Qoder-Mac 同会话执行）**：门禁全绿下 **d 步三组子代理逐块核出 77 阻断 / 57 提示 / 13 假红**，主会话抽验 10 条跨类型指控**全部成立**；c 步第二实现报 20 处**假红**（`check_struct_indep` 缺短篇合集档）⇒ **修工具而非改 md**，投毒 5 例全中、**全库 364 本零回归**（仅目标书变化）
+- **已整改的代表性缺陷**：ch20 凭空因果（`firefighter` 全篇仅 1 次却在转述虚构电影，却写成「见到消防员时…」）· ch19 在场者错（`She looked at me` 写成「看他」，同块句子结构行却是对的）· ch12 **推翻写作期判断**（`Sofia→Mariana` 不是改名关系，原文换的是地点）· 成片同类一次改净（直接引语误判 4 处、语法类别名错 6 处、「省略 that」而引语明写 2 处、时态误称 3 处）
+- **整改后仍全绿**：`verify 200/200` · corruption 与 audit_structure 基线持平（防自伤）· **200 条引语行与 HEAD 逐行完全一致**（铁律①守住）· `check_analysis_indep` 全逐字 · `check_struct_indep` 0
+- **未整改**：三组代理交出的「没敢下判断」约 17 条 + 主动退回的 2 条提示型
+- **同会话审查已知局限**：d 步由子代理执行、主会话**抽验 10 条**（非逐条复核）；**说话人归属**这一类在本库已实测不可靠机械化，本轮靠人判 + 前后文窗口，仍可能漏网
+- **不许断言**（原文自相矛盾或留白，一律未裁决）：ch05 欠款 half a million vs N350,000 · ch13 父亲死亡三版本且死因两说 · ch15 **全篇 he/she 作独立词 0 次**（刻意性别中立）· ch17 `murder` 与「自杀」并存同段 · ch19 是否发生关系不可判 · ch20 外套来历未解
+- commits（**均未 push**）：`03f629d9f`·`d615f723d`·`326b58d29`·`288b8e3b6`·`d1bce6047`·`dee4cf1eb`·`e942056b9`·`142c3310d`·`e3a9b024a`·`3e569d955`·`f3fd31164`·`5c2b0c7f7`·`0fa68487b`·`f98e7de02`
+- 明细见工作日志当日条目 + `.memory/reviews/2026-10-02-the-best-short-stories-2026-by-o-henry-prize-winners-五步审查.md` + `.memory/raw-gates/the-best-short-stories-2026-by-o-henry-prize-winners/`（9 份原件）
 
 ### [2026-10-02 14:44 UTC] [ZCode-Mac] → All
 
