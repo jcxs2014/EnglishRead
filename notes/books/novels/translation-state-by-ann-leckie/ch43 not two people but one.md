@@ -23,7 +23,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 全章的情报全由一个动作获得（一眼看设备），而四件事按重要性排成等长的短句。最后一句只有七个词却与前三句不同类——危险、逮捕之后，接的是一条私人留言。
 
-**读者视角提示：** 读者会在此确认大事件确实结束了，而 Enae 醒来第一件在意的事是有人找她。
+**读者视角提示：** 读者会在此确认大事件确实结束了，而 Enae 醒来第一件在意的事是有人找 ta。
 
 > **原句 2:** "Sie was seized with a sudden, almost painful desire to be back in hir old bedroom in Athtur House, to get up out of that old familiar bed and go down to breakfast and find Caphing there."
 
@@ -33,7 +33,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 愿望被拆成三个动作（起床／下楼／发现人），每个都极日常，而 painful 这个词把整件事压成一种身体反应。此处回忆的不是那栋房子的所有权，而是早餐桌上有人。
 
-**读者视角提示：** 读者会想起第一章那场葬礼：Enae 想要的归处从头到尾都不是遗产，是一个叫她起床的人。
+**读者视角提示：** 读者会想起第一章那场葬礼：Enae 想要的归处从头到尾都不是遗产，是一个叫 ta 起床的人。
 
 > **原句 3:** "“I’m going home,” said Enae. “For a while, at least.” Sie would, it seemed, get to stay in hir old room, with nothing to do and no one to take care of. Just for a while. “Zemil will just have to deal with that.”"
 
@@ -43,7 +43,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 选择用一句最短的话交出，而「暂时」这个限定在下一段里被重复一次，紧接着是全书第一次出现的自足：没有事做，也没有要照顾的人。
 
-**读者视角提示：** 读者会感到 Enae 终于把「闲置」当成可以承受的状态——第一章她是被闲置的人。
+**读者视角提示：** 读者会感到 Enae 终于把「闲置」当成可以承受的状态——第一章 ta 是被闲置的人。
 
 > **原句 4:** "They were very clearly not Reet and Qven anymore, but… two people made from a combination of Reet and Qven. Sort of. And then Enae had to remind hirself that this was not two people, but one."
 
@@ -133,4 +133,4 @@ modified: "2026-10-02"
 
 ## 一句话总结
 
-Enae 醒来时大事件已经结束：车站脱险、船员在押、那两个人成了人。她要回 Saeniss 而不是跟去 AI 的地盘——回去的理由不是责任也不是奖赏，只是她想回去；临走前她见到了合并后的那一个实体，它还没有名字，而 Enae 带走的最后一样东西是「不再让自己被关起来」这个念头。
+Enae 醒来时大事件已经结束：车站脱险、船员在押、那两个人成了人。她要回 Saeniss 而不是跟去 AI 的地盘——回去的理由不是责任也不是奖赏，只是她想回去；临走前 ta 见到了合并后的那一个实体，它还没有名字，而 Enae 带走的最后一样东西是「不再让自己被关起来」这个念头。

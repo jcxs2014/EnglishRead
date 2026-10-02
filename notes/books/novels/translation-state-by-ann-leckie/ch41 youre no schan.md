@@ -21,13 +21,13 @@ modified: "2026-10-02"
 
 **关键词：** on the adventure. A real one / Those are actors, pretending / A real one
 
-**为什么这样写：** 两个人都在争「冒险」这个词的定义：一个坚持要真的，一个说剧里的才真。而叙述给 Qven 加的评语是说他刻意维持着讲道理的语气——这场拉锯里连语气都是被管理的。
+**为什么这样写：** 两个人都在争「冒险」这个词的定义：一个坚持要真的，一个说剧里的才真。而叙述给 Qven 加的评语是说 ta 刻意维持着讲道理的语气——这场拉锯里连语气都是被管理的。
 
-**读者视角提示：** 读者在这里第一次听见 Qven 想要「真实」——此前他所有关于剧集的向往都是关于被收留的。
+**读者视角提示：** 读者在这里第一次听见 Qven 想要「真实」——此前 ta 所有关于剧集的向往都是关于被收留的。
 
 > **原句 2:** "he had never seen Qven look so uncomplicatedly happy as when e put on the helmet and strapped on the chestplate that Central Security offered. And he had to admit, it felt pretty amazing to be armored himself, even that little bit. Even though he had agreed entirely with the officer who’d tried so hard to convince Qven that e didn’t need to be coming along."
 
-**中文理解：** 在 Reet 认识 ta 的这段时间里，他从没见 Qven 像戴上头盔、扣上 Central Security 提供的胸甲时那样单纯地快乐过。而他自己也得承认，被护甲包住的感觉确实好得出奇，哪怕只有这么一点。哪怕他完全同意那位军官——她可是拼了命想劝 Qven 不用跟着来的。
+**中文理解：** 在 Reet 认识 ta 的这段时间里，他从没见 Qven 像戴上头盔、扣上 Central Security 提供的胸甲时那样单纯地快乐过。而他自己也得承认，被护甲包住的感觉确实好得出奇，哪怕只有这么一点。哪怕 ta 完全同意那位军官——她可是拼了命想劝 Qven 不用跟着来的。
 
 **关键词：** so uncomplicatedly happy / it felt pretty amazing to be armored himself / agreed entirely with the officer
 

@@ -23,7 +23,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 三个 very 全部落在同一个身体动作上：不是「安静一点」，而是距离。声音被写成需要贴近才能取得的东西，全章最重要的信息因此始终是二手的。
 
-**读者视角提示：** 读者在这里第一次意识到：Qven 后面所有的话都是转述，而他转述的对象也在转述。
+**读者视角提示：** 读者在这里第一次意识到：Qven 后面所有的话都是转述，而 ta 转述的对象也在转述。
 
 > **原句 2:** "The committee member for the Presger speaks to me, and also the part of Translator Dlar that was not in the committee chamber. They ask me to tell you these things. You must find Translator Dlar, and you must discover what it was that Translator Dlar did in the moment they were being stabbed. Translator Dlar knows what was intended, but it seems that what was intended and what happened are two different things. The committee member for the Presger and Translator Dlar themself can guess at what that difference is, but they do not know enough to put things to rights in a way that will not be destructive to the station or to the people who were in the committee chamber. So they tell me.”"
 
@@ -41,7 +41,7 @@ modified: "2026-10-02"
 
 **关键词：** It is not enough / You must do more than open doors / the Hikipi ship still threatens
 
-**为什么这样写：** Qven 的全部资本在这句里被一句话驳回：他做的那些开门，不算数。威胁方（Hikipi 船）第一次出现在这层的对话里，且被写成已知的、未解决的压力源。
+**为什么这样写：** Qven 的全部资本在这句里被一句话驳回：ta 做的那些开门，不算数。威胁方（Hikipi 船）第一次出现在这层的对话里，且被写成已知的、未解决的压力源。
 
 **读者视角提示：** 读者会感到谈判在这里第一次失去着力点：Qven 亮出的证据是事实，却被「不够」两个字架空。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 自我评价用的是别人的标准：不是「我不好」，是「我本来该重要」。第一句断言，后两句才给出这个「本该」的出处——一个早在被拆解之前就替他排好位置的未来。
 
-**读者视角提示：** 读者在此看清：Qven 之所以觉得自己是失败品，是因为有人曾经按用途给他排过位。
+**读者视角提示：** 读者在此看清：Qven 之所以觉得自己是失败品，是因为有人曾经按用途给 ta 排过位。
 
 > **原句 6:** "The problem is, when someone comes to you and says only you can save us by sacrificing yourself, how do you know they’re right? And how do you know they’re telling the truth, and not just trying to get you to do something that would be convenient for them? If they’re telling the truth, if they’re right, then yes, you should do it. But are they?"
 
@@ -73,7 +73,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 这段提问的分寸全在于把「怎么知道」放在「做不做」之前。Batonen 先讲了一遍救援伦理，随即把它推翻：真正难的从来不是牺牲，是判断。最后两个词的短句把整段收成一个当场无法回答的问句。
 
-**读者视角提示：** 读者会注意到 Batonen 两次说等一下、还没说完——她不是想劝 Qven 别牺牲，是想教他先验一验对方。
+**读者视角提示：** 读者会注意到 Batonen 两次说等一下、还没说完——她不是想劝 Qven 别牺牲，是想教 ta 先验一验对方。
 
 > **原句 7:** "“I don’t have clutchmates,” I said instead. And suddenly I felt very alone, even though Mom and Nana and Batonen were right there in the room with me. I wanted Reet. If Reet were here you wouldn’t be so alone, I thought, and then, If you were Reet you wouldn’t be alone."
 

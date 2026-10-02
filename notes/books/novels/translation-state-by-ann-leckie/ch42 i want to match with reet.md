@@ -31,9 +31,9 @@ modified: "2026-10-02"
 
 **关键词：** sank my teeth into the hand / The hand let go, and the knife was mine / was almost soothing
 
-**为什么这样写：** 全章最暴烈的一段是用熟悉的词汇写的：used to that / That was familiar, too 反复出现。Qven 的暴力不是失控，而是他从 Middles 与 Edges 带来的技能——这一层比刀本身更冷。
+**为什么这样写：** 全章最暴烈的一段是用熟悉的词汇写的：used to that / That was familiar, too 反复出现。Qven 的暴力不是失控，而是 ta 从 Middles 与 Edges 带来的技能——这一层比刀本身更冷。
 
-**读者视角提示：** 读者会在这里第一次看见 Qven 的身体训练：他能拆解别人，而且他知道怎么做。
+**读者视角提示：** 读者会在这里第一次看见 Qven 的身体训练：ta 能拆解别人，而且 ta 知道怎么做。
 
 > **原句 3:** "And I knew, suddenly, that I wanted it. I wanted to kneel beside him and put my mouth on his neck, taste his blood, melt into him"
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 救助完成之后立刻是自我约束：因为他正在演一个角色，所以不许自己崩溃。剧集这套模型在这里第一次给了他秩序，也同时拿走他的允许。
 
-**读者视角提示：** 读者会感到 Qven 撑住的方式正是他从小看的那类戏——而支撑物本身随时会塌。
+**读者视角提示：** 读者会感到 Qven 撑住的方式正是 ta 从小看的那类戏——而支撑物本身随时会塌。
 
 > **原句 6:** "“I’m not your child,” I pointed out, and fresh tears threatened. Nana made a dismissive snort. “You might as well be at this point.” I blinked, astonished. “Really?” “Really,” said Nana. “All our children are adopted. What’s one more?”"
 
@@ -93,7 +93,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 全章以两句对称的短宣言收尾，否定在前、肯定在后，代价没有写在后面。still afraid but suddenly sure 把两种状态并置而不分先后。
 
-**读者视角提示：** 读者会感到 Qven 第一次不是被推着走的：这句话是他自己说的，而对象是一个人，不是一具机器。
+**读者视角提示：** 读者会感到 Qven 第一次不是被推着走的：这句话是 ta 自己说的，而对象是一个人，不是一具机器。
 
 ## 本章词汇
 
@@ -134,4 +134,4 @@ modified: "2026-10-02"
 
 ## 一句话总结
 
-Qven 在这一章里做了两件他以前不会做的事：用牙齿从刀下抢人，并承认自己怕合并；救回 Reet 之后他被 Sphene 邀请去 AI 的地盘、被两位收留他的长辈认作自家孩子，最后他说出的那件事是：不要机器，要人。
+Qven 在这一章里做了两件 ta 以前不会做的事：用牙齿从刀下抢人，并承认自己怕合并；救回 Reet 之后他被 Sphene 邀请去 AI 的地盘、被两位收留他的长辈认作自家孩子，最后他说出的那件事是：不要机器，要人。

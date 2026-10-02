@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 > **原句 2:** "Caphing had insisted that this job was entirely a matter of checking in at particular systems and occasionally sending a message back that sie had met with this or that official and hadn’t found anything. Which had seemed perfect before Enae left Saeniss, but now sie realized that it would be weeks and months of this, of nothing in particular to do and no reason to even get out of bed besides habit."
 
-**中文理解：** Caphing 坚持说这份差事完全就是在特定星系签到，偶尔发条消息回去，说自己见过这位或那位官员，什么也没查到。这在 Enae 离开 Saeniss 之前听上去完美，可现在她意识到：那将是几周几个月的这个，没有特别的事要做，也没有理由起床——除了习惯。
+**中文理解：** Caphing 坚持说这份差事完全就是在特定星系签到，偶尔发条消息回去，说自己见过这位或那位官员，什么也没查到。这在 Enae 离开 Saeniss 之前听上去完美，可现在 ta 意识到：那将是几周几个月的这个，没有特别的事要做，也没有理由起床——除了习惯。
 
 **关键词：** entirely a matter of checking in at particular systems / it would be weeks and months of this / no reason to even get out of bed besides habit
 
@@ -41,7 +41,7 @@ modified: "2026-10-02"
 
 **关键词：** it was refreshing / a wide, blue shawl hand-embroidered / no one here to tell hir to do anything at all
 
-**为什么这样写：** 整段是本章唯一一次奢侈的展开：材质、颜色、图案全部具体。末句把这份自由和一个缺席的人并置，作者不给 Enae 一句感慨，只给外婆会不会骂她。
+**为什么这样写：** 整段是本章唯一一次奢侈的展开：材质、颜色、图案全部具体。末句把这份自由和一个缺席的人并置，作者不给 Enae 一句感慨，只给外婆会不会骂 ta。
 
 **读者视角提示：** 读者会同时感到轻与重：越具体的好看，缺席的那个人就越清楚。
 
@@ -57,7 +57,7 @@ modified: "2026-10-02"
 
 > **原句 5:** "After a week of this, it occurred to Enae that sie might as well still be trapped at home. Sie was doing exactly what sie had always done, obediently following the path someone else had set out for hir and not even trying to do anything different. And sie could do something different! Something small, or maybe…"
 
-**中文理解：** 这样过了一周，Enae 忽然意识到，她还不如说仍旧被关在家里。她做的正是她一向在做的事：顺从地走别人铺好的路，连试都不试一下走别的路。可她是可以做点别的！做点小的事，或者也许……
+**中文理解：** 这样过了一周，Enae 忽然意识到，ta 还不如说仍旧被关在家里。她做的正是她一向在做的事：顺从地走别人铺好的路，连试都不试一下走别的路。可她是可以做点别的！做点小的事，或者也许……
 
 **关键词：** might as well still be trapped at home / obediently following the path someone else had set out for hir / And sie could do something different!
 

@@ -9,7 +9,7 @@ modified: "2026-10-02"
 
 - **一句话概括**：入境 Zeosen 后 Enae 被联络人 Reet Hluid 强行带去住处，独自外出时被一名跟踪她数日的深灰衣女人从背后击倒、抢走行李与随身设备，被送医确诊脑震荡后才与 Reet 见面。
 - **情感弧线位置**：承接上一章新生活带来的新鲜感，转入无端挨打之后的惊愕；本章的张力是登记制度与一次具体的、无解释的暴力之间的落差。
-- **人物弧线**：Enae 从「终于可以自己出门」变成「连出门都要被报备」的人，而最后那句「这里本不该出事」把她自己也弄糊涂了。
+- **人物弧线**：Enae 从「终于可以自己出门」变成「连出门都要被报备」的人，而最后那句「这里本不该出事」把 ta 自己也弄糊涂了。
 - **叙事手法**：第三人称限制视角贴附 Enae；三个场景（入境大厅、摆渡车与车站、独自外出与医疗室），袭击从背后发生，读者与 Enae 一样到最后才看清是谁。
 - **视角**：第三人称限制视角，sie / hir 性别中立代词体系；本章叙述者为 Enae，联络人一侧用 he / him
 
@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 > **原句 2:** "The shuttle was cold and cramped. Enae badly needed sleep, but there was barely room to sit comfortably, and the compartment was excessively well lit, every surface covered in glaring warnings of various ways one might die if one made some wrong move. Enae noticed the person in dark gray a few rows behind hir—they seemed to have settled in and gone immediately to sleep, and for a moment sie was tempted to ask them how in the world they’d managed that. But it would mean climbing over other passengers, and no doubt somewhere on the walls or floor was a huge, screaming warning against doing exactly that. So instead sie closed hir eyes and relaxed as well as sie could manage."
 
-**中文理解：** 摆渡车又冷又挤。Enae 极需要睡觉，可连舒服坐着的地方都没有，而隔间亮得过分，每一个表面都贴满了刺眼的警告，写着做错哪个动作会怎么死。Enae 注意到几排之后那个穿深灰衣的人——他们似乎一坐下就立刻睡着了，有那么一瞬间她想问对方到底是怎么做到的。可那意味着要跨过别的乘客，而墙上或地上某个地方无疑贴着一句巨大的、尖声的警告，正是禁止这么做。于是她闭上眼睛，尽力放松。
+**中文理解：** 摆渡车又冷又挤。Enae 极需要睡觉，可连舒服坐着的地方都没有，而隔间亮得过分，每一个表面都贴满了刺眼的警告，写着做错哪个动作会怎么死。Enae 注意到几排之后那个穿深灰衣的人——他们似乎一坐下就立刻睡着了，有那么一瞬间 ta 想问对方到底是怎么做到的。可那意味着要跨过别的乘客，而墙上或地上某个地方无疑贴着一句巨大的、尖声的警告，正是禁止这么做。于是她闭上眼睛，尽力放松。
 
 **关键词：** every surface covered in glaring warnings / how in the world they’d managed that / a huge, screaming warning against doing exactly that
 
@@ -47,7 +47,7 @@ modified: "2026-10-02"
 
 > **原句 4:** "So he was here to keep an eye on hir and report hir movements back to whoever his supervisor was. Sie didn’t think he’d been hired for the elegance of his manners. Or his ability to make one feel welcome, that much was obvious."
 
-**中文理解：** 所以他是来盯着她、把她的动向报给他的上级。Enae 觉得他被雇来不是为了举止优雅。也不是为了让人觉得受欢迎——这一点很明显。
+**中文理解：** 所以他是来盯着 ta、把 ta 的动向报给他的上级。Enae 觉得他被雇来不是为了举止优雅。也不是为了让人觉得受欢迎——这一点很明显。
 
 **关键词：** keep an eye on hir and report hir movements / whoever his supervisor was / his ability to make one feel welcome
 

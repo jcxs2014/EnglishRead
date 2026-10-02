@@ -69,7 +69,7 @@ modified: "2026-10-02"
 
 > **原句 6:** "Reet should resign and go back to the pipeways. Let Enae Athtur walk into the trouble sie was headed for without Reet’s help. Reet should stay far, far away from this, away from the Siblings of Hikipu and whatever mess they were entangled with."
 
-**中文理解：** Reet 应该辞职，回到管道那边。让 Enae Athtur 走进她即将撞上的麻烦里，不要 Reet 的帮助。他该远远地躲开这件事，躲开 Siblings of Hikipu，躲开他们纠缠进去的那团乱麻。
+**中文理解：** Reet 应该辞职，回到管道那边。让 Enae Athtur 走进 ta 即将撞上的麻烦里，不要 Reet 的帮助。他该远远地躲开这件事，躲开 Siblings of Hikipu，躲开他们纠缠进去的那团乱麻。
 
 **关键词：** Reet should resign and go back to the pipeways / Let Enae Athtur walk into the trouble / far, far away from this
 
@@ -95,7 +95,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 全章唯一一次众人把话题直接转到 Reet 身上，而转移的方式是拍肩。拍肩膀这个动作同时是玩笑和宣告，Reet 的反应只有一句抗议，后文补出他之所以不能发作的真正理由。
 
-**读者视角提示：** 读者会在这一拍里看出：Enae 要找的人，此刻正坐在她身边。
+**读者视角提示：** 读者会在这一拍里看出：Enae 要找的人，此刻正坐在 ta 身边。
 
 ## 本章词汇
 

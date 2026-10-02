@@ -11,7 +11,7 @@ modified: "2026-10-02"
 - **情感弧线位置**：承接上一章的重逢，本章把胜负押在证词上：个人的自述连着制度性的指控，情绪从被围观的难堪一路升到威胁层面的叫嚣，末尾停在一句尚未兑现的灾难预告上。
 - **人物弧线**：Enae 从差点当场指认出袭击者，转为压住话头看清对手的算盘；Qven 从被人代称的沉默者，变成自己站起来把经过讲完的人；Reet 则第一次公开说出「我可能不属于任何地方」，却没有因此撤回诉求。
 - **叙事手法**：第三人称限制视角贴附 Enae，主体是一场逐人发言的听证，段落按发言人切开；Enae 的判断以内心独白插在引语之间，观察重点放在他人的身体反应而非内容上。
-- **视角**：第三人称叙述，贴近 Enae，用 sie/hir 指称她；章节地点行是 Committee Chambers, Central Treaty Administration Facility
+- **视角**：第三人称叙述，贴近 Enae，用 sie/hir 指称 ta；章节地点行是 Committee Chambers, Central Treaty Administration Facility
 
 ## 精读
 
@@ -31,7 +31,7 @@ modified: "2026-10-02"
 
 **关键词：** destined to become a Translator / all melted into each other / so hungry and… / put his arm around eir shoulders
 
-**为什么这样写：** 作证被写成一段被打断的朗读：两次「我不想」构成排比，第三次被省略号截断，紧接着镜头切给花园里那个画面，再一次「又饿又」也被截断。省略号出现的位置正是叙述者最该说下去的地方，Enae 只看见 Qven 抽鼻子——她把情绪的证据记在身体上，而不是词句上。
+**为什么这样写：** 作证被写成一段被打断的朗读：两次「我不想」构成排比，第三次被省略号截断，紧接着镜头切给花园里那个画面，再一次「又饿又」也被截断。省略号出现的位置正是叙述者最该说下去的地方，Enae 只看见 Qven 抽鼻子——ta 把情绪的证据记在身体上，而不是词句上。
 
 **读者视角提示：** 读者会注意到那两次截断都发生在同一个方向上：不是叙事拖沓，是作证的人在把最难受的部分推回去。
 
@@ -53,7 +53,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 这段靠一个提问完成判决：不是宣布结论，而是请全场确认一个已经成立的事实，再用「是这个意思吗」把所有人签上名。Sril 的不情愿被放在最后单独标注，于是这一票不是被驳倒，是被算进去的。程序被写成一场让反对者也点头的仪式。
 
-**读者视角提示：** 读者会注意到请愿在这里已经不再是一份申请：Qven 的名字是在他还没被问及之前就被写进结论里的。
+**读者视角提示：** 读者会注意到请愿在这里已经不再是一份申请：Qven 的名字是在 ta 还没被问及之前就被写进结论里的。
 
 > **原句 5:** "“These are my parents.” He shifted his head backward, just a bit, indicating Istver and Echemin Hluid. “This is my mom and my nana. And my maman is back in Zeosen, I guess.” Istver made an acknowledging noise. “I have siblings, I’m not their only child.” “So you’re telling the committee,” said Deputy Ormat, “that the Hluids are your family.” “Yes,” said Reet. “They’re not…” Enae thought he might not complete that thought aloud, he hesitated so long, but then he went on. “They’re not perfect. My nana can be… difficult sometimes. But they’ve always been there for me when I needed them. Even Nana. Especially Nana, sometimes.”"
 

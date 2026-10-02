@@ -45,7 +45,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 先让读者误以为是光，再用破折号自我更正为泪，最后用重力缺席解释泪为什么不落下。一个细节同时交代了三件事：Qven 在哭、他们在无重力区、这里不是正常空间。
 
-**读者视角提示：** 这是全章情绪转向的支点：无重力让眼泪悬着，也让 Qven 的崩溃显得无处可落——她的难受第一次有了物理形状。
+**读者视角提示：** 这是全章情绪转向的支点：无重力让眼泪悬着，也让 Qven 的崩溃显得无处可落——ta 的难受第一次有了物理形状。
 
 > **原句 4:** "To be me something whispered in the back of his mind, and he ignored that, or tried to. “I want to go look,” he said."
 

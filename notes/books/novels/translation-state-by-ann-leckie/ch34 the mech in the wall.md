@@ -9,7 +9,7 @@ modified: "2026-10-02"
 
 - **一句话概括**：Enae 贴近卡在墙里的 Geck 机甲才发现它是在替那位委员传话，被托付去把 Qven 带回；她用零食包装做记号试出走廊是螺旋，第五圈撞上带引力的区域，一头栽了进去。
 - **情感弧线位置**：承接上一章的幽闭绝望，靠「发现机甲还能说话」托住情绪，随后在第五圈转成一次无从准备的下坠。
-- **人物弧线**：Enae 从「照做就够」的顺从，转成第一次主动使用工具去检验自己的判断——尽管检验的结果是走廊并不服从她常识里的空间。
+- **人物弧线**：Enae 从「照做就够」的顺从，转成第一次主动使用工具去检验自己的判断——尽管检验的结果是走廊并不服从 ta 常识里的空间。
 - **叙事手法**：第三人称限制视角，紧贴 Enae；全章跟随她从机甲一路转到螺旋深处，靠触碰与视觉的细节推进，没有全知解释。
 - **视角**：第三人称限制，sie / hir 性别中立代词体系；本章叙述者为 Enae
 
@@ -43,7 +43,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 这一段是刻意的自我纠正，连续两次转折：先排除「那人」，再排除「那民族」，最后缩到最小单位——一具机器。每一次 But it wasn’t 都在把上一级身份收掉。
 
-**读者视角提示：** 读者在这里被提醒：Enae 判断的依据是她自己的经验而不是事实，而她自己也承认了这一点。整章她的可靠性由此被打了折扣。
+**读者视角提示：** 读者在这里被提醒：Enae 判断的依据是 ta 自己的经验而不是事实，而 ta 自己也承认了这一点。整章她的可靠性由此被打了折扣。
 
 > **原句 4:** "“Translator Dlar has done this,” whispered the mech. “We do not know where Translator Dlar is. The committee member for the Presger says, if they undo this without knowing exactly what it is that Translator Dlar has done, they may kill all who are trapped. They did not know if anyone was trapped or if all were dead. The station is… that part of the station is not right. Also the Siblings of Hikipu, their ship is still here, and still they threaten the station.” Silence. More twitching. Then, “You say the child Qven has opened a door. This is not possible, says the committee member for the Presger."
 
@@ -73,7 +73,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 这里用动作的重复来替代解释：三四次是唯一的验证手段。句末把「连空气都没影响到」补上，等于把物件的存在从触觉推回到物理，仍然不给答案。
 
-**读者视角提示：** 读者在此确认：Enae 面对的不是自己记错路，而是那条走廊本身不按她熟悉的方式成立——所以后面那声「是螺旋」不是灵光一现，是排除法的终点。
+**读者视角提示：** 读者在此确认：Enae 面对的不是自己记错路，而是那条走廊本身不按 ta 熟悉的方式成立——所以后面那声「是螺旋」不是灵光一现，是排除法的终点。
 
 > **原句 7:** "“It’s a spiral,” sie murmured to hirself. “It’s a spiral,” sie called, so that the others could hear hir. “It looks like a closed loop but it’s a spiral.”"
 
@@ -91,9 +91,9 @@ modified: "2026-10-02"
 
 **关键词：** There’s gravity there / slowing hir / grabbed hir arm
 
-**为什么这样写：** 本章末段的加速点落在一个简单祈使句上。Sphene 的动作是纠正不是阻拦：先减速、再转向，两步都是为了让 Enae 有时间改主意。Enae 下一段的回应是反驳推理（万一那边也不算数），说明她已经进入验证状态。
+**为什么这样写：** 本章末段的加速点落在一个简单祈使句上。Sphene 的动作是纠正不是阻拦：先减速、再转向，两步都是为了让 Enae 有时间改主意。Enae 下一段的回应是反驳推理（万一那边也不算数），说明 ta 已经进入验证状态。
 
-**读者视角提示：** 读者在最后一秒才听见 gravity 这个词——Enae 用掉整章数圈走廊才走到有重力的地方，而重力随即把她向下拖走。
+**读者视角提示：** 读者在最后一秒才听见 gravity 这个词——Enae 用掉整章数圈走廊才走到有重力的地方，而重力随即把 ta 向下拖走。
 
 ## 本章词汇
 
@@ -133,4 +133,4 @@ modified: "2026-10-02"
 
 ## 一句话总结
 
-Enae 本章的收获是一句判断和一次坠落：她贴到机甲跟前才听见委员在隔墙传话，又靠一张零食包装纸试出走廊是螺旋不是环——但走到第五圈时，重力回来了，而她对前两者都还没有答案。
+Enae 本章的收获是一句判断和一次坠落：ta 贴到机甲跟前才听见委员在隔墙传话，又靠一张零食包装纸试出走廊是螺旋不是环——但走到第五圈时，重力回来了，而 ta 对前两者都还没有答案。

@@ -11,7 +11,7 @@ modified: "2026-10-02"
 - **情感弧线位置**：承接上一章的私下剖白，本章把战线推到公开对撞的层级，压迫感持续抬高；末尾从争论里退出来，转成一段被听见的私事，情绪由硬转软。
 - **人物弧线**：Enae 从在会议里当记录者，变成当面要求对方把话讲明白、再主动把私事交出去的人；Seimet 被剥掉官腔后露出恐惧，Istver 则用一句「我很高兴是你」替她把位置坐稳。
 - **叙事手法**：第三人称限制视角贴附 Enae，前半是一整场会议以对话推进，后半切成走廊与住处两段独处，全章靠代词与人称在几组人物之间滑动制造摩擦。
-- **视角**：第三人称叙述，贴近 Enae，全章用 sie/hir 指称她；章节地点行是 Central Treaty Administration Facility
+- **视角**：第三人称叙述，贴近 Enae，全章用 sie/hir 指称 ta；章节地点行是 Central Treaty Administration Facility
 
 ## 精读
 
@@ -73,7 +73,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 这一段严格用并列结构：先给四样给的（衣服、饭、屋顶、教育和零用钱），再给一句转折（以及批评），然后是四个问句，每一问都以别人的要求收尾。忍耐被压成一个单词，而那个单词本身是「结束」的词形——叙述把 Enae 的一生写成了一个已经完成的时态。
 
-**读者视角提示：** 读者会在这里第一次听见 Enae 讲自己的损失，而她的损失全部是可量化的：四项供给、零项自主要求。
+**读者视角提示：** 读者会在这里第一次听见 Enae 讲自己的损失，而 ta 的损失全部是可量化的：四项供给、零项自主要求。
 
 > **原句 7:** "They thought there was.” And when Istver frowned in puzzlement, Enae told her about the funeral. About learning that there was no money, had not been for years. That the name and the house had been sold to a stranger. “Your grandmother provided for you, though,” Istver pointed out. “Out of everyone else.” “She did,” Enae admitted. “And the first thing the new heir did was send me away. I was out here looking for Reet because everyone at home wanted to be rid of me.”"
 
@@ -93,7 +93,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 这段靠三个破折号式的省略推进：Enae 那句「就算……」被咽下去，Istver 那句「就算那有时还不够」把它接住。安慰不给结论，只给一句「尽力了」，而且立刻承认尽力常常不够——两条都收在 even if 上，让这份承认显得是预先准备好的，而不是被逼出来的。
 
-**读者视角提示：** 读者会注意到 Enae 拒绝的那个提议正是本章的任务：她宁可解释自己的私事，也不肯说「如果不是我们，他本来可以安稳过日子」——因为她知道自己正是被逐出那个安稳的人。
+**读者视角提示：** 读者会注意到 Enae 拒绝的那个提议正是本章的任务：ta 宁可解释自己的私事，也不肯说「如果不是我们，他本来可以安稳过日子」——因为 ta 知道自己正是被逐出那个安稳的人。
 
 ## 本章词汇
 

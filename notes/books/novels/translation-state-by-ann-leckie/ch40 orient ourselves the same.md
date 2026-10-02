@@ -41,7 +41,7 @@ modified: "2026-10-02"
 
 **关键词：** triumph in eir voice / I did it / I made a door
 
-**为什么这样写：** 本章标题式的句子是第一人称的完成时，而它的对象是门不是合并。Qven 的自我描述用的是前两章一直在练习的那个动作（造门），而不是别人交给他的那件事。
+**为什么这样写：** 本章标题式的句子是第一人称的完成时，而它的对象是门不是合并。Qven 的自我描述用的是前两章一直在练习的那个动作（造门），而不是别人交给 ta 的那件事。
 
 **读者视角提示：** 读者会想起上一章他伸手准备碰机甲——这一句把那个动作的结果换掉了。
 
@@ -57,13 +57,13 @@ modified: "2026-10-02"
 
 > **原句 5:** "And then the whole mass of people tumbled to the floor, and the committee chambers were the way they had been. And suddenly someone new was at Enae’s side, asking if sie was all right. “I’m fine,” sie said from the floor, through a haze of pain. “I mean, my wrist might be broken, and I think I sprained my knee. But I’m fine. You should look at Translator Dlar.”"
 
-**中文理解：** 接着整团人一起摔到地板上，而委员会厅恢复成了它原来的样子。突然有一个陌生人到了 Enae 身边，问她有没有事。「我没事。」她躺在地板上、从一片疼痛的雾里说。「我是说，我的手腕可能断了，膝盖大概也扭了。可我没事。你该去看看 Translator Dlar。」
+**中文理解：** 接着整团人一起摔到地板上，而委员会厅恢复成了它原来的样子。突然有一个陌生人到了 Enae 身边，问 ta 有没有事。「我没事。」她躺在地板上、从一片疼痛的雾里说。「我是说，我的手腕可能断了，膝盖大概也扭了。可我没事。你该去看看 Translator Dlar。」
 
 **关键词：** the whole mass of people tumbled to the floor / the committee chambers were the way they had been / I think I sprained my knee
 
 **为什么这样写：** 空间复原只用一句，且用比较级（the way they had been）而不是「变回来了」。Enae 的伤情自述用三个降级说法串起来（可能断了／大概也扭了／可我没事），最后一句把注意力推回 Translator Dlar。
 
-**读者视角提示：** 读者会在这里第一次听见 Enae 明确说自己没事——在此之前她从没这么说过。
+**读者视角提示：** 读者会在这里第一次听见 Enae 明确说自己没事——在此之前 ta 从没这么说过。
 
 > **原句 6:** "“Stop!” sie cried. “Isn’t it obvious? You’ve lost this one, Ambassador Seimet. No, don’t sneer at me, I’ve had enough of that. The committee has to meet now, and they have to declare Reet and Qven human as quickly as possible. And then Qven has to make a door to the Hikipi ship.”"
 

@@ -73,7 +73,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 两句没说完的话都被作者留在半空：Tzam 只喊得出名字，Qven 只问得出「怎么」。她的问题不是「他为什么知道」，是「他们怎么做到的」——身体记忆先于理智，脖子上那处凹陷替她把句子说完。Teacher 的松口气是这一段唯一的暖色，暖得可疑。
 
-**读者视角提示：** 读者会比 Qven 更早意识到危险：她能问出这个问题，说明她自己身上也有一块补丁。ch24 之后读者才明白那是什么。
+**读者视角提示：** 读者会比 Qven 更早意识到危险：ta 能问出这个问题，说明 ta 自己身上也有一块补丁。ch24 之后读者才明白那是什么。
 
 > **原句 7:** "I took refuge in habit. “I am so very pleased to meet you, Reet,” I recited. They looked at me as though my words had been a question that was far too difficult for them to answer. Teacher only stood there, watching. I leaned forward and said, quietly, “There’s a schedule. And a script. But if you’re ill you can drink tea in bed.” And then, louder, gesturing at the table and its two chairs, “My goodness. I think we could do with some tea.” Reet stared blankly at me. “Now you say, Tea sounds lovely, and you sit in a chair.” “Tea sounds lovely,” Reet said, and sat. In the chair, like they should. I hadn’t been certain, considering the vacant stare and the distinct possibility that they’d had no education to speak of."
 

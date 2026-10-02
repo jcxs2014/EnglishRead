@@ -9,7 +9,7 @@ modified: "2026-10-02"
 
 - **一句话概括**：Enae 陪双亲面见条约代理人 Ms Yedess，得知归属之诉三百年无人挑战、且「进入 Presger 区的人类即官方死亡」这条并非条约的政策；Geck 一方递交了请愿，她随后见到低重力 Hasiven 籍法学家 Batonen，被提醒 Siblings of Hikipu 另有一份请愿正在路上。
 - **情感弧线位置**：承接上一章被赶走之后的转场：从一趟全是程序的会面开始，坏消息一条比一条具体（规则、盟友、敌方的请愿），情绪不靠事件起伏，而靠人物把坏消息说出口时的措辞慢慢下沉。
-- **人物弧线**：Enae 从跑腿的调查员变成必须听懂规则的人：她学会用「怎么利用这条」而不是「这公平吗」来提问；同一个上午，双亲也从等待变成各自拿出证据——一个交出记录，一个交出自己最不愿承认的回忆。
+- **人物弧线**：Enae 从跑腿的调查员变成必须听懂规则的人：ta 学会用「怎么利用这条」而不是「这公平吗」来提问；同一个上午，双亲也从等待变成各自拿出证据——一个交出记录，一个交出自己最不愿承认的回忆。
 - **叙事手法**：两个地点各一场会议，全靠对话推进；长段落被 Ms Yedess 的事务性口吻切成一段一段的通报，读者靠她每次说「说到正事」之类的话感到场景在移动。
 - **视角**：第三人称限制，sie / hir 性别中立代词体系；本章叙述者为 Enae
 
@@ -67,7 +67,7 @@ modified: "2026-10-02"
 
 > **原句 6:** "He wanted to cut people open and eat them,” said Echemin, brusquely. “We thought he was just, you know, having a joke.” Odd sort of joke, thought Enae. “Did he ever? Cut anyone open, I mean,” asked Batonen. “Or eat anyone.” Echemin stood. “How dare you! This is our son.” “Of course he is,” said Batonen, calmly. “But before I speak favorably to my superior about this case, I want to be certain I’m not unleashing something dangerous on you and your people. You know your son. I do not, and can’t be expected to. So I ask these questions"
 
-**中文理解：** 「『他小时候有过咬人的问题，』Istver 说，『那把托儿所的保育员吓得不轻——那些人是见惯了各种孩子的。一个孩子确实需要急救。不过那之后就结了。Reet 那时几乎还不会说话，但我相信他一旦意识到自己真的伤到了人，就停了。』——『再怎么说也是个说得通的假设，』Batonen 说。『那他长大以后呢？』『他有过……』Istver 犹豫了。『有一次，一个职业顾问问他将来想做什么，他就说……』Enae 觉得她几乎说不出那是什么。然后 Istver 看向 Echemin，无声地求助。『他说他想把人剖开吃掉。』Echemin 生硬地说。『我们当时以为他只是在开玩笑。』——奇怪的那种玩笑，Enae 想。『他真的干过吗？我是说，剖开过谁？』Batonen 问，『或者吃过谁？』Echemin 站起身。『你怎么敢！这是我们的儿子！』『当然是，』Batonen 平静地说，『但在我向我的上级为这个案子说好话之前，我要确定我没有把危险的东西放到你们和你们的人身上。你们了解你们的儿子。我不了解，也没有理由该了解。所以我才有这些问题。』」
+**中文理解：** 「『他小时候有过咬人的问题，』Istver 说，『那把托儿所的保育员吓得不轻——那些人是见惯了各种孩子的。一个孩子确实需要急救。不过那之后就结了。Reet 那时几乎还不会说话，但我相信他一旦意识到自己真的伤到了人，就停了。』——『再怎么说也是个说得通的假设，』Batonen 说。『那他长大以后呢？』『他有过……』Istver 犹豫了。『有一次，一个职业顾问问他将来想做什么，他就说……』Enae 觉得 ta 几乎说不出那是什么。然后 Istver 看向 Echemin，无声地求助。『他说他想把人剖开吃掉。』Echemin 生硬地说。『我们当时以为他只是在开玩笑。』——奇怪的那种玩笑，Enae 想。『他真的干过吗？我是说，剖开过谁？』Batonen 问，『或者吃过谁？』Echemin 站起身。『你怎么敢！这是我们的儿子！』『当然是，』Batonen 平静地说，『但在我向我的上级为这个案子说好话之前，我要确定我没有把危险的东西放到你们和你们的人身上。你们了解你们的儿子。我不了解，也没有理由该了解。所以我才有这些问题。』」
 
 **关键词：** We thought he was just, you know, having a joke / Odd sort of joke / not unleashing something dangerous
 

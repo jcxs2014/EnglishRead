@@ -11,7 +11,7 @@ modified: "2026-10-02"
 - **情感弧线位置**：承接上一章成功推门，本章把空间从开阔收回到三个人和一间小屋，情绪由强撑镇定滑向无处可躲的自责，再在末尾转成一个小而具体的行动念头；紧张没有解除，但被换成了可做的事。
 - **人物弧线**：Enae 从扮演主心骨到在沉默里承认自己会怕，最后把一段童年记忆换算成眼下能做的事；Echemin 说出最难听也最真的一句劝告，Istver 则第一次没有反驳他。
 - **叙事手法**：第三人称限制视角贴附 Enae，通篇是一间房里三人的对话与独白交替；关键处用重复句自我打断（如果真有紧急情况……如果真有紧急情况），再让一段关于祖母的回忆以清单式的自我判词落地。
-- **视角**：第三人称叙述，贴近 Enae，用 sie/hir 指称她；章节地点行只写 Somewhere，没有更具体的地点
+- **视角**：第三人称叙述，贴近 Enae，用 sie/hir 指称 ta；章节地点行只写 Somewhere，没有更具体的地点
 
 ## 精读
 
@@ -23,7 +23,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 这段把「维持秩序」写成一种会自己失败的尝试：她先宣布要靠紧，随即发现自己没有任何东西可以借力；同一句「如果真有紧急情况」被说了两遍，中间夹着一次被压下去的笑——句子重复本身就是心虚的证据。结尾连情绪的名字都不确定（愧疚？总之是难受），把自我审判交给一个临时替换的词。
 
-**读者视角提示：** 读者会在这里第一次看见 Enae 用「主人」的语气说话，而她用的力气全花在压住一声笑上。
+**读者视角提示：** 读者会在这里第一次看见 Enae 用「主人」的语气说话，而 ta 用的力气全花在压住一声笑上。
 
 > **原句 2:** "“We’ll be fine,” said Enae, not wanting any arguments. “We have air. I have some water in my bag.” “So do I,” said Istver. Enae nodded, and then wished sie hadn’t. It felt very strange to be nodding with no gravity. “We have air and water, and we can go days without food, even if we won’t enjoy that. And they’ll be looking for us. The Presger did this—or Translator Dlar did. Either way, they’ll fix it and come get us.” Maybe. Sie hoped. But there was no point in thinking about that, in wondering what would happen if no one came looking for them, if no one could. If that happened, they would find out soon enough, no need to speculate. “We just have to be patient.”"
 
@@ -53,7 +53,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 同情是从一台机器开始的：她先接受官方的说法（没有心智），再用一个问句推翻它（它是活的，不是吗），然后把这份同情一路外推——从自己推到父母、推到两个刚认识的人、推到房里所有她不认识的人。四个假设句一次比一次快，恐惧在形式上就等于道德。
 
-**读者视角提示：** 读者会在这里第一次看见 Enae 那种职业性的推演能力：她数人，从自己数到全场。
+**读者视角提示：** 读者会在这里第一次看见 Enae 那种职业性的推演能力：ta 数人，从自己数到全场。
 
 > **原句 5:** "They were going to die. No, they weren’t. Maybe someone would come. Maybe Reet and Qven would find something, someone, and come back for them. “He shouldn’t come back,” said Echemin, as though e had been hearing Enae’s thoughts. Enae, shocked, expected Istver to say something like hush or not helpful, Min, but she said nothing. “He should get as far away from here as he can,” continued Echemin. “Him and that Qven. E’s a little odd, but then so is Reet. And Reet seemed to like em.” “E seemed to like Reet,” said Istver. “They need to get away,” said Echemin. “No wonder Reet’s… progenitor ran away.” “Now, Min,” said Istver. “We don’t know all the circumstances.”"
 
@@ -67,7 +67,7 @@ modified: "2026-10-02"
 
 > **原句 6:** "“Children leave parents behind,” said Istver. “It’s what they’re supposed to do, one way or another.” “Yes, but.” Enae stopped. Had to think about that. It felt so backward to hir own experience of parents. Children leave parents behind. Sie guessed it was true, or often true. But. “He might not,” said Echemin. “He might not but he should.” “Are you hoping that he does?” asked Enae, feeling panicked, more panicked than she had been, but sie wasn’t sure why. “I don’t know,” said Istver, as though she and Echemin were in complete agreement on this, as though she could speak for herself and em both, and Echemin didn’t interrupt or contradict. “I don’t want to be trapped here and… I don’t want us to be trapped here. But I also want my son to be free to live his life. We came all this way for that.”"
 
-**中文理解：** 「Reet 不会丢下你们，」Enae 说，或者说试图说。sie 咽了一下，又来一次。「Reet 不会丢下你们。你们是他的父母。你们一路赶来帮他。他不会把你们丢在后面。」「孩子会把父母丢在后面，」Istver 说，「不管用哪种方式，这本来就是他们该做的。」「是啊，可是……」Enae 停住，得想一想。那和她自己的父母经验正好相反。孩子会把父母丢在后面。sie 猜这是真的，或者常常是真的。可是……「他也许不会，」Echemin 说，「他也许不会，可他应该。」「你希望他真的那么做吗？」Enae 问，感到自己比刚才更慌，可她不确定为什么。「我不知道，」Istver 说，那口气像她和 Echemin 完全一致，像她能代表他们两个说话，而 Echemin 没有打断也没有反驳。「我不想被困在这里，而且……我不想让我们被困在这里。可我也想让我儿子能自由地过他自己的生活。我们千里迢迢来，就是为了这个。」
+**中文理解：** 「Reet 不会丢下你们，」Enae 说，或者说试图说。sie 咽了一下，又来一次。「Reet 不会丢下你们。你们是他的父母。你们一路赶来帮他。他不会把你们丢在后面。」「孩子会把父母丢在后面，」Istver 说，「不管用哪种方式，这本来就是他们该做的。」「是啊，可是……」Enae 停住，得想一想。那和她自己的父母经验正好相反。孩子会把父母丢在后面。sie 猜这是真的，或者常常是真的。可是……「他也许不会，」Echemin 说，「他也许不会，可他应该。」「你希望他真的那么做吗？」Enae 问，感到自己比刚才更慌，可 ta 不确定为什么。「我不知道，」Istver 说，那口气像她和 Echemin 完全一致，像她能代表他们两个说话，而 Echemin 没有打断也没有反驳。「我不想被困在这里，而且……我不想让我们被困在这里。可我也想让我儿子能自由地过他自己的生活。我们千里迢迢来，就是为了这个。」
 
 **关键词：** Children leave parents behind / It’s what they’re supposed to do / He might not but he should / I don’t want to be trapped here and / free to live his life
 
@@ -77,13 +77,13 @@ modified: "2026-10-02"
 
 > **原句 7:** "Enae’s mother had left Grandmaman. For very good reasons, Enae knew. Knew very personally, without anyone ever having to explain to hir. But Grandmaman didn’t have to raise Enae herself, could have sent hir away to some crèche, could have refused to acknowledge Enae as family, anything at all. Instead she’d taken Enae in. And never let me leave. Sie was not going to cry. Sie was not. And after all, what sort of person was sie, to be so ungrateful to the woman who had taken hir in, who had, in the end, made sure sie was cared for? The sort of person who had resented Grandmaman as much as sie had loved her, from the moment sie had come to Athtur House. Ungrateful. Disloyal. Selfish."
 
-**中文理解：** Enae 的母亲离开了祖母。Enae 很清楚原因，清清楚楚，不需要谁来讲。可祖母本不必亲自把 Enae 带大，本可以把她送去某个托儿所，本可以不认这个家人，本可以做任何事。可她收留了 Enae。而且从不让她走。sie 不会哭。sie 不会。而且说到底，sie 是哪种人呢——会对那个收留了她、最终确保她有人照看的人如此忘恩负义？那种从踏进 Athtur House 的那一刻起，就有多爱祖母就有多怨祖母的人。忘恩负义。不忠。自私。
+**中文理解：** Enae 的母亲离开了祖母。Enae 很清楚原因，清清楚楚，不需要谁来讲。可祖母本不必亲自把 Enae 带大，本可以把 ta 送去某个托儿所，本可以不认这个家人，本可以做任何事。可她收留了 Enae。而且从不让她走。sie 不会哭。sie 不会。而且说到底，sie 是哪种人呢——会对那个收留了她、最终确保她有人照看的人如此忘恩负义？那种从踏进 Athtur House 的那一刻起，就有多爱祖母就有多怨祖母的人。忘恩负义。不忠。自私。
 
 **关键词：** For very good reasons / could have refused to acknowledge Enae as family / And never let me leave / as much as sie had loved her
 
 **为什么这样写：** 这段的修辞是自我宣判：作者先让叙述者替祖母列出一份本可以不做的清单，再让一个转折句推翻这份宽容（而且从不让我走），最后用三个并列的短词结案。三个词里没有一个是关于处境的，全是关于品格的——也就是说她审的不是自己逃出来这件事，是自己心里那点怨。
 
-**读者视角提示：** 读者会在这里把 Enae 的处境与她的旧账连起来：她这一次也是被人从家里带走的，而她心里第一个冒出来的念头，是祖母当年那句别走。
+**读者视角提示：** 读者会在这里把 Enae 的处境与 ta 的旧账连起来：ta 这一次也是被人从家里带走的，而 ta 心里第一个冒出来的念头，是祖母当年那句别走。
 
 > **原句 8:** "“Or get a message to someone outside,” said Istver. The mech in the wall gurgled again and thrashed its legs. And sie found it, then. That thing, whatever it was, that had gotten hir through the worst times, in the past. Or at least sie saw the edges of it. “Oh.” Sie wiped hir eyes on the hem of hir shirt. “How do the Geck control the mechs? They do it from very far away, don’t they? I mean…” Sie trailed off. It was a ridiculous idea. But it didn’t matter because what other options did they have? “Maybe we can use it to get a message out. Or maybe.” Sie almost didn’t dare say it. “Maybe the committee member is trying to talk to us.” It didn’t matter how likely that was, or even if it was possible. “Here, let’s see if we can get over to that side of the room and take a look at the mech."
 

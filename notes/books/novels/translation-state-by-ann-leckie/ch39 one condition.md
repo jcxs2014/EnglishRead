@@ -10,7 +10,7 @@ modified: "2026-10-02"
 - **一句话概括**：Qven 逼 Teacher 转达条件，并当场把 Mom、Batonen 与 Committee Member Agagag 叫作证人，逼机甲把「Reet 与 Qven 是人、不受其管辖」记入委员会临时议程，随后伸手准备与机甲合并——指尖将触未触时 Reet 冲进来喊找到了 Translator Dlar。
 - **情感弧线位置**：承接上一章的僵持，是全靠意志撑住的一段谈判；结尾一只手伸出去、一个声音喊进来，两股力在最后一行撞在一起。
 - **人物弧线**：Qven 从被要求合并的一方，变成拿证人逼对方记录的一方；他第一次说出「这是你的选择」，也第一次把选择权交回别人手里。
-- **叙事手法**：第一人称（我）自述；全章是一场隔着机甲进行的谈判，Qven 的身体动作（抱臂、伸手、闭眼）承担了他不肯直说的决心。
+- **叙事手法**：第一人称（我）自述；全章是一场隔着机甲进行的谈判，Qven 的身体动作（抱臂、伸手、闭眼）承担了 ta 不肯直说的决心。
 - **视角**：第一人称（我）叙述；本章叙述者为 Qven
 
 ## 精读
@@ -23,7 +23,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 道歉在说出前被撤回（No, I’m not sorry），而撤回的理由是下面那句更重的话。这是全章唯一一次有成年人对 Teacher 说话，而她用的仍是 if 这个假设句。
 
-**读者视角提示：** 读者在此看到：Qven 第一次被一个不是自己人的人当面替他说话。
+**读者视角提示：** 读者在此看到：Qven 第一次被一个不是自己人的人当面替 ta 说话。
 
 > **原句 2:** "And suddenly I didn’t feel so alone. It’s true, Mom and Nana weren’t my mom and nana. Even though I wanted them to be. But they cared about me, and they cared what happened to me. And maybe that was only because of Reet, but did that matter? Reet had said that Mom and Nana, and his maman, took children into their house who needed a family. That Reet had been one of those children. Well, I needed a family, or I wanted one, and they cared. Maybe if I had matched with Reet they would have hugged me and tucked me in, just like the parents in the shows"
 
@@ -73,7 +73,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 这一段的语法是被动的：admit 后面不写是谁承认、承认给谁，只写被承认的内容与效力。记录的形式（临时议程、待其他成员知悉）也写明在句中——这不是终局，是被存起来的一笔。
 
-**读者视角提示：** 读者会注意措辞的分寸：Qven 得到的是被记进议程的承认，而不是当场生效的裁定——他拿到的是凭证，不是判决。
+**读者视角提示：** 读者会注意措辞的分寸：Qven 得到的是被记进议程的承认，而不是当场生效的裁定——ta 拿到的是凭证，不是判决。
 
 > **原句 7:** "I closed my eyes. How should I do this? I didn’t really know how to start matching on purpose. The only thing I could think of to do was reach out and touch the mech where it stuck out of the wall, and wait to see what happened next. I opened my eyes again. Reached out my hand for the twitching limbs of the mech. For what might be my death."
 
@@ -91,7 +91,7 @@ modified: "2026-10-02"
 
 **关键词：** came Reet’s voice, from the door / We think we’ve found Translator Dlar
 
-**为什么这样写：** 全章以一句喊声结束，且声音的来源被点明是门口。台词本身没有转述成内心，Qven 也没有反应——章节在他还没来得及回答时切掉。
+**为什么这样写：** 全章以一句喊声结束，且声音的来源被点明是门口。台词本身没有转述成内心，Qven 也没有反应——章节在 ta 还没来得及回答时切掉。
 
 **读者视角提示：** 读者会带着未完成的动作读下一章：手伸出去，然后被一声喊叫截断。
 

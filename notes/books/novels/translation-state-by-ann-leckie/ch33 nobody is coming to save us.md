@@ -11,7 +11,7 @@ modified: "2026-10-02"
 - **情感弧线位置**：承接上一章的相互取暖，转入信息到手却更无路的低谷；情绪不靠事件推，靠 Qven 想停下来不走的念头。
 - **人物弧线**：Qven 从「我是错误」滑到「我不想待在这里」——她第一次想要一个具体的、属于别人的东西（钻进毯子贴着 Reet）；Reet 第一次把私藏的生活经验拿来当救命的教材。
 - **叙事手法**：第一人称限制视角，Qven 的想头与身体反应同步；先给出口（找到盟友），再立刻收回（门开不了）；新人物 Sphene 一登场就以「你杀的人比我多」互相试探。
-- **视角**：第一人称，Qven 的 I；本章是她第一次与 Sphene 正面交谈，也是 e 这个代词被 Reet 之外的第三方听见
+- **视角**：第一人称，Qven 的 I；本章是 ta 第一次与 Sphene 正面交谈，也是 e 这个代词被 Reet 之外的第三方听见
 
 ## 精读
 
@@ -34,7 +34,7 @@ modified: "2026-10-02"
 
 **为什么这样写：** 对方的威胁是「你追不上我」，而拒绝的理由不是能力不足，是不想——这是 Qven 第一次明确表示自己不是那种会为位置而争的人，也提前交代了她与 Sphene 之间那条不会变成敌对的线。
 
-**读者视角提示：** 读者会把这句当作 Qven 的第一次自我定义：她不追求成为最大的那个，她只想不被吃掉。
+**读者视角提示：** 读者会把这句当作 Qven 的第一次自我定义：ta 不追求成为最大的那个，ta 只想不被吃掉。
 
 > **原句 3:** "“I know—or suspect is more accurate—that they’re a manipulation of gate space.” “That’s all right, then,” said the sinuous person. “You already know how to manipulate gate space.” “Not like this I don’t,” said Sphene. “And I need parts of myself to do it that aren’t here and that I’m cut off from."
 
@@ -44,7 +44,7 @@ modified: "2026-10-02"
 
 **关键词：** a manipulation of gate space / I need parts of myself to do it / cut off from
 
-**为什么这样写：** 关键信息由自称「怀疑」而非「确定」的人给出，随即被自己的一句抱怨推翻——Sphene 掌握能力却缺少零件。这让 Qven 的能力不再是唯一筹码：她有门，Sphene 有知识，两个人都需要对方才能走完。
+**为什么这样写：** 关键信息由自称「怀疑」而非「确定」的人给出，随即被自己的一句抱怨推翻——Sphene 掌握能力却缺少零件。这让 Qven 的能力不再是唯一筹码：ta 有门，Sphene 有知识，两个人都需要对方才能走完。
 
 **读者视角提示：** 读者会理解为什么这一章的 Qven 既拿到了路线也仍旧没出路：知道门是什么，和能打开门，是两回事。
 
@@ -56,9 +56,9 @@ modified: "2026-10-02"
 
 **关键词：** What if it never stops / around and around and around / emergency drills
 
-**为什么这样写：** 重复三次的绕圈直接模仿了走廊的实际体验，让读者跟着窒息；紧接着用一句不相干的日常问话打断——这个转换是全章的支点，Qven 的世界里有「演练」这个概念，是因为她连坏事都不被告知会发生。
+**为什么这样写：** 重复三次的绕圈直接模仿了走廊的实际体验，让读者跟着窒息；紧接着用一句不相干的日常问话打断——这个转换是全章的支点，Qven 的世界里有「演练」这个概念，是因为 ta 连坏事都不被告知会发生。
 
-**读者视角提示：** 读者会在这里意识到：Qven 之所以脆弱，不是因为她脆弱，而是没人预先教过她坏事的应对方式。
+**读者视角提示：** 读者会在这里意识到：Qven 之所以脆弱，不是因为 ta 脆弱，而是没人预先教过 ta 坏事的应对方式。
 
 > **原句 5:** "“No. Nobody ever said anything bad might happen.” But bad things had happened. Maybe it would have been good to practice."
 
@@ -68,9 +68,9 @@ modified: "2026-10-02"
 
 **关键词：** Nobody ever said anything bad might happen / bad things had happened / good to practice
 
-**为什么这样写：** Qven 的否认和叙述者的补充分成两句，前一句是她的声音，后一句是作者的判断——两者不冲突，反而把她的处境说尽了：她不是不懂，是没被告知过要懂。
+**为什么这样写：** Qven 的否认和叙述者的补充分成两句，前一句是 ta 的声音，后一句是作者的判断——两者不冲突，反而把 ta 的处境说尽了：ta 不是不懂，是没被告知过要懂。
 
-**读者视角提示：** 读者会在这里第一次感到 Qven 那种特殊的被动：她的整个人生是被安排好的，连「出事」都不在通知范围内。
+**读者视角提示：** 读者会在这里第一次感到 Qven 那种特殊的被动：ta 的整个人生是被安排好的，连「出事」都不在通知范围内。
 
 > **原句 6:** "“Amaat preserve me,” she muttered. Opened her eyes again, and said, “You can keep going around the spiral. You should. But I’m not optimistic. If anyone could have come for us, they would have already. Either Translator Dlar wrenched us completely away from the universe, or anyone who would be rescuing us is busy doing something else. Like dealing with a ship that might be threatening the Central Treaty Administration Facility.” “Death to the Phen oppressors,” said Reet, ruefully. “Lovely friends you have,” said the ambassador. “You’re the one who brought them into the committee room,” Reet pointed out. “Not me, not Qven. Not my parents"
 

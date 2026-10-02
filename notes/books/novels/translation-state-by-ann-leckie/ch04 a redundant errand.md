@@ -47,7 +47,7 @@ modified: "2026-10-02"
 
 > **原句 4:** "So the Office of Diplomacy had informed Ambassador Tiniye that, after a full investigation, it had been determined that the fugitive had never come through Saeniss, or its system, and then the matter had been shelved. And now, for no good reason at all as far as Enae could see, it had been handed to hir to follow up on."
 
-**中文理解：** 于是外交部告知 Tiniye 大使：经全面调查，已认定该逃犯从未经过 Saeniss 或其星系，案子就此搁置。可现在，出于 Enae 看来完全没有道理的原因，这件事被交到了她手上继续跟。
+**中文理解：** 于是外交部告知 Tiniye 大使：经全面调查，已认定该逃犯从未经过 Saeniss 或其星系，案子就此搁置。可现在，出于 Enae 看来完全没有道理的原因，这件事被交到了 ta 手上继续跟。
 
 **关键词：** after a full investigation, it had been determined / the matter had been shelved / for no good reason at all
 
@@ -61,7 +61,7 @@ modified: "2026-10-02"
 
 **关键词：** It was perfect / knew Enae’s tastes extremely well / made Enae even less sure of hirself
 
-**为什么这样写：** 整段用四个 with 排比把味道拆开，it had to have been made by someone who knew… 把结论写成推断，可推断的结论是这份体贴比忽视更让人不安。作者不给 Enae 一句台词，让她对被善待这件事的恐惧自己成立。
+**为什么这样写：** 整段用四个 with 排比把味道拆开，it had to have been made by someone who knew… 把结论写成推断，可推断的结论是这份体贴比忽视更让人不安。作者不给 Enae 一句台词，让 ta 对被善待这件事的恐惧自己成立。
 
 **读者视角提示：** 读者会在这里第一次感到：被照顾不等于被接纳，而 Enae 立刻就分辨出了这两者。
 
@@ -87,11 +87,11 @@ modified: "2026-10-02"
 
 > **原句 8:** "“I suppose so.” Sie found hirself at a loss again, and then remembered that sie lived here, had lived here all of hir life, that this other person—Caphing—was the interloper. Sie chose a chair and sat."
 
-**中文理解：** 「我想可以。」Enae 又一次发现自己不知如何是好，随即记起来：她住在这里，一直住在这里；而眼前这个人——Caphing——才是那个闯入者。她挑了把椅子坐下。
+**中文理解：** 「我想可以。」Enae 又一次发现自己不知如何是好，随即记起来：ta 住在这里，一直住在这里；而眼前这个人——Caphing——才是那个闯入者。她挑了把椅子坐下。
 
 **关键词：** found hirself at a loss again / the interloper / Sie chose a chair and sat
 
-**为什么这样写：** 人物关系的定义权在这一段被悄悄反转：对方以 Aunt 与表侄的身份要求叫她 Enae，她答应了，紧接着内心用上一章 Zemil 那句 interloper 把这个身份定位顶回去。同一段里第三人称从 sie/hir 漂到 she/her，作者没有统一。
+**为什么这样写：** 人物关系的定义权在这一段被悄悄反转：对方以 Aunt 与表侄的身份要求叫 ta Enae，ta 答应了，紧接着内心用上一章 Zemil 那句 interloper 把这个身份定位顶回去。同一段里第三人称从 sie/hir 漂到 she/her，作者没有统一。
 
 **读者视角提示：** 读者会注意到这两句同构：一个想进这栋楼，一个还在这栋楼里。
 
