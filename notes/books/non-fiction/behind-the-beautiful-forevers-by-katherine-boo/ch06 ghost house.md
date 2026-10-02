@@ -158,7 +158,7 @@ source_text: ch06_5_ghost_house.txt
 
 **中文理解**："这次他放你出来了。"她顿了顿。"我为这个家拼命干活吗？我开口要过首饰吗？"
 
-**句子结构**：第一句为省略句（He let you out this time），省略的是主语与助动词的情境补足；第二个独立句 She paused 为叙述插入；其后 She paused 之后的两句为直接引语，内含两个反问（Do I work hard…? Do I ask for jewelry?）并列。
+**句子结构**：全块由四个独立小句组成：① 直接引语 "He let you out this time."（He 为明确主语，指上帝，let 为使役动词），② 叙述句 She paused.（She 为主语，paused 为不及物动词），③④ 两个直接引语反问句 Do I work hard for this family? / Do I ask for jewelry? 并列，以问号收束。
 
 **关键词**：He let you out this time / Do I work hard for this family? / Do I ask for jewelry?
 
