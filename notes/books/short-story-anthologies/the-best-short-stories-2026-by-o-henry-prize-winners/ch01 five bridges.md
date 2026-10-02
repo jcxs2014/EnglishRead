@@ -26,7 +26,7 @@ modified: "2026-10-02"
 ② "As Geraldine fell silent, Paul realized that he should not have said that his parents had no money. Geraldine would worry about this, and it was not even true. She was almost twelve years old now, and he had resolved a while ago never to tell her anything that wasn’t true."
 
 - 中文理解：杰拉尔丁一沉默，保罗立刻意识到自己说错话了——他说父母没钱，而这件事连他自己都觉得不对。这里第一次露出他的处世原则：只说不 untrue 的事。但他刚刚违反了自己的原则，这段自述因此变成对自身的指控。
-- 句子结构：As 引导的时间状语从句 + 主句（Paul realized that...）+ that 宾语从句里再套一个 not...wasn't 双重否定。末句用 and 把"她快十二岁"这个新信息接在"他早已立下规矩"后面。
+- 句子结构：As 引导的时间状语从句 + 主句（Paul realized that...）+ that 宾语从句用 it was not even true 收尾，把「他刚说的不是真的」这件事压进一个平叙句里。末句用 and 把"她快十二岁"这个新信息接在"他早已立下规矩"后面。
 - 关键词：resolved——"早就下定决心"；这个词把一个临时决定写成了长期原则。
 - 表达方式：先写心理活动，再写自我评价，最后用年龄这一客观事实压上一句，让原则显得像是被迫制定的。
 - 为什么这样写：保罗全书都在与自己的过去讨价还价。这一段是他唯一一次当场承认自己有错，而且是关于一件很小的事。
@@ -42,7 +42,7 @@ modified: "2026-10-02"
 ④ "Kirwan came from outside Wexford town and either owned the Greyhound Track or ran it as though he owned it. Kirwan watched his customers in the same way that he watched his staff: “I don’t hire losers and I don’t hire chancers and I don’t hire anyone from Swanlinbar.”"
 
 - 中文理解：肖恩·F·柯万出场。他要么拥有 Greyhound Track 这家酒吧，要么活得像拥有它。他看客人的眼神和他看员工的眼神一模一样，接着给出那句筛选原则：我不雇失败者、不雇赌徒、不雇 Swanlinbar 的人。
-- 句子结构：either...or 的虚拟可能式，刻意不判定所有权；冒号后面用三个平行的 "I don't hire..." 把筛选标准压缩成一句。地名 Swanlinbar 在句末，像一道被随手甩出的门槛。
+- 句子结构：either...or 的虚拟可能式，刻意不判定所有权；冒号后面用三个平行的 "I don’t hire..." 把筛选标准压缩成一句。地名 Swanlinbar 在句末，像一道被随手甩出的门槛。
 - 关键词：chancers——"想撞大运的人"；这句筛选里三个并列的排除对象，一个比一个具体，最后落到一个地名上。
 - 表达方式：先用一个含糊的 either/or 定义他的身份，再用三个否定句给出他的行事准则，最后加一个具体地名——从抽象筛到具体。
 - 为什么这样写：柯万是全篇唯一推动保罗的人，却一出场就带着明显的江湖气。作者不给读者立刻喜欢他的理由。
@@ -50,7 +50,7 @@ modified: "2026-10-02"
 ⑤ "“I don’t just want to raise money to send the body home. I can do that easily enough. I’d like to know if there are others here still living on their own like that. A lot of fellows went home or settled down. But some are still living on their own, working for themselves. I think we should make sure they’re okay. Just check in on them.”"
 
 - 中文理解：柯万说明为什么要找到保罗。机场附近一个同乡死了，他不满足于把尸体运回国——他想知道还有多少人像那样独自活着，他要去"确认他们还好"。真正的 SIMIBA 由此而来。
-- 句子结构：I can do that easily enough 之后用 But 转向，后面连续三个句子（I'd like to know... / But some are still... / I think we should...）完成从描述到主张再到方案的推进。
+- 句子结构：I can do that easily enough 之后用 But 转向，后面连续三个句子（I’d like to know... / But some are still... / I think we should...）完成从描述到主张再到方案的推进。
 - 关键词：check in on them——"去看看他们"；一个极轻的动词，做的却是一件极重的事。
 - 表达方式：先否定一个更小的目标（筹钱），再提出一个更大的目标，最后收在一个很短的动词短语上。
 - 为什么这样写：柯万不提供解决方案，他只提供联系。这正是保罗二十年来缺的东西——有人来敲门。
@@ -66,7 +66,7 @@ modified: "2026-10-02"
 ⑦ "Paul didn’t bother telling him that he didn’t touch the stuff. He stood and looked at the back of Stan’s head. It was always the same, he thought, in every house whose call he answered. If he was greeted by a guy like Stan, then there would be some difficulty. The job he did would be criticized; the payment would not be ready. And there would be an undercurrent of howmuchbetteroffIamthanyou."
 
 - 中文理解：保罗懒得告诉斯坦自己不碰酒，就站着看斯坦的后脑勺。就在这个姿势里他忽然想起：每次上门都是这样——如果主顾像斯坦这样的，就会有麻烦，活儿会被挑、钱会拖着不结，而空气里始终有一层"我比你过得好"的暗流。
-- 句子结构：前两句是连续的动作（didn't bother telling...／He stood and looked...），第三句 It was always the same 把场景切换成一般规律，后面三个并列的难处（difficulty / criticized / not be ready）收在末句 And there would be an undercurrent of 上。howmuchbetteroffIamthanyou 整串被写成不带空格的复合词。
+- 句子结构：前两句是连续的动作（didn’t bother telling...／He stood and looked...），第三句 It was always the same 把场景切换成一般规律，后面三个并列的难处（difficulty / criticized / not be ready）收在末句 And there would be an undercurrent of 上。howmuchbetteroffIamthanyou 整串被写成不带空格的复合词。
 - 关键词：undercurrent——"暗流"；这个词把阶层差别写成了水底下的东西，看不见却一直在。
 - 表达方式：先用一个刻意保持距离的站姿，再给一般规律（always the same），最后用 stan 这个具体的人把它实例化。
 - 为什么这样写：这是全篇唯一一处保罗看清自己的经济位置，而且是通过替别人修房子这件事看出来的——他越是靠手艺吃饭，越清楚自己站在哪一层。
@@ -90,7 +90,7 @@ modified: "2026-10-02"
 ⑩ "In the morning, they would be able to see one or two of the bridges, if not from here then from one of the other decks or balconies. They might have to wait until the fog cleared. He would show Geraldine from this vantage point some of the places where he had worked, tell her about the journeys in his car down leafy avenues to new condos or old bungalows or bigger suburban houses. And the people waiting for him, desperate to have a leaking tap fixed. He would describe some of these people to her. He knew she loved that."
 
 - 中文理解：天亮以后他们就能看见一两座桥。他打算从这个位置指给杰拉尔丁看那些他工作过的地方，讲他开车穿过绿树成荫的街道去新公寓、老平房、大房子，讲那些等着他修漏水龙头的人。
-- 句子结构：He would show / tell / describe 三个并列动词共用一个主语 He，全部用过去将来时；三处宾语各自套一层定语从句（that he had worked ／ in his car down... ／ waiting for him）。倒数第二句 And the people waiting for him, desperate to have a leaking tap fixed. 是一个没有谓语动词的名词短语，靠 and 直接并列进前面的长句；waiting for him 用现在分词作后定语，desperate to have... 用形容词短语作后置说明。
+- 句子结构：He would show / tell / describe 三个并列动词共用一个主语 He，全部用过去将来时；三处宾语各自套一层定语从句（where he had worked ／ in his car down... ／ waiting for him）。倒数第二句 And the people waiting for him, desperate to have a leaking tap fixed. 是一个没有谓语动词的名词短语，靠 and 直接并列进前面的长句；waiting for him 用现在分词作后定语，desperate to have... 用形容词短语作后置说明。
 - 关键词：desperate——"极度渴望地"；这个词修饰的不是人，是等待这件事本身。
 - 表达方式：先说明"以后会怎样"，再说明"他会讲什么"，最后用一个短句收在杰拉尔丁的反应上——他唯一关心的不是这些房子，是她爱不爱听。
 - 为什么这样写：结尾不给结论，只给一个尚未发生的清晨。全篇从"She promised that the climbing would be easy"开始，到这里仍然是"他以后会做某件事"——保罗始终活在将来时。
