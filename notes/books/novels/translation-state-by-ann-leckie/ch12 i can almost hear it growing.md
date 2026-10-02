@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 > **原句 2:** "“What?” I knew that, as a good Edge, one of the best of the Edges, I should regulate my voice and my reactions. I wasn’t an Edge anymore, and I would never have to talk to humans. But it was possible behaving well might help me here, too, so I didn’t shout. “They’re lying. They tried to force me.” I put my hand on my throat where Tzam’s hand had been. The skin felt mostly smooth, but I could still feel it, could feel Tzam there."
 
-**中文理解：** 「什么？」我知道，作为一个合格的 Edge——Edges 里最好的那批——我应该控制自己的声音和反应。我已经不是 Edge 了，也永远不会跟人类说话。可说不定表现好一点在这里也管用，于是我没有喊。「他们在撒谎。是他们想强迫我。」我把手放在喉咙上，TZam 的手曾经在那里的位置。皮肤摸上去基本是平的，可我还能感觉到，感觉到 Tzam 还在那儿。
+**中文理解：** 「什么？」我知道，作为一个合格的 Edge——Edges 里最好的那批——我应该控制自己的声音和反应。我已经不是 Edge 了，也永远不会跟人类说话。可说不定表现好一点在这里也管用，于是我没有喊。「他们在撒谎。是他们想强迫我。」我把手放在喉咙上，Tzam 的手曾经在那里的位置。皮肤摸上去基本是平的，可我还能感觉到，感觉到 Tzam 还在那儿。
 
 **关键词：** I knew that, as a good Edge, one of the best of the Edges, I should regulate my voice and my reactions / so I didn’t shout / I could still feel it, could feel Tzam there
 
