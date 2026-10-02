@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：这双鞋是亮蓝色的。我认得，是她最喜欢的那几双之一。而鞋底糊满了泥。
 
-**关键词语**：one of her favorite pairs／caked with dirt
+**关键词**：one of her favorite pairs／caked with dirt
 
 **为什么这样写**：物证的档案由最熟悉它的人出具。作者让 Nate 的三句描述完成一次身份鉴定（颜色/归属/异常）——他认得这双鞋，说明他熟悉她的每一双鞋；他看出「泥」的异常，说明他知道这双鞋本该待在哪个干净的位置。丈夫的记忆力在此刻成为反证他自己的第一证人。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：浴室那双是怪，可我妻子平时就净干怪事。但这次不一样。我早些时候还在厨房做欧陆式早餐——这鞋要是当时就在，我不可能没看见。
 
-**关键词语**：cooking a continental breakfast／I surely would have seen them
+**关键词**：cooking a continental breakfast／I surely would have seen them
 
 **为什么这样写**：时间窗的自供在辩护里完成。作者让 Nate 用「刚才还在做饭」锁死鞋子出现的时间——即他做早餐与侦探到访之间。这段推理他做得完全正确，也因此把自己逼到墙角：厨房在他眼皮底下被人放进了死者的鞋。他推理的每一步都对，只是不敢走出最后一步。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：以前后门也开过，可从来没有一只迷路的鸟飞进过我们的厨房。
 
-**关键词语**：a wayward bird／never before managed
+**关键词**：a wayward bird／never before managed
 
 **为什么这样写**：第二件异象与第一件共用一扇门。作者让鸟的入场完成「门是开的」的物理证明——而门是给谁留的，鸟不知道，读者已经猜到。这一格的巧妙在于用最无害的生物（鸟）完成最惊悚的推理：连鸟都进得来的家，主人为什么进不来？因为她被埋在了南瓜地里。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：鞋跟上，嵌着一小块被压碎的南瓜。
 
-**关键词语**：a piece of smashed pumpkin
+**关键词**：a piece of smashed pumpkin
 
 **为什么这样写**：全章的心脏只有一行。作者让「南瓜」作为最后的判词独立成段——泥土可以来自任何地方，南瓜只能来自一个地方。这只鞋跟上的碎南瓜是一枚只有埋尸人才能读懂的指纹：它把昨晚的埋尸地点直接快递到了他的厨房地板上。本章全部的推理都为了这一行的落地。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：就算我们埋她的时候她穿着鞋——她并没穿——也很清楚，她绝不可能从坟里爬出来、鞋跟上还嵌着块南瓜地走回家。
 
-**关键词语**：which she wasn’t／didn’t rise from her grave
+**关键词**：which she wasn’t／didn’t rise from her grave
 
 **为什么这样写**：唯一正确的推论被亲手写进「不可能」。作者让 Nate 的排除法在这里撞上全书最大的戏剧反讽：他论证「她不可能爬回来」的每一个前提都对——她没穿鞋（他记着自己的刑罚学）、她被埋了——而他不知道的是，浅埋的她真的爬出来了。「rise from her grave」这个他用来排除的短语，恰是正在发生的实事。恐怖片的剧本由否认者朗读，是本类型最狠的一笔。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：而这个人，一定知道我们昨晚干了什么。
 
-**关键词语**：knows what we did last night
+**关键词**：knows what we did last night
 
 **为什么这样写**：嫌疑人名单的筛选条件在此写出。作者让 Nate 用「我们」划定了知情圈——一个只有他和 Addie 的圆。而他随即开始清点圈内的可能（Addie 的报复/别人的知情），唯独不往圆心看：真正知道一切的另有其人，且正用他的犯罪现场给他寄明信片。知情圈的几何学在此出错：他以为圆里只有两个人，其实站着三个。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：不，我确定主动权还在我手里。只要我够小心，没人会发现我干过的事。
 
-**关键词语**：the upper hand／As long as I am careful
+**关键词**：the upper hand／As long as I am careful
 
 **为什么这样写**：全章的误判以自信的语气归档。作者让 Nate 在鬼牌压桌之后仍然宣布胜利——他的依据（对方不敢报警）恰是他的死穴（对方不需要报警）。这一格与 ch63 的「自由人」连读：他的自信每一次都建立在「她已经死了」的前提上，而这个前提每一小时都在贬值。全书后半程的追逐战，从这句「我确定」正式开跑。
 
@@ -115,6 +115,10 @@ modified: "2026-10-02"
 |---|---|---|
 | astonishment | 惊愕 | I stare at the scene before me in astonishment. |
 | thankfully | 所幸、谢天谢地 | I hold my breath, waiting for another question I can’t answer, but thankfully, the detective seems to lose interest in the shoes. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

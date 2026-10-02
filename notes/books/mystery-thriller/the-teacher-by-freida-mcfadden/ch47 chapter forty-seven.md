@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：Addie 一离开，我就看着 Debra Higgins 说：「她在撒谎。」
 
-**关键词语**：She’s lying
+**关键词**：She’s lying
 
 **为什么这样写**：两个词的对抗开场。作者让 Eve 的判断直接、干脆——而校长的回应（你说的对她说的、她妈妈说她在家）宣判了证据体系的无力。这一格与 ch45 的 Addie 侧完全咬合：同一个房间、同一场问答、两种胜利观——Addie 觉得自己赢了，Eve 知道自己输了。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：他的回复气得我想把手机摔出去。
 
-**关键词语**：so maddening／wanted to throw the phone
+**关键词**：so maddening／wanted to throw the phone
 
 **为什么这样写**：Nate 的降温术在本句完成第三次演出。作者让「Maybe it wasn't her?」这句回复由短信送达——连质疑都懒得当面说。Eve 的暴怒（摔手机）与她的无力（还得去上课）形成落差：她与丈夫的每一次关于 Addie 的对话，都以她的败退告终。此刻她还不知道败因——裁判原来是对方球员。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：「我是说，她又不是危险人物。你真觉得她会因为你不让她在课上吃三明治就去跟踪你？」
 
-**关键词语**：she’s not dangerous／because you wouldn’t let her eat a sandwich
+**关键词**：she’s not dangerous／because you wouldn’t let her eat a sandwich
 
 **为什么这样写**：Shelby 的常识在此成为最好的侦探。作者让朋友用最朴素的逻辑拆解 Eve 的自恋式恐惧（她为什么盯我？）——「三明治之仇」确实撑不起跟踪的动机。这句话无意间完成了对 EVE 的纠偏：她一直把自己放在故事中心，而真相让她连中心都不是。讽刺的双层在此到顶：她猜对了方向（跟的是 Nate），归因却全错（痴迷，而非相爱）。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：「不过，要是她跟踪的是 Nate——那我信。」她冲我眨眨眼。「全校女生都为他犯花痴。你又说她参加了他的那个小诗社？我完全能想象她迷得有点过头。」
 
-**关键词语**：if she were stalking Nate—that I could buy／a little too obsessed
+**关键词**：if she were stalking Nate—that I could buy／a little too obsessed
 
 **为什么这样写**：致命的半真相由最轻松的口吻说出。作者让 Shelby 的玩笑（女生都迷恋他）与 Eve 的恐惧（Art 案重演）完成拼装——「着迷说」完美解释了一切，唯独没有解释 Nate 的回应。Eve 带着这个半成品答案冲向教室：她以为要发的是预防针，结果撞见的是病历本。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：接着，Nate 伸出手，握住了她的手。
 
-**关键词语**：reaches out and takes her hand
+**关键词**：reaches out and takes her hand
 
 **为什么这样写**：全章的引爆引信只有这一个动作。作者让 Eve 的认知通过「手的时长」逐格坍塌——不是拍、是握；一秒是安慰，六十秒是答案。这一格的镜头纪律极佳：没有偷听、没有闯入，只有一扇门玻璃和一只不肯撤回的手。婚姻的死刑判决书，从一个最安静的动作开始宣读。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：那不是初吻。那是两个吻过无数次、八成还做过更多事情的人之间的吻。
 
-**关键词语**：That’s not a first kiss／done a lot of other things
+**关键词**：That’s not a first kiss／done a lot of other things
 
 **为什么这样写**：目击者的鉴定报告一锤定音。作者让 Eve 用「熟练度」作为时间证据——吻的技法泄露了历史的长度。这一格同时是全书叙事诡计的解锁点：读者早就知道暗房的存在，此刻终于轮到 Eve 知道。她的措辞（probably done a lot of other things）克制而精准，愤怒到了顶点反而开始像验尸。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：我明白 Addie 为什么那么恨我。我明白她为什么在我家墙外的灌木丛里鬼祟。我明白为什么每次我向 Nate 告状他都护着她。我明白为什么我丈夫对性毫无兴趣——除非他想让我帮她的忙。
 
-**关键词语**：I understand ×4／zero interest in sex
+**关键词**：I understand why／zero interest in sex with me
 
 **为什么这样写**：全书的伏笔大清点在此完成。作者用四个「我明白」收割了此前四十多章的所有孤证——恨意、潜行、辩护、冷淡，四条线一次性通电。这段排比的可怕在于它几乎全对：除了她仍然以为 Addie 是主谋、Nate 是猎物。读者读完这一格才真正握有全书：两个女人都被同一个男人编进了对方的罪名里。
 
@@ -111,7 +111,7 @@ modified: "2026-10-02"
 
 **中文理解**：那个混蛋在骗我。跟她。
 
-**关键词语**：That bastard is cheating on me／With her
+**关键词**：That bastard is cheating on me／With her
 
 **为什么这样写**：全书 EVE 线的引爆句，七个词加两个句号。作者让愤怒以最短的句式落地——不解释、不修饰、甚至没有形容词。这一刻的 Eve 与序幕的读者终于站在了同一个页面上：她知道了。而讽刺的是，她与 Addie 在这一秒共享同一份愤怒的对象清单——只是她们的账本上，欠债人和被害人写得完全相反。两把怒火，一颗火星：本书的后半程已经点捻。
 

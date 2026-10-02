@@ -23,7 +23,7 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** She said when I get home, she wants us to visit the cemetery and see my dad. It’s been two months since we’ve been there, she reminded me. As if he’s lying in that grave, looking at the calendar on his watch, and wondering why it’s been so long since we came by.
+> **原句 1:** she said when I get home, she wants us to visit the cemetery and see my dad. It’s been two months since we’ve been there, she reminded me. As if he’s lying in that grave, looking at the calendar on his watch, and wondering why it’s been so long since we came by.
 
 **中文理解**：她说我到家后，要一起去墓园看我爸。她提醒我，已经两个月没去了。好像他真躺在那座坟里，看着手表上的日历，纳闷我们怎么这么久没来。
 

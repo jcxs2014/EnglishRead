@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：整顿饭，Justin 的手就没离开过 Shelby——这让「Nate 好像根本不想碰我」这件事显得更扎眼了。
 
-**关键词语**：couldn’t keep his hands off Shelby／didn’t seem to even want to touch me
+**关键词**：couldn’t keep his hands off Shelby／didn’t seem to even want to touch me
 
 **为什么这样写**：婚姻的对照实验在餐桌上公开进行。作者让两组夫妻同框——一对黏着、一对悬空——用别人的亲密给 Eve 的冷清标尺。她连「至少 Nate 不谢顶」这种自我安慰都用上了：一段婚姻落到要在发际线上找优点，测温早就结束了。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：他连续两天有兴致时，我还燃起过一点希望；可从那以后，我们陷入了有史以来最旱的一段旱季。
 
-**关键词语**：that glimmer of hope／our worst drought yet
+**关键词**：that glimmer of hope／our worst drought yet
 
 **为什么这样写**：ch33 的回温在本章被正式定性为「干旱前的假雨」。作者让 Eve 用「drought」接续 ch30 的「abyss」——她的婚姻意象库已经完全地理化：深渊、旱季，全是荒漠系统。而「worst yet」的比较级悄悄预告：这本书的婚姻线没有最低点，只有尚未刷新的纪录。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：我刚走到路边，一种奇怪的感觉就上来了——后颈一阵发麻，好像有人在看我。
 
-**关键词语**：a prickling in the back of my neck／somebody is watching me
+**关键词**：a prickling in the back of my neck／somebody is watching me
 
 **为什么这样写**：ch30 商场的那道目光在本章追到了家门口。作者用「后颈发麻」这个身体雷达让悬疑线落地——从公共空间的膈应升级到私人领地的入侵前兆。Eve 的直觉第三次报告敌情，而这次它是对的：灌木丛里真的有人。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：那儿有东西。不是动物——我清清楚楚看见一个成年人的轮廓。有人潜伏在我家的灌木丛里，而我，穿着一小条裙子站在这个安静社区的路缘石上——一只活靶子。
 
-**关键词语**：a shadow of a fully grown person／a sitting duck
+**关键词**：a shadow of a fully grown person／a sitting duck
 
 **为什么这样写**：恐惧的形状在本章完成显影。作者先排除动物（呼应兔子、松鼠的传统虚惊），再给出「成年人轮廓」的硬信息——「sitting duck」的自称把她的脆弱感推到极致。本章的恐怖不靠音效靠定位：威胁已经从「某处有响动」精确到「我家 bushes」——家的物理安全宣告破产。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：我没锁门，对吧？我连钥匙都没带。除非……Nate 在我出门时把门锁了。可他为什么要那样做？
 
-**关键词语**：Unless Nate locked it／But why would he do that?
+**关键词**：Unless Nate locked it／But why would he do that?
 
 **为什么这样写**：恐怖戏里插进一根生活疑点。作者让门把锁死的双重解释同时亮出：老婆忘带钥匙 or 丈夫故意锁门——而 Eve 的思考在第二种可能性上卡住。这一问与全书所有「Nate 的反常」（怪条子、聊完就洗澡、突然的饿）并列成档：这个男人的行为清单已经很长，只是没人给他立案。
 
@@ -83,11 +83,11 @@ modified: "2026-10-02"
 
 ---
 
-> **原句 6:** And for a moment, I can make out her face in a slice of moonlight. It’s Addie Severson.
+> **原句 6:** And for a moment, I can make out her face in a slice of moonlight.
 
-**中文理解**：有那么一瞬间，我借着月光的一角看清了那张脸。是 Addie Severson。
+**中文理解**：有那么一瞬间，我借着月光的一角看清了那张脸——是 Addie Severson。
 
-**关键词语**：a slice of moonlight／It’s Addie Severson
+**关键词**：a slice of moonlight
 
 **为什么这样写**：两线在本章完成第一次正面碰撞。作者让月光只给「一指宽的切片」——足够看清身份，不够看清动机；Eve 的惊骇与读者的冷笑同时到位：Art 说过她危险、Eve 警告过丈夫、而此刻这个人蹲在她家窗外。本章没有解释、没有对质，只有一张脸——悬念以最高分辨率定格。
 

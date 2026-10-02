@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：「『我对你的爱像个黑洞』——认真的吗 Addie？听着就像哪个害了相思的女高中生写的。你平时可不写这种玩意儿。」
 
-**关键词语**：lovesick teenage girl／You don’t usually write shit like this
+**关键词**：lovesick teenage girl／You don’t usually write shit like this
 
 **为什么这样写**：全库最懂行的一句真话，说给最不需要它的人听。作者让 Lotus 用编辑的专业直觉精准命名了这堆诗的问题（直白、俗套、为赋新词），而 Addie 听到的只有冒犯。讽刺在于判词的最后一半：她「平时」不写这种东西——平时的她写父亲的拳头；如今拳头换成黑洞，退步的何止是技法。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：跟 Lotus 做朋友，会让我跟 Nathaniel 见面变得更难。而任何友谊都不值得拿这件事去冒险。
 
-**关键词语**：no friendship is worth jeopardizing that
+**关键词**：no friendship is worth jeopardizing that
 
 **为什么这样写**：社交生活的清盘声明。作者让 Addie 把「 friendship 」整体标价，再与暗房之约相比——所有的人际关系在这杆秤上都输给了一个男人。这句话是孤立的升级版：以前她被全校放逐，现在她自愿放逐全世界。Kenzie 们不需要再做什么了，她已经自己完成了隔离。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：他对我特别有耐心，反复告诉我：我们不必做任何我不想做的事。他只想和我在一起。他说就算永远不做那件事也没关系。
 
-**关键词语**：we don’t have to do anything I don’t want to do／okay if we never had sex
+**关键词**：we don’t have to do anything I don’t want to do／okay if we never had sex
 
 **为什么这样写**：耐心话术在此完成它的季节性丰收。作者让这句「不着急」被 Addie 收藏为品德——「我爱他的耐心」。而读者只需翻到 ch41 的第一段就能看到这张支票的兑付方式：从那以后，每一次暗房之约都直奔主题。承诺从来不是承诺，是利息更高的赊账。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：很多孩子用 Snapflash 是为了防止父母侵犯隐私、翻看他们的短信；而我用它，只为了跟一个人联络：Nathaniel。
 
-**关键词语**：only use it to communicate with one other person
+**关键词**：only use it to communicate with one other person
 
 **为什么这样写**：工具的专属性在此成为身份的证明。作者让 Addie 把一个校园通用软件说成「只属于两个人的频道」——六十秒的焚毁机制在她眼里不是风险管控，是浪漫的防腐剂。她已经完全用他的语法思考：安全的、隐秘的、只有我们懂的。这段广播词式的说明，是共谋结构的日常运维记录。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：「我是认真的，」他轻声说。「你把我的生命还给了我。你根本不知道，在你出现之前，我的世界有多灰暗。」
 
-**关键词语**：You gave me my life back／how dreary my world was
+**关键词**：You gave me my life back／how dreary my world was
 
 **为什么这样写**：他的诗的主题在此被翻译成白话。作者让「还我生命」这句台词承担全部的心理债务转移——从此这段关系的账面上，他成了债务人，她成了救命恩人；而债务人的每一次索取都像还愿。「灰暗的世界」则顺手把她绑上救生艇：一个十六岁的女孩被任命为成年男人的心理健康责任人，且欣然上岗。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：那天下午，我在暗房里把我的第一次给了 Nathaniel。整个过程里，我在脑内一遍遍背他的那首诗——那首专门为我写的诗。
 
-**关键词语**：lose my virginity／recite his poem in my head
+**关键词**：lose my virginity／recite his poem in my head
 
 **为什么这样写**：全书最重的事件用最平的陈述句落地。作者拒绝描写，只给两个事实：地点、伴奏。而「脑内背诗」这个细节是全章的完成键——她的第一次被一首诗全程伴读，身体的痛与 « 浪漫 » 的台词同时播放。这是 grooming 的成品检验：连她的痛楚都已经被预先包装成了爱情的样子。
 

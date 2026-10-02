@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：警察在查我谋杀还不够。现在学校里我最坏的死对头又出现在我家门口，八成是来折磨我的。
 
-**关键词语**：investigating me for murder／worst enemy
+**关键词**：investigating me for murder／worst enemy
 
 **为什么这样写**：Addie 的麻烦清单在本句完成并表。作者让「谋杀调查」与「死对头到访」并排——她的处境已经糟到需要用比较级来排队的地步。而「presumably to torment me」的误判为下一页的道歉上了膛：读者与她共享同一个错误预期，反转的落差由这份共享承担。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：「听着。」Kenzie 把几缕湿发别到肩后。「我想为今年我对你做的所有事道歉。我是个混蛋，对不起。」
 
-**关键词语**：apologize for everything／I was a bitch
+**关键词**：apologize for everything／I was a bitch
 
 **为什么这样写**：霸凌者的道歉以「全责认领」的形态送达。作者让 Kenzie 的道歉词里没有借口（不是「因为大家都……」），只有主语「我」——这份爽利反而成了她真诚的最佳证据。而读者此刻还不知道她道歉的真正动机（她也是受害者），道歉的分量要到两行之后才完全到账。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：她漂亮的眼睛下面挂着紫色的黑眼圈，有一根指甲咬得太狠，甲缘正渗出一滴血。
 
-**关键词语**：purple circles／a drop of blood is oozing
+**关键词**：purple circles／a drop of blood is oozing
 
 **为什么这样写**：女王人设的清仓大甩卖在细节里完成。作者让 Kenzie 的「完美资产」（皮肤/指甲/气色）逐项清点存货——黑眼圈、咬秃的指甲、渗血。这与 ch31 Bella 的割腕玩笑形成残酷对照：当年被笑「会自残」的是 Addie，此刻咬出血的却是王座上的人。霸凌的战利品从分配那天起就写着误领。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：「不，有。」她把蓝眼睛端平对着我。「你一直在跟他睡。」
 
-**关键词语**：levels her blue eyes／You were sleeping with him
+**关键词**：levels her blue eyes／You were sleeping with him
 
 **为什么这样写**：指控以陈述句的语法落地——不问「是不是」，只报「是」。作者让 Kenzie 的蓝眼睛「端平」（level）这个词写尽了对峙的姿态：不仰望（她的旧霸凌），不俯视（她此刻的谦卑），平视。全书的两位女学生终于第一次站在同一水平线上，用的却是最残忍的话题。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：「因为那首诗不是写给你的。」
 
-**关键词语**：didn’t write it for you
+**关键词**：didn’t write it for you
 
 **为什么这样写**：全书的引信在此烧到尽头。作者让 Kenzie 的否定句直接命中 Addie 爱情神殿的主梁——那首诗的全部意义（「专门为我」「拒绝复印」「读了几百遍」）都建立在一个词上：for you。这句话的可怕不在否定爱情，在否定「专属」——而专属正是这条线全部信仰的地基。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：「不。」她摇摇头。「他是写给我的。」
 
-**关键词语**：He wrote it for me
+**关键词**：He wrote it for me
 
 **为什么这样写**：全书第二枚核弹以五个词引爆。作者让这行独立成段收尾——没有解释、没有细节，只有所有权的移交。读者的记忆瞬间全速回卷：ch18 的诗社选拔（为什么是 Addie 的诗参赛？）、ch41 的「Lotus 去告状」、ch59 的「Gave me life once again」——同一首诗至少被两个女孩收藏过，而它的作者在两间教室里说了两次「为你写」。序幕的读者此刻会想起那句「我的帮手」：这个男人的模板，从来都是批量印刷的。
 
@@ -104,6 +104,14 @@ modified: "2026-10-02"
 | Montgomery | （人名，略） | Kenzie Montgomery. |
 | investigating | 调查（现在分词） | It’s not enough that the police are investigating me for murder. |
 | presumably | 大概、据推测 | Now my worst enemy from school has shown up at my front door, presumably to torment me. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
+
+### ⭐ 基础
+
+（本章基础档无合适词条）
 
 ## 一句话总结
 

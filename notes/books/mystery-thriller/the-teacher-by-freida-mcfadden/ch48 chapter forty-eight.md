@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：我明白，要是我现在就冲进去揭穿 Nate，我会毁掉三条命：他的、我的，还有 Addie 的。
 
-**关键词语**：ruin three lives／his, mine, and Addie’s
+**关键词**：ruin three lives／his, mine, and Addie’s
 
 **为什么这样写**：清算的第一步是算术。作者让 Eve 在最愤怒的一刻完成损害评估——三个人、三种毁法。这份冷静把她与序幕里那把铲子之间的距离拉到最近：真正的危险从来不是失控的人，而是控制得住自己的人。她的算术里没有第四个数字（这段婚姻），婚姻已经被她提前计提为坏账。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：至于 Addie——说实话，她也不该被毁掉。别的姑且不论，她只有十六岁。她是个孩子。她会爱上自己英俊的英语老师，不是她的错。防止这种事发生，是 Nate 的责任。
 
-**关键词语**：she is only sixteen years old／It was Nate’s responsibility
+**关键词**：she is only sixteen years old／It was Nate’s responsibility
 
 **为什么这样写**：全书的责任归属在此完成一次官方改写。作者让 Eve 用三句话把 Addie 从「狩猎者」改判为「孩子」——十六岁、孩子、责任在 Nate。这个判词是全书最清醒的一格：它跨过了 Art 案的「fixated」、跨过了她的「troubled girl」，直接落在法律与伦理的正解上。讽刺在于：全 Caseham 只有这个被背叛的妻子得出了正确答案。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：但我做了一件事：我拍了一张照片。
 
-**关键词语**：I take a photo
+**关键词**：I take a photo
 
 **为什么这样写**：七个词，全章的枢纽——掀桌是情绪，拍照是资产。全书最重要的一个动作以最简的句式入档。作者让「拍照」承担全部的复仇哲学——不揭露、不对质，持有。这张照片与 Addie 的钥匙、Jay 的鞋盒并列为本书三大证物：每个人手里都攥着一件能毁掉别人的东西。Eve 的照片在功能上是武器，在道德上是深渊——它把她也拖进了「持有把柄」的行列，与序幕的铲子形成同构。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：本州的法定同意年龄是十六岁。所以 Nate 不会为此坐牢。这不构成法定强奸。但他的教师生涯完了。
 
-**关键词语**：The age of consent in the state is sixteen／his teaching career will be over
+**关键词**：The age of consent in the state is sixteen／his teaching career will be over
 
 **为什么这样写**：法律咨询在本章现场完成。作者让 Eve 快速核查了刑罚边界（不坐牢）与职业后果（生涯终结）——她的复仇因此有了精确的刻度：不上刑场，上社会性死亡。这段与 Art 案的机制完全同构：法律给不出结论的地方，社会性死亡补足全部刑罚。她学得太快了——这套系统曾经毁过一个无辜者，如今她要用它清算一个有罪的。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：她嘴角还挂着一丝笑——刚被我丈夫吻过、还带着淤痕的嘴角——可一看见我，那笑立刻掉了下来。
 
-**关键词语**：recently bruised from kissing my husband／the smile drops right off
+**关键词**：recently bruised from kissing my husband／the smile drops right off
 
 **为什么这样写**：一秒的走廊遭遇被写成一整章的余震。作者让 Addie 嘴角的「淤痕」成为两人共享的证据——Eve 的痛感与 Addie 的甜味附着在同一处伤口上。而「笑的坠落」只用了半句：两人在这条走廊上已经没有台词可讲，彼此都知道对方知道了什么。这是全书中段最冷的一幅对峙画。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：但我相信 Jay 能守口如瓶。他自己的秘密，我知道得太多了。
 
-**关键词语**：I know too many of his own secrets
+**关键词**：I know too many of his own secrets
 
 **为什么这样写**：她的信任结构在本句完成自画像。作者让 Eve 用「我知道他太多秘密」解释对 Jay 的托付——把柄换忠诚，与她对婚姻、对照片、对全部关系的算法一脉相承。这句自白同时是双重讽刺：她口口声声「爱」Jay，兜底逻辑却是讹诈式的对等威慑；而这句真理反过来解释了她此刻为什么不能信任何人——包括她自己握着的把柄，有一天也会被别人握住。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：但不管用什么办法，我绝不会让 Nate 就这么蒙混过关。
 
-**关键词语**：one way or another／not going to allow Nate to get away with this
+**关键词**：one way or another／not going to allow Nate to get away with this
 
 **为什么这样写**：宣战书在本章末尾签发。作者让「one way or another」这个短语承担全部的不择手段——不设路径、不留退路、只留结论。这句话与 ch42 的「我恨她」、ch41 的「要是她不在」同属本书的动机巅峰：三个人的恨意至此全部到齐，只差一个把火点着的夜晚。序幕的读者会在这一句听见铲子落地的声音。
 
@@ -118,6 +118,10 @@ modified: "2026-10-02"
 | responsibility | 责任 | It was Nate’s responsibility to keep this from happening. |
 | vulnerability | 脆弱性 | Nate took advantage of her vulnerability. |
 | suggestible | 易受影响的、易被暗示的 | I’ve been a teacher long enough to know that some girls are more suggestible than others. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

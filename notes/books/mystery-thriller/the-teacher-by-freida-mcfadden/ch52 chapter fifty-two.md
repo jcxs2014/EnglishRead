@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：一想到再也见不到 Nathaniel，那种疼直接扎在我的灵魂里。这比我经历过的任何事都疼。可以肯定，比我爸死的时候还疼。
 
-**关键词语**：hurts me right in my soul／Worse than when my father died
+**关键词**：hurts me right in my soul／Worse than when my father died
 
 **为什么这样写**：疼痛的排位赛在失恋与死亡之间进行。作者让 Addie 给两种痛分出高下——而下一句独立段的补刀（「好吧，是我杀了他的时候」）把「父亲之死」重新定义：她哀悼的从来不是死亡本身，而是那一夜之后失去的一切。失恋的疼能压过亲手酿成的死亡，这个排序本身就是她心理世界的测绘图。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：好吧——是我杀了他的时候，那才对。
 
-**关键词语**：when I killed him
+**关键词**：when I killed him
 
 **为什么这样写**：六个词的补刀，全书最重。叙述的窗帘被自己一把掀开。作者让「父亲死了」的公开版本（ch23、ch43）在她独处的心里换算成「我杀了他」——主语、动词、时态一个不少。这个补刀的可怕不在承认（读者早知道），而在语气的轻松：它被顺嘴带出，像更正一个日期。杀过人这件事在她心里已经安家到不再惊动任何神经。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：而要是 Mrs. Bennett 也没了呢——那同样能修好一切。
 
-**关键词语**：if Mrs. Bennett were gone／fix everything too
+**关键词**：if Mrs. Bennett were gone／fix everything too
 
 **为什么这样写**：全书最危险的一次换主语，全程无标记。作者让这句在 ch51 还是「他发来的短信」的句子，在本章直接长进她的思考流——前一段刚说完「父亲的死修好了一切」，这一句顺着同一个句式把 Eve 代入。「too」字是接缝：父亲的死修好过一次，她的死是第二次施工。读者必须自己完成这个翻译，而 Addie 甚至没意识到自己已经翻译完了。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：恨。
 
-**关键词语**：Hate
+**关键词**：Hate
 
 **为什么这样写**：一个词独立成段，是全章的承重墙。作者让 Addie 对恨意进行「重新发现」——以前以为自己恨，现在才知道那不算恨。恨的教学在本章完成了最后一课：失恋教会她的。这个词的孤悬式排版与序幕的「Crack!」、ch10 的「See me after class」同属一脉——本书的最重一击，永远用最短的容器盛放。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：要是她死了，我就能保住工作，我们就能在一起了。
 
-**关键词语**：If she were dead／I could still have my job
+**关键词**：If she were dead／I could still have my job
 
 **为什么这样写**：条件句的第三次出现，也是它最危险的一次：这次它不加引号地长在 Addie 的叙事里。作者特意让「I」出现在句子里——上一版（ch51）主语是「he」，这一版主语换成了「我」。「我的工作」这个说法尤其刺耳：她从没拥有过那份工作，她只是在替他盘点得失。语言的反客为主，就是洗脑的完成态。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：不。不可能。想都别想。
 
-**关键词语**：Out of the question
+**关键词**：Out of the question
 
 **为什么这样写**：否认的三级火箭在此点火。作者让三个短句逐级升高（No→No way→Out of the question）——否认的力度越大，说明刚才那个念头越清晰。这三句是 Addie 良知的心跳图：还有波动，还在抵抗。但请注意它抵抗的对象：不是「恨她」，只是「做点什么」。道德的防线已经退守到行为层，念层层完全失守。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：我必须相信 Mrs. Bennett 身上还有一根正派的骨头。毕竟，她确实在数学上帮过我。她没告发我作弊，还帮我找了辅导。
 
-**关键词语**：a decent bone in her body／didn’t turn me in for cheating
+**关键词**：a decent bone in her body／didn’t turn me in for cheating
 
 **为什么这样写**：全章唯一的善意清点，且条条有据。作者让 Addie 把 Eve 档案里的两笔善款（不告发、找辅导）调出来对冲全部恨意——讽刺在于：那两笔善款的决策人其实另有其人（Nate 的枕边游说）。她拿去当谈判筹码的善意，是她恨的人替别人买的单。而这趟「讲道理」之旅的全部安全假设，就建立在这两笔错账上。
 
@@ -117,6 +117,10 @@ modified: "2026-10-02"
 | experienced | 经历（过去分词） | This hurts worse than anything I have ever experienced. |
 | discomfort | 不适 | I’m glad for the discomfort, because I want to feel something besides the ache in my chest. |
 | responsible | 负有责任的 | I mean, yes, I was responsible for my father’s death, but that was an accident. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

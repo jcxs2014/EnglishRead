@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：我害怕到了极点。
 
-**关键词语**：absolutely terrified
+**关键词**：absolutely terrified
 
 **为什么这样写**：全章以四个词坦白恐惧开场。作者让 Addie 的「害怕」先于一切情节登场——这与她此前每一次「硬着头皮」的姿态形成对照：这次她不再假装镇定，因为这次她终于不是一个人。四个词的直白是本书对「结盟的力量」最朴素的注脚：恐惧没变少，只是终于可以摊开。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：我帮他埋了一具尸体。而且我甚至不能完全确定，我们俩到底是谁杀了她。
 
-**关键词语**：helped him bury a dead body／which of us was the one
+**关键词**：helped him bury a dead body／which of us was the one
 
 **为什么这样写**：候审室的内心预演把最重的牌先摆上桌面。作者让 Addie 在开口前完成一次「供词彩排」——注意这份彩排里没有 Nate 的名字，只有「him」。她的存疑句（谁杀的）第三次出现，这一次带上了「helped him bury」的新语境：她开始意识到，帮凶的身份或许从一开始就是设计好的角色分配。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：我一直觉得 Kenzie 显得那么成熟，可此刻她看起来那么小。像个小女孩。Nathaniel 睡她的时候她才十四岁。十四岁。
 
-**关键词语**：she looks so young／Fourteen.
+**关键词**：she looks so young／Fourteen.
 
 **为什么这样写**：年龄的罪责在本章完成第二次砸钉。作者让 Addie 用「成熟→小孩」的视觉落差重估整件事——Kenzie 的「十四」不再是一个数字，是一个坐在她旁边掉眼泪的小女孩。单词成段的「Fourteen.」是本书第二次使用该句式（ch74 首次），重复即控诉的加重刑期。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：「Sprague 侦探，」我脱口而出，「实情是，Bennett 先生和我睡了一整年。他……他叫我别告诉任何人。」
 
-**关键词语**：the entire year／he told me not to tell anyone
+**关键词**：the entire year／he told me not to tell anyone
 
 **为什么这样写**：Addie 的开口词精确到「他让我别说」——这句话在坦白的同时完成了指控。作者让她把「沉默」的来源归位于施害者的指令，等于当场推翻了自己执行过几十遍的「Deny everything」。她交出的不只是关系，还有那套管住她的遥控器。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：她看上去恨不得把枪从枪套里拔出来，朝 Nathaniel Bennett 打空一个弹匣。
 
-**关键词语**：empty a few rounds／Nathaniel Bennett
+**关键词**：empty a few rounds／Nathaniel Bennett
 
 **为什么这样写**：正义的怒火首次由执法者代言。作者让侦探的眼神「开火」——这个比喻把全书的私刑冲动（Kenzie 的南瓜地、Addie 的铲子、Jay 的拳头）第一次交接到合法的手里。Addie 从这双眼睛里读到的不是审讯，是援军：她终于找到了一个「不用撒谎也能被相信」的大人。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：而我照做了。我把一切都告诉了她。
 
-**关键词语**：I tell her everything
+**关键词**：I tell her everything
 
 **为什么这样写**：全章的引爆句故意保持模糊。作者让「everything」的边界悬置——是包括埋尸？包括怀疑他掐人？包括序幕的每一铲土？本书不给答案，把这份供词的完整度留给 Part III 的现实去检验。这一句是 Addie 的成人礼：她第一次把真相当作武器而不是弱点。
 
@@ -104,6 +104,14 @@ modified: "2026-10-02"
 | absolutely | 绝对地 | I am absolutely terrified. |
 | uncomfortable | 不舒服的 | The lighting is scary dark, and the two plastic chairs look uncomfortable. |
 | tormenting | 折磨（现在分词） | She’s been tormenting me all year! |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
+
+### ⭐ 基础
+
+（本章基础档无合适词条）
 
 ## 一句话总结
 

@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：用石头砸中 Nate 的后脑、把他敲晕的，是 Jay。
 
-**关键词语**：Jay who hit Nate／knocked him out
+**关键词**：Jay who hit Nate／knocked him out
 
 **为什么这样写**：终章第一句就完成了一次「手的交接」。作者让 Eve 把击晕的动作外包给 Jay——不是不敢，是算术（他更高更壮，一击必须致命地准）。这一句同时回收了序幕的悬念结构：埋人从来是两个人的事，只是这一次，分工由受害者制定。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：他这辈子最爱的诗。我熟得不能再熟。
 
-**关键词语**：his favorite poem of all time／I know it all too well
+**关键词**：his favorite poem of all time／I know it all too well
 
 **为什么这样写**：折磨的说明书在此亮出设计原理。作者让 Eve 解释为什么用《乌鸦》吓他——因为那是他的自恋藏品；她对他越了解，他的恐惧就越精准。这句「I know it all too well」是全书婚姻教育的结业证：八年的受害，让她成为唯一有资格给他定制噩梦的人。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：「你想杀我。是你把我埋进了这个坑。」
 
-**关键词语**：You tried to kill me／buried me in this hole
+**关键词**：You tried to kill me／buried me in this hole
 
 **为什么这样写**：审判席上的陈述只有两句。作者让 Eve 的控诉省去一切修饰——对照 Nate 的长篇求饶（I'm so sorry/terrible mistake/你了解我），她的句子短得像验尸报告。这不是修辞差距，是位置差距：坑里的人可以背台词，坑上的人只陈述事实。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：我又笑了。「是吗？」
 
-**关键词语**：Have we now?
+**关键词**：Have we now?
 
 **为什么这样写**：反问句完成了对他「our problems」的清点拒绝。作者让 Eve 用一个问句把他的求饶打回原形——「我们的问题」这种共同承担的措辞，在她听来是最后一次推卸。全书夫妻对话的高频词（幸运/问题/牺牲）在坑边被逐一没收。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：「你会进监狱的。你知道对吧？你这辈子都要烂在牢里，你这个疯婆子！」
 
-**关键词语**：rotting in jail／you crazy bitch
+**关键词**：rotting in jail／you crazy bitch
 
 **为什么这样写**：他的三副面孔在泥水里完成最后一次换装：哀求不成，立刻升级为诅咒。作者让「crazy bitch」这个词在全书的位置格外刺眼——它是他对每个女人的最终命名（Eve 是 unbalanced，Addie 是 unbalanced，此刻她也是 crazy）。读者的冷意在于：这个称呼他喊得越狠，越证明她做对了。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：我一边默念那首他许多年前写给我的诗——那年我十五岁，他是刚大学毕业的我的英语老师，他对天发誓说我是他的灵魂伴侣——
 
-**关键词语**：fifteen years old／my English teacher fresh out of college／swore to me I was his soulmate
+**关键词**：fifteen years old／my English teacher fresh out of college／swore to me I was his soulmate
 
 **为什么这样写**：全书最后一颗核弹在倒数第二段引爆。作者让 Eve 的背诵揭穿整条时间线的源头：他猎Addie 之前十年，先猎了十五岁的她——身份同样（英语老师）、话术同样（灵魂伴侣）、连情书都是同一首。Addie 的「第一次」、Kenzie 的「高一」、Eve 的「十五岁」——三份青春被他按年代排成一列，本书至此升格为一份连环狩猎的完整档案。
 
@@ -95,11 +95,15 @@ modified: "2026-10-02"
 
 ---
 
-> **原句 7:** Life nearly passed me by / Then she / Young and alive / With smooth hands / And pink cheeks / Showed me myself / Took away my breath / With cherry-red lips / Gave me life once again
+> **原句 7:** Life nearly passed me by
 
-**中文理解**：生命差点与我擦肩。直到她——年轻而鲜活——用光滑的手、粉红的脸颊，照见了我自己；夺走我的呼吸，又用樱桃色的唇，把生命重新给我。（全诗第九次出现，也是最后一次——它的收件人在本章终于换回了第一个人。）
+**中文理解**：生命差点与我擦肩。
 
-**关键词语**：Gave me life once again
+Then she / Young and alive / With smooth hands / And pink cheeks / Showed me myself / Took away my breath / With cherry-red lips / Gave me life once again
+
+（这首诗在原文里是九行独立成段；本章是它第九次出现，也是最后一次——它的收件人终于换回了第一个人。）
+
+**关键词**：Life nearly passed me by
 
 **为什么这样写**：这首诗的第九次出现，是它唯一一次被念对。作者让 Eve 在填土的同时背诵它——它曾是他给她的情书、给 Kenzie 的谎言、给 Addie 的陷阱，此刻成了她给他的悼词。「Gave me life once again」的每个字都完成了双关：他确实给了她生命（十五岁那年），如今她把这条命连本带利收走。全书的叙事诡计在此清账完毕：所有引用都是真的，只是收件人从来不止一个。
 
@@ -118,6 +122,14 @@ modified: "2026-10-02"
 | consciousness | 知觉、意识 | He’ll regain consciousness soon, so we have to act quickly. |
 | restraints | 捆缚物（复数） | He starts struggling against his restraints. |
 | struggling | 挣扎（现在分词） | “I…” Nate shifts, struggling to keep his face above the muddy water in the grave. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
+
+### ⭐ 基础
+
+（本章基础档无合适词条）
 
 ## 一句话总结
 

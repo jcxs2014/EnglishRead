@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：他刚刚管我叫他的灵魂伴侣。太疯狂了——因为我心里想的和他一模一样；可要不是他亲口说出来，我会以为那全是我的想象。
 
-**关键词语**：called me his soulmate／I would have thought I was imagining it
+**关键词**：called me his soulmate／I would have thought I was imagining it
 
 **为什么这样写**：命名在此完成双向确认。作者让 Addie 用「差点以为是自己想象」形容这份被说破的契合——这正是这类关系最核心的糖衣：把单向的诱导体验为双向的奇迹。十六岁的孤独感（没人懂我）在此刻被一个成年人的「我也一样」彻底赎买。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：「我娶 Eve，是因为到年纪了就该安顿下来。我从前从没遇到过真正特别的人。而如今我三十八岁，第一次遇见我的灵魂伴侣——她才十六岁。」他做了个苦相。「这宇宙多残忍啊？」
 
-**关键词语**：it was expected of me to settle down／How cruel is this universe
+**关键词**：it was expected of me to settle down／How cruel is this universe
 
 **为什么这样写**：全章的中央演说，每句话都在重新分配罪责。作者让 Nate 把婚姻解释成社会压力（「该定下来了」）、把出轨解释成命运（「第一次遇见灵魂伴侣」）、把年龄差解释成宇宙的错——三步推理之后，责任清单上只剩「残酷的宇宙」。而「she's only sixteen」被他亲自说出口：他知道数字，他只是选择让数字显得无辜。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：「Eve……她对我们的诗毫无兴趣。从来都没有。她的一切都得讲实用，她觉得诗歌纯粹是浪费。」
 
-**关键词语**：no interest in my poetry／such a waste
+**关键词**：no interest in my poetry／such a waste
 
 **为什么这样写**：全书最锋利的一处证词对撞。作者让 Nate 告诉 Addie「妻子从不关心我的诗」——而读者在 ch16 刚参观过 Eve 的鞋盒：那里面躺着几年前的情诗，被保存、被珍重、后来只是不敢再看。同一个女人的两种档案，谁的版本更接近真相，读者可以自己判——但 Addie 不能：她的信息全部来自控方。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：「这件事你不能告诉任何人。一个都不能。不能告诉你妈，不能告诉你的朋友——谁都不行。」
 
-**关键词语**：Not a soul／not your mom, not your friends
+**关键词**：Not a soul／not your mom, not your friends
 
 **为什么这样写**：保密令在此完成全覆盖扫描。作者让 Nate 把 Addie 的社会支持系统逐一点名封口——妈妈、朋友，一个不留。这段独白与 Art 案的「她把我盯上了」形成残酷的互文：同样是成年人对少女的单独支配，一个被叙述成受害，一个被体验成爱情。区别只在叙述权在谁手里。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：「我的整个职业生涯都攥在你手里。我可全指望你了。」
 
-**关键词语**：My entire career is in your hands／I’m counting on you
+**关键词**：My entire career is in your hands／I’m counting on you
 
 **为什么这样写**：责任的抵押物在此交割。作者让 Nate 把自己的职业生命登记在十六岁名下——听着是信任，实际是质押：从这一秒起，任何泄密都会被定义为「你毁了他」。这段独白与那句「你不知道我多努力抗拒你」配套成完整的话术闭环：先越界，再托孤。Addie 接住的不是秘密，是一整个人质。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：我们只能在暗房里偷来一些时刻，仅此而已。再多，风险就太大了。
 
-**关键词语**：steal moments in the darkroom／too big a risk
+**关键词**：steal moments in the darkroom／too big a risk
 
 **为什么这样写**：关系的计量单位在此确定：偷来的时刻。作者让「偷」这个动词成为这条线的官方货币——与 Eve 的偷鞋、Addie 的偷钥匙共用同一个词根，本书所有人的欲望都用同一套赃物语法记账。而「风险太大」的评估再次确认：这条线的每一步都经过风险计算，激情只是它的公关文案。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：但也许不会永远这样。也许将来会有那么一天，我们可以光明正大地在一起。
 
-**关键词语**：a time in the future／when we can be together
+**关键词**：a time in the future／when we can be together
 
 **为什么这样写**：未来时态的承诺在此开出第一张支票。作者让 Addie 用「也许」给整条线装上地平线——暗房的黑暗因此有了期限，忍耐有了意义。这张支票的兑现条件（她成年？他离婚？秘密洗白？）全书都不会明说，但它正是这条线能持续运转的燃料：所有不能见光的现在，都靠一个虚构的未来供电。
 
@@ -116,6 +116,10 @@ modified: "2026-10-02"
 | connection | 联结、心灵相通 | He just wants to be with me because we have this connection. |
 | completely | 完全地 | “Before you came along, I was completely blocked. |
 | supportive | 支持的、扶持的 | Nathaniel loves poetry—what kind of wife wouldn’t be supportive of that? |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

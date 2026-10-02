@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：「因为 Nate 和我从高一就在一起睡了。」
 
-**关键词语**：since my freshman year
+**关键词**：since my freshman year
 
 **为什么这样写**：时间炸弹的引信只有六个词。作者让 Kenzie 用最平静的语气投下全书最重的一枚事实——它同时炸毁三样东西：Addie 的「第一次」神话（她的不是开始）、Kenzie 全年霸凌的动机（她恨的是情敌）、以及 Nate 的「从未出轨」誓言（对妻子和情人双重撒谎）。高一加十四岁，这道算术不需要旁人做。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：「我哥哥那时候得了癌症。嗯，现在还有，但在缓解期。白血病。他一直在化疗、一直生病，我感觉家里没有一个人还记得我的存在。」
 
-**关键词语**：Leukemia／nobody in my family even knew I existed
+**关键词**：Leukemia／nobody in my family even knew I existed
 
 **为什么这样写**：霸凌动机的病理报告在此开具。作者让 Kenzie 的家史与 ch34 的药瓶（哥哥的止吐药）正式连线——女王的「完美人生」原来也泡在化疗的阴天里。而 groomer 的手法在此刻显影：他专挑「家里没人看见她」的女孩下手。Addie 的丧父、Kenzie 的被忽视——他的猎物清单永远按「孤独浓度」排序。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：「他告诉过我，我是他的灵魂伴侣。」她发出一声干笑。「我完全信了。我爱他爱得蠢透了。」
 
-**关键词语**：his soulmate／a barking laugh
+**关键词**：his soulmate／a barking laugh
 
 **为什么这样写**：同一句加冕词的第二个受封人到庭。作者让 Kenzie 用「干笑」念出这句 Addie 曾含泪珍藏的话——同一句台词，两个女孩的两种声线，构成全书对「批量浪漫」最刺耳的和声。她的「barking laugh」是清醒的标志：只有走出来的受害者，才能笑得出这种声音。
 
@@ -61,9 +61,9 @@ modified: "2026-10-02"
 
 > **原句 4:** “No, Hudson and I are just friends, that’s all. He’s a nice guy who has been really kind to me while I’ve been struggling this year, but nothing happened between us—I was too hung up on Nate.”
 
-**中文理解（前半）**：「不，Hudson 和我只是朋友，就这样。」
+**中文理解**：「不，Hudson 和我只是朋友，就这样。」
 
-**关键词语**：just friends
+**关键词**：just friends
 
 **为什么这样写**：Hudson 线的官方洗白在此盖章。作者让 Kenzie 亲口承认「无恋情」——这同时解释了 Hudson 对 Addie 的态度（他的忠诚从来不属于 Kenzie）、Kenzie 对 Addie 的恨（恨的依据本来就不成立）。全书的三角误会在一句「只是朋友」里完成最后清账。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：「我敢打赌，他对你说的话，跟对我说的一模一样。」
 
-**关键词语**：all the same things
+**关键词**：all the same things
 
 **为什么这样写**：模板比对由两位使用者当面进行。作者让 Kenzie 先提出「话术相同」的假设，再由 Addie 的记忆逐条证实（soulmate/诗/Snapflash/暗房逻辑）——两个受害者拿着同一份讲义对答案。这一句是全书对 groomer 手法最彻底的一次解剖：连「专属感」本身都是批量发放的。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：「可我截了图。」
 
-**关键词语**：I took screenshots
+**关键词**：I took screenshots
 
 **为什么这样写**：全案的证据学在一句话里完成反超。作者让 Kenzie 的截图成为对「六十秒焚毁」机制的降维打击——他用技术保证遗忘，她用技术坚持记忆。同一部手机，两种用法：他的信道只为销毁而建，她的相册只为记住而存。Addie 此刻才明白，自己输掉的不只是爱情，还有证据学这一课。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：「好，」我说。「我去。」
 
-**关键词语**：I’ll go
+**关键词**：I’ll go
 
 **为什么这样写**：全章的落款是三个词的结盟书。作者让 Addie 的决定不经过任何内心辩论——与此前每一次「三秒问号→信仰驳回」的流程不同，这一次她没有给信仰留答辩时间。名片上的数字（ch71 留下的）与 Kenzie 的截图在她手里合流——两个被同一个男人伤害的女孩，第一次组队。全书从这一页起换了引擎：不再是「她能不能醒」，而是「她们怎么反击」。
 
@@ -116,6 +116,14 @@ modified: "2026-10-02"
 | Thankfully | 所幸 | Thankfully, she doesn’t try to recite the poem again, because I would have had to run out of the room, holding my ears and screaming. |
 | prescribed | 开具的（处方） | I remember that bottle of pills I found in Kenzie’s medicine cabinet, prescribed for her brother. |
 | unfaithful | 不忠的 | Nathaniel told me he had never been unfaithful to his wife before. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
+
+### ⭐ 基础
+
+（本章基础档无合适词条）
 
 ## 一句话总结
 

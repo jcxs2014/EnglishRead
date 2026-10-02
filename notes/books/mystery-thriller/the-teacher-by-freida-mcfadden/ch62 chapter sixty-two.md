@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：他的目光顺着我的身体往下走——从又脏又起泡的双手，到满是泥的牛仔裤，最后停在那双沾满南瓜瓤的球鞋上。但他什么都没说。
 
-**关键词语**：dirty and blistered hands／But he doesn’t comment
+**关键词**：dirty and blistered hands／But he doesn’t comment
 
 **为什么这样写**：目光的验尸报告被沉默签收。作者让 Hudson 的视线完成一次完整的取证（手→裤→鞋，作案现场的每一层都挂在身上），然后用「不问」完成他的选择——上一次他问「出了什么事」，答案毁了他一年；这一次他不问，是因为他隐约知道答案会再毁一次。沉默在这里不是冷漠，是保护。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：我们从前是那种友谊——他会为我做任何事的那种。可后来他真的为我做了任何事，于是我们连朋友都不是了。
 
-**关键词语**：do absolutely anything for me／he did do absolutely anything
+**关键词**：do absolutely anything for me／he did do absolutely anything
 
 **为什么这样写**：全书对这条友谊最精辟的一句话总结。作者让「anything」在一句里完成从承诺到执行的坠落——杀父之秘就是这个动词的过去式。这段独白同时是 Addie 的忏悔：她比谁都清楚 Hudson 为什么疏远她，清楚到能把这个因果写成对仗。友谊死于兑现承诺——这是本书最疼的一则友谊定理。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：尽管 Nathaniel 把我一个人丢在这儿，我还是不能背叛他。
 
-**关键词语**：In spite of the fact／I can’t betray him
+**关键词**：In spite of the fact／I can’t betray him
 
 **为什么这样写**：忠诚的荒诞公式在本句完成推导。作者让「被丢在凶案现场+独自埋尸+凌晨三点求援」的全部委屈，输给「不能背叛」四个字——她的忠诚与他的行为完全脱钩。这一格是 grooming 效果的终极测量：被抛弃的当下仍拒绝出卖，说明她的忠诚已经不依赖他的表现，变成了自发的信仰。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：回到我家门口时，Hudson 最后一次转向我。他浅蓝的眼睛看起来很悲伤。「要是你需要，还是可以找我说的，Addie，」他说。
 
-**关键词语**：You can still talk to me／His pale blue eyes look sad
+**关键词**：You can still talk to me／His pale blue eyes look sad
 
 **为什么这样写**：旧友谊的正式重开仪式。作者让这句话带着「悲伤的蓝眼睛」送达——他知道的已经够多（她的样子、她的时间、她的沉默），不知道的他也不敢再问。这句话与 ch04 的「Hudson 会说：Addie 是我最好的朋友」隔空对齐——被现实按灭一年的台词，此刻由他亲口补发。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：「你需要的话，我就在这儿。还有，去年我对你挺混蛋的，对不起。那件事……真的把我的头搞乱了一阵子。我看你的时候，眼睛里全是……嗯，你懂的。」
 
-**关键词语**：messed up my head／without seeing…well, you know
+**关键词**：messed up my head／without seeing…well, you know
 
 **为什么这样写**：迟到一年的道歉在此到账。作者让 Hudson 把创伤讲得支离破碎（「well, you know」的省略号是全章最重的两个词）——他看见的是楼梯底的尸体。这段道歉的珍贵在于它的方向：他不要求她解释，只交代自己的坏。两个共守秘密的人，用各自承担的方式完成了和解。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：「可是……」他用长长的手指绞紧牛仔裤的裤腿。「你还是我最好的朋友，Addie。」
 
-**关键词语**：You’re still my best friend
+**关键词**：You’re still my best friend
 
 **为什么这样写**：关系档案的正式重开章。作者让「still」这个词扛起全部重量——经过杀父、疏远、Kenzie、一整年的互相躲避，这个词的「仍然」比任何新盟誓都贵。他的手绞着裤腿（紧张/真诚/无处安放的三合一动作），与 ch07 Eve 的「拉链」、ch59 的「掰指节」同属本书的身体语言家族：手，永远比嘴诚实。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：我只希望，等周一我们回到学校、他发现 Bennett 夫人失踪的时候，他还能是这么想的。
 
-**关键词语**：when we get to school on Monday／Mrs. Bennett has gone missing
+**关键词**：when we get to school on Monday／Mrs. Bennett has gone missing
 
 **为什么这样写**：全章的暖意在本句被一刀放空。作者让 Addie 把「友谊的重开」与「失踪新闻」并排计时——她自己也知道，下一个测试远比今晚残酷。这句话同时是悬念的正式交接：凶案的余波将从林间转进校园，而她的封口令已经同时发给了两个人（Nate 的 deny everything / Hudson 的不许说）。
 
@@ -116,6 +116,10 @@ modified: "2026-10-02"
 | forty-eight | 四十八 | He makes it in forty-eight minutes. |
 | disheveled | 乱糟糟的 | His white-blond hair is all disheveled, and he’s got sleep in his eyes. |
 | white-blond | 白金色的 | His white-blond hair is all disheveled, and he’s got sleep in his eyes. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

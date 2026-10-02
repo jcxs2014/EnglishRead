@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：我把情况跟她说了一遍，尽量避开「喝醉」这个词，虽然很难。最难堪的是，Marsha 似乎一点都不意外。
 
-**关键词**：the word “drunk”／not the slightest bit surprised
+**关键词**：the word “drunk”／doesn’t seem to be the slightest bit surprised
 
 **为什么这样写**：送人回家的尾声只写一个反应：妻子不意外。作者用一个词的回避（drunk）量出 Eve 的体面，再用一份毫不意外的平静量出这个家的深度——塌方早已成为日常。Eve 目睹的不是一场意外，而是一种生活的常态；她带走的警告因此又多了一层：连警告者的家都不设防了。
 

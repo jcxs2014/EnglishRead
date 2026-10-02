@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：而当我的手只碰到身旁冰凉的床单时，我感到一阵解脱涌上来。
 
-**关键词语**：the cold sheets beside me／a rush of relief
+**关键词**：the cold sheets beside me／a rush of relief
 
 **为什么这样写**：婚姻的死亡证明以「冷床单」的意象开出。作者让 Nate 的手在习惯的位置摸索——八年的身体记忆还在找她，而他的第一情绪是解脱。这一秒的麻木比 ch57 的掐杀更冷：杀人在夜里完成，享受在早晨开始。床单的冷与他的「自由」构成全章的温度基线。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：她一心要毁掉我的人生，而就在一个晚上，我解决了这个问题。
 
-**关键词语**：set out to destroy my life／solve this problem
+**关键词**：set out to destroy my life／solve this problem
 
 **为什么这样写**：全案的账目观在此定格。作者让 Nate 把杀妻与埋尸统计算成「解决问题」——婚姻是问题，威胁是问题，而人命只是问题的一种解法。这句自评的可怕在于它的财务口吻：他没有恐惧、没有亢奋，只有一道被清偿的方程式。序幕的读者至此看清：那把铲子在他的账本上，只是一个平账科目。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：Addie 打电话给我的时候，我正坐在酒吧里，慢斟一杯威士忌，盘算下一步。我没想到那通电话会解决我所有的问题。
 
-**关键词语**：nursing a glass of scotch／solve all my problems
+**关键词**：nursing a glass of scotch／solve all my problems
 
 **为什么这样写**：案发时刻的不在场证明由他自己念出。作者让「酒吧+威士忌+盘算」三个细节还原他的夜晚：他在等一个结果，结果比预期来得更好。「解决所有问题」的账本上没有列出那些新问题（一具可能还活着的埋尸、一个知道太多的女孩、一个会报失踪案的岳家）——他的乐观正是全书后半程恐怖的燃料。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：（Eve 是唯一知道真相的人，而她谁也没告诉。照片已经删掉。而 Addie 已经证明了自己精神不稳定。）
 
-**关键词语**：Eve was the only one who knew the truth／Addie has proven herself to be unbalanced
+**关键词**：Eve was the only one who knew the truth／Addie has proven herself to be unbalanced
 
 **为什么这样写**：防线的三层自查在此完成。作者让 Nate 逐条清点他的安全垫：知情人已灭口、物证已删除、替罪者已社会性死亡。「unbalanced」一词尤其毒——它与 Art 案的「fixated」、他对 Higgins 的「她不可信」连成同一条污名化流水线。这个男人的完美犯罪教科书里，每一个不在场的人都被提前写好了不可信的批注。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：我低头盯着浴缸底部那双红色细高跟鞋。这栋房子里每个犄角旮旯我都发现过 Eve 的鞋，但浴缸这一处还是头一回。
 
-**关键词语**：red pumps sitting in the bottom of the bathtub／novel to me
+**关键词**：red pumps sitting in the bottom of the bathtub／novel to me
 
 **为什么这样写**：全书第一件「超自然」物证以最日常的形态入场。作者让「每个角落都有鞋」的既有笑料在本章突然变调——浴缸里的鞋不再是收纳混乱，是有人深夜把它们放进去的。读者知道 Eve 会怎么想（让杀她的人也尝尝冰水），他只觉得「不新鲜了」。同一双鞋，两种读法：闹鬼还是日常，取决于你知不知道浴缸里泡过谁。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：听起来几乎就像有人就站在门外。但这不可能。Eve 不在这儿，而且没有别人有钥匙。
 
-**关键词语**：somebody is right outside the door／nobody else who has a key
+**关键词**：somebody is right outside the door／nobody else who has a key
 
 **为什么这样写**：敲门声的两难证明在此列式。作者让 Nate 自己给出排除法：门外的人=有钥匙的人=不在的人=死了的人——逻辑每一步都成立，结论每一步都瘋狂。他用「不可能」关闭了那个唯一的解释，而这正是恐怖片的经典配方：房子里的鬼，是死者唯一能留下的脚印。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：黑暗而已，别无其他。
 
-**关键词语**：Darkness there and nothing more
+**关键词**：Darkness there and nothing more
 
 **为什么这样写**：《乌鸦》的名句在此成为他的护身符。作者让 Nate 用文学安抚恐惧——他一生的知识都用在把可怕的事情「翻译成典雅」。而这句引文的双刃在于：诗里的说话者以为门外只有黑暗，随后乌鸦登场，把他的余生钉在门上。他背得出下一句，却没想过剧情也会押韵。
 
@@ -111,7 +111,7 @@ modified: "2026-10-02"
 
 **中文理解**：再然后，我就去报警。
 
-**关键词语**：I’ll be calling the police
+**关键词**：I’ll be calling the police
 
 **为什么这样写**：全章收在一句最冷的日程安排上。作者让「报警」排在他的一天清单的末位（改作业→午饭→超市→报警）——报失踪案的时机被他规划成下午茶之后的待办。这句的恐怖不在内容，在语序：妻子不是失踪了，是一个待通知的项目。序幕与本章之间的全部落差（挖坑的手/报警的嘴）在此完成合流——同一个人，两副嗓子。
 
@@ -129,6 +129,10 @@ modified: "2026-10-02"
 | silhouette | 剪影、轮廓 | Her absence is so disconcerting that for a moment, I feel around her side of the bed, searching for her silhouette. |
 | momentarily | 短暂地、一时 | When the morning sun dawns on the horizon, I am momentarily surprised to find the space next to me in bed is empty. |
 | companionship | 陪伴 | Despite my recent lack of affection for my spouse, her companionship is something on which I had learned to rely. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

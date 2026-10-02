@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：「我决定不把这件事上报校长，」我告诉她。
 
-**关键词语**：decided not to bring this matter to the principal
+**关键词**：decided not to bring this matter to the principal
 
 **为什么这样写**：全章的枢纽决定，语气却像宣布天气。作者让 Eve 用第一人称的「decided」认领这个决定——而这恰恰是本章的暗病所在：这个「决定」昨晚已在别人的怀里做好了，她只是来签字。程序正义在此被降格为一次个人恩典，恩典的成本由全校的规则分摊。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：「期中考我给你零分，」我说。这一击会让她几乎不可能通过这门课，所以——我要是还有点同情心——就得给它配个缓冲。
 
-**关键词语**：a zero on the midterm／if I have any heart
+**关键词**：a zero on the midterm／if I have any heart
 
 **为什么这样写**：惩戒与慈悲被装进同一次呼吸。作者让 Eve 的「零分」带着配套的缓冲一起下达——惩罚的制度功能与个人的宽厚互相作保。值得记下的是「almost impossible」这个表述：零分不是处罚的终点，是交易的抵押品，赎回条件将在下一句亮出。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：「我列了一份同伴辅导员的名单。要是期末前你的成绩明显提上来，我就撤销期中那个零分。」
 
-**关键词语**：a list of peer tutors／drop the midterm grade
+**关键词**：a list of peer tutors／drop the midterm grade
 
 **为什么这样写**：恩典的兑付条件在此挂出。作者让「名单」与「对冲」构成一份口头契约——纪律问题变成了绩点谈判。这份好意与现实之间隔着一道 ch31 已经量过的沟：Addie 家连房贷都谈得吓人，「有偿辅导」对她是又一个够不着的选项。好意没有错，只是它又一次精准地帮不了那个最需要它的人。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：这一次的判断失当我愿意原谅，但我可不打算跟这女孩做朋友。她不过是运气好——Nate 在她身上看出了点什么；而上帝作证，我看不出来。
 
-**关键词语**：Nate sees something in her／God knows I don’t
+**关键词**：Nate sees something in her／God knows I don’t
 
 **为什么这样写**：全章的判词在此落款，两句互相拆台。作者让 Eve 一边盖章丈夫的眼光，一边补上自己的不以为然——她不知道这句「God knows I don't」是全书嗅觉最灵的一句台词。她的直觉始终在线，只是每次都被「他看得出」的信任当场按灭。而「lucky」这个词更是一语成谶：这份运气，正是两个人共同制造的产品。
 
@@ -80,6 +80,10 @@ modified: "2026-10-02"
 | struggling | 挣扎、学得吃力（现在分词） | She has been struggling in my class, and I have known it. |
 | impossible | 不可能的 | That is a blow that will make it almost impossible for her to pass the class, so if I have any heart, I need to soften it. |
 | persuasive | 有说服力的、能说动的 | I grunt, knowing that if Nate hadn’t been so persuasive last night, I would be marching her to see Higgins now. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

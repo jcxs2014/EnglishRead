@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：「你看起来今天过得很糟，」他表示知情。「所以我准你翘掉这节课。今晚没有作业。放松一下。」
 
-**关键词**：giving you permission／no homework tonight
+**关键词**：giving you permission／There won’t be any homework tonight
 
 **为什么这样写**：豁免被包装成处方。作者让 Mr. Bennett 的关怀带着一整套权力动作：诊断（rough time）→处方（skip+免作业）→医嘱（relax）。三步全部出自一个老师对学生最正当的职责范围，也三步全部越过了同一个边界：规矩开始为他认可的人让路。Addie 收下的不是一下午假，是「我是例外」的身份认证。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：学校有一本全体学生的住址名录。在我「借」了她的家门钥匙之后，我查到了她的地址。
 
-**关键词**：a directory of all the students’ addresses／"borrowed"
+**关键词**：a directory of all the students’ addresses／“borrowed”
 
 **为什么这样写**：两件小事在这句完成会师：一本没人设防的名录，一串偷来的钥匙。作者让 Addie 给「偷」打上引号——引号是她最后的遮羞布，而句子的其余部分（查地址）已经把手伸向下一阶段：从占有物件到定位人生。滑坡的每一步都有正当理由，这是全章最阴冷的教学。
 

@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：如果你从没被活埋过，我不推荐你尝试。
 
-**关键词语**：buried alive／I don’t recommend it
+**关键词**：buried alive／I don’t recommend it
 
 **为什么这样写**：第三部的开场白把地狱写成差评。作者让 Eve 用推荐语的口吻陈述最恐怖的经历——这种「轻描淡写的重」是她全书的声音签名（序幕的「挖坑是苦活」同款语法）。幽默在这里不是消解恐惧，是她掌控恐惧的方式：能把活埋讲成差评的人，已经赢了一半。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：Taphephobia，指对被活埋的恐惧。
 
-**关键词语**：Taphephobia
+**关键词**：Taphephobia
 
 **为什么这样写**：她用自己的方式武装叙述：先给恐惧一个学名。作者让 Eve 在绝境叙事里插入知识考古（裹尸布/华盛顿/安全棺材）——这是她的防御机制，也是她与 Nate 的镜像对决：他用文学粉饰罪行，她用学识解剖遭遇。同一对夫妻，同一件武器（引用），不同的用途。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：唯一能杀死我的，是他们发现我还活着。
 
-**关键词语**：the only thing that will kill me／find out I am still alive
+**关键词**：the only thing that will kill me／find out I am still alive
 
 **为什么这样写**：活埋求生策略的核心方程在此列出。作者让 Eve 把全部风险收敛为一个变量——不是氧气、不是伤，是「被发现」。这一句同时是全书的战略宣言：她接下来做的每一件事（装死/等待/爬出/潜行/寄鞋）都严格执行这条公式。被埋的人与埋人的人第一次共享同一套工程学，只是埋的那位不知道。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：毕竟，这是确保我丈夫为他想对我做的事付出代价的唯一办法。
 
-**关键词语**：my husband pays／what he tried to do
+**关键词**：my husband pays／what he tried to do
 
 **为什么这样写**：复仇的宪法条款在此签署。作者让「爬出去」这个求生动作直接挂上「追责」的语义——她从泥土里带出来的不只是身体，还有一份完整的起诉书。这句话与序幕「天亮前埋完」对读：同一片南瓜地，他埋她的理由是灭口，她爬出的理由是清算。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：我要回家。然后，我要让 Nate 为这一切付出代价。
 
-**关键词语**：make Nate pay for this
+**关键词**：make Nate pay for this
 
 **为什么这样写**：全章的收束句把复仇计划压进一句日常陈述。作者让「回家」与「让他付账」并列——家不再是她在 ch21 里想逃离的地方，而是她的作案据点：她要回到那间厨房、那条走廊、那个鞋柜密布的家，把他最熟悉的生活变成他的刑场。序幕的谜底在此正式公布：挖坑的是她，埋的是他。
 
@@ -93,6 +93,10 @@ modified: "2026-10-02"
 | experiences | 经历（复数） | Finding myself buried under the dirt was one of the worst experiences I have ever had in my entire life. |
 | accompanied | 伴随（过去分词） | The shovel scrapes against the ground again, and this time it is accompanied by something hitting me in the leg. |
 | uncomfortable | 不舒服的 | I am lying on something cold, irregular, and very uncomfortable. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

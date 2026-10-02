@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：唯一的问题是，他似乎不这么觉得。
 
-**关键词**：The only problem／doesn’t feel the same way
+**关键词**：The only problem／doesn’t seem to feel the same way
 
 **为什么这样写**：上一句她刚承认「我仍强烈地被丈夫吸引」，这一句五个词完成反转。作者用「唯一的问题」这个轻描淡写的句式盛放婚姻的死穴——仿佛只是一个小故障，实际是整台机器的断电。这句的克制越强，下一章「渴望被碰」的喊叫越响。
 

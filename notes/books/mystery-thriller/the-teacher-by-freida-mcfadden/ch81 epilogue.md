@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：自从把我最好的朋友找回来，世界看起来亮堂多了。
 
-**关键词语**：my best friend back／the world seems a lot brighter
+**关键词**：my best friend back／the world seems a lot brighter
 
 **为什么这样写**：尾声的基调由这句话定色。作者让 Addie 的世界亮度与 Hudson 的归位绑定——回望全书，这份「亮」来之不易：它经过了杀父的秘密、一年的冷战、雪夜的救援与两个人的守口如瓶。友谊在这本书里是唯一没被 Nate 污染的关系，尾声把唯一的阳光分给了它。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：我猜他知道自己有大麻烦了，觉得消失比背上性犯罪者的标签要好。
 
-**关键词语**：better to disappear／labeled as a sex offender
+**关键词**：better to disappear／labeled as a sex offender
 
 **为什么这样写**：Nate 的结局以「在逃」的形式悬置。作者让 Addie 用最平静的语气交代反派的下场——没有逮捕、没有审判，只有一个逃走的人和一个标签。这与本书的运行规则一致：法律与叙事一样，永远慢半拍。但「sex offender」这个词由受害者的嘴说出来，本身就是一份判决书。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：当然，Bennett 夫人和我都知道真相。我们也都知道，如果我当时埋上去的是土而不是落叶，一切都可能走向完全不同的结局。
 
-**关键词语**：buried her with dirt instead of leaves／gone very differently
+**关键词**：buried her with dirt instead of leaves／gone very differently
 
 **为什么这样写**：全书最惊人的忏悔藏在最平静的语法里。作者让 Addie 亲口确认：她差点活埋了 Eve——那层落叶与浅土的差距，就是「谋杀未遂」与「侥幸」的距离。这句独白同时解开 ch61 的全部疑点（她盖土盖得很薄/铺了叶子）——她的「手下留情」或许只是天真，但 Eve 用这条命领了这份情。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：至于 Bennett 先生——原来 Kenzie 和我并不是他学生里仅有的「灵魂伴侣」。
 
-**关键词语**：weren’t the only “soulmates”
+**关键词**：weren’t the only “soulmates”
 
 **为什么这样写**：受害者的规模在尾声完成最终清点。作者让带引号的「soulmates」一词背负全部的讽刺——这个词在全书出现过的每一次（Eve/Kenzie/Addie，以及「不止我们两个」暗示的更多），此刻都成了同一份罪状的复写件。教师猎场的完整规模，直到尾声才允许读者看清全貌。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：另外，我们俩都在做专业的谈话治疗。这都有帮助。
 
-**关键词语**：professional talk therapy
+**关键词**：professional talk therapy
 
 **为什么这样写**：全书唯一合法的救赎路径在尾声开门。作者让两个女孩选择治疗而非复仇的延长线——这与 Eve 的私刑路线构成全书最后的分岔：同一批伤害，有人用泥土清算，有人用诊室结算。这句话的朴素（「这都有帮助」）恰恰是全书最健康的一句台词。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：「她……呃……她特别喜欢鞋，以前老来我们鞋店，然后，呃，对。」
 
-**关键词语**：really liked shoes／used to come to the shoe store
+**关键词**：really liked shoes／used to come to the shoe store
 
 **为什么这样写**：全书的最后一颗雷藏在结巴里。作者让 Hudson 描述的「旧友」逐项对上 Eve 的档案（爱鞋/常来鞋店/曾经很糟/现在终于开心）——读者在最后三段里完成全书最大的一次身份合并：Jay＝Hudson，Eve 的救命恩人、共同埋尸者与现在的恋人，正是 Addie 刚刚挽起手的男孩。尾声的阳光越暖，这道寒意越深。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：「我认识她挺久了，她好像头一回这么开心，挺好的，你懂吧？我希望她幸福。她值得。」
 
-**关键词语**：happy for the first time ever／She deserves it
+**关键词**：happy for the first time ever／She deserves it
 
 **为什么这样写**：全书的判决书由三个「她」写成。作者让 Hudson 口中的「她值得」与 Eve 活埋丈夫的狠、寄鞋的巧、藏身的静并置——那个在坑里装死的女人，如今「头一回开心」。这句话的道德重量无法简单称量：她的幸福建立在一场活埋上，而说出祝福的人，是挥铲的帮手。尾声不给读者判断的工具，只给一张笑脸。
 
@@ -116,6 +116,14 @@ modified: "2026-10-02"
 | quarterback | （橄榄球）四分卫 | He deserves the title of star quarterback. |
 | scholarship | 奖学金 | He’s going to get a scholarship to a great college—they’re all going to be fighting over him. |
 | Popularity | 受欢迎（大写用于称号） | I’m still not Miss Popularity, but I don’t care. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
+
+### ⭐ 基础
+
+（本章基础档无合适词条）
 
 ## 一句话总结
 

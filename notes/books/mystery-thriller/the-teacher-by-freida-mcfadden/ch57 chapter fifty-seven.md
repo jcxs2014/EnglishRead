@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：接下来我意识到的是头部右侧一阵一阵的跳痛。感觉像被人用砖头砸了脑袋——一下，又一下，反复地砸。
 
-**关键词语**：clocked me in the head with a brick／Repeatedly
+**关键词**：clocked me in the head with a brick／Repeatedly
 
 **为什么这样写**：伤情报告由痛觉翻译完成。作者让 Eve 用「砖头/反复」来反推攻击的形状——「Repeatedly」这个她此生第一次用在自己身上的词，恰好就是 Addie 在 ch56 自认的那声「三下」。两个叙述者对同一次暴力的描述在此完成对接：一个记得挥了三下，一个疼了三下的倍数。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：最后，我意识到了丈夫的存在。我躺在地板上，他站在我上方，右手握着我的手机，正在划屏幕。
 
-**关键词语**：standing over me／scrolling through the screen
+**关键词**：standing over me／scrolling through the screen
 
 **为什么这样写**：苏醒后的第一幅构图全是信息。作者让三个细节并排：站姿（俯视）、手机（物证）、划屏（销毁中）——每一项都不解释，让读者自己拼出「他在确认她死没死、顺便清理证据」的全貌。Eve 的困惑是真实的，读者手里的序幕知识此刻完全接管了叙事。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：「天哪，你真冷血。」他摇着头。「你要我怎样，Eve？你要我求你吗？」他跪坐到我坐着的地板边。「求你了，Eve。我求你。别把这事捅给 Higgins。」
 
-**关键词语**：you are heartless／I’m begging you
+**关键词**：you are heartless／I’m begging you
 
 **为什么这样写**：加害者的哀求戏在此上演。作者让他在「冷血」的指控里跪下——这个动作的设计感极强：他需要她相信「这是情急的挣扎」而不是「这是灭口的预热」。而 Eve 的回应（这是对的事）宣判了哀求的失败——他跪下的时候，杀意已经在排队了。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：「意思是……」他抬起眼睛看向我。「意思是，我不会让你毁了我的人生。」
 
-**关键词语**：I won’t let you wreck my life
+**关键词**：I won’t let you wreck my life
 
 **为什么这样写**：杀意的官方宣言，只有一行。作者让这句话成为他与全书的分界线——此前所有的话术（爱/灵魂伴侣/抗拒）都在这一句里卸妆。「wreck my life」是他真正在乎的唯一资产清单，而站在他面前、流着血的妻子不在清单上。这一句之后，语言退场，双手上场。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：至少——直到他的双手环上我的脖子。
 
-**关键词语**：his hands wrap around my neck
+**关键词**：his hands wrap around my neck
 
 **为什么这样写**：全书最重的一句转折，用一个时间状语完成。作者让「not until」的句式把前文所有的讨论、哀求、僵持全部归零——双手上喉的那一刻，讨论结束。这一句的冷静与 ch54 的平底锅同构：本书的每次暴力都不预告，只回放。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：我的视野慢慢黑下去。我要死了。这个男人正在杀我——就在此地，就在此刻。
 
-**关键词语**：fades to black／This man is killing me
+**关键词**：fades to black／This man is killing me
 
 **为什么这样写**：死亡的第一人称直播，全书仅此一格。作者让 Eve 在窒息中保持叙述权——三个短句（我要死了/这个男人在杀我/就在此刻）是全书中最清醒的遗言。她到死都没有失去语言的能力，只失去了呼吸的能力；这份叙述的坚持与她全书的人格一脉相承：她始终是那个把一切记下来的人。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：当然更不会是我的丈夫——把生命从我身上挤出去的就是他，而我死前看到的最后一张脸，也是他。
 
-**关键词语**：the last face I see before I die
+**关键词**：the last face I see before I die
 
 **为什么这样写**：遗言的最后一行交给最荒凉的一栏。作者让 Eve 的死亡清点以丈夫收尾——「最后的脸」这个意象把全书的婚姻史压进一个画面：从 ch01 的「三吻时刻表」到今夜的双手，那张脸她看了八年，最后一眼是它。这段的平静比控诉更重：她连恨的力气都留给呼吸了。
 
@@ -117,6 +117,10 @@ modified: "2026-10-02"
 | unconscious | 昏迷的、失去知觉的 | He must have come back for something and discovered me lying unconscious on the kitchen floor. |
 | discovered | 发现（过去式） | He must have come back for something and discovered me lying unconscious on the kitchen floor. |
 | overwhelming | 铺天盖地的 | Again, I get a wave of overwhelming dizziness. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

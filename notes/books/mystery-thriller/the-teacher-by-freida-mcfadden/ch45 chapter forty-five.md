@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：这远不是我第一次背着老师本人去老师家。Tuttle 先生的大麻烦，就是这么来的。
 
-**关键词语**：the first time I’ve gone to a teacher’s house／got Mr. Tuttle into so much trouble
+**关键词**：the first time I’ve gone to a teacher’s house／got Mr. Tuttle into so much trouble
 
 **为什么这样写**：自供状的第一行就把两案锁死。作者让 Addie 亲口承认行为模式（潜行至教师住宅）的连续性——这个承认与她的无辜叙事（什么都没发生）并不矛盾，却让 Art 案的悲剧机制彻底显影：误会不需要双方都做错什么，只需要一个人出现在错误的地方。她的忏悔是真的，她的惯性也是真的。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：所以，是的，他碰过我。但不是那种碰——差了十万八千里。
 
-**关键词语**：he did touch me／not like that
+**关键词**：he did touch me／not like that
 
 **为什么这样写**：Art 案的核心误会在此完成解剖。作者让 Addie 自己把「触碰」的两个语义摆上台面：哭泣时落在肩上的一只手、校长口中「不恰当的触碰」——同一次接触在两套语言里是两个物种。她的「hesitation」不是心虚，是翻译的迟疑；但审判不等人，犹豫即供词。这一格是全书对「语言如何杀人」最精确的还原。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：这之前，我已经背着 Nathaniel 去过他家两次了。
 
-**关键词语**：twice before without him knowing
+**关键词**：twice before without him knowing
 
 **为什么这样写**：危机的规模在一句内升级。作者让「last night」变成「第三次」——重复性把偶发事故改写成行为模式，而这次的目击者是 Eve 本人。对照 Art 案的结局（一次潜行=一生毁灭），这第三次潜行的赌注已经写得明明白白。Addie 的「stupid, stupid, stupid」三连自骂是清醒的，清醒却停在了自骂，没走到收手。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：「校长会找你谈这件事。能拦的我都拦了。全盘否认。」
 
-**关键词语**：Deny everything／I did what I could
+**关键词**：Deny everything／I did what I could
 
 **为什么这样写**：指令的下达只用了两个词。作者让「Deny everything」成为这条线的行动纲领——简洁、可执行、无痕。它与「I did what I could」连读更冷：他先声明尽力了（免责），再下达命令（定责）。从此 Addie 的每一次撒谎都有出处——她的伪证技能不再来自求生本能，而来自课程教学。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：「我整条命都攥在你手里。」
 
-**关键词语**：My entire life is in your hands
+**关键词**：My entire life is in your hands
 
 **为什么这样写**：ch38 的「职业生涯」在本章升级为「整条命」。作者让抵押品的面额随案情水涨船高——从工作到生命，从依靠你到全指望你。这句话对 Addie 的效应是双重的：甜蜜（被全然依赖）与枷锁（不许失手）。它也是全书最大的一处角色倒置：成年人把生死押给未成年人，而未成年人觉得这是爱情。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：我宁愿被埋进海底的一座坟墓。
 
-**关键词语**：buried in a tomb in the sea
+**关键词**：buried in a tomb in the sea
 
 **为什么这样写**：Annabel Lee 的意象在此钻进她的下意识。作者让 Addie 的内心语言开始被那首诗殖民——「海边的坟墓」是 Poe 的爱人之冢，此刻成了她形容失恋之痛的词根。这个细节的寒意在于预兆的形状：这本书反复把「埋」「墓」「海」种进她的语言土壤，而序幕已经展示过一具被埋的身体。文学引用在这本书里从来不是装饰，是天气预报。
 
@@ -95,11 +95,11 @@ modified: "2026-10-02"
 
 ---
 
-> **原句 7:** But Mrs. Bennett assumed I was there entirely because of her. Because she knows that I despise her. That I wish more than anything she wasn’t in my life. And in that sense, she is right.
+> **原句 7:** But Mrs. Bennett assumed I was there entirely because of her. Because she knows that I despise her. That I wish more than anything she wasn’t in my life.
 
-**中文理解**：但 Mrs. Bennett 以为我去她家完全是因为她。因为她知道我鄙视她。知道我最大的愿望就是她从我的生活里消失。从这个意义上说，她没想错。
+**中文理解**：但 Mrs. Bennett 以为我去她家完全是因为她。因为她知道我鄙视她。知道我最大的愿望就是她从我的生活里消失。（下一段原文：在这个意义上说，她没想错。）
 
-**关键词语**：she knows that I despise her／In that sense, she is right
+**关键词**：she knows that I despise her／she wasn’t in my life
 
 **为什么这样写**：全章的认罪书只有这一份。作者让 Addie 否认了行为（不在灌木丛）、否认了历史（没去过）、认领了动机（我恨她）——而最后这份认领才是全章真正的自白。她骗过了校长、骗过了 Eve、骗过了程序；唯独在恨意上，她拒绝撒谎。这个诚实比任何伪证都危险：恨被确认，动机就永远在线。
 
@@ -119,6 +119,10 @@ modified: "2026-10-02"
 | affectionate | 亲昵的 | Maddox’s husband was very affectionate with her, but Nathaniel barely touched Mrs. Bennett. |
 | immediately | 立即 | He warned me that if anyone catches wind of it, we would have to stop seeing each other immediately. |
 | physically | 身体上（此处指切肤之痛） | The idea of never being close to him again is physically painful. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

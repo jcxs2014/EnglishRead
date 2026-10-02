@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：我抓到我丈夫在吻他十六岁的学生。他在跟她上床。现在我已经把他赶出门，并且一有可能就去申请离婚。
 
-**关键词语**：one of his sixteen-year-old students／He was having sex with her
+**关键词**：one of his sixteen-year-old students／He was having sex with her
 
 **为什么这样写**：创伤的四句话速记版。作者让 Eve 的清账干脆到冷酷——注意第二句的时态与断言力度：「He was having sex with her」不是疑问是陈述。她的证据链（照片+走廊淤痕+门玻璃之吻）支撑起了这个推断，但本书从未展示过「上床」的直接证据——这是她的叙事越过证据的一步，也是她此后所有判断的基线。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：我从没意识到，夜里家里有响动时，屋里有个男人是多好的一件事。
 
-**关键词语**：things went bump in the night／how nice it was to have a man
+**关键词**：things went bump in the night／how nice it was to have a man
 
 **为什么这样写**：黑色幽默在最怕的时刻上岗。作者让 Eve 在恐惧中清点前夫的「功能价值」——讽刺的三层：他正因为她抓到他而离开；她真正的男人（Jay）在别处；而这个「夜里该有的男人」，此刻正是学生窗外、灌木丛里、乃至厨房里的那个变量。安全感在这本书里从来不是人给的，是人形占位符给的。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：我不想把整栋房子连同楼上那些漂亮的鞋都留给贼。要是有人偷了我的 Christian Louboutin 怎么办？如果我要逃命，能不能把鞋带上？
 
-**关键词语**：my beautiful shoes upstairs／can I bring my shoes with me
+**关键词**：my beautiful shoes upstairs／can I bring my shoes with me
 
 **为什么这样写**：逃命清单上最诚实的一栏。作者让 Eve 在生死关头清点鞋柜——这份「荒唐」是全书对她最立体的一笔：鞋是她的止痛药、她的身份感、她在婚姻里唯一的走私品。笑话讲完她自己都心惊（「也许我真该看医生」），而读者该记住的是更深的一层：这双在 ch07 差点让她栽掉的鞋，如今是她唯一想带走的人生。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：我还在盘算下一步怎么办，厨房又传来一个声音。这一次，我清清楚楚听见一个女孩在骂骂咧咧。
 
-**关键词语**：the sound of a girl swearing
+**关键词**：the sound of a girl swearing
 
 **为什么这样写**：入侵者的身份在声音里泄底。作者让「女孩的咒骂」成为最后一根定位桩——它同时排除了两栏嫌疑（成年贼/野兽），把答案压缩到唯一的候选人。这一格与 Addie 侧的 ch52 对齐：她决定「来讲道理」，此刻正在厨房里笨手笨脚——她的「讲道理」入侵了别人的家，如同当年的窗户与衣橱。
 
@@ -80,6 +80,10 @@ modified: "2026-10-02"
 | sixteen-year-old | 十六岁的 | I caught my husband kissing one of his sixteen-year-old students. |
 | Neapolitan | 三色（拿坡里）冰淇淋的 | I skip dinner entirely and end up grabbing some Neapolitan ice cream to soak up the alcohol in my belly. |
 | appreciated | 意识到其价值（过去式） | I never quite appreciated how nice it was to have a man in the house when things went bump in the night. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

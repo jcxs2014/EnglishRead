@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：她脸上的血色一寸寸褪尽，我相当确定，她仅剩的几根棕发也当场转成了白色。
 
-**关键词语**：drains of all color／switch over to being white
+**关键词**：drains of all color／switch over to being white
 
 **为什么这样写**：母亲的惊吓被写成一场即时的生理事件。作者用夸张的白发转色给这一格定调——这不是修辞，是一个独自撑了两年（丧夫/护女）的女人的应力显示。她的每一次「相信女儿」都在燃烧她的身体，本章只是烧到了发梢。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：引擎轰然点火，声音大得我不得不后退一步。
 
-**关键词语**：The engine roars to life／take a step back
+**关键词**：The engine roars to life／take a step back
 
 **为什么这样写**：全章唯一的「爆点」交给了引擎。作者让这声轰鸣同时炸掉两样东西：那辆两年没启动的车的「不可能启动」，和 Addie 用它搭好的不在场辩护。物理事实在这里完成了测谎——它不知道保护谁，它只是响了。而她退后的那一步，是身体先于良心承认了败诉。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：在我这十六年里，我做过可怕的事。我把父亲推下了楼梯。我跟踪过 Art Tuttle。我和我的老师上了床。我用平底锅砸晕了 Bennett 夫人。
 
-**关键词语**：terrible things in my sixteen years／I pushed my father down the stairs
+**关键词**：terrible things in my sixteen years／I pushed my father down the stairs
 
 **为什么这样写**：全书的自我 Inventory 在此一次交清。作者让四宗罪用四个等长短句排列——楼梯、跟踪、床、锅——把两个视角线（Addie/Eve）的叙事成果在同一行里完成合并。这段的珍贵在于它的完整：她终于不对自己隐匿任何一项。而清单里独缺一项定罪（杀人）——因为连她自己都不知道那算不算她干的。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：可我已经不确定，杀死她的到底是不是我。
 
-**关键词语**：not sure anymore if I killed her
+**关键词**：not sure anymore if I killed her
 
 **为什么这样写**：全书的定罪悬案由被告本人写出存疑句。作者让「anymore」承担全部重量——她曾经确定（ch55-56 的惊恐与认领），如今红痕、位置、指印的积累让确定性松动。这一句是 ch60「自供式反问」的第一次正式消化：她开始把他的反问，当成一种可能的答案来存储。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：到最后我明白，这会变成 Nathaniel 的词对我的词。而他会否认一切。
 
-**关键词语**：Nathaniel’s word versus mine／he’s going to deny everything
+**关键词**：Nathaniel’s word versus mine／he’s going to deny everything
 
 **为什么这样写**：终局的预演在本章提前上演。作者让 Addie 清醒地预判了她的败局形式：这不是证据战，是「词」对战——而对方的词有三十岁的年龄差、有教师的身份、有全校的名望背书。她预测他的策略（deny everything）完全正确——她唯一算错的是这场对词的真正赌注：不是谁进监狱，而是谁活着走出南瓜地。
 
@@ -91,6 +91,14 @@ modified: "2026-10-02"
 |---|---|---|
 | considering | 考虑（现在分词） | The last time my mother drove the car was at least two months ago, when she was considering selling it. |
 | pleadingly | 恳求地 | “I didn’t even know it would start,” I say pleadingly. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
+
+### ⭐ 基础
+
+（本章基础档无合适词条）
 
 ## 一句话总结
 

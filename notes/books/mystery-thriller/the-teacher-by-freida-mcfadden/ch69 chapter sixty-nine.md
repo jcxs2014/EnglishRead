@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：对不起，Addie。这事总得有人顶罪，而那个人不能是我。
 
-**关键词语**：take the fall for this／it can’t be me
+**关键词**：take the fall for this／it can’t be me
 
 **为什么这样写**：他给 Addie 的死刑判决书只有两行，还附赠道歉。作者让这句内心独白以「对不起」开场——愧疚的仪式感做足了，判决的内容却一个字没改。这句话与 ch67 的「顶罪」问句（Addie 的怀疑）互为回声：她问对了一次，他在心里答了一次，双方都清楚，双方都没有下一步。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：等他们最终挖出 Eve 的尸体时，所有证据都会指向她。她的指纹甚至遍布 Eve 的车上。
 
-**关键词语**：exhume Eve’s corpse／all the evidence will lead to her
+**关键词**：exhume Eve’s corpse／all the evidence will lead to her
 
 **为什么这样写**：他的「剧本终稿」在此过审。作者让 Nate 把警方未来的每一步（排查/挖尸/对指纹）都排练成对自己有利的走向——这份自信的底料是他对 Addie 的完整控制史：她的指纹、她的恨、她的信、她的孤僻，全是他在过去几个月里亲手布置的展品。他不是在预测警察，他是在验收自己的作业。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：「是位访客，」叩响我房门的访客。
 
-**关键词语**：tapping on my chamber door
+**关键词**：tapping on my chamber door
 
 **为什么这样写**：《乌鸦》的名句在此从背景音乐升格为台词。作者让 Nate 在敲门声响起的瞬间自动背出原诗——他的大脑已经无法区分「生活」与「文学引用」，或者说，他一直活在文学里，只是从没想过有一天自己会成为诗里那个被叩门的失眠者。这句引用是全书文学系统的总闸门：Annabel Lee 是他的情书，乌鸦是他的判决书。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：鞋底上糊满了泥。
 
-**关键词语**：The soles of the shoes are covered in dirt
+**关键词**：The soles of the shoes are covered in dirt
 
 **为什么这样写**：全章的重锤只有七个词。作者让「泥」作为判词独立出现——它比指纹直白，比南瓜具体：只有一种地方的地，会出现在一双本该在他家衣柜里的鞋底上。这一格的叙事精度在于顺序：他先看见鞋（惊喜褪去），再看见泥（血液变冷）——恐怖的层次感全靠这个先后。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：我意识到自己在看什么的那一刻，鞋从我手里掉了下去，像烫着了手一样。
 
-**关键词语**：like they scalded my hand／what I am looking at
+**关键词**：like they scalded my hand／what I am looking at
 
 **为什么这样写**：恐惧的第一次物理显形。作者让「烫手」的比喻给他的身体抢在脑前完成反应——这是全书里他的身体第一次比嘴诚实。此前他的每一次惊吓都能立刻翻译成「表演版本」或「合理解释」，这一次，手先扔了，理由还没编好。诡异的东西开始绕过他的剧本，直接触碰他的神经。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：我死掉的妻子绝不会从坟墓那边来闹我。这是我唯一确定的事。我从不相信死后有生命。人死如灯灭。
 
-**关键词语**：haunting me from beyond the grave／When you are dead, you are dead
+**关键词**：haunting me from beyond the grave／When you are dead, you are dead
 
 **为什么这样写**：他的无神论在本章被测试到发烫。作者让「死人就是死人」的信念连说三遍（never believed/when you are dead/you are dead）——重复即心虚。这一句同时是全书最响的一记反讽预备：被埋的她确实「死了」（在他眼里），可她此刻就站在他门外。他的世界观没有错，错的只是对「死」的验收流程。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：还有一个人，懂得的刚好够把我埋掉。如果戏弄我的是那个人，那我就有大麻烦了。
 
-**关键词语**：knows just enough to bury me／deep, deep trouble
+**关键词**：knows just enough to bury me／deep, deep trouble
 
 **为什么这样写**：第七个嫌疑人在章末剪影登场。作者让 Nate 的怀疑清单终于走到 Hudson——「knows just enough」这个措辞精准得可怕： Hudson 知道的（埋尸事实）够用，不知道的（凶手是谁）也不会供出。这一格同时是全书的倒计时钟：当所有替代解释耗尽，两个知情人（Addie/Eve）终将正面相遇——而他，是唯一不知道自己才是猎物的人。
 
@@ -115,6 +115,10 @@ modified: "2026-10-02"
 |---|---|---|
 | credibility | 可信度 | I’m thankful she has no credibility. |
 | definitely | 肯定地 | They have verified that she definitely never took the commuter rail, which also isn’t terribly surprising. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

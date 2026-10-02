@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：就好像她知道。她知道推他的人是我。
 
-**关键词语**：She knew I was the one who pushed him
+**关键词**：She knew I was the one who pushed him
 
 **为什么这样写**：母亲的档案在本章被 Addie 亲口开卷。作者让「她知道」这个判断第一次由 Addie 自己说出——此前她只承认母亲「怀疑」。这句独白的分量在于时态：不是「可能知道」，是「知道」。她与母亲之间那层窗户纸，被她自己捅破了，只是捅破的方式仍是心里话。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：「你和 Nathaniel Bennett 之间，是不是有什么？」
 
-**关键词语**：anything going on between you and Nathaniel
+**关键词**：anything going on between you and Nathaniel
 
 **为什么这样写**：直球问题第一次以全名落地。作者让侦探跳过所有铺垫直接问核心——这与她此前的「旁敲侧击」形成对比，也逼出 Addie 最机械的一次背诵（「Deny everything」的执行记录）。这个问题她被问过两版：Nate 的版本（「你真觉得我会干那种事？」）在撇清，侦探的版本在求救。
 
@@ -49,9 +49,9 @@ modified: "2026-10-02"
 
 > **原句 3:** “But if it were,” she says, “you need to realize that it wouldn’t be your fault. He is the adult—your teacher—and starting up any kind of sexual relationship would be extremely unprofessional on his part. You would not be at fault, I promise.”
 
-**中文理解（末句）**：「你不是过错方，我保证。」
+**中文理解**：「你不是过错方，我保证。」
 
-**关键词语**：You would not be at fault, I promise
+**关键词**：You would not be at fault, I promise
 
 **为什么这样写**：侦探的保证与 Eve 的判断（ch48「责任在 Nate」）在本章完成隔空握手。作者让这个「无过错」的承诺成为全章最锋利的刀——它与 Nate 教给她的每一句话（「你想听什么我说什么」「没有别的成年人会懂」）结构相同、方向相反。Addie 听出了「同一种操控」（她的原话），却没听出哪一边是在递绳子、哪一边是在递刀。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：他告诉过我，没有别的成年人会懂。他是对的。
 
-**关键词语**：no other adult would get it／and he was right
+**关键词**：no other adult would get it／and he was right
 
 **为什么这样写**：教义的复读机在本句开到最大功率。作者让 Addie 把他的话转成自己的判断——「他是对的」四个字完成了操控闭环的最后一块砖：外部信息（侦探的善意）被预先归类为「不懂」，内部信息（他的话）被预封为「真理」。这半句的平静比任何嘶喊都更能说明她是多么彻底的俘虏。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：她把话说得像是 Nathaniel 在操控我，可说真的，她在做的就是同一件事。
 
-**关键词语**：manipulating me／she’s doing the same thing
+**关键词**：manipulating me／she’s doing the same thing
 
 **为什么这样写**：镜像的识别与镜像的拒绝在同一句完成。作者让 Addie 精准命名了侦探的方法（用「为你好」的框架换你的忠诚）——这个洞察完全正确，错的是对照物：她拿操控对操控，却忘了给原版（Nate）留一行。她的怀疑器官只对外发作的病，在这里得到最完整的一次临床展示。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：「你得知道，Addie，」她轻声说，「Nathaniel Bennett 正在把你描绘成一个独自行动的跟踪狂。他想让我们相信，你跟踪 Eve Bennett 去了通勤车站、杀了她、处理了她的尸体。如果你不为自己开口，所有人听到的就只有这一个版本。」
 
-**关键词语**：painting you to be a stalker／the only story anyone is going to hear
+**关键词**：painting you to be a stalker／the only story anyone is going to hear
 
 **为什么这样写**：底牌在雨里全数亮出。作者让侦探把「唯一版本」的机制讲透——这本书的社会性司法规则（ch03/ch24 反复验证的「叙事碾压真相」）由执法者亲口复述。Addie 的回应是那句「Is that true? I don't believe that.」——怀疑的第三十八次到场，信仰的第三十八次驳回。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：是真的吗？我不信。
 
-**关键词语**：Is that true?／I don’t believe that
+**关键词**：Is that true?／I don’t believe that
 
 **为什么这样写**：四个词的问句加四个词的回答，是 Addie 线的心跳图。作者让她的怀疑与信仰在这两行里完成一次公开交火——问号是她的智力，答句是她的瘾。与前章的「三秒问号」相比，这次的交火多撑了一行（她把问句说了出来，哪怕只在心里）。名片是她留给这轮交火的唯一战利品。
 
@@ -115,6 +115,10 @@ modified: "2026-10-02"
 |---|---|---|
 | disappearance | 失踪 | And now she knows I have something to do with Eve Bennett’s disappearance. |
 | uncomfortable | 不舒服的 | It’s uncomfortable, but it also feels good, if that makes any sense. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：他们埋我的时候，没给我穿鞋。
 
-**关键词语**：without any shoes on
+**关键词**：without any shoes on
 
 **为什么这样写**：本章的第一句接住 ch59 那份「裸足刑罚」。作者让 Eve 用平铺直叙的语气陈述这层屈辱——没有控诉的形容词，只有事实。而这句话的叙事功能是把读者的怒火精确导流：全书追逐了三章的「鞋线索」（浴缸/厨房/包裹），谜底竟是她光着的双脚。他记得她没穿鞋，她也没忘。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：我可以报警，让丈夫为他对我做的事坐牢。可他会请律师，几天后就保释出来。
 
-**关键词语**：thrown in jail／out on bail
+**关键词**：thrown in jail／out on bail
 
 **为什么这样写**：她放弃报警的算术在两句内列清。作者让 Eve 的推理与全书的运行规则严丝合缝——Art 的无证据毁灭、Nate 的「没证据动不了我」：这个世界惩罚无证据者，保护有手段者。她的「非法方案」因此不是疯狂，是这个系统教会她的最优解。序幕里那把铲子的合理性，在本句完成最后一道论证。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：他来接我了。谢天谢地。
 
-**关键词语**：He’s coming for me／Thank God
+**关键词**：He’s coming for me／Thank God
 
 **为什么这样写**：全书最苦的一句「谢天谢地」。作者让 Eve 的救援者名单薄到只剩一个有妇之夫——她躺在沟边裹着裹尸布，能拨出的电话只有他。这句话与 ch09 的「我最好的丈夫」、ch21 的「生日电话」同属一个声部：Eve 的每一次谢恩，事后都被证明是账目错误。但这一次不是——Jay 真的来了。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：「来，」他说。「先去给你弄双鞋。」
 
-**关键词语**：Let’s get you some shoes
+**关键词**：Let’s get you some shoes
 
 **为什么这样写**：全书鞋主题的救赎句在此落地。作者让 Jay 的第一反应不是追问、不是报警、不是拥抱，而是——给她鞋。这个选择精准命中 Eve 的人格底牌：她失去的一切里，脚上的那一层是最先崩塌的体面。他不懂诗、不懂活埋恐惧症，但他懂她此刻最缺什么。爱与懂得的分界线，全书在此画完。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：「我要按我自己的方式来。我要确保他为做过的一切付出代价。」
 
-**关键词语**：my way／pays for everything he has done
+**关键词**：my way／pays for everything he has done
 
 **为什么这样写**：复仇的主权声明在本句签发。作者让 Eve 拒绝的正是「正确答案」（报警）——她的选择与全书所有受害者背道而驰，却又与全书的运行规则完全一致：法律关不住他，只有他的犯罪程序能。她此刻的姿态与序幕的挖坑人合体：同一双手，先是自救，后是执法。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：他望着我，眼里盛满绝对的忠诚。「你想要什么，我都会去做。」
 
-**关键词语**：absolute devotion／I will do whatever you want
+**关键词**：absolute devotion／I will do whatever you want
 
 **为什么这样写**：全书的镜像句在此收口。作者让 Jay 的承诺与 Addie 的「I'll do anything he says」（ch56）逐字对应——同一句无条件服从，一次来自十六岁的女孩，一次来自她的情人。两句话的并置是本书最锋利的一刀：被这句话毁掉的人，和即将用这句话复仇的人，正在同一本书里交换位置。
 
@@ -104,6 +104,10 @@ modified: "2026-10-02"
 | hallelujah | 哈利路亚（惊叹语） | I dig my phone back out from inside my purse—hallelujah, I’ve got cell service. |
 | underneath | 在……底下 | I wait for him on the side of the road, shivering underneath my sheet. |
 | immediately | 立即 | I put on the black snow boots, and even though they’re ugly, they immediately warm up my feet. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

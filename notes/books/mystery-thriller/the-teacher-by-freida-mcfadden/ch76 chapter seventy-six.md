@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：那将是灭顶之灾。Kenzie 与我开始那种关系时只有十四岁。她要去了警局，我就有大麻烦了。
 
-**关键词语**：only fourteen／our relationship commenced
+**关键词**：only fourteen／our relationship commenced
 
 **为什么这样写**：他从没在内心承认过的那个词，此刻被年龄逼了出来。作者让 Nate 用「our relationship commenced」这种公文腔包装一段性侵——语言的体面是他最后的遮羞布。而「only fourteen」的自认与「cataclysmic」的恐惧并排：他清楚罪的等级，只是清楚从来等于在乎。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：公平地说，Kenzie 看起来不像十四岁。她美得惊人，比外面九成九的成年女人都美。大多数人不懂那是什么滋味——这些年幼漂亮的女孩年复一年地往你身上扑。我又不是石头做的。
 
-**关键词语**：didn’t look fourteen／I’m not made of stone
+**关键词**：didn’t look fourteen／I’m not made of stone
 
 **为什么这样写**：全书伦理的谷底在这段独白里凿成。作者让 Nate 把性侵未成年重述为「美人主动投怀」——「To be fair」的辩护士腔、「99 percent」的数据腔、「I'm not made of stone」的凡人腔，三层话术层层垫高他的无辜。这一段是全书对读者的终极测试：叙述者本人就是猎手，而他还振振有词。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：我几乎觉得自己在窒息。我需要水。我需要在水呛死我之前喝点水。
 
-**关键词语**：I’m choking／before I suffocate
+**关键词**：I’m choking／before I suffocate
 
 **为什么这样写**：因果的身体修辞在此到账。作者让 Nate 在恐惧里体验「窒息」——正是他施加在 Eve 脖子上的那种感觉。本书的因果系统从不靠报应神话，靠的是身体的记忆：他掐过的人如今让他喘不上气，连一个鬼都不用出场。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：是一个南瓜。准确地说，是一盏南瓜灯。
 
-**关键词语**：a jack-o’-lantern
+**关键词**：a jack-o’-lantern
 
 **为什么这样写**：厨房的第三件「寄来的东西」升级为整只南瓜。作者让物证的体积感逐步升级：南瓜瓤→鞋→整灯。腐烂的南瓜灯带着扭曲的獠牙（「 toothy grin 变成 evil grimace」），它的恐怖不在超自然，在于它精确复刻了埋尸地的物产——有人在把他犯罪现场的土产，一件一件寄回他家。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：扑腾几次没能飞出去之后，那只鸟在南瓜灯顶上停了一瞬，死死盯着我。
 
-**关键词语**：rests on top of the jack-o’-lantern／staring at me
+**关键词**：rests on top of the jack-o’-lantern／staring at me
 
 **为什么这样写**：《乌鸦》的画面在本章完成实体化。作者让那只黑白鸟停在南瓜灯顶「盯着他」—— Poe 的诗里，乌鸦停在帕拉斯胸像上盯着说话者，一句 Nevermore 判决了他的一生。Nate 的文学素养此刻全部反噬：他读了一辈子的诗，正在他家厨房里选角完毕。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：我得离开这儿。
 
-**关键词语**：get out of here
+**关键词**：get out of here
 
 **为什么这样写**：猎手的第一次逃跑宣言只有六个词。作者让「出逃」成为他对恐惧的唯一应答——不报警、不自首、不承认，只跑。这一句与 Addie 的「我不下车」（ch02）遥遥对望：全书开头她不肯下车，此处他不敢进门。同一条逃亡的语法，终于轮到施害者朗读。
 
@@ -102,6 +102,14 @@ modified: "2026-10-02"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | increasingly | 越来越（地） | I don’t want to receive any more updates from a woman who I am increasingly certain believes I murdered my wife. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
+
+### ⭐ 基础
+
+（本章基础档无合适词条）
 
 ## 一句话总结
 

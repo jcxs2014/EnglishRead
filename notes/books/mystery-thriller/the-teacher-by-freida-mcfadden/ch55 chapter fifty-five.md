@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：可就算打了那一下，愤怒仍顺着我的指尖往外涌。所以我又打了一下。
 
-**关键词语**：the rage coursing through my fingertips／So I hit her again
+**关键词**：the rage coursing through my fingertips／So I hit her again
 
 **为什么这样写**：「失手」叙事在本章第一段被当事人亲手拆除。作者让第一击之后「愤怒仍在指尖」——这个生理细节把后续两击从「慌乱」重新归类为「宣泄」。序幕的读者至此确认了最坏的可能：挖坑时的从容，原来是练出来的。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：这下锅底也糊上了一层东西。血正从 Bennett 夫人的头里渗出来，淌到厨房的地板上。
 
-**关键词语**：blood caked on the back of it／trickling out
+**关键词**：blood caked on the back of it／trickling out
 
 **为什么这样写**：凶器的「第二层涂层」写得极冷。作者让隔夜剩菜与血并排糊在锅底——日常与暴力的两种残留共享同一件厨具。而「trickle」（渗淌）这个慢动词，与「砸」的爆发力形成时间差：暴力是一瞬的，后果是持续滴漏的。厨房从此成为本书第二个埋着秘密的房间。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：我不是故意的。我来这栋房子的时候，可没打算用平底锅砸我的数学老师的头。我只是想跟她谈谈。
 
-**关键词语**：I didn’t come to this house with the intention／I just wanted to talk to her
+**关键词**：I didn’t come to this house with the intention／I just wanted to talk to her
 
 **为什么这样写**：动机辩护的标准稿当场起草。作者让 Addie 的自辩三件套（无意/无预谋/只想谈谈）与 ch28 父亲之夜的辩词结构完全同款——「意外」这个 词第二次上岗。值得记下的是措辞的精确性：她说的是「没打算砸」，而不是「没打算让她闭嘴」——语言在关键的半步上，永远先于良心刹车。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：但有一件事很清楚。她绝不会让我和 Nathaniel 在一起。不管她自己还要不要他，她就是不许我拥有他。
 
-**关键词语**：She was never going to let me be with Nathaniel／she did not want me to have him
+**关键词**：She was never going to let me be with Nathaniel／she did not want me to have him
 
 **为什么这样写**：杀意的「正当化」声明在此签字。作者让 Addie 把 Eve 的警告（他在操控你）重新编码为「占有欲」——「不管她要不要他」这个让步从句尤其毒：它把受害者的一切辩护都翻译成竞争。教义的最后一块拼图就此完成：世界被简化为两个人对一个人的争夺，而所有的责任都被预付给了死者。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：我知道 Nathaniel 说过那句话——要是她死了，我们就能在一起，所有问题都会解决。也许有那么一瞬间，我想过……但没有真的想。真的，我从来没考虑过要伤害她。
 
-**关键词语**：maybe for a split second, I thought…／I never considered trying to hurt her
+**关键词**：maybe for a split second, I thought…／I never considered trying to hurt her
 
 **为什么这样写**：ch51/52 埋下的条件句在此结出供词。作者让 Addie 亲口确认：那句「要是她死了」她不但记得，还在挥锅的瞬间闪过它的影子——随后用三个「真的」把它按回去。这段自辩的语言学极其精细：「split second」承认闪念、「But not really」撤回、「For real」加固——三步流程与「Deny everything」的训练完全同构。她已经在用他的语法为自己的行为写结案报告。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：这感觉像极了当年的父亲事件重演。只不过这一次糟得多。而且那次，我还有 Hudson 帮我。这次我孤身一人。
 
-**关键词语**：déjà vu from what happened with my father／Now I’m all alone
+**关键词**：déjà vu from what happened with my father／Now I’m all alone
 
 **为什么这样写**：两案的参数对照表在此摊开。作者让 Addie 自己完成比对——场地（家/厨房）、尸体（父亲/Eve）、缺失项（这次没有 Hudson）。这份清单的冷血程度远超她的想象：她在第一现场核对的是「帮手配置」，不是对错。「all alone」的恐惧为下一节找到唯一出口做了全部铺垫——孤身一人的凶手，最需要的就是另一个共谋。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：我轻轻抬起 Bennett 夫人的手指按到感应区上——奇迹般地，手机解锁了。
 
-**关键词语**：gently lift Mrs. Bennett’s finger／miraculously, it unlocks
+**关键词**：gently lift Mrs. Bennett’s finger／miraculously, it unlocks
 
 **为什么这样写**：全书最惊悚的「借物」一幕。作者让死者用自己的指纹为凶手开门——「gently」（轻柔地）与「miraculously」（奇迹般地）两个词把这一幕写成了一场亵渎的典礼。被抬起的这根手指，几小时前还差点碰到 Addie 的头发想安慰她。生者借死者的身体获取资源，这本书的隐喻系统在此完成最后的合拢。
 
@@ -111,7 +111,7 @@ modified: "2026-10-02"
 
 **中文理解**：「好，」他终于说，「我马上到。」
 
-**关键词语**：I’ll be right there
+**关键词**：I’ll be right there
 
 **为什么这样写**：全书的引线在此点燃。作者让「我马上到」作为章末句独立成段——四个词，既是情人的承诺，也是共谋的到岗通知。这一刻的读者已经站在序幕的正中央：坑还没挖，人还没死透，帮手正在赶来。序幕读过的每一行，都将在接下来的章节里逐字兑现。
 
@@ -129,6 +129,10 @@ modified: "2026-10-02"
 | fingerprint | 指纹 | It seems to have fingerprint unlocking, so I gently lift Mrs. Bennett’s finger to the pad. |
 | miraculously | 奇迹般地 | Bennett’s finger to the pad, and miraculously, it unlocks. |
 | unbelievably | 难以置信地 | What I have done is so unbelievably awful. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

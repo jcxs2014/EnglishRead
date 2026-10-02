@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：我掐灭妻子生命的时候，我能看见她眼里的那种恐惧。我能看见她站在深渊边上，怕得不敢往下掉。
 
-**关键词语**：squeezed the life out of my wife／standing by the abyss
+**关键词**：squeezed the life out of my wife／standing by the abyss
 
 **为什么这样写**：行凶的复盘以美学开场。作者让 Nate 把杀妻描述成一次「深渊的观礼」——他记住的不是挣扎而是她眼里的风景。这一句同时回收了 ch57 的死亡直播：她写「这个男人正在杀我」，他写「我看见她站在深渊边」——同一段死亡的两个版本，一个在求生，一个在审美。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：最让我满意的，是她双足赤裸这件事。我妻子对鞋有一种病态的执念，让她赤着脚在永恒里度过，算是对她罪行的贴切惩罚。
 
-**关键词语**：her feet are bare／an apt punishment for her crimes
+**关键词**：her feet are bare／an apt punishment for her crimes
 
 **为什么这样写**：刑罚学的私人定制在此公布。作者让 Nate 给死者的裸足赋予「惩罚」的语义——鞋是 Eve 全书的人格线索（止痛药、走私品、身份感），他全都看在眼里、记在账上、用在刑场上。这一段的恐怖不在残忍，在于预算的精确：他对妻子的每一次嘲笑（「鞋柜能让人把你关起来」）原来都是量刑前的调查。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：她玩命地擦地时，我心里默念着：去，该死的斑点！去，我说！
 
-**关键词语**：Out, damned spot!／I say!
+**关键词**：Out, damned spot!／I say!
 
 **为什么这样写**：《麦克白》的引文在此完成一次冷血的对位。作者让 Nate 在少女擦血时背莎士比亚——麦克白夫人的洗不净的血斑，正由另一个女人跪在地上擦。他的内心剧场永远有观众席，而舞台上的两个女人一个在毁证、一个已在尸袋里。文学在他的生活里从来不是抒情，是配乐。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：即便是现在，即便我妻子的尸身就在后备厢里，一想到 Addie，我还是起了反应。
 
-**关键词语**：in the trunk of the car／I am aroused thinking about Addie
+**关键词**：in the trunk of the car／I am aroused thinking about Addie
 
 **为什么这样写**：全章最冷的一行自供。作者让欲望与尸体同框——后备厢里的妻子与想象里的学生共享同一秒。这一句的功能是把「爱情」叙事最后一点残余清空：他对 Addie 的感觉从头到尾与爱无关，只是占有欲在死亡背景下的继续营业。序幕的读者至此确认：那把铲子的真正主人，此刻正一边运尸一边意淫。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：有那么一刻，我盘算干脆把她丢在这儿。但不行。下一步我还需要她。
 
-**关键词语**：leaving her here／I’ll need her for the next part
+**关键词**：leaving her here／I’ll need her for the next part
 
 **为什么这样写**：Addie 的「道具评估」在本句完成。作者让 Nate 用「need」一词揭示全部关系的本质——她是工具，用完之前不能丢。这一句同时预告了全书结局的方向：他需要一个顶罪者、一个「合法的凶手」，而下一段工序正是为这个用途设计的。序幕里「帮手」的真正含义，从「帮我埋」升级为「替我伏法」。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：她到现在还以为杀死 Eve 的是她自己。我要是说月亮是绿奶酪做的，她也会信。
 
-**关键词语**：She still thinks she was the one who killed Eve／the moon was made of green cheese
+**关键词**：She still thinks she was the one who killed Eve／the moon was made of green cheese
 
 **为什么这样写**：全书最重要的一次信息差公开展览。作者让 Nate 亲口确认：他知道 Addie 没杀死 Eve（是他掐的），也确认她的认知被完全封在他的叙事里。绿奶酪的比喻用童话的荒诞反衬操控的精密——十六年的信任余额，在他的账本上是一张可以随便透支的卡。这一句同时是 Addie 线的死刑判决书：她的爱情、她的罪、她的忠诚，全建立在一个连他自己都觉得荒唐的谎上。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：当我的手指环上她的脖子时，我感受到的只有一种深深的解脱。
 
-**关键词语**：a deep sense of relief
+**关键词**：a deep sense of relief
 
 **为什么这样写**：杀妻的情感收据在此开出。作者让「解脱」这个.Transaction 词定义他全部婚姻的终章——没有挣扎、没有悔恨、甚至没有紧张，只有如释重负。这一句与 ch01 的「幸运清单」、ch50 的「Done.」构成他婚姻的三张快照：开场表演幸福，中场廉价退场，终场如释重负。
 
@@ -111,7 +111,7 @@ modified: "2026-10-02"
 
 **中文理解**：我相信我能找到那条路，它将成为我妻子坠入永恒深渊时的安息之地。
 
-**关键词语**：the resting place for my wife／falls into the abyss
+**关键词**：the resting place for my wife／falls into the abyss
 
 **为什么这样写**：选址公告以悼词的语法发布。作者让南瓜地的童年记忆与「永恒深渊」的虚无观在同一个句子里会师——他连埋妻都要带上他的无神论美学。这一句是序幕最后一块拼图的供应商发票：坑的位置、深度、用途，全部提前议定。本书前半部所有「预感」与「立旗」，至此全部归档为「施工日志」。
 
@@ -129,6 +129,10 @@ modified: "2026-10-02"
 | considered | 考虑（过去分词） | Interestingly, I’ve never considered suicide. |
 | threatening | 威胁（现在分词） | Even in the moment when Eve was threatening my livelihood, the thought never crossed my mind. |
 | satisfaction | 满足、快意 | I take the most satisfaction in the fact that her feet are bare. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

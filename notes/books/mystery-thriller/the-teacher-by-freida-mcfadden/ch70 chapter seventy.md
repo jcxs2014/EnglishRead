@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：我翻来覆去，好不容易睡着，就梦见一具僵尸般的 Eve 从南瓜地的坟里爬出来——脚上穿着一双红色细高跟鞋，然后抡起那双鞋，一下一下砸向我。
 
-**关键词语**：zombielike Eve／red stiletto heels
+**关键词**：zombielike Eve／red stiletto heels
 
 **为什么这样写**：梦境在此完成潜意识的「招供」。作者让 Nate 梦见的东西精确对应他不敢想的事实：她从坟里爬出（浅埋）、她穿红鞋（浴缸那双）、她用它打他（他欠她的）。他的清醒自我用「无神论」否认一切，他的梦却夜夜重播现场——这个男人的防线从「理性的墙」裂成了「梦的筛子」。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：昨天，我扮演的是一个衣冠不整、忧心忡忡的丈夫。今天，这是真的。
 
-**关键词语**：playing the role／Today, it is genuine
+**关键词**：playing the role／Today, it is genuine
 
 **为什么这样写**：表演与现实的边界在本句溶解。作者让 Nate 亲口确认：他昨天的「憔悴」是妆，今天的是真的——而侦探看到的两种憔悴一模一样。这一格的恐怖在于它的不可逆：从此他的一切真实恐惧都会被读成演技，一切演技都可能被读成真情。他毕生引以为傲的表演课，开始反噬舞台上的演员。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：「你怎么从没告诉我，Adeline Severson 也在你的英语班上？」
 
-**关键词语**：in your English class
+**关键词**：in your English class
 
 **为什么这样写**：侦探用他自己的供词设伏。作者让这个问题的杀伤力全部来自「对照」——他昨天亲口把 Addie 划给 Eve，今天被两个事实（班级/诗社）戳穿。这一问的潜台词是「你在选择性地介绍你的关系网」，而选择性介绍正是栽赃的手法。侦探第一次让他的剧本出现作者签名。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：「绝对没有。我是说，我肯定没有。」
 
-**关键词语**：Absolutely not／I certainly haven’t
+**关键词**：Absolutely not／I certainly haven’t
 
 **为什么这样写**：一句「No」被拆成两次加固，反而供出了裂缝。作者让 Nate 的否认需要补丁（Absolutely→I mean→certainly）——每加一层强调，可信度掉一格。而侦探追问的顺序（先问他、再问「你妻子呢」）让他自动把话题引向 Eve 的婚外情可能——他在慌乱中亲手给她泼了脏水。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：Eve 有外遇？她把我的背叛告诉了他，现在他在替她报复？
 
-**关键词语**：her affair／my own infidelity／retribution on her behalf
+**关键词**：having an affair／my own infidelity／retribution on her behalf
 
 **为什么这样写**：他的偏执剧场在本章开出第二个场次。作者让「情夫复仇论」在他的脑内完成升级——从「为死者讨公道的陌生男人」细化到「知情且报复的枕边人」。这份想象的每个字都在为他自己画像：他把自己的行为逻辑（知情+背叛+报复）原样投射给假想敌。全书对他的心理侧写，以此句最为完整。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：她盯上我了。她的直觉告诉她，这件事比我交代的更有文章，但可惜，她没有证据。而没有证据，她就绝对动不了我。
 
-**关键词语**：She is onto me／she has no proof
+**关键词**：She is onto me／she has no proof
 
 **为什么这样写**：本章的清醒评估与致命误判装订在同一页。作者让 Nate 正确读出侦探（她的直觉在响），再错误地读出规则（没证据=安全）——他忘了这本书开篇的第一课：Art 被毁时也没有证据。「无证据」在这个故事里从来不是护身符，只是行刑的缓期。他的安然入睡，正是读者最悬心的睡前故事。
 
@@ -103,6 +103,10 @@ modified: "2026-10-02"
 |---|---|---|
 | horrendously | 糟糕透顶地 | It should come as no surprise that I sleep horrendously. |
 | effectively | 实际上、有效地 | Suffice it to say that every childhood memory I have of that pumpkin patch has been effectively destroyed. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

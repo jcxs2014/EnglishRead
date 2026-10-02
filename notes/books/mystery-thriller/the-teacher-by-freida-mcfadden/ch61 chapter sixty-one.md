@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：我又给我们那个凑合的坑加了一英尺的深度，可 Nathaniel 还是没回来。
 
-**关键词语**：an extra foot of depth／has not returned
+**关键词**：an extra foot of depth／has not returned
 
 **为什么这样写**：等待的第一份报告用工作量结算。作者让 Addie 在恐惧中继续干活——多挖的一英尺既是对深度的执念（序幕：越深越好），也是焦虑的躯体化。而「our makeshift grave」的「our」尤其刺眼：坑可以叫「我们的」，人却不回来了。全书最短的债权关系就此成立：她替他还了工程款，他连利息都没付。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：我不想碰她。我知道这很蠢。死人又不会传染。
 
-**关键词语**：You can’t catch dead
+**关键词**：You can’t catch dead
 
 **为什么这样写**：恐惧的少女语法再次上线。作者让 Addie 用「不会传染」说服自己——把死亡重新命名成疾病，是她处理父亲之夜的同款 coping。这句自嘲同时丈量了她的孤立：上次验呼吸的是 Hudson，这次连一个递手套的人都没有。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：我听说尸体过一阵子会变僵，但她还没僵。我又滚了她两圈，直到她到了坑沿。坑的尺寸正好。于是我就把她滚了进去。
 
-**关键词语**：hasn’t happened to her yet／the perfect size
+**关键词**：hasn’t happened to her yet／the perfect size
 
 **为什么这样写**：下葬的工序报告里藏着全书最冷的一条线索。作者让「还没僵」这个法医学细节由 Addie 亲口记账——死亡时间可疑地新鲜，而按时间推算她该僵了。读者此刻手里的证据链几乎闭合：三击（未致命）→被掐（她没僵的时间线对得上被掐的时点）→独葬。「The perfect size」的冷调收尾，与 ch60 的「躺下量尺寸」对上：量的不是尺寸，是命。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：我想不明白。Nathaniel 说她的包落在后备厢了，可显然不在。他是记错了？还是在骗我？
 
-**关键词语**：Was he mistaken? Or was he lying to me?
+**关键词**：Was he mistaken? Or was he lying to me?
 
 **为什么这样写**：指向性怀疑的第二次升级。作者让钱包从床单里滑出——这个物证的投放者是 Nate 自己（他根本没拿包，或者故意让包跟尸体走）。而 Addie 的二选一（记错/撒谎）里，第一次把「撒谎」摆上了台面。她的怀疑每上升一级，他的解释就需要重新装修一层——这个循环在本章已经转到了第三圈。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：我们本来就已经共享一个可怕的秘密了。再多一个算什么？
 
-**关键词语**：share one terrible secret／What’s one more?
+**关键词**：share one terrible secret／What’s one more?
 
 **为什么这样写**：求援的道德会计在此过账。作者让 Addie 把「杀父之秘」当成打给 Hudson 的信用凭证——旧秘密是新秘密的抵押品。这句话同时暴露她对两人关系的最后定位：不是朋友，是共犯同盟。而她不知道的是，电话那头的那个人为旧秘密已经煎熬了快一年——「再多一个」对他来说不是数字，是第二次溺水。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：「我在路上了。」他说。
 
-**关键词语**：I’m on my way
+**关键词**：I’m on my way
 
 **为什么这样写**：全章的救赎句只有五个词。作者让 Hudson 的「来」与他的一百万个理由（父母/限制驾照/被禁足/女友）对撞——全部理由加起来，没打过一句「她需要我」。这一句与 ch55 的「I'll be right there」并排：同样是「马上到」，一个奔向掩盖，一个奔向她。本书的两条救援线在此分岔，方向即人格。
 
@@ -104,6 +104,10 @@ modified: "2026-10-02"
 | fifteen-minute | 十五分钟的 | It was no more than a fifteen-minute walk back to the car. |
 | eventually | 最终、迟早 | I heard dead bodies eventually get stiff, but it hasn’t happened to her yet. |
 | especially | 尤其 | I can’t leave here with an open grave with a dead body inside, especially if there’s a chance I might not be able to find my way back here. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

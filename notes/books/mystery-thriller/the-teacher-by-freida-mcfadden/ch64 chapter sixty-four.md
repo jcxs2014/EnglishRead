@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：每次我一闭眼，就看见 Bennett 夫人的尸体躺在旧南瓜地那个坑底，脖子上带着那圈愤怒的红色印痕。
 
-**关键词语**：at the bottom of that grave／angry red marks
+**关键词**：at the bottom of that grave／angry red marks
 
 **为什么这样写**：创伤的回放器在本章开机。作者让 Addie 的闭眼成像精确到两个锚点（坑底/印痕）——它们正是她全书两大疑点的位置。而「angry」这个形容给了红痕以情绪：那圈印痕在她的视像里是「愤怒的」，仿佛尸体自己在控诉。她的潜意识比她的嘴诚实得多。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：不，我一点也不好。但我今天早上不想应付他的问题。
 
-**关键词语**：not even a little bit okay／dealing with his questions
+**关键词**：not even a little bit okay／dealing with his questions
 
 **为什么这样写**：对 Hudson 的信息管理在本句定档。作者让 Addie 的诚实只发生在内心——对唯一的救援者，她连「不好」都不肯说。这句的残酷在于「owe him a lot」的自觉：她知道自己欠他，而她的还款方式是继续对他撒谎。被保护的与被利用的，在她这里从来是同一批人。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：Nathaniel 的计划昨晚听起来还挺合理，可如今在大白天里，我根本无法想象我们怎么可能逃得掉。
 
-**关键词语**：in the light of day／get away with this
+**关键词**：in the light of day／get away with this
 
 **为什么这样写**：恐惧的光学原理在本句生效。作者让「白天」成为清醒的催化剂——昨夜的服从依赖黑暗的挤压，晨光一出，计划的漏洞全数显影。这一格证明她的理智从未离线：她一直看得见风险，只是夜里没得选。「怎么逃得掉」的答案其实她心里有（他们逃不掉），只是不敢念出声。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：您发送到的账号已不存在。
 
-**关键词语**：no longer exists
+**关键词**：no longer exists
 
 **为什么这样写**：全书第一次由机器宣布死亡。作者让报错弹窗承担分手通知的全部功能——他连「再见」都省了，删号即绝交。这句话的寒意在于「no longer exists」的语感：不是「已注销」，是「不再存在」——仿佛那个爱她的人也一并从世上抹掉了。她的世界第二次在一夜之间死掉一个成年人，这次连尸体都没有。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：可我还是下不了手删掉它。哪怕他的消息全都消失了——六十秒一到就无影无踪。我想留着这个账号，万一他需要再跟我说话呢。
 
-**关键词语**：can’t bring myself to delete it／in case he needs to talk to me again
+**关键词**：can’t bring myself to delete it／in case he needs to talk to me again
 
 **为什么这样写**：单方留守的仪式在此完成。作者让 Addie 保留一条他已销号的信道——这条线路通向的地方已经没有人了，而她守着它，像守一部可能还会响的座机。这段把她的处境写到了最薄：她全部的联系凭证，是一个不会再有来信的账号。被用完的人，最后一件行李是等待。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：可要是被抓到，我们俩都得在监狱里过完下半辈子。
 
-**关键词语**：if we get caught／the rest of our lives
+**关键词**：if we get caught／the rest of our lives
 
 **为什么这样写**：她的自我说服在此搬出他的原话。作者让 Addie 用「我们」给恐惧配对——尽管他已单方面退出，她的账本仍坚持双人记账。这句合理化的全部原料（监狱/终身）都来自他的教学，她自己只贡献了一个动作：照单全收。被教育出来的恐惧，最终成了替他保密的锁。
 
@@ -103,6 +103,10 @@ modified: "2026-10-02"
 |---|---|---|
 | pretending | 假装（现在分词） | She slips quietly into my room to check on me, and I keep my eyes squeezed shut, pretending to be asleep. |
 | explanation | 解释 | After everything that happened last night, he owes me some sort of explanation, right? |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：Addie Severson 在我家厨房里。
 
-**关键词语**：in my kitchen
+**关键词**：in my kitchen
 
 **为什么这样写**：五个词的定场，与 ch43 的「in my bushes」构成同系列的第二次报警。作者让地点完成叙事的升格：灌木丛是越界，厨房是入侵；窗外的她可以被解释成窥视，灶台边的她已经触碰了这个家的一切。而这句话的平静语气（陈述句、无惊叹）延续了 Eve 全书的消息播报风格——最吓人的事，她永远用最稳的声音说。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：这姑娘喊了一整年的救命，而我本可以帮她。我丈夫只是趁虚而入。
 
-**关键词语**：crying for help all year／took advantage of her
+**关键词**：crying for help all year／took advantage of her
 
 **为什么这样写**：全库对 Addie 最准确的一句话，出自最晚明白的人。作者让 Eve 在最后关头完成她本该一年前完成的解码——把「麻烦女孩」翻译成「求救信号」。这句判词同时完成了全书责任结构的最终定稿：Addie 是呼救者，Nate 是趁虚者，她自己（和全校）是没接电话的人。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：「我们相爱，Bennett 夫人。对不起。」
 
-**关键词语**：We’re in love／I’m sorry
+**关键词**：We’re in love／I’m sorry
 
 **为什么这样写**：全章最扎心的一句台词只有八个词。作者让 Addie 的辩护词以道歉开场——她承认这段关系「需要道歉」的形态，却不承认它的性质。这句「对不起」的语用学极冷：她不是为相爱道歉，是为把 Mrs. Bennett 拖进这一切道歉。无辜者的话术与既成的事实在此互相打结。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：这就像在跟一个被邪教编写过程序的人说话。
 
-**关键词语**：programmed by a cult
+**关键词**：programmed by a cult
 
 **为什么这样写**：旁观者的诊断书。作者让 Eve 用「cult」命名她眼前的一切——重复的话术、不可动摇的信条、对外界信息的免疫。这个比喻精准到残忍：grooming 与邪教的区别只在规模，不在机制。而讽刺在于，诊断者自己也曾是「被 programmed」的一员——她对他的诗、他的承诺，照单全收过整整八年。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：「Nate 一直在骗你，Addie。他说的全是你想听的话。他这个年纪的男人，不可能对一个少女有正常的成年人的感情——尤其不可能对他的学生。他在操控你。」
 
-**关键词语**：telling you what you want to hear／He’s manipulating you
+**关键词**：telling you what you want to hear／He’s manipulating you
 
 **为什么这样写**：真相的最后一次免费送达。作者让 Eve 把全书读者早已看清的一切当面拆穿——每句话都对，每个词都无效。这段台词的悲剧结构在于：真话在这条线里从来没有购买力。Addie 的回答（尖叫）是教义的排异反应：真相进入信徒的身体时，会被当作病毒攻击。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：Addie 发出一声撕心裂肺的尖叫。那声音让我寒到骨头里——几乎不像人声。
 
-**关键词语**：heart-wrenching scream／almost sounds inhuman
+**关键词**：heart-wrenching scream／almost sounds inhuman
 
 **为什么这样写**：暴力的前奏被写成声音事件。作者让「非人」的音色先行抵达——尖叫在此不是情绪，是某种东西脱壳的声音：教义、少女、理智，其中一个正在离场。本章的恐怖管理全部依赖听觉（音调、音色、之后的钝响），视觉直到「黑屏」才被允许入场。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：Addie 把那只平底锅抡向我头顶，用尽她少女身体里的全部力气。锅底砸上我颅骨的那一声，震得耳膜欲裂。半秒之后，眼前一切归于黑暗。
 
-**关键词语**：that frying pan／everything goes black
+**关键词**：that frying pan／everything goes black
 
 **为什么这样写**：全书最大的一记转折，只用三句完成。作者让凶器带着前一夜的剩菜出场（日常的恐怖），让暴力「用尽全力」（不是失手，是倾力），让意识以「black」收尾——这个词与序幕被埋者的视角完全同色。第一人称的叙述在此被物理性打断：读者与她一起失去意识，下一章换 Addie 醒来收场。叙事权的交接与凶器的落点，在同一瞬间完成。
 
@@ -117,6 +117,10 @@ modified: "2026-10-02"
 | thirty-eight-year-old | 三十八岁的 | For not telling her that a thirty-eight-year-old man has no business kissing a sixteen-year-old girl. |
 | sixteen-year-old | 十六岁的 | For not telling her that a thirty-eight-year-old man has no business kissing a sixteen-year-old girl. |
 | relationship | 关系 | I have no idea if he informed her that their relationship is over, but I wouldn’t be surprised if he hasn’t. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

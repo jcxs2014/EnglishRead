@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：他没急到来回踱步。他甚至没担忧到要下床。我的学生就蹲在咱家窗外的灌木丛里，他连一丝不安都没有。他认为这全是我脑子里的戏。
 
-**关键词语**：not the least bit perturbed／all in my head
+**关键词**：not the least bit perturbed／all in my head
 
 **为什么这样写**：三连「不够」的排比量出反应落差。作者让 Eve 用体温计量丈夫：不踱步、不下床、不安——三个人该有的应激反应全部缺席。而「all in my head」这句判决是本章的枢纽：目击证词被枕边人定性为幻觉，举报程序在立案前就死在了家里。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：「你听我说，Nate。我们都知道那女孩在 Art Tuttle 家附近鬼鬼祟祟过。这推论一点都不过分。你信不信无所谓——我知道我看见了什么。」
 
-**关键词语**：skulking around Art Tuttle’s house／I know what I saw
+**关键词**：skulking around Art Tuttle’s house／I know what I saw
 
 **为什么这样写**：Eve 的证词在本章达到最高置信度。作者让她把两起事件串成链（Art 家的潜行→自家的灌木丛）——逻辑无懈可击，讽刺也在此到顶：她串联的证据全部真实，唯独漏掉了那条真正的暗线（她丈夫）。这句话是全书最完整的「局部真相」样本：每一块砖都对，墙却砌错了方向。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：「心理辅导？」他的脸扭成一团，像刚吃了口酸东西。「你现在要把那姑娘送去见心理医生了？」
 
-**关键词语**：twists his face like he just ate something sour／a shrink
+**关键词**：twists his face like he just ate something sour／a shrink
 
 **为什么这样写**：护卫的边界在本句首次越过讲理的范围。作者让 Nate 连「心理辅导」这个最无害的提案都用嫌恶否决——它会留下记录，会有人跟她谈话，会把她脑子里的事倒出来。这个过激反应在「护犊」读法下成立，在「护密」读法下更成立：一个知道自己学生全部秘密的人，最怕的就是有人正式跟她聊聊。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：「今晚太漫长了，」他说。「你最近一直紧绷着，Eve，我很难受。我觉得是我的错。」
 
-**关键词语**：You’ve seemed so tense lately／I feel like it’s my fault
+**关键词**：You’ve seemed so tense lately／I feel like it’s my fault
 
 **为什么这样写**：愧疚台词在此完成精确制导。作者让 Nate 把「紧张」诊断成病症，把自己推上责任席——每一步都通向按摩。而「I feel like it's my fault」在读者侧的语义是双层的：他当然有错，错的比他说的深得多。这句台词与序幕的关系也在此显影：一个知道自己家里埋着什么的人，最擅长把愧疚调成按摩的力度。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：Nate 最近对性事显得毫无兴趣，听到这句话我惊呆了。但当他拉开我裙背上的拉链时，我对他的意图已毫无怀疑。
 
-**关键词语**：completely disinterested in sex recently／undoes the zipper
+**关键词**：completely disinterested in sex recently／undoes the zipper
 
 **为什么这样写**：全章的缴械动作收在一根拉链上。作者让「最近的冷淡」与「此刻的意图」在一句话内对撞——而 Eve 的疑心（怎么突然又行了？）刚刚冒头就被身体接管。举报计划死在这根拉链上：明日去校长办公室的誓言，在「造人」的低语里化成一滴快乐的水汽。
 
@@ -93,6 +93,10 @@ modified: "2026-10-02"
 | counseling | 心理辅导 | “Maybe she needs counseling,” I say. |
 | Obligingly | 顺从地 | Obligingly, I lie down on the bed, on my stomach with my head in the pillow. |
 | disinterested | 漠不关心的 | Nate has seemed so completely disinterested in sex recently, it shocks me to hear that from him. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

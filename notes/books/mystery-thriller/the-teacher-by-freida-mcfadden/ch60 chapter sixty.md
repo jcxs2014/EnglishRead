@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：我们在一片南瓜地里。
 
-**关键词语**：a pumpkin patch
+**关键词**：a pumpkin patch
 
 **为什么这样写**：五词定场，序幕后第一块拼图落位。作者让地址的揭晓平静到近乎日常——没有坐标、没有仪式，只有一个荒废的童年地标。南瓜地的选择自有一套恶毒的私密性：这是他的童年地图，他的领地知识，他的「我以为找不到」的自信来源。序幕里那句「无标记的坑」，此刻有了经纬度。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：挖到一英尺深时，我们俩都跳进了坑里——那感觉有点像在给自己挖坟。
 
-**关键词语**：climbed into the hole／digging our own graves
+**关键词**：climbed into the hole／digging our own graves
 
 **为什么这样写**：坑的隐喻在此完成双关。作者让 Addie 用「给自己挖坟」描述物理动作——而这句话的预言性贯穿全书：这个坑最终埋掉的确实不只是 Eve（ch81 的结局将由它定义）。两个人在坑里挖同一座坟的画面，是全书对这段关系最完整的寓言。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：他眼里有一种我不熟悉的黑暗。我原以为全世界没人比我更懂他。我以为我是他的灵魂伴侣。但如今越来越清楚：Nathaniel 有一面，我不认识。
 
-**关键词语**：a dark look in his eyes／a side to Nathaniel that I don’t know
+**关键词**：a dark look in his eyes／a side to Nathaniel that I don’t know
 
 **为什么这样写**：信仰体系的第一道裂缝在坑底出现。作者让「我不认识的那一面」正式立项——这是 Addie 全书唯一一次对他的系统性怀疑。注意三个「I thought」的排比：理解、灵魂伴侣、全部——三根支柱同时出现裂纹。她还没有拆塔，但她第一次看清了塔的材质。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：「你是在暗示，」他接着说，「你离开房间的时候，她其实还没死？」他的嗓音压低了几度。「你是在暗示，你在楼上的时候她醒了过来，威胁要毁掉我？」他的声音又低了几度，低到几乎成了嘶声。「所以我别无选择，只能用我的双手……把她活活掐死？」
 
-**关键词语**：she wasn’t actually dead／strangle her to death…with my bare hands
+**关键词**：she wasn’t actually dead／strangle her to death…with my bare hands
 
 **为什么这样写**：全书最精妙的一段威胁：把自供包装成反问。作者让 Nate 亲口说出完整真相（她没死/她醒了/我掐死了她）——但句尾的问号把供词变回了「荒谬的假设」。这是操控的最高形态：真相本身被当作武器，用来惩罚接近真相的人。Addie 的「tiny squeak」是全书最真实的恐惧——她已经摸到了答案，又被问号的皮吓得缩回手。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：从很多方面来说，他此刻杀我灭口，才是聪明的做法。
 
-**关键词语**：killing me right now／the smart thing for him to do
+**关键词**：killing me right now／the smart thing for him to do
 
 **为什么这样写**：Addie 的智商在本句达到全书峰值。作者让她把两案的证据链、共犯结构、灭口逻辑全部推演完毕——每一个前提都对，每一个结论都冷。这一格的悲剧在于它的下文：推理的终点不是逃，是「Nate，求你别……」。她把清醒用在了求饶上，把求生交给了那个最该被怕的人。
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：「别犯傻了，Addie，」他说。「你知道我没杀她。是你杀的。」
 
-**关键词语**：You know I didn’t kill her. You did.
+**关键词**：You know I didn’t kill her. You did.
 
 **为什么这样写**：官方剧本的第三次盖章，语气从威胁回落到「纠正」。作者让他用「You know」开头——把谎言的责任分一半给听众：你早知道真相是我说的这个版本。三句话完成一次认知复位：荒谬（你是傻的）→重申（我没杀）→转嫁（是你杀的）。Addie 的「Oh. Right.」是全书最短的一次投降。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：而如果他真做了——如果那些指痕是他的——那他完全有正当理由。如果他做了，那是为了保护我。保护我们。我信任他。
 
-**关键词语**：he totally had a good reason／I trust him
+**关键词**：he totally had a good reason／I trust him
 
 **为什么这样写**：信仰系统的急救室现场。作者让 Addie 在怀疑（dark look/指痕/灭口逻辑）与信任之间搭建最后的桥——「如果他做了，是为了保护我」。这句自我说服的语法结构（假设+开脱+归因+誓言）与她全部的叙事习惯一致：永远先给结论，再找理由。而句尾的「I trust him」之后还跟着一句「我觉得至少目前信」——那半句才是本章真正的遗产。
 
@@ -111,7 +111,7 @@ modified: "2026-10-02"
 
 **中文理解**：「我保证马上回来。」他深深地看了我一眼。「记住，无论发生什么：否认一切。」
 
-**关键词语**：I promise I will／deny everything
+**关键词**：I promise I will／deny everything
 
 **为什么这样写**：分离前的最后指令，与全书第二次「deny everything」形成排比。作者让这句叮嘱伴随「深深的注视」——那眼神里装的是叮嘱还是评估（她能不能顶住、要不要处理掉），读者已经会读了。靴声没入风里的收尾与序幕同款：一个人在坑边等待，另一个人走进夜色——所有埋尸故事的经典构图，此刻全部就位。
 
@@ -128,6 +128,10 @@ modified: "2026-10-02"
 | proclaiming | 宣称（现在分词） | Now the sign proclaiming pumpkins are available for picking is overgrown with weeds and covered with a healthy layer of dirt and grime. |
 | shovelfuls | 满铲（复数） | After scooping out three shovelfuls of dirt, he looks up at me. |
 | doubtfully | 疑虑地 | I look doubtfully at the shovel in my hand. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
 
 ### ⭐ 基础
 

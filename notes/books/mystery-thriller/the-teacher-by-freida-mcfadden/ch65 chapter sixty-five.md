@@ -27,7 +27,7 @@ modified: "2026-10-02"
 
 **中文理解**：报警去报一个明知是自己杀掉的人的失踪，再请警方去找一具自己亲手埋掉的尸体……嗯，这确实需要胆量。
 
-**关键词语**：a person who I know that I killed／a body that I buried myself
+**关键词**：a person who I know that I killed／a body that I buried myself
 
 **为什么这样写**：报案人自述的黑色版本由内视角提供。作者让 Nate 用「需要胆量」给报警定性——把自己的冷血包装成一种勇气。这句话的全部功能是自夸：他为自己能面不改色地利用司法系统而自豪。序幕的读者至此看清全书的终极讽刺：那个挖坑的人最先想到的，是让警察替他守灵。
 
@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：我最好的出路，就是扮演一个茫然无措的丈夫。幸运的是，我这一辈子修过好几个表演课的学分，这个角色会相当受用。
 
-**关键词语**：play the role of the bewildered husband／several acting courses
+**关键词**：play the role of the bewildered husband／several acting courses
 
 **为什么这样写**：角色方法论在此开课。作者让「丈夫」这个词正式降格为「role」——他娶的人、埋的人、报警找的人，全是同一个剧目的不同场次。表演课的引用延续他的文学人设：这一生他学过的所有东西（诗、戏剧、教学）都服务于同一种能力——让别人相信他想让他们相信的版本。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **中文理解**：「吵架？天哪，没有。Eve 和我是我们认识的所有夫妻里最幸福的一对。你可以问我们任何朋友。而且……」我吞了一口口水，好让喉结明显地滚动一下。「我们一直在试着要孩子。」
 
-**关键词语**：the happiest marriage／We’ve been trying to have a baby
+**关键词**：the happiest marriage／We’ve been trying to have a baby
 
 **为什么这样写**：谎言的工艺在「喉结」这一笔上露出全部工序。作者让 Nate 连吞咽都要表演——幸福的婚姻需要道具（喉结），正如 sad 的婚姻需要它自己的证据（ch19 的「头疼」）。这句话与全书的婚姻档案逐条相撞：三吻时刻表、每月一次、被拒的生日吻、被掐的喉咙——「最幸福」三个字在读者手里的重量是负的。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **中文理解**：「Eve 有一个学生，似乎对她怀恨在心。她叫 Adeline Severson。」
 
-**关键词语**：a grudge against her／Adeline Severson
+**关键词**：a grudge against her／Adeline Severson
 
 **为什么这样写**：栽赃的正式交割在全名里完成。作者让 Nate 用「 reluctant 」的假动作（故意停顿、被迫提起）递出这个名字——每一个细节都在演「我不想说但不得不说」。这一句同时是他对 Addie 的最终处置：从「我的灵魂伴侣」到卷宗里的嫌疑人，改名只用了一次报案。
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **中文理解**：除非——有人提供另一个可能的作案人。
 
-**关键词语**：another possible perpetrator
+**关键词**：another possible perpetrator
 
 **为什么这样写**：司法系统的漏洞由猎手亲自讲义。作者让 Nate 冷静陈述命案侦查的默认概率（丈夫/男友先入为主），再给出自己的解法——供出一个替代嫌疑人。这两行的可怕在于语气的公事公办：他不是在犯罪，他是在「管理办案流程」。而流程的最后一行只有五个词——
 
@@ -87,7 +87,7 @@ modified: "2026-10-02"
 
 **中文理解**：然后她指向那个房间——不到二十四小时前，我就是在那儿掐死了我的妻子。「那就是厨房？」
 
-**关键词语**：less than twenty-four hours ago／That the kitchen?
+**关键词**：less than twenty-four hours ago／That the kitchen?
 
 **为什么这样写**：侦探的无心一指与凶手的全场紧绷在此同框。作者让「That the kitchen?」这句最日常的问话承载最大的戏剧势能——她问的是方位，他听的是判决。这一格的镜头纪律极佳：不写他的冷汗，只写时间的账（不到二十四小时）——罪行的新鲜度本身就是悬念。
 
@@ -99,7 +99,7 @@ modified: "2026-10-02"
 
 **中文理解**：当我意识到她在看什么的时候，我的心直坠进胃里。
 
-**关键词语**：what she’s looking at／my heart drops into my stomach
+**关键词**：what she’s looking at／my heart drops into my stomach
 
 **为什么这样写**：全章的从容在本句清零。作者让「心坠进胃里」接住全章最大的一次信息差反转——前文所有的「表演到位」在此刻全部作废，因为地板上有一个他不知道的东西。他剧本的每一行都排练过，唯独侦探的眼睛不按剧本走。悬念在此换手：从「他演不演得像」变成「她看见了什么」。
 
@@ -116,6 +116,14 @@ modified: "2026-10-02"
 | calculated | 精心算计的 | Yet at the same time, it is a calculated move. |
 | bewildered | 茫然无措的 | My best bet is to play the role of the bewildered husband. |
 | Fortunately | 幸运的是 | Fortunately, I have taken several acting courses in my lifetime, and for this role, they will serve me well. |
+
+### ⭐⭐ 进阶
+
+（本章进阶档无合适词条）
+
+### ⭐ 基础
+
+（本章基础档无合适词条）
 
 ## 一句话总结
 
