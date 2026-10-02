@@ -126,7 +126,7 @@ modified: "2026-10-02"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | temptation | 诱惑 | I ditched the keys in her closet, so I won’t have any temptation to come back. |
-| screwed | （俚语，此处 be screwed 指完蛋） | If it’s Kenzie, I’m screwed. |
+| screwed | （俚语，此处指「完蛋了」） | If it’s Kenzie, I’m screwed. |
 
 ## 一句话总结
 
