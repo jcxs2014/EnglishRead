@@ -83,7 +83,7 @@ modified: "2026-10-02"
 
 **关键词：** weep, Narcissus, replied
 
-**为什么这样写：** 湖的回答简短有力，与女神们的提问形成节奏。"for Narcissus" 表面是悲伤，下文揭示是"自怜"。
+**为什么这样写：** 湖的回答简短有力，与女神们的提问形成节奏。`for Narcissus` 表面是悲伤，而正文给出的答案与直觉相反——它哭是因为在自己的映照里看见了美（详见原句 12）。
 
 > **原句 8:** "Ah, it is no surprise that you weep for Narcissus," they said, "for though we always pursued him in the forest, you alone could contemplate his beauty close at hand."
 
