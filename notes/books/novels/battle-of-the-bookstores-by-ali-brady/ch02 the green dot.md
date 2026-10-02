@@ -15,7 +15,7 @@ modified: "2026-10-02"
 
 ## 精读
 
-> **原句 1:** She’s called me Brian three times.
+> **原句 1:** She’s called me Brian three times. … Make that four.
 
 **中文理解**：她已经叫我 Brian 三次了。改成四次。
 
@@ -31,7 +31,7 @@ modified: "2026-10-02"
 
 **关键词**：I did not describe（我并没有那样说）、an objective fact（客观事实）、fill me with existential dread（让我满是存在主义的绝望）
 
-**为什么这样写**：两组破折号插入语把「她的书店冷清」与「她的书让我绝望」分别判成客观事实，一句话里连下两次结论；辩解越周密，立场越暴露。
+**为什么这样写**：一组破折号插入语把「她的书店冷清」判成客观事实，再接一句把「她的书让我绝望」也判成事实；辩解越周密，立场越暴露。
 
 **读者视角提示**：上一章读者看到的羞辱确实由房东添了油；本章用当事人复盘一次交清谁说了什么，同时提醒读者另一件事：他嘴硬，而她其实听得懂。
 
@@ -77,13 +77,13 @@ modified: "2026-10-02"
 
 > **原句 7:** “Absolutely,” I say, grateful she didn’t trade a book we could’ve sold. This penny-counting stuff is new for me—we’re going to have to step it up. Tighten our bootstraps. Our belts? Whatever the metaphor, we need to do better than Josie’s store and all their hardcover books with price tags as big as their authors’ vocabularies. With those profit margins, she’ll only have to sell half what we will.
 
-**中文理解**：店员拿一本我们本来能卖出去的 ARC 去换了别针，我暗自庆幸——好在她没真把一本能上架的书换掉。这种一便士一便士算的账对我还是新鲜事：我们得加把劲，把启动资金勒紧；用哪个比喻都一样，我们得做得比 Josie 那家店强，比过他们那些定价标签跟作者词汇量一样大的精装书——照那样的利润，她只要卖出一半的量就够了。
+**中文理解**：店员拿一本我们本来能卖出去的 ARC 去换了别针，我暗自庆幸——好在她没拿一本真能上架的书去换。这种一便士一便士算的账对我还是新鲜事：我们得加把劲，把启动资金勒紧；用哪个比喻都一样，我们得做得比 Josie 那家店强，比过他们那些定价标签跟作者词汇量一样大的精装书——照那样的利润，她只要卖出一半的量就够了。
 
 **关键词**：penny-counting（一便士一便士地算账）、Tighten our bootstraps（勒紧启动资金）、price tags as big as their authors’ vocabularies（定价签有作者词汇量那么大）
 
 **为什么这样写**：先承认自己外行，再连出两个互相拆台的比喻（勒紧资金／勒紧腰带），最后把对方的定价策略夸张成一句反讽；笑点与敌意在同一句里完成切换。
 
-**读者视角提示**：他嘴上轻蔑对方的定价，心里已经在算对方的软肋——言情书的毛利高，这是他本章最实的一次反击。
+**读者视角提示**：他嘴上轻蔑对方的定价，心里已经在算对方的软肋——她靠高定价压出了高毛利，只要卖一半的量就行，这是他本章最实的一次反击。
 
 > **原句 8:** And with that, her green light turns red, and I’m left wondering what BookshopGirl’s eyes look like. If they sparkle like Cinderella’s, or if they’re sad and lonely like Josie’s.
 
@@ -105,7 +105,7 @@ modified: "2026-10-02"
 | commiseration | 同病相怜的安慰；一起叹气的共鸣 | I turn back to Josie, hoping for a moment of shared commiseration, but she’s eyeing me like I’m the enemy. |
 | intimidating | 让人发怵的；气势压人的 | Especially around a woman who’s as intimidating as she is striking. |
 | tenderhearted | 心肠柔软的；善良的 | Elaine, the store’s original owner and my first and only boss, created this little corner of the world to be a haven for the tenderhearted: those who love love but don’t always feel deserving of it. |
-| penny-counting | 一便士一便盐地算账；斤斤计较成本 | This penny-counting stuff is new for me—we’re going to have to step it up. |
+| penny-counting | 一便士一便士地算账；斤斤计较成本 | This penny-counting stuff is new for me—we’re going to have to step it up. |
 | ruminating | 反复咀嚼（负面念头）；反刍式地想 | The busywork kept me from ruminating over worst-case scenarios. |
 | homophobic | 恐同的；对外同性恋群体敌视的 | At first, I didn’t understand the strict anonymity rules, but after a popular YA author made homophobic jokes at one of my events, I realized how grateful I was for a place where I could share a warning without fear of blowback. |
 | masterpiece | 杰作；传世之作 | What one person thinks is pure drivel is another’s literary masterpiece. |

@@ -9,7 +9,7 @@ modified: "2026-10-02"
 
 - **一句话概括**：早上六点十四分母亲的一条短信把她推出了门，她在电话里第一次替自己争气、也第一次接受母亲的争气；她辞掉刚拿到手的工作、去 Emerson 恢复学籍，晚上却撞见一屋子蜡烛和五本高亮了金句的她最爱的书。
 - **情感弧线位置**：全书情感线与职业线同时收束——他用她教会他的那句话（读一个人最爱的书）求和，她用「我去把书读完」接住。
-- **Tropes 兑现/反转**：兑现全书金句「如果他爱你，他就不会离开你」——被彻底推翻；兑现 ch14「I have to tell you who I really am」式的坦白，改成她主动坦白；兑现 ch01 那句「Books > humanity」。反转在烛光屋：她准备的是一场说服战，等来的是一场道歉。
+- **Tropes 兑现/反转**：兑现全书金句「如果他爱你，他就不会离开你」——被彻底推翻；兑现 ch31「as much as I want her to know who I am, it feels wrong to drop a massive truth-bomb on her」——这一回方向整个掉过来，变成她主动坦白；兑现 ch03「Literature >>> humanity」，只是这回她不再躲在 BookshopGirl 后面说。反转在烛光屋：她准备的是一场说服战，等来的是一场道歉。
 - **人物弧线**：Josie 全书的弧线在这一章完成闭环——从「我不想让任何人靠近」到「我不再藏着」；而她最后一句「这不是我们的 happy ending」把「结局」这个词本身重新定义了一次。
 - **叙事手法**：用「六点十四分」这种精确时间戳开场（母亲的消息从不会在没需要时来），中段用三个「她说的话」串起三个人的勇敢（母亲、Georgia、她自己），后段让五本书各说一句情话（Bibliophile 式的求和），最后用「翻页之后还有 life」把言情小说自己引为证。
 
@@ -73,7 +73,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：三个承诺按长度排列（4 词 → 3 词 → 5 词），再接一句最长的退让；但最后那个「哪儿也不去」恰好就是全书第一个雷区（「如果他爱你，他就不会离开你」）的正面回答。
 
-**读者视角提示**：读者该明白，三个月前他用的正是这套词推她走（“I don't want to be out of your way”），现在他把它原样打在了她最怕的那个位置上。
+**读者视角提示**：读者该明白，三个月前先说「你走吧」的是她自己——门在她身后关上，她当场后悔（“Why did I tell him to leave?”）；现在换他把这句承诺原样打在了她最怕的那个位置上。
 
 > **原句 7:** I smile back, then take a deep breath. “I know you’ve spent years thinking you didn’t measure up, that you weren’t enough, but you are. You’re more than I ever expected, more than I ever dreamed of. You deserve someone who loves you without hesitation, and I—” My voice cracks. “I’m not going anywhere, either. No more holding back, no more hiding. I’m all in, too, one hundred percent. I love you, Ryan.”
 
@@ -93,7 +93,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：这是全书的最后一段议论，它把「结局」这个词从言情小说里搬到了现实里；三个 wherever 变体（读不到 / 活一遍 / 带到哪里）把幸福从「一个结果」改写成「一段过程」。
 
-**读者视角提示**：他是 Ryan，所以他会接住——「I love that.」（这句我爱听）；读者该明白，全书是 battle of the bookstores，而两个书店的交战方式就是「读完对方的书」。
+**读者视角提示**：他是 Ryan，所以他会接住——「I love that.」（这句我爱听）；读者该明白，全书是一场书店之战，而两个书店的交战方式就是「读完对方的书」。
 
 ## 本章词汇
 

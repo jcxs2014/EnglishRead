@@ -10,7 +10,7 @@ modified: "2026-10-02"
 - **一句话概括**：Xander 告诉他利润涨了却比 Josie 略低（把她上一章听到的话原封不动还回来），他在咖啡馆听她讲完签售会的耻辱、和她吵到「不是所有女人都需要被救」，却在当晚的短信里被一个陌生女人的伤口和自己的内疚夹击，最后把那句「你妈妈辜负了你，是你没有辜负自己」打了出去——那是他说不出口的话。
 - **情感弧线位置**：全章是**双线交叉的愧疚**：白天的愧疚是「我没帮你」，晚上的愧疚是「我连她受伤的原因都刚刚才知道」；两条线在「我是个好人吗」这个同一问句上撞到一处。
 - **Tropes 兑现/反转**：兑现 enemies-to-lovers 的经典对位——她骂他见死不救，他满脑子是想救；兑现「线上网友其实是我的对手」；**反转在 447 行那句**——他终于说出对的话，却是对着一个不知道他就是 Ryan Lawson 的人说的。
-- **人物弧线**：Ryan 第一次承认「我不需要输，可我不能输」，把「不输」和「不让她看扁我」混成一件事；BookshopGirl 第一次交出退学的真正原因（姐姐车祸＋母亲出走），也第一次反过来安慰他。
+- **人物弧线**：Ryan 第一次承认「我不需要输，可我不能输」，把「不输」和「不让她看扁我」混成一件事；BookshopGirl 第一次交出退学的真正原因（妹妹车祸＋母亲出走），也第一次反过来安慰他。
 - **叙事手法**：两半各用一个分隔线切开——前半是三人对话的现场喜剧（满嘴反讽），后半是双行短信的私密抒情；最锋利的一处是让两个场景用同一句台词互相否定：白天她说「不是所有女人都需要被救」，晚上他却在替她重写人生。
 
 ## 精读
@@ -123,7 +123,7 @@ modified: "2026-10-02"
 | disappointed | 失望的 | And when she turns on her heel and walks back to her side of the store, I can’t decide if I’m disappointed or relieved. |
 | suggestive | 意味深长的；带暗示的 | Then his lips curve in a suggestive smile, and he shakes his head. |
 | patriarchy | 父权制 | Of course, if I had, she probably would’ve accused me of upholding the patriarchy. |
-| objectively | 客观地 | Reads: I have objectively not treated this person all that great. |
+| objectively | 客观地 | RJ.Reads: I have objectively not treated this person all that great. |
 | psychologist | 心理学家 | But my little sister (she’s in grad school to become a psychologist) would say that if you can’t directly make amends with this person, consider doing something kind for someone else. |
 | protective | 保护的；护着别人的 | My stomach drops to the floor; she’s sounded so protective when talking about her sister. |
 | terrifying | 可怕的；骇人的 | That’s terrifying. |
@@ -135,7 +135,7 @@ modified: "2026-10-02"
 | impressive | 了不起的 | That’s impressive. |
 | represents | 代表着 | It’s about what it represents—a sense of purpose, of accomplishment. |
 | accomplishment | 成就感 | It’s about what it represents—a sense of purpose, of accomplishment. |
-| persevering | 坚韧不拔的 | Reads: No, by finding a new path, by adapting and persevering. |
+| persevering | 坚韧不拔的 | RJ.Reads: No, by finding a new path, by adapting and persevering. |
 
 ### ⭐⭐ 进阶
 

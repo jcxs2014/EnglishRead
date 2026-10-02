@@ -7,11 +7,11 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：闭店会当晚，两人在 BOOKFRIENDS 论坛上玩「把童年绘本讲得很难听」：他把《小熊维尼》讲成一组精神科病例，她把《查理和巧克力工厂》讲成一份劳工控诉，最后她把全书反派判给了躺了二十年的爷爷 Joe，聊天停在一句 I knew I liked you 上。
+- **一句话概括**：闭店会之后不久，两人在 BOOKFRIENDS 论坛上玩「把童年绘本讲得很难听」：他把《小熊维尼》讲成一组精神科病例，她把《查理和巧克力工厂》讲成一份劳工控诉，最后她把全书反派判给了躺了二十年的爷爷 Joe，聊天停在一句 I knew I liked you 上。
 - **情感弧线位置**：对峙期里的「只对彼此说话」——白天是死对头，晚上是彼此唯一知道对方童书的人。
 - **Tropes 兑现/反转**：兑现 enemies-to-lovers 的另一面——共同的阅读记忆成了一条绕过战争的私人通道；反转是两人读法完全相反（他拿书当疗效，她拿书当控诉），却因此更近一步。
 - **人物弧线**：他多露了一点底：童年有妈妈读故事的声音；她多露了一点底：妈妈只读情色小说，她对「被读」毫无记忆；两个人第一次发现对方能听懂自己那种话。
-- **叙事手法**：短信体，双行交替，发信人前缀逐字保留（与 03 同一体例）；游戏规则提供了安全框架，让两人说出平时不会说的话；收在互相认证的三个短句上。
+- **叙事手法**：短信体，双行交替，发信人前缀逐字保留（与 03 同一体例）；游戏规则提供了安全框架，让两人说出平时不会说的话；收在互相认证的两条短句上。
 
 ## 精读
 
@@ -33,7 +33,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：她把童话改写成一份劳工控诉，用层层套叠的定语把血腥和糖果叠在一起；而「一边劳动一边唱歌」这一笔，让荒诞第一次落到制度上。
 
-**读者视角提示**：她赢了猜谜；可同一个人刚说过自己的故事书是四年级老师领读的——一个记忆是暖的，一个是课堂里的集体朗读，一段对话里并排放着。
+**读者视角提示**：她赢了猜谜；可刚说「我四年级老师领读过」的是 RJ.Reads——他那句暖的是「我妈小时候读给我听」，紧跟着他还补了一句课堂集体朗读的恶搞；这两句都属于他，不是她。
 
 > **原句 3:** BookshopGirl: Lucky. I have no memories of my mother reading to me. But she only read bodice rippers, so that’s probably a good thing. Anyway, my turn! Let me think…
 
@@ -85,13 +85,13 @@ modified: "2026-10-02"
 | children | 孩子们 | Misanthropic chocolatier lures children to factory powered by forced indigenous labor, resulting in the death and/or injury of nearly all the children while said indigenous laborers sing cautionary songs. |
 | resulting | 由此造成的（resulting from） | Misanthropic chocolatier lures children to factory powered by forced indigenous labor, resulting in the death and/or injury of nearly all the children while said indigenous laborers sing cautionary songs. |
 | laborers | 劳工（laborer 的复数） | Misanthropic chocolatier lures children to factory powered by forced indigenous labor, resulting in the death and/or injury of nearly all the children while said indigenous laborers sing cautionary songs. |
-| whimsical | 异想天开的；俏皮的 | Reads: It’s funny, because at the time I thought Willy Wonka was this magical whimsical guy…but now I think maybe he was the villain. |
+| whimsical | 异想天开的；俏皮的 | RJ.Reads: It’s funny, because at the time I thought Willy Wonka was this magical whimsical guy…but now I think maybe he was the villain. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| villain | 反派；坏人 | Reads: It’s funny, because at the time I thought Willy Wonka was this magical whimsical guy…but now I think maybe he was the villain. |
+| villain | 反派；坏人 | RJ.Reads: It’s funny, because at the time I thought Willy Wonka was this magical whimsical guy…but now I think maybe he was the villain. |
 | binge-eating disorder | 暴食障碍 | A bear with a binge-eating disorder, a pig with generalized anxiety, and a donkey with clinical depression have adventures in a forest. |
 | lazy | 懒惰的 | BookshopGirl: He’s a lazy, malingering freeloader who tagged along with Charlie and nearly ruined everything. |
 | poor daughter-in-law | 可怜的儿媳 | BookshopGirl: The man lies in bed for twenty years, allowing his poor daughter-in-law to break her back caring for him! |

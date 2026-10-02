@@ -7,11 +7,11 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：他推荐的第一本书让她写下「我爱上它了」，两人给读者立了「两条戒律」；晚上她请来的畅销作家 Kenneth Michael Rutherford 却在满场白人男性面前推销「不能为群体做贡献的人就该被淘汰」，她认出自己的姐姐就在那类人里，而要她当众赶他走，唯一能站到她身边的人是她最恨的那个。
+- **一句话概括**：他推荐的第一本书让她写下「我爱上它了」，两人给读者立了「两条戒律」；晚上她请来的畅销作家 Kenneth Michael Rutherford 却在满场白人男性面前推销「不能为群体做贡献的人就该被淘汰」，她认出自己的妹妹就在那类人里，而要她当众赶他走，唯一能站到她身边的人是她最恨的那个。
 - **情感弧线位置**：最甜与最耻的贴脸——上午她还在为「我们一起在写一个故事」心跳，晚上就要在自己店里清退一个仇家；而唯一能求助的人正是对手。
 - **Tropes 兑现/反转**：兑现 enemies-to-lovers 的「需要对方时才发现自己离不开」；兑现 online-bookseller 内战梗（那条「戒律二」就是行业自嘲）；反转在 Rutherford——她用「个人崇拜 + 蹭官网联系页」的野路子抢到的作者邀请，签进来的是一场噩梦。
 - **人物弧线**：Josie 第一次为「读者不该被这样对待」之外的理由愤怒——为残障者；Ryan 第一次在她需要时缺席（他就在隔壁，隔着一排临时书架）；Georgia 从吐槽工具升级成风险评估员。
-- **叙事手法**：用两条「读者戒律」把短信体插叙写成轻松的喜剧段落，再让同一副轻松笔调去装一场种族主义推销会，反差在第五章才爆；分隔线（—）把「甜—崩—崩」切成三段，每段一个节奏。
+- **叙事手法**：用两条「读者戒律」把短信体插叙写成轻松的喜剧段落，再让同一副轻松笔调去装一场种族主义推销会，反差在本章第三段爆；分隔线（—）把「甜—崩—崩」切成三段，每段一个节奏。
 
 ## 精读
 
@@ -75,7 +75,7 @@ modified: "2026-10-02"
 
 **读者视角提示**：破折号后那半句省略，是本节最重要的台词；读者该记住台下那几个「会心一笑」——他们事先都知道自己要听什么。
 
-> **原句 7:** Up front, Rutherford is still talking: “From the beginning of the human race, those who were unable to contribute to the group were left behind.
+> **原句 7:** Up front, Rutherford is still talking: “From the beginning of the human race, those who were unable to contribute to the group were left behind. Our ancestors understood that to succeed as a species, they had to ensure that only the fittest individuals would survive and reproduce.”
 
 **中文理解**：Rutherford 还在前面讲：「从人类种族起源开始，那些无法为群体做贡献的人就会被落下了。我们的祖先明白，作为一个物种要延续下去，就必须确保只有最适应的个体活下来并繁衍。」
 
@@ -83,7 +83,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：整段台词没有出现一个新词，全部是「自然选择」的说法的替换版本；作者让一个畅销书作者把种族屠杀讲得像生物课本，恐怖在于它的平静。
 
-**读者视角提示**：这是他小说的公开版主张；读者该把它和下一段的「作者妹妹有残障」直接拼起来——这段话里的「被落下的」，在她家里有具体的名字和一张脸。
+**读者视角提示**：这是他小说的公开版主张；读者该把它和下一段的「她自己有个妹妹有残障」直接拼起来——这段话里的「被落下的」，在她家里有具体的名字和一张脸。
 
 > **原句 8:** Josie: He won’t help me. He hates me. He’d rejoice in my downfall.
 
@@ -108,7 +108,7 @@ modified: "2026-10-02"
 | real-world | 现实世界的（她说短信里没有现实世界的麻烦） | We’re characters in a story of our own making, with no real-world complications to muddy the waters. |
 | complications | 麻烦事；变数 | We’re characters in a story of our own making, with no real-world complications to muddy the waters. |
 | vulnerable | 脆弱的；容易受伤的（她说自己还没准备好把最爱的一本交出去） | I need to test the water before being that vulnerable. |
-| commandment | 戒律（此处戏仿摩西十诫） | Reads: The #1 commandment of readers: Thou shalt despise all those who despise thy beloved books, for they show contempt for the treasures of thy heart and the wisdom therein. |
+| commandment | 戒律（此处戏仿摩西十诫） | RJ.Reads: The #1 commandment of readers: Thou shalt despise all those who despise thy beloved books, for they show contempt for the treasures of thy heart and the wisdom therein. |
 | competition | 竞争；比赛（指两家店的营业额比拼） | Fortunately, I have an event tonight that should help me take a huge leap ahead in this competition. |
 | bestseller | 畅销书作家；销量冠军 | It’s with someone I’ve admired for years: Kenneth Michael Rutherford, international bestseller, short-listed for the National Book Award for his debut novel, Tell Me No, Tell Me Yes. |
 | short-listed | 入围短名单的（指国家图书奖提名） | It’s with someone I’ve admired for years: Kenneth Michael Rutherford, international bestseller, short-listed for the National Book Award for his debut novel, Tell Me No, Tell Me Yes. |
@@ -137,11 +137,11 @@ modified: "2026-10-02"
 | cackling | 尖声怪笑（形容梦里的反派） | Last night, I dreamed that I was forcibly removed from my store along with my beloved customers, favorite authors, and hundreds of beautiful books, all of us chucked in the dumpster while Ryan watched, rubbing his hands together and cackling like a cartoon villain. |
 | terrified | 吓坏了的 | I’m terrified that it was a premonition, that Xander will tell me his good buddy Ryan is so far ahead, he’s going to call it right now and hire him. |
 | grateful | 感激的 | My phone chimes, and I’m grateful to see a message from RJ. |
-| nervously | 紧张地 | Reads: And…(he says, nervously holding his breath). |
+| nervously | 紧张地 | RJ.Reads: And…(he says, nervously holding his breath). |
 | Olympics | 奥运会（他说自己像拿了奥运金牌） | I feel like I won a gold medal at the Olympics! |
 | relaxing | 让人放松的（她说已经忘了「把大脑关掉」是什么感觉） | I’ve forgotten how relaxing it is to turn your brain off and live in another world. |
 | favorites | 最爱的东西；心爱之作 | BookshopGirl: Are you ever going to suggest one of your favorites? |
-| contempt | 轻蔑 | Reads: The #1 commandment of readers: Thou shalt despise all those who despise thy beloved books, for they show contempt for the treasures of thy heart and the wisdom therein. |
+| contempt | 轻蔑 | RJ.Reads: The #1 commandment of readers: Thou shalt despise all those who despise thy beloved books, for they show contempt for the treasures of thy heart and the wisdom therein. |
 | maddening | 让人抓狂的 | I’m grinning as I go through my day; it’s busy, but after a particularly maddening customer, I can’t help sending another message. |
 | scenario | 情形；老套路（「一本蓝封面，一本 M 开头」） | BookshopGirl: A customer asked for help finding books for his wife’s birthday—classic “One has a blue cover and the other one starts with M” scenario. |
 | seething | 闷烧；暗怒 | He manages to make me smile again, even though I’m still seething inside. |
@@ -151,7 +151,7 @@ modified: "2026-10-02"
 | delivery | 快递；送货 | After Rutherford posted about the event on his social media, hundreds of orders poured in for signed copies, which I received yesterday via rush delivery from the publisher. |
 | censoring | 自我审查（她怕暴露身份后开始删减自己说的话） | I’d start second-guessing everything I share, censoring myself. |
 | coherent | 连贯的；能说完整话的 | BookshopGirl: How could I judge you when I’m worried I won’t be able to form a coherent sentence when I meet this author? |
-| impressed | 刮目相看的；印象深刻的 | Reads: If you’re half as well spoken as you are well written, everyone will be impressed. |
+| impressed | 刮目相看的；印象深刻的 | RJ.Reads: If you’re half as well spoken as you are well written, everyone will be impressed. |
 | moderated | 主持（活动） | She live-streamed the event, and I watched the whole thing, not only because I loved Rutherford’s book, but because I wanted to memorize how PAW moderated: her command of the crowd, her ease around an author who’d leave me stammering. |
 | slightly | 稍微；略微 | “Unfortunately, you’re slightly behind Ryan,” he says, and my heart drops. |
 | comeback | 翻盘；反扑 | “It’s close, though, and you have time to make a comeback. |

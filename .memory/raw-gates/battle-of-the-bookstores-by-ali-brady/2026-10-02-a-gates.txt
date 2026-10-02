@@ -1,0 +1,201 @@
+=== a 步 · 第 3 条门禁全量重跑 · 2026-10-02T12:20:11Z ===
+不复用完工报告任何数字，全部当场重跑。
+
+### verify_quotes.py --full
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 25/25 ✅
+ch01 the blurb.md: 6/6 ✅（另有 1 条短引语未校验）
+ch02 the green dot.md: 8/8 ✅
+ch03 books are better than people.md: 4/4 ✅
+ch04 the wound and the war.md: 7/7 ✅（另有 1 条短引语未校验）
+ch05 a team that feels like family.md: 8/8 ✅
+ch06 the real villain is grandpa joe.md: 4/4 ✅
+ch07 pages and pairings.md: 7/7 ✅（另有 1 条短引语未校验）
+ch08 knitting and knotting.md: 8/8 ✅
+ch09 the literary collective.md: 8/8 ✅
+ch10 bookish never have i ever.md: 5/5 ✅
+ch11 forever seventeen.md: 8/8 ✅
+ch12 the wall comes down.md: 8/8 ✅
+ch13 make it loud.md: 8/8 ✅
+ch14 the purse book.md: 6/6 ✅
+ch15 the commandments of readers.md: 8/8 ✅
+ch16 participation trophy kid.md: 5/5 ✅
+ch17 not a bad guy.md: 8/8 ✅
+ch18 books are too important to be casualties.md: 8/8 ✅
+ch19 the truth is somewhere in the middle.md: 8/8 ✅
+ch20 pack a dress you can dance in.md: 8/8 ✅
+ch21 the only thing in color.md: 8/8 ✅
+ch22 a very nice mouth.md: 8/8 ✅
+ch23 only one bed.md: 8/8 ✅
+ch24 i miss you so much.md: 6/6 ✅
+ch25 humanizing your enemy.md: 8/8 ✅
+ch26 someone who isn't me.md: 8/8 ✅
+ch27 you got this.md: 8/8 ✅
+ch28 a happy ending needs to be earned.md: 8/8 ✅
+ch29 i never want to read about folds.md: 6/6 ✅
+ch30 i don't need to be alone.md: 8/8 ✅
+ch31 being jealous of yourself.md: 8/8 ✅
+ch32 it's an invitation.md: 8/8 ✅
+ch33 dip their toe in the water.md: 8/8 ✅
+ch34 see you soon.md: 4/4 ✅
+ch35 hoping for a happy ending.md: 8/8 ✅
+ch36 the job should be josie's.md: 8/8 ✅
+ch37 if he loved you he wouldn't leave you.md: 8/8 ✅
+ch38 always.md: 8/8 ✅
+ch39 this isn't our happy ending.md: 8/8 ✅
+ch40 my everything.md: 8/8 ✅
+
+⚠️ 全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 317/317 引文可核实（100%）；完全干净文件 41/41；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+exit=0
+
+### check_vocab.py
+  ch33 dip their toe in the water.md [基础] 基础档疑含超纲词「attention spans」
+  ch33 dip their toe in the water.md [基础] 基础档疑含超纲词「sickening realization」
+  ch35 hoping for a happy ending.md [基础] 基础档疑含超纲词「character flaw」
+  ch35 hoping for a happy ending.md [基础] 基础档疑含超纲词「competition」
+  ch35 hoping for a happy ending.md [基础] 基础档疑含超纲词「expectation」
+  ch35 hoping for a happy ending.md [基础] 基础档疑含超纲词「friction exquisite」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「comforting squeeze」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「community」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「competition」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「conference」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「contemplative tone」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「customers」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「expression dead」
+  ch36 the job should be josie's.md [基础] 基础档疑含超纲词「tentative smile」
+  ch37 if he loved you he wouldn't leave you.md [基础] 基础档疑含超纲词「crossroads」
+  ch37 if he loved you he wouldn't leave you.md [基础] 基础档疑含超纲词「lungs constrict」
+  ch37 if he loved you he wouldn't leave you.md [基础] 基础档疑含超纲词「pained expression」
+  ch37 if he loved you he wouldn't leave you.md [基础] 基础档疑含超纲词「perfect opportunity」
+  ch37 if he loved you he wouldn't leave you.md [基础] 基础档疑含超纲词「silence stretches」
+  ch38 always.md [基础] 基础档疑含超纲词「emotional mountain」
+  ch38 always.md [基础] 基础档疑含超纲词「guaranteed happy」
+  ch38 always.md [基础] 基础档疑含超纲词「tenderness back」
+  ch39 this isn't our happy ending.md [基础] 基础档疑含超纲词「community」
+  ch39 this isn't our happy ending.md [基础] 基础档疑含超纲词「expression」
+  ch40 my everything.md [基础] 基础档疑含超纲词「assistant manager」
+
+### check_entities.py
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+### corruption_scan.py
+
+=== 编辑损坏扫描（battle-of-the-bookstores-by-ali-brady）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+### sweep_full.py --quiet
+=== 引语整串 flat 比对（battle-of-the-bookstores-by-ali-brady）===
+  参照集：text/ 逐章（40 章，可定章） + epub 交叉验证
+  ✅ 本章命中 292 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 3 条归 check_short_quotes；无章可对 0 条未判）
+
+### verify_overview_quotes.py
+=== lane：完整 lane（epub） ===
+00_情感节点.md: ➖ 无引语行（正常，非门禁项）
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 28/28 ✅
+
+=== 总览引文 28/28 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+### check_overview_full.py
+=== 总览整串核查（battle-of-the-bookstores-by-ali-brady）===
+  参照集：text/ 逐章（40 章） ｜ 总览文件 3 个
+  A 整串：命中 61 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 60 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 1 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 1 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+### check_chapter_quotes.py 逐章（b 步 · 逐章归属）
+ch01   ch01 the blurb.md: 6/6 in ch01 text（另有 1 条短引语未校验） 
+ch02   ch02 the green dot.md: 8/8 in ch02 text 
+ch03   ch03 books are better than people.md: 4/4 in ch03 text 
+ch04   ch04 the wound and the war.md: 7/7 in ch04 text（另有 1 条短引语未校验） 
+ch05   ch05 a team that feels like family.md: 8/8 in ch05 text 
+ch06   ch06 the real villain is grandpa joe.md: 4/4 in ch06 text 
+ch07   ch07 pages and pairings.md: 7/7 in ch07 text（另有 1 条短引语未校验） 
+ch08   ch08 knitting and knotting.md: 8/8 in ch08 text 
+ch09   ch09 the literary collective.md: 8/8 in ch09 text 
+ch10   ch10 bookish never have i ever.md: 5/5 in ch10 text 
+ch11   ch11 forever seventeen.md: 8/8 in ch11 text 
+ch12   ch12 the wall comes down.md: 8/8 in ch12 text 
+ch13   ch13 make it loud.md: 8/8 in ch13 text 
+ch14   ch14 the purse book.md: 6/6 in ch14 text 
+ch15   ch15 the commandments of readers.md: 8/8 in ch15 text 
+ch16   ch16 participation trophy kid.md: 5/5 in ch16 text 
+ch17   ch17 not a bad guy.md: 8/8 in ch17 text 
+ch18   ch18 books are too important to be casualties.md: 8/8 in ch18 text 
+ch19   ch19 the truth is somewhere in the middle.md: 8/8 in ch19 text 
+ch20   ch20 pack a dress you can dance in.md: 8/8 in ch20 text 
+ch21   ch21 the only thing in color.md: 8/8 in ch21 text 
+ch22   ch22 a very nice mouth.md: 8/8 in ch22 text 
+ch23   ch23 only one bed.md: 8/8 in ch23 text 
+ch24   ch24 i miss you so much.md: 6/6 in ch24 text 
+ch25   ch25 humanizing your enemy.md: 8/8 in ch25 text 
+ch26   ch26 someone who isn't me.md: 8/8 in ch26 text 
+ch27   ch27 you got this.md: 8/8 in ch27 text 
+ch28   ch28 a happy ending needs to be earned.md: 8/8 in ch28 text 
+ch29   ch29 i never want to read about folds.md: 6/6 in ch29 text 
+ch30   ch30 i don't need to be alone.md: 8/8 in ch30 text 
+ch31   ch31 being jealous of yourself.md: 8/8 in ch31 text 
+ch32   ch32 it's an invitation.md: 8/8 in ch32 text 
+ch33   ch33 dip their toe in the water.md: 8/8 in ch33 text 
+ch34   ch34 see you soon.md: 4/4 in ch34 text 
+ch35   ch35 hoping for a happy ending.md: 8/8 in ch35 text 
+ch36   ch36 the job should be josie's.md: 8/8 in ch36 text 
+ch37   ch37 if he loved you he wouldn't leave you.md: 8/8 in ch37 text 
+ch38   ch38 always.md: 8/8 in ch38 text 
+ch39   ch39 this isn't our happy ending.md: 8/8 in ch39 text 
+ch40   ch40 my everything.md: 8/8 in ch40 text 
+
+### check_short_quotes.py
+=== 短引语兜底核对（battle-of-the-bookstores-by-ali-brady）===
+  verify_quotes 跳过（<20 flat 字符）的引语：3 条 —— 这些主门禁**根本没查**
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+### c 步 · audit_structure.py
+=== 精读结构扫描（battle-of-the-bookstores-by-ali-brady）===
+  扫 43 个 md、320 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+### c 步 · H1 语义（grep -m1 '^# '）
+notes/books/novels/battle-of-the-bookstores-by-ali-brady/00_情感节点.md:# Battle of the Bookstores by Ali Brady — 情感节点
+notes/books/novels/battle-of-the-bookstores-by-ali-brady/00_概述.md:# Battle of the Bookstores by Ali Brady — 概述
+notes/books/novels/battle-of-the-bookstores-by-ali-brady/00_金句精选.md:# Battle of the Bookstores by Ali Brady — 金句精选
+
+### d 步机械 · check_struct_indep.py（第二实现）
+  ❌ ch27 you got this.md: [summary] 词汇档位标题缺「### ⭐⭐⭐ 高级」
+  ❌ ch27 you got this.md: [summary] 词汇档位标题缺「### ⭐⭐ 进阶」
+  ❌ ch27 you got this.md: [summary] 词汇档位标题缺「### ⭐ 基础」
+=== 独立结构扫描：39 个 md，缺陷 3 处 ===
+
+### d 步机械 · check_xref_indep.py（第二实现）
+  ❌ ch39 this isn't our happy ending.md:12 → ch14：证据 ['I have to tell you who I really am', 'I have to tell you who I really am'] 在该章查无
+        句：- **Tropes 兑现/反转**：兑现全书金句「如果他爱你，他就不会离开你」——被彻底推翻；兑现 ch14「I have to tell you who I really am」式的坦白，改成她主
+  ❌ ch39 this isn't our happy ending.md:12 → ch01：证据 ['Books > humanity'] 在该章查无
+        句：- **Tropes 兑现/反转**：兑现全书金句「如果他爱你，他就不会离开你」——被彻底推翻；兑现 ch14「I have to tell you who I really am」式的坦白，改成她主
+  ❌ ch40 my everything.md:12 → ch01：证据 ['she called me Brian', 'she called me Brian'] 在该章查无
+        句：- **Tropes 兑现/反转**：兑现全书第一条 Tropes 线索「enemies to friends to lovers」——他把 trope 清单直接印成书里的暗语；兑现 ch01「she
+=== chNN 引用 217 处：英文证据报警 3 处 ／ 中文式待人判 141 处 ===
+
+### d 步机械 · check_analysis_indep.py（第二实现）
+抽出分析层英文片段 545 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）8 条 —— 只报不判红，须人判：
+  ch09 the literary collective.md:92  he’s still staring me down
+  ch27 you got this.md:42  when he growled the words
+  ch36 the job should be josie's.md:82  riding Josie’s coattails
+  ch38 always.md:42  hating that she’s quieting herself with me
+  ch39 this isn't our happy ending.md:12  I have to tell you who I really am
+  ch39 this isn't our happy ending.md:76  I don't want to be out of your way
+  ch39 this isn't our happy ending.md:96  battle of the bookstores
+  ch40 my everything.md:22  a glimpse into the future

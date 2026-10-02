@@ -9,7 +9,7 @@ modified: "2026-10-02"
 
 - **一句话概括**：她一边为「为什么要读言情」向妹妹和读者辩解，一边在自家读书会被人搅局，闯进对街书店兴师问罪，却在他的店里先被气味与身高击溃，临走还顺手把他的错别字招牌改了过来。
 - **情感弧线位置**：墙出现裂缝——她在短信里承认「阅读变成了一份差事」，在店里第一次因为他的靠近膝盖发软，章末用一个笔误的修正代替了任何一句软话。
-- **Tropes 兑现/反转**：兑现 enemies-to-lovers 的标志性对峙（把对方逼到书架上）；兑现「书店品味之争」这一本书的核心战场；反转是——吵架的导火索根本不是书店品味，而是那群穿粉衫的读书会太太，他一句「她们大概喝多了」就把她的怒火化掉了一半。
+- **Tropes 兑现/反转**：兑现 enemies-to-lovers 的标志性对峙（把对方逼到书架上）；兑现「书店品味之争」这一本书的核心战场；反转是——吵架的导火索其实正是书店品味本身，那群穿粉衫的读书会太太只是她闯店的由头，他一句「她们大概喝多了」就把她的怒火化掉了一半。
 - **人物弧线**：Josie 从「我从来不读言情」退到「我吃沙拉不吃甜点」的自嘲，再退到「有人替我想了一本」；Ryan 从「送人来砸场子」的误解方，变成被她当面指出低俗时先炸毛、又被一个错别字逗红脸的人。
 - **叙事手法**：短信体与正叙事交替推进同一条内心线；回忆段落（童年给妹妹读书、母亲的言情成瘾）插在两个当下场景之间；喜剧交给读书会太太，情感推进交给一次贴身逼近；结尾用一个纯动作收束，不作解释。
 
@@ -31,11 +31,11 @@ modified: "2026-10-02"
 
 **关键词**：I'm not sure she fully understands why I did it（她未必完全明白我为什么那么做）、a doorway to another world（通往另一个世界的门）、transporting us away from the chaos at home（把我们从家里的混乱里运走）、Reading wasn't just an escape（读书不只是一种逃避）、it was a lifeline（它是一根救命的绳）
 
-**为什么这样写**：先给一个具体的空间意象（门），再给一个功能性的判断；分号把 escape 和 lifeline 并列，让同一件事同时是逃和救——一个十岁孩子已经懂得这件事有多矛盾。
+**为什么这样写**：先给一个具体的空间意象（门），再给一个功能性的判断；分号把 escape 和 lifeline 并列，让同一件事同时是逃和救——一个孩子已经懂得这件事有多矛盾。
 
 **读者视角提示**：这句是她全部书店观的私人源头；读者此后每次看到她挑剔别人的店，都该想起这道门后面是什么。
 
-> **原句 3:** My throat tightens. I know she wants to believe our mother can change, and I love that about her. Unfortunately, it’s never going to happen, and the last thing I want is for my sister to get hurt again. So many popular novels showcase big, sweeping character arcs—but that’s the author’s imagination. Fictional.
+> **原句 3:** My throat tightens. I know she wants to believe our mother can change, and I love that about her. Unfortunately, it’s never going to happen, and the last thing I want is for my sister to get hurt again. So many popular novels showcase big, sweeping character arcs—but that’s the author’s imagination. Fictional. … In real life, people don’t change, not enough to make a difference.
 
 **中文理解**：我喉咙发紧。我知道她希望相信母亲能改变，也正喜欢她这一点；可惜不会发生，我最不愿的正是妹妹再受伤一次。流行小说里到处都是浩大而彻底的成长弧线——可那是作者想出来的，虚构。现实生活里，人不会变，至少不会变到足以改变什么。
 
@@ -83,13 +83,13 @@ modified: "2026-10-02"
 
 **为什么这样写**：全章最长的一段动作只有两步——迈一步、被逼近；叙述者随即写到自己闻到他身上的气味、膝盖发软、清楚两人身高体重的差距，于是「吵架」在身体上先落了地。
 
-**读者视角提示**：他说的是「低俗、非理性、没有温度」，做的却是把她困在原地；读者应读出这句话与这个动作互相矛盾，而她正在这个矛盾里失守。
+**读者视角提示**：他说的是「低俗、不精致、没有温度」，做的却是把她困在原地；读者应读出这句话与这个动作互相矛盾，而她正在这个矛盾里失守。
 
 > **原句 8:** I whip the pen out of my bun and add an apostrophe and an E, so it reads You’re. When I look back, Ryan is still staring me down—but his cheeks are now flushed.
 
 **中文理解**：我从发髻里抽出笔，补上一个撇号和一个 E，让它变成「你是」。回头看时，他还在瞪着我——但他的脸颊已经红了。
 
-**关键词**：add an apostrophe and an E（补上一个撇号和一个 E）、he’s still staring me down（他还在瞪着我）、his cheeks are now flushed（他的脸颊已经红了）
+**关键词**：add an apostrophe and an E（补上一个撇号和一个 E）、Ryan is still staring me down（他还在瞪着我）、his cheeks are now flushed（他的脸颊已经红了）
 
 **为什么这样写**：全章的和解只用一个错别字的修正完成：她没有道歉，他也没有让步，两个人都只是把视线留在对方身上；最后一个分词短语把胜利让给了他。
 
@@ -110,7 +110,7 @@ modified: "2026-10-02"
 | underwater | 水下 | And when I put the book down, reentering reality would feel like surfacing from underwater. |
 | BookshopGirl | 书店女孩（她的论坛 ID） | BookshopGirl: Do you read for fun? |
 | crystallizing | 结晶 | The sugar crystallizing on my tongue, the sensation of comfort as it settled in my stomach. |
-| brainstorming | 头脑风暴 | Reads: Sorry, took a while because I was brainstorming titles that would be “fun” for the one and only BookshopGirl. |
+| brainstorming | 头脑风暴 | RJ.Reads: Sorry, took a while because I was brainstorming titles that would be “fun” for the one and only BookshopGirl. |
 | eight-hundred-page | 八百页的 | It’s like a fully balanced meal in one eight-hundred-page book—meat and potatoes, vegetables, and dessert. |
 | blah-colored | 难看的颜色的 | She nods, a confused look on her face, as I slip outside and past Beans, storming into Happy Endings, scanning the place for a giant man in a blah-colored cardigan with his hair flopped seductively over his eyes. |
 | Mismatched | 不成套的；不匹配的 | Mismatched chairs are wedged into every corner, with books spread face down over the arms (broken spines! |

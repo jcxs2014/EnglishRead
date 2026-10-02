@@ -73,7 +73,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：同一句话在两个频道上各响一次；她用一秒的眼神把「火花」坐实，又用生意把话头转走，问句的时机卡得刚刚好。
 
-**读者视角提示**：他用「只有一个」回应，指的是《Remarkably Bright Creatures》找了三刻钟才找到；读者该明白，全章最锋利的一刀藏在两个书店人的职业习惯里。
+**读者视角提示**：他用「只有一个」回应，指的是《Remarkably Bright Creatures》找了十五分钟才找到；读者该明白，全章最锋利的一刀藏在两个书店人的职业习惯里。
 
 > **原句 7:** I’m dying to know what makes Josie’s panties wet, what’ll make her lose control—even more than she did on the beach. But that’s not what she asked me.
 

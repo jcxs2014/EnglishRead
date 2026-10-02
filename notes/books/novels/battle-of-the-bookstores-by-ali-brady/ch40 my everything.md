@@ -9,7 +9,7 @@ modified: "2026-10-02"
 
 - **一句话概括**：一年后，他在自家书店里用手写线索做了一本叫《BookFriends to Lovers》的书，念出最后三个字母才开口求婚；她答了，但附带一个条件——毕业之后，这家书店要归他们俩所有。
 - **情感弧线位置**：不是收束而是重启——把「happy ending」这个词从一个结果改写成一段还在进行的过程，然后立刻把新一段剧情（买下书店）接到结尾。
-- **Tropes 兑现/反转**：兑现全书第一条 Tropes 线索「enemies to friends to lovers」——他把 trope 清单直接印成书里的暗语；兑现 ch01「she called me Brian」的乌龙，三个人名在求婚现场一次性回收；兑现 ch34 短信里那朵「一百万里我都不会错过」的邀请。
+- **Tropes 兑现/反转**：兑现全书第一条 Tropes 线索「enemies to friends to lovers」——他把 trope 清单直接印成书里的暗语；兑现 ch01 那场「Brian」乌龙（Ryan 在 ch38 用「that first day, when she called me Brian」回指它），三个人名在求婚现场一次性回收；兑现 ch34 短信里那朵「一百万里我都不会错过」的邀请。
 - **人物弧线**：Ryan 从「我是那个帮人策划求婚的人」走到「轮到我自己」；Josie 则从「我配得上一个 happy ending」走到「我要把店买下来」。
 - **叙事手法**：以「叙事学讲义」开篇（把 epilogue 这个文体本身当作被误解的东西讲一遍），中间用一串速写把全书人物一次性点名回收，结尾用三行独词句（enemy / fiancée / everything）作阶梯式落槌。
 
@@ -19,7 +19,7 @@ modified: "2026-10-02"
 
 **中文理解**：当我的爱人抱怨言情小说里那些圆满结局的时候，她忘了还有尾声这一节。它是往未来的一瞥——也许一年，也许更久——好让读者知道，他一路爱着的人的那种幸福不是昙花一现：在最后一章的结尾和整本书的结尾之间那段空隙里，笔下的人还在继续长大，还在过他们那完整的、复杂的、漂亮的生活。
 
-**关键词**：lamented about the happy endings（抱怨那些圆满结局）、she forgot about the epilogue（她忘了还有尾声）、a glimpse into the future（往未来的一瞥）、was not short-lived（不是昙花一现）、in the space between the end of the last chapter and the end of the book（在最后一章与整本书之间那段空隙）、full, complicated, beautiful lives（完整的、复杂的、漂亮的生活）
+**关键词**：lamented about the happy endings（抱怨那些圆满结局）、she forgot about the epilogue（她忘了还有尾声）、The glimpse into the future（往未来的一瞥）、was not short-lived（不是昙花一现）、in the space between the end of the last chapter and the end of the book（在最后一章与整本书之间那段空隙）、full, complicated, beautiful lives（完整的、复杂的、漂亮的生活）
 
 **为什么这样写**：尾声第一句先把批评顶回去——抱怨者忘了还有尾声；接着用一句关于「空间」的论文式解释替这个文体辩护，把全书第二次「纸页之外还有 life」的主张挂在元叙事层上。
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **关键词**：my voice shaky（我的声音在抖）、I fell in love with love stories because I knew one day, they would lead me to you（我知道总有一天它们会把我带到你面前）、a woman who thought my name was Brian（一个把你名字记成 Brian 的女人）、captivated me（攫住了我）、bantering online or sparring in real life（在线上斗嘴还是在现实里交手）、I couldn’t get you off my mind（没办法把你从脑子里赶出去）
 
-**为什么这样写**：求婚词第一句就把自己的事业（love story）降级为一条线索，把「找到她」说成是被书引路的结果；而全章唯一的玩笑是 ch01 那个人名乌龙——三年的伏笔被当成情话用。
+**为什么这样写**：求婚词第一句就把自己的事业（love story）降级为一条线索，把「找到她」说成是被书引路的结果；而全章唯一的玩笑是 ch01 那个人名乌龙——从初见到求婚跨了一年多的这条线，被当成情话用。
 
 **读者视角提示**：他把「线上敌人」和「线下对手」并置成同一个动词的两种宾语；读者该明白，书名里的 Bathtub Girl 才是这一段的真正主角。
 
@@ -83,7 +83,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：三个名字并列而不是「嫁给他」，把这条故事线上的三个身份一次结清；「Yes」先单独喊出来，隔一拍才补上完整的那句，像现实中真会有的那半秒犹豫。
 
-**读者视角提示**：读者该明白，ch01 她把他记成 Brian、ch04 他喊 STOP CALLING ME THAT、ch32 头像破案的那条线，到这里才真正落地。
+**读者视角提示**：读者该明白，ch01 她把他记成 Brian、ch04 他喊 STOP CALLING ME THAT、ch35 头像破案的那条线，到这里才真正落地。
 
 > **原句 8:** “Oh, Ryan,” Josie says, picking up the book of our conversations—our love story. “We were always on the same side. It just took us a while to figure it out. So, what do you say?”
 

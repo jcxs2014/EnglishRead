@@ -43,7 +43,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：一个破折号把鹦鹉的设定插进句中，少年时代的荒唐就这么一带而过；「谁能想到」是全章唯一一次语气忽然变软的地方，也是男主第一次交代自己和言情小说的私人渊源。
 
-**读者视角提示**：他嘴上嫌弃她的店，自己却是靠她的品类读大了的；读者应开始意识到，被他视为威胁的那个人，其实是更早把他拉进这行的人。
+**读者视角提示**：他嘴上嫌弃她的店，自己却是靠 Elaine 那家店里的言情读大了的；读者应开始意识到，把他拉进这行的不是对面那个人，而是那位十五岁时抓到他偷书、罚他给她读言情的老板。
 
 > **原句 4:** “Share your anti-kink: something that turns you off in an otherwise good romance novel.” She looks up, her eyes twinkling. “Mine is when they make elderly characters out to be sexless. We might need a little blue pill or some good lube, but we’re not dead yet! Eliza?”
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **关键词**：anti-kink（反萌点）、turns you off（让你兴致全消）、sexless（没有性欲的）、we're not dead yet（我们还没死呢）
 
-**为什么这样写**：一位七十九岁的店员在年会上公开谈药丸和润滑剂，仪式的郑重与题材的毫不避讳并置；这本书的笑点几乎全部来自这种体裁内部的错位。
+**为什么这样写**：一位七十九岁的店员在闭店会上公开谈药丸和润滑剂，仪式的郑重与题材的毫不避讳并置；这本书的笑点几乎全部来自这种体裁内部的错位。
 
 **读者视角提示**：这一句替整本书定了调：这里的人敢拿任何题材开玩笑，包括性本身；而这个仪式，正是下一幕剧情的舞台。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：他先用 controversial 和 warn 自架台阶，再把否定说得极其绝对（nothing）；台下当场倒吸一口气，而读者知道他在描述的正是自己。
 
-**读者视角提示**：全书的引擎在这一句上点着：他当着全店否认「敌人能变成爱人」，而他三天前刚被这个敌人当面骂到离席。
+**读者视角提示**：全书的引擎在这一句上点着：他当着全店否认「敌人能变成爱人」，而就在几小时前——同一场戏的下一幕——他刚被这个敌人当面骂到离席。
 
 > **原句 6:** “I can suspend some disbelief. And sure, enemies can have hot hate sex—but if they’re really enemies…” My mind drifts to Josie’s fiery eyes, and I shiver. “Feelings that deep don’t change. Love is love and hate is hate.”
 
@@ -81,7 +81,7 @@ modified: "2026-10-02"
 
 **关键词**：Apparently（显然）、she doesn't need anyone（她不需要任何人）、She can do it all herself（她一个人全干得下来）
 
-**为什么这样写**：一个转折词把前半句的客观陈述翻成自我安慰；主语始终是她，三个短句越说越轻，越像在说服自己别往心里去。
+**为什么这样写**：一个转折词把前半句的客观陈述翻成自嘲；主语始终是她，三个短句越说越轻，越像在自嘲别往心里去。
 
 **读者视角提示**：读者刚看过她一周七天从开门站到打烊，这一句让读者替对手心疼了一秒，也让日后的胜负变得不干净。
 
@@ -93,7 +93,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：三个短句各自成段，一句比一句短，像钉子一样敲下去；「员工开销」与「团队」被摆上同一杆秤的两头——他其实在用自己拥有的东西安慰自己。
 
-**读者视角提示**：他随即喊出 This battle is on；可读者手上的信息比他多：对面那家店连一个员工都没有。
+**读者视角提示**：他随即喊出 This battle is on；而他自己这句话里就带着另一半信息——对面那家店连一个员工都没有。
 
 ## 本章词汇
 

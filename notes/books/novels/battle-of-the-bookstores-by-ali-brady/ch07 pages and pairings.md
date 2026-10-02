@@ -10,8 +10,8 @@ modified: "2026-10-02"
 - **一句话概括**：她把一场「每本书配一款酒」的活动当成翻盘战来办，客人刚夸完就演砸了——他那边的猫炸翻全场，两人在后屋抢猫、拌嘴、拿彼此的软肋互戳；而这一晚剩下的时间，她在论坛里和一个刚吵过架的人讨论结构节奏。
 - **情感弧线位置**：从对峙滑向「身体先于理智」——两人第一次出现几乎不像吵架的对峙，近到只剩一句话没说完；同时她的过去第一次摊开。
 - **Tropes 兑现/反转**：兑现 forced proximity（咖啡馆的仓库夹在两家店中间，进货送货都得穿过彼此的墙）；反转是——毁掉她活动的正是他那只猫，而她当时第一反应不是算账，是怕它跑丢。
-- **人物弧线**：Josie 从「我必须赢」走到「我必须先撑住自己」：活动办砸、后屋在施工、姐姐的短信还没回；Ryan 从公事公办的对手，变成压低声音说要看她挣扎的人。
-- **叙事手法**：以活动为骨架，先喜剧（把音乐家当作家、把品鉴词当拉丁文）再危机（猫）；后屋追逐把空间压缩到只剩两人；中段插一段短信体对话（BookFriends）作降速；收在「我不想回到现实」的位置上。
+- **人物弧线**：Josie 从「我必须赢」走到「我必须先撑住自己」：活动办砸、后屋在施工、妹妹的短信还没回；Ryan 从公事公办的对手，变成压低声音说要看她挣扎的人。
+- **叙事手法**：以活动为骨架，先喜剧（把音乐家当作家、自称完全不懂酒 `I'm a total noob`）再危机（猫）；后屋追逐把空间压缩到只剩两人；中段插一段短信体对话（BookFriends）作降速；收在「我不想回到现实」的位置上。
 
 ## 精读
 
@@ -33,7 +33,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：一句挑衅被拆成三个头衔再扔出去；前半直呼其名，后半突然升到意识形态的高度，讽刺来自这个跨级的落差。
 
-**读者视角提示**：她已经能叫他的全名了——这是上一章那张名牌和那句纠正的结果；读者很快会看到，这个名字在她嘴里还要再错一次。
+**读者视角提示**：她已经能叫他的全名了——这是第四章那张名牌和那句纠正的结果；读者很快会看到，这个名字在她嘴里还要再错一次。
 
 > **原句 3:** The sommelier, a lanky guy with an exaggerated French accent I hired from Spoke, a nearby wine bar, is describing how he paired a novel set in Spain with a light and bubbly cava. Apparently it has notes of almond and leather—not that that means anything to me. I’m a total noob when it comes to this stuff; the only wine my mom drank was of the boxed variety or Manischewitz at Passover.
 
@@ -43,7 +43,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：一整套行话与她完全接不上的空白并置；最后半句的酒史自曝既是笑点也是阶层说明——她的酒知识停在母亲那一代。
 
-**读者视角提示**：她办的是专业活动，心里清楚自己是在冒充；请记住这句「装到成真为止」，因为她马上就要在客人面前演到崩塌。
+**读者视角提示**：她办的是专业活动，心里清楚自己是在冒充；请记住紧接着的下一句「装到成真为止」，因为她马上就要在客人面前演到崩塌。
 
 > **原句 4:** “LET GO OF MY CAT!”
 
@@ -51,7 +51,7 @@ modified: "2026-10-02"
 
 **关键词**：LET GO OF MY CAT（放开我的猫）
 
-**为什么这样写**：全章唯一一句全大写，短到只剩四个词；my 而不是 his——在本章最紧的一秒钟里，他先喊出来的是所有权。
+**为什么这样写**：全章唯一一句全大写，短到只剩五个词；my 而不是 his——在本章最紧的一秒钟里，他先喊出来的是所有权。
 
 **读者视角提示**：上一章的冷战在这一句里一次性炸开：她在自家后屋抱着他的猫，胳膊上是新鲜抓痕，两个人连客套流程都跳过了。
 
@@ -63,7 +63,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：先立牌坊再下战书，两句一个转折；而压低的嗓音和俯到平视的距离，把一句商务威胁压成了私人靠近。
 
-**读者视角提示**：他声称的公平就发生在他自己店里、由他自己的猫引发；读者已经知道这场比赛从来不是 fair and square。
+**读者视角提示**：他嘴上说 fair and square，炸场的却是他自己的猫——而且炸在她的店和后屋；读者已经知道这场比赛从来不是公平游戏。
 
 > **原句 6:** I scoff. What does he take me for? “I would never do that, Brian.”
 
@@ -73,7 +73,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：先嗤一声表示不屑，再顺手丢出一个错名字；错称呼紧跟在否认之后，像一颗故意扔出去的挑衅——刚学会的名字又被他自己打了回去。
 
-**读者视角提示**：接下来他的纠正只有三个字，然后是一短一长的反问；本章唯一的亲近就藏在这次口误里。
+**读者视角提示**：接下来他的纠正只有两个词（It's Ryan），然后是她两个短反问；本章唯一的亲近就藏在这次口误里。
 
 > **原句 7:** After that, everything fell apart. I don’t regret choosing my sister over my own plans, but it took me years to crawl out of that hole. To create a life I’m proud of, even if it’s not what I always hoped for.
 
@@ -83,7 +83,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：先承认代价（花了好几年才爬出来），再收成一个防御性的自我评价，最后半句才让步；等于承认现在的生活是退而求其次的产物。
 
-**读者视角提示**：妹妹的车祸和母亲的出走是她的底牌，也是她一周七天守在店里的真正理由；读者比她店里任何人都更早看懂这份拼命。
+**读者视角提示**：妹妹的车祸和母亲的出走是她的底牌，也是她一周七天守在店里的写照；读者比她店里任何人都更早看懂这份拼命（文本只交代她天天在店，未把班表与车祸、出走直接连成因果）。
 
 > **原句 8:** BookshopGirl: What?? That first section was crucial to setting up the entire storyline! You’re just impatient.
 
@@ -114,8 +114,8 @@ modified: "2026-10-02"
 | underworld | 冥界；地下世界 | After the debacle with the feline god of the underworld, my event never got back on track. |
 | BookFriends | BOOKFRIENDS（论坛名） | Trying to brush the memories away, I pull my laptop toward me, the glow of the screen illuminating my dark living room as I navigate to BookFriends. |
 | BookshopGirl | 书店女孩（Josie 的论坛 ID） | BookshopGirl: Hey! |
-| encompassed | 包含；涵盖 | Reads: Well, one cry session encompassed the last hundred pages. |
-| streamlined | 精简过的；更高效的 | Reads: It could of been streamlined. |
+| encompassed | 包含；涵盖 | RJ.Reads: Well, one cry session encompassed the last hundred pages. |
+| streamlined | 精简过的；更高效的 | RJ.Reads: It could of been streamlined. |
 | comforting | 让人安心的 | The tension of the day releases as I relax into the familiar, comforting world of fiction. |
 
 ### ⭐⭐ 进阶

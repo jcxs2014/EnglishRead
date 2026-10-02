@@ -39,7 +39,7 @@ modified: "2026-10-02"
 
 **中文理解**：她哼了一声，然后用力把嘴唇压在我的肩膀上，把那声音闷住。我讨厌她在我面前还要这样掐着自己——我已经听过她在感到安全、毫无拘束时发出的那种声音了。
 
-**关键词**：She moans, then stifles it（她哼了一声，然后把声音闷住）、hating that she’s quieting herself with me（讨厌她在我面前还要这样掐着自己）、the sounds she makes when she feels safe（她感到安全时发出的声音）、uninhibited（毫无拘束）
+**关键词**：She moans, then stifles it（她哼了一声，然后把声音闷住）、I hate that she’s quieting herself with me after I’ve heard the sounds she makes when she feels safe and uninhibited（她在我面前还是这样掐着，而我已经听过她觉得安全时发出的声音）
 
 **为什么这样写**：全书唯一一次把她的「声音」当成计量单位；「闷住」这个动作需要一只肩膀当出口，于是他成了她的沉默容器。
 

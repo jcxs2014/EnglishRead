@@ -43,7 +43,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：长段落里塞了四次自我修正（「我想是因为」「对不起」「你肯定很意外吧」「这是个玩笑」），每一句都在往回退；括号里的玩笑是最后一道墙，墙后面才是她真正想说的话。
 
-**读者视角提示**：她把「我不擅长交朋友」当作需要解释的缺陷；读者该记住，她上一次交心说的是母亲的尖叫——这次她连解释都不打算要了。
+**读者视角提示**：她把「我不擅长交朋友」当作需要解释的缺陷；读者该记住，她上一次交心说的是母亲在电话里高声喊她名字——这次她连解释都不打算要了。
 
 > **原句 4:** BookshopGirl: But I deeply value your friendship. Whenever anything interesting or crazy or weird happens at work, you’re the first person I think of telling. Whenever I read a book that surprises or excites me, I wonder what you’d think about it. And whenever I get a new message from you, my whole day brightens. Now I feel like I’ve lost something precious and I know it’s my fault but the fact is, I miss you. So much. And honestly, it’s rare that I miss anyone.
 
@@ -53,7 +53,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：三个「每当……」排比把她的日常整条铺开，最后一句却用「老实说」把摊牌缩到最小；全段唯一一次主语直呼「我」，出现在「我想你」之前。
 
-**读者视角提示**：她说「我知道这是我的错」；读者该想起第七章她说过的那句「用假名、假地址、没心没肺的论坛人格」——她正拿自己最擅长的东西（文字）去换一样她一直说自己不需要的东西。
+**读者视角提示**：她说「我知道这是我的错」；读者该想起 ch02 他说过的那句「本着论坛的规矩，我们没有公开姓名、住址或任何其他个人信息」——她正拿自己最擅长的东西（文字）去换一样她一直说自己不需要的东西。
 
 > **原句 5:** BookshopGirl: I’m sorry, that was a lot. Feel free to disregard. Why doesn’t this stupid website allow us to edit or delete our messages?
 

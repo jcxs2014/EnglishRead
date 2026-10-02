@@ -9,8 +9,8 @@ modified: "2026-10-02"
 
 - **一句话概括**：老板让他把活动办起来当翻身仗，他一边被朋友追问要不要去海角当备选方案，一边办起一场 Omegaverse 之夜；活动缺椅子，他去隔壁借椅子撞见她，也在心里把自己的来路重新走了一遍。
 - **情感弧线位置**：暗流上浮——童年、阅读障碍与恩人都被他说出口，又在店里第一次因为她起了生理反应；两人从互相讨厌滑到互相在意但都不承认。
-- **Tropes 兑现/反转**：兑现 forced proximity（借椅子把两人重新放到一张柜台前）；兑现 enemies-to-lovers 的性张力前置（先有念头，再有别的）；反转是——点燃这把火的不是任何场面，而是一件印着「内向但愿意聊 Omegaverse」的 T 恤带来的松弛。
-- **人物弧线**：Ryan 从「用玩笑消解童年」走到「承认阅读对他很难」；Gretchen 是一条随时能退的 plan B；Elaine 的形象补上恩情与认可；Josie 在章末仍是对手，只是借口和眼神都露了怯。
+- **Tropes 兑现/反转**：兑现 forced proximity（借椅子把两人重新放到一张柜台前）；兑现 enemies-to-lovers 的性张力前置（先有念头，再有别的）；反转是——点燃这把火的不是任何场面，而是他先拿玩笑挡住「这场活动会不会被当成 PG」的顾虑、而一件印着「内向但愿意聊 Omegaverse」的 T 恤带来的松弛。
+- **人物弧线**：Ryan 从「用玩笑消解童年」走到「承认阅读对他很难」；Gretchen 是一条随时能退的 plan B；Elaine 的形象补上恩情与认可；Josie 在章末仍是对手，只是借口和语气都露了怯。
 - **叙事手法：用活动筹备的琐碎立势，中段插一段回忆解释人物底色；喜剧（T恤、Eddie 的挤眉弄眼）与尴尬（A/B/O 科普）交替推进；性张力靠一段内心独白而非对白完成；收在一句关于椅子的错话上。
 
 ## 精读
@@ -31,7 +31,7 @@ modified: "2026-10-02"
 
 **关键词**：think of me as your plan B（把我当成你的备选方案）
 
-**为什么这样写**：全章唯一一句谈到退路的话，被放在通话的最后、紧跟在他刚拒绝搬去海角之后；那个省略号让邀请显得不逼人，也让他不必当场给答复。
+**为什么这样写**：全章唯一一句别人给他的退路，被放在通话的最后、紧跟在他刚拒绝搬去海角之后；那个省略号让邀请显得不逼人，也让他不必当场给答复。
 
 **读者视角提示**：这条退路从此一直开着——他后面每一次孤注一掷，读者都该记得他原本可以不赌。
 
@@ -57,9 +57,9 @@ modified: "2026-10-02"
 
 > **原句 5:** Those afternoons at Happy Endings helped me discover my love of reading—and by proxy, I got the keys to a sex education other boys could only dream of. In the early days, I was so embarrassed by the words I was reading out loud—his quivering shaft of desire; her tender petals of feminine delight—that I forgot to be embarrassed by the fact that reading was such a struggle. The parrot didn’t care how slowly I went or if I mispronounced a word—she was just happy to have someone reading to her.
 
-**中文理解**：那些在 Happy Endings 的下午，让我发现了自己对阅读的热爱——顺带也拿到了别的男孩做梦都想要的性教育那把钥匙。
+**中文理解**：那些在 Happy Endings 的下午，让我发现了自己对阅读的热爱——顺带也拿到了别的男孩做梦都想要的性教育那把钥匙。刚开始我为自己不得不当众念出来的词臊得发慌——他欲望颤动的柱身、她女性柔嫩的花瓣——臊到竟然忘了为自己读得那么吃力这件事本身也让人难堪。鹦鹉不管我读得多慢、也不管我有没有念错词，她只是高兴有人肯读给她听。
 
-**关键词**：helped me discover my love of reading（让我发现了对阅读的热爱）、by proxy（顺带地；间接地）、the keys to a sex education（性教育的那把钥匙）
+**关键词**：helped me discover my love of reading（让我发现了对阅读的热爱）、by proxy（顺带地；间接地）、the keys to a sex education（性教育的那把钥匙）、reading was such a struggle（读起来那么吃力）、she was just happy to have someone reading to her（她只是高兴有人肯读给她听）
 
 **为什么这样写**：让一个少年用「拿到钥匙」来写被允许读下流书这件事，把青春期最要紧的启蒙写成一次交接；by proxy 这三个字母把两件事缝在一起，也点明这段收获是顺带的。
 

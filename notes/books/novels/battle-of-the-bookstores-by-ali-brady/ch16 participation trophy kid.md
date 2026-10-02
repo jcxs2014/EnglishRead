@@ -53,7 +53,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：用三个否定排比把一份恐惧从具体事件推向整个人生，句子短促重复，像被掐住的气；「Not in life」把整串话收成一个空。
 
-**读者视角提示**：她先说「大概是我太矫情」才终于把话交出来；读者该意识到，这套自我贬低的说辞，正是她用来解释「姐姐比我成功」的同一套。
+**读者视角提示**：她先说「大概是我太矫情」才终于把话交出来；读者该意识到，这套自我贬低的说辞，正是她用来解释「妹妹比我成功」的同一套。
 
 > **原句 5:** RJ.Reads: For what it’s worth, everything I’ve ever seen of you has made it clear that you’re smart, hardworking, and passionate. I get the sense that you have the ability to overcome whatever life throws at you.
 
@@ -76,8 +76,8 @@ modified: "2026-10-02"
 | therapists | 治疗师；心理咨询师 | That’s why therapists have jobs. |
 | first-place | 拿第一名的；处处争第一的 | I was the participation trophy kid in a first-place family. |
 | deep-rooted | 深深扎根的 | I guess my point is, I can’t shake this deep-rooted fear that I don’t have what it takes to succeed. |
-| hardworking | 勤奋的 | Reads: For what it’s worth, everything I’ve ever seen of you has made it clear that you’re smart, hardworking, and passionate. |
-| passionate | 有热情的；充满热情的 | Reads: For what it’s worth, everything I’ve ever seen of you has made it clear that you’re smart, hardworking, and passionate. |
+| hardworking | 勤奋的 | RJ.Reads: For what it’s worth, everything I’ve ever seen of you has made it clear that you’re smart, hardworking, and passionate. |
+| passionate | 有热情的；充满热情的 | RJ.Reads: For what it’s worth, everything I’ve ever seen of you has made it clear that you’re smart, hardworking, and passionate. |
 
 ### ⭐⭐ 进阶
 
@@ -87,16 +87,16 @@ modified: "2026-10-02"
 | thinking | 想；琢磨 | I’ve been thinking about it all day and can’t seem to stop. |
 | childhood | 童年 | BookshopGirl: You know how characters in books always have a wound from their childhood that drives their growth and the plot? |
 | business | （某人的）事；私事 | BookshopGirl: Never mind—that’s none of my business. |
-| probably | 大概；很可能 | Reads: Mine probably comes back to never being enough. |
+| probably | 大概；很可能 | RJ.Reads: Mine probably comes back to never being enough. |
 | overcome | 克服；战胜 | I get the sense that you have the ability to overcome whatever life throws at you. |
-| trusting | 把……交托给（trusting me with it ＝ 把心事交给我） | Reads: Thanks for trusting me with it. |
+| trusting | 把……交托给（trusting me with it ＝ 把心事交给我） | RJ.Reads: Thanks for trusting me with it. |
 | listening | 在听 | BookshopGirl: Thanks for listening. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| big event | 重头活动；大活动 | Reads: How did the big event go??!? |
+| big event | 重头活动；大活动 | RJ.Reads: How did the big event go??!? |
 | event | 活动；场合 | BookshopGirl: It wasn’t just the event, though that was awful. |
 | participation trophy | 参与奖杯（发给「重在参与」者的奖） | I was the participation trophy kid in a first-place family. |
 | plot | 情节 | BookshopGirl: You know how characters in books always have a wound from their childhood that drives their growth and the plot? |

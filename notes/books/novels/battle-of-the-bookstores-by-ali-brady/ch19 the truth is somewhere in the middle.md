@@ -128,7 +128,7 @@ modified: "2026-10-02"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | countless | 数不清的 | There are countless clues I should have picked up on. |
-| accident | 事故（此处指她姐姐的车祸） | And of course, the story of her sister’s accident—she must be the woman with the cane I’ve seen helping Josie. |
+| accident | 事故（此处指她妹妹的车祸） | And of course, the story of her sister’s accident—she must be the woman with the cane I’ve seen helping Josie. |
 | swirling | 打旋的；翻涌的 | Desperate to escape my swirling thoughts, I get up and keep walking, hoping I’ll tire out my feet and my mind. |
 | wrestling | 纠缠；反复权衡（此处是 question 与之搭配） | Because the other question I’m wrestling with is: What do I do now that I know? |
 | probably | 多半；八成 | The next time I see Josie, she’ll probably see the truth written all over me. |

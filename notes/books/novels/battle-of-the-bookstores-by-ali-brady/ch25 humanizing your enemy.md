@@ -7,11 +7,11 @@ modified: "2026-10-02"
 
 ## 本章导航
 
-- **一句话概括**：她给自己定了三条新规矩（不在他面前喝酒、不碰他、不闻他），却在第一条短信里把自己卖了——她告诉他自己也要去 IBNE，于是被迫听他说「万一我们已经见过呢」，用一句「万一不是搞砸，而是变得更好」把她钉在原地；晚上她拿到panel名额，庆功酒没喝成，却被他拉去当速配的观众。
+- **一句话概括**：她给自己定了三条新规矩（不在他面前喝酒、不碰他、不闻他），却在第一条短信里把自己卖了——她告诉他自己也要去 IBNE，于是被迫听他说「万一我们已经见过呢」，用一句「万一不是搞砸，而是变得更好」把她钉在原地；晚上她拿到 panel 名额，庆功酒没喝成，最后却作为参与者坐到了自己的第一场约会对面。
 - **情感弧线位置**：从「我还有机会赢」到「我不想让他输」的转向点；她第一次承认喜欢一个对手，理由是对方先变成了一个好人。
 - **Tropes 兑现/反转**：兑现 fake dating 的「不能见面」焦虑（IBNE 就是那场会面）；兑现 online 身份揭穿的引信（「万一我们已经见过」）；反转在最后——速配夜不是他设的局，是他真的缺一个人，而她误会了整整一章。
 - **人物弧线**：Josie 承认自己「控制感」来自童年，也第一次承认她一直在物色比自己小的男人；Ryan 用「我去看你的店」做了一件极不寻常的事，动机本章不给答案。
-- **叙事手法**：用「手机在抽屉里震」把线上身份钉在工作台之外；Georgia 进来的那一段把情话全部换成书店经营课；速配夜用「她坐在几码之外」制造物理距离上的反讽。
+- **叙事手法**：用「手机在抽屉里震」把线上身份钉在工作台之外；Georgia 进来的那一段把情话全部换成书店经营课；速配夜先让她想象「如果他去速配、而她只能坐在几码外听着」，再让她真的坐到自己的第一场约会对面。
 
 ## 精读
 
@@ -138,7 +138,7 @@ modified: "2026-10-02"
 | confusing | 让人糊涂的 | I grin, happy to see his message—and grateful for the distraction from my confusing feelings for my former nemesis turned…whatever Ryan is now. |
 | Freaking | 该死的（此处是抱怨老板） | Freaking Xander. |
 | revealing | 袒露的（此指真心话） | BookshopGirl: As reader commandment #3 says, Thou shalt share thy favorite books with thy trusted friends, for in doing so thou art baring thy soul and revealing the essence of thy heart. |
-| naturally | 自然地 | Reads: But it could be great—we could meet naturally, no pressure. |
+| naturally | 自然地 | RJ.Reads: But it could be great—we could meet naturally, no pressure. |
 | terrified | 害怕的 | And I’m terrified that meeting him in person will strip away the carefully constructed layers I’ve built about myself, that I won’t live up to the version of me he’s come to know. |
 | industry | 行业（此指出版业） | BookshopGirl: Please don’t apologize—like you said, it’s not strange for two people in the same industry to meet at a conference. |
 | terrible | 糟糕的 | Is it so terrible that I want to stay in this online bubble where I can choose my words, take my time, keep everything safe? |

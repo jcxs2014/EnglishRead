@@ -67,7 +67,7 @@ modified: "2026-10-02"
 
 > **原句 6:** “It would be okay if you came over and said hi sometime. When you’re not busy, I mean,” she adds quickly. “Sometimes my store can get a little…”
 
-**中文理解**：「Ryan？」Josie 说。我睁开眼。「嗯？」「你有空的时候，过来跟我打个招呼会挺好的。」她飞快地补了一句，「我那家店有时候会有点……」
+**中文理解**：「你有空的时候，过来跟我打个招呼会挺好的。」她飞快地补了一句，「我那家店有时候会有点……」
 
 **关键词**：came over and said hi（过来跟我打个招呼）、When you’re not busy（你有空的时候）、she adds quickly（她飞快地补了一句）、my store can get a little（我那家店有时候会有点）
 

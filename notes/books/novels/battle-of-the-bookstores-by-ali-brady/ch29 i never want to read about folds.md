@@ -86,10 +86,10 @@ modified: "2026-10-02"
 | descriptions | 描写 | BookshopGirl: All the bizarre and disturbing descriptions of sex in romance novels. |
 | utilitarian | 实用的 | Dick, cock—okay, fine, utilitarian if not terribly creative. |
 | velvet-wrapped | 天鹅绒包裹的 | But then we get throbbing member, velvet-wrapped steel, hungry rod of lust, thrusting sword of desire? |
-| anatomically | 解剖学上正确地 | Reads: So you’d prefer anatomically correct terms? |
-| Definitely | 绝对 | Reads: Definitely don’t want to rub those wrong. |
+| anatomically | 解剖学上正确地 | RJ.Reads: So you’d prefer anatomically correct terms? |
+| Definitely | 绝对 | RJ.Reads: Definitely don’t want to rub those wrong. |
 | comfortable | 自在的 | I’m perfectly comfortable with my sexuality. |
-| experiencing | 体验着 | Reads: I assume because they’re experiencing intense pleasure. |
+| experiencing | 体验着 | RJ.Reads: I assume because they’re experiencing intense pleasure. |
 | ridiculously | 荒唐地；长到离谱 | Which brings me to my next point: What’s with all these men in romance novels who are thrilled to go down on women for a ridiculously long amount of time? |
 | experience | 体验 | It’s their favorite part of the whole experience. |
 
@@ -107,7 +107,7 @@ modified: "2026-10-02"
 | groaning | 呻吟 | Why is everyone always moaning and groaning and grunting and screaming? |
 | grunting | 闷哼 | Why is everyone always moaning and groaning and grunting and screaming? |
 | screaming | 尖叫 | Why is everyone always moaning and groaning and grunting and screaming? |
-| pleasure | 快感 | Reads: I assume because they’re experiencing intense pleasure. |
+| pleasure | 快感 | RJ.Reads: I assume because they’re experiencing intense pleasure. |
 | starting | 开始；提这个 | I’m starting to worry that you’ve had extremely mediocre sex. |
 | extremely | 极其 | I’m starting to worry that you’ve had extremely mediocre sex. |
 | mediocre | 平庸的 | I’m starting to worry that you’ve had extremely mediocre sex. |
@@ -116,7 +116,7 @@ modified: "2026-10-02"
 | straight | 异性恋的（此处指直男） | Have these authors ever been with a straight man? |
 | objective | 客观的 | People swear they’ve seen it but there’s no objective evidence. |
 | evidence | 证据 | People swear they’ve seen it but there’s no objective evidence. |
-| somewhere | 某处 | Reads: There’s a sex joke somewhere in there but I feel like now’s not the time. |
+| somewhere | 某处 | RJ.Reads: There’s a sex joke somewhere in there but I feel like now’s not the time. |
 | slithered | 扭动着（滑入） | “His oversized eel slithered in…” Never mind. |
 
 ### ⭐ 基础
@@ -134,8 +134,8 @@ modified: "2026-10-02"
 | myth | 传说 | BookshopGirl: Eh, I think that’s a myth. |
 | noise level | 音量 | It’s the noise level. |
 | oversized eel | 被撑大的鳗鱼 | “His oversized eel slithered in…” Never mind. |
-| prude | 假正经的人 | Reads: I hate to say this, but…are you…a prude? |
-| sex joke | 荤段子 | Reads: There’s a sex joke somewhere in there but I feel like now’s not the time. |
+| prude | 假正经的人 | RJ.Reads: I hate to say this, but…are you…a prude? |
+| sex joke | 荤段子 | RJ.Reads: There’s a sex joke somewhere in there but I feel like now’s not the time. |
 | so-called photos | 所谓的照片 | Like all the so-called photos of Nessie that end up being an oversized eel. |
 | underutilized euphemism | 被严重低估的委婉说法 | BookshopGirl: Or an underutilized euphemism in romance novels. |
 | whole bunch | 一大堆 | BookshopGirl: I’m reading a whole bunch of romances to prep for an event. |

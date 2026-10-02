@@ -98,7 +98,7 @@ modified: "2026-10-02"
 | bookstore | 书店 | I mean, maybe I was waxing poetic, but if you can’t do that in your own bookstore, where can you? |
 | actually | 其实；实际上 | First of all, it’s my literal job to know the product I sell, but also: I actually don’t have a lot of free time, Janet. |
 | scuttled | （像老鼠一样）溜走（她用了一个形容逃跑的词） | Unfortunately, I just stood there gaping until she scuttled away. |
-| wondering | 好奇；想弄明白 | Reads: Now I’m wondering how many books you read in a year. |
+| wondering | 好奇；想弄明白 | RJ.Reads: Now I’m wondering how many books you read in a year. |
 | personal | 私人的；隐私相关的 | If that’s not too personal to ask? |
 | technique | 方法；技术（他直接问她是怎么做到的） | That’s a genuine question—I want to know your technique. |
 | spatters | 溅点；油点（复数，溅在书页上的东西） | My Kitchen Book, the one I read while I’m cooking (usually an ARC so it’s okay if I get spatters on it). |

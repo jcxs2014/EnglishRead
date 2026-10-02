@@ -33,7 +33,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：被反问「你会为救一个人把书扔到火车前吗」，她不答是也不答否，先用两个看情况把道德问题推回给对方；括号里那半句自我更正才是真心话，括号成了全段唯一的泄密口。
 
-**读者视角提示**：一个刚输掉一场会议的人，把半句玩笑交给了同样刚输掉一场会议的人；两边都不知道对方就是自己的对手，这是全书最讽刺也最暖的一处错位。
+**读者视角提示**：一个刚吵完一场会议的人，把半句玩笑交给了同样刚吵完一场会议的人；两边都不知道对方就是自己的对手，这是全书最讽刺也最暖的一处错位。
 
 > **原句 3:** BookshopGirl: Books are more dependable than people. They don’t stab you in the back, they don’t gossip about you or insult you. Also, bonus—they won’t judge you for spending the whole day in pajamas crying over the death of a character.
 
@@ -43,7 +43,7 @@ modified: "2026-10-02"
 
 **为什么这样写**：三个否定句排比下来，把「可靠」坐实成一串具体的恶行清单；最后用「额外加分项」把指控语气一转成撒娇式邀功，一句话里完成降调。
 
-**读者视角提示**：可靠这个词在这里是她能抓住的最小真理——一周后她会明白，人是靠得住的，而书不会回消息。
+**读者视角提示**：可靠这个词在这里是她能抓住的最小真理——读者该盯住的是：她很快会开始等一条永远不会来的消息。
 
 > **原句 4:** BookshopGirl: Exactly! No matter how long it’s been, books are waiting with open pages, ready to whisk you away on an adventure or comfort you after a rough day. People may come and go from your life, but books? Books are forever.
 
@@ -65,8 +65,8 @@ modified: "2026-10-02"
 | unfortunately | 不幸的是；不巧 | I hardly slept last night, and unfortunately I don’t have a book rec for you yet, but I can share a controversial opinion inspired by recent events. |
 | Kingsolver | 金索勒（人名，此处指作家芭芭拉·金索勒） | BookshopGirl: I mean, I’ve never met a Barbara Kingsolver novel that let me down—or a person who didn’t, at least a little. |
 | dependable | 靠得住的；可依赖的 | BookshopGirl: Books are more dependable than people. |
-| definitely | 绝对；肯定 | Reads: Or for laughing out loud in the middle of a funeral (which people definitely judge. |
-| overwhelming | 压倒性的；令人喘不过气的 | Reads: They’ll also never complain about being ignored when life gets stressful or overwhelming. |
+| definitely | 绝对；肯定 | RJ.Reads: Or for laughing out loud in the middle of a funeral (which people definitely judge. |
+| overwhelming | 压倒性的；令人喘不过气的 | RJ.Reads: They’ll also never complain about being ignored when life gets stressful or overwhelming. |
 
 ### ⭐⭐ 进阶
 
@@ -75,11 +75,11 @@ modified: "2026-10-02"
 | inspired | 受……启发的 | I hardly slept last night, and unfortunately I don’t have a book rec for you yet, but I can share a controversial opinion inspired by recent events. |
 | humanity | 人性；人类 | Literature >>> humanity. |
 | spending | 花费（一段时间） | Also, bonus—they won’t judge you for spending the whole day in pajamas crying over the death of a character. |
-| laughing | 发笑；笑出声 | Reads: Or for laughing out loud in the middle of a funeral (which people definitely judge. |
+| laughing | 发笑；笑出声 | RJ.Reads: Or for laughing out loud in the middle of a funeral (which people definitely judge. |
 | funerals | 葬礼 | BookshopGirl: You read during funerals? |
 | impressed | 佩服的；印象深刻的 | I’m impressed. |
-| complain | 抱怨；抱怨说 | Reads: They’ll also never complain about being ignored when life gets stressful or overwhelming. |
-| stressful | 压力大的；令人焦虑的 | Reads: They’ll also never complain about being ignored when life gets stressful or overwhelming. |
+| complain | 抱怨；抱怨说 | RJ.Reads: They’ll also never complain about being ignored when life gets stressful or overwhelming. |
+| stressful | 压力大的；令人焦虑的 | RJ.Reads: They’ll also never complain about being ignored when life gets stressful or overwhelming. |
 | adventure | 冒险；奇遇 | No matter how long it’s been, books are waiting with open pages, ready to whisk you away on an adventure or comfort you after a rough day. |
 
 ### ⭐ 基础

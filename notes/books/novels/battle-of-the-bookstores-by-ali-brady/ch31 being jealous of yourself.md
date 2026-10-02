@@ -107,7 +107,7 @@ modified: "2026-10-02"
 | dysfunction | 失衡；失能 | And it’s clear Josie tried her best to take care of her younger sister, absorbing their mom’s dysfunction so Georgia could have a more carefree childhood. |
 | experience | 经历 | It’s a strangely painful experience, being jealous of yourself. |
 | irrationally | 不合情理地 | My sister is on her way there now, which makes me irrationally angry. |
-| irrational | 不合情理的 | Reads: Doesn’t sound that irrational to me. |
+| irrational | 不合情理的 | RJ.Reads: Doesn’t sound that irrational to me. |
 | accidentally | 偶然地 | Sure, it would be a relief to end this charade, to be fully honest about who I am and how I feel about her—but I don’t want her to accidentally find out when she’s overwhelmed and stressed. |
 | overwhelmed | 不知所措 | Sure, it would be a relief to end this charade, to be fully honest about who I am and how I feel about her—but I don’t want her to accidentally find out when she’s overwhelmed and stressed. |
 | unsatisfying | 不让人满意的 | BookshopGirl: Although, any book about my mom would be unsatisfying. |

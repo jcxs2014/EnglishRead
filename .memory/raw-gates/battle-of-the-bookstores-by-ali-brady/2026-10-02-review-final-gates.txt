@@ -1,0 +1,49 @@
+=== 独立审查五步法 · 复验门禁 2026-10-02 12:39:11 UTC ===
+
+--- verify_quotes --full ---
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 317/317 引文可核实（100%）；完全干净文件 41/41；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+--- verify_overview_quotes ---
+
+=== 总览引文 28/28 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+--- check_overview_full ---
+=== 总览整串核查（battle-of-the-bookstores-by-ali-brady）===
+  参照集：text/ 逐章（40 章） ｜ 总览文件 3 个
+  A 整串：命中 61 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 59 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 2 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 1 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+--- check_vocab ---
+  ch39 this isn't our happy ending.md [基础] 基础档疑含超纲词「community」
+  ch39 this isn't our happy ending.md [基础] 基础档疑含超纲词「expression」
+  ch40 my everything.md [基础] 基础档疑含超纲词「assistant manager」
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- corruption_scan ---
+=== 编辑损坏扫描（battle-of-the-bookstores-by-ali-brady）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+=== 引语整串 flat 比对（battle-of-the-bookstores-by-ali-brady）===
+  参照集：text/ 逐章（40 章，可定章） + epub 交叉验证
+  ✅ 本章命中 292 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 3 条归 check_short_quotes；无章可对 0 条未判）
+
+--- check_analysis_indep ---
+抽出分析层英文片段 544 条
+✅ 全部片段在全书 text/ 逐字命中
+
+--- check_short_quotes ---
+  verify_quotes 跳过（<20 flat 字符）的引语：3 条 —— 这些主门禁**根本没查**
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核

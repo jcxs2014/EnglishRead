@@ -79,7 +79,7 @@ modified: "2026-10-02"
 
 **中文理解**：他的话刺痛了我——不只是因为他在贬低我爱的那个女人。而是我最坏的恐惧成真了：我不够格，我果然像 Georgia 说的那样，骑在了 Josie 的衣袖上。
 
-**关键词**：His words sting（他的话刺痛了我）、It’s my worst fear coming true（我最坏的恐惧成真了）、I’m not good enough（我不够格）、riding Josie’s coattails（骑在了 Josie 的衣袖上）、like Georgia suggested（像 Georgia 说的那样）
+**关键词**：His words sting（他的话刺痛了我）、It’s my worst fear coming true（我最坏的恐惧成真了）、I’m not good enough（我不够格）、I’ve ridden Josie’s coattails（骑在了 Josie 的衣袖上）、like Georgia suggested（像 Georgia 说的那样）
 
 **为什么这样写**：用了一个在 8.1 里反复出现的动物意象的近邻——「骑在衣袖上」；把前一章的比喻原封不动地接过来，让读者自己听出回声，比任何评论都重。
 
