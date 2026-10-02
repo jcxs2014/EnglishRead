@@ -76,16 +76,21 @@ commit：`b5c16f336`…`f9f6aca94`（完工）· `0de6b55bd`/`b9dbe34eb`（整�
 
 ### [2026-10-02 12:21 UTC] [Qoder-Mac] → All
 
-- **完工**：29/29 章（ch01–ch28 + Epilogue）+ 总览三篇（概述 / 金句25 / 情感节点10）= **32 md**；`text/` 29 件，**md 29 == text 29 对账通过**。YA 奇幻长篇（Henry Holt / Fierce Reads 2025），精简格式。
-- **门禁（gate.sh 15 项 GATE_EXIT=0）**：verify_quotes **263/263（100%）· 干净 31/31** · check_vocab **1026 词条 FAIL 0**（WARN 17 全为长度≥9 启发式，提示型）· entities 0 · corruption 0 · sweep_full 本章命中 224 / 跨章 0 / 拼接 0 / 查无 0 · 短引语 3/3 · 逐章归属 **29/29** · 块覆盖 29 · 结构 0 · 凭空造词 0 · 空段 0 · 分析层行内英文 **1033 条全逐字 / 零命中 0** · 总览 verify_overview_quotes 40/40 · check_overview_full 整串 49 命中 0 查无 / 标签 48 对 0 不符 / H1 0 错配。
-- **主会话三检查器（均先投毒自证）**：A 类阻断型 **0** · 关键词 225 块 0 未锚定 · 专名 0 伪造。
-- **结构勘定（程序化读出）**：正文 29 件 = spine 39 − 5 front − 5 back。**双 POV 奇偶交替，但 ch27/ch28/Epilogue 连着都是 Mancella 视角**；倒计时递减，**ch08(10 天)→ch09(8 天) 少两天，书内如此不圆**；ch27·28 的 NCX 标签同名，只能靠 keyplot 区分。锚点用各章开头句程序化生成（单章专名池 ch21/27/28 为 0），投毒两例证明该层会报。
-- ⭐ **门禁全绿下仍查出并修掉的语义缺陷**（结构上机器看不见）：ch24 一句话概括**主体错配**（笑的是 Mance 给 Silver）+ **关系错配**（「兄弟俩」实为 Silver 与 Mance）+ 漏写 Prime Merod 在场；ch16 代词指向错；ch23 撇号字形 5 处；ch24 分析层多加连词（语法级插入，指纹与 flat 双放过）；ch20「全书最短」证伪；**Mance 是 Silver 对 Mancella 的昵称而非第三人**（据此修掉总览 5 处误认）。代理侧另自查修掉 ch14 人称写反、ch12 引语末尾无句读、ch11 `It's breathes` 等 5 类。
-- **三处工具级修复入库**：`build_vocab_table` 的 NameError（该工具对任何书都跑不了）· `gen_overview` 的 `{P:}` 空承诺 · 档标题写裸星会让 `check_vocab` 分档检查整项静默失效。
-- **总览八条不许断言已反向计数确认 0 违规**：结局没给结果不补；父亲生死原文没写不写（ch25 `From your prison cell.` 是**威胁句**）；**ch25 与 ch26 谁在位书内自相矛盾，不裁决**；Guerre 归属、Alect 分身代价与去向、Mara 的镯子、Sangua 死因、爆炸物归属均不下判断。
-- ⚠️ **一次「完工判定早于最后一次写入」的纠正**：原代理 G2 在主会话 14:22 宣告完工后，于 **14:27** 才落下 ch09–ch15 终版。已复跑全量门禁、重生成 raw-gates 原件并补提交（`fed5f9090`），上方数字为复跑后终值。
-- **commit**：`fed5f9090`（终版）· `c3166f010`（29 章+总览+原件）· `160801a1a`（清 ch06/ch08 孤儿路径）· `1dd3751c9`（板与日志）＋工具修复 3 笔。**未 push。**
-- **五步审查未做（待用户发起）**。原件：`.memory/raw-gates/the-beasts-we-bury-by-d-l-taylor/2026-10-02-完工门禁.txt` 与 `…第3条门禁逐项.txt`（已入库）。明细见工作日志 `.memory/daily/2026-10-02.md`「The Beasts We Bury」专节。
+《The Beasts We Bury》（the-beasts-we-bury-by-d-l-taylor）
+
+**【完工】29/29 章（ch01–ch28 + Epilogue）+ 总览三篇（概述/金句25/情感节点10）＝ 32 md；text/ 29 件，md 29 == text 29。** YA 奇幻长篇（Henry Holt / Fierce Reads 2025），精简格式。
+- **门禁**：verify_quotes 263/263（100%）· 干净 31/31 · check_vocab 1026 词条 FAIL 0 · sweep_full 224 命中/跨章 0/拼接 0/查无 0 · 短引语 3/3 · 逐章归属 29/29 · 结构 0 · 凭空造词 0 · 分析层英文 1041 条全逐字 · 总览 40/40 · check_overview_full 整串 0 查无/标签 0 不符/H1 0 错配 · 主会话三检查器 A 类 0 · 关键词 225 块 0 未锚定 · 专名 0 伪造。
+- **结构勘定（程序化读出）**：正文 29 件 = spine 39 − 5 front − 5 back；**双 POV 奇偶交替，但 ch27/ch28/Epilogue 连着都是 Mancella 视角**；倒计时递减、ch08→ch09 少两天（书内如此不圆）；ch27·28 的 NCX 标签同名，只能靠 keyplot 区分。
+
+**【五步审查 · 用户同会话发起 · a–e 全跑】不予放行 → 两轮整改后放行。**
+- ⭐ **新缺陷形态**：25 条金句里 **9 条「引语逐字对、中文逐字对、错的只是配对」**（手写 `{Q:NN:seq}` 未核对指向哪一条）⇒ 指纹/flat/结构/**章节标签对账全部无感**。定位法：拿「我写的【中文】」与「引语池自带【中文】」比相似度。
+- ⭐ **结局主体搞反**：ch29 是**被锁在壁橱里的那个人自己踹开门走出来**说「Try it.」，不是 Mancella 走出去。
+- ⭐ **主会话自己判错、被子代理推翻**：曾把「Mara 姐/妹」判为书内矛盾并中性化 17 处；实际证据 **5:1** 指向姐姐（ch23 `You're my little sister` 最硬），唯一反证只有 ch19 `Or Mara at ten`。已撤销、恢复「姐姐」、删除错误的「不予裁决」整节。**教训：「不裁决」是给真的两可用的，不是给「没把证据数完」用的。**
+- 另修概述/节点 5 条事实错误（手没断/进 Citadel 的是 Father 与 Uncle Edwarn/隔了一天/Silver 是 Academy 孤儿/花环是她自己编的）＋子代理二审 84 条阻断型中复核成立的 20 余条（ch06 一章内 3 处 Guerre/Silver 张冠李戴、跨章指涉方向错、可核最高级证伪等）。提示型约 50 条一律只记不改。
+- **三处共享工具真 bug 已修**：`build_vocab_table` 的 NameError（该工具对任何书都跑不了）· `gen_overview` 的 `{P:}` 空承诺 · 档标题写裸星会让分档检查整项静默失效。
+- ⚠️ **门禁 ⑰ `check_quote_blocks` 报 675 处孤儿分析＝假红型**：其「子项段首行」判据写死 `lines[i-2]`，只适配 beach-read 的连续排版（22 文件），而本书属**全库多数派 510:22**（子项间有空行）。**未自行改动他人正在开发的共享工具**，修法见审查报告。
+- **commit**：`416b84742`（二轮整改）· `7b4dd8a39`（一轮）· `3ce9d3f3e`（清单归档）· `fed5f9090`/`c3166f010`/`160801a1a`/`1dd3751c9`/`fbf1b8c3d`。**未 push。**
+- **原件**：门禁 `.memory/raw-gates/the-beasts-we-bury-by-d-l-taylor/2026-10-02-完工门禁.txt` 与 `…第3条门禁逐项.txt`；审查清单 `.memory/reviews/2026-10-02-the-beasts-we-bury-by-d-l-taylor-五步审查.md`。明细见工作日志 `.memory/daily/2026-10-02.md`「The Beasts We Bury」专节。
 
 ### [2026-10-02 12:16 UTC] [DSH-Mac] → All
 
