@@ -24,9 +24,10 @@ modified: "2026-10-02"
 - **读者视角提示**：`void`（空缺）与 `fill`（填满）是一组反义复用；记住它，因为这一段的沉默在下一段里被「我」用半句话破坏掉了。
 
 > **原句 2:** "Mal,” I said, “the people I worked with are angry with me because I… I took something that maybe I shouldn’t have taken. They’re kind of powerful. I don’t know what they’ll do."
+
 - **中文理解**：「Mal，」我说，「我以前一起做事的人现在生我的气，因为我……我拿了东西，也许本来不该拿。他们有点权势，我不知道他们会怎么做。」
 - **关键词**：angry with me because I / I took something that maybe I shouldn’t have taken / They’re kind of powerful
-- **为什么这样写**：这整句里有两个 `I took`，第二个是被塞进从句里的自我指控；`maybe I shouldn’t have taken` 用一个 `maybe` 把判断权让出去，人物的自我开脱因此可见。而真正的信息量在 `They’re kind of powerful` 与 `I don’t know what they’ll do` 的并置：怕的不是对方，是对方的不确定。
+- **为什么这样写**：这整句里有两个 `took`，第二个是被塞进从句里的自我指控；`maybe I shouldn’t have taken` 用一个 `maybe` 把判断权让出去，人物的自我开脱因此可见。而真正的信息量在 `They’re kind of powerful` 与 `I don’t know what they’ll do` 的并置：怕的不是对方，是对方的不确定。
 - **读者视角提示**：`I…` 这个省略号不是排版失误，而是说话真的卡住了；读到这里能听见对方把话说一半又往下推的那种节奏。
 
 > **原句 3:** "Sometimes silence asks nothing of anyone, except thoughts and breath and heartbeats."

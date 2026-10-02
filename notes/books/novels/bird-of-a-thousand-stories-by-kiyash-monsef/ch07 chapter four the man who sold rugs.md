@@ -36,21 +36,21 @@ modified: "2026-10-02"
 - **中文理解**：他把刀收回口袋。那股威胁化掉了，换成了另一种饥饿。我自己身体里那阵狂奔般的慌乱松了下来。
 - **关键词**：slid the knife back / replaced by / the racing panic eased
 - **为什么这样写**：刀是在他刚说出那句「是一只鸟」之后滑回口袋的，作者把两个动作放进相邻的两段，而这一段只处理收束：`The menace melted away` 用 `melted` 写威胁消失的过程，再用一个被动式的 `replaced by` 把新状态安上，却不说明那是什么——只说是 `a different sort of hunger`。危险没有撤走，只是被改了名。
-- **读者视角提示**：同一个人前后都被称作 `the man with the knife`——称呼一字未改，状态却已换过一轮；而同一段里 `Inside my own body` 忽然把镜头从对方身上拉回她的心跳，落差要读者自己补。
+- **读者视角提示**：同一个人进门前后被换着叫——先是 `the shadow`，后才是 `the man with the knife`——称呼换了，状态也换过一轮；而同一段里 `Inside my own body` 忽然把镜头从对方身上拉回她的心跳，落差要读者自己补。
 
 > **原句 4:** "The expression it wore wasn’t terror or shock or pain but instead something like surprise, and something like boredom—half-lidded eyes, mouth slack, lips parted ever so slightly as if caught just in the middle of a word—an impossible, unnatural emotion, captured and frozen by death."
 
 - **中文理解**：它脸上带的并不是惊恐、不是震惊、也不是痛苦，而是某种近似惊讶的东西，加上某种近似无聊的东西——半阖的眼睛，松着的嘴，微微分开的唇，像正好被卡在一个词的中间；一种不可能的、不自然的情绪，被死亡攫住并冻在那里。
 - **关键词**：something like boredom / half-lidded eyes / frozen by death
 - **为什么这样写**：作者先用 `wasn’t terror or shock or pain` 连否掉三种最顺手的读法，再用两个 `something like` 把读者放回「说不准」的位置；两个破折号把身体的细节铺开，让 `lips parted ever so slightly as if caught just in the middle of a word` 同时说出「话没说完」和「生命被截断」这两件事。
-- **读者视角提示**：这一块前面有一句技术判断垫底——`The injuries to its body were awful, but I could look at them.` 她看得懂伤，所以只能躲开那张脸；作者先立起她的专业，再让她用这套专业失效。
+- **读者视角提示**：这一块后面才跟上一句技术判断——`The injuries to its body were awful, but I could look at them.` 她看得懂伤，所以只能躲开前面那张脸；作者先让她在这张脸前失效，再用这句把她的专业立起来。
 
 > **原句 5:** "They did not sing to me, or to Amu Reza, or even to each other. … because the meaning had claws, and the claws ripped at the places where the world had cut pieces away from me: my father, confused and wounded and lost, who’d left me even more confused, even more wounded, even more lost; my mother, who had loved and loved, with every ounce of energy her body could spare; the child I had been, long ago, before everything had come crashing down."
 
 - **中文理解**：它们不是唱给我听，不是唱给 Amu Reza 听，也不是唱给对方听。……因为那意思带着爪子，而爪子正撕咬那些世界从我身上剜掉的地方：我的父亲，困惑、受伤、迷失，他离开后让我更加困惑、更加受伤、更加迷失；我的母亲，她付出全部力气去爱、去爱；还有很久以前的那个我，在一切都砸下来之前的那个孩子。
 - **关键词**：even to each other / the meaning had claws / the world had cut pieces away from me
 - **为什么这样写**：`had claws` 把「意义」写成有身体、会抓人的东西，再让它去 `ripped at the places where the world had cut pieces away from me`；读者至此才明白她为什么「听得懂」一只不用语言的 faerie——懂的不是词，是伤。冒号后面的三样损失各自被同一个动词反复修饰（`confused and wounded and lost` 到 `even more confused, even more wounded, even more lost`），把递进写成同一件事的三次加深。
-- **读者视角提示**：歌唱结束之后另起一段只有一句 `Some things are the same in every heart.`，而 `he continued` 的说法像讲述者不太愿意多说——一整场关于丧失的歌唱，最后缩进一句格言里。
+- **读者视角提示**：歌唱结束之后另起一段只有一句 `Some things are the same in every heart.`——一整场关于丧失的歌唱，最后缩进一句格言里。（茶叙段里他说 `Well, he continued` 时那种不太愿意多说的口气，是同一个人在另一处的用法）
 
 ## 本章词汇
 

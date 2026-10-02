@@ -34,7 +34,7 @@ modified: "2026-10-02"
 
 - **中文理解**：「不会吧，」她说，「那不可能是结局。那个结局太糟糕了。接下来呢？她们从那里往哪儿走？」
 - **关键词**：That cannot be the end / That’s a terrible place to end / What happens next?
-- **为什么这样写**：她连说三句，每句都比上一句短促，从判断（`cannot be the end`）到评语（`a terrible place to end`）再到两个追问。`No way` 这个拒绝是口语的，几乎没有教养，可正是这种不讲究让拒绝显得不容商量。两个问句连着抛出来，读者也被迫站到了「必须找到下文」的位置上。
+- **为什么这样写**：她连说数句，从判断（`cannot be the end`）到评语（`a terrible place to end`）再到两个追问；短促的不是句长，而是每句后面紧跟一个句号的那种急。`No way` 这个拒绝是口语的，几乎没有教养，可正是这种不讲究让拒绝显得不容商量。两个问句连着抛出来，读者也被迫站到了「必须找到下文」的位置上。
 - **读者视角提示**：`a terrible place to end` 把「结局」写成一个可以站人的地方；她评价的不是情节好坏，而是「停在那里」这件事本身。
 
 > **原句 4:** "“Nobody writes stories about that,” said Carrie. “Quests are meant to be finished, bad guys are meant to be defeated, and orphans are meant to become kings and queens. Simple as that.”"

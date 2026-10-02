@@ -32,6 +32,7 @@ modified: "2026-10-02"
 - **读者视角提示**：条件写在答应之后（`If you can bear to love…`）而不是之前，读者先被许诺、再被收费；斑鸠没有讨价还价，他的答复在下一段立刻给出。
 
 > **原句 3:** "She told me that the time she was given did not belong to her, but that she carried it for others who needed her. She told me that there are different kinds of time, but all of them are circles. She told me that the circle she carried was a crooked wheel, wobbling always toward icy darkness, and that she must turn it, always, in the direction of life."
+
 - **中文理解**：「她告诉我，给她的那段时间并不属于她，而是她替那些需要她的人背着。她告诉我，时间有很多种，但全都是圆的。她告诉我，她背着的那个圆是一只歪斜的轮子，总是朝冰冷的黑暗歪，她必须一直、一直把它转向生命的方向。」
 - **关键词**：the time she was given did not belong to her / all of them are circles / a crooked wheel
 - **为什么这样写**：三句都以 `She told me that` 起头，把一段宇宙论压成民谣里的复沓；两个 `but` 各做一次转折（不属于她／全都是圆的）；最后那个 `crooked wheel` 把抽象的时间换成一件要一直扶住的器物，而 `wobbling always toward icy darkness` 说明她连停手都不能。

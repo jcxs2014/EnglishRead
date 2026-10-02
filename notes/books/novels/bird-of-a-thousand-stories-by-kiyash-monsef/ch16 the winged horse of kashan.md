@@ -51,7 +51,7 @@ modified: "2026-10-02"
 - **为什么这样写**：全篇最长的一个 `Maybe`，把一个本该发生的解释拆成两段假设；而三个分句一路铺到 `But I couldn’t`，用最短的否定句收尾。`couldn’t` 不是「不想」也不是「不能」，是身体层面的做不到——故事能讲，决定讲不出来。
 - **读者视角提示**：`for the third time that day` 让「重复」变成负担：同一个故事讲第三遍时已经不再是分享，而是抵押。
 
-> **原句 6:** "Somewhere there was a bird, unique in all the world, living and dying so that the universe could stay warm."
+> **原句 6:** "Somewhere there was a bird, unique in all the world, living and dying so that the universe could stay warm. … And somewhere else there was an emir—or a CEO, or a prime minister, or the undeserving heir to an obscene fortune—who already had everything, and hungered for more."
 
 - **中文理解**：在某个地方有一只鸟，世上仅此一只，它活着又死去，只为了让宇宙保持温暖。
 - **关键词**：Somewhere there was a bird / living and dying / so that the universe could stay warm

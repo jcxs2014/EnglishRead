@@ -46,6 +46,7 @@ modified: "2026-10-02"
 - **读者视角提示**：`the sourness of guilt` 把一种情绪直接写成一种味觉，这是本章最经济的一次翻译；前一句还在写食物，下一秒食物就消失了。
 
 > **原句 5:** "Worry me?” said Grace with a chilly laugh. “Why would you worry me? You just do whatever you want, all the time. No parents, nobody to make sure you go to bed on time, nobody telling you to do your homework, nobody telling you not to go walking into the ocean alone."
+
 - **中文理解**：「让我担心？」Grace 冷冷地笑了一声。「我为什么要担心？你从来都是想干什么就干什么。没人管你，没人提醒你按时睡觉，没人让你做作业，也没人拦住你不许一个人走进海里。」
 - **关键词**：Why would you worry me / You just do whatever you want / a chilly laugh
 - **为什么这样写**：反问句开篇把「我怕你担心」这个说法整个掀翻，后面用一句总结（`You just do whatever you want`）加四个 `nobody …` 的排比把话砸实。四个 `nobody` 全是同一种句式的重复，每加一条，缺失感就重一层；到 `nobody telling you not to go walking into the ocean alone` 时，排比正好落在「走进海里」这件她刚做过的事上。

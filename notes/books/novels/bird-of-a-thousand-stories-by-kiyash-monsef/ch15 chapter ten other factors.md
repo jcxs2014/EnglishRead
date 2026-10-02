@@ -20,14 +20,14 @@ modified: "2026-10-02"
 
 - **中文理解**：他看上去是独自来的，样子有点破旧。眼睛布满血丝，肩膀有点耷拉着。
 - **关键词**：appeared to be alone / a little ragged-looking / eyes were bloodshot
-- **为什么这样写**：这三句只写身体，不写意图，而且每一句都用一个减弱式：`a little`、`a bit`，仿佛叙述者在替他保留体面。可 `bloodshot` 和 `slumpy` 又是硬证据，把身体状态钉死。开场就出现这种「嘴上不刻薄、身体已说明一切」的落差，是全章的说话方式——「我」对 Karl 的每一个判断都建立在这类观察上。
+- **为什么这样写**：这两句只写身体，不写意图，而且每一句都用一个减弱式：`a little`、`a bit`，仿佛叙述者在替他保留体面。可 `bloodshot` 和 `slumpy` 又是硬证据，把身体状态钉死。开场就出现这种「嘴上不刻薄、身体已说明一切」的落差，是全章的说话方式——「我」对 Karl 的每一个判断都建立在这类观察上。
 - **读者视角提示**：`ragged-looking` 里的 `-looking` 表示「看上去」，判断权仍在看的人手里；读者跟着「我」一起怀疑，而不是被直接告知他确实可疑。
 
 > **原句 2:** "“Well,” he said. “Here we are again. I think this time the air is too poor for more running. And in any case, perhaps we are both too tired.”"
 
 - **中文理解**：「好吧，」他说，「我们又见面了。我想这回空气太差，不适合再跑了。而且无论如何，也许我们俩都太累了。」
 - **关键词**：Here we are again / the air is too poor for more running / perhaps we are both too tired
-- **为什么这样写**：重逢的第一句话里，他把「我」也算进去：`we are both too tired`。这样一句话就把对峙改写成互相体谅，也把「我」的疲惫变成两个人共享的疲惫。但两个 `perhaps` 又都在退让里藏了锋利——他并没有说不跑，只是说空气太差。
+- **为什么这样写**：重逢的第一句话里，他把「我」也算进去：`we are both too tired`。这样一句话就把对峙改写成互相体谅，也把「我」的疲惫变成两个人共享的疲惫。但那个 `perhaps` 又在退让里藏了锋利——他并没有说不跑，只是说空气太差。
 - **读者视角提示**：`too poor` 这个搭配把空气写成了有穷尽的资源：跑不动不是腿的问题，是环境不给了。这句话也为「我」后面把 Zorro 藏起来提供了情绪底色——连他都在替对方找台阶。
 
 > **原句 3:** "Karl nodded, disappointed but not surprised. For a minute he was quiet. At last he said, “We do not trust each other, do we?”"
@@ -35,7 +35,7 @@ modified: "2026-10-02"
 - **中文理解**：Karl 点了点头，失望，但并不惊讶。有一分钟他没说话。最后他说：「我们互不信任，对吧？」
 - **关键词**：disappointed but not surprised / For a minute he was quiet / We do not trust each other
 - **为什么这样写**：`disappointed but not surprised` 用一对转折把「我」的期待打掉：他早料到了，所以失望里没有意外。接着一个停顿句 `For a minute he was quiet`，再用一个 `At last` 把话放出来——整章他最锋利的一句，都是延迟之后说的。而结尾 `do we?` 是反问，不需要回答，等于替双方签字。
-- **读者视角提示**：注意「我」的立场在这里被反过来使用：他嘴上承认互不信任，同时也在提醒——你之所以能安全地坐在这里，正是因为有这张桌子、这盏灯和这杯茶。
+- **读者视角提示**：注意「我」的立场在这里被反过来使用：他嘴上承认互不信任，同时也在提醒——你之所以还能站在这里跟他谈，是因为这扇门还开着、你还没走。（茶与餐桌要到这一段之后才出现，此处尚未落座）
 
 > **原句 4:** "“And by ‘other factors’ you mean money,” I said. “Your family turned the most amazing secret in the world into a game where the only goal is to stay rich, and I don’t want to play anymore.”"
 
@@ -49,7 +49,7 @@ modified: "2026-10-02"
 - **中文理解**：「你还年轻，」他说，「你份内的事就是去做出一样前所未有的东西。我要告诉你的是，你现在犯的这个错误，以前已经有人犯过了。」
 - **关键词**：You are young / something that has never existed before / this mistake you are making has been made already
 - **为什么这样写**：对方先用 `You are young` 和 `It is your job` 把年龄与职责钉成两句话，再补一句 `I am here to tell you that`——注意 `I am here to tell you`，他把自己写成信使，身份高过争论本身。整个回应没有一句否认「游戏」的说法，只是用 `has been made already` 把「我」的独立性压缩成重复。
-- **读者视角提示**：三句话层层加码，从年龄到职责到结局，是谈判里标准的施压顺序；而「我」的抗议在此之前已经说完，此后本段只有对方的句子，沉默本身成了压力。
+- **读者视角提示**：三句话层层加码，从年龄到职责到结局，是谈判里标准的施压顺序；而「我」的抗议在此之前已经说完，之后只剩他一句接一句的陈述；直到「我」忍不住反问 `What are you talking about?`，沉默才被打破——打破它的仍然是「我」。
 
 > **原句 6:** "I sat down opposite him, clasped the mug in both hands, and inhaled cinnamon steam. Then Karl began to talk, and I inhaled that, too."
 

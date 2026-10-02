@@ -19,7 +19,7 @@ modified: "2026-10-02"
 
 > **原句 1:** "“Bramble hexes,” she said. “Hemlock, belladonna, and foxglove bound in hemp with a witch’s clove knot. An ancient ward against evil.”"
 
-- **中文理解**：「荆棘护身束，」她说。「用麻绳把铁杉、颠茄和毛地黄绑在一起，再打一个女巫的丁香结。古老的辟邪咒。」
+- **中文理解**：「荆棘护身束，」她说。「用麻绳把毒芹、颠茄和毛地黄绑在一起，再打一个女巫的丁香结。古老的辟邪咒。」
 - **关键词**：Bramble hexes / bound in hemp / An ancient ward against evil
 - **为什么这样写**：一句里塞进三样植物、一种绳、一种结法、一种用途，而句子骨架全靠 `bound in` 这一个动词串起来——先把东西聚拢，再交给结。这让读者先看见「捆扎」这个动作，再听见「辟邪」这个功能，危险因此被写在手上而不是写在旁白里。末尾 `An ancient ward against evil` 是完整判断句，前面那一串名词全靠它收口。
 - **读者视角提示**：三个植物名都是真的有毒草，护身的东西和伤人的东西同源——这个设定在本章后面 Malloryn 自己那句 `This is protection. Protection's a dark business.` 上立刻兑现。
@@ -29,7 +29,7 @@ modified: "2026-10-02"
 - **中文理解**：「东莨菪碱、洋地黄毒苷、毒芹碱，」她举起来，得意地宣布。「送给敌人的一束生物碱，一份谦卑的礼物——谵妄与肾衰竭。」
 - **关键词**：Scopolamine / A posy of alkaloids for our enemies / a humble gift of delirium and renal failure
 - **为什么这样写**：前半句是化学清单，后半句忽然变成送礼辞，两个 `a …` 结构并排，把最黑的用途放进最客气的句子里。`proclaimed proudly` 与 `humble` 是一对矛盾：一个抬高说话的人，一个压低礼物本身，于是毒性既被吹嘘又被贬低。标题词 `posy` 在这里落地成实物，读者由此知道这一章会讲什么。
-- **读者视角提示**：`holding it up` 这个动作把前一句的「她说了什么」拉回到「她手里有什么」，两句之间的引号切换也是说话人切换，同一段里完成两轮。
+- **读者视角提示**：`holding it up` 这个动作把前一句的「她说了什么」拉回到「她手里有什么」，两句之间插的只是同一个人的叙述标签，说话人始终没换——一气说完两件事。
 
 > **原句 3:** "Today it took my mind off knives and faeries and birds. It distracted me from regret and fear. And amid the mindless clicks and the little lies, I wondered what I and the people I cared about would be, without stories."
 

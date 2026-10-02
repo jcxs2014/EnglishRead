@@ -11,7 +11,7 @@ modified: "2026-10-02"
 - **一句话概括**：一缕头发的烟把人引到发光的海滩，海里爬上来一条没有眼睛的巨蛇；她把手按上去，一下子感觉到整颗地球和整片海洋，随即在地球仪上画出一条通往里约热内卢的线——代价是从此朋友不再愿意看着她做这件事。
 - **书内章号**：Chapter Thirteen。本件属书内编号线（A 线），标题以 `Chapter` 开头；全书正文由 26 个编号章与 14 段独立民间故事插叙交替构成，本件是其中一段编号章（对照文本 `ch20_chapter_thirteen_all_the_water_in_the_wo.txt`）。
 - **视角**：第一人称限知，叙述者是十六岁的 `Mar`。全章最受约束的一段就在这里：接触巨蛇之后，她能感知的范围大到压垮语言，只能靠 `I need a globe` 一句把过量经验压回一件工具上。
-- **情感弧线位置**：全线的最低点与最高点压在同一章里。夜里独自走进海里是最低点（`I felt small and toxic, a poisonous snail on the bottom of the sea.`），摸到鳞片那一刻是最高点，而回家的路上两者同时被抵消。
+- **情感弧线位置**：全线的最低点与最高点压在同一章里。在 Grace 车里那个「我小得像毒蜗牛」的自我比喻是最低点（`I felt small and toxic, a poisonous snail on the bottom of the sea.`），摸到鳞片那一刻是最高点，而回家的路上两者同时被抵消。
 - **人物弧线**：从「一个人扛下所有事」到「发现自己正在让身边人付出代价」。她给出的理由句（`there’s no one else who can`）在语法上无懈可击，正因如此对方的拒绝才显得像背叛——这一章不改她的做法，只让她看见别人眼里的自己。
 - **叙事手法**：开头用没有标点的短信当对白，把书面语体削到最薄；中段用一次身体接触（摸鳞片）装下整个地球的知觉，再用地球仪和马克笔把知觉转成可执行的路线；结尾回到车里的沉默，让外部动作（过桥、换挡）承担情绪。
 
@@ -52,7 +52,8 @@ modified: "2026-10-02"
 - **为什么这样写**：第一句的宾语只挂了一个名词，第二句把它扩成两件物品加一个时间状语；`a globe` 在两句里原样重复，像人在慌乱时反复确认同一件事。`announced` 这个词把一句请求写成宣告，说明她此刻已经不是在商量，而是在告诉自己必须怎么做。`before I forget` 是全句的压力所在。
 - **读者视角提示**：读者刚读完一大段几乎无法阅读的知觉描写（`the rumble of distant volcanoes and the murmur of tectonic plates`），这里忽然掉回两件日用品；这个落差正是本章的写作方法——把无穷大的东西压在最小的物件上才能保存。
 
-> **原句 6:** "You didn’t have to look,” I said. “I didn’t tell you to watch. I had to go out there. I had to see what it wanted. That’s my job, and sometimes it’s scary, but I have to do it because there’s no one else who can."
+> **原句 6:** "“You didn’t have to look,” I said. “I didn’t tell you to watch. I had to go out there. I had to see what it wanted. That’s my job, and sometimes it’s scary, but I have to do it because there’s no one else who can. … So I’m sorry I scared you, but I’m not sorry I went out into the water, and I’d do it again right now if I had to, even if you were watching.”"
+
 - **中文理解**：「你不必看，」我说。「我没有叫你盯着我。我必须出去。我必须去看清它想要什么。这是我的工作，有时候很吓人，但我非做不可，因为没有别人能做了。」
 - **关键词**：I didn’t tell you to watch / I had to see what it wanted / there’s no one else who can
 - **为什么这样写**：这是全章最长的一次辩解，结构却极干净：前两句推责（`You didn’t have to look` / `I didn’t tell you to watch`），中间两句用同一个 `I had to` 排比，最后一句用 `because` 把理由收到最小。`That’s my job` 一句把个人选择升成职业义务——正是这份升格让后面那句否认伤人的话有了重量。
