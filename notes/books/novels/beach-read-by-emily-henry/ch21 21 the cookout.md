@@ -68,46 +68,46 @@ source_text: "text/ch21 21 the cookout.txt"
 > **原句 8:** “Hey, do you know what kind of stone this path is made of?”
 
 **中文理解：**「嘿，你知道这条小路是什么石头铺的吗？」（此处为她在派对上凑近他时的耳语，与前述同一梗。）
-**关键词：**（与前一条同源）
-**为什么这样写：**本条为**写作期自查记录**：这条问句在 ch21 出现一次（原文第 312 行 `“Hey, do you know what kind of stone this path is made of?” I whispered back.`），是全章后半喜剧线索的**启动句**。它放在「Blue punch 花园」段落里，是她**试探他情绪**的手段（她先说了石头，再问 `Is everything okay?`）。
-**读者视角提示：**不作为独立引语块计。
+**关键词：**what kind of stone / I whispered back / the one thing I can never forgive you
+**为什么这样写：**这是**明知故问的转移话题**——她刚接住他那句 `“World-infamous,” he whispered.`，用一个关于石头的问题把话头带走。`I whispered back`（我低声回他）里的 **whisper** 是这一段的题眼：派对上人多，两人只能压低声音说话，于是**对话的音量本身成了他们的关系的刻度**。他回的那句 `asking that question is the one thing I can never forgive you for`（问那个问题是我唯一永远不会原谅你的事）用**玩笑的语气承认一条禁令的存在**，而 `I can never forgive you`（我永远不能原谅你）在这本书的语境里同时指向书社的题材规矩与他的嫉妒。
+**读者视角提示：**这段停在派对中段的小径上——`a nook formed by lush foliage, out of view of both the beanbag toss and the deck`（一处绿荫围成的小窝，豆包沙包架和平台甲板都看不见）。**位置本身就是这段对话的性质**：离开人群视线之后，玩笑才敢往下走一层。**）**
 
-**原句 10:** He didn’t look like a different person. He looked more at ease, more sure, like all this time I’d only ever come face-to-face with his shadow.
+> **原句 9:** He didn’t look like a different person. He looked more at ease, more sure, like all this time I’d only ever come face-to-face with his shadow.
 
 **中文理解：**他看起来不像换了一个人。他看起来更放松、更笃定，就好像一直以来我只见到过他的影子，如今才第一次和他本人面对面。
 **关键词：**more at ease, more sure / face-to-face with his shadow
 **为什么这样写：****两个否定与两个肯定的对照**：`He didn’t look like a different person`（他不像换了一个人）与 `He looked more at ease, more sure`（他看起来更放松、更笃定）——作者先否定了「他变了」这个**最容易被期待的结论**，再给出真正的变化：**他一直是这样，只是她以前没看过**。`face-to-face with his shadow`（面对面撞上他的影子）用**影子**这个他处可见的形象，定义她过去几个月所见的那个版本。
 **读者视角提示：**这个判断出现在派对**中段**（她与 Maggie 聊完石头之后），与本卷另一处的「before he puts on his face」（他把脸戴上之前）属于同一观察轴：**她两次看见没上妆的 Gus，两次的判断都是他更真。**
 
-> **原句 9:** “Are you kidding?” he’d said. “You can’t possibly imagine how much cheek-pinching you’re saving me from by coming. I’m not going to be alone with that crowd for more than thirty seconds.”
+> **原句 10:** “Are you kidding?” he’d said. “You can’t possibly imagine how much cheek-pinching you’re saving me from by coming. I’m not going to be alone with that crowd for more than thirty seconds.”
 
 **中文理解：**「你真想象不到，你来了能替我省下多少捏脸。」
 **关键词：**cheek-pinching / saving me from / by coming
 **为什么这样写：**`cheek-pinching`（捏脸）把长辈的亲昵动作**军事化**——`saving me from`（替我躲过）里 `saving`（拯救）把它写成**危险区**，而 `by coming`（因为你来了）把她的出席定义成**一次战术行动**。`You can’t possibly imagine`（你无法想象）是一个**故意的双重限制**（既说「你不知道」，又说「你不该知道」）。
 **读者视角提示：**`cheek-pinching` 后面她立刻跟上 `four hundred years old`（四百岁了）的回击——**两人在长辈这个话题上是完全对等的**，这一点在 ch19 的湖滩对话里她还没有做到。
 
-> **原句 10:** “Gus,” I said. “Is everything okay?”
+> **原句 11:** “Gus,” I said. “Is everything okay?”
 
 **中文理解：**「Gus，」我说。「都还好吗？」
 **关键词：**Is everything okay / 两个词的问句
 **为什么这样写：****全书最短的一次关切**——一个三词问句，被她包在两个名字里（`Gus,` 与 `I said.`）才送出去。这不是寒暄，而是**一次读表**：她在一整场热闹里找不到一个能单独问他的时刻，只好借草丛的掩护低声问。`Is everything okay?`（都还好吗？）问的是状态，而她真正想问的是**他为什么不肯说**。
 **读者视角提示：**他的回答是 `Yeah, it’s nothing.`（没事。）以及随后那句 `No. There’s no ‘it’ except the blue punch, and there will be a lot of that.`（不，除了那杯蓝色鸡尾酒没什么事，而那东西会很多。）——**用玩笑把话题封死**，这是他在本章的说话方式；她那句追问（`But there is an ‘it,’`）也在这里。
 
-> **原句 11:** My stupid fatal flaw had struck again.
+> **原句 12:** My stupid fatal flaw had struck again.
 
 **中文理解：**我那愚蠢的致命缺陷又发作了一次。
 **关键词：**My stupid fatal flaw / had struck again
 **为什么这样写：**`struck`（击中、发作）把缺陷写成**一个可以袭击人的东西**，而 `again`（又）把它变成**复发性的病**。注意 `stupid`（愚蠢）这个词的位置：她没有说 `my fatal flaw`（我那个致命缺陷），而是加了 `stupid`——**这既是自嘲也是辩解**。
 **读者视角提示：**这一句是本章**从受伤转向反叛**的枢纽：接下来两段她从「他不要我」推到「我本来就不要他要我」，这中间的距离就是 fatal flaw 从**绊住她**变成**拖住她**的转变。
 
-> **原句 12:** I knew I was not the Magical One who could fix it all just by Being Me.
+> **原句 13:** I knew I was not the Magical One who could fix it all just by Being Me.
 
 **中文理解：**我知道自己不是那个只要「做我自己」就能把一切修好的神奇的人。
 **关键词：**the Magical One / fix it all / just by Being Me
 **为什么这样写：****首字母缩略**（Magical One → M.O.，与 `Being Me` → B.M. 呼应）是本卷对「成长」这个词组的**拼音化处理**。`just by Being Me`（只要做我自己）把她一直以来的自我标识——「做自己就够了」——**当成一个笑话**讲出来。`I knew`（我知道）用的是过去时，说明**这个认识是刚刚完成的**。
 **读者视角提示：**这一段的关键词是 `chisel`（凿子）：`it would take years to chisel through them`（要凿很多年才能凿穿那层墙）。**作者把「打破他的墙」写成了石工活**，而她现在承认自己不是凿工。
 
-> **原句 13:** it was Gus I wanted. Only Gus. Exactly Gus.
+> **原句 14:** it was Gus I wanted. Only Gus. Exactly Gus.
 
 **中文理解：**是 Gus。只有 Gus。就是 Gus。
 **关键词：**it was Gus I wanted / Only Gus / Exactly Gus

@@ -86,40 +86,42 @@ source_text: "text/ch18 18 the ex.txt"
 **为什么这样写：****一连串的弱化副词**（`sort of`）把这句话从判决降级为**勉强及格**。`gleaming`（闪耀）沿用电影词汇，`worked okay together`（一起合作还行）则把**关系写成项目**——这一句实际上是她对全部言情写作范式的一次内部否定。
 **读者视角提示：**这段里 `I was a leading man` 是她的**外部评价**，`worked okay together` 是她的**内部感受**，两者之间就是她与 Jacques 六年关系的全部距离。
 
+> **原句 11:** But whenever I watched Jacques sleep, I felt nothing.
+
 **中文理解：**但每当我看着 Jacques 睡着，我什么都感觉不到。
 **关键词：**whenever I watched Jacques sleep / I felt nothing
 **为什么这样写：**这句话是**对照结构的答案**。她在它之前先问了一个问题（`You know that feeling, when you’re watching someone sleep and you feel overwhelmed with joy that they exist?`——你知道那种感觉吗，看着一个人睡觉，心里被「他存在」这件事的喜悦淹没），答案句用**同一个画面**作答：`whenever`（每当）把单次事件变成规律，`nothing`（什么感觉都没有）与问题里的 `overwhelmed with joy`（被喜悦淹没）构成**完全的反义对应**。
 **读者视角提示：**Gus 的回应只有一句：`It didn’t overwhelm you to watch him sleep.`（看着喜欢的人睡，你没有被淹没。）他没有安慰她，而是**给了她一个诊断**——注意他说的是 `didn’t`（没有），用的是过去式，把这件事写成了**已完成的判定**。
 
-> **原句 11:** I realized I’d never thought, Jacques is so perfectly my favorite person.
+> **原句 12:** I realized I’d never thought, Jacques is so perfectly my favorite person.
 
 **中文理解：**我意识到自己从来没想过「Jacques 正是我最喜欢的那个人」。
 **关键词：**I realized / Jacques is so perfectly my favorite person
 **为什么这样写：****引号内的完成时否定**——`I’d never thought`（我从未想过）后面接一个她**本该早就说出口却从没对自己说过**的句子。这句话是 ch01 那句「我的完美故事」在私人层面的对应物：**她给 Jacques 写过 happy ending，却没给自己写过一句「他是我最喜欢的人」**。
 **读者视角提示：**`so perfectly`（这么完美地）这个副词值得注意：她否定掉的不是「我喜欢他」，是**「完美地」这个修饰语**。
 
-> **原句 12:** I wanted to give him something secret, like what he’d given me when he talked about Naomi.
+> **原句 13:** I wanted to give him something secret, like what he’d given me when he talked about Naomi.
 
 **中文理解：**我想给他一样秘密的东西，就像他刚才谈起 Naomi 时给我的那样。
 **关键词：**something secret / like what he’d given me
 **为什么这样写：****交换的语法**：`something secret`（一样秘密的东西）与 `what he’d given me`（他给我的东西）构成**镜像对仗**——他用一条真话换她一条真话，这个**对等交换**是本章的机制本身。`like`（像）把她的行动挂在刚发生的那一幕上，让读者看见**模仿的即时性**。
 **读者视角提示：**紧接着她给出的「秘密」是生日那天在 New Orleans 的一夜，而内容是**她如何想逃离**（`I was texting Shadi about how badly I wished we could be together`）——她交出的第一条真话，是关于**另一个女人的**。
 
-> **原句 13:** I wanted to tell him another true story, instead of a beautiful lie.
+> **原句 14:** I wanted to tell him another true story, instead of a beautiful lie.
 
 **中文理解：**我想告诉他另一个真实的故事，而不是一个漂亮的谎言。
 **关键词：**another true story / instead of a beautiful lie
 **为什么这样写：****`true` 与 `beautiful`、`story` 与 `lie` 的两两对位**把她的整个职业矛盾压缩成一句：她分得出「真」与「美」，并且此处明确选了前者。这与 ch01 的契约（`the ugly truth or nothing`）同源，但**这一次是她主动拿它当交易筹码**。
 **读者视角提示：**`another`（又一个）意味着这不是她头一回这么做——她正在把「说真话」变成一种**新的写作伦理**，而不是一次性的情绪冲动。
 
-> **原句 14:** The doorbell rang and all the motion, the momentum, crashed into a wall of reality.
+> **原句 15:** The doorbell rang and all the motion, the momentum, crashed into a wall of reality.
 
 **中文理解：**门铃响了，于是所有的动作、所有的势头，一起撞上了一堵现实的墙。
 **关键词：**The doorbell rang / all the motion, the momentum / crashed into a wall of reality
 **为什么这样写：****三项 `all the …` 的排比**（`all the motion`／`the momentum`，中英夹杂地把「动作」与「势头」并置）之后，`crashed into a wall of reality`（撞上现实的墙）把**外部事件写成物理冲击**。`a wall`（一堵墙）与 `reality`（现实）之间用 `of` 连接，让现实**具备建筑属性**。
 **读者视角提示：**这是本章结构的支点：外部打断把她从**身体时间**推回**社会时间**（有客人、有外卖、有一整套要穿的衣服）。
 
-> **原句 15:** “Sorry.”
+> **原句 16:** “Sorry.”
 
 **中文理解：**「抱歉。」
 **关键词：**Sorry / 单音节收尾
