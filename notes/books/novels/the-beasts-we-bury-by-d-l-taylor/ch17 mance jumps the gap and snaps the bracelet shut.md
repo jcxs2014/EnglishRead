@@ -79,7 +79,7 @@ modified: "2026-10-02"
 
 ### ⭐⭐⭐ 高级
 
-| 词/短语 | 释义 | 原文例句 |
+| 词/短语 | 释义 | 例句 |
 |------|------|------|
 | Obligingly | 不请自来地；主动地（此处带着反讽） | Obligingly, my brain fills me in with helpful reminders of my own brazen comments from the night before. |
 | brazen | 放肆的；不知廉耻的 | Obligingly, my brain fills me in with helpful reminders of my own brazen comments from the night before. |
@@ -100,7 +100,7 @@ modified: "2026-10-02"
 
 ### ⭐⭐ 进阶
 
-| 词/短语 | 释义 | 原文例句 |
+| 词/短语 | 释义 | 例句 |
 |------|------|------|
 | mockingly | 嘲弄地；带着讥笑地 | They float through my mind like toy boats on a lake, bobbing mockingly along the edge of my consciousness. |
 | rustling | 窸窣的响动 | There’s some blanket rustling, and I think he’s just propped himself up on one elbow. |
@@ -115,7 +115,7 @@ modified: "2026-10-02"
 
 ### ⭐ 基础
 
-| 词/短语 | 释义 | 原文例句 |
+| 词/短语 | 释义 | 例句 |
 |------|------|------|
 | cocoon | 茧；蜷成一团的地方 | I expect him to shoot back some sly remark, or perhaps whip the blankets off me to prove I’m lying, but he just gets out of the bed, inviting a rush of crisp morning air into our formerly cozy cocoon. |
 | branch | 树枝 | Even so, I stubbornly keep pushing until I’m on the edge of a branch that hangs at eye level with the crow’s nest, giving Silver a triumphant smile. |

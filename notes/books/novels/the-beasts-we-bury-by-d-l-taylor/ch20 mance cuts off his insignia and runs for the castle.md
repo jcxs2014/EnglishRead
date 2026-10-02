@@ -97,7 +97,6 @@ modified: "2026-10-02"
 | Outskirts | 城郊；贫民区（书内专名） | She’s running through the Outskirts barefoot, completely ignoring the bloody footprints she leaves behind as her feet get cut apart. |
 | barefoot | 光着脚 | She’s running through the Outskirts barefoot, completely ignoring the bloody footprints she leaves behind as her feet get cut apart. |
 | ferocity | 凶悍 | The ferocity. |
-| cowardly | 怯懦的（叙述用） | And then when I did care, I was too cowardly to come clean about it, thinking that I could fix things before she found out the truth. |
 | managing | 摆平；处理 | I realize now I was trying to force her forgiveness by managing the situation myself until she no longer had a reason to be upset. |
 | deserving | 配得上 | Who told me I was deserving of her thanks. |
 | snatches | 一把夺走 | But then her expression shutters and she snatches the boots out of my hands. |
@@ -115,14 +114,13 @@ modified: "2026-10-02"
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
 | actions | 行动 | I told you once that I judge a person by their actions. |
-| bag | 包 | SILVER |2 DAYS UNTIL THE ASSURANCE| “Get the bag,” I tell the others. |
 | body | 身体 | Careful where I place my hands and my body, I turn over, trying to figure out what happened. |
 | elbow | 手肘 | She turns away and I grab her elbow. |
 | head | 头 | She shakes her head, disgusted, like this is just one more way that I’ve let her down. |
 | heart | 心 | Her voice cracks on that word, and I feel like my heart cracks with it. |
 | footprints | 脚印 | She’s running through the Outskirts barefoot, completely ignoring the bloody footprints she leaves behind as her feet get cut apart. |
 | glass | 玻璃 | I expect her to plunge the glass into my chest—and I don’t even try to stop her—but instead she slides it into my shirt and slices outward, ripping off the realm insignia that gives me admittance to the castle. |
-| shard | 碎片 | “You are not welcome in my home anymore,” she says flatly, letting the shard fall from her hand. |
+| shard | 碎片；尖玻璃块 | “You are not welcome in my home anymore,” she says flatly, letting the shard fall from her hand. |
 | fire | 火 | The way the fire moves is unnatural, like it’s halfway between liquid and smoke. |
 | insignia | 徽记；纹章 | I expect her to plunge the glass into my chest—and I don’t even try to stop her—but instead she slides it into my shirt and slices outward, ripping off the realm insignia that gives me admittance to the castle. |
 
