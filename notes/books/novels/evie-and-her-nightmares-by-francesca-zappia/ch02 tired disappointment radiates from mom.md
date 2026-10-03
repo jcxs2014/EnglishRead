@@ -28,7 +28,7 @@ modified: "2026-10-03"
 
 **中文理解：** 一枚带锯齿的矛尖射过前座的另一边。我希望自己没有对母亲每一点情绪的变动、她那些细微的身体语言如此敏锐。我能判断自己戳得有多深。
 
-**关键词：** A serrated spear point launched across the front seat · so attuned to every shift in emotion · how deeply I struck
+**关键词：** A serrated spear point launched across the front seat · so attuned to Mom’s every shift in emotion · how deeply I struck
 
 **为什么这样写：** 作者用一帧慢镜头处理"话一出口就后悔"：句子被转译成一枚**锯齿矛尖**——它不是普通的刺，锯齿意味着这一击的边缘会持续划伤对方，**伤害是延迟的、会拉长的**。后半两句才是真话：她不介意自己说了什么，她介意的是自己**躲不开**母亲的每一次情绪位移，于是她连"我戳得多深"都能当场读出来。整段的机制是：**她对母亲的解读能力越精确，她越无法假装那句话只是一句逻辑判断**。
 
