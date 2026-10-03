@@ -63,10 +63,11 @@
       "aliases": [
         "Mavis-Mac",
         "MinMax-Mac",
-        "MCode-Mac"
+        "MCode-Mac",
+        "Mcode-Mac"
       ],
       "inferred_aliases": {},
-      "_note": "2026-10-03 **用户指定：本实例另有一个身份写法 MCode-Mac**，与 MiniMax-Mac 同指一个 agent（用哪个署名由实例自己选，归属归一到 canonical）。同日**用户纠正：规范名是 MiniMax-Mac，此前登记的 MinMax-Mac 少了一个 i**——2026-09-28 那次「Mavis-Mac 改名」当时就写错了（canonical 落成 MinMax-Mac），板上 15 条条目因此署了错名，已按用户决定全量改回（23 处）。错拼 MinMax-Mac 保留为 alias，使那 15 条历史条目仍能归一：`mine --me MiniMax-Mac` 应能查到全部。抬头是否追溯改写的判例见 docs/协作板更新指令.md 的 ZCode-Mac 一节（错拼登记为 alias、抬头默认「身份不动」，但用户点名要改时连历史一起改）。Mavis-Mac 是更早的旧名，同样保留。"
+      "_note": "2026-10-03 **用户指定：本实例另有一个身份写法 Mcode-Mac**，与 MiniMax-Mac 同指一个 agent（用哪个署名由实例自己选，归属归一到 canonical）。⚠️ 登记表里**同时保留 `MCode-Mac` 与 `Mcode-Mac` 两个写法**——2026-10-03 我先把用户写的 `Mcode-Mac` 记成了 `MCode-Mac`（大写 C），用户随后以小写 c 复述才纠正；`post_collab.py` 的 `resolve()` 用 `me.strip().lower()` 查表，**大小写本来不区分**、两者都能命中，留着只为「表里出现过的写法一个都不丢」，避免日后有人按其中一种查不到。同日**用户纠正：规范名是 MiniMax-Mac，此前登记的 MinMax-Mac 少了一个 i**——2026-09-28 那次「Mavis-Mac 改名」当时就写错了（canonical 落成 MinMax-Mac），板上 15 条条目因此署了错名，已按用户决定全量改回（23 处）。错拼 MinMax-Mac 保留为 alias，使那 15 条历史条目仍能归一。抬头是否追溯改写的判例见 docs/协作板更新指令.md 的 ZCode-Mac 一节（错拼登记为 alias、抬头默认「身份不动」，但用户点名要改时连历史一起改）。Mavis-Mac 是更早的旧名，同样保留。"
     },
     {
       "canonical": "Workbuddy-Mac",
