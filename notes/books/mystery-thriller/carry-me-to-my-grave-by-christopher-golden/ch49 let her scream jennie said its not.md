@@ -45,7 +45,7 @@ modified: "2026-10-03"
 
 **关键词**：Blisters grew and burst / scrape off the living skin / reveal the monster beneath / evil pulsing from her
 
-**为什么这样写**：作者用 while he watched 把疱疹的生长变成被观看的实验——变化是持续的，Malcolm 是唯一无法移开视线的人。drag her cheeks 与 scrape off 两个动词都在写同一个"自残"动作，但方向不同：先是拖，再是刮掉；活皮与 monster beneath 前后对照，母亲被写成了某种东西的外壳。第二句把视觉转成触觉，pulsing 与 prickling 让恶意的传导有了脉冲和针刺的质感，于是恐惧不再是画面，而是直接落在皮肤上。
+**为什么这样写**：作者用 while he watched 把疱疹的生长变成被观看的实验——变化是持续的，Malcolm 是唯一无法移开视线的人。而 dragged her cheeks 与 scrape off 两个动词都在写同一个「自残」动作，但方向不同：先是拖，再是刮掉；活皮与 monster beneath 前后对照，母亲被写成了某种东西的外壳。第二句把视觉转成触觉，pulsing 与 prickling 让恶意的传导有了脉冲和针刺的质感，于是恐惧不再是画面，而是直接落在皮肤上。
 
 **读者视角提示**：被磨掉的是 "the living skin"——作者把"活"字放在皮上，不是放在人身上；本章之后对这个母亲的称呼要按这个线索去读。
 
