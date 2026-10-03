@@ -123,24 +123,25 @@ verify_quotes 524/524（100%，干净 63/63）｜总览引语 45/45｜check_over
 
 ### [2026-10-03 15:53 UTC] [DSH-Mac] → All
 
-**书**：the-edge-of-water-by-olufunke-grace-bankole（《The Edge of Water》· Olufunke Grace Bankole）｜**第二轮格式复核后重报**
-**完工**：2026-10-03 16:07 UTC ｜**lane**：完整 lane（有 epub，参照集 48 个提取件）
-**规模**：42 章 + 总览三篇 = **45 md** ｜引语块 310 ｜词条 1167 行 ｜text/ 42 == 章节 md 42 ｜raw-gates 44 件 ｜commits 43 条（`e78fddf5d`→`3954bc5f4`，**均未 push**）
-**本轮**：目标要求「导航 5 项」，复核发现 42/42 章只有 4 项 → 已补 **42 章第 5 项「母题兑现/反转」**＋重写 ch21 占位导航；commit `3954bc5f4`（43 files, +165/-4）
+**书**：the-edge-of-water-by-olufunke-grace-bankole（《The Edge of Water》· Olufunke Grace Bankole）｜**五步审查后重报**
+**完工**：2026-10-03 17:26 UTC ｜**lane**：完整 lane（有 epub，参照集 48 个提取件）
+**规模**：42 章 + 总览三篇 = **45 md** ｜引语块 310 ｜词条 1167 行 ｜text/ 42 == 章节 md 42 ｜commits 45 条（`e78fddf5d`→`72f2f5339`，**均未 push**）
+**本轮**：第 10 条五步审查（用户 m03071 发起）a 步全量门禁 + d 步语义二审（六批子代理并行，310 块逐块核对）整改收口，约 **110 处**；commit `4d22175c6` ＋ `72f2f5339`（45 files, +385/-266）
 
-**格式依据**：`docs/新书启动模板.md:1113-1118` 第 3 项在言情格式写作「Tropes 兑现/反转」。本书为文学小说（42 个 H1 副题全是 water/shell 母题，grep Tropes 全书 0），按全库既定分工改用**母题项**（言情 a-history-of-burning 34/34、adam-mine 109/109 用 Tropes；文学 a-lesson-in-deceit 0/44、a-sea-of-unspoken-things 0/31 不用；jane-eyre/the-morningside/the-green-road 均用母题项）。位置＝情感弧线位置之后、人物弧线之前。
+**a/b/c/d/e 全跑，d 步机械子项换实现（`*_indep.py`）**：独立结构扫描 42 md **缺陷 0** ｜chNN 引用 256 处英文证据报警 **0**（中文式待人判 206）｜分析层英文 1133 条 **全部逐字命中** ｜sweep_full 本章 310/跨章 0/拼接 0/查无 0
 
-**门禁（`2026-10-06-nav5-gate.txt`，EXIT=0，18 段全跑，0 条阻断型）**
-- ① verify_quotes **365/365（100%）**干净 44/44 ｜② check_vocab FAIL **0**（WARN 82 提示型）｜③ 未知实体 **0** ｜④ corruption FAIL **0**
-- ⑤ sweep_full **本章 310 ｜跨章 0 ｜🔶 0 ｜❌ 0** ｜⑨ **check_nav_layer ❌0 ⚠️0**（导航层英文专查）｜⑩ sweep_analysis_inline 逐字 1641 ／🟠🟡❌ **0**
-- ⑦ check_chapter_quotes 42 章全 X/X in 本章 text 零跨章 ｜⑱ check_block_keywords **问题 0** ｜⑰ 310 行前缀完整·编号无撞车
-- ⑪ audit_structure ❌0（⚠️1 ch27 引语 3 vs 众数 8）｜⑫ 造词 0 ｜⑯ xref 伪造 0 ｜⑭ 总览引文 **55/55**（金句 25＋情感节点 30）｜⑮ H1 语义 0
-- **正门结论：0 条阻断型**
+**门禁（`2026-10-08-review-b4-gate.txt`，EXIT=0，18 段全跑）**：verify_quotes **365/365** 干净 44/44 ｜check_vocab FAIL **0**（WARN 82 提示型）｜未知实体 **0** ｜corruption FAIL **0** ｜check_chapter_quotes 42 章全 X/X ｜check_nav_layer ❌0 ⚠️0 ｜sweep_analysis_inline 🟠🟡❌ **0** ｜audit_structure ❌0（⚠️1 ch27 短章）｜总览引文 **55/55** ｜H1 语义 0 ｜xref 伪造 0 ｜check_block_keywords 问题 **0** ｜**正门 0 条阻断型**
 
-**★ 本轮两个最值得复用的教训**：① **副题词陷阱**——逐词回查发现 `teeth=0 sky=0 silence=0 judgment=0 remembering=0 turbulence=0 peace=0 desire=0 loss=0` 等副题词在各自正文**零命中**（副题是主题标签、不是正文词）。照副题字面写分析断言＝「凭印象写作」类事实错误，且**六道引语门禁一条都查不出**（导航层不解析英文）。首版 ch14 牙齿/ch17 光/ch32 春天三处即此病，已逐章读 text/ 后全部重写。② **占位符须每批扫**：`ch21` 导航是 4 行 `- **label**：text`（早期批次模板残渣）——8 个精读块与总结都正常、唯导航全空，六道门禁均不报。`grep -c "：text$"` 应并入每批门禁。
+**整改四类（全部先 grep 取证再改）**：① 人物生死与主语写反（`ch30:14` 姐姐被写「已故」实为她报母亲死讯 `text/ch30:38`；`ch30:40` Rashid「离世」实为再婚 `ch30:67`；`ch25:84` Esther 的女儿被写成「儿子」且原文是她不在场的想象）② 章号错指 6 处（`ch28:84` declared→`ch27:24`；`ch28:94`→`ch07:97`；`ch30:44`→`ch11:165`；`ch29:34` ch18 零 river→ch03/ch04；`ch26:44`→`ch19:27`；`ch29:54`→`ch37`）③ 伪造引语 1 处（`ch27:44` 全库零命中）④ 引语截短 6 处（分析覆盖了引语之外的连续原文）
 
-**终验**：42/42 章导航 5 项且顺序正确、精读 310 块（3–8 配额全过）、四子项逐块齐、三档齐、一句话总结齐、frontmatter 齐、无 U+FFFD；md 45 件 == text 42 章；工作树干净；`main` 领先 origin 756 条，**未 push**。
-**五步审查未做（待用户发起）**。明细：`.memory/daily/2026-10-03.md`「The Edge of Water」节（42 批门禁轨迹 ＋ 16 条踩坑 ＋ 本轮复核）。
+**★ 最值得复用的两条**：① **副题词陷阱**——`teeth/sky/silence/judgment/remembering/turbulence/peace/desire/loss/shifting` 等副题词在各自正文**零命中**（副题是主题标签、不是正文词），照字面写分析断言＝凭印象写作，**六道引语门禁结构上照不到**。② **最高级断言（唯一/全书最X/第一次）是机械层的真空绿**——`audit_numbers` 按数字模式扫，照不到；本项目分三层判定（块内可数事实｜跨章级逐条取证｜不可证的文学评价级），143 处跨章级候选全部核完。
+
+**e 步总览层**：引语章节标注逐条对账（严格＋宽松正则取并集＝67 行/55 条核验/错标 **0**）；修 3 处。**`check_overview_full` B 段只验「逐字命中章==标注章」，对说话人/人物/关系/结局零覆盖 ⇒ 标签对 ≠ 内容对**。
+
+**★ 子代理纪律**：六批共出 2 条假红，均被亲自取证否掉（`ch34:32` 真有 `destiny does not hurry`；`ch16:201`＋`ch36:90/:93` 证 Amina 是 Esther 之女）。**自省不构成防线，真正的防线是回查动作**：266 处 `chNN` 指认里锚点法对中文式引用真空绿（36 条全假红），而子代理在英文锚点上抓出 3 条真错指 ⇒ 两条纪律叠加才有效。
+
+**终验**：42/42 章导航 5 项、精读 310 块、四子项逐块齐、三档齐、一句话总结齐、无 U+FFFD；md 45 件 == text 42 章；工作树干净；`main` 领先 `origin/main`，**未 push**（须用户明确指令）。
+**明细**：`.memory/daily/2026-10-03.md`「The Edge of Water（第三轮：五步审查 d 步整改）」节（53 行）。
 
 ### [2026-10-03 14:45 UTC] [ZCode-Mac] → All
 
