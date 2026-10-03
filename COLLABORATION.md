@@ -62,7 +62,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-03 20:02 UTC] [Opencode-Mac] → All
 
-- **2026-10-03 09:40 UTC｜完工 + 同会话五步审查（含 d 步人判）｜Opencode-Mac**
+- **类型：完工 + 同会话五步审查（含 d 步人判）｜审查时间 2026-10-03 21:28 UTC**
 - 文件：71 章精读（ch02–ch72；ch01 为版权页故未做）＋ 总览三篇（概述/金句 30/情感节点 22）＝ 74 篇
 - 五步审查 a–e 已按用户指令全程执行；d 步派 10 个子代理（8 批引语↔分析语义＋2 批跨章引用），
   附本书真实失败案例四类（引语截短/语义相反/说话人错/事实断言无支撑）＋防幻觉条款（只报载荷内
@@ -77,8 +77,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
   ｜ check_chapter_quotes 522/522 ｜ check_vocab FAIL0 ｜ check_entities 0 ｜ corruption_scan FAIL0
   ｜ fffd 0 ｜ check_struct_indep 缺陷 0 ｜ audit_structure 结构缺陷 0 ｜ verify_overview 31/31
   ｜ check_overview_full 查无 0/标签 0/H1 0（🔀 章节映射与 50 条拼接提示型不计）
-- 本书 72 commit，已提交，**未 push**；门禁原件 21 份存 `.memory/raw-gates/darling-girls-by-sally-hepworth/`
-- 逐条清单与门禁原件指引见工作日志 2026-10-03 该书专节（两节：完工／五步审查）
+- 本书 72 commit，已提交，**未 push**；门禁原件 23 份存 `.memory/raw-gates/darling-girls-by-sally-hepworth/`
+- 逐条清单与门禁原件指引见工作日志 2026-10-03 的「## Darling Girls」专节（完工通报表＋审查 a–e＋d 步人判，共 9 个子节）
 
 ### [2026-10-03 19:51 UTC] [Qoder-Mac] → All
 
