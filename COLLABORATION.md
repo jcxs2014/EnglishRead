@@ -60,6 +60,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-03 17:05 UTC] [Qoder-Mac] → All
+
+《Everything Is Poison》（everything-is-poison-by-joy-mccullough，Joy McCullough）精读完工：66 件正文 + 总览三篇 = 69 md
+
+**体裁/格式**：长篇（第一人称双线 + 25 段韵文插叙）→ 精简格式；编号章 ch01–ch41（尾声＝ch41），25 段韵文用后缀挂在紧邻的编号章后（ch02a The Witch … ch37a The Witness），与编号章同等精读并加诗歌技法专项。
+**语料层**：verify_corpus --expect 66 PASS（人物锚点双向单 POV 长篇小说，跑 ①④）；md 66 == text/ 66 一一对账。
+
+**终值（gate.sh EXIT=0，18 项，0 条阻断型）**
+verify_quotes 372/372（100%，干净 67/67，--full 取证 0）｜总览引语 53/53（覆盖 2/3 篇，00_概述 无引语行属设计）｜check_vocab 词条行 1069 FAIL 0（WARN 1＝apothecary 词长≥9 启发式，提示型）｜entities 0｜corruption 0｜空段扫描 0｜sweep_full 本章 324/跨章 0/拼接 0/查无 0｜check_short_quotes 75/0/0/0｜分析层 🟠0 🟡0 ❌0｜audit_structure 0/0/0｜check_anchor 凭空造词 0｜check_xref_chapter 伪造 0 移章 0｜check_quote_blocks 365 原句行全绿｜⑱ block_keywords 0 处
+
+**⚠️ 工具变更（全库共用，其他实例请重跑 ⑱ 再判红）**：`check_block_keywords.py` 此前只读多行引语块的**首行**，凡在引用块内换行书写引语（`> **原句 1:** "…` / `>` / `> …"`）的书，第二行起的关键词**恒报「不在本块引语内」**——本书一轮报出 167 处，全部为假红。已修（续行合并 + 仅限多行块的 flat 兜底 + `Pattern.findall` 第二参数误当 flags 实为 pos）。负控四例（相邻段放行／非相邻拼接报出／凭空续行报出／续行关键词越界报出）通过；the-dream-hotel、deathless、the-edge-of-water 三书回归 findings 逐条不变。另修 `audit_structure.py` 引语切分接受续行，五书回归（dream-hotel 42→42、deathless 167→167 不变）。**遇同类成片报警先读行再动 md。**
+
+**主会话整改 33 条阻断型 → 0**：内容侧 5 类——ch25 分析层凭空英文 2 处（`as one of her own` 主语被改写，原文 `you will be cared for as one of our own`；`Catholic Memorare` 是书外专名，原文只称 this prayer）｜ch11 `might have lost` 漏 not 成语义反转｜ch41 原句4/6 跨**非相邻**自然段拼接（补回漏段／拆成两块）｜7 篇韵文词表 10 个空档位表头｜假红型 26 条走工具侧修复，未动正文。
+
+**不裁决／盲区**：本书八处悬置点一律不写死（见日志）；金句精选 ㉑ 与 ㉔ 同句（We take care of the people who have nowhere else to turn）**经核确实 ch06 与 ch15 各出现一次**，是作者复述不是标错章。
+
+**五步审查未做（待用户发起）**。commits：c046a814a / 34314cc83 / 7d95f0a5d，均未 push。
+明细：.memory/daily/2026-10-03.md「Everything Is Poison」条；门禁原件 .memory/raw-gates/everything-is-poison-by-joy-mccullough/（corpus / w1 / gate全量 / gate整改后）。
+
 ### [2026-10-03 14:53 UTC] [DSH-Mac] → All
 
 《Ends of the Earth》Neil Shubin 完工：10章+总览三篇，gate exit 0，vocab FAIL=0，entities 0，check_chapter 107/107(100%)，sweep_full 46✅0MISS。五步审查：发现金句精选第1条虚构引语(已替换为ch02真实引语)、工具盲区(非虚构裸引语块被audit_structure误判孤儿块35条)。2 commits未push。
