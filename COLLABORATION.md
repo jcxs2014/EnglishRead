@@ -60,6 +60,39 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-03 15:53 UTC] [DSH-Mac] → All
+
+**书**：the-edge-of-water-by-olufunke-grace-bankole（《The Edge of Water》，Olufunke Grace Bankole）
+**完工**：2026-10-03 15:53 UTC ｜ **lane**：完整 lane（有 epub，参照集 48 个提取件）
+**规模**：42 章 + 总览三篇 = **45 md** ｜ 引语块 310 ｜ 词条 1042 行 ｜ text/ 42 == 章节 md 42 ｜ raw-gates 42 件 ｜ commits 42 条（`e78fddf5d`→`9725942ba`，**均未 push**）
+
+**收目录门禁（18 段，`bash scripts/gate.sh` 退出码 0）**
+- ① verify_quotes **365/365（100%）**，干净 44/44 ｜ ② check_vocab FAIL **0**（WARN 82 全提示型）｜ ③ 未知实体 **0** ｜ ④ corruption FAIL **0**
+- ⑤ sweep_full **本章命中 310 ｜ 跨章 0 ｜ 🔶 0 ｜ ❌ 0** ｜ ⑨ 导航层 ❌ 0 ｜ ⑩ sweep_analysis_inline 逐字 1641 ／ 🟠🟡❌ **0**（⚠️跨章 36 提示）
+- ⑦ check_chapter_quotes **42 章全部 X/X in 本章 text，零跨章借用** ｜ ⑧ 块覆盖对账 ✅ ｜ ⑬ 空段 0
+- ⑪ audit_structure ❌ 0（⚠️1：`ch27` 引语 3 vs 众数 8，短章属提示型）｜ ⑫ check_anchor 造词 0 ｜ ⑯ check_xref_chapter 伪造 0
+- ⑭ verify_overview_quotes **总览引文 55/55（100%）**（金句 25/25 ＋ 情感节点 30/30；概述散文体无引语属设计允许）｜ ⑮ H1 语义错配 0
+- ⑰ check_quote_blocks 310 行前缀完整·编号无撞车 ｜ ⑱ check_block_keywords **问题 0**
+- **正门结论：0 条阻断型**
+
+**批次内修掉的阻断型**：虚构词头 40+（`incongruous`/`tragedy`/`souvenir`/`gossip`/`sweetheart`/`pragmatique`…）｜ 分析层改写 5（`recognized` 写成 `recognize`、`He walked` 写成 `I walked`、`nodding` 写成 `noding`…）｜ 🔶 拼接 6 ｜ 导航层模板记号 1 ｜ 精读超配额 2（ch37 9 处、ch40 10 处）｜ 损坏 3（ch35/ch36 U+FFFD ＋ JSON 缺转义）｜ 跨档 DUP 3
+
+**★ 最值得复用的教训**：`- "…"` 列表形态的引语 `verify_overview_quotes` **一条都提取不到**，文件反被判「无引语行（正常）」＝**静默假绿**；总览引语必须用 `> "…"（chNN）` 或 `**①** "…"（chNN）` 行首形态。另：`X, the Y, provides…` 这类导航层占位记号会被 `check_nav_layer` 判阻断。
+
+**五步审查未做（待用户发起）**。明细见工作日志 `.memory/daily/2026-10-03.md` 的「The Edge of Water」节（逐章门禁轨迹 ＋ 16 条踩坑复用）。
+
+### [2026-10-03 14:45 UTC] [ZCode-Mac] → All
+
+**《Diana in Love》（Jen Besser & Shana Feste，Dial Press 2024）精读完工（22 章 + 总览三篇 = 25 md）**
+
+- 体裁：情感长篇（LCGFT: Novels，第一人称 Diana）→ **长篇言情格式**（导航 5 项 + 四子项引语块 + 三档词汇 + 一句话总结）；三部分结构（Dallas–Paris–Dallas）
+- 语料层：`verify_corpus --expect 22` PASS（spine 36 件对账：装置 13 页跳过 + 正文 22 件；dial-backad 推广页改名 xx_ 剔除）；**文件号=书内章号+1**（ch01=Prologue）
+- 生产方式：**构建器零手打英文**——引语 span 唯一断言摘自 `text/`，关键词/例句 raw 子串断言；总览三篇从 **176 条已核引语池**按（章,序号）程序化生成
+- 门禁（原件 `.memory/raw-gates/diana-in-love-by-jen-besser-and-shana-feste/2026-10-03-gate-final.txt`）：**gate.sh EXIT=0（0 阻断）**｜verify_quotes **241/241**（176 章节+66 总览，干净 24/24）｜逐章归属 **176/176**｜vocab **561 行 FAIL 0**（WARN 26 均长度启发式，接受）｜sweep_full 175/0/0/0｜corruption 0｜entities 0｜audit_structure 0｜总览整串 67/查无 0、标签 66 对、H1 0
+- 收尾修复 2 条阻断型（金句 CIRCLED 第 17 位笔误、ch03 原句 8 关键词换引语内词）；raw-gates 原件同批显式 add
+- commits **25 笔，均未 push**
+- **五步审查未做（待用户发起）**
+
 ### [2026-10-03 13:14 UTC] [ZCode-Mac] → All
 
 《The Dream Hotel》Laila Lalami（the-dream-hotel-by-laila-lalami）精读完工（9件 ch01–ch09）
