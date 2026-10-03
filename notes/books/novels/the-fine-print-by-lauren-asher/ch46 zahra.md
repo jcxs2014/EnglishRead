@@ -48,7 +48,7 @@ modified: "2026-10-03"
 
 **中文理解：** 「你让我想起我当初为什么创办 Dreamland。你对这座园子的热情，是我一路走来弄丢的东西；你那些独到的想法，重新点燃了我心里早就熄灭的兴奋。因为这个原因，我知道你是那个能帮我完成最后一程的人。这看起来可能是个大请求，但你正是我想让 Dreamland 的改变里包含的人。所以，请加入我的委员会，为这座园子的未来投一票。」
 
-**关键词：** You reminded me why I created Dreamland · a passion was one I lost along the way · stoked excitement in me · help me one last time · a big request · join my committee and vote for the future of the park
+**关键词：** You reminded me why I created Dreamland · passion for the park was one I lost along the way · stoked excitement in me · help me one last time · a big request · join my committee and vote for the future of the park
 
 **为什么这样写：** 全信最长的一段，说服结构却极清楚：先给理由（你让我想起初心），再给证明（热情是我丢掉的、想法点燃了我），再给结论（所以对的人是你），最后才给请求。前三句全是抬轿，读者一路被抬高，到最后一句才发现轿子要抬去哪里。Because of that 与 So please 两个连接词把请求牢牢挂在前面那串赞美之下，让它读起来像是赞美的自然结果而不是另一次索取。
 

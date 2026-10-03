@@ -18,7 +18,7 @@ modified: "2026-10-03"
 
 **中文理解：** 我挑了礼堂最后排那个最完美的位置——日光灯照不到的地方，把自己裹进我极其想要的那片黑暗里。
 
-**关键词：** pick the perfect spot · fluorescent lights · cloaking me in darkness
+**关键词：** pick the perfect spot · fluorescent lights · cloaking me in much-desired darkness
 
 **为什么这样写：** 全章的第一个动作就是躲。much-desired 这个形容词很反讽：他「极其想要」的从来不是安静，是不被看见。cloak（把……裹起来）是个穿衣的动作，用在一个只想消失的人身上，句子的反讽就落在这里。他连选座都要计算光源，全章那句「无论我发出什么气场，员工们都避开最后一排」正是这个动作的回报——他的防护有效，而且他自己很满意。
 

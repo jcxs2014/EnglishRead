@@ -40,7 +40,7 @@ modified: "2026-10-03"
 
 **关键词：** My head wages war with my entire body · warning me away · the sweetest poison
 
-**为什么这样写：** 第一句用拟人化的内战（head wages war with body）把犹豫外化成一场身体内部的战争，warn me away 说明理智在「劝退」。紧接着的比喻 sweetest poison 是全书结构最精致的一处：sweet 与 poison 同时成立，所以这个吻既是奖赏也是风险，一个词就把两难说完了。poison 还是本章的暗线关键词——她刚坦白过被人背叛，而他此刻正在尝她。
+**为什么这样写：** 第一句用拟人化的内战（head wages war with my entire body）把犹豫外化成一场身体内部的战争，warn me away 说明理智在「劝退」。紧接着的比喻 sweetest poison 是全书结构最精致的一处：sweet 与 poison 同时成立，所以这个吻既是奖赏也是风险，一个词就把两难说完了。poison 还是本章的暗线关键词——她刚坦白过被人背叛，而他此刻正在尝她。
 
 **读者视角提示：** 记住「甜」与「毒」这对词。全书两人的关系反复在这两者之间摆荡：他先伪装（毒），她先受伤（甜被夺走），到这一章才第一次同时在场。
 

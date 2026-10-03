@@ -50,7 +50,7 @@ modified: "2026-10-03"
 
 **关键词：** For the first time · doesn’t feel like an easy choice · not sure what to make of that
 
-**为什么这样写：** 这是全书第一次让 Rowan 对芝加哥动摇。for the first time 把幅度说满了，but not sure what to make of that 又立刻收回去——他怕的不是留在 Zahra 身边，而是怕自己喜欢上这个结果。所以这句的重点不是他要走，是他不让自己承认自己不想走。作者用一个轻描淡写的收尾把这个决定悬在半空，随后他立刻用「那就做点什么」把它盖过去。
+**为什么这样写：** 这是全书第一次让 Rowan 对芝加哥动摇。for the first time 把幅度说满了，not sure what to make of that 又立刻收回去——他怕的不是留在 Zahra 身边，而是怕自己喜欢上这个结果。所以这句的重点不是他要走，是他不让自己承认自己不想走。作者用一个轻描淡写的收尾把这个决定悬在半空，随后他立刻用「那就做点什么」把它盖过去。
 
 **读者视角提示：** 他在下一段随即想到「用美食换注意力」——把一个关于人生的重大动摇降级成一个可以立刻执行的战术，这就是 Rowan 处理情绪的方式，也正是本章最大的病灶。
 

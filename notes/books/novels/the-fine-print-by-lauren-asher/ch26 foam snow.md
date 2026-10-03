@@ -38,7 +38,7 @@ modified: "2026-10-03"
 
 **中文理解：** 今天不过是十一月的第一天，可这座乐园从来不放过任何一个能赚节日钱的机会。
 
-**关键词：** only the first day of November · doesn’t miss an opportunity · profit off the holiday spirit
+**关键词：** only be the first day of November · doesn’t miss an opportunity · profit off the holiday spirit
 
 **为什么这样写：** 让这个乐园在他心里再次出场，用一句带刺的商业评论——万圣节一过就立刻开始卖圣诞。never/miss an opportunity 这一组是商人口吻，而 profit off（从……上赚钱）把「节日气氛」还原成生意。这个观察和本章他做的所有温柔的事构成反差：他嫌这个地方逐利，却仍然陪她在这里耗了一整天。
 

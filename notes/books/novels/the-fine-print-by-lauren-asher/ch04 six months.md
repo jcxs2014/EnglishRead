@@ -80,7 +80,7 @@ modified: "2026-10-03"
 
 **关键词：** In their eyes · the Director they always dreamed of · In reality · can’t wait to crawl out of · replace Declan as the CFO
 
-**为什么这样写：** In their eyes 与 In reality 是一对镜面句式，两个状语把真话与假象切在两半，中间还嵌了一句 nobody will be the wiser（没人会看出真相）。can’t wait to crawl out 用爬这个动词——他把待了四十八小时的园区写成待不住的监牢。这句还顺手交代了任务的时间线：六个月后他会带着一份方案回到总部，为一个财务职位而战。
+**为什么这样写：** In their eyes 与 In reality 是一对镜面句式，两个状语把真话与假象切在两半，中间还嵌了一句 no one will be the wiser（没人会看出真相）。can’t wait to crawl out 用爬这个动词——他把待了四十八小时的园区写成待不住的监牢。这句还顺手交代了任务的时间线：六个月后他会带着一份方案回到总部，为一个财务职位而战。
 
 **读者视角提示：** 这是全书对 Rowan 真实动机最直白的一次交代：他不想当 Director。而他必须当满这六个月，因为遗嘱把股份和方案绑在一起——第一章那道「不通过就永久转给父亲」的威胁，正是他此刻急于脱身的真正原因。
 
