@@ -159,10 +159,15 @@ def _kw_in_quote(k: str, qflat: str) -> bool:
 
 
 def check(md: Path, book: Path):
-    m = re.search(r'ch(\d+)', md.name)
+    # ⚠️ 2026-10-03 修正（Evie ch01a/ch04a/ch11a 实测假红）：原式 `ch(\d+)` **丢掉插叙节的
+    # 字母后缀** ⇒ ch01a 被取数字 1 ⇒ find_chapter_text 命中 `text/ch01_chapter_1.txt`
+    # ⇒ 用**正章**的 text 当参照集，本章逐字正确的引语全报「引语跨自然段（拼接红线）」。
+    # find_chapter_text 本身支持 "02a" 写法（见其 docstring），是调用方丢了信息。
+    m = re.search(r'ch(\d+)([a-z]?)', md.name)
     if not m:
         return [f"{md.name}: 文件名缺 chNN 前缀，无法定章"]
     n = int(m.group(1))
+    suffix = m.group(2)
     s = md.read_text(encoding="utf-8")
     out = []
     # --- 结构计数对账（先做，因为它最便宜且能兜住一切后续判断）---
@@ -188,9 +193,9 @@ def check(md: Path, book: Path):
     import sys as _sys
     _sys.path.insert(0, str(Path(__file__).resolve().parent))
     from chapter_text_path import find_chapter_text
-    _p = find_chapter_text(str(book), n)
+    _p = find_chapter_text(str(book), "%02d%s" % (n, suffix))
     if _p is None:
-        return out + [f"{md.name}: 找不到 text/ch{n:02d}*.txt（分隔符已兼容 _ . 空格）"]
+        return out + [f"{md.name}: 找不到 text/ch{n:02d}{suffix}*.txt（分隔符已兼容 _ . 空格）"]
     t = Path(_p).read_text(encoding="utf-8")
     ps = paras(t)
     tn = norm(t)
