@@ -9,7 +9,7 @@ source_text: ch32_chapter_32.txt
 ## 本章导航
 
 - **一句话概括**：第二天一早 Violetta 主动来店里生火、烧水、扫地，Carmela 一边别扭地摆架子（假装在柜台前理账本），一边被母亲潦草的字迹刺出眼泪；她终于忍不住当面问起那句「你母亲是女巫」到底是什么意思，Violetta 坦白只记得「大人这么说，我就跟着说」；随后两人在后间一起研磨柠檬香蜂草，Carmela 第一次被 Violetta 的幽默逗笑，气氛由对抗转向松动。
-- **情感弧线位置**：处于两人关系**从敌意转向试探性亲近**的拐点，尚未和解。前段 Carmela 还在「恨她一点点」（Carmela hates her a little），后段因 Violetta 一句关于继母的玩笑 while giggling、又因她把手凑到鼻下端详香蜂草的气味，Carmela 出现了本章唯一的柔软（too shocked to pull her hand back）。整章在「勉强认可」上收（Carmela nods in approval），是升温而非爆发。
+- **情感弧线位置**：处于两人关系**从敌意转向试探性亲近**的拐点，尚未和解。前段 Carmela 还在「恨她一点点」（Carmela hates her a little），后段因 Violetta 一句关于继母的玩笑 while giggling、又因她把手凑到鼻下端详香蜂草的气味，Carmela 出现了本章唯一的柔软（too shocked to pull her hand back）。整章在「勉强认可」上收（But then she nods in approval. "That's better."），是升温而非爆发。
 - **人物弧线**：Carmela 首次以「懂行的人」身份对 Violetta 施授（herbal 知识、研磨手法），并借 physicians 的话头说出她对女性身体的清醒认知；Violetta 则由「被宠坏的女孩」被 Carmela 自己修正为「生活并不完美」的人。Carmela 想「像母亲那样跑掉」的念头一闪而过，本章未交代母亲下落。
 - **叙事手法**：单场景（药铺前后厅）、同时段，靠动作与对白推进；中段插入一段 Carmela 对 Violetta 处境的**内心改判**（Violetta’s life isn’t perfect）；「女巫」对话用一问一答的短句交锋，与研磨香蜂草的长段并置，一冷一热构成节奏。
 

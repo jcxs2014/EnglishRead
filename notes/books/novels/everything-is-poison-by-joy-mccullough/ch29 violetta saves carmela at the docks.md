@@ -61,7 +61,7 @@ source_text: ch29_chapter_29.txt
 
 **关键词：** it was a mistake · she cannot trust her instincts · Now he is feral · gripping her throat · so inured to violence · no one will notice when she suffocates
 
-**为什么这样写：**这一处是全章最反直觉的一击。Carmela 刚凭"本能、仅此而已"（前段）咬伤了他、挣开了一瞬——按常理这是自救成功，作者却让她当场判词：she cannot trust her instincts。这不是说本能错了，而是本能只把她送到了下一步的深渊。it was a mistake 四个极短的词，把"反抗"重新定义成"激怒"，这份冷静压在挨打的当口，比任何呼救都更骇人。随后 Now he is feral / the stones so inured to violence 把危险的来源从一个人扩散到一条街：feral（兽化）回扣上一节的 wild animal——笼子没有把她变成野兽，恐惧倒把**他**变成了野兽；而"石头见惯了暴力、掐死人也没人留意"这一句，把第 27 章她救 Eleonora 时那层"人每天都走在一线之上"的体悟，兑现成了一条具体的、不会有人来救她的巷子。
+**为什么这样写：**这一处是全章最反直觉的一击。Carmela 刚凭"本能、仅此而已"（前段）咬伤了他、挣开了一瞬——按常理这是自救成功，作者却让她当场判词：she cannot trust her instincts。这不是说本能错了，而是本能只把她送到了下一步的深渊。it was a mistake 四个极短的词，把"反抗"重新定义成"激怒"，这份冷静压在挨打的当口，比任何呼救都更骇人。随后 Now he is feral，而 the stones of this place so inured to violence 把危险的来源从一个人扩散到一条街：feral（兽化）回扣上一节的 wild animal——笼子没有把她变成野兽，恐惧倒把**他**变成了野兽；而"石头见惯了暴力、掐死人也没人留意"这一句，把第 27 章她救 Eleonora 时那层"人每天都走在一线之上"的体悟，兑现成了一条具体的、不会有人来救她的巷子。
 
 **读者视角提示：**把这句"没有人会留意"，与本章稍后真正响起来的那声碎裂的玻璃对照——全章把"不会有人来"写得这样笃定，正是为了在它最终被打破时更响。
 

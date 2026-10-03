@@ -10,7 +10,7 @@ source_text: ch04a_the_widower.txt
 
 - **一句话概括**：一位丧妻的鳏夫在家里来回踱步——他妻子刚刚还在烤面包、哄孩子、擦血膝盖、担心他背上那块不肯好的疮，忽然就病、就死了；他不敢接受，只等着她推门进来笑他一场，但六个孩子不会自己长大，家里来的姊妹和邻居都不是他要的那张脸。
 - **情感弧线位置**：紧接 ch04 里 Carmela 陪 Violetta 走过 Via di Ripetta 家门口那条**挂着黑布**的门洞之后——上一段以"黑布"结束，这一段把黑布底下具体展开：一位父亲、六个孩子、一间不再有人告诉他"刨刀放在哪儿"的小屋。全诗不给 Carmela 或 Violetta 一句台词，是把读者从**药铺内部**暂时抽离到**罗马街巷里的另一户人家**，让 ch04 结尾那句"an angry man told her to go back to the witch"背后的生活重量显形。
-- **人物弧线**：无主角在场；发声者是**群体视角**（"a man like Violetta's father but not"），作者用一句 not 就把这位鳏夫与 Violetta 父亲剥离开——他只是一个"可以走得到的邻居"。诗里唯一被完整勾勒的女性是**亡妻**：她的动作清单（baking, consoling, tending, wringing, going, wiping, fretting）比任何一段叙述都长。
+- **人物弧线**：无主角在场；发声者是**群体视角**（"a man like Violetta's father but not"），作者用一句 not 就把这位鳏夫与 Violetta 父亲剥离开——他只是一个"可以走得到的邻居"。诗里唯一被完整勾勒的女性是**亡妻**：她的动作清单（baking, consoling, tending, wringing, going, wiping，末尾再缀一句 and still had time to fret）比任何一段叙述都长。
 - **叙事手法**：自由体无韵诗；每行一句、行间留空；结构由三组**平行**推进——先亡妻的**动作清单**（现在时/被动），再"Any moment now"起的**期待清单**（将来时），最后落到**现在时的踱步**。作者用同一句"There is a man like Violetta’s father but not in a cramped apartment"接住前一首《The Witch》《The Wife》的开场模板，把这首诗嵌进全书的合唱里。
 
 ## 精读
@@ -39,7 +39,7 @@ source_text: ch04a_the_widower.txt
 
 **关键词：** baking bread, consoling children, tending the hearth · wringing laundry, going to market, wiping bloodied knees · and still had time to fret · that refuses to heal
 
-**为什么这样写：**这是全诗的**动作清单**——七个现在分词连排（baking, consoling, tending, wringing, going, wiping, fretting），把亡妻在世时的每一天压进两行。作者刻意让**动词全部以 -ing 结尾**（现在分词，本身即未完成时），使"她刚刚还在做这些事"的**时间感**从语法里长出来——不是她做过，是她**没做完**。第三行的 and still had time to fret 用 still（还）把清单的最后一环**从家务扭到"对他的关心"**，让读者在第七个动作上被绊一下：她不是在忙家务，她是在**照顾他**。句末 that refuses to heal 里 refuses 是把疮拟人化——疮**拒绝**愈合，正如丈夫拒绝接受她已死。
+**为什么这样写：**这是全诗的**动作清单**——六个现在分词连排（baking, consoling, tending, wringing, going, wiping），把亡妻在世时的每一天压进两行。作者刻意让这六个**动词全部以 -ing 结尾**（现在分词，本身即未完成时），使"她刚刚还在做这些事"的**时间感**从语法里长出来——不是她做过，是她**没做完**。第三行的 and still had time to fret 用 still（还）把清单的最后一环**从家务扭到"对他的关心"**，而且它**从 -ing 掉进了不定式**（全书没有 fretting 这个词）—— worry 不是并列的第七件家务，是六件事**之外**多出来的那一件；读者在这里被绊一下：她不是在忙家务，她是在**照顾他**。句末 that refuses to heal 里 refuses 是把疮拟人化——疮**拒绝**愈合，正如丈夫拒绝接受她已死。
 
 **读者视角提示：**这一段是全诗最长的一个动作串；下一节 she leapt from sick to dead 只有六词，两处的**长度差**就是死亡本身的形状。
 

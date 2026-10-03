@@ -50,7 +50,7 @@ source_text: ch32a_the_friends.txt
 
 **关键词：** squabbled as children · nursed petty grievances as teens · coveted each other’s husbands · judged each other’s cooking · griped at each other’s faults · prodded at each other’s insecurities · they are starting to see the end of the road · more people they’ve known · have died than not
 
-**为什么这样写：** 六行 **and 起头的连排 anaphora**，动词的侵犯等级一步步加深：squabbled（拌嘴）→ nursed（把小怨"喂大"，nurse 作动词最冷）→ coveted（觊觎，涉及丈夫）→ judged → griped → prodded at insecurities（专戳对方最软的地方）。六行全用过去时，构成一生的清单；直到第七行 they **are** starting 一个现在进行时才把语序掰过来——**时态落差**就是这首诗的转折机制：前六行是"她们活过的一切嫌隙"，第七行开始是"这些嫌隙正在被死别压过去"。"have died than not" 收得极平，没有形容词，只有 "more… than not" 这个统计级的说法，把满街的空缺写得像一句天气。
+**为什么这样写：** 六行 **and 起头的连排 anaphora**，动词的侵犯等级一步步加深：squabbled（拌嘴）→ nursed（把小怨"喂大"，nurse 作动词最冷）→ coveted（觊觎，涉及丈夫）→ judged → griped → prodded at each other’s insecurities（专戳对方最软的地方）。六行全用过去时，构成一生的清单；直到第七行 they **are** starting 一个现在进行时才把语序掰过来——**时态落差**就是这首诗的转折机制：前六行是"她们活过的一切嫌隙"，第七行开始是"这些嫌隙正在被死别压过去"。"have died than not" 收得极平，没有形容词，只有 "more… than not" 这个统计级的说法，把满街的空缺写得像一句天气。
 
 **读者视角提示：** 六行里没有一个受害者、没有一个外人——全部冲突都发生在"each other"之内，这也是诗接下来要立的题：吵了一辈子，最后没吵散的反而是她们。
 

@@ -50,7 +50,7 @@ modified: "2026-10-03"
 
 **关键词：** There’s a boy · finally says
 
-**为什么这样写：**全章最短的一次对白交锋。作者用 finally（终于）把她前面那段铺垫（"It’s only that my friend Penelope said…"）压成一个词，而前文已经明写 She drops her voice low enough that Carmela can’t hear——所以 Carmela 其实**没听见问的是什么**，只听见了这句结论。这正是 Giulia 早就知道来意的证据：Signora Tofana waits, though Carmela recognizes the look on her face。
+**为什么这样写：**全章最短的一次对白交锋。作者用 finally（终于）把她前面那段铺垫（"It’s only that my friend Penelope said…"）压成一个词，而前文已经明写 for once the girl drops her voice low enough that Carmela can’t hear——所以 Carmela 其实**没听见问的是什么**，只听见了这句结论。这正是 Giulia 早就知道来意的证据：Signora Tofana waits, though Carmela recognizes the look on her face。
 
 **读者视角提示：**注意这句是本章第一个让 Carmela 失去信息优势的转折点——她在门外听得见，却听不全。
 

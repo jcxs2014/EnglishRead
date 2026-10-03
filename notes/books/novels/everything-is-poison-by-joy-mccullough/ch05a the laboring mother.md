@@ -81,7 +81,7 @@ source_text: ch05a_the_laboring_mother.txt
 
 **为什么这样写：**这一段是全诗唯一的**圣徒传**（hagiography）插叙——作者用了整整七行讲 Margherita 如何从一条龙腹里破出来。核心对照在 piercing the dragon's insides / emerging the bloody victor 一句：**Margherita 从龙腹里破出来、活着、带血**——正是这位母亲希望从自己腹里破出来的那个孩子能做到的事。emerging 一词与上一段 longed for the baby to emerge / where that child would emerge 连成第三次**同词复现**：每一次 emerge 都在赌一次生死。virgin 与 physical trial 一句里的 but 是神学层的翻转：**童贞**并不豁免**肉身的苦**——作者替这位母亲挑守护圣徒时，选了"生过孩子却没有经过产道"的那一位；**她需要一个不可能的奇迹**。patron saint of labor and childbirth 是本诗唯一一句**教科书式**的定义句，作者用整段最平的一句话把神话层与肉身层钉在一起。
 
-**读者视角提示：**下一段（The second time 之后）会紧接着写 she discarded the amulet of Margherita——这一段的神圣感是**给下一次背弃做的准备**，请别把它当作诗的最终结论。
+**读者视角提示：**下一段（The second time 之后）会紧接着写下一行的 discarded the amulet of Margherita（主语是上一行的 this perpetually heartbroken mother）——这一段的神圣感是**给下一次背弃做的准备**，请别把它当作诗的最终结论。
 
 > **原句 5:** "The third baby lived
 > for three hours.

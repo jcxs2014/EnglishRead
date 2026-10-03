@@ -51,7 +51,7 @@ source_text: ch04_chapter_4.txt
 
 **关键词：** stiffens · knocks too much belladonna · The barest hint · doe-eyed appearance · Hence the name belladonna · delirium, hallucinations, coma, and death
 
-**为什么这样写：**这是全章最"药铺"的一段。作者用**剂量差**把"美女"和"死亡"钉在同一味药上——同一个 belladonna，a barest hint 让人美，the amount Carmela knocked in 让人死。句末 delirium, hallucinations, coma, and death 四联排，一路从精神到生理到意识最后到死亡——**递进式四联词**是本书对"毒药铺"这一意象最正面的一次命名。Carmela 之所以失手，前文已经给出原因：她刚听见门铃响、认出是 Violetta——**听到旧敌进门，手就先抖**。Maria 的目光 burn into the back of her head 一句不写她开口训斥，只写她**目光的重量**，比 ch01 里 cackles loud enough 是同一间作坊的另一层质感。
+**为什么这样写：**这是全章最"药铺"的一段。作者用**剂量差**把"美女"和"死亡"钉在同一味药上——同一个 belladonna，a barest hint 让人美，the amount Carmela knocked in 让人死。句末 delirium, hallucinations, coma, and death 四联排，一路从精神到生理到意识最后到死亡——**递进式四联词**是本书对"毒药铺"这一意象最正面的一次命名。Carmela 之所以失手，前文已经给出原因：她刚听见门铃响、认出是 Violetta——**听到旧敌进门，手就先抖**。Maria 的目光 burns into the back of her head 一句不写她开口训斥，只写她**目光的重量**，比 ch01 里 cackles loud enough 是同一间作坊的另一层质感。
 
 **读者视角提示：**留意这一段"美女—毒药"词源解释被嵌进 Carmela 的失误之后，作者借此把全书标题（Everything Is Poison）里那句"剂量决定它是药还是毒"的隐含前提，第一次摆到读者面前。
 

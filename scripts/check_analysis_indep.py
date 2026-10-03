@@ -27,7 +27,21 @@ from pathlib import Path
 B=Path(sys.argv[1])
 book_flat=re.sub(r'[^a-z0-9]','',"".join(p.read_text() for p in sorted((B/'text').glob('ch*.txt'))).lower())
 EN=re.compile(r"[A-Za-z][A-Za-z’,'\-]*(?:\s+[A-Za-z][A-Za-z’,'\-]*){2,}")
-BAD=[]; RECON=set(); tot=0
+BAD=[]; RECON=set(); TERM_HIT=set(); tot=0
+# 叙述学/修辞/语法元语言（小写）。只用于豁免「整串都是术语」的片段。
+TERM = set("""free indirect discourse anaphora epizeuxis epistrophe polysyndeton asyndeton
+chiasmus synecdoche metonymy irony enjambment caesura alliteration assonance consonance
+onomatopoeia litotes antimetabole analepsis prolepsis diegesis focalization narrator
+narrative voice present participle gerund infinitive subjunctive imperative
+unreliable narrator stream consciousness foreshadowing motif refrain cadence meter
+iambic trochaic dactylic couplet quatrain sonnet stanza verse prose colloquialism
+neologism portmanteau euphemism dysphemism hyperbole understatement parallelism
+antithesis juxtaposition register dialect idiom calque gloss allodynia kenning
+apostrophe personification simile metaphor symbolism leitmotif subtext interiority
+preposition prepositions conjunction conjunctions pronoun pronouns article articles
+adverb adverbs adjective adjectives noun nouns verb verbs clause clauses sentence
+syntax grammar tense tenses aspect mood voice word words phrase phrases
+""".split())
 for md in sorted(B.glob('ch*.md')):
     for i,line in enumerate(md.read_text().split('\n'),1):
         if line.startswith('> ') or line.startswith('|') or line.strip().startswith('#') \
@@ -62,6 +76,14 @@ for md in sorted(B.glob('ch*.md')):
                     if any(len(w)>2 and w not in book_flat for w in pw): continue
                     RECON.add((md.name,i,piece.strip()))
                 continue
+            # ⚠️ 2026-10-03 补术语豁免（本书 d 步实证）：`free indirect discourse`、
+            #    `anaphora of prepositions` 被判 ❌ 未命中——它们是**分析者的元语言**，
+            #    本来就不该在原文里。判据只豁免「**全部**内容词都在术语表内」的片段，
+            #    所以 `fretting`（同批报出、实为把 to fret 写成现在分词的**真缺陷**）
+            #    照常判红。表外的自造说法一律不豁免。
+            if all(w in TERM or len(w) <= 2 for w in words):
+                TERM_HIT.add((md.name, i, frag.strip()))
+                continue
             BAD.append((md.name,i,frag.strip(),miss))
 print(f"抽出分析层英文片段 {tot} 条")
 if BAD:
@@ -72,4 +94,7 @@ else:
 if RECON:
     print(f"⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）{len(RECON)} 条 —— 只报不判红，须人判：")
     for f,i,frag in sorted(RECON): print(f"  {f}:{i}  {frag[:88]}")
+if TERM_HIT:
+    print(f"⚪ 术语豁免 {len(TERM_HIT)} 条（内容词全在元语言表内，非引文）：")
+    for f,i,frag in sorted(TERM_HIT): print(f"  {f}:{i}  {frag[:88]}")
 sys.exit(1 if BAD else 0)

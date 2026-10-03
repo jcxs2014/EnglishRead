@@ -41,7 +41,7 @@ source_text: ch33_chapter_33.txt
 
 **关键词：** carries on · decanting the vivid liquid into empty vials · as though it is a mysterious potion · not an ordinary tea · as common in some parts of the world as ginger or chamomile
 
-**为什么这样写：** 这是全章视角最锋利的一处。as though（仿佛）引出的**虚拟语气**，明明白白告诉读者"这**不是**药水，它就是茶"，可紧接着 as common… as ginger or chamomile 又把范围推到"世上某些地方"——作者用一个地理上的让步，说尽了偏见的机制：同样一杯变色茶，在别处是家常，在这里就成了巫术。decanting into empty vials（分装进空瓶）这个动作本身是"配药"的姿态，Carmela 一边演，读者一边看穿，而孩子看不穿——三层认知差被压进同一句里。
+**为什么这样写：** 这是全章视角最锋利的一处。as though（仿佛）引出的**虚拟语气**，明明白白告诉读者"这**不是**药水，它就是茶"，可紧接着 as common… as ginger or chamomile 又把范围推到"世上某些地方"——作者用一个地理上的让步，说尽了偏见的机制：同样一杯变色茶，在别处是家常，在这里就成了巫术。decanting the vivid liquid into empty vials（分装进空瓶）这个动作本身是"配药"的姿态，Carmela 一边演，读者一边看穿，而孩子看不穿——三层认知差被压进同一句里。
 
 **读者视角提示：** "as common in some parts of the world" 是本章唯一一句把镜头抬出罗马、抬向世界的旁白；它替这桩小事定了性：荒谬的不是这杯茶，是给它贴标签的那套眼光。
 
