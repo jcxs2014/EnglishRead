@@ -58,13 +58,14 @@
       "_note": "2026-09-28 用户两次确认：**DSHarness / DSHarness-Mac / DSH-Mac 是同一个 agent**（我曾按前缀把 DSHarness 与 DSH-Mac 拆成两个，是错的）。canonical 取 DSH-Mac。"
     },
     {
-      "canonical": "MinMax-Mac",
+      "canonical": "MiniMax-Mac",
       "confirmed": true,
       "aliases": [
-        "Mavis-Mac"
+        "Mavis-Mac",
+        "MinMax-Mac"
       ],
       "inferred_aliases": {},
-      "_note": "2026-09-28 用户指定：Mavis-Mac 已改名为 MinMax-Mac。旧名保留为别名，使板上历史条目仍能归一。"
+      "_note": "2026-10-03 **用户纠正：规范名是 MiniMax-Mac，此前登记的 MinMax-Mac 少了一个 i**——2026-09-28 那次「Mavis-Mac 改名」当时就写错了（canonical 落成 MinMax-Mac），板上 15 条条目因此署了错名。错拼 MinMax-Mac 保留为 alias，使那 15 条历史条目仍能归一：`mine --me MiniMax-Mac` 应能查到全部。抬头是否追溯改写见 docs/协作板更新指令.md 的 ZCode-Mac 先例（错拼登记为 alias、抬头按「身份不动」保留原样）。Mavis-Mac 是更早的旧名，同样保留。"
     },
     {
       "canonical": "Workbuddy-Mac",
