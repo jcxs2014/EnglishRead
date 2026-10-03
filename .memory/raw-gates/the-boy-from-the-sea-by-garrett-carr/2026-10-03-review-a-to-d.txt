@@ -1,0 +1,252 @@
+════════ 五步独立审查 原始门禁输出（2026-10-03 五步审查 a–e）
+书目录：notes/books/novels/the-boy-from-the-sea-by-garrett-carr
+lane：完整（有 epub）｜ md 17 == text 17
+
+──── a 步：第 3 条提交门禁全量重跑（gate.sh 正门）────
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 159/159 引文可核实（100%）；完全干净文件 18/18；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 866
+--- FAIL (0) ---
+--- WARN (15) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 134 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 1.md                                      ch01 1.md: 8/8 in ch01 text
+ch02 2.md                                      ch02 2.md: 8/8 in ch02 text
+ch03 3.md                                      ch03 3.md: 8/8 in ch03 text
+ch04 4.md                                      ch04 4.md: 8/8 in ch04 text
+ch05 5.md                                      ch05 5.md: 8/8 in ch05 text
+ch06 6.md                                      ch06 6.md: 8/8 in ch06 text
+ch07 7.md                                      ch07 7.md: 7/7 in ch07 text（另有 1 条短引语未校验）
+ch08 8.md                                      ch08 8.md: 8/8 in ch08 text
+ch09 9.md                                      ch09 9.md: 7/7 in ch09 text（另有 1 条短引语未校验）
+ch10 10.md                                     ch10 10.md: 8/8 in ch10 text
+ch11 11.md                                     ch11 11.md: 8/8 in ch11 text
+ch12 12.md                                     ch12 12.md: 8/8 in ch12 text
+ch13 13.md                                     ch13 13.md: 8/8 in ch13 text
+ch14 14.md                                     ch14 14.md: 8/8 in ch14 text
+ch15 15.md                                     ch15 15.md: 8/8 in ch15 text
+ch16 16.md                                     ch16 16.md: 8/8 in ch16 text
+ch17 17.md                                     ch17 17.md: 8/8 in ch17 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：17 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（the-boy-from-the-sea-by-garrett-carr）===
+  ✅ 逐字 1547 ｜ ⚠️ 跨章 17 ｜ 🔶 拼接 14 ｜ 🟠 部分命中 22 ｜ 🟡 词形 3 ｜ ⚪ 术语 1 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 416
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 1 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 松散关键词明细 ──
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 27/27 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 30/30 ✅
+
+=== 总览引文 57/57 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（the-boy-from-the-sea-by-garrett-carr）===
+  参照集：text/（17 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（the-boy-from-the-sea-by-garrett-carr）===
+  带前缀的 `> **原句 N:**` 行：17 个文件共 136 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：17 个 md，问题 0 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
+exit=0
+
+──── a 步：逐脚本原始输出（verify_quotes --full / check_vocab / check_entities / corruption_scan / sweep_full / check_short_quotes / verify_overview_quotes）────
+=== A1 verify_quotes（对 epub + --full 取证）===
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 159/159 引文可核实（100%）；完全干净文件 18/18；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== A2 check_vocab（全量，看 WARN 逐条）===
+词条行合计: 866
+
+--- FAIL (0) ---
+
+--- WARN (15) ---
+  ch03 3.md [基础] 基础档疑含超纲词「arbitrary tasks」
+  ch04 4.md [基础] 基础档疑含超纲词「attention」
+  ch04 4.md [基础] 基础档疑含超纲词「cigarette」
+  ch06 6.md [基础] 基础档疑含超纲词「bright background」
+  ch07 7.md [基础] 基础档疑含超纲词「difficult age」
+  ch10 10.md [基础] 基础档疑含超纲词「enunciation」
+  ch10 10.md [基础] 基础档疑含超纲词「basketball net」
+  ch11 11.md [基础] 基础档疑含超纲词「admission」
+  ch11 11.md [基础] 基础档疑含超纲词「afternoon」
+  ch12 12.md [基础] 基础档疑含超纲词「anthropologist」
+  ch14 14.md [基础] 基础档疑含超纲词「cautiously」
+  ch14 14.md [基础] 基础档疑含超纲词「deathtrap」
+  ch16 16.md [基础] 基础档疑含超纲词「wheelhouse」
+  ch16 16.md [基础] 基础档疑含超纲词「abandoned tackle」
+  ch17 17.md [基础] 基础档疑含超纲词「big decisions」
+
+=== A3 check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== A4 corruption_scan ===
+
+=== 编辑损坏扫描（the-boy-from-the-sea-by-garrett-carr）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== A5 sweep_full ===
+=== 引语整串 flat 比对（the-boy-from-the-sea-by-garrett-carr）===
+  参照集：text/ 逐章（17 章，可定章） + epub 交叉验证
+  ✅ 本章命中 134 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+
+=== A6 check_short_quotes ===
+=== 短引语兜底核对（the-boy-from-the-sea-by-garrett-carr）===
+  verify_quotes 跳过（<20 flat 字符）的引语：2 条 —— 这些主门禁**根本没查**
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== A7 verify_overview_quotes ===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 27/27 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 30/30 ✅
+
+=== 总览引文 57/57 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+──── b 步：17 章逐章归属 ────
+=== B 步 逐章归属（17 章逐一）===
+ch01 1.md: 8/8 in ch01 text
+ch02 2.md: 8/8 in ch02 text
+ch03 3.md: 8/8 in ch03 text
+ch04 4.md: 8/8 in ch04 text
+ch05 5.md: 8/8 in ch05 text
+ch06 6.md: 8/8 in ch06 text
+ch07 7.md: 7/7 in ch07 text（另有 1 条短引语未校验）
+ch08 8.md: 8/8 in ch08 text
+ch09 9.md: 7/7 in ch09 text（另有 1 条短引语未校验）
+ch10 10.md: 8/8 in ch10 text
+ch11 11.md: 8/8 in ch11 text
+ch12 12.md: 8/8 in ch12 text
+ch13 13.md: 8/8 in ch13 text
+ch14 14.md: 8/8 in ch14 text
+ch15 15.md: 8/8 in ch15 text
+ch16 16.md: 8/8 in ch16 text
+ch17 17.md: 8/8 in ch17 text
+
+──── c 步：audit_structure + check_struct_indep + check_overview_full + H1 ────
+=== C1 audit_structure（全量输出）===
+=== 精读结构扫描（the-boy-from-the-sea-by-garrett-carr）===
+  扫 20 个 md、187 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== C2 check_struct_indep（第二实现）===
+=== 独立结构扫描：17 个 md，缺陷 0 处 ===
+
+=== C3 check_overview_full ===
+=== 总览整串核查（the-boy-from-the-sea-by-garrett-carr）===
+  参照集：text/ 逐章（17 章） ｜ 总览文件 3 个
+  A 整串：命中 83 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 10
+  B 章节标签：对 43 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 40 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 2 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== C4 总览三篇 H1（行级 grep，防整文件覆盖事故）===
+notes/books/novels/the-boy-from-the-sea-by-garrett-carr/00_情感节点.md:# 《The Boy from the Sea》情感节点
+notes/books/novels/the-boy-from-the-sea-by-garrett-carr/00_概述.md:# 《The Boy from the Sea》概述
+notes/books/novels/the-boy-from-the-sea-by-garrett-carr/00_金句精选.md:# 《The Boy from the Sea》金句精选
+
+=== C5 章 md H1 ===
+ch01 1.md | # 1.
+ch02 2.md | # 2.
+ch03 3.md | # 3.
+ch04 4.md | # 4.
+ch05 5.md | # 5.
+ch06 6.md | # 6.
+ch07 7.md | # 7.
+ch08 8.md | # 8.
+ch09 9.md | # 9.
+ch10 10.md | # 10.
+ch11 11.md | # 11.
+ch12 12.md | # 12.
+ch13 13.md | # 13.
+ch14 14.md | # 14.
+ch15 15.md | # 15.
+ch16 16.md | # 16.
+ch17 17.md | # 17.
+
+──── d 步机械：check_xref_indep / check_analysis_indep ────
+=== D1 check_xref_indep（第二实现）===
+  ❌ 00_金句精选.md:80 → ch01：证据 ['our enchantment'] 在该章查无
+        句：**呼应关系**：与 ch01「our enchantment」是同一手：全镇用词，全镇就信。
+  ❌ 00_金句精选.md:112 → ch15：证据 ['My father would have', 'My father would have'] 在该章查无
+        句：**呼应关系**：与 ch12「recognized Ambrose's fatalism」、ch15「My father would have」是同一条线上的三处标记。
+  ❌ 00_金句精选.md:136 → ch16：证据 ['they were like sea and shore', 'they were like sea and shore'] 在该章查无
+        句：**呼应关系**：与 ch16「they were like sea and shore」是同一件事的两种说法：一次在雾里，一次在岸上。
+  ❌ 00_金句精选.md:144 → ch14：证据 ["I'd have known", "I'd have known"] 在该章查无
+        句：**呼应关系**：与 ch14「I'd have known」（十分之一秒打发谣言）构成同一位母亲的两种最强：一次要人，一次不用人。
+  ❌ 00_金句精选.md:192 → ch12：证据 ['each word measured and weighed'] 在该章查无
+        句：**呼应关系**：与 ch12 那封「each word measured and weighed」的信是同一个人写的两种东西。
+  ❌ 00_金句精选.md:232 → ch01：证据 ['He promised to come back', 'He promised to come back'] 在该章查无
+        句：**呼应关系**：与 ch01「He promised to come back」的旧船、以及 ch10 全家在岸上的表决是同一艘船的三段史。
+=== chNN 引用 167 处：英文证据报警 6 处 ／ 中文式待人判 117 处 ===
+
+=== D2 check_analysis_indep（第二实现）===
+抽出分析层英文片段 359 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）6 条 —— 只报不判红，须人判：
+  ch09 9.md:85  X had taken care not to say Y
+  ch10 10.md:85  X had finally defeated Y
+  ch11 11.md:41  they’d see first and they’d always speak to
+  ch11 11.md:45  a child's face hovering within an adult one
+  ch13 13.md:45  when X woke up and Y wasn’t
+  ch16 16.md:65  an air of X about someone
