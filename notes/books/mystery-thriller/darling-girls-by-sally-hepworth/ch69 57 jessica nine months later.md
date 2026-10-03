@@ -40,7 +40,7 @@ title: "57 – Jessica（九个月后）"
 
 ### 原句 3
 
-> **原句 3:** 'I've. Been. Maligned.' Miss Fairchild said.
+> **原句 3:** 'I've. Been. Maligned,' Miss Fairchild said.
 
 **中文理解：** 「我**被——诽——谤了。**」Miss Fairchild 说。
 

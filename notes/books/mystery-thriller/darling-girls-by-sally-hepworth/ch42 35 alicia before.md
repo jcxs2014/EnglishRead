@@ -100,7 +100,7 @@ title: "35 – Alicia – Before"
 
 ### 原句 8
 
-> **原句 8:** 'The records show three children in Miss Fairchild's care. You three. There's no record of a toddler being placed for adoption or foster care at Wild Meadows.' Max stood from the desk and pace, tired or frustrated or both. 'According to our records, Amy doesn't exist.'
+> **原句 8:** 'The records show three children in Miss Fairchild's care. You three. There's no record of a toddler being placed for adoption or foster care at Wild Meadows.' Max stood from the desk and paced, tired or frustrated or both. 'According to our records, Amy doesn't exist.'
 
 **中文理解：** 「记录显示 Miss Fairchild 照顾着三个孩子。你们三个。没有任何一条记录显示 Wild Meadows 收养或寄养过一名幼儿。」Max 从桌边站起来踱步，疲惫或沮丧，或两者都有。「根据我们的记录，Amy 不存在。」
 

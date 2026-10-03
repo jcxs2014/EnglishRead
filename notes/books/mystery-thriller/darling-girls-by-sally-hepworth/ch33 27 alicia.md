@@ -52,7 +52,7 @@ title: "27 – Alicia"
 
 ### 原句 4
 
-> **原句 4:** Love and security were the most basic of rights. Forcing these kids to believe they were lucky to have that was even more damaging than what some of them experienced in care.
+> **原句 4:** Love and security were the most basic of rights. Forcing these kids to believe they were lucky to have that was even more damaging than what some of them experienced in care, Alicia thought.
 
 **中文理解：** 爱与安全是最基本的权利。强迫这些孩子相信，拥有它们就已经是幸运——这比他们在寄养中经历的一些东西更具破坏性。
 

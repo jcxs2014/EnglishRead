@@ -64,7 +64,7 @@ title: "The Office of Dr Warren, Psychiatrist（第 1 次问询）"
 
 ### 原句 5
 
-> **原句 5:** The media love the juxtaposition of the whimsical country estate and the atrocities that happened therein. They also love anything to do with foster children. The headlines practically wrote themselves. WILD MEADOWS OR HOUSE OF HORRORS? SECRETS BURIED BENEATH THE WILD MEADOWS. WHAT'S LURKING IN THE WILD MEADOWS
+> **原句 5:** The media love the juxtaposition of the whimsical country estate and the atrocities that happened therein. They also love anything to do with foster children. The headlines practically wrote themselves. WILD MEADOWS OR HOUSE OF HORRORS? SECRETS BURIED BENEATH THE WILD MEADOWS WHAT'S LURKING IN THE WILD MEADOWS
 
 **中文理解：** 媒体热爱**田园乡村庄园**与**其中发生的暴行**之间的并置。他们也热爱任何与寄养孩子有关的东西。这些标题几乎是自己写出来的。WILD MEADOWS 还是恐怖屋？WILD MEADOWS 地底下的秘密。WILD MEADOWS 里潜伏着什么。
 

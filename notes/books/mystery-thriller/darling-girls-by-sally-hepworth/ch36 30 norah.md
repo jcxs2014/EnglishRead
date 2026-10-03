@@ -100,7 +100,7 @@ title: "30 – Norah"
 
 ### 原句 8
 
-> **原句 8:** 'But why would we mention her?' Norah asked. Patel blinked dramatically. 'Seriously?' ... 'And if you'd done your job properly, you would have found this report days ago.' 'And if you'd read the report,' Alicia added, 'you'd know exactly why we didn't mention her.' Patel exhaled. They had her there.
+> **原句 8:** 'But why would we mention her?' Norah asked. Patel blinked dramatically. 'Seriously?' ... 'If you'd done your job properly, you would have found this report days ago.' 'And if you'd read the report,' Alicia added, 'you'd know exactly why we didn't mention her.' Patel exhaled. They had her there.
 
 **中文理解：** 「可我们为什么要提她？」Norah 问。Patel 夸张地眨了眨眼。「认真的吗？」……「如果你们把工作做好，几天前就会找到这份报告。」Alicia 补了一句。「而如果你们读了那份报告，你们就会确切知道我们为什么没提她。」Patel 呼出一口气。这次她们占理了。
 

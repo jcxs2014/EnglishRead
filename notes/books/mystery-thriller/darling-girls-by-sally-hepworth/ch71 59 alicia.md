@@ -88,15 +88,15 @@ title: "59 – Alicia"
 
 ### 原句 7
 
-> **原句 7:** 'Sorry,' she said, rumpling his hair. 'But that'd be us. We are the lucky ones.' — 'I feel so lucky now.' 'For what?' 'Because I have you.'
+> **原句 7:** 'Sorry,' she said, rumpling his hair. 'But that'd be us. We are the lucky ones.'
 
-**中文理解：** 「对不起，」她揉着他的头发说。「但那是我们。我们才是**幸运的那一方**。」——「**我现在觉得很幸运。**」「**幸运什么？**」「**因为我有你们。**」
+**中文理解：** 「**对不起，**」她揉着他的头发说。「**但那是我们。我们才是幸运的那一方。**」
 
-**关键词：** rumpling his hair, But that'd be us, We are the lucky ones, I feel so lucky now, Because I have you
+**关键词：** Sorry, rumpling his hair, But that'd be us, We are the lucky ones
 
-**为什么这样写：** 结尾三句，而作者给了一次**交换**：她说的是 We（我们），他回答时把 We 换成了 **you**（你们）——也就是说，她的「我们」在他那里被**具体化**成了两个具体的人。而 Because I have you（因为我有你们）而不是 Because we're lucky，是因为「幸运」是她的词（ch63 那位导师就是靠这个词不再否认幸运的），而「**我有你们**」是**他的**词。两个词**指同一件事**，用词不同——这正是这一章做的事：把「孤儿」这个词**还给它们应有的主语**。
+**为什么这样写：** 全书最后一句，而它的开头是 **Sorry**——一个**否定**。 Aaron 刚刚要了一句确认（Right?），而 Alicia 拒绝把「幸运」这个单数形容词给他一个人：that'd be us（那是我们），We are the lucky ones（我们才是幸运的那一方）。**主语从 I 变成 we 是这一章的结论**：她曾经对 Aaron 说过「你不幸运，那是你应得的最低限度」，而现在她把同一个词**从一个孩子手里拿走、分给三个人**。而 rumpling his hair（揉他的头发）是全章唯一一次身体接触——她没有拥抱、没有落泪，只是**揉了一下头发**，就像 Grammy 对她做过的那样；而作者不写这一层，让读者自己接上。
 
-**读者视角提示：** 读者会在这三句上第一次意识到：**幸运**这件事，从「我多走运」变成了「我有什么」——而这两句话之间的距离，就是她从受虐者变成母亲所走过的路。
+**读者视角提示：** 读者会在这一句上意识到：**「我们」这个词是这本书唯一真正赚到的东西**。三个女孩花了六十章才保住它，而最后一句话里它只出现了两次——一次在 but 之后，一次在句号之前。
 
 ## 词汇分级
 

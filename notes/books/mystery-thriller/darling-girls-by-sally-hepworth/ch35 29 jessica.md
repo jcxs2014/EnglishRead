@@ -76,7 +76,7 @@ title: "29 – Jessica"
 
 ### 原句 6
 
-> **原句 6:** Thankfully, Jessica had ways of dealing with shame. She tipped two of them out of a bottle and into her hand and then, after a moment's consideration, tipped out another two.
+> **原句 6:** Thankfully, Jessica had ways of dealing with shame. She tipped two of them out of a bottle and into her hand, and then, after a moment's consideration, tipped out another two.
 
 **中文理解：** 幸好，Jessica 有对付羞耻的办法。她从瓶子里倒出两粒到手里，然后想了一下，又倒出两粒。
 

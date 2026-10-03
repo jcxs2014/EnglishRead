@@ -52,7 +52,7 @@ title: "42 – Alicia"
 
 ### 原句 4
 
-> **原句 4:** Alicia's gaze, which had been on Jessica, suddenly bounced back to Dirk. She'd always assumed he'd lied for Miss Fairchild; it had never occurred to her he might be covering his own tracks. She hadn't thought he'd be capable of harming Amy herself. Had she been wrong about that?
+> **原句 4:** Alicia's gaze, which had been on Jessica, suddenly bounced back to Dirk. She'd always assumed he'd lied for Miss Fairchild; it had never occurred to her he might be covering his own tracks. She hadn't thought he'd be capable of harming Amy himself. Had she been wrong about that?
 
 **中文理解：** Alicia 的视线本来在 Jessica 身上，突然弹回 Dirk。她一直以为他是为了 Miss Fairchild 而撒谎；她从没想过他可能是在掩盖**自己的痕迹**。她不认为他有能力伤害 Amy。她**错了吗**？
 

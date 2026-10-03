@@ -28,11 +28,11 @@ title: "18 – Norah"
 
 ### 原句 2
 
-> **原句 2:** Hando made a sympathetic face, but life with her mum hadn't been so bad. Norah had liked the predictability of it. The two of them had a routine. After dinner, she took drugs again. Rinse and repeat.
+> **原句 2:** Hando made a sympathetic face, but life with her mum hadn't been so bad. Norah had liked the predictability of it. The two of them had a routine. Her mother took drugs before she went out for the evening. She arrived home as the sun came up, then slept all day, waking up around the time that Norah got home from school. After dinner, she took drugs again. Rinse and repeat.
 
 **中文理解：** Hando 摆出同情的脸，但和妈妈一起生活其实没那么糟。Norah 喜欢那种**可预测性**。她们俩有一套作息。妈妈出门前先吸毒；太阳升起时回家，然后睡一整天，睡到 Norah 放学回家。吃完饭，她再吸一次。重复。
 
-**关键词：** a sympathetic face, hadn't been so bad, liked the predictability of it, A rinse and repeat
+**关键词：** a sympathetic face, hadn't been so bad, liked the predictability of it, Rinse and repeat
 
 **为什么这样写：** 作者用一个 but 把同情心挡回去：这不是一个需要同情的故事，这是一个关于**秩序**的故事。而 Norah 承认自己从中获得了好处（predictability）——这是全书对寄养创伤最诚实、也最容易被误读为「不配有同情」的一处。而 Rinse and repeat（再来一遍）是洗涤标签上的循环提示，被挪用成一个吸毒日程的结尾：她的童年被工业流程框定了。
 
