@@ -41,7 +41,7 @@ source_text: ch12_chapter_12.txt
 
 **关键词：** offer it freely · use it sparingly · use it in pigments · under extra scrutiny · call the women who run it witches · Better to be cautious
 
-**为什么这样写：** 这段是全书"剂量论"的第一次正式表述：同一种砷，在药房是药、在画室是颜料、在暗账里是毒——物性不变，**用途与目光**决定它是什么。句法上作者让 Maria 用 "But a shop ... witches?" 这个**没有谓语的名词短语**自成一句：半句话悬着，风险不用说完，"Better to be cautious" 就替它收了尾。"call the women who run it witches" 是本章第一次把外部世界的指控（女巫）当作**经营成本**来计算，而不是当作冤屈来申辩。
+**为什么这样写：** 这段是全书"剂量论"的第一次正式表述：同一种砷，在药房是药、在画室是颜料、在暗账里是毒——物性不变，**用途与目光**决定它是什么。句法上作者让 Maria 用 "But a shop … witches?" 这个**没有谓语的名词短语**自成一句：半句话悬着，风险不用说完，"Better to be cautious" 就替它收了尾。"call the women who run it witches" 是本章第一次把外部世界的指控（女巫）当作**经营成本**来计算，而不是当作冤屈来申辩。
 
 **读者视角提示：** 留意砷的入口是 Father Piero——神职人员是供货链条的一环；这条线在本章只说 "owed your mother a debt"，债的内容被 Maria 用一句粗话挡开（"Perhaps she cured an infected boil on his ass."），原文明说无人确知。
 

@@ -41,7 +41,7 @@ source_text: ch27_chapter_27.txt
 
 **关键词：** The words have flown from Carmela’s mouth · came straight from Giulia · You have done so well, getting here · I’m going to help you
 
-**为什么这样写：**这是"她成为母亲"被写成不由自主的一刻。have flown... before she can realize 这个时间差是全段最要紧的一处：Carmela 不是学着说这句话，而是这句话先她一步出口——这几章偷来的东西早已内化成反射。You are not dying. You are living. 两句结构对称、只换掉一个词，是急救里"给身体一个方向"的典型话术；而作者随即点明它的源头是母亲（came straight from Giulia），当着读者的面把母女缝在了一起。末句 You have done so well, getting here 把"撑到药铺"变成一件值得表扬的功绩，好让女孩有理由继续醒着。
+**为什么这样写：**这是"她成为母亲"被写成不由自主的一刻。have flown… before she can realize 这个时间差是全段最要紧的一处：Carmela 不是学着说这句话，而是这句话先她一步出口——这几章偷来的东西早已内化成反射。You are not dying. You are living. 两句结构对称、只换掉一个词，是急救里"给身体一个方向"的典型话术；而作者随即点明它的源头是母亲（came straight from Giulia），当着读者的面把母女缝在了一起。末句 You have done so well, getting here 把"撑到药铺"变成一件值得表扬的功绩，好让女孩有理由继续醒着。
 
 **读者视角提示：**回看第 1 章，那时 Carmela 只是躲在柜后一滴一滴地吸收母亲的手艺；此处是那些手艺第一次自己从她嘴里流出——她还没资格当 La Tofana，身体已经先替她当了。
 

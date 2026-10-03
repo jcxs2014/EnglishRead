@@ -52,7 +52,7 @@ source_text: ch11_chapter_11.txt
 
 **关键词：** Something sick turns over in Carmela’s stomach · Wait. My father · only the vaguest memory · gone before Carmela was speaking full sentences · a monster who needed vanquishing
 
-**为什么这样写：**追问从抽象回到血肉——"My father?" 二字把整场关于"毒与怪物"的讨论，猛地拽回 Carmela 自身的来历。作者的狠处在"doesn’t know if it would be worse to find out her mother had killed him, or ... he had been a monster who needed vanquishing"：她给读者摆出**两杯毒酒**（母亲是凶手／父亲是恶人），无论选哪杯都苦——这正是"the third possibility"登场前的心理真空。"gone before Carmela was speaking full sentences" 用语言能力丈量记忆深度：父亲消失在她"说不出整句话"之前，意味着她永远没有为他组织过一句完整的话，只能任由别人（母亲）填注他的身份。"needed vanquishing"（需要被征服／被除去）一词冷峻，仿佛那男人是一种非人的灾祸。
+**为什么这样写：**追问从抽象回到血肉——"My father?" 二字把整场关于"毒与怪物"的讨论，猛地拽回 Carmela 自身的来历。作者的狠处在"doesn’t know if it would be worse to find out her mother had killed him, or … he had been a monster who needed vanquishing"：她给读者摆出**两杯毒酒**（母亲是凶手／父亲是恶人），无论选哪杯都苦——这正是"the third possibility"登场前的心理真空。"gone before Carmela was speaking full sentences" 用语言能力丈量记忆深度：父亲消失在她"说不出整句话"之前，意味着她永远没有为他组织过一句完整的话，只能任由别人（母亲）填注他的身份。"needed vanquishing"（需要被征服／被除去）一词冷峻，仿佛那男人是一种非人的灾祸。
 
 **读者视角提示：**"Something sick turns over" 是全章唯一写 Carmela 身体的句子，比任何台词都诚实——理智上她护母亲，胃先替她害怕。
 
@@ -72,7 +72,7 @@ source_text: ch11_chapter_11.txt
 
 **关键词：** Carmela allows Giulia to approach · fasten the locket around her neck · It’s nearly weightless · pulsing so close to her heart · this remnant of the grandmother she never knew
 
-**为什么这样写：**收束全章的是一枚**几乎没有分量的重物**。作者用一组悖论撑起结尾："nearly weightless"（物理上轻）对 "feels it there, pulsing so close to her heart"（情感上压得人发慌），一件金属坠子被写成第二颗心脏。动词 "allows ... to approach" 极有分寸——上一段 Carmela 还"steps out of reach"（本能躲开这份像诀别的东西），此刻是她**点头许可**，母女权力完成交接。"this remnant of the grandmother she never knew" 把 Costanza（第 10 章那位杀夫被绞的母亲）缩成"她素未谋面的外祖母"一个抽象符号：传承不是见到的人，而是一件来路、一种命运。
+**为什么这样写：**收束全章的是一枚**几乎没有分量的重物**。作者用一组悖论撑起结尾："nearly weightless"（物理上轻）对 "feels it there, pulsing so close to her heart"（情感上压得人发慌），一件金属坠子被写成第二颗心脏。动词 "allows … to approach" 极有分寸——上一段 Carmela 还"steps out of reach"（本能躲开这份像诀别的东西），此刻是她**点头许可**，母女权力完成交接。"this remnant of the grandmother she never knew" 把 Costanza（第 10 章那位杀夫被绞的母亲）缩成"她素未谋面的外祖母"一个抽象符号：传承不是见到的人，而是一件来路、一种命运。
 
 **读者视角提示：**挂坠盒串起三代女儿（Costanza→Giulia→Carmela），是全书"母系以护女之名行非常之事"这条暗线的**物证**；本章到此只完成"戴上"，尚未让 Carmela 说出"接下这桩差事"——那是后文的事，勿在此替她表态。
 

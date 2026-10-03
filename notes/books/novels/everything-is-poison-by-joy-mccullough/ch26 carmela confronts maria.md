@@ -54,7 +54,7 @@ source_text: ch26_chapter_26.txt
 
 **关键词：** Maria isn't being fair · Maria cannot claim to know how she feels · Maria encouraged Giulia to go · She agreed with Father Piero · she convinced Giulia to leave · She has no right · rouses herself · grown taller than this woman before her · this woman who claims to be a mother to her own · If you care so much · why did you turn her in to be hanged
 
-**为什么这样写：** 三段连排完成本章的**唯一一次翻转**。第一段是内心反驳——三个短句 "She agreed... she convinced... She has no right" 用简单过去时把 Maria 从"共感者"降为**同谋者**：上一段 Maria 的 "I feel it too"（我懂）在这里被"you pushed her out"（你劝她走）抵消。第二段是全章最关键的一句身体观察："she has grown taller than this woman before her"——Carmela 的**身高变化**第一次被她意识到，作者特意不写成抒情成长，而写成**质问前的物理条件**（要问罪，先站高）。第三段的对白用条件句起手："If you care so much," 直接把 Maria 整段斥责的立足点（care = 在乎）借过来，再反问 "then why did you turn her in to be hanged?"。这一句把第 24 章读者已经知道、Carmela 一直未点破的事，**由她亲口说出**——"turn her in"（把她交出去）＋ "to be hanged"（去上绞架）——两句之间没有一个词是修辞。
+**为什么这样写：** 三段连排完成本章的**唯一一次翻转**。第一段是内心反驳——三个短句 "She agreed… she convinced… She has no right" 用简单过去时把 Maria 从"共感者"降为**同谋者**：上一段 Maria 的 "I feel it too"（我懂）在这里被"you pushed her out"（你劝她走）抵消。第二段是全章最关键的一句身体观察："she has grown taller than this woman before her"——Carmela 的**身高变化**第一次被她意识到，作者特意不写成抒情成长，而写成**质问前的物理条件**（要问罪，先站高）。第三段的对白用条件句起手："If you care so much," 直接把 Maria 整段斥责的立足点（care = 在乎）借过来，再反问 "then why did you turn her in to be hanged?"。这一句把第 24 章读者已经知道、Carmela 一直未点破的事，**由她亲口说出**——"turn her in"（把她交出去）＋ "to be hanged"（去上绞架）——两句之间没有一个词是修辞。
 
 **读者视角提示：** "turn her in to be hanged" 是本章唯一的直接指控；它把第 24 章开篇那段 Maria 的伪证（"feign dismay at her disappearance"）在女儿口中重写成一句罪名。
 

@@ -31,7 +31,7 @@ source_text: ch05a_the_laboring_mother.txt
 
 **关键词：** There is a woman · like Signora Valenti · but not · who wakes to the bells · a few minutes east of the apothecary · just past Via del Corso · so insistent it presses its feet · against their shared wall of her belly · and she can count the toes
 
-**为什么这样写：**作者用了与《The Witch》《The Wife》《The Widower》同一套开场模板（**There is a woman like X but not**）——but not 独占一行、只有 7 个字符，**这个断行本身就是诗法**：读者读到 but not 会先以为"这个人不是我们熟悉的那位"，但接下来的 who wakes 又把这个陌生人**重新推近**（就在药铺往东几分钟）。地理被当作人物来写（a few minutes east of the apothecary / just past Via del Corso），呼应 ch04a 结尾那句 "you can walk there from the apothecary"——合唱诗把整座城市画在药铺周围。真正关键的是最后两行：**their shared wall of her belly**（她和它共用的那面墙）与 she can count the toes——作者用**共用**一词把胎儿与母体写成**同居室友**；能数清脚趾这一具体动作是全诗第一次"她几乎已经看见它"。
+**为什么这样写：**作者用了与《The Witch》《The Wife》《The Widower》同一套开场模板（**There is a woman like X but not**）——but not 独占一行、只有 7 个字符，**这个断行本身就是诗法**：读者读到 but not 会先以为"这个人不是我们熟悉的那位"，但接下来的 who wakes 又把这个陌生人**重新推近**（就在药铺往东几分钟）。地理被当作人物来写（a few minutes east of the apothecary / just past Via del Corso），呼应 ch04a 首节末尾那句 "but you can walk there from the apothecary."——合唱诗把整座城市画在药铺周围。真正关键的是最后两行：**their shared wall of her belly**（她和它共用的那面墙）与 she can count the toes——作者用**共用**一词把胎儿与母体写成**同居室友**；能数清脚趾这一具体动作是全诗第一次"她几乎已经看见它"。
 
 **读者视角提示：**请别把这位母亲读作 Signora Valenti 本人——诗里明确 but not；她是本书合唱里那**一类**正在生产的妇人，而不是编号章 ch05 里 Maria 赶去的那一户。
 

@@ -52,7 +52,7 @@ source_text: ch27a_the_mother.txt
 
 **关键词：** It’s honest work her daughter does · money for services rendered · what you see is what you get · will always be required · the lurking chance · of danger · the customer who feels exposed · who lashes out to show his power · Men are so frail that way
 
-**为什么这样写：**这一节是母亲替女儿的营生算的一笔账。It’s honest work... nothing more honest really / than money for services rendered——services rendered（已交付的劳务）本是契约、账簿上的措辞，作者偏让它从一位码头母亲口中抬到"最诚实"的位置；紧接一句市井套话 what you see is what you get（所见即所得）叠上去，两种语域并置，正是她说服自己安生的方式。will always be required（总会被需要）再把这门生意写成天气般的常态。真正的转折在 but always there’s the lurking chance 之后：作者把 lurking chance 与 of danger 拆成两行（跨行 enjambement），让 danger 单独悬在行里，读者先撞上 lurking 的"潜伏"，才等到它落地；随后 of the customer who feels exposed / vulnerable... 又跨行，把 exposed 与 vulnerable 分派在行尾与行首，恰好演示"被看穿 → 变得脆弱"的连锁。末行 Men are so frail that way 是全节判词——它把施暴的可能说成一种**弱点**而非力量：那个要靠发作来"显示 power"的人，恰恰是因为 frail。
+**为什么这样写：**这一节是母亲替女儿的营生算的一笔账。It’s honest work her daughter does, / nothing more honest really / than money for services rendered——services rendered（已交付的劳务）本是契约、账簿上的措辞，作者偏让它从一位码头母亲口中抬到"最诚实"的位置；紧接一句市井套话 what you see is what you get（所见即所得）叠上去，两种语域并置，正是她说服自己安生的方式。will always be required（总会被需要）再把这门生意写成天气般的常态。真正的转折在 but always there’s the lurking chance 之后：作者把 lurking chance 与 of danger 拆成两行（跨行 enjambement），让 danger 单独悬在行里，读者先撞上 lurking 的"潜伏"，才等到它落地；随后 of the customer who feels exposed / vulnerable… 又跨行，把 exposed 与 vulnerable 分派在行尾与行首，恰好演示"被看穿 → 变得脆弱"的连锁。末行 Men are so frail that way 是全节判词——它把施暴的可能说成一种**弱点**而非力量：那个要靠发作来"显示 power"的人，恰恰是因为 frail。
 
 **读者视角提示：**请注意 exposed / vulnerable 在诗里修饰的是那个客人，不是女儿——作者先把"脆弱"一词交给施害者，再留给下一节的等待者，两种脆弱请读者自行对照。
 
@@ -90,7 +90,7 @@ source_text: ch27a_the_mother.txt
 
 **关键词：** So far · her children have returned · like her daughter does now · key in the lock · drops her shoulders · closes her eyes · lets sleep pull her under
 
-**为什么这样写：**末节把前面所有紧绷一口气卸掉。So far 独立成行、孤悬节首——它既是对上节"怕绳断"的暂时回答（迄今为止都平安），又是本书韵文惯用的悬置：两个字先吊住读者的希望，随后 her children have returned 才把话说完。like her daughter does now / key in the lock 是全诗的**回扣**：第一节末行那句 she hears her key in the lock. 里，母亲只敢"等"的一声，此刻原样重现，而这一回它真的响了，等待被兑现。末三行 drops her shoulders / closes her eyes / and lets sleep pull her under. 是一串不带形容词的**连动**卸力：肩膀落下、眼睛闭上、把身体交给睡意——作者把一位母亲一整夜的戒备，压进三个动作里。and 被提到行首（and lets sleep pull her under.），让"放下"这最后一个动作单独占一拍；而 pull her under 与上节 they pull... on the tether 共用一个 pull——同一股"拉"的力，一处是担忧把孩子往外扯，一处是解脱把她往下拽。
+**为什么这样写：**末节把前面所有紧绷一口气卸掉。So far 独立成行、孤悬节首——它既是对上节"怕绳断"的暂时回答（迄今为止都平安），又是本书韵文惯用的悬置：两个字先吊住读者的希望，随后 her children have returned 才把话说完。like her daughter does now / key in the lock 是全诗的**回扣**：第一节末行那句 she hears her key in the lock. 里，母亲只敢"等"的一声，此刻原样重现，而这一回它真的响了，等待被兑现。末三行 drops her shoulders / closes her eyes / and lets sleep pull her under. 是一串不带形容词的**连动**卸力：肩膀落下、眼睛闭上、把身体交给睡意——作者把一位母亲一整夜的戒备，压进三个动作里。and 被提到行首（and lets sleep pull her under.），让"放下"这最后一个动作单独占一拍；而 pull her under 与上节 they pull a little harder / on the tether 共用一个 pull——同一股"拉"的力，一处是担忧把孩子往外扯，一处是解脱把她往下拽。
 
 **读者视角提示：**全诗结束在一个被动的动作上（睡意把她拖下去）；与第 27 章里那位彻夜未睡、独自在柜台前救人的女孩恰成对照——这一首诗里没有人死去，只有一位母亲终于敢睡。
 

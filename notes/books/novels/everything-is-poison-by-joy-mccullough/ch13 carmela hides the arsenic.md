@@ -46,7 +46,7 @@ Giulia 眼里烧起来：'不，Carmela。我不想让我唯一的女儿被法�
 
 **关键词：** the fewer people who know a deadly secret · tortured into revealing it · You don’t trust me · disfigured by the magistrate’s lackeys · under pain of death · only your Apothecary Master now
 
-**为什么这样写：** Giulia 的辩护术是**把比较级交给女儿自己算**："the fewer... the fewer..." 连排，不给结论给公式；这个公式的可怕之处在于它把酷刑（tortured into revealing）当作一个中性的泄密概率来运算。Carmela 的反弹只有三个词的问句——"You don’t trust me?"——把安全问题瞬间改写成感情问题；而 Giulia 的爆发精确地接住了这个改写：她连用两个反问（Is that all right by you? / Am I allowed to be your mother anymore...）承认了女儿的重心——她争的从来不是知情权，是**被当女儿**。"Apothecary Master" 这个自称把职业头衔从称呼变成刑具：她不是不愿兼任，是无法兼任。
+**为什么这样写：** Giulia 的辩护术是**把比较级交给女儿自己算**："the fewer… the fewer…" 连排，不给结论给公式；这个公式的可怕之处在于它把酷刑（tortured into revealing）当作一个中性的泄密概率来运算。Carmela 的反弹只有三个词的问句——"You don’t trust me?"——把安全问题瞬间改写成感情问题；而 Giulia 的爆发精确地接住了这个改写：她连用两个反问（Is that all right by you? / Am I allowed to be your mother anymore…）承认了女儿的重心——她争的从来不是知情权，是**被当女儿**。"Apothecary Master" 这个自称把职业头衔从称呼变成刑具：她不是不愿兼任，是无法兼任。
 
 **读者视角提示：** 这一段里，"my only daughter" 与 "under pain of death" 把法律后果直接摊在 Carmela 面前；说这话的当口她还没被允许知道藏匿计划，本章后半她就独自进了教堂地产——"不被当女儿"成了她自己接受的代价。
 
@@ -58,7 +58,7 @@ Carmela 自己也不确定这些话是不是真的，就在它们说出口的同
 
 **关键词：** flies to Giulia, who will not face her · an arnica compress · speaking like her mother used to · I want to share the burden · not certain the words are true · But they must be
 
-**为什么这样写：** 这个交接仪式被写成**角色互换的护理现场**：女儿给母亲缠敷料，措辞是母亲哄睡噩梦小孩的旧台词——"speaking like her mother used to when she woke with nightmares" 里的"她"（Carmela 的梦）与"她母亲"两个层级叠在同一句话里，安慰与被安慰的身份彻底对调。真正的重量在最后两句话的短段里：not certain... even as she says them / But they must be——"必须"不是"是真"，是这一家人往下运转的燃料。此处必须说真话，因为下一个动作（藏砷）就是真话。
+**为什么这样写：** 这个交接仪式被写成**角色互换的护理现场**：女儿给母亲缠敷料，措辞是母亲哄睡噩梦小孩的旧台词——"speaking like her mother used to when she woke with nightmares" 里的"她"（Carmela 的梦）与"她母亲"两个层级叠在同一句话里，安慰与被安慰的身份彻底对调。真正的重量在最后两句话的短段里：not certain… even as she says them / But they must be——"必须"不是"是真"，是这一家人往下运转的燃料。此处必须说真话，因为下一个动作（藏砷）就是真话。
 
 **读者视角提示：** 注意这个场景的道具：山金车（arnica）是治跌打损伤的药。母亲刚捶了柜台，女儿此刻用母亲店里最正经营生的药膏去包那只打痛的手——"正当"与"犯罪"在同一只手、同一罐药里同时出现。
 

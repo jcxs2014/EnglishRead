@@ -51,7 +51,7 @@ source_text: ch09_chapter_9.txt
 
 **关键词：** Carmela picks it up and studies it · Twelve hundred men killed by a single woman · She shivers · got access to the ingredients in the apothecary · take out half of Campo Marzio
 
-**为什么这样写：**就在 Giulia 和 Maria 把传单的数字当笑话算（"four a week? …They’d burn all the women as witches"）的时候，作者切给 Carmela 一个私人的反应。"Twelve hundred men killed by a single woman" 是把她刚读到的话在脑中重述一遍，短句、无动词铺陈，像一声心跳。"She shivers" 是全章她唯一一次身体先于语言的反应，与母亲和 Maria 的"laughing"形成对照——众人当荒诞，她感到的是**可能**。关键的落点在 "if someone like that ever got access to the ingredients in the apothecary"：她想的是自家药铺的原料库，也就是她伸手可得的东西。这一念紧接着就被下一段坐实——"Carmela’s mind glances off the package still in the pocket of her cloak."（她的思绪掠过斗篷口袋里那只包）。作者让读者先于角色之外的任何人，意识到她身上正带着一个来路不明的纸包。
+**为什么这样写：**这一段插在大人的两段话之间——Giulia 刚把传单甩到柜台上（"Giulia tosses the leaflet onto the counter"），下一段她自己先笑出声来（"Giulia is laughing. Actually laughing, joined by Maria."），把传单上的数字当算术题算（"That’s what…four a week?"，随后另起一段的 "They’d burn all the women as witches before the first month was up!" 原文没有标说话人）；作者偏偏在这中间切给 Carmela 一个私人的反应。"Twelve hundred men killed by a single woman" 是把她刚读到的话在脑中重述一遍，短句、无动词铺陈，像一声心跳。"She shivers" 是全章她唯一一次身体先于语言的反应，与母亲和 Maria 的"laughing"形成对照——众人当荒诞，她感到的是**可能**。关键的落点在 "if someone like that ever got access to the ingredients in the apothecary"：她想的是自家药铺的原料库，也就是她伸手可得的东西。这一念紧接着就被下一段坐实——"Carmela’s mind glances off the package still in the pocket of her cloak."（她的思绪掠过斗篷口袋里那只包）。作者让读者先于角色之外的任何人，意识到她身上正带着一个来路不明的纸包。
 
 **读者视角提示：**"take out half of Campo Marzio" 是想象，不是计划——留意作者把这条悬念挂在 Carmela 一人身上：药铺里其他三人都把传说一笑置之，唯独她把它和"我们的原料""我口袋里那只包"接上了线。这个连接下一章会被 Giulia 撞破。
 
