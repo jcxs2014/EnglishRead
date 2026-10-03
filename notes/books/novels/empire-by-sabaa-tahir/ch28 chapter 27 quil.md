@@ -60,7 +60,7 @@ modified: "2026-10-03"
 
 **关键词：** what little Quil did get was haunted by Ruh · as they sat together in the cave where he died · A dreamworker can only ever appear as themselves · But Ruh was dead
 
-**为什么这样写：** 作者把一条规矩和一次违规摆进同一段里对质。开头先用 elusive 与 what little 把睡眠压到可有可无，再让 ruh 以死前的尺寸出现，small 一词让读者先看见身体再看见鬼。中间那句 Even dreaming 把推理写进梦里，说明角色清醒地违规；紧接着重复一句织梦者的规矩，让读者自己撞上矛盾；最后的 But Ruh was dead 只有五个词，用最短的句子把刚立好的规矩掀翻。
+**为什么这样写：** 作者把一条规矩和一次违规摆进同一段里对质。开头先用 elusive 与 what little 把睡眠压到可有可无，再让 ruh 以死前的尺寸出现，small 一词让读者先看见身体再看见鬼。中间那句 Even dreaming 把推理写进梦里，说明角色清醒地违规；紧接着重复一句织梦者的规矩，让读者自己撞上矛盾；最后的 But Ruh was dead 只有四个词，用最短的句子把刚立好的规矩掀翻。
 
 **读者视角提示：** 这里是全章悬疑的支点：规则说不可能发生，梦却发生了；请把这两句当作未解的矛盾，而不是已经解答的设定。
 

@@ -10,7 +10,7 @@ modified: "2026-10-03"
 - **一句话概括**：十岁的 Ruhyan Veturius 死后灵魂飘进 Waiting Place，遇到担任 Soul Catcher 的祖母 Nan 与那里的存在 Mauth；Nan 当面告诉他母亲才是放出怪物的那个"讲故事的人"，Mauth 则说他的死本不该发生、必须把他送去 Owa Khel，Ruh 以"复仇多于安息"换来了自己的一次选择，跟着 Nan 走进黑暗。
 - **情感弧线位置**：全书第一部（Part I: Loyal）的情感起点。此前的全部损失被压在 ch01 的编年史交底里，本章第一次让一个具体的孩子用自己的声音去承受它——从"我被朋友害死了"走到"我要回去讨这笔债"，恨意被写得很清楚，但作者始终没有让它变成正义。
 - **人物弧线**：Ruh 从自认被辜负的孩子变成主动要求复仇的人，中间隔着的不是时间而是一次知情——知道母亲做了什么之后，他仍然选了愤怒。Nan 从按规矩办事的 Soul Catcher 变成当场破例的祖母，她能顶住 Mauth，只为让孩子自己决定。Mauth 则是本章头一次以命令口吻出现的力量：它把一个十岁死者的死写成自己计划之外的差错。
-- **叙事手法**：亡者第一人称。整章靠对话推进，且叙述者把大量时间花在回忆与比喻上（愤怒比作兀鹫雏鸟、等待比作织机上拉紧的线）。Mauth 的发言一律不用引号、直接成段，与 Nan 和 Ruh 的对话在版面上就分得开；信息投放靠 Nan 的两次长段交代完成，第一次说"你母亲写的书"，第二次才补上 Kehanni、Duranis 与被销毁的那一批。
+- **叙事手法**：亡者第三人称限制视角（叙述紧贴 Ruh）。整章靠对话推进，且叙述者把大量时间花在回忆与比喻上（愤怒比作兀鹫雏鸟、等待比作织机上拉紧的线）。Mauth 的发言一律不用引号、直接成段，与 Nan 和 Ruh 的对话在版面上就分得开；信息投放靠 Nan 的两次长段交代完成，第一次说"你母亲写的书"，第二次才补上 Kehanni、Duranis 与被销毁的那一批。
 
 ## 精读
 
@@ -22,7 +22,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章第一句用一个完成时的短陈述把死讯落定，紧跟的 He knew this because 把死因压进原因从句，两个句子谁死了、怎么死的、是谁在说话一次交代完，不留缓冲。a monster of hunger and shadows 用两个 of 短语把怪物写成两种属性的叠加，而不是一种动物；ripped his heart out 更是把死法写成有方向的暴力动作——不是"被杀害"，是"被掏空"，正好对应下一段他自述的 weary without his heart。
 
-**读者视角提示：** 亡者第一人称从第一句就确立，后面所有关于灵魂、幽灵的描写都建立在这个视角上；注意那只怪物在本章要等 Nan 开口才被点名，而此刻读者只有"饥饿与影子"这个描述。
+**读者视角提示：** 这个贴着死者的第三人称视角从第一句就确立，后面所有关于灵魂、幽灵的描写都建立在这个视角上；注意那只怪物在本章要等 Nan 开口才被点名，而此刻读者只有"饥饿与影子"这个描述。
 
 > **原句 2:** "Ilar had come to his Tribe months ago. Asked for help finding a story. Listened to Ruh, laughed with him, made him feel special, like they were friends. And after Ruh aided her, she repaid him by allying with the demon that ate Ruh’s heart."
 
@@ -52,7 +52,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 世界的第一次投放不靠解释，靠一个孩子的记忆路径：先说他从没有听过，再说他这次又知道那是谁，转折落在 because of Ama’s stories——一个十岁死者之所以能认出它，是因为母亲讲过故事，设定的进入点因此落在家庭而不是宇宙。两个 of 结构把 Mauth 写成两个尺度（这个死后之地的核心、这个世界全部魔法的源头），一句之内既定义又升级。
 
-**读者视角提示：** 本章此后 Mauth 会反复开口，它说话不用引号、直接成段，在版面上与 Nan 的对话分开；Nan 也说它 rules 那片地方、代词用 he，因此后面提到 Mauth 时宜按"男性存在的规则"来读，不要当成无名之物。
+**读者视角提示：** 本章此后 Mauth 会反复开口，它说话不用引号、直接成段，在版面上与 Nan 的对话分开；叙述则写它 ruled 那片地方、代词用 he，因此后面提到 Mauth 时宜按"男性存在的规则"来读，不要当成无名之物。
 
 > **原句 5:** "Div spoke to her, for she is a corrupt and ancient magic and had been waiting for a sympathetic audience."
 

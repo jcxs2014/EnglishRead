@@ -7,20 +7,20 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：精灵的 Umber 只肯带 Quil 一人，把 Arelia 与 Sufiyan 留在原地，随后带他穿过一道门抵达精灵城 Sher Jinaat；七人议会之首 Diriya 拒绝宽恕也不指责他偷用记忆魔法，反而告诉他记忆不止能被取走，还能被给予与揭露，最后交代精灵要他去把 Sirsha 带来——因为只有一个尚未命名的精灵孩子"有可能"找出那个扭曲了世界的错误故事，而找到它的代价多半是一条命。
+- **一句话概括**：精灵的 Umber 只肯带 Quil 一人，把 Arelia 与 Sufiyan 留在原地，随后带他穿过一道门抵达精灵城 Sher Jinaat；七人议会之首 Diriya 拒绝宽恕也不指责他偷用记忆魔法，反而告诉他记忆不止能被取走，还能被给予与揭露，最后交代精灵要他去把 Sirsha 带来——因为"能发现那个扭曲了世界的错误故事"的只有一个人，而找到它的代价多半是一条命；本章另有一处提到精灵族唯一的、尚未命名的孩子，说她有朝一日会成为他们的女王。
 - **情感弧线位置**：全章是一次由"被审视"到"被托付"的滑移。前半段的冷最重：被夺走朋友、被告知精灵从不插手人类的灭族、还得听完"我们看见过你们被收割"这种带着事实的冷漠；中段关于魔法的讲解是唯一一次松绑，后半段的反转与最后的两难把这份松开重新压回去，而且压得比开场更低——他带走的不是答案，是一根不知道轻重的火柴。
 - **人物弧线**：Quil 在本章两次改写自己的判断：先是因用了魔法而当众羞愧，被一句斧锯之喻换掉；再是听到"只有她能找出真相"时立刻认定那人就是 Aiz，并毫不遮掩地想用镣铐把她拖来。而在这两处之间还有第三层——当 Diriya 点名 Sirsha 时，他没有照办，而是搬出 Adah 誓约要求解释与安全保证；从服从到谈条件，是他本章真正的转折。
 - **叙事手法**：贴 Quil 的第三人称限知，穿插大段精灵引语。全章按空间切成三段推进：林边拦路、城中步行、河边长谈——越走越静、话题越重，城中管道之乐作为背景音反复出现，与结尾"毁灭与重生两条路"那句形成对照。作者靠"打乱预期"维持张力：读者以为来的是审判，得到的却是复述；读者以为要的是 Aiz，得到的却是他最不愿交出去的人。
 
 ## 精读
 
-> **原句 1:** "I will uphold the treaty between the Empire and the jinn until my death. I will ensure any heir of mine swears to do the same within a week of their fourteenth yearfall."
+> **原句 1:** "I will uphold the treaty between the Empire and the jinn until my death. I will ensure any heir of mine swears to do the same within a week of their fourteenth yearfall. Not doing so will result in assassination by the jinn and the end of the Aquilla line of Emperors. This I swear, by blood and by bone."
 
-**中文理解：** "'我将维护帝国与精灵之间的条约，直到我死。我保证我所生的任何继承人都要在其第十四个年降之后的七日内宣誓同样维护此事。'"
+**中文理解：** "'我将维护帝国与精灵之间的条约，直到我死。我保证我所生的任何继承人都要在其第十四个年降之后的七日内宣誓同样维护此事；不照做就招来精灵的刺杀，Aquilla 皇朝这一脉也就到此为止。我以血与骨起誓。'"
 
 **关键词：** uphold the treaty · until my death · swears to do the same · within a week of their fourteenth yearfall
 
-**为什么这样写：** 一段誓言被拆成两句，是因为第一句属于说话的人，第二句属于还没出生的人。作者用 until my death 给誓约加了寿命的顶，又立刻把负担推给下一代——swears to do the same 的主语是任何继承人，而 within a week of their fourteenth yearfall 给这个义务定了时限。誓约因此不是一个人的承诺，是一条需要被继承的制度；谁忘了，赔上的就不是他自己。
+**为什么这样写：** 一段誓言被拆成四句：前两句属于说话的人与还没出生的人，第三句才给出违约的代价，末句把它按回起誓的格式。作者用 until my death 给誓约加了寿命的顶，又立刻把负担推给下一代——swears to do the same 的主语是任何继承人，而 within a week of their fourteenth yearfall 给这个义务定了时限；紧跟着的 Not doing so will result in assassination 把这份义务变成有牙齿的条款，于是誓约不是一个人的承诺，是一条需要被继承的制度；谁忘了，赔上的就不是他自己。
 
 **读者视角提示：** 请注意这是 Quil 十四岁时替他姑母宣读的句子，那时他还不曾追问"条约值不值得"。本章他被 Umber 带进精灵城，而这条誓约正是他此刻唯一还站得住的立场。
 

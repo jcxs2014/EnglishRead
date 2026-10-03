@@ -40,7 +40,7 @@ modified: "2026-10-03"
 
 **关键词：** After considering · she’d overheard · the only way to get the coin · was to steal it
 
-**为什么这样写：** 决定被写成一句被动式的推论：it was to steal it，把行动者从她身上抹掉，仿佛是形势替她做的选择。the only way 把手段压成唯一解，作者不给任何折中方案；After considering 那一长串宾语既是拖延也是决心——想得越久，越只剩这一条路可走。而下一行的 Which would require her to get close to Quil. Very close. 把偷窃的前置条件变成一次必须完成的亲近，让计划本身把两个人推到一起。
+**为什么这样写：** 决定被写成一句主动式的推论：the only way to get the coin was to steal it，唯一的路子一旦被认下，剩下的动作就不再是选择而是执行。the only way 把手段压成唯一解，作者不给任何折中方案；After considering 那一长串宾语既是拖延也是决心——想得越久，越只剩这一条路可走。而下一行的 Which would require her to get close to Quil. Very close. 把偷窃的前置条件变成一次必须完成的亲近，让计划本身把两个人推到一起。
 
 **读者视角提示：** 记住这个「偷」字：她本章刚承认自己刚对他撒过谎，章末 Div 说的正是 learned to lie。
 
@@ -60,7 +60,7 @@ modified: "2026-10-03"
 
 **关键词：** she seems docile · always wearing on my willpower · Always looking for a weakness · I don’t want to love you
 
-**为什么这样写：** 全章最坦白的一段，句子越短越抖。两个 always 重复的小句被独立成行，像一句句敲在桌面上的话，把 Div 的性质从「怪物」改写成具体的战术：她不是一直在挣扎，她一直在耗。而 Sometimes, she seems docile 用一个看似让步的转折，恰恰坐实了 Always。破折号 I—I 紧接 don’t want，是全章唯一一处语言层面的失态，把她最想说的话推迟了半秒才说出来。
+**为什么这样写：** 全章最坦白的一段，句子越短越抖。两个 always 重复的小句被独立成行，像一句句敲在桌面上的话，把 Div 的性质从「怪物」改写成具体的战术：她不是一直在挣扎，她一直在耗。而 Sometimes, she seems docile 用一个看似让步的转折，恰恰坐实了 Always。破折号 I—I 紧接 don’t want，是本章三处语言层面的失态里最重的一处，把她最想说的话推迟了半秒才说出来。
 
 **读者视角提示：** 她说的是「不想」，不是「没有」；本章后面她的身体和他的回答都证明这个词撑不住。
 

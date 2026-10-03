@@ -46,7 +46,7 @@ modified: "2026-10-03"
 
 > **原句 4:** "“Sirsha was the greatest Inashi we’d seen in an age. Yet she bound herself to you. Even for an outcast, it was highly irresponsible of her. Hear me, boy. The girl you loved is lost. Forget her.”"
 
-**中文理解：** "'Sirsha 是我们这个年纪的人里见过的最出色的 Inashi。可她偏偏把自己绑在了你身上。就算对方是个被放逐的族人，这也太不负责任了。听着，小子，你爱的那个女孩已经完了。忘了她。'"
+**中文理解：** "'Sirsha 是我们这个年纪的人里见过的最出色的 Inashi。可她偏偏把自己绑在了你身上。就算她自己是被逐出族的人，这也太不负责任了。听着，小子，你爱的那个女孩已经完了。忘了她。'"
 
 **关键词：** the greatest Inashi · it was highly irresponsible of her · The girl you loved is lost
 
@@ -72,7 +72,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 作者不写 Quil 内心天人交战，他写他的一部分"在低语"。这个拟人化的小动作把诱惑从念头降格成声音，于是接下来的三句短句听起来像耳语而不是推理：You could…／So easy.／She wouldn't know.——句号越切越碎，节奏本身就在模拟他拦不住自己的过程。整段最狠的是 She wouldn't know：它把"不道德"包装成"不留下证据"，正是这种自欺的说法让人物显得危险，而不是圣徒。
 
-**读者视角提示：** 注意这段低语紧接着他"曾在心里发过誓"的那段自白之后。也就是说，本章他不是失控，是主动认定此刻属于例外——这条界线一旦越过去，后面他再做的每一件事都得放在"他选择了越线"这个前提上读。
+**读者视角提示：** 注意这段低语写在他"曾在心里发过誓"的那段自白之前——低语在前，誓约紧跟其后，并以 Like now 把两者扣在一起。也就是说，本章他不是失控，是主动认定此刻属于例外——这条界线一旦越过去，后面他再做的每一件事都得放在"他选择了越线"这个前提上读。
 
 > **原句 7:** "His magic surged out of him as he locked glares with the Jaduna. A wave of memory crashed over him—a forest, a room lined with books and scrolls, words in a language he did not speak—and then she cast him out of her mind, cursing."
 
@@ -92,7 +92,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 袭击用的是听觉缺失而不是视觉伏击。作者先写 But Aunt Hel appeared not to have heard 切断她的注意，再写 her eyes widened 把她的反应变成 Quil 此刻来得及读懂的信号，然后用 Quil didn't hear 把攻击者的存在彻底抽掉——读者和 Quil 同时失去了声音这个预警器官，最后只剩一个视觉慢镜头。这个段落的高明在于代价的方向：箭的目标本来是他，擦过他肩膀的也确实是这一支箭，可那句结论写在下一段里。
 
-**读者视角提示：** 记住这支箭的目标与结果在本章是分开的：擦过他肩膀的是它，扎进胸口的是另一条。本章没有交代射箭的人是谁，也不交代这支箭从何而来，任何在此处替作者补一个凶手的写法都会越界。
+**读者视角提示：** 记住这支箭的目标与结果在本章是分开的：擦过 Quil 肩膀的正是扎进 Aunt Hel 胸口的那一支，作者只把落点拆到下一段去写。本章没有交代射箭的人是谁，也不交代这支箭从何而来，任何在此处替作者补一个凶手的写法都会越界。
 
 ## 本章词汇
 

@@ -22,7 +22,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 谈判桌上的胜负手不在事实，而在定义权。作者先用一个 I am 起手，把身份抢过来钉死；紧接着用一串反问替对手命名——a sniveling hanger-on、skulking about this encampment、fomenting dissent——三个词组分别指他的品行、位置与动机，等于当着满帐的人把 Rufius 从可谈判者改写成待处置的对象。而 get our people out of this foxhole 把军事术语换成一个平民词，让这番话同时对上帐里的将领和帐外等着撤离的百姓。
 
-**读者视角提示：** 注意这段话前面那句 He’d never liked Rufius much 与后面的 Now he’d have to crush the man like a cockroach——狠劲不是临时起意，而是早就存在的判断被当下的处境放大了。
+**读者视角提示：** 注意引语之前同一句里的 He’d never liked Rufius much 与紧跟其后的 Now he’d have to crush the man like a cockroach——狠劲不是临时起意，而是早就存在的判断被当下的处境放大了。
 
 > **原句 2:** "Over the next few hours, Quil remained in the cave with his people, exuding calm, even in the moments when his insides felt like they were made of eels."
 
@@ -42,7 +42,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章唯一一次让盟友示弱，而且是私下说的。confessed 这个词把承认疲惫写成了忏悔，暗示她认为这番话不该让旁人听见。And the Kegari still broke through 用一个 still 把刚取得的大胜一笔勾销：赢了二十八艘，却没挡住突破，Quil 立刻明白这场仗不能靠一次胜利收尾。她随后补的那句 We will not be able to put up such a fight again, not for a few days，把代价换算成时间。
 
-**读者视角提示：** 她是本章第一个把坏消息直接说出来的人；Quil 后面对 Atrius、对 Dex 下令时那种不容置疑的口气，源头正在这次坦白。
+**读者视角提示：** 她是本章第一个把坏消息直接说出来的人；Quil 此前对 Atrius、对 Dex 下的那些不容置疑的命令，源头是同一场胜仗之后他自己的判断，而不是这次坦白。
 
 > **原句 4:** "“She seems hells-bent on going to them. Says they’re the only ones who can fix this mess she’s in. Breaking a coin to summon the jackals is a powerful enticement. More powerful than an amorphous threat. Especially if she realizes they vowed to help you in exchange for her.”"
 
@@ -60,7 +60,7 @@ modified: "2026-10-03"
 
 **关键词：** I wish to settle terms · at sunset · Come toward the flames · Come alone
 
-**为什么这样写：** 全章最短也最锋利的一段，因为它把祈使句拆成三句递进：先给诱饵（settle terms），再给时间（at sunset），最后两句才是真正的要求。Come toward the flames 把「向火光走」写成对方无法拒绝的礼貌——总不能朝火光走去还设伏吧，于是这句话本身就是一个陷阱；Come alone 则把这层客气撕开。而 I, along with your spymaster 一开口就取消了「独自」的前提，让收信人立刻意识到这是个套。
+**为什么这样写：** 本块最短的一段，也最锋利，因为它把一段请求拆成四句递进：先给诱饵（settle terms），再给搭子与时间（at sunset），最后两句才是真正的要求。Come toward the flames 把「向火光走」写成对方无法拒绝的礼貌——总不能朝火光走去还设伏吧，于是这句话本身就是一个陷阱；Come alone 则把这层客气撕开。而 I, along with your spymaster 一开口就取消了「独自」的前提，让收信人立刻意识到这是个套。
 
 **读者视角提示：** Quil 读到这封信时 mind snagging on one line——他反复琢磨的是 Come toward the flames 这句，因为 Aunt Hel 说过 I dream that I burn。这封信因此不只是敌方的邀约，还是一次点名。
 

@@ -30,9 +30,9 @@ modified: "2026-10-03"
 
 **关键词：** Red door · Endless sea · No tracking. No magic.
 
-**为什么这样写：** 一个完整的句子被拆成五个短语，每一段都用一个名词起头，像在清点行李。红门、大海、面包铺——这些是具体的物件与场所；可紧接着的两个否定句（不追踪、没有魔法）才是她真正想要的，因为它们点名的正是她现在有的那两样东西。整段梦是清单式的，越整齐越显得廉价；后面那句转折立刻把它推倒，作者不给这个梦留任何实现的时间。
+**为什么这样写：** 一个完整的句子被拆成六个短语，每一段都用一个名词起头，像在清点行李。红门、大海、面包铺、安静——这些是具体的场所与状态；后面那两个否定句（不追踪、没有魔法）才是她真正想要的，因为它们点名的正是她现在有的那两样东西。整段梦是清单式的，越整齐越显得廉价；后面那句转折立刻把它推倒，作者不给这个梦留任何实现的时间。
 
-**读者视角提示：** 注意这五个短语和本章结尾她真正得到的东西正好相反；她要的正是被关在里面的那两样。
+**读者视角提示：** 注意这六个短语和本章结尾她真正得到的东西正好相反；她要的正是被关在里面的那两样。
 
 > **原句 3:** "“But I don’t forgive you, Ma. Because none of you will ever see. You will always assume that I wronged you. And when I hold up a mirror, you’ll flinch and break it and cut yourself and blame me for the blood. You say you want to help me. Then help me. Let me go to the jinn. Let me out of here and get me to one of the portals that will take me north.”"
 

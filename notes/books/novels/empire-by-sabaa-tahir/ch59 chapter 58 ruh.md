@@ -90,7 +90,7 @@ modified: "2026-10-03"
 
 **关键词：** But as to that · Ruhyan Veturius had no answer
 
-**为什么这样写：** 全章用一句作答收尾，而这个回答的主语忽然从通篇的 Ruh 换成完整的名字 Ruhyan Veturius。前面他一直被写作 Ruh、被称作 boy，只有这一句把他还原成一个有父有母的正式人名；as to that 这个回指很轻，轻到读者要回翻才找得到它接的是 Karinna 那句 When, Ruh?
+**为什么这样写：** 全章用一句作答收尾，而这个回答的主语忽然从通篇的 Ruh 换成完整的名字 Ruhyan Veturius。前面他一直被写作 Ruh、被称作 boy，这一句又把他还原成一个有父有母的正式人名（同一个全名本章开头已经用过一次）；as to that 这个回指很轻，轻到读者要回翻才找得到它接的是 Karinna 那句 When, Ruh?
 
 **读者视角提示：** 本章没有给出他看见的未来；这句唯一的「没有」，就是这一章留给读者的形状。
 

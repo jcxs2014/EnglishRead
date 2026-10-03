@@ -30,7 +30,7 @@ modified: "2026-10-03"
 
 **关键词：** nearly in her grasp · Her people were almost free · Because she had stayed the course
 
-**为什么这样写：** 两个 almost 与一个 nearly 之后，作者没有继续交代局势，而是让 Because of her 和 Because she had stayed the course 各自独立成句。前一句把因果系在她个人身上，后一句系在「坚持」上；这是自我肯定的语法形态——每句都短、都能自己站住、都不需要主语补足，而读者正是在这种自我封闭里听见她的孤立。
+**为什么这样写：** 一个 nearly 与一个 almost 之后，作者没有继续交代局势，而是让 Because of her 和 Because she had stayed the course 各自独立成句。前一句把因果系在她个人身上，后一句系在「坚持」上；这是自我肯定的语法形态——每句都短、都能自己站住、都不需要主语补足，而读者正是在这种自我封闭里听见她的孤立。
 
 **读者视角提示：** 这一整段判断都出自她内部，没有任何一个外部声音替她确认；越往后读，越要留意这些肯定句与 Ruh 的催促之间隔着多远。
 

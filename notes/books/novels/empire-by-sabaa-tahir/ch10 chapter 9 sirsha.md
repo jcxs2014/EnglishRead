@@ -52,7 +52,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 段落里两次切换人称：先用第三人称写 Div 的推搡与她的储量，再用一句 she reminded herself 把声音换成直接引语，一开口就变成对自身的训斥。中间那一串从 wanted to give up 滑到 To give in、再滑到 To rest，一次比一次短、一次比一次没有主语，把诱惑拆成三步，读者因此看清她是怎样一步步滑过去的。最狠的是自我威胁本身——她对抗 Div 的武器，是"再软下去你就完了"这种对未来的恐吓，而不是任何外力。
 
-**读者视角提示：** 这段是本章唯一一次她跟自己说的话；注意它押的是将来时，说明此刻她还没有输，只是知道正在被消耗。
+**读者视角提示：** 这段是本章她跟自己说话的第二处（前面还有一句"他还活着"）；注意它押的是将来时，说明此刻她还没有输，只是知道正在被消耗。
 
 > **原句 5:** "Sirsha thought back to when Div killed J’yan, the boy who had been her Adah growing up. Div had manifested as a living, breathing warp in the world, a wrongness to the natural order. One so potent that even remembering it made Sirsha’s insides curl in dread."
 

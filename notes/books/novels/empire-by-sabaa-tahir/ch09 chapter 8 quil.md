@@ -52,7 +52,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 本章把这句话写成不带引号的独立成段，让它看上去像传讯本身而非人物开口，这是形式上的判决书。三句都是祈使句，越短越硬；末句用 As I intend to forget you 把自己从被抛下的位置挪到主动者的位置——她不是在等他放手，她先放了手。表面上这像是拒绝，实际却暴露了处境：如果真不在意，根本不必专门叫对方忘掉自己。
 
-**读者视角提示：** 本章只交代她拒绝，没写原因；Quil 猜的是"有人在威胁她"，并把这一点压在心里，没有追问。
+**读者视角提示：** 本章只交代她拒绝，没写原因；Quil 猜的是"有人在威胁她"，而且当面追问过一次（if someone is harming you, tell me），只换回一句 No one can help me。
 
 > **原句 5:** "Her voice sounded tight as an oud string. She was afraid. No. Terrified. His anger rose, overcoming the initial shock of her rejection. Who the ten bleeding hells was making Sirsha afraid and how could he stick a knife in them?"
 

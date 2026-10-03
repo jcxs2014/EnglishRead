@@ -60,9 +60,9 @@ modified: "2026-10-03"
 
 **关键词：** He is the bridge · save your world or break it · You are the Wayfinder. The Bloodbinder. The Diviner.
 
-**为什么这样写：** 这是本章来源不明的一段宣告，全章最值得琢磨的措辞都在这里。作者让 save… or break… 用同一个动词加一个 or，把两个结果压在一句话里，等于拒绝替读者预判；接着三个称号被拆成三个各自成句的短句，像盖章一样一个一个落下来。Your destinies are bound 用 are bound 把前一句的 or 取消掉——不管哪一种结果会发生，两人的命运都已经连上了；而最后那句 You must find a way 是唯一的祈使句，前面的名词句全部变成铺垫。
+**为什么这样写：** 这是本章来源不明的一段宣告，全章最值得琢磨的措辞都在这里。作者让 save… or break… 用一对反义动词加一个 or，把两个结果压在一句话里，等于拒绝替读者预判；接着三个称号被拆成三个各自成句的短句，像盖章一样一个一个落下来。Your destinies are bound 用 are bound 把前一句的 or 取消掉——不管哪一种结果会发生，两人的命运都已经连上了；而最后那句 You must find a way 是唯一的祈使句，前面的名词句全部变成铺垫。
 
-**读者视角提示：** 本章没有说明这个声音属于谁、来自何处，也没有说明三个称号指的是谁；读者能确定的只有它出现的位置——在 Cero 心最暗的地方。
+**读者视角提示：** 本章没有说明这个声音属于谁、来自何处，但三个称号指向谁并不含糊——它们是对着那个被称作 Tel Ilessi 的人说的，而本章开头已把这个称呼交到 Cero 头上；读者能确定的只有它出现的位置——在 Cero 心最暗的地方。
 
 > **原句 6:** "Do I even have a soul? Cero wondered. For so long, he hadn’t considered the question. But now he was forced to wade through the morass of his life, of all he was and all he had done. His past felt like a wound and his future like a song he couldn’t quite hear."
 

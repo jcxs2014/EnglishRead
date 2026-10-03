@@ -56,7 +56,7 @@ modified: "2026-10-03"
 
 > **原句 5:** "“Do you know how many children told the clerics they wanted to die because at least they wouldn’t be hungry? Do you know how many times I wanted to die so I wouldn’t be hungry? Do you know what I did to get food when the cloisters had none and children were piling up at the door? I sold myself, rebel, to whichever highborn would take me. For a bag of lentils or a pot of grain. That’s what I did with my pretty face.”"
 
-**中文理解：** "'你知道有多少孩子对教士说他们想死，因为至少那样就不会饿吗？你知道自己有多少次想死，好让自己不再饿吗？你知道当修道院里没有粮食、孩子们在门口堆成堆的时候，我为了弄到吃的做了什么吗？我把自己卖给了 rebel，任何愿意收下我的高门子弟。为了换一口袋扁豆，或者一锅谷子。这就是我拿自己那张漂亮脸做的事。'"
+**中文理解：** "'你知道有多少孩子对教士说他们想死，因为至少那样就不会饿吗？你知道自己有多少次想死，好让自己不再饿吗？你知道当修道院里没有粮食、孩子们在门口堆成堆的时候，我为了弄到吃的做了什么吗？我把自己卖了，叛徒，卖给任何愿意收下我的高门子弟。为了换一口袋扁豆，或者一锅谷子。这就是我拿自己那张漂亮脸做的事。'"
 
 **关键词：** how many children told the clerics they wanted to die · I sold myself, rebel · to whichever highborn would take me · That’s what I did with my pretty face.
 

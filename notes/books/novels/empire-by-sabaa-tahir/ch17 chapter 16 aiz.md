@@ -72,7 +72,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 两人第一次把话说到同一条原则上。Cero 用 we live and die by the wind 把 Kegari 的生活方式压成一句话，而 Aiz felt herself grow strangely breathless 用一个生理反应承认这句话击中了什么——她无法反驳，因为她自己也在用风。随后 But not anymore, Aiz 把话题从“我们是谁”转到“我们不该再这样”，Our people deserve better 又把分歧推回到两人共同关心的对象上：争的不是彼此，是同一批人怎么办。
 
-**读者视角提示：** 这场对峙从头到尾没有人提起 Ruḥ 或帝国；两个人用同一个词 our people 争夺它的解释权，本章末尾她对俘虏说话时用的也正是这个词。
+**读者视角提示：** 帝国在这场对峙里被 Aiz 用 Empire rats 点过一次名，Ruḥ 则从头到尾没有出现在两人之间；两个人用同一个词 our people 争夺它的解释权，本章末尾她对俘虏说话时换成了 my people's——正是"我的人"，不再包括对面那个人。
 
 > **原句 7:** "She waved him off; she could not tell him of her failure. It would only embolden him. It was a victory she was alive. Cero didn’t kill her. A surprising act of mercy that she’d make him regret."
 

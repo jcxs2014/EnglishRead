@@ -20,7 +20,7 @@ modified: "2026-10-03"
 
 **关键词：** opened his eyes · what the void was · the air seethed like a hive of hornets
 
-**为什么这样写：** 这是一次迟到的辨认：他先经历、后命名，而作者让他用一个类比来命名——like the Jaduna portals 把陌生的东西接到读者已知的东西上，紧跟的 but worse 又立刻抽掉这份安心。三个分句全部拟人化，grewled、grasped、seethed 各自指向天空、海与空气，正好把「四面都在抓」这件事分配给三个元素；而 a hive of hornets 这个比喻没有留下安全的角落。
+**为什么这样写：** 这是一次迟到的辨认：他先经历、后命名，而作者让他用一个类比来命名——like the Jaduna portals 把陌生的东西接到读者已知的东西上，紧跟的 but worse 又立刻抽掉这份安心。三个分句全部拟人化，growled、grasped、seethed 各自指向天空、海与空气，正好把「四面都在抓」这件事分配给三个元素；而 a hive of hornets 这个比喻没有留下安全的角落。
 
 **读者视角提示：** 他在下落途中已经喊过 Get back 却没能喊出声，所以这一句的 opened his eyes 同时是视觉恢复与判断恢复——读者跟他一起慢半拍才明白发生了什么。
 
@@ -52,7 +52,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章最重的一次改名只用三小句。作者先写施与者（the Elders gave），再写所赐之物（a new name），最后把落点让给两个孤零零的名词；Monster 加句点，Div 加句点，两个词之间没有连词也没有解释，读者只能自己感觉到那是从「拯救者」到「怪物」的跳变。而 Div 这个名字本身与这一段的开头形成对照：前面她被称为 Keeper of the Fount，是守护者的头衔。
 
-**读者视角提示：** 本章到此把 Div 的身份讲完了；请把这里给出的三件事分开记：她曾被放逐、她带走了 Loha、她被族人改名。
+**读者视角提示：** 本章到此把改名的这一幕交完，但 Div 的身份尚未讲完：请把这里给出的三件事分开记——她曾被放逐、她带走了 Loha、她被族人改名；紧随其后的 Mother Div 与 Wayfinder、Bloodbinder、Diviner 三个称号，才是那三件事的落点。
 
 > **原句 5:** "Magic had laws, and one Cero had learned was this: magic cannot be destroyed, only contained or transformed."
 

@@ -80,7 +80,7 @@ modified: "2026-10-03"
 
 **关键词：** Cero said nothing · with a growing terror · the miracle had come from him
 
-**为什么这样写：** 全章最后一句用一个否定式动作开头：Cero said nothing——他没有解释，也没有接受感谢；而 knowing 引出的不是理由而是 with a growing terror，作者用"正在加重的"这一层含义把情绪写成过程而非状态。破折号后的定语从句 the miracle had come from him 把前一段 Sister Noa 的判断整个翻转：同一个事件，在两种叙述里归属于两个不同的人。整句只占一行却放在最末，等于把一份原罪提前立在他自己身上。
+**为什么这样写：** 全章最后一句用一个否定式动作开头：Cero said nothing——他没有解释，也没有接受感谢；而 knowing 引出的不是理由而是 with a growing terror，作者用"正在加重的"这一层含义把情绪写成过程而非状态。knowing 后面 that 引导的内容从句 the miracle had come from him 把前一段 Sister Noa 的判断整个翻转：同一个事件，在两种叙述里归属于两个不同的人。整句只占一行却放在最末，等于把一份原罪提前立在他自己身上。
 
 **读者视角提示：** 本章不交代他此后还会不会再用血铸；往后凡是他沉默或退缩，都应当回到这一句上找答案。
 

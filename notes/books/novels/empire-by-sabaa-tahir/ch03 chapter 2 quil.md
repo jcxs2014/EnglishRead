@@ -50,7 +50,7 @@ modified: "2026-10-03"
 
 **关键词：** Help me, Quil · Use your magic · Chaining it is against its nature
 
-**为什么这样写：** 本章把一个外部命令搬进人物头脑，让姨妈的话与死去朋友的话在同一段里结成合谋，而读者知道这是梦——would say 这个过去习惯标记负责。against its nature 把魔法写成有天性的活物：它会挣扎就像 Ruh 会生气，于是"控制魔法"从战术问题升格成伦理问题；后面 Aunt Hel 那句"must use it if you wish to control it"与这句是同一个道理，只是她说得更硬。
+**为什么这样写：** 本章把一个外部命令搬进人物头脑，让姨妈的话与死去朋友的话在同一段里结成合谋，而读者知道这是梦——would say 这个过去习惯标记负责。against its nature 把魔法写成有天性的活物：它会挣扎就像 Ruh 会生气，于是"控制魔法"从战术问题升格成伦理问题；前面 Aunt Hel 那句"must use it if you wish to control it"与这句是同一个道理，只是她说得更硬。
 
 **读者视角提示：** 本章写明 Quil 的魔法能看见记忆——触摸物件或直视某人皆可——而他觉得这是 forbidden；梦里反复出现的黑色圆形洞穴与这句命令属于同一个循环，此后他每用一次魔法都要重新面对这道禁令。
 

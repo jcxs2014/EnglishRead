@@ -62,11 +62,11 @@ modified: "2026-10-03"
 
 **为什么这样写：** 这是本章第一个真正的信息炸弹，而且炸弹由一句闲谈引出。作者先让 Musa 用一句关于人性的套话把话头打开，再借一个过渡动作 Musa considered Cero 换挡，紧接着抛出 stratified——一个读者以为只属于反抗者阵营的词，被他安到了主角族群头上。而 Hawk 与 Snipe 这对高低阶称谓的对照，让"高层想架空领袖、低层不愿低头"这个局面在两句之内成立。最后那个 Likely because 用推测语气收尾，表面上留了余地，实际上是在提醒读者：他连动机都算得出来。
 
-**读者视角提示：** Cero 听到这里会愣一下，因为这不是他能主动说出去的信息；后面有一整段写他因此不敢再多打听 Karinna 的事——那个解释直接出自他自己的判断。
+**读者视角提示：** Cero 听到这里会愣一下，因为这不是他能主动说出去的信息；前面刚有一整段写他若对 Karinna 表现出过多兴趣，Musa 会觉得不妥——那个解释直接出自他自己的判断。
 
 > **原句 6:** "“You want to build a trade based on air flight,” Musa said. “Transport, freight. It would have been a fine idea a hundred years ago. But there are fewer windsmithers every year. At the rate you’re losing them, in a quarter century, your numbers will be down by half. Within a few generations, windsmithing will be relegated to fireside tales. Your war on the Empire only quickened the fading. You sacrificed too many pilots you couldn’t afford to lose.”"
 
-**中文理解：** "'你想靠空中飞行做一门生意，'Musa 说。'运输，货运。一百年前这会是个好主意。可如今风铸师一年比一年少。按你们现在流失的速度，二十五年后人数就要少掉一半。再过几代人，风铸这件事就会被降级成壁炉边的传说。你们对帝国的那场仗只是让衰落来得更快。你们牺牲了太多本来留不住的飞行员。'"
+**中文理解：** "'你想靠空中飞行做一门生意，'Musa 说。'运输，货运。一百年前这会是个好主意。可如今风铸师一年比一年少。按你们现在流失的速度，二十五年后人数就要少掉一半。再过几代人，风铸这件事就会被降级成壁炉边的传说。你们对帝国的那场仗只是让衰落来得更快。你们牺牲了太多自己赔不起的飞行员。'"
 
 **关键词：** a trade based on air flight · there are fewer windsmithers every year · windsmithing will be relegated to fireside tales · You sacrificed too many pilots you couldn’t afford to lose
 

@@ -60,7 +60,7 @@ modified: "2026-10-03"
 
 **关键词：** growling within her · Her family had wronged her when she was powerless to stop it · as someone who’d let herself break instead of someone they had broken
 
-**为什么这样写：** 作者先用一个现在完成式的否定开头，Nor could she forget 说明这不是回忆，而是随时会顶回来的东西；growling 用低吼的拟声，把体内的那个东西写成有情绪的活物。随后他用一个冒号把结论一次性推出：lived in a simple truth 用 simple 强调这件事的朴素——不复杂，坏在一个时间点上而已。三句一模一样的句型连续压下来，She could not… They might never… She could not…，前两句说事实不可改，第三句转向更糟的一层：连别人的目光都改不了；而 as someone who’d let herself break instead of someone they had broken 一句用 instead of 把主动与被动彻底对调，这是本章最锋利的一处措辞。
+**为什么这样写：** 作者先用一个现在完成式的否定开头，Nor could she forget 说明这不是回忆，而是随时会顶回来的东西；growling 用低吼的拟声，把体内的那个东西写成有情绪的活物。随后她用一个冒号把结论一次性推出：lived in a simple truth 用 simple 强调这件事的朴素——不复杂，坏在一个时间点上而已。三句一模一样的句型连续压下来，She could not… They might never… She could not…，前两句说事实不可改，第三句转向更糟的一层：连别人的目光都改不了；而 as someone who’d let herself break instead of someone they had broken 一句用 instead of 把主动与被动彻底对调，这是本章最锋利的一处措辞。
 
 **读者视角提示：** 本章后面她决定离开的理由就建立在这一段上；本块与离开的决定要连着看。
 
@@ -70,7 +70,7 @@ modified: "2026-10-03"
 
 **关键词：** A red door. A little bakery. An ocean of a thousand blues · whatever you left behind stayed behind · Secrets were sacred. Peace was valued.
 
-**为什么这样写：** 作者先连放三个只有名词的短句，句子越写越短、意象越来越小——一扇门、一间屋、一片海，读起来像一个正在被慢慢画出来的画面；S’rsha tried to see it 一句紧跟其后，说明这仍是想象，不是现实。作者随后用两个被动式的规则句把梦想合法化：whatever you left behind stayed behind 把「过去」处理成一件不由现在承担的事，Secrets were sacred 与 Peace was valued 再各补一条价值判断，三句短句连排，像客栈门口挂着的三块木牌。
+**为什么这样写：** 作者先连放三个只有名词的短句，前两句极短，第三句忽然放大——一扇门、一间屋、一片海，读起来像一个正在被慢慢画出来的画面；S’rsha tried to see it 一句紧跟其后，说明这仍是想象，不是现实。作者随后用两个被动式的规则句把梦想合法化：whatever you left behind stayed behind 把「过去」处理成一件不由现在承担的事，Secrets were sacred 与 Peace was valued 再各补一条价值判断，三句短句连排，像客栈门口挂着的三块木牌。
 
 **读者视角提示：** 本章后面她真的把这样一间客栈买了下来，也真的按这些规矩生活了；本块是那张清单，读者可以拿它逐条对照后来的日子。
 
@@ -90,7 +90,7 @@ modified: "2026-10-03"
 
 **关键词：** Someone was prowling in her room · she wasn’t as fast as her intruder · all she caught was a flash of pale blue iris, a high cheekbone, the hint of an old scar
 
-**为什么这样写：** 全章结尾被压成一段动作，作者连用三个被动分词 prowling / wasn’t as fast as / was prowling 式的结构，让威胁始终不具名；she wasn’t as fast as her intruder 用比较级把她多年练成的敏捷一次性否定，说明来人快过她认得的所有标准。materialized out of the dark 一句用上本章开头出现过的那个动词，把来人的现身方式与刚才洞里那一瞬的消失配成一对。末句特意用 all she caught was 与三次闪过的碎片（虹膜、颧骨、旧疤），明说这不是相认，是失败的辨认——读者拿到的是三样特征，不是身份。
+**为什么这样写：** 全章结尾被压成一段动作，作者连用三个被动分词 prowling / wasn’t as fast as / was prowling 式的结构，让威胁始终不具名；she wasn’t as fast as her intruder 用比较级把她多年练成的敏捷一次性否定，说明来人快过她认得的所有标准。materialized out of the dark 一句把来人的现身与本章开头 Div 消失的那一瞬配成一对。末句特意用 all she caught was 与三次闪过的碎片（虹膜、颧骨、旧疤），明说这不是相认，是失败的辨认——读者拿到的是三样特征，不是身份。
 
 **读者视角提示：** 本章就在这里收束；来访者没有自报姓名，只留下一句 I have a proposal for you，指向什么，本章不作交代。
 

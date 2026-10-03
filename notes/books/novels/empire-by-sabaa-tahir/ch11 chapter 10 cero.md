@@ -84,7 +84,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 本章把 Cero 与这个女孩判成同一类人，而这个判断是靠"照镜子"这一动作建立的，没有一句由叙述者直说。
 
-> **原句 8:** "He’d used and manipulated the wind so regularly that it was as easy as breathing. But now the wind wouldn’t come."
+> **原句 8:** "From a young age, Cero had known he was a windsmither. He’d used and manipulated the wind so regularly that it was as easy as breathing. But now the wind wouldn’t come."
 
 **中文理解：** "他从很小的时候起就知道自己是风铸师，他使用并操纵风的方式如此日常，以至于它和呼吸一样容易。但现在，风不来了。"
 
@@ -92,7 +92,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 章节收在一次能力的消失上。作者先用 as easy as breathing 把风写成 Cero 的一部分——不是技能，是本能，于是 But now 的转折才有重量；wind wouldn’t come 用一个简短的口语否定，比任何"他失去了力量"的说明都更像身体层面的失灵。Cero 一生的身份被压缩成一件不来电的器官。
 
-**读者视角提示：** 本章末尾 Ghaz 自己说过，那枚镖足以让他的魔力失效几个小时；把这两处对照着读，就能看出作者是先宣布规则、再执行规则。
+**读者视角提示：** 本章末尾 Ghaz 自己说过，那枚镖足以让他的魔力失效几个小时；把这两处对照着读，就能看出作者是先让失灵发生、再补上它的说明。
 
 ## 本章词汇
 

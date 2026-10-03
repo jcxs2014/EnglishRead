@@ -14,7 +14,7 @@ modified: "2026-10-03"
 
 ## 精读
 
-> **原句 1:** "What she has forgotten is that it is not southern rabble she fights. It is the Empire."
+> **原句 1:** "What she has forgotten is that it is not southern rabble she fights. It is the Empire. We will fight until we are ghosts, and then we will haunt these bastards until they’re either gone from our land or buried beneath it. Loyal to the end.”"
 
 **中文理解：** "「她忘掉的是：她要打的不是南边来的乌合之众。那是帝国。我们会一直打到变成鬼，再缠住这些混账，直到他们离开我们的土地，或者被埋在这片土地底下。忠诚到底。」"
 
@@ -22,7 +22,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 战前动员不靠许诺，靠纠正敌人的前提。她先说 Aiz 忘了什么，再用 rabble 这个贬义词把对手的判断贬到最低，最后用一句短得不能再短的 It is the Empire 把分量压回去。三个信息被拆成三句递进：对方的误判、误判的具体内容、以及纠正后的事实；而 southern rabble 里的 southern 既是地理也是等级——把对手降格为「南边的杂兵」，正是本章末她真正败因的预告。
 
-**读者视角提示：** 这段之后她紧接着说的是 Loyal to the end；本章末尾拦住他去救人、不让他冲进火里的，正是他刚刚说忠诚到底的那批部下，于是这句口号在本章内部就被推翻了一次。
+**读者视角提示：** Loyal to the end 收在同一段发言的末尾， troops 随即捶胸应和了一遍；本章末尾拦住他去救人、不让他冲进火里的，正是他刚刚说忠诚到底的那批部下，于是这句口号在本章内部就被推翻了一次。
 
 > **原句 2:** "She nodded. “No ghosts. Just you, me, and that buck that eluded us.”"
 
@@ -50,7 +50,7 @@ modified: "2026-10-03"
 
 **关键词：** Do you want them all to die · The more you make me use my magic · All because of your futile attempt at heroics
 
-**为什么这样写：** 威胁被写成一道会计题：The more…, the more… 两个比较级把「杀」变成按次结算的代价，于是旁观者被迫算出自己每一步的账单。futile attempt at heroics 用 heroics 这个抽象名词复数否定对方的行动，等于提前把他们的义举命名为无效。更冷的是她刚说完就杀掉一个孩子示范——All because of 里的 because 把每一条命都记到谈判者账上，而不是记到自己账上。
+**为什么这样写：** 威胁被写成一道会计题：The more…, the more… 两个比较级把「杀」变成按次结算的代价，于是旁观者被迫算出自己每一步的账单。futile attempt at heroics 用 heroics 这个抽象名词复数否定对方的行动，等于提前把他们的义举命名为无效。更冷的是她先让一个孩子倒在脚下，才把这笔账念出来——All because of 里的 because 把每一条命都记到谈判者账上，而不是记到自己账上。
 
 **读者视角提示：** Aiz 随后被两件事改变了：Musa 的死让她拿到筹码，Aunt Hel 关于 Loha 的消息让她失控。本章后半的转折都建立在这一句的定价机制上。
 
@@ -62,7 +62,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章唯一一段从敌人那边递过来的善意，而作者先写反常再写内容：as if to himself but looking directly at Quil，一句之内给出两个互相矛盾的动作，说明 Musa 是在心里说、在心里说给另一个人听。三句遗言式的命令里最有分量的是 Trust your aunt——Quil 紧接着就发现她刚刚对他隐瞒了 Jaduna 与 Loha 的事，于是这句话在几段之后被反过来戳中他。
 
-**读者视角提示：** Musa 说完这句就被 Aiz 割断了喉咙；Quil 当时想要的只是按住伤口，而她最后没能被按住的正是这句警告。
+**读者视角提示：** Musa 说完这句就被 Aiz 割断了喉咙；Quil 当时想要的只是按住伤口，而他最后没能被按住的正是这句警告。
 
 > **原句 6:** "You have me on my knees. You have killed my lover. You have my heir and my friends at your mercy. You know the location of my encampment. You have nearly every advantage. I am giving you the last one."
 
@@ -70,7 +70,7 @@ modified: "2026-10-03"
 
 **关键词：** You have me on my knees · You have killed my lover · at your mercy · I am giving you the last one
 
-**为什么这样写：** 五个 You have 开头的短句排成一列，把自己拥有的东西一件件交出去，等于逐条清点她已经输掉的牌。每一句都用同一种主语和同一套时态，不辩解、不修饰，连lover 都只用一个词带过；而最后一句换成 I 开头的主动句，把整段从认输翻成交易。I am giving you the last one 里的 now 语气藏在过去时里——她给的不是现在，是马上。
+**为什么这样写：** 五个 You have 开头的短句排成一列，把自己拥有的东西一件件交出去，等于逐条清点她已经输掉的牌。每一句都用同一种主语和同一套时态，不辩解、不修饰，连lover 都只用一个词带过；而最后一句换成 I 开头的主动句，把整段从认输翻成交易。I am giving you the last one 里的 now 就摆在明面上（现在进行时），她给的是此刻正在发生的一次交付，而不是事后的一句回望。
 
 **读者视角提示：** 紧跟着给出的那一样是 Jaduna 手里有 Loha。Quil 随即判断这话 patently untrue；本章不裁决她究竟在用真话钓人还是在赌读者不知道的部分。
 

@@ -40,7 +40,7 @@ modified: "2026-10-03"
 
 **关键词：** spontaneously materialized · he knew immediately · like a conquering army
 
-**为什么这样写：** 本章把 Quil 的魔法设定第一次说清，而且是用打断来介绍的：先是 The ravine faded 一句把现实关掉，再用 Usually… he took him a moment 建立“平时要愣一下”的习惯，接着 But this time, he knew immediately 把这个愣神取消——读者由此知道这次记忆有异。For it was… 补上“知道”的理由，而 like a conquering army 与两个独立成句的 Unstoppable. Inescapable. 把抽象的火焰写成有进军节奏的军队。两个单音节句单独成段，逼着读者也停顿一次。
+**为什么这样写：** 本章把 Quil 的魔法设定第一次说清，而且是用打断来介绍的：先是 The ravine faded 一句把现实关掉，再用 Usually… he took him a moment 建立“平时要愣一下”的习惯，接着 But this time, he knew immediately 把这个愣神取消——读者由此知道这次记忆有异。For it was… 补上“知道”的理由，而 like a conquering army 与 Unstoppable. Inescapable. 把抽象的火焰写成有进军节奏的军队。这两个四音节的短句并没有另起一段，只在同一段里各自断成独立的一句，却照样逼着读者停顿一次。
 
 **读者视角提示：** 这次记忆里出现的是他姑母在火中的声音，本章他没能问出口；他不知道的事，正是姑母后来要独自承担的那一件。
 
@@ -64,11 +64,11 @@ modified: "2026-10-03"
 
 **读者视角提示：** 本章后半 Quil 要去找盟友的整套思路都是从这句谚语长出来的；读到帐篷里争论时，请把它一起带上。
 
-> **原句 6:** "“Then let us die fighting on our knees instead of on our bellies, licking the boots of our killers!” Aunt Hel snapped. “We are Martials. We do not bow to our enemy even as she slides her blade home."
+> **原句 6:** "“Then let us die fighting on our knees instead of on our bellies, licking the boots of our killers!” Aunt Hel snapped. “We are Martials. We do not bow to our enemy even as she slides her blade home. We grab her by the throat and look her in the eyes so she knows it was only chance that gave her victory."
 
-**中文理解：** "'那就让我们跪着战死，也好过趴着舔杀害者的靴子！'姑母厉声道。'我们是 Martials。即使敌人把刀刃推入，我们也不向她低头。'"
+**中文理解：** "'那就让我们跪着战死，也好过趴着舔杀害者的靴子！'姑母厉声道。'我们是 Martials。即使敌人把刀刃推入，我们也不向她低头。我们要揪住她的喉咙，盯着她的眼睛看，让她知道那不过是侥幸才让对方赢得了胜利。'"
 
-**关键词：** instead of on our bellies · We do not bow to our enemy · even as she slides her blade home
+**关键词：** instead of on our bellies · We do not bow to our enemy · even as she slides her blade home · so she knows it was only chance that gave her victory
 
 **为什么这样写：** 她在议事帐篷里的这段话被写成一个对比句的正面强攻。instead of on our bellies 与 on our knees 只换身位、保留屈膝，就把战死与投降的差别摆出来；接着 We do not bow to our enemy even as she slides her blade home 给出姿态的具体内容——她否认对方的胜利属于对方本人。整段没有一句在讲战术，全在讲姿态，而这份姿态恰恰构成后面策略失败的前提：Quil 的反驳正是从这里开始的。
 

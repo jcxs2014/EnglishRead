@@ -62,7 +62,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章最低的一点，作者用两个 It wasn’t… 排比把希望这个选项逐条否掉，再用 It was spite 三次重复把它换成一个更硬的东西。she said 后面连着两个感叹号，说明这些话是冲口而出、也是冲人去的；末句把 then 与 now 摆成对称，于是恶意不再只是一种性格，而是跨时间的同一件工具——她不是刚开始变坏，她是一直靠这个活下来的。
 
-**读者视角提示：** 本章后面她正是被同一个 Quil 劝动才停下；这段话先要读者记住「希望」在她这里已经被什么顶掉了。
+**读者视角提示：** 本章后面停住她的不是劝说，而是那段誓约唤起的记忆——她先说出「我认识你了，我就是你了」，才不再伸手去伤人；这段话先要读者记住「希望」在她这里已经被什么顶掉了。
 
 > **原句 6:** "She was Sirsha Westering. Loli had cared for her and Arelia and Sufiyan had befriended her. She was a tracker and a daughter of Jaduna, no matter what her family said. She was beloved of Quil, even without the Adah coin. And she was the one who understood Div. Perhaps the only one."
 
@@ -72,11 +72,11 @@ modified: "2026-10-03"
 
 **为什么这样写：** 这段排比是本章的自我指认：全段以 She was 起句三次，把名字、职业、血缘、被爱、洞察力一件件交出来，形式上是复述，内容却是一次重建。作者特意在第三句塞进 no matter what her family said，把前一段关于家人的指控当场顶回去；even without the Adah coin 一句则抢在读者想到誓约之前说破了它，把记忆里的情分与制度无关。最后一句用 Perhaps 把话说软，让「唯一」不至于变成自封的头衔。
 
-**读者视角提示：** 本章她说的「我就是你了」就落在这段自述之后；把这三句与那句自称连读，才听得懂她凭什么这么说。
+**读者视角提示：** 本章她说的「我认识你了，我就是你了」就落在这段自述之前；把那句自称与这三句连读，才听得懂她凭什么这么说。
 
 > **原句 7:** "“No one pays,” Quil said. “The perpetrator accepts a child’s suffering as an acceptable sacrifice. Perhaps it is for war. For country. For pride. It doesn’t matter. Children pay the price for adult hubris. Children like you, Sirsha. Like the jinn.”"
 
-**中文理解：** "「没有人买单，」Quil 说。「加害者把孩子的苦难当作一次可以接受的献祭。也许是为了战争。为了国家。为了骄傲。那都不要紧。代价由孩子的傲慢来付——是那些孩子的傲慢。像你这样的孩子，Sirsha。像 jinn 一样的孩子。」"
+**中文理解：** "「没有人买单，」Quil 说。「加害者把孩子的苦难当作一次可以接受的献祭。也许是为了战争。为了国家。为了骄傲。那都不要紧。孩子为成人的傲慢买单。像你这样的孩子，Sirsha。像 jinn 一样的孩子。」"
 
 **关键词：** No one pays · an acceptable sacrifice · Children pay the price for adult hubris
 
@@ -90,7 +90,7 @@ modified: "2026-10-03"
 
 **关键词：** You can all die for all I care · lurking in the shadows for who knew how long · you will give me my Loha
 
-**为什么这样写：** 本章以另一个人的声音收尾，作者先把威胁与时间同时抛出来：for all I care 说明她根本不在意眼前这几个人的命，而 lurking in the shadows for who knew how long 一句把「他一直在听」这件事压进读者心里——本章所有对话她全都听见了，包括刚才那句关于承诺的话。But first 把杀与要拆成两个次序，先满足交易再谈处置，整句话因此不像威胁，像报价。
+**为什么这样写：** 本章以另一个人的声音收尾，作者先把威胁与时间同时抛出来：for all I care 说明她根本不在意眼前这几个人的命，而 lurking in the shadows for who knew how long 一句把「她一直在听」这件事压进读者心里——本章所有对话她全都听见了，包括刚才那句关于承诺的话。But first 把杀与要拆成两个次序，先满足交易再谈处置，整句话因此不像威胁，像报价。
 
 **读者视角提示：** 本章她只给出要求，没有解释自己为何要 Loha；那句要求里用的小写 my Loha 值得记住，后面她会反复用同样的口气说同样的话。
 

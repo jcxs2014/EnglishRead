@@ -62,7 +62,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 反转落在 then 之前的那半句里。Div 先用 I thought you’d never ask 承认自己一直在等这一刻，把她的耐心说成一种礼貌；而 then 之后不给任何过渡，exploded into an inky gray shadow 把她从「蹲在沙里、眼睛像余烬的孩子」瞬间改写成没有定形的攻击面，最后 grabbed ... by the throat 才把这次埋伏落成身体接触。本章前面整场的交心，就这样被一句话回敬成陷阱。
 
-**读者视角提示：** 留意 Div 在此之前一直没有打断；她先前那次插话用的是鼓励的口气，两次开口的差别就是这场夺取的伏笔。
+**读者视角提示：** 留意 Div 在此之前已经开口五次，口气从鼓励（Go on, little witch）转到怀疑（You left something out）再转到拒绝（I do not wish to）；这一次的差别才是这场夺取的伏笔。
 
 > **原句 6:** "“Forgive yourself, Sirsha, yes,” Div said, and her voice was strange, layered. Many voices at once."
 
@@ -72,7 +72,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 这一句是 Div 整场说服术的核心，而作者先让她给出一个读者期待的答案：Forgive yourself。那个 yes 被塞在逗号里，像盖下去的章。紧接着 and her voice was strange, layered 把声音本身写成可被观察的物理特征，Many voices at once 才点破 layered 究竟是什么——不是回声，是多个来源叠在一起，而这正是本章末段 Sirsha 才敢下的那个结论的预告。
 
-**读者视角提示：** 记住 layered 这个词；本章后面地上结出的那道影子与随后现身的 jinn，都在回答它。
+**读者视角提示：** 记住 layered 这个词；紧接着这一段，Div 就把自己裹成一团 seething gray cloud 钻进 Sirsha 的身体，本章末现身的七道 jinn 也仍是复数——两者都在回答它。
 
 > **原句 7:** "Locked away and yet a witness to Div’s thoughts, Sirsha finally recognized Div’s intent. Her malice."
 

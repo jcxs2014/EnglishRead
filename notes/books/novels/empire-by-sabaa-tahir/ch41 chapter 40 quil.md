@@ -22,7 +22,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章的第一记重击不在拳头上，而在这段话的节拍里。作者让同一组动作在四拍之内出现两次：问了、被挡、再问、再挡。前一次她把答案压成一个动词 You deflected，中间那句 I asked you how personal this was for you 提醒读者这个问题问的是「私人」。而末句 I was a fool, Elias Veturius, but I trusted you 把控诉翻成自陈——她不说你骗了我，她说我信错了人，责任先落到自己身上，这让愤怒比单纯的指责更难应付，因为对手无从反驳。
 
-**读者视角提示：** 注意本章不给 Elias 辩解的机会，他用来结束这件事的只有一句 I get the point，前面还配着一个手势（Elias held up a hand）。他真正的亏欠在哪，要等他后面自己说出 blood vow 那一句才补齐。
+**读者视角提示：** 注意这一句 I get the point 出场得极早：Elias 一抬手打断了正要开口的 Sufiyan，就用这句话把寒暄按了下去（前面正配着那个手势 Elias held up a hand），指控反而是随后才落下来的。他真正的亏欠在哪，要等他后面把 blood vow 那件事从头解释并认错时才补齐。
 
 > **原句 2:** "“Div feasted upon the heart of the one woman who helped me when I was at my weakest. She murdered my first Adah—my first friend. And now she is chained to me. Her weight is an anchor drowning me anew, every day. All because of the vow I made to you."
 
@@ -72,7 +72,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章的悬念被压进一个反复出现、每次都看不清楚的画面。作者先给结论（只有火），再给一次失败的核验（he tried to remain calm and observe），随后用两个短句互相抵消（It’s not the future. It’s the past.），紧接一个把判断悬置的疑问（Or was it?）。而 It’s the past 这句话本身并不稳，因为下一句 The memory was hazy at the edges 直接拆它的台——读者由此确定：这段记忆本身可能不可信，而提出查看的人正是最需要它可信的人。
 
-**读者视角提示：** 这是本章唯一一段由 Quil 主动探入他人内心的场景，注意他看到的和她自己叙述的（她并没有说自己看见了什么）之间留了空；最后一行再次回到火焰与恐惧，说明两次探查的结果没有变化。
+**读者视角提示：** 这是本章 Quil 第一次主动探入他人内心（第二次在章末、Aunt Hel 睡下之后），注意他看到的和她自己叙述的（她并没有说自己看见了什么）之间留了空；最后一行再次回到火焰与恐惧，说明两次探查的结果没有变化。
 
 > **原句 7:** "Aunt Hel brushed Quil’s neck, where the Adah coin used to be. “Sirsha broke the bond,” Aunt Hel said. “But even if it was magic, the coin is only a symbol. When you love someone so deeply, it doesn’t just disappear. And neither does the person you love.” She smiled. “You know I still talk to your grandfather sometimes? To your mother, even.”"
 

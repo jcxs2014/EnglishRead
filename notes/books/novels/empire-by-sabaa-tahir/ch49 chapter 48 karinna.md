@@ -32,7 +32,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 三句 We wanted 排比之后，作者把句子掉了个方向：too much 与 too little 对着落下，中间还隔了一句 our brethren, the magic-users of the old continent——两个同位语把「他们」精确圈定，顺手把当时的分裂写进了一句话里。child 这个称呼让说话人自动站上长辈的位置，于是这段自辩听起来像劝诫而不像忏悔。
 
-**读者视角提示：** Karinna 并没有被这段说服，她随即在心里把对方比作宫里那些 Illustrians；把这两处并读，就知道她判不信任的依据是什么。
+**读者视角提示：** Karinna 在这句之前就已经在心里把这女人比作宫里那些 Illustrians；把这两处并读，就知道她判不信任的依据是什么。
 
 > **原句 3:** "“I wasn’t sure,” he said to Karinna’s expression. “But the architecture in Kotama reminded me of home. That and the language they write in. They’re too similar to be a coincidence."
 
@@ -40,7 +40,7 @@ modified: "2026-10-03"
 
 **关键词：** the architecture in Kotama · the language they write in · too similar to be a coincidence
 
-**为什么这样写：** 这是 Cero 少有的主动推理，而作者让它以迟疑开头：I wasn’t sure 先退一步，再用 That and... 把两条证据摆出来。architecture 与 language 一个看得见、一个听得见，被塞进同一串 too similar 里，于是 Jaduna 的身份不是靠一句断言交出来的，而是靠「同一个地方的房子和文字长得太像」推出来的。
+**为什么这样写：** 这是 Cero 少有的主动推理，而作者让它以迟疑开头：I wasn’t sure 先退一步，再用 That and... 把两条证据摆出来。architecture 与 language 一个是眼前的建筑、一个是他们书写的文字，都得用眼睛取来，被塞进同一串 too similar 里，于是 Jaduna 的身份不是靠一句断言交出来的，而是靠「同一个地方的房子和文字长得太像」推出来的。
 
 **读者视角提示：** he said to Karinna’s expression 说明这番话先是说给她的脸色看的；直到最后他才转身去问那女子 What did you do that was so horrible。
 

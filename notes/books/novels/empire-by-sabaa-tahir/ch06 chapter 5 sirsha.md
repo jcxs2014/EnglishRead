@@ -22,7 +22,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 章节用一个命令式的喊叫开场，而这个命令针对的人此刻就站在街上听着。作者先把声音写成回声（rang in Sirsha's ears），再让这句话被归到一个带立场的称呼上——叫喊的人认定有"我们"和"她"两方。而第三句换成一个没有施动者的判断句，且在原文里另起一行缩进，与前面那句喊话分开排列，读起来像旁观者接的一句补充。全文的追杀状态是靠这种"声音已经围过来"的感官事实建立的，而不是靠追兵现身。
 
-**读者视角提示：** 本章后面 Sirsha 要去的方向与这群人有关，但本章没有点出他们是谁。读到这里只需知道：有人正在用宗教语言把她和 Div 绑在一起说。
+**读者视角提示：** 本章后面 Sirsha 要去的方向与这群人有关，而本章后段也点明了他们的名字（Duranis）。读到这里只需知道：有人正在用宗教语言把她和 Div 绑在一起说。
 
 > **原句 2:** "She might be stinking and scrawny and plagued by a heart-eating demon, but if Quil saw her, he would pull her close and never let her go. He would wrap his big arms around her and laugh at her gallows jokes and tell her that all would be well. That together, they could face anything."
 
@@ -52,7 +52,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 招供段落里最重要的不是内容而是那个结巴：The—the way he treated me。作者用重复的定冠词把一个不敢说出口的施动者卡在句中——他清楚是谁伤的他，却连"父亲"这个称呼都要先绊一下。接下来的 The way he hurt me 干脆省掉施动者。整段的力量来自这种一边全盘托出一边不敢指名：诱惑之所以有效，正因为它拿的是他最想藏、也最想被人知道的那部分。
 
-**读者视角提示：** 本章之前没人知道 Kade 身上有这些事。R'zwana 之所以能骗到他、之后他才肯把书卖掉，答案就在这段招供里——引诱不是用金子，是用"有人终于知道你经历了什么"。
+**读者视角提示：** Kade 身上这些事此前从未对人说破。R’zwana 是在书脱手之后才找上门的——先卖掉书换自由，再被她趁虚而入——答案就在这段招供里：引诱不是用金子，是用"有人终于知道你经历了什么"。
 
 > **原句 5:** "The Karkauns haven’t practiced death magic since Empress Helene lopped the head off their high mucky-muck twenty years ago. Doubt they could even get organized enough to create something like Div.”"
 

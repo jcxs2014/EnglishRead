@@ -60,7 +60,7 @@ modified: "2026-10-03"
 
 **关键词：** She’d met men like him before · possessing the delusion that the world belonged to them
 
-**为什么这样写：** 视角人物先下判断，作者随即把这判断拆成三个形容词并一律用比较级（Beautiful and strong）写成清单，再在 possessing 之后接一个同位语从句，用 delusion 这个词把整份清单反转。作者不反驳她，只在读者心里留下一个待办：这个看法准不准。三个形容词与下面那句 they 立刻指向 Cero 的后续表现。
+**为什么这样写：** 视角人物先下判断，作者随即把这判断拆成三个并列的普通形容词（Beautiful and strong）写成清单，再在 possessing 之后接一个同位语从句，用 delusion 这个词把整份清单反转。作者不反驳她，只在读者心里留下一个待办：这个看法准不准。三个形容词与下面那句 they 立刻指向 Cero 的后续表现。
 
 **读者视角提示：** 本章的当下部分全部从这个判断出发；读到最后一段时，请回头检验当初那份"delusion"。
 
@@ -80,9 +80,9 @@ modified: "2026-10-03"
 
 **关键词：** Now, however, it was not · focused on disabling, not killing · aimed for the stomach and the shoulder
 
-**为什么这样写：** 战斗写到一半，作者忽然停下来改写判定标准。Now, however, it was not 是一次自我更正——她在心里把"必要"这个词从这次战斗里撤走了；作者随即用两次否定构成的对照（focused on disabling, not killing）加一对具体部位（胃、肩）代替抽象的"下手轻一点"，让克制变成可以核对的动作清单。本章里她这一场不是照命令动手，而是按自己划出的标准动手。
+**为什么这样写：** 战斗写到一半，作者忽然停下来改写判定标准。Now, however, it was not 是一次自我更正——她在心里把"必要"这个词从这次战斗里撤走了；作者随即用两次否定构成的对照（focused on disabling, not killing）加一对具体部位（胃、肩）代替抽象的"下手轻一点"，让克制变成可以核对的动作清单。这一场的不取性命并不是她自己划的线，而是 Musa 命令里那句 Extract him and don't kill anyone 落在她手上的样子。
 
-**读者视角提示：** 前面作者刚交代她最早的几次杀人"既不厌恶也不退缩，只是必要"，这里正好构成对照：同一双手，本次由她自己划出了线。
+**读者视角提示：** 前面作者刚交代她最早的几次杀人"既不厌恶也不退缩，只是必要"，这里正好构成对照：同一双手，同样是"必要"，只是这次这份必要由命令写成，而不是她自己临时划的。
 
 > **原句 8:** "So he won’t know who left bruises all over him."
 

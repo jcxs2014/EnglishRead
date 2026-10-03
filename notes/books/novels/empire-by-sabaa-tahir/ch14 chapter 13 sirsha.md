@@ -10,7 +10,7 @@ modified: "2026-10-03"
 - **一句话概括**：Sirsha 被一群 Duranis 在公园里按倒，靠装成懂 Karkaun 的把戏挣脱，再一路把园灯砸成一道火墙；她确实逃出来了，可 Dolbra 烧死在那片火里，而她心里浮起来的不是恐惧、是一阵快意——本章的起点就钉在这份自厌上。
 - **情感弧线位置**：从生理性的恐慌（Panic flooded her）滑向一次漫长的自我审判，再被 Div 的一句话重新推回"要活下去、要弄清楚"的方向；中间那段自己对自己喊话的独白，是把 Sirsha 从猎物重新扶回猎人的枢纽。
 - **人物弧线**：Sirsha 在本章同时做着两件相反的事——用小把戏救自己的命，同时承认自己并不为这场杀人难过；Div 则继续扮演那个语气严厉得像母亲的引路人，只在 Owa Khel 这一个口子露出破绽。临结尾她改以孩童的样貌现身，把威胁从远处推到眼前。
-- **叙事手法**：**动作场景 + 马背上的复盘**——前半是被追捕的连续动作（按倒、念咒、装懂、砸灯、纵马），后半把同一场火的道德后果翻来覆去地咀嚼；Div 的每句台词都以 little witch 起手，与叙述者的冷叙述之间始终留着一段温差。
+- **叙事手法**：**动作场景 + 马背上的复盘**——前半是被追捕的连续动作（按倒、念咒、装懂、砸灯、纵马），后半把同一场火的道德后果翻来覆去地咀嚼；Div 反复用 little witch 起手——本章她七次开口里有五次这么叫，唯独谈 Karkaun 与承认 Owa Khel 那两句不叫，与叙述者的冷叙述之间始终留着一段温差。
 
 ## 精读
 
@@ -60,7 +60,7 @@ modified: "2026-10-03"
 
 **关键词：** Dolbra was dead because of Sirsha · for the briefest of moments · Sirsha had felt joy · She’d hungered for it
 
-**为什么这样写：** 作者先把否定句摆稳——But she hadn’t——再让整段道德说教自己垮掉。She should be disgusted with herself 之后单独放一个词 Horrified，短得像被抽掉的一口气，随即用 Instead 把它顶翻。这种先立后破的写法让读者先点头再被打脸，落差由结构而不是由形容词制造。真正的爆点在两个分号句：felt joy 是结论，She’d wanted Dolbra to die 是自白，而 hungered for it 与 gnawing yearning 把这份自白拉回到身体的饥饿层面——不是"我愿意"，是"我需要"。这一句把 Sirsha 的处境剖到不客气的地方。
+**为什么这样写：** 作者先把否定句摆稳——But she hadn’t——再让整段道德说教自己垮掉。She should be disgusted with herself 之后单独放一个词 Horrified，短得像被抽掉的一口气，随即用 Instead 把它顶翻。这种先立后破的写法让读者先点头再被打脸，落差由结构而不是由形容词制造。真正的爆点在后面两句陈述：felt joy 是结论，She’d wanted Dolbra to die 是自白，而 hungered for it 与 gnawing yearning 把这份自白拉回到身体的饥饿层面——不是"我愿意"，是"我需要"。这一句把 Sirsha 的处境剖到不客气的地方。
 
 **读者视角提示：** 注意作者在这里没有让任何角色指认她：审判完全发生在她自己脑子里。所以接下来她和自己吵起来那一段，能被读成一次真正的自我辩护，而不是又一次被害。
 

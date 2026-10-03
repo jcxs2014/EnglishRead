@@ -9,7 +9,7 @@ modified: "2026-10-03"
 
 - **一句话概括**：Aiz 死讯未散，Cero 就必须抢在那些旧贵族把故事抢回去之前动手——他让 clerics 把 the Ninth Sacred Tale 讲开，用两周把族人和 Sails 全部撤走，交出大批 highborn Hawks 去受审，再在 Antium 与新皇帝谈定赔款；两人在落叶铺满的白石路上讨论「他们真正在问什么」，Cero 一句话把结果命名成 A republic, instead of a theocracy，握手时双方都听懂了那句客套下面压着的东西；随后他的 Sail 没有按预定向南去 Jibaut，而是偏东，去 Tribe Saif 的营地看 Ruh、又顺路在 Atella’s Gap 找到刚猎完美洲狮的 Karinna，坦白那晚的吻既不好记也不平庸；可她拒绝了他递出的 Loha 手链，还把 scims 落在了火堆边——他把手链穿进那对弯刀护手上，才起飞。
 - **情感弧线位置**：本章的情绪一直很平——开头一整段都在办手续：撤人、定罪、谈判、清点赔偿；起伏集中在最后一段，一句坦白之后是一连串没有被接住的靠近，最后用一个物件（留下的 scims）把这段单恋收住，抬升的势头全被卸掉，剩下的只是起飞。
-- **人物弧线**：Cero 从「被救的人」变成「必须抢先叙事的人」——本章他第一次为权力做了不情愿但清醒的取舍，连把三个最高贵的氏族拆掉这种事他都做了，同时也承认他需要他们；他跟 Karinna 说了本章里最不实用的一句台词（I see you），却被她用「我得走了」挡回来；Ruh 在本章承担了两个角色，既是能看见 Loha 的预警者，也是叫他不必再说谢谢的人；Quil 在本章与他对等，两人各给对方的国家下了定义，谁也没赢。
+- **人物弧线**：Cero 从「被救的人」变成「必须抢先叙事的人」——本章他第一次为权力做了不情愿但清醒的取舍，连把三个最高贵氏族拆掉这种事他都动过念头，最后却因为需要他们的影响力而没拆；他跟 Karinna 说了本章里最不实用的一句台词（I see you），却被她用「我得走了」挡回来；Ruh 在本章承担了两个角色，既是能看见 Loha 的预警者，也是叫他不必再说谢谢的人；Quil 在本章与他对等，两人各给对方的国家下了定义，谁也没赢。
 - **叙事手法**：本章大量使用政治语汇与数目（两周、fortnight、a great number of highborn Hawks、nearly the entirety of their windsmithing population），把「一个人的死亡」迅速转成「一个民族的撤离」；转折几乎全部由物件承担——一只猫、一枚手链、留在地上的 scims；结尾用两个短句收在身体感觉上：摸猫的最后一下，然后被上升气流卷进云里。
 
 ## 精读
@@ -32,7 +32,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 作者先用 Perhaps no one would have believed him 承认这件事在常理下站不住，再让 But 把话锋一转——版本之战已经在他不在场的时候打完了。They’d told their stories… Of his miracles 两个短句前一个讲人、后一个只剩一个名词，节奏上像敲击，把「奇迹」从故事里单独拎出来。seed it 与 spread like wildfire 一头一尾：先把种子种下，再让它烧起来，整句话就是同一件事的两个阶段；注意 spread 的主语是 tale 而不是人，说明他放出去的东西一旦动起来就不受他控制。
 
-**读者视角提示：** 这一段的两个主动者是 Noa 与 Olnas，本章末尾她们仍以「我们站在你这边」出现在 Ankanese；这条线在本章是一根暗线。
+**读者视角提示：** 这一段的两个主动者是 Noa 与 Olnas，本章后面她们在 Antium 谈赔款那一段仍以「我们站在你这边」现身；那条 Ankanese 的援手是另一回事，与她们无关，这条线在本章是一根暗线。
 
 > **原句 3:** "“Sometimes, one of your people asks a question that appears simple,” Quil said. “But in fact, beneath that initial question is a different question. They ask you about a property dispute, but what they want to know is: Do you uphold the rule of law? They ask about an illness, but what they want to know is: Will you help ease their suffering?”"
 

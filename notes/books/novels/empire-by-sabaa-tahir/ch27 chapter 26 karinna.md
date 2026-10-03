@@ -62,7 +62,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 一个段落里塞进三种互不相容的声音：Cero 的提议、他造成的美景、她对自己的惩罚。前两句用 offered 与 seemed 把主动权推给男人、把判断权留给错觉；中间那句转折才是真心话——staring 不是她决定的，found herself 直接取消了她的主动性。最后一句用祈使句把自己拽回任务，而她叫自己的那个名字，本章没有解释是谁给的。
 
-**读者视角提示：** 分工就是在这里定的：她要他缠住 Linh，自己去查 U'qaya 的住处，而他又提了一次要一起行动。
+**读者视角提示：** 分工就是在这里定的：她要他缠住 Linh，自己去查 U'qaya 的住处；他在这里接了一句要一起行动，随即被她按了回去。
 
 > **原句 6:** "“No,” he said. “Though to be clear, you seem to view all those things as a weakness, and they’re not. From what I’ve heard, your mother is sweet and kind and honors the bonds of hospitality. You would not, I think, call her weak.”"
 
@@ -92,7 +92,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 本章最后一次出现 Musa 的声音，写成四句命令，句式全是祈使句，没有一个解释为什么。第一个 and 把三件事并成一件差事：查、做、别问；而 don’t confront 与 don’t dwell 都是否定式，两次否定把她可能的破绽提前堵死。最后一句 Keep your mind locked up 给出唯一一条正面指令，锁紧这个动作本身就是比喻——她本章练了整晚的正是怎么把心思藏住。
 
-**读者视角提示：** 她刚拿到信任就领到命令，读者应当把这句与她自己的动摇放在一起读；本章未说明命令从何而来。
+**读者视角提示：** 她刚拿到信任就领到命令，读者应当把这句与她自己的动摇放在一起读；命令的来处本章也已点明——Musa 在 Resistance 藏身处低声下达的原话。
 
 ## 本章词汇
 

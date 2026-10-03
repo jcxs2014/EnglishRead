@@ -60,7 +60,7 @@ modified: "2026-10-03"
 
 **关键词：** The fate of our world depends on · how well you tell that lie · He wished she’d never pulled him into keeping her secret
 
-**为什么这样写：** 全章唯一一次有人在他脑子里说话，而本章没有交代这声音来自何处。The fate of our world depends on 把赌注抬到世界级别，却没有给出任何提示这声音来自何处；作者偏偏用 boy 这个亲昵称呼，把一记重压写得毫无恶意。后面两个句子是严格平行的否定愿望（希望她现身／希望这件事从没发生），把 Quil 写进一个不可能的夹缝。
+**为什么这样写：** 这是本章他脑子里响起的第二次人声（第一次在前面那句 Dash that thought from your head, boy），而两处都没有交代这声音来自何处。The fate of our world depends on 把赌注抬到世界级别，却没有给出任何提示这声音来自何处；作者偏偏用 boy 这个亲昵称呼，把一记重压写得毫无恶意。后面两个句子是严格平行的否定愿望（希望她现身／希望这件事从没发生），把 Quil 写进一个不可能的夹缝。
 
 **读者视角提示：** Bani al-Mauth 是谁，本章没有交代；本章只说她把 Quil 拖进来守密，其余请留到能核对的地方再说。
 
