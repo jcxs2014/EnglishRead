@@ -77,7 +77,7 @@ modified: "2026-10-03"
 
 > **原句 7:** “Be polite, Alex,” she said. “You told me that you have to be nice when you can because you don’t know when it could mean everything to someone.”
 
-**中文理解：** 「对 Alex 礼貌点，」她说。「你告诉过我，能对人和气的时候就要和气，因为你不知道它什么时候对某个人来说意味着一切。」
+**中文理解：** 「礼貌点，Alex，」她说。「你告诉过我，能对人和气的时候就要和气，因为你不知道它什么时候对某个人来说意味着一切。」
 
 **关键词：** Be polite, be nice when you can, mean everything
 

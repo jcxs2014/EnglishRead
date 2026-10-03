@@ -1,0 +1,17 @@
+# 五步审查 b 步：逐章归属（check_chapter_quotes --book-dir 换路径 + 短引语 + cliffhanger 边界）
+
+## book-dir 模式（与写作期逐文件模式不同路径）
+⚠️  全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 161，命中本章 161（100%）
+✅ 全部引语均归属正确章节
+
+## check_short_quotes
+  verify_quotes 跳过（<20 flat 字符）的引语：6 条 —— 这些主门禁**根本没查**
+  ✅ 命中 6 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+## cliffhanger 边界人工核：ch19 末句在 ch19、epilogue 首句在 ch20
+notes/books/novels/the-bones-beneath-my-skin-by-tj-klune/text/ch20_epilogue.txt:0
+notes/books/novels/the-bones-beneath-my-skin-by-tj-klune/text/ch19_chapter_nineteen.txt:1
+notes/books/novels/the-bones-beneath-my-skin-by-tj-klune/text/ch20_epilogue.txt:1
+notes/books/novels/the-bones-beneath-my-skin-by-tj-klune/text/ch01_chapter_one.txt:1

@@ -1,0 +1,40 @@
+# 五步审查 a 步：第 3 条门禁全量重跑（2026-10-03，同会话审查）
+
+## verify_quotes（主口径）
+⚠️ 全书共 6 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 207/207 引文可核实（100%）；完全干净文件 23/23；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+## verify_quotes --full（整串/逐段 flat）
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 207/207 引文可核实（100%）；完全干净文件 23/23；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+## check_vocab
+词条行合计: 507
+--- FAIL (0) ---
+--- WARN (6) ---
+  ch13 chapter thirteen.md [基础] 基础档疑含超纲词「windshield」
+  ch14 chapter fourteen.md [基础] 基础档疑含超纲词「farmhouse」
+  ch18 chapter eighteen.md [基础] 基础档疑含超纲词「helicopter above」
+  ch18 chapter eighteen.md [基础] 基础档疑含超纲词「direction」
+  ch21 author's note.md [基础] 基础档疑含超纲词「publisher」
+  ch21 author's note.md [基础] 基础档疑含超纲词「differences」
+
+## check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+## corruption_scan
+
+=== 编辑损坏扫描（the-bones-beneath-my-skin-by-tj-klune）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+## sweep_full（整串 flat）
+=== 引语整串 flat 比对（the-bones-beneath-my-skin-by-tj-klune）===
+  参照集：text/ 逐章（21 章，可定章） + epub 交叉验证
+  ✅ 本章命中 161 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
