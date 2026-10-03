@@ -1,0 +1,64 @@
+=== 精读结构扫描（darling-girls-by-sally-hepworth）===
+  扫 74 个 md、545 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 60
+  🔀 ch03 1 jessica.md  H1「第 1」↔ 文件名 ch03 不一致
+  🔀 ch04 2 norah.md  H1「第 2」↔ 文件名 ch04 不一致
+  🔀 ch05 3 alicia.md  H1「第 3」↔ 文件名 ch05 不一致
+  🔀 ch06 4 jessica.md  H1「第 4」↔ 文件名 ch06 不一致
+  🔀 ch07 5 jessica before.md  H1「第 5」↔ 文件名 ch07 不一致
+  🔀 ch08 6 jessica before.md  H1「第 6」↔ 文件名 ch08 不一致
+  🔀 ch10 7 norah.md  H1「第 7」↔ 文件名 ch10 不一致
+  🔀 ch11 8 norah before.md  H1「第 8」↔ 文件名 ch11 不一致
+  🔀 ch12 9 norah before.md  H1「第 9」↔ 文件名 ch12 不一致
+  🔀 ch13 10 alicia.md  H1「第 10」↔ 文件名 ch13 不一致
+  🔀 ch14 11 alicia before.md  H1「第 11」↔ 文件名 ch14 不一致
+  🔀 ch15 12 alicia before.md  H1「第 12」↔ 文件名 ch15 不一致
+  🔀 ch16 13 jessica.md  H1「第 13」↔ 文件名 ch16 不一致
+  🔀 ch18 14 norah.md  H1「第 14」↔ 文件名 ch18 不一致
+  🔀 ch19 15 jessica before.md  H1「第 15」↔ 文件名 ch19 不一致
+  🔀 ch20 16 alicia.md  H1「第 16」↔ 文件名 ch20 不一致
+  🔀 ch21 17 alicia before.md  H1「第 17」↔ 文件名 ch21 不一致
+  🔀 ch22 18 norah.md  H1「第 18」↔ 文件名 ch22 不一致
+  🔀 ch23 19 jessica before.md  H1「第 19」↔ 文件名 ch23 不一致
+  🔀 ch24 20 jessica.md  H1「第 20」↔ 文件名 ch24 不一致
+  🔀 ch26 21 norah.md  H1「第 21」↔ 文件名 ch26 不一致
+  🔀 ch27 22 jessica before.md  H1「第 22」↔ 文件名 ch27 不一致
+  🔀 ch28 23 norah.md  H1「第 23」↔ 文件名 ch28 不一致
+  🔀 ch29 24 jessica before.md  H1「第 24」↔ 文件名 ch29 不一致
+  🔀 ch30 25 jessica.md  H1「第 25」↔ 文件名 ch30 不一致
+  🔀 ch32 26 jessica.md  H1「第 26」↔ 文件名 ch32 不一致
+  🔀 ch33 27 alicia.md  H1「第 27」↔ 文件名 ch33 不一致
+  🔀 ch34 28 norah.md  H1「第 28」↔ 文件名 ch34 不一致
+  🔀 ch35 29 jessica.md  H1「第 29」↔ 文件名 ch35 不一致
+  🔀 ch36 30 norah.md  H1「第 30」↔ 文件名 ch36 不一致
+  🔀 ch37 31 norah before.md  H1「第 31」↔ 文件名 ch37 不一致
+  🔀 ch38 32 jessica before.md  H1「第 32」↔ 文件名 ch38 不一致
+  🔀 ch39 33 jessica.md  H1「第 33」↔ 文件名 ch39 不一致
+  🔀 ch40 34 alicia before.md  H1「第 34」↔ 文件名 ch40 不一致
+  🔀 ch42 35 alicia before.md  H1「第 35」↔ 文件名 ch42 不一致
+  🔀 ch43 36 alicia.md  H1「第 36」↔ 文件名 ch43 不一致
+  🔀 ch44 37 jessica.md  H1「第 37」↔ 文件名 ch44 不一致
+  🔀 ch45 38 norah before.md  H1「第 38」↔ 文件名 ch45 不一致
+  🔀 ch46 39 alicia.md  H1「第 39」↔ 文件名 ch46 不一致
+  🔀 ch47 40 jessica before.md  H1「第 40」↔ 文件名 ch47 不一致
+  🔀 ch48 41 norah.md  H1「第 41」↔ 文件名 ch48 不一致
+  🔀 ch49 42 alicia.md  H1「第 42」↔ 文件名 ch49 不一致
+  🔀 ch50 43 jessica.md  H1「第 43」↔ 文件名 ch50 不一致
+  🔀 ch52 44 alicia.md  H1「第 44」↔ 文件名 ch52 不一致
+  🔀 ch53 45 jessica.md  H1「第 45」↔ 文件名 ch53 不一致
+  🔀 ch54 46 norah.md  H1「第 46」↔ 文件名 ch54 不一致
+  🔀 ch55 47 alicia.md  H1「第 47」↔ 文件名 ch55 不一致
+  🔀 ch56 48 norah.md  H1「第 48」↔ 文件名 ch56 不一致
+  🔀 ch57 49 jessica.md  H1「第 49」↔ 文件名 ch57 不一致
+  🔀 ch59 50 norah.md  H1「第 50」↔ 文件名 ch59 不一致
+  🔀 ch60 51 alicia.md  H1「第 51」↔ 文件名 ch60 不一致
+  🔀 ch61 52 norah.md  H1「第 52」↔ 文件名 ch61 不一致
+  🔀 ch63 53 alicia.md  H1「第 53」↔ 文件名 ch63 不一致
+  🔀 ch65 54 norah.md  H1「第 54」↔ 文件名 ch65 不一致
+  🔀 ch66 55 alicia.md  H1「第 55」↔ 文件名 ch66 不一致
+  🔀 ch68 56 jessica.md  H1「第 56」↔ 文件名 ch68 不一致
+  🔀 ch69 57 jessica nine months later.md  H1「第 57」↔ 文件名 ch69 不一致
+  🔀 ch70 58 norah a year later.md  H1「第 58」↔ 文件名 ch70 不一致
+  🔀 ch71 59 alicia.md  H1「第 59」↔ 文件名 ch71 不一致
+  🔀 ch72 60 holly fairchild.md  H1「第 60」↔ 文件名 ch72 不一致

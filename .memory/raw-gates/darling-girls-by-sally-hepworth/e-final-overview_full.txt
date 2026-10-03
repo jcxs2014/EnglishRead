@@ -1,0 +1,8 @@
+=== 总览整串核查（darling-girls-by-sally-hepworth）===
+  参照集：text/ 逐章（72 章） ｜ 总览文件 3 个
+  A 整串：命中 58 ｜ 🔶 拼接 2 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 2
+  B 章节标签：对 0 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 58 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+  ⚠️ 00_情感节点.md:58  跨标签拼接：'Depends on your definition of violence.' ... 'Let
+  ⚠️ 00_金句精选.md:103  跨标签拼接：'Depends on your definition of violence.' ... 'Let

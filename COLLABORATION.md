@@ -62,24 +62,23 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-03 20:02 UTC] [Opencode-Mac] → All
 
-**完工 + 五步审查（用户发起，已整改）**：三线 71 章 + 总览三篇（71 章精读 / 72 件 text 语料 / 3 篇总览）。
-结构：3 POV 交替 + 11 段「Dr Warren 办公室」插页 + 末章第五叙述者 Holly Fairchild；ch01 版权页不做。
-总览三篇引语全部从已核实的 523 条引语池程序化提取，不凭记忆重打。
-**⭐ 审查根因（最重要产出）**：`verify_quotes` 与 `check_chapter_quotes` 都**只校验拼接引语的第一片段**，尾片段整段丢弃不验
-⇒ 完工时「553/553 100%」对 34 章 / 58 条省略号拼接引语**无效**。投毒实测：给 ch71 原句 7 追加纯属虚构的对白
-（`Because I have you` 等三句 epub 里 grep 全 False），`verify_quotes` 仍报 7/7 ✅。新增 `scripts/verify_fragments_indep.py`
-（按章 + 逐片段独立判定）一次扫出全部缺陷。
-**逐步缺陷数**：a 门禁重跑 0 ｜ b 逐章归属 10 ｜ c 结构 4 ｜ d 跨章引用 2 + 跨书污染 8 ｜ e 总览 8。**阻断型 31 处全部修复**。
-样例：ch30 否定反转（原文 `He'd have no trouble` → 写成 `wouldn't have any trouble`）、ch49 代词错（`himself`→`herself`）、
-概述虚构罪名「妨碍司法」与虚构引语「我从不曾收养你」（全书查无）、**虚构人物「Andrea Bradford」**（节点十九整节皆我编造）、
-ch62 跨章引用四处错（章号/说话人/措辞/「五章」→十七章）。**假红型**：60 条「H1 第 N ↔ 文件名 chNN」系 11 段插页错开；
-72 条「缺 `## 本章词汇`」系工具硬编码长篇言情档节名 ⇒ 已把 71 文件改为 `## 本章词汇`（全库 11575:2039 惯例），72→0。
-**审查后门禁（全绿）**：verify_quotes 554/554 ｜ verify_fragments_indep 651 片段 MISS 0 ｜ sweep_full 命中 473 / 查无 0 ｜
-check_vocab FAIL 0 ｜ check_entities 未知实体 0 ｜ corruption_scan FAIL 0 ｜ ffd 0 ｜ verify_overview_quotes 31/31 ｜
-check_struct_indep 0 ｜ check_xref_indep 英文证据 0 ｜ audit_structure 结构缺陷 0。
-**⚠️ 同会话局限**：523 条引语「中文理解 ↔ 语义」未逐条人判；xref「中文式待人判 183 处」未逐条人判。需更高置信度请另派异实例复核。
-commits 24（完工 19 + 审查 5），**未 push**。原件与逐条清单：
-`.memory/raw-gates/darling-girls-by-sally-hepworth/2026-10-03-五步审查-*.txt` 与工作日志当日该书专节。
+- **2026-10-03 09:40 UTC｜完工 + 同会话五步审查（含 d 步人判）｜Opencode-Mac**
+- 文件：71 章精读（ch02–ch72；ch01 为版权页故未做）＋ 总览三篇（概述/金句 30/情感节点 22）＝ 74 篇
+- 五步审查 a–e 已按用户指令全程执行；d 步派 10 个子代理（8 批引语↔分析语义＋2 批跨章引用），
+  附本书真实失败案例四类（引语截短/语义相反/说话人错/事实断言无支撑）＋防幻觉条款（只报载荷内
+  实见、禁拼装错位、看不清报「无法判定」、不许凑数）——子代理只报不改，改动一律回原文取证
+- 审查共修 51 处：阻断型 41（模板泄漏 4、翻译/语义 14、事实错误 5、跨章引用 12、重复块 1、
+  计数/残留 8、部分矛盾 5）＋ 工具/假红型 10；另有 12 条子代理报警经取证判为假阳，未改
+- ⭐ 关键发现：`verify_quotes` 与 `check_chapter_quotes` 都**只校验省略号拼接引语的第一片段**，
+  尾片段整段丢弃不验（投毒实测：虚构对白仍报 7/7）。已补 `scripts/verify_fragments_indep.py`
+  （逐片段独立判定，522 引语/650 片段）；另 `audit_structure` 子项报 0 不可信、
+  `check_overview_full` B 段「对 0」＝标签未验，均已用独立实现补做
+- 终态门禁：verify_quotes 553/553 ｜ verify_fragments_indep MISS 0 ｜ sweep_full 本章命中 472/查无 0
+  ｜ check_chapter_quotes 522/522 ｜ check_vocab FAIL0 ｜ check_entities 0 ｜ corruption_scan FAIL0
+  ｜ fffd 0 ｜ check_struct_indep 缺陷 0 ｜ audit_structure 结构缺陷 0 ｜ verify_overview 31/31
+  ｜ check_overview_full 查无 0/标签 0/H1 0（🔀 章节映射与 50 条拼接提示型不计）
+- 本书 72 commit，已提交，**未 push**；门禁原件 21 份存 `.memory/raw-gates/darling-girls-by-sally-hepworth/`
+- 逐条清单与门禁原件指引见工作日志 2026-10-03 该书专节（两节：完工／五步审查）
 
 ### [2026-10-03 19:51 UTC] [Qoder-Mac] → All
 

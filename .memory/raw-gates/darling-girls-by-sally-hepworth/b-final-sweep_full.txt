@@ -1,0 +1,54 @@
+=== 引语整串 flat 比对（darling-girls-by-sally-hepworth）===
+  参照集：text/ 逐章（72 章，可定章） + epub 交叉验证
+  ✅ 本章命中 472 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 50 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+  🔶 ch15 12 alicia before.md（ch15）跨标签拼接，各段逐字都在：How is she going to get better if you don't 
+  🔶 ch17 the office of dr warren psy（ch17）跨标签拼接，各段逐字都在：Dr Warren listens avidly as I relate this, s
+  🔶 ch22 18 norah.md（ch22）跨标签拼接，各段逐字都在：Depends on your definition of violence.' ...
+  🔶 ch24 20 jessica.md（ch24）跨标签拼接，各段逐字都在：No,' Jessica said. 'But we're sisters in eve
+  🔶 ch26 21 norah.md（ch26）跨标签拼接，各段逐字都在：He lifted his radio to his mouth. 'I've got 
+  🔶 ch27 22 jessica before.md（ch27）跨标签拼接，各段逐字都在：I found the off switch.' Jessica smiled. 'To
+  🔶 ch28 23 norah.md（ch28）跨标签拼接，各段逐字都在：At least, that's the name my mum and dad gav
+  🔶 ch28 23 norah.md（ch28）跨标签拼接，各段逐字都在：Automatically, Norah rose up to her full ind
+  🔶 ch31 the office of dr warren psy（ch31）跨标签拼接，各段逐字都在：This is what happens to people who talk back
+  🔶 ch36 30 norah.md（ch36）跨标签拼接，各段逐字都在：But why would we mention her?' Norah asked. 
+  🔶 ch38 32 jessica before.md（ch38）跨标签拼接，各段逐字都在：You need to go down there,' she said to Jess
+  🔶 ch40 34 alicia before.md（ch40）跨标签拼接，各段逐字都在：It was shocking how effective it was. Amy tu
+  🔶 ch40 34 alicia before.md（ch40）跨标签拼接，各段逐字都在：But when Alicia looked back at the pool, she
+  🔶 ch41 the office of dr warren psy（ch41）跨标签拼接，各段逐字都在：More to prove to myself that she had some fe
+  🔶 ch41 the office of dr warren psy（ch41）跨标签拼接，各段逐字都在：Troy wasn't particularly attractive or chari
+  🔶 ch41 the office of dr warren psy（ch41）跨标签拼接，各段逐字都在：Every human being needs someone, don't they,
+  🔶 ch42 35 alicia before.md（ch42）跨标签拼接，各段逐字都在：The police at the house conducted a thorough
+  🔶 ch44 37 jessica.md（ch44）跨标签拼接，各段逐字都在：Why don't any of you have kids?' ... 'I'm a 
+  🔶 ch44 37 jessica.md（ch44）跨标签拼接，各段逐字都在：Which child?' Norah snarled. 'The one who di
+  🔶 ch44 37 jessica.md（ch44）跨标签拼接，各段逐字都在：It happened so fast. Norah flipped the table
+  🔶 ch44 37 jessica.md（ch44）跨标签拼接，各段逐字都在：She put her hands on me,' Miss Fairchild sai
+  🔶 ch45 38 norah before.md（ch45）跨标签拼接，各段逐字都在：My colleagues have spoken to Scott, and to S
+  🔶 ch45 38 norah before.md（ch45）跨标签拼接，各段逐字都在：Their stories are consistent,' Norah heard M
+  🔶 ch50 43 jessica.md（ch50）跨标签拼接，各段逐字都在：If this body turns out to be Amy, it will be
+  🔶 ch51 the office of dr warren psy（ch51）跨标签拼接，各段逐字都在：Dr Warren leans forward with his elbows on h
+  🔶 ch51 the office of dr warren psy（ch51）跨标签拼接，各段逐字都在：I should have known he'd do the opposite. Pu
+  🔶 ch52 44 alicia.md（ch52）跨标签拼接，各段逐字都在：What if I told you I knew a reason he might 
+  🔶 ch52 44 alicia.md（ch52）跨标签拼接，各段逐字都在：Because we're friends. That's what friends d
+  🔶 ch53 45 jessica.md（ch53）跨标签拼接，各段逐字都在：She lay on the scratchy bed linen and closed
+  🔶 ch54 46 norah.md（ch54）跨标签拼接，各段逐字都在：It was true that, as an adult, she had more 
+  🔶 ch55 47 alicia.md（ch55）跨标签拼接，各段逐字都在：I'm sorry if you're having kinky lesbian sex
+  🔶 ch56 48 norah.md（ch56）跨标签拼接，各段逐字都在：You didn't tell them?' Jessica's cheeks flam
+  🔶 ch57 49 jessica.md（ch57）跨标签拼接，各段逐字都在：I never intended to tell her. When I went ba
+  🔶 ch58 the office of dr warren psy（ch58）跨标签拼接，各段逐字都在：I'll ask John,' she said when I asked, which
+  🔶 ch58 the office of dr warren psy（ch58）跨标签拼接，各段逐字都在：I went into labour a month before Mum though
+  🔶 ch58 the office of dr warren psy（ch58）跨标签拼接，各段逐字都在：I had no scissors to cut the cord, so Amy re
+  🔶 ch60 51 alicia.md（ch60）跨标签拼接，各段逐字都在：The fact that kindness, or hearing anyone sa
+  🔶 ch62 the office of dr warren psy（ch62）跨标签拼接，各段逐字都在：John had been drinking,' I continue. 'It was
+  🔶 ch63 53 alicia.md（ch63）跨标签拼接，各段逐字都在：Amy had six toes on her left foot,' Norah sa
+  🔶 ch64 the office of dr warren psy（ch64）跨标签拼接，各段逐字都在：Give me the tin, you bitch!' he said, pushin
+  🔶 ch65 54 norah.md（ch65）跨标签拼接，各段逐字都在：Hold up.' Patel looked utterly lost. 'You're
+  🔶 ch65 54 norah.md（ch65）跨标签拼接，各段逐字都在：Amy,' she said to the phone. Then she looked
+  🔶 ch68 56 jessica.md（ch68）跨标签拼接，各段逐字都在：I found a bunch of pill bottles at home a fe
+  🔶 ch68 56 jessica.md（ch68）跨标签拼接，各段逐字都在：Shh, it's all right.' He reached for a box o
+  🔶 ch68 56 jessica.md（ch68）跨标签拼接，各段逐字都在：Norah gave Jessica a light punch in the arm.
+  🔶 ch68 56 jessica.md（ch68）跨标签拼接，各段逐字都在：They stepped apart dramatically to reveal Za
+  🔶 ch69 57 jessica nine months late（ch69）跨标签拼接，各段逐字都在：You are a criminal,' Jessica said neutrally.
+  🔶 ch69 57 jessica nine months late（ch69）跨标签拼接，各段逐字都在：So you didn’t illegally procure a child, and
+  🔶 ch69 57 jessica nine months late（ch69）跨标签拼接，各段逐字都在：No,' she said, 'Why would I?' ... The door b
+  🔶 ch71 59 alicia.md（ch71）跨标签拼接，各段逐字都在：What do you think your grandmother would say
