@@ -1,0 +1,145 @@
+# ch01 首章试产 门禁原件  2026-10-03 07:48 UTC
+# lane: 完整 lane（library/*.epub 存在）
+
+$ verify_corpus.py --expect 58
+=== 语料层验收（P0-0）: carry-me-to-my-grave-by-christopher-golden ===
+text/ 件数: 58
+  [1] 件数 58 == 预期 58  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 8 组 / 互查 56 组（共享人物 11 个已豁免）  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (29 句)
+    ch02 (143 句)
+    ch03 (155 句)
+    ch04 (289 句)
+    ch05 (68 句)
+    ch06 (199 句)
+    ch07 (165 句)
+    ch08 (200 句)
+    ch09 (94 句)
+    ch10 (105 句)
+    ch11 (166 句)
+    ch12 (281 句)
+    ch13 (284 句)
+    ch14 (47 句)
+    ch15 (351 句)
+    ch16 (142 句)
+    ch17 (85 句)
+    ch18 (119 句)
+    ch19 (326 句)
+    ch20 (205 句)
+    ch21 (244 句)
+    ch22 (128 句)
+    ch23 (103 句)
+    ch24 (164 句)
+    ch25 (67 句)
+    ch26 (121 句)
+    ch27 (49 句)
+    ch28 (221 句)
+    ch29 (312 句)
+    ch30 (94 句)
+    ch31 (47 句)
+    ch32 (225 句)
+    ch33 (297 句)
+    ch34 (79 句)
+    ch35 (128 句)
+    ch36 (137 句)
+    ch37 (79 句)
+    ch38 (87 句)
+    ch39 (343 句)
+    ch40 (132 句)
+    ch41 (168 句)
+    ch42 (166 句)
+    ch43 (75 句)
+    ch44 (169 句)
+    ch45 (121 句)
+    ch46 (162 句)
+    ch47 (152 句)
+    ch48 (94 句)
+    ch49 (19 句)
+    ch50 (71 句)
+    ch51 (142 句)
+    ch52 (62 句)
+    ch53 (65 句)
+    ch54 (42 句)
+    ch55 (61 句)
+    ch56 (38 句)
+    ch57 (117 句)
+    ch58 (43 句)
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+
+$ verify_quotes.py
+ch01 the thing under the oak tree.md: 7/7 ✅（另有 1 条短引语未校验）
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 7/7 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+$ verify_quotes.py --full
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 7/7 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+$ check_vocab.py
+  [P0-4] 正文章节 1 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 23
+
+--- FAIL (0) ---
+
+--- WARN (1) ---
+  ch01 the thing under the oak tree.md [基础] 基础档疑含超纲词「cornfield」
+
+$ check_entities.py
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+$ corruption_scan.py
+
+=== 编辑损坏扫描（carry-me-to-my-grave-by-christopher-golden）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+$ sweep_full.py
+=== 引语整串 flat 比对（carry-me-to-my-grave-by-christopher-golden）===
+  参照集：text/ 逐章（58 章，可定章） + epub 交叉验证
+  ✅ 本章命中 7 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+
+$ check_chapter_quotes.py（逐章归属）
+ch01 the thing under the oak tree.md: 7/7 in ch01 text（另有 1 条短引语未校验）
+
+$ check_short_quotes.py
+=== 短引语兜底核对（carry-me-to-my-grave-by-christopher-golden）===
+  verify_quotes 跳过（<20 flat 字符）的引语：1 条 —— 这些主门禁**根本没查**
+  ✅ 命中 1 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+$ sweep_analysis_inline.py
+=== 分析层行内英文逐字核查（carry-me-to-my-grave-by-christopher-golden）===
+  参照集：text/（59 个提取件） + epub 交叉验证 ；扫 1 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：29 个表格行、2 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 33 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 14
+
+$ audit_structure.py
+=== 精读结构扫描（carry-me-to-my-grave-by-christopher-golden）===
+  扫 1 个 md、8 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+$ check_anchor.py
+=== 关键词锚定自查（carry-me-to-my-grave-by-christopher-golden）===
+  扫 1 个 md，8 个引语块，8 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（59 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+$ check_block_keywords.py
+=== 引语块覆盖度：1 个 md，问题 0 处 ===
+
+$ gate.sh
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：1 个 md，问题 0 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
