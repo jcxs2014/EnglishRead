@@ -42,7 +42,7 @@ modified: "2026-10-03"
 **为什么这样写**：全句的骨架是一个 honest couldn't remember：作者让「记不清」横在两个解释之间——心碎的有意断联，或穷到交不起话费。两个版本自我形象完全不同（一个决绝、一个狼狈），而她竟然分不出来；purposefully 上一道破折号（while in the throes of a broken heart），把「故意」这个动作整个塞进心碎的状态里，说明记忆早就被当时的心情重写过。
 
 **读者视角提示**：这条含混的记忆是本章的暗门：断联到底是她的选择还是贫困的副产品？本书不断让 Diana 重估自己过去叙事里的每一个「我当年如何」，这里是第一个样本。
-> **原句 4:** Watching him across the table, I remembered one freezing night we’d camped out in West Texas and it rained for hours. We didn’t sleep at all. In the morning, groggy and shivering, I expected him to be more than ready to pack up. But he just looked at me in our cold, leaking tent and smiled. “One more night?” He could always make a terrible idea sound good.
+> **原句 4:** Watching him across the table, I remembered one freezing night we’d camped out in West Texas and it rained for hours. We didn’t sleep at all. In the morning, groggy and shivering, I expected him to be more than ready to pack up. But he just looked at me in our cold, leaking tent and smiled. “One more night?” He could always make a terrible idea sound good. He was looking at me like that now.
 
 **中文理解**：隔着桌子望着他，我想起一个冻人的夜晚，我们在西得州露营，雨下了好几个钟头，我们一夜没睡。清晨，昏昏沉沉地发着抖，我以为他一定巴不得马上收拾走人。可他只是在那顶又冷又漏的帐篷里看着我笑：再待一晚？他总有本事把烂主意说得让人想答应。此刻他看我的眼神，跟那时一模一样。
 

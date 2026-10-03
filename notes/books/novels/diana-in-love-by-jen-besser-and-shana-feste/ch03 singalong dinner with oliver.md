@@ -48,7 +48,7 @@ modified: "2026-10-03"
 
 **关键词**：`can never evaporate`（永远蒸发不掉）、`thick and stifling`（又厚又闷，压得人喘不过气）
 
-**为什么这样写**：这段话前面刚写完 L'Wren 夫妇「bicker and then easily forgive」（吵完就轻松原谅），两种婚姻的差别被压缩在一个动词上：evaporate（蒸发）——他们家的摩擦会蒸发，他们家的不会。thick and stifling 借用天气写情绪，空气变成了某种黏稠的实体；take over the whole mood, the entire room 用空间递进把「一个人的坏情绪」写成占据整套房子。
+**为什么这样写**：这段话前面刚写完 L'Wren 夫妇「bicker and then easily forgive」（吵完就轻松原谅），两种婚姻的差别被压缩在一个动词上：evaporate（蒸发）——他们家的摩擦会蒸发，他们家的不会。thick and stifling 借用天气写情绪，空气变成了某种黏稠的实体；It takes over the whole mood, the entire room 用空间递进把「一个人的坏情绪」写成占据整套房子。
 
 **读者视角提示**：这段是 Diana 对自己婚姻最清醒的一段诊断——注意她把责任写成「张力」而不是某个人。她惯用的中性化措辞（不说他、不说我，说 tension）贯穿全书，是理解她叙述可靠度的关键。
 > **原句 5:** Donotlaughdonotlaugh. You cannot laugh while your daughter sings, which is exactly why we cannot stop laughing. Beside me, Oliver covers his mouth and I swear I hear him hiccup, like a choked giggle gone wrong. And then, in the dark auditorium, we clasp hands.
@@ -69,7 +69,7 @@ modified: "2026-10-03"
 **为什么这样写**：作者把「亲密的中断」交给房子本身：空调与阁楼的声音被升格成 A symphony we know by heart——他们太熟这栋房子的动静，熟到身体一听就撤离。turned on the lights too quickly 那个明喻把情欲的骤冷写成生理动作（眯眼）；最后 ghostly sensation of being so lonely despite lying next to someone else 是全章的题眼：孤独不在于身边有没有人，而在于这间卧室里躺过太多没解决的问题。
 
 **读者视角提示**：这段解释了为什么「跟谁做」从来不是本书的核心问题——同一个身体、同一张床，换个人也治不了房子里的记忆。Diana 的欲望从来在别处（幻想、Jasper、录音室），这里给出了第一次完整论证。
-> **原句 7:** I’m sad. It’s not the same. And this, tonight, is a Band-Aid over a bullet hole.
+> **原句 7:** “It is sad.” He looks me in the eye. “I’m sad. It’s not the same. And this, tonight, is a Band-Aid over a bullet hole.
 
 **中文理解**：「是难过。」他直视着我。「我很难过。一切都不一样了。而今晚这一场，不过是弹孔上贴了一张创可贴。」
 

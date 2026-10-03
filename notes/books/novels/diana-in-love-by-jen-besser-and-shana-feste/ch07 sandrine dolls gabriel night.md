@@ -32,8 +32,8 @@ modified: "2026-10-03"
 
 **为什么这样写**：埃菲尔铁塔脚下的麦当劳早餐是本章最好的反浪漫装置：巴黎最贵的风景配最便宜的食物，而它偏偏是真爱留下的仪式。look at the blossoms 由遗孀说出，重量全在时态上——used to come（以前常来）：传统还在，人不在了。最后半句美国谚语说一半就断，她笑出来的那一秒随即黯下去。
 
-**读者视角提示**：把这一段和上一章礼车里的 mislaid 独白对照读：Petra 的悲伤管理方式在升级——上一章是交出脆弱，这一章是把痛改写成导游词。用 trivia 垫住 grief，正是她的人格护甲。
-> **原句 3:** “Mitch liked to know every bit of inconsequential history about a place. All the what ifs and almosts.”
+**读者视角提示**：把这一段和 ch04 礼车里的 mislaid 独白对照读：Petra 的悲伤管理方式在升级——ch04 是交出脆弱，这一章是把痛改写成导游词。用 trivia 垫住 grief，正是她的人格护甲。
+> **原句 3:** She nods. “Mitch liked to know every bit of inconsequential history about a place. All the what ifs and almosts.”
 
 **中文理解**：她点点头。「Mitch 喜欢弄清一个地方每一点无关紧要的冷知识。所有的假如，和所有的差一点。」
 
@@ -77,7 +77,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：Sandrine 全书的题眼在此收拢：doll 与 puppeteer 之间隔着的不是欲望的方向，而是权力——「没人递到我手上」一句把性幻想直接写成了社会结构问题。an offering to the gods 是最狠的一笔：她支配幻想中的女人，是为了把自己从「被支配者」的名单上划掉——欲望成了防御工事。
 
-**读者视角提示**：这本「书中书」是给 Diana 的一面镜子：她录别人的幻想却从不录自己（本章结尾她说 Dirty Diana 的 total absence of me）。Sandrine 敢说的话，正是 Diana 还不敢问自己的问题。
+**读者视角提示**：这本「书中书」是给 Diana 的一面镜子：她录别人的幻想却从不录自己（本章午睡段她说 Dirty Diana 的 total absence of me）。Sandrine 敢说的话，正是 Diana 还不敢问自己的问题。
 > **原句 8:** My heart races. I didn’t think I would have a first time with someone, ever again. Even the way he looks at me is different. A confident intensity, as if he knows exactly what he wants to do to me. When we’re both naked, he sits on the edge of his bed and pulls me onto his lap. We have sex like this, moving and moaning into each other’s mouths. I tilt my head back as he kisses my neck and I smile, catching a glimpse of his unfamiliar bedroom. A stranger’s things, the feel of a stranger’s lips, a strange city. My new dress like a crumpled flower on his bedroom floor.
 
 **中文理解**：我的心跳得飞快。我没想到这辈子还能和一个人有「第一次」。连他看我的眼神都不一样：一种笃定的强度，好像他清楚地知道自己要对我做什么。两人赤裸相对时，他坐在床沿把我拉到他腿上。我们就这样做爱，呻吟着渡进彼此的嘴里。我仰起头任他吻我的脖子，一边笑着，瞥见他陌生的卧室。陌生人的物件，陌生人嘴唇的触感，一座陌生的城。我的新裙子像一朵揉皱的花，落在他的卧室地板上。

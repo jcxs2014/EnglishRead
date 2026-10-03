@@ -94,7 +94,7 @@ modified: "2026-10-03"
 
 > **原句 8:** I whisper something in his ear and he smiles and repeats it to me exactly as I’d told him to: ‘Mistress? Do you love me?’
 
-**中文理解**：我在他耳边说了句什么，他微笑着把它一字不差地复述给我——那也是我教他说的：「女主人，你爱我吗？」而她（我）回答：「不，」我说，「而且从来没有爱过。」
+**中文理解**：我在他耳边说了句什么，他微笑着把它一字不差地复述给我——那也是我教他说的：「女主人，你爱我吗？」
 
 **关键词**：`repeats it to me exactly`（一字不差地复述给我）、`Do you love me?`（你爱我吗？）
 

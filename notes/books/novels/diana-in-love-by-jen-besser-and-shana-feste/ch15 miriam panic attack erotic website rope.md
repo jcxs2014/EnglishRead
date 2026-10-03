@@ -50,7 +50,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：治疗室的讽刺在 magical thinking 一词里写尽：她带彩笔和日程 App 来谈「怎么正确地离婚」，结果被 Miriam 一句 bring me up to speed 打回原形。I tell the truth 的主语不是某句具体的坦白，而是「说真话」这个动作本身——在这段婚姻里，讲真话是需要下决心的事。
 
-**读者视角提示**：她随后那句 Yes. I would also like to understand. 请记住：上一章 Oliver 说 You never told me any of this，这一章她把同一份账单签收了——治疗室第一次公平。
+**读者视角提示**：她随后那句 Yes. I would also like to understand. 请记住：本章她两度追问 You never told me any of this——先醒的人换了位置，同一份账单这次由她签收——治疗室第一次公平。
 > **原句 5:** All that hard work and it just evaporates into the ether of an overcrowded marketplace? Another good idea lost? From what I can tell, there’s no real strategy in place for a proper launch, and no real capital in place for any marketing and PR spend. It would be a lift, for sure. But I’m up for it.
 
 **中文理解**：那么多心血，就这么蒸发到以太里？一个拥挤不堪的市场上，又一个好点子白白消失？据我所知，它没有像样的上线策略，也没有一分营销和公关预算。这活儿肯定不好干。但我愿意干。
@@ -84,7 +84,7 @@ modified: "2026-10-03"
 
 **关键词**：`all I hear is`（我只听见）
 
-**为什么这样写**：本章的滤网效应收在一个介词短语上：Jasper 报完行程（几天后纽约、再回达拉斯），七个词里她只截住了三个。all I hear is 的主语是听觉——不是他说的内容变了，是她的耳朵变了：rope 的记忆刚被翻出来，同样的 tug 已经开始硌耳朵。
+**为什么这样写**：本章的滤网效应收在一个介词短语上：Jasper 报完行程（几天后纽约、再回达拉斯），一句行程里她只截住了三个词。all I hear is 的主语是听觉——不是他说的内容变了，是她的耳朵变了：rope 的记忆刚被翻出来，同样的 tug 已经开始硌耳朵。
 
 **读者视角提示**：与 ch13 的结尾（watch me never move again）对读：那句是支票，这句是催账单。本书的爱情从来不用事件转折，只用「同一句话在两章里的重量差」转折。
 ## 本章词汇

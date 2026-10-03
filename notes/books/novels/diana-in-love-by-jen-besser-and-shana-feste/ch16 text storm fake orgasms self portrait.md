@@ -86,7 +86,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：结尾的寓言只有五句：一件叫「爱」的东西被放下了，回头就找不着原位——作者不指控任何人（who put it where 无从对证），只给出唯一诚实的结论：arguing never makes it reappear。这是全书对离婚最平静的一次陈述，与 ch01 的 humiliated、ch09 的 Yes Yes Yes 相比，Diana 终于学会了用「物件」说话——不再控诉，只描述遗失。
 
-**读者视角提示**：记住 Arguing over where you set a thing never makes it reappear：这句话会在后文与 Petra 的 mislaid（我被放丢了）汇成同一个母题——本书的失去从不轰烈，全是「放下后再也没回来」的日常。
+**读者视角提示**：记住 Arguing over where you set a thing never makes it reappear：这句话与 Petra 在 ch04 的 mislaid（我被放丢了）汇成同一个母题——本书的失去从不轰烈，全是「放下后再也没回来」的日常。
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级

@@ -32,7 +32,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：梦的转场只有一扇门：bikini 换好、门一开，Jasper 的野花浪漫直接变成 Oliver 的蓝色泳裤——作者用同一个镜头位完成换角，连醒来的动作（startle awake）都来不及缓冲。幻想自动挑剧本的能力，比任何心理描写都直白：她的身体在两个人之间没有门。
 
-**读者视角提示**：这个梦是上一章「喊错名字」的回声，方向却反了：梦里先想 Jasper、后见 Oliver。到巴黎的第一晚，欲望的排位就已经开始互相渗透——记住这个模式，后三章的每一次「选人」都会重演它。
+**读者视角提示**：这个梦是 ch02「喊错名字」的回声，方向却反了：梦里先想 Jasper、后见 Oliver。到巴黎的第一晚，欲望的排位就已经开始互相渗透——记住这个模式，后三章的每一次「选人」都会重演它。
 > **原句 3:** I’m just grateful I don’t have a husband!” I blurt. “We all have nice husbands except me and nice kids and lovely people with dogs that we like in our lives. Oh look! The Eiffel Tower.
 
 **中文理解**：「我就是庆幸我没有丈夫！」我脱口而出。「你们都有好丈夫，都有好孩子，生活里都有喜欢的、养狗的可爱人儿。哦快看！埃菲尔铁塔。」
@@ -68,7 +68,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：行程单背到一半突然断电——L'Wren 的独白从 crowd patterns 直接滑进God, I want to have sex，没有任何缓冲，喜剧效果全靠这条断层线。她补救的方式是往外推：Doesn't everyone here look at least a little bit in love?——把私人的燥热改写成整个巴黎的通感，一句免责声明。a little bit 的分寸感是她的体面在撑着。
 
-**读者视角提示**：这是 Arthur 话题第一次浮出水面（上一章只是猫照片）。记住她说话的顺序：先说欲望、再谈哲学、最后才被问出名字——本书的坦白从来是这个顺序，倒着听就是审问。
+**读者视角提示**：这是 Arthur 话题的再度升温：ch04 猫照片试探、ch05 七Eleven 坦白之后，到了巴黎她才敢当众说欲望。记住她说话的顺序：先说欲望、再谈哲学、最后才被问出名字——本书的坦白从来是这个顺序，倒着听就是审问。
 > **原句 7:** “It is about Arthur. He’s perfect, Diana. We talk. Like all night on the phone. Kevin and I never talk. Not really. We catch each other up and then we go to bed. I haven’t wanted to talk to a man in so long.”
 
 **中文理解**：「就是因为 Arthur。他完美，Diana。我们有话说。电话一打就是一整晚。Kevin 和我从来不说话。真的。我们互相汇报一下近况，然后上床睡觉。我已经太多年没有想跟一个男人说话了。」

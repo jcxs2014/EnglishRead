@@ -33,7 +33,7 @@ modified: "2026-10-03"
 **为什么这样写**：Richard Marx 的《Right Here Waiting for You》响起时，作者的选歌即判词：一首 1989 年的苦情歌，唱的就是「隔着距离等一个人」——这正是这段婚姻的死因与这段重逢的诱惑。blood vessels about to explode 用医学词写心动：不是心跳加速，是系统过载。
 
 **读者视角提示**：把这首歌词与 ch19 的 Never lifetimes 对照：歌里的人愿意等，Diana 已经算完了等待的成本——本章的舞是全书最后一次允许她「只想感觉、不算账」。
-> **原句 3:** I want to tell him that there is still hope for us. That by going through hell and back maybe, just maybe, we could emerge stronger. That our spark has not dimmed completely.
+> **原句 3:** I want to tell him so many things. I want to tell him that there is still hope for us. That by going through hell and back maybe, just maybe, we could emerge stronger. That our spark has not dimmed completely.
 
 **中文理解**：我想告诉他好多事。我想告诉他我们还有希望。说也许经过地狱里走一遭，我们没准能变得更强地走出来。说我们的火花没有完全熄灭。
 
@@ -59,7 +59,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：这是全书对 Rockgate 主妇生存术最完整的一次供述：party tricks 是魔术——看起来是坦白，其实是表演。read rooms 的房间阅读术与「哪些部分属于过分」的自查清单，正是 Dirty Diana 的反面教材：这个网站存在的意义，就是给「过分的部分」一个不需要读空气的房间。
 
-**读者视角提示**：把这段与 ch07 的 a perfect opening（对 L'Wren 开不了口）连读：她练了十年的隐身术，此刻被自己标注为 miscalculation——十年的功课，判错在「算」这个动作本身。
+**读者视角提示**：把这段与 ch04 的 a perfect opening（对 L'Wren 开不了口）连读：她练了十年的隐身术，此刻被自己标注为 miscalculation——十年的功课，判错在「算」这个动作本身。
 > **原句 6:** I post sketches and paintings and I interview women about their erotic fantasies and desires. The images of the women represent how they feel, how they look, when they allow themselves to fantasize.
 
 **中文理解**：我发布素描与画，并且采访女人，谈她们的情欲幻想与欲望。那些女人的画像，呈现的是她们允许自己幻想的那一刻的感觉、那个样子。
@@ -78,7 +78,7 @@ modified: "2026-10-03"
 **为什么这样写**：L'Wren 的反击用三件陈年旧物做证据链：杂志、咯咯笑、中途离场——把 Liam 的性成熟度钉在中学水平。Good Housekeeping（《好主妇》）是全书最妙的道具：一本持家杂志成了少年的黄书。她的论证逻辑是「他不专业」，而真正的伤口在后半句：你宁可训练我的继子，也不肯告诉我。
 
 **读者视角提示**：记住 Basic Instinct 的走避——它与本章主线的呼应：这部讲欲望与凝视的电影，Liam 不敢看，L'Wren 不以为意，而 Diana 拍的就是它。
-> **原句 8:** Maybe you should put a pause on all this. At least until Emmy graduates. Rockgate just isn’t ready. And neither is Oliver.”
+> **原句 8:** “Piece of advice, Diana? From a friend who’s apparently more like the rest of them.” She waves an arm toward the school gym. “Maybe you should put a pause on all this. At least until Emmy graduates. Rockgate just isn’t ready. And neither is Oliver.”
 
 **中文理解**：「给你一条建议吧，Diana？来自一个看起来跟他们没什么两样的朋友。」她朝学校体育馆挥了挥手。「也许你该把这一切先暂停。至少等 Emmy 毕业。Rockgate 还没准备好。Oliver 也没准备好。」
 

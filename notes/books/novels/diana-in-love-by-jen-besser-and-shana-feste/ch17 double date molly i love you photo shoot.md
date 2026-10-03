@@ -60,7 +60,7 @@ modified: "2026-10-03"
 **为什么这样写**：Molly 的舞池里，Jasper 的告白用清单体排开：四个 Your 开头的名词短语像快门连拍——他在「拍摄」她，用嘴。This is it for me / You are it 的同义反复（it 指向 it）是药物逻辑：意义不需要解释，重复即确认。而她回的那句 I love you too，是全书她第一次说出口。
 
 **读者视角提示**：把这句与 ch09 的明信片（Great cock. Takes photos.）连读：同一个人，两种文体的情书——药里的和清醒的。哪份算数？本章结尾开始计息。
-> **原句 6:** I meant what I said last night. We’re still real. Still hopelessly in love.”
+> **原句 6:** “It wasn’t the drugs. Or the DJ,” he teases and pulls my body into his. He kisses my cheek. “I meant what I said last night. We’re still real. Still hopelessly in love.”
 
 **中文理解**：「昨晚说的都是真的。」他的声音还睡意沉沉，身体却朝我卷过来。「不是因为药。也不是 DJ，」他打趣着把我拉进怀里，吻我的脸颊。「We're still real. Still hopelessly in love.」
 
@@ -78,7 +78,7 @@ modified: "2026-10-03"
 **为什么这样写**：三套 look 是同一种 look 的三次变奏——Petra 的商业直觉一针见血：Dirty Diana 的「头图」要卖的不是漂亮，是刚发生过的欲望。just got fucked 的重复是修辞学的催眠：第三次出现时它已经从下流话变成了美学标签。这也正是 Diana 假高潮时代的反面——那几年她「表演刚被满足」，如今镜头要拍「真的刚被满足」。
 
 **读者视角提示**：她那句抗议（Why am I always 'just got fucked'?）与 Petra 的回答（a lazy way to describe the vibe you put out）合起来是本章的品牌定位会：这个网站卖什么，一句话说清了。
-> **原句 8:** I tally up all the lies I’ve told today: I lied about coming down with something, when I’m actually hungover. I lied to Petra about my late night, and I lied to Oliver about a photo shoot—a lie of omission, maybe, until I made up the part about being at a makeup counter. I lied about therapy not being too much. I loathe going and it does feel like too much.
+> **原句 8:** After he leaves, I tally up all the lies I’ve told today: I lied about coming down with something, when I’m actually hungover. I lied to Petra about my late night, and I lied to Oliver about a photo shoot—a lie of omission, maybe, until I made up the part about being at a makeup counter. I lied about therapy not being too much. I loathe going and it does feel like too much.
 
 **中文理解**：他走后，我把今天撒过的谎清点了一遍：撒谎说我不舒服，其实是宿醉。对 Petra 撒谎遮掩夜生活，对 Oliver 撒谎遮掩拍摄——一场 omission 之谎（不说也算撒谎），直到我把「商场柜台试妆」那半截编圆。撒谎说治疗没那么难熬。其实我打心底讨厌去，它也确实太熬人了。
 

@@ -11,7 +11,7 @@ modified: "2026-10-03"
 - **情感弧线位置**：终章三线同日结清：友谊（热面包）、事业（自画像签收）、婚姻（幻想清单第一行兑现）；Jasper 线以 never a permanent solution 温柔结算——全书没有悬念残留，只有三条支票同时到账的声音。
 - **Tropes 兑现/反转**：兑现「闺蜜决裂后的和解」——用烘焙代替道歉；反转「复合公式」——不是 Paris、不是 Mallorca，是自家前院的一排百日菊；再反转「最后一句话该是爱情宣言」——全书以一句 kink 的原文兑现收束，Dirty Diana 的主题由前夫示范完毕。
 - **人物弧线**：Diana 画完自己（坐在浴缸边缘——ch16 背影的完工版）；L'Wren 完成「不说我在消化」的和解；Oliver 把 ch19 的 I wanted to handcuff you 兑现成 I want to；Alicia 的床边法庭给出全书欲望观的总判词；Petra 的 Close one 为全书暗喻收口。
-- **叙事手法**：终章三幕（床上面谈→工作室之夜→前院告白）全靠物件传递：烤面包、掉落的钥匙、未干的画、花坛——没有一场对峙；醉汉段落是全书唯一整段「窗外观测」，也是 Diana 自我的暗喻镜像；最后一句台词与 ch19 原文逐字咬合，全书以「说出你想要的」的动作收束。
+- **叙事手法**：终章三幕（床上面谈→工作室之夜→前院告白）全靠物件传递：烤面包、掉落的钥匙、未干的画、花坛——没有一场对峙；醉汉段落是全书唯一整段「窗外观测」，也是 Diana 自我的暗喻镜像；最后一句台词与 ch19 的幻想清单同源兑现，全书以「说出你想要的」的动作收束。
 
 ## 精读
 
@@ -23,7 +23,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：Alicia 的床边法庭一句话拆掉 ch21 的暂停令：Rockgate, not Gilead 用《使女的故事》作参照系——把「邻居的眼光」降到它真实的尺寸。the good ones get through it 是全书对友谊的最终定义：不保证不受伤，只保证能穿过去。她躺在自己的被窝里陪 Diana 躺着，这个姿势本身就是判词。
 
-**读者视角提示**：记住这句与 ch20 暂停令的关系：L'Wren 说的是「此地此时不对」，Alicia 补的是「她自己都不信」——两个判词合起来，暂停令作废。
+**读者视角提示**：记住这句与 ch21 暂停令的关系：L'Wren 说的是「此地此时不对」，Alicia 补的是「她自己都不信」——两个判词合起来，暂停令作废。
 > **原句 2:** You deserve pleasure. You already know that. But you can love sex and you can also dread sex and be bored by it. All of that is fair and normal. You do not owe anyone sex in order to have a happy marriage.
 
 **中文理解**：「你值得愉悦。这你早就知道。但你可以热爱性，也可以害怕性、对性感到无聊。这一切都正当、都正常。你不欠任何人性，好换来一段幸福的婚姻。」
@@ -32,7 +32,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：全书欲望观的最终判决书：You deserve pleasure 五个词是 Dirty Diana 立项以来所有采访的总和。dread sex / be bored by it 的并列最珍贵——她不许 Diana 把「快感」变成新的义务。owe anyone sex 把婚姻里的性债一笔勾销：本书从 ch01 的性幻想开始，到这里才把「不欠」两个字说全。
 
-**读者视角提示**：注意 Alicia 的职业（拍电影的老师）与这段话的文体：她给 Diana 上的是一堂「同意课」——不是鼓励更多性，是收回性里所有被迫的成分。
+**读者视角提示**：注意她的课堂这周正在放学生短片（ch15 的 freshman shorts screening），而这段话却是全书的欲望总纲——她给 Diana 上的是一堂「同意课」——不是鼓励更多性，是收回性里所有被迫的成分。
 > **原句 3:** He was never a permanent solution. Did I nail it?”
 
 **中文理解**：「他从不是长久之计。我说中了吗？」
@@ -68,14 +68,14 @@ modified: "2026-10-03"
 
 **为什么这样写**：ch16 的背影自画像在此完工：坐在浴缸边缘的自己——hands are all wrong 的那双手（全书的执笔之手），最后由别人宣告完美。squeezes my fingers 把「画手」这个未解难题交给一个拥抱解决。rest my head on her shoulder and stay there 是 Diana 第一次允许自己在作品前停留——不逃、不删、不重画。
 
-**读者视角提示**：把这句话与 ch16 的 I don't recognize my reflection 对读：镜子里认不出的女人，在画布上被朋友签收了。
+**读者视角提示**：把这句话与 ch06 的 I don’t recognize my reflection 对读：镜子里认不出的女人，在画布上被朋友签收了。
 > **原句 7:** “Planting zinnias. Up the walk, like you always wanted.” He’s slightly out of breath. “I was going to plant roses, too, but then I remembered our night at the hotel fiasco…and thought better of it.”
 
 **中文理解**：「种百日菊。沿着走道，像你一直想要的那样。」他微微喘着气。「我本来还想种玫瑰，但想起我们那场酒店惨案……就打消了念头。」
 
 **关键词**：`Planting zinnias`（种百日菊）、`like you always wanted`（像你一直想要的）、`the hotel fiasco`（那场酒店惨案）
 
-**为什么这样写**：Oliver 的求爱不用嘴唇，用花坛：zinnias（百日菊）是她 ch10 提过一句 my favorite 的花——他记了整整九章。Up the walk, like you always wanted 把「我一直想要的」这五个字还给她：这是全书第一次有人把她的欲望当施工图纸。the hotel fiasco 的自嘲是他给安全感上的保险：我已经学会了不再想当然。
+**为什么这样写**：Oliver 的求爱不用嘴唇，用花坛：zinnias（百日菊）是她 ch10 提过一句 my favorite 的花——从那句随口的话到种进土里，隔了整整一个秋天。Up the walk, like you always wanted 把「我一直想要的」这五个字还给她：这是全书第一次有人把她的欲望当施工图纸。the hotel fiasco 的自嘲是他给安全感上的保险：我已经学会了不再想当然。
 
 **读者视角提示**：记住花的品种：不是玫瑰（默认的浪漫），是百日菊——她随口说过一次的偏好。被记住的欲望，才是被听见的欲望。
 > **原句 8:** Oliver leans in and whispers in my ear, the feel of his breath on my neck sending an electric shiver through my body. “Because I want to handcuff you to the sink.”

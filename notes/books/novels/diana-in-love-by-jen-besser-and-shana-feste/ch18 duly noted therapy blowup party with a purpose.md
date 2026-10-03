@@ -39,7 +39,7 @@ modified: "2026-10-03"
 
 **关键词**：`didn’t believe you`（并不相信你）、`for my own ego`（为了我自己的自尊）、`set a precedent`（开了先例）
 
-**为什么这样写**：Oliver 的坦白把全书的根基事件翻出来重审：初夜的那声 yes 是一段婚姻的地基——他在 22 岁时就知道是假的，选择相信是为了 ego，而 ego 铸成了 precedent。作者用法律词汇（call out、precedent）写性：第一次的谎言从此成为判例法，此后二十年的每一次假装都有法可依。
+**为什么这样写**：Oliver 的坦白把全书的根基事件翻出来重审：初夜的那声 yes 是一段婚姻的地基——初夜时他就知道是假的，选择相信是为了 ego，而 ego 铸成了 precedent。作者用法律词汇（call out、precedent）写性：第一次的谎言从此成为判例法，此后每一次假装都有法可依。
 
 **读者视角提示**：把这段与 Diana 的 therapist fantasy（ch14 的 Henry 规则）对读：那边是「规则用来打破」，这边是「先例用来沿用」——两套法系，一种婚姻。
 > **原句 4:** And the sex between us was tender and it was good but never great and I didn’t come. I lied and then I lied again. And then the very things that made me safe, I began to resent him for.
@@ -48,7 +48,7 @@ modified: "2026-10-03"
 
 **关键词**：`never great`（从没到过很好）、`I didn’t come`（我没有高潮）、`made me safe`（给我安全感的东西）
 
-**为什么这样写**：这段内心独白是全书对这段婚姻最公道的验尸报告：tender and good but never great——三个刻度一格不虚。I lied and then I lied again 的两次重复是全章的骨架：第一次谎是善意，第二次谎是惯性，第三次（本章）是制度。made me safe 与 resent 的并置是婚姻的残酷数学：让你留下来的东西，恰恰让你出不去。
+**为什么这样写**：这段内心独白是全书对这段婚姻最公道的验尸报告：tender and it was good but never great——三个刻度一格不虚。I lied and then I lied again 的两次重复是全章的骨架：第一次谎是善意，第二次谎是惯性，第三次（本章）是制度。made me safe 与 resent 的并置是婚姻的残酷数学：让你留下来的东西，恰恰让你出不去。
 
 **读者视角提示**：记住 never great 这个三字判决——它与 ch13 的 I want incredible 隔章押韵：Jasper 要的是 incredible，Oliver 给的是 never great，而 Diana 两种都没说出口过。
 > **原句 5:** “We had the same sex for so long. And for some reason it felt wrong to even suggest a different way. I felt dirty. Like I would shock you. Or disappoint you.”
@@ -57,16 +57,16 @@ modified: "2026-10-03"
 
 **关键词**：`the same sex`（同一种性）、`I felt dirty`（我觉得脏）、`shock you`（吓到你）
 
-**为什么这样写**：I felt dirty 是本章最疼的三个词：不是性让她觉得脏，是「想要别的」让她觉得脏——她的欲望被自己先判了刑。shock you / disappoint you 两个补语写尽她的丈夫观：她把他想象成一个易碎品。the same sex 用了单数：不是「相似的性」，是「同一种」——二十年一个版本。
+**为什么这样写**：I felt dirty 是本章最疼的三个词：不是性让她觉得脏，是「想要别的」让她觉得脏——她的欲望被自己先判了刑。shock you / disappoint you 两个补语写尽她的丈夫观：她把他想象成一个易碎品。the same sex 用了单数：不是「相似的性」，是「同一种」——一个版本用了多年。
 
-**读者视角提示**：Oliver 的回应（What would that have sounded like?）是治疗师式的提问，却由丈夫说出——本章的 Miriam 几乎失业：真正在治疗这对夫妻的，是他们自己。
+**读者视角提示**：Miriam 的追问（What would that have sounded like?）紧随其后——本章 Miriam 没有失业：真正在治疗这对夫妻的，是他们自己。
 > **原句 6:** I turn to Miriam. Bingo. Oliver was fine judging other women. Judging their desires. Their fantasies. It was fine because it wasn’t me.
 
 **中文理解**：我转向 Miriam。宾果。Oliver 审判别的女人从来没问题。审判她们的欲望。她们的幻想。都没问题，因为那不是我。
 
 **关键词**：`judging other women`（审判别的女人）、`Their fantasies`（她们的幻想）、`it wasn’t me`（因为那不是我）
 
-**为什么这样写**：Bingo 一个词是全章的破案音效：creepy 那句判词（ch16 录音事件）在此定罪——他不是不能接受欲望，是不能接受「她的」欲望。judging other women / their fantasies / it wasn't me 三级递进，把 Double standard 拆到骨头。作者让 Diana 的顿悟发生在治疗室而不是床上，因为只有在这里她敢说 Bingo。
+**为什么这样写**：Bingo 一个词是全章的破案音效：那盘她放给他听过的录音（The recording I played for you once）与那句没说出口的 creepy（You didn’t have to, Oliver. I felt it.）在此定罪——他不是不能接受欲望，是不能接受「她的」欲望。judging other women / their fantasies / it wasn't me 三级递进，把 Double standard 拆到骨头。作者让 Diana 的顿悟发生在治疗室而不是床上，因为只有在这里她敢说 Bingo。
 
 **读者视角提示**：记住这句与 ch01 序章的镜像：Brigitte 幻想里的女人被全场围观（masked crowd），Diana 的幻想被丈夫定罪——本书所有女性欲望都活在「观众」的注视下，区别只在于观众摘不摘面具。
 > **原句 7:** It’s as if a version of my desire was cemented long ago and any deviation from it is some kind of betrayal we stumble over or walk the long way to avoid.
@@ -95,7 +95,7 @@ modified: "2026-10-03"
 |---|---|---|
 | precedent | 先例；判例 | But it set a precedent. |
 | cemented | 浇死；固化的 | my desire was cemented long ago |
-| hemming | 支支吾吾（hem and haw） | After lots of hemming and hawing and many bad ideas |
+| hemming | 支支吾吾；说话躲闪 | After lots of hemming and hawing and many bad ideas |
 | impassioned | 情绪激昂的 | a crowded auditorium of impassioned parents |
 | incontinent | 失禁的 | Two of them are incontinent. |
 | uncoupling | 解耦（和平分手的委婉语） | Very conscious uncoupling. |
@@ -129,4 +129,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-治疗室这章没有胜者：Oliver 交出初夜那声 yes 的旧案（我并不相信你，但我需要相信），Diana 交出二十年的验尸报告（同一种性、我从未到过、我觉得脏）；creepy 那次审判在本章被判 Bingo——他审的从来不是欲望，是她的欲望。校园那边 L'Wren 用一场八十年代返校节接管了家长会，转头把「还有这么多余量」的发现寄给前夫：本书最凶的一章，收在最软的一句祝福上。
+治疗室这章没有胜者：Oliver 交出初夜那声 yes 的旧案（我并不相信你，但我需要相信），Diana 交出多年的验尸报告（同一种性、我从未到过、我觉得脏）；creepy 那次审判在本章被判 Bingo——他审的从来不是欲望，是她的欲望。校园那边 L'Wren 用一场八十年代返校节接管了家长会，转头把「还有这么多余量」的发现寄给前夫：本书最凶的一章，收在最软的一句祝福上。

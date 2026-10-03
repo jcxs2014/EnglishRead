@@ -48,7 +48,7 @@ modified: "2026-10-03"
 
 **关键词**：`a few extra days in Paris`（在巴黎多留几天）、`lie to Allen`（对 Allen 撒谎）、`lie to Oliver`（对 Oliver 撒谎）
 
-**为什么这样写**：六个 Yes 用排比演完一场道德清账：前两个 Yes 是给自己的（多留），后两个是给别人的（谎言），最后三个 Yes 不带宾语——纯粹的欲望在给自己盖章。作者让「决定」与「谎言」共享同一个词，句法本身就是判词：她的自由是从欺骗里借来的。
+**为什么这样写**：七个 Yes 用排比演完一场道德清账：前四个带宾语（两个给自己的多留、两个给别人的谎言），最后三个 Yes 不带宾语——纯粹的欲望在给自己盖章。作者让「决定」与「谎言」共享同一个词，句法本身就是判词：她的自由是从欺骗里借来的。
 
 **读者视角提示**：记住这两个谎言的具体内容（Petra 的钱／改期的会面）——它们分别压着全书的两条主线（Dirty Diana 的钱与 Oliver 的等待），到后面章节都要来收账。
 > **原句 5:** To whom it may concern: I’ve extended my stay in Paris. Remember Jasper? Tallish. Massively charming. Great cock. Takes photos. He’s the reason. God, I love Paris. Diana x
@@ -84,9 +84,9 @@ modified: "2026-10-03"
 
 **关键词**：`this bath to just be a bath`（这浴缸不只是个浴缸）、`We could never leave`（我们永远别走）、`lasted over a decade`（持续了十几年）
 
-**为什么这样写**：We could never leave 是全书最甜也最危险的一句台词：它从她嘴里说出来时是情话，但「永远别走」正是上一章 Band-Aid 判词的反面——作者让最想留下的时刻说出最不现实的承诺。a pull so strong it has lasted over a decade 给这段关系定了性：不是重逢的火花，是十几年的潮汐。
+**为什么这样写**：We could never leave 是全书最甜也最危险的一句台词：它从她嘴里说出来时是情话，但「永远别走」正是 ch03 Band-Aid 判词的反面——作者让最想留下的时刻说出最不现实的承诺。a pull so strong it has lasted over a decade 给这段关系定了性：不是重逢的火花，是十几年的潮汐。
 
-**读者视角提示**：章末他说 Promise me you'll do that every day we're together，她应下了——但闭眼前的最后半句（那个已经在想回家的小声音）是作者埋的账单：本章所有 Yes 都是热的，只有结尾这半句是凉的。
+**读者视角提示**：章末他要她保证 Promise me you'll do that every day we're together，她笑着推脱（I don’t know if I can ever do that again）——闭眼前的最后半句（那个已经在想回家的小声音）是作者埋的账单：本章所有 Yes 都是热的，只有结尾这半句是凉的。
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -132,4 +132,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-多留三天的代价是两句谎话，Jasper 的巴黎用三件礼服和一整面湿墙来付账；明信片上那句「Remember Jasper? Tallish. Massively charming.」是她第一次用旁观者口吻讲自己的沉溺。浴缸里他要她保证「以后每天都这样」，她笑着应了——闭眼时却听见那个已经开始想回家的小声音：本章所有 Yes 都是热的，只有最后那半句是凉的。
+多留三天的代价是两句谎话，Jasper 的巴黎用三件礼服和一整面湿墙来付账；明信片上那句「Remember Jasper? Tallish. Massively charming.」是她第一次用旁观者口吻讲自己的沉溺。浴缸里他要她保证「以后每天都这样」，她笑着推脱——闭眼时却听见那个已经开始想回家的小声音：本章所有 Yes 都是热的，只有最后那半句是凉的。

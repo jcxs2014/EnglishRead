@@ -68,7 +68,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：这段「评级对话」是全章最好的一场戏：Diana 用 great 总结他们的性，Jasper 当场把形容词拿去标定刻度——fine 之下、great 之上、incredible 之顶。他不满的不是性，是词汇的诚实度：他要她承认这是 exceptional，而不是给婚姻旧账打及格分。
 
-**读者视角提示**：把这段与 Diana 的职业对读：她每天听陌生女人给幻想打分（三星半、四星），轮到自己的爱情，她只肯给 great——本章她正在学会给自己的欲望标更高的价。
+**读者视角提示**：把这段与 Diana 的职业对读：她给项目录了一夏天采访、自己也编过三星半的读者评论（ch07），轮到自己的爱情，她只肯给 great——本章她正在学会给自己的欲望标更高的价。
 > **原句 7:** “My fantasy is keeping you in my pocket.” He rolls onto me, his forearms framing my face. “Total access.”
 
 **中文理解**：「我的幻想是把你装进口袋里。」他翻身上来，两条前臂框住我的脸。「完全使用权。」

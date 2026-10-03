@@ -23,7 +23,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：Petra 的邮件把一桩商业决定写成一条醉汉短信：old shriveled dicks 是她对整间公司的临别赠言——钱留下了，敬意一个字没给。xoxoxo 的落款是点睛之笔：亲密符号贴在羞辱之后，比任何威胁都让 Allen 难受。这封邮件同时是给 Diana 的战报：她的人情起了作用，用的是她从来不敢用的语言。
 
-**读者视角提示**：记住 this 的位置：上一章礼车里她说「我不差这一点人情」，这一章她用一封转发级的邮件收了账——Dirty Diana 的第一批「关系资产」到账。
+**读者视角提示**：记住 xoxoxo 的位置：ch04 礼车里她明确说过 won’t be convinced just because someone nice with a vagina works at the firm，这一章她用一封转发级的邮件收了账——Dirty Diana 的第一批「关系资产」到账。
 > **原句 2:** And forfeit a lifetime supply of free La Croix and my dad’s low-grade disdain? Bite your tongue.”
 
 **中文理解**：「然后放弃终身免费气泡水、还有我爸低度轻蔑的待遇？你可想好了再说。」
@@ -32,7 +32,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：Liam 的自嘲清单只有两项，却把「寄生生活」的定价报得清清楚楚：free La Croix（物质）＋low-grade disdain（精神）——他连父亲的看不起都折算成了福利。Bite your tongue 把「搬家」这个提议当成对整体的亵渎，喜剧的壳里是他用玩笑给安全区上锁。
 
-**读者视角提示**：记住这句：两章之后他会真的搬出这间地下室——到时候回来对照这个价格表，才知道他放弃了什么。
+**读者视角提示**：记住这个价格表：免费的气泡水加低度轻蔑——到 ch22 他还住在这儿，这套福利他没打算放弃。
 > **原句 3:** “Diana, this is Kirby.” Liam beams. “She looks like a Fox News anchor but that’s just her vibe.”
 
 **中文理解**：「Diana，这是 Kirby。」Liam 眉飞色舞。「她看起来像福克斯新闻主播，但那只是气质。」
@@ -78,7 +78,7 @@ modified: "2026-10-03"
 **为什么这样写**：Diana 说这句话的姿态全在 Maybe 和 sometimes 里：她给自己留了随时撤回的余地——上一章还在 baby steps，这一章已经开始替团队看房。an entire empty floor 的分量要对照 Petra 的原话（free）来读：从「有人愿意给」到「我们该不该要」，决定权第一次真正落在 Diana 手里。
 
 **读者视角提示**：记住这个转折点的触发者：不是 Allen 的任务，不是 Jasper 的巴黎——是 Kirby 那个 Not yet。事业线的每一步，都是被人推着走的；Diana 的成长方式是「被说服」，不是「下决心」。
-> **原句 8:** Whaaaat?” He blushes. “True. But it’s totally one-sided. The Dirty Diana HR department has nothing to sweat.
+> **原句 8:** “Whaaaat?” He blushes. “True. But it’s totally one-sided. The Dirty Diana HR department has nothing to sweat.
 
 **中文理解**：「什——么？」他脸红了。「是真的。但完全是我一头热。Dirty Diana 人事部没什么可担心的。」
 

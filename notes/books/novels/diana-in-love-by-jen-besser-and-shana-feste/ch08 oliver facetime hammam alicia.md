@@ -7,7 +7,7 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：巴黎第二夜到第三天：Oliver 午夜 FaceTime 说「我想你」，接着甩出那张发错的照片；Diana 在「我们从来没发过这种照片」的事实里失眠到天亮，睡过头错过卢浮宫，下午跟 Alicia 去大清真寺洗土耳其浴——Alicia 在薄荷茶座宣布「我再也不回去了」，夜里 Jasper 的消息悬着三个点，然后消失。
+- **一句话概括**：巴黎第二夜到第三天：Oliver 午夜 FaceTime 说「我想你」，接着甩出那张发错的照片；Diana 在「我们从来没发过这种照片」的事实里失眠到天亮，睡过头错过卢浮宫，下午跟 Alicia 去大清真寺洗土耳其浴——Alicia 在薄荷茶座宣布「我再也不回去了」，傍晚 Jasper 的消息悬着三个点，然后消失。
 - **情感弧线位置**：本书第一个低谷后的回温段——照片事故是本章（也是全书）最重的社死现场，但浴场与公园把情绪洗了回来；Alicia 的「身体归还宣言」是回温的引擎，结尾三个点的消失把悬念又挂了起来。
 - **Tropes 兑现/反转**：兑现「发错消息名场面」并反转其后果——没有撕破脸，只有一句更疼的事实陈述；反转「浴场疗愈」——洗掉的不是疲惫，是「被需要」；再反转「闺蜜旅行必修卢浮宫」——主角睡过全程，卢浮宫让给了别人。
 - **人物弧线**：Oliver 完成从「前夫」到「最懂她的旧人」的一次转身（他说的每句话都踩在她最疼的地方）；Alicia 从配角升为本书的「身体哲学家」，她的 selfish 清单是全书少有的纯粹快乐段落；Diana 第一次同时被两个月人（一个旧一个新）和一串未发送的消息夹住。
@@ -32,7 +32,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：Oliver 用了一句教科书级的低伤害措辞：不质问、不说破内容，只说 I don't think it was for me——把判断权轻轻递还给 Diana。这句话的杀伤力全在克制里：他已经看完了，却替她保留最后一块遮羞布。
 
-**读者视角提示**：对照上一章他的 Band-Aid 判词：这个男人一贯用「帮忙把话说完」的方式处理尴尬。记住这种温和——它后面还会让 Diana 更难受。
+**读者视角提示**：对照 ch03 他的 Band-Aid 判词：这个男人一贯用「帮忙把话说完」的方式处理尴尬。记住这种温和——它后面还会让 Diana 更难受。
 > **原句 3:** Oh. My. God. There it is. Me on Gabriel’s couch, underwear pulled aside.
 
 **中文理解**：哦。天。哪。就在那儿。Gabriel 的沙发上，我，内裤拨到一边。
@@ -48,7 +48,7 @@ modified: "2026-10-03"
 
 **关键词**：`the last thing I expected him to say`（我最想不到他会说的话）
 
-**为什么这样写**：这句话的残忍在于它是一句事实陈述：We never sent pictures like this——十四年婚姻里没有过的亲密，此刻由前夫平静地指出来。它不是指责，却比指责更重：他只是把「你们现在的关系比我们当年更放开」这个事实放在桌上。the last thing I expected 是 Diana 的错愕——她准备好了挨骂，没准备好被比下去。
+**为什么这样写**：这句话的残忍在于它是一句事实陈述：We never sent pictures like this——多年婚姻里没有过的亲密，此刻由前夫平静地指出来。它不是指责，却比指责更重：他只是把「你们现在的关系比我们当年更放开」这个事实放在桌上。the last thing I expected 是 Diana 的错愕——她准备好了挨骂，没准备好被比下去。
 
 **读者视角提示**：这是本章真正的题眼：照片事故暴露的不是她的出轨，是这段旧婚姻里从未存在过的那种自由。她跟 Gabriel 做的事，Oliver 连想象都停在门外。
 > **原句 5:** “I’m never going back, Diana. Never.”
@@ -59,7 +59,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：两个 Never 的叠用（句中一个、句尾一个）让这句话听起来像赌咒，不像感叹。说这话的场景是大清真寺的茶座，阳光、薄荷茶、开心果酥——世上最柔软的地方说出全书目前最硬的一句话。
 
-**读者视角提示**：注意她接着自己找补（Should I let your husband know?）——Alicia 的「不回去」和上一章 L'Wren 的「可能会跟 Arthur 上床」是同一种出逃宣言的两种音量：一个喊出来，一个咬着牙说。
+**读者视角提示**：注意 Diana 一句 Should I let your husband know? 的打趣接住告白——Alicia 的「不回去」和 ch05 L'Wren 的「可能会跟 Arthur 上床」是同一种出逃宣言的两种音量：一个喊出来，一个咬着牙说。
 > **原句 6:** “It’s crazy though, isn’t it? That when you’re in it, you’re so in it. You can’t imagine leaving even for a day, you’ll miss your family too much. But then you do leave and you can be so out of it. Instantly. I thought being away from Elvis would feel like missing a limb. Instead I feel like I’m completely in my body. Like it’s all mine again.”
 
 **中文理解**：「可这也很疯了，不是吗？你在其中的时候，你就是整个在里面。你没法想象离开一天会怎样——你会想家想死。可等你真的走了，你又能瞬间整个人在外面。我以为离开 Elvis 会像缺了一条胳膊。结果我觉得自己完全回到了身体里。就像身体重新属于我自己了。」

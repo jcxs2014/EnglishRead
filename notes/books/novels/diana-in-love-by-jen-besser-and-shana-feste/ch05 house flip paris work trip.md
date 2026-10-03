@@ -30,9 +30,9 @@ modified: "2026-10-03"
 
 **关键词**：`fake laugh`（假笑（出声的那种））、`slip it under the rug`（把它塞进地毯底下）
 
-**为什么这样写**：fake laugh 写的是声音的失真，真正失真的是关系：作者让一个「笑」承担了整段关系的体检报告——连笑都要分场合、分版本。slip it under the rug 接着上一章 Band-Aid 的意象系统：他们处理问题的办法永远是把东西藏进家具的缝隙里。注意动词 slips——不是解决，是「滑进去」，连藏都藏得毫不费力。
+**为什么这样写**：fake laugh 写的是声音的失真，真正失真的是关系：作者让一个「笑」承担了整段关系的体检报告——连笑都要分场合、分版本。slip it under the rug 接着 ch03 Band-Aid 的意象系统：他们处理问题的办法永远是把东西藏进家具的缝隙里。注意动词 slips——不是解决，是「滑进去」，连藏都藏得毫不费力。
 
-**读者视角提示**：地毯在这里第三次出场（上一章她想把新地毯买来盖地板响）——本书用反复出现的家居细节做记忆锚点，读到后面会明白：这套房子里每件东西都是时间的证人。
+**读者视角提示**：地毯在这里第三次出场（ch03 她想把新地毯买来盖地板响）——本书用反复出现的家居细节做记忆锚点，读到后面会明白：这套房子里每件东西都是时间的证人。
 > **原句 3:** “Yes, ours. And I only touched my half, which I’m going to double. Just give me six months.”
 
 **中文理解**：「对，我们的。而且我只动了我那一半，我还会加倍还回来。就给我六个月。」
@@ -48,7 +48,7 @@ modified: "2026-10-03"
 
 **关键词**：`might make you happier`（可能让你更快乐的东西）、`something I love`（我真正爱上的事）
 
-**为什么这样写**：Oliver 的自我辩护辞令高超：把「挪用共同存款」包装成「找到热爱」，把受害者变成下一个被邀请 Quit job 的人。something I love 与她上一段刚说完的 I wish I knew better what I wanted 形成残忍的对仗——他找到了，她还没找，而他用的是她的钱。
+**为什么这样写**：Oliver 的自我辩护辞令高超：把「挪用共同存款」包装成「找到热爱」，把受害者变成下一个被邀请 Quit job 的人。something I love 与上一章网球局她说过的 I wish I knew better what I wanted 形成残忍的对仗——他找到了，她还没找，而他用的是她的钱。
 
 **读者视角提示**：注意 Diana 的反应不是反驳而是 cold fury（手臂汗毛立起来的那种冷怒）——本书写愤怒很少用喊，多写身体。这一对夫妻的争吵全程音量不高，杀伤力全在词汇选择上。
 > **原句 5:** “Because you were fucking born into it—” My rage is coming so fast and thick, the words get stuck in my throat. “No.” I shake my head. “Not right now. I’m late. To drop off fucking watermelon.” I immediately regret adding the watermelon detail. It sounded more potent in my head.
