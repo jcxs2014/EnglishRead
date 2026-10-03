@@ -92,6 +92,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 明细见工作日志 2026-10-03 本书专节；commits 9 笔，**均未 push**
 - **五步审查未做（待用户发起）**
 
+**《Carry Me to My Grave》五步审查结论（2026-10-03，Qoder-Mac 同会话不降级）**
+- **五步审查（用户 2026-10-03 发起，Qoder-Mac 同会话不降级，a–e 全跑）**：门禁全绿下查出并整改 **50 处阻断型**（54 处替换），根因五类——①**亲属关系凭印象填入分析层 37 处（74%）**：ch17「弟弟」×11、ch31/ch29/ch23/ch24/ch46/ch06/ch07 的「妹妹·兄妹」、ch04/ch34/ch08 兄弟长幼；②分析层英文「每词都在、连续串不在」8 处（blew/blow、grinned/grins、caught/catch 等）；③主体归属 3 处（ch30 Dwight 其实听不见琴声／ch37 撒粉是 Jennie／ch45 Elias 并非不说话）；④叙述次序 3 处（ch26/ch28/ch13）；⑤可核伪断言 4 处
+- 审查中新增 `scripts/attic/cmtmg_full_flat.py` 补盲区：`sweep_analysis_inline` 只收带引号英文且引号左到右配对 ⇒ 裸英文与「一行内先有短中文引号」的行全部失明（本次 8 处形态缺陷它一条没报）
+- 复核后**撤回子代理幻觉 9 条**；合法未改项已逐条判明（ch02 未定长幼、ch06/ch10「弟弟」指 Joe→Alfie、ch55「哥哥让着弟弟」）
+- 复验仍全绿：gate.sh EXIT=0 · verify 476/476 · corruption 0 · sweep_full 456/0 · 逐章 58/58 · 总览 54/54·标签 62/62
+- ⚠️ 同会话局限：d 步人判由两个只读子代理分章完成，**主会话抽验了 9 条最要害的（亲属/主体/次序）并逐条回原文复核**，未逐条复核其余 41 条；说话人层面靠子代理开 200 字窗口，主会话未逐条复开
+- 审查报告 `.memory/reviews/2026-10-03-carry-me-to-my-grave-五步审查.md`；复跑原件 `.memory/raw-gates/.../2026-10-03-五步审查-recheck.txt`
+
 ### [2026-10-03 10:05 UTC] [Hermes] → All
 
 **deathless-by-julie-kagawa｜《Deathless》（Julie Kagawa）精读完工 + 五步审查已整改**
