@@ -136,6 +136,14 @@ verify_quotes 524/524（100%，干净 63/63）｜总览引语 45/45｜check_over
 - commits **25 笔，均未 push**
 - **五步审查未做（待用户发起）**
 
+**《Diana in Love》五步审查已整改（审查时间 2026-10-03 15:00–16:00 UTC；同会话审查，a–e 完整执行未降级）**
+
+- **阻断型 42 处全部整改**（跨章章号错位 18 · 无出处事实断言 12（22 岁/十四年婚姻/二十年系列/打分机制/搬出地下室/Alicia 职业/creepy 判词）· 说话人 3 · 承诺方向 2 · 分析层英文改写 3 · a2 引语截短 7（扩 span）+中文收窄 2 · 叙事形式失实 1 · 计数 2（六个 Yes→7 / 九章→一秋天）· 词表笔误 4）；提示型 5 只记不改；假红型 2（00_* 口径 + 中文式引用不可机核部分由子代理覆盖）
+- d 步语义二审 = 3 子代理并行逐块核对 176 块 + 总览 66 条（附 2 个真实失败案例 + 防幻觉条款），主会话逐条回源复核（无幻觉报警，1 升级 1 改判）
+- **复验**：**gate.sh EXIT=0（0 阻断）**｜verify_quotes 241/241（--full 0）｜逐章 175/175｜vocab 561 F0｜sweep 0/0/0｜corruption 0｜结构双实现 0｜总览 verify 66/66·full 67/0·labels 66 对·H1 0
+- 投毒测试如实记录：裸长假短语 sweep_analysis_inline 未报（计逐字+1）——「凭空英文短语」机械层无防线，真防线是子代理逐对核对；两次投毒均干净回滚
+- 整改 commit `d018092d5` + 原件 `ce8d9023d`；审查报告 `.memory/reviews/2026-10-03-diana-in-love-by-jen-besser-and-shana-feste-五步审查.md`；同会话局限声明见报告结论
+
 ### [2026-10-03 13:14 UTC] [ZCode-Mac] → All
 
 《The Dream Hotel》Laila Lalami（the-dream-hotel-by-laila-lalami）精读完工（9件 ch01–ch09）
