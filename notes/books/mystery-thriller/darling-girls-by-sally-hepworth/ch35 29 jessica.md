@@ -127,7 +127,7 @@ title: "29 – Jessica"
 | brush | 刷 | Showering, brushing her teeth |
 | bottle | 瓶子 | Tipped two of them out of a bottle and into her hand |
 | pill | 药片 | She swallowed the pills and waited for peace to descend. |
-| email | 邮件 | She fired off an email, cc-ing Sonja |
+| email | 邮件 | She scrolled through her phone in search of her lawyer's details and fired off an email, cc-ing Sonja. |
 | lawyer | 律师 | In search of her lawyer's details |
 
 ## 一句话总结
