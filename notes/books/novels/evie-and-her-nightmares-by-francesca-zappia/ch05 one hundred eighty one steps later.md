@@ -115,7 +115,7 @@ I grab my folder and pencil off my desk and slide past Mr. Cox."
 | self-healing | 自我治疗（此处指游戏技能） | Each point of damage you take can be converted into armor, more powerful attacks, or self-healing. |
 | maximizing | 最大化 | I like the idea of maximizing my damage and hitting enemies hard. |
 | impotent | 虚弱的；无力的 | He’s trying to get his control back, trying to make me cave in front of the rest of the class so he doesn’t look so impotent. |
-| unwillingness | 不情愿 | Even I’m surprised by my willingness to talk back to a teacher. |
+| willingness | 情愿；愿意 | Even I’m surprised by my willingness to talk back to a teacher. |
 | haunting | 萦绕不去的； eerie 的 | The sky is overcast, and the sound of rain accompanies a haunting string melody. |
 | references | （网名里的）典故引用 | I want to pick something similar, not a real name but not some stupid handle with a bunch of numbers and references, either. |
 
