@@ -1,0 +1,57 @@
+### verify_quotes
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+ch01 one.md: 8/8 ✅
+ch02 two.md: 8/8 ✅
+ch03 three.md: 8/8 ✅
+ch04 four.md: 8/8 ✅
+ch05 five.md: 7/7 ✅
+ch06 six.md: 8/8 ✅
+ch07 seven.md: 8/8 ✅
+ch08 eight.md: 8/8 ✅
+ch09 nine.md: 8/8 ✅
+ch10 ten.md: 7/7 ✅（另有 1 条短引语未校验）
+ch11 eleven.md: 8/8 ✅
+ch12 twelve.md: 8/8 ✅
+ch13 thirteen.md: 7/7 ✅
+ch14 fourteen.md: 6/6 ✅
+ch15 fifteen.md: 4/4 ✅（另有 2 条短引语未校验）
+ch16 sixteen.md: 6/6 ✅（另有 1 条短引语未校验）
+ch17 seventeen.md: 6/6 ✅（另有 1 条短引语未校验）
+ch18 eighteen.md: 7/7 ✅
+ch19 nineteen.md: 7/7 ✅
+ch20 twenty.md: 6/6 ✅（另有 1 条短引语未校验）
+ch21 twenty one.md: 7/7 ✅
+ch22 twenty two.md: 8/8 ✅
+
+⚠️ 全书共 6 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 2 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 158/158 引文可核实（100%）；完全干净文件 22/22；正文章节 0 提取 0；总览 0 提取转交 2 ===
+### check_vocab
+词条行合计: 320
+
+--- FAIL (0) ---
+
+--- WARN (0) ---
+### check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+### corruption_scan
+
+=== 编辑损坏扫描（deathless-by-julie-kagawa）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+### sweep_full
+=== 引语整串 flat 比对（deathless-by-julie-kagawa）===
+  参照集：text/ 逐章（22 章，可定章） + epub 交叉验证
+  ✅ 本章命中 158 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 7 条归 check_short_quotes；无章可对 0 条未判）
+### audit_structure
+=== 精读结构扫描（deathless-by-julie-kagawa）===
+  扫 25 个 md、167 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
