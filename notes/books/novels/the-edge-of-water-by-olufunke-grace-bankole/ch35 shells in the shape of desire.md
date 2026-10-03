@@ -58,7 +58,7 @@ modified: "2026-10-03"
 
 > **原句 4:** "And he was sure he could have done more. Nothing had eased this singular guilt. Certainly not drinking until he passed out, trying to forget, as he’d done in the earlier years. With time, he became better at lining up the questions he could have asked the officials in the dome that day. He remembered the face of the nurse that had come for Amina. But he hadn’t searched for her after he left the dome. The shame of his silence kept him from telling Rashid and Fatima that he’d seen Amina there."
 
-**中文理解：** 而他确信自己本可以做得更多。没有什么能缓解这份唯一的负罪感。当然，他早些年靠喝到不省人事来忘记，也不管用。慢慢地，他更擅长把那天本该问官员的问题排好队。他记得那个来带走 Amina 的护士的脸。可他离开圆顶之后并没有找她。羞耻让自己的沉默把他挡在门外，羞耻让自己的沉默把他挡在门外，连 Rashid 和 Fatima 都没能说出来。直到十六年后他为了 Laila 给 Fatima 打了那通电话，他才终于承认。
+**中文理解：** 而他确信自己本可以做得更多。没有什么能缓解这份唯一的负罪感。当然，他早些年靠喝到不省人事来忘记，也不管用。慢慢地，他更擅长把那天本该问官员的问题排好队。他记得那个来带走 Amina 的护士的脸。可他离开圆顶之后并没有找她。羞耻让自己的沉默把他挡在门外，连 Rashid 和 Fatima 都没能说出来。直到十六年后他为了 Laila 给 Fatima 打了那通电话，他才终于承认。
 
 **关键词：** he was sure he could have done more · Nothing had eased this singular guilt · lining up the questions he could have asked the officials in the dome that day · He remembered the face of the nurse that had come for Amina · The shame of his silence kept him from telling Rashid and Fatima that he’d seen Amina there
 
@@ -136,7 +136,7 @@ modified: "2026-10-03"
 | bittersweet | 形容词，苦乐参半的（此处指预言给出的定性） | This part of their story will be bittersweet. The shells tell me so. |
 | drooped | 动词，耷拉（此处指两具身体同时垮下去） | Whichever parts had fallen from their proper places on her were similarly drooped on him. |
 | betrayed | 动词，泄露（此处指身体背叛了年龄） | However young a woman looked or felt for her age, she’d been told, something on her body betrayed the passage of time. |
-| singular | 形容词，单一的（此处指那份无��缓解的负罪感） | And he was sure he could have done more. Nothing had eased this singular guilt. |
+| singular | 形容词，单一的（此处指那份无法缓解的负罪感） | And he was sure he could have done more. Nothing had eased this singular guilt. |
 | eased | 动词，缓解（此处指没有任何东西能缓解罪感） | And he was sure he could have done more. Nothing had eased this singular guilt. |
 | suspected | 动词，起疑（此处指结局被提前怀疑） | SOMETIMES, THE END IS suspected from the beginning. |
 | withstand | 动词，承受（此处指愈合后的疼还能撑住） | Esther allows herself to remember it now because the scab of the pain has finally flaked. What remains is tender, but able to withstand. |
