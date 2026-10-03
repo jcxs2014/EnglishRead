@@ -133,7 +133,8 @@ title: "20 – Jessica"
 | rank | （气味）难闻的，发臭的 | The room smelled rank, thanks in no small part to the so-called 'support' dog. |
 | huddled | 挤在……周围 | A few other police huddled around a computer screen. |
 | humping | （狗）拱人 | The third dog was humping her leg. |
-| scrabbling | （乱翻）找 | Jessica began scrabbling in her bag for her pills. |
+| courtyard | 院子 | It led to a small courtyard, bare apart from a lone tree and a ceramic dish full of cigarette butts. |
+| prayed | 祈祷（此处＝祈求侥幸） | As she pulled out her phone, she prayed for an organisational emergency that would require her to return to Melbourne that night. |
 | airy | 轻佻的，做作的 | She gave an airy, appalled laugh for good measure. |
 
 ### ⭐ 基础
@@ -142,7 +143,6 @@ title: "20 – Jessica"
 |------|------|------|
 | pen | 笔 | Detective Patel held a blue pen in her hand |
 | pad | （记录）本 | She scrawled notes on her yellow legal pad |
-| courtyard | 院子 | It led to a small courtyard, bare apart from a lone tree and a ceramic dish full of cigarette butts. |
 | chin | 下巴 | Patel tapped the pen against her chin. |
 | lead | （牵狗的）绳 | Jessica let Couch off the lead |
 | yawn | 打哈欠 | Yawning and stretching her arms above her head. |
