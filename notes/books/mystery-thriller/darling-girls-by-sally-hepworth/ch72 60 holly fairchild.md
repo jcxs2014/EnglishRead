@@ -34,7 +34,7 @@ title: "60 – Holly Fairchild"
 
 **关键词：** I had to tweak the details of what happened, I wasn't going to be held responsible, for something that was my mother's fault, the first part of my story was true
 
-**为什么这样写：** 全书对「**选择性真实**」最坦率的一次自陈。而 Besides（再说了）这个词是这个句子的**支点**：它把「我母亲伪造了我的证词」和「但**我母亲的故事是真的**」并排放在一起——于是她同时指控与维护**同一个人**。而 the first part of my story was true（我故事的第一部分是真的）用的是 part（第X部分），说明她清楚地知道有**更多部分**，而这部分**是真的**——她把它留着，因为它能同时**支撑她的无辜**和**证明她母亲的伪证**。
+**为什么这样写：** 全书对「**选择性真实**」最坦率的一次自陈。而 Besides（再说了）这个词是这个句子的**支点**：它把「母亲确实做过那些事」和「但**我自己故事的第一部分是真的**」并排放在一起——于是她同时指控母亲、维护**自己**。而 the first part of my story was true（我故事的第一部分是真的）用的是 part（第X部分），说明她清楚地知道有**更多部分**，而这部分**是真的**——她把它留着，因为它能同时**支撑她的无辜**和**证明她母亲的伪证**。
 
 **读者视角提示：** 读者会在这几句上第一次意识到：这本书的伪证不是「编造」，是**裁剪**——而她的裁剪方式和 Miss Fairchild 一样：**从真话里取一段**。
 
@@ -46,7 +46,7 @@ title: "60 – Holly Fairchild"
 
 **关键词：** John wasn't the disciplinarian I described, he never locked me in the basement or sexually assaulted me – heaven forbid! – but what he did was worse, He stole my mother
 
-**为什么这样写：** 全书对「**加害**」最精准的一次重新定义。而 heaven forbid!（老天保佑／天哪可别）是**英文里的反讽公式**：表面是祈求，实际是**承认**。而真正的技术在 but what he did was worse（但他做的事更糟）与 He stole my mother（他偷走了我的母亲）这两个短句**没有主语**——「偷走」这个动词后面跟着的是**人**，而这句话的力量在于它**不带任何情绪词**：偷走这个动作本身已经足够。
+**为什么这样写：** 全书对「**加害**」最精准的一次重新定义。而 heaven forbid!（老天保佑／天哪可别）是**英文里的反讽公式**：表面是祈求，实际是**承认**。而真正的技术在 but what he did was worse（但他做的事更糟）与 He stole my mother（他偷走了我的母亲）这两个短句**不带任何情绪修饰语**——「偷走」这个动词后面跟着的是**人**，而这句话的力量在于它**不带任何情绪词**：偷走这个动作本身已经足够。
 
 **读者视角提示：** 读者会在这几句上第一次意识到：全书从头到尾**没有一个男性角色**被真正指控过——而这一章把「真正的加害」判给了**婚姻**。
 

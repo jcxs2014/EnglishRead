@@ -64,19 +64,7 @@ title: "59 – Alicia"
 
 ### 原句 5
 
-> **原句 5:** 'Serves you right,' Aaron said, 'for forcing foster kids to go to counselling.' 'Touché. Look, I think it might be . . . useful. I will say I feel much better about certain things now.'
-
-**中文理解**：「**活该**，」Aaron 说，「**谁让你逼寄养的孩子去接受心理咨询。**」「**说得对。**听着，我觉得它**可能**……有用。我承认我现在对某些事情感觉好多了。」
-
-**关键词：** Serves you right, for forcing foster kids to go to counselling, Touché, I think it might be . . . useful, I feel much better about certain things now
-
-**为什么这样写：** 全书对「**专业与私人的边界**」最微妙的一次处理：她抱怨「我花五十分钟说我自己的问题」，而 Aaron 用一句**把她的职业变成她的罪名**的反驳——Serves you right（活该）的讽刺在于：她把 counseling（咨询）强加给孩子，而**她自己正在接受咨询**。而 Touché 是一个**法语词**——它在英文里保留着冷淡的礼节，像 Aaron 那句「Touché. No!」一样，是这本书标记**家庭内部顶嘴**的专用词。而 it might be . . . useful 里的省略号说明她的「有用」还**没说完**，真正的承认要等到下一个词。
-
-**读者视角提示：** 读者会在这几句上第一次意识到：她此刻的痛苦是**新的**——不是**孤儿的**痛苦，是**失去 Theo 的痛苦**，而那种「一有机会就给自己定罪」的机制**换了燃料，引擎没换**。
-
-### 原句 6
-
-> **原句 6:** As he ran to the rubbish bin to spit it out, Alicia felt that unfamiliar feeling again – the one that bowled her over at least once a day, and always at the strangest times. When Theo hit his head and held his arms out to her for comfort. When Aaron had a girl over and asked if they could hang out in his room. When they all ate dinner in front of the TV. When Aaron did something dumb like eat an entire cube of quince paste. The feeling was gratitude mixed with a little horror. The feeling was: We could have missed this.
+> **原句 5:** As he ran to the rubbish bin to spit it out, Alicia felt that unfamiliar feeling again – the one that bowled her over at least once a day, and always at the strangest times. When Theo hit his head and held his arms out to her for comfort. When Aaron had a girl over and asked if they could hang out in his room. When they all ate dinner in front of the TV. When Aaron did something dumb like eat an entire cube of quince paste. The feeling was gratitude mixed with a little horror. The feeling was: We could have missed this.
 
 **中文理解：** Alicia 又一次感受到了那种感觉——那个每天至少把她击倒一次、而且**总在最奇怪的时刻**到来的感觉。当 Theo 撞了头、张开胳膊要她抱。当 Aaron 带女孩回家，问能不能在他房间里待一会儿。当他们全家人围着电视吃饭。当 Aaron 做了蠢事，比如吃掉一整块 quince paste。那种感觉是**感恩，混着一点点恐怖**。那种感觉是：**我们本可能错过这一切。**
 
@@ -86,15 +74,15 @@ title: "59 – Alicia"
 
 **读者视角提示：** 读者会在这几句上第一次意识到：这一章写的不是「她找到了幸福」，是「她发现自己**一直在为没有发生的事发抖**」——而这个发现才是她的疗愈。
 
-### 原句 7
+### 原句 6
 
-> **原句 7:** 'Sorry,' she said, rumpling his hair. 'But that'd be us. We are the lucky ones.'
+> **原句 6:** 'Sorry,' she said, rumpling his hair. 'But that'd be us. We are the lucky ones.'
 
 **中文理解：** 「**对不起，**」她揉着他的头发说。「**但那是我们。我们才是幸运的那一方。**」
 
 **关键词：** Sorry, rumpling his hair, But that'd be us, We are the lucky ones
 
-**为什么这样写：** 全书最后一句，而它的开头是 **Sorry**——一个**否定**。 Aaron 刚刚要了一句确认（Right?），而 Alicia 拒绝把「幸运」这个单数形容词给他一个人：that'd be us（那是我们），We are the lucky ones（我们才是幸运的那一方）。**主语从 I 变成 we 是这一章的结论**：她曾经对 Aaron 说过「你不幸运，那是你应得的最低限度」，而现在她把同一个词**从一个孩子手里拿走、分给三个人**。而 rumpling his hair（揉他的头发）是全章唯一一次身体接触——她没有拥抱、没有落泪，只是**揉了一下头发**，就像 Grammy 对她做过的那样；而作者不写这一层，让读者自己接上。
+**为什么这样写：** 本章最后一句（全书收在 ch72），而它的开头是 **Sorry**——一个**否定**。 Aaron 刚刚要了一句确认（Right?），而 Alicia 拒绝把「幸运」这个单数形容词给他一个人：that'd be us（那是我们），We are the lucky ones（我们才是幸运的那一方）。**主语从 I 变成 we 是这一章的结论**：她曾经对 Aaron 说过「你不幸运，那是你应得的最低限度」，而现在她把同一个词**从一个孩子手里拿走、分给三个人**。而 rumpling his hair（揉他的头发）是全章唯一一次身体接触——她没有拥抱、没有落泪，只是**揉了一下头发**，就像 Grammy 对她做过的那样；而作者不写这一层，让读者自己接上。
 
 **读者视角提示：** 读者会在这一句上意识到：**「我们」这个词是这本书唯一真正赚到的东西**。三个女孩花了六十章才保住它，而最后一句话里它只出现了两次——一次在 but 之后，一次在句号之前。
 

@@ -54,7 +54,7 @@ title: "14 – Norah"
 
 > **原句 4:** 'Never work with rich people or animals,' she told her sisters.
 
-**中文理解：** 「永远不要跟有钱人或动物打交道。」她对两个妹妹说。
+**中文理解：** 「永远不要跟有钱人或动物打交道。」她对两个姐姐说。
 
 **关键词：** Never work with rich people or animals
 
@@ -90,7 +90,7 @@ title: "14 – Norah"
 
 > **原句 7:** Norah had never taken that class in Sandringham. She'd told Jessica she had to stop her from talking about it – a tactic that backfired, as Jessica now referred to the class regularly, asking for meditation tips or suggesting they go back together. Frankly, Norah thought her sister needed the class more than she did.
 
-**中文理解：** Norah 从来没去上过 Sandringham 那门课。她只是告诉 Jessica 必须别提这件事——这一招后来反噬了，因为 Jessica 现在经常提起那门课，要冥想建议，或者建议她们一起去。说实话，Norah 觉得她姐姐比我更需要那门课。
+**中文理解：** Norah 从来没去上过 Sandringham 那门课。她只是告诉 Jessica 必须别提这件事——这一招后来反噬了，因为 Jessica 现在经常提起那门课，要冥想建议，或者建议她们一起去。说实话，Norah 觉得她姐姐比她自己更需要那门课。
 
 **关键词：** had never taken that class, a tactic that backfired, referred to the class regularly, needed the class more than she did
 
@@ -106,7 +106,7 @@ title: "14 – Norah"
 
 **关键词:** bougie, potent
 
-**为什么这样写：** 章末的 punchline 用一个一百公里时速的转折完成：前面所有的紧张（丢药、袭警、性取向辩论、坐牢警告）被三个感叹词清空，代价是让读者在放松的那一刻闻到那袋零食。而 bougie（高档的）一词同时指向 Jessica 买的那袋零食，和 Jessica 买下三只狗这件事本身——她买下它们，她就得承受它们。
+**为什么这样写：** 章末的 punchline 用一个一百公里时速的转折完成：前面所有的紧张（丢药、袭警、性取向辩论、坐牢警告）被那一个感叹词清空，代价是让读者在放松的那一刻闻到那袋零食。而 bougie（高档的）一词同时指向 Jessica 买的那袋零食，和 Jessica 买下三只狗这件事本身——她买下它们，她就得承受它们。
 
 **读者视角提示：** 读者会在笑完之后意识到：这三姐妹最擅长的状态，就是把最坏的时刻变成可以笑出来的东西。
 

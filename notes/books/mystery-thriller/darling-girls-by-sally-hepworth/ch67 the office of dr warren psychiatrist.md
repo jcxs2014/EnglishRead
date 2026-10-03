@@ -58,7 +58,7 @@ title: "The Office of Dr Warren, Psychiatrist（第 10 次问询 · 末次）"
 
 **关键词：** To make me look crazy, some ladies from the church had come for her, they'd taken her to a good home, And you believed that?, wouldn't have stood by while John killed my baby, that's exactly what she did
 
-**为什么这样写：** 全书对**盲信**最诚实的一次解剖。And you believed that?（你信了？）是一句最短的质问，而她的回答前半句是**辩解**（我不认为她会……），后半句是**认输**（但结果是，正是这么做的）。而 she's taken her to a good home（把她带去了一个好家庭）这个说法**在 ch66 里被再次出现**——那正是她对 Dr Warren 说的、并且被她母亲撒了二十五年谎的那句话。同一个谎言，被她**讲了两遍**：一遍是受害者版本，一遍是加害者版本。
+**为什么这样写：** 全书对**盲信**最诚实的一次解剖。And you believed that?（你信了？）是一句最短的质问，而她的回答前半句是**辩解**（我不认为她会……），后半句是**认输**（但结果是，正是这么做的）。而 they'd taken her to a good home（把她带去了一个好家庭）这个说法**在 ch66 里被再次出现**——那正是她对 Dr Warren 说的、并且被她母亲撒了二十五年谎的那句话。同一个谎言，被她**讲了两遍**：一遍是受害者版本，一遍是加害者版本。
 
 **读者视角提示：** 读者会在这几句上第一次看清：这个女人**始终在用别人的话**解释自己的损失——而正是这些解释，让她一步步走到了那栋房子里那些孩子的床上。
 

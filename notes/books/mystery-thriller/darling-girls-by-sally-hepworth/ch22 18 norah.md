@@ -92,7 +92,7 @@ title: "18 – Norah"
 
 **中文理解：** 「你说是吧。但我看不出告诉你我的童年跟这案子有什么关系。你不如去问那骨头是谁的。」Hando 坐直了。「你知道骨头是谁的吗？」「不知道。」他看起来很失望，Norah 有点内疚。她考虑着要不要猜一个，可还没等她开口，他说：「那你只能讲童年了。」可恶。
 
-**关键词:** I'd be better off asking who the bones belonged to, Hando sat up straight, He looked so disappointed, Norah felt bad, talking about your childhood is all we've got, Bugger
+**关键词：** You'd be better off asking who the bones belonged to, Hando sat up straight, He looked so disappointed, Norah felt bad, talking about your childhood is all we've got, Bugger
 
 **为什么这样写：** 全章的谈判在这一段完成，而作者让它**双输**：她要问骨头，他只给童年；而 he looked so disappointed, Norah felt bad（他失望，她内疚）证明这套话术有效——她开始因为侦探的表情而想给他一个答案。Norah 一生都在用情绪谈判（付款、威胁、换照片），这一次她被用同一招反制。
 

@@ -106,7 +106,7 @@ title: "11 – Alicia – Before"
 
 **关键词：** Goodnight, Grammy, I'll be home soon, had never told Grammy a lie, She hoped this wouldn't be her first
 
-**为什么这样写：** 收尾把「不说谎」这一条——Grammy 三句箴言里她唯一没有执行的那条——变成了一条命。I'd be home soon 是全书最动人的谎言，而 hope（希望）这个词被作者刻意留在最后：她知道自己在撒谎，并且仍然选择撒。
+**为什么这样写：** 收尾把「**听话**」这一条——Grammy 三句箴言（Smile, be polite, and do what you're told）里她唯一没有执行的那条——变成了一条命。I'd be home soon 是全书最动人的谎言，而 hope（希望）这个词被作者刻意留在最后：她知道自己在撒谎，并且仍然选择撒。
 
 **读者视角提示：** 读者会在合上这一章时意识到：她的「听话」在这一刻就已经破产了，而正是这个破产救了她的命。
 

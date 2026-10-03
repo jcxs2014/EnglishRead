@@ -70,7 +70,7 @@ title: "35 – Alicia – Before"
 
 **关键词：** they hadn't given him nearly enough, Miss Fairchild had been clever, None of her abuse had been clear-cut, spin it as discipline or an accident or lies, tangible proof, It was their word against hers, who the cops chose to believe
 
-**为什么这样写：** 全书对「施虐者如何运作」最技术性的一段，而作者把它写成一场**举证责任的不对称**：spin it as（把它转述成）这个短语是关键—— abuse 一旦被命名为 discipline（管教）或 accident（意外），就不再需要证据。而 their word against hers（三句话对她一句）这个比喻朴素到残酷：三个孩子的全部资本，就是**数量**。
+**为什么这样写：** 全书对「施虐者如何运作」最技术性的一段，而作者把它写成一场**举证责任的不对称**：spin it as（把它转述成）这个短语是关键—— abuse 一旦被命名为 discipline（管教）或 accident（意外），就不再需要证据。而 their word against hers（三个孩子的话对一个女人的话）这个比喻朴素到残酷：三个孩子的全部资本，就是**数量**。
 
 **读者视角提示：** 读者会在这里第一次明白：让 Miss Fairchild 逃脱的从来不是权力，是**语言的可重构性**。
 

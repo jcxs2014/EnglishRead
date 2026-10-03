@@ -46,7 +46,7 @@ title: "27 – Alicia"
 
 **关键词：** You're not lucky, You lost your parents, You've spent the last few years living in uncertainty, a lot less than you deserve, I want you to remember that
 
-**为什么这样写：** 全书主题句的完整形态，而作者让它以**否定**开始：不幸运。而且她给的不是安慰，是**清单**——三个 lost（失去）排比之后是一个 deserves（应得）。I want you to remember that（我要你记住）把这套判断从自己身上转移到孩子身上，这是 Alicia 一生做的唯一一次干预。
+**为什么这样写：** 全书主题句的完整形态，而作者让它以**否定**开始：不幸运。而且她给的不是安慰，是**清单**——两个 lost（失去）排比之后接一个 uncertainty，再落到 deserves（应得）。I want you to remember that（我要你记住）把这套判断从自己身上转移到孩子身上，这是 Alicia 一生做的唯一一次干预。
 
 **读者视角提示：** 读者会意识到：这正是第 8 章里 Alicia 对自己说过的那段内心独白（「What, exactly, is the point of you?」）的**反面输出**——她把自己的伤口做成了别人的药。
 

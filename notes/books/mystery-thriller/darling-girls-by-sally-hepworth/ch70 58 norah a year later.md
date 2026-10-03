@@ -34,7 +34,7 @@ title: "58 – Norah（一年后）"
 
 **关键词：** 'I'm back!' Norah announced, Larry looked over briefly, then immediately went back to his beer, But Ishir beamed, His moustache rose up at each corner, like a circus ringmaster
 
-**为什么这样写：** 全书对「**两种迎接方式**」最经济的一次对照。Larry 的回应（looked over briefly → back to his beer）是**最小剂量**，而 Ishir 的回应是**最大剂量**，两者放在同一段里，用 but 连接——这正好是 Norah 一生在做的**筛选**。而 ringmaster（马戏团领班）这个比喻是关键：领班是**负责让人开心**的那个角色，而这个比喻**把她的高兴说成了她的工作**——但这一次它是**自愿的**。
+**为什么这样写：** 全书对「**两种迎接方式**」最经济的一次对照。Larry 的回应（looked over briefly → back to his beer）是**最小剂量**，而 Ishir 的回应是**最大剂量**，两者放在同一段里，用 but 连接——这正好是 Norah 一生在做的**筛选**。而 ringmaster（马戏团领班）这个比喻是关键：领班是**负责让人开心**的那个角色，而这个比喻**把 Ishir 的高兴说成了他的工作**——但这一次它是**自愿的**。
 
 **读者视角提示：** 读者会在这几句上第一次意识到：她这一生都在判断「谁是真的」，而现在她**不必判断了**——她知道答案。
 
@@ -48,7 +48,7 @@ title: "58 – Norah（一年后）"
 
 **为什么这样写：** 全书对「监狱与寄养院」最冷的一次**并置**——而 Except（只不过）这个词后面跟的是**两个否定**（没被锁楼梯下、不用担心姐妹出事），也就是说：**这两件事的差别，是她自己的处境**。而把监狱的作息表说成 Jessica 会喜欢的（Jessica would have loved the schedule）是 Norah 的黑色幽默，而 The food wasn't great, but it was only eleven days（饭菜不怎么样，但只有十一天）里的 but it was only eleven days 说明**她已经在按天计数**，而那十一天是她**第一次被关起来却没有被打**的日子。
 
-**读者视角提示：** 读者会在这几句上第一次意识到：这本书里 Norah 唯一一次自愿进入一个**有规章的封闭空间**，就是那十一天监狱——而那十天里她第一次**没有人需要她保护**。
+**读者视角提示：** 读者会在这几句上第一次意识到：这本书里 Norah 唯一一次自愿进入一个**有规章的封闭空间**，就是那十一天监狱——而那十一天里她第一次**没有人需要她保护**。
 
 ### 原句 4
 

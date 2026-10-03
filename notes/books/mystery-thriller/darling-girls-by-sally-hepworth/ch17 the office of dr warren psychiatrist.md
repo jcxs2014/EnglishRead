@@ -45,7 +45,7 @@ title: "The Office of Dr Warren, Psychiatrist（第 2 次问询）"
 
 **关键词：** I said quickly, out of the goodness of his heart, He doesn't need to look at me, I'll always be grateful
 
-**为什么这样写：** 一个成年人在转述自己十五岁时说过的这句话，用的仍然是**辩解**的语速（quickly）和逻辑（三段式反问＋感恩收尾）。作者让读者听见**十六岁的她**和**现在的她**用同一个声音说话——因为她从来没有学会另一种说法。He doesn't need to look at me 这一句是全章的转折：她把「被无视」重新解释成「我不需要被看见」，而这句话正是她后来对 Jessica 说「你被爱得太少」的反面教材。
+**为什么这样写：** 一个成年人在转述自己十几岁时说过的这句话，用的仍然是**辩解**的语速（quickly）和逻辑（三段式反问＋感恩收尾）。作者让读者听见**当年十几岁的她**和**现在的她**用同一个声音说话——因为她从来没有学会另一种说法。He doesn't need to look at me 这一句是全章的转折：她把「被无视」重新解释成「我不需要被看见」，而这句话正是她后来对 Jessica 说「你被爱得太少」的反面教材。
 
 **读者视角提示：** 读者会同时认出这段辩解和 ch14 里 Miss Fairchild 对 Alicia 说的「我要的是唯一的爱」。
 

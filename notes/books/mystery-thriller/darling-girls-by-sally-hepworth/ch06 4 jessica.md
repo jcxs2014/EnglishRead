@@ -58,7 +58,7 @@ title: "4 – Jessica"
 
 **关键词：** inner panic, utterly unflustered, muted make-up, flawless, glossy and smooth
 
-**为什么这样写：** 用"inner panic"与"utterly unfluttered"的对比展示 Jessica 的外在控制。"flawless" 和 "glossy and smooth" 的描写强调她的完美外表。这种对比揭示她的生活主题：外在完美 vs 内在混乱。
+**为什么这样写：** 用"inner panic"与"utterly unflustered"的对比展示 Jessica 的外在控制。"flawless" 和 "glossy and smooth" 的描写强调她的完美外表。这种对比揭示她的生活主题：外在完美 vs 内在混乱。
 
 **读者视角提示：** 读者能感受到 Jessica 的双面性——外表的冷静是内在焦虑的伪装。
 

@@ -42,7 +42,7 @@ title: "37 – Jessica"
 
 > **原句 3:** In the fantasy, Norah would birth the child and Jessica would graciously step in and raise it as if it were her own, leaving Norah to be the favourite aunty. She would perform every role required of a mother and more. She'd be fiercer, more loving than she'd ever been. Which really begged the question: if she could do that for Norah's child, why not her own?
 
-**中文理解：** 在这个幻想里，Norah 生下孩子，而 Jessica 高尚地接手、像自己的孩子一样抚养，让 Norah 当最喜欢的阿姨。她会扮演一个母亲所需的每个角色，以及更多。她会比以往任何时候都更凶猛、更爱这个孩子。这也就提出了一个问题：如果她能为 Norah 的孩子做到，为什么不能为自己的人生一个？
+**中文理解：** 在这个幻想里，Norah 生下孩子，而 Jessica 高尚地接手、像自己的孩子一样抚养，让 Norah 当最喜欢的阿姨。她会扮演一个母亲所需的每个角色，以及更多。她会比以往任何时候都更凶猛、更爱这个孩子。这也就提出了一个问题：如果她能为 Norah 的孩子做到，为什么不为自己生一个？
 
 **关键词：** the favourite aunty, She'd be fiercer, more loving than she'd ever been, begged the question, if she could do that for Norah's child, why not her own
 

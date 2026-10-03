@@ -30,7 +30,7 @@ title: "34 – Alicia – Before"
 
 > **原句 2:** Her vulnerability had become so embarrassing that instead of seeking kind people she sought out those who disliked her – like Edwina Wooldridge, the mean girl at school who always seemed revolted by Alicia's very existence. Something about her cruelty fortified Alicia. The certainty and security of what she was getting became like a drug. A much more powerful drug than the agony caused by a desire for love and warmth.
 
-**中文理解：** 她的脆弱已经变得如此难堪，以至于她不再去找善意的人，反而去找那些讨厌她的人——比如学校里那个凶女孩 Edwina Wooldridge，她的存在本身就似乎让 Alicia 厌恶。她的残忍里有某种东西在加固 Alicia。她所得到的东西的**确定性与安全感**变得像一种毒品。一种比「渴望爱与温暖」所带来的痛苦更强得多的毒品。
+**中文理解：** 她的脆弱已经变得如此难堪，以至于她不再去找善意的人，反而去找那些讨厌她的人——比如学校里那个凶女孩 Edwina Wooldridge，是 **Alicia 的存在**本身让她反胃。她的残忍里有某种东西在加固 Alicia。她所得到的东西的**确定性与安全感**变得像一种毒品。一种比「渴望爱与温暖」所带来的痛苦更强得多的毒品。
 
 **关键词：** Her vulnerability had become so embarrassing, instead of seeking kind people she sought out those who disliked her, revolted by Alicia's very existence, her cruelty fortified Alicia, The certainty and security of what she was getting became like a drug, a much more powerful drug than the agony caused by a desire for love and warmth
 

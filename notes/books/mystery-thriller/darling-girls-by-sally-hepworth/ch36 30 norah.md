@@ -70,7 +70,7 @@ title: "30 – Norah"
 
 **关键词：** Judging by what he was suggesting, he watched a lot of very intense porn, For the first time in a long time, she felt tears, angry tears, stinging her eyes
 
-**为什么这样写：** 作者用 inserting 破折号把 angry（愤怒的）**塞进**了 tears（眼泪）这个名目里——生理反应被限定词劫持。而 stinging her eyes（刺进眼眶）这个视觉动词把眼泪写成一种**攻击**，而不是溢出。她一生中第一次流泪不是悲伤，而是被当作物品。
+**为什么这样写：** 作者用 inserting 破折号把 angry（愤怒的）**塞进**了 tears（眼泪）这个名目里——生理反应被限定词劫持。而 stinging her eyes（刺进眼眶）这个视觉动词把眼泪写成一种**攻击**，而不是溢出。她**很久以来**第一次流泪不是悲伤，而是被当作物品。
 
 **读者视角提示：** 读者会在这一句上突然理解：所谓「庞大的愤怒」原来一直都在，只是今晚它终于有了眼泪的出口。
 
@@ -106,7 +106,7 @@ title: "30 – Norah"
 
 **关键词：** But why would we mention her, Seriously, you would have found this report days ago, you'd know exactly why we didn't mention her, They had her there
 
-**为什么这样写：** 全章的反击，而它的技术是**镜像归责**：Patel 用「你们不说」指控隐瞒，姐妹们立刻用「你们没查」反击，于是责任从一个具体的人滑向一个系统。这正是第 30 条原则里「以归责代替查证」的机制被反向使用。而最后一句 They had her there（这次她们占理了）是全书少见的**明确的胜利**——而它的内容是：她们有权不回答。
+**为什么这样写：** 全章的反击，而它的技术是**镜像归责**：Patel 用「你们不说」指控隐瞒，姐妹们立刻用「你们没查」反击，于是责任从一个具体的人滑向一个系统——**归责代替查证**这个机制，在这一章里被反向使用了一次：她们用它挡住了调查，也用它把门推开。而最后一句 They had her there（这次她们占理了）是全书少见的**明确的胜利**——而它的内容是：她们有权不回答。
 
 **读者视角提示：** 读者会在这句「占理」上感到不安：她们赢得的不是清白，是**继续不被追问的权利**。
 

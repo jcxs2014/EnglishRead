@@ -30,7 +30,7 @@ title: "5 – Jessica – Before"
 
 > **原句 2:** They told Jessica her mother had been very sad, and then she died. Jessica didn't know you could die from being sad. She remembered being very careful not to cry about her mother in case she died too.
 
-**中文理解：** 他们告诉 Jessica，她的母亲曾经非常悲伤，然后去世了。Jessica 原来人是可以因为悲伤而死的。她记得自己当时非常小心地不哭，因为怕妈妈也这样死去。
+**中文理解：** 他们告诉 Jessica，她的母亲曾经非常悲伤，然后去世了。Jessica 原来**不知道**，人是可以因为悲伤而死的。她记得自己当时非常小心地不哭，因为怕妈妈也这样死去。
 
 **关键词：** didn't know you could die from being sad, very careful not to cry, in case she died too
 

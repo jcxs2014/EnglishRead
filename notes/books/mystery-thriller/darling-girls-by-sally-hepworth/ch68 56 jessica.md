@@ -22,7 +22,7 @@ title: "56 – Jessica"
 
 **关键词：** she didn't have the luxury of the foggy, confused feeling, people in movies seemed to experience, She knew where she was, the oxygen tube in her nose, the antibacterial soap, the hum of the medical equipment, she'd brought it all on herself
 
-**为什么这样写：** 全书对**清醒**最冷的一次描写，而作者用 **luxury（奢侈）** 这个词来命名电影里的那种迷糊——也就是说，在这部电影里，**不知道自己身在何处**是一种**特权**，而她没有。四个感官通道（触、嗅、听）被并列写出，说明她**完全清醒**；而最后一句 She also knew that she'd brought it all on herself（这一切都是她自己造成的）把这份清醒变成了**责任**。
+**为什么这样写：** 全书对**清醒**最冷的一次描写，而作者用 **luxury（奢侈）** 这个词来命名电影里的那种迷糊——也就是说，在这部电影里，**不知道自己身在何处**是一种**特权**，而她没有。三个感官通道（触、嗅、听）被并列写出，说明她**完全清醒**；而最后一句 She also knew that she'd brought it all on herself（这一切都是她自己造成的）把这份清醒变成了**责任**。
 
 **读者视角提示：** 读者会在这几句上第一次意识到：她在整本书里最虚弱的一刻，反而是**最清醒**的——而清醒是她唯一没法用来逃的东西。
 

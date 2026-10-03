@@ -46,7 +46,7 @@ title: "The Office of Dr Warren, Psychiatrist（第 1 次问询）"
 
 **关键词：** uses unconventional means to bring about a particular result, failing to provide a chair, studies have shown, people get to the heart of things faster when they are uncomfortable, Or maybe Dr Warren is an arsehole
 
-**为什么这样写：** 全书对「临床」最冷的一次**祛魅**：她先给出一个**专业的**解释（unconventional means／studies have shown），然后在同一个段落里把它换成一句**民间的**判断（Or maybe Dr Warren is an assehole）。而「研究显示人不舒服时更快说到核心」这个假想，正是她**在整本书里一直在做的事**——她自己的不舒服就是她的方法。
+**为什么这样写：** 全书对「临床」最冷的一次**祛魅**：她先给出一个**专业的**解释（unconventional means／studies have shown），然后在同一个段落里把它换成一句**民间的**判断（Or maybe Dr Warren is an arshole）。而「研究显示人不舒服时更快说到核心」这个假想，正是她**在整本书里一直在做的事**——她自己的不舒服就是她的方法。
 
 **读者视角提示：** 读者会在这两句上第一次明白：这个女人**不需要**治疗师，她自己就是那套方法。
 

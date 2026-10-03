@@ -46,7 +46,7 @@ title: "40 – Jessica – Before"
 
 **关键词：** a history of trauma, regularly invent things, the part about extended time off from school was true, How does Holly explain that, School refusal, The school had them down as sick days
 
-**为什么这样写：** 全书对「家长与机构共用一套说法」最冷的一次演示，而且用**五个问答**完成：最后一个问答是关键——Miss Fairchild 对警方说「拒学」，对学校说「生病」，而这两句话**互相矛盾但都无法被推翻**，因为它们都属于她的管辖范围。而这个矛盾在作者构造的场景里恰好被一个**外行**（Max）听出来了。
+**为什么这样写：** 全书对「家长与机构共用一套说法」最冷的一次演示，而且用**五个问答**完成：最后一个问答是关键——Miss Fairchild 对警方说「拒学」，对学校说「生病」，而这两句话**互相矛盾但都无法被推翻**，因为它们都属于她的管辖范围。而这个矛盾在作者构造的场景里恰好被一个**不按流程走**的人（Max）听出来了。
 
 **读者视角提示：** 读者会在这里第一次看到：一个警察的**比较能力**，比这套系统的整套程序更管用。
 
@@ -82,7 +82,7 @@ title: "40 – Jessica – Before"
 
 **关键词：** searched the house again from top to bottom and found nothing, Dirk is still claiming he's never seen her, no record of Amy ever coming to the home, she didn't match the description of any missing children, Where else could she have come from, Not one of them was able to answer his question
 
-**为什么这样写：** 全书最冷的一次封闭，而作者的收尾是**让三个人互相看**——一个具体的、无声的、有五只眼睛参与的「我不知道」。而 Max 的 Where else could she have come from（她还能从哪来）是一个**开放问题**，而它问的不是案件，是**存在**。dejected（沮丧）这个词说明他把自己的失败也算进去了。
+**为什么这样写：** 全书最冷的一次封闭，而作者的收尾是**让三个人互相看**——一个具体的、无声的、六只眼睛一起参与的「我不知道」。而 Max 的 Where else could she have come from（她还能从哪来）是一个**开放问题**，而它问的不是案件，是**存在**。dejected（沮丧）这个词说明他把自己的失败也算进去了。
 
 **读者视角提示：** 读者会在这一段上感到：她们已经走到了这本书的全部路程，而答案还在**地下室里**。
 

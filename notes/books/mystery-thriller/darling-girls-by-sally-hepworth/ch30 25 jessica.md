@@ -32,7 +32,7 @@ title: "25 – Jessica"
 
 **中文理解：** 最近，Jessica 心里一直藏着一个秘密的恐惧：Phil 会离开她。他要找别人毫无困难。一个更年轻、更爱运动的姑娘，喜欢独木舟和站立式桨板之类的活动。
 
-**关键词：** harbouring a secret fear, Phil was going to leave her, He had no trouble finding someone else, A younger, sportier woman, canoeing and stand-up paddleboarding
+**关键词：** harbouring a secret fear, Phil was going to leave her, He'd have no trouble finding someone else, A younger, sportier woman, canoeing and stand-up paddleboarding
 
 **为什么这样写：** harbouring（窝藏）一个恐惧，是英语里非常具体的用法——恐惧被她**藏起来**，而藏起来的定义与她藏药、藏情绪的方式完全一致。而 younger, sportier two 个形容词构成一个她无法竞争的赛道：她的人生里没有这两项。作者用两项具体运动（不是「活力」，是**独木舟和站立式桨板**）把这个恐惧写成一个她连想象细节都做不到的清单。
 
@@ -46,7 +46,7 @@ title: "25 – Jessica"
 
 **关键词：** The worst part was that, Jessica would have no one to blame but herself
 
-**为什么这样写：** 一句短到无法被反驳的话。它不解释为什么，只陈述一个封闭结构：**她的所有失败都必须由她一个人承担**——这与第 3 条原则（禁令 1「一律复制粘贴」）指向同一套归责逻辑，只是方向相反：那句禁止外部推责，这句要求内部担责。她一生都在两侧之间被挤压。
+**为什么这样写：** 一句短到无法被反驳的话。它不解释为什么，只陈述一个封闭结构：**她的所有失败都必须由她一个人承担**——而这套「一切由我承担」的结构在本章之前已经出现过一次，只是方向相反：Miss Fairchild 用「**为你好**」把责任推给系统，Jessica 则把系统造成的损害**全部收进自己**。她一生都在这两侧之间被挤压。
 
 **读者视角提示：** 读者会在这句话里认出全书对 Jessica 最精准的诊断：她不是没有责任感，她是**只有责任感**。
 

@@ -22,7 +22,7 @@ title: "31 – Norah – Before"
 
 **关键词：** It had seemed like such a promising day, vanished into thin air, It was like a miracle, Norah felt like Kevin from Home Alone
 
-**为什么这样写：** 作者用两部流行文化的符号压缩整个处境：一个被遗弃在房子里的孩子＝《Home Alone》的 Kevin。而 had seemed like 与 It was like 连续两个「像」把整章的**希望**定性为一种**观感**，而不是事实——三周后同一部电影的结局会重演。
+**为什么这样写：** 作者用一部电影的符号压缩整个处境：一个被遗弃在房子里的孩子＝《Home Alone》的 Kevin。而 had seemed like 与 It was like 连续两个「像」把整章的**希望**定性为一种**观感**，而不是事实——三周后同一部电影的结局会重演。
 
 **读者视角提示：** 读者会在这一句上感到：这三个孩子对「被抛下」的想象，是照着好莱坞剧本建的。
 

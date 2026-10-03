@@ -18,7 +18,7 @@ title: "42 – Alicia"
 
 > **原句 1:** He hadn't aged well. The hair visible beneath his cap was still red, but there were flecks of grey, and though he was a relatively young man his posture was stooped.
 
-**中文理解：** 他不算老。帽子底下露出的头发仍然是红的，但夹杂着灰白；虽然他还算年轻，姿态却已经佝偻。
+**中文理解：** 他没保养好，显老。帽子底下露出的头发仍然是红的，但夹杂着灰白；虽然他还算年轻，姿态却已经佝偻。
 
 **关键词：** He hadn't aged well, still red, but there were flecks of grey, a relatively young man, his posture was stooped
 

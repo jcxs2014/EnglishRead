@@ -69,7 +69,7 @@ title: "The Office of Dr Warren, Psychiatrist（第 5 次问询）"
 
 **关键词：** finding ways to make John angry with Mum became an outlet, It wasn't hard, dirty shoes, "forget" to dry the soap, so that it congealed, a few dollars from the tin
 
-**为什么这样写：** 三个"It wasn't hard"之后的具体操作全是**家务语言**——地板、肥皂、铁罐。作者让一个十五岁的孩子用「制造家务缺陷」的方式报复，而报复的对象不是加害者，是**沉默的母亲**。而引号里的 "forget"（忘记）是这一段唯一的道德标记：她知道那是假的，她把它标出来了，而标出来并不阻止她。
+**为什么这样写：** 那一次"It wasn't hard"之后的三件具体操作全是**家务语言**——地板、肥皂、铁罐。作者让一个十五岁的孩子用「制造家务缺陷」的方式报复，而报复的对象不是加害者，是**沉默的母亲**。而引号里的 "forget"（忘记）是这一段唯一的道德标记：她知道那是假的，她把它标出来了，而标出来并不阻止她。
 
 **读者视角提示：** 读者会在这一段里第一次感到：**她的攻击性是从这栋房子里学来的作业，然后被用在了她最爱的人身上。**
 

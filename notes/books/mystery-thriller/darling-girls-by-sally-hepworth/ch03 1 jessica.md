@@ -18,7 +18,7 @@ title: "1 – Jessica"
 
 > **原句 1:** Jessica had nearly escaped through the magnificent double front doors of Debbie Montgomery-Squires' home when she heard her name.
 
-**中文理解：** Jessica 刚刚走出 Debbie 家豪华的双开门，就听到了自己的名字。
+**中文理解：** Jessica **差一点就走出** Debbie 家豪华的双开门，就听到了自己的名字。
 
 **关键词：** nearly escaped, magnificent double front doors
 
@@ -46,7 +46,7 @@ title: "1 – Jessica"
 
 **关键词：** barely breathe through her delight, activewear, sipped lattes, gawked unashamedly
 
-**为什么这样写：** 用 Debbie 的"高兴"与她的"抱歉"形成讽刺对比，揭示她的虚伪。七个女人的"假装没听"与第八个的"毫无羞耻地盯着"形成层次，展示围观者的不同反应。
+**为什么这样写：** 用 Debbie 的"高兴"与**本该有的愧疚**形成讽刺对比，揭示她的虚伪。七个女人的"假装没听"与第八个的"毫无羞耻地盯着"形成层次，展示围观者的不同反应。
 
 **读者视角提示：** 读者能感受到场景的尴尬和 Debbie 的虚伪，同时体会到 Jessica 的屈辱。
 

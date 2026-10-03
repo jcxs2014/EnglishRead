@@ -106,7 +106,7 @@ title: "57 – Jessica（九个月后）"
 
 **关键词：** 'No,' she said, 'Why would I?', The door buzzed, Miss Fairchild was still talking as Jessica walked out, The click of the door shutting securely behind her, felt like a new beginning, One she was finally ready for
 
-**为什么这样写：** 全书的**结尾**——而它用一个**不对称**收尾：门内那个人**还在说话**，门外这个人**已经走了**。这是她们关系里第一次出现这种**权力分布**。而 secure（关严）这个词用在门上，和 ch64 那扇「闩不严的地下室门」形成**完整对照**——那扇门让 Amy 消失，这扇门让她离开。而 One she was finally ready for（一个她终于准备好去迎的开始）把「开始」和「准备」绑在一起：**这次她不是被推进去的**。
+**为什么这样写：** 这一部分的**结尾**——而它用一个**不对称**收尾：门内那个人**还在说话**，门外这个人**已经走了**。这是她们关系里第一次出现这种**权力分布**。而 secure（关严）这个词用在门上，和 ch64 那扇「闩不严的地下室门」形成**完整对照**——那扇门让 Amy 消失，这扇门让她离开。而 One she was finally ready for（一个她终于准备好去迎的开始）把「开始」和「准备」绑在一起：**这次她不是被推进去的**。
 
 **读者视角提示：** 读者会在这最后一句上意识到：这本书真正的主题不是「谁杀了 Amy」，是**一个孩子如何学会在门关上之前走出去**。
 
