@@ -208,7 +208,7 @@ def check_chapter(nn, md_path, text_dir):
             import sys as _sys, os as _os
             _sys.path.insert(0, _os.path.dirname(_os.path.abspath(__file__)))
             from chapter_text_path import find_chapter_text
-            tp = find_chapter_text(_os.path.dirname(text_dir.rstrip(os.sep)), actual_nn)
+            tp = find_chapter_text(_os.path.dirname(text_dir.rstrip(os.sep)), f'{actual_nn:02d}{suffix}')
         if tp is not None:
             break
     if tp is None:

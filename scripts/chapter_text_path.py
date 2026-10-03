@@ -41,22 +41,48 @@ import sys
 _SEP = r"[_. ]"
 
 
+def split_chapter_key(n):
+    """把调用方给的章号规格统一成 (数字串, 后缀字母)。
+
+    ⚠️ 后缀字母必须参与定位：本库有一类书把「正文之间的韵文/插叙节」编成
+    `ch02a`、`ch18a` 挂在前一章后面（Everything Is Poison 40 编号章 + 25 段韵文）。
+    旧实现把章号一律 `int()`，于是 `ch02a` 与 `ch02` **归一成同一个键**，
+    定位时只会返回 `ch02_*.txt` —— 韵文章的所有引语被拿去跟**上一章**比对，
+    归属门禁既不报错、也不报错，只是**静默地比错了对象**。
+    接受：2 / "2" / "02" / "02a" / "2a"（zfill 对含字母的串不可用，先拆后补零）。
+    """
+    s = str(n).strip().lower()
+    m = re.match(r"^(\d+)([a-z]?)", s)
+    if not m:
+        return s, ""
+    return m.group(1), m.group(2)
+
+
 def find_chapter_text(book_dir, n, suffix=".txt"):
-    """定位 text/chNN*.txt；找不到返回 None。n 是不带前导零的整数。"""
+    """定位 text/chNN[a]*.txt；找不到返回 None。
+
+    n 可是不带前导零的整数（2）、字符串章号（"02"）**或带后缀字母的章号（"02a"）**。
+    传整数/纯数字 ⇒ 只匹配**裸章号**文件（`ch02_*`，不含 `ch02a_*`），
+    传字母 ⇒ 只匹配该字母那件。两者互不串味。
+    """
     tdir = os.path.join(book_dir, "text")
     if not os.path.isdir(tdir):
         return None
+    digits, letter = split_chapter_key(n)
+    if not digits:
+        return None
     # ① 直接按「调用方给的位数」试（覆盖 ch8 / ch08 / ch008 三种写法）
     for width in (2, 3, 1, 4):
-        tag = str(n).zfill(width)
+        tag = digits.zfill(width) + letter
         names = sorted(f for f in os.listdir(tdir)
                        if re.match(rf"^ch{tag}({_SEP}.*)?{re.escape(suffix)}$", f))
         if names:
             return os.path.join(tdir, names[0])
-    # ② 兜底：扫描全部 chNN 前缀文件，按数字取第一个等于 n 的
+    # ② 兜底：扫描全部 chNN 前缀文件，按数字 + 字母取第一个对得上的
     for f in sorted(os.listdir(tdir)):
-        m = re.match(r"^ch(\d+)", f)
-        if m and int(m.group(1)) == int(n) and f.endswith(suffix):
+        m = re.match(r"^ch(\d+)([a-z]?)", f)
+        if (m and int(m.group(1)) == int(digits)
+                and m.group(2) == letter and f.endswith(suffix)):
             return os.path.join(tdir, f)
     return None
 
