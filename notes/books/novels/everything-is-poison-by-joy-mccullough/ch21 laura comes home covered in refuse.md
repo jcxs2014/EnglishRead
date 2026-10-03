@@ -61,7 +61,7 @@ source_text: ch21_chapter_21.txt
 
 **关键词：** Giulia takes her hands · under no obligation · to keep working in the shop
 
-**为什么这样写：**Giulia 全程都在做事——wets another cloth、pulls a fresh shift over her head、nods to Maria 取镇静剂——直到这一刻她才第一次直接**给东西**，而给出的不是保护，是"你可以走"。under no obligation 是账簿与契约的语言，出自刚刚还喊着 You’re family! 的那张嘴，这份温差就是本章的伤口。作者也立刻给了反应，但反应不在 Laura 身上：Carmela’s knees buckle——**这句话真正击中的人，是那个最怕失去帮手的人**。Maria 在旁边用一句 dismissive 的 Of course she knows that 想把这话轻描淡写过去，但 Laura 接下来的考虑（But Laura considers Maria, then Giulia with a new look in her eye.）说明这句话被听见了。更早一点，Maria 那句俗语（Sometimes the ones we help are the first to fan the flames.）被 Giulia 一个眼神截住，Maria 随即改口：一句 Sorry，配一句 Poor choice of words.——本章的道德难题就压在这两处措辞上：被救的人反手点火。
+**为什么这样写：**Giulia 全程都在做事——wets another cloth、pulls a fresh shift over her head、nods to Maria 取镇静剂——直到这一刻她才第一次直接**给东西**，而给出的不是保护，是"你可以走"。under no obligation 是账簿与契约的语言；说这句话的 Giulia 十五行之后又换上最暖的声线补上一句 "You’re family!"（"Of course," Giulia says, in her warmest voice.），先给退出通道、再把人留下，这份温差就是本章的伤口。作者也立刻给了反应，但反应不在 Laura 身上：Carmela’s knees buckle——**这句话真正击中的人，是那个最怕失去帮手的人**。Maria 在旁边用一句 dismissive 的 Of course she knows that 想把这话轻描淡写过去，但 Laura 接下来的考虑（But Laura considers Maria, then Giulia with a new look in her eye.）说明这句话被听见了。更早一点，Maria 那句俗语（Sometimes the ones we help are the first to fan the flames.）被 Giulia 一个眼神截住，Maria 随即改口：一句 Sorry，配一句 Poor choice of words.——本章的道德难题就压在这两处措辞上：被救的人反手点火。
 
 **读者视角提示：**回读第 20 章末尾 Laura 那句 I don’t know.——她当时回答的是 Carmela 的自问（我到底做了什么），而本章她要说的是自己要不要留下。
 

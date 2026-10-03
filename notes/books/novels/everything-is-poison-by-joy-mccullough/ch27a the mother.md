@@ -28,7 +28,7 @@ source_text: ch27a_the_mother.txt
 > but never relaxed either
 > until she hears her key in the lock."
 
-**中文理解：** "有一个女人，像 Eleonora 的母亲，却又不完全是；不在码头边她的那个家里——药铺西北方向，河道的臭气浸透了每一块石头——她等女儿回来，像每个清晨那样地等；说担忧也未必，却从没真正放松过，直到她听见女儿把钥匙转进锁孔。"
+**中文理解：** "有一个女人，像 Eleonora 的母亲，可又不是她——她就在码头边自己的家里（药铺西北方向，河道的臭气浸透了每一块石头）；她等女儿回来，像每个清晨那样地等；说担忧也未必，却从没真正放松过，直到她听见女儿把钥匙转进锁孔。"
 
 **关键词：** There is a woman · like Eleonora’s mother · but not · river stench soaked into every stone · not worried exactly · but never relaxed either · until she hears her key in the lock
 

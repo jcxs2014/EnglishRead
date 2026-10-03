@@ -31,7 +31,7 @@ source_text: ch29_chapter_29.txt
 
 **关键词：** never walked like this · side by side · With any man · never shielded her from harm · except Giulia, in her way
 
-**为什么这样写：**作者在一个危险正逼近的当口，忽然把镜头拉远到"她这一生"。两句都以 never 起头，其中 With any man 是只有三个词的独立短句——它把上一句 a young man 里"年轻"那层限定一把抹掉，把这份并肩扩到"任何一个男人"，于是读者听见：在这条街上，Carmela 几乎是头一回被人当成人来护。真正的一击落在 except Giulia, in her way——母亲替她挡过，可 in her way（以她那种方式）这个短语留着余地：作者不解释那是种什么方式，也不判它究竟是保护还是隔绝，这份暧昧正是母女关系的缩影。此刻那个自称是 Eleonora 哥哥的人正 shielding her from the muck（替她挡开马车扬起的脏水），而全章的残酷就在于——这份"头一回被人护着"的感觉，恰恰是骗局的饵。
+**为什么这样写：**作者在一个危险正逼近的当口，忽然把镜头拉远到"她这一生"。两句都以 never 为轴（都在助动词之后，不在句首），其中 With any man 是只有三个词的独立短句——它把上一句 a young man 里"年轻"那层限定一把抹掉，把这份并肩扩到"任何一个男人"，于是读者听见：在这条街上，Carmela 几乎是头一回被人当成人来护。真正的一击落在 except Giulia, in her way——母亲替她挡过，可 in her way（以她那种方式）这个短语留着余地：作者不解释那是种什么方式，也不判它究竟是保护还是隔绝，这份暧昧正是母女关系的缩影。此刻那个自称是 Eleonora 哥哥的人正 shielding her from the muck（替她挡开马车扬起的脏水），而全章的残酷就在于——这份"头一回被人护着"的感觉，恰恰是骗局的饵。
 
 **读者视角提示：**把 shielding her from the muck（挡开脏水）与本节稍后真正发生的 box her in 并记：作者先让一个陌生男人的手护她一次，再让同一双手变成笼子；"被护着"与"被困住"之间，只隔了她肯不肯跟着他拐进那条巷子。
 
@@ -43,7 +43,7 @@ source_text: ch29_chapter_29.txt
 
 **为什么这样写：**转折被作者压进一个及物动词。boxes her in 把"箱子"活用作动词，一句话就把街道的空间改写成一只容器；随后 caging her（用笼子关她）与 making her the wild animal（把她变成野兽）是同一条隐喻链上的三级——人一旦被装进笼子，就自动成了笼中之兽。本书韵文里那只翻墙穿窗、谁也关不住的猫，在这里被反过来写：那类诗写活物制不住，本章写的是一个人被生生制成了困兽。hot and sour（又热又馊）落在嗅觉与触觉上，是全章第一次让 Carmela 从"社会处境"跌回"一具身体"——此前只是困扰她的水手体味，此刻贴到了脸上。boxes… / caging… / making… 三个分词连排，句子却断在 hot and sour on her face 这个名词短语上，节奏像门砰地合死。
 
-**读者视角提示：**留意 her way 那类"她的方式"在本节彻底换了主人——上一句她还在替母亲留余地，这一句她自己成了被"方式"对待的物件：caging、making、pressing 全施加在她身上，她没有动词，只承受。
+**读者视角提示：**留意 her way 那类"她的方式"在本节彻底换了主人——上一句她还在替母亲留余地，这一句她自己成了被"方式"对待的物件：本块的 caging、making 全施加在她身上（pressing 出自下一段），她没有动词，只承受。
 
 > **原句 4:** "He presses the length of his body against hers, and Carmela twists her head as far as it will go to the side, to avoid his leering eyes, his jagged teeth, to avoid her unforgivable carelessness a second longer, to pretend she is not trapped in this awful moment but safe where her mother tried to keep her, Giulia had known the world is a cruel, filthy sailor who will rip what he wants from your unwilling hands and leave you shattered on the stones without a backward glance."
 

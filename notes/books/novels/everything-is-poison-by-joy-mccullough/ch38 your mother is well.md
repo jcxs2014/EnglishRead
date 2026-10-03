@@ -10,7 +10,7 @@ source_text: ch38_chapter_38.txt
 
 - **一句话概括**：门铃坏了，店安静得反常；两三天后 Father Piero 抱着一筐 Laura 种不出的草药**无声地**进门，一句 "Your mother is well." 把 Carmela 没说完的心事截在半路——Giulia 躲进了修道院，在修女的药草作坊里干活、打理园子，并且不停地写信；探视被当场驳回（"there’s renewed interest in the shop"），信就压在装 pennyroyal 的筐底，章末以母亲那封信的全文收尾。
 - **情感弧线位置**：第 37 章那记耳光与撞柜台的伤之后，这一章既没有报复也没有追捕，只有一条**迟到两三天的消息**；张力从"外面在查"转成"里面在等"。Carmela 第一次拿到"母亲还活着"的确认，而这个确认在下一章开头立刻被证明不够用。
-- **人物弧线**：Carmela 从打听消息的人变成被消息安置的人——全章她唯一一次把私心说出口，就是那句被打断的 "Carmela wants to be happy for him, but her mother is still on the run and—"；Maria 的那句"Maria is fine, mostly."从第一行就开始漏（forgetful or confused、less talkative、扶着碗站起身时绊了一下）；Giulia 在本章以第一人称直接出现，而她在信里亲口承认自己不擅言辞；Father Piero 同时是信使和把关人。
+- **人物弧线**：Carmela 从打听消息的人变成被消息安置的人——全章她唯一一次把私心提到嘴边就被截断（那是叙述句，不是台词），就是那句没说完的 "Carmela wants to be happy for him, but her mother is still on the run and—"；Maria 的那句"Maria is fine, mostly."从第一行就开始漏（forgetful or confused、less talkative、扶着碗站起身时绊了一下）；Giulia 在本章以第一人称直接出现，而她在信里亲口承认自己不擅言辞；Father Piero 同时是信使和把关人。
 - **叙事手法**：单一场景、一次到访，叙述与对白同用现在时；"So he does, mostly" 用一个 mostly 让读者与 Carmela 同时知道转述经过删节；中段以 "In the basket with the pennyroyal" 完成一次信息的物化交接；章末整段引入**书信体**（Darling Carmela 抬头 / Mother 落款），书信与店内的对话被放在同一个现在时里。
 
 ## 精读

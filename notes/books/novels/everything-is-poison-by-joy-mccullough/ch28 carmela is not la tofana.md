@@ -8,9 +8,9 @@ source_text: ch28_chapter_28.txt
 
 ## 本章导航
 
-- **一句话概括**：母亲出逃后，药铺剩下的几个女人勉强凑成一台"替补班子"，Carmela 每见信使经过就盼一封母亲的信却次次落空；把 Signor Moretti 之死归罪到 Giulia 头上，反倒让街坊（水果贩 Benicio）回过头来帮她们；Violetta 进门替继母买关节止痛药，Carmela 在柜台后尝到权力的滋味、句句带刺，又强压本能学着母亲的样子应付暴躁的老主顾 Stiatessi——直到 Violetta 说"她救过我的命"，Carmela 把憋了多日的话一股脑倾泻，当面撕开她往 Laura 身上泼垃圾、冲着女巫乱喊的旧事，被 Laura 出声拦下后，甩出一句"可她又不在这儿，不是吗？"
+- **一句话概括**：母亲出逃后，药铺剩下的几个女人勉强凑成一台"替补班子"，Carmela 每见信使经过就盼一封母亲的信却次次落空；把 Signor Moretti 之死归罪到 Giulia 头上，反倒让街坊（种草药的 Benicio，原文称他 the botanist）回过头来帮她们；Violetta 进门替继母买关节止痛药，Carmela 在柜台后尝到权力的滋味、句句带刺，又强压本能学着母亲的样子应付暴躁的老主顾 Stiatessi——直到 Violetta 说"她救过我的命"，Carmela 把憋了多日的话一股脑倾泻，当面撕开她往 Laura 身上泼垃圾、冲着女巫乱喊的旧事，被 Laura 出声拦下后，甩出一句"可她又不在这儿，不是吗？"
 - **情感弧线位置**：本章是母亲的缺席**开始固化成日常**的一章——不是骤痛，而是那种"勉强撑着往前走"的钝疼。Carmela 的情绪一路向上顶：从对 Violetta 的冷嘲，到当面揭丑的爆发；却在结尾被 Laura 一句"这不是你母亲想要的"截住，反手顶出一句对整个缺席的控诉。全书压抑的怒气在这一章第一次找到一个具体出口（Violetta），也因此撞回它真正的对象——母亲为何不在。
-- **人物弧线**：Carmela 在本章反复"试穿"母亲的位置又反复试穿失败：她躲在柜台后觉得有力（She feels powerful there），逼自己"是 La Tofana now"，可在 Violetta 说"她在意"的那一刻，叙述直接下判词——she is not La Tofana. She’s a girl who may not ever see her mother again。Violetta 则从第 1 章那个自信地来买爱情药剂、又往 Laura 身上泼垃圾的姑娘，第一次显出恐惧、愧疚与求饶；她当年"告发"的事被交代成自保，本章既不把她说死成坏人，也不替她洗白。
+- **人物弧线**：Carmela 在本章反复"试穿"母亲的位置又反复试穿失败：她躲在柜台后觉得有力（She feels powerful there），逼自己"是 La Tofana now"，可在 Violetta 说"她在意"的那一刻，叙述直接下判词——she is not La Tofana. She’s a girl who may not ever see her mother again。Violetta 则从第 1 章那个自信地来买爱情药剂、第 21 章又往 Laura 身上泼垃圾的姑娘，第一次显出恐惧、愧疚与求饶；她当年"告发"的事被交代成自保，本章既不把她说死成坏人，也不替她洗白。
 - **叙事手法**：门铃与柜台把全章切成几组"进店—离店"的对白；作者用物件的来回给情绪找落点（姜黄与生姜的酊剂被拍在柜上、丁香酊剂、账簿被啪地合上）；Benicio、Stiatessi、Laura、Maria 各被派上一句短台词推动场面，真正的重话留到 Carmela 一个人的一整段里说；结尾停在一句反问，不给收场。
 
 ## 精读
@@ -31,7 +31,7 @@ source_text: ch28_chapter_28.txt
 
 **关键词：** Color rises in Laura’s cheeks · blamed Giulia for Signor Moretti’s death · Benicio has come around · the remaining women of Tofana Apothecary
 
-**为什么这样写：**全章最冷的一笔藏在一个因果的 now that 里：替她们解围的不是清白的证明，而是**罪名的转向**——Giulia 一被认作 Moretti 案的凶手，先前避之不及的水果贩 Benicio 反而 come around（回转过来）肯搭手。作者把势利与温情搅在同一句里：helping the remaining women 是善举，可善举的触发点却是她们如今"有了可怪的主、不必再担心"；紧接的那句短段 It’s a good thing, but also. 故意把后半句说一半咽回去，逼读者替它补上那个 also。而 Color rises in Laura’s cheeks 与 baby’s wail 同步升起——Laura 被提到 Benicio 时那一点羞意，作者不解释，只让它随红晕一起浮上来。
+**为什么这样写：**全章最冷的一笔藏在一个因果的 now that 里：替她们解围的不是清白的证明，而是**罪名的转向**——Giulia 一被认作 Moretti 案的凶手，先前避之不及的植物贩 Benicio 反而 come around（回转过来）肯搭手。作者把势利与温情搅在同一句里：helping the remaining women 是善举，可善举的触发点却是她们如今"有了可怪的主、不必再担心"；紧接的那句短段 It’s a good thing, but also. 故意把后半句说一半咽回去，逼读者替它补上那个 also。而 Color rises in Laura’s cheeks 与 baby’s wail 同步升起——Laura 被提到 Benicio 时那一点羞意，作者不解释，只让它随红晕一起浮上来。
 
 **读者视角提示：**这一处"归罪 Giulia 反成通行证"的逻辑，是本章理解 Carmela 后面那股怒气的钥匙——她正眼看着母亲的名声如何把邻居一件件换到自己这边来。
 
@@ -51,7 +51,7 @@ source_text: ch28_chapter_28.txt
 
 **关键词：** hold her head high · glide through the apothecary · she is not La Tofana · a girl who may not ever see her mother again
 
-**为什么这样写：**这是本章的心脏，也是标题所在。作者先把"Carmela 该有的样子"写成一组虚拟的应当（should hold her head high… as though she can’t be bothered），用的全然是母亲那套动作语汇——glide 这个词在本书几乎专属于 Giulia（前文她应付 Stiatessi 时也"glides as her mother would have"）。随后 But try as she might, she is not La Tofana 用一个让步倒装（try as she might），把身上那层"该穿的皮"当街脱下；破折号之后 she’s a girl who may not ever see her mother again 才是全句真正的落点——把"成不了母亲"重新解释成"只是一个女儿"。may not ever 这种不确定的将来，比任何确定的坏消息都更难熬；第 23 章里母亲亲口封她为 La Tofana，本章让她第一次当众承认，她穿不上这一身。
+**为什么这样写：**这是本章的心脏，也是标题所在。作者先把"Carmela 该有的样子"写成一组虚拟的应当（should hold her head high… as though she can’t be bothered），用的全然是母亲那套动作语汇——glide 本是母亲的姿态词，而全书把它用得最多的恰恰是 Carmela 自己，且每一次都挂着"像母亲那样"的比照（她应付 Stiatessi 时 "glides as her mother would have"）。随后 But try as she might, she is not La Tofana 用一个让步倒装（try as she might），把身上那层"该穿的皮"当街脱下；破折号之后 she’s a girl who may not ever see her mother again 才是全句真正的落点——把"成不了母亲"重新解释成"只是一个女儿"。may not ever 这种不确定的将来，比任何确定的坏消息都更难熬；第 23 章里母亲亲口封她为 La Tofana，本章让她第一次当众承认，她穿不上这一身。
 
 **读者视角提示：**把这句 she is not La Tofana 与本章开头那个 reasonable understudy 并起来读——替补演砸的时刻，往往正是她意识到台上根本没有正主在等她退场的时候。
 
@@ -61,7 +61,7 @@ source_text: ch28_chapter_28.txt
 
 **关键词：** skewer this horrible girl · seen her at the chandler’s stall · The witch might curse you on the spot · she might tell your mother what we helped you do
 
-**为什么这样写：**本章的怒气在这一段才凑齐武器。先是一句对内的抱怨（Why isn’t Maria… helping her skewer this horrible girl?——skewer 是"串起来烤、刺穿"，Carmela 心里想的是**当众把 Violetta 钉在火上**），作者把这层狠意写在引号之外，让读者先看见她真正的念头，再听她嘴里说出的版本。随后她对 Violetta 的指控用两个反问递进：Would you have done it to my mother 先立一个道德标准，if you’d seen her at the chandler’s stall 把标准按在一处最市井、人人看得见的地点上；真正的那一刀却是 The witch might curse you… Or worse, she might tell your mother what we helped you do——它揭的不是 Violetta 的恶，而是她的**把柄**：所谓"女巫下咒"的反面，是药铺替一个女孩做过、不能让她母亲知道的事。what we helped you do 全程不说破，把最重的信息留给读者自己去回填。
+**为什么这样写：**本章的怒气在这一段才凑齐武器。先是一句对内的抱怨（Why isn’t Maria… helping her skewer this horrible girl?——skewer 是"串起来烤、刺穿"，Carmela 心里想的是**当众把 Violetta 钉在火上**），作者把这层狠意写在引号之外，让读者先看见她真正的念头，再听她嘴里说出的版本。随后她对 Violetta 的指控用两个反问递进：Would you have done it to my mother 先立一个道德标准，if you’d seen her at the chandler’s stall 把标准按在一处最市井、人人看得见的地点上；真正的那一刀却是 The witch might curse you… Or worse, she might tell your mother what we helped you do——它揭的不是 Violetta 的恶，而是她的**把柄**：所谓"女巫下咒"的反面，是药铺替一个女孩做过、不能让她母亲知道的事。what we helped you do 把最重的信息压成一句威胁；但它并非全章不说破——三行之上已有一句当场点明 "She tended the pennyroyal and rue in your abortive remedy—"。
 
 **读者视角提示：**请注意这句里冒出来的 "we"——Carmela 在盛怒中把自己、Maria、Laura，乃至在逃的母亲重新编进同一方，与 Violetta 的"你们家"对峙；这个 we 是"药铺是一个共同体"的主张第一次被当作武器挥出去。
 

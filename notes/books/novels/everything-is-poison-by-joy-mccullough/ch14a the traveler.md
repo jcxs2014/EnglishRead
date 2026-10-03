@@ -11,7 +11,7 @@ source_text: ch14a_the_traveler.txt
 - **一句话概括**：合唱般的声音介绍一位"像 Giulia 却又不是"的无名女人：丈夫死了、孩子散了，她靠身体谋生，因拒绝了掐她脖子的公证人而被堵门围攻三个夜晚，最终在第三个夜晚决定天亮就走，带着"刚好够走到对岸的希望"过桥。
 - **情感弧线位置**：插叙扩容而非升温——编号章刚以母亲只身出行、四个无人应答的问句收尾，这篇韵文立刻把"独自上路的女人"从 Carmela 的担忧放大成一整段生平；恐惧没有落在 Giulia 身上，而是落在另一位不点名的女人身上。
 - **人物弧线**：发声者是书外的群像之声，traveler 本人无名无姓，原文未点明她与小说任何角色的关系（只写 like Giulia but not）。她的弧线是"受侵—忍到能量耗尽—离开"，动作只有一个：过桥。
-- **叙事手法**：自由体分行诗；以 There is a woman 的定格式开场，全篇在一般现在时（There is / And so she crosses）与过去时叙事（she realized / along came）之间切换；桥名与方位词三次回环（crossing the Tiber / Ponte Sisto / the other side）。
+- **叙事手法**：自由体分行诗；以 There is a woman 的定格式开场，全篇在一般现在时（There is / And so she crosses）与过去时叙事（she realized / along came）之间切换；桥名与方位词首尾回环（crossing the Tiber / at the Ponte Sisto … the Ponte Sisto / to make it to the other side）。
 
 ## 精读
 
@@ -55,7 +55,7 @@ source_text: ch14a_the_traveler.txt
 
 **关键词：** survived by her body · no different · the ones they call courtesans · flaunt their wares · the same transaction
 
-**为什么这样写：**断行把 no different 悬在行尾，下一行才给出比较对象——**判断先于事实出现**。"the ones they call courtesans"里的 they call 标明这是他人所加的称呼而非自我身份；transaction 用商业词称身体交易，冷度与上一章"她们叫卖、顾客买"的阶级议论同一口径。flaunt their wares（炫耀货物）把高级妓女写成货架，反衬 traveler "with no other distractions" 的直接——她没有可展示的文化与谈资。
+**为什么这样写：**断行把 no different 悬在行尾，下一行才给出比较对象——**判断先于事实出现**。"the ones they call courtesans"里的 they call 标明这是他人所加的称呼而非自我身份；transaction 用商业词称身体交易，冷度与本篇后段那句 "but that’s not what the clients want, really." 同一口径。flaunt their wares（炫耀货物）把高级妓女写成货架，反衬 traveler "with no other distractions" 的直接——她没有可展示的文化与谈资。
 
 **读者视角提示：**"靠身体存活的女人"与药铺women的关系本篇不写；只注意合唱之声给她的定位是 survived（活下去），不是道德评价。
 
@@ -87,7 +87,7 @@ source_text: ch14a_the_traveler.txt
 
 **关键词：** The third night · their siege · leave at dawn · Perhaps she shouldn’t back down · Perhaps she should stand up for herself · no energy left to fight · And so she crosses · just enough hope · the other side
 
-**为什么这样写：**两个 Perhaps 起头的短句连排构成 **anaphora（首语重复）**，把"别人会怎么说"的两种正确道理并置成空转的舆论，随后 But 一行把它们全部推翻——no energy left 是全篇唯一诚实的身体结论。结尾时态跳回现在（And so she crosses），与开场 There is a woman 的现在时合拢；桥名 Ponte Sisto 第三次出现，形成环形。**just enough hope / to make it to the other side** 把希望写成定量配给（呼应编号章第 14 章里知识"按滴给"的药铺语言），而 the other side 一词两指向：对岸，还是别的什么，原诗不说。
+**为什么这样写：**两个 Perhaps 起头的短句连排构成 **anaphora（首语重复）**，把"别人会怎么说"的两种正确道理并置成空转的舆论，随后 But 一行把它们全部推翻——no energy left 是全篇唯一诚实的身体结论。结尾时态跳回现在（And so she crosses），与开场 There is a woman 的现在时合拢；桥名 Ponte Sisto 第二次、也是最后一次落下，与开场合拢成环形。**just enough hope / to make it to the other side** 把希望写成定量配给（呼应编号章第 14 章里知识"按滴给"的药铺语言），而 the other side 一词两指向：对岸，还是别的什么，原诗不说。
 
 **读者视角提示：**这是本书韵文插叙的典型收法：无名人做了一个小说角色无法确认的决定，诗歌以问不出口的事结尾——本篇的结尾不是问句，而是量词（just enough），这比问句更凉。
 

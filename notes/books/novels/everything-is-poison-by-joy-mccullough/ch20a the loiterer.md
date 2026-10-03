@@ -10,7 +10,7 @@ source_text: ch20a_the_loiterer.txt
 
 - **一句话概括**：一首无名主妇的独白。她天天在 Ortaccio 北端的水果摊前磨蹭，眼睛却盯着药铺的门，替自己攒一个"进去买药不算私通"的理由；她离不开 Giulia Tofana 的止痛酊，而 Claudio Moretti 死于妻子之手后丈夫下了禁令。她无法把那位"听得很认真的老药师"和"造出那种毒的人"调和成同一个人，也无法把 Moretti 那位优雅的太太想象成杀人犯；尽管如此，她仍决定跨那道门槛、把铜钱递上去——因为下一次头痛要来，没有那瓶酊剂，她会盼一种属于自己的致命毒药。
 - **情感弧线位置**：紧接第 20 章那段"空店"之后，这首诗给的是同一条流言的**另一侧**。上一章里，全镇的议论只以传闻形式落到女人们身上（店里一整天没人来）；这一首则把镜头交给议论者中间的一个具体人，让读者看见：恐惧并没有让药铺失去顾客，它只是让顾客先给自己编好一套不在场的说辞。全书的群体声音在本节从"被害者/加害者"扩到"需要她们的人"。
-- **人物弧线**：发声者是书中未点名的一个女人（诗中始终称 a woman / this woman），她的丈夫、她的头痛、她的铜钱都在，姓名不在。她与 Giulia 的关系是**疗效关系**，这也是本书对"女巫"最有力的一次反驳：她的丈夫起初反对（She’s a witch. I won’t hear of it.），最后也无法夺走妻子从 La Tofana 那里得到的 relief。诗中还顺手完成了一次对药铺四个女人的点名——the older one / the quiet one / the young one——按年龄与性情标注，未给出任何名字。
+- **人物弧线**：发声者是书中未点名的一个女人（诗中始终称 a woman / this woman），她的丈夫、她的头痛、她的铜钱都在，姓名不在。她与 Giulia 的关系是**疗效关系**，这也是本书对"女巫"最有力的一次反驳：她的丈夫起初反对（She’s a witch. I won’t hear of it.），最后也无法夺走妻子从 La Tofana 那里得到的 relief。诗中还顺手点过药铺里的人——the older one / the quiet one / the young one 三个只按年龄与性情标注、不具名，唯独第四位直接点名 Giulia Tofana（"But whose? Surely not Giulia Tofana."）。
 - **叙事手法**：全篇不用引号，却嵌进三种声音：她为自己拟的证词、丈夫的命令、她自己心里的惊呼。人称在 she 与 I 之间来回跳，读者要靠语气判断是谁在说。技法层面有三处主线：反复出现的 There is a… / like… / but not 起手式；一个句子横跨十余行的长跨行；以及结尾 will 的连排把犹豫一寸寸推成决心。
 
 ## 精读
@@ -82,7 +82,7 @@ source_text: ch20a_the_loiterer.txt
 
 **关键词：** impossible to reconcile · the warm apothecary who listened so well · brought so much relief · with one who would · craft a poison so diabolical · a little slip of a thing · bring him stumbling · crashing to his knees · on the threshold · retching and clutching at his throat · fights for his final breaths
 
-**为什么这样写：**一个句子横跨十二行，跨行在此被用成了**认知的形状**：reconcile 的第二个宾语要等好几行才落地（the warm apothecary who listened so well / and brought so much relief / with one who would），中间那段空白正是她脑子里对不上的地方。全诗一路用 so… 把两个极端互相拉扯（so well / so much relief / so diabolical / so entirely），直到句尾谁也没胜出。a little slip of a thing 是全镇对"能杀人的人"的身材想象，正因如此她才可以"不可能是凶手"。而死亡这一段被写成一串现在分词的连排（stumbling / crashing / retching and clutching / fighting），像把现场按帧放给读者看。threshold 在诗里第二次落下，而这一次它落在**死者的家门口**——她费心给自己造进门的理由，门槛上却死了一个人。
+**为什么这样写：**一个句子横跨十二行，跨行在此被用成了**认知的形状**：reconcile 的第二个宾语要等好几行才落地（the warm apothecary who listened so well / and brought so much relief / with one who would），中间那段空白正是她脑子里对不上的地方。全诗一路用 so… 把两个极端互相拉扯（so well / so much relief / so diabolical / so entirely），直到句尾谁也没胜出。a little slip of a thing 是全镇对"能杀人的人"的身材想象，正因如此她才可以"不可能是凶手"。而死亡这一段被写成一串现在分词的连排（stumbling / crashing to his knees / retching and clutching at his throat），像把现场按帧放给读者看；末行却换成限定动词 as he fights for his final breaths.——分词一断，人就断了气。threshold 在诗里第二次落下，而这一次它落在**死者的家门口**——她费心给自己造进门的理由，门槛上却死了一个人。
 
 **读者视角提示：**This woman 这个称谓（不写 she 而写"这个女人"）在此处格外冷：她正试图把自己从判断里摘出去，仿佛谈论的是别人。
 

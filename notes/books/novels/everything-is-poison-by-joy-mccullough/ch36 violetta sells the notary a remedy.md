@@ -10,7 +10,7 @@ source_text: ch36_chapter_36.txt
 
 - **一句话概括**：Laura 出门去农庄后，Violetta 说自己来了经期、不能碰窗台上的幼苗——她信的是"流血的女人一摸种子就绝收"那套老话；Maria 从后间出来，把这条规矩归到 Pliny the Elder 名下，一句 Total donkey brain. 打发掉，Carmela 随即替她补一句"是有人教过你的"。门铃响了两回，进店的是公证人 Nicolò Tassi，他当面说 Violetta 不该"自贬身份"与这家铺子来往；Violetta 反手把"治月事剧痛的神药"卖给他，柜台上报出五十 baiocchi，逼得他摸出硬币、几乎夺门而出。两个女孩笑作一团时，Maria 一句话把气氛拧回来：他为什么进来？——等他头脑清爽，他还会再来。
 - **情感弧线位置**：第 35 章 Nina 那句"婚内不肯收回的手"划出了药铺能治与不能治的界线，本章在同一道界线上再划一次，只是换一面：**身体的规矩由谁定**。前半是店内轻喜剧（一条民俗被三个女人拆开），后半骤冷（公证人进门羞辱），结尾不是回升而是**拉闸**——Maria 那句 We need to make some changes. 直接把第 37 章的血开了门。
-- **人物弧线**：Violetta 在本章完成两级跳：先是承认自己被人教了整套关于身体的恐惧，后是**用这套恐惧反过来宰顾客一刀**——她主动出手，把这间店当成了工具。Carmela 的两处变化更细：她替 Violetta 挡公证人（Her stepmother sent her），也在 Violetta 面前承认自己不知道（I don’t.），最后在柜台上下单、收钱。Maria 仍是从拱门里出来一句话定场的人，而本章她比另外两个女孩更早看见结局。Laura 只在开头被写到出门，全章缺席。
+- **人物弧线**：Violetta 在本章完成两级跳：先是承认自己被人教了整套关于身体的恐惧，后是**用这套恐惧反过来宰顾客一刀**——她主动出手，把这间店当成了工具。Carmela 的两处变化更细：她替 Violetta 挡公证人（Her stepmother sent her），也在 Violetta 面前承认自己不知道（I don’t.），最后把那一剂药递到 Violetta 手里、由她放上柜台，钱则是公证人自己摸出来撂在柜台上的。Maria 仍是从拱门里出来一句话定场的人，而本章她比另外两个女孩更早看见结局。Laura 只在开头被写到出门，全章缺席。
 - **叙事手法**：作者把一场民俗争论写成问答（Violetta 的规矩 → Maria 的出处 → Carmela 的圆场），再让门铃把场景从"里"切到"外"；公证人的羞辱说到一半就被 Violetta 夺走话头，此后他的台词全部碎掉（Well, I— That’s certainly none of my—）。收尾用 Maria 的一句问句倒转全章情绪，把喜剧改写成预警。
 
 ## 精读
@@ -45,7 +45,7 @@ source_text: ch36_chapter_36.txt
 
 **读者视角提示：**紧接着是 Carmela 那句 "Someone taught you that. How should you have known otherwise?"——同一个店里，一个用转身否定一条规矩，一个用问句替信它的人开脱，两种厚道；本章的温柔全在后者这一侧。
 
-> **原句 4:** "He turns back to Violetta, who has been standing very still. “I’d heard rumors, Violetta. But I have to confess, I didn’t believe you would sully yourself associating with this shop.”"
+> **原句 4:** “Signora,” he says with a mocking bow. He turns back to Violetta, who has been standing very still. “I’d heard rumors, Violetta. But I have to confess, I didn’t believe you would sully yourself associating with this shop.”"
 
 **中文理解：** "“夫人，”他说着行了一个带嘲讽的躬。他转回身朝 Violetta——她已经一动不动站了好一会儿了。“我听到过一些传闻，Violetta。可我得承认，我不信你会自贬身份，跟这家铺子搅在一起。”"
 

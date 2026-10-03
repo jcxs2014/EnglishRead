@@ -35,7 +35,7 @@ source_text: ch39_chapter_39.txt
 
 **关键词：** blood basin as a chamber pot · through pretending things are as they’ve always been · She’s not well · stalks away · unimportant task · Ignoring it isn’t helping her · her eyes are full of tears · I know
 
-**为什么这样写：** 作者不给"她病了"这种句子，只给一件**器物的用途被认错**：blood basin（放血用的盆）被拿去盛排泄物——盆还是那个盆，功能已经错位，这正是失认的样貌。随后是一段三对三的短兵相接：Carmela 两次 insist（She’s not well / Ignoring it isn’t helping her），Laura 两次不答（stalks away / busying herself），而 unimportant 这个形容词是叙述层替 Laura 下的判词——**她知道自己正在做的事无关紧要，她还是去做**。收口的 I know. 只有两个词，却是全章最重的一次开口：在第 1 章那个"silent Laura moves like a ghost"的人，此处第一次把承认说出来，而且是带着泪说的。
+**为什么这样写：** 作者不给"她病了"这种句子，只给一件**器物的用途被认错**：blood basin（放血用的盆）被拿去盛排泄物——盆还是那个盆，功能已经错位，这正是失认的样貌。随后是一段短兵相接：Carmela 连着两句（She’s not well 挂着 insists，Ignoring it isn’t helping her 挂着 says），Laura 先走开不答（stalks away 与 busying herself 是同一句里的两个动词），而 unimportant 这个形容词是叙述层替 Laura 下的判词——**她知道自己正在做的事无关紧要，她还是去做**。收口的 I know. 只有两个词，却是全章最重的一次开口：在第 1 章那个"silent Laura moves like a ghost"的人，此处第一次把承认说出来，而且是带着泪说的。
 
 **读者视角提示：** 这一块的三个动词（insists / stalks / says）没有一个落在 Maria 身上——病人在场，却无人对她说话。这个"绕过她"的格局，到下面火边那一段才被打破。
 
@@ -47,7 +47,7 @@ source_text: ch39_chapter_39.txt
 
 **关键词：** enough worries for both of them · does not look convinced · pressing a kiss to Maria’s forehead · If Maria were well, she’d have something to say about that · she smiles and says · All right, Bettina · Who’s Bettina · Her little sister · died of the plague when Maria was ten
 
-**为什么这样写：** 全段的关键是那个**虚拟式**：If Maria were well, she’d have something to say about that——作者不许叙述者直接哀悼，只让她假设一个"还会唠叨的 Maria"，然后用下一句把假设取消（As it is, though）。取消之后落进来的不是沉默而是一句"好吧，Bettina"：本章的错认到这里才第一次带上**一个死者**出场。 Laura 的回答被切成两段，中间隔着一个 frowns 与一个问句，于是"她的小妹妹"这个信息到达 Carmela（也到达读者）时是**迟到一步的**——而**读者与 Carmela 同步认识到**：本章 Maria 嘴里叫出的名字只有两个——Giulia 与 Bettina，一个在修院里，一个埋在瘟疫里，两个都是她此刻够不着的人。而当她称 Laura 为 Bettina 时，她把这三个女人里的一个放回了她自己的**童年家谱**，那条家谱比 Carmela 所知道的这个家更古老。
+**为什么这样写：** 全段的关键是那个**虚拟式**：If Maria were well, she’d have something to say about that——作者不许叙述者直接哀悼，只让她假设一个"还会唠叨的 Maria"，然后用下一句把假设取消（As it is, though）。取消之后落进来的不是沉默而是一句"好吧，Bettina"：本章的错认到这里才第一次带上**一个死者**出场。 回答之前先垫着一个问句与一个 frowns，两个信息句本身是连着说出的，于是"她的小妹妹"这个信息到达 Carmela（也到达读者）时是**迟到一步的**——而**读者与 Carmela 同步认识到**：本章 Maria 嘴里叫出的名字只有两个——Giulia 与 Bettina，一个在修院里，一个埋在瘟疫里，两个都是她此刻够不着的人。而当她称 Laura 为 Bettina 时，她把这三个女人里的一个放回了她自己的**童年家谱**，那条家谱比 Carmela 所知道的这个家更古老。
 
 **读者视角提示：** 注意 Carmela 是那个发问的人（"Who's Bettina?"）。本章里她第一次承认：她对这座店里两个女人的过去，掌握得并不比一个顾客多。
 

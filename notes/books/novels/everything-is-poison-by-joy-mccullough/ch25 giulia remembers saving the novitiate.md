@@ -53,7 +53,7 @@ source_text: ch25_chapter_25.txt
 
 **关键词：** Costanza came running · together they brought the young woman in · Not an angel · a convent novitiate · deathly pale · covered in blood
 
-**为什么这样写：** 这一段完成**认知的降级**——前文 "The face was otherworldly, haloed in white. Giulia stepped closer to the window to get a better look. She still believed in angels then."（那时她还信天使），紧接此段直接给出实情："Not an angel, but a convent novitiate"——**不是天使，是见习修女**。破折号前的"白色光环"（haloed in white）被破折号后的"血色覆盖"（covered in blood）拆穿；13 岁的 Giulia 从此知道：窗外那位白袍的是被血浸过的。"deathly pale" 一词把**濒死**（deathly）提前放在形容词里，为下面她几近死于自残终止妊娠一事定调。Costanza 一句 "Shop's closed" 与前文那句 "Someone's here, Mama" 的对照——**店关门但人照救**，是母女共同的第一课。
+**为什么这样写：** 这一段完成**认知的降级**——前文 "The face was otherworldly, haloed in white. Giulia stepped closer to the window to get a better look. She still believed in angels then."（那时她还信天使），紧接此段直接给出实情："Not an angel, but a convent novitiate"——**不是天使，是见习修女**。破折号前的"白色光环"（haloed in white）被破折号后的"血色覆盖"（covered in blood）拆穿；十二三岁的 Giulia 从此知道：窗外那位白袍的是被血浸过的。"deathly pale" 一词把**濒死**（deathly）提前放在形容词里，为下面她几近死于自残终止妊娠一事定调。Costanza 一句 "Shop's closed" 与前文那句 "Someone's here, Mama" 的对照——**店关门但人照救**，是母女共同的第一课。
 
 **读者视角提示：** "novitiate"（修道见习生）在本章之后一直是无名的——第 5 段会明写"The novitiate never told them her name."，此处先埋这一层：Giulia 从此只把这个人称为一个身份，而不是一个名字。
 

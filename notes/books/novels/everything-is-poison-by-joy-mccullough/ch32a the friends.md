@@ -8,10 +8,10 @@ source_text: ch32a_the_friends.txt
 
 ## 本章导航
 
-- **一句话概括**：这首诗写一对上了年纪的邻家女人——她们晾衣绳横在两家窗户之间，绳那头就在药铺北边的 Ortaccio 上方；她们斗了、也爱了五十多年，如今看着身边认识的人一个接一个地走了。年长的那位（比小的早十六个月，且小的一从不让她忘了这点）已送走父母、兄弟姐妹、四个孩子里的两个，和最疼爱她的丈夫；年幼的那位没有孩子，丈夫此刻正一息尚存地走向死亡，而她「已经准备好了」——这句只敢对这唯一一个朋友说。诗的结尾落在一个转念的宽慰上：她担心独居后不必天天洗衣，可就在此刻，那个丈夫已近一年的朋友仍在照天天去喷泉，「so it seems / there will always / be stains to scrub」。
+- **一句话概括**：这首诗写一对上了年纪的邻家女人——她们晾衣绳横在两家窗户之间，绳那头就在 Ortaccio 北端的上方，离药铺近得走出门就能听见；她们斗了、也爱了五十多年，如今看着身边认识的人一个接一个地走了。年长的那位（比小的早十六个月，且小的一从不让她忘了这点）已送走父母、兄弟姐妹、四个孩子里的两个，和最疼爱她的丈夫；年幼的那位没有孩子，丈夫此刻正一息尚存地走向死亡，而她「已经准备好了」——这句只敢对这唯一一个朋友说。诗的结尾落在一个转念的宽慰上：她担心独居后不必天天洗衣，可就在此刻，那个丈夫已近一年的朋友仍在照天天去喷泉，「so it seems / there will always / be stains to scrub」。
 - **情感弧线位置**：紧接第 32 章两个女孩从敌意转向松动之后的一次**纵剖面**——第 32 章给的是"Carmela 与 Violetta 刚开始"，这首诗把镜头拉到一对五十年的伴侣式友谊上，让读者看见同类关系走到底的样子。它不推进任何情节，只提供一个坐标。
 - **人物弧线**：两位都被写成名姓之外的**类别**（"The older one" / "The younger one"，由"by sixteen months"定长幼），她们与 Carmela、Violetta 的关系被诗自己一句话划定："like Carmela and Violetta / but not"——只作对照，不作身份。诗中未写明这两人是谁、此后如何。
-- **叙事手法**：延续本书韵文公式（There are X / like Y / but not）。中段两处 anaphora（and… 起头的连排、trusted him / relied on him 的无连词并列）；末段整段落入将来时（There will be… / She will… / They will…），再回到一个 present 的进行（even now is tugging）。断行频繁承担语法停顿与双关落点。
+- **叙事手法**：延续本书韵文公式（There are X / like Y / but not）。中段两处 anaphora（and… 起头的连排、trusted him / relied on him 的无连词并列）；末段整段落入将来时（There will be… / She will… / They will…），把它收回现在时的是 and it occurs to her to worry；present 进行的 even now is tugging 在这段将来时之前。断行频繁承担语法停顿与双关落点。
 
 ## 精读
 

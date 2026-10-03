@@ -69,7 +69,7 @@ source_text: ch30a_the_laughing_girl.txt
 
 **为什么这样写：** 十一行清单是一整块 **anaphora**：每行都以 the 起头、每行都是"某地＋病名"，其中九行以 disease 收尾，另两行把词换成 pox 与 fire——同一件事在十一行里有十一个名字，却没有一个是它自己的名字。最前面的括号是全诗唯一的插入语，也是这张清单的说明书：(depending who you ask) 一行之内就把"病名"从医学事实改写成**证词**，证词取决于问谁。清单的排序也有形状：先在欧洲邻居之间来回（French / Gallic / Spanish / British / Portuguese / Polish / German），再一路往东、往远（Chinese / Persian / Hindu），最后落在 the Christian disease——把最远的名字收回到这首诗自己的空间里。诗从头到尾没有裁决哪个称呼才对。
 
-**读者视角提示：** 这座医院在后文再次被提到，而且是从药铺的人嘴里（第 34 章 "We have a ward of pox patients we care for, those whose cases even San Giacomo of the Incurables will not take."）；也就是说这首诗里的"不可治愈者"，书里还有更不肯治的一层。
+**读者视角提示：** 这座医院在后文再次被提到，而且是从隐修院的人嘴里（第 34 章 "We have a ward of pox patients we care for, those whose cases even San Giacomo of the Incurables will not take."——说这句的是 Sister Francesca，接话讽刺的是 Giulia）；也就是说这首诗里的"不可治愈者"，书里还有更不肯治的一层。
 
 > **原句 4:** "everyone pointing pustuled fingers
 > at someone else

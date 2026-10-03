@@ -30,7 +30,7 @@ source_text: ch15a_the_groom.txt
 
 **为什么这样写：**开场三行沿用本书韵文的定式：like Antonio 之后单起一行只放 but not——断行让否定悬在"像"与"在哪"之间，读者要先接住"不是 Antonio"，才能继续读他的位置。随后两个距离短语互相拆台：right up the road / from the apothecary 把他钉在小说地图上（前一篇 The Traveler 也以药铺做坐标，手法同型），而 not so far from home / but also a world away 用空间之近反衬处境之远——酒馆不在远方，"另一个世界"就开在离家一步之遥处，这正是全篇的论点：**逃避不需要旅行**。
 
-**读者视角提示：**Antonio 在编号章第 15 章是对话里被 Violetta 咽下半句念出的名字；本篇先声明"但不是他"，合唱之声照例把"不是你认识的那个人"放在第三行。
+**读者视角提示：**Antonio 在编号章第 15 章出自 Carmela 之口（"About Antonio,” Carmela says. “And your…” She waves vaguely in Violetta’s direction as she retrieves the broom"），她说出名字便把后半句咽了回去，只朝 Violetta 的方向挥手；本篇先声明"但不是他"，合唱之声照例把"不是你认识的那个人"放在第三行。
 
 > **原句 2:** "Here no one nags
 > or reprimands

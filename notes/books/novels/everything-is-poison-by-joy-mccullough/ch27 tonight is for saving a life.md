@@ -10,7 +10,7 @@ source_text: ch27_chapter_27.txt
 
 - **一句话概括**：深夜有人猛砸药铺的门，被砸门声惊醒的 Carmela 在母亲已出逃、无人应答的情形下第一次独自主事——她把一名肩头被刀刺伤的雏妓 Eleonora 让进门，清洗、止血、上敷料、包扎，最后拒绝收钱；这一章是她在没有母亲时完整救回一条命的全过程，也是她第一次被迫直视"靠身体挣钱的女人"其实各有各的家、各有各的归处。
 - **情感弧线位置**：本章接在母亲出逃、Laura 被泼垃圾、流言蔓延的持续下行之后；那阵砸门声是这一夜唯一"需要 Carmela 在场"的事件。全章情绪先被开篇的噩梦（血污的 Signora Moretti、一个嘶喊要杀人的男人）压到底，再随着包扎成功、女孩悄悄留下硬币离去而微微回升；结尾隔一条分隔线跳到次日清晨，Maria 不点破她昨夜弃店而去，只说一句要晾血——救好的伤口与仍待处理的那桩血案被并置在同一章的两端。
-- **人物弧线**：Carmela 在本章把第 1 章"隔门偷学"的姿态整个翻转成"门里主事"：钥匙从她颈链上取下、那副锁在后间的配方她"用不上"，她这一夜动用的是救人的手艺。同时她补了一堂认知课——她原以为卖身的女人是无亲无故的孤者（solitary creatures），Eleonora 却有一大家子靠她过活；这份"我从没算进世界的那一笔"每多救一个人就把她晃得站立不稳。
+- **人物弧线**：Carmela 在本章把第 1 章"隔门偷学"的姿态整个翻转成"门里主事"：钥匙从她颈链上取下、链上还坠着母亲的护身坠饰（第 23 章那张配方羊皮纸就在里面），而她"用不上"它，她这一夜动用的是救人的手艺。同时她补了一堂认知课——她原以为卖身的女人是无亲无故的孤者（solitary creatures），Eleonora 却有一大家子靠她过活；这份"我从没算进世界的那一笔"每多救一个人就把她晃得站立不稳。
 - **叙事手法**：单一场景、连续时段（一场急救从头到尾），技术细节全靠对话推进（yarrow、witch hazel、lavender、willow bark、feverfew 这些草药名随手的动作一并出现）；急救之间用 Eleonora 断断续续的回答拼出她的家世；分隔线之后跳接到清晨 Maria、Laura 来开店，把镜头从"救人"重新拽回"藏毒"的主线。
 
 ## 精读
@@ -31,9 +31,9 @@ source_text: ch27_chapter_27.txt
 
 **关键词：** pulls the key from the chain · clinks against her mother’s locket · no need of that recipe · tonight is for saving a life, not ending one
 
-**为什么这样写：**作者让"开门"这件最小的事，先经过一件最大的遗物。钥匙挂在一条链子上，链子上还坠着她母亲的 locket，取钥匙时 it clinks against her mother’s locket——救人的动作一开头就替"母亲"敲了一下。随后的 She has no need of that recipe 是全章的道德宣言：那副出名的配方（母亲才碰、锁在后间的东西）今夜用不上，因为"tonight is for saving a life, not ending one"。saving 与 ending 这一对动词被放进同一句里，靠一个 not 把后者直接否定掉（for saving a life, not ending one）——全书"药铺既能救命也能要命"的那根轴，就压在这个 not 上。
+**为什么这样写：**作者让"开门"这件最小的事，先经过一件最大的遗物。钥匙挂在一条链子上，链子上还坠着她母亲的 locket，取钥匙时 it clinks against her mother’s locket——救人的动作一开头就替"母亲"敲了一下。随后的 She has no need of that recipe 是全章的道德宣言：那副出名的配方（第 23 章母亲从坠饰里抽出、交到她手上的那张羊皮纸）今夜用不上，因为"tonight is for saving a life, not ending one"。saving 与 ending 这一对动词被放进同一句里，靠一个 not 把后者直接否定掉（for saving a life, not ending one）——全书"药铺既能救命也能要命"的那根轴，就压在这个 not 上。
 
-**读者视角提示：**注意这里的 key 开的是门；that recipe 不是同一物，而是留在后间、母亲才配得动的东西——第 1 章早写明她从没被允许绕过那道柜台。本章她要用的，是柜台前就能配出的救急手艺。
+**读者视角提示：**注意这里的 key 开的是门；that recipe 不是同一物——它是第 23 章母亲从坠饰里抽出、交到她手里的那张羊皮纸，此刻仍贴身挂在同一条链子上。第 1 章早写明她从没被允许绕过那道柜台；如今钥匙与配方都在她身上，她只是今夜不打开它。本章她要用的，是柜台前就能配出的救急手艺。
 
 > **原句 3:** "“You are not dying. You are living.” The words have flown from Carmela’s mouth before she can realize they came straight from Giulia. “You have done so well, getting here. I’m going to help you.”"
 
@@ -53,7 +53,7 @@ source_text: ch27_chapter_27.txt
 
 **为什么这样写：**作者用一个连词的反复（as though… As though…）把 Carmela 的阶层自觉写成自我欺骗。"I’m sixteen" 是一句想把差距抹平的话，紧跟着的两句 As though 又把这份抹平一下下擦掉——她比谁都清楚这不一样。warm bed、docks、cheap, scanty clothes 三个物象把两个十六岁上下的女孩隔成两座罗马。真正推动全章的是那句被一再延后的 Were you working?——先问年龄、再自我安慰，才敢问职业；这个顺序本身就是她的羞怯与教养，下文她"把脸保持得没有表情"正接在这句之后。
 
-**读者视角提示：**留意 "as though this makes them the same" 里的 them——是"客人和卖身女"，还是"药铺主和码头人"？作者不替 Carmela 说破，只把她的不安藏进那两句 as though 的重复里。
+**读者视角提示：**留意 "as though this makes them the same" 里的 them——them 的先行词就在紧邻的两行里——答 "Fifteen," 的 Eleonora 与答 "I’m sixteen," 的 Carmela，两个女孩；作者随即自己把这个"相同"戳破（As though Carmela didn’t just come from a warm bed），不安只藏进那两句 as though 的重复里。
 
 > **原句 5:** "But if Carmela were not here to help her, she could have bled so much she died on the street. Then her family would have missed her indeed. Not that she would deserve help any less if she had no one in the world to notice her absence. The amount Carmela has never considered about the world, about the hair-thin lines people walk every day, knocks her off-balance with each new person she helps."
 

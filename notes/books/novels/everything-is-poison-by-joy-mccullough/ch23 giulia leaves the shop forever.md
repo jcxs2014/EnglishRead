@@ -10,7 +10,7 @@ source_text: ch23_chapter_23.txt
 
 - **一句话概括**：Laura 走后第一次盘点就见了底；Father Piero 从 Sant’Angelo 带来消息——Patrizia Moretti 待刑，且供出了 Giulia。神父提议 Giulia 躲进 Santa Maria 隐修院，Maria 说出没人想听的话（“He’s right.”）；Giulia 定下“由 Maria 报官、自称独自作案”的调包方案，把配方从护身坠饰里取出交给 Carmela，一句 “You’re La Tofana now.” 完成名号交接，然后从后门离去——本章末句，Carmela 恨着 Maria，而 “Maria is all she has in the world.”
 - **情感弧线位置**：全书从"泄密风险"转入"损失兑现"的闸门章。前两章的铺垫在此合拢：第 21 章 Laura 一身垃圾地出走，第 22 章刚承认"她们得学着没有她"，本章立刻在货单上演示这个"学着"（powdered blood 供不上）；而第 20 章 Giulia 抢下的嫌疑，本章由 Patrizia 的供词变成实锤——她真的成了"落在准星里的那一个"。情绪曲线在本章走完"震惊—争执—决断—诀别"四段，结尾停在比任何毒都冷的孤身。
-- **人物弧线**：Giulia 完成从"店主"到"献祭者"的转身：她拒绝 Carmela 顶罪、设计让 Maria 作"定罪证人"、把配方缝在饰物里——每一步都是把"护住店与人"再往前推一寸。Carmela 被强制升格：她想冲去监狱自首的冲动被 Maria 一句 “we all hang” 折断，最后被迫接下 Acqua Tofana 的剂量单。Maria 则首次站到“说真话的坏人”位置：两次 “He’s right”，一次拦人，一次挨恨。
+- **人物弧线**：Giulia 完成从"店主"到"献祭者"的转身：她拒绝 Carmela 顶罪、设计让 Maria 作"定罪证人"、把配方（一小卷羊皮纸）从坠饰里抽出交给 Carmela——每一步都是把"护住店与人"再往前推一寸。Carmela 被强制升格：她想冲去监狱自首的冲动被 Maria 一句 “we all hang” 折断，最后被迫接下 Acqua Tofana 的剂量单。Maria 则首次站到“说真话的坏人”位置：两次 “He’s right”，一次拦人，一次挨恨。
 - **叙事手法**：全章由三段空间调度撑起——盘点（后屋）、神父来访（前堂）、收拾行装（全屋到后门）；"离开"在本章三次走同一扇门（Carmela 想 slipping out the back door 去监狱、神父 exits out the back door、Giulia 最后 slips out the back），后门逐渐成为本章唯一的出口意象。作者惯用**生理句替心理句**（heart constricts / a pile of ashes），又用一句环境拟物（The air turns brittle）把宣告的破坏力交给物件。护身坠饰开合的动作（takes hold / opens / withdraws）是全章唯一被放慢的镜头。
 
 ## 精读
@@ -23,7 +23,7 @@ source_text: ch23_chapter_23.txt
 
 **关键词：** Mandrake · after the Fontina order · Spanish fly · Sanguis pulvis · Without Laura · powdered blood · keep up with demand
 
-**为什么这样写：**本章的第一句台词是一份缺货清单：三个名词，没有动词，像报账一样报毒——Mandrake（曼德拉草）、Spanish fly（斑蝥，传统催情偏方）、Sanguis pulvis（拉丁语式的"血粉"）。Laura 的功劳第一次被换算成生意：叙述替读者补上逻辑句 Without Laura, their supply of powdered blood will not be enough to keep up with demand——supply、keep up with demand 全是**供应链术语**，与上一章末尾 "they would have to learn to go on without her" 严丝合缝：所谓学着没有她，第一步就是账面上供不上货；Laura 究竟以什么渠道供这味货，本章未写明。回看开场：草药盘点还是平稳的一问一答（"Sage?" "Fine."），从这三样偏门货起，"无碍"开始失守。
+**为什么这样写：**本章这份缺货清单只有三个名词，没有动词，像报账一样报毒——Mandrake（曼德拉草）、Spanish fly（斑蝥，传统催情偏方）、Sanguis pulvis（拉丁语式的"血粉"）。Laura 的功劳第一次被换算成生意：叙述替读者补上逻辑句 Without Laura, their supply of powdered blood will not be enough to keep up with demand——supply、keep up with demand 全是**供应链术语**，与上一章末尾 "they would have to learn to go on without her" 严丝合缝：所谓学着没有她，第一步就是账面上供不上货；Laura 究竟以什么渠道供这味货，本章未写明。回看开场：草药盘点还是平稳的一问一答（"Sage?" "Fine."），从这三样偏门货起，"无碍"开始失守。
 
 **读者视角提示：**本章开场的问句 "Sage?" 出自 Carmela 之口——她一开始还在自家生意的对话位上；可紧接着的大人清点（"He also supplied our nitric acid and mercuric chloride, yes?" 是 Giulia 与 Maria 之间的事）她一句也插不进，铃声一响就被支去前厅："Carmela leaves the others to deal with the crisis of inventory and heads to the front to help the customer."——本章她位置的变化从这半句开始：从干活的人，变成旁观失去的人。
 
@@ -69,7 +69,7 @@ source_text: ch23_chapter_23.txt
 
 **关键词：** He’s right · It’s Giulia’s shop, it’s Giulia’s recipe · They will execute her, no matter what · claiming responsibility · we all hang
 
-**为什么这样写：**全章最冷的一段话由最疼的人说出。两个 it’s 的平行句把罪状还原成产权（shop / recipe），随后 no matter what 关掉所有谈判可能；条件句 If you go claiming responsibility 直接判 Carmela 的自首方案为死刑放大器——句末 we all hang 的 **we** 把说话人也挂进绞索，Maria 不在安全距离外讲算术。此前她第一次说 He’s right 时，叙述给的是 Carmela 的反应：She is completely unprepared for Maria to say, “He’s right.”——被全家称作 the fiercest fighter 的人，站到了"接受避难"那边。Carmela 当场喊破真相（“No, it wasn’t even my mother who gave her the poison!”），得到的回应是 "Hush, love."——这个短语本章出现两次，都是对 Carmela 的喝止（一次止吵、一次止罪）；第二处明写是 Giulia（紧接着 "I need to think."，前一句正是 Carmela 抓着她手臂求她别顶罪），第一处未标说话人，按上下文当也出自 Giulia。Maria 这段的旁边还放着本章的制度答案：There were apothecaries before La Tofana and there will be apothecaries after——店铺先于名号，名号先于个人。
+**为什么这样写：**全章最冷的一段话由最疼的人说出。两个 it’s 的平行句把罪状还原成产权（shop / recipe），随后 no matter what 关掉所有谈判可能；条件句 If you go claiming responsibility 直接判 Carmela 的自首方案为死刑放大器——句末 we all hang 的 **we** 把说话人也挂进绞索，Maria 不在安全距离外讲算术。此前她第一次说 He’s right 时，叙述给的是 Carmela 的反应：She is completely unprepared for Maria to say, “He’s right.”——被全家称作 the fiercest fighter 的人，站到了"接受避难"那边。Carmela 当场喊破真相（“No, it wasn’t even my mother who gave her the poison!”），得到的回应是 "Hush, love."——这个短语本章出现两次，都是对 Carmela 的喝止（一次止吵、一次止罪）；第二处原文未标说话人，按上下文当为 Giulia（紧接着 "I need to think."，前一句正是 Carmela 抓着她手臂求她别顶罪），第一处未标说话人，按上下文当也出自 Giulia。Maria 这段的旁边还放着本章的制度答案：There were apothecaries before La Tofana and there will be apothecaries after——店铺先于名号，名号先于个人。
 
 **读者视角提示：**Maria 的两个判断（避难是对的、自首是没用的）合起来指向同一个结论：这个家要活下去，需要 Giulia 单独把罪背干净——本章后段的调包方案（让 Maria 去报官，“tell them I confessed to you, I acted alone”）就是这句话的工程图。
 
@@ -81,7 +81,7 @@ source_text: ch23_chapter_23.txt
 
 **关键词：** pulling away · tries desperately to hold on · restraining her · slips out the back · She hates Maria · Maria is all she has in the world
 
-**为什么这样写：**告别的句子是三人合力完成的：Giulia 挣开、Carmela 抓、Maria 拦——一个长句里三个动词短语互相咬合，后门在句尾才打开（slips out the back 的 slip 与前文神父 exits out the back door 同词族，全章"离开"一律走这扇门）。然后两个独立短句背靠背：She hates Maria. 三词定恨；Maria is all she has in the world. 八词又把它没收——恨与依靠之间只隔一个自然段，作者不许二者互相抵消，这就是本章结尾的反常设计：**最后一行不是送别母亲，是宣告与一个自己刚刚恨过的人锁死**。而恨的对象之所以成立，全因方才那块配方：护身坠饰里 "a tiny scrap of parchment" 上 "cramped script" 写着的剂量，是 Maria 教过、Giulia 交下的——Carmela 恨 Maria 拦路，更恨她代表着"活下去的那套道理"。
+**为什么这样写：**告别的句子是三人合力完成的：Giulia 挣开、Carmela 抓、Maria 拦——一个长句里三个动词短语互相咬合，后门在句尾才打开（同一个 back，动词从前文神父的 exit 换成 slip，全章"离开"一律走这扇门）。然后两个独立短句背靠背：She hates Maria. 三词定恨；Maria is all she has in the world. 八词又把它没收——恨与依靠之间只隔一个自然段，作者不许二者互相抵消，这就是本章结尾的反常设计：**最后一行不是送别母亲，是宣告与一个自己刚刚恨过的人锁死**。而恨的对象之所以成立，全因方才那块配方：护身坠饰里 "a tiny scrap of parchment" 上 "cramped script" 写着的剂量，是 Maria 教过、Giulia 交下的——Carmela 恨 Maria 拦路，更恨她代表着"活下去的那套道理"。
 
 **读者视角提示：**"She hates Maria." 之后请回读本章前段 Maria 的两处柔软：this time more gently、把 Carmela 从 Giulia 身边拉开的 pulling Carmela away——本章的恨全部长在未被领受的好意上。下一章若再写二人同处一店，这一恨一依的僵局将是新的起点。
 

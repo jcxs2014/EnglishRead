@@ -8,8 +8,8 @@ source_text: ch32_chapter_32.txt
 
 ## 本章导航
 
-- **一句话概括**：第二天一早 Violetta 主动来店里生火、烧水、扫地，Carmela 一边别扭地摆架子（假装在柜台前理账本），一边被母亲潦草的字迹刺出眼泪；她终于忍不住当面问起那句「你母亲是女巫」到底是什么意思，Violetta 坦白只记得「大人这么说，我就跟着说」；随后两人在后间一起研磨柠檬香蜂草，Carmela 第一次被 Violetta 的幽默逗笑，气氛由对抗转向松动。
-- **情感弧线位置**：处于两人关系**从敌意转向试探性亲近**的拐点，尚未和解。前段 Carmela 还在「恨她一点点」（Carmela hates her a little），后段因 Violetta 一句关于继母的玩笑 while giggling、又因她把手凑到鼻下端详香蜂草的气味，Carmela 出现了本章唯一的柔软（too shocked to pull her hand back）。整章在「勉强认可」上收（But then she nods in approval. "That's better."），是升温而非爆发。
+- **一句话概括**：第二天一早 Violetta 主动来店里生火、烧水、扫地，Carmela 一边别扭地摆架子（假装在柜台前理账本），一边被母亲潦草的字迹刺出眼泪；她终于忍不住当面问起那句「你母亲是女巫」到底是什么意思，Violetta 坦白只记得「大人这么说，我就跟着说」；Carmela 先独自在后间起手，一句 "You can’t be back here." 把 Violetta 赶回前厅，两人在柜台旁一起研磨柠檬香蜂草，Carmela 第一次被 Violetta 的幽默逗笑，气氛由对抗转向松动。
+- **情感弧线位置**：处于两人关系**从敌意转向试探性亲近**的拐点，尚未和解。前段 Carmela 还在「恨她一点点」（Carmela hates her a little），后段因 Violetta 一句关于继母的玩笑、自己没忍住笑出了声（Carmela giggles）、又因 Violetta 把手凑到鼻下端详香蜂草的气味，Carmela 出现了本章唯一的柔软（too shocked to pull her hand back）。整章在「勉强认可」上收（But then she nods in approval. "That's better."），是升温而非爆发。
 - **人物弧线**：Carmela 首次以「懂行的人」身份对 Violetta 施授（herbal 知识、研磨手法），并借 physicians 的话头说出她对女性身体的清醒认知；Violetta 则由「被宠坏的女孩」被 Carmela 自己修正为「生活并不完美」的人。Carmela 想「像母亲那样跑掉」的念头一闪而过，本章未交代母亲下落。
 - **叙事手法**：单场景（药铺前后厅）、同时段，靠动作与对白推进；中段插入一段 Carmela 对 Violetta 处境的**内心改判**（Violetta’s life isn’t perfect）；「女巫」对话用一问一答的短句交锋，与研磨香蜂草的长段并置，一冷一热构成节奏。
 
@@ -31,7 +31,7 @@ source_text: ch32_chapter_32.txt
 
 **关键词：** poring over nothing · in order to look like she’s doing something · like she’s important · her mother’s elegant but hurried script · infuriating tears · without an audience
 
-**为什么这样写：** 三句写一个连续动作，重心从「作秀」滑到「破防」：poring over nothing 用「埋头 / 无物」的矛盾戳穿她在装样子，两个 look like 把她对"被看成重要"的渴望摆在明面。真正转折在 her mother’s elegant but hurried script——作者用 elegant 与 hurried 这对形容词并置，让母亲的字迹同时是美的和慌乱的，Carmela 认出的不只是字，是写字时那种紧绷。infuriating tears 一词是关键：她气的不是难过，是自己**当着 Violetta 难过**。末句 without an audience（没有观众）反过来说明她清楚刚才有观众——擦泪要背过身，正是她不肯在人前示弱。
+**为什么这样写：** 三句写一个连续动作，重心从「作秀」滑到「破防」：poring over nothing 用「埋头 / 无物」的矛盾戳穿她在装样子，两个 look like 把她对"被看成重要"的渴望摆在明面。真正转折在 her mother’s elegant but hurried script——作者用 elegant 与 hurried 这对形容词并置，让母亲的字迹同时是美的和慌乱的，Carmela 认出的不只是字，是写字时那种紧绷。infuriating tears 一词是关键：她气的不是难过，是自己**当着 Violetta 难过**。末句 without an audience（没有观众）写的是她自己的假定，而原文紧接着就把这假定撤掉——"Violetta isn’t even watching her. Or at least, she isn’t being obvious about it."：背过身去擦泪，是她不肯在人前示弱，可那位观众其实并不存在。
 
 **读者视角提示：** Laura 的 precise 与母亲的 elegant but hurried 两种笔迹被放在同一句里对照；记住这个对比，两位母亲辈角色的行事风格在后文各自展开。
 
@@ -51,13 +51,13 @@ source_text: ch32_chapter_32.txt
 
 **关键词：** I don’t know · not trying to avoid answering · trying to remember · all I recall is that adults said so · I believed them · I parroted them
 
-**为什么这样写：** 这是 Violetta 全章最诚实的一句，作者用三个 I 起头的短句（I don’t know / I’m not trying / I’m trying）层层剥开她的防御：先承认不知，再声明不是逃避，最后才给出真相。落点在 parroted（学舌、人云亦云）——她把自己的恶行归给「跟随大人」，这个动词比「believed」更冷，因为它取消了自己的主体性。这句和第一块呼应：当年孩子们「doing whatever Violetta declared」（第 2 章里发号施令的是她），如今她却把自己说成一个只会复读大人的小孩。作者不给这份自辩判真伪，只让它悬在那里。
+**为什么这样写：** 这是 Violetta 全章最诚实的一句，作者用三个 I 起头的短句（I don’t know / I’m not trying / I’m trying）层层剥开她的防御：先承认不知，再声明不是逃避，最后才给出真相。落点在 parroted（学舌、人云亦云）——她把自己的恶行归给「跟随大人」，这个动词比「believed」更冷，因为它取消了自己的主体性。这句呼应本章稍后的那段 sheep-children 回忆：当年孩子们「doing whatever Violetta declared」（第 2 章里发号施令的是她），如今她却把自己说成一个只会复读大人的小孩。作者不给这份自辩判真伪，只让它悬在那里。
 
 **读者视角提示：** parroted 一词的锋利在于它同时是坦白和开脱；Carmela 接不接受，是下一块她转向研磨香蜂草的隐性前提。
 
 > **原句 5:** "Carmela giggles, then berates herself for rewarding Violetta’s attempt at humor. Still, she can’t help but respond, “That seems unlikely. Vapors arise from a melancholy uterus. But your stepmother is constantly pregnant.”"
 
-**中文理解：** "Carmela 咯咯笑了一声，随即又责怪自己居然回应了 Violetta 的那点幽默。可她仍忍不住接话："这可不像话。所谓『子宫游荡之气』是源于忧郁的子宫。可你继母成天怀着孕。""
+**中文理解：** "Carmela 咯咯笑了一声，随即又责怪自己居然回应了 Violetta 的那点幽默。可她仍忍不住接话："那倒不太可能。所谓『子宫游荡之气』是源于忧郁的子宫。可你继母成天怀着孕。""
 
 **关键词：** giggles · berates herself · rewarding Violetta’s attempt at humor · she can’t help but respond · Vapors arise from a melancholy uterus · your stepmother is constantly pregnant
 
@@ -71,7 +71,7 @@ source_text: ch32_chapter_32.txt
 
 **关键词：** reaches out for Carmela’s hand · breathes in her fingers · aromatic with lemon balm · That’s lovely
 
-**为什么这样写：** 全章最亲密的一拍，作者把它交给一个几乎孩子气的动作：不是握手，是 breathes in her fingers——把手指当作气味源凑近嗅。aromatic with lemon balm 让"香气"成为两人之间唯一被点名的媒介，前面所有的敌意与试探，都在这个不带言语的动作里松开。下一行 Carmela is too shocked to pull her hand back（原文紧随本块）说明这份亲近她完全没有防备。That’s lovely 极短，却正是对上一块 she startles 那种受惊的温柔回应——Violetta 夸的不是手，是此刻两人之间的距离。
+**为什么这样写：** 全章最亲密的一拍，作者把它交给一个几乎孩子气的动作：不是握手，是 breathes in her fingers——把手指当作气味源凑近嗅。aromatic with lemon balm 让"香气"成为两人之间唯一被点名的媒介，前面所有的敌意与试探，都在这个不带言语的动作里松开。下一行 Carmela is too shocked to pull her hand back（原文紧随本块）说明这份亲近她完全没有防备。That’s lovely 极短，却正是对本章那句 she startles（Violetta 出现在后间时她吓了一跳）那种受惊的温柔回应——Violetta 夸的不是手，是此刻两人之间的距离。
 
 **读者视角提示：** 香蜂草在本书语境里对应的是 Calms nerves（下文 Carmela 自己说出）；作者让这株"安神"的草，恰好出现在两个紧绷的人第一次挨近的时刻，物件与情绪在这里对齐。
 

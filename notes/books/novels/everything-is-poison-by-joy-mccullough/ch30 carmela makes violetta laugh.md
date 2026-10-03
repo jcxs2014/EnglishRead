@@ -55,7 +55,7 @@ source_text: ch30_chapter_30.txt
 
 **关键词：** Violetta laughs quietly · You are my wife · What? · I do remember our wedding
 
-**为什么这样写：** 这是全章最短的一块，也是一次**do 强调式**用法（I do remember）——不用 do 只是"我记得"，用了 do 就带一点"你难道忘了吗"的亲昵。三行的形状是笑—愣—补一句：Violetta 先笑，中间那个单词回合（“What?”）是 Carmela 的失语，最后由 Violetta 自己把话补完。这块的锋利处在于**它把第 15 章一句玩笑原样收回**：那时是 Violetta 说 "You did marry me first."，Carmela 回答的是 "Never mind."；如今 Violetta 直接把那句玩笑落成一句身份宣告。第 29 章里，"妻子"这个词是 Carmela 自己拿去推算那个陌生水手的（"I imagine you’re looking forward to seeing your wife after all this time."），而那个水手开口就是问价（"Will you take five baiocchi?"）；本章 Violetta 把婚姻这个词从买卖与推算里拿回来，当两个女孩之间的笑话用。
+**为什么这样写：** 这是全章最短的一块，也是一次**do 强调式**用法（I do remember）——不用 do 只是"我记得"，用了 do 就带一点"你难道忘了吗"的亲昵。三行的形状是笑—愣—补一句：Violetta 先笑，中间那个单词回合（“What?”）是 Carmela 的失语，最后由 Violetta 自己把话补完。这块的锋利处在于**它把第 15 章一句玩笑原样收回**：那时 "You did marry me first." 与 "Never mind." 都出自 Carmela（Violetta 当场的反应是 "What are you talking about?"，Carmela 因此"看她是不是真不记得"）；如今 Violetta 直接把那句玩笑落成一句身份宣告。第 29 章里，"妻子"这个词是 Carmela 自己拿去推算那个陌生水手的（"I imagine you’re looking forward to seeing your wife after all this time."），而那个水手开口就是问价（"Will you take five baiocchi?"）；本章 Violetta 把婚姻这个词从买卖与推算里拿回来，当两个女孩之间的笑话用。
 
 **读者视角提示：** 上一句是 Carmela 的直接发问："Why are you helping me?"——她问的是动机，Violetta 答的是关系。
 

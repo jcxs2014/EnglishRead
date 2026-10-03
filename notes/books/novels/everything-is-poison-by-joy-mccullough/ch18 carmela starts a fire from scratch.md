@@ -21,7 +21,7 @@ source_text: ch18_chapter_18.txt
 
 **关键词：** not to Maria and Laura’s apartment · but to her own · a thrumming in her veins · walked so close to both death and life · two new souls have entered the world · with her help
 
-**为什么这样写：**开篇的 not… but… 结构先给空间选择定性——她回的是自己那间，不是同伴住处，独自面对这一夜。thrumming（震颤）落在 veins（血管）里，把生理性激动写成循环层面的东西，与后面"so close to both death and life"呼应：她刚把两条命接出来，自己也在生死边上走过（第 17 章的接生之夜）。with her help 三个词的落点很险——双胎的到来有她的协助，而上一章末尾她说过"我们互相照应"，本章是这句话发酵之后的第一个安静夜晚。
+**为什么这样写：**开篇的 not… but… 结构先给空间选择定性——她回的是自己那间，不是同伴住处，独自面对这一夜。thrumming（震颤）落在 veins（血管）里，把生理性激动写成循环层面的东西，与后面"so close to both death and life"呼应：她刚把两条命接出来，自己也在生死边上走过（第 17 章的接生之夜）。with her help 三个词的落点很险——双胎的到来有她的协助，而第 16 章末尾她说过"We take care of each other"（这句话在第 19 章的闪回里被复述了一遍），本章是这句话发酵之后的第一个安静夜晚。
 
 **读者视角提示：**留意 she has walked so close to both death and life 里 death 与 life 不分主次地并列；本书此时两条线都在她身上走，读者要到下一章才知道哪条先找上门。
 

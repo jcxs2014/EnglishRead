@@ -9,8 +9,8 @@ source_text: ch22_chapter_22.txt
 ## 本章导航
 
 - **一句话概括**：本章回首 Laura 的来历：十四岁那年她赤脚站在 Maria 门口，手里一只包袱、唇边一个字都没有；Maria 给她铺了地铺、配了安神剂，多年共处下来，Laura 从默默做家务到不动声色修好账簿，成了店里的记账人和家里离不开的人——末句 "But now they would have to learn to go on without her." 把整段回忆拽回上一章（第 21 章）之后的空缺。
-- **情感弧线位置**：这是上一章爆发之后的**悼亡段**。第 21 章的 Laura 是一身垃圾、夺门而逃的人，本章的 Laura 是 "as indispensable as Maria or even Giulia herself" 的人——本章不写失去的场面，只写她是如何一点点变成"拆不掉的人"，让损失在读者手里自己称出重量。全章的现在时只属于最后一句。
-- **人物弧线**：Maria 这一章立起"收人的人"的谱系：Giulia 先来，Laura 后至，两回都落在一句 "no man of the house to consult" 的门风里；而 Laura 在本章得到的台词数量为零，她的人格全部由动作构成（收拾、烘焙、改账、点头），她的离开因此是"她们必须学着没有她"——一个从不用嘴的人，缺口却最大。
+- **情感弧线位置**：这是上一章爆发之后的**悼亡段**。第 21 章的 Laura 是一身垃圾、夺门而逃的人，本章的 Laura 是 "as indispensable as Maria or even Giulia herself" 的人——本章不写失去的场面，只写她是如何一点点变成"拆不掉的人"，让损失在读者手里自己称出重量。全章叙述都停在过去时，直到末句一个 now 把读者拉回她不在之后："But now they would have to learn to go on without her."
+- **人物弧线**：Maria 这一章立起"收人的人"的谱系：Giulia 先来，Laura 后至，两回被同一句标准对照着量——原文用 "Unlike when Giulia had shown up" 明写 Giulia 那回有男人可问、Laura 这回没有；而 Laura 在本章得到的台词数量为零，她的人格全部由动作构成（收拾、烘焙、改账、点头），她的离开因此是"她们必须学着没有她"——一个从不用嘴的人，缺口却最大。
 - **叙事手法**：时态是本章的显性标记——全章用过去时回忆（showed up / made / asked），夹着它的第 21、23 两章叙述用现在时，时态落差本身就把"这是回溯"写在句法上。视角锚定 Maria，推断只到她就停（"Maria understood. At least, she understood enough."——叙述在她面前刹车）。情节推进全靠时间状语（Over time / The first time / The next day / Slowly），没有一处正面冲突。
 
 ## 精读
@@ -41,7 +41,7 @@ source_text: ch22_chapter_22.txt
 
 **关键词：** liked helping · run to the market · Laura panicked · Without being able to articulate her reaction · her few meager belongings
 
-**为什么这样写：**因果句在这里断裂：原因（被托付跑腿，是好事）与结果（panic）之间没有任何过渡，作者把"逻辑缺口"原样留给读者——这正是创伤反应的形状。"Without being able to articulate her reaction" 是全章对 Laura 内心最诚实的一句：她不是不肯说，是**说不出**；身体比语言先接管，于是"收拾细软"成了她唯一会说的回答。"few meager" 双重量化同一样东西——本来就少，还净是些不值得要的东西；她全部的财产一抱就起，与第一章登场时的 "a single bag in hand" 严丝合缝：几年过去，她添置的家当约等于零。
+**为什么这样写：**因果句在这里断裂：原因（被托付跑腿，是好事）与结果（panic）之间没有任何过渡，作者把"逻辑缺口"原样留给读者——这正是创伤反应的形状。"Without being able to articulate her reaction" 是全章对 Laura 内心最诚实的一句：她不是不肯说，是**说不出**；身体比语言先接管，于是"收拾细软"成了她唯一会说的回答。"few meager" 双重量化同一样东西——本来就少，还净是些不值得要的东西；她全部的财产一抱就起，与本章开场那句 "a single bag in hand" 严丝合缝（那句写的正是她十四岁赤脚上门的那一天）：几年过去，她添置的家当约等于零。
 
 **读者视角提示：**"run to the market" 只是买菜级别的差事，反应却是夺路而逃的预备动作；第 21 章 Laura 喊出的那句 "I can’t go to market anymore"（见第 21 章）与本块是同一根线，本章先埋了前半段。
 

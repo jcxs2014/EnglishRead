@@ -21,7 +21,7 @@ source_text: ch14_chapter_14.txt
 
 **关键词：** right around the corner from the apothecary · When Maria’s husband died · Giulia married · Maria’s niece Laura came to stay with her
 
-**为什么这样写：**开篇像一张户型图的沿革说明：同一间小公寓随年份轮住过 Maria 与丈夫、Maria 与 Giulia、Giulia 与新婚丈夫、Maria 与 Laura——**每一次更替都由一个男人的死亡或婚姻触发**，而叙述只平静记录进出，不加一词评论。地理上也贴得极近（right around the corner），这个"拐角外"的距离感在后文她溜进药铺的种种动作里反复起作用：两个空间是一个系统。本章稍后才补出这间公寓的另一重身份（毒是在这里配成的），第一段的家常口吻因此带上底色。
+**为什么这样写：**开篇像一张户型图的沿革说明：拐角外那间小公寓随年份轮住过 Maria 与丈夫、Maria 与 Giulia、Maria 与 Laura——**每一次更替都由一个男人的死亡或婚姻触发**，而叙述只平静记录进出，不加一词评论；Giulia 婚后搬去的是另一间（"the apartment above the apothecary"），一次搬离把母女分在两个空间里。地理上也贴得极近（right around the corner），这个"拐角外"的距离感在后文她溜进药铺的种种动作里反复起作用：两个空间是一个系统。本章稍后才补出这间公寓的另一重身份（毒是在这里配成的），第一段的家常口吻因此带上底色。
 
 **读者视角提示：**Laura 的来历（Maria 的侄女）在本章这一句才交代；前文她只是药铺里"像鬼一样"的沉默帮工。
 

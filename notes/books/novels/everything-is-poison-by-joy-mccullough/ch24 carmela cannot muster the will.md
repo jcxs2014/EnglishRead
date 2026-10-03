@@ -11,7 +11,7 @@ source_text: ch24_chapter_24.txt
 - **一句话概括**：Maria 向官府作伪证、让全镇相信 Giulia 已畏罪潜逃之后，Carmela 瘫在床上数日不起——她既不敢接住"她现在是 La Tofana"这个名字，也无法面对 Laura 已回到柜台、Patrizia Moretti 行刑日期已定这两件事；直到一个母亲坐船远走、不带她的梦把她推下床，她才冲到巷子里，却发现自己根本不知从何找起。
 - **情感弧线位置**：全书的**最低势能段**——上一阶段事件（药铺被查、Giulia 出走）已全部落地，本章没有任何新行动发生，只写一个人被"该做什么"压垮；张力从"外部追捕"内化为"Carmela 能否担起继承的名字"。
 - **人物弧线**：Carmela 的被动在本章走到极限：她连 Laura 替她生火都会愧疚（"She does feel guilty"），却仍然"crumples back into the bed"。真正让她起身的是被抛弃的恐惧而非责任感——这是她人物弧线上"为自己行动"的第一步。
-- **叙事手法**：时间被拉成一片（"She doesn't set foot outside for days."），场景固定在"床—炉边椅"两点之间；关键信息全部经 Carmela **装睡偷听**而来（行刑日期、母亲未死）；破折号与短句（"Almost is not nearly enough."）承担转折。
+- **叙事手法**：时间被拉成一片（"She doesn't set foot outside for days."），场景固定在"床—炉边椅"两点之间；行刑日期出自 Carmela **装睡偷听**来的低声交谈，"母亲没死"则是叙述层直接给的底；破折号与短句（"Almost is not nearly enough."）承担转折。
 
 ## 精读
 

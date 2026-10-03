@@ -79,7 +79,7 @@ Carmela 自己也不确定这些话是不是真的，就在它们说出口的同
 
 **关键词：** My cat · she blurts · black tail rounding the corner · trying to find him · a fool’s errand · to try to contain a cat
 
-**为什么这样写：** 全章在神父的一句 proverb 里关门。Carmela 的谎（"My cat!"——她不是猫的主人）与真（她确实在跟着这只猫走）在句子上分文未动，作者只让 black tail 露一截——这是本章黑猫第三次经过，每次都在 Carmela 需要"别的路径"的时刻。神父的判语妙在它**自认在说猫**：'contain a cat' 在本章语境里（教堂地产、圈禁的传统、把女人关进 Ortaccio 的高墙）会撞上什么词，叙述不点破。让 Carmela 脱身的是她自己的即兴，而作者给这份即兴配了一个听起来像祝福、读起来像判词的收尾。
+**为什么这样写：** 全章在神父的一句 proverb 里关门。Carmela 的谎（"My cat!"——她不是猫的主人）与真（她确实在跟着这只猫走）在句子上分文未动，作者只让 black tail 露一截——这是黑猫本章最后一次在她脚边出现，而它每次都在 Carmela 需要"别的路径"的时刻现身。神父的判语妙在它**自认在说猫**：'contain a cat' 在本章语境里（教堂地产、圈禁的传统、把女人关进 Ortaccio 的高墙）会撞上什么词，叙述不点破。让 Carmela 脱身的是她自己的即兴，而作者给这份即兴配了一个听起来像祝福、读起来像判词的收尾。
 
 **读者视角提示：** "contain" 这个词请回看第 11a 节韵文里那面 "to contain them within walls" 的墙——本书的墙从来关不住东西；这句话之后紧接着的 13a《The Cat》正是这句判语的展开。
 

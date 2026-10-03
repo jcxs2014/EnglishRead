@@ -32,7 +32,7 @@ source_text: ch26_chapter_26.txt
 
 **关键词：** Not Maria · marches to Carmela's bed · her own bed · Tomorrow you will get up early · you will stoke the fire and boil water · prepare our breakfast · go to the shop and open it · take our time getting there
 
-**为什么这样写：** 一句 "Not Maria." 独立成段——上一段的对照（Laura 干活，Maria 不）在这里被压缩成**两个字的判决**。随后 Maria "marches"（行军般走过来），破折号 "—her own bed—" 是全章最锋利的一次插入语：**她走到 Carmela 睡的那张床旁边——那本来也是她自己的床**。这个空间叠合是本章最要紧的一次提醒：三个人睡在同一屋里，Carmela 的瘫软不是躲开 Maria，是躺在 Maria 眼皮底下。四个 "you will" 的祈使句排在一起，把命令写成日程表：get up early / stoke the fire / boil water / prepare our breakfast / go to the shop and open it——每一条都是**日常**，没有一条提到 Giulia；这本身就是 Maria 的立场：她要 Carmela 用劳动回到生活里，而不是用哭。
+**为什么这样写：** 一句 "Not Maria." 劈头领起一段（它与后续叙述同在本段之内）——上一段的对照（Laura 干活，Maria 不）在这里被压缩成**两个字的判决**。随后 Maria "marches"（行军般走过来），破折号 "—her own bed—" 是全章最锋利的一次插入语：**她走到 Carmela 睡的那张床旁边——那本来也是她自己的床**。这个空间叠合是本章最要紧的一次提醒：三个人睡在同一屋里，Carmela 的瘫软不是躲开 Maria，是躺在 Maria 眼皮底下。三个 "you will" 的祈使句排在一起，把命令写成日程表：get up early / stoke the fire / boil water / prepare our breakfast / go to the shop and open it——每一条都是**日常**，没有一条提到 Giulia；这本身就是 Maria 的立场：她要 Carmela 用劳动回到生活里，而不是用哭。
 
 **读者视角提示：** "while Laura and I take our time getting there"（我和 Laura 慢慢走过来）不是残忍，是**授权**：她们不去催，她们把开门的责任整块交给她。
 
@@ -54,7 +54,7 @@ source_text: ch26_chapter_26.txt
 
 **关键词：** Maria isn't being fair · Maria cannot claim to know how she feels · Maria encouraged Giulia to go · She agreed with Father Piero · she convinced Giulia to leave · She has no right · rouses herself · grown taller than this woman before her · this woman who claims to be a mother to her own · If you care so much · why did you turn her in to be hanged
 
-**为什么这样写：** 三段连排完成本章的**唯一一次翻转**。第一段是内心反驳——三个短句 "She agreed… she convinced… She has no right" 用简单过去时把 Maria 从"共感者"降为**同谋者**：上一段 Maria 的 "I feel it too"（我懂）在这里被"you pushed her out"（你劝她走）抵消。第二段是全章最关键的一句身体观察："she has grown taller than this woman before her"——Carmela 的**身高变化**第一次被她意识到，作者特意不写成抒情成长，而写成**质问前的物理条件**（要问罪，先站高）。第三段的对白用条件句起手："If you care so much," 直接把 Maria 整段斥责的立足点（care = 在乎）借过来，再反问 "then why did you turn her in to be hanged?"。这一句把第 24 章读者已经知道、Carmela 一直未点破的事，**由她亲口说出**——"turn her in"（把她交出去）＋ "to be hanged"（去上绞架）——两句之间没有一个词是修辞。
+**为什么这样写：** 三段连排完成本章的**唯一一次翻转**。第一段是内心反驳——三个短句 "She agreed… she convinced… She has no right" 用简单过去时把 Maria 从"共感者"降为**同谋者**：上一段 Maria 的 "I feel it too"（我懂）在这里被 she convinced Giulia to leave（她当初说服 Giulia 走）抵消。第二段是全章最关键的一句身体观察："she has grown taller than this woman before her"——Carmela 的**身高变化**第一次被她意识到，作者特意不写成抒情成长，而写成**质问前的物理条件**（要问罪，先站高）。第三段的对白用条件句起手："If you care so much," 直接把 Maria 整段斥责的立足点（care = 在乎）借过来，再反问 "then why did you turn her in to be hanged?"。这一句把第 24 章读者已经知道、Carmela 一直未点破的事，**由她亲口说出**——"turn her in"（把她交出去）＋ "to be hanged"（去上绞架）——两句之间没有一个词是修辞。
 
 **读者视角提示：** "turn her in to be hanged" 是本章唯一的直接指控；它把第 24 章开篇那段 Maria 的伪证（"feign dismay at her disappearance"）在女儿口中重写成一句罪名。
 
