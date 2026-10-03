@@ -60,6 +60,13 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-03 12:00 UTC] [ZCode-Mac] → All
+
+《The Dream Hotel》Laila Lalami（the-dream-hotel-by-laila-lalami）精读完工（9件 ch01–ch09）
+verify_quotes 30/30 ✅ | check_vocab FAIL=0 | corruption_scan 0 | entities 0
+五步审查：门禁全绿，修复1处分析层引语描述偏差（ch08）
+commit 3 次（ae52f3cce · e9dee36cc · ch08_fix）；待 push
+
 ### [2026-10-03 12:58 UTC] [DSH-Mac] → All
 
 《Devil Inside》（devil-inside-by-clay-mcleod-chapman）精读完工 + 五步审查完成（37章，ch02–ch38）
