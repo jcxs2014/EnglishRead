@@ -1,0 +1,172 @@
+=== verify_quotes ===
+ch01 prologue.md: 10/10 ✅
+ch02 the childrens train.md: 10/10 ✅
+ch03 the house was where we left it.md: 9/9 ✅（另有 1 条短引语未校验）
+ch04 what we imagined we were.md: 10/10 ✅
+ch05 postcards from the war.md: 10/10 ✅
+ch06 a cat named napoleon.md: 10/10 ✅
+ch07 sprinkle me in icing sugar before i die.md: 9/9 ✅（另有 1 条短引语未校验）
+ch08 a philosopher has what to say.md: 10/10 ✅
+ch09 à la bottom.md: 10/10 ✅
+ch10 babes in the woods.md: 10/10 ✅
+ch11 portrait of an ugly child.md: 10/10 ✅
+ch12 a naked girl is always priceless.md: 10/10 ✅
+ch13 the mermaids who lost their voices.md: 11/11 ✅
+ch14 motherhood is a disguise.md: 13/13 ✅
+ch15 hunger glows in the dark.md: 13/13 ✅
+ch16 the wolves danced on the ceiling.md: 10/10 ✅
+ch17 a wartime lullaby.md: 12/12 ✅
+ch18 the fog wears grey stockings.md: 14/14 ✅
+ch19 the patron saint of young girls in high heels.md: 16/16 ✅
+ch20 adrift in formaldehyde.md: 18/18 ✅
+ch21 ballet for a swan with a broken neck.md: 43/43 ✅
+ch22 they came for the poets.md: 26/26 ✅
+ch23 handcuffs made of smoke.md: 25/25 ✅
+ch24 the price of tears during wartime.md: 45/45 ✅
+ch25 every sentence is a magic spell.md: 15/15 ✅
+ch26 i heard the icicles singing.md: 23/23 ✅（另有 1 条短引语未校验）
+ch27 tiptoe through the landmines.md: 66/66 ✅
+ch28 songs for city birds on clarinet.md: 19/19 ✅
+ch29 the toy soldier.md: 60/60 ✅（另有 6 条短引语未校验）
+ch30 the saboteur wears patent leather shoes.md: 52/52 ✅（另有 2 条短引语未校验）
+ch31 put a red rose in my buttonhole.md: 50/50 ✅
+ch32 pink is a state of mind.md: 16/16 ✅
+ch33 a suitcase the size of a country.md: 13/13 ✅
+ch34 an army of little beasts.md: 24/24 ✅
+ch35 the black market wore ribbons in her hair.md: 28/28 ✅
+ch36 a valentine from the capital.md: 19/19 ✅
+ch37 what came first the mother or the egg.md: 23/23 ✅
+
+⚠️ 全书共 11 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 772/772 引文可核实（100%）；完全干净文件 37/37；正文章节 0 提取 0；总览 0 提取转交 0 ===
+=== verify_quotes --full ===
+ch01 prologue.md: 10/10 ✅
+ch02 the childrens train.md: 10/10 ✅
+ch03 the house was where we left it.md: 9/9 ✅（另有 1 条短引语未校验）
+ch04 what we imagined we were.md: 10/10 ✅
+ch05 postcards from the war.md: 10/10 ✅
+ch06 a cat named napoleon.md: 10/10 ✅
+ch07 sprinkle me in icing sugar before i die.md: 9/9 ✅（另有 1 条短引语未校验）
+ch08 a philosopher has what to say.md: 10/10 ✅
+ch09 à la bottom.md: 10/10 ✅
+ch10 babes in the woods.md: 10/10 ✅
+ch11 portrait of an ugly child.md: 10/10 ✅
+ch12 a naked girl is always priceless.md: 10/10 ✅
+ch13 the mermaids who lost their voices.md: 11/11 ✅
+ch14 motherhood is a disguise.md: 13/13 ✅
+ch15 hunger glows in the dark.md: 13/13 ✅
+ch16 the wolves danced on the ceiling.md: 10/10 ✅
+ch17 a wartime lullaby.md: 12/12 ✅
+ch18 the fog wears grey stockings.md: 14/14 ✅
+ch19 the patron saint of young girls in high heels.md: 16/16 ✅
+ch20 adrift in formaldehyde.md: 18/18 ✅
+ch21 ballet for a swan with a broken neck.md: 43/43 ✅
+ch22 they came for the poets.md: 26/26 ✅
+ch23 handcuffs made of smoke.md: 25/25 ✅
+ch24 the price of tears during wartime.md: 45/45 ✅
+ch25 every sentence is a magic spell.md: 15/15 ✅
+ch26 i heard the icicles singing.md: 23/23 ✅（另有 1 条短引语未校验）
+ch27 tiptoe through the landmines.md: 66/66 ✅
+ch28 songs for city birds on clarinet.md: 19/19 ✅
+ch29 the toy soldier.md: 60/60 ✅（另有 6 条短引语未校验）
+ch30 the saboteur wears patent leather shoes.md: 52/52 ✅（另有 2 条短引语未校验）
+ch31 put a red rose in my buttonhole.md: 50/50 ✅
+ch32 pink is a state of mind.md: 16/16 ✅
+ch33 a suitcase the size of a country.md: 13/13 ✅
+ch34 an army of little beasts.md: 24/24 ✅
+ch35 the black market wore ribbons in her hair.md: 28/28 ✅
+ch36 a valentine from the capital.md: 19/19 ✅
+ch37 what came first the mother or the egg.md: 23/23 ✅
+
+⚠️ 全书共 11 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 772/772 引文可核实（100%）；完全干净文件 37/37；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+=== check_vocab ===
+词条行合计: 1189
+
+--- FAIL (0) ---
+
+--- WARN (55) ---
+  ch04 what we imagined we were.md [基础] 基础档疑含超纲词「challenge」
+  ch06 a cat named napoleon.md [基础] 基础档疑含超纲词「greenhouse」
+  ch06 a cat named napoleon.md [基础] 基础档疑含超纲词「austerity」
+  ch07 sprinkle me in icing sugar before i die.md [基础] 基础档疑含超纲词「surrender」
+  ch08 a philosopher has what to say.md [基础] 基础档疑含超纲词「manuscript」
+  ch08 a philosopher has what to say.md [基础] 基础档疑含超纲词「physicists」
+  ch09 à la bottom.md [基础] 基础档疑含超纲词「homemaker」
+  ch09 à la bottom.md [基础] 基础档疑含超纲词「penthouse」
+  ch10 babes in the woods.md [基础] 基础档疑含超纲词「companions」
+  ch10 babes in the woods.md [基础] 基础档疑含超纲词「mothballs」
+  ch12 a naked girl is always priceless.md [基础] 基础档疑含超纲词「ballerina」
+  ch12 a naked girl is always priceless.md [基础] 基础档疑含超纲词「figurines」
+  ch14 motherhood is a disguise.md [基础] 基础档疑含超纲词「housewife」
+  ch14 motherhood is a disguise.md [基础] 基础档疑含超纲词「fireplace」
+  ch15 hunger glows in the dark.md [基础] 基础档疑含超纲词「dandelions」
+  ch15 hunger glows in the dark.md [基础] 基础档疑含超纲词「hairbrush」
+  ch16 the wolves danced on the ceiling.md [基础] 基础档疑含超纲词「warplanes」
+  ch17 a wartime lullaby.md [基础] 基础档疑含超纲词「loudspeaker」
+  ch18 the fog wears grey stockings.md [基础] 基础档疑含超纲词「handkerchief」
+  ch20 adrift in formaldehyde.md [基础] 基础档疑含超纲词「wheelchair」
+  ch21 ballet for a swan with a broken neck.md [基础] 基础档疑含超纲词「black moustache」
+  ch21 ballet for a swan with a broken neck.md [基础] 基础档疑含超纲词「ballet presentation」
+  ch21 ballet for a swan with a broken neck.md [基础] 基础档疑含超纲词「best interests」
+  ch22 they came for the poets.md [基础] 基础档疑含超纲词「classmates」
+  ch22 they came for the poets.md [基础] 基础档疑含超纲词「apartment」
+  ch24 the price of tears during wartime.md [基础] 基础档疑含超纲词「wallpaper」
+  ch24 the price of tears during wartime.md [基础] 基础档疑含超纲词「mothballs」
+  ch25 every sentence is a magic spell.md [基础] 基础档疑含超纲词「wallpaper」
+  ch25 every sentence is a magic spell.md [基础] 基础档疑含超纲词「armchairs」
+  ch25 every sentence is a magic spell.md [基础] 基础档疑含超纲词「philosopher」
+  ch25 every sentence is a magic spell.md [基础] 基础档疑含超纲词「apartment」
+  ch26 i heard the icicles singing.md [基础] 基础档疑含超纲词「snowstorm」
+  ch26 i heard the icicles singing.md [基础] 基础档疑含超纲词「grandmother」
+  ch26 i heard the icicles singing.md [基础] 基础档疑含超纲词「wandering」
+  ch27 tiptoe through the landmines.md [基础] 基础档疑含超纲词「orphanage」
+  ch27 tiptoe through the landmines.md [基础] 基础档疑含超纲词「snowflakes」
+  ch28 songs for city birds on clarinet.md [基础] 基础档疑含超纲词「mushrooms」
+  ch29 the toy soldier.md [基础] 基础档疑含超纲词「remarried」
+  ch30 the saboteur wears patent leather shoes.md [基础] 基础档疑含超纲词「prescription」
+  ch31 put a red rose in my buttonhole.md [基础] 基础档疑含超纲词「cigarette」
+  ch31 put a red rose in my buttonhole.md [基础] 基础档疑含超纲词「underwear」
+  ch31 put a red rose in my buttonhole.md [基础] 基础档疑含超纲词「chocolate」
+  ch31 put a red rose in my buttonhole.md [基础] 基础档疑含超纲词「manifesto」
+  ch33 a suitcase the size of a country.md [基础] 基础档疑含超纲词「apartment」
+  ch33 a suitcase the size of a country.md [基础] 基础档疑含超纲词「grandmother」
+  ch34 an army of little beasts.md [基础] 基础档疑含超纲词「opportunity」
+  ch35 the black market wore ribbons in her hair.md [基础] 基础档疑含超纲词「manuscript」
+  ch35 the black market wore ribbons in her hair.md [基础] 基础档疑含超纲词「main character」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「apartment」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「undershirt」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「underwear」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「body temperature」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「stairwell」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「childhood homes」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「handwriting」
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+=== check_chapter_quotes 37 ===
+⚠️  全书共 14 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 772，命中本章 772（100%）
+✅ 全部引语均归属正确章节
+=== check_short_quotes ===
+=== 短引语兜底核对（the-capital-of-dreams-by-heather-oneill）===
+  verify_quotes 跳过（<20 flat 字符）的引语：41 条 —— 这些主门禁**根本没查**
+  ✅ 命中 41 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+=== corruption_scan ===
+
+=== 编辑损坏扫描（the-capital-of-dreams-by-heather-oneill）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+=== sweep_full ===
+=== 引语整串 flat 比对（the-capital-of-dreams-by-heather-oneill）===
+  参照集：text/ 逐章（37 章，可定章） + epub 交叉验证
+  ✅ 本章命中 772 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 11 条归 check_short_quotes；无章可对 0 条未判）
+=== sweep_analysis_inline ===
+=== 分析层行内英文逐字核查（the-capital-of-dreams-by-heather-oneill）===
+  参照集：text/（37 个提取件） + epub 交叉验证 ；扫 37 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：1411 个表格行、1199 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1271 ｜ ⚠️ 跨章 1 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1632
+  ⚠️  ch10 babes in the woods.md:79  「A Naked Girl Is Always Priceless」→ 实为 ch12
