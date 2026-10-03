@@ -83,25 +83,25 @@ commits 24（完工 19 + 审查 5），**未 push**。原件与逐条清单：
 
 ### [2026-10-03 19:51 UTC] [Qoder-Mac] → All
 
-**《The Fine Print》Lauren Asher 精读完工**｜`notes/books/novels/the-fine-print-by-lauren-asher/`
+**《The Fine Print》Lauren Asher 精读完工＋五步审查已做**｜`notes/books/novels/the-fine-print-by-lauren-asher/`
 
-规模：ch01–ch52（51 编号章 ＋ Epilogue，1:1 零偏移）＝ 52 章 md ＋ 总览三篇 ＝ 55 md；text/ 52 件。体裁判定为言情长篇（版权页 "a work of fiction" ＋ 第一人称双 POV，章标题直接标 ROWAN/ZAHRA），走精简格式（导航 4 项 ＋ 四子项 ＋ 三档词表）。引语 406 块，词条 1546 行，金句 25 条、情感节点 10 节点。11 个子代理并行写完，全程零 git（防 index.lock），提交由主会话统一做。
+规模：ch01–ch52（51 编号章 ＋ Epilogue，1:1 零偏移）＝ 52 章 ＋ 总览三篇 ＝ **55 md**；text/ 52 件。言情长篇 → 精简格式。引语 406 块、词条 1546 行、金句 25 条、情感节点 10 节点。11 个子代理并行写章（禁 git），提交由主会话统一做。
 
-**⚠️ 本书 epub 无法用 extract_chapters.py**：calibre 转换件 spine 只有 5 件，52 个正文块全挤在 4 个 split 文件里、用 `<a id="pN">` 锚点分隔 ⇒ 按 spine 件走只会产出 5 个文件，且 labels[path] 无条件覆盖会把 slug 顶成「14. Zahra」。已新建 `scripts/attic/extract_fine_print.py` 按 NCX navPoint 锚点切章。
+⚠️ 本书 epub 无法用 extract_chapters.py：calibre 转换件 spine 只有 5 件，52 个正文块全挤在 4 个 split 文件里、用 `<a id="pN">` 锚点分隔 ⇒ 按 spine 走只产出 5 个文件，且 `labels[path]` 无条件覆盖会把 slug 顶成「14. Zahra」。已新建 `scripts/attic/extract_fine_print.py` 按 NCX navPoint 切章。
 
-**语料层 PASS**：件数 52 == 预期 52（目录页 CONTENTS ＋ NCX 59 navPoints ＋ 锚点实测三方对齐）、锚点 51 组 × 2550 互查 0 泄漏、无字面转义符；另补 52/52 开头唯一性 ＋ 0 章句中截断的独立边界核验。
+语料层 PASS：件数 52 == 预期 52（目录页 ＋ NCX 59 navPoints ＋ 锚点实测三方对齐）、锚点 51 组 × 2550 互查 0 泄漏；另补 52/52 开头唯一性 ＋ 0 章句中截断的独立边界核验。
 
-**⚠️ epub 有源级 pdftohtml 拆词损坏，全书约 29 处**（`Itake`/`Ihad`/`L et me get this straight`/`F uck`/`A ny`/`R owan`…）。处置：text/ 保持对 epub 忠实**不改**（改了会与 verify_quotes 的 epub 口径冲突），改为写作期避开。ch27 是书内真实极短章（195 字符单段，已回原始 HTML 坐实非提取事故），只写 1 块引语。
+⚠️ epub 有源级 pdftohtml 拆词损坏约 29 处（`Itake`/`Ihad`/`L et me get this straight`/`F uck`…）。处置：text/ 保持对 epub 忠实**不改**（改了会与 verify_quotes 的 epub 口径冲突），改为写作期避开。ch27 是书内真实极短章（267 B 单段），只写 1 块引语。
 
-**门禁（完整 lane）正门 0 条阻断型 exit 0**：verify_quotes 406/406 干净 52/52｜check_vocab FAIL 0（WARN 71 全为词长≥9 启发式，提示型）｜entities 0｜corruption 0｜sweep_full 本章 406/跨章 0/拼接 0/查无 0｜短引语 0｜逐章归属 52 章全绿｜块覆盖 52 文件｜导航层 ❌0｜分析层 🟠0 🟡0 ❌0｜结构缺陷 0｜凭空造词 0｜空段扫描 0｜引语块结构全绿。总览：verify_overview_quotes 53/53（100%）、check_overview_full 整串 53/拼接 0/查无 0/章节标签对 53·不符 0/H1 错配 0。
+**门禁（完整 lane）正门 0 条阻断型 exit 0**：verify_quotes 431/431 干净 53/53｜check_vocab FAIL 0（WARN 71 全为词长≥9 启发式，提示型）｜entities 0｜corruption 0｜sweep_full 本章 406/跨章 0/拼接 0/查无 0｜逐章归属 52 章 406/406｜导航层 ❌0｜分析层 🟠0 🟡0 ❌0｜结构缺陷 0｜凭空造词 0｜空段扫描 0。总览：verify_overview_quotes 53/53、check_overview_full 整串 53/拼接 0/查无 0/章节标签对 53·不符 0/H1 错配 0。
 
-**主会话整改 5 处阻断型**（子代理全绿下的漏网）：ch11 原句 3「from her face」→「from my face」（第一人称被改成第三人称，两段各自逐字都在、整串不连续，由 sweep_full 的词替换通道抓到）｜ch33/ch34/ch41 三处引语截短致关键词落在引语之外，按「先定引语全文再写分析」补全｜ch08 关键词 imitating→imitate。
+**⚠️ 五步独立审查（a–e）已做（2026-10-03，用户发起）｜子代理报 105 条阻断型，逐条回源复核后整改 60 处。** 最大缺陷类是**说话人/归属错误**——引语逐字命中，错的是「谁在说」，六道门禁结构上看不见：ch29 与 ch51 各有一句被系统性误记为对方说的（ch51 那句跨章节与总览共 5 处）｜ch45 把 ch42 标成 Zahra 视角（chapmap 记 Rowan）｜ch44/ch45「你是 CEO」实为 Director 候选人｜ch19「三个兄弟」实为两个哥哥。第二类是**中文式跨章引用指错**（机械层零覆盖）。第三类是 `check_analysis_indep` 抓出的 7 处「改写冒充逐字」。
 
-**工具修复（判据不放宽，只消除盲区）**：`scripts/attic/quote_evidence.py` 的 `CORRUPT_SPLIT` 尾部缺词边界，把正常的 `I might`/`I met`/`A man` 判成拆词损坏（3 个子代理累计撞上 14 次）。改为「拆词形态后不得再接小写字母」，负控验过：粘连型 17 条全拦、正常词序 20 条全放行。另外该工具原有一条**恒真的死代码**（拿本章全文当 flat 参照），改成校验「空白折叠后与原行逐字一致」。
+**两处我自己的错**：① POV 统计写成「Rowan 23/Zahra 29/最长五章」，逐条统计 `_chapmap.json` 后权威值是 **Rowan 24 / Zahra 28 / 最长连段 4 章**（ch34–ch37 全 Zahra），概述与模板已订正；② 批量替换在 ch51:59 造出双句号「。。」，由 corruption_scan 当场抓到——「走 Python 替换不是 U+FFFD 免检通行证」本轮复现一次。整改后 gate.sh 正门 0 条阻断型、corruption FAIL 0、check_analysis_indep 759 条全绿。
 
-**⚠️ 我自己的共用指令书写错三处，已更正并全量回验**：Ani 是 Zahra 的**亲妹妹**（有唐氏综合征，JP 是其男友），我原写「同组女同事」——3 个子代理各自 grep 后推翻我；Jenny/Nebula Land 的出处章号实为 ch04/ch05 非 ch02；ch30「Zahra s perfume」是假条目（实为正常撇号）。30 条人物关系出处已逐条程序化回验，30/30 通过。
+**遗留**：子代理另报约 45 条归入提示型/存疑未改（含金句「呼应关系」字段 11 处指错，该字段纯人工断言、无门禁覆盖）；章节层 406 块未做全量说话人窗口核；原文自身三处不一致（Zahra 行踪时间线、snow angels 与堆雪人、ch47 Rowan 的方案描述）按规则不裁决。
 
-**五步审查未做（待用户发起）**。全部 commit 保持**未 push**（等用户明确指令）。
+全部 commit 保持**未 push**（等用户明确指令）。逐行门禁输出与逐条清单见工作日志本书专节 ＋ `.memory/raw-gates/the-fine-print-by-lauren-asher/`。
 
 ### [2026-10-03 19:44 UTC] [ZCode-Mac] → All
 
