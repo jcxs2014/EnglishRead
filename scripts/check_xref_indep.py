@@ -30,7 +30,7 @@ QEN = re.compile(r'[「“"]([^」”"]{12,})[」”"]')
 #    ⚠️ 必须要求引文**以拉丁字母为主**（≥60%）：中文句里嵌一两个英文术语的表格单元
 #    （如「1948 年战争是…的 initiator 与 progenitor」（ch03））也会命中本式，
 #    而它们本就该走「中文式待人判」，不该按英文 flat 比对判红。
-QAFTER = re.compile(r'[「“"]([^」”"]{12,})[」”"]\s*[（(]\s*ch(\d\d)\s*[）)]')
+QAFTER = re.compile(r'[「“"]([^」”"]{12,})[」”"]\s*[（(]\s*ch(\d\d[a-z]?)\s*[）)]')
 
 
 def _mostly_latin(s):
@@ -55,8 +55,19 @@ def main():
     if not args:
         print(__doc__); return 2
     B = Path(args[0])
-    book = {int(re.search(r'ch(\d+)', p.name).group(1)): p.read_text(encoding='utf-8')
-            for p in (B / 'text').glob('ch*.txt')}
+    # ⚠️ 2026-10-03 修（假红型）：本脚本此前按**整数章号**建参照集，于是带字母后缀的
+    # 提取件（ch11a 韵文）与编号章（ch11）**同键相撞**，glob 排序里后缀件在后 ⇒ 编号章的
+    # 文本被韵文覆盖。本书 25 组相撞，5 条「该章查无」全由此来（引语确在该编号章内）。
+    # 收口：按 chapter_text_path 的 (章号, 后缀) 建键，引用侧同步支持 `chNN[后缀]`。
+    sys.path.insert(0, str(Path(__file__).resolve().parent))
+    from chapter_text_path import split_chapter_key
+    book = {}
+    for p in sorted((B / 'text').glob('ch*.txt')):
+        m_key = re.match(r'ch(\d+[a-z]?)', p.stem)
+        if not m_key:
+            continue
+        num, suffix = split_chapter_key(m_key.group(1))
+        book[f'{int(num):0{max(2, len(num))}d}{suffix}'] = p.read_text(encoding='utf-8')
     flat = {k: re.sub(r'[^a-z0-9]', '', v.lower()) for k, v in book.items()}
     tot = bad = 0
     todo = []
@@ -64,8 +75,8 @@ def main():
         s = md.read_text(encoding='utf-8')
         for m in SENT.finditer(s):
             sent = m.group(0)
-            for c in re.finditer(r'ch(\d\d)', sent):
-                nn = int(c.group(1)); tot += 1
+            for c in re.finditer(r'ch(\d\d[a-z]?)', sent):
+                nn = c.group(1); tot += 1
                 line = s[:m.start()].count('\n') + 1
                 # ⚠️ 只认**紧跟 chNN 引用**的那一段引号英文（相距 ≤3 字符）。
                 # 2026-09-29 修正：第一版把同句里所有引号英文都当本引用的证据，
@@ -84,7 +95,7 @@ def main():
                 # ⚠️ 只在**配对的章号就是当前这个 chNN** 时计入，否则等于把同一段引文
                 # 同时算给句中每一个 chNN（第一版就这样，报警 5→9）。
                 for e in own:
-                    if int(e.group(2)) == nn and _mostly_latin(e.group(1)):
+                    if e.group(2) == nn and _mostly_latin(e.group(1)):
                         ev.append(e.group(1))
                 for e in QEN.finditer(sent):
                     if 0 <= e.start() - c.end() <= 3 and not any(
@@ -97,7 +108,7 @@ def main():
                 miss = [e for e in ev if e not in hit]
                 if ev and miss:
                     bad += 1
-                    print(f"  ❌ {md.name}:{line} → ch{nn:02d}：证据 {miss} 在该章查无")
+                    print(f"  ❌ {md.name}:{line} → ch{nn}：证据 {miss} 在该章查无")
                     print(f"        句：{sent.strip()[:100]}")
                 elif not ev:
                     todo.append((md.name, line, nn, sent.strip()))
@@ -105,7 +116,7 @@ def main():
     if want_list and todo:
         print("--- 中文式待人判清单（前 %d 条）---" % min(mx, len(todo)))
         for f, l, n, sent in todo[:mx]:
-            print(f"  {f}:{l} → ch{n:02d}｜{sent[:86]}")
+            print(f"  {f}:{l} → ch{n}｜{sent[:86]}")
     return 1 if bad else 0
 
 
