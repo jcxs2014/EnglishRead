@@ -1,0 +1,76 @@
+# 五步审查 a 步：第 3 条门禁全量重跑（lane=完整，有 epub）
+
+## verify_quotes
+ch57 49 jessica.md: 7/7 ✅
+ch58 the office of dr warren psychiatrist.md: 7/7 ✅
+ch59 50 norah.md: 6/6 ✅
+ch60 51 alicia.md: 8/8 ✅
+ch61 52 norah.md: 7/7 ✅
+ch62 the office of dr warren psychiatrist.md: 7/7 ✅
+ch63 53 alicia.md: 8/8 ✅
+ch64 the office of dr warren psychiatrist.md: 7/7 ✅
+ch65 54 norah.md: 7/7 ✅
+ch66 55 alicia.md: 8/8 ✅
+ch67 the office of dr warren psychiatrist.md: 6/6 ✅
+ch68 56 jessica.md: 7/7 ✅
+ch69 57 jessica nine months later.md: 8/8 ✅
+ch70 58 norah a year later.md: 6/6 ✅
+ch71 59 alicia.md: 7/7 ✅
+ch72 60 holly fairchild.md: 8/8 ✅
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 554/554 引文可核实（100%）；完全干净文件 72/72；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+## check_vocab
+词条行合计: 998
+
+--- FAIL (0) ---
+
+--- WARN (22) ---
+  ch02 the office of dr warren psychiatrist.md [基础] 基础档疑含超纲词「newspaper」
+  ch32 26 jessica.md [基础] 基础档疑含超纲词「shoulders」
+  ch34 28 norah.md [基础] 基础档疑含超纲词「voicemail」
+  ch35 29 jessica.md [基础] 基础档疑含超纲词「melatonin」
+  ch42 35 alicia before.md [基础] 基础档疑含超纲词「trembling」
+  ch43 36 alicia.md [基础] 基础档疑含超纲词「schnitzel」
+  ch47 40 jessica before.md [基础] 例句不含词头「wall」
+  ch49 42 alicia.md [基础] 例句不含词头「hair」
+  ch51 the office of dr warren psychiatrist.md [基础] 例句不含词头「chin」
+  ch53 45 jessica.md [基础] 例句不含词头「ache」
+  ch54 46 norah.md [基础] 词条跨篇(本章无，epub 全书有)「pants」
+  ch54 46 norah.md [基础] 例句不含词头「pants」
+  ch56 48 norah.md [基础] 例句不含词头「breath」
+  ch61 52 norah.md [基础] 例句不含词头「nurse」
+  ch63 53 alicia.md [基础] 基础档疑含超纲词「whiteboard」
+  ch63 53 alicia.md [基础] 例句不含词头「bones」
+  ch64 the office of dr warren psychiatrist.md [基础] 基础档疑含超纲词「headlights」
+  ch66 55 alicia.md [基础] 基础档疑含超纲词「exhausted」
+  ch69 57 jessica nine months later.md [基础] 例句不含词头「uniform」
+  ch69 57 jessica nine months later.md [基础] 基础档疑含超纲词「drug rehabilitation」
+  ch70 58 norah a year later.md [基础] 基础档疑含超纲词「neighbour」
+  ch71 59 alicia.md [基础] 例句不含词头「paste」
+
+## check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+## corruption_scan
+
+=== 编辑损坏扫描（darling-girls-by-sally-hepworth）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+## sweep_full
+=== 引语整串 flat 比对（darling-girls-by-sally-hepworth）===
+  参照集：text/ 逐章（72 章，可定章） + epub 交叉验证
+  ✅ 本章命中 473 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 50 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+  🔶 ch15 12 alicia before.md（ch15）跨标签拼接，各段逐字都在：How is she going to get better if you don't 
+  🔶 ch17 the office of dr warren psy（ch17）跨标签拼接，各段逐字都在：Dr Warren listens avidly as I relate this, s
+  🔶 ch22 18 norah.md（ch22）跨标签拼接，各段逐字都在：Depends on your definition of violence.' ...
+  🔶 ch24 20 jessica.md（ch24）跨标签拼接，各段逐字都在：No,' Jessica said. 'But we're sisters in eve

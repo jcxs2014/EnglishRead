@@ -1,0 +1,69 @@
+# 五步审查 b/c/d/e 步
+
+## b 逐章归属 check_chapter_quotes（71 章逐章）
+ch58 the office of dr warren psychiatrist.md: 7/7 in ch58 text
+### ch59 50 norah.md
+ch59 50 norah.md: 6/6 in ch59 text
+### ch60 51 alicia.md
+ch60 51 alicia.md: 8/8 in ch60 text
+### ch61 52 norah.md
+ch61 52 norah.md: 7/7 in ch61 text
+### ch62 the office of dr warren psychiatrist.md
+ch62 the office of dr warren psychiatrist.md: 7/7 in ch62 text
+### ch63 53 alicia.md
+ch63 53 alicia.md: 8/8 in ch63 text
+### ch64 the office of dr warren psychiatrist.md
+ch64 the office of dr warren psychiatrist.md: 7/7 in ch64 text
+### ch65 54 norah.md
+ch65 54 norah.md: 7/7 in ch65 text
+### ch66 55 alicia.md
+ch66 55 alicia.md: 8/8 in ch66 text
+### ch67 the office of dr warren psychiatrist.md
+ch67 the office of dr warren psychiatrist.md: 6/6 in ch67 text
+### ch68 56 jessica.md
+ch68 56 jessica.md: 7/7 in ch68 text
+### ch69 57 jessica nine months later.md
+ch69 57 jessica nine months later.md: 8/8 in ch69 text
+### ch70 58 norah a year later.md
+ch70 58 norah a year later.md: 6/6 in ch70 text
+### ch71 59 alicia.md
+ch71 59 alicia.md: 6/7 in ch71 text
+  MISS: Sorry,' she said, rumpling his hair. 'But that'd be us. We are the lucky ones.' 
+### ch72 60 holly fairchild.md
+ch72 60 holly fairchild.md: 8/8 in ch72 text
+
+## b/c 独立逐片段核验 verify_fragments_indep（新写）
+
+=== 逐片段核验（独立实现） ===
+  引语条数 523 ｜ 受检片段 651 ｜ ❌ MISS 0 ｜ 缺参照章 0
+  ⇒ 每个受检片段都在**本章** text/ 里逐字命中
+
+## c 结构 audit_structure
+=== 精读结构扫描（darling-girls-by-sally-hepworth）===
+  扫 74 个 md、549 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 60
+
+## c 结构 check_struct_indep
+=== 独立结构扫描：71 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+
+## c 总览 check_overview_full
+=== 总览整串核查（darling-girls-by-sally-hepworth）===
+  参照集：text/ 逐章（72 章） ｜ 总览文件 3 个
+  A 整串：命中 58 ｜ 🔶 拼接 2 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 2
+  B 章节标签：对 0 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 58 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+  ⚠️ 00_情感节点.md:60  跨标签拼接：'Depends on your definition of violence.' ... 'Let
+  ⚠️ 00_金句精选.md:105  跨标签拼接：'Depends on your definition of violence.' ... 'Let
+
+## d 跨章引用 check_xref_indep
+=== chNN 引用 189 处：英文证据报警 0 处 ／ 中文式待人判 183 处 ===
+
+## e 总览引语 verify_overview_quotes
+00_金句精选.md: ➖ 无引语行（正常，非门禁项）
+
+=== 总览引文 31/31 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+## fffd_check
+--- U+FFFD 合计 0 处 ---
