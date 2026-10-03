@@ -118,12 +118,13 @@ verify_quotes 372/372（100%，干净 67/67）｜总览引语 53/53（00_概述 
 **执行方自查整改 33 条 → 0**：ch25 分析层凭空英文 2 处｜ch11 `might have lost` 漏 not 成语义反转｜ch41 原句 4/6 跨**非相邻**自然段拼接｜7 篇韵文词表 10 个空档位表头｜假红型 26 条走工具侧修复未动正文。
 **总览定向核验（非五步）订正 11 处**：无色无味／六年缄默／把她们推进火里／年迈的店主／Tivoli 找货源／「Laura 带着最冷一句回来」／断酒瓶／病逝于修院／孤女等——明细见日志。
 
-**五步审查（用户本会话发起，a–e 全跑）：报警 77 → 阻断型 65 已整改 / 提示型 7 只记不改 / 假红 5。**
+**五步审查（用户本会话发起，a–e 全跑）：报警 116（章节三批 77 ＋ 批次一 39）→ 阻断型 104 全部整改 / 提示型 7 只记不改 / 假红 5。**
 五类缺陷：① 说话人与施动者 9（ch15a Antonio 属 Carmela；**ch30:58 "You did marry me first." 与 "Never mind." 两句都出自 Carmela**——执行方曾判为假阳，复核推翻自己；ch30a San Giacomo 那句出自 Sister Francesca；ch36 报价归人）② 计数与形态断言 21（ch23a 区名 8→7、ch26a 原句 2 是 4+6 行、ch26 "you will" 3 次非 4 次、ch37a「全诗现在时」、ch32a 将来时顺序、ch40「另起三段三个词」）③ 跨章归属 8（ch28 泼垃圾实在 ch21、ch18「上一章」实为 ch16、ch27「配方锁在后间」——ch23 已交出）④ 分析层英文走形或凭空 12（**ch26:57 "you pushed her out" 全书查无**、ch20a fighting、ch32 while giggling 词形与归属）⑤ 总览层事实 15（Maria「死于修院」原文未写咽气、Giulia 并非 ch23 入修院、Francesca「一言不发」、ch08「一滴」实为 barleycorn、ch02a 并非以问句收尾、ch41 香蜂草油冒充圣油、传单朗读主体）。
+批次一（ch01–ch11，103 引语块）39 条迟到回传，逐条取证后全部成立、无一假红：说话人与施动者 4 · 前提/命题倒置 4（`throw to the flames` 的宾语是 Violetta 亲母、且在本章叙述层；被绞死的 Costanza 是母亲本人）· 跨章指针 4（`totters` 是 ch01 的 Signora Russo，同名异人）· 引语块截短 2 · 计数与唯一性 25（「全书第一个完整方剂」ch04 已有、「Maria 拿 Carmela 当镜子」全章无 mirror 一词）。
 复验：EXIT=0，372/372、53/53、corruption FAIL 0、check_struct_indep 0、check_analysis_indep 2242 条全逐字（1 条提示型＝韵文公式 `There is a woman like X but not`）。
 
 **不裁决／盲区**：八处悬置点一律不写死；㉑ 与 ㉔ 同句（We take care of the people who have nowhere else to turn）**经核确实 ch06 与 ch15 各现一次**，是作者复述不是标错章；**说话人层与总览中文事件断言无机械覆盖**（`check_speaker_consistency` 定为抽查级），只能靠 d/e 步人判。
-明细：.memory/daily/2026-10-03.md「Everything Is Poison」条；门禁与报警原件 .memory/raw-gates/everything-is-poison-by-joy-mccullough/（a-gates / c-gate全量 / d-gate整改后 / f-五步审查 a·b / g-整改批三后）。commits：c046a814a / 34314cc83 / 7d95f0a5d / b92a5bff9 / **23254673b**，**均未 push**。
+明细（116 条逐条含原文支撑行号）：.memory/reviews/2026-10-03-everything-is-poison-五步审查.md；.memory/daily/2026-10-03.md「Everything Is Poison」条；门禁与报警原件 .memory/raw-gates/everything-is-poison-by-joy-mccullough/（a-gates / c-gate全量 / d-gate整改后 / f-五步审查 a·b / g-整改批三后 / g-整改批一后）。commits：c046a814a / 34314cc83 / 7d95f0a5d / b92a5bff9 / **23254673b** / **efe51abbb**，**均未 push**。
 
 ### [2026-10-03 14:53 UTC] [DSH-Mac] → All
 
