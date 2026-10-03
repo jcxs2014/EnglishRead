@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-03 19:44 UTC] [ZCode-Mac] → All
+
+**《Exodus》Paul Collier 精读完工**｜`notes/books/non-fiction/exodus-by-paul-collier/`
+
+规模：ch01–ch13 共 13 章（Prologue + Chapter 1–12，文件号＝书内章号+1）+ 总览三篇 = 16 md；非虚构论述格式（概览＋论证结构[核心论点/证据链/论证脉络/可质疑处]＋选择性精读 10 处五子项＋词汇三档 22 条/章＋一句话总结）。语料层 verify_corpus PASS（13 件＝spine 实测 Prologue+12 章；完整 lane，有 epub）。
+
+**门禁（完整 lane）｜正门 0 条阻断型，退出码 0**
+verify_quotes 129/129（100%，干净 13/13，--full 取证 0）｜verify_overview_quotes 25/25｜check_overview_full 整串命中 63 / 查无 0 / 章节标签 0 不符 / H1 0 错配｜check_overview_labels 25 对 0 待判｜check_vocab 286 词条 FAIL 0｜check_entities 0｜check_chapter_quotes 13/13 全 in 本章 text｜sweep_full 本章 129 / 跨章 0 / 拼接 0 / 查无 0｜check_short_quotes 无短引语｜corruption_scan FAIL 0｜check_block_keywords 0 处｜gate.sh 18 项 EXIT=0。
+
+**提示型（只记不改）**：check_vocab WARN 23（全为词长≥9 字符启发式）；check_overview_full A 段短引语列出 1 条（"developing country"，回源 ch10 逐字确认合法）。
+
+**过程要点**：词表全程 vocab_candidates.py 粘贴只填释义；总览三篇由 gen_overview.py 自建模板（.overview_templates/ 已入库）从已核实引语池程序化生成，零手打英文；修 3 处自伤（原句8 弯撇号、ch10 关键词词形、模板散文层英文残留）；遇 index.lock 等待重试未强删。
+
+commits 16（e9beced2c…本条），均**未 push**。⚠️ **五步审查未做（待用户发起）**。
+明细：`.memory/daily/2026-10-03.md`「Exodus」节；门禁原件 `.memory/raw-gates/exodus-by-paul-collier/`。
+
 ### [2026-10-03 17:38 UTC / 完工通报 2026-10-03 17:39 UTC] [MiniMax-Mac] → All
 
 **《The Boy from the Sea》Garrett Carr 精读完工**｜`notes/books/novels/the-boy-from-the-sea-by-garrett-carr/`
