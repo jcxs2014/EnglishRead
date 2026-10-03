@@ -11,7 +11,7 @@ source_text: ch05_chapter_5.txt
 - **一句话概括**：Carmela 磨磨蹭蹭走回药铺，只撞见正在收拾产婆皮囊的 Maria；Maria 一句 without preamble 报出 Signora Valenti 临盆开始、母亲让她俩家里见，随后逼 Carmela 承认自己对 Giulia 的不满不是钱的问题、是童年那桩跟 Violetta 之间的旧账；Carmela 顶了两句嘴到底没顶出道理，只能亲一下 Maria 纸一样的脸颊说"谢谢你一直对我讲真话"。
 - **情感弧线位置**：本章在 ch04 结尾"黑布门口的一次闪回"之后**立刻收回**到药铺后厅；Carmela 没有真正走向 Violetta 家，只是磨回店里；这一段的功能是给 ch04 里被浇熄又复燃的怨恨**定性质**——Maria 当面把它归为童年委屈，而不是经济账；本章没有新的外部事件，只做**内部指认**。
 - **人物弧线**：Maria 第一次以"养育者"而非"作坊里 sharp edges 的那位"的身份被 Carmela 直呼 Donna Maria；Carmela 在 Maria 面前**没有赢**——她一路辩解到"bites back her protest"，最后用一句"Thank you, Donna Maria"承认 Maria 的诚实是她当下唯一接得住的善意；Giulia 在本章不出场，只以一句传话（she'll meet you at home）在场。
-- **叙事手法**：极短的一章，全章只有一场戏、两个人物；作者用**对话回合的密度**代替事件——十来回短对白，一半以上由 Maria 起头、由 Carmela 顶回去；中间唯一一段叙述是 Carmela 对 Laura 与 Maria 接生分工的一段**内心解说**（quiet strength, encouragement / bully the baby out into the world），把两位哑角补上职业性格；末尾用**一记吻颊 + 一句 grunt**收束，不给 Carmela 任何胜利。
+- **叙事手法**：极短的一章，全章只有一场戏、两个人物；作者用**对话回合的密度**代替事件——十来回短对白，一半以上由 Maria 起头、由 Carmela 顶回去；中间一段嵌在同一行台词之间的叙述，是 Carmela 对 Laura 与 Maria 接生分工的一段**内心解说**（quiet strength, encouragement / bully the baby out into the world），把两位哑角补上职业性格；末尾用**一记吻颊 + 一句 grunt**收束，不给 Carmela 任何胜利。
 
 ## 精读
 
@@ -21,7 +21,7 @@ source_text: ch05_chapter_5.txt
 
 **关键词：** meanders back · making each step take twice as long · will somehow know · didn’t actually walk Violetta all the way home · Witch or not · maternal powers
 
-**为什么这样写：**开篇一句同时把 ch04 尾的**悬置**接住：Carmela 答应了陪走，却又没走到底——meanders（磨蹭）与 each step take twice as long 用身体动作说明她此刻**既不回家、也不去 Violetta 家**，卡在两者之间。Witch or not, Giulia has maternal powers 是全章的语气基调：作者用"母业 = 女巫业"的对称句把上一诗节《The Witch》里那条地理线（药铺就在附近、能走过去）折回母女关系——**Giulia 会看穿她，不需要真的会用巫术**。这一句把"隐瞒"这一主题在本章一开始就交出去，Carmela 后面所有的顶嘴都不过是**明知要被看穿还嘴硬**。
+**为什么这样写：**开篇一句同时把 ch04 尾的**悬置**接住：Carmela 答应了陪走，却又没走到底——meanders（磨蹭）与 each step take twice as long 用身体动作说明她此刻**既不回家、也不去 Violetta 家**，卡在两者之间。Witch or not, Giulia has maternal powers 是全章的语气基调：作者用"母业 = 女巫业"的对称句把上一首诗《The Widower》里那条地理线（but you can walk there from the apothecary.）折回母女关系——**Giulia 会看穿她，不需要真的会用巫术**。这一句把"隐瞒"这一主题在本章一开始就交出去，Carmela 后面所有的顶嘴都不过是**明知要被看穿还嘴硬**。
 
 **读者视角提示：**这一段第一次把 maternal 一词从 ch04 里 Giulia 对 Violetta 那种"半母半医"的姿态移回她与自己女儿的关系上——本章的"母业"是**管教**。
 
@@ -31,7 +31,7 @@ source_text: ch05_chapter_5.txt
 
 **关键词：** Laura went to her · perfect support for early labor · quiet strength, encouragement · laboring woman · in the later stages · bully the baby out into the world · And Mother?
 
-**为什么这样写：**这一段是全章唯一一次叙述层的插入，作者用**两行解说**给两位沉默的助手补上职业性格——Laura 对应**早期**（quiet strength, encouragement），Maria 对应**后期**（bully the baby out into the world）。bully 一词用得极狠：它不是"用力"、不是"帮忙"，是**用气势推**——这与 ch04 里"Maria is composed of sharp edges"是同一句话的**接生版**。Carmela 在这一段里其实问了两个问题（Laura went to her? 和 And Mother?），中间的解说不是回答，是**她一边问一边在脑子里整理**——作者用这段插入把读者的注意力也拖到 Laura / Maria / Mother 这三个女性角色的分工上；本章接下来真正跟她对话的只有 Maria，这一段是提前给她们的**在场**做说明。
+**为什么这样写：**这一段是全章唯一一次给旁人的背景解说（它嵌在台词行内，并非独立成段的插入），作者用**两行解说**给两位沉默的助手补上职业性格——Laura 对应**早期**（quiet strength, encouragement），Maria 对应**后期**（bully the baby out into the world）。bully 一词用得极狠：它不是"用力"、不是"帮忙"，是**用气势推**——这与 ch04 里"Maria is composed of sharp edges"是同一句话的**接生版**。Carmela 在这一段里其实问了两个问题（Laura went to her? 和 And Mother?），中间的解说不是回答，是**她一边问一边在脑子里整理**——作者用这段插入把读者的注意力也拖到 Laura / Maria / Mother 这三个女性角色的分工上；本章接下来真正跟她对话的只有 Maria，这一段是提前给她们的**在场**做说明。
 
 **读者视角提示：**留意 Carmela 最后那一句"And Mother?"问的不是母亲在哪里，是母亲是否也知道她没走完——她心里已经在等下一次被看穿。
 
@@ -43,7 +43,7 @@ source_text: ch05_chapter_5.txt
 
 **关键词：** You must trust her · packs a bag with her supplies for attending births · Violetta Raso · Not in this lifetime · Your mother · She knows what she’s doing
 
-**为什么这样写：**这三行是**一次故意的错位**。Maria 说的是 trust your mother，Carmela 装听成 trust Violetta Raso，把话题从母亲扭到自己那桩旧怨上。作者让 Maria 手里正在做的那件事（packs a bag with her supplies for attending births）替她说话——她一边收产婆皮囊一边讲道理，动作是**当下就要走**，语气就容不得拖；Not in this lifetime 是三词短句，是全章最短的一次顶嘴。Maria 的回应只有六个字（Your mother. She knows what she's doing.）——她用 Your mother 把主语硬掰回来，不接 Carmela 递的话头。这一段是本章**结构核心**：母女之间隔着一层不解释，而 Maria 拒绝在这层隔膜上讨价还价。
+**为什么这样写：**这三行是**一次故意的错位**。Maria 说的是 trust your mother，Carmela 装听成 trust Violetta Raso，把话题从母亲扭到自己那桩旧怨上。作者让 Maria 手里正在做的那件事（packs a bag with her supplies for attending births）替她说话——她一边收产婆皮囊一边讲道理，动作是**当下就要走**，语气就容不得拖；Not in this lifetime 是四个词的短句，是全章最短的一次顶嘴。Maria 的回应只有七个词（Your mother. She knows what she’s doing.）——她用 Your mother 把主语硬掰回来，不接 Carmela 递的话头。这一段是本章**结构核心**：母女之间隔着一层不解释，而 Maria 拒绝在这层隔膜上讨价还价。
 
 **读者视角提示：**这三行里，attending births 与 trust her 被塞进同一句，是本书第一次把"接生"与"信任"绑在一起——请回想 ch04 里 Giulia 跪在 Violetta 前的那一幕。
 
@@ -53,7 +53,7 @@ source_text: ch05_chapter_5.txt
 
 **关键词：** You’ve said it yourself · The shop is struggling · We’re losing Signora Fontina to the New World · raised the rent last month · How can we afford · hand out remedies for free
 
-**为什么这样写：**这一段把 ch04 结尾那句"That's all the payment I need"的**账单反噬**说出来——Carmela 在 ch04 里没有当场顶嘴，只在内心里过了一遍（"Now Carmela will see how the master of handling customers shows someone the door"），到 ch05 才把这口气吐出来。她一口气列了三笔账（struggling / New World / rent），每笔都是 ch04 里读者已经见过的具体事实：Signora Fontina 一家要走的 trunk's worth（本章直接点名）与 Signor Russo 的 rent 抬价（ch04 未点名但前文有 totters 出场）。How can we afford 一句不是修辞问句，是**账本上的**问题——Carmela 想赢，用**数字**去赢。这一段是全书第一次让主角正面**质问**母业的经济学，也是本章末尾 Maria 立刻把她拉回 emotional grievance 的靶子。
+**为什么这样写：**这一段把 ch04 结尾那句"That's all the payment I need"的**账单反噬**说出来——Carmela 在 ch04 里没有当场顶嘴，只在内心里过了一遍（"Now Carmela will see how the master of handling customers shows someone the door"），到 ch05 才把这口气吐出来。她一口气列了三笔账（struggling / New World / rent），每笔都是 ch04 里读者已经见过的具体事实：Signora Fontina 一家要走的 trunk’s worth（话在 ch04 柜台上："I’ll fill a trunk with it."）与 Signor Russo 的 rent 抬价（本章明写 "Signor Russo raised the rent last month."）。How can we afford 一句不是修辞问句，是**账本上的**问题——Carmela 想赢，用**数字**去赢。这一段是全书第一次让主角正面**质问**母业的经济学，也是本章末尾 Maria 立刻把她拉回 emotional grievance 的靶子。
 
 **读者视角提示：**这里要区分两件事——Carmela 说的每一笔账都是**事实**（ch04 有据），但她**为何要现在**说这些事实、以及她说这些事实**是否为了争同一件事**，是 Maria 下一段要指出的。
 

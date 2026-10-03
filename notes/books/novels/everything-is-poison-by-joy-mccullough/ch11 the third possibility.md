@@ -34,7 +34,7 @@ source_text: ch11_chapter_11.txt
 
 **为什么这样写：**作者在此用一个"oh"打断句子（"the look, oh, the look of hope"），模拟 Carmela 目击到母亲罕见神情时的那一怔——重复 the look 把镜头拉近又拉近。随后三个递进的同位语（"her one precious thing in this world, her only daughter, her Carmela"）逐级收窄：世上唯一珍贵→独女→直呼本名，把一个母亲全部的软肋压进三短语。关键在于**权力关系的倒转**：全章一直是 Giulia 掌握信息、审判在先，而这一刻她反倒悬在女儿是否原谅的一线之上。"it erases any doubts" 于是既是结论，也是女儿给母亲的赦免——Carmela 用一个眼神的分量，反哺了她。
 
-**读者视角提示：**留意作者给 Giulia 的那一眼是否定式的："the look of hope on Giulia’s face that she might not have lost her one precious thing in this world, her only daughter, her Carmela"——她脸上那点希望，是**希望还没有失去**，而不是"险些失去"的追述；而紧接的一句 it erases any doubts Carmela might have had 把这个否定式的希望当场结算成信任。上一代 Costanza 失去的是女儿眼前被绞死的母亲，这一代 Giulia 差点失去的是女儿的心；两代"失去"在本章暗接。
+**读者视角提示：**留意作者给 Giulia 的那一眼是否定式的："the look of hope on Giulia’s face that she might not have lost her one precious thing in this world, her only daughter, her Carmela"——她脸上那点希望，是**希望还没有失去**，而不是"险些失去"的追述；而紧接的一句 it erases any doubts Carmela might have had 把这个否定式的希望当场结算成信任。上一代 Giulia 失去的是被绞死的母亲 Costanza，这一代 Giulia 差点失去的是女儿的心；两代"失去"在本章暗接。
 
 > **原句 3:** "Giulia pauses. “I should let Maria tell you that part.” Giulia has been avoiding Carmela’s eyes, but now she grabs both her daughter’s hands and looks at her urgently. “I need you to understand that sometimes there are no other options. The authorities are certainly no help. The church…My mother died protecting me. I wasn’t going to let that happen to anyone else’s daughter.”"
 
@@ -54,7 +54,7 @@ source_text: ch11_chapter_11.txt
 
 **为什么这样写：**追问从抽象回到血肉——"My father?" 二字把整场关于"毒与怪物"的讨论，猛地拽回 Carmela 自身的来历。作者的狠处在"doesn’t know if it would be worse to find out her mother had killed him, or … he had been a monster who needed vanquishing"：她给读者摆出**两杯毒酒**（母亲是凶手／父亲是恶人），无论选哪杯都苦——这正是"the third possibility"登场前的心理真空。"gone before Carmela was speaking full sentences" 用语言能力丈量记忆深度：父亲消失在她"说不出整句话"之前，意味着她永远没有为他组织过一句完整的话，只能任由别人（母亲）填注他的身份。"needed vanquishing"（需要被征服／被除去）一词冷峻，仿佛那男人是一种非人的灾祸。
 
-**读者视角提示：**"Something sick turns over" 是全章唯一写 Carmela 身体的句子，比任何台词都诚实——理智上她护母亲，胃先替她害怕。
+**读者视角提示：**"Something sick turns over in Carmela’s stomach" 是全章唯一一处内脏化的身体书写，比任何台词都诚实——理智上她护母亲，胃先替她害怕。
 
 > **原句 5:** "And there it is, the third possibility. There had been a good man and her mother had found him, but he had been taken from her too soon."
 

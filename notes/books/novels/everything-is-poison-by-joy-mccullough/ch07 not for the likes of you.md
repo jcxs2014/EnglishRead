@@ -63,7 +63,7 @@ source_text: ch07_chapter_7.txt
 
 **为什么这样写：** 喷泉边的女人先以笑声"捅穿"Carmela（it stabs through Carmela, this kind of belonging she’s never had），作者随后用三级递进的短句把这种归属展开：rhythms → music → choir，尺度一级级放大，每人各司其职的合唱恰好反衬 Carmela 的处境——她不属于任何一个声部。末句转入虚拟语气（It wouldn’t… if a voice were missing），表面上缺谁都不可惜，实际上正因为她自己的"嗓子"不在名单上，这个假设才显得疼。前一段"family, even if they’re not all blood"的自慰与这段的"非血缘不等于有位置"构成互文。
 
-**读者视角提示：** 这一段紧跟着 Signora Stiatessi 的一声"stare"呵斥和"Doesn't she belong to La Tofana?"——合唱的排他性与药剂师的恶名在此合流，下一章开头 Carmela 将因此把这句话顶回去。
+**读者视角提示：** 这一段紧跟着 Signora Stiatessi 的一声 "What are you staring at?" 呵斥，接话的却是她朋友——"Stay away from that one," Signora Stiatessi’s friend advises her. "Doesn’t she belong to La Tofana?"——合唱的排他性与药剂师的恶名在此合流；顶回去就在本章末尾（Carmela stands taller. That’s meant as an insult, but she does belong to La Tofana,）。
 
 > **原句 6:** "“I am here,” Nicolò Tassi says, drawing himself up to his full, if unimpressive height, “to ensure justice for the residents of Campo Marzio. Not for the likes of you.”"
 

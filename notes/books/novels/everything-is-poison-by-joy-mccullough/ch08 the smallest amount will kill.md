@@ -11,7 +11,7 @@ source_text: ch08_chapter_8.txt
 - **一句话概括**：Carmela 已落入药铺的节奏——能预判常客的药、接住 Signor Conti 的玩笑、从 Maria 手上学荨麻；一个醉酒的神父转交给她一小包"The smallest amount will kill a man."的粉末；随后 Signora Moretti 破天荒向她本人开口，Maria 却当场搅黄生意，因为那位太太要的从来不是"让丈夫脾气好些"的药。
 - **情感弧线位置**：一高一低的一章——开场是全书到目前最暖的群戏（三人隔架逗趣、笑作一团），神父进门后全面转冷，结尾 Carmela 又被降回"may as well not be here at all"的位置；而真正的暗线是她第一次与致命之物独处并亲手藏起它。
 - **人物弧线**：Maria 的双面同场亮相——传授手艺、护店规矩，却不允许 Carmela 做成任何一单生意；Giulia 第一次以"学徒"的身份被谈起（荨麻膏药惨案）；Carmela 从"觉得母亲无所不能"走到"知道母亲也会失手"，同时接住了一个只有她知道的秘密。
-- **叙事手法**：闪回以与上一章相同的引导句"A vivid memory"嵌入（本章仅此一次，引出神父之前的床上夜谈）；配伍段（angelica、astragalus、holy basil、damiana）是全书第一个成写的完整方剂；笑声与寒意同场——荨麻旧事笑得越大声，神父那场交易越显得冷。
+- **叙事手法**：闪回以与上一章相同的引导句"A vivid memory"嵌入（本章仅此一次，引出神父之前的床上夜谈）；配伍段（angelica、astragalus、holy basil、damiana）是全书成写的完整方剂之一（ch04 已有一段四味连列："primarily of pennyroyal, but also with rue, juniper, black hellebore"）；笑声与寒意同场——荨麻旧事笑得越大声，神父那场交易越显得冷。
 
 ## 精读
 
@@ -31,7 +31,7 @@ source_text: ch08_chapter_8.txt
 
 **关键词：** But then Maria relents · when it’s properly prepared, that is · topically as a tincture · The heat of cooking undoes the properties that make it sting
 
-**为什么这样写：** 这是本章第一堂真正的技术课，而知识是被"逼出来的"——But then Maria relents 三个词写明传授的姿态：不情愿、被软化、给面子。句式里有药剂师的语学习惯：先给结论，再用破折号补限定（when it's properly prepared, that is），像标签上的小字。最后一句是全章药理核心：undoes（撤销）把"热"写成一种反向的配方操作——这句话表面讲荨麻，结构上却在为本章后文那包"最小的量就能杀人"的粉末上课：药与毒的分界全在制备与剂量。
+**为什么这样写：** 这是本章第一堂真正的技术课，而知识是被"逼出来的"——But then Maria relents 四个词写明传授的姿态：不情愿、被软化、给面子。句式里有药剂师的语学习惯：先给结论，再用破折号补限定（when it's properly prepared, that is），像标签上的小字。最后一句是全章药理核心：undoes（撤销）把"热"写成一种反向的配方操作——这句话表面讲荨麻，结构上却在为本章后文那包"最小的量就能杀人"的粉末上课：药与毒的分界全在制备与剂量。
 
 **读者视角提示：** "her voice slightly less barbed"——作者用同一个比喻把 Maria 本人也写成一根荨麻：蜇人是她的手艺，松口是她的剂量。
 
@@ -43,7 +43,7 @@ source_text: ch08_chapter_8.txt
 
 **为什么这样写：** Maria 数落的是二十年前的 Giulia，眉毛却挑在给 Carmela 脸上——一句话里两个人重叠，而本章开头 Carmela 刚刚"预判熟客"、正急着做成 Moretti 这一单，读者的笑点与教训点同步落地。语法的口语痕迹也被保留：书面应为 sprung 的位置（sprung into action），Maria 的口音比规范先行一步。两句一收一放的节奏最见功力："I had a rash. Barely noticeable."缩到最小，"like it was the plague"放到最大——夸张与轻描的落差就是这段往事的喜剧引擎，同时 plague 一词又在无声丈量这间铺子与死亡的距离。
 
-**读者视角提示：** Giulia 的"know absolutely everything all at once"与第 1 章里 Carmela 的耐心对照着读；本章 Maria 说她在拿 Carmela 当镜子，读者也不妨照做。
+**读者视角提示：** Giulia 的"know absolutely everything all at once"与第 1 章里 Carmela 的耐心对照着读；本章 Maria 讲的全是 Giulia 小时候，读者只看见她朝 Carmela 一记挑眉（Maria raises a pointed eyebrow at Carmela）。
 
 > **原句 4:** "The priest sways slightly on his feet; fumes waft off him like incense off a thurible. Carmela steadies herself on the edge of the counter."
 
@@ -61,7 +61,7 @@ source_text: ch08_chapter_8.txt
 
 **关键词：** grabs Carmela’s wrist · This can’t be traced back to me · The smallest amount will kill a man
 
-**为什么这样写：** 全章的铰链块。四句台词里前两句是命令式（Listen / Use），第三句是声明式的撇清——"This can't be traced back to me."撇清先于药性说出，罪感已经明牌，而它出自圣职者之口；末句把剂量与致死压进同一句，与本章早前那堂荨麻课（"The heat of cooking undoes the properties that make it sting."）形成正反镜像：一处讲"去性"，一处讲"活性"。作者随即让门铃打断交易——Signora Moretti "wafts in"，同一个 waft 动词从酒气滑到女人身上，日常与罪责在柜台上并排放置；那包东西"sits on the counter like a beacon of guilt"，Carmela 的答案只有一个字："I understand."——她接下了没有授权、也无处交代的差事。
+**为什么这样写：** 全章的铰链块。四句台词里前两句是命令式（Listen / Use），第三句是声明式的撇清——"This can't be traced back to me."撇清先于药性说出，罪感已经明牌，而它出自圣职者之口；末句把剂量与致死压进同一句，与本章早前那堂荨麻课（"The heat of cooking undoes the properties that make it sting."）形成正反镜像：一处讲"去性"，一处讲"活性"。作者随即让门铃打断交易——Signora Moretti "wafts in"，同一个 waft 动词从酒气滑到女人身上，日常与罪责在柜台上并排放置；那包东西"sits on the counter like a beacon of guilt"，Carmela 的答案只有两个词："I understand."——她接下了没有授权、也无处交代的差事。
 
 **读者视角提示：** 闪回紧跟着插入（"There is no world in which Giulia could have discussed anything with this priest"）——"没有哪个世界可能"这一句正是本章信息差的全部：神父口中的"我们谈过的"对 Carmela 是空白，对读者也是空白。
 

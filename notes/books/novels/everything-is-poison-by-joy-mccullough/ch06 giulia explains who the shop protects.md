@@ -10,7 +10,7 @@ source_text: ch06_chapter_6.txt
 
 - **一句话概括**：歇业后的寒夜，Giulia 第一次把药铺的"生意经"完整摊开在 Carmela 面前：付得起钱的常客养着付不起的姑娘，铺子收留的是无处可去的女人——"Giving women a choice over what happens in their bodies."；Carmela 对母亲的恼怒在这场谈话面前消解，以又一句"Yes, Mother."收尾。
 - **情感弧线位置**：冲突后的退潮章——前一章（第 5 章）Carmela 因谎称送 Violetta 回家而面对母亲的训斥，本章从"time has worked the same magic"的降温开始，情绪由烦、到听、到懂，全程没有升温；但它把全书的立场句第一次说白，是低音量的承重章。
-- **人物弧线**：Giulia 从"配药的人"变成"交代使命的人"；她两次说出"If anything should ever happen to me"，第一次被 Carmela 的"It won't."掐断，第二次才说完——原文写明了 Carmela 对这句预警的全部回应只有一句"Yes, Mother."，别的没有。
+- **人物弧线**：Giulia 从"配药的人"变成"交代使命的人"；她两次说出"If anything should ever happen to me"，第一次被 Carmela 的"It won't."掐断，第二次才说完——原文写明了 Carmela 对这句预警的全部回应只有两个短句——"It won’t." 与 "Yes, Mother."。
 - **叙事手法**：单一场景（店上公寓）、一大段对话为主体；母女吵架的起因作者不回叙，只留"the things she wanted to yell"的余温；Maria 本人不在场，却以 Carmela 想象中她的"loudly interjecting"出场——缺席者用声音补位。
 
 ## 精读
@@ -33,7 +33,7 @@ source_text: ch06_chapter_6.txt
 
 **为什么这样写：** Giulia 把药铺的经济结构一口气讲透：富余的散客补贴要命的姑娘，账目透明、不回避、不愧疚。真正的枢纽是 Like I was when Maria took me in——她自曝当年就是"Violetta 那类人"，把自己放回受助者的队列，规则因此不是施舍者的慷慨，而是幸存者的分红。末句反问落在"另一张嘴"上，把收养说成一口饭的账，冷账热肠同在一句里。
 
-**读者视角提示：** "the ones like Violetta"——本章稍后 Carmela 将亲口问出 Violetta 用了药没有；此处 Giulia 把女儿与那个女孩放进同一保护名单，Carmela 自己未必认账。
+**读者视角提示：** "the ones like Violetta"——Carmela 对 Violetta 的牵挂要到下一章开头才落地，而且是心里掂量不是问出口（Why should she care if Violetta took the remedy yet,）；此处 Giulia 把女儿与那个女孩放进同一保护名单，Carmela 自己未必认账。
 
 > **原句 3:** "Carmela can almost hear Maria loudly interjecting how very destitute she was and how young Giulia almost ate her out of hearth and home."
 

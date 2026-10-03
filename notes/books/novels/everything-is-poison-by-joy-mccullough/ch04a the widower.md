@@ -26,7 +26,7 @@ source_text: ch04a_the_widower.txt
 
 **关键词：** There is a man · like Violetta’s father · but not · a cramped apartment · all the way up off Blacksmith’s Alley · but you can walk there from the apothecary
 
-**为什么这样写：**这是全书韵文合唱的一贯开场——**a man like X but not**（与《The Witch》《The Wife》首行同构）。作者连用两个 but not / but you can walk 把"是谁"和"多远"分开：前半句先把读者递到 Violetta 家门口（上一首诗刚写完），后半句又用一句 but not 撤回来——这位鳏夫不是她父亲，只是"能走得到"。断行本身也参与这个"给一半又收一半"的节奏：第三行"but not"独占一行，两字符的短行悬在整首诗最中央，**朗读时会停顿成一次失望**。药铺（the apothecary）作为**地理原点**被点名，这是本书第一次让韵文以药铺为坐标系——合唱不是无人之声，它就站在药铺门口。
+**为什么这样写：**这是全书韵文合唱的一贯开场——**a man like X but not**（与《The Witch》《The Wife》首行同构）。作者连用两个 but not / but you can walk 把"是谁"和"多远"分开：前半句先把读者递到 Violetta 家门口（上一首诗刚写完），后半句又用一句 but not 撤回来——这位鳏夫不是她父亲，只是"能走得到"。断行本身也参与这个"给一半又收一半"的节奏：第三行"but not"独占一行，两个词的短行早早落在开篇，**朗读时会停顿成一次失望**。药铺（the apothecary）作为**地理原点**被点名，这是本书第三首以药铺为坐标系的韵文（《The Witch》已写 some two miles north / of the apothecary，《The Wife》写 a stone’s throw / from the apothecary）——合唱不是无人之声，它就站在药铺门口。
 
 **读者视角提示：**a man / like Violetta's father / but not 是本诗给读者的**唯一坐标**——请别把它误认成 Violetta 家的父亲本人；诗里明确否认了这一等同。
 
@@ -71,7 +71,7 @@ source_text: ch04a_the_widower.txt
 
 **关键词：** Any moment now · she will walk in the door · and laugh at him in her gentle way · that makes him laugh as well · and realize his error · she will soothe the children · wailing in the next room · she will tell him where he left his paring chisel · she will bring him a balm for his wound
 
-**为什么这样写：**这一段是**anaphora**（同一起头连排）用得最狠的一次：Any moment now 连说两遍，中间四行"will do X"把亡妻的归来摊成一张任务清单（walk in the door / laugh / soothe the children / tell him / bring him）。作者刻意把清单**从大的（笑）落到小的（刨刀、药膏）**——越是这种小到不能再小的日常，越说明"这个家本来是靠她的琐碎运转的"。paring chisel（削皮小凿）与 balm for his wound 尤其关键：前者是他做手工的**工具**，后者是他身体上的**疮**——她生前替他**收拾工具**、也替他**上药**，两个具体动作把整段"她刚刚还在"钉死在**手边**。句末 For how else is he to go on? 是全诗唯一的问句，紧接的 Six children will not raise themselves 用一记事实把问句收回。
+**为什么这样写：**这一段是**anaphora**（同一起头连排）用得最狠的一次：Any moment now 连说两遍，中间四行"will do X"把亡妻的归来摊成一张任务清单（walk in the door / laugh / soothe the children / tell him / bring him）。作者刻意把清单**从大的（笑）落到小的（刨刀、药膏）**——越是这种小到不能再小的日常，越说明"这个家本来是靠她的琐碎运转的"。paring chisel（削皮小凿）与 balm for his wound 尤其关键：前者是他做手工的**工具**，后者是他身体上的**疮**——她生前替他**收拾工具**、也替他**上药**，两个具体动作把整段"她刚刚还在"钉死在**手边**。本块收在 she will bring him a balm for his wound.；紧接块后的 For how else is he to go on? 是全诗唯一的问句（全诗仅此一个问号），再下一行 Six children will not raise themselves. 用一记事实把问句收回。
 
 **读者视角提示：**这一段与上一节"neighborhood cat"的**突然**在语速上完全相反——这里全是**慢的、重复的、日常**的将来时；作者用节奏把"哀悼的第二阶段（讨价还价）"演给读者看。
 
@@ -84,7 +84,7 @@ source_text: ch04a_the_widower.txt
 
 **关键词：** He paces the small room · where they used to share a bed · how to take the first step · into the rest of a life without her
 
-**为什么这样写：**全诗收在**一个踱步的男人**身上。前三节里"她"是主语（was baking / leapt / will walk in），到这最后一节主语第一次完全交给"他"——**He paces**。pace（踱步）与第一节里"neighborhood cat"的 pouncing 形成回响：**猫扑向猎物，他扑向下一步**。作者用 take the first step 这个未完成体把整首诗停在**还没迈出去**的那一步上；the rest of a life without her 是全诗最长的一行（11 词），也是唯一一次用 rest 一词的双关（余生／剩余），把"她走了以后剩下的部分"和"接下来的日子"合在同一个词里。used to share a bed（曾经共用一张床）用的是过去式，是全诗里唯一一次时态彻底落在"以前"，与前四节 -ing / will 的未完成形成**收束**。
+**为什么这样写：**全诗收在**一个踱步的男人**身上。前三节里"她"是主语（she was just here / baking bread / she leapt from sick to dead / she will walk in the door），到这最后一节主语第一次完全交给"他"——**He paces**。pace（踱步）与第一节里"neighborhood cat"的 pouncing 形成回响：**猫扑向猎物，他扑向下一步**。作者用 take the first step 这个未完成体把整首诗停在**还没迈出去**的那一步上；the rest of a life without her 只有 8 个词（全诗最长的是 10 词的 she will tell him where he left his paring chisel,），也是唯一一次用 rest 一词的双关（余生／剩余），把"她走了以后剩下的部分"和"接下来的日子"合在同一个词里。where they used to share a bed（曾经共用一张床）用的是过去式，与此前的 she was just here、she leapt from sick to dead 同属"以前"，与前四节 -ing / will 的未完成形成**收束**。
 
 **读者视角提示：**这是本书合唱里第一次让一个男性声音被**观察**而不是**发声**——他从没在诗里开口说过一句；他所有的动作是踱步和琢磨。
 
@@ -101,7 +101,7 @@ source_text: ch04a_the_widower.txt
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | mistaken | 弄错的；被误认的（此处丈夫拒绝接受亡妻已死） | He must be mistaken. |
-| children | 孩子们（本诗里六次的复数） | Six children will not raise themselves. |
+| children | 孩子们（本诗三处复数） | Six children will not raise themselves. |
 | mastering | 掌控；精通（此处指 household 里"当家的"却一事无成） | of mastering anything in this domain. |
 
 ### ⭐ 基础

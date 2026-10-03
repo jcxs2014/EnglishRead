@@ -22,7 +22,7 @@ modified: "2026-10-03"
 
 **为什么这样写：**全章第一句就把"藏"的方法说死了：她不是趁乱溜进来，而是**借一个真实存在的顾客做掩体**。作者选"an ancient woman leaning on a cane"而不是"a customer"，是立刻给这个掩护一个可看见的形状，也让后面 Signora Russo 在店里与 Giulia 谈论病情那一场有了解释。ever vigilant when the door chimes 这一处把女店主的警觉绑定在**声音**上——门铃是全章唯一的听觉信号，后面 Violetta 进门时它会再响一次。
 
-**读者视角提示：**留意叙述层始终用 proprietress / the apothecary / Signora Tofana / Giulia Tofana 这一串称谓在母女之间切换，从不写「妈妈」；Carmela 自己开口时唯一一次用 Mother，是全章最后一行。
+**读者视角提示：**留意叙述层始终用 proprietress / the apothecary / Signora Tofana / Giulia Tofana 这一串称谓在母女之间切换，叙述层从不以「妈妈」作称呼语（提到母亲时仍是 her own mother’s face）；Carmela 自己开口时唯一一次用 Mother，是全章最后一行。
 
 > **原句 2:** "She could locate almost any remedy in a flash. At least the ones that are ready-made, available in the shop front for a hurried customer to grab and go. She has never ventured back behind the counter, to the workshop where Signora Tofana does her real magic. Where she crafts cures specific to the patient and their needs. Where brazen Maria cackles loud enough to be heard out front, and silent Laura moves like a ghost, only occasionally floating past the archway dividing front and back."
 
@@ -50,7 +50,7 @@ modified: "2026-10-03"
 
 **关键词：** There’s a boy · finally says
 
-**为什么这样写：**全章最短的一次对白交锋。作者用 finally（终于）把她前面那段铺垫（"It’s only that my friend Penelope said…"）压成一个词，而前文已经明写 for once the girl drops her voice low enough that Carmela can’t hear——所以 Carmela 其实**没听见问的是什么**，只听见了这句结论。这正是 Giulia 早就知道来意的证据：Signora Tofana waits, though Carmela recognizes the look on her face。
+**为什么这样写：**全章最短的一次对白交锋。作者用 finally（终于）把她前面那段铺垫（"It’s only that my friend Penelope said…"）压成一个词，本章后文才明写 for once the girl drops her voice low enough that Carmela can’t hear，而原文紧接着把这件事判成无用——It doesn’t matter. Carmela knows exactly how Violetta will use it.（听没听见那句盘问，都不影响她已经知道答案）这正是 Giulia 早就知道来意的证据：Signora Tofana waits, though Carmela recognizes the look on her face。
 
 **读者视角提示：**注意这句是本章第一个让 Carmela 失去信息优势的转折点——她在门外听得见，却听不全。
 
@@ -60,7 +60,7 @@ modified: "2026-10-03"
 
 **关键词：** stifles a snort of derision · All the magic Giulia Tofana wields · a love potion
 
-**为什么这样写：**作者用两个问句制造反讽——All the magic… and… a love potion，把母亲店里真正的本事（配方与毒物）与女儿要买的东西放在同一句里对照。stifles a snort of derision 说明这声笑是被压住的：Carmela 不是不在场，而是**在门外看着**，这个笑只能不出声。这一处同时把"毒药铺"与"爱情药剂"两条线并置，是全书主题最早的一次亮相。
+**为什么这样写：**作者用一句反问制造反讽——All the magic… and… a love potion，把母亲店里真正的本事（配方与毒物）与女儿要买的东西放在同一句里对照。stifles a snort of derision 说明这声笑是被压住的：Carmela 不是不在场，而是**在门外看着**，这个笑只能不出声。这一处同时把"毒药铺"与"爱情药剂"两条线并置，是全书主题最早的一次亮相。
 
 **读者视角提示：**All the magic… 里的 magic 是中性词；它既指炼金术，也指杀人的本事。作者没有替读者选边。
 

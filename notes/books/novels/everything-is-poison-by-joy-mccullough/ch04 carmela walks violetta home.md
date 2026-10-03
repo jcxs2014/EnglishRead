@@ -61,7 +61,7 @@ source_text: ch04_chapter_4.txt
 
 **关键词：** you’re going to have one of your own · if we don’t help you · Violetta’s eyes confirm it · can’t stop herself from barreling toward the cliff · at the mercy of the witch
 
-**为什么这样写：**barreling toward the cliff（朝悬崖直冲）是作者替 Carmela 说的**身体判词**——她自己知道这句话会毁掉对面这个人，但她停不下来。这一句里作者把"确认"完全交给 Violetta 的眼神，Carmela 抢在对方开口之前把事实说出，是**用羞辱代替同情**。at the mercy of the witch 一句是本章的核心反转：Violetta 从 ch01 里那个"要把 Signora Tofana 扔到火刑柱上"的漂亮女孩，变成今天站在药铺里、除了女巫无路可走的未婚孕妇；而 Carmela 偏偏要在这一刻把她的处境说出来。这一句问完，下一句就"Answer me, or I'll turn you into a toad!"——作者让 Carmela 用戏仿的方式把女巫的**语言外壳**穿到自己身上，紧接着让 Giulia 用一句玩笑把这份外壳夺回去。
+**为什么这样写：**barreling toward the cliff（朝悬崖直冲）是作者替 Carmela 说的**身体判词**——她自己知道这句话会毁掉对面这个人，但她停不下来。这一句里作者把"确认"完全交给 Violetta 的眼神，Carmela 抢在对方开口之前把事实说出，是**用羞辱代替同情**。at the mercy of the witch 一句是本章的核心反转：Violetta 从 ch01 里那个把爱情药剂当寻常货来买的漂亮女孩，变成今天站在药铺里、除了女巫无路可走的未婚孕妇——本章叙述层还补了一笔：她对自己那个母亲 "would happily throw to the flames when it suited her"，如今却得来求 Giulia；而 Carmela 偏偏要在这一刻把她的处境说出来。这一句问完，下一句就"Answer me, or I'll turn you into a toad!"——作者让 Carmela 用戏仿的方式把女巫的**语言外壳**穿到自己身上，紧接着让 Giulia 用一句玩笑把这份外壳夺回去。
 
 **读者视角提示：**这段是全书对"witch"这一称呼的**第一次内部争夺**——Violetta 骂过它，Carmela 此刻借它，Giulia 立刻把它化成一个笑话；三个人都在同一个词上做文章。
 

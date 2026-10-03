@@ -40,7 +40,7 @@ source_text: ch09a_the_miller_s_daughter.txt
 
 **为什么这样写：**这是全诗第一次出现**裸引**——面包师的话没有引号、没有"他问道"，直接嵌在叙述行里，与旁白几乎分不清，这种"说话人与叙述人粘连"正是它的效果：他的试探听起来像客观事实。问题本身"Are you the lady of the house?" 是一记精准的捧杀——把一个满身面粉、替父亲干活的姑娘，抬成"当家女主人"。随后 "In jest, but not." 三行式收束：先用"light, precise"给语气定性（轻，却字字称过分量），末行把"玩笑"与"并非玩笑"并置，与开篇 "like Maria / but not" 呼应——作者用同一个 "but not" 结构，前后各拆穿一次表面的善意。
 
-**读者视角提示：**"lady of the house" 的恭维随即被父亲的动作戳破——"The girl’s father snorts. / Call your brothers / to help load the cart."：他根本不把女儿的话当话。
+**读者视角提示：**"lady of the house" 的恭维随即被父亲的动作戳破——"The girl’s father snorts. / Call your brothers / to help load the cart."：他用一声哼把这句恭维挡了回去，随即支开女儿去搬货——此处姑娘还没有一句台词。
 
 > **原句 3:** "She hefts the largest bag over one shoulder.
 > I would be much obliged
@@ -65,7 +65,7 @@ source_text: ch09a_the_miller_s_daughter.txt
 
 **关键词：** When a customer comments · on his pretty young wife · the baker winks at her · plays along
 
-**为什么这样写：**四行讲成一件事的三层：顾客先误认（"his pretty young wife"，把他俩当作新婚夫妻），面包师不否认，反而"winks at her"（眨眼）——这个 wink 是发给姑娘的密语，也是把她套进"妻子"角色里的邀请；末两行 "and plays along." 单独成行，用断行把这"顺水推舟"钉成一个决定。全篇对面包师最露骨的刻画就在这个动作里：他没有撒谎，他只是**不纠正**——一种被动却受用的越界。紧接其后 "No reason / to contradict / a customer."（没有理由去反驳一位顾客）三行短句把这套逻辑写成生意经，读者的不适正来自它被讲得如此理所当然。
+**为什么这样写：**四行讲成一件事的三层：顾客先误认（"his pretty young wife"，把他俩当作新婚夫妻），面包师不否认，反而"winks at her"（眨眼）——这个 wink 是发给姑娘的密语，也是把她套进"妻子"角色里的邀请；末行 "and plays along." 单独成行，用断行把这"顺水推舟"钉成一个决定。全篇对面包师最露骨的刻画就在这个动作里：他没有撒谎，他只是**不纠正**——一种被动却受用的越界。紧接其后 "No reason / to contradict / a customer."（没有理由去反驳一位顾客）三行短句把这套逻辑写成生意经，读者的不适正来自它被讲得如此理所当然。
 
 **读者视角提示：**"plays along / no reason to contradict"是全书"体面的恶"的雏形——与第 9 章里"从不带感情也不带恶意被提起"的那位丈夫，是同一种不动声色的掌控。此处只作语气对照，不断言同一人。
 
@@ -79,7 +79,7 @@ source_text: ch09a_the_miller_s_daughter.txt
 
 **关键词：** she never realized how much more enjoyable · no one is berating her, belittling her · It will be at least a month · before the baker calls her · an ignorant cunt
 
-**为什么这样写：**结尾六行完成全诗的**时态落差**：前两句仍是现在时，演她此刻的醒悟——"berating her, belittling her" 两个 -ing 动词连排，把她平日里被骂、被贬的日常一笔勾出，而她竟觉得这天的活"more enjoyable"，只因暂时没人骂她。然后 "It will be at least a month" 猛地切入将来时，把叙述拽向尚未发生的那天。最狠的是最后两个断行——"before the baker calls her" 单独一行，制造一个"叫他会对她说什么"的悬停；末行 "an ignorant cunt." 让那句最脏的话**独占一行、单独落地**。骂人的词与"the baker"（前面那个眉眼含情、客客气气的面包师）同框，全诗所有的"light, precise"就此翻面。这是本书题材里"施暴常始于体面"的一次韵文陈述。
+**为什么这样写：**本块五行完成全诗的**时态落差**：先是日常的当下——"it is to work hard when no one is berating her, belittling her" 两个 -ing 动词连排，把她平日里被骂、被贬的日常一笔勾出，而她竟觉得这天的活"more enjoyable"，只因暂时没人骂她。然后 "It will be at least a month" 猛地切入将来时，把叙述拽向尚未发生的那天。最狠的是最后两个断行——"before the baker calls her" 单独一行，制造一个"叫他会对她说什么"的悬停；末行 "an ignorant cunt." 让那句最脏的话**独占一行、单独落地**。骂人的词与"the baker"（前面那个眉眼含情、客客气气的面包师）同框，全诗所有的"light, precise"就此翻面。这是本书题材里"施暴常始于体面"的一次韵文陈述。
 
 **读者视角提示：**姑娘的"never realized"与读者的"已经看穿"形成错位——她在结尾的甜里，我们已在为那"至少一个月"后的话发凉。这一记预告式收尾，和第 9 章把 Maria 的丈夫"什么也不说"的写法，是同一把刀的两面。
 

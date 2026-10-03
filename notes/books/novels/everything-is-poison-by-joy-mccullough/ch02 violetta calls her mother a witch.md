@@ -25,7 +25,7 @@ source_text: ch02_chapter_2.txt
 
 **为什么这样写：**开篇先给时间（"some three months later"）再给否定：hope 不是被赐予的——"It does not come because her mother" 起句即把 "the proprietress" 的慈悲设想整个否定掉，是 Carmela 自己一寸寸挣来的。"benevolence"（慈悲、善心）在此作反语——上一章刚写过她被逐回家，「发善心授艺」根本没发生过。叙述层继续称母女为 "proprietress" 与 "her mother"，职业称谓隔在中间，母女关系先写成东主与候补学徒。
 
-**读者视角提示：**第一句的主干被拆开——"The next time" 与 "comes some three months later" 之间隔着四十多个字符的修饰——叙述句自己也在「等待」，与全章的时间跨度同构。
+**读者视角提示：**第一句的主干被拆开——"The next time" 与 "comes some three months later" 之间隔着七十多个字符的修饰——叙述句自己也在「等待」，与全章的时间跨度同构。
 
 > **原句 2:** "No, it comes because once, years ago, when Carmela was ten or eleven, pleading to know when she would be allowed to learn all the apothecary’s secrets, when she would inherit her mother’s legacy, when she would become an apothecary herself, her mother had said, “When you are grown,” and Carmela hadn’t let that lie. Carmela stuck her finger in that hole and wiggled, endlessly, until her mother finally answered with specifics: “Sixteen. When you are sixteen. Until then, if I hear another word about it, I’ll ship you off to a convent.”"
 
@@ -73,7 +73,7 @@ source_text: ch02_chapter_2.txt
 
 **关键词：** she repeated, louder this time · looked over in alarm · turn you into a toad
 
-**为什么这样写：**全章最后一句是把前文说过的话再说一遍——"Carmela’s mother is a witch." 首次出现是私下告诉 Nina，这一次 "she repeated, louder this time"，童谣式的变身诅咒（"turn you into a toad"）借童话语法说出，围观大人的 alarm 却把它接进了现实。儿童的指控与成人世界的恐惧在一句喊话里短路接通，本章就此截止，不写任何一个孩子的反应。
+**为什么这样写：**全章最后一句是把前文说过的话再说一遍——"Carmela’s mother is a witch." 首次是对 Nina 说、却当着所有孩子（and all the other children hung on her every word），这一次 "she repeated, louder this time"，童谣式的变身诅咒（"turn you into a toad"）借童话语法说出，围观大人的 alarm 却把它接进了现实。儿童的指控与成人世界的恐惧在一句喊话里短路接通，本章就此截止，不写任何一个孩子的反应。
 
 **读者视角提示：**紧接其后的第 2a 章韵文插叙以 "like Carmela’s mother" 开头、又以 "but not" 撇清——指控和刑场被并置在同一组页里，而文本始终拒绝把两者等同。
 

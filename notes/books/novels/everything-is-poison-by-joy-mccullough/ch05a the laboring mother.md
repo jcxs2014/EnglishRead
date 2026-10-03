@@ -8,7 +8,7 @@ source_text: ch05a_the_laboring_mother.txt
 
 ## 本章导航
 
-- **一句话概括**：一位挺着大肚子的妇人，黎明时分被 Santissima Trinità 的钟声叫醒，肚子里的婴儿把脚顶在子宫壁上、脚趾都数得清；她已经历过两次——头一胎出来时又冷又蓝，第二胎一开始连她自己都不信、后来只能向助产的圣 Margherita 祈祷，孩子 STILL 静地来了；第三个只活了三个小时；现在她又站在这道关口，既想抱住这个孩子，又想把它永远留在腹中。
+- **一句话概括**：一位挺着大肚子的妇人，被 Santissima Trinità 的钟声叫醒（who wakes to the bells，全诗未写时刻），肚子里的婴儿把脚顶在子宫壁上、脚趾都数得清；她已经历过两次——头一胎出来时又冷又蓝，第二胎一开始连她自己都不信、后来只能向助产的圣 Margherita 祈祷，孩子 STILL 静地来了；第三个只活了三个小时；现在她又站在这道关口，既想抱住这个孩子，又想把它永远留在腹中。
 - **情感弧线位置**：紧接 ch05 里 Maria 一边收产婆皮囊、一边说 Signora Valenti 已见红之后。ch05 只留下"Maria 要去接生"这一动作，这一首诗补上被接生者的**内景**；它与 ch04a 一对：《The Widower》写**已经失去**的人如何踱步，《The Laboring Mother》写**尚未得到**的人如何守门。
 - **人物弧线**：全诗不给这位母亲命名——她是"like Signora Valenti / but not"，与药铺的地理关系（a few minutes east of the apothecary / just past Via del Corso）先于她的姓氏、身份、丈夫；她是本书合唱里的"某一类妇人"，不是某一个妇人；圣 Margherita 是全诗里唯一一位**曾经跨过这道门的女性**，她的 dragon 故事给了这位无名母亲一个失败了的守护神。
 - **叙事手法**：自由体无韵诗；每行一句、行间留空；三段时间（The first time / The second time / Now she is here again）用**序数短语独立成行**（第 20、27、55 行），像三次产程的三声钟响；一记圣徒传（Margherita 用 crucifix 破 dragon 之腹）嵌在诗正中，成为本诗唯一的**神话对照**；结尾停在 keep it / safe inside forever——一记与"生产"完全相反的愿望。
@@ -65,7 +65,7 @@ source_text: ch05a_the_laboring_mother.txt
 
 **为什么这样写：**The first time 独占一行（第 20 行），三词短语像产房墙上的一次刻痕——作者用**序数短语独立成行**的写法，把整首诗切成三段产程（The first time / The second time / Now she is here again）。第一段的语法结构是**递进**（not only to count / but touch, kiss, watch them wiggle）——三个动词连排，从"看见"到"触碰"到"注视它动"；watch them wiggle 里的 them 是全诗唯一一次让胎儿先以复数人称出现（数脚趾 → 摸脚趾 → 亲脚趾 → 看脚趾动）。第三段的 ached to hold 是身体性动词（ache 疼），紧接一句 never imagined a world 把她的世界**从内部劈开**——作者用**未想象到的世界**这个说法，而不是"未想到孩子会死"，把丧婴写成**宇宙论层面的一次改宗**。emerge cold and blue 是全诗最冷的两形容词，与前一行 longed for the baby to emerge 里的 emerge 复用——**同一个 emerge，出来的时候却是冷的、青紫的**。
 
-**读者视角提示：**请留意作者没写"她失去了孩子"——她只写了 emerge cold and blue，冷与青紫是**身体**层，不是**判决**层；这首诗里所有的死亡都靠**颜色与温度**说事。
+**读者视角提示：**请留意作者没写"她失去了孩子"——她只写了 emerge cold and blue，冷与青紫是**身体**层，不是**判决**层；这首诗里头一胎的死亡靠**颜色与温度**说事，第三胎只报一段时长（The third baby lived / for three hours.）。
 
 > **原句 4:** "When the pains began
 > she called upon Santa Margherita
@@ -79,7 +79,7 @@ source_text: ch05a_the_laboring_mother.txt
 
 **关键词：** When the pains began · she called upon Santa Margherita · patron saint of labor and childbirth · Margherita was a virgin, but she knew physical trial · When devoured by a dragon · piercing the dragon’s insides · with her crucifix · emerging the bloody victor
 
-**为什么这样写：**这一段是全诗唯一的**圣徒传**（hagiography）插叙——作者用了整整七行讲 Margherita 如何从一条龙腹里破出来。核心对照在 piercing the dragon's insides / emerging the bloody victor 一句：**Margherita 从龙腹里破出来、活着、带血**——正是这位母亲希望从自己腹里破出来的那个孩子能做到的事。emerging 一词与上一段 longed for the baby to emerge / where that child would emerge 连成第三次**同词复现**：每一次 emerge 都在赌一次生死。virgin 与 physical trial 一句里的 but 是神学层的翻转：**童贞**并不豁免**肉身的苦**——作者替这位母亲挑守护圣徒时，选了"生过孩子却没有经过产道"的那一位；**她需要一个不可能的奇迹**。patron saint of labor and childbirth 是本诗唯一一句**教科书式**的定义句，作者用整段最平的一句话把神话层与肉身层钉在一起。
+**为什么这样写：**这一段是全诗唯一的**圣徒传**（hagiography）插叙——作者用了整整七行讲 Margherita 如何从一条龙腹里破出来。核心对照在 piercing the dragon's insides / emerging the bloody victor 一句：**Margherita 从龙腹里破出来、活着、带血**——正是这位母亲希望从自己腹里破出来的那个孩子能做到的事。emerging 一词与上一段 longed for the baby to emerge / where that child would emerge 连成第三次**同词复现**：每一次 emerge 都在赌一次生死。virgin 与 physical trial 一句里的 but 是神学层的翻转：**童贞**并不豁免**肉身的苦**——作者替这位母亲挑守护圣徒时，选的是童贞之身却识得肉身之苦的那一位（Margherita was a virgin, but she knew physical trial.）；**她需要一个不可能的奇迹**。patron saint of labor and childbirth 是本诗唯一一句**教科书式**的定义句，作者用整段最平的一句话把神话层与肉身层钉在一起。
 
 **读者视角提示：**下一段（The second time 之后）会紧接着写下一行的 discarded the amulet of Margherita（主语是上一行的 this perpetually heartbroken mother）——这一段的神圣感是**给下一次背弃做的准备**，请别把它当作诗的最终结论。
 

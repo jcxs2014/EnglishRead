@@ -23,7 +23,7 @@ source_text: ch09_chapter_9.txt
 
 **为什么这样写：**本章第一句就承接上一章的悬念：Carmela 替 Signora Moretti 配药一事，在药铺里已成了一桩待罪的事。"braces for" 是身体先于判断的动作——她还不知道会挨什么，肌肉已经先绷紧了。"punishment or shame" 用选择句把两种后果并置，却承认她连该怕哪一种都分不清，这比单纯怕挨打更能说明她处境的不确定。末句 "She did nothing but try to provide the requested remedy" 是她无声的辩白：从她的立场，照方配药天经地义；可从母亲的立场，这恰恰是僭越。这个"她自问没错、却已被定罪"的错位，是全章她继续"在场却不被计入"的心理底色。
 
-**读者视角提示：**Maria 一整段都没开口——她的" displeasure radiating off Maria has been impossible to ignore" 全靠 Carmela 的转述。留意本章的张力很多来自"没人说破"，说破要等到 Laura 空手而归把话题岔开。
+**读者视角提示：**Maria 本章开头一句没说——她的不满由叙述层说出（The displeasure radiating off Maria has been impossible to ignore），而她自己在紧接的下一段只问了一句 "How’s the baby?"留意本章的张力很多来自"没人说破"，说破要等到 Laura 空手而归把话题岔开。
 
 > **原句 2:** "When the shop bell rings and Laura steps in, there is no hiding the fact that they’ve been speaking about her. But Laura isn’t flushed this time—at least not with happiness. She is pale, and agitated fingers worry at the handle of her empty basket."
 
@@ -51,9 +51,9 @@ source_text: ch09_chapter_9.txt
 
 **关键词：** Carmela picks it up and studies it · Twelve hundred men killed by a single woman · She shivers · got access to the ingredients in the apothecary · take out half of Campo Marzio
 
-**为什么这样写：**这一段插在大人的两段话之间——Giulia 刚把传单甩到柜台上（"Giulia tosses the leaflet onto the counter"），下一段她自己先笑出声来（"Giulia is laughing. Actually laughing, joined by Maria."），把传单上的数字当算术题算（"That’s what…four a week?"，随后另起一段的 "They’d burn all the women as witches before the first month was up!" 原文没有标说话人）；作者偏偏在这中间切给 Carmela 一个私人的反应。"Twelve hundred men killed by a single woman" 是把她刚读到的话在脑中重述一遍，短句、无动词铺陈，像一声心跳。"She shivers" 是全章她唯一一次身体先于语言的反应，与母亲和 Maria 的"laughing"形成对照——众人当荒诞，她感到的是**可能**。关键的落点在 "if someone like that ever got access to the ingredients in the apothecary"：她想的是自家药铺的原料库，也就是她伸手可得的东西。这一念紧接着就被下一段坐实——"Carmela’s mind glances off the package still in the pocket of her cloak."（她的思绪掠过斗篷口袋里那只包）。作者让读者先于角色之外的任何人，意识到她身上正带着一个来路不明的纸包。
+**为什么这样写：**这一段插在大人的两段话之间——Giulia 刚把传单甩到柜台上（"Giulia tosses the leaflet onto the counter"），两段之后她自己先笑出声来（"Giulia is laughing. Actually laughing, joined by Maria."），把传单上的数字当算术题算（"That’s what…four a week?"，随后另起一段的 "They’d burn all the women as witches before the first month was up!" 原文没有标说话人）；作者偏偏在这中间切给 Carmela 一个私人的反应。"Twelve hundred men killed by a single woman" 是把她刚读到的话在脑中重述一遍，短句、无动词铺陈，像一声心跳。"She shivers" 是全章她唯一一次身体先于语言的反应，与母亲和 Maria 的"laughing"形成对照——众人当荒诞，她感到的是**可能**。关键的落点在 "if someone like that ever got access to the ingredients in the apothecary"：她想的是自家药铺的原料库，也就是她伸手可得的东西。这一念紧接着就被下一段坐实——"Carmela’s mind glances off the package still in the pocket of her cloak."（她的思绪掠过斗篷口袋里那只包）。作者让读者先于角色之外的任何人，意识到她身上正带着一个来路不明的纸包。
 
-**读者视角提示：**"take out half of Campo Marzio" 是想象，不是计划——留意作者把这条悬念挂在 Carmela 一人身上：药铺里其他三人都把传说一笑置之，唯独她把它和"我们的原料""我口袋里那只包"接上了线。这个连接下一章会被 Giulia 撞破。
+**读者视角提示：**"take out half of Campo Marzio" 是想象，不是计划——留意作者把这条悬念挂在 Carmela 一人身上：药铺里 Giulia 与 Maria 把传说当笑话算，Laura 没笑却点了头（Laura isn’t laughing, but she nods.），唯独 Carmela 把它和"我们的原料""我口袋里那只包"接上了线。这个连接下一章会被 Giulia 撞破。
 
 > **原句 5:** "“But men like Benicio,” Giulia goes on, “they have their own little dominion. Even if it’s over one powerless woman. If they’re to believe a woman could simply slip something into their drink and get away with it unpunished? Their very foundation crumbles.”"
 
@@ -61,7 +61,7 @@ source_text: ch09_chapter_9.txt
 
 **关键词：** men like Benicio · their own little dominion · over one powerless woman · slip something into their drink · get away with it unpunished · Their very foundation crumbles
 
-**为什么这样写：**这是全章的思想核心，也是 Giulia 唯一一次把她的世界观直接讲给女儿听。她先降格："their own little dominion"——本尼西奥不过一个种曼德拉草的园丁，他的"领地"小得可笑；再补一刀 "Even if it’s over one powerless woman"，点破这权力的全部对象就是 Laura 一人。然后她用一个反事实的条件句（If they’re to believe…）把传说的荒诞翻译成心理的真实：让男人睡不着的，不是那个洗衣妇是不是真杀了一千二百人，而是"女人或许能无声下毒、还全身而退"这个**可能性本身**。"Their very foundation crumbles" 一句极重——把"男人的秩序"说成有地基的建筑，而传闻能摇动地基。作者让读者在这一刻意识到：药铺里的女人早就看穿了传单的机制，她们不笑传说有多假，笑的是数字太荒唐。
+**为什么这样写：**这是全章的思想核心，也是 Giulia 把世界观直接讲给女儿听的最后一段、最长一段（此前已有 "Just because we see it for what it is doesn’t mean your average citizen will."）。她先降格："their own little dominion"——本尼西奥不过一个种曼德拉草的园丁，他的"领地"小得可笑；再补一刀 "Even if it’s over one powerless woman"，点破这权力的全部对象就是 Laura 一人。然后她用一个反事实的条件句（If they’re to believe…）把传说的荒诞翻译成心理的真实：让男人睡不着的，不是那个洗衣妇是不是真杀了一千二百人，而是"女人或许能无声下毒、还全身而退"这个**可能性本身**。"Their very foundation crumbles" 一句极重——把"男人的秩序"说成有地基的建筑，而传闻能摇动地基。作者让读者在这一刻意识到：药铺里的女人早就看穿了传单的机制，她们不笑传说有多假，笑的是数字太荒唐。
 
 **读者视角提示：**"Even if it’s over one powerless woman" 把 Laura 的位置点得很准——她和本尼西奥"aren’t married or even betrothed, but still he has power over her"（下一段原话）。这句 Giulia 的判断，是理解她日后为何要制毒的一把钥匙，请留意她谈的是"结构"，不是"对错"。
 

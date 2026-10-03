@@ -1,0 +1,12 @@
+### check_struct_indep
+=== 独立结构扫描：66 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+### check_analysis_indep
+抽出分析层英文片段 2263 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）1 条 —— 只报不判红，须人判：
+  ch05a the laboring mother.md:34  There is a woman like X but not
+⚪ 术语豁免 2 条（内容词全在元语言表内，非引文）：
+  ch06 giulia explains who the shop protects.md:44  free indirect discourse
+  ch26a the brokenhearted.md:32  anaphora of prepositions
+### check_xref_indep
+=== chNN 引用 158 处：英文证据报警 0 处 ／ 中文式待人判 133 处 ===
