@@ -101,6 +101,8 @@ YUAN_RE = re.compile(
 PLACE_RE = re.compile(r'^###\s+第(\d+)处[^「]*「([^」]+)」')
 
 ROMAN_RE = re.compile(r'^>\s*(.+)$')  # 言情无编号 blockquote（引号行或裸叙述行；Up in Molten Lights 实证 0/0 盲区）
+# Pattern: N. > "引语" (非虚构格式：编号 + blockquote 前缀 + 引号包裹)
+NUMBERED_BLOCK_RE = re.compile(r'^\d+\.\s*>\s*["\'](.+?)["\']\s*$')
 
 def extract_quotes(txt):
     """Return (quotes, short_count)."""
@@ -119,15 +121,20 @@ def extract_quotes(txt):
             if m:
                 b = m.group(2)
             else:
-                # Pattern 4: 言情无编号 blockquote（2026-09-06 增补）
-                m = ROMAN_RE.match(s)
+                # Pattern 5: N. > "引语" (非虚构格式，2026-10-03 增补)
+                m = NUMBERED_BLOCK_RE.match(s)
                 if m:
                     b = m.group(1)
-                    # 引号行：剥掉引号外的叙述标签 `"..." he said.`
-                    if b.lstrip().startswith(('"', '\u201c')) and not b.rstrip().endswith(('"', '\u201d', "'", '\u2019')):
-                        m2 = re.match(r'^["\u201c](.*?)[\u201d"]\s*(?:[A-Za-z].{0,60})?$', b)
-                        if m2:
-                            b = m2.group(1)
+                else:
+                    # Pattern 4: 言情无编号 blockquote（2026-09-06 增补）
+                    m = ROMAN_RE.match(s)
+                    if m:
+                        b = m.group(1)
+                        # 引号行：剥掉引号外的叙述标签 `"..." he said.`
+                        if b.lstrip().startswith(('"', '\u201c')) and not b.rstrip().endswith(('"', '\u201d', "'", '\u2019')):
+                            m2 = re.match(r'^["\u201c](.*?)[\u201d"]\s*(?:[A-Za-z].{0,60})?$', b)
+                            if m2:
+                                b = m2.group(1)
         if b is None:
             # Pattern 3: ### 第N处：…「引语」
             pm = PLACE_RE.match(s)
