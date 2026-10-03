@@ -1,0 +1,18 @@
+参照集：22 章（键形 chNN）｜待核 15 条
+🔶 每词都在但整串不连续（改写/拼接） chch03: gripping the spear tightly
+🔶 每词都在但整串不连续（改写/拼接） chch03: she would call for a blood duel
+🔶 每词都在但整串不连续（改写/拼接） chch04: she was a common dust sparrow surrounded by elegant peafowl
+🔶 每词都在但整串不连续（改写/拼接） chch05: was not be slammed in my face
+🔶 每词都在但整串不连续（改写/拼接） chch05: would have to meet the queen
+🔶 每词都在但整串不连续（改写/拼接） chch08: of the Deathless queen’s assassin
+🔶 每词都在但整串不连续（改写/拼接） chch11: she took me under her wing and mentored me because I had no one else
+🔶 每词都在但整串不连续（改写/拼接） chch11: I understand what he sees
+❌ 本章真查无 chch12: the small portion of that life  缺词=['portion']
+🔶 每词都在但整串不连续（改写/拼接） chch13: we'll find it if it is possible
+❌ 本章真查无 chch18: Meeka wanted to save you  缺词=['wanted']
+🔶 每词都在但整串不连续（改写/拼接） chch20: would not be standing here
+🔶 每词都在但整串不连续（改写/拼接） chch20: doesn't care about morality
+🔶 每词都在但整串不连续（改写/拼接） chch20: I'm absolutely not worthy
+❌ 本章真查无 chch22: She released it into the sky  缺词=['released']
+
+=== d 步分析层复核：需人判 15/15 条 ===

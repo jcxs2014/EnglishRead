@@ -1,0 +1,32 @@
+参照集：22 章（与 text/ 件数一致）
+   ⚠️ 他章命中 | 00_概述.md → ch09 | Shifting Dunes
+   ✅ | 00_金句精选.md → ch10 | My life is not important"——
+   ✅ | 00_金句精选.md → ch19 | Then I will look for you in my next life"——
+   ❌ 全书查无 | 00_金句精选.md → ch16 | One should always try to avoid fights. But… that does not mean w
+   ❌ 全书查无 | 00_金句精选.md → ch11 | killing rib
+   ✅ | 00_金句精选.md → ch15 | You are my mission now"
+   ✅ | 00_金句精选.md → ch19 | Then I will look for you in my next life"
+   ✅ | 00_金句精选.md → ch01 | So how are we any different
+   ✅ | ch03 three.md → ch01 | It's what I do with the time before my thread is cut that matter
+   ✅ | ch05 five.md → ch01 | supposed I would have to meet Raithe’s queen to discover if I wa
+   ✅ | ch07 seven.md → ch06 | do not trust any kahjai with your heart
+   ✅ | ch08 eight.md → ch06 | I saw his future
+   ⚠️ 他章命中 | ch10 ten.md → ch06 | my only duty
+   ✅ | ch10 ten.md → ch06 | I saw his future
+   ✅ | ch11 eleven.md → ch06 | little Sparrow
+   ✅ | ch11 eleven.md → ch06 | He cares for you, which is why I have agreed to send him along"
+   ❌ 全书查无 | ch12 twelve.md → ch03 | the small portion of that life
+   ✅ | ch12 twelve.md → ch06 | the kahjai are bringers of death"
+   ✅ | ch13 thirteen.md → ch01 | So how are we any different
+   ⚠️ 他章命中 | ch14 fourteen.md → ch06 | I am Sahmessyia"
+   ✅ | ch15 fifteen.md → ch06 | the kahjai are bringers of death
+   ✅ | ch15 fifteen.md → ch06 | I will send one soul with you"
+   ✅ | ch15 fifteen.md → ch13 | Ssssparrrrrow"
+   ✅ | ch17 seventeen.md → ch04 | a common dust sparrow surrounded by elegant peafowl
+   ⚠️ 他章命中 | ch19 nineteen.md → ch12 | snuff out my life in a heartbeat
+   ✅ | ch19 nineteen.md → ch18 | in that one instant before I was killed"
+   ✅ | ch19 nineteen.md → ch08 | there's a reason my people never returned to this place"
+   ⚠️ 他章命中 | ch22 twenty two.md → ch16 | It will destroy you in the end"
+   ❌ 全书查无 | ch22 twenty two.md → ch02 | Hello, Fateless… Welcome to my labyrinth"
+
+=== 跨章引用回查：✅ 20 · ⚠️ 错章 5 · ❌ 查无 4 ===

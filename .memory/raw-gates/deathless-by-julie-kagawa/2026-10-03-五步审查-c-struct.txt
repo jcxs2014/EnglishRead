@@ -1,0 +1,27 @@
+### audit_structure
+=== 精读结构扫描（deathless-by-julie-kagawa）===
+  扫 25 个 md、167 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+### check_struct_indep（第二实现）
+  ❌ ch13 thirteen.md: [summary] 引语编号不连续：[1, 2, 3, 4, 5, 6, 8]
+=== 独立结构扫描：22 个 md，缺陷 1 处 ===
+
+### check_quote_blocks
+=== 引语块结构对账（deathless-by-julie-kagawa）===
+  带前缀的 `> **原句 N:**` 行：22 个文件共 165 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+### check_overview_full
+  参照集：text/ 逐章（22 章） ｜ 总览文件 3 个
+  A 整串：命中 44 ｜ 🔶 拼接 11 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 5
+  B 章节标签：对 5 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 39 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 1
+  C 跨章多重命中：1 ｜ E H1 语义错配：0
+  ⚠️ 00_情感节点.md:22  跨标签拼接：“And you killed me,” Vahn returned. … “So how are 
+
+### H1 语义
+notes/books/novels/deathless-by-julie-kagawa/00_情感节点.md:# Deathless by Julie Kagawa — 情感节点（10 个）
+notes/books/novels/deathless-by-julie-kagawa/00_概述.md:# Deathless by Julie Kagawa — 概述
+notes/books/novels/deathless-by-julie-kagawa/00_金句精选.md:# Deathless by Julie Kagawa — 金句精选（25 条）

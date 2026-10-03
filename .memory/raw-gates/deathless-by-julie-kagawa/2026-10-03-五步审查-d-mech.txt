@@ -1,0 +1,25 @@
+### check_xref_indep
+=== chNN 引用 89 处：英文证据报警 0 处 ／ 中文式待人判 86 处 ===
+
+### check_analysis_indep
+  ch11 eleven.md:73  I understand what he sees
+  ch12 twelve.md:55  the small portion of that life
+  ch13 thirteen.md:75  we'll find it if it is possible
+  ch18 eighteen.md:23  Meeka wanted to save you
+  ch20 twenty.md:23  would not be standing here
+  ch20 twenty.md:43  doesn't care about morality
+  ch20 twenty.md:75  I'm absolutely not worthy
+  ch22 twenty two.md:73  She released it into the sky
+
+### check_anchor
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（22 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+### audit_numbers
+  ⚪ 00_概述.md:13  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_概述.md:22  「五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch21 twenty one.md:10  「五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch21 twenty one.md:33  「十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch21 twenty one.md:116  「五岁」年龄/百分比类，文本层推不出真值，只列出待人核

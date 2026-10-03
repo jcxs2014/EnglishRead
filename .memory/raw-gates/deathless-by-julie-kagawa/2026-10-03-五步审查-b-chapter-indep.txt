@@ -1,0 +1,24 @@
+✅ ch01 ch01 one.md: 8/8 in ch01 text
+✅ ch02 ch02 two.md: 8/8 in ch02 text
+✅ ch03 ch03 three.md: 8/8 in ch03 text
+✅ ch04 ch04 four.md: 8/8 in ch04 text
+✅ ch05 ch05 five.md: 8/8 in ch05 text
+✅ ch06 ch06 six.md: 8/8 in ch06 text
+✅ ch07 ch07 seven.md: 8/8 in ch07 text
+✅ ch08 ch08 eight.md: 8/8 in ch08 text
+✅ ch09 ch09 nine.md: 8/8 in ch09 text
+✅ ch10 ch10 ten.md: 8/8 in ch10 text
+✅ ch11 ch11 eleven.md: 8/8 in ch11 text
+✅ ch12 ch12 twelve.md: 8/8 in ch12 text
+✅ ch13 ch13 thirteen.md: 7/7 in ch13 text
+✅ ch14 ch14 fourteen.md: 6/6 in ch14 text
+✅ ch15 ch15 fifteen.md: 6/6 in ch15 text
+✅ ch16 ch16 sixteen.md: 7/7 in ch16 text
+✅ ch17 ch17 seventeen.md: 7/7 in ch17 text
+✅ ch18 ch18 eighteen.md: 7/7 in ch18 text
+✅ ch19 ch19 nineteen.md: 7/7 in ch19 text
+✅ ch20 ch20 twenty.md: 7/7 in ch20 text
+✅ ch21 ch21 twenty one.md: 7/7 in ch21 text
+✅ ch22 ch22 twenty two.md: 8/8 in ch22 text
+
+=== b 步逐章归属（独立实现）：0 章有跨章/失配 ===

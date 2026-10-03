@@ -1,0 +1,25 @@
+### verify_quotes --full
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 158/158 引文可核实（100%）；完全干净文件 22/22；正文章节 0 提取 0；总览 0 提取转交 2；--full 整串取证 0 ===
+
+### check_vocab
+词条行合计: 320
+
+--- FAIL (0) ---
+
+--- WARN (0) ---
+
+### check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+### corruption_scan
+=== 编辑损坏扫描（deathless-by-julie-kagawa）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+### sweep_full
+  参照集：text/ 逐章（22 章，可定章） + epub 交叉验证
+  ✅ 本章命中 158 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 7 条归 check_short_quotes；无章可对 0 条未判）
