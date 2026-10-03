@@ -91,7 +91,7 @@ modified: "2026-10-03"
 
 **关键词：** This is not the end · line of dreaming women · There is where I will be
 
-**为什么这样写：** ★ 全书的闭环在此合拢：她引用母亲（ch19）那句"a line of dreaming women"，把它从抱怨改成定义；然后把"死"翻译成一个地理坐标——第八章那块 Apata Ayeraye（永恒之石）就立在几条路的交汇处。"There is where I will be" 用最短的句子说完了"我会被记住"，也呼应行 59 那句被磨穿的保证：世界会把你交还给一块石头。
+**为什么这样写：** ★ 全书的闭环在此合拢：她引用母亲（ch19）那句"a line of women that dream"——原文是"我们是一条会做梦的女人组成的血脉"，到这里被她改写成定义式的"a line of dreaming women"；然后把"死"翻译成一个地理坐标——第八章那块 Apata Ayeraye（永恒之石）就立在几条路的交汇处。"There is where I will be" 用最短的句子说完了"我会被记住"，也呼应行 59 那句被磨穿的保证：世界会把你交还给一块石头。
 
 **读者视角提示：** "a large rock in the middle of where our old streets meet"——注意是 meet，不是 end：她把结局改写成了相会。
 

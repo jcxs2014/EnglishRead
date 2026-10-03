@@ -113,7 +113,7 @@ modified: "2026-10-03"
 
 **关键词：** Only god can determine the end · at most, humans imagine what is to come · the time ahead is less than what is behind, can we sense it · Oyin · birthright be damned · her beginning, middle, and an unexpected end · the children of the land must return home
 
-**为什么这样写：** ★ "Only god can determine the end, from the beginning"（只有上帝能判定结局，从开头就判定）——与 ch36 的 "nothing is carved in stone"、ch19 的 "Only God can determine the end" 同一句式；预言者在这里把话说到底，然后立刻收回权限。
+**为什么这样写：** ★ "Only god can determine the end, from the beginning"（只有上帝能判定结局，从开头就判定）——与 ch36（Oyin 语）那句 "nothing is carved in stone" 同一句式。
 
 ★ "at most, humans imagine what is to come"（至多，人类只是想象将来）—— "at most" 把整段预言的权威削到只剩一个让步从句。
 
