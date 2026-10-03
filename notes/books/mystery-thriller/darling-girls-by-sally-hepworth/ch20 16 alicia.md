@@ -104,7 +104,7 @@ title: "16 – Alicia"
 
 **中文理解：** 「我们之间没有过关系。」「哦？」Tucker 的浓眉向发际线跳了跳。「怎么说？」「你没法和一个怪物建立关系。」Tucker 的表情变得关切。Alicia 把双臂交叉在身前——像一面临时盾牌。
 
-**中文理解（原文）：** 「我们之间没有过关系。」
+**关键词：** We didn't have a relationship, Tucker's bushy eyebrows leaped up towards his hairline, You can't have a relationship with a monster, a makeshift shield
 
 **为什么这样写：** relationship 一词在这一章里被反复使用（Alicia 的职业问题、Meera 的提议），而她对侦探的这句话是唯一一次**直接否认**它——不是因为不清楚，是因为在口语里承认「我和我曾深深依恋的人有过关系」比承认它是怪物更可怕。而 makeshift shield（临时盾牌）是这一段的收束：她没有武器，只有交叉的手臂。
 

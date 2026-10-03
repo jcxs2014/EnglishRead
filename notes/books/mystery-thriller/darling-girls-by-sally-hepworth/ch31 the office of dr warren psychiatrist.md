@@ -91,7 +91,7 @@ title: "The Office of Dr Warren, Psychiatrist（第 4 次问询）"
 
 **中文理解：** 也许是我想多了，但 Dr Warren 的瞳孔像是放大了。
 
-**中文理解（原文）：** 也许是我想多了，但 Dr Warren 的瞳孔像是放大了。
+**关键词：** I may be imagining it, it looks like Dr Warren's pupils are dilated
 
 **为什么这样写：** 本节最冷的一处技术处理。叙述者用 I may be imagining it（也许是我想多了）给自己留了退路——她不想相信自己在观察一个**被情色激发的人**。而作者让读者替她把这层退了回去：这个人享受她的故事，程度不亚于她享受被倾听。dilation（瞳孔放大）是生理指标，因此不可辩驳。
 
