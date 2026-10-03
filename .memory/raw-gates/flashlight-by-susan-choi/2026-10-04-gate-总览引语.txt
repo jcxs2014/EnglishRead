@@ -1,0 +1,29 @@
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 30/30 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 54/54 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+=== 总览整串核查（flashlight-by-susan-choi）===
+  参照集：text/ 逐章（19 章） ｜ 总览文件 3 个
+  A 整串：命中 118 ｜ 🔶 拼接 13 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 16
+  B 章节标签：对 91 ｜ 标注与实章不符 4（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 23 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 2 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+  ⚠️ 00_情感节点.md:46  跨标签拼接：The deepest depth of night doesn’t come all at onc
+  ⚠️ 00_情感节点.md:47  跨标签拼接：So obviously is she dead that the two townsmen who
+  ⚠️ 00_情感节点.md:55  跨标签拼接：By the time Tobias’s flight lifted off it was Octo
+  ⚠️ 00_情感节点.md:56  跨标签拼接：a box that had been there since Anne had moved in 
+  ⚠️ 00_情感节点.md:66  跨标签拼接：Alone in the room Louisa could hear the clock’s se
+  ⚠️ 00_情感节点.md:75  跨标签拼接：Your daughter is not in this country. Those who ha
+  ⚠️ 00_情感节点.md:77  跨标签拼接：“When you’re forced to go without an explanation f
+  ⚠️ 00_情感节点.md:85  跨标签拼接：When Louisa remarried she and George went to City 
+  ⚠️ 00_情感节点.md:87  跨标签拼接：His curses were all directed at the Japanese Prime
+  ⚠️ 00_情感节点.md:95  跨标签拼接：the Crab had been born in Japan to Korean parents 
+  ⚠️ 00_情感节点.md:104  跨标签拼接：These are not the events Louisa recalls because sh
+  ⚠️ 00_情感节点.md:105  跨标签拼接：When he closes his eyes again, she feels the prese
+  ⚠️ 00_情感节点.md:106  跨标签拼接：In early September, her father contracted pneumoni
+  ⚠️ 00_概述.md:21  标注 ch11 但引语不在该章（实为 ch14）：Why do you still have his name?
+  ⚠️ 00_概述.md:31  标注 ch11 但引语不在该章（实为 ch19）：Did you know that you’ve said our name w
+  ⚠️ 00_概述.md:35  标注 ch7 但引语不在该章（实为 ch9）：This is how he shows love, she believes.
+  ⚠️ 00_概述.md:35  标注 ch9 但引语不在该章（实为 ch11）：She never so much as misted an eye when 
