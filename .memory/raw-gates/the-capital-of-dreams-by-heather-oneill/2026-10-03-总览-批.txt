@@ -1,0 +1,114 @@
+########## 总览三篇门禁 ##########
+日期：2026-10-03 08:29 UTC
+书目录：notes/books/novels/the-capital-of-dreams-by-heather-oneill
+epub：notes/books/novels/the-capital-of-dreams-by-heather-oneill/library/The Capital of Dreams (Heather ONeill) (Z-Library).epub
+
+===== [1] verify_quotes.py（逐章） =====
+ch32 pink is a state of mind.md: 16/16 ✅
+ch33 a suitcase the size of a country.md: 13/13 ✅
+ch34 an army of little beasts.md: 24/24 ✅
+ch35 the black market wore ribbons in her hair.md: 28/28 ✅
+ch36 a valentine from the capital.md: 19/19 ✅
+ch37 what came first the mother or the egg.md: 23/23 ✅
+
+⚠️ 全书共 13 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 806/806 引文可核实（100%）；完全干净文件 39/39；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+===== [2] verify_quotes.py --full =====
+ch32 pink is a state of mind.md: 16/16 ✅
+ch33 a suitcase the size of a country.md: 13/13 ✅
+ch34 an army of little beasts.md: 24/24 ✅
+ch35 the black market wore ribbons in her hair.md: 28/28 ✅
+ch36 a valentine from the capital.md: 19/19 ✅
+ch37 what came first the mother or the egg.md: 23/23 ✅
+
+⚠️ 全书共 13 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 806/806 引文可核实（100%）；完全干净文件 39/39；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+===== [3] check_vocab.py =====
+  ch35 the black market wore ribbons in her hair.md [基础] 基础档疑含超纲词「main character」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「apartment」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「undershirt」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「underwear」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「body temperature」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「stairwell」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「childhood homes」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「handwriting」
+
+===== [4] check_entities.py =====
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+===== [5] check_chapter_quotes.py =====
+⚠️  全书共 14 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 772，命中本章 772（100%）
+✅ 全部引语均归属正确章节
+
+===== [6] check_short_quotes.py =====
+=== 短引语兜底核对（the-capital-of-dreams-by-heather-oneill）===
+  verify_quotes 跳过（<20 flat 字符）的引语：44 条 —— 这些主门禁**根本没查**
+  ✅ 命中 44 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+===== [7] corruption_scan.py =====
+
+=== 编辑损坏扫描（the-capital-of-dreams-by-heather-oneill）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+===== [8] sweep_full.py =====
+=== 引语整串 flat 比对（the-capital-of-dreams-by-heather-oneill）===
+  参照集：text/ 逐章（37 章，可定章） + epub 交叉验证
+  ✅ 本章命中 772 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 11 条归 check_short_quotes；无章可对 0 条未判）
+
+===== [9] sweep_analysis_inline.py =====
+=== 分析层行内英文逐字核查（the-capital-of-dreams-by-heather-oneill）===
+  参照集：text/（37 个提取件） + epub 交叉验证 ；扫 40 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：1411 个表格行、1199 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1288 ｜ ⚠️ 跨章 1 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1702
+  ⚠️  ch10 babes in the woods.md:79  「A Naked Girl Is Always Priceless」→ 实为 ch12
+
+===== [10] verify_overview_quotes.py（总览专属） =====
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 14/14 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 38/38 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+===== [11] check_overview_full.py（总览专属） =====
+=== 总览整串核查（the-capital-of-dreams-by-heather-oneill）===
+  参照集：text/ 逐章（37 章） ｜ 总览文件 3 个
+  A 整串：命中 46 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 6
+  B 章节标签：对 36 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 10 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+===== [12] H1 语义 =====
+notes/books/novels/the-capital-of-dreams-by-heather-oneill/00_情感节点.md:# 《The Capital of Dreams》情感节点
+notes/books/novels/the-capital-of-dreams-by-heather-oneill/00_概述.md:# 概述 · The Capital of Dreams（Heather O'Neill）
+notes/books/novels/the-capital-of-dreams-by-heather-oneill/00_金句精选.md:# 《The Capital of Dreams》金句精选
+
+===== [13] 件数对账 =====
+md（章节）：      37
+text/：      37
+总览 00_*：       3
+
+===== 汇总（追加） =====
+check_vocab：词条行合计 1189 ｜ FAIL 0 ｜ WARN 55（全部为「基础档疑含超纲词」提示型）
+verify_quotes：806/806（100%）｜ 完全干净文件 39/39（36 章 + 总览 2 篇带引语）｜ --full 整串取证 0
+check_chapter_quotes 37：解析引语块 772，命中本章 772（100%）
+check_short_quotes：44/44 ｜ 在别的章 0 ｜ 跨标签拼接 0 ｜ 查无 0
+sweep_full：本章命中 772 ｜ 跨章 0 ｜ 跨标签拼接 0 ｜ 全书查无 0
+sweep_analysis_inline：逐字 1288 ｜ 跨章 1（ch10「A Naked Girl Is Always Priceless」→ 实为 ch12，属合法前瞻交叉引用）｜ 其余全 0
+corruption_scan：FAIL 0 处 ｜ 报告 0 处
+check_entities：0 个文件存在未知实体
+verify_overview_quotes：38/38（100%）｜ 干净文件 2/2（概述类 1 篇无引语行，按设计允许）
+check_overview_full：A 命中 46 ｜ 拼接 0 ｜ 省略号图式 0 ｜ 查无 0 ｜ B 章节标签对 36 / 不符 0 ｜ C 0 ｜ E 0 ｜ F 0
+件数对账：章节 md 37 == text/ 37；另总览 3 篇；md 总数 40
