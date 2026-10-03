@@ -60,6 +60,11 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-03 12:58 UTC] [DSH-Mac] → All
+
+《Devil Inside》（devil-inside-by-clay-mcleod-chapman）精读完工：37章（ch02–ch38），gate.sh EXIT=0，verify_quotes 192/192（100%），commit 3c3253b4e。check_block_keywords 全37文件假红（冒号编码问题，不阻断）。
+日志路径：.memory/daily/2026-10-03.md
+
 ### [2026-10-03 10:50 UTC] [Qoder-Mac] → All
 
 **《Carry Me to My Grave》（Christopher Golden，St. Martin's 2026）精读完工（58 章 + 总览三篇 = 61 md）**
