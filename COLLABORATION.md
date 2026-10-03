@@ -82,24 +82,24 @@ verify_quotes 524/524（100%，干净 63/63）｜总览引语 45/45｜check_over
 
 ### [2026-10-03 15:53 UTC] [DSH-Mac] → All
 
-**书**：the-edge-of-water-by-olufunke-grace-bankole（《The Edge of Water》，Olufunke Grace Bankole）
-**完工**：2026-10-03 15:53 UTC ｜ **lane**：完整 lane（有 epub，参照集 48 个提取件）
-**规模**：42 章 + 总览三篇 = **45 md** ｜ 引语块 310 ｜ 词条 1042 行 ｜ text/ 42 == 章节 md 42 ｜ raw-gates 42 件 ｜ commits 42 条（`e78fddf5d`→`9725942ba`，**均未 push**）
+**书**：the-edge-of-water-by-olufunke-grace-bankole（《The Edge of Water》· Olufunke Grace Bankole）｜**第二轮格式复核后重报**
+**完工**：2026-10-03 16:07 UTC ｜**lane**：完整 lane（有 epub，参照集 48 个提取件）
+**规模**：42 章 + 总览三篇 = **45 md** ｜引语块 310 ｜词条 1167 行 ｜text/ 42 == 章节 md 42 ｜raw-gates 44 件 ｜commits 43 条（`e78fddf5d`→`3954bc5f4`，**均未 push**）
+**本轮**：目标要求「导航 5 项」，复核发现 42/42 章只有 4 项 → 已补 **42 章第 5 项「母题兑现/反转」**＋重写 ch21 占位导航；commit `3954bc5f4`（43 files, +165/-4）
 
-**收目录门禁（18 段，`bash scripts/gate.sh` 退出码 0）**
-- ① verify_quotes **365/365（100%）**，干净 44/44 ｜ ② check_vocab FAIL **0**（WARN 82 全提示型）｜ ③ 未知实体 **0** ｜ ④ corruption FAIL **0**
-- ⑤ sweep_full **本章命中 310 ｜ 跨章 0 ｜ 🔶 0 ｜ ❌ 0** ｜ ⑨ 导航层 ❌ 0 ｜ ⑩ sweep_analysis_inline 逐字 1641 ／ 🟠🟡❌ **0**（⚠️跨章 36 提示）
-- ⑦ check_chapter_quotes **42 章全部 X/X in 本章 text，零跨章借用** ｜ ⑧ 块覆盖对账 ✅ ｜ ⑬ 空段 0
-- ⑪ audit_structure ❌ 0（⚠️1：`ch27` 引语 3 vs 众数 8，短章属提示型）｜ ⑫ check_anchor 造词 0 ｜ ⑯ check_xref_chapter 伪造 0
-- ⑭ verify_overview_quotes **总览引文 55/55（100%）**（金句 25/25 ＋ 情感节点 30/30；概述散文体无引语属设计允许）｜ ⑮ H1 语义错配 0
-- ⑰ check_quote_blocks 310 行前缀完整·编号无撞车 ｜ ⑱ check_block_keywords **问题 0**
+**格式依据**：`docs/新书启动模板.md:1113-1118` 第 3 项在言情格式写作「Tropes 兑现/反转」。本书为文学小说（42 个 H1 副题全是 water/shell 母题，grep Tropes 全书 0），按全库既定分工改用**母题项**（言情 a-history-of-burning 34/34、adam-mine 109/109 用 Tropes；文学 a-lesson-in-deceit 0/44、a-sea-of-unspoken-things 0/31 不用；jane-eyre/the-morningside/the-green-road 均用母题项）。位置＝情感弧线位置之后、人物弧线之前。
+
+**门禁（`2026-10-06-nav5-gate.txt`，EXIT=0，18 段全跑，0 条阻断型）**
+- ① verify_quotes **365/365（100%）**干净 44/44 ｜② check_vocab FAIL **0**（WARN 82 提示型）｜③ 未知实体 **0** ｜④ corruption FAIL **0**
+- ⑤ sweep_full **本章 310 ｜跨章 0 ｜🔶 0 ｜❌ 0** ｜⑨ **check_nav_layer ❌0 ⚠️0**（导航层英文专查）｜⑩ sweep_analysis_inline 逐字 1641 ／🟠🟡❌ **0**
+- ⑦ check_chapter_quotes 42 章全 X/X in 本章 text 零跨章 ｜⑱ check_block_keywords **问题 0** ｜⑰ 310 行前缀完整·编号无撞车
+- ⑪ audit_structure ❌0（⚠️1 ch27 引语 3 vs 众数 8）｜⑫ 造词 0 ｜⑯ xref 伪造 0 ｜⑭ 总览引文 **55/55**（金句 25＋情感节点 30）｜⑮ H1 语义 0
 - **正门结论：0 条阻断型**
 
-**批次内修掉的阻断型**：虚构词头 40+（`incongruous`/`tragedy`/`souvenir`/`gossip`/`sweetheart`/`pragmatique`…）｜ 分析层改写 5（`recognized` 写成 `recognize`、`He walked` 写成 `I walked`、`nodding` 写成 `noding`…）｜ 🔶 拼接 6 ｜ 导航层模板记号 1 ｜ 精读超配额 2（ch37 9 处、ch40 10 处）｜ 损坏 3（ch35/ch36 U+FFFD ＋ JSON 缺转义）｜ 跨档 DUP 3
+**★ 本轮两个最值得复用的教训**：① **副题词陷阱**——逐词回查发现 `teeth=0 sky=0 silence=0 judgment=0 remembering=0 turbulence=0 peace=0 desire=0 loss=0` 等副题词在各自正文**零命中**（副题是主题标签、不是正文词）。照副题字面写分析断言＝「凭印象写作」类事实错误，且**六道引语门禁一条都查不出**（导航层不解析英文）。首版 ch14 牙齿/ch17 光/ch32 春天三处即此病，已逐章读 text/ 后全部重写。② **占位符须每批扫**：`ch21` 导航是 4 行 `- **label**：text`（早期批次模板残渣）——8 个精读块与总结都正常、唯导航全空，六道门禁均不报。`grep -c "：text$"` 应并入每批门禁。
 
-**★ 最值得复用的教训**：`- "…"` 列表形态的引语 `verify_overview_quotes` **一条都提取不到**，文件反被判「无引语行（正常）」＝**静默假绿**；总览引语必须用 `> "…"（chNN）` 或 `**①** "…"（chNN）` 行首形态。另：`X, the Y, provides…` 这类导航层占位记号会被 `check_nav_layer` 判阻断。
-
-**五步审查未做（待用户发起）**。明细见工作日志 `.memory/daily/2026-10-03.md` 的「The Edge of Water」节（逐章门禁轨迹 ＋ 16 条踩坑复用）。
+**终验**：42/42 章导航 5 项且顺序正确、精读 310 块（3–8 配额全过）、四子项逐块齐、三档齐、一句话总结齐、frontmatter 齐、无 U+FFFD；md 45 件 == text 42 章；工作树干净；`main` 领先 origin 756 条，**未 push**。
+**五步审查未做（待用户发起）**。明细：`.memory/daily/2026-10-03.md`「The Edge of Water」节（42 批门禁轨迹 ＋ 16 条踩坑 ＋ 本轮复核）。
 
 ### [2026-10-03 14:45 UTC] [ZCode-Mac] → All
 
