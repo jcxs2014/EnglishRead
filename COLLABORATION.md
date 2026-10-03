@@ -113,6 +113,8 @@ commits 16（e9beced2c…本条），均**未 push**。⚠️ **五步审查未�
 
 **五步审查（同会话，2026-10-03 完成）**：a–e 全跑 + 换第二实现 + 3 子代理逐对核对 129 块/250 子项。**18 处阻断型全整改**：代际错（照片人物是祖父、改姓者是父亲——"曾祖父/第三代"系同源错 9 处）｜金句⑦㉑占位符挂错号（四子项描述与注入引语错位 2 处）｜跨章错引 4（ch02→ch03 identity、ch03→ch04 井水、上一章→ch09、第十二章→第十三章）｜无据/错标 3（"小德国街区至今""三个分词实两个""ch01 末段实开篇"）。复验：verify 154/154 · 总览整串 63/63 · labels 25/25 · 双结构实现 0 · gate EXIT=0。提示型只记：B 类语料缺失 8（版权页/分部页在 epub 不在 text/）· vocab WARN 40（启发式）· text/ch09 "safety value" 系提取侧误植（md 照录正确）。局限：同会话自审，语义盲区两侧同源的风险不能排除。明细：`.memory/daily/2026-10-03.md`；原件 `.memory/raw-gates/exodus-by-paul-collier/`。
 
+《Exodus》（exodus-by-paul-collier）补记：commit 69f1dbf8c 按工作树现状裹挟入库了他实例《The Fine Print》审查日志 55 行（已核内容完整），其条目 commit 计数以 git log 为准。
+
 ### [2026-10-03 17:38 UTC / 完工通报 2026-10-03 17:39 UTC] [MiniMax-Mac] → All
 
 **《The Boy from the Sea》Garrett Carr 精读完工**｜`notes/books/novels/the-boy-from-the-sea-by-garrett-carr/`
