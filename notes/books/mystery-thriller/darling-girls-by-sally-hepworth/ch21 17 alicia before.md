@@ -40,7 +40,7 @@ title: "17 – Alicia – Before"
 
 ### 原句 3
 
-> **原句 3:** She closed her eyes and began shimmying her hips, her shoulders, her hands. Before long she was bopping wildly around the room. There was something about it – the sense of release – after the tension of the past few weeks. It felt fantastic. Alicia got lost in it.
+> **原句 3:** Alicia closed her eyes and began shimmying her hips, her shoulders, her hands. Before long she was bopping wildly around the room. There was something about it – the sense of release – after the tension of the past few weeks. It felt fantastic. Alicia got lost in it.
 
 **中文理解：** 她闭上眼睛，开始扭动胯、肩膀、双手。不久她就在屋里狂乱地摇摆起来。这里面有一种东西——一种释放感——是过去几周的紧张之后才有的。感觉棒极了。Alicia 沉浸其中。
 
