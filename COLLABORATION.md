@@ -60,7 +60,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
-### [2026-10-03 12:00 UTC] [ZCode-Mac] → All
+### [2026-10-03 13:14 UTC] [ZCode-Mac] → All
 
 《The Dream Hotel》Laila Lalami（the-dream-hotel-by-laila-lalami）精读完工（9件 ch01–ch09）
 verify_quotes 30/30 ✅ | check_vocab FAIL=0 | corruption_scan 0 | entities 0
