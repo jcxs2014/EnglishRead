@@ -1,0 +1,11 @@
+  [P0-4] 正文章节 3 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 45
+
+--- FAIL (0) ---
+
+--- WARN (5) ---
+  ch01 desert prophet wanted.md [基础] 基础档疑含超纲词「integrity」
+  ch01 desert prophet wanted.md [基础] 基础档疑含超纲词「uncomfortable」
+  ch01 desert prophet wanted.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch02 gut feelings.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch03 the twenty one second god.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
