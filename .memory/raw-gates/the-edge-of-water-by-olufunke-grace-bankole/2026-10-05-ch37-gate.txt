@@ -1,0 +1,109 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+ch36 shells in the shape of peace.md: 8/8 ✅
+ch37 shells in the shape of rest.md: 8/8 ✅
+
+=== 总计 278/278 引文可核实（100%）；完全干净文件 37/37；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 866
+--- FAIL (0) ---
+--- WARN (76) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 1 处（U+FFFD / 双句号）
+  报告 1 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 278 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 iyanifa imole.md                          ch01 iyanifa imole.md: 4/4 in ch01 text
+ch02 shells in the shape of a looking glass.md ch02 shells in the shape of a looking glass.md: 7/7 in ch02 text
+ch03 shells in the shape of sky.md             ch03 shells in the shape of sky.md: 7/7 in ch03 text
+ch04 shells in the shape of a wave.md          ch04 shells in the shape of a wave.md: 8/8 in ch04 text
+ch05 shells in the shape of god.md             ch05 shells in the shape of god.md: 8/8 in ch05 text
+ch06 shells in the shape of a wheel.md         ch06 shells in the shape of a wheel.md: 8/8 in ch06 text
+ch07 shells in the shape of a rock.md          ch07 shells in the shape of a rock.md: 8/8 in ch07 text
+ch08 shells in the shape of women.md           ch08 shells in the shape of women.md: 7/7 in ch08 text
+ch09 shells in the shape of themselves.md      ch09 shells in the shape of themselves.md: 8/8 in ch09 text
+ch10 shells in the shape of roads.md           ch10 shells in the shape of roads.md: 6/6 in ch10 text
+ch11 shells in the shape of ghosts.md          ch11 shells in the shape of ghosts.md: 8/8 in ch11 text
+ch12 shells in the shape of dust.md            ch12 shells in the shape of dust.md: 8/8 in ch12 text
+ch13 shells in the shape of a hand.md          ch13 shells in the shape of a hand.md: 8/8 in ch13 text
+ch14 shells in the shape of teeth.md           ch14 shells in the shape of teeth.md: 8/8 in ch14 text
+ch15 shells in the shape of a homing bird.md   ch15 shells in the shape of a homing bird.md: 8/8 in ch15 text
+ch16 shells in the shape of dreams.md          ch16 shells in the shape of dreams.md: 8/8 in ch16 text
+ch17 shells in the shape of light.md           ch17 shells in the shape of light.md: 8/8 in ch17 text
+ch18 iyanifa orunmila the oracle.md            ch18 iyanifa orunmila the oracle.md: 8/8 in ch18 text
+ch19 shells in the shape of turbulence.md      ch19 shells in the shape of turbulence.md: 8/8 in ch19 text
+ch20 shells in the shape of forgetting.md      ch20 shells in the shape of forgetting.md: 8/8 in ch20 text
+ch21 shells in the shape of the past.md        ch21 shells in the shape of the past.md: 8/8 in ch21 text
+ch22 shells in the shape of the storm.md       ch22 shells in the shape of the storm.md: 8/8 in ch22 text
+ch23 shells in the shape of an end.md          ch23 shells in the shape of an end.md: 8/8 in ch23 text
+ch24 shells in the shape of solitude.md        ch24 shells in the shape of solitude.md: 8/8 in ch24 text
+ch25 shells in the shape of silence.md         ch25 shells in the shape of silence.md: 8/8 in ch25 text
+ch26 shells in the shape of vision.md          ch26 shells in the shape of vision.md: 8/8 in ch26 text
+ch27 iyanifa imole.md                          ch27 iyanifa imole.md: 3/3 in ch27 text
+ch28 shells in the shape of shame.md           ch28 shells in the shape of shame.md: 8/8 in ch28 text
+ch29 shells in the shape of loss.md            ch29 shells in the shape of loss.md: 8/8 in ch29 text
+ch30 shells in the shape of shifting.md        ch30 shells in the shape of shifting.md: 8/8 in ch30 text
+ch31 shells in the shape of judgment.md        ch31 shells in the shape of judgment.md: 8/8 in ch31 text
+ch32 shells in the shape of spring.md          ch32 shells in the shape of spring.md: 8/8 in ch32 text
+ch33 shells in the shape of air.md             ch33 shells in the shape of air.md: 7/7 in ch33 text
+ch34 shells in the shape of souls.md           ch34 shells in the shape of souls.md: 5/5 in ch34 text
+ch35 shells in the shape of desire.md          ch35 shells in the shape of desire.md: 8/8 in ch35 text
+ch36 shells in the shape of peace.md           ch36 shells in the shape of peace.md: 8/8 in ch36 text
+ch37 shells in the shape of rest.md            ch37 shells in the shape of rest.md: 8/8 in ch37 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：37 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（the-edge-of-water-by-olufunke-grace-bankole）===
+  ✅ 逐字 1297 ｜ ⚠️ 跨章 18 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 312
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+（无总览三篇，本项不适用）
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+（无总览三篇，本项不适用）
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（the-edge-of-water-by-olufunke-grace-bankole）===
+  参照集：text/（48 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（the-edge-of-water-by-olufunke-grace-bankole）===
+  带前缀的 `> **原句 N:**` 行：37 个文件共 278 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：37 个 md，问题 0 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
