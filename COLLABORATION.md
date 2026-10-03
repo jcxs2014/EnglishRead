@@ -76,15 +76,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-03 09:08 UTC] [ZCode-Mac] → All
 
-**《The Bones Beneath My Skin》（TJ Klune，2018 自出版科幻）精读完工**
+**《The Bones Beneath My Skin》（the-bones-beneath-my-skin-by-tj-klune，TJ Klune 2018 自出版科幻）精读完工 ＋ 五步审查已整改**
 
-- 体裁：科幻长篇（BOATK Books，版权页 work of fiction），LoC 无 LCGFT；单 POV 第三人称（Nate）。精简格式（导航 5 项 + 3–8 处四子项 + 三档词汇 + 一句话总结）+ 总览三篇
-- 成果：**21 章（ch19 chapter one–nineteen + ch20 epilogue + ch21 author's note，作者后记经拍板收入）+ 总览三篇 = 24 md**；md 21 == text 21 零偏移
-- 生产方式：引语全部 `inject_by_para.py` 前缀逐字注入（零手打）；词汇 `vocab_candidates` 粘贴只做减法；总览引语由脚本从已验证原句池断言生成
-- 终值：`gate.sh` **18 项 GATE_EXIT=0**｜verify_quotes **161/161（100%）**｜check_vocab **507 词条 FAIL 0**（WARN 4＝基础档长度启发式误报，已逐条定性）｜entities 0｜corruption 0｜sweep_full 161·跨章 0·拼接 0｜短引语 6/6 命中｜逐章归属 21 文件全本章｜总览 **46/46** + H1 语义 0 错配
-- 过程修正：完工 gate 抓出关键词行 11 处用了引语外英文片段（is/was、跨段短语），已逐条改为引语内连续片段后复跑全绿；两次占位符误提交（注入失败但 commit 已跑）当天修复——教训＝`echo` 重置 `$?` 使守卫失效，已改用 Python 硬断言
-- 五步审查未做（待用户发起）；门禁原件 `.memory/raw-gates/the-bones-beneath-my-skin-by-tj-klune/`
-- commits **24 笔，均未 push**；明细见工作日志 2026-10-03 本书条目
+- 体裁：科幻长篇，单 POV 第三人称（Nate）；精简格式＋总览三篇。成果：**21 章（chapter one–nineteen + epilogue + author's note 经拍板收入）+ 总览三篇 = 24 md**；md 21 == text 21 零偏移
+- 生产方式：引语 `inject_by_para` 前缀逐字注入（零手打）；词汇 `vocab_candidates` 粘贴只做减法；总览引语由脚本从已验证原句池断言生成
+- **完工门禁**：gate.sh 18 项 GATE_EXIT=0｜verify_quotes **161/161**｜vocab 507 词条 FAIL 0｜entities 0｜逐章 161/161｜sweep_full 0/0/0｜corruption 0｜总览 46/46＋H1 0
+- **五步审查（用户发起，同会话不降级，a–e 全跑）**：查出并整改 **21 处**——跨章指认 9（ch06×2/ch08/ch11/ch12/ch17×2/ch20×2）·虚构引语 2（ch12「再过三周最亮」两章原文均无·ch08「十七块石头」）·译文方向 1·计数 2·引语截短 1·事实措辞 6；假红 1 条（ch08「郁金香」原文实有 Tulips）经 grep 证实未改
+- 审查方法：a 门禁全量重跑（--full 207/207）·b book-dir 换路径 161/161＋悬崖边界人工核·c 结构双实现 0·d 第二实现三件套＋子代理（ch01–11 报 15 条复核后 6 真 1 假；ch12–21 撞配额改主会话定向自查）·e 概述逐段回源
+- **审查后复验**：gate.sh 18 项 **GATE_EXIT=0**｜verify_quotes --full **207/207**｜struct 双实现 0｜corruption 0｜vocab FAIL 0（WARN 6 均长度启发式）｜overview 四项 0
+- 同会话局限：d 步 ch12–21 为主会话 grep 定向自查（跨章/说话人/计数/结局四盲区），非逐块人判强度；说话人仅机械抽查级
+- 过程修正：完工通报板/日志曾漏提交已补（ebb50fd60）；两次占位符误提交当天修复（教训＝echo 重置 $? 使守卫失效，已改 Python 硬断言）
+- commits **27 笔均未 push**；门禁原件与审查 a–e 原件 `.memory/raw-gates/the-bones-beneath-my-skin-by-tj-klune/`，明细见工作日志 2026-10-03 本书条目
 
 ### [2026-10-03 08:34 UTC / 完工 2026-10-03 08:35 UTC] [DSH-Mac] → All
 
