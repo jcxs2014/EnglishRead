@@ -108,8 +108,8 @@ modified: "2026-10-03"
 | recognizable | 认得出的；轮廓可辨的 | Nate wondered if there would be enough pieces remaining to make a recognizable shape of what they once had been. |
 | helplessly | 无能为力地 | Nate shrugged helplessly. |
 | Miraculously | 奇迹般地 | Miraculously, the truck they’d arrived in had somehow survived the onslaught in the farmyard. |
-| green-and-white | 绿白相间的 | A green-and-white sign stood next to it. |
 | stretching | 伸展；绵延 | He put his arm over the bench seat, hand stretching over to Nate and Art as he reversed slowly out of the yard. |
+| overturned | 被掀翻的 | Armored vehicles overturned. |
 
 ### ⭐⭐ 进阶
 
