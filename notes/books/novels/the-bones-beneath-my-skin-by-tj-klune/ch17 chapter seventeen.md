@@ -15,7 +15,7 @@ modified: "2026-10-03"
 
 ## 精读
 
-> **原句 1:** «Q1»
+> **原句 1:** He did it, Ricky had told him, voice thick. Didn’t leave a note. Didn’t say why. He just killed her. And then he killed himself.
 
 **中文理解：** 「他干的，Ricky 后来告诉他，声音发闷。没留字条。没说为什么。他就是杀了她。然后杀了他自己。」
 
@@ -25,7 +25,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 这场梦的残酷在于它的精确——每件家具都对；它同时为全章定调：挣扎是真实的，无力也是。
 
-> **原句 2:** «Q2»
+> **原句 2:** This was who she really was, and it was more than he ever expected, more than he ever thought possible, and when their hands touched, it was like a miniature sun had gone supernova in his chest.
 
 **中文理解：** 这才是她真正的样子，比他想象过的更多，比他以为可能的更多，而当他们的手碰在一起，就像一颗小太阳在他胸口炸成了超新星。
 
@@ -35,7 +35,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 记住这个画面——终章她回家时，你的眼睛里会带着这颗超新星。
 
-> **原句 3:** «Q3»
+> **原句 3:** “I’m here,” he heard Alex say. “I’m here, and we’re gonna get out of here. We’re gonna—”
 
 **中文理解：** 「我在，」他听见 Alex 说。「我在，我们会离开这里的。我们会——」
 
@@ -45,7 +45,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 对照第十二章——那时他借她的连接「看见」Alex 的痛；现在他伸手把它打断。
 
-> **原句 4:** «Q4»
+> **原句 4:** Through the fog, there was an image of flowers blooming in a field. Of rocks skipping on a lake. Of sleeping in the back of a truck under a sea of stars.
 
 **中文理解：** 透过迷雾，他看见一片花田里的花正在开放。看见石子在湖面上漂跳。看见三个人睡在卡车后斗里，头顶是一海星星。
 
@@ -55,9 +55,9 @@ modified: "2026-10-03"
 
 **读者视角提示：** 这三帧画面就是本书的「为什么」——你已经陪它们走过了，此刻它们替他扣住扳机。
 
-> **原句 5:** «Q5»
+> **原句 5:** And he thought, What if I don’t want to?
 
-**中文理解：** 如果我不想呢？
+**中文理解：** 他想：如果我不想呢？
 
 **关键词：** What if I don't want to
 
@@ -65,7 +65,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 与第十六章的 what if 对读——同一个词，从深渊里长出了绳子。
 
-> **原句 6:** «Q6»
+> **原句 6:** “It’s why I chose you,” Art told them through all the shifting memories.
 
 **中文理解：** 「这就是我选你们的原因，」Art 穿过所有流动的记忆对他们说。
 
@@ -75,7 +75,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** made me a home out of nothing 与第一章电台里的「家」遥相呼应——全书的书名级主题，落在这里。
 
-> **原句 7:** «Q7»
+> **原句 7:** “Nothing,” Alex growled as he pressed the barrel of the gun against the side of Peter’s head.
 
 **中文理解：** 「没什么，」Alex 吼道，把枪管顶在 Peter 的头侧。
 
@@ -85,7 +85,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 注意 Alex 用的是 Peter 自己的枪——轮盘赌的道具，最后钉死了庄家。
 
-> **原句 8:** «Q8»
+> **原句 8:** He reached out for her. He took her hand in his. He felt the little bones beneath her skin and—
 
 **中文理解：** 他伸出手去够她。他握住她的手。他感觉到了她皮肤之下那些细小的骨头——
 
