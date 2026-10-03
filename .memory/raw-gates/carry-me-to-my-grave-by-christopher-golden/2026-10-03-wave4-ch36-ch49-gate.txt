@@ -1,0 +1,121 @@
+# wave4 ch36–ch49 门禁原件 2026-10-03 09:44 UTC
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 388/388 引文可核实（100%）；完全干净文件 49/49；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 1376
+--- FAIL (0) ---
+--- WARN (37) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 388 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 the thing under the oak tree.md           ch01 the thing under the oak tree.md: 7/7 in ch01 text（另有 1 条短引语未校验）
+ch02 the process of dying.md                   ch02 the process of dying.md: 8/8 in ch02 text
+ch03 the wind fought back.md                   ch03 the wind fought back.md: 8/8 in ch03 text
+ch04 the traveling case lay open on top.md     ch04 the traveling case lay open on top.md: 8/8 in ch04 text
+ch05 ruth swickard woke to the smell of.md     ch05 ruth swickard woke to the smell of.md: 8/8 in ch05 text
+ch06 uncommonly handsome man.md                ch06 uncommonly handsome man.md: 8/8 in ch06 text
+ch07 their situation was hopeless.md           ch07 their situation was hopeless.md: 8/8 in ch07 text
+ch08 violet wise had been born violet temple.md ch08 violet wise had been born violet temple.md: 8/8 in ch08 text
+ch09 the train had rocked malcolm.md           ch09 the train had rocked malcolm.md: 8/8 in ch09 text
+ch10 violet figured a couple of hours.md       ch10 violet figured a couple of hours.md: 8/8 in ch10 text
+ch11 wind howling outside malcolm sat.md       ch11 wind howling outside malcolm sat.md: 8/8 in ch11 text
+ch12 morning on the swickard farm.md           ch12 morning on the swickard farm.md: 8/8 in ch12 text
+ch13 the baggage car had been cold.md          ch13 the baggage car had been cold.md: 8/8 in ch13 text
+ch14 benjy had never been on a train.md        ch14 benjy had never been on a train.md: 8/8 in ch14 text
+ch15 while they were stopped in buffalo.md     ch15 while they were stopped in buffalo.md: 8/8 in ch15 text
+ch16 the sleeper cars were already quiet.md    ch16 the sleeper cars were already quiet.md: 8/8 in ch16 text
+ch17 the chickens had gone to sleep.md         ch17 the chickens had gone to sleep.md: 8/8 in ch17 text
+ch18 violet went first alfie followed.md       ch18 violet went first alfie followed.md: 8/8 in ch18 text
+ch19 malcolm had never been so lost for.md     ch19 malcolm had never been so lost for.md: 8/8 in ch19 text
+ch20 pain forced elias awake.md                ch20 pain forced elias awake.md: 8/8 in ch20 text
+ch21 malcolm wiped blood from his eyes.md      ch21 malcolm wiped blood from his eyes.md: 8/8 in ch21 text
+ch22 elias sat on the chest of a.md            ch22 elias sat on the chest of a.md: 8/8 in ch22 text
+ch23 violet held on tight as the police.md     ch23 violet held on tight as the police.md: 8/8 in ch23 text
+ch24 malcolm had done his army training at.md  ch24 malcolm had done his army training at.md: 8/8 in ch24 text
+ch25 elias thought this must be how a.md       ch25 elias thought this must be how a.md: 8/8 in ch25 text
+ch26 malcolm checked the rearview mirror.md    ch26 malcolm checked the rearview mirror.md: 8/8 in ch26 text
+ch27 elias rode on top of the fire.md          ch27 elias rode on top of the fire.md: 8/8 in ch27 text
+ch28 violet sat up straight.md                 ch28 violet sat up straight.md: 8/8 in ch28 text
+ch29 even from inside a jail cell.md           ch29 even from inside a jail cell.md: 8/8 in ch29 text
+ch30 tom fogg had grown up three.md            ch30 tom fogg had grown up three.md: 8/8 in ch30 text
+ch31 detective hope walked them back.md        ch31 detective hope walked them back.md: 8/8 in ch31 text
+ch32 violet slouched in a booth at bessies.md  ch32 violet slouched in a booth at bessies.md: 7/7 in ch32 text（另有 1 条短引语未校验）
+ch33 malcolm didnt realize he was humming.md   ch33 malcolm didnt realize he was humming.md: 8/8 in ch33 text
+ch34 get up you worthless meat.md              ch34 get up you worthless meat.md: 8/8 in ch34 text
+ch35 tommy fogg pushed back the old womans hair.md ch35 tommy fogg pushed back the old womans hair.md: 8/8 in ch35 text
+ch36 elias fell asleep in the culvert.md       ch36 elias fell asleep in the culvert.md: 8/8 in ch36 text
+ch37 the windshield wipers on the frazer smeared.md ch37 the windshield wipers on the frazer smeared.md: 8/8 in ch37 text
+ch38 alfie pushed the panel truck faster than.md ch38 alfie pushed the panel truck faster than.md: 8/8 in ch38 text
+ch39 malcolm took it slow worried about keeping.md ch39 malcolm took it slow worried about keeping.md: 8/8 in ch39 text
+ch40 the texaco sign flickered.md              ch40 the texaco sign flickered.md: 8/8 in ch40 text
+ch41 if malcolm had been at the wheel.md       ch41 if malcolm had been at the wheel.md: 8/8 in ch41 text
+ch42 the darkness inside the car seemed to.md  ch42 the darkness inside the car seemed to.md: 8/8 in ch42 text
+ch43 by the time they crossed the state line.md ch43 by the time they crossed the state line.md: 8/8 in ch43 text
+ch44 when they were children malcolm had listened.md ch44 when they were children malcolm had listened.md: 8/8 in ch44 text
+ch45 the flying one perched on the sharp.md    ch45 the flying one perched on the sharp.md: 8/8 in ch45 text
+ch46 the storm had eased somewhat and malcolm took over driving.md ch46 the storm had eased somewhat and malcolm took over driving.md: 8/8 in ch46 text
+ch47 violet had never felt so cold.md          ch47 violet had never felt so cold.md: 8/8 in ch47 text
+ch48 elias clung to the roof of a.md           ch48 elias clung to the roof of a.md: 8/8 in ch48 text
+ch49 let her scream jennie said its not.md     ch49 let her scream jennie said its not.md: 6/6 in ch49 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：49 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（carry-me-to-my-grave-by-christopher-golden）===
+  ✅ 逐字 2180 ｜ ⚠️ 跨章 1 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 589
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+（无总览三篇，本项不适用）
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+（无总览三篇，本项不适用）
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（carry-me-to-my-grave-by-christopher-golden）===
+  参照集：text/（59 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（carry-me-to-my-grave-by-christopher-golden）===
+  带前缀的 `> **原句 N:**` 行：49 个文件共 390 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：49 个 md，问题 0 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
