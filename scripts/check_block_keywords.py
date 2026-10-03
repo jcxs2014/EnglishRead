@@ -123,6 +123,41 @@ def _flat(x: str) -> str:
     return re.sub(r"[^a-z0-9]", "", x.lower())
 
 
+def _kw_in_quote(k: str, qflat: str) -> bool:
+    """关键词是否落在这条引语里（判定口径：逐字 + 允许词形外的标点/空白差异）。
+
+    ⚠️ 2026-10-03 修正（The Boy from the Sea ch01 实测的假红）：原实现只有
+    `_flat(k) not in _qflat` 一条判据，而 `_flat` **剥掉所有空格** ⇒ 任何**跨空格
+    短语**（`eyed suspiciously` / `mined Mersey coal` / `sea to eternity`）被压成
+    `eyedsuspiciously` 去找，而引语里 `eyed` 与 `suspiciously` 之间隔着别的词
+    ⇒ **两个词都逐字在引语内，仍被判「不在本块引语内」**。
+    实证：`Eunan eyed Ambrose suspiciously.` + 关键词 `eyed suspiciously`
+    ⇒ 报假红（而 `eyed`/`suspiciously` 各自 flat 命中均为 True）。
+
+    修法（**判据不放宽，只让跨空格短语能按其真实形态成立**）：
+      ① 原样/剥括号的整串命中（保持既有判据，行为不变）；或
+      ② 关键词按空白切成词序列，**每个词按序**在引语的 flat 串里出现。
+    ⚠️ 与 AGENTS「剥括号类归一不能两侧同剥」同源：归一必须问「这个差异是
+    分析者加的还是原文自带的」——空格被 `_flat` 剥掉是**工具的归一副作用**，
+    不是原文形态差异。
+    """
+    if _flat(k) in qflat or _flat(_BRACKET.sub("", k)) in qflat:
+        return True
+    words = [w for w in re.split(r"\s+", k.strip()) if w]
+    if len(words) < 2:
+        return False
+    pos = 0
+    for w in words:
+        fw = _flat(w)
+        if not fw:
+            continue
+        i = qflat.find(fw, pos)
+        if i < 0:
+            return False
+        pos = i + len(fw)
+    return True
+
+
 def check(md: Path, book: Path):
     m = re.search(r'ch(\d+)', md.name)
     if not m:
@@ -200,8 +235,12 @@ def check(md: Path, book: Path):
         # 处置：**先剥行尾粗体标记，再剥包裹引号**（顺序不能反）。
         if q.endswith("**"):
             q = q[:-2].strip()
-        if len(q) > 1 and q[0] in '"“‘' and q[-1] in '"”’':
-            q = q[1:-1]
+        # ⚠️ 2026-10-03 修正（Deathless ch14 原句 1/3 实测假红）：上面只剥**一对**引号。
+        # 本库通行形态是 `> **原句 N:** "“原文…"` —— 外层直引号包裹 + 内层原文弯引号
+        # （且引语常在段落中途截断，只剩开引号）。剥一次之后首尾仍各剩一个引号字符，
+        # 归一串以 `"` 开头 ⇒ 在原文里查不到 ⇒ 报「引语跨自然段」。
+        # 处置：**剥掉首尾所有引号字符**（而不是成对剥），顺序无关、结果唯一。
+        q = q.strip().strip('"“‘”’').strip()
         qn = norm(q)
         # ⚠️ 2026-10-02 修正（Bird of a Thousand Stories 终验实测，10 条假红）：
         # 原实现拿**整串**（含 `…`）去判 `qn not in tn`。但带省略号的引语按定义
@@ -250,7 +289,8 @@ def check(md: Path, book: Path):
         # 只把两侧都归一到字母数字，与 check_chapter_quotes / sweep_full 同口径。
         _qflat = _flat(qn)
         miss = [k for k in kws
-                if _flat(k) not in _qflat and _flat(_BRACKET.sub("", k)) not in _qflat]
+                if not _kw_in_quote(k, _qflat)
+                and not _kw_in_quote(_BRACKET.sub("", k), _qflat)]
         if miss:
             out.append(f"{md.name} 原句{num}: 关键词不在本块引语内 → {miss}")
     return out
