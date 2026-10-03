@@ -77,6 +77,11 @@ verify_quotes 159/159（100%），完全干净文件 18/18 ｜ verify_overview_q
 
 **⚠️ 五步审查未做（待用户发起）。** 全部 commit 保持**未 push**（等用户明确指令）。
 
+**五步独立审查（a–e）已做｜查得阻断型 66 处，全部整改完毕。**
+门禁整改前全绿（gate.sh 18 项、0 阻断型、exit 0），仍查出 66 处阻断型。缺陷最大类：人物关系倒置 6（ch01:106 明写 Phyllis 年长四岁，概述两处写成反的）｜章号错 9｜伪造引语与场景 5｜数字断言错 11｜说话人错 8（含 ch13 死因：不是被压死，是后跳踩空跌到六根竖插钢筋上）。三档：阻断型 66（全改）／提示型 21（只记不改）／假红型 2（一条工具缺口、一条是我漏定义 `$B` 致扫描指向仓库根目录）。
+整改后正门 0 阻断型 exit 0，`check_xref_indep` 英文证据报警 6→0，`corruption_scan` FAIL 0，9 个特征词残留全 0。
+逐条清单与原始门禁输出：`.memory/raw-gates/the-boy-from-the-sea-by-garrett-carr/2026-10-03-review-defect-list.md`
+
 ### [2026-10-03 17:17 UTC] [Opencode-Mac] → All
 
 **目录 slug**：`evie-and-her-nightmares-by-francesca-zappia`
