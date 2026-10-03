@@ -52,7 +52,14 @@ import os
 import re
 import sys
 
-TEXT_RE = re.compile(r'^ch(\d+)')
+# ⚠️ 后缀字母不可丢：`ch02a` 归一成 int(2) 会与 `ch02` 撞键，
+# 后者静默覆盖前者（corpus 少一件）且锚点指向错误的 text/。
+TEXT_RE = re.compile(r'^ch(\d+)([a-z]?)')
+
+
+def chapter_key(digits, suffix=''):
+    """统一键：'02' / '02a'。字符串键保证 sorted() 顺序正确（'02' < '02a' < '03'）。"""
+    return '%02d%s' % (int(digits), suffix or '')
 # 字面转义符：反斜杠 + n/t（非行尾的真实换行不算）
 LITERAL_ESC = re.compile(r'\\[nt]')
 # LaTeX 命令：\alpha \beta \nabla \text \frac ...
@@ -82,7 +89,7 @@ def find_texts(book_dir):
             continue
         m = TEXT_RE.match(f)
         if m:
-            out.append((int(m.group(1)), os.path.join(tdir, f)))
+            out.append((chapter_key(m.group(1), m.group(2)), os.path.join(tdir, f)))
     return sorted(out)
 
 
@@ -102,7 +109,8 @@ def parse_anchors(spec):
         key, names = chunk.split('=', 1)
         m = TEXT_RE.match(key.strip())
         if m:
-            out[int(m.group(1))] = [n.strip() for n in names.split(',') if n.strip()]
+            out[chapter_key(m.group(1), m.group(2))] = [
+                n.strip() for n in names.split(',') if n.strip()]
     return out
 
 
@@ -178,9 +186,9 @@ def main():
     if lit_hit or tex_hit:
         msg = []
         if lit_hit:
-            msg.append('字面 \\n/\\t 于 ch%s' % ','.join('%02d' % n for n in lit_hit))
+            msg.append('字面 \\n/\\t 于 ch%s' % ','.join(str(n) for n in lit_hit))
         if tex_hit:
-            msg.append('LaTeX 命令于 ch%s' % ','.join('%02d' % n for n in tex_hit))
+            msg.append('LaTeX 命令于 ch%s' % ','.join(str(n) for n in tex_hit))
         warns.append('提取件含 %s → 该书须走人工比对，勿依赖纯脚本 flat '
                      '（方案 §11.3 注记一）' % '；'.join(msg))
         print('  [4] %s  WARN' % '；'.join(msg))
@@ -188,7 +196,7 @@ def main():
         print('  [4] 无字面转义符 / LaTeX 命令  OK')
     if bleed_hit:
         warns.append('疑似页码 bleed 于 %d 件（ch%s）——选句与例句须避开粘连点'
-                     % (len(bleed_hit), ','.join('%02d' % n for n in bleed_hit[:8])))
+                     % (len(bleed_hit), ','.join(str(n) for n in bleed_hit[:8])))
         print('  [4b] 疑似页码 bleed %d 件  WARN' % len(bleed_hit))
 
     # ---- ② 人物锚点双向 ----
@@ -202,7 +210,7 @@ def main():
         pairs = 0
         for nn, names in sorted(anchors.items()):
             if nn not in norm_all:
-                fails.append('锚点指定 ch%02d，但 text/ 无此件' % nn)
+                fails.append('锚点指定 ch%s，但 text/ 无此件' % nn)
                 continue
             for other_nn, other_names in sorted(anchors.items()):
                 if other_nn == nn:
@@ -212,12 +220,12 @@ def main():
                     if nm in names or nm.lower() in shared:
                         continue
                     if has_token(norm_all[nn], nm):
-                        leak_other.append('ch%02d 本篇含他篇 ch%02d 的人物「%s」'
+                        leak_other.append('ch%s 本篇含他篇 ch%s 的人物「%s」'
                                           '（长篇里角色跨章出现属正常；续章人物请用 --shared 豁免）'
                                           % (nn, other_nn, nm))
             for nm in names:
                 if not has_token(norm_all[nn], nm):
-                    miss_own.append('ch%02d 未命中本篇人物「%s」' % (nn, nm))
+                    miss_own.append('ch%s 未命中本篇人物「%s」' % (nn, nm))
         for x in leak_other:
             fails.append(x)
         for x in miss_own:
@@ -238,7 +246,7 @@ def main():
             sents = sentences(corpus[nn])
             head = sents[:args.edges]
             tail = sents[-args.edges:] if len(sents) > args.edges else sents
-            print('    ch%02d (%d 句)' % (nn, len(sents)))
+            print('    ch%s (%d 句)' % (nn, len(sents)))
             for s in head:
                 print('      首| %s' % s[:96])
             for s in tail:

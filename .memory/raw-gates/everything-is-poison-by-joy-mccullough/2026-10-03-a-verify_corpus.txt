@@ -1,0 +1,212 @@
+# verify_corpus 语料层验收 — 2026-10-03 14:23 UTC
+# book: notes/books/novels/everything-is-poison-by-joy-mccullough
+# expect-source: OPF spine 逐件实测：40 编号章 + 25 韵文插叙节 + Epilogue = 66
+# anchors: 22 组（df==1 实体）；--shared 豁免 14 名跨章共有人物
+
+=== 语料层验收（P0-0）: everything-is-poison-by-joy-mccullough ===
+text/ 件数: 66
+  [1] 件数 66 == 预期 66  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 22 组 / 互查 462 组（共享人物 14 个已豁免）  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (68 句)
+      首| Carmela slips inside the apothecary behind an ancient woman leaning on a cane so the proprietres
+      末| “Yes, Mother.”
+    ch02 (120 句)
+      首| The next time Carmela walks into Tofana Apothecary with any glimmer of hope in her heart comes s
+      末| “And if you play with her, she’ll turn you into a toad!”
+    ch02a (84 句)
+      首| The Witch
+      末| has breathed her last.
+    ch03 (158 句)
+      首| The bells above the shop door tinkle, a faint echo of the ringing from the Piazza del Popolo as 
+      末| Though right before she sails through the archway, she says over her shoulder, “Besides, the blo
+    ch03a (51 句)
+      首| The Wife
+      末| and quench her thirst.
+    ch04 (292 句)
+      首| The daily tasks are endless.
+      末| An angry man told her to go back to the witch, and she never returned.
+    ch04a (44 句)
+      首| The Widower
+      末| into the rest of a life without her.
+    ch05 (36 句)
+      首| Carmela meanders back to the shop, making each step take twice as long, though her mother will s
+      末| Maria shakes her head, baffled, and holds the door open for Carmela so she can lock it behind he
+    ch05a (63 句)
+      首| The Laboring Mother
+      末| safe inside forever.
+    ch06 (38 句)
+      首| The apartment above the shop is cold.
+      末| “All right then.”
+    ch07 (122 句)
+      首| Carmela can’t stop thinking about Violetta, no matter how violently she tries to shove the loath
+      末| He is more the sort to shuffle papers behind a desk than to chase down criminals, so it is with 
+    ch08 (203 句)
+      首| Carmela falls into the rhythm of the shop.
+      末| She may as well not be here at all.
+    ch08a (79 句)
+      首| The Tavern Mistress
+      末| and suffers his blows.
+    ch09 (141 句)
+      首| When Giulia returns from checking on the woman whose baby was delivered the night before, Carmel
+      末| She wonders how much power he could have had over a force like Maria.
+    ch09a (71 句)
+      首| The Miller’s Daughter
+      末| an ignorant cunt.
+    ch10 (313 句)
+      首| Giulia hasn’t returned by the time the shop closes.
+      末| But Giulia was no daughter of his.
+    ch11 (75 句)
+      首| “I sound monstrous,” Giulia says.
+      末| It’s nearly weightless, but Carmela feels it there, pulsing so close to her heart, this remnant 
+    ch11a (41 句)
+      首| Another Wife
+      末| never able to enjoy her well-earned peace.
+    ch12 (229 句)
+      首| Now that Carmela truly knows all the secrets of the apothecary, there is no longer any reason to
+      末| When they gave him the final drop, they were free.
+    ch13 (257 句)
+      首| Carmela wends her way between the market stalls as she gathers the things her mother has sent he
+      末| “It’s a fool’s errand to try to contain a cat.”
+    ch13a (36 句)
+      首| The Cat
+      末| on these cobbled paths.
+    ch14 (28 句)
+      首| The apartment Maria and Laura share is right around the corner from the apothecary.
+      末| But now that Carmela has so much more knowledge, she feels it differently, her mother’s absence.
+    ch14a (66 句)
+      首| The Traveler
+      末| to make it to the other side.
+    ch15 (199 句)
+      首| In the morning, Carmela is awake long before dawn.
+      末| She can’t do that as a complete innocent.
+    ch15a (33 句)
+      首| The Groom
+      末| won’t it?
+    ch16 (213 句)
+      首| When Laura and Maria arrive, Violetta is scrubbing the last cloth, while Carmela wrings the mois
+      末| It’s what we’re here for.”
+    ch16a (59 句)
+      首| The Women
+      末| and still have stories to tell.
+    ch17 (242 句)
+      首| Life carries on, profoundly different and exactly the same.
+      末| Giada hovering, Nina’s husband, Sandro, entering and weeping at the sight of his children, his w
+    ch17a (59 句)
+      首| The Infant
+      末| there is no going back.
+    ch18 (40 句)
+      首| Carmela returns not to Maria and Laura’s apartment that night, but to her own.
+      末| Bank the ashes and come to bed, love.”
+    ch18a (44 句)
+      首| The Women, Part 2
+      末| and she uncorks the bottle as she steps inside.
+    ch19 (207 句)
+      首| Giulia has procured enough mandrake to finish Signora Fontina’s order and plenty more besides.
+      末| Still turned away, but she says quietly, “I know, love.”
+    ch19a (39 句)
+      首| The Priest
+      末| to his sins.
+    ch20 (56 句)
+      首| “It looks bad,” Maria says when they’ve flipped the sign in the window to closed.
+      末| Giulia doesn’t scold or say she blames her, but it’s in the air between them, thick and heavy, c
+    ch20a (77 句)
+      首| The Loiterer
+      末| of her own.
+    ch21 (110 句)
+      首| Father Piero doesn’t come the next day, but neither do the notary or the magistrate’s thugs.
+      末| Without stopping to right it, she runs from the room, her steps clattering down the stairs as th
+    ch21a (46 句)
+      首| The Cobbler
+      末| in Campo Marzio would have shoes.
+    ch22 (46 句)
+      首| Laura showed up on Maria’s doorstep when she was fourteen, barefoot, a single bag in hand and no
+      末| But now they would have to learn to go on without her.
+    ch22a (34 句)
+      首| The Novitiate
+      末| when you have no other options.
+    ch23 (202 句)
+      首| “Sage?” Carmela says.
+      末| Maria is all she has in the world.
+    ch23a (47 句)
+      首| The Women, Part 3
+      末| understand.
+    ch24 (62 句)
+      首| Carmela barely notices Maria steering her through the Ortaccio and leaving her with a stunned La
+      末| But Giulia would sooner die on the side of the road.
+    ch25 (65 句)
+      首| Giulia might have died on the road, if she hadn’t remembered something in her exhausted delirium
+      末| Saving her life, restoring her womb, and giving her the fresh slate she needed to become the Mot
+    ch26 (33 句)
+      首| Maria and Laura return later than usual, well after the shop should have closed.
+      末| She bursts into her own apartment, the one she shares with her mother, or did, and throws hersel
+    ch26a (57 句)
+      首| The Brokenhearted
+      末| to the ends of the earth.
+    ch27 (115 句)
+      首| Carmela is awoken some hours later by a pounding that brings her immediately back to the apothec
+      末| “The blood is ready to be dried,” Maria merely says as she takes her spot at her worktable and r
+    ch27a (44 句)
+      首| The Mother
+      末| and lets sleep pull her under.
+    ch28 (137 句)
+      首| Not back to normal, never normal without Giulia, but the remaining women of the apothecary learn
+      末| “Well, she’s not here, is she?”
+    ch29 (141 句)
+      首| When nearly a week passes without word from Eleonora, Carmela begins to fret.
+      末| They run and they keep running, melting into the bustling waterfront, still running, cursing hea
+    ch29a (32 句)
+      首| The Sailor
+      末| He has earned it.
+    ch30 (89 句)
+      首| Carmela only makes it back to the shop because Violetta guides her.
+      末| If only there were more to laugh about.
+    ch30a (46 句)
+      首| The Laughing Girl
+      末| she finds a reason to laugh.
+    ch31 (88 句)
+      首| It should, perhaps, not come as such a shock when Carmela walks into the apothecary a few days l
+      末| “Be here at eight tomorrow morning.”
+    ch32 (104 句)
+      首| When Carmela comes downstairs the next morning, Violetta stands in the doorway, bright-eyed and 
+      末| “That’s better.”
+    ch32a (71 句)
+      首| The Friends
+      末| be stains to scrub.
+    ch33 (66 句)
+      首| By the time Maria arrives, they’ve ground the entire basket of lemon balm that had been sitting 
+      末| It doesn’t heal the gaping wounds, but it’s a start.
+    ch34 (70 句)
+      首| The convent’s herbal workshop is vastly larger than Tofana Apothecary’s.
+      末| “See for myself what’s in bloom.”
+    ch35 (111 句)
+      首| Carmela will never admit it, but Violetta is a natural.
+      末| She has only ever seen men come seeking remedies for themselves.
+    ch35a (26 句)
+      首| The Husband
+      末| who appreciates him.
+    ch36 (109 句)
+      首| Violetta’s courses begin.
+      末| We need to make some changes.”
+    ch37 (102 句)
+      首| Violetta does not arrive before the shop opens the next day, and Carmela is surprised to discove
+      末| “We’re going to be fine.”
+    ch37a (26 句)
+      首| The Witness
+      末| in her shame.
+    ch38 (56 句)
+      首| Maria is fine, mostly.
+      末| Mother
+    ch39 (161 句)
+      首| Carmela reads the next letter and the next, searching for a change of sentiment.
+      末| “Can you get a horse and cart?”
+    ch40 (457 句)
+      首| There are no other options.
+      末| Carmela squeezes Maria’s hand in hers and guides her through the archway.
+    ch41 (79 句)
+      首| Epilogue
+      末| And really, it always has been.
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
