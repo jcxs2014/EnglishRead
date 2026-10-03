@@ -55,9 +55,9 @@ chapter: ch02
 
 ---
 
-> **原句 4：** "I'm gliding along the borderline between life and death, racing against my own mortality. The Grim Reaper's at your back, chasing you down on his pale little pony, and you're simply kicking his ass, blue ribbon-style."
+> **原句 4：** "You're gliding along the borderline between life and death, racing against your own mortality. The Grim Reaper's at your back, chasing you down on his pale little pony, and you're simply kicking his ass, blue ribbon-style."
 
-**中文理解**：这是Jordan对骑手生涯最直白的哲学陈述。他把自己描绘成在生死边界上滑行的人，与死神的信使赛跑。Skateboarding俚语"Kick his ass, blue ribbon-style"（以蓝丝带的方式打败死神）——蓝丝带通常是第一名的标志——Jordan的意思是：骑手们在与死亡的比赛中，总是拿第一名。
+**中文理解**：这是Jordan对骑手生涯最直白的哲学陈述。他把自己描绘成在生死边界上滑行的人，与死神的信使赛跑。Skateboarding俚语"Kick his ass, blue ribbon-style"（以蓝丝带的方式打败死神）——蓝丝带通常是第一名的标志——Jordan的意思是：骑手们在与死亡的比赛中，总是拿第一名。注意原文使用第二人称"you're"而非"I'm"——Jordan在事故发生的恍惚中，似乎在与自己对话。
 
 **句子结构**：现在分词结构（gliding along...racing against...）创造了一种流动的、无限继续的运动感，暗含骑手的生活没有终点，只有持续的过渡状态。
 
@@ -67,19 +67,31 @@ chapter: ch02
 
 ---
 
-> **原句 5：** "I spin, still on my bike, turning into the opposite lane so that I can now see the SUV that hit me."
+> **原句 5：** "Spinning."
 
-**中文理解**：在这句话里，Jordan 在空中旋转时，看到了一辆标准的黑色 SUV 撞了他——但这句话的语法有一个有趣的悖论：他说"I can now see the SUV that hit me"，但这个SUV此刻正在撞他，说明事故发生时时间感被扭曲了——他的意识在身体被撞飞的瞬间反而变得更加清晰。
+**中文理解**：这是Jordan死亡瞬间意识到的第一个词——他在空中旋转。"Spinning"是死亡体验的第一个有意识的认知碎片，揭示了事故发生的突然性和身体的失控状态。
 
-**句子结构**：现在分词结构（spinning...turning...）并置，创造了一个没有主句的持续动作流——这种无中心的句法恰好对应了他失去中心控制的身体状态。
+**句子结构**：单词句，创造了一种突然的、断裂的意识状态。
 
-**关键词**：SUV（肇事车辆类型，标准、普通的黑色，没有个性——死亡不以戏剧性的方式降临，只是以日常的方式发生）、can now see（认知的突然清晰与身体失控形成对比）
+**关键词**：Spinning（旋转——事故发生的第一个有意识认知）、
 
-**为什么这样写**：在这里，"I can now see"代表了一种矛盾的清醒状态——身体正在被摧毁，但精神却异常清晰。这暗示了Jordan的死亡不是突然的消失，而是一个有意识的被剥离的过程。
+**为什么这样写**：用单词句开场，模拟了严重事故后大脑的"重启"状态——意识在创伤中先抓住一个词，然后才能拼凑完整的画面。
 
 ---
 
-> **原句 6：** "I feel so light. So vulnerable. A butterfly freshly wrenched from its cocoon, all wet and tender."
+> **原句 6：** "I rotate, still on my bike, turning into the opposite lane so that I can now see the SUV that hit me. Standard black. It's there and gone before I can blink."
+
+**中文理解**：在这句话里，Jordan 在空中旋转时，看到了一辆标准的黑色 SUV 撞了他——但这句话的语法有一个有趣的悖论：他说"I can now see the SUV that hit me"，但这个SUV此刻正在撞他，说明事故发生时时间感被扭曲了——他的意识在身体被撞飞的瞬间反而变得更加清晰。注意epub用的是"rotate"而非"spin"。
+
+**句子结构**：现在分词结构（rotating...turning...）并置，创造了一个没有主句的持续动作流——这种无中心的句法恰好对应了他失去中心控制的身体状态。
+
+**关键词**：SUV（肇事车辆类型，标准、普通的黑色，没有个性——死亡不以戏剧性的方式降临，只是以日常的方式发生）；can now see（认知的突然清晰与身体失控形成对比）；Standard black / there and gone（瞬间性——一切发生得太快，SUV"在眨眼间"就消失了）
+
+**为什么这样写**：在这里，"I can now see"代表了一种矛盾的清醒状态——身体正在被摧毁，但精神却异常清晰。"Standard black"和"there and gone before I can blink"共同构建了事故的瞬时性：一切都发生得太快，Jordan甚至来不及反应。死亡不是慢慢降临的，而是"眨眼间"就完成了。
+
+---
+
+> **原句 7：** "I feel so light. So vulnerable. A butterfly freshly wrenched from its cocoon, all wet and tender."
 
 **中文理解**：被撞飞后，Jordan 感到自己"如此轻盈，如此脆弱"，像一只刚刚破茧的蝴蝶。这个意象既美丽又令人不安——蝴蝶是蜕变的象征，但在蜕变完成之前它是极度脆弱的。Wet and tender暗示了新生命的潮湿和未成熟状态。
 

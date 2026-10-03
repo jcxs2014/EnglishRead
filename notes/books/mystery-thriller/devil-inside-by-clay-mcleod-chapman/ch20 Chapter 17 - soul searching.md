@@ -19,13 +19,13 @@ chapter: ch20
 
 ## 精读
 
-> **原句 1：** "I hear the voice at the back of my head. Go ahead. Nobody's watching. Just . . . take it." / "That voice sounds an awful lot like Lilith . . . / Is it?" / "It's not. Can't be. I would know if it was actually her."
+> **原句 1：** "I don't know how long I've been staring at the bottle of bourbon before I hear the voice at the back of my head. Go ahead. Nobody's watching. Just . . . take it."
 
-**中文理解**：这是Jordan在ABC商店里听到一个声音诱惑他偷酒——"我在脑海深处听到一个声音。去吧。没有人看着。只是……拿走它。"/"那个声音听起来很像Lilith……"/"是吗？"/"不是。不可能是。我应该能分辨那是不是她。"这是关于"内在声音"的核心表达：Jordan不确定诱惑他的是Lilith还是他自己的"内在恶魔"。
+**中文理解**：这是Jordan在ABC商店里听到一个声音诱惑他偷酒——"我不知道我在波旁酒瓶前盯着看了多久，才听到脑海深处的声音。去吧。没有人看着。只是……拿走它。"这是关于"内在声音"的核心表达：Jordan不确定诱惑他的是Lilith还是他自己的"内在恶魔"。
 
-**句子结构**：对话 + 内心独白（I hear... / That voice... / Is it? / It's not...），整体形成一种"内心挣扎"的语气。
+**句子结构**：叙述句 + 祈使句（I don't know... / Go ahead... / Just take it.），整体形成一种"内心挣扎"的语气。
 
-**关键词**：voice at the back of my head（脑海深处的声音——"内在恶魔"）；take it（拿走它——"诱惑"）；sounds an awful lot like Lilith（听起来很像Lilith——"身份不确定"）；Can't be（不可能是——"否认"）
+**关键词**：voice at the back of my head（脑海深处的声音——"内在恶魔"）；take it（拿走它——"诱惑"）；staring at the bottle of bourbon（盯着波旁酒瓶——"诱惑的物质化"）；Nobody's watching（没有人看着——"道德松懈"）
 
 **为什么这样写**：这是Chapman对"诱惑"主题的核心表达——Jordan不确定他的"内在声音"是Lilith还是他自己的黑暗面。这是一个关于"身份边界模糊"的隐喻。
 
@@ -55,25 +55,25 @@ chapter: ch20
 
 ---
 
-> **原句 4：** "I met somebody." / "Lilith." / "She sees me for who I am. On the inside. And she likes that part of me. It feels like she understands me. Gets me. Maybe even more than I get myself."
+> **原句 4：** "I met somebody."
 
-**中文理解**：这是Jordan向Deak介绍Lilith——"我遇到了一个人。"/"Lilith。"/"她看到了真正的我。内在的她。而且她喜欢我的那一部分。感觉她理解我。懂我。也许比我自己还懂我。"这是关于"理解"的核心表达。
+**中文理解**：这是Jordan向Deak介绍Lilith——"我遇到了一个人。"这是Jordan第一次向朋友坦白他"遇到了某个人"。这是一个关于"坦白"的时刻。
 
-**句子结构**：对话（I met... / Lilith. / She sees...），整体形成一种"告白"的语气。
+**句子结构**：简短陈述句（I met somebody.），整体形成一种"坦白"的语气。
 
-**关键词**：meets somebody（遇到一个人——"浪漫邂逅"）；sees me for who I am（看到真正的我——"被理解"）；likes that part of me（喜欢我的那一部分——"被接纳"）；understands me / gets me（理解我——"灵魂伴侣"）
+**关键词**：I met somebody（我遇到了一个人——"关系确认"）；Deak的反应（"Stop the presses. For real?"——朋友的惊讶）
 
-**为什么这样写**：这是Chapman对"理解"主题的核心表达——Jordan觉得Lilith比任何人都懂他。这是一个关于"灵魂伴侣"的隐喻。
+**为什么这样写**：这是Chapman对"理解"主题的核心表达——Jordan第一次向朋友坦白他与Lilith的关系。这是一个关于"坦白"的时刻。
 
 ---
 
-> **原句 5：** "I'm seeing demons wherever I go." / "Where's the line? Why can't I find my morality anymore?" / "I want Lilith beside me. The two of us basking in the flames, together."
+> **原句 5：** "I'm seeing demons wherever I go."
 
-**中文理解**：这是Jordan在砸车窗时的内心独白——"我到处都能看到恶魔。"/"线在哪里？为什么我找不到我的道德底线了？"/"我想要Lilith在我身边。我们两个一起沐浴在火焰中。"这是关于"黑暗渴望"的核心表达。
+**中文理解**：这是Jordan在砸车窗时的内心独白——"我到处都能看到恶魔。"这是关于"黑暗渴望"的核心表达：Jordan的世界观已经完全改变，他看到的不再是普通的世界，而是被恶魔"占据"的世界。这是一个关于"道德真空"的隐喻。
 
-**句子结构**：独白（I'm seeing... / Where's the line... / I want...），整体形成一种"黑暗渴望"的语气。
+**句子结构**：简短陈述句（I'm seeing demons wherever I go.），整体形成一种"黑暗渴望"的语气。
 
-**关键词**：seeing demons（看到恶魔——"世界观的改变"）；Where's the line（线在哪里——"道德真空"）；basking in the flames（沐浴在火焰中——"共同毁灭"的渴望）；together（一起——"结合的渴望"）
+**关键词**：seeing demons（看到恶魔——"世界观的改变"）；everywhere（到处——"恶魔的无所不在"）
 
 **为什么这样写**：这是Chapman对"黑暗渴望"主题的核心表达——Jordan想要和Lilith一起毁灭。这是一个关于"共同毁灭"的隐喻。
 

@@ -31,15 +31,15 @@ chapter: ch16
 
 ---
 
-> **原句 2：** "Nina Simone. 'I put a spell on you.'"
+> **原句 2：** "Nina Simone," he says. "Ever hear her?" / "You haven't lived," he says. / Lived.
 
-**中文理解**：这是Jordan选择的歌曲——Nina Simone的"I Put a Spell on You"。这个标题是一个双关语：它既是字面上的"我对你施咒"，也是Jordan对Lilith的情感的隐喻——他被Lilith"迷住了"，就像被施了咒一样。这首歌是Jordan对Lilith的"情书"，用音乐的形式表达。
+**中文理解**：这是Jordan选择的歌曲——Nina Simone的"I Put a Spell on You"。Jordan问Lilith是否听过Nina Simone，然后说"You haven't lived"（你没有真正活过）——这是一个双关语，既指Nina Simone的音乐是"人生必听"，也暗示Lilith需要"活着"的体验，而Jordan可以给她这种体验。"Lived."是Lilith对"lived"这个词的反应——这个词对她来说有特殊的意义，因为她已经死了。
 
-**句子结构**：专辑标题和歌曲标题的组合，整体形成一种"音乐即情书"的语气。
+**句子结构**：对话（Nina Simone... / "You haven't lived"...）+ 单词句（Lived.），整体形成一种"音乐即情书"的语气。
 
-**关键词**：I put a spell on you（我对你施咒——Jordan被Lilith"迷住"的隐喻）；Nina Simone（尼娜·西蒙——美国灵魂爵士歌手，歌曲的情感深度与Lilith的"恶魔"本质形成对比）
+**关键词**：Nina Simone（尼娜·西蒙——美国灵魂爵士歌手）；You haven't lived（你没有真正活过——双关语：音乐上的人生必听 + Lilith需要"活着"的体验）；Lived（活过——Lilith对"lived"的反应，因为她已经死了）
 
-**为什么这样写**：这是Chapman对"音乐与诱惑"主题的核心表达——Jordan选择"I Put a Spell on You"这首歌是因为它完美地描述了他对Lilith的感受：被"迷住"了。这首歌既是情书，也是诅咒——因为对于Lilith来说，"被施咒"可能意味着"被爱上"。
+**为什么这样写**：这是Chapman对"音乐与诱惑"主题的核心表达——Jordan用Nina Simone的音乐来诱惑Lilith。"You haven't lived"既是关于音乐的评价，也是关于"活着"的邀请——Lilith需要体验人类的感受才能"真正活过"。
 
 ---
 
@@ -79,13 +79,13 @@ chapter: ch16
 
 ---
 
-> **原句 6：** "He's a beacon. Such a bright, blinding light. / He's brought a little sliver of hell back up to earth. A shard of the abyss is lodged in his chest and here it is, beaming so bright, so dark, calling to me."
+> **原句 6：** "He's a beacon. Such a bright, blinding light."
 
-**中文理解**：这是Lilith对Jordan内在"黑暗光"的描述——"他是一座灯塔。如此明亮，如此耀眼的光芒。/ 他把一小片地狱带回了人间。一块深渊的碎片嵌在他的胸口，它在这里闪耀着，如此明亮，如此黑暗，向我呼唤。"这是一个关键的对比：灯塔通常象征"光明"和"引导"，但Jordan的灯塔是"黑暗"的——他是"黑暗中的光"。这暗示了Jordan的"内在"不是普通的"善"，而是一种"黑暗的力量"。
+**中文理解**：这是Lilith对Jordan内在"黑暗光"的描述——"他是一座灯塔。如此明亮，如此耀眼的光芒。"这是一个关键的对比：灯塔通常象征"光明"和"引导"，但Jordan的灯塔是"黑暗"的——他是"黑暗中的光"。这暗示了Jordan的"内在"不是普通的"善"，而是一种"黑暗的力量"。
 
-**句子结构**：隐喻链（beacon → sliver of hell → shard of the abyss → beaming so bright, so dark），整体形成一种"顿悟的诗意"的语气。
+**句子结构**：简单描述句（He's a beacon...），整体形成一种"顿悟的诗意"的语气。
 
-**关键词**：beacon（灯塔——之前是母亲给Jordan的定位，现在是Lilith给他的定位）；sliver of hell（一片地狱——Jordan从"另一边"带回来的东西）；calling to me（向我呼唤——Lilith被Jordan的内在"吸引"）；darkness in light（黑暗的光——Jordan的本质的矛盾性）
+**关键词**：beacon（灯塔——之前是母亲给Jordan的定位，现在是Lilith给他的定位）；bright, blinding light（明亮耀眼的光——"黑暗的光"的矛盾修辞）
 
 **为什么这样写**：这是Chapman对"内在的黑暗力量"主题的核心表达——Jordan从死亡中"回来"，带着一块"地狱的碎片"。这个"碎片"现在"闪耀"在他体内，向Lilith"呼唤"。Lilith被这个"黑暗的光"吸引，因为这与她自己的"黑暗"产生了共鸣。
 

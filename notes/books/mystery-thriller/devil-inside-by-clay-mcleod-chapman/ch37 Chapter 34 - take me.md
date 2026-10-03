@@ -19,15 +19,15 @@ chapter: ch37
 
 ## 精读
 
-> **原句 1：** "Love is possession. We invite them in. Let them take over. / People have possession all wrong. It's not about being invaded by another entity. It's not the overtaking of autonomy or losing one's sense of self. / It's love. It's sacrifice. Cohabitating. Not just your body, but your soul. Your heart."
+> **原句 1：** "Love is possession. We invite them in. Let them take over."
 
-**中文理解**：这是Jordan在思考"附身"真正含义时说的话——"爱就是附身。我们邀请他们进来。让他们接管。/ 人们对附身的理解完全错了。它不是被另一个实体入侵。不是夺取自主权或失去自我意识。/ 它是爱。是牺牲。是共居。不只是你的身体，而是你的灵魂。你的心。"这是关于"附身本质"的核心表达。
+**中文理解**：这是Jordan在思考"附身"真正含义时说的话——"爱就是附身。我们邀请他们进来。让他们接管。"这是关于"附身本质"的核心表达：爱和附身是同一件事——都是主动的邀请和接受。
 
-**句子结构**：论点 + 论据 + 结论（Love is possession... / People have... / It's love...），整体形成一种"哲理"的语气。
+**句子结构**：并列祈使句（We invite... / Let them...），整体形成一种"哲理"的语气。
 
-**关键词**：Love is possession（爱就是附身——"爱"和"附身"的同一性）；invited them in（邀请他们进来——"主动接受"）；sacrifice（共居——"分享"）；soul（灵魂——"深层结合"）
+**关键词**：Love is possession（爱就是附身——"爱"和"附身"的同一性）；invite them in（邀请他们进来——"主动接受"）；take over（接管——"主导权转移"）
 
-**为什么这样写**：这是Chapman对"附身"主题的理论总结——爱和附身是同一件事。这是一个关于"爱的本质"的隐喻。
+**为什么这样写**：这是Chapman对"附身"主题的理论总结——爱和附身是同一件事。附身不是暴力入侵，而是对被压抑欲望的回应，是主动的邀请。
 
 ---
 
@@ -55,13 +55,13 @@ chapter: ch37
 
 ---
 
-> **原句 4：** "You need me." / For a while, yes. Then we found each other. A home in each other. / "You can't have her!"
+> **原句 4：** "You needed me."
 
-**中文理解**：这是Cara被抛弃后的愤怒——"'你需要我。' / 有过一段时间，是的。然后我们找到了彼此。在彼此身上找到了家。/ '你不能拥有她！'"这是关于"抛弃"的核心表达。
+**中文理解**：这是Jordan/Lilith在回应Cara的愤怒时说的话——"你需要过我。"这是关于"抛弃"的核心表达：Cara意识到她对Jordan/Lilith来说只是"过客"。
 
-**句子结构**：对话（"You need me." / Then we... / "You can't have her!"），整体形成一种"愤怒和悲伤"的语气。
+**句子结构**：简短陈述句（You needed me），整体形成一种"冷酷的确认"的语气。
 
-**关键词**：You need me（你需要我——Cara的"恳求"）；found each other（找到彼此——"新欢"）；home in each other（在彼此身上找到家——"替代"）；You can't have her（你不能拥有她——Cara的"愤怒"）
+**关键词**：You needed me（你需要过我——"曾经需要"的确认）；For a while（曾经一度——"过渡性"）；found each other（找到彼此——"替代关系"）；home in each other（在彼此身上找到家——"真正的归属"）
 
 **为什么这样写**：这是Chapman对"抛弃"主题的核心表达——Cara被Jordan/Lilith抛弃后愤怒又悲伤。这是一个关于"被抛弃的痛苦"的隐喻。
 

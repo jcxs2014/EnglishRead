@@ -43,11 +43,11 @@ chapter: ch25
 
 ---
 
-> **原句 3：** "The longer I'm in one host's body, I run the risk of getting stuck."
+> **原句 3：** "The longer I'm in one host's body," I explain, "I run the risk of getting stuck."
 
 **中文理解**：这是Lilith在解释为什么她不能"只留在一个身体里"时说的话——"我在一个宿主的身体里停留的时间越长，我就越有被困住的风险。"这是关于"附身的代价"的核心揭示：长期附身会让Lilith"失去自我"。
 
-**句子结构**：条件句（The longer... I run the risk），整体形成一种"警告"的语气。
+**句子结构**：条件句 + 插入语（The longer... / I explain / I run the risk），整体形成一种"警告"的语气。
 
 **关键词**：run the risk（冒险——Lilith的"风险"）；getting stuck（被困住——Lilith会"失去自我"）；Imprisoned within flesh（被困在肉体中——Lilith的"监狱"）
 
@@ -67,13 +67,13 @@ chapter: ch25
 
 ---
 
-> **原句 5：** "Are you allowed to see other people? Is it just us who has to stick with this monogamistic possession?"
+> **原句 5：** "Are you allowed to see other people?" we ask. "Is it just us who has to stick with this monogamistic possession?"
 
-**中文理解**：这是Lilith在回应Jordan的"规则"时的反问——"你能见其他人吗？难道只有我们要遵守这种单一附身的承诺？"这是关于"一夫一妻制"的隐喻——Lilith把Jordan的要求比作"一夫一妻制"。
+**中文理解**：这是Lilith在回应Jordan的"规则"时的反问——"你能见其他人吗？"我们问。"难道只有我们要遵守这种单一附身的承诺？"这是关于"一夫一妻制"的隐喻——Lilith把Jordan的要求比作"一夫一妻制"。
 
-**句子结构**：修辞性反问，整体形成一种"讽刺的幽默"的语气。
+**句子结构**：修辞性反问（Are you allowed... / Is it just us...），整体形成一种"讽刺的幽默"的语气。
 
-**关键词**：monogamistic possession（单一附身的一夫一妻制——Lilith的"讽刺"）；see other people（见其他人——"约会"的隐喻）；stick with（坚持——Lilith的"承诺"）
+**关键词**：Are you allowed（你能见其他人吗——Lilith的"反问"）；monogamistic possession（单一附身的一夫一妻制——Lilith的"讽刺"）；stick with（坚持——Lilith的"承诺"）
 
 **为什么这样写**：这是Chapman对"一夫一妻制"主题的"恶魔式"反转——Lilith把Jordan的"关系规则"比作"一夫一妻制"。这是一个关于"讽刺"的隐喻。
 

@@ -43,19 +43,31 @@ chapter: ch08
 
 ---
 
-> **原句 3：** "She called upon us. Begging us to take her away."
+> **原句 3：** "She called upon us,"
 
-**中文理解**：这是 Lilith 在谋杀 Greg 的过程中透露的核心信息：Kim 不是被动地被附身，而是主动"召唤"了 Lilith。"called upon us"（呼唤我们）和"begging us to take her away"（气求我们带走她）是两个表达渴望的动词短语，它们揭示了 Kim 的真实心理状态：她想要逃离她的丈夫、她的孩子、她的家庭生活，而 Lilith 回应了她的呼唤。
+**中文理解**：这是 Lilith 在谋杀 Greg 的过程中透露的核心信息：Kim 不是被动地被附身，而是主动"召唤"了 Lilith。"called upon us"（呼唤我们）是祈祷式的语言——Kim 用祈祷的动作召唤了恶魔，她想要逃离她的婚姻困境。
 
-**句子结构**："She called upon us"是主动句，"Begging us to take her away"是现在分词短语作伴随状态。整体形成一种"因果关系"的描述——Kim 的召唤导致了 Lilith 的回应。
+**句子结构**："She called upon us"是直接引语，后接叙述性补充"Kim continued, taking him in..."，整体形成一种"叙述者+角色"混合的叙述效果。
 
-**关键词**：called upon us（召唤我们——祈祷式的语言，Kim 用祈祷的语言召唤了恶魔）、begging us to take her away（气求我们带走她——逃离的渴望，Kim 想要逃离的是她的家庭生活）
+**关键词**：called upon us（召唤我们——祈祷式的语言，Kim 用祈祷的语言召唤了恶魔）；Kim continued（Kim继续说——叙事打断角色对话）；Greg...spasms（Greg痉挛发作——Lilith已经开始控制Greg的身体）
+
+**为什么这样写**：这是 Chapman 对"附身"主题最黑暗的探索之一——附身不是暴力入侵，而是对被压抑欲望的回应。Kim "召唤"了 Lilith，因为她无法以其他方式逃离她的婚姻监狱。
+
+---
+
+> **原句 4：** "Begging us to take her away."
+
+**中文理解**：这是 Lilith 继续揭露的 Kim 的真实心理状态："begging us to take her away"（气求我们带走她）——Kim 想要逃离她的丈夫、她的孩子、她的家庭生活，而 Lilith 回应了她的呼唤。
+
+**句子结构**："Begging us to take her away"是现在分词短语作伴随状态，连接前面的"She called upon us"。整体形成一种"因果关系"的描述——Kim 的召唤导致了 Lilith 的回应。
+
+**关键词**：begging us to take her away（气求我们带走她——逃离的渴望，Kim 想要逃离的是她的家庭生活）；away from your children（远离孩子——在下一句揭示）
 
 **为什么这样写**：这是 Chapman 对"附身"主题最黑暗的探索之一——附身不是暴力入侵，而是对被压抑欲望的回应。Kim "召唤"了 Lilith，因为她无法以其他方式逃离她的婚姻监狱。这使得 Lilith 的附身变成了一种扭曲的"解放"——她帮助 Kim 做了 Kim 自己无法做的事。
 
 ---
 
-> **原句 4：** "Away from your children."
+> **原句 5：** "Away from your children."
 
 **中文理解**：这是 Lilith 在谋杀 Greg 时说出的最令人不安的句子之一——Kim 不仅想要逃离丈夫，还想要逃离她的孩子。"Away from your children"把孩子的所有权给了 Greg（"你的孩子"），暗示 Kim 在某种程度上已经与孩子疏远了，而 Greg 是他们事实上的监护人。这也暗示了 Lilith 接下来要做什么——处理掉孩子们。
 
@@ -67,7 +79,7 @@ chapter: ch08
 
 ---
 
-> **原句 5：** "There’s a lighthouse on the horizon, burning bright... Drawing us in. What a brilliant beacon it is."
+> **原句 6：** "There’s a lighthouse on the horizon, burning bright... Drawing us in. What a brilliant beacon it is."
 
 **中文理解**：这是 Lilith 在谋杀 Greg 的过程中引用的一个诗意的比喻——灯塔在黑暗中发光，"吸引"船只进入。"lighthouse"（灯塔）和"beacon"（信标）是引导的象征，但在上下文中，它们引导的是死亡和毁灭。Greg 正在流血濒死，而 Lilith 描述的是某种引向"家"的光。这是 Chapman 对"家"的主题的又一次探索——对 Kim/Lilith 来说，"家"在地狱而不是在这个房子里。
 
@@ -79,7 +91,7 @@ chapter: ch08
 
 ---
 
-> **原句 6：** "The last thought to slip through Greg's pulverized mind was simple: Kim's going to wake up the kids if she keeps at this..."
+> **原句 7：** "The last thought to slip through Greg's pulverized mind was simple: Kim's going to wake up the kids if she keeps at this..."
 
 **中文理解**：这是 Greg 的最后一个想法——不是关于死亡，不是关于为什么 Kim 要杀他，而是关于孩子们会被吵醒。这是一个父亲的最后想法，也是对 Greg 性格的最终定义：他是一个即使在濒死时也关心孩子的父亲。这个细节与"away from your children"形成强烈的反差——Greg 关心孩子，而 Kim/Lilith 要"处理"他们。
 

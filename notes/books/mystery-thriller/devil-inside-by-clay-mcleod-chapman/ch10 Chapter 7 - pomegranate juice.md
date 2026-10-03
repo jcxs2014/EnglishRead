@@ -79,19 +79,41 @@ chapter: ch10
 
 ---
 
-> **原句 6：** "Do you remember the music hall? The Flood Zone. We met there."
+> **原句 6：** "Do you remember the music hall?" she asks.
 
 **中文理解**：Lilith 在试图让 Jordan 想起她——她提到了他们第一次相遇的地点（The Flood Zone 音乐厅）。这是 Jordan 第一次"遇见"Lilith 的地方（在 ch04），也是他被"诱惑"的地方。Lilith 通过提供这些细节来证明自己的身份。
 
-**句子结构**：Do you remember...?（修辞性疑问）+ The Flood Zone（地点）+ We met there（结论）。整体形成一种"记忆挑战"的语气。
+**句子结构**：修辞性疑问（Do you remember...?），整体形成一种"记忆挑战"的语气。
 
-**关键词**：The Flood Zone（Jordan 和 Lilith 第一次相遇的地点，也是 Jordan 死亡后"回归"的地方）
+**关键词**：Do you remember the music hall?（你记得音乐厅吗？——Lilith的"记忆验证"）；The Flood Zone（Jordan 和 Lilith 第一次相遇的地点）
 
-**为什么这样写**：这是 Chapman 对 Jordan 和 Lilith 关系的"记忆验证"——Lilith 需要证明自己是"同一个人"，而她通过提供他们共享的记忆来实现这一点。这与 Jordan 的"认不出"形成对比——他认不出 Lilith 的新身体，但她仍然是同一个人。
+**为什么这样写**：这是 Chapman 对 Jordan 和 Lilith 关系的"记忆验证"——Lilith 需要证明自己是"同一个人"，而她通过提供他们共享的记忆来实现这一点。
 
 ---
 
-> **原句 7：** "It's her eyes that halt me, though. I've seen them before. That look. Those are Lilith's eyes. Only they're in someone else's sockets."
+> **原句 7：** "The Flood Zone."
+
+**中文理解**：Jordan 试图回忆但想不起来——"洪水区。"这是一个简短的回应，表示 Jordan 不记得这个地点。这是他"认不出"Lilith 的表现——尽管他们曾经在 Flood Zone 相遇过，但 Jordan 已经不记得了。
+
+**句子结构**：简短名词句（The Flood Zone.），整体形成一种"困惑和否认"的语气。
+
+**关键词**：The Flood Zone（Jordan 和 Lilith 第一次相遇的地点，也是 Jordan 死亡后"回归"的地方）；认不出（Jordan 不记得 Lilith）
+
+---
+
+> **原句 8：** "We met there."
+
+**中文理解**：Lilith 坚持——"我们是在那里相遇的。"这是 Lilith 的最终"身份证明"：她知道他们第一次相遇的地点，即使 Jordan 不记得。
+
+**句子结构**：简短陈述句（We met there.），整体形成一种"确认和坚持"的语气。
+
+**关键词**：We met there（我们是在那里相遇的——Lilith的"身份证明"）；记忆共享（Lilith 记得 Jordan 不记得的事情）
+
+**为什么这样写**：这是 Chapman 对"记忆"主题的核心表达——Lilith 和 Jordan 的记忆是"共享"的，即使 Jordan 不记得，Lilith 仍然记得他们的一切。
+
+---
+
+> **原句 9：** "It's her eyes that halt me, though. I've seen them before. That look. Those are Lilith's eyes. Only they're in someone else's sockets."
 
 **中文理解**：Jordan 终于通过眼睛认出了 Lilith——尽管她的身体完全不同，但她的眼睛是"同一个"。这是 Chapman 对"身份"主题的最终表达——眼睛是"灵魂的窗口"，即使身体换了，灵魂的"质地"仍然可以通过眼睛被感知。
 

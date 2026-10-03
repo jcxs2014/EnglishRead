@@ -67,13 +67,25 @@ chapter: ch29
 
 ---
 
-> **原句 5：** "The first thing I find is my vinyl . . . I grab a random record—Charlie Parker—and unsheathe the vinyl before flinging it against the wall."
+> **原句 5：** "The first thing I find is my vinyl. All that shellac. Years of digging through yard sales and record bins. All that music. Songs that summon her."
 
-**中文理解**：这是Jordan在召唤失败后的愤怒爆发——他开始毁掉自己所有的黑胶唱片收藏（Charlie Parker, Neil Diamond, Black Flag, Coltrane, Beck, AC/DC, Etta James, Metallica）。这是关于"毁灭"的核心场景。
+**中文理解**：这是Jordan面对召唤失败后的第一反应——他去找自己的黑胶唱片收藏。Shellac（虫胶唱片）是早期黑胶唱片的主要材质，Jordan对黑胶唱片的执着象征着他对"旧时光"的眷恋。Years of digging through yard sales暗含了这些唱片是他多年淘来的珍宝，而"Songs that summon her"则揭示了这些音乐的真正意义——它们是用来召唤Lilith的工具。
 
-**句子结构**：动作描写（I grab... / flinging...），整体形成一种"愤怒和破坏"的语气。
+**句子结构**：并列名词短语（All that shellac / Years of digging / All that music / Songs that summon her），整体形成一种"怀旧与失落"的语气。
 
-**关键词**：vinyl（黑胶唱片——Jordan的"音乐收藏"）；shatters（粉碎——"破碎"的声音）；music without someone（没有分享者的音乐——"音乐没有Lilith就没有意义"）
+**关键词**：shellac（虫胶唱片）；yard sales（旧货甩卖）；summon her（召唤她）；music without someone（没有分享者的音乐——"音乐没有Lilith就没有意义"）
+
+**为什么这样写**：这是Chapman对"空洞"主题的核心表达——Jordan的音乐收藏原本是用来与Lilith共享的，现在失去了Lilith，这些音乐就只是"噪音"。
+
+---
+
+> **原句 6：** "I grab a random record—Charlie Parker—and unsheathe the vinyl before flinging it against the wall. The record shatters with a satisfying crunch."
+
+**中文理解**：这是Jordan在召唤失败后的愤怒爆发——他开始毁掉自己所有的黑胶唱片收藏（Charlie Parker等）。这是关于"毁灭"的核心场景。Unsheathe the vinyl（抽出唱片）这个动作暗含了"拔剑"的意象——Charlie Parker的唱片成了武器。
+
+**句子结构**：动作描写（I grab... / unsheathe... / flinging... / shatters...），整体形成一种"愤怒和破坏"的语气。
+
+**关键词**：Charlie Parker（萨克斯大师——爵士乐传奇）；unsheathe（抽出——"拔剑"的意象）；shatters（粉碎——"破碎"的声音）；satisfying crunch（令人满足的脆响——破坏的快感）
 
 **为什么这样写**：这是Chapman对"愤怒爆发"的核心表达——Jordan毁掉了他珍视的音乐收藏。这是一个关于"空洞"主题的延伸：所有东西都因为没有Lilith而变得"空洞"。
 

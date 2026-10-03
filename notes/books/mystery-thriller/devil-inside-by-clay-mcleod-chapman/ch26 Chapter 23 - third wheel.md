@@ -31,13 +31,13 @@ chapter: ch26
 
 ---
 
-> **原句 2：** "I had to recognize there's two of them. The demon within, and the host."
+> **原句 2：** "I say she and I mean them. There's two of them. Lilith within—and Cara, her host."
 
-**中文理解**：这是Jordan在解释他为什么想和Cara说话时的内心独白——"我必须认识到他们有两个。内在的恶魔，和宿主。"这是关于"三人关系"的核心表达。
+**中文理解**：这是Jordan在解释他为什么想和Cara说话时的内心独白——"我说'她'但我的意思是'他们'。他们有两个。Lilith内在的——和Cara，她的宿主。"这是关于"三人关系"的核心表达：Jordan意识到他在和两个意识说话。
 
-**句子结构**：并列陈述句（The demon within, and the host），整体形成一种"认知升级"的语气。
+**句子结构**：并列陈述句（There's two of them. Lilith within—and Cara, her host），整体形成一种"认知升级"的语气。
 
-**关键词**：two of them（两个——不只是Lilith，还有Cara）；demon within（内在的恶魔——Lilith）；host（宿主——Cara）；supernatural ménage à trois（超自然的三人关系——Jordan的描述）
+**关键词**：two of them（两个——不只是Lilith，还有Cara）；Lilith within（内在的Lilith——恶魔）；host（宿主——Cara）；superimposed（叠加——两个意识在同一具身体里重叠的目光）
 
 **为什么这样写**：这是Chapman对"三人关系"主题的核心表达——Jordan意识到这是"三人关系"，不只是他和Lilith的"约会"。
 

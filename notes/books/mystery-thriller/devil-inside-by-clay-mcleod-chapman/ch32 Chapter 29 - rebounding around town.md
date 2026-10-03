@@ -31,7 +31,7 @@ chapter: ch32
 
 ---
 
-> **原句 2：** "Want some?" / "Sure you don't want a bite?"
+> **原句 2：** "Sure you don't want a bite?"
 
 **中文理解**：这是吃鸟的恶魔小女孩对Jordan说的话——"想要吗？" / "你确定不想咬一口？"这是关于"诱惑"的核心场景：恶魔小女孩在诱惑Jordan"分享"她的食物。
 
@@ -55,13 +55,13 @@ chapter: ch32
 
 ---
 
-> **原句 4：** "There's blood in the water now. Yours, Jordan . . . Bottoms up."
+> **原句 4：** "There's blood in the water now," she says. " Yours , Jordan . . . Bottoms up."
 
-**中文理解**：这是酒吧里的女恶魔对Jordan说的话——"现在水里有血了。你的血，Jordan……干杯。"这是关于"鲨鱼"隐喻的回归：Jordan的血引来了所有恶魔。
+**中文理解**：这是酒吧里的女恶魔对Jordan说的话——"现在水里有血了，"她说。"你的血，Jordan……干杯。"这是关于"鲨鱼"隐喻的回归：Jordan的血引来了所有恶魔。
 
-**句子结构**：敬酒词（Bottoms up），整体形成一种"威胁和诱惑"的语气。
+**句子结构**：敬酒词（"There's blood in the water now," she says. / "Yours, Jordan... Bottoms up."），整体形成一种"威胁和诱惑"的语气。
 
-**关键词**：blood in the water（血在水里——之前ch30 Lilith的话）；Bottoms up（干杯——"喝"的双关）；drink（喝——恶魔们要Jordan"喝"）
+**关键词**：blood in the water（血在水里——之前ch30 Lilith的话）；Bottoms up（干杯——"喝"的双关）；she says（她说——女恶魔的"引用"）
 
 **为什么这样写**：这是Chapman对"血在水里"主题的回归——恶魔们用Jordan的"血"来"干杯"。这是一个关于"献祭"的隐喻。
 

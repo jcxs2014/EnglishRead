@@ -67,25 +67,25 @@ chapter: ch21
 
 ---
 
-> **原句 5：** "We swear." / "When we're ready. When we're not afraid."
+> **原句 5：** "We swear."
 
-**中文理解**：这是Lilith在Jordan要求看她"真实形态"时的回答——"我们发誓。"/"当我们准备好了的时候。当我们不再害怕的时候。"这是Lilith的"脆弱"时刻——她承认她"害怕"展示她的真实形态。这是一个关于"恐惧"的隐喻：即使是"恶魔"也有"恐惧"。
+**中文理解**：这是Lilith在Jordan要求看她"真实形态"时的回答——"我们发誓。"这是Lilith的"承诺"时刻——她发誓会向Jordan展示她的真实形态。这是一个关于"信任"的隐喻：Lilith需要Jordan的信任才能"打开"自己。
 
-**句子结构**：平行结构（When we're ready / When we're not afraid），整体形成一种"脆弱的承诺"的语气。
+**句子结构**：简短祈使句（We swear.），整体形成一种"承诺"的语气。
 
-**关键词**：We swear（我们发誓——Lilith的"承诺"）；not afraid（不再害怕——Lilith承认她"害怕"）；trust（信任——Jordan需要"信任"Lilith才能看到她的真实形态）
+**关键词**：We swear（我们发誓——Lilith的"承诺"）；trust（信任——Jordan需要"信任"Lilith才能看到她的真实形态）
 
-**为什么这样写**：这是Chapman对"恐惧"主题的核心表达——Lilith也有"恐惧"。这是一个关于"脆弱"的隐喻：即使是"恶魔"也会"害怕"。这与之前的"关系vs自我"主题形成呼应：Lilith害怕"展示真实形态"会导致Jordan的"拒绝"。
+**为什么这样写**：这是Chapman对"信任"主题的核心表达——Lilith需要Jordan的信任才能展示真实形态。这是一个关于"脆弱"的隐喻：即使是"恶魔"也需要"信任"才能打开自己。
 
 ---
 
-> **原句 6：** "We have something for you." / "A surprise . . ."
+> **原句 6：** "We have something for you," we whisper. We love giving gifts. "Something special."
 
-**中文理解**：这是Lilith在章节末尾对Jordan说的话——"我们有东西要给你。"/"一个惊喜……"这是全章的悬念结尾——Lilith要送给Jordan什么？这个"惊喜"是好的还是坏的？这是Chapman对"悬念"主题的运用。
+**中文理解**：这是Lilith在章节末尾对Jordan说的话——"我们有东西要给你，"我们低声说。我们喜欢送礼物。"特别的东西。"这是全章的悬念结尾——Lilith要送给Jordan什么？这个"惊喜"是好的还是坏的？这是Chapman对"悬念"主题的运用。
 
-**句子结构**：简单陈述句（We have something for you / A surprise），整体形成一种"神秘的承诺"的语气。
+**句子结构**：陈述句 + 插入语 + 省略句（We have something for you... / We love giving gifts. / Something special），整体形成一种"神秘的承诺"的语气。
 
-**关键词**：gift（礼物——Lilith"喜欢送礼物"）；surprise（惊喜——悬念）；Something special（特别的东西——Lilith的"承诺"）
+**关键词**：We love giving gifts（我们喜欢送礼物——Lilith的"本性"）；Something special（特别的东西——Lilith的"承诺"）；surprise（惊喜——悬念）
 
 **为什么这样写**：这是Chapman对"悬念"主题的运用——这个"惊喜"是什么？这是Jordan与Lilith关系的"下一步"的悬念。这个"惊喜"可能与"附身"有关，也可能与"展示真实形态"有关。
 
