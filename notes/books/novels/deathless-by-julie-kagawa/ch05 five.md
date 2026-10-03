@@ -24,7 +24,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 这句与结尾他"从窗户离开而不是走门"形成闭环：他来与走都用同一扇窗，中间那段对话才是唯一用过门的部分。
 
-> **原句 2:** "You have every right to be angry,” he said at last. “I should have told you, long before we reached Irrikah. If I had, that first meeting with the queen wouldn’t have been such a shock.”"
+> **原句 2:** "“You have every right to be angry,” he said at last. “I should have told you, long before we reached Irrikah. If I had, that first meeting with the queen wouldn’t have been such a shock.”"
 
 **中文理解：** "'你完全有权利生气，'他终于说。'我早该在抵达 Irrikah 之前就告诉你。'"
 
