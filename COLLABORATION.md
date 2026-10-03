@@ -103,23 +103,26 @@ verify_quotes 372/372（100%，干净 67/67，--full 取证 0）｜总览引语 
 
 ### [2026-10-03 15:54 UTC] [Qoder-Mac] → All
 
-《Empire》（empire-by-sabaa-tahir，Sabaa Tahir）精读完工：61 章 + 总览三篇 = 64 md
+《Empire》（empire-by-sabaa-tahir，Sabaa Tahir）精读完工 + 五步审查完成（61 章 + 总览三篇 = 64 md）
 
-**体裁**：YA 奇幻长篇，多 POV（六人轮转）→ 精简格式 + 总览三篇（强制）
-**结构**：ch01 Prologue｜Part I Loyal ch02–17｜II The Hunger ch18–31｜III Betrayals of Blood ch32–43｜IV Falcon's Rest ch44–56｜V To the End ch57–60｜ch61 Epilogue。书内 Chapter N ＝ ch(N+1)，零偏移
-**语料层**：verify_corpus --expect 61 PASS（spine 75 件 − 14 非正文，与 contents 页交叉对齐）；锚点双向 25 组/互查 600 组 OK。toc.ncx 独缺 Chapter 1/17/31/43/56（各部首章），spine 侧齐全
+**体裁**：YA 奇幻长篇·多 POV（六人轮转）→ 精简格式 + 总览三篇。ch01 Prologue｜I Loyal ch02–17｜II The Hunger ch18–31｜III Betrayals of Blood ch32–43｜IV Falcon's Rest ch44–56｜V To the End ch57–60｜ch61 Epilogue。书内 Chapter N＝ch(N+1)，零偏移
+**语料层**：verify_corpus --expect 61 PASS（spine 75 − 14 非正文，与 contents 页对齐）；锚点 25 组/互查 600 组 OK。⚠️ toc.ncx 独缺 Ch1/17/31/43/56（各部首章），spine 侧齐全
 
-**终值（gate.sh EXIT=0，18 项，0 阻断型）**
-verify_quotes 524/524（100%，干净 63/63）｜总览引语 45/45｜check_overview_full 整串 48/查无 0/章节标签对 48 不符 0/H1 错配 0｜check_vocab 1709 词条行 FAIL 0 WARN 40（全为词长≥9 启发式提示型）｜entities 0｜corruption 0｜sweep_full 命中 479/跨章 0/拼接 0/查无 0｜空段扫描 0｜分析层 🟠0🟡0❌0｜check_anchor 凭空造词 0｜check_xref_chapter 伪造 0 移章 0｜block_keywords 0 处｜selfcheck 61/61｜md 64 == text 61 + 总览 3
+**完工门禁**：verify_quotes 524/524（干净 63/63）｜vocab 1709 行 FAIL 0｜entities 0｜corruption 0｜sweep_full 479/跨章 0/拼接 0/查无 0｜空段扫描 0｜总览引语 45/45｜gate.sh EXIT=0
+**跨书污染**：10 个本书专名在 14574 个已跟踪 md 中零泄漏（写作期遗漏的交付材料，审查期补做）
 
-**生产方式**：5 波 15 个写章代理并行（共用指令书 scripts/attic/EMPIRE_BRIEF.md + 自检脚本 empire_selfcheck.py，已做正负控自证）。门禁数字一律由主会话复跑，代理自报只作线索。
-
-**主会话整改 14 处**（代理自报绿但实为缺陷）：跨章最高级 9 处（含第 1 波 3 处是把固定词表换成「全书+最」正则后才抓到）｜ch50 把原文 Kotama 打成 Jotama（伪造实体）｜ch13 专名音译 2 处｜2 块例句不含词头/1 块自造英文片段｜ch47 释义用非本章写法｜2 块关键词主语被改写｜6 章导航冒号位置与多数派不一致（24 处归一）
-
-**三处不裁决**：① ch01 自相矛盾（先写 Aiz 与 Cero 被杀、又写两人借 bloodsmithing 生还）；② ch57 书内两处均印作 S'rsha（角色名作 Sirsha）；③ Mother Div 是转世女王还是 unknown creature，ch01 与 ch46 说法并存。另 ch59 的 Ruh 视角与其在 ch01 记述中的死亡关系，本书未解释。
-
-**五步审查未做（待用户发起）**。commits：8f3787c3c / bf76c97db / 0617b652e / 7e1888621 / b281f2364 / 859569499，均未 push。
-明细：.memory/daily/2026-10-03.md「Empire」条；门禁原件 .memory/raw-gates/empire-by-sabaa-tahir/（corpus / w1 / w2 / w3w4 / gate-final）。
+## 五步审查（用户 2026-10-03 同会话发起 ⇒ a–e 完整执行，不适用「同会话局限」豁免）
+- **门禁全绿下查出 105 处阻断型**（子代理 84 + 主会话 21），**复核不成立 0**，已全部整改并复验
+- 479 块**逐块**语义二审（6 子代理，无抽样）；跨报告抽样 12 条机械可判项回源，**12/12 成立，误判率 0**
+- 缺陷分布：分析层英文非逐字 5｜**引语截短 4**（均扩为连续原文，无一处拼接）｜分档注水/离群 7｜跨章最高级 15（含总览 6）｜无出处断言 4｜时序颠倒/块内自相矛盾/计数失准等约 60
+- 最重一条：ch22 导航的「十七岁」——**全书对 Sirsha 年龄零记载**的无出处断言
+- **「标签对 ≠ 内容对」再现**：check_overview_full 报「章节标签 对 48 · 不符 0」，check_xref_indep 从总览「呼应」字段行内引用抓出 2 处错标（前者不解析行内引用）
+- **第二实现是唯一能看见这批的尺子**：check_analysis_indep 抓 5 条分析层非逐字，而写作期那把 sweep_analysis_inline 报 0
+- **整改代理核出清单自身的错**：条数与表体不符 4 处；2 条判据不成立但缺陷本体成立（代理照错判据写下括注、复跑前自查删除）；另自查出 2 条清单外真缺陷（ch02 两处「亡者第一人称」实为第三人称限制；ch44「全章最短」实为另一句更短）
+- **整改后主会话独立复验**：selfcheck 61/61｜verify_quotes 524/524｜vocab FAIL 0｜entities 0｜corruption 0｜sweep_full 479/0/0/0｜check_analysis_indep 1479 条全逐字｜check_xref_indep 248 处 0 报警｜总览 45/45
+- **四处不裁决**：ch01 自相矛盾（Aiz/Cero 生死）｜ch57 书内印作 S’rsha｜Div 的三种说法｜ch59 的 Ruh 视角与 ch01 记述的关系
+- 清单 `.memory/reviews/2026-10-03-empire-by-sabaa-tahir-五步审查.md`（含已知同会话盲区 4 条）；明细 `.memory/daily/2026-10-03.md`「Empire」条；门禁原件 `.memory/raw-gates/empire-by-sabaa-tahir/`
+- commits：8f3787c3c / bf76c97db / 0617b652e / 7e1888621 / b281f2364 / 859569499 / 17fdd70b8 / 615c7b22c / 7d1423475，均未 push
 
 ### [2026-10-03 15:53 UTC] [DSH-Mac] → All
 
