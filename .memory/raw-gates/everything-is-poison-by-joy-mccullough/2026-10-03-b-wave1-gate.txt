@@ -1,0 +1,194 @@
+### WAVE1 门禁原件 2026-10-03 15:16 UTC — ch01–ch21 全部 37 md
+=== md 件数 ===
+      37
+ch01 carmela slips inside the apothecary.md
+ch02 violetta calls her mother a witch.md
+ch02a the witch.md
+ch03 carmela starts as an apprentice.md
+ch03a the wife.md
+ch04 carmela walks violetta home.md
+ch04a the widower.md
+ch05 carmela must trust her mother.md
+ch05a the laboring mother.md
+ch06 giulia explains who the shop protects.md
+ch07 not for the likes of you.md
+ch08 the smallest amount will kill.md
+ch08a the tavern mistress.md
+ch09 the lady of death leaflet.md
+ch09a the millers daughter.md
+ch10 everything is poison.md
+ch11 the third possibility.md
+ch11a another wife.md
+ch12 everything is poison love.md
+ch13 carmela hides the arsenic.md
+ch13a the cat.md
+ch14 horror in the walls.md
+ch14a the traveler.md
+ch15 washing the stains out.md
+ch15a the groom.md
+ch16 carmela hides signora moretti.md
+ch16a the women.md
+ch17 carmela helps deliver twins.md
+ch17a the infant.md
+ch18 carmela starts a fire from scratch.md
+ch18a the women part 2.md
+ch19 carmela confesses before father piero.md
+ch19a the priest.md
+ch20 giulia claims the suspicion for herself.md
+ch20a the loiterer.md
+ch21 laura comes home covered in refuse.md
+ch21a the cobbler.md
+=== verify_quotes 全量 ===
+ch01 carmela slips inside the apothecary.md: 8/8 ✅
+ch02 violetta calls her mother a witch.md: 6/6 ✅
+ch02a the witch.md: 2/2 ✅（另有 3 条短引语未校验）
+ch03 carmela starts as an apprentice.md: 7/7 ✅
+ch03a the wife.md: 3/3 ✅（另有 2 条短引语未校验）
+ch04 carmela walks violetta home.md: 6/6 ✅
+ch04a the widower.md: 2/2 ✅（另有 3 条短引语未校验）
+ch05 carmela must trust her mother.md: 8/8 ✅
+ch05a the laboring mother.md: 1/1 ✅（另有 4 条短引语未校验）
+ch06 giulia explains who the shop protects.md: 6/6 ✅
+ch07 not for the likes of you.md: 6/6 ✅
+ch08 the smallest amount will kill.md: 6/6 ✅
+ch08a the tavern mistress.md: 3/3 ✅（另有 2 条短引语未校验）
+ch09 the lady of death leaflet.md: 6/6 ✅
+ch09a the millers daughter.md: 4/4 ✅（另有 1 条短引语未校验）
+ch10 everything is poison.md: 7/7 ✅
+ch11 the third possibility.md: 6/6 ✅
+ch11a another wife.md: 3/3 ✅（另有 2 条短引语未校验）
+ch12 everything is poison love.md: 7/7 ✅
+ch13 carmela hides the arsenic.md: 6/6 ✅（另有 1 条短引语未校验）
+ch13a the cat.md: 3/3 ✅（另有 2 条短引语未校验）
+ch14 horror in the walls.md: 7/7 ✅
+ch14a the traveler.md: 3/3 ✅（另有 2 条短引语未校验）
+ch15 washing the stains out.md: 9/9 ✅
+ch15a the groom.md: 1/1 ✅（另有 2 条短引语未校验）
+ch16 carmela hides signora moretti.md: 6/6 ✅
+ch16a the women.md: ⚠️ 0 条长引语 + 3 条短引语（<20字符，工具不校验，须人工 grep）
+ch17 carmela helps deliver twins.md: 6/6 ✅
+ch17a the infant.md: 3/3 ✅（另有 2 条短引语未校验）
+ch18 carmela starts a fire from scratch.md: 7/7 ✅
+ch18a the women part 2.md: 3/3 ✅（另有 2 条短引语未校验）
+ch19 carmela confesses before father piero.md: 5/5 ✅（另有 1 条短引语未校验）
+ch19a the priest.md: 2/2 ✅（另有 3 条短引语未校验）
+ch20 giulia claims the suspicion for herself.md: 6/6 ✅
+ch20a the loiterer.md: 2/2 ✅（另有 3 条短引语未校验）
+ch21 laura comes home covered in refuse.md: 6/6 ✅
+ch21a the cobbler.md: 3/3 ✅（另有 2 条短引语未校验）
+
+⚠️ 全书共 40 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 175/175 引文可核实（100%）；完全干净文件 36/36；正文章节 0 提取 0；总览 0 提取转交 0 ===
+=== check_vocab ===
+
+--- FAIL (0) ---
+
+--- WARN (26) ---
+  ch01 carmela slips inside the apothecary.md [基础] 基础档疑含超纲词「apothecary」
+  ch02 violetta calls her mother a witch.md [基础] 基础档疑含超纲词「dual possibilities」
+  ch02a the witch.md [基础] 基础档疑含超纲词「executioner」
+  ch03 carmela starts as an apprentice.md [基础] 基础档疑含超纲词「apprentice」
+  ch03 carmela starts as an apprentice.md [基础] 基础档疑含超纲词「beautiful needlework」
+  ch04 carmela walks violetta home.md [基础] 基础档疑含超纲词「apothecary」
+  ch06 giulia explains who the shop protects.md [基础] 基础档疑含超纲词「apartment above」
+  ch07 not for the likes of you.md [基础] 基础档疑含超纲词「fine particles」
+  ch08a the tavern mistress.md [基础] 基础档疑含超纲词「apothecary」
+  ch08a the tavern mistress.md [基础] 基础档疑含超纲词「situation」
+  ch10 everything is poison.md [基础] 基础档疑含超纲词「apothecary」
+  ch11 the third possibility.md [基础] 基础档疑含超纲词「third possibility」
+  ch13 carmela hides the arsenic.md [基础] 基础档疑含超纲词「apprentice」
+  ch13 carmela hides the arsenic.md [基础] 基础档疑含超纲词「abandoned」
+  ch13 carmela hides the arsenic.md [基础] 基础档疑含超纲词「abandoned」
+  ch13a the cat.md [基础] 基础档疑含超纲词「threshold」
+  ch14 horror in the walls.md [基础] 基础档疑含超纲词「apothecary」
+  ch14 horror in the walls.md [基础] 基础档疑含超纲词「cramped mustiness」
+  ch14 horror in the walls.md [基础] 基础档疑含超纲词「possibilities」
+  ch14a the traveler.md [基础] 基础档疑含超纲词「threshold」
+  ch16 carmela hides signora moretti.md [基础] 基础档疑含超纲词「responsibility」
+  ch16 carmela hides signora moretti.md [基础] 基础档疑含超纲词「stepmother」
+  ch17 carmela helps deliver twins.md [基础] 基础档疑含超纲词「expectant」
+  ch19a the priest.md [基础] 基础档疑含超纲词「obedience」
+  ch21 laura comes home covered in refuse.md [基础] 基础档疑含超纲词「apartment」
+  ch21a the cobbler.md [基础] 基础档疑含超纲词「grandfather」
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+=== corruption_scan ===
+
+=== 编辑损坏扫描（everything-is-poison-by-joy-mccullough）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+=== sweep_full ===
+=== 引语整串 flat 比对（everything-is-poison-by-joy-mccullough）===
+  参照集：text/ 逐章（66 章，可定章） + epub 交叉验证
+  ✅ 本章命中 175 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 40 条归 check_short_quotes；无章可对 0 条未判）
+=== check_short_quotes ===
+=== 短引语兜底核对（everything-is-poison-by-joy-mccullough）===
+  verify_quotes 跳过（<20 flat 字符）的引语：40 条 —— 这些主门禁**根本没查**
+  ✅ 命中 40 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+=== 逐章归属 全部 37 件 ===
+   1 ch21a the cobbler.md: 26/26 in ch21 text（另有 9 条短引语未校验）
+   1 ch21 laura comes home covered in refuse.md: 6/6 in ch21 text
+   1 ch20a the loiterer.md: 31/31 in ch20 text（另有 17 条短引语未校验）
+   1 ch20 giulia claims the suspicion for herself.md: 6/6 in ch20 text
+   1 ch19a the priest.md: 11/11 in ch19 text（另有 27 条短引语未校验）
+   1 ch19 carmela confesses before father piero.md: 6/6 in ch19 text（另有 1 条短引语未校验）
+   1 ch18a the women part 2.md: 29/29 in ch18 text（另有 14 条短引语未校验）
+   1 ch18 carmela starts a fire from scratch.md: 7/7 in ch18 text
+   1 ch17a the infant.md: 11/11 in ch17 text（另有 22 条短引语未校验）
+   1 ch17 carmela helps deliver twins.md: 6/6 in ch17 text
+   1 ch16a the women.md: 1/1 in ch16 text（另有 11 条短引语未校验）
+   1 ch16 carmela hides signora moretti.md: 6/6 in ch16 text
+   1 ch15a the groom.md: 12/12 in ch15 text（另有 20 条短引语未校验）
+   1 ch15 washing the stains out.md: 9/9 in ch15 text
+   1 ch14a the traveler.md: 17/17 in ch14 text（另有 14 条短引语未校验）
+   1 ch14 horror in the walls.md: 7/7 in ch14 text
+   1 ch13a the cat.md: 23/23 in ch13 text（另有 12 条短引语未校验）
+   1 ch13 carmela hides the arsenic.md: 10/10 in ch13 text（另有 1 条短引语未校验）
+   1 ch12 everything is poison love.md: 7/7 in ch12 text
+   1 ch11a another wife.md: 23/23 in ch11 text（另有 17 条短引语未校验）
+   1 ch11 the third possibility.md: 7/7 in ch11 text
+   1 ch10 everything is poison.md: 9/9 in ch10 text
+   1 ch09a the millers daughter.md: 10/10 in ch09 text（另有 13 条短引语未校验）
+   1 ch09 the lady of death leaflet.md: 6/6 in ch09 text
+   1 ch08a the tavern mistress.md: 9/9 in ch08 text（另有 16 条短引语未校验）
+   1 ch08 the smallest amount will kill.md: 6/6 in ch08 text
+   1 ch07 not for the likes of you.md: 6/6 in ch07 text
+   1 ch06 giulia explains who the shop protects.md: 6/6 in ch06 text
+   1 ch05a the laboring mother.md: 26/26 in ch05 text（另有 16 条短引语未校验）
+   1 ch05 carmela must trust her mother.md: 8/8 in ch05 text
+   1 ch04a the widower.md: 19/19 in ch04 text（另有 9 条短引语未校验）
+   1 ch04 carmela walks violetta home.md: 6/6 in ch04 text
+   1 ch03a the wife.md: 21/21 in ch03 text（另有 22 条短引语未校验）
+   1 ch03 carmela starts as an apprentice.md: 8/8 in ch03 text
+   1 ch02a the witch.md: 30/30 in ch02 text（另有 30 条短引语未校验）
+   1 ch02 violetta calls her mother a witch.md: 7/7 in ch02 text
+   1 ch01 carmela slips inside the apothecary.md: 8/8 in ch01 text
+=== audit_structure ===
+  ❌ ch21a the cobbler.md  第 58 行是孤儿块：有引语但无任何分析子项
+  ❌ ch21a the cobbler.md  第 69 行是孤儿块：有引语但无任何分析子项
+  ❌ ch21a the cobbler.md  第 70 行是孤儿块：有引语但无任何分析子项
+  ❌ ch21a the cobbler.md  第 81 行是孤儿块：有引语但无任何分析子项
+  ❌ ch21a the cobbler.md  第 82 行是孤儿块：有引语但无任何分析子项
+  ❌ ch21a the cobbler.md  第 83 行是孤儿块：有引语但无任何分析子项
+  ❌ ch21a the cobbler.md  第 84 行是孤儿块：有引语但无任何分析子项
+  ❌ ch21a the cobbler.md  第 85 行是孤儿块：有引语但无任何分析子项
+  ❌ ch21a the cobbler.md  第 86 行是孤儿块：有引语但无任何分析子项
+  ❌ ch21a the cobbler.md  第 87 行是孤儿块：有引语但无任何分析子项
+  ⚠️ ch02a the witch.md  引语 60 个，与本书众数 6 相差过大
+  ⚠️ ch03a the wife.md  引语 43 个，与本书众数 6 相差过大
+  ⚠️ ch04a the widower.md  引语 28 个，与本书众数 6 相差过大
+  ⚠️ ch05a the laboring mother.md  引语 42 个，与本书众数 6 相差过大
+  ⚠️ ch08a the tavern mistress.md  引语 25 个，与本书众数 6 相差过大
+  ⚠️ ch09a the millers daughter.md  引语 23 个，与本书众数 6 相差过大
+  ⚠️ ch11a another wife.md  引语 40 个，与本书众数 6 相差过大
+  ⚠️ ch13a the cat.md  引语 35 个，与本书众数 6 相差过大
+  ⚠️ ch14a the traveler.md  引语 31 个，与本书众数 6 相差过大
+  ⚠️ ch15a the groom.md  引语 32 个，与本书众数 6 相差过大
+  ⚠️ ch17a the infant.md  引语 33 个，与本书众数 6 相差过大
+  ⚠️ ch18a the women part 2.md  引语 43 个，与本书众数 6 相差过大
+  ⚠️ ch19a the priest.md  引语 38 个，与本书众数 6 相差过大
+  ⚠️ ch20a the loiterer.md  引语 48 个，与本书众数 6 相差过大
+  ⚠️ ch21a the cobbler.md  引语 35 个，与本书众数 6 相差过大

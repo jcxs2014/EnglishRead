@@ -54,7 +54,7 @@ try:
 except subprocess.CalledProcessError:
     if not str(ch).isdigit():
         print(f"❓ 章号 {ch!r} 非法"); sys.exit(2)
-    print(f"❓ ch{ch} 取不到候选集——先查 text/ch{int(ch):02d}_*.txt 是否存在、cwd 是否在仓库根")
+    print(f"❓ ch{ch} 取不到候选集——先查 text/ch{ch}_*.txt 是否存在、cwd 是否在仓库根")
     sys.exit(2)
 if not out.strip():
     print("❓ 候选集为空——先怀疑 cwd 是否在仓库根、--ch 章号是否越界"); sys.exit(2)
@@ -82,7 +82,7 @@ import sys as _sys
 _sys.path.insert(0, str(Path(__file__).resolve().parent))
 from chapter_text_path import require_chapter_text
 flat = re.sub(r"[^a-z0-9]", "",
-              Path(require_chapter_text(str(md.parent), int(ch))).read_text(encoding="utf-8").lower())
+              Path(require_chapter_text(str(md.parent), ch)).read_text(encoding="utf-8").lower())
 cand = {h: ex for _, h, ex in rows}
 errors = []
 for head, gloss in glosses.items():

@@ -30,7 +30,7 @@ def load_chapter(book_dir: str, ch: str) -> str:
     import sys as _sys
     _sys.path.insert(0, str(Path(__file__).resolve().parent))
     from chapter_text_path import find_chapter_text
-    _p = find_chapter_text(book_dir, int(ch))
+    _p = find_chapter_text(book_dir, ch)  # 传原串：后缀章号 '2a' 也须能定位 ch02a_*.txt
     if _p:
         return strip_running_head(Path(_p).read_text(encoding="utf-8"))
     sys.exit(f"expected one text/ch<NN>* for ch{ch} (分隔符 _ . 空格均支持), got 0 in {tdir}")

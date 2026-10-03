@@ -135,7 +135,11 @@ def pick_sentence(sents, pos, src, maxlen=140):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('book_dir')
-    ap.add_argument('--ch', type=int, required=True)
+    # ⚠️ type=str：本库有 `ch02a` 型后缀章号（韵文/插叙节挂在上一章后面）。
+    # type=int 会让这类章**根本取不到候选集**，写作侧只能退化成「凭印象手写词表」——
+    # 而那正是缺陷率最高的老路（AGENTS 第 8 条 8.2 禁令 1a）。章号串交给
+    # chapter_text_path.split_chapter_key 拆「数字 + 后缀字母」。
+    ap.add_argument('--ch', type=str, required=True)
     ap.add_argument('--min-len', type=int, default=8)
     ap.add_argument('--max-sent', type=int, default=140)
     ap.add_argument('--words-only', action='store_true', help='只列词，不带例句/表格')
