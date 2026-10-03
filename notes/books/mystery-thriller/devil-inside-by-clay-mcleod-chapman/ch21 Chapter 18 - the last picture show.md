@@ -49,7 +49,7 @@ chapter: ch21
 
 **句子结构**：简单问答（Did you miss me? / Yes），整体形成一种"情感坦白"的语气。
 
-**关键词**：miss（想念——Jordan的"情感依赖"）；needed（需要——Jordan在ch20说过"I need Lilith"）；Afraid（恐惧——Lilith感受到Jordan的恐惧）
+**关键词**：miss（想念——Jordan的"情感依赖"）；needed（需要——Jordan在本章说过"I need Lilith"）；Afraid（恐惧——Lilith感受到Jordan的恐惧）
 
 **为什么这样写**：这是Chapman对"依赖"主题的核心表达——Jordan的"想念"不是"爱"，而是"需要"。这是一个关于"上瘾"的隐喻：Jordan对Lilith的"需要"就像对毒品的"需要"。
 

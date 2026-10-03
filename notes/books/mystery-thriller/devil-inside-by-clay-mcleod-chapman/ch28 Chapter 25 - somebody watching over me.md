@@ -12,8 +12,8 @@ chapter: ch28
 - **POV 与叙述者**：第三人称，Lilith视角
 - **核心人物**：Lilith（恶魔）；Jordan（骑手）；Cassandra（书店店员宿主）
 - **本章场景**：街头 → 咖啡店 → 旧书店
-- **本章主题**：Lilith在"离开"Jordan后的身份危机；Jordan在书店寻找关于"附身"的书；Paradise Lost的Milton引语；Jordan与Lilith的"重逢"
-- **一句话概括**：Lilith在离开Jordan后经历了身份危机，在街头游荡并跟随Jordan进入一家旧书店，Jordan正在寻找关于"恶魔附身"的书，Lilith以书店店员的身份出现并送给他一本Paradise Lost，朗读了关于"我们是一体"的Milton诗句后Jordan终于认出了她。
+- **本章主题**：Lilith在"离开"Jordan后的身份危机；Jordan在书店寻找关于"附身"的书；Paradise Lost引语；Jordan与Lilith的"重逢"
+- **一句话概括**：Lilith在离开Jordan后经历了身份危机，在街头游荡并跟随Jordan进入一家旧书店，Jordan正在寻找关于"恶魔附身"的书，Lilith以书店店员的身份出现并送给他一本Paradise Lost，朗读了关于"我们是一体"的诗句后Jordan终于认出了她。
 
 ---
 
@@ -57,13 +57,13 @@ chapter: ch28
 
 > **原句 4：** "One flesh; to lose thee were to lose my self."
 
-**中文理解**：这是Lilith从Paradise Lost中朗读的Milton诗句——"一体；失去你就是失去我自己……"这是关于"一体"的核心理念：Lilith和Jordan是"一体"的。
+**中文理解**：这是Lilith从Paradise Lost中朗读的诗句——"一体；失去你就是失去我自己……"这是关于"一体"的核心理念：Lilith和Jordan是"一体"的。
 
-**句子结构**：诗歌引用（Paradise Lost, Book X），整体形成一种"亲密感"的语气。
+**句子结构**：诗歌引用，整体形成一种"亲密感"的语气。
 
-**关键词**：One flesh（一体——"我们是一体"）；lose thee were to lose my self（失去你就是失去我自己——"失去对方就是失去自我"）；bond of nature（自然的纽带——"本性"的纽带）
+**关键词**：One flesh（一体——"我们是一体"）；lose thee were to lose my self（失去你就是失去我自己——"失去对方就是失去自我"）
 
-**为什么这样写**：这是Chapman对"一体"主题的核心引用——Milton的Paradise Lost描述了Adam和Eve的"一体"关系，Lilith用这首诗来表达她和Jordan的"命运联系"。
+**为什么这样写**：这是Chapman对"一体"主题的核心引用——Paradise Lost中的这句诗表达了Lilith和Jordan的"命运联系"：失去对方就是失去自我。
 
 ---
 
@@ -118,4 +118,4 @@ chapter: ch28
 
 ## 一句话总结
 
-Lilith在离开Jordan后经历身份危机，在街头和咖啡店跟踪他，进入一家旧书店后发现Jordan正在寻找关于"恶魔附身"的书，Lilith以店员Cassandra的身份出现并送给他一本Paradise Lost，朗读了关于"一体"的Milton诗句，Jordan终于认出了Lilith。
+Lilith在离开Jordan后经历身份危机，在街头和咖啡店跟踪他，进入一家旧书店后发现Jordan正在寻找关于"恶魔附身"的书，Lilith以店员Cassandra的身份出现并送给他一本Paradise Lost，朗读了关于"一体"的诗句，Jordan终于认出了Lilith。
