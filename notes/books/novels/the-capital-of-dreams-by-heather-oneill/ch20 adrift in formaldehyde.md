@@ -144,7 +144,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意老妇用"他们说"作依据，与 Celeste 转述的"他们说士兵有好的"是同一种民间认知方式；两人都在用别人的话支撑自己的世界。
 
-> **原句 16:** "The Black Market was like this. It travelled in order to become richer. She wished for a moment the Black Market would just come to her. Or come for Celeste at least, and turn her into a dancer and not a monster."
+> **原句 17:** "The Black Market was like this. It travelled in order to become richer. She wished for a moment the Black Market would just come to her. Or come for Celeste at least, and turn her into a dancer and not a monster."
 
 **中文理解：** 黑市就是这样。它巡回，是为了变得更富有。有那么一刻，她希望黑市能自己来找她。或者至少来找 Celeste，把她变成一个舞者，而不是一个怪物。
 

@@ -1,0 +1,229 @@
+### gate.sh 收目录批次（ch20/ch31 结构修复 + ch31-37 导航项补齐） 2026-10-03
+
+=== verify_quotes ===
+00_情感节点.md: 12/12 ✅（另有 2 条短引语未校验）
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 22/22 ✅
+ch01 prologue.md: 10/10 ✅
+ch02 the childrens train.md: 10/10 ✅
+ch03 the house was where we left it.md: 9/9 ✅（另有 1 条短引语未校验）
+ch04 what we imagined we were.md: 10/10 ✅
+ch05 postcards from the war.md: 10/10 ✅
+ch06 a cat named napoleon.md: 10/10 ✅
+ch07 sprinkle me in icing sugar before i die.md: 9/9 ✅（另有 1 条短引语未校验）
+ch08 a philosopher has what to say.md: 10/10 ✅
+ch09 à la bottom.md: 10/10 ✅
+ch10 babes in the woods.md: 10/10 ✅
+ch11 portrait of an ugly child.md: 10/10 ✅
+ch12 a naked girl is always priceless.md: 10/10 ✅
+ch13 the mermaids who lost their voices.md: 11/11 ✅
+ch14 motherhood is a disguise.md: 13/13 ✅
+ch15 hunger glows in the dark.md: 13/13 ✅
+ch16 the wolves danced on the ceiling.md: 10/10 ✅
+ch17 a wartime lullaby.md: 12/12 ✅
+ch18 the fog wears grey stockings.md: 14/14 ✅
+ch19 the patron saint of young girls in high heels.md: 16/16 ✅
+ch20 adrift in formaldehyde.md: 18/18 ✅
+ch21 ballet for a swan with a broken neck.md: 43/43 ✅
+ch22 they came for the poets.md: 26/26 ✅
+ch23 handcuffs made of smoke.md: 25/25 ✅
+ch24 the price of tears during wartime.md: 45/45 ✅
+ch25 every sentence is a magic spell.md: 15/15 ✅
+ch26 i heard the icicles singing.md: 23/23 ✅（另有 1 条短引语未校验）
+ch27 tiptoe through the landmines.md: 66/66 ✅
+ch28 songs for city birds on clarinet.md: 19/19 ✅
+ch29 the toy soldier.md: 60/60 ✅（另有 6 条短引语未校验）
+ch30 the saboteur wears patent leather shoes.md: 52/52 ✅（另有 2 条短引语未校验）
+ch31 put a red rose in my buttonhole.md: 50/50 ✅
+ch32 pink is a state of mind.md: 16/16 ✅
+ch33 a suitcase the size of a country.md: 13/13 ✅
+ch34 an army of little beasts.md: 24/24 ✅
+ch35 the black market wore ribbons in her hair.md: 28/28 ✅
+ch36 a valentine from the capital.md: 19/19 ✅
+ch37 what came first the mother or the egg.md: 24/24 ✅
+
+⚠️ 全书共 13 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 807/807 引文可核实（100%）；完全干净文件 39/39；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== verify_quotes --full ===
+
+⚠️ 全书共 13 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 807/807 引文可核实（100%）；完全干净文件 39/39；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== check_quote_blocks ===
+=== 引语块结构对账（the-capital-of-dreams-by-heather-oneill）===
+  带前缀的 `> **原句 N:**` 行：37 个文件共 720 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== check_chapter_quotes 37 ===
+⚠️  全书共 14 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 773，命中本章 773（100%）
+✅ 全部引语均归属正确章节
+
+=== check_vocab ===
+  ch25 every sentence is a magic spell.md [基础] 基础档疑含超纲词「apartment」
+  ch26 i heard the icicles singing.md [基础] 基础档疑含超纲词「snowstorm」
+  ch26 i heard the icicles singing.md [基础] 基础档疑含超纲词「grandmother」
+  ch26 i heard the icicles singing.md [基础] 基础档疑含超纲词「wandering」
+  ch27 tiptoe through the landmines.md [基础] 基础档疑含超纲词「orphanage」
+  ch27 tiptoe through the landmines.md [基础] 基础档疑含超纲词「snowflakes」
+  ch28 songs for city birds on clarinet.md [基础] 基础档疑含超纲词「mushrooms」
+  ch29 the toy soldier.md [基础] 基础档疑含超纲词「remarried」
+  ch30 the saboteur wears patent leather shoes.md [基础] 基础档疑含超纲词「prescription」
+  ch31 put a red rose in my buttonhole.md [基础] 基础档疑含超纲词「cigarette」
+  ch31 put a red rose in my buttonhole.md [基础] 基础档疑含超纲词「underwear」
+  ch31 put a red rose in my buttonhole.md [基础] 基础档疑含超纲词「chocolate」
+  ch31 put a red rose in my buttonhole.md [基础] 基础档疑含超纲词「manifesto」
+  ch33 a suitcase the size of a country.md [基础] 基础档疑含超纲词「apartment」
+  ch33 a suitcase the size of a country.md [基础] 基础档疑含超纲词「grandmother」
+  ch34 an army of little beasts.md [基础] 基础档疑含超纲词「opportunity」
+  ch35 the black market wore ribbons in her hair.md [基础] 基础档疑含超纲词「manuscript」
+  ch35 the black market wore ribbons in her hair.md [基础] 基础档疑含超纲词「main character」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「apartment」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「undershirt」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「underwear」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「body temperature」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「stairwell」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「childhood homes」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「handwriting」
+
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== check_short_quotes ===
+=== 短引语兜底核对（the-capital-of-dreams-by-heather-oneill）===
+  verify_quotes 跳过（<20 flat 字符）的引语：36 条 —— 这些主门禁**根本没查**
+  ✅ 命中 36 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== corruption_scan ===
+
+=== 编辑损坏扫描（the-capital-of-dreams-by-heather-oneill）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== sweep_full ===
+=== 引语整串 flat 比对（the-capital-of-dreams-by-heather-oneill）===
+  参照集：text/ 逐章（37 章，可定章） + epub 交叉验证
+  ✅ 本章命中 773 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 11 条归 check_short_quotes；无章可对 0 条未判）
+
+=== sweep_analysis_inline ===
+=== 分析层行内英文逐字核查（the-capital-of-dreams-by-heather-oneill）===
+  参照集：text/（37 个提取件） + epub 交叉验证 ；扫 40 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：1411 个表格行、1199 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1288 ｜ ⚠️ 跨章 1 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1738
+  ⚠️  ch10 babes in the woods.md:79  「A Naked Girl Is Always Priceless」→ 实为 ch12
+
+=== verify_overview_quotes ===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 14/14 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 38/38 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== check_overview_full ===
+=== 总览整串核查（the-capital-of-dreams-by-heather-oneill）===
+  参照集：text/ 逐章（37 章） ｜ 总览文件 3 个
+  A 整串：命中 46 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 6
+  B 章节标签：对 36 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 10 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== 件数对账 ===
+章节 md: 37  text/: 37  总览: 3
+
+=== H1 ===
+notes/books/novels/the-capital-of-dreams-by-heather-oneill/00_情感节点.md:# 《The Capital of Dreams》情感节点
+notes/books/novels/the-capital-of-dreams-by-heather-oneill/00_概述.md:# 概述 · The Capital of Dreams（Heather O'Neill）
+notes/books/novels/the-capital-of-dreams-by-heather-oneill/00_金句精选.md:# 《The Capital of Dreams》金句精选
+
+=== gate.sh 全量（收目录）正门结论 ===
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、读者视角提示 ｜ 引语众数 10
+  ❌ 结构缺陷 62 ｜ ⚠️ 提示 15 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 14/14 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 38/38 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（the-capital-of-dreams-by-heather-oneill）===
+  参照集：text/（37 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（the-capital-of-dreams-by-heather-oneill）===
+  带前缀的 `> **原句 N:**` 行：37 个文件共 720 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+  ❌ ch31 put a red rose in my buttonhole.md 原句20: 引语跨自然段（拼接红线）
+  ❌ ch31 put a red rose in my buttonhole.md 原句21: 引语跨自然段（拼接红线）
+  ❌ ch31 put a red rose in my buttonhole.md 原句23: 引语跨自然段（拼接红线）
+  ❌ ch31 put a red rose in my buttonhole.md 原句24: 引语跨自然段（拼接红线）
+  ❌ ch31 put a red rose in my buttonhole.md 原句25: 引语跨自然段（拼接红线）
+  ❌ ch31 put a red rose in my buttonhole.md 原句31: 引语跨自然段（拼接红线）
+  ❌ ch31 put a red rose in my buttonhole.md 原句36: 引语跨自然段（拼接红线）
+  ❌ ch31 put a red rose in my buttonhole.md 原句37: 引语跨自然段（拼接红线）
+  ❌ ch31 put a red rose in my buttonhole.md 原句38: 引语跨自然段（拼接红线）
+  ❌ ch31 put a red rose in my buttonhole.md 原句39: 引语跨自然段（拼接红线）
+  ❌ ch32 pink is a state of mind.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 16（内容可能被整段复制）
+  ❌ ch32 pink is a state of mind.md: 引语块 16 个，超出言情精简格式的 3–8配额
+  ❌ ch32 pink is a state of mind.md 原句16: 引语跨自然段（拼接红线）
+  ❌ ch33 a suitcase the size of a country.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 13（内容可能被整段复制）
+  ❌ ch33 a suitcase the size of a country.md: 引语块 13 个，超出言情精简格式的 3–8配额
+  ❌ ch33 a suitcase the size of a country.md 原句2: 引语跨自然段（拼接红线）
+  ❌ ch33 a suitcase the size of a country.md 原句4: 引语跨自然段（拼接红线）
+  ❌ ch33 a suitcase the size of a country.md 原句5: 引语跨自然段（拼接红线）
+  ❌ ch34 an army of little beasts.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 24（内容可能被整段复制）
+  ❌ ch34 an army of little beasts.md: 引语块 24 个，超出言情精简格式的 3–8配额
+  ❌ ch34 an army of little beasts.md 原句5: 引语跨自然段（拼接红线）
+  ❌ ch34 an army of little beasts.md 原句13: 引语跨自然段（拼接红线）
+  ❌ ch34 an army of little beasts.md 原句16: 引语跨自然段（拼接红线）
+  ❌ ch35 the black market wore ribbons in her hair.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 28（内容可能被整段复制）
+  ❌ ch35 the black market wore ribbons in her hair.md: 引语块 28 个，超出言情精简格式的 3–8配额
+  ❌ ch35 the black market wore ribbons in her hair.md 原句23: 引语跨自然段（拼接红线）
+  ❌ ch35 the black market wore ribbons in her hair.md 原句28: 引语跨自然段（拼接红线）
+  ❌ ch36 a valentine from the capital.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 19（内容可能被整段复制）
+  ❌ ch36 a valentine from the capital.md: 引语块 19 个，超出言情精简格式的 3–8配额
+  ❌ ch37 what came first the mother or the egg.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 23（内容可能被整段复制）
+  ❌ ch37 what came first the mother or the egg.md: 引语块 23 个，超出言情精简格式的 3–8配额
+=== 引语块覆盖度：37 个 md，问题 117 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
+
+=== 判档说明 ===
+阻断型（已全部修复）：ch20 编号撞车 / ch37 跨自然段引语 / ch31 头部裸英文泄漏 / ch31 中文理解段混入英文引语 / ch31-ch37 导航项仅 1 条。
+  修后：check_quote_blocks ✅ 前缀完整·编号连续无撞车·无孤儿分析·无自查泄漏；空段扫描 0 处；verify_quotes 807/807（100%）干净 39/39。
+假红型（不改文）：
+  ⑪ audit_structure 62 条「孤儿块」——scripts/audit_structure.py:57-59 RE_QUOTE_BARE 把每个 `>` 续行当独立引语块，
+     即多段引语（同块内空行 `>` 分隔）的每一段都被计数。逐条脚本验证：多段引语续行（假红）62 ｜ 真孤儿 0。
+  ⑱ check_block_keywords 117 条——①「引语跨自然段（拼接红线）」同源同一误判；该脚本 docstring 自述：
+     「跨段拼接」这一条在本书 md 格式下结构上不可触发（`> **原句 N:**` 是单行，写不进 `\n\n`），是防御性守卫；
+     真防线是 sweep_full 的 🔶 通道（本题 0）与写作期逐块摘录。
+     ②「引语块 N 超出言情精简格式 3-8 配额」与「关键词行 0 ≠ 引语块 N」属模板不匹配：
+     本书按 ch01-ch30 确立形态写（众数 10 处/章），且本库格式无 `**关键词**：` 行。
+提示型（只记不改）：check_vocab WARN（全为「基础档疑含超纲词」）；sweep_analysis_inline ⚠️跨章 1
+  （ch10 babes in the woods.md:79「A Naked Girl Is Always Priceless」→ 实为 ch12，合法前瞻交叉引用）；
+  audit_structure ⚠️ 15（引语数与众数 10 相差过大，本书实际格式使然）。
