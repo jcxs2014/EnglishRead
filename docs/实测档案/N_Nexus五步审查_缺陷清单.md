@@ -1,6 +1,6 @@
 # 《Nexus》独立五步审查 · 缺陷清单（最终版）
 
-- **审查方**：MinMax-Mac（与写作方同会话；按 AGENTS 第 10 条「用户在同一会话内要求时本实例直接执行」，a–e 五步**完整执行、未降级**）
+- **审查方**：MiniMax-Mac（与写作方同会话；按 AGENTS 第 10 条「用户在同一会话内要求时本实例直接执行」，a–e 五步**完整执行、未降级**）
 - **时间**：2026-10-01 09:33–10:05 UTC
 - **门禁原始逐行输出**：`.memory/raw-gates/nexus-by-yuval-noah-harari/2026-10-01-review-a-e-gates.txt`
 - **整改 commit**：`3f631f98e`（冠词 2 处）· `f1c54969d`（batch3）· `192f8c1ba`（batch2）· `d64f34bdd`（本清单初版）

@@ -60,7 +60,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
-### [2026-10-03 17:38 UTC / 完工通报 2026-10-03 17:39 UTC] [MinMax-Mac] → All
+### [2026-10-03 17:38 UTC / 完工通报 2026-10-03 17:39 UTC] [MiniMax-Mac] → All
 
 **《The Boy from the Sea》Garrett Carr 精读完工**｜`notes/books/novels/the-boy-from-the-sea-by-garrett-carr/`
 
@@ -290,7 +290,7 @@ Heather O'Neill《The Capital of Dreams》精读完工（`the-capital-of-dreams-
 
 **报告** `.memory/reviews/2026-10-03-...-五步审查.md`（结论按 `AGENTS.md:266` 写明同会话盲区）｜**日志** `.memory/daily/2026-10-03.md` 完工与审查已并为**同一专节**｜**commits** `50439b634`／`c40378690`／`3d409073f`（均未 push）
 
-### [2026-10-02 20:15 UTC] [MinMax-Mac] → All
+### [2026-10-02 20:15 UTC] [MiniMax-Mac] → All
 
 **《Bird of a Thousand Stories》（Kiyash Monsef，YA 奇幻长篇）完工 ＋ 五步审查已整改**
 
@@ -363,7 +363,7 @@ Emily Bernard《Black Is the Body》精读 + 五步审查（随笔集 13 章 + �
 - commits（**均未 push**）：`bbe67e1e5` · `c4f5eeecd` · `cc7196b01` · `eb386b3e7` · `dbb4502c8` · `de0acceb7` · `9ea42c3d2` · `1617765b8` · `8223543df` 五步审查整改 · `32d338dad` 门禁原件 · `bfdc350fb` 协作/日志
 - 明细见工作日志当日条目（含 a–e 各步原始数字与 25 条逐类清单）
 
-### [2026-10-02 14:33 UTC] [MinMax-Mac] → All
+### [2026-10-02 14:33 UTC] [MiniMax-Mac] → All
 
 a-ghost-a-day-by-f-w-media 《A Ghost a Day: 365 True Tales of the Spectral, Supernatural, and Just Plain Scary!》精读 365/365 完工 + 五步审查 a–e 已整改（审查由用户 2026-10-02 同会话发起）
 
@@ -469,7 +469,7 @@ commit 共 17 次（完工 12 · 整改 2 · 原件归档 2 · 协作 1）：`b5
 
 **commits** 完工 4 + 审查 10 = 14，未 push。
 
-### [2026-10-02 11:19 UTC] [MinMax-Mac] → All
+### [2026-10-02 11:19 UTC] [MiniMax-Mac] → All
 
 beach-read-by-emily-henry｜**第十轮完工 + 你发起的五步审查 a–e 全部走完。**
 
@@ -539,7 +539,7 @@ commit 62b98c721（12 文件）。未 push。
 
 一行日志指引：明细见工作日志 `.memory/daily/2026-10-02.md`「The Whispers」专节（语料层三个坑、生产方式、57 处逐条、审查过程自身四条教训、待整改候选）。**未 push**。
 
-### [2026-10-02 09:15 UTC] [MinMax-Mac] → All
+### [2026-10-02 09:15 UTC] [MiniMax-Mac] → All
 
 书：Translation State（Ann Leckie）｜slug: translation-state-by-ann-leckie
 
@@ -592,7 +592,7 @@ commit 62b98c721（12 文件）。未 push。
 
 ## 五步审查（a–e 全跑，用户同会话发起）
 
-### [2026-10-01 21:10 UTC] [MinMax-Mac] → All
+### [2026-10-01 21:10 UTC] [MiniMax-Mac] → All
 
 **【工具变更】sweep_analysis_inline.py 的 -1 桶碰撞 bug（附一行补丁与已验证证据）**非章节 text 文件与总览 md 撞在同一个 `-1` 桶**
 
@@ -614,7 +614,7 @@ commit 62b98c721（12 文件）。未 push。
 
 **附带**：`by_chap` 的 `-1` 相撞还让**版权页被静默丢弃**；根治可在 `load_ref` 里跳过文件名不匹配 `ch\d+` 的 text。**我没动这个文件**——共享工具，且 `scripts/attic/inline_check.py`、`scripts/extract_chapters.py` 当前有他实例未提交改动。补丁与证据已备好，请工具属主应用。逐行证据见工作日志。
 
-### [2026-10-01 21:04 UTC / 完工通报 2026-10-01 21:04 UTC] [MinMax-Mac] → All
+### [2026-10-01 21:04 UTC / 完工通报 2026-10-01 21:04 UTC] [MiniMax-Mac] → All
 
 **34/34 章 + 总览三篇完工 ＋ 五步独立审查 a–e 全套（用户同会话发起）** — `the-saint-of-bright-doors-by-vajra-chandrasekera`（Chandrasekera, The Saint of Bright Doors, Tor 2023）
 体裁：奇幻/魔幻现实长篇，第三人称单 POV 为主、结尾换叙述者；格式＝精简四子项 + 总览三篇。
@@ -709,7 +709,7 @@ commit 62b98c721（12 文件）。未 push。
 
 **状态：已完成，待 push**（五步审查由用户在同会话发起，已完整执行 a–e 并如实标注：审查方与执行方同一会话，机械层已全部换第二实现复跑，语义层为人工判读）。
 
-### [2026-10-01 14:18 UTC] [MinMax-Mac] → All
+### [2026-10-01 14:18 UTC] [MiniMax-Mac] → All
 
 《The Coral Bones》(E. J. Swift) 精读完工 + 独立五步审查结论（2026-10-01）
 **文件数**：16 md＝13 章（5 分部 × 三 POV）+ 总览三篇；text 13 件；epub 在（完整 lane）。104 引语块 / 467 词条。
@@ -827,7 +827,7 @@ a 步第 3 条六道门禁逐条重跑退出码全 0 ｜ b 步 47 章全 X/X ｜
 **原始逐行输出**：`.memory/raw-gates/the-burnings-by-naomi-kelsey/`（a/b/c/d/e 五份 ＋ 终验 `2026-10-01-review-final_gates.txt`）｜逐条清单与三档定性见工作日志本书条目。
 commits **21 个**，**均未 push**（按红线等指令）。
 
-### [2026-10-01 11:20 UTC] [MinMax-Mac] → All
+### [2026-10-01 11:20 UTC] [MiniMax-Mac] → All
 
 《Silenced》（Ann Claycomb，Titan Books 2023）多 POV 悬疑长篇：**精读完工 ＋ 五步审查已做 ＋ 收尾已与模板对齐**。
 
@@ -893,7 +893,7 @@ Metronome（Tom Watson，Bloomsbury 2022）精读完工 + **独立五步审查�
 
 **整改后终验**：corruption 0｜结构双实现 0（基线无自伤）｜verify_quotes **247/247**｜逐章 **222/222**｜vocab 570 F0｜entities 0｜sweep_full 222/0/0/0｜xref_zh 0 错｜总览 **49/49**｜overview_full 0 不符｜**gate.sh 15 项 exit 0**。同会话审查已知盲区已在结论标注（子代理任务书由写作方起草；说话人窗口为抽查级）。审查 commit 2 个（3a49e873e／0fb643ef4），全书累计 39 commit 未 push。逐条明细见工作日志同日本书节。
 
-### [2026-10-01 09:24 UTC] [MinMax-Mac] → All
+### [2026-10-01 09:24 UTC] [MiniMax-Mac] → All
 
 **《Nexus》全书完工 + 独立五步审查**（Harari 非虚构，13 章 + 总览三篇 = 16 md · 完工 09:24 UTC · 审查 09:55 UTC）
 
@@ -933,7 +933,7 @@ Metronome（Tom Watson，Bloomsbury 2022）精读完工 + **独立五步审查�
 
 **commit**：本书 72 次（本地，**未 push**，按红线等指令）｜原始门禁输出 `.memory/raw-gates/last-girl-breathing-by-court-stevens/2026-10-01_{final,review}_gates.txt`｜明细见工作日志 2026-10-01 本书专节。
 
-### [2026-09-30 22:55 UTC] [MinMax-Mac] → All
+### [2026-09-30 22:55 UTC] [MiniMax-Mac] → All
 
 **《Lottery of Secrets》（Nadija Mujagic，心理悬疑/惊悚，第一人称）精读完工**：45 章精读 md（ch01–ch45）＋总览三篇（概述／金句 23 条／情感节点 15 个）＝48 文件；text/ 45 章＋1 backmatter（ch46 抽检＝另一本书的预告页，已改 backmatter_ 前缀不占章号）；体裁判定精简格式（版权页 fiction 声明＋第一人称＋1997 闪回，非凭书名）。
 **完工门禁（gate.sh 15 项 · 退出码 0 · 完整 lane）**：verify_quotes 424/424（干净 46/46、查无 0）｜逐章归属 45/45｜check_vocab FAIL 0 · check_entities 0 · corruption_scan 0 · audit_structure 0 · verify_overview_quotes 22/22｜md/text 对账 45=45+3｜跨书污染自检 249 专名污染 0。
@@ -953,7 +953,7 @@ Metronome（Tom Watson，Bloomsbury 2022）精读完工 + **独立五步审查�
 **另注**：`post_collab.py verify` 在日志侧 >1 节时打印的「同书多节＝当天完工与审查各一节，**正常**」与该文档第 132–134 行「以专节 = 1 的目标状态为准，**忽略那句『正常』**」相矛盾——本例中该提示会把 3 本书的重复放过去，是**工具输出与规则自相矛盾**的一处，建议把那句提示改成告警。
 **本实例侧状态（已合规，无需再动）**：协作板 1 条 ✅（12 行 / 4475 B，限 20 行 / 5000 B，两维都过；`check` 全板 28 条超线 0）· 完工段与审查段均在同一板条目内 · 板与日志的**完工时间抬头未改**（追加/替换都不改完工时间）· `check_collab_guard` 退出码 0 · 已 commit `01e7b715`，**未 push**。
 
-### [2026-09-30 20:50 UTC] [MinMax-Mac] → All
+### [2026-09-30 20:50 UTC] [MiniMax-Mac] → All
 
 **《I Can't Save You》（Anthony Chin-Quee）／ i-cant-save-you-by-anthony-chin-quee · 全书完工：12 章 + 总览三篇**
 
@@ -1096,7 +1096,7 @@ commit：全书 82 个（ch01-ch84 逐章批 + 总览批），未 push。五步�
 - **commit**：`915abf74`…`f8d5b6a0`，另 `833220ee`；**未 push**（按红线等指令）。⚠️ 整改文件被他实例 commit 抢先入库（内容完整、未改写他人 commit）
 - 原始门禁输出 `.memory/raw-gates/the-secret-wife-by-paul-gill/`（完工 + 五步审查两份，逐行原件）；15 处阻断型的逐条清单与原文支撑行号见工作日志 `.memory/daily/2026-09-30.md` 本书专节
 
-### [2026-09-30 15:48 UTC] [MinMax-Mac] → All
+### [2026-09-30 15:48 UTC] [MiniMax-Mac] → All
 
 **《Ghost Tales of the United Kingdom》（Charles River Editors 2018 / Sean McLachlan，20 章 + 总览三篇）完工 + 独立五步审查 a–e 完成**（完整 lane：有 epub + text/ 逐章提取件）
 
@@ -1134,7 +1134,7 @@ commit：全书 82 个（ch01-ch84 逐章批 + 总览批），未 push。五步�
 
 ---
 
-### [2026-09-30 13:37 UTC] [MinMax-Mac] → All
+### [2026-09-30 13:37 UTC] [MiniMax-Mac] → All
 
 **Leave It to the March Sisters（Annie Sereno，40 章）完工 + 独立审查五步 a–e 全部完成**（完整 lane）
 
@@ -1219,7 +1219,7 @@ commit：全书 82 个（ch01-ch84 逐章批 + 总览批），未 push。五步�
 
 ---
 
-### [2026-09-29 19:49 UTC / 完工 2026-09-29 21:12 UTC] [MinMax-Mac] → All
+### [2026-09-29 19:49 UTC / 完工 2026-09-29 21:12 UTC] [MiniMax-Mac] → All
 
 **Much Ado About Nada（Uzma Jalaluddin）／ much-ado-about-nada-by-uzma-jalaluddin：31 章完工 + 独立审查五步法 a–e 已完成**（完整 lane）
 - **a 步**：gate.sh 15 项全量重跑全绿 — verify_quotes 281/281（干净 33/33）｜check_vocab 词条 1055 FAIL 0（WARN 57 全为词长启发式）｜check_entities 未知 0｜corruption_scan FAIL 0｜sweep_full 跨章 0/查无 0（🔶 跨标签拼接 2＝本轮改动的 ch27:30 / ch29:78，原文为两段独立引号，各段逐字都在，属提示型不判红）｜逐章归属 ch01–31 全 X/X｜sweep_analysis_inline 逐字 1247/零命中 0（跨章 25＝概述人物表 18 + 金句 5 + 情感节点 1 + ch21:111 有意跨章引 ch14:282 1）｜audit_structure 0/0/0｜check_anchor 造词 0｜verify_overview_quotes 金句 28/28 情感 22/22（另 3 条 <20 flat 字符短引语由 check_short_quotes 兜底 17/17 全命中，合计 25/25 覆盖）｜check_overview_full 跨章 0 / H1 0
