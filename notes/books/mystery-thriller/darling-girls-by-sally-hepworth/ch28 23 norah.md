@@ -135,7 +135,7 @@ title: "23 – Norah"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| fridge | 冰箱 | He'd been bent over looking for something in the fridge, stood up straight on hearing his name. |
+| fridge | 冰箱 | Ishir, who'd been bent over looking for something in the fridge, stood up straight on hearing his name. |
 | tray | 托盘 | He picked up the tray of drinks |
 | shelf | 货架 | She put it back on the shelf |
 | beer | 啤酒 | She sipped her beer. |
