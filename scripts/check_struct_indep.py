@@ -222,9 +222,44 @@ def check(md: Path, sub_override=None):
         n = s.count("\n" + h + "\n") + (1 if s.startswith(h + "\n") else 0)
         if n != 1:
             out.append(f"[{prof}] 必备节「{h}」出现 {n} 次（须恰 1）")
+    # ⚠️ 2026-10-03 口径订正：本项原先判「三档标题必须齐备」，与写作规则
+    #    「空档**留空**、不插占位行」直接冲突（AGENTS 8.3 / build_vocab_section.py
+    #    只写非空档；`check_vocab` 反而把 `（本章无X词）` 判 FAIL）。
+    #    真缺陷是**空档位表头**（有标题、档内无词条）——本书 7 篇韵文当初被人工
+    #    整改掉的正是这个，不是「缺标题」。⇒ 判据改为反方向：标题**至多一次**且
+    #    **出现即须有词条**；短章只有一档合法。
+    # ⚠️ 同日二次修正：词条有两种排版——**表格**（`| 词 | 释义 | 例句 |`）与
+    #    **列表**（`- **word** …`，the-dream-hotel 全书法）。只认表格行会让该书的
+    #    每一档都报「空表头」（实测 +21 条假红）——与「新判据只适配多数派排版」
+    #    这条老坑同形，两种排版都要认。
+    def vocab_rows(start):
+        for ln in lines[start + 1:]:
+            if ln.startswith("## ") or ln.startswith("### "):
+                break
+            if re.match(r"^[-*+]\s+\*\*", ln):
+                return True
+            if ln.startswith("|") and not re.match(r"^\|[\s:-]+\|", ln) \
+                    and "词/短语" not in ln and "词汇" not in ln:
+                return True
+        return False
+
     for t in TIER:
-        if t not in s:
-            out.append(f"[{prof}] 词汇档位标题缺「{t}」")
+        hits = [i for i, ln in enumerate(lines) if ln.strip().startswith(t)]
+        if len(hits) > 1:
+            # ⚠️ 同为提示型：全库实测 39 处，抽样核看是「同档拆两段写」的合法排版
+            #    （all-the-lies / the-last-thing / book-of-heartbreak 均如此），
+            #    不构成阻断型。
+            out.append(f"⚠ [{prof}] 词汇档位标题「{t}」出现 {len(hits)} 次")
+            continue
+        if not hits:
+            continue
+        if not vocab_rows(hits[0]):
+            # ⚠️ 2026-10-03 全库实测：这一项在 380 本里报出 **348 处**（书级整本成片，
+            #    如 phone-box 58 / teacher 50）。这个量级说明它是「新判据撞上多数派
+            #    既有排版」的老坑形态——空表头是否算缺陷**未在全库裁决过**，
+            #    不能由一次审查顺手升为硬缺陷。⇒ 先作 ⚠️ 提示型只记不改，
+            #    不进 `缺陷` 计数、不影响退出码；要升级为阻断型须先做全库裁决。
+            out.append(f"⚠ [{prof}] 词汇档位「{t}」为空表头（该档无词条）")
     # --- ③ 编号连续 ---
     nums = [NUM(m) for m in QRE.finditer(s)]
     marks_have_yuanju = any(m.group(1) for m in QRE.finditer(s))
@@ -305,15 +340,18 @@ def main():
     mds = [Path(x) for x in sys.argv[2:]] or sorted(book.glob("ch*.md"))
     if not mds:
         print(f"❌ {book} 下没有 ch*.md"); return 2
-    bad = []
+    bad, warn = [], []
     cal = {p: calibrate_sub(mds, p) for p in ("summary", "nonfiction")}
     for md in mds:
         for msg in check(md, cal.get(detect_profile(
                 md.read_text(encoding="utf-8")) or "summary")):
-            bad.append(f"{md.name}: {msg}")
+            (warn if msg.startswith("⚠") else bad).append(f"{md.name}: {msg}")
     for b in bad:
         print("  ❌ " + b)
-    print(f"=== 独立结构扫描：{len(mds)} 个 md，缺陷 {len(bad)} 处 ===")
+    for w in warn:
+        print("  ⚠️ " + w)
+    print(f"=== 独立结构扫描：{len(mds)} 个 md，缺陷 {len(bad)} 处"
+          f"（另有提示型 {len(warn)} 条，不计入缺陷、不影响退出码）===")
     return 1 if bad else 0
 
 
