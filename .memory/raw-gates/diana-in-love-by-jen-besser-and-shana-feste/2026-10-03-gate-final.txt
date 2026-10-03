@@ -1,0 +1,100 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 241/241 引文可核实（100%）；完全干净文件 24/24；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 561
+--- FAIL (0) ---
+--- WARN (26) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 175 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 1 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 prologue brigitte paris fantasy.md        ch01 prologue brigitte paris fantasy.md: 8/8 in ch01 text
+ch02 jasper show naked photo dream.md          ch02 jasper show naked photo dream.md: 8/8 in ch02 text
+ch03 singalong dinner with oliver.md           ch03 singalong dinner with oliver.md: 8/8 in ch03 text
+ch04 tennis petra limo.md                      ch04 tennis petra limo.md: 8/8 in ch04 text
+ch05 house flip paris work trip.md             ch05 house flip paris work trip.md: 8/8 in ch05 text
+ch06 paris arrival trip of yes.md              ch06 paris arrival trip of yes.md: 8/8 in ch06 text
+ch07 sandrine dolls gabriel night.md           ch07 sandrine dolls gabriel night.md: 8/8 in ch07 text
+ch08 oliver facetime hammam alicia.md          ch08 oliver facetime hammam alicia.md: 8/8 in ch08 text
+ch09 jasper found me wall bath.md              ch09 jasper found me wall bath.md: 8/8 in ch09 text
+ch10 hide and seek closet flip house.md        ch10 hide and seek closet flip house.md: 8/8 in ch10 text
+ch11 kirby intern sound design.md              ch11 kirby intern sound design.md: 7/7 in ch11 text（另有 1 条短引语未校验）
+ch12 fireflies comments driveway jasper.md     ch12 fireflies comments driveway jasper.md: 8/8 in ch12 text
+ch13 bronco treehouse mallorca fantasy.md      ch13 bronco treehouse mallorca fantasy.md: 8/8 in ch13 text
+ch14 therapy baroness henry fifty three comments.md ch14 therapy baroness henry fifty three comments.md: 8/8 in ch14 text
+ch15 miriam panic attack erotic website rope.md ch15 miriam panic attack erotic website rope.md: 8/8 in ch15 text
+ch16 text storm fake orgasms self portrait.md  ch16 text storm fake orgasms self portrait.md: 8/8 in ch16 text
+ch17 double date molly i love you photo shoot.md ch17 double date molly i love you photo shoot.md: 8/8 in ch17 text
+ch18 duly noted therapy blowup party with a purpose.md ch18 duly noted therapy blowup party with a purpose.md: 8/8 in ch18 text
+ch19 house tour handcuff confession.md         ch19 house tour handcuff confession.md: 8/8 in ch19 text
+ch20 banana splits bucees lemur island.md      ch20 banana splits bucees lemur island.md: 8/8 in ch20 text
+ch21 homecoming dirty diana confession.md      ch21 homecoming dirty diana confession.md: 8/8 in ch21 text
+ch22 banana bread zinnias handcuff sink.md     ch22 banana bread zinnias handcuff sink.md: 8/8 in ch22 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：22 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（diana-in-love-by-jen-besser-and-shana-feste）===
+  ✅ 逐字 1015 ｜ ⚠️ 跨章 1 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 1 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 6
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 2 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 松散关键词明细 ──
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 41/41 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 66/66 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（diana-in-love-by-jen-besser-and-shana-feste）===
+  参照集：text/（23 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（diana-in-love-by-jen-besser-and-shana-feste）===
+  带前缀的 `> **原句 N:**` 行：22 个文件共 176 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：22 个 md，问题 0 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
