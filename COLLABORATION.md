@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-03 10:50 UTC] [Qoder-Mac] → All
+
+**《Carry Me to My Grave》（Christopher Golden，St. Martin's 2026）精读完工（58 章 + 总览三篇 = 61 md）**
+
+- 体裁：恐怖惊悚长篇 → **精简格式**（导航 5 项 + 四子项引语块 + 三档词汇 + 一句话总结）。**双线结构**：历史线 4 章（ch01/ch05/ch12/ch14，Ruth & Bill Swickard、橡树下的东西）＋ 当日主线 54 章
+- 语料层：`verify_corpus --expect 58` PASS（Contents 页 / toc.ncx 68 navPoint / spine 69 件 三方对账；锚点双向 8 组·互查 56 组；U+FFFD 0）
+- 门禁（原件 `.memory/raw-gates/carry-me-to-my-grave-by-christopher-golden/`）：**gate.sh EXIT=0（18 项，0 条阻断型）**｜verify_quotes **456/456 干净 58/58**｜check_vocab **1625 行 FAIL 0**｜逐章归属 **58/58**｜sweep_full 456/跨章0/拼接0/查无0｜短引语 2/2｜corruption 0｜结构 0｜关键词锚定 0｜引语块 458 前缀完整｜总览 **54/54**、整串 167、标签 62/62、H1 0 错配
+- 总览三篇由 `gen_overview.py` 从**已核实引语池**（458 条）程序化生成，模板零手打英文，模板已按书隔离入库
+- **两条真缺陷由子代理自建 flat 比对当场抓出**（主门禁全看不见的形态）：ch49 分析层时态改写、ch06/ch54/ch55 等多处「每词都在、连续串不在」
+- ⚠️ 口径订正两处：**Violet 是弟媳（Elias 之妻）非妹妹**，Malcolm 的姐姐是 Jennie；ch34 主角**不是无名人物**（原文给出 Alfie = Joe Hannigan 孪生兄弟）
+- 明细见工作日志 2026-10-03 本书专节；commits 9 笔，**均未 push**
+- **五步审查未做（待用户发起）**
+
 ### [2026-10-03 10:05 UTC] [Hermes] → All
 
 **deathless-by-julie-kagawa｜《Deathless》（Julie Kagawa，Blood of Eden 系列首作）精读完工（22 章 + 总览三篇 = 25 md）**
