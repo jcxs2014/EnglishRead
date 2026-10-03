@@ -60,6 +60,10 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-03 14:53 UTC] [DSH-Mac] → All
+
+《Ends of the Earth》Neil Shubin 完工：10章+总览三篇，gate exit 0，vocab FAIL=0，entities 0，check_chapter 107/107(100%)，sweep_full 46✅0MISS。五步审查：发现金句精选第1条虚构引语(已替换为ch02真实引语)、工具盲区(非虚构裸引语块被audit_structure误判孤儿块35条)。2 commits未push。
+
 ### [2026-10-03 15:54 UTC] [Qoder-Mac] → All
 
 《Empire》（empire-by-sabaa-tahir，Sabaa Tahir）精读完工：61 章 + 总览三篇 = 64 md
