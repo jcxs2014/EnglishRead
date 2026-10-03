@@ -75,6 +75,11 @@ def main():
         s = md.read_text(encoding='utf-8')
         for m in SENT.finditer(s):
             sent = m.group(0)
+            # ⚠️ 2026-10-03 降噪：每章 md 第 4 行的**来源标签**（`来源: chNN｜source_text: …`）
+            #    里的 chNN 是**本章自己**的文件信息，不是跨章引用；本书 193 条「待人判」里
+            #    有 65 条是它，把真正需要人判的 128 条淹掉。判据要窄而准，不能靠人再筛一遍。
+            if 'source_text' in sent or re.match(r'^\s*(\*\*)?来源', sent):
+                continue
             for c in re.finditer(r'ch(\d\d[a-z]?)', sent):
                 nn = c.group(1); tot += 1
                 line = s[:m.start()].count('\n') + 1
