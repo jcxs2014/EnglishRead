@@ -1,0 +1,108 @@
+=== verify_quotes ===
+ch01 prologue.md: 10/10 ✅
+ch02 the childrens train.md: 10/10 ✅
+ch03 the house was where we left it.md: 9/9 ✅（另有 1 条短引语未校验）
+ch04 what we imagined we were.md: 10/10 ✅
+ch05 postcards from the war.md: 10/10 ✅
+ch06 a cat named napoleon.md: 10/10 ✅
+ch07 sprinkle me in icing sugar before i die.md: 9/9 ✅（另有 1 条短引语未校验）
+ch08 a philosopher has what to say.md: 10/10 ✅
+ch09 à la bottom.md: 10/10 ✅
+ch10 babes in the woods.md: 10/10 ✅
+ch11 portrait of an ugly child.md: 10/10 ✅
+ch12 a naked girl is always priceless.md: 10/10 ✅
+ch13 the mermaids who lost their voices.md: 11/11 ✅
+ch14 motherhood is a disguise.md: 13/13 ✅
+ch15 hunger glows in the dark.md: 13/13 ✅
+ch16 the wolves danced on the ceiling.md: 10/10 ✅
+ch17 a wartime lullaby.md: 12/12 ✅
+ch18 the fog wears grey stockings.md: 14/14 ✅
+ch19 the patron saint of young girls in high heels.md: 16/16 ✅
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 207/207 引文可核实（100%）；完全干净文件 19/19；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== verify_quotes --full ===
+ch01 prologue.md: 10/10 ✅
+ch02 the childrens train.md: 10/10 ✅
+ch03 the house was where we left it.md: 9/9 ✅（另有 1 条短引语未校验）
+ch04 what we imagined we were.md: 10/10 ✅
+ch05 postcards from the war.md: 10/10 ✅
+ch06 a cat named napoleon.md: 10/10 ✅
+ch07 sprinkle me in icing sugar before i die.md: 9/9 ✅（另有 1 条短引语未校验）
+ch08 a philosopher has what to say.md: 10/10 ✅
+ch09 à la bottom.md: 10/10 ✅
+ch10 babes in the woods.md: 10/10 ✅
+ch11 portrait of an ugly child.md: 10/10 ✅
+ch12 a naked girl is always priceless.md: 10/10 ✅
+ch13 the mermaids who lost their voices.md: 11/11 ✅
+ch14 motherhood is a disguise.md: 13/13 ✅
+ch15 hunger glows in the dark.md: 13/13 ✅
+ch16 the wolves danced on the ceiling.md: 10/10 ✅
+ch17 a wartime lullaby.md: 12/12 ✅
+ch18 the fog wears grey stockings.md: 14/14 ✅
+ch19 the patron saint of young girls in high heels.md: 16/16 ✅
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 207/207 引文可核实（100%）；完全干净文件 19/19；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== check_vocab ===
+词条行合计: 463
+
+--- FAIL (0) ---
+
+--- WARN (19) ---
+  ch04 what we imagined we were.md [基础] 基础档疑含超纲词「challenge」
+  ch06 a cat named napoleon.md [基础] 基础档疑含超纲词「greenhouse」
+  ch06 a cat named napoleon.md [基础] 基础档疑含超纲词「austerity」
+  ch07 sprinkle me in icing sugar before i die.md [基础] 基础档疑含超纲词「surrender」
+  ch08 a philosopher has what to say.md [基础] 基础档疑含超纲词「manuscript」
+  ch08 a philosopher has what to say.md [基础] 基础档疑含超纲词「physicists」
+  ch09 à la bottom.md [基础] 基础档疑含超纲词「homemaker」
+  ch09 à la bottom.md [基础] 基础档疑含超纲词「penthouse」
+  ch10 babes in the woods.md [基础] 基础档疑含超纲词「companions」
+  ch10 babes in the woods.md [基础] 基础档疑含超纲词「mothballs」
+  ch12 a naked girl is always priceless.md [基础] 基础档疑含超纲词「ballerina」
+  ch12 a naked girl is always priceless.md [基础] 基础档疑含超纲词「figurines」
+  ch14 motherhood is a disguise.md [基础] 基础档疑含超纲词「housewife」
+  ch14 motherhood is a disguise.md [基础] 基础档疑含超纲词「fireplace」
+  ch15 hunger glows in the dark.md [基础] 基础档疑含超纲词「dandelions」
+  ch15 hunger glows in the dark.md [基础] 基础档疑含超纲词「hairbrush」
+  ch16 the wolves danced on the ceiling.md [基础] 基础档疑含超纲词「warplanes」
+  ch17 a wartime lullaby.md [基础] 基础档疑含超纲词「loudspeaker」
+  ch18 the fog wears grey stockings.md [基础] 基础档疑含超纲词「handkerchief」
+
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== check_chapter_quotes ch19 ===
+⚠️  全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 207，命中本章 207（100%）
+✅ 全部引语均归属正确章节
+
+=== check_short_quotes ===
+=== 短引语兜底核对（the-capital-of-dreams-by-heather-oneill）===
+  verify_quotes 跳过（<20 flat 字符）的引语：2 条 —— 这些主门禁**根本没查**
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== corruption_scan ===
+
+=== 编辑损坏扫描（the-capital-of-dreams-by-heather-oneill）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== sweep_full ===
+=== 引语整串 flat 比对（the-capital-of-dreams-by-heather-oneill）===
+  参照集：text/ 逐章（37 章，可定章） + epub 交叉验证
+  ✅ 本章命中 207 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+
+=== sweep_analysis_inline ===
+=== 分析层行内英文逐字核查（the-capital-of-dreams-by-heather-oneill）===
+  参照集：text/（37 个提取件） + epub 交叉验证 ；扫 19 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：577 个表格行、461 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 482 ｜ ⚠️ 跨章 1 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 383
+  ⚠️  ch10 babes in the woods.md:79  「A Naked Girl Is Always Priceless」→ 实为 ch12
