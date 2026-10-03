@@ -351,6 +351,12 @@ def main():
         print('  ── 凭空造词明细 ──')
         for md, ln, phrase, w in fab:
             print('     %s:%d  「%s」← 关键词「%s」' % (md, ln, w, phrase))
+    if n_loose and not quiet:
+        # ⚠️ 2026-10-03 修正：本项原先只报个数不给出处，报警不可执行
+        #   （与 gate.sh ⑨ 同一类问题：报数字不给定位，人只能干瞪眼）。
+        print('  ── 松散关键词明细 ──')
+        for md, ln, phrase, w in loose:
+            print('     %s:%d  关键词「%s」的「%s」在全书有、本块无' % (md, ln, phrase, w))
     return 1 if n_fab else 0
 
 

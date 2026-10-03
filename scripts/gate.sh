@@ -59,7 +59,12 @@ BLOCK8=$(python3 scripts/check_block_coverage.py "$B" 2>&1 | grep -c "^❌ " || 
 [ "$BLOCK8" -gt 0 ] && echo "⛔ 阻断型：$BLOCK8 个文件有块未进 verify_quotes 校验"
 
 echo; echo "=== ⑨ 导航/总结层英文核对（六道门禁盲区）==="
-python3 scripts/check_nav_layer.py "$B" --per-chapter 2>&1 | tail -1
+# ⚠️ 2026-10-03 修正：本项原先 `| tail -1` 只留汇总行，条目明细看不见；
+#   且 check_nav_layer 的 ❌ **条目行顶格打印**，与退出码聚合的判据
+#   `^[[:space:]]+❌`（要求至少一个前导空格）对不上 ⇒ 阻断型被静默漏网
+#   （实证：ch08 导航层一条「I knew he had to allow it」全书查无，聚合仍报 0 条）。
+#   修法：去掉 tail -1 显示明细，并用 sed 统一缩进使其进入既有聚合判据。
+python3 scripts/check_nav_layer.py "$B" --per-chapter 2>&1 | sed 's/^/  /'
 
 echo; echo "=== ⑩ sweep_analysis_inline（分析层行内英文）==="
 python3 scripts/sweep_analysis_inline.py "$B" 2>&1 | grep "逐字"
