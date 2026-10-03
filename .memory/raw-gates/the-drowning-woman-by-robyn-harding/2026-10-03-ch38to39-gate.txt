@@ -1,0 +1,113 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+
+⚠️ 全书共 23 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 287/287 引文可核实（100%）；完全干净文件 39/39；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 539
+--- FAIL (0) ---
+--- WARN (46) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 2 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 284 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 3 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 23 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 chapter 1.md                              ch01 chapter 1.md: 8/8 in ch01 text
+ch02 chapter 2.md                              ch02 chapter 2.md: 8/8 in ch02 text
+ch03 chapter 3.md                              ch03 chapter 3.md: 6/6 in ch03 text（另有 2 条短引语未校验）
+ch04 chapter 4.md                              ch04 chapter 4.md: 8/8 in ch04 text
+ch05 chapter 5.md                              ch05 chapter 5.md: 6/6 in ch05 text（另有 2 条短引语未校验）
+ch06 chapter 6.md                              ch06 chapter 6.md: 7/7 in ch06 text（另有 1 条短引语未校验）
+ch07 chapter 7.md                              ch07 chapter 7.md: 6/6 in ch07 text（另有 2 条短引语未校验）
+ch08 chapter 8.md                              ch08 chapter 8.md: 8/8 in ch08 text
+ch09 chapter 9.md                              ch09 chapter 9.md: 4/4 in ch09 text（另有 3 条短引语未校验）
+ch10 chapter 10.md                             ch10 chapter 10.md: 8/8 in ch10 text
+ch11 chapter 11.md                             ch11 chapter 11.md: 6/6 in ch11 text（另有 2 条短引语未校验）
+ch12 chapter 12.md                             ch12 chapter 12.md: 8/8 in ch12 text
+ch13 chapter 13.md                             ch13 chapter 13.md: 7/7 in ch13 text（另有 1 条短引语未校验）
+ch14 chapter 14.md                             ch14 chapter 14.md: 8/8 in ch14 text
+ch15 chapter 15.md                             ch15 chapter 15.md: 6/6 in ch15 text（另有 2 条短引语未校验）
+ch16 chapter 16.md                             ch16 chapter 16.md: 7/7 in ch16 text（另有 1 条短引语未校验）
+ch17 chapter 17.md                             ch17 chapter 17.md: 8/8 in ch17 text
+ch18 chapter 18.md                             ch18 chapter 18.md: 7/7 in ch18 text（另有 1 条短引语未校验）
+ch19 chapter 19.md                             ch19 chapter 19.md: 8/8 in ch19 text
+ch20 chapter 20.md                             ch20 chapter 20.md: 8/8 in ch20 text
+ch21 chapter 21.md                             ch21 chapter 21.md: 8/8 in ch21 text
+ch22 chapter 22.md                             ch22 chapter 22.md: 8/8 in ch22 text
+ch23 chapter 23.md                             ch23 chapter 23.md: 8/8 in ch23 text
+ch24 chapter 24.md                             ch24 chapter 24.md: 8/8 in ch24 text
+ch25 chapter 25.md                             ch25 chapter 25.md: 8/8 in ch25 text
+ch26 chapter 26.md                             ch26 chapter 26.md: 8/8 in ch26 text
+ch27 chapter 27.md                             ch27 chapter 27.md: 8/8 in ch27 text
+ch28 chapter 28.md                             ch28 chapter 28.md: 8/8 in ch28 text
+ch29 chapter 29.md                             ch29 chapter 29.md: 6/6 in ch29 text（另有 2 条短引语未校验）
+ch30 chapter 30.md                             ch30 chapter 30.md: 8/8 in ch30 text
+ch31 chapter 31.md                             ch31 chapter 31.md: 8/8 in ch31 text
+ch32 chapter 32.md                             ch32 chapter 32.md: 7/7 in ch32 text（另有 1 条短引语未校验）
+ch33 chapter 33.md                             ch33 chapter 33.md: 7/7 in ch33 text（另有 1 条短引语未校验）
+ch34 chapter 34.md                             ch34 chapter 34.md: 8/8 in ch34 text
+ch35 chapter 35.md                             ch35 chapter 35.md: 7/7 in ch35 text
+ch36 chapter 36.md                             ch36 chapter 36.md: 7/7 in ch36 text（另有 1 条短引语未校验）
+ch37 chapter 37.md                             ch37 chapter 37.md: 8/8 in ch37 text
+ch38 chapter 38.md                             ch38 chapter 38.md: 8/8 in ch38 text
+ch39 chapter 39.md                             ch39 chapter 39.md: 7/7 in ch39 text（另有 1 条短引语未校验）
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：39 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（the-drowning-woman-by-robyn-harding）===
+  ✅ 逐字 1100 ｜ ⚠️ 跨章 50 ｜ 🔶 拼接 2 ｜ 🟠 部分命中 3 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 372
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+（无总览三篇，本项不适用）
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+（无总览三篇，本项不适用）
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（the-drowning-woman-by-robyn-harding）===
+  参照集：text/（64 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（the-drowning-woman-by-robyn-harding）===
+  带前缀的 `> **原句 N:**` 行：39 个文件共 310 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+  ⚠️ 提示·短引语（16 字符）命中 0 个自然段，拼接判据不适用
+  ⚠️ 提示·短引语（18 字符）命中 0 个自然段，拼接判据不适用
+=== 引语块覆盖度：39 个 md，问题 2 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
