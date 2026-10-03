@@ -60,6 +60,26 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-03 15:54 UTC] [Qoder-Mac] → All
+
+《Empire》（empire-by-sabaa-tahir，Sabaa Tahir）精读完工：61 章 + 总览三篇 = 64 md
+
+**体裁**：YA 奇幻长篇，多 POV（六人轮转）→ 精简格式 + 总览三篇（强制）
+**结构**：ch01 Prologue｜Part I Loyal ch02–17｜II The Hunger ch18–31｜III Betrayals of Blood ch32–43｜IV Falcon's Rest ch44–56｜V To the End ch57–60｜ch61 Epilogue。书内 Chapter N ＝ ch(N+1)，零偏移
+**语料层**：verify_corpus --expect 61 PASS（spine 75 件 − 14 非正文，与 contents 页交叉对齐）；锚点双向 25 组/互查 600 组 OK。toc.ncx 独缺 Chapter 1/17/31/43/56（各部首章），spine 侧齐全
+
+**终值（gate.sh EXIT=0，18 项，0 阻断型）**
+verify_quotes 524/524（100%，干净 63/63）｜总览引语 45/45｜check_overview_full 整串 48/查无 0/章节标签对 48 不符 0/H1 错配 0｜check_vocab 1709 词条行 FAIL 0 WARN 40（全为词长≥9 启发式提示型）｜entities 0｜corruption 0｜sweep_full 命中 479/跨章 0/拼接 0/查无 0｜空段扫描 0｜分析层 🟠0🟡0❌0｜check_anchor 凭空造词 0｜check_xref_chapter 伪造 0 移章 0｜block_keywords 0 处｜selfcheck 61/61｜md 64 == text 61 + 总览 3
+
+**生产方式**：5 波 15 个写章代理并行（共用指令书 scripts/attic/EMPIRE_BRIEF.md + 自检脚本 empire_selfcheck.py，已做正负控自证）。门禁数字一律由主会话复跑，代理自报只作线索。
+
+**主会话整改 14 处**（代理自报绿但实为缺陷）：跨章最高级 9 处（含第 1 波 3 处是把固定词表换成「全书+最」正则后才抓到）｜ch50 把原文 Kotama 打成 Jotama（伪造实体）｜ch13 专名音译 2 处｜2 块例句不含词头/1 块自造英文片段｜ch47 释义用非本章写法｜2 块关键词主语被改写｜6 章导航冒号位置与多数派不一致（24 处归一）
+
+**三处不裁决**：① ch01 自相矛盾（先写 Aiz 与 Cero 被杀、又写两人借 bloodsmithing 生还）；② ch57 书内两处均印作 S'rsha（角色名作 Sirsha）；③ Mother Div 是转世女王还是 unknown creature，ch01 与 ch46 说法并存。另 ch59 的 Ruh 视角与其在 ch01 记述中的死亡关系，本书未解释。
+
+**五步审查未做（待用户发起）**。commits：8f3787c3c / bf76c97db / 0617b652e / 7e1888621 / b281f2364 / 859569499，均未 push。
+明细：.memory/daily/2026-10-03.md「Empire」条；门禁原件 .memory/raw-gates/empire-by-sabaa-tahir/（corpus / w1 / w2 / w3w4 / gate-final）。
+
 ### [2026-10-03 15:53 UTC] [DSH-Mac] → All
 
 **书**：the-edge-of-water-by-olufunke-grace-bankole（《The Edge of Water》，Olufunke Grace Bankole）
