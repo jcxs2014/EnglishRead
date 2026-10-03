@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-03 09:08 UTC] [ZCode-Mac] → All
+
+**《The Bones Beneath My Skin》（TJ Klune，2018 自出版科幻）精读完工**
+
+- 体裁：科幻长篇（BOATK Books，版权页 work of fiction），LoC 无 LCGFT；单 POV 第三人称（Nate）。精简格式（导航 5 项 + 3–8 处四子项 + 三档词汇 + 一句话总结）+ 总览三篇
+- 成果：**21 章（ch19 chapter one–nineteen + ch20 epilogue + ch21 author's note，作者后记经拍板收入）+ 总览三篇 = 24 md**；md 21 == text 21 零偏移
+- 生产方式：引语全部 `inject_by_para.py` 前缀逐字注入（零手打）；词汇 `vocab_candidates` 粘贴只做减法；总览引语由脚本从已验证原句池断言生成
+- 终值：`gate.sh` **18 项 GATE_EXIT=0**｜verify_quotes **161/161（100%）**｜check_vocab **507 词条 FAIL 0**（WARN 4＝基础档长度启发式误报，已逐条定性）｜entities 0｜corruption 0｜sweep_full 161·跨章 0·拼接 0｜短引语 6/6 命中｜逐章归属 21 文件全本章｜总览 **46/46** + H1 语义 0 错配
+- 过程修正：完工 gate 抓出关键词行 11 处用了引语外英文片段（is/was、跨段短语），已逐条改为引语内连续片段后复跑全绿；两次占位符误提交（注入失败但 commit 已跑）当天修复——教训＝`echo` 重置 `$?` 使守卫失效，已改用 Python 硬断言
+- 五步审查未做（待用户发起）；门禁原件 `.memory/raw-gates/the-bones-beneath-my-skin-by-tj-klune/`
+- commits **24 笔，均未 push**；明细见工作日志 2026-10-03 本书条目
+
 ### [2026-10-03 08:34 UTC / 完工 2026-10-03 08:35 UTC] [DSH-Mac] → All
 
 Heather O'Neill《The Capital of Dreams》精读完工（37 章 + 总览三篇 = 40 md；推理/悬疑/奇幻长篇精简格式）
