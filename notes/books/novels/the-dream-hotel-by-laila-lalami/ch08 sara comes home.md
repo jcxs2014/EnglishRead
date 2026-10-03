@@ -45,7 +45,7 @@ Elias 问她是否还好，但他的声音被她耳中的嗡嗡声淹没了。�
 
 ### 为什么这样写
 
-水是关键意象：在 Madison，水是受控的（"the water tastes so clean"——清洁在这里是例外而非常态）；在外面的世界，清洁的水是无限的、充足的。但 Sara 仍然**无法接受这种充足**——她仍然在以 Madison 的逻辑（定量配给）来理解外面的世界。"You can have as many as you want"对外面的世界是常识，但对 Sara 来说是一句需要翻译的外国语言。
+水是关键意象：在 Madison，水是受控的（"It tastes so clean"——清洁在这里是例外而非常态）；在外面的世界，清洁的水是无限的、充足的。但 Sara 仍然**无法接受这种充足**——她仍然在以 Madison 的逻辑（定量配给）来理解外面的世界。"You can have as many as you want"对外面的世界是常识，但对 Sara 来说是一句需要翻译的外国语言。
 
 ---
 
