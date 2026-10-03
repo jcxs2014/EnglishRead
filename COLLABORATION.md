@@ -105,25 +105,25 @@ verify_quotes 159/159（100%），完全干净文件 18/18 ｜ verify_overview_q
 
 ### [2026-10-03 17:05 UTC] [Qoder-Mac] → All
 
-《Everything Is Poison》（everything-is-poison-by-joy-mccullough，Joy McCullough）精读完工：66 件正文 + 总览三篇 = 69 md
+《Everything Is Poison》（everything-is-poison-by-joy-mccullough，Joy McCullough）精读完工＋五步审查整改
 
 **体裁/格式**：长篇（第一人称双线 + 25 段韵文插叙）→ 精简格式；编号章 ch01–ch41（尾声＝ch41），25 段韵文用后缀挂在紧邻的编号章后（ch02a The Witch … ch37a The Witness），与编号章同等精读并加诗歌技法专项。
-**语料层**：verify_corpus --expect 66 PASS（人物锚点双向单 POV 长篇小说，跑 ①④）；md 66 == text/ 66 一一对账。
+**语料层**：verify_corpus --expect 66 PASS（单 POV 长篇跑 ①④）；md 66 == text/ 66 一一对账。
 
 **终值（gate.sh EXIT=0，18 项，0 条阻断型）**
-verify_quotes 372/372（100%，干净 67/67，--full 取证 0）｜总览引语 53/53（覆盖 2/3 篇，00_概述 无引语行属设计）｜check_vocab 词条行 1069 FAIL 0（WARN 1＝apothecary 词长≥9 启发式，提示型）｜entities 0｜corruption 0｜空段扫描 0｜sweep_full 本章 324/跨章 0/拼接 0/查无 0｜check_short_quotes 75/0/0/0｜分析层 🟠0 🟡0 ❌0｜audit_structure 0/0/0｜check_anchor 凭空造词 0｜check_xref_chapter 伪造 0 移章 0｜check_quote_blocks 365 原句行全绿｜⑱ block_keywords 0 处
+verify_quotes 372/372（100%，干净 67/67）｜总览引语 53/53（00_概述 无引语行属设计）｜check_vocab 词条行 1069 FAIL 0（WARN 1＝apothecary 词长≥9 启发式，提示型）｜entities 0｜corruption 0｜空段 0｜sweep_full 本章 324/跨章 0/拼接 0/查无 0｜check_short_quotes 75/0/0/0｜分析层 🟠0 🟡0 ❌0｜audit_structure 0/0/0｜check_anchor 凭空造词 0｜check_xref_chapter 伪造 0 移章 0｜check_quote_blocks 365 原句行全绿｜⑱ block_keywords 0 处。
 
-**⚠️ 工具变更（全库共用，其他实例请重跑 ⑱ 再判红）**：`check_block_keywords.py` 此前只读多行引语块的**首行**，凡在引用块内换行书写引语（`> **原句 1:** "…` / `>` / `> …"`）的书，第二行起的关键词**恒报「不在本块引语内」**——本书一轮报出 167 处，全部为假红。已修（续行合并 + 仅限多行块的 flat 兜底 + `Pattern.findall` 第二参数误当 flags 实为 pos）。负控四例（相邻段放行／非相邻拼接报出／凭空续行报出／续行关键词越界报出）通过；the-dream-hotel、deathless、the-edge-of-water 三书回归 findings 逐条不变。另修 `audit_structure.py` 引语切分接受续行，五书回归（dream-hotel 42→42、deathless 167→167 不变）。**遇同类成片报警先读行再动 md。**
+**⚠️ 工具变更（全库共用，其他实例请重跑 ⑱ 再判红）**：`check_block_keywords.py` 此前只读多行引语块的**首行**，凡在引用块内换行书写引语的书，第二行起的关键词**恒报「不在本块引语内」**——本书一轮报出 167 处，全部为假红。已修（续行合并 + 仅限多行块的 flat 兜底 + `Pattern.findall` 第二参数误当 flags 实为 pos），负控四例通过，the-dream-hotel / deathless / the-edge-of-water 三书回归 findings 逐条不变；`audit_structure.py` 同步接受续行。**遇同类成片报警先读行再动 md。**
 
-**主会话整改 33 条阻断型 → 0**：内容侧 5 类——ch25 分析层凭空英文 2 处（`as one of her own` 主语被改写，原文 `you will be cared for as one of our own`；`Catholic Memorare` 是书外专名，原文只称 this prayer）｜ch11 `might have lost` 漏 not 成语义反转｜ch41 原句4/6 跨**非相邻**自然段拼接（补回漏段／拆成两块）｜7 篇韵文词表 10 个空档位表头｜假红型 26 条走工具侧修复，未动正文。
+**执行方自查整改 33 条 → 0**：ch25 分析层凭空英文 2 处｜ch11 `might have lost` 漏 not 成语义反转｜ch41 原句 4/6 跨**非相邻**自然段拼接｜7 篇韵文词表 10 个空档位表头｜假红型 26 条走工具侧修复未动正文。
+**总览定向核验（非五步）订正 11 处**：无色无味／六年缄默／把她们推进火里／年迈的店主／Tivoli 找货源／「Laura 带着最冷一句回来」／断酒瓶／病逝于修院／孤女等——明细见日志。
 
-**不裁决／盲区**：本书八处悬置点一律不写死（见日志）；金句精选 ㉑ 与 ㉔ 同句（We take care of the people who have nowhere else to turn）**经核确实 ch06 与 ch15 各出现一次**，是作者复述不是标错章。
+**五步审查（用户本会话发起，a–e 全跑）：报警 77 → 阻断型 65 已整改 / 提示型 7 只记不改 / 假红 5。**
+五类缺陷：① 说话人与施动者 9（ch15a Antonio 属 Carmela；**ch30:58 "You did marry me first." 与 "Never mind." 两句都出自 Carmela**——执行方曾判为假阳，复核推翻自己；ch30a San Giacomo 那句出自 Sister Francesca；ch36 报价归人）② 计数与形态断言 21（ch23a 区名 8→7、ch26a 原句 2 是 4+6 行、ch26 "you will" 3 次非 4 次、ch37a「全诗现在时」、ch32a 将来时顺序、ch40「另起三段三个词」）③ 跨章归属 8（ch28 泼垃圾实在 ch21、ch18「上一章」实为 ch16、ch27「配方锁在后间」——ch23 已交出）④ 分析层英文走形或凭空 12（**ch26:57 "you pushed her out" 全书查无**、ch20a fighting、ch32 while giggling 词形与归属）⑤ 总览层事实 15（Maria「死于修院」原文未写咽气、Giulia 并非 ch23 入修院、Francesca「一言不发」、ch08「一滴」实为 barleycorn、ch02a 并非以问句收尾、ch41 香蜂草油冒充圣油、传单朗读主体）。
+复验：EXIT=0，372/372、53/53、corruption FAIL 0、check_struct_indep 0、check_analysis_indep 2242 条全逐字（1 条提示型＝韵文公式 `There is a woman like X but not`）。
 
-**五步审查未做（待用户发起）**。commits：c046a814a / 34314cc83 / 7d95f0a5d，均未 push。
-明细：.memory/daily/2026-10-03.md「Everything Is Poison」条；门禁原件 .memory/raw-gates/everything-is-poison-by-joy-mccullough/（corpus / w1 / gate全量 / gate整改后）。
-
-《Everything Is Poison》（everything-is-poison-by-joy-mccullough）总览定向核验（非五步审查）：对唯一无门禁覆盖的一层——总览三篇的中文事实断言——做只读抽查，逐条回原文复核后订正 11 处（8 类）：无色无味（那是 ch09 巴黎传单对法国毒药的说法，不是本书对 Acqua Tofana 的形容）｜六年缄默（原文只有 "years ago, when Carmela was ten or eleven"）｜把她们推进火里（ch10 是他推开她一人、Giulia 撞入火鼎）｜年迈的店主（原文只 the shop's proprietor）｜Tivoli 找货源（是为断供的曼德拉草，砷始终由 Father Piero 供）｜「Laura 带着全书最冷一句预告回来」（But now they would have to learn to go on without her. 是 ch22 段末叙述语、her 即 Laura 本人，她到 ch24 才回到柜台）｜断酒瓶（the neck of a broken bottle，碎瓶颈）｜病逝于修院（与同文件「脑内出血」自相矛盾）｜孤女（原文未写其父母）。
-复跑 gate.sh EXIT=0（verify_quotes 372/372｜总览引语 53/53｜corruption 0）；新增 5 条英文引语手工 grep 逐字命中（00_概述 无引语行 ⇒ 该篇引语不受 ⑭ 覆盖，按 9d 自行取证）。**另推翻子代理 1 条误报**：「Carmela 独女」有 ch02 "bestow wisdom on her only child" 逐字支撑。五步审查仍未做（待用户发起）。
+**不裁决／盲区**：八处悬置点一律不写死；㉑ 与 ㉔ 同句（We take care of the people who have nowhere else to turn）**经核确实 ch06 与 ch15 各现一次**，是作者复述不是标错章；**说话人层与总览中文事件断言无机械覆盖**（`check_speaker_consistency` 定为抽查级），只能靠 d/e 步人判。
+明细：.memory/daily/2026-10-03.md「Everything Is Poison」条；门禁与报警原件 .memory/raw-gates/everything-is-poison-by-joy-mccullough/（a-gates / c-gate全量 / d-gate整改后 / f-五步审查 a·b / g-整改批三后）。commits：c046a814a / 34314cc83 / 7d95f0a5d / b92a5bff9 / **23254673b**，**均未 push**。
 
 ### [2026-10-03 14:53 UTC] [DSH-Mac] → All
 
