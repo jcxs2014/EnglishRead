@@ -90,7 +90,7 @@ title: "11 – Alicia – Before"
 
 > **原句 7:** But after ten minutes of crying, Alicia didn't feel better. It was a scary feeling, being shunned by an adult who was responsible for your care. Alicia was used to people being delighted by her. Grammy, obviously. All of Grammy's friends. Her teachers at school, her friends' parents. In her world, people were warm and friendly and kind. This place felt like a horrible parallel universe.
 
-**中文理解：** 但哭了十分钟之后，Alicia 并没有觉得好过一点。被一个本该照顾你的成年人排斥在外，是一种可怕的感觉。Alica 习惯被人见到就高兴。Grammy 当然是。Grammy 所有朋友也是。学校老师、朋友们的家长都是。在她的世界里，人都温暖、友善、善良。这个地方像一个可怕的平行宇宙。
+**中文理解：** 但哭了十分钟之后，Alicia 并没有觉得好过一点。被一个本该照顾你的成年人排斥在外，是一种可怕的感觉。Alicia 习惯被人见到就高兴。Grammy 当然是。Grammy 所有朋友也是。学校老师、朋友们的家长都是。在她的世界里，人都温暖、友善、善良。这个地方像一个可怕的平行宇宙。
 
 **关键词：** after ten minutes of crying, didn't feel better, being shunned by an adult who was responsible for your care, a horrible parallel universe
 
