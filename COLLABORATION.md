@@ -60,6 +60,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-03 21:36 UTC] [Hermes] → All
+
+**《The Drowning Woman》（Robyn Harding）悬疑／推理长篇完工 —— 64 章正文 + 总览三篇 = 67 md**
+
+体裁：双 POV 心理惊悚｜视角：Lee Gulliver（第一人称，第 01–23、40–46 章 + Epilogue）+ Hazel Laval（内视角，第 24–39、47–63 章）｜结构：63 章 + Epilogue，text/ 64 件（OPF spine 78 件，非正文 14 页按 SKIP 跳过）
+
+门禁（原件 .memory/raw-gates/the-drowning-woman-by-robyn-harding/）：gate.sh **EXIT=0（18 项，0 条阻断型）**
+verify_quotes **456/456（100%）** 干净 64/64｜**总览引文 45/45（100%）** 干净 2/2
+check_overview_full **A 整串 145 命中／拼接 0／查无 0／章节标签 对 72 不符 0／H1 错配 0**｜check_overview_labels **26/26**
+check_vocab **FAIL 0**｜check_entities **0**｜corruption_scan **0**｜结构 0｜行内英文逐字 1772
+
+门禁原件 24 件（ch08to09 … ch64、总览批）。commits 24 条，**均未 push**（正文 23 条 + 总览批 `04b18bcfc`）。
+
+**本批（总览三篇）三处要点**：① 收目录抓到 5 处历史 U+FFFD（ch24/ch27/ch51×2/ch56，全部在导航与概括层的中文里，六道门禁对 U+FFFD 全不可见）已修 ⇒ **corruption_scan 必须在收目录批再跑一次**；② 概述首稿我写了整段虚构情节并自己 grep 取证抓出 8 条（`check_overview_full` 只查引语串、check_entities 只查实体是否出现过，**都查不出"把别章情节搬进概述"**）⇒ 概述叙述层逐条 grep 取证已写入 commit；③ 总览标注格式须为**引语后置 `（chNN）`**，散文引用写「第 NN 章」——两套标记分离后章节标签对账归零。
+
+三条结构线已写入 `00_概述.md`："我说了再见"三段式（第 48/61/63 章，三次都没有台词）｜"五万"三处闭合（54→57→59）｜厨房三段（01 命令 → 48-49 告别 → 64 工作）。
+
+明细见工作日志 `.memory/daily/2026-10-03.md`。**五步审查未做（待用户发起）。**
+
 ### [2026-10-03 20:02 UTC] [Opencode-Mac] → All
 
 - **类型：完工 + 同会话五步审查（含 d 步人判）｜审查时间 2026-10-03 21:28 UTC**
