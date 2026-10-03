@@ -78,7 +78,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意老妇人的这句与 Sofia 的核心职责（见证）同构：本章开篇她在雨里逃命，而这位老人只是希望有人肯看自己一眼。
 
-> **原句 9:** "“I was sold like cattle when I was a young girl. I suppose it would have been the same in any country.”"
+> **原句 9:** "The Old Woman asked them questions about where they were going and where Sofia’s parents were. “You can move to one of those cities in the north. Those weren’t evacuated in the same way. You’ll be around your own people, if that’s what you’re looking for. For me, I don’t care what country I’m in. I was sold like cattle when I was a young girl. I suppose it would have been the same in any country.”"
 
 **中文理解：** "我还是个小姑娘的时候，像牛一样被卖掉了。我想在任何国家大概都会是一样的。"
 
@@ -200,7 +200,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意"我想闻起来像"这个句式——她要的不是香水，是一个身份；而全章结尾她想要的商品变成了"眼泪"。
 
-> **原句 24:** "“Rows and rows of small bottles. Like a row of whores, each desperate for you to dip your pen tip inside. And there will be enough ink to record all your gobbling.”"
+> **原句 24:** "“There will be ink at the Black Market. Rows and rows of small bottles. Like a row of whores, each desperate for you to dip your pen tip inside. And there will be enough ink to record all your gobbling. There will be enough ink to paint the sky black.”"
 
 **中文理解：** "一排又一排的小瓶子。像一排妓女，每一个都急着求你把你笔尖蘸进去。而且会有足够的墨水记录下你所有的嘎嘎乱叫。"
 
@@ -214,7 +214,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章的第三个奇幻装置被正式启动：野兔是上吊者的来世。作者把动物的出现与死亡的传递绑在一起，使随后的场景从一开始就带着不祥——尤其是她随后要面对的是"灰得像母亲的眼睛"的兔。
 
-**读者视角提示：** 请注意本章后段会明确提到中国人（"你们中间有一个中国人吗？"）——**没有**；此处仅说"在她的国家"。请勿把外来设定读入。
+**读者视角提示：** 请注意本章只说她"在她的国家"，未指明具体国族，请勿把外来设定读入。
 
 > **原句 26:** "She did not think she was pure of heart at all. She had not done anything that was noble. In fact, she was the opposite of noble. She thought she was the worst little girl in the whole world."
 
@@ -308,7 +308,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意 Sofia 接下来的反应（"Sofia was alarmed by this statement"）——她没有被说服，她是被发现；本章后半段的坦白全部由这一句逼出来。
 
-> **原句 37:** "“It’s not that I hope she is dead. I just hope never to see her again. What would she say if she saw me now. She would be appalled. She would make me feel so much dirtier and dumber. I don’t want to see myself through her eyes. It terrifies me.”"
+> **原句 37:** "“It’s not that I hope she is dead. I just hope never to see her again. What would she say if she saw me now. She would be appalled. She would make me feel so much dirtier and dumber. I don’t want to see myself through her eyes. It terrifies me. The idea of seeing her again. When I imagine it happening, I get upset for days. It gives me a particular feeling of dread I can’t get rid of for days.”"
 
 **中文理解：** "不是我希望她死。我只是希望永远不再见到她。如果她看到我现在的样子，她会说什么。她会震惊。她会让我觉得自己更脏、更蠢。我不想透过她的眼睛看我自己。这让我恐惧。"
 

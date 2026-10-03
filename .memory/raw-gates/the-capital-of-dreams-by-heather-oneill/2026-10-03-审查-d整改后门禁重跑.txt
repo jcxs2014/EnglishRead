@@ -1,0 +1,56 @@
+=== 审查 d 步整改后 · 第 3 条提交门禁全量重跑 ===
+时间: 2026-10-03 09:05 UTC
+
+--- ① verify_quotes ---
+❓ 无法判定：epub 不存在 — notes/books/novels/the-capital-of-dreams-by-heather-oneill/The Capital of Dreams - Heather O'Neill.epub
+   本书无参照集 ⇒ 引语逐字这一层**未检查**，不是「引语有问题」。
+   处置：按 AGENTS 第 3 条 lane 表记「降级 lane」；逐章归属改跑 check_chapter_quotes.py。
+
+--- ② verify_quotes --full (取证) ---
+❓ 无法判定：epub 不存在 — notes/books/novels/the-capital-of-dreams-by-heather-oneill/The Capital of Dreams - Heather O'Neill.epub
+   本书无参照集 ⇒ 引语逐字这一层**未检查**，不是「引语有问题」。
+   处置：按 AGENTS 第 3 条 lane 表记「降级 lane」；逐章归属改跑 check_chapter_quotes.py。
+
+--- ③ check_vocab ---
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「underwear」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「body temperature」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「stairwell」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「childhood homes」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「handwriting」
+
+--- ④ check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- ⑤ corruption_scan ---
+
+=== 编辑损坏扫描（the-capital-of-dreams-by-heather-oneill）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- ⑥ sweep_full ---
+=== 引语整串 flat 比对（the-capital-of-dreams-by-heather-oneill）===
+  参照集：text/ 逐章（37 章，可定章） + epub 交叉验证
+  ✅ 本章命中 772 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 11 条归 check_short_quotes；无章可对 0 条未判）
+
+--- ⑦ check_chapter_quotes (抽样 ch01/ch20/ch31/ch37) ---
+全章扫描: 解析引语块 773，命中本章 773（100%）
+✅ 全部引语均归属正确章节
+全章扫描: 解析引语块 773，命中本章 773（100%）
+✅ 全部引语均归属正确章节
+全章扫描: 解析引语块 773，命中本章 773（100%）
+✅ 全部引语均归属正确章节
+全章扫描: 解析引语块 773，命中本章 773（100%）
+✅ 全部引语均归属正确章节
+
+--- ⑧ verify_overview_quotes ---
+00_情感节点.md: 14/14 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 38/38 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+--- ⑨ check_quote_blocks ---
+=== 引语块结构对账（the-capital-of-dreams-by-heather-oneill）===
+  带前缀的 `> **原句 N:**` 行：37 个文件共 720 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏

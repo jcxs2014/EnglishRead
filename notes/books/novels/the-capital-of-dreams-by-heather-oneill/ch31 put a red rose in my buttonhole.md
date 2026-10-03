@@ -104,7 +104,9 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意这句话所批评的"教育"正是她母亲与祖母一直贯彻的那一套；**而她本人此刻正在做相反的事。**
 
-> **原句 12:** "“You might think the first thing the Enemy did when it came to the country was to raid our pantries and bakeries and eat everything good.” / They both giggled at this image."
+> **原句 12:"“You might think the first thing the Enemy did when it came to the country was to raid our pantries and bakeries and eat everything good.”
+>
+They both giggled at this image.
 
 **中文理解：** "你也许会以为，敌人来到这个国家做的第一件事就是洗劫我们的食品柜和面包店，把好东西全都吃掉。"他们两人为这个画面咯咯笑起来。
 
@@ -120,7 +122,9 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意说这句话的人后来证明比敌人更糟；**本章让他先说出这句最清醒的话，再让他去偷一个女孩的戒指。**
 
-> **原句 14:** "“Did anyone ever tell you that you are beautiful?” / Sofia felt her cheeks turn a pretty shade of pink. She shook her head. She didn’t believe it was possible. There was no way such a claim could be true. So she shook her head, but she did it lightly and not emphatically. Because she wanted him to continue saying and thinking what he was saying. She wanted him to undo everything she had ever thought about herself."
+> **原句 14:"“Did anyone ever tell you that you are beautiful?”
+>
+Sofia felt her cheeks turn a pretty shade of pink. She shook her head. She didn’t believe it was possible. There was no way such a claim could be true. So she shook her head, but she did it lightly and not emphatically. Because she wanted him to continue saying and thinking what he was saying. She wanted him to undo everything she had ever thought about herself.
 
 **中文理解：** "有人告诉过你你很美吗？"Sofia 感到自己的脸颊变成一种漂亮的粉色。她摇了摇头。她不相信这是可能的。这样的说法绝无可能为真。所以她摇头，但摇得很轻，不坚决。因为她想让他继续说他正在说的话、继续那样想。她想让他撤销她曾经对自己有过的一切想法。
 
@@ -168,7 +172,11 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意她的愿望是把已经吃下的东西吐出来；**本章末她所失去的，正是她拿来交换的那些宝贝。**
 
-> **原句 20:** "“A map! Very contraband. You know the penalty for having a map is instant death?” / “Someone has mentioned that. But isn’t that the punishment for everything these days?” / “I suppose it is.”"
+> **原句 20:"“A map! Very contraband. You know the penalty for having a map is instant death?”
+>
+“Someone has mentioned that. But isn’t that the punishment for everything these days?”
+>
+“I suppose it is.”
 
 **中文理解：** "一张地图！非常违禁。你知道持有地图的刑罚是立即处死吗？""有人提过。可这些日子，什么事的刑罚不都是这个吗？""我想是的。"
 
@@ -176,7 +184,11 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意他说这话时手里正拿着她的地图；**本章末正是他用地图和戒指作为离开的资本。**
 
-> **原句 21:** "“It was a girl named Celeste.” / “And where is she now?” / Sofia hesitated. If Tobias went and found Celeste, he would fall madly in love with her. He would forget Sofia ever existed. And Celeste knew how to love a man. How to get a man to love her."
+> **原句 21:"“It was a girl named Celeste.”
+>
+“And where is she now?”
+>
+Sofia hesitated. If Tobias went and found Celeste, he would fall madly in love with her. He would forget Sofia ever existed. And Celeste knew how to love a man. How to get a man to love her.
 
 **中文理解：** "那是一个叫 Celeste 的女孩。""那她现在在哪里？"Sofia 犹豫了。如果 Tobias 去找 Celeste，他会疯狂地爱上她。他会忘记 Sofia 曾经存在过。而 Celeste 知道怎样爱一个男人，怎样让一个男人爱上她。
 
@@ -192,7 +204,9 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意她随后详细想象了白鹅如何会被别的孩子吊死并吃掉；**本章末险些被吊死的正是她自己。**
 
-> **原句 23:** "“I feel as though you might need a mother right at this moment, to warn you about this soldier.” / “I don’t care about anything my mother says. She didn’t love me enough to keep me with her.”"
+> **原句 23:"“I feel as though you might need a mother right at this moment, to warn you about this soldier.”
+>
+“I don’t care about anything my mother says. She didn’t love me enough to keep me with her.”
 
 **中文理解：** "我觉得你此刻可能需要一位母亲，来警告你提防这个士兵。""我不在乎我母亲说的任何话。她不够爱我，没有把我留在她身边。"
 
@@ -200,7 +214,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意白鹅此后不再提母亲，但他仍然跟着她；**本章末他叼着刀回来救她，用的正是母亲的姿态。**
 
-> **原句 24:** "“What is the difference between pretending to love someone and actually loving them? I prefer it. At least I know I can count on it. When someone tells a lie, they commit to it.”"
+> **原句 24:** "“What do I care whether he actually cares for me? He makes me feel as though he does. He makes me feel like I am normal. And I am worthy. I don’t care whether he is pretending to love me. What is the difference between pretending to love someone and actually loving them? I prefer it. At least I know I can count on it. When someone tells a lie, they commit to it. If they are being nice to me out of a sort of contempt, or to get me to do whatever they want, what do I care? Love is fickle. Love doesn’t last. It’s better they feel nothing for you right from the start. At least he acts as though I should be treated like a lovable girl. At least he assumes I ought to be treated as though I am wanted and cherished. At least he imagines I know what that feels like and am expecting it.”"
 
 **中文理解：** "假装爱一个人和真的爱一个人，有什么区别？我更喜欢前者。至少我知道我能指望它。一个人说谎的时候，他是对那个谎有承诺的。"
 
@@ -208,7 +222,9 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意白鹅听完说的是"你在胡说八道"与"你的心智是你自己最大的敌人"；**本章随后证明她并没有疯，只是算错了。**
 
-> **原句 25:** "“No! I do not think that, Sofia. You are just a young girl. It is not your business to have a manifesto. You are still in the process of becoming. You have not come up with your great ideas as of yet.” / “Aha! Well, I am tired of being seen as a little girl who has only half-baked notions of the world. Who can have only a half-baked identity. I want to be regarded as a woman.”"
+> **原句 25:"“No! I do not think that, Sofia. You are just a young girl. It is not your business to have a manifesto. You are still in the process of becoming. You have not come up with your great ideas as of yet.”
+>
+“Aha! Well, I am tired of being seen as a little girl who has only half-baked notions of the world. Who can have only a half-baked identity. I want to be regarded as a woman.”
 
 **中文理解：** "不！我不这么想，Sofia。你只是一个小女孩。写宣言不是你的事。你还在成为的过程之中。你还没有形成你那些伟大的想法。""啊哈！好吧，我受够了被看作一个对世界只有半生不熟念头的小女孩。一个只能有半生不熟身份的人。我想被当作一个女人。"
 
@@ -256,7 +272,11 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意执行这道纪律所需的全部能力，正是她在战争里学到的那些；**本章让她用它们来保住自己的性命。**
 
-> **原句 31:** "“I suppose standing up there must put you in quite the quandary, allowing you to rethink your choices in life.” / “Are you going to help me or not?” / “Now you know exactly how I feel every day—as though I am standing on a chair with a noose, waiting for someone to come along and kick it."
+> **原句 31:"“I suppose standing up there must put you in quite the quandary, allowing you to rethink your choices in life.”
+>
+“Are you going to help me or not?”
+>
+“Now you know exactly how I feel every day—as though I am standing on a chair with a noose, waiting for someone to come along and kick it.
 
 **中文理解：** "我猜站在那上面一定让你陷入相当的两难，让你得以重新思考人生中的选择。""你到底帮不帮我？""现在你完全知道了我每天是什么感觉——仿佛我站在一把椅子上、脖子上套着绳套，等着有人过来把它踢掉。"
 
@@ -296,15 +316,19 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意这段话在本章的位置：它出现在她刚被吊过、刚失去一切之后；**本章末他还要用同一套逻辑发表一份宣言。**
 
-> **原句 36:** "“I am the very worst kind of Elysian.” / “Next you will be telling me that you are responsible for your country’s having lost the war. You might as well say you caused a rainstorm by forgetting your umbrella at home.”"
+> **原句 36:** "“You don’t understand. You have much too high an opinion of me. You think this is out of character for me. But it isn’t. It is who I am. I cannot be trusted. I have lost all our treasures. I sold us out. I could never be a member of the resistance. To be a member of the resistance, you have to be bold and selfless. You have to put your country and those you wish to save above yourself. But I am pathetic. I am a fool. I will surrender everything for my own stupid desire to be happy. To survive. I am the very worst kind of Elysian.”"
+>
+> “Next you will be telling me that you are responsible for your country’s having lost the war. You might as well say you caused a rainstorm by forgetting your umbrella at home.”"
 
-**中文理解：** "我是最糟的那种埃律西亚人。""接下来你就要告诉我，你对你国家输掉这场战争负有责任。你干脆说因为你把伞忘在家里，所以引起了一场暴雨好了。"
+**中文理解：** "你不明白。你把我估计得太高了。你以为这对我来说不合常理。但不是的。这就是我。我不可信任。我丢掉了我们所有的财宝。我出卖了我们。我永远做不了抵抗组织的一员。要做一个抵抗者，你得大胆而无私……可我很可悲。我是个傻瓜。为了我自己那点想快乐的愚蠢欲望，我会交出一切。为了活下去。我是最糟的那种埃律西亚人。""接下来你就要告诉我，你对你国家输掉这场战争负有责任。你干脆说因为你把伞忘在家里，所以引起了一场暴雨好了。"
 
 **为什么这样写：** 全章对自我归罪最有效的一次反驳，且全部由反例完成：忘带伞引起暴雨。作者用这个荒唐的因果把她的自罪换算成一种可笑的算术。
 
 **读者视角提示：** 请注意白鹅此后并未追问她"最糟的那种人"具体指什么；**本章把那份具体的账留给读者，而它写在第三十章。**
 
-> **原句 37:** "“When I saw you outside the train station the first time, I knew you were different.” / “I know. You told me. You said you were certain I was from the Capital because you could tell I had a conceited air about me.”"
+> **原句 37:"“When I saw you outside the train station the first time, I knew you were different.”
+>
+“I know. You told me. You said you were certain I was from the Capital because you could tell I had a conceited air about me.”
 
 **中文理解：** "我第一次在火车站外面看见你的时候，就知道你不一样。""我知道。你告诉过我。你说你确信我来自首都，因为你能看出我身上有一种自负的神气。"
 
@@ -312,7 +336,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意他随后解释那番话是"防御"与"自尊心"所致；**本章结尾他要发表的宣言，也是这样一次从自负到自我怀疑的转向。**
 
-> **原句 38:** "“And I thought, I am in the same boat as her. There is a kindred spirit. And when you picked me up in your arms, I was so shocked. I had no idea what you wanted from me. I knew you did not intend to eat me.”"
+> **原句 38:** "“And I thought, I am in the same boat as her. There is a kindred spirit. And when you picked me up in your arms, I was so shocked. I had no idea what you wanted from me. I knew you did not intend to eat me. I was glad we were together. And the whole time I was on the back of the truck with you, I knew you were in disguise. I knew the coat you were wearing wasn’t yours because it didn’t smell like you. And you smelled as though you were from a place I had never been. And it smelled like home.”"
 
 **中文理解：** "而我想，我和她坐在同一条船上。有一个同类。而当你把我抱起来的时候，我那么震惊。我完全不知道你想从我这里要什么。我知道你不打算吃我。"
 
@@ -320,7 +344,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意白鹅此后的全部忠诚都建立在这一句上；**而本章末他险些被 Tobias 当作贿赂士兵的一顿饭。**
 
-> **原句 39:** "“You have taken me seriously. You have treated me as an equal. You treated my life as though it was as valuable as yours. You respected my journey.”"
+> **原句 39:** "“Sofia. These have been the most extraordinary days of my life. I joined you on your journey; you did not join me on mine. You have shown me the most incredible friendship. You have taken me seriously. You have treated me as an equal. You treated my life as though it was as valuable as yours. You respected my journey. You have shown me what the Capital is like. Even though it is no longer there.”"
 
 **中文理解：** "你认真对待我。你把我当作平等的。你对待我的生命，仿佛它和你的生命一样宝贵。你尊重我的旅程。"
 
@@ -455,4 +479,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-Tobias 到来之后，Sofia 的世界被春天与奉承同时打开——他倒立、吹完美的口哨、把星星说成通敌者、把镜子里的自己看作怪物，她则把这种言说当成"战争造出的新语言"而喜欢；她舔了枝头紧蜷的花芽，那芽当场开放，森林披上叶子，树不再是赤裸的人，而她在同一片林子里开始为一个男人的目光担惊受怕。湖边洗衣、一杯薄荷茶、一颗来自黑市的巧克力（"把樱桃吸出来"）、一场连裤袜气味的海啸般的性事，随后是他要去黑市、她掏出地图哀求同行；她说自己不想要另一次分别，他说他最好一个人走，用她的鹅当借口，把戒指从她的中指换到无名指再在夜里从她手上取走。她与白鹅争执到最激烈处——她说女人需要保护者、说她厌倦了理性、说她只要有人假装爱她；白鹅说"战争里一个士兵就只是一个士兵，一个女孩就只是一个女孩，这套动力学永远是一样的"。第二天他穿好军装、背起装满的包、把地图绑在上面，扇了她一记与母亲打在完全相同位置上的耳光，把绳套套在她脖子上、逼她站在椅子上、捆住她的手腕，说"把鹅叫回来，否则我就吊死你"；她站得背脊笔直，任何一次滑倒都会让她吊死自己，直到白鹅叼着刀出来，她已经挣脱麻绳、跳下椅子，被一阵寒意攫住、抖得停不下来。白鹅钻进被子，用体温把那个洞穴填满；她想起发烧那夜母亲端来的一杯茶，低声说"没有人爱我……我母亲不爱我，更糟的是她不喜欢我，这是一个诅咒"；白鹅说自怜是一切伟大运动的动力、自厌是一口随时能打水的深井。他们随后和解，白鹅承认当初的自负、也说出"你认真对待我，把我当作平等的，你尊重我的旅程"；她则为它搭起一个木箱当讲台，发表了一份**由一只鹅说出、为输掉战争的人写的新文学宣言**——用子弹的标点、炸弹的停顿、段落的占领教会了两年的孩子，词语取自卡车侧面与墙上的涂鸦，每个句子都必须能独立存在，"如果只有一个句子活下来，其余的文字可以从它生长出来"，这份文学属于被占领者与被毁灭者。
+Tobias 到来之后，Sofia 的世界被春天与奉承同时打开——他倒立、吹完美的口哨、把星星说成通敌者、把镜子里的自己看作怪物，她则把这种言说当成"战争造出的新语言"而喜欢；她舔了枝头紧蜷的花芽，那芽当场开放，森林披上叶子，树不再是赤裸的人，而她在同一片林子里开始为一个男人的目光担惊受怕。湖边洗衣、一杯薄荷茶、一颗来自黑市的巧克力（"把樱桃吸出来"）、一场连裤袜气味的海啸般的性事，随后是他要去黑市、她掏出地图哀求同行；她说自己不想要另一次分别，他说他最好一个人走，用她的鹅当借口，把戒指从她的中指换到无名指、再在第二天早晨从她手上取走。她与白鹅争执到最激烈处——她说女人需要保护者、说她厌倦了理性、说她只要有人假装爱她；白鹅说"战争里一个士兵就只是一个士兵，一个女孩就只是一个女孩，这套动力学永远是一样的"。第二天他穿好军装、背起装满的包、把地图绑在上面，扇了她一记与母亲打在完全相同位置上的耳光，把绳套套在她脖子上、逼她站在椅子上、捆住她的手腕，说"把鹅叫回来，否则我就吊死你"；她站得背脊笔直，任何一次滑倒都会让她吊死自己，直到白鹅叼着刀出来，她已经挣脱麻绳、跳下椅子，被一阵寒意攫住、抖得停不下来。白鹅钻进被子，用体温把那个洞穴填满；她想起发烧那夜母亲端来的一杯茶，低声说"没有人爱我……我母亲不爱我，更糟的是她不喜欢我，这是一个诅咒"；白鹅说自怜是一切伟大运动的动力、自厌是一口随时能打水的深井。他们随后和解，白鹅承认当初的自负、也说出"你认真对待我，把我当作平等的，你尊重我的旅程"；她则为它搭起一个木箱当讲台，发表了一份**由一只鹅说出、为输掉战争的人写的新文学宣言**——用子弹的标点、炸弹的停顿、段落的占领教会了两年的孩子，词语取自卡车侧面与墙上的涂鸦，每个句子都必须能独立存在，"如果只有一个句子活下来，其余的文字可以从它生长出来"，这份文学属于被占领者与被毁灭者。

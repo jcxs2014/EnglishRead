@@ -23,7 +23,9 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意这一章与第二章的镜像：第二章也是母亲把东西塞给她、也是她被动地被送上火车；**这一次她开口反对了，而反对无效。**
 
-> **原句 2:** "“I don’t want to go.” / “Sofia, this is a war. Everybody is doing something they don’t want to do.”"
+> **原句 2:"“I don’t want to go.”
+>
+“Sofia, this is a war. Everybody is doing something they don’t want to do.”
 
 **中文理解：** "我不想走。""Sofia，这是一场战争。每个人都在做一些自己不想做的事。"
 
@@ -39,7 +41,11 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意她把母亲写成竞争对手，而不是保护者；**本章末她自己承认她并不真的相信母亲的书蠢。**
 
-> **原句 4:** "“Everyone is sending their children out of the Capital. You’ll draw too much suspicion if you stay. Don’t you want to be safe? Don’t you want to go to bed and not worry about the building coming down on your head?” / “No, I do not. That is boring. I like the war!” / “You like the war.You like it. Only a child would think this is some kind of game. I suppose that’s what happens to children during the war.”"
+> **原句 4:"“Everyone is sending their children out of the Capital. You’ll draw too much suspicion if you stay. Don’t you want to be safe? Don’t you want to go to bed and not worry about the building coming down on your head?”
+>
+“No, I do not. That is boring. I like the war!”
+>
+“You like the war.You like it. Only a child would think this is some kind of game. I suppose that’s what happens to children during the war.”
 
 **中文理解：** "所有人都在把孩子送出首都。你要是留下来会引来太多怀疑。你不想安全吗？你不想上床睡觉而不用担心房子塌下来砸在你头上吗？""不，我不想。那很无聊。我喜欢这场战争！""你喜欢战争。你喜欢它。只有小孩才会觉得这是什么游戏。我猜孩子在战时就是这样。"
 
@@ -47,7 +53,11 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意她说"我喜欢战争"时距她刚被吊在树上只有一天；**这句话是本章最不自愿的一句声明，也是全书对她这个年纪最准确的记录。**
 
-> **原句 5:** "“Why don’t you escape the Capital too, then?” / “Darling, I can’t.” / “Why do you think you love the Capital more than I do?”"
+> **原句 5:"“Why don’t you escape the Capital too, then?”
+>
+“Darling, I can’t.”
+>
+“Why do you think you love the Capital more than I do?”
 
 **中文理解：** "那你为什么不也逃出首都？""亲爱的，我不能。""你为什么认为你比我更爱首都？"
 

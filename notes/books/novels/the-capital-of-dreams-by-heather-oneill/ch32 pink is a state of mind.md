@@ -135,7 +135,9 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意"侧手翻并不等同于必死"这一句：它是对她本人处境的直接回答；**本章此后仍有一段，把这份史料的语法继续往下推。**
 
-> **原句 16:** "“Well, of course pink is a colour. What else could it be?” / “A state of mind. A state of confusion and uncertainty and upheaval.”"
+> **原句 16:"“Well, of course pink is a colour. What else could it be?”
+>
+“A state of mind. A state of confusion and uncertainty and upheaval.”
 
 **中文理解：** "嗯，粉色当然是一种颜色。它还能是什么？""一种心态。一种混乱、不确定与动荡的心态。"
 

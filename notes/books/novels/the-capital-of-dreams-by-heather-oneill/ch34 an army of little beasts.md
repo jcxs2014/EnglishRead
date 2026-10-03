@@ -47,7 +47,11 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意第三十二章她说爱只是一种付出去什么也换不回来的通货；**这一章她仍然决定要去买，而这一次的卖家是死亡。**
 
-> **原句 5:** "“What will you buy all this with?” inquired the Goose. “You don’t have your ring anymore.” / “I happen to have, in my inner pocket, a very important document that will have to be worth something.” / The Goose stopped as though he was going to say something about this, and then shrugged his wings and walked along next to Sofia."
+> **原句 5:"“What will you buy all this with?” inquired the Goose. “You don’t have your ring anymore.”
+>
+“I happen to have, in my inner pocket, a very important document that will have to be worth something.”
+>
+The Goose stopped as though he was going to say something about this, and then shrugged his wings and walked along next to Sofia.
 
 **中文理解：** "你拿什么买这些？"白鹅问。"你已经没有戒指了。""我恰好有一份很重要的文件，就在我的内袋里，它一定值点什么。"白鹅停下来，好像要对这件事说点什么，然后耸了耸肩翅膀，和 Sofia 并排往前走。
 
@@ -111,7 +115,9 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意她此刻最怕的不是死，是"太多了，跑也没用"；**本章最后对她施暴的只有一个人。**
 
-> **原句 13:** "“No!” cried Sofia. “This isn’t an ordinary goose. It is a talking goose!” / The soldiers looked at her and at each other. They weren’t sure she was saying what she was saying. They did not speak her language well. They knew the children they had come across had all gone mad."
+> **原句 13:"“No!” cried Sofia. “This isn’t an ordinary goose. It is a talking goose!”
+>
+The soldiers looked at her and at each other. They weren’t sure she was saying what she was saying. They did not speak her language well. They knew the children they had come across had all gone mad.
 
 **中文理解：** "不！"Sofia 喊道。"这不是一只普通的鹅。这是一只会说话的鹅！"士兵们看看她，又互相看了看。他们不确定她说的是不是那个意思。他们说不好她的语言。他们知道他们遇到的孩子全都疯了。
 
@@ -135,7 +141,9 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意本书自己就是写"人不会因此被毁掉"的——军官听完只把它翻给士兵们听，众人哄笑；**她赌的那一样东西，本章证明不存在。**
 
-> **原句 16:** "Sofia pulled the folded-up yellowed piece of paper from the inside pocket of her coat. “Here,” she cried. / The officer took the paper and looked at it. “Well, this says to spare your life, but there is nothing about a goose, I’m afraid.”"
+> **原句 16:"Sofia pulled the folded-up yellowed piece of paper from the inside pocket of her coat. “Here,” she cried.
+>
+The officer took the paper and looked at it. “Well, this says to spare your life, but there is nothing about a goose, I’m afraid.”
 
 **中文理解：** Sofia 从外套内袋里掏出那张折起来的、泛黄的纸。"给你，"她喊道。军官接过纸看了看。"嗯，这上面写着饶你一命，但恐怕没提到鹅。"
 

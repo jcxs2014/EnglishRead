@@ -141,7 +141,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章最干净的一次回收，且它的时机正好落在她刚宣布"没有魔法"之后：失物回来了，只是通过一个人而不是一次显灵。作者让她的反应是"笑"而不是哭，因此这个奇迹被降格、也被兑现。
 
-**读者视角提示：** 请注意这枚戒指是祖母留给她的、在第三十一章被 Tobias 从她手上取走；**本章她拿回了它，但母亲的戒指、母亲的书、母亲的命都在同一段时间里失去。**
+**读者视角提示：** 请注意这枚戒指的来历她谎称是祖母所留（原文在第三十一章明标 `Sofia lied`）、后来被 Tobias 从她手上取走；**本章她拿回了它，但母亲的戒指、母亲的书、母亲的命都在同一段时间里失去。**
 
 > **原句 17:** "She was guilty that she was alive and he was not. She didn’t know whether she was allowed to feel joy and pleasure and happiness. How could she when the Goose had undergone something so horrific? She thought the only thing she could do for the Goose was to contemplate his terrible tragedy all day long."
 
@@ -191,7 +191,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意紧接着她就用这套艺术论论证母亲那本书"具有根本性的重要"；**本章最后她会亲自把这本书的存在判死，然后再亲眼看见母亲被处决。**
 
-> **原句 23:** "“I was supposed to take my mother’s manuscript out of the country. You see, I wasn’t supposed to go to the country for safekeeping, like all the other children were doing. My mother would never have done that. She would rather I die in the city than be sent to the country. She used to say she hated what the country did to people’s minds. That it made them lazy.""
+> **原句 23:** "“I was supposed to take my mother’s manuscript out of the country. You see, I wasn’t supposed to go to the country for safekeeping, like all the other children were doing. My mother would never have done that. She would rather I die in the city than be sent to the country. She used to say she hated what the country did to people’s minds. That it made them lazy."
 
 **中文理解：** "我本该把母亲的手稿带出境。你看，我不是像其他孩子那样被送去乡下避难的。我母亲绝不会那样做。她宁可我在城里死，也不愿我被送去乡下。她过去常说，她讨厌乡下对人心智的影响。那会把人们变懒。"
 
@@ -229,15 +229,17 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章最平静也最可怕的三句重复，且它们出现在她刚刚意识到母亲会因为这张纸被枪决的同一页上。作者不加任何评论地重复三次，因此这份安全感读起来像一次自我催眠。
 
-**读者视角提示：** 请注意这三句是她全书中第一次公开宣布自己安全；**本章接下来她跑出军营、换掉外套、把纸贴在胸口，一路跑向首都——她将用这张纸活到全书最后一章。**
+**读者视角提示：** 请注意这三句是她全书中第一次公开宣布自己安全；**闪回段结尾她跑出军营、换掉外套、把纸贴在胸口，然后上了卡车抱着白鹅，想着往黑市去——她将用这张纸活到全书最后一章。**
 
-> **原句 28:** "“You realize, of course, that this means the immediate execution of your mother.” / She looked up from her paper. At that moment she saw the general pick up the warrant for her mother’s arrest. He handed it to a soldier, who folded it, tucked it into his breast pocket, and headed out the door to put an end to Clara Bottom."
+> **原句 28:"“You realize, of course, that this means the immediate execution of your mother.”
+>
+She looked up from her paper. At that moment she saw the general pick up the warrant for her mother’s arrest. He handed it to a soldier, who folded it, tucked it into his breast pocket, and headed out the door to put an end to Clara Bottom.
 
 **中文理解：** "你当然明白，这意味着你母亲会被立即处决。"她从纸上抬起头。那一刻她看见将军拿起逮捕她母亲的令状。他把它交给一名士兵，那士兵把令状折好，塞进胸前口袋，走出门去，去终结 Clara Bottom。
 
 **为什么这样写：** 全章的道德顶点，且它的写法是把一次处决压缩成一个行政动作：折纸、塞进口袋、出门。作者不写 Sofia 的反应，只写她的视线，因此这一刻的全部重量落在"她抬头看了一眼"这个动作上。
 
-**读者视角提示：** 请注意她低头看的是自己那张免死证明；**本章末她跑出军营时"好像她从来没有背叛过母亲"，而她最终还是要回到首都去面对这件事。**
+**读者视角提示：** 请注意她低头看的是自己那张免死证明；**闪回段结尾她跑出军营时"好像她从来没有背叛过母亲"，而她最终还是要回到首都去面对这件事。**
 
 ## 本章词汇
 

@@ -134,7 +134,11 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意她剪的是自己身上那条黑裙（ch02 农女互换得来的衣服）；这个头套用的布料是从她身份的一部分上剪下来的。
 
-> **原句 16:** "“Am I meant to be a bandit?” / “No, you are meant to be a swan.” / “Oh.”"
+> **原句 16:"“Am I meant to be a bandit?”
+>
+“No, you are meant to be a swan.”
+>
+“Oh.”
 
 **中文理解：** "我这是要当土匪吗？" / "不，你是要当天鹅。" / "哦。"
 
@@ -210,7 +214,7 @@ modified: "2026-10-03"
 
 **中文理解：** 然后他们沉默了，因为他们知道必须放这个没有母亲的孩子走。
 
-**为什么这样写：** 全章收尾句，把审判折回沉默：他们不是判了她，而是"必须放她走"（had to let her go），把遗弃写成一个必须完成的手续。作者用"这个没有母亲的孩子"（this motherless child）作为全章最后一个称呼——不是 Celeste，不是朋友，而是一个身份缺口。
+**为什么这样写：** 全章收尾句，把审判折回沉默：他们不是判了她，而是"必须放她走"（had to let this motherless child go），把遗弃写成一个必须完成的手续。作者用"这个没有母亲的孩子"（this motherless child）作为全章最后一个称呼——不是 Celeste，不是朋友，而是一个身份缺口。
 
 **读者视角提示：** 请注意这句里的"他们"是 Sofia 和白鹅：本章以 Celeste 把 Sofia 绑在床上开场，以 Sofia 与白鹅合谋把 Celeste 判出局收尾——两个人都得到了某种形式的镣铐。
 

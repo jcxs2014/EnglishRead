@@ -38,7 +38,9 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意这句与紧接着"她不可能找到 Celeste 了"的连读：嗅觉的毁坏先于希望的破灭，作者的顺序是身体先知道。
 
-> **原句 4:** "“Let’s go into the hospital,” she said to the Goose. “Maybe we can find some food and blankets. If it’s empty, we can sleep there and continue to the Black Market in the morning.” / “Wherever it may be,” added the Goose, tired himself."
+> **原句 4:"“Let’s go into the hospital,” she said to the Goose. “Maybe we can find some food and blankets. If it’s empty, we can sleep there and continue to the Black Market in the morning.”
+>
+“Wherever it may be,” added the Goose, tired himself.
 
 **中文理解：** "我们进医院吧，"她对白鹅说，"也许能找到食物和毯子。如果它是空的，我们就在那里睡一晚，早上再去黑市。""不管它在哪儿，"白鹅补了一句，他自己也累了。
 
@@ -110,7 +112,11 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请与后文"如果他们不打算回来，就不会把东西留下"连读：两处都用同一套证据式推理，支撑她的等待。
 
-> **原句 13:** "“Look at my hands.” She held them up for Sofia to look at. “Can you see through them?” / “No.” / “You can’t? They look like they are made of the same material as clouds. Like the steam on the surface of a mirror after you take a warm bath. I’m afraid to blow on them or they will disappear.”"
+> **原句 13:"“Look at my hands.” She held them up for Sofia to look at. “Can you see through them?”
+>
+“No.”
+>
+“You can’t? They look like they are made of the same material as clouds. Like the steam on the surface of a mirror after you take a warm bath. I’m afraid to blow on them or they will disappear.”
 
 **中文理解：** "看我的手。"她把手举起来让 Sofia 看。"你能看穿它们吗？""不能。""你不能？它们看起来和云是同一种材质。像你洗过热水澡后镜面上的蒸汽。我怕往上吹气，它们就会消失。"
 

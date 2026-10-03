@@ -1,0 +1,43 @@
+### c/d 步：结构扫描 + 第二实现（换检查路径）2026-10-03
+
+=== c ⑰ check_quote_blocks（块结构权威）===
+=== 引语块结构对账（the-capital-of-dreams-by-heather-oneill）===
+  带前缀的 `> **原句 N:**` 行：37 个文件共 720 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== c ⑪ audit_structure（规定实现）===
+  ⚠️ ch29 the toy soldier.md  4/68 个块子项少于同书主流（缺：为什么这样写、读者视角提示）
+  ⚠️ ch29 the toy soldier.md  引语 68 个，与本书众数 10 相差过大
+  ⚠️ ch30 the saboteur wears patent leather s  1/55 个块子项少于同书主流（缺：为什么这样写、读者视角提示）
+  ⚠️ ch30 the saboteur wears patent leather s  引语 55 个，与本书众数 10 相差过大
+  ⚠️ ch31 put a red rose in my buttonhole.md  引语 50 个，与本书众数 10 相差过大
+  ⚠️ ch34 an army of little beasts.md  引语 24 个，与本书众数 10 相差过大
+  ⚠️ ch35 the black market wore ribbons in he  引语 28 个，与本书众数 10 相差过大
+  ⚠️ ch37 what came first the mother or the e  引语 24 个，与本书众数 10 相差过大
+
+=== c 第二实现 check_struct_indep ===
+  ❌ ch27 tiptoe through the landmines.md: [summary] 引语块 63 个，超出 3–8 配额
+  ❌ ch28 songs for city birds on clarinet.md: [summary] 引语块 19 个，超出 3–8 配额
+  ❌ ch29 the toy soldier.md: [summary] 引语块 52 个，超出 3–8 配额
+  ❌ ch30 the saboteur wears patent leather shoes.md: [summary] 引语块 39 个，超出 3–8 配额
+  ❌ ch31 put a red rose in my buttonhole.md: [summary] 引语块 42 个，超出 3–8 配额
+  ❌ ch32 pink is a state of mind.md: [summary] 引语块 16 个，超出 3–8 配额
+  ❌ ch33 a suitcase the size of a country.md: [summary] 引语块 13 个，超出 3–8 配额
+  ❌ ch34 an army of little beasts.md: [summary] 引语块 24 个，超出 3–8 配额
+  ❌ ch35 the black market wore ribbons in her hair.md: [summary] 引语块 28 个，超出 3–8 配额
+  ❌ ch36 a valentine from the capital.md: [summary] 引语块 19 个，超出 3–8 配额
+  ❌ ch37 what came first the mother or the egg.md: [summary] 引语块 23 个，超出 3–8 配额
+=== 独立结构扫描：37 个 md，缺陷 37 处 ===
+
+=== c ⑬ 空段扫描 ===
+/opt/homebrew/Cellar/python@3.14/3.14.7/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/jcxs2014/Documents/Works/EnglishRead/scripts/check_empty_sections.py': [Errno 2] No such file or directory
+
+=== d 第二实现 check_analysis_indep ===
+抽出分析层英文片段 47 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）2 条 —— 只报不判红，须人判：
+  ch02 the childrens train.md:12  Sofia ran away from the world of adults
+  ch02 the childrens train.md:77  run away from the world of adults
+
+=== d 第二实现 check_xref_indep ===
+=== chNN 引用 158 处：英文证据报警 0 处 ／ 中文式待人判 129 处 ===

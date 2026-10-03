@@ -1,0 +1,194 @@
+=== 五步审查 e 步：整改后门禁全量重跑（最终态）===
+书籍：the-capital-of-dreams-by-heather-oneill
+时间：2026-10-03
+lane：完整 lane（epub: notes/books/novels/the-capital-of-dreams-by-heather-oneill/library/The Capital of Dreams (Heather ONeill) (Z-Library).epub）
+
+############ ① verify_quotes ############
+
+⚠️ 全书共 13 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 787/787 引文可核实（100%）；完全干净文件 39/39；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+############ ② check_vocab ############
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「body temperature」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「stairwell」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「childhood homes」
+  ch36 a valentine from the capital.md [基础] 基础档疑含超纲词「handwriting」
+
+############ ③ check_entities ############
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+############ ④ corruption_scan ############
+=== 编辑损坏扫描（the-capital-of-dreams-by-heather-oneill）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+############ ⑤ sweep_full ############
+  ✅ 本章命中 753 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 11 条归 check_short_quotes；无章可对 0 条未判）
+
+############ ⑥ check_short_quotes ############
+=== 短引语兜底核对（the-capital-of-dreams-by-heather-oneill）===
+  verify_quotes 跳过（<20 flat 字符）的引语：36 条 —— 这些主门禁**根本没查**
+  ✅ 命中 36 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+############ ⑦ check_quote_blocks ############
+=== 引语块结构对账（the-capital-of-dreams-by-heather-oneill）===
+  带前缀的 `> **原句 N:**` 行：37 个文件共 720 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+############ ⑧ verify_overview_quotes ############
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 38/38 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+############ ⑨-⑱ gate.sh 全段 ############
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 787/787 引文可核实（100%）；完全干净文件 39/39；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 1189
+--- FAIL (0) ---
+--- WARN (55) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 753 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 36 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 prologue.md                               ch01 prologue.md: 10/10 in ch01 text
+ch02 the childrens train.md                    ch02 the childrens train.md: 10/10 in ch02 text
+ch03 the house was where we left it.md         ch03 the house was where we left it.md: 9/9 in ch03 text（另有 1 条短引语未校验）
+ch04 what we imagined we were.md               ch04 what we imagined we were.md: 10/10 in ch04 text
+ch05 postcards from the war.md                 ch05 postcards from the war.md: 10/10 in ch05 text
+ch06 a cat named napoleon.md                   ch06 a cat named napoleon.md: 10/10 in ch06 text
+ch07 sprinkle me in icing sugar before i die.md ch07 sprinkle me in icing sugar before i die.md: 9/9 in ch07 text（另有 1 条短引语未校验）
+ch08 a philosopher has what to say.md          ch08 a philosopher has what to say.md: 10/10 in ch08 text
+ch09 à la bottom.md                           ch09 à la bottom.md: 10/10 in ch09 text
+ch10 babes in the woods.md                     ch10 babes in the woods.md: 10/10 in ch10 text
+ch11 portrait of an ugly child.md              ch11 portrait of an ugly child.md: 10/10 in ch11 text
+ch12 a naked girl is always priceless.md       ch12 a naked girl is always priceless.md: 10/10 in ch12 text
+ch13 the mermaids who lost their voices.md     ch13 the mermaids who lost their voices.md: 11/11 in ch13 text
+ch14 motherhood is a disguise.md               ch14 motherhood is a disguise.md: 13/13 in ch14 text
+ch15 hunger glows in the dark.md               ch15 hunger glows in the dark.md: 13/13 in ch15 text
+ch16 the wolves danced on the ceiling.md       ch16 the wolves danced on the ceiling.md: 10/10 in ch16 text
+ch17 a wartime lullaby.md                      ch17 a wartime lullaby.md: 12/12 in ch17 text
+ch18 the fog wears grey stockings.md           ch18 the fog wears grey stockings.md: 14/14 in ch18 text
+ch19 the patron saint of young girls in high heels.md ch19 the patron saint of young girls in high heels.md: 16/16 in ch19 text
+ch20 adrift in formaldehyde.md                   MISS: 原句 13:"“Look at my hands.” She held them up for Sofia to look at. “Can you see t
+ch21 ballet for a swan with a broken neck.md   ch21 ballet for a swan with a broken neck.md: 43/43 in ch21 text
+ch22 they came for the poets.md                ch22 they came for the poets.md: 26/26 in ch22 text
+ch23 handcuffs made of smoke.md                  MISS: 原句 16:"“Am I meant to be a bandit?
+ch24 the price of tears during wartime.md      ch24 the price of tears during wartime.md: 45/45 in ch24 text
+ch25 every sentence is a magic spell.md        ch25 every sentence is a magic spell.md: 14/14 in ch25 text
+ch26 i heard the icicles singing.md            ch26 i heard the icicles singing.md: 23/23 in ch26 text（另有 1 条短引语未校验）
+ch27 tiptoe through the landmines.md           ch27 tiptoe through the landmines.md: 66/66 in ch27 text（另有 1 条短引语未校验）
+ch28 songs for city birds on clarinet.md       ch28 songs for city birds on clarinet.md: 19/19 in ch28 text
+ch29 the toy soldier.md                        ch29 the toy soldier.md: 60/60 in ch29 text（另有 7 条短引语未校验）
+ch30 the saboteur wears patent leather shoes.md ch30 the saboteur wears patent leather shoes.md: 52/52 in ch30 text（另有 3 条短引语未校验）
+ch31 put a red rose in my buttonhole.md          MISS: 原句 37:"“When I saw you outside the train station the first time, I knew you were
+ch32 pink is a state of mind.md                  MISS: 原句 16:"“Well, of course pink is a colour. What else could it be?
+ch33 a suitcase the size of a country.md         MISS: 原句 5:"“Why don’t you escape the Capital too, then?
+ch34 an army of little beasts.md                 MISS: 原句 16:"Sofia pulled the folded-up yellowed piece of paper from the inside pocket
+ch35 the black market wore ribbons in her hair.md   MISS: 原句 28:"“You realize, of course, that this means the immediate execution of your 
+ch36 a valentine from the capital.md           ch36 a valentine from the capital.md: 19/19 in ch36 text
+ch37 what came first the mother or the egg.md  ch37 what came first the mother or the egg.md: 24/24 in ch37 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+❌ ch25 every sentence is a magic spell.md: md 块 15 / 工具抽到 14
+⛔ 阻断型：1 个文件有块未进 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（the-capital-of-dreams-by-heather-oneill）===
+  ✅ 逐字 1306 ｜ ⚠️ 跨章 2 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1737
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、读者视角提示 ｜ 引语众数 10
+  ❌ 结构缺陷 64 ｜ ⚠️ 提示 15 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 14/14 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 38/38 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（the-capital-of-dreams-by-heather-oneill）===
+  参照集：text/（37 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（the-capital-of-dreams-by-heather-oneill）===
+  带前缀的 `> **原句 N:**` 行：37 个文件共 720 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+  ❌ ch23 handcuffs made of smoke.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 24（内容可能被整段复制）
+  ❌ ch23 handcuffs made of smoke.md: 引语块 24 个，超出言情精简格式的 3–8配额
+  ❌ ch23 handcuffs made of smoke.md 原句24: 引语跨自然段（拼接红线）
+  ❌ ch24 the price of tears during wartime.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 42（内容可能被整段复制）
+  ❌ ch24 the price of tears during wartime.md: 引语块 42 个，超出言情精简格式的 3–8配额
+  ❌ ch25 every sentence is a magic spell.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 15（内容可能被整段复制）
+  ❌ ch25 every sentence is a magic spell.md: 引语块 15 个，超出言情精简格式的 3–8配额
+  ❌ ch26 i heard the icicles singing.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 24（内容可能被整段复制）
+  ❌ ch26 i heard the icicles singing.md: 引语块 24 个，超出言情精简格式的 3–8配额
+  ❌ ch27 tiptoe through the landmines.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 63（内容可能被整段复制）
+  ❌ ch27 tiptoe through the landmines.md: 引语块 63 个，超出言情精简格式的 3–8配额
+  ❌ ch28 songs for city birds on clarinet.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 19（内容可能被整段复制）
+  ❌ ch28 songs for city birds on clarinet.md: 引语块 19 个，超出言情精简格式的 3–8配额
+  ❌ ch29 the toy soldier.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 52（内容可能被整段复制）
+  ❌ ch29 the toy soldier.md: 引语块 52 个，超出言情精简格式的 3–8配额
+  ❌ ch30 the saboteur wears patent leather shoes.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 39（内容可能被整段复制）
+  ❌ ch30 the saboteur wears patent leather shoes.md: 引语块 39 个，超出言情精简格式的 3–8配额
+  ❌ ch31 put a red rose in my buttonhole.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 34（内容可能被整段复制）
+  ❌ ch31 put a red rose in my buttonhole.md: 引语块 34 个，超出言情精简格式的 3–8配额
+  ❌ ch32 pink is a state of mind.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 15（内容可能被整段复制）
+  ❌ ch32 pink is a state of mind.md: 引语块 15 个，超出言情精简格式的 3–8配额
+  ❌ ch33 a suitcase the size of a country.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 10（内容可能被整段复制）
+  ❌ ch33 a suitcase the size of a country.md: 引语块 10 个，超出言情精简格式的 3–8配额
+  ❌ ch34 an army of little beasts.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 21（内容可能被整段复制）
+  ❌ ch34 an army of little beasts.md: 引语块 21 个，超出言情精简格式的 3–8配额
+  ❌ ch35 the black market wore ribbons in her hair.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 27（内容可能被整段复制）
+  ❌ ch35 the black market wore ribbons in her hair.md: 引语块 27 个，超出言情精简格式的 3–8配额
+  ❌ ch36 a valentine from the capital.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 19（内容可能被整段复制）
+  ❌ ch36 a valentine from the capital.md: 引语块 19 个，超出言情精简格式的 3–8配额
+  ❌ ch37 what came first the mother or the egg.md: 结构对账失败 —— 关键词行 0 ≠ 引语块 23（内容可能被整段复制）
+  ❌ ch37 what came first the mother or the egg.md: 引语块 23 个，超出言情精简格式的 3–8配额
+=== 引语块覆盖度：37 个 md，问题 78 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══

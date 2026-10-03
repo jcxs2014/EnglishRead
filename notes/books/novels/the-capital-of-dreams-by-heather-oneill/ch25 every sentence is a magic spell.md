@@ -86,7 +86,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意"黑市"在本章的出现方式：不是地点，而是一整套价值观——只要是能保存下来的东西，都自动进入黑市。
 
-> **原句 10:** "“What can I tell you? When I began my studies, I was told it was ridiculous to want to be a philosopher. I was a woman, after all. I should not be taking myself seriously. How could I? Never underestimate your worth.”"
+> **原句 10:** "“What can I tell you? When I began my studies, I was told it was ridiculous to want to be a philosopher. I was a woman, after all. I should not be taking myself seriously. How could I? Never underestimate your worth. You are going to need to be arrogant to survive this. You must be outraged by every single injustice you face. It will be exhausting to be filled with rage. But you must think of your rage as your guiding force now. You must be educated by your rage because it is telling you the difference between right and wrong."
 
 **中文理解：** "我能跟你们说什么呢？我开始求学的时候，别人告诉我，想当哲学家是荒唐的。毕竟我是个女人。我不该把自己当回事。我怎么能呢？永远不要低估你自己的价值。"
 
@@ -94,7 +94,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意这不是叙事者的观点，而是 Clara 的原话；本章对她既敬佩又怀疑，考察的重点在于这些句子对 Sofia 意味着什么。
 
-> **原句 11:** "“You are going to need to be arrogant to survive this. You must be outraged by every single injustice you face. It will be exhausting to be filled with rage. But you must think of your rage as your guiding force now. You must be educated by your rage because it is telling you the difference between right and wrong.”"
+> **原句 11:** "“What can I tell you? When I began my studies, I was told it was ridiculous to want to be a philosopher. I was a woman, after all. I should not be taking myself seriously. How could I? Never underestimate your worth. You are going to need to be arrogant to survive this. You must be outraged by every single injustice you face. It will be exhausting to be filled with rage. But you must think of your rage as your guiding force now. You must be educated by your rage because it is telling you the difference between right and wrong."
 
 **中文理解：** "你要活过这一切，就需要傲慢。你必须对你面对的每一桩不义都感到愤怒。充满愤怒会让人精疲力竭。但你现在必须把你的愤怒当作你的向导。你必须让愤怒教育你，因为它正在告诉你对与错的分别。"
 

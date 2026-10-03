@@ -193,7 +193,7 @@ modified: "2026-10-03"
 
 > **原句 23:** "And then Rosalie said something that her mother had also said. She hadn’t understood it when her mother told her. And she thought it was one of her mother’s more radical ideas that nobody else shared with her. But when Rosalie said it, it resonated differently with Sofia. And she thought there was some truth to it. And even though it didn’t entirely make sense to her now, she had the feeling it would come to make very much sense to her in the future."
 >
-> "She said, “Sometimes a war can set a woman free.”"
+> She said, “Sometimes a war can set a woman free.”
 
 **中文理解：** 然后 Rosalie 说了一句她母亲也说过的话。母亲跟她讲的时候，她没听懂。她还以为那是母亲那些更激进的、没人跟她共享的想法之一。但当 Rosalie 说出这句话时，它在 Sofia 心里激起了不同的回响。她觉得这里面有几分真理。虽然此刻它对她还不完全说得通，但她有一种感觉：将来它会变得非常说得通。她说："有时战争可以把一个女人解放出来。"
 
