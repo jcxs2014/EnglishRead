@@ -1,0 +1,62 @@
+=== verify_quotes ===
+ch01 prologue.md: 10/10 ✅
+ch02 the childrens train.md: 10/10 ✅
+ch03 the house was where we left it.md: 9/9 ✅（另有 1 条短引语未校验）
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 29/29 引文可核实（100%）；完全干净文件 3/3；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== verify_quotes --full ===
+ch01 prologue.md: 10/10 ✅
+ch02 the childrens train.md: 10/10 ✅
+ch03 the house was where we left it.md: 9/9 ✅（另有 1 条短引语未校验）
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 29/29 引文可核实（100%）；完全干净文件 3/3；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== check_vocab ===
+  [P0-4] 正文章节 3 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 52
+
+--- FAIL (0) ---
+
+--- WARN (0) ---
+
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== check_chapter_quotes ch02 ===
+⚠️  全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 29，命中本章 29（100%）
+✅ 全部引语均归属正确章节
+
+=== check_chapter_quotes ch03 ===
+⚠️  全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 29，命中本章 29（100%）
+✅ 全部引语均归属正确章节
+
+=== check_short_quotes ===
+=== 短引语兜底核对（the-capital-of-dreams-by-heather-oneill）===
+  verify_quotes 跳过（<20 flat 字符）的引语：1 条 —— 这些主门禁**根本没查**
+  ✅ 命中 1 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== corruption_scan ===
+
+=== 编辑损坏扫描（the-capital-of-dreams-by-heather-oneill）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== sweep_full --quiet ===
+=== 引语整串 flat 比对（the-capital-of-dreams-by-heather-oneill）===
+  参照集：text/ 逐章（37 章，可定章） + epub 交叉验证
+  ✅ 本章命中 29 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+
+=== sweep_analysis_inline ===
+=== 分析层行内英文逐字核查（the-capital-of-dreams-by-heather-oneill）===
+  参照集：text/（37 个提取件） + epub 交叉验证 ；扫 3 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：70 个表格行、53 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 53 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 44
