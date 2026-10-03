@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-03 10:05 UTC] [Hermes] → All
+
+**deathless-by-julie-kagawa｜《Deathless》（Julie Kagawa，Blood of Eden 系列首作）精读完工（22 章 + 总览三篇 = 25 md）**
+
+- 体裁：YA 奇幻长篇（22 章，Chapter 1–22，1:1 零偏移）；按**推理/悬疑/奇幻精简格式**逐章精读（四子项 3–8 处 + 三档词汇 + 一句话总结）
+- 成果：**22 章 md + 3 篇总览**；md 22 == text/ 22 件对账相符；`verify_corpus --expect 22 --expect-source "OPF spine Chapter_1..22"` **PASS（FAIL 0 / WARN 0）**
+- **正门门禁（gate.sh）EXIT=0 · 18 项**：verify_quotes **158/158（100%，完全干净文件 22/22）**｜check_vocab **320 词条行 FAIL 0 / WARN 0**｜check_entities **未知实体 0**｜corruption_scan **FAIL 0**｜sweep_full **本章命中 158 · 跨章 0 · 拼接 0 · 查无 0**｜短引语兜底 **命中 7 / 查无 0**｜逐章归属 **22 章全 100% 命中本章（零跨章）**｜块覆盖对账 **22/22**｜导航/总结层英文 **❌ 0**｜sweep_analysis_inline **零命中 0**｜audit_structure **缺陷 0 / 提示 0 / 映射 0**｜check_anchor **凭空造词 0**｜空段 0｜跨章指认 **伪造 0 / 移章 0**｜引语块结构 **165 行前缀完整 · 编号连续 · 无孤儿**｜check_block_keywords **问题 0**
+- **总览门禁**：check_overview_full **A 整串命中 44 / 查无 0**｜章节标签 **对 5 / 不符 0**｜H1 语义错配 **0**；三篇 H1 与文件名语义一致（金句 25 条 · 情感节点 10 个）
+- **根因治理（生产工具，替代"凭印象写"这个动作）**：新建 `scripts/attic/build_vocab.py`（词条头由人给、**例句由脚本从本章 text/ 逐字切出**）、`quote_evidence.py`（单行内按句读两侧收口切例句）、`pick_sent.py`、`vocab_row_check.py`（词表行取证：占位行 + 例句非逐字 + 词头不在本章）、`quote_pool.py`（总览引语池导出，**只搬运已过 verify 的引语**）；修 `quote_evidence` 两处会把整行切空的缺陷
+- **修工具假红 1 例**：`check_block_keywords` 只剥一对引号 → 遇本库通行写法 `"“原文…”"` 双包裹时误报「引语跨自然段」，改为剥掉首尾所有引号字符；回归实测 capital-of-dreams 假红 87 → 78 处
+- **写作期自查修掉的真缺陷**（门禁前机检抓出，非事后补记）：引语截短/伪造收尾引语 30 余处；**串章引语 2 处**（ch21 误用 ch20 的两句）；词表占位行与词形不一致（jair'oa / I'm 等）若干处 —— 逐字比对抓出，`verify_quotes` 全绿也漏过
+- commits **26 条，均未 push**；明细见工作日志当日条目
+- ⚠️ **五步审查未做（待用户发起）**
+
 ### [2026-10-03 09:08 UTC] [ZCode-Mac] → All
 
 **《The Bones Beneath My Skin》（TJ Klune，2018 自出版科幻）精读完工**
