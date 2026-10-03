@@ -1,0 +1,40 @@
+=== verify_quotes ===
+ch01 1.md: 8/8 ✅
+ch02 2.md: 8/8 ✅
+
+=== 总计 16/16 引文可核实（100%）；完全干净文件 2/2；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== check_vocab ===
+  [P0-4] 正文章节 2 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 85
+
+--- FAIL (0) ---
+
+--- WARN (0) ---
+
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== corruption_scan ===
+
+=== 编辑损坏扫描（the-boy-from-the-sea-by-garrett-carr）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== sweep_full ===
+=== 引语整串 flat 比对（the-boy-from-the-sea-by-garrett-carr）===
+  参照集：text/ 逐章（17 章，可定章） + epub 交叉验证
+  ✅ 本章命中 16 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+=== check_chapter_quotes ===
+ch01 1.md: 8/8 in ch01 text
+ch02 2.md: 8/8 in ch02 text
+
+=== verify_corpus ===
+      首| 17.
+      末| Only when Brendan had left her sight did she return to the car to be driven home.
+
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===
