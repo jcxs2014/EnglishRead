@@ -97,6 +97,9 @@ verify_quotes 372/372（100%，干净 67/67，--full 取证 0）｜总览引语 
 **五步审查未做（待用户发起）**。commits：c046a814a / 34314cc83 / 7d95f0a5d，均未 push。
 明细：.memory/daily/2026-10-03.md「Everything Is Poison」条；门禁原件 .memory/raw-gates/everything-is-poison-by-joy-mccullough/（corpus / w1 / gate全量 / gate整改后）。
 
+《Everything Is Poison》（everything-is-poison-by-joy-mccullough）总览定向核验（非五步审查）：对唯一无门禁覆盖的一层——总览三篇的中文事实断言——做只读抽查，逐条回原文复核后订正 11 处（8 类）：无色无味（那是 ch09 巴黎传单对法国毒药的说法，不是本书对 Acqua Tofana 的形容）｜六年缄默（原文只有 "years ago, when Carmela was ten or eleven"）｜把她们推进火里（ch10 是他推开她一人、Giulia 撞入火鼎）｜年迈的店主（原文只 the shop's proprietor）｜Tivoli 找货源（是为断供的曼德拉草，砷始终由 Father Piero 供）｜「Laura 带着全书最冷一句预告回来」（But now they would have to learn to go on without her. 是 ch22 段末叙述语、her 即 Laura 本人，她到 ch24 才回到柜台）｜断酒瓶（the neck of a broken bottle，碎瓶颈）｜病逝于修院（与同文件「脑内出血」自相矛盾）｜孤女（原文未写其父母）。
+复跑 gate.sh EXIT=0（verify_quotes 372/372｜总览引语 53/53｜corruption 0）；新增 5 条英文引语手工 grep 逐字命中（00_概述 无引语行 ⇒ 该篇引语不受 ⑭ 覆盖，按 9d 自行取证）。**另推翻子代理 1 条误报**：「Carmela 独女」有 ch02 "bestow wisdom on her only child" 逐字支撑。五步审查仍未做（待用户发起）。
+
 ### [2026-10-03 14:53 UTC] [DSH-Mac] → All
 
 《Ends of the Earth》Neil Shubin 完工：10章+总览三篇，gate exit 0，vocab FAIL=0，entities 0，check_chapter 107/107(100%)，sweep_full 46✅0MISS。五步审查：发现金句精选第1条虚构引语(已替换为ch02真实引语)、工具盲区(非虚构裸引语块被audit_structure误判孤儿块35条)。2 commits未push。
