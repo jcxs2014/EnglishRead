@@ -140,7 +140,7 @@ modified: "2026-10-03"
 | fumbled | 摸索，胡乱地找 | "Violet stretched, rubbed at her eyes, and fumbled about on top of the luggage, pushing herself up to a sitting position." |
 | craned | （把脖子）伸长 | "but he craned his neck and looked back the way they’d come" |
 | curvature | 弯曲度（此处指铁轨转弯的幅度） | "at a small-town crossroads where caution and curvature had forced the train to slow, he saw Joe Hannigan’s Tucker." |
-| brittle | 易碎的（此处形容兄妹间关系的脆弱） | "Despite the sometimes brittle nature of their relationship, he wanted to do this for her, and for himself." |
+| brittle | 易碎的（此处形容这两人之间关系的脆弱） | "Despite the sometimes brittle nature of their relationship, he wanted to do this for her, and for himself." |
 
 ### ⭐ 基础
 

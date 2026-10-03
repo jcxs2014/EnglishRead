@@ -8,7 +8,7 @@ modified: "2026-10-03"
 ## 本章导航
 
 - **一句话概括**：当日主线回到 Malcolm。全章是一场隔着铁栏杆的对峙：Detective Hope 认定他和 Jennie 该负责，Malcolm 开口就是 "You don’t have to believe us—"，讲的不是求相信而是对对方下一步的预测，Jennie 则骂他不肯信；真正压舱的一块石头是 Hope 那句 "victims’ bodies are taken to a local funeral home."，随后 Jennie 反过来安慰哥哥——Alfie 和那个男孩正守在楼外，说明他们还没摸到 Maggie 的遗体。
-- **视角**：第三人称限知，全程贴 Malcolm。本章在场的只有他、Jennie（他妹妹，本章由 my brother and I 与 followed his sister 两处坐实）与 Detective Hope；另有先前把他们关进去的那名警员，以及 Hope 抬手示意的那位 jailer。
+- **视角**：第三人称限知，全程贴 Malcolm。本章在场的只有他、Jennie（他姐姐，本章由 my brother and I 与 followed his sister 两处坐实）与 Detective Hope；另有先前把他们关进去的那名警员，以及 Hope 抬手示意的那位 jailer。
 - **情感弧线位置**：全章情绪触底一次、反弹一次。Malcolm 从克制（他只是 gripped the bars 而不出手）到爆发（"Goddamn it!"），Hope 抛出殡仪馆那句话后屋里短暂松开一口气，末句又把这份松气按回去——人被保住了，人还关着。
 - **人物弧线**：Hope 在本章从"送人回牢房的执法者"变成唯一给出线索的人，而作者立刻把动机点破——"if it’ll calm you down"。Malcolm 在这里学会一件新事：对方不会因为他们讲得真诚就相信，所以他干脆不再辩，只替对方把结局说完。Jennie 的顺序相反，她先骂后算，最后用 give a damn 那种漫不经心的口气把最关键的一步推理做完。
 - **叙事手法**：全章几乎只有对话，作者把张力放在打断与破折号上。正文里的破折号多数落在被打断的句子上——Malcolm 的 "You don’t have to believe us—" 与 Hope 的 for evidence to be gathered—，另一处是 Jennie 句中的插入 anyone—yourself included—that。读者能靠破折号数出这场对话里谁没说完、谁抢着接上，而每一次抢话都换一次立场。
@@ -33,7 +33,7 @@ modified: "2026-10-03"
 
 **关键词**： sarcasm / so thick it could’ve painted the walls / Oh, do you?
 
-**为什么这样写**：对话的第一回合就先把语气摆到台面上。作者不写他语气多尖，只写那层东西有多厚——厚度是可以被看见的，尖锐不是。so thick it could’ve 是虚拟式，写的是"厚到足以去做某件事"，而不是笼统地说很浓。paint the walls 这个家用的比喻偏偏落在警局的走廊上，反讽感来自场合与词的错位。
+**为什么这样写**：对话的第一回合就先把语气摆到台面上。作者不写他语气多尖，只写那层东西有多厚——厚度是可以被看见的，尖锐不是。so thick it could’ve painted the walls 是虚拟式，写的是"厚到足以去做某件事"，而不是笼统地说很浓。painted the walls 这个家用的比喻偏偏落在警局的走廊上，反讽感来自场合与词的错位。
 
 **读者视角提示**：这句反问之后紧接着的是 Jennie 的一句 "Stop, Malcolm,"。记住本章的节奏：Hope 每顶一句，Malcolm 就要先挨一下，再继续说下去。
 
@@ -47,17 +47,17 @@ modified: "2026-10-03"
 
 **为什么这样写**：这是 Malcolm 全书说话方式的一次样本：他不辩解，只做预测。the more information you get 与 the more you’re going to 都是同一个比较结构，把双方放进同一条未来的时间轴上。we’re a couple of lunatics 用自嘲给对方递台阶——他先承认对方会怎么看他们，再把对方自己拟的那套说辞拿过来还给他。
 
-**读者视角提示**：留意 he went on——这句仍接在 "You don’t have to believe us—" 后面往下说，Malcolm 在这一整段里始终没有提高声音，直到后面才 smashed his palm on the bars。先记住这份克制，后面那次拍栏杆才有落差。
+**读者视角提示**：留意 Malcolm went on——这句仍接在 "You don’t have to believe us—" 后面往下说，Malcolm 在这一整段里始终没有提高声音，直到后面才 smashed his palm on the bars。先记住这份克制，后面那次拍栏杆才有落差。
 
 ---
 
 > **原句 4:** "“For God’s sake! You don’t believe that, Detective. You’re not so dense as to think you can put together a timeline or evidence that will convince anyone—yourself included—that my brother and I are capable of coordinating a train derailment and a mass murder spree.”"
 
-**中文理解**：Jennie 的切入角度和哥哥不同：她不预测，她攻击对方的能力。You don’t believe that 是直接否定；接下来不是说她做不到，而是说你不会想到去拼一条 timeline；破折号后的 yourself included 又把 Hope 本人算进了不信的那一类里。my brother and I 是本章唯一一次有人把兄妹关系说出口。
+**中文理解**：Jennie 的切入角度和哥哥不同：她不预测，她攻击对方的能力。You don’t believe that 是直接否定；接下来不是说她做不到，而是说你不会想到去拼一条 timeline；破折号后的 yourself included 又把 Hope 本人算进了不信的那一类里。my brother and I 是本章唯一一次有人把姐弟关系说出口。
 
 **关键词**： You don’t believe that / put together a timeline / yourself included / my brother and I
 
-**为什么这样写**：作者给 Jennie 的武器是"你不够聪明"。not so dense as to think 这个双重否定把一句嘲讽包得客气，紧接着的破折号又把这份客气收回去。my brother and I 说明这句是以妹妹的身份说的——Malcolm 在同一场对话里只肯说 we，她偏要把 I 说出来，把两人捆成一份指控。
+**为什么这样写**：作者给 Jennie 的武器是"你不够聪明"。not so dense as to think 这个双重否定把一句嘲讽包得客气，紧接着的破折号又把这份客气收回去。my brother and I 说明这句是以姐姐的身份说的——Malcolm 在同一场对话里只肯说 we，她偏要把 I 说出来，把两人捆成一份指控。
 
 **读者视角提示**：mass murder spree 是本章分量最重的指控词，而它出自情绪最表面的那一方。把它和稍后 Hope 说的 a lot of horrifying crimes 放在一起听，会发现两人在用同一套刑事词汇——Malcolm 是在替对方写罪名。
 
@@ -71,7 +71,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：Malcolm 到了这里才第一次动手——smashed his palm on the bars 就在这句之前，台词是被动作打断之后才落地的。作者让身体和嘴同时爆发，而句子本身切成三段短促的形式，读起来就是喘不上气的节奏。That’s not a crime 用一句否定下定义，比任何正面陈述都更硬。
 
-**读者视角提示**：survive 是全章这对兄妹唯一守住的一条立场——Hope 后来给出的那几条罪状，没有一条能把它推翻。记住这个词，它正是 Malcolm 说 "We haven’t done anything except survive." 时真正在争的东西。
+**读者视角提示**：survive 是全章这对姐弟唯一守住的一条立场——Hope 后来给出的那几条罪状，没有一条能把它推翻。记住这个词，它正是 Malcolm 说 "We haven’t done anything except survive." 时真正在争的东西。
 
 ---
 

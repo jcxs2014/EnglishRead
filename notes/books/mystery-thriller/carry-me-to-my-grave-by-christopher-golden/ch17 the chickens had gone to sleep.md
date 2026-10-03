@@ -8,8 +8,8 @@ modified: "2026-10-03"
 ## 本章导航
 
 - **一句话概括**：当日主线，视角贴 Malcolm。列车在雨里前行，他站在窗边看农田，想四季与人生的循环（"Starting over." 之后立刻被自己否掉），随后发现贴着母亲 Maggie 的箱子睡着的 Elias 皮肤正在一片片干裂剥落，血涌出来又像沉下去；Elias 忽然睁眼、毫不费力站起来，指尖摸着那个箱子说 "You should have told me."，末句问 Malcolm： "Are you fucking my wife, brother?"
-- **视角**：第三人称限知，全程贴 Malcolm。全章的观察都是他的：窗外一闪而过的光、Elias 的呼吸声、皮肤裂开后颜色的变化。Elias 说了什么、做了什么，Malcolm 只能从外面看——他甚至一度以为弟弟昏过去了（"He’d fallen unconscious."），而 Elias 的内心一句也没有。
-- **情感弧线位置**：当日主线里 Malcolm 从"恨弟弟"转向"担心弟弟"的转折点。同一句里，前半是最狠的咒骂（"several kicks to the balls"），后半是 had begun to worry；紧接着 "Maggie had just died." 把这份担心顶到最前面。
+- **视角**：第三人称限知，全程贴 Malcolm。全章的观察都是他的：窗外一闪而过的光、Elias 的呼吸声、皮肤裂开后颜色的变化。Elias 说了什么、做了什么，Malcolm 只能从外面看——他甚至一度以为哥哥昏过去了（"He’d fallen unconscious."），而 Elias 的内心一句也没有。
+- **情感弧线位置**：当日主线里 Malcolm 从"恨哥哥"转向"担心哥哥"的转折点。同一句里，前半是最狠的咒骂（"several kicks to the balls"），后半是 had begun to worry；紧接着 "Maggie had just died." 把这份担心顶到最前面。
 - **人物弧线**：Malcolm 先用自己在战争里见过的那套病名去解释（"dysentery, tuberculosis, encephalitis"），越看越认不出来，最后被自己冒出的一句 "What if it’s contagious?" 逼着动摇了。Elias 全程半昏迷，一睁眼声音就变清（"the clarity of those eyes, and that voice"），站起来毫不费力。
 - **叙事手法**：先用农田的季节循环铺一段温柔思辨，再让身体细节一寸寸推翻它——皮肤先是发干起裂，然后整层撕掉，血涌上来又沉下去。章节在最轻的一笔（鸡群醒来像在笑）与一句最重的问话之间结束。
 
@@ -23,7 +23,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：wondered if 用过去时保留"不确定"，读者跟着他把一件小事当成谜题；而 went to sleep 是"去做一件日常小事"，正是这种轻，把全章的沉重先压住一层。后面紧跟一句 they were dreaming，把鸡从动物抬成了会做梦的东西，本章的温柔全靠这类轻的推测撑起来。
 
-**读者视角提示**：这时候的 Malcolm 还只是站在窗口的人。等他跪到弟弟身边，同样的疑问句式会再次出现—— "Tell me what’s going on. Are you sick? What’s wrong with you?"
+**读者视角提示**：这时候的 Malcolm 还只是站在窗口的人。等他跪到哥哥身边，同样的疑问句式会再次出现—— "Tell me what’s going on. Are you sick? What’s wrong with you?"
 
 ---
 
@@ -47,7 +47,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：给 spring、summer、autumn、winter 四个词套上同一个定语 personal，作者就在上一段的农田与这一段的个人之间划出一道界。As much as he wished it otherwise 是先把读者的话说出来再反驳，姿态客气，判断却硬；最后一句用 didn't 收尾，把"不会重来"这件事压成一次否定。
 
-**读者视角提示**：这整段只是他自己的推想，本章没有任何人来确认；真正让它变成分量的事件不在这段里，而在下面田里那一下闪光和随后弟弟的皮肤上。
+**读者视角提示**：这整段只是他自己的推想，本章没有任何人来确认；真正让它变成分量的事件不在这段里，而在下面田里那一下闪光和随后哥哥的皮肤上。
 
 ---
 
@@ -65,7 +65,7 @@ modified: "2026-10-03"
 
 > **原句 5:** "As much as his brother deserved a comeuppance, and several kicks to the balls, Malcolm had begun to worry about him."
 
-**中文理解**：前半句是心里骂的话：弟弟活该挨收拾，还该多挨几下；后半句用 had begun to 把这份恶意收回去——担心才刚起了个头。
+**中文理解**：前半句是心里骂的话：哥哥活该挨收拾，还该多挨几下；后半句用 had begun to 把这份恶意收回去——担心才刚起了个头。
 
 **关键词**： deserved a comeuppance / several kicks to the balls / had begun to worry about him
 
@@ -83,19 +83,19 @@ modified: "2026-10-03"
 
 **为什么这样写**：作者用一组物理动词写一件不可能的事：撕、裂、涌、退。for a moment 把血的出现压成极短的一瞬，随后的 but then 让"愈合"这件事本身更可疑——as if it had sunk deeper 表明血并没有走，只是退到了更深的地方。这一段没有心理描写，只有手和眼。
 
-**读者视角提示**：注意这个动作是重复的：前面他写过 "ran his thumb over Elias’s forehead"，这里又"rubbed again"。Malcolm 自己反复去碰弟弟的脸，读者要分清那是检查还是试探。
+**读者视角提示**：注意这个动作是重复的：前面他写过 "ran his thumb over Elias’s forehead"，这里又"rubbed again"。Malcolm 自己反复去碰哥哥的脸，读者要分清那是检查还是试探。
 
 ---
 
 > **原句 7:** "“Oh, Maggie,” Elias said, running his fingertips over the surface of the crate. “You should have told me.”"
 
-**中文理解**：Elias 在这里第一次叫出母亲的名字。他先说了那声 "Oh, Maggie,"，再伸手摸过那个箱子的表面，然后才说 "You should have told me."。全章没有交代要"告诉"什么。
+**中文理解**：Elias 在这里叫出了母亲的名字（此前 ch15 已用过 Maggie 与 Mags）。他先说了那声 "Oh, Maggie,"，再伸手摸过那个箱子的表面，然后才说 "You should have told me."。全章没有交代要"告诉"什么。
 
 **关键词**： Oh, Maggie / running his fingertips over the surface of the crate / You should have told me
 
 **为什么这样写**：作者先给动作再给话，动作和对象都写得很轻（指尖、箱面），话本身却带着指责。You should have told me 把账直接推到"你没有说"上，却没有宾语，读者无从知道指的是哪件事——这个留白本身就是威胁。说话人被他压在 said 这个标签后面，读者要先认出这是 Elias 才知道这句话的分量。
 
-**读者视角提示**：这句话出自 Elias，不是 Malcolm。紧接着 Malcolm 的反应是后退："Malcolm shouted and scrambled backward, startled by the clarity of those eyes, and that voice."——他怕的不是弟弟说的话，是弟弟忽然清醒。
+**读者视角提示**：这句话出自 Elias，不是 Malcolm。紧接着 Malcolm 的反应是后退："Malcolm shouted and scrambled backward, startled by the clarity of those eyes, and that voice."——他怕的不是哥哥说的话，是哥哥忽然清醒。
 
 ---
 
@@ -105,7 +105,7 @@ modified: "2026-10-03"
 
 **关键词**： Are you fucking my wife / brother
 
-**为什么这样写**：句子短到只剩骨架，作者把关系（my wife）、身份（brother）和逼问（一个问号）全部压进去。前面 Malcolm 还在用拇指去试弟弟额头的皮，到本章最后一句，那只手换成了问句；前面所有的照顾、担心、恐惧，都被它一次性翻面。
+**为什么这样写**：句子短到只剩骨架，作者把关系（my wife）、身份（brother）和逼问（一个问号）全部压进去。前面 Malcolm 还在用拇指去试哥哥额头的皮，到本章最后一句，那只手换成了问句；前面所有的照顾、担心、恐惧，都被它一次性翻面。
 
 **读者视角提示**：问完本章就结束，没有给出 Malcolm 的回答。而在此之前 Elias 已经打过招呼："I’ll tell you all sorts of things you’d like to know."，并要求他 "But first you answer one question of mine."——那个"先回答"落到最后这句问话上。
 
@@ -157,4 +157,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-本章先用农田的 "Starting over." 写完一整套重生的可能，再用一句 "human lives didn’t get to follow that pattern" 把它推翻，然后让身体细节接管叙事：皮肤先是 "Skin flaked and cracked."，接着 "The upper layer of skin shredded away."，血涌出来又沉下去。等 Malcolm 以为弟弟已经 "He’d fallen unconscious."，Elias 却站起来摸着他母亲的箱子说 "You should have told me."，末句把整章的照顾与恐惧一次性翻面—— "Are you fucking my wife, brother?"
+本章先用农田的 "Starting over." 写完一整套重生的可能，再用一句 "human lives didn’t get to follow that pattern" 把它推翻，然后让身体细节接管叙事：皮肤先是 "Skin flaked and cracked."，接着 "The upper layer of skin shredded away."，血涌出来又沉下去。等 Malcolm 以为哥哥已经 "He’d fallen unconscious."，Elias 却站起来摸着他母亲的箱子说 "You should have told me."，末句把整章的照顾与恐惧一次性翻面—— "Are you fucking my wife, brother?"

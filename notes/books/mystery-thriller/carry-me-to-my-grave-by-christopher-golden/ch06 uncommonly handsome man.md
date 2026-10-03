@@ -29,7 +29,7 @@ modified: "2026-10-03"
 
 > **原句 2:** "Once upon a time, Malcolm had heard his mother tell his sister, Jennie, that if she were twenty years younger or Pax had been drunk enough, she’d have taken the man to bed. Jennie should have been scandalized—young Malcolm certainly had been—but instead, she’d offered to fight her mother for the privilege."
 
-**中文理解**：一句 Once upon a time 把叙述拉进"听说书"的口气，随后是母亲对妹妹说的荤话：只要 Jennie 少二十年岁数，或者 Paxson 喝够了酒，她就会跟他上床。真正的落点在后一句——Jennie 该被 scandalized，年轻的 Malcolm 确实被震住了，可她 instead 提出要跟母亲为这个 "privilege" 打架。
+**中文理解**：一句 Once upon a time 把叙述拉进"听说书"的口气，随后是母亲对姐姐说的荤话：只要 Jennie 少二十年岁数，或者 Paxson 喝够了酒，她就会跟他上床。真正的落点在后一句——Jennie 该被 scandalized，年轻的 Malcolm 确实被震住了，可她 instead 提出要跟母亲为这个 "privilege" 打架。
 
 **关键词**：Once upon a time / scandalized / fight her mother / the privilege
 
@@ -65,7 +65,7 @@ modified: "2026-10-03"
 
 > **原句 5:** "He looked at his mother’s deathbed, once the safest place on earth, where her children could hide from thunderstorms and recover from fevers. Malcolm’s oldest sibling, Jennie, liked to say their mother snored like an elephant with a broken trunk, and she wasn’t wrong. But now it had been transformed, empty of all but the slight impression of the woman who’d spent thousands of nights upon it. It would always be her deathbed."
 
-**中文理解**：这张床曾是"世上最安全的地方"，孩子们在这里躲雷雨、退烧；妹妹 Jennie 说母亲打鼾像一头断了鼻子的象，作者还补一句她没说错。But now 一转，房间被改作别用，只剩下一个浅浅的压痕。末句 "It would always be her deathbed" 用将来时讲一件永远改不掉的事。
+**中文理解**：这张床曾是"世上最安全的地方"，孩子们在这里躲雷雨、退烧；姐姐 Jennie 说母亲打鼾像一头断了鼻子的象，作者还补一句她没说错。But now 一转，房间被改作别用，只剩下一个浅浅的压痕。末句 "It would always be her deathbed" 用将来时讲一件永远改不掉的事。
 
 **关键词**：once the safest place on earth / an elephant with a broken trunk / the slight impression / It would always be her deathbed
 

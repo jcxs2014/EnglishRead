@@ -94,7 +94,7 @@ modified: "2026-10-03"
 
 **关键词**：That’s three questions / they’re all one big answer, which is, I don’t know / the word vicious
 
-**为什么这样写**：作者用一句元层面的挑明（Alfie 替读者数问题）把本章前半的悬念正式摊到台面上，再让同一个角色当场承认无解——威胁因此有了名字却没有面孔。三个要求写成对仗的两段（they'd be strong / they weren't afraid to get violent），而真正的信息藏在最后那个回忆句的宾语里：Maggie 用的不是 fight 之类常见的词，是 vicious，而且是被弟弟当着 Alfie 的面重复过的。这个词同时解释了 Alfie 脸上的伤、Joe 为什么回头、以及 Violent 式的"平静"——Violet 读的正是这份平静。
+**为什么这样写**：作者用一句元层面的挑明（Alfie 替读者数问题）把本章前半的悬念正式摊到台面上，再让同一个角色当场承认无解——威胁因此有了名字却没有面孔。三个要求写成对仗的两段（they'd be strong / they weren't afraid to get violent），而真正的信息藏在最后那个回忆句的宾语里：Maggie 用的不是 fight 之类常见的词，是 vicious，而且是被哥哥当着 Alfie 的面重复过的。这个词同时解释了 Alfie 脸上的伤、Joe 为什么回头、以及 Violent 式的"平静"——Violet 读的正是这份平静。
 
 **读者视角提示**：Maggie 在本章留下的唯一指令就是这个形容词。往后 Alfie 或 Joe 的任何暴力举动，都该拿"vicious"这三个字母去对——他不是失手，他是按吩咐来的。
 

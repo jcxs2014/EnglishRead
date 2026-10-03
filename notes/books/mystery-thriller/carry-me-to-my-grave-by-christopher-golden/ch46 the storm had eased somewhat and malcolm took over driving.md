@@ -77,7 +77,7 @@ modified: "2026-10-03"
 
 > **原句 6:** "“Sing, Malcolm,” Maggie mimicked. “Useless daughter.”"
 
-**中文理解**：四个词的模仿，加上三个词的辱骂。violet 刚刚请求他继续唱（"Sing, Malcolm,"），Maggie 立刻用同样的句子原样复述，再补上一句 "Useless daughter."。作者不写谁在模仿谁，只用 mimicked 一词把这层关系摆出来——那个东西能听见妹妹的话，能用她的嗓子说话。
+**中文理解**：四个词的模仿，加上三个词的辱骂。violet 刚刚请求他继续唱（"Sing, Malcolm,"），Maggie 立刻用同样的句子原样复述，再补上一句 "Useless daughter."。作者不写谁在模仿谁，只用 mimicked 一词把这层关系摆出来——那个东西能听见母亲的话，能用她的嗓子说话。
 
 **关键词**：Maggie mimicked / Useless daughter
 
@@ -157,4 +157,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-这一章把"回家"改成了一场倒计时里的护送：路还是 treacherous，枪已经 emptied，而后座那个 dead but still alive 的存在正一寸寸被别的东西接管——先是用 "Sing, Malcolm," 复述妹妹的话，再报出 "Dozens." 和一场 a screaming exodus。Malcolm 的回应是掉头，并把这个占据母亲身体的东西逐条验明正身后一句 "you’re not Maggie Wise" 挡了回去；他给这一趟定的调子是 "We’ll get you to Shediak, and we’ll bury you deep."
+这一章把"回家"改成了一场倒计时里的护送：路还是 treacherous，枪已经 emptied，而后座那个 dead but still alive 的存在正一寸寸被别的东西接管——先是用 "Sing, Malcolm," 复述母亲的话，再报出 "Dozens." 和一场 a screaming exodus。Malcolm 的回应是掉头，并把这个占据母亲身体的东西逐条验明正身后一句 "you’re not Maggie Wise" 挡了回去；他给这一趟定的调子是 "We’ll get you to Shediak, and we’ll bury you deep."

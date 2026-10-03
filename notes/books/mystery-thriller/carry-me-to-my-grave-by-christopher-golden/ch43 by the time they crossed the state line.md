@@ -10,7 +10,7 @@ modified: "2026-10-03"
 - **一句话概括**：过了州界、车顶被撕开的地方，冷风一直灌进来；Violet 缩在副驾替后座的 Benjy 担心——怪物追不到他，可 Root 会不会借他的眼睛看——随即她把 Benjy 从「受害者」改写成「练习对象」，说服 Malcolm 拿他练那团 the old fire，因为雪小了一点、时间不够用，谁也不能停车；Malcolm 刚要开口，Benjy 自己抬起了头。
 - **视角**：第三人称限知，全程贴 Violet：首句交出 her teeth hurt，末段她的手还伸在后座那个孩子的头发上，本章没有离开过她的感知。车上的人事在此章是写明的——Jennie 在握方向盘，Violet 坐在 passenger seat，Malcolm、Benjy 与母亲的尸体都在后面（原文说把尸体留在 floor at Malcolm's and Benjy's feet）。
 - **情感弧线位置**：爆发之后的低回期。上一章的尖叫与撕车顶在这里退成"冷"与"静"，威胁没有消失，而是被换算成一项可以练习的技术；全章几乎不动，全部内容是判断与提议。
-- **人物弧线**：Violet 由被保护者变成提议者（"I was thinking you could practice on him."）；Malcolm 从沉默里被她说动，作者写他的反应是 Surprised and delighted in equal measure；Jennie 在本章只在一处插话，报告雪小了一点、时间不够用，仍是那个只看路的人；Benjy 全程不说话，最后一句台词把他从道具翻成了人。
+- **人物弧线**：Violet 由被保护者变成提议者（"I was thinking you could practice on him."）；Malcolm 从沉默里被她说动，作者写他的反应是 Surprised and delighted in equal measure；Jennie 在本章只在一处插话，报告雪小了一点、时间不够用，仍是那个只看路的人；Benjy 在本章中段之后不再开口；末段那句没有说话人标签的台词把他从道具翻成了人，而那句话到底是谁说的，原文未作判定。
 - **叙事手法**：低动作章，全部推力来自对话；Violet 的身体状态（缩成一团、发抖、把手缩回袖子）被反复用来给判断上色；中间用 Violet 的爱情段落做一次情绪的呼吸口；末句单独成段、不带说话人标签，把悬念留到下一章。
 
 ## 精读
@@ -33,7 +33,7 @@ modified: "2026-10-03"
 
 **关键词**：mostly silent / none so still as Benjy / The monsters couldn’t track him / could see through him
 
-**为什么这样写**：作者先用「谁最安静」这个可见指标制造不安，再立刻把它翻译成一个技术问题（see through him, hear their voices）。于是本章的悬念不在车上会发生什么，而在车上已经发生的事有没有被看出去——沉默因此不是休息，是暴露。Malcolm 替母亲擦雪花的动作与 Violet 的疑心并排放着，读者的注意力被分给两个方向，而作者没有让任何一方先开口。
+**为什么这样写**：作者先用「谁最安静」这个可见指标制造不安，再立刻把它翻译成一个技术问题（could see through him, could hear their voices）。于是本章的悬念不在车上会发生什么，而在车上已经发生的事有没有被看出去——沉默因此不是休息，是暴露。Malcolm 替母亲擦雪花的动作与 Violet 的疑心并排放着，读者的注意力被分给两个方向，而作者没有让任何一方先开口。
 
 **读者视角提示**：这段疑心 Violet 没有说出口，本章她也没有对 Benjy 说破；注意她随后伸手进后座去拂他脸上的雪，换来的是 Malcolm 的一句提醒（"Careful," Malcolm said）。同一个人，一边怕他，一边在照顾他。
 

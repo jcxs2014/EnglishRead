@@ -10,7 +10,7 @@ modified: "2026-10-03"
 - **一句话概括**：车厢里 Violet、握方向盘的 Jennie、Malcolm 与后座的 Benjy 围着「Maggie 讲的那个版本到底是不是真的」吵了一路——Jennie 认下那只是母亲自述的故事，Malcolm 指出若真如此就不必发生在她死后，Violet 干脆给出「她是为自保」的反版本；争到母亲开口要 Malcolm 唱歌，她随即扑上来抓住他的喉咙、手指戳穿车顶，最后只剩一句 "Can you go any faster?"，车在不到一小时内就越过了 WELCOME TO MAINE 的牌子。
 - **视角**：第三人称限知，主体贴 Violet——首句就交出 her eyes、her skin 与 So no, she wasn't dreaming。本章中段自 Loving her and hating her had always been like breathing in and out. 起贴到 Malcolm（同一段里出现 he'd never seen in her when she'd been alive）。这是本章内的一次视角交接，不是全书常态。
 - **情感弧线位置**：当日主线里最密的一次言语交锋，也是全书第一次让「母亲的形象」成为可争论的对象。前面各章母亲是既定形象，本章她被三个在场者各自复述成不同版本，并被死者本人用一句 "Malcolm … sing." 打断。
-- **人物弧线**：Violet 由质询者变成仲裁者（先说 Jennie「有 lots you don't seem to know」，后说 Maggie 的版本是 Selfishness.，最后说 "As long as Malcolm wants me, he's got me."）；Jennie 反复用反问和笑把话头挡回去，直到 Violet 提到她有没有爱过人，她才给出 "or near enough." 这样的真话；Malcolm 从与母亲的旧账（Loving her and hating her had always been like breathing in and out.）走到第一次向她开口提要求。
+- **人物弧线**：Violet 由质询者变成仲裁者（先说 Jennie「有 a lot you don't seem to know」，后说 Maggie 的版本是 Selfishness.，最后说 "As long as Malcolm wants me, he's got me."）；Jennie 反复用反问和笑把话头挡回去，直到 Violet 提到她有没有爱过人，她才给出 "or near enough." 这样的真话；Malcolm 从与母亲的旧账（Loving her and hating her had always been like breathing in and out.）走到第一次向她开口提要求。
 - **叙事手法**：封闭车厢里的群戏，全部冲突靠对话推进，物理动作集中在末尾；「雨刷—雪—笑」三样东西被作者当成节拍器反复点名，中段还用 "The snow. The road. The wipers. The grin." 这种无谓语短句给沉默计时；结尾不用情绪收束，而用地标（WELCOME TO MAINE 的牌子）把读者直接推向下个州。
 
 ## 精读

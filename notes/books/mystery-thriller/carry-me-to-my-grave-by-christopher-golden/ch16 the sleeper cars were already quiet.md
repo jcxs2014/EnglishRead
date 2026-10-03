@@ -9,7 +9,7 @@ modified: "2026-10-03"
 
 - **一句话概括**：当日主线，但本章视角人物是 Violet，不是 Malcolm。她与 Alfie 从卧铺车厢穿到餐车，一路上车厢安静得反常（"not to hear conversation"），她中途闻到腐叶与烂木的气味、吐了一地，帘幕后伸出一只小孩的手；进了餐车，两人软硬兼施逼年轻服务生 Wilbur 去说服厨师开火，她刚觉得自己"feeling almost normal for the first time that day"，一个自称 Benjy 的男孩就穿过餐车走到桌前，要她跟他走。
 - **视角**：第三人称限知，全程贴住 Violet。她的心里话、没说出口的话与身体反应都被写出；Alfie 的内心一句也没有——他有没有在打量她，只能靠 Violet 自己猜（"or she would see the curiosity in his face."）。
-- **情感弧线位置**：当日主线里 Violet 从"被保护者"短暂变成"能摆平场面的人"的一段。车厢的失序在前（没人、恶臭、帘后的手），餐车是全章唯一的暖处（cooked steak 的香气让她 hungry perked up），暖处刚坐热，Benjy 就出现把不安重新拉满。
+- **情感弧线位置**：当日主线里 Violet 从"被保护者"短暂变成"能摆平场面的人"的一段。车厢的失序在前（没人、恶臭、帘后的手），餐车是全章唯一的暖处（cooked steak 的香气让她 her hunger perked up），暖处刚坐热，Benjy 就出现把不安重新拉满。
 - **人物弧线**：Violet 靠嘴皮子拿回主导权——抬手截住服务生的道歉，再用 "This gentleman is a furnace in need of fuel." 把 Alfie 说成一台缺燃料的火炉；Alfie 则用体型和 "There are four of us." 施压。两人是分工，不是谁听谁的。Benjy 全程只对 Violet 说话，绕开 Alfie。
 - **叙事手法**：全章不写怪物，只写症状。先写"缺席"（没有声音、没有走廊里的人），再写气味、呕吐、帘子上的手指，最后才让人形自己走过来。餐车一节是全章唯一明亮的段落，随即被男孩打断；收尾一句把不安压到确定的时间点上。
 

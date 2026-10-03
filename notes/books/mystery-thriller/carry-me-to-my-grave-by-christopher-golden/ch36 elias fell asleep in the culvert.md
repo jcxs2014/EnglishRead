@@ -89,7 +89,7 @@ modified: "2026-10-03"
 
 > **原句 7:** "The hunger rose. Even with the pain in his bones from Maggie’s curse and the searing of the daylight, the hunger took him over. Elias grinned. His hands shook. Running felt like flying. He hurled himself through the plate glass. The shattering snapped the cashier from his paralysis. The man began to twist away, knowing this was real, these teeth were real, the pale thing once called Elias Wise, real."
 
-**中文理解**：进加油站之前，作者先写饥饿压过了一切：骨头里的痛（Maggie 的诅咒）和白昼的灼烧都还在，但 The hunger rose 一句就让它们靠边。Elias grins、hands shook、Running felt like flying——身体先进入亢奋。下一秒他整个人撞穿平板玻璃。玻璃碎裂声把收银员从僵住里拽出来，那人开始挣扎，这一串短促动作全是为了最后那句：这是真的、这些牙是真的、那个从前叫 Elias Wise 的苍白东西是真的。
+**中文理解**：进加油站之前，作者先写饥饿压过了一切：骨头里的痛（Maggie 的诅咒）和白昼的灼烧都还在，但 The hunger rose 一句就让它们靠边。Elias grinned、hands shook、Running felt like flying——身体先进入亢奋。下一秒他整个人撞穿平板玻璃。玻璃碎裂声把收银员从僵住里拽出来，那人开始挣扎，这一串短促动作全是为了最后那句：这是真的、这些牙是真的、那个从前叫 Elias Wise 的苍白东西是真的。
 
 **关键词**： The hunger rose / the hunger took him over / Running felt like flying / hurled himself through the plate glass / the pale thing once called Elias Wise
 

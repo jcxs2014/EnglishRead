@@ -89,7 +89,7 @@ modified: "2026-10-03"
 
 > **原句 7:** "Not crazy," Malcolm said intently. "I’m a soldier. Sergeant Rose drilled a few things into me. Honor and loyalty, no question. But the one that got me home alive was the third one—survival."
 
-**中文理解**：前文枪响、车窗裂开、Violet 已经跳了车，Malcolm 在倒车逃窜中回答 Jennie 的 "Are you crazy?"。他先说 "Not crazy"，再自报身份 "I’m a soldier"，然后给出那位军士教他的三条里的最后一条：荣誉与忠诚没有疑问，把活着带回家的是第三条——survival。
+**中文理解**：枪响与车窗裂开之后，Malcolm 在倒车逃窜中回答 Jennie 的 "Are you crazy?"；Violet 是在这句之后才抱起霰弹枪跳下车。他先说 "Not crazy"，再自报身份 "I’m a soldier"，然后给出那位军士教他的三条里的最后一条：荣誉与忠诚没有疑问，把活着带回家的是第三条——survival。
 
 **关键词**：Not crazy / Sergeant Rose / Honor and loyalty / the third one—survival
 

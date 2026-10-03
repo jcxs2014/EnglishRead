@@ -7,7 +7,7 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：离开 Crowson 一个多小时后雨停了，Malcolm 开着那辆雨刷只会抹水的 Frazer 载着 Violet、Jennie 和被铐住双手的 Benjy 往北赶；Benjy 成为他们的"报警器"（"Call him our fire alarm."），Malcolm 用 Jennie 剩下的 pixie dust 撒向男孩，也把"留着他是为了自己"这句话说破了。
+- **一句话概括**：离开 Crowson 一个多小时后雨停了，Malcolm 开着那辆雨刷只会抹水的 Frazer 载着 Violet、Jennie 和被铐住双手的 Benjy 往北赶；Benjy 成为他们的"报警器"（"Call him our fire alarm."），由 Violet 提议、Jennie 亲手把剩下的 pixie dust 撒向男孩，也把"留着他是为了自己"这句话说破了。
 - **视角**：第三人称限知，全程贴住 Malcolm。开头虽然是车辆场景，但叙述者始终是 Malcolm——枪藏在哪他知道（"Hope’s gun was tucked up under his seat."），谁在撒谎他也知道。本章没有一次切进 Benjy 或 Jennie 的内心。
 - **情感弧线位置**：属当日主线。它把"一群人在坏天气里逃亡"推进到"车里多了一个不能处理的乘客"：外部的坏天气与内部的道德难处被压进同一辆敞篷车，天气从雨转雪刚好跟这场逼问同时收尾。
 - **人物弧线**：Malcolm 从心里认定"带上这孩子是错的"（"we never should’ve brought him with us"）走到把错处说出口并动手处理；Violet 一直站在"不能把他丢下"那一边；Jennie 先用善意的说法挡（"His mind is Root’s right now"），被追问之后才承认这个孩子在替他们预警。本章没有交代 Crowson 是哪里，也没有交代那个 Morák 是什么。
@@ -29,7 +29,7 @@ modified: "2026-10-03"
 
 > **原句 2:** "Malcolm rolled the window up again. He’d caught the scent in the air, felt the crispness of it. “Snow’s coming.”"
 
-**中文理解**：Malcolm 先把车窗摇下去（前面有一句独立成段的 He rolled the window down a few inches），又摇上来——这个"又"说明中间他被人反问过一句，但作者把那段来回整段略过。他关窗的依据不是眼睛，是鼻子：catch the scent（闻到气味）、felt the crispness of it（感到那股清冽）。整段只有一句结论：Snow's coming。
+**中文理解**：Malcolm 先把车窗摇下去（前面有一句独立成段的 He rolled the window down a few inches），又摇上来——这个"又"说明中间他被人反问过一句，但作者把那段来回整段略过。他关窗的依据不是眼睛，是鼻子：caught the scent（闻到气味）、felt the crispness of it（感到那股清冽）。整段只有一句结论：Snow's coming。
 
 **关键词**： rolled the window up again / He’d caught the scent in the air / felt the crispness of it / Snow’s coming
 
@@ -155,4 +155,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-本章把一场逃亡压进一辆雨刷失灵、轮胎打滑的敞篷车：Malcolm 凭气味断定 "Snow’s coming." 并踩下油门，用后视镜盯住反铐在后的 Benjy，最终照着 Jennie 手里那撮 pixie dust 撒了下去；而全章真正的转折在最后那句实话——那个被他们当成负担的孩子，其实是他们唯一的预警器（"Call him our fire alarm."）。
+本章把一场逃亡压进一辆雨刷失灵、轮胎打滑的敞篷车：Malcolm 凭气味断定 "Snow’s coming." 并踩下油门，用后视镜盯住反铐在后的 Benjy，最终撒粉的是 Jennie 自己——她的手指蘸进那撮剩余的 pixie dust，按在男孩的头发和衣服上；而全章真正的转折在最后那句实话——那个被他们当成负担的孩子，其实是他们唯一的预警器（"Call him our fire alarm."）。

@@ -7,7 +7,7 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：夜路上一辆小巴士由 Malcolm 驾驶，Violet 与 Jennie 一个在前排、一个在后座；车窗外是被巨响惊动、纷纷亮灯张望的小镇居民。Violet 要求示警，Malcolm 说「Jennie’s right」；堵在路中央的一群人逼得 Jennie 把话说成威胁，Malcolm 踩下油门冲出去之后，Violet 摇下车窗编出「火车上有放射性物质」的谎话驱散人群。开出镇子后 Violet 说「你试过了」，Malcolm 没有否认，Jennie 接上「I promise you that no matter how many people die tonight, it’s a drop in the bucket」，把今晚的死人换算成更大的数目。
+- **一句话概括**：夜路上一辆小巴士由 Malcolm 驾驶，Violet 与 Jennie 一个在前排、一个在后座；车窗外是被巨响惊动、纷纷亮灯张望的小镇居民。Violet 要求示警，Malcolm 说「Jennie’s right」；堵在路中央的一群人逼得 Jennie 举枪把话说成威胁，人群随即散开；Violet 摇下车窗编出「火车上有放射性物质」的谎话之后，Malcolm 才踩下油门冲出去。开出镇子后 Violet 说「你试过了」，Malcolm 没有否认，Jennie 接上「I promise you that no matter how many people die tonight, it’s a drop in the bucket」，把今晚的死人换算成更大的数目。
 - **视角**：第三人称限知，贴 Malcolm。首句就是他在开车并回头看后视镜；Violet 搭在仪表台上的手、Jennie 从后座传来的喊声，全部经由他的感知与听觉进入叙述。全章的视线只在「后视镜」与「正前方」之间来回，没有一次离开过他的车。
 - **情感弧线位置**：本章是逃亡线里的道德台阶。Violet 先开口要救人、再被否决、最后自己撒了一个明知站不住脚的谎；Malcolm 给出放弃的理由只有一句「we’re dead」。人命在本章被明确定价成可以牺牲的成本，而 Violet 那一整段挣扎就是这笔账被人当场念出来的过程。
 - **人物弧线**：Jennie 从本章开始亮出她所受的教导——她讲的规矩不是猜的，是「I only know what I’ve been taught」，而教她的人由她自己点破为母亲；她同时是车上把死亡折算成数量的人。Violet 则从道德发言人退到撒谎的人，事后只有一句「You tried」。Malcolm 被夹在两人之间，一边握方向盘一边承认放弃，最后用「we’ve lost them」给自己的恐惧下了一个并未证实的结论。
@@ -105,7 +105,7 @@ modified: "2026-10-03"
 
 **关键词**： You think we’re safe now? / golden child / little brother / you’ve got a lot to learn
 
-**为什么这样写**：作者让本章结束在一个妹妹对哥哥的贬低上，而不是在逃出生天的宽慰上。golden child 与 little brother 本该是亲昵的旧称呼，被放进 you’ve got a lot to learn 就立刻变成居高临下；而这句贬低紧跟在 Violet 那句谎言之后，等于同时否定了逃出来的结论与车上付出的代价。
+**为什么这样写**：作者让本章结束在一个姐姐对弟弟的贬低上，而不是在逃出生天的宽慰上。golden child 与 little brother 本该是亲昵的旧称呼，被放进 you’ve got a lot to learn 就立刻变成居高临下；而这句贬低紧跟在 Violet 那句谎言之后，等于同时否定了逃出来的结论与车上付出的代价。
 
 **读者视角提示**：本章到此结束：镇子在后视镜里消失，路灯只剩零星几盏，Violet 的谎还没有人证实，Jennie 讲的规矩和 Maggie 的遗愿也还欠着一次交代。下一次这三笔账会被一起翻出来。
 

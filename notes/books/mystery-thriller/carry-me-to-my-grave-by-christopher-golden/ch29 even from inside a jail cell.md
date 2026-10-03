@@ -8,9 +8,9 @@ modified: "2026-10-03"
 ## 本章导航
 
 - **一句话概括**：视角转到 Malcolm。他与 Jennie 被关在马萨诸塞州小镇 Crowson 的拘留室里等待讯问；等待中 Jennie 交代了自己这些年去哪儿、在学什么，以及她与母亲之间那道至今未解的裂缝（母亲认定有天赋的是 Elias，不是她）。警探 Ray Hope 进来，要他们讲出过去十二小时的经过；Malcolm 不编故事，反而请 Hope 打电话给印第安纳州 Elkhart 的 Keates 殡仪馆核对身份。雨里，Alfie 和那个曾与 Root 同行的男孩站在警局外的草地上望着这扇窗；全章末尾 Malcolm 敲响门，把三个"在等的人"与"在行动的人"并置在一起。
-- **视角**：第三人称限知，全程贴住 Malcolm。开头那段关于小镇街道的观察（"the perfect slice of American pie"、送奶工的车）是他在囚车后座向外看的；中间与妹妹的对话全部经由他的听觉与判断（例如 "less than eager to talk to the police"）。本章没有一次写 Jennie 或 Hope 单独在想什么。
+- **视角**：第三人称限知，全程贴住 Malcolm。开头那段关于小镇街道的观察（"the perfect slice of American pie"、送奶工的车）是他在囚车后座向外看的；中间与姐姐的对话全部经由他的听觉与判断（例如 "less than eager to talk to the police"）。本章没有一次写 Jennie 或 Hope 单独在想什么。
 - **情感弧线位置**：当日主线从"逃亡"切到"停滞"。上一章是倒车、枪响、跳车，本章从头到尾两人坐在墙根下——唯一的时间压力来自日照：太阳每多亮一分钟，能赶路的时间就少一分钟。这个"被关住"的状态被作者反复提醒（"We’re locked up."、门被锁上、Hope 起身去打电话），直到末尾才被一句 "Be ready" 撬动。
-- **人物弧线**：Jennie 在本章以自己的口吻交代缺席的年月——她不是在度假，而是 "Educated myself about the true things that were the seeds for so many myths"，动机则是向母亲证明自己值得被看见；同时她也让出 Elias 的位置（"Elias has grown up to be an alcoholic whoremonger"）。Malcolm 一侧则完成两件事：把战场经验与当下的处境接上（要求 Hope 打电话核验，而不是编故事），并对妹妹说出他对 Violet 的感情。
+- **人物弧线**：Jennie 在本章以自己的口吻交代缺席的年月——她不是在度假，而是 "Educated myself about the true things that were the seeds for so many myths"，动机则是向母亲证明自己值得被看见；同时她也让出 Elias 的位置（"Elias has grown up to be an alcoholic whoremonger"）。Malcolm 一侧则完成两件事：把战场经验与当下的处境接上（要求 Hope 打电话核验，而不是编故事），并对姐姐说出他对 Violet 的感情。
 - **叙事手法**：以"小"为母题的三重排比（jail / police station / town）；把情报交换塞进等待的时间里，让长对话靠对方的插入与回避来切段；结尾用排比收束——Alfie 在等、Root 与 Elias 在等、Violet 不在等。
 
 ## 精读
@@ -77,7 +77,7 @@ modified: "2026-10-03"
 
 > **原句 6:** "Since the day we met,” he said, then realized the implication. “I’d never have let it go anywhere. Swear to God. But Elias abandoned her—cast her off like garbage—and we grew close."
 
-**中文理解**：Malcolm 在被问 "You really love her, huh?" 时先给一个时间起点——"Since the day we met"。紧接着叙述者插入 "then realized the implication"：他自己意识到这句话在妹妹听来意味着什么。下一段转述则是他补上的解释：他没有让这段关系发展，Elias 抛弃了 Violet，他们才慢慢靠近。
+**中文理解**：Malcolm 在被问 "You really love her, huh?" 时先给一个时间起点——"Since the day we met"。紧接着叙述者插入 "then realized the implication"：他自己意识到这句话在姐姐听来意味着什么。下一段转述则是他补上的解释：他没有让这段关系发展，Elias 抛弃了 Violet，他们才慢慢靠近。
 
 **关键词**：Since the day we met / then realized the implication / Elias abandoned her—cast her off like garbage
 
@@ -101,7 +101,7 @@ modified: "2026-10-03"
 
 > **原句 8:** "Waiting, just like Alfie and the little boy were waiting. And just like somewhere nearby, underground or in a cellar, out of the daylight, Root and Elias were waiting."
 
-**中文理解**：全章最后一句。Malcolm 敲响办公室的门，随即接上这句排比：他在等，正如窗外雨里那两个身影在等；正如附近某个地下或地窖里、避着日光的那两个也在等。两组在等的人被一句 underground or in a cellar 隔开。
+**中文理解**：靠近全章末尾的一句。Malcolm 敲响办公室的门，随即接上这句排比：他在等，正如窗外雨里那两个身影在等；正如附近某个地下或地窖里、避着日光的那两个也在等。两组在等的人被一句 underground or in a cellar 隔开。
 
 **关键词**：Waiting, just like Alfie and the little boy were waiting / underground or in a cellar, out of the daylight / Root and Elias were waiting
 

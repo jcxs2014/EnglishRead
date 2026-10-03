@@ -7,7 +7,7 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：母亲病危的夜里，Malcolm 摊开行李箱为一个还没发生的葬礼发愁，把戴面具闯进来的男子（他心里称对方为 "the raven"）算成弟弟 Elias 赌债的讨债人；他不开枪，也拒绝了 Violet 对危险的猜测，母亲在破晓前咽气，只留下一句 "you’ve gotta carry me home"，天亮后他拨通殡仪馆，全章最后一句是 "As if, like the raven, he’d been waiting."
+- **一句话概括**：母亲病危的夜里，Malcolm 摊开行李箱为一个还没发生的葬礼发愁，把戴面具闯进来的男子（他心里称对方为 "the raven"）算成哥哥 Elias 赌债的讨债人；他不开枪，也拒绝了 Violet 对危险的猜测，母亲在破晓前咽气，只留下一句 "you’ve gotta carry me home"，天亮后他拨通殡仪馆，全章最后一句是 "As if, like the raven, he’d been waiting."
 - **视角**：第三人称限知，全程贴住 Malcolm。视野偶尔外溢——玻璃上的 "dark eyes"、房间里的 "a shape at her window"——而每一次叙述者都立刻把它退回"他以为自己看见"。
 - **情感弧线位置**：当日主线（不是历史线）。本章是母亲临终夜的后半段：收拾行李 → 给闯客编一个解释 → 与 Violet 把多年的沉默摊开 → 母亲死亡 → 打电话。惊吓值几乎不往上顶，压力全靠那个始终没被解释的"等待"压着。
 - **人物弧线**：Malcolm 从 "going to war in Korea had been easier than being home in Elkhart" 走到 "he could feel the weight of his mother’s presence"，最后把枪放回床上；Violet 从窗帘边一句 "No light on the horizon just yet" 转到自己动手收拾行李；Maggie 全程不能说话，只用临终一句交代任务的性质；Elias 一次都没出场，却是全章的解释框架。

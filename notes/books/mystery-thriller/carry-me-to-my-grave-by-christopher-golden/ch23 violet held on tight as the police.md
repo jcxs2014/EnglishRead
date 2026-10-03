@@ -7,10 +7,10 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：Jennie Wise——Malcolm 的妹妹、Maggie Wise 的长女——开着偷来的警车载着 Malcolm 和 Violet 一路往东，甩开列车残骸；她一边开车一边数落 Malcolm 只是个 golden child，坚持唯一的活路是让 Maggie 入土，进镇之前先逼兄妹俩表态：真到那一步，愿不愿意亲手杀掉 Elias。
+- **一句话概括**：Jennie Wise——Malcolm 的姐姐、Maggie Wise 的长女——开着偷来的警车载着 Malcolm 和 Violet 一路往东，甩开列车残骸；她一边开车一边数落 Malcolm 只是个 golden child，坚持唯一的活路是让 Maggie 入土，进镇之前先逼兄妹俩表态：真到那一步，愿不愿意亲手杀掉 Elias。
 - **视角**：第三人称限知，全程贴住 Violet。全章的恐惧都从她的身体感觉出发——被挤在车门边、雨刷赶不上雨、脖颈发凉——而 Malcolm 与 Jennie 之间的火气她只能旁听，无法调停。
 - **情感弧线位置**：从麻木到被点燃，再到被冷水浇醒。Jennie 喊出 "I killed one!" 时 Violet 心里 "a flicker of hope"，但这句希望只维持到 Jennie 说 "You're not listening." 为止；Violet 自己得出的结论更冷：人越多，死得越多。
-- **人物弧线**：Jennie 从"全家人都绕着提起的妹妹"变成发号施令的人，她的话一句比一句硬；Malcolm 从被骂到主动让出发言权，承认 "We'll follow your lead, Jen"；Violet 最后用一句 "That thing back there isn't Elias." 换来 Jennie 的 "You're learning."——她在本章完成了一次判断标准的切换。Elias 是 Violet 的丈夫——这一关系由他本人在前文里朝她喊出的那句 I'm your husband! 交代——本章他只以"身后那个东西"的形式被提到。
+- **人物弧线**：Jennie 从"全家人都绕着提起的姐姐"变成发号施令的人，她的话一句比一句硬；Malcolm 从被骂到主动让出发言权，承认 "We'll follow your lead, Jen"；Violet 最后用一句 "That thing back there isn't Elias." 换来 Jennie 的 "You're learning."——她在本章完成了一次判断标准的切换。Elias 是 Violet 的丈夫——这一关系由他本人在前文里朝她喊出的那句 I'm your husband! 交代——本章他只以"身后那个东西"的形式被提到。
 - **叙事手法**：整章塞在一辆行驶中的车里，靠车厢内部的微小位移（Malcolm 从中间座扭身看后窗、Violet 去够车门把手）替代外部动作；对话推进，叙述只负责补雨天、车灯、路过的农庄这些"有人在正常生活"的背景，把三个人的逃亡压在一段再普通不过的夜路上。
 
 ## 精读
@@ -57,7 +57,7 @@ modified: "2026-10-03"
 
 **关键词**：The other woman flinched / shot Violet a dark look / I’m trying to figure out how to keep us alive till morning
 
-**为什么这样写**：作者在回答之前先给一个身体反应——flinched——让读者看见"被吼"这件事在 Jennie 身上留下了痕迹，再给她一个反击式的眼神。这两句合起来把人物关系从"妹妹与嫂子"改写成"两个被同一件事逼到墙角的人"。而 till morning 这个时间状语已经把本章的主线交出来了：活到天亮，而不是活到天亮之后。
+**为什么这样写**：作者在回答之前先给一个身体反应——flinched——让读者看见"被吼"这件事在 Jennie 身上留下了痕迹，再给她一个反击式的眼神。这两句合起来把人物关系从"姐姐与弟媳"改写成"两个被同一件事逼到墙角的人"。而 till morning 这个时间状语已经把本章的主线交出来了：活到天亮，而不是活到天亮之后。
 
 **读者视角提示**：这里的说话人是 Jennie——原文先写 The other woman，再让她开口，读者要靠后面 till morning 这句才认得出是她。全章第一个真正的信息就是从她这里来的。
 

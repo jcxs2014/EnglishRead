@@ -11,13 +11,13 @@ modified: "2026-10-03"
 - **视角**：第三人称限知，全程贴 Elias。Root、Alfie、Benjy 与那只先行的怪物都只从外部被看见、被听见；唯一一次进入别人的意图，是 Elias 对 Alfie 那个"面无表情地停住"所作的推测（似乎有了新指令）。
 - **情感弧线位置**：怪物线的开端段。前一章还是人靠意志压着本能，本章把"人"剩下的部分压到很小——旧的 Elias 像蜕下的蛇皮一样缩在体内，剩下的是一口压不住的杀欲。作者把这一章的恐惧值不是放在追杀者身上，而是放在猎物（Benjy、路边的人）与 Elias 自己的听觉上。
 - **人物弧线**：Elias 在本章从"残留的人"退成"新来的一种东西"——他会问 What am I now、会因为别人的手挖开别人的胸而嫉妒、会因为一声惨叫而想唱歌，这些反应全部指向同一条裂缝：他还记得什么是想加入音乐，也还没忘记尖叫是什么声音。Root 则是本章唯一还在下达命令的一方，可命令一次比一次弱（先是喝止，接着是 Master your hunger，最后是跟着本能一起扑向伤员）。Alfie 与 Benjy 全程几乎没有台词，只作为"车上还有活人"的证据存在。
-- **叙事手法**：通感式并置。作者反复把听觉写成音乐：先是 Alfie continued to sing，接着尖叫 sounded so much like music，末句又用 sing 收束，于是本章的高潮不是暴力本身，而是暴力被听成了歌。段落节奏上是"停顿—扫过—停顿"：车辆先是为怪物停下，再是压过尸体不停，最后为避让侧翻；每一次停顿都由远处的声音触发——警报、金属摩擦、惨叫。视角人物本身也用身体写作：The itch to kill made his skin crawl 与 His toes curled 把欲望放在肌肉层面，而不是心理层面。
+- **叙事手法**：通感式并置。作者反复把听觉写成音乐：先是 Alfie Hannigan continued to sing，接着尖叫 sounded so much like music，末句又用 sing 收束，于是本章的高潮不是暴力本身，而是暴力被听成了歌。段落节奏上是"停顿—扫过—停顿"：车辆先是为怪物停下，再是压过尸体不停，最后为避让侧翻；每一次停顿都由远处的声音触发——警报、金属摩擦、惨叫。视角人物本身也用身体写作：The itch to kill made his skin crawl 与 His toes curled 把欲望放在肌肉层面，而不是心理层面。
 
 ## 精读
 
 > **原句 1:** "Elias thought this must be how a snake felt after molting its old skin. Little slivers of the old Elias remained like stringy bits of meat stuck in his teeth, but the rest had been cast aside."
 
-**中文理解**：全章开场就把人身的蜕皮比作蛇换皮。旧的不再完整：Little slivers 剩下几丝，像 stringy bits of meat stuck in the teeth——挂在牙缝里的肉丝，是人蜕皮之后还没咽下去的部分。but the rest had been cast aside 收尾，其余的已经丢掉。
+**中文理解**：全章开场就把人身的蜕皮比作蛇换皮。旧的不再完整：Little slivers 剩下几丝，像 stringy bits of meat stuck in his teeth——挂在牙缝里的肉丝，是人蜕皮之后还没咽下去的部分。but the rest had been cast aside 收尾，其余的已经丢掉。
 
 **关键词**：molting its old skin / Little slivers of the old Elias / cast aside
 
@@ -53,7 +53,7 @@ modified: "2026-10-03"
 
 > **原句 4:** "The fire truck came to a shuddering halt. Alfie waited, face blank. No words had been spoken, but it seemed he had new instructions."
 
-**中文理解**：三个短句给出一次停顿的完整因果。come to a shuddering halt 是带颤动的停住（车是被拦下来的，不是自愿停的），Alfie waited, face blank 是开车的人面无表情地等着，No words had been spoken 先否认有交谈，再用 but it seemed he had new instructions 给出 Elias 自己的推测：指令不是用语言下达的。
+**中文理解**：三个短句给出一次停顿的完整因果。came to a shuddering halt 是带颤动的停住（车是被拦下来的，不是自愿停的），Alfie waited, face blank 是开车的人面无表情地等着，No words had been spoken 先否认有交谈，再用 but it seemed he had new instructions 给出 Elias 自己的推测：指令不是用语言下达的。
 
 **关键词**：came to a shuddering halt / face blank / new instructions
 
@@ -105,7 +105,7 @@ modified: "2026-10-03"
 
 **关键词**：the screaming began / sounded so much like music / wanted to sing
 
-**为什么这样写**：作者把本章的音乐线索分成两半——Alfie continued to sing 是开头那辆车上无损的声音，Elias 自己的 singing voice 是他一直藏着的、不愿被人听见的，末句则让尖叫顶替了歌唱的位置。三者用同一个动词串起，于是结尾不是他失控了，而是他终于找到了能和自己合拍的声音。When the screaming began 把整章的血腥重新包装成一次开场：惨叫开始的时候，他想的是上台。
+**为什么这样写**：作者把本章的音乐线索分成两半——Alfie Hannigan continued to sing 是开头那辆车上无损的声音，Elias 自己的 singing voice 是他一直藏着的、不愿被人听见的，末句则让尖叫顶替了歌唱的位置。三者用同一个动词串起，于是结尾不是他失控了，而是他终于找到了能和自己合拍的声音。When the screaming began 把整章的血腥重新包装成一次开场：惨叫开始的时候，他想的是上台。
 
 **读者视角提示**：本章到此结束：车还在往前开，路上的尸体还在，路灯（如果有）已经与他无关。读者手里留下的不是恐惧，而是一个刚刚学会把惨叫当音乐听的怪物。
 

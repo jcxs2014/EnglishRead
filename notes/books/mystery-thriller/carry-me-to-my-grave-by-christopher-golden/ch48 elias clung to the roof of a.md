@@ -29,7 +29,7 @@ modified: "2026-10-03"
 
 > **原句 2:** "Root had bent the cop to its will, climbed into the passenger seat, and curled up like a dog before a fire. Afua and Mathieu lay across the back seat. Elias had climbed onto the roof and stayed there as the policeman drove the last fifteen miles through the storm to reach the Shediak bridge."
 
-**中文理解**：车里坐下了三种姿势。Root 占了副驾，蜷得像守在火炉前的狗；Afua 与 Mathieu 横躺在后座；Elias 趴在车顶，一路到 Shediak bridge 才落地。路的终点由 driven the last fifteen miles through the storm 交代。
+**中文理解**：车里坐下了三种姿势。Root 占了副驾，蜷得像守在火炉前的狗；Afua 与 Mathieu 横躺在后座；Elias 趴在车顶，一路到 Shediak bridge 才落地。路的终点由 drove the last fifteen miles through the storm 交代。
 
 **关键词**：bent the cop to its will / curled up like a dog before a fire / lay across the back seat / the last fifteen miles
 
@@ -101,7 +101,7 @@ modified: "2026-10-03"
 
 > **原句 8:** "Elias didn’t need Root’s worming presence in his head now. He would kill his brother and sister and tear his mother’s corpse apart and cast it into the Atlantic Ocean, because he had to if he wanted an end to this pain."
 
-**中文理解**：前一句说他此刻不再需要 Root 在他脑子里（worming presence：像虫一样盘在脑中的存在）；后面连用三个动词排成一串：kill（杀）、tear apart（撕碎）、cast into（抛进）——杀兄弟与姐妹、把母亲的尸体撕开、扔进大西洋。三件事合成一个 he would。because 那句把动机钉死：不是恨，是止痛。
+**中文理解**：前一句说他此刻不再需要 Root 在他脑子里（worming presence：像虫一样盘在脑中的存在）；后面连用三个动词排成一串：kill（杀）、tear his mother’s corpse apart（撕碎）、cast it into（抛进）——杀兄弟与姐妹、把母亲的尸体撕开、扔进大西洋。三件事合成一个 he would。because 那句把动机钉死：不是恨，是止痛。
 
 **关键词**：Root’s worming presence / He would kill his brother and sister / tear his mother’s corpse apart / cast it into the Atlantic Ocean
 

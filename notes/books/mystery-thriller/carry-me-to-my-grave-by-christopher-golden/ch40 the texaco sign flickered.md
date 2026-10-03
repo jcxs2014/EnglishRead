@@ -45,7 +45,7 @@ modified: "2026-10-03"
 
 **关键词**：bloated as a tick / yet somehow also empty
 
-**为什么这样写**：tick 这个比喻来自他刚刚经历的那顿饭（本章开头写加油站里两个人 how they screamed about hell and the devil），读者知道那是什么撑胀了他。作者不写"他感到恶心"，而写"胀"与"空"并列，因为被填满的只是胃，不是他自己——这一句提前替后文那句 "the shell is only a shell." 做好了铺垫。
+**为什么这样写**：tick 这个比喻来自他刚刚经历的那顿饭（本章开头写加油站里两个人 while they screamed about hell and the devil），读者知道那是什么撑胀了他。作者不写"他感到恶心"，而写"胀"与"空"并列，因为被填满的只是胃，不是他自己——这一句提前替后文那句 "the shell is only a shell." 做好了铺垫。
 
 **读者视角提示**：这句是本章的暗线：外头是撑胀的，内里是空的。后文他体内 "something worm inside of him, not flesh but presence" 的写法，说的就是这份空正在被填。
 
