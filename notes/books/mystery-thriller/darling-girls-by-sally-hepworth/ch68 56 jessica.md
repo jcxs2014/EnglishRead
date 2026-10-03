@@ -58,7 +58,7 @@ title: "56 – Jessica"
 
 **关键词：** Shh, it's all right, He reached for a box of tissues and plucked a couple out, I do, reaching for her hand, Very much
 
-**为什么这样写：** 全书对「**纸巾**」这个道具的第三次使用（ch61 里 Dr Warren 窗台上放了一盒、ch60 里急诊护士面前也有），而这一次它由一个**丈夫**递出——说明这本书里「照顾」的物理形态始终是**一盒纸巾**。而 Very much（非常）被单独成句，而前面那个 I do（我想）也单独成句：作者用**两个短句**代替一个长句（I would very much like to know），因为她此刻需要的不是**完整的句子**，是**被确认的强度**。
+**为什么这样写：** 全书对「**纸巾**」这个道具的第三次使用（ch62 里 Dr Warren 窗台上放着一盒、ch36 里 Hando 递给 Patel），而这一次它由一个**丈夫**递出——说明这本书里「照顾」的物理形态始终是**一盒纸巾**。而 Very much（非常）被单独成句，而前面那个 I do（我想）也单独成句：作者用**两个短句**代替一个长句（I would very much like to know），因为她此刻需要的不是**完整的句子**，是**被确认的强度**。
 
 **读者视角提示：** 读者会在这两句上第一次明白：她这一生的所有请求，都是**用一句话说完就等**——而这一次她等到了「非常」。
 
@@ -70,7 +70,7 @@ title: "56 – Jessica"
 
 **关键词：** Norah gave Jessica a light punch in the arm, 'Idiot.', 'You should be,' she said gruffly, But she gave Jessica a quick kiss on the head
 
-**为什么这样写：** 全书对 Norah 最精准的一次性格定型，而它只用了**一个动作加两个词**。轻拳（light punch）是 ch22 里酒吧那场斗殴的**缩小版**——同一个动作，力度完全不同，而作者不解释。而 You should be（你确实该道歉）是**对 sorry 的直接回答**，用 gruffly（粗声地）说，而 then 但她还是亲了她的头——这个 but 完成了全部：**她既不原谅，也不拒绝**。
+**为什么这样写：** 全书对 Norah 最精准的一次性格定型，而它只用了**一个动作加两个词**。轻拳（light punch）与 ch22 里 Norah 向 Hando 追述的那次出手是**同一个动作的缩小版**——同样是打到痛处，但那次让人丢掉整个安置机构，这次只让她说了句「白痴」。而 You should be（你确实该道歉）是**对 sorry 的直接回答**，用 gruffly（粗声地）说，而 then 但她还是亲了她的头——这个 but 完成了全部：**她既不原谅，也不拒绝**。
 
 **读者视角提示：** 读者会在这两句上第一次明白：她们的姐妹情不是靠**理解**维系的，是靠**动作的持续**维系的——而这个动作今天变轻了，仅此而已。
 

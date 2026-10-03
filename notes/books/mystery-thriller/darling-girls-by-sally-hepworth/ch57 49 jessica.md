@@ -94,7 +94,7 @@ title: "49 – Jessica"
 
 **关键词：** felt like a zombie, like she was sleepwalking, Oddly untethered, feeling everything and nothing at once, local anaesthetic for stitches, you could feel the doctor tugging your skin but you couldn't feel the pain, once the injection wore off, the pain would hit
 
-**为什么这样写：** 全书对「麻木」最精确的一次描写，而作者让它成为一场**可预知的延期**：她知道痛会来，她知道从哪来（the injection wore off），她甚至知道回来的机制。而 feeling everything and nothing at once 这一个短语就是**解离**的教科书定义——她在这一章之前已经出现过一次（ch39 的 spaced out），这一次她自己给出了**类比**，而类比的那个对象是**麻药**。
+**为什么这样写：** 全书对「麻木」最精确的一次描写，而作者让它成为一场**可预知的延期**：她知道痛会来，她知道从哪来（the injection wore off），她甚至知道回来的机制。而 feeling everything and nothing at once 这一个短语就是**解离**的教科书定义——她在这一章之前已经出现过一次（ch46 的 spaced out），这一次她自己给出了**类比**，而类比的那个对象是**麻药**。
 
 **读者视角提示：** 读者会在这段上第一次意识到：她不是不痛，她是**先给自己打了止痛针**——而她床头的备用 Valium 就是那支针。
 

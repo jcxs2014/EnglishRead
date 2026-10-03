@@ -34,7 +34,7 @@ title: "47 – Alicia"
 
 **关键词：** so many great things about you, you always do what you say you will, you enjoy feedback, even if it's not positive, you speak up, when no one else is prepared to, you care about vulnerable people
 
-**为什么这样写：** 全书对**肯定**最精密的一次运用，而作者列出这五条的方式是**全部由行为构成**，没有一条是天赋或外貌。这五条恰好是 Alicia 一生的五个战场：说到做到（ch25 她为 Norah 撒谎）、喜欢负面反馈（她是唯一追着 check_vocab 修门禁的人）、别人不敢说她开口（她在 ch06 当场顶撞 Miss Fairchild）、关心弱势者（她在 ch12 拒绝了那个女孩）。而 even if it's not positive（哪怕不是好话）这一条，是这本书给她自己下的**最准确的一句诊断**。
+**为什么这样写：** 全书对**肯定**最精密的一次运用，而作者列出这五条的方式是**全部由行为构成**，没有一条是天赋或外貌。这五条恰好是 Alicia 一生的五个战场：说到做到（ch25 她为 Norah 撒谎）、喜欢负面反馈（她在 ch63 里把警方的问题一条条记下来挑错）、别人不敢说她开口（她在 ch06 当场顶撞 Miss Fairchild）、关心弱势者（她在 ch12 拒绝了那个女孩）。而 even if it's not positive（哪怕不是好话）这一条，是这本书给她自己下的**最准确的一句诊断**。
 
 **读者视角提示：** 读者会在这一串列举里第一次意识到：Meera 认识的不是「现在的 Alicia」，而是**二十年来每一次有人试图把她推开而她没有走开的那个 Alicia**。
 
