@@ -56,7 +56,7 @@ modified: "2026-10-03"
 
 > **原句 5:** "“You weren’t supposed to make me smile or laugh.” He nips at the edge of my ear before tracing my earrings with his finger. “You weren’t supposed to work your way under my skin like venom with no kind of antidote.”"
 
-**中文理解：** 我本不该让你笑起来，也不该逗你笑。
+**中文理解：** 你本不该让我笑起来，也不该让我笑出声。
 
 **关键词：** You weren’t supposed to make me smile or laugh
 

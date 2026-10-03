@@ -16,11 +16,11 @@ modified: "2026-10-03"
 
 > **原句 1:** "How the hell did Zahra go from making snow angels in Central Park less than a week ago to a nasty case of pneumonia? She went from the sniffles to bedridden faster than I’ve seen anyone decline."
 
-**中文理解：** Zahra 怎么会不到一周前还在中央公园堆雪人，现在就得了严重的肺炎？她从流鼻涕到卧床不起的速度，比我见过的任何人都快。
+**中文理解：** Zahra 怎么会不到一周前还在雪地上打雪仗，现在就得了严重的肺炎？她从流鼻涕到卧床不起的速度，比我见过的任何人都快。
 
 **关键词：** making snow angels · less than a week ago · a nasty case of · from the sniffles to bedridden
 
-**为什么这样写：** 作者先给一个具体到近乎欢乐的画面（雪人），再让它和「肺炎」并置，反差全靠 less than a week ago 这一个时间状语承担。from A to B 把病程压成一次落差，而 faster than I’ve seen anyone decline 用比较级把他自己的阅历架到她的病情上——他不是在描述病人，是在承认自己见得多、而且被吓到了。开头的粗口骂的不是她，是这个落差本身。
+**为什么这样写：** 作者先给一个具体到近乎欢乐的画面（原文写的是 making snow angels，与 ch40 的堆雪人并非同一场景），再让它和「肺炎」并置，反差全靠 less than a week ago 这一个时间状语承担。from A to B 把病程压成一次落差，而 faster than I’ve seen anyone decline 用比较级把他自己的阅历架到她的病情上——他不是在描述病人，是在承认自己见得多、而且被吓到了。开头的粗口骂的不是她，是这个落差本身。
 
 **读者视角提示：** 中央公园与雪人这两个细节是有前科的：在 Rowan 视角的 ch40，是他为了陪她把公园逛到失控、在园中堆了雪人；而在 Zahra 视角的 ch41，她写自己正是因为不肯进屋才病倒。这一场病不是意外，是那趟行程的账单。
 

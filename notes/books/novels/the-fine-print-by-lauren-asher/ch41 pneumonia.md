@@ -52,7 +52,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** Oh, yeah 是英语里承认某件显而易见之事的语气：不是恍然大悟，是「这事还需要想吗」。紧跟其后的一句才是真正的转折（真正的问题是他会不会也爱我），把一场自我告白立刻转成一道没有答案的题。
 
-**读者视角提示：** 全章她唯一一次把他的全名写出来。回想第一章里 Rowan 的全名也是第一次出现在别人嘴里——两个人在各自的关键句上都用了全名，这是一次对称。
+**读者视角提示：** 全章她唯一一次把他的全名写出来。Rowan 的全名第一次出现在别人嘴里是 ch03，不是第一章——两个人在各自的关键句上都用了全名，这是一次对称。
 
 > **原句 5:** "I’m drawing a blank on how long I’ve been using his house as an infirmary tent. All I know is his bed is a hundred times better than mine and I never want to leave."
 
@@ -86,7 +86,7 @@ modified: "2026-10-03"
 
 > **原句 8:** "“Based on the symptoms you described and what I see and hear, it’s probably some kind of viral pneumonia. Her tissues are covered with green mucus and she has a fever. If you don’t take her to the hospital tonight, she’s going to end up in the back of an ambulance soon enough.”"
 
-**中文理解：** 根据你描述的症状，加上我看到和听到的情况，很可能是某种病毒性肺炎。她的纸巾上全是绿色黏液，而且她在发烧。你今晚要是不送她去医院，她很快就会上救护车。
+**中文理解：** 根据你描述的症状，加上我看到和听到的情况，很可能是某种病毒性肺炎。她的组织上覆着绿色黏液，而且她在发烧。你今晚要是不送她去医院，她很快就会上救护车。
 
 **关键词：** Based on the symptoms you described and what I see and hear · viral pneumonia · green mucus and she has a fever · end up in the back of an ambulance soon enough
 

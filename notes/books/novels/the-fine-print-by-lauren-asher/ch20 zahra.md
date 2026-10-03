@@ -62,7 +62,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 她给自己定的第一条规矩（对老板动心）只说「不对」，第二条却升级成「卑劣」——两件事的错误等级不一样，说明她在心里早已给 Rowan 定了更高的位置。but 把两句并排而不给结论；真正给出动机的是第三句，那半句「经过我经历过的那些事」把一段过去压成了四个字。
 
-**读者视角提示：** 这是她本章唯一的道德宣言，也是她给自己设的时限：只要她认定自己同时吊着两个人，她就会退。她给自己留的出口只有「除非其中一个人先说破」——记住这个设定。
+**读者视角提示：** 这是她本章唯一的道德宣言，也是她给自己设的时限：只要她认定自己同时吊着两个人，她就会退。她给自己留的出口只有「（这个念头要到 ch24 她说「你迟早得选一个」才成形）」——记住这个设定。
 
 > **原句 6:** "My heart clenches in my chest for the boy who struggled to live up to his father’s expectations. Rowan might be rich, but he struggles with the same kind of issues the rest of us do. Parental expectations. Personal failures."
 

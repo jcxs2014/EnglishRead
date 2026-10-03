@@ -60,7 +60,7 @@ modified: "2026-10-03"
 
 **关键词：** The letters have been sent to Grandpa’s chosen voting committee
 
-**为什么这样写：** 七个词把整章的基调砸下去。the letters 用的是复数——三兄弟各有一封（本章后段 Declan 也说了 each of our letters），而收信的机构是 Grandpa's chosen voting committee，也就是祖父替他们定好的。程序一旦启动就不因任何人度假而暂停。这句台词放在章末，是作者故意让最冷的一句压在最暖的一天后面。
+**为什么这样写：** 十个词把整章的基调砸下去。the letters 用的是复数——三兄弟各有一封（本章后段 Declan 也说了 each of our letters），而收信的机构是 Grandpa's chosen voting committee，也就是祖父替他们定好的。程序一旦启动就不因任何人度假而暂停。这句台词放在章末，是作者故意让最冷的一句压在最暖的一天后面。
 
 **读者视角提示：** 这是祖父遗愿的时间节点：信一到，Rowan 那半年任期就进入倒计时。本章之前的所有悠闲都要按这条线重新计算。
 
