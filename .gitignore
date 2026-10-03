@@ -129,6 +129,8 @@ scripts/fix_angelic.py
 
 # --- .tmp_spot/ 一次性取证脚本区（审查产物不入库；正式工具提升到 scripts/）---
 .tmp_spot/
+# --- .tmp_*/ 各实例的一次性构建脚本区（builder/取证脚本，同上不入库）---
+.tmp_*/
 # --- scripts/attic/ 一次性修复/审查脚本（各实例自用，不入库）---
 scripts/attic/
 .box-agent/
