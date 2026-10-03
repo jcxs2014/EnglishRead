@@ -1,0 +1,192 @@
+=== 语料层验收（P0-0）: empire-by-sabaa-tahir ===
+text/ 件数: 61
+  [1] 件数 61 == 预期 61  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 25 组 / 互查 600 组（共享人物 10 个已豁免）  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (40 句)
+      首| Prologue
+      末| But somehow, Div has returned to life and bound herself to Sirsha.
+    ch02 (184 句)
+      首| 1
+      末| “Walk with me into the dark.”
+    ch03 (207 句)
+      首| 2
+      末| And whatever the cost, he had to find a way to speak with her.
+    ch04 (326 句)
+      首| 3
+      末| She was serving Sirsha up to the zealots like a goat to the slaughter.
+    ch05 (147 句)
+      首| 4
+      末| And straight into Aunt Hel’s chest.
+    ch06 (288 句)
+      首| 5
+      末| She was killing Kade.
+    ch07 (360 句)
+      首| 6
+      末| And the Spires only knew what hells she would unleash now.
+    ch08 (247 句)
+      首| 7
+      末| Whatever the mission, she vowed to herself, she would not fail.
+    ch09 (201 句)
+      首| 8
+      末| Serra is lost.”
+    ch10 (265 句)
+      首| 9
+      末| She was surrounded.
+    ch11 (235 句)
+      首| 10
+      末| As Ghaz drove his boots into Cero’s ribs over and over, all he could do was fall into the pain, 
+    ch12 (192 句)
+      首| 11
+      末| All she could do was watch as Khunnor rolled up his sleeves, circled the sky-dog, and got to wor
+    ch13 (342 句)
+      首| 12
+      末| Or one by one, I will destroy every last city on this continent.”
+    ch14 (193 句)
+      首| 13
+      末| “Wouldn’t you like to know,” Sirsha said, and then wheeled toward the Thafwan jungle and Loli Te
+    ch15 (363 句)
+      首| 14
+      末| Karinna Veturia.
+    ch16 (144 句)
+      首| 15
+      末| The Kegari had found them.
+    ch17 (232 句)
+      首| 16
+      末| I look forward to our conversation.”
+    ch18 (479 句)
+      首| 17
+      末| As if she wasn’t quite sure if she believed her own words.
+    ch19 (227 句)
+      首| 18
+      末| Loli Temba.
+    ch20 (169 句)
+      首| 19
+      末| Already the mission was bearing fruit.
+    ch21 (352 句)
+      首| 20
+      末| We have been waiting for you.”
+    ch22 (328 句)
+      首| 21
+      末| But before she could, a hood dropped over her head and darkness closed in.
+    ch23 (433 句)
+      首| 22
+      末| But I suspect that if you want more information, the only place you’ll find it is among the Jadu
+    ch24 (301 句)
+      首| 23
+      末| It is your choice, and yours alone, that will decide which path your people will walk.”
+    ch25 (286 句)
+      首| 24
+      末| Dead.
+    ch26 (409 句)
+      首| 25
+      末| Then we will ask you to leave, whether you’ve found anything or not.”
+    ch27 (241 句)
+      首| 26
+      末| No matter how well you think you’ve hidden it.
+    ch28 (402 句)
+      首| 27
+      末| “I’ll check the perimeter,” he said, leaving Quil to wonder if his magic was good for anything b
+    ch29 (219 句)
+      首| 28
+      末| “And so is our rage.”
+    ch30 (349 句)
+      首| 29
+      末| You are.”
+    ch31 (290 句)
+      首| 30
+      末| And soon, everyone else will as well.
+    ch32 (414 句)
+      首| 31
+      末| “Use it wisely.”
+    ch33 (238 句)
+      首| 32
+      末| “Agreed.”
+    ch34 (175 句)
+      首| 33
+      末| “Not anymore,” Cero said, before falling to the sands in a dead faint.
+    ch35 (66 句)
+      首| 34
+      末| Cero said nothing, knowing, with a growing terror, that the miracle had come from him.
+    ch36 (303 句)
+      首| 35
+      末| “I beg that you break it, so I might live free.”
+    ch37 (433 句)
+      首| 36
+      末| And then she punched him square in the face.
+    ch38 (213 句)
+      首| 37
+      末| And Karinna was alone again.
+    ch39 (321 句)
+      首| 38
+      末| The Sail was stooping toward the flat surface of the sea at an astonishing clip, and the last th
+    ch40 (116 句)
+      首| 39
+      末| “I am ready.”
+    ch41 (331 句)
+      首| 40
+      末| But once again, when he entered her memory, all he saw were flames and all he felt was fear.
+    ch42 (79 句)
+      首| 41
+      末| It happened when she was a child.”
+    ch43 (406 句)
+      首| 42
+      末| We’ve reached Old Kegar.”
+    ch44 (222 句)
+      首| 43
+      末| He felt her brush past him, and even though he couldn’t see her, he shivered at the menace in he
+    ch45 (235 句)
+      首| 44
+      末| “How beautifully you’ve learned to lie.”
+    ch46 (258 句)
+      首| 45
+      末| And of how you might yet save them.”
+    ch47 (391 句)
+      首| 46
+      末| And so was she.
+    ch48 (335 句)
+      首| 47
+      末| She was many.
+    ch49 (99 句)
+      首| 48
+      末| And together, they fell.
+    ch50 (249 句)
+      首| 49
+      末| It was Ruh.
+    ch51 (54 句)
+      首| 50
+      末| And then it will be time, finally, for you to save your people.
+    ch52 (349 句)
+      首| 51
+      末| She dug her fingers into the skin over his heart and pulled.
+    ch53 (111 句)
+      首| 52
+      末| Maybe—maybe we’re supposed to fix that.”
+    ch54 (316 句)
+      首| 53
+      末| “But first, you will give me my Loha.”
+    ch55 (151 句)
+      首| 54
+      末| And Aiz bet-Dafra knew no more.
+    ch56 (91 句)
+      首| 55
+      末| “Thank you.”
+    ch57 (286 句)
+      首| 56
+      末| I have a proposal for you.”
+    ch58 (254 句)
+      首| 57
+      末| He gasped as the updraft spun him high above the forest and then into the clouds, until he felt 
+    ch59 (83 句)
+      首| 58
+      末| But as to that, Ruhyan Veturius had no answer.
+    ch60 (219 句)
+      首| 59
+      末| I choose freedom.
+    ch61 (74 句)
+      首| Epilogue
+      末| He shrugged and ate his pastry, smiling as Mistress Harper walked along the water, arm-in-arm wi
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
