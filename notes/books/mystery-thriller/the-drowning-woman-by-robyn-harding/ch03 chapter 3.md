@@ -142,7 +142,7 @@ modified: "2026-10-03"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| résumé | 简历 | People who have criminal records, who come without résumés or references. |
+| résumés | 简历（复数形式，本章原文如此） | People who have criminal records, who come without résumés or references. |
 | peeling paint | 剥落的油漆 | Set in a rough neighborhood just south of Seattle, the peeling paint and faded sign signal a certain willingness to bend the rules. |
 | cold, hard blue | 冷硬的蓝色（此处指 Randy 的眼睛） | His eyes are a cold, hard blue. |
 | belongings | 随身物品，行李 | Finally, I gather my two bags of belongings and catch Vincent’s eye. |

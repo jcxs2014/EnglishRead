@@ -126,7 +126,7 @@ modified: "2026-10-03"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | cloying | 腻人的，过甜发闷的（此处指泳池大厅的气味） | The lobby is warm and damp and cloying as I approach the woman at the chipped Formica counter. |
-| vagrant | 流浪者（Vagrants 首字母大写为告示牌用语） | Vagrants, people like me who are here for a hot shower and some free soap, are not permitted. |
+| Vagrants | 流浪者（告示牌用语，首字母大写） | Vagrants, people like me who are here for a hot shower and some free soap, are not permitted. |
 | Formica | 福米卡（一种耐热塑材料台面） | The lobby is warm and damp and cloying as I approach the woman at the chipped Formica counter. |
 | chanterelle | 鸡油菌（一种食用菌） | My vision was clear: I’d serve elevated but accessible food—short ribs with duck-fat potatoes, buttermilk-fried chicken drizzled with spiced honey, chanterelle mushroom risotto. |
 | brasserie | 小酒馆式餐馆 | We met when I was working at a swanky brasserie in the Meatpacking District. |

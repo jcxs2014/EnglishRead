@@ -140,7 +140,7 @@ modified: "2026-10-03"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| smirk | 咧嘴笑（此处带讥讽意味） | She smirks and gives me a side-eyed look. “Well, you fucked up.” |
+| smirks | 咧嘴笑（此处带讥讽意味） | She smirks and gives me a side-eyed look. “Well, you fucked up.” |
 | side-eyed | 斜睨的，白眼的 | She smirks and gives me a side-eyed look. “Well, you fucked up.” |
 | stagger | 踉跄 | We both stagger out of the water and collapse onto the rocks. |
 | flailing | 乱挥，挥舞 | “Let me go!” she screams, twisting from my grasp, flailing out at me. “What are you doing?” |
