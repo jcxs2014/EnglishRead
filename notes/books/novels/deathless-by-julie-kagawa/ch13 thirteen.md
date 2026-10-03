@@ -64,7 +64,17 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请记住"线被剪断后要回去"这条规则：它决定了全书死亡观的底色，也解释了为什么第 6 章女王说真正死去的不死者"灵魂就丢了"。
 
-> **原句 6:** "“Meeka is me,” the rodent creature said, twitching very long white whiskers."
+> **原句 6:** "“We’ll figure it out,” he said. “If there is a way to put him to rest and release his soul back to Maederyss, we’ll find it.”"
+
+**中文理解：** "'我们会想出办法的，'他说。'如果有办法让他安息、把他的灵魂交还给 Maederyss，我们就去找。'"
+
+**关键词：** We’ll figure it out · put him to rest · release his soul back to Maederyss · we’ll find it
+
+**为什么这样写：** 全章对她最重要的一句话，因为它把"我无法放下 Vahn"从情绪转成了**待办事项**。作者让 Raithe 用一个条件句回应（If there is a way…we'll find it），既不否认她的关切，也不承认此事可行——于是她不必在他和那个怪物之间二选一。这也让两人第一次**共同承担**一件与任务无关的事，而全书此后的联盟正是在这类时刻建立的。
+
+**读者视角提示：** 请注意他没有说"we will do it"（我们会的），只说 we'll find it if it is possible（如果有可能，我们会找到）——他仍然守住了不轻易许诺的习惯，但她显然听懂了其中的诚意。
+
+> **原句 8:** "“Meeka is me,” the rodent creature said, twitching very long white whiskers."
 
 **中文理解：** "'Meeka 就是我，'那只啮齿动物说，长长的白须抖了抖。'"
 
