@@ -1,0 +1,14 @@
+=== b1: check_chapter_quotes 逐章 ===
+ch01 prologue.md: 10/10 in ch01 text
+ch02 the migration taboo.md: 10/10 in ch02 text
+ch03 why migration accelerates.md: 10/10 in ch03 text
+ch04 the social consequences.md: 10/10 in ch04 text
+ch05 the economic consequences host societies.md: 10/10 in ch05 text
+ch06 getting migration policy wrong.md: 10/10 in ch06 text
+ch07 migrants the winners from migration.md: 10/10 in ch07 text
+ch08 migrants the losers from migration.md: 10/10 in ch08 text
+ch09 the political consequences.md: 10/10 in ch09 text
+ch10 the economic consequences left behind.md: 10/10 in ch10 text
+ch11 left behind.md: 9/9 in ch11 text
+ch12 nations and nationalism.md: 10/10 in ch12 text
+ch13 making migration policies fit for purpose.md: 10/10 in ch13 text

@@ -1,0 +1,12 @@
+=== e步 百分比回源 ===
+-- 85% (ch11 证据链) ← text/ch10:
+lost around 85 percent of its educated people
+-- 9% 加泰罗尼亚 (ch12) ← text/ch12:
+transferring 9 percent of Catalan income
+-- 1% 欧盟再分配 (ch12) ← text/ch12:
+redistributes far less than 1 percent of
+-- 10/30/50 上限讨论 (ch13) ← text/ch13:
+be 10 percent, 30 percent, or 50 percent
+-- 40% Gallup (ch07/ch13) ← text/ch13:
+-- 摘要级：说话人窗口抽核（⑨ 原句8 泰国研究归因）
+I have found only two studies that deploy methods

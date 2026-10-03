@@ -58,7 +58,7 @@ modified: "2026-10-03"
 - **句子结构**：破折号插入的虚拟语气（if they did so...）先替理性人算了一笔账，再由主句夺回解释权。
 - **关键词**：`not calculating the odds`、`lured by an idea of how to live`
 - **表达方式**：计算与诱惑的对仗把两种行为机制（概率盘算/叙事模仿）压进一句；dismayed 的残忍在于诚实——算清了就不走了。
-- **为什么这样写**：这是全书方法论（凯恩斯式叙事）在人才问题上的应用：移民前景起作用的渠道不是期望值，而是榜样。这一句也为 ch02 的"identity 经济学"与 ch04 的"可下载人设"完成闭环。
+- **为什么这样写**：这是全书方法论（凯恩斯式叙事）在人才问题上的应用：移民前景起作用的渠道不是期望值，而是榜样。这一句也为 ch03 的"identity 经济学"与 ch04 的"可下载人设"完成闭环。
 
 > **原句 4:** "To take an extreme, Haiti, with a population of around 10 million, has lost around 85 percent of its educated people."
 

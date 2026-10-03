@@ -1,0 +1,24 @@
+=== d1: check_anchor ===
+  参照集：text/（15 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+=== d2: audit_numbers ===
+  ⚪ ch11 left behind.md:60  「 85%」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch12 nations and nationalism.md:23  「 9%」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch12 nations and nationalism.md:24  「 1%」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch13 making migration policies fit f:34  「10%」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch13 making migration policies fit f:34  「30%」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch13 making migration policies fit f:34  「 50%」年龄/百分比类，文本层推不出真值，只列出待人核
+=== d3: check_xref_indep（第二实现）===
+=== chNN 引用 123 处：英文证据报警 0 处 ／ 中文式待人判 62 处 ===
+=== d4: check_analysis_indep（第二实现）===
+      未命中词: ['gratitude']
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）6 条 —— 只报不判红，须人判：
+  ch01 prologue.md:9  First published in Great Britain by Allen Lane
+  ch01 prologue.md:11  The Questions and the Process
+  ch02 the migration taboo.md:11  The Questions and the Process
+  ch12 nations and nationalism.md:11  Rethinking Migration Policies
+  ch12 nations and nationalism.md:51  as particles and as waves
+  ch13 making migration policies fit for purpose.md:11  Rethinking Migration Policies
+=== d5: check_xref_zh ===
+=== 跨章引用：章号+短语/POV 命中 1 / 错 0 / POV 错 0 ===

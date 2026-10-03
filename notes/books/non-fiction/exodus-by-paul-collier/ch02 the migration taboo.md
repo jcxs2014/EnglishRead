@@ -70,7 +70,7 @@ modified: "2026-10-03"
 > **原句 5:** "But the inference that the decline in nationalism has caused the decline in violence gets causality wrong: the revulsion against violence has caused a decline in nationalism."
 
 - **中文理解**：但"民族主义衰落导致暴力衰落"这个推断把因果搞反了：是对暴力的反感导致了民族主义的衰落。
-- **句子结构**：gets causality wrong 之后的冒号引出纠正版命题；前后两个分句结构完全平行，只把 cause 的主语与宾语互换。
+- **句子结构**：gets causality wrong 之后的冒号引出纠正版命题；前后分句结构平行，原主语移作宾语、另立 the revulsion against violence 作新主语。
 - **关键词**：`gets causality wrong`、`the revulsion against violence`
 - **表达方式**：纠正因果的方式是把同一句话原样倒装，让读者直接看见两个变量如何被换了位置；不加缓冲词，语气干脆。
 - **为什么这样写**：作者在此示范本书的招牌动作——把流行叙事的因果箭头掉头。"弃认同换和平"的论据被抽掉之后，后文"国家认同可以保留"才立得住。

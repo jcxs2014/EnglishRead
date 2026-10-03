@@ -48,7 +48,7 @@ modified: "2026-10-03"
 - **中文理解**：一个合格的人类行为理论必须同时容纳我们天性的两个侧面，正如物理学的进步有赖于承认：在亚原子层面，物质既表现为粒子也表现为波。
 - **句子结构**：主干 incorporate both aspects 之后以 much as 引出科学史类比；both...and... 在句中两次出现，句法自己执行"并包"。
 - **关键词**：`incorporate both aspects`、`particles and waves`
-- **表达方式**：波粒二象性是大众科学里最著名的"两种都对"，拿来做本体论的调停最省力；as particles and as waves 的介词重复让并行感落到耳朵里。
+- **表达方式**：波粒二象性是大众科学里最著名的"两种都对"，拿来做本体论的调停最省力；both as particles and waves 的并列表述让两种本体论平起平坐。
 - **为什么这样写**：全章要为"国家"（集体单位）辩护，先得挡住"个人主义万能"的哲学预设。物理学比喻把这场辩论从政治光谱（左右）挪到认识论（对错），说服成本骤降。
 
 > **原句 3:** "In other words, modern nationalism is less like a mass infection of measles than a mass injection of oxytocin."
@@ -105,7 +105,7 @@ modified: "2026-10-03"
 - **句子结构**：Whereas 引导的对称从句只换了国名与评价词，边境两侧的差异被句法压成最小对照对。
 - **关键词**：`cooperation difficult`、`found it normal`
 - **表达方式**：difficult 与 normal 的落差全由位置承担——各自压在所在分句的末端；同源族群的前提使剩下的唯一变量浮出水面。
-- **为什么这样写**：这是"认同可以被领导人锻造"的天然实验：尼亚雷雷的国族建构对峙肯雅塔的族群动员。把它放进非洲章节，既回应 ch03 井水研究的伏笔，也把国家认同从欧洲话题升级为全球治理变量。
+- **为什么这样写**：这是"认同可以被领导人锻造"的天然实验：尼亚雷雷的国族建构对峙肯雅塔的族群动员。把它放进非洲章节，既回应 ch04 证据链中非洲信任研究的伏笔，也把国家认同从欧洲话题升级为全球治理变量。
 
 > **原句 10:** "Such evidence as we have is that continually increasing diversity could at some point put these critical achievements of modern societies at risk."
 

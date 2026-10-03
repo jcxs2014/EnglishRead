@@ -45,7 +45,7 @@ modified: "2026-10-03"
 > **原句 2:** "For any host society the first ten thousand Somali immigrants are likely to provide a pleasing gain in cultural variety and little else. But immigration that increases a culturally separate Somali diaspora from one million to two million would bring little additional gain in variety, while weakening mutual regard and giving significant weight to a bad social model."
 
 - **中文理解**：对任何东道国而言，头一万名索马里移民多半会带来文化多样性上的愉悦增益，仅此而已；但把一个文化上自我隔绝的索马里侨民社区从一百万扩大到两百万，几乎不会再增加什么多样性，却在削弱相互关怀，并让一套糟糕的社会模型获得可观权重。
-- **句子结构**：前句 the first...are likely to 立起点上的乐观；后句以 But 翻转，while 引导的三个并列分词（weakening / giving）把规模效应拆成两条成本。
+- **句子结构**：前句 the first...are likely to 立起点上的乐观；后句以 But 翻转，while 引导的两个并列分词（weakening / giving）把规模效应拆成两条成本。
 - **关键词**：`the first ten thousand`、`little additional gain in variety`、`a bad social model`
 - **表达方式**：同一群人、两个数量级，结论截然两分——思想实验的"剂量感"比任何统计都直观；pleasing 与 bad 一褒一贬压住首尾。
 - **为什么这样写**：倒 U 形需要一幅可携带的图。索马里例子把"适度有益、过量有害"翻译成数字对比，让后文的政策主张（防加速而非关门）有一个想得见的参照。

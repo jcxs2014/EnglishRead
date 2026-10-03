@@ -70,7 +70,7 @@ modified: "2026-10-03"
 > **原句 5:** "The bottom line is that the free lunch that comes from the windfall productivity gain as migrants move from dysfunctional to functional societies will continue to accrue to migrants. Migrants are the beneficiaries of migration."
 
 - **中文理解**：底线是：移民从功能失调社会迁往功能健全社会所带的这笔生产率横财——这份免费午餐——将继续归移民所有。移民就是移民的受益者。
-- **句子结构**：主语 the free lunch 带着三层定语（同位、来源、过程）压到句末才落到谓语；末句换用最短的判断句收拢全段。
+- **句子结构**：主语 the free lunch 带着两层嵌套修饰（关系从句及其内部的 as 状语从句）压到句末才落到谓语；末句换用最短的判断句收拢全段。
 - **关键词**：`The bottom line`、`continue to accrue to migrants`、`Migrants are the beneficiaries of migration`
 - **表达方式**：连续否决母国税与东道国税之后，用"底线"句式宣判默认结果；末句的同义反复（migrants...migration 的词根回旋）像盖了个钢印。
 - **为什么这样写**：这一节清理了"谁该得这笔钱"的所有规范方案，结论是：在既有伦理与政治约束下，谁也拿不走。这句为全书最关键的组权/个权辩论垫底——既然收益归移民，能谈的就只剩进入权的结构。

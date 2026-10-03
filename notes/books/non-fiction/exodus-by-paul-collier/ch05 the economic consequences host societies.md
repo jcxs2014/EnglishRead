@@ -38,7 +38,7 @@ modified: "2026-10-03"
 > **原句 1:** "In parody, this already oversimple analysis amounts to the assessment that the middle classes benefit from the archetypal immigrant staff such as cleaners and nannies, but that the working classes lose from competition with workers willing to accept lower pay and competition with immigrant families using social services."
 
 - **中文理解**：戏仿一下，这个已经过分简单的分析等于在说：中产阶级从"典型移民佣工"（清洁工、保姆）身上获益，而工人阶级则在两头受损——一边跟愿意接受更低工资的工人竞争，一边跟使用公共服务的移民家庭竞争。
-- **句子结构**：amounts to the assessment that... 引出两层对照：benefit from 与 lose from 各接一个 of 短语；两个 competition with 平行堆叠出"双重挤压"。
+- **句子结构**：amounts to the assessment that... 引出两层对照：benefit from 与 lose from 各接一个 from 介词短语；两个 competition with 平行堆叠出"双重挤压"。
 - **关键词**：`In parody`、`the middle classes benefit`、`the working classes lose`
 - **表达方式**：In parody 自我贴上"漫画化"标签再画漫画——作者先把对手（或教科书）推到极端，好让后面的实证修正显得必要。
 - **为什么这样写**：这是全章的靶子。第一性原理推不出"所有人都获益"，只能推出阶级间的再分配；作者把这句刺耳的漫画挂出来，是为了让英国工资研究的修正有靶可打。
@@ -97,7 +97,7 @@ modified: "2026-10-03"
 - **句子结构**：Yet 起头的让步反转；it is also meaningful to say 的措辞刻意中性——不判胜负，只并置两面。
 - **关键词**：`also meaningful`、`the “glittering prizes” of outstanding success`
 - **表达方式**：上一句刚承认"整个世代会更聪明"，这一句用 also meaningful 摆出镜像代价——两句话像天平的两端，裁决权交给读者。
-- **为什么这样写**：作者在示范如何谈论一个被禁忌污染的话题：不用"被抢"这类控诉词，而用会计式的"净得/净失"语言。这种克制正是第一章说的"诚实之书"的姿态，也是他反复强调的"原则上开放的问题"。
+- **为什么这样写**：作者在示范如何谈论一个被禁忌污染的话题：不用"被抢"这类控诉词，而用会计式的"净得/净失"语言。这种克制正是序章说的"诚实之书"的姿态，也是他反复强调的"原则上开放的问题"。
 
 > **原句 9:** "If they need skilled workers, why don’t they train them? Their portentous pronouncements are but pallid variants of the grandiloquent “What’s good for General Motors is good for the country.”"
 
