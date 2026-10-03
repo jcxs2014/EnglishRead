@@ -9,7 +9,7 @@ modified: "2026-10-03"
 
 - **一句话概括**：Quil 冲进指挥帐，用一连串反问把主张另立他人的 Pater Rufius 压到失势，随即调派 Jaduna 击落 Sails、命全营向东转移，又在 Tel Ilessi 的来信中决定随 Aunt Hel 赴约，章末在帐内撞见现出孩童形貌的 Div。
 - **情感弧线位置**：本章开启 Part IV: Falcon’s Rest，Quil 的位置从「被质问的男孩」转到「发号施令的人」，而这份稳是靠演出来的——他自己承认心里像有鳗鱼在爬。
-- **人物弧线**：Quil 从代理 Empress 出面到真的替她调度军队，并第一次承认 crushing the man like a cockroach 让他觉得 invigorating；Rufius 当场失援；Raani Sh’ban 说出「我们撑不了第二场」的实话；Aunt Hel 伤愈后坚持亲自赴约且不独自前往；Div 以无害的孩童形貌现身，只留下一句警告就走。
+- **人物弧线**：Quil 从代理 Empress 出面到真的替她调度军队，并第一次承认 crush the man like a cockroach 让他觉得 invigorating；Rufius 当场失援；Raani Sh’ban 说出「我们撑不了第二场」的实话；Aunt Hel 伤愈后坚持亲自赴约且不独自前往；Div 以无害的孩童形貌现身，只留下一句警告就走。
 - **叙事手法**：战地调度与政治话术交替推进，中间插进三处打断——递纸条的 runner、洞里那几小时的假装镇定、以及 Div 毫无预兆地现形；全章不写大规模战斗，只写战斗前后的行政与心理。
 
 ## 精读
@@ -30,7 +30,7 @@ modified: "2026-10-03"
 
 **关键词：** remained in the cave · exuding calm · his insides felt like they were made of eels
 
-**为什么这样写：** 一句话里并置两层相反的感受：对外是 exuding calm，对内是 made of eels。and even in the moments when 这个插入语把「镇定」降格成一种需要刻意维持的表演，而不是天性；used 意象也从人转到鱼——鳗鱼滑、缠、难抓，正好说明这份镇定随时会脱手。作者不去写他如何排遣恐惧，而是列出 he did whatever he could to fill the time 后面那一串小事，用行为证明镇定是被做出来的。
+**为什么这样写：** 一句话里并置两层相反的感受：对外是 exuding calm，对内是 made of eels。even in the moments when 这个插入语把「镇定」降格成一种需要刻意维持的表演，而不是天性；used 意象也从人转到鱼——鳗鱼滑、缠、难抓，正好说明这份镇定随时会脱手。作者不去写他如何排遣恐惧，而是列出 he did whatever he could to fill the time 后面那一串小事，用行为证明镇定是被做出来的。
 
 **读者视角提示：** 本章后面他见到 Raani Sh’ban、见到 Sufiyan、见到 Aunt Hel 时，语气一次比一次硬，都是这条「演出来」的线在延续。
 

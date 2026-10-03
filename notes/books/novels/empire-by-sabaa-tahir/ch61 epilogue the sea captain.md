@@ -40,7 +40,7 @@ modified: "2026-10-03"
 
 **关键词：** The truth was · wasn’t refined enough for the likes of · nor the little inn · a gem of a place
 
-**为什么这样写：** The truth was 是一句把话头拧过来的信号，可接下来的"实情"其实很不客气：说一群人配不上一块糕点。作者用一个否定结构把嫌弃说得很克制——不是船员粗鲁，是他们 not refined enough for the likes of；nor 又把嫌弃从糕点扩到客栈，而那家客栈偏偏被他赞成 a gem of a place。同位语嵌在句尾，不另起一句解释，让夸与贬挤在同一口气里。
+**为什么这样写：** The truth was 是一句把话头拧过来的信号，可接下来的"实情"其实很不客气：说一群人配不上一块糕点。作者用一个否定结构把嫌弃说得很克制——不是船员粗鲁，是他们 wasn’t refined enough for the likes of；nor 又把嫌弃从糕点扩到客栈，而那家客栈偏偏被他赞成 a gem of a place。同位语嵌在句尾，不另起一句解释，让夸与贬挤在同一口气里。
 
 **读者视角提示：** 这里给 captain 定了位：他是个靠品味给人排序的人。同一段后半句又说，他反倒觉得那位 stern-faced, dagger-eyed woman 无穷迷人——被嫌弃的一方成了让他着迷的一方。
 

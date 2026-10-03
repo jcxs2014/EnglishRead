@@ -1,0 +1,50 @@
+════ d 步·机械子项（第二实现为主，2026-10-03 16:18 UTC）
+########## 1) check_analysis_indep.py（分析层行内英文·第二实现）##########
+抽出分析层英文片段 1473 条
+❌ 未命中 1 条：
+  ch44 chapter 43 quil.md:12  crushing the man like a cockroach
+      未命中词: ['crushing']
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）4 条 —— 只报不判红，须人判：
+  ch35 chapter 34 cero.md:33  those bits of scripture
+  ch38 chapter 37 karinna.md:31  Combine an emotion with
+  ch44 chapter 43 quil.md:33  and even in the moments when
+  ch61 epilogue the sea captain.md:43  not refined enough for the likes of
+EXIT=0
+
+########## 2) check_xref_indep.py（跨章引用·第二实现）##########
+  ❌ 00_金句精选.md:99 → ch60：证据 ['Those pointed edges?'] 在该章查无
+        句：- **呼应**：ch60 那句"Those pointed edges?"说的是同一件东西留在心里的形状。
+=== chNN 引用 245 处：英文证据报警 1 处 ／ 中文式待人判 230 处 ===
+EXIT=0
+
+########## 3) check_xref_zh.py（中文式跨章引用——check_crossref 完全不覆盖的口径）##########
+=== 跨章引用：章号+短语/POV 命中 2 / 错 0 / POV 错 0 ===
+EXIT=0
+
+########## 4) check_anchor.py（关键词锚定）##########
+=== 关键词锚定自查（empire-by-sabaa-tahir）===
+  扫 64 个 md，479 个引语块，479 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（61 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+########## 5) audit_numbers.py（计数断言）##########
+  ⚪ ch24 chapter 23 quil.md:25  「十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch29 chapter 28 sirsha.md:10  「十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch29 chapter 28 sirsha.md:13  「十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch29 chapter 28 sirsha.md:63  「十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch31 chapter 30 aiz.md:29  「十二三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch35 chapter 34 cero.md:29  「五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch35 chapter 34 cero.md:33  「五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch35 chapter 34 cero.md:43  「八岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch44 chapter 43 quil.md:69  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch48 chapter 47 sirsha.md:29  「六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch61 epilogue the sea captain.md:59  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch61 epilogue the sea captain.md:98  「十六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+
+########## 6) sweep_full.py（终验标准件：整串 flat）##########
+=== 引语整串 flat 比对（empire-by-sabaa-tahir）===
+  参照集：text/ 逐章（61 章，可定章） + epub 交叉验证
+  ✅ 本章命中 479 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）

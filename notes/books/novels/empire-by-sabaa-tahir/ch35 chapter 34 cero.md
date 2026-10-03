@@ -30,7 +30,7 @@ modified: "2026-10-03"
 
 **关键词：** preferred exploring over lies · wandering the tunnels beneath · his imagination filling in the empty spots
 
-**为什么这样写：** 第一个比较结构把两种活动放在同一把尺子上量，比较项不是"好玩"而是"真假"，于是 Cero 的选择从一开始就是价值判断而非口味。地道里的画面需要 his imagination filling in the empty spots 才成立，作者顺手交代了"看"这件事本身可以由想象补全；紧接着 those bits of scripture…that didn’t appear in the Nine Sacred Tales 又让这个五岁孩子成了全场唯一注意到教义被删节的人。
+**为什么这样写：** 第一个比较结构把两种活动放在同一把尺子上量，比较项不是"好玩"而是"真假"，于是 Cero 的选择从一开始就是价值判断而非口味。地道里的画面需要 his imagination filling in the empty spots 才成立，作者顺手交代了"看"这件事本身可以由想象补全；紧接着 the bits of scripture…that didn’t appear in the Nine Sacred Tales 又让这个五岁孩子成了全场唯一注意到教义被删节的人。
 
 **读者视角提示：** 探索与寻找在这里是同一件事，读者可以据此预判：他要找的东西一定长在被删掉的那部分里，而正因如此，那段幻象的话才会落到他身上。
 

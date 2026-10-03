@@ -28,7 +28,7 @@ modified: "2026-10-03"
 
 **中文理解：** "Karinna 明白魔法最基本的基础，尽管她未必是被人教会的。把一种情绪（比如欲望）和与生俱来的天赋结合起来，再辅以练习和意志力的运用，魔力就会流动起来。"
 
-**关键词：** the basic underpinnings of magic · Combine an emotion with · an application of willpower · the magic would flow
+**关键词：** the basic underpinnings of magic · Combine an emotion like desire with · an application of willpower · the magic would flow
 
 **为什么这样写：** 一句陈述、一句配方，作者用 though she hadn’t necessarily been taught 把自学成才这件事说得极轻，却顺带交付了这个世界魔法的运作公式。配方句本身是三个并列条件（Combine / with practice / an application of willpower），末端 the magic would flow 用虚拟语气把结果说成自然会发生的事，好像魔力是水而不是技术。这一段紧挨着 Cero 昏睡的描写，紧接着的下一段就拿这副公式去量 Cero 的意志力，中间那道桥正是本章真正的转折。
 
