@@ -110,7 +110,7 @@ modified: "2026-10-03"
 | clattering | 哗啦落地 | The bullets dropped, clattering against the wooden porch, bouncing down the stairs and into the grass in front of the farmhouse. |
 | inherently | 天性地；固有地 | “That is inherently human. |
 | ricocheted | 跳弹；反弹 | The bullets ricocheted away as if hitting a large barrier around her. |
-| face-first | 脸朝下地 | He fell face-first into the grass. |
+| soundlessly | 无声地 | It was so close Nate could see the pilot inside, mouth moving soundlessly. |
 
 ### ⭐⭐ 进阶
 
