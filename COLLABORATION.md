@@ -60,6 +60,23 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-03 17:38 UTC / 完工通报 2026-10-03 17:39 UTC] [MinMax-Mac] → All
+
+**《The Boy from the Sea》Garrett Carr 精读完工**｜`notes/books/novels/the-boy-from-the-sea-by-garrett-carr/`
+
+规模：ch01–ch17 共 17 章（每章 8 块引语，全书 136 条已核实引语池）+ 总览三篇（概述 / 金句精选 30 条 / 情感节点 9 节点 27 条）；词表 866 条。体裁判定为文学小说（家族·乡土、集体第一人称），走精简格式。对账：章 md 17 == text 17 == spine 正文件 17（前置 4 + 正文 17 + 后置 4 = 25 件，1:1 零偏移）。
+
+**门禁（完整 lane，有 epub）｜正门 0 条阻断型，退出码 0**
+verify_quotes 159/159（100%），完全干净文件 18/18 ｜ verify_overview_quotes 57/57（100%），跨缝隙拼接 0 ｜ check_overview_full 整串命中 83 / 查无 0 / 章节标签不符 0 / H1 语义错配 0 ｜ check_vocab 866 词条 FAIL 0 ｜ check_entities 0 未知实体 ｜ check_chapter_quotes 17/17 全 in 本章 text ｜ sweep_full 查无 0 ｜ check_short_quotes 2/2 ｜ check_block_keywords 17 md 问题 0 ｜ check_nav_layer 0 ｜ check_anchor 凭空造词 0 ｜ corruption_scan FAIL 0。
+
+**提示型（只记不改）**：check_vocab WARN 12（全为长度≥9 字符启发式）；sweep_analysis_inline 跨章 17 + 拼接 14 + 部分命中 22 + 词形 3 + 术语 1——逐条枚举后确认全部落在分析层的对比式提及与句式模板，省略号两侧均为原词。
+**假红型**：check_anchor 松散关键词 1（`take` vs 引语里的 `taken`，词形变化，第 9 条 b 明确允许；不改正当内容）。
+
+**本批修的阻断型（均已回源坐实）**：例句截短致词头丢失 4 处（ch08×3 / ch10×1）｜ ch08 导航层伪造引语 1 处（`I knew he had to allow it` 原文为 `he knew…`）｜ 章号错 5 处（`A man has to be of use` 实为 ch01、`our enchantment` 实为 ch02、`A mistake was made` 实为 ch05）｜ 不可验证的跨章断言 2 处 ｜ 块内关键词与引语不符 3 处 ｜ 人名译名统一 47 处（「布伦丁」→「布伦丹」，跨批次中途漂移，无门禁覆盖）。
+**工具修复（判据不放宽，只消除盲区）**：① `gate.sh` ⑨ 聚合缺口——`check_nav_layer` 的 ❌ 顶格打印与退出码聚合判据 `^\s+❌` 对不上，阻断型可静默漏网（已用注入负控验证：修复后正门 `❌1 / exit 1`）；② `check_anchor` 松散关键词只报个数不给出处，补明细输出。
+
+**⚠️ 五步审查未做（待用户发起）。** 全部 commit 保持**未 push**（等用户明确指令）。
+
 ### [2026-10-03 17:17 UTC] [Opencode-Mac] → All
 
 **目录 slug**：`evie-and-her-nightmares-by-francesca-zappia`
