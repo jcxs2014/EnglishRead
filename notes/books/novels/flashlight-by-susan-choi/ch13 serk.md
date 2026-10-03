@@ -37,7 +37,7 @@ modified: "2026-10-03"
 
 **读者视角提示**：他会先试图回答再失声：`his throat gagged`、`He found a silvery eye staring at him`。那个银色的「眼」到后面才被交代成 `the round end of some cold hard object`——而要求他读这只 `flashlight` 的人，是把他抓来的第一个人。这条物件在本章里登场时，就是压在他眉心的一个审问装置。
 
-> **原句 3:** That could have been avoided if you had not attacked. This operation was carried out very poorly, and there were many mistakes, and the persons who made those mistakes have been relieved of their duties, but even so, you would not have been attacked if you had not attacked first. … The object of the operation was to take you unharmed, but you made that very difficult. … You were really a savage with this.”
+> **原句 3:** That could have been avoided if you had not attacked. This operation was carried out very poorly, and there were many mistakes, and the persons who made those mistakes have been relieved of their duties, but even so, you would not have been attacked if you had not attacked first. … The object of the operation was to take you unharmed, but you made that very difficult. … You were really a savage with this.
 
 对方先说他被打掉几颗牙这件事本可避免——只要他没有先动手；接着又说，就算前面那些执行失误已被撤职查办，他若不先动手也不会被打；最后点明行动的目标本是完好地把他带走，并结案为：他是个野蛮人。整套说辞的落点是循环：他的反抗既是原因，也是结果。
 
@@ -47,7 +47,7 @@ modified: "2026-10-03"
 
 **读者视角提示**：同一段里他说自己被打掉了牙（`you lost several teeth`），而后面审问还在继续：同一个问题再问一遍，这次追的是他骂人用的韩语口音和衣服上的 `English letters`。施暴者与审问者是同一套流程，而「你先是动手的那一方」这个判断，会一直跟着他进后面的课堂。
 
-> **原句 4:** But the difficulty is your incomplete reeducation. Your indoctrination by the Japanese and American imperialists is bone-deep. … How can we risk your daughter’s flawless consciousness? It was so much easier with her: She is after all so bright, and so young. Despite her American birth, her mind is so pure. And she’s more and more worried about you—she has told us you’re stubborn and proud.”
+> **原句 4:** But the difficulty is your incomplete reeducation. Your indoctrination by the Japanese and American imperialists is bone-deep. … How can we risk your daughter’s flawless consciousness? It was so much easier with her: She is after all so bright, and so young. Despite her American birth, her mind is so pure. And she’s more and more worried about you—she has told us you’re stubborn and proud.
 
 对方给出一个技术性理由：他的改造不彻底，日本与美国的灌输已入骨，所以在让父女见面之前必须先确认他；真正被讨论的却是女儿——她的意识被称为「无瑕的」，她被说成更明亮、更年幼、更纯粹，连美国出生都不构成障碍。结论落在他自己的报告上：她说他顽固而骄傲。
 
@@ -87,7 +87,7 @@ modified: "2026-10-03"
 
 **读者视角提示**：这次开口的代价在下一段显形：`After months of self-restraint, he’d leaped forward—precipitately`，他随即自己害怕——怕是误读了信号、说得太多，烫到手指的烟头正是他心乱的物证。对方捡走烟头、掐灭、把烟蒂放在一张笔记纸上，这一串动作之后，两人才谈成`a moment of explicit alliance`。
 
-> **原句 8:** Your daughter is not in this country. Those who have said otherwise have been lying to you. Please understand they did so with the purest of motives. In their sincere hope of redeeming your consciousness, your earliest handlers spun a fairy tale of your daughter for you. … in your small craft, very far from Japan’s territorial waters and very close to our shore, your intention was to infiltrate our country, … to spy for your adopted country of the US. … I still believe you capable of service to my Great Leader and Nation.”
+> **原句 8:** Your daughter is not in this country. Those who have said otherwise have been lying to you. Please understand they did so with the purest of motives. In their sincere hope of redeeming your consciousness, your earliest handlers spun a fairy tale of your daughter for you. … in your small craft, very far from Japan’s territorial waters and very close to our shore, your intention was to infiltrate our country, … to spy for your adopted country of the US. … I still believe you capable of service to my Great Leader and Nation.
 
 对方把整套叙述翻了过来：女儿不在这个国家，此前说她在的人一直在骗他；那些人出于最纯粹的动机编了这个童话，又错在让他相信本国的行动者会袭击甚至绑架一个孩子。随后给出一个让被审者自己认下来的结论：他被发现在离日本领海很远、离对方海岸很近的小船上，意图是渗透来 spying；他是顽固的帝国主义者—资本家；而这一切的时间投入没有白费，因为他仍被认为可以为「大领袖与祖国」效力。
 
