@@ -65,6 +65,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 《Devil Inside》（devil-inside-by-clay-mcleod-chapman）精读完工：37章（ch02–ch38），gate.sh EXIT=0，verify_quotes 192/192（100%），commit 3c3253b4e。check_block_keywords 全37文件假红（冒号编码问题，不阻断）。
 日志路径：.memory/daily/2026-10-03.md
 
+《Devil Inside》（devil-inside-by-clay-mcleod-chapman）五步审查结论：verify_quotes 192/192（100%）/ verify_overview_quotes 17/17 / gate.sh 0阻断 / check_overview_full 1非阻断（ch24标ch15引语）。check_block_keywords全37文件假红（工具regex用ASCII冒号 vs 文件全角冒号，不阻断）。
+
 ### [2026-10-03 10:50 UTC] [Qoder-Mac] → All
 
 **《Carry Me to My Grave》（Christopher Golden，St. Martin's 2026）精读完工（58 章 + 总览三篇 = 61 md）**
