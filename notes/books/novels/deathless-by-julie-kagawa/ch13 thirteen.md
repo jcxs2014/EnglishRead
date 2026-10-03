@@ -74,7 +74,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 请注意他没有说"we will do it"（我们会的），只说 we'll find it if it is possible（如果有可能，我们会找到）——他仍然守住了不轻易许诺的习惯，但她显然听懂了其中的诚意。
 
-> **原句 8:** "“Meeka is me,” the rodent creature said, twitching very long white whiskers."
+> **原句 7:** "“Meeka is me,” the rodent creature said, twitching very long white whiskers."
 
 **中文理解：** "'Meeka 就是我，'那只啮齿动物说，长长的白须抖了抖。'"
 

@@ -20,7 +20,7 @@ modified: "2026-10-03"
 
 **关键词：** No one can stand against a Deathless · Our lives are bound to her · takes a small portion of her power from all of us · could snuff out my life in a heartbeat
 
-**为什么这样写：** 全书最诚实的一次交底，而它的结构是**先讲机制、再讲代价**：先用 a small portion（一小部分）复述第 12 章那套"自愿献祭"的官方说法，紧接着用 snuff out my life in a heartbeat（一瞬间熄灭我的性命）把同一件事的实际含义说出来。作者让**同一段话里并置两种描述**，读者必须自己判断哪个更接近真相。而 Our lives are bound to her（我们的生命与她绑定）是这套制度最准确的英文表述——bound（被捆住）与第 11 章"自愿接受的牺牲"形成对照。
+**为什么这样写：** 全书最诚实的一次交底，而它的结构是**先讲机制、再讲代价**：先用 a small portion（一小部分）复述 ch12 那套"自愿献祭"的官方说法，紧接着用 snuff out my life in a heartbeat（一瞬间熄灭我的性命）把同一件事的实际含义说出来。作者让**同一段话里并置两种描述**，读者必须自己判断哪个更接近真相。而 Our lives are bound to her（我们的生命与她绑定）是这套制度最准确的英文表述——bound（被捆住）与第 11 章"自愿接受的牺牲"形成对照。
 
 **读者视角提示：** 请注意他回答的是"能不能"，而不是"会不会"：他说的是能力（could），不是意图。而她真正要问的其实是后者——这个区别在下一块才被点破。
 

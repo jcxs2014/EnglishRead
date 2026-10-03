@@ -32,7 +32,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全书最痛的一句，而它的力量在于**把责任推回给她**：不是"我做了什么"，而是"你为什么不做那个更简单的选择"。而 home（回家）这个词在他嘴里只有一个意思——**回到他身边，回到那一年他有权决定她是谁的时候**。作者让一个已在崩溃边缘的亡魂说出这句话，于是读者听见的是：一个父亲在问女儿为什么不听话，而她听得见的是另一个女人在说"你终于还是不肯听"。
 
-**读者视角提示：** 请把这句与第 16 章他说 "It will destroy you in the end"（信任会毁了你）对照：他两次都在说自己早就知道答案，而两次他都错了——**他的悲剧不是判断错，是他不接受"无法控制"这个事实。**
+**读者视角提示：** 请把这句与 ch01 梦里他说 "It will destroy you in the end"（信任会毁了你）对照：他两次都在说自己早就知道答案，而两次他都错了——**他的悲剧不是判断错，是他不接受"无法控制"这个事实。**
 
 > **原句 3:** "“And what of those left behind?” I asked shakily, Meeka’s heartbeat still racing under my fingertips. I felt Raithe’s steady presence beside me and shook my head. “What about everyone who has to deal with the Deathless King that you unleashed? What about all the other threads that are in danger when the Deathless King decides that he is going to become the new god of Fate? No one will be safe then, Vahn. Not even those that have yet to be woven into the Tapestry.”"
 
@@ -70,7 +70,7 @@ modified: "2026-10-03"
 
 **关键词：** Goodbye（她选的不是永别）· opened my fingers（放手的动作）· releasing the thread into the sky（把线还给织锦）
 
-**为什么这样写：** 全书最重要的一次**放手动作**，而作者让它写成她**张开手指**而不是扯断——因为解构是她的本能，而释放是她的选择。而 She released it into the sky（放向天空）把动作的方向写清：不是扔掉，是**归还**。她的祝福用了整套宇宙观的说法（Fate smile on you，愿命运微笑），因为那是她此刻唯一能给的、属于这个世界的语言。而后一句"而你的下一世会幸福"则把她的意愿伸向她无法控制的部分——这是全书她第一次**祝福一个自己不打算再见的人**。
+**为什么这样写：** 全书最重要的一次**放手动作**，而作者让它写成她**张开手指**而不是扯断——因为解构是她的本能，而释放是她的选择。而 releasing the thread into the sky（把线放向天空）把动作的方向写清：不是扔掉，是**归还**。她的祝福用了整套宇宙观的说法（Fate smile on you，愿命运微笑），因为那是她此刻唯一能给的、属于这个世界的语言。而后一句"而你的下一世会幸福"则把她的意愿伸向她无法控制的部分——这是全书她第一次**祝福一个自己不打算再见的人**。
 
 **读者视角提示：** 请注意她没有说"原谅我"，也没有说"我原谅你"——**她的告别里没有判决词**，只有祝福。全书对"告别是否可以不带结论"这个问题，在此给出了一个答案。
 

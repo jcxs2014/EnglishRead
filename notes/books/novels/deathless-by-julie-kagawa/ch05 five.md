@@ -92,7 +92,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章用一个单词结束，而这个词本身是本章最大的赌注。前一段她的独白已经把利害数清：她只有机智、运气和一点说不清的生存本能（nothing, just my wits, my luck, and the uncanny ability to survive），而对手能徒手推倒城市。所以这个 Yes 不是回答一个问题，而是**承认自己毫无胜算仍然答应**——作者让她在最大的恐惧之后，只用一个音节跨过去，全章的力量集中在这一个词的落差上。
 
-**读者视角提示：** 请把这个 Yes 与 ch01 结尾那句 would have to meet the queen（我大概只能去见那位女王）对照：那时是"不得不"，此时是"愿意"——两章之间她所做的全部改变，就在这一次主动应答里。
+**读者视角提示：** 请把这个 Yes 与 ch01 结尾那句 supposed I would have to meet Raithe’s queen to discover if I was expected to do anything at all（我大概只能去见他的女王，才知道自己是否被指望做点什么）对照：那时是"不得不"，此时是"愿意"——两章之间她所做的全部改变，就在这一次主动应答里。
 
 ## 本章词汇
 

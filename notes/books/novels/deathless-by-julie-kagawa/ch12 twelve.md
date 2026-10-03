@@ -52,7 +52,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全书对"用寿命换什么"最冰冷的一次换算，而作者让数字自己说话：几百减几。作者不给评价，只给比例——而比例正是这套论证最有效的形式：**把死亡折算成零头**。而他说这句话时，正在回答她"献出生命是否痛"，答案是 No（不痛）——不痛、只要几天虚弱、只折寿几年，于是代价在语法上被降到最小。这是女王那套契约的完整逻辑，也是它最危险的地方。
 
-**读者视角提示：** 请把这里的"few years"（几年）与第 3 章女王说的 the small portion of that life（那一小部分生命）并读：**两处都把抽取引写成微不足道**，而她那三位同伴当天就是这样被说服的。
+**读者视角提示：** 请把这里的"few years"（几年）与 ch03 女王说的 a small portion of that life into myself（把那一小部分生命吸进我自己）并读：**两处都把抽取引写成微不足道**，而她那三位同伴当天就是这样被说服的。
 
 > **原句 5:** "“I promise,” he murmured, making my throat close and my heart turn over in my chest. A tiny, rueful smile tugged at one corner of his mouth as he continued to gaze at me, fingers sliding through my hair. “It’s strange—this is the first time my mission is to keep someone alive rather than kill them. I’ve never wanted anything for myself, but with you . . .” His thumb brushed my jaw, sending a shiver through my whole body. “I will gladly try to stay alive, if it means you’ll be there at the end.”"
 

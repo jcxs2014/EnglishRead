@@ -30,7 +30,7 @@ modified: "2026-10-03"
 
 **关键词：** My life is not important · my only duty · make sure your mission is successful · we will fight as hard as we can before we fall
 
-**为什么这样写：** 全书最冷的一句自我定位，而它紧接在他让她先走之后——**命令与理由必须同时说**，否则他会变成不称职的保镖。他把生命降级为任务的可弃部分，而 my only duty 与第 6 章女王那句 my only duty 前后呼应：她以同样的话拒绝接受这个前提。作者在这里让制度的声音经由他的嘴说出，好让她有机会**反驳制度**。
+**为什么这样写：** 全书最冷的一句自我定位，而它紧接在他让她先走之后——**命令与理由必须同时说**，否则他会变成不称职的保镖。他把生命降级为任务的可弃部分，而 my only duty 与 ch06 女王那句 do not mistake duty for compassion（别把职责误当成怜悯）前后呼应：她以同样的话拒绝接受这个前提。作者在这里让制度的声音经由他的嘴说出，好让她有机会**反驳制度**。
 
 **读者视角提示：** 这是女王那句"任务必须排在一切之上"的现场版；她此前一直遵守它，这一次她第一次说出"不"。而更要紧的是 we will fight as hard as we can before we fall（我们会拼尽全力直到倒下）与 I am truly sorry for Ratuk（我真的抱歉，为了 Ratuk）——他把自己的死与那只甲虫的死并列为**已经接受的两笔代价**，而她拒绝接受的第一笔就是这个。
 

@@ -22,7 +22,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全书最省力也最有效的一次**定义拒绝**，而作者用同名复述（are Rememberers）把解释权退回给对方——这个族群连自我定义都是循环的，因为它靠**背诵**存在。而后两句形成完整公式：记得者＝记得（集体记忆所遗忘者），于是"他们记得什么"这个问题立刻变成"我们平时忘了什么"，读者被迫意识到自己的遗忘。而 Meeka 语气里的"as if that were obvious"（仿佛这本就不必说）也说明：**在他们内部，这是不需要解释的常识**。
 
-**读者视角提示：** 请记住这个命名方式与第 6 章女王的"I am Sahmessyia"作对比——一个靠宣告命名自己，一个靠重复命名自己。全书对"权威如何建立"的两种示范都在这里。
+**读者视角提示：** 请记住这个命名方式与 ch03 女王的"I am Sahmessyia"作对比——一个靠宣告命名自己，一个靠重复命名自己。全书对"权威如何建立"的两种示范都在这里。
 
 > **原句 2:** "“Magic.” Meeka slipped the glowing insect back in its satchel, plunging the tunnel into shadows again. “Magic uses life—that is what creator king told past jair’oa. Creator king took life from human creatures, jair’oa take life from star grub. Use star grub to blink ourselves to surface and back. Creator king disappeared, many cycles ago, but jair’oa stayed. We remember.”"
 
