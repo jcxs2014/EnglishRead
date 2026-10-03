@@ -99,9 +99,6 @@ source_text: ch17a_the_infant.txt
 
 ## 本章词汇
 
-### ⭐⭐⭐ 高级
-
-
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |

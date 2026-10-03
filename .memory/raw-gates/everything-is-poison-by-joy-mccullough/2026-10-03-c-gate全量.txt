@@ -1,0 +1,187 @@
+gate.sh 中途中止（set -u 未定义变量等），以上为中止前的输出。
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 370/370 引文可核实（100%）；完全干净文件 67/67；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 1069
+--- FAIL (0) ---
+--- WARN (41) ---
+
+=== ③ check_entities（梗概实体一致性）===
+  ❌ ch25 giulia remembers saving the novitiate.md: Catholic Memorare
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 322 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 75 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 carmela slips inside the apothecary.md    ch01 carmela slips inside the apothecary.md: 8/8 in ch01 text
+ch02 violetta calls her mother a witch.md      ch02 violetta calls her mother a witch.md: 7/7 in ch02 text
+ch02a the witch.md                             ch02a the witch.md: 30/30 in ch02 text（另有 30 条短引语未校验）
+ch03 carmela starts as an apprentice.md        ch03 carmela starts as an apprentice.md: 8/8 in ch03 text
+ch03a the wife.md                              ch03a the wife.md: 21/21 in ch03 text（另有 22 条短引语未校验）
+ch04 carmela walks violetta home.md            ch04 carmela walks violetta home.md: 6/6 in ch04 text
+ch04a the widower.md                           ch04a the widower.md: 19/19 in ch04 text（另有 9 条短引语未校验）
+ch05 carmela must trust her mother.md          ch05 carmela must trust her mother.md: 8/8 in ch05 text
+ch05a the laboring mother.md                   ch05a the laboring mother.md: 26/26 in ch05 text（另有 16 条短引语未校验）
+ch06 giulia explains who the shop protects.md  ch06 giulia explains who the shop protects.md: 6/6 in ch06 text
+ch07 not for the likes of you.md               ch07 not for the likes of you.md: 6/6 in ch07 text
+ch08 the smallest amount will kill.md          ch08 the smallest amount will kill.md: 6/6 in ch08 text
+ch08a the tavern mistress.md                   ch08a the tavern mistress.md: 9/9 in ch08 text（另有 16 条短引语未校验）
+ch09 the lady of death leaflet.md              ch09 the lady of death leaflet.md: 6/6 in ch09 text
+ch09a the millers daughter.md                  ch09a the millers daughter.md: 10/10 in ch09 text（另有 13 条短引语未校验）
+ch10 everything is poison.md                   ch10 everything is poison.md: 9/9 in ch10 text
+ch11 the third possibility.md                  ch11 the third possibility.md: 7/7 in ch11 text
+ch11a another wife.md                          ch11a another wife.md: 23/23 in ch11 text（另有 17 条短引语未校验）
+ch12 everything is poison love.md              ch12 everything is poison love.md: 7/7 in ch12 text
+ch13 carmela hides the arsenic.md              ch13 carmela hides the arsenic.md: 10/10 in ch13 text（另有 1 条短引语未校验）
+ch13a the cat.md                               ch13a the cat.md: 23/23 in ch13 text（另有 12 条短引语未校验）
+ch14 horror in the walls.md                    ch14 horror in the walls.md: 7/7 in ch14 text
+ch14a the traveler.md                          ch14a the traveler.md: 17/17 in ch14 text（另有 14 条短引语未校验）
+ch15 washing the stains out.md                 ch15 washing the stains out.md: 9/9 in ch15 text
+ch15a the groom.md                             ch15a the groom.md: 12/12 in ch15 text（另有 20 条短引语未校验）
+ch16 carmela hides signora moretti.md          ch16 carmela hides signora moretti.md: 6/6 in ch16 text
+ch16a the women.md                             ch16a the women.md: 1/1 in ch16 text（另有 11 条短引语未校验）
+ch17 carmela helps deliver twins.md            ch17 carmela helps deliver twins.md: 6/6 in ch17 text
+ch17a the infant.md                            ch17a the infant.md: 11/11 in ch17 text（另有 22 条短引语未校验）
+ch18 carmela starts a fire from scratch.md     ch18 carmela starts a fire from scratch.md: 7/7 in ch18 text
+ch18a the women part 2.md                      ch18a the women part 2.md: 29/29 in ch18 text（另有 14 条短引语未校验）
+ch19 carmela confesses before father piero.md  ch19 carmela confesses before father piero.md: 6/6 in ch19 text（另有 1 条短引语未校验）
+ch19a the priest.md                            ch19a the priest.md: 11/11 in ch19 text（另有 27 条短引语未校验）
+ch20 giulia claims the suspicion for herself.md ch20 giulia claims the suspicion for herself.md: 6/6 in ch20 text
+ch20a the loiterer.md                          ch20a the loiterer.md: 31/31 in ch20 text（另有 17 条短引语未校验）
+ch21 laura comes home covered in refuse.md     ch21 laura comes home covered in refuse.md: 6/6 in ch21 text
+ch21a the cobbler.md                           ch21a the cobbler.md: 26/26 in ch21 text（另有 9 条短引语未校验）
+ch22 laura shows up barefoot.md                ch22 laura shows up barefoot.md: 7/7 in ch22 text
+ch22a the novitiate.md                         ch22a the novitiate.md: 22/22 in ch22 text（另有 11 条短引语未校验）
+ch23 giulia leaves the shop forever.md         ch23 giulia leaves the shop forever.md: 11/11 in ch23 text
+ch23a the women part 3.md                      ch23a the women part 3.md: 11/11 in ch23 text（另有 35 条短引语未校验）
+ch24 carmela cannot muster the will.md         ch24 carmela cannot muster the will.md: 9/9 in ch24 text
+ch25 giulia remembers saving the novitiate.md  ch25 giulia remembers saving the novitiate.md: 9/9 in ch25 text
+ch26 carmela confronts maria.md                ch26 carmela confronts maria.md: 9/9 in ch26 text
+ch26a the brokenhearted.md                     ch26a the brokenhearted.md: 32/32 in ch26 text（另有 24 条短引语未校验）
+ch27 tonight is for saving a life.md           ch27 tonight is for saving a life.md: 6/6 in ch27 text
+ch27a the mother.md                            ch27a the mother.md: 27/27 in ch27 text（另有 16 条短引语未校验）
+ch28 carmela is not la tofana.md               ch28 carmela is not la tofana.md: 6/6 in ch28 text
+ch29 violetta saves carmela at the docks.md    ch29 violetta saves carmela at the docks.md: 6/6 in ch29 text
+ch29a the sailor.md                            ch29a the sailor.md: 17/17 in ch29 text（另有 14 条短引语未校验）
+ch30 carmela makes violetta laugh.md           ch30 carmela makes violetta laugh.md: 8/8 in ch30 text
+ch30a the laughing girl.md                     ch30a the laughing girl.md: 16/16 in ch30 text（另有 29 条短引语未校验）
+ch31 carmela lets violetta in.md               ch31 carmela lets violetta in.md: 15/15 in ch31 text（另有 1 条短引语未校验）
+ch32 violetta grinds lemon balm.md             ch32 violetta grinds lemon balm.md: 6/6 in ch32 text
+ch32a the friends.md                           ch32a the friends.md: 31/31 in ch32 text（另有 17 条短引语未校验）
+ch33 it makes you magic too.md                 ch33 it makes you magic too.md: 8/8 in ch33 text
+ch34 giulia makes herself useful.md            ch34 giulia makes herself useful.md: 10/10 in ch34 text
+ch35 violetta learns the love potion recipe.md ch35 violetta learns the love potion recipe.md: 6/6 in ch35 text
+ch35a the husband.md                           ch35a the husband.md: 11/11 in ch35 text（另有 14 条短引语未校验）
+ch36 violetta sells the notary a remedy.md     ch36 violetta sells the notary a remedy.md: 6/6 in ch36 text
+ch37 carla brings the violence inside.md       ch37 carla brings the violence inside.md: 6/6 in ch37 text
+ch37a the witness.md                           ch37a the witness.md: 11/11 in ch37 text（另有 14 条短引语未校验）
+ch38 your mother is well.md                    ch38 your mother is well.md: 6/6 in ch38 text
+ch39 maria mistakes carmela for giulia.md      ch39 maria mistakes carmela for giulia.md: 12/12 in ch39 text（另有 4 条短引语未校验）
+ch40 carmela brings maria to the convent.md    ch40 carmela brings maria to the convent.md: 6/6 in ch40 text
+ch41 there is a child.md                       ch41 there is a child.md: 18/18 in ch41 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：66 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  ❌ ch25 giulia remembers saving the novitiate.md: 「as one of her own」本章查无（全书亦无）
+  
+  === 导航/总结层英文核对：❌ 1 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（everything-is-poison-by-joy-mccullough）===
+  ✅ 逐字 1114 ｜ ⚠️ 跨章 175 ｜ 🔶 拼接 872 ｜ 🟠 部分命中 8 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1533
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 776 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 松散关键词明细 ──
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+❌ ch11a another wife.md: 词表档位「⭐ 基础」只有表头没有词条
+❌ ch16a the women.md: 词表档位「⭐⭐⭐ 高级」只有表头没有词条
+❌ ch16a the women.md: 词表档位「⭐⭐ 进阶」只有表头没有词条
+❌ ch17a the infant.md: 词表档位「⭐⭐⭐ 高级」只有表头没有词条
+❌ ch29a the sailor.md: 词表档位「⭐⭐⭐ 高级」只有表头没有词条
+❌ ch30a the laughing girl.md: 词表档位「⭐⭐⭐ 高级」只有表头没有词条
+❌ ch30a the laughing girl.md: 词表档位「⭐ 基础」只有表头没有词条
+❌ ch35a the husband.md: 词表档位「⭐ 基础」只有表头没有词条
+❌ ch37a the witness.md: 词表档位「⭐⭐⭐ 高级」只有表头没有词条
+❌ ch37a the witness.md: 词表档位「⭐ 基础」只有表头没有词条
+=== 空段扫描：10 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 29/29 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 53/53 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  ⚠️ 00_金句精选.md:35  同一句在 2 章出现（ch6,ch15），章节标注有歧义：We take care of the people who have 
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（everything-is-poison-by-joy-mccullough）===
+  参照集：text/（67 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（everything-is-poison-by-joy-mccullough）===
+  带前缀的 `> **原句 N:**` 行：66 个文件共 364 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+  ❌ ch31 carmela lets violetta in.md 原句1: 关键词不在本块引语内 → ['gasps', 'unclear whether she’s talking to', 'the very bones of the apothecary', 'to have let such a travesty occur']
+  ❌ ch31 carmela lets violetta in.md 原句2: 关键词不在本块引语内 → ['implies Carmela is the one who has lost her senses', 'the only one thinking straight', 'didn’t let her back here until she had proven herself', 'Violetta has proven nothing']
+  ❌ ch31 carmela lets violetta in.md 原句3: 关键词不在本块引语内 → ['I may never see my mother again', 'And my mother is dead']
+  ❌ ch31 carmela lets violetta in.md 原句4: 关键词不在本块引语内 → ['breath comes faster', 'her throat tightens', 'this entitled girl before her', 'saw her weak and shaken', 'Furious that Violetta has her own wounds', 'does not want to owe this girl anything', 'I’m the luckiest girl in the world', 'flinging arms wide', 'knocking a crock off Laura’s worktable']
+  ❌ ch31 carmela lets violetta in.md 原句5: 关键词不在本块引语内 → ['There are always risks', 'That doesn’t mean we stop doing the work', 'I think I got everything', 'I’m sorry to have bothered you']
+  ❌ ch31 carmela lets violetta in.md 原句6: 关键词不在本块引语内 → ['which is Carmela’s fault', 'How is she to stand in the way of a clear solution', 'then Carmela will show her the results', 'Fine', 'she grits out', 'Be here at eight tomorrow morning']
+  ❌ ch32a the friends.md 原句1: 关键词不在本块引语内 → ['like Carmela and Violetta', 'but not', 'hangs between their windows', 'so close to the apothecary', 'at each other’s throats', 'in each other’s hearts', 'for more than fifty years']
+  ❌ ch32a the friends.md 原句2: 关键词不在本块引语内 → ['nursed petty grievances as teens', 'coveted each other’s husbands', 'judged each other’s cooking', 'griped at each other’s faults', 'prodded at each other’s insecurities', 'they are starting to see the end of the road', 'more people they’ve known', 'have died than not']
+  ❌ ch32a the friends.md 原句3: 关键词不在本块引语内 → ['by sixteen months', 'never lets her forget it', 'has lost her parents', 'two of four children', 'most recently her husband', 'loved from girlhood', 'trusted him', 'relied on him', 'mourned him deeply']
+  ❌ ch32a the friends.md 原句4: 关键词不在本块引语内 → ['her husband is dying now', 'and she’s ready', 'never say it aloud', 'to anyone but this friend', 'who even now is tugging too hard', 'in the opposite direction on the clothesline']
+  ❌ ch32a the friends.md 原句5: 关键词不在本块引语内 → ['living alone', 'not need to do laundry every day', 'died nearly a year ago', 'she has continued', 'the daily ritual', 'there will always', 'be stains to scrub']
+  ❌ ch33 it makes you magic too.md 原句5: 关键词不在本块引语内 → ['Maria hoots in celebration', 'abandons Violetta', 'Laura’s treasure']
+  ❌ ch33 it makes you magic too.md 原句6: 关键词不在本块引语内 → ['It doesn’t heal the gaping wounds', 'but it’s a start']
+  ❌ ch34 giulia makes herself useful.md 原句2: 关键词不在本块引语内 → ['waiting to stir whichever one Giulia is blocking', 'along the windowsill', 'impatient to pluck some thyme']
+  ❌ ch34 giulia makes herself useful.md 原句5: 关键词不在本块引语内 → ['Giulia smiles', 'the picture of innocence', 'The picture of Carmela']
+  ❌ ch34 giulia makes herself useful.md 原句6: 关键词不在本块引语内 → ['go wander the gardens', 'See for myself what’s in bloom']
+  ❌ ch35a the husband.md 原句1: 关键词不在本块引语内 → ['like Sandro', 'but not', 'roaming the streets', 'of Campo Marzio', 'late into the night', 'never far from the apothecary', 'wondering where things went wrong']
+  ❌ ch35a the husband.md 原句2: 关键词不在本块引语内 → ['who snuck out her window', 'the abandoned shed', 'behind the church', 'risking everything', 'for the passion she felt']
+  ❌ ch35a the husband.md 原句3: 关键词不在本块引语内 → ['a bedraggled old woman', 'with time for everyone else', 'but never noticing him', 'except to nag and snap and yell', 'take for granted', 'that he would be there', 'providing for their family', 'working hard all day', 'and still wanting', 'at night', 'to curl up with someone', 'who appreciates him']
+  ❌ ch37a the witness.md 原句1: 关键词不在本块引语内 → ['like Signora Abate', 'but not', 'one street over', 'from the apothecary', 'hurrying away', 'from something', 'she shouldn’t have seen']
+  ❌ ch37a the witness.md 原句2: 关键词不在本块引语内 → ['there’s certainly nothing', 'she can do to help', 'So that man smacked his wife', 'so that boy stole that purse', 'so that beggar has nothing to eat']
+  ❌ ch37a the witness.md 原句3: 关键词不在本块引语内 → ['no time', 'no coin', 'nothing left for all that’s wrong', 'in her own life', 'if she meddles with others', 'that’s only inviting them', 'to stick their noses', 'where they don’t belong', 'in her life', 'in her wreckage', 'in her shame']
+  ❌ ch39 maria mistakes carmela for giulia.md 原句2: 关键词不在本块引语内 → ['She’s not well', 'stalks away', 'unimportant task', 'Ignoring it isn’t helping her', 'her eyes are full of tears', 'I know']
+  ❌ ch39 maria mistakes carmela for giulia.md 原句3: 关键词不在本块引语内 → ['Who’s Bettina', 'Her little sister', 'died of the plague when Maria was ten']
+  ❌ ch39 maria mistakes carmela for giulia.md 原句4: 关键词不在本块引语内 → ['standing too near the fire', 'her skirt almost in the flames', 'lunges to push Maria back', 'Maria cowers in the chair', 'I’m sorry', 'I won’t do it again', 'you did nothing wrong', 'I’m the one who’s sorry']
+  ❌ ch41 there is a child.md 原句1: 关键词不在本块引语内 → ['slips inside the apothecary behind', 'ever vigilant when the door chimes', 'might not notice how late she is returning to the shop', 'believe she’s been there for ages', 'Unlikely', 'but possible', 'Everything feels possible inside the shop']
+  ❌ ch41 there is a child.md 原句2: 关键词不在本块引语内 → ['that back door never was secured', 'grabbed the nearest bottle of oil her fingers found', 'A bright', 'happy scent confirmed it to be Melissa officinalis', 'That would do', 'anointed each small child', 'while droning the best Latin she knew']
+  ❌ ch41 there is a child.md 原句3: 关键词不在本块引语内 → ['lurking in the shop front', 'will not be in trouble for being late', 'Not truly', 'a flash of disappointment on her mother’s face', 'wilt like lobelia in full sun']
+  ❌ ch41 there is a child.md 原句4: 关键词不在本块引语内 → ['It’s magical how La Tofana always knows what each person needs', 'as soon as they set foot in the apothecary', 'sugared almonds are worth any amount of scolding', 'Flora Maria’s tardiness', 'She hurries through the archway to the back room', 'Only those who know the apothecary best', 'who truly belong here', 'puffs up a bit at her belonging in a place like this']
+  ❌ ch41 there is a child.md 原句5: 关键词不在本块引语内 → ['She whirls at Laura’s voice', 'candied almond between her fingers', 'Her mother laughs', 'putting her at ease', 'Did you have fun', 'pops the sweet treat into her mouth', 'she convinced the other children to play barley break', 'boring old prisoner’s base', 'they all abandoned the game', 'a box full of kittens', 'she already picked one out and named it Tofana', 'when the shop bell rings']
+  ❌ ch41 there is a child.md 原句6: 关键词不在本块引语内 → ['gather their daughter into their arms', 'one last look back at her aunties', 'the lives they’ve all built together', 'Someday it will all be hers', 'And really', 'it always has been']
+=== 引语块覆盖度：66 个 md，问题 167 处 ===
+══ 正门结论：❌ 33 条阻断型（见上；退出码 1）══

@@ -118,7 +118,7 @@ modified: "2026-10-03"
 | newlywed | 新婚的；新婚的（此处名词用法 newlywed） | She’ll sail from favored eldest daughter to newlywed, forever under the watchful eye of a doting man. |
 | watchful | 警觉注视的；留心的 | She’ll sail from favored eldest daughter to newlywed, forever under the watchful eye of a doting man. |
 | totters | 蹒跚；（此处）颤巍巍地走 | She hovers behind a potted bay laurel as Signora Russo totters over to Giulia Tofana at the counter. |
-| stifles | 强忍；压抑（此处 stifle a snort） | Carmela stifles a snort of derision. |
+| stifles | 强忍；压抑（原文作 stifles a snort of derision） | Carmela stifles a snort of derision. |
 | snood | （女式）发网；束发网 | Then the pretty girl smooths back a ringlet that has escaped her snood and hurries out the door. |
 | pews | （教堂的）长椅（此处复数指虔敬祷告的座位） | Violetta pays for her potion and thanks Signora Tofana, clutching it as though it is the answer to all her pious mornings spent in hard-backed pews. |
 

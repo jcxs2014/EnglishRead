@@ -114,11 +114,7 @@ source_text: ch11a_another_wife.txt
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | familiar | 熟悉的；（此处）似曾相识到令人发冷的 | it was inevitable, familiar. |
-| occurred | 被想到；（it occurred to sb 结构）发生过念头 | It has never occurred to her to seek help. |
-
-### ⭐ 基础
-
-（整档留空：本篇韵文用词极简，生产工具在本篇无基础档候选，不硬凑。）
+| occurred | 被想到；原文作 It has never occurred to her to seek help. | It has never occurred to her to seek help. |
 
 ## 一句话总结
 

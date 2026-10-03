@@ -10,7 +10,7 @@ source_text: ch11_chapter_11.txt
 
 - **一句话概括**：身世讲完后的余波一章，母女在灯下作道德清算。Giulia 自评"I sound monstrous"，Carmela 一半认同——母亲分明是去"找出杀死一个男人又不被抓的最好办法"；可她终究站到了母亲这边，一句"Your father was the monster"把 Giulia 脸上那点恐惧换成了希望。Giulia 交出教义的核心："sometimes there are no other options"，官府与教堂都指望不上，"My mother died protecting me"——她要兑现外祖母用命换来的那件事。Carmela 追问Maria 的丈夫、追问自己的父亲，得到第三种可能：那不是被杀的怪物，也不是恶人，而是"一个好人，被过早地从她母亲身边夺走"（死于 Simple consumption）。最后 Giulia 摘下随身一辈子的挂坠盒——那是外祖母之物——扣上 Carmela 的颈间；它"nearly weightless"，Carmela 却感到它在心口跳动，一件她从未谋面的外祖母的遗物。
 - **情感弧线位置**：这是第 10 章那场身世引爆之后的**消化层**，张力从"真相"转向"如何与真相共处"。全章情绪是降温里的紧绷：不靠事件推进，靠母女一问一答的让步与接纳。它同时是一个**传承的枢纽**——挂坠盒从 Costanza→Giulia→Carmela 完成三代交接，Carmela 从"知情者"被半推半就地纳入这条母系血脉的世代营生，却仍被母亲一句"I'll never ask you to be a part of this"挡在共犯之名外。
-- **人物弧线**：Giulia 在本章卸下权威面具——她"avoiding Carmela’s eyes"、会"I sound monstrous"地自我审判，又在女儿的原谅面前露出"the look of hope"。Carmela 完成一次价值观的定夺：明知母亲的所作所为"on its face"近乎怪物，仍选择理解；她对父亲之死的三重追问，显露她要的不是安慰而是事实。外祖母 Costanza 虽不出场，却经由挂坠盒与"she died protecting me"成为本章真正的主角。
+- **人物弧线**：Giulia 在本章卸下权威面具——她"avoiding Carmela’s eyes"、会"I sound monstrous"地自我审判，又在女儿的原谅面前露出"the look of hope"。Carmela 完成一次价值观的定夺：明知母亲的所作所为"on its face"近乎怪物，仍选择理解；她对父亲之死的三重追问，显露她要的不是安慰而是事实。外祖母 Costanza 虽不出场，却经由挂坠盒与一句"My mother died protecting me."成为本章真正的主角。
 - **叙事手法**：几乎纯对话支撑，叙述层只用来标注**身体细节**（grab hands、unclasps the locket、fasten around her neck）——作者把最重的情感交给动作而非独白。核心修辞是"possibility"的**穷举法**：Carmela 对父亲之死先摆两种可能（被母亲所杀／是需被铲除的怪物），再让第三种（好人、病死）落地，用排列组合拆掉单一叙事。时间上本章紧接第 10 章末尾的回忆，回到现在时；"The church…"一句欲言又止的省略，把第 10 章 San Girolamo 的背叛压在省略号里，不重述、只回响。
 
 ## 精读
@@ -34,7 +34,7 @@ source_text: ch11_chapter_11.txt
 
 **为什么这样写：**作者在此用一个"oh"打断句子（"the look, oh, the look of hope"），模拟 Carmela 目击到母亲罕见神情时的那一怔——重复 the look 把镜头拉近又拉近。随后三个递进的同位语（"her one precious thing in this world, her only daughter, her Carmela"）逐级收窄：世上唯一珍贵→独女→直呼本名，把一个母亲全部的软肋压进三短语。关键在于**权力关系的倒转**：全章一直是 Giulia 掌握信息、审判在先，而这一刻她反倒悬在女儿是否原谅的一线之上。"it erases any doubts" 于是既是结论，也是女儿给母亲的赦免——Carmela 用一个眼神的分量，反哺了她。
 
-**读者视角提示：**留意 Giulia 被写成"might have lost"（险些失去）——上一代 Costanza 失去的是女儿眼前被绞死的母亲，这一代 Giulia 险些失去的是女儿的心；两代"失去"在本章暗接。
+**读者视角提示：**留意作者给 Giulia 的那一眼是否定式的："the look of hope on Giulia’s face that she might not have lost her one precious thing in this world, her only daughter, her Carmela"——她脸上那点希望，是**希望还没有失去**，而不是"险些失去"的追述；而紧接的一句 it erases any doubts Carmela might have had 把这个否定式的希望当场结算成信任。上一代 Costanza 失去的是女儿眼前被绞死的母亲，这一代 Giulia 差点失去的是女儿的心；两代"失去"在本章暗接。
 
 > **原句 3:** "Giulia pauses. “I should let Maria tell you that part.” Giulia has been avoiding Carmela’s eyes, but now she grabs both her daughter’s hands and looks at her urgently. “I need you to understand that sometimes there are no other options. The authorities are certainly no help. The church…My mother died protecting me. I wasn’t going to let that happen to anyone else’s daughter.”"
 

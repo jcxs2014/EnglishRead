@@ -1,0 +1,146 @@
+### gate.sh notes/books/novels/everything-is-poison-by-joy-mccullough  （2026-10-03 整改批后全量，EXIT=0）
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 372/372 引文可核实（100%）；完全干净文件 67/67；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 1069
+--- FAIL (0) ---
+--- WARN (41) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 324 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 75 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 carmela slips inside the apothecary.md    ch01 carmela slips inside the apothecary.md: 8/8 in ch01 text
+ch02 violetta calls her mother a witch.md      ch02 violetta calls her mother a witch.md: 7/7 in ch02 text
+ch02a the witch.md                             ch02a the witch.md: 30/30 in ch02 text（另有 30 条短引语未校验）
+ch03 carmela starts as an apprentice.md        ch03 carmela starts as an apprentice.md: 8/8 in ch03 text
+ch03a the wife.md                              ch03a the wife.md: 21/21 in ch03 text（另有 22 条短引语未校验）
+ch04 carmela walks violetta home.md            ch04 carmela walks violetta home.md: 6/6 in ch04 text
+ch04a the widower.md                           ch04a the widower.md: 19/19 in ch04 text（另有 9 条短引语未校验）
+ch05 carmela must trust her mother.md          ch05 carmela must trust her mother.md: 8/8 in ch05 text
+ch05a the laboring mother.md                   ch05a the laboring mother.md: 26/26 in ch05 text（另有 16 条短引语未校验）
+ch06 giulia explains who the shop protects.md  ch06 giulia explains who the shop protects.md: 6/6 in ch06 text
+ch07 not for the likes of you.md               ch07 not for the likes of you.md: 6/6 in ch07 text
+ch08 the smallest amount will kill.md          ch08 the smallest amount will kill.md: 6/6 in ch08 text
+ch08a the tavern mistress.md                   ch08a the tavern mistress.md: 9/9 in ch08 text（另有 16 条短引语未校验）
+ch09 the lady of death leaflet.md              ch09 the lady of death leaflet.md: 6/6 in ch09 text
+ch09a the millers daughter.md                  ch09a the millers daughter.md: 10/10 in ch09 text（另有 13 条短引语未校验）
+ch10 everything is poison.md                   ch10 everything is poison.md: 9/9 in ch10 text
+ch11 the third possibility.md                  ch11 the third possibility.md: 7/7 in ch11 text
+ch11a another wife.md                          ch11a another wife.md: 23/23 in ch11 text（另有 17 条短引语未校验）
+ch12 everything is poison love.md              ch12 everything is poison love.md: 7/7 in ch12 text
+ch13 carmela hides the arsenic.md              ch13 carmela hides the arsenic.md: 10/10 in ch13 text（另有 1 条短引语未校验）
+ch13a the cat.md                               ch13a the cat.md: 23/23 in ch13 text（另有 12 条短引语未校验）
+ch14 horror in the walls.md                    ch14 horror in the walls.md: 7/7 in ch14 text
+ch14a the traveler.md                          ch14a the traveler.md: 17/17 in ch14 text（另有 14 条短引语未校验）
+ch15 washing the stains out.md                 ch15 washing the stains out.md: 9/9 in ch15 text
+ch15a the groom.md                             ch15a the groom.md: 12/12 in ch15 text（另有 20 条短引语未校验）
+ch16 carmela hides signora moretti.md          ch16 carmela hides signora moretti.md: 6/6 in ch16 text
+ch16a the women.md                             ch16a the women.md: 1/1 in ch16 text（另有 11 条短引语未校验）
+ch17 carmela helps deliver twins.md            ch17 carmela helps deliver twins.md: 6/6 in ch17 text
+ch17a the infant.md                            ch17a the infant.md: 11/11 in ch17 text（另有 22 条短引语未校验）
+ch18 carmela starts a fire from scratch.md     ch18 carmela starts a fire from scratch.md: 7/7 in ch18 text
+ch18a the women part 2.md                      ch18a the women part 2.md: 29/29 in ch18 text（另有 14 条短引语未校验）
+ch19 carmela confesses before father piero.md  ch19 carmela confesses before father piero.md: 6/6 in ch19 text（另有 1 条短引语未校验）
+ch19a the priest.md                            ch19a the priest.md: 11/11 in ch19 text（另有 27 条短引语未校验）
+ch20 giulia claims the suspicion for herself.md ch20 giulia claims the suspicion for herself.md: 6/6 in ch20 text
+ch20a the loiterer.md                          ch20a the loiterer.md: 31/31 in ch20 text（另有 17 条短引语未校验）
+ch21 laura comes home covered in refuse.md     ch21 laura comes home covered in refuse.md: 6/6 in ch21 text
+ch21a the cobbler.md                           ch21a the cobbler.md: 26/26 in ch21 text（另有 9 条短引语未校验）
+ch22 laura shows up barefoot.md                ch22 laura shows up barefoot.md: 7/7 in ch22 text
+ch22a the novitiate.md                         ch22a the novitiate.md: 22/22 in ch22 text（另有 11 条短引语未校验）
+ch23 giulia leaves the shop forever.md         ch23 giulia leaves the shop forever.md: 11/11 in ch23 text
+ch23a the women part 3.md                      ch23a the women part 3.md: 11/11 in ch23 text（另有 35 条短引语未校验）
+ch24 carmela cannot muster the will.md         ch24 carmela cannot muster the will.md: 9/9 in ch24 text
+ch25 giulia remembers saving the novitiate.md  ch25 giulia remembers saving the novitiate.md: 9/9 in ch25 text
+ch26 carmela confronts maria.md                ch26 carmela confronts maria.md: 9/9 in ch26 text
+ch26a the brokenhearted.md                     ch26a the brokenhearted.md: 32/32 in ch26 text（另有 24 条短引语未校验）
+ch27 tonight is for saving a life.md           ch27 tonight is for saving a life.md: 6/6 in ch27 text
+ch27a the mother.md                            ch27a the mother.md: 27/27 in ch27 text（另有 16 条短引语未校验）
+ch28 carmela is not la tofana.md               ch28 carmela is not la tofana.md: 6/6 in ch28 text
+ch29 violetta saves carmela at the docks.md    ch29 violetta saves carmela at the docks.md: 6/6 in ch29 text
+ch29a the sailor.md                            ch29a the sailor.md: 17/17 in ch29 text（另有 14 条短引语未校验）
+ch30 carmela makes violetta laugh.md           ch30 carmela makes violetta laugh.md: 8/8 in ch30 text
+ch30a the laughing girl.md                     ch30a the laughing girl.md: 16/16 in ch30 text（另有 29 条短引语未校验）
+ch31 carmela lets violetta in.md               ch31 carmela lets violetta in.md: 15/15 in ch31 text（另有 1 条短引语未校验）
+ch32 violetta grinds lemon balm.md             ch32 violetta grinds lemon balm.md: 6/6 in ch32 text
+ch32a the friends.md                           ch32a the friends.md: 31/31 in ch32 text（另有 17 条短引语未校验）
+ch33 it makes you magic too.md                 ch33 it makes you magic too.md: 8/8 in ch33 text
+ch34 giulia makes herself useful.md            ch34 giulia makes herself useful.md: 10/10 in ch34 text
+ch35 violetta learns the love potion recipe.md ch35 violetta learns the love potion recipe.md: 6/6 in ch35 text
+ch35a the husband.md                           ch35a the husband.md: 11/11 in ch35 text（另有 14 条短引语未校验）
+ch36 violetta sells the notary a remedy.md     ch36 violetta sells the notary a remedy.md: 6/6 in ch36 text
+ch37 carla brings the violence inside.md       ch37 carla brings the violence inside.md: 6/6 in ch37 text
+ch37a the witness.md                           ch37a the witness.md: 11/11 in ch37 text（另有 14 条短引语未校验）
+ch38 your mother is well.md                    ch38 your mother is well.md: 6/6 in ch38 text
+ch39 maria mistakes carmela for giulia.md      ch39 maria mistakes carmela for giulia.md: 12/12 in ch39 text（另有 4 条短引语未校验）
+ch40 carmela brings maria to the convent.md    ch40 carmela brings maria to the convent.md: 6/6 in ch40 text
+ch41 there is a child.md                       ch41 there is a child.md: 20/20 in ch41 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：66 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（everything-is-poison-by-joy-mccullough）===
+  ✅ 逐字 1127 ｜ ⚠️ 跨章 175 ｜ 🔶 拼接 874 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1535
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 778 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 松散关键词明细 ──
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 29/29 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 53/53 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  ⚠️ 00_金句精选.md:35  同一句在 2 章出现（ch6,ch15），章节标注有歧义：We take care of the people who have 
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（everything-is-poison-by-joy-mccullough）===
+  参照集：text/（67 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（everything-is-poison-by-joy-mccullough）===
+  带前缀的 `> **原句 N:**` 行：66 个文件共 365 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：66 个 md，问题 0 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
+EXIT=0

@@ -94,7 +94,26 @@ def quote_text(m):
 
 def scan_quotes(lines):
     """扫引语块。返回 [(行号, 引语)]，用**命名 group 取非空值**——
-    三分支拼接后 group(1) 只归属第一分支（check_anchor 已踩过，见其注释）。"""
+    三分支拼接后 group(1) 只归属第一分支（check_anchor 已踩过，见其注释）。
+
+    ⚠️ **续行不是新块**（2026-10-03 根因修复）：`RE_QUOTE_BARE` 把任何 `> ` 起头、
+    非 `**` 非汉字的行都当成一条引语，于是**同一个小节内跨自然段/跨诗行的引语**
+    被拆成 N 个"块"。后果有两层，都落在 `blocks_of` 上：
+      ① 每个续行自成一块、块内没有任何分析子项 ⇒ 报**孤儿块**（真缺陷 0 却报一片）；
+      ② 引语计数虚高 ⇒ 报「引语 60 个，与本书众数 6 相差过大」。
+    实证：Everything Is Poison 25 段分行韵文全部中招（ch21a 一次报 10 条孤儿块）；
+    the-capital-of-dreams 早先同类假红 62 条。判据：上一行（跳过空行）仍以 `>` 起头
+    ⇒ 这是同一引用块的续行，不另计一块。跨段引语的合法写法本就是同块内 `>` 续行。
+    """
+    # 先一遍标出「裸 `>` 引语行」，续行判定要用它，不能用「上一行以 > 开头」——
+    # 后者会把整块包在一个 blockquote 里的书（the-dream-hotel：`> **原句 2:**`
+    # 的上一个非空行是 `> **关键词：**`）也判成续行，实测把 42 块压成 7 块。
+    bare = set()
+    for i, ln in enumerate(lines):
+        mb = RE_QUOTE_BARE.match(ln)
+        if mb is not None and re.search(r'[A-Za-z]{3,}', mb.group(1)):
+            bare.add(i)
+
     out = []
     for i, ln in enumerate(lines, 1):
         m = RE_QUOTE_CIRCLED.match(ln)
@@ -102,7 +121,14 @@ def scan_quotes(lines):
         if t is None:
             t = quote_text(RE_QUOTE_YUANJU.match(ln))
         if t is None:
-            t = quote_text(RE_QUOTE_BARE.match(ln))
+            mb = RE_QUOTE_BARE.match(ln)
+            if i - 1 in bare:
+                k = i - 2
+                while k >= 0 and (not lines[k].strip() or re.match(r"^\s*>\s*$", lines[k])):
+                    k -= 1
+                if k >= 0 and k in bare:
+                    continue
+            t = quote_text(mb)
         if t is None:
             mh = RE_QUOTE_HEAD.match(ln.strip())
             t = mh.group(1).strip() if mh else None

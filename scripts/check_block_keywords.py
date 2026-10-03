@@ -158,6 +158,37 @@ def _kw_in_quote(k: str, qflat: str) -> bool:
     return True
 
 
+# ⚠️ 2026-10-03 修正（Everything Is Poison ⑱ 报 31 块「关键词不在本块引语内」实测）：
+#   本书的长引语采用**引用块内多行**形态——引语正文换行后仍以 `> ` 起头，段间空行写成 `>`：
+#     > **原句 1:** "It should, perhaps, not come as such a shock … record inventory.
+#     >
+#     > “What are you doing?” Carmela gasps, unclear whether she’s talking to … occur."
+#   而 `BLOCK_ITER` 是 `^…$` 单行式，捕获的 body **只有第一行** ⇒ 挂在第二行的
+#   关键词（gasps / the very bones of the apothecary …）**逐字都在块里却全报越界**。
+#   三个写作代理各自独立回报同一条 ⇒ 是工具口径，不是内容缺陷（AGENTS 第 3 条假红型）。
+#   ⚠️ 修法必须**排除**另一类既有形态：the-dream-hotel 那种「整块（含分析子项）都包在
+#   引用块里」的书——若把它的 `> **中文理解：**` 一并并入引语，就会凭空造出「引语跨自然段」
+#   的新假红。因此续行判据取**两个负条件**：不含中文字符、不含 `**` 粗体标记
+#   （本库所有分析子项标签都带粗体或中文）。命中即停，不跨越第一个分析行。
+_CONT_STOP = re.compile(r'[\u4e00-\u9fff]|\*\*')
+
+
+def _join_quote_lines(body: str, block: str):
+    """把引用块内换行书写的引语续行并入首行，返回 (完整引语串, 是否并到了续行)。"""
+    parts = [body.strip()]
+    for ln in block.split("\n"):
+        raw = ln.strip()
+        if raw in ("", ">"):
+            continue
+        if not raw.startswith(">"):
+            break
+        cont = raw[1:].strip()
+        if not cont or _CONT_STOP.search(cont):
+            break
+        parts.append(cont)
+    return " ".join(parts), len(parts) > 1
+
+
 def check(md: Path, book: Path):
     # ⚠️ 2026-10-03 修正（Evie ch01a/ch04a/ch11a 实测假红）：原式 `ch(\d+)` **丢掉插叙节的
     # 字母后缀** ⇒ ch01a 被取数字 1 ⇒ find_chapter_text 命中 `text/ch01_chapter_1.txt`
@@ -171,7 +202,11 @@ def check(md: Path, book: Path):
     s = md.read_text(encoding="utf-8")
     out = []
     # --- 结构计数对账（先做，因为它最便宜且能兜住一切后续判断）---
-    nq = len(BLOCK_RE.findall(s, re.M))
+    # ⚠️ 2026-10-03 修正：`Pattern.findall(string, *pos)` 的第二个位置参数是 **pos**，不是 flags；
+    #   原写法 `findall(s, re.M)` 等于从第 8 个字符开始找——若某文件的引语块头落在前 8 字符内
+    #   （负控实测：无 frontmatter 的裸块文件），首个块会被整块跳过、nq 少 1。
+    #   re.M 已在 compile() 里烘进 pattern，此处第二个参数应删除。
+    nq = len(BLOCK_RE.findall(s))
     nkw = len(KW_RE.findall(s))
     # ⚠️ 2026-10-02 假红型修正（本工具写死言情格式 `## 本章词汇` + 3–8 块配额，
     #   而非虚构论述格式用 `## 词汇分级` + 10 处 `## 选择性精读`）。全库非虚构书
@@ -231,7 +266,7 @@ def check(md: Path, book: Path):
         # body 到下一个引语块头（或文件末）为止
         nxt = s.find("\n> **原句 ", m.end())
         block = s[m.end(): nxt if nxt != -1 else len(s)]
-        q = body.strip()
+        q, q_multi = _join_quote_lines(body, block)
         # ⚠️ 2026-10-02 修正（Bird of a Thousand Stories 终验实测，ch18 原句5 假红）：
         # 本库**同一批书**里存在两种写法 —— `> **原句 1:** "…"` 与
         # `> **原句 1: "…"**`（整行含引号的部分被粗体包住）。后者下 `BLOCK_ITER`
@@ -254,7 +289,20 @@ def check(md: Path, book: Path):
         # （跨段拼接由紧随其后的 `pn` 自然段计数判据负责，本项只管「逐字」这一半）。
         # 回归：Bird 10 → 0；真实伪造（伪造引语 / 跨段拼接 / 词替换）仍照报——
         # 投毒验证见该次终验记录。
-        if qn not in tn:
+        if qn not in tn and q_multi and _flat(qn) in _flat(tn):
+            # ⚠️ 2026-10-03 修正（Everything Is Poison 修完续行合并后新暴露 21 条）：
+            #   本库的多行块有两种包裹形态——① 外层一对引号包住整段多行引语；
+            #   ② **每个自然段各自成对**：`> "第一段"` / `>` / `> "第二段"`。
+            #   形态②并入后会在段界多出一个**写作者加的** `"`，而 `norm()` 不剥引号
+            #   ⇒ `qn not in tn`，报「引语跨自然段（拼接红线）」——可这段在原文里
+            #   就是**相邻自然段连续**存在的，verify_quotes 与 sweep_full 都判它逐字命中。
+            #   这是 ⑱ 与同批门禁的**口径不一致**，不是内容缺陷（假红型）。
+            #   兜底只在 `q_multi` 时启用：单行块的行为**一字不变**（其余书零回归）；
+            #   判据放宽的是「相邻自然段可以同块」，**不是**「可以乱拼」——
+            #   `_flat` 剥掉全部标点与空白，跨**非相邻**段拼接与凭空造句在 flat 下同样查无，
+            #   负控见本次修正记录。
+            pass
+        elif qn not in tn:
             _parts = [x for x in re.split(r"\s*…\s*", q) if x.strip()]
             _same_para = bool(_parts) and any(
                 all(norm(x) in p for x in _parts) for p in pn)

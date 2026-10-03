@@ -11,7 +11,7 @@ source_text: ch04a_the_widower.txt
 - **一句话概括**：一位丧妻的鳏夫在家里来回踱步——他妻子刚刚还在烤面包、哄孩子、擦血膝盖、担心他背上那块不肯好的疮，忽然就病、就死了；他不敢接受，只等着她推门进来笑他一场，但六个孩子不会自己长大，家里来的姊妹和邻居都不是他要的那张脸。
 - **情感弧线位置**：紧接 ch04 里 Carmela 陪 Violetta 走过 Via di Ripetta 家门口那条**挂着黑布**的门洞之后——上一段以"黑布"结束，这一段把黑布底下具体展开：一位父亲、六个孩子、一间不再有人告诉他"刨刀放在哪儿"的小屋。全诗不给 Carmela 或 Violetta 一句台词，是把读者从**药铺内部**暂时抽离到**罗马街巷里的另一户人家**，让 ch04 结尾那句"an angry man told her to go back to the witch"背后的生活重量显形。
 - **人物弧线**：无主角在场；发声者是**群体视角**（"a man like Violetta's father but not"），作者用一句 not 就把这位鳏夫与 Violetta 父亲剥离开——他只是一个"可以走得到的邻居"。诗里唯一被完整勾勒的女性是**亡妻**：她的动作清单（baking, consoling, tending, wringing, going, wiping, fretting）比任何一段叙述都长。
-- **叙事手法**：自由体无韵诗；每行一句、行间留空；结构由三组**平行**推进——先亡妻的**动作清单**（现在时/被动），再"Any moment now"起的**期待清单**（将来时），最后落到**现在时的踱步**。作者用同一句"like X but not"接住前一首《The Witch》《The Wife》的开场模板，把这首诗嵌进全书的合唱里。
+- **叙事手法**：自由体无韵诗；每行一句、行间留空；结构由三组**平行**推进——先亡妻的**动作清单**（现在时/被动），再"Any moment now"起的**期待清单**（将来时），最后落到**现在时的踱步**。作者用同一句"There is a man like Violetta’s father but not in a cramped apartment"接住前一首《The Witch》《The Wife》的开场模板，把这首诗嵌进全书的合唱里。
 
 ## 精读
 
