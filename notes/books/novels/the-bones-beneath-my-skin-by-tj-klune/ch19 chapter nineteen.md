@@ -49,7 +49,7 @@ modified: "2026-10-03"
 
 **中文理解：** 他说：「不管你去哪。不管你离得多远，我都会和你在一起。我爱你。我爱你。我爱你。」
 
-**关键词：** No matter where you go, always with you, I love you
+**关键词：** No matter where you go, always going to be with you, I love you
 
 **为什么这样写：** 三次「我爱你」是全书唯一 repetition 到这个量级的告白——不是修辞，是给一个怕黑的孩子念的咒语。他把告别写成了永不告别：空间取消不了 bond（她自己的理论）。这个男人全书没说过一句软话，此处一次把十年的份说了。
 

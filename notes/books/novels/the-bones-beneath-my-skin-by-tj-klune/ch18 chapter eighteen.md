@@ -49,7 +49,7 @@ modified: "2026-10-03"
 
 **中文理解：** 她说得对，家庭就是一切。所以他说：「我的家庭就在这里。」
 
-**关键词：** Family is everything, right here
+**关键词：** Family was everything, my family right here
 
 **为什么这样写：** Randy 打出最后一张牌（你哥哥在等你回家），Nate 的回答只用一句收网。right here 是全书最便宜也最贵的行李：他不要回去了——家不再是一个地点，而是身边的两个人。以退为进：先全盘认同敌人的价值（family is everything），再翻转它的指向。
 
