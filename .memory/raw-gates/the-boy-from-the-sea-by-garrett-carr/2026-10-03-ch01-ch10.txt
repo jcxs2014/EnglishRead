@@ -1,0 +1,60 @@
+=== verify_quotes ===
+ch01 1.md: 8/8 ✅
+ch02 2.md: 8/8 ✅
+ch03 3.md: 8/8 ✅
+ch04 4.md: 8/8 ✅
+ch05 5.md: 8/8 ✅
+ch06 6.md: 8/8 ✅
+ch07 7.md: 7/7 ✅（另有 1 条短引语未校验）
+ch08 8.md: 8/8 ✅
+ch09 9.md: 7/7 ✅（另有 1 条短引语未校验）
+ch10 10.md: 8/8 ✅
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 78/78 引文可核实（100%）；完全干净文件 10/10；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== check_vocab ===
+词条行合计: 458
+
+--- FAIL (0) ---
+
+--- WARN (11) ---
+  ch03 3.md [基础] 基础档疑含超纲词「arbitrary tasks」
+  ch04 4.md [基础] 基础档疑含超纲词「attention」
+  ch04 4.md [基础] 基础档疑含超纲词「cigarette」
+  ch06 6.md [基础] 基础档疑含超纲词「bright background」
+  ch07 7.md [基础] 基础档疑含超纲词「difficult age」
+  ch08 8.md [高级] 例句不含词头「confidentiality」
+  ch08 8.md [高级] 例句不含词头「secretive」
+  ch08 8.md [进阶] 例句不含词头「concerned」
+  ch10 10.md [进阶] 例句不含词头「location」
+  ch10 10.md [基础] 基础档疑含超纲词「enunciation」
+  ch10 10.md [基础] 基础档疑含超纲词「basketball net」
+
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== corruption_scan ===
+
+=== 编辑损坏扫描（the-boy-from-the-sea-by-garrett-carr）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== sweep_full ===
+=== 引语整串 flat 比对（the-boy-from-the-sea-by-garrett-carr）===
+  参照集：text/ 逐章（17 章，可定章） + epub 交叉验证
+  ✅ 本章命中 78 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+
+=== check_chapter_quotes ===
+ch01 1.md: 8/8 in ch01 text
+ch02 2.md: 8/8 in ch02 text
+ch03 3.md: 8/8 in ch03 text
+ch04 4.md: 8/8 in ch04 text
+ch05 5.md: 8/8 in ch05 text
+ch06 6.md: 8/8 in ch06 text
+ch07 7.md: 7/7 in ch07 text（另有 1 条短引语未校验）
+ch08 8.md: 8/8 in ch08 text
+ch09 9.md: 7/7 in ch09 text（另有 1 条短引语未校验）
+ch10 10.md: 8/8 in ch10 text
