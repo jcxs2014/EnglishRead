@@ -57,7 +57,7 @@ title: "The Office of Dr Warren, Psychiatrist（第 8 次问询）"
 
 **关键词：** knitted a life-sized doll, with blonde hair and blue eyes, looked exactly like Amy, with Amy's name written across her chest
 
-**为什么这样写：** 全书最**平静**的一次犯罪预告，而作者把它放在一个温暖的家庭场景里：外祖母给外孙女织娃娃。这是全书最典型的结构——**Miss Fairchild 的所有行为都由爱生成，然后被用作伤害**。而 life-sized（真人大小）这个细节在五章之前就被 Norah 追问过（ch49：Is it possible the doll is Amy?），而答案是：这只娃娃从一开始就是 Amy 的肖像，它的存在目的就是让这栋房子**合法地拥有一个 Amy**。
+**为什么这样写：** 全书最**平静**的一次犯罪预告，而作者把它放在一个温暖的家庭场景里：外祖母给外孙女织娃娃。这是全书最典型的结构——**Miss Fairchild 的所有行为都由爱生成，然后被用作伤害**。而 life-sized（真人大小）这个细节在十七章之前就被 Max 追问过（ch45：It's not possible the doll is Amy?），而答案是：这只娃娃从一开始就是 Amy 的肖像，它的存在目的就是让这栋房子**合法地拥有一个 Amy**。
 
 **读者视角提示：** 读者会在这句话上第一次彻底理解：那个让 Norah 暴怒「Amy 是人！」的娃娃，其实是一份**爱意的成品**。
 
@@ -97,7 +97,7 @@ title: "The Office of Dr Warren, Psychiatrist（第 8 次问询）"
 
 **读者视角提示：** 读者会在这段话上第一次彻底确认：这个女人一生中唯一真正无私的时刻，是**为了一个不是她的孩子**——而这正是她后来收养二十五个孩子的心理原型。
 
-## 词汇分级
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 

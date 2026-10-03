@@ -70,7 +70,7 @@ title: "The Office of Dr Warren, Psychiatrist（第 9 次问询）"
 
 **关键词：** I hadn't noticed my mother getting out of the car, When she came to stand by my side, I thought it was a supportive gesture, until she snatched Amy from my arms
 
-**为什么这样写：** 全书最狠的一次**语义反转**，而它的技术是 **until**（直到）：stand by my side（站在我这边）被 until 一词**整个撤销**。而 she snatched Amy from my arms 里的 snatched（抢）是抢的动作，而不是抱的动作——这与 ch47 里「Jessica never even picked her up from the crib」是同一类动作的**两面**。这一整章讲的就是这个 until：这一夜之前，「站在我这边」**是**真的。
+**为什么这样写：** 全书最狠的一次**语义反转**，而它的技术是 **until**（直到）：stand by my side（站在我这边）被 until 一词**整个撤销**。而 she snatched Amy from my arms 里的 snatched（抢）是抢的动作，而不是抱的动作——这与 ch27 里「Miss Fairchild hadn't even bothered to pick her up from her crib」是同一类动作的**两面**。这一整章讲的就是这个 until：这一夜之前，「站在我这边」**是**真的。
 
 **读者视角提示：** 读者会在这句话上第一次意识到：这个女人的整个自我认识（我是被爱的）建立在一个 **until 之后**才失效的前提上。
 
@@ -97,7 +97,7 @@ title: "The Office of Dr Warren, Psychiatrist（第 9 次问询）"
 **为什么这样写：** 全书对**结果**最干净的一次收束，作者用四个动作写成一条直线：取钱 → 确认 → 吐口水 → 上车。而她喊的两句（Don't hurt her／Don't hurt Amy）正好是**同一句话的两个版本**，说明她在最后一刻还在试图用**自己的名字**替换 Amy 的——这是 ch62 里「Amy 爱我胜过爱外祖母」的那种心理第一次**反向**运转。而最后一句独立成段：I never saw Amy again。从这一夜起，Amy 在这套系统里**不存在了**——这正是 ch45 里警察搜遍全屋也找不到她的原因。
 
 **读者视角提示：** 读者会在这最后一句上意识到：这本书从这一夜开始，才**真正**变成了一桩悬案——而凶手是那个母亲和那个男人，而她以为自己是**救人的人**。
-## 词汇分级
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 

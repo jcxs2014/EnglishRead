@@ -112,7 +112,7 @@ title: "The Office of Dr Warren, Psychiatrist（第一次问询）"
 
 **读者视角提示：** 读者会在合上这一章后才反应过来：她刚刚用对付 Miss Fairchild 的方式，来处理自己的罪责感。
 
-## 词汇分级
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 

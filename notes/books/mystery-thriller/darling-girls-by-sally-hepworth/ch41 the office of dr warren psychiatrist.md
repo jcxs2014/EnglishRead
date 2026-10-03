@@ -91,7 +91,7 @@ title: "The Office of Dr Warren, Psychiatrist（第 5 次问询）"
 
 **中文理解：** 「Troy 算不上有魅力，也谈不上迷人，他还养成了一个说『anythink』的坏习惯，但他有一个重要的优点：他喜欢我。当你觉得自己谁都不喜欢时，那份激动很难夸大。……他对我的兴趣让人上瘾。」
 
-**关键词 Troy wasn't particularly attractive or charismatic, he had an irritating habit, but he had one important thing going for him, he liked me, When you feel like nobody likes you, it's hard to overstate the thrill of that, His interest in me was intoxicating
+**关键词：** Troy wasn't particularly attractive or charismatic, he had an irritating habit, but he had one important thing going for him, he liked me, When you feel like nobody likes you, it's hard to overstate the thrill of that, His interest in me was intoxicating
 
 **为什么这样写：** 作者用一句让步结构把「被爱」写成**唯一可用的货币**：他不好看、不健谈、说话还带口音，但他喜欢我。而 it was hard to overstate the thrill of that（很难夸大那份激动）里的 overstate（夸大）是一个精确的双关——**她知道自己夸大过**，而她仍然要夸大。作者用 intoxicating（让人上瘾）与第 34 章那个「被爱＝毒品」的主题扣合。
 
@@ -109,7 +109,7 @@ title: "The Office of Dr Warren, Psychiatrist（第 5 次问询）"
 
 **读者视角提示：** 读者会在合上这一章时感到一次彻底的翻转：这个故事里被同情的位置，第一次不属于受害者。
 
-## 词汇分级
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
