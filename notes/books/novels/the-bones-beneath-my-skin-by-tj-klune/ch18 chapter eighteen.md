@@ -15,7 +15,7 @@ modified: "2026-10-03"
 
 ## 精读
 
-> **原句 1:** «Q1»
+> **原句 1:** “You stupid girl,” Alex said, hanging his head. “You stupid, stupid girl. Of course I love you. Of course I do. The both of you. How could I not?”
 
 **中文理解：** 「你这个傻姑娘，」Alex 说，垂下头。「你这个傻、傻姑娘。我当然爱你。我当然。你们两个。我怎么可能不爱？」
 
@@ -25,7 +25,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 「你们两个」三个字把 Nate 正式写进誓言——本书的家谱在此定稿。
 
-> **原句 2:** «Q2»
+> **原句 2:** She grinned wildly. “Then saddle up, partners. It’s time to take back our valley.”
 
 **中文理解：** 「那就上马吧，伙伴们。是时候夺回我们的山谷了。」
 
@@ -35,7 +35,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 「我们的山谷」与第一章 Roseland 那块褪色的路牌遥遥相望——她学会的「家园」一词，在这里武装完毕。
 
-> **原句 3:** «Q3»
+> **原句 3:** It was a good day to die.
 
 **中文理解：** 今天是个赴死的好日子。
 
@@ -45,7 +45,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 对照第十六章的站台——同一个 Nate，两次与死亡对视，一次差点迈步，一次稳稳站着。
 
-> **原句 4:** «Q4»
+> **原句 4:** She was right, of course. Family was everything. Which is why he said, “I have my family right here.”
 
 **中文理解：** 她说得对，家庭就是一切。所以他说：「我的家庭就在这里。」
 
@@ -55,7 +55,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 注意这句话的结构——前半句是敌人的修辞，后半句是他的回答；本书最漂亮的一次借力打力。
 
-> **原句 5:** «Q5»
+> **原句 5:** And when Randy shouted, “Don’t hit the girl!” Nate knew that he’d mattered.
 
 **中文理解：** 而当 Randy 吼出「别打中那女孩！」时，Nate 知道自己起了作用。
 
@@ -65,7 +65,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 看清这个细节的尺寸——不是战友的拥抱，是敌人的一声吼。最小的证据，最重的分量。
 
-> **原句 6:** «Q6»
+> **原句 6:** She knew love. She knew rage. She knew violence.
 
 **中文理解：** 她懂爱了。她懂愤怒了。她懂暴力了。
 
@@ -75,7 +75,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 下一句是 Alex 的一句 No——全书最好的教养示范：不说教，只拉住。
 
-> **原句 7:** «Q7»
+> **原句 7:** “You keep running, kiddo,” she muttered at the TV, smoke curling up around her head. “You keep right on running. Don’t you ever stop.”
 
 **中文理解：** 「你继续跑，孩子，」她对着电视咕哝，烟从她头顶盘旋而上。「你就一直跑。千万别停。」
 
@@ -85,7 +85,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 别快翻这两行——本书所有大人物都有谢幕词，这句话就是 Ruth 的。
 
-> **原句 8:** «Q8»
+> **原句 8:** It was as if they never were at all.
 
 **中文理解：** 就仿佛他们从未存在过。
 
@@ -96,6 +96,44 @@ modified: "2026-10-03"
 **读者视角提示：** 记住这口气——它同时是邀请：下一章会告诉你，谁替他们记得。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| reinforced | 加固的 | “It’s made of reinforced steel. |
+| walkie-talkie | 对讲机 | He reached down and picked up a walkie-talkie from one of the fallen soldiers. |
+| negligible | 微不足道的 | But it was negligible. |
+| surveillance | 监视；监控 | He was supposed to remain under surveillance, but he managed to give us the slip. |
+| parameters | 参数；范围 | To expand the parameters of the experiment. |
+| devastating | 毁灭性的；令人心碎的 | That first kiss, awkward and sweet and oh so fucking devastating. |
+| clattering | 哗啦落地 | The bullets dropped, clattering against the wooden porch, bouncing down the stairs and into the grass in front of the farmhouse. |
+| inherently | 天性地；固有地 | “That is inherently human. |
+| ricocheted | 跳弹；反弹 | The bullets ricocheted away as if hitting a large barrier around her. |
+| face-first | 脸朝下地 | He fell face-first into the grass. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| betrayed | 被背叛的 | Art was staring up at Alex as if betrayed. |
+| forsaken | 被抛弃的；被遗弃的 | The only family he had left had forsaken him. |
+| fiercely | 凶猛地；猛烈地 | She glared at him fiercely. |
+| crouched | 蹲下 | Alex crouched down in front of Art. |
+| billowing | 翻腾；鼓起 | “It’s time to go,” she said over her shoulder, her hair billowing around her head. |
+| tactical | 战术的；作战的 | A man in full tactical gear burst from a door on the right. |
+| sprawled | 四肢摊开地倒着 | Soldiers lay sprawled on the ground where they’d been knocked down by the basement door, which had landed near the stairs. |
+| mattered | 有分量；要紧 | That that was the only thing that mattered. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| bullhorn | 手持扩音器 | He carried a bullhorn. |
+| metal door | 金属门 | There was a banging on the metal door. |
+| helicopter above | 直升机悬在上空 | The thumpthumpthump of the helicopter above was fainter, but it still shook the walls. |
+| walls | 墙壁 | The thumpthumpthump of the helicopter above was fainter, but it still shook the walls. |
+| direction | 方向 | He swung his rifle in their direction, eyes wide behind the mask covering his nose and mouth. |
 
 ## 一句话总结
 
