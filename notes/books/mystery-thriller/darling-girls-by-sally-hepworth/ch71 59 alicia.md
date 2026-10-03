@@ -64,15 +64,15 @@ title: "59 – Alicia"
 
 ### 原句 5
 
-> **原句 5:** She apologised for not widening that circle to include him when they married. And she promised that things would be different when she came home.
+> **原句 5:** 'Serves you right,' Aaron said, 'for forcing foster kids to go to counselling.' 'Touché. Look, I think it might be . . . useful. I will say I feel much better about certain things now.'
 
-**中文理解：** 她**道歉**——为了没有在结婚时就**扩大那个圈子**把他包含进来。她**承诺**她回家之后，事情会不一样。
+**中文理解**：「**活该**，」Aaron 说，「**谁让你逼寄养的孩子去接受心理咨询。**」「**说得对。**听着，我觉得它**可能**……有用。我承认我现在对某些事情感觉好多了。」
 
-**关键词：** apologised for not widening that circle to include him, when they married, promised that things would be different when she came home
+**关键词：** Serves you right, for forcing foster kids to go to counselling, Touché, I think it might be . . . useful, I feel much better about certain things now
 
-**为什么这样写：** 全书对「**重新定义家**」最重的一句，而 widening the circle（扩大那个圈子）是 ch67 的核心词——那个圈子是**孤儿们**，而她是那个**用来测试家里可以容纳多少人的人**。而「她回家后事情会不一样」这一句是对 Phil 的**承诺**，而这个承诺的结构是：**她知道自己会再次离开**（去戒毒所），她承诺的是**回来时不一样**。
+**为什么这样写：** 全书对「**专业与私人的边界**」最微妙的一次处理：她抱怨「我花五十分钟说我自己的问题」，而 Aaron 用一句**把她的职业变成她的罪名**的反驳——Serves you right（活该）的讽刺在于：她把 counseling（咨询）强加给孩子，而**她自己正在接受咨询**。而 Touché 是一个**法语词**——它在英文里保留着冷淡的礼节，像 Aaron 那句「Touché. No!」一样，是这本书标记**家庭内部顶嘴**的专用词。而 it might be . . . useful 里的省略号说明她的「有用」还**没说完**，真正的承认要等到下一个词。
 
-**读者视角提示：** 读者会在这两句上第一次意识到：她对家的理解不是「房子」，是**一个可以画圆圈的地方**——而圆圈之外的人（Phil）被她**刻意留在了外面**。
+**读者视角提示：** 读者会在这几句上第一次意识到：她此刻的痛苦是**新的**——不是 Orphan 的痛苦，是**失去 Theo 的痛苦**，而那种「一有机会就给自己定罪」的机制**换了燃料，引擎没换**。
 
 ### 原句 6
 

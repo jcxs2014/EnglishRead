@@ -10,7 +10,7 @@ title: "21 – Norah"
 - **POV**：Norah
 - **场景**：Port Agatha 街上 → Wild Meadows 旧址（已拆除）
 - **时间**：ch24 同一天傍晚
-- **核心事件**：住进 Driftwood Cottages 之前，Norah 把 Kevin 的敲诈与自己的交易区分开——「这不是交易，这是勒索」，然后竖中指拍照了事；三人不约而同走回 Wild Meadows，发现房子已被夷平；她们在警戒线外遇到三名「其他寄养孩子」；Norah 一语点破：那三个女人就是**婴儿**——Amy、Niamh 与第三个
+- **核心事件**：住进 Driftwood Cottages 之前，Norah 把 Kevin 的敲诈与自己的交易区分开——「这不是交易，这是勒索」，然后竖中指拍照了事；三人不约而同走回 Wild Meadows，发现房子已被夷平；她们在警戒线外遇到三名「其他寄养孩子」；Norah 一语点破：那三个女人就是**婴儿**——Amy 与另外两个她们已认不出脸的女孩
 
 ## 精读
 

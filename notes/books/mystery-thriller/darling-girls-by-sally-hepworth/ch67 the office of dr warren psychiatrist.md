@@ -76,11 +76,11 @@ title: "The Office of Dr Warren, Psychiatrist（第 10 次问询 · 末次）"
 
 ### 原句 6
 
-> **原句 6:** 'I'll see you in court,' he says, and then the door clanks closes between us.
+> **原句 6:** 'I'll see you in court,' he says, and then the door clanks closed between us.
 
 **中文理解：** 「法庭上见，」他说，然后门在我们之间**哐当一声关上**。
 
-**关键词：** I'll see you in court, and then the door clanks closed between us
+**关键词：** I'll see you in court, and then the door clanks closed between us.
 
 **为什么这样写：** 全书对 Dr Warren 最冷的一次反转，因为它把他从**治疗师**换成了**对手**——而 I will see you in court（法庭上见）正是这句话的性质：这不是治疗关系的结束，是**诉讼双方**的照面。而 clanks closed（哐当一声关上）用**金属声**结束全书所有的插页，这个声音说明这扇门**装的是锁**——而 ch02 里他说过「We will do everything we can for her」，从那以后他做的每一件事，都是**程序**。
 
