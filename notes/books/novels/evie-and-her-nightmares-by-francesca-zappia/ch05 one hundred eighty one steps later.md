@@ -84,9 +84,12 @@ modified: "2026-10-03"
 
 **读者视角提示：** "在自己房间里有自由"是本书对隐私的准确定义：它不是隔离，是**不被评判的空间**。这一点后面还会被测试（ch21 她在有其他玩家的房间／公共场合里就没有这个自由了）。
 
-> **原句 8:** "The giddiness overwhelms me. I laugh in his face and say, loud enough for everyone to hear, “I’ll go myself."
+> **原句 8:** "The giddiness overwhelms me. I laugh in his face and say, loud enough for everyone to hear, “I’ll go myself. Maybe there I’ll actually learn something.”
 
-**中文理解：** 那股快活把我淹没了。我对着他的脸笑出声来，大声到所有人都能听见："我自己去。也许到了那儿我真能学到点东西。"
+
+I grab my folder and pencil off my desk and slide past Mr. Cox."
+
+**中文理解：** 那股快活把我淹没了。我对着他的脸笑出声来，大声到所有人都能听见："我自己去。也许到了那儿我真能学到点东西。"我抓起桌上的文件夹和铅笔，从Mr. Cox 身边走了过去。
 
 **关键词：** The giddiness overwhelms me · I laugh in his face and say, loud enough for everyone to hear · Maybe there I’ll actually learn something
 
