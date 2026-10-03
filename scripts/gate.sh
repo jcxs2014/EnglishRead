@@ -14,8 +14,26 @@ cd "$(git rev-parse --show-toplevel)"
 #   这与本项目已记录的「打印了成功」≠「文件改了」是同族：**量具报了失败，退出码说成功**。
 #   ⇒ 落一份完整输出，末尾按「是否含 ❌」聚合退出码。
 #   只认 ❌：⚠️（提示型）与 ❓（lane 降级不出结论）按 AGENTS 三档分类**不阻塞 commit**。
-GATE_LOG="${TMPDIR:-/tmp}/englishread_gate_last.log"
-exec > >(tee "$GATE_LOG")
+# ⚠️ 2026-10-05 修正（The Edge of Water ch20 实测假红）：`exec > >(tee "$GATE_LOG")`
+#   在受限沙箱里**静默失败**（`line 18: /dev/fd/62: Operation not permitted`，
+#   既不写日志也不影响后续命令的 stdout），于是末尾聚合读到的是**上一次、别的书**
+#   留下的旧日志 ⇒ 报出一条本次根本没跑出来的阻断型。
+#   **根因与「量具报了失败，退出码说成功」同族，但方向相反：量具根本没量，读的是陈旧读数。**
+#   ⇒ 改为「全量落盘 + 退出时回显」，且**必须先把原 stdout 存到 fd 3**：
+#     `exec > "$GATE_LOG"` 之后 trap 里的 `cat` 若不重定向到 fd 3，
+#     就会**把日志 cat 回日志自己**（`cat f > f`），得到一行空白 + 陈旧计数。
+# ⚠️ 同日第二次修正（实测仍在假红）：`$GATE_LOG` 是**固定路径**，本工作区多 IDE 并行，
+#   另一个 agent 的 gate.sh 会在我们 `cat` 的同时 `: > "$GATE_LOG"` 截断同一文件 ⇒
+#   读到 5 行（一行正文 + 一整行空白），末尾聚合也读到**别人的** 101 行输出。
+#   **教训（与 10-02 那次同族）：固定路径的共享临时文件 = 并行下的竞态源，
+#     「量具读数」在多进程下根本不属于本次运行。** ⇒ 路径加 `$$`（每次运行唯一）。
+GATE_LOG="${TMPDIR:-/tmp}/englishread_gate_last.$$.log"
+exec 3>&1
+: > "$GATE_LOG"
+exec > "$GATE_LOG"
+# shellcheck disable=SC2064
+trap "cat '$GATE_LOG' >&3" EXIT
+trap 'echo "gate.sh 中途中止（set -u 未定义变量等），以上为中止前的输出。" >&2' ERR
 
 echo "=== lane ==="
 [ -n "$EPUB" ] && echo "完整 lane（有 epub）" || echo "降级 lane（无 epub）"
