@@ -97,6 +97,45 @@ modified: "2026-10-03"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Coincidence | 巧合 | Coincidence, right? |
+| demolition | 拆除；爆破 | It was a controlled demolition, friends. |
+| hibernation | 冬眠；蛰伏 | When the thaw had started in April, he’d felt like he’d been awoken from hibernation. |
+| volunteered | 自愿做 | Aaron had volunteered to accompany him, but Nolan had waved him off. |
+| whimpering | 抽泣；呜咽 | Said beast jumped up on the truck, front paws hanging on the door, frantically whimpering as she tried to reach Nolan to lick his face. |
+| overthinking | 想太多；钻牛角尖 | “I don’t—I’m just overthinking things, I guess. |
+| unconsciously | 无意识地 | It happens unconsciously. |
+| Directionless | 没有方向的 | Directionless. |
+| telepathic | 心灵感应的 | They weren’t telepathic. |
+| statuesque | 高挑而仪态出众的 | But she was tall, statuesque, and astonishingly intelligent. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| meandered | 漫谈；闲扯 | His voice was rougher, and maybe he meandered more than he did before, but not much else had changed. |
+| circulate | 局部盘旋；流传 | It was destroyed by a storm that only seemed to circulate above that one specific region? |
+| fruition | 实现；结出果实 | Friends, it’s my belief that here, this year, in 2012, we will see everything I’ve told you come to fruition. |
+| satellite | 卫星 | Nolan switched off the satellite radio then. |
+| snowshoe | 雪鞋；穿雪鞋行走 | He’d even learned how to snowshoe better than Aaron ever could, much to his chagrin. |
+| precipice | 悬崖边缘；临界点 | He thought they were getting closer to an ending, on the precipice of a new beginning. |
+| malamute | 阿拉斯加雪橇犬 | She’d been a gift from Aaron a couple of Christmases ago, a black-and-white Alaskan malamute puppy with bright eyes and a cocky strut. |
+| marveled | 惊叹 | Aaron laughed as he walked down the steps, a throaty chuckle that Nolan still marveled over. |
+| fluttered | 轻颤；扑动 | Even now, even after all this time, his heart fluttered in his chest. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| young woman | 年轻女子 | A young woman sat in a small clearing outside the kitchen window next to the cabin. |
+| arms wide | 双臂张开 | Alex Weir had made a wounded noise, falling to his knees, spreading his arms wide. |
+| bedroom | 卧室 | And later, after the dishes were done and Sadie let out for the final time, Aaron led his husband by the hand to their bedroom. |
+| big guy | 大块头 | Aaron had always been a big guy. |
+| bones creak | 骨头咯吱作响 | Nolan felt his bones creak, not as young as he’d once been. |
+
 ## 一句话总结
 
 尾声把全书收成一个环：那个在山里被枪指着头的男人，如今在世界的另一头给人讲故事；她说她和平而来——而这本书从头到尾说的都是，和平不是抵达，是被人爱着、也爱回去。
