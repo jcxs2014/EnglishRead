@@ -40,7 +40,7 @@ modified: "2026-10-03"
 
 **关键词：** begins to speak from its pages · the trapped spirit of Div · urging Aiz to set her free
 
-**为什么这样写：** 全书最重要的一次"道具变成行动者"。书本来只是偷来的一件东西，作者用一个不及物结构 begins to speak 把说话的权利交给书本身，再用冒号加同位语 the trapped spirit of Div herself 立刻交代说话人是谁——Div 是本作真正的对手，而她的第一次登场发生在一页纸里。urging 与 set her free 组成一条干净的意图链：她要的不是复仇，是被放出来。
+**为什么这样写：** 全章最重要的一次"道具变成行动者"。书本来只是偷来的一件东西，作者用一个不及物结构 begins to speak 把说话的权利交给书本身，再用冒号加同位语 the trapped spirit of Div herself 立刻交代说话人是谁——Div 是本作真正的对手，而她的登场就发生在一页纸里。urging 与 set her free 组成一条干净的意图链：她要的不是复仇，是被放出来。
 
 **读者视角提示：** 注意这一句把 Div 写成 trapped（被困住的）。下面第 4 块里她说出的真相反转，正是从这里长出来的。
 
