@@ -1,0 +1,153 @@
+books: 354
+... 50 diffs 5
+... 100 diffs 6
+... 150 diffs 9
+... 200 diffs 14
+... 250 diffs 19
+... 300 diffs 21
+... 350 diffs 27
+=== DIFFS ===
+notes/books/mystery-thriller/abduction-of-a-slave-by-dana-stabenow: orig 30 -> new 14  only_orig 19 only_new 3
+   +NEW ❌ ch02 ch1 alexandria.md 原句1: 关键词不在本块引语内 → ['upside-down head（倒挂的头）']
+   +NEW ❌ ch10 ch9 cyrene.md 原句3: 关键词不在本块引语内 → ['flickering light（摇曳的光线）']
+   +NEW ❌ ch14 ch13 cyrene.md 原句2: 关键词不在本块引语内 → ['safest place（最安全的地方）']
+notes/books/mystery-thriller/how-to-solve-your-own-murder-by-kristen-perrin: orig 133 -> new 97  only_orig 43 only_new 7
+   +NEW ❌ ch01 prologue.md 原句10: 关键词不在本块引语内 → ['One of the girls（其中一个女孩）']
+   +NEW ❌ ch01 prologue.md: 结构对账失败 —— 关键词行 8 ≠ 引语块 9（内容可能被整段复制）
+   +NEW ❌ ch11 the appointment book.md 原句1: 关键词不在本块引语内 → ['grows wild（野生生长）']
+   +NEW ❌ ch11 the appointment book.md 原句3: 关键词不在本块引语内 → ['the least I could do（我至少能做的）']
+   +NEW ❌ ch17 the iron injection.md 原句2: 关键词不在本块引语内 → ['meddling（搅局）']
+   +NEW ❌ ch22 emily sparrow.md 原句3: 关键词不在本块引语内 → ['the boy...is back（男孩回来了）']
+notes/books/mystery-thriller/the-art-of-a-lie-by-laura-shepherd: orig 167 -> new 165  only_orig 2 only_new 0
+notes/books/mystery-thriller/the-lost-village-by-camilla-sten: orig 149 -> new 90  only_orig 68 only_new 9
+   +NEW ❌ ch23 now.md: 结构对账失败 —— 关键词行 7 ≠ 引语块 6（内容可能被整段复制）
+   +NEW ❌ ch32 now.md: 结构对账失败 —— 关键词行 7 ≠ 引语块 6（内容可能被整段复制）
+   +NEW ❌ ch39 then.md 原句4: 关键词不在本块引语内 → ['sweep over（扫过）']
+   +NEW ❌ ch42 now.md 原句3: 关键词不在本块引语内 → ['writhing chill（扭曲的寒意）']
+   +NEW ❌ ch43 now.md 原句6: 关键词不在本块引语内 → ["It's rusted（它生锈了）"]
+   +NEW ❌ ch55 then.md: 结构对账失败 —— 关键词行 7 ≠ 引语块 6（内容可能被整段复制）
+notes/books/mystery-thriller/wolf-hour-by-jo-nesbo: orig 171 -> new 124  only_orig 56 only_new 9
+   +NEW ❌ ch03 Dinkytown, September 2022.md 原句4: 关键词不在本块引语内 → ['peer', 'poster']
+   +NEW ❌ ch04 Oz, October 2016.md 原句3: 关键词不在本块引语内 → ['line', 'ballpark figure']
+   +NEW ❌ ch11 Liza, October 2016.md 原句1: 关键词不在本块引语内 → ['make it through']
+   +NEW ❌ ch13 Radica 20Q, October 2016.md 原句6: 关键词不在本块引语内 → ["hadn't immediately frightening"]
+   +NEW ❌ ch15 Taxidermy, October 2016.md 原句20: 关键词不在本块引语内 → ['nodded', "don't agree", 'glanced down', 'no hurry', 'no idea where he is']
+   +NEW ❌ ch31 The Great Equaliser, October 2016.md 原句1: 关键词不在本块引语内 → ['think of the question']
+notes/books/non-fiction/ten-bridges-ive-burnt-by-brontez-purnell: orig 249 -> new 248  only_orig 1 only_new 0
+notes/books/novels/a-thousand-monstrous-forms-by-saratoga-schaefer: orig 37 -> new 31  only_orig 10 only_new 4
+   +NEW ❌ ch08 the house likes to keep people.md 原句2: 关键词不在本块引语内 → ['terse']
+   +NEW ❌ ch10 be not too bold.md 原句4: 关键词不在本块引语内 → ['rather...than']
+   +NEW ❌ ch10 be not too bold.md 原句7: 关键词不在本块引语内 → ['etched']
+   +NEW ❌ ch10 be not too bold.md 原句8: 关键词不在本块引语内 → ['ring']
+notes/books/novels/butterfly-girl-by-sarah-floyd: orig 40 -> new 30  only_orig 24 only_new 14
+   +NEW ❌ ch01 not fair at the fair.md 原句1: 关键词不在本块引语内 → ['courtly']
+   +NEW ❌ ch08 mean greta.md 原句4: 关键词不在本块引语内 → ['taekwondo stance']
+   +NEW ❌ ch09 squashed bugs.md 原句3: 关键词不在本块引语内 → ["can't not listen"]
+   +NEW ❌ ch10 little bird.md 原句3: 关键词不在本块引语内 → ['not actually hideous']
+   +NEW ❌ ch11 the knock at the door.md 原句6: 关键词不在本块引语内 → ['winked']
+   +NEW ❌ ch13 mr black baseball cap.md 原句3: 关键词不在本块引语内 → ['eyes twinkled']
+notes/books/novels/earl-crush-by-alexandra-vasi: orig 60 -> new 37  only_orig 31 only_new 8
+   +NEW ❌ ch01 Chapter 1.md 原句1: 关键词不在本块引语内 → ['unsent draft（自嘲 + 私密手稿）']
+   +NEW ❌ ch02 Chapter 2.md 原句1: 关键词不在本块引语内 → ['never posted（遗憾 + 未寄出）']
+   +NEW ❌ ch10 Chapter 10.md 原句1: 关键词不在本块引语内 → ['family', 'know', 'here to do']
+   +NEW ❌ ch10 Chapter 10.md: 结构对账失败 —— 关键词行 6 ≠ 引语块 7（内容可能被整段复制）
+   +NEW ❌ ch12 Chapter 12.md 原句4: 关键词不在本块引语内 → ['did not mind']
+   +NEW ❌ ch13 Chapter 13.md 原句4: 关键词不在本块引语内 → ['wondering', 'feel under my fingers（刮胡子 + 想知道 + 手指下的感觉）']
+notes/books/novels/eye-of-leviathan-by-m-a-carrick: orig 29 -> new 3  only_orig 29 only_new 3
+   +NEW ❌ ch04 chapter 3.md 原句3: 关键词不在本块引语内 → ['arrested']
+   +NEW ❌ ch08 chapter 7.md 原句3: 关键词不在本块引语内 → ['truthfully（如实地）', 'courtesy（礼数）']
+   +NEW ❌ ch11 chapter 10.md 原句2: 关键词不在本块引语内 → ['pinning…in place（钉在原地）']
+notes/books/novels/golden-boy-by-a-j-symon: orig 33 -> new 89  only_orig 21 only_new 77
+   +NEW ❌ ch01 prologue.md 原句1: 关键词不在本块引语内 → ['Breathe——Emma 对 Hudson 的恳求']
+   +NEW ❌ ch01 prologue.md 原句2: 关键词不在本块引语内 → ['best friend——Emma 与 Hudson 的关系定义']
+   +NEW ❌ ch01 prologue.md 原句3: 关键词不在本块引语内 → ['生命早期到 sophomore year，时间跨越大。']
+   +NEW ❌ ch01 prologue.md 原句4: 关键词不在本块引语内 → ['only girl——Emma 的家庭位置']
+   +NEW ❌ ch01 prologue.md 原句5: 关键词不在本块引语内 → ['untested——Emma 的赌注。']
+   +NEW ❌ ch02 Chapter 1 Emma s Science Project.md 原句2: 关键词不在本块引语内 → ['golden retriever——Hudson 的身份']
+notes/books/novels/how-to-tell-a-true-story-by-tricia-springstubb: orig 30 -> new 29  only_orig 1 only_new 0
+notes/books/novels/jane-eyre-by-charlotte-bronte: orig 43 -> new 5  only_orig 38 only_new 0
+notes/books/novels/lace-by-shirley-conran: orig 115 -> new 102  only_orig 66 only_new 53
+   +NEW ❌ ch02 chapter 1.md 原句2: 关键词不在本块引语内 → ['painful memories——Lili 的道歉直接指向 Maxine 的旧创伤。']
+   +NEW ❌ ch02 chapter 1.md 原句5: 关键词不在本块引语内 → ['sensuality——Judy 的杂志被写成面向女性的精神陪伴。']
+   +NEW ❌ ch02 chapter 1.md 原句6: 关键词不在本块引语内 → ['business——Judy 把情感暴露等同于职业风险。']
+   +NEW ❌ ch02 chapter 1.md 原句7: 关键词不在本块引语内 → ['old bugger——Kate 对已故父亲又爱又恨的昵称式称呼。']
+   +NEW ❌ ch03 chapter 2.md 原句3: 关键词不在本块引语内 → ['not sure——Pagan 在命令中主动承认自己的局限。']
+   +NEW ❌ ch04 chapter 3.md 原句3: 关键词不在本块引语内 → ['stamina——Judy 的三项品质成为其他女孩羡慕的对象。']
+notes/books/novels/local-gods-by-melinda-salisbury: orig 88 -> new 81  only_orig 10 only_new 3
+   +NEW ❌ ch22 chapter twenty two.md 原句8: 关键词不在本块引语内 → ['stealing pets']
+   +NEW ❌ ch25 chapter twenty five.md 原句12: 关键词不在本块引语内 → ['sacrificed a girl', 'pinned it on her dad']
+   +NEW ❌ ch30 chapter thirty.md 原句54: 关键词不在本块引语内 → ['woods had chosen']
+notes/books/novels/pretty-bossy-by-arini-vlotman: orig 11 -> new 9  only_orig 2 only_new 0
+notes/books/novels/rooted-by-leopoldo-gout: orig 119 -> new 150  only_orig 34 only_new 65
+   +NEW ❌ ch01 Prologue.md 原句2: 关键词不在本块引语内 → ['juxtaposition']
+   +NEW ❌ ch01 Prologue.md 原句4: 关键词不在本块引语内 → ['mantra']
+   +NEW ❌ ch01 Prologue.md 原句5: 关键词不在本块引语内 → ['blade', 'yank']
+   +NEW ❌ ch02 Chapter One.md 原句2: 关键词不在本块引语内 → ['scarified']
+   +NEW ❌ ch02 Chapter One.md 原句3: 关键词不在本块引语内 → ['nameless untethered nostalgia']
+   +NEW ❌ ch02 Chapter One.md 原句4: 关键词不在本块引语内 → ['elapsed years', 'sun-faded']
+notes/books/novels/the-afterdark-by-e-latimer: orig 93 -> new 99  only_orig 62 only_new 68
+   +NEW ❌ ch02 evie arrives at northcroft.md 原句4: 关键词不在本块引语内 → ['to draw blood——Ada 的典型行为模式。']
+   +NEW ❌ ch03 the campus tour.md 原句2: 关键词不在本块引语内 → ['got kicked out——Aukley 的前科与社团背景。']
+   +NEW ❌ ch03 the campus tour.md 原句4: 关键词不在本块引语内 → ["Because he's a child——Holland 对 Bad Half 绰号的回击。"]
+   +NEW ❌ ch04 holland first look.md 原句4: 关键词不在本块引语内 → ['Drawing in a crowd——Ada 的社会性画像。']
+   +NEW ❌ ch04 holland first look.md 原句5: 关键词不在本块引语内 → ['about Evie——Evie 的外部观感。']
+   +NEW ❌ ch05 the welcome party.md 原句1: 关键词不在本块引语内 → ['not supposed to be here——Holland 对 Aukley 的宣示。']
+notes/books/novels/the-ancient-things-by-bonnie-quinn: orig 193 -> new 231  only_orig 17 only_new 55
+   +NEW ❌ ch12 10 the motherless.md 原句1: 关键词不在本块引语内 → ['impulse（冲动），shook her head no（摇头否定）']
+   +NEW ❌ ch12 10 the motherless.md 原句4: 关键词不在本块引语内 → ['drowned（溺水），thrashing in the darkness（在黑暗中挣扎）']
+   +NEW ❌ ch12 10 the motherless.md 原句7: 关键词不在本块引语内 → ["don't have to（不必），death is written in your family's blood（死亡写在家族血液里）"]
+   +NEW ❌ ch12 10 the motherless.md 原句8: 关键词不在本块引语内 → ['never born（从未出生），fully inhuman（完全非人）']
+   +NEW ❌ ch13 11 my childhood wasn t normal.md 原句2: 关键词不在本块引语内 → ['faster（更快），smarter（更聪明）']
+   +NEW ❌ ch13 11 my childhood wasn t normal.md 原句3: 关键词不在本块引语内 → ['chopped wood（砍柴），blistered palms（起泡的手掌）']
+notes/books/novels/the-green-road-by-anne-enright: orig 19 -> new 5  only_orig 16 only_new 2
+   +NEW ❌ ch04 emmet.md 原句7: 关键词不在本块引语内 → ['and rightdoing']
+   +NEW ❌ ch08 shannon airport.md 原句4: 关键词不在本块引语内 → ['no way to tell if this is good or bad']
+notes/books/novels/the-morningside-by-tea-obreht: orig 192 -> new 184  only_orig 33 only_new 25
+   +NEW ❌ ch01 prologue.md 原句5: 关键词不在本块引语内 → ['a stranger']
+   +NEW ❌ ch03 book i ena.md 原句8: 关键词不在本块引语内 → ['How unjust']
+   +NEW ❌ ch10 book ii bezi duras.md 原句1: 关键词不在本块引语内 → ['an archaeological dig']
+   +NEW ❌ ch14 book ii bezi duras.md 原句1: 关键词不在本块引语内 → ['to have failed to be adequately observant']
+   +NEW ❌ ch17 book iii mila.md 原句11: 关键词不在本块引语内 → ['the face always came off as grimly sincere']
+   +NEW ❌ ch18 book iii mila.md 原句24: 关键词不在本块引语内 → ['a small']
+notes/books/novels/the-phone-box-at-the-edge-of-the-world-by-laura-imai-messina: orig 78 -> new 3  only_orig 77 only_new 2
+   +NEW ❌ ch29 Chapter 28.md 原句4: 关键词不在本块引语内 → ['his real name was Shiori']
+   +NEW ❌ ch60 Chapter 59.md: 结构对账失败 —— 关键词行 7 ≠ 引语块 8（内容可能被整段复制）
+notes/books/novels/the-room-in-the-ground-by-john-ajvide-lindqvist: orig 139 -> new 310  only_orig 95 only_new 266
+   +NEW ❌ ch01 Prologue.md 原句3: 关键词不在本块引语内 → ['innocence 的主题']
+   +NEW ❌ ch01 Prologue.md 原句4: 关键词不在本块引语内 → ['revenge 的触发点。']
+   +NEW ❌ ch02 Chapter 1.md 原句1: 关键词不在本块引语内 → ['Kim 的审讯开场白。']
+   +NEW ❌ ch02 Chapter 1.md 原句2: 关键词不在本块引语内 → ['Rudbeck 作为加害者的暗示。']
+   +NEW ❌ ch02 Chapter 1.md 原句3: 关键词不在本块引语内 → ['Kim 的冷静回应。']
+   +NEW ❌ ch02 Chapter 1.md 原句4: 关键词不在本块引语内 → ['Rudbeck 的防御', 'pedophile 的自我欺骗。']
+notes/books/novels/until-august-by-gabriel-garcia-marquez: orig 12 -> new 6  only_orig 7 only_new 1
+   +NEW ❌ ch07 Chapter 6.md 原句13: 关键词不在本块引语内 → ['had already understood']
+notes/books/novels/worlds-collide-by-clint-hall: orig 57 -> new 29  only_orig 32 only_new 4
+   +NEW ❌ ch03.md 原句5: 关键词不在本块引语内 → ['icy fingers（Einar 的惨叫 / 哈加龙 / 冰冷的指尖）']
+   +NEW ❌ ch08.md 原句5: 关键词不在本块引语内 → ['spare Lila（怜悯 / 仆人 / 求情 / 饶恕 Lila）']
+   +NEW ❌ ch21.md 原句6: 关键词不在本块引语内 → ['new may live（Arios 死了 / 重生的 Ryos 活着 / 旧的死去 / 新的才能活过来）']
+   +NEW ❌ ch30.md 原句8: 关键词不在本块引语内 → ['impossible']
+notes/books/short-story-anthologies/ligotti-collected-short-fiction: orig 263 -> new 232  only_orig 84 only_new 53
+   +NEW ❌ ch04 dr voke and mr veech 1983.md 原句10: 关键词不在本块引语内 → ['lacquered cheeks（漆过的脸颊）']
+   +NEW ❌ ch05 alice s last adventure 1985.md 原句1: 关键词不在本块引语内 → ['indupliable（不可复制的）']
+   +NEW ❌ ch07 the greater festival of masks 1985.md 原句7: 关键词不在本块引语内 → ['lose hold upon its wearer（失去对佩戴者的控制）']
+   +NEW ❌ ch10 the agonizing resurrection of victor frankenstein citizen of genev 1985.md 原句4: 关键词不在本块引语内 → ['to beg someone to do something（求某人做某事）']
+   +NEW ❌ ch16 the unnatural persecution by a vampire of mr jacob  1985.md 原句2: 关键词不在本块引语内 → ['to get on your nerves（让人神经紧张）']
+   +NEW ❌ ch16 the unnatural persecution by a vampire of mr jacob  1985.md 原句3: 关键词不在本块引语内 → ['to be verified by several honest and reliable persons（被几个诚实可靠的人证实）']
+notes/books/short-story-anthologies/the-best-short-stories-2026-by-o-henry-prize-winners: orig 20 -> new 6  only_orig 20 only_new 6
+   +NEW ❌ ch01 five bridges.md 原句⑨: 关键词不在本块引语内 → ['Dad——这个称呼本身。全文里斯坦只在 Zoom 里不小心入镜过一次，而杰拉尔丁在这里把它说出口。']
+   +NEW ❌ ch05 where are you and where is my money.md 原句①: 关键词不在本块引语内 → ['这个词是她替 Felix 设下的标准，标准一立，自欺就自动完成。']
+   +NEW ❌ ch08 she bear.md 原句③: 关键词不在本块引语内 → ['`his maw`——原文用 maw 这个词写熊的嘴，本句是头一次。']
+   +NEW ❌ ch09 this time and the next.md 原句②: 关键词不在本块引语内 → ['`something someone else did`——省掉的是关系代词 that，从句本身完整，直接挂在先行词后面。']
+   +NEW ❌ ch09 this time and the next.md 原句⑥: 关键词不在本块引语内 → ['`squeeze it until it hurts`（捏到疼为止）——until 引导的时间状语从句给出终止条件']
+   +NEW ❌ ch17 waiting a quintet.md 原句②: 关键词不在本块引语内 → ['这是她对 Wally 的评价，也是他们之间的关系定语：她崇拜他的手艺，讨厌他的语气。']
+total diffs 27
+sum only_orig 898 sum only_new 737
+
+=== 结论（人工判读）===
+- 对比方式：`git show HEAD:scripts/check_block_keywords.py` 取原版 → 逐书跑新旧两版 → 按 ❌ 行集合求差（去重、去诊断后缀后比较）。
+- 第一次对比作废：原版被拷到 /tmp 后 `sys.path.insert(0, '/tmp')`，`from chapter_text_path import ...` 抛 ModuleNotFoundError ⇒ 原版在 306 本书上是**崩溃**而非「0 缺陷」，`orig 0 -> new N` 全是假差异。第二次加 `PYTHONPATH=scripts` 重跑（0 CRASH）。
+- 净变化（27 本有差异）：only_orig 898 / only_new 737，差值（−161）是**假红消失**；only_new 是**新暴露的真实缺陷**，不是新增假红：
+  · only_orig 主体是「关键词行 0 ≠ 引语块 N」+ 随之被跳过的整段关键词检查（裸 `- 关键词：` 形态认不到）。
+  · only_new 主体是「关键词不在本块引语内」，抽查两条均为真缺陷：ligotti ch05 原句1 关键词写 `indupliable`（原文 `induplicable`，拼错）；the-lost-village chN `writhing chill（扫过）` 不在本块引语内。
+- 短篇合集样例书 the-best-short-stories-2026：20 → 6（剩下 6 条是该书自身真实缺陷，不在本书范围）。
+- ligotti（`> **原句 N:**` 档，无 `## 精读结束总结`/`## 可迁移表达`）**未被判为短篇合集档**，配额仍走言情 3–8 ⇒ 保持原行为，与改动前一致（该书 84 条 only_orig 全是「结构对账失败」消失，非判据变化）。
