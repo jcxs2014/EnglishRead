@@ -101,7 +101,7 @@ modified: "2026-10-03"
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | formidable | 了不起的；令人生畏的 | Beneath the single crescent moon, I could just make out the hazy outline of the Maze, the formidable, confusing labyrinth of canyons, cliffs, and mountain passes that marked the end of the Barren Steppes. |
-| desolate | 荒凉的；荒芜的 | Out here on the Barren Steppes, a cracked, endless stretch of desolate earth and rock, the air still shimmered with heat, but the temperatures were marginally cooler now that night was approaching. |
+| shimmered | （因热浪）微微颤动；闪烁 | the air still shimmered with heat |
 | evasive | 闪烁其词的；回避的 | Even now, whenever I asked about the mysterious iylvahn queen, he was evasive in his answers, saying that she would explain everything when we got to Irrikah. |
 | chitinous | 甲壳质的；像甲壳的 | In her chitinous black armor that blended in with her mount, she even looked like she could be part beetle. |
 | equilibrium | 平衡；均衡 | Stomach churning, I pushed myself off the saddle horn, trying desperately to find that equilibrium Kysa spoke of. |
@@ -115,7 +115,7 @@ modified: "2026-10-03"
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| carapace | 甲壳（背甲） | Even for a rock beetle, Rhyne was enormous, with a shiny black carapace and a horn that was over four feet long. |
+| carapace | 甲壳（背甲） | Rhyne was enormous, with a shiny black carapace and a horn that was over four feet long. |
 | nomads | 游牧者 | Kysa was a warrior of the Scarab Clan, the insect-riding nomads who wandered the Barren Steppes. |
 | topple | 推翻；使倒塌 | One who ignored prophecy and—according to my adoptive father, Vahn—was an agent of chaos that could topple kingdoms, shift the future and, sometimes, change the course of the world. |
 | seer | 预言者；先见者 | The queen was also a seer. |
@@ -124,8 +124,8 @@ modified: "2026-10-03"
 | slither | （蛇）滑行 | I looked over at the bushes and saw a ripple of movement beneath the branches, as something long and slender slithered back into the darkness. |
 | grimly | 严峻地；语气沉重地 | “That was a dust adder,” Raithe said grimly, causing my stomach to turn. |
 | the Weave | 织锦（本作宇宙观的核心意象：命运即万物互连） | “All threads affect each other in the Weave,” he went on, referring to the great Tapestry of the World, where all souls were bound together by Maederyss, Goddess of Fate. |
-| thread | （织锦里的）线；此处指一个人的命运 | “It’s what I do with the time before my thread is cut that matters.” |
-| Grieve | 哀悼；悲伤（动词） | “Grieve the person you loved and hold those memories close.” |
+| thread | （织锦里的）线；此处指一个人的命运 | It’s what I do with the time before my thread is cut that matters.” |
+| Grieve | 哀悼；悲伤（动词） | “It is never wrong to grieve the cutting of a thread, even if removing that thread was essential to the rest of the Tapestry.” |
 | thump | 砰的一声（闷响） | Kysa landed Rhyne next to me with barely a thump. |
 | trek | 徒步跋涉 | Still, it was far faster than having to trek all the way across the Barren Steppes on foot. |
 
