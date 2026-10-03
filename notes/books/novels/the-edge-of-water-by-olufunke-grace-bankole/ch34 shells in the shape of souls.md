@@ -7,7 +7,7 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：全书最短的 Iyanifa 章之一，只有四段：预言说"灵魂会在天上或人间重逢"，然后在机场海关口，Joseph 和 Laila 认了彼此。
+- **一句话概括**：全书最短的 Iyanifa 章之一，正文只有五段：预言说"灵魂会在天上或人间重逢"，然后在机场海关口，Joseph 和 Laila 认了彼此。
 - **情感弧线位置**：整章是一条上升线，四段各抬一级：预言 → 听见声音 → 见面 → 拥抱。作者不做任何铺垫，因为"灵魂认得"不需要铺垫。
 - **母题兑现/反转**：灵魂的母题兑现为「在海关口认出彼此」：预言说生命在天上地下都会实现它最深切的渴望，而这一章的渴望是重聚。Joseph 和 Laila 相认靠的不是介绍、不是照片——这一章的母题是：血缘不写在脸上，写在认得。
 - **人物弧线**：Laila 不会叫他 baba、uncle 或 grandpa，她在心里叫他"the old man"——这是一个拒绝命名、却已完成认领的人。Joseph 那边则是他一辈子"几乎放弃组建家庭"之后的第一次。
@@ -35,9 +35,9 @@ modified: "2026-10-03"
 
 **为什么这样写：** ★ "Laila would never call him baba, uncle, or even grandpa" 是全书对称呼制度最精细的一次拒绝：她排除了约鲁巴语里的父亲、泛称的叔叔、英语的爷爷——三个层级全否。而 "she called him the old man" 不是贬义，"warmly" 这个副词把它变成了一个私语称呼。
 
-★ "could they have been kin, she wondered, in another life?" 是这章与 ch18（ORUNMILA 那章的转世）直接勾连的地方：Iyanifa 系统的"灵魂"论在这里第一次落到一个具体的人身上。
+★ "could they have been kin, she wondered, in another life?" 是这章最克制的一句：她不用 baba、uncle、grandpa 任何一个称呼，只在心里叫 the old man——"另一世的血亲"这个念头因此只被提出，不被确认。
 
-**读者视角提示：** "his understanding, without her having to say much"——被理解得最省力的一次，是 ch29 那封没拆的信起作用了：她不用解释自己是谁。
+**读者视角提示：** "his understanding, without her having to say much"——被理解得最省力的一次，是 ch29 那个旧皮包里的照片先起了作用：她不用解释自己是谁。
 
 > **原句 3:** "And the moment they saw one another, it was confirmed. Their mutual liking was immediate and inexplicable, as with souls between whom goodness has transpired."
 
@@ -59,7 +59,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** ★ "he looked like what father might be"（他长得像"父亲可能"的样子）用虚拟语气把"父亲"降格成一种可能性——Laila 拒绝那个称谓，却认下了那张脸。而 "in a handful of lifetimes" 里的 handful 给出上限：不是永远，是几次；这是作者对"永恒"唯一一次给出数量词的地方。
 
-★ "They will forever find each other again"（将来时＋forever）把 ch30 结尾 Joseph 独自跑去加油站的"以后会"落实为叙事事实。
+★ "They will forever find each other again"（将来时＋forever）把前文那句"in a handful of lifetimes, Laila had been Joseph's daughter"（在若干世里她做过他的女儿）落实成叙事事实：这一次，forever 第一次有了具体的人。
 
 **读者视角提示：** "Joseph waited behind the customs gate"——他在闸口后面，不是在到达大厅。这是父亲等女儿的方式。
 
@@ -69,9 +69,9 @@ modified: "2026-10-03"
 
 **关键词：** Joseph opened his arms to hug her · The tightness in her head dissolved · she felt she deserved this new and strange happiness · blessings take the time they take · destiny does not hurry
 
-**为什么这样写：** ★ "The tightness in her head dissolved" 与 ch21 那句"沉重感落下"是同一个动词的第二次出现：Laila 的头痛从 ch24 那晚（看了太多短信）一路带到机场，此刻才松开。
+**为什么这样写：** ★ "The tightness in her head dissolved" 是全书少见的直接身体反应：十九年里她第一次觉得自己配得上这份陌生而巨大的幸福，于是紧了一路的弦在父亲张开的手臂里松开。
 
-★ "blessings take the time they take—destiny does not hurry" 是全章的收束，也是对 ch30 那个"两个月后"的注脚：Joseph 十六年没等到的东西，不会因为她要来了就加速到来。
+★ "blessings take the time they take—destiny does not hurry" 是全章的收束，也是对 ch30 结尾 Joseph 反复揣度 Laila 如今多大了的注脚：Joseph 十六年没等到的东西，不会因为她要来了就加速到来。
 
 **读者视角提示：** "new and strange happiness"——两个形容词都是贬义化的：幸福对她而言是陌生的，而她一直在为陌生感道歉。
 

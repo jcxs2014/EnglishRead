@@ -31,7 +31,7 @@ modified: "2026-10-03"
 
 **关键词：** despite my admonitions · the tithings and fasts, the prophets and iyanifas · within the orbit of the world I had created · What could I do?
 
-**为什么这样写：** 禁食、什一、先知、iyanifa 四样排成一句，是全书写祭祀最经济的一次；「我亲手造出来的那个世界」把母爱与牢笼写成一个动作。
+**为什么这样写：** 禁食、什一、先知、iyanifa 四样排成一句，是写祭祀最经济的一次；「我亲手造出来的那个世界」把母爱与牢笼写成一个动作。
 
 **读者视角提示：** 「What could I do?」是这一章的转折：承认劝告失败之后，她只剩记录。
 
@@ -43,7 +43,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 母亲先复述女儿的判断（「多少人会被它压死」），再交代自己没有压死；「你想要的比我任何时候都要多」是全章唯一一次她承认女儿比她勇敢。
 
-**读者视角提示：** 这是全书母女和解的起点：Esther 在这里第一次不为女儿的出走辩护，只描述它。
+**读者视角提示：** 这是母女和解的起点：Esther 在这里第一次不为女儿的出走辩护，只描述它。
 
 > **原句 4:** "“America.” As soon as you said it, I regretted the things between us yet unsaid. I recalled my meeting with Iyanifa, four years before. And yet my heart felt heavy with hope. You would leave in exactly one month, having kept from us all the planning that led you here. “I didn’t want you to worry,” you said."
 
@@ -61,7 +61,7 @@ modified: "2026-10-03"
 
 **关键词：** from the family who went before you · how costly those short, shouting phone calls could be · That was why we agreed to write letters · I wish I’d had more time. Even now.
 
-**为什么这样写：** 一句「我真希望我有多一点的时间」在同一段里出现两次，第二次加上「即使现在」；把「寄钱和写信」写成家族经验，通信于是不是母女间的浪漫约定，而是被前人教训逼出来的制度。
+**为什么这样写：** 一句「我真希望我有多一点的时间」在同一段里出现两次，第二次加上「即使现在」；把「写信」写成家族经验，通信于是不是母女间的浪漫约定，而是被前人教训逼出来的制度。
 
 **读者视角提示：** 重复句是 Esther 这一章的节奏标记：她想说的从来不是同一件事，而是同一件后悔。
 
@@ -85,7 +85,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 接在下一段「那是你走之前我们谈的最后一句话」之后——她记得很清楚，因为她后来全错了。
 
-> **原句 8:** "At the time you came, the end of harmattan season, a measure of dust had coated the cement ground as we chattered inside. There is a superstition. It belongs to our people alone. Like much in our culture, it is born of the threat of loss. If you are ever to see the traveler again, the lore goes, their shoes will make a discernible print that even the wildest harmattan couldn’t scatter—a message to the one staying behind. As they go, so they shall return. A minute after you left, I pushed aside the curtains to see what the ground had to say."
+> **原句 8:** "At the time you came, the end of harmattan season, a measure of dust had coated the cement ground as we chattered inside. There is a superstition. It belongs to our people alone. Like much in our culture, it is born of the threat of loss. If you are ever to see the traveler again, the lore goes, their shoes will make a discernible print that even the wildest harmattan couldn’t scatter—a message to the one staying behind. As they go, so they shall return. A minute after you left, I pushed aside the curtains to see what the ground had to say. One month later, I began these letters."
 
 **中文理解：** 你来的时候，正是 harmattan 季的末尾，屋里说话时，一层薄薄的白尘已经覆在水泥地上。有一个说法。这说法只属于我们族人。和我们文化里许多东西一样，它诞生于对失去的恐惧。传说里，如果你还能再见到那个远行的人，他的鞋会在地上留下一个认得出的印子——连最凶的 harmattan 都吹不散——那是留给留下的人的话。他们怎么去，就怎么回来。你走后一分钟，我拨开窗帘，看地面想说什么。一个月后，我开始写这些信。
 

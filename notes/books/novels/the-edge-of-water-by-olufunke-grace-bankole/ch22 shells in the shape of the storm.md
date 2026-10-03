@@ -21,7 +21,7 @@ modified: "2026-10-03"
 
 **关键词：** faith rests not in herself · new family
 
-**为什么这样写：** 本章第一句就否定了三种旧支柱（自己／城市／上帝），只剩"家人"。作者用 "so long as" 和 "because of" 两个条件句把母爱写成一条脆弱的推理链——Amina 活着不是因为强，而是因为有人替她挡着。
+**为什么这样写：** 本章第一句就否定了三种旧支柱（自己／城市／上帝），只剩"家人"。上一段用 "so long as" 和 "because of" 两个条件句把母爱写成一条脆弱的推理链——Amina 活着不是因为强，而是因为有人替她挡着。
 
 **读者视角提示：** 留意 Amina 反复用 "because of" 解释自己的安全；这种把安全感全部外包给别人的说话方式，正是第十九章 Esther 写"我已没有那种神力"的镜像。
 
@@ -51,9 +51,9 @@ modified: "2026-10-03"
 
 **关键词：** STRAY DOGS GREW RUTHLESS · weaving between babies
 
-**为什么这样写：** 作者把野狗写得极冷：它们不是恶兽，只是"饥饿"和"蒙羞"的产物（"their eyes droop, heavy with something like shame"）。紧接着 "weaving between babies crying for milk and arms cradling the shoulders of tired mothers" 这整句，让狗穿过母亲怀抱的画面同时写出灾祸的伦理——连最亲的人也无法护卫。
+**为什么这样写：** 作者把野狗写得极冷：它们不是恶兽，只是"饥饿"和"蒙羞"的产物（后文另有一句"它们的眼睛耷拉着，像背着某种羞愧"）。紧接着 "weaving between babies crying for milk and arms cradling the shoulders of tired mothers" 这整句，让狗穿过母亲怀抱的画面同时写出灾祸的伦理——连最亲的人也无法护卫。
 
-**读者视角提示：** "waiting to die in the grayish-blue dark" 里的那个 like，让死亡也带上了一种模糊、暧昧的质感。
+**读者视角提示：** "waiting to die in the grayish-blue dark" 里那个"灰蓝的暗"，让死亡也带上了一种模糊、暧昧的质感。
 
 > **原句 5:** "ORUNMILA, YOU WARNED of it."
 
@@ -93,7 +93,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章最后一句，把灾祸重新扣回约鲁巴的生命观：生与死不是对立，而是同一条循环的两端。结尾那句 "The shells tell me so"（贝壳这么说）是本书 iyanifa 的固定落款——预言者永远以贝壳作结，暗示她说的不是自己的话。
 
-**读者视角提示：** 这句和第一、二章 Esther 为 Amina 写的信首尾呼应：整本书关于"女儿"的所有预言，最后都收在这一个定义上。
+**读者视角提示：** 这句和第二章 Esther 写给 Amina 的那封信首尾呼应：整本书关于"女儿"的所有预言，最后都收在这一个定义上。
 
 ## 本章词汇
 

@@ -23,11 +23,11 @@ modified: "2026-10-03"
 
 **为什么这样写：** ★ "the feeling that this wouldn’t end well" 与第三十一章的主题 judgment 同形：这一次的审判者是 Laila 自己，作者让它先于任何外部人物出现。而 "cast a gray sluggishness on everything in motion—like feet dragging" 把心理写成了物理阻力；"she could make a home wherever she went" 则是她给自己签的合约，第三十一章末尾它会被证明是空头支票。
 
-**读者视角提示：** "like feet dragging" 是全书唯一一处把心理状态直接比作跛行——而第二十四章 Joseph 也有过一条腿的僵。
+**读者视角提示：** "like feet dragging" 是本段把心理状态直接比作跛行的写法——对照第二十一章 Joseph 的 "He became unsettled"，两处都是身体先于心理给出信号。
 
 > **原句 2:** "Laila had made good on her plan—almost. Two weeks after she turned nineteen, she’d moved out on her own. Partly by working for Fatima, part babysitting, part hoarding her allowance the last three years, she had saved enough for first-last-and-deposit on an apartment that was admittedly in one of the shadier parts of town. And though Aunty Fatima had to co-sign the lease, this was Laila’s place, fully."
 
-**中文理解：** Laila 把自己那个计划做成了——差不多。两年前她满十九岁，就搬出来单住了。一部分靠在 Fatima 店里做工，一部分给人带孩子，还有一部分是这三年攒下的零用钱；她攒够了交一套"首付—尾款—定金"的钱，租下一间诚然位于城里比较乱的区段的公寓。虽然还需要 aunt 联名签租约，但这里完完全全是 Laila 自己的地方。
+**中文理解：** Laila 把自己那个计划做成了——差不多。原文是 "Two weeks after she turned nineteen"——满十九岁两周后，她就搬出来单住了。一部分靠在 Fatima 店里做工，一部分给人带孩子，还有一部分是这三年攒下的零用钱；她攒够了交一套"首付—尾款—定金"的钱，租下一间诚然位于城里比较乱的区段的公寓。虽然还需要 aunt 联名签租约，但这里完完全全是 Laila 自己的地方。
 
 **关键词：** first-last-and-deposit · this was Laila’s place, fully
 

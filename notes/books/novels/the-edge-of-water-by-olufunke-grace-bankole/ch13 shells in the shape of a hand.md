@@ -8,8 +8,8 @@ modified: "2026-10-03"
 ## 本章导航
 
 - **一句话概括**：预言者把整条债务链一次摊开：Sani 的一生只挂在一件事上——他从不承认自己错了；为了圆这个谎，他偷走了女儿买机票的钱。
-- **情感弧线位置**：全书因果链的枢纽章；前十二章的家庭史在这里第一次被解释成一个人的性格缺陷。
-- **母题兑现/反转**：手的母题兑现为「围绕一个人聚拢」：全书的因由由 Iyanifa 一句交代——那个拖腿的第六个人，是其余灵魂重聚的催化剂。几世之间她做过他的妹妹、做过他的父亲；关系一直变，聚拢的动作一直没变。
+- **情感弧线位置**：因果链的枢纽章；前十二章的家庭史在这里第一次被解释成一个人的性格缺陷。
+- **母题兑现/反转**：手的母题兑现为「围绕一个人聚拢」：因由由 Iyanifa 一句交代——那个拖腿的第六个人，是其余灵魂重聚的催化剂。几世之间她做过他的妹妹、做过他的父亲；关系一直变，聚拢的动作一直没变。
 - **人物弧线**：Sani 从「可以随时重来」走向「无处可退」——连他可以在文字里重写自己这件事，最后也失效了。
 - **叙事手法**：第一人称预言＋散文化传记交替：一段专断的宣判之后接一整段童年史；段落用全大写起头（THIS IS HOW THE LIE began）标记情节转折。
 
@@ -33,7 +33,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 把最固执和必然重复的结局并置，等于宣布自由意志在 Sani 身上从未生效；和第一章同一种句式（The shells tell me so），把预言和宿命钉在一起。
 
-**读者视角提示：** 这一句也是第二十二章「他们归位」那一幕的预告。
+**读者视角提示：** 这一句也是第二十二章那场风暴的预告。
 
 > **原句 3:** "SANI’S ENTIRE LIFE HAS hinged on one thing: his inability, even in the privacy of his mind, to admit he was wrong. That he raped his first wife, Esther, he refused to consider a crime. Without it, he wouldn’t have been able to marry her, and their daughter Amina would not have been born. That he later married Amina’s friend, despite his daughter’s distress, certainly wasn’t a crime."
 
@@ -43,7 +43,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章最冷的一段：把强奸和重婚一起写成「不算罪」，再顺着这个逻辑推出女儿的存在也属于这笔账；「不算罪」的循环论证在此被完整摆出，也是后来他盗款的动机起点。
 
-**读者视角提示：** 「Without it…」是全书最狠的因果句式之一——女儿的出生被写成一份不能退还的赃物。
+**读者视角提示：** 「Without it…」是最狠的因果句式之一——女儿的出生被写成一份不能退还的赃物。
 
 > **原句 4:** "That was until the one lie—the telling of which, the doubling down on of which, and the shameless repetition of which had the trinal effect of destroying his relationship with Amina, alienating those who had wanted to believe in him, and tormenting his mind with the thought that others now saw him for who he was."
 
@@ -53,7 +53,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 以三重清单给出「一个谎」的价目表：外部、关系、内部各收一笔；「让他觉得别人看清了他是谁」把外部惩罚转成内部刑罚，为第二四六段的自责找到学名。
 
-**读者视角提示：** 「trinal」呼应下一段关于 Trinity 的说法；谎言被作者用神学的计数单位衡量。
+**读者视角提示：** 「trinal」（三重效力）把这次谎言的后果拆成三件数出来；全书正文并未出现 Trinity 一词，这个数是叙述者自己的。
 
 > **原句 5:** "“Walk with your dignity, Sani. Stop looking down at that dead leg. What can it do for you, hehn? You walk with your head like this.” His father straightened his neck and pushed his shoulders back to show him how."
 
@@ -61,9 +61,9 @@ modified: "2026-10-03"
 
 **关键词：** Walk with your dignity, Sani · Stop looking down at that dead leg · What can it do for you, hehn? · You walk with your head like this
 
-**为什么这样写：** 父亲两句里完成了全书对 Sani 最深的塑造：先废掉他的残疾，再给他一套表演方案；「抬起」的姿态从此成为 Sani 一生的姿势，第五章他用精工衬衫撑住的正是它。
+**为什么这样写：** 父亲两句里完成了全书对 Sani 最深的塑造：先废掉他的残疾，再给他一套表演方案；「抬起」的姿态从此成为 Sani 一生的姿势，本章后文他挑剔女儿衣着外形的挑剔，也是同一种「端正」的强迫。
 
-**读者视角提示：** 对照后面十一章里他对女儿外衣的指手画脚——那套清洁的目光是这里学到的。
+**读者视角提示：** 对照本章后文他嫌女儿穿得太松、盯着她裸露手臂那一场——那套挑剔的目光是这里学到的。
 
 > **原句 6:** "If Sani did not look like a man on the brink, this was deliberate. In our culture, appearance is a weapon of survival—favor is showered upon those who already look blessed. And because grace begets more grace, the fortunate remain so. However long he could help it, Sani would be well-dressed and his car would be the best he could afford. Further debt for the sake of others’ respect and even envy was worth the price he paid."
 
@@ -73,7 +73,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 把「面子」写成一套经济系统，恩宠的自我复制逻辑解释了他为什么必须装体面；末尾一句连同欠债一起算进去，把破产与尊严并列为他的两条账单。
 
-**读者视角提示：** 第六章 Esther 卖首饰承办宴席那三年学的正是这套逻辑——文化是被先修出来的。
+**读者视角提示：** 第六章 Esther 卖衣卖首饰、接私厨活计那几年学的正是这套逻辑——文化是被先修出来的。
 
 > **原句 7:** "And there, as if by divine trickery, was Amina’s purse, hanging off a chair’s shoulder. In that cursed instant, having no time to debate, Sani pulled the zipper and went straight to the bottom. He felt a thick roll of bills, yanked it out, and shoved the money in his pocket."
 
@@ -81,19 +81,19 @@ modified: "2026-10-03"
 
 **关键词：** as if by divine trickery · hanging off a chair’s shoulder · having no time to debate · pulled the zipper and went straight to the bottom · a thick roll of bills
 
-**为什么这样写：** 钱的两个量词对比极强：椅背的肩／口袋，都是身体部位，一件私人物品被写成一个小身体；「没有时间犹豫」把跨越十年的决定压进几秒。
+**为什么这样写：** 钱的两个量词对比极强：椅背的肩／口袋，都是身体部位，一件私人物品被写成一个小身体；「没有时间犹豫」把一个几秒之间做出的决定压进最坏的时机。
 
 **读者视角提示：** 上帝成了共谋——「as if by」五个字把作者的责任推得干干净净。
 
-> **原句 8:** "She begged for the day off from the shop and took the bus to Lagos. Sani responded in the ways that had absolved him since he was a child. First, anger: “Ah ah, Amina. Are you serious? You’re accusing me of stealing! From you?” That didn’t stick, so then calm: “I swear, I didn’t do it,” he told his daughter, in a breath slightly above a whisper. Nothing in his eyes or voice revealed more than what he’d said. But it was the words themselves. Amina thought they lacked the details one would have offered when telling the truth. It was as if he’d had those words ready, awaiting her accusation. Sani believed that if he declared a thing with enough anger or charm, there was nothing more to say."
+> **原句 8:** "AMINA CONFRONTED SANI. She didn’t fear what he might say because he was no longer hers to lose. Later that night, after he had left—in bed, turning through dreaming—she’d decided. She begged for the day off from the shop and took the bus to Lagos. Sani responded in the ways that had absolved him since he was a child. First, anger: “Ah ah, Amina. Are you serious? You’re accusing me of stealing! From you?” That didn’t stick, so then calm: “I swear, I didn’t do it,” he told his daughter, in a breath slightly above a whisper. Nothing in his eyes or voice revealed more than what he’d said. But it was the words themselves. Amina thought they lacked the details one would have offered when telling the truth. It was as if he’d had those words ready, awaiting her accusation. Sani believed that if he declared a thing with enough anger or charm, there was nothing more to say."
 
 **中文理解：** Amina 向 Sani 对质。她不怕他说什么，因为他已经不再是属于她、她能失去的那个人。那天夜里他走后，她躺在床上，梦里翻来覆去——那时她已经决定了。她向店里请了一天假，坐公交去 Lagos。Sani 用的是他从小就习惯的那套脱罪方式。第一是愤怒：「哎哎，Amina，你认真的吗？你告我偷你的钱！从你那里？」这招不奏效，于是转为平静：「我发誓，我没干，」他告诉女儿，声音比耳语高一丝。他的眼神和嗓音里没有透露任何超出他所说的话的东西。但问题就在那些话本身。Amina 觉得那些话里缺少一个人说真话时会给出的细节。仿佛他早就备好了这些词，等着她的指控。Sani 相信，只要用足够的怒气或魅力宣布一件事，就再没有什么可说的。
 
 **关键词：** First, anger · Are you serious? You’re accusing me of stealing · I swear, I didn’t do it · in a breath slightly above a whisper · they lacked the details one would have offered · awaiting her accusation · nothing more to say
 
-**为什么这样写：** 全章最长的一块，把两段台词摆在同一段里对照：愤怒的版本带问号和抱怨，平静的版本只有六个字；细节缺失这一句是全书对撒谎机制最精确的描写。
+**为什么这样写：** 全章最长的一块，把两段台词摆在同一段里对照：愤怒的版本带问号和抱怨，平静的版本只有六个字；细节缺失这一句是对撒谎机制最精确的描写。
 
-**读者视角提示：** 预告片式的写法——先给 Amina 的决定，再给 S 的两套说辞，读者同时握住了结果和过程。
+**读者视角提示：** 预告片式的写法——先给 Amina 的决定，再给 Sani 的两套说辞，读者同时握住了结果和过程。
 
 ## 本章词汇
 

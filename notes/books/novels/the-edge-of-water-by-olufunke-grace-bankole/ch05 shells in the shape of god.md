@@ -7,7 +7,7 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：八岁的 Amina 为了留在父亲家里，替继母编了一整套巫术指控，最后伤到自己的名声，只能半夜和母亲搬离 Elekuro 街。
+- **一句话概括**：八岁的 Amina 住进父亲家几周后，继母 Lara 因屡次流产而认定 Esther 送她去行巫术；Amina 把这套说法在教堂里复述加厚，用它当作逃回家的借口，最后伤到自己的名声，只能半夜和母亲搬离 Elekuro 街。
 - **情感弧线位置**：童年的第一次自我毁坏：她第一次尝到「谎言会反噬」滋味，也是母女第二次共同逃亡。
 - **母题兑现/反转**：神的母题兑现为「沉默的应答者」：搬走一年后 Amina 才敢再想父亲，而她得出的结论不是神不回答——是神的沉默里放着一句「这件事与你有关」。这一章让缺席第一次有了形状。
 - **人物弧线**：Amina 从「父亲大概是因为我才走的」一路滑到主动布局说谎；Esther 则被推回「在文化面前我到底是女儿还是母亲」的位置上。
@@ -23,7 +23,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 把所有权写成一句家常话，母亲自己都当作常识；正因为是常识，读者才会感到这套逻辑无法被个人意愿推翻。
 
-**读者视角提示：** 第三章逼婚、第四章承认出轨，都出自同一套常识。
+**读者视角提示：** 第四章的逼婚、第四章的接受出轨，都出自同一套常识。
 
 > **原句 2:** "But while I sat in their parlor, Sani and his new wife, Lara, brought me foil-wrapped sweets and a large Fanta. So I begged my mother to let me stay. Determined as she was when she left Sani, she believed what the culture said about who children belonged to. Besides, she said, school was out, so I could stay for the next two months."
 
@@ -33,7 +33,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 一包糖和一瓶汽水就把孩子买下了；叙述者随即拆母亲的台，把「决心」与「相信」并置，让读者看见她一边做对的事、一边输掉女儿。
 
-**读者视角提示：** 「决心」这个词与上一章「决心离开」是同一个，语境完全相反。
+**读者视角提示：** 「决心」这个词与本章开篇「决心离开 Sani」是同一个，此刻却被用来支撑「孩子归男人所有」的常识——同一个词，两个方向。
 
 > **原句 3:** "With the discipline of times-tables recitation and the storytelling gift of a child who had lived before, I turned each adult’s suggestions into a layered tale of witchery that had never taken place. The door of the tiny rundown flat I shared with Esther had swung boldly into a universe of barely used toys and pushed me to talk and talk about things I didn’t really know."
 
@@ -61,7 +61,7 @@ modified: "2026-10-03"
 
 **关键词：** witch · That is why I ran
 
-**为什么这样写：** 全章最短的一句，也是唯一一句把因果摆到台面上的话：孩子跑，是因为大人编了话。事实与虚构在此处第一次被孩子自己说反。
+**为什么这样写：** 全章最短的一句，也是把因果摆到台面上的话：孩子跑，是因为大人编了话。事实与虚构在此处被孩子自己说反。
 
 **读者视角提示：** 这句里的「他们」比「我」重要。
 
@@ -83,7 +83,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章最短的判决书：不贞、暴力、贫穷都还能谈，唯独「不怕」是不能原谅的；叙述者在这里第一次明确说出「我们的文化」作为一个会定罪的主体。
 
-**读者视角提示：** 这句是第三章那句「文化」在本书里的定义。
+**读者视角提示：** 这句是第四章那句「文化」在本书里的定义。
 
 > **原句 8:** "She grabbed our clothes and whatever else could be bagged, and tossed them into plaid canvas totes. Unlike the women in the old neighborhood, the aunties here would not shame Esther. By the time we finished packing, two or three of them stood at our door with plastic containers of food and bottled drinks for the road."
 
@@ -91,9 +91,9 @@ modified: "2026-10-03"
 
 **关键词：** plaid canvas totes · aunties here would not shame
 
-**为什么这样写：** 结尾把第三章那句「阿姨」翻过来用：同一群人，当年被父亲叫来羞辱母亲；这一次她们端着饭盒来送行。角色的重复出现让读者自己完成对照。
+**为什么这样写：** 结尾把第三章那句「阿姨」翻过来用：相似的是另一群人——当年父亲叫来的是旧街那批会羞辱 Esther 的女人，这一次端着饭盒来的是不肯那样做的人。角色的重复出现让读者自己完成对照。
 
-**读者视角提示：** 第三章里的「街坊阿姨」就是这里送饭盒的人。
+**读者视角提示：** 第三章里被父亲叫来的「街坊阿姨」与这里送饭盒的阿姨不是同一群人（原文用的正是不像）。
 
 ## 本章词汇
 
@@ -135,4 +135,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-八岁的 Amina 为留在父亲家而编造巫术指控，最终被流言反噬，只能和母亲在半夜搬离 Elekuro 街。
+八岁的 Amina 住进父亲家几周后，继母 Lara 因屡次流产而认定 Esther 送她去行巫术；Amina 把这套说法在教堂里复述加厚，反被流言反噬，只能和母亲在半夜搬离 Elekuro 街。

@@ -7,7 +7,7 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：四十五岁的 Joseph 每天靠一杯咖啡和一串打钩的晨间动作撑着日子；他听说 Esther 的女儿要来美国，于是把每一天都活成了等待，然后为一张没亲上的嘴唇扎了四个轮胎。
+- **一句话概括**：四十五岁的 Joseph 每天靠一杯咖啡和一串打钩的晨间动作撑着日子；他听说 Esther 的女儿要来美国，于是把每一天都活成了等待，然后为一张没亲上的嘴唇把对方那辆车的每一条轮胎都扎穿了。
 - **情感弧线位置**：第二组人物线的开端：Joseph 是全书唯一一个「梦已经实现过、并且正在塌掉」的人，他的失败方式和 Amina 的逃亡正好互为镜像。
 - **母题兑现/反转**：梦的母题在这一章先被拆掉：Joseph 梦见的是自己四十五岁、开了十二年出租车的脸——那不是梦，是结算。真正的梦出现在更早：他还没开口就已经决定，无论 Maryam 说什么，他明天还会去买那杯咖啡。
 - **人物弧线**：Joseph 从「不问就不会知道」的一味躲避，走到亲手制造祸事，最后又回到母亲的塑料瓶前念那段祷告——三十二章里他要收回的正是这一段。
@@ -23,7 +23,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 「咒骂自己的脸」是全书唯一一次主角对自己外貌动怒，而紧接着的清单全是白发、酒窝、少年气——骂的是照镜子的动作，疼的是十二年没有进展；整段把衰老写成一份账单。
 
-**读者视角提示：** 注意「几乎没有别的可以拿出来示人」——这句是第三十四章「灵魂」那一段的回声。
+**读者视角提示：** 注意「几乎没有别的可以拿出来示人」——十二年的城市生活被这一句一笔勾销，它同时也是他此后的判词。
 
 > **原句 2:** "At 5:17 AM, it was still dark. But there Maryam was, behind the counter, making a first batch of the dark roast. Joseph would have to go inside the café. And no matter how their talk went, whatever she might say, he would stop in for coffee tomorrow, and every day after that. He had no reason to end it, other than he’d lived long enough—forty-five years—to know when things just weren’t working. Maryam was a sweet girl. At twenty-eight, of course she was, with no kids and Joseph helping to pay her rent. What she might have hoped for with him, he couldn’t say. His not asking, even after eight months, was deliberate. He didn’t want the work of knowing, and then having to do it. Joseph held the steering wheel and waited out the dawn."
 
@@ -63,7 +63,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 把玩笑写得又轻又重：上一段警官在笑「Kunta Kinte」，这一段是叙述者替 Joseph 补上的委屈；「拉伸心智与舌头」把一个名字的重量写成了生理成本。
 
-**读者视角提示：** 对照第六章 Esther 也在别人的店名、街名上被取笑——同一个笑，在这里是要命的。
+**读者视角提示：** 对照第六章 Esther 被指控巫术、San 于是停发抚养费——同一股闲话，在这里是要命的。
 
 > **原句 6:** "TWO WEEKS EARLIER, before this morning when Joseph would end things with Maryam, Rashid had shouted over the opened hood of Joseph’s taxi that Esther’s daughter, Amina, was coming to America. That simple announcement buoyed Joseph’s spirits, as if nothing in his life had ever been wrong. He’d felt so good, he thought he might cry. Though Amina’s arrival had nothing at all to do with him, he wrapped his heart around it and set it apart—purposed it as something to anticipate."
 
@@ -73,7 +73,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 把「无关的人要来了」写成一生中最强的兴奋，暴露他真正的空；「把它单独搁出来，指定成一个期待」是全书最准的一句心理描写——他不指望她，他只指望自己有个盼头。
 
-**读者视角提示：** 对照第 130 行他按国度和州数人：他的整个人生都在收集「见过的人」。
+**读者视角提示：** 对照「他记下的乘客来自三十二个国家、四十个州」那句：他的整个人生都在收集「见过的人」。
 
 > **原句 7:** "Joseph was already out of his car, arms tight at his sides and frantic about what he might do. He went back to the glove compartment. There, his serrated pocketknife. He walked up the curb to the man’s car and began to stab. Sharp, deep punctures in each tire; quick, quick—he didn’t have the time. He scraped the side of the car’s bumper, peeling the paint like pencil shavings."
 
@@ -93,7 +93,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章以第二次读同一份说明书收尾，物件没变、读的人变了：第一次是笑着塞进口袋，这一次是当作唯一的救生索；三瓶假泉水在此刻成了他唯一的资产。
 
-**读者视角提示：** 第三十四章他会再次面对这位母亲和这三瓶水——那一章的重量全压在这一段上。
+**读者视角提示：** 全章最实在的重量是那三瓶水：母亲的关心只有三瓶水，除此之外他一无所有。
 
 ## 本章词汇
 
@@ -132,4 +132,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-Joseph 在后视镜里骂自己老了，然后花一整天等着去咖啡馆和 Maryam 分手；她当着他的面吻了别人，他数着秒冲出去用折叠刀扎了四个轮胎，第二天照旧把母亲的塑料泉水和一段祷告词装进工作包——他全部的希望，是 Amina 会来的那个城市。
+Joseph 在后视镜里骂自己老了，然后花一整天等着去咖啡馆和 Maryam 分手；她当着他的面吻了别人，他数着秒冲出去用折叠刀把对方那辆车每一条轮胎都扎穿，又刮下一片车漆，第二天照旧把母亲的塑料泉水和一段祷告词装进工作包——他全部的希望，是 Amina 会来的那个城市。

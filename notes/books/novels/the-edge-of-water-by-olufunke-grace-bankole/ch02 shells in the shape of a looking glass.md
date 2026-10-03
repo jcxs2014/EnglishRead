@@ -45,7 +45,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 这一段里 Esther 还把自己算在人群里，记住这点——她后面会第一次退出人群。
 
-> **原句 4:** "On the day Joseph came to Mummy’s restaurant, nothing in the air prepared me for it. I have long believed that life predicts itself: before the best and worst of things, a kind of oracle appears."
+> **原句 4:** "On the day Joseph came to Mummy’s restaurant, nothing in the air prepared me for it. I have long believed that life predicts itself: before the best and worst of things, a kind of oracle appears. If there had been such an omen on my path, though, I must have missed it."
 
 **中文理解：** Joseph 来店里那天没有任何预兆；她一直相信命会先派一个预言者来报信，但这一次她没看见。
 
@@ -63,7 +63,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 把「证据清单」逐条否掉（他说、分析、朋友说），最后交给一个无法举证的身体感觉；这段自我辩护的语气，正是她必须为那封信辩护的原因。
 
-**读者视角提示：** 这是她一生唯一自信的判断，而她把它用在了 Joseph 身上，不是 Sani。
+**读者视角提示：** 原文自己就留了余量（At least once in life—maybe twice），而她把这份确信用在了 Joseph 身上，不是 Sani。
 
 > **原句 6:** "“There’s nothing out there but the dark.” He moved in his seat, toward me. “Besides, how will you get home?” The sound of his breath filled the car. I understood what would happen then. I’d heard other girls’ stories, and there was always one ending. I reached through Sani’s arms and turned the radio full blast. If this was going to happen to me, I didn’t want the sounds."
 
@@ -71,7 +71,7 @@ modified: "2026-10-03"
 
 **关键词：** radio · sounds
 
-**为什么这样写：** 全章唯一一处抵抗写成动作而不是呼喊：手臂穿过对方、拧大音量；声音被拿走后，剩下的只有叙述者的语速，读者被迫和她一起只剩听觉之外的东西。
+**为什么这样写：** 本章抵抗被写成动作而不是呼喊：手臂穿过对方、拧大音量；声音被拿走后，剩下的只有叙述者的语速，读者被迫和她一起只剩听觉之外的东西。
 
 **读者视角提示：** 这一段是全书最冷的十几行，务必一次读完，不要中途停下查词。
 
@@ -81,7 +81,7 @@ modified: "2026-10-03"
 
 **关键词：** brimmed · washing
 
-**为什么这样写：** 章末用天气收束身体：雨既是洗刷也是掩盖，怒火与感激同时落在同一场水上；书名里的「水」第一次以这种方式出现——不是淹没，而是冲掉。
+**为什么这样写：** 章末用天气收束身体：雨既是洗刷也是掩盖，怒火与感激同时落在同一场水上；书名里的「水」在第一章的预言之后，第一次以这种方式出现——不是淹没，而是冲掉。
 
 **读者视角提示：** 记住这个「水洗下去」的动词，它会在后文变成相反的用法。
 

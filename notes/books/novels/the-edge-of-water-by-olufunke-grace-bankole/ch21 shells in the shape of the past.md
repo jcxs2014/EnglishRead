@@ -9,7 +9,7 @@ modified: "2026-10-03"
 
 - **一句话概括**：Joseph 主动接近 George 和 Rashid 的修车铺，只为找到一个能自然提起 Amina 的机会；一场被取消的欢迎派对和一场真正的风暴，把这份刻意全部作废。
 - **情感弧线位置**：全书情感线的中段铺垫位——读者的期待被拉高又强行按住，让风暴到来时的失去有了重量。
-- **母题兑现/反转**：过去的母题兑现为「一直在场」：Joseph 把结交 Amina 这件事写进日记，藏在副驾驶的杂物格里，听男人们在修车间闲聊，甚至排练怎么不动声色地把话题引到 Esther 身上。旧事没有等他，它一直在旁边做铺垫。
+- **母题兑现/反转**：过去的母题兑现为「一直在场」：Joseph 把结交 Amina 这件事写进日记，藏在手套箱里，听男人们在修车间闲聊，甚至排练怎么不动声色地把话题引到 Esther 身上。旧事没有等他，它一直在旁边做铺垫。
 - **人物弧线**：Joseph 从「想促成什么」滑向「把全部热情押在一个身份上」；他敲门的指关节发肿、通讯录逐个按亮，都是这份徒劳的证据，卷末他仍以替别人高兴作为满足。
 - **叙事手法**：以 Joseph 的主观算计开篇（藏日记、听闲话、排练搭话），再用工友背地的议论把这份算计反转成他自以为的悲剧；作者先给读者他的意图，再让事实打脸。
 
@@ -31,7 +31,7 @@ modified: "2026-10-03"
 
 **关键词：** brief past with Esther · restaurant
 
-**为什么这样写：** 全段用 "the men weren't as ignorant as he thought" 反打上一段的自我安慰：他们什么都知道，只是不说。"they thought" 反复三次，把同情写成集体旁白——不确认，因此不算数。
+**为什么这样写：** 全段用 "the men weren't as ignorant as he thought" 反打上一段的自我安慰：他们什么都知道，只是不说。"they thought" 一次就把同情推给集体：他们不确认，因此不算数。
 
 **读者视角提示：** 这一段是全书对"共谋式沉默"最直白的一次描写：他们的慈悲全部建立在"不必开口"之上。
 
@@ -61,7 +61,7 @@ modified: "2026-10-03"
 
 **关键词：** failing · lost touch over time
 
-**为什么这样写：** "that was his failing" 里 "just" 承担了全部重量：他没有先出手，于是把一生归给一个被动语态。全段用三个 "Truthfully" 前置的真话，包裹一个不敢讲的事实。
+**为什么这样写：** "that was his failing" 里的被动语态承担了全部重量：他没有先出手，于是把一生归给一句被动句——而紧跟其后的 "Truthfully" 才是他真正想说的那句。
 
 **读者视角提示：** 留意他如何把"我失去了她"改写成"我没赶上"——这是全书男性角色处理愧疚的标准技术。
 
@@ -77,7 +77,7 @@ modified: "2026-10-03"
 
 > **原句 7:** "There is no other word but shock to describe what Joseph felt when he found out that George had vanished and Amina was pregnant. His hopes for a family—slightly delusional, he could admit—had crashed. He went to George’s apartment and knocked until his knuckles swelled. For the first time, he allowed himself to feel the anger—Joseph almost cried. He sat on the doorstep and waited, still hopeful."
 
-**中文理解：** 他以为能凑成一个家；真相是 George 已娶 Amina，他只敲到指关节发肿。
+**中文理解：** 他以为能凑成一个家；真相是 George 在老家另有妻，而她一直蒙在鼓里，他只敲到指关节发肿。
 
 **关键词：** delusional · knuckles swelled
 
@@ -93,7 +93,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** "to be sure those he loved were within his finger's reach" 把"联系得上"写成唯一的安全感；同段还点出 George 是他与 Rashid 之间的胶水——人一走，关系就散了。全章用这个动作收束，把风暴前的孤独落到一个手机屏幕上。
 
-**读者视角提示：** 对照第十七章他从不敢按下的那串号码：十二年沉默的人，最后的动作是翻通讯录。
+**读者视角提示：** 对照第十七章他在修车铺里只是坐在柜台后面的那个老人：十二年沉默的人，最后的动作是走到 Esther 面前。
 
 ## 本章词汇
 
@@ -135,4 +135,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-Joseph 得知 George 娶了 Amina 之后，把全部热情倾注到"成为 Esther 家人"这个念头上；一场被取消的欢迎派对、一通试探性的寒暄、一次没送出去的礼物之后，飓风来了。
+Joseph 得知 George 在老家另有妻、Amina 一直蒙在鼓里之后，把全部热情倾注到"成为 Esther 家人"这个念头上；一场被取消的欢迎派对、一通试探性的寒暄、一次没送出去的礼物之后，飓风来了。

@@ -11,7 +11,7 @@ modified: "2026-10-03"
 - **情感弧线位置**：从酒店房间的关门声（"LAILA CLOSED THE HOTEL ROOM DOOR AND WALKED down to the lobby."）走到预言式的散场；中间 Esther 看 Laila 脚上的尘土那一下，是全章唯一的安全确认。
 - **母题兑现/反转**：记忆的母题在此**反转**：章题是 remembering，可这一章几乎没有回忆，五个女人靠「同时在场」完成彼此的确认。Iyanifa 最后把边界说破了——只有上帝能定结局，人至多在想象。
 - **人物弧线**：Laila 从"刚下飞机"变成能被两个女人 cooing 着围住的人；Esther 从寄信人变成当面把信放进包的人；Joseph 变成那个解释石头名字、开车、把 Esther 的手揽在臂弯里的人。
-- **叙事手法**：章题是 remembering，而全章没有一句回忆：五个人是靠"在场"完成记忆的，Iyanifa 只在最后一段开口，说人只能想象。
+- **叙事手法**：章题是 remembering，而正文里 remembering 只出现在章题上：五个人是靠"在场"完成记忆的，Iyanifa 只在最后一段开口，说人只能想象。
 
 ## 精读
 
@@ -23,7 +23,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** ★ "could only be Oyin"（只能是 Oyin）——全章唯一一次用推理口吻认人，而 "Laila thought" 把结论按回猜测：Laila 认的是年龄，不是脸。
 
-★ "long lost and now returned"（失散已久、如今归来）——这套说法本来是给死人的；作者把它先借给一个活着的二十岁女孩，"returned" 因此提前兑现了 ch34 那句 "They will forever find each other again."
+★ "long lost and now returned"（失散已久、如今归来）——这套说法本来是给死人的；作者把它先借给一个活着的年轻女孩（原文只说 about the age Amina would be now，没给岁数），"returned" 因此提前兑现了 ch34 那句 "They will forever find each other again."
 
 ★ "floated over" 用了一个本该属于 Amina 的动作（Laila 在机场、在各处也是被人迎着走的），而全章她只写了这一次"飘"。
 
@@ -41,7 +41,7 @@ modified: "2026-10-03"
 
 ★ "put the letter inside Laila's handbag"（放进手提包）而不是把它交到她手上：手提包是她自己会打开的地方，Esther 不等她看，先替她把这件事安排好。
 
-★ "For you, my dear." 的 my dear 与 ch32 那封信里的 "my dear" 同一个称呼：Esther 对两个女儿用的是同一句话。
+★ "For you, my dear." 的 my dear 与 ch38 那封信结尾的 "My dear, don’t you worry" 是同一个称呼：Esther 对 Laila 说了两次。
 
 **读者视角提示：** 全章唯一一处 Esther 主动的肢体接触发生在这 94 个字符里；整章剩下的篇幅都在描述别人怎么围着她转。
 
@@ -57,7 +57,7 @@ modified: "2026-10-03"
 
 ★ "Some of the finest single daddies in Ibadan frequent that area." ——Laila 是 Amina 的女儿、Joseph 是 Joseph，这句玩笑是全书唯一一次把"父亲"当商品讲，而紧接在全章最沉的一段预言之前。
 
-★ "abi" 落在引语末尾而不是句中：Oyba 语的这个语气词在这里等于"行不行吧"，是撒娇的收尾。
+★ "abi" 落在引语末尾而不是句中：Yoruba 语的这个语气词在这里等于"行不行吧"，是撒娇的收尾。
 
 **读者视角提示：** Oyin 的整段话没有一句提到 Amina；她用"打扮得漂亮去坐石头"来抵消这个场合的重量，而 Esther 的下一句是 "Don't mind her, Laila."
 
@@ -89,9 +89,9 @@ modified: "2026-10-03"
 
 ★ "the outer edge of the roundabout"（环形路口的外圈）——外圈是绕圈的人走的，车停在这里的人不进圈；作者用停车位选出了她们和人群的距离。
 
-★ "The women locked their handbags in the trunk."：这一句里唯一重要的动词是 locked。ch24 讲过那座 dome 里没有人可去，ch38 讲过信被放进包里，这里是同一批女人第一次主动上锁。
+★ "The women locked their handbags in the trunk."：这一句里唯一重要的动词是 locked。本章前文写 Esther 把信放进 Laila 的包里，这里是同一批女人第一次主动上锁。
 
-**读者视角提示：** 三个动词（explained / sat / parked）全部属于 Joseph，而后座只有 nodding；这一段的分工和 ch45 那张石头上的座位完全一致。
+**读者视角提示：** 三个动词（explained / sat / parked）全部属于 Joseph，而后座只有 nodding；这一段的分工和本章前文那块石头上的座位完全一致。
 
 > **原句 6:** "They sat on the rock. Joseph’s arm around Esther, Oyin and Laila watching the morning’s unfolding, and Amina’s spirit between them, this was the closest the five had been since they held hands at Imole."
 
@@ -99,7 +99,7 @@ modified: "2026-10-03"
 
 **关键词：** They sat on the rock · Joseph · Oyin and Laila watching the morning · Amina · this was the closest the five had been since they held hands at Imole
 
-**为什么这样写：** ★ "this was the closest the five had been since they held hands at Imole"（这是五个人自 Imole 牵手以来最接近的一次）——全章的题眼，也是 ch01 那只手的回声；"closest" 是距离的度量，不是拥抱。
+**为什么这样写：** ★ "this was the closest the five had been since they held hands at Imole"（这是五个人自 Imole 牵手以来最接近的一次）——全章的题眼，也把 ch01 那个牵手的画面重新召回来；"closest" 是距离的度量，不是拥抱。
 
 ★ 句子的主语是 "the closest the five had been"，用的是一个系动词结构而不是动作；作者把"亲近"写成了一个状态，于是不必写谁碰了谁。
 

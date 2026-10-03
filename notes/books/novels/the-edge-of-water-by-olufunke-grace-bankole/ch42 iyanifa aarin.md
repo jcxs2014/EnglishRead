@@ -7,7 +7,7 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：全书最后一章，也是最短的一章：Amina 死后没有一个人在等她；Imole 提供"忘掉"，Aarin 提供"记住以便引路与警告"，而预言者自己选了后者——"Time has no borders here—she has yet to decide."
+- **一句话概括**：全书最后一章，篇幅在全书排第三短（最短的两章是前面的第二十七与第十八章）：Amina 死后没有一个人在等她；Imole 提供"忘掉"，Aarin 提供"记住以便引路与警告"，而预言者自己选了后者——"Time has no borders here—she has yet to decide."
 - **情感弧线位置**：从 "None of the family Amina knew awaited her return"（她认识的那家人没有一个在等她回来）走到这一章的最后一句：时间在这里没有边界，而她还没有决定。全章是一道没有答案的选择题。
 - **母题兑现/反转**：Aarin 的母题兑现为全书的落点：Imole 提供忘掉，Aarin 提供记住以便引路与警告——预言者自己选了后者。水的母题至此合拢成一句：记住，是为了下一次有人来得及。
 - **人物弧线**：这是 Amina 唯一一次在死后仍然作为"她"出场；而 Iyanifa 第一次把自己写进了选项里——"the middle place is what I, Iyanifa, Ifa priestess, mother of mysteries, diviner of Orunmila, chose."
@@ -25,13 +25,13 @@ modified: "2026-10-03"
 
 ★ "Their lives carried on"（他们的生活照旧）——carry on 是不给理由的继续；作者不写谁在哭、谁在办丧事，只用一个不及物短语。
 
-★ "Olodu was there, after her rest"——Olodu（冥界使者）是唯一出现的名字，位置在"歇过一阵之后"，不是同时。
+★ "Olodu was there, after her rest"——冥界使者是本段唯一出现的名字，位置在"歇过一阵之后"，不是同时。
 
 ★ "In the fleeting void that followed"（紧跟着的那段转瞬即逝的空当里）——void 一词把这一段写成两个事件之间的真空，然后 Esther 和 Laila 就填进来了。
 
-★ "as in a dream"（像在梦中）——全书对死者与活人相见的唯一一次描写，用的是"像"而不是"就是"。
+★ "as in a dream"（像在梦中）——死者与活人相见写成"像"而不是"就是"，这一笔落在最后的收束处。
 
-**读者视角提示：** "at their meeting, Amina was relieved"（见面时她松了一口气）——全章唯一的情绪动词，而它来自一个已经死了的人：她要的不是团聚，是被见到。
+**读者视角提示：** "at their meeting, Amina was relieved"（见面时她松了一口气）——本段唯一的情绪动词，而它来自一个已经死了的人：她要的不是团聚，是被见到。
 
 > **原句 2:** "Now she must decide the way to go."
 
@@ -53,7 +53,7 @@ modified: "2026-10-03"
 
 **关键词：** Imole, the brilliant edge, provides one solace · forgetting it all · Here, the past is like a bruise · the cause of which cannot be recalled · When it heals, there is an aching so profound
 
-**为什么这样写：** ★ "the brilliant edge"（明亮的边缘）——Imole 在 ch01 已经被解释成"世界的中心/边缘"，而这里作者第一次把它叫作 brilliant：那个选项之所以诱人，是因为它发着光。
+**为什么这样写：** ★ "the brilliant edge"（明亮的边缘）——Imole 在 ch01 已经被解释成"世界的中心/边缘"，而作者又一次把它叫作 brilliant（第一章那一句就是 At Imole, the brilliant edge）：那个选项之所以诱人，是因为它发着光。
 
 ★ "provides one solace"（提供一种慰藉）——one 的限定是这一段的技巧：只给一种，而不是唯一一种。
 

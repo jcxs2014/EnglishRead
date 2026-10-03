@@ -11,7 +11,7 @@ modified: "2026-10-03"
 - **情感弧线位置**：全章两次转折：前半是封闭的（"我认了，不怪任何人"），后半是门被推开一次。Esther 整封信只写到一个动作：她开始回话。
 - **母题兑现/反转**：春天的母题兑现为「解冻之后还长不出东西」：Esther 早就不听预言了，说自己得了好运的毛病。街坊从送饭变成劝她「往前走走」，她也认了——「我认下发给我的那副牌」。春天在这章不是季节，是别人反复推动而她纹丝不动的状态。
 - **人物弧线**：从第二十五章那个"胸里压满哭声"的母亲，到本章能对 Joseph 说完一整段话的人。转折点不是幸福，是"regret can keep you turning back"——她听懂了重复的那句。
-- **叙事手法**：书信体：每句都写成对已故的 Amina 说话（"Amina." 独立成段）。四个村民的判断被拆成四段独立成段的引语，像四行判决书；最后 Joseph 那句被重复两遍的话独占一段，是全章唯一的重音。
+- **叙事手法**：书信体：每句都写成对已故的 Amina 说话（"Amina." 独立成段）。四个村民的判断被拆成三段独立成段的引语，像三行判决书；最后 Joseph 那句被重复两遍的话独占一段，是全章唯一的重音。
 
 ## 精读
 
@@ -47,7 +47,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** ★ 这一段是全书对"社区的限度"写得最准的一笔：善意不是被恶意击退的，是被"礼节要求"筛掉的。Esther 承受不了表演感谢，而感谢正是来访的条件——"the customary gratitude"。于是 restraint 变成 dismissal，而她把这层变化归到自己的沉默上。
 
-★ "Soon, their restraint dissolved" 一句之后紧跟的是四段独立的引语（"She's lost her mind"等），结构上就是"溶解"的产物：先是三两句客套，然后把判断一句句交出来。
+★ "Soon, their restraint dissolved" 一句之后紧跟的是三段独立的引语（"She's lost her mind"等），结构上就是"溶解"的产物：先是三两句客套，然后把判断一句句交出来。
 
 **读者视角提示：** "When they did not receive the customary gratitude from me"——她没说"我没谢"，她说"他们没收到"。主语是他们的收取。
 
@@ -57,9 +57,9 @@ modified: "2026-10-03"
 
 **关键词：** Move on with what · Who can blame her
 
-**为什么这样写：** ★ 四句判决里最重的一句，因为它把同情做成了定罪。"Move on with what?" 把"move on"这个建议当场作废；"Who can blame her?" 则把它升级成全体共识——不但不怪她，还替她免了罪。Esther 后文在信里照抄了这个结构："I agree with them that I cannot be blamed"。
+**为什么这样写：** ★ 三句判决里最重的一句，因为它把同情做成了定罪。"Move on with what?" 把"move on"这个建议当场作废；"Who can blame her?" 则把它升级成全体共识——不但不怪她，还替她免了罪。Esther 后文在信里照抄了这个结构："I agree with them that I cannot be blamed"。
 
-★ 这四句的引号用法也值得注意：前两句是"我听见有人说"，后两句是"他们决定"（they decided）——作者把"决定"这个动作明确交给群体，Esther 只是"听见"。
+★ 这三句的引号用法也值得注意：前两句是"我听见有人说"，后两句是"他们决定"（they decided）——作者把"决定"这个动作明确交给群体，Esther 只是"听见"。
 
 **读者视角提示：** "She has nothing to live for"——她本来有的：她在第二十五章说过"Helplessness is impossible for a mother with empty arms"。
 
@@ -69,7 +69,7 @@ modified: "2026-10-03"
 
 **关键词：** I agree with them that I cannot be blamed · I accept the outlay of the shells I was dealt
 
-**为什么这样写：** ★ "I accept the outlay of the shells I was dealt" 是全书章题系统的第一次回收：shells（贝壳）＝发到手里的牌，而 dealt（发牌）是赌桌用语，庄家不在其中。Esther 十六年来一直在算这副牌，她算出的结论是"我不能被怪罪"——注意，"不能被怪罪"和"我有责任"在语法上同形，作者让她认了前一半，读者会自己追问后一半。
+**为什么这样写：** ★ "I accept the outlay of the shells I was dealt" 是章题系统在正文里的一次正面回收：shells（贝壳）＝发到手里的牌，而 dealt（发牌）是赌桌用语，庄家不在其中。这一句紧接在 "I agree with them that I cannot be blamed" 后面——她先同意"我不能被怪罪"，再收下这副牌；作者让她认了前一半，读者会自己追问后一半。
 
 ★ "We have dreams for the future, then destiny has its say" 用 then（然后）连接两个句子：先有梦，后有命。这个词序就是她十六年的实际经历。
 
@@ -81,7 +81,7 @@ modified: "2026-10-03"
 
 **关键词：** THEN JOSEPH RANG ME · letters with pictures of Laila tucked between the pages · I cannot forgive it
 
-**为什么这样写：** ★ 本章最重要的一次"旧账 + 新账"并置：Fatima 十五年寄照片（她记得 Laila），Esther 一次没回（她不敢问），而真正的原因此刻才被说出口——不是冷淡，是"Amina，是她和 Rashid 把你一个人留下"。这句话把 ch01 的母亲之死与 ch04 的"她们先去买饭"在 Esther 这里对上了。
+**为什么这样写：** ★ 本章最重要的一次"旧账 + 新账"并置：Fatima 十五年寄照片（她记得 Laila），Esther 一次没回（她不敢问），而真正的原因此刻才被说出口——不是冷淡，是"Amina，是她和 Rashid 把你一个人留下"。这句话把 ch01 的开场（Amina 与母亲的分别）扣在同一个交点上：当年母亲没说的那句，在这里被写成一句判决。
 
 ★ "I hadn't imagined his voice over the telephone, or any medium for that matter" 是全书"电话"这一媒介的总纲：第二十一章 Joseph 的收音机、ch30 他主动打的电话、ch31 通讯满格，介质从不缺席，缺席的是开口。
 

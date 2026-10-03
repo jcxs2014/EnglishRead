@@ -7,7 +7,7 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：全书最长、也是两条弧线交叉得最密的一章：Esther 为 Joseph 和 Laila 的到来准备一场宴席，Joseph 带着 Laila 走遍 Amina 住过的地方，最后他在 Esther's Palace 的包间里交还了那块 ankara 头巾。
+- **一句话概括**：两条弧线交叉得最密的一章：Esther 为 Joseph 和 Laila 的到来准备一场宴席，Joseph 带着 Laila 走遍 Amina 住过的地方，最后他在 Esther's Palace 的包间里交还了那块 ankara 头巾。
 - **情感弧线位置**：两条线同时走到底：Esther 这边从"不愿他带 Laila 出现"到允许，到见面时的娇嗔，到接过头巾时的无声落泪；Joseph 这边从"这辈子不会再有变化"到终于开口讲出他在 Superdome 看见过 Amina。
 - **母题兑现/反转**：欲望的母题兑现为「一生不肯命名的那部分」：Esther 的信一开始写的居然是 Joseph，Amina 一走，她再没问过。他却用了几世去追她，而预言把这段定为苦甜。欲望与爱同形，作者用不命名来把两者分开。
 - **人物弧线**：Esther 三段式准备（时间地点／食物／她自己）是她全书最完整的一次自我审视；Joseph 的"十七岁"在门口一秒钟回到六十多岁之前，而那场告白被他自己咽了回去。
@@ -21,7 +21,7 @@ modified: "2026-10-03"
 
 **关键词：** IN HER LETTERS TO AMINA, ESTHER HAD BEGUN WITH Joseph · he had moved to New Orleans · Life having drained her of the will for love · He has spent lifetimes chasing Esther · This part of their story will be bittersweet
 
-**为什么这样写：** ★ 全书唯一一次预言直接预告"苦乐参半"，而正文的走向证明它说的不是"没有结果"——两人真的重逢了，真正苦的是那十六年。
+**为什么这样写：** ★ 预言在这里直接给出 "This part of their story will be bittersweet"，而正文的走向证明它说的不是"没有结果"——两人真的重逢了，真正苦的是那十六年。
 
 ★ "Life having drained her of the will for love"（生命已经抽干了她爱的意愿）用的是完成时的被动结构，句首一个独立主格，主语不是她而是生命：Esther 不承认是自己的决定，是命运替她抽走的。
 
@@ -41,7 +41,7 @@ modified: "2026-10-03"
 
 ★ "something on her body betrayed the passage of time" 用背叛（betray）这个词，与章题 desire 形成对位：欲望的对象是年轻的身体，而身体会泄露真相。
 
-**读者视角提示：** "if she remembered right—and she was sure she did"——这种自我确证的插入语在 ch32 的信里也出现过，是 Esther 的语言标记：先给自己一个怀疑，再立刻堵上。
+**读者视角提示：** "if she remembered right—and she was sure she did"——这种自我确证的插入语（先给一个怀疑，再立刻堵上）是 Esther 写 Joseph 时的语言标记：她连自己的记性都要当场担保。
 
 > **原句 3:** "But Joseph was old too, wasn’t he? Whichever parts had fallen from their proper places on her were similarly drooped on him. She giggled, remembering the comedian who described an old man’s testicles over a commode as teabags dipped into a cup of water. “Men have no place to talk,” Esther said aloud. “Age is just as unkind to them.”"
 
@@ -53,7 +53,7 @@ modified: "2026-10-03"
 
 ★ "Age is just as unkind to them"（年龄待他们一样狠）用 them 指代男人，是 Esther 罕见的主动攻击；紧接着"如 as unkind"的对照就落在她自己身上。
 
-★ 放在 Joseph 视角的段落里、由 Esther 说出口，说明这章虽然名义是 Iyanifa，实际上两个人的意识在互相代入。
+★ 这句由 Esther 说出口，却放在 Joseph 视角的段落里：本章名义上归 Esther，意识却在两个人之间来回代入。
 
 **读者视角提示：** "Whichever parts had fallen from their proper places on her were similarly drooped on him"——一个 were 概括两具身体，是全章唯一把衰老写成对称的东西；对称意味着可平分，欲望因此减半。
 
@@ -107,7 +107,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** ★ "butterflies clawing at his belly"（蝴蝶在胃里抓）——生理冲动第一次用带爪的动作描写，全书对欲望最生理化的一次。
 
-★ "He was anxious to feel it" 用 anxious 而非 eager：他要的不是快，是那个感觉本身还在不在；而这个感觉从未消失，正是他六十七岁仍敢走进来的理由。
+★ "He was anxious to feel it" 用 anxious 而非 eager：他要的不是快，是那个感觉本身还在不在；而这个感觉从未消失，正是他到了这个年纪仍敢走进来的理由（原文只说 He was about her age）。
 
 ★ 门口的 Esther's Palace 外面是"浅粉和浅黄"，与 Esther 本章反复自陈的"vanity"同色系——颜色替她做了她不肯说的声明。
 
@@ -180,4 +180,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-六十七岁的 Esther 为 Joseph 和 Laila 准备一场宴席，地点是自己买下的那家 Esther's Palace，理由是"家"已经成了盛满悲伤的保险库；而 Joseph 终于交出那块十六年前在 Superdome 捡到的 ankara 头巾，告诉她：他看见过 Amina，在他们把她带走之前。
+上了年纪的 Esther 为 Joseph 和 Laila 准备一场宴席，地点是自己买下的那家 Esther's Palace，理由是"家"已经成了盛满悲伤的保险库；而 Joseph 终于交出那块十六年前在 Superdome 捡到的 ankara 头巾，告诉她：他看见过 Amina，在他们把她带走之前。

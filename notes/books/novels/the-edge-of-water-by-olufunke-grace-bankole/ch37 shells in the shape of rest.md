@@ -10,7 +10,7 @@ modified: "2026-10-03"
 - **一句话概括**：全章只有一个场景：suya 摊子外面，Laila 等 Esther。等到的人出现了，而那三封 Amina 留下的信就在桌上塑料袋里。
 - **情感弧线位置**：以“等”为轴的数级：等待、放开那口气、怀疑（闪回上一次约会）、确认（Esther 真的来了）、交付（信）。全章的 rest 不是休息，是终于可以停下来等。
 - **母题兑现/反转**：安息的母题兑现为「可以歇一会儿的下午」：尘土路上的烤肉摊、来来回回等客的姑娘、那句「她是什么样的人」。这一章不写大事件，只写一个女人终于有一个下午可以问别人她母亲是什么样的人。
-- **人物弧线**：Laila 从 ch33 那封“不敢写的信”推进到主动交信；Esther 从 ch35 的“不再独自准备”推进到把 Joseph 叫上、约定一起去那块石头。
+- **人物弧线**：Laila 从上一章“等见到 Joseph 再说”推进到主动交信；Esther 从知道女儿有话没说完，推进到让 Joseph 一起听见、并约定一起去那块石头。
 - **叙事手法**：以感官堆细节：瓶身上的啤酒公司名、Salif Keita 的无伴奏、Esther 的蓝色 kaftan 展开像翅膀、佛手柑与大蕉的气味。母女相认靠嗅觉，不靠台词。
 
 ## 精读
@@ -21,7 +21,7 @@ modified: "2026-10-03"
 
 **关键词：** The plastic bag with the three envelopes addressed to Esther · her new favorite drink since she arrived · Laila had not told Joseph she’d brought the letters · She wondered if her grandmother would tell her what Amina had written
 
-**为什么这样写：** ★ 三封信是 ch33 那段的实物兑现：那边她把它们写好、封上、贴上 Esther 的名字，这边它们躺在塑料袋里上桌。全书关于“一封信”的线在这两章完成闭环。
+**为什么这样写：** ★ 三封信是上一章那条线的实物兑现：那边她瞒着所有人把东西收进皮革包、打算见到 Joseph 再说，这边它们躺在塑料袋里上了桌。全书关于“一封信”的线在这里完成闭环。
 
 ★ “her new favorite drink since she arrived”（她来之后新的最爱）用一个孩子的口吻衡量一段跨国迁移：她爱上的是 Fanta。
 
@@ -105,7 +105,7 @@ modified: "2026-10-03"
 
 **关键词：** there was this rock in our old neighborhood · she would sit there for hours · Esther had not returned to the rock in all this time · Remembering had been unbearable · the iyanifa that rests underneath
 
-**为什么这样写：** ★ 这是 ch26 那块“旧街心的大石头”的第三次登场：ch26 是 Amina 从幻象里看见，ch37 是 Esther 讲出来，而它会由两个女人和一个 Joseph 一起去。这一句把石头从意象转成行程。
+**为什么这样写：** ★ 这是那块“旧街心的大石头”的再次登场：前面 Amina 从幻象里看见它，这里 Esther 把它讲出来，而它将由两个女人和 Oyin 一起去。这一句把石头从意象转成行程。
 
 ★ “Remembering had been unbearable”（回忆一直是承受不了的）用完成时加 been，把十六年压成一个状态；因此“不回去”不是决定，是她唯一能执行的动作。
 
@@ -123,9 +123,9 @@ modified: "2026-10-03"
 
 ★ “What I wouldn’t give to hear my girl’s voice again”（为了再听一次我女儿的声音，我什么都愿意给）用虚拟语气，是她十六年来唯一一次不掩饰的交易意愿。
 
-★ 她躺在卧室地板上——与 ch12 那层尘土、ch25 书信里 “my chest is heavy with crying” 同一位置：地板是 Esther 崩溃的地方。
+★ 她躺在卧室地板上——这一句把崩溃写成了姿势而不是情绪。ch12 书信里那层 harmattan 的尘土是母女出门前的地面；这一次水退了，塌下来的是 Esther 自己。
 
-**读者视角提示：** “She held the letters to her chest”——全章最后一句只有七个词，三封信的重量被压在一件具体的动作上：贴在心口。
+**读者视角提示：** “She held the letters to her chest”——全章最后一句只有六个词，三封信的重量被压在一件具体的动作上：贴在心口。
 
 ## 本章词汇
 

@@ -23,7 +23,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** ★ "cocooned inside the memory of a place"（蜷在一段记忆里）——全章的第一个动词 cocoon（作茧）把"回来"写成了包裹：人已经落地，壳还没有脱。
 
-★ "a place she could now claim"（一个她现在可以认领的地方）——claim 是所有权那个意义的动词，但作者把它用在一个地方而不是房子上；认领权是这趟旅行给她的唯一收获。
+★ "a place she could now claim"（一个她现在可以认领的地方）——claim 是所有权那个意义的动词，但作者把它用在一个地方而不是房子上；认领权是这趟旅行给她的实收。
 
 ★ "all by herself"（一个人）放在句末而不是开头：飞机上那个女人的提问先说了尼日利亚，最后才补上这个孤立的状语。
 
@@ -35,7 +35,7 @@ modified: "2026-10-03"
 
 **关键词：** Visiting my family · she’d said—a response that surprised even her · She felt as if she belonged to them now · Esther, Joseph, and Oyin
 
-**为什么这样写：** ★ "a response that surprised even her"（连她自己都吃惊的回答）——Laila 原本准备的是关于签证、工作之类的话，"我的家人"是自己溜出来的；全章她第一次被动地说出真话。
+**为什么这样写：** ★ "a response that surprised even her"（连她自己都吃惊的回答）——Laila 原本准备的是关于签证、工作之类的话，"我的家人"是自己溜出来的；她原本准备好的那一套话一句没用上。
 
 ★ "belonged to them now" 用的是 belong to（属于），而没有用 with；归属在这里是单向的动词结构，她把自己放进去了。
 
@@ -55,7 +55,7 @@ modified: "2026-10-03"
 
 ★ "Laila had options." 单独成句、用过去时：作者不写她选了哪一个，只先确认她有得选。
 
-★ 全章唯一一次她把"谢谢"说出口，而它接在别人的好意之后，不是接在道歉之后。
+★ 本章她唯一一次把"谢谢"说出口，而它接在别人的好意之后，不是接在道歉之后。
 
 **读者视角提示：** "She only wanted more time"——only 把选择缩到只剩时间这一项；这是她在尼日利亚学会的节奏（ch34 的 "destiny does not hurry"）。
 
@@ -65,13 +65,13 @@ modified: "2026-10-03"
 
 **关键词：** LAILA TOOK HER TIME · she’d sent a text message to Tosin—to accept his offer of discussing home · She was ready, now, to talk · memorized the necessary facts · about the Nigerian government and current fads · political and social trivia to lean the conversation her way · she needed someone to tell about her family
 
-**为什么这样写：** ★ "took her time"（不急不忙）——全书唯一一次把这个短语给 Laila：ch40 里 Esther 在等，ch42 里 Laila 在走，而这里她第一次用别人的时间表之外的速度。
+**为什么这样写：** ★ "TOOK HER TIME"（不急不忙）被放在全章标题的位置上：ch40 里 Joseph 还在为去留掂量（Let me think about it），ch42 里 Amina 死后还停在岔路口（Now she must decide the way to go），而这里她第一次用别人的时间表之外的速度。
 
 ★ "memorized the necessary facts about the Nigerian government and current fads"（背下必要事实）——必要（necessary）限定了背诵的用途：她不打算当百科，她要的是能撑起二十分钟对话的弹药。
 
 ★ "to lean the conversation her way"（把谈话往她那个方向上带）——lean 是斜靠：她给自己设计了一个有坡度的姿势，好让对方顺着滑下来。
 
-★ "she needed someone to tell about her family" 放在段末，用 need 而不是 want：全章唯一一次她承认自己需要别人。
+★ "she needed someone to tell about her family" 放在段末，用 need 而不是 want：她把"需要"说出了口。
 
 **读者视角提示：** "She was ready, now, to talk." 中间的逗号把 now 单独隔开——她准备好的是"谈"这件事，不是"谈什么"。
 
@@ -95,11 +95,11 @@ modified: "2026-10-03"
 
 **关键词：** Oh yes, I’m certain · when she asked about his decision to stay · I’m enjoying helping Esther run the restaurant · what would I be doing over there, at my age · I can’t tempt fate twice · He was full of cheer
 
-**为什么这样写：** ★ "Oh yes, I'm certain"（哦，是的，我很确定）——Laila 问的是 ch40 那个没答完的问题，而 Joseph 隔了一章才回；他用 certain 回答的其实不是他的去留，是他自己有没有想清楚。
+**为什么这样写：** ★ "Oh yes, I'm certain"（哦，是的，我很确定）——Laila 问的正是 ch40 结尾那个还没落地的去留（Let me think about it），隔了一章才有了回答；他用 certain 回答的其实不是他的去留，是他自己有没有想清楚。
 
 ★ "what would I be doing over there, at my age"——和 ch40 他自己那句 "If I stay, what would I do?" 一模一样的问句，现在换了主语、换了地点：他把自己的问题原样还给了"那边"。
 
-★ "I can't tempt fate twice"（我可不敢跟命运再赌一次）——全书最省的一次交代：二十年前的赌注是什么不必再说，赌输了是什么也不必再说。
+★ "I can't tempt fate twice"（我可不敢跟命运再赌一次）——全书最省的一次交代：赌注是什么不必再说，赌输了是什么也不必再说。
 
 ★ "He was full of cheer." 独立成句，作者不解释他在高兴什么：这一通电话的实质是一个六十多岁的人决定留下来，而他在电话线上听起来像刚拿到什么好消息。
 
@@ -111,9 +111,9 @@ modified: "2026-10-03"
 
 **关键词：** No one thought it would end this way for Joseph and Esther · though Amina had hoped it · Some might say it was because of their old age · Maybe it was in spite of it
 
-**为什么这样写：** ★ 全章最短的一处叙述者插话（163 字符），却是全章唯一一次把"原因"这个词提出又收回：because 和 in spite of it 在同一段里对峙，作者不给答案。
+**为什么这样写：** ★ 本章最短的一处叙述者插话（131 字符），却把"原因"这个词提出又收回：because 和 in spite of it 在同一段里对峙，作者不给答案。
 
-★ "though Amina had hoped it"（尽管 Amina 曾这样盼过）——这是 ch40 那条 gossip 的底牌：Esther 嫁给 Joseph 本来就是 Amina 的计划，而作者让唯一的知情人永远缺席。
+★ "though Amina had hoped it"（尽管 Amina 曾这样盼过）——本段的"这个结果"没被说破是什么结果：读者若记得 ch40 那条 gossip（说 Laila 是 Joseph 带回来的、曾与他同住美国），就会自己把它接上，而作者让唯一知道底牌的 Amina 永远缺席。
 
 ★ "Maybe it was in spite of it"（也许恰恰是因为年纪大了）——in spite of（尽管）接的是一个不指明的东西；它指向"年纪大"却又把它变成了优点。
 

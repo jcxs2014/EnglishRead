@@ -7,11 +7,11 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：全章只有 4 段、5 句：守灵长者张臂奔向 Imole 接她回来，Amina 在上升的最初时刻歇下，Olodu 在路上与她会合，而风暴之后，那五个人的下一世已经不可能了。
-- **情感弧线位置**：全书最短的一章，也是 Amina 死后的第一份官方判决。它不写悲伤，只写程序：接引、歇息、宣告"没有下一次"。
+- **一句话概括**：全章只有 4 段、10 句：守灵长者张臂奔向 Imole 接她回来，Amina 在上升的最初时刻歇下，Olodu 在路上与她会合，而风暴之后，那五个人的下一世已经不可能了。
+- **情感弧线位置**：最短的一章，也是 Amina 死后第一次被宣告。它不写悲伤，只写程序：接引、歇息、宣告"没有下一次"。
 - **母题兑现/反转**：Imole 的母题在此**反转**：守护 elders 冲上去准备迎接她，却不知道她的灵魂会选哪一个——是在 Imole 开始新的第一世，还是转去中间地带。这一章把「回家」改写成「选择」，而她此刻的疲惫正是选择的前提。
-- **人物弧线**：iyanifa 在此放弃了解释权。前面十九章她一直在劝、在拦、在预言，本章只剩一句 "THE SHELLS TELL ME SO."——判断权被交还给更古老的东西。
-- **叙事手法**：全章用将来时（will rest / will meet / will never be again）写已发生之事，把死亡处理成一条流程；"Aarin, the middle place" 的插入式注释，是全书神话系统唯一一次以词典体出现。
+- **人物弧线**：iyanifa 在此放弃了解释权。前面这二十六章里，她出现过的十一章一直在劝、在拦、在预言，本章只剩一句 "THE SHELLS TELL ME SO."——判断权被交还给更古老的东西。
+- **叙事手法**：全章用将来时（will rest / will meet / will never be again）写已发生之事，把死亡处理成一条流程；"Aarin, the middle place" 的插入式注释，是全书神话系统一次以词典体插进来的时刻。
 
 ## 精读
 
@@ -21,7 +21,7 @@ modified: "2026-10-03"
 
 **关键词：** left the world below · arms outspread · a first lifetime with new kin · Aarin, the middle place
 
-**为什么这样写：** 作者用 "arms outspread" 把迎接写成了拥抱的预备动作，可紧接着 "not knowing what her soul will choose" 就让这个拥抱悬空。★ "Aarin, the middle place, where a few souls retire" 三个插入语是全书神话系统唯一一次以词典体出现——retire 一词尤其冷：退场不是死亡，是退休。
+**为什么这样写：** 作者用 "arms outspread" 把迎接写成了拥抱的预备动作，可紧接着 "not knowing what her soul will choose" 就让这个拥抱悬空。★ "Aarin, the middle place, where a few souls retire" 三个插入语是全书神话系统一次以词典体插进来的时刻——retire 一词尤其冷：退场不是死亡，是退休。
 
 **读者视角提示：** "with new kin at Imole"（带上新的亲人）——她的一生被允许重来，但必须换一套亲属。
 
@@ -33,7 +33,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** "Her restlessness having been quenched" 是一句完成时独立结构，被提到句首当主语——作者借此让"躁动"本身成为一个已经结束的阶段。"she is now a weary one" 里的 one 承接的是 restlessness（先行词在后），可疲惫却接不住它：被浇灭的东西不会留下疲惫，只有活下来的人会。
 
-**读者视角提示：** "Olodu will meet her later on the way"——来接她的不是她生前祈祷的那一位，而是那位判过她的。
+**读者视角提示：** "Olodu will meet her later on the way"——来接她的是 Olodu，那个在这套秩序里判过她的人。
 
 > **原句 3:** "No matter what Amina chooses, another lifetime with the five of them will never be again. Olodu has declared it. Their hands will not be entwined. The storm has changed that."
 
@@ -41,9 +41,9 @@ modified: "2026-10-03"
 
 **关键词：** another lifetime with the five of them will never be again · Their hands will not be entwined · The storm has changed that
 
-**为什么这样写：** ★ 全书的因果落点：不是死亡拆散了他们，是风暴。三句话各用一个否定式收尾，节奏像三次关门，而最后一句把主语从命运换成了天气——这正是第九章 Esther 那句"土地空了的水必须有去处"的同一逻辑。"Their hands will not be entwined" 与第一章 "hands holding like twine" 互为倒影。
+**为什么这样写：** ★ 全书的因果落点：不是死亡拆散了他们，是风暴。三句话各用一个否定式收尾，节奏像三次关门。这正是全书那条老逻辑的收口：最后一句 "The storm has changed that" 把主语从命运换成了天气。"Their hands will not be entwined" 与第一章 "hands holding like twine" 互为倒影。
 
-**读者视角提示：** "Olodu has declared it"（已经宣告）——这是全书唯一一次，判决先于事实成立。
+**读者视角提示：** "Olodu has declared it"（已经宣告）——宣告紧跟在风暴造成的既成事实之后：先有 "The storm has changed that"，才有 "Olodu has declared it"。
 
 ## 本章词汇
 

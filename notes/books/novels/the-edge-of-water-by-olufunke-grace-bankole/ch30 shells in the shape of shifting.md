@@ -7,11 +7,11 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：十六年后六十多岁的 Joseph 养成了新晨间、开始"馋家"；母亲去世的旧账与风暴那晚的旧债一起被翻出来，于是他决定带 Laila 一起回尼日利亚——并顺带打听 Esther 有没有男人。
-- **情感弧线位置**：从"日子终于顺了"的松弛出发，经过母亲遗书那句"你是个好人，好儿子，成没成功另说"造成的二次崩塌，落到一个近乎轻快的决定上。这是全书唯一一次让 Joseph 有未来。
-- **母题兑现/反转**：位移的母题兑现为「身体回来了，作息还没跟上」：风暴之后 Joseph 的早晨整个换了一套——不再按部就班出车，而是先写下当天目标，再在阳台上做操。位移写的是这个人被重新排序，而不是他搬了家。
+- **一句话概括**：十六年后六十多岁的 Joseph 养成了新晨间、开始"馋家"；母亲去世的旧账与风暴那晚的旧债一起被翻出来，他打算回国，并提出带 Laila 一起走——并顺带打听 Esther 有没有男人。
+- **情感弧线位置**：从"日子终于顺了"的松弛出发，经过母亲遗书那句"你是个好人，好儿子，成没成功另说"造成的二次崩塌，落到一个近乎轻快的决定上。这一次 Joseph 的未来第一次是往前指的。
+- **母题兑现/反转**：位移的母题兑现为「身体回来了，作息还没跟上」：Joseph 的这套晨间习惯已经练了九年（原文：Three times a week for the past nine years, he’d practiced bodyweight exercises.）——不再按部就班出车，而是先写下当天目标，再在阳台上做操。位移写的是这个人被重新排序，而不是他搬了家。
 - **人物弧线**：他不再是第二十四章那个在穹顶里"从来没在关键时刻握过权"的人：他开始每天写当天的目标，并真的照做（Call Fatima）。"shifting" 不是他变了，是他终于允许自己移动。
-- **叙事手法**：全章由三段电话构成：与姐姐（已故，间接引用）、与 Fatima（直引）、自我独白（间接转述）。作者把最重的一击放进一封遗书，再用"going home feels like what I’m supposed to do"把同一件事翻转成"义务"——回家既是悔恨也是日程表。
+- **叙事手法**：全章只成一通电话（与 Fatima，直引），其余都是回忆与自我独白：过世的是 Joseph 的母亲，姐姐的话是回忆里的间接引用。作者把最重的一击放进一封遗书，再用"going home feels like what I’m supposed to do"把同一件事翻转成"义务"——回家既是悔恨也是日程表。
 
 ## 精读
 
@@ -21,9 +21,9 @@ modified: "2026-10-03"
 
 **关键词：** The room could have swallowed him · surrendered
 
-**为什么这样写：** ★ 章题 "shifting" 在这一段就写完了："THE ROOM COULD HAVE SWALLOWED HIM" 与 "surrendered" 是同一件事的两种说法——一个被巨大空间吞掉的人，姿态是"放弃"。作者把一觉将醒的身体写得像一场投降，为后面"他要回家了"提供了身体上的伏笔。
+**为什么这样写：** ★ 本段把位移写完了："THE ROOM COULD HAVE SWALLOWED HIM" 与 "surrendered" 是同一件事的两种说法——一个被巨大空间吞掉的人，姿态是"放弃"。作者把一觉将醒的身体写得像一场投降，为后面"他要回家了"提供了身体上的伏笔。
 
-**读者视角提示：** "Hours-old stubble cast a tint on his sleepy face"——胡子长了几个小时就算"染色"，这是被单独放大的细节：他在照镜子。
+**读者视角提示：** "Hours-old stubble cast a tint on his sleepy face"——胡子长了几个小时就算"染色"，这是被单独放大的细节。
 
 > **原句 2:** "Last night, out of nowhere it seemed, Joseph craved home—back home. He had been away for twenty-eight years and felt unrooted. America would never embrace him like the soil of Yorubaland—the comfort of his family village, where he was known by all of his names. We say in our culture that the place of one’s birth is curated to the needs of the body; its air, water, and land are remedial for the ailments of the foreign-gone. Sooner or later, they must return."
 
@@ -33,17 +33,17 @@ modified: "2026-10-03"
 
 **为什么这样写：** ★ "curated"（像配药一样被调配）把"乡愁"写成一份处方，这是全书对"回乡"最科学的一次表述：不是想念，是身体在按方子要药。而 "Sooner or later, they must return" 用的是复数 they——不是他一个人，是所有离乡的人。"felt unrooted" 一个词就把第二十八章的"没动"换成了"悬空"。
 
-**读者视角提示：** "where he was known by all of his names"——在美国他只有一个名字；在村里他有全部名字。回来＝把自己找全。
+**读者视角提示：** "where he was known by all of his names"——在美国他只有一个名字（原文：just three had made it onto his license，他出生时有六个）；在村里他有全部名字。回来＝把自己找全。
 
 > **原句 3:** "With George and Rashid years gone, Fatima and Laila all the way in the San Francisco Bay Area, Joseph’s old life—his old haunts, his old habits—were ghosts of the past. Sure, there were a few friends he kept up with on social media, but seeing photos of them walking their children down the aisle and taking their grandbabies for ice cream, Joseph felt like an outcast."
 
-**中文理解：** 随着 George 和 Rashid 相继离世，Fatima 和 Laila 又远在旧金山湾区，Joseph 的旧生活——他从前常去的地方、从前的老习惯——都成了过去的鬼。社交网站上倒还有几个联系着的人，可看着他们牵着孩子走红毯、领着孙辈吃冰淇淋的照片，Joseph 觉得自己像个局外人。
+**中文理解：** 随着 George 和 Rashid 都不在身边，Fatima 和 Laila 又远在旧金山湾区，Joseph 的旧生活——他从前常去的地方、从前的老习惯——都成了过去的鬼。社交网站上倒还有几个联系着的人，可看着他们牵着孩子走红毯、领着孙辈吃冰淇淋的照片，Joseph 觉得自己像个局外人。
 
 **关键词：** were ghosts of the past · Joseph felt like an outcast · taking their grandbabies for ice cream
 
-**为什么这样写：** ★ "ghosts of the past" 与第二十一章 Amina 的"像鬼一样飘过父亲的房子"、第三十一章 Esther 叙述里的旧日物件，构成全书第二次以"鬼"命名记忆：这次鬼不是母亲，是生活方式本身。而 "taking their grandbabies for ice cream" 是一张被扫过的照片——他看到的不是别人的幸福，是别人的时间表。
+**为什么这样写：** ★ "ghosts of the past" 与第十一章 Amina 的"像鬼一样飘过父亲的房子"、第二十九章 Laila 摊开母亲旧物的段落，构成全书第二次以"鬼"命名记忆：这次鬼不是母亲，是生活方式本身。而 "taking their grandbabies for ice cream" 是一张被扫过的照片——他看到的不是别人的幸福，是别人的时间表。
 
-**读者视角提示：** "walking their children down the aisle"（走红毯）——同一个动作里包含了结婚和生育，Joseph 二十八年的空白被这两个词量了出来。
+**读者视角提示：** "walking their children down the aisle"（婚礼过道）——同一个动作里包含了结婚和生育，Joseph 二十八年的空白被这两个词量了出来。
 
 > **原句 4:** "And then she did, and Joseph was not the same, for a very long while. “Where have you been all this time?” she had asked. “What dreams have you made come true while your mother suffered?” The monthly allowance he had been sending wasn’t enough to cover his mother’s living expenses, his sister said. Besides, his siblings resented his absence. He was in America being free while they had stayed and taken care of their mother."
 
@@ -61,7 +61,7 @@ modified: "2026-10-03"
 
 **关键词：** You are a good man and a good son, success or not · made him feel worse · confirmed his darkest thoughts
 
-**为什么这样写：** ★ 全书最锋利的一次反转，而且发生在母亲已经无法辩护的时刻。Esther 在第十二章也说过类似的话（她祈祷女儿成为自己没成为的人），但 Esther 是在争取，Esther 母亲是在结账。她把"你没成功"与"你是好人"捆在一起寄出，而这两句在 Joseph 心里互相抵消。
+**为什么这样写：** ★ 全书最锋利的一次反转，而且发生在母亲已经无法辩护的时刻。Esther 在第十二章也说过类似的话（原文：I wanted you to be like me, yet walk a separate path），但 Esther 是在争取，Joseph 的母亲是在结账。她把"你没成功"与"你是好人"捆在一起寄出，而这两句在 Joseph 心里互相抵消。
 
 **读者视角提示：** "Inadvertently, she had confirmed his darkest thoughts"——"无意中"这三个字才是整封信的真正内容。
 
@@ -71,9 +71,9 @@ modified: "2026-10-03"
 
 **关键词：** LURKING UNDERNEATH JOSEPH’S LONGING for home · his wondering about Laila · Sixteen years of thinking of someone every day · he owed Esther the story · Call Fatima
 
-**为什么这样写：** ★ "LURKING UNDERNEATH JOSEPH’S LONGING for home was his wondering about Laila" 一句把两件事的优先级排出来了：想家是表层，挂念 Laila 才是底下的那一层。而 "he owed Esther the story" 把他从第二十四章的羞愧里直接推到本章的电话——那个在穹顶里"太不好意思开口"的人，现在要主动说出真相。"Call Fatima." 是全章唯一的句号，也是他新习惯的第一次执行。
+**为什么这样写：** ★ "LURKING UNDERNEATH JOSEPH’S LONGING for home was his wondering about Laila" 一句把两件事的优先级排出来了：想家是表层，挂念 Laila 才是底下的那一层。而 "he owed Esther the story" 把他从第二十四章的羞愧里直接推到本章的电话——那个在穹顶里"太不好意思开口"的人，现在要主动说出真相。"Call Fatima." 是这一段最轻的一句，也是他新习惯的第一次执行。
 
-**读者视角提示：** "living like they don’t exist"——他每天想她，却允许自己从不联系她，这就是"困在门窗里"最具体的写法。
+**读者视角提示：** "living like they don’t exist"——他每天想她，却允许自己从不联系她，这就是他"从不联系"最具体的写法。
 
 > **原句 7:** "“Nigeria?” Fatima shook her head, though Joseph couldn’t see. “She’s never been out of the country, Joseph.”"
 
@@ -81,9 +81,9 @@ modified: "2026-10-03"
 
 **关键词：** She’s never been out of the country · Joseph.
 
-**为什么这样写：** ★ 全章最短的一次拒绝，力量在于它和上一句的落差：Joseph 刚刚说完一张完整的行程单（票、酒店、车、安全），Fatima 只用一句"她从没出过国"就把它取消了。"She’s never been out of the country" 里的"从未"不是事实描述，是恐惧的形状。
+**为什么这样写：** ★ 全章最短的一次拒绝，力量在于它和前后句的落差：Joseph 刚开口说带 Laila 回国，Fatima 就用一句"她从没出过国"把它按下去；他随即补上票、酒店、车和安全的一套承诺。"She’s never been out of the country" 里的"从未"不是事实描述，是恐惧的形状。
 
-**读者视角提示：** "Joseph."——她叫了他的名字，而不是称呼他。这三个字母里没有指责，只有防止。
+**读者视角提示：** "Joseph."——她叫了他的名字，而不是称呼他。这个名字里没有指责，只有防止。
 
 > **原句 8:** "Joseph admired Fatima’s bluntness—he always had. “If I’m being honest, both. Going home feels like what I’m supposed to do. That’s the only way I can put it.” Too, he was haunted by his withholding of Amina’s final moments from Esther."
 
@@ -143,4 +143,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-六十多岁的 Joseph 终于开始每天写当天的目标，而当天那一行写的是：给 Fatima 打电话。他要回尼日利亚，要带 Laila 去见她奶奶——顺便打听 Esther 是不是还一个人。
+六十多岁的 Joseph 终于开始每天写当天的目标，而当天那一行写的是：给 Fatima 打电话。他要回尼日利亚，也要带 Laila 去见她的外婆——顺便打听 Esther 是不是还一个人。

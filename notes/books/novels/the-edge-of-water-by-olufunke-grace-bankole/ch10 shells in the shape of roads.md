@@ -21,9 +21,9 @@ modified: "2026-10-03"
 
 **关键词：** LAILA TRACES THE PAST · to find the feeling of home · The shells tell me so
 
-**为什么这样写：** 预言第三次给出「形状」：这一次的形状是路；「寻找感觉」而非「寻找事实」，一句话把寻根的浪漫和它的虚幻同时交给读者。
+**为什么这样写：** 副标题又一次给出「形状」：这一次的形状是路（注意 ch10 正文里 shape 一词并未出现）；「寻找感觉」而非「寻找事实」，一句话把寻根的浪漫和它的虚幻同时交给读者。
 
-**读者视角提示：** 「回家的感觉」是这一章唯一的动词性目标，也是全书 Laila 线的判据。
+**读者视角提示：** 「回家的感觉」是这一章唯一的动词性目标，也是后面 Laila 线的判据。
 
 > **原句 2:** "OF ALL THINGS FROM her childhood, Laila thought about the photo most often: a mini-size bus, back doors open, parked on a side road at the edge of a market. A man, hardly more than a blur in a white shirt, sat in the last row. Maybe he had just boarded or would get off at the next stop. To the side of the bus were several baobab trees flanking a road that curved away from the photo’s corner. Then there were the two goats. One stood inside the back of the bus, eyes staring straight into the camera. Outside, the other goat leapt, legs in midair, about to join its friend."
 
@@ -61,9 +61,9 @@ modified: "2026-10-03"
 
 **关键词：** what it must have been like · afraid, alone on the bus · Did she hope to return
 
-**为什么这样写：** 全章唯一的抒情段落，只用三个短问句写成；把一个成年人的迁徙还原成孩子的三个疑问，没有一个形容词，却把思念推到最高。
+**为什么这样写：** 全章唯一的抒情段落，只用两个短问句写成；把一个成年人的迁徙还原成孩子的两个疑问，没有一个形容词，却把思念推到最高。
 
-**读者视角提示：** 这三个问句没有答案，正是这一章结尾那句斩钉截铁的回答所针对的东西。
+**读者视角提示：** 这两个问句没有答案，正是这一章结尾那句斩钉截铁的回答所针对的东西。
 
 > **原句 6:** "“To get away from the things they might say.”"
 
@@ -71,7 +71,7 @@ modified: "2026-10-03"
 
 **关键词：** To get away from the things they might say
 
-**为什么这样写：** 全章末句，也是全书的钥匙之一：母亲出走不是被逼、不是理想主义，是逃避闲话；一句最短的话把整张照片从「寻根」改写成「逃难」。
+**为什么这样写：** 全章末句，也是理解 Laila 线的钥匙之一：母亲出走不是被逼、不是理想主义，是逃避闲话；一句最短的话把整张照片从「寻根」改写成「逃难」。
 
 **读者视角提示：** 对照第四章 Esther 面临的 scandal 和第七章整条街的闲话，这句话说明闲话是这个家族史真正的动力源。
 

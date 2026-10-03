@@ -8,9 +8,9 @@ modified: "2026-10-03"
 ## 本章导航
 
 - **一句话概括**：Amina 回忆父亲 Sani 家道中落后动手打人，母亲 Esther 收拾纸箱带她搬离 Elekuro，而七岁的她在半夜以为母亲死了。
-- **情感弧线位置**：全书母女关系的第一次抵押：这一夜之后，母女之间多了一层「差点失去」的底色，也埋下 Esther 一辈子不肯说的亏欠。
-- **母题兑现/反转**：天空的母题第一次反转成穹顶：七岁的 Amina 半夜以为母亲死了，而她抬头看见的那片天，正是二十六年后把她收进去的那片。作者先给读者看天，再让读者明白那是盖子。
-- **人物弧线**：Sani 在这里第一次露出暴力（踢人、几周不说话的冷战），却还不是后来那个让她在雨夜背过身去的人；Esther 从被打到收拾纸箱，只用了一个晚上。
+- **情感弧线位置**：全书母女关系最早的一次抵押：这一夜之后，母女之间多了一层「差点失去」的底色，也埋下 Esther 一辈子不肯说的亏欠。
+- **母题兑现/反转**：天空的母题在这里反转成穹顶：七岁的 Amina 半夜以为母亲死了，而她抬头看见的那片天，正是二十六年后把她收进去的那片。作者先给读者看天，再让读者明白那是盖子。
+- **人物弧线**：Sani 在这里露出暴力（踢人、几周不说话的冷战），却还不是后来那个让她在雨夜背过身去的人；Esther 从被打到收拾纸箱，只用了一个晚上。
 - **叙事手法**：倒叙从风暴写成回忆：开场用「记忆先取回父亲」定调，再按被打、被赶、搬走、夜里惊醒的顺序推进，结尾用一个孩子误判死亡的反讽收束。
 
 ## 精读
@@ -23,7 +23,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 用天气当容器装记忆，是全书的框架写法；把「最爱母亲、记忆先给父亲」并置，一句话就把后面几章的家庭张力说完了。
 
-**读者视角提示：** 「dom e」是 Iyanifa 所在的地方；这句在提醒你，本书有两层时间同时在跑。
+**读者视角提示：** 「dome」是风暴中收容幸存者的穹顶——二十六年后 Amina 就在那里面等；这句在提醒你，本书有两层时间同时在跑。
 
 > **原句 2:** "BEFORE I WAS BORN, my father, Sani, was an executive at a steel company; then he lost his job and became a cloth seller. Of the eighteen people who sold fancy-patterned and skillfully woven cloth at Harvest Market, he was the only man, and this, like the limp in his right leg—the aftermath of a polio infection when he was a boy—embarrassed him. When the market’s river began to dry, the scraggly children—the ones with snot-stained shirts, food-driven bellies, and no proper home-rearing to speak of—were the first to disappear. They vanished, much the way a street-corner store is found closed one morning, nailed plywood and blank signs where lights and words used to be. Life in the river city had begun to dim."
 
@@ -35,7 +35,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 「河市的水开始干」是全书的现实层因果，与第一章预言的洪水正好相反。
 
-> **原句 3:** "One night, at dinner, my mother pushed her questions to him. “You think you’re the first man to sell women’s clothes to feed his family, the first man whose business struggled in a drought?” I looked at my father. Did he think this? She looked at him up and down, peeling him with each round."
+> **原句 3:** "One night, at dinner, my mother pushed her questions to him. “You think you’re the first man to sell women’s clothes to feed his family, the first man whose business struggled in a drought?” I looked at my father. Did he think this? She looked at him up and down, peeling him with each round. He said nothing."
 
 **中文理解：** 母亲把问题扔给父亲：你以为自己是第一个靠卖女人衣服养家的人吗？第一个生意在旱灾里撑不住的男人？她上下打量他，一轮轮剥他，他一句话没说。
 
@@ -51,7 +51,7 @@ modified: "2026-10-03"
 
 **关键词：** wobbled · boxer
 
-**为什么这样写：** 用拳赛术语（ boxer / blow）写家庭暴力，让读者先看到动作的力学再看到可怕；紧跟的一段说她打了之后还在照镜子看有没有血，把伤与羞耻叠在一起。
+**为什么这样写：** 用拳赛术语（ boxer / blow）写家庭暴力，让读者先看到动作的力学再看到可怕；紧跟的一段说她挨了打还在用舌头舔指尖、确认有没有出血，把伤与羞耻叠在一起。
 
 **读者视角提示：** 这段是全书对家暴最直接的一次描写，Amina 是在旁边看的人。
 

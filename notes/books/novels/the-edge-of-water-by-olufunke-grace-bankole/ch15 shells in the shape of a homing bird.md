@@ -8,7 +8,7 @@ modified: "2026-10-03"
 ## 本章导航
 
 - **一句话概括**：回乡的航班上，Laila 腿肿、得给亲戚带够礼物才能进 family's 眼，连邻座四十八岁男人也把「娶到人」当成人生翻盘；预言者在末尾一句把她的未来让给了另一个人。
-- **情感弧线位置**：全书的回程段起点：Laila 是唯一一个「自己选择回来」的人，她归来的位置是整条线索的终点站。
+- **情感弧线位置**：全书的回程段起点：Laila 是自己选择往回走的人，她归来的位置是整条线索的终点站。
 - **母题兑现/反转**：归巢的母题兑现为「这一趟终于飞够」：预言说 Laila 找到的会比她的梦想更大，而且「是时候了」。三个航段——旧金山、伦敦、拉各斯——写成一只被反复推迟的鸟终于落地的过程。
 - **人物弧线**：Laila 从「带够礼物」的谨慎，到最后伸手去拿那袋给外祖母的信——她的动机从应付他人收回成寻找自己的来处。
 - **叙事手法**：以航程为骨架的长段独白：每一段只写一个细节（裤腿、袜子、礼物、邻座、机场的白皮肤），全大写的开场句再把镜头切到多年以后的另一场抵达。
@@ -21,9 +21,9 @@ modified: "2026-10-03"
 
 **关键词：** WHAT LAILA FINDS WILL BE grander than her dreams · It’s about time · The shells tell me so
 
-**为什么这样写：** 第二句「是时候了」把前面十四章的等待一笔勾销；全段只有三句，是全书最短的预言段，短到像一句已经说漏嘴的承诺。
+**为什么这样写：** 第二句「是时候了」把前面十四章的等待一笔勾销；全段只有三句，是很短的预言段，短到像一句已经说漏嘴的承诺。
 
-**读者视角提示：** 注意它和第一章开篇的「The shells tell me so」同一句式——这里的「时候到了」指的是第二十三章那场风暴。
+**读者视角提示：** 注意它和第一章开篇的「The shells tell me so」同一句式——这里的「时候到了」指的是第二十二章那场风暴。
 
 > **原句 2:** "THE LENGTH OF THE FLIGHTS—from San Francisco to London to Lagos—made Laila tense. She wore her loosest pants; anything too tight around her legs, and they would swell."
 
@@ -31,9 +31,9 @@ modified: "2026-10-03"
 
 **关键词：** THE LENGTH OF THE FLIGHTS—from San Francisco to London to Lagos—made Laila tense · She wore her loosest pants · anything too tight around her legs, and they would swell
 
-**为什么这样写：** 把身体的不适写在「裤子勒不勒」这种小事上，越日常越显得无处可逃；她的腿在船上肿胀，落地之后等着她的却是一件「回乡」的神圣仪式，两件事在同一个身体里。
+**为什么这样写：** 把身体的不适写在「裤子勒不勒」这种小事上，越日常越显得无处可逃；她的腿在长途飞行中肿胀，落地之后等着她的却是一件「回乡」的神圣仪式，两件事在同一个身体里。
 
-**读者视角提示：** 全书第四次的「腿」：Sani 的跛、Amina 抽签时的腿、Laila 现在的肿腿——同一个身体部位贯穿三代人的代价。
+**读者视角提示：** 全书反复出现的「腿」：Sani 的跛、Oyin 盘着腿等消息、Laila 现在的肿腿——同一个身体部位贯穿三代人的代价。
 
 > **原句 3:** "If nothing else, she was sure she’d brought enough things; not for herself, but for her mother’s kin, who were expecting gifts. “Don’t go empty-handed. Everybody wants something,” she’d been told. Even if they didn’t say so, the family would be disappointed that she had nothing for them to provoke others’ envy. “People are struggling,” they’d said. And anyone coming from abroad—America especially—had to give."
 
@@ -61,9 +61,9 @@ modified: "2026-10-03"
 
 **关键词：** The man to her right sat perched, ready to chat · It was his first time, too · the jolt of excitement, meeting his fiancée for the first time · At forty-eight, he had given up on marriage ever happening to him · So had his family · was out of his league · Dude, you’re punching! · Iyabo said her father was a Nigerian prince · with the usual scams and all · about to find out for himself
 
-**为什么这样写：** 把她自己的旅程并置在别人的故事里：一个中年的「终于轮到我」被写成和全章预言同源的等待；「高攀不上」和「他父亲是尼日利亚王子」两句，把爱情、年龄、骗局与阶层的算术一次算清。
+**为什么这样写：** 把她自己的旅程并置在别人的故事里：一个中年人「这辈子大概轮不到我」的认命被写成和全章预言同源的等待；「高攀不上」和「他父亲是尼日利亚王子」两句，把爱情、年龄、骗局与阶层的算术一次算清。
 
-**读者视角提示：** 这句「终于轮到我」正是第十四章 Amina 说的「Amina, it’s your turn」——两个女人在同一种句式里，只是站在不同的年龄上。
+**读者视角提示：** 这种「总算轮到我了」的等来等去，正是第十四章 Amina 心中那句「Amina, it’s your turn!」的另一次出现——两个女人在同一种等待里，只是站在不同的年龄上。
 
 > **原句 6:** "Laila dug inside her purse for nothing in particular, hoping the look of busyness would dampen his eagerness. At Heathrow Airport, she had expected it—Black people, presumably Nigerians, going to Nigeria. But the smattering of whiteness made her wonder about their business here. Did they also have family awaiting their return? In the rush of passengers and flight attendants, no one else seemed to be bothered by the foreign faces. Most were preoccupied within the reach of their hands—maneuvering overstuffed bags or children that needed to be corralled."
 
@@ -91,9 +91,9 @@ modified: "2026-10-03"
 
 **关键词：** YEARS AHEAD, LAILA IS RETURNING · Amina, though, is arriving into a calamity · that was never hers to defeat · not in this life
 
-**为什么这样写：** 全大写的时态切换把两条线并成一句话：一个人正在回来，另一个人正在坠落；「不是这一世」则提前给出第三十九章「他们记得」的判词。
+**为什么这样写：** 全大写的时态切换把两条线并成一句话：一个人正在回来，另一个人正在坠落；「不是这一世」则提前指向第三十九章那场五人相聚的结局。
 
-**读者视角提示：** 这是全书最重的一句预言转折：归巢与闯祸发生在同一段时间里，方向相反。
+**读者视角提示：** 这是很重的一句预言转折：归巢与闯祸发生在同一段时间里，方向相反。
 
 ## 本章词汇
 

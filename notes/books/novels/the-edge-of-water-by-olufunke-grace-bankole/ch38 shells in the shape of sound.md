@@ -21,7 +21,7 @@ modified: "2026-10-03"
 
 **关键词：** When you are feeling alone · may this letter bring you near to your mother
 
-**为什么这样写：** ★ 全章唯一的祈使句，也是全书最短的一句正题："bring you near to your mother"（把你带到你母亲身边）把信的功能写成了位移，而她唯一的手段是纸。
+**为什么这样写：** ★ 是一句祈愿（may…）而不是祈使：它不发出要求，只把祝愿放在读者与 Laila 之间："bring you near to your mother"（把你带到你母亲身边）把信的功能写成了位移，而她唯一的手段是纸。
 
 ★ "near"（近）而不是"to"（到）：这封信承诺的是接近，不是抵达；而这一章的结尾 "But I will see, Laila. I am here." 把"近"换成了"在场"，是全章唯一一次把距离清零。
 
@@ -37,7 +37,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** ★ "you, Laila, are the love I have missed"（你就是我错过的那份爱）——"missed" 一词同时是错过和思念；Esther 用一个不及物动词把自己二十年的人生装进去了。
 
-★ "Nothing will replace Amina, no." 用 no 单独结尾，是 Esther 在 ch32 那封信里也用过的语气：她先让步，再前进。
+★ "Nothing will replace Amina, no." 用 no 单独结尾，是一种只在这里出现的语气：她先让步（no），再前进。
 
 ★ "happy for every reason and no reason at all"（为每一个理由、也因为毫无理由而高兴）——这是全书对"喜悦"唯一一次不给理由的描写，与 ch36 那句 "sometimes we’re fortunate, sometimes we’re not" 同一口吻。
 
@@ -55,7 +55,7 @@ modified: "2026-10-03"
 
 ★ "she knew then that she was living her final days"（她那时就在活她的最后几天）——整章最残忍的一句推断，而 "It was as if" 让它停在表象，不下判断。
 
-**读者视角提示：** "2005" 这个年份是全章唯一的数据；它与 ch01 预言里的风暴、与 ch15 里的年份并列时，才显出这不是巧合。
+**读者视角提示：** "2005" 这个年份是全章唯一的数据；它与 ch01 预言里的风暴、与 ch01 预言里的风暴并列时，才显出这不是巧合。
 
 > **原句 4:** "But the letter that nearly shattered me is the third one. She shared parts of herself that I never knew. She was reading stories, she said, by African women. She loved coffee and thin-crust pizza. She practiced yoga in her bedroom, at night, after you, Fatima, and Rashid had gone to sleep. She was good at it and wanted to take a class. She could have been one of the writers she mentioned, Laila—so rich were her descriptions of her last days. And she said this, that I cannot forget: I wish I had asked more about the things you loved, before me. She had been thinking of me."
 
@@ -121,7 +121,7 @@ modified: "2026-10-03"
 | shock | 名词，震惊（此处指她读信的反应） | So you can imagine my shock when I read the letters from Amina and discovered that all three were written in August 2005, right before the storm! |
 | wrote | 动词（过去式），写（此处指 Amina 写下这些信） | She wrote these letters and put them away. |
 | parts | 名词（复数），部分（此处指 Amina 透露的自我） | She shared parts of herself that I never knew. |
-| proud | 形容词，骄傲的（此处指 Esther 会为她骄傲） | You will make her proud, even if she is not there to see. |
+| proud | 形容词，骄傲的（此处指母亲 Amina 会为 Laila 骄傲） | You will make her proud, even if she is not there to see. |
 
 ### ⭐ 基础
 

@@ -8,10 +8,10 @@ modified: "2026-10-03"
 ## 本章导航
 
 - **一句话概括**：Joseph 开着车在穹顶外兜了两圈，最终停在离 Amina 最近的入口；他在屎尿和人群里坐了五天，只敢远远看着，却始终没敢走过去说一句话。
-- **情感弧线位置**：全书最重的"在场却缺席"章。开头章题是 solitude（孤独），但全章几乎没有一个人独处——两万五千人挤在场地上，Joseph 的孤独恰恰来自人群本身。
+- **情感弧线位置**：全书最重的「在场却缺席」章。开头章题是 solitude（孤独），但全章几乎没有一个人独处——两万五千人挤在场地上，Joseph 的孤独恰恰来自人群本身。
 - **母题兑现/反转**：孤独的母题兑现为「想联系谁都联系不上」：Joseph 开着车在城里绕，掉头、拐错方向，最后停在一个谁也不是的地方，再走去一个他知道自己该在的地方。孤独不是没人陪，是所有人都往前走，他停在原地。
-- **人物弧线**：Joseph 从第二十一章那个"想做点什么"的男人，退回到本章那个"For all his trying, he had never wielded power in a critical moment"的人。他唯一说出口的身份是"She's my stepdaughter!"，一句谎话，也是他一生唯一一次冲破羞愧。
-- **叙事手法**：第三人称里混进第一人称（行 56），作者故意让叙述者"失守"，暴露 Joseph 一生没说出的话；结尾由 iyanifa 转述尸检真相，让"媒体报道"与"真实死因"两层互相打脸。
+- **人物弧线**：Joseph 从第二十一章那个「想促成什么」的男人，退回到本章那个"For all his trying, he had never wielded power in a critical moment"的人。他唯一说出口的身份是"She's my stepdaughter!"，一句谎话，也是他冲破羞愧的一次。
+- **叙事手法**：第三人称里混进第一人称（行 56），作者故意让叙述者"失守"，暴露 Joseph 一生没说出的话；结尾由 iyanifa 转述真实的死因链，让「媒体报道」与「真实死因」两层互相打脸。
 
 ## 精读
 
@@ -43,7 +43,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** "Like the people, the smell had nowhere else to go" 是全章最精的一句结构：主语是气味，比较项是人，谓语是无处可去——人没有去处，气味就只能回到人身上。这让"厕所崩坏"不再是脏，而是拥挤的必然后果。后面"toilet to toilet"的梦里循环，又把灾难写成了 Joseph 无法醒来的日常。
 
-**读者视角提示：** 作者没有写他恶心，只写他从牙缝里吸唾沫、用袖口擦眼睛、把衬衫塞好——羞耻永远走在恐惧前面。
+**读者视角提示：** 作者没有写他恶心，只写他从牙缝里吸唾沫、揉眼角、把衬衫塞好——羞耻永远走在恐惧前面。
 
 > **原句 4:** "He picked up a large plastic cup and sat it right side up. “Forget it,” he said, and he did what—given the state of things in there—everyone else before him must have done: urinated right on the bathroom floor. When he reached the doorway, he wiped his feet on the jamb and went back into the hall, his chest out and back tight. He rubbed the corners of his eyes and tucked his shirt in. Some things would be lost in the days ahead, but he still had his pride."
 
@@ -61,7 +61,7 @@ modified: "2026-10-03"
 
 **关键词：** I saw you and Laila at the dome · too embarrassed to say anything · Today was not that day
 
-**为什么这样写：** ★ 全章、也可能是全书最重要的"叙述失守"：句子从 "he swore he would let her know" 一路推进到 "I saw you and Laila at the dome. I was too embarrassed to say anything."——作者让 Joseph 原本要"说给 Amina 听"的话，因为主语切换而直接落到了读者耳朵里。这不是叙述者偷懒，而是把"没说的话"写成了"说给所有人听的话"，遗憾因此有了声音。"Today was not that day" 更是把"来日方长"写成了永久的缓刑。
+**为什么这样写：** ★ 全章最重要的一处「叙述失守」：句子从 "he swore he would let her know" 一路推进到 "I saw you and Laila at the dome. I was too embarrassed to say anything."——作者让 Joseph 原本要"说给 Amina 听"的话，因为主语切换而直接落到了读者耳朵里。这不是叙述者偷懒，而是把"没说的话"写成了"说给所有人听的话"，遗憾因此有了声音。"Today was not that day" 更是把"来日方长"写成了永久的缓刑。
 
 **读者视角提示：** 紧接着的 "How does Laila like the doll?" 是一个他永远没能问出口的完整问句——作者让问题自己悬在空里。
 
@@ -81,7 +81,7 @@ modified: "2026-10-03"
 
 **关键词：** From Ghana, I think · It’s a shame what happened to her · We lost a lot too
 
-**为什么这样写：** ★ 全书对灾难"报道失真"最冷的一刀：三句话完成了身份降级（尼日利亚→加纳→"哦尼日利亚？"）、道德重置（"我也是受害者"）、以及注意力转移（房子淹了）。"It’s a shame what happened to her" 里的 shame 在此是"丢人"的意思——作者用它保留了女性访谈里的政治正确语气，讽刺藏在用词里。而最后"抹掉一滴跑偏的泪"，把眼泪本身也写成了调度失误。
+**为什么这样写：** ★ 全书对灾难「报道失真」最冷的一刀：三句话完成了身份降级（尼日利亚→加纳→"哦尼日利亚？"）、道德重置（"我也是受害者"）、以及注意力转移（房子淹了）。"It’s a shame what happened to her" 里的 shame 在此是"丢人"的意思——作者用它保留了女性访谈里的政治正确语气，讽刺藏在用词里。而最后"抹掉一滴跑偏的泪"，把眼泪本身也写成了调度失误。
 
 **读者视角提示：** 她全程没有问过一句 Amina 的死因——因为报道不需要死因，只需要"她的店"和"她的身材"。
 
@@ -91,7 +91,7 @@ modified: "2026-10-03"
 
 **关键词：** They were mostly right, the shells tell me · the faucets were dry · hit her head against the metal door
 
-**为什么这样写：** ★ 这是全书因果链最冷的一节：死者死于"帮你擦干净"的意图。三个"dry"（尿布湿、手风琴空、水龙头干）把一场飓风压缩成一条卫生链；iyanifa 的 "They were mostly right" 先认下媒体的结论，再把结论逐条推翻——媒体对了姿势，错了原因。而 "hit her head against the metal door" 的被动语态，让最后一个动作的主语消失了。
+**为什么这样写：** ★ 这是全书因果链最冷的一节：死者死于「帮你擦干净」的意图。一条卫生链（尿布湿透、纸巾盒被掏空、水龙头是干的）把一场飓风压缩成一次找纸卷；iyanifa 的 "They were mostly right" 先认下媒体的结论，再补出结论背后的原因——媒体说滑倒，iyanifa 说她是在隔间里找没被用完的纸卷。媒体对了姿势，错了原因。而 "hit her head against the metal door" 的被动语态，让最后一个动作的主语消失了。
 
 **读者视角提示：** 第 110 行她找到 Laila 后说的那句 "I found you!"，用的是"玩捉迷藏"的语调——她已经死了，而叙述者选择让她高兴一下。
 

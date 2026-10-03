@@ -7,7 +7,7 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：Esther 写给 Amina 的信里交代自己的来路：父亲要她嫁给 Sani 抵债，她从那个派对之夜起被拖进婚姻，流产、儿子夭折、丈夫出轨、女儿出生，最后她自己攒钱搬去了 Elekuro 街。
+- **一句话概括**：Esther 写给 Amina 的信里交代自己的来路：父亲在派对丑闻之后上门提亲、扬言要让母亲「做得对」，她从那个夜晚起被拖进婚姻，流产、儿子夭折、丈夫出轨、女儿出生，最后她自己攒钱搬去了 Elekuro 街。
 - **情感弧线位置**：全书情绪最重的一章，也是全书最压抑的一章；Amina 读信时的感受与 Esther 当年的处境是同一条线的两端。
 - **母题兑现/反转**：浪的母题兑现为「推回来」：Esther 走进母亲的餐厅，看见 Sani 坐在那里——她还没说出口的那晚（车里的事）此刻正悬在她和往事之间。浪不是打断生活，是把没处理的东西一次次送回同一张桌子。
 - **人物弧线**：Sani 从被家里安排的新郎，逐步变成施暴者、出轨者、被裁员的丈夫，最后成为每个月往家里寄钱的前夫；Esther 从被安排的女儿，成为攒钱、威胁离婚、亲自谈判的母亲。
@@ -21,9 +21,9 @@ modified: "2026-10-03"
 
 **关键词：** Joseph · course
 
-**为什么这样写：** 把「我的人生」翻译成「你的命」，一开口就把个人经验变成对读者的预言；这是全书把命运观第一次直白说出的地方。
+**为什么这样写：** 把「我的人生」翻译成「你的命」，一开口就把个人经验变成对读者的预言；这是全书把命运观直白说出的地方，而它由母亲之口说出。
 
-**读者视角提示：** 记住 Joseph 这个名字——第三章的河市里有他，第十四章的贝壳里也有他。
+**读者视角提示：** 记住 Joseph 这个名字——他此刻只是那个坐在废品车副驾上的青年，而到了第十六章他才拿到自己的名字。
 
 > **原句 2:** "The casual impression of choice was a trap—“I won’t marry Sani. And I wouldn’t call what happened sleeping around”—and I fell in."
 
@@ -41,7 +41,7 @@ modified: "2026-10-03"
 
 **关键词：** cornerstone · cardinal directions
 
-**为什么这样写：** 把重男轻女写成一整套完整的建筑仪式：基石、四方、奠基；仪式越隆重，后面「是女孩」时的失落就越难开口，而正文偏偏一句都没写。
+**为什么这样写：** 把重男轻女写成一整套完整的建筑仪式：基石、四方、奠基；仪式越隆重，后面「是女孩」时的失落就越难开口——而她自己这一份一句都没写（原文写的是 Sani「并不失望」）。
 
 **读者视角提示：** 本书记「仪式」写得极多，这一段是全书仪式书写的样板。
 
@@ -71,9 +71,9 @@ modified: "2026-10-03"
 
 **关键词：** raped me · negotiated
 
-**为什么这样写：** 全章唯一一次说出「强奸」两个字，而且是对母亲说的；前后各一个「还照样」把指责钉进重复里，读者第一次看清 Esther 当年不敢说的事是什么。
+**为什么这样写：** 本章说出「强奸」两个字的这一处，而且是对母亲说的；前后各一个「还照样」把指责钉进重复里，Esther 当年不敢说的那件事因此第一次有了形状。
 
-**读者视角提示：** 对照第 211 段：母亲那一侧听到的完全不是这件事。
+**读者视角提示：** 对照本章后半「我母亲当年并没有替我抵挡强奸——这才是最伤她的那句话」那一段：母亲那一侧听到的完全不是这件事。
 
 > **原句 7:** "Even now, I see my mother on that bench, shaking and small. Nothing she had said was new. Acceptance of infidelity was the cultural way. And what Sani had done might have been wrong, even deceptive, but certainly not rape. For years to come, my assertion that my mother had failed to defend me against rape would be what upset her most—not my experience of it."
 
@@ -87,7 +87,7 @@ modified: "2026-10-03"
 
 > **原句 8:** "Two days later, Mummy gathered three of her brothers and their wives to meet with Sani’s family and negotiate our divorce. He would remain in our old flat in the river city, which was just fifteen kilometers to Elekuro; if he wanted, he could visit with you. And so long as he sent money each month, I agreed, the world would hear nothing of the rest—at least not then."
 
-**中文理解：** 搬去 Elekuro 街那天早上，母亲派出她的帮工女孩和另外两个人；两天后，母亲召集自己的三个兄弟和他们的妻子，去与 Sani 家族见面谈离婚。离婚协议是这样定的：他留在河市的老公寓，离 Elekuro 只有十五公里；如果他想，可以来看你。只要他每个月寄钱来，世界就听不到别的——至少暂时不会。
+**中文理解：** 搬去 Elekuro 街那天早上，母亲派出一个年轻男人、她的帮工女孩和一辆卡车来帮忙搬箱；两天后，母亲召集自己的三个兄弟和他们的妻子，去与 Sani 家族见面谈离婚。离婚协议是这样定的：他留在河市的老公寓，离 Elekuro 只有十五公里；如果他想，可以来看你。只要他每个月寄钱来，世界就听不到别的——至少暂时不会。
 
 **关键词：** negotiate our divorce · fifteen kilometers · sent money each month
 

@@ -8,9 +8,9 @@ modified: "2026-10-03"
 ## 本章导航
 
 - **一句话概括**：Amina 在穹顶里对着母亲的口吻写信：三天前那个空掉的市场、拨不通的电话、一句"明天这时就过去了"，最后落到"临死时最后叫的人是母亲"的传说上。
-- **情感弧线位置**：从章题"an end"的自我宣告，到灾前的"没人害怕"这份集体麻木，再到母亲三个称呼（Mama / Mummy / Esther）逐一被点名；本章是全书唯一一个"回忆同时是临终告白"的章节。
-- **母题兑现/反转**：终点的母题兑现为「终点一直在等」：她在穹顶里等了三天多，把三十年和最后三年从头讲一遍。开头那句「结局在催促我回到开头」是全书的结构自白——所谓终局，其实是起点被重新念了一遍。
-- **人物弧线**：Amina 从第三章被母亲卖掉的八岁小孩，长成此刻抱着女儿、给母亲写信的人。她第一次替母亲说话（"Even Sani's charm—even Sani"），也第一次承认自己"记不全了"（drifting, forgetful）。
+- **情感弧线位置**：从章题"an end"的自我宣告，到灾前的"没人害怕"这份集体麻木，再到母亲三个称呼（Mama / Mummy / Esther）逐一被点名；本章是全书最集中的一次「回忆同时是临终告白」。
+- **母题兑现/反转**：终点的母题兑现为「终点一直在等」：她在穹顶里等了三天多，把她的成长、她来到这座城市的方式、以及最后三年从头讲一遍。开头那句「结局在催促我回到开头」是全书的结构自白——所谓终局，其实是起点被重新念了一遍。
+- **人物弧线**：Amina 从第三章随母亲离开父亲的七岁小孩，长成此刻抱着女儿、给母亲写信的人。她第一次替母亲说话（"Even Sani's charm—even Sani"），也第一次承认自己"记不全了"（drifting, forgetful）。
 - **叙事手法**：倒叙＋自述失序：作者让叙述者明说"the end urges me back to the beginning"，把回忆顺序说成被结尾牵引；Dora、Fatima、Mississippi 这些名字每提一次都在提示"她其实在写遗书"。
 
 ## 精读
@@ -41,7 +41,7 @@ modified: "2026-10-03"
 
 **关键词：** no one was afraid · learned to go on
 
-**为什么这样写：** "no one was afraid" 后面紧跟一句转折，"At least that is what they said"——全章的灾祸根源就在这句里：不是没有警告，而是警告被听成了旧闻。作者又用 "have learned to go on" 解释这份麻木，"go on" 与第 33 行 "I am telling it all" 遥相呼应。
+**为什么这样写：** "no one was afraid" 后面紧跟一句转折，"At least that is what they said"——全章的灾祸根源就在这句里：不是没有警告，而是警告被听成了旧闻。作者又用 "have learned to go on" 解释这份麻木，"go on" 与第 30 行 "I am telling it all to you" 遥相呼应。
 
 **读者视角提示：** "learned to go on, whatever the world tosses their way" 里的 whatever，是把灾难写成了天气。
 
@@ -51,7 +51,7 @@ modified: "2026-10-03"
 
 **关键词：** emptiness in the market · All of it was strange
 
-**为什么这样写：** 作者用"计划"开场，用"不对劲"收尾：Rashid 和 Fatima 的计划、周四的 van、last tourist surge，一切都成立，可全都不作数。"All of it was strange" 让异常第一次以气味和直觉的方式出现在叙述里。
+**为什么这样写：** 作者用"计划"开场，用"不对劲"收尾：Rashid 和 Fatima 的计划、上午晚些时候的 van、last tourist surge，一切都成立，可全都不作数。"All of it was strange" 让异常第一次以气味和直觉的方式出现在叙述里。
 
 **读者视角提示：** 这段是全书灾祸逻辑的缩影：预测是有的、计划是有的、家人是有的，三样都在，人却还是走散了。
 

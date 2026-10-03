@@ -47,7 +47,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** ★ "THE FEAR OF WANTING to become something but never quite being it" 是全书对"阶层焦虑"最文学化的一次命名：她怕的不是失败，是"差一口气"。而这正好是 ch31 里她撒两个谎的动机——她只有靠"还在上学"这个未来，才能盖住"没上过学"这个过去。
 
-★ "felt something like artist" 一处作者省略了冠词，"something like artist" 像一个尚未命名的东西：她知道自己要成为某种人，但说不出名字。ch26 的 Vivian 说"名字意味着安全与庇护"，Laila 恰恰是那个没有名字的人。
+★ "felt something like artist" 一处作者省略了冠词，"something like artist" 像一个尚未命名的东西：她知道自己要成为某种人，但说不出名字。ch24 的预言层说过 Amina "whose name means safe, protected"，而 Laila 恰恰是那个没有名字的人——她的名字没人替她解释过。
 
 **读者视角提示：** "the breathing sanctuary of the neighborhood café"——避难所是她自己造的，造在一个她其实买不起的地方。
 
@@ -81,7 +81,7 @@ modified: "2026-10-03"
 
 **关键词：** She had something, too, but would wait to tell Joseph · the leather bag of Amina’s belongings · the envelopes with Esther written on the front · She couldn’t go to Nigeria empty-handed
 
-**为什么这样写：** ★ 兑现了 ch29 的悬置。三个未拆的信封在第三十一章被 Laila 亲手清点过、在本章被她装进包里——她仍然没拆，但这次她带着它们上路。"She couldn't go to Nigeria empty-handed" 把"手上有筹码"和"敢不敢开口"连成一句：她把沉默本身当作了礼物。
+**为什么这样写：** ★ 兑现了 ch29 的悬置。ch29 里她反复回 closet 翻那只旧皮包，最舍不得放下的还只是照片；到本章，她已经能把写着 Esther 名字的那几个信封收进包里带上了飞机——她仍然没拆，但这次她带着它们上路。"She couldn't go to Nigeria empty-handed" 把"手上有筹码"和"敢不敢开口"连成一句：她把沉默本身当作了礼物。
 
 ★ "but would wait to tell Joseph" 是本章唯一一次她对 Joseph 有保留。Joseph 也有一个保留（Esther），两个人各自握着一句没说出口的话上飞机。
 

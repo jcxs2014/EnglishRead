@@ -7,7 +7,7 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：十六岁的 Amina 一年之内经历了三件事：母亲靠嗅闻识破了她的初夜、姐姐 Oyin 从破碎的家庭被送来做客、她十六岁生日当天爬上一个男人的车——三件事在同一段路上被同一条街看见。
+- **一句话概括**：十六岁的 Amina 一年之内经历了三件事：母亲靠嗅闻识破了姐姐 Oyin 的初夜、姐姐从破碎的家庭被送来做客、她自己爬上了 Niyi 的车——三件事在同一段路上被同一条街看见。
 - **情感弧线位置**：从童年跨进少年的门槛章；也是全书写「邻居的目光」写得最密的一章，前三章的流言在这里变成常设制度。
 - **母题兑现/反转**：石头的母题首次落地成一件家具：母亲的尖叫划破雨声，雨水顺铁皮屋顶汇成一股急流冲向水沟。这一章里石头还不是预言里的那块石头，它只是 Amina 垫在身下、垫在姐姐鼾声旁边长大的那个位置。
 - **人物弧线**：Amina 从被母亲体检的孩子，变成自己选择上车的人；Esther 的「嗅觉查贞」与「向孩子道歉」在同一天里各出现一次；Oyin 作为被退回的寄居者，第一次进入画面。
@@ -21,9 +21,9 @@ modified: "2026-10-03"
 
 **关键词：** hadn’t rinsed the Beetle clean · weeping mess · Whatever else was intended
 
-**为什么这样写：** 把「被抹黑」的现场写成天气：雨冲不干净、太阳出来加速融化、白漆片剥落——破坏由光和雨完成，不由人完成；最后一句用 damage 这个外来词，是叙述者对这场羞辱唯一一次不动声色的记账。
+**为什么这样写：** 把「被抹黑」的现场写成天气：雨冲不干净、太阳出来加速融化、白漆片剥落——破坏由光和雨完成，不由人完成；本段最后一句用 damage 这个外来词，是叙述者不动声色的记账。
 
-**读者视角提示：** 车是第六章里她「窥视未来」的那一辆——同一辆车，先被当作梦想，再被当作耻辱。
+**读者视角提示：** 车是第六章里她坐进去「窥视未来」的那款白色甲壳虫——先被当作梦想，再被当作耻辱。
 
 > **原句 2:** "It is said that African mothers never apologize to their children. I would have believed this, too, had I not heard my mother’s apology later that night. Esther came into our bedroom. She might have thought we were asleep, or it just didn’t matter. She sat at the bottom edge of our bed and bent forward at Oyin’s feet. “I’m very sorry,” she whispered into the dark. In their shakiness, those words must have come at the end of crying."
 
@@ -33,9 +33,9 @@ modified: "2026-10-03"
 
 **为什么这样写：** 先立一条文化通则，再用一个具体的动作推翻它；「在哭完之后」用「一定」写推测，把一个母亲的道歉还原成需要鼓起勇气的一件小事。
 
-**读者视角提示：** 这段和同章第 100 段「母亲为何那样狠」直接对立，两段连着读才是这一章的核心。
+**读者视角提示：** 这段和本章开头「母亲为什么对 Oyin 那样下狠手」那一段直接对立，两段连着读才是这一章的核心。
 
-> **原句 3:** "Why had my mother fought Oyin so hard? The effort we make to be kindly perceived by kin or stranger is a battle that is evergreen. To be good and respectable, privately, is not enough—the world must think so too."
+> **原句 3:** "Why had my mother fought Oyin so hard? The effort we make to be kindly perceived by kin or stranger is a battle that is evergreen. To be good and respectable, privately, is not enough—the world must think so too. In Oyin’s case, a girl who put her own pleasure above modesty taunted the legacy of tradition."
 
 **中文理解：** 母亲为什么对 Oyin 那样下狠手？我们为了让亲人或外人把自己看得善良的那份努力，是一场常青的战斗。私下里做个好人、做个体面人是不够的——世人也得这么想。在 Oyin 那里，一个把自己的快乐放在体面之前的姑娘，等于在嘲弄传统的遗产。
 
@@ -65,7 +65,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 「自从我们逃出 Elekuro 之后第一次」——第六章她们刚搬到新街，这一章是旧伤第一次在同一间屋里被看见。
 
-> **原句 6:** "“Of course I can. But I want it here. I mean, what if America never comes?”"
+> **原句 6:** "“Of course I can. But I want it here. I mean, what if America never comes?” I straightened myself between his legs. “What happens to the girls whose dreams don’t come true?”"
 
 **中文理解：** 「当然可以。但我要它在这里。我的意思是——如果美国永远不来呢？」她在两腿之间把身子坐直，「那些梦想没有成真的女孩会怎么样？」
 
@@ -134,4 +134,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-十六岁这一年，Amina 被母亲用嗅觉识破初夜、姐姐 Oyin 因母亲 Temi 猝死而被送来同住、她自己又爬上了 Niyi 的车——同一条街的闲话把这些事全部看在眼里。
+十六岁这一年，Amina 看着母亲用嗅觉识破了姐姐 Oyin 的初夜、姐姐因 Temi 猝死而被送来同住、她自己又爬上了 Niyi 的车——同一条街的闲话把这些事全部看在眼里。

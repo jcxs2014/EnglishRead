@@ -10,7 +10,7 @@ modified: "2026-10-03"
 - **一句话概括**：在约鲁巴神话的门槛上，讲述者 Iyanifa 向读者摊开六条灵魂的旅程，并预言这一次水将淹没那座绿紫金三色的城。
 - **情感弧线位置**：全书开篇的预警与立约——情感尚未启动，先把「贝壳已经说了」这句判词立下，让后文每一次温柔都带着倒计时。
 - **母题兑现/反转**：全书的判词在此立下：五个人手拉手像麻线一样连着，第六个人拖着腿，一世又一世地落在后面。这一章把水写成审判的场所——它是边界，不是灾难；而「贝壳已经说了」这句话从此压在每一章的温柔上面。
-- **人物弧线**：Iyanifa 从全知的中介者起步，暗示自己将选择站在中间地带；被预言的六人（Esther、Amina、Joseph、Laila 与拖腿的第六人）此刻都还不是自己。
+- **人物弧线**：Iyanifa 从全知的中介者起步，暗示自己将选择站在中间地带；被预言的六人（Esther、Amina、Joseph、Laila、Oyin 与拖着右腿的 Sani）此刻都还不是自己。
 - **叙事手法**：以第一人称神话旁白开场，借鉴约鲁巴口传形态：短句宣告 + 长段世界观铺陈 + 预言式收束，四段文本层层加码，最后以一句天气般的日常句收尾。
 
 ## 精读
@@ -23,7 +23,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 用「五个 + 一个」的算术开场，把家族叙事的编制直接摆在桌面上；一句定语就把第六人的腿疾写成跨轮回的宿疾，暗示命运是可以欠账的。
 
-**读者视角提示：** 留意这个拖腿的人——全书过半之后他才会被点名。
+**读者视角提示：** 留意这个拖腿的人——直到第十三章，「第六人」才会被点名。
 
 > **原句 2:** "At Imole, the brilliant edge, the souls dwell. Or they pass through, where being is a rest from the life before or the one to come. Olodu—their maker—is in the air all around, splendid like sun through the wings of a dragonfly. Ever on the cusp, the souls come and go, meeting again or saying goodbye. Their bodies are dots of light, draped loosely in cloth—each woven strand a marker of where they have been."
 

@@ -7,7 +7,7 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：初到新奥尔良的 Amina 用眼睛丈量这条街：富人区的绿草坪、路灯上挂着的巨链、便宜的黑咖啡、一个主动帮她拎袋子的白人老太太——她一件一件收下这些光，然后在第一场爵士葬礼的号角声里开始想最坏的结果。
+- **一句话概括**：初到新奥尔良的 Amina 用眼睛丈量这条街：富人区的绿草坪、树上挂着的巨链、便宜的黑咖啡、一个主动帮她拎袋子的白人老太太——她一件一件收下这些光，然后在第一场爵士葬礼的号角声里开始想最坏的结果。
 - **情感弧线位置**：适应线的中段：梦想真正落地的那几周，也是她第一次承认「我永远不会像希望中那样快乐」的那几周。
 - **母题兑现/反转**：光的母题兑现为「照出一个世界的落差」：新奥尔良的树上挂着一串绿紫金的项链，路过一扇窗是 jails 一样的铁门，再走一个街区是希腊女神的喷泉。作者用两次转换写「光只负责照见，不负责分配」。
 - **人物弧线**：Amina 从用眼睛索取、到用嘴确认、到用身体回应（想要 George），三个阶段各自都有一个「第一次」；但她的清醒只维持到段末那两个问句。
@@ -23,7 +23,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 开篇就说明这是回忆中的归来，把整章的时间设定为「多年以后回望」；「把每条街框成场景」一句把车窗变成取景框，读者也随之被框在里面。
 
-**读者视角提示：** 「毛衣夹在两腿之间」这一细节会一直留到第三十四章。
+**读者视角提示：** 「毛衣夹在两腿之间」——这个细节会跟着他很久。
 
 > **原句 2:** "Even in America, things could be this way: bedsheets hung over broken windows and metal doors as thick as jail-cell bars. Then, just a block later, houses the size of a palace, forest-green lawns and fountain odes to Greek goddesses. Just like home, the rich lived their wealth wherever they pleased, the plight of the rest be damned."
 
@@ -77,7 +77,7 @@ modified: "2026-10-03"
 
 > **原句 7:** "“Egungun, egungun!” The clang-clang and dum-dum of metal percussion and drums grew louder and louder inside the house where Esther and I were visiting with family in Ibadan. The young man that had torn through the parlor, screaming, raced to the veranda. The rest of the men walked quickly behind him to take a look. The women and a group of children, of which I was a part, hung back, unsure what to do. Remain there or run into the bedrooms to hide? It was eewo, I had been told, for women and girls to look directly at egungun—the masked and covered embodiment of ancestral spirits, here on this day to warn, advise, and bless the earthly children. Egungun, dancing and jumping through the streets; egungun, draped in the finest ceremonial cloths, tight netting concealing his face; egungun, pieces of metal fastened to his dress to mirror the glimmer of heaven, to which the souls have ascended. I was forbidden to look—it would result in barrenness or death, they’d said—but I longed to peek. And so I did."
 
-**中文理解：** 我童年时见过一次 egungun 节，它让我第一次见到爵士葬礼。那是在 Ibadan，Esther 和我随亲戚去探望家人，屋里传来金属打击乐与鼓的叮当声，越来越响。那个撕开帘子冲出去、尖叫着的年轻人朝门廊跑去，其余男人快步跟在后面去看。女人和一群孩子——我属于其中之一——留在后面，不知该怎么办。待在那里，还是跑进卧室躲起来？有人告诉过我，女人和女孩直接看 egungun 是 eewo——那是被打了整身罩布的祖先灵魂的化身，在这一天来警告、建议、祝福地上的孩子们。Egungun，边舞边跳过街；Egungun，裹在最华美的礼仪布里，致密的网遮住他的脸；Egungun，衣裙上缀着金属片，映出天堂的微光，而灵魂已经升到那里。我被禁止去看——据说看了会不育或死去——可我渴望偷看。于是我真的看了。
+**中文理解：** 我第一次见到爵士葬礼的那个下午，它让我想起童年时的 egungun 节。那是在 Ibadan，Esther 和我随亲戚去探望家人，屋里传来金属打击乐与鼓的叮当声，越来越响。那个撕开帘子冲出去、尖叫着的年轻人朝门廊跑去，其余男人快步跟在后面去看。女人和一群孩子——我属于其中之一——留在后面，不知该怎么办。待在那里，还是跑进卧室躲起来？有人告诉过我，女人和女孩直接看 egungun 是 eewo——那是被打了整身罩布的祖先灵魂的化身，在这一天来警告、建议、祝福地上的孩子们。Egungun，边舞边跳过街；Egungun，裹在最华美的礼仪布里，致密的网遮住他的脸；Egungun，衣裙上缀着金属片，映出天堂的微光，而灵魂已经升到那里。我被禁止去看——据说看了会不育或死去——可我渴望偷看。于是我真的看了。
 
 **关键词：** The clang-clang and dum-dum of metal percussion and drums · Remain there or run into the bedrooms to hide? · It was eewo, I had been told, for women and girls to look directly at egungun · the masked and covered embodiment of ancestral spirits · to warn, advise, and bless the earthly children · draped in the finest ceremonial cloths, tight netting concealing his face · pieces of metal fastened to his dress to mirror the glimmer of heaven · I was forbidden to look—it would result in barrenness or death · but I longed to peek. And so I did
 
@@ -131,4 +131,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-到了新奥尔良的第三天，Amina 已经知道了一件不该这么快知道的事：她永远不会像自己希望的那样快乐；她仍然一件件收下这座城市给她的光——路灯上巨链一样的绿、廉价黑咖啡、洗衣房老太太替她撑开的垃圾袋、隔墙那位独居老人的喘息——直到第一场爵士葬礼的号角响起，她开始一小时一小时地往最坏处想。
+到了新奥尔良的第三天，Amina 已经知道了一件不该这么快知道的事：她永远不会像自己希望的那样快乐；她仍然一件件收下这座城市给她的光——树上巨链一样的绿、廉价黑咖啡、洗衣房老太太替她撑开的垃圾袋、隔墙那位独居老人的喘息——直到第一场爵士葬礼的号角响起，她开始一小时一小时地往最坏处想。

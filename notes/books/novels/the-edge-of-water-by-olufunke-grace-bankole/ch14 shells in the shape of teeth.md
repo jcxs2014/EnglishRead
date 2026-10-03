@@ -9,7 +9,7 @@ modified: "2026-10-03"
 
 - **一句话概括**：签证中签的那天，Amina 摊开全部家当、按时髦程度排好衣服，Oyin 站在门口问了一句「你本来打算什么时候告诉我」——姐妹从此决裂。
 - **情感弧线位置**：出走线的高点与代价同时到达：梦想成真与亲情断裂发生在同一个房间。
-- **母题兑现/反转**：牙齿的母题兑现为「咬住的那一口」：这一章是全书梦的兑现点，Amina 把自己比作诗篇里被神恢复产业的人。标题的牙齿没有在正文出现，但咬合的动作在——她咬住的是机会，代价是把母亲替她安排好的那条路一起咬断。
+- **母题兑现/反转**：牙齿的母题兑现为「咬住的那一口」：这一章是梦的兑现点，Amina 把自己比作诗篇里被神恢复产业的人。标题的牙齿没有在正文出现，但咬合的动作在——她咬住的是机会，代价是把母亲替她安排好的那条路一起咬断。
 - **人物弧线**：Amina 第一次承认自己的渴望是一种「不配」；Oyin 则把自己没走成的原因全部推到姐姐身上，两人都说出了对方最怕听的那句话。
 - **叙事手法**：照片目录式的清单开场（一段一行的照片说明），随后是全章最长的对话；末段用「我躺成祭品」的梦把全章的争吵一次性结算。
 
@@ -43,7 +43,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 「还能是什么样子」重复两次，把母亲的失望变成一道没有答案的算术题；结尾把美国从目的地改写成一台唤醒装置，动机由此比梦想更朴素。
 
-**读者视角提示：** 对照第十一章她自己写的「I wanted so much more」——同一个句式，母亲的版本里没有「更多」，只有「更好」。
+**读者视角提示：** 对照第十一章她自己写的「I wanted so much more」——同一个 more，只是主语换成了你：她要的是「你再多一点」。
 
 > **原句 4:** "“Don’t say that.” Her voice became louder now, more aligned with fighting. “I knew you were going to say something just like that, but you know it’s not true. You really think you can live this kind of fantasy life, Amina.” She threw a hand at the side of the room, as if that was where my fantasies hid. “Ignore the things that affect everyone else, turn away from anything that makes you feel bad?”"
 
@@ -63,17 +63,17 @@ modified: "2026-10-03"
 
 **为什么这样写：** 把 Amina 的三句宣言原样复述一遍再打回去，是最狠的一种反驳：问题不在欲望本身，而在她以为自己有资格单独要；末句把两人的分歧从梦想改写成阶级。
 
-**读者视角提示：** 「make the best of our circumstance」正是第十九章「湍流」那一课的关键词——Oyin 在这里说出了她后来要学的东西。
+**读者视角提示：** 「make the best of our circumstance」正是第二十章那段 Nigerian mothers 劝诫的关键词（They tell you to make the best of your circumstance）——Oyin 在这里说出了她后来要学的东西。
 
 > **原句 6:** "Oyin laughed a laugh that didn’t match the rest of her face; though her mouth opened, her eyes didn’t blink. “Well, let me burst your bubble, Amina.” She stepped fully inside the doorway and unfolded her arms. “The visa lottery is just that—a lucky chance. Nothing you have done or been makes you more deserving of it than anyone else. You will eat, shit, and die just like the rest of us. But when your time comes, you will be all alone. And you will remember I told you so.” She turned and left the room."
 
-**中文理解：** Oyin 笑了一声，那笑和脸上其余部分并不相配：嘴张开了，眼睛却没眨。「好吧，让我戳破你的气泡，Amina。」她整个人跨进门里，展开双臂。「签证抽签就是那么回事——一次幸运的机会。你做过的、成为过的任何事，都不会让你比任何人更配得上它。你会和我们其余人一样吃、拉、die。但等你的时候到了，你会孤零零一个人。到那时你会记得我早就跟你说过。」她转身离开了房间。
+**中文理解：** Oyin 笑了一声，那笑和脸上其余部分并不相配：嘴张开了，眼睛却没眨。「好吧，让我戳破你的气泡，Amina。」她整个人跨进门里，展开双臂。「签证抽签就是那么回事——一次幸运的机会。你做过的、成为过的任何事，都不会让你比任何人更配得上它。你会和我们其余人一样吃、拉、死。但等你的时候到了，你会孤零零一个人。到那时你会记得我早就跟你说过。」她转身离开了房间。
 
 **关键词：** a laugh that didn’t match the rest of her face · her eyes didn’t blink · let me burst your bubble · just that—a lucky chance · makes you more deserving of it than anyone else · you will be all alone · you will remember I told you so
 
 **为什么这样写：** 先把笑写成身体的不一致（嘴动眼不动），再把预言压成三句最短的断言；「你会记得我早就说过」是这一章最狠的一句——它把离别变成一场日后必然兑现的债。
 
-**读者视角提示：** 「吃、拉、die」三个动词并置，把移民梦降解成最不体面的生理事实。
+**读者视角提示：** 「吃、拉、死」三个动词并置，把移民梦降解成最不体面的生理事实。
 
 > **原句 7:** "There is a feeling that has caused me a subtle, persisting shame: I have wanted to be with and within myself free, no desire for the presence of another soul—not even my mother. I have known, without anyone saying so, that this longing makes me disinherited—not truly African, not a real Nigerian, not a genuine Yoruba child. If righteous and acceptable wanting must be in relation to one’s kin, then I have been wicked."
 
@@ -83,7 +83,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全章最关键的一段：羞耻不来自行为，而来自欲望本身；三重否定（非洲人／尼日利亚人／约鲁巴孩子）把身份的三个层级一次剥掉，最后一句用「有罪」收口，把自私升级成道德罪。
 
-**读者视角提示：** 这一段是全书对「出走」最诚实也最残酷的定价：走，要付出归属。
+**读者视角提示：** 这一段是对「出走」最诚实也最残酷的定价：走，要付出归属。
 
 > **原句 8:** "I had not dreamed of Sani since I was a child, trying to peek into his folded arms. In dreams of my mother, I cried a sound tight in my throat. Last night, in this dome, I dreamed I lay on a table in the way I am lying now. Esther, Sani, and Oyin held their cutlery over me, ready to eat. I float in and out of sleep, moving through water and time—nowhere and everywhere I have ever been."
 
@@ -91,7 +91,7 @@ modified: "2026-10-03"
 
 **关键词：** I had not dreamed of Sani since I was a child · I dreamed I lay on a table in the way I am lying now · held their cutlery over me, ready to eat · moving through water and time · nowhere and everywhere I have ever been
 
-**为什么这样写：** 章题在此落地：三把叉子落在她身上，是牙齿意象的完成；「穿过水与时间」把航程、海与一生压成一句话，末句用「无处与处处」的对仗收束全书的章题母题。
+**为什么这样写：** 三个人举着餐具俯在她上方等着开吃——「吃饭」这个动作把副标题的牙齿兑现到全章末尾；「穿过水与时间」把航程、海与一生压成一句话，末句用「无处与处处」的对仗收束全书的章题母题。
 
 **读者视角提示：** 「ready to eat」用现在时：这场审判还没结束。
 

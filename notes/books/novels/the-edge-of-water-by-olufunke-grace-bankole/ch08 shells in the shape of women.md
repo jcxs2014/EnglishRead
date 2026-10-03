@@ -23,7 +23,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 开篇句把「回来」和「十六年」两个数字钉死，同时给出唯一信源——贝壳；「灵魂」先于人物出现，读者从第一行就知道这不是写实家族小说。
 
-**读者视角提示：** 十六年这个期限会在第二十二章的风暴、以及后面 Laila 的寻路中反复出现。
+**读者视角提示：** 十六年这个期限会在第三十五章 Joseph 的坦白里再出现一次。
 
 > **原句 2:** "AT THE CENTER OF the roundabout, there it sat, bottom hemmed in by overgrown grass and needly weeds. Apata Ayeraye—Eternal Rock—was a greenish-brown mound, tall and broad in the middle of the circle where the fabled There but for the Grace of God Go I Avenue met Elekuro Street and two other roads."
 
@@ -31,7 +31,7 @@ modified: "2026-10-03"
 
 **关键词：** AT THE CENTER OF the roundabout · Apata Ayeraye · met Elekuro Street
 
-**为什么这样写：** 章题「女人的形状」在这里得到一半答案：石头叫「阿耶拉耶」，是一位女性的名字；用「相遇」而不是「交叉」写两条路的相接，暗示这里不是冲突点而是汇合点。
+**为什么这样写：** 章题「女人的形状」在这里得到一半答案：石头叫「阿耶拉耶」，破折号后面直接给出释义「永恒石」——命名本身完成了解释；用「相遇」而不是「交叉」写两条路的相接，暗示这里不是冲突点而是汇合点。
 
 **读者视角提示：** 第七章 Amina 坐在路口那块石头上等——那正是这条街与 Elekuro 的交界；同一块石头，两种等法。
 
@@ -55,7 +55,7 @@ modified: "2026-10-03"
 
 **读者视角提示：** 「她死了仍然在给答案」这个设定，是这一章全部权威的来源。
 
-> **原句 5:** "But even in death, my foremother was selective: not everyone who came to the rock received an answer. Maybe it was the side on which the querent sat, or the article of clothing worn. Or perhaps it was the depth of desperation displayed."
+> **原句 5:** "But even in death, my foremother was selective: not everyone who came to the rock received an answer. Maybe it was the side on which the querent sat, or the article of clothing worn. Or perhaps it was the depth of desperation displayed. Headshaking, talking to oneself aloud, or agitated hair pulling might have furthered one’s case. Olodu knows."
 
 **中文理解：** 但即使在死后，我的女祖先也是挑人的：不是每个来到石头前的人都会得到答案。也许要看你坐在哪一边，或者穿的是什么衣服。又也许是你表现的绝望有多深。摇头、自言自语，或者焦躁地扯头发，或许都能让你的事更有希望。Olodu 知道。
 
@@ -71,7 +71,7 @@ modified: "2026-10-03"
 
 **关键词：** depends on the size and magnitude of the rock itself · Okuta for a small rock · Apata for a massive one
 
-**为什么这样写：** 一章的题眼用一场词源课来落地：地名不是随便取的，词本身携带形状；这一句同时解释了上一章那块路口石为什么没有专名，也预告了 Laila 姓名里「阿耶拉耶」的来历。
+**为什么这样写：** 一章的题眼用一场词源课来落地：地名不是随便取的，词本身携带形状；这一句把「石头」这个词本身解释清楚了：老人只说 Okuta 与 Apata 的区别在于大小和分量。
 
 **读者视角提示：** 同一种东西因大小而不同名，这个小知识其实在说：城市给人分类的方式，本质上也在给人分类。
 

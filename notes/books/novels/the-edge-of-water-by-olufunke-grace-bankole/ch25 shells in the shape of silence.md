@@ -7,7 +7,7 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：风暴后第三天，两个孩子的父母站到 Esther 门口，她从肩膀的硬和下巴的软读出了死讯；此后八段文字就是那封永远不会被回应的信。
+- **一句话概括**：风暴之后某天上午，两个孩子的父母站到 Esther 门口，她从肩膀的硬和下巴的软读出了死讯；此后八段文字就是那封永远不会被回应的信。
 - **情感弧线位置**：全书母亲线的终点。前面 Esther 的信是"教你怎么做"（ch12 dust、ch19 turbulence），这一封是"我该在你身边却不在"；作者把她从"照料者"改写成了"一个只能写字的人"。
 - **母题兑现/反转**：沉默的母题兑现为「说给自己听也会到达」：Esther 写着「万一你有一天读到」，又说只要我一直写下去，你总会以某种方式听见。这一章的沉默不是缄默，是把话写下来这件事本身。
 - **人物弧线**：Esther 从 ch12 的"attest"（求上帝作证）走到这里的 "I do not know how else to empty my mind"——她的语言从劝诫退回到排障。"it is rage, and none of them will survive it" 是她全书唯一一次不加条件地宣告暴力。
@@ -81,7 +81,7 @@ modified: "2026-10-03"
 
 **关键词：** Of course I think I could have kept you alive · slipped from the weight · Helplessness is impossible
 
-**为什么这样写：** 作者让 Esther 把因果**倒接**到那个厕所动作上——她参与了那个"你去卫生间"的决定，所以儿子的死在她账上。"Helplessness is impossible for a mother with empty arms" 是一句反直觉的判断：她认为"无助"是不可能的，暗示母职要求她连无助的权利都放弃，"empty arms" 因而不是处境而是罪。
+**为什么这样写：** 作者让 Esther 把因果**倒接**到那个厕所动作上——她不在场，什么都做不了，只能在想象中假设"你进卫生间时我抱紧 Laila"就能救下你，所以女儿的死落在她账上。"Helplessness is impossible for a mother with empty arms" 是一句反直觉的判断：她认为"无助"是不可能的，暗示母职要求她连无助的权利都放弃，"empty arms" 因而不是处境而是罪。
 
 **读者视角提示：** "I owe you what you gave to your daughter"——她欠的是母爱的**传递**，而 Laila 正是她替女儿完成传递的最后一环。
 
@@ -91,7 +91,7 @@ modified: "2026-10-03"
 
 **关键词：** not enough of you left · unaccounted for · no longer my Amina · the only one with nothing left
 
-**为什么这样写：** ★ 全书对"制度语言"最不留情的一击：官方先用 "there is not enough of you left"（**量的语言**）取消了一个人，再用 "unaccounted for"（**账目的语言**）给她一个状态，最后那句 "you were not the only one with nothing left" 用意大利文歌《Non, je ne regrette rien》的原句，把"什么也没剩下"从她的个案升格为公共结论。"This new name, as if you are no longer my Amina" 是亲属语言被行政语言替换的瞬间。
+**为什么这样写：** ★ 全书对"制度语言"最不留情的一击：官方先用 "there is not enough of you left"（**量的语言**）取消了一个人，再用 "unaccounted for"（**账目的语言**）给她一个状态，最后那句 "you were not the only one with nothing left" 把前面官员的 "there is not enough of you left" 从她一个人的处境升格为公共结论。"This new name, as if you are no longer my Amina" 是亲属语言被行政语言替换的瞬间。
 
 **读者视角提示：** "I wonder if they would have tried harder if you were white" 是全书少见的、母亲直接指认结构不公的一句——而它出现在一封写给死者的信里，说明对象已经不被听见。
 

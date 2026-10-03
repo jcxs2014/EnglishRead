@@ -35,13 +35,13 @@ modified: "2026-10-03"
 
 **关键词：** Every day since, Oyin has replayed the last words she said to her sister · she thinks she is the one who cursed Amina · she thinks she called her death forth
 
-**为什么这样写：** ★ "replayed the last words"（重放最后的话）是把一句已经说出口的话当成可循环播放的录音——ch09 那场姐妹吵架在二十年后仍然以音频形式占据她的日子。
+**为什么这样写：** ★ "replayed the last words"（重放最后的话）是把一句已经说出口的话当成可循环播放的录音——第十四章那场姐妹争吵在二十年后仍然以音频形式占据她的日子。
 
 ★ 两个 "she thinks" 连用：作者不判断她是否有罪，只让"她这么以为"重复两遍，罪感的重量由此自现。
 
 ★ "called her death forth"（把死亡召唤来）与 Oyin 后面对预言的反抗形成对位：她曾用预言的语言诅咒过自己。
 
-**读者视角提示：** "Almost twenty years after their fight"——约二十年指的是那次吵架到此刻，不是到灾难；ch09 那场架是这一章真正的计时起点。
+**读者视角提示：** "Almost twenty years after their fight"——约二十年指的是那次吵架到此刻，不是到灾难；第十四章那场架是这一章真正的计时起点。
 
 > **原句 3:** "“They have not found her body, but they believe she is gone, yes,” Fatima’s father said. And while the entrance of the house was too far from the gate for Esther to hear anything, standing at the door that led to the kitchen, she began to wail. Hands on her head, twisting her whole body, a pulling-of-the-hair kind of lamentation."
 
@@ -49,7 +49,7 @@ modified: "2026-10-03"
 
 **关键词：** They have not found her body, but they believe she is gone, yes · standing at the door that led to the kitchen, she began to wail · Hands on her head, twisting her whole body · a pulling-of-the-hair kind of lamentation
 
-**为什么这样写：** ★ 全书写母亲崩溃用"双手举头、扭动全身、扯发"这一次，全书只此一次；ch03 是 Sanni 踢母亲时她"像初生小牛一样摇晃"，ch43 之后才有下一次。
+**为什么这样写：** ★ 全书写母亲崩溃用"双手举头、扭动全身、扯发"这一次，全书只此一次；ch03 是 Sani 踢母亲时她"像初生小牛一样摇晃"（原文 she wobbled like a calf in its first step），下一次要到三十多年后 Esther 自己的崩溃才有。
 
 ★ "a pulling-of-the-hair kind of lamentation"（扯发式的哀号）用 of-of 复合定语，作者在给一个动作做分类学命名，像在整理一个仪式目录。
 
@@ -77,7 +77,7 @@ modified: "2026-10-03"
 
 **关键词：** The shells told this, too · Oyin and Esther—through Temi, through Amina—were meant to be kin
 
-**为什么这样写：** ★ 全章最短的一段（九十二字符）却承担全部结论：血亲不是 Temi 那种“偷来的”关系，而是经由两代女性传递的预定。
+**为什么这样写：** ★ 本卷最短的一段之一（八十三字符）却承担全部结论：血亲不是 Temi 那种“偷来的”关系，而是经由两代女性传递的预定。
 
 ★ "through Temi, through Amina"（经由 Temi，经由 Amina）两次 through 强调中介：她们之间的"亲"是继承来的，不是长出来的。
 
@@ -109,7 +109,7 @@ modified: "2026-10-03"
 
 ★ "this prophet or that oracle or some god"（这个先知或那个神谕或某位神明）三个称呼全是虚指，作者不给任何一个专名，等于让整套神圣权威降级为可替换的词。
 
-★ "nothing is carved in stone"（没有什么刻在石头里）是全书对宿命论最直白的一句反命题，与 ch18 那章的 Orunmila 直接相撞。
+★ "nothing is carved in stone"（没有什么刻在石头里）是本卷对宿命论最直白的一句反命题，与本章开头那套 Orunmila 判词的口气直接相撞。
 
 ★ 最后一句用 "to us all the same"（同样落到我们所有人）收：她不否认苦难，只否认苦难是惩罚。
 
@@ -127,7 +127,7 @@ modified: "2026-10-03"
 
 ★ "they shall" 用 shall 而非 will：与 ch34 那边 "They will forever find each other again" 的 will 相比，这里是预言的语法，两人尚未在时间里兑现。
 
-**读者视角提示：** "THE SHELLS HAVE SPOKEN."——首段是"预言将被说"，末段是"预言已说完"；中间一百五十行是她们在时间里追认那份预言的过程。
+**读者视角提示：** "THE SHELLS HAVE SPOKEN."——首段是"预言将被说"，末段是"预言已说完"；从首段到末句这一百五十四行，是她们在时间里追认那份预言的过程。
 
 ## 本章词汇
 
@@ -182,4 +182,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-Amina 死后，是被偷走继承权的 Oyin 成了 Esther 靠着的石头：她扛下所有消息，用纸牌和废话把母亲撑住。而一个月前那场对账里，Esther 承认是自己扣下了 Oyin 去美国的名额；Oyin 则用全书最直白的一段话拆掉了预言——"nothing is carved in stone"。
+Amina 死后，是被预言称作 "the one who had been rejected" 的 Oyin 成了 Esther 靠着的石头：她扛下所有消息，用纸牌和废话把母亲撑住。而一个月前那场对账里，Esther 承认是自己扣下了 Oyin 去美国的名额；Oyin 则用全书最直白的一段话拆掉了预言——"nothing is carved in stone"。

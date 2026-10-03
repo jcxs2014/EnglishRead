@@ -21,7 +21,7 @@ modified: "2026-10-03"
 
 **关键词：** He patted her backside · out in the open · they were shameless, O
 
-**为什么这样写：** ★ 全章最短的一句 gossip（64 字符），却是唯一带评论性形容词的一句：shameless（不知羞耻的）后面那个 "O" 是约鲁巴语里"你看看"的惊呼。
+**为什么这样写：** ★ 四句 gossip 里最长的一句（62 字符），也是唯一带评论性形容词的一句：shameless（不知羞耻的）后面那个 "O" 是约鲁巴语里"你看看"的惊呼。
 
 ★ "patted her backside"（拍屁股）后面紧跟 "out in the open"（当众），前后两个短语把一个亲密动作直接判成了公共事件。
 
@@ -41,7 +41,7 @@ modified: "2026-10-03"
 
 ★ 全章四句 gossip 之后，唯一的"事实核查"由一句反问完成；作者不告诉我们谁对，只告诉我们谁不肯回答。
 
-**读者视角提示：** 注意引号里的反问是直引号 "Does it really matter?"——这是全书唯一一处 gossip 的话被单独掏出来放大。
+**读者视角提示：** 注意引号里的反问是直引号 "Does it really matter?"——这是本段里唯一被单独掏出来放大的 gossip 台词。
 
 > **原句 3:** "In the middle of the main dining room, Amina’s ankara head wrap adorned the wall. It was already in the shape of a rectangle, so Esther had ironed and centered the cloth on a canvas frame; she enclosed it in glass. A small placard next to it read simply Amina. Just yesterday, several customers had asked about the meaning of the cloth artwork. This gave Esther the chance to tell Amina’s story."
 
@@ -57,7 +57,7 @@ modified: "2026-10-03"
 
 ★ "tell Amina's story"（讲述 Amina 的故事）在全章是唯一一次"讲述"；它出现在读者刚读完四句流言之后。
 
-**读者视角提示：** 那块头巾的来历是 ch38 里 Esther 写信时提过的 ankara wrap；而现在它被熨平、装框、罩玻璃——一件衣服的第二次生命。
+**读者视角提示：** 那块头巾的来历是 ch35 里 Esther 收拾遗物时讲过的：它是 Amina 走时想带走的一条，出自 Esther；而现在它被熨平、装框、罩玻璃——一件衣服的第二次生命。
 
 > **原句 4:** "Amina’s one choice—America—had been devastating for those who loved her, but had also enlarged their lives, through Laila. American by birth and free to move within and between worlds, Laila has feet now in places Amina only dreamed of. That which was for her mother the zenith of achievement is for Laila the beginning of all she can become."
 
@@ -67,7 +67,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** ★ 全章的题眼在最后一句：同一个东西（美国），在两代人身上分别是"顶点"和"开端"，而 "is for Laila the beginning of all she can become" 用一个 is 把两代接上了。
 
-★ "has feet now in places Amina only dreamed of"——脚是本书反复使用的身体意象（Esther 量 Laila 脚上的尘土、ch31 的「feet dragging」），而这里的 feet 把"梦想"写成了可以站立的地方。
+★ "has feet now in places Amina only dreamed of"——脚是本书反复使用的身体意象（ch35 里 Amina 走时脚不沾尘、第一章里那个拖着腿的第六人），而这里的 feet 把"梦想"写成了可以站立的地方。
 
 ★ "free to move within and between worlds"（可以在各个世界之间来去）——全书最接近"双重身份"的一句正面描写，而它属于唯一在美国出生的角色。
 
@@ -83,7 +83,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** ★ 全章唯一一处 Joseph 开口谈自己，而第一句就是一个条件句式的问句："If I stay, what would I do?"——他把"留下"和"有用"绑成了一个问题。
 
-★ "decades out of the engineering loop"（离开工程圈几十年）——loop（圈）把职业生涯写成一个闭合的环，走出去就回不来；ch30 里他刚在咖啡店重逢旧识，这里是他承认自己回不去了。
+★ "decades out of the engineering loop"（离开工程圈几十年）——loop（圈）把职业生涯写成一个闭合的环，走出去就回不来；而这一句是他承认自己回不去了。
 
 ★ "he wanted to feel useful"（他想让自己有点用处）——全章最短也最重的一句愿望，用的是 want 而不是 need：他缺的不是钱（前一句刚说过），是位置。
 
@@ -97,7 +97,7 @@ modified: "2026-10-03"
 
 **关键词：** In our culture, a man does not put himself in the supporting role · Joseph needed his own thing · he enjoyed how he and Esther worked together · bulk orders and payroll · he called the airline and made his return ticket open-ended · He was prepared to stay
 
-**为什么这样写：** ★ "In our culture, a man does not put himself…"——这一句在 ch41 里还会再出现一次，是这本书对"丈夫"的唯一定义：不是不许帮忙，而是不许只是帮手。
+**为什么这样写：** ★ "In our culture, a man does not put himself…"——这一句在 Joseph 嘴里是认输——他放下工程师的资历去餐馆帮工，而它也是这本书对"丈夫"的唯一定义：不是不许帮忙，而是不许只是帮手。
 
 ★ "Joseph needed his own thing" 用的是通用的 the thing，恰恰因为它不体面：作者让一个体面的请求说出一个孩子气的词。
 
@@ -115,7 +115,7 @@ modified: "2026-10-03"
 
 **关键词：** We can change the sign on the door to Esther and Joseph · Esther winked, hoping to lighten the heaviness · In all seriousness, I could use some help here · If things go well, we’ll retire · to keep an eye on Laila
 
-**为什么这样写：** ★ "Esther and Joseph's" 里那个 and 是全章最重的一个连词：ch44 那封信里的招牌只写 Esther，而这一个 "and" 把二十年写进了一块牌子。
+**为什么这样写：** ★ "Esther and Joseph's" 里那个 and 是全章最重的一个连词：而这一个 "and" 把两个人的名字第一次写进同一块招牌。
 
 ★ "hoping to lighten the heaviness that could arise from the conversation"（希望让这场谈话可能带来的沉重感轻一点）——winked（眨眼）负责轻，hoping 负责承认它重；两个动作同时发生，所以整句是一个防御。
 
@@ -135,7 +135,7 @@ modified: "2026-10-03"
 
 ★ "took Esther's fingers to his lips"——ch40 前半的 gossip 说 "He patted her backside"；这里真正发生的接触比传闻里小得多（手指），却没人介意。
 
-★ "Neither cared about the eyes around them"（两个人都不在意周围的眼睛）——把 ch04 那条 gossip 的指责原样还了回去：外人的目光在真发生时反而不构成问题。
+★ "Neither cared about the eyes around them"（两个人都不在意周围的眼睛）——把本章开头 Felicity Lane 那几条 gossip 的指责原样还了回去：外人的目光在真发生时反而不构成问题。
 
 ★ "had enlivened the atmosphere, filling all with the hope that it is never too late"——全章唯一一次把"自在"写成能作用于空气的东西：她不是气氛变好的原因，是她本人就是那个原因。
 

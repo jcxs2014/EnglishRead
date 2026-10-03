@@ -7,9 +7,9 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：飓风十六年后，Joseph 仍把自己钉在风暴前后那条时间线上：牌照合法了、车还他了、朋友瘦成了骨头，可他说自己"没有往前走"。
-- **情感弧线位置**：从第二十四章"在场却缺席"的羞愧，进入十六年后的余温：一个成年人终于有钱、有时间、有勇气拨一个电话，却在接通前先想"我的一生正在褪色"。
-- **母题兑现/反转**：羞耻的母题兑现为「时间轴上的一个点」：风暴十六年后，Joseph 仍能把一切按「那件事之前／之后」排列，连和别人约时间都要先报年份。他不是不肯放下，是没有一张更长的尺子。
+- **一句话概括**：飓风十六年后，Joseph 仍把自己钉在风暴前后那条时间线上：牌照合法了、Rashid 让他把车留下、朋友瘦成了骨头，可他说自己"没有往前走"。
+- **情感弧线位置**：从第二十四章 Joseph 想走向 Amina 而没有走过去的羞愧，进入十六年后的余温：一个成年人终于有钱、有时间、有勇气拨一个电话，却在接通前先想"我的一生正在褪色"。
+- **母题兑现/反转**：羞耻的母题兑现为「时间轴上的一个点」：风暴十六年后，Joseph 仍能把一切按「那件事之前／之后」排列，连回想"我们认识那事"都要先报年份。他不是不肯放下，是没有一张更长的尺子。
 - **人物弧线**：Joseph 从那个在穹顶里喊"她是我的继女"却仍然太怯懦的人，变成了一个把余生都用来纪念那场风暴的人——他没有走出风暴，他住进了风暴。
 - **叙事手法**：全章只用"十六年后的几件小事"推进：还车、问一句"你还好吗"、走进一家被飓风撕过又刷好的咖啡馆、拨一个电话。作者把宏大的灾变压进琐碎的善后动作里，让"shame"这种情绪自己显形。
 
@@ -31,9 +31,9 @@ modified: "2026-10-03"
 
 **关键词：** driving with a legitimate cab license · Just keep it · we all need some help right now
 
-**为什么这样写：** ★ "legitimate cab license" 是全书最政治正确的三个字：第二十一章里他开的是无牌车"renting out cars as unregistered cabs"，十六年后他终于"合法"了。可作者立刻用一辆送不回去的车把这合法性拉回人情账——Rashid 不要他还车，理由不是宽宏，是"反正我们都缺人手"。救赎被写成了互相施舍。
+**为什么这样写：** ★ "legitimate cab license" 是全书最政治正确的三个字：第十六章里他开的是无牌车"renting out cars as unregistered cabs"，十六年后他终于"合法"了。可作者立刻用一辆送不回去的车把这合法性拉回人情账——Rashid 不要他还车，理由不是宽宏，是"反正我们都缺人手"。救赎被写成了互相施舍。
 
-**读者视角提示：** "Just keep it." 三个词，是 Joseph 一生中唯一一次被允许接受善意。
+**读者视角提示：** "Just keep it." 三个词，是 Joseph 被允许接受善意的一次。
 
 > **原句 3:** "Then he heard that Fatima had left Rashid; no longer a stall to run, she had filed for divorce and taken Laila with her to California. The last time Joseph saw Rashid, he said to his old friend, “I heard about you and Fatima. Are you all right, man?”"
 
@@ -41,7 +41,7 @@ modified: "2026-10-03"
 
 **关键词：** Fatima had left Rashid · filed for divorce · Are you all right, man
 
-**为什么这样写：** 作者用最平常的消息格式——"Then he heard that"——宣布一次家庭的散伙。★ 真正重的是那个问句：Joseph 问的是"Are you all right, man?"，这正是他自己在第二十四章穹顶里想问 Esther 而不敢问的话。作者让一个人在第十六年后，终于把这句话问出口，问错了对象。
+**为什么这样写：** 作者用最平常的消息格式——"Then he heard that"——宣布一次家庭的散伙。★ 真正重的是那个问句：Joseph 问的是"Are you all right, man?"，这正是他自己在第二十四章穹顶里想问 Amina 而不敢问的话。作者让一个人在第十六年后，终于把这句话问出口，问错了对象。
 
 **读者视角提示：** 他问得很真诚，可这句话在第二十四章就注定无效——他当时"too embarrassed to say anything"。
 
@@ -51,7 +51,7 @@ modified: "2026-10-03"
 
 **关键词：** you know me · I’m doing fine
 
-**为什么这样写：** ★ 全章最短的一处，也是最锋利的一处：谎言只有一句半。作者不写他的脸，只写他接下来的一句判断"But his thinness said otherwise"（可他的瘦说明了别的）——用身体特征推翻口头否认。二十六行之后"more bone than flesh"再补一刀。
+**为什么这样写：** ★ 全章最短的一处，也是最锋利的一处：谎言只有一句半。作者不写他的脸，只写他接下来的一句判断"But his thinness said otherwise"（可他的瘦说明了别的）——用身体特征推翻口头否认。三行之后（行 30）"more bone than flesh"再补一刀。
 
 **读者视角提示：** "But" 这个转接词是全章的支点：承认与否定之间只隔一个连词。
 
@@ -63,7 +63,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** "more bone than flesh" 是一句只可能写给"摸"的比喻——拍背的触感承担了全部判断，作者一个字都没写 Rashid 的生活。再用"卖店、回尼日利亚"两个动作把这副骨头落到结果上：Nigeria 在这一卷里是回不去的地方，回去叫失败。
 
-**读者视角提示：** "felt more bone than flesh" 用的是过去时持续感——他一直摸得出，十六年都是。
+**读者视角提示：** "felt more bone than flesh" 用的是过去时持续感——他一直摸得出。
 
 > **原句 6:** "ONE MORNING, JOSEPH WENT back to Oshun Coffee. For the longest time, he had weaved in and out, going at the hours he could avoid Maryam—the shame of the slashed tires still there. The server put his sandwich and coffee down and took the number off the table. The café, twisted and torn by the hurricane, had been repaired and repainted. In place of the mix of people who used to stop in for coffee were now white college students and older white customers, their parents’ age. The coffee and food cost much more too. “And it’s not even as good,” Joseph said to himself."
 
@@ -71,7 +71,7 @@ modified: "2026-10-03"
 
 **关键词：** the hours he could avoid Maryam · the shame of the slashed tires · their parents’ age · not even as good
 
-**为什么这样写：** ★ 三个细节把十六年写完：换掉的客群（黑人换白人）、标价牌（从无牌到有号）、以及那句"还不如图"——飓风毁了这家店，重建它的是另一批人，而旧客回来只能承认自己变成了顾客。"the shame of the slashed tires" 是全章题目的落点：shame 不是对 Amina 的愧疚（那是第二十四章的 regret），是当年那一刀留下的、无法清算的旧账。
+**为什么这样写：** ★ 三个细节把十六年写完：换掉的客群（原文只说换成了白人常客与他们的父母那年纪的人）、价格与品质一起涨上去、以及那句"还不如以前"（原文只有 And it’s not even as good）——飓风毁了这家店，重建它的是另一批人，而旧客回来只能承认自己变成了顾客。"the shame of the slashed tires" 是全章题目的落点：shame 不是对 Amina 的愧疚（那是第二十四章的 regret），是当年那一刀留下的、无法清算的旧账。
 
 **读者视角提示：** "weaved in and out" 用的是织布的词：他不是躲避一个人，是躲一段自己织进去的经纬。
 
@@ -81,7 +81,7 @@ modified: "2026-10-03"
 
 **关键词：** did not know who he was · trying to remind Laila · whispered something Joseph could not decipher · giggled
 
-**为什么这样写：** ★ "the little girl did not know who he was" 与上一章报纸上那句「那个死去的年轻非洲女人，28 岁」互文：报纸记得她的年龄，家人不记得买娃娃的人是谁。"Doll," 这个提醒是全章最疼的一处——他用一件自己买的东西当身份证明，而对方需要一个提示才能想起。低声的"decipher" 又是第二十四章的"declared"的变体：同一份沉默，两代人都在里面。
+**为什么这样写：** ★ "the little girl did not know who he was" 与第二十四章报纸上那句「那个死去的年轻非洲女人，28 岁」互文：报纸记得她的年龄，家人不记得买娃娃的人是谁。"Doll," 这个提醒是全章最疼的一处——他用一件自己买的东西当身份证明，而对方需要一个提示才能想起。低声的"decipher" 又是第二十七章那句"declared"的变体：同一份沉默，两代人都在里面。
 
 **读者视角提示：** "passed the phone back to her aunty"——她记得的称呼是 aunty，不是 Joseph。
 
@@ -91,7 +91,7 @@ modified: "2026-10-03"
 
 **关键词：** dreamed something he couldn’t remember · felt like his life was fading · pressed the phone symbol and waited
 
-**为什么这样写：** ★ "felt like his life was fading" 与第十一章 Esther 眼里那种"at the end of crying"、第二十六章的"fading" 属同一词根族：褪色是这本书描述失去的默认动词。作者在拨通电话之前放这一句，等于宣布：这一次他决定不再等了。而「做了一个记不住的梦」恰好接上开篇「he placed everything on a timeline」——记不住的事只能靠时间线去定位。
+**为什么这样写：** ★ "felt like his life was fading" 与第七章 Amina 回忆里 Esther 那种"at the end of crying"属同一词根族：褪色是这本书描述失去的默认动词。作者在拨通电话之前放这一句，等于宣布：这一次他决定不再等了。而「做了一个记不住的梦」恰好接上开篇「he placed everything on a timeline」——记不住的事只能靠时间线去定位。
 
 **读者视角提示：** "the phone symbol" 三个字里没有"call"：他连这个动作都用图像代替，说明他怕的不是没人接，是接通之后。
 
@@ -136,4 +136,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-十六年把 Joseph 变合法、变有钱、也让他把一切挂到"风暴之后两年"那个圆点上：他说自己"没有往前走"。全章的高潮只是一通还没接通的电话——他记得提醒 Laila 去看的那只娃娃，她不记得他是谁。
+十六年把 Joseph 变合法、变有钱、也让他把一切挂到"风暴之后两年"那个圆点上：他说自己"没有往前走"。全章的高潮是一通电话在接通前的那几秒停顿——他记得提醒 Laila 去看的那只娃娃，她不记得他是谁。

@@ -8,10 +8,10 @@ modified: "2026-10-03"
 ## 本章导航
 
 - **一句话概括**：这一章从垃圾袋、拒收学费一路推到失忆：Amina 忘记打电话、忘记记恨，最后连自己为何来到这座城市都要靠反复回想才敢确认。
-- **情感弧线位置**：全书最长的独白章，也是遗忘曲线本身的形状：每一节都是她凭记忆重建的一段，推断（could / perhaps / maybe）逐节增加，确证逐节减少。
+- **情感弧线位置**：全书篇幅最长的一章（也是最长的回忆独白），也是遗忘曲线本身的形状：每一节都是她凭记忆重建的一段，推断（could / perhaps / maybe）逐节增加，确证逐节减少。
 - **母题兑现/反转**：遗忘的母题兑现为「一层层被擦掉」：新奥尔良的街区本来就不结实，房东的漆皮像疮，垃圾每周换一个日期出现。Amina 的记忆也是这种被日常擦掉的东西——她的童年没有一件大事，全是这种一周一换的损耗。
 - **人物弧线**：Amina 从「母亲给我的我看」走向「我给自己造的证据」；她第一次意识到自己继承的是母亲造神的同一套技术——把碎片当神迹读。
-- **叙事手法**：分节回溯＋反复自我修正：每节末尾都有一个自我否定的补充句（「I had not yet」「as I imagine」），使记忆始终带着裂缝；章末落在风暴预报上，把全部私人的铺垫压进公共灾难的最后几天。
+- **叙事手法**：分节回溯＋反复自我修正：至少有一处以「我想象的」自我收尾（Fatima 累得换床单），使记忆始终带着裂缝；章末落在风暴预报上，把全部私人的铺垫压进公共灾难的最后几天。
 
 ## 精读
 
@@ -53,7 +53,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 三个「that, that, that」是本书的诊断书：她需要征兆，就自己制造征兆；「农夫」这个被高估的词义，把一个人重新命名成一种可能性。
 
-**读者视角提示：** 对照第五章她说别人「说你是巫女」——她此刻正在对自己做同一件事。
+**读者视角提示：** 对照第五章：继母 Lara 四处宣称她是巫女，父亲 Sani 反而替她辩白「他们说你是巫女，所以我才跑」——流言比真相跑得快，而她此刻正在对自己做同一件事。
 
 > **原句 5:** "“Ooh, that’s pretty,” they would say. Or “I love that one,” when I guided them to bangles like what they’d described. “But do you have something in silver? I’m not really a gold person. Sterling silver?” they’d mime, as if the metal could be described through gesture. Invariably, they wanted what we had in some other form—another color, another metal, another pattern, another size. Our things, as they were, were never enough."
 
@@ -63,7 +63,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 四重排比把消费者的逻辑写成换形不换物：她们要的是「别的东西的形状」。与本章的 forgetting 同构——重要的不是拥有过什么，是此刻能不能拿得出来。
 
-**读者视角提示：** 这一段和第十二章卖衣服给宴席筹备者是同一条线，只是方向相反。
+**读者视角提示：** 这一段和第六章 Esther「I sold my clothes and jewelry…我开始承办宴席」是同一条线，只是方向相反。
 
 > **原句 6:** "What would it mean to bear and raise a child in a perpetually skewed world? A girl, no less. I would want for her what mothers want for daughters: to do better than me, but not so well that I, who gave her life, might be cast aside. Sacrifice must have every opportunity to lord itself over the freedom of a forgetful child."
 
@@ -73,7 +73,7 @@ modified: "2026-10-03"
 
 **为什么这样写：** 全书对母爱最冷的一次陈述：她预先判定自己会嫉妒女儿，并把这判定当作必然。sacrifice 一词既是付出也是霸占，两个含义在同一句里同时生效。
 
-**读者视角提示：** 此处预言了第三十六至三十七章的结局，那时 Oyin 回来要她的位置。
+**读者视角提示：** 此处预言了第三十六至三十七章的结局：Oyin 收到消息后会从国外赶回，成为 Esther 此刻唯一的支撑。
 
 > **原句 7:** "Though I couldn’t complain—food and shelter were no small things—and their presence meant that I didn’t fall off the slippery edge, Fatima and Rashid as godparents did not ease my worries about giving my daughter a good life. I hadn’t spoken to Esther in months; I wanted her to pull me back in. You can return home, Amina, she might say. And bring Laila with you. But that is not their job, Nigerian mothers. They tell you to make the best of your circumstance. Work hard and pray to god for help. Go to church, give praise and an offering. But it might be spiritual warfare causing all your problems, you see; in that case, you must fight back. And if your efforts fail, then thy will be done."
 
