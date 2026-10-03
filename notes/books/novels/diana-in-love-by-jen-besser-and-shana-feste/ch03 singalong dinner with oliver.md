@@ -85,7 +85,7 @@ I listen closely as the floorboards creak beneath his feet. I feel the warmth of
 
 **中文理解**：我把毯子拉过头顶罩住自己，这样我就看不见他了。「你可以走了，」我在毯子底下说。「好吗？」……然后我听见那个再熟悉不过的声音：他走出去，关上了我们之间的卧室门。第二次。
 
-**关键词**：`over my head`（把毯子罩到头上）、`You can go now`（你可以走了）、`for the second time`（第二次）
+**关键词**：`over my head`（把毯子罩到头上）、`You can go now`（你可以走了）、`under the blanket`（在毯子底下）
 
 **为什么这样写**：「very immature」是她自己给这招的命名——躲进毯子是六岁孩子的战术，却也是她此刻唯一负担得起的方式：既要他走，又不肯看着他走。句子全部收进听觉（floorboards creak、吻落在毯子上、关门声），毯子把最后一段变成了一个广播剧。结尾 for the second time 淡淡落下：第一次关门是搬家，这一次是同一扇门、同一个人、刚刚差点重新开始。
 
