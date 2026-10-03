@@ -103,7 +103,7 @@ modified: "2026-10-03"
 
 **中文理解**：三个词的回答，回应"你做什么工作"。第一句 "Relax. I don't have a client until eleven." 之后才是它。
 
-**关键词**：Personal trainer / the body, the supplements, the weights
+**关键词**：Personal trainer
 
 **为什么这样写**：作者让全章最长的那串环境细节（哑铃、蛋白粉、藻类的体格）在这个三个词的回答里得到解释——她早就在猜，答案只是确认。作者接着用一个判断句把它换成她自己的词汇："The body. The supplements. The weights. It makes sense." 而紧接着的是全书最直白的一次自我剖白：她知道"从前的李"不会选一个私人教练（会担心时间冲突、兴趣不合、还有 superficiality），但"now, all that matters is that he is good and kind." 这是一次标准条件的降级——从"合适"降到"好人和善良"。
 
