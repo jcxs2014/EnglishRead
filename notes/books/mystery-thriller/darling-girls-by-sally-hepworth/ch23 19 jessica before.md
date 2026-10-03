@@ -10,7 +10,7 @@ title: "19 – Jessica – Before"
 - **POV**：Jessica（八岁前后，第一人称回顾）
 - **场景**：Wild Meadows 客厅 → 下层牧场 → 马厩 → 门廊 → 地下室外
 - **时间**：二十五年前某个周六下午
-- **核心事件**：Alicia 用 Grammy 那句「浪费好天气是罪」说服 Jessica 骑马；Dirk 教她们骑了一个小时；Miss Fairchild 撞见 Sara Mitchell 而暴怒，逼问「是谁的主意」；Jessica 抢着认领，Miss Fairchild 却宣布「只惩罚一个」并让她们自己选，然后直接抓走 Norah 锁进地下室；Jessica 在门��外想明白：反抗的代价是拿两个姐妹当筹码
+- **核心事件**：Alicia 用 Grammy 那句「浪费好天气是罪」说服 Jessica 骑马；Dirk 教她们骑了一个小时；Miss Fairchild 撞见 Sara Mitchell 而暴怒，逼问「是谁的主意」；Jessica 抢着认领，Miss Fairchild 却宣布「只惩罚一个」并让她们自己选，然后直接抓走 Norah 锁进地下室；Jessica 在门外想明白：反抗的代价是拿两个姐妹当筹码
 
 ## 精读
 
