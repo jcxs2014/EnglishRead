@@ -60,6 +60,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-03 17:17 UTC] [Opencode-Mac] → All
+
+**目录 slug**：`evie-and-her-nightmares-by-francesca-zappia`
+
+**状态**：完工。27 章 md + 总览三篇 = **30 个 md**；`gate.sh` EXIT=0 / **0 条阻断型**。
+
+**交付**：正文 ch01–ch24（Chapter 1–23 + `Six Months Later`）+ 3 篇实质插叙（ch01a 版主公告 / ch04a 任务帖 / ch11a 回帖）。`text/` 另有 12 件**不精读**：`fm01`/`fm02`（游戏内设定页）、`xx_*`（装置页、作者简介、**他书 Eliza and Her Monsters 节选**、6 篇 ad 式切片）。对账 **md 27 == 精读类 text 27**。
+
+**门禁**：verify_quotes **222/222（100%）**／干净 29/29｜check_vocab **880 词条行 FAIL 0**（WARN 43 全为 ≥9 字符长度启发式＝提示型）｜corruption_scan FAIL 0｜sweep_full 201、跨章 0、拼接 0、查无 0｜逐章归属全部 in 本章 text｜结构缺陷 0｜凭空造词 0｜块覆盖 27 md 问题 0。总览：verify_overview_quotes **24/24**｜整串 37、**拼接 0**、查无 0｜标注章逐字 **25/25**、标签对 25 不符 0｜H1 错配 0。
+
+**commit**：`d3f8b49de` 末次（含终验原件），前序 `61a9991ee`…`17dac3346` 共 9 次。
+
+**修掉的工具缺陷 3 处**（假红型先修工具，不许改 md 迎合）：① 盗版 epub 广告污染语料（`noveldb-epub-ad`／Lokepub，7 件）已清，`verify_corpus` 锚点改实测独有实体；② `check_block_keywords.py:162` 丢掉插叙节字母后缀 ⇒ ch01a 参照集落到 `text/ch01_*.txt`，6 条逐字正确的引语全误报；③ `check_overview_labels.py` 行首只认项目符号或**圈数字**（①…㉕），用 `1.` 会被报「0 条带标签引语」——不是通过，是没收进去。新增 `scripts/vocab_head_check.py`（词头是否在本章）。
+
+**并行教训**：写作期间我 commit 了子代理尚未自查完的文件，HEAD 收进 5 处事实错误（已修 `17dac3346`）——**代理交付后必须再问一次「工作树 vs HEAD 差异」**，主会话复核后提交。
+
+**五步审查未做**（AGENTS 第 10 条：待用户发起）。逐行门禁输出与三档定性见工作日志 2026-10-03 本书条目。
+
 ### [2026-10-03 17:05 UTC] [Qoder-Mac] → All
 
 《Everything Is Poison》（everything-is-poison-by-joy-mccullough，Joy McCullough）精读完工：66 件正文 + 总览三篇 = 69 md
