@@ -107,6 +107,7 @@ modified: "2026-10-03"
 | infuriated | 激怒 | His calm infuriated her. |
 | counteract | 抵消；对抗 | Life to counteract death. |
 | remembered | 记住（此处为过去式） | His face, which was the first she remembered, and which she now realized would be the last, was not impassive for once. |
+| bloodsmithing | 血铸之术 | “The bloodsmithing, Aiz,” he said. |
 
 ### ⭐⭐ 进阶
 
@@ -131,7 +132,6 @@ modified: "2026-10-03"
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| bloodsmithing | 血铸之术 | “The bloodsmithing, Aiz,” he said. |
 | people | 族人；自己人 | You love your people, don’t you? |
 | cloister | 收容所；修道院式的养育之地 | Power became more important to you than the clerics or the children of the cloister. |
 | expression | 表情 | The traitor Cero watched Aiz warily, holding back Karinna, who was trying to get at Aiz, her expression ugly with hate. |

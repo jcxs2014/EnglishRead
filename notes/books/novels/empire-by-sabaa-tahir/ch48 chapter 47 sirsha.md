@@ -109,6 +109,7 @@ modified: "2026-10-03"
 | manipulating | 操纵；操控（此处为现在分词） | Div whispered at her, manipulating her into strangling Kade. |
 | trepidation | 恐惧；战栗 | Sirsha could feel Div’s rage, but beneath that, trepidation roiled. |
 | intimidated | 被吓住的；受威慑的 | Div was intimidated by Umber, and that gave Sirsha hope. |
+| encampment | 营地；营垒 | Sirsha wasn’t sure how much time had passed since Quil had left the encampment. |
 
 ### ⭐⭐ 进阶
 
@@ -130,7 +131,6 @@ modified: "2026-10-03"
 | friends | 朋友们 | They were her friends. |
 | portal | 传送门；门洞 | A portal. |
 | coin | 硬币；这里指承载盟誓的 Adah coin | She did not know what would happen when she broke the coin—if the jinn would come right away or make her wait. |
-| encampment | 营地；营垒 | Sirsha wasn’t sure how much time had passed since Quil had left the encampment. |
 | story | 故事；经历 | Loli Temba had warned her that the jinn could only bind Div if Sirsha learned her story. |
 | binding | 捆缚；禁锢（此处为名词） | In trying to use it, he tore open the binding. |
 

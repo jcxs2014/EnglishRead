@@ -103,7 +103,6 @@ modified: "2026-10-03"
 | voluminous | 宽大的；体积可观的（此处形容裙摆） | When one of the guards had found it in Arelia’s voluminous skirt, she insisted it was a type of Martial girdle. |
 | formulated | 拟定；制定 | They’d formulated the plan in the prison wagon on the way here: Escape before they were put in cells. |
 | unbothered | 不为所动的；毫不动容的 | Jaduna appeared at the end of the hall, unbothered by the sheer drop to one side. |
-| hand-to-hand | 徒手的；近身肉搏的 | But he’d always been quick and clever in hand-to-hand combat, his leaner build often leading his opponents to misjudge him. |
 | sidestepped | 侧身避开；闪身错开 | Sufiyan sidestepped him and he stumbled into Quil, who greeted him with a punch to the stomach and a knee to the forehead. |
 | stairwells | 楼梯井；上下通道 | Stick to the stairwells. |
 | disintegrated | 碎裂；当场崩解 | It disintegrated. |
@@ -128,6 +127,7 @@ modified: "2026-10-03"
 | slingshot | 弹弓 | But before Arelia could take down another, the lead Jaduna gestured and a lone vine snaked out, knocking the slingshot from Arelia’s hand. |
 | misjudge | 误判；判断错 | But he’d always been quick and clever in hand-to-hand combat, his leaner build often leading his opponents to misjudge him. |
 | leading | 使…误判（此处为现在分词） | But he’d always been quick and clever in hand-to-hand combat, his leaner build often leading his opponents to misjudge him. |
+| hand-to-hand | 徒手的；近身肉搏的 | But he’d always been quick and clever in hand-to-hand combat, his leaner build often leading his opponents to misjudge him. |
 
 ### ⭐ 基础
 

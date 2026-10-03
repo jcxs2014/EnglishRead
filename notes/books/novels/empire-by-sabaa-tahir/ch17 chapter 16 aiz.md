@@ -110,6 +110,7 @@ modified: "2026-10-03"
 | fashioning | 塑造；把……造成某物 | fashioning it into a blade of air |
 | administered | 施加（惩罚、拳脚等） | the beating Ghaz had personally administered, no doubt |
 | persona | 人设；所扮演的那张面孔 | Mother Div was the persona the creature took on, the face she wore. |
+| Resistance | 抵抗组织（帝国境内的反帝国武装） | they were nearing the Resistance hideout |
 
 ### ⭐⭐ 进阶
 
@@ -135,7 +136,6 @@ modified: "2026-10-03"
 | best friend | 挚友；最好的朋友 | He’d been her best friend. |
 | child | 孩子；童年 | breathed the Nine Sacred Tales into her as a child |
 | dirt | 泥土；尘土 | sent her reeling into the dirt |
-| Resistance | 抵抗组织（帝国境内的反帝国武装） | they were nearing the Resistance hideout |
 | blasted man | 该死的男人（骂人语） | How did the blasted man know she was here? |
 | mission | 任务；使命 | we’ll be dead before we can carry out the mission |
 

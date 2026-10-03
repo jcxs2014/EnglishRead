@@ -112,6 +112,7 @@ modified: "2026-10-03"
 | quizzically | 疑惑地；不解地看人 | He slapped at what he thought must be a mosquito, only for Karinna to look at him quizzically. |
 | compulsion | 强迫力；无法抗拒的冲动 | It was such a powerful compulsion that he kept trying to move forward, ill as he felt. |
 | unspeakable | 无法言说的；难以形容的 | Perfectly round, its inside teeming with some unspeakable horror. |
+| apparition | 幽灵；幻影 | The apparition’s warning rang through his head. |
 
 ### ⭐⭐ 进阶
 
@@ -128,13 +129,12 @@ modified: "2026-10-03"
 | distance | 距离；间距 | They made their way west, following the river, keeping a good distance from the strange flora and fauna. |
 | appeared | 显得；看上去（此处指 Karinna 显得睡不着） | Karinna appeared not to be able to sleep either, and eventually, she spoke. |
 | stared | 盯着看；凝视 | He glanced over at her, but she was staring straight up at the constellations wheeling overhead. |
+| cataclysm | 大灾变；灭世之灾 | “The stories call it a cataclysm. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| apparition | 幽灵；幻影 | The apparition’s warning rang through his head. |
-| cataclysm | 大灾变；灭世之灾 | “The stories call it a cataclysm. |
 | mosquito | 蚊子 | He slapped at what he thought must be a mosquito, only for Karinna to look at him quizzically. |
 | beaches | 海滩（复数） | “It taints the sands of our beaches, the branches of our trees, the earth beneath our city. |
 | buzz | 嗡嗡声 | As they approached the central building, Cero heard something strange—a buzz. |

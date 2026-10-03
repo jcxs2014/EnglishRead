@@ -101,7 +101,6 @@ modified: "2026-10-03"
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
 | encampment | 营地；营寨 | Quil and his companions left the Empire encampment well before dawn, when most everyone would be sleeping. |
-| about-face | 转身掉头；改变主意 | Quil considered an about-face but decided honesty was wiser. |
 | self-neglect | 自我疏忽；糟蹋自己 | We don’t have the luxury of losing our empress to self-neglect. |
 | bequeathed | 遗留给；传下 | What have I bequeathed you instead, nephew? |
 | reluctance | 不情愿；勉强 | She complied with reluctance, her cheeks hollow, her eyes wretched. |
@@ -126,6 +125,7 @@ modified: "2026-10-03"
 | forsake | 抛弃；放弃 | You told me only days ago that I must not forsake hope. |
 | wretched | 可怜的；凄惨的 | She complied with reluctance, her cheeks hollow, her eyes wretched. |
 | striated | 有条纹的；层状的 | After leaving, Elias ranged ahead, seeking any threat that might lurk amid the brilliantly striated spires and deep ravines of the badlands. |
+| about-face | 转身掉头；改变主意 | Quil considered an about-face but decided honesty was wiser. |
 
 ### ⭐ 基础
 
