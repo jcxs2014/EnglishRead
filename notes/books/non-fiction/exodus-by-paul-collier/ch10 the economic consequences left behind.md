@@ -104,7 +104,7 @@ modified: "2026-10-03"
 
 - **中文理解**：解释是：面对更宽松的限制，移民会把更多亲人接出来，这就减少了寄钱的必要——把母亲接到东道国，是给她寄钱的替代方案。
 - **句子结构**：主干是解释性 that 从句，冒号后用 bringing...is an alternative to sending... 的动名词对仗把结论写成格言。
-- **关键词**：`easier restrictions`、`brings in more of their relatives`、`an alternative to sending her money`
+- **关键词**：`easier restrictions`、`bring in more of their relatives`、`an alternative to sending her money`
 - **表达方式**：mother 的突然具体化是全段修辞的枢纽——政策变量瞬间有了体温；两个动名词短语的对仗把"团聚 vs 汇款"写成一道二选一。
 - **为什么这样写**：这是侨汇一节的反直觉落点：放宽签证反而抽干侨汇。它直接挑战"开放门户帮穷人"的直觉，也为全书政策章的"限制家庭团聚"主张预支了一块实证砖。
 
