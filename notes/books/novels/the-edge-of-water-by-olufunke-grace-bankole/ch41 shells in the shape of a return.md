@@ -9,6 +9,7 @@ modified: "2026-10-03"
 
 - **一句话概括**：回到加州一周后的 Laila：她和 Tosin 约好聊"家"，她背下了尼日利亚政府的必要事实和当下流行，好把谈话引向自己的方向；而全章真正的落点是那个称呼——她决定叫 Esther "grandma"。
 - **情感弧线位置**：从 "cocooned inside the memory of a place she could now claim"（蜷在一种她现在可以认领的记忆里）走到 "Laila was learning to give things the room they needed to evolve"（她正在学着给东西它们各自演化所需的空间）。
+- **母题兑现/反转**：回归的母题兑现为「带走的不是地点」：回加州一周，她窝在一种终于可以认领的记忆里。飞机上邻座问她在尼日利亚做什么，她答「看我的家人」——这句话让她自己都吃了一惊。回归的反转在于：她认领的不是那个地方，是自己在里面的位置。
 - **人物弧线**：Laila 从被接回的客人变成主动选择归属的人（"She felt as if she belonged to them now"），又从需要被问 "What will you do now?" 变成 "Laila had options."（她有选择了）。
 - **叙事手法**：章题是 a return，而这一章的"回归"是分层的：人回了加州，记忆回不去也丢不掉，称呼回到一个更老的辈分上；作者用短信与回忆两条线并行，不写见面以后的任何一句话。
 

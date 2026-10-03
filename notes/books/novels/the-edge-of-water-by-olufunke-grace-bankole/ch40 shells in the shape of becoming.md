@@ -9,6 +9,7 @@ modified: "2026-10-03"
 
 - **一句话概括**：从石头上下来之后，费利西蒂巷开始传闲话（"He patted her backside out in the open—they were shameless, O!"），而餐厅里真正发生的事是一桩还没谈完的生意：Joseph 问 "If I stay, what would I do?"，Esther 说她能给他一块招牌。
 - **情感弧线位置**：全章从街坊的一句"终于在一起了"开始，到 "filling all with the hope that it is never too late" 收束——两人第一次并肩坐着，但结局仍未落定（"Let me think about it."）。
+- **母题兑现/反转**：生成的母题兑现为「招牌上多一个名字」：Joseph 和 Esther 从石头那里回来，整条巷子已经传遍了。生成不是造出新东西，是让两个人第一次被外界说成同一个名字。
 - **人物弧线**：Esther 从寄信人变成店主、把 Amina 的头巾挂在墙上并给它一个名牌；Joseph 从"替她跑腿"变成要开口问"我留下能干什么"，还把回程票改成了不限日期。
 - **叙事手法**：章题是 becoming，而这一章用的是"传闻体"：四句独立的 gossip 引语各自成段，作者不写谁在说，只让一个反问句 "Does it really matter?" 把整条街的判断打成一句。
 

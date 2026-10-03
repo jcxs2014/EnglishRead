@@ -9,6 +9,7 @@ modified: "2026-10-03"
 
 - **一句话概括**：五个人第一次真正聚在一起：Esther、Oyin、Laila、Joseph，加上不在场的 Amina 的灵魂，坐在那块石头上——而 Iyanifa 承认，那个结局是只有上帝能定的，人至多是在想象。
 - **情感弧线位置**：从酒店房间的关门声（"LAILA CLOSED THE HOTEL ROOM DOOR AND WALKED down to the lobby."）走到预言式的散场；中间 Esther 看 Laila 脚上的尘土那一下，是全章唯一的安全确认。
+- **母题兑现/反转**：记忆的母题在此**反转**：章题是 remembering，可这一章几乎没有回忆，五个女人靠「同时在场」完成彼此的确认。Iyanifa 最后把边界说破了——只有上帝能定结局，人至多在想象。
 - **人物弧线**：Laila 从"刚下飞机"变成能被两个女人 cooing 着围住的人；Esther 从寄信人变成当面把信放进包的人；Joseph 变成那个解释石头名字、开车、把 Esther 的手揽在臂弯里的人。
 - **叙事手法**：章题是 remembering，而全章没有一句回忆：五个人是靠"在场"完成记忆的，Iyanifa 只在最后一段开口，说人只能想象。
 

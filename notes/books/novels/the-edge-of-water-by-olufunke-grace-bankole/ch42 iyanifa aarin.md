@@ -9,6 +9,7 @@ modified: "2026-10-03"
 
 - **一句话概括**：全书最后一章，也是最短的一章：Amina 死后没有一个人在等她；Imole 提供"忘掉"，Aarin 提供"记住以便引路与警告"，而预言者自己选了后者——"Time has no borders here—she has yet to decide."
 - **情感弧线位置**：从 "None of the family Amina knew awaited her return"（她认识的那家人没有一个在等她回来）走到这一章的最后一句：时间在这里没有边界，而她还没有决定。全章是一道没有答案的选择题。
+- **母题兑现/反转**：Aarin 的母题兑现为全书的落点：Imole 提供忘掉，Aarin 提供记住以便引路与警告——预言者自己选了后者。水的母题至此合拢成一句：记住，是为了下一次有人来得及。
 - **人物弧线**：这是 Amina 唯一一次在死后仍然作为"她"出场；而 Iyanifa 第一次把自己写进了选项里——"the middle place is what I, Iyanifa, Ifa priestess, mother of mysteries, diviner of Orunmila, chose."
 - **叙事手法**：全书唯一一章把三条道路（Imole / Aarin / 尚未决定）并排列出，两个已知选项各由一个以地名开头的长句给出：Imole 的是 "provides one solace"，Aarin 的是 "offers the chance to remember"；作者不给结局，只给两个已备好的答案和一个空位。
 
