@@ -18,7 +18,7 @@ modified: "2026-10-03"
 
 **中文理解：** "Karinna 双颊涨红，而 Cero 觉得很有意思——她竟毫不费力地把自己的怒气摆在脸上。他有点欣赏她这一点。他这一生都在把自己所有的感受埋进心里最暗的那个角落。"
 
-**关键词：** her cheeks flushed · didn’t bother to hide her anger · burying all his feelings
+**关键词：** Karinna’s cheeks flushed · didn’t bother to hide her anger · burying all his feelings
 
 **为什么这样写：** 这一段用两句话把两个人的处世方式摆成了对角。作者先给一个身体细节（脸颊涨红），再用一个 fascinating 把它转成旁观者的兴趣——他注意的是"她不遮掩"，而不是"她生气"；紧接着 admired her for it, in a way 里那个插入的 in a way 又把欣赏打了折，暗示他并不真觉得自己做得到。末句把自己摆到她的反面：最暗的角落是具体的位置，不是笼统的"藏起来"。同一段里两个人，一个把情绪摔在对方脸上，一个把它按进地板下。
 

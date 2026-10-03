@@ -78,7 +78,7 @@ modified: "2026-10-03"
 
 **中文理解：** "他感觉到她从自己身边擦过；尽管看不见她，他还是因她耳语里的威胁打了个寒战：「那里有怪物。」"
 
-**关键词：** brushed past him · he shivered at the menace in her whisper · There be monsters
+**关键词：** her brush past him · he shivered at the menace in her whisper · There be monsters
 
 **为什么这样写：** 全章最后一句把整场政治与战事的音量突然压到耳语。even though he couldn’t see her 让身体先于意识做出反应——看不见却发冷，说明危险不在视野里而在近处。There be monsters 用古语式的倒装与 be 动词，语体比本章其他任何一句都旧，像是从某个更早的时代传下来的判词；而在此之前本章通篇谈的是 Sails、ordnance、Ikfa 这类可清点的军备，怪物却是唯一无法清点的东西。
 

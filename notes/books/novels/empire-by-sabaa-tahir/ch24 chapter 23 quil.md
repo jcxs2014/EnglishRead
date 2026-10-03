@@ -78,7 +78,7 @@ modified: "2026-10-03"
 
 **中文理解：** "'Sirsha 是我的 Adah。'他掏出那枚硬币。'我的另一半灵魂。你们知道这誓约有多强。我不会在不知道为什么的情况下把她带来，也不会在没有安全保证的情况下带来。'"
 
-**关键词：** Sirsha is my Adah · my soul half · the bond is powerful · without a guarantee of her safety
+**关键词：** Sirsha is my Adah · my soul half · how powerful the bond is · without a guarantee of her safety
 
 **为什么这样写：** 这是本章唯一一次 Quil 从接受者变成谈判者，而他的谈判姿态全靠物件与短句撑起：He pulled his coin free 让手先动，嘴才跟上；My soul half 只有三个词，却把誓约的份量一次说完。后面两个 without 平行结构是本章最硬的两条条件，一个要解释、一个要保证——不是请求，是条款。他没有说"我不想"，说的是"我不会在没有这两样的情况下"。
 

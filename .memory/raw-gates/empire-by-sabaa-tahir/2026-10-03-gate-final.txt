@@ -1,0 +1,138 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 524/524 引文可核实（100%）；完全干净文件 63/63；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 1709
+--- FAIL (0) ---
+--- WARN (40) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 479 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 prologue.md                               ch01 prologue.md: 7/7 in ch01 text
+ch02 chapter 1 ruh.md                          ch02 chapter 1 ruh.md: 8/8 in ch02 text
+ch03 chapter 2 quil.md                         ch03 chapter 2 quil.md: 8/8 in ch03 text
+ch04 chapter 3 sirsha.md                       ch04 chapter 3 sirsha.md: 8/8 in ch04 text
+ch05 chapter 4 quil.md                         ch05 chapter 4 quil.md: 8/8 in ch05 text
+ch06 chapter 5 sirsha.md                       ch06 chapter 5 sirsha.md: 8/8 in ch06 text
+ch07 chapter 6 cero.md                         ch07 chapter 6 cero.md: 8/8 in ch07 text
+ch08 chapter 7 karinna.md                      ch08 chapter 7 karinna.md: 8/8 in ch08 text
+ch09 chapter 8 quil.md                         ch09 chapter 8 quil.md: 8/8 in ch09 text
+ch10 chapter 9 sirsha.md                       ch10 chapter 9 sirsha.md: 8/8 in ch10 text
+ch11 chapter 10 cero.md                        ch11 chapter 10 cero.md: 8/8 in ch11 text
+ch12 chapter 11 karinna.md                     ch12 chapter 11 karinna.md: 8/8 in ch12 text
+ch13 chapter 12 quil.md                        ch13 chapter 12 quil.md: 8/8 in ch13 text
+ch14 chapter 13 sirsha.md                      ch14 chapter 13 sirsha.md: 8/8 in ch14 text
+ch15 chapter 14 cero.md                        ch15 chapter 14 cero.md: 8/8 in ch15 text
+ch16 chapter 15 karinna.md                     ch16 chapter 15 karinna.md: 8/8 in ch16 text
+ch17 chapter 16 aiz.md                         ch17 chapter 16 aiz.md: 8/8 in ch17 text
+ch18 chapter 17 quil.md                        ch18 chapter 17 quil.md: 8/8 in ch18 text
+ch19 chapter 18 sirsha.md                      ch19 chapter 18 sirsha.md: 8/8 in ch19 text
+ch20 chapter 19 karinna.md                     ch20 chapter 19 karinna.md: 8/8 in ch20 text
+ch21 chapter 20 quil.md                        ch21 chapter 20 quil.md: 8/8 in ch21 text
+ch22 chapter 21 sirsha.md                      ch22 chapter 21 sirsha.md: 8/8 in ch22 text
+ch23 chapter 22 cero.md                        ch23 chapter 22 cero.md: 7/7 in ch23 text
+ch24 chapter 23 quil.md                        ch24 chapter 23 quil.md: 8/8 in ch24 text
+ch25 chapter 24 sirsha.md                      ch25 chapter 24 sirsha.md: 8/8 in ch25 text
+ch26 chapter 25 cero.md                        ch26 chapter 25 cero.md: 8/8 in ch26 text
+ch27 chapter 26 karinna.md                     ch27 chapter 26 karinna.md: 8/8 in ch27 text
+ch28 chapter 27 quil.md                        ch28 chapter 27 quil.md: 8/8 in ch28 text
+ch29 chapter 28 sirsha.md                      ch29 chapter 28 sirsha.md: 8/8 in ch29 text
+ch30 chapter 29 karinna.md                     ch30 chapter 29 karinna.md: 8/8 in ch30 text
+ch31 chapter 30 aiz.md                         ch31 chapter 30 aiz.md: 8/8 in ch31 text
+ch32 chapter 31 quil.md                        ch32 chapter 31 quil.md: 8/8 in ch32 text
+ch33 chapter 32 sirsha.md                      ch33 chapter 32 sirsha.md: 8/8 in ch33 text
+ch34 chapter 33 karinna.md                     ch34 chapter 33 karinna.md: 8/8 in ch34 text
+ch35 chapter 34 cero.md                        ch35 chapter 34 cero.md: 7/7 in ch35 text
+ch36 chapter 35 quil.md                        ch36 chapter 35 quil.md: 8/8 in ch36 text
+ch37 chapter 36 sirsha.md                      ch37 chapter 36 sirsha.md: 8/8 in ch37 text
+ch38 chapter 37 karinna.md                     ch38 chapter 37 karinna.md: 8/8 in ch38 text
+ch39 chapter 38 cero.md                        ch39 chapter 38 cero.md: 8/8 in ch39 text
+ch40 chapter 39 aiz.md                         ch40 chapter 39 aiz.md: 8/8 in ch40 text
+ch41 chapter 40 quil.md                        ch41 chapter 40 quil.md: 8/8 in ch41 text
+ch42 chapter 41 sirsha.md                      ch42 chapter 41 sirsha.md: 7/7 in ch42 text
+ch43 chapter 42 cero.md                        ch43 chapter 42 cero.md: 8/8 in ch43 text
+ch44 chapter 43 quil.md                        ch44 chapter 43 quil.md: 7/7 in ch44 text
+ch45 chapter 44 sirsha.md                      ch45 chapter 44 sirsha.md: 8/8 in ch45 text
+ch46 chapter 45 cero.md                        ch46 chapter 45 cero.md: 8/8 in ch46 text
+ch47 chapter 46 quil.md                        ch47 chapter 46 quil.md: 8/8 in ch47 text
+ch48 chapter 47 sirsha.md                      ch48 chapter 47 sirsha.md: 8/8 in ch48 text
+ch49 chapter 48 karinna.md                     ch49 chapter 48 karinna.md: 7/7 in ch49 text
+ch50 chapter 49 cero.md                        ch50 chapter 49 cero.md: 7/7 in ch50 text
+ch51 chapter 50 aiz.md                         ch51 chapter 50 aiz.md: 7/7 in ch51 text
+ch52 chapter 51 quil.md                        ch52 chapter 51 quil.md: 8/8 in ch52 text
+ch53 chapter 52 karinna.md                     ch53 chapter 52 karinna.md: 8/8 in ch53 text
+ch54 chapter 53 sirsha.md                      ch54 chapter 53 sirsha.md: 8/8 in ch54 text
+ch55 chapter 54 aiz.md                         ch55 chapter 54 aiz.md: 8/8 in ch55 text
+ch56 chapter 55 cero.md                        ch56 chapter 55 cero.md: 8/8 in ch56 text
+ch57 chapter 56 srsha.md                       ch57 chapter 56 srsha.md: 8/8 in ch57 text
+ch58 chapter 57 cero.md                        ch58 chapter 57 cero.md: 8/8 in ch58 text
+ch59 chapter 58 ruh.md                         ch59 chapter 58 ruh.md: 8/8 in ch59 text
+ch60 chapter 59 quil.md                        ch60 chapter 59 quil.md: 8/8 in ch60 text
+ch61 epilogue the sea captain.md               ch61 epilogue the sea captain.md: 7/7 in ch61 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：61 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（empire-by-sabaa-tahir）===
+  ✅ 逐字 1785 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 956
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 20/20 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 45/45 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（empire-by-sabaa-tahir）===
+  参照集：text/（61 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（empire-by-sabaa-tahir）===
+  带前缀的 `> **原句 N:**` 行：61 个文件共 479 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：61 个 md，问题 0 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
