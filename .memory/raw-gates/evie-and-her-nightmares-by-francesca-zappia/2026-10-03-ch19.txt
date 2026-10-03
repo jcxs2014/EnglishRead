@@ -1,0 +1,97 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+
+⚠️ 全书共 7 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 185/185 引文可核实（100%）；完全干净文件 25/25；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 807
+--- FAIL (0) ---
+--- WARN (38) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 185 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 7 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 everyone lies at funerals.md              ch01 everyone lies at funerals.md: 8/8 in ch01 text
+ch01a welcome dreamhunters.md                  ch01a welcome dreamhunters.md: 4/4 in ch01 text（另有 2 条短引语未校验）
+ch02 tired disappointment radiates from mom.md ch02 tired disappointment radiates from mom.md: 8/8 in ch02 text
+ch03 i had nightmares when i was little.md     ch03 i had nightmares when i was little.md: 8/8 in ch03 text
+ch04 two hundred fifty six steps to my car.md  ch04 two hundred fifty six steps to my car.md: 8/8 in ch04 text
+ch04a tell him emerys gonna kick his butt.md   ch04a tell him emerys gonna kick his butt.md: 4/4 in ch04 text（另有 1 条短引语未校验）
+ch05 one hundred eighty one steps later.md     ch05 one hundred eighty one steps later.md: 8/8 in ch05 text
+ch06 the hunt is on.md                         ch06 the hunt is on.md: 7/7 in ch06 text（另有 1 条短引语未校验）
+ch07 this therapy appointment is a real pain in my ass.md ch07 this therapy appointment is a real pain in my ass.md: 8/8 in ch07 text
+ch08 people dont wait for me.md                ch08 people dont wait for me.md: 8/8 in ch08 text
+ch09 rave you get the invite.md                ch09 rave you get the invite.md: 8/8 in ch09 text
+ch10 i hit the level cap on monday night.md    ch10 i hit the level cap on monday night.md: 8/8 in ch10 text
+ch11 ash is waiting for me.md                  ch11 ash is waiting for me.md: 8/8 in ch11 text
+ch11a novicedreamforming.md                    ch11a novicedreamforming.md: 4/4 in ch11 text（另有 1 条短引语未校验）
+ch12 the sun shines at the saturday track meet.md ch12 the sun shines at the saturday track meet.md: 8/8 in ch12 text
+ch15 one week is the dreambreaker expansion.md ch15 one week is the dreambreaker expansion.md: 8/8 in ch15 text
+ch16 i speak a secret language.md              ch16 i speak a secret language.md: 7/7 in ch16 text（另有 1 条短引语未校验）
+ch17 i finish the expansion campaign before saturday.md ch17 i finish the expansion campaign before saturday.md: 8/8 in ch17 text
+ch18 im still sleeping i must be.md            ch18 im still sleeping i must be.md: 7/7 in ch18 text（另有 1 条短引语未校验）
+ch19 the first thing i do is shove all four children of hypnos.md ch19 the first thing i do is shove all four children of hypnos.md: 8/8 in ch19 text
+ch20 alissa isnt next to me.md                 ch20 alissa isnt next to me.md: 8/8 in ch20 text
+ch21 holding it together is all i can do.md    ch21 holding it together is all i can do.md: 8/8 in ch21 text
+ch22 my brain is good at tricking me.md        ch22 my brain is good at tricking me.md: 8/8 in ch22 text
+ch23 a week and a half after my visit to anna.md ch23 a week and a half after my visit to anna.md: 8/8 in ch23 text
+ch24 six months later.md                       ch24 six months later.md: 8/8 in ch24 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：25 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（evie-and-her-nightmares-by-francesca-zappia）===
+  ✅ 逐字 747 ｜ ⚠️ 跨章 7 ｜ 🔶 拼接 112 ｜ 🟠 部分命中 2 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 478
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+（无总览三篇，本项不适用）
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+（无总览三篇，本项不适用）
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（evie-and-her-nightmares-by-francesca-zappia）===
+  参照集：text/（39 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（evie-and-her-nightmares-by-francesca-zappia）===
+  带前缀的 `> **原句 N:**` 行：25 个文件共 192 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：25 个 md，问题 0 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
