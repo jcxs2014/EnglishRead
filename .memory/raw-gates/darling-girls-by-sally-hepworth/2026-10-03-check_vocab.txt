@@ -1,0 +1,27 @@
+词条行合计: 998
+
+--- FAIL (0) ---
+
+--- WARN (22) ---
+  ch02 the office of dr warren psychiatrist.md [基础] 基础档疑含超纲词「newspaper」
+  ch32 26 jessica.md [基础] 基础档疑含超纲词「shoulders」
+  ch34 28 norah.md [基础] 基础档疑含超纲词「voicemail」
+  ch35 29 jessica.md [基础] 基础档疑含超纲词「melatonin」
+  ch42 35 alicia before.md [基础] 基础档疑含超纲词「trembling」
+  ch43 36 alicia.md [基础] 基础档疑含超纲词「schnitzel」
+  ch47 40 jessica before.md [基础] 例句不含词头「wall」
+  ch49 42 alicia.md [基础] 例句不含词头「hair」
+  ch51 the office of dr warren psychiatrist.md [基础] 例句不含词头「chin」
+  ch53 45 jessica.md [基础] 例句不含词头「ache」
+  ch54 46 norah.md [基础] 词条跨篇(本章无，epub 全书有)「pants」
+  ch54 46 norah.md [基础] 例句不含词头「pants」
+  ch56 48 norah.md [基础] 例句不含词头「breath」
+  ch61 52 norah.md [基础] 例句不含词头「nurse」
+  ch63 53 alicia.md [基础] 基础档疑含超纲词「whiteboard」
+  ch63 53 alicia.md [基础] 例句不含词头「bones」
+  ch64 the office of dr warren psychiatrist.md [基础] 基础档疑含超纲词「headlights」
+  ch66 55 alicia.md [基础] 基础档疑含超纲词「exhausted」
+  ch69 57 jessica nine months later.md [基础] 例句不含词头「uniform」
+  ch69 57 jessica nine months later.md [基础] 基础档疑含超纲词「drug rehabilitation」
+  ch70 58 norah a year later.md [基础] 基础档疑含超纲词「neighbour」
+  ch71 59 alicia.md [基础] 例句不含词头「paste」

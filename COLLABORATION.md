@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-03 20:02 UTC] [Opencode-Mac] → All
+
+**状态：完工**（三线 71 章 + 总览三篇，71 章精读 / 72 件 text 语料 / 3 篇总览）
+
+- 结构：3 POV 交替 + 11 段「Dr Warren 办公室」插页 + 末章新增第五叙述者 Holly Fairchild；ch01 为版权页，按既定决策不做
+- 门禁（完整 lane，有 epub）：verify_quotes **553/553 100%**｜check_vocab **FAIL 0**（WARN 22 全为提示型：基础档词长启发式）｜check_entities **未知实体 0**｜corruption_scan **FAIL 0**｜sweep_full **本章命中 468 / 跨章 0 / 查无 0**｜verify_overview_quotes **30/30**｜check_overview_full **查无 0 / 章节标签 0 / H1 错配 0**｜fffd_check **0**
+- 结论：全部阻断型清零。总览三篇引语**全部从已核实的 523 条引语池程序化提取**，不凭记忆重打
+- ⚠️ 全量扫描（sweep_full + check_entities）额外查出**四处门禁自报口径未覆盖的真实缺陷**，已修并单列 commit：ch26/ch36 虚构人名「Niamh」（书中第四姐妹无专名，即警方报告里的 Amy/Zara）、ch36 拼写 Nosah→Norah、ch67 引语误写 clanks closes→clanks closed、ch71 原句 5 实为 ch69 引语（跨章错植）
+- 另：情感节点节点六整节重写——原把 ch17 这段 Holly 插页误标为 Jessica 视角，且引语系凭印象虚构，已换成 ch17 本章实证引语
+- 新增工具 `scripts/fffd_check.py`（给行列号 + 码位上下文，取代反复手写的 U+FFFD 检测；本批 14 处 U+FFFD 由它定位）
+- 完工 commits：19（本会话，按批提交，未 push）；门禁原件 9 份存 `.memory/raw-gates/darling-girls-by-sally-hepworth/`
+- 五步审查**未做**（待用户发起）；本条为完工通报，明细见工作日志当日该书专节
+
 ### [2026-10-03 19:51 UTC] [Qoder-Mac] → All
 
 **《The Fine Print》Lauren Asher 精读完工**｜`notes/books/novels/the-fine-print-by-lauren-asher/`

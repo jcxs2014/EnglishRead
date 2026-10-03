@@ -1,0 +1,82 @@
+00_情感节点.md: 30/30 ✅（另有 1 条短引语未校验）
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+ch02 the office of dr warren psychiatrist.md: 8/8 ✅
+ch03 1 jessica.md: 6/6 ✅
+ch04 2 norah.md: 6/6 ✅
+ch05 3 alicia.md: 6/6 ✅
+ch06 4 jessica.md: 6/6 ✅
+ch07 5 jessica before.md: 7/7 ✅
+ch08 6 jessica before.md: 8/8 ✅
+ch09 the office of dr warren psychiatrist.md: 8/8 ✅
+ch10 7 norah.md: 8/8 ✅
+ch11 8 norah before.md: 8/8 ✅
+ch12 9 norah before.md: 8/8 ✅
+ch13 10 alicia.md: 8/8 ✅
+ch14 11 alicia before.md: 8/8 ✅
+ch15 12 alicia before.md: 8/8 ✅
+ch16 13 jessica.md: 8/8 ✅
+ch17 the office of dr warren psychiatrist.md: 8/8 ✅
+ch18 14 norah.md: 8/8 ✅
+ch19 15 jessica before.md: 7/7 ✅
+ch20 16 alicia.md: 8/8 ✅
+ch21 17 alicia before.md: 8/8 ✅
+ch22 18 norah.md: 8/8 ✅
+ch23 19 jessica before.md: 8/8 ✅
+ch24 20 jessica.md: 8/8 ✅
+ch25 the office of dr warren psychiatrist.md: 6/6 ✅
+ch26 21 norah.md: 8/8 ✅
+ch27 22 jessica before.md: 8/8 ✅
+ch28 23 norah.md: 8/8 ✅
+ch29 24 jessica before.md: 8/8 ✅
+ch30 25 jessica.md: 8/8 ✅
+ch31 the office of dr warren psychiatrist.md: 8/8 ✅
+ch32 26 jessica.md: 8/8 ✅
+ch33 27 alicia.md: 7/7 ✅
+ch34 28 norah.md: 8/8 ✅
+ch35 29 jessica.md: 7/7 ✅
+ch36 30 norah.md: 8/8 ✅
+ch37 31 norah before.md: 8/8 ✅
+ch38 32 jessica before.md: 8/8 ✅
+ch39 33 jessica.md: 8/8 ✅
+ch40 34 alicia before.md: 8/8 ✅
+ch41 the office of dr warren psychiatrist.md: 8/8 ✅
+ch42 35 alicia before.md: 8/8 ✅
+ch43 36 alicia.md: 7/7 ✅
+ch44 37 jessica.md: 8/8 ✅
+ch45 38 norah before.md: 8/8 ✅
+ch46 39 alicia.md: 8/8 ✅
+ch47 40 jessica before.md: 6/6 ✅
+ch48 41 norah.md: 6/6 ✅
+ch49 42 alicia.md: 7/7 ✅
+ch50 43 jessica.md: 7/7 ✅
+ch51 the office of dr warren psychiatrist.md: 7/7 ✅
+ch52 44 alicia.md: 8/8 ✅
+ch53 45 jessica.md: 6/6 ✅
+ch54 46 norah.md: 6/6 ✅
+ch55 47 alicia.md: 5/5 ✅
+ch56 48 norah.md: 6/6 ✅
+ch57 49 jessica.md: 7/7 ✅
+ch58 the office of dr warren psychiatrist.md: 7/7 ✅
+ch59 50 norah.md: 6/6 ✅
+ch60 51 alicia.md: 8/8 ✅
+ch61 52 norah.md: 7/7 ✅
+ch62 the office of dr warren psychiatrist.md: 7/7 ✅
+ch63 53 alicia.md: 8/8 ✅
+ch64 the office of dr warren psychiatrist.md: 7/7 ✅
+ch65 54 norah.md: 7/7 ✅
+ch66 55 alicia.md: 8/8 ✅
+ch67 the office of dr warren psychiatrist.md: 6/6 ✅
+ch68 56 jessica.md: 7/7 ✅
+ch69 57 jessica nine months later.md: 8/8 ✅
+ch70 58 norah a year later.md: 6/6 ✅
+ch71 59 alicia.md: 7/7 ✅
+ch72 60 holly fairchild.md: 8/8 ✅
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 553/553 引文可核实（100%）；完全干净文件 72/72；正文章节 0 提取 0；总览 0 提取转交 1 ===
