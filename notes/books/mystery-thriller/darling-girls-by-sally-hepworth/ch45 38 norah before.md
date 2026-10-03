@@ -134,7 +134,7 @@ title: "38 – Norah – Before"
 |------|------|------|
 | bins | 垃圾桶 | Check the rubbish bins, too. |
 | fist | 拳头 | She slammed her fist into the wall again, and again. |
-| wall | 墙，墙面 | Which buckled slightly; it was barely thicker than paper. |
+| wall | 墙，墙面 | She slammed her fist into the wall again, and again. |
 | roll | （面包）卷 | She brought them salad rolls and more chocolate bars to eat |
 | vending | 自动售货（机） | I can get you something to drink from the vending machine. |
 
