@@ -45,7 +45,7 @@ modified: "2026-10-04"
 - 句子结构：四句，逐句缩短后再来一个长的收尾。前两句用同一个 `Split… / Stitch…` 句式的平行结构给出全息隐喻的推论；第三句用 `Maybe` 让步；第四句以一个极不客气的比较收束（`as much standalone soul as my parietal lobe`）。
 - 关键词：Minds are holograms；Split one in half；Stitch two together；standalone soul；parietal lobe
 - 表达方式：把「全息图」这个物理概念当成灵魂论的本体论工具；`parietal lobe`（顶叶）是大脑里负责空间感知的一块，用它当「独立灵魂」的计量单位，语气是羞辱而非论证。
-- 为什么这样写：这段话把全篇的敌意说清了：Hakim 恨的不是叙述者做了什么，而是他成了什么。而他此刻说出这个判断，恰恰是在被叙述者拖着穿过恒星、命悬一线的时候——信念与生存的分裂感在这里第一次显形。
+- 为什么这样写：这段话把全篇的敌意说清了：Hakim 恨的不是叙述者做了什么，而是他成了什么。而他此刻说出这个判断，恰恰是在停尸走廊里、在那些层层叠叠的死者旁边——信念与生存的分裂感在这里第一次显形。
 
 ⑤ "It’s not a war. It’s a fucking tantrum. They tried to derail the mission and the Chimp stopped them. Simple as that, and perfectly predictable. That’s why the engineers made the Chimp so minimalist in the first place, why the mission isn’t run by some transcendent AI with an eight-dimensional IQ: so that things will stay predictable. If my fellow meat sacks couldn’t see it coming, they’re more stupid than the thing they’re fighting."
 

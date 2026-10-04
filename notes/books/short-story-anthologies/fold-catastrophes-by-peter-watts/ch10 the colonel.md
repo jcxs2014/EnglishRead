@@ -34,23 +34,23 @@ modified: "2026-10-04"
 ③ "He’s a blind man in a bright room. He’s a rhesus monkey playing chess with a grandmaster. He has no idea of his opponent’s strategy. He has no concept even of the rules of the game. He only knows he’s bound to lose."
 
 - 中文理解：他是一个待在明亮房间里的盲人。他是一只跟大师下棋的恒河猴。他对对手的策略毫无概念。他对这盘棋的规则甚至都没有概念。他唯一知道的是，自己注定要输。
-- 句子结构：五句排比，长度递增。前两句用同一结构 同一句式给出两个比喻（盲人／猴子），第三、四句用 `He has no idea…`／`He has no concept even of…` 的递进结构把「无知」加深一层（`even` 是那个「更别说」），第五句用一个限定性转折（`He only knows`）收束，把前面全部的「不知道」折成一个「知道」。
+- 句子结构：五句排比，长度递增。前两句用同一句式给出两个比喻（盲人／猴子），第三、四句用 `He has no idea…`／`He has no concept even of…` 的递进结构把「无知」加深一层（`even` 是那个「更别说」），第五句用一个限定性转折（`He only knows`）收束，把前面全部的「不知道」折成一个「知道」。
 - 关键词：a blind man in a bright room；a rhesus monkey playing chess；no idea of his opponent's strategy；no concept even of the rules；bound to lose
 - 表达方式：两个比喻一静一动——明亮的房间里的盲人（信息就在眼前，但他接收不到）与下棋的猴子（他坐在棋盘前，规则对他封闭）。最后一句 `he's bound to lose` 用的是 be bound to（必然）这一不带感情的语法结构，恰好与前面所有的失措对照：他唯一清楚的一件事，是判决。
-- 为什么这样写：这一段出现在叛乱分子**已经得手**而他还没想明白怎么得手的时候。作者没有让主角在最后一刻反败为胜，而是让他先承认自己整场都在雾里——这一段是全篇关于「认知上的劣势」的核心表述。它也预告了结尾：他在那场超智力的博弈里同样是那只猴子，而他最后明知如此还是走了进去。
+- 为什么这样写：这一段出现在叛乱分子仍在渗透、尚未合体，而毒气也还没有释放的时候。作者没有让主角在最后一刻反败为胜，而是让他先承认自己整场都在雾里——这一段是全篇关于「认知上的劣势」的核心表述。它也预告了结尾：他在那场超智力的博弈里同样是那只猴子，而他最后明知如此还是走了进去。
 
 ④ "Out of many, one."
 
 - 中文理解：从许多之中，合为一个。
-- 句子结构：三个介词短语构成的独立小句，没有主谓——`Out of many, one.` 是一个压缩到失去动词结构的表述（正常说法里本该补上一个动词）。
+- 句子结构：一个介词短语加一个补语构成的独立小句，没有主谓——`Out of many, one.` 是一个压缩到失去动词结构的表述（正常说法里本该补上一个动词）。
 - 关键词：Out of many；one
-- 表达方式：这句话直接改写拉丁格言 拉丁格言「合众为一」（美国的国家格言）。原格言说的是政治共同体（许多州合为一个国），这里被用在**字面意义上**：十三个身体在同一个瞬间融合成一个意识。作者把一句象征性的政治口号还原成生理事件，就等于讽刺了这个国家的立国神话。
+- 表达方式：这句话直接改写了拉丁格言「合众为一」（美国的国家格言）。原格言说的是政治共同体（许多州合为一个国），这里被用在**字面意义上**：十三个身体在同一个瞬间融合成一个意识。作者把一句象征性的政治口号还原成生理事件，就等于讽刺了这个国家的立国神话。
 - 为什么这样写：这五个字是全篇结构上的转折点——此前叛乱分子是一群丑陋的爬行者，此后它们是一个「awakened」的思想体。作者特意让它单独成段，且改用一个读者认得的官方格言，因为这句话在此处正是要让人不适：那个被用来形容「自由人的联合」的说法，现在用来形容一群自愿消灭个体意识的东西。
 
 ⑤ "“They didn’t threaten us, Lieutenant. They only took our picture.” That’s what everyone assumes, anyway. Sixty-four thousand objects of unknown origin, simultaneously igniting in a precise incandescent grid encircling the globe. Screaming back into space along half the EM spectrum as the atmosphere burned them to ash."
 
 - 中文理解：「它们没有威胁我们，中尉。它们只是给我们拍了张照。」反正大家是这么以为的。六万四千个来源不明的物体，同时在地球周围点燃，形成一个精确的白炽网格。当大气把它们烧成灰烬的时候，它们沿着半个电磁波谱尖叫着射回太空。
-- 句子结构：五段。前两句引语构成一组对照（`didn't threaten` vs `only took our picture`），`only` 是那个轻描淡写的词；第三句是叙述者的插入（`That's what everyone assumes, anyway.`，`anyway` 表保留）；第四、五句是两个**名词性短语堆叠**的长句，都没有限定动词——第一句是 第一句是六万四千个物体加现在分词的堆叠，第二句是 第二句是现在分词起头、以 as 从句收尾。
+- 句子结构：五句。前两句引语构成一组对照（`didn't threaten` vs `only took our picture`），`only` 是那个轻描淡写的词；第三句是叙述者的插入（`That's what everyone assumes, anyway.`，`anyway` 表保留）；第四、五句是两个**名词性短语堆叠**的长句，都没有限定动词——第一句是六万四千个物体加现在分词的堆叠，第二句是现在分词起头、以 as 从句收尾。
 - 关键词：They didn't threaten us；only took our picture；what everyone assumes；Sixty-four thousand objects；a precise incandescent grid；half the EM spectrum；burned them to ash
 - 表达方式：`They only took our picture`（它们只是拍了张照）把一次全球性事件压缩成旅游摄影的动作——这既是最低限度的挑衅（拍照不等于威胁），也是最高限度的事后解读（拍照本身就意味着「被观察」）。后面两句用现在分词（`igniting`／`Screaming`）而不是限定动词，让整个事件像一段仍在播放的录像；`Screaming back into space` 把物体烧毁的过程拟人化成尖叫（无线电噪音的常见修辞），同时暗示「它们」在离去时留下了某种东西。
 - 为什么这样写：这一段交代了世界观的地基——人类被观察过，而观察者没有再出现。它的功能是把「外部威胁」推迟到背景里，好让全篇专注于真正的题目：人类内部的蜂群。`That's what everyone assumes, anyway` 这句括号般的插入尤其关键：连「它们只是拍照」这个说法，作者也不允许读者当真——全篇对一切解释都保持这个态度。
@@ -60,7 +60,7 @@ modified: "2026-10-04"
 - 中文理解：「如果非杀不可，我宁愿杀一个，也不杀十三个。」
 - 句子结构：一句条件句 + 抉择。`If killing's the only option` 用 `'s` 缩写把条件压到最短；主句用 `I'd rather A than B` 的比较句式，两端各放一个数词。
 - 关键词：If killing's the only option；I'd rather kill one than thirteen
-- 表达方式：`I'd rather kill one than thirteen`（宁愿杀一个也不杀十三个）在语法上是一句比例陈述，实质上却是一句自我开脱——因为实际情况是，他等它们合并，才用毒气杀掉了十三个身体。这句话说得极其平静，而且中尉马上就追问「既然那么危险，为什么还等」，说明连剧中人都听得出这里的逻辑漏洞。
+- 表达方式：`I'd rather kill one than thirteen`（宁愿杀一个也不杀十三个）在语法上是一句比例陈述，实质上却是一句自我开脱——因为实际情况是，他等它们合并，才用毒气杀掉了十三个身体。这句话说得极其平静，而且中尉在此**之前**就已经追问过「既然那么危险，为什么还等」，上校这一句正是对那个追问的回答，说明连剧中人都听得出这里的逻辑漏洞。
 - 为什么这样写：这是全篇最重要的道德场景。作者把上校的「仁慈」摆在台面上，然后让读者自己发现它站不住：他等待合并，不是因为慈悲，而是因为他需要看清这个新物种能做什么——为了情报，他付出了十三条命，却把这件事说成一道算术题。这一句与后面「我从未如此鲁莽——又一次」的自我修正连在一起，构成对这个人物的完整判断。
 
 ⑦ "“Wildlife. They’re impersonating wildlife.” Jaguars and guerrillas, my ass . . ."
@@ -69,7 +69,7 @@ modified: "2026-10-04"
 - 句子结构：两句。第一句是两个极短句并列（一个名词、一句判断），第二句是一个粗话式的独立短语，省略了谓语。
 - 关键词：impersonating wildlife；Jaguars and guerrillas, my ass
 - 表达方式：`my ass` 是英语里表示极度不屑的粗俗后缀（接在某个说法后面，表示「胡说八道」）。这里它被挂在一个早先出现过的短语「美洲豹和游击队」上——小说开头提到一句「如今厄瓜多尔野生动物都没了，把游击队认成美洲豹这种事不太可能发生」，此处正是把那个玩笑还回来：他们的防线**恰恰**是为「认错动物」而设置的。`impersonating`（冒充）通常用于人，用在这里把身体的伪装说成一场表演。
-- 为什么这样写：这是全篇最漂亮的一次反转：叛乱分子赢下第一回合，靠的不是更高级的技术，而是一个**法律漏洞**——厄瓜多尔为保护大型动物而在所有自动瞄准系统里留的后门，如今动物没了，后门还在。上校作为专业人士本该知道这件事，但他想了几秒才想起来，而且他还得给年轻的中尉解释这段历史。这一句把「先进武器输给旧法规」这件事说得既荒诞又合理。
+- 为什么这样写：这是全篇最漂亮的一次反转：叛乱分子赢下第一回合，靠的不是更高级的技术，而是一个**法律漏洞**——厄瓜多尔为保护大型动物而在所有自动瞄准系统里留的后门，如今动物没了，后门还在。上校作为专业人士脱口而出就说出了答案，反倒是那位年轻的中尉听不懂，还得由他来解释这段历史。这一句把「先进武器输给旧法规」这件事说得既荒诞又合理。
 
 ⑧ "“A glimpse of heaven,” Lutterodt murmurs, “that turns your life to hell.”"
 
@@ -77,7 +77,7 @@ modified: "2026-10-04"
 - 句子结构：一句引语被说话人标签从中间切开，前后两半分别是一个名词短语与一个定语从句（`that turns your life to hell` 修饰 `a glimpse of heaven`）。停顿正是这句话的机关：前半句是她替他说完的，后半句是她自己加的判决。
 - 关键词：A glimpse of heaven；murmurs；turns your life to hell
 - 表达方式：`heaven`／`hell` 是一对宗教对位，用在这里却完全是生理与心理的：接入蜂群时见到「天堂」，断开之后余生活在「地狱」。`murmurs`（低声说）是这个词在全篇第二次出现时的固定标签，表示她说这种话时从不提高嗓门；两个名词之间的落差由一个 `turn` 承担，动作简单到近乎机械。
-- 为什么这样写：这一刻是全篇最接近「共识」的瞬间——上校在谈他自己见过的人（接不上蜂群后崩溃的、需要被从插口里尖叫着撕下来的人），而 Lutterodt 抢先说出了一句比他更精确、更痛的话。作者让**对手**来总结主角的道德立场，等于承认这个立场是真的；同时也让 Lutterodt 显出一层真诚，为后面那枚指甲的诱惑增加分量。
+- 为什么这样写：这一刻是全篇最接近「共识」的瞬间——上校在谈他自己见过的人（接不上蜂群后崩溃的、需要被从插口里尖叫着撕下来的人），而 Lutterodt 接过了他的话头，补完了一句比他更精确、更痛的话。作者让**对手**来总结主角的道德立场，等于承认这个立场是真的；同时也让 Lutterodt 显出一层真诚，为后面那枚指甲的诱惑增加分量。
 
 ⑨ "Imagine you are Siri Keeton, it begins."
 
@@ -93,7 +93,7 @@ modified: "2026-10-04"
 - 句子结构：五个句子层层递进地否定，最后一句反转。第一句是两个词的让步（`No guarantees, of course.`）；第二句给出「太多读法」这个总判断；第三句用 两个并列猜测句 并列两个贬低性的比喻（棋子／虫子）；第四句用 `Only one thing is certain` 强行叫停所有假设；第五句以一个冒号引出从句——而那个从句是**圣经式**的（`was lost, but now is found`，出自《路加福音》浪子比喻）。
 - 关键词：No guarantees；so many ways to read；the sliver of intelligence；merely a pawn；a starving insect；seized a crumb from the heavens；presumes to think；so hungry for more he'll risk everything；was lost, but now is found
 - 表达方式：`a starving insect who once seized a crumb from the heavens, and now presumes to think it has a relationship with God`——这一整句把主角的处境压成三个动作（抢到／自以为／有了交情），每一层都是自嘲；`presumes`（擅自认为）是宗教语境里表示僭越的动词。末句 `was lost, but now is found` 是英语里最著名的一句经文片段之一（浪子回头），常见于赞美诗；作者不加引号地把它嵌进叙述，等于让叙述本身替上校说出他不敢说的话。注意 `hungry` 一词：前面他形容自己是「饿极了的虫子」，结尾又说自己「如此渴望更多」——同一个词根把自贬与渴望缝在一起。
-- 为什么这样写：全篇最后一整段都在做一件事：把这个决定的**所有理性依据**逐条拆掉，然后让主角照做。作者拒绝给他任何体面的理由（不是勇敢、不是信念、不是战略），只留下一个父亲的本能——而这恰好是 Lutterodt 预先设计好的那个「阿喀琉斯之踵」。用经文片段收尾还有另一层作用：一段从微波背景辐射里重建出的技术残篇，最终指向一句宗教语言里的赦免，全篇对「科学 vs 信仰」的反复拉扯在这一行里收拢。而紧接着的下一篇《The Wisdom of Crowds》正是从这句话继续往下的。
+- 为什么这样写：全篇最后一整段都在做一件事：把这个决定的**所有理性依据**逐条拆掉，然后让主角照做。作者拒绝给他任何体面的理由（不是勇敢、不是信念、不是战略），只留下一个父亲的本能——而这恰好是 Lutterodt 预先设计好的那个「阿喀琉斯之踵」。用经文片段收尾还有另一层作用：一段从微波背景辐射里重建出的技术残篇，最终指向一句宗教语言里的赦免，全篇对「科学 vs 信仰」的反复拉扯在这一行里收拢。
 
 ## 本章词汇
 

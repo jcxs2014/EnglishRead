@@ -1,0 +1,4 @@
+
+=== 编辑损坏扫描（fold-catastrophes-by-peter-watts）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**

@@ -43,7 +43,7 @@ modified: "2026-10-04"
 - 中文理解：「节哀，」她停顿了一下说。「Golem 那件事——我还是没法想象，什么样的人才会故意造出那种东——」
 - 句子结构：引语被一个短动作标签切开（`she says after a moment`，`after a moment` 是那个停顿本身）。第一句只有两个词（`My condolences`，吊唁用语）；第二句以 `Golem was—` 开头，被破折号打断一次，随后说出一句「我想象不出什么样的人会……」，说到一半就断了，而句子结尾又被第二个破折号截断，那个名词（「某种像……的东西」）始终没有说出来。
 - 关键词：My condolences；after a moment；what kind of monster；deliberately；create something like—
-- 表达方式：`My condolences`（节哀）用在非丧葬场合，是英语里一种过度正式带来的尴尬礼貌——她面对的是「女儿被生物武器伤了四年」，礼数只够撑住两个词。两个破折号各自截断一次：第一次截在动词上（Golem 是……），第二次截在她即将说出的那个词上，读者自己会填上「武器」或「怪物」，但她说不出。
+- 表达方式：`My condolences`（节哀）用在非丧葬场合，是英语里一种过度正式带来的尴尬礼貌——她面对的是「女儿已经四年没醒过来」，礼数只够撑住两个词。两个破折号各自截断一次：第一次截在动词上（Golem 是……），第二次截在她即将说出的那个词上，读者自己会填上「武器」或「怪物」，但她说不出。
 - 为什么这样写：这句话出现在 Leo 追查「谁在毁我的作品」的中间阶段，功能是把「造物」与「责任」这两个关键词提前摆到台面上。她说的是「什么样的人会故意造出那种东西」——而全篇最后的答案正好回答了她的一半：造出那个东西的人是故意的，但「故意」的那个部分不是 Leo 自己。这句未说完的指控，一直被吊到结尾才落地。
 
 ⑤ "“And anyway,” Michelle adds, “you know why I’m doing okay again? Because I trust myself. You know what happens when I lose faith in my own abilities, when I stop just dancing and start wondering if I made the right number of steps before the turn? I screw up. Like . . . like a centipede trying to figure out where all his legs should go.” She fixes him with a serious stare. “Stop thinking about it. Take a break. The subconscious is capable of amazing things if you just let it do its thing. Go play Starfisher or something.”"
@@ -69,7 +69,7 @@ modified: "2026-10-04"
 - 为什么这样写：这一段是全篇的理论准备，也是给读者的**答案预告**。作者把「梦游杀人被判无罪」这个真实存在的法律与医学现象摆出来，等于在说：一个人可以不被认定为「当时掌权的那个自己」，而这并不等于这件事没发生。Leo 读到这段时只是好奇，等结尾 Michelle 对他说 `It was you all along.`／`Just—not this part of you.` 时，读者才明白这段摘录就是判词——而判词正是紧接着的那五个词。
 
 ⑧ "No artist ever owns their art. It belongs to everyone."
-- 中文理解：「艺术家从不拥有自己的作品，」Michelle 说。「它属于所有人。」
+- 中文理解：叙述者在这里替 Leo 把评论界那句老话搬了出来——艺术家从不拥有自己的作品，它属于所有人。这是批评家们动手痛批一件毕生之作前惯用的挡箭牌，不是任何人物的台词；Leo 此刻正在想着这句话。
 - 句子结构：两句极短的独立句，中间原本隔着两个空行，故引语块合并为一行呈现。第一句用 no 加 ever 构成全称否定起头（一个不留例外的断言）；第二句用 `It belongs to everyone` 给出对应面——被剥夺的私有权，被换成一顶人人共享的冠。
 - 关键词：No artist ever owns their art；belongs to everyone
 - 表达方式：这是全篇里最像格言的两句，说得毫不迟疑，连「也许」「我觉得」这类缓冲词都没给。`owns` 与 `belongs to` 是一组反向的领属动词，一个从创作者出发，一个从作品出发。
@@ -145,7 +145,7 @@ modified: "2026-10-04"
 
 - **术语做人物语言**：`altitude`／`contact tracing`／`H2S therapy`／`BSB`／`masturpieces`——用专业圈子的词汇写一个艺术家的日常，让读者从语言层就接受「他看事情的方式是工程式与病理式的」。
 - **巡访式结构控制节奏**：Midnight Tour 一段一地一件（86 完好、192 被砸、210/211/162 完好、188 被砸），刻意慢下来逐点排除，把一个本可以一笔带过的调查写成了结界的清点，只为让结尾那段「碎片自己走动」显得不可阻挡。
-- **谜底提前放在闲谈里**：Michelle 的「它们靠躺着在动」与「是你一直在关传感器」，分别出自第 ⑥ 块与第 ⑨ 块，作者让最不懂技术的角色说出最准的判断，且不让 Leo 在中间听懂。
+- **谜底提前放在闲谈里**：Michelle 的「它们靠躺着在动」出自第 ⑥ 块，「是你一直在关传感器」出自第 ⑧ 块之后的那次争执（`Sensors are fine… You just keep disabling them.`），作者让最不懂技术的角色说出最准的判断，且不让 Leo 在中间听懂。
 - **三线合流而不点破**：作品被毁、Emma 的病、Leo 的失眠三条线从头到尾互不相通，作者始终没让任何人（包括 Leo）在中途说出这个连接；最后靠那只海玻璃刺猬的出现与 Michelle 的一句话完成合流。
 - **以动作替代命名**：`She taps at the corner of her eye.`——用一个手指敲眼角的小动作，代替给「那个部分」命名；全篇最重要的一句台词因此避开了名词，只能靠身体来指示。
 

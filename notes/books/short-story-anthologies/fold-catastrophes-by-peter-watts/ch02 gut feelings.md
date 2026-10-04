@@ -73,7 +73,7 @@ modified: "2026-10-03"
 
 ⑧ "His attacker stands with back to camera, right fist arcing toward his face. Black denim pants, white cotton tee with a vaguely familiar command stenciled across the shoulder blades. Ghazali reads it aloud: “Don’t Be Evil.”"
 
-- 中文理解：监控截图里的袭击者背对镜头，右拳正抡向受害保安的脸。黑牛仔裤、白 T 恤，肩胛骨那里印着一行似曾相识的口号，Ghazali 念了出来：Don’t Be Evil（不作恶）——Google 早年那句公司箴言。
+- 中文理解：监控截图里的袭击者背对镜头，右拳正抡向那个受害者（他血流满面，浸在身上的是一件商场保安制服）的脸。黑牛仔裤、白 T 恤，肩胛骨那里印着一行似曾相识的口号，Ghazali 念了出来：Don’t Be Evil（不作恶）——Google 早年那句公司箴言，而挨打的那位 Travis 正是 Google 的人。
 - 句子结构：首句用两个自由结构描写姿势（`with back to camera` 与 `right fist arcing…`）；第二句没有谓语动词，只有两个名词短语并列加一个 with 补充；第三句才出现谓语动词 `reads it aloud` 加冒号引语。
 - 关键词：back to camera、shoulder blades、stenciled、vaguely familiar command、Don’t Be Evil
 - 表达方式：把口号印在肩胛骨上——既是对着镜头的位置，也是对着受害者方向的位置；前两句像静态截图，第三句才让它动起来。

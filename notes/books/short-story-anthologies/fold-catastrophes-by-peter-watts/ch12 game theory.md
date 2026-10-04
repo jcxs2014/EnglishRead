@@ -43,7 +43,7 @@ modified: "2026-10-04"
 
 **中文理解：** 但最主要的是，他之所以做这些动作，是因为他就是一台钟表机械。只是他自己还不知道。
 
-**句子结构：** 一个 `But mostly` 开头的转折句，把前面列出的三项理由（还有疑问空间、一切尚未挑明、维持伪装）全部降级为次要。主句 `he goes through these motions because he is clockwork` 是把人等同于机械的直陈判断；紧随的 `He just doesn't know it yet.` 用 `yet` 留出一个时间悬置，暗示「知道」这件事迟早会来——而全篇正是他逐渐知道的过程。
+**句子结构：** 一个 `But mostly` 开头的转折句，把前面同句列出的两项理由（还有疑问空间、一切尚在暗示与迂回之中）全部降级为次要——句中那个 `maintaining the pretense` 只是随句而过的分词短语，并不能与两个 `Because` 分句并列成第三项。主句 `he goes through these motions because he is clockwork` 是把人等同于机械的直陈判断；紧随的 `He just doesn't know it yet.` 用 `yet` 留出一个时间悬置，暗示「知道」这件事迟早会来——而全篇正是他逐渐知道的过程。
 
 **关键词：** `goes through these motions`（走一遍这些过场）／`clockwork`（钟表机械，喻按既定程序运转而无自觉）／`just doesn't know it yet`（只是还不知道而已）／`mostly`（主要地）。
 
@@ -51,7 +51,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** 因为整篇故事要处理的是「决定论与责任」的关系。如果一个人的一切反应都是被编码的，那么他还有罪吗？作者抢在读者之前把这个问题摆到桌面上，却在结局里给出一个既不宽恕也不否定的答案。
 
-④ "And there it goes. Father Kaminski's endocrine system redlines from adrenals to amygdala; a chasm opens in his gut, sweat beads his skin, his blood seethes with chemical alarms. All his careful precautions, his alibis, the guilty cudgel of his own divine authority brought down to ensure the silence of the child in the sacristy all this time: all for nothing, now."
+④ "And there it goes. Father Kaminski's endocrine system redlines from adrenals to amygdala; a chasm opens in his gut, sweat beads his skin, his blood seethes with chemical alarms. All his careful precautions, his alibis, the guilty cudgel of his own divine authority brought down to ensure the silence of the child in the sacristy all this time: all for nothing, now. Ever mindful of appearances, he even chose a girl."
 
 **中文理解：** 于是又来了。卡明斯基神父的内分泌系统从肾上腺一路飙红到杏仁核；他腹中裂开一道深渊，皮肤沁出汗水，血液在化学警报中沸腾。他所有的小心防范、他的不在场证明、他那根用来确保圣器室里那个孩子多年噤声的、带着罪孽的权威大棒：如今全都白费了。
 
@@ -59,7 +59,7 @@ modified: "2026-10-04"
 
 **关键词：** `endocrine system`（内分泌系统）／`redlines`（飙到红线）／`adrenals`（肾上腺）／`amygdala`（杏仁核）／`a chasm opens in his gut`（腹中裂开深渊）／`alibis`（不在场证明）／`cudgel`（短棍、大棒）／`divine authority`（神授的权威）／`the silence of the child`（那孩子的沉默）／`sacristy`（圣器室）／`all for nothing`（全都白费）。
 
-**表达方式：** 作者把「恐惧」写成一次由内而外的器官级连锁反应，再把它接上一个法律与宗教混合的隐喻——`alibis`（法庭用语）与 `divine authority`（教会用语）并置，点明这个人一直在用神职身份处理一桩刑事案件。`all for nothing, now.` 是全篇第一次出现的句法崩塌，后面的段落会反复使用这种由长句坠入短句的节奏。
+**表达方式：** 作者把「恐惧」写成一次由内而外的器官级连锁反应，再把它接上一个法律与宗教混合的隐喻——`alibis`（法庭用语）与 `divine authority`（教会用语）并置，点明这个人一直在用神职身份处理一桩刑事案件。`all for nothing, now.` 是全篇第一次出现的句法崩塌，后面的段落会反复使用这种由长句坠入短句的节奏。而全段最冷的一刀留在最后：`Ever mindful of appearances, he even chose a girl.`——句法上它轻得像一句事后补注，内容上却把「圣器室里的孩子」具体化成「他特意挑的是个女孩」，读者读到这里才明白前面那些法律与宗教的并列项一直在遮的是什么。
 
 **为什么这样写：** 因为这里要交代的不只是他害怕，而是他害怕的东西的具体形状：他多年经营的沉默即将失效。把一个虐待者对后果的恐惧写成一次激素风暴，作者也就把「罪」还原成了一种生理事件——这正是全篇的立场。
 
@@ -161,7 +161,7 @@ modified: "2026-10-04"
 
 | 词/短语 | 释义 | 例句 |
 | --- | --- | --- |
-| sacristy | 圣器室（教堂里存放法衣与圣器的房间） | All his careful precautions, his alibis, the guilty cudgel of his own divine authority brought down to ensure the silence of the child in the sacristy all this time: all for nothing, now. |
+| sacristy | 圣器室（教堂里存放法衣与圣器的房间） | All his careful precautions, his alibis, the guilty cudgel of his own divine authority brought down to ensure the silence of the child in the sacristy all this time: all for nothing, now. Ever mindful of appearances, he even chose a girl. |
 | confessional | 告解室（神父听忏悔的隔间） | Out past the confessional, mass is in full swing, full of innocent people who don't know their lives are in the balance. |
 | miracle | 奇迹（超乎自然规律的事件） | We've always believed in miracles. All the Revelation did was reveal a few more details about how God performs His handi— |
 | fentanyl | 芬太尼（强效合成阿片类止痛药，常被滥用） | Because otherwise you really are a serial murderer, and an addict, and a lifelong fuck-up no one cares about. Rotting away the rest of your short miserable life until you get caught, or shoot a little too much fentanyl up your arm. |
@@ -207,5 +207,5 @@ modified: "2026-10-04"
 
 ## 一句话总结
 
-> 当模拟假说被证实、上帝缩写成一段可测量的代码之后，一个自认早已死去的神父在告解室里被当年受害者的女儿持枪逼问——而他最终救下满堂人的办法，是接过她那套「世界只是游戏」的逻辑，一路推到她说不出话为止。
+当模拟假说被证实、上帝缩写成一段可测量的代码之后，一个自认早已死去的神父在告解室里被当年受害者的女儿持枪逼问——而他最终救下满堂人的办法，是接过她那套「世界只是游戏」的逻辑，一路推到她说不出话为止。
 

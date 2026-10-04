@@ -202,7 +202,28 @@ def calibrate_sub(mds, prof):
     return sorted(keep, key=lambda c: med(pos_in_blk.get(c, [10**9])))
 
 
-def check(md: Path, sub_override=None):
+S_ANTH_SHORT_SRC = 20000
+
+
+def _short_piece(md: Path, book_dir: Path) -> bool:
+    """短篇合集档：**源文本归一后短于 S_ANTH_SHORT_SRC 时下限不适用**。
+
+    判据与第一实现 `check_block_keywords.py:ANTH_SHORT_SRC` 逐字一致，属**结构性**
+    判据（不点名某书某篇）：合集里的引言/后记类篇目篇幅只有正篇的零头，凑满 10 块
+    必然违反「一条引语只取一个自然段」的硬禁令。上限不受影响。
+    """
+    m = re.match(r"ch(\d+)", md.name)
+    if not m:
+        return False
+    pat = f"ch{int(m.group(1)):02d}"
+    cands = sorted(book_dir.glob(f"text/{pat}*"))
+    if not cands:
+        return False
+    t = re.sub(r"\s+", "", cands[0].read_text(encoding="utf-8"))
+    return len(t) < S_ANTH_SHORT_SRC
+
+
+def check(md: Path, sub_override=None, book_dir: Path = None):
     out = []
     s = md.read_text(encoding="utf-8")
     lines = s.split("\n")
@@ -273,6 +294,14 @@ def check(md: Path, sub_override=None):
     lo_hi = (LO, HI)
     if prof == "nonfiction" and marks_have_yuanju:
         lo_hi = (3, 20)   # 期刊逐句档不限 10 块；实测 4–13，放宽到 20 以免假红
+    if prof == "anthology" and book_dir is not None and _short_piece(md, book_dir):
+        # ⚠️ 2026-10-04（Fold Catastrophes 五步审查 c 步实测）：第一实现
+        #    `check_block_keywords.py` 早已有「短篇合集短篇目」豁免（ANTH_SHORT_SRC
+        #    ＝20000，判据同为**结构性**：源文本归一后短于此则下限不适用、上限照旧），
+        #    本第二实现**漏搬**该豁免 ⇒ 本书 ch01 引言（源文本 5806 字符 / 6 块）被报
+        #    「超出 10–10 配额」，实测 1 处假红。两实现口径必须一致，此处补齐——
+        #    只放下限，**上限照旧**（注水的 12 块仍要报）。
+        lo_hi = (0, HI)
     if not lo_hi[0] <= len(nums) <= lo_hi[1]:
         out.append(f"[{prof}] 引语块 {len(nums)} 个，超出 {lo_hi[0]}–{lo_hi[1]} 配额")
     # --- ① ② 逐块子项（硬性、不推断、查重、查序）---
@@ -344,7 +373,7 @@ def main():
     cal = {p: calibrate_sub(mds, p) for p in ("summary", "nonfiction")}
     for md in mds:
         for msg in check(md, cal.get(detect_profile(
-                md.read_text(encoding="utf-8")) or "summary")):
+                md.read_text(encoding="utf-8")) or "summary"), book_dir=book):
             (warn if msg.startswith("⚠") else bad).append(f"{md.name}: {msg}")
     for b in bad:
         print("  ❌ " + b)

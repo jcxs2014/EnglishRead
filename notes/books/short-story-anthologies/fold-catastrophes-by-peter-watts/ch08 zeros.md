@@ -68,7 +68,7 @@ modified: "2026-10-04"
 - 中文理解：「不存在『我们』。真到要紧的时候就不存在。」她在他身边坐下。「再说了。我们的僵尸也许没有意识，但他们不蠢；他们知道我们有义务不服从非法命令。」
 - 句子结构：三句。第一句是两个极短的否定（`There is no we.`）加一个更短的限制（`Not when it matters.`）；第二句是动作描写（她坐下）；第三句最长，用 `may be…but…` 的对让步结构承认一半再反驳一半，以 `they know we're obligated to…` 收尾。
 - 关键词：There is no we；when it matters；nonconscious but not stupid；obligated to disobey unlawful commands
-- 表达方式：`There is no we` 是在拆解前一节结尾她刚说过的那句 `I've got your back`——她把安慰给出去，又亲手说明那是客气话。`unlawful commands`（非法命令）是军事法里的标准用语，Tiwana 用它来给一件说不清的事搭一个说得清的框架，而这个框架在矿洞里会彻底失灵。
+- 表达方式：Tiwana 先在同节结尾反复给出那句 `I've got your back`（L1154、L1160），Asante 的这句 `There is no we` 就是冲着她这份承诺去的——他把安慰接过来，又亲手说明那是客气话。`unlawful commands`（非法命令）是军事法里的标准用语，Tiwana 用它来给一件说不清的事搭一个说得清的框架，而这个框架在矿洞里会彻底失灵。
 - 为什么这样写：这句既是这本小说对「集体」的定义，也是对后面那场伏击的预告。ZeroS 的「我们」是五个独立大脑的松散协作，而对面那群孩子是**真正的一个心智**——`Multiple heads. One mind.` 当她说「我们」不存在时，她并不知道自己刚刚说出了两边的差别。
 
 ⑧ "“But you know, Sergeant. You dropped out of the game—which may well have cost us the mission—and now you know things that are way above your clearance.""
@@ -85,7 +85,7 @@ modified: "2026-10-04"
 - 句子结构：一个名词性短语独立成段，省略号收尾；没有谓语，没有主语，只有一个比喻的（残缺的）半边。
 - 关键词：Digits；the same hand
 - 表达方式：`digits` 是「手指」也是「数字」——在这样一篇满是数据、日志、BUD 读数的小说里，这个词的歧义一直在起作用。整句是一个被打断的领悟，句尾的省略号表示他没能把话想完。
-- 为什么这样写：这是全篇的关键比喻，第一次出现是在 Maddox 复盘后 Asante 对小队战术的评价（`It's more like a—a distributed organism. Like the digits of a hand, moving together.`），第二次是他亲眼看见那群孩子协同作战时的这句复读，第三次是罗斯特当面把它接过去（`Digits on the same hand . . .`）。同一个比喻在三次出现里，指的东西从「我们的美」变成了「他们的天赋」，最后变成了「我们不如他们」——作者用一个意象的转手完成了整篇的立场翻转。
+- 为什么这样写：这是全篇的关键比喻，第一次出现是在 Maddox 复盘后 Asante 对小队战术的评价（`It's more like a—a distributed organism. Like the digits of a hand, moving together.`），第二次是他亲眼看见那群孩子协同作战时的这句复读，第三次是 Asante 在罗斯特面前的一场对话之后、在自己心里独自把它又念了一遍（`Digits on the same hand . . .`）；罗斯特本人接话时用的是另一个喻体——`More like a hive, Sergeant.`。同一个比喻在三次出现里，指的东西从「我们的美」变成了「他们的天赋」，最后变成了「我们不如他们」——作者用一个意象的转手完成了整篇的立场翻转。
 
 ⑩ "“Renata Baermann,” he says again. “Have I got a deal for you.”"
 

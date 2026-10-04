@@ -1,0 +1,26 @@
+=== 分析层行内英文逐字核查（fold-catastrophes-by-peter-watts）===
+  参照集：text/（12 个提取件） + epub 交叉验证 ；扫 12 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：333 个表格行、231 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1108 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 22 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 107
+  🔶 ch01 desert prophet wanted.md:21  「It’s not generally known, but …」→ 整串（跨标签拼接）
+  🔶 ch01 desert prophet wanted.md:37  「what … likes to refer to as a mensch」→ 分段命中
+  🔶 ch01 desert prophet wanted.md:45  「not … but …」→ 整串（跨标签拼接）
+  🔶 ch01 desert prophet wanted.md:53  「there’s … to these tales」→ 分段命中
+  🔶 ch01 desert prophet wanted.md:61  「Over, then, to …」→ 整串（跨标签拼接）
+  🔶 ch01 desert prophet wanted.md:102  「It’s not generally known, but …」→ 整串（跨标签拼接）
+  🔶 ch01 desert prophet wanted.md:107  「Over, then, to …」→ 整串（跨标签拼接）
+  🔶 ch01 desert prophet wanted.md:111  「It’s not generally known, but …」→ 整串（跨标签拼接）
+  🔶 ch01 desert prophet wanted.md:114  「not … but …」→ 整串（跨标签拼接）
+  🔶 ch01 desert prophet wanted.md:114  「the literature, not of some safely distant human future 」→ 分段命中
+  🔶 ch03 the twenty one second god.md:53  「not yet…enough to」→ 分段命中
+  🔶 ch03 the twenty one second god.md:77  「Connect…but use」→ 分段命中
+  🔶 ch03 the twenty one second god.md:77  「Share…keep」→ 分段命中
+  🔶 ch05 defective.md:45  「Maybe, if…, they might…」→ 分段命中
+  🔶 ch05 defective.md:61  「We’ve been throwing… for years now」→ 分段命中
+  🔶 ch06 giants.md:146  「if anything short of magic can explain its existence, it」→ 整串（跨标签拼接）
+  🔶 ch07 test 4 echo.md:29  「spent looping… squinting… mustering…」→ 分段命中
+  🔶 ch07 test 4 echo.md:29  「the far one… the near」→ 分段命中
+  🔶 ch08 zeros.md:23  「the last thing…sees」→ 分段命中
+  🔶 ch08 zeros.md:61  「Listen to me very carefully…because…」→ 分段命中
+  🔶 ch08 zeros.md:69  「may be…but…」→ 分段命中
+  🔶 ch09 critical mass.md:148  「Sensors are fine… You just keep disabling them.」→ 分段命中

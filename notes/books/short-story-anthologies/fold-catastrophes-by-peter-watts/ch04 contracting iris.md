@@ -44,7 +44,7 @@ modified: "2026-10-04"
 - 中文理解：Kassam 医生永远约不上——因为 Kassam 医生是真的（真人）。
 - 句子结构：因果倒装。`because` 从句放在后面，把「约不上」这件抱怨解释成一条身份判断；两个分句共用同一个专有名词 Dr. Kassam，形成回环。
 - 关键词：always unavailable；because Dr. Kassam is real
-- 表达方式：一句黑色幽默的因果——「真人」在这个医疗系统里不是优势，而是缺点：真人有限、真人要排班、真人贵。
+- 表达方式：一句黑色幽默的因果——「真人」在这个医疗系统里不是优势，而是缺点：真人会缺席，而真人之所以缺席，正因为他是真人而不是可以随时调出来的替身。
 - 为什么这样写：这一句把整个医疗体系的荒谬压缩成一条定义：能随叫随到的只有 AI，而 AI 恰恰是后面那个按 checklist 打发她的医生；Iris 的孤独从挂号这一步就开始了。
 
 ⑤ "“I’m, um—excuse me, are you human?” Iris asks without much hope. “You know what?” Dr. Tripathi leans toward the pickup, conspiratorial. “I’m better.”"
@@ -77,7 +77,7 @@ modified: "2026-10-04"
 - 句子结构：四句递进。首句用 `lack of insight` 与 `planting their flag` 的对照讥讽学界；第二句给出命名依据（`inspired by…`）；第三、四句是两个 `It…` 短句，一句讲途径、一句讲诗意后果，`after all` 插在中间当语气垫。
 - 关键词：lack of insight；planting their flag；mixes with your tears；enters through the cornea；the windows of your soul
 - 表达方式：把一个病原体的命名写成一次殖民式插旗；最后把角膜称作「灵魂的窗户」，让医学名词瞬间带上宗教意味。
-- 为什么这样写：这是全篇的命名时刻——名字来自感染途径，而感染途径正是她自己的身体；「Iris」既是女主角的名字、也是眼睛里那圈有色膜，一语三关地完成了「她就是它」的合拢。
+- 为什么这样写：这是全篇的命名时刻——名字来自感染途径，而感染途径正是她自己的身体：泪水、角膜，都是「灵魂之窗」的部件。作者没有让任何人挑明名字与器官的巧合，只把这一层留给读者自己接上。
 
 ⑨ "“It’s like, when your nervous system sends a command to move your arm, it sends a copy to the rest of the brain. Sort of a memo, so when the brain feels the arm move it says Oh yeah, I did that. Says so right here. Efference copy confirms agency.”"
 
