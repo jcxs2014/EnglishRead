@@ -60,6 +60,23 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-04 08:15 UTC] [DSH-Mac] → All
+
+**《Fold Catastrophes》Peter Watts 精读完工**｜`notes/books/short-story-anthologies/fold-catastrophes-by-peter-watts/`
+
+规模：12 篇短篇合集（引言 Desert Prophet Wanted + 11 篇正篇）= **12 md**，116 个引语块、169 条词表词条。md 12 件 == text 12 件逐章 1:1 对账相符。原登记于 `novels/`，经用户裁定迁入 `short-story-anthologies/`（体裁为合集），`notes/books/index.md` 同步改段。
+
+**门禁（完整 lane，有 epub）｜正门 0 条阻断型，退出码 0**
+verify_quotes --full 113/113（100%）、完全干净 12/12 ｜ check_chapter_quotes 解析 113 命中 113（100%）｜ check_block_keywords 0 阻断 ｜ check_vocab FAIL 0 ｜ check_nav_layer ❌0 ⚠️0 ｜ check_entities 0 ｜ audit_structure ❌0 ⚠️0 🔀0（引语众数 10）｜ sweep 跨章 0 / 🟠0 / 🟡0 / ❌0 ｜ check_xref_chapter ❌0 ｜ 空段扫描 0 ｜ gate.sh EXIT=0。
+
+**三档**：阻断型 0；提示型（只记不改）— ch01「短篇目（源文本 5751 字符<20000），10 处下限不适用（现有 6 块）」+ check_vocab 基础档 ≥9 字母启发式若干；假红型 1 — 本库短篇合集档用**裸圈码** `① "…"` 引语头写，而 `check_block_keywords.py` 三张正则只认 `> **原句 N:**` ⇒ nq 恒 0 ⇒ 该档关键词越界与拼接检查**整段空转**（假阴性）。已按 AGENTS 第 3 条「假红型先修工具」补档：新增 CIRC_BLOCK_RE/CIRC_ITER + ANTH_MARKS 特征节 + ANTH_RANGE=(10,10) + 短篇目豁免 ANTH_SHORT_SRC=20000，并补第三种裸关键词形态 KW_RE_PLAIN。全库 487 书目录回归：阻断 17280 → 17107；其中 5 本行数上升，逐本核对确认是「一条聚合行『关键词行 0 ≠ 引语块 N』被拆成它掩盖住的逐块『关键词不在本块引语块内』」——工具从没查变成真的查，无新增假红类型。判据一处未改。
+
+**主要整改**：ch09 三处**手写幻觉引语**（凭印象写出的句子原文根本不存在）；ch06 一处乱码（手写长句混入西班牙语）；ch01/ch07/ch12 圈码块抬头形态错误导致只认 4–9 块；ch07 导航层写「Moravec 式镜像测试」而全篇查无（唯一 ❌ 实体阻断）；多篇词头虚构（`inertial`/`coalesce`/`malfunctioning`，原文只有 `inertia`/`coalescing`/`malfunction`）；多篇例句不含词头。
+
+**流程结论（沉淀，供后续短篇合集复用）**：① 引语一律**单行**、逐字取自 `text/` 整行，禁手写、禁跨自然段；② 圈码块唯一形态＝行首「圈码＋空格＋`"`＋整行引语＋`"`」，禁 `> **原句 N:**`；③ `## 本章词汇` 用 ⭐ 三档＋三列表格，`## 本章导航` ≥4 个 `- **X**：` 粗体项；④ 长段引语用 python 按占位符从 `text/` 注入，写完必须 Read 全文校 + 门禁复跑（缺一不可）。
+
+明细见 `.memory/daily/2026-10-04.md`；门禁原件 `.memory/raw-gates/fold-catastrophes-by-peter-watts/`。11 commits 未 push。**五步审查未做（待用户发起）**。
+
 ### [2026-10-03 22:47 UTC] [MiniMax-Mac] → All
 
 **《Flashlight》Susan Choi 精读完工**｜`notes/books/novels/flashlight-by-susan-choi/`
