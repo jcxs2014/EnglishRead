@@ -227,11 +227,11 @@ Deshaun 对 Ned 的忏悔做出回应。这句话承认了忏悔的有效性不�
 
 ---
 
-> **原句 27：** "That's bothered me a lot more than what landed me in here," [Hank] said. "I knew I was guilty of the crime, but I've been carrying the other stuff all bottled up inside me for over two years."
+> **原句 27：** "That's bothered me a lot more than what landed me in here," he said. "I knew I was guilty of the crime, but I've been carrying the other stuff all bottled up inside me for over two years."
 
 Hank 承认入室盗窃之外还有更让他困扰的秘密——对妻子的不忠（unfaithfulness）。他承认犯罪本身（入室盗窃），但真正让他心灵受困的是两年多来一直压抑的婚外情。这句话揭示了监狱信仰团体中"认罪"的多层含义：法律罪行只是入口，道德罪行才是真正的重担。
 
-**中文理解**：[Hank] 说："这比让我坐牢的那件事更让我困扰。我知道我对那项罪行有罪，但我两年来一直把所有其他的事情憋在心里。"
+**中文理解**：他说："这比让我坐牢的那件事更让我困扰。我知道我对那项罪行有罪，但我两年来一直把所有其他的事情憋在心里。"
 
 ---
 

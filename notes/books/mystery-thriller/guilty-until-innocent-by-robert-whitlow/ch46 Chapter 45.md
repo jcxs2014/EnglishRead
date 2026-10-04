@@ -522,7 +522,7 @@ Ryan 的惊讶表明他没想到警方会知道他的名字——这意味着 La
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| twist tie | 扎带、束线带 | ...to cut the **twist tie** from Doc's wrists. He placed the clippers on the plastic tie... |
+| twist tie | 扎带、束线带 | ...so he could cut the **twist tie** from Doc's wrists. He placed the clippers on the plastic tie... |
 | tanker truck | 运水卡车、加油车 | ...as they connected hoses to the **tanker truck**. |
 | clippers | 剪刀、钳子 | He managed to grab the **clippers**... |
 

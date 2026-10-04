@@ -115,7 +115,7 @@ Deshaun 当众指控 Ned 制造违禁武器。这句话发生在狱警到来之�
 
 ---
 
-> **原句 13：** "What are you going to do about him?" Ned gestured toward Deshaun.
+> **原句 13：** Ned gestured toward Deshaun. "What are you going to do about him?"
 
 Ned 反过来质问狱警：你要怎么处置他？Ned 的这个问题把 Deshaun 从指控者变成了被质疑的对象——一个狱警眼中先动手的挑衅者。
 
@@ -288,17 +288,17 @@ Joe 延续了 Jacob 的圣经典故，用幽默的方式回应 Ray 的担忧：�
 | frisk | 搜身 | Trying to frisk him with his good hand. |
 | rebuff | 断然拒绝 | That sort of gesture in prison would result in a quick rebuff. |
 | sprinkle | 点缀、零星分布 | Sadness, mixed with fear, sprinkled with confusion. |
-| custody | 羁押、保管 | Stay away from Walker. |
+| shoulders | 肩膀 | Joe reached out and put his right arm around Ned's shoulders. |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| prison | 监狱 | I've been locked up in here. |
+| prison | 监狱 | During Joe's time in prison. |
 | guard | 狱警 | One of the guards stepped forward. |
 | knife | 刀 | Ned could try to stick a knife in you. |
 | prayer | 祷告 | The Bible study and prayer meeting. |
-| church | 教堂 | God is in this place! |
+| gesture | 手势、姿态 | That sort of gesture in prison would result in a quick rebuff. |
 | love | 爱 | I felt God's love for you come up so strong. |
 | angel | 天使 | It would be nice to see a bunch of angels. |
 

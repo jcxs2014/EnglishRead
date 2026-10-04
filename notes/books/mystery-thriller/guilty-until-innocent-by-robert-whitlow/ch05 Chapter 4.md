@@ -171,33 +171,33 @@ Ryan 在葬礼上试图把情感和父亲的棺材一起埋葬。`bury his feeli
 |------|------|------|
 | tempered | 被缓和的、被抑制的 | His enthusiasm about becoming a father was tempered by the thought that now, more than ever, he needed a stable job. |
 | unload | 倾泻、倾倒（情绪） | thirteen-year-old Ryan used the moment of vulnerability to unload the full weight of how he felt |
-| felony | 重罪 | Ray was serving a long sentence as a repeat felony offender. |
-| ferocity | 凶狠、猛烈 | It was the volume of Ray's offenses, rather than their ferocity, that convinced the judge. |
-| abdomen | 腹部 | my abdomen starts to expand |
-| irrational | 不理智的 | He asked the Black men in the group to forgive him for his unreasoned hate. |
+| felony | 重罪 | A short, wiry man with a fringe of graying hair, Ray was the same age as Joe and serving a long sentence as a repeat felony offender. |
+| ferocity | 凶狠、猛烈 | It was the volume of Ray's offenses, rather than their ferocity, that convinced the judge in Buncombe County to impose a lengthy sentence. |
+| abdomen | 腹部 | That's going to be obvious as the weeks go by and my abdomen starts to expand. |
+| bitterness | 苦涩、怨恨 | his resentment came out in bitterness and negativity, which triggered increased tension between them |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| fasting | 禁食 | The men's Bible study and prayer group was multiracial and began secretly praying and fasting for him. |
+| fasting | 禁食 | The men's Bible study and prayer group in Unit C was multiracial and began secretly praying and fasting for him. |
 | multiracial | 多元种族的 | The men's Bible study and prayer group in Unit C was multiracial. |
 | troubled | 烦恼的、令人困扰的 | The decision to fast, though troubling to his stomach, had brought peace to his soul. |
 | resentment | 怨恨、愤恨 | his resentment came out in bitterness and negativity |
-| turf | 草皮/（转喻）保龄球道 | Later Ryan lay awake on his back after Paige fell asleep. |
-| paternal | 父亲的 | His relationship with his own father had been rocky. |
-| turmoil | 混乱、骚动 | Both times Ryan lost his job he could imagine his father's reaction and shuddered. |
+| turmoil | 混乱、骚动 | Paige knew the facts but not the depth of Ryan's inner turmoil. |
+| savoring | 细细品味 | Savoring each morsel, he began to question his earlier decision to fast and pray for Deshaun's marriage. |
+| exceeded | 超出、超越 | The okra exceeded Joe's expectations. |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| pray | 祈祷 | God wasn't impressed by human sacrifice. Jesus accomplished everything needed for full salvation on the cross. |
-| prison | 监狱 | He and Joe had been together at LPCC for more than fifteen years. |
+| impressed | 留下深刻印象 | God wasn't impressed by human sacrifice. |
+| sacrifice | 牺牲、献祭 | God wasn't impressed by human sacrifice. |
 | pregnant | 怀孕的 | Just because I'm pregnant doesn't mean I'm going to suffer from morning sickness. |
-| father | 父亲 | His relationship with his own father had been rocky. |
-| funeral | 葬礼 | At the funeral Ryan tried to bury his feelings in the ground with the casket. |
-| hate | 仇恨 | He asked the Black men in the group to forgive him for his unreasoned hate. |
+| father | 父亲 | His relationship with his own father had been rocky long before the tragedy in the boat. |
+| funeral | 葬礼 | At the funeral Ryan tried to bury his feelings in the ground with the casket containing his father's body. |
+| hate | 仇恨 | Later he stood and asked the Black men in the group to forgive him for his unreasoned hate. |
 
 ---
 

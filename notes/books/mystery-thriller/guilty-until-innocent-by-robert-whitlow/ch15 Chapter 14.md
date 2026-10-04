@@ -11,7 +11,7 @@ publisher: "Thomas Nelson"
 - **视角人物**：Joe Moore（监狱）、Paige（家中）、Ryan（律所）
 - **核心场景**：监狱农场劳作 / Paige 与邻居 Vicki 交谈 / Ryan 与 Joe 通电话
 - **主要人物**：Joe、Ray、Paige、Ryan、Vicki Lennox、Tom Clark、Charlie Drummond
-- **关键地点**：监狱农场、Paige 家门外、Clark & Associates 律所
+- **关键地点**：监狱农场、Paige 家门外、Clark, Clark & James 律所
 - **一句话概括**：Joe 在监狱农场劳作时坚定信仰并签署代理协议；Paige 独自面对怀孕焦虑；Ryan 接受 Joe 案并从 Tom 获得鼓励
 
 ---

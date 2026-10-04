@@ -299,7 +299,7 @@ Ryan 喊出 Clint 的名字是他最后的挣扎。他知道 Clint 要对谁动�
 |------|------|------|
 | exotics | 外来物种、异域动物 | I have a room that includes a few exotics. |
 | liability | 隐患、累赘 | Larry is a dangerous liability. |
-| manipulate | 操控（人） | I went along with you manipulating the situation. |
+| manipulating | 操控、摆布 | I went along with you manipulating the situation. |
 | under his thumb | 被掌控、受制于人 | Charlie Drummond has had me under his thumb. |
 | bribe | 行贿 | he bribed his way out of his first arrest |
 
@@ -308,7 +308,7 @@ Ryan 喊出 Clint 的名字是他最后的挣扎。他知道 Clint 要对谁动�
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | affidavit | 书面证词 | a prisoner named Ned Walker signed an affidavit |
-| trophy head | 狩猎标本（兽头） | Several large buck trophy heads hung on the wall |
+| trophy head | 狩猎标本（兽头） | Several large buck trophy heads with impressive antlers hung on the wall. |
 | twist tie | 束线带、扎带 | bound his wrists behind his back with a black twist tie |
 | floorboard | 车厢底板 | lie face down on the floorboard |
 | loose ends | 未了结的尾巴、悬而未决的隐患 | You've let these loose ends hang around too long |

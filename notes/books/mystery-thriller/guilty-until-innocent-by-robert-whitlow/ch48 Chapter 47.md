@@ -463,7 +463,7 @@ Ryan 感受到神的回应——"我爱你，我原谅你，你的重担已经�
 | custody | 羁押、监禁 | Mr. Moore's immediate release from custody. |
 | conviction | 定罪、信念 | Most likely from a post-conviction justice project. |
 | pardon | 赦免 | Any word on whether the governor is going to issue a pardon? |
-| reconcile | 和解、调停 | Bring something into the light is half the battle. |
+| burden | 重担、负担 | He says, 'I love you. I forgive you. Your burden is gone.' |
 
 ### ⭐ 基础
 

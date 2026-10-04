@@ -205,18 +205,16 @@ Vicki 的纠正语气坚定——对她而言，"基督的新娘"不是修辞手
 |------|------|------|
 | transfer | 转押、调任 | I received notice yesterday of your transfer to another facility. |
 | chaplain | 牧师、神职人员 | The door opened, and Chaplain Jim entered the waiting area. |
-| fellowship | 团契、交谊 | The warden says you're a leader among the Christians in the prison fellowship. |
 | testimony | 见证、见证词 | Candy clapped her hands. "Paige can write out her testimony so people can read it." |
-| verdict | 判决、裁定 | The motion is about whether Joe's original verdict was properly reached. |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| prison | 监狱 | Letters from prison reminded Vicki of the apostle Paul. |
+| prison | 监狱 | Letters from prison, Vicki said, her eyes wide. Just like the apostle Paul. |
 | guard | 狱警、卫兵 | On his way to the dining hall for breakfast, a guard came up to him. |
 | breakfast | 早餐 | On his way to the dining hall for breakfast, a guard came up to him. |
-| lunch | 午餐 | Would you consider writing out what you told us over lunch? |
+| lunch | 午餐 | Picking up her phone, she sent a joint text to Vicki and Candy on the slim chance either of them was available for lunch. |
 | peace | 平安、和平安宁 | After I prayed, peace covered me like a blanket. |
 | prayer | 祈祷、祷告 | That’s an answer to prayer, Vicki said. |
 | Bible | 圣经 | I was wondering if you would approve our request for additional Bible study. |

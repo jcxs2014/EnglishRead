@@ -8,9 +8,9 @@ publisher: "Thomas Nelson"
 
 ## 本章导航
 
-- **视角人物**：Joe Moore（监狱服刑中）；Ryan Parker（法律实习生）
+- **视角人物**：Joe Moore（监狱服刑中）；Ryan Clark（法律实习生）
 - **核心场景**：监狱菜园与厨房；Tom Clark 律师事务所
-- **主要人物**：Joe、Ray、Deshaun、Shana Parks（侄女）、Tom Clark、Ryan Parker、Elle Evert
+- **主要人物**：Joe、Ray、Deshaun、Shana Parks（侄女）、Tom Clark、Ryan Clark、Elle Evert
 - **关键地点**：Blanton County 监狱；Cranfield 法律事务所
 - **时间**：狱中日复一日的劳作；同一日下午
 - **一句话概括**：Joe 意外得知侄女 Shana 将来探视，而 Tom 的事务所已悄然接受其委托推动撤诉，Ryan 却因 Tom 擅自知会受害方家属而陷入职业道德的剧烈挣扎

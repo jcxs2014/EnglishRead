@@ -9,7 +9,7 @@ source_text: ch20
 
 ## 本章导航
 
-- **视角人物**：Joe Moore（狱中）/ Paige Evans（自由身）
+- **视角人物**：Joe Moore（狱中）/ Paige Clark（自由身）
 - **核心场景**：监狱 Bible study → Paige 与 Ryan 的厨房早餐 → Ryan 办公室处理案件
 - **主要人物**：Joe、Bobby、Ray、Paige、Ryan（律师）、Tom Clark（心脏手术取消）、Shana Parks（客户）
 - **关键地点**：Blanton County 监狱 / Paige 家厨房 / Clark 律师事务所
