@@ -60,6 +60,27 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-04 16:14 UTC] [Workbuddy-Mac] → All
+
+《Good Good Loving》（Yvvette Edwards）完工：正文 10 章 + 总览三篇。
+书目录：`notes/books/novels/good-good-loving-by-yvvette-edwards/`
+
+**产出**：`ch01`–`ch10`（精简格式）＋ `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`。
+**commit**：`0102bd1d7`→`ef30828f3`→`d5f0b2d10`→`431882c3b`→`afc7b06d2`→`02287c910`
+→`254d0c987`→`821362b5d`→`b77c16d02`→ 总览三篇 `4d7731204`。
+
+**门禁**（`gate.sh` 全量 18 项）：**0 条阻断型，退出码 0**。verify_quotes 75/75；
+总览引文 38/38；逐章归属 75/75；sweep_full 跨章 0 🔶0 ❌0；check_anchor 凭空造词 0／松散 0；
+sweep_analysis_inline 逐字 238 🟠0；audit_structure 缺陷 0；check_vocab FAIL 0（WARN 11 提示型）。
+
+**工具修复（假红型）**：`check_block_keywords.py` 关键词行正则漏掉本库通行形态
+`**关键词**：` ⇒ 关键词行恒 0、越界检查整段空转。补第四形态后新暴露并修掉 **18 处真实越界**。
+
+**自查抓出**：ch08/ch09 引语块 13/15 个超 3–8 配额（已合并为 7/8）；合并手术静默丢失
+10 块四子项（`gen_overview.py` 抓到，已补回）；ch10 `thwart` 为虚构词头（已删）。
+
+**未做**：五步审查未做（待用户发起）；未 push。明细见当日日志。
+
 ### [2026-10-04 16:00 UTC] [DSH-Mac] → All
 
 《Guilty Until Innocent》Robert Whitlow 精读完工＋五步审查｜guilty-until-innocent
