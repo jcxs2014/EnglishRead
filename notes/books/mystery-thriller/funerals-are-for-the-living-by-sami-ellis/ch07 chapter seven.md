@@ -50,7 +50,7 @@ modified: "2026-10-04"
 - **为什么这样写**：作者在 York 的追述里插一笔 Junie 对姐姐的速写，用 the little freedom fighter（小自由战士）这个带点宠溺的定语——既是昵称，也是反讽：Jay 一向与执法系统对着干，却偏偏在临死前为一件自己没能力查的事去找了一个警察（York）。little 一词削弱了战斗性，让这个称号读起来像家人之间的玩笑，反倒衬出她求助时的孤立无援。
 - **读者视角提示**：注意这个反差有多刺眼——Jay 逢警察必骂，却把最后的恐惧交给了 York，还威胁 York 不许说出去。她选择把秘密交给一个她最不信任的渠道，而不是告诉最亲的妹妹；Junie 此刻还不知道这份「瞒」有多深，只觉得被排除在外。
 
-> **原句 6:** But everything she rehearsed the night before evaporates in an instant at the sight of the man himself.
+> **原句 6:** But everything she rehearsed the night before evaporates in an instant at the sight of the man himself, and suddenly she can’t help but feel like this is a mistake.
 
 - **中文理解**：「可她前一晚排练好的所有说辞，在看见他本人的那一刻，全都蒸发得一干二净。」
 - **关键词**：everything she rehearsed · the night before · evaporates in an instant · at the sight of the man himself
@@ -96,7 +96,7 @@ modified: "2026-10-04"
 | carnation | 康乃馨（carnation stems 康乃馨花茎） | Brow furrowed, he does return a little to himself as he begins more aggressively poking carnation stems into floral foam. |
 | shade | 阴影；荫凉（公寓投下的阴影） | The shade reaches all the way up the block they pass through, hitting the edge of the flower shop. |
 | vase | 花瓶 | Instead, he fidgets with a mix of pink daisies, roses, and little white flowers in the vase in front of him. |
-| stem | 花茎（flower stem 花茎） | His hands linger on the stem of one flower. |
+| stem | 花茎（the stem of one flower 一朵花的花茎） | His hands linger on the stem of one flower. |
 | bouquets | 花束（摆放的花束） | The store is overcrowded with bouquets, a bursting bundle of lilies front and center. |
 | sign | 招牌（此处指小镇的欢迎牌） | Omari laughs like he’s in a commercial—friend to all in Daniels, as welcoming as the actual town sign is. |
 | block | 街区（他们走过的那一段） | The shade reaches all the way up the block they pass through, hitting the edge of the flower shop. |
