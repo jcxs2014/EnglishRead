@@ -1,0 +1,24 @@
+=== 总览门禁 2026-10-04 15:59 UTC ===
+--- verify_overview_quotes ---
+=== lane：完整 lane（epub） ===
+00_情感节点.md: ➖ 无引语行（正常，非门禁项）
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 24/24 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+--- check_overview_full ---
+=== 总览整串核查（the-french-revolution-by-ian-davidson）===
+  参照集：text/ 逐章（25 章） ｜ 总览文件 3 个
+  A 整串：命中 56 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 3
+  B 章节标签：对 56 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+--- check_overview_labels ---
+===== 00_金句精选.md：0 条带标签引语（跳过无标签行 96）=====
+
+该书总览无（chNN）标注引语（跳过 97 行）——本工具只核标注层，裸引语归 verify_overview_quotes.py。不是通过。
+--- 行内英文人工兜底（最近前置标签口径）---
+总片段 64 ｜ MISS 1 = 书名副标题 From Enlightenment to Tyranny（epub title.html 在证，text/ 不含装置页，合法书名引用非引语）
+--- ch25 年份矛盾回源 ---
+overthrew this Second Republic in 1871
+Napoléon III was overthrown in 1870
