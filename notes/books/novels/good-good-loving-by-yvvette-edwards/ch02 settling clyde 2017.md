@@ -47,11 +47,11 @@ modified: "2026-10-04"
 
 **读者视角提示**：到下一块（客厅会议）要留意：这个被喊的名字，就是会议桌上唯一有投票权又一直沉默的人。
 
-> **原句 4:** ‘We are gathered here today to talk about Daddy and where he should live.
+> **原句 4:** ‘We are gathered here today to talk about Daddy and where he should live. As you know, he’s staying with me at the moment, but he’s not happy,’ she said.
 
 客厅会议开场不是家常，是一句仪式性的宣布：`We are gathered here today to talk about Daddy and where he should live.` 这句话的形式是葬礼致辞，语气也是葬礼的——它把这个家变成了一场分派遗物的会。
 
-**关键词**：We are gathered here / where he should live / staying with me
+**关键词**：We are gathered here / where he should live / As you know
 
 **为什么这样写**：作者让克劳黛特用**葬礼用词**宣布一场活人的会议，一句话就把全家的潜意识摊开：她们已经在为克莱德做身后安排。而紧跟在后面的一句「他这阵子住我这儿，但他不开心」又把它拉回现实——被安置的人是活的、而且不高兴。这一块是全章的宪章，后面每一轮发言都在它划定的范围内进行。
 
