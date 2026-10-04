@@ -1,0 +1,181 @@
+---
+状态: 未读
+modified: "2026-10-04"
+---
+
+# 08. Clay（October 1978）
+
+## 本章导航
+
+- **一句话概括**：1978 年 10 月的一个星期六，七岁的 Clay 坐在母亲脚边替她补指甲油，父亲带他和哥哥去看球，中途绕道去见一个怀孕的女人；回程路上 Clay 把玩具车递给父亲看，父亲回头的那一刻，一辆转弯的货车撞上来——父亲在车里反复喊着「卡西乌斯」。
+
+- **情感弧线位置**：**全书的伤口本体**——前面七章所有的怨、所有的偏心、所有说不出口的话，都在这一章找到了源头。读到这里，读者才明白 ch05 里 Dumpling「二十一岁那年比母亲还老」的那句话是什么意思，也才明白艾伦为什么把房子、地毯、顺序看得那么重。
+
+- **人物弧线**：Clay 从「被父亲判定不够硬的男孩」变成一个只有七岁的死者；克莱德从「一个从不操心的人」变成一个必须面对自己造成的后果的人；CJ 从弟弟的哥哥变成那个在车里喊出「Dad! Look out!」的人——他的童年也在那一秒结束；而艾伦在这一章只出场两次，两次都在擦地毯。
+
+- **叙事手法**：作者把**同一个星期六切成两半**——前半是家里（指甲油、白地毯、争吵），后半是车里（绕道、递玩具车、撞车），中间用一行 `*` 隔开，并把艾伦擦地毯的动作**插在车祸现场中间**（她跪在盆边，与此同时丈夫正开车载着她的两个儿子）。作者让读者同时待在这两个地方，从而知道：**这场车祸发生的时候，她还在担心自己刚才说重了话。**
+
+## 精读
+
+> **原句 1:** Ellen had just begun painting the thumb nail on her right hand when Clay entered the front room making vrooming noises and running his favourite Matchbox car up and down the length of his arm. It was a metallic green superfast Porsche turbo that CJ had given him on his sixth birthday, and Clay was so attached, he even slept with it. Her work at the Heights meant she took good care of her hands and part of that was ensuring she kept her nails clipped as low as possible, not just for neatness – though she did think her short nails looked very neat and tidy – but because that way they were easiest to keep clean in a job that necessitated her washing her hands sometimes upwards of twenty times a shift. She’d only been a couple of weeks into the job when she realised that the work would finish her hands off for good if she didn’t take care of them, so she started carrying cream around with her and applying it every time she washed her hands. Then once a week, she gave her rough hands a treatment which began with removing the last lot of nail paint, trimming and filing the nails down, then washing and drying her hands and slathering them in cream before giving them a luxurious massage. Finally, she would paint her nails, and normally she would do it in her bedroom or the kitchen and never under any circumstances in the front room where she was now. But on this occasion she’d broken the house rules she had herself set because the painting of her nails was one of her rare indulgences, and another of her rare indulgences was the thick white shagpile carpet that had been recently laid in the hall, the stairs and on the front room floor, and sitting in her front room which had been carpeted so gloriously whilst treating herself to one of her favourite indulgences was irresistible, despite the fact she knew she would have blown her top and gone straight back to her roots with the cussing had she happened across Claudette and Joycelyn in the front room doing the exact same thing. Sitting on the sofa doing her nails, bottles of varnish and methylated spirits and a bag of cotton wool on top of the towel draped over her lap – just in case! – with her bare feet out of her slippers, toes scrunched into the sweet dense pile, was as thrilling for her as she imagined it might be in heaven itself.
+
+开篇：Clay 举着他的绿色保时捷玩具车跑进客厅，嘴里发着引擎声；艾伦刚给自己右手拇指涂上指甲油。
+
+**关键词**：vrooming noises / his favourite Matchbox car / the thumb nail on her right hand
+
+**为什么这样写**：作者用一个极小的动作开始这一章，因为这个动作将要贯穿全书：**指甲油**。艾伦一生把「体面」换算成具体的东西（一间白地毯的客厅、一双擦干净的鞋、一层指甲油），而作者让她在这个星期六刚涂到第二根手指就被打断。Clay 手里的玩具车也是同一个写法——读者第一次看到它是「儿子最喜欢的玩具」，最后一次看到它是「撞车后掉在车头盖上的东西」。
+
+**读者视角提示**：记住这辆绿色的保时捷。它在章末还会出现一次。
+
+> **原句 2:** ‘Can I do it?’ Clay asked, and when Ellen looked up at him, he contorted his face into an expression of longing and added, ‘Pleeeaase.’
+
+Clay 请求给母亲涂完剩下的指甲，艾伦没有说「好」，只摇了摇头——因为没说「不」，Clay 就知道那是「是」。
+
+**关键词**：Pleeeaase / an expression of longing / ‘Can I do it?’
+
+**为什么这样写**：这是全书对这个家庭最精确的一次描写。作者用一句否定式写出一整套沟通方式：**这个家的话都在字缝里**。艾伦的「不摇头」是允许，「不回答」是同意，「点一下头」是勉强同意——作者让七岁的 Clay 完全读得懂这套暗语。而 Clay 的撒娇（`Pleeeaase`）和他后来被父亲吼两次都不吭声，是同一个孩子的两面。
+
+**读者视角提示**：这一块里艾伦是笑着的。请留意本章最后一次出现「笑」是在哪里。
+
+> **原句 3:** For completely different reasons, she would also have said no had Clyde been at home because Clyde didn’t like Clay involved in what he called woman-business, didn’t have a framework for understanding why his son would want to be. He understood men like himself very well, the ones who laughed loud and entertained the crowd, who were opinionated, played dominoes, who gambled, drank and womanised, men like the ones CJ was on a trajectory to become. CJ was his father’s son, made in his image, in looks, actions and mindset. Though Clay looked more like Clyde than CJ, in fact looked more like Clyde than even Clyde did – of which she was mightily glad – in personality he was nothing like Clyde, nothing at all. If anything, he was the complete opposite. She knew it and she knew Clyde felt it.
+
+作者补上这一段的背景：如果克莱德在家，艾伦也会拒绝，因为克莱德把这类事叫做「女人的事」。
+
+**关键词**：woman-business / a framework for understanding / his son would want to be
+
+**为什么这样写**：作者用两个词交代了整本书的父子关系：`woman-business`（女人的事）和 `toughen up`（硬起来）。克莱德没有恶意——作者特意写明他不是在虐待儿子，他只是在**要求儿子不要是他本来的样子**。而这一次的最后一句是全书最疼的一处伏笔：克莱德的长子 Cassius 小时候也是「同样烦人」，而他没能把哥哥带好——**他正在把同一套做法用在小儿子身上，而这一次还是没成功。**
+
+**读者视角提示**：这一块解释了 Clay 在车上为什么「决心不再惹父亲第三次发火」。
+
+> **原句 4:** ‘Oh no!’ Clay said. He put the brush back into the bottle and pulled a bit of cotton wool off the roll. He opened the methylated spirits, put the piece of cotton wool on the open mouth of the bottle and tipped it, then began to clear the varnish from the finger he’d just painted, which had spilled over the edge of the nail onto the surrounding skin, and he did it as gently as if he were cleaning a wound. Throughout the entirety of Ellen’s life, no one had ever spoiled her like this, and she loved it. She relaxed her thoughts and her shoulders and felt the tension drain from her body as she gave herself permission to simply enjoy the experience.
+
+Clay 涂坏了指甲，自己去拿棉花和酒精擦掉重来；艾伦看着他，心里又软又担心。
+
+**关键词**：Oh no! / methylated spirits / cotton wool
+
+**为什么这样写**：作者把「重来」写成一个七岁孩子自己完成的流程——工具在哪儿、先擦哪里、怎么补——而艾伦只负责在旁边看着。这一段的重量在于**艾伦的喜欢和他父亲的失望是同一个东西**：他的耐心、他对手上细活的天赋，正是克莱德视为「不够男人」的部分。作者让母亲的爱和父亲的否认同指一样东西，这就是 Clay 这个人物存在的全部意义。
+
+**读者视角提示**：这是本章唯一一段还在日常里的时间。往下一页，球赛散场，一切都开始滑向不可逆。
+
+> **原句 5:** Clyde stood at the side of the pitch with the other parents. The match was in the last fifteen minutes of the second half. His hands were jammed into the pockets of his coat, because although they were still a couple of months away from proper winter, the fog hadn’t yet lifted entirely and the air itself was freezing cold. He was grateful that the rain which had been falling for most of the week had stopped, but it had left the ground so soft that most of the boys on the pitch were covered in mud from head to boot. He saw CJ looking at him and he raised his hands and gave him two thumbs up on autopilot, though he wasn’t sure what for as he’d been so preoccupied with his current problem that he hadn’t been able to properly concentrate on the match. In fact it had been days since he’d been able to concentrate on anything other than his problem, not that any of that time spent thinking about it had yielded any solutions or been useful in any way, as his problem showed no sign of disappearing despite him racking his brain non-stop about how to make that happen.
+
+克莱德站在球场边，比赛还剩十五分钟，他那双惯于无所事事的手插在口袋里——作者从这里开始，用整整五段写这个男人的心事。
+
+**关键词**：jammed into the pockets / a couple of months away / Worry was a very unusual
+
+**为什么这样写**：作者把「担心」写成一个外来词：`Worry was a very unusual state for Clyde`。这个人一生里没有几件真正要他负责的事，所以当 Francesca 哭着把刀塞进他手里的时候，他的第一反应是逃。作者不给读者一个忏悔的克莱德——她给的是**一个不习惯承担的人**，而这种不习惯，等到车祸发生时就会变成一个可怕的形状。
+
+**读者视角提示**：这一段之后，作者倒着讲清了「星期一早晨」发生的事——那是 Francesca 第一次出现的日子。
+
+> **原句 6:** In complete desperation, he’d told her he was a married man and there was nothing he could do for her. That was when she pulled out the knife and for a moment Clyde thought he’d had it, then she began to force the knife into his hand, and he realised the weapon hadn’t been brought along to kill him. She told him he might as well kill her and the baby there and then because it would be quicker and less painful than allowing their deaths to drag out. Francesca had pulled her blouse up, exposing her belly so that he could plainly see that what should’ve been a flat stomach on a small-framed woman of her size was now softly rounded. She told him she would lose her job and she wouldn’t be able to pay her rent. Then she said there was probably no need for her to worry about rent anyway, as once the landlady found out she’d be out on the streets. She’d asked him what she was supposed to do, and for the first time since entering the office, Clyde answered with absolute honesty when he said he did not know. She’d given him a piece of paper with her address on it and told him he needed to come and see her at the weekend, otherwise she would kill herself and both she and the baby would haunt his backside for the rest of eternity. She swore it on her baby’s life. Clyde had been raised on an indulgent diet of stories about ghosts and hauntings, about jumbies, duppies and Jack Lantern, about revelations, death and madness, and although he didn’t generally consider himself to be a superstitious man, the threat terrified the living daylights out of him. Which meant he had to do something, whatever that something was, and he needed to do it fast as he was already on day one of the weekend.
+
+克莱德摊牌：他告诉怀孕的 Francesca 自己是有家室的人，帮不了她——然后她掏出刀，又反过来把刀塞进他手里。
+
+**关键词**：in complete desperation / pulled out the knife / force the knife into his hand
+
+**为什么这样写**：这是本章前后两半的连接点：**前半的所有铺垫都在这把刀上**。作者写一个女人用自杀威胁一个已经明确说不的男人，而克莱德的做法是把她搂住、安抚、答应条件——不是因为他良心发现，是因为他只想让这一切停下来。他的解决方案（每周送钱、顺路看孩子）在下一段就要拿去执行，而正是这个执行让他把两个儿子装进了车里。
+
+**读者视角提示**：请记住这个方案是「每周送钱、他去的时候看孩子、她不许上家里来」。本章第二次出门就是去办这件事。
+
+> **原句 7:** He was quiet on the way back home and for most of the journey. CJ talked non-stop about his moves, his strategies, his glory, till finally, close to home, Clyde was pulled out of his reverie by silence and the dawning awareness that CJ had asked him something.
+
+回程的车里，CJ 一直在讲自己的球技和战术，直到快到家时突然安静下来——克莱德这才意识到儿子一直在等他开口。
+
+**关键词**：quiet on the way back home / CJ talked non-stop / pulled out of his reverie
+
+**为什么这样写**：作者不让克莱德主动交代，而让**沉默**来完成这件事：一个十三岁的孩子讲了一路，突然不讲了，因为他在等父亲自己说。这句 `dawning awareness` 是全章最省的一笔——作者连 CJ 问了什么都在下一段才给，读者先感受到的是父亲的心虚。**在这个家里，要开口的人从来不是父亲。**
+
+**读者视角提示**：接下来 CJ 问出的那句话是 `Is mum divorcing you?`——请留意克莱德听完之后先笑了，而笑到一半停住。
+
+> **原句 8:** The contents of Clyde’s bowels instantly became liquid, and he wondered how Ellen had found out about Francesca and how Francesca had found out where he lived and whether she had shown Ellen her suggestively rounded stomach when she had visited his home and the full weight of his bad luck bore down on him; that all this had happened just as CJ had helped him to come up with a plan to sort everything out. ‘It wasn’t my fault,’ he said.
+
+艾伦发火的原因是白地毯上被踩了泥，而克莱德瞬间以为自己被抓的是另一件事——他的肠子当场化成了液体。
+
+**关键词**：instantly became liquid / how Ellen had found out / not about another woman
+
+**为什么这样写**：这是全章最惊悚的一处喜剧。作者让三个人的误会在同一个门厅里同时发生：艾伦在骂泥，克莱德以为在骂怀孕的女人，Clay 站在旁边**手里还握着那瓶指甲油**。而作者精确地补上那句 `and not about another woman carrying his child`，把读者的笑堵在半路：**克莱德松的这口气，代价是他后面二十年的沉默。**
+
+**读者视角提示**：这一块之后冲突真正升级——克莱德第一次对艾伦吼，第一次朝她迈步。
+
+> **原句 9:** CJ reached out, grabbed his father by the arm and stopped him. ‘Mum’s right,’ he said, ‘calm down, Dad.’
+
+冲突到顶：克莱德朝艾伦迈了一步，CJ 伸手抓住父亲的胳膊——「妈说得对，冷静点，爸。」
+
+**关键词**：grabbed his father by the arm / Mum’s right / calm down, Dad
+
+**为什么这样写**：作者在这一段里放了一个十三岁的孩子去挡住父亲。更狠的是后面那句：克莱德清醒过来之后，**他为「自己没有做下不可原谅的事」感到庆幸**——他并不知道，真正的不可原谅的事，几个小时之后就会由他亲手做出来，而且是在同一辆车里。作者用这一段的力气全在时间差上：读者知道什么会发生，而人物此刻只关心地毯。
+
+**读者视角提示**：这一块里还藏着本章的题眼：`You know it’s two sons you have?`——艾伦说完立刻后悔，因为这句话是把 Clay 推到父亲面前去。
+
+> **原句 10:** The plan they’d come up with was that Clyde would go and visit Francesca that afternoon. He would offer to give her money towards the child on a weekly basis. He would see the child when he came by to drop off the money. She would not tell anyone he was the father. Unfortunately, this would mean that the child could not come to his home, but it was the best route to go down because if Ellen found out about it she would almost certainly divorce him, and as she already had four children with him and a house that still had a mortgage on it, it was very likely that if she was able to show the court he’d had a child out of doors, she would end up remaining in the home with the kids and not only might he find himself homeless while having to pay her child support, he would have to come up with maintenance payments as well, leaving him with barely enough to support himself, never mind Francesca and the baby. One of the fellows Clyde worked with at the sorting office was in that exact position and it had reduced him from being what he had himself described as a Jack the Lad to the pitiful and broken shell of a formerly care-free man, so in actual fact, he wasn’t even lying; it was a scenario that could genuinely happen. The important thing was he would be supporting Francesca and his child. That was what he had to sell to Francesca. Ellen never needed to find out and nobody needed to die. That was the plan.
+
+作者交代了那个决定：克莱德下午去见 Francesca，答应每周给钱、他去的时候看孩子、她不许上家里来——这就是为什么两个儿子会被装进车里。
+
+**关键词**：The plan they’d come up with / on a weekly basis / She would not tell anyone
+
+**为什么这样写**：作者把这次死亡的起因写成一份**理性的、负责任的安排**：给钱、定期探望、保密。克莱德甚至还感到高兴——见完 Francesca 出来的时候，他的步伐是 `buoyant`。**这就是这本书对因果最残忍的表达**：车祸不是惩罚，车祸是一份好意的方案走到一半的结果。
+
+**读者视角提示**：这一块之后是车内三段的最后一段：Clay 决定不再惹父亲发火。
+
+> **原句 11:** He jumped into the car and put the key into the ignition and turned it. Clay sat quietly in the middle of the back seat, aware he’d made his dad angry enough to shout at him twice in one day, determined not to provoke him into doing it a third time. He felt funny when his dad shouted at him, like he wasn’t loved, even though he knew it was silly because mums and dads loved their children, even when two of their children were boys and they had already loved the first one for a long time before the next one had been born. He knew his mum loved him the same as his sisters and brother and sometimes he thought she loved him even more because she was kinder to him than she was to the others and hardly ever told him off. But he also knew CJ was his dad’s favourite. Everyone knew CJ was his father’s favourite because they were always talking together and laughing together and his dad never shouted at his brother, ever. He understood why everyone loved CJ, because he also loved his brother, who was smart and funny and fast and always played with him and hardly ever got bored and never ever shouted at him and because of that Clay loved his brother very much. It wasn’t that he wanted his dad to love CJ less, he just wanted his dad to love him as much.
+
+Clay 在车里做了一个决定：因为今天已经被吼了两次，他决心不惹父亲第三次生气。
+
+**关键词**：aware he’d made his dad angry / determined not to provoke him / like he wasn’t loved
+
+**为什么这样写**：作者用一整段写这个七岁孩子的心事：被父亲吼的时候他感觉「像是不被爱」。这一句是本章对 Cla​​y 的全部交代，也是整本书对这个人物的最后交代——**他在死前最后想的事是不要惹爸爸生气**。而他父亲此刻正在车里为另一件事感到轻松（见下一块）。
+
+**读者视角提示**：请留意这一段里 Clay 手的状态——他把玩具车举起来，比作斑马线协管员的手。
+
+> **原句 12:** He felt a tapping on his shoulder and turned his head. Clay was holding his Porsche out to Clyde and had he not already shouted at the boy, he would have shouted at him then. Instead, his earlier behaviour made him indecisive. He glanced from the Matchbox car to Clay’s face in confusion.
+
+最后一块：父亲的坏心情正好了一点，Clay 把绿色保时捷递给他看；克莱德回头看了一眼玩具车和儿子的脸，在犹豫要不要发火。
+
+**关键词**：a tapping on his shoulder / holding his Porsche out / indecisive
+
+**为什么这样写**：作者让车祸发生在一个**犹豫的瞬间**：如果克莱德当时没有在「要不要骂儿子」这件事上卡住，他会看着前面的路。这一处的时间安排精确到残忍——**他的犹豫，本来是他对孩子最像父亲的一秒**。而下一句是 CJ 喊的 `Dad! Look out!`，然后读者看到的最后一幕，是有人从车头盖上捡起一辆绿色小车。
+
+**读者视角提示**：作者不给车祸本身一个镜头，只给了父亲醒过来之后的听觉世界——静音、血、和一个他记不起来的东西。
+
+> **原句 13:** Clyde knew he was forgetting something, but for the life of him he couldn’t remember what that was till another man climbed onto the bonnet of his car reaching towards some clothing strewn messily across it. The windscreen was so clear it was as if he wasn’t looking through glass at all but out from inside the car without any kind of filter. He watched as the man put his hand onto the clothes then turned around and shook his head at another person just out of Clyde’s line of vision. He saw a mother on the pavement, her hands on the handles of a pram, standing still, looking at the vehicles, crying. The man on the bonnet got off, bent down and picked up a small green car, and Clyde realised what he’d thought had been a pile of clothes was more than that, much much more, and though he still couldn’t hear anything, including himself as he began to speak, he began to call out over and over again, ‘Cassius!’
+
+结尾：克莱德从车里醒过来，什么都听不见，只看见有人从车头盖上捡起一辆绿色的小车，这时他才明白那堆「衣服」是什么——他开始一遍遍地喊「卡西乌斯」。
+
+**关键词**：picked up a small green car / more than that, much much more / ‘Cassius!’
+
+**为什么这样写**：最后一个词是全书的枢纽。克莱德喊的不是 `Clay`，是 `Cassius`——他哥哥的名字，那个他小时候没能带好的哥哥，也是 ch04 里坐着飞机回来的那个哥哥。作者把整本书的兄弟线与丧子线在最后一句里扣在一起：**他喊的是他一生里第一个没照顾好的人**。而这一章原本就叫 `Clay`——作者用最后一个词否定这一章的标题。
+
+**读者视角提示**：本章至此结束。请回看开头那辆绿色的玩具车——它出现了两次，一次在客厅，一次在车头盖上。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| woman-business | （克莱德语）女人的事；不像男人该干的事 | For completely different reasons, she would also have said no had Clyde been at home because Clyde didn’t like Clay involved in what he called woman-business, didn’t have a framework for understanding why his son would want to be. |
+| houseproud | 以家为傲的；极爱干净的 | In Ellen’s mind, being houseproud had become virtually synonymous with being female and having a home. |
+| incendiary | 煽动性的；一点就着的 | The words were incendiary. |
+| unaccustomed | 不习惯的；不寻常的 | Watching him, Ellen found herself experiencing something very unusual: unaccustomed shock at her husband’s behaviour. |
+| ruminating | 反复琢磨；深思 | That was one of the trains of thought she was ruminating over while hand-cleaning the carpet, but it wasn’t the source of her tension. |
+| reverence | 崇敬；近乎神圣的敬意 | After the upbringing she’d had, it greatly amused Ellen that she could imagine nail varnish in heaven at all, and amused her further still that nail varnish occupied a position of such high esteem for her, virtual reverence, when she didn’t really think of herself as much of a girlie girl. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| deadpan | 面无表情的；冷脸的 | Hers was a language of facial expressions and gestures: a deadpan stare with both brows raised, shrugging his hand off her shoulder, a single eyebrow cocked in response to his explanations, the pursed lips and slow cutting of eyes in response to his apologies, loudly kissing her teeth during his declarations it would never happen again. |
+| buoyant | 轻快的；脚步轻的 | Clyde’s walk back down the path towards the car was buoyant. |
+| providence | 天意；上天的安排 | Her tension stemmed from the fact she felt she had put her mouth on herself and challenged providence during her angry exchange with Clyde, and that had made her fearful. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| jubilant | 欢欣的；喜气洋洋的 | Clyde’s mood was jubilant. |
+| ragdoll | 布娃娃 | He reminded Clyde of the ragdoll Ellen had bought CJ in Montserrat just before they’d left to come to England. |
+| toughen up | 变强硬；变坚强 | The result was an ongoing hearty effort on Clyde’s part to encourage Clay to toughen up, to take part in more masculine pursuits, combined with an unspecified disappointment when he saw Clay initiating or involved in woman-business. |
+
+## 一句话总结
+
+这一章把全书最疼的一件事完整摊开：一个七岁的男孩因为喜欢替母亲涂指甲油，被父亲判定为不够硬，被怀着心事带上了那辆车；车祸发生在他把玩具车递给父亲看的一秒钟里，而父亲从昏迷中醒来后喊出的，是自己没能照顾好的哥哥的名字。
