@@ -1,0 +1,152 @@
+=== 语料层验收（P0-0）: give-me-butterflies-by-jillian-meadows ===
+text/ 件数: 47
+  [1] 件数 47 == 预期 47  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [4b] 疑似页码 bleed 2 件  WARN
+  [2] 人物锚点双向：本篇 47 组 / 互查 2162 组（共享人物 2 个已豁免）  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (190 句)
+      首| Chapter 1
+      末| Alfred is waiting for a ducking answer.
+    ch02 (126 句)
+      首| Chapter 2
+      末| Alone.”
+    ch03 (137 句)
+      首| Chapter 3
+      末| His lips kick up arrogantly on one side, almost like he’s looking forward to what’s about to hap
+    ch04 (68 句)
+      首| Chapter 4
+      末| Just to see if it’s worth her dramatics.
+    ch05 (158 句)
+      首| Chapter 5
+      末| No matter how good the coffee is.
+    ch06 (151 句)
+      首| Chapter 6
+      末| “Where should we plant your seedlings?”
+    ch07 (133 句)
+      首| Chapter 7
+      末| And for the first time, I realize that buried under the feelings of grief and loss might be a st
+    ch08 (230 句)
+      首| Chapter 8
+      末| Hopefully it will be enough time to snuff out the insecurity zinging through my veins, and I wil
+    ch09 (84 句)
+      首| Chapter 9
+      末| Then you can tell me what I need to pick up from the store.”
+    ch10 (97 句)
+      首| Chapter 10
+      末| His fingers dig into the back of it as he looks at me with a quiet grin that seems to say, Welco
+    ch11 (103 句)
+      首| Chapter 11
+      末| We’re allowing her into our world, and they’re laughing and dancing together now, but Millie cou
+    ch12 (167 句)
+      首| Chapter 12
+      末| I’m seeing the world from a new perspective before I careen over the side, into the unknown.
+    ch13 (183 句)
+      首| Chapter 13
+      末| Be there, I will.”
+    ch14 (250 句)
+      首| Chapter 14
+      末| Lena meets my eyes across the table and winks.
+    ch15 (88 句)
+      首| Chapter 15
+      末| The girls will never stop missing their mama, but hopefully, Clara would be happy that Millie’s 
+    ch16 (162 句)
+      首| Chapter 16
+      末| So much more than you know.”
+    ch17 (92 句)
+      首| Chapter 17
+      末| Beep.
+    ch18 (350 句)
+      首| Chapter 18
+      末| Finn: My favorite way involves your fingers, so I’ll have to wait until you’re here.
+    ch19 (114 句)
+      首| Chapter 19
+      末| My heart reaches the point where it won’t fit in my chest anymore.
+    ch20 (238 句)
+      首| Chapter 20
+      末| He does the movement once more before his fingers pause and his chest lifts with the steady, dee
+    ch21 (145 句)
+      首| Chapter 21
+      末| “Me too.”
+    ch22 (77 句)
+      首| Chapter 22
+      末| We can still be friends after that, right?
+    ch23 (273 句)
+      首| Chapter 23
+      末| I’ve ever heard.
+    ch24 (294 句)
+      首| Chapter 24
+      末| “I promise you can trust me.”
+    ch25 (146 句)
+      首| Chapter 25
+      末| I want to meet your people so they can be my people too.”
+    ch26 (238 句)
+      首| Chapter 26
+      末| I want to remember what I had with Clara, because every time I do, my chest feels a little light
+    ch27 (205 句)
+      首| Chapter 27
+      末| A smirk crosses his lips as he slides it over his head, and I shove him flat on his back.
+    ch28 (144 句)
+      首| Chapter 28
+      末| “I understand.” She picks up her bag and flashes me a falsely bright smile that guts me.
+    ch29 (146 句)
+      首| Chapter 29
+      末| And I hate how the possibility of that fantasy was ripped away before I ever had a chance to enj
+    ch30 (110 句)
+      首| Chapter 30
+      末| As tears gather at the edges of my eyes, I pour out every whispered word I wish I could say to m
+    ch31 (131 句)
+      首| Chapter 31
+      末| Come out with me, instead.”
+    ch32 (126 句)
+      首| Chapter 32
+      末| We’re ready for step three of our date.”
+    ch33 (133 句)
+      首| Chapter 33
+      末| “Don’t think I’m going to forget about that last part, though.”
+    ch34 (49 句)
+      首| Chapter 34
+      末| “Take me to bed,” she orders.
+    ch35 (186 句)
+      首| Chapter 35
+      末| And as I drift off to sleep, every sweet detail finds a cozy spot in my heart, made just for Fin
+    ch36 (159 句)
+      首| Chapter 36
+      末| And I want to see this view forever.
+    ch37 (290 句)
+      首| Chapter 37
+      末| “Now let’s bake cookies and learn how to make voodoo dolls to hex him with.”
+    ch38 (169 句)
+      首| Chapter 38
+      末| “I can’t believe you think I wouldn’t.”
+    ch39 (182 句)
+      首| Chapter 39
+      末| I’d say they’re on board with a sleepover.”
+    ch40 (195 句)
+      首| Chapter 40
+      末| Ready to fly.
+    ch41 (91 句)
+      首| Chapter 41
+      末| And then I drive home, nausea churning in my stomach at the reminder I’m one of the people who b
+    ch42 (235 句)
+      首| Chapter 42
+      末| But her words echo in my ears nonstop until they’re all I can hear.
+    ch43 (83 句)
+      首| Chapter 43
+      末| I want to show you something.”
+    ch44 (99 句)
+      首| Chapter 44
+      末| My voice comes out hoarse as I whisper, “I love you too.” Then he glides his lips over the corne
+    ch45 (146 句)
+      首| Chapter 45
+      末| We move together in unhurried, deep strokes, the room filled with the sounds of our whispered pr
+    ch46 (238 句)
+      首| Chapter 46
+      末| All I see is you.”
+    ch47 (136 句)
+      首| Epilogue
+      末| Luckiest man in the universe.”
+
+WARN  疑似页码 bleed 于 2 件（ch03,10）——选句与例句须避开粘连点
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===

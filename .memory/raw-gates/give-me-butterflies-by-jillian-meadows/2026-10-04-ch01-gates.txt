@@ -1,0 +1,26 @@
+### verify_quotes
+ch01 the last almond croissant.md: 7/7 ✅
+
+=== 总计 7/7 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0 ===
+### check_vocab
+  [P0-4] 正文章节 1 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 26
+
+--- FAIL (0) ---
+
+--- WARN (1) ---
+  ch01 the last almond croissant.md [基础] 基础档疑含超纲词「replenished oxygen」
+### check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+### check_chapter_quotes
+ch01 the last almond croissant.md: 7/7 in ch01 text
+### corruption_scan
+
+=== 编辑损坏扫描（give-me-butterflies-by-jillian-meadows）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+### sweep_full
+=== 引语整串 flat 比对（give-me-butterflies-by-jillian-meadows）===
+  参照集：text/ 逐章（47 章，可定章） + epub 交叉验证
+  ✅ 本章命中 7 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
