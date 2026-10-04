@@ -68,6 +68,9 @@ modified: "2026-10-04"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| dank | 阴湿的；霉湿的（此处指木屋的墙板） | The walls’ moist panels are peeled and dank. |
+| moist | 潮湿的（此处指墙板返潮） | The walls’ moist panels are peeled and dank. |
+| peeled | 剥落的（此处指起皮的墙板） | The walls’ moist panels are peeled and dank. |
 
 ### ⭐ 基础
 
