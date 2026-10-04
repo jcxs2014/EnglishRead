@@ -17,7 +17,7 @@ modified: "2026-10-04"
 
 > **原句 1:** "I thought . . . I thought you were a grumpy asshole who wouldn’t get into the elevator with me. You looked like the idea of sharing a small space was offensive."
 
-**中文理解：** 她说初次见他时的念头：觉得他是个坏脾气的混蛋，不会愿意跟她挤一部电梯；在他看来，跟人共处这么小的空间本身就是被冒犯的事。
+**中文理解：** 她说初次见他时的念头：觉得他是个坏脾气的混蛋，不会愿意跟她挤一部电梯；在她看来，跟人共处这么小的空间本身就足以被冒犯。
 
 **关键词：** grumpy asshole，wouldn’t get into，offensive
 
@@ -51,7 +51,7 @@ modified: "2026-10-04"
 
 **关键词：** not in charge，deciding who gets it，dropped out
 
-**为什么这样写：** 三句都是否定式开头，却一句比一句短，压力是倒着给的：前两句拆她搭的台子，第三句直接抽走地基。dropped out 是简单过去时加上小品词 out——这件事已经做完，而不是正在做；他没有说自己"不想评"，说自己"退出了"，时间点由她来问。
+**为什么这样写：** 前三句里两是否定式开头，词数一短一长一短，并非递减，压力是倒着给的：前两句拆她搭的台子，第三句直接抽走地基。dropped out 是简单过去时加上小品词 out——这件事已经做完，而不是正在做；他没有说自己"不想评"，说自己"退出了"，时间点由她来问。
 
 **读者视角提示：** 紧接着他报出日期："The Monday after you taught me how to make pizza." 米莉立刻算出 That was almost four weeks ago——她算了整整一个月的账，对面根本没有人可以欠。
 
@@ -61,7 +61,7 @@ modified: "2026-10-04"
 
 **关键词：** Pretty sure，erasing，as you were making it
 
-**为什么这样写：** 两个分句都是现在进行时，但一个是他做的（I was erasing），一个是刚发生的（as you were making it），两个进行时叠在一起，就把"划线"和"擦线"写成了同时进行的动作。Pretty sure 把断言降成半信半疑的口气，他连道歉都要留退路；that line 前面有指示词却不作解释，读者必须自己记得她在更早时候说过的那句 We aren’t very good at being just friends。
+**为什么这样写：** 两个分句都是过去进行时，但一个是他做的（I was erasing），一个是刚发生的（as you were making it），两个进行时叠在一起，就把"划线"和"擦线"写成了同时进行的动作。Pretty sure 把断言降成半信半疑的口气，他连道歉都要留退路；that line 前面有指示词却不作解释，读者必须自己记得她在更早时候说过的那句 We aren’t very good at being just friends。
 
 **读者视角提示：** 这句是他在她说完"我画了线、我们不该越过去"之后回的——她要的是承认越界的道歉，他给的是"越界这件事从来只发生在我这边"的重新定义。
 
