@@ -1,0 +1,20 @@
+=== 批8 ch14+ch15 2026-10-04 14:16 UTC ===
+--- verify_quotes ---
+ch15 The War in 1792.md: 9/10 ❌
+    ✗ wemustdeclareourselvesarevolutionarypowe...
+
+=== 总计 148/150 引文可核实（99%）；完全干净文件 13/15；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- sweep_full ---
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+  🔶 ch14 The Convention.md（ch14）跨标签拼接，各段逐字都在：I do not want to see Paris, led by a bunch o
+  🔶 ch15 The War in 1792.md（ch15）跨标签拼接，各段逐字都在：We must declare ourselves a Revolutionary po
+--- check_vocab (FAIL header) ---
+--- FAIL (0) ---
+--- entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption ---
+  FAIL 0 处（U+FFFD / 双句号）
+--- 逐章 ch14 ---
+  MISS: I do not want to see Paris, led by a bunch of schemers, become in the French Emp
+--- 逐章 ch15 ---
+  MISS: We must declare ourselves a Revolutionary power in the countries we enter; it is
