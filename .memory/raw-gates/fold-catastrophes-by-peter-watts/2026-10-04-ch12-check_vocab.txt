@@ -1,0 +1,25 @@
+词条行合计: 180
+
+--- FAIL (0) ---
+
+--- WARN (20) ---
+  ch01 desert prophet wanted.md [基础] 基础档疑含超纲词「integrity」
+  ch01 desert prophet wanted.md [基础] 基础档疑含超纲词「uncomfortable」
+  ch01 desert prophet wanted.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch02 gut feelings.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch03 the twenty one second god.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch04 contracting iris.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch05 defective.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch06 giants.md [基础] 基础档疑含超纲词「lightning」
+  ch06 giants.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch07 test 4 echo.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch08 zeros.md [基础] 例句不含词头「hive」
+  ch08 zeros.md [基础] 基础档疑含超纲词「insurgent」
+  ch08 zeros.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch09 critical mass.md [?] 词汇节外有 3 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch10 the colonel.md [基础] 基础档疑含超纲词「insurgent」
+  ch10 the colonel.md [基础] 基础档疑含超纲词「perimeter」
+  ch10 the colonel.md [基础] 基础档疑含超纲词「flammable」
+  ch10 the colonel.md [基础] 基础档疑含超纲词「monastery」
+  ch10 the colonel.md [?] 词汇节外有 4 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch12 game theory.md [基础] 基础档疑含超纲词「confessional」
