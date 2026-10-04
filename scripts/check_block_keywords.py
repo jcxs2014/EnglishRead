@@ -48,6 +48,25 @@ BLOCK_RE = re.compile(r'^> \*\*原句 (\d+):\*\* ', re.M)
 # ⚠️ 2026-10-01 新增：编号 + 引语头的整体迭代器。编号、引语、关键词三者必须同源切分，
 # 否则切块与取号口径不一致会让 zip() 错位（详见 check() 内注释）。
 BLOCK_ITER = re.compile(r'^> \*\*原句 (\d+):\*\* (.*)$', re.M)
+# ⚠️ 2026-10-04 新增：短篇合集档用**裸圈码** `① "…"` 作引语块头（本库短篇合集
+# 体裁对应格式表＝逐篇精读 10 处五子项，与长篇精简档的 `> **原句 N:**` 不是一套）。
+# 而本工具三张正则只认 `原句 N:` ⇒ 圈码书 nq 恒 0 ⇒ 走到「未找到任何引语块」就 return，
+# **关键词越界与拼接检查整段空转**（假阴性比假红更坏：它报 0 缺陷而实际没查）。
+# 与 `check_struct_indep.py` 的 anthology 档同口径（特征节 `## 精读结束总结` +
+# `## 可迁移表达` + 圈码能解析），判据本身一处不改，只补抬头识别。
+CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕'
+CIRC_BLOCK_RE = re.compile(r'^([' + CIRCLED + r'])\s+["\']', re.M)
+# 圈码是**单行**形态（引语整段写在一行，分析子项另起行）⇒ 不需要续行合并。
+# ⚠️ 计数与切块走**同一张**正则（只差有没有捕获引语体），与 BLOCK_RE / BLOCK_ITER
+# 同构——否则又是一次「切块与取号口径不一致」的 zip() 错位（2026-10-01 已修过一次）。
+CIRC_ITER = re.compile(r'^([' + CIRCLED + r'])\s+["\'](.*)$', re.M)
+# 短篇合集档的**独有特征节**（两者皆须命中才认档，避免与长篇精简档抢档）。
+ANTH_MARKS = (r'^## 精读结束总结', r'^## 可迁移表达')
+# 短篇合集里**篇幅显著短于正篇**的篇目（引言/后记一类）按体裁表凑不出 10 处时，
+# 块数下限不适用的源文本长度阈值（正文归一后字符数）。写成结构性判据而非「某章特例」。
+ANTH_SHORT_SRC = 20000
+# 该档块数配额：**固定 10 处**（体裁对应格式表：短篇合集＝逐篇精读 10 处五子项）。
+ANTH_RANGE = (10, 10)
 # ⚠️ 2026-10-01 修正：原式 ^\*\*关键词\*\*：  行首锚定，只认「顶格」形态；
 #    而本库通行形态是列表项 `- **关键词**：…`（行首是 `- `）⇒ 47 章全报「关键词行 0」，
 #    整类假红。改为接受「行首可选列表符号」。
@@ -58,6 +77,16 @@ BLOCK_ITER = re.compile(r'^> \*\*原句 (\d+):\*\* (.*)$', re.M)
 #    单形态正则静默抽 0 条，症状是「结构对账失败」而非「格式错」，极难回溯。
 #    ⇒ 两种形态都必须接受（判据不变，只放宽形态）。
 KW_RE = re.compile(r'^[ \t]*(?:[-*+][ \t]+)?\*\*关键词(?:\*\*：|：\*\*)[ \t]*(.*)$', re.M)
+# ⚠️ 2026-10-04 第三种形态（短篇合集档实测，the-best-short-stories-2026 20/20 命中）：
+#   该档写**裸** `- 关键词：…`（不加粗）。前两种都是「冒号在粗体外/内」的**加粗**形态，
+#   裸形态一条都认不到 ⇒ 关键词行恒 0 ⇒ 「结构对账失败」+ 关键词检查整段空转。
+#   与上面两次修的是**同一个**故障：单形态正则静默抽 0 条。
+#   全库实测（14080 个 ch*/0* md）：加粗外置 65819 / 加粗内置 17715 / **裸形态 12005**
+#   （分布在 1532 个文件）⇒ 裸形态不是孤例，是第三大通行写法。判据不变，只补形态。
+#   ⚠️ 裸形态正则**必须排除** `**关键词` 前缀与 `**关键词：**` 形态（否则与上面两条
+#   重复计数 ⇒ nkw 翻倍 ⇒ 反过来制造新的「对账失败」）：下面用 `(?!\*\*)` 与
+#   `(?<!\*\*)` 双向排除，实测三形态在同一文件里混写时计数仍等于块数。
+KW_RE_PLAIN = re.compile(r'^[ \t]*(?:[-*+][ \t]+)?(?!\*\*)关键词：(?!\*\*)[ \t]*(.*)$', re.M)
 
 # 短引语阈值：与 check_short_quotes 的 <20 字符口径一致（同一概念只留一处数值，
 # 两处各写一个数就会漂）。短于此长度的引语不适用「唯一命中 1 个自然段」判据。
@@ -207,17 +236,26 @@ def check(md: Path, book: Path):
     #   （负控实测：无 frontmatter 的裸块文件），首个块会被整块跳过、nq 少 1。
     #   re.M 已在 compile() 里烘进 pattern，此处第二个参数应删除。
     nq = len(BLOCK_RE.findall(s))
-    nkw = len(KW_RE.findall(s))
+    nkw = len(KW_RE.findall(s)) + len(KW_RE_PLAIN.findall(s))
     # ⚠️ 2026-10-02 假红型修正（本工具写死言情格式 `## 本章词汇` + 3–8 块配额，
     #   而非虚构论述格式用 `## 词汇分级` + 10 处 `## 选择性精读`）。全库非虚构书
     #   （nexus / an-expert-witness / down-girl / herlands …）逐个复跑全部报同两条，
     #   证实是**工具的格式假设**而非内容缺陷。按 AGENTS 第 3 条「假红型先修工具」处置：
     #   词表节标题认两种体裁；块数配额按体裁判（言情 3–8 / 非虚构上限 10，见体裁对应格式表）。
     is_nonfic = bool(re.search(r'^## 选择性精读', s, re.M))
+    # ⚠️ 2026-10-04 加第三档：**短篇合集档**（特征节 `## 精读结束总结` + `## 可迁移表达`
+    #   **且**圈码抬头能解析——与 check_struct_indep 的 anthology 档同口径，负控同款：
+    #   认出档位不等于能解析它，解析不出就不认档，避免「少查」）。
+    is_anth = (all(re.search(p, s, re.M) for p in ANTH_MARKS)
+               and bool(CIRC_BLOCK_RE.search(s)))
+    if is_anth:
+        nq = len(CIRC_BLOCK_RE.findall(s))
     nvocab = len(re.findall(r'^## (?:本章词汇|词汇分级)', s, re.M))
     nsum = len(re.findall(r'^## 一句话总结', s, re.M))
     if nq == 0:
-        return [f"{md.name}: 未找到任何 `> **原句 N:**` 引语块"]
+        return [f"{md.name}: 未找到任何 `> **原句 N:**` 引语块"
+                f"（短篇合集圈码 `① \"…\"` 同样计；本文件判为"
+                f"{'短篇合集' if is_anth else '非短篇合集'}档）"]
     if nkw != nq:
         out.append(f"{md.name}: 结构对账失败 —— 关键词行 {nkw} ≠ 引语块 {nq}（内容可能被整段复制）")
     if nvocab != 1:
@@ -235,7 +273,13 @@ def check(md: Path, book: Path):
     ps = paras(t)
     tn = norm(t)
     pn = [norm(x) for x in ps]
-    if not 3 <= nq <= (10 if is_nonfic else 8):
+    if is_anth:
+        lo, hi = ANTH_RANGE
+        kind = "短篇合集格式的 10"
+    else:
+        lo, hi = (3, 10 if is_nonfic else 8)
+        kind = "非虚构论述格式的 3–10" if is_nonfic else "言情精简格式的 3–8"
+    if not lo <= nq <= hi:
         # ⚠️ 2026-10-02（Beach Read ch13 实测，用户裁定「删到 3-8 处」后暴露）：
         #   ch13 全文只有一句话（`I DREAMED ABOUT GUS Everett and woke up needing
         #   a shower.`，提取件 73 B / 1 个自然段）⇒ **物理上凑不出 3 块**。
@@ -246,12 +290,20 @@ def check(md: Path, book: Path):
         #   ps 未定义 ⇒ UnboundLocalError 让整个工具崩掉；负控表现为
         #   「注水到 12 块也不报警」，差点被读成「判据被放松了」。
         #   **「从不报错」的第三种成因：工具自己崩了。**
+        # ⚠️ 2026-10-04 加短篇合集档的第二个豁免（Fold Catastrophes ch01 引言实测）：
+        #   短篇合集体裁表要求每篇 10 处，但合集里的**引言/后记类篇目**篇幅只有正篇的
+        #   零头（ch01 4766 字符 vs 正篇 22k–66k）⇒ 凑 10 处必然违反「一条引语只取一个
+        #   自然段」的硬禁令。判据同样写成结构性的：**源文本归一后短于 ANTH_SHORT_SRC
+        #   字符时，下限不适用**（上限照旧——注水的 12 块仍要报）。
         src_paras = [p for p in ps if len(norm(p)) >= MIN_SRC_PARA]
         if len(src_paras) < 3:
             out.append(f"{md.name}: ⚠️ 提示·源文本仅 {len(src_paras)} 个够长自然段"
                        f"（<{MIN_SRC_PARA} 字符），块数下限不适用（现有 {nq} 块）")
+        elif is_anth and len(tn) < ANTH_SHORT_SRC:
+            out.append(f"{md.name}: ⚠️ 提示·短篇合集短篇目（源文本 {len(tn)} 字符"
+                       f"<{ANTH_SHORT_SRC}），10 处下限不适用（现有 {nq} 块）")
         else:
-            out.append(f"{md.name}: 引语块 {nq} 个，超出{'非虚构论述格式的 3–10' if is_nonfic else '言情精简格式的 3–8'}配额")
+            out.append(f"{md.name}: 引语块 {nq} 个，超出{kind}配额")
 
     # ⚠️ 2026-10-01 修正（本书 ch02 触发）：原实现用 BLOCK_RE 切块、却用 QUOTE_RE 取
     # 「编号 + 引语」，**两者口径不一致**——QUOTE_RE 要求引语被直双引号包裹，而引语行
@@ -261,11 +313,24 @@ def check(md: Path, book: Path):
     # 偏移量恰为 N−M。
     # 危害不止噪音：错位会让**真实的关键词越界被报在别的块名下**，复核时极易被当成假阳放过。
     # 处置：按块整体切分（编号 / 引语 / 关键词三者同源），配对不再跨口径；并剥掉包裹引号。
-    for m in BLOCK_ITER.finditer(s):
+    # ⚠️ 2026-10-04：短篇合集档换用圈码迭代器（抬头不同，**判据与后续处理一字不改**）。
+    if is_anth:
+        _iter = CIRC_ITER
+
+        def _next_head(pos):
+            mm = CIRC_BLOCK_RE.search(s, pos)
+            return mm.start() if mm else len(s)
+    else:
+        _iter = BLOCK_ITER
+
+        def _next_head(pos):
+            i = s.find("\n> **原句 ", pos)
+            return i if i != -1 else len(s)
+
+    for m in _iter.finditer(s):
         num, body = m.group(1), m.group(2)
         # body 到下一个引语块头（或文件末）为止
-        nxt = s.find("\n> **原句 ", m.end())
-        block = s[m.end(): nxt if nxt != -1 else len(s)]
+        block = s[m.end(): _next_head(m.end())]
         q, q_multi = _join_quote_lines(body, block)
         # ⚠️ 2026-10-02 修正（Bird of a Thousand Stories 终验实测，ch18 原句5 假红）：
         # 本库**同一批书**里存在两种写法 —— `> **原句 1:** "…"` 与
@@ -329,7 +394,13 @@ def check(md: Path, book: Path):
         # 整个 `a（甲）、b（乙）` 被当成**一个**关键词，恒查无 ⇒ 310 条假红
         # （the-wrong-sister 全书命中）。顿号不会出现在英文词组内部，可以安全切分；
         # **`,` / `，` 不加**——它们是英文短语自身的成分（`multi-claim, hedging` 是一个词条）。
-        kws = _split_kw(KW_RE.search(block).group(1)) if KW_RE.search(block) else []
+        # ⚠️ 2026-10-04：关键词行取三形态之一（加粗外置 / 加粗内置 / **裸**），
+        # 优先取加粗形态、没有再取裸形态——两处计数与取词必须用**同一套**形态表，
+        # 否则又是一次「计数与取值口径不一致」。
+        _mk = KW_RE.search(block)
+        if _mk is None:
+            _mk = KW_RE_PLAIN.search(block)
+        kws = _split_kw(_mk.group(1)) if _mk else []
         # ⚠️ 2026-10-02（Beach Read 修完 text 侧后仍报 7 条时定位）：上一版只把**引语**归一
         # （qn），关键词却仍拿**原样** k 去比 **原样** q ⇒ md 用直撇号 `'`、正文用弯撇号
         # `’` 时必然查无。两侧必须走**同一个** norm()——判据不变，只统一口径。

@@ -105,7 +105,6 @@ title: 书单
 | [Flashlight](books/novels/flashlight-by-susan-choi/) | Susan Choi |
 | [Flesh](books/novels/flesh-by-david-szalay/) | David Szalay |
 | [Floating Hotel](books/novels/floating-hotel-by-grace-curtis/) | Grace Curtis |
-| [Fold Catastrophes](books/novels/fold-catastrophes-by-peter-watts/) | Peter Watts |
 | [Fulfillment](books/novels/fulfillment-by-lee-cole/) | Lee Cole |
 | [The Garnett Girls](books/novels/the-garnett-girls-by-georgina-moore/) | Georgina Moore |
 | [The German Wife](books/novels/the-german-wife-by-kelly-rimmer/) | Kelly Rimmer |
@@ -477,6 +476,7 @@ title: 书单
 | [Barron Collected Short Fiction](books/short-story-anthologies/barron-collected-short-fiction/) | — |
 | [The Best Short Stories 2026](books/short-story-anthologies/the-best-short-stories-2026-by-o-henry-prize-winners/) | O. Henry Prize Winners |
 | [Dance of the Happy Shades](books/short-story-anthologies/dance-of-the-happy-shades-by-alice-munro/) | Alice Munro |
+| [Fold Catastrophes](books/short-story-anthologies/fold-catastrophes-by-peter-watts/) | Peter Watts |
 | [Ghost Tales of the United Kingdom](books/short-story-anthologies/ghost-tales-of-the-united-kingdom/) | Various |
 | [Out of Body Stories](books/short-story-anthologies/out-of-body-stories-by-chris-vanjonack/) | Chris Vanjonack |
 | [The Language of Knives](books/short-story-anthologies/the-language-of-knives-by-haralambi-markov/) | Haralambi Markov |
