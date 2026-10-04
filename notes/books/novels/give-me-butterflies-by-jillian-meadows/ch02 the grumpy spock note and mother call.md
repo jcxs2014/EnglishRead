@@ -37,13 +37,13 @@ modified: "2026-10-04"
 
 > **原句 3:** "That feels like a dig after I told her I wasn’t a Star Trek fan. I preferred the Kylo Ren comparison."
 
-**中文理解：** 他被那句斯波克气笑了，心里却不甘示弱：既然你说过我不是剧党，那我更中意的是把她比作凯洛·伦。
+**中文理解：** 他被那句斯波克气笑了，心里却不甘示弱：既然你说过我不是剧党，那句凯洛·伦的比喻是她用来比他的，他自己更中意这个比法。
 
 **关键词：** dig，Star Trek，preferred
 
 **为什么这样写：** 一句话里塞进两层：表层是嫌她挖苦人，深层是他自己也在挑更狠的比喻；preferred 用比较级把矛头从她身上转回自己——她给他安了一个剧中角色，他还她一个剧中反派，谁也没占便宜。
 
-**读者视角提示：** 同一个人刚宣布自己不站剧，转头就在心里给她挑星战的反派外号，本章的题眼就在这个自己打自己的落差里。
+**读者视角提示：** 同一个人刚宣布自己不站剧，转头就接住她给的星战反派外号，本章的题眼就在这个自己打自己的落差里。
 
 > **原句 4:** "Millie yelps as she jumps a few inches out of her chair, and her head slams into my nose with a crunch."
 
@@ -57,13 +57,13 @@ modified: "2026-10-04"
 
 > **原句 5:** "Well, shit. It’s the share-with-the-class that is every misbehaving student’s worst nightmare. I can confirm it still sucks at thirty-four."
 
-**中文理解：** 主任问他要不要补充，他脱口接了一句：当众分享是每个坏学生最怕的噩梦，他三十四岁了照样怕。
+**中文理解：** 被点名之后他并没有出声；当众分享是每个坏学生最怕的噩梦——这句是他心里想的（原文无引号），他三十四岁了照样怕。
 
 **关键词：** share-with-the-class，misbehaving，thirty-four
 
 **为什么这样写：** 把童年课堂经验直接当成成年职场的经验来用，一句 share-with-the-class 就把一场正式会议拉回小学教室；thirty-four 把童年的恐惧钉进成年人的身体上，也让这句玩笑有了自嘲的重量。
 
-**读者视角提示：** 他说完才反应过来，等于当众承认自己一直在偷看她——因为她才是那个笑得快憋不住的人。
+**读者视角提示：** 这句话他始终没说出口，等于把「一直在偷看她」留在了自己心里——因为她才是那个笑得快憋不住的人。
 
 > **原句 6:** "She’s glowing all the time, illuminating everything around her, and the blazing light feels like a third-degree sunburn for a man who has been in the dark for too long."
 

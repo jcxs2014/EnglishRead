@@ -21,7 +21,7 @@ modified: "2026-10-04"
 
 **关键词：** haunted，devastating，wrap my head around
 
-**为什么这样写：** 首句用现在完成进行时（I’ve been haunted）把「被缠住」写成一段没有停过的过程，而不是一次性的惊吓；后半句用两个 losing 并列，把一场丧亲拆成两个人各自的损失——他失去的是姐姐，两个孩子失去的是母亲；最后半句的 couldn’t wrap my head around 把失语归到「想不出该说什么」，责任先落在她自己的嘴上。
+**为什么这样写：** 首句用现在完成时（I’ve been haunted）把「被缠住」写成一段没有停过的过程，而不是一次性的惊吓；后半句用两个 losing 并列，把一场丧亲拆成两个人各自的损失——他失去的是姐姐，两个孩子失去的是母亲；最后半句的 couldn’t wrap my head around 把失语归到「想不出该说什么」，责任先落在她自己的嘴上。
 
 **读者视角提示：** 她紧接着交代自己是怎么补救的：my anxiety went into overdrive, making my hands clammy and my heart pound in my chest, so I changed the subject to something silly——补救方式正是这一章后半段要写的那串傻名字。
 

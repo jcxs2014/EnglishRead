@@ -21,7 +21,7 @@ modified: "2026-10-04"
 
 **关键词：** temptation，spy，content，surrounded
 
-**为什么这样写：** 前一句用现在完成时（has been eating at me）把一上午的念头写成一件一直没停的内部动作，后一句用一个 But 把它整个按下去；破折号后面的 so much more content than I was expecting 顺手替他的缺席递了一个台阶——不是他不想过去，是她们已经过得不错。这一整段他一句台词都没有，读者只能跟着一个站在窗后的人往下看。
+**为什么这样写：** 前一句用现在完成进行时（has been eating at me）把一上午的念头写成一件一直没停的内部动作，后一句用一个 But 把它整个按下去；破折号后面的 so much more content than I was expecting 顺手替他的缺席递了一个台阶——不是他不想过去，是她们已经过得不错。这一整段他一句台词都没有，读者只能跟着一个站在窗后的人往下看。
 
 **读者视角提示：** 他数的其实是她们在人群里有多自在：Millie and Avery have their plant free of its container, and they lower it to the hole together.——三个人一起动手的默契，和他在隔壁房间里独自站着，是同一幅画的两边。
 
