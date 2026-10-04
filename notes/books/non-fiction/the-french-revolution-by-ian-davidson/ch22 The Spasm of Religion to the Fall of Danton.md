@@ -83,11 +83,11 @@ modified: "2026-10-04"
 - **表达方式**：把双轨制写成法理——和平用宪政、革命用自卫；作者点明其落款是"那些称这些法律任意或暴虐的人，是愚蠢或堕落的诡辩家"。
 - **为什么这样写**：这是 12/25 报告的核心机关：革命政府的合法性从"被授权"改为"在战斗中"——作者引它展示恐怖的自我法理化如何先于一切具体暴行成型。
 
-> **原句 7:** "To burn a book of argument is to say: 'We do not have enough wit to reply to it.'"
+> **原句 7:** "To burn a book of argument is to say: “We do not have enough wit to reply to it.”"
 
 - **中文理解**：（伏尔泰论《社会契约论》被焚）焚烧一本论证之书，等于说："我们没有足够的才智去回答它。"
 - **句子结构**：不定式主语加系动词定义句；内层引语是焚书的自我供词。
-- **关键词**：`burn a book of argument`、`not enough wit to reply`
+- **关键词**：`burn a book of argument`、`have enough wit to reply`
 - **表达方式**：伏尔泰替论敌卢梭打抱不平的妙句——焚书的动作与无能的自白被画上等号；作者用一整段考证指出德穆兰"Burning is not an answer."的真正出处是伏尔泰而非卢梭（卢梭不写一句话体）。
 - **为什么这样写**：作者引它为"焚烧不是回答"补足典故链：日内瓦焚书（1762）→ 伏尔泰抗议 → 德穆兰的六字回敬——一句 legend 的家谱考订，也暗示罗伯斯庇尔"焚册"提议的分量：它把自己放在了焚书者的位置上。
 

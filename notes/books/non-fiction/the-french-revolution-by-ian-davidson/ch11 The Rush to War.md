@@ -148,7 +148,7 @@ modified: "2026-10-04"
 |---|---|---|
 | acoustics | 音响效果、声学条件 | But the acoustics in Le Manège were terrible. |
 | galleries | （剧场）楼座、旁听席 | At the far ends and at one level higher up there were galleries for the public |
-| youthful | 年轻的、有青春气息的 | Never has there been a more youthful assembly than the Législative |
+| youthful | 年轻的、有青春气息的 | has there been a more youthful assembly than the Législative |
 
 ## 一句话总结
 

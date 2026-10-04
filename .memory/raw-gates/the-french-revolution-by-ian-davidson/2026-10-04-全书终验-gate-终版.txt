@@ -1,0 +1,104 @@
+=== 全书终验 gate.sh（终版）2026-10-04 16:56 UTC ===
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 272/272 引文可核实（100%）；完全干净文件 26/26；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 473
+--- FAIL (0) ---
+--- WARN (34) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 248 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 Introduction.md                           ch01 Introduction.md: 10/10 in ch01 text
+ch02 États Généraux.md                      ch02 États Généraux.md: 10/10 in ch02 text
+ch03 The Fall of Necker.md                     ch03 The Fall of Necker.md: 10/10 in ch03 text
+ch04 The Storming of the Bastille.md           ch04 The Storming of the Bastille.md: 10/10 in ch04 text
+ch05 The Dismantling of Feudalism.md           ch05 The Dismantling of Feudalism.md: 10/10 in ch05 text
+ch06 Declaration of the Rights of Man.md       ch06 Declaration of the Rights of Man.md: 10/10 in ch06 text
+ch07 The King Moves to Paris.md                ch07 The King Moves to Paris.md: 10/10 in ch07 text
+ch08 The Assembly Starts to Govern France.md   ch08 The Assembly Starts to Govern France.md: 10/10 in ch08 text
+ch09 The Revolutionaries Reform the Church.md  ch09 The Revolutionaries Reform the Church.md: 10/10 in ch09 text
+ch10 The Flight of the King.md                 ch10 The Flight of the King.md: 10/10 in ch10 text
+ch11 The Rush to War.md                        ch11 The Rush to War.md: 10/10 in ch11 text
+ch12 The Overthrow of the Monarchy.md          ch12 The Overthrow of the Monarchy.md: 10/10 in ch12 text
+ch13 The Commune insurrectionnelle.md          ch13 The Commune insurrectionnelle.md: 10/10 in ch13 text
+ch14 The Convention.md                         ch14 The Convention.md: 10/10 in ch14 text
+ch15 The War in 1792.md                        ch15 The War in 1792.md: 10/10 in ch15 text
+ch16 The Trial of the King.md                  ch16 The Trial of the King.md: 10/10 in ch16 text
+ch17 Girondins and Montagnards.md              ch17 Girondins and Montagnards.md: 10/10 in ch17 text
+ch18 The Fall of the Girondins.md              ch18 The Fall of the Girondins.md: 9/9 in ch18 text（另有 1 条短引语未校验）
+ch19 The Civil Wars of 1793.md                 ch19 The Civil Wars of 1793.md: 10/10 in ch19 text
+ch20 The Gouvernement révolutionnaire.md      ch20 The Gouvernement révolutionnaire.md: 10/10 in ch20 text
+ch21 The Terreur.md                            ch21 The Terreur.md: 10/10 in ch21 text
+ch22 The Spasm of Religion to the Fall of Danton.md ch22 The Spasm of Religion to the Fall of Danton.md: 10/10 in ch22 text
+ch23 The Fall of Robespierre.md                ch23 The Fall of Robespierre.md: 9/9 in ch23 text（另有 1 条短引语未校验）
+ch24 The Aftermath.md                          ch24 The Aftermath.md: 10/10 in ch24 text
+ch25 Epilogue.md                               ch25 Epilogue.md: 10/10 in ch25 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：25 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（the-french-revolution-by-ian-davidson）===
+  ✅ 逐字 1236 ｜ ⚠️ 跨章 37 ｜ 🔶 拼接 1 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 801
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: ➖ 无引语行（正常，非门禁项）
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 24/24 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（the-french-revolution-by-ian-davidson）===
+  参照集：text/（38 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（the-french-revolution-by-ian-davidson）===
+  带前缀的 `> **原句 N:**` 行：25 个文件共 250 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：25 个 md，问题 0 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
+GATE_EXIT=0

@@ -126,7 +126,7 @@ modified: "2026-10-04"
 | derisively | 嘲弄地、讥笑地 | so they were always referred to, derisively, as Incwoyables |
 | circumvented | 被规避、绕开 | which was badly designed, widely unpopular and largely circumvented |
 | retribution | 报应、清算 | Retribution followed their surrender. |
-| lament | 哀叹（动词，此处 as Soboul laments） | as Albert Soboul laments |
+| lament | 哀叹、悲叹 | as Albert Soboul laments |
 | self-gratification | 自我放纵、自我沉溺 | many of the newly rich threw themselves into extravagant and spectacular self-gratification |
 
 ### ⭐⭐ 进阶

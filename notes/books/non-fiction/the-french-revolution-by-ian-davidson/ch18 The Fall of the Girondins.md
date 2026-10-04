@@ -134,7 +134,7 @@ modified: "2026-10-04"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| antagonism | 敌意、对立 | it had also released the increasingly intense antagonism between the rival factions in the Convention |
+| antagonism | 敌意、对立 | had also released the increasingly intense antagonism between the rival factions in the Convention |
 | upstart | 暴发户、升得太快的人 | The generals despised him as an upstart from the ranks |
 | poisoned chalice | 毒酒（令人避之不及的荣衔） | nobody else wanted the poisoned chalice of the War Ministry |
 | retaliate | 报复、反击 | started to retaliate by going to their local Sections and voting down the war taxes |

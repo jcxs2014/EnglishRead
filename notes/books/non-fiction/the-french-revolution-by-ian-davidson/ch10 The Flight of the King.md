@@ -99,7 +99,7 @@ modified: "2026-10-04"
 - **表达方式**：立法语言只下禁令不给理由——理由在作者随后补的一句：革命者认为间接税累穷人、所以集体议价也会累及谁？他们没有问。
 - **为什么这样写**：作者把这条法律放在瓦雷内与战神广场之间，是要摆出资产阶级革命的自供状：同一个议会废除了封建特权，也废除了工人的结社权（此法生效 76 年，至 1867 年）——解放与禁止出自同一支笔。
 
-> **原句 9:** "It proclaimed 'that the crime of Louis XVI is proved, that this King has abdicated' and that it was necessary to 'convene a new constituent power, so as to proceed in a truly national way to the judgement of the guilty, and above all to the replacement and the organisation of a new executive power'."
+> **原句 9:** "it proclaimed ‘that the crime of Louis XVI is proved, that this King has abdicated’ and that it was necessary to ‘convene a new constituent power, so as to proceed in a truly national way to the judgement of the guilty, and above all to the replacement and the organisation of a new executive power’"
 
 - **中文理解**：请愿书宣告"路易十六的罪行已被证明，这位国王已经退位"，并指出必须"召集一个新的制宪权力，以真正国族的方式审理罪犯，尤其是更换并组建一个新的行政权力"。
 - **句子结构**：proclaimed 带两段内引语，and that it was necessary to 衔接第二段；引语内部是完整的政治纲领。

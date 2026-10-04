@@ -85,9 +85,9 @@ modified: "2026-10-04"
 
 > **原句 7:** "it will be called 'Liberated-Town' [Ville-Affranchie]. It will be destroyed; everywhere the rich lived will be destroyed; there will remain only the houses of the poor, the homes of misguided or proscribed patriots, buildings specially employed for industry and monuments consecrated to humanity and to public education."
 
-- **中文理解**：（公会法令，由科洛·德布瓦与富歇执行）里昂将失去它的名字，改称"解放城"。它将被摧毁：富人居住过的地方一律夷平；只留下穷人的房屋、被误导或遭放逐的爱国者的居所、专用于工业的建筑与奉献给人类和公共教育的纪念物。
+- **中文理解**：（公会法令，由科洛·德布瓦与富歇执行）里昂改称"解放城"。它将被摧毁：富人居住过的地方一律夷平；只留下穷人的房屋、被误导或遭放逐的爱国者的居所、专用于工业的建筑与奉献给人类和公共教育的纪念物。
 - **句子结构**：法令体三段：改名—摧毁—保留；only the houses of the poor 的排他句式给毁灭划定阶级半径。
-- **关键词**：`lose its name`、`Liberated-Town`、`only the houses of the poor`
+- **关键词**：`it will be destroyed`、`Liberated-Town`、`only the houses of the poor`
 - **表达方式**：以城市规划写惩罚——连城市之名都可剥夺；作者随后补出执行落差：工事全平，而富人的 600 座宅邸只毁约 50。
 - **为什么这样写**：引它是为了对照"文本之恐怖"与"执行之折扣"：法令的灭绝语气与有限的物理破坏之间，真正兑现的是对人的刑罚（两个月约 1,900 人处决）——文字恐吓与司法屠杀各司其职。
 

@@ -55,7 +55,7 @@ modified: "2026-10-04"
 
 - **中文理解**：他们错了。路易在 9 月 18 日作出回应：既不批准封建制的废除，也不批准《人权宣言》。
 - **句子结构**：三词短句当锤，随后主句以 by refusing...either...or... 的双否定列出拒绝清单。
-- **关键词**：`They were wrong.`、`refusing to ratify`、`either...or...`
+- **关键词**：`They were wrong.`、`refusing to ratify`、`the overthrow of feudalism`
 - **表达方式**：让"他们错了"独立成句，再让国王的行动给短句背书；either...or 把革命的两大战果并排放在拒签台上。
 - **为什么这样写**：这是妥协逻辑的崩塌点——制宪者以为让一步换合作，国王却把革命最重要的两项立法一并扣押；作者的评断短句先于事实出现，替读者下好结论再验货。
 
@@ -79,7 +79,7 @@ modified: "2026-10-04"
 
 - **中文理解**：（国王答复）其中包含很好的格言，足以指导你们的工作；但那些可以作不同应用、甚至不同解释的原则，无法被充分领会——也不需要领会，直到它们的真实含义由法律确定下来为止，而它们本应作为那些法律的第一块基石。
 - **句子结构**：but 分句的主语 principles 挂两个 which 定语，cannot...and do not need to be 双谓语，until 从句再套 for which 定语——一层套一层，像在拖延。
-- **关键词**：`very good maxims`、`susceptible to different interpretations`、`until the moment when`
+- **关键词**：`very good maxims`、`susceptible to different applications`、`until the moment when`
 - **表达方式**：句法本身在表演拖延：先夸"格言很好"，再把"原则"推进解释学的泥潭，最后以"等法律来定"无限期搁置。
 - **为什么这样写**：作者保留这份答复的冗长原文，因为它的文体就是政治——国王用礼节的糖衣包裹否决；下一句的 "accession"（同意）而非 "acceptance"（接受）的区分，把这种字游戏推到顶点。
 

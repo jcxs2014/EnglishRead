@@ -75,7 +75,7 @@ modified: "2026-10-04"
 - **表达方式**：以自由的名义控诉自由的账单——一句遗言成为两个世纪的政治格言；作者记录她当日受审、当日行刑的效率。
 - **为什么这样写**：作者把它放在吉伦特清洗的延长线上（丈夫罗兰藏匿五个月后自尽）：这句呼喊既是个人墓志，也是全章的题词——恐怖正是"以自由之名"的罪的总目录。
 
-> **原句 6:** "no hypocrisy in the trial. Everybody saw right away that it was just about killing. They disregarded all formalities still customary at this period in the Tribunal révolutionnaire. No documents were produced. There were no lawyers for the defence. Several of the accused were not allowed to speak."
+> **原句 6:** "no hypocrisy in the trial. Everybody saw right away that it was just about killing. They disregarded all formalities still customary at this period in the Tribunal révolutionnaire. No documents were produced. There were no lawyers for the defence. Several of the accused were not allowed to speak’"
 
 - **中文理解**：（米歇莱论吉伦特审判）这场审判没有伪善。人人一眼看穿：这就是要杀人。革命法庭当时仍惯行的全部程序都被弃置。不出示任何文件。没有辩方律师。数名被告不被允许发言。
 - **句子结构**：六个短句连击：判语—本质—程序—文件—律师—发言权；no 的四连重复是清单式控诉。
@@ -138,7 +138,7 @@ modified: "2026-10-04"
 | prop up | 撑住、扶住 | its main rationale seems to have been to prop up the authority of Robespierre and his gouvernement révolutionnaire |
 | commandeering | 强征、征用 | to ensure adequate food supplies by physically commandeering what was required |
 | offshoots | 派生机构、分支 | The comités révolutionnaires were offshoots of the Parisian Sections |
-| freerein | 全权、放任（give a free rein） | mostly gave local commanders or envoyés en mission a free rein in the civil war |
+| free rein | 全权、放任 | mostly gave local commanders or envoyés en mission a free rein in the civil war |
 | hustled | 被推搡赶下、仓促逐出 | was charged with moderantisme and hustled out of office |
 | whittle away | 逐渐削减 | progressively got the rules of the court stripped down so as to whittle away all possibilities of defence |
 | furtive | 鬼祟的、偷偷摸摸的 | of noisy protests and furtive political conspiracies |

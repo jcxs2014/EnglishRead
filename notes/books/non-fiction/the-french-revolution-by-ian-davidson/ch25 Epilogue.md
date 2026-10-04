@@ -87,7 +87,7 @@ modified: "2026-10-04"
 
 - **中文理解**：（第五共和宪法第 1 条）法兰西为不可分割的、世俗的、民主的与社会的共和国。它保证全体公民在法律面前一律平等，不因出身、种族或宗教而有别。它尊重一切信仰。
 - **句子结构**：四个定语的共和国定义句 + 两句功能陈述；[laïque] 的方括号是作者的补注。
-- **关键词**：`indivisible, secular, democratic and social`、`without distinction of origin, race or religion`、`It respects every belief`
+- **关键词**：`indivisible, secular`、`without distinction of origin, race or religion`、`It respects every belief`
 - **表达方式**：宪法文本的自证：作者引它为"政教百年停战到和平"收尾——世俗主义（laïcité）从革命的教会战争长成宪法第一条。
 - **为什么这样写**：这句是"教会线"的终点证据：1801 年协议是停战、1905 年分离法是和平、第五共和宪法是和平的成文化——作者随即点出其当代考验（公共教育中的世俗主义与伊斯兰文化的张力），让历史线接上现实。
 
