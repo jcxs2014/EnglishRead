@@ -21,7 +21,7 @@ modified: "2026-10-04"
 
 **关键词：** itching，craving，miserable
 
-**为什么这样写：** 并排的 -ing 动词把同一种渴望压成一口气，再用 for the last hour 把渴望换算成一小时的干等；miserable 是整段里唯一落在自己身上的形容词，抱怨的落点因此不是她的面试，而是他什么都做不了的等待。
+**为什么这样写：** 并排的 -ing 动词把同一种渴望压成一口气，再用 for the last hour 把渴望换算成一小时的干等；miserable 这个形容词落在他自己身上，抱怨的落点因此不是她的面试，而是他什么都做不了的等待。
 
 **读者视角提示：** 这一段里的担心全部由 I knew she must’ve been experiencing 回指，他不在场、只能猜，这份无能为力正是后面自责的起点。
 
@@ -43,7 +43,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** 三个短句只用 yet 一次转向：前面是表白，后面是认罪，两者逻辑上冲突，所以只能用 yet 这种逆接连词硬接；他没有解释、也没有替自己找补，一句自我厌恶就把话说到底。
 
-**读者视角提示：** 这是全章的题眼——他此刻还以为自己是唯一责任人，而读者早就知道他只是接手了一个别人挖好的坑。
+**读者视角提示：** 这是全章的题眼——他此刻还以为错全在自己一个人身上，而读者早就知道他只是接手了一个别人挖好的坑。
 
 > **原句 4:** "This must be how you got a second interview. You fucked your way into it?"
 
@@ -61,7 +61,7 @@ modified: "2026-10-04"
 
 **关键词：** Do not speak，lethal
 
-**为什么这样写：** 她不骂回去也不示弱，而是下一道禁令：Do not speak to me 是禁止对方开口的祈使句，凯尔从前接到的从来不是禁令；lethal 用比较级把声音本身写成武器，而唯一听见这个比较的人只有芬恩。
+**为什么这样写：** 她不骂回去也不示弱，而是下一道禁令：Do not speak to me 是禁止对方开口的祈使句，凯尔从前接到的从来不是禁令；lethal 用比较级把声音本身写成武器，而这个比较是站在她对面的人做的。
 
 **读者视角提示：** 这一刻芬恩的手还搭在她腰后准备替她出头，动作被抢跑之后他只剩下改站在旁边看着。
 
@@ -79,7 +79,7 @@ modified: "2026-10-04"
 
 **中文理解：** 她在楼梯最下面一级站住、转身对凯尔说：我跟你在一起的每一天我都后悔，往后连一分钟都不肯再浪费在想你上面。
 
-**关键词：** regret，refuse，any more
+**关键词：** regret，refuse，one more
 
 **为什么这样写：** 她把整段关系用 regret every day 一次性判完，不给细节；后半句 refuse to waste even one more 用哪怕多一秒这种极小的单位说话，把拒绝写成一道计量题，而不是情绪宣泄——比哭骂更难反驳。
 
@@ -120,11 +120,11 @@ modified: "2026-10-04"
 |---|---|---|
 | blank stare | 空白的一瞥 | Millie jerks to a stop on the landing, her blank stare targeted on Kyle ascending the stairs. |
 | deep breath | 深呼吸 | I blow out a deep breath as I lean back on the bench around the corner from Millie’s interview, my leg bouncing with tension. |
+| door shuts | 关门（此处指门合上的那一声） | A door shuts down the hallway, and heels click toward me. |
+| landing | 楼梯平台 | As he reaches the landing, his gaze leers over her like she’s a piece of gum he’s stepped on. |
 | lunch delivery | 午餐外卖 | I sit in her driveway and order a lunch delivery, hoping she’ll be awake long enough to answer the door for it. |
 | museum entrance | 博物馆入口 | With that, she grabs my hand and walks toward the museum entrance. |
-| second interview | 二次面试 | “This must be how you got a second interview. |
 | sinister laugh | 阴森的笑 | A sinister laugh creeps from him, the sound loud in the staircase. |
-| windshield | 挡风玻璃 | “I can’t do it right now,” she mumbles, eyes on the parked cars out the windshield. |
 
 ## 一句话总结
 

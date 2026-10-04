@@ -7,7 +7,7 @@ modified: "2026-10-04"
 
 ## 本章导航
 
-- **一句话概括**：夏令营第一天，芬恩隔着办公室窗户看米莉带艾弗里与埃洛伊丝在花圃里分苗、把泥从埃洛伊丝脸上擦掉；中午在主天文厅，两个孩子扑上来喊 Uncle Finn，他向米莉说明这两个是他姐姐的女儿、姐姐几个月前去世，米莉用一串傻乎乎的姑姨名字把话题换走，他憋不住当众大笑、震得全场安静；夜里他给艾弗里梳歪掉的法国辫、哄两个孩子睡下，在她们睡着之后交代姐姐与丧亲的往事，收拾完厨房坐到后院点起火炉，被邻居家狗的一声嗥叫引出「悲伤底下还压着一份被自己长期忽略的孤独」。
+- **一句话概括**：夏令营第一天，芬恩隔着办公室窗户看米莉带艾弗里与埃洛伊丝在花圃里分苗、把泥从埃洛伊丝脸上擦掉；随后在主天文厅，两个孩子扑上来喊 Uncle Finn，他向米莉说明这两个是他姐姐的女儿、姐姐几个月前去世，米莉转而说起将来给自己姐妹的孩子取名字、一口气报了好几个傻名字把话题挪开，他憋不住当众大笑、震得全场安静；夜里他给艾弗里梳歪掉的法国辫、哄两个孩子睡下，在她们睡着之后交代姐姐与丧亲的往事，收拾完厨房坐到后院点起火炉，被邻居家狗的一声嗥叫引出「悲伤底下还压着一份被自己长期忽略的孤独」。
 - **情感弧线位置**：他把「好叔叔」当成人设执行的那一章——笑是外人逗出来的，丧亲却只能在下半夜一个人承担；两件事在同一章正面相撞。
 - **Tropes 兑现/反转**：启用「独自拉扯两个孩子的孤僻男人」这一老桥段，但把笑点的来源换掉——那声大笑不是他自己给的，是被米莉一句傻名字逗出来的；反过来，米莉安慰性的触碰落在他身上却不是安慰，而是心跳漏拍，把「肢体接触等于安慰」的惯例反了过来。
 - **人物弧线**：芬恩从「我尽量把每件事都做对」到被一句话撬开、当众失态，再到深夜独自认出那份压在悲伤底下的孤独；艾弗里与埃洛伊丝是刚失去母亲的五岁姐妹，一个轻快得像没事人，一个心软得让他看见她笑就跟着笑。
@@ -61,7 +61,7 @@ modified: "2026-10-04"
 
 **关键词：** stifle，bark out，the whole room goes quiet
 
-**为什么这样写：** try and fail 是全章最短的一次坦白——压了，没压住；laugh that barks out 把笑写成从嘴里冲出来的东西，而不是慢慢放出来的；后半句用一个 and 把笑与静绑在同一行，他出声的那一刻，全场同时停住。
+**为什么这样写：** try and fail 是一句极短的坦白——压了，没压住；laugh that barks out 把笑写成从嘴里冲出来的东西，而不是慢慢放出来的；后半句用一个 and 把笑与静绑在同一行，他出声的那一刻，全场同时停住。
 
 **读者视角提示：** 紧跟着的下一句才交代全场为什么静：Probably everyone in the entire museum is frozen, mouths wide-open and hands midair——他是在笑过之后的下一秒，才意识到自己做了什么。
 
@@ -75,12 +75,11 @@ modified: "2026-10-04"
 
 **读者视角提示：** 这一整段碎片只在他一个人身上，孩子那边用的是另一套词：Ave and El are tired, and they miss their mama the most in the evenings.——同一场丧亲被拆成两份，夜里想妈妈的那份留给了两个孩子，拼不回去的那份留给了他。
 
-> **原句 7:** "And for the first time, I realize that buried under the feelings of grief and loss might be a staggering loneliness that I’ve spent way too long ignoring. And then the sun finally rose over the meadow and I felt completely whole again."
+> **原句 7:** "And for the first time, I realize that buried under the feelings of grief and loss might be a staggering loneliness that I’ve spent way too long ignoring."
 
 **中文理解：** 就在这一刻他意识到：在悲伤与失落底下，也许还压着一份压倒性的孤独，而这份孤独他已经忽略了太久。
 
 **关键词：** buried under，grief and loss，a staggering loneliness
-The fog rolled in over the moor and swallowed the whole village before dawn.
 
 **为什么这样写：** 句子开头把这次醒悟框成本人当下的一次发现；buried under 把孤独写成埋在悲伤底下的一层土，结尾的 I’ve spent way too long ignoring 用现在完成时把责任推回他自己身上——不是别人夺走的，是他自己一直没有去看。
 

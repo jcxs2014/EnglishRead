@@ -87,6 +87,42 @@ modified: "2026-10-04"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| earth-shattering | 地动山摇的、颠覆性的 | What happened last night between Millie and me was earth-shattering. |
+| embarrassment | 尴尬、难为情 | Her cheeks pinken with embarrassment, and I laugh as I kiss her stomach. |
+| caretaking | 照料、照看 | It felt good for me to get a bit of distance and spend some time out of caretaking mode. |
+| distraction | 转移注意力的事 | The art of distraction. |
+| irritability | 易怒、烦躁 | As soon as the doors slid open, irritability prickled up my spine. |
+| escalating | 逐步升级的、不断加剧的 | I felt escalating into a headache. |
+| apprentice | 学徒、见习者 | “I’ve been your apprentice long enough,” I say with a wink. |
+| appreciating | 欣赏、看得高兴 | “Thanks,” I say, appreciating the sight of her enjoying the meal I made for her. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| tentacles | 触手 | Millie’s soft, even breaths puff against my chest, and she has an arm and a leg thrown over me like she’s an octopus wrapping me in her tentacles so I never get away. |
+| desperate | 急不可耐的、迫不及待的 | A deep groan rumbles through my chest as I tilt my head, desperate to consume more of her. |
+| obsessed | 着迷、痴迷 | If I wasn’t already obsessed with this woman, that right there would’ve sealed the deal. |
+| appetite | 胃口 | “She must’ve worked up an appetite,” she murmurs with a sassy wink. |
+| snickers | 窃笑、暗笑 | I choke on my breath, and Gabriella snickers as Millie tries to hold back a laugh behind her hand. |
+| splutters | 呛得说不出话、失口 | Millie splutters, bending at the waist in a coughing fit. |
+| prickled | 刺痛、发麻 | As soon as the doors slid open, irritability prickled up my spine. |
+| navigated | 带着人穿行、领路 | She simply patted my hand and told me to follow her as she navigated through the aisles of bright colors and patterns without losing me or the actual children. |
+| scalloped | 切成扇贝形花边的 | In this lesson, he’s showing us how to make steaks, scalloped potatoes, and steamed broccoli. |
+| swimming | （衣服）大得把人整个罩住 | She’s swimming in them, the fabric of the sweatpants bunched at her ankles and rolled at the waist, but she looks perfect. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| imaginary fairies | 想象中的小精灵 | Eloise and Avery follow her example, putting a piece of broccoli in front of their noses to examine the imaginary fairies. |
+| magnet drawn | 像磁石被相反极吸过去 | My body automatically follows, like a magnet drawn to its opposing force. |
+| new pair | 新的一副（眼镜） | Like I’m seeing things clearly through a new pair of glasses after years of blurry vision. |
+
 ## 一句话总结
 
 最激烈的夜之后，他用一整天琐碎的家务证明他愿意继续。

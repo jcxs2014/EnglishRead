@@ -31,7 +31,7 @@ modified: "2026-10-04"
 
 **关键词：** excruciating，bikini，touch
 
-**为什么这样写：** 把「比基尼」重复两遍，第二次前面换成 not being able to touch，句子的重心就从看见挪到不许碰——难受的是那道禁令，不是那件衣服。The only thing more … than 的比较级被用在一个毫不该比较的事情上，庄重语气配上轻薄内容，反差就是他的笑话。
+**为什么这样写：** 把「比基尼」重复两遍，第二次前面换成 not being able to touch，句子的重心就从看见挪到不许碰——难受的是那道禁令，不是那件衣服。The only thing more 这个句型把比较级用在一个毫不该比较的事情上，庄重语气配上轻薄内容，反差就是他的笑话。
 
 **读者视角提示：** 同一段里他还写了 I want to lick every inch of exposed skin. And every hidden one too.——暴露的和没暴露的都要，一句把贪心挑明。
 
@@ -81,9 +81,9 @@ modified: "2026-10-04"
 
 **关键词：** middle school，bathroom mirror，believed，conversation
 
-**为什么这样写：** 一整段是一句没停过的话，中间只插了一个 I say 的叙述标签，节奏像他真的还在讲这个笑话。真的 absurd 之处在于他 did exactly that——整夜跟自己对话；而整件事的收尾在本段之外：他后来发现她是从淋浴间录的音，第二天放给朋友听。
+**为什么这样写：** 一整段是一句没停过的话，中间只插了一个 I say 的叙述标签，节奏像他真的还在讲这个笑话；荒唐之处在于他照做了，于是 I believed her and stayed up late having an entire conversation with myself 把整夜的自言自语坐实。故事的收尾在本段之外——她一直在淋浴间录着音，第二天放给朋友听。
 
-**读者视角提示：** 这段把克拉拉从「一个已经不在的人」变回「会整蛊弟弟的姐姐」；厨房里三个人笑得越响，他心里关于她的那层雾就越薄一点。
+**读者视角提示：** 这段把克拉拉从「一个已经不在的人」变回「会整蛊弟弟的姐姐」；厨房里的 bright laughter 越响，他心里关于她的那层雾就越薄一点。
 
 ## 本章词汇
 

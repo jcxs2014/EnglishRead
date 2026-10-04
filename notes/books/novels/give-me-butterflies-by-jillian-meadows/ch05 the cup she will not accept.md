@@ -37,9 +37,9 @@ modified: "2026-10-04"
 
 > **原句 3:** "Dr. Black Hole is in charge of whether or not you get a promotion?"
 
-**关键词：** in charge of，promotion
-
 **中文理解：** 莉娜放下餐盒正对着她，问那个被私下叫作「Dr. Black Hole」的人，是不是握着她能不能升职的那根缰绳。
+
+**关键词：** in charge of，promotion
 
 **为什么这样写：** 只留莉娜的一句质问，不接米莉的反应；读者由此确认她私下已经给芬恩起好了外号——能被起外号，说明她对这个人早就反复观察过。
 

@@ -19,7 +19,7 @@ modified: "2026-10-04"
 
 **中文理解：** 克拉拉走后，他花了很久画这些星，几乎每晚都画。
 
-**关键词：** painted，Clara，Every night
+**关键词：** painting，Clara，Every night
 
 **为什么这样写：** 用两个时间尺度叠在一起——"a long time"是跨度，"Every night"是密度；一个副词 `pretty much` 把陈述的硬度卸掉，让这份坚持听起来像他自己也没料到的习惯，而不是刻意为之的仪式。
 

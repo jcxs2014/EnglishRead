@@ -87,6 +87,46 @@ modified: "2026-10-04"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| disheveled | 蓬乱的、凌乱的 | Finn’s hair is completely disheveled from my fingers, his eyes like twin flames, sparking and flaring as they take in every inch of me. |
+| light-headed | 头晕目眩的 | This version of him makes me light-headed. |
+| buttoned-up | 扣子扣到最上一颗的、拘谨刻板的 | Everyone else sees buttoned-up, professional, stoic Finn. |
+| anticipation | 期待、翘首以待的心情 | I pause my movements as he gets closer, anticipation flooding my veins. |
+| intoxicating | 令人沉醉的 | The sweeping movements are intoxicating, and pleasure blooms through me, reaching every corner of my body. |
+| defenseless | 无防备的、门户大开的 | His are defenseless, open and raw. |
+| inevitable | 不可避免的、必然的 | This feels permanent and inevitable, like we’ve been hurtling toward each other all along and are finally about to reach the point of impact. |
+| shuddering | 颤抖、战栗 | Our gazes hold, and I memorize every detail of him shuddering with satisfaction as he pushes the tip of his cock inside me. |
+| astonishing | 惊人的 | It’s astonishing how quickly someone could transform into such a fundamental part of my life. |
+| fundamental | 根本的、基础性的 | It’s astonishing how quickly someone could transform into such a fundamental part of my life. |
+| irreparable | 无法修复的、不可弥补的 | An electric current zaps through my body from our joined palms, doing irreparable damage to my heart. |
+| intertwine | 交缠、缠绕在一起 | When we climb back into bed, we intertwine our arms and legs between soft kisses. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| junction | 交界处、连接处 | “Look at you,” he says, shaking his head as his eyes dip to the junction of my thighs. |
+| drenched | 湿透的、浸透的 | I’m drenched already, my arousal coating my fingers instantly as I slide them down to my opening and slip two fingers inside, moaning at the pressure. |
+| tingling | 刺麻的、发麻的 | I bring my fingers back up to touch my clit, and tingling pleasure shoots down my thighs. |
+| intimate | 亲密的、极私密的 | Having his eyes on me while I touch myself is intimate as hell, but I’m not scared at all. |
+| arrogant | 傲慢的、盛气凌人的 | When I pry my eyes open, Finn’s watching me, one corner of his lips tipped up in an arrogant smirk. |
+| smugness | 自鸣得意、洋洋自得 | I want to wipe that smugness right off his face. |
+| feathery | 羽毛般的、轻柔的 | I slide my lips up the length of him in a feathery movement, tempting him to lose composure. |
+| composure | 镇定、克制 | I slide my lips up the length of him in a feathery movement, tempting him to lose composure. |
+| striving | 极力追求、刻意谋求 | That edge of control I was striving for is right there. |
+| treasure | 珍宝、珍视之物 | He kisses my lips and throat and breasts like I’m the treasure he’s been scouring the earth for. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| burning sensation | 灼烧感、烧灼般的痛感 | A burning sensation ripples through my chest as my lungs constrict, and tears sting the edges of my eyes at this feeling of rightness. |
+| electric current | 电流 | An electric current zaps through my body from our joined palms, doing irreparable damage to my heart. |
+| favorite dessert | 最爱的那道甜点 | And how he looks at me like I’m his favorite dessert and he can’t wait for the first bite. |
+
 ## 一句话总结
 
 他把最后一层克制拆掉，她把主导权接过来，两个人在同一个房间里第一次以对等的样子出现。

@@ -7,8 +7,8 @@ modified: "2026-10-04"
 
 ## 本章导航
 
-- **一句话概括**：米莉在办公室挂好一批新蛹等竞争对手推门，来的是她的前任凯尔；她当场焦虑发作、逃回家装病，芬恩送到门口的却是他照着她父亲在电话里一步步教他做好的鸡汤，末尾莉娜带着艾米尔和米卡闯进来，米莉当着三个人的面宣布不退出。
-- **在场人物**：前半段现场只有米莉与凯尔；中段是视频通话里的父母；末尾莉娜、艾米尔、米卡赶到；芬恩全章未露面，只在门口留了一袋汤。
+- **一句话概括**：米莉在办公室挂好一批新蛹等竞争对手推门，来的是她的前任凯尔；她当场焦虑发作、逃回家装病，芬恩送到门口的却是他照着她父亲在电话里一步步教他做好的鸡汤，末尾莉娜带着艾米尔和迈卡闯进来，米莉当着三个人的面宣布不退出。
+- **在场人物**：前半段现场只有米莉与凯尔；中段是视频通话里的父母；末尾莉娜、艾米尔、迈卡赶到；芬恩全章未露面，只在门口留了一袋汤。
 - **情感弧线位置**：全书最低点与反弹的交界——前一段刚拿到最确定的关系，本章立刻证明她真正怕的是旧伤复发，而不是失去新人。
 - **Tropes 兑现/反转**：兑现前任卷回主场，但把复仇结构整个拆掉：凯尔连她的工位都还没坐热就走了，她要打的仗只剩自己那份勇气。
 - **人物弧线**：米莉从靠一张旧便签压住呼吸，到当着朋友的面说我不退出，一整章的退缩只为了让这一句说得出口。
@@ -87,6 +87,46 @@ modified: "2026-10-04"
 **读者视角提示：** 三个朋友在场、她把这句话对着他们说出来，等于当众把退缩这条路自己焊死；全章的松弛与这句的强硬形成落差。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| chrysalises | 蛹（复数形式） | Twenty-three new Blue Morpho chrysalises adorn the rack that will hang in our containment room until the butterflies emerge in about six days. |
+| containment | 隔离饲养区 | Twenty-three new Blue Morpho chrysalises adorn the rack that will hang in our containment room until the butterflies emerge in about six days. |
+| constricts | 收紧、箍住 | A fist squeezes through my ribs and constricts my lungs until my vision darkens from a lack of oxygen. |
+| arrogantly | 趾高气扬地、傲慢地 | But that’s Kyle’s arrogantly lifted eyebrow and smarmy grin. |
+| suffocating | 令人窒息的 | I’m over here suffocating as an anxiety attack clouds the edges of my vision. |
+| handwriting | 笔迹、手写体 | I lower my eyes to my desk and find the green Post-it note that still has Finn’s handwriting on it from the coffee he left me weeks ago. |
+| entomologist | 昆虫学家 | As far as I know, Kyle has a job as an entomologist with an environmental biology company. |
+| manipulations | 操纵手段、把戏 | Well, I spent years falling for his manipulations. |
+| recuperate | 休养、恢复 | “I just needed today to recuperate. |
+| permission | 允许、许可 | As soon as I lift the lid of the cooler, the herby aroma of Dad’s chicken-and-rice soup fills the air, and more tears fall without permission. |
+| ridiculous | 荒唐的、可笑的 | “Completely ridiculous,” Lena shouts, throwing her hands in the air. |
+| understanding | 理解与体谅 | Micah scratches his cheek and nods in understanding. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| applicant | 申请者、应聘者 | The other applicant should be here any minute, and I’m not quite sure how to prepare myself for it. |
+| outreach | 外展项目、上门服务 | Micah is at a library outreach program all day, so it’s just me, waiting for fate to bring my competition down the hall. |
+| menacing | 骇人的、带着威胁的 | The deep sound is rather menacing, but I’m sure it’s just a trick of the acoustics. |
+| saunters | 踱着走进去、闲步 | He saunters to the empty desk and drops into the seat, kicking his heels up on the surface and crossing his arms over his chest. |
+| rattling | 震得咯咯响、砰砰作响 | The strength of its beat is rattling my skull. |
+| strolling | 溜达着、大摇大摆地走 | My desk rattles as he knocks his knuckles on the hard surface before strolling out the door. |
+| treachery | 背叛、诈欺 | Now that I know it was Kyle he was talking about, the words feel like treachery. |
+| omission | 隐瞒、漏说 | He bought me soup because he thinks I’m sick, and I’m lying about it by omission. |
+| battling | 交战、缠斗 | They might get in the car to drive down here if they know the raging emotions battling inside me right now. |
+| prickling | 针扎般发麻 | Chills creep over my body, prickling the hairs on the back of my neck. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| acoustics | 声学效应、传声效果 | The deep sound is rather menacing, but I’m sure it’s just a trick of the acoustics. |
+| disservice | 帮倒忙、不帮反忙 | But my spotty vision does me a disservice. |
+| dream job | 梦寐以求的工作 | Actually, he knew this was my dream job. |
 
 ## 一句话总结
 

@@ -23,7 +23,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** 两个分句都是否定式：先是移不开眼，再是什么都留不住他的注意；把它们并排放，就把"她们占据了全部带宽"这件事说了两遍，第二遍换成正面的说法收尾。更要紧的是 them 这个复数不只指两个孩子——最难忽略的那位正蹲在料理台边。
 
-**读者视角提示：** 全章的第一句就把观众的视线钉在他眼睛上，接下来所有动作都从他"看"的位置出发；读者会比米莉早一步知道这份专注的性质。
+**读者视角提示：** 开篇那句就把观众的视线钉在他眼睛上，接下来所有动作都从他"看"的位置出发；读者会比米莉早一步知道这份专注的性质。
 
 > **原句 2:** "The sound of her laugh, her teasing, her magnetic energy, the tilt of her lips when she’s feeling sassy, her lemony scent, and the feeling of her lips on my neck from yesterday."
 
@@ -41,7 +41,7 @@ modified: "2026-10-04"
 
 **关键词：** wish，house，every day
 
-**为什么这样写：** 一句愿望，用虚拟语气把不可能的事说得像日常安排；every day 里的每一天正好顶到这栋房子的日常本身——她已经能在客厅、在餐桌边出现，只差没住下来。句子短到没有铺垫，前面那份上瘾清单攒起来的势，全压在这一句的停顿上。
+**为什么这样写：** 一句愿望，用虚拟语气把不可能的事说得像日常安排；every day 里的每一天，正好顶在这栋房子的日常本身——她已经能在客厅、在餐桌边出现，只差没住下来。句子短到没有铺垫，前面那份上瘾清单攒起来的势，全压在这一句的停顿上。
 
 **读者视角提示：** 这句话紧跟着被写成"这个念头撞进胸口、让人喘不上气"，生理反应比内容更有说服力；作者不解释他为什么难受，读者自己会明白。
 
@@ -51,7 +51,7 @@ modified: "2026-10-04"
 
 **关键词：** broken up，sign on，direction
 
-**为什么这样写：** 三个句子交代三件事：时间点、进度、分手原因，句式全是白描，唯独 but 之后那句把矛盾从"方向不同"落到具体条件上——不是性格不合，是不肯接受家里有两个孩子。反过来看，"这栋房子是他分手后才买的"这句话顺带说明：他早就把房子当成一家人的地方在置办。
+**为什么这样写：** 三个句子交代三件事：时间点、进度、分手原因，句式全是白描，唯独 but 之后那句把矛盾从"方向不同"落到具体条件上——不是性格不合，是不肯接受家里有两个孩子。反过来看，房子是在分手之后才买的；也就是说他买下它时，心里装的已经是三个人的日子。
 
 **读者视角提示：** 米莉听到"两个小女孩"时并不意外，说明这套关系她早就清楚；她真正在意的另有其事，所以紧接着就换了话题。
 
@@ -63,7 +63,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** yet 把"折磨"和"移不开"拧成一个悖论：难受，却不撤；一个矛盾句把克制与失控写成同一样东西。away 在这里不是方向而是动作失败的结果——不是不想走，是走不掉。
 
-**读者视角提示：** 她就在他手能够到的距离内，而且毫无察觉；这份"她在、我不被允许"的落差，正是下一步越界的理由。
+**读者视角提示：** 她就在他伸手就能够到的距离内，而且毫无察觉；这份"她全不知情、他只能自己克制"的落差，正是下一步越界的理由。
 
 > **原句 6:** "Holding her gaze, I pull her cookie-dough-covered thumb to my mouth and wrap my lips around it. Her eyes flare and her jaw falls open. I slide my tongue down her finger, catching the sweet dough and letting it melt in my mouth."
 
@@ -73,7 +73,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** 三句按"动作—她的反应—他的动作"排列，视角始终贴着他，于是这一连串越界全部由他一个人完成，她只剩生理反应被记录。甜味是真的：面糊在他嘴里化开，所以这不是一个比喻，是真的尝到了味道。
 
-**读者视角提示：** 全章的克制到此清零，而且是被一个极日常的动作清零的——越界不是靠冲动完成的，是靠她先毫无防备地伸了手指。
+**读者视角提示：** 全章的克制到此清零，而且是被一个极日常的动作清零的——越界不是靠冲动完成的，是靠她当着他的面把手指含进嘴里，一点没设防。
 
 > **原句 7:** "My focus narrows to her lips, and I drift closer, desperate to taste her—"
 
@@ -105,7 +105,6 @@ modified: "2026-10-04"
 | addicted | 上瘾的 | I think I’m addicted to it. |
 | approval | 认可、赞同 | The girls nod and make a few sounds of approval before Millie turns with a serious expression, acting as the ambassador for their trio. |
 | occupied | 被占用的，此处指让手有事可做 | I finish wiping down the counter and rinse the rag in the sink, trying to keep my hands occupied with cleanup. |
-| Blessing | 好事、因祸得福，此处取成语的下半句 | “Blessing in disguise. |
 | disguise | 伪装、掩饰 | “Blessing in disguise. |
 | fingertip | 指尖 | I’m completely riveted as her pink lips wrap around her fingertip before she glides it back out. |
 | oblivious | 浑然不觉的 | “It’s so good,” she says, completely oblivious to what she’s putting me through. |

@@ -10,7 +10,7 @@ modified: "2026-10-04"
 - **一句话概括**：周六上午，米莉在芬恩家客房的床上被门响惊醒，才发现自己刚才是在他的床上做那种事；她把脸埋进被子想蒙混过去，结果被子里的鼠尾草气味把她自己熏得更清醒，只能一边在脑子里骂自己越界一边爬起来收拾东西下楼；芬恩在厨房看出她脸色不对，两个女孩道出"我们那天晚上都不敢出声"，她接过那杯水几乎是逃出了门；到周一早上，办公桌上摆着玛吉家的面包袋、一杯咖啡，和一张印着星系的浅灰色便条，上面写着周四的安排。
 - **情感弧线位置**：从身体先于理智坦白，到用一整段内心独白给自己定罪，再到结尾一句"那我们之后还能做朋友吧"把责任推回给一个还没回答的人——她一个人走完了承认、悔恨、辩解、索要保证这四步，却始终没有把"喜欢"两个字说出口。
 - **Tropes 兑现/反转**：兑现「清晨逃跑」这个套路，但把它反转成双向：她逃了，可他也在逃——周日一整天他没再发消息，直到周一才用一张便条绕开所有正面冲突，把"约她"这件事写成了三个可以全身而退的出口。
-- **人物弧线**：米莉从"能靠意志力否认"走到"连他的气味都骗不了我"，再到自己给自己判刑；芬恩从当面追问到隔空留一张纸，两人第一次在没有第三个人在场的情况下把心事说完。
+- **人物弧线**：米莉从"能靠意志力否认"走到"连他的气味都骗不了我"，再到自己给自己判刑；芬恩从当面追问到隔空留一张纸，两人在没有第三个人在场的情况下把心事说完。
 - **叙事手法**：第一人称（米莉视角）；两段式结构，一个 `* * *` 分隔——前一段是那间卧室与楼梯，后一段是周一办公桌；便条以信件格式整段引出，与她的第一人称散文形成体裁落差；全章大量使用短句与单句成段，节奏比前面两章碎得多。
 
 ## 精读
@@ -21,7 +21,7 @@ modified: "2026-10-04"
 
 **关键词：** familiar ache，writhe，soft sheets
 
-**为什么这样写：** 句子在没有任何人称代词的情况下直接进入身体感受，I 被省略到读者看不见——意识还埋在梦里，人称自然消失；familiar（熟悉的）是最狠的一个词：它说明这不是第一次，说明她对此的身体记忆已经形成，它把这一下从"一次春梦"改写成"一个老毛病"；writhe 与 soft sheets 构成触感对撞，一个是不安分的动词，一个是塌陷的形容词，床上铺得越舒服，身体挣得越厉害。
+**为什么这样写：** 句子在没有任何人称代词的情况下直接进入身体感受，I 被省略到读者看不见——意识还埋在梦里，人称自然消失；familiar（熟悉的）是最狠的一个词：它说明这不是头一回，说明她对此的身体记忆早已形成，它把这一下从"一次春梦"改写成"一个老毛病"；writhe 与 soft sheets 构成触感对撞，一个是不安分的动词，一个是塌陷的形容词，床上铺得越舒服，身体挣得越厉害。
 
 **读者视角提示：** 这个 familiar 要到后文她骂自己"我又幻想他了"时才被兑现——前面是身体的诚实，后面是意识的狡辩。
 
@@ -43,7 +43,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** 三个动作全是不及物或弱及物的：leaves（丢下）、approaches（走近）、brushing（擦过），没有一句说他抓住了她或质问她，他在尽量把这一下做成小事；brushing a hand over 两个介词叠用，让手掌的移动是"扫过"而不是"贴住"，可就是这个轻描淡写的一下把她当场戳穿；台词只有三个词加一个全红的判断，主语 you 让指责绕了一圈又回到她身上，比直接问"你做了什么梦"更难回答。
 
-**读者视角提示：** 这是全章他唯一一次直接指出她的异常，而他选择的方式和前一晚一样——先用一个身体接触代替一句质问。
+**读者视角提示：** 这是全章他唯一一次把"她不对劲"说成可观察的体征（红），而不是一句质问；他给出来的依旧是一个身体接触而不是一个问题。
 
 > **原句 4:** "Finn’s brows are tight, his lips parted like he is trying to find the right words."
 
@@ -73,7 +73,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** 主语是三个并列的名词短语，却配了一个单数动词 sit，读起来像三个人并排坐着等她，实际是三样东西被摆好——这个搭配的错误正是这段的功能：她还没进门，东西已经先替他把话说完了；a folded note 里的 folded 是整段唯一的动词性信息，她还没看就先知道那张纸被折过；坐落在她办公桌上而不是被送到别处，说明他必须等她本人来读。
 
-**读者视角提示：** 这三样东西分别来自全书三个位置：面包和咖啡来自他们第一次见面的那家店，桌上那张空着的位置是他给卡尔文留的，这三样并排出现的意思是他把旧关系一件件摆到了她眼前。
+**读者视角提示：** 这三样东西都来自他们各自的老地方：面包和咖啡出自那家他们最初见面的店，而办公桌这个位置本身另有来历——她眼下还坐在 entomology 那间办公室里，桌上的空白正是这整章的暗线所在；把旧关系的信物一件件摆到她眼下，是他能想到的最不冒险的开场。
 
 > **原句 7:** "I have a special plan for Thursday if you’re free. I know . . . it’s not Friday, but it was the only available night for this particular event. It would just be you and me, but we don’t have to call it a date. We don’t have to go at all if you don’t want to. I want you to feel comfortable."
 
@@ -86,6 +86,46 @@ modified: "2026-10-04"
 **读者视角提示：** 这封信的语气和他写给博物馆的公文邮件是同一套——条理清楚、逐条说明、留出余地，只是这一次公文底下压着的全是别的东西。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| nightstand | 床头柜 | That’s Finn’s teacup on the nightstand and his shoes by the bathroom door. |
+| fantasizing | 幻想（此处指在脑子里把对方演一遍） | I was fantasizing about Finn. |
+| friendship | 友谊 | I’d say fantasizing about your coworker in his bed is absolutely on the wrong side of the friendship line. |
+| infiltrates | 渗进、悄悄钻进去 | It feels like it infiltrates all the little corners and pockets, soothing my nerve endings and calming my thoughts. |
+| conversation | 那场谈话 | I let that conversation get so much further than I should’ve. |
+| stationery | 信纸、文具 | The light gray stationery has a beautiful galaxy of stars around the border. |
+| particular | 特定的、这一件具体的事 | it’s not Friday, but it was the only available night for this particular event. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| coworker | 同事 | I’d say fantasizing about your coworker in his bed is absolutely on the wrong side of the friendship line. |
+| backfires | 反噬、弄巧成拙 | I yank the covers over my face with a groan, but that backfires when Finn’s scent surrounds me. |
+| surrounds | 包裹、围住 | I yank the covers over my face with a groan, but that backfires when Finn’s scent surrounds me. |
+| inhaling | 深吸气 | But somehow, they’re covered in his scent, and I can’t stop myself from squeezing my eyes shut and inhaling it like I’m an addict. |
+| soothing | 安抚的、让神经松下来的 | It feels like it infiltrates all the little corners and pockets, soothing my nerve endings and calming my thoughts. |
+| post-nap | 睡醒之后 | I use Ave and El’s bathroom, attempt to smooth down my frizzy, post-nap hair, and descend the stairs. |
+| shuffling | 拖着脚步走 | Lena’s here to pick me up,” I say, shuffling toward the front door and grabbing my bag of clothes from the living room floor. |
+| brightly | 过分明亮地（此处指笑得太响） | “Yeah,” I squeal too brightly, gulping down a few sips and shoving it back to him. |
+| available | 有空的 | it’s not Friday, but it was the only available night for this particular event. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| amorous crime | 情事案的现场 | I scurry down the steps, waving my goodbyes, and flee the scene of my amorous crime. |
+| beautiful galaxy | 一整条星系般的图案 | The light gray stationery has a beautiful galaxy of stars around the border. |
+| distant sound | 远处的声响 | The distant sound of a door closing jolts me from sleep, and my eyes shoot open. |
+| folded note | 折好的便条 | When I get to work on Monday, a pastry bag from Maggie’s, a coffee, and a folded note sit atop my desk. |
+| frizzy | 毛躁炸开的 | I use Ave and El’s bathroom, attempt to smooth down my frizzy, post-nap hair, and descend the stairs. |
+| nerve endings | 神经末梢 | It feels like it infiltrates all the little corners and pockets, soothing my nerve endings and calming my thoughts. |
+| pastry bag | 装点心的纸袋 | When I get to work on Monday, a pastry bag from Maggie’s, a coffee, and a folded note sit atop my desk. |
+| sage aroma | 鼠尾草的香气 | The sage aroma must have magic powers over my brain. |
+| special plan | 特别安排的行程 | I have a special plan for Thursday if you’re free. |
 
 ## 一句话总结
 

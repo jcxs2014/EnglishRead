@@ -7,9 +7,9 @@ modified: "2026-10-04"
 
 ## 本章导航
 
-- **一句话概括**：芬恩出门后米莉溜下楼找到坐在书房里的他，两人接着咖啡店那晚没玩完的问答；她说出初见他时觉得他是个不会跟她同乘电梯的粗脾气家伙，他承认自己当时是不想毁掉她一天的好心情、也不想一边沉着脸一边没法跟她调情；她随即把真正怕的事摊开——怕自己是靠身体换来职位、怕就算没发生什么也会被这样看，他打断她说他早已退出面试委员会，而她为这件事痛苦了将近一个月；游戏打成平手，罚项落成一个吻；芬恩请她留下过夜，两个人第一次把顾虑说到根上，她说自己不知道怎么谈一段健康的关系，他一句一句承诺不控制她、只帮她发光。
-- **情感弧线位置**：从"看得见却碰不着"（书房里那根绷紧的拔河绳）到跨过那条线，再到把话说到根上。全章没有一句告白，最重的信息是被拆开的那句"我不在决定谁拿到这个职位的人里面"。
-- **Tropes 兑现/反转**：兑现咖啡店那晚埋下的问答规则（不答倒扣一分）和那条"画出来的线"，也兑现职场潜规则的写法——但反转在**自证**：她整套恐惧建立的那条规则在他这里根本不成立，而且这个事实已经成立了一个月。反转之二在结尾：她要的不是承诺，是可执行的条款，于是他把"我对你好"改写成一份清单。
+- **一句话概括**：芬恩出门后米莉溜下楼找到坐在书房里的他，两人接着咖啡店那晚没玩完的问答；她说出初见他时觉得他是个不会跟她同乘电梯的粗脾气家伙，他承认自己当时是不想毁掉她一天的好心情、也不想一边沉着脸一边没法跟她调情；她随即把真正怕的事摊开——怕自己是靠身体换来职位、怕就算没发生什么也会被这样看，他打断她说，自己其实已经退出面试委员会，而她为这件事痛苦了将近一个月；游戏打成平手，罚项落成一个吻；芬恩请她留下过夜，两个人把顾虑说到根上，她说自己不知道怎么谈一段健康的关系，他一句一句承诺不控制她、只帮她发光。
+- **情感弧线位置**：从"看得见却碰不着"（书房里那根绷紧的拔河绳）到跨过那条线，再到把话说到根上。全章最重的信息是被拆开的那句"我不在决定谁拿到这个职位的人里面"——两人一路说到这里都没有把关系说破。
+- **Tropes 兑现/反转**：兑现 Chapter 23 埋下的问答规则（不答倒扣一分）和那条"画出来的线"，也兑现职场潜规则的写法——但反转在**自证**：她整套恐惧建立的那条规则在他这里根本不成立，而且这个事实已经成立了一个月。反转之二在结尾：她要的不是承诺，是可执行的条款，于是他把"我对你好"改写成一份清单。
 - **人物弧线**：米莉从把感情当成职业风险，到承认自己怕的是"被人当成用身体换职位的人"，再到说出"我想相信你，也想相信我自己"；芬恩从用玩笑擦掉界线，到把承诺拆成一句一句能兑现的话。
 - **叙事手法**：第一人称（米莉视角）；全章只有一处 `*  *  *` 星号线，书房这一场结束后转到卧室那一场；卧室那一场中间插入一段手机对话体，莉娜的连珠提问把两人刚刚跨过的那条线替读者问出来；书房顶棚的白点被她写成 sprinkled with hundreds of tiny white stars，他跪在她椅子前时她的说法是 as dark as the night sky。
 
@@ -21,17 +21,17 @@ modified: "2026-10-04"
 
 **关键词：** grumpy asshole，wouldn’t get into，offensive
 
-**为什么这样写：** 开口就是一个自我打断的 ". . . "，同一个 I thought 说两遍，把"我当时想的是……然后我意识到我不该这么讲"整个过程留在句内。后面那句把对方的感受写成 his notion 式的判断（the idea of sharing a small space was offensive），主语被换成了 idea——她描述的是他的想法，不是他的话，所以这句既刻薄又安全。
+**为什么这样写：** 开口就是一个自我打断的 ". . . "，同一个 I thought 说两遍，把"我当时想的是……然后我意识到我不该这么讲"整个过程留在句内。后面那句更狠：她没有引他的话，而是把对方的感受写成一种想法——主语是 the idea of sharing a small space，整句没有 he says；主语从"他"换成"想法"，这句就既刻薄又安全。
 
-**读者视角提示：** 这是一次旧账的对账。Chapter 1 里她自己的记法是 "During my first week at the museum, I held the elevator for him while he stalked toward it looking at his phone."，对方当时的动作则是 "He stepped back with a scowl and mumbled, "I'll get the next one.""——两边说的确实是同一件事，只是她记的是被甩开的那一记。
+**读者视角提示：** 这是一次旧账的对账。Chapter 1 里她自己的记法是 "During my first week at the museum, I held the elevator for him while he stalked toward it looking at his phone."，对方当时的动作则是 "He stepped back with a scowl and mumbled, “I’ll get the next one.”"——两边说的确实是同一件事，只是她记的是被甩开的那一记。
 
 > **原句 2:** "I knew that if I got on that elevator, I’d either ruin your day with my mood or have a miserable time not flirting with you."
 
 **中文理解：** 他说当时就知道：上了那部电梯，要么被他的一脸坏心情毁掉她一整天，要么自己就得憋着没法跟她调情——两样他都不想。
 
-**关键词：** ruin your day，either…or，not flirting with you
+**关键词：** ruin your day，either，or，not flirting with you
 
-**为什么这样写：** either 后面两个分句是同一个坏结果的两副面孔：毁掉她的心情，和毁掉自己的心情，括号（mood）只出现一次，说明在他看来那是一份共享的天气。否定词 not 挂在动名词短语前面，表面上说"不能调情"，实际上把他没说的话（我想跟你调情）整个露了出来。
+**为什么这样写：** either 后面两个分句是同一个坏结果的两副面孔：毁掉她的心情，和毁掉自己的心情；with my mood 只在第一支里出现一次，说明在他看来那是一份两个人共用的天气。否定词 not 挂在动名词短语前面，表面上说"不能调情"，实际上把他没说的话（我想跟你调情）整个露了出来。
 
 **读者视角提示：** 她这边的答案是"你根本不上来"，他那边的答案是"我上了你就倒霉"——同一扇门，两个人分别把它当成拒绝和克制的证据。
 
@@ -51,7 +51,7 @@ modified: "2026-10-04"
 
 **关键词：** not in charge，deciding who gets it，dropped out
 
-**为什么这样写：** 三句都是否定式开头，却一句比一句短，压力是倒着给的：前两句拆她搭的台子，第三句直接抽走地基。dropped out 这个词选得极准——完成体加 out 表示这件事已经做完，而不是正在做；他没有说自己"不想评"，说自己"退出了"，时间点由她来问。
+**为什么这样写：** 三句都是否定式开头，却一句比一句短，压力是倒着给的：前两句拆她搭的台子，第三句直接抽走地基。dropped out 是简单过去时加上小品词 out——这件事已经做完，而不是正在做；他没有说自己"不想评"，说自己"退出了"，时间点由她来问。
 
 **读者视角提示：** 紧接着他报出日期："The Monday after you taught me how to make pizza." 米莉立刻算出 That was almost four weeks ago——她算了整整一个月的账，对面根本没有人可以欠。
 
@@ -61,7 +61,7 @@ modified: "2026-10-04"
 
 **关键词：** Pretty sure，erasing，as you were making it
 
-**为什么这样写：** 两个分句都是现在进行时，但一个是他做的（I was erasing），一个是刚发生的（as you were making it），两个进行时叠在一起，就把"划线"和"擦线"写成了同时进行的动作。Pretty sure 把断言降成半信半疑的口气，他连道歉都要留退路；the line 用定冠词，不解释是什么线，读者必须自己记得她在更早时候说过的那句 We aren’t very good at being just friends。
+**为什么这样写：** 两个分句都是现在进行时，但一个是他做的（I was erasing），一个是刚发生的（as you were making it），两个进行时叠在一起，就把"划线"和"擦线"写成了同时进行的动作。Pretty sure 把断言降成半信半疑的口气，他连道歉都要留退路；that line 前面有指示词却不作解释，读者必须自己记得她在更早时候说过的那句 We aren’t very good at being just friends。
 
 **读者视角提示：** 这句是他在她说完"我画了线、我们不该越过去"之后回的——她要的是承认越界的道歉，他给的是"越界这件事从来只发生在我这边"的重新定义。
 
@@ -71,9 +71,9 @@ modified: "2026-10-04"
 
 **关键词：** stifle，control，shape you into something else，help you shine
 
-**为什么这样写：** 前三个动词不是同类的：stifle 是闷住、control 是控制、shape you into something else 是改造，三种坏处一层层加码（尤其最后一个把主语变成了 you），然后用一句 I'm here 把整串否定折成一句肯定。shine 与本章开头她看着他时那句 The one that illuminates the whole room 用的是同一个光，位置一换就变成承诺。
+**为什么这样写：** 前三个动词不是同类的：stifle 是闷住、control 是控制、shape you into something else 是改造，三种坏处一层层加码（尤其最后一个把宾语换成 you），然后用一句 I’m here 把整串否定折成一句肯定。同章里她抬头看书房顶棚的写法是 sprinkled with hundreds of tiny white stars，他跪在她椅子前时她的写法是 as dark as the night sky；同一个星空意象，在她那儿是抬头看见的景，在他那儿是低头撞进去的景，shine 是第三个落点。
 
-**读者视角提示：** 这不是情话收尾，是清单收尾——他在同一段里还逐条排除了 try、respectful and kind、solve anything that makes you uncomfortable，把"对我好"这种抽象承诺改成一组可被检验的动作。同一章里她仰头看的顶棚是 sprinkled with hundreds of tiny white stars，他跪在她椅子前时她的说法是 His eyes are as dark as the night sky；同一个星空意象，在她那儿是抬头看见的景，在他那儿是低头撞进去的景。
+**读者视角提示：** 这不是情话收尾，是清单收尾——他在同一段里还逐条排除了 try、respectful and kind、solve anything that makes you uncomfortable，把"对我好"这种抽象承诺改成一组可被检验的动作。她听完的反应是 A tear slides out of the corner of my eye.——这一夜她掉的眼泪不是被逼出来的，是她自己先把那些怕的话交了出去。
 
 > **原句 7:** "I’m still scared of being in a relationship. I don’t know how to be in a healthy one, and I’m afraid I’ll get lost. I want to be able to trust you, but I also want to be able to trust me."
 
@@ -81,9 +81,9 @@ modified: "2026-10-04"
 
 **关键词：** scared of being in a relationship，get lost，trust me
 
-**为什么这样写：** 三层递进：怕有关系、不会有关系、会在关系里丢掉自己；真正的落点是末句那个 but also——信任的对象从"你"拐回"我"，一次转折把整句话从索取安全改成了自我要求。她没有向芬恩要任何保证，只描述了自己的能力缺口。
+**为什么这样写：** 三层递进：怕有关系、不会有关系、会在关系里丢掉自己；真正的落点是末句的 but I also——信任的对象从"你"拐回"我"，一次转折把整句话从索取安全改成了自我要求。她没有向芬恩要任何保证，只描述了自己的能力缺口。
 
-**读者视角提示：** 他给的不是"你不用怕"这类安慰，而是一句 How can I help you?——把她的自述变成一个可回答的问句，然后才有了后面那份清单。两个人这一段的问答节奏是全章唯一一次完全对等的：她先说，他先问，再答。
+**读者视角提示：** 他给的不是"你不用怕"这类安慰，而是一句 How can I help you?——把她的自述变成一个可回答的问句，然后才有了后面那份清单。两个人这一段的问答节奏是完全对等的：她先说，他不急着劝，先问，再答。
 
 ## 本章词汇
 

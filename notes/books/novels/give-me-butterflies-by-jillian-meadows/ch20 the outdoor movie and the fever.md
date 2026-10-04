@@ -21,7 +21,7 @@ modified: "2026-10-04"
 
 **关键词：** meaning，brave enough，haven’t
 
-**为什么这样写：** 现在完成时（I’ve been meaning to）把"想做"写成一件拖了很久没做的事，一个 been doing 的进行体就把时间拉成了背景；but 之后不用 hadn't been，而是换成 I haven't felt——"没敢"被写成一种身体感受（felt），不是性格缺陷，也不是判断，于是这句话既像坦白又像推卸。第一次开口就承认怯场，是把信任放在前面、要求放在后面。
+**为什么这样写：** 现在完成时（I’ve been meaning to）把"想做"写成一件拖了很久没做的事，一个 been doing 的进行体就把时间拉成了背景；but 之后立刻换掉时态，从 I’ve been 切到 I haven’t felt——同一个主语 I，前后两个完成时态只差一个 be 动词，"没敢"就被改写成一种身体感受（felt），不是性格缺陷，也不是判断，于是这句话既像坦白又像推卸。第一次开口就承认怯场，是把信任放在前面、要求放在后面。
 
 **读者视角提示：** 说完这句，他紧接着给两个女孩套外套、给米莉裹毯子——全章他照顾人的动作都是从这句认怂之后开始的。
 
@@ -33,7 +33,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** 动名词 Watching 开头，把整段观察打包成一个悬空的主语，真正的动作反而被藏进 like 之后的比喻里；fuss over 用 over 这个介词，天然带着"围着人转、碎碎念"的意思，和后面他真的只递外套、拉毯子这些具体动作对得上；almost too much for my heart 把生理上的心悸说成容器超载，读者跟着她一起觉得胸口发胀，却说不出到底胀在哪里。
 
-**读者视角提示：** mother hen（母鸡）这个比喻和他平时的冷脸是反的——她在此之前对他的印象一直是"皱眉的部门主任"，是这一晚第一次让他显得笨拙。
+**读者视角提示：** mother hen（母鸡）这个比喻和他平时的冷脸是反的——她对他的印象一直是"皱眉的部门主任"，是这一晚的操劳让他第一次显出笨拙来。
 
 > **原句 3:** "My weight against the pillow is making me slide toward Finn a millimeter at a time until it feels like I’m leaning on him, and if I tilted my head a few inches, I think it might be resting on his chest."
 
@@ -43,7 +43,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** 主语是 My weight against the pillow（我压在枕头上的体重），而不是"我"——身体自己动的，人只是被带着走；a millimeter at a time 把整段靠近切成看不见的最小单位，读者跟着她一起数那几毫米；后半句突然换成 if 引导的假设加 I think it might be，一个未发生的将来时把"靠在他身上"降格成她在脑子里做的一次排练，条件句正是她还没跨过去的那一步。
 
-**读者视角提示：** 这一段的紧跟在 3 之后：写作的焦点从"他做了什么"换成"我的身体在做什么"，整章的主动权第一次悄悄转手。
+**读者视角提示：** 这一段的紧跟在 3 之后：写作的焦点从"他做了什么"换成"我的身体在做什么"，整章的主动权就在这里悄悄转手。
 
 > **原句 4:** "He drags in a deep breath. “Mmm. Lemons,” he sighs, then leans forward until his face is buried in my hair. “Why do you always smell so good?” he whispers, lost in the haze of a fever."
 
@@ -53,7 +53,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** 拟声词 Mmm 用逗号直接切在引语里，是高烧时从鼻腔里挤出来的声音，不是词；紧跟着的感官词只有 Lemons 一个，把嗅觉写成舌尖上的味道，让读者意识到他连五官都分不清了；the haze of a fever（高烧的迷雾）在句末用一个 lost in 把自己也写了进去——他把胡话的责任推给病，病就替他免了罪。
 
-**读者视角提示：** 后半句为什么我身上永远这么好闻，是全章唯一一次他把话说明白，而且只说给一个正埋在他头发里的人听。
+**读者视角提示：** 后半句"为什么我身上永远这么好闻"，是全章他说出口的、最接近表白的一句；而且对象是一个正埋在他头发里的人，他不必抬头也不用看她有没有反应。
 
 > **原句 5:** "A miserable groan bleeds from his chest. “Not how I wanted you on your knees for me either.”"
 

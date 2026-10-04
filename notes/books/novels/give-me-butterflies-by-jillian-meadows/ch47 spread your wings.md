@@ -27,7 +27,7 @@ modified: "2026-10-04"
 
 > **原句 2:** "If you hadn’t gotten that promotion, I would’ve told you to ask Maggie if she’s hiring."
 
-**中文理解：** 米卡说，要不是她升了职，他当初就该让她去问玛吉招不招人。
+**中文理解：** 迈卡说，要不是她升了职，他当初就该让她去问玛吉招不招人。
 
 **关键词：** promotion，Maggie，hiring
 
@@ -49,7 +49,7 @@ modified: "2026-10-04"
 
 **中文理解：** 她融进这个家太顺了，像是本来就该在这儿；他们不过是替她空着那个位置。
 
-**关键词：** seamlessly，meant，holding
+**关键词：** holding，spot
 
 **为什么这样写：** 前一句先说"无缝地融进来"，这一句立刻把它翻译成家庭内部的语言——空出来的位置；把"她填补了缺口"写成"我们替她留了位"，主客关系整个倒过来，是最省力的深情。
 

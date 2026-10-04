@@ -41,7 +41,7 @@ modified: "2026-10-04"
 
 **关键词：** impressively，sturdy，screeching，joy
 
-**为什么这样写：** 主语是一整个"心里的画面"，到句尾才用 has given ... 收束；一句话里先造出一个与她无关的壮汉，再让她认领——讽刺全靠"这个壮汉其实是他自己"与她轻快语气之间的落差。更狠的是她用的正是他邮件里的那对形容词，等于借他的词反过来嘲笑他。
+**为什么这样写：** 主语是一整个"心里的画面"，到句尾才用现在完成时的 has given 引出结果；一句话里先造出一个与她无关的壮汉，再让她认领——讽刺全靠"这个壮汉其实是他自己"与她轻快语气之间的落差。更狠的是她用的正是他邮件里的那对形容词，等于借他的词反过来嘲笑他。
 
 **读者视角提示：** 这也交代了两人的互损机制：他们共享同一套形容词库，谁先用词，谁就成了被这个词形容的人。
 
@@ -87,6 +87,45 @@ modified: "2026-10-04"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| planetarium | 天象馆，能投影星空的球形放映厅 | While reading a particularly long message from a museum guest who’s grumpy about not being able to rent out the planetarium for a movie showing, something tickles my hand. |
+| masculinely | 像个男人似的，此处用来形容那声叫喊 | When I glance down, I squeak loudly—and very masculinely, of course—and whip the unsuspecting spider off my desk. |
+| assistance | 协助、帮忙 | If you have time this afternoon, I would be relieved to have your assistance with this matter. |
+| entomologist | 昆虫学家 | Being the proud and dedicated feminist that I am, I call on my heroic female entomologist to save me from this peril. |
+| screeching | 尖声惊叫 | The image in my mind of an impressively strong and sturdy man jumping and screeching because of a spider has given me a great deal of joy this morning. |
+| malfunctioning | 出了毛病的、失灵的 | I do think I heard that squeal you mentioned all the way on my side of the museum, and I thought it was the elevator malfunctioning. |
+| disclosure | 主动说明，把先前的话摊开来讲 | In full disclosure, I should clear up some confusion. |
+| coffee-scented | 带着咖啡香味的 | However, I quickly apologized and have since given them a pleasant coffee-scented home for the morning. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| residence | 住处、占据下来的地方 | A frightening, albeit small, spider has taken up residence near my desk. |
+| specimen | 标本、样本 | I thought you might be able to identify the specimen and inform me of the future safety of my office. |
+| evacuate | 撤离、疏散 | If I must evacuate, it’ll take a while to move everything into a secure location. |
+| relieved | 如释重负的 | If you have time this afternoon, I would be relieved to have your assistance with this matter. |
+| feminist | 女权主义者 | Being the proud and dedicated feminist that I am, I call on my heroic female entomologist to save me from this peril. |
+| harmless | 无害的 | Hopefully you have not started vacating the office yet, because it’s likely harmless. |
+| furrowed | 眉头蹙起 | When I reach it, her brows are furrowed in concentration as she types something on her keyboard. |
+| crinkles | 包装纸窸窸窣窣作响 | The surprise package crinkles as I slowly pull it out, and her eyes snap from the monitor to laser focus on the brown paper. |
+| fiending | 瘾发作时的焦躁，此处是玩笑说法 | I don’t want you fiending for it all day. |
+| oblivious | 浑然不觉的 | She pulls the croissant apart down the middle, oblivious to my thoughts, and hands me the bag with the bottom half. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| brows | 眉毛，此处指蹙起眉头 | Her leg stills and she lifts her brows. |
+| elevator | 电梯 | I do think I heard that squeal you mentioned all the way on my side of the museum, and I thought it was the elevator malfunctioning. |
+| glare | 瞪视 | She shakes her head with a glare. |
+| job interview | 职位面试 | Millie has never mentioned her job interview to me. |
+| magnet | 磁铁 | The movement pushes her breasts against the yellow-and-white-striped fabric of her dress, drawing my eyes there like a magnet. |
+| poor soul | 可怜的人 | Save my poor soul and stop doing that. |
+
 ## 一句话总结
 
-他用一只蜘蛛换来了一顿下午的相处、一个掰成两半的可颂，和一句始终没能说出口的话。
+他用一只蜘蛛换来一个下午的相处、一个掰成两半的可颂，和一句始终没能说出口的话。

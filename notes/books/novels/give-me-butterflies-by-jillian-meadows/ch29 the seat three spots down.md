@@ -7,7 +7,7 @@ modified: "2026-10-04"
 
 ## 本章导航
 
-- **一句话概括**：沙发夜谈里莉娜拿观景台那晚调侃米莉，米莉嘴硬说也许他并不喜欢；紧接着凯尔发来一条辱骂短信，她把当天早上在麦吉躲到芬恩身后、直到对方离开的旧事说了出来，莉娜要她先把人拉黑；家庭群却在讨论接两个女孩回来玩，暖得她心里更疼；上午的会上她提前半小时到场，想赌芬恩会不会坐过来，结果他戴着一条没有行星的纯黑领带，在桌子对面隔三个位子坐下，直到散会一次也没看她；另一头她泡在蝴蝶生态箱里准备展示提案，回到家后脑子里的画面却循环不停。
+- **一句话概括**：沙发夜谈里莉娜拿观景台那晚调侃米莉，米莉嘴硬说也许他并不喜欢；紧接着凯尔发来一条辱骂短信，她把某个早上在麦吉躲到芬恩身后、直到对方离开的旧事说了出来，莉娜要她先把人拉黑；家庭群却在讨论接两个女孩回来玩，暖得她心里更疼；上午的会上她提前半小时到场，想赌芬恩会不会坐过来，结果他戴着一条没有行星的纯黑领带，在桌子对面隔三个位子坐下，直到散会一次也没看她；另一头她泡在蝴蝶生态箱里准备展示提案，回到家后脑子里的画面却循环不停。
 - **情感弧线位置**：从被人调侃时的嘴硬，到威胁短信砸下来时的塌陷，再到会议室里那场自己设标准的赌局输掉，最后独自在生态箱前被循环画面困住——一整章是一段没有出口的下坠，她每换一个场景就多一分无处可放的心慌。
 - **Tropes 兑现/反转**：兑现「冷战里的沉默比争吵更伤人」，但把它翻成一场被主角自己量化的测试——座位远近就是关系结论；同时把一封威胁短信安排在她等另一条消息的那一秒送达，让旧关系直接砸在新关系的软肋上。
 - **人物弧线**：米莉从嘴上否认，到对着莉娜承认自己不想退回朋友，再到把一场工作会议布置成赌桌；莉娜从粗口调侃一路升级到要替她动手。芬恩全章不发一言、只用一个不投过来的眼神交代他的退却，反而比任何解释都更响。
@@ -23,7 +23,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** 开篇就把最私密的一件事交给第三人转述，而转述的人还耸了耸肩；`left him with`（你留给他的）把主动权稳稳按在米莉身上——挑逗的不是芬恩而是米莉本人。`raging` 与 `recovered` 一放，读者立刻知道这两人之间早已越过同事那条线，也知道米莉嘴上否认的只是"他不喜欢"。
 
-**读者视角提示：** 米莉的回话是反问"也许他不喜欢？"——一句话把刚升起来的温度推回去；同一个人在同一段里既要听这个玩笑，又不敢当真。
+**读者视角提示：** 米莉的回话是反问"也许他不喜欢？"——一句话把刚升起来的温度推回去；前后两句里，她既要听这个玩笑，又不敢当真。
 
 > **原句 2:** "After he had me literally seeing stars on that overlook, Finn barely spoke to me on the way home from the farm."
 
@@ -37,13 +37,13 @@ modified: "2026-10-04"
 
 > **原句 3:** "Kyle: This is fucking ridiculous. Quit acting stupid. I need to talk to you, and you’re being a bitch."
 
-**中文理解：** 前任凯尔发来一条火气十足的短信，骂她装傻，说自己必须跟她谈谈，还直接骂她是个婊子。
+**中文理解：** 凯尔发来一条火气十足的短信，骂她装傻，说自己必须跟她谈谈，还直接骂她是个婊子。
 
 **关键词：** fucking ridiculous，acting stupid，you’re being a bitch
 
-**为什么这样写：** 三句全是冲着对方去的祈使句或断言句，动词连着动词（Quit、I need），把对话压成他单方面的通知，连商量的余地都不留。可这一段的威胁感并不来自内容，而来自它出现的时机——她刚满心期待地扑向手机，等来的却是这个名字。
+**为什么这样写：** 三句全是冲着对方去的：第一句下判断，第二句下命令，第三句下结论，一句接一句往下压，把对话变成他单方面的通知，连商量的余地都不留。可这一段的威胁感并不来自内容，而来自它出现的时机——她刚满心期待地扑向手机，等来的却是这个名字。
 
-**读者视角提示：** 莉娜当场说要杀人，米莉却只说了自己躲到芬恩身后那件事；本卷另一条危险线在这里第一次发出声音，此后莉娜给出的建议也不是报仇，而是拉黑。
+**读者视角提示：** 莉娜当场说要杀人，米莉却只说了自己躲到芬恩身后那件事；本卷另一条危险线在这里发出声音，此后莉娜给出的建议也不是报仇，而是拉黑。
 
 > **原句 4:** "First, though, you block this asshole. You shouldn’t have to read shit like that or expend any mental energy on him."
 
@@ -61,7 +61,7 @@ modified: "2026-10-04"
 
 **关键词：** Well, okay，choose，based on
 
-**为什么这样写：** `Well, okay` 是给自己的台阶——她九点半就坐进座位，根本不是"好吧"才决定；后半句把一场本该谈业务的会议降格成一局棋，她要的东西不在议程上，而在芬恩落座的那三秒钟里。`based on where I am` 把人写成了坐标，关系的远近被换算成物理距离。
+**为什么这样写：** `Well, okay` 是给自己的台阶——她九点半就坐进座位，根本不是"好吧"才决定；后半句把一场本该谈业务的会议降格成一局棋，她要的东西不在议程上，而在芬恩推门进来、落座的那一刻。`based on where I am` 把人写成了坐标，关系的远近被换算成物理距离。
 
 **读者视角提示：** 她还给这个位置预设了两种读法：挨着她就算还有希望，坐得远远的就意味着她不想去想的那种事——恐惧在这里被写成了计分规则。
 
@@ -81,11 +81,52 @@ modified: "2026-10-04"
 
 **关键词：** visualization，plays on a loop，can’t turn it off
 
-**为什么这样写：** 章末她躲进蝴蝶生态箱，把它当成冥想空间，可前一段刚写她在这里放下了别的一切，这一句就把那个结论推翻了。她以为自己放下了，其实只是把同一段影像按了循环播放；`plays on a loop` 与 `can’t turn it off` 把心理状态写成一台播放器，冷静的词面下全是失控。
+**为什么这样写：** 章末她躲进蝴蝶生态箱，把它当成冥想空间，可同一节里她刚说过在这里可以把别的都放下，这一句就把那个结论推翻了。她以为自己放下了，其实只是把同一段影像按了循环播放；`plays on a loop` 与 `can’t turn it off` 把心理状态写成一台播放器，冷静的词面下全是失控。
 
 **读者视角提示：** 这个画面里有落在额上的亲吻，也有穿过卧室的笑声——它是自己长出来的想象，不是任何人给过的承诺，所以格外扎人。
 
 ## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| unsettling | 令人不安的 | It’s unsettling—not knowing what shifted between us so suddenly. |
+| insecurities | 内心的不安全感 | My insecurities are like an exposed wound this week, leaving me riddled with anxious uncertainty, and not hearing from Finn is only exacerbating them. |
+| uncertainty | 不确定、悬而未决 | My insecurities are like an exposed wound this week, leaving me riddled with anxious uncertainty, and not hearing from Finn is only exacerbating them. |
+| exacerbating | 使加剧、使更糟 | My insecurities are like an exposed wound this week, leaving me riddled with anxious uncertainty, and not hearing from Finn is only exacerbating them. |
+| notification | 通知、提示音 | My phone chimes with a text notification, and I sit up to reach for it, a bubble of excitement filling my chest at the prospect of a text from Finn. |
+| double-team | 联手、配合同一个目标一起动手 | “Maybe we double-team it, then. |
+| sweethearts | 小甜心、心肝宝贝 | Make Millie and Finn bring those sweethearts back. |
+| determined | 下定决心要做到的 | The meeting starts at ten in the morning, but I land in my chosen seat at nine thirty, determined to be there before anyone else. |
+| studiously | 刻意地、故意地 | I fiddle with my sparkly orange pen on the table and studiously avoid his eyes while I wait with bated breath for him to choose a seat. |
+| transparent | 透明的 | Sweat beads along my hairline as I trail my eyes over the butterfly vivarium’s large, transparent panels and gray steel frames. |
+| transported | 带往（此处指仿佛被送到别处） | The massive palms and vines growing up the sides of the building make me feel like I’ve been transported somewhere else. |
+| visualization | 想象出来的画面 | That visualization of my life with Finn and the girls plays on a loop in my head, and I can’t turn it off. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| literally | 真的、确确实实 | After he had me literally seeing stars on that overlook, Finn barely spoke to me on the way home from the farm. |
+| overlook | 观景台、高处的平台 | After he had me literally seeing stars on that overlook, Finn barely spoke to me on the way home from the farm. |
+| skeptical | 怀疑的、不相信的 | Lena nudges me with her foot, snapping my attention back to her skeptical glare. |
+| floating | 飘着、盘旋不散 | “I don’t want to go back to friends,” I whisper, giving voice to what’s been floating around in my mind all day. |
+| prospect | 可能性、前景 | My phone chimes with a text notification, and I sit up to reach for it, a bubble of excitement filling my chest at the prospect of a text from Finn. |
+| scrolling | 往上滑着看 | “I’m gonna kill him,” Lena rages, scrolling up to his past messages. |
+| astronomy | 天文学 | No astronomy flair. |
+| sanctuary | 让人安心的角落 | Yet, despite the peace this sanctuary brings me, it hasn’t been able to block all thoughts of Finn from creeping into my mind. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| coffee table | 茶几 | Lena sets her drink on the coffee table. |
+| exposed wound | 敞开的伤口 | My insecurities are like an exposed wound this week, leaving me riddled with anxious uncertainty, and not hearing from Finn is only exacerbating them. |
+| heart aches | 心口发疼 | But once I arrive at home every evening, my heart aches. |
+| phone chimes | 手机响提示音 | My phone chimes with a text notification, and I sit up to reach for it, a bubble of excitement filling my chest at the prospect of a text from Finn. |
+| small laugh | 轻轻一笑 | A small laugh bursts out of me. |
+| throat tightens | 喉咙发紧 | Over and over, my throat tightens as I feel those kisses brushed across my forehead and hear that laughter ringing through the bedroom. |
 
 ## 一句话总结
 
