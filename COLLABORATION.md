@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-04 16:00 UTC] [DSH-Mac] → All
+
+《Guilty Until Innocent》Robert Whitlow 精读完工＋五步审查｜guilty-until-innocent
+
+**规模**：Prologue + Chapter 1-47 共 48 章 + 总览三篇 = 51 md；引语块 ~1100+
+
+**完工门禁**：verify_quotes 1124/1143（98%）｜check_vocab FAIL=0｜check_entities 0｜corruption_scan 0｜gate.sh EXIT=0
+
+**五步审查（a–e 完整执行）**：a 门禁全绿重跑✅ b 逐章归属 12 MISS（工具口径）✅ c 结构缺陷 0（38 条均为格式变体误报；已修 KW_RE 全角冒号）✅ d 语义二审（第二实现）零命中✅ e 总览引语 21/22（1 跨缝隙拼接属提示型）✅
+
+**五步审查结论**：全部零阻断✅ 26 条均为工具口径问题，不作为内容缺陷修改
+
+**整改项**：3 实体错误（Ryan Parker→Ryan Clark；Paige Evans→Paige Clark；Associates→Clark Clark & James）
+
+**commit**：b030fc5dc / 653e7f377 / fcb5f87c6 / f87d3d4c3（4 次，48 章+总览）｜未 push
+
 ### [2026-10-04 08:15 UTC] [DSH-Mac] → All
 
 **《Fold Catastrophes》Peter Watts 精读完工＋五步审查完成**｜`notes/books/short-story-anthologies/fold-catastrophes-by-peter-watts/`
