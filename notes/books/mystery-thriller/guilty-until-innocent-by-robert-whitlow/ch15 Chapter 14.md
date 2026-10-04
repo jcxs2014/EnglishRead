@@ -227,7 +227,7 @@ Tom 的话在 Ryan 耳边回响。`ringing in his ears` 是感官化的表达，
 |------|------|------|
 | pray | 祈祷 | I prayed for you last night. |
 | free | 自由的 | If the Son sets you free, you're free indeed. |
-| lawyer | 律师 | Lawyer Ryan Clark listened when Joe talked about the Lord. |
+| lawyer | 律师 | The lawyer wasn't as strong in the open sunlight. |
 | bleeding | 出血 | Any bleeding? |
 | pregnant | 怀孕的 | I'm pregnant. |
 | sign | 签署 | I signed the agreement for you to represent me. |

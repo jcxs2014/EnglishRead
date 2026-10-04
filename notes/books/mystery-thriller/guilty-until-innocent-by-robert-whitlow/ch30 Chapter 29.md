@@ -202,8 +202,8 @@ Broome 的立场斩钉截铁："我相信 Moore 有罪。"他愿意有限度配�
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | prison | 监狱 | A prisoner telling lies wasn't unusual, but something about Ned deeply troubled him. |
-| lawyer | 律师 | "Why don't you ask your lawyer to look into him? He could run a background check." |
-| murder | 谋杀 | Thoughts about Ned Walker's dishonesty kept him awake. A prisoner telling lies wasn't unusual. |
+| lawyer | 律师 | "Why don't you ask your lawyer to look into him," Ray suggested. "He could run a background check." |
+| murder | 谋杀 | "Six murder cases in thirty-four years of active duty." |
 | smoke | 烟 | "I use smoke to make them think there's a forest fire in the area and then approach them with gentle movements." |
 | guilty | 有罪的 | "And to be clear, I believe Moore was guilty." |
 | honest / dishonesty | 诚实 / 不诚实 | Thoughts about Ned Walker's dishonesty kept him awake. |

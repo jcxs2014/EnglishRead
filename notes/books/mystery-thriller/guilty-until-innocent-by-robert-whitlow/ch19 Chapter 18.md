@@ -99,7 +99,7 @@ Joe 发现私人物品位置异常——Bible 从右下角移到左下角，还�
 
 ---
 
-> **原句 11：** "If they did, I hope they would read it." / "Nothing," Joe replied.
+> **原句 11：** "Nothing," Joe replied. "If someone stole a Bible, I'd hope they would read it."
 
 Joe 幽默地说如果小偷偷了 Bible 希望他读一读；回答 Bobby 问"还有什么值得偷的"时说"没有"——这两句话勾勒出 Joe 在监狱多年的生活状态：精神依托是圣经，物质上已一无所有。
 

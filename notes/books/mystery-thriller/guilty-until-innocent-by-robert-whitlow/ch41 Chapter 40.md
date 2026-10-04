@@ -647,8 +647,8 @@ Danny 的"Trust me"是一个悬疑小说中常见的 trust 主题变体——在
 |------|------|------|
 | lawyer | 律师 | Are you aware of the attack on our home? |
 | prison | 监狱 | He slipped out of Unit C and made his way across the exercise yard toward Unit G. |
+| guilty | 有罪的 | Moore confessed to committing the murders in front of a number of prisoners. |
 | murder | 谋杀 | Moore confessed to committing the murders in front of a number of prisoners. |
-| guilty | 有罪的 | guilty of murder in the first degree |
 | client | 客户 | "What did you think about the article in the newspaper?" the client asked. |
 | threat | 威胁 | Someone at the prison left a threatening note for Joe and me. |
 | knife | 刀 | he pulled out a homemade knife that gleamed in the fading light |

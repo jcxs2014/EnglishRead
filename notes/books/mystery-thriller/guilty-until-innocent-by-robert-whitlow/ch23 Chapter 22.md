@@ -276,7 +276,7 @@ Ryan 对话末尾决定深入调查 Marty，悬疑线在这里收紧。他不确
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| dinner | 晚餐 | The start of dinner was announced. |
+| dinner | 晚餐 | Ms. McKnight rang a little silver bell to announce the start of dinner. |
 | lawyer | 律师 | Your wife tells me you're a lawyer. |
 | wife | 妻子 | Your wife tells me you're a lawyer. |
 | phone | 电话 | Paige's phone vibrated. |

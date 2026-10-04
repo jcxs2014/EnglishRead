@@ -99,7 +99,7 @@ Nancy 不仅有手枪，还有隐蔽携带执照。这解释了为什么 Tom 允
 
 ---
 
-> **原句 11：** "Does Tom know about it?" Ryan asked in surprise.
+> **原句 11：** "Do you have a permit for that?" Ryan asked in surprise.
 
 Ryan 的 "in surprise" 说明他完全不知道办公室的武装程度。这个反应揭示了 Ryan 对 Tom 律所内部情况的陌生——尽管已经工作两个月，他仍不了解这个工作环境的真实面貌。
 
@@ -131,7 +131,7 @@ Nancy "wringing her hands"（绞手）是焦虑的动作描写。她要锁门、
 
 ---
 
-> **原句 15：** "I should go to the hospital," Ryan said resolutely.
+> **原句 15：** "I should go to the hospital," he said resolutely.
 
 Ryan 决定去医院。"resolutely"（坚决地）表明他不顾一切想要做点什么——面对 Tom 的生死，Ryan 感到必须采取行动，尽管 Karen 明确拒绝访客。
 
@@ -261,7 +261,7 @@ Ryan 首次点名 Doc Garrison 与事件有关联。Doc Garrison 似乎是一个
 | vigorous | 精力充沛的、健壮的 | He was healthy and vigorous, and that was the way Joe prayed. |
 | concealed carry | 隐蔽携带（枪支） | Yes, along with a concealed carry license. |
 | surveillance | 监视、监控 | Are there surveillance cameras in the hallway? |
-| consultation room |  consultation room | Joe sat down in the consultation room. |
+| consultation room |  consultation room | Inside the consultation room, he sat down in a plastic chair. |
 | conscience | 良心、道德心 | I can't risk having an even worse attack against you or your wife on my conscience. |
 | deteriorate | 恶化 | Tom's health has seriously deteriorated. |
 

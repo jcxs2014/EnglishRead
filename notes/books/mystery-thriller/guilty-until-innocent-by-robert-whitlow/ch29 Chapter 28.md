@@ -180,7 +180,7 @@ Ryan 离开时注意到前夜总会（Eastside Music Barn）有至少三台监�
 | pray | 祈祷 | I'm not going to stop asking the Lord to touch and restore him. |
 | pregnant | 怀孕的 | Because you're pregnant? |
 | call | 打电话 | "The last thing I did before leaving the office was call Joe Moore." |
-| hospital | 医院 | They put him in the ICU to stabilize him. |
+| hospital | 医院 | "they've put him in the ICU to stabilize him." |
 | phone | 电话 | Doc doesn't trust phones. |
 | door | 门 | The door slammed shut. |
 | guard | 警卫、狱警 | A guard is bringing Mr. Moore to the administration building. |
