@@ -1,0 +1,20 @@
+=== 批10 ch18+ch19 2026-10-04 14:31 UTC ===
+--- verify_quotes ---
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 188/189 引文可核实（99%）；完全干净文件 18/19；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- sweep_full ---
+  ✅ 本章命中 188 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 1 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+  🔶 ch19 The Civil Wars of 1793.md（ch19）跨标签拼接，各段逐字都在：Lyon will lose its name, it will be called '
+--- check_vocab (FAIL header) ---
+--- FAIL (2) ---
+--- entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption ---
+  FAIL 0 处（U+FFFD / 双句号）
+--- 逐章 ch18 ---
+ch18 The Fall of the Girondins.md: 9/9 in ch18 text（另有 1 条短引语未校验）
+--- 逐章 ch19 ---
+  MISS: Lyon will lose its name, it will be called 'Liberated-Town' [Ville-Affranchie]. 
