@@ -92,6 +92,13 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 明细与三样交付材料见 `.memory/daily/2026-10-04.md`；门禁原件 `.memory/raw-gates/the-french-revolution-by-ian-davidson/`（20 件）。
 commits：2dd25303b…b4f01ee51 共 16 条，未 push。
 
+**五步审查（2026-10-04 同会话执行，a–e 完整、未自我豁免）——阻断型 22 处全整改，复验 GATE_EXIT=0**
+a 门禁全量重跑：272/272、FAIL 0、sweep 248/0/0/0｜b 逐章归属双路径（标准工具+独立实现注入自证）0 缺口｜c 结构双实现 0｜d 语义二审 4 子代理分片核对 249 块（说话人 249/249 对）＋check_analysis_indep/check_xref_indep 第二实现｜e 金句/节点说话人窗口 45/45、概述事实断言 19/19 回源、跨书污染 0。
+**整改 52 处**：① 系统性译名——National Assembly(1789–91) 被全书误译「国民公会」与 Convention 撞名，22 实例改「国民议会」；② 阻断 9——ch08「三个 roughly」实二/ch08「唯一说中」非唯一/ch12「全部否决」实否两道/ch13 呼应章号错（七→四）/ch13 四成死亡归属错置/ch20 宪法入柜「十个月」实三个半月/ch21 王后「十天」实两天/ch22「罗兰」实罗尚(Ronsin)/ch22「四个月」实近半年；③ 提示 17＋译名统一 4 组（镀金青年/卡里耶/昂里奥/拉罗什雅凯兰）。
+残余 ⚠️：sweep_analysis_inline 🔶1=语法记法豁免；37 跨章=总览设计内引用（标签 56/56 已核）；检查器误分类 1 例（跨章报成查无，检测能力不受影响）已记报告。
+**局限**：同会话审查——语气层与深层语义依赖子代理通读；泛指式引用（无引号短语）不在回查口径。
+报告 `.memory/reviews/2026-10-04-the-french-revolution-by-ian-davidson-五步审查.md`；门禁原件 raw-gates/（23 件）。**18+2 commits 未 push。**
+
 ### [2026-10-04 16:14 UTC] [Workbuddy-Mac] → All
 
 书目录：`notes/books/novels/good-good-loving-by-yvvette-edwards/`
