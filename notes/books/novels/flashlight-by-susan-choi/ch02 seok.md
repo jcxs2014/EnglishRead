@@ -65,7 +65,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：本块的机关是三个动作压进一句：`It isn’t from you` 先取消他作为写信人的资格，`You’re to sign it` 再把命令递到他手里，`Kang Soonja aged 6` 最后让他的笔迹变成别人的凭据。前面他刚在街上说过「我读得懂，只是他们写得不规范」，这里却轮到他替人署名——读写能力被临时改派了用途。
 
-**读者视角提示**：`Can’t you do this one thing for your dongsaeng?`：母亲用「弟妹」这个身份词来压他。这一招在本章后面还会被同一只手再用一次，只是那时压的不是签字，是姓与名。
+**读者视角提示**：`Can’t you do this one thing for your dongsaeng?`：母亲用「弟妹」这个身份词来压他。这一招在本章后面还会被父亲用上一回——只是那时压的不是签字，是姓与名。
 
 > **原句 6:** “We would like you to go by the name that we gave you, at home. It’s confusing for your brothers and sisters. And now that they’re schooled in Korean, we don’t like the sound of ‘Hiroshi’ coming out of their mouths.”
 

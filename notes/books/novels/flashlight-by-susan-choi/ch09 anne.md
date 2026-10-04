@@ -29,7 +29,7 @@ modified: "2026-10-03"
 
 > **原句 2:** “I’m not the person in this marriage who needs a psychiatrist,” she snarled at Serk, at the same time thinking, of course she was, but that had been true for years, for years she’d hidden all that underneath an attractive façade, and vastly worse than the deception was that the façade was now crumbling. … “They found nothing.” He didn’t understand when she wept in despair.
 
-她被送进一台机器里扫脑，恐惧到发抖；她想起 Tobias，想象自己也会得同样的病、也被这样救回来——等待被写成一种把货物慢慢放行的时刻表。结果电话打来，Serk 只说了「什么都没查到」，随后如释重负地重复一遍；她却哭了，他不理解她为什么绝望。
+她被送进一台机器里扫脑，恐惧到发抖；她想起 Tobias，想象自己也会得同样的病、也被这样救回来——等待被写成一种把货物慢慢放行的时刻表。结果电话打来，Serk 只说了「什么都没查到」，先如释重负地说了声「Thank God」，才补上「什么都没查到」；她却哭了，他不理解她为什么绝望。
 
 **关键词**：I’m not the person in this marriage who needs a psychiatrist / the façade was now crumbling / They found nothing / He didn’t understand when she wept in despair
 

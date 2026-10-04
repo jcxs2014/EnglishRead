@@ -29,7 +29,7 @@ modified: "2026-10-03"
 
 > **原句 2:** At the end of the tour all the grim staring Japanese people and she and her parents had been made to line up for a portrait, Louisa in the front row although she was not just the same height as, but taller than many of the shriveled old ladies. By instinct, though she had never felt less happy in her life, when the photographer held up his hand for attention, she stretched out her cheeks in a grin. The photographer stepped out from behind his tripod and called out, “Shutchomouf!”
 
-观光合影，摄影师举手要大家注意，Louisa 出于本能咧嘴笑了——尽管她一点也不开心。摄影师从三脚架后探出身来喊了一声「不许笑！」；她两侧的老人斜眼打量她，她的脸因为这个又大又假的笑而发痛，只盼他快点拍。
+观光合影，摄影师举手要大家注意，Louisa 出于本能咧嘴笑了——尽管她一点也不开心。摄影师从三脚架后喊了一声谁也听不出来的「Shutchomouf！」，真正把话翻过来的是最后一排的父亲——「Louisa! He says not to smile!」；她两侧的老人斜眼打量她，她的脸因为这个又大又假的笑而发痛，只盼他快点拍。
 
 **关键词**：instinct / grin / Shutchomouf
 

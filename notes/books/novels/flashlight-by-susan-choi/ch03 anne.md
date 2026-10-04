@@ -7,7 +7,7 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：Anne 从十几岁怀孕被 Adrian 送走、独自生下 Tobias 又签下收养协议讲起，在给 Dr. Grassi 打字的那几年里认识 Serk、结婚、生下 Louisa；近十七年后一通电话把 Tobias 送到她面前，于是草莓农场、那道通了电的围栏与女儿在浴缸边的哭喊，把「母亲」这个词拆成法律、身体与愧疚三样东西。
+- **一句话概括**：Anne 从十几岁怀孕被 Adrian 送走、独自生下 Tobias 又签下收养协议讲起，在给 Dr. Grassi 打字的那几年里认识 Serk、结婚、生下 Louisa；近十七年后一通电话把 Tobias 送到她面前，于是草莓农场、那道通了电的围栏与女儿在熄灯卧室里的哭喊，把「母亲」这个词拆成法律、身体与愧疚三样东西。
 
 - **情感弧线位置**：全书第二个 POV 章，紧接序章的失去之后：先把 Anne 从「被判刑的人」推到「制造事件的人」，再推到「守着一扇不属于自己的门」；温度先冷后烫，收在一封礼貌的年信上。
 
@@ -79,7 +79,7 @@ modified: "2026-10-03"
 
 > **原句 7:** But Louisa is also sobbing. It takes Anne several guesses to understand what she’s trying to say. “I didn’t mean he should die. I just thought that he would.”
 
-母亲在自家浴缸边道歉，女儿先是不出声，接着哭，最后才拼出一句实话：她不是希望他死，她只是想他会死。叙述者不写女儿说了什么过分的话，只写母亲要猜好几遍才听懂。
+母亲在熄了灯的卧室里道歉，女儿先是不出声，接着哭，最后才拼出一句实话：她不是希望他死，她只是想他会死。叙述者不写女儿说了什么过分的话，只写母亲要猜好几遍才听懂。
 
 **关键词**：sobbing / several guesses / thought that he would
 
