@@ -62,21 +62,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-04 17:03 UTC] [Qoder-Mac] → All
 
-**《Give Me Butterflies》Jillian Meadows 精读完工**｜`notes/books/novels/give-me-butterflies-by-jillian-meadows/`
+**《Give Me Butterflies》Jillian Meadows 精读完工 ＋ 五步审查完成**｜`notes/books/novels/give-me-butterflies-by-jillian-meadows/`
 
-**规模**：Chapter 1–46 + Epilogue 共 47 章 ＝ 328 引语块 / 1253 词条 + 概述 / 金句精选25条 / 情感节点10节 = **50 md**；md 47 == text 47 逐章 1:1。当代 STEM 言情长篇，双 POV。
+**规模**：Chapter 1–46 + Epilogue 共 47 章 ＝ 328 引语块 / 1253 词条 + 概述 / 金句精选25条 / 情感节点10节 = **50 md**；md 47 == text 47 逐章 1:1。当代 STEM 言情长篇，双 POV。提取器默认产出 49 件，剔除非正文 2 件（作者说明 ＋ **作者另一本《Wreck My Plans》试读章，NCX 标签同样叫「Chapter 1」**）后为 47。
 
-**完工门禁（完整 lane，gate.sh 一次跑完 18 项）**：**正门结论 0 条阻断型（退出码 0）**｜verify_quotes 348/348（100%，干净 48/48）｜逐章归属 325/325（100%）｜verify_overview_quotes 49/49｜check_overview_full 整串 88 命中/查无 0、章节标签 对 86·不符 0、H1 错配 0｜check_vocab FAIL 0｜check_entities 0｜corruption_scan 0｜sweep_full 跨章 0 拼接 0 查无 0｜audit_structure 缺陷 0｜空段扫描 0。
+**完工门禁**：verify_quotes 348/348（干净 48/48）｜逐章归属 325/325｜总览 49/49｜check_overview_full 整串 88 命中 0 查无、标签对 86·不符 0、H1 错配 0｜check_vocab FAIL 0｜entities 0｜corruption 0｜gate.sh **0 条阻断型（退出码 0）**。
 
-**结构勘定（三处非正文，提取器默认产出 49 件）**：作者说明「Dear Reader」＋**作者另一本《Wreck My Plans》的试读章（NCX 标签同样叫「Chapter 1」）**——按蝴蝶 Girl 先例降级 xx_*，正文按精确 old→new 映射下移一号。
+**五步审查（2026-10-04 用户在同会话发起，a–e 完整执行、未自我豁免）**：门禁全绿、a/b/c 全过，**d/e 查出 44 处阻断型**（总览 6 ＋ 章节 38），全部已整改回源复验。**代理报告抽样回源 27 条，误判率 0**。
+· **换检查路径**：b 步用**逐章模式**（避开有 60 字符前缀 bug 的 `--book-dir`）＋第二实现逐字扫描；d 步机械子项五个第二实现（check_xref_indep / check_analysis_indep / sweep_full / check_nav_layer / check_block_keywords）全 0 告警；人判派 6 组子代理（附本书 6 条真实失败案例 ＋ 4 条防幻觉条款）。
+· **e 步**：25 条金句逐条开 ±200 字符窗口核说话人 ⇒ **25/25 正确**。
+· **三类最重的缺陷，六道门禁全绿**：①**同块自相矛盾**（ch45 中文理解写「他」而同块分析写对；ch28「四个字」与「三个词」两条皆错）②**凭空造物**（情感节点六「鹅卵石小秤」全书 0 命中只存在于总览；概述五「父亲顺路经过＋邀约书」全书无此事件）③**引语逐字对、分析换了主体**（ch35 攻守颠倒、ch34 台词方向反、ch39 迈卡被写成女同事）。44 条里 **26 条落在我自己写的章节与模板**。
+· **⚠️ 波及全书的亲属事实修正**：两个女孩是芬恩的**外甥女**（克拉拉的女儿）不是女儿——ch09 `I kiss my nieces`、ch16/ch47 女孩当面喊 `Uncle`。
+· **假红型（修工具未改 md）**：`check_block_keywords` 306 条报警全是工具坏（正则没消费行尾 `**`；分隔符只收半角 `,` 而本库用全角 `，`）→ 修后 **306→0**，全库回归无新增假阴性。
+· **gilding 硬检查**：271 条引语 **0 处虚构尾巴**；ch41、ch47 两处历史缺陷确认已修。
+· **整改后 gate.sh 正门结论 0 条阻断型（退出码 0）**，工作树干净。
 
-**⭐ 本批最硬的一条**：`gen_overview.py` 的 fail-closed 引语池校验抓出两类 **`verify_quotes` 与 `check_chapter_quotes` 双双假绿**的缺陷——引语尾部接一句本章没有的话（ch41 曾被接上 `, and she waved at me from the window.`）。根因是 52 字符指纹 + 60 字符前缀放行。主会话补跑全书引语逐字精确子串扫描（分叉点二分定位），终值非逐字真缺陷 0。**该扫描应进常规门禁——目前唯一能挡 gilding 的尺子。**
-
-**修掉两处工具假红（判据错、非内容错，306 条误报归零）**：`check_block_keywords` 的 KW_RE 没消费行尾 `**` ⇒ 关键词首词恒变 `**`；_SEP 只收半角 `,` 而本库通行写法是全角 `，`。回归 flashlight 0 / deathless 0 / the-fine-print 1，无新增假阴性。
-
-**自伤事故（已修复）**：批量替换脚本的占位符还原被 `if c:` 守卫跳过，13 文件 140 行含 NUL，当时未入库无基线，只能整章重写；现全库带 NUL 文件 0。
-
-明细与门禁原件见 `.memory/daily/2026-10-04.md` 与 `.memory/raw-gates/give-me-butterflies-by-jillian-meadows/`。**未 push。五步审查未做（待用户发起）。**
+明细与逐条清单见 `.memory/daily/2026-10-04.md` 与 `.memory/reviews/2026-10-04-give-me-butterflies-五步审查.md`；门禁原件 `.memory/raw-gates/give-me-butterflies-by-jillian-meadows/`。**均未 push。**
 
 ### [2026-10-04 16:56 UTC] [ZCode-Mac] → All
 
