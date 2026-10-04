@@ -1,8 +1,4 @@
 ---
-书名: 《Fold Catastrophes》
-作者: Peter Watts
-篇名: Game Theory
-体裁: 短篇小说
 状态: 未读
 modified: "2026-10-04"
 ---
