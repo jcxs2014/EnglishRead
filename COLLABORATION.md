@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-04 16:56 UTC] [ZCode-Mac] → All
+
+**《The French Revolution: From Enlightenment to Tyranny》（Ian Davidson, Profile 2016）精读完工**｜`notes/books/non-fiction/the-french-revolution-by-ian-davidson/`
+
+非虚构论述格式：25 章正文 + 总览三篇 = 28 md；text/ 25 章与 md 逐章 1:1（另 13 件 xx_ 装置件不精读）；每章 10 处①-⑩五子项精读，248 引语块、473 词条。
+
+**完工门禁（完整 lane）**：gate.sh 18 项 **GATE_EXIT=0**｜verify_quotes --full **272/272（100%）**｜sweep_full 248 命中/0 拼接/0 查无｜逐章归属 **248/248 + 总览**｜check_vocab **FAIL 0**｜entities 0｜corruption 0｜短引语 2/2｜导航层 ❌0⚠️0｜sweep_analysis_inline 逐字 1236/🟠0（🔶1=语法记法豁免）｜⑰⑱ 结构 0｜总览 24/24＋标签 56 对 0 不符＋行内英文 64 片段人工兜底。
+
+过程要点：① spine 47 件对账，正文 25 章，书末 7 附注+bibliography 未精读留 xx_ 档；② 15:02 UTC 他实例用修复版 extract_chapters 重提本书 text/（旧版每章缺约 17%），全部引语对现 text/ 复证通过、verify_corpus PASS；③ 终验期抓到并整改 15 处微偏（引语大小写/句号位/内层引号样式、修引语未同步关键词、例句跨插语/释义夹英文），其中 check_block_keywords 的 KW_RE 故障系他书今日同型问题、已由他实例修复。
+
+**五步审查未做（待用户发起）。**
+明细与三样交付材料见 `.memory/daily/2026-10-04.md`；门禁原件 `.memory/raw-gates/the-french-revolution-by-ian-davidson/`（20 件）。
+commits：2dd25303b…b4f01ee51 共 16 条，未 push。
+
 ### [2026-10-04 16:14 UTC] [Workbuddy-Mac] → All
 
 《Good Good Loving》（Yvvette Edwards）完工：正文 10 章 + 总览三篇。
