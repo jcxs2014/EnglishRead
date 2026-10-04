@@ -19,23 +19,23 @@ modified: "2026-10-04"
 
 > **原句 1:** The crack of the domino combined with the loud smack of palm on wood as Backfoot delivered his double-five tile onto the kitchen table with an overarm swing.
 
-开场是一记骨头砸在木桌上的声响：Backfoot 用投球的手法把双五扣在桌上。Wilhelmina 在旁边问了一句——这是游戏还是打仗？
+开场是一记牌砸在木桌上的声响：Backfoot 用板球投球的动作把双五扣在桌上。Franklin 问他这是在打板球吗，Clyde 替他回了一句「你没看见他在投球？」
 
 **关键词**：The crack of the domino / smack of palm on wood / overarm swing
 
-**为什么这样写**：作者用一个拟声句和一句提问为整章定调：**这个家的娱乐方式是比赛**。`overarm swing`（板球投球动作）把多米诺写成了一场运动，而 Wilhelmina 的问题不是修辞——她比在场任何人都清楚牌桌上的输赢规则会蔓延到牌桌外。作者只用了两句就交代了这个客厅的全部气氛：男人在赌，女人在看，而看的人知道会发生什么。
+**为什么这样写**：作者用一个拟声句和一句玩笑为整章定调：**这个家的娱乐方式是比赛**。`overarm swing`（板球投球动作）把多米诺写成了一场运动，而 Wilhelmina 的问题不是修辞——她比在场任何人都清楚牌桌上的输赢规则会蔓延到牌桌外。作者只用了两句就交代了这个客厅的全部气氛：男人在赌，女人在看，而看的人知道会发生什么。
 
 **读者视角提示**：这句话是本章的题眼。后面每一个冲突都发生在这张桌子周围。
 
 > **原句 2:** ‘Evening Gloria,’ said Wilhelmina. ‘Is only now you coming from work?’
 
-Wilhelmina 用一句听起来完全平​​常的话问候刚进门的 Gloria，而屋里只有两个人听出了这句话的刺。
+Wilhelmina 用一句听起来完全平常的话问候刚进门的 Gloria。屋里听出话里有话的，除 Wilhelmina 本人和大概 Gloria 之外，只有艾伦一个。
 
 **关键词**：coming from work / Evening Gloria / said Wilhelmina
 
 **为什么这样写**：作者把一次当众羞辱写成了一句**挑不出毛病的客套**：问「你才下班？」既没有任何冒犯的词，又是一把刀。更精确的是作者只让 Ellen 也听出来，并且补了一句理由——她早就知道 Wilhelmina 对 Gloria 有成见。**在这个家里，听懂攻击是一种社交能力**，而作者让读者比在场多数人听得更清楚，就是要让读者也站在「听懂的人」那边，和 Ellen 一起尴尬。
 
-**读者视角提示**：这一块之后 Wilhelmina 会把同一件事问到不能问的地步（见下一块）。
+**读者视角提示**：Wilhelmina 那句 `Game or war?` 在本章更后面才出现，但这一块已经把它问出来了——后面每一次笑都带着这句的底色。
 
 > **原句 3:** ‘You pregnant?’ Wilhelmina asked and Ellen felt she had gone too far, because everyone knew Gloria and Franklin had been married for must be five years now and, so far, there had been no babies; and everyone also knew there was nothing that would make Gloria and Franklin happier than to have some babies underfoot. Anyone with a bit of compassion in their soul would know the subject was a sore one for them both, yes, but for Gloria in particular, as Franklin already had two children living back home in Montserrat with their mother, clearly inferring that all his equipment was in perfect working order and so any problem bringing more Frank Juniors into the world was down to Gloria.
 
@@ -45,7 +45,7 @@ Wilhelmina 当众问 Gloria 是不是怀孕了，而屋里所有人都知道 Glo
 
 **为什么这样写**：这是本章第一次真正的伤害，作者的处理方式是**先写在场者的共知，再写问句**：大家都知道这对夫妻最想要孩子而一直没有。于是这句话的问题不在于内容，而在于 Wilhelmina 选择在所有人面前、在 Gloria 刚放下包的那一刻说出口。而作者紧接着把镜头交给 Ellen——她想到了别的事，想到了自己丈夫的拉链。**这是本章的核心设计**：每当这个家里有人被羞辱，作者就让 Ellen 在脑子里把它翻译成自己的伤口。
 
-**读者视角提示**：Gloria 的回答是 `Not yet.`——请记住这个回答，她在本书后面的章节会有自己的事。
+**读者视角提示**：Gloria 的回答是 `Not yet.`，她的语气是平的。请记住这个回答——本章结尾那支舞是她跳的。
 
 > **原句 4:** ‘Can I have a brandy and Babycham, please?’ Roxanne asked, which was how every woman in the room knew the girl didn’t have any broughtupsy, because anyone with even a little home training would’ve known not to ask for brandy and Babycham the first time they were introduced to their boyfriend’s parents. Out of politeness, she should’ve asked for a glass of sarsaparilla or a bottle of Cherry B or just the Babycham on its own, even if moving forward no one ever again saw her sober.
 
@@ -55,7 +55,7 @@ Roxanne 第一次上门，点了一杯白兰地加 Babycham，全屋的女人由
 
 **为什么这样写**：作者用一杯酒完成一次阶层与出身的判决。`broughtupsy` 是加勒比英语里很难翻译的词：教养、体面、被教过的分寸。而作者不写任何人的批评——她只写「在场每个女人都知道」这个事实，判决就已经完成了。**作者从不安排人说刻薄话，她安排所有人同时做出同一个判断**，这比任何台词都狠。
 
-**读者视角提示**：Roxanne 在本章之后会一直在这个家里；记住她第一次上门喝的是什么。
+**读者视角提示**：Roxanne 这个人物在全书中只出现在这一章；记住她第一次上门喝的是什么，以及满屋女人由此给她下的判词。
 
 > **原句 5:** Then Wilhelmina laughed and said, as if she was speaking to Ellen but loud and directly to the room, ‘But Ellen, me never realise is three big woman ah live here.’
 
@@ -83,7 +83,7 @@ Wilhelmina 把玩笑开到这间屋子里的三位「大女人」身上，于是
 
 **关键词**：finish you chores after / took hold of one of Claudette’s hands / Come on
 
-**为什么这样写**：作者把全章唯一一次善意留给了一个被本章伤过两次的女人——先被 Wilhelmina 当众追问怀孕，再被同一桌人用玩笑对待。而她做的第一件事是走向两个刚被教训完的女孩，说家务等会儿再做。**舞曲响起之后，所有人（包括那两个刚刚被赶回楼上的女孩）重新回到了同一个房间**——作者不解决矛盾，她只让这个家重新动起来。这就是这本书处理创伤的方式：不解释，不道歉，跳舞。
+**为什么这样写**：作者把全章唯一一次善意留给了一个刚被 Wilhelmina 当众追问过怀孕的女人——Gloria 牵起两个女孩的手，把她们从家务里拉出来，而她说的是「活儿可以等会儿再做」。而她做的第一件事是走向两个刚被教训完的女孩，说家务等会儿再做。**舞曲响起之后，所有人（包括那两个刚刚被赶回楼上的女孩）重新回到了同一个房间**——作者不解决矛盾，她只让这个家重新动起来。这就是这本书处理创伤的方式：不解释，不道歉，跳舞。
 
 **读者视角提示**：本章至此结束。请对照本章开头那句 `Game or war?`——作者让答案落在这一支舞上。
 
