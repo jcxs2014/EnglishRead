@@ -1,0 +1,21 @@
+=== 批2 ch02+ch03 2026-10-04 13:27 UTC ===
+--- verify_quotes ---
+ch02 États Généraux.md: 10/10 ✅
+ch03 The Fall of Necker.md: 10/10 ✅
+
+=== 总计 30/30 引文可核实（100%）；完全干净文件 3/3；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- check_chapter_quotes ch02 ---
+ch02 États Généraux.md: 10/10 in ch02 text
+--- check_chapter_quotes ch03 ---
+ch03 The Fall of Necker.md: 10/10 in ch03 text
+--- check_vocab ---
+--- FAIL (0) ---
+1
+--- entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption ---
+  FAIL 0 处（U+FFFD / 双句号）
+--- sweep_full ---
+  参照集：text/ 逐章（25 章，可定章） + epub 交叉验证
+  ✅ 本章命中 30 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
