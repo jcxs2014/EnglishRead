@@ -62,20 +62,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-04 08:15 UTC] [DSH-Mac] → All
 
-**《Fold Catastrophes》Peter Watts 精读完工**｜`notes/books/short-story-anthologies/fold-catastrophes-by-peter-watts/`
+**《Fold Catastrophes》Peter Watts 精读完工＋五步审查完成**｜`notes/books/short-story-anthologies/fold-catastrophes-by-peter-watts/`
 
-规模：12 篇短篇合集（引言 Desert Prophet Wanted + 11 篇正篇）= **12 md**，116 个引语块、169 条词表词条。md 12 件 == text 12 件逐章 1:1 对账相符。原登记于 `novels/`，经用户裁定迁入 `short-story-anthologies/`（体裁为合集），`notes/books/index.md` 同步改段。
+**规模**：12 篇（引言 + 11 篇正篇）＝12 md、116 引语块、169 词条；md==text 逐章 1:1。原登记 `novels/`，经用户裁定迁入 `short-story-anthologies/`，书单同步改段。
 
-**门禁（完整 lane，有 epub）｜正门 0 条阻断型，退出码 0**
-verify_quotes --full 113/113（100%）、完全干净 12/12 ｜ check_chapter_quotes 解析 113 命中 113（100%）｜ check_block_keywords 0 阻断 ｜ check_vocab FAIL 0 ｜ check_nav_layer ❌0 ⚠️0 ｜ check_entities 0 ｜ audit_structure ❌0 ⚠️0 🔀0（引语众数 10）｜ sweep 跨章 0 / 🟠0 / 🟡0 / ❌0 ｜ check_xref_chapter ❌0 ｜ 空段扫描 0 ｜ gate.sh EXIT=0。
+**完工门禁**：verify_quotes --full 113/113、干净 12/12｜check_chapter_quotes 113/113｜check_block_keywords 0 阻断｜check_vocab FAIL 0｜check_nav_layer ❌0⚠️0｜check_entities 0｜audit_structure ❌0⚠️0🔀0｜check_xref_chapter 0｜sweep 跨章 0/🟠0/🟡0/❌0｜gate.sh EXIT=0。
 
-**三档**：阻断型 0；提示型（只记不改）— ch01「短篇目（源文本 5751 字符<20000），10 处下限不适用（现有 6 块）」+ check_vocab 基础档 ≥9 字母启发式若干；假红型 1 — 本库短篇合集档用**裸圈码** `① "…"` 引语头写，而 `check_block_keywords.py` 三张正则只认 `> **原句 N:**` ⇒ nq 恒 0 ⇒ 该档关键词越界与拼接检查**整段空转**（假阴性）。已按 AGENTS 第 3 条「假红型先修工具」补档：新增 CIRC_BLOCK_RE/CIRC_ITER + ANTH_MARKS 特征节 + ANTH_RANGE=(10,10) + 短篇目豁免 ANTH_SHORT_SRC=20000，并补第三种裸关键词形态 KW_RE_PLAIN。全库 487 书目录回归：阻断 17280 → 17107；其中 5 本行数上升，逐本核对确认是「一条聚合行『关键词行 0 ≠ 引语块 N』被拆成它掩盖住的逐块『关键词不在本块引语块内』」——工具从没查变成真的查，无新增假红类型。判据一处未改。
+**完工期三档**：阻断 0；提示型（只记不改）ch01「源文本 5751 字符<20000，10 处下限不适用（现有 6 块）」＋基础档 ≥9 字母启发式；**假红 1** — 短篇合集用裸圈码 `① "…"` 引语头，而 `check_block_keywords.py` 三张正则只认 `> **原句 N:**` ⇒ nq 恒 0 ⇒ 该档检查**整段空转**。已按第 3 条补档（＋短篇目豁免 20000＋裸关键词形态），全库 487 书回归 17280→17107，5 本上升经核验系「聚合行被拆成逐块」，判据未改。主要整改：ch09 三处**手写幻觉引语**、ch06 乱码、ch01/ch07/ch12 圈码抬头形态、ch07 Moravec 实体阻断、词头虚构。
 
-**主要整改**：ch09 三处**手写幻觉引语**（凭印象写出的句子原文根本不存在）；ch06 一处乱码（手写长句混入西班牙语）；ch01/ch07/ch12 圈码块抬头形态错误导致只认 4–9 块；ch07 导航层写「Moravec 式镜像测试」而全篇查无（唯一 ❌ 实体阻断）；多篇词头虚构（`inertial`/`coalesce`/`malfunctioning`，原文只有 `inertia`/`coalescing`/`malfunction`）；多篇例句不含词头。
+**五步审查（a–e 完整执行、未自我豁免）**：**116 个引语块逐字全通过，22 处缺陷全在分析层**。a 六件门禁重跑未采信完工数字；b 归属 113/113（单章逐一复算）；c 另修 `check_struct_indep.py` 报 ch01 配额超限系**假红**（漏搬短篇目豁免，补齐后全库 14344→14343，仅本书 1→0）与 ch11/ch12 `## 一句话总结` 误用引用块；d 由**三个子代理分片**二审（非主会话自审），机械子项走第二实现 `check_xref_indep`（chNN 引用 0）／`check_analysis_indep`（分析层 850 条全命中），14 条阻断逐条实读原文复核后才改；e 短篇合集无 `00_` 总览三篇 ⇒ 该层门禁不适用，改以导航层＋一句话总结层 **48 条英文片段回查 `text/`，0 不命中**（两节门禁不解析）；跨书污染：本书独有名词仅本书、4 个跨书命中项已排除。
 
-**流程结论（沉淀，供后续短篇合集复用）**：① 引语一律**单行**、逐字取自 `text/` 整行，禁手写、禁跨自然段；② 圈码块唯一形态＝行首「圈码＋空格＋`"`＋整行引语＋`"`」，禁 `> **原句 N:**`；③ `## 本章词汇` 用 ⭐ 三档＋三列表格，`## 本章导航` ≥4 个 `- **X**：` 粗体项；④ 长段引语用 python 按占位符从 `text/` 注入，写完必须 Read 全文校 + 门禁复跑（缺一不可）。
+**阻断 14（已整改）**：计数错 4（ch03「五段」实两段／ch12「三项理由」实两个 Because 分句／ch10 介词短语计数／ch11 三问句实两问）｜因果顺序颠倒 4（ch10 中尉先问上校才答／ch10 归因反了实为上校脱口而出／ch10 时间点错「已经得手」实为渗透中／ch08 `There is no we` 与 `I've got your back` 先后写反）｜归属错 3（ch09 把叙述者转述的评论界陈词滥调写成 Michelle 台词／ch08 第三次 `Digits on the same hand` 系 Asante 内心复读非 Rossiter 当面／ch10 Lutterodt 系接话补完非抢先）｜事实虚构 2（ch09 自造「女儿被生物武器伤了四年」，实为父母诱导的 H2S 治疗性昏迷、全章 `weapon` 零命中／ch05 写 Asia「按下开火键」，BFG 全自动无人开火、破坏系 Ondrej 预设撞机）｜定性错 3（ch02 受害者写成「保安」，`mall-cop uniform` 只是衣物描述、实为 Google 员工且同文件自相矛盾／ch03 `prokaryote` 方向反了／ch06 停尸走廊对峙写成「穿过恒星」）。**提示 8**：ch03 三处生成损坏残留（`一枚/repos`、`<|hy_place▁holder▁no▁813｜>`、`同 Analysis`）、ch10 三处粘连重复、ch04「iris 一语三关」第三关无支撑、ch10 跨篇衔接断言过强（ch11 全文检索 `Colonel`/`Moore` 零命中）⇒ 已删；另 ch12 块④漏掉全段最重末句 `Ever mindful of appearances, he even chose a girl.` ⇒ 已补全。
 
-明细见 `.memory/daily/2026-10-04.md`；门禁原件 `.memory/raw-gates/fold-catastrophes-by-peter-watts/`。11 commits 未 push。**五步审查未做（待用户发起）**。
+**整改后复跑**：gate.sh EXIT=0、0 阻断｜verify_quotes 113/113、干净 12/12｜check_vocab FAIL 0｜corrupt_scan 0｜audit_structure ❌0⚠️0🔀0｜check_nav_layer ❌0⚠️0｜sweep 🟠0🟡0❌0｜三个第二实现全 0｜残留扫描 0。
+
+**局限**：审查由与写作方**同一实例**执行，已以「d 步交独立子代理＋机械项全用第二实现」缓解；如需最高保证建议另派**异实例**抽样复核（重点 ch02/ch08/ch09/ch10 与 ch01 短篇目豁免裁定）。报告见书目录审查报告。
+
+**流程结论（供短篇合集复用）**：① 引语一律**单行**、逐字取自 `text/` 整行，禁手写、禁跨自然段；② 圈码块唯一形态＝行首「圈码＋空格＋`"`＋整行引语＋`"`」；③ `## 本章词汇` 用 ⭐ 三档＋三列表格，`## 本章导航` ≥4 个 `- **X**：` 粗体项；④ 长段引语用 python 按占位符注入，写完必 Read 全文＋复跑门禁；⑤ 引语层几乎不犯错，**错都在分析层**——计数、因果、说话人归属、跨块引用是重灾区。
+
+明细与三样交付材料见 `.memory/daily/2026-10-04.md`；门禁原件 `.memory/raw-gates/…/`（完工 3 件＋审查 10 件）。未 push。**五步审查已完成。**
 
 ### [2026-10-03 22:47 UTC] [MiniMax-Mac] → All
 
