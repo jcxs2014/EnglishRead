@@ -178,4 +178,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-她把三样东西对上了：一个音（`half square, half cross, and circle` 拼出来的、母亲说错了一辈子的姓）、一个名字（`Because it means ‘victory.’`，一个当年被挑来听成 `‘Victory for Japan.’` 的名字）、一段被删掉的历史（`Nothing aligns.`，以及 `he and Anne` 早就相识）。对上的同一刻她选择撒谎，并把这场重衔定义成一次不许公开的私事；而关于他最后该去哪个国家，答案早就写好了：`by not moving.`九月他得了肺炎，她在一张复苏表单上逐项答“不”，只在吗啡那一项答“是”，最后看着他的喉咙 `she saw when the rippling ceased.`
+她把三样东西对上了：一个音（`half square, half cross, and circle` 拼出来的、母亲说错了一辈子的姓）、一个名字（`Because it means ‘victory.’`，一个当年被挑来听成 `‘Victory for Japan.’` 的名字）、一段被删掉的历史（`Nothing aligns.`，以及 `he and Anne` 早就相识）。对上的同一刻她选择撒谎，而这场重衔从头到尾没有人证，也没有物证；而关于他最后该去哪个国家，答案早就写好了：`by not moving.`九月他得了肺炎，她在一张复苏表单上逐项答“不”，只在吗啡那一项答“是”，最后看着他的喉咙 `she saw when the rippling ceased.`
