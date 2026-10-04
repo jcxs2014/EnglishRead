@@ -7,13 +7,13 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：九岁的 Louisa 随父母搬到日本一座小城：父母一路把事情搞砸，她在观光合影上因为笑而被当众喝止，从此练出 `Japanese Smile`；母亲在公寓里渐渐不成其为母亲，而父亲带她去海边见一位老友石板太太——石板太太盯着她的脸像在记一张要带走的地图，她却在临别时说：我不想认识她。
+- **一句话概括**：九岁的 Louisa 随父母搬到日本一座小城：父母一路把事情搞砸，她在观光合影上因为笑而被当众喝止，从此练出 `Japanese Smile`；母亲在公寓里渐渐不成其为母亲，而父亲带她去海边见一位老友石田太太——石田太太盯着她的脸像在记一张要带走的地图，她却在临别时说：我不想认识她。
 
 - **情感弧线位置**：从「计划失败」的抵触一路下沉到「不像自己」。压力不是被追问出来的，而是没人看见她：观光车上、合影队伍里、放学路上，所有人都照旧，也不看她。
 
 - **人物弧线**：Louisa 从一个自认准备周全的小旅客，变成必须靠抿唇藏牙、低头走路才能在人群里不显眼的九岁孩子；她把内疚和生气都归到母亲身上（`she wished her mother might in some painless way disappear`），并在出门前唯一一次直接对父亲说出拒绝（`I don’t want to know her`）。
 
-- **叙事手法**：第三人称限制视角紧贴九岁的 Louisa，作者借用孩子的分类法命名情绪（`another bad way—guilty` 接 `a third bad way—angry`）和场景——先 `Louisa imagined` 出理想中的石板太太，再让现实替换掉；收尾把解释权推给之后：父亲只回一句 `You’ll understand later`。
+- **叙事手法**：第三人称限制视角紧贴九岁的 Louisa，作者借用孩子的分类法命名情绪（`another bad way—guilty` 接 `a third bad way—angry`）和场景——先 `Louisa imagined` 出理想中的石田太太，再让现实替换掉；收尾把解释权推给之后：父亲只回一句 `You’ll understand later`。
 
 ## 精读
 
@@ -69,7 +69,7 @@ modified: "2026-10-03"
 
 > **原句 6:** No one paid attention to them as they walked, and Louisa’s chest swelled with relief and her shoulders straightened up to their actual height. She strode along arrogantly with her arrogant father, his Japanese newspaper shoved under his arm, his Japanese questions businesslike and even brusque as he asked for directions. Mrs. Ishida, Louisa imagined, was a twinkle-eyed white-haired old woman in a dark blue kimono who would bow while extending a tray full of sweet buns and candy. Louisa had installed her in an old-fashioned Japanese house with scrolled eaves and a quaint wooden bridge arching over a pond full of koi. But Mrs. Ishida turned out to live in just the same kind of dingy, cluttered, damp-smelling apartment building as everyone else in Japan. Louisa and her father ducked under one clothesline after another, tripping over babies’ toys, as they made their way down a second-floor breezeway reading the numbers on the matching wooden doors. When Mrs. Ishida’s door opened, no twinkle-eyed white-haired old lady stood there but a slight, youngish woman who stared at them as if they’d made an error, knocking on her door.
 
-路上没人注意他们，她松了口气，肩膀回到真实的高度。她先在心里造出一个石板太太：眯着笑眼、白发、深蓝和服，端着一盘甜面包和糖果，住进屋檐带卷、带木桥和锦鲤池的老式房子。可门开的时候，站着的不是那位眯眼白发的老太太，而是一个瘦小、看起来还年轻的女人，盯着他们像在说你们敲错门了。
+路上没人注意他们，她松了口气，肩膀回到真实的高度。她先在心里造出一个石田太太：眯着笑眼、白发、深蓝和服，端着一盘甜面包和糖果，住进屋檐带卷、带木桥和锦鲤池的老式房子。可门开的时候，站着的不是那位眯眼白发的老太太，而是一个瘦小、看起来还年轻的女人，盯着他们像在说你们敲错门了。
 
 **关键词**：twinkle-eyed / shoulders straightened / ducked
 
@@ -79,17 +79,17 @@ modified: "2026-10-03"
 
 > **原句 7:** Later on that chilly afternoon Mrs. Ishida insisted on taking a photograph of Louisa and her father as they stood shoulder to shoulder, unsmiling, with the restless gray water behind them. And later still they stood again at the door to Mrs. Ishida’s apartment, amid the clotheslines and the laundry clipped with pink and blue and yellow plastic clothespins, and Mrs. Ishida bent and stared at Louisa as if her face were a map of someplace Mrs. Ishida was going, where she wouldn’t be able to bring the map with her, so that she had to memorize it on the spot. She stared at Louisa so long Louisa blushed, and then her face turned cold, and then she herself stared at her sneakers, which were stained at the toes from beach water, and coated with grit.
 
-那天下午石板太太坚持给 Louisa 和父亲拍照，两人肩并肩、不笑，身后是躁动的灰水。再后来在门口，石板太太弯下腰盯着 Louisa 看，仿佛她的脸就是一张要去某处的地图，而那地方带不走地图，所以必须当场背下来。她盯得太久，Louisa 先是脸红，接着脸发冷，最后低头去看自己被海水和沙砾弄脏的球鞋。
+那天下午石田太太坚持给 Louisa 和父亲拍照，两人肩并肩、不笑，身后是躁动的灰水。再后来在门口，石田太太弯下腰盯着 Louisa 看，仿佛她的脸就是一张要去某处的地图，而那地方带不走地图，所以必须当场背下来。她盯得太久，Louisa 先是脸红，接着脸发冷，最后低头去看自己被海水和沙砾弄脏的球鞋。
 
 **关键词**：map / memorize / clothespins
 
 **为什么这样写**：比喻的机关在限制条件：`where she wouldn’t be able to bring the map with her`——带不走，所以只能背。这个限制把「久别重逢」改写成「离别前的一次勘测」，而且是单方面的、即刻生效的。后面三个短句（脸红、发冷、低头看鞋）是身体在没有词可用时给出的答案：她读不懂这张地图，于是退回到最实的东西上，连布景也一并交代在 `pink and blue and yellow plastic clothespins` 里。
 
-**读者视角提示**：石板太太要去哪里、本章没有交代；别替她填这个洞，作者留给后面的章节。
+**读者视角提示**：石田太太要去哪里、本章没有交代；别替她填这个洞，作者留给后面的章节。
 
 > **原句 8:** Hours ago, when they had set out for the beach, Louisa had felt a traitorous pride, walking in between her father and Mrs. Ishida. Pride because both of the adults were narrow and tall and had same-enough faces as everyone else in the street, and identical hair. No one turned at the sight of a different-faced, pale, blue-eyed woman, because that face wasn’t along on this trip. The presence of Mrs. Ishida proved Louisa could blend herself into Japan, if only her mother were not there to give her away. She had dared to pretend that her father and Mrs. Ishida were really her parents, for everyone seeing them must have assumed this. But now, far from wishing that Mrs. Ishida could be her real mother, Louisa never wanted to see her again. When her father voiced the opposite thought, she said, “Why? I don’t want to know her.”
 
-几小时前她还带着一种背叛性的骄傲走在父亲和石板太太中间：两个大人都又窄又高、和街上的人长得差不多，连头发都一样，于是没人转头看那张不同的、苍白的、蓝眼睛的脸——因为那张脸没跟来。石板太太在场上证明了她可以把自己溶进日本，只要母亲不在场拆穿。她甚至敢假装这两位就是她真正的父母。可此刻她一点也不想再见石板太太；父亲刚说出相反的想法，她就回了一句：我不想认识她。
+几小时前她还带着一种背叛性的骄傲走在父亲和石田太太中间：两个大人都又窄又高、和街上的人长得差不多，连头发都一样，于是没人转头看那张不同的、苍白的、蓝眼睛的脸——因为那张脸没跟来。石田太太在场上证明了她可以把自己溶进日本，只要母亲不在场拆穿。她甚至敢假装这两位就是她真正的父母。可此刻她一点也不想再见石田太太；父亲刚说出相反的想法，她就回了一句：我不想认识她。
 
 **关键词**：traitorous / blend / give her away
 
@@ -161,4 +161,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-在日本的第一年，Louisa 用一个假笑换来了一个能活下去的姿势——抿住嘴唇、藏起牙齿、低下头；母亲则在四楼那间公寓里慢慢不再像个母亲。她父亲带她去海边见石板太太，那位太太把她的脸当成一张必须当场背下来的地图；回程的火车上她睡着了，被父亲扛在肩上，一句解释也没有得到。
+在日本的第一年，Louisa 用一个假笑换来了一个能活下去的姿势——抿住嘴唇、藏起牙齿、低下头；母亲则在四楼那间公寓里慢慢不再像个母亲。她父亲带她去海边见石田太太，那位太太把她的脸当成一张必须当场背下来的地图；回程的火车上她睡着了，被父亲扛在肩上，一句解释也没有得到。
