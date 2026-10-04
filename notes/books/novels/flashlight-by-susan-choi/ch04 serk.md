@@ -123,7 +123,6 @@ Tom 没有再出现，Mrs. Lee 也走了，他没弄清去向；而他拖了几�
 | long-sleeved | 长袖的 | The wife was doing only marginally better in an ugly long-sleeved dress that looked like a churchgoing outfit. |
 | cancellations | 邮戳销记 | Even with their cancellations, they evoked for him no thought of the borders and distances it was their primary purpose to cross. |
 | transaction | 交易 | They were innocent of human transaction. |
-| accusation | 指控 | “I apologize for the accusation. |
 
 ### ⭐⭐ 进阶
 
@@ -149,6 +148,7 @@ Tom 没有再出现，Mrs. Lee 也走了，他没弄清去向；而他拖了几�
 | unavoidably | 不可避免地 | By now he had unavoidably come to know Mr. Lee, or rather “Tom,” that being the young man’s solution for Tae-Min. |
 | straightened | 挺直身子 | Mr. Lee straightened and his wife followed suit. |
 | struggling | 吃力的（此处修饰口音） | Mr. Lee finally said, with confidence in his words, if a struggling accent. |
+| accusation | 指控 | “I apologize for the accusation. |
 
 ### ⭐ 基础
 

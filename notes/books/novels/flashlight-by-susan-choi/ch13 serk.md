@@ -194,6 +194,8 @@ modified: "2026-10-03"
 | paralyzed | 麻痹、僵住 | Serk’s hand continued to hang in the air, paralyzed. |
 | advocated | 力主、极力主张 | “I’ve tirelessly advocated for you. |
 | suffering | 苦难、痛苦 | Then he learned what real suffering was. |
+| countrymen | 同胞（同国之人） | Our attackers—your countrymen—brought us to this place, or at least they brought me. |
+| portrait | 肖像照 | It’s a portrait, of a baby, at the age when if set on its bottom, it can hold itself upright just long enough to create the exposure. |
 
 ### ⭐ 基础
 
@@ -201,7 +203,6 @@ modified: "2026-10-03"
 |---------|------|------|
 | flashlight | 手电筒 | He would remember the man holding the flashlight, and then the man being gone. |
 | silvery eye | 银色的「眼」（那只手电的端面） | He found a silvery eye staring at him. |
-| portrait | 肖像照 | It’s a portrait, of a baby, at the age when if set on its bottom, it can hold itself upright just long enough to create the exposure. |
 | notebook | 笔记本 | He hadn’t yet opened his notebook. |
 | cigarette | 香烟 | He startled as the cigarette scorched him—he’d let it burn down to his fingers. |
 | matchbox | 火柴盒 | Serk was ashamed of his trembling hands that could not pull a cigarette out of the pack nor a match from the matchbox. |
@@ -214,7 +215,6 @@ modified: "2026-10-03"
 | bare soles | 赤裸的脚底 | Outdoors the shock of wet cold stung his nostrils and numbed the bare soles of his feet. |
 | blood swoon | 血涌上头、发晕 | The cigarette made his blood swoon. |
 | brutal action | 暴行 | “Such a brutal action is hard for me to reconcile. |
-| countrymen | 同胞（同国之人） | Our attackers—your countrymen—brought us to this place, or at least they brought me. |
 | earliest handlers | 最初的看守者 | In their sincere hope of redeeming your consciousness, your earliest handlers spun a fairy tale of your daughter for you. |
 | extreme caution | 极度小心 | Always, his extreme caution was at war with his fear that he might miss a chance. |
 | fairy tale | 童话（编出来的故事） | In their sincere hope of redeeming your consciousness, your earliest handlers spun a fairy tale of your daughter for you. |

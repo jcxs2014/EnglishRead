@@ -104,7 +104,6 @@ Tobias 的信里没有喊她一声「母亲」，只写了 Anne。Anne 被打动
 | 词/短语 | 释义 | 例句 |
 |---------|------|------|
 | retribution | 神罚、报应 | Not for the first time, she thought, Divine retribution, another machine of the gods. |
-| transpacific | 跨太平洋的 | At some point, transpacific, they crossed the International Date Line, which meant the trip took either two days, or none. |
 | compliance | 顺从、屈从 | Anne was aware that her new secret unhappiness played a large part in making this possible, by ensuring her numb compliance. |
 | sensations | 感觉（此处指本不该存在的幻感） | Losses of normal sensation, and gains of ghost sensations that shouldn’t exist. |
 | astonishing | 惊人的、令人错愕的 | The fact of the letter was astonishing, but its contents were brief; the hand beautifully clear, but the words rather vague. |
@@ -149,6 +148,7 @@ Tobias 的信里没有喊她一声「母亲」，只写了 Anne。Anne 被打动
 | reverted | 退回、恢复原状 | Now the town reverted to its prior opacity, with this new information that daily life was organized around religion. |
 | ginkgoes | 银杏（复数） | This avenue of ginkgoes, I’ve cycled down it several times, now I find that it’s yours! |
 | playmates | 玩伴 | Because now she has playmates. |
+| transpacific | 跨太平洋的 | At some point, transpacific, they crossed the International Date Line, which meant the trip took either two days, or none. |
 
 ### ⭐ 基础
 

@@ -117,7 +117,6 @@ Louisa 甚至试过把 Anne 的名字从她这里偷走——办法是反过来�
 | manuscript-helper | 写稿助手（作者造的复合词，指替对方看懂意图的那部分自己） | But the manuscript-helper in her—the part of her that had known so well, not how to make Dr. |
 | salutation | 书信开头的称呼 | No salutation was needed to tell them apart. |
 | subspecies | 亚种（此处比作另一种形态的爱） | From a distance of decades Anne could see it had been a subspecies of love. |
-| countrymen | 同乡、同国人 | They are countrymen or rather country people of his, a couple like us, man and wife. |
 | thunderstruck | 大吃一惊 | I was thunderstruck when it came. |
 | hysterical | 歇斯底里的 | Tom’s wife was in such a state that when the landlady went to put the phone back on the hook Tom’s wife got even further hysterical. |
 | transgressing | 越界、犯禁（此处指在信里说了心里话） | She’d felt herself transgressing in writing this letter, despite her light tone. |
@@ -154,6 +153,7 @@ Louisa 甚至试过把 Anne 的名字从她这里偷走——办法是反过来�
 | condescends | 居高临下地说话 | “If you’re going to look, look,” condescends Louisa. |
 | accusation | 指控 | Anne is surprised by what seems to be Louisa’s effort to infuse the words more with question than accusation. |
 | carrying-on | （此处指又哭又闹的一阵折腾） | The landlady was a nice woman but all Tom’s wife’s carrying-on had tried her patience. |
+| countrymen | 同乡、同国人 | They are countrymen or rather country people of his, a couple like us, man and wife. |
 
 ### ⭐ 基础
 
