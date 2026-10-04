@@ -189,11 +189,11 @@ Ryan 最终决定不向 Joe 提 Paige 的事，说他的重点应该在 Joe 的�
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 |FedEx | 联邦快递 | There's a FedEx packet for you. |
-| harvest | 收获、收割 | They brought in a first harvest of lima beans. |
+| harvest | 收获、收割 | The men brought in a first harvest of lima beans. |
 | lima beans | 利马豆、青豆 | There's only enough for each man to have a small serving of lima beans. |
 | mushy | 软的、粉状的 | When they get big and fat, the beans can turn mushy. |
-| tamper | 擅自改动、翻动 | His storage box had been tampered with. |
-| snoop | 窥探、翻找 | Someone has been snooping around in your stuff. |
+| inspect | 检查、审视 | He quickly inspected the entire contents of the box. |
+| snoop | 窥探、翻找 | Check your box to see if anyone has been snooping around in your stuff |
 | ambulance | 救护车 | Tom was in an ambulance on his way to Charlotte. |
 | abdomen | 腹部 | Paige felt a sharp pain in her abdomen. |
 
@@ -202,13 +202,13 @@ Ryan 最终决定不向 Joe 提 Paige 的事，说他的重点应该在 Joe 的�
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | packet | 包裹、文件袋 | There's a FedEx packet for you. |
-| letter | 信 | He received a letter from Barbara. |
-| Bible | 圣经 | He kept his study Bible in the bottom of the box. |
+| letter | 信 | It contained photographs of his sister and her family, as well as a letter from Barbara. |
+| Bible | 圣经 | Joe always kept his study Bible in the bottom right-hand corner of the box. |
 | heart attack | 心脏病发作 | Tom had a heart attack. |
 | hospital | 医院 | He's in ICU at the hospital. |
 | pray | 祈祷 | He's going to be praying for him. |
-| lawyer | 律师 | My family hired a lawyer to try to get you out. |
-| guard | 狱警 | The guard let him inside. |
+| lawyer | 律师 | I heard your family hired a lawyer to try to get you out. |
+| guard | 狱警 | The guard let him inside when he told him why he was there. |
 
 ---
 

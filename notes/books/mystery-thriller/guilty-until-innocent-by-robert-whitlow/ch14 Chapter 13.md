@@ -114,15 +114,15 @@ Deshaun 描述原谅 Kiesha 的过程：说出口很难，但她哭了；然后�
 
 ---
 
-> **原句 9：** "I think you're one hundred percent correct," Joe said. As soon as Ray spoke, Joe knew what he said was true.
+> **原句 9：** "I think you're one hundred percent correct," Joe said.
 
-Joe 认同 Ray 关于属灵复兴的观点。这两句话形成回环：Joe 先说出认同，随后作者用「Joe 一听就知道他说的是真的」强调这种认同发自内心，而非客套。
+Joe 认同 Ray 关于属灵复兴的观点。Joe 直接表达认同，语气果断。
 
-**中文理解**："我觉得你说得百分之百对。"Joe 说。Ray 一开口，Joe 就知道他说的句句是真。
+**中文理解**："我觉得你说得百分之百对。"Joe 说。
 
-**句子结构**：`As soon as Ray spoke`（时间状语从句）+ `Joe knew what he said was true`（主句 + what 引导的宾语从句）。第二句是对第一句的深化。
+**句子结构**：直接引语 + `Joe said`（引述动词后置）。简短有力，是 Joe 对 Ray 判断的完全认同。
 
-**关键词**：`one hundred percent correct` — 百分之百正确，强调 Joe 对 Ray 判断的完全认同。
+**关键词**：`one hundred percent correct` — 百分之百正确，强调 Joe 对 Ray 观点的无保留赞同。
 
 ---
 
@@ -246,13 +246,13 @@ Tom 告诉 Ryan：他已经想过 Charlie Drummond 的问题，认同 Ryan 的�
 
 ---
 
-> **原句 20：** "Did Tom tell you about the spat I'm having with the bank?" Charlie said.
+> **原句 20：** "Good morning," Charlie said. "Did Tom tell you about the spat I'm having with the bank?"
 
 Charlie 向 Ryan 提及他与银行之间的纠纷。这为后文 Ryan 调查此事埋下伏笔。
 
-**中文理解**："Tom 告诉你我最近和银行闹的纠纷了吗？"Charlie 说。
+**中文理解**："早啊，"Charlie 说，"Tom 告诉你我最近和银行闹的纠纷了吗？"
 
-**句子结构**：直接引语 + `the spat I'm having with the bank`（spat 是口语，指小争执；with the bank 介词短语作定语）。
+**句子结构**：两个直接引语由 `Charlie said` 分隔；`the spat I'm having with the bank` 中 spat 是口语，指小争执。
 
 **关键词**：`spat` — 小争执、口角，与后文正式的银行纠纷文件形成反差。
 
@@ -276,35 +276,27 @@ Charlie 直接点出 Ryan 去监狱见 Joe Moore 的事——他没有通过 Tom
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| desperate | 绝望的、孤注一掷的 | He began with a high, desperate note. |
+| desperate | 绝望的、孤注一掷的 | He raised the harmonica to his lips and began with a high, desperate note. |
 | kingdom | 国度、神国 | God wants you focused on advancing the kingdom. |
-| revive | 复兴、苏醒 | I think we're on the verge of a revival. |
-| reconcile | 和解、重归于好 | Deshaun told her about getting his life turned around. |
-| fortitude | 坚韧、刚毅 | She showed fortitude in facing her fears. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| harmonica | 口琴 | Joe took his harmonica to the bench outside Unit C. |
-| ministry | 牧养事工 | Our ministry is growing in the prison. |
-| forgiveness | 宽恕、原谅 | It was hard, but I forgave her. |
-| spiritual | 属灵的、心灵的 | There's a hunger in the men that fried okra can't satisfy. |
-| testimony | 见证、证词 | His testimony moved the courtroom. |
+| ministry | 牧养事工 | He, too, was hopeful about the future of their ministry. |
 | separation | 分离、离别 | The sorrow of separation that could never be overcome. |
-| confidential | 保密的、机密的 | Charlie's business and our work for Moore must be kept separate. |
+| harmonica | 口琴 | Joe took his harmonica to the bench outside Unit C. |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| prison | 监狱 | I drove to the prison yesterday. |
-| lawyer | 律师 | My family wants to hire their law firm. |
+| prison | 监狱 | It was never totally dark at the prison. |
+| lawyer | 律师 | I promised the young lawyer I'd pray about it. |
 | pray | 祈祷 | I promised the young lawyer I'd pray about it. |
-| forgive | 原谅 | It was hard, but I forgave her. |
-| dark | 黑暗的 | I couldn't live in the dark place where I went last night. |
+| dark | 黑暗的 | I knew I couldn't live in the dark place where I went last night. |
 | family | 家人 | Tonight, thoughts of his family provided the emotions. |
-| blues | 蓝调音乐 | He began playing the blues. |
+| blues | 蓝调音乐 | Joe raised the harmonica to his lips and began playing the blues. |
 
 ---
 

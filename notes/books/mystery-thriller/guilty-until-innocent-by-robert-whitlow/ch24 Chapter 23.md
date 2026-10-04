@@ -225,7 +225,7 @@ Ryan 向 Danny 透露他可能要提交 MAR（Motion for Appropriate Relief，�
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| leniency | 宽大、从轻发落 | There was a letter from Mr. Drummond asking for leniency. |
+| leniency | 宽大、从轻发落 | There was a letter to the sheriff's department from Mr. Drummond asking for leniency. |
 | corroborate | 证实、印证 | I need to corroborate Garrison's presence at the nightclub. |
 | interim | 临时的、过渡的 | I'm going to be the interim district attorney. |
 | disorderly conduct | 扰乱秩序行为 | Multiple arrests for disorderly conduct. |
@@ -240,7 +240,6 @@ Ryan 向 Danny 透露他可能要提交 MAR（Motion for Appropriate Relief，�
 | off-limits | 禁止接触的 | Someone in here wants to keep his life outside off-limits. |
 | nursing home | 养老院 | How are you going to feel when I show up at your nursing home? |
 | charity | 慈善机构 | They go straight to a charity of the loser's choosing. |
-| jurisdiction | 管辖区域 | （未出现在本章，选择性记忆） |
 
 ### ⭐ 基础
 

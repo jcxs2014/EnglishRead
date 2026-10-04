@@ -207,7 +207,7 @@ Joe 在诗篇中寻找一节能作为祷告锚点的经文，为 Deshaun 和 Kie
 | breakfast | 早餐 | Two for breakfast, Ryan said. |
 | Bible | 圣经 | Bible in hand, Joe left the unit and, without fanfare, turned right. |
 | prison | 监狱 | The wake-up call time at the prison was 5:30 a.m. |
-| pray | 祈祷 | He was looking for a Scripture to anchor his prayers. |
+| prayers | 祈祷（复数） | He was looking for a Scripture that would serve as an anchor for his prayers on behalf of Deshaun and Kiesha. |
 | morning | 早晨 | Let the morning bring me word of your unfailing love. |
 | wife | 妻子 | I wanted to invite you and Mr. Drummond to meet my wife. |
 | local | 本地的 | It's one hundred percent local. I know the farmer who raises and butchers the hogs. |

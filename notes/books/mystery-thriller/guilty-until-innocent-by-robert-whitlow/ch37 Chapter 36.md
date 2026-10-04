@@ -176,43 +176,34 @@ Ryan 关心 Karen 对 Tom 病情的消息，但 Nancy 的"我不指望有什么"
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| devotion | 虔诚、献身 | the equally sincere promises from Vicki and Candy |
+| loyal | 忠诚的 | I'm a young lawyer, but I'm loyal to Tom and wouldn't want to do anything to hurt him. |
+| devastating | 毁灭性的 | It would be devastating for Ryan if a third job collapsed. |
 | eavesdrop | 偷听 | the chance to eavesdrop on the conversations |
-| testify | 作证、见证 | reading your beautiful testimony |
-| chaplain | 牧师、神职人员 | Nothing about him seems honest to me. |
-| counsel | 法律顾问、建议 | I'd like to give you some friendly advice |
-| loyal | 忠诚的 | I'm loyal to Tom and wouldn't want to do anything to hurt him. |
-| devotion | 奉献、虔诚 | Hearing the commitment of support from Madge, a mature Christian, meant even more. |
-| devastate | 摧毁、毁灭 | It would be devastating for Ryan if a third job collapsed. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | surgery | 手术 | "Tom's out of surgery," Ryan said. |
-| revenue | 收入 | Forty percent of Tom's revenue last year came from Charlie. |
-| representation | 代理、代表 | your representation of the man who murdered his sister |
+| revenue | 收入 | Forty percent of Tom's revenue last year came from Charlie and his companies. |
 | confession | 忏悔、供述 | Ned's confession the previous evening |
 | guard | 警卫、看守 | A guard trailed along behind the group. |
 | hoe | 锄头 | Ray was using the hoe in his hand for a walking stick. |
-| testify | 作证 | I just finished reading your beautiful testimony. |
-| appointment | 约会、任命 | Do you have time to meet today around 11:00 a.m.? |
-| transcript | 转录 | I had the witness statements transcribed. |
-| deposit | 沉积、存放 | Moore's DNA on the handle of the knife |
+| transcript | 转录 | I had the witness statements in the Moore case transcribed. |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | pray | 祈祷 | I'm going to pray for you and Ryan. |
-| heart | 心脏 | Tom's heart surgery |
+| heart | 心脏 | the doctors weren't able to complete Tom's surgery as they'd hoped |
 | lawyer | 律师 | I'm a young lawyer, but I'm loyal to Tom. |
-| client | 客户 | Charlie Drummond is one of your best clients. |
-| prison | 监狱 | Joe and Ray walked toward the garden at the prison. |
-| DNA | DNA | They found Moore's DNA on the handle of the knife. |
-| office | 办公室 | Ryan went to his boss's office. |
-| home | 家 | Our life here is falling apart. |
-| call | 打电话 | Her phone vibrated and Ryan called. |
+| client | 客户 | Charlie Drummond. This Joe Moore matter is becoming a bigger and bigger negative. |
+| prison | 监狱 | He's in prison. Honest people are hard to find. |
+| DNA | DNA | They found Moore's DNA on the handle of the knife and the blade. |
+| office | 办公室 | Ryan went to his boss's office and stared at the empty chair behind the desk. |
+| home | 家 | I should be back in an hour and a half, and then I'll stay until ten o'clock. |
+| call | 打电话 | Her phone vibrated. |
 
 ---
 

@@ -119,16 +119,14 @@ Norman 在通话结束时表达愿意继续帮助 Ryan。这是全章的关键�
 | habeas corpus | 人身保护令 | A federal habeas corpus action wasn't available |
 | methamphetamine | 冰毒 | under the influence of methamphetamine |
 | fingerprint | 指纹 | The defendant's fingerprints were on the knife |
-| syndrome | 综合征 | （本章节未出现） |
-| custody | 羁押 | （本章节未出现） |
+| appellate | 上诉的 | Verdict was affirmed on appeal. No MARs have been filed. |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| prison | 监狱 | Lower Piedmont Correctional Center |
+| prison | 监狱 | Lower Piedmont Correctional Center houses the defendant. |
 | lawyer | 律师 | Mitchell Norman, the lawyer at Sue's former firm |
-| judge | 法官 | （本章节未出现） |
 | case | 案件 | your client's case |
 | guilty | 有罪的 | convicted...guilty of murder |
 

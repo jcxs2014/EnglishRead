@@ -2,6 +2,7 @@
 title: "Guilty Until Innocent"
 author: "Robert Whitlow"
 publisher: "Thomas Nelson"
+source_text: ch20
 ---
 
 # Chapter 19
@@ -187,7 +188,7 @@ Ryan 告诉 Nancy 他计划去调查谋杀案现场——这是他接手 Joe 案
 | whimpers | 呜咽、发出低吠声 | Sandy, who was on her bed in the laundry room next to the kitchen, whimpered. |
 | concern | 关切、担忧 | She felt a deep, unexpected concern for Tom Clark. |
 | deflated | 泄气的、沮丧的 | After the prayers by both Joe Moore and Paige, Ryan felt deflated. |
-| desperately | 迫切地、极度地 | He wasn't just Ryan's boss, but a man in desperate need of help. |
+| desperately | 迫切地、极度地 | He wasn't just Ryan's boss and a distant relative, but a man in desperate need of help. |
 | retainer | （律师的）预付金、保留费 | He deducted the amount from the retainer. |
 
 ### ⭐⭐ 进阶
@@ -200,8 +201,8 @@ Ryan 告诉 Nancy 他计划去调查谋杀案现场——这是他接手 Joe 案
 | COVID positive | 新冠阳性 | He tested positive for COVID. |
 | blood clot | 血栓 | The risk of blood clots being greater until he's clear of infection. |
 | scout out | 实地侦察、前往查看 | I'm going to scout out the nightclub where the murders took place. |
-| client billing | 客户计费 | We were overcharged by almost two hours for the time at the prison. |
-| prayer | 祈祷 | Talking to God felt as natural as speaking with a friend. |
+| invoice | 发票、账单 | We have a question about the invoice for the initial discussions at the office. |
+| prayer | 祈祷 | After the prayers by both Joe Moore and Paige, Ryan felt deflated. |
 
 ### ⭐ 基础
 
@@ -209,9 +210,9 @@ Ryan 告诉 Nancy 他计划去调查谋杀案现场——这是他接手 Joe 案
 |------|------|------|
 | heart attack | 心脏病发作 | Who's the person who suffered the heart attack? |
 | surgery | 手术 | Tom is scheduled for open-heart surgery. |
-| hospital | 医院 | Tom had a heart attack and is in Charlotte for treatment. |
+| hospital | 医院 | Tom should be settled in at the hospital in Charlotte. |
 | baby | 婴儿、胎儿 | Paige laid her hand on her abdomen and prayed again for her baby. |
-| pray | 祈祷 | She felt tears well up in her eyes. |
+| pray | 祈祷 | Joe didn't pray, but several other men did. |
 | lawyer | 律师 | What did your young lawyer say? |
 | lawyer's office | 律师事务所 | We have a question about the invoice for the initial discussions at the office. |
 | prison | 监狱 | The time we spent at the prison. |

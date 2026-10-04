@@ -161,18 +161,18 @@ Joe 拒绝 Warden Gunton 提出的转狱建议，选择留在当前设施。这�
 | log-in records | 登录记录 | I checked the log-in records, and three of you had phone calls. |
 | protective custody | 保护性隔离 | I may place you in protective custody until we sort this out. |
 | warden | 监狱长 | Warden Gunton raised his hand. |
-| bible study | 圣经学习 | Especially with the good things happening with the Bible study. |
+| bible study | 圣经学习 | I think they're having a Bible study. |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| bullet | 子弹 | A detective removed the bullet from the wall. |
+| bullet | 子弹 | A detective from the sheriff's department took photos and removed the bullet from the wall. |
 | surgery | 手术 | Tom might be stable enough to undergo surgery. |
 | prayer list | 祷告名单 | He's already on the prayer list at the church. |
-| mask | 面罩 | The man was wearing a black ski mask. |
+| mask | 面罩 | The next figure was wearing a black ski mask pulled down over his face. |
 | glove | 手套 | You could see that he was wearing gloves. |
-| attorney | 律师 | Three of them had calls set up with attorneys. |
+| attorney | 律师 | three of you had phone calls set up with attorneys |
 
 ---
 

@@ -258,10 +258,8 @@ Ryan 对话末尾决定深入调查 Marty，悬疑线在这里收紧。他不确
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | forensic accounting | 法务会计 | Forensic accounting for banks and investment companies. |
-| independent review | 独立审查 | A consulting group brought in for an independent review. |
 | mean streak | 刻薄成性 | Marty had a mean streak. |
-| animation/conversational | 活跃交谈的 | Paige entered into an animated conversation. |
-| caterer | 餐饮服务商 | McKnight Catering specialized in weddings. |
+| independent review | 独立审查 | Independent review when a problem came up. |
 
 ### ⭐⭐ 进阶
 
@@ -270,20 +268,19 @@ Ryan 对话末尾决定深入调查 Marty，悬疑线在这里收紧。他不确
 | sonogram | 超声影像 | I've reviewed the sonogram. |
 | cramping | 痉挛 | The cramping hasn't happened since I left the office. |
 | ultrasound | 超声检查 | I may want to schedule an extra ultrasound. |
-| celebration | 庆祝 | How about we celebrate? |
+| celebration | 庆祝 | I think a celebration is in order. |
 | reservation | 预约 | It takes several months to get a reservation. |
-| catering | 餐饮承办 | A catering business open to the public one night a month. |
+| catering | 餐饮承办 | It's a catering business, but one night a month they're open to the public. |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| dinner | 晚餐 | We're going to eat a nice meal. |
-| lawyer | 律师 | You're a lawyer. |
+| dinner | 晚餐 | The start of dinner was announced. |
+| lawyer | 律师 | Your wife tells me you're a lawyer. |
 | wife | 妻子 | Your wife tells me you're a lawyer. |
-| phone | 电话 | I left my phone behind. |
-| hospital | 医院 | The doctor's office called. |
-| party | 聚会 | Several other couples were already talking. |
+| phone | 电话 | Paige's phone vibrated. |
+| party | 聚会 | Several other couples were already talking and drinking wine. |
 
 ---
 

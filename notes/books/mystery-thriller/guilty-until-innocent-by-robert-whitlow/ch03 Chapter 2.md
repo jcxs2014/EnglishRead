@@ -377,7 +377,7 @@ Joe 用比喻描述信主后的感受：`shower on the inside`（内心的淋浴
 | life sentence | 终身监禁 | I'm serving a life sentence for double murder. |
 | double murder | 双重谋杀 | I'm serving a life sentence for double murder. |
 | charge the net | 冲网（网球） | My game is 'hit one shot from the baseline and charge the net.' |
-| provisions | 条款、规定 | ...we'll check when Ryan and I return to the office. |
+| provision | 条款、规定 | Does your lease have a provision for force majeure? |
 
 ### ⭐ 基础
 
@@ -387,7 +387,7 @@ Joe 用比喻描述信主后的感受：`shower on the inside`（内心的淋浴
 | positive | 阳性的 | ...a pair of positive test results in her hand. |
 | shocked | 震惊的 | ...she emerged with a shocked look on her face. |
 | tennis | 网球 | Ryan could have been a tennis pro. |
-| prison | 监狱 | ...after twenty years at LPCC. |
+| prison | 监狱 | The workday for the prison garden crew ended at 4:00 p.m. |
 | pray | 祷告 | ...I'm going to fast and pray for you and your wife. |
 | cried | 哭 | ...I cried like a little kid. |
 | forgive | 原谅、赦免 | ...Jesus could forgive my sin. |

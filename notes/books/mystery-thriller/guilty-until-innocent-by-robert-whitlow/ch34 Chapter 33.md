@@ -257,12 +257,12 @@ Ryan 首次点名 Doc Garrison 与事件有关联。Doc Garrison 似乎是一个
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| resolutely | 坚决地、果断地 | "I should go to the hospital," Ryan said resolutely. |
+| resolutely | 坚决地、果断地 | "I should go to the hospital," he said resolutely. |
 | vigorous | 精力充沛的、健壮的 | He was healthy and vigorous, and that was the way Joe prayed. |
 | concealed carry | 隐蔽携带（枪支） | Yes, along with a concealed carry license. |
 | surveillance | 监视、监控 | Are there surveillance cameras in the hallway? |
 | consultation room |  consultation room | Joe sat down in the consultation room. |
-| conscience | 良心、道德心 | I can't risk having an even worse attack on my conscience. |
+| conscience | 良心、道德心 | I can't risk having an even worse attack against you or your wife on my conscience. |
 | deteriorate | 恶化 | Tom's health has seriously deteriorated. |
 
 ### ⭐⭐ 进阶
@@ -273,8 +273,8 @@ Ryan 首次点名 Doc Garrison 与事件有关联。Doc Garrison 似乎是一个
 | feeble | 虚弱的 | The attorney might be feeble and failing now. |
 | warden's office | 监狱长办公室 | Joe returned to the warden's office. |
 | blood pressure | 血压 | His blood pressure is in the danger zone. |
-| cemetery | 墓地 | （未出现，用于词汇表储备） |
-| threat | 威胁 | Someone left a threatening note. |
+| cemetery | 墓地 | The cemetery overlooked a valley below. |
+| threat | 威胁 | All prisoners lived with the possibility of an assault or threat. |
 | security service | 安保服务 | I sent Nancy a text asking about a security service. |
 
 ### ⭐ 基础
@@ -282,12 +282,12 @@ Ryan 首次点名 Doc Garrison 与事件有关联。Doc Garrison 似乎是一个
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | heart | 心脏 | His heart stopped twice. |
-| pray | 祈祷 | Joe started praying without waiting for permission. |
+| pray | 祈祷 | Without waiting for permission from the lawyer, Joe started praying. |
 | lawyer | 律师 | Moore tell your lawyer to drop the case. |
-| prison | 监狱 | All prisoners lived with the possibility of threat. |
+| prison | 监狱 | All prisoners lived with the possibility of an assault or threat. |
 | hospital | 医院 | I should go to the hospital. |
 | brick | 砖头 | Someone tossed a brick through a window. |
-| bullet | 子弹 | Ryan had moved a mirror to cover the bullet hole. |
+| bullet | 子弹 | Ryan had moved a mirror so that it covered the bullet hole in the wall. |
 | visit | 访问、探访 | She doesn't want any visitors. |
 
 ---

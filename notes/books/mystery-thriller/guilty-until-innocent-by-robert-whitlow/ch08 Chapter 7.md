@@ -235,7 +235,7 @@ Ryan 从 Wyatt 处得知凶手侄女 Shana Parks 正在寻求法律帮助，Paig
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| manipulating | 操控、幕后操纵 | Wyatt and Charlie had no business manipulating who the woman should talk to. |
+| manipulating | 操控、幕后操纵 | The two of them had no business manipulating who the woman should talk to. |
 | heaviness | 沉重感、压抑 | A heaviness, a darkness, left me. I didn't even know it was there until it was gone. |
 | darkness | 黑暗、阴暗 | A heaviness, a darkness, left me. |
 | awkward | 尴尬的、有障碍的 | That would be awkward. Tom does a lot of work for Charlie. |
@@ -248,7 +248,7 @@ Ryan 从 Wyatt 处得知凶手侄女 Shana Parks 正在寻求法律帮助，Paig
 | conflict of interest | 利益冲突 | There's no legal conflict of interest. |
 | habeas corpus | 人身保护令 | I assume it would be some type of habeas corpus action. |
 | relative | 亲戚 | A relative of the man who killed them is in town. |
-| criminal case | 刑事案件 | Scott Nelson specializes in criminal cases. |
+| criminal case | 刑事案件 | Scott Nelson, my law partner who specializes in criminal cases. |
 | volunteer | 志愿者 | Cherie volunteered in the office during study hall. |
 | adrenaline junkie | 极限运动爱好者 | Candy and Chris are adrenaline junkies. |
 
@@ -256,10 +256,10 @@ Ryan 从 Wyatt 处得知凶手侄女 Shana Parks 正在寻求法律帮助，Paig
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| lawyer | 律师 | Tom does a lot of work for Charlie. |
-| murder | 谋杀 | The man who killed them. |
-| guilty | 有罪的 | guilty of murder in the first degree |
-| church | 教堂 | We'd love for you to visit our church. |
+| lawyer | 律师 | The older lawyer leaned forward. |
+| murderer | 凶手、杀人犯 | She's the murderer's niece and lives in Richmond. |
+| murder | 谋杀 | She and her boyfriend were murdered. |
+| church | 教堂 | And we'd love for you and your husband to visit our church. |
 | pray | 祈祷 | When Ray and I prayed together. |
 | swimmer | 游泳者 | We're both good swimmers. |
-| dog | 狗 | Sandy began to bark. |
+| dog | 狗 | The dog won't bite, will he? |

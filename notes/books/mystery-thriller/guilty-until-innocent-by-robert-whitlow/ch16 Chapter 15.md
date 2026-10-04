@@ -530,14 +530,14 @@ Sue 用 Mitch 的口吻质问 Ryan：如果你不调查就觉得什么都知道�
 |------|------|------|
 | lawyer | 律师 | Clark was my appointed lawyer. |
 | guilty | 有罪的 | Two murder convictions. |
-| evidence | 证据 | Maybe I can make the holes in the government's case bigger. |
+| evidence | 证据 | Yeah, it was all circumstantial evidence. |
 | trial | 审判 | Jury stayed out thirty minutes. |
 | blood | 血 | Cherie's and Marty's blood was found on Joe's clothing. |
 | knife | 刀 | A bloody knife lay on the ground beside them. |
 | police | 警察 | Fifteen minutes later the police arrived. |
 | prison | 监狱 | It's a way to seek post-conviction release from prison. |
 | witness | 证人 | Another witness says the fight was more a verbal altercation. |
-| appeal | 上诉 | If there was prosecutorial misconduct, we may be able to get him out. |
+| appeal | 上诉 | Paige tapped the folder containing the appeal paperwork in the Moore case. |
 
 ---
 

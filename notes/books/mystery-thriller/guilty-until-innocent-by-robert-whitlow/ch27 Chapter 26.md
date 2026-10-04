@@ -211,9 +211,9 @@ Ryan 提出 DNA 检测请求，Danny 不反对。他甚至提议使用独立实�
 
 ---
 
-> **原句 25：** "Norris Broome. He's retired but still lives here. He was a tough but fair detective."
+> **原句 25：** "Norris Broome. He's retired but still lives here."
 
-关键人物出现：Norris Broome，退休侦探，创立这套私人速记的人。"tough but fair"是正面评价。他住在县里且可能愿意交谈——Ryan 解读原始笔记的最大希望。
+关键人物出现：Norris Broome，退休侦探，创立这套私人速记的人。Danny 随后补充他是"严厉但公正"的人，住在县里且可能愿意交谈——Ryan 解读原始笔记的最大希望。
 
 **中文理解**："Norris Broome。他退休了但还住在这里。他是个严厉但公正的侦探。"
 
@@ -234,12 +234,9 @@ Danny 明确立场：提供资料不等于放弃对抗。他仍然会反对 Joe 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | burden | 重担、负担 | She felt a burden she didn't know existed lift from her soul. |
-| analogous | 类似的、可比的 | I realized that knowing God is like getting pregnant. |
-| empirical | 经验的、基于观察的 | Now she did. The parallel with her pregnancy touched her deeply. |
 | decipher | 辨认、解读（难辨的文字） | Deciphering it will be another problem. |
 | shorthand | 速记法 | The main detective used some kind of personal shorthand. |
 | coroner | 验尸官、法医 | Coroner's report, and results of blood and fingerprint testing. |
-| evidence locker | 证据柜 | Everything is in the secure evidence locker at our office. |
 
 ### ⭐⭐ 进阶
 
@@ -266,7 +263,7 @@ Danny 明确立场：提供资料不等于放弃对抗。他仍然会反对 Joe 
 | trial | 审判 | I don't recall the clothes being admitted into evidence at the trial. |
 | fingerprint | 指纹 | Results of blood and fingerprint testing. |
 | detective | 侦探 | The main detective used some kind of personal shorthand. |
-| knife | 刀 | The murder weapon was a spring-operated switchblade. |
+| knife | 刀 | The handle had a small button on it. |
 | prison | 监狱 | Ryan fell asleep as fast as usual. |
 
 ---

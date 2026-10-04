@@ -374,11 +374,11 @@ Wyatt Belk 形容 Ryan 和 Paige "恰好"出现在早餐现场，似乎是上帝
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | providential | 天意安排的、凑巧的 | "It almost seemed providential." |
-| futile | 徒劳的、无效的 | A denial without an alternate theory would be futile. |
+| futile | 徒劳的、无效的 | A denial without an alternate theory of who owned the knife and used it to kill the young couple would be futile. |
 | sandbag | 暗中使绊、以卑劣手段占优势 | "No intent on my part to sandbag you." |
-| captivity / obedience | 掳获 / 顺服 | Taking every thought captive to the obedience of Christ. |
+| captive | 被掳获的、顺服的 | Taking every thought captive to the obedience of Christ. |
 | prune | 修剪、剥夺（双关） | Joe had been pruned a lot over the past twenty-six years. |
-| swirl | 漩涡、旋涡 | The events were a swirl of anger and blood. |
+| swirl | 漩涡、旋涡 | The events that followed near the stage door exit were a swirl of anger and blood. |
 
 ### ⭐⭐ 进阶
 
@@ -386,11 +386,11 @@ Wyatt Belk 形容 Ryan 和 Paige "恰好"出现在早餐现场，似乎是上帝
 |------|------|------|
 | motion | 法律动议 | You did the research on the motion, so everything should be ready to go. |
 | dismissed | 驳回（案件） | "Case dismissed." |
-| amended agreement | 修改后的协议 | I didn't know about the amended agreement until this morning. |
+| amended agreement | 修改后的协议 | I didn't know about the amended agreement until Ms. Pinson showed it to me this morning. |
 | HVAC | 供暖、通风与空调系统 | On a good day, they have me doing HVAC work. |
 | blossom picking | 摘花、去除早期花朵 | It was necessary to remove the early blossoms so the plants would grow bigger. |
 | fingerprints | 指纹 | A forensic expert found Joe's fingerprints and the blood of both victims. |
-| alternate theory | 替代理论 | A denial without an alternate theory would be futile. |
+| alternate theory | 替代理论 | A denial without an alternate theory of who owned the knife and used it to kill the young couple would be futile. |
 | superintendent / warden | 典狱长/负责人 | （场景管理相关词汇，见于监狱线） |
 | court / courthouse | 法院 | The courthouse was a two-story white brick building. |
 | judge / bench | 法官 | The judge was on the bench listening to arguments. |
@@ -401,10 +401,10 @@ Wyatt Belk 形容 Ryan 和 Paige "恰好"出现在早餐现场，似乎是上帝
 |------|------|------|
 | case | 案件 | That case was closed a long time ago. |
 | lawyer | 律师 | The older lawyer said. |
-| evidence | 证据 | The bloody knife. The fingerprint evidence. |
-| prison / jail | 监狱 | He got here last month after being sent off for stealing a car. |
+| evidence | 证据 | The evidence wasn't available. |
+| prison / jail | 监狱 | Even after receiving God's forgiveness at Central Prison, Joe occasionally struggled with shame and regret. |
 | Bible study | 查经班 | There's a Bible study there. |
-| strawberry | 草莓 | He carefully removed the berry and held it close to his nose. |
+| strawberry | 草莓 | Joe couldn't recall a more delicious strawberry. |
 | fast / fasting | 禁食 | Joe stopped chewing and prepared to spit the fruit onto the ground. But then he remembered that he was fasting. |
 
 ---

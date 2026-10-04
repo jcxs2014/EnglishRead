@@ -145,21 +145,20 @@ Shana 没有被 Joe 的拒绝击退——她坚持要写信，并会让母亲安
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | obstetrician | 产科医生 | It was the obstetrician's office. |
-| ultrasound | 超声波检查 | If you're truly seven weeks pregnant, it's not too early to do so. |
-| placenta | 胎盘 | The position of the placenta relative to the cervix. |
+| ultrasound | 超声波检查 | During the ultrasound, the technician didn't give any indication. |
+| placenta | 胎盘 | We're going to watch the placement of the placenta. |
 | contraband | 违禁品 | One of the visitors was caught with contraband. |
-| inmate | 囚犯 | There were twelve to fifteen prisoners standing along the wall. |
+| inmate | 囚犯 | arguing that an inmate be released early |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | prenatal | 产前的 | Start taking a prenatal vitamin. |
-| attorney | 律师 | This is Ryan Clark, a lawyer I asked to come with me today. |
-| grief | 悲伤 | His grief was too great to speak. |
+| attorney | 律师 | This is an attorney-client agreement for our firm. |
 | visitation | 探视 | The door to the visitation area remained closed. |
-| custody | 羁押 | The defendants remain in custody. |
-| deposit | 押金 | There's a deposit that we will bill against as the work is performed. |
+| deposit | 押金 | There's a deposit that we will bill against. |
+| forensic | 法医的 | There have also been developments in forensic analysis. |
 
 ### ⭐ 基础
 
@@ -168,7 +167,7 @@ Shana 没有被 Joe 的拒绝击退——她坚持要写信，并会让母亲安
 | pregnant | 怀孕的 | You're pregnant. |
 | baby | 婴儿 | There's one baby. |
 | lawyer | 律师 | This is Ryan Clark, a lawyer. |
-| prison | 监狱 | I'm not going to let my family waste money on getting me out of prison. |
+| prison | 监狱 | Granny made Mama promise to try to get you out of prison. |
 | family | 家人 | Tell me about the family. |
 | write | 写 | I'm going to write. |
 

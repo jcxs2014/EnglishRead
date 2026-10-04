@@ -248,17 +248,14 @@ Charlie 透露他有一个姐姐在25岁时被谋杀。这是全章最重要的�
 | stark | 悬殊的、截然不同的 | The difference in culture and pace of life was as stark as if the two locations were a thousand miles apart. |
 | ample | 丰满的、充足的 | Tom asked, patting his ample stomach. |
 | gruff | 粗暴的、粗犷的 | The managing partner, a gruff man in his late fifties, stood over Ryan. |
-| custody | 羁押、保管 | The men assigned to garden duty weren't flight risks. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| inmate | 囚犯 | Ray Simpson, with whom Joe shared the same birthday, had selected a nearby spot. |
 | medium-security | 中等安保级别 | Because the crew worked within the confines of the medium-security-level facility, no guards accompanied them. |
 | work detail | 劳动小组 | The fourteen prisoners in the work detail had finished a lunch of bologna. |
 | convicted | 被定罪的 | A significant number of the men at LPCC had also been convicted of violent offenses. |
-| incarceration | 监禁、入狱 | Even though he was incarcerated for murder, Joe had transitioned from a maximum-security facility. |
 | associate | 合伙律师、助理 | Ryan was the third associate hired by Tom in the past eight years. |
 | precedent | 先例、判例 | A research memo he prepared failed to identify a judicial precedent in California. |
 | deposition | 取证、证词笔录 | It needs a fresh set of eyes before I take any more depositions. |
@@ -268,15 +265,12 @@ Charlie 透露他有一个姐姐在25岁时被谋杀。这是全章最重要的�
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| prison | 监狱 | It was 12:30 p.m. at the Lower Piedmont Correctional Center. |
 | murder | 谋杀 | Even though he was incarcerated for murder, Joe had transitioned from a maximum-security facility. |
-| lawyer | 律师 | Tom was a gregarious, friendly man who liked to help people. |
-| client | 客户 | He's the law firm's biggest and best client. |
-| divorce | 离婚 | My wife served me with divorce papers. |
-| guilty | 有罪的 | guilty of murder in the first degree |
-| trial | 审判 | Being on trial for murder someday had seemed unlikely. |
-| judge | 法官 | Judge Brinson presided over the case. |
-| court | 法院 | The managing partner stood over Ryan while he cleaned out his desk. |
+| divorce | 离婚 | "My wife served me with divorce papers," Deshaun said, hanging his head. |
+| client | 客户 | He's the law firm's biggest and best client! |
+| guilty | 有罪的 | He pleaded guilty. |
+| court | 法院 | It never hurts to have a friendly face at the courthouse. |
+| lawyer | 律师 | The lawyer especially liked old tobacco barns with faded wooden sides. |
 
 ---
 

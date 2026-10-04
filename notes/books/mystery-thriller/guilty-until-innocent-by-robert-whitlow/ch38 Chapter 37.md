@@ -50,7 +50,7 @@ Ray 对 Ryan 家遭枪击一事反应强烈——"eyes wide"这个肢体语言�
 
 ---
 
-> **原句 5：** "In the old days I'd catch him off by himself and, with a few friends, interrogate him in a spot where the guards wouldn't hear him calling out for help."
+> **原句 5：** "Ned knows something. In the old days I'd catch him off by himself and, with a few friends, interrogate him in a spot where the guards wouldn't hear him calling out for help."
 
 Ray 回忆自己在"那些日子里"会带人把 Ned 堵在角落"审问"，选择在警卫听不到呼救的地方动手。这句话透露 Ray 有狱中私人执法的历史，也为他随后的转折"but those days are gone"埋下伏笔——他已不再是当年那个可以为所欲为的人。
 
@@ -146,7 +146,7 @@ Charlie 透露 sheriff 部门即将重新开放调查，并预告报纸将刊登
 
 ---
 
-> **原句 17：** "Dragging all this up has been harder on me than I anticipated, and it's hard to think about the law firm representing me and also working to get Moore out of prison."
+> **原句 17：** "Dragging all this up has been tougher on me than I anticipated, and it's hard to think about the law firm representing me and also working to get Moore out of prison."
 
 Charlie 终于吐露真实心声：他内心的矛盾——他的律所正在帮 Moore 翻案，而他同时在暗中推动可能推翻这一努力的调查。这揭示了 Charlie 利益冲突的本质：他既是 Joe 案的潜在受益者，也是其阻碍者。
 
@@ -200,40 +200,32 @@ Ryan 告诉 Shana 一个关键信息：Tom 刚经历了一次严重的心脏病�
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| interrogation | 审讯、盘问 | In the old days I'd catch him off by himself and interrogate him. |
-| unannounced | 不请自来的、突然拜访的 | I'm sorry to drop by unannounced. |
-| discrepancy | 差异、不符之处 | There's always been one fact without an adequate explanation. |
-| desperate | 极度渴望的、铤而走险的 | Moore wasn't the only person desperate to buy crystal meth. |
-| custody | 羁押、保管 | The deputies found three thousand dollars in Moore's custody. |
-| reinvestigation | 重新调查 | The sheriff's department opening a fresh investigation. |
-| credible | 可信的、可靠的 | The evidence points to Moore as the murderer who acted alone. |
-| conflict of interest | 利益冲突 | Dragging all this up has been harder on me than I anticipated. |
+| unannounced | 不请自来的、突然拜访的 | I'm sorry to drop by unannounced but wanted to talk with you for a minute. |
+| discrepancy | 差异、不符之处 | There's a discrepancy between the amount of money Marty Brock had and the cash in Joe Moore's possession. |
+| desperate | 极度渴望的、铤而走险的 | Moore wasn't the only person desperate to buy crystal meth that night. |
+| conflict of interest | 利益冲突 | It's hard to think about the law firm representing me and also working to get Moore out of prison. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | surveillance | 监控、监视 | The absence of clear evidence from the surveillance cameras. |
-| custody | 羁押、保管 | The deputies found three thousand dollars in Moore's custody. |
-| heartfelt | 真心实意的、发自内心的 | In my heart and mind, I know Moore is guilty. |
-| transcript | 笔录、转录文本 | I paid to have them transcribed. |
-| confidential | 保密的、机密的 | Attorney-client rules prevent me from discussing the case. |
+| transcript | 笔录、转录文本 | I saw that in the transcript from the trial. |
 | retainer | 预付费用、聘用定金 | I'm going to refund the balance of the retainer. |
-| credible | 可信的 | The logical conclusion is a robbery for money. |
 | indefinitely | 无期限地、不确定地 | He's out of the office indefinitely. |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| prison | 监狱 | Ned wouldn't be eating in the dining hall if proof existed. |
+| prison | 监狱 | We don't know why Ned was dragged into the warden's office, but if there was proof he left the threatening note, he wouldn't be eating in the dining hall. |
 | bullet | 子弹 | A bullet? This isn't just about keeping a close eye on Ned. |
-| lawyer | 律师 | I'm going to refund the balance of the retainer. |
+| lawyer | 律师 | That's why I told my lawyer to drop the case. |
 | evidence | 证据 | But I don't care about evidence and proof. |
-| investigation | 调查 | There's going to be an article about a fresh investigation. |
+| investigation | 调查 | The sheriff's department reopening the investigation. |
 | threat | 威胁 | I believe the threat to you and Ryan is real. |
 | guilty | 有罪的 | I know Moore is guilty. |
-| murder | 谋杀 | The request came from someone with power. |
+| murder | 谋杀 | The request came from someone with a lot of power and influence. |
 
 ---
 

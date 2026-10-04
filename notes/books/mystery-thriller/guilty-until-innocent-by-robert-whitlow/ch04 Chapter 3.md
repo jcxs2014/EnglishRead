@@ -91,7 +91,7 @@ Charlie 为 Tom 辩护：他是被法官指定的公派律师，并没有选择�
 
 ---
 
-> **原句 7：** "He fell out of a small boat on a cold day."
+> **原句 7：** "Fell out of a small boat on a cold day."
 
 Ryan 简述父亲死于钓鱼意外。句子的简洁与内容的悲剧性形成强烈反差——六年级的创伤，被压缩成九个字。这句话的简短是因为 Ryan 不愿详谈，而非事件本身简单。
 
@@ -145,37 +145,30 @@ Paige 回应 Ryan"小心别伤到孩子"的担忧时，展现了她坚韧独立�
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| sentiment | 情感、情愫 | It's set up to give tons of extra care to new moms and babies. |
-| monopolize | 垄断、独占（话语权） | What about your day? I shouldn't monopolize the conversation. |
 | precarious | 危险的、不稳的 | The sudden movement caused the boat to tip precariously to the side. |
-| solidarity | 团结一致 | I'm going to soldier on. |
-| confession | 告白、坦白 | There's something you should know. |
+| monopolize | 垄断、独占（话语权） | "What about your day?" he asked. "I shouldn't monopolize the conversation." |
+| sentimental | 情感的、情愫的 | I've tried to buy it from Seth several times, but it has sentimental value to him. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
+| obstetrician | 产科医生 | I loved my obstetrician. Dr. Hester was young then, and he's still a fantastic doctor. |
 | ob-gyn | 妇产科医生 | There were only two ob-gyn practices. |
-| genealogical | 家谱的、宗谱的 | I love genealogy. |
-| obstetrician | 产科医生 | I loved my obstetrician. |
-| tenant | 租户 | The tenants in my houses almost always work out. |
 | commercial | 商业的 | I rent residential as well as commercial real estate. |
-| property | 房产、地产 | Several businesses along with a bunch of land and commercial property. |
-| client | 客户、当事人 | Tom took me to lunch at the country club to meet the law firm's biggest client. |
-| pregnant | 怀孕的 | Especially since I'm pregnant. |
+| tenant | 租户 | The tenants in my houses almost always work out because I know who they are. |
+| property | 房产、地产 | The problem I was telling Tom about earlier comes up when I rent a commercial or industrial property. |
+| genealogy | 家谱学 | "I love genealogy," Madge replied, then launched into a long story about her family roots. |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| lunch | 午餐 | How's lunch? Everything okay? |
-| pregnant | 怀孕的 | I thought I ought to set up an initial visit as soon as possible, especially since I'm pregnant. |
-| husband | 丈夫 | You and your husband buy it from the Vaughn family? |
-| appointment | 预约 | If you have any problem getting an appointment with Dr. Hester, let me know. |
-| lawyer | 律师 | Tom represented the man who murdered my sister and her fiancé. |
+| pregnant | 怀孕的 | She was pregnant! Ninety percent of her mind and emotions was positive. |
+| lawyer | 律师 | A lawyer in town told Ryan about the small-town life. |
 | murder | 谋杀 | Tom represented the man who murdered my sister. |
-| dog | 狗 | Sandy let out a sharp bark. |
-| dinner | 晚餐 | Looks like we're going out to eat. |
+| husband | 丈夫 | Did you and your husband buy it from the Vaughn family? |
+| office | 办公室 | After Madge left, Paige called the doctor's office. |
 
 ---
 

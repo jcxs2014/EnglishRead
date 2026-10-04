@@ -230,7 +230,7 @@ Ryan 用一个温柔的动作和一句简洁有力的话回应——"我们一�
 |------|------|------|
 | feasible | 可行的、可能的 | I don't think it's feasible for us to hire your firm. |
 | frame of reference | 参照系、认知框架 | Ryan had no frame of reference for someone who claimed to talk to God. |
-| delegate | 授权、委托（工作） | Tom delegates quite a bit of the work to me. |
+| delegate | 授权、委托（工作） | Tom is busy with other clients, and he delegates quite a bit of the work to me. |
 | grudge | 积怨、宿怨 | I don't hold a grudge against him. |
 | diagnosis | 诊断 | The need to wait before determining a diagnosis. |
 
@@ -250,10 +250,10 @@ Ryan 用一个温柔的动作和一句简洁有力的话回应——"我们一�
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| pregnancy | 怀孕 | I just found out I'm pregnant. |
-| pregnant | 怀孕的 | I just found out I'm pregnant. |
+| pregnancy | 怀孕 | "No, I just found out I'm pregnant." |
+| pregnant | 怀孕的 | "No, I just found out I'm pregnant." |
 | scared | 害怕的 | But I'm scared there might be. |
-| meeting | 会议 | The question startled Paige. |
+| meeting | 会议 | "You didn't log in for the meeting we finished five minutes ago." |
 | together | 一起 | I wanted to wait to talk about it until we were together. |
 | free | 自由的 | I'm already free in the place that counts the most. |
 

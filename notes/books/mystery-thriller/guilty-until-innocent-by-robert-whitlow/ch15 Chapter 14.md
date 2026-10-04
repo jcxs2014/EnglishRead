@@ -206,8 +206,8 @@ Tom 的话在 Ryan 耳边回响。`ringing in his ears` 是感官化的表达，
 |------|------|------|
 | anguish | 极度痛苦、苦恼 | "In my anguish I cried to the Lord, and he answered by setting me free," Ray replied. |
 | bombard | 不断攻击、轰炸 | She couldn't bear the thought of forcing him to face the anxiety that continued to bombard her mind from every direction. |
-| slumber | 睡眠、安眠 | He had been slumbering in the faith of his youth. |
-| stanza | 诗节、 stanza | The verse had two stanzas of comfort. |
+| stirred | 被搅动、激起 | My guess is it was stirred up by what happened yesterday. |
+| dose | 一剂、一点 | You're giving me a dose of my own medicine. |
 
 ### ⭐⭐ 进阶
 
@@ -227,7 +227,7 @@ Tom 的话在 Ryan 耳边回响。`ringing in his ears` 是感官化的表达，
 |------|------|------|
 | pray | 祈祷 | I prayed for you last night. |
 | free | 自由的 | If the Son sets you free, you're free indeed. |
-| lawyer | 律师 | Do you think the attorney is a Christian? |
+| lawyer | 律师 | "Do you think the lawyer is a Christian?" Joe asked. |
 | bleeding | 出血 | Any bleeding? |
 | pregnant | 怀孕的 | I'm pregnant. |
 | sign | 签署 | I signed the agreement for you to represent me. |

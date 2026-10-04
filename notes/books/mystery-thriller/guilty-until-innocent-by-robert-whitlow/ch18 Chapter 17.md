@@ -58,11 +58,11 @@ Ray 向 Joe 汇报他追出去找 Ned Walker，在摩托车旁和他交谈。`un
 
 ---
 
-> **原句 6：** "Have you seen this before?" Ryan asked. The assistant glanced at it. "Yes, I typed the first draft of this for Mitch. He's expanded it since then."
+> **原句 6：** "Have you seen this before?" he asked. The assistant glanced at it. "Yes, I typed the first draft of this for Mitch. He's expanded it since then."
 
-Ryan 向 Sue 展示 Mitch Norman 发来的上诉决定摘要和调查清单。Sue 透露她曾为 Mitch 打过初稿——说明 Mitch 的法律文件产出背后有 Sue 的支持，也侧面印证 Mitch 对这个案子的重视程度。
+Ryan 向 Sue 展示 Mitch Norman 发来的上诉决定摘要和调查清单。Sue 透露她曾为 Mitch 打过初稿——说明 Mitch 的法律文件产出背后有 Sue 的支持，也侧面印证 Mitch 对这个案子的重视程度。`he asked` 指的是 Ryan，而非明说。
 
-**中文理解**："你之前见过这个吗？"Ryan 问道。助理瞥了一眼。"见过，我给 Mitch 打过初稿。之后他又扩展了。"
+**中文理解**："你之前见过这个吗？"他问道。助理瞥了一眼。"见过，我给 Mitch 打过初稿。之后他又扩展了。"
 
 ---
 
@@ -90,19 +90,19 @@ Paige 谈到在教会主日学被问及是否有代祷事项时，她不确定�
 
 ---
 
-> **原句 10：** "I took a crash course in Husband Training 101 for Bruce to climb out of his shell and be there for me when it came to pregnancy and kids."
+> **原句 10：** "It took a crash course in Husband Training 101 for Bruce to climb out of his shell and be there for me when it came to pregnancy and kids."
 
-Vicki 分享自己怀孕时丈夫 Bruce 起初不善表达，后来才慢慢敞开心木愿意参与育儿。`crash course in Husband Training 101` 是幽默的自嘲说法，表明她花了很大力气才让 Bruce 开窍。
+Vicki 分享自己怀孕时丈夫 Bruce 起初不善表达，后来才慢慢敞开心扉愿意参与育儿。`crash course in Husband Training 101` 是幽默的自嘲说法，表明她花了很大力气才让 Bruce 开窍。原文 `it took a crash course` 中 `it` 是形式主语，指代后文的 `for Bruce to climb out...`。
 
-**中文理解**："我给 Bruce 上了个'好老公速成班101'，才让他走出自己的壳，在怀孕和孩子的事情上能够陪伴我。"
+**中文理解**："我花了很大力气给 Bruce 上了个'好老公速成班'，才让他走出自己的壳，在怀孕和孩子的事情上能够陪伴我。"
 
 ---
 
-> **原句 11：** "He was so tender and supportive."
+> **原句 11：** "He's been so tender and supportive."
 
 Paige 描述 Ryan 面对怀孕消息时的反应——非常温柔且给予支持。与 Vicki 描述的 Bruce 不同，Paige 表示 Ryan 天生就比较善于回应。这与 Ryan 作为法律助理的职业形象形成有趣的对比。
 
-**中文理解**："他非常温柔体贴，一直支持我。"
+**中文理解**："他一直非常温柔体贴，一直支持我。"
 
 ---
 
@@ -112,9 +112,8 @@ Paige 描述 Ryan 面对怀孕消息时的反应——非常温柔且给予支�
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| catheterization | 导管术（心脏检查） | He's scheduled for a heart catheterization later this morning. |
-| conviction | 定罪感、圣灵感动 | I believe he was under conviction. |
-| conviction (spiritual) | 圣灵在心中动工使人自责 | Ned left early—I believe he was under conviction. |
+| catheterization | 导管术（心脏检查） | ...a cardiologist who's scheduled a heart catheterization later this morning. |
+| conviction | 圣灵感动（基督徒术语） | He left early. I believe he was under conviction. |
 | stride | 步调、节奏 | We were just starting to hit our stride working together. |
 | shower | 淋雨、冲洗（内心隐喻） | I feel like I've had a shower on the inside. |
 
@@ -123,26 +122,26 @@ Paige 描述 Ryan 面对怀孕消息时的反应——非常温柔且给予支�
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | altar call | 呼召礼（礼拜中请需要帮助的人走到台前） | When the man gave an altar call at the end of his message, a number of men stepped forward. |
-| chaplain | 监狱牧师 | The prison chaplain had a message about Jesus Christ. |
+| chaplain | 监狱牧师 | ...ready to listen to what the prison chaplain had to say to me about Jesus Christ. |
 | pray | 祈祷 | Would you pray for me even though I don't come to the Bible study? |
-| prayer request | 代祷事项 | I wasn't sure if that only applied to members of the church. |
+| prayer request | 代祷事项 | ...if anyone had a prayer request, I wasn't sure if that only applied to members of the church. |
 | supportive | 支持的、鼓励的 | He's been so tender and supportive. |
-| cardiology | 心脏科 | He set me up with a cardiologist. |
-| EKG (electrocardiogram) | 心电图 | He saw something on my EKG that concerned him. |
-| internship / internist | 实习生 / 内科医生 | I had an appointment with my internist last week for a routine physical. |
+| cardiologist | 心脏科医生 | He set me up with a cardiologist who's scheduled a heart catheterization later this morning. |
+| EKG | 心电图 | He saw something on my EKG that concerned him. |
+| internist | 内科医生 | I had an appointment with my internist last week for a routine physical. |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| pray | 祈祷 | Would you pray for me? |
-| church | 教堂 | We enjoyed the church. |
-| hospital | 医院 | I was flat on my back in the hospital. |
+| pray | 祈祷 | Would you pray for me even though I don't come to the Bible study? |
+| church | 教堂 | We hope you and Ryan enjoyed the church. |
+| hospital | 医院 | While I was flat on my back in the hospital... |
 | phone | 电话 | Paige placed her cell phone beside her computer. |
 | baby | 婴儿 | Bringing a baby into the world is a challenge. |
-| dog | 狗 | They set a day and time for a walk with our dogs. |
+| dog | 狗 | Is your offer to go for a walk with our dogs still on the table? |
 | tear | 眼泪 | She had to stop twice when tears filled her eyes. |
-| help | 帮助 | I think you're going to be an excellent lawyer. |
+| help | 帮助 | I'm willing to do anything to help. |
 
 ---
 

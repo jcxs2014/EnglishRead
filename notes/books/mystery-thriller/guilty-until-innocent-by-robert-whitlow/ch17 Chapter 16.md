@@ -146,25 +146,17 @@ Ryan 用法官的口吻回应 Paige 提议下周日再来教堂。"take that und
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | gravitate | 自然地移向、倾向 | The men normally gravitated toward the same table. |
-| powerlifter | 力量举重运动员 | He was a powerlifter before he injured his back. |
-| dispelled | 驱散、消除 | An evening breeze dispelled the heat. |
-| sanctuary | 教堂内殿、礼拜堂 | Ryan and Paige left the sanctuary. |
-| consultancy | 咨询业务、顾问服务 | （本章未出现，用于词汇积累） |
-| gregarious | 善于社交的 | （见 ch02，用于对比 Ryan 性格） |
-| pragmatic | 实用主义的 | Ryan's white car choice reveals his pragmatic nature. |
+| powerlifter | 力量举重运动员 | He was a powerlifter before he injured his back in a motorcycle accident. |
+| dispelled | 驱散、消除 | As the sun dipped below the trees, an evening breeze dispelled the heat. |
+| sanctuary | 教堂内殿、礼拜堂 | Ryan and Paige left the sanctuary and exited through the same door. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| inmate | 囚犯 | Joe saw Ned Walker sit down among the inmates. |
-| yard | 监狱操场/劳动场 | He was lifting weights in the yard after work. |
-| chaplain | 监狱牧师/教堂神职人员 | An outside guy who used to be in a motorcycle gang was the chaplain. |
 | testimony | 见证/证词 | That means he'll share his testimony. |
-| Bible study | 圣经学习小组 | Joe was a leader in Bible study at LPCC. |
-| fellowship | 团契/交谊 | The prayer time at the end of class was the best part of the fellowship. |
-| denomination | 教派/宗派 | The church belonged to a mainstream denomination. |
-| probation | 缓刑/试用期 | （积累词条，非本章内容） |
+| fellowship | 团契/交谊 | The prayer time at the end of the class was the best part of the morning to Paige. |
+| minister | 牧师/神职人员 | The main minister was out of town. |
 
 ### ⭐ 基础
 
@@ -172,12 +164,11 @@ Ryan 用法官的口吻回应 Paige 提议下周日再来教堂。"take that und
 |------|------|------|
 | prison | 监狱 | The men at the prison worked six days a week. |
 | church | 教堂 | Do you want to go to church in the morning? |
-| pastor | 牧师 | The main pastor was out of town. |
-| pray | 祈祷 | We were expected to pray out loud. |
+| pray | 祈祷 | It was very awkward when we had to break up into little groups and were expected to pray out loud. |
 | sermon | 布道 | I had trouble staying focused during the sermon. |
-| pregnant | 怀孕的 | Candy prayed beautifully for pregnant women. |
-| lawyer | 律师 | He works in the DA's office. |
-| tennis | 网球 | He played tennis in college. |
+| pregnant | 怀孕的 | Candy prayed so beautifully for all the pregnant women in the class. |
+| lawyer | 律师 | Ryan wondered if any lawyers attended the church. |
+| tennis | 网球 | He works in the DA's office and played tennis in college. |
 
 ---
 

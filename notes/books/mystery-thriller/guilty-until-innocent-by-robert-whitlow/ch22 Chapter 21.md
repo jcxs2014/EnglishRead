@@ -210,36 +210,31 @@ Doc 用"这地方对你来说可能看起来不怎么样"开场，然后用"但�
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | circuitous | 迂回的、绕路的 | Your baby has taken a circuitous route to get to the place where he or she needs to be. |
-| roving | 流浪的、巡回的 | The band's roving lifestyle led them through every dive bar in the county. |
-| stipulation | 规定、条款 | One of the stipulations of his parole was that he report monthly. |
-| absolution | 赦免、无罪释放 | The evidence led to his absolution after years of wrongful imprisonment. |
-| corroborate | 证实、支持 | A witness would corroborate Joe's claim that he was elsewhere that night. |
+| desperate | 极度渴望的、绝望的 | Desperate, she reached for her phone and called Dr. Hester's office. |
+| vivid | 生动的、栩栩如生的 | The dream was so vivid that he could feel the breeze. |
+| bleary | 视线模糊的、朦胧的 | Even though her eyes were bleary, Paige absorbed every detail. |
+| matter-of-factly | 就事论事地、平淡地 | Looks good, the woman replied matter-of-factly. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| abortion | 流产 | The cramping raised fears of a possible abortion. |
-| ultrasound | 超声波检查 | They scheduled an ultrasound to check the baby's health. |
-| methamphetamine | 甲基苯丙胺、冰毒 | Joe had traces of methamphetamine in his system. |
+| inmate | 囚犯 | The fellow inmate seemed sincere. |
 | condenser | 冷凝器 | I need to install a new switch for the condenser so the men on duty don't start roasting. |
-| immunity | 豁免权 | If the DA agrees not to prosecute, would he be willing to tell what he knows? |
-| labor | 分娩 | She was in labor for twelve hours before delivering the baby. |
-| inmate | 囚犯 | Joe was one of the inmates in Unit C at LPCC. |
-| custody | 羁押、监护 | The baby remained in utero under medical custody. |
+| Bible | 圣经 | I'll give you a lesson if you promise to go to the Bible study in Unit G. |
+| meth | 冰毒 | There's a fellow who sold Joe some high-quality meth that night. |
+| sincere | 真诚的、诚恳的 | The fellow inmate seemed sincere. |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| pain | 疼痛 | The rolling pain across her abdomen returned. |
-| bleeding | 出血 | Any bleeding associated with the cramping? |
-| jail | 监狱 | The idea of a man rotting in jail for something he didn't do eats away at you. |
-| guard | 警卫、看守 | The AC in the guardroom is acting up. |
-| finger | 手指 | His fingerprint evidence was found at the scene. |
-| Bible | 圣经 | I'll give you a lesson if you promise to go to the Bible study. |
-| sick | 生病的 | Are you sick? |
 | baby | 婴儿 | There has been a positive change in the position of the baby. |
+| pain | 疼痛 | The rolling pain across her abdomen returned. |
+| sick | 生病的 | Are you sick? |
+| jail | 监狱 | This place may look bad to you, but it beats a jail cell. |
+| bleeding | 出血 | Any bleeding associated with the cramping? |
+| guard | 警卫、看守 | The AC in the guardroom is acting up. |
 
 ---
 

@@ -363,9 +363,8 @@ Ryan 的回复干脆利落：他已经不再代理 Moore，所以不需要知道
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | warden | 监狱长 | Warden Gunton is your best buddy. |
-| attorney-client | 律师-客户 | Attorney-client privilege prevents me from disclosing. |
-| jurisdiction | 管辖权、司法管辖区 | The sheriff's department has jurisdiction over the case. |
-| evidence | 证据 | Additional DNA on the murder weapon. |
+| attorney-client | 律师-客户 | reasons that I can't share due to attorney-client privilege |
+| evidence | 证据 | Still waiting on the test results for the additional DNA on the murder weapon in the Moore case. |
 | representation | 代理 | I'm withdrawing from representation. |
 | investigation | 调查 | The sheriff's department reopening an investigation. |
 | frustrated | 沮丧的 | Part of me is relieved and another part is frustrated. |
@@ -376,7 +375,6 @@ Ryan 的回复干脆利落：他已经不再代理 Moore，所以不需要知道
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | gun | 枪 | Someone recently fired a gun at your house. |
-| lawyer | 律师 | He hired a lawyer to represent him. |
 | newspaper | 报纸 | A reporter from the newspaper is here. |
 | phone | 电话 | Cell phones can count the number of steps. |
 | meeting | 会议、会面 | He had a meeting with the warden. |

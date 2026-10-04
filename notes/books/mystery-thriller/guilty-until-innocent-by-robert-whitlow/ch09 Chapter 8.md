@@ -129,7 +129,7 @@ Sue 向 Ryan 解释伸冤类案件的成本问题：这类案件耗时长、取�
 | attorney | 律师 | A lawyer's advice has to be independent. |
 | confidential | 保密的 | cannot entail disclosure of confidential communication |
 | landscape | 景观设计 | She'd taken a landscape design class as an elective in college. |
-| attorney | 律师 | It would be good to tell my uncle we have an attorney willing to help. |
+| attorney | 律师 | My parents can afford to hire an attorney. |
 
 ### ⭐ 基础
 

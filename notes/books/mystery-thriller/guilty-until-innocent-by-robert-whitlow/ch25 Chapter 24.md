@@ -186,8 +186,7 @@ Joe 反问 Ryan："你的信仰生活需要改变，不是吗？"Ryan 张了张�
 |------|------|------|
 | momentum | 势头、动力 | We want to keep the momentum going. |
 | authorization | 授权、批准 | Any meeting by a group of eight or more men requires prior authorization. |
-| impairment | 损害、损伤 | How mentally impaired you must have been that night. |
-| stint | 从事、持续 | But there had been a development in your case that I wanted to discuss with you. |
+| impaired | 受损的、精神损害的 | How mentally impaired you must have been that night. |
 | confession | 认罪、忏悔 | Confession of long-held sin was at the heart of what had been taking place. |
 
 ### ⭐⭐ 进阶
@@ -201,7 +200,7 @@ Joe 反问 Ryan："你的信仰生活需要改变，不是吗？"Ryan 张了张�
 | fingerprints | 指纹 | My fingerprints were all over it. |
 | lawyer | 律师 | Your lawyer called and requested an in-person meeting. |
 | warden | 监狱长 | The warden shut me down and said the form is what you have to do. |
-| methamphetamine | 冰毒 | The bartender at the club kept a stash of meth. |
+| methamphetamine | 冰毒 | "Did Doc sell you any methamphetamine that night?" |
 
 ### ⭐ 基础
 
