@@ -1,0 +1,20 @@
+=== 批12 ch22+ch23 2026-10-04 14:48 UTC ===
+--- verify_quotes ---
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 228/228 引文可核实（100%）；完全干净文件 23/23；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- sweep_full ---
+  参照集：text/ 逐章（25 章，可定章） + epub 交叉验证
+  ✅ 本章命中 228 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+--- check_vocab (FAIL header) ---
+--- FAIL (0) ---
+--- entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption ---
+  FAIL 0 处（U+FFFD / 双句号）
+--- 逐章 ch22 ---
+ch22 The Spasm of Religion to the Fall of Danton.md: 10/10 in ch22 text
+--- 逐章 ch23 ---
+ch23 The Fall of Robespierre.md: 9/9 in ch23 text（另有 1 条短引语未校验）
