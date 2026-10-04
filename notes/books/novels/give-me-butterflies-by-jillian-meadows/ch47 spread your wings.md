@@ -53,7 +53,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** 前一句先说"无缝地融进来"，这一句立刻把它翻译成家庭内部的语言——空出来的位置；把"她填补了缺口"写成"我们替她留了位"，主客关系整个倒过来，是最省力的深情。
 
-**读者视角提示：** 芬恩这一段的落点不是爱情，是接纳；他把两个女儿和她放在同一句话里。
+**读者视角提示：** 芬恩这一段的落点不是爱情，是接纳；他把两个孩子和她放在同一句话里——原文是「my girls」，而她们当面喊他 Uncle。
 
 > **原句 5:** "Their love for the girls is so obvious, so unconditional, and I could never express to them how grateful I am for it."
 

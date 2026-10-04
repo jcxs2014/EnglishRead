@@ -17,7 +17,7 @@ modified: "2026-10-04"
 
 > **原句 1:** "Six o’clock, sharp. Be on time, Finneas. You know how your father likes to eat his dinner hot."
 
-**中文理解：** 母亲把下周三那顿饭钉在六点整，让他准点到，还加一句她父亲要吃热的饭。
+**中文理解：** 母亲把下周三那顿饭钉在六点整，让他准点到，还加一句你父亲要吃热的饭。
 
 **关键词：** sharp，Finneas，dinner hot
 

@@ -73,7 +73,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** 借第三个人的嘴来夸，比她自己说更有说服力，也保住了米莉刚刚才划下的那条线；delicious 后面跟的是最高级句式 it’s the most delicious thing I’ve ever eaten，把一句广告话撑到满格，反而因为过分而不像真话。
 
-**读者视角提示：** 这句是整晚披萨之局的转折点——他本来只是忘了承诺，是莉娜把他架到必须开口求助的位置上；米莉的"不想打扰"正是从这句之后开始松动的。
+**读者视角提示：** 这句是整晚披萨之局的转折点——他本来只是忘了承诺，是他自己先开口求助，莉娜那句才接上来；米莉的"不想打扰"正是从这句之后开始松动的。
 
 > **原句 7:** "Give me your number, and I’ll text you my address. Then you can tell me what I need to pick up from the store."
 
