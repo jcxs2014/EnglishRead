@@ -222,7 +222,7 @@ Doc 用"这地方对你来说可能看起来不怎么样"开场，然后用"但�
 | inmate | 囚犯 | The fellow inmate seemed sincere. |
 | condenser | 冷凝器 | I need to install a new switch for the condenser so the men on duty don't start roasting. |
 | Bible | 圣经 | I'll give you a lesson if you promise to go to the Bible study in Unit G. |
-| meth | 冰毒 | There's a fellow who sold Joe some high-quality meth that night. |
+| meth | 冰毒 | There's a fellow, I'm not saying his name, who sold Joe some high-quality meth that night. |
 | sincere | 真诚的、诚恳的 | The fellow inmate seemed sincere. |
 
 ### ⭐ 基础
@@ -232,7 +232,7 @@ Doc 用"这地方对你来说可能看起来不怎么样"开场，然后用"但�
 | baby | 婴儿 | There has been a positive change in the position of the baby. |
 | pain | 疼痛 | The rolling pain across her abdomen returned. |
 | sick | 生病的 | Are you sick? |
-| jail | 监狱 | This place may look bad to you, but it beats a jail cell. |
+| jail | 监狱 | But it beats a jail cell. |
 | bleeding | 出血 | Any bleeding associated with the cramping? |
 | guard | 警卫、看守 | The AC in the guardroom is acting up. |
 

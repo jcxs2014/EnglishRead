@@ -155,15 +155,7 @@ Joe 对 Randy Doster 的评价——"他不会打架！他比我们大两岁"—
 
 ---
 
-> **原句 18：** "We're not going to be able to keep what's going on a secret," Deshaun said, his eyes shining with a light brighter than Joe had witnessed in the young man's countenance before.
-
-（此句出自前章，但与本章 Joe 的思考形成呼应——狱中的属灵复兴运动正扩展，Joe 的离开将留下 leadership vacuum。）
-
-**中文理解**："我们没法把这里正在发生的事保密了，"Deshaun 说，眼中闪耀着一种 Joe 在这个年轻人脸上从未见过的光芒。
-
----
-
-> **原句 19：** "After I prayed, peace covered me like a blanket," she said. "I know feelings can vanish in an instant, but this was different. It's just as true sitting here with the two of you as it was last night."
+> **原句 18：** "After I prayed, peace covered me like a blanket," she said. "I know feelings can vanish in an instant, but this was different. It's just as true sitting here with the two of you as it was last night."
 
 Paige 描述她祈祷后获得的平安——"像毯子一样覆盖我"。她强调这种感觉不是稍纵即逝的情绪，而是"和昨晚一样真实地坐在这里"。这个意象在灵修文学中常见（尤其在改革宗传统中），但 Paige 用"blanket"这个具体的日常物品来形容，使抽象的属灵经历变得可触可感。
 

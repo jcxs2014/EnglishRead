@@ -125,7 +125,7 @@ Paige 描述 Ryan 面对怀孕消息时的反应——非常温柔且给予支�
 | chaplain | 监狱牧师 | ...ready to listen to what the prison chaplain had to say to me about Jesus Christ. |
 | pray | 祈祷 | Would you pray for me even though I don't come to the Bible study? |
 | prayer request | 代祷事项 | ...if anyone had a prayer request, I wasn't sure if that only applied to members of the church. |
-| supportive | 支持的、鼓励的 | He's been so tender and supportive. |
+| supportive | 支持的、鼓励的 | ...He's been so tender and supportive. |
 | cardiologist | 心脏科医生 | He set me up with a cardiologist who's scheduled a heart catheterization later this morning. |
 | EKG | 心电图 | He saw something on my EKG that concerned him. |
 | internist | 内科医生 | I had an appointment with my internist last week for a routine physical. |

@@ -188,7 +188,7 @@ Joe 在回应 Ray 问"Ned 祈祷是否真诚"时的回答。这句话既是对 N
 | gang | 帮派，团伙 | It could be a case of extreme vandalism or gang activity. |
 | scanner | 扫描器，监听设备 | I heard what happened at your house on the law enforcement scanner. |
 | sincere | 真诚的 | I think Ned was sincere. |
-| harmonica | 口琴 | Ned raised the instrument to his lips and played a riff. |
+| harmonica | 口琴 | Ned took his harmonica from the front pocket of his pants. |
 
 ### ⭐ 基础
 

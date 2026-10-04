@@ -189,11 +189,11 @@ Broome 的立场斩钉截铁："我相信 Moore 有罪。"他愿意有限度配�
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| background check | 背景调查 | "Why don't you ask your lawyer to look into him? He could run a background check." |
+| background check | 背景调查 | "Why don't you ask your lawyer to look into him," Ray suggested. "He could run a background check." |
 | temper | 脾气 | "He has a nasty temper. Maybe it's under control now, but I don't want to test him and find out." |
 | sling blade | 割草刀 | "I'd rather be in the garden than clearing right-of-way with a sling blade and a bush axe." |
 | pasture | 牧场 | Next to the residence was an open pasture with black Angus cattle standing together under the shade of a solitary tree. |
-| beehive / hives | 蜂箱 | "How many hives do you have?" "Four right now, but I've had as many as twelve. CCD has wiped out a bunch." |
+| hives | 蜂箱 | "How many hives do you have?" "Four right now, but I've had as many as twelve. CCD has wiped out a bunch." |
 | wicker chair | 藤椅 | Broome sat down in a wicker chair with floral cushions that matched the one Ryan sat in. |
 | MAR | 动议申请重新审判（Motion for Appropriate Relief） | "Danny Milton told you that I may file an MAR in his case." |
 

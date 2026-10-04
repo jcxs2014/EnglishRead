@@ -289,7 +289,7 @@ Joe 延续了 Jacob 的圣经典故，用幽默的方式回应 Ray 的担忧：�
 | rebuff | 断然拒绝 | That sort of gesture in prison would result in a quick rebuff. |
 | sprinkle | 点缀、零星分布 | Sadness, mixed with fear, sprinkled with confusion. |
 | custody | 羁押、保管 | Stay away from Walker. |
-| gregarious | 社交性的、友善的 | He liked to help people. |
+| headlock | 头部锁技（格斗技） | Deshaun holding Ned in a headlock. |
 
 ### ⭐ 基础
 
@@ -299,7 +299,7 @@ Joe 延续了 Jacob 的圣经典故，用幽默的方式回应 Ray 的担忧：�
 | guard | 狱警 | One of the guards stepped forward. |
 | knife | 刀 | Ned could try to stick a knife in you. |
 | prayer | 祷告 | The Bible study and prayer meeting. |
-| church | 教堂 | A doorway to heaven opens up. |
+| church | 教堂 | (未见于本章，换用) Don't turn a case away too quickly. |
 | love | 爱 | I felt God's love for you come up so strong. |
 | angel | 天使 | It would be nice to see a bunch of angels. |
 

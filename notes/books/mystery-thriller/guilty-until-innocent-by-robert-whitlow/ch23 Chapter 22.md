@@ -280,7 +280,6 @@ Ryan 对话末尾决定深入调查 Marty，悬疑线在这里收紧。他不确
 | lawyer | 律师 | Your wife tells me you're a lawyer. |
 | wife | 妻子 | Your wife tells me you're a lawyer. |
 | phone | 电话 | Paige's phone vibrated. |
-| party | 聚会 | Several other couples were already talking and drinking wine. |
 
 ---
 

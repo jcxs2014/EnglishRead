@@ -195,7 +195,7 @@ Joe 反问 Ryan："你的信仰生活需要改变，不是吗？"Ryan 张了张�
 |------|------|------|
 | strawberry shortcake | 草莓短蛋糕 | "How was the strawberry shortcake I made for you?" |
 | Bible study | 圣经学习 | We d like to hold an extra Bible study and prayer meeting. |
-| drug debt | 毒债 | He wouldn't hesitate to pull out a knife if someone didn't pay a drug debt. |
+| drug debt | 毒债 | He wouldn't hesitate to pull out a knife and use it if someone crossed him or didn't pay a drug debt. |
 | handgun | 手枪 | I stayed away from handguns. |
 | fingerprints | 指纹 | My fingerprints were all over it. |
 | lawyer | 律师 | Your lawyer called and requested an in-person meeting. |

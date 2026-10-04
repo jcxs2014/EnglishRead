@@ -193,9 +193,9 @@ Ryan 最终决定不向 Joe 提 Paige 的事，说他的重点应该在 Joe 的�
 | lima beans | 利马豆、青豆 | There's only enough for each man to have a small serving of lima beans. |
 | mushy | 软的、粉状的 | When they get big and fat, the beans can turn mushy. |
 | inspect | 检查、审视 | He quickly inspected the entire contents of the box. |
-| snoop | 窥探、翻找 | Check your box to see if anyone has been snooping around in your stuff |
+| peered | 窥视、仔细看 | He lifted the lid and peered inside. |
 | ambulance | 救护车 | Tom was in an ambulance on his way to Charlotte. |
-| abdomen | 腹部 | Paige felt a sharp pain in her abdomen. |
+| abdomen | 腹部 | Paige suddenly felt a sharp pain in her abdomen. |
 
 ### ⭐ 基础
 

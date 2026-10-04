@@ -168,18 +168,18 @@ Ryan 离开时注意到前夜总会（Eastside Music Barn）有至少三台监�
 | keep one's mouth shut | 闭嘴、保持沉默 | You know it's better to keep your mouth shut. |
 | drop to the ground | 趴下、就地卧倒 | Everyone had to drop to the ground, and the guards rushed in. |
 | go with | 信任、选择（某人的话） | I'd go with Max over Ned. |
-| draft | 起草、撰写 | She was composing a letter to Joe on her laptop. |
-| driveway | 私人车道 | He drove onto the dirt driveway that led directly to Doc's dwelling. |
+| draft | 起草、撰写 | "Ryan was watching a baseball game on TV while Paige was composing a letter to Joe on her laptop." |
+| driveway | 私人车道 | "Music Barn, he drove around the edge of the parking lot onto the dirt driveway that led directly to Doc's dwelling." |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| prison | 监狱 | Joe Moore is serving a sentence in LPCC. |
-| lawyer | 律师 | Ryan is a lawyer's assistant. |
+| prison | 监狱 | "But she doesn't think you need to be locked up in prison." |
+| lawyer | 律师 | "He talked to me before I had a lawyer but didn't spend much time questioning me about what happened." |
 | pray | 祈祷 | I'm not going to stop asking the Lord to touch and restore him. |
 | pregnant | 怀孕的 | Because you're pregnant? |
-| call | 打电话 | Ryan phoned the administrative office for the prison. |
+| call | 打电话 | "The last thing I did before leaving the office was call Joe Moore." |
 | hospital | 医院 | They put him in the ICU to stabilize him. |
 | phone | 电话 | Doc doesn't trust phones. |
 | door | 门 | The door slammed shut. |

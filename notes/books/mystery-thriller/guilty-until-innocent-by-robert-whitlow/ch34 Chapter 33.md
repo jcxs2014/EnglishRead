@@ -273,7 +273,7 @@ Ryan 首次点名 Doc Garrison 与事件有关联。Doc Garrison 似乎是一个
 | feeble | 虚弱的 | The attorney might be feeble and failing now. |
 | warden's office | 监狱长办公室 | Joe returned to the warden's office. |
 | blood pressure | 血压 | His blood pressure is in the danger zone. |
-| cemetery | 墓地 | The cemetery overlooked a valley below. |
+| amen | 阿门（祈祷结束语） | He didn't say "Amen" until he was sure there was nothing left to pray. |
 | threat | 威胁 | All prisoners lived with the possibility of an assault or threat. |
 | security service | 安保服务 | I sent Nancy a text asking about a security service. |
 

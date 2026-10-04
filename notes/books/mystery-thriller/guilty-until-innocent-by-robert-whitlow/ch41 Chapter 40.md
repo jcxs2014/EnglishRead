@@ -630,7 +630,7 @@ Danny 的"Trust me"是一个悬疑小说中常见的 trust 主题变体——在
 | wayward | 走迷的、偏离正道的 | There was no limit to the distance Jesus would go to recover a wayward sheep. |
 | nuzzle | 用鼻子蹭、亲近地拱 | Sandy nuzzled Paige's leg with her nose. |
 | twinge | 一阵（情绪）、刺痛 | Paige felt a twinge of guilt for leaving early. |
-| gritted his teeth | 咬紧牙关（表示忍耐愤怒或痛苦） | Ryan decided not to confront him. Ryan gritted his teeth. |
+| gritted his teeth | 咬紧牙关（表示忍耐愤怒或痛苦） | Not wanting to drive Charlie away from the firm, Ryan decided not to confront him about his conversation with Paige. Ryan gritted his teeth. |
 
 ### ⭐⭐ 进阶
 

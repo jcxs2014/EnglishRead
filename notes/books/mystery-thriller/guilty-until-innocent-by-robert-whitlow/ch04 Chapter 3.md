@@ -165,7 +165,7 @@ Paige 回应 Ryan"小心别伤到孩子"的担忧时，展现了她坚韧独立�
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | pregnant | 怀孕的 | She was pregnant! Ninety percent of her mind and emotions was positive. |
-| lawyer | 律师 | A lawyer in town told Ryan about the small-town life. |
+| lawyer | 律师 | "My information sheet says your husband is a lawyer and works with Tom Clark." |
 | murder | 谋杀 | Tom represented the man who murdered my sister. |
 | husband | 丈夫 | Did you and your husband buy it from the Vaughn family? |
 | office | 办公室 | After Madge left, Paige called the doctor's office. |

@@ -251,7 +251,6 @@ Ryan 想到用指甲刀切断绑住 Doc 的束线带。这个细节展示了 Rya
 |------|------|------|
 | dilapidated | 破旧的、荒废的 | Ryan could make out a dilapidated mobile home. |
 | wobbly | 踉跄的、摇晃的 | Wobbly, Ryan leaned against the side of the truck. |
-| engulf | 吞噬、吞没 | The flames spread from the stove to the wall and to the ceiling. |
 
 ### ⭐⭐ 进阶
 
@@ -260,9 +259,8 @@ Ryan 想到用指甲刀切断绑住 Doc 的束线带。这个细节展示了 Rya
 | constraint | 束缚、约束 | He unsuccessfully struggled against the constraints on his wrists. |
 | stumble | 绊倒、踉跄 | Causing the former detective to stumble forward toward the fiery stove. |
 | rag | 破布、抹布 | Norris stuck a rag in Ryan's mouth. |
-| burner | 炉子、燃烧器 | He turned on one of the burners. |
+| burner | 炉子、燃烧器 | turned on one of the burners |
 | splash | 溅、泼 | Norris tilted the bottle so that oil splashed onto the floor. |
-| pregnant | 怀孕的 | With all her weight on her abdomen, she thought about her baby. |
 | security system | 安保系统 | There's a problem with your system. |
 
 ### ⭐ 基础
@@ -271,7 +269,7 @@ Ryan 想到用指甲刀切断绑住 Doc 的束线带。这个细节展示了 Rya
 |------|------|------|
 | gun | 枪 | He held a gun in his hand and pointed it at her chest. |
 | fire | 火 | Norris was on fire. |
-| door | 门 | She slammed the door and locked it. |
+| door | 门 | Slamming the door, she locked it. |
 | window | 窗户 | She slid headfirst out of the window onto the ground below. |
 | dog | 狗 | Can you tell your dog to shut up? |
 | tea | 茶 | Paige threw the hot tea in his face. |

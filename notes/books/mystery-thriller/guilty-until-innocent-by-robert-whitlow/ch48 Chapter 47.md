@@ -451,12 +451,9 @@ Ryan 感受到神的回应——"我爱你，我原谅你，你的重担已经�
 |------|------|------|
 | corroborate | 证实、印证 | He corroborated what Doc Garrison told us about luring Marty Brock. |
 | accomplice | 同谋、共犯 | Broome also contends his accomplice died in an armed robbery. |
-| shell company | 空壳公司 | The money paid by Charlie Drummond through a shell company. |
-| exile | 流放、亡命 | He may be in the Ukraine, which doesn't have an extradition agreement. |
-| posthumously | 死后地、身后地 | His mother had bequeathed the rock to Ray. |
 | totality | 整体、全部 | Based on the totality of the evidence. |
-| shrine | 圣地、神圣场所 | Ghosts of ancient shame still inhabited the atmosphere. |
-| absolution | 赦免、免罪 | Shame and guilt no longer had the right to shoot their arrows at his soul. |
+| scar | 疤痕 | Except for an ugly scar on the right side of his face. |
+| bequeath | 遗赠 | He gathered together the men on the garden crew and bequeathed the rock he used as a pillow to Ray. |
 
 ### ⭐⭐ 进阶
 
@@ -464,12 +461,9 @@ Ryan 感受到神的回应——"我爱你，我原谅你，你的重担已经�
 |------|------|------|
 | parole | 假释 | Life imprisonment without parole. |
 | custody | 羁押、监禁 | Mr. Moore's immediate release from custody. |
-| restitution | 赔偿、归还 | A pardon would be required for Joe to receive compensation. |
-| deposition | 证词笔录 | Before I take any more depositions. |
+| conviction | 定罪、信念 | Most likely from a post-conviction justice project. |
+| pardon | 赦免 | Any word on whether the governor is going to issue a pardon? |
 | reconcile | 和解、调停 | Bring something into the light is half the battle. |
-| absolution | 赦免 | No one can give you back the years you've lost. |
-| conviction | 定罪、信念 | There are prisoners who can thank similar groups for their freedom. |
-| aggravate | 加重、恶化 | Except for an ugly scar on the right side of his face. |
 
 ### ⭐ 基础
 
@@ -479,7 +473,6 @@ Ryan 感受到神的回应——"我爱你，我原谅你，你的重担已经�
 | court | 法院 | The courtroom was buzzing. |
 | prison | 监狱 | The day before Joe's MAR hearing. |
 | lawyer | 律师 | "You sounded like a real lawyer on a TV show." |
-| pardon | 赦免 | Any word on whether the governor is going to issue a pardon? |
 | guilty | 有罪的 | As long as someone is breathing, Joe believes it's never too late for a person to change. |
 | free | 自由的 | "If the Son sets you free, you're free indeed." |
 | forgive | 原谅 | The next step is to forgive your father. |
