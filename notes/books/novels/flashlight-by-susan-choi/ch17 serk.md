@@ -109,10 +109,7 @@ modified: "2026-10-03"
 | cataclysms | 剧变、大动荡 | In the coming days, he witnessed cataclysms of mourning it was impossible to believe were contrived. |
 | atomized | 被拆成碎片的 | The people of this land had seemed to him thoroughly atomized and hopelessly beneath trust because each had to battle so hard for survival. |
 | tendrils | （毒气的）卷须、蔓延的细条 | He imagined the tendrils of poisonous gas, their silent, sinuous efficiency. |
-| efficiency | （此处）高效、干净利落 | He imagined the tendrils of poisonous gas, their silent, sinuous efficiency. |
-| changeable | 多变的、不固定的 | In collapsing societies, the movements of people mark out the new roads, changeable and unseen except while they are traveled. |
 | insignificance | 微不足道 | He was surprised by the river’s insignificance. |
-| interruption | 中断项、打断（此处指卡在冰里） | This was where he would finally die, his upper body in China, his lower half an interruption in the re-forming ice. |
 | re-forming | 重新结冻的、正在再成形的 | This was where he would finally die, his upper body in China, his lower half an interruption in the re-forming ice. |
 | workmanship | 手艺、做工 | It was a new house when he finished with it, of a workmanship the woman could never have dreamed of in her threadbare widow’s life. |
 | threadbare | 破旧到露底的 | It was a new house when he finished with it, of a workmanship the woman could never have dreamed of in her threadbare widow’s life. |
@@ -138,11 +135,9 @@ modified: "2026-10-03"
 | retrospectively | 事后回看地 | The absence of welcome he’d been deluded enough to resent he retrospectively saw for the prosperity it had offered and would never renew. |
 | perspiration | 汗水 | Serk’s eyes stung from the salty grit carried into them by his freely flowing perspiration, which could never be mistaken for tears. |
 | unsheltered | 无处遮蔽地 | To give the man privacy for his grief, Serk let himself out of the cab and waited unsheltered from the sun against the side of the truck. |
-| consolation | 安慰 | Like children, they all wailed beyond consolation. |
 | subtracted | （从此处）减去 | Starvation was also efficient, it subtracted equally from his mind and his body. |
 | heartlessly | 无情地 | It wasn’t the phone’s presence but his own absence, the world having so heartlessly gone on without him, that he couldn’t endure. |
 | reassignment | （工作）重新分派 | “The ones who couldn’t get a reassignment, some of them are in trade like me, but they know better than to step on my network. |
-| collective | 集体的（此处指集体农庄） | The truck left them at a small collective farm like a ghost town beneath a thin crust of snow. |
 
 ### ⭐⭐ 进阶
 
@@ -218,6 +213,11 @@ modified: "2026-10-03"
 | villainy | 恶行、凶恶 | The North Korean leader’s villainy went without saying. |
 | advocacy | （对外）声援、主张 | No further so-called abductions of citizens of Japan or of any other nation would receive Japanese advocacy or North Korean acknowledgment. |
 | retracted | 收回、撤销 | That grudging American trust in outsiders was now officially retracted, and little as he liked Americans, Serk sympathized. |
+| efficiency | （此处）高效、干净利落 | He imagined the tendrils of poisonous gas, their silent, sinuous efficiency. |
+| changeable | 多变的、不固定的 | In collapsing societies, the movements of people mark out the new roads, changeable and unseen except while they are traveled. |
+| interruption | 中断项、打断（此处指卡在冰里） | This was where he would finally die, his upper body in China, his lower half an interruption in the re-forming ice. |
+| consolation | 安慰 | Like children, they all wailed beyond consolation. |
+| collective | 集体的（此处指集体农庄） | The truck left them at a small collective farm like a ghost town beneath a thin crust of snow. |
 
 ### ⭐ 基础
 

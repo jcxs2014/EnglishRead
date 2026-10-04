@@ -152,6 +152,7 @@ modified: "2026-10-03"
 | exquisitely | 极其精致地 | The skin of his throat also now seemed exquisitely fine; it rippled like water with each inaudible breath. |
 | inaudible | 听不见的 | The skin of his throat also now seemed exquisitely fine; it rippled like water with each inaudible breath. |
 | kindling | 引火柴 | The slightest pressure could splinter it into kindling. |
+| cantankerous tortoise | 坏脾气的陆龟 | Now she does laugh out loud, as he glowers, a cantankerous tortoise. |
 
 ### ⭐ 基础
 
@@ -163,7 +164,6 @@ modified: "2026-10-03"
 | seventy-four | 七十四（此处是房间号） | “His room is down this hall, number seventy-four,” Roger’s interpreter says. |
 | notepad | 记事本 | When she shows him the notepad, his gaze remains on a distant horizon; she can’t seem to enter his field of vision. |
 | heron | 苍鹭 | Slow as a heron homing in on a fish, he bends over the pad until the pen makes contact. |
-| cantankerous tortoise | 坏脾气的陆龟 | Now she does laugh out loud, as he glowers, a cantankerous tortoise. |
 | thick-soled | 厚底的 | Louisa gazes with new eyes at the thick-soled orthopedic black vinyl shoes within which feet like her sons’ might be hiding. |
 | name wrong | 把名字说错 | Many times in recent months she has wished she could say to her mother, Did you know that you’ve said our name wrong all these years? |
 | rewritten timeline | 被改写的时间线 | It’s not even a rewritten timeline or even a line. |
