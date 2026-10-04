@@ -45,7 +45,7 @@ modified: "2026-10-04"
 
 > **原句 2:** "There was a King, who was supposed to govern, in the sense that he appointed the Ministers, but in practice the Revolutionaries acted, from very early on, as if the National Assembly were the government, and took many if not most important decisions quite independently of the King and his Ministers; but then, in theory, the King was allowed, for a period, to impose a delaying veto if he did not agree with its actions. As a result, there were times when France seemed to have two separate governments."
 
-- **中文理解**：有一位国王，名义上该由他治国——所谓治国就是任命大臣——但实践上革命者从很早开始就行事如国民公会才是政府，许多乃至大多数重大决策都撇开国王与他的大臣独立作出；而在理论上，国王若不同意其行动，又有权在一段时期内施加拖延性否决。结果，法国时有两套各自为政的政府。
+- **中文理解**：有一位国王，名义上该由他治国——所谓治国就是任命大臣——但实践上革命者从很早开始就行事如国民议会才是政府，许多乃至大多数重大决策都撇开国王与他的大臣独立作出；而在理论上，国王若不同意其行动，又有权在一段时期内施加拖延性否决。结果，法国时有两套各自为政的政府。
 - **句子结构**：第一长句以 but 拧转两次（supposed to govern → in practice → but then in theory），把宪法的纸面与实践的实况来回对照；As a result 收口。
 - **关键词**：`supposed to govern`、`as if the National Assembly were the government`、`two separate governments`
 - **表达方式**：句子自身的来回摆动模仿权力的来回摆动；if not most 的让步式量化给"许多"上探了一个台阶。
@@ -65,7 +65,7 @@ modified: "2026-10-04"
 - **句子结构**：三个 all 引导的并列补语层层推进（大小—形状—尺度），最后落到 in a day 的实用判准。
 - **关键词**：`all the old relics`、`eighty-three départements`、`in a day`
 - **表达方式**：把国土当成可裁切的几何题来做；"一日可达"是把行政写成服务承诺——理性主义的地图观跃然纸上。
-- **为什么这样写**：作者以三个 roughly 的克制修辞提醒读者这是理想设计，随后又交代乡村文盲选不出合格行政人员的现实——几何学的地图与泥泞的土地，从立法第一天起就没对齐。
+- **为什么这样写**：作者以两个 roughly 的克制修辞提醒读者这是理想设计，随后又交代乡村文盲选不出合格行政人员的现实——几何学的地图与泥泞的土地，从立法第一天起就没对齐。
 
 > **原句 5:** "the delegation of the noblesse from Troyes was told that they would be disavowed if they voted for any financial rescue for the King before agreement on a national charter"
 
@@ -81,11 +81,11 @@ modified: "2026-10-04"
 - **句子结构**：三句递进：公理—现状—预言；for us as for you 把阶级对立暂时抹平，your turn will come 再狠狠撕开。
 - **关键词**：`Property is sacred`、`despoiled`、`your turn will come`
 - **表达方式**：莫里神父的警告用教堂布道的节奏说出政治预言；两个 today 对举，把"劫掠"写成有排队次序的事件。
-- **为什么这样写**：作者是把它当作对未来的准确预报来引用的——教会今日的财产，明日就在指券的印刷机里；这句咒语式的警告随后被 568:346 的表决淹没，而它的话在数年后的"嫌疑犯法令"里逐字应验。
+- **为什么这样写**：作者是把它当作对未来的准确预报来引用的——教会今日的财产，明日就在指券的印刷机里；这句咒语式的警告随后被 568:346 的表决淹没，而它预言的劫掠蔓延，此后确以国家规模重演。
 
 > **原句 7:** "on November 2, 1789, the National Assembly voted 568 to 346 to put the property of the Church 'at the disposal of the Nation' (a form of weasel words which implied but did not quite say 'nationalisation')"
 
-- **中文理解**：1789 年 11 月 2 日，国民公会以 568 票对 346 票决定把教会财产"交由 Nation 处置"——一套含糊其辞的说法，暗示了"国有化"却没有明说。
+- **中文理解**：1789 年 11 月 2 日，国民议会以 568 票对 346 票决定把教会财产"交由 Nation 处置"——一套含糊其辞的说法，暗示了"国有化"却没有明说。
 - **句子结构**：主句报票数与决议，括号内的同位语给措辞做病理切片。
 - **关键词**：`568 to 346`、`at the disposal of the Nation`、`weasel words`
 - **表达方式**：weasel words（黄鼠狼字）是作者的判词：决议文体的模糊不是疏忽而是技艺——先把财产拿到手，名分以后再补。
@@ -105,7 +105,7 @@ modified: "2026-10-04"
 - **句子结构**：If so 承接对方前提，since 从句给供给设限，主句以 will be obliged to 写出必然结局——整个推理是教科书式的数量方程。
 - **关键词**：`as good as money`、`not be any more bread or wine`、`the same quantity`
 - **表达方式**：把货币数量论翻译成面包和酒的日常算术，不用一个术语；作者的紧随其后的原文末句补上结论——"基本食品、尤其是面包，将比从前贵上一倍"。
-- **为什么这样写**：这是全章唯一说中的发言：作者用它对照米拉波的雄辩与蒙德斯鸠的账目，让"讲清常识的人输掉表决"成为指券史的核心讽刺。
+- **为什么这样写**：这是全章说中了结局的发言之一（塔列朗与杜邦同被作者判对）：作者用它对照米拉波的雄辩与蒙德斯鸠的账目，让"讲清常识的人输掉表决"成为指券史的核心讽刺。
 
 > **原句 10:** "With hindsight, we can see that the entire assignat enterprise, including the way it was recklessly mismanaged, was one of the most serious of all the mistakes that the Revolutionaries made. It may indeed have been the single most important factor that caused the Revolution to go off the rails and descend into the Terreur of 1793–94."
 

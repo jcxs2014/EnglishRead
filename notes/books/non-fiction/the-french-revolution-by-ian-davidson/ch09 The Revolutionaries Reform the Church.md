@@ -45,7 +45,7 @@ modified: "2026-10-04"
 
 > **原句 2:** "On October 28 the National Assembly decreed that there were to be no further recruitment to the monastic orders in France, on the grounds that there was no need for it; the Revolutionaries referred to monks and nuns as 'idlers' or fainéants (do-nothings)."
 
-- **中文理解**：10 月 28 日，国民公会下令：法国的修会不再招募新人，理由是没有必要；革命者把修士修女称作"闲人"，或法语所说的 fainéants（无所事事者）。
+- **中文理解**：10 月 28 日，国民议会下令：法国的修会不再招募新人，理由是没有必要；革命者把修士修女称作"闲人"，或法语所说的 fainéants（无所事事者）。
 - **句子结构**：decreed that 分句挂 on the grounds that 理由从句；分号后补出称呼，括号内给法语词释义。
 - **关键词**：`no further recruitment`、`on the grounds that`、`idlers`
 - **表达方式**：用绰号立法——先给对象贴上"闲人"标签，再取消其存在理由；fainéants 的法语原词带着宫廷旧怨（"什么都不做的国王"的传统骂名）。
@@ -93,7 +93,7 @@ modified: "2026-10-04"
 
 > **原句 8:** "Both the bishops and the curés would now be called on to swear that they would 'take care of the faithful of the diocese, and be faithful to the nation, to the law and to the King, and support with all their power the Constitution decreed by the National Assembly and accepted by the King'."
 
-- **中文理解**：主教与本堂神甫如今都将被要求宣誓：照顾教区的信众，忠于国族、忠于法律、忠于国王，并竭尽全力拥护国民公会制定、国王已接受的宪法。
+- **中文理解**：主教与本堂神甫如今都将被要求宣誓：照顾教区的信众，忠于国族、忠于法律、忠于国王，并竭尽全力拥护国民议会制定、国王已接受的宪法。
 - **句子结构**：主句的 swear that 引出引语式誓词；誓词内部三项忠诚并列，再接一项拥护义务。
 - **关键词**：`called on to swear`、`be faithful to the nation, to the law and to the King`、`with all their power`
 - **表达方式**：誓词把神职（take care of the faithful）与政职（三项忠诚+拥护宪法）装进同一口气——作者前文已点明这是教士专属条款，文官只须效忠新制度。
@@ -101,10 +101,10 @@ modified: "2026-10-04"
 
 > **原句 9:** "Among the clerics in the National Assembly, the pressure to swear loyalty to the Revolution was obviously intense, but of 250 clerical députés, only 99 consented to swear the oath. The split in the country at large was even deeper: of eighty-three bishops, all but seven refused to swear; one of those seven was, of course, the cynical and worldly-wise Talleyrand."
 
-- **中文理解**：国民公会里的教士议员承受的压力显然极大，但 250 名教士议员中只有 99 人肯宣誓。全国的分裂还要更深：83 位主教中，除 7 人外全部拒誓；那 7 人之一，当然就是那位看破红尘又深谙世故的塔列朗。
+- **中文理解**：国民议会里的教士议员承受的压力显然极大，但 250 名教士议员中只有 99 人肯宣誓。全国的分裂还要更深：83 位主教中，除 7 人外全部拒誓；那 7 人之一，当然就是那位看破红尘又深谙世故的塔列朗。
 - **句子结构**：but 转折引出第一组数字，冒号后第二组数字层层下钻；of course 的插入语把塔列朗的签名写成性格注脚。
 - **关键词**：`only 99 consented`、`all but seven refused`、`cynical and worldly-wise`
-- **表达方式**：用三组百分比讲一场社会分裂，不加形容词；cynical and worldly-wise 一对形容词给塔列朗盖章——精于计算者总能在两边活下来。
+- **表达方式**：用两组绝对数讲一场社会分裂；cynical and worldly-wise 一对形容词给塔列朗盖章——精于计算者总能在两边活下来。
 - **为什么这样写**：作者以数字并置展示"誓言检验"的反效果：压力越大，拒誓越众；配合下文的地区差异（巴黎周边 80% 宣誓、东西部 80% 拒誓、Bas-Rhin 仅 8%、Var 达 96%），一张宗教地理的断层线图就此绘出。
 
 > **原句 10:** "The Revolutionaries had now split France from top to bottom and quite gratuitously launched a long-running clash between themselves and most of the rest of the country."
@@ -150,4 +150,4 @@ modified: "2026-10-04"
 
 ## 一句话总结
 
-革命的几何学撞上了信仰的地图：83 省对 83 教区、选举替换任命、讲坛兼作公告栏，最后一张强制誓言把神职人员的忠诚逼成单选题——250 名教士议员 99 人签名、83 位主教只剩 7 人、五万余神甫近半拒誓；巴黎周边与外省的宣誓率相差近九十个百分点，法国从教区到村庄裂成两半，乡村教堂的石头与圣餐之争，就是三年后内战的彩排。
+革命的几何学撞上了信仰的地图：83 省对 83 教区、选举替换任命、讲坛兼作公告栏，最后一张强制誓言把神职人员的忠诚逼成单选题——250 名教士议员 99 人签名、83 位主教只剩 7 人、五万余神甫近半拒誓；巴黎周边与外省的宣誓率相差可达八十个百分点，法国从教区到村庄裂成两半，乡村教堂的石头与圣餐之争，就是三年后内战的彩排。

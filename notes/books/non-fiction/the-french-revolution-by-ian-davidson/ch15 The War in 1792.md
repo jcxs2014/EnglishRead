@@ -72,7 +72,7 @@ modified: "2026-10-04"
 - **中文理解**：（勒布伦，10 月 30 日致驻伦敦使节）法国已放弃一切征服，此一声明应能使英国政府对我军进入比利时安心。
 - **句子结构**：分句一给政策声明，分句二给外交用途；renounced all conquests 的完成时像一纸保证书。
 - **关键词**：`renounced all conquests`、`reassure the English government`
-- **表达方式**：作者的对照术：同一位外长的下一句话（"比利时人自选其政体"）言犹在耳，吞并算盘（+300 万人/+4 万兵/+4 亿英镑）已由同僚算出——文书并排，反转自现。
+- **表达方式**：作者的对照术：同一位外长的下一句话（"比利时人自选其政体"）言犹在耳，吞并算盘（+300 万人/+4 万兵/+4 亿英镑）已由勒布伦本人算出——文书并排，反转自现。
 - **为什么这样写**：这是"解放 vs 征服"之争的外交面：英国的中立取决于法国的说法，而法国的说法六周内自我作废——作者以两份引文钉住政策漂移的轨迹。
 
 > **原句 6:** "The national Convention declares, in the name of the French nation, that it will give friendship and help to all the peoples who want to recover their freedom, and charges the government to give the generals the necessary orders to provide help for these peoples and to defend the citizens who may have been maltreated, or who could be, in the cause of freedom."
@@ -113,7 +113,7 @@ modified: "2026-10-04"
 - **句子结构**：as did... 的四连类比从国家到个人层层缩小；spectacularly 一词把最后一批人挑出聚光。
 - **关键词**：`enrich itself massively`、`virtually unlimited powers of life or death`、`the envoyés en mission`
 - **表达方式**：发财者名单按权力量级排列——特派员居首，因为他们连生死都握在手里；作者前面刚写"自罗马帝国以来未有的规模的征服与盗窃"，名单是其人间分配表。
-- **为什么这样写**：这是"财产神圣"信条的总清算：作者以此收束"1789 的价值观被战争改造得面目全非"的判断——并把特派员制度（下章的恐怖执行者）提前挂上号。
+- **为什么这样写**：这是"财产神圣"信条的总清算：作者以此收束"1789 的价值观被战争改造得面目全非"的判断——并把特派员制度（第 17 章起的恐怖执行者）提前挂上号。
 
 ## 词汇分级
 

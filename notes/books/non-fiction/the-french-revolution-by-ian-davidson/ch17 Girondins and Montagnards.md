@@ -31,7 +31,7 @@ modified: "2026-10-04"
 - **可质疑处**：
   1. **丹东的"失踪五天"**：作者自承 "no one has a confident and coherent account of what he was up to"——行程异常（ normally two days, took five）与通敌疑云并置，叙事以怀疑作结但证据留白。
   2. **特派员的双向评价无权重**：既"经常充满干劲且成功"（圣鞠斯特）又"严重削弱公会、破坏政治平衡"——收益与代价各说各话，未给总量判断。
-  3. **CSP 集权的过程留白**："数月内 asserting its pre-eminence"只有结果句，何时、通过何种机制压倒公会与治安委员会，本章未展开。
+  3. **CSP 集权的过程留白**："数月内 asserted its pre-eminence"只有结果句，何时、通过何种机制压倒公会与治安委员会，本章未展开。
 
 ## 选择性精读
 
@@ -89,7 +89,7 @@ modified: "2026-10-04"
 - **句子结构**：感叹与设问交替；最后一个 where will this despotism finish 的长问句把三重 if 的逻辑推到顶。
 - **关键词**：`a despotism even more frightful than that of anarchy`、`usurping public liberty`、`confuse all the powers`
 - **表达方式**：比佐是"热烈而忧郁"的法理派（米歇莱语），这段抗议以立宪主义者的全部词汇控诉混权——作者点明他此前还投票主张国王判决须交人民复决。
-- **为什么这样写**：作者的用意是给革命法庭挂一张反方面孔：法庭 3 月 9 日表决通过、次日开张，而比佐的预言（专政无底）在两年后回响——先立证人，再写机器。
+- **为什么这样写**：作者的用意是给革命法庭挂一张反方面孔：法庭 3 月 9 日表决通过、次日开张，而比佐的预言（专政无底）在此后一年多里回响——先立证人，再写机器。
 
 > **原句 8:** "was in this phrase, more than in the rest of the project."
 

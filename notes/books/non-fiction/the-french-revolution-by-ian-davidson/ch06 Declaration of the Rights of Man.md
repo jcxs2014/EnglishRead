@@ -104,7 +104,7 @@ modified: "2026-10-04"
 - **中文理解**：财产是不可侵犯与神圣的权利，除非经合法认定的公共需要明显要求，且以公正而预先的补偿为条件，否则任何人的财产不得被剥夺。
 - **句子结构**：being 分词短语立定语，主句用 none can be deprived 的全称否定；unless 从句内嵌 legally constituted 插入语，再挂 on condition of 补偿条件。
 - **关键词**：`inviolable and sacred`、`public necessity, legally constituted`、`a fair and prior indemnity`
-- **表达方式**：三重闸门（公共需要—合法认定—预先补偿）层层上锁；sacred 一词在全篇只给了财产，不给平等。
+- **表达方式**：三重闸门（公共需要—合法认定—预先补偿）层层上锁；正文各条中唯财产得"sacred"定语。
 - **为什么这样写**：作者引第 17 条全文，是为逼出本章最锋利的一问：为什么"神圣"给财产不给平等？他的答案在紧邻的段落里——多数议员是资产阶级，"他们要的是一场资产阶级革命"。
 
 > **原句 10:** "As far as history is concerned, however, there is only one Declaration of Human Rights of any significance before that of the United Nations in 1948, and that is the French Declaration of 1789."

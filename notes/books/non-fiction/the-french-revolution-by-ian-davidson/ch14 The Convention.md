@@ -105,7 +105,7 @@ modified: "2026-10-04"
 - **句子结构**：as illegal as 的三连类比把"非法"层层抬升为普世前提；末句以同词复现（revolution...without a revolution）的格言体收束。
 - **关键词**：`illegal`、`the fall of the King and of the Bastille`、`without a revolution`
 - **表达方式**：把违法史重新定义为合法性本身——逻辑上循环，修辞上无敌；作者点明这是对卢韦"迈向最高权力"指控的正面应战。
-- **为什么这样写**：这句是恐怖年代的法哲学预制件：既然革命=非法的合法，那么一切非常措施都有了总账账户；作者把它放在"共和国奠基"的短暂和谐之后，预告和谐的短命。
+- **为什么这样写**：这句是恐怖年代的法哲学预制件：既然革命=非法的合法，那么一切非常措施都有了总账账户；作者把"共和国奠基"的短暂和谐放在它之后（9/22 元年、9/25 统一不可分），预告和谐的短命。
 
 > **原句 10:** "The Montagnards eventually defeated the Girondins by mobilising the Paris sans-culottes against them; but the only way they could dominate the increasingly radical demands emanating from the Paris sans-culottes was to take France ruthlessly down the path towards centralised, Revolutionary dictatorship and the Terror."
 

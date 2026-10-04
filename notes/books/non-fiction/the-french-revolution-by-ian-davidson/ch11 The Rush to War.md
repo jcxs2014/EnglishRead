@@ -61,7 +61,7 @@ modified: "2026-10-04"
 
 > **原句 4:** "frequently, the most revolutionary politicians would repeat to the Jacobins in the evening the speeches which they had delivered in the afternoon to the National Assembly, in the hope of securing the noisy endorsement of their supporters, as if from a higher court of appeal."
 
-- **中文理解**：常常是这样：最革命的政治人物下午在国民公会发表的演说，晚上要再对雅各宾俱乐部讲一遍，指望换来支持者喧闹的背书——仿佛俱乐部是一家更高一级的上诉法院。
+- **中文理解**：常常是这样：最革命的政治人物下午在国民议会发表的演说，晚上要再对雅各宾俱乐部讲一遍，指望换来支持者喧闹的背书——仿佛俱乐部是一家更高一级的上诉法院。
 - **句子结构**：would repeat...the speeches which... 长主谓挂 in the hope of 目的状语；as if 从句以司法比喻收尾。
 - **关键词**：`repeat to the Jacobins in the evening`、`a higher court of appeal`
 - **表达方式**：政治的全部日程被压缩成下午/晚上两个场次——议会是初审，俱乐部是终审；"上诉法院"的比喻把合法性的来源问题说穿了。

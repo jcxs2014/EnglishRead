@@ -65,7 +65,7 @@ modified: "2026-10-04"
 - **句子结构**：四个 follow on 的链条式排比压缩六十年；we said it, and we believed it 的复沓与 Alas! 的叹息构成情感落差；for it is always the same 收束成宿命论断。
 - **关键词**：`successive mutations`、`presumptuously called its task`、`it is always the same`
 - **表达方式**：托克维尔的苦笑式排比：把政体更替写成语法练习，再自嘲每一次的轻信；presumptuously（妄自尊大地）是全段的自我刺点。
-- **为什么这样写**：作者引它给"革命何时结束"的问题立起十九世纪的证词墙：连最敏锐的同时代人都六次误报终点——这为作者自设判据（1969）的谨慎做了铺垫。
+- **为什么这样写**：作者引它给"革命何时结束"的问题立起十九世纪的证词墙：连最敏锐的同时代人都五次误报终点——这为作者自设判据（1969）的谨慎做了铺垫。
 
 > **原句 5:** "The greatest historians of the first half of the nineteenth century were still hypnotised by the event which had dominated their lives; but none of them, neither Guizot nor Michelet and certainly not Tocqueville, thought they were entitled to consider it familiar, 'normal', easy to understand. On the contrary, it is astonishment in the face of the strangeness of the phenomenon which constitutes the existential orientation of their historical work."
 
@@ -153,4 +153,4 @@ modified: "2026-10-04"
 
 ## 一句话总结
 
-尾声是两本账的对读：哲学账上，革命给了世界主权在民与一份权利清单；操作账上，它留下六十年九部"永远有效"的宪法、八十六届政府的第三共和与一位接一位打仗起家的救主——王权与共和的争辩延续到凡尔登塔下的一块木牌，政教之争到 1905 年才签停战、到宪法第一条才算落定；作者以"动荡不再引发宪政危机"为尺，量得 1969 年 4 月 28 日——戴高乐负气而去，共和国一步未颤：革命至此，差不多整整一百八十年，终于停摆；而托克维尔笔下那个"永远不会让人无动于衷"的民族，替全书合上了封面。
+尾声是两本账的对读：哲学账上，革命给了世界主权在民与一份权利清单；操作账上，它留下六十年九部"永远有效"的宪法、八十六届政府的第三共和与一位接一位打仗起家的救主——王权与共和的争辩延续到凡尔登塔下的一块木牌，政教之争到 1905 年才最终媾和、到宪法第一条才算落定；作者以"动荡不再引发宪政危机"为尺，量得 1969 年 4 月 28 日——戴高乐负气而去，共和国一步未颤：革命至此，差不多整整一百八十年，终于停摆；而托克维尔笔下那个"永远不会让人无动于衷"的民族，替全书合上了封面。

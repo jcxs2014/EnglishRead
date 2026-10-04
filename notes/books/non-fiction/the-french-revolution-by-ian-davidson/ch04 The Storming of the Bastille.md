@@ -37,7 +37,7 @@ modified: "2026-10-04"
 
 > **原句 1:** "THE IMMEDIATE CONSEQUENCE of the sacking of Necker on July 11, 1789, was that the centre of gravity of the Revolution shifted abruptly from Versailles to Paris, from the deliberate calm of the Assemblée nationale to the agitation of the crowds of sans-culottes in the streets of the capital."
 
-- **中文理解**：1789 年 7 月 11 日罢免内克尔的最直接后果，是革命的重心骤然从凡尔赛移到巴黎——从国民公会的从容镇定，移到首都街头无套裤汉人群的骚动。
+- **中文理解**：1789 年 7 月 11 日罢免内克尔的最直接后果，是革命的重心骤然从凡尔赛移到巴黎——从国民议会的从容镇定，移到首都街头无套裤汉人群的骚动。
 - **句子结构**：主语 the IMMEDIATE CONSEQUENCE 挂 of 短语，表语是 shifted...from...to...；第二个 from...to... 把地理位移与气氛位移叠成平行结构。
 - **关键词**：`centre of gravity`、`shifted abruptly`、`deliberate calm`、`agitation`
 - **表达方式**：两个 from...to... 连用，第一对是城市，第二对是气质——"从容"对"骚动"，制度的与街头的两种革命在此分轨。

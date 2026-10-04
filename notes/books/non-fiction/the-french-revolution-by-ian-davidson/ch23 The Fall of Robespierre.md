@@ -20,7 +20,7 @@ modified: "2026-10-04"
 
   | 证据 | 类型 | 支撑什么 |
   |---|---|---|
-  | 集中化清单：革命军解散、囤粮特派员（commissaires aux accaparements）裁撤、检举须出自两委员会、4/1 十二执行委员会取代行政会议、4/19 召回 21 名特派员（巴拉斯、卡拉尔、富歇、弗烈隆、塔利安） | 案例 | 恐怖自断盟友的机制 |
+  | 集中化清单：革命军解散、囤粮特派员（commissaires aux accaparements）裁撤、检举须出自两委员会、4/1 十二执行委员会取代行政会议、4/19 召回 21 名特派员（巴拉斯、卡里耶、富歇、弗烈隆、塔利安） | 案例 | 恐怖自断盟友的机制 |
   | 牧月 22 日法（6/10）：不审问、不出证据、不许辩护、只判无罪或死刑，凭陪审团"道德信念"；巴黎 6/10–7/28 六周处决 1,376 人（此前 15 个月共 1,251） | 数据 | 大恐怖的峰值与全法放缓（6–7 月月均 1,277、8 月仅 86） |
   | 战争红利与政策空窗：弗勒吕斯大捷（6/26）、卡尔诺"以敌养军"（布鲁塞尔 5,000 万英镑硬币运回）——但"恐怖直至和平"未见松动 | 数据 | 恐怖的无目标性暴露 |
   | 8 热月演说：不点名控诉"两个政府"的阴谋、要求清洗两委员会；康邦"受辱之前，我要对法兰西说话"逆转表决 | 案例 | 议会程序内的反击 |
@@ -70,7 +70,7 @@ modified: "2026-10-04"
 > **原句 5:** "Punish the traitors, renew the offices of the Comité de sûreté générale, purge this committee itself and place it under the Comité de Salut Public; purge the Comité de salut public itself, and set up a united government under the supreme authority of the national Convention."
 
 - **中文理解**：（承前，"此恶的药方"）惩办叛徒，改组治安委员会，清洗该会并将其置于救国委员会之下；清洗救国委员会本身，在国民公会的最高权威下建立一个统一的政府。
-- **句子结构**：purge 一词三现的清册式排比；末句以"公会最高权威"收束——独裁者的药方竟是议会至上。
+- **句子结构**：purge 一词两现的清册式排比；末句以"公会最高权威"收束——独裁者的药方竟是议会至上。
 - **关键词**：`Punish the traitors`、`purge`、`under the supreme authority of the national Convention`
 - **表达方式**：药方的递进暴露其悖论：要清洗的委员会包括自己坐着的那个；作者评语是公会"惊呆了"——他攻击了政府的全部机构，却只点了一个人的名。
 - **为什么这样写**：引它是为了完成政变叙事的反转点：库东顺势提"感谢并印发全文"，康邦起立（"受辱之前，我要对法兰西说话！"）、比约-瓦雷纳提议先审后印、潘尼斯逼其点名——一纸清册变成对自己的传票。
@@ -104,7 +104,7 @@ modified: "2026-10-04"
 - **中文理解**：（马蒂兹笔下的瓦迪埃）一个玩世不恭、放浪形骸的老人，心里只有一种信仰：无神论。
 - **句子结构**：三重定语的肖像句收束于同位语"唯一的信仰"。
 - **关键词**：`a cynical and libertine old man`、`only one faith`、`that of atheism`
-- **表达方式**：以"信无神"写"有信"——马蒂兹的刻薄评语本身就是恐怖年代人物志的标本；瓦迪埃正是"挤走丹东审判"与" Turkish 拟比"（称丹东为 stuffed turbot"填馅火鱼"）的主角。
+- **表达方式**：以"信无神"写"有信"——马蒂兹的刻薄评语本身就是恐怖年代人物志的标本；瓦迪埃正是"挤走丹东审判"的主角，他还把丹东讥为 stuffed turbot（"填馅多宝鱼"）。
 - **为什么这样写**：作者引它给 CSG 与 CSP 的摩擦添上人脸：治安委员会不满罗伯斯庇尔另设警局——8 热月的反罗联盟里，站着的是这类"以信仰无神为唯一信仰"的老警察。
 
 > **原句 10:** "is such a profound dividing line in the history of the Revolution, and in fact in all of our history, that at this point, quite often, the pen of the Jacobin historian finds itself taken, without quite understanding it, by a strange lassitude. It is the end of the Revolution because it is the victory of representative legitimacy over Revolutionary legitimacy … and as Marx says, the revenge of real society over the illusions of politics. If the death of Robespierre has that meaning, it cannot be because he was honest, and the Thermidoriens [those who overthrew him] corrupt. It is because he was, more than anyone else, the Revolution in power."
@@ -151,4 +151,4 @@ modified: "2026-10-04"
 
 ## 一句话总结
 
-恐怖在胜利的门口冻毙：革命军被解散、民众社被查禁、特派员被召回受审——罗伯斯庇尔亲手拆掉自己的电流，又在弗勒吕斯大捷后拒绝兑现"直至和平"；三周隐身无人知其所为，8 热月一场不点名的"两个政府"控诉让全场自危者变成了逮捕他的一致多数；雅各宾的欢呼救不了他，雨夜的公社营救与被出卖的口令只换来断颚的十小时——10 热月下午五点半，绑带扯下时他惨叫出声，而孚雷的判词早已写好：他比任何人都更是掌权中的革命。
+恐怖在胜利的门口冻毙：革命军被解散、民众社被查禁、特派员被召回受审——罗伯斯庇尔亲手拆掉自己的电流，又在弗勒吕斯大捷后拒绝兑现"直至和平"；三周隐身无人知其所为，8 热月一场不点名的"两个政府"控诉让全场自危者变成了逮捕他的一致多数；雅各宾的欢呼救不了他，雨夜的公社营救与被出卖的口令只换来断颚后的漫长折磨——10 热月下午五点半，绑带扯下时他惨叫出声，而孚雷的判词早已写好：他比任何人都更是掌权中的革命。

@@ -104,7 +104,7 @@ modified: "2026-10-04"
 - **中文理解**：（马伊勒，首位投票者）我认为，公会值得考虑一下：延缓行刑时刻是否并无用处。
 - **句子结构**：I think it would be worthy 的客套外壳包着 delay 的内核；双重疑问（whether it would not be useful）把立场说得模棱两可。
 - **关键词**：`worthy of the Convention`、`delay the moment of execution`
-- **表达方式**：作者是首个抽签被点名的图卢兹律师，投了死刑又附加缓刑条款——这句的骑墙措辞正是 361 票之谜的起点（剔除这些附加票后死刑恰过最低多数）。
+- **表达方式**：马伊勒是首个抽签被点名的图卢兹律师，投了死刑又附加缓刑条款——这句的骑墙措辞正是 361 票之谜的起点（剔除这些附加票后死刑恰过最低多数）。
 - **为什么这样写**：作者引它是为了拆解表决的统计学：366→387→剔除附加条款后 361——吉伦特领袖们的"缓刑票"（维尔尼奥、比佐、佩蒂昂等）与无条件死硬票（迪科、卡拉、拉苏尔斯等）的分野，全藏在这种措辞里。
 
 > **原句 10:** "there were many to defend the life of the King, in the presence of the furious fanatics who, from the galleries, shouted, interrupted the speakers, and shook their fists at them, and who, at his entrance, and at his exit, surrounded him with threats."

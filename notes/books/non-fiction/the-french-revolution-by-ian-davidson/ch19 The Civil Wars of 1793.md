@@ -8,13 +8,13 @@ modified: "2026-10-04"
 
 - **出处**：*The French Revolution: From Enlightenment to Tyranny*，Ian Davidson 著，Profile Books 2016 年出版
 - **作者**：Ian Davidson（伊恩·戴维森）
-- **章节定位**：全书第十九章——三线战争：旺代叛乱（征兵引爆、至 12/23 萨韦奈屠杀）、所谓"联邦主义"内战（诺曼底、波尔多、里昂、马赛、土伦——多由地方权力斗争驱动）、对欧战争扩大；马拉遇刺（7/13 夏洛蒂·科黛）；镇压账单：里昂约 1,900 人处决、南特卡拉尔约 1 万人、图尔罗"地狱纵队"屠旺代近半人口
+- **章节定位**：全书第十九章——三线战争：旺代叛乱（征兵引爆、至 12/23 萨韦奈屠杀）、所谓"联邦主义"内战（诺曼底、波尔多、里昂、马赛、土伦——多由地方权力斗争驱动）、对欧战争扩大；马拉遇刺（7/13 夏洛蒂·科黛）；镇压账单：里昂约 1,900 人处决、南特卡里耶约 1 万人、图尔罗"地狱纵队"屠旺代近半人口
 - **字符数**：22,048（提取件 `text/ch19_the_civil_wars_of_1793.txt`）
 - **一句话主旨**：1793 年的内战是一串被巴黎叙事统摄的地方战争——旺代人抗征兵而非勤王，"联邦主义者"多为本市政争；而巴黎的平定方式（里昂的霰弹炮、南特的溺毙、旺代的火烧）把镇压变成第二场恐怖，并以其反噬保证叛乱焖燃多年
 
 ## 论证结构
 
-- **核心论点**：旺代与"内战"是两类性质不同的反叛：前者是征兵令引爆的本地农民抗议（王党、教会的旗号是事后拼装），后者是各城镇自身权力斗争的总名——"联邦主义"是山岳派的抹漆术语；巴黎的胜利者不以宽大收官：韦斯特曼的"斩尽杀绝"、卡拉尔的溺刑、图尔罗的"地狱纵队"近乎灭绝政策，镇压的残暴反过来延续着叛乱。
+- **核心论点**：旺代与"内战"是两类性质不同的反叛：前者是征兵令引爆的本地农民抗议（王党、教会的旗号是事后拼装），后者是各城镇自身权力斗争的总名——"联邦主义"是山岳派的抹漆术语；巴黎的胜利者不以宽大收官：韦斯特曼的"斩尽杀绝"、卡里耶的溺刑、图尔罗的"地狱纵队"近乎灭绝政策，镇压的残暴反过来延续着叛乱。
 
 - **证据链**：
 
@@ -37,7 +37,7 @@ modified: "2026-10-04"
 
 > **原句 1:** "If I go forward, follow me; if I retreat, kill me; if I die, avenge me!"
 
-- **中文理解**：（拉罗什雅凯莱战吼）我若前进，你们跟上；我若后退，杀了我；我若战死，为我报仇！
+- **中文理解**：（拉罗什雅凯兰战吼）我若前进，你们跟上；我若后退，杀了我；我若战死，为我报仇！
 - **句子结构**：三个 if 分句排比，动词递进（follow—kill—avenge）；一句军令写完生死契约。
 - **关键词**：`go forward`、`kill me`、`avenge me`
 - **表达方式**：21 岁贵族把自身押作军旗——以自罚条款换取追随者的死心；作者点明他因此"在本地既以勇武也以这句传奇战吼闻名"。
@@ -70,9 +70,9 @@ modified: "2026-10-04"
 > **原句 5:** "radical Jacobins had taken it over and begun intimidating the rest of the population with a policy of Terror, forced taxes, intrusive police visits and the imprisonment of suspects"
 
 - **中文理解**：（马赛，1793 年 1 月起）激进雅各宾接管了这座城市，开始以恐怖政策、强制摊派、入户骚扰式的警察造访与监禁嫌疑犯来恐吓其余居民。
-- **句子结构**：taken over and begun intimidating 的双动词接四个手段名词（Terror/forced taxes/police visits/imprisonment）。
+- **句子结构**：taken it over and begun intimidating 的双动词接四个手段名词（Terror/forced taxes/police visits/imprisonment）。
 - **关键词**：`a policy of Terror`、`forced taxes`、`intrusive police visits`
-- **表达方式**：作者以清单写暴政的日常肌理——恐怖在这里是市政实务而非抽象口号；句中的 Terror 用小写，是手段名而非专名。
+- **表达方式**：作者以清单写暴政的日常肌理——恐怖在这里是市政实务而非抽象口号；句中的 Terror 作大写，是手段名而非专名。
 - **为什么这样写**：马赛的反弹（4 月底分区起义、5 月捕俱乐部领袖）由此获得动因：作者先写雅各宾的治理方式，再写市民的忍受极限——外省的"叛乱"档案里，第一页往往是被统治的体验。
 
 > **原句 6:** "on July 12, 1793, the population rebelled against the oppressive Jacobin dictatorship, and the royalists again took power. They closed the Jacobin club and hanged twenty-four of its members."
@@ -101,7 +101,7 @@ modified: "2026-10-04"
 
 > **原句 9:** "Carrier was a strange man, an Auvergnat, ill tempered, solitary and silent, at times dark humoured and withdrawn, at others of an excitability which was at the limits of sanity, and always liable to drown his solitude in drink."
 
-- **中文理解**：卡拉尔是个怪人：奥弗涅人，坏脾气、孤僻寡言，时而阴郁退缩，时而激动得近乎失智，又总是借酒浇没他的孤独。
+- **中文理解**：卡里耶是个怪人：奥弗涅人，坏脾气、孤僻寡言，时而阴郁退缩，时而激动得近乎失智，又总是借酒浇没他的孤独。
 - **句子结构**：一长串同位修饰（身份—脾气—两极—酒）绘出人格速写；at the limits of sanity 是全句的心理红线。
 - **关键词**：`ill tempered`、`at the limits of sanity`、`drown his solitude in drink`
 - **表达方式**：作者把嗜杀者先写成病人——性格描写不为开脱，而为解释制度的遇人不淑：公会派一个心理越界者带着无限权力去"平定与惩罚"。

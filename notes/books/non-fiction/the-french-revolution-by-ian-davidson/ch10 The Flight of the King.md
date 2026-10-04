@@ -73,7 +73,7 @@ modified: "2026-10-04"
 - **句子结构**：chose to pretend 的动词链直白得刺眼；that 从句陈述一个各方都不信的命题。
 - **关键词**：`chose to pretend`、`kidnapped by a conspiracy of aristocrats`
 - **表达方式**：作者用 pretend 一词把"官方叙事"的制造过程写成一目了然的选择——不是被骗，而是决定一起演。
-- **为什么这样写**：这句是宪法工程的自我辩护书：承认国王自愿出逃，立宪君主制当场死亡；发明一个绑架故事，宪法还能赶完工——作者随后指出国王留下的宣言与布耶自揽责任的信让这出戏勉强圆场。
+- **为什么这样写**：这句是宪法工程的自我辩护书：承认国王自愿出逃，立宪君主制当场死亡；发明一个绑架故事，宪法还能赶完工——作者随后指出：国王留下的宣言反让绑架小说更难自圆，是布耶自揽责任的信把它勉强圆上。
 
 > **原句 6:** "he said that he was 'revolted to see the anarchy and the despotism of the clubs which dominated the Assembly' and that he wanted to put himself and his family in safety"
 
@@ -93,10 +93,10 @@ modified: "2026-10-04"
 
 > **原句 8:** "on June 14 the National Assembly adopted the Loi Le Chapelier, named after the Deputy Isaac Le Chapelier, which banned all organisations of workers and specifically prohibited any form of trade union action."
 
-- **中文理解**：6 月 14 日，国民公会通过了以议员伊萨克·勒夏普利埃命名的《勒夏普利埃法》，禁止一切工人组织，并明文禁止任何形式的工会行动。
+- **中文理解**：6 月 14 日，国民议会通过了以议员伊萨克·勒夏普利埃命名的《勒夏普利埃法》，禁止一切工人组织，并明文禁止任何形式的工会行动。
 - **句子结构**：主句挂 named after 插入语与 which 定语从句；banned 与 prohibited 两个动词把禁令两层加密。
 - **关键词**：`banned all organisations of workers`、`any form of trade union action`
-- **表达方式**：立法语言只下禁令不给理由——理由在作者随后补的一句：革命者认为间接税累穷人、所以集体议价也会累及谁？他们没有问。
+- **表达方式**：立法语言只下禁令不给理由——理由在作者随后补的一句：工运尚在萌芽、工人最关心的是粮价，集体议价反而无人问津。
 - **为什么这样写**：作者把这条法律放在瓦雷内与战神广场之间，是要摆出资产阶级革命的自供状：同一个议会废除了封建特权，也废除了工人的结社权（此法生效 76 年，至 1867 年）——解放与禁止出自同一支笔。
 
 > **原句 9:** "it proclaimed ‘that the crime of Louis XVI is proved, that this King has abdicated’ and that it was necessary to ‘convene a new constituent power, so as to proceed in a truly national way to the judgement of the guilty, and above all to the replacement and the organisation of a new executive power’"

@@ -37,7 +37,7 @@ modified: "2026-10-04"
 
 > **原句 1:** "IN THEIR DECLARATION OF THE RIGHTS OF MAN, the National Assembly had left one problem unresolved and unaddressed: what to do about the King."
 
-- **中文理解**：《人权宣言》写就，国民公会却留下了一个既未解决、也未被触及的问题：拿国王怎么办。
+- **中文理解**：《人权宣言》写就，国民议会却留下了一个既未解决、也未被触及的问题：拿国王怎么办。
 - **句子结构**：介词短语起头，主句两个并列补语（unresolved and unaddressed），冒号后掉出那个问题本身。
 - **关键词**：`unresolved and unaddressed`、`what to do about the King`
 - **表达方式**：两个近义补语叠用，宣告回避的自觉性；冒号后口语化的提问与宣言的庄严文体相撞。
@@ -45,7 +45,7 @@ modified: "2026-10-04"
 
 > **原句 2:** "Then, on September 11 the National Assembly decreed, by a substantial but much smaller majority, 673 votes to 352, that the King should have just a suspensive or delaying power of veto, which would allow him to hold back actions by the National Assembly for a maximum of two legislatures, or four years."
 
-- **中文理解**：随后在 9 月 11 日，国民公会以可观但小得多的多数——673 票对 352 票——决议：国王只应拥有暂停性即延迟性的否决权，至多能把国民公会的法案压后两届议会、也就是四年。
+- **中文理解**：随后在 9 月 11 日，国民议会以可观但小得多的多数——673 票对 352 票——决议：国王只应拥有暂停性即延迟性的否决权，至多能把国民议会的法案压后两届议会、也就是四年。
 - **句子结构**：主句插进方式状语与票数，that 从句给否决权定性（suspensive or delaying），which 从句量化时限。
 - **关键词**：`suspensive or delaying power of veto`、`673 votes to 352`、`a maximum of two legislatures`
 - **表达方式**：substantial but much smaller 的让步式定语预告妥协的脆弱；数字前置票距，权力设计全用工程语言。
@@ -109,7 +109,7 @@ modified: "2026-10-04"
 
 > **原句 10:** "But the fact that there was now a second centre of power – which could mobilise violent muscle in the streets, first against the King and then against the National Assembly – exacerbated the deep splits between different factions inside the Assembly."
 
-- **中文理解**：但事实是，如今有了第二个权力中心——它能在街头动员暴力肌肉，先用来对付国王，随后就会用来对付国民公会——这加剧了公会内部各派系之间的深刻分裂。
+- **中文理解**：但事实是，如今有了第二个权力中心——它能在街头动员暴力肌肉，先用来对付国王，随后就会用来对付国民议会——这加剧了公会内部各派系之间的深刻分裂。
 - **句子结构**：the fact that 同位语从句立论，破折号间的 which 从句预言暴力的两个先后目标；exacerbated 主谓落定全句。
 - **关键词**：`a second centre of power`、`violent muscle`、`exacerbated the deep splits`
 - **表达方式**：first against...and then against... 的次序副词是全句的预言书——暴力对象会换，暴力本身不会退场；violent muscle 把群众力量写成可动员的肌体。

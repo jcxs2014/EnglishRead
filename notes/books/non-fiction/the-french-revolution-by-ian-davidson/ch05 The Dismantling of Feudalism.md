@@ -61,7 +61,7 @@ modified: "2026-10-04"
 
 > **原句 4:** "The most probable reason is that two days earlier, in a spontaneous late-night session, the National Assembly had voted to sweep away all the paraphernalia of feudal privilege."
 
-- **中文理解**：最可能的原因是：两天前，在一次临时起意的深夜会议里，国民公会投票表决，把封建特权的一整套行头一扫而光。
+- **中文理解**：最可能的原因是：两天前，在一次临时起意的深夜会议里，国民议会投票表决，把封建特权的一整套行头一扫而光。
 - **句子结构**：主句 is that 表语从句，in a spontaneous late-night session 插入语点明场景；sweep away 的宾语是 paraphernalia（全套行头）。
 - **关键词**：`spontaneous late-night session`、`sweep away`、`paraphernalia`
 - **表达方式**：paraphernalia 把"封建特权"写成一套家什道具——可整体搬走的东西；spontaneous 提示这不是深思熟虑的立法日。
@@ -93,7 +93,7 @@ modified: "2026-10-04"
 
 > **原句 8:** "They did not grasp, or at least they did not want to grasp, that the National Assembly intended that the old dues and duties should go on being paid until reformed alternatives could be put in place or until the old dues had been bought out."
 
-- **中文理解**：他们没有领会——或者至少不想领会——国民公会的意思是：旧的捐税与义务要继续缴纳，直到改革后的替代措施就位，或者旧的封建捐被赎清为止。
+- **中文理解**：他们没有领会——或者至少不想领会——国民议会的意思是：旧的捐税与义务要继续缴纳，直到改革后的替代措施就位，或者旧的封建捐被赎清为止。
 - **句子结构**：did not grasp 与 did not want to grasp 的自我修正嵌在句首，that 从句里再套 intended that 从句；两个 until 分句并列拖出漫长的过渡期。
 - **关键词**：`did not want to grasp`、`go on being paid`、`bought out`
 - **表达方式**："不想领会"四个字是全句的针眼——作者把信息差改写成意愿差；go on being paid 的被动进行时读起来就像账单的持续滚动。
@@ -109,7 +109,7 @@ modified: "2026-10-04"
 
 > **原句 10:** "The great decree finally voted on August 11 said it all: 'The National Assembly is entirely destroying the feudal regime.'"
 
-- **中文理解**：终于在 8 月 11 日表决通过的那道大法令把一切说尽了："国民公会正在彻底摧毁封建制度。"
+- **中文理解**：终于在 8 月 11 日表决通过的那道大法令把一切说尽了："国民议会正在彻底摧毁封建制度。"
 - **句子结构**：主句 said it all 引出冒号后的法令原文；进行时 is destroying 让法令像一条正在执行的现场指令。
 - **关键词**：`said it all`、`entirely destroying`、`feudal regime`
 - **表达方式**：entirely destroying 的现在进行时是法律文本里罕见的动态——不仅宣告废除，而且宣告摧毁正在发生；作者只用 said it all 四字裹住引用，不加评注。

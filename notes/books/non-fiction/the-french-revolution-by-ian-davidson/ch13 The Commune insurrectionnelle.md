@@ -38,7 +38,7 @@ modified: "2026-10-04"
 > **原句 1:** "have charged us to declare to you that they invest you once more with their confidence, but they have charged us at the same time to declare to you that they can recognize as judges of the extraordinary measures to which necessity and resistance to oppression have driven them only the French people, your sovereign and ours, meeting in its primary assemblies."
 
 - **中文理解**：（于格南转述人民授权）人民委托我们向你们宣告：他们把信任再一次授予你们；但他们同时也委托我们向你们宣告：对于"必要"与"反抗压迫"迫使他们采取的那些非常措施，他们只承认一个裁判者——法兰西人民，你们的也是我们的主权者，正在初级会议中集会的法兰西人民。
-- **句子结构**：两个 they have charged us to declare 平行推进，but 转折处藏刀；only the French people 之后的同位语层层堆叠主权者称号。
+- **句子结构**：两个 charged us to declare 分句平行推进，but 转折处藏刀；only the French people 之后的同位语层层堆叠主权者称号。
 - **关键词**：`invest you once more with their confidence`、`the extraordinary measures`、`only the French people`
 - **表达方式**：先给信任再收回裁判权——礼节性让步包裹着合法性宣示；作者随即戳破这番"庄重而冗繁"的话：公社不承认议会的合法性，要的是新议会。
 - **为什么这样写**：开篇引语是起义政权的政治哲学总纲：暴力措施已遂，追认权在"人民"——作者以"新颖却无人真信"的判词（后文明言起义领袖自己仍要求普选议会）定下全章的矛盾基调。
@@ -49,7 +49,7 @@ modified: "2026-10-04"
 - **句子结构**：but 连接衣着的两个世界；破折号里的清单与括号里的法语三连（soigné, coiffé, poudré）互为注脚。
 - **关键词**：`workingmen's clothes`、`got up to the nines`、`silk stockings and culottes`
 - **表达方式**：作者以衣橱写政治身份的悖论——无套裤汉的领袖永远穿套裤；三连法语词带着米歇莱式的戏谑精准。
-- **为什么这样写**：呼应第七章"长裤对马裤"的视觉伏笔：罗伯斯庇尔从未变成街头的人，他只是学会了指挥街头——这个衣橱细节为他在公社与雅各宾之间的双重身份留下注脚。
+- **为什么这样写**：呼应第四章"长裤对马裤"的视觉伏笔：罗伯斯庇尔从未变成街头的人，他只是学会了指挥街头——这个衣橱细节为他在公社与雅各宾之间的双重身份留下注脚。
 
 > **原句 3:** "I am so-andso, and I live at such-and-such address; have you anything against me?"
 
@@ -112,7 +112,7 @@ modified: "2026-10-04"
 - **中文理解**：（公社通令，9 月 3 日，丹东副署）巴黎公社谨此急告各省的兄弟们：关押在狱中的部分凶恶阴谋分子已被人民处死；这些正义之举在他们看来，对于以恐怖震慑藏在城墙之内的叛徒大军不可或缺——时值大军即将开赴前线迎敌之际。
 - **句子结构**：hastens to inform 的公文急件体；acts of justice 的同位语把屠杀定性为司法；indispensable to restrain by terror 把恐怖写成治安工具。
 - **关键词**：`hastens to inform`、`acts of justice`、`restrain by terror`
-- **表达方式**：restrain by terror 四个词是"恐怖"作为治理术的第一次官方亮相——先于恐怖统治两年，逻辑（以恐惧预防犯罪）已全套；作者随后补出死亡统计与"无人知晓动机"的空白。
+- **表达方式**：restrain by terror 四个词是"恐怖"作为治理术的第一次官方亮相——先于恐怖统治一年，逻辑（以恐惧预防犯罪）已全套；作者随后补出死亡统计与"无人知晓动机"的空白。
 - **为什么这样写**：以官方通令收束屠杀叙事，是为了钉死责任结构：不是失控的流言，而是附署、印发、通报全国的公共政策——作者评语 "left a stain on the Revolution which could not be wiped out" 把道德判决与史实并排放下。
 
 ## 词汇分级
@@ -154,4 +154,4 @@ modified: "2026-10-04"
 
 ## 一句话总结
 
-六周的公社统治把革命推过边界又给它找补合法性：普选的公会要开，但投票须唱名；法庭要有，但陪审先过政审；反基督教会要彻底，连村庄的钟声都想没收——入侵恐慌与报人的血字最终汇成九月屠杀，约四成监狱人口死于"打硬"马亚尔的即席法庭；公社以丹东副署的通令把屠杀通报全国，称其为"以恐怖震慑叛徒"的正义之举——恐怖作为一种治理术，在此正式领到了任命状。
+六周的公社统治把革命推过边界又给它找补合法性：普选的公会要开，但投票须唱名；法庭要有，但陪审先过政审；反基督教会要彻底，连村庄的钟声都想没收——入侵恐慌与报人的血字最终汇成九月屠杀，约四成监狱人口死于九月屠杀（马亚尔的即席法庭只在阿贝狱一处）；公社以丹东副署的通令把屠杀通报全国，称其为"以恐怖震慑叛徒"的正义之举——恐怖作为一种治理术，在此正式领到了任命状。

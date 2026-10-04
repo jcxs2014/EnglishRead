@@ -1,0 +1,50 @@
+=== 五步审查 a 步：第 3 条门禁全量重跑 2026-10-04 18:34 UTC ===
+--- verify_quotes --full ---
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 272/272 引文可核实（100%）；完全干净文件 26/26；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+--- check_vocab ---
+词条行合计: 473
+--- FAIL (0) ---
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption_scan ---
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+--- sweep_full ---
+  ✅ 本章命中 248 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+
+=== c 步：结构扫描（含第二实现）===
+--- audit_structure ---
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+--- check_struct_indep（第二实现）---
+=== 独立结构扫描：25 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+--- check_overview_full ---
+=== 总览整串核查（the-french-revolution-by-ian-davidson）===
+  参照集：text/ 逐章（25 章） ｜ 总览文件 3 个
+  A 整串：命中 56 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 3
+  B 章节标签：对 56 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+--- H1 语义 grep ---
+notes/books/non-fiction/the-french-revolution-by-ian-davidson/00_情感节点.md:# 情感节点
+notes/books/non-fiction/the-french-revolution-by-ian-davidson/00_金句精选.md:# 金句精选
+notes/books/non-fiction/the-french-revolution-by-ian-davidson/00_概述.md:# 概述
+
+=== d 步机械子项（*_indep 第二实现）===
+--- check_analysis_indep ---
+  ch23 The Fall of Robespierre.md:9  From Enlightenment to Tyranny
+  ch24 The Aftermath.md:9  From Enlightenment to Tyranny
+  ch25 Epilogue.md:9  From Enlightenment to Tyranny
+--- check_xref_indep ---
+  ❌ 00_金句精选.md:33 → ch04：证据 ['48,000 民兵＋3,000 支枪'] 在该章查无
+        句：- **呼应关系**：与 ch04"48,000 民兵＋3,000 支枪"的次日兑现相接。
+=== chNN 引用 177 处：英文证据报警 1 处 ／ 中文式待人判 116 处 ===
+--- check_anchor ---
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+--- audit_numbers ---
+  ⚪ ch24 The Aftermath.md:25  「55%」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch24 The Aftermath.md:27  「1%」年龄/百分比类，文本层推不出真值，只列出待人核
