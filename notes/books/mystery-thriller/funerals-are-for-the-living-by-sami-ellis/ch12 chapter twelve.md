@@ -54,7 +54,7 @@ modified: "2026-10-04"
 
 - **中文理解**：「那几个女孩睁大眼睛盯着，却一个挨一个地往中间挤，肩膀紧紧并拢。她们无声地互相抓住对方的手。一个歪着头，眼睛是死的。另一个往前迈了一步。」
 - **关键词**：inch closer together · shoulders bunching · grip for each other’s silently · dead eyes · takes a step forward
-- **为什么这样写**：作者用**群体动作的细节**把这群人写成一个正在收网的整体：inch closer together（一点点挤近）、shoulders bunching（肩膀缩紧，像动物护食）、grip for each other’s silently（无声地互相抓紧）——这不是四���散兵，而是一只合拢的手掌。紧跟着的两个单动作（一个歪头、一个迈步）又各自点出一个个体，把整体的压迫感落到具体的人身上。wide eyes 与 dead eyes 同章出现，一「惊恐」一「死寂」，对照得令人发寒。
+- **为什么这样写**：作者用**群体动作的细节**把这群人写成一个正在收网的整体：inch closer together（一点点挤近）、shoulders bunching（肩膀缩紧，像动物护食）、grip for each other’s silently（无声地互相抓紧）——这不是四个散兵，而是一只合拢的手掌。紧跟着的两个单动作（一个歪头、一个迈步）又各自点出一个个体，把整体的压迫感落到具体的人身上。wide eyes 与 dead eyes 同章出现，一「惊恐」一「死寂」，对照得令人发寒。
 - **读者视角提示**：留意「无声地互相抓紧」——她们彼此扶持，说明这四人有某种群体性的共同体意识，而非各自为战的亡魂。这与后面 Sister Erica 统辖她们的设定一致：**Descendants 不是一群散兵，而是一个有组织的存在**。记住这个「合围」的队形，它是后文对抗时最危险的画面。
 
 ## 本章词汇
