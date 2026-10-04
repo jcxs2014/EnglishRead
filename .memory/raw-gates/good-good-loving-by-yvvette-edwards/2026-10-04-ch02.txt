@@ -1,0 +1,50 @@
+=== Good Good Loving ch02 门禁原始输出（复跑全书） ===
+日期: 2026-10-04 UTC | lane: 完整 lane
+--- verify_quotes ---
+ch01 the end january 2020.md: 5/5 ✅
+ch02 settling clyde 2017.md: 7/7 ✅
+
+=== 总计 12/12 引文可核实（100%）；完全干净文件 2/2；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- verify_quotes --full ---
+ch02 settling clyde 2017.md: 7/7 ✅
+
+=== 总计 12/12 引文可核实（100%）；完全干净文件 2/2；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+--- check_vocab ---
+词条行合计: 35
+--- FAIL (0) ---
+--- WARN (5) ---
+  ch01 the end january 2020.md [基础] 基础档疑含超纲词「unreasonably」
+  ch01 the end january 2020.md [基础] 基础档疑含超纲词「perspiration」
+  ch01 the end january 2020.md [基础] 基础档疑含超纲词「prolifically」
+  ch01 the end january 2020.md [基础] 基础档疑含超纲词「subsequently」
+  ch02 settling clyde 2017.md [基础] 基础档疑含超纲词「unyielding」
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption_scan ---
+=== 编辑损坏扫描（good-good-loving-by-yvvette-edwards）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+--- sweep_full ---
+  ✅ 本章命中 12 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+--- check_chapter_quotes ch02 ---
+ch02 settling clyde 2017.md: 7/7 in ch02 text
+--- check_short_quotes ---
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+--- audit_structure ---
+  扫 2 个 md、12 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：为什么这样写、关键词、读者视角提示 ｜ 引语众数 5
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+--- check_nav_layer ---
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+--- sweep_analysis_inline ---
+=== 分析层行内英文逐字核查（good-good-loving-by-yvvette-edwards）===
+  ✅ 逐字 62 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1
+--- check_anchor ---
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 1 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 松散关键词明细 ──
+     ch02 settling clyde 2017.md:54  关键词「We are gathered here / where he should l」的「staying」在全书有、本块无
+--- ggl_vocab_audit ---
+ch02 settling clyde 2017.md: 词条 17 ｜ ❌ 0 ｜ ⚠️ 0
