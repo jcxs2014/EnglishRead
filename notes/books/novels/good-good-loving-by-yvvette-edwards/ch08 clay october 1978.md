@@ -28,23 +28,23 @@ modified: "2026-10-04"
 
 > **原句 2:** For completely different reasons, she would also have said no had Clyde been at home because Clyde didn’t like Clay involved in what he called woman-business, didn’t have a framework for understanding why his son would want to be. He understood men like himself very well, the ones who laughed loud and entertained the crowd, who were opinionated, played dominoes, who gambled, drank and womanised, men like the ones CJ was on a trajectory to become. CJ was his father’s son, made in his image, in looks, actions and mindset. Though Clay looked more like Clyde than CJ, in fact looked more like Clyde than even Clyde did – of which she was mightily glad – in personality he was nothing like Clyde, nothing at all. If anything, he was the complete opposite. She knew it and she knew Clyde felt it.
 
+作者补上这一段的背景：就算克莱德在家，艾伦也会拒绝——因为克莱德把这类事叫作「女人的事」，不让儿子沾；而克莱德最不喜欢 Clay 的一点，其实是这个孩子性情上跟他一点都不像。
 
+**关键词**：Clyde didn’t like Clay involved in what he called woman-business / in personality he was nothing like Clyde / he was the complete opposite / She knew it and she knew Clyde felt it
 
-**关键词**：
+**为什么这样写**：这一块解释了本章所有的紧张从哪来：父亲嫌弃的不是儿子做了什么，而是儿子是什么。作者用最平静的句子写最伤人的事——Clay 跟父亲完全相反，而**母亲知道这一点，也知道父亲知道**。这句 `She knew it and she knew Clyde felt it` 是整个事故的心理引信。
 
-**为什么这样写**：
-
-**读者视角提示**：
+**读者视角提示**：请记住这一点：本章结尾那辆绿色的玩具车之所以重要，正因为它是父亲唯一一次没有否定这个孩子。
 
 > **原句 3:** Clyde stood at the side of the pitch with the other parents. The match was in the last fifteen minutes of the second half. His hands were jammed into the pockets of his coat, because although they were still a couple of months away from proper winter, the fog hadn’t yet lifted entirely and the air itself was freezing cold. He was grateful that the rain which had been falling for most of the week had stopped, but it had left the ground so soft that most of the boys on the pitch were covered in mud from head to boot. He saw CJ looking at him and he raised his hands and gave him two thumbs up on autopilot, though he wasn’t sure what for as he’d been so preoccupied with his current problem that he hadn’t been able to properly concentrate on the match. In fact it had been days since he’d been able to concentrate on anything other than his problem, not that any of that time spent thinking about it had yielded any solutions or been useful in any way, as his problem showed no sign of disappearing despite him racking his brain non-stop about how to make that happen.
 
+克莱德站在球场边，比赛还剩十五分钟，他那双惯于无所事事的手插在口袋里——作者从这里开始用整段写这个男人的心事，写他反复琢磨却始终找不到出口。
 
+**关键词**：Clyde stood at the side of the pitch with the other parents / The match was in the last fifteen minutes / His hands were jammed into the pockets / his problem showed no sign of disappearing / racking his brain non-stop
 
-**关键词**：
+**为什么这样写**：作者在这块里把克莱德写成一个「正在用脑子解决问题」的人——这是本章最要紧的讽刺：他所有的心思都花在怎么让这件事消失，而不是怎么面对它。他那双手插在口袋里，是因为在球场上他什么都不用做，只需要想。
 
-**为什么这样写**：
-
-**读者视角提示**：
+**读者视角提示**：留意「手插在口袋里」这个动作：它在本章开篇写克莱德，在本章结尾写他犹豫要不要发火——同一个姿势，两种无能。
 
 > **原句 4:** In complete desperation, he’d told her he was a married man and there was nothing he could do for her. That was when she pulled out the knife and for a moment Clyde thought he’d had it, then she began to force the knife into his hand, and he realised the weapon hadn’t been brought along to kill him. She told him he might as well kill her and the baby there and then because it would be quicker and less painful than allowing their deaths to drag out. Francesca had pulled her blouse up, exposing her belly so that he could plainly see that what should’ve been a flat stomach on a small-framed woman of her size was now softly rounded. She told him she would lose her job and she wouldn’t be able to pay her rent. Then she said there was probably no need for her to worry about rent anyway, as once the landlady found out she’d be out on the streets. She’d asked him what she was supposed to do, and for the first time since entering the office, Clyde answered with absolute honesty when he said he did not know. She’d given him a piece of paper with her address on it and told him he needed to come and see her at the weekend, otherwise she would kill herself and both she and the baby would haunt his backside for the rest of eternity. She swore it on her baby’s life. Clyde had been raised on an indulgent diet of stories about ghosts and hauntings, about jumbies, duppies and Jack Lantern, about revelations, death and madness, and although he didn’t generally consider himself to be a superstitious man, the threat terrified the living daylights out of him. Which meant he had to do something, whatever that something was, and he needed to do it fast as he was already on day one of the weekend.
 
@@ -58,23 +58,23 @@ modified: "2026-10-04"
 
 > **原句 5:** The contents of Clyde’s bowels instantly became liquid, and he wondered how Ellen had found out about Francesca and how Francesca had found out where he lived and whether she had shown Ellen her suggestively rounded stomach when she had visited his home and the full weight of his bad luck bore down on him; that all this had happened just as CJ had helped him to come up with a plan to sort everything out. ‘It wasn’t my fault,’ he said.
 
+克莱德瞬间以为事情败露了：他满脑子都是艾伦怎么会知道、Francesca 怎么找到他家、她的肚子是不是已经显了；而就在这一刻，他刚刚才跟大儿子商量好一个「能把事情摆平」的方案。
 
+**关键词**：The contents of Clyde’s bowels instantly became liquid / how Ellen had found out about Francesca / the full weight of his bad luck bore down on him / ‘It wasn’t my fault,’ he said
 
-**关键词**：
+**为什么这样写**：作者在这里写的是纯粹的恐惧生理反应，而不是内疚。他没有担心 Francesca，没有担心那个孩子，也没有担心艾伦——他担心的是自己被抓住。而最后那句辩解是全章对他的最终判词：`It wasn’t my fault.`
 
-**为什么这样写**：
-
-**读者视角提示**：
+**读者视角提示**：请对照下一块（那个「没有人需要死」的方案）来读这一句：他此刻怕的不是做错了事，是安排被打乱了。
 
 > **原句 6:** The plan they’d come up with was that Clyde would go and visit Francesca that afternoon. He would offer to give her money towards the child on a weekly basis. He would see the child when he came by to drop off the money. She would not tell anyone he was the father. Unfortunately, this would mean that the child could not come to his home, but it was the best route to go down because if Ellen found out about it she would almost certainly divorce him, and as she already had four children with him and a house that still had a mortgage on it, it was very likely that if she was able to show the court he’d had a child out of doors, she would end up remaining in the home with the kids and not only might he find himself homeless while having to pay her child support, he would have to come up with maintenance payments as well, leaving him with barely enough to support himself, never mind Francesca and the baby. One of the fellows Clyde worked with at the sorting office was in that exact position and it had reduced him from being what he had himself described as a Jack the Lad to the pitiful and broken shell of a formerly care-free man, so in actual fact, he wasn’t even lying; it was a scenario that could genuinely happen. The important thing was he would be supporting Francesca and his child. That was what he had to sell to Francesca. Ellen never needed to find out and nobody needed to die. That was the plan.
 
+那个方案：克莱德当天下午去见 Francesca，答应每周给孩子钱、他去的时候看孩子、她不许上家里来；他要卖给她的说法是「我在养这个孩子」——而艾伦永远不会知道，也没有人需要死。
 
+**关键词**：The plan they’d come up with / give her money towards the child on a weekly basis / Ellen never needed to find out and nobody needed to die / That was the plan
 
-**关键词**：
+**为什么这样写**：这一块是本章真正的地基，也是整场车祸的成因：一个十七岁的男孩替父亲设计了一套谎言的执行方案，而方案的最后一条是「没有人需要死」。作者不评论，只把这句话放在段落末尾——读者知道接下来发生了什么。
 
-**为什么这样写**：
-
-**读者视角提示**：
+**读者视角提示**：请把这一句与本章结尾连起来读：`nobody needed to die` 是这本书里最残忍的一句预告。
 
 > **原句 7:** Clyde knew he was forgetting something, but for the life of him he couldn’t remember what that was till another man climbed onto the bonnet of his car reaching towards some clothing strewn messily across it. The windscreen was so clear it was as if he wasn’t looking through glass at all but out from inside the car without any kind of filter. He watched as the man put his hand onto the clothes then turned around and shook his head at another person just out of Clyde’s line of vision. He saw a mother on the pavement, her hands on the handles of a pram, standing still, looking at the vehicles, crying. The man on the bonnet got off, bent down and picked up a small green car, and Clyde realised what he’d thought had been a pile of clothes was more than that, much much more, and though he still couldn’t hear anything, including himself as he began to speak, he began to call out over and over again, ‘Cassius!’
 
