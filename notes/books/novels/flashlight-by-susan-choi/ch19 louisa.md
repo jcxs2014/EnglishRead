@@ -93,7 +93,7 @@ modified: "2026-10-03"
 
 **关键词**：a delicate box made of wood / a guttering flame / she saw when the rippling ceased
 
-**为什么这样写**：这段的写法是把死亡写成一张表单：先是 `Louisa asked for the forms of resuscitation to be listed for her.`，然后是两次 `She said, “No,” one by one`——同一个句式重复一次，重复本身就是把一件痛苦的事拆成可执行步骤的动作。例外落在吗啡那一项：`She said, “Yes,” to morphine`，理由写得极其克制，只说手在抖、`a movement that made her think of a guttering flame`——她甚至不把它当成对话（`She didn’t interpret this movement as an effort to communicate with her`）。身体被写成一件不能碰的东西：`a delicate box made of wood`，`The slightest pressure could splinter it into kindling`，握住它像托着一只睡着的蝙蝠；喉咙 `rippled like water with each inaudible breath`。而全章最后六个词只写了一个观察动作：`she saw when the rippling ceased.`
+**为什么这样写**：这段的写法是把死亡写成一张表单：先是 `Louisa asked for the forms of resuscitation to be listed for her.`，然后是一句 `She said, “No,” one by one`——她对每一项复苏措施逐一说「不」，重复本身就是把一件痛苦的事拆成可执行步骤的动作。例外落在吗啡那一项：`She said, “Yes,” to morphine`，理由写得极其克制，只说手在抖、`a movement that made her think of a guttering flame`——她甚至不把它当成对话（`She didn’t interpret this movement as an effort to communicate with her`）。身体被写成一件不能碰的东西：`a delicate box made of wood`，`The slightest pressure could splinter it into kindling`，握住它像托着一只睡着的蝙蝠；喉咙 `rippled like water with each inaudible breath`。而全章最后六个词只写了一个观察动作：`she saw when the rippling ceased.`
 
 **读者视角提示**：这一段之前最后一次谈他的去处，答案已经说完了：`“The question” was, to what nation would her father immigrate?` 而她的判断是 `I mean, I think he’s going to solve this problem—of where and how he should move—by not moving.` 同一个餐厅窗外的树是四百多年前的：`From the perspective of the tree almost everything else here was alien and new, which perhaps meant alien and new things were all equally at home.`
 

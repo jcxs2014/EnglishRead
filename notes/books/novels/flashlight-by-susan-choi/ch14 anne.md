@@ -85,7 +85,7 @@ Louisa 甚至试过把 Anne 的名字从她这里偷走——办法是反过来�
 
 **为什么这样写**：这通电话里 Louisa 说出的实质内容把主语排成一列：`a secret from you`，`I liked feeling that`，`felt bad about liking it`——喜欢与自责被她自己绑在一起，而真正的转折落在紧接的补充上：`But then I realized it was also a secret from me`。这一句把「父女同盟」这个想象当场撤销：那个秘密如果她连内容都想不起，就不可能是同盟，只可能是她一个人被排除在外的事实。此刻两人在这通电话里共享的不是信息，是同一种被排除。
 
-**读者视角提示**：在此之前 Louisa 提到过一个女人（`I feel like it was a woman`），Anne 当即追问 `Was she a girlfriend of Daddy’s?`；被追到这一句时，电话随即断在这一类话题上——而她挂断的理由写的是男孩们需要照料，并没有说记忆断了。
+**读者视角提示**：在此之前 Louisa 提到过一个女人（`I feel like it was a woman`），Anne 当即追问 `Was she a girlfriend of Daddy’s?`；被追到这一句之后，对话又走了二十来段才在这一类话题上收线（原文写的是 `a long call for them, anyway`）——而她挂断的理由写的是男孩们需要照料，并没有说记忆断了。
 
 > **原句 8:** It felt terribly strange, sitting in Julie’s office having handed her the photo with its particular edges and creases and its sad otherworldly brightness, as if the past would always have more life than now, and seeing Serk and Louisa pop up on Julie’s sleek monitor, their image grainier, the colors muddier, the child and the man more convincingly invalidated. Anne felt a foolish stab of fear, that the photo might somehow be gone, but Julie lifted the lid of the scanner and handed it back to her and it was still, or even more, alive. Anne put it back in the stiff envelope, which she’d even gone so far as to furnish with two squares of cardboard to sandwich the photo between.
 

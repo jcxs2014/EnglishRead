@@ -85,7 +85,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：作者把这段自白排成一条单行道：`They went to Japan in the war years, for work` → `The war ended and that’s where we were` → `the South didn’t offer us citizenship` → `my parents were fed lies about North Korea` → `they were poor`。每一步都被写成一个不给人留余地的短句，而「国籍」这一项是缺口所在：战后留下的人成了没有身份的一批。结尾把陈述变成指令——`Think about it` 不是问句，是把结论直接推给对方；而整段自述的第一人称复数 `We were Koreans in Japan.` 落在他后来要被渔夫反复打量的那个特征上：个子高。
 
-**读者视角提示**：作者紧接着在下一段揭穿这场自白的功能：`“We did,” Serk lied, his confession having accomplished its aim.` 也就是说这段话既是真话，也是他换取对方出手的价码——自白在这里是货币。同样被当成货币的是他替渔夫跑的那些腿：`In exchange, Serk did any task the Fisherman gave him.`
+**读者视角提示**：作者隔了六段才揭穿这场自白的功能：`“We did,” Serk lied, his confession having accomplished its aim.` 也就是说这段话既是真话，也是他换取对方出手的价码——自白在这里是货币。同样被当成货币的是他替渔夫跑的那些腿：`In exchange, Serk did any task the Fisherman gave him.`
 
 > **原句 8:** His curses were all directed at the Japanese Prime Minister. … Serk was not surprised to see the other man crying, but he was surprised to be crying, himself. … “The story is over—that’s what they’ve decided. The whole world can shrug and say, This was resolved. Ji-hoon got his dad back. But I didn’t!”
 

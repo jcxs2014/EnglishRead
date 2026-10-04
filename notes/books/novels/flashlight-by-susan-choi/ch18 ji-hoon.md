@@ -85,7 +85,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：全章最短的一块，作者也把这一次的决定写成纯动作：动词只有 took 与 put，`instead` 把被替换的东西留在暗处——他钱包里最后放进去的不是刚才那张两家孩子并肩的照片，而是这个陌生失踪青年的脸。作者先让他把一个正常人生整段预演一遍（回韩国、娶一个不介意他 `middle-aged and fat and drank and swore too much` 的女人、生两个被亲戚笑着说 He’s just like his father 的孩子），再让他把这些统统放进 as if；结果是：一个想象出来的家进不了钱包，一个陌生人的失踪进了。
 
-**读者视角提示**：他交给 Roger 的那张照片是几天前用新手机拍的，拍之前他先看到朋友 `staring up at the TV as if staring not outward, but inward`，一口哽咽被他 `forcefully swallowed and later suffered as indigestion`。同一章里被保存进钱包的是两张照片：一张没有察觉，一张没有面孔。
+**读者视角提示**：他交给 Roger 的那张照片是几天前用新手机拍的，拍之前他先看到朋友 `staring up at the TV as if staring not outward, but inward`，一口哽咽被他 `forcefully swallowed and later suffered as indigestion`。同一章里被放进钱包的只有那孩子的一张照片——没有面孔的那张；朋友那张是新手机拍的，后来交到了 Roger 手里。
 
 > **原句 8:** “I know a man here,” he finally said. “He walked out of North Korea with only the clothes on his back. He didn’t even have shoes. He says he’s an ethnic Korean who was born in Japan. … And he says he had a US green card and a wife and a daughter. And he says the North Koreans kidnapped him and his daughter, I’m not even sure how long ago but my guess is the late seventies.”
 
