@@ -1,0 +1,28 @@
+词条行合计: 165
+
+--- FAIL (0) ---
+
+--- ⚠️ 存量待清（只检出，不判红；存量清理是另一件事）---
+  禁止标注（AGENTS 第 5 条明令禁止，例句列写「未出现/凭记忆」等）1 处：
+    · ch11 the wisdom of crowds.md:118  **句子结构：** 三句话构成一个自我修正的递进：`it's not a cure, is it?`（否定式的反义问句，把结论交给对方点头）
+
+--- WARN (19) ---
+  ch01 desert prophet wanted.md [基础] 基础档疑含超纲词「integrity」
+  ch01 desert prophet wanted.md [基础] 基础档疑含超纲词「uncomfortable」
+  ch01 desert prophet wanted.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch02 gut feelings.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch03 the twenty one second god.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch04 contracting iris.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch05 defective.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch06 giants.md [基础] 基础档疑含超纲词「lightning」
+  ch06 giants.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch07 test 4 echo.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch08 zeros.md [基础] 例句不含词头「hive」
+  ch08 zeros.md [基础] 基础档疑含超纲词「insurgent」
+  ch08 zeros.md [?] 词汇节外有 6 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch09 critical mass.md [?] 词汇节外有 3 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch10 the colonel.md [基础] 基础档疑含超纲词「insurgent」
+  ch10 the colonel.md [基础] 基础档疑含超纲词「perimeter」
+  ch10 the colonel.md [基础] 基础档疑含超纲词「flammable」
+  ch10 the colonel.md [基础] 基础档疑含超纲词「monastery」
+  ch10 the colonel.md [?] 词汇节外有 4 行词条形表格（`可迁移表达`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
