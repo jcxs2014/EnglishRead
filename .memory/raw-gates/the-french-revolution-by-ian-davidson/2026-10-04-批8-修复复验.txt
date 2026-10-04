@@ -1,0 +1,20 @@
+=== 批8修复后复验 2026-10-04 14:17 UTC ===
+--- verify_quotes ---
+ch14 The Convention.md: 10/10 ✅
+ch15 The War in 1792.md: 10/10 ✅
+
+=== 总计 150/150 引文可核实（100%）；完全干净文件 15/15；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- sweep_full ---
+  参照集：text/ 逐章（25 章，可定章） + epub 交叉验证
+  ✅ 本章命中 150 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+--- check_vocab (FAIL header) ---
+--- FAIL (0) ---
+--- entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption ---
+  FAIL 0 处（U+FFFD / 双句号）
+--- 逐章 ch14 ---
+ch14 The Convention.md: 10/10 in ch14 text
+--- 逐章 ch15 ---
+ch15 The War in 1792.md: 10/10 in ch15 text

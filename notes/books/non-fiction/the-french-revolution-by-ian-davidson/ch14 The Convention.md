@@ -83,7 +83,7 @@ modified: "2026-10-04"
 - **表达方式**：denounce 的重复是控诉的锤击节奏；"预付的怯懦报酬"把受贿想象写成了诗——作者随后交代搜家一无所获。
 - **为什么这样写**：这是派系决裂的公开化时刻：作者用它说明雅各宾清洗（六周后布里索被逐、约 200 人被驱）的舆论前导——指控不需要证据，只需要重复。
 
-> **原句 7:** "I do not want to see Paris, led by a bunch of schemers, become in the French Empire what Rome was in the Roman Empire. Paris must be reduced to a 1/83 share of influence in France, just like all the other départements."
+> **原句 7:** "to see Paris, led by a bunch of schemers, become in the French Empire what Rome was in the Roman Empire. Paris must be reduced to a 1/83 share of influence in France, just like all the other départements."
 
 - **中文理解**：（拉苏尔斯）我不想看到巴黎——在一帮阴谋家统领之下——在法兰西帝国里变成罗马帝国里的罗马。巴黎必须被降为全法 1/83 的影响力份额，与其他所有省份一样。
 - **句子结构**：第一句以历史类比设防，第二句给出可执行的数字方案；1/83 的分数把帝国隐喻落回行政几何。

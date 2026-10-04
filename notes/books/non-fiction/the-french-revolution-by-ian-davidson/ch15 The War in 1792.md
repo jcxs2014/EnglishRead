@@ -91,7 +91,7 @@ modified: "2026-10-04"
 - **表达方式**：把吞并写成救赎——救的是国库，不是被解放者；作者紧邻的引文列出了三笔数字（人口/兵员/岁入），救世主的面孔是算术。
 - **为什么这样写**：这句是"指券驱动战争"论的直接证词：前章的经济线（贬值、夺产）在此接上军事线——作者用它说明解放话语如何被财政方程式改写。
 
-> **原句 8:** "We must declare ourselves a Revolutionary power in the countries we enter; it is pointless to pretend; the despots know what we want. No semi-revolution! Any people which does not want what we propose here will be our enemy and will deserve to be treated as such!"
+> **原句 8:** "declare ourselves a Revolutionary power in the countries we enter; it is pointless to pretend; the despots know what we want. No semi-revolution! Any people which does not want what we propose here will be our enemy and will deserve to be treated as such!"
 
 - **中文理解**：（坎朋）我们必须宣布自己是所到之处的革命强权；装模作样毫无意义，暴君们知道我们要什么。不要半吊子革命！凡是不接受我们在此所提方案的民族，就是我们的敌人，也理应被当作敌人对待！
 - **句子结构**：祈使句起手，No semi-revolution! 三词独立成段式的呐喊；Any people which...will... 的条件句把拒绝等同于敌对。
