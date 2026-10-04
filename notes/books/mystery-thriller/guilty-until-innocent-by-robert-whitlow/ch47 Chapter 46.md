@@ -198,7 +198,7 @@ Ryan 总结了一个令人心碎的结论：Cherie 是"wrong place, wrong time"�
 | abduct | 绑架 | Broome had abducted you. |
 | arrest | 逮捕 | Broome is in the hospital with severe burns and is under arrest. |
 | confess | 坦白、忏悔 | He came forward and confessed to me because the Lord convinced him. |
-| dump | 丢弃（尸体） | Larry was forced to dump the bodies near the back door. |
+| dump | 丢弃（尸体） | Larry forced to dump the bodies at the club. |
 
 ### ⭐ 基础
 

@@ -59,7 +59,7 @@ Ray 想看 Joe 家人照片，并问姐姐是否像女性版的 Joe。Joe 否认
 
 ---
 
-> **原句 6：** "I heard your family hired a lawyer to try to get you out," Deshaun said.
+> **原句 6：** "I heard your family hired a lawyer to try to get you out," he said.
 
 Deshaun 从餐厅闲言碎语中听说 Joe 的家人为他聘请了律师试图翻案。消息从哪来？Joe 唯一告诉过 Ray，但 Ray 不是传话的人——这个细节暗示信息在监狱里传播的路径不正常。
 
@@ -67,7 +67,7 @@ Deshaun 从餐厅闲言碎语中听说 Joe 的家人为他聘请了律师试图�
 
 ---
 
-> **原句 7：** "There are only enough for each man to have a small serving on his plate," Joe said. "Do you want to hold off until we harvest more tomorrow?"
+> **原句 7：** "There's only enough for each man to have a small serving on his plate," Joe said. "Do you want to hold off until we harvest more tomorrow?"
 
 Joe 提议把第一批 Lima beans 留着多收一些再分发，体现他在监狱菜园中的协调角色——不仅是劳动者，也是分配决策的参与者。
 
@@ -101,9 +101,9 @@ Joe 发现私人物品位置异常——Bible 从右下角移到左下角，还�
 
 > **原句 11：** "Nothing," Joe replied. "If someone stole a Bible, I'd hope they would read it."
 
-Joe 幽默地说如果小偷偷了 Bible 希望他读一读；回答 Bobby 问"还有什么值得偷的"时说"没有"——这两句话勾勒出 Joe 在监狱多年的生活状态：精神依托是圣经，物质上已一无所有。
+Joe 回答 Bobby"没有什么"值得偷，并幽默地说如果小偷偷了 Bible 希望他读一读——这两句话勾勒出 Joe 在监狱多年的生活状态：精神依托是圣经，物质上已一无所有。
 
-**中文理解**："如果他们真偷了，我倒希望他们会读它。" / "没有了，"Joe 回答。
+**中文理解**："没有了，"Joe 回答。"如果有人偷了圣经，我倒希望他们会读它。"
 
 ---
 
@@ -131,7 +131,7 @@ Ryan 想起 Joe Moore 上次谈话中提到的神和恐惧，于是搜索到这�
 
 ---
 
-> **原句 15：** "I know you're not asking for feedback, but that was good," Sue said.
+> **原句 15：** "I know you're not asking for feedback, but that was good," she said.
 
 Sue 在 Nancy 离开后留下来，主动评价 Ryan 主持的会议，并透露自己在考虑另谋高就——因为前夫拖欠子女抚养费，她需要稳定的收入。Ryan 说"我不想往那个方向想"，既是拒绝讨论这个话题，也是对 Tom 可能回不来这件事的本能回避。
 

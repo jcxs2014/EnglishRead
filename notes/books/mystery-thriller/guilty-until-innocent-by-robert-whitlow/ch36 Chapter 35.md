@@ -179,11 +179,11 @@ Deshaun 将"监狱"的概念外延扩展：身体被囚禁只是监狱的一种�
 
 ---
 
-> **原句 21：** "I know Joe's story," Deshaun jumped in. "He's the one who's led the way for a bunch of us—"
+> **原句 21：** "We know Joe's story," Deshaun jumped in. "He's the one who's led the way for a bunch of us—"
 
 Deshaun 在 Ned 向 Joe 追问之前抢先为 Joe 背书——"他是为我们很多人领路的"。Deshaun 试图保护 Joe 不被 Ned 的质问逼入死角，但这个保护行为本身就暴露了 Joe 在狱中社区的领袖地位。Deshaun 的"跳入"（jumped in）是一种下意识的保护冲动，也暗示他知道 Joe 的故事有争议性。
 
-**中文理解**：Deshaun 插话说："我知道 Joe 的故事。他是为我们很多人领路的——"
+**中文理解**：Deshaun 插话说："我们知道 Joe 的故事。他是为我们很多人领路的——"
 
 ---
 
@@ -270,7 +270,7 @@ Joe 在 Hank 祈祷后给出建议：将问题分层处理，今夜的首要目�
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | sponsor | 担保、资助 | Monica and I sponsored her to come to the US. |
-| patrol car | 巡逻车 | Deputy Lauren Jackson is going to park her patrol car in front of the house when she's off duty. |
+| patrol car | 巡逻车 | Deputy Lauren Jackson lives close by and is going to park her patrol car in front of the house when she's off duty. |
 
 ### ⭐ 基础
 

@@ -114,19 +114,55 @@ Paige 在 Ryan 面前维持的积极表象在他离开后立即崩塌。`bombard
 
 ---
 
-> **原句 9：** Still doing better? About the same. Any bleeding? Yes.
+> **原句 9：** "Still doing better?"
 
-Ryan 与 Paige 的短信对话。四个短句浓缩了一场无声的危机沟通——Ryan 的问题越来越具体（从"好一点了吗"到"有出血吗"），Paige 的回答越来越简短（从"差不多"到"有"）。文字越短，焦虑越重。省略号式的不完整表达模拟了手机对话的真实质感。
+Ryan 发给 Paige 的第一条短信，询问她状态是否好转。这是关心的表达，但语气简短克制。
 
-**中文理解**："还是好一些了吗？""差不多。""有出血吗？""有。"
+**中文理解**："还是好一些了吗？"
 
-**句子结构**：纯对话形式，省略主语和动词，模拟真实短信的简洁风格。
+**句子结构**：直接引语 + 省略主语的疑问句，模拟短信的简洁风格。
 
-**关键词**：`bleeding` — 早孕出血，暗示先兆流产风险；对话节奏的压缩反映情绪的压抑。
+**关键词**：`doing better` — 状态好转；短句体现 Ryan 的克制关切。
 
 ---
 
-> **原句 10：** "Being pregnant for the first time can be scary even when it shouldn't be. I actually enjoyed my third pregnancy but still told my husband no more kids after Annie was born. Bruce knew better than to argue with me."
+> **原句 10：** "About the same."
+
+Paige 的回复，简短到几乎无话可说——"差不多"，暗示情况没有明显改善也没有恶化。这种压缩的回应本身就是焦虑的体现。
+
+**中文理解**："差不多。"
+
+**句子结构**：纯省略句，主语和动词全部省略，模拟手机短信的真实质感。
+
+**关键词**：`About the same` — 原地踏步，没有好转也没有恶化。
+
+---
+
+> **原句 11：** "Any bleeding?"
+
+Ryan 的追问更加具体——他直接问到了关键问题：是否有出血。这个问题暗示他已经了解或猜测到 Paige 可能面临的早孕风险。
+
+**中文理解**："有出血吗？"
+
+**句子结构**：`Any bleeding?` 是省略了主语的疑问句，直指核心担忧。
+
+**关键词**：`bleeding` — 早孕出血，先兆流产的典型症状。
+
+---
+
+> **原句 12：** "Yes."
+
+Paige 简短到极致的回答。一个字，说明一切。Ryan 的追问得到了最不愿听到的答案。情感上这个字承载了全部的恐惧和无力感。
+
+**中文理解**："有。"
+
+**句子结构**：单字回答，句号结尾，模拟真实短信中承认坏消息时的简洁。
+
+**关键词**：`Yes` — 确认负面情况，单字的力量胜过长篇解释。
+
+---
+
+> **原句 13：** "Being pregnant for the first time can be scary even when it shouldn't be. I actually enjoyed my third pregnancy but still told my husband no more kids after Annie was born. Bruce knew better than to argue with me."
 
 Vicki 以过来人身份安慰 Paige，说第一次怀孕即使一切正常也会害怕。她分享自己第三胎虽然享受但决定不再生育，并强调丈夫 Bruce 知道不该和她争辩。`Bruce knew better than to argue with me` 既是幽默也是Vicki 强势性格的流露。
 

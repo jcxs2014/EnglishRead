@@ -218,9 +218,9 @@ Vicki 的纠正语气坚定——对她而言，"基督的新娘"不是修辞手
 | breakfast | 早餐 | On his way to the dining hall for breakfast, a guard came up to him. |
 | lunch | 午餐 | Would you consider writing out what you told us over lunch? |
 | peace | 平安、和平安宁 | After I prayed, peace covered me like a blanket. |
-| prayer | 祈祷、祷告 | Even if I’m not here, Raymond Simpson can provide leadership. |
+| prayer | 祈祷、祷告 | That’s an answer to prayer, Vicki said. |
 | Bible | 圣经 | I was wondering if you would approve our request for additional Bible study. |
-| friend | 朋友 | "So glad you could join us," Candy said. |
+| friend | 朋友 | Are you dining alone? No, I’m meeting two friends. |
 
 ---
 

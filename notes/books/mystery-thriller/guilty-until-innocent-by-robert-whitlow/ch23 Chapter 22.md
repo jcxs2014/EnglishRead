@@ -83,7 +83,7 @@ Paige 将痉挛归因于压力，是对自己生活状态的隐晦承认——�
 
 ---
 
-> **原句 9：** "It's 6:15 p.m. when she leaned back in her chair and realized she'd not had a single cramping episode."
+> **原句 9：** "It was 6:15 p.m. when she leaned back in her chair and realized she'd not had a single cramping episode."
 
 时间节点 `6:15 p.m.` 与她一整天没有痉挛的关联，是医生"可能与压力有关"判断的佐证。
 
@@ -115,7 +115,7 @@ Ryan 特意打领带出席，暗示这是正式场合。Paige 问他是否要换
 
 ---
 
-> **原句 13：** "I'm working on Joe Moore's case. Major development. I'm going back to the prison day after tomorrow."
+> **原句 13：** "Working on Joe Moore's case. Major development. I'm going back to the prison day after tomorrow."
 
 Ryan 透露案子的"重大进展"与即将回访监狱的安排。这是悬疑线的推进，暗示他获得了新线索。
 

@@ -75,7 +75,7 @@ Ned 说他姑姑会给他寄来口琴，并提到姑姑对他有求必应。`She
 
 ---
 
-> **原句 8：** "Is she in the Vicksboro area?" "No."
+> **原句 8：** "Is she in the Vicksboro area?" Joe asked.
 
 Joe 试探性地问 Ned 的姑姑是否在 Vicksboro 地区——这是在打探 Ned 与外界的联系，但 Ned 干脆地否认了。
 
@@ -99,7 +99,7 @@ Ray 反问 Joe：监狱里的人有无数理由不想让人知道外面的生活
 
 ---
 
-> **原句 11：** "I'm going to get a blanket from the closet." "Are you going to be okay with a higher electric bill?"
+> **原句 11：** "I'm going to get a blanket from the closet," Ryan said. "Are you going to be okay with a higher electric bill?"
 
 Paige 怀孕后把空调温度调低，Ryan 去拿毯子并问她是否担心电费增加。这段夫妻对话温馨而日常。
 
@@ -187,7 +187,7 @@ Tom 在邮件结尾重申对 Ryan 的信任和鼓励。这是 Tom 病中仍牵�
 
 ---
 
-> **原句 22：** "He never keeps his winnings. They go straight to a charity of the loser's choosing."
+> **原句 22：** "but I never keep my winnings. They go straight to a charity of the loser's choosing."
 
 Danny 解释他的赌注习惯：从不留着赢来的钱，直接捐给输家指定的慈善机构。这让赌博变得更有社会意义。
 
