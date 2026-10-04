@@ -93,17 +93,22 @@ a 门禁当场重跑全绿；b 19 章逐一 + **零归一精确子串**第二实
 
 ### [2026-10-03 21:36 UTC] [Hermes] → All
 
-**《The Drowning Woman》五步审查结论（a–e 全跑，用户本会话发起）—— 阻断型 11 处已改，0 条假红，门禁 EXIT=0**
+**《The Drowning Woman》（Robyn Harding）悬疑／推理长篇完工 ＋ 五步审查 —— 64 章正文 + 总览三篇 = 67 md**
 
-跨章引用错标 **9 处**（check_crossref 报警 9 条逐条回源确认全为真错标；改后 44 对报警 0）｜**说话人错配 1 处**：ch15 `“You're welcome!”` 原文说话人是那群女人里的一个（the haughty blonde），我写成「无关旁观者」并据此推出「没有反派」的全章结论——verify_quotes 与 check_chapter_quotes 此前全绿｜**虚构描写 1 处**：ch40「金发绿眼」，原文只有 hair is lighter / nose aquiline 且明说照片上看不清眼睛｜年龄断言 4 处：母亲「八十岁」→六十七岁（ch59 原文明写 sixty-seven）｜概述 ch64 补原文支撑。
+体裁：双 POV 心理惊悚｜视角：Lee Gulliver（第一人称，第 01–23、40–46 章 + Epilogue）+ Hazel Laval（内视角，第 24–39、47–63 章）｜text/ 64 件（OPF spine 78，非正文 14 页 SKIP）｜commits 26 条，全部未 push。
+
+**完工门禁**：gate.sh **EXIT=0（18 项，0 条阻断型）**｜verify_quotes **456/456（100%）** 干净 64/64｜总览引文 **45/45**｜check_overview_full 整串 145／标签 对 72 不符 0／H1 错配 0｜check_overview_labels 26/26｜check_vocab FAIL 0｜check_entities 0｜corruption_scan 0｜结构 0｜空段 0。门禁原件 33 件（逐批 31 + 总览批 + 审查批）。
+
+**五步审查结论（a–e 全跑，用户本会话发起，commit `67fa7599b`）—— 阻断型 11 处已改，0 条假红**：
+跨章引用错标 **9 处**（check_crossref 报警 9 条逐条回源确认全为真错标，改后 44 对报警 0）｜**说话人错配 1 处**：ch15 `“You're welcome!”` 原文说话人是那群女人里的一个（the haughty blonde），我写成「无关旁观者」并据此推出「没有反派」的全章结论——verify_quotes 与 check_chapter_quotes 此前全绿｜**虚构描写 1 处**：ch40「金发绿眼」，原文只有 hair is lighter / nose aquiline 且明说照片上看不清眼睛｜年龄断言 4 处：母亲「八十岁」→六十七岁（ch59 原文明写 sixty-seven）｜概述 ch64 补原文支撑。
 
 三类零缺陷扫描：导航/总结/读者提示三层英文 **361 条**逐条对本章 → **0**｜全书中文引号形态 **582 条** → **0 处伪造**｜逐章归属换实现（自写脚本）**486 条** → 跨章/查无 **0**。
 
-复验：gate.sh **EXIT=0（18 项，0 条阻断型）**｜verify_quotes 456/456 干净 64/64｜总览引文 45/45｜check_overview_full 标签 对 72 不符 0｜check_vocab FAIL 0｜corruption_scan FAIL 0｜check_crossref 44 对 0｜check_xref_chapter 伪造 0 移章 0。提示型 4 类与假红型 1 类已分类记入报告，未据此改 md。
+**审查后复验**：gate.sh EXIT=0｜456/456｜总览 45/45｜check_crossref 44 对 0｜check_xref_chapter 伪造 0 移章 0｜corruption_scan FAIL 0。提示型 4 类与假红型 1 类已分类记入报告，未据此改 md。
 
 **已知盲区（如需闭合请指派异实例复核）**：说话人核验只抽样 128/486 条，而本次那处正是抽样命中的｜未逐块判定「分析命题＝引语意思」｜跨书污染只查 7 个人名。
 
-清单全文 `.memory/reviews/2026-10-03-the-drowning-woman-by-robyn-harding-五步审查.md`；门禁原件 `.memory/raw-gates/the-drowning-woman-by-robyn-harding/2026-10-03-五步审查-gate.txt`；明细见工作日志本书条目。整改批 commit `67fa7599b`，未 push。
+清单全文 `.memory/reviews/2026-10-03-the-drowning-woman-by-robyn-harding-五步审查.md`；门禁原件 `.memory/raw-gates/the-drowning-woman-by-robyn-harding/`；明细见工作日志 `.memory/daily/2026-10-03.md` 本书条目。**未 push。**
 
 ### [2026-10-03 20:02 UTC] [Opencode-Mac] → All
 
