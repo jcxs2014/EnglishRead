@@ -10,7 +10,7 @@ modified: "2026-10-04"
 - **一句话概括**：草坡上她要求他动手，他停下来先问要不要停，随后把她吻到尖叫；她电话响起，是艾弗里醒了找爸爸，他当场意识到自己把该在场的夜晚花在了别处；回程一路他都在愧疚，承认他们是他「首要的责任」、是克拉拉留给他的人，到米莉家门前他说要几天时间想清楚，米莉只回一句「我理解」，就拎起包冲他笑了一下。
 - **情感弧线位置**：从一夜里最靠近的一刻，切到一夜之后最疏远的一步。本章的落差不来自争执，而来自他在天亮后自己算的一笔账——孩子的需求和她的需求被他放在同一杆秤上称，称完他先收了手。
 - **Tropes 兑现/反转**：「事后被一通电话打断」的老桥段在这里不是喜剧插曲，插曲直接变成退场的理由；「他终于想清楚自己要什么」的惯常反转也没发生——他想清楚的是自己还没有资格回答，于是把「我们」改成了「我要几天」。
-- **人物弧线**：芬恩从那个把「我要你」当成全部计划的人，变成一路上盘算自己把优先级搞错的人；米莉则从索要的人变成给台阶的人，只用四个字就把场面收住。
+- **人物弧线**：芬恩从那个把「我要你」当成全部计划的人，变成一路上盘算自己把优先级搞错的人；米莉则从索要的人变成给台阶的人，只用两个英文单词就把场面收住。
 - **叙事手法**：第一人称（芬恩），两场——草坡与那通电话／回程与米莉家门口，场间用 `*  *  *` 分隔；前半场是通宵对话式的第一人称推进，后半场几乎全是自责的内心独白，台词被压到只剩几个词。
 
 ## 精读
@@ -81,7 +81,7 @@ modified: "2026-10-04"
 
 **关键词：** I understand，falsely bright smile，guts me
 
-**为什么这样写：** 台词只有三个词，与前面他自己的长句形成落差：她把场面收得越快，他越无处可放。falsely bright（假亮）这种自我否定的定语说明这个笑连她自己都不信；guts me 用了日常的解剖式说法，把被看穿的痛感写成身体内部被掏空。
+**为什么这样写：** 台词只有两个词，与前面他自己的长句形成落差：她把场面收得越快，他越无处可放。falsely bright（假亮）这种自我否定的定语说明这个笑连她自己都不信；guts me 用了日常的解剖式说法，把被看穿的痛感写成身体内部被掏空。
 
 **读者视角提示：** 挂断之前她先给了自己一个台阶——Okay. I have a busy week ahead of me anyway；而他这会儿把手插在口袋里，因为他说过 I can’t touch her, or I might kiss her, so I shove my hands into my pockets。
 
@@ -129,7 +129,7 @@ modified: "2026-10-04"
 | deep breath | 一口深呼吸 | Her shoulders hitch as she takes a deep breath. |
 | favorite form | 最爱的形式 | I want to drag it out because watching her squirm beneath me is my favorite form of torment. |
 | guttural moan | 喉咙深处挤出的呻吟 | When I can tell she’s getting close, I suck lightly on her clit, and she releases a guttural moan into the night. |
-| heart beat | 道歉这件事 | Making my heart beat just for her. |
+| heart beat | 心脏的跳动 | Making my heart beat just for her. |
 | hot knife | 一把烧红的刀 | Guilt slices through me like a hot knife to the stomach. |
 
 ## 一句话总结

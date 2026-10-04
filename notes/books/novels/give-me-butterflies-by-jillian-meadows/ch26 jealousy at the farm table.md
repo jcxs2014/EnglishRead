@@ -43,7 +43,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** 三个字把定性塞给她：你觉得好笑，可笑的是你。Spock 这个称呼本身不带褒贬，她用它回敬，等于把他也归进「假装正经」那一类；同段里紧跟着的动作是 She shoves me back with both hands——嘴上不认输，手上也没停。
 
-**读者视角提示：** 他报复的方式是把浮板抢走——这段打闹全靠「谁先不认输」推进，谁都没说一句真话。
+**读者视角提示：** 她报复的方式是把浮板抢走——这段打闹全靠「谁先不认输」推进，谁都没说一句真话。
 
 > **原句 4:** "Where my house was sterile and tidy, and the evidence of children was erased from every surface, this home welcomes those intimate signs of life."
 
