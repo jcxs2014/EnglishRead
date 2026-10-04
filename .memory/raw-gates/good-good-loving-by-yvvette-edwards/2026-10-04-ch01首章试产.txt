@@ -1,0 +1,116 @@
+=== Good Good Loving ch01 首章试产 门禁原始输出 ===
+日期: 2026-10-04 UTC
+lane: 完整 lane（library/*.epub 在位）
+
+--- verify_corpus (语料层, 最先跑) ---
+=== 语料层验收（P0-0）: good-good-loving-by-yvvette-edwards ===
+text/ 件数: 10
+  [1] 件数 10 == 预期 10  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 10 组 / 互查 90 组  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (250 句)
+      首| c4P
+      末| And as her chest began to fill with love and her body became weightless as air, she stretched bo
+    ch02 (438 句)
+      首| c7E
+      末| CJ’s head began bobbing as he turned the volume up a fraction more and handed his father his gla
+    ch03 (412 句)
+      首| cC7
+      末| I couldn’t be better.’
+    ch04 (488 句)
+      首| cGC
+      末| Come open up the door.’
+    ch05 (266 句)
+      首| cP9
+      末| Then she turned to leave, blowing kisses into the barrage of goodbyes.
+    ch06 (235 句)
+      首| cSF
+      末| James came forward and took Joycelyn’s hand and began to dance with her as Wilhelmina turned the
+    ch07 (274 句)
+      首| cVR
+      末| Her hand closed around her keys and she pulled them out of her bag, put them into the lock and t
+    ch08 (350 句)
+      首| cXS
+      末| The man on the bonnet got off, bent down and picked up a small green car, and Clyde realised wha
+    ch09 (361 句)
+      首| c10W
+      末| Her baby opened his unfocused eyes and she gently kissed his head.
+    ch10 (74 句)
+      首| c14C
+      末| ‘Hello, little Ellen,’ she said.
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+
+--- verify_quotes ---
+ch01 the end january 2020.md: 5/5 ✅
+
+=== 总计 5/5 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- verify_quotes --full (取证, 不参与退出码) ---
+ch01 the end january 2020.md: 5/5 ✅
+
+=== 总计 5/5 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+--- check_vocab ---
+  [P0-4] 正文章节 1 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 18
+
+--- FAIL (0) ---
+
+--- WARN (4) ---
+  ch01 the end january 2020.md [基础] 基础档疑含超纲词「unreasonably」
+  ch01 the end january 2020.md [基础] 基础档疑含超纲词「perspiration」
+  ch01 the end january 2020.md [基础] 基础档疑含超纲词「prolifically」
+  ch01 the end january 2020.md [基础] 基础档疑含超纲词「subsequently」
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- corruption_scan ---
+
+=== 编辑损坏扫描（good-good-loving-by-yvvette-edwards）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+=== 引语整串 flat 比对（good-good-loving-by-yvvette-edwards）===
+  参照集：text/ 逐章（10 章，可定章） + epub 交叉验证
+  ✅ 本章命中 5 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+--- check_chapter_quotes (逐章归属) ---
+ch01 the end january 2020.md: 5/5 in ch01 text
+
+--- check_short_quotes ---
+=== 短引语兜底核对（good-good-loving-by-yvvette-edwards）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+--- audit_structure (8.4 抽查) ---
+=== 精读结构扫描（good-good-loving-by-yvvette-edwards）===
+  扫 1 个 md、5 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：为什么这样写、关键词、式的开场、读者视角提示 ｜ 引语众数 5
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+--- check_nav_layer (导航/总结层, 六道门禁不解析处) ---
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+--- sweep_analysis_inline (分析层行内英文, 8.4 抽查) ---
+=== 分析层行内英文逐字核查（good-good-loving-by-yvvette-edwards）===
+  参照集：text/（11 个提取件） + epub 交叉验证 ；扫 1 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：24 个表格行、18 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 32 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 0
+
+--- check_anchor (关键词锚定, 8.4 抽查) ---
+=== 关键词锚定自查（good-good-loving-by-yvvette-edwards）===
+  扫 1 个 md，5 个引语块，5 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（11 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+--- ggl_vocab_audit (词表五层独立核验, 本批次自建) ---
+ch01 the end january 2020.md: 词条 18 ｜ ❌ 0 ｜ ⚠️ 0
