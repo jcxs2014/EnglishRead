@@ -61,7 +61,7 @@ modified: "2026-10-04"
 
 **关键词：** flooding，the space between us，reality
 
-**为什么这样写：** 句子前半还在写声音（Voices rise），后半立刻把声音改写成物理作用（flooding the space between us）；flooding 是他这一整章最熟练的动词——他写胃口被打开、写咖啡香气、写母亲那条消息带来的刺激都在用同一个词，这里用它写两个孩子的吵闹，把"被打断"写成一次灌水；the space between us 保留了两人隔着岛台的那条地理分界，现实的洪水正好漫过他一直没跨过去的那道线。
+**为什么这样写：** 句子前半还在写声音（Voices rise），后半立刻把声音改写成物理作用（flooding the space between us）；本章里 flooding 只出现两次：一次写她的脸颊泛起红晕（An adorable blush floods her cheeks.），一次才是本块这句；把它说成反复出现的惯用动词，等于凭空造出一条文风线词，这里用它写两个孩子的吵闹，把"被打断"写成一次灌水；the space between us 保留了两人隔着岛台的那条地理分界，现实的洪水正好漫过他一直没跨过去的那道线。
 
 **读者视角提示：** 这句之后紧接着是米莉离席、两个人各自退回到安全距离，接下来的小半个钟头他们只谈鸡汤和一位已经不在的人。
 

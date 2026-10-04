@@ -33,7 +33,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** I’d say 是给自己的开场白，一个虚拟语气的软化，把审判降级成随口一提； fantasizing about your coworker in his bed 三个名词短语一路不加停顿地堆过来，读者和她一起被这份清单压得喘不过气；the wrong side of the friendship line 把道德划成了地图上的位置，越线有方向就说明她心里一直有这条线——真正的问题不是不知道界线在哪，而是她知道自己在另一边待了多久。
 
-**读者视角提示：** 她训自己的口气和前两章芬恩训自己的口气一模一样（他说自己交了两个星期的朋友资格就为了一个枕头），这一句把两人放到了对称的位置上。
+**读者视角提示：** 她训自己的口气和他训自己的口气是对称的（他把感情锁进箱子的动作，对上她把话咽回去的动作），这一句把两人放到了对称的位置上。
 
 > **原句 3:** "He leaves the cup in front of Avery and approaches me, brushing a hand over my cheeks and forehead. “You’re all red.”"
 
@@ -73,7 +73,7 @@ modified: "2026-10-04"
 
 **为什么这样写：** 主语是三个并列的名词短语，却配了一个单数动词 sit，读起来像三个人并排坐着等她，实际是三样东西被摆好——这个搭配的错误正是这段的功能：她还没进门，东西已经先替他把话说完了；a folded note 里的 folded 是整段唯一的动词性信息，她还没看就先知道那张纸被折过；坐落在她办公桌上而不是被送到别处，说明他必须等她本人来读。
 
-**读者视角提示：** 这三样东西都来自他们各自的老地方：面包和咖啡出自那家他们最初见面的店，而办公桌这个位置本身另有来历——她眼下还坐在 entomology 那间办公室里，桌上的空白正是这整章的暗线所在；把旧关系的信物一件件摆到她眼下，是他能想到的最不冒险的开场。
+**读者视角提示：** 这三样东西都来自他们各自的老地方：面包和咖啡出自玛吉的店——他们最初见面是在博物馆门口，那杯咖啡也是泼在博物馆里，而办公桌这个位置本身另有来历——她眼下还坐在 entomology 那间办公室里，桌上的空白正是这整章的暗线所在；把旧关系的信物一件件摆到她眼下，是他能想到的最不冒险的开场。
 
 > **原句 7:** "I have a special plan for Thursday if you’re free. I know . . . it’s not Friday, but it was the only available night for this particular event. It would just be you and me, but we don’t have to call it a date. We don’t have to go at all if you don’t want to. I want you to feel comfortable."
 
