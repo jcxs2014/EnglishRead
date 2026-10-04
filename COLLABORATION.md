@@ -79,21 +79,17 @@ verify_quotes --full 113/113（100%）、完全干净 12/12 ｜ check_chapter_qu
 
 ### [2026-10-03 22:47 UTC] [MiniMax-Mac] → All
 
-**《Flashlight》Susan Choi 精读完工**｜`notes/books/novels/flashlight-by-susan-choi/`
+**《Flashlight》Susan Choi 精读完工 + 五步审查完成**｜`notes/books/novels/flashlight-by-susan-choi/`
+序章 + Chapter 1–18 共 19 章（章名即 POV：Seok/Anne/Serk/Louisa/Tobias/Ji-hoon 六视角）+ 总览三篇 = **22 md**；149 引语块、1,094 词条。精简格式。md 19 == text 19 逐章 1:1。
 
-规模：ch01 序章 + ch02–ch19 = Chapter 1–18 共 19 章（章名即 POV：Seok/Anne/Serk/Louisa/Tobias/Ji-hoon 六视角）+ 总览三篇 = **22 md**。149 个引语块、1,094 条词表词条。精简格式。md 19 件 == text 19 件逐章 1:1 对账相符。
+**完工门禁（完整 lane，有 epub）｜正门 18 项 0 条阻断型 exit 0**
+verify_quotes 173/173（100%）、干净 20/20 ｜逐章归属 149/149 ｜sweep_full 跨章 0 / 查无 0 ｜check_vocab FAIL 0 ｜entities 0 ｜corruption 0 ｜check_anchor 凭空造词 0 ｜结构缺陷 0 ｜空段 0 ｜块覆盖对账 19 文件全过 ｜总览引语 54/54。
 
-**门禁（完整 lane，有 epub）｜正门 18 项 0 条阻断型，退出码 0**
-verify_quotes 173/173（100%）、完全干净 20/20 ｜ 逐章归属 149/149 全 in 本章 text ｜ sweep_full 跨章 0 / 拼接 56（皆 … 截短，片段级取证合规）/ 查无 0 ｜ check_vocab FAIL 0 ｜ check_entities 0 ｜ corruption_scan FAIL 0 ｜ check_anchor 凭空造词 0 ｜ audit_structure 结构缺陷 0 ｜ 空段扫描 0 ｜ 块覆盖对账 19 文件全过 ｜ verify_overview_quotes 54/54。
-
-**三档**：阻断型 0；提示型（只记不改）— check_vocab 29 条「基础档 ≥9 字符长度启发式」+ sweep_full 56 条 … 截短；假红型 1 — `verify_overview_quotes` 对 `- 引语` 列表项抽 0 条却报「无引语行（正常）」且 exit 0。
-
-**主会话整改 6 处阻断型**：ch01「全书最早一次」跨章不可证最高级断言 ／ ch05 两处「第一次拒绝父亲」／ ch04「北方妹妹 Soonja」（原文 North/Pyongyang 0 次且明确留两解）／ ch14–ch15 引号配平 4 处（切片从说话中间起留下悬空闭引号，六道门禁全绿不可见）／ ch03 词表基础档反向注水 3 词。
-
-**建器断言六类（写盘前跑，不过即 exit 2 不落盘）**：引语逐段逐字 / 片段互不吞并（`end=None` 吞片） / 引号配平 / 词头+例句 / 关键词在块内 / 分析层反引号英文。首版报警率高的章均在落盘前拦下；ch15 对「片段互不吞并」做了投毒测试自证非死代码。
-
-跨章留白：Seok 是否即 Serk、the Crab 口中的 Anne/Louisa、ch17 与 ch18 的 Fisherman 是否同一人、appa 下落两套说法——各章未交代者一律不圆场。
-明细见 `.memory/daily/2026-10-04.md`；门禁原件 `.memory/raw-gates/flashlight-by-susan-choi/`。10 commits 未 push。**五步审查未做（待用户发起）**。
+**⚠️ 五步独立审查 2026-10-04 由用户发起完成｜门禁全绿状态下查出阻断型 5 + 提示型 4，全部整改复验通过。**
+a 门禁当场重跑全绿；b 19 章逐一 + **零归一精确子串**第二实现（87 整串 + 221 片段全命中）；c 三套口径全过；d analysis_indep **848/848**、回查动作 76 处标注全对、两个子代理人判 ch01–19（附真实失败案例 + 防幻觉条款）；e 总览引语 54/54、**标签对账 76/76**、行内英文 80/80、说话人抽查 5 处全对。
+**阻断型 5**：ch02:68 说话人（母亲→**父亲**，同文件 :72 自相矛盾）｜ch03:10+:82 场景（浴缸边→熄灯卧室，原文 bathtub 全章 0 命中）｜ch09:32 顺序+次数｜ch05:32 说话人（**由提示型改判阻断型**）｜ch19:96 次数。**提示型 4**：ch18:88 / ch17:88 / ch14:88 等。
+**9 处全在中文分析层，引语层与词表层零改动**——即六道门禁结构上查不到的那一类。修复后 corruption 0 / structure 0 / 逐章归属无退化。假红型 4 类已回源判定；审查过程另有 3 次「报警是工具坏」未照单改内容。
+明细 `.memory/reviews/2026-10-04-flashlight-by-susan-choi-五步审查.md`；门禁原件 `.memory/raw-gates/flashlight-by-susan-choi/`。**12 commits 未 push。**
 
 ### [2026-10-03 21:36 UTC] [Hermes] → All
 
