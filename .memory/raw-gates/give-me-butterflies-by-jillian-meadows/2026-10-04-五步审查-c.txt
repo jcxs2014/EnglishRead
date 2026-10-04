@@ -1,0 +1,21 @@
+########## c 步：结构扫描 ##########
+### ① audit_structure（写作期同一把尺子，仅作基线）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 7
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+### ② check_struct_indep（**第二实现**，d 步机械子项指定用）
+=== 独立结构扫描：47 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+### ③ check_quote_blocks（块前缀/编号/孤儿）
+  带前缀的 `> **原句 N:**` 行：47 个文件共 327 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+### ④ check_overview_full（总览：整串+标签对账+H1 语义）
+  参照集：text/ 逐章（47 章） ｜ 总览文件 3 个
+  A 整串：命中 88 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 86 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 2 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 2 ｜ 不符 0（**只报不判红**）｜ 跳过 2
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+### ⑤ 总览 H1 语义手 grep（无 epub 时的兜底，此处双做）
+notes/books/novels/give-me-butterflies-by-jillian-meadows/00_情感节点.md:# 《Give Me Butterflies》情感节点
+notes/books/novels/give-me-butterflies-by-jillian-meadows/00_概述.md:# 《Give Me Butterflies》概述
+notes/books/novels/give-me-butterflies-by-jillian-meadows/00_金句精选.md:# 《Give Me Butterflies》金句精选
+### ⑥ 两条短引语人工兜底（门禁静默跳过的那批）
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
