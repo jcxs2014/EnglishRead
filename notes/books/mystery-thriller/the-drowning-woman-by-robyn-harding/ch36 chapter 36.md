@@ -93,7 +93,7 @@ modified: "2026-10-03"
 
 **关键词**：I move briskly toward Benjamin's office / but my feet slow / of their own volition / a frisson of fear raises the hair
 
-**为什么这样写**：作者让她**主动加快、被动减速**在同一句里，而减速的理由是"自己的意志"（of their own volition）——她的脚替她做了判断。而 frisson of fear 这个词在 ch06 李那边用过一次（"a frisson of disgust shudders through my body"），这一次同一个词出现在 Hazel 身上，两个人在同一栋房子里被同一种生理反应攫住。这一句是全书结构上最微妙的一次合拢：两个女人用同一个词形容同一种感觉。
+**为什么这样写**：作者让她**主动加快、被动减速**在同一句里，而减速的理由是"自己的意志"（of their own volition）——她的脚替她做了判断。而 frisson of fear 这个词在 ch01 李那边用过一次（"a frisson of disgust shudders through my body"），这一次同一个词出现在 Hazel 身上，两个人在同一栋房子里被同一种生理反应攫住。这一句是全书结构上最微妙的一次合拢：两个女人用同一个词形容同一种感觉。
 
 **读者视角提示**：frisson 一词在这栋房子里出现了两次（ch06 李／ch36 Hazel）。这是本书唯一一次让她们在身体上重合。
 
@@ -107,7 +107,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：作者让他用**最亲的称呼**开始问一句最危险的话。而 smile is cold 与 eyes icy 用同一个温度词说明那不是表情，是温度本身。而 Where have you been 这一句是全书最普通的一句台词——它每天在这栋房子里被问上一次，而今天它的答案是一具尸体、一个假装的下午、和一个装着证件与钞票的手提包。作者用日常的重量压住这一章全部的紧张。
 
-**读者视角提示**：这一句与 ch25 那句 "I’m worried about you." 是同一句话的两种温度。而这一次是真的。
+**读者视角提示**：这一句与 ch29 那句 "I’m worried about you." 是同一句话的两种温度。而这一次是真的。
 
 ## 本章词汇
 

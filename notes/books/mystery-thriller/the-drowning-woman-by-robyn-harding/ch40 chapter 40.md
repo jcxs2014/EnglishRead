@@ -7,7 +7,7 @@ modified: "2026-10-03"
 
 ## 本章导航
 
-- **一句话概括**：李回到那家她去过一次的网吧查警方通报（没有命案）、查 Hazel 的名字（只有慈善晚宴）、再查 Carter Sumner——三条新闻标题指向 2016 年 Mercer Island 的一桩入室抢劫：Sean 与 Carter Sumner 兄弟打伤 64 岁的 Donald Fryer；照片里那个更远的、金发绿眼的人就是 Jesse——"Because Carter Sumner is Jesse."
+- **一句话概括**：李回到那家她去过一次的网吧查警方通报（没有命案）、查 Hazel 的名字（只有慈善晚宴）、再查 Carter Sumner——三条新闻标题指向 2016 年 Mercer Island 的一桩入室抢劫：Sean 与 Carter Sumner 兄弟打伤 64 岁的 Donald Fryer；照片里那个更远的、头发颜色更浅、鹰钩鼻的人就是 Jesse（原文说照片上看不清眼睛，是她凭记忆断定那是一双带金色斑点的榛色眼睛）——"Because Carter Sumner is Jesse."
 - **视角**：第一人称限知（Lee）。本章是**全书信息量最大的一章**，而作者让它全程贴着屏幕走：新闻标题、报道正文、案发地址、姓名、年龄、一张远景照片。而真相是通过**一次比对**成立的——她认识他眼睛的颜色。
 - **情感弧线位置**：紧接 ch39 的"我得快点"之后，本章是她找到答案的一章。而她找到的方式是自己动手查——不是被告知、不是有人指认。这一章的转折点也决定了全书后半段的走向：Sean Sumner 成了她唯一的线索。
 - **人物弧线**：李在此显出她最硬的一面：她敢查一个可能让自己坐牢的方向。而且她的查法是**职业性的**——先看警方有无通报（排除时间差）、再看当事人有无关联（排除 Hazel 参与）、再看第二篇报道（找出照片）。而这一章也补上了她此前所有"视而不见"的理由：她自己也有秘密。
@@ -45,7 +45,7 @@ modified: "2026-10-03"
 
 **关键词**：Sean Reginald Sumner, 29 / Carter Douglas Sumner, 25 / were found in Othello / taken into custody
 
-**为什么这样写**：作者用**新闻的标准句式**交付一个人，而这个人上一分钟还是一个社保卡上的名字。而两个年龄（29 与 25）是这一句里最要紧的信息：哥哥比弟弟大四岁，而这个差别在下一段的照片里会变成一个可用的辨识点（较近的那个年长）。而 found in Othello 与 taken into custody 这两个被动结构说明：他们不是被抓的，是被找到的——而作者此刻还没有让读者注意这一点。
+**为什么这样写**：作者用**新闻的标准句式**交付一个人，而这个人上一分钟还是一个社保卡上的名字。而两个年龄（Sean 29 与 Carter 25）是这一句里最要紧的信息：哥哥比弟弟大四岁，而这个差别在下一段的照片里会变成一个可用的辨识点（较近的那个年长）。而 found in Othello 与 taken into custody 这两个被动结构说明：他们不是被抓的，是被找到的——而作者此刻还没有让读者注意这一点。
 
 **读者视角提示**：29 与 25 这两个数字在下一段会变成"谁离镜头更近"的理由。年龄是这一章的隐藏线索。
 
@@ -115,4 +115,4 @@ modified: "2026-10-03"
 
 ## 一句话总结
 
-这一章让李用一台旧电脑把全书最关键的一块拼图按进位置：她先查警方通报（没有命案）、再查 Hazel（只有慈善晚宴，两个字面上"干净"的名字）、最后在 2016 年 Mercer Island 一桩入室抢劫的报道里找到那个名字——Sean Reginald Sumner, 29 与 Carter Douglas Sumner, 25——而在新闻照片里，那个离镜头更远、金发金眼睛的人就是她同床的人："Because Carter Sumner is Jesse."；她随即把自己历来的沉默与他的并列归因（"I didn't question him about his history because I had secrets, too."），然后把方向钉死在一个名字上：Sean。
+这一章让李用一台旧电脑把全书最关键的一块拼图按进位置：她先查警方通报（没有命案）、再查 Hazel（只有慈善晚宴，两个字面上"干净"的名字）、最后在 2016 年 Mercer Island 一桩入室抢劫的报道里找到那个名字——Sean Reginald Sumner, 29 与 Carter Douglas Sumner, 25——而在新闻照片里，那个离镜头更远、头发颜色更浅、鹰钩鼻的人就是她同床的人（原文说照片上看不清眼睛，是她凭记忆断定那是一双带金色斑点的榛色眼睛）："Because Carter Sumner is Jesse."；她随即把自己历来的沉默与他的并列归因（"I didn't question him about his history because I had secrets, too."），然后把方向钉死在一个名字上：Sean。

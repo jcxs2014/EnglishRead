@@ -10,7 +10,7 @@ modified: "2026-10-03"
 - **一句话概括**：宿醉的清晨 Hazel 带着自制的格兰诺拉、香蕉和咖啡来敲窗，同时带来两件东西：假证件已经办妥（走 Reddit 与暗网，护照级照片）、目的地是巴拿马（"He won't look for me in Central America."）；她卖的首饰全是丈夫在施虐之后送的补偿（"There was always some shiny expensive trinket."）；临走她第一次问起 Jesse，李撒了谎（"we're just friends"），Hazel 说那句 probably for the best 时已经看穿了，而末句是 "She turns and hurries back to her master."
 - **视角**：第一人称限知（Lee）。本章的叙述者处于宿醉与警觉之间的低谷，因此所有判断都带着一层雾气（"I'm too blurry to feel embarrassed"）。作者让两个女人在同一根浮木上谈论逃走，而她们谈的其实是两种自由——一个是她的出走，一个是 Hazel 的出走。
 - **情感弧线位置**：紧接上一章的吻与冷清，本章是那场吻的第一笔代价：她还没开始就已经在为它撒谎。她对 Hazel 说"我们只是朋友"的那一刻，也是她第一次主动切断自己唯一的倾诉对象。
-- **人物弧线**：Hazel 在此进入执行阶段（联系到伪造证件的人、选定了国家、卖掉了首饰），她的语气也从 ch12 的那种绝望转成"thrilled, even proud"；李则表现出她的老毛病——把别人的好意立即换算成债务（"I'll pay you back." / "I will not welch on any more debts"）。
+- **人物弧线**：Hazel 在此进入执行阶段（联系到伪造证件的人、选定了国家、卖掉了首饰），她的语气也从本章自己的那种绝望转成"thrilled, even proud"；李则表现出她的老毛病——把别人的好意立即换算成债务（"I'll pay you back." / "I will not welch on any more debts"）。
 - **叙事手法**：以身体状态开场（宿醉、空酒瓶、涨满的膀胱），把生理状态与昨夜的自怜并列，让读者先感到她的虚弱再听到计划；中段用一个极短的转折（"Have you ever been to Panama?" 与回答 "It comes out of left field."）引出地点；回忆 Teresa 那句以斜体式的插入（"For years, she'd wanted me to find a solid guy…"）只出现一次；末尾用一个回头把全章关掉——Hazel 问 Jesse，然后转身走回她的主人身边。
 
 ## 精读

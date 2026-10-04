@@ -47,7 +47,7 @@ modified: "2026-10-03"
 
 **关键词**：It was risky in the darkness / but I wouldn't use my flashlight / I couldn't draw attention to myself
 
-**为什么这样写**：作者让她在最需要光的时候拒绝用光，而理由是**暴露**——她在为李着想（不被看见就不会有人发现李的住处）。而这一句的语气与 ch01 那句 "A strange woman crying on the beach at the crack of dawn is none of your concern" 是同一个 Haz反过来的版本：同样的思路（不被看见），而这一次它保护了别人。作者没有点明这个对称。
+**为什么这样写**：作者让她在最需要光的时候拒绝用光，而理由是**暴露**——她在为李着想（不被看见就不会有人发现李的住处）。而这一句的语气与 ch04 那句 "A strange woman crying on the beach at the crack of dawn is none of your concern" 是同一个 Haz反过来的版本：同样的思路（不被看见），而这一次它保护了别人。作者没有点明这个对称。
 
 **读者视角提示**：她被 Jesse 训练出的最重要的一课是"不被看见"，而这一课最后被她用在了保护李上。
 
@@ -97,7 +97,7 @@ modified: "2026-10-03"
 
 **关键词**：I lay perfectly still / my eyes closed / tears dampening the pillow
 
-**为什么这样写**：作者让她**全身静止而只有眼泪在动**——而这一句与 ch15 那段"the ease with which he had hit me hurt more than the physical pain" 遥相呼应：那一次她至少还敢说痛。而这一句里她连哭都不敢出声——她丈夫就躺在旁边。这一句也是全书对 Hazel 最残忍的一次收束：她刚刚做了一件正确的事，而正确并没有让她安全。
+**为什么这样写**：作者让她**全身静止而只有眼泪在动**——而这一句与 ch34 那段"the ease with which he had hit me hurt more than the physical pain" 遥相呼应：那一次她至少还敢说痛。而这一句里她连哭都不敢出声——她丈夫就躺在旁边。这一句也是全书对 Hazel 最残忍的一次收束：她刚刚做了一件正确的事，而正确并没有让她安全。
 
 **读者视角提示**：全章最后她得到的是"我还在这里躺着"。而她的自由要到二十章之后才兑现，代价是李的一生。
 

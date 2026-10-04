@@ -57,7 +57,7 @@ modified: "2026-10-03"
 
 **关键词**：This moment / with a fresh piece of fruit / I would have taken for granted / Not anymore
 
-**为什么这样写**：作者用一次偷吃苹果把这个人物的全部变化摊开：同一件事，从前是理所当然（taken for granted），现在是一件事物、一次回忆。作者用三个并列的条件（温暖、鲜果、静处）撑起这份感受，然后用一个两词断句（Not anymore.）把它收成硬事实。这一句与 ch04 那句 "Clean laundry has become a luxury I can afford only once a week." 是同一条曲线上的两个点：一个用价格，一个用感受。
+**为什么这样写**：作者用一次偷吃苹果把这个人物的全部变化摊开：同一件事，从前是理所当然（taken for granted），现在是一件事物、一次回忆。作者用三个并列的条件（温暖、鲜果、静处）撑起这份感受，然后用一个两词断句（Not anymore.）把它收成硬事实。这一句与 ch02 那句 "Clean laundry has become a luxury I can afford only once a week." 是同一条曲线上的两个点：一个用价格，一个用感受。
 
 **读者视角提示**：她的痛点从来不是大事件，是这种小到不值一提的差别。往后她每次觉得幸福，都是这个量级。
 
