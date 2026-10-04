@@ -182,7 +182,7 @@ Ryan 最终决定不向 Joe 提 Paige 的事，说他的重点应该在 Joe 的�
 | stabilized | 稳定（病情） | The doctors are trying to stabilize him. |
 |ICU | 重症监护室 | He's in ICU at the hospital. |
 | catheterization | 心脏导管术 | Tom had a heart attack before they performed the catheterization. |
-| premonition | 预感 | It was like he had a premonition something was seriously wrong. |
+| premonition | 预感 | It's like he had a premonition something was seriously wrong. |
 
 ### ⭐⭐ 进阶
 

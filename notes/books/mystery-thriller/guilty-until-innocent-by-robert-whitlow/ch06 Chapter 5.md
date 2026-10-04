@@ -190,7 +190,7 @@ Joe 在诗篇中寻找一节能作为祷告锚点的经文，为 Deshaun 和 Kie
 |------|------|------|
 | client | 当事人（法律） | Charlie Drummond, the client I met yesterday at the country club. |
 | chapel | 小教堂 | Is it okay if I spend some time in the chapel? |
-| Scripture | 经文 | He was looking for a Scripture that would serve as an anchor. |
+| Scripture | 经文 | He was looking for a Scripture that would serve as an anchor for his prayers on behalf of Deshaun and Kiesha. |
 | psalm | 诗篇 | He opened the book of Psalms and began to read. |
 | anchor | 锚、支柱 | A Scripture that would serve as an anchor for his prayers. |
 | pregnant | 怀孕的 | Especially for husbands taking their newly pregnant wives out to eat. |
@@ -210,7 +210,7 @@ Joe 在诗篇中寻找一节能作为祷告锚点的经文，为 Deshaun 和 Kie
 | pray | 祈祷 | He was looking for a Scripture to anchor his prayers. |
 | morning | 早晨 | Let the morning bring me word of your unfailing love. |
 | wife | 妻子 | I wanted to invite you and Mr. Drummond to meet my wife. |
-| local | 本地的 | That's my favorite item on the breakfast menu. It's one hundred percent local. |
+| local | 本地的 | It's one hundred percent local. I know the farmer who raises and butchers the hogs. |
 
 ---
 

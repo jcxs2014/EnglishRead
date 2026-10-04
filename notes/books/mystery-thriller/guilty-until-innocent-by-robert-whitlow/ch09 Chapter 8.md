@@ -137,9 +137,9 @@ Sue 向 Ryan 解释伸冤类案件的成本问题：这类案件耗时长、取�
 |------|------|------|
 | trial | 审判 | She and my father moved away from Blanton County shortly after the trial. |
 | prison | 监狱 | What can be done to get Uncle Joe out of prison. |
-| lawyer | 律师 | My parents can afford to hire an attorney. |
+| lawyer | 律师 | Are you Mr. Clark? You can't be the lawyer who represented my uncle Joe. |
 | evidence | 证据 | develop the evidence and produce a legal theory |
-| guilty | 有罪的 | He didn't want us to waste our time and money. |
+| guilty | 有罪的 | Why did she believe he wasn't guilty of the crime? |
 
 ---
 

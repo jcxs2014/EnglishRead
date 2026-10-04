@@ -50,11 +50,11 @@ Dr. Hester 宣布超声结果：只有一个胎儿，孕六至七周，虽然心
 
 ---
 
-> **原句 5：** "We need to keep an eye on the situation."
+> **原句 5：** "…but as a precaution we want to keep an eye on the situation."
 
-医生表示需要密切关注胎盘位置。`keep an eye on` 是英文中"密切监视"的常用表达，暗示潜在风险但尚无定论。
+医生表示需要密切关注胎盘位置。`keep an eye on` 是英文中"密切监视"的常用表达，暗示潜在风险但尚无定论。原文省略了前半句 "Like I said, it's too soon to diagnose a problem"。
 
-**中文理解**：医生说："我们需要密切关注这个情况。"
+**中文理解**：医生说："……但作为预防措施，我们需要密切关注这个情况。"
 
 ---
 
@@ -144,23 +144,22 @@ Shana 没有被 Joe 的拒绝击退——她坚持要写信，并会让母亲安
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| obstetrics | 产科 | It was the obstetrician's office. |
-| ultrasound | 超声波检查 | Let's go ahead and perform an ultrasound. |
+| obstetrician | 产科医生 | It was the obstetrician's office. |
+| ultrasound | 超声波检查 | If you're truly seven weeks pregnant, it's not too early to do so. |
 | placenta | 胎盘 | The position of the placenta relative to the cervix. |
-| implant | 植入 | Implantation bleeding was positive. |
 | contraband | 违禁品 | One of the visitors was caught with contraband. |
-| inmate | 囚犯 | The lawyer wants to help the inmate be released early. |
+| inmate | 囚犯 | There were twelve to fifteen prisoners standing along the wall. |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
 | prenatal | 产前的 | Start taking a prenatal vitamin. |
-| obstetrician | 产科医生 | It was the obstetrician's office. |
-| attorney | 律师 | There's a lawyer here to see you. |
-| deposition | 证词笔录 | We have all the old records and are going to analyze everything. |
+| attorney | 律师 | This is Ryan Clark, a lawyer I asked to come with me today. |
 | grief | 悲伤 | His grief was too great to speak. |
 | visitation | 探视 | The door to the visitation area remained closed. |
+| custody | 羁押 | The defendants remain in custody. |
+| deposit | 押金 | There's a deposit that we will bill against as the work is performed. |
 
 ### ⭐ 基础
 
@@ -171,7 +170,6 @@ Shana 没有被 Joe 的拒绝击退——她坚持要写信，并会让母亲安
 | lawyer | 律师 | This is Ryan Clark, a lawyer. |
 | prison | 监狱 | I'm not going to let my family waste money on getting me out of prison. |
 | family | 家人 | Tell me about the family. |
-| money | 钱 | Fifty thousand dollars. |
 | write | 写 | I'm going to write. |
 
 ---

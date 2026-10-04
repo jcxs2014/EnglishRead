@@ -164,7 +164,7 @@ Tom 对 Ryan 的支持是真诚的：给他机会独立处理重要案件，同�
 | exonerate | 证明无罪、撤诉 | When his sister later wrote and mentioned their mother's desire to see Joe exonerated and released from prison, he'd immediately replied that wasn't worth pursuing. |
 | post-conviction relief | 判决后救济 | A lawyer can't completely ignore a client's wishes, but there's no prohibition against someone like yourself hiring an attorney to initiate post-conviction relief. |
 | retainer | 预付金（律师费） | Fifty thousand dollars that we'll bill against at an hourly rate. |
-| futile | 徒劳的 | Resistance appeared futile. |
+| committed | 坚定的、承诺的 | Kiesha had decided that she didn't want a divorce and was committed to making the marriage work even though Deshaun was in prison. |
 | fumed | 愤怒、冒火 | "It's still not right," Ryan fumed. |
 
 ### ⭐⭐ 进阶
@@ -174,22 +174,18 @@ Tom 对 Ryan 的支持是真诚的：给他机会独立处理重要案件，同�
 | inmate | 囚犯 | For a prisoner to be singled out usually wasn't a good sign. Prison officials didn't hand out achievement certificates to inmates. |
 | representation | 代理、委托 | Ask Sue to prepare an attorney-client contract to be signed by both Ms. Parks and Mr. Moore. |
 | attorney-client | 律师-客户（特权关系） | Ask Sue to prepare an attorney-client contract. |
-| wired | 电汇 | I'll let my mother know next steps and where to wire the money. |
-| committed | 承诺的、坚定的 | Kiesha had decided that she didn't want a divorce and was committed to making the marriage work. |
-| prosecute | 起诉、检控 | I'm not going to criticize you. |
 | ethics | 伦理、道德 | That's unethical! Ryan exploded. |
-| conflicted | 内心矛盾的 | Ryan was concerned he'd stepped out of bounds. |
+| incarcerated | 被监禁的 | Lola told her to read some Bible verses, which Kiesha took seriously. She even quoted a few of them in the letter. |
 
 ### ⭐ 基础
 
 | 词汇 | 释义 | 例句 |
 |------|------|------|
-| prison | 监狱 | The men had filled several five-gallon plastic buckets with freshly cut okra. |
+| prison | 监狱 | The men he was confined with every day had become his family. |
 | visit | 探视 | She was a little girl when I was locked up. Did she say whether something has happened to my sister? |
 | faith | 信心、信仰 | "It's not always about seeing results. It's all about faith." |
 | niece | 侄女 | Shana Parks. Says she's your niece. |
 | lawyer | 律师 | I can see how it makes sense to consider hiring your firm. |
-| courthouse | 法院 | The air-conditioning in the Blanton County Courthouse was fighting a losing battle. |
 | funeral | 葬礼 | When their mother died the previous year, Barbara sent details about the funeral arrangements. |
 | strawberry | 草莓 | We're about to harvest strawberries. |
 | divorce | 离婚 | Kiesha had decided that she didn't want a divorce. |
