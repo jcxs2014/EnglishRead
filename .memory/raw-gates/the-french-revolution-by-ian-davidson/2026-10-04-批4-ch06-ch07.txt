@@ -1,0 +1,17 @@
+=== 批4 ch06+ch07 2026-10-04 13:41 UTC ===
+--- verify_quotes ---
+ch06 Declaration of the Rights of Man.md: 10/10 ✅
+ch07 The King Moves to Paris.md: 10/10 ✅
+
+=== 总计 70/70 引文可核实（100%）；完全干净文件 7/7；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- sweep_full ---
+  参照集：text/ 逐章（25 章，可定章） + epub 交叉验证
+  ✅ 本章命中 70 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+--- check_vocab (FAIL lines only) ---
+--- FAIL (0) ---
+(FAIL 计数: 10)
+--- entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption ---
+  FAIL 0 处（U+FFFD / 双句号）
