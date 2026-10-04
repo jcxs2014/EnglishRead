@@ -25,7 +25,7 @@ modified: "2026-10-03"
 
 **为什么这样写**：作者先把话的分量劈成两半再摆回一句里：`Accusation? Affection? A little of both`——指控与亲昵被并成同一个音，而 `You are special, I am awestruck by you` 与 `You are ridiculous, I am tired of you` 是同一口气里的两次转折，本块引语的后半段把它们原样并列。关键在 `or they’ll ask why we didn’t make portraits of them`：真正刺耳的不是「你特别」，而是「凭什么只给你拍」——被单独对待在此不是宠爱，而是一次排他性的失误，而失误的责任被推给 `Our mistake was making this one of you`。
 
-**读者视角提示**：紧接着的 `Like a little emperor` 把「小王子」当场改成「小皇帝」，两者差一个词义、差一次尊称的分量。往后本章每一次有人说他「特别」，都要连同这一次降级一起读：那句评语是母亲留给他的（她要他把肖像放回盒子里），而他此后被人反复用来称颂或羞辱他的「特殊」，用的正是这个词。
+**读者视角提示**：紧接着的 `Like a little emperor` 把「小王子」当场改成「小皇帝」，两者差一个词义、差一次尊称的分量。往后本章每一次有人说他「特别」，都要连同这一次降级一起读：那句评语属于谁，作者始终不交代——他连时间与说话人都无法确定（`When are these words said? By whom?`），醒来的那个声音也明确「不是她的声音」；与母亲真正绑定的是肖像本身，而他此后被人反复用来称颂或羞辱他的「特殊」，用的正是这个词。
 
 > **原句 2:** “What is your nationality?” the voice repeated, not in Japanese or English but Korean. He had been gleaning the meaning for some time before recognizing the language in which it was made. The language of Mother. Not her voice as he had dreamed.
 

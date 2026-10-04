@@ -63,7 +63,7 @@ Walt 的离去让她想念得更深：这个本该照顾她到最后的人，反
 
 **关键词**：went to a girlfriend / snatching the mouth of a bag closed / been there all along
 
-**为什么这样写**：场面全靠动作推进，判决被拆成两次下达。前一次是诊断：`“She’s crazy,” Serk said. “Tom probably went to a girlfriend.”`——妻子被解释成病态，于是她的证词自动作废；作者随即补一个手势替代她的语言（`like somebody snatching the mouth of a bag closed`），把「被带走」这件事在物理上做实。后一次更冷：听见「那封邮件是谁寄的」时 `And then Serk looked at me like he’d forgotten I’d been there all along`，一句话把提问者从现场划掉；判决则降成 `That was nothing` 与一句推给对方的 `She’ll have to face it`。Anne 在这一段里追问三次，每次都被同一句分类挡住——挡她的不是证据，是「她疯了」这个判断本身。
+**为什么这样写**：场面全靠动作推进，判决被拆成两次下达。前一次是诊断：`“She’s crazy,” Serk said. “Tom probably went to a girlfriend.”`——妻子被解释成病态，于是她的证词自动作废；作者随即补一个手势替代她的语言（`like somebody snatching the mouth of a bag closed`），把「被带走」这件事在物理上做实。后一次更冷：听见「那封邮件是谁寄的」时 `And then Serk looked at me like he’d forgotten I’d been there all along`，一句话把提问者从现场划掉；判决则降成 `That was nothing` 与一句推给对方的 `She’ll have to face it`。Anne 在这一段里连问五句（六个问号），从「他有女朋友？」一路问到「谁会带走他」「那封邮件是谁寄的」；挡她的不是证据，是「她疯了」这个判断本身，连同最后那句「她得面对」。
 
 **读者视角提示**：这一夜是 Anne 后来拼不出全貌的那一夜。筋疲力尽之后她替自己下的结论是 `His story was only a mystery to someone like Anne who’d been left in the dark`；再往后她与 Louisa 的那通电话，母女俩同样越不过这一夜。
 
