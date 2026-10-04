@@ -1,0 +1,20 @@
+=== 批11 ch20+ch21 2026-10-04 14:40 UTC ===
+--- verify_quotes ---
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 208/209 引文可核实（100%）；完全干净文件 20/21；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- sweep_full ---
+  ✅ 本章命中 208 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 1 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+  🔶 ch21 The Terreur.md（ch21）跨标签拼接，各段逐字都在：There was no hypocrisy in the trial. Everybo
+--- check_vocab (FAIL header) ---
+--- FAIL (0) ---
+--- entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption ---
+  FAIL 0 处（U+FFFD / 双句号）
+--- 逐章 ch20 ---
+ch20 The Gouvernement révolutionnaire.md: 10/10 in ch20 text
+--- 逐章 ch21 ---
+  MISS: There was no hypocrisy in the trial. Everybody saw right away that it was just a
