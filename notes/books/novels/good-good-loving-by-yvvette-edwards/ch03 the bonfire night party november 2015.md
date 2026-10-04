@@ -61,7 +61,7 @@ CJ 一边打电话一边被孙子打断，作者把这句打断写成他对儿�
 
 Clay 拦住她，父亲要回来住。作者把这句通报写得极短：一句转述，两个解释，CJ 补一句「他是个将死之人」。
 
-**关键词**：Dad wants to speak to you / Dad wants to come back home / a dead man walking
+**关键词**：Dad wants to speak to you
 
 **为什么这样写**：Clay 全程只做两件事：通报、翻译。他把父亲的意思转成书面语（`Dad wants to come back home`），又把父亲的情绪转成一句判词（`Dad’s a dead man walking`）。作者用这句判词点破全章：**父亲不是在请求回家，他是在申请在自己的房子里死**——因为房子已经给了另一个女人。艾伦听完的唯一反应是 `Not now`，把整件事推给了明天。
 

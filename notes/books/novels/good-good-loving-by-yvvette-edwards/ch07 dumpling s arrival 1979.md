@@ -31,7 +31,7 @@ modified: "2026-10-04"
 
 艾伦在街上遇到邻居罗伊太太，罗伊太太以为她说的是另一件旧事，于是引用了一句「主不会给我们承受不住的」——艾伦并不信，只回了一句阿门。
 
-**关键词**：The Lord never give us more than we can bear / despite her scepticism / Amen
+**关键词**：The Lord never give us more than we can bear
 
 **为什么这样写**：作者用一次误会完成了两件事：一是让读者知道**这个社区早就知道克莱德是什么样的人**（罗伊太太说的是上一桩事）；二是写出艾伦的处境——她连一句真话都不能说，只能站在街上把一句宗教套话接下去。`despite her scepticism` 是作者给她的体贴：**她不信，但她也不揭穿**。这是她在这个社区里的生存方式，也为本章后面对孩子、对丈夫的处理方式埋下伏笔。
 

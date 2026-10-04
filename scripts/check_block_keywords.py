@@ -43,11 +43,11 @@ import re
 import sys
 from pathlib import Path
 
-QUOTE_RE = re.compile(r'^> \*\*原句 (\d+):\*\* "(.*)"$', re.M)
-BLOCK_RE = re.compile(r'^> \*\*原句 (\d+):\*\* ', re.M)
+QUOTE_RE = re.compile(r'^> \*\*原句 (\d+)[：:]\*\* "(.*)"$', re.M)
+BLOCK_RE = re.compile(r'^> \*\*原句 (\d+)[：:]\*\* ', re.M)
 # ⚠️ 2026-10-01 新增：编号 + 引语头的整体迭代器。编号、引语、关键词三者必须同源切分，
 # 否则切块与取号口径不一致会让 zip() 错位（详见 check() 内注释）。
-BLOCK_ITER = re.compile(r'^> \*\*原句 (\d+):\*\* (.*)$', re.M)
+BLOCK_ITER = re.compile(r'^> \*\*原句 (\d+)[：:]\*\* (.*)$', re.M)
 # ⚠️ 2026-10-04 新增：短篇合集档用**裸圈码** `① "…"` 作引语块头（本库短篇合集
 # 体裁对应格式表＝逐篇精读 10 处五子项，与长篇精简档的 `> **原句 N:**` 不是一套）。
 # 而本工具三张正则只认 `原句 N:` ⇒ 圈码书 nq 恒 0 ⇒ 走到「未找到任何引语块」就 return，
@@ -76,7 +76,18 @@ ANTH_RANGE = (10, 10)
 #    与 gen_overview 2026-09-28 修的 `**中文理解**：` 是**同一个**已记录故障：
 #    单形态正则静默抽 0 条，症状是「结构对账失败」而非「格式错」，极难回溯。
 #    ⇒ 两种形态都必须接受（判据不变，只放宽形态）。
-KW_RE = re.compile(r'^[ \t]*(?:[-*+][ \t]+)?\*\*关键词(?:\*\*：|：\*\*)[ \t]*(.*)$', re.M)
+KW_RE = re.compile(r'^[ \t]*(?:[-*+][ \t]+)?\*\*关键词[：:][ \t]*(.*)$', re.M)
+# ⚠️ 2026-10-04 修正（本项第四次同型故障，good-good-loving-by-yvvette-edwards 实测）：
+#   上面 KW_RE 只认 `**关键词**：`（冒号在粗体**外**）……但**它自己写错了**：
+#   正则里 `\*\*关键词[：:]` 把冒号放进了**同一个**粗体里，匹配的是 `**关键词：**`
+#   （即下面那条注释 2026-10-02 记的「冒号在粗体内」形态）。
+#   于是「冒号在粗体外」的 `**关键词**：X`（本库 8220 文件的通行形态）
+#   **两条正则都不认**：KW_RE 要求 `**关键词：`，KW_RE_PLAIN 被 `(?!\*\*)` 排除
+#   ⇒ 关键词行恒 0 ⇒ 9 章全报「结构对账失败 —— 关键词行 0 ≠ 引语块 N」。
+#   症状与注释里 2026-10-01 / 10-02 / 10-04 三次记的**完全同族**（单形态正则静默抽 0 条），
+#   只是这次错在被当成「已修好的那一半」。⇒ 补第四条：`**关键词**：` 显式形态。
+#   实测：本库 ch09 该正则 15 命中 = 引语块 15，两种形态混写时计数仍等于块数。
+KW_RE_BOLD_OUT = re.compile(r'^[ \t]*(?:[-*+][ \t]+)?\*\*关键词\*\*[：:][ \t]*(.*)$', re.M)
 # ⚠️ 2026-10-04 第三种形态（短篇合集档实测，the-best-short-stories-2026 20/20 命中）：
 #   该档写**裸** `- 关键词：…`（不加粗）。前两种都是「冒号在粗体外/内」的**加粗**形态，
 #   裸形态一条都认不到 ⇒ 关键词行恒 0 ⇒ 「结构对账失败」+ 关键词检查整段空转。
@@ -189,7 +200,7 @@ def _kw_in_quote(k: str, qflat: str) -> bool:
 
 # ⚠️ 2026-10-03 修正（Everything Is Poison ⑱ 报 31 块「关键词不在本块引语内」实测）：
 #   本书的长引语采用**引用块内多行**形态——引语正文换行后仍以 `> ` 起头，段间空行写成 `>`：
-#     > **原句 1:** "It should, perhaps, not come as such a shock … record inventory.
+#     > **原句 1[：:]\*\* "It should, perhaps, not come as such a shock … record inventory.
 #     >
 #     > “What are you doing?” Carmela gasps, unclear whether she’s talking to … occur."
 #   而 `BLOCK_ITER` 是 `^…$` 单行式，捕获的 body **只有第一行** ⇒ 挂在第二行的
@@ -236,7 +247,8 @@ def check(md: Path, book: Path):
     #   （负控实测：无 frontmatter 的裸块文件），首个块会被整块跳过、nq 少 1。
     #   re.M 已在 compile() 里烘进 pattern，此处第二个参数应删除。
     nq = len(BLOCK_RE.findall(s))
-    nkw = len(KW_RE.findall(s)) + len(KW_RE_PLAIN.findall(s))
+    nkw = (len(KW_RE.findall(s)) + len(KW_RE_PLAIN.findall(s))
+           + len(KW_RE_BOLD_OUT.findall(s)))
     # ⚠️ 2026-10-02 假红型修正（本工具写死言情格式 `## 本章词汇` + 3–8 块配额，
     #   而非虚构论述格式用 `## 词汇分级` + 10 处 `## 选择性精读`）。全库非虚构书
     #   （nexus / an-expert-witness / down-girl / herlands …）逐个复跑全部报同两条，
@@ -333,7 +345,7 @@ def check(md: Path, book: Path):
         block = s[m.end(): _next_head(m.end())]
         q, q_multi = _join_quote_lines(body, block)
         # ⚠️ 2026-10-02 修正（Bird of a Thousand Stories 终验实测，ch18 原句5 假红）：
-        # 本库**同一批书**里存在两种写法 —— `> **原句 1:** "…"` 与
+        # 本库**同一批书**里存在两种写法 —— `> **原句 1[：:]\*\* "…"` 与
         # `> **原句 1: "…"**`（整行含引号的部分被粗体包住）。后者下 `BLOCK_ITER`
         # 捕获的 body 末尾带 `**`，剥引号后仍剩一个 `**` ⇒ 归一后与原文对不上
         # ⇒ 报「非逐字子串」或「跨自然段」。
@@ -398,6 +410,8 @@ def check(md: Path, book: Path):
         # 优先取加粗形态、没有再取裸形态——两处计数与取词必须用**同一套**形态表，
         # 否则又是一次「计数与取值口径不一致」。
         _mk = KW_RE.search(block)
+        if _mk is None:
+            _mk = KW_RE_BOLD_OUT.search(block)
         if _mk is None:
             _mk = KW_RE_PLAIN.search(block)
         kws = _split_kw(_mk.group(1)) if _mk else []

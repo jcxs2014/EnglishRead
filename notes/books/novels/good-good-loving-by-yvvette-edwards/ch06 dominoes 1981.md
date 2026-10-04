@@ -71,7 +71,7 @@ Wilhelmina 把玩笑开到这间屋子里的三位「大女人」身上，于是
 
 作者回答了上一个问题：因为同样的事发生时，她们的弟弟什么代价都不用付。
 
-**关键词**：seething with rage / messed up time / their actual ages
+**关键词**：seething with rage / reflected in her younger sister’s face / carried on with the tasks
 
 **为什么这样写**：作者给出的不是情绪，而是**一套记账方式**：姐姐们心里有一张时间表，上面写着谁在什么年纪被留下、谁被带走、谁在家里干活、谁在玩。`something had messed up time and their actual ages in their mother’s head` 是她们对这件事的解释——她们认为母亲把年龄算错了，所以把本该由弟弟承担的责任分配给了她们。作者不评判这个解释对不对，只让读者看见：**这份账她们每天都在算，而且算得比谁都清楚。**
 

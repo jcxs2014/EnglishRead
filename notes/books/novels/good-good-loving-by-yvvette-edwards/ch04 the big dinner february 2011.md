@@ -41,7 +41,7 @@ modified: "2026-10-04"
 
 艾伦一开口就用了加法：`number one` 珍妮特是他们请来的客人，`number two` 他控制不住自己，`number three` 珍妮特是他弟弟的妻子。作者让这三条在读者心里自动相加，得出一个读者已经猜到的结论——而艾伦始终没有说出那第四条。
 
-**关键词**：Number one / Number two / Number three
+**关键词**：Number one / cancelled out by his inconsiderate actions
 
 **为什么这样写**：作者把「丈夫出轨」写成一份**法律陈述**：证据一、证据二、证据三。珍妮特是他弟弟的妻子这一条被他称作「禁区」，而艾伦自己——正是那个默许、甚至与珍妮特一起去逛市场的女人——她在这份清单里没有位置。作者的残忍不在于艾伦算错，而在于**她算得太对**。她把一道道德题解得像数学题，唯一解不出的是自己。
 
@@ -71,7 +71,7 @@ modified: "2026-10-04"
 
 本章在饭局前插入了一段艾伦的童年：1955 年母亲从邻居 Mrs Skerritt 家把她接走，她拿着护照去问母亲为什么名字写错了，母亲连搅拌的手都没停，只回了两个字——护照上的名字才是她的名字，别人叫的那个不算。
 
-**关键词**：People call you Ellen / You name is Virgie / me name is Ellen
+**关键词**：People call you Ellen / You name is Virgie
 
 **为什么这样写**：作者把「名字被取消」安排在本章最热闹的一顿饭之前。艾伦问母亲 `They put me name down wrong in the passport`，母亲答 `People call you Ellen` 和 `You name is Virgie`——两句话把一个人分成两半：邻居叫的那个是假的，证件上那个才是真的，而证件上的那个人她一天都没做过。这一段的可怕之处在于母亲没有恶意：她只是继续搅着锅里的食物，连手都没停。作者用这个细节解释艾伦为什么一辈子都在强调「我干了什么」，而不是「我是谁」——**她的名字一开始就不属于她**。
 

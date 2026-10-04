@@ -41,7 +41,7 @@ modified: "2026-10-04"
 
 艾伦的第一次判词不是一个词，而是一串：她说自己为他们付出一切，结论却是自己养出了一群忘恩负义的人。而作者在同一块里给了她一次自我否决——先是把这当 `hardly breaking news`，再说他们本来就是他爸的孩子。
 
-**关键词**：backbiters / ungrateful / their father's children
+**关键词**：he always had to have the last word / everyone was quiet / the sacrifices
 
 **为什么这样写**：`though this was hardly breaking news` 这种轻描淡写的插入语，把一场临终争吵降格成一次早就见惯的家常。而 `But then they were their father's children` 紧跟在控诉后面，把话锋从「他们坏」转成「他们像他爸」——艾伦的愤怒越激烈，读者越会觉得她早就知道答案。
 

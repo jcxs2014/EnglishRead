@@ -61,7 +61,7 @@ modified: "2026-10-04"
 
 这是全书对艾伦的来处唯一一次正面交代：她十五岁时母亲给过她一句判词，此后她的人生都在验证这句话。
 
-**关键词**：Plenty man might sex you / none a’them will marry you / her words didn’t follow
+**关键词**：Plenty man might sex you / none a’them will marry you
 
 **为什么这样写**：作者让这句话在母亲说完之后**留在房间里**——人走了，话没走。`her words didn’t follow` 是全章最精确的一处写法：作者不给母亲更多台词，只写那句话如何在她往后几十年里反复发作（洗碗、涂指甲、给老人梳头时都会响起来）。这解释了艾伦为什么一生都在证明自己「付出过、值得」，也解释了她为何无法容忍一个从没付过代价的人（Dumpling 的生母）占据位置。
 

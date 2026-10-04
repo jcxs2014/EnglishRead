@@ -1,0 +1,137 @@
+---
+状态: 未读
+modified: "2026-10-04"
+---
+
+# 09. Birth Day（May 1972）
+
+## 本章导航
+
+- **一句话概括**：1972 年 5 月，艾伦在伦敦一家医院里生她的第四个孩子；她因为高血压被催产、被按在床上、被医生用钳子威胁，而全书最后一个秘密也在这一章交代——这个孩子不是她丈夫的，是丈夫的哥哥的，而九个月前她丈夫正因为阑尾破裂躺在这同一家医院里。
+
+- **情感弧线位置**：**全书的底，也是 ch08 的地基**——读到这里读者才明白 Clay 是谁的孩子，才明白克莱德在车祸后喊「Cassius」的意义，也才明白艾伦为什么在 ch07 决定「这一个我要养得比我自己生的都好」。本章之后，前八章每一处偏心都换了一层意思。
+
+- **人物弧线**：艾伦在这一章里完成了她一生唯一一次「为自己做决定」——不是作为妻子、母亲或女儿，而是作为一个女人（`not as a wife or mother or daughter but as a woman, for herself`）；姐妹 Hardy 从冷酷的监工变成唯一一个替她说话的人；而克莱德全程不在场，只作为一段回忆和一张病床存在。
+
+- **叙事手法**：作者把**产房当作记忆的刑场**——每一次宫缩都把她推回一段旧事（1970 年那通电话、Shola 的死、Irene 那一桶冰水、Cassius 那碗汤），而床上的现实（不肯让她起身的助产士、那对钳子）与回忆交替推进，直到最后她**自己从床上站起来**，孩子才落地。作者用一章写了三十年。
+
+## 精读
+> **原句 1:** Although Ellen pressed her lips together as hard as she could, her contraction was so intense she couldn’t stop herself moaning with the wave as it grew, only becoming quieter the moment its peak began to wane, immediately consoled and grateful again that the worst of another one was over.
+
+
+
+**关键词**：
+
+**为什么这样写**：
+
+**读者视角提示**：
+
+> **原句 2:** This was her fourth experience of being in labour, yet it was and had been so different from the other three that Ellen felt as bewildered as if it was her first time, like nothing of her previous experiences could be salvaged to ease her fear and uncertainty. For the first thing, she had been perfectly heathy and well throughout her first three pregnancies, but this time around she’d developed hypertension and because of that, the doctors had decided she should be induced as it was safer for both her and the baby if she gave birth at thirty-eight weeks instead of the normal full-term forty weeks around which all her previous labours had started of their own accord. Secondly, each time previously she’d laboured then given birth at home, but this time she’d been admitted onto the ward two days before being induced, which they had said was to give her an opportunity to relax before the labour began, but had in fact given her ample time to worry about what was going to happen, which was surely part of the reason her blood pressure had not gone down. Despite all the tablets and constant monitoring, it had remained at a level that was high enough to be of concern.
+
+
+
+**关键词**：
+
+**为什么这样写**：
+
+**读者视角提示**：
+
+> **原句 3:** It was during that period that Ellen noticed a fundamental difference between herself and Clyde. She was sad most of the time. Her sadness was the by-product of her empathy for her in-laws and Junior, who continued to be missing, and the ongoing separation from her daughters, which was further heightened once a week when the two families spoke on the phone and there was no new information, no leads being followed up, just a deeper sense of foreboding and heavier pain. It was rare that she managed to shake the heartache off completely even when she was at work, no reprieve when she was with CJ. In fact being with CJ reminded her terribly of the girls’ absence and of Cassius and Shola’s devastating loss. Clyde, however, was only melancholy in the run-up to those weekly calls, while they were on the calls, or during moments when Junior’s disappearance was brought up, usually by friends asking for updates. Outside of that, he functioned quite normally, drinking, smoking, making merry, joking, laughing, trying to cheer Ellen up, making her laugh despite her feelings. It wasn’t that Clyde wasn’t impacted – she believed in the authenticity of the unhappiness he did experience, could see it clearly on his face – it was more that somehow he seemed able to compartmentalise those feelings, something she was unable to do.
+
+
+
+**关键词**：
+
+**为什么这样写**：
+
+**读者视角提示**：
+
+> **原句 4:** Normally, she entered her home just like any other ordinary person who hadn’t had to rush back from work to check whether their husband had brought another woman into their marital bed, which meant not having to worry about the sound of the key in the lock, then opening the door, stepping through it and swinging it closed behind her so that the noise of it shutting might serve as notice to everybody else in the house she was back. Unfortunately, having Clyde as a husband was not conducive to having a normal life, so on this occasion she slipped the key into the lock as silently as Clyde attempted to when he returned home just before dawn, on the occasions he was merely tipsy so still had sufficient wherewithal to try and quietly sneak in. Then she stepped inside the house, gently closed the door behind her, and, without taking a step away from the front door, took off her shoes. Usually, when Clyde came home from work, he removed his work jacket straightaway and hung it on the first coat hook behind the front door. When Ellen looked up at the coat hooks however his jacket wasn’t there, and for a moment she tutted and sighed deeply, annoyed with Wilhelmina for wasting so much of her day. But as she bent down to retrieve her shoes, she heard the unmistakeable sound of a woman’s voice laughing, and stopped dead. Angling her head like a meerkat, she realised it was coming from upstairs and not downstairs in the living room or kitchen which were the obvious places a married man might entertain a female guest in his home. The audacity made Ellen shake her head.
+
+
+
+**关键词**：
+
+**为什么这样写**：
+
+**读者视角提示**：
+
+> **原句 5:** That’s what she found herself thinking about during the hours she sat on her own in the sterile corridor outside the operating theatre, the fact that Clyde had never been faithful to her. Ever. To be fair, she had never asked him to be, but she had harboured some hope that maybe he would reduce the frequency with which he slept around; after all, he had all the nookie a man could want on tap at home. If the excess and easy availability hadn’t eroded his energy and the motivation to seek more elsewhere, sheer exhaustion should’ve stopped him, yet that hadn’t happened. He’d never paused or slowed in his cheating on her – though she didn’t like to use the word cheating; it made her feel like a victim, and she wasn’t a victim, never had been, never would be. It wasn’t him sleeping with other women that was the problem, it was his lack of awareness that even though that was what he did and she never really got in his way, she still had feelings and deserved a bit of consideration; deserved not to be a running joke amongst his friends or an object of the pity of the women who knew her, needed him to know there were some boundary lines that should never be crossed, and one of those was sleeping with other women in her bed. But he was who he was. It was impossible to change him, and though this realisation was not new, following on the heels of his terrible act, it made her want to hurt him, string him up and kill him, and at the same time he was possibly dying. Never had she needed to be there for him or hated him more than on that day.
+
+
+
+**关键词**：
+
+**为什么这样写**：
+
+**读者视角提示**：
+
+> **原句 6:** ‘Did you tell him that?’ A future life with Clyde played out before her eyes, decades spent with the two of them together, filled with happiness of every variety for him and pain and hurt for her. Minute oases of physical pleasure for her and the rest of it nothing but pain and hurt. She didn’t hear him cross the room, but she felt his gentle hand as it rested on her shoulder. ‘It’s too much,’ she said as she turned around. As they stood facing each other, Ellen saw understanding in his eyes, compassion. In that moment, it didn’t feel like he was looking at her, but like finally, someone was seeing her.
+
+
+
+**关键词**：
+
+**为什么这样写**：
+
+**读者视角提示**：
+
+> **原句 7:** Then Cassius grabbed her, held her and kissed her, and she was powerless to resist his magnetism and submitted, kissing him back and allowing him to lead her to his room, the spare room where all her children would be sleeping soon and onto Wilhelmina’s old bed, and somehow all her clothes were off and he was possessing her and she was mindless, going along with it, lost and overcome by hurt. That was how she’d tried her hardest to remember and frame it. But in reality it was she who had kissed him and he’d said, no. Then she’d kissed him again and he’d said you’re my brother’s wife. And she’d replied, no, I am not, then physically dragged him by the arm to the spare room where she closed the door and began to undress and he’d said, you have to go back to him. She’d answered, after, then began to undress him. Then he’d said, I don’t know if I can, and she’d said, we’ll see about that.
+
+
+
+**关键词**：
+
+**为什么这样写**：
+
+**读者视角提示**：
+
+> **原句 8:** As another contraction ended, she pulled herself up into a sitting position, turned to the side and dangled her legs over the edge of the bed. She gently lowered herself till her warm feet were on the chilly floor, keeping both hands on the edge of the bed, braced to endure her weight. She felt the baby move, a big movement, like the ones she’d been feeling inside her stomach over the last two months, from the inside out; the baby’s head and feet and bum creating mounds and hollows like shifting dunes in sand on the surface of her rounded belly. She was sure it was getting itself ready, must have known, as she did, what they were up against, that their window of opportunity was as small as it took for a cold and unfeeling professional to have a hot cup of tea and maybe a couple of biscuits followed by a trip to the toilet, before returning to recommence indifference in this space into which Ellen was aiming to bring new life. As the contraction grew, she moaned aloud as much as she felt necessary and, ridiculously, laughed. Then she laughed again as the contraction grew, at her little private joke to herself that it wasn’t laughing gas she’d needed, it was for Sister Hardy to get out. The urge to push became primeval. For a moment she was transported back to her first labour, wondering if young Mary Sweeny would arrive in time. She was afraid of giving birth alone, which she hadn’t had to do during any of her previous pregnancies because Mary Sweeny had always arrived in time and been with Ellen at this point, guiding, encouraging, supporting her. Then she remembered that it wasn’t Mary Sweeny who would be returning from her break and picking up those forceps and she began to push. As she did so, she cried out aloud and could swear she felt fingers splayed over the base of her spine massaging her there and a voice saying, it will pass, let it pass, and she realised that, at long last, Mrs Molyneux had arrived. On the next contraction, she felt the crowning and when she put her hand down between her legs, she could feel the warm curly hair on her baby’s slick head. As she took a deep breath for the push that would deliver it, Sister Hardy entered the room, dropped the cup of tea she was carrying onto the floor, shouted for help and got to Ellen just in time for Clay to be delivered into her hands.
+
+结尾：她自己从床上下来，把双脚放在冰凉的地板上，宫缩中荒唐地笑了；莫利纽克斯太太的揉背和那句「会过去的，让它过去」到了——她终于开始用力。
+
+**关键词**：dangled her legs over the edge of the bed / warm feet were on the chilly floor / the urge to push became primeval / ridiculously, laughed / Mrs Molyneux had arrived / delivered into her hands
+
+**为什么这样写**：作者把全章的转折交给这一句话之前的一个动作：**她自己站起来了**——她坐起来、把腿垂到床沿、把温热的两只脚放到冰凉的地板上，靠自己撑住体重。孩子的出生不是医生给她的，是她自己走出来的；而她一边下床一边在宫缩的间隙里笑了出来（`ridiculously, laughed`），笑的是她那句私人的小笑话：她需要的不是笑气，是哈迪姐妹出去。促使她动手的也不只是勇气——她想起回来接班的不是玛丽·斯威尼，而是那个要拿起钳子的人（`it wasn’t Mary Sweeny who would be returning from her break and picking up those forceps`），才终于开始用力。结尾最重的一击是莫利纽克斯太太的到场：她能发誓觉得有手指按在她脊柱下端替她揉，还有一个声音说 `it will pass, let it pass`——**全书里唯一一个在产房里真正帮到她的，是那个全书名义上已经疯了的女人。**
+
+**读者视角提示**：本章至此结束。她生下的是一个男孩，就是 ch08 里的克莱；请回到 ch08 结尾——克莱德醒来喊的名字，现在你明白他为什么喊的是那个了。
+
+## 本章词汇
+
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| forthrightness | 直率；不拐弯抹角 | Wilhelmina’s forthrightness had not shocked her. |
+| compartmentalise | 把（情绪）分门别类隔离起来 | It wasn’t that Clyde wasn’t impacted – she believed in the authenticity of the unhappiness he did experience, could see it clearly on his face – it was more that somehow he seemed able to compartmentalise those feelings, something she was unable to do. |
+| atone | 赎（罪）；补偿 | She knew she would have to atone one day, but it would be her who did the atoning, not him. |
+| primeval | 原始的；本能的 | The urge to push became primeval. |
+| hypertension | 高血压 | For the first thing, she had been perfectly heathy and well throughout her first three pregnancies, but this time around she’d developed hypertension and because of that, the doctors had decided she should be induced as it was safer for both her and the baby if she gave birth at thirty-eight weeks instead of the normal full-term forty weeks around which all her previous labours had started of their own accord. |
+| forthrightness | 直率；不拐弯抹角（来自形容词，意为说话直来直去） | Wilhelmina’s forthrightness had not shocked her. |
+| compartmentalise | 把（情绪）分门别类隔离起来 | It wasn’t that Clyde wasn’t impacted – she believed in the authenticity of the unhappiness he did experience, could see it clearly on his face – it was more that somehow he seemed able to compartmentalise those feelings, something she was unable to do. |
+| primeval | 原始的；本能的 | The urge to push became primeval. |
+| atone | 赎（罪）；补偿 | She knew she would have to atone one day, but it would be her who did the atoning, not him. |
+| barefacedness | 厚颜无耻；毫不掩饰（此指撒谎撒得理直气壮） | ‘You must really tek me fe a donkey,’ she said, then watched him hobble out of the room, amazed at the breadth of her husband’s capacity not only to lie but to make himself the victim of any circumstance; the wotless, shameless barefacedness of the man. |
+| wherewithal | （做某事的）财力／心力／办法 | Unfortunately, having Clyde as a husband was not conducive to having a normal life, so on this occasion she slipped the key into the lock as silently as Clyde attempted to when he returned home just before dawn, on the occasions he was merely tipsy so still had sufficient wherewithal to try and quietly sneak in. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| sterile | 无菌的；（环境）冷冰冰的 | That’s what she found herself thinking about during the hours she sat on her own in the sterile corridor outside the operating theatre, the fact that Clyde had never been faithful to her. |
+| unaccustomed | 不寻常的；不习惯的 | Ellen had been enjoying the unaccustomed luxury of a leisurely bath when the call came through. |
+| susceptible | 易受影响的；易患（病）的 | Once, during her mother’s last winter, Ellen had been present at a shift handover a few days after her mother had been admitted onto the hospital ward and overheard the matron explaining to the team who were taking over that what the coloured patient was after was the stronger and more potent medicines, which could not be prescribed on account of the newcomers from the Caribbean being more susceptible to addiction. |
+| retrospectively | 事后回看地；追认地 | Retrospectively, she blamed her disbelief on bad timing. |
+| disembarked | 下船／下飞机（正式用语） | When she used the word spoilt, she meant they hadn’t been tossed in the air like Clyde had done with the girls when they disembarked at Tilbury Docks. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---------|------|------|
+| instruments of torture | 刑具（此指产房器械） | Sister Hardy was standing at the bottom of the bed next to a mobile caddy that had been in the corner of the room earlier and now had on top of it a shiny collection of what looked like instruments of torture, and she was speaking to a white-gowned doctor, the two of them so engrossed in the details in Ellen’s medical file they hadn’t noticed she was awake. |
+| wretch | 可怜人；不幸的人（本章用其形容词形式，意为「痛苦不堪的」） | Ellen couldn’t recall ever feeling so wretched in her life. |
+| jockey | 骑师（此处用作比喻） | Ellen would never forget the sight of that woman on top of her husband, riding him like a jockey, or the look on her face when Ellen flung the freezing contents of the bucket directly over her, or the scream, louder than any sound Ellen had made throughout her current labour, or the expression of astonishment on Clyde’s face as he stared at her, mouth agape in shock, unable to find even a single word to say in his own defence, because for the most part his way consisted of lying to her even when he knew she knew he was lying. |
+
+## 一句话总结
+
+这一章把全书最后一层底翻了出来：1972 年 5 月，艾伦在伦敦的产房里生下她第四个孩子，一边挨着不肯让她起身的助产士和举着钳子的医生，一边被宫缩推回九个月前——那时她的丈夫躺在同一家医院里，她把他的哥哥带进了备用房；孩子长得像丈夫，血缘却是哥哥的，而她在孩子落地时对自己许下的那笔账，三年后会由一辆货车来收。
