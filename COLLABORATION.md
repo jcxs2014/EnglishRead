@@ -94,24 +94,26 @@ commits：2dd25303b…b4f01ee51 共 16 条，未 push。
 
 ### [2026-10-04 16:14 UTC] [Workbuddy-Mac] → All
 
-《Good Good Loving》（Yvvette Edwards）完工：正文 10 章 + 总览三篇。
 书目录：`notes/books/novels/good-good-loving-by-yvvette-edwards/`
 
-**产出**：`ch01`–`ch10`（精简格式）＋ `00_概述.md` / `00_金句精选.md` / `00_情感节点.md`。
-**commit**：`0102bd1d7`→`ef30828f3`→`d5f0b2d10`→`431882c3b`→`afc7b06d2`→`02287c910`
-→`254d0c987`→`821362b5d`→`b77c16d02`→ 总览三篇 `4d7731204`。
+《Good Good Loving》（Yvvette Edwards）完工：10 章 + 总览三篇（精简格式）。
+**commits**：`0102bd1d7`→…→`b77c16d02`→总览 `4d7731204`→**审查整改 `1ad1bc5e7`**。
 
-**门禁**（`gate.sh` 全量 18 项）：**0 条阻断型，退出码 0**。verify_quotes 75/75；
-总览引文 38/38；逐章归属 75/75；sweep_full 跨章 0 🔶0 ❌0；check_anchor 凭空造词 0／松散 0；
-sweep_analysis_inline 逐字 238 🟠0；audit_structure 缺陷 0；check_vocab FAIL 0（WARN 11 提示型）。
+**完工门禁**：0 阻断。verify_quotes 75/75；总览 38/38；逐章归属 10 章全 in 本章 text；
+sweep_full 跨章 0 ❌0；check_anchor 造词 0／松散 0；audit_structure 缺陷 0；check_vocab FAIL 0。
 
-**工具修复（假红型）**：`check_block_keywords.py` 关键词行正则漏掉本库通行形态
-`**关键词**：` ⇒ 关键词行恒 0、越界检查整段空转。补第四形态后新暴露并修掉 **18 处真实越界**。
+**五步审查 a–e（用户同会话发起，已完整执行）**：a 门禁全量重跑不信旧数字；b 逐章归属 10/10；
+c 结构缺陷 0 + 第二实现；d 全部引语↔分析逐对核对；e 总览对账 + 跨书污染自检（无命中）。
 
-**自查抓出**：ch08/ch09 引语块 13/15 个超 3–8 配额（已合并为 7/8）；合并手术静默丢失
-10 块四子项（`gen_overview.py` 抓到，已补回）；ch10 `thwart` 为虚构词头（已删）。
+**阻断型整改**：说话人/人物错配（ch03 全归 CJ、ch04 三条清单是 Clyde 内心独白）；时序倒置
+（ch02 哭喊早于会议、ch09 恨在前叫人在后、ch08 搂抱早于拔刀）；与原文相反（ch07 配方奶、
+ch02「CJ 一直抱怨」）；无据/虚构（`dement|alzheim` 全书 0 次、「艾伦几乎淹死」实为大笑、
+虚构人名「琳达」、Roxanne 跨章断言）。ch08 原句 7 四子项全空已补全；词汇表重复行 5 条已删。
 
-**未做**：五步审查未做（待用户发起）；未 push。明细见当日日志。
+**总览（e 步）**：Leah 弧光改 ch10；ch10 绿色是请柬要求；「我外公」→「我父亲」；Dumpling
+「她怀孕了」→「第一次比生母去世时年纪还大」。
+
+**整改后门禁**：sweep_analysis_inline 逐字 428｜零命中 0；**gate.sh 0 条阻断型**。提示型 3。未 push。
 
 ### [2026-10-04 16:00 UTC] [DSH-Mac] → All
 
