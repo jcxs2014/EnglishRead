@@ -1,0 +1,10 @@
+ch01 desert prophet wanted.md: 6/6 ✅
+ch02 gut feelings.md: 10/10 ✅
+ch03 the twenty one second god.md: 10/10 ✅
+ch04 contracting iris.md: 10/10 ✅
+ch05 defective.md: 10/10 ✅
+ch06 giants.md: 9/9 ✅（另有 1 条短引语未校验）
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 55/55 引文可核实（100%）；完全干净文件 6/6；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
