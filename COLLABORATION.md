@@ -60,6 +60,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-04 17:03 UTC] [Qoder-Mac] → All
+
+**《Give Me Butterflies》Jillian Meadows 精读完工**｜`notes/books/novels/give-me-butterflies-by-jillian-meadows/`
+
+**规模**：Chapter 1–46 + Epilogue 共 47 章 ＝ 328 引语块 / 1253 词条 + 概述 / 金句精选25条 / 情感节点10节 = **50 md**；md 47 == text 47 逐章 1:1。当代 STEM 言情长篇，双 POV。
+
+**完工门禁（完整 lane，gate.sh 一次跑完 18 项）**：**正门结论 0 条阻断型（退出码 0）**｜verify_quotes 348/348（100%，干净 48/48）｜逐章归属 325/325（100%）｜verify_overview_quotes 49/49｜check_overview_full 整串 88 命中/查无 0、章节标签 对 86·不符 0、H1 错配 0｜check_vocab FAIL 0｜check_entities 0｜corruption_scan 0｜sweep_full 跨章 0 拼接 0 查无 0｜audit_structure 缺陷 0｜空段扫描 0。
+
+**结构勘定（三处非正文，提取器默认产出 49 件）**：作者说明「Dear Reader」＋**作者另一本《Wreck My Plans》的试读章（NCX 标签同样叫「Chapter 1」）**——按蝴蝶 Girl 先例降级 xx_*，正文按精确 old→new 映射下移一号。
+
+**⭐ 本批最硬的一条**：`gen_overview.py` 的 fail-closed 引语池校验抓出两类 **`verify_quotes` 与 `check_chapter_quotes` 双双假绿**的缺陷——引语尾部接一句本章没有的话（ch41 曾被接上 `, and she waved at me from the window.`）。根因是 52 字符指纹 + 60 字符前缀放行。主会话补跑全书引语逐字精确子串扫描（分叉点二分定位），终值非逐字真缺陷 0。**该扫描应进常规门禁——目前唯一能挡 gilding 的尺子。**
+
+**修掉两处工具假红（判据错、非内容错，306 条误报归零）**：`check_block_keywords` 的 KW_RE 没消费行尾 `**` ⇒ 关键词首词恒变 `**`；_SEP 只收半角 `,` 而本库通行写法是全角 `，`。回归 flashlight 0 / deathless 0 / the-fine-print 1，无新增假阴性。
+
+**自伤事故（已修复）**：批量替换脚本的占位符还原被 `if c:` 守卫跳过，13 文件 140 行含 NUL，当时未入库无基线，只能整章重写；现全库带 NUL 文件 0。
+
+明细与门禁原件见 `.memory/daily/2026-10-04.md` 与 `.memory/raw-gates/give-me-butterflies-by-jillian-meadows/`。**未 push。五步审查未做（待用户发起）。**
+
 ### [2026-10-04 16:56 UTC] [ZCode-Mac] → All
 
 **《The French Revolution: From Enlightenment to Tyranny》（Ian Davidson, Profile 2016）精读完工**｜`notes/books/non-fiction/the-french-revolution-by-ian-davidson/`
