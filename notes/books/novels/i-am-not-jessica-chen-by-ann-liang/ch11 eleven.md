@@ -61,13 +61,13 @@ modified: "2026-10-05"
 
 > **原句 5:** “I know,” I say with a weak little laugh. “Kind of breaks your brain, doesn’t it?”
 
-**中文理解：** 他问这是不是噩梦，问这一切是不是他自己脑子编出来的。
+**中文理解：** 她先用一声很轻很弱的笑把局面接住，然后打趣：这会把你的脑子搞坏吗。
 
 **关键词：** a weak little laugh（一声很轻很弱的笑）；Kind of breaks your brain（把脑子搞坏）
 
-**为什么这样写：** 作者在最不可能的时间点放进来一个最孩子气的请求。而杰娜接下来的回应把它接住了——她没有否认噩梦，她只是把两个人的处境并排放在一起。
+**为什么这样写：** 作者让她不打理、不否认，只用一句打趣把最沉重的话题接住。而她之所以还能开玩笑，正因为她的荒谬感已经先跑到了恐惧前面——这一次她赢了。
 
-**读者视角提示：** 这是全书第一次由她来定义两个人共同处境的方式，不是道歉，不是解释，而是一个隐喻。而那个隐喻来自第一课的中文课本。
+**读者视角提示：** 这一句是她第一次试着把两个人的处境并排放在一起，而不是道歉或解释。而它之所以接得住，恰恰因为它听起来像玩笑。
 
 > **原句 6:** I grimace. Kick at the grass beneath my feet. “If this is a nightmare, we’re dreaming the same dream. You know what? Maybe that’s what it means,” I say, recalling the proverb slowly. “To dream of becoming a butterfly. I didn’t understand it when we were studying it in Chinese school, but I think I do now. Maybe it’s impossible to tell which is the dream and which is reality.”
 

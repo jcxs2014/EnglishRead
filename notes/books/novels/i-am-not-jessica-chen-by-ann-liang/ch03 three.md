@@ -31,7 +31,7 @@ modified: "2026-10-05"
 
 > **原句 2:** And that’s when I decide, firmly, unequivocally, that I can’t be dreaming.
 
-**中文理解：** 三个副词叠在一起：坚定地、明确地、毫无疑问地。她在这一刻正式否掉了自己昨晚的全部托词。
+**中文理解：** 两个副词叠在一起：坚定地、毫无疑问地。她在这一刻正式否掉了自己昨晚的全部托词。
 
 **关键词：** firmly（坚定地）；unequivocally（毫无疑问地）；I can’t be dreaming（我不可能是在做梦）
 

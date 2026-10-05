@@ -51,7 +51,7 @@ modified: "2026-10-05"
 
 > **原句 4:** Celine grins. “It’s called being resourceful. And very soon, I’ll be the most successful one in my family—I’m very certain of that. They’ll all be leeching off me.” Then she glances back at me again, her brows rising and disappearing under her helmet. “But why do you even care about your cousin? She’s kind of just . . . there.”
 
-**中文理解**：Leela 问，Celine 笑说：不然我为什么在乎你表姐，她基本上就是……在那儿而已。
+**中文理解**：Celine 笑着问：你为什么要在乎你表姐？她基本上就是……在那儿而已。
 
 **关键词：** But why do you even care about your cousin（你为什么要在乎你表姐）；She’s kind of just . . . there（她基本上只是……在那儿）
 

@@ -71,7 +71,7 @@ modified: "2026-10-05"
 
 > **原句 6:** The others are laughing, but I don’t feel like laughing at all. I feel like the ground is sinking, like it might crack open at any moment and I’ll fall in. How could my dad have just forgotten? And what other memories has he lost?
 
-**中文理解**：她在山脚看着姨妈家的父母忙忙碌碌，心里发凉——她父亲刚问了一句「谁又送我这顶帽子」，而答案就在他身边，被所有人当成笑话。
+**中文理解**：她在山脚看着姨妈姨妈父两拨人各自忙乱，心里发凉——而她父亲刚问了一句「谁又送我这顶帽子」，答案就在他身边，被所有人当成笑话。
 
 **关键词：** I feel like the ground is sinking（我感觉地在下沉）；How could my dad have just forgotten（我爸怎么会刚刚就忘了）；what other memories has he lost（他还丢了哪些记忆）
 

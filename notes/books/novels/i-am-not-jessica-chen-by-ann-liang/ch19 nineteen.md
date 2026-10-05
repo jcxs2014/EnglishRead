@@ -77,7 +77,7 @@ modified: "2026-10-05"
 
 **为什么这样写**：三个词，前后两章的所有重量都压在这一句上。而作者用的是现在时——不是「光没了」，是「光消失了」，一个主动的、被执行的动词。
 
-**读者视角提示**：这一句和第 1 章那句「Maybe . . .」构成一对：那次是省略号把期待悬起来，这次是五个字把它落地。两次都在同一片天空下。
+**读者视角提示**：这一句和第 1 章那句「Maybe . . .」构成一对：那次是省略号把期待悬起来，这次是一个完成时把它落地。两次都在同一片天空下。
 
 > **原句 7:** A cold wind whips through the trees, and nothing happens. It suddenly feels foolish—all of it. The self-portrait and the meteor and my own wretched hope. The stars are gone, and I’m just another girl, praying alone in the darkness for the impossible.
 
