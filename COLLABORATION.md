@@ -74,25 +74,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-05 16:12 UTC] [DSH-Mac] → All
 
-《Homeseeking》Karissa Chen 精读完工｜homeseeking-by-karissa-chen
+《Homeseeking》Karissa Chen 精读完工 + 五步独立审查｜homeseeking-by-karissa-chen
 
-**规模**：ch01–ch20 共 20 章 + 总览三篇 = 23 md；160 个引语块；720 条词表（36×20，由 `build_vocab_table.py` 产出、只做减法/移档）
+**规模**：ch01–ch20 共 20 章 + 总览三篇 = 23 md；160 个引语块；720 条词表（36×20，由 `build_vocab_table.py` 产出、只做减法/移档）。语料层 `extract_chapters.py` 出 21 件——作者附记 A Note on Languages 被误作 ch01，降级为 `xx_` 不占章号、其余整体上移；`verify_corpus --expect 20` PASS（锚点按全书 df=1 重选）。体裁：文学小说·家族史诗·多时间线多 POV（1938–2008，两条时间线交替），格式表无此行，按库内先例走精简格式 + 总览三篇。
 
-**语料层**：`extract_chapters.py` 出 21 件——作者附记 A Note on Languages 被误作 ch01，降级为 `xx_` 不占章号、其余整体上移；`verify_corpus --expect 20` PASS（20 组锚点双向 / 互查 380 组；锚点按全书 df=1 重选）
+**完工门禁**：verify_quotes --full 185/185（100%，干净文件 21/21）｜check_vocab 720 FAIL 0 WARN 0｜check_entities 0｜corruption_scan FAIL 0 报告 0｜sweep_full 本章命中 160 / 跨章 0 / 拼接 0 / 查无 0｜audit_structure 23 md 225 块 ❌0 ⚠️0 🔀0｜check_anchor 凭空 0 松散 0｜check_quote_blocks 160 行全对｜check_block_keywords 20 md 0 处｜check_nav_layer ❌0 ⚠️0｜check_chapter_quotes 抽样 ch01/05/10/11/16/20 均 8/8｜verify_overview_quotes 64/64｜check_overview_full A 整串 63、拼接 0、查无 0、标签对 56 不符 0、H1 错配 0｜check_overview_labels 待人判 0｜对账：正文 ch*.md 20 件 == text/ch*.txt 20 件
 
-**体裁**：文学小说·家族史诗·多时间线多 POV（1938–2008，两条时间线交替）。格式表无此行，按库内先例走精简格式 + 总览三篇
+**审查（2026-10-05 用户发起，走 AGENTS 第 10 条）**：a/b/c 三步 13 项门禁全绿，但绿得没有意义——它只查引语是否**逐字**，不查**谁说的**；d 步派 6 个子代理做语义二审 200 块 + 跨章断言 74 条（每条报警须附 `text/chNN` 逐字行号证据），e 步总览 64 条逐条说话人开窗。**阻断型实缺陷 46 条全部已修**（A 说话人/归属/分析不对应 18、B 跨章指错 18、C 纯捏造 10）；提示型 37 条、假红型 3 类逐条定性。审查方驳回子代理 5 条误判；自查回撤 5 处自伤，最重一处是误判「ch09 无火灾」而把真实存在的收束事件删掉。整改后全量门禁复跑两轮全绿：check_chapter_quotes 已改为**逐章 20 章各 8/8**，总览三篇说话人归属与情感节点 13 节转折均已逐条回原文核对——开工时标注的四条局限全部销号。
 
-**完工门禁**：verify_quotes --full 185/185（100%，干净文件 21/21）｜check_vocab 720 FAIL 0 WARN 0｜check_entities 0｜corruption_scan FAIL 0 报告 0｜sweep_full 本章命中 160 / 跨章 0 / 拼接 0 / 查无 0｜audit_structure 23 md 225 块 ❌0 ⚠️0 🔀0｜check_anchor 0/0｜check_quote_blocks 160 行全对｜check_block_keywords 20 md 0 处｜check_nav_layer ❌0 ⚠️0｜check_chapter_quotes 抽样 ch01/05/10/11/16/20 均 8/8｜verify_overview_quotes 64/64｜check_overview_full A 整串 63、拼接 0、查无 0、标签对 56 不符 0｜check_overview_labels 逐字 64、待人判 0｜对账：正文 ch*.md 20 件 == text/ch*.txt 20 件
+**姓名与工具口径**：`text/xx_a_note_on_languages.txt` 明载本书只给拼音与方言罗马化、章节不以汉字人名命名 ⇒ md 里的中文名（苏祖贞/海承威/李玉萍…）均为笔记自造读法，已在 00_概述.md 声明。三个对后续书通用的坑：① `gen_overview.py:57` 抽池正则要求引语行与「**中文理解：**」之间有**空行**，缺它整章静默抽 0 条；② ch14 原句 5–8 是多行引语，`.+` 不跨行无法入池；③ `check_xref_indep` 的正则只认 `chNN` 形态，本书 62 处中文「第 X 章」整个漏检——这一类只能靠人工逐条 grep 兜住，也正是本次缺陷的主来源。
 
-**门禁全盲项的自查**：全书 67 处「第 X 章」跨章指向逐条回 text/ 核实，修正 21 处无据断言；ch20 另自查出 8 处（含 3 处凭空捏造）。`check_crossref` 报「0 对」是口径不匹配——它只认 `chNN+英文引语` 形态，本书用「第 X 章」+中文描述，该层由上述人工核实承担。
-
-**姓名口径**：text/xx_a_note_on_languages.txt 明载本书只给拼音与方言罗马化、章节不以汉字人名命名 ⇒ 本书 md 里的中文名（苏祖贞/海承威/李玉萍…）均为笔记自造读法，已在 00_概述.md H1 后声明，以原文写法为准。
-
-**工具侧两处踩坑（对后续书通用）**：① `gen_overview.py:57` 抽池正则要求引语行与「**中文理解：**」之间有**空行**，缺它整章静默抽 0 条——ch16–ch20 已补 32 处 × 5 章；② ch14 原句 5–8 是多行引语，`.+` 不跨行无法入池，模板改引 ch14#1/#4。
-
-**审查**：用户本会话主动发起五步独立审查（第 10 条路径，未降级）。a/b/c 全绿、d 步派 6 个子代理做语义二审 200 块 + 2 组跨章断言 74 条，e 步总览 64 条逐条说话人开窗。**阻断型实缺陷 46 条（A 说话人/归属 18、B 跨章指错 18、C 纯捏造 10），全部已修**；提示型 37 条、假红型 3 类已逐条定性。审查方 5 条驳回子代理误判；自查出并撤回 5 处自伤，其中最重一处是误判「ch09 无火灾」而把真实存在的收束事件删掉。整改后全量门禁复跑两轮全绿，明细见 `.memory/reviews/homeseeking-by-karissa-chen-五步审查.md`
-
-**commit**：28 次（a309c891d … 3c66340c7 为精读 24 次；1a9a1ab03 / cd7a93252 / 01662ff5d / 本次为审查整改），原始门禁输出 29 个文件落 `.memory/raw-gates/homeseeking-by-karissa-chen/`｜审查报告 `.memory/reviews/homeseeking-by-karissa-chen-五步审查.md`｜未 push
+**commit**：28 次（精读 24：a309c891d … 3c66340c7；审查整改 4：1a9a1ab03 / cd7a93252 / 01662ff5d / 本次），原始门禁输出 29 个文件落 `.memory/raw-gates/homeseeking-by-karissa-chen/`｜明细：`.memory/reviews/homeseeking-by-karissa-chen-五步审查.md`｜未 push
 
 ### [2026-10-05 15:53 UTC] [ZCode-Mac] → All
 
