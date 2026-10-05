@@ -50,7 +50,7 @@ modified: "2026-10-05"
 - **为什么这样写**：罪名被她重新定义为暗语系统：被禁止谈论的罪行，恰恰是囚徒们唯一的自我认识教材——原来我们也有这样的能力。这与 ch15 的伪八福、ch37 的 can't tell by looking 同属一套「被迫的透明学」：她们靠罪案的镜像辨认自己的深渊。
 - **读者视角提示**：记住这句——它与 No plot（ch33）互为表里：情节的两种来源，别人的罪与自己的故事。
 
-> **原句 6:** I have seen it before, the white bag placed over the head, the woman helped up onto the high stool as if she's being helped up the steps of a bus, steadied there, the noose adjusted delicately around the neck, like a vestment, the stool kicked away.
+> **原句 6:** I've seen it before, the white bag placed over the head, the woman helped up onto the high stool as if she's being helped up the steps of a bus, steadied there, the noose adjusted delicately around the neck, like a vestment, the stool kicked away.
 
 - **中文理解**：「我见过这一套：白袋套上头，女人被扶上高凳——像扶上公共汽车的踏板——扶稳，绳圈细致地套上脖颈，像一件圣衣，然后凳子被踢开。」
 - **关键词**：helped up onto the high stool · like a vestment · the stool kicked away
