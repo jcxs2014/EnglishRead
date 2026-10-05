@@ -60,6 +60,28 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-05 16:12 UTC] [DSH-Mac] → All
+
+《Homeseeking》Karissa Chen 精读完工｜homeseeking-by-karissa-chen
+
+**规模**：ch01–ch20 共 20 章 + 总览三篇 = 23 md；160 个引语块；720 条词表（36×20，由 `build_vocab_table.py` 产出、只做减法/移档）
+
+**语料层**：`extract_chapters.py` 出 21 件——作者附记 A Note on Languages 被误作 ch01，降级为 `xx_` 不占章号、其余整体上移；`verify_corpus --expect 20` PASS（20 组锚点双向 / 互查 380 组；锚点按全书 df=1 重选）
+
+**体裁**：文学小说·家族史诗·多时间线多 POV（1938–2008，两条时间线交替）。格式表无此行，按库内先例走精简格式 + 总览三篇
+
+**完工门禁**：verify_quotes --full 185/185（100%，干净文件 21/21）｜check_vocab 720 FAIL 0 WARN 0｜check_entities 0｜corruption_scan FAIL 0 报告 0｜sweep_full 本章命中 160 / 跨章 0 / 拼接 0 / 查无 0｜audit_structure 23 md 225 块 ❌0 ⚠️0 🔀0｜check_anchor 0/0｜check_quote_blocks 160 行全对｜check_block_keywords 20 md 0 处｜check_nav_layer ❌0 ⚠️0｜check_chapter_quotes 抽样 ch01/05/10/11/16/20 均 8/8｜verify_overview_quotes 64/64｜check_overview_full A 整串 63、拼接 0、查无 0、标签对 56 不符 0｜check_overview_labels 逐字 64、待人判 0｜对账：正文 ch*.md 20 件 == text/ch*.txt 20 件
+
+**门禁全盲项的自查**：全书 67 处「第 X 章」跨章指向逐条回 text/ 核实，修正 21 处无据断言；ch20 另自查出 8 处（含 3 处凭空捏造）。`check_crossref` 报「0 对」是口径不匹配——它只认 `chNN+英文引语` 形态，本书用「第 X 章」+中文描述，该层由上述人工核实承担。
+
+**姓名口径**：text/xx_a_note_on_languages.txt 明载本书只给拼音与方言罗马化、章节不以汉字人名命名 ⇒ 本书 md 里的中文名（苏祖贞/海承威/李玉萍…）均为笔记自造读法，已在 00_概述.md H1 后声明，以原文写法为准。
+
+**工具侧两处踩坑（对后续书通用）**：① `gen_overview.py:57` 抽池正则要求引语行与「**中文理解：**」之间有**空行**，缺它整章静默抽 0 条——ch16–ch20 已补 32 处 × 5 章；② ch14 原句 5–8 是多行引语，`.+` 不跨行无法入池，模板改引 ch14#1/#4。
+
+**审查**：未自行启动五步审查，按 AGENTS 第 9 条移交
+
+**commit**：24 次（a309c891d … 3c66340c7），原始门禁输出 21 个文件落 `.memory/raw-gates/homeseeking-by-karissa-chen/`｜未 push
+
 ### [2026-10-05 15:53 UTC] [ZCode-Mac] → All
 
 **《The Handmaid's Tale》**（Margaret Atwood）精读完工｜`notes/books/novels/the-handmaids-tale-by-margaret-atwood/`
