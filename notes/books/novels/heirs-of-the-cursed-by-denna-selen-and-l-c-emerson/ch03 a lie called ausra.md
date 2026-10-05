@@ -48,7 +48,7 @@ modified: "2026-10-05"
 
 **中文理解：** "而当轮到她报答这份恩情时……她失败了。"
 
-**关键词：** when it came time to return that favor · she had failed
+**关键词：** when it came time for Naithea to return that favor · she had failed
 
 **为什么这样写：** 单独成段，六个字的信息量全在 "that favor"（那份恩情）的指代上——读者要靠上一段才知道 Iseabail Forsàidh 在无名婴孩的摇篮里把她捞了起来。**作者拒绝在这里给出名字**，用 "that favor" 把救命之恩变成一个抽象物。省略号 " . . . " 之后才是 "she had failed"：**转折被推迟到省略号之后**，制造了一次停顿。而 "had failed" 用过去完成时，不解释失败在哪里，把答案交给下一段（十三岁被老鸨调教成商品）。
 

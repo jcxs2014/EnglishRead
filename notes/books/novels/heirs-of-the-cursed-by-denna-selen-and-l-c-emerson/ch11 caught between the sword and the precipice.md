@@ -73,7 +73,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 全章的情绪顶点，而作者用**三个名词并列**（colors, pasts and hope）代替抒情：颜色不同、过去不同、希望同一个——**差异在前，统一在后**。Eleven（十一）这个数字要算过才明白：十个姐妹加上 Naithea 自己，**她在算人数的时候把自己也算了进去**，这个数字是她态度的证据。kept them alive（让她们活下来）用完成时加持续（sisterhood 一直在起作用），**把"姐妹情"从情感词写成一个已经生效的事实**。
 
-**读者视角提示：** 本句是全书对 Madame Dimond 体系的第一次正面反驳——**那个体系靠"分"维持，这十一个人靠"握"维持**。而 held them alive 的过去时也预告了：这只手在下一幕（第二天的抓捕）里会被打断。
+**读者视角提示：** 本句是全书对 Madame Dimond 体系的第一次正面反驳——**那个体系靠"分"维持，这十一个人靠"握"维持**。而 kept them alive 的过去时也预告了：这只手在下一幕（第二天的抓捕）里会被打断。
 
 > **原句 7:** "Dyron Selmi raised a wrinkled hand and brought his index finger to his lips, but there was no fear on his face. Only amusement, as if the presence of the soldiers was the most entertaining thing he’d witnessed in years."
 
@@ -97,7 +97,7 @@ modified: "2026-10-05"
 
 > **原句 9:** "Because the commander before her was so dominant, so confident, that she wanted to break that façade until he became a vulnerable child for her to play with."
 
-**中文理解：** "因为面前这位指挥官是如此 dominant（ dominating）、如此自信，以至于她想拆掉他的那道 façade（伪装），直到他变成一个可以让她摆弄的 vulnerable child（脆弱的孩子）。"
+**中文理解：** "因为面前这位指挥官是如此 dominant（dominance）、如此自信，以至于她想拆掉他的那道 façade（伪装），直到他变成一个可以让她摆弄的 vulnerable child（脆弱的孩子）。"
 
 **关键词：** the commander before her was so dominant · so confident · break that façade · a vulnerable child for her to play with
 
@@ -121,7 +121,7 @@ modified: "2026-10-05"
 
 **关键词：** you like to play with fire · a devilish grin · to whisper in her ear · I wouldn’t want you to get burned
 
-**为什么这样写：** 全章最后一句，两个人的**位置完成了互换**：前面是她在俯视（break that façade），这里是他俯身在她耳边（leaned in closer to whisper）。作者把 play with fire 这个惯用语**接住她自己的话**——她要玩火，他就把火这词**还给她**。make Naithea tremble slightly at his words（她的话却让她微微发抖）是本章**唯一一次让她身体失控**：不是因为疼，是因为**调情的权力反转**。而 Be careful, love 与 I wouldn’t want you to get burned 是一句**双层威胁**：表面是关心，底层是"你是我的东西，我提醒你别烫着自己"。
+**为什么这样写：** 全章最后一句，两个人的**位置完成了互换**：前面是她在俯视（break that façade），这里是他俯身在她耳边（leaned in closer to whisper）。作者把 play with fire 这个惯用语**接住她自己的话**——她要玩火，他就把火这词**还给她**。making Naithea tremble slightly at his words（她的话却让她微微发抖）是本章**唯一一次让她身体失控**：不是因为疼，是因为**调情的权力反转**。而 Be careful, love 与 I wouldn’t want you to get burned 是一句**双层威胁**：表面是关心，底层是"你是我的东西，我提醒你别烫着自己"。
 
 **读者视角提示：** 全章在一次完整的钩连里结束：她试探、他回应、她再试（Try me）、他反压（You wouldn’t be able to take me）。**这一章结束时两人势均力敌，读者知道 Ward 是下一个要被查的深渊**。
 

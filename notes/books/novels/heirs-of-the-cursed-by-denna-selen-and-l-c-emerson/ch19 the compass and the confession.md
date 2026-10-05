@@ -51,7 +51,7 @@ modified: "2026-10-05"
 
 **关键词：** I don’t want you to show even a shred of mercy · to those damned wretches · If their treason to the Crown · is an undeniable truth · take them to the gallows · without a hint of doubt · in his decision
 
-**为什么这样写：** 全章对**镇压**最直白的一次命令，而作者用**两层条件句**把它写成一个流程：① 如果还没清干净 ② 如果叛变不争气。而 **without a hint of doubt in his decision（他的决定里没有一丝怀疑）** 是全句的定调——**作者用"没有怀疑"来写残忍，比用"残忍"更冷**：**残忍至少是情绪，毫不犹豫是制度。** 而 even a shred of mercy（丝毫仁慈）用计量单位 shred（一小片）——**连一点点仁慈都不许可**。最重的是 **undisputable truth（不争的事实）** 这个说法：**他把"我怀疑"改写成"这已经是事实"**。
+**为什么这样写：** 全章对**镇压**最直白的一次命令，而作者用**两层条件句**把它写成一个流程：① 如果还没清干净 ② 如果叛变不争气。而 **without a hint of doubt in his decision（他的决定里没有一丝怀疑）** 是全句的定调——**作者用"没有怀疑"来写残忍，比用"残忍"更冷**：**残忍至少是情绪，毫不犹豫是制度。** 而 even a shred of mercy（丝毫仁慈）用计量单位 shred（一小片）——**连一点点仁慈都不许可**。最重的是 **undeniable truth（不争的事实）** 这个说法：**他把"我怀疑"改写成"这已经是事实"**。
 
 **读者视角提示：** 本句与下一句 Fawke 的 **Information in exchange for their lives（用情报换命）** 是一对：**Ward 谈的是绞架，Fawke 谈的是交易**。**同一条命令，底下人已经想到怎么变现了。**
 
@@ -69,9 +69,9 @@ modified: "2026-10-05"
 
 **中文理解：** "Naithea 是在开始于妓院卖身那一刻染上头发的，为的是藏起她的过去，保住她曾经那个孩子的纯真。"
 
-**关键词：** Naithea had started coloring her hair · upon selling her body · at the brothel · wishing to hide her past · to preserve the innocence · of the child she once was
+**关键词：** Naithea had started coloring her hair · upon selling her body · at the brothel · wishing to hide her past · preserve the innocence · of the child she once was
 
-**为什么这样写：** 全章对 Naithea **最私人的一处细节**，而作者用一个 **upon（自……起）** 的介词把**染发与卖身焊在同一刻**——**这个 upon 是全句的机关**：不是"卖身之后她染了发"，是"**卖身这件事本身就是染发的起点**"。而 to hide her past 与 to preserve the innocence（保住纯真）构成**一组对立**：**她要藏的是过去，要保的是不存在的东西**。**hide her past 还能做到，preserve the innocence 永远做不到——作者用一个不对等的并列把这层意思写尽了。** 而 of the child she once was（她曾经那个孩子）里的 once was（曾经是）**是全章最伤的一个词**：它标记了那个孩子**已经死了**。
+**为什么这样写：** 全章对 Naithea **最私人的一处细节**，而作者用一个 **upon（自……起）** 的介词把**染发与卖身焊在同一刻**——**这个 upon 是全句的机关**：不是"卖身之后她染了发"，是"**卖身这件事本身就是染发的起点**"。而 to hide her past 与 preserve the innocence（保住纯真）构成**一组对立**：**她要藏的是过去，要保的是不存在的东西**。**hide her past 还能做到，preserve the innocence 永远做不到——作者用一个不对等的并列把这层意思写尽了。** 而 of the child she once was（她曾经那个孩子）里的 once was（曾经是）**是全章最伤的一个词**：它标记了那个孩子**已经死了**。
 
 **读者视角提示：** 本句是全书对 Naithea 身世**最重要的一次补叙**，而且信息量极大：**她不是从小就在妓院**——她有过一个金发的童年（与她那个 Ausra＝日出 的名字同源）。**她的染发是自我抹除，而全书后文会一层层把这个孩子挖出来。**
 

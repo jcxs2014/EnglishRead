@@ -39,7 +39,7 @@ modified: "2026-10-05"
 
 **中文理解：** "那些她的女主人多年来反复念叨的话，已经刺进她的灵魂，而 Naithea 开始相信它们是真的了。"
 
-**关键词：** Those words, which her mistress kept repeating · over the years · were pierced into her soul · she had begun to believe them to be true
+**关键词：** Those words, which her mistress kept repeating · over the years · were pierced into her soul · had begun to believe them to be true
 
 **为什么这样写：** 全章对 Dimond 那句经典辱骂（You're an ungrateful wretch）的**解剖**。作者用两个被动式**pierced into her soul（刺入她的灵魂）与 had begun to believe（已开始相信）**——**前者是物理的刺入，后者是心理的接受**。最狠的是 begin（开始）：**begin 意味着这个过程还没完成，她还在半信半疑**。而 Those words, which… 这个定语从句让作者不去重复那句辱骂的原话，**而是把它当一件已经磨损的旧物来处理**——读者自己知道说的是哪句。**这是全书写"语言暴力"最高级的一次：作者让读者自己去回忆那句话。**
 
@@ -61,7 +61,7 @@ modified: "2026-10-05"
 
 **关键词：** You may dream of your freedom · but in this world you belong to me · and always will · she growled against her black hair · Do you know what they do with thieves like you
 
-**为什么这样写：** 全章对**奴役本质**最锋利的一句。**You may dream（你可以梦想）** 与 **but in this world（可是在这世上）** 构成一组"理想对现实"的拦截：**梦想不被禁止，只是不算数**。而 belong to me and always will（永远属于我）里的 always will（永远将）——**这是从"现在"延伸到"未来"的永久产权宣告**。**always 这个词比任何锁链都结实**：锁链是物质的，always 是语义的。而 growl against her black hair（贴着她黑发咆哮）这个细节极脏——**咆哮时嘴唇几乎贴着她的头发**。
+**为什么这样写：** 全章对**奴役本质**最锋利的一句。**You may dream（你可以梦想）** 与 **but in this world（可是在这世上）** 构成一组"理想对现实"的拦截：**梦想不被禁止，只是不算数**。而 belong to me and always will（永远属于我）里的 always will（永远将）——**这是从"现在"延伸到"未来"的永久产权宣告**。**always 这个词比任何锁链都结实**：锁链是物质的，always 是语义的。而 growled against her black hair（贴着她黑发咆哮）这个细节极脏——**咆哮时嘴唇几乎贴着她的头发**。
 
 **读者视角提示：** 本句是 Dimond 对 Naithea 那句"you may dream of your freedom"的**镜像**。注意 Naithea 心里那套账（本章的 For them, she would embrace the pain）——**Dimond 用 always will 拴住她，Naithea 用"为了她们"给自己上枷**。两人都被同一个词困住：**永远。**
 
@@ -91,7 +91,7 @@ modified: "2026-10-05"
 
 **关键词：** He memorized her name · tasting · its sweet temptation · in his lips
 
-**为什么这样写：** 全章**最关键也最危险的一句**。作者用 memorize（记住）这个中性动词，配上 tasting（品尝）与 sweet temptation（甜蜜的诱惑）——**"记住"是正当的（他需要知道逃犯的名字），"品尝"是越界的**。而 in his lips（在唇间）这个方位把诱惑**放到了他身体的入口**——与前面 Madame Dimond 咆哮时 growl against her black hair 那个"贴着头发的唇"形成**精确对位**。**两个男人，两处嘴唇，一个是占有，一个是诱惑**。这是全书对 Ward 最重要的一次定性：**他记住她的名字，不是为了抓她，是为了别的**。
+**为什么这样写：** 全章**最关键也最危险的一句**。作者用 memorize（记住）这个中性动词，配上 tasting（品尝）与 sweet temptation（甜蜜的诱惑）——**"记住"是正当的（他需要知道逃犯的名字），"品尝"是越界的**。而 in his lips（在唇间）这个方位把诱惑**放到了他身体的入口**——与前面 Madame Dimond 咆哮时 growled against her black hair 那个"贴着头发的唇"形成**精确对位**。**两个男人，两处嘴唇，一个是占有，一个是诱惑**。这是全书对 Ward 最重要的一次定性：**他记住她的名字，不是为了抓她，是为了别的**。
 
 **读者视角提示：** 本句是 Ward 线的**情感拐点**。在此之前他对 Naithea 的全部兴趣都还算得上"警惕"，**从这句开始，他对她有了不属于指挥官的东西**。而下一段紧接着就是"父亲按在他肩上的幻手"——**作者立刻用父亲的形象按住他**，**说明作者清楚这个转折有多危险**。
 
@@ -129,7 +129,7 @@ modified: "2026-10-05"
 
 **中文理解：** "「不，」他答道，那些已经在嘴里成形的话，还没出口就已经尝到了苦味。「我绝不会和婊子睡觉。」」"
 
-**关键词：** No, he replied · the words already beginning to form in his mouth · tasted bitter even before he uttered them · I would never sleep with a whore
+**关键词：** No, he replied · that were already beginning to form in his mouth · tasted bitter even before he uttered them · I would never sleep with a whore
 
 **为什么这样写：** 全章最**反讽**的一句，而作者用 **tasted bitter even before he uttered them（还没出口就已经是苦的）** 把"违心"写成了**味觉**——**恶心的生理先于言语**。而 and the words that were already beginning to form in his mouth（那些已经在嘴里成形的话）——**作者暗示他本来想说的不是这句**。**I would never sleep with a whore**：前半是拒绝（No），后半是自贬（a whore）——**他把她和自己放在同一个词里拒绝**。**这句话是保护：只要他当众宣布"她对我没有价值"，Dimond 就不会觉得 commander 特别关照她。**
 
@@ -141,7 +141,7 @@ modified: "2026-10-05"
 
 **关键词：** Something moved inside his chest · something dangerous · Ever since he’d first seen her in the square · the walls around his heart · begun to shake and crack · threatening to tear down his façade
 
-**为什么这样写：** 全章对 Ward 内心最**建筑化**的一笔。作者用 **the walls around his heart（心周围的墙）** 把情绪写成**建筑结构的松动**——而 façade（外立面）这个词是全书对 Ward 形象的**总纲**。**从 ch13 起作者就在写"他在图书馆里没有动"、写 his stoic expression（他不动声色的表情），到本章正式给它命名为 façade**——**façade 就是他这些年建起来的那面墙。** 而 Something moved inside his chest（他胸腔里有什么在动）用 Something——**作者拒绝说是"什么"**，因为一旦说破，克制就崩了。**这一句是全书对"他正在破功"最克制的一次描写。**
+**为什么这样写：** 全章对 Ward 内心最**建筑化**的一笔。作者用 **the walls around his heart（心周围的墙）** 把情绪写成**建筑结构的松动**——而 façade（外立面）这个词是全书对 Ward 形象的**总纲**。**从 ch13 起作者就在写"他在图书馆里没有动"、写 a stoic expression（不动声色的表情），到本章正式给它命名为 façade**——**façade 就是他这些年建起来的那面墙。** 而 Something moved inside his chest（他胸腔里有什么在动）用 Something——**作者拒绝说是"什么"**，因为一旦说破，克制就崩了。**这一句是全书对"他正在破功"最克制的一次描写。**
 
 **读者视角提示：** 这句与 ch13 那句 dangerous approval 是**同一个词组在两个人身上的对位**——**当时是 Naithea 对他 dangerous approval，现在轮到他这边 dangerous（something dangerous）**。**作者用同一个形容词标记同一种感情，说明这是双向的、也是一样的危险。**
 

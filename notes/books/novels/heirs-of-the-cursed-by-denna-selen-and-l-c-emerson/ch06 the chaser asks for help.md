@@ -20,7 +20,7 @@ modified: "2026-10-05"
 
 **关键词：** Forgive my boldness · I didn’t mean to intrude · My name is Harg Koller
 
-**为什么这样写：** 全书最危险的人**登场第一句是道歉**，而且是对一个他本可以无视的人（Darcia 只是主人家的小姐）道歉。作者用这个错位完成全部的人物定位：他有教养，且他知道在场每个人都得安抚。"aplogized to Darcia before looking at Gion"（先向 Darcia 致歉，才看向养父）这个次序不是随便写的——**他按礼节排序，但读者立刻明白真正的对话对象是 Gion**。而最后那句"I was hoping I could ask you a few questions"（我希望能否请教几个问题）用虚拟语气，把"审问"包装成"请教"。
+**为什么这样写：** 全书最危险的人**登场第一句是道歉**，而且是对一个他本可以无视的人（Darcia 只是主人家的小姐）道歉。作者用这个错位完成全部的人物定位：他有教养，且他知道在场每个人都得安抚。"apologized to Darcia before looking at Gion"（先向 Darcia 致歉，才看向养父）这个次序不是随便写的——**他按礼节排序，但读者立刻明白真正的对话对象是 Gion**。而最后那句"I was hoping I could ask you a few questions"（我希望能否请教几个问题）用虚拟语气，把"审问"包装成"请教"。
 
 **读者视角提示：** 本章之后 Chaser 在 ch08 已被王命释放，本句是他在民间**第一次亮明身份**。留意他道歉的对象排序，后续他与 Darcia 的每次交锋都会重演这种礼节。
 

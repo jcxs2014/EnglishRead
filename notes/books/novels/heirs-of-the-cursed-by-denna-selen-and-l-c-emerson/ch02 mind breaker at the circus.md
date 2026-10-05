@@ -32,7 +32,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 关键在 "she ordered herself"（她命令自己）。作者不用"她想通了"或"她下定了决心"，而是**把她自己写成下达命令的一方**——与前一句的"难以说明"形成对照：说不清感受，却能立刻给自己下指令。三个祈使短句连成一段（"Do it!" → "It's the only way" → 结论），语法上是命令句，内容上却是自我说服，**句式与内容互相拆台**，这正是她处境的准确写法。
 
-**读者视角提示：** "the family it has given you"（马戏团给她的那个家）——注意这个所有格属于马戏团，不是她。与序章里 Leonel 的"mother and little sister"对照：她连"家"都是被施舍的。
+**读者视角提示：** "the family it has given you"（马戏团给她的那个家）——注意这个所有格属于马戏团，不是她。与序章里 Leonel 想的 his little sister and his mother（他的妹妹和母亲）对照：她连"家"都是被施舍的。
 
 > **原句 3:** "The devouring flames that flickered around the hoop warmed her skin, threatening to burn her, but Darcia only had eyes for the tiger, which pounded against the ground, running until reaching a nearby trampoline."
 

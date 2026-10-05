@@ -72,7 +72,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 代价的具体化，而"具体化"的方式极其精准：不是失去生命、不是失去力量，而是 lose what they love most（失去最爱之物）。这个规则对 Naithea 尤其狠——**她已经没有情人、家人和家**（ch07 那句清单），那么"最爱之物"落在哪里就成了问题。作者不在此给答案，反而让这一句成为她全章行动的动机：她要看这铺子里的东西，因为她必须知道自己**还有什么可失去的**。
 
-**读者视角提示：** 这条规则是全书的定价基准。序章里国王夺的是"their crowns"，ch08 里 Conrad 收的是"your performances"，本章收的是"what they love most"——**三种掠夺，三个价位**。
+**读者视角提示：** 这条规则是全书的定价基准。序章里国王要的是 their crowns（他们的王冠），上一章那条线里黑暗索要的价码是 their magic and their lives（她们的魔法与性命），本章 Ward 给的许愿代价是 what they love most（他们最爱的东西）——**三种掠夺，三个价位**。
 
 > **原句 7:** "The hairs on her arms bristled with icy dread. It wasn’t just that she’d discussed such information only with Jehanne; it was his choice of words, as though he were aware of her magic."
 
@@ -80,7 +80,7 @@ modified: "2026-10-05"
 
 **关键词：** hairs on her arms bristled · it was his choice of words · as though he were aware of her magic
 
-**为什么这样写：** 全章的**恐惧顶点**，而作者把恐惧写成**对措辞的敏感**：真正让她炸毛的不是他知道消息，而是 he was aware of her magic（他知道她会魔法）。她靠隐瞒活着，所以**语言习惯就是她的破绽**。作者用 "It wasn’t just that…; it was…" 纠正句式否掉第一个解释，换上更吓人的一个——这比直接写"她很害怕"精确得多。bristled（竖起）与 icy（冰冷的）把生理反应和心理反应同时锁定。
+**为什么这样写：** 全章的**恐惧顶点**，而作者把恐惧写成**对措辞的敏感**：真正让她炸毛的不是他知道消息，而是 he were aware of her magic（他知道她会魔法）。她靠隐瞒活着，所以**语言习惯就是她的破绽**。作者用 "It wasn’t just that…; it was…" 纠正句式否掉第一个解释，换上更吓人的一个——这比直接写"她很害怕"精确得多。bristled（竖起）与 icy（冰冷的）把生理反应和心理反应同时锁定。
 
 **读者视角提示：** 本句是全书第一次有**除 Jehanne 外的人**疑似识破她的能力。注意措辞是 as though（仿佛），**是她的怀疑，不是叙述者的确认**。
 
@@ -100,7 +100,7 @@ modified: "2026-10-05"
 
 **关键词：** What Leonel had witnessed · so dreadful that · send his most lethal warriors
 
-**为什么这样写：** 一个**双重过去完成时**的长主语（What Leonel had witnessed had been）套在 so dreadful that 之前，作者用这个笨重的结构去**模拟那件事的重量**：它一直在场，而且先于一切判断存在。而 so dreadful that 之后的结果是"派最致命的战士"——**恐惧没有被消除，被升级成了兵力**。这是序章那场"狩猎宣言"在 Bellmare 的回声，也是全书政治机器的运转方式：坏消息进来，军队出去。
+**为什么这样写：** 一个**双重过去完成时**的长主语（What Leonel had witnessed in Ro’i Rājya had been）套在 so dreadful that 之前，作者用这个笨重的结构去**模拟那件事的重量**：它一直在场，而且先于一切判断存在。而 so dreadful that 之后的结果是"派最致命的战士"——**恐惧没有被消除，被升级成了兵力**。这是序章那场"狩猎宣言"在 Bellmare 的回声，也是全书政治机器的运转方式：坏消息进来，军队出去。
 
 **读者视角提示：** Leonel 是序章里那个被国王扔进鬼城的年轻士兵，本章他已经成了 Naithea 情报链上的第二环。**她通过 Jehanne 得到他的话，Dyron 则知道这些话**——两人同时握有她的把柄。
 

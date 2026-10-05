@@ -111,9 +111,9 @@ modified: "2026-10-05"
 
 **关键词：** In Harg’s mind, alarm bells went off · His mental threads · glowing in blue hues · a strange calmness · now flickered with a violent red
 
-**为什么这样写：** 全书**最重要的一处技术描写**。作者用**颜色**给思维线装了信号灯：blue（平静的蓝）→ red（危险的红）。而 a strange calmness（一种奇异的平静）这个短语极毒——**在那个瞬间之前，Harg 看起来像一尊雕像**（后面 The soldier savored his wine calmly… His face radiated serenity 就是在写他），**而读者已经提前知道他要暴起**。这是本书用**颜色伏笔**（foreshadow by color）最典型的一处：**读者握着一个士兵不知道的信息。**
+**为什么这样写：** 全书**最重要的一处技术描写**。作者用**颜色**给思维线装了信号灯：blue（平静的蓝）→ red（危险的红）。而 a strange calmness（一种奇异的平静）这个短语极毒——**在那个瞬间之前，Harg 看起来像一尊雕像**（后面 The soldier savored his wine calmly… His face radiated serenity 就是在写他），**而读者已经提前知道他要暴起**。这是本书用**颜色伏笔**最典型的一处：**读者握着一个士兵不知道的信息。**
 
-**读者视角提示：** 呼应 ch12 开头那个 wolf's sharp gold-rimmed eyes（狼的锐利金边眼睛）——**两处超自然都用"非自然颜色的眼睛"标记**。而 mental threads 这个词是 ch02 那段"mind is a complex clockwork machine"的**实战版**——**她在看别人脑子里那台钟表。**
+**读者视角提示：** 呼应 ch12 开头那句 His sharp gold-rimmed eyes（那双锐利的金边眼睛）——**两处超自然都用"非自然颜色的眼睛"标记**。而 mental threads 这个词是 ch02 那段"mind is a complex clockwork machine"的**实战版**——**她在看别人脑子里那台钟表。**
 
 > **原句 11:** "“The important thing isn’t who said it, but rather what they said, John. It’s not the first time such disturbing rumors have spread. But it’s the first time they have begun to shake the kingdom.”"
 

@@ -38,7 +38,7 @@ modified: "2026-10-05"
 
 **中文理解：** "远处的低语在她耳边回响。那不是低语，而是一支被遗忘的旋律。尽管 Darcia 试图把那些声音推远，它们却越来越大，直到与现实混成一片。"
 
-**关键词：** Distant whispers echoed in her ears · Not whispers, but a forgotten melody · she tried to push the voices away · they blurred into reality
+**关键词：** Distant whispers echoed in her ears · Not whispers, but a forgotten melody · Darcia tried to push the voices away · they blurred into reality
 
 **为什么这样写：** 作者用一个**自我更正的句式**（Not whispers, but a forgotten melody）把第一句推翻——低语不是低语，是**她自己忘了的歌**。这是全书关于 dryadalis（光）最含蓄的一次暗示：**她身上有别人给的东西，她已经不认得了**。而 blurred into reality（与现实混成一片）是危险的核心：歌声与现实重叠时，**她就分不清哪些是自己的**。push the voices away（推远）与 grew louder and louder（越来越大）构成**无效动作与反效果**的对照。
 
@@ -50,7 +50,7 @@ modified: "2026-10-05"
 
 **关键词：** Anyone driven by reason · would have run for help · but Darcia was impulsive · the goddesses hadn’t endowed her with great survival instincts
 
-**为什么这样写：** 这是全书对 Darcia **最直白的人物注解**，而且用了一个虚拟的对照人物（Anyone driven by reason，任何有理智的人）——**作者不写"她不该进去"，作者写"换了任何正常人会怎么做"**。endow（赋予）这个词选得极重要：**女神们给了她魅力、幻术、读心，唯独没给求生本能**。而 survived instincts 用否定式否定到 great（过分的）——**不是没有，是被过量地缺**。这个句式（先立一个正常人标准，再说她不符）与本库全书对两位女主的写法一致：**用参照系而不是评价来定性**。
+**为什么这样写：** 这是全书对 Darcia **最直白的人物注解**，而且用了一个虚拟的对照人物（Anyone driven by reason，任何有理智的人）——**作者不写"她不该进去"，作者写"换了任何正常人会怎么做"**。endow（赋予）这个词选得极重要：**女神们给了她魅力、幻术、读心，唯独没给求生本能**。而 great survival instincts 用否定式否定到 great（过分的）——**不是没有，是被过量地缺**。这个句式（先立一个正常人标准，再说她不符）与本库全书对两位女主的写法一致：**用参照系而不是评价来定性**。
 
 **读者视角提示：** 本句也是 thief 后来那句诊断的伏笔：That impulsiveness will destroy you someday。**作者先在心里给她下了诊断，再让一个角色把诊断说出口**——注意 thief 说的不是 impulsive，是 impulsiveness（冲动这个特质本身），**他诊断的是她的属性，不是她这一次的行为**。
 
@@ -60,7 +60,7 @@ modified: "2026-10-05"
 
 **关键词：** a bitter laugh · before grimacing wryly · What gave me away
 
-**为什么这样写：** **两个连续的表情动作**（a bitter laugh、grimacing wryly）之后才是台词——作者先花两句写他的脸，再让他开口，这在一个追兵环伺的场面里是奢侈的。bitter（苦）与 wryly（挖苦的）构成一组**反讽**：他在场被抓，却还在开玩笑。What gave me away（我哪里露馅了）是自问句，**他明知答案，他也在等她回答**——这一问把主导权抢回去了一半。give away（露馅）这个词组用得极准：**偷窃这件事不是他露馅，是他的存在方式露了馅**。
+**为什么这样写：** **两个连续的表情动作**（a bitter laugh、grimacing wryly）之后才是台词——作者先花两句写他的脸，再让他开口，这在一个追兵环伺的场面里是奢侈的。bitter（苦）与 wryly（挖苦的）构成一组**反讽**：他在场被抓，却还在开玩笑。What gave me away（我哪里露馅了）是自问句，**他明知答案，他也在等她回答**——这一问把主导权抢回去了一半。gave me away（露馅）这个词组用得极准：**偷窃这件事不是他露馅，是他的存在方式露了馅**。
 
 **读者视角提示：** 本句是他俩第一次**互相打量**。她抓住的是一个反常：一个人被抓，第一反应是嘲笑而非求饶——**这让读者知道他会是全书最难对付的那类人**。
 
@@ -90,7 +90,7 @@ modified: "2026-10-05"
 
 **关键词：** The thief moved with great speed · dragging her behind a shelf · darkness shielded them · from the approaching oil lamps and eyes
 
-**为什么这样写：** **一次行动，三重含义**：move with great speed（飞快移动）、dragging her（拖着她）、shielded（遮挡）——**这三个动词都是保护性的，而当事人完全被动**。用 darkness 作主语来施恩（黑暗保护了他们）是一个漂亮的主语偷换：**他把她拖到身后，但作者把功劳给黑暗**。oil lamps and eyes（油灯与眼睛）——**追捕的两个元素，视觉与光源——在句尾并列出现，作者用它们把这一小片黑写成了唯一的掩体**。
+**为什么这样写：** **一次行动，三重含义**：moved with great speed（飞快移动）、dragging her（拖着她）、shielded（遮挡）——**这三个动词都是保护性的，而当事人完全被动**。用 darkness 作主语来施恩（黑暗保护了他们）是一个漂亮的主语偷换：**他把她拖到身后，但作者把功劳给黑暗**。oil lamps and eyes（油灯与眼睛）——**追捕的两个元素，视觉与光源——在句尾并列出现，作者用它们把这一小片黑写成了唯一的掩体**。
 
 **读者视角提示：** 这是 thief 第一次**动作上对她好**。注意本库全书对"施恩"有一贯的写法：**先让人物做出保护动作，再让人物说明自己并非想保护**（他在威胁她别出声）。**保护与威胁在同一段里先后出现**。
 

@@ -82,7 +82,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 这段羞辱的**句法本身就是暴力**：三个句子都是 Without me 起头（没有我…没有我…你欠我…），作者用重复的 Without me 开头，像连击一样把她按在地上；前半段"没有我你就死"是**剥夺其存在**，后半段 I swear I’ll collect it（我发誓我会来收）是**给这条命开出一张欠条**。collect（收）这个动词极狠——把命当成一笔可以将来兑现的债，等于宣告"你现在还没还完，我随时来讨"。全句是大写 I、还加了 swear 与 at some point 三重加压，**这不是发泄，是放高利**。
 
-**读者视角提示：** 这是全书对"家暴如何用语言建立所有权"最冷的一笔。**注意他用 you owe me（你欠我）**——他把自己放在债权人的位置，把她一生都算成他的投资。这与 ch09 里 Conrad 说的"Your performances"（你的表演）呼应：**他一向认为她整个人都是他的资产。**
+**读者视角提示：** 这是全书对"家暴如何用语言建立所有权"最冷的一笔。**注意他用 you owe me（你欠我）**——他把自己放在债权人的位置，把她一生都算成他的投资。**而"一生"这个尺度是关键：他算的不是今晚，是她剩下的全部时间。**
 
 > **原句 8:** "When her friend Bassel called for her from the other side of the door, Darcia stepped out to end the show, numbing her feelings until there were none."
 

@@ -33,7 +33,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 全章**最短也最锋利**的一句，也是全书写**这个角色的道德转折**的支点。**Still（然而）** 这个词把全章的自我辩护打回原形。关键在 **repented for his prayers（为他的祈祷而悔恨）**——**这个动作的主体不是他，是他的祈祷**。语法上 he 是为他的祈祷感到悔恨，仿佛祈祷本身是一个需要被审判的旧决定。而 Still, the world had changed, and so had he 用 so had he（他也变了）**把他和世界绑在一起**——**作者说这不只是他变坏了，是这世界先坏了。** 整段只有 24 个词，但它把**信仰、堕落、时代**三层都装了进来。
 
-**读者视角提示：** 呼应他上一段说的"as a boy he would have worked in one of the monasteries of Evrethia"（Evrethia 是序章那座被献祭的城市，**他小时候想进的正是那座已经变成地狱的城的修道院**）——**他的悔恨是全书最早埋下的那种"世界变了"的实例。**
+**读者视角提示：** 呼应他上一段说的he would work in one of the monasteries of Evrethia（Evrethia 是序章那座被献祭的城市，**他小时候想进的正是那座已经变成地狱的城的修道院**）——**他的悔恨是全书最早埋下的那种"世界变了"的实例。**
 
 > **原句 3:** "If the Triad existed, no one would have to sell themselves into slavery to survive, no one would have to endure beatings under the hands of cruel men, and he wouldn’t be a puppet for someone else to control."
 
@@ -53,7 +53,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 全章对**阶级**最直白的一次描写，而作者让 **mediated（调停）** 这个动词先出现——**Darcia 在这场对话里不是参与者，是仲裁者**。而全句的因果链是**致命的**：他们不会学（never will）**因为**权力太大（so much power）**导致**特权无可修复（beyond repair）。**这是全书对"特权"最完整的一次因果说明**：不是他们不想改，是他们已经不能改。而 **With the king’s favor（带着国王的恩宠）** 这个 with 让它听起来像**祝福，其实是指赠**。最后 leaving the rest of us to suffer（留下我们受苦）用一个现在分词 leaving（留下）——**他们在场，承受的是"没发生的将来"**。
 
-**读者视角提示：** 本句是全书"世袭特权"这条线的**政治学表述**。**注意这与图书馆那场戏里她对着 Ward 说 woman with knowledge is dangerous、a woman with knowledge has the power to destabilize an entire system 是同一个判断的两种说法**——那边说的是"知识能颠覆制度"，这里说的是"制度本身已经烂到不能修"。**一个想推翻，一个说已经烂了。**
+**读者视角提示：** 本句是全书"世袭特权"这条线的**政治学表述**。**注意这与图书馆那场戏里她对着 Ward 说的 the power to destabilize an entire system（颠覆整个制度的力量）是同一个判断的两种说法**——那边说的是"知识能颠覆制度"，这里说的是"制度本身已经烂到不能修"。**一个想推翻，一个说已经烂了。**
 
 > **原句 5:** "“I’d love to see them beg for their lives at the hands of a woman,” Sadira said. “We’re nothing more than objects for them to use. I’ve heard stories of the hetairas in Bellmare and it makes me sick to my stomach! The world should kneel before all of us. If it weren’t for a woman, those bastards wouldn’t even exist.”"
 
@@ -61,7 +61,7 @@ modified: "2026-10-05"
 
 **关键词：** beg for their lives at the hands of a woman · We’re nothing more than objects for them to use · stories of the hetairas in Bellmare · makes me sick to my stomach · The world should kneel before all of us · If it weren’t for a woman · those bastards wouldn’t even exist
 
-**为什么这样写：** 全章对**女性处境**最激烈的一次陈述，而作者用三段递进：**报复（beg for their lives）→ 诊断（we're objects）→ 历史反转（If it weren't for a woman）**。第三段是全句的重锤：**她说的是"没有女人，男人也不会存在"**——这是一个**存在论命题**，不是抱怨。而 **The world should kneel before all of us（这世界该向我们所有人下跪）** 用 kneel（跪下）——**与 Alasdair 那句 for whom the world would get down on its knees 是同一个动词**。**两段相隔一百行，一个是他想象她值得世界跪，一个是她要世界跪：作者在同章里把这个姿势给了两个立场相反的人。**
+**为什么这样写：** 全章对**女性处境**最激烈的一次陈述，而作者用三段递进：**报复（beg for their lives）→ 诊断（nothing more than objects）→ 历史反转（If it weren't for a woman）**。第三段是全句的重锤：**她说的是"没有女人，男人也不会存在"**——这是一个**存在论命题**，不是抱怨。而 **The world should kneel before all of us（这世界该向我们所有人下跪）** 用 kneel（跪下）——**与 Alasdair 那句 for whom the world would get down on its knees 是同一个动词**。**两段相隔一百行，一个是他想象她值得世界跪，一个是她要世界跪：作者在同章里把这个姿势给了两个立场相反的人。**
 
 **读者视角提示：** 她说的是 I’ve heard stories of the hetairas in Bellmare——**Darcia 听着这句话，心里清楚那是什么地方**。**这是全书两条女主线在第三个人口中第一次交汇**（虽然此时的 Darcia 并不认识那个人）。而它也让 ch11 那场"十一只手叠在一起"有了旁观者的回声。
 
@@ -91,9 +91,9 @@ modified: "2026-10-05"
 
 **关键词：** amazed by the magic that surrounded her · Caeli’s earth and flower powers · the gentle wind that Bassel and Sadira shared · brought Dawnfall to life · Her power, on the other hand · wasn’t something to admire · despite what those who paid to see it believed · drive people mad, deceive them … kill them
 
-**为什么这样写：** 全章对 **Darcia 能力的一次冷静清算**，而作者用 **on the other hand（另一方面）** 把前后两句焊在一起：**前面三句全是赞美（amazed、gentle、brought to life），这一句立刻翻转。** 而 **despite what those who paid to see it believed** 这个插入语是全句的刀锋——**观众买票看的，恰恰是她最不想被看见的那一面**。而最后那句三个动词（drive people mad、deceive them、kill them）用 **and, if necessary（必要时）** 收尾——**"必要时"是全书对杀意最轻描淡写、也最可怕的一次措辞。**
+**为什么这样写：** 全章对 **Darcia 能力的一次冷静清算**，而作者用 **on the other hand（另一方面）** 把前后两句焊在一起：**前面三句全是赞美（amazed、gentle、brought Dawnfall to life），这一句立刻翻转。** 而 **despite what those who paid to see it believed** 这个插入语是全句的刀锋——**观众买票看的，恰恰是她最不想被看见的那一面**。而最后那句三个动词（drive people mad、deceive them、kill them）用 **and, if necessary（必要时）** 收尾——**"必要时"是全书对杀意最轻描淡写、也最可怕的一次措辞。**
 
-**读者视角提示：** 本句与 ch14 那句 She’d learned that pain made everything easier 是同一条线的两端：**那边是能力怎么来的，这边是能力做什么用。** 而她此刻站在一群被她的魔法点亮的人中间——**她在享受别人的能力，同时否定自己的能力，这就是她"beautiful but unhomely"的位置。**
+**读者视角提示：** 本句与 ch14 那句 She’d learned that pain made everything easier 是同一条线的两端：**那边是能力怎么来的，这边是能力做什么用。** 而她此刻站在一群被她的魔法点亮的人中间——**她在享受别人的能力，同时否定自己的能力，这就是她**"美，却不像是给自己看的"**那个位置。**
 
 > **原句 9:** "“No, but you’re looking at me like I’m a monster,” the general assured with a bitter tone of familiarity."
 
@@ -119,7 +119,7 @@ modified: "2026-10-05"
 
 **中文理解：** "他们在屋子的阴影里拐了几次，看着两只蝙蝠从头顶飞过。Darcia 不知道那个追猎者能不能看见 Dawnfall 衰败到何种程度——她的市民究竟靠手里那点东西，怎么日复一日地活下来……她不知道王都里会不会真有人骑马来改善这些侍奉他们的人的生活，但 Darcia 早已知道那个丑陋的真相。"
 
-**关键词：** turned a few times in the shadows · watching two bats fly overhead · could he see the decay · in which Dawnfall had fallen · survived day in and day out · with what little they had · whether anyone in the capital would ever ride to her city · but Darcia already knew the ugly truth
+**关键词：** turned a few times in the shadows · watching two bats fly overhead · could see the decay · in which Dawnfall had fallen · survived day in and day out · with what little they had · anyone in the capital would ever ride to her city · but Darcia already knew the ugly truth
 
 **为什么这样写：** 全章对 **"这座城市死了"** 最沉的一段，而作者用**一个比喻 + 一个反问 + 一个自答**的组合来写。开头是 **the decay in which Dawnfall had fallen（它衰落到的那种腐朽）**——**作者不说"城市衰败"，说"城市落进了某种东西里"，**用 in which（落进……的）把整座城写成"陷在某种状态中"，**这比"衰败"更病态**。而最后 **but Darcia already knew the ugly truth（但 Darcia 早已知道那个丑陋的真相）** 是全章最冷的一句：**她根本不需要回答这个问题，因为她早就知道答案。** 而 **would ever ride（会不会骑马来）** 用 ever（究竟会不会）——**这个副词承认"不会"，同时还在问。**
 

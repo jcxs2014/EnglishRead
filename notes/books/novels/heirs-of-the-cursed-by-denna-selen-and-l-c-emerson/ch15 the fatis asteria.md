@@ -60,7 +60,7 @@ modified: "2026-10-05"
 
 **关键词：** To know about the present · you must learn more about the past
 
-**为什么这样写：** 一句关于方法的箴言，结构是**对仗**（know the present / learn the past），但作者故意把两个动词拆开：现在用 know（知道），过去用 learn（去学）。这个不对等很准确——**现在是可以被告知的，过去必须被主动挖**。全句没有主语、没有条件、没有例外，因此它听起来像定理；正因如此，它也成了 Dyron 用来把 Naithea 拉进同盟的钩子：他不是在回答她的问题，是在**宣布两人从现在起要做同一件事**。
+**为什么这样写：** 一句关于方法的箴言，结构是**对仗**（know about the present / learn more about the past），但作者故意把两个动词拆开：现在用 know（知道），过去用 learn（去学）。这个不对等很准确——**现在是可以被告知的，过去必须被主动挖**。全句没有主语、没有条件、没有例外，因此它听起来像定理；正因如此，它也成了 Dyron 用来把 Naithea 拉进同盟的钩子：他不是在回答她的问题，是在**宣布两人从现在起要做同一件事**。
 
 **读者视角提示：** 本句是 Dyron 与 Naithea 的合作契约。此后他给的每一条设定，都应放进"为了了解现在"这个框架里评估。
 
@@ -70,7 +70,7 @@ modified: "2026-10-05"
 
 **关键词：** Not all unions are bound by the Triad · a bond older than their birth · opposing souls united by a greater destiny
 
-**为什么这样写：** 设定投放的高效段落，三句话交付三样东西：**排除旧规则**（Not all unions are bound by the Triad）、**给出新规则**（a bond older than their birth）、**命名**（Fatis Asteria）。而最狠的是最后那个 paradoxical 定义——"opposing souls united by a greater destiny"（对立灵魂被更大的命运联合）：**既是对手又被绑定**，这个悖论就是全书两位女主的关系，也是 Kirus 命运的写法。作者不给解释，只给名词，让读者自己承受这个定义。
+**为什么这样写：** 设定投放的高效段落，三句话交付三样东西：**排除旧规则**（Not all unions are bound by the Triad）、**给出新规则**（a bond older than their birth）、**命名**（Fatis Asteria）。而最狠的是最后那个**自相矛盾**的定义——"opposing souls united by a greater destiny"（对立灵魂被更大的命运联合）：**既是对手又被绑定**，这个悖论就是全书两位女主的关系，也是 Kirus 命运的写法。作者不给解释，只给名词，让读者自己承受这个定义。
 
 **读者视角提示：** Triad 是三位女神（创造、守护、毁灭），Fatis Asteria 是与之并列的另一套婚约制度。**两套制度并存**是本章的设定要点，后文国王的"第七位继承人"与 Kirus 的婚约都挂在这一条上。
 
