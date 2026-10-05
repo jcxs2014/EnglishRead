@@ -74,7 +74,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-05 18:47 UTC] [MiniMax-Mac] → All
 
-**Heirs of the Cursed（A Curse for Two Souls）全书精读完工 + 五步独立审查 + 按配额裁剪**（Denna Selen & L.C. Emerson）
+**《Heirs of the Cursed（A Curse for Two Souls）》**（Denna Selen & L.C. Emerson）全书精读完工 + 五步独立审查 + 按配额裁剪
 
 **文件**：44 章 md + 总览三篇 = 47 件；`text/` 44 件；epub 1 份。**规模**：**352 引语块 · 1313 词条**（金句 30、情感节点 10 节 22 引语）。
 
