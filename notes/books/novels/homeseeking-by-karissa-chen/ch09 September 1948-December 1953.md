@@ -60,19 +60,19 @@ modified: "2026-10-05"
 
 **关键词：** the only thing that separates us · It’s all luck
 
-**为什么这样写：** 六个「It’s luck」排成一串，把「我们过得比他们好」这件事从道德问题改写成概率问题；这样一来，本章之前所有关于体面、勤劳、小心翼翼的叙述都被抽掉了一层自我安慰。
+**为什么这样写：** 五个「It’s luck」「It’s all luck」排成一串，把「我们过得比他们好」这件事从道德问题改写成概率问题；这样一来，本章之前所有关于体面、勤劳、小心翼翼的叙述都被抽掉了一层自我安慰。
 
-**读者视角提示：** 三个月后房东收回寄宿屋；这句话里的运气，在那一刻全变成要搬走的行李。
+**读者视角提示：** 一场棚屋大火之后，陈家母女再没回来，房东给了姐妹俩一周时间收拾行李；这句话里的运气，在那一刻全变成要搬走的行李。
 
 > **原句 6:** Sulan said nothing. After a moment, she said, “I promised Apa I would look after you. But I can’t look after you a whole lifetime. I know you want to be loyal to Haiwen, but—
 
-**中文理解：** 她对姐姐的爆发无话可说，末了只留下一句：我答应过Apa会照顾你，可我不可能照顾你一辈子；我知道你想对 Haiwen 忠诚，但——句子在这里断了。
+**中文理解：** 姐姐爆发完什么也没说，过了一会儿才开口：我答应过Apa会照顾你，可我不可能照顾你一辈子；我知道你想对 Haiwen 忠诚，但——句子在这里断了。
 
 **关键词：** look after you · a whole lifetime
 
 **为什么这样写：** 「但」后面的东西被作者吞掉了，读者只能自己补：这是在催她嫁人。本书写「转折被省略」用得最狠的一次，也让紧接着那句「如果你嫁给谁我才会好受一点，Apa 也会好受一点」显得更自私——她在替自己的愧疚找出口。
 
-**读者视角提示：** 这是姐妹之间最重要的一次裂口；两年后 Suchi 一个人面对火灾时，才明白姐姐替她挡住过多少次这种时刻。
+**读者视角提示：** 这是姐妹之间最重要的一次裂口；后来 Suchi 一个人面对那场大火时，才明白姐姐替她挡住过多少次这种时刻。
 
 > **原句 7:** However, as I have recently risen within the ranks of Communist leadership, I may be able to help him. That is, of course, if I have an official reason for doing so. Miss Tsan, if you come back to Shanghai and marry me, I will vouch for him as my father-in-law, and make sure he and your mother are protected from being labeled “bad elements.”
 
@@ -149,4 +149,4 @@ modified: "2026-10-05"
 
 ## 一句话总结
 
-1948 年秋天，姐姐把她和琴一起送上开往香港的火车，一路上父亲把话说得像叮嘱、母亲把话说得像诀别；到九龙站父亲派人接站的人根本没来，两个十七岁的女孩在街上走了四十分钟才被人领走，而真相是父亲根本没打算让她们回来——他是要她们躲过这场战争。四年里 Suchi 靠洗碗、烧粥、替人跑药房撑下来，母亲寄来的包裹被中间人私吞，姐姐终于说出「把你和我们分开的那个人只是运气」，就在她打算动用那笔买船票的钱时，一场火烧掉了整片棚屋，陈家母女和那封信一起没了。
+1948 年秋天，姐姐把她和琴一起送上开往香港的火车，一路上父亲把话说得像叮嘱、母亲把话说得像诀别；到九龙站父亲派人接站的人根本没来，十七岁和二十岁的两个女孩在街上走了四十分钟才被人领走，而真相是父亲根本没打算让她们回来——他是要她们躲过这场战争。四年里 Suchi 靠洗碗、烧粥、替人跑药房撑下来，她们寄给母亲的包裹被中间人私吞，姐姐终于说出「把你和我们分开的那个人只是运气」，就在她打算动用那笔买船票的钱时，一场棚屋大火把整片烧光，陈家母女再没回来——那封信却不在火里，被她藏进了琴盒内衬。

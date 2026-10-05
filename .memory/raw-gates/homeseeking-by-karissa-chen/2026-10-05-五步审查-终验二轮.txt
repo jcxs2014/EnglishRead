@@ -1,0 +1,115 @@
+=== 终验第二轮 2026-10-05 17:12 UTC ===
+--- verify_quotes --full ---
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 185/185 引文可核实（100%）；完全干净文件 21/21；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+--- check_chapter_quotes 逐章 20 章 ---
+01 ch01 Overture.md: 8/8 in ch01 text
+02 ch02 January 2008.md: 8/8 in ch02 text
+03 ch03 August-October 1938.md: 8/8 in ch03 text
+04 ch04 January 2008.md: 8/8 in ch04 text
+05 ch05 April-August 1945.md: 8/8 in ch05 text
+06 ch06 February 2008.md: 8/8 in ch06 text
+07 ch07 January-April 1947.md: 8/8 in ch07 text
+08 ch08 April 1993.md: 8/8 in ch08 text
+09 ch09 September 1948-December 1953.md: 8/8 in ch09 text
+10 ch10 December 1981.md: 8/8 in ch10 text
+11 ch11 February-August 1965.md: 8/8 in ch11 text
+12 ch12 April 1975.md: 8/8 in ch12 text
+13 ch13 January-March 1966.md: 8/8 in ch13 text
+14 ch14 March 1966.md: 8/8 in ch14 text
+15 ch15 October 1972.md: 8/8 in ch15 text
+16 ch16 February 1959.md: 8/8 in ch16 text
+17 ch17 May-September 1985.md: 8/8 in ch17 text
+18 ch18 March-April 1947.md: 8/8 in ch18 text
+19 ch19 April-June 2008.md: 8/8 in ch19 text
+20 ch20 Coda.md: 8/8 in ch20 text
+--- check_vocab ---
+--- FAIL (0) ---
+
+--- WARN (0) ---
+--- corruption_scan ---
+=== 编辑损坏扫描（homeseeking-by-karissa-chen）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+--- sweep_full ---
+=== 引语整串 flat 比对（homeseeking-by-karissa-chen）===
+  参照集：text/ 逐章（20 章，可定章） + epub 交叉验证
+  ✅ 本章命中 160 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+--- audit_structure ---
+=== 精读结构扫描（homeseeking-by-karissa-chen）===
+  扫 23 个 md、226 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+--- verify_overview_quotes ---
+=== lane：降级 lane（text/ 兜底，非 epub 全书） ===
+00_情感节点.md: 39/39 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 64/64 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+--- check_overview_full ---
+=== 总览整串核查（homeseeking-by-karissa-chen）===
+  参照集：text/ 逐章（20 章） ｜ 总览文件 3 个
+  A 整串：命中 64 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 19
+  B 章节标签：对 54 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 10 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 25 ｜ 不符 0（**只报不判红**）｜ 跳过 32
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+--- check_overview_labels ---
+----- 口径外（0 条，不计入失败，需人判）-----
+
+----- 待人判清单（0 条）-----
+--- verify_corpus ---
+                        [--quiet-edges]
+                        book_dir
+verify_corpus.py: error: argument --expect-source: expected one argument
+--- 对账 ---
+md 20 == txt 20 ; 总览 3
+--- verify_quotes --full ---
+ch20 Coda.md: 8/8 ✅
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 185/185 引文可核实（100%）；完全干净文件 21/21；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+--- verify_overview_quotes (epub lane) ---
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 39/39 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 64/64 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+--- verify_corpus ---
+  [2] 未给 --anchors，跳过人物锚点双向  WARN
+  [3] 首末句抽印已跳过（--quiet-edges）
+
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===
+--- check_entities / check_short_quotes / check_anchor / check_quote_blocks / check_block_keywords / check_nav_layer / check_struct_indep / check_analysis_indep ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  带前缀的 `> **原句 N:**` 行：20 个文件共 160 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+=== 引语块覆盖度：20 个 md，问题 0 处 ===
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+=== 独立结构扫描：20 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+抽出分析层英文片段 185 条
+✅ 全部片段在全书 text/ 逐字命中
+--- 跨书污染自检 ---
+Offred: 0
+Fred: 0
+Waterford: 0
+Moira: 0
+Natalie: 0
+Serena: 0

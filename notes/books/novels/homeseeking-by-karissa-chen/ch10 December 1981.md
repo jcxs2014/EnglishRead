@@ -42,7 +42,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 本书写他最常用的英语是全书最诚实的一处心理描写——一个在美国生活了三十年的人为自己找到的模板，就是一团含混；这句含糊后来会原封不动地被他说给苏兰听。
 
-**读者视角提示：** 本章他一共说了两次「没问题」，两次都不是没问题。
+**读者视角提示：** 本章他一共说了三次「没问题」，三次都不是没问题。
 
 > **原句 4:** Sulan shook her head. She closed her eyes and pressed a hand to her forehead. A moment later, she opened her eyes. “Wang Haiwen,” she said, switching to Mandarin, and while it was strong and clear, so different from her halting English, it was less intimate than Shanghainese. “I can’t believe it’s you. You’re alive?” He parted his lips to speak—he had so many questions!—but Sulan continued, a tinge of hostility creeping into her voice. “How can you be alive?”
 
@@ -92,7 +92,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 结尾不写他的悔，只写他的动作和一句公文式的自我交代；作者故意让选择以「处理掉一张纸」的形式完成，纸进了马桶，人还站在原地。
 
-**读者视角提示：** 同一晚妻子还在电话里提到，她把琴送去修，抽屉里多了一枚他母亲的戒指；那天他没告诉她的是，那枚戒指本来是给 Suchi 的。
+**读者视角提示：** 同一晚妻子还在电话里提到，她把琴送去修，琴盒内衬的裂缝里卡着一枚带扭结的金戒指，她顺手放进了他的抽屉；那天他没告诉她的是，那枚戒指本来是给 Suchi 的。
 
 ## 本章词汇
 
