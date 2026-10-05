@@ -1,0 +1,81 @@
+=== 语料层复验（P0-0，完工终验复跑；锚点按全书 df=1 重新选取） ===
+=== 语料层验收（P0-0）: homeseeking-by-karissa-chen ===
+text/ 件数: 20
+  [1] 件数 20 == 预期 20  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 20 组 / 互查 380 组  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (110 句)
+      首| Overture
+      末| Soon, he promises her, the plum rains are almost here.
+    ch02 (398 句)
+      首| January 2008
+      末| “What’s past is past.”
+    ch03 (892 句)
+      首| August–October 1938
+      末| Sulae and Suji sat through dinner as still and erect as they could manage, determined not to rev
+    ch04 (588 句)
+      首| January 2008
+      末| His fingers, miraculously, remembered the first familiar notes of “Jasmine.”
+    ch05 (1000 句)
+      首| April–August 1945
+      末| That was when she kissed him.
+    ch06 (536 句)
+      首| February 2008
+      末| Then he let himself out of the house, into the crisp winter night.
+    ch07 (975 句)
+      首| January–April 1947
+      末| Apa was right: she didn’t deserve Wang Haiwen—she didn’t deserve anyone at all.
+    ch08 (777 句)
+      首| April 1993
+      末| A cloud enveloped them, and Shanghai faded into white.
+    ch09 (684 句)
+      首| September 1948–December 1953
+      末| She promised herself she would tell her sister about it eventually, once they were in a better p
+    ch10 (368 句)
+      首| December 1981
+      末| His wife.
+    ch11 (446 句)
+      首| February–August 1965
+      末| A blare of horns introduced the beginning of “Lovesick Dream.” Her eyes snapped open and she beg
+    ch12 (420 句)
+      首| April 1975
+      末| “Let’s eat.”
+    ch13 (508 句)
+      首| January–March 1966
+      末| Instead, she saw, sitting in front of her like a ghostly apparition, her love, her best friend: 
+    ch14 (812 句)
+      首| March 1966
+      末| Then he walked to the ferry terminal and gazed at the outline of the mountains across the harbor
+    ch15 (520 句)
+      首| October 1972
+      末| Her entire world.
+    ch16 (584 句)
+      首| February 1959
+      末| He could not.
+    ch17 (356 句)
+      首| May–September 1985
+      末| Only her future did.
+    ch18 (584 句)
+      首| March–April 1947
+      末| For now, he wouldn’t go.
+    ch19 (646 句)
+      首| April–June 2008
+      末| To tell her mother, It’s your daughter, Suji, returned, and hope beyond hope her mother would re
+    ch20 (190 句)
+      首| Coda
+      末| She can hear the long, plaintive note of a violin, and it is growing louder.
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+EXIT=0
+
+=== ch11 补录（该章原始输出此前未落盘） ===
+--- FAIL (0) ---
+
+--- WARN (0) ---
+ch11 February-August 1965.md: 8/8 in ch11 text
+  参照集：text/ 逐章（20 章，可定章） + epub 交叉验证
+  ✅ 本章命中 160 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+交叉引用核对：0 对，报警 0
