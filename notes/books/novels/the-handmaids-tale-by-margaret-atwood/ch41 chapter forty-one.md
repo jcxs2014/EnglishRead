@@ -10,7 +10,7 @@ modified: "2026-10-05"
 - **场景·时间**：夜复一夜——她主动回到 Nick 的房间（背着所有人）；白天的购物街（Ofglen 的任务恳求）与厨房（Cora 的卫生巾）；第十四部（Salvaging）由本章开始。
 - **一句话概括**：她先为本书道歉（这故事不够体面、充满碎片与pain），再宣告叙述的信仰公式：I tell, therefore you are——我讲，故你在；然后交出最不体面的一章：她一次次主动溜下 Marthas 的楼梯，把每次被接纳当作 benediction；她告诉他真名（像 dunce 一样造神）、闭着眼与 Commander 而睁着眼看 Nick；她拒绝了 Ofglen 的钥匙与逃生通道——我不想走了；Cora 递来月经巾：快了；Ofglen 放弃了她，她感到的是松了口气。
 - **情感弧线位置**：欲望与背叛的最重一章——她把自白写成自辩又当场拆穿自辩（a kind of boasting）；弧线在「我不想逃了」处触底，在 relief 的冷光里定影。
-- **叙事手法**：元叙事开场（六个 I wish 的排比道歉）；beggar's knock 的仪式化；双线对照（Ofglen 的地下网络 vs Nick 的床）。
+- **叙事手法**：元叙事开场（五个 I wish 的排比道歉）；beggar's knock 的仪式化；双线对照（Ofglen 的地下网络 vs Nick 的床）。
 - **线索进展**：① 她把真名告诉了 Nick——全书名字线的最高风险操作；② 她怀疑自己怀孕（wishful thinking 的自供）；③ Nick 的指令：一切照旧，别露出破绽；④ Ofglen 提供窃取情报与出逃通道——她拒绝；⑤ 月经巾与 Cora 的微笑——「快了」的双重读法；⑥ 她对 Ofglen 的 relief——地下网络失去她。
 
 ## 精读
@@ -34,7 +34,7 @@ modified: "2026-10-05"
 - **中文理解**：「每一次我都料想他已经走了；或者更糟——料想他会说我不能进来。……而他这些事一样都没做，我把这个体验为不可思议的仁慈与好运。」
 - **关键词**：expect him to be gone · failure to do any of these things · benevolence and luck
 - **为什么这样写**：期望被系统性地压到地板：她预演了三种被拒的方式，而「什么都没发生」就成了 benevolence（仁慈）。这句话的心理学精度在于：囚徒的幸福感由「没有更坏」定义。她的爱情从第一夜起就运行在灾难预算的结余上。
-- **读者视角提示**：与 ch40 的 beggar's knock 连读：敲门的仪式是每日一次的小型审判。记住 failure 一词——他的「不作为」被她铸成了美德。
+- **读者视角提示**：a beggar's knock 的仪式是每日一次的小型审判。记住 failure 一词——他的「不作为」被她铸成了美德。
 
 > **原句 4:** I ought to have done that with Luke, paid more attention, to the details, the moles and scars, the singular creases; I didn't and he's fading.
 
@@ -68,7 +68,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「不会太久了，Cora 说，把每月一份的卫生巾递给我。」
 - **关键词**：It won't be long now · doling out · sanitary napkins
-- **为什么这样写**：一句话里塞进全书最复杂的双关：Cora 的「快了」是盼她怀孕的祝福，读者知道的「快了」却是倒数（月经没来、私会进行中、房子随时塌）。doling out（按份发放）提醒着这一切仍是配给制——连希望都按月发放。
+- **为什么这样写**：一句话里塞进全书最复杂的双关：Cora 的「快了」是盼她怀孕的祝福，读者知道的「快了」却是倒数（又一个月没怀上、私会进行中、房子随时塌）。doling out（按份发放）提醒着这一切仍是配给制——连希望都按月发放。
 - **读者视角提示**：与 ch13 的月亮凶兆连读：这一月，月亮也许终于不再报饥荒。记住这行——它是终局倒计时的第一声滴答。
 
 ## 本章词汇

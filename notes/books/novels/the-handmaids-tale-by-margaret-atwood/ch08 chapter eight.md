@@ -40,7 +40,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「我们把手放在心口，向这几个陌生女人表示：我们对她们的丧痛感同身受。头里那个在面纱底下冲我们皱眉。另一个扭过头，朝人行道啐了一口。Econowives 不喜欢我们。」
 - **关键词**：hands over our hearts · scowls · spits · The Econowives do not like us
-- **为什么这样写**：哀悼仪式的四拍：致哀的手势、面纱下的皱眉、一次啐唾沫、一句判词。手势是官方规定的共情表演，而 Econowives 的回答是身体性的——皱眉与啐口水。最后的判词只用了 doesn't like us（不喜欢），轻得像小学生的话：真正的阶级怨恨恰恰拒绝宏大修辞。同一个体制下，女人被分成了有资格恨彼此的几类。
+- **为什么这样写**：哀悼仪式的四拍：致哀的手势、面纱下的皱眉、一次啐唾沫、一句判词。手势是官方规定的共情表演，而 Econowives 的回答是身体性的——皱眉与啐口水。最后的判词只用了 do not like us（不喜欢），轻得像小学生的话：真正的阶级怨恨恰恰拒绝宏大修辞。同一个体制下，女人被分成了有资格恨彼此的几类。
 - **读者视角提示**：这是全书「女人对女人」主题的第一记耳光。使女的特权（吃、走动、被护卫）正是 Econowives 的怨恨清单。
 
 > **原句 5:** The tulips along the border are redder than ever, opening, no longer winecups but chalices; thrusting themselves up, to what end? They are, after all, empty.

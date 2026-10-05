@@ -1,0 +1,67 @@
+=== c-step ① audit_structure ===
+=== 精读结构扫描（the-handmaids-tale-by-margaret-atwood）===
+  扫 50 个 md、410 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+=== c-step ② check_struct_indep（第二实现）===
+=== 独立结构扫描：47 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+=== c-step ③ check_quote_blocks ===
+=== 引语块结构对账（the-handmaids-tale-by-margaret-atwood）===
+  带前缀的 `> **原句 N:**` 行：47 个文件共 373 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+=== c-step ④ H1 语义校验 ===
+# 02. Chapter Two
+# 04. Chapter Four
+# 06. Chapter Six
+# 08. Chapter Eight
+# 10. Chapter Ten
+# 03. Chapter Three
+# 12. Chapter Twelve
+# 07. Chapter Seven
+# 16. Chapter Sixteen
+# 11. Chapter Eleven
+# 01. Chapter One
+# 20. Chapter Twenty
+# 15. Chapter Fifteen
+# 19. Chapter Nineteen
+# 14. Chapter Fourteen
+# 18. Chapter Eighteen
+# 23. Chapter Twenty-Three
+# 22. Chapter Twenty-Two
+# 27. Chapter Twenty-Seven
+# 26. Chapter Twenty-Six
+# 31. Chapter Thirty-One
+# 35. Chapter Thirty-Five
+# 39. Chapter Thirty-Nine
+# 43. Chapter Forty-Three
+# 47. Historical Notes
+# 09. Chapter Nine
+# 13. Chapter Thirteen
+# 17. Chapter Seventeen
+# 21. Chapter Twenty-One
+# 25. Chapter Twenty-Five
+# 29. Chapter Twenty-Nine
+# 28. Chapter Twenty-Eight
+# 33. Chapter Thirty-Three
+# 34. Chapter Thirty-Four
+# 30. Chapter Thirty
+# 32. Chapter Thirty-Two
+# 38. Chapter Thirty-Eight
+# 37. Chapter Thirty-Seven
+# 42. Chapter Forty-Two
+# 36. Chapter Thirty-Six
+# 46. Chapter Forty-Six
+# 41. Chapter Forty-One
+# 00 金句精选
+# 40. Chapter Forty
+# 45. Chapter Forty-Five
+# 44. Chapter Forty-Four
+# 05. Chapter Five
+# 24. Chapter Twenty-Four
+# 00 情感节点
+# 00 概述：《The Handmaid's Tale》
+=== c-step ⑤ check_nav_layer ===
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+=== c-step ⑥ check_block_keywords ===
+=== 引语块覆盖度：47 个 md，问题 0 处 ===

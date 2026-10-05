@@ -19,7 +19,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「一颗颗小小的阿兹特克心脏。」
 - **关键词**：Little Aztec hearts
-- **为什么这样写**：Rita 切出的萝卜花被命名成祭品：Aztec（阿兹特克）的心脏是献给神的活祭——厨房的摆盘瞬间接通人祭的谱系。四个词的短句放在段尾像刻印：这个体制的日常美学（装饰、礼仪、供应）底下，全是待宰的心脏。她自己就是其中一颗。
+- **为什么这样写**：Rita 切出的萝卜花被命名成祭品：Aztec（阿兹特克）的心脏是献给神的活祭——厨房的摆盘瞬间接通人祭的谱系。三个词的短句放在段尾像刻印：这个体制的日常美学（装饰、礼仪、供应）底下，全是待宰的心脏。她自己就是其中一颗。
 - **读者视角提示**：与 ch21 的 Smell of matrix、ch08 的黑罐葬礼连读：本书的「日常物件」总是通向献祭。记住这颗心脏——它为整章的火柴与炉子备好了温度。
 
 > **原句 2:** Rita rolls her eyes to the ceiling, as if consulting silently some deity there. Then she sighs, rises heavily, and wipes her hands with ostentation on her apron, to show me how much trouble I am.
@@ -27,7 +27,7 @@ modified: "2026-10-05"
 - **中文理解**：「她翻起眼睛望向天花板，像在无声地咨询那里的哪位神明。然后叹气，沉重地起身，把双手在围裙上夸张地擦——擦给我看：我给她添了多大的麻烦。」
 - **关键词**：consulting silently some deity · with ostentation · how much trouble I am
 - **为什么这样写**：Rita 的抗拒是一场排练过的戏剧：向上天的眼色、咏叹调式的叹气、表演性的擦手——全是为「麻烦」这个结论做的布景。deity（神明）一词的冷幽默在于：这个家里她真正仰望的权力（Serena）恰在草坪上，她咨询的是自己的等级账本。麻烦是她的货币：每一次应允都要当众结清利息。
-- **读者视角提示**：与 ch12 的 grunt、ch32 的火柴让步连读：Rita 的情感从不直付，全部走「麻烦」的汇票。记住这场戏——一根火柴在她的账本上值一整场默剧。
+- **读者视角提示**：与 ch12 的 grunt、本章的火柴让步连读：Rita 的情感从不直付，全部走「麻烦」的汇票。记住这场戏——一根火柴在她的账本上值一整场默剧。
 
 > **原句 3:** I could burn the house down. Such a fine thought, it makes me shiver.
 

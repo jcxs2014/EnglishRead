@@ -26,7 +26,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「我说『所谓的』，是因为我们手头的这个东西已不是它的原貌。……《使女的故事》这个题名是 Wade 教授后加上去的——部分是向伟大的乔叟致敬。」
 - **关键词**：soi-disant · the item · appended · in homage to
-- **为什么这样写**：她的故事连书名都不是自己的：item（物件）这个词贯穿全篇——磁带在学者口中从「遗物」降级为「藏品」。appended（增补）一词顺手拆掉了全书叙事的最后一层权威：正文的一切都是无题散页，标题是别人的致敬。同时那个 tail 双关（下块揭晓）把学术的轻佻预先埋进庄严。
+- **为什么这样写**：她的故事连书名都不是自己的：item（物件）这个词贯穿全篇——磁带在学者口中从「遗物」降级为「藏品」。appended（增补）一词顺手拆掉了全书叙事的最后一层权威：正文的一切都是无题散页，标题是别人的致敬。同时那个 tail 双关把学术的轻佻预先埋进庄严。
 - **读者视角提示**：与 ch23 的 reconstruction、ch07 的 Dear You 连读：她的重建被再重建——如今是男人的手在编目录。记住 soi-disant——它在法语里是「自称的」。
 
 > **原句 3:** In general, each tape begins with two or three songs, as camouflage no doubt: then the music is broken off and the speaking voice takes over.
@@ -61,14 +61,14 @@ modified: "2026-10-05"
 
 - **中文理解**：「然而，无论 Judd 还是 Waterford，娶的都不是一个叫 Pam 或 Serena Joy 的女人。后者看来是我们作者一个多少带着恶意的虚构。」
 - **关键词**：a somewhat malicious invention · by our author
-- **为什么这样写**：考据的手术刀最后落在 Serena Joy 身上：她被宣布为作者的恶意虚构——而正文里她分明引用过她的节目、她的演讲。这句「考据」的真正含义有两层：要么叙述者把两位不同的人格合并进了 Serene Joy 这个符号（她需要一个完美的伪善标本），要么——连她的「恶意虚构」都是一种更深的真实：Serena Joy 是千万个被自己的话吃掉的女人的合成像。学术的最终裁定反而让虚构获得了普遍性。
+- **为什么这样写**：考据的手术刀最后落在 Serena Joy 身上：她被宣布为作者的恶意虚构——而正文里她分明引用过她的节目、她的演讲。这句「考据」的真正含义有两层：要么叙述者把两位不同的人格合并进了 Serena Joy 这个符号（她需要一个完美的伪善标本），要么——连她的「恶意虚构」都是一种更深的真实：Serena Joy 是千万个被自己的话吃掉的女人的合成像。学术的最终裁定反而让虚构获得了普遍性。
 - **读者视角提示**：与 ch03/ch08 的 Serena Joy 档案连读：她的真实性与合法性在此互换——虚构比事实更准。记住 malicious invention——本书对自己叙述的最后一次自嘲。
 
 > **原句 8:** We may call Eurydice forth from the world of the dead, but we cannot make her answer; and when we turn to look at her we glimpse her only for a moment, before she slips from our grasp and flees. As all historians know, the past is a great darkness, and filled with echoes.
 
 - **中文理解**：「我们可以把欧律狄刻从冥界唤出来，却无法让她回答；当我们回头看她，只能瞥见一瞬，她就从指间滑脱，逃走了。正如所有历史学家都知道的：过去是一片大黑暗，充满回声。」
 - **关键词**：Eurydice · glimpse her only for a moment · a great darkness, and filled with echoes
-- **为什么这样写**：终章的降落伞是俄耳甫斯的神话：唤死者易，得回答难——回头一瞥，她就消失。Eurydice 的隐喻把 ch46 的「黑暗或光」接过来：历史学家的回头与俄耳甫斯的回头是同一动作，也犯同一个错。filled with echoes 是全书最后一句真正的落款——它回收 ch30 的「充满回声的黑暗」与 ch07 的 Dear You：她的声音曾是回声，如今仍是；被听见，却不被看全。这就是她要的也是她得到的全部。
+- **为什么这样写**：终章的降落伞是俄耳甫斯的神话：唤死者易，得回答难——回头一瞥，她就消失。Eurydice 的隐喻把 ch46 的「黑暗或光」接过来：历史学家的回头与俄耳甫斯的回头是同一动作，也犯同一个错。filled with echoes 是全书最后一句真正的落款——它回收 ch07 的 Dear You 与全书一切「黑暗与回声」的意象线：她的声音曾是回声，如今仍是；被听见，却不被看全。这就是她要的也是她得到的全部。
 - **读者视角提示**：与 ch07 的「我会假装你听得见，可我知道你听不见」连读：首尾在此闭环——两百年的时差里，她的 Dear You 终于有了地址，却仍收不到回信。记住 this——它同时是她的丧钟与她的永生。
 
 ## 本章词汇

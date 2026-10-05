@@ -1,0 +1,23 @@
+=== d-step ① check_xref_indep（跨章引用第二实现）===
+  ❌ ch10 chapter ten.md:44 → ch09：证据 ['valid objects 的区分术'] 在该章查无
+        句：- **读者视角提示**：与 ch09 的「valid objects 的区分术」连读：她一边被迫学会忽视，一边强迫自己看见——两份工作同时开工。
+=== chNN 引用 619 处：英文证据报警 1 处 ／ 中文式待人判 582 处 ===
+=== d-step ② check_analysis_indep（分析层行内英文第二实现）===
+  ch30 chapter thirty.md:13  Anglo-Saxon tomb carving
+  ch30 chapter thirty.md:14  faces like burning paper
+  ch34 chapter thirty-four.md:14  too dangerous for positions of power
+  ch35 chapter thirty-five.md:43  we were waiting for the incarnation
+  ch38 chapter thirty-eight.md:11  blow up Jezebel's with fifty Commanders inside it
+=== d-step ③ check_xref_zh（中文式跨章引用）===
+=== 跨章引用：章号+短语/POV 命中 248 / 错 0 / POV 错 0 ===
+=== d-step ④ audit_numbers（计数断言）===
+  ⚪ ch24 chapter twenty-four.md:14  「三十三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch28 chapter twenty-eight.md:22  「二十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch34 chapter thirty-four.md:11  「十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch34 chapter thirty-four.md:29  「十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+=== d-step ⑤ check_anchor ===
+  参照集：text/（49 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+=== d-step ⑥ check_crossref ===
+交叉引用核对：0 对，报警 0

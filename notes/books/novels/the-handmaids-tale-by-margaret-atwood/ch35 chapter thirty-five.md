@@ -62,7 +62,7 @@ modified: "2026-10-05"
 - **中文理解**：「时间并没有停住。它漫过我，把我冲走——仿佛我不过是个沙做的女人，被一个不小心的孩子留在离水太近的地方。对她说来，我已被抹除。」
 - **关键词**：washed over me · a woman of sand · obliterated for her
 - **为什么这样写**：照片揭示的真相不是女儿变了，而是自己在女儿的世界里蒸发：沙人的比喻把母亲写成一次退潮后的遗留物。obliterate 一词回收 ch30 的祷词（obliterate me——嬷嬷们求的正是这个），如今以最疼的方式应验。for her（对她说来）的限定最狠：抹除只在女儿那一侧生效——照片里的孩子好好的，空出来的是她。
-- **读者视角提示**：与 ch07 的 made of air、ch18 的 ghosts at daybreak 连读：女儿眼中的她终于有了物证——I am not there。记住 careless child：连冲走她的人都只是「不小心」。
+- **读者视角提示**：与 ch07 的 made of air、ch30 的 ghosts at daybreak 连读：女儿眼中的她终于有了物证——I am not there。记住 careless child：连冲走她的人都只是「不小心」。
 
 > **原句 8:** I have a fork and a spoon, but never a knife. When there's meat they cut it up for me ahead of time, as if I'm lacking manual skills or teeth. I have both, however. That's why I'm not allowed a knife.
 

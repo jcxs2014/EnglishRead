@@ -26,7 +26,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「疲惫就在这里，在我身体里，在我的腿和眼睛里。那才是最后拖垮你的东西。信心不过是一个词，绣出来的。」
 - **关键词**：Fatigue · Faith · embroidered
-- **为什么这样写**：出口清单——纵火（ch32 的火柴在此终于有了用途选项）、绳梯、求饶、自缢、杀妻、上街、投奔 Nick——清点完的结论是疲惫：每项都在，每项等重，无一更好。而清单的结账句砸在 FAITH 靠垫上：那个她曾用目光碾磨过千百遍的词，被判定为 embroidered（绣出来的）——信仰的材质是线，不是血肉。这是 ch10 那行刺绣的最终验尸。
+- **为什么这样写**：出口清单——纵火（ch32 的火柴在此终于有了用途选项）、绳梯、求饶、自缢、杀 Serena、上街、投奔 Nick——清点完的结论是疲惫：每项都在，每项等重，无一更好。而清单的结账句砸在 FAITH 靠垫上：那个她曾用目光碾磨过千百遍的词，被判定为 embroidered（绣出来的）——信仰的材质是线，不是血肉。这是 ch10 那行刺绣的最终验尸。
 - **读者视角提示**：与 ch10 的 FAITH 靠垫连读：绣线对义词的判决在此下达。记住 embroidered——它同时是本书书名的另一重谜底（ tale 也可能是编织的）。
 
 > **原句 3:** Behind me I feel her presence, my ancestress, my double, turning in mid-air under the chandelier, in her costume of stars and feathers, a bird stopped in flight, a woman made into an angel, waiting to be found. By me this time.
@@ -47,7 +47,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「『没事的。是 Mayday。跟他们走。』他用我的真名叫我。这凭什么就该有意义呢？」
 - **关键词**：It’s Mayday · my real name · Why should this mean anything?
-- **为什么这样写**：全书两大暗线在此一秒内合龙：Mayday（ch08 的词源、ch31 的口令）＋真名（ch14 的宝藏、ch41 的交割）——Nick 的耳语要么是组织的口令，要么是诱捕的最后一个表演。而她立刻用 Why should this mean anything? 拆穿自己的渴望：名字可以被学走，暗号可以被拷出来。这句疑问是她对希望的最后一次审计。
+- **为什么这样写**：全书两大暗线在此一秒内合龙：Mayday（ch08 的词源、ch31 的口令）＋真名（ch24 的宝藏、ch41 的交割）——Nick 的耳语要么是组织的口令，要么是诱捕的最后一个表演。而她立刻用 Why should this mean anything? 拆穿自己的渴望：名字可以被学走，暗号可以被拷出来。这句疑问是她对希望的最后一次审计。
 - **读者视角提示**：与 ch41 的 I tell therefore you are 连读：她相信你入存在——如今轮到她被一句耳语决定存在。记住这行——它的真伪全书不再回答。
 
 > **原句 6:** "Trust me," he says; which in itself has never been a talisman, carries no guarantee.
@@ -105,4 +105,4 @@ modified: "2026-10-05"
 
 ## 一句话总结
 
-膝上揉皱的星星陪她清点完每一项等重的出口，绣出来的 Faith 被判了终审；前任的分身在吊灯下催场，黑色面包车从自己的声音里凝固成形——Trust me 不带担保她照样抢抓；台阶上一场对峙、两句 Bitch、一双哭眼，她踏进车厢里那片黑暗：或者，是光。
+膝上揉皱的星星陪她清点完每一项等重的出口，绣出来的 Faith 被判了终审；前任的分身在吊灯下催场，黑色面包车从自己的声音里凝固成形——Trust me 不带担保她照样抢抓；台阶上一场对峙、一句 Bitch、一双哭眼，她踏进车厢里那片黑暗：或者，是光。

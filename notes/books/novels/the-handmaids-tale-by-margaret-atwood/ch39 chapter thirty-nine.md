@@ -40,7 +40,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「就是别报——他是这么说的。」
 - **关键词**：Just don't · is what he said
-- **为什么这样写**：她要报警，Luke 的一句劝阻连理由都不给。is what he said 的转写格式（而不是直接引语）让这句话带着事后追认的距离：她至今记得他的原话与他的表情（手插口袋、无所适从的手势）。这个 don't 后来被时间证明是对的——报警的人先上 Wall。
+- **为什么这样写**：她要报警，Luke 的一句劝阻连理由都不给。is what he said 的转写格式（而不是直接引语）让这句话带着事后追认的距离：她至今记得他的原话与他的表情（手插口袋、无所适从的手势）。这个 don't 后来被时间证明是对的。
 - **读者视角提示**：与 ch28 的 It's the law、ch30 的猫之死连读：Luke 的每次开口都是一次「别」。记住这句——它同时是保护与无力：他能做的只有劝阻。
 
 > **原句 5:** I am a travesty, in bad makeup and someone else's clothes, used glitz.
@@ -61,7 +61,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「脱下制服的他显得更小、更老，像一件正在被晾干的东西。麻烦在于：跟他在一起的我，没法跟平时的我不一样。」
 - **关键词**：like something being dried · can't be … any different
-- **为什么这样写**：制服被脱掉的一刻，权力的体积跟着缩水（smaller, older, being dried——晾干的标本）；可她的身体早已学会了例行公事的死法，连「换一个场合」都唤不醒。这句是对 ch29 那句「他不是怪物」的最终清算：连裸体也救不了他——她发现自己真正被没收的，是在场的能力。
+- **为什么这样写**：制服被脱掉的一刻，权力的体积跟着缩水（smaller, older, being dried——晾干的标本）；可她的身体早已学会了例行公事的死法，连「换一个场合」都唤不醒。这句与 ch24 纪录片里情妇的「He was not a monster」互为照面——而这一次是她自己的版本：连裸体也救不了他——她发现自己真正被没收的，是在场的能力。
 - **读者视角提示**：与 ch26 的 Impersonal、ch16 的仪式连读：他的 futility（徒劳）与她的 inert（惰性）在一张床上相遇。记住 being dried——权力烘干后的重量。
 
 > **原句 8:** Fake it, I scream at myself inside my head. You must remember how. Let's get this over with or you'll be here all night. Bestir yourself. Move your flesh around, breathe audibly. It's the least you can do.

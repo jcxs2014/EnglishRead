@@ -47,7 +47,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「『你觉得上帝会听吗，』她说，『听这些机器的？』」
 - **关键词**：Do you think God listens · to these machines?
-- **为什么这样写**：全书最薄的一句话承载最重的赌注：一个关于机器的问题，实际是入会考核。她的回答 No 只有三个字母，却是她全书第一次对体制出口不逊——随后那句 We have crossed the invisible line together（我们一起越过了那条看不见的线）给这次对视完成公证。在祷词机器的橱窗前否认机器的神学——地点本身就是答案的一部分。
+- **为什么这样写**：全书最薄的一句话承载最重的赌注：一个关于机器的问题，实际是入会考核。她的回答 No 只有两个字母，却是她全书第一次对体制出口不逊——随后那句 We have crossed the invisible line together（我们一起越过了那条看不见的线）给这次对视完成公证。在祷词机器的橱窗前否认机器的神学——地点本身就是答案的一部分。
 - **读者视角提示**：与 ch08 的 Mayday 词源、ch22 的 alliances 公理连读：三根线在此接通。记住这次对视——它是她被组织看见的时刻。
 
 > **原句 6:** There is risk, suddenly, in the air between us, where there was none before. Even this meeting of eyes holds danger.
@@ -59,7 +59,7 @@ modified: "2026-10-05"
 
 > **原句 7:** But I can’t believe it; hope is rising in me, like sap in a tree. Blood in a wound. We have made an opening.
 
-- **中文理解**：「可我没法不信；希望正在我里面升起，像树里的树汁。像伤口里的血。我们打开了一个口子。」
+- **中文理解**：「可我不敢信；希望正在我里面升起，像树里的树汁。像伤口里的血。我们打开了一个口子。」
 - **关键词**：hope is rising · like sap in a tree · We have made an opening
 - **为什么这样写**：理性（I can't believe it——她明知可能是陷阱）与体液（树汁、血）分头投票，体液赢了。两个生理比喻把希望还原成循环系统的活动：不经过大脑。made an opening 一语双关——既是伤口的开口，也是密室的入口：组织的第一课，先让你流血，再让你入伙。
 - **读者视角提示**：与 ch22 的 lava beneath the crust 连读：岩浆与树汁——她的希望一直用地质学与生物学记账。记住 opening 这个词，它是她与地下网络的第一个接口。

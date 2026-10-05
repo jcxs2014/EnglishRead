@@ -7,9 +7,9 @@ modified: "2026-10-05"
 
 ## 本章导航
 
-- **场景·时间**：Birth Day 归来的傍晚——疲惫的房间；插叙：Moira 越狱的完整故事，经 Alma←Dolores←Janine←Aunt Lydia 的口传链传回。第九部（Night）继续。
+- **场景·时间**：Birth Day 归来的傍晚——疲惫的房间；插叙：Moira 越狱的完整故事，经 Alma←Dolores←Janine←Aunt Lydia 的口传链传回。第八部（Birth Day）继续。
 - **一句话概括**：消息在床与床之间流动：Moira 拆开马桶水箱、取出杠杆，削尖的零件顶住 Aunt Elizabeth 的肋骨，扒下她的制服昂首走出大门——她从此成了一个 loose woman；Janine 被嬷嬷征用为耳目，暂时 off the hook；传言让嬷嬷显得可笑（他们也可能被 shanghaied 在厕所里），也让习惯了围墙的她们晕眩——Moira 是敞开侧面的电梯、是日常地壳下的熔岩。
-- **情感弧线位置**：全书最亮的一章——以谣言的接力完成一次集体越狱的想象；恐惧（她会做什么）与眩晕（自由的高海拔）并存；章末落回「她再也没有回来」。
+- **情感弧线位置**：全书最亮的一章——以谣言的接力完成一次集体越狱的想象；恐惧（她会做什么）与眩晕（自由的高海拔）并存；章末停在她「还没有」回来（She hasn't yet）。
 - **叙事手法**：谣言的叙事学（口传链、消息在传递中涨价）；场景重建按证据补齐（她们逐件填细节）；loose woman 的双关（脱缰的女人／放荡的女人）——语言在越狱里获得自由。
 - **线索进展**：① Moira 的机械能力（自己修车）转成武器；② 卫生纸 Overflow——体制连防水都防不住；③ Janine 的转型：受害者→耳目；④ 谣言链即抵抗网络：alliances 永远存在；⑤ Moira 的失踪保持开放（She hasn't yet）。
 
@@ -55,7 +55,7 @@ modified: "2026-10-05"
 - **中文理解**：「Moira 现在有了力量——她被松了绑，不，是她把自己松了绑。她从此成了一个 loose woman。」
 - **关键词**：she’d set herself loose · a loose woman
 - **为什么这样写**：被动与主动的一字之改（been set loose → set herself loose）是全章的引擎：自由的主体性被当场追认。loose woman 的双关更是绝杀——这个词在旧英语里指放荡的女人，Moira 把它劫持回字面：松脱了的女人。体制用污名化的词造牢，她把污名当钥匙使。
-- **读者视角提示**：与 ch05 的 habits 双关、ch09 的 sororize 连读：本书的语言游击战名单又添一条——被夺回的词，是走出的第一步。
+- **读者视角提示**：与 ch05 的 habits 双关、ch02 的 sororize 连读：本书的语言游击战名单又添一条——被夺回的词，是走出的第一步。
 
 > **原句 7:** Moira was like an elevator with open sides. She made us dizzy. Already we were losing the taste for freedom, already we were finding these walls secure.
 

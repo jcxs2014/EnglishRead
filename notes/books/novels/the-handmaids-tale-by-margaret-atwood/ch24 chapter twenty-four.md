@@ -7,7 +7,7 @@ modified: "2026-10-05"
 
 ## 本章导航
 
-- **场景·时间**：仪式之夜后的房间——黑暗中的自我盘点（Take stock）、纪录片记忆、衣橱里的狂笑发作；第十部（Soul Scrolls）由此开始。
+- **场景·时间**：仪式之夜后的房间——黑暗中的自我盘点（Take stock）、纪录片记忆、衣橱里的狂笑发作；第九部（Night）——单章。
 - **一句话概括**：穿着衣服才能想清楚——她需要透视法，否则只有两维（脸贴着墙活着）；「语境即一切」：一部老纪录片里，集中营指挥官的情妇说 He was not a monster——人有多容易给任何人编造一份人性；半夜她身体里什么东西裂了，笑声像熔岩顶出来（mirth rhymes with birth）；衣橱里摸到 Nolite 刻痕——它此刻听着不像祷词，更像一道命令。
 - **情感弧线位置**：全书最黑的深夜——从记忆的恐惧（平庸之恶的个案）到身体的失守（狂笑发作），Nolite 的语义滑移（祷词→命令）是弧线最后一格。
 - **叙事手法**：蒙太奇的质感区分（黑白影像与彩色访谈）；平庸之恶的个案研究（情妇的珍珠与睫毛膏）；身体的地震学词汇（seismic, volcanic）写笑声。
@@ -47,7 +47,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「给任何人编造一份人性，多容易啊。一个多么唾手可得的诱惑。」
 - **关键词**：invent a humanity · for anyone at all · available temptation
-- **为什么这样写**：她对情妇的怜悯冲动做了尸检：喷嚏走调的歌、叫小狗的名字——「人性化」的细节全可以现场编造，而编造的冲动本身是诱惑（available temptation）。这句同时是自供：她给 Commander 编过多少人性？给 Luke 编过几个版本（ch18）？invent 与 reconstruction 是同一条生产线。
+- **为什么这样写**：她对情妇的怜悯冲动做了尸检：走调的口哨、叫小狗的名字——「人性化」的细节全可以现场编造，而编造的冲动本身是诱惑（available temptation）。这句同时是自供：她给 Commander 编过多少人性？给 Luke 编过几个版本（ch18）？invent 与 reconstruction 是同一条生产线。
 - **读者视角提示**：与 ch22 的 Moira 幻想、ch23 的 He was so sad 连读：本书最警惕的从来不是谎言，是善意的虚构。
 
 > **原句 6:** Then I hear something, inside my body. I’ve broken, something has cracked, that must be it.

@@ -7,7 +7,7 @@ modified: "2026-10-05"
 
 ## 本章导航
 
-- **场景·时间**：Ofwarren 宅——Birth Day 正日：楼上是分娩的卧室，楼下是 Wives 的自助餐与酒；插叙 Centre 的电影课（黄色影片与「无女纪录片」）与母亲的三次声音。第九部（Night）的开篇。
+- **场景·时间**：Ofwarren 宅——Birth Day 正日：楼上是分娩的卧室，楼下是 Wives 的自助餐与酒；插叙 Centre 的电影课（黄色影片与「无女纪录片」）与母亲的三次声音。第八部（Birth Day）继续。
 - **一句话概括**：Janine 躺在主人床上分娩，妻们为「她的」胜利提前喝醉；Aunt Lydia 称她们是过渡的一代——她补上没说出口的下半句：因为后来的人不再有别的记忆；Centre 的电影课把强奸片与女权示威剪成同一卷教材（TAKE BACK THE NIGHT）；母亲的声音越过银幕——三十七岁生的你、Aged Primipara 的怒火、男人是女人制造别的女人的策略；最后是女儿的招供：我想让一切回来，但这个想要没有用处。
 - **情感弧线位置**：母女之章——隔着一卷被审查的胶片完成迟到的相认；愤怒、滑稽与悲伤轮转，结尾的「没有用处的想要」是全书最干净的哀悼。
 - **叙事手法**：声音蒙太奇（Aunt Lydia 的两句话／母亲的长篇独白／妻们的欢呼）；审查的物证（蜡笔涂黑的名字、被留下的标语）；母亲的话以无引号的自由转述直接嵌进叙述。
@@ -41,7 +41,7 @@ modified: "2026-10-05"
 - **中文理解**：「看看另一种可能，Aunt Lydia 说。你瞧从前是什么样子？那时候，他们就是这么看待女人的。」
 - **关键词**：Consider the alternatives · what things used to be like · thought of women
 - **为什么这样写**：放映黄色暴力影片后再讲这句，「另一种可能」的论证结构宣告完成：用旧世界的极端影像为新世界的常规暴力背书——「至少现在没那么糟」。consider 一词借自课堂（想想看），把洗脑包装成思辨课。thought of women 的过去时把「旧观念」封存成历史，可眼前这套新观念连名字都不敢用旧词。
-- **读者视角提示**：与 ch20 的 Unwomen 纪录片连读：同一台放映机，放两种恐惧——黄色影片吓你「旧世界多脏」，审查片吓你「女人多不守规矩」。
+- **读者视角提示**：与本章的 Unwomen 纪录片连读：同一台放映机，放两种恐惧——黄色影片吓你「旧世界多脏」，审查片吓你「女人多不守规矩」。
 
 > **原句 5:** They want us to hear the screams and grunts and shrieks of what is supposed to be either extreme pain or extreme pleasure or both at once, but they don’t want us to hear what the Unwomen are saying.
 

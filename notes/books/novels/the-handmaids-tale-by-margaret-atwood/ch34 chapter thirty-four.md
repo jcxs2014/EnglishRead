@@ -61,7 +61,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「厕所隔间的漆面上，有不知是谁划下的：Aunt Lydia sucks。像一面从山顶挥动的反叛之旗。」
 - **关键词**：someone unknown · Aunt Lydia sucks · a flag waved from a hilltop
-- **为什么这样写**：一行厕所涂鸦被授予国旗的礼遇：unknown（无名者）是重点——署名的缺失让刻痕成为集体财产。它与 ch09 的 Nolite、ch25 的水仙同属「留给下一个女人」的暗语链，但位置更低（厕所）、语言更脏——恰恰因此更民主。flag on a hilltop 的升格庄谐并置：反抗在最低处飘扬。
+- **为什么这样写**：一行厕所涂鸦被授予国旗的礼遇：unknown（无名者）是重点——署名的缺失让刻痕成为集体财产。它与 ch09 的 Nolite、ch17 的水仙同属「留给下一个女人」的暗语链，但位置更低（厕所）、语言更脏——恰恰因此更民主。flag on a hilltop 的升格庄谐并置：反抗在最低处飘扬。
 - **读者视角提示**：与 ch33 的 Chemistry Lab、ch30 的 Hell we can make 连读：这条线是「最低处的抵抗」谱系。记住 Aunt Lydia sucks——它是全书最粗俗也最天真的一句诗。
 
 > **原句 8:** Of course you can't. But find out and tell us.

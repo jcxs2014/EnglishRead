@@ -40,15 +40,15 @@ modified: "2026-10-05"
 
 - **中文理解**：「他的坐姿在反对我——还是我想多了？他知道我这斗篷底下穿着什么吗？是弄来的吗？」
 - **关键词**：His posture disapproves · did he procure it?
-- **为什么这样写**：Nick 的 straight（帽正、背直、颈直）第一次被她读成一整篇态度文书：一连四个问句没有答案，后视镜里的沉默比呵斥更响。她开始在意 Nick 的目光——这件事本身就是本段真正的新闻：她的观众席正在换人。
-- **读者视角提示**：与 ch31 的 fix it with him、ch36 后巷的 On the hour 连读：Nick 的知情范围是全书最大的悬念账。记住 straight——它与 ch04 的 jaunty（歪戴帽）之间隔着整整一场堕落史。
+- **为什么这样写**：Nick 的 straight（帽正、背直、颈直）第一次被她读成一整篇态度文书：一连三个问句没有答案，后视镜里的沉默比呵斥更响。她开始在意 Nick 的目光——这件事本身就是本段真正的新闻：她的观众席正在换人。
+- **读者视角提示**：与 ch31 的 fix it with him、本章后巷的 On the hour 连读：Nick 的知情范围是全书最大的悬念账。记住 straight——它与 ch04 的 jaunty（歪戴帽）之间隔着整整一场堕落史。
 
 > **原句 5:** I have never been this close to his shoes before. They feel hard, unwinking, like the shells of beetles: black, polished, inscrutable.
 
 - **中文理解**：「我从来没有离他的鞋这么近过。它们硬硬的，一眨不眨，像甲虫的壳：黑、擦得亮、不可测。」
 - **关键词**：never been this close · like the shells of beetles · inscrutable
 - **为什么这样写**：趴在车地板上的身体与权力的距离被缩到一双鞋：鞋被写成甲虫壳——hard、unwinking（不会眨眼）、inscrutable（测不透）。unwinking 回收全书的眼睛主题：连鞋都在注视。她与 Commander 的全部亲密，最贴身的一刻是额头抵着鞋尖——这段关系的几何学一图流。
-- **读者视角提示**：与 ch15 的 acquisitive thumbs、ch36 的 rental 标签连读：权力把他物化成勋章与嗓音，把她物化成标签与地板。记住这双鞋——它是本书最冷的一帧特写。
+- **读者视角提示**：与 ch15 的 acquisitive thumbs、本章的 rental 标签连读：权力把他物化成勋章与嗓音，把她物化成标签与地板。记住这双鞋——它是本书最冷的一帧特写。
 
 > **原句 6:** This time he won't show mine, the one that's supposed to be mine, as I'm no longer in official existence, for now.
 

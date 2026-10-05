@@ -1,0 +1,5 @@
+第二实现：引语行 373 ｜ 省略号引语（各段逐字）4 ｜ 查无 0
+🔶 ch38 chapter thirty-eight.md:32 原句3 按…切段逐字（省略号引语，人判）
+🔶 ch38 chapter thirty-eight.md:67 原句8 按…切段逐字（省略号引语，人判）
+🔶 ch44 chapter forty-four.md:39 原句4 按…切段逐字（省略号引语，人判）
+🔶 ch47 historical notes.md:39 原句4 按…切段逐字（省略号引语，人判）

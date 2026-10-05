@@ -24,7 +24,7 @@ modified: "2026-10-05"
 
 > **原句 2:** I’m doing my best, she said. I’m trying to give you the best chance you can have.
 
-- **中文理解**：「我尽力了，她说。我在试着给你们能得到的最机会中的机会。」
+- **中文理解**：「我尽力了，她说。我在试着给你们能有的最好机会。」
 - **关键词**：doing my best · the best chance you can have
 - **为什么这样写**：Aunt Lydia 的眼泪之后立刻接上这句自辩——表演与说教同一声带。the best chance you can have 的比较级藏在最高级里：「你能有的最好机会」预设了机会的总量是被定的，你能做的只有在被配给的份额里挑好的。把压迫写成馈赠，把叹息写成账目。
 - **读者视角提示**：与 ch05 的 freedom from / Don't underrate it 同属一套话术。Aunt Lydia 的清单又添一条：她永远在「给」，你永远在欠。
@@ -33,7 +33,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「我们那时候就是这么活的？可我们照常生活。人人都这样，大部分时候。无论正在发生什么，都算照常。如今连这个，也成了照常。」
 - **关键词**：Is that how we lived then? · as usual · Even this is as usual, now
-- **为什么这样写**：四个短句做了一次从疑问到认罪的自问自答。as usual 被重复到失去意义——正是这个磨损过程本身才是主题：暴行只要持续得够久，就自动取得「日常」的国籍。Even this is as usual, now 的 this 指着当下——她在写作的这一刻，也与照常共谋。自省写到自己身上，是它还有力的证明。
+- **为什么这样写**：五个短句做了一次从疑问到认罪的自问自答。as usual 被重复到失去意义——正是这个磨损过程本身才是主题：暴行只要持续得够久，就自动取得「日常」的国籍。Even this is as usual, now 的 this 指着当下——她在写作的这一刻，也与照常共谋。自省写到自己身上，是它还有力的证明。
 - **读者视角提示**：这句是全书的政治伦理核心。它与 ch06 的 It will become ordinary 是同一枚硬币的两面。
 
 > **原句 4:** We lived, as usual, by ignoring. Ignoring isn’t the same as ignorance, you have to work at it.

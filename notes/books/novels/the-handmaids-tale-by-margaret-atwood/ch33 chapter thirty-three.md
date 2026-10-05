@@ -19,7 +19,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「悦目——对眼睛，对众目，对 the Eyes——因为这场表演就是演给他们看的。」
 - **关键词**：the eye, the eyes, the Eyes · who this show is for
-- **为什么这样写**：三个递进的「眼睛」完成一次语义三级跳：生理的眼（eye）、众人的目光（eyes）、 secret police（the Eyes）——同形词在第三级变身监视机器。she 的队列表演由此有了确定的观众席：不是美，是供审阅。整个政权的观视美学一句话说完。
+- **为什么这样写**：三个递进的「眼睛」完成一次语义三级跳：生理的眼（eye）、众人的目光（eyes）、 secret police（the Eyes）——同形词在第三级变身监视机器。她们的队列表演由此有了确定的观众席：不是美，是供审阅。整个政权的观视美学一句话说完。
 - **读者视角提示**：与 ch04 的互为眼线、ch06 的白翼连读：the Eyes 的大写在本章从专名变成了形容词性的存在——一切景致都按「给谁看」定价。
 
 > **原句 2:** I long for one, just one, rubbishy and insolently random and hard to get rid of and perennially yellow as the sun.

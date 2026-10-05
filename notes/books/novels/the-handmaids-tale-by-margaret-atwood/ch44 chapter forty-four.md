@@ -11,7 +11,7 @@ modified: "2026-10-05"
 - **一句话概括**：一切照常到诡异：奶酪三明治与芹菜条（A schoolchild's lunch）；街角来的是一只像风筝的红白影子——不是 Ofglen，身体缩小了一圈；「I am Ofglen」——Word perfect，而旧的 Ofglen 在名字的海里失踪了；Wall 前她用一句双关试探新搭档，换来 Echoes 的警告；她一路自我审判（Ofglen 会招、他们知道我的孩子在哪、Don't make me choose）——散场时新 Ofglen 贴着面纱急促耳语：她吊死了自己，看见面包车来了，那样更好。
 - **情感弧线位置**：从 normal 的假性平静到 terror 的疾风骤雨——同名替换、双关试探、耳语收尾；她的身体重新进入 jeopardy。
 - **叙事手法**：名字的海（sea of names）——代号制的失踪机制；「Let that be a reminder」的双义试探（读法由站队决定）；章末耳语的急促排版（两次停顿的省略号）。
-- **线索进展**：① Ofglen 的结局：看见黑色面包车、在 Salvaging 后自缢——ch43 私刑没杀她，体制随后上门；② 新 Ofglen 不是同志，但知道线——她的 Echoes 警告是体制内的放生；③ May Day 一词从她嘴里说漏——自我暴露的危险时刻；④ 她的自估：第一次哀嚎就会变成 jelly——Moira was right about me；⑤ 名字制下的失踪：Ofglen, wherever she is, is no longer Ofglen。
+- **线索进展**：① Ofglen 的结局：看见黑色面包车、在 Salvaging 后自缢——ch43 私刑没杀她，体制随后上门；② 新 Ofglen 不是同志，但知道线——她的 Echoes 警告是体制内的放生；③ May Day 一词被她用作试探——自我暴露的危险时刻；④ 她的自估：第一次哀嚎就会变成 jelly——Moira was right about me；⑤ 名字制下的失踪：Ofglen, wherever she is, is no longer Ofglen。
 
 ## 精读
 
@@ -20,7 +20,7 @@ modified: "2026-10-05"
 - **中文理解**：「午饭是干酪三明治，黑面包的，一杯牛奶，几条芹菜，罐头梨。小学生的午饭。我全吃光了，不快，但贪恋着味道，滋味丰腴地铺在舌头上。」
 - **关键词**：A schoolchild's lunch · revelling in the taste · flavours lush
 - **为什么这样写**：Salvaging 后的一餐被她吃成感恩仪式：上一章的嗜血与焦油味刚洗掉，schoolchild's lunch 的 diminutive（小份）反而成了稳稳的幸福。revelling（狂欢般享受）的荒诞剂量——她在为芹菜条庆祝，因为昨天的参照物是绞索。恐惧对味觉的汇率，一句话写完。
-- **读者视角提示**：与 ch42 的 Things are back to normal（本章开头）连读：normal 的定义被降格到幼儿园餐盘的高度。记住 lush——她的味觉从未对生活关闭。
+- **读者视角提示**：本章开篇的 THINGS ARE BACK to normal 对着上一章结尾的 hunger 与 relish：normal 的定义被降格到幼儿园餐盘的高度。记住 lush——她的味觉从未对生活关闭。
 
 > **原句 2:** "I am Ofglen," the woman says. Word perfect. And of course she is, the new one, and Ofglen, wherever she is, is no longer Ofglen.
 
@@ -40,7 +40,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「『是吗？』她说，轻描淡写，漫不经心，又暗藏威胁。『这个词我可不记得。你居然记得，叫我意外。你该努力……把脑子里那些……回声清一清。』」
 - **关键词**：light, indifferent, menacing · To clear your mind of such … Echoes
-- **为什么这样写**：May Day 一词说漏的瞬间，警告以补语的形式送达：Echoes（回声）——旧世界的声音在新世界的脑子里还留着混响。三个形容词（light, indifferent, menacing）同时上膛：她分不清这是同志的暗语还是耳目的通牒。两次停顿的破折号式排版把寒意拉成慢镜头。
+- **为什么这样写**：May Day 一词试探的瞬间，警告以补语的形式送达：Echoes（回声）——旧世界的声音在新世界的脑子里还留着混响。三个形容词（light, indifferent, menacing）同时上膛：她分不清这是同志的暗语还是耳目的通牒。两次停顿的破折号式排版把寒意拉成慢镜头。
 - **读者视角提示**：与 ch30 的语法审问、ch34 的 Start them soon 连读：词汇清理的执法现场。记住 Echoes——它是本书对记忆走私最 elegant 的罪名。
 
 > **原句 5:** They know where my child is. What if they bring her, threaten something to her, in front of me? Or do it. I can't bear to think what they might do. Or Luke, what if they have Luke. Or my mother or Moira or almost anyone. Dear God, don't make me choose.
@@ -54,7 +54,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「是真的：第一声惨叫——哪怕只是一声呜咽——我就会化成一摊果冻，招认任何罪名，最后挂上 Wall 的钩子收场。」
 - **关键词**：the first scream, whimper even · turn to jelly · hanging from a hook
-- **为什么这样写**：她把自己在审讯室里的崩溃预先拍成慢镜头：scream 与 whimper 之间只隔一个 even（连哭腔都不用），jelly 的比喻把人格的固态全部取消。这句的自供与 ch41 的 don't make me choose 连成一份完整的招供书——她比谁都清楚自己的保质期。
+- **为什么这样写**：她把自己在审讯室里的崩溃预先拍成慢镜头：scream 与 whimper 之间只隔一个 even（连哭腔都不用），jelly 的比喻把人格的固态全部取消。这句的自供与本章原句 5 的 don't make me choose 连成一份完整的招供书——她比谁都清楚自己的保质期。
 - **读者视角提示**：与 ch20 的过渡一代、ch24 的平庸之恶连读：她自己成了那枚疫苗的接种样本。记住 jelly——它是本书对「人格溶解」最快的药剂。
 
 > **原句 7:** "Under His Eye," says the new, treacherous Ofglen.

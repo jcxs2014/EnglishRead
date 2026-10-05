@@ -33,7 +33,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「他把那支烟最后吸了一口，扔到车道上，一脚踩灭。他吹起口哨。然后，他挤了挤眼。」
 - **关键词**：final puff · begins to whistle · Then he winks
-- **为什么这样写**：四个短句、四个动作，节奏像一套连环快照：抽完、扔掉、踩灭、吹口哨——然后才是那个 wink。前面三个动作都在销毁证据（烟是黑市的通货，ch03 刚讲过），口哨制造无辜的背景音，最后那个眨眼用一秒钟完成全部冒险。动词全是现在时，像慢镜头，冒险被拉成整整一段。
+- **为什么这样写**：三个短句、五个动作，节奏像一套连环快照：抽完、扔掉、踩灭、吹口哨——然后才是那个 wink。前面三个动作都在销毁证据（烟是黑市的通货，ch03 刚讲过），口哨制造无辜的背景音，最后那个眨眼用一秒钟完成全部冒险。动词全是现在时，像慢镜头，冒险被拉成整整一段。
 - **读者视角提示**：这是 Nick 与她的第一次「对话」。在一个人人只敢用眼睛的体制里，眨眼就是情书也是地雷——记住这个动作。
 
 > **原句 4:** Not all of you will make it through. Some of you will fall on dry ground or thorns. Some of you are shallow-rooted.
@@ -47,7 +47,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「愿果实蒙福——她对我说。这是官定的问候，在我们中间。」
 - **关键词**：Blessed be the fruit · the accepted greeting
-- **为什么这样写**：问候语只有一句：把对方祝成果园。accepted（公认）一词点破这类寒暄的性质——不是心意，是通行证。本章它是第一次以引号形式出场：官方语言自带引号，像剧场的台词本；回答 Must the Lord open（愿主开启）同样只谈开与结果，不谈人。两个人互道果实的问候，各自封在白翼里。
+- **为什么这样写**：问候语只有一句：把对方祝成果园。accepted（公认）一词点破这类寒暄的性质——不是心意，是通行证。本章它是第一次以引号形式出场：官方语言自带引号，像剧场的台词本；回答 May the Lord open（愿主开启）同样只谈开与结果，不谈人。两个人互道果实的问候，各自封在白翼里。
 - **读者视角提示**：把这对口令背下来——Blessed be the fruit / May the Lord open。它们此后每章都会出现，谁换说法、谁加了词，都值得留意。
 
 > **原句 6:** The truth is that she is my spy, as I am hers. If either of us slips through the net because of something that happens on one of our daily walks, the other will be accountable.

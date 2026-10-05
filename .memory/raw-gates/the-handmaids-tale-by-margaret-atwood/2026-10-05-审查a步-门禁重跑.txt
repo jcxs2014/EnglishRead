@@ -1,0 +1,53 @@
+=== a-step ① verify_quotes (epub) ===
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 407/407 引文可核实（100%）；完全干净文件 49/49；正文章节 0 提取 0；总览 0 提取转交 0 ===
+=== a-step ①b verify_quotes --full ===
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 407/407 引文可核实（100%）；完全干净文件 49/49；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+=== a-step ② check_vocab ===
+词条行合计: 830
+--- FAIL (0) ---
+--- WARN (64) ---
+--- WARN (64) ---
+  ch01 chapter one.md [基础] 基础档疑含超纲词「gymnasium」
+  ch02 chapter two.md [基础] 基础档疑含超纲词「chandelier」
+  ch03 chapter three.md [基础] 基础档疑含超纲词「business transaction」
+  ch03 chapter three.md [基础] 基础档疑含超纲词「challenge」
+  ch04 chapter four.md [基础] 基础档疑含超纲词「authority」
+  ch05 chapter five.md [进阶] 例句不含词头「pregnant」
+  ch05 chapter five.md [进阶] 例句不含词头「security」
+  ch05 chapter five.md [基础] 基础档疑含超纲词「interpreter」
+  ch05 chapter five.md [基础] 例句不含词头「interpreter」
+  ch05 chapter five.md [基础] 基础档疑含超纲词「breathing drill」
+  ch06 chapter six.md [基础] 基础档疑含超纲词「ancestors」
+  ch06 chapter six.md [基础] 例句不含词头「ancestors」
+  ch07 chapter seven.md [基础] 基础档疑含超纲词「flickering」
+  ch08 chapter eight.md [进阶] 例句不含词头「mourning」
+  ch08 chapter eight.md [基础] 基础档疑含超纲词「afterthought」
+  ch09 chapter nine.md [高级] 例句不含词头「irreverent」
+  ch09 chapter nine.md [高级] 例句不含词头「resourceful」
+  ch09 chapter nine.md [基础] 基础档疑含超纲词「grapevine」
+  ch10 chapter ten.md [基础] 基础档疑含超纲词「improvement」
+=== a-step ③ check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+=== a-step ④ corruption_scan ===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+=== a-step ⑤ sweep_full ===
+  ✅ 本章命中 369 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 3 ｜ ❌ 全书查无 0
+  🔶 ch38 chapter thirty-eight.md（ch38）跨标签拼接，各段逐字都在：I can't remember exactly, because I had no w
+  🔶 ch38 chapter thirty-eight.md（ch38）跨标签拼接，各段逐字都在：I'd like to tell a story about how Moira esc
+  🔶 ch47 historical notes.md（ch47）跨标签拼接，各段逐字都在：If I may be permitted an editorial aside, al
+=== a-step ⑥ check_short_quotes ===
+  verify_quotes 跳过（<20 flat 字符）的引语：1 条 —— 这些主门禁**根本没查**
+  ✅ 命中 1 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+=== a-step ⑦ check_chapter_quotes (book mode) ===
+Usage: scripts/check_chapter_quotes.py <NN> "<md_file>" [--out-dir <dir>] [--book-dir <book_dir>]
+=== a-step ⑧ block coverage ===
+✅ 块覆盖对账：47 个文件，每块都进了 verify_quotes 校验
+=== a-step ⑨ nav layer ===
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
