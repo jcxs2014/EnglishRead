@@ -63,7 +63,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 顺序反了——先给症状（脉搏在喉咙里跳），再给结论（Elsa 相信了她），这与心理学小说的惯常次序相反，读者的理解被迫慢半拍；最后一句从 Believed 单独断成 Believes her even now，把"当年信过"推进成"至今还信着"。
 
-**读者视角提示：** Joan 全程没有反驳 Frannie 关于 Elsa 现状的说法，也没有接这个话头——她那套"活人会拖垮你"的账，是照着当年那个会变老的人推演出来的。
+**读者视角提示：** Joan 立刻就反驳了 Frannie 关于 Elsa 现状的说法——她那套"活人会拖垮你"的账，是照着当年那个会变老的人推演出来的。
 
 > **原句 6:** "Gretchen grabs Frannie’s wrist, her fingers curling around the bracelet Elsa and Bridgette gave her. The beads dig into Frannie’s skin, a biting, present, living reminder."
 

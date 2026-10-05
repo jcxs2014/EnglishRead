@@ -7,7 +7,7 @@ modified: "2026-10-05"
 
 ## 本章导航
 
-- **一句话概括**：前半是 Charlie 推开自己家门的那一分半钟——她先以为屋里空无一人，再在斜照进来的光里看见三个鬼的轮廓扑上来抱她，两个搬着塑料箱和圣诞灯闯进来的人一句 "family reunion" 就把重逢打断；后半视角交回 Frannie，她正在台上朗读这本书的尾声，台下坐着三百个人。标题里的 "Thirty Years Later" 与后文那句 "thirty years ago" 一表一里。
+- **一句话概括**：前半是 Charlie 推开自己家门的那一刻——她先以为屋里空无一人，再在斜照进来的光里看见三个鬼的轮廓扑上来抱她，两个搬着塑料箱和圣诞灯闯进来的人一句 "family reunion" 就把重逢打断；后半视角交回 Frannie，她正在台上朗读这本书的尾声，台下坐着三百个人。标题里的 "Thirty Years Later" 与后文那句 "thirty years ago" 一表一里。
 - **情感弧线位置**：收束章。前半从屏息、僵住、绝望一路冲到狂喜，中段被"只能碰到一个人"压一道；后半从台上的窘迫一路松到雪夜路口的一次微笑。全书情绪的终点不是爆发，是一个人终于能站在台上把话说出口。
 - **Tropes 兑现/反转**：重逢戏反套路的地方在于拥抱只完成了一半——Lucy 和 Marvin 从身上穿过去，只有 Betty 能被真正触到，而且摸上去还像 gossamer；作者当众朗读自己的书也是反套路：她给这本书找的理由不是"这是真的"，而是"这是值得的"。
 - **人物弧线**：Charlie 在本章学会的是先把能做的做完——她把脸上的吻按住，转身去应付两个孩子，把 Betty 留到"以后"；Frannie 在本章学会的是当众复述自己坚持了三十年的商业答案，并把原定的书名 "In the Meanwhile" 念了出来。⚠️ 本章出现的三个鬼叫 Lucy、Marvin、Betty，原文只给名字与互动，**未交代他们与前文那三个鬼的关系**，此处不作任何断言；本章也未交代 Henry 与 Frannie 的最终结局（只在文中提到他在米兰做巡回签售）。
@@ -83,7 +83,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 破折号里那句"因为这是生意"是自我拆台——她用最商业的语气解释自己最不商业的坚持；而"被改了书名"这一笔，把要不要给读者童话这样一个体裁问题，直接降级成了市场问题。
 
-**读者视角提示：** 原定的书名在本章才第一次被念出来——"In the Meanwhile"，恰好也是前半章那句"我们先用灯把 meanwhile 撑起来"里的那个词。
+**读者视角提示：** 书名 In the Meanwhile 恰好也是前半章那句"我们先用灯把 meanwhile 撑起来"里的那个词。
 
 > **原句 8:** "“I would. Look, real life is seldom so fantastic. Real people don’t go around meeting ghosts, and falling in love with them, and saving them. But isn’t it wonderful to live in a world where they do, just for a few pages?”"
 

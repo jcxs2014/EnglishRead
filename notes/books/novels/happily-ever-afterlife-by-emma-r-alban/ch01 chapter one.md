@@ -57,7 +57,7 @@ modified: "2026-10-05"
 
 > **原句 5:** "Her life and literary career have dead-ended at twenty-seven, on the ninth floor of the Dakota Building, and she wants to scream. But no one would hear her anyway."
 
-**中文理解：** 全章唯一的年龄数字落在这里。二十七岁、达科尼亚第九层，两处坐标一起钉死；紧跟的转折句直接掐灭倾诉的可能。
+**中文理解：** 这一句把年龄和楼层一起钉死：二十七岁、达科尼亚第九层，两处坐标同时落下；紧跟的转折句直接掐灭倾诉的可能。
 
 **关键词：** dead-ended / anyway
 
