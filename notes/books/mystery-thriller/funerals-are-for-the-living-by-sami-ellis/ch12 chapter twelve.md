@@ -47,7 +47,7 @@ modified: "2026-10-04"
 
 - **中文理解**：「她姐姐的遗体被挖出来了。」
 - **关键词**：Her sister’s body · is dug up
-- **为什么这样写**：全章最后一句，也是全书最冷的三个词之一。被动语态 is dug up（被挖出来）刻意隐去施动者——是被谁挖的？作者不回答，把这个恐怖留给读者自己填。The sentence没有主语标签式的「谁」，只有一个被动的「被」，让 Junie（乃至读者）都成了这个事实的承受者而非执行者。这与 ch02 那句「Her sister’s body is dug up.」遥相呼应——那是预告，这是确认。
+- **为什么这样写**：全章最后一句，也是全书最冷的三个词之一。被动语态 is dug up（被挖出来）刻意隐去施动者——是被谁挖的？作者不回答，把这个恐怖留给读者自己填。The sentence没有主语标签式的「谁」，只有一个被动的「被」，让 Junie（乃至读者）都成了这个事实的承受者而非执行者。这句本身就出自本章（ch12）；而 ch34 里那句「She only lives long enough to hear the shot.」是同一结局的确认。
 - **读者视角提示**：留意这句与第一章的对照。ch02 里 Junie 看到坟被填满绿草、以为姐姐「回来了」，此处真相是墓碑下已被挖空。所有的「返青」只是掩盖——草越长，坑越深。作者用最短的句子收束全章，把「复活」的假象彻底掀开，也把 Junie 的目标从「守坟」推向「寻尸」。
 
 > **原句 6:** The cluster of girls watch with wide eyes, but they inch closer together, their shoulders bunching. Their hands grip for each other’s silently. One tilts her head with dead eyes. Another takes a step forward.

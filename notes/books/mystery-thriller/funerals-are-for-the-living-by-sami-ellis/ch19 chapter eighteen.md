@@ -34,7 +34,7 @@ modified: "2026-10-04"
 - **中文理解**：「『把行程过一遍，Erica，』他头也不抬地命令道。」
 - **关键词**：Go over the itinerary · he orders · without looking at her
 - **为什么这样写**：全章最阴冷的一处细节，因为它写的是**上下级关系**。一个活了两百年的「主」，把下属当秘书使唤；而 without looking at her（看都不看她）说明在他眼里，Junie 连被看一眼都不值得——她已是流程中的一项。itinerary（行程单）这个来自现代旅行词汇放在邪教仪式里，把血腥和日常焊在一起。
-- **读者视角提示**：留意这句话与 ch13 那句「we aren't even finished with the tour」（参观还没结束）遥相呼应——Sister Erica 曾把 Junie 当观光客，如今则把她当行程单上的一站。同一个家族、同一套「安排人」的语言，而 Junie 已从「被带着看」变成「被安排处理」。
+- **读者视角提示**：留意这句话与 ch14 那句「we aren't even finished with the tour」（参观还没结束）遥相呼应——Sister Erica 曾把 Junie 当观光客，如今则把她当行程单上的一站。同一个家族、同一套「安排人」的语言，而 Junie 已从「被带着看」变成「被安排处理」。
 
 > **原句 4:** “But—what exactly do you think you have to negotiate?”
 

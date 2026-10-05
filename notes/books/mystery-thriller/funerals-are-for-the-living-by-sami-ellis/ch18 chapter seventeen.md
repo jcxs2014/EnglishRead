@@ -41,7 +41,7 @@ modified: "2026-10-04"
 - **中文理解**：「『这是正选，』Sister Erica 说。『备选也是『黑人』。』」
 - **关键词**：This is the right one · The spare was a ‘negro,’ too
 - **为什么这样写**：全书最冷血的一句，用最平淡的口吻说出最残忍的事实。right one（正选）与 the spare（备选）把 Junie 与 Jay 变成了两件**样品**，而两个样品都是「negro」——这个词用引号，是那个老人的原话，被原样转述。作者让 Junie 听到这一句时不做任何反应，只是拼尽全力记住：**她是正选，Jay 是备选**。这句也回过头解释了 ch16 那声「Five」的计量单位。
-- **读者视角提示**：留意作者在此把「spare」用得如此平淡。备选（spare）本是备胎的委婉说法，而这里的意思是：JAY 已经作为「备选」被处理掉了，Junie 是被挑剩下的那一个。这句话把 ch16 那句「另一个 Daniels 女孩撑不了多久」彻底坐实，也把 Junie 十六章来的愧疚推到最高点——她之所以活着，是因为姐姐替她占了那个位置。
+- **读者视角提示**：留意作者在此把「spare」用得如此平淡。备选（spare）本是备胎的委婉说法，而这里的意思是：JAY 已经作为「备选」被处理掉了，Junie 是被挑剩下的那一个。这句话把 ch17 那句「另一个 Daniels 女孩撑不了多久」彻底坐实，也把 Junie 十六章来的愧疚推到最高点——她之所以活着，是因为姐姐替她占了那个位置。
 
 > **原句 5:** “Allow me to consume you on the anniversary of your ancestor’s death, and you shall be a part of history.”
 

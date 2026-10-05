@@ -31,7 +31,6 @@ modified: "2026-10-04"
 
 > **原句 3:** “He shines brightly to you because you find him useful, but I love him. I wanted to stop you from using him.”
 
-- **中文理解**：「『他对你 shiningbright，是因为你用得上他；但我爱他。我想阻止你利用他。』」
 - **中文理解**：「『他对你发光，是因为你用得上他；可我爱他。我想阻止你利用他。』」
 - **关键词**：He shines brightly to you · because you find him useful · but I love him · I wanted to stop you from using him
 - **为什么这样写**：全书对「主人的爱」最锋利的一次定义，作者让 Eliza 用一个**对照**（对你发光的理由 vs 我爱他的理由）拆穿这套体系的核心谎言：William Graham 爱 Benjamin，不是爱他这个人，而是**爱他的用处**。而 Eliza 的动机在此被彻底洗净——她杀人不为义愤（作者让她毒的是饭、不是人），为的是**拦住这件事继续发生**。

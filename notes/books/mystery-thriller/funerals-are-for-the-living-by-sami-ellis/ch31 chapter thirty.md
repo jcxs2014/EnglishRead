@@ -27,7 +27,7 @@ modified: "2026-10-04"
 - **中文理解**：「血从那个少女身上喷涌而出，像心跳一样；她整个身体在血泊里抽搐、咕噜作响。」
 - **关键词**：Blood spurts · like a heartbeat · twitching and gurgling · on the liquid
 - **为什么这样写**：全章的开场一景，作者用**心脏的节律**写临死。spurts（喷出）像心跳一样，而 twitching and gurgling（抽搐与咕噜声）把「正在死去」写成两种声音——身体的抖动与液体穿过喉咙的气泡声。作者不给一个「她死了」的句子，只给这些生理声音；读者由此听见整个大厅正在一个个熄火。
-- **读者视角提示**：留意 Junie 的反应：她尖叫到**喉咙发紧**（her throat catches），而那一声紧接的就是另一个人倒下。作者让她的抗议与别人的死亡交替出现——**在这栋房子里，叫喊与倒下是同一个节奏的两拍**。记住这组对照：它是 ch30 那句「she's been seen so much death that the nausea only lasts for a few seconds」的铺垫。
+- **读者视角提示**：留意 Junie 的反应：她尖叫到**喉咙发紧**（her throat catches），而那一声紧接的就是另一个人倒下。作者让她的抗议与别人的死亡交替出现——**在这栋房子里，叫喊与倒下是同一个节奏的两拍**。记住这组对照：它是本章后文那句「she's been seen so much death that the nausea only lasts for a few seconds」的铺垫。
 
 > **原句 3:** Never stop fighting, never stop fighting, never stop fighting.
 
@@ -55,7 +55,7 @@ modified: "2026-10-04"
 - **中文理解**：「『你为什么会在这里？』琼妮问。」
 - **关键词**：What are you doing here · Junie asks
 - **为什么这样写**：全章的收束之一，作者用一个再普通不过的问句，把整场超自然场面拽回两个女孩之间的对话。Nana 刚拧断两条命、在尸体上挑拣、然后抬头看她——Junie 问的不是「你是什么」，而是「你怎么会在这儿」。这句错位的日常提问，是 Junie 整本书的处世方式：**她先跟一个人说话，再去理解那个人是什么。**
-- **读者视角提示**：留意问完之后 Nana 的动作——她不说话，只是摇头，然后解开绳子、拉着她走。作者让 Junie 的问题悬在空气里，而答案由行动给出：**她一直在这儿，她一直在等这一刻。** 读者此刻应意识到：Junie 从头到尾被观察着——不是被 Sister Erica，而是被这个非人的女孩。ch20 那句「something tells Junie they're on the right track」在此有了分量。
+- **读者视角提示**：留意问完之后 Nana 的动作——她不说话，只是摇头，然后解开绳子、拉着她走。作者让 Junie 的问题悬在空气里，而答案由行动给出：**她一直在这儿，她一直在等这一刻。** 读者此刻应意识到：Junie 从头到尾被观察着——不是被 Sister Erica，而是被这个非人的女孩。ch14 那句「something tells Junie they're on the right track」在此有了分量。
 
 ## 本章词汇
 
