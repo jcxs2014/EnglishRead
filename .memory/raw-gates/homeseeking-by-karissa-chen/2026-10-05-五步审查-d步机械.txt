@@ -1,0 +1,26 @@
+=== 五步审查 d 步｜机械子项（换检查路径：*_indep.py 第二套实现）===
+--- d1 check_struct_indep ---
+=== 独立结构扫描：20 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+
+--- d2 check_xref_indep ---
+=== chNN 引用 162 处：英文证据报警 0 处 ／ 中文式待人判 100 处 ===
+
+--- d3 check_analysis_indep ---
+抽出分析层英文片段 185 条
+✅ 全部片段在全书 text/ 逐字命中
+
+--- d4 sweep_analysis_inline（分析层行内英文）---
+  ⚠️  00_金句精选.md:127  「It’s a phantom pain,」→ 实为 ch11
+  ⚠️  00_金句精选.md:127  「probably brought about by stress. There’s nothing that c」→ 实为 ch11
+  ⚠️  00_金句精选.md:141  「Every day is hard,」→ 实为 ch12
+  ⚠️  00_金句精选.md:141  「It’s just that on some days you’re able to forget.」→ 实为 ch12
+  ⚠️  00_金句精选.md:148  「I mean,」→ 实为 ch2,3,4,5
+  ⚠️  00_金句精选.md:148  「we don’t talk about anything that matters.」→ 实为 ch6
+  ⚠️  00_金句精选.md:155  「He’s not my general.」→ 实为 ch12
+  ⚠️  00_金句精选.md:178  「The only thing that separates us from those people in th」→ 实为 ch9
+
+--- d5 sweep_full（整串连续 sweep，52 字符指纹盲区克星）---
+=== 引语整串 flat 比对（homeseeking-by-karissa-chen）===
+  参照集：text/ 逐章（20 章，可定章） + epub 交叉验证
+  ✅ 本章命中 160 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）

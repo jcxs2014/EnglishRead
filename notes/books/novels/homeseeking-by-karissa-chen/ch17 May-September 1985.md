@@ -20,11 +20,11 @@ modified: "2026-10-05"
 
 **为什么这样写：** 作者把「家庭主妇的自我肯定」落到一次讨价还价上，而且写得很轻——她得到的不是钱，是一个「我有价值」的感觉；这种感觉一旦被抽走，后面那句「我是个没用的五十四岁女人」才立得住。
 
-**读者视角提示：** 本章她做的每一件事都是围着儿子转的：亲手做午饭、加入家长会、煮他爱吃的甜品；唯一一件不为儿子做的事，就是这一趟市场。
+**读者视角提示：** 本章她做的每一件事都是围着儿子转的：亲手做午饭、炖他爱喝的芒果西米露；唯一一件不为儿子做的事，就是这一趟湿市场。
 
 > **原句 2:** They stayed the same age while Soukei grew older, and with the years came an acclimation to their presence, the shame she’d felt in the beginning at having hired help dimming the same way her active loathing of Saikeung had.
 
-**中文理解：** 保姆只有二十岁，她已经四十几；保姆停在那一年不动，她一年年变老。最开始请人帮忙的羞耻感，和对丈夫的厌恶一样，都被日子磨平了。
+**中文理解：** 保姆只有二十岁，她已经五十四；保姆停在那一年不动，她一年年变老。最开始请人帮忙的羞耻感，和对丈夫的厌恶一样，都被日子磨平了。
 
 **关键词：** They stayed the same age while Soukei grew older · acclimation to their presence · her active loathing of Saikeung
 
@@ -38,7 +38,7 @@ modified: "2026-10-05"
 
 **关键词：** the dolphins all look miserable · that’s animal cruelty · try to drown themselves
 
-**为什么这样写：** 一个十几岁男孩随口说出的动物福利观念，在这一章里比任何政治判断都更接近真相；而母亲准备的糖水被一口推开，这段对话之后她才发现自己不知道儿子住在哪个国家。
+**为什么这样写：** 一个十几岁男孩随口说出的动物福利观念，在这一章里比任何政治判断都更接近真相；而母亲端上的是一碗芒果西米露，儿子闷声喝完还哼了一声——母子之间说不出口的部分全在这一声里。
 
 **读者视角提示：** 那句「被关久了会自己找水淹死」，和他母亲的处境在同一个逻辑里——被关住的人迟早自己动手了结；这一层作者没有点破。
 
@@ -50,7 +50,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 全章最短的一次交锋，却把标题式的指责落到了实处：她替儿子挡了十几年的丈夫，能替他挡，却不能替自己活；勺子被震响那一下，是屋里唯一还在动的东西。
 
-**读者视角提示：** 这句话也是全书的一个转折点：儿子第一次意识到母亲不是自愿留下来的，而是被困住；他自己重复她的话（「你还不是也……」）下一章会在旧金山电话里继续。
+**读者视角提示：** 这句话也是全书的一个转折点：儿子第一次意识到母亲不是自愿留下来的，而是被困住；这句话之后她自己打电话到香港的公寓，只说要再在美国多待一阵，又叮嘱别告诉丈夫。
 
 > **原句 5:** “And do what?” Soukei asked. “Without him, I have nothing. Nothing I have is my own. My clothes, this apartment, every nice thing I have—it all belongs to Saikeung. I am a useless fifty-four-year-old woman. It’s too late for me to start over.”
 

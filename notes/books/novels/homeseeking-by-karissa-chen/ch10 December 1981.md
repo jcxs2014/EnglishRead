@@ -56,7 +56,7 @@ modified: "2026-10-05"
 
 > **原句 5:** She stopped rubbing and looked up at him. “She’s never forgotten you. I know she hasn’t. She never says anything, she never talks about the past, but I know you live somewhere in her secret heart.”
 
-**中文理解：** 她一边搓着腿上一块看不见的地方，一边说：她从来没忘记你。我知道她没有。她什么都不说，从不谈从前，但我知道你住在她心里某个秘密的地方。
+**中文理解：** 姐姐苏兰一边搓着腿上一块看不见的地方，一边说妹妹：她从来没忘记你。我知道她没有。她什么都不说，从不谈从前，但我知道你住在她心里某个秘密的地方。
 
 **关键词：** she never talks about the past · in her secret heart
 
@@ -72,7 +72,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 她羡慕的具体内容不是对方的幸福，而是对方的**可塑性**——那一长串「或者」是全书最奢侈的一段话，因为 Suchi 从来不必设想自己还能是别的样子。
 
-**读者视角提示：** 「如果在另一个时代」是全书的题眼之一：这句话在第 20 章还会被用一次，方向相反。
+**读者视角提示：** 「如果在另一个时代」是全书的题眼之一：第 20 章换成另一种反事实——李玉萍口中那些「不可能的选择」。
 
 > **原句 7:** “You once loved my sister more than anyone. If you still love her, even a little bit, please call her. She needs you.” Sulan paused. “It’s not too late, you know. The two of you—you still have a chance.”
 

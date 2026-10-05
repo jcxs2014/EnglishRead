@@ -22,7 +22,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 恐惧先被写成传闻（ murmur 出来的），再被写成身体经验（噩梦、查证件、盯人）；「习惯了」这一笔最狠——不是战胜了恐惧，是恐惧退化成了环境音，读者由此明白这个女孩已经准备在这样的世界里活很久。
 
-**读者视角提示：** 记住「背景嗡鸣」这个比喻：三十年后他在第 08 章回到这条街上，是「他的神经在嗡嗡作响、亮得刺眼」；再往后第 15 章的香港，一屋子人同时说话，聋子听见的是「一片模模糊糊的环境噪声」——同一种失真，三种写法。
+**读者视角提示：** 记住「背景嗡鸣」这个比喻：将近五十年后他在第 08 章回到这条街上，是「他的神经在嗡嗡作响、亮得刺眼」；再往后第 15 章的香港，路上两个工人用粤语说话，同一个女人自己把声音滤成「一片模模糊糊的环境噪声」——同一种失真，三种写法。
 
 > **原句 2:** Love crashed upon her in a pastel splash. Sulan was right, Suchi thought as they trudged home through the rain together. She loved his stupid hair. She loved his tedious aloofness. She loved the mystery of the music she couldn’t hear behind his eyes, even more than the music that came from his fingers. She loved him, and she felt dumb that Sulan had known before her.
 
@@ -42,15 +42,15 @@ modified: "2026-10-05"
 
 **为什么这样写：** 这是全书关于「音乐是什么」的核心比喻：她弹的是技巧，他听的是人；作者不解释这句话的意思，而是让两个人对同一张唱片各说各的，让分歧留在原地。同一段音乐因此同时是爱情场景和世界观分歧。
 
-**读者视角提示：** 这个说法不会消失，只会换容器：第 14 章她直接问他「你大概是在脑子里听音乐吧」，第 12 章的台北则相反，他连谱子都忘了，得用肌肉记忆把曲子从水里捞上来。
+**读者视角提示：** 这个说法不会消失，只会换容器：第 14 章她直接问他「你大概是在脑子里听音乐吧」，第 12 章的台北则相反，他自己都记不清谱子，得靠肌肉记忆把曲子从深处拽上来。
 
 > **原句 4:** “Or,” Suchi said, “you’ll practice harder. The fortunes aren’t a sealed fate.”
 
-**中文理解：** 算命先生说她命里注定只能有三分。她的第一反应是顶回去：要么你就多练一点，要么你练得再不够——命不是封死的。被吓住的不只是她，算命先生自己也愣了，因为生意上门他从没遇到过客人这样回答。
+**中文理解：** 这句「要么你就多练一点，命不是封死的」是她对海承威顶回去的——他怕去算命算出个坏结果，她当场把命理降成一句口头禅。他叹了口气，但照旧听了她的，因为从前总是这样。算命师此刻并不在场：两人是后来才去找 Nyau lausy 的。
 
 **关键词：** practice harder · aren’t a sealed fate
 
-**为什么这样写：** 命理在这里第一次被写成一个可以被反驳的命题，而且反驳它的是十四岁的女孩；作者让算命先生愣住，等于用一个行当的权威给这句反驳背了书——他也没见过这句话。
+**为什么这样写：** 命理在这里第一次被写成一个可以被反驳的命题，而且反驳它的是十四岁的女孩，而且是在行当权威完全不在场的时候；被她一句话说动、答应同去的是海承威。真正见到行当权威是后面的 Nyau lausy——一位中年妇女，她只夸这对孩子「很倔」「有精神」，并没有为这句反驳背书。
 
 **读者视角提示：** 这是 Suchi 全书第一次公开反对「命」；她的父亲反对她的理由也正是「命」。
 
@@ -62,7 +62,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 父亲的逻辑没有一处是道德训诫，全是关于传播机制的推理：谁在放、谁在唱、唱给谁听；先拆机制再定罪，这样他才显得像一个消息灵通的人而不是一个暴怒的父亲。句式用连问逼女儿，节奏上不留插话的余地。
 
-**读者视角提示：** 本章后半和第 07 章都会给他补回来的。
+**读者视角提示：** 本章后半她自己把白光的照片从相册里撕了下来；第 07 章父亲那句「你替我接下去，像儿子那样」又把它接回来一次。
 
 > **原句 6:** She didn’t want to be like M’ma, cooped up in her own world, judgmental and afraid of change. When the war was over, she wanted to do things, to live more than survive. Travel to places like Hong Kong or England or France, get there on a sturdy ship that cut through the gray seas. Learn brush painting and calligraphy. Speak English well enough to converse with a European without blushing. Start a little garden where she could tend her own kumquat and lemon trees. Dance until sunrise in a room of beautiful strangers.
 
@@ -72,7 +72,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 清单式排比把愿望写得具体到柑橘品种，于是它不像幻想，像行程；最后一句「不要活成母亲那样」才是真正驱动这份清单的东西。作者不评论，只把这份清单压在一个十四岁女孩将要面对的现实上。
 
-**读者视角提示：** 这份清单其实从没兑现过：第 08 章那个回来的人清楚自己的家乡「已经不是他走的时候那个样子」，同一句「你只能往前」原样出现在他劝她离开的对话里；真正替他走完清单的是第 20 章的母亲，躺在石库门里把这些名字一个一个叫回来。
+**读者视角提示：** 这份清单其实从没兑现过：第 08 章那个回来的人清楚自己的家乡「已经不是他走的时候那个样子」，同一句「你只能往前」出现在第 19 章他提起当年她劝他别回头的那句话时；真正替他走完清单的是第 20 章的母亲，躺在石库门里把这些名字一个一个叫回来。
 
 > **原句 7:** The voice was staccato and lilting, bloodless and thin. Suchi wondered if Haiwen would hear music in it, if there was something to unravel in the rhythm of Hirohito’s voice, the voice of the nation that had held her people captive her entire life. The words were meaningless, but their drone made it hard for Suchi to breathe. She didn’t know what to feel; she felt nothing. There was a before—her whole life was a before—but following these words, there would be an after.
 

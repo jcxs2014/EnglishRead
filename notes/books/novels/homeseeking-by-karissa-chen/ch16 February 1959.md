@@ -30,7 +30,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 作者把「想家」从一种感情改写成一种机制——它能挡住殴打，也能在人游不动的时候把人推下水。这是全书最硬的一处因果。
 
-**读者视角提示：** 同一个硬币在下一章还会翻到另一面：1975 年退到台湾的海承威，第一次听见有人在他面前说出「希望和绝望」以外的理由。
+**读者视角提示：** 同一个硬币在第 12 章还会翻到另一面：一九七五年退到台湾的海承威，第一次听见有人在他面前说出「希望和绝望」以外的理由。
 
 > **原句 3:** The suicides had begun a couple of years ago, as soldiers had begun to despair of going home. Soldiers were cracking from the loneliness, depression, and stress. Even if they didn’t kill themselves, men yelled in their sleep, hallucinating they were burning or being buried alive; they became wild and unpredictable in their confrontations with both comrades and authority.
 
@@ -48,9 +48,9 @@ modified: "2026-10-05"
 
 **关键词：** the locals would rebel · Martial law was a necessity · boundaries are necessary for small children
 
-**为什么这样写：** 全岛最重的一个政治判断，被作者包在一个很轻的比喻里——照顾小孩的比喻，判断却是硬的。而海承威的反驳同样只用了一个比喻：小孩总得学会自己照顾自己。
+**为什么这样写：** 全岛最重的一个政治判断，被作者包在一个很轻的比喻里——照顾小孩的比喻，判断却是硬的。而海承威并没有反驳，他只是想起自己寄人篱下、想回又回不去的那些年。
 
-**读者视角提示：** 说这段话的军官还断言本地人被日本洗脑；这句话会在下一章被原样奉还：1975 年林丽仪对他说，先是美国，然后是你们。
+**读者视角提示：** 说这段话的军官还断言本地人被日本洗脑；同一种追问在第 12 章换个人重来——一九七五年妻子林丽仪当着他的面说英雄都是男人、而且都是会被腐蚀的，还替父亲解释过日本人当年给养蛎人带来的好处。
 
 > **原句 5:** “We have to be ten times as ruthless as those pigs!” Zenpo said. “If we’d defeated our enemies earlier, Li Tsin would be alive. We’d all be home by now, off this devil island. I could be fucking my own wife, playing with my kid.” Angry tears streamed down Zenpo’s face. “Goddammit,” he said, pounding his fist into his thigh. “Why didn’t that fucking fisherman just let him have the boat! Why didn’t I just fucking shoot that bastard and let Li Tsin go!”
 

@@ -40,9 +40,9 @@ modified: "2026-10-05"
 
 **关键词：** Failure wasn’t an option · I could only move forward
 
-**为什么这样写：** 本书写「往前看」这条人生策略共出现三次（第 04 章的 Suchi、第 09 章的 Mrs. Chan、第 12 章的 Zenpo（他说「每天都很苦，只是有些天你能忘得掉一点」）），而这一处是唯一一次由一个彻底失去过一切的人说出来的；把它放在一个洗碗的女人身上，后面 Suchi 的每一次「我走不下去」就都有了对照。
+**为什么这样写：** 本书写「往前看」这条人生策略共出现三次（第 06 章的 Suchi、第 09 章的 Mrs. Chan、第 12 章的 Zenpo（他说「每天都很苦，只是有些天你能忘得掉一点」）），而这一处是唯一一次由一个彻底失去过一切的人说出来的；把它放在一个洗碗的女人身上，后面 Suchi 的每一次「我走不下去」就都有了对照。
 
-**读者视角提示：** 她的丈夫死于香港沦陷第一年；这一细节与第 16 章的香港构成同一条暗线。
+**读者视角提示：** 她的丈夫死于香港沦陷第一年；这一细节与第 14 章那家香港粥店构成同一条暗线。
 
 > **原句 4:** The gnarled branches of the banyan tree filled Suchi with unbearable sadness. Her eyes traced the lines of each root and vine, searching for their connections, following where one tucked in and disappeared into the shadows, and where it reappeared and branched into another limb. She loved the tree’s complication, its chaotic beauty, and yet she couldn’t decide if she felt its unruliness was one of creation or destruction.
 
@@ -56,13 +56,13 @@ modified: "2026-10-05"
 
 > **原句 5:** “The only thing that separates us from those people in the shantytown is luck. It’s luck we found this boardinghouse, it’s luck I found a job. It’s luck the money and jewelry we had weren’t stolen or discovered. It’s luck we left Shanghai before the Communists won the war. It’s all luck! All of it!”
 
-**中文理解：** 姐姐把话说到底：把我们和棚屋里那些人区分开的只有运气。找到这家寄宿屋是我运气好，找到工作是我运气好，钱和首饰没被偷没被发现是我运气好，离开上海赶在共产党赢之前是我运气好。全是运气，全都是。
+**中文理解：** 妹妹苏祖贞把话说到底：把我们和棚屋里那些人区分开的只有运气。找到这家寄宿屋是我运气好，找到工作是我运气好，钱和首饰没被偷没被发现是我运气好，离开上海赶在共产党赢之前是我运气好。全是运气，全都是。
 
 **关键词：** the only thing that separates us · It’s all luck
 
 **为什么这样写：** 六个「It’s luck」排成一串，把「我们过得比他们好」这件事从道德问题改写成概率问题；这样一来，本章之前所有关于体面、勤劳、小心翼翼的叙述都被抽掉了一层自我安慰。
 
-**读者视角提示：** 三个月后棚屋真的烧了；姐姐这句话的算术在那一刻全部失效。
+**读者视角提示：** 三个月后房东收回寄宿屋；这句话里的运气，在那一刻全变成要搬走的行李。
 
 > **原句 6:** Sulan said nothing. After a moment, she said, “I promised Apa I would look after you. But I can’t look after you a whole lifetime. I know you want to be loyal to Haiwen, but—
 

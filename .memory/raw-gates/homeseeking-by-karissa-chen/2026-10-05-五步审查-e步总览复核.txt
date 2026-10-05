@@ -1,0 +1,33 @@
+=== e 步整改后 · 总览层复核 2026-10-05 16:59 UTC ===
+
+--- gen_overview ---
+✅ 写入 notes/books/novels/homeseeking-by-karissa-chen/00_情感节点.md（引语全部来自已核实池，零手打英文）
+✅ 写入 notes/books/novels/homeseeking-by-karissa-chen/00_概述.md（引语全部来自已核实池，零手打英文）
+✅ 写入 notes/books/novels/homeseeking-by-karissa-chen/00_金句精选.md（引语全部来自已核实池，零手打英文）
+
+--- verify_overview_quotes ---
+=== lane：降级 lane（text/ 兜底，非 epub 全书） ===
+00_情感节点.md: 39/39 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 64/64 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+--- check_overview_full ---
+=== 总览整串核查（homeseeking-by-karissa-chen）===
+  参照集：text/ 逐章（20 章） ｜ 总览文件 3 个
+  A 整串：命中 64 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 19
+  B 章节标签：对 55 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 9 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 25 ｜ 不符 0（**只报不判红**）｜ 跳过 32
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+--- check_overview_labels ---
+
+----- 口径外（0 条，不计入失败，需人判）-----
+
+----- 待人判清单（0 条）-----
+
+--- corruption_scan ---
+=== 编辑损坏扫描（homeseeking-by-karissa-chen）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**

@@ -1,0 +1,71 @@
+=== 整改后 · 章节层门禁 2026-10-05 17:00 UTC ===
+
+--- verify_quotes --full ---
+Usage: verify_quotes.py "<书目录>" "<epub>" [--full]
+  --full  关闭 52 字符指纹盲区：指纹命中后再补一次**整串** flat 比对，整串不命中则按 fragment 分段取证（方案 P0-6 / §三.1）
+
+--- audit_structure ---
+=== 精读结构扫描（homeseeking-by-karissa-chen）===
+  扫 23 个 md、225 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+--- sweep_full ---
+=== 引语整串 flat 比对（homeseeking-by-karissa-chen）===
+  参照集：text/ 逐章（20 章，可定章） + epub 交叉验证
+  ✅ 本章命中 160 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+--- check_vocab ---
+--- FAIL (0) ---
+
+--- WARN (0) ---
+
+--- 对账 ---
+正文 md:       20 ｜ text:       20 ｜ 总览:        3
+
+--- verify_quotes --full（带 epub）---
+❓ 无法判定：epub 不存在 — library/Homeseeking (Karissa Chen) (Z-Library).epub
+   本书无参照集 ⇒ 引语逐字这一层**未检查**，不是「引语有问题」。
+   处置：按 AGENTS 第 3 条 lane 表记「降级 lane」；逐章归属改跑 check_chapter_quotes.py。
+
+--- check_vocab 尾部 ---
+词条行合计: 720
+--- FAIL (0) ---
+--- WARN (0) ---
+
+--- check_chapter_quotes 逐章 20/20 ---
+ch01 Overture ch02 January 2008 ch03 August-October 1938 ch04 January 2008 ch05 April-August 1945 ch06 February 2008 ch07 January-April 1947 ch08 April 1993 ch09 September 1948-December 1953 ch10 December 1981 ch11 February-August 1965 ch12 April 1975 ch13 January-March 1966 ch14 March 1966 ch15 October 1972 ch16 February 1959 ch17 May-September 1985 ch18 March-April 1947 ch19 April-June 2008 ch20 Coda 
+--- verify_quotes --full（带 epub，正径）---
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 185/185 引文可核实（100%）；完全干净文件 21/21；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+--- check_chapter_quotes 逐章 20/20 ---
+ch01 Overture                      ch02 January 2008                  ch03 August-October 1938           ch04 January 2008                  ch05 April-August 1945             ch06 February 2008                 ch07 January-April 1947            ch08 April 1993                    ch09 September 1948-December 1953  ch10 December 1981                 ch11 February-August 1965          ch12 April 1975                    ch13 January-March 1966            ch14 March 1966                    ch15 October 1972                  ch16 February 1959                 ch17 May-September 1985            ch18 March-April 1947              ch19 April-June 2008               ch20 Coda                          
+--- check_chapter_quotes 逐章 20/20（整改后复跑）---
+ch01 Overture                    ch02 January 2008                ch03 August-October 1938         ch04 January 2008                ch05 April-August 1945           ch06 February 2008               ch07 January-April 1947          ch08 April 1993                  ch09 September 1948-December 1953 ch10 December 1981               ch11 February-August 1965        ch12 April 1975                  ch13 January-March 1966          ch14 March 1966                  ch15 October 1972                ch16 February 1959               ch17 May-September 1985          ch18 March-April 1947            ch19 April-June 2008             ch20 Coda                        
+--- check_chapter_quotes 逐章 20/20（整改后复跑）---
+ch01 Overture                    8/8 in ch01 text
+ch02 January 2008                8/8 in ch02 text
+ch03 August-October 1938         8/8 in ch03 text
+ch04 January 2008                8/8 in ch04 text
+ch05 April-August 1945           8/8 in ch05 text
+ch06 February 2008               8/8 in ch06 text
+ch07 January-April 1947          8/8 in ch07 text
+ch08 April 1993                  8/8 in ch08 text
+ch09 September 1948-December 1953 8/8 in ch09 text
+ch10 December 1981               8/8 in ch10 text
+ch11 February-August 1965        8/8 in ch11 text
+ch12 April 1975                  8/8 in ch12 text
+ch13 January-March 1966          8/8 in ch13 text
+ch14 March 1966                  8/8 in ch14 text
+ch15 October 1972                8/8 in ch15 text
+ch16 February 1959               8/8 in ch16 text
+ch17 May-September 1985          8/8 in ch17 text
+ch18 March-April 1947            8/8 in ch18 text
+ch19 April-June 2008             8/8 in ch19 text
+ch20 Coda                        8/8 in ch20 text

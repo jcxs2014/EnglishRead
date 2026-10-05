@@ -42,7 +42,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 她抬出的不是课本知识，而是一个具体的、当天正在发生的反证；最后半句把逻辑落成嘲讽，让对方的权威论据当场失血。
 
-**读者视角提示：** 这套论证在第 19 章以另一种方式回来：海承威问她父母在共产党夺权之后的日子，她一句也答不上来——当年他还来不及问，问题就先落到了她身上。
+**读者视角提示：** 这套论证在第 19 章以另一种方式回来：当年他还来不及问的那批问题，被她一路攒着，攒成落地就问出口的那些句子。
 
 > **原句 4:** “You can be so much more than what you allow yourself to be,” Apa said, his voice returning to an even volume. “I don’t understand why you hold yourself back. I don’t know where I’ve failed. But I want you to be more than another pretty face.” He looked at Sulan. “Both of you. Do you understand?”
 
@@ -62,7 +62,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 把「我家有两个儿子」说成一种特权，是全章最冷的一击；而这句话正是本卷第 18 章那场混乱的引信。
 
-**读者视角提示：** 注意它的主语结构——不是「你的儿子」，而是「我们这个国家」；同一套修辞会在第 16 章反向使用：一个逃出大陆的老兵在基隆酒馆里说「宁可错杀一千个无辜人，也不能放过一个坏人」——同样是拿战争逻辑解释为什么什么都留不住。
+**读者视角提示：** 注意它的主语结构——不是「你的儿子」，而是「我们这个国家」；同一套修辞会在第 16 章反向使用：一个逃出大陆的老兵在基隆街边掷骰子的酒摊前说「宁可错杀一千个无辜人，也不能放过一个坏人」——同样是拿战争逻辑解释为什么什么都留不住。
 
 > **原句 6:** “Good god, woman,” Apa said. “Will you stop with your martyrdom!”
 

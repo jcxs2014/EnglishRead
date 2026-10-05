@@ -19,9 +19,9 @@ modified: "2026-10-05"
 
 **关键词：** her name doesn’t matter to her anymore · Doudou and Susu. Haiwen and Suchi · Suchi laughing and twirling beside him, a butterfly
 
-**为什么这样写：** 开篇先说一句「名字不重要」，再报出四个名字——这是全书唯一一次由一个真正走完了的人来点名。而她临死看见的不是丈夫、不是儿子，是一个已经死了六十年的女儿在院子里转圈。
+**为什么这样写：** 开篇先说一句「名字不重要」，再报出四个名字——这是全书唯一一次由一个真正走完了的人来点名。而她临死看见的不是丈夫、不是儿子，是六十年后还要回来找她的两个孩子：海承威坐在院子里把《Meditation》弹得完美，苏祖贞在旁边笑着转圈，像一只蝴蝶。
 
-**读者视角提示：** 她还活着的时候，所有人都记得她是四个孩子的母亲；只有她自己还记得，她这一辈子其实一直在等一个不在场的人。
+**读者视角提示：** 她还活着的时候，所有人都记得她是三个孩子的母亲；只有她自己还记得，她这一辈子其实一直在等一个不在场的人。
 
 > **原句 2:** Doudou’s unwavering gaze at Suchi at all ages, in every room she’s in, his love painfully obvious to Yuping, to everyone but himself.
 
@@ -59,7 +59,7 @@ modified: "2026-10-05"
 
 **关键词：** The gold ring is loose on her forefinger now · she’d seen it in the pawnshop, simple yet elegant · known it was perfect for Suchi
 
-**为什么这样写：** 这是全书最安静的一次传承，而且方向是反的：一件母亲当年买给别人的女儿的东西，绕了几十年，最后还是由母亲亲手交还给那位当铺主人的朋友，托她带回给苏祖贞。两个母亲在同一张床上做了同一个动作。
+**为什么这样写：** 这是全书最安静的一次传承，而且方向是反的：一件她当年在当铺看见、觉得正合女儿心意的东西，绕了几十年，最后还是由她亲手推进唯一的旧友洗玉英的掌心，托她带话：「这是你女儿的，让她收着。」两个母亲做的是同一个动作。
 
 **读者视角提示：** 她手里的东西一件也没剩下：戒指推给朋友，信寄给儿子——这正是她说「母亲的工作就是保护孩子」的极端版本。
 

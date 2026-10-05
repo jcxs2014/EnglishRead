@@ -22,7 +22,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 三个 regret 连写，是把同一种情绪从不同角度撞一次；作者随后不用「悲痛」而用「凿出一个洞」，把情绪说成物理损伤——这样它就有了形状，也就有留下的可能。
 
-**读者视角提示：** 母亲去世的消息在第 12 章（1975 年台北）还会以另一种形式再次落到他头上。
+**读者视角提示：** 母亲去世的消息在第 12 章（1975 年台北）还没有影子——那一章落到他头上的是蒋介石的死讯；母亲的死要再等十八年，在上海那间变小的石库门里才轮到。
 
 > **原句 2:** But Howard wasn’t listening anymore. He was peering down the lane, toward the direction of Suchi’s shikumen. He thought of the many times he had been down that path, to walk her home or meet her before school or tell her a bit of news. He suddenly recalled the day after their first kiss, how nervous he’d been as he’d walked toward her house, how his heart had thrummed against his lungs. He’d been sure the kiss had been a dream, that he’d imagined the slight chap of her lips, the soft tease of her tongue, that when she opened the door, she’d act as if nothing had happened. But when she stepped through the frame, soft and shy and radiant in a blush-colored skirt he’d never seen before, he knew instantly things between them would never be the same, that he’d never want them to be the same again.
 
@@ -92,7 +92,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 一句「你不在场」是全章最有效的封锁：它不谈是非，只谈资格，于是任何辩护都自动作废。Howard 为此被人责备了一辈子，而说这话的人正是那个也没能到场的时代。
 
-**读者视角提示：** 同一段雨伞在第 19 章由她自己讲了出来：六十几年前一个雨天他追上来，把伞塞给她，她在窗口看见「一排伸向无穷的伞」——隔了十一章，她才把这一句还给他。
+**读者视角提示：** 第 05 章那场雨伞在第 19 章由她自己讲了出来：六十多年前一个雨天他到校门口等她，伞拿在手里；她后来说自己在想象里看见「一排伸向无穷的伞」——隔了十四章，她才把这一句还给他。
 
 ## 本章词汇
 

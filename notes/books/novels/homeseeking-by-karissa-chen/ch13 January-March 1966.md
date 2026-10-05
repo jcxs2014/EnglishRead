@@ -8,7 +8,7 @@ modified: "2026-10-05"
 ## 本章导航
 
 - **一句话概括**：林耀全用「你嫁给我我就有后代」换走她说不出口的拒绝，一个月后把她强按成事实上的妻子；同一个月里姐姐拿到了多发性硬化症的名字，诊所账单则被一句「你丈夫已经结过了」无声买走
-- **情感弧线位置**：Suchi 情感线的坠落段——第 11 章的失声是等不来，本章的失声是叫不出；她唯一一次把念头对准死亡，又在船上睁眼看见了海承威
+- **情感弧线位置**：Suchi 情感线的坠落段——第 11 章她唱得上、见不到他，本章唱完，在船上睁眼看见了他；她唯一一次把念头对准死亡，又在船上睁眼看见了海承威
 - **人物弧线**：Sulan 从「病人」变成「有名字的病人」，Suchi 则从「拒绝者」变成「无法拒绝也没人可拒绝的人」；林耀全从体面的求婚者变成施暴者，且事后仍用同一条温暖的语调说「你果然是诚实的」
 - **叙事手法**：全章用「平行人生」这一想象中的房间当唯一的逃生口——她一遍遍在脑中造出另一个自己，结尾把这间房关掉，让现实里那张脸直接坐到她面前
 
@@ -72,7 +72,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 作者把「被相信」放在「被治好」之前——对一个长期被当作病人的病人来说，先到的不是疗效，是身份。低声说出也提示这不是胜利的宣布，只是病房里的一句私话。
 
-**读者视角提示：** 这是本章两条线交汇的地方：同一周里，姐姐得到了名字，妹妹得到了丈夫。「你丈夫已经结过了」就在下一段。
+**读者视角提示：** 这是本章两条线交汇的地方：同一周里，姐姐得到了名字，妹妹得到了丈夫。「你丈夫已经替我们把账付了」就在下一段——她还没答应这门婚事，正因为他先以丈夫的身份付了钱。
 
 > **原句 7:** She pulled Haiwen’s violin case out from under their bunk, careful not to disturb Sulan, and reached into the torn corner of the case’s lining, feeling for an edge. Instead, her hand touched something cool and cylindrical lodged in the corner. She tugged it out. An unfamiliar gold ring winked up at her. She had never noticed it in the lining before and she wondered how long it had been in there. Was it Sulan’s? Had her sister discovered her hiding place? Suchi turned the ring over in her palm, examining its elegant twist. Briefly, she slipped it on her ring finger. It fit perfectly.
 
@@ -82,7 +82,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 一次伸手同时完成三件事：找旧信、遇新枷、验身量。那个破角正是她当初藏信的缺口，戒指塞在同一处——暗示放戒指的人和藏信的人共享同一个对琴盒的支配权，而她一直以为那是自己的秘密。
 
-**读者视角提示：** 戒指上那道扭结会在第 10 章的纽约再出现一次——修琴师傅的妻子拿着它问「这戒指里面有个扭结吗？」，问要不要替她收着；本章她戴上又摘下，两处合看才是完整的来回。
+**读者视角提示：** 戒指上那道扭结会在第 10 章的纽约再出现一次——问「这戒指里面有个扭结吗？」的是 Howard 本人，他心里另有一句说不出口的话：这枚戒指不该留在妻子手里。本章她只是短暂地把它套上无名指。
 
 > **原句 8:** Instead, she saw, sitting in front of her like a ghostly apparition, her love, her best friend: Wang Haiwen.
 

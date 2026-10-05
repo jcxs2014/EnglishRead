@@ -20,7 +20,7 @@ modified: "2026-10-05"
 
 **关键词：** more modest communities · couldn’t bear
 
-**为什么这样写：** 这一句提前把第 19 章那条线（他究竟会不会离开洛杉矶）摆出来，也让 Winston 那句「你该出去走走」变成一次误判——他不是出不去，是不愿意把某样东西留在原地。
+**为什么这样写：** 这一句提前把「留下来还是走」这条线摆出来——第 19 章的上海会给它一次答案；也让 Winston 那句「你该出去走走」变成一次误判——他不是出不去，是不愿意把某样东西留在原地。
 
 **读者视角提示：** 记住「搬不搬」这件事，本书后半段会反复回到它，每次都带着新的理由。
 
@@ -42,7 +42,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 作者让这段历史由 Annie 说给 Howard 听，于是它同时是史料和人物塑造；Howard 听完之后的反应（想到纸儿子的父亲一生都以为自己不孝）把这段历史接到了他最熟悉的伦理难题上。
 
-**读者视角提示：** 「纸儿子／纸女儿」与第 05 章的年份会再次出现，注意它们是同一个制度的两端。
+**读者视角提示：** 「纸儿子」是他父亲，「纸女儿」是他母亲——同一个制度的两端，两个人谁也没有把这段来历说破。
 
 > **原句 4:** “It was a shameful job. I knew what people thought girls like me did at those jobs. I knew girls who did those things, and I don’t blame them; they had to survive. I just didn’t want you thinking there was the possibility I did.”
 
@@ -62,7 +62,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 称呼的转换先发生，语气再转硬，两个动作压在同一个句子里；「机会早就过了」把责任从她转到时间，也顺手替 Howard 免掉了当下的判断——他确实做不到任何事。
 
-**读者视角提示：** 这句话是第 02 章那句「你当年先辜负了我」的另一面；两人各自握着一半真相。
+**读者视角提示：** 这句话是第 02 章那句「你走的时候，我正是这个感觉」的另一面；两人各自握着一半真相。
 
 > **原句 6:** “Isn’t it strange,” Suchi mused, “after all of that, now our grandchildren rattle off English like it’s nothing?”
 
@@ -72,7 +72,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 用「奇怪的是」开头，把一句抱怨写成感慨，于是情绪不显得小；「rattle off」这个动词把熟练写得毫不费力，正是她话里真正的刺。
 
-**读者视角提示：** 这一问和第 02 章他认出前女友儿子是同一个动作，方向不同、意思一样：对方隔着几十年还记得他。
+**读者视角提示：** 这一问和第 02 章他在货架对面认出前女友本人是同一个动作，方向不同、意思一样：对方隔着几十年还记得他。
 
 > **原句 7:** By mid-1950, when he found himself back in Taiwan, building military housing he didn’t qualify for during the day and squatting in an elementary school at night, the music had begun leaking away, like a sieve had opened up in his brain.
 
@@ -92,7 +92,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 全章从「不能动了」开始，到这里手指自己记住了要弹什么；A 弦被换成二胡弦这个小细节，把一把中国旧琴、一段亚洲战场和一场中国式家庭晚餐缝在同一根弦上。结尾不给评论，只给「奇迹般」三个字。
 
-**读者视角提示：** 母女三个都在场却没有一句台词，这是全书最重的一次沉默。
+**读者视角提示：** 父女三个在场；沉默发生在那句话之后——他确实开了口，说的是「想拉一首你们都认得的民歌」，然后谁也没接话。
 
 
 ## 本章词汇

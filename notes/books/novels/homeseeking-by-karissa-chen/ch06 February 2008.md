@@ -42,7 +42,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 「空白」在第 04 章被他写成筛子漏水——那是比喻；这里作者直接借来这个词却不点破，同时用「开始偶尔回来」把病写成复发。恐惧的不是音乐没了，是那个曾经装过音乐的地方正在重新变空。
 
-**读者视角提示：** 他对死亡的恐惧在第 19 章会以更具体的方式出现。
+**读者视角提示：** 他对死亡的恐惧在第 19 章会具体成一件旧事：她带着一封迟到几十年的信、准备重新认一遍自己的家。
 
 > **原句 4:** Then when he was a teenager, he grew to be very tall, so instead of a little hongdou, he was a sijidou, a string bean!” Suchi said, laughing.
 
@@ -72,7 +72,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 作者把「找家」的仪式交给一颗可能认错的星，又在名单的最后才放 Suchi；这一处的顺序就是他在心里的顺序。同一个春节在本书里出现过两次：本章此刻他蹲在河滩上找那颗可能是北极星的亮光，上一年他一个人过的那个春节什么也没数。
 
-**读者视角提示：** 名单里的 Junjun、Haiming，在第 05 章她家的饭桌上就能对上。
+**读者视角提示：** 名单里的 Junjun，在第 05 章海承威家那顿饭上就能对上；Haiming 要到第 08 章、上海那场丧事里才真正长成一个名字。
 
 > **原句 7:** For a second—a moment—he imagined a parallel life. One in which they presided over this New Year’s dinner together, where these were their children, their grandchildren. The family they had built together. He blinked, guilt trickling through his body. The mere thought was a betrayal to Linyee. No matter what, that part of his past belonged to her, would always belong to her. And yet, Howard longed for something. For more.
 
@@ -82,7 +82,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 作者先让读者看见他的渴望，再用「背叛」两个字把它压回去；最后两个短句把压回去的东西重新顶上来。这是全书写「愧疚如何制造渴望」最直白也最狠的一处。
 
-**读者视角提示：** 「还想要更多」这句在第 19 章会被他自己重新计算一遍。
+**读者视角提示：** 「还想要更多」这句在第 19 章会被他自己翻出来重算一遍——他反复回去咀嚼的，是当年决定离开上海那一次。
 
 > **原句 8:** “The Suchi you knew evaporated decades ago,” Suchi interrupted, slamming the mugs down on the table and setting her eyes steely upon him. Her voice vibrated and swelled in a rush. “She was silly and frivolous, and she was killed off in the war, just like everyone else. What took her place is the Suchi sitting before you now, and I survived by not looking backward. So stop trying to revive the dead. You won’t find what you’re looking for here.”
 
