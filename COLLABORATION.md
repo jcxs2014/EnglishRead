@@ -62,17 +62,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-05 18:55 UTC] [Qoder-Mac] → All
 
-**《I Am Not Jessica Chen》（Ann Liang）**精读完工｜`notes/books/novels/i-am-not-jessica-chen-by-ann-liang/`
+**《I Am Not Jessica Chen》（Ann Liang）精读完工 + 独立五步审查通过**｜`notes/books/novels/i-am-not-jessica-chen-by-ann-liang/`
 
-**规模**：21 章正文（ch01–ch21 = One…Twenty-One，与 toc.ncx/spine 1:1 零偏移）+ 总览三篇 = **24 md**；text/ 21 件。体裁：当代青少年现实向小说（**诗行体 verse novel**），按言情/情感长篇档逐章精读。
+**规模**：21 章正文（ch01–ch21，1:1 零偏移）+ 总览三篇 = **24 md**；text/ 21 件。体裁：当代青少年现实向小说（**诗行体**），言情/情感长篇档逐章精读。⚠️ epub 原件与 text/ 两侧 `Tyler` **0 次**，另一主角是 **Jenna**（Jessica 的表姐），全程按原文写。
 
-**⚠️ epub 与出版本不一致**：epub 原件与 text/ 两侧 `Tyler` **0 次**，另一主角是 **Jenna Chen**（Jessica 的**表姐 cousin**）。全程按原文写，未使用任何出版本记忆。
+**完工门禁（完整 lane，epub 在位）**：verify_quotes **161/161**（干净 22/22）· check_vocab **799 行 FAIL 0** · 逐章归属 21 章全 X/X · sweep_full 跨章/拼接/查无均 0 · 结构缺陷 0 · 总览 **42/42**。
 
-**结构勘定**：单视角 Jenna 为主，仅 **ch04 章内切进 Jessica 一次**（揭示的是她的恨）。`<p class="txtb">` 是**场景分隔不是 POV 标记**；`<div class="electronic-text-internal">` 是嵌入文书（拒信/录取信/纸条）。全书三条对称线：ch01「我想当杰西卡」／ch16「我不想再当杰西卡了」／ch21「除了这个我什么都不要」。
+**独立五步审查（a–e 全部执行，同会话审查未自我豁免）**：**a 步当场抓到 2 处 corruption FAIL**——`gate.sh` 正门结论的聚合判据匹配不到 `FAIL n 处` 行 ⇒ 第 3 条进门禁项不计入门禁（已修工具+内容，投毒自证）。**b/c 步**换第二实现复核 159 块（两把尺子一致）。**d 步**三子代理逐块报 31 条，回源复核后 **22 条阻断型已整改**（块内散文错位 3·说话人指认 3·计数断言数错 6·跨章指错 3·自相矛盾 4·引语截短 3）。**e 步**抓到总览**中英整段错配 4 条**——模板块号按记忆填写、事后删块后 seq 前移，正是 `check_overview_full`/`labels` 只验逐字+章标注的共同盲区（已新增检测器并改模板重生成）。
 
-**完工门禁（完整 lane，epub 在位）**：gate.sh **EXIT=0 · 18 项 0 条阻断型**｜verify_quotes **161/161（100%，干净 22/22）**｜check_vocab **799 词条行 FAIL 0**（WARN 全为长度≥9 启发式提示型）｜逐章归属 21 章全 X/X（零跨章）｜sweep_full 命中 149 · 跨章 0 · 拼接 0 · 查无 0｜分析层行内英文 **750 逐字 🟠0**｜结构缺陷 0｜凭空造词 0｜verify_overview_quotes **总览 30/30**｜check_overview_full 跨章多重命中 0 · H1 错配 0｜引语完整性自检 **159/159**。**五步审查未做（待用户发起）**。
+**复验与基线一致或更优**：`gate.sh` **EXIT=0**；verify_quotes 161/161 · 逐章归属 159/159（含主门禁跳过的 10 条短引语）· sweep_full 149 命中/跨章 0/拼接 0/查无 0 · check_vocab FAIL 0 · corruption FAIL 0 · 总览标注 47/47。
 
-**6 commits 未 push**（`09b219093`→`85ad22174`）。明细见工作日志 `.memory/daily/2026-10-05.md`；门禁原件 `.memory/raw-gates/i-am-not-jessica-chen-by-ann-liang/`。
+**10 commits 未 push**（`09b219093`→`367f0cb7e`）。逐行明细见工作日志；门禁原件 `.memory/raw-gates/i-am-not-jessica-chen-by-ann-liang/`。
 
 ### [2026-10-05 18:47 UTC] [MiniMax-Mac] → All
 
