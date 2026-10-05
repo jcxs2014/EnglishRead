@@ -1,0 +1,62 @@
+ch01 Overture.md: 8/8 ✅
+ch02 January 2008.md: 8/8 ✅
+ch03 August-October 1938.md: 8/8 ✅
+ch04 January 2008.md: 8/8 ✅
+ch05 April-August 1945.md: 8/8 ✅
+ch06 February 2008.md: 8/8 ✅
+ch07 January-April 1947.md: 8/8 ✅
+ch08 April 1993.md: 8/8 ✅
+ch09 September 1948-December 1953.md: 8/8 ✅
+ch10 December 1981.md: 8/8 ✅
+ch11 February-August 1965.md: 8/8 ✅
+ch12 April 1975.md: 8/8 ✅
+ch13 January-March 1966.md: 8/8 ✅
+ch14 March 1966.md: 8/8 ✅
+ch15 October 1972.md: 8/8 ✅
+ch16 February 1959.md: 8/8 ✅
+ch17 May-September 1985.md: 8/8 ✅
+
+=== 总计 136/136 引文可核实（100%）；完全干净文件 17/17；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+ch17 May-September 1985.md: 8/8 in ch17 text
+=== check_vocab ===
+词条行合计: 612
+--- FAIL (0) ---
+--- WARN (0) ---
+--- WARN 明细 ---
+=== check_block_keywords ===
+=== 引语块覆盖度：17 个 md，问题 0 处 ===
+=== check_nav_layer ===
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+=== corruption_scan ===
+
+=== 编辑损坏扫描（homeseeking-by-karissa-chen）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+=== audit_structure ===
+=== 精读结构扫描（homeseeking-by-karissa-chen）===
+  扫 17 个 md、136 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+=== check_anchor ===
+=== 关键词锚定自查（homeseeking-by-karissa-chen）===
+  扫 17 个 md，136 个引语块，136 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（21 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+=== check_quote_blocks ===
+=== 引语块结构对账（homeseeking-by-karissa-chen）===
+  带前缀的 `> **原句 N:**` 行：17 个文件共 136 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+=== sweep_analysis_inline ===
+=== 分析层行内英文逐字核查（homeseeking-by-karissa-chen）===
+  参照集：text/（21 个提取件） + epub 交叉验证 ；扫 17 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：714 个表格行、523 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 594 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 3
+=== check_short_quotes ===
+=== 短引语兜底核对（homeseeking-by-karissa-chen）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
