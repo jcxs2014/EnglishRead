@@ -1,0 +1,119 @@
+=== a 步：第 3 条提交门禁全量重跑（2026-10-05 五步审查）===
+=== lane 判定 ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub）===
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 12/12 ✅（另有 3 条短引语未校验）
+ch01 one.md: 8/8 ✅
+ch02 two.md: 6/6 ✅（另有 1 条短引语未校验）
+ch03 three.md: 7/7 ✅（另有 1 条短引语未校验）
+ch04 four.md: 7/7 ✅
+ch05 five.md: 8/8 ✅
+ch06 six.md: 7/7 ✅（另有 1 条短引语未校验）
+ch07 seven.md: 7/7 ✅（另有 1 条短引语未校验）
+ch08 eight.md: 7/7 ✅
+ch09 nine.md: 7/7 ✅
+ch10 ten.md: 8/8 ✅
+ch11 eleven.md: 6/6 ✅
+ch12 twelve.md: 7/7 ✅
+ch13 thirteen.md: 8/8 ✅
+ch14 fourteen.md: 8/8 ✅
+ch15 fifteen.md: 8/8 ✅
+ch16 sixteen.md: 6/6 ✅
+ch17 seventeen.md: 6/6 ✅（另有 2 条短引语未校验）
+ch18 eighteen.md: 7/7 ✅（另有 1 条短引语未校验）
+ch19 nineteen.md: 6/6 ✅（另有 2 条短引语未校验）
+ch20 twenty.md: 7/7 ✅（另有 1 条短引语未校验）
+ch21 twenty-one.md: 8/8 ✅
+
+⚠️ 全书共 13 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 161/161 引文可核实（100%）；完全干净文件 22/22；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+=== ① --full 整串/逐段 flat 取证（仅取证，不参与退出码）===
+ch19 nineteen.md: 6/6 ✅（另有 2 条短引语未校验）
+ch20 twenty.md: 7/7 ✅（另有 1 条短引语未校验）
+ch21 twenty-one.md: 8/8 ✅
+
+⚠️ 全书共 13 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 161/161 引文可核实（100%）；完全干净文件 22/22；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 799
+
+--- FAIL (0) ---
+
+--- WARN (39) ---
+  ch02 two.md [基础] 基础档疑含超纲词「confusion」
+  ch02 two.md [基础] 基础档疑含超纲词「different」
+  ch02 two.md [基础] 基础档疑含超纲词「yesterday」
+  ch03 three.md [基础] 基础档疑含超纲词「obviously」
+  ch03 three.md [基础] 基础档疑含超纲词「different」
+  ch03 three.md [基础] 基础档疑含超纲词「invisible」
+  ch03 three.md [基础] 基础档疑含超纲词「classroom」
+  ch03 three.md [基础] 基础档疑含超纲词「questions」
+  ch04 four.md [基础] 基础档疑含超纲词「impossible」
+  ch04 four.md [基础] 基础档疑含超纲词「appearance」
+  ch04 four.md [基础] 基础档疑含超纲词「definitely」
+  ch04 four.md [基础] 基础档疑含超纲词「completely」
+  ch04 four.md [基础] 基础档疑含超纲词「difference」
+  ch04 four.md [基础] 基础档疑含超纲词「classmates」
+  ch04 four.md [基础] 基础档疑含超纲词「corridors」
+  ch05 five.md [基础] 基础档疑含超纲词「temporary」
+  ch05 five.md [基础] 基础档疑含超纲词「expensive」
+  ch05 five.md [基础] 基础档疑含超纲词「admission」
+  ch06 six.md [高级] 高级档混入常用词「back-to-back」
+  ch06 six.md [基础] 基础档疑含超纲词「impossible」
+  ch06 six.md [基础] 基础档疑含超纲词「anonymous」
+  ch06 six.md [基础] 基础档疑含超纲词「ballpoint pen」
+  ch07 seven.md [基础] 基础档疑含超纲词「expression」
+  ch07 seven.md [基础] 基础档疑含超纲词「intelligent」
+  ch08 eight.md [基础] 基础档疑含超纲词「chopsticks」
+  ch10 ten.md [基础] 基础档疑含超纲词「ambulance」
+  ch10 ten.md [基础] 基础档疑含超纲词「flashlight」
+  ch12 twelve.md [基础] 基础档疑含超纲词「butterfly」
+  ch12 twelve.md [基础] 基础档疑含超纲词「shrubbery」
+  ch12 twelve.md [基础] 基础档疑含超纲词「sunscreen」
+  ch13 thirteen.md [基础] 基础档疑含超纲词「sketchbook」
+  ch14 fourteen.md [基础] 基础档疑含超纲词「breakfast」
+  ch14 fourteen.md [基础] 基础档疑含超纲词「staircase」
+  ch15 fifteen.md [基础] 基础档疑含超纲词「exhibition」
+  ch16 sixteen.md [基础] 基础档疑含超纲词「paintings」
+  ch16 sixteen.md [基础] 基础档疑含超纲词「sculpture」
+  ch16 sixteen.md [基础] 基础档疑含超纲词「orchestra」
+  ch17 seventeen.md [基础] 基础档疑含超纲词「principal」
+  ch21 twenty-one.md [基础] 基础档疑含超纲词「classroom」
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+ch17 seventeen.md:98 ❌ U+FFFD —— 替换字符——提取/编码环节残留
+ch19 nineteen.md:28 ❌ U+FFFD —— 替换字符——提取/编码环节残留
+
+=== 编辑损坏扫描（i-am-not-jessica-chen-by-ann-liang）===
+  FAIL 2 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+=== 引语整串 flat 比对（i-am-not-jessica-chen-by-ann-liang）===
+  参照集：text/ 逐章（21 章，可定章） + epub 交叉验证
+  ✅ 本章命中 149 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 10 条归 check_short_quotes；无章可对 0 条未判）
+
+=== 附：check_chapter_quotes（有 text/ 的书必加跑）===
+⚠️  全书共 10 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 149，命中本章 149（100%）
+✅ 全部引语均归属正确章节

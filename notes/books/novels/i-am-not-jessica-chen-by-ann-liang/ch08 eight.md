@@ -47,7 +47,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 作者用「只要……就……」两个条件句把杰西卡家的规则写得清清楚楚：**绝对值不重要，相对位置才重要**。而杰娜能立刻推出这个规则，说明她已经理解这套体系——理解本身就让她更痛苦。
 
-**读者视角提示：** 这条规则在 ch04 的饭桌上已经被执行过一次（姨妈问「你朋友考得怎么样」）。本章是杰娜第一次在心里把规则翻译出来。
+**读者视角提示：** 这条规则在本章的饭桌上第一次被当面执行——姨妈亲口问「你朋友考得怎么样」。而这是杰娜第一次在心里把它翻译出来：**只要不是完美，只要在某一方面高一等，就够了**。
 
 > **原句 4:** Red welts have started to swell up all over my neck and cheeks, marring Jessica’s otherwise smooth skin. Crabmeat. I’d been so caught up in the ominous message and her grades that I’d forgotten one very critical piece of information: Jessica Chen is allergic to seafood.
 

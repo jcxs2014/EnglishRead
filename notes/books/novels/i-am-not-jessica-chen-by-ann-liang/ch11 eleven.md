@@ -27,7 +27,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 作者让识破的依据是一句关心，而不是一套推理。读者读到的不是一场揭穿，是一个人终于敢说出「你本来不会这样的」——这句关心同时也推翻了她这些天的全部表演，因为表演者不会不小心。
 
-**读者视角提示**：这句话从 ch01 那个「撞进树里」的孩子一直连到这里，读者会意识到他认识的那个人从来没有变过。
+**读者视角提示**：这句话回应的是 ch10 那次骑马摔伤——她在他面前狼狈地躺在地上，而他当时说的就是「你一直那么小心」。同一份关心隔了不到一章重复出现，而这一次她听懂了。
 
 > **原句 2:** “It’s really you, isn’t it?” he asks. It’s a threadbare whisper, a question and a confirmation. “I can’t believe it. I didn’t want to believe it,” he continues, filling up my silence, “but there’s no other explanation for this. I know you too well.”
 
