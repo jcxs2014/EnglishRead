@@ -1,0 +1,23 @@
+=== batch ch10 gate 2026-10-05 ===
+ch15 the fatis asteria.md: 11/11 ✅
+ch16 the midnight thief.md: 11/11 ✅
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 115/115 引文可核实（100%）；完全干净文件 12/12；正文章节 0 提取 0；总览 0 提取转交 0 ===
+  ch08 the dark twins are gone.md [基础] 基础档疑含超纲词「whimpered」
+  ch08 the dark twins are gone.md [基础] 基础档疑含超纲词「desperately」
+  ch10 what the light of the night leaves behind.md [基础] 基础档疑含超纲词「fireworks」
+=== 实体一致性检测：0 个文件存在未知实体 ===
+=== 编辑损坏扫描（heirs-of-the-cursed-by-denna-selen-and-l-c-emerson）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+  参照集：text/ 逐章（44 章，可定章） + epub 交叉验证
+  ✅ 本章命中 115 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+  verify_quotes 跳过（<20 flat 字符）的引语：2 条 —— 这些主门禁**根本没查**
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== 独立复算：1 章 ｜ 引语 8 · 例句 32 · 导航层 34 ===
+✅ 三把尺全过（①b 含标点原样 / ①c 单段内 / 例句含词头）
