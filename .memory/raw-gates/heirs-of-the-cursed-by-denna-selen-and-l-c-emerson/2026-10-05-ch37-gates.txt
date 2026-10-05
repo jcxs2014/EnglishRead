@@ -1,0 +1,44 @@
+=== ch37（Chapter 36）门禁留档  2026-10-05 ===
+文件: ch37 im going to get my sisters to safety.md（20 块 / 30 词条）
+注：本轮拦下 5 条编造——其中 1 条主语张冠李戴（She squeezed his hand → Leonel squeezed her hand）、4 条自撰对照（swordplay / get someone somewhere / to bring someone to their knees / "following"）
+
+--- verify_quotes ---
+
+=== 总计 555/555 引文可核实（100%）；完全干净文件 37/37；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- check_vocab（本章零 WARN）---
+ch37 相关行数: 0
+--- FAIL (0) ---
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- corruption_scan ---
+=== 编辑损坏扫描（heirs-of-the-cursed-by-denna-selen-and-l-c-emerson）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+  参照集：text/ 逐章（44 章，可定章） + epub 交叉验证
+  ✅ 本章命中 555 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 12 条归 check_short_quotes；无章可对 0 条未判）
+
+--- check_short_quotes ---
+  verify_quotes 跳过（<20 flat 字符）的引语：12 条 —— 这些主门禁**根本没查**
+  ✅ 命中 12 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+--- check_chapter_quotes 37 ---
+ch37 im going to get my sisters to safety.md: 20/20 in ch37 text
+
+--- indep_check 37（自建尺）---
+=== 独立复算：1 章 ｜ 引语 20 · 例句 30 · 导航层 52 ===
+✅ 三把尺全过（①b 含标点原样 / ①c 单段内 / 例句含词头）
+
+--- navscan 37（自建尺）---
+— 一句话总结: 命中本章 30 · 跨章可核 0 · 跨句合并(假红) 0 · 编造 0
+  🔶 跨章借用 [精读层(为什么/读者视角/关键词)] perhaps it will remain for the rest of his life  → ch35
+  🔶 跨章借用 [精读层(为什么/读者视角/关键词)] the menessbane necklace around the dog’s neck glowed brightly  → ch36
+— 精读层(为什么/读者视角/关键词): 命中本章 210 · 跨章可核 2 · 跨句合并(假红) 0 · 编造 0
+
+✅ 无编造片段（跨章借用已标注章号，读者可自核）
