@@ -1,9 +1,14 @@
-=== batch ch19 gate 2026-10-05 ===
-
+=== ch19 结构修复后复核 2026-10-05 ===
+H2:
+## 本章导航|## 精读|## 本章词汇|## 一句话总结|
+rebuild_vocab dry-run:
+原 50 条 → 保留 50 条，剔除 0 条
+档位: {3: 24, 2: 13, 1: 13}
+行数 277 → 275
 ⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
 
 === 总计 207/207 引文可核实（100%）；完全干净文件 19/19；正文章节 0 提取 0；总览 0 提取转交 0 ===
-  ch19 the compass and the confession.md [?] 无 `## 词汇` 节标题，已按全文件扫描（格式应补节标题）「」
+  ch14 the threads of her own mind.md [基础] 基础档疑含超纲词「chandeliers」
   ch19 the compass and the confession.md [基础] 基础档疑含超纲词「heartbeat」
 === 实体一致性检测：0 个文件存在未知实体 ===
 === 编辑损坏扫描（heirs-of-the-cursed-by-denna-selen-and-l-c-emerson）===
