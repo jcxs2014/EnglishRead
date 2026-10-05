@@ -148,6 +148,7 @@ modified: "2026-10-05"
 | blanket | 毯子、盖毯 | While the blanket of haze hadn’t entirely lifted, he felt, for the first time since Linyee’s death, a sense of contentment. |
 | hands | 双手 | He remembered: his friends who had fallen right next to him; the surprised faces of the men he had shot; the ache in his fingers after his unit had been commanded to retreat, his hands unable to loosen their grip on his gun. |
 
+
 ## 一句话总结
 
 洛杉矶的一月被两场坦白撑起来：Suchi 承认自己当年在香港夜总会当过女招待，Howard 才明白她说的「你的机会早就过了」不是客气话；回到家他放起布拉姆斯的第一交响曲，音乐带回来的不是旋律而是战场，最后他放下唱片、取出那把 A 弦被换成二胡弦的旧琴，为两个女儿拉起了《茉莉花》。
