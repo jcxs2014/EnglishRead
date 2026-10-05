@@ -94,7 +94,6 @@ modified: "2026-10-05"
 | plausible | 貌似可信的 | It would look more plausible. |
 | bluffed | 虚张声势地混过 | So I bluffed it through, the same as I had at the gate. |
 | demoralize | 使士气瓦解；使丧志 | I guess it's supposed to demoralize the men, having to wear a dress. |
-| naively | —（本章无此词，略） | — |
 
 ### ⭐ 基础
 
