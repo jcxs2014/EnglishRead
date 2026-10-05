@@ -101,6 +101,41 @@ modified: "2026-10-06"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| nightstand | 床头柜 | With a groan, I turn to my other side and sweep it off my nightstand, trying to pry one of my eyes open because they’re glued shut. |
+| comprehending | 理解（此处指脑子读不懂那些字） | I blink a few times and stare at the screen, my brain not comprehending the words I’m reading. |
+| tear-stricken | 泪痕满面的 | Raven gasps when she takes in my tear-stricken face. |
+| encouraging | 打气的 | Raven and Addie wrap their arms around me, telling me how sorry they are and saying encouraging words. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| bothering | 打扰 | Who the heck is bothering me so early on a Saturday morning? |
+| debating | 犹豫（此处指他打了又删） | It takes a long time, as though he’s either texting something and erasing, or debating whether he should send it or not. |
+| grimaces | 皱起脸（一副不想被打扰的样子） | After glancing at the clock on the wall, she grimaces. |
+| deluding | 自欺 | Was I deluding myself all this time? |
+| disbelief | 不信 | Her eyes move rapidly across the screen as she reads the texts, her jaw falling open in disbelief. |
+| riddance | 摆脱（此处指把之前的事当作已经摆脱） | If he thinks he can just break up with you over text, good riddance. |
+| insisted | 坚持（此处指他说是她逼他说的） | Axel: I didn’t want to be a jerk, but you insisted so here goes. |
+| squeezing | 挤紧（此处指她闭紧眼睛） | I nod, squeezing my eyes shut. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| explanation | 解释 | Sophie: I deserve an explanation, Axel. |
+| phone beeps | 手机响了一声 | My phone beeps on Saturday morning. |
+| best friends | 最好的朋友 | I feel so rotten, but having my best friends here with me makes me feel better. |
+| different kind | 另一种类型 | A different kind of girl? |
+| nightmare | 噩梦 | It feels like a nightmare. |
+| right guy | 对的人 | You’ll meet the right guy one day. |
+| scholarship student | 拿奖学金的学生 | But you’re just a scholarship student. |
+| tidal wave | 海啸般的巨浪 | It feels like a tidal wave crashes over me, leaving me gasping for air. |
+
 ## 一句话总结
 
 她在七点三十一分以为是早安短信，等到的是一场用短信办完的分手；而她赢下赌局的方式，是把这场失去算成了对书的一次胜利。
