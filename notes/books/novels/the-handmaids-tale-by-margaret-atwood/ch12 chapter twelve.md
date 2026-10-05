@@ -53,8 +53,8 @@ modified: "2026-10-05"
 > **原句 6:** Four digits and an eye, a passport in reverse. It’s supposed to guarantee that I will never be able to fade, finally, into another landscape. I am too important, too scarce, for that. I am a national resource.
 
 - **中文理解**：「四位数和一只眼睛——一本倒过来的护照。它 supposedly 保证我永远无法淡出，最终融进另一片风景。我太重要、太稀缺，做不到那个。我是一种国家资源。」
-- **关键词**：a passport in reverse · fade into another landscape · a national resource
-- **为什么这样写**：护照用来出入国境，刺青却用来禁止失踪——文件的方向被倒转，人成了货单上的编号。fade into another landscape 是全书最诗意的失踪愿望，而它被一双刺青当场作废。national resource（国家资源）四个词完成最后一次物化：矿产、油田、子宫，同属一份资产负债表。
+- **关键词**：a passport in reverse · fade, finally, into another landscape · a national resource
+- **为什么这样写**：护照用来出入国境，刺青却用来禁止失踪——文件的方向被倒转，人成了货单上的编号。fade, finally, into another landscape 是全书最诗意的失踪愿望，而它被一双刺青当场作废。national resource（国家资源）四个词完成最后一次物化：矿产、油田、子宫，同属一份资产负债表。
 - **读者视角提示**：记住「倒过来的护照」。她的每一件随身物——刺青、代币、白翼——都是一种不许她离开的文件。
 
 > **原句 7:** I tear off a corner of the paper napkin, wrap the butter in it, take it to the cupboard and slip it into the toe of my right shoe, from the extra pair, as I have done before.

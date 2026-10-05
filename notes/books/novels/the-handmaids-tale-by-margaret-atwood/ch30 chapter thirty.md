@@ -10,8 +10,8 @@ modified: "2026-10-05"
 - **场景·时间**：夜里窗前——第十一部（Night）；本书著名的「自创祷文」章。
 - **一句话概括**：夜为什么是「落」而不是「升」——她的语法神学从天象开始；窗下 Nick 的脸与「同样的饥饿」被窗帘隔断；一个一加不出四个一——Nick 与 Luke 无法互换；逃亡前夜的猫：先在心里造出 it 再动手；被出卖的瞬间像从顶端剪断的电梯；祷告课练的是「空」——如今她坐在窗边重写主祷文：天国在内、地狱自造；最后一句是裸的呼救：我该怎么活下去？
 - **情感弧线位置**：全书情感的最深井——从形而上的夜（语言的神学）到猫之死（被迫的内杀），到祷文的夺权（重写主祷文），再到真空中的呼救。
-- **叙事手法**：主祷文的逐句戏仿（daily bread／forgiveness／temptation／deliver us／Kingdom, power, glory）；猫之死的行政语法（create an it）；Centre 祷词的营房美学（Anglo-Saxon tomb carving）。
-- **线索进展**：① 一与一不能相加——ch29 数学笑话的哭版；② 猫之死——「他们强迫你在自己心里杀人」；③ 出卖——net for the unwary 的举报经济（gold star）；④ 记忆的蒸发——faces like burning paper；⑤ 祷词工艺：emptiness training（先掏空再灌装）；⑥ 她的新祷文：Heaven for them, Hell for ourselves——自制神学的完工。
+- **叙事手法**：主祷文的逐句戏仿（daily bread／forgiveness／temptation／deliver us／Kingdom, power, glory）；猫之死的行政语法（create an it）；Centre 祷词的营房美学（something Anglo-Saxon, carved on a tomb）。
+- **线索进展**：① 一与一不能相加——ch29 数学笑话的哭版；② 猫之死——「他们强迫你在自己心里杀人」；③ 出卖——net for the unwary 的举报经济（gold star）；④ 记忆的蒸发——as if the paper's burning；⑤ 祷词工艺：emptiness training（先掏空再灌装）；⑥ 她的新祷文：Heaven for them, Hell for ourselves——自制神学的完工。
 
 ## 精读
 

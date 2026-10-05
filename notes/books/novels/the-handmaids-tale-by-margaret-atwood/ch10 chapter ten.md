@@ -41,7 +41,7 @@ modified: "2026-10-05"
 - **中文理解**：「我们照常生活，靠的是忽略。忽略不是无知——你得下功夫才能做到。」
 - **关键词**：by ignoring · isn’t the same as ignorance · you have to work at it
 - **为什么这样写**：一句话完成一组区分：ignorance（无知）是状态，ignoring（忽略）是动作——而且是有工资的那种动作。you have to work at it 把「装看不见」写成一份全职工作：报纸上的尸体、街上的新规，全都需要她按日投入注意力去绕开。共谋在本书里从来不是麻木，是勤奋。
-- **读者视角提示**：与 ch09 的「valid objects 的区分术」连读：她一边被迫学会忽视，一边强迫自己看见——两份工作同时开工。
+- **读者视角提示**：与 ch06 的「valid objects 的区分术」连读：她一边被迫学会忽视，一边强迫自己看见——两份工作同时开工。
 
 > **原句 5:** Nothing changes instantaneously: in a gradually heating bathtub you’d be boiled to death before you knew it.
 

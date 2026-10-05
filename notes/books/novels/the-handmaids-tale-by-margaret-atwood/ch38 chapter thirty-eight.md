@@ -8,7 +8,7 @@ modified: "2026-10-05"
 ## 本章导航
 
 - **场景·时间**：Jezebel's 的女厕休息间——十五分钟的紫卡；Moira 的完整口述（越狱、地下铁路、被截、Jezebel's 的现状）。第十二部（Jezebel's）核心章。
-- **一句话概括**：卸妆间里 Moira 一件件拆穿自己的下落：从 Centre 出走、靠贵格会地下铁路（Underground Femaleroad）藏了八九个月、在缅因州离边境一步之遥被抓——然后是 Colonies 的宣传片、被裁定 too dangerous、选了这里；她的语气里出现 indifference；她坦白想给她续写英雄结局（blow up Jezebel's with fifty Commanders inside it）——但没有，再没见过她。
+- **一句话概括**：卸妆间里 Moira 一件件拆穿自己的下落：从 Centre 出走、靠贵格会地下铁路（Underground Femaleroad）藏了八九个月、在缅因州离边境一步之遥被抓——然后是 Colonies 的宣传片、被裁定 too dangerous、选了这里；她的语气里出现 indifference；她坦白想给她续写英雄结局（she blew up Jezebel's, with fifty Commanders inside it）——但没有，再没见过她。
 - **情感弧线位置**：全书情感的分水岭——重逢的欢喜在口述中段开始漏气：她想要的 gallantry（侠气）与 Moira 的疲惫互为索债；「It's a way of keeping her alive」是本章的钉子。
 - **叙事手法**：口述框架的自供（记不全、分两次、补齐成文——叙事的诚实条款）；「无Marks」的留白（All I can say is they didn't leave any marks）；她的愿望与事实的并置收尾。
 - **线索进展**：① Underground Femaleroad 的组织学：单线联络、邮局内线、邮袋渡桥——那位司机上了 Wall；② Colonies 的档案：清理尸体/毒物三年、Discards、约四分之一是男性；③ Aunt Lydia 的 enjoy（love the sinner 话术下的施虐快感）；④ 她对 Moira 的要求被自己戳穿（Something I lack）；⑤ Jezebel's 的名字与 Butch paradise——Aunts 放弃了她们；⑥ 结局悬置：I never saw her again。

@@ -11,7 +11,7 @@ modified: "2026-10-05"
 - **一句话概括**：司仪 Commander 满身勋章像老橄榄球教练，麦克风把他的嗓音削成金属；女儿由母亲嫁出（十四岁起 Start them soon）；他自我辩护：从前是肉类市场、硅胶与挨饿——This way they all get a man——她只答一个词：Love；经文念到 Saved by childbearing；Moira 隔着厕所板骂出 camaraderie 的真相，墙上的 Aunt Lydia sucks 像山头的旗；散场时 Ofglen 摊牌：我们知道你在单独见他——find out and tell us。
 - **情感弧线位置**：婚礼的空洞与她内心的双层渗透（对仪式的贬损想象／对 Moira 脏话的迟来认同）交叠；结尾耳语把同盟变成任务。
 - **叙事手法**：司仪嗓音的金属化（his voice is metal-coloured, horn-shaped）；婚礼市场的经济学辩护；炉边笑话（Is anything wrong, dear?）与厕所墙刻（Aunt Lydia sucks）互为雅俗两级。
-- **线索进展**：① 白翼女儿的记忆时限——三五年后她们 won't remember（过渡一代论的少女版）；② Commander 的「从前更糟」论与 Love 的反问；③ 修女改宗者——too dangerous for positions of power；④ Moira 的性污名玩笑——她从 wimp 到承认 It does so do good；⑤ Ofglen 的组织已掌握私会情报——任务下达。
+- **线索进展**：① 白翼女儿的记忆时限——三五年后她们 won't remember（过渡一代论的少女版）；② Commander 的「从前更糟」论与 Love 的反问；③ 修女改宗者——too dangerous for positions of such power；④ Moira 的性污名玩笑——她从 wimp 到承认 It does so do good；⑤ Ofglen 的组织已掌握私会情报——任务下达。
 
 ## 精读
 

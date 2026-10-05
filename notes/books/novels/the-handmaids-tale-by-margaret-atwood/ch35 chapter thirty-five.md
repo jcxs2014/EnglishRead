@@ -40,7 +40,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「上帝就是爱，他们从前这么说；可我们把它倒了过来——爱，像天堂一样，永远就在下一个街角。」
 - **关键词**：God is love · we reversed that · just around the corner
-- **为什么这样写**：一句神学被她倒转成消费主义心理学：爱从本体（上帝是爱）降格为许诺（爱在下个街角）——永远邻近、永不抵达。just around the corner 是广告的时间学：幸福总在下一件商品里。这句与 incarnation 的等待（we were waiting for the incarnation）相连：她们等的爱从未成肉身。
+- **为什么这样写**：一句神学被她倒转成消费主义心理学：爱从本体（上帝是爱）降格为许诺（爱在下个街角）——永远邻近、永不抵达。just around the corner 是广告的时间学：幸福总在下一件商品里。这句与 incarnation 的等待（We were waiting, always, for the incarnation）相连：她们等的爱从未成肉身。
 - **读者视角提示**：与 ch30 的自创祷文、ch25 的 Vogue 不朽许诺连读：这是她对旧世界信仰结构最完整的一次清算。记住 reversed——她连上帝的语法都敢倒装。
 
 > **原句 5:** These things you did were like prayers; you did them and you hoped they would save you. And for the most part they did. Or something did; you could tell by the fact that you were still alive.

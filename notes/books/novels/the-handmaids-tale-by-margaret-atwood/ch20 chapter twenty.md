@@ -11,7 +11,7 @@ modified: "2026-10-05"
 - **一句话概括**：Janine 躺在主人床上分娩，妻们为「她的」胜利提前喝醉；Aunt Lydia 称她们是过渡的一代——她补上没说出口的下半句：因为后来的人不再有别的记忆；Centre 的电影课把强奸片与女权示威剪成同一卷教材（TAKE BACK THE NIGHT）；母亲的声音越过银幕——三十七岁生的你、Aged Primipara 的怒火、男人是女人制造别的女人的策略；最后是女儿的招供：我想让一切回来，但这个想要没有用处。
 - **情感弧线位置**：母女之章——隔着一卷被审查的胶片完成迟到的相认；愤怒、滑稽与悲伤轮转，结尾的「没有用处的想要」是全书最干净的哀悼。
 - **叙事手法**：声音蒙太奇（Aunt Lydia 的两句话／母亲的长篇独白／妻们的欢呼）；审查的物证（蜡笔涂黑的名字、被留下的标语）；母亲的话以无引号的自由转述直接嵌进叙述。
-- **线索进展**：① 分娩日的阶级地理：楼上（产床）与楼下（自助餐）的两种待遇；② Commander 的缺席与晋升计算；③ 「过渡的一代」——政权对记忆的清除计划（后来的人 will accept with willing hearts）；④ Unwomen 纪录片的审查逻辑：她们喊的口号不许被听见；⑤ 母亲的档案：三十七岁独身生育、被老友骂 pronatalist、Aged Primipara 的病案侮辱；⑥ 母女旧伤：I am not your justification for existence。
+- **线索进展**：① 分娩日的阶级地理：楼上（产床）与楼下（自助餐）的两种待遇；② Commander 的缺席与晋升计算；③ 「过渡的一代」——政权对记忆的清除计划（后来的人 will accept their duties with willing hearts）；④ Unwomen 纪录片的审查逻辑：她们喊的口号不许被听见；⑤ 母亲的档案：三十七岁独身生育、被老友骂 pronatalist、Aged Primipara 的病案侮辱；⑥ 母女旧伤：I am not your justification for existence。
 
 ## 精读
 
@@ -47,7 +47,7 @@ modified: "2026-10-05"
 
 - **中文理解**：「他们要我们听见尖叫、哼声与嘶喊——据说是极度的痛苦，或极度的快乐，或两者同时；但他们不要我们听见 Unwomen 在说什么。」
 - **关键词**：the screams and grunts and shrieks · extreme pain or extreme pleasure · what the Unwomen are saying
-- **为什么这样写**：审查的声响学：暴力片开声轨（恐惧是合法饲料），女权纪录片消音（观念是危险品）。either pain or pleasure or both 的含混正中下怀——无法分辨的尖叫是最好的教材。两相比对，政权的知识管理制度全部暴露：它不怕你看见暴力，只怕你听见论证。
+- **为什么这样写**：审查的声响学：暴力片开声轨（恐惧是合法饲料），女权纪录片消音（观念是危险品）。either extreme pain or extreme pleasure or both at once 的含混正中下怀——无法分辨的尖叫是最好的教材。两相比对，政权的知识管理制度全部暴露：它不怕你看见暴力，只怕你听见论证。
 - **读者视角提示**：与 ch15 的上锁《圣经》连读：能出声的与必须消音的，共同构成这个政权的听力配给。
 
 > **原句 6:** The camera pans up and we see the writing, in paint on what must have been a bedsheet: TAKE BACK THE NIGHT.

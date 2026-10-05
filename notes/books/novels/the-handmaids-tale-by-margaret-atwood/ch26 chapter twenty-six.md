@@ -27,7 +27,7 @@ modified: "2026-10-05"
 - **中文理解**：「人只会嫉妒那种拥有你自认为本该属于自己的东西的人。尽管如此，我还是嫉妒了。」
 - **关键词**：jealous of someone · ought to have yourself · Nevertheless I was jealous
 - **为什么这样写**：她先给嫉妒下一份冷静的学术定义（嫉妒需要「应得感」作燃料），然后 Nevertheless 三个词当场违反自己的定义——嫉妒不讲道理，它自带领地。这句话的诚实在于结构：先立论再自破，她连情绪都要走一遍法律程序，最后还是输给情绪。
-- **读者视角提示**：与 ch03 的 reproach and necessity 连读：妻—使女关系新增一层——不只是耻辱与必需，还有「本该属于我」的生育权之争。
+- **读者视角提示**：与 ch03 的 a reproach to her; and a necessity 连读：妻—使女关系新增一层——不只是耻辱与必需，还有「本该属于我」的生育权之争。
 
 > **原句 3:** I was taking something away from her, although she didn’t know it. I was filching.
 
