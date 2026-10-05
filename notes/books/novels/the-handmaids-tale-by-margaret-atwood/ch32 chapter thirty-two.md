@@ -22,7 +22,7 @@ modified: "2026-10-05"
 - **为什么这样写**：Rita 切出的萝卜花被命名成祭品：Aztec（阿兹特克）的心脏是献给神的活祭——厨房的摆盘瞬间接通人祭的谱系。四个词的短句放在段尾像刻印：这个体制的日常美学（装饰、礼仪、供应）底下，全是待宰的心脏。她自己就是其中一颗。
 - **读者视角提示**：与 ch21 的 Smell of matrix、ch08 的黑罐葬礼连读：本书的「日常物件」总是通向献祭。记住这颗心脏——它为整章的火柴与炉子备好了温度。
 
-> **原句 2:** She rolls her eyes to the ceiling, as if consulting silently some deity there. Then she sighs, rises heavily, and wipes her hands with ostentation on her apron, to show me how much trouble I am.
+> **原句 2:** Rita rolls her eyes to the ceiling, as if consulting silently some deity there. Then she sighs, rises heavily, and wipes her hands with ostentation on her apron, to show me how much trouble I am.
 
 - **中文理解**：「她翻起眼睛望向天花板，像在无声地咨询那里的哪位神明。然后叹气，沉重地起身，把双手在围裙上夸张地擦——擦给我看：我给她添了多大的麻烦。」
 - **关键词**：consulting silently some deity · with ostentation · how much trouble I am
