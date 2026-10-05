@@ -33,7 +33,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 三步递减：先承认自己需要一样东西来转移注意，再给出不给的两种后果，末尾用孤零零一个 Or normal 把上一句的自我辩护再拆一次；again 被塞在句中当插入语，强调的不是次数，而是"她清楚自己会反复想"。
 
-**读者视角提示：** 这是全章唯一一次 Elsa 以身体感受的方式出现——她本人没有出场，出场的只有触感。
+**读者视角提示：** 这是全章第一次让 Elsa 以身体感受的方式出现——她本人没有出场，出场的只有触感。
 
 > **原句 3:** "“It’s another puff piece. You ever heard of Brad Drill?” Frannie shakes her head. “He’s some ghost hunter with a popular TikTok. They’ve given him a twenty-minute spot, and he’s going to the House of Death to interview one of the tenants.”"
 
@@ -140,4 +140,4 @@ modified: "2026-10-05"
 
 ## 一句话总结
 
-一次街市、一次蹭上的行程和一张买下来的老电影碟，让她整晚都在给自己找不去想一个人的理由——而每一次理由的末尾，她都说了反话。
+一次街市、一次蹭上的行程和一张买下来的老电影碟，让她一整天都在给自己找不去想一个人的理由——而每一次理由的末尾，她都说了反话。

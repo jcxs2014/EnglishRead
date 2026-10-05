@@ -37,7 +37,7 @@ modified: "2026-10-05"
 
 > **原句 3:** "Michael whispers the whole way, and even though she can’t see him, she can feel the way he’s practically vibrating with excitement. Holding the tablet, he feels a little buzzier than normal."
 
-**中文理解：** 她牵着一个看不见的孩子穿过九层，他一路压着嗓子说话；她看不见他的脸，只"感觉得到"他整个人在兴奋地震动，而那只握在手里的平板比平时更麻手。
+**中文理解：** 她牵着一个看不见的孩子穿过九层，他一路压着嗓子说话；她看不见他的脸，只"感觉得到"他整个人在兴奋地震动；而那块平板握在**他**手里，他自己说今天格外麻手。
 
 **关键词：** vibrating / buzzier
 
@@ -61,7 +61,7 @@ modified: "2026-10-05"
 
 **关键词：** empty-nesting / shackling
 
-**为什么这样写：** 四个短项连着排下来（没有X、没有Y、没有Z、永远是孩子），把"缺失"写成一张清单；随后一个分号把清单接到结论上，结论里那个动词把前面那个"永远"换成了具体动作——不是"陪着"，是"拴住"。
+**为什么这样写：** 四个短项连着排下来（没有X、没有Y、没有Z、永远是孩子），把"缺失"写成一张清单；随后一句把清单收到结论上，结论里那个动词把前面那个"永远"换成了具体动作——不是"陪着"，是"拴住"。
 
 **读者视角提示：** 她怕的是没有以后，而 Frannie 想要的恰恰是把现在拉到没有尽头。
 

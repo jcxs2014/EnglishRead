@@ -57,7 +57,7 @@ modified: "2026-10-05"
 
 > **原句 5:** "Bridgette unlocks it with her ghost powers and Frannie’s body disappears."
 
-**中文理解：** 一扇小服务门被"鬼的能力"打开，她的身体跟着消失。门是旧的、锁是普通的，能力只作用在人身上。
+**中文理解：** 一扇她从没留意过的小服务门，被 Bridgette 用鬼的能力解开；随后消失的是她自己的身体——门是旧门，开门的却不是人手。
 
 **关键词：** ghost powers / disappears
 

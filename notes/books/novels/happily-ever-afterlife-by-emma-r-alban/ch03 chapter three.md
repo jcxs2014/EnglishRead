@@ -81,7 +81,7 @@ modified: "2026-10-06"
 
 **关键词：** spine / rarely manages to use it
 
-**为什么这样写：** 两句结构对称，只把肯定换成否定；前半句像在替她庆祝，后半句立刻把这份庆祝按回原形。spine 这个词接着上一章地下室里 Michael 的那句反问和 Frannie 的自答而来，是同一根骨头。
+**为什么这样写：** 两句结构对称，只把肯定换成否定；前半句像在替她庆祝，后半句立刻把这份庆祝按回原形。spine 这个词接着她本人那句 "you have no spine when it comes to Bridgette" 而来——和更早那位 Hot Ghost Mom 骂她 spineless 是同一根骨头。
 
 **读者视角提示：** 本章她刚跟那位鬼妈妈正面顶过一次，用的正是这句自称——所以这句自嘲既是胜利，也是让步。
 

@@ -23,7 +23,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** fits her perfectly 与 doesn’t feel like her at all 被 but 直接对撞；同一件连体衣在量体上是满分，在归属上是零分——而本章接下来整晚要写的，就是她能不能在这件衣服里当自己。
 
-**读者视角提示：** 镜子是本章唯一一件家具，读者看到的和她看到的是同一样东西。
+**读者视角提示：** 镜子是这间浴室里她唯一一样会照见自己的东西，读者看到的和她看到的是同一样东西。
 
 > **原句 2:** "Frannie hopes so. Right now, it feels like she’s playing dress-up and is about to perpetrate the world’s biggest fraud."
 

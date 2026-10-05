@@ -53,7 +53,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 她把话题从小说里的角色轻轻挪到"当年真的我们"，代词一换，几十年的距离被一句话抹平；末了半句 holding there 把时间也按住——这一刻不结束。
 
-**读者视角提示：** 本章两个人共享同一段来路的时刻出现在这里；Frannie 什么都没回，作者让这场戏停在那句轻描淡写的对答上，越轻越重。
+**读者视角提示：** 本章两个人共享同一段来路的时刻出现在这里；Frannie 并没有把话接下去，作者让这场戏停在两句轻描淡写的对答上，越轻越重。
 
 > **原句 5:** "Frannie nods and flips to the start of the manuscript, ignoring the little frisson of pleasure that cuts through her at the simple act of sitting here with this woman—ghost—and talking like this."
 

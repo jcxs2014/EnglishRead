@@ -63,11 +63,11 @@ modified: "2026-10-05"
 
 **为什么这样写：** 一个 `but` 把"拒绝"当场翻成"替换"，句子结构本身在演示她怎么处理亏欠。结尾故意用 `whatever it is they do` 收住——那些早晨她们在做的事（`They’re making sure Mr. Wurch’s toast is burnt and loosening every connector in his bathroom so it’ll keep leaking`）她这句话里还不知道，读者要到下一段才知道，省略号那一下是卖关子，不是含糊。
 
-**读者视角提示：** 她答应的是"每天早上"，而本章的下午已经交给 Elsa；这一句把她的时间切成了两半。
+**读者视角提示：** 她答应的是"每天早上"，而本章的上午后来交给了 Elsa；这一句把她的时间切成了两半。
 
 > **原句 6:** "Elsa smiles down at her, her eyes sparkling, and Frannie’s heart actually skips a beat. There must be a way to get them out. To stay with them, somehow. She’s not ready to give them up."
 
-**中文理解：** 因为一句关于游戏输赢的玩笑（`We throw in a Monday every two months, though, to keep him on his toes.`），她真的笑了，心跳漏了一拍。紧跟着的结论却跟心跳无关：一定还有办法让他们出去，这样就能留下来，她还没准备好放弃他们。
+**中文理解：** 因为一句关于烤糊人家吐司、每周四上门报复的玩笑（`We throw in a Monday every two months, though, to keep him on his toes.`），她真的笑了，心跳漏了一拍。紧跟着的结论却跟心跳无关：一定还有办法让他们出去，这样就能留下来，她还没准备好放弃他们。
 
 **关键词：** skips a beat / not ready to give them up
 

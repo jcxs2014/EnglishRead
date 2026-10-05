@@ -7,7 +7,7 @@ modified: "2026-10-05"
 
 ## 本章导航
 
-- **一句话概括**：Henry 把 Frannie 处女作《In the Meanwhile》的装订稿递到她手上、让她签了名；她下到地下室，在配电箱前和 Elsa、Michael、Bridgette 逐一告别，随后拉开电闸——什么也没发生——抱着稿子跑回自己公寓，开门。
+- **一句话概括**：Henry 把 Frannie 处女作《In the Meanwhile》的装订稿递给她看，而她签的是名的那本留给他的副本；她下到地下室，在配电箱前和 Elsa、Michael、Bridgette 逐一告别，随后拉开电闸——什么也没发生——抱着稿子跑回自己公寓，开门。
 - **情感弧线位置**：收束前的最后一推。本章由两场告别串联而成：前半与 Henry 告别并被承认，后半与三个鬼告别并放手。情绪冲到顶后没有回落，推力留给下一章。
 - **Tropes 兑现/反转**：坦白／心意说出口在本章兑现（两次 `I love you`）；鬼魂为送她而走进机器的献身式告别同时出现。而"合闸之后毫无动静"是对灵异套路的一次反转——⚠️ **本章不交代结果**，答案要等下一章由三十年后的人补上，本章不得断言成败。
 - **人物弧线**：Frannie 从讨好型（`people pleasing dies hard`）挪到一次主动索取（要求签在她的书上），再挪到把结局押在"相信"上——她终于不再等别人替她认证。Henry 从压她稿子的老板，转成把她名字写进致谢第一行的人。
@@ -87,7 +87,7 @@ modified: "2026-10-05"
 
 > **原句 8:** "This is either going to be the beginning of the greatest love story of her life—the rest of her meanwhile, her beautiful forever—or it will be the end of it all together."
 
-**中文理解：** 全书倒数第二句把成败压成两个并列的可能：要么是最美的开始，要么是一起的结束。
+**中文理解：** 全书倒数第三句把成败压成两个并列的可能：要么是最美的开始，要么是一起的结束。
 
 **关键词：** either … or
 
