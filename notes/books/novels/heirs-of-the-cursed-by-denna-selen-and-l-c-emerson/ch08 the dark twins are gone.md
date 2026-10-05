@@ -74,7 +74,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 注意这里的 scout 是序章里那个被国王扔进鬼城的年轻人。本章的读者若已读完序章，会立刻认出；这也解释了他为何在 ch03 酒馆里被当作英雄谈论。
 
-> **原句 7:** "“Fear, like love, makes men stupid.”"
+> **原句 7:** "Fear, like love, makes men stupid."
 
 **中文理解：** "「恐惧，正如爱一样，会让人变蠢。」"
 
@@ -172,10 +172,10 @@ modified: "2026-10-05"
 | throat | 喉咙 | “Remember your place, Darcia.” His hand gripped her throat, his fingers pressing into her skin until the air rushed out of her lungs. |
 | whimpered | （此处为过去式）呜咽；抽泣 | She fell to the floor on her knees, where she whimpered from lack of air. |
 | gripped | （此处为过去式）紧握；扼住 | “Remember your place, Darcia.” His hand gripped her throat, his fingers pressing into her skin until the air rushed out of her lungs. |
-| brow | （此处指发色）眉色；棕色 | She only managed to catch a glimpse of brown hair before she was struck in the back of the knees and dragged under the water. |
 | cowards | 懦夫 | And all the soldiers that Kirus Allencort sent to the Fallen Kingdom turned out to be cowards. |
 | humanity | 人性 | She detached herself from the emotions that anchored her to her humanity and unleashed her power. |
 | yanked | （此处为过去分词）猛拽 | Her head was yanked underwater, and the burning sensation from lack of air set in. |
+| desperately | （此处副词）拼命地；不顾一切地 | She struggled, screamed at the top of her lungs and tried desperately to free herself. |
 
 ## 一句话总结
 
