@@ -7,7 +7,7 @@ modified: "2026-10-05"
 
 ## 本章导航
 
-- **一句话概括**：Naithea 借 Jehanne 的掩护溜进藏书楼查 Kirus 家史，一边听着心里那头怪物念"杀了他"，一边在发黄的页间读出王族谱系：先王 Ivarion 与王后 Saenella、先王之怒、Kirus 的铁石心肠，以及一位在祭坛前弃他而去的 First Betrothed；独眼巫师 Dyron Selmi 从暗处现身，把她读到的缺口补上——Fatis Asteria 与 Anam Cara 两种灵魂羁绊，Kirus 那一种注定是永恒的相毁。
+- **一句话概括**：Naithea 借 Jehanne 的掩护溜进藏书楼查 Kirus 家史，一边听着心里那头怪物念"杀了他"，一边在发黄的页间读出王族谱系：先王 Ivarion 与王后 Saenella、先王之怒、Kirus 的铁石心肠，以及一位在祭坛前弃他而去的 First Betrothed；独眼巫师 Dyron Selmi 再度现身（两人头一回见面是 ch09 那间没有窗的暗铺），把她读到的缺口补上——Fatis Asteria 与 Anam Cara 两种灵魂羁绊，Kirus 那一种注定是永恒的相毁。
 - **情感弧线位置**：全书**世界观第一次从"传闻"变成"文献"**的一章。此前设定靠旁白与对话给出，本章全部设定都落在**书页上**——读者与 Naithea 一样，只能通过一本残缺的书重建历史。这既提升信息密度，也把"史书是被写出来的"这件事变成情节。
 - **人物弧线**：Naithea 在本章第一次**因为求知而冒险**（连续两周溜出妓院查书），也第一次遇到能与她对等谈论禁忌的人。Dyron 则以"我知道你在做什么，但我不告发你"的方式进场——**他给她的不是答案，是方法**。而她读到自己可能的命运时，作者用一句"她的心跳得又快又重"收住，不给反应。
 - **叙事手法**：**书页—对话双轨交替**。作者让设定以两种形态同时出现：Naithea 读到的（史书，且被删改过）与 Dyron 补充的（口述，且有倾向）。两者矛盾时——"书上说 Ivarion 杀了儿子，可书里没提这桩弑逆"——**真相由第三方一句话翻转**。本章的题眼是一处**缺页**：王室试图抹掉的那位 First Betrothed 的肖像被水浸毁，作者把这处"史料空白"写成了情节。
@@ -166,4 +166,4 @@ modified: "2026-10-05"
 
 ## 一句话总结
 
-本章把全书的设定从传闻变成文献：Naithea 连续两周溜出那座酒楼、钻进 Bellmare 的藏书楼，一边听着心里那头怪物 chanting 着她不愿下的手，一边在 yellowed pages 上把 Kirus 的家世读出来——先王 Ivarion、王后 Saenella、A rather ordinary reign 之外那个 revolutionized commerce 的儿子，以及一位在 altar 前弃他而去的 First Betrothed；独眼巫师 Dyron Selmi 从书架后现身，先用"a man who crowned himself king"撇清自己的立场，再把两套婚约制度并排摆在她面前：被 Triad 裁定的结合，和比出生更早的、被 stardust 与魔法织成的 Fatis Asteria——opposing souls united by a greater destiny，destined for destruction；她说得出 their relationship 而说不下去，他替她说完，又在她以为自己已经猜到结局时点头补上六个字：A bond destined for eternity；最后他翻开那本《The Dance of the Dethroned King and the Murderous Queen》，问她一句：如果由你决定讲哪部分故事，你会不会把让你显得软弱的擦掉。
+本章把全书的设定从传闻变成文献：Naithea 连续两周溜出那座酒楼、钻进 Bellmare 的藏书楼，一边听着心里那头怪物 chanting 着她不愿下的手，一边在 yellowed pages 上把 Kirus 的家世读出来——先王 Ivarion、王后 Saenella、A rather ordinary reign 之外那个 revolutionized commerce 的儿子，以及一位在 altar 前弃他而去的 First Betrothed；独眼巫师 Dyron Selmi 再度现身（头一回见面在 ch09 那间没有窗的暗铺），先用"a man who crowned himself king"撇清自己的立场，再把两套婚约制度并排摆在她面前：被 Triad 裁定的结合，和比出生更早的、被 stardust 与魔法织成的 Fatis Asteria——opposing souls united by a greater destiny，destined for destruction；她说得出 their relationship 而说不下去，他替她说完，又在她以为自己已经猜到结局时点头补上六个字：A bond destined for eternity；最后他翻开那本《The Dance of the Dethroned King and the Murderous Queen》，问她一句：如果由你决定讲哪部分故事，你会不会把让你显得软弱的擦掉。
