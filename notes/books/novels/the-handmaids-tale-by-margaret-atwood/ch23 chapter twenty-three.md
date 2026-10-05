@@ -15,7 +15,7 @@ modified: "2026-10-05"
 
 ## 精读
 
-> **原句 1:** This is a reconstruction. All of it is a reconstruction.
+> **原句 1:** THIS IS A reconstruction. All of it is a reconstruction.
 
 - **中文理解**：「这是一次重构。全部都是重构。」
 - **关键词**：a reconstruction · All of it

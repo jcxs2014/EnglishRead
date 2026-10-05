@@ -105,7 +105,7 @@ modified: "2026-10-05"
 | ghost | 鬼魂 | This is how I know she’s not really a ghost. |
 | luxury | 奢侈；享受 | The bath is a requirement, but it is also a luxury. |
 | butter later | 留待晚些用的黄油 | I will use the butter later. |
-| bugs | 故障；虫子（get the bugs ironed out 把毛病修干净） | Before they got all the bugs ironed out. |
+| bugs | 故障；虫子（got all the bugs ironed out 把毛病修干净） | Before they got all the bugs ironed out. |
 
 ## 一句话总结
 

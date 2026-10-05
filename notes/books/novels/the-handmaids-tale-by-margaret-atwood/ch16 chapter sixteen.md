@@ -15,10 +15,10 @@ modified: "2026-10-05"
 
 ## 精读
 
-> **原句 1:** The Ceremony goes as usual.
+> **原句 1:** THE CEREMONY GOES as usual.
 
 - **中文理解**：「仪式照常进行。」
-- **关键词**：The Ceremony · as usual
+- **关键词**：THE CEREMONY · as usual
 - **为什么这样写**：一行短句独自领起全章：as usual（照常）是 ch10 那套「日常化」语法的又一次出动——暴行的常规性先于它的内容被宣布。The Ceremony 大写的 T 起头，像庆典的请柬；句子的长度与事件的重量成反比，反讽全部由排版完成。
 - **读者视角提示**：记住这句的「请柬口吻」。本章的一切骇人细节都被这句判给了日常。
 

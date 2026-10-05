@@ -106,7 +106,7 @@ modified: "2026-10-05"
 | intruder | 闯入者；入侵者 | I felt I was an intruder, in a territory that ought to have been hers. |
 | outside woman | 外面的女人（旧时对情妇的称谓） | Outside woman, they used to be called, in some countries. I am the outside woman. |
 | ignominious position | 不体面的位置 | It’s an absurd as well as an ignominious position. |
-| bun | 小圆面包（oven minus the bun 没面包的炉子） | To him I’m not just a boat with no cargo, a chalice with no wine in it, an oven – to be crude – minus the bun. |
+| bun | 小圆面包（原文以「没有面包的炉子」自嘲） | To him I’m not just a boat with no cargo, a chalice with no wine in it, an oven – to be crude – minus the bun. |
 | appointed task | 指派的任务 | Helping one another in their daily chores as they walk the path of life together, each performing her appointed task. |
 
 ## 一句话总结

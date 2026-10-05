@@ -36,14 +36,14 @@ modified: "2026-10-05"
 - **为什么这样写**：火柴的用途清单在此到达顶格：抽掉的是烟，藏起来的是引信，吞下去的是高潮，最后一个是纵火。fine（好）与 shiver（寒战）的同句并置是她的标准双声道——念头的甜与危险的凉同时入口。escape 的形态学在此齐备：快（quick）与窄（narrow）——一场只能从烟道通过的革命。
 - **读者视角提示**：与 ch17 的想偷刀、ch25 的觊觎剪子连读：军备清单的终点竟是火。记住这个念头——它未必执行，但它已经在「想」的层面完成了。
 
-> **原句 4:** We take extra letters and make words with them that don't exist, words like smurt and crup, giggling over them.
+> **原句 4:** we take extra letters and make words with them that don’t exist, words like smurt and crup, giggling over them.
 
 - **中文理解**：「我们多拿字母，用它们拼出根本不存在的词——像 smurt、像 crup——一边拼一边笑。」
 - **关键词**：extra letters · words that don't exist · giggling over them
 - **为什么这样写**：违禁游戏堕落的下一级：作弊。两个体制的既得者（他）与囚徒（她）合谋制造假词——语言的主权在笑声里被私人瓜分。smurt 与 crup 的无意义正是意义：在一切都必须为真的国度，捏造两个词就是一桩小小的政变。giggling（咯咯笑）是全书最轻的动词，出现在最重的语境。
 - **读者视角提示**：与 ch23 的 Scrabble 启幕、ch29 的 Nolite 拼写连读：文字游戏三部曲——拼真词（自由）、拼暗语（祷词）、拼假词（共谋）。记住 smurt：它是不存在的，正因为不存在才属于他们。
 
-> **原句 5:** The sex was too easy. Anyone could just buy it. There was nothing to work for, nothing to fight for.
+> **原句 5:** the sex was too easy. Anyone could just buy it. There was nothing to work for, nothing to fight for.
 
 - **中文理解**：「问题在于性太容易了。谁都能买到。没有什么可挣的，没有什么可争取的。」
 - **关键词**：too easy · Anyone could just buy it · nothing to fight for

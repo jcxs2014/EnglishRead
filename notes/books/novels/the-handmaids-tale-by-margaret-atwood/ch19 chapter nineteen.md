@@ -15,7 +15,7 @@ modified: "2026-10-05"
 
 ## 精读
 
-> **原句 1:** I’m dreaming that I am awake.
+> **原句 1:** I’M DREAMING THAT I am awake.
 
 - **中文理解**：「我正梦见自己醒了。」
 - **关键词**：dreaming · I am awake
