@@ -24,17 +24,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 注意作者把 **peacefully and securely**（安稳、踏实）**两个副词并列**——**peacefully 是"没有梦"，securely 是"有人在"**；**这两个词合起来，正好是她这一整本书想要的、而她从不敢承认自己想要的。**
 
-> **原句 2:** "On the bedside table was a glass vial of ointment for Jehanne’s wounds, a heavy bag containing over sixty gold vramnias, and an unusual object: a curved-bladed dagger. Naithea picked it up and twirled it in her fingers. The blade was part of a beautiful hilt, carved in the shape of a tiger and inlaid with gold and silver."
-
-**中文理解：** "床头柜上放着一瓶给 Jehanne 治伤用的药膏、一只装着六十多枚金币的沉袋，以及一样不寻常的东西：一把弯刃匕首。Naithea 把它拿起来，在指间转了转。那刀身连着一只漂亮的柄，雕成老虎的形状，镶着金与银。"
-
-**关键词：** a glass vial of ointment for Jehanne’s wounds · a heavy bag containing over sixty gold vramnias · an unusual object: a curved-bladed dagger · picked it up and twirled it in her fingers · carved in the shape of a tiger and inlaid with gold and silver
-
-**为什么这样写：** **这一段用"清单"的方式写情书，而清单里的顺序就是他的心。** **药膏排第一、金钱排第二、匕首排第三**——**而作者不给任何一件附上说明**，读者只能自己判断：他是什么时候来的、他走之前做了什么、**以及为什么钱排在刀前面。** 最见功力的是 **an unusual object**（一样不寻常的东西）**这个冒号**——**前面两样是"物品清单"，第三样被单独拎出来叫"不寻常"**，而这一栏的"不寻常"不在于它有刀刃，**在于它是礼物**：一个买下过她的人，把一把刀留给了她。**而 carved in the shape of a tiger（雕成老虎的形状）**——**这与全书那两道血染的老虎纹身遥遥相对**（见本章之后的词条说明）。
-
-**读者视角提示：** **twirled it in her fingers（在指间转了转）** 这个动作是全句唯一的情绪信息：**她拿起刀的方式不是恐惧，是玩味**；**而一个被伤害过的人，此刻正在转一把用来复仇的刀。**
-
-> **原句 3:** "“I met the Fiend. What he did . . .” She paused for a long moment. “He took pleasure in it.”"
+> **原句 2:** "“I met the Fiend. What he did . . .” She paused for a long moment. “He took pleasure in it.”"
 
 **中文理解：** "'我见到了 The Fiend。他做的事……'她停了很久。'他从中得到快感。'"
 
@@ -44,27 +34,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** **注意这一句的施动者是 The Fiend，受害者是 Jehanne，而本章从头到尾没有人问过她"你疼不疼"。** 全书对女性身体最克制、也最残忍的一次书写就在这里：**证据被收下了，痛苦没有被问起。**
 
-> **原句 4:** "“He was drunk, but he kept repeating a name. Somehow, he thought I was her.”"
-
-**中文理解：** "'他喝醉了，可他一直在重复一个名字。不知怎么的，他以为我是她。'"
-
-**关键词：** He was drunk · but he kept repeating a name · Somehow, he thought I was her
-
-**为什么这样写：** **全章信息量最大的一句，因为它只用三个短语就交代了一整场暴行的性质。** **drunk（醉了）** 是身体状态，**kept repeating a name（反复念一个名字）** 是行为，**he thought I was her（他以为我是她）** 是真相——**而作者用 somehow（不知怎么的）** 把最后一环的语气压成"这不该发生但它发生了"。**最关键的是这一句把 Jehanne 从"人"降级成了"替身"**——**而全书两位女主，一个被当成过替身，另一个在本章才发现自己一直被当成目标。**
-
-**读者视角提示：** **这是全书两条线第一次在情节上交叉**：那个"名字"属于另一位女主。**而 Jehanne 挨的这一拳，本质上是一位女主替另一位女主受的。** 作者在此处不说破——**它把这件事留到全书中段由预言诗来解释。**
-
-> **原句 5:** "“Does it matter, Thea? We’re hetairas!” Jehanne snapped in frustration. “Whores. Sex slaves. And they have enough money to do whatever they want with us, even kill us.”"
-
-**中文理解：** "'那有什么关系呢，Thea？我们的身份是 hetaira！'Jehanne 恼火地脱口而出。'婊子。性奴隶。而他们有足够的钱，想对我们做什么就做什么，甚至可以杀了我们。'"
-
-**关键词：** Does it matter, Thea · We’re hetairas · Jehanne snapped in frustration · Whores. Sex slaves. · they have enough money to do whatever they want with us, even kill us
-
-**为什么这样写：** **这一段用三个下定义式的短句，把一个人的社会地位写成了三句递降的判词：hetairas、Whores、Sex slaves。** 而作者让 **snapped in frustration**（恼火地脱口而出）**承担了转折**——**她不是在自怜，她是在反驳**；可她反驳的方式是**承认对方的定义成立**。最狠的是最后半句的结构：**they have enough money to do whatever they want with us, even kill us**——**"钱够"这个状语是全句的支点**：**它把杀人写成了一件可购买的商品，而"甚至可以杀了我们"里的 even 让这份购买又多加了一档。** 而开头那句 **Does it matter**（那有什么关系呢）**是全章最绝望的三个字**：**它承认了在这个世界里"关系"本身已经没有意义。**
-
-**读者视角提示：** **本句与 Naithea 下一段的回应构成本章第一组正面对撞**，而作者让两个女孩**各自用了同一个词的两端**：**Jehanne 说 we’re hetairas（用身份说话），Naithea 说 We are people（用人称说话）。**
-
-> **原句 6:** "“We are people, Jehanne. Above all, we’re people. We have to tell someone.”"
+> **原句 3:** "“We are people, Jehanne. Above all, we’re people. We have to tell someone.”"
 
 **中文理解：** "'我们是人，Jehanne。最重要的是，我们是人。我们必须告诉某个人。'"
 
@@ -74,27 +44,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** **这一段是全书的论点句，而作者把它交给了一个最没有资格说这句话的人**——一个身份由买主定义的人说"我们是人"。**本章后半段她学剑，正是为了让这句话从"说"变成"能"。**
 
-> **原句 7:** "“You can’t do this.” She shook her head. “Do you think Madame Dimond will do anything about it? Tell her business partner to keep his hands off his women? If we do, we’ll make things worse.”"
-
-**中文理解：** "'你不能这么做。'她摇了摇头。'你以为 Madame Dimond 会管这件事吗？让她去告诉她的生意伙伴别再碰他的女人？如果我们这么做，事情只会更糟。'"
-
-**关键词：** You can’t do this · She shook her head · Do you think Madame Dimond will do anything about it · Tell her business partner to keep his hands off his women · If we do, we’ll make things worse
-
-**为什么这样写：** **这一段是全书对"体制"最冷的一次解释，而它冷在一个反问上：Tell her business partner to keep his hands off his women?** **让一个妓院的主人对她的生意伙伴说"别碰你的女人"**——**作者把这句反问放在这里，等于替读者算了一遍这道数学题，而答案是明摆着的。** 而 **her business partner**（她的生意伙伴）**这五个字是全章的分水岭**：**它第一次让读者看清 The Fiend 与 Dimond 之间的关系不是主客，是合伙**——**于是受害者的唯一申诉对象与加害者共享同一个身份。** 最后 **we'll make things worse**（事情只会更糟）**用 will 而不是 can**——**这不是可能性，这是必然。**
-
-**读者视角提示：** **这一段是全书"制度性绝望"的标准写法**：**它不给解决方案，只指出路径全部封死。** 而作者让说这句话的人是**刚被施暴的那一个**——**受伤最深的人，对"反抗"最悲观**；**这比让旁观者说出来要冷得多。**
-
-> **原句 8:** "If there was one thing she’d learned, it was that appearing fragile made you weak in the eyes of others. Something Naithea Utari no longer wished to be."
-
-**中文理解：** "如果说她学到过一件事，那就是：在别人眼里，显得脆弱等于显得软弱。而 Naithea Utari 已经不再希望成为那样的人。"
-
-**关键词：** If there was one thing she’d learned · appearing fragile made you weak in the eyes of others · Something Naithea Utari no longer wished to be
-
-**为什么这样写：** **全章对 Naithea 这个人物最锋利的一次自我陈述，而它用的是一条从经验里提炼出的规则。** **appearing fragile（显得脆弱）** 这个动名词短语把"脆弱"从状态改写成**表演**——**于是"不能哭"不再是一个性格，而是一条策略。** 而 **made you weak in the eyes of others（让别人眼里你弱了）** 里的 **in the eyes of others**（在别人眼里）**把全部依据都推给了外部**：**她不在乎自己弱不弱，她在乎的是被看见的样子。** 最后 **Something Naithea Utari no longer wished to be** 用**主语前置**（Something 提到句首）**把整段收成一句判词**——**而 no longer wished（不再希望）这个说法极克制：作者没有说她变强了，只说她不再想要那个弱。**
-
-**读者视角提示：** **这一段紧接在上一段"我们必须告诉某个人"被否掉之后**——**作者用"那就不哭"这个极小的动作，替代了她刚刚被否掉的那条大路**；**而本章后半段她学剑的动机，就藏在这句 no longer wished 里面。**
-
-> **原句 9:** "That monster that whispered in her mind awoke again, but this time, she couldn’t help but embrace her deepest and darkest desires: to kill the man who had hurt her best friend."
+> **原句 4:** "That monster that whispered in her mind awoke again, but this time, she couldn’t help but embrace her deepest and darkest desires: to kill the man who had hurt her best friend."
 
 **中文理解：** "那个在她心里低语的怪物又一次醒了过来，可这一次，她情不自禁地抱住了自己最深、最暗的欲望：杀掉那个伤害了她最好的朋友的人。"
 
@@ -104,17 +54,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** **注意这一段的触发点是 Jehanne 的伤**——**本章她所有的杀意都不是为自己，是为朋友**；而作者用 **hurt her best friend**（伤害了她最好的朋友）**这个被动式收尾**，**让"复仇"这件事在语法上就不属于她自己。**
 
-> **原句 10:** "Naithea Utari left the room with a single mission in mind: to find the soldiers of the most feared and deadly army in the kingdom and make them train her as ruthlessly as they had been."
-
-**中文理解：** "Naithea Utari 带着一个单一的念头离开了房间：找到王国里最令人畏惧、也最致命的那支军队，让他们像训练自己那样毫不留情地训练她。"
-
-**关键词：** left the room with a single mission in mind · the soldiers of the most feared and deadly army in the kingdom · make them train her as ruthlessly as they had been
-
-**为什么这样写：** **全章的转折句，而作者用**一个**冒号**把一个人物直接接成一条行动指令。** **a single mission in mind**（心里只有一个任务）**这个说法本身就带着代价**：**它意味着她把本章之前的一切——告状、眼泪、朋友——全部放下了。** 而 **the most feared and deadly army**（最令人畏惧也最致命的军队）**用两个最高级并列，让"她要去找的东西"和"她怕的东西"是同一个**；**这让接下来的"走进去"变成了一件需要读者替她捏汗的事。** 最狠的是结尾的 **as ruthlessly as they had been**（像他们自己受训时那样狠）——**作者不写"好好教我"，写"按最狠的标准来"**：**她要的不是被照顾，是被当士兵。**
-
-**读者视角提示：** **紧接其后的独立成段那一句，是全书对这条线代价的最大一次明示**——**"哪怕这意味着把自己再卖一次"。** 作者把它单独排成一段，**让读者在没有上下文的情况下读到这句价格。**
-
-> **原句 11:** "By none other than a rightful heir."
+> **原句 5:** "By none other than a rightful heir."
 
 **中文理解：** "做那件事的，正是一个名正言顺的继承人，别无他人。"
 
@@ -124,17 +64,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** **这首诗是本章唯一一次"信息量超过人物"的段落**，而作者的处理是**让 Naithea 读不懂**——**下一段她"只有一些想法"（only had ideas for the words）**，**于是读者拿到全部诗篇，人物只拿到碎片。** 这个信息差，是全书目前为止最大的一次。
 
-> **原句 12:** "Among shadows and stones, the northern star will shine in the darkest times."
-
-**中文理解：** "在阴影与乱石之间，北极星将在最黑暗的时刻闪耀。"
-
-**关键词：** Among shadows and stones · the northern star will shine · in the darkest times
-
-**为什么这样写：** **全诗里唯一一句带方位与物象的描写，而它就是全书的题目。** **Among shadows and stones（在阴影与乱石之间）** 用 among（在…之中）**把两个否定性的环境词并列**——**而 among 这个词自带"混在其中、难以分辨"的含义**；**shadows（阴影）** 与全诗另一句的 **Light and Darkness** 构成呼应。**the northern star will shine in the darkest times（北极星将在最黑暗的时刻闪耀）** 用 will（将）——**这是全诗里唯一一个明确的未来时**，其余各行都在描述已经发生的事；**于是这一行成了整首诗的方向盘：黑暗是现在的状态，星光是还没到的。**
-
-**读者视角提示：** **这首歌谣在本章之后还会出现**；而读者此刻已经能感觉到：**the northern star（北极星）** 与那枚 **star-shaped pendant（星形坠子）** 是同一个东西的两面——**一个是护符，一个是预言**。作者把它们放在相邻的两段里，**却不点破**。
-
-> **原句 13:** "The star-shaped pendant beat against her chest like a tell-tale heart, but Naithea only had ideas for the words whose message she didn’t understand."
+> **原句 6:** "The star-shaped pendant beat against her chest like a tell-tale heart, but Naithea only had ideas for the words whose message she didn’t understand."
 
 **中文理解：** "那枚星形坠子在她胸口跳动，像一颗会说话的心；可对于那些字句的意思，Naithea 只不过是有一些模糊的想法。"
 
@@ -144,27 +74,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** **本章最值得注意的不是她读不懂，而是她仍然把诗带走了。** 后文她走进军营时，**读者知道她身上带着一首自己不解的预言，而她自己不知道那有多重要**——**这个落差会一直持续到全书中段。**
 
-> **原句 14:** "“There’s no mind safer than yours, Naithea Utari.” Dyron Selmi assured her. “I have entrusted you with the darkest knowledge of all to unlock, for you may be one of the only souls capable of it.”"
-
-**中文理解：** "'没有比你更稳妥的心智了，Naithea Utari。'Dyron Selmi 向她保证。'我把所有最黑暗的、待解开的知识都托付给了你，因为你或许是世上唯一有能力解开它的灵魂之一。'"
-
-**关键词：** There’s no mind safer than yours · I have entrusted you with the darkest knowledge of all to unlock · you may be one of the only souls capable of it
-
-**为什么这样写：** **全章最重的一次托付，而作者把它写成了一句商业担保。** **There’s no mind safer than yours**（没有比你更稳妥的心智）**用最高级 safe（稳妥）**——**而这个词选得极险：它看上去像在夸她的判断力，实际上它衡量的是"她会不会把这件事捅出去"。** 而 **the darkest knowledge of all to unlock**（所有最黑暗的、待解开的知识）**用 of all to unlock** 这个双重限定**把"黑暗"和"待解"绑在一起**——**意思是：这些知识本身就是锁。** 最后 **you may be one of the only souls capable of it**（你或许是世上唯一有能力解开它的灵魂之一）用 **may** 与 **one of the only**（唯一者之一）**双重弱化**——**可这恰恰是全章最高的一次抬举：老法师不是在鼓励她，是在给她一个她没资格推辞的身份。**
-
-**读者视角提示：** **这是全书"双钥匙/双魂"这条主线第一次由一个知情者明确说出口**——**而他说的是 souls（灵魂）**；**这与预言诗里的 two souls 是同一件事**。作者让一个瞎眼老法师说出全书最大的秘密，**用的却是一句轻描淡写的担保**。
-
-> **原句 15:** "In the distance, a tide of sixteen moss-green tents stretched out beneath the tops of yew, hazel and ash trees; the perfect hiding place for the thirty men who had arrived at Bellmare months ago."
-
-**中文理解：** "不远处，一片十六顶苔绿色的帐篷像潮水一样铺开在紫杉、榛树与白蜡树的树冠之下；那正是三个月前抵达 Bellmare 的三十个男人最完美的藏身之处。"
-
-**关键词：** a tide of sixteen moss-green tents · stretched out beneath the tops of yew, hazel and ash trees · the perfect hiding place · for the thirty men who had arrived at Bellmare months ago
-
-**为什么这样写：** **这一段是全书对"军队"第一次也是唯一一次的外观描写，而作者把它写成了一片风景。** **a tide of…（一片潮水般的）** 这个比喻把营地写成了**海**——**而"海"是军队的标准意象**；**十六顶（sixteen）** 与 **三十个人（thirty men）** 这两个数字让读者自己算出**一顶帐篷不到两个人**。**而三棵树名（yew, hazel and ash）** 全部是真实存在的欧洲树种，**它们唯一的作用是让这片军营看起来完全不像军营**——**作者的机位不是士兵的，是一只在林子边缘找人的眼睛。** 而 **the perfect hiding place**（最完美的藏身之处）**里的 perfect 是反讽的**：**一个"完美藏身处"同时也是"绝佳伏击点"，而她自己刚刚走进了它。**
-
-**读者视角提示：** **作者只说"藏身之处"，从头到尾没有说这是一支军队**——**士兵的身份是读者从"三十个男人""磨刀"和后面那句"clashing blades"里拼出来的。** 这与本章开头那把留在她床头的刀形成呼应：**她带着刀来找军队，而军队里正在有人磨刀。**
-
-> **原句 16:** "“I’m not joking, Leo. I need this,” Naithea remarked before facing the soldiers who were still taunting her. “And laugh all you like. You won’t be when I’m better than all of you!”"
+> **原句 7:** "“I’m not joking, Leo. I need this,” Naithea remarked before facing the soldiers who were still taunting her. “And laugh all you like. You won’t be when I’m better than all of you!”"
 
 **中文理解：** "'我不是在开玩笑，Leo。我需要这个，'Naithea 说着，转身面对那些仍在嘲弄她的士兵。'你们尽管笑。等我比你们所有人都强的时候，你们就笑不出来了！'"
 
@@ -174,37 +84,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** **she remarked（她说道）** 这个词在英语里意味着"随口说"——**作者用最轻的动词托住了全章最重的一句话**；**而前面那句 still taunting her（仍在嘲弄她）** 说明她说完这句之前，嘲笑**一直没有停过**。**她是在嘲笑声里宣布的。**
 
-> **原句 17:** "“Mistake number one.” Leonel twirled the blade in his fingers effortlessly. “Anything that is a weakness must be eliminated.”"
-
-**中文理解：** "'第一个错误。'Leonel 毫不费劲地在指间转着刀。'任何弱点都必须被清除。'"
-
-**关键词：** Mistake number one · Leonel twirled the blade in his fingers effortlessly · Anything that is a weakness must be eliminated
-
-**为什么这样写：** **全书把"教学"写成"处决指令"的最冷一次，而作者只用了两个动作。** **Mistake number one**（第一个错误）**用编号而不是命名**——**编号意味着后面还有，而读者的胃会替她数。** **twirled the blade… effortlessly（毫不费劲地在指间转刀）** 是全句真正的杀手：**他一边说"你的弱点必须清除"，一边展示自己连武器都控制得毫不费力**；**于是这条教学规则立刻具备了执行者。** 而 **must be eliminated（必须被清除）** 里的被动语态**把主语藏了起来**——**没说谁来清除**；**读者会自己填上面前这个人。**
-
-**读者视角提示：** **这一句是全书对"师徒"这个关系最冷的一次定义**——**它和本章开头那份"遗产"清单互为镜像：前面那个人留给她的是一把刀和六十枚金币，这个人给她的第一课是"你的身体是战场上的破绽"。** 而这个破绽的清单，本章后半段会由他自己逐条念出来。
-
-> **原句 18:** "“Mistake number two, love,” Ward whispered. “Not watching for further threats.”"
-
-**中文理解：** "'第二个错误，亲爱的，'Ward 低声说。'没有留意后续的威胁。'"
-
-**关键词：** Mistake number two, love · Ward whispered · Not watching for further threats
-
-**为什么这样写：** **全章最重的一次反转，而它靠的只是**把前面那条指令的编号往后挪了一位**。**"Mistake number one"是 Leonel 说的，公开的、对练中的、指责技术；而 "Mistake number two" 是同一个人从背后说的、私密的、在她已经被缴械之后说的**——**而他给的技术点评是"Not watching for further threats"（没盯着后续威胁）**：**这句话表面在讲战术，实际在讲他自己。** **love 这个称呼**在此处第一次出现在训练场上，**作者把它放在编号后面，像一句附注**；而 **whispered（低声）** 与公开的**那句形成一对：同一个人的两种音量，对应两种她读不出来的意图。
-
-**读者视角提示：** **这是全章唯一一次两条线在同一句话里合拢**——**"亲爱的"这个称呼是昨夜给的，"第二个错误"是今天教的，而 Ward 把两件事当成同一件事在处理。** 读者读得出这一点，**Naithea 读不出**；而作者用 **But each time, Ward was there to pick her up** 收尾，把这一点又轻轻按了一次。
-
-> **原句 19:** "Naithea’s cheeks flushed red. No matter how much she insisted that nothing had happened between them, that nothing ever would, Ward saw through her like an open book, as if he held the key to her heart and could glimpse her secrets and feelings."
-
-**中文理解：** "Naithea 的脸颊涨红。无论她怎样坚持说他们之间什么都没发生过、也永远不会有，Ward 却像看一本摊开的书那样把她看穿，仿佛他手里握着她心的钥匙，能瞥见她的秘密与感受。"
-
-**关键词：** Naithea’s cheeks flushed red · she insisted that nothing had happened between them · Ward saw through her like an open book · as if he held the key to her heart · could glimpse her secrets and feelings
-
-**为什么这样写：** **全章对"被看穿"写得最坦白的一段，而作者连用了两个关于书的比喻。** **saw through her like an open book（像看一本摊开的书那样把她看穿）** 里的 **through**（穿透）与 **open book（摊开的书）** 构成一个矛盾：**"摊开"意味着没有遮挡，而"看穿"意味着有**——**这个矛盾正是这一段的处境：她以为自己是敞开的，而他一直能穿过她。** 而 **as if he held the key to her heart**（仿佛他握着她心的钥匙）**把"看穿"升级成"拥有钥匙"**；**这与本章另一处他真的拿走她兵器、贴在她喉间的动作，构成一组关于"钥匙"的双关。** 最后 **glimpse（瞥见）** 这个词极克制——**他看的是一眼，不是全部**。
-
-**读者视角提示：** **注意这一段的结构：她的否认连说两遍（nothing had happened / nothing ever would），而他的回应一句都没有。** 作者用**她说得越多、读者越确定他看得越准**的落差，**把"谁在自欺"这件事从人物身上转移到了读者身上。**
-
-> **原句 20:** "But each time, Ward was there to pick her up."
+> **原句 8:** "But each time, Ward was there to pick her up."
 
 **中文理解：** "可每一次，Ward 都在那儿把她扶起来。"
 

@@ -74,17 +74,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** Triad 是三位女神（创造、守护、毁灭），Fatis Asteria 是与之并列的另一套婚约制度。**两套制度并存**是本章的设定要点，后文国王的"第七位继承人"与 Kirus 的婚约都挂在这一条上。
 
-> **原句 7:** "“They are destined for destruction,” Dyron finished for her."
-
-**中文理解：** "「他们注定走向毁灭。」Dyron 替她把话说完了。"
-
-**关键词：** They are destined for destruction · finished for her
-
-**为什么这样写：** 前一句 Naithea 刚说出"But as opposing souls . . ."（可既然是对立的灵魂……），这句话就是它的下半句——**两个人分两半说完同一件事**，"finished for her"（替她说完）这个短语把句子的归属权也交给了他。用被动式的 destined（注定）而非 will be（将会），把因果从个人身上移走：毁灭不是谁的选择，是**编制好的**。
-
-**读者视角提示：** 本句是 Naithea 第一次听到与自己直接相关的预言。她没有反驳，只在心里承认好奇更盛——**恐惧压过了警告**，这是她本章真正的选择。
-
-> **原句 8:** "“A bond destined for eternity.” He nodded."
+> **原句 7:** "“A bond destined for eternity.” He nodded."
 
 **中文理解：** "「一种注定永恒的羁绊。」他点了点头。"
 
@@ -94,27 +84,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 注意这一组呼应：destruction 与 eternity 用的是同一个词根。**"永恒"在这本书里不是祝福，是判词**——后文 Kirus 那条被判为"永恒相毁"的羁绊即是此意。
 
-> **原句 9:** "“No. Her heart belonged to someone else.”"
-
-**中文理解：** "「不。她的心属于另一个人。」"
-
-**关键词：** No · Her heart belonged to someone else
-
-**为什么这样写：** 四个字"No"独立成句，然后才给答案。作者让Dyron 先用最短的词**否决 Naithea 的前提**（她背叛了他），再补上真正的原因。而"belonged to"（属于）用的是所有权而非感情：作者不用"loved"（爱过），因为**归属是被给予的，不是自己选的**——这与第 6 块里"opposing souls"的被动语气一脉相承。全句不给那个人是谁，悬念留到读者自己往后拼。
-
-**读者视角提示：** 这是全书第一次有人明确说出"王室那个女人不爱 Kirus"。作者把它放在两套婚约制度的讨论之后，暗示**不爱是被制度逼出来的**，不是选择。
-
-> **原句 10:** "The Dance of the Dethroned King and the Murderous Queen."
-
-**中文理解：** "《被废黜之王与弑君王后的舞步》。"
-
-**关键词：** The Dance of the Dethroned King · the Murderous Queen
-
-**为什么这样写：** 一本书的标题，单独成段。作者用**大写名词 + 定冠词**排出正式史书的标题感，而标题本身是一出戏的剧目名——"Dance"（舞步）把政治事件降格成一场表演。三个关键词各有政治分量：Dethroned（被废黜）暗示他是被人夺位而非退位，Murderous（弑杀的）把罪名直接写进标题，Queen 而非 consort（王后）把她从家族关系里单列。作者让读者在读正文之前，先被标题**预设一次判断**。
-
-**读者视角提示：** 本章的历史线在此汇成两条：Kirus 之母 Saenella 毒杀先王 Ivarion 并被自己的儿子送上绞架。作者让你先读到指控，再读反驳——**顺序即修辞**。
-
-> **原句 11:** "“If you had the power to determine which parts of the story to tell, would you not erase those that made you look weak?”"
+> **原句 8:** "“If you had the power to determine which parts of the story to tell, would you not erase those that made you look weak?”"
 
 **中文理解：** "「假如你有权力决定讲哪部分故事，你难道不会把那些让你显得软弱的删掉吗？」"
 

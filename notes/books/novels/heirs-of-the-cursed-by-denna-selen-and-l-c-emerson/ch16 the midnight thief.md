@@ -62,7 +62,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 一句里完成两件事：**声音退场**（faded into）与**观察者登场**（the night aware of her presence）。作者把寂静写成"夜知道了她的存在"，等于给林子安上了眼睛与知觉，于是环境从背景变成威胁源。eerie（诡异）一词只放在结果上，过程是"缓缓褪去"——**最坏的东西都是慢慢来的**。而分词短语独立放在句尾，让这个判断在语法上悬空，读者读完会有余味。
 
-**读者视角提示：** 本句与下一块"Someone was approaching."相接构成一组：**环境先意识到，人后出现**。作者从不直接说"危险来了"，而是先让读者看见危险正在成形。
+**读者视角提示：** 本句之后紧跟着原文那句 "Someone was approaching."（有人正在接近），两句相接构成一组：**环境先意识到，人后出现**。作者从不直接说"危险来了"，而是先让读者看见危险正在成形。
 
 > **原句 6:** "The shadow caught it in mid-air."
 
@@ -74,17 +74,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 这是全书第一次把 Alasdair 的能力定调：他不出手伤人，他**截断**。后文所有关于"他到底想干什么"的悬念都建立在这五个字上。
 
-> **原句 7:** "“Hasn’t anyone ever told you to aim for the heart?”"
-
-**中文理解：** "「没人教过你瞄心口吗？」"
-
-**关键词：** Hasn’t anyone ever told you · to aim for the heart
-
-**为什么这样写：** 对方的第一句台词，**不辩解、不问你是谁，直接就技术性地点评她**。这句反问把两人关系立刻摆到同一层面：不是英雄救美，是**同行之间的挑刺**。"Hasn’t anyone ever told you"（难道没人教过你）这个虚拟式反问暗示她此举是**常事**，因此他才这么熟。而 aim for the heart（瞄心口）这个说法极其实际：她瞄的是要害，对方却批评她瞄得不对——**两个人对"打"的理解根本不在一个层次**。
-
-**读者视角提示：** 这句是 Alasdair 的说话方式定调：不奉承、不解释、只给评价。后文他每次开口都该用这把尺子核一遍。
-
-> **原句 8:** "“It’s not a title I’m fond of. People aren’t very original.”"
+> **原句 7:** "“It’s not a title I’m fond of. People aren’t very original.”"
 
 **中文理解：** "「这个称号我并不喜欢。人嘛，都没什么新意。」"
 
@@ -94,27 +84,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 本句是他"不喜欢这个称号"的第一次表达。后文他自称 Alasdair 时，可回来核对他给的是**名字还是另一个称呼**。
 
-> **原句 9:** "“Criminals shouldn’t have titles,” she spat, crossing her arms to shield herself from him."
-
-**中文理解：** "「罪犯不该有称号。」她啐道，双臂交叉把自己护住。"
-
-**关键词：** Criminals shouldn’t have titles · she spat · crossing her arms to shield herself
-
-**为什么这样写：** 她的反击用"罪犯"对应他的"称号"，语法对称；但紧跟的**分词短语揭穿了她**：crossing her arms to shield herself（抱臂自保）。作者用动作拆台台词——嘴上强硬，身体却在防御。spat（啐出）这个动词带唾沫与怒意，与他上一句的平静形成温差。**两人都没有后退，但只有一个人在防守**，这一层对比不用一个字解释。
-
-**读者视角提示：** 本章她的两句台词（第 8 块之前）与这句构成一组：**先否定、再说教、最后用身体承认害怕**。这与 ch02 那个戴 invisible but heavy 面具的 hetaira 是同一个人。
-
-> **原句 10:** "His gaze brightened at the insult."
-
-**中文理解：** "那句侮辱反倒让他的目光亮了起来。"
-
-**关键词：** His gaze brightened · at the insult
-
-**为什么这样写：** 独立成段的一句**反常反应**：被骂不该高兴，可作者写他"目光亮了"。这让 insult（侮辱）变成一种**奖品**，也顺带把读者的预期掀翻。更妙的是 gaze brightened 这个搭配把生理反应和情绪反应合并——**他的眼睛先于表情作出反应**，说明他享受这种互动，而这正是 Darcia 最初看不透、后来会怕的东西。作者不给任何解释，只留下一个亮起来的眼神。
-
-**读者视角提示：** 本章两处"被看见"都给了眼睛：他的 emerald 眼睛、还有这句亮起来的目光。**她整晚都在被眼睛看**，而她自己的读心术在这一章一次也没用——这是本章最值得留意的沉默。
-
-> **原句 11:** "“You can always call me Alasdair, if you like it better.”"
+> **原句 8:** "“You can always call me Alasdair, if you like it better.”"
 
 **中文理解：** "「你要是更喜欢，随便叫我 Alasdair 好了。」"
 

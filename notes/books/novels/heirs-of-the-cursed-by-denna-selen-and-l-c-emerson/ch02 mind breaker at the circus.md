@@ -84,27 +84,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 注意所有权："who owned the Blood Moon Circus"——马戏团是 Conrad 的，不是养父的。Darcia 所在的那个"家"，从产权上就不属于她。
 
-> **原句 8:** "In search of comfort, she brought a hand to the necklace she’d had since she was a child. The pendant that hung from the silver chain was crafted in the shape of a full moon, with a tiny gem that sparkled in the same colors of her eyes."
-
-**中文理解：** "为了寻求慰藉，她把手伸向那条自幼就戴的项链。银链上垂下的坠子被雕成一轮满月的形状，上面一颗小宝石闪着她眼睛里同样的颜色。"
-
-**关键词：** In search of comfort · crafted in the shape of a full moon · sparkled in the same colors of her eyes
-
-**为什么这样写：** 安慰物的形状被作者安排成 **full moon（满月）**——而本章她是在月夜里出门的，序章里王国的名字 Ro’i Rājya 的开头也正是一个月牙形字母。全月、月牙、月亮是同一个意象的三种写法。更细的是结尾 "the same colors of her eyes"（与她眼中相同的颜色）：宝石不是装饰，是**把她的一部分随身带着**。作者用 "crafted"（被打造）这个词，暗示它不是自然之物——**她的手不是天生就有这个**。
-
-**读者视角提示：** 下一句 "The shades of the aurora borealis."（那是极光的色彩）会揭晓宝石的颜色。作者把"安慰"这个动作拆成三步：伸手 → 描述形状 → 点明颜色。
-
-> **原句 9:** "Escaping from reality, even the most miserable souls could find a refuge."
-
-**中文理解：** "只要能逃开现实，再可怜的灵魂也能找到一处避难所。"
-
-**关键词：** Escaping from reality · even the most miserable souls · could find a refuge
-
-**为什么这样写：** 一句格言式的全知旁白，用一个条件从句把"逃离"放在首位：**先离开现实，再谈庇护**。而 "even the most miserable souls"（即便最可怜的灵魂）里的 even 承担了递进——作者真正想说的是"连最没资格的人也有份"，因为紧接着的这一段，她要借的正是这种没资格的、临时的庇护。整句是**为她下一段的行为预先给出台词**。
-
-**读者视角提示：** 本句与序章的 "Love could conquer everything, even fear, but not death." 同型：都是抽象判断句，都用 even，且都不给例证。作者在本章给了这一句旁白，读者可以留意后面还有没有第二次。
-
-> **原句 10:** "She wished she could stop feeling alone, being afraid. She wished she could be free and hold her fate in her own hands . . . But as long as Conrad was her master and kept her chained like a bloody animal, she wouldn’t. No matter how much her heart yearned for it."
+> **原句 8:** "She wished she could stop feeling alone, being afraid. She wished she could be free and hold her fate in her own hands . . . But as long as Conrad was her master and kept her chained like a bloody animal, she wouldn’t. No matter how much her heart yearned for it."
 
 **中文理解：** "她希望自己能不再孤单、不再害怕。她希望能自由，能把自己的命运握在自己手里……但只要 Conrad 还是她的主人、还像拴一头血淋淋的畜生那样把她锁着，她就不会如愿。无论她的心多么渴望。"
 

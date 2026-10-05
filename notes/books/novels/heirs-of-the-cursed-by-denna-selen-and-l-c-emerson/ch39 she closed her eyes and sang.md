@@ -34,17 +34,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** **这一句是全书她第一次主动向人公开身份**；**而作者立刻补了一句"说出来让她轻松"**——**于是这场坦白被写成了解脱，而不是冒险**；**请记住这个分寸：她是在安全屋子里做的。**
 
-> **原句 3:** "“He could betray you and hand you to the Crown to win the king’s favor.”"
-
-**中文理解：** "「他可以出卖你，把你交给王室，换国王的恩典。」"
-
-**关键词：** betray you / hand you to the Crown / to win the king’s favor
-
-**为什么这样写：** **作者让一个被保护者亲口说出"最坏的可能"**——**而她的逻辑是政治性的，不是道德性的**（**win the king’s favor**）。**于是她的担心被写成了利益计算。** 最见功夫的是 **hand you to** ——**英语里 hand 是"递交"，而作者连用了 betray 和 hand 两个动作**——**出卖（人）与移交（人），两步走完一条完整的背叛。** 而 **the Crown 用大写**——**于是它不是一个国家的口语，而是一个符号。
-
-**读者视角提示：** **这句话是全书对"信任的代价"最冷静的一次估价**；**而作者让提出它的人是最懂交易的那个（Larka）**；**于是她妹妹的那句 We can trust him 和这句形成了本章唯一一次真正的分歧。**
-
-> **原句 4:** "She’d protect them, even from herself"
+> **原句 3:** "She’d protect them, even from herself"
 
 **中文理解：** "她会保护她们，哪怕要防的是她自己。"
 
@@ -54,27 +44,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** **这一段独立成段，而下一段紧接着就是 Leonel Ramsdean was a traitor to the Crown** ——**于是这句自我设防的宣告，实践者是下一段的 Leonel。**
 
-> **原句 5:** "Yet, he didn’t have any regrets."
-
-**中文理解：** "然而，他没有任何悔意。"
-
-**关键词：** Yet / didn’t have any regrets
-
-**为什么这样写：** **作者用 Yet 放在句首，把上一段那个可怕的死法（被烧到皮掉、肉噼啪作响）压进背景**——**而这一句正面回应的是这个死法**；**于是他没后悔这件事，比他做了什么更重要。** 最见功夫的是 **didn’t have any**：**英语里 any 强调"一个也没有"**——**于是 regret 这个词被他整个否掉。** 而这一段独立成段：**于是它是 Leonel 全章唯一一次被单独评价。**
-
-**读者视角提示：** **这一句和他后面那句 “That’s not an option.” 是同一章里他对 Naithea 说的两句话**——**而他说"这不是选项"的时候，同样没有犹豫**；**请注意这一章他从头到尾没有劝过她，只做过一次选择。**
-
-> **原句 6:** "They strove to make as little noise as possible, for the presence of eleven women might attract more stares than they wished."
-
-**中文理解：** "她们努力把动静降到最低，因为十一个女人的存在会招来比她们希望的更多的注目。"
-
-**关键词：** strove to make as little noise as possible / the presence of eleven women / more stares than they wished
-
-**为什么这样写：** **作者用带 a little 的一类说法，而不是直接写"噪音"这个词**——**于是噪音被当成可量化的东西**；**而 strove（努力）表明这不是她们的强项**——**十个被关在屋里的人，突然要学会不出声。** 最见功夫的是 **the presence of eleven women**：**英语里 presence 是抽象名词，可它被 eleven women 具体化了**——**于是"危险"来自人数本身**；**而 more stares than they wished 用了一个比较级，**于是不幸不是被描述的，是被称量的。
-
-**读者视角提示：** **这一句是全书第一次给这十一个人一个数量**——**十一个**；**而本章后面还有一句 eleven brave and strong survivors；** **请记住这个数字：它会在很后面被用来算一笔具体的账。**
-
-> **原句 7:** "I don’t care if we have to burn down the whole damned city. Find her!"
+> **原句 4:** "I don’t care if we have to burn down the whole damned city. Find her!"
 
 **中文理解：** "「就算要把整座该死的城烧掉我也在乎。找到她！」"
 
@@ -84,17 +54,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** **这是 Fiend 的人第二次当着读者说要烧一座城**；**而上一章他烧的是 Dawnfall**；**请把这一句与本章最后那句 even if it meant burning the world to ashes 连读**——**同一个人的同一句话，从一座城扩到了全世界。**
 
-> **原句 8:** "If what you say is true, those monsters have been trained to memorize my scent."
-
-**中文理解：** "「如果你说的是真的，那些怪物是被训练来记住我的气味的。」"
-
-**关键词：** If what you say is true / those monsters / have been trained to memorize my scent
-
-**为什么这样写：** **作者让她用技术性的语言说自己正在被追踪**——**memorize（记住）** ——**于是气味被写成了一条需要背下来的信息**；**而 trained to memorize 这个结构把野兽的本能换成了课程。** 最见功夫的是 **those monsters** 里的 those：**英语里指示代词 those 表示"你刚提过的那一批"**——**于是她立刻接住了对方说的"狗"，换了个更远的称呼。** 而 If what you say is true 把这句话包在一个条件里——**于是她并没有确认对方说的是真的。**
-
-**读者视角提示：** **这一句是全书她第一次把自己的追踪风险说成"可对策的技术问题"**；**而她对策的方式在下一段：把自己的气味抹在城墙上**；**于是作者把她的反抗做成了对 Fiend 战术的仿写。**
-
-> **原句 9:** "“I’ll divert the trail and meet you at the harbor,” she assured them and then focused her gaze on Leonel. “You get that ship.”"
+> **原句 5:** "“I’ll divert the trail and meet you at the harbor,” she assured them and then focused her gaze on Leonel. “You get that ship.”"
 
 **中文理解：** "「我去把追踪的路引开，在码头与你们会合，」她向他们保证，然后把目光定在 Leonel 身上。「你去弄那条船。」"
 
@@ -104,17 +64,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** **这一句是全书她第一次对别人分派任务**；**而她分派的对象是那个刚刚宣布"我不是叛徒吗"的人**；**于是这一章的权力关系在这一句里彻底调了个位置。**
 
-> **原句 10:** "“There you are, little cockroach,” the man laughed. “You like to cause trouble, don’t you?”"
-
-**中文理解：** "「找到你了，小蟑螂，」那男人笑道。「你喜欢惹麻烦，是吧？」"
-
-**关键词：** There you are / little cockroach / You like to cause trouble, don’t you?
-
-**为什么这样写：** **作者把最常用的招呼语 there you are（在这儿呢）和最卑微的绰号放在同一句**——**于是这一句既是寒暄又是贬低**。最见功夫的是 **don’t you? 这个附加疑问句**：**英语里附加疑问句是确认，可放在威胁里就成了挑衅**——**而它把"你是不是喜欢惹麻烦"变成了一句明知故问。** 而 laughed 这个现在时的动词**挂在第一个分句后面，让笑贯穿了两句。
-
-**读者视角提示：** **这是全书 Fiend 的人第一次给她起绰号**；**而 cockroach（蟑螂）这个比喻选得很准**——**打不死、跑得掉、藏得住。** 请把它与 ch32 里她指认他的那句话对读：**两个人给了对方一个动物名，一个是蟑螂，一个是怪物。**
-
-> **原句 11:** "Naithea showed her teeth. “Bite me.”"
+> **原句 6:** "Naithea showed her teeth. “Bite me.”"
 
 **中文理解：** "「Naithea 露出牙齿。「咬我啊。」」"
 
@@ -124,37 +74,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** **她这句挑衅紧跟着对方"Orders to carry out"那类话**；**于是它和对方的公事口吻形成了这一章最短的一次对撞**；**而它是全书她第一次主动挑衅而不只是反抗。**
 
-> **原句 12:** "“I’d be glad to, but I have more important orders to carry out.”"
-
-**中文理解：** "「我很乐意，不过我还有更重要的命令要执行。」"
-
-**关键词：** I’d be glad to / more important orders / to carry out
-
-**为什么这样写：** **作者用 I’d be glad to（我很乐意）先把前一句的挑衅接下来**——**而 but 立刻把它取消**；**于是整句是一次假接受。** 最见功夫的是 **more important orders to carry out** ——**英语里"执行命令"那组搭配本身就带着上级口吻，而"更重要"的意思是"她排在后面"**；**于是她在这一刻被放进了一份清单里。** 而这一整句没有一个人称代词指他，**于是他的身份仍然是"那个有命令的人"。
-
-**读者视角提示：** **这一句是全书 Fiend 的人第一次在 Naithea 面前把自己的工作说成"更重要"**；**而"更重要"的另一件是把她吊在 Camdenn 城墙上**（下一段）；**请注意这个"更重要"在本章的结尾会被追平。**
-
-> **原句 13:** "She crawled across the gravel in search of her sword as she witnessed the fight between two different kinds of warriors: one created by a fraud, and the other, by the Crown."
-
-**中文理解：** "她爬过碎石去找自己的剑，同时目睹两种不同战士之间的打斗：一种由一个骗子造出来，另一种由王室造出来。"
-
-**关键词：** crawled across the gravel / two different kinds of warriors / one created by a fraud, and the other, by the Crown
-
-**为什么这样写：** **作者用 crawled（爬）写她的状态，而 a fraud（骗子）写 fiend 的来源**——**于是两个来源一个是人，一个是制度。** 最见功夫的是 **one created by a fraud, and the other, by the Crown** 这个对照：**它把两个来源放进了同一个动词里——都是"被造出来的"**；**而 by a fraud 是单数（一个骗子），by the Crown 是零数（一个制度）**——**于是这一章最核心的判断被塞进了一个介词。** 而 **gravel 这个词让爬行有了摩擦和声音**。
-
-**读者视角提示：** **这一句是全书对"Fiend 的人是什么"最冷的一次定性**；**而她是在爬着找剑的时候得出这个结论的**；**于是这个判断不是她站着想出来的，是她趴着看见的。**
-
-> **原句 14:** "Then Naithea closed her eyes and sang."
-
-**中文理解：** "于是 Naithea 闭上眼睛，唱了起来。"
-
-**关键词：** closed her eyes / and sang
-
-**为什么这样写：** **整句只有七个词，而它是全书她第一次启用那首歌的动作**——**于是作者把这一章最重要的转折压成了一个极简的动作句。** 最见功夫的是 **closed her eyes**：**英语里闭眼可以是睡觉、可以是不忍看、也可以是进入另一个感知**；**而作者偏偏不说是哪一种**——**于是读者要看下一段才知道她闭眼是为了听。** 而 **Then** 放在句首：**这个词把这一句接在上一句的失败之后**。
-
-**读者视角提示：** **她唱之前说的是 “Leo, cover your ears!”** ——**于是她给这个力量定的第一条规矩是：先用它的人要失去听觉。** 请把这一句和 ch31 末那一段六岁的记忆连读**——**那一次是她六岁时失控，这一次是她自己选择。**
-
-> **原句 15:** "A song of doom and death embraced the man, trapping him under its spell as his eyes turned white like hers."
+> **原句 7:** "A song of doom and death embraced the man, trapping him under its spell as his eyes turned white like hers."
 
 **中文理解：** "一首毁灭与死亡之歌抱住了那个男人，把他困在它的咒力之下，而他的眼睛变白，像她的一样。"
 
@@ -164,47 +84,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** **这是全书第一次出现"眼睛变白"这个症状**；**而它同时出现在施法者和被施法者身上**；**请记住它：这是本书里唯一一个"力量会传染"的证据。**
 
-> **原句 16:** "The last thing Naithea had to lose was her life."
-
-**中文理解：** "Naithea 最后一件会失去的东西，是她的性命。"
-
-**关键词：** The last thing / had to lose / was her life
-
-**为什么这样写：** **作者把这一句写成一个被彻底清空后的清单结论**——**前面刚写完 her mother, her freedom . . .** ——**于是"最后一件"是被算出来的，不是感受出来的。** 最见功夫的是 **had to lose**：**英语里 to lose 的东西应该是拥有的，而她什么都没有了，所以这最后一样东西严格来说还没"有"过**——**而作者就用这个严格的说法写了一句抒情的话。** 而这一句独立成段：**于是它被单独留了一行。**
-
-**读者视角提示：** **这一句是全书她第一次把复仇和死放在同一段里**；**而它的功能不是威胁，是**授权**——她在下一句里就真的动手了。**
-
-> **原句 17:** "For the first time, her gift stirred only once against her firm grip, before soothing and letting her regain full control."
-
-**中文理解：** "这是第一次，她的礼物只是在她牢牢抓住的地方挣动了一下，然后安静下来，让她重新取回完全的控制。"
-
-**关键词：** For the first time / stirred only once / against her firm grip / regain full control
-
-**为什么这样写：** **作者用 stirred（被搅动）写这个力量的躁动**——**stir 的本义是"搅动"，而它在这里第一次不是"暴起"，是"动了动"**。最见功夫的是 **only once**：**英文里 once 让整句话从一次战斗降到了一个动作**；**而 against her firm grip 里的 firm（牢牢的）**——**于是这个力量第一次遇到了一个握得住它的人。** 而 **soothing and letting her regain full control** 里的 letting：**于是这次是她"让它"回去的**。
-
-**读者视角提示：** **这是全书最重要的一次成长标记，而它只有一行**；**请把它与 ch31 那次（怪物连说三次 Take、不由自主地杀光闯入者）连读**——**那一次它是主人，这一次它是客人。**
-
-> **原句 18:** "“I can’t.” Naithea shook her head. “You’re my family.”"
-
-**中文理解：** "「我不能。」Naithea 摇头。「你们是我的家人。」"
-
-**关键词：** I can’t / shook her head / You’re my family
-
-**为什么这样写：** **作者把一个最长的告别压成了一句话加一个补充**——**I can’t 是拒绝，而 You’re my family 是理由。** 最见功夫的是 **I can’t 独立成句**：**英语里两个词构成的拒绝，没有任何缓冲**——**于是这一章最重的一次拒绝是被她自己的语法挡回去的。** 而 shook her head **是身体的语言而不是语言的语言**——**于是"不"出现两次，一次在手上，一次在嘴里。**
-
-**读者视角提示：** **这一句是全书她第一次为"亲情"拒绝一件对她有利的事**；**而她拒绝的是保护她们这件事本身**；**请把这一句和本章开头 Larka 说的 We always will 对读**——**姐姐要保护她，她要保护姐姐，而她选择的保护方式是让她们走。**
-
-> **原句 19:** "His skin was burned, scorched . . . The soldiers had burned him alive."
-
-**中文理解：** "他的皮肤被烧过、焦过……那些士兵把他活活烧死了。"
-
-**关键词：** His skin was burned, scorched / had burned him alive
-
-**为什么这样写：** **作者用两个被动式并排**（was burned, scorched）**——**于是"烧"这个动作没有施动者出现**；**而施动者在下一句才登场**（**The soldiers**）。最见功夫的是 **burned him alive**：**英语里 alive 这个词在烧这个动词后面，是全书最狠的三个字母**；**于是"活着的"这个状态被写成了烧的对象。** 而 **scorched 这个词比 burned 更具体**——**它是"烧焦"**——**于是他被烧了两次，一次用词，一次用形容词。**
-
-**读者视角提示：** **这是全章最后一次提及 Fiend 的人，方式不是对话，是尸体**；**而紧跟其后的独立成段的 Because of her. 才是这一章真正的判决**；**请注意作者让他死在她的店里，而不是让她撞见。**
-
-> **原句 20:** "The Commander of Death was after her and would stop at nothing until he found her, even if it meant burning the world to ashes."
+> **原句 8:** "The Commander of Death was after her and would stop at nothing until he found her, even if it meant burning the world to ashes."
 
 **中文理解：** "死亡指挥官在追她，而且会不达目的不罢休，直到找到她，哪怕那意味着把整个世界烧成灰。"
 

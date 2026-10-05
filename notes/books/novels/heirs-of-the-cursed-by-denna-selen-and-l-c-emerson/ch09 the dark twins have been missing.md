@@ -74,17 +74,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 这条规则是全书的定价基准。序章里国王要的是 their crowns（他们的王冠），上一章那条线里黑暗索要的价码是 their magic and their lives（她们的魔法与性命），本章 Ward 给的许愿代价是 what they love most（他们最爱的东西）——**三种掠夺，三个价位**。
 
-> **原句 7:** "The hairs on her arms bristled with icy dread. It wasn’t just that she’d discussed such information only with Jehanne; it was his choice of words, as though he were aware of her magic."
-
-**中文理解：** "她手臂上的汗毛因冰冷的恐惧而竖起。不只是因为那些消息她只对 Jehanne 说过；更因为他的措辞，仿佛他知道她的魔法。"
-
-**关键词：** hairs on her arms bristled · it was his choice of words · as though he were aware of her magic
-
-**为什么这样写：** 全章的**恐惧顶点**，而作者把恐惧写成**对措辞的敏感**：真正让她炸毛的不是他知道消息，而是 he were aware of her magic（他知道她会魔法）。她靠隐瞒活着，所以**语言习惯就是她的破绽**。作者用 "It wasn’t just that…; it was…" 纠正句式否掉第一个解释，换上更吓人的一个——这比直接写"她很害怕"精确得多。bristled（竖起）与 icy（冰冷的）把生理反应和心理反应同时锁定。
-
-**读者视角提示：** 本句是全书第一次有**除 Jehanne 外的人**疑似识破她的能力。注意措辞是 as though（仿佛），**是她的怀疑，不是叙述者的确认**。
-
-> **原句 8:** "“However, what are you willing to give me? Your voice?” he asked with a wicked grin tugging at his broken, blackened lips. “That dangerous power of yours that you fear so much?”"
+> **原句 7:** "“However, what are you willing to give me? Your voice?” he asked with a wicked grin tugging at his broken, blackened lips. “That dangerous power of yours that you fear so much?”"
 
 **中文理解：** "「你愿意拿什么来换？你的声音？」他咧开带着邪意的嘴，那双焦黑残破的唇被笑意扯动。「就是那种你自己都怕得要命的危险力量？」"
 
@@ -94,27 +84,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 本句揭示了本章真正的紧张所在：**她被估价的对象不是身体，是能力**。这与 ch07 那句"你不需要为之出卖身体"形成对照——她守得住身体，守不住别的。
 
-> **原句 9:** "What Leonel had witnessed in Ro’i Rājya had been so dreadful that the king had opted to send his most lethal warriors throughout the kingdom."
-
-**中文理解：** "Leonel 在 Ro’i Rājya 所目睹的一切可怕至极，以至于国王选择了把自己最致命的战士派往王国各地。"
-
-**关键词：** What Leonel had witnessed · so dreadful that · send his most lethal warriors
-
-**为什么这样写：** 一个**双重过去完成时**的长主语（What Leonel had witnessed in Ro’i Rājya had been）套在 so dreadful that 之前，作者用这个笨重的结构去**模拟那件事的重量**：它一直在场，而且先于一切判断存在。而 so dreadful that 之后的结果是"派最致命的战士"——**恐惧没有被消除，被升级成了兵力**。这是序章那场"狩猎宣言"在 Bellmare 的回声，也是全书政治机器的运转方式：坏消息进来，军队出去。
-
-**读者视角提示：** Leonel 是序章里那个被国王扔进鬼城的年轻士兵，本章他已经成了 Naithea 情报链上的第二环。**她通过 Jehanne 得到他的话，Dyron 则知道这些话**——两人同时握有她的把柄。
-
-> **原句 10:** "“That they’ve been missing for the last twenty-one years,” Dyron finished for her."
-
-**中文理解：** "「也就是说，她们已经失踪二十一年了。」Dyron 替她把话说完。"
-
-**关键词：** That they’ve been missing · for the last twenty-one years · finished for her
-
-**为什么这样写：** 本章第三次出现"替人说完话"的结构（前两次是 ch06 的 Harg、ch15 的 Dyron），这次说话的人正是 Dyron 自己——**他在这个技巧上是专家级的**。而二十一年这个数字是全章的炸弹：Naithea 只能推出"就生在我出生前后"，**说不出确数**，Dyron 一句话就替她补上。这个 twenty-one years 同时是**她年龄的底数**——作者让一个设定问题与一个人的生命长度在同一个数字上重合。
-
-**读者视角提示：** 这是全书第一次给出**可核的时间跨度**。后文每提到"失踪"都必须回到这个数字。**注意这是 Dyron 说的，不是叙述者确认的**。
-
-> **原句 11:** "“Have a good night, Miss Utari.”"
+> **原句 8:** "“Have a good night, Miss Utari.”"
 
 **中文理解：** "「晚安，Utari 小姐。」"
 

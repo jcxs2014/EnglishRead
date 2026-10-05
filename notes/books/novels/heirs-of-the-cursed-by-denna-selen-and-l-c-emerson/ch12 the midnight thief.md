@@ -74,27 +74,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 全书第二次出现"他能变成任何人"的结构。第一次是序章里 Leonel 描述鬼城里的存在，**同一个母题**——**本书里的"人"有多不可信，全靠这种句子度量**。
 
-> **原句 7:** "Horses hooves, metallic clashes of armor and hoarse sounds of rustling warned Darcia of the arrival of the soldiers before she saw their shadows in front of the store."
-
-**中文理解：** "马蹄声、铠甲的金属碰撞与沙沙作响的粗重声音，在 Darcia 看见他们投在店前的影子之前，就已告知她士兵来了。"
-
-**关键词：** Horses hooves · metallic clashes of armor · hoarse sounds of rustling · before she saw their shadows
-
-**为什么这样写：** 全章最重要的一处**感官调度**：三个声音并置（马蹄、金属、粗重沙沙声），全部是**听觉**；然后才是视觉（their shadows in front of the store）。而 before she saw（在她看见之前）这个从句把因果关系摆正了——**是声音先到，人后到**。这与 darcia 作为一个读心者、读脸者的设定形成直接冲突：**她最擅长的通道被封住了**。作者用 hoarse（沙哑的）与 metallic（金属的）分给声音质地，让她在看不见的仓库里也能"读"出对方有多少人。
-
-**读者视角提示：** 这句是全书对"**声音先行于暴力**"这个节奏最标准的一次示范。对比 ch11 里军队破门是 splintering apart（视觉：碎裂），本章军队抵达是**纯听觉**——**两章写军队，一写动静，一写声音**。
-
-> **原句 8:** "The thief moved with great speed, dragging her behind a shelf, where darkness shielded them from the approaching oil lamps and eyes."
-
-**中文理解：** "那窃贼动作极快，把她拖到一个架子后面，那里的黑暗替他们挡住了渐渐逼近的油灯与眼睛。"
-
-**关键词：** The thief moved with great speed · dragging her behind a shelf · darkness shielded them · from the approaching oil lamps and eyes
-
-**为什么这样写：** **一次行动，三重含义**：moved with great speed（飞快移动）、dragging her（拖着她）、shielded（遮挡）——**这三个动词都是保护性的，而当事人完全被动**。用 darkness 作主语来施恩（黑暗保护了他们）是一个漂亮的主语偷换：**他把她拖到身后，但作者把功劳给黑暗**。oil lamps and eyes（油灯与眼睛）——**追捕的两个元素，视觉与光源——在句尾并列出现，作者用它们把这一小片黑写成了唯一的掩体**。
-
-**读者视角提示：** 这是 thief 第一次**动作上对她好**。注意本库全书对"施恩"有一贯的写法：**先让人物做出保护动作，再让人物说明自己并非想保护**（他在威胁她别出声）。**保护与威胁在同一段里先后出现**。
-
-> **原句 9:** "“I’m sorry to have met you this way, gorgeous. I would have tried so much harder in courtship if we were under different circumstances.”"
+> **原句 7:** "“I’m sorry to have met you this way, gorgeous. I would have tried so much harder in courtship if we were under different circumstances.”"
 
 **中文理解：** "「很遗憾是以这种方式遇见你，美人。要是我们处境不同，我本可以在求爱上更用心一些。」"
 
@@ -104,27 +84,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 本句是**全书对 romance 与 violence 之间那条线唯一一次点破**。他用的词是 courtship（正式追求），不是 seduction（引诱）——**这个选择说明他并不认为自己在撒谎**。
 
-> **原句 10:** "No matter how much mortal danger there was inside the store, she’d rather face a petty thief than a skilled assassin—even one that had been so polite in her abode."
-
-**中文理解：** "不管店里有多大的致命危险，她宁愿面对一个低级窃贼，也不愿面对一个职业杀手——哪怕这个杀手刚才还在她的店里那么彬彬有礼。"
-
-**关键词：** No matter how much mortal danger · she’d rather face a petty thief · than a skilled assassin · even one that had been so polite in her abode
-
-**为什么这样写：** 作者用一个 **No matter how much…rather…than** 的比较结构做**排序**：她把窃贼与杀手放在同一架天平上称，**结论是把危险往下调**。这个排序的依据不是战斗力，而是 **polite in her abode（在她店里彬彬有礼）**——**礼貌成了她衡量危险的第一指标**。而 **petty（卑微的／小打小闹的）** 与 **skilled（老练的）** 这个对子，把两者的差别从"能力"转到"分寸"。这句是全章对 thief 最高的一次评价，也是全书对 Darcia 判别力的一次展示：**她能分辨谁危险，而且她知道自己分辨得准。**
-
-**读者视角提示：** 这也是 ch11 里 Ward 那一幕的对照：**Ward 的危险在于有分寸，而 thief 的危险在于没有分寸**。两位男主都对她彬彬有礼，**唯一的区别是其中一个有权下令**。
-
-> **原句 11:** "“We have less than three months to find the Dark Twins and deliver them to the king if we don’t want to become food for his crows. So I advise you to be cautious and not get carried away by vices.”"
-
-**中文理解：** "「我们不到三个月就必须找到 The Dark Twins、把她们送到国王面前，否则我们就会变成国王那些乌鸦的口粮。所以我劝各位谨慎些，别被欲望冲昏了头。」"
-
-**关键词：** less than three months to find the Dark Twins · deliver them to the king · become food for his crows · not get carried away by vices
-
-**为什么这样写：** 全章最大的**信息炸弹**，而作者把它塞进一个**士兵向下属的训话**里。less than three months（不到三个月）是一个**倒计时**，全书至此从未有过时限。food for his crows（成为乌鸦的口粮）用**宠物的死法**去威胁将死之人——**不给你尊严的死法**。而最后半句 not get carried away by vices（别被欲望冲昏头）表面是训诫，**底下是对妓院区的评头论足**：读者立刻明白他真正在戒指的是什么。这是一句**同时对内与对外**的话。
-
-**读者视角提示：** 本章是全书把"倒计时"这条线第一次摆上台面的地方（期限）。同时它揭示军队的处境：**士兵也怕，他们不是执行者而是耗材**——这为后面军队的被动与分裂埋下了线。
-
-> **原句 12:** "“That impulsiveness will destroy you someday, you know that?”"
+> **原句 8:** "“That impulsiveness will destroy you someday, you know that?”"
 
 **中文理解：** "「你那份冲动总有一天会毁掉你的，你知道吗？」"
 

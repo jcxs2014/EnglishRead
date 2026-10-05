@@ -74,27 +74,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 本书两个女主都有"面具"：Darcia 戴的是马戏团的面具（ch02 写过 mask 藏情绪），Naithea 戴的是这一副。两种面具都不是保护自己，而是保护生意。
 
-> **原句 7:** "Naithea always shunned them at first, wanting to sink their ego into the Ocean of the Dreaded Depths."
-
-**中文理解：** "Naithea 一开始总是先躲开他们，指望把他们的自尊心沉进那名为可怖深渊之洋的海洋里。"
-
-**关键词：** shunned them at first · sink their ego · the Ocean of the Dreaded Depths
-
-**为什么这样写：** 作者把"拒客"这一行业动作写成**一次想象中的沉船**：把 ego（自尊）沉进 Ocean of the Dreaded Depths（可怖深渊之洋）。关键在专名 Ocean of the Dreaded Depths——"Ocean" 既是海名又像地名，而 "Dreaded Depths"（可怖的深渊）本身就是海的名字，两层嵌套说明这是**这座城市的某种公共恐惧被地名化了**。讽刺在于她做这一切是为了钱，而这句比喻读起来像复仇。
-
-**读者视角提示：** 本书把地名当设定用（Bellmare、Dawnfall、Salismar Ocean、Ocean of the Dreaded Depths），第一次出现在这种心理活动里，说明恐惧已经内化成地理。
-
-> **原句 8:** "It was considered a disgrace to ask such an expensive hetaira her name."
-
-**中文理解：** "向这样一位昂贵的 hetaira 索要姓名，被认为是种侮辱。"
-
-**关键词：** considered a disgrace · to ask such an expensive hetaira her name
-
-**为什么这样写：** 一句纯规则说明，作者用**被动式的社会共识**（It was considered）来写——不是某个人的看法，是"被视为"。这句规则的作用是给下一段做合法性：士兵问了名字，所以是失礼；她给假名，所以是自保。规矩先立，行为才有意义。而 "expensive" 在这里既是价格也是等级，**花钱买不到的东西才显得贵**，她的名字正是这样一件买不到的东西。
-
-**读者视角提示：** 记住这条行业规矩——它解释了为什么 Naithea 几乎从不透露真名，也解释了为何后面那个假名 Ausra 是一件大事。
-
-> **原句 9:** "“Ausra.” The lie slipped from her lips with ease. Naithea would never reveal her true name, the one her mother had given her, for a man to tarnish it."
+> **原句 7:** "“Ausra.” The lie slipped from her lips with ease. Naithea would never reveal her true name, the one her mother had given her, for a man to tarnish it."
 
 **中文理解：** "「Ausra。」谎言从她唇间轻易滑出。Naithea 绝不会说出母亲给她的真名——绝不让一个男人来玷污它。"
 
@@ -104,27 +84,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** "tarnish"（玷污）是金属或名誉用的词，作者用它在金属语境之外的地方，等于宣告真名是她身上唯一贵重之物。
 
-> **原句 10:** "Her friends had always warned her that her curiosity would one day bring her doom, and perhaps that day had arrived at last."
-
-**中文理解：** "朋友们早就警告过她：她的好奇心终有一日会招来祸事；或许，那一天终究还是到了。"
-
-**关键词：** had always warned her · her curiosity would one day bring her doom · perhaps that day had arrived at last
-
-**为什么这样写：** 朋友们的警告用**完成时**（had always warned）写出，警告早已说过无数次，因此这一句不是预言，是**结算**。而 "perhaps"（或许）让作者保留了叙事上的暧昧：这一天到了吗？下一句马上给出"那个故事太精彩，不容错过"——**警告与渴望在同一段里对冲**，作者不替读者裁决。
-
-**读者视角提示：** 本句是本章的转折支点。往后所有动作都发生在这句之后：她本可以不接这单，但她选了故事不选人。
-
-> **原句 11:** "The story of a soldier who had saved Lên Rājya was too interesting to miss."
-
-**中文理解：** "一个拯救了 Lên Rājya 的士兵的故事，太有意思了，不能错过。"
-
-**关键词：** a soldier who had saved Lên Rājya · too interesting to miss
-
-**为什么这样写：** 独立成段的一句判断，句式极简，作者全部的力气都放在定语从句上——**那个士兵的故事**。注意作者不在这里解释"拯救"是什么事：这本书的序章已经讲过 Evrethia 鬼城里的空摇篮，而读者在第 11 行还没法确认眼前这人与那条线的距离。这句用一个 "too interesting to miss"（太interesting不容错过）把**价值判断**和**行为决策**合成一句：她决定出手，理由是内容有趣——**不是为钱，是为故事**，这是她本章唯一一次按好奇心而非按价格行动。
-
-**读者视角提示：** Lên Rājya 在序章是国王凝视窗外的敌国边缘，而在这里是被人"拯救"的对象。**两处并不矛盾，但需要读者自己拼**——这正是作者要的信息密度。
-
-> **原句 12:** "There, sitting at a secluded table under the gloom of the candlelights, two eyes as blue as the night sky glinted at her with malice."
+> **原句 8:** "There, sitting at a secluded table under the gloom of the candlelights, two eyes as blue as the night sky glinted at her with malice."
 
 **中文理解：** "那里，在烛光阴翳下的一张僻静桌旁，一双比夜空还蓝的眼睛带着恶意闪了闪，望着她。"
 

@@ -55,27 +55,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 本句与下一句 Fawke 的 **Information in exchange for their lives（用情报换命）** 是一对：**Ward 谈的是绞架，Fawke 谈的是交易**。**同一条命令，底下人已经想到怎么变现了。**
 
-> **原句 5:** "Apparently, torrid romances between dryadalis and daimonas could give rise to half-breeds with strange magic. By that reckoning, many of the Bellmarians could feel devoted to the cursed princesses."
-
-**中文理解：** "据说，dryadis（光之族）与 daimona（暗之族）之间炽烈的恋情可以生出拥有诡异魔力的混血。按这个算法，许多 Bellmare 市民都可能对那两位被诅咒的公主心怀忠诚。"
-
-**关键词：** torrid romances between dryadalis and daimonas · could give rise to half-breeds · with strange magic · By that reckoning · many of the Bellmarians · could feel devoted to the cursed princesses
-
-**为什么这样写：** 全章对**罗盘缺陷**最关键的一段，而作者用 **By that reckoning（按这个算法）** 这个短语把**设定推成结论**——**这是一次推理，而推理必然不可靠**。而 **could feel devoted（可能心怀忠诚）** 这个 could 是致命的：只要有一丝混血可能，**整座城市的人就都成了嫌疑**。**这条设定是全书"搜城必然伤及无辜"的机制来源**，而它只用了两句话。而 torrid（炽烈的）这个词选得极准——**它是感性的、情欲的、浪漫的**，而作者用它来推出一条政治结论，**两者的温度差就是本章的残酷所在**。
-
-**读者视角提示：** 记住这条：**这套"混血推定"是 Ward 自己人告诉他的**，而它会在后面造成误伤。**当一个推理公式被用来决定谁该死的时候，公式就成了罪。**
-
-> **原句 6:** "Naithea had started coloring her hair upon selling her body at the brothel, wishing to hide her past and preserve the innocence of the child she once was."
-
-**中文理解：** "Naithea 是在开始于妓院卖身那一刻染上头发的，为的是藏起她的过去，保住她曾经那个孩子的纯真。"
-
-**关键词：** Naithea had started coloring her hair · upon selling her body · at the brothel · wishing to hide her past · preserve the innocence · of the child she once was
-
-**为什么这样写：** 全章对 Naithea **最私人的一处细节**，而作者用一个 **upon（自……起）** 的介词把**染发与卖身焊在同一刻**——**这个 upon 是全句的机关**：不是"卖身之后她染了发"，是"**卖身这件事本身就是染发的起点**"。而 to hide her past 与 preserve the innocence（保住纯真）构成**一组对立**：**她要藏的是过去，要保的是不存在的东西**。**hide her past 还能做到，preserve the innocence 永远做不到——作者用一个不对等的并列把这层意思写尽了。** 而 of the child she once was（她曾经那个孩子）里的 once was（曾经是）**是全章最伤的一个词**：它标记了那个孩子**已经死了**。
-
-**读者视角提示：** 本句是全书对 Naithea 身世**最重要的一次补叙**，而且信息量极大：**她不是从小就在妓院**——她有过一个金发的童年（与她那个 Ausra＝日出 的名字同源）。**她的染发是自我抹除，而全书后文会一层层把这个孩子挖出来。**
-
-> **原句 7:** "The borealis stone on her necklace warmed against her skin; a warning that unveiled a dark and evil presence. She let out a low grunt of pain, grabbing the chain between her fingers to separate the pendant from her now burnt skin."
+> **原句 5:** "The borealis stone on her necklace warmed against her skin; a warning that unveiled a dark and evil presence. She let out a low grunt of pain, grabbing the chain between her fingers to separate the pendant from her now burnt skin."
 
 **中文理解：** "她项链上的 borelis 石贴着皮肤发热；这是一个揭露了黑暗邪恶存在的警告。她发出一声低沉的痛呼，用手指捏住链子，把那吊坠从已经灼伤的皮肤上分开。"
 
@@ -85,27 +65,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 本句是全书对 Naithea 能力机制**第一次给出可操作说明**（对比 ch13 里 Ward 问 What's that for、她答 It's for a friend 时我们还不知道那是什么）。**注意本句末尾她还把那瓶药揣在身上——她买药是为了别人，而她自己的伤是买药付的代价。**
 
-> **原句 8:** "Naithea took a step forward, setting her gaze on the darkest streets of the city. Among the shadows, two abyss-black eyes grinned at her with the patient longing of the hunt, enjoying the uneasy feeling of unsafety he’d provoked in her."
-
-**中文理解：** "Naithea 向前一步，把目光投向这座城市最黑暗的街道。在那些阴影里，两只深渊般漆黑的眼睛朝她咧嘴，带着猎人那种耐心的渴望，享受着她被他挑起的那种不安全之感。"
-
-**关键词：** setting her gaze on the darkest streets · Among the shadows · two abyss-black eyes · grinned at her · the patient longing of the hunt · enjoying the uneasy feeling of unsafety · he’d provoked in her
-
-**为什么这样写：** 全章对 **Fawke 这个角色的登场**最见功力的一笔，而作者用**四个短语堆出一个"捕食者"**：abyss-black eyes（深渊黑眼）、grinned at her（朝她咧嘴）、the patient longing of the hunt（猎人耐心的渴望）、enjoying（享受）。**这四个词构成一个完整的捕食者画像，而 Fawke 本人一个字都没说。** 而 **he’d provoked in her（他挑起的）** 这个完成分词是全句最冷的部分：**她感到的不安全是他造成的，而他在享受这个结果**。**enjoying the uneasy feeling（享受那种不安）**——**施暴者从受害者的恐惧里取乐，这一句是全书对这类人最经济的一次描写。**
-
-**读者视角提示：** 注意这双 eyes 与 ch12 那位 Midnight Thief 的 emerald glow、ch17 里 Ward 的 midnight-blue eyes 是**第三组**。**作者用"眼睛的颜色"给所有危险人物打标签，而这一组是纯黑（无光）。** 而她此刻**已经把吊坠从皮肤上拿开了**——**她明知有危险，但仍然向前一步**，这是她本章的关键动作。
-
-> **原句 9:** "Whoever had taken the heiresses of Ro’i Rājya before they were turned to stone had been clever enough to use the artifacts to hide them from even the best scouts in the Royal Army."
-
-**中文理解：** "在把 Ro’i Rājya 的两位女继承人变成石头之前夺走她们的那个人，聪明到用那些法器把她们藏了起来——藏到连皇家军最好的斥候都找不到。"
-
-**关键词：** Whoever had taken the heiresses · before they were turned to stone · had been clever enough · to use the artifacts · to hide them · from even the best scouts in the Royal Army
-
-**为什么这样写：** 全章对**"谁在藏她们"**最冷的一次表述，而作者用一个 **Whoever（无论是谁）** 起头的从句——**这个结构把一个具体的人（作者和读者都知道是谁）写成了一个不可指认的施动者**。而 **before they were turned to stone（在被变成石头之前）** 这个时间状语极狠：**"变成石头"是既成事实，而"夺走"是更早的过去**——**作者用一个更早的时间点提醒读者：事情本来可以不是这样。** 而 **had been clever enough（聪明到……）** 用过去完成时把这个人的智慧**描述成一种属性而非一次决策**——**他在很久以前就这么聪明，而他还活着。**
-
-**读者视角提示：** 本句是全书对"内部人作案"的**第一次明确表述**（护送公主的人与藏公主的人是同一方）。而 Whoever 这个词在 ch16 之后会一直悬着——**读者会自己去找那个 whoever。**
-
-> **原句 10:** "As the wizard’s body lifted off the ground, Fawke Biceus lunged at him, shattering the altar of candles, gemstones and herbs to pieces."
+> **原句 6:** "As the wizard’s body lifted off the ground, Fawke Biceus lunged at him, shattering the altar of candles, gemstones and herbs to pieces."
 
 **中文理解：** "就在巫师的身体离开地面时，Fawke Biceus 扑了上去，把那座由蜡烛、宝石与草药构成的祭坛砸得粉碎。"
 
@@ -115,17 +75,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 三支血蜡烛（每位女神一支）加上宝石与草药，构成的是**献祭台**。而这本书的献祭在 ch01 序章里就出现过（那个城市被献祭给 Kazaris）——**Dyron 的私人小祭坛，是那场大献祭的民间缩小版。**
 
-> **原句 11:** "Ward didn’t know how much longer would Dyrion Selmi resist before falling to his knees and succumbing to a darkness far more fearsome than that of dreams. Torturing people had been the first thing he’d learnt at a young age, and getting information out of his victims was a close second. He was a weapon with little time to save the princess’s life, and he couldn’t—wouldn’t—fail."
-
-**中文理解：** "Ward 不知道 Dyrion Selmi 还能撑多久才会跪下、屈从于一种比梦境更可怖的黑暗。拷问别人是他很小的时候学会的第一件事，而从受害者嘴里撬出信息紧随其后。他是一件武器，而救公主的命留给他的时间不多了；他不能——也不愿——失败。"
-
-**关键词：** how much longer would Dyrion Selmi resist · before falling to his knees · and succumbing to a darkness · far more fearsome than that of dreams · Torturing people had been the first thing he’d learnt · at a young age · getting information out of his victims · was a close second · He was a weapon · he couldn’t—wouldn’t—fail
-
-**为什么这样写：** 全章对 **Ward 这个人的底色**最彻底的一次交代，而作者用**两句"第一/第二"排序**（first thing、a close second）**把童年训练写成一份简历**——**这是全书对"驯化"写得最像解剖的一处**。而 **He was a weapon（他是一件武器）** 是全段的支点：**这个词出自 ch17 里的 turned him into a monster，本章他不再用 monster 而用 weapon——**怪物还有脾气，武器只有用途**。而最狠的是 **he couldn’t—wouldn’t—fail（他不能——也不愿——失败）** 的破折号并列：**"不能"是任务压力，"不愿"是自我要求，而作者把它们用同一个词并置**——**读者此刻还不知道：就在下一段，他就在一个 hetaira 面前放了一个人。**
-
-**读者视角提示：** 这是全书对 Ward **最重要的一次定调**，而它出现在他动手打碎一个老人的鼻梁骨之后。**"他是一件武器"这句话是自我认知，不是旁人的指控**——**这比被指控可怕得多。** 而本章的转折正是：他将在这句话之后立刻证明自己不是武器。
-
-> **原句 12:** "So the torture continued, the sound of moaning and beating being drowned out by the lively music and the clattering of citizens dancing in the square."
+> **原句 7:** "So the torture continued, the sound of moaning and beating being drowned out by the lively music and the clattering of citizens dancing in the square."
 
 **中文理解：** "于是拷问继续，呻吟与击打的声音被广场上欢快的音乐和citizens dancing的碰撞声淹没了。"
 
@@ -135,17 +85,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 本句与下一段（她冲过来喊 Enough）构成**同一个声音景观的前后两半**。**作者先让读者习惯这个"被淹没"的状态，再让一个人打破它**——**这是全书写"介入"最标准的手法：先建立噪音，再给一个干净的音。**
 
-> **原句 13:** "She’d messed with his head ever since he’d left the brothel, haunting him even when she was nowhere near. Day and night, Ward’s thoughts were consumed by her. By the rawness of her screams as the leather belt cracked down on her already scarred skin. By the torment in her face as he had uttered words that cut just as deep. And when the stars crept into the sky, when the weight of command slipped from his shoulders, he allowed himself to think of her."
-
-**中文理解：** "自从他离开妓院，她就把他的脑子搞乱了——即使她根本不在附近，也缠着他。日日夜夜，Ward 的心思都被她占满：被她那嘶哑的尖叫占满，那是皮带抽在她早已留疤的皮肤上的声音；被他自己说出的话在她脸上造成的痛苦占满，那些话割得一样深。而当星星爬上夜空，当指挥的重担从他肩上滑落，他才允许自己去想她。"
-
-**关键词：** She’d messed with his head · haunting him even when she was nowhere near · Day and night · Ward’s thoughts were consumed by her · the rawness of her screams · as the leather belt cracked down on her already scarred skin · the torment in her face · as he had uttered words that cut just as deep · when the weight of command slipped from his shoulders · he allowed himself to think of her
-
-**为什么这样写：** 全章对 **Ward 感情线最重要的一段**，而作者用**三个 By（被……占满）构成的排比**来写他脑子里被她占有的方式：**尖叫占满、痛苦的脸占满、而他允许自己想她**。而 **he allowed himself to think of her（他允许自己想她）** 是全段最重的一击——**允许（allowed）这个词把"想她"写成了一件需要批准的事**。而 **when the weight of command slipped from his shoulders（当指挥的重担从他肩上滑落）** 用 slipped（滑落）而不是 lifted（卸下）——**它是被时间带走的，不是被放下的**。**全段的结论是一个令人心碎的事实：他只有在没有人管他的时候，才可以做他自己。**
-
-**读者视角提示：** 本句是全书对 Ward **唯一一次完整的内心独白**，而它的结构（被记忆占满 → 白天黑夜 → 只有卸下重担才允许想）**说明这份感情的全部存在条件是"不被要求做任何事"。** 而本章他就违反了这个条件（他为了她放走了 Dyron）——**所以这一段是这一章的全部前提。**
-
-> **原句 14:** "“You mean cause you trouble,” Naithea corrected him. “Ruin your image as the Commander of Death. Let me make it easier for you.”"
+> **原句 8:** "“You mean cause you trouble,” Naithea corrected him. “Ruin your image as the Commander of Death. Let me make it easier for you.”"
 
 **中文理解：** "「你的意思是给你自己找麻烦，」Naithea 纠正他。「毁掉你作为 Commander of Death 的形象。让我帮你省点事。」"
 

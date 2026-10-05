@@ -54,17 +54,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** Boreaalinen 这个姓在 ch01 出现过一次（Erlina 与 Tavarious），说明这对姐妹的母亲就是序章中被石化的王后。这条血缘关系本章不解释，需要读者自己接。
 
-> **原句 5:** "“No, they aren’t.”"
-
-**中文理解：** "「不，她们不在。」"
-
-**关键词：** No, they aren’t
-
-**为什么这样写：** 全章最短的一句台词，却承载最大的信息量：它**否定了序章的全部前提**。序章里 Leonel 亲眼看到空摇篮，国王据此推断"她们从未存在过"；本章 Conrad 对养父说的却是"她们不在"——**同一件事，两种解释**。作者把这四个字单独成段，前面用一整段的否认铺垫（"The Dark Twins are in the Fallen Kingdom, Locked and petrified for eternity"），落差极大。这也让读者意识到：这本书的悬念不在"公主是不是被救走了"，而在"**谁知道她们被救走了**"。
-
-**读者视角提示：** 本句是全书第一次有人公开说"公主不在囚禁处"。谁有动机知道这件事，答案在本章后半段由 Conrad 给出。
-
-> **原句 6:** "“The king sent a scout a couple of weeks ago to inspect the ruins of Ro’i Rājya. It seems that the Dark Twins aren’t in their cradles.”"
+> **原句 5:** "“The king sent a scout a couple of weeks ago to inspect the ruins of Ro’i Rājya. It seems that the Dark Twins aren’t in their cradles.”"
 
 **中文理解：** "「几周前国王派了一名 scout 去查看 Ro’i Rājya 的遗址。似乎是那 Dark Twins 已经不在摇篮里了。」"
 
@@ -74,17 +64,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 注意这里的 scout 是序章里那个被国王扔进鬼城的年轻人。本章的读者若已读完序章，会立刻认出；这也解释了他为何在 ch03 酒馆里被当作英雄谈论。
 
-> **原句 7:** "Fear, like love, makes men stupid."
-
-**中文理解：** "「恐惧，正如爱一样，会让人变蠢。」"
-
-**关键词：** Fear, like love · makes men stupid
-
-**为什么这样写：** 一句格言，一处对偶（Fear / like love），一个通用主语（men）。作者把"恐惧"与"爱"并列成一对同类情绪，**两种让人失去判断力的力量被放在同一个句法槽位里**。而 "makes men stupid"（让人变蠢）用的是最平的动词，没有任何修饰，说明这不是需要辩解的判断，而是一条被普遍接受的经验。有意思的是，说话者是 Conrad——**全章最不聪明的那个人，却说出了最聪明的一句**。
-
-**读者视角提示：** 本句可与序章国王那句 were memories turned to dust and stone（剩下的只是化成尘与石的回忆）对读：让国王变蠢的正是他不肯承认的恐惧。
-
-> **原句 8:** "The seventh heir had died."
+> **原句 6:** "The seventh heir had died."
 
 **中文理解：** "第七位继承人已经死了。"
 
@@ -94,17 +74,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 序章里国王说"Sons were more powerful"（儿子更有用），本章的"第七位继承人已死"因此不只是悲剧，而是**一次继承权的重算**——这解释了 Conrad 为何此刻急于向国王效忠。
 
-> **原句 9:** "“No one is in danger if they have nothing to hide, Father.”"
-
-**中文理解：** "「父亲，只要没有可藏的东西，谁都不会有危险。」"
-
-**关键词：** No one is in danger · if they have nothing to hide
-
-**为什么这样写：** 一句反逻辑的台词：危险的条件不是"敌人存在"，而是"自己有把柄"。这句台词表面是诡辩，实际是**威胁的伪装**——Conrad 说这话时正站在杀人现场边上，作者让读者立刻听出双重含义。句子的骨架是条件句（if they have nothing to hide），把结论让给一个尚未成立的前提，因此它无法被反驳：只要有人藏着东西，这句话就一直有效。**用无法证伪的逻辑来威胁人**，比直接恫吓更有效。
-
-**读者视角提示：** 养父 Gion 立刻噤声。留意这句的说话顺序：Conrad 先讲道理、再动手，**威胁总是被包装成建议**。
-
-> **原句 10:** "To die turned to stone is a bitter fate that no one deserves, she thought."
+> **原句 7:** "To die turned to stone is a bitter fate that no one deserves, she thought."
 
 **中文理解：** "死时化为石头，是一种谁都不该承受的苦涩命运，她想。"
 
@@ -114,17 +84,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 本句紧接在她得知"Evrethia 一周路程之外"之后。读者应把它读成一句预言式的自况：她在同情尚未见过的死者。
 
-> **原句 11:** "“Remember your place, Darcia.”"
-
-**中文理解：** "「记住你的位置，Darcia。」"
-
-**关键词：** Remember your place
-
-**为什么这样写：** 全章暴力场面之后的第一句台词，六个词。整句的核心是 "your place"（你的位置），一个**空间化的等级概念**：他不打她"不配做某件事"，只说她"在某个位置"。这三个字把暴力翻译成秩序，让施暴者显得像在维护规矩。值得注意的是他没有叫她全名之外的名字，也没有解释规矩是什么——**等级不需要自证**。前一句问她"玩什么把戏"，这句给出判决，两句之间的落差就是暴力本身。
-
-**读者视角提示：** "Remember your place" 是本书的施暴公式。与序章国王威胁 Leonel 的方式对照：两个人都不解释规则，只宣布位置。
-
-> **原句 12:** "“You don’t want to know what I’m capable of if you make me lose money.”"
+> **原句 8:** "“You don’t want to know what I’m capable of if you make me lose money.”"
 
 **中文理解：** "「你不会想知道，要是让我亏了钱，我能做出什么来。」"
 

@@ -75,27 +75,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 这与 ch11 结尾那句 An ordinary man 应 never speak... 是同一招。**Ward 出现的方式在全书是统一的：不介绍、只出声。** 而这句话也是全书对"信仰"这个话题最锋利的一刀：**谁有权代表神，是这本书里最贵的问题。**
 
-> **原句 7:** "“Look at her like that again and your sight will become nothing but a memory,” Ward growled, his voice laced with a chilling promise of retribution."
-
-**中文理解：** "「再那样看她一眼，你的视力就只剩下回忆，」Ward 低吼道，声音里缠着令人胆寒的报复承诺。"
-
-**关键词：** Look at her like that again · your sight will become nothing but a memory · Ward growled · laced with a chilling promise of retribution
-
-**为什么这样写：** 这句威胁的**精巧在于它用的是"眼睛"**：sight（视力）——**不是要杀你，是要你再也看不见**。而 nothing but a memory（只剩下回忆）把这个惩罚写成**一个持续状态而非一次性事件**。作者用 **growled（低吼）** 与 **laced（缠着）** 这两个带身体感的动词：**他的威胁不是抽象的宣判，是从他喉咙里缠出来的**。而全书他对 Naithea 说过的每一句威胁都是这个调子（ch11 的 Be careful, love 是同一句话的温血版）。
-
-**读者视角提示：** 本句是 Ward **第一次为 Naithea 说重话**。注意他威胁的对象是**那两个看守**，不是她——**他在替她出头，而她随即说 Commander, that’s not necessary。**
-
-> **原句 8:** "But Naithea didn’t move, feeling a far more powerful emotion than fear stirring within her: dangerous approval."
-
-**中文理解：** "但 Naithea 没有动，感到一股比恐惧更强烈的情绪在体内搅动：一种危险的认可。"
-
-**关键词：** Naithea didn’t move · a far more powerful emotion than fear · stirring within her · dangerous approval
-
-**为什么这样写：** 全章**最重要的一次情感转向**，而作者用 **than fear** 做比较：她此刻体内有两种情绪，**恐惧与认可，恐惧输了**。dangerous approval（危险的认可）这个复合形容词是全书最精准的**言情写法**：她认可的不是他这个人，是**他刚才做的事**；而 dangerous 承认这份认可本身有问题。didn’t move（没有动）也是关键——**她本可以借势说谢谢、可以走开，但她选择不动**，**把自己放在他必须继续面对的位置上**。
-
-**读者视角提示：** 这是全书对 Naithea 感情线的**第一次开闸**。在 ch11 她对 Ward 还是纯算计（Maybe if she found a way to keep him interested in her），本章出现了**非算计的成分**——**作者没让她爱上他，只让她先"认可"他**。
-
-> **原句 9:** "Her power sang within her, calling that darkness to come out and play. She’d worked so hard to keep it at bay . . . She couldn’t afford to give in to it for even a second."
+> **原句 7:** "Her power sang within her, calling that darkness to come out and play. She’d worked so hard to keep it at bay . . . She couldn’t afford to give in to it for even a second."
 
 **中文理解：** "她的力量在体内歌唱，召唤着那份黑暗出来玩耍。她费了那么大劲才把它按在笼子里……她连一秒都输不起。"
 
@@ -105,27 +85,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 这是全书第二次明写 her power 会对 Naithea 有反噬（第一次在 ch05 她偷士兵档案那次）。**她的能力与她的抑制力是同一个东西的两面**——这就是为什么 ward 的 dangerous approval 对她是致命的：**欣赏她的前提，是她得先不失控。**
 
-> **原句 10:** "“That’s what I said,” she whispered, picking up a dusty book from its place and flipping through the contents, away from Ward’s gaze. “Do you want me to say it in the ancient tongue? Grajkou.”"
-
-**中文理解：** "「我就是这么说的，」她低声说，从架上取下一本积灰的书翻着内容，避开 Ward 的目光。「你想让我用古语说吗？Grajkou。」"
-
-**关键词：** That’s what I said · picking up a dusty book · flipping through the contents · away from Ward’s gaze · in the ancient tongue
-
-**为什么这样写：** 这句是全章的**权力反转**。她被问了两遍 What are you looking for（你在找什么），两次都答 Nothing——**然后第三次她给了一个更危险的答案：Grajkou**。这个应对极其漂亮：**她没说"是"，她说的是"你想听哪种语言说"**——把拒绝升级成挑衅。away from Ward’s gaze（避开他的目光）是动作上的防守，与台词上的进攻形成对照：**嘴上在刺人，眼睛在躲他**。而 Grajkou 这个词是全书最精准的一次"亮底牌"：**她用对方世界的语言回答，等于宣告她不属于对方的世界**。
-
-**读者视角提示：** saagrati 是干达利斯（光）的古语，ch03 章节里 Ausra 这个名字就来自它。**她在 Ward 面前承认自己会说古语，是全书第一次对外人亮这张牌。** 而 Ward 的反应只是 eyes slightly widened——**他认得，但不知道她为什么认得。**
-
-> **原句 11:** "“Because I’m a whore, I don’t have the right to educate myself?”"
-
-**中文理解：** "「因为我是婊子，我连教育自己的权利都没有吗？」"
-
-**关键词：** Because I’m a whore · I don’t have the right · to educate myself
-
-**为什么这样写：** 全章最短的一句，也是**主题句**。它用**一个反问句**把对方刚才的偏见原样退回给对方，而关键在 **I don’t have the right（我没有权利）**——她不是说"我不需要"，也不是"我学不会"，是**"我没有权利"**。这是一个**权利框架**的句子，而不是能力框架的。**作者用这一句把整章的争执从"你配不配读书"提到"谁有资格定义资格"**。而 Because I’m a whore（因为我是婊子）**主动把对方的分类当众接受下来，再当场否定这个分类的推论**——这是最有力的辩论姿态。
-
-**读者视角提示：** 这句在 ch11 她对Ward 说 Because I'm a whore, I don't have the right... 是同一个句式第一次被使用，**但那时是私语，这里是对一个握有生杀权的人**。**作者让同一句话在权力等级变化时重播，读者能感到她的处境变了。**
-
-> **原句 12:** "“If I wanted the kingdom, Commander, I wouldn’t go for the prince with a hollow crown.” She closed the distance even further and, with their bodies brushing against each other in an almost illusory way, Naithea reached over to the side to pick up the next book. “I would go for the heartless king.”"
+> **原句 8:** "“If I wanted the kingdom, Commander, I wouldn’t go for the prince with a hollow crown.” She closed the distance even further and, with their bodies brushing against each other in an almost illusory way, Naithea reached over to the side to pick up the next book. “I would go for the heartless king.”"
 
 **中文理解：** "「如果我想要这个王国，指挥官，我不会去动那个顶着空壳王冠的王子。」她把距离拉得更近，两人的身体以一种几乎不真实的方式擦过，她伸手去够下一本书。「我会去找那个无心的国王。」"
 

@@ -75,17 +75,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 本句是全书对 Madame Dimond 体系的第一次正面反驳——**那个体系靠"分"维持，这十一个人靠"握"维持**。而 kept them alive 的过去时也预告了：这只手在下一幕（第二天的抓捕）里会被打断。
 
-> **原句 7:** "Dyron Selmi raised a wrinkled hand and brought his index finger to his lips, but there was no fear on his face. Only amusement, as if the presence of the soldiers was the most entertaining thing he’d witnessed in years."
-
-**中文理解：** "Dyron Selmi 抬起一只布满皱纹的手，把食指竖到唇边，但他脸上没有恐惧。只有兴味，仿佛士兵们的出现是他这些年头见过最有趣的事。"
-
-**关键词：** Dyron Selmi raised a wrinkled hand · index finger to his lips · no fear on his face · Only amusement · the most entertaining thing he’d witnessed in years
-
-**为什么这样写：** 这是全章最**冷的一笔**，也把 ch09 那个"给她信息是因为交易"的角色补全了。作者先写手势（index finger to his lips）——**读者会认出那是"安静"的意思**，但接着拆掉：他脸上 not fear（没有恐惧），Only amusement（只有兴味）。"shh"这个手势在别人身上是畏惧，在他身上是**观赏**。作者用 most entertaining（最有趣的）——**军队来砍头，在他的价值排序里只是一场戏**。这个反应也回答了读者对他的疑问：他站在随时会死人的广场上，说明他**在这场清算里不是受害者**。
-
-**读者视角提示：** 这是全书唯一一次直接给 Dyron 情绪反应的地方。他与 Ward（本章另一处"看戏"姿态）构成对照：**两个人都在评估军队，而评估的目的不同**。
-
-> **原句 8:** "“The king must be really worried if he has sent the Royal Army to investigate a city of whores and drunks,” Naithea said innocently, before stepping away. “What’s the matter, Commander? Any dead on your hands?”"
+> **原句 7:** "“The king must be really worried if he has sent the Royal Army to investigate a city of whores and drunks,” Naithea said innocently, before stepping away. “What’s the matter, Commander? Any dead on your hands?”"
 
 **中文理解：** "「国王一定非常担心，竟然派皇家军队来调查一座由妓女和酒鬼构成的城市，」Naithea 天真地说，然后退开一步。「怎么啦，指挥官？你手里有人命吗？」"
 
@@ -95,27 +85,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 这句之前是她被拖、被摸、被勒令"move"；这句之后 Ward 开始用手抚她的锁骨。**她的挑衅没有换来安全，但换来了对方第一次主动接近**——**她要的就是这个**（Maybe if she found a way to keep him interested in her）。
 
-> **原句 9:** "Because the commander before her was so dominant, so confident, that she wanted to break that façade until he became a vulnerable child for her to play with."
-
-**中文理解：** "因为面前这位指挥官是如此 dominant（dominance）、如此自信，以至于她想拆掉他的那道 façade（伪装），直到他变成一个可以让她摆弄的 vulnerable child（脆弱的孩子）。"
-
-**关键词：** the commander before her was so dominant · so confident · break that façade · a vulnerable child for her to play with
-
-**为什么这样写：** 这是 Naithea **意图的直白表述**，也是她本章真正的武器：她要的不是自由，是**让强者变弱**。作者用了三个降级词——dominant（压倒性的）、confident（自信的）、vulnerable child（脆弱的孩子）——**从仰视到俯视的完整坡度**。façade（立面／伪装）是个建筑词：她看穿的那层不是表情，是**建筑**。**这是她对所有强者的通用算法**：她要的不是自由，是**让强者变弱**（a vulnerable child for her to play with）。
-
-**读者视角提示：** 呼应 ch04 她对 Krantz 的评价、ch08 她在书中"改写"情节的习惯——**Naithea 的核心技能不是读心，是让对方暴露自己**。这句是全书关于她最清楚的一句自我说明。
-
-> **原句 10:** "For years, the Royal Army and highborn families had mocked Bellmare and the trades of its citizens—those the soldiers themselves consumed. They’d mistreated them, using and discarding them like trash. Naithea was tired of it."
-
-**中文理解：** "多年来，皇家军队和高等家族一直在嘲笑 Bellmare 和它市民的营生——而那些营生恰恰是士兵自己在消耗的。他们虐待这些人，把他们用完就丢，像丢垃圾一样。Naithea 受够了。"
-
-**关键词：** the Royal Army and highborn families had mocked · the trades of its citizens · using and discarding them like trash · Naithea was tired of it
-
-**为什么这样写：** 破折号后面的 those the soldiers themselves consumed（那些士兵自己消费的东西）是一记**反讽的重锤**：**嘲笑者的营生支撑着嘲笑者的开销**。作者把两个看似无关的事实（军队嘲笑妓院／士兵本人嫖娼）用一个破折号缝在一起，让前者自己反口。using and discarding them like trash（用完像垃圾一样丢弃）三个动作一气呵成，**"像垃圾"这个比喻把她们从人降格为物**——而 trash 这个词在 ch10 里 Conrad 也用来骂过 Darcia（"You're nothing but trash"），**两个施暴者在用同一个词，只是对象不同**。
-
-**读者视角提示：** 这句是全书对"军队与城市"关系的**结构性解释**：军队不是外来压迫者，是**寄生在这座城市身上的消费者**。这解释了为什么军队的驻扎对妓院的伤害是**直接的抽成**（ch08 那笔七十到九十的账）。
-
-> **原句 11:** "“I see you like to play with fire.” Ward flashed a devilish grin and leaned in closer to whisper in her ear, making Naithea tremble slightly at his words. “Be careful, love. I wouldn’t want you to get burned.”"
+> **原句 8:** "“I see you like to play with fire.” Ward flashed a devilish grin and leaned in closer to whisper in her ear, making Naithea tremble slightly at his words. “Be careful, love. I wouldn’t want you to get burned.”"
 
 **中文理解：** "「我看你喜欢玩火。」Ward 闪过一个恶魔般的笑，俯身凑近她耳边低语，这话让 Naithea 微微发抖。「小心点，亲爱的。我可不想你被烧到。」"
 

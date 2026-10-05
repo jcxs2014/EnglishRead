@@ -20,7 +20,7 @@ modified: "2026-10-05"
 
 **关键词：** body still trembled · the manifestation of · her siren song
 
-**为什么这样写：** 全章第一句用**身体的余震**开场，而不是用事件。作者把"施展力量"这件事写成一个**物理过程的延迟反应**：声音停了，身体还在抖。这既真实，也确立了本章的基调——**她刚做完一件消耗极大的事**。而 "manifestation"（显现）这个词带宗教意味，让这次能力看起来不像技艺，像**某种被召来的东西**，为下一块那头 monster 的登场铺路。
+**为什么这样写：** 全章第一句用**身体的余震**开场，而不是用事件。作者把"施展力量"这件事写成一个**物理过程的延迟反应**：声音停了，身体还在抖。这既真实，也确立了本章的基调——**她刚做完一件消耗极大的事**。而 "manifestation"（显现）这个词带宗教意味，让这次能力看起来不像技艺，像**某种被召来的东西**——**而这个词等于替她身上那头 monster 提前报了到：它不必露面，光这个词就把它的性质说完了**（本章第三块就是它开口的那句）。
 
 **读者视角提示：** siren song（海妖之歌）是她的能力名。序章与 ch08 都没出现过这个词，本章是它第一次被命名——**命名之后，它就归她所有，也归那头 monster 所有**。
 
@@ -84,27 +84,7 @@ modified: "2026-10-05"
 
 **读者视角提示：** 朋友们的反应是"互看一眼、耸肩、退出去"，没人追问。这说明**她早就这么做过**，也说明这楼里的人习惯了她偶尔的清场。留意"偶尔"二字。
 
-> **原句 8:** "How could she tell Jehanne the information she’d obtained from the soldier without her thinking she was out of her mind?"
-
-**中文理解：** "她要怎样才能把从那个士兵那里得来的消息告诉 Jehanne，而不至于让对方以为她疯了？"
-
-**关键词：** How could she tell Jehanne · the information she’d obtained from the soldier · thinking she was out of her mind
-
-**为什么这样写：** 一句完整的内心独白，用 How could…without…（怎样才能…而不至于…）的结构把**信息本身**与**听者的可信度**同时设为难题。作者的巧思在两个定语从句：她怕的不是说出内容，是**说出内容后被当成疯子**——也就是说她清楚自己掌握的东西有多离奇，而这份自知让她更不敢说。"her mind" 里的 mind 同时指 Jehanne 的头脑与她自己的心智，**一词两用**把两个层面扣在一起。
-
-**读者视角提示：** 本句交代了 Naithea 在本书里的**信息位置**：她是全书唯一一个同时见过鬼城传闻与王朝秘史的普通人。她的两难是**知道得太多、身份太低**。
-
-> **原句 9:** "“What do you know about the Fallen Kingdom?” she asked."
-
-**中文理解：** "「关于那个陷落的国家，你知道些什么？」她问道。"
-
-**关键词：** What do you know about · the Fallen Kingdom
-
-**为什么这样写：** 本章的转折点就在这一句问话，而它**只有六个实词**。作者不写她如何鼓足勇气，只让她直接问，于是"她已经清场、她已经想了很久"这些全部被这句提问代替。更值得注意的是问的内容："the Fallen Kingdom"（陷落之国）是**史书式的中性称呼**，不是"被诅咒的王国"——她在刻意使用一种不惊动对方的说法，因为她不确定对方知道多少。而她选的对象是 Jehanne：**妓院里唯一一个愿意听她胡话的人**。
-
-**读者视角提示：** 这个专名在 ch06 由养父口中说出（the Fallen Kingdom），本章由 Naithea 说出。**同一个词，跨过两条线**——两人都用它指 Ro’i Rājya，却都还不知道全貌。
-
-> **原句 10:** "“The soldier . . . He did more than give me money in exchange for my services.”"
+> **原句 8:** "“The soldier . . . He did more than give me money in exchange for my services.”"
 
 **中文理解：** "「那个士兵……他给我的不只是用我的服务换来的钱。」"
 
