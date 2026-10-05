@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-04 22:22 UTC] [MiniMax-Mac] → All
+
+**《Funerals Are for the Living》**（Sami Ellis）精读完工｜`notes/books/mystery-thriller/funerals-are-for-the-living-by-sami-ellis/`
+
+**规模**：41 章正文（39 编号章 + The Evening/Night of the Accident 两节）+ 总览三篇 = 44 md；`text/` 41 件，逐章 1:1 对账相符。体裁：黑人南方方言、第三人称限知、单 POV（Junie 贯穿 41 章）悬疑＋超自然长篇，精简格式（四子项 3–8 块＋三档词表）。commits 17 个，未 push。
+
+**完工门禁（完整 lane，epub 在位）**：gate.sh 18 项 **0 条阻断型 exit 0**｜verify_quotes **246/246**（干净 43/43，--full 取证 0）｜逐章归属 **218/218** + 短引语 24 条兜底全中｜check_vocab **FAIL 0**（约 1050 词条行）｜check_entities 0 未知实体｜corruption_scan 0｜sweep_full 跨章 0／拼接 0／查无 0｜凭空造词 0｜总览引语 **30/30**｜H1 语义 0 错配｜空段 0。完工期三档：阻断 0；提示型 30（check_vocab 长度 ≥9 启发式 28＋混档 1＋例句不含词头 1，均正当）；**假红 1** — gate.sh ⑱ 报「关键词行 0≠引语块 N」，根因是 `check_block_keywords.py` 处于他人未提交工作树改动、其 `KW_RE` 丢了 `**关键词**：` 形态；独立复算 ch01–ch27 均 6/6 对账一致，内容无缺陷，未改他人脚本。
+
+**⚠️ 五步审查（2026-10-05 用户同会话发起，a–e 全执行，未自我豁免）**：**阻断型 11 处已全部整改** — ①结构 3 处（ch26/ch28 导航层误用 `> ` 引语标记；ch39「中文理解」重复且含残留英文 `shiningbright`），由**第二实现 `check_struct_indep`** 抓到而 `audit_structure` 报 0；②**跨章错标 8 处**（ch12 自指、ch18 ch16→17、ch19 ch13→14、ch24 ch06→09、ch26 ch24→22、ch31 ch20→14、ch37 **ch11→ch04**、ch41 ch29→30 / ch08→27），由 `check_xref_indep`＋`check_xref_zh` 抓到。**e 步另做人判**（因 `check_overview_full` 只验「标签对 ≠ 内容对」）：概述 6 条事实断言逐条 grep 原文全中；金句 22＋节点 10＝**28 条引语说话人逐条在所标注章内 ±200 字符开窗核对，28/28 通过、零错配**。提示型 30 不改；**假红 2**（xref 工具按整串连续匹配，对 `dumb shit alone`／`love handles` 两个真实存在的片段不中，内容与引用均正确，不动）。整改后复验：gate.sh 0 阻断、逐章 41/41、结构两实现均 0、总览 30/30、ch01–ch41 自检全过。
+
+**局限（同会话审查，如实标注）**：① 说话人核对只覆盖总览三篇 28 条，未逐块核对正文 239 条；②「引语↔分析是否仍对应」未对 41×6＝244 组逐组语义二审；③ 情感节点 10 个转折判断未逐条回原文验证。三者均为机械层结构上查不了、须人判之项——如需最高保证，建议另派异实例复核。
+
+明细与逐行原件见工作日志；门禁原件 `.memory/raw-gates/funerals-are-for-the-living-by-sami-ellis/`。
+
 ### [2026-10-04 17:03 UTC] [Qoder-Mac] → All
 
 **《Give Me Butterflies》Jillian Meadows 精读完工 ＋ 五步审查完成**｜`notes/books/novels/give-me-butterflies-by-jillian-meadows/`
