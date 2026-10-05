@@ -91,7 +91,15 @@ def extract_quotes(txt: str):
                 quotes.append(b)
             continue
         s = re.sub(r'^>\s*', '', s)
-        m = (re.match(r'^' + circ + r'\s+(.+)$', s)
+        # ⚠️ 2026-10-05（Heirs of the Cursed 总览三篇实测）：原口径每个分支都是
+        # `编号 + \s+ + 引语`，于是**接不住最常见的中文标注式样**
+        # ——`**①**（ch01）"Love could conquer…"`（编号与章号之间没有空格）。
+        # 结果该文件被整篇判成「无引语行」⇒ 退出码 1，**零引语被校验**，
+        # 而 `check_overview_full` 的 `label_near` 却认得同一种形态 ⇒
+        # **两把尺口径漂移**（正是本仓库反复警告的那类）。
+        # 处置：加一条**纯增量**分支（带可选章号标注），不改原有分支行为。
+        m = (re.match(r'^\*{0,2}' + circ + r'\*{0,2}[（(]\s*ch\d+\s*[）)]\s*(.+)$', s)
+             or re.match(r'^' + circ + r'\s+(.+)$', s)
              or re.match(r'^\*{1,2}' + circ + r'\*{1,2}\s+(.+)$', s)      # **①** "..."
              or re.match(r'^\*{1,2}' + circ + r'\*{1,2}\s*["\'](.*)["\']', s)
              or re.match(r'^' + circ + r'\s+["\'](.*)["\']', s)
