@@ -139,7 +139,7 @@ modified: "2026-10-05"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| back burner | 次要位置、搁置状态（put on the back burner 搁置） | But many times we put care of ourselves on the back burner, again and again. |
+| back burner | 次要位置、搁置状态（字面“后炉”，喻搁置不管） | But many times we put care of ourselves on the back burner, again and again. |
 | self-criticism | 自我批评 | One way to understand self-compassion is to shine a light on self-criticism and why it often makes things more difficult for us. |
 | hospitalization | 住院 | These pressures led Mimi to develop severe depression as a teen, culminating in a hospitalization for attempted suicide. |
 | one-size-fits-all | 一刀切的、通用型的 | Self-care isn’t a one-size-fits-all process. |
