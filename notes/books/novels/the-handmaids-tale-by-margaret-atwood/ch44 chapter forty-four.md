@@ -22,7 +22,7 @@ modified: "2026-10-05"
 - **为什么这样写**：Salvaging 后的一餐被她吃成感恩仪式：上一章的嗜血与焦油味刚洗掉，schoolchild's lunch 的 diminutive（小份）反而成了稳稳的幸福。revelling（狂欢般享受）的荒诞剂量——她在为芹菜条庆祝，因为昨天的参照物是绞索。恐惧对味觉的汇率，一句话写完。
 - **读者视角提示**：与 ch42 的 Things are back to normal（本章开头）连读：normal 的定义被降格到幼儿园餐盘的高度。记住 lush——她的味觉从未对生活关闭。
 
-> **原句 2:** I am Ofglen, the woman says. Word perfect. And of course she is, the new one, and Ofglen, wherever she is, is no longer Ofglen.
+> **原句 2:** "I am Ofglen," the woman says. Word perfect. And of course she is, the new one, and Ofglen, wherever she is, is no longer Ofglen.
 
 - **中文理解**：「我是 Ofglen，那女人说。一字不差。当然她是——新的那个；而 Ofglen，无论她在哪儿，已经不再是 Ofglen 了。」
 - **关键词**：Word perfect · wherever she is · no longer Ofglen
