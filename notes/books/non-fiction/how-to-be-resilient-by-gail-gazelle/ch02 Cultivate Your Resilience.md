@@ -49,7 +49,7 @@ modified: "2026-10-05"
 - **中文理解**：韧性是一口内在资源之井，让你在无需承受不必要的心理、情绪或身体痛苦的情况下，安然度过你所遭遇的困难与挑战。
 - **句子结构**：一个主系表长句：that 定语从句先立功能（安然度过），without 介词短语再补条件（不以额外痛苦为代价），定义的重心落在"不必受不必要的苦"上。
 - **关键词**：`a well of inner resources`、`weather`、`without unnecessary`
-- **表达方式**：井的隐喻一次成形——资源是"井水"，取用是"打水"；without unnecessary 三个词是定义的暗锋：韧性不否认痛苦，只反对自加的痛苦。
+- **表达方式**：井的隐喻一次成形——资源是"井水"，取用是"打水"；without unnecessary 两个词是定义的暗锋：韧性不否认痛苦，只反对自加的痛苦。
 - **为什么这样写**：这是全书的概念地基——作者特意在橡皮筋与柳树两个流行意象之后另立定义，把韧性从"弹回来"升级为"有供给、可持续、不必硬扛"。
 
 > **原句 3:** "Imagine now, as you’re reading these words, that you’re standing in front of such a well. And it’s filled with cool, clear, sparkling fresh water: water that nourishes and sustains, helping all living things grow."
@@ -73,7 +73,7 @@ modified: "2026-10-05"
 - **中文理解**：我们的韧性越强，当某个东西绊响我们的生存警报时，就越容易冷静地想清楚。
 - **句子结构**：the + 比较级, the + 比较级的正比句式，把"韧性"与"冷静思考的容易程度"锁成同一条滑轨；when 从句点明场景是警报已响之后。
 - **关键词**：`The more resilient`、`think carefully`、`survival alarm`
-- **表达方式**：trip the alarm（绊响警报）延续了"误报"的比喻——警报不是敌人，绊响它的东西才常常认错了；carefully 与前文的 react without thinking 对位。
+- **表达方式**：trip the alarm（绊响警报）延续了"误报"的比喻——警报不是敌人，绊响它的东西才常常认错了；carefully 与前文的 act without thinking 对位。
 - **为什么这样写**：这一句是全章神经科学段落的落点——前额叶叙述的最终目的就是这一条：韧性不等于不拉警报，而等于警报之后谁接管；把"复原力"译成了"恢复清醒的速度"。
 
 > **原句 6:** "But if we’re frequently stressed and almost constantly producing cortisol, the hormone can wreak havoc on our mental and physical well-being. Anxiety, depression, insomnia, lack of energy, and difficulty concentrating are just a few symptoms of long-term exposure to cortisol."
@@ -111,7 +111,7 @@ modified: "2026-10-05"
 > **原句 10:** "No matter how dark the time in your life, that well is never as empty as it seems, and you always have the ability to replenish it."
 
 - **中文理解**：无论你人生中的这段时日多么黑暗，那口井都绝不像它看上去那样空，而你永远有能力把它重新蓄满。
-- **句子结构**：no matter how 让步从句把黑暗推到极致，主句却用双重否定式的断言（绝不像/永远有）顶回去；井的隐喻第三次出现，完成收束。
+- **句子结构**：no matter how 让步从句把黑暗推到极致，主句却用一负一正的对撞断言（绝不像那么空／永远有能力）顶回去；井的隐喻第三次出现，完成收束。
 - **关键词**：`No matter how dark`、`never as empty as it seems`、`replenish`
 - **表达方式**：把"最深的绝望"与"永不枯竭"放在同一句里对撞；replenish 呼应全章的井水意象——井会被喝低，但泉眼一直在。
 - **为什么这样写**：结尾不谈技术、只留一句希望——作者特意声明这不是陈词滥调而是行医所见；全章科学叙述最终落回引言的三重资质：让可信度替乐观背书。

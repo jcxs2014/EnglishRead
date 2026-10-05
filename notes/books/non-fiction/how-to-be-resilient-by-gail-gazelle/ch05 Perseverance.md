@@ -55,7 +55,7 @@ modified: "2026-10-05"
 > **原句 3:** "In a variety of studies, Duckworth and others have demonstrated that sustained application of effort toward a long-term goal is a bigger predictor of success than raw talent. Thus her take-home message: “Talent counts once, effort counts twice.”"
 
 - **中文理解**：在多项研究中，达克沃斯等人证明：对长期目标的持续投入，是比原始天赋更强的成功预测指标。因此她那句带回家的话是："天赋只算一次，努力算两次。"
-- **句子结构**：主句的证据句用比较级 a bigger predictor than 压过天赋；第二句以引语收束——学术结论被压缩成一条可以背走的口号。
+- **句子结构**：主句的证据句用比较级 a bigger predictor of success than raw talent 压过天赋；第二句以引语收束——学术结论被压缩成一条可以背走的口号。
 - **关键词**：`sustained application of effort`、`a bigger predictor`、`effort counts twice`
 - **表达方式**：counts twice 的算术修辞是全章的传播引擎——不精确，但可记诵；take-home message（带回家的话）自曝其格言属性，学术与鸡汤在一句里分工。
 - **为什么这样写**：把 Duckworth 的研究放在定义之后，是为"坚持可培养"提供实证底座——既然努力的权重更高，训练努力就有杠杆；口号是给记忆的，研究是给信任的。
@@ -86,7 +86,7 @@ modified: "2026-10-05"
 
 > **原句 7:** "Instead of focusing on how unachievable a far-off goal seems, ask yourself, “What’s one thing I know I can accomplish today that helps me move in the direction I want to go?” In Deidre’s example, she might decide to write five hundred words each day, or spend an hour every morning writing."
 
-- **中文理解**：与其盯着一个遥远的目标显得多么无法企及，不如问自己："我今天能完成的一件事是什么——它帮我在想去的方向上前进一点？"
+- **中文理解**：与其盯着一个遥远的目标显得多么无法企及，不如问自己："我今天能完成的一件事是什么——它帮我在想去的方向上前进一点？"放进德德蕾的例子：她可以决定每天写五百个字，或者每天早晨花一小时写作。
 - **句子结构**：Instead of 的对比把两种注意力方向摆开，引语式自问给出可随身携带的一句话工具；one thing 与 today 把尺度锁死到最小。
 - **关键词**：`far-off goal`、`ask yourself`、`one thing I know I can accomplish today`
 - **表达方式**：问句的措辞层层设防——one thing（小）、know（有把握）、today（今天）：每个词都在为"确定能完成"背书；与 marathon 的开篇赛制呼应——长跑靠的是今天这一步。

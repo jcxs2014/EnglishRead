@@ -1,0 +1,35 @@
+=== 五步审查 d 步机械件 2026-10-05 ===
+
+== check_xref_indep（跨章引用第二实现）==
+=== chNN 引用 111 处：英文证据报警 0 处 ／ 中文式待人判 98 处 ===
+
+== check_xref_zh（中文式跨章引用）==
+=== 跨章引用：章号+短语/POV 命中 0 / 错 0 / POV 错 0 ===
+
+== check_analysis_indep（分析层行内英文第二实现）==
+  ch01 Introduction.md:9  by Callisto Publishing LLC
+      未命中词: ['callisto', 'publishing']
+  ch08 Self Care.md:50  like a bill being itemized
+      未命中词: ['bill', 'itemized']
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）3 条 —— 只报不判红，须人判：
+  ch01 Introduction.md:9  Simple Steps to Embrace a Positive Mindset and Build Inner Strength
+  ch02 Cultivate Your Resilience.md:76  react without thinking
+  ch05 Perseverance.md:58  a bigger predictor than
+
+== audit_numbers（计数断言）==
+  ❓ ch08 Self Care.md:168  「四个字」「N 个词」指引语内某子短语，无法机械定位，不判（整条引语 37 词） —— 需人判
+  ❓ ch09 Resilience for Life.md:105  「三个不能」非英文（中文短语或小节标题），不判 —— 需人判
+  ⚪ 00_情感节点.md:9  「18 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_情感节点.md:25  「47 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_概述.md:25  「18 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ 00_概述.md:30  「47 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch02 Cultivate Your Resilience.md:28  「18 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch02 Cultivate Your Resilience.md:34  「30%」年龄/百分比类，文本层推不出真值，只列出待人核
+
+== check_anchor（关键词锚定）==
+=== 关键词锚定自查（how-to-be-resilient-by-gail-gazelle）===
+  扫 12 个 md，90 个引语块，90 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（11 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）

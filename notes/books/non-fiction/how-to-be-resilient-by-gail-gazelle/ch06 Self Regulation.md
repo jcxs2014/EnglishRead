@@ -39,7 +39,7 @@ modified: "2026-10-05"
 > **原句 1:** "Not only is life a balancing act, it’s one we have to manage while events rush at us like waves in the ocean, and our own thoughts and emotions sometimes race out of control."
 
 - **中文理解**：生活不只是走钢丝的平衡术，我们还必须在事件像海浪一样扑面而来、自己的念头与情绪时不时失控狂奔的同时，把这出平衡戏演下去。
-- **句子结构**：Not only 开头的倒装句先抬格，it's one we have to manage while... 的定语从句层层加码——两个 while 短语把"同时处理"的难度写实。
+- **句子结构**：Not only 开头的倒装句先抬格，it's one we have to manage while... 的定语从句层层加码——一个 while 从句套着两个并列事件，把"同时处理"的难度写实。
 - **关键词**：`a balancing act`、`rush at us like waves`、`race out of control`
 - **表达方式**：海浪意象第三次出场（第一章警报、第三章乘浪、本章扑面）——本书的自然意象系一贯到底；out of control 与 balance 构成全章的张力轴。
 - **为什么这样写**：开篇不谈技术先摆处境——自我调节的需求来自"多线并发"的现代生活；把读者按进真实场景，后文的暂停与呼吸才有用武之地。
@@ -47,7 +47,7 @@ modified: "2026-10-05"
 > **原句 2:** "There’s an oft-cited quote that brings this point home: “Between stimulus and response there is a space. In that space lies our freedom and our power to choose our response. In our response lies our growth and our happiness.”"
 
 - **中文理解**：有一句被广泛引用的话正说到了点子上："在刺激与回应之间有一道空间。那道空间里，藏着我们的自由，和我们选择回应的力量。而在我们的回应里，藏着我们的成长与幸福。"
-- **句子结构**：主句引出格言后，格言自身三句递进——空间／自由／成长，每句都以方位介词 in 开头，像三级台阶步步登高。
+- **句子结构**：主句引出格言后，格言自身三句递进——空间／自由／成长，后两句以方位介词 in 开头，像台阶步步登高。
 - **关键词**：`Between stimulus and response`、`our power to choose`、`our growth and our happiness`
 - **表达方式**：格言用空间隐喻把"自由"重新定义——自由不是没有刺激，而是刺激与反应之间那段可以进去站一站的缝隙；排比结构让它自带背诵属性。
 - **为什么这样写**：这句被作者标注为 oft-cited（广为引用）的格言是全章的哲学地基——后续所有技术（STOP、RAIN、暂停）都是"把这道空间撑开"的具体办法；先立公理，再发工具。
@@ -55,7 +55,7 @@ modified: "2026-10-05"
 > **原句 3:** "After she struggled to locate an instrument Jake needed, Jake lashed out at her, shouting “How dare you think you’re good enough to be in my OR?” The nurse began crying and ran out of the room, deeply distraught."
 
 - **中文理解**：在她没能找到杰克需要的一件器械之后，杰克对她大发雷霆，吼道："你凭什么觉得自己够格待在我的手术室？"护士哭了起来，跑出房间，难过至极。
-- **句子结构**：主从句一气呵成——从句交代诱因（找器械），主句的 lashed out 与 shouting 把暴力推到顶点，直接引语里 your/my 的所属格划出等级线；结尾两个并列谓语收在受害者的反应上。
+- **句子结构**：主从句一气呵成——从句交代诱因（找器械），主句的 lashed out 与 shouting 把暴力推到顶点，直接引语里 my 的所属格划出等级线；结尾两个并列谓语收在受害者的反应上。
 - **关键词**：`lashed out at her`、`How dare you`、`deeply distraught`
 - **表达方式**：How dare you 是权力话语的标本——问题形式，宣判实质；in my OR 的 my 把手术室写成私人领地，等级感全在这一个物主代词里。
 - **为什么这样写**：Jake 案例开场先给最不堪的一幕——作者不替人物遮丑，反而让"受尊敬的好人也有失控时刻"成立；这为后文"他只是没学过调节"的同情转向埋好反差。
@@ -66,7 +66,7 @@ modified: "2026-10-05"
 - **句子结构**：not to...but to 的否定—肯定结构先破"情绪智＝没情绪"的误解；grant us the full range 的措辞把情绪写成应得的馈赠；第二句用 the choice 把"接纳"接到"行动"上。
 - **关键词**：`the full range of emotions`、`including the more difficult ones`、`the choice to act`
 - **表达方式**：full range 的"全幅"意象与滤镜相反——不是把负面情绪调暗，而是恢复完整的色域；concordant（相合）一词把行动标准从情绪强度换成价值对齐。
-- **为什么这样写**：这是全章对"调节"的正式定义——它反对的是压抑文化（上一段的三句童年禁令），给出的替代方案是"全幅拥有＋择路而行"；定义立住，三个原则才有骨架。
+- **为什么这样写**：这是全章对"调节"的正式定义——它反对的是压抑文化（紧随其后的段落里那三句童年禁令），给出的替代方案是"全幅拥有＋择路而行"；定义立住，三个原则才有骨架。
 
 > **原句 5:** "We’re all familiar with phrases such as “Big boys don’t cry,” or “We don’t do anger in this family. Go to your room and come out when you’ve got a smile on your face,” or “Just get over it!” So we learn to put our emotions away."
 
@@ -86,7 +86,7 @@ modified: "2026-10-05"
 
 > **原句 7:** "“If your house is on fire,” he says, “the most urgent thing to do is to go back and try to put out the fire, not to run after the person you believe to be the arsonist.” In other words, the wisest response to anger is cooling one’s own flames."
 
-- **中文理解**："如果你的房子着火了，"他说，"最紧要的事是回去把火扑灭，而不是追着你认为是纵火犯的那个人跑。"
+- **中文理解**："如果你的房子着火了，"他说，"最紧要的事是回去把火扑灭，而不是追着你认为是纵火犯的那个人跑。"换句话说，对愤怒最智慧的回应，是先冷却你自己的火焰。
 - **句子结构**：if 条件句 + the most urgent thing to do 的最高级判断，not to run after 的否定不定式把两个动作摆成单选题；he says 的插入语短到几乎隐形，让格言保持原声。
 - **关键词**：`your house is on fire`、`put out the fire`、`the arsonist`
 - **表达方式**：房子＝自己，火＝怒火，纵火犯＝惹你的人——一喻三义，句法却朴素如谚语；urgent 与 run after 的速度感让"灭火优先"成为身体直觉而非道理。
@@ -111,7 +111,7 @@ modified: "2026-10-05"
 > **原句 10:** "Soon Avani found that purposeful pauses helped her to reflect, allowing her to gauge the right steps in her busy workdays. Pausing also gave Avani a greater sense of calm, allowing her mind to move out of the weeds of day-to-day pressures and into a much-needed bigger picture perspective."
 
 - **中文理解**：很快阿瓦妮发现，有目的的暂停帮她腾出了反思的空间，让她能在繁忙的工作日里掂量出正确的下一步。暂停还给了她一种更深的平静，让她的头脑从日常压力的杂草丛里探出身来，进入急需的全局视角。
-- **句子结构**：第一句 found that 从句嵌两个分词短语（腾出／掂量）；第二句 out of the weeds...into a bigger picture 的空间隐喻把" zoom in / zoom out "写成镜头运动。
+- **句子结构**：第一句 found that 从句带出"腾出反思空间"与"掂量下一步"两层动作；第二句 out of the weeds...into a bigger picture 的空间隐喻把" zoom in / zoom out "写成镜头运动。
 - **关键词**：`purposeful pauses`、`gauge the right steps`、`a much-needed bigger picture`
 - **表达方式**：weeds（杂草）与 bigger picture（大图景）构成景深——压力让人贴地爬行，暂停把镜头拉高；purposeful 一词给"发呆"正名，暂停是有目的的。
 - **为什么这样写**：Avani 案例把"暂停"从苦修变成管理技术——连 CEO 的日程都排得进，普通人的借口自然瓦解；胃痛消失的细节让收益从心理落到身体。

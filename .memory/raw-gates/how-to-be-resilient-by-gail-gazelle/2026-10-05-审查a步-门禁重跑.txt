@@ -1,0 +1,159 @@
+=== 五步审查 a 步：第 3 条门禁全量重跑 2026-10-05 ===
+
+== verify_corpus ==
+=== 语料层验收（P0-0）: how-to-be-resilient-by-gail-gazelle ===
+text/ 件数: 9
+  [1] 件数 9 == 预期 9  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 未给 --anchors，跳过人物锚点双向  WARN
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (66 句)
+      首| Introduction
+      末| As you read, you’ll be reclaiming your birthright: your ability to enjoy life and thrive, no mat
+    ch02 (252 句)
+      首| CHAPTER 1
+      末| Self-compassion and avoiding self-judgment are key for building resilience.
+    ch03 (215 句)
+      首| CHAPTER 2
+      末| Random acts of kindness are small moments of generosity that build resilience in us and encourag
+    ch04 (328 句)
+      首| CHAPTER 3
+      末| Though it can often appear that other people don’t have the problems we have, each of us experie
+    ch05 (332 句)
+      首| CHAPTER 4
+      末| Setting a daily intention helps us align with our purpose.
+    ch06 (303 句)
+      首| CHAPTER 5
+      末| A pause can be created by stopping and taking a few slow deep breaths, walking around the block,
+    ch07 (257 句)
+      首| CHAPTER 6
+      末| We can learn to exert tremendous control over our mind state, changing our explanatory style to 
+    ch08 (269 句)
+      首| CHAPTER 7
+      末| Exercise, good nutrition, adequate sleep, and meditation have significant physical, mental, and 
+    ch09 (86 句)
+      首| CHAPTER 8
+      末| And knowing that, my dear reader, is what will make you resilient.
+
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===
+
+== verify_quotes ==
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 25/25 ✅
+ch01 Introduction.md: 10/10 ✅
+ch02 Cultivate Your Resilience.md: 10/10 ✅
+ch03 Connection.md: 10/10 ✅
+ch04 Flexibility.md: 10/10 ✅
+ch05 Perseverance.md: 10/10 ✅
+ch06 Self Regulation.md: 10/10 ✅
+ch07 Positivity.md: 10/10 ✅
+ch08 Self Care.md: 10/10 ✅
+ch09 Resilience for Life.md: 10/10 ✅
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 115/115 引文可核实（100%）；完全干净文件 10/10；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+== verify_quotes --full（关指纹盲区取证）==
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 115/115 引文可核实（100%）；完全干净文件 10/10；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+== check_vocab ==
+词条行合计: 264
+
+--- FAIL (0) ---
+
+--- WARN (42) ---
+  ch01 Introduction.md [基础] 基础档疑含超纲词「confident」
+  ch01 Introduction.md [基础] 基础档疑含超纲词「stability」
+  ch01 Introduction.md [基础] 基础档疑含超纲词「strengths」
+  ch01 Introduction.md [基础] 基础档疑含超纲词「hardships」
+  ch01 Introduction.md [基础] 基础档疑含超纲词「strategies」
+  ch01 Introduction.md [基础] 基础档疑含超纲词「practical」
+  ch02 Cultivate Your Resilience.md [基础] 基础档疑含超纲词「resilience」
+  ch02 Cultivate Your Resilience.md [基础] 基础档疑含超纲词「experiences」
+  ch02 Cultivate Your Resilience.md [?] 词汇节外有 4 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch03 Connection.md [基础] 基础档疑含超纲词「connection」
+  ch03 Connection.md [基础] 基础档疑含超纲词「resilience」
+  ch03 Connection.md [基础] 基础档疑含超纲词「relationships」
+  ch03 Connection.md [基础] 基础档疑含超纲词「friendships」
+  ch03 Connection.md [基础] 基础档疑含超纲词「physician」
+  ch03 Connection.md [基础] 基础档疑含超纲词「stability」
+  ch03 Connection.md [?] 词汇节外有 2 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch04 Flexibility.md [基础] 基础档疑含超纲词「resilient」
+  ch04 Flexibility.md [基础] 基础档疑含超纲词「situation」
+  ch04 Flexibility.md [基础] 基础档疑含超纲词「experience」
+  ch04 Flexibility.md [?] 词汇节外有 3 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch05 Perseverance.md [基础] 基础档疑含超纲词「resilient」
+  ch05 Perseverance.md [基础] 基础档疑含超纲词「perseverance」
+  ch05 Perseverance.md [基础] 基础档疑含超纲词「difficult」
+  ch05 Perseverance.md [基础] 基础档疑含超纲词「situation」
+  ch05 Perseverance.md [基础] 基础档疑含超纲词「comfortable」
+  ch05 Perseverance.md [基础] 基础档疑含超纲词「experience」
+  ch05 Perseverance.md [?] 词汇节外有 4 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch06 Self Regulation.md [基础] 基础档疑含超纲词「resilience」
+  ch06 Self Regulation.md [基础] 基础档疑含超纲词「motivation」
+  ch06 Self Regulation.md [?] 词汇节外有 3 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch07 Positivity.md [基础] 基础档疑含超纲词「positivity」
+  ch07 Positivity.md [基础] 基础档疑含超纲词「resilient」
+  ch07 Positivity.md [基础] 基础档疑含超纲词「confidence」
+  ch07 Positivity.md [基础] 基础档疑含超纲词「meditation」
+  ch07 Positivity.md [?] 词汇节外有 3 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch08 Self Care.md [基础] 基础档疑含超纲词「resilient」
+  ch08 Self Care.md [基础] 基础档疑含超纲词「depression」
+  ch08 Self Care.md [基础] 基础档疑含超纲词「different」
+  ch08 Self Care.md [?] 词汇节外有 3 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch09 Resilience for Life.md [基础] 基础档疑含超纲词「resilience」
+  ch09 Resilience for Life.md [基础] 基础档疑含超纲词「connection」
+  ch09 Resilience for Life.md [基础] 基础档疑含超纲词「compassion」
+
+== check_entities ==
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+== corruption_scan ==
+
+=== 编辑损坏扫描（how-to-be-resilient-by-gail-gazelle）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+== sweep_full ==
+=== 引语整串 flat 比对（how-to-be-resilient-by-gail-gazelle）===
+  参照集：text/ 逐章（9 章，可定章） + epub 交叉验证
+  ✅ 本章命中 90 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+== check_short_quotes ==
+=== 短引语兜底核对（how-to-be-resilient-by-gail-gazelle）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+== check_chapter_quotes 逐章 ==
+ch01 Introduction.md: 10/10 in ch01 text
+ch02 Cultivate Your Resilience.md: 10/10 in ch02 text
+ch03 Connection.md: 10/10 in ch03 text
+ch04 Flexibility.md: 10/10 in ch04 text
+ch05 Perseverance.md: 10/10 in ch05 text
+ch06 Self Regulation.md: 10/10 in ch06 text
+ch07 Positivity.md: 10/10 in ch07 text
+ch08 Self Care.md: 10/10 in ch08 text
+ch09 Resilience for Life.md: 10/10 in ch09 text
+
+== verify_overview_quotes ==
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 25/25 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+== check_overview_full ==
+=== 总览整串核查（how-to-be-resilient-by-gail-gazelle）===
+  参照集：text/ 逐章（9 章） ｜ 总览文件 3 个
+  A 整串：命中 36 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 36 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0

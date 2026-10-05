@@ -38,7 +38,7 @@ modified: "2026-10-05"
 > **原句 1:** "Imagine for a moment that you have the resilience of a master. You go through your day able to weather whatever challenges come along. You go through your week, your month, your year confident in your ability to handle all the punches life throws at you."
 
 - **中文理解**：想象一下：你拥有大师级的韧性——无论今天遇到什么挑战都能扛过去，一周、一月、一年都笃定自己接得住生活甩来的每一记重拳。
-- **句子结构**：三个第二人称现在时句排比，把"想象"铺成逐级放大的时间阶梯（a day → a week, your month, your year），最后落到一句祈使式的收束。
+- **句子结构**：首句祈使发起想象，随后两个第二人称现在时陈述句铺成逐级放大的时间阶梯（a day → a week, your month, your year）。
 - **关键词**：`the resilience of a master`、`weather`、`all the punches`
 - **表达方式**：weather 作动词用（安然度过风暴），punches 呼应拳击场上"挨拳"的隐喻——把生活写成一场对手不断出拳的比赛。
 - **为什么这样写**：自助书开篇的标准动作——先让读者在想象里体验"终点状态"，再用一句宣告把它接到现实（紧随其后的"这一境界完全可达"），体验先行替代说教。
@@ -96,13 +96,13 @@ modified: "2026-10-05"
 - **中文理解**：但我们从来不会真正知道别人的生活里在发生什么。现实是：我们人人都有挑战，人人都有艰辛。
 - **句子结构**：转折词后接一个否定式认知动词收束前文的连环反问；随后的判断句用两个"我们都有"的排比把个体疑虑压平成普遍事实。
 - **关键词**：`never really know`、`The reality is`、`we all have`
-- **表达方式**：前一段连续三句内心疑问（为什么是我／凭什么别人都好）到这里被一句冷静的陈述收束——疑问句的密度越高，陈述句落地越重。
+- **表达方式**：同段连续三句内心疑问（为什么是我／凭什么别人都好）到这里被一句冷静的陈述收束——疑问句的密度越高，陈述句落地越重。
 - **为什么这样写**：这是拆"社交媒体假象"的结论句：既然看不见彼此的真实处境，攀比就没有数据基础；"人人都有挑战"既安抚读者，也把韧性定义为普遍刚需而非弱者的特殊需要。
 
-> **原句 9:** "But resilience is largely about the choices we can make regarding that which is under our control. Far from being a passive endurance of life’s tribulations, resilience is an active process with which you can choose to engage."
+> **原句 9:** "It’s true that the challenges and adversities we face can be beyond our control. But resilience is largely about the choices we can make regarding that which is under our control. Far from being a passive endurance of life’s tribulations, resilience is an active process with which you can choose to engage."
 
 - **中文理解**：我们遭遇的挑战与逆境确实可能超出掌控，但韧性主要关乎我们对可控之事所做的选择。韧性远不是对人生苦难的被动忍受，而是一个你可以选择投入其中的主动过程。
-- **句子结构**：让步加转折的两句递进；末句用"远非……而是……"的框架，把"被动忍受"与"主动过程"钉在句式两端。
+- **句子结构**：第一句让步承认现实，第二句 But 转折递进；末句用"远非……而是……"的框架，把"被动忍受"与"主动过程"钉在句式两端。
 - **关键词**：`under our control`、`passive endurance`、`active process`
 - **表达方式**：被动与主动这对反义形容词分别修饰"忍受"与"过程"，构成全句的对称轴；"选择"一词在两句中两次落地，词根上自我呼应。
 - **为什么这样写**：这是全书方法论的哲学基础——把韧性从"熬"重新定义为"选"；紧接着的路线图句立刻把六个因素接到这份选择清单上，逻辑上完成从宣言到目录的过渡。

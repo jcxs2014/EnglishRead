@@ -8,7 +8,7 @@ modified: "2026-10-05"
 
 - **出处**：*How to Be Resilient*，Gail Gazelle 著，Callisto Publishing 2025 年出版，书内第八章（CHAPTER 8）
 - **作者**：Gail Gazelle，医学博士——前临终关怀医生、医生教练与持证正念冥想导师
-- **章节定位**：全书终章——不引入新理论，而是回收交接：六因素与三大主题收拢成一张随身卡片（正念／自我慈悲／聚焦积极／连接／三法印五个坚持），点名两个长期陷阱（比较、把自我关怀垫底），最后把"人生的作者权"交还读者
+- **章节定位**：全书终章——不引入新理论，而是回收交接：六因素与三法印收拢成一张随身卡片（正念／自我慈悲／聚焦积极／连接／三法印五个坚持），点名两个长期陷阱（比较、把自我关怀垫底），最后把"人生的作者权"交还读者
 - **字符数**：8,651（提取件 `text/ch09_chapter_8_resilience_for_life.txt`）
 - **一句话主旨**：韧性是终身工程而非一次性决定——六个因素与三法印是随身卡片，比较与自我关怀垫底是两个要绕开的陷阱；而终章真正的交付是一句托付：开头改写不了，结尾人人可写，因为我们都是自己人生的作者
 
@@ -21,7 +21,7 @@ modified: "2026-10-05"
   | 证据 | 类型 | 支撑什么 |
   |---|---|---|
   | 六因素总纲：韧性之井由连接、灵活、坚持、自我调节、积极、自我关怀滋养 | 回收/框架 | 全书结构收拢成一句话 |
-  | 三法印回收＋第二支箭 | 回收 | 困难时刻的三句镇定剂，苦难减半的默认程序 |
+  | 三法印回收＋第二支箭 | 回收 | 困难时刻的三句镇定剂，给苦难大幅减负的默认程序 |
   | "比较是快乐的窃贼"（常引格言） | 类比 | 陷阱一：比较让上行螺旋断电 |
   | 选择点无穷（每一个都能加分，没接住的后面还有） | 观察 | 韧性不要求完美，只要求继续 |
   | "我们都是自己人生的作者" | 隐喻 | 终章的托付——开头不可改，结尾人人可写 |
@@ -53,7 +53,7 @@ modified: "2026-10-05"
 
 > **原句 3:** "None of us are perfect, yet we’re all much more okay than we often realize. Our inborn negativity bias leads us to focus on our faults and the things that we don’t do well, so be on guard against this tendency."
 
-- **中文理解**：我们没有人是完美的，但我们所有人都比自己常常意识到的要好得多。
+- **中文理解**：我们没有人是完美的，但我们所有人都比自己常常意识到的要好得多。我们天生的负性偏差让我们只盯着自己的过错和做不好的事——所以要对此保持警惕。
 - **句子结构**：yet 转折的两短句——前句让到底（无人完美），后句把评价抬回来（好得多）；much more...than we often realize 的比较藏在认知层，不是事实层。
 - **关键词**：`None of us are perfect`、`much more okay`、`we often realize`
 - **表达方式**：okay 这个口语词被放进正式句里——作者刻意用最不高级的词量最真实的账；we often realize 点出问题在"意识到"这一层，与负性偏差的诊断接续。
@@ -85,7 +85,7 @@ modified: "2026-10-05"
 
 > **原句 7:** "Though we can expend a lot of mental energy comparing ourselves to others, keep in mind the often-quoted saying: “Comparisons are the thief of joy.” In other words, comparisons with how others live their lives just lead to discontent. Your resilience depends on keeping comparisons in check."
 
-- **中文理解**：虽然我们可能在心理上花大力气把自己与他人比较，但要记住那句常被引用的话："比较是快乐的窃贼。"换句话说，与他人生活的比较只会带来不满。
+- **中文理解**：虽然我们可能在心理上花大力气把自己与他人比较，但要记住那句常被引用的话："比较是快乐的窃贼。"换句话说，与他人生活的比较只会带来不满。你的韧性，取决于把比较看管住。
 - **句子结构**：Though 从句承认比较的自动性（花大力气——它是本能），主句借格言下判；In other words 的翻译句把格言落地成 plain 的"只会带来不满"。
 - **关键词**：`expend a lot of mental energy`、`Comparisons are the thief of joy`、`lead to discontent`
 - **表达方式**：thief（窃贼）的拟人指控精准——比较偷走的不是财物而是你已拥有的快乐；mental energy 的经济学措辞把比较计为支出，与全书"井"的收支隐喻同账本。
@@ -99,10 +99,10 @@ modified: "2026-10-05"
 - **表达方式**：抛球的杂耍意象写出忙碌者的日常体感；truly worth 的副词是全句的承重墙——上一章"我不值得"的信念在此被正面驳回，字面对字面。
 - **为什么这样写**：陷阱二的收束句——它把第七章的核心结论（资格感）用最重的语气再盖一次章；作为终章对读者最后一句叮嘱，选它是因为"值得"是全书实际在卖的东西。
 
-> **原句 9:** "We can’t change the challenges and traumatic events we’ve endured. We can’t change the family we were born into. We can’t change how we or others acted in the past. But we can all begin, today, to write a new ending for our life story."
+> **原句 9:** "In closing, I want to remind you that while none of us can go back and write a new beginning, we can all write a new ending. We can’t change the challenges and traumatic events we’ve endured. We can’t change the family we were born into. We can’t change how we or others acted in the past. But we can all begin, today, to write a new ending for our life story."
 
 - **中文理解**：我们无法回头写一个新的开头，但我们都可以写一个新的结尾。我们无法改变已经承受的挑战与创伤事件。我们无法改变自己出生的家庭。我们无法改变过去自己或他人的行为。但我们都可以从今天开始，为自己的人生故事写一个新的结尾。
-- **句子结构**：开头一句总起（结尾可写），随后三个 We can't change 的排比把不可改之物逐条清点，第四句 But 翻转——三个"不能"的堆叠正是"可以"的力量来源；节奏如退潮后涨潮。
+- **句子结构**：开头一句总起（写不了新的开头，但可以写新的结尾），随后三个 We can't change 的排比把不可改之物逐条清点，But 翻转句收束——三个"不能"的堆叠正是"可以"的力量来源；节奏如退潮后涨潮。
 - **关键词**：`write a new ending`、`We can't change`、`begin, today`
 - **表达方式**：三连否定不是绝望的列举而是边界的测绘——把"不能"的全部画完，剩下的就是全部的自由；begin, today 的插入把宏大命题压到一个可以行动的日子。
 - **为什么这样写**：这是全书的最终论题——作者权隐喻（第四章"人生的作者"、引言的 excavation）在此完成交接；把创伤写成既定文本而把未来留成空白页，是全书对读者的最后授权。
@@ -110,7 +110,7 @@ modified: "2026-10-05"
 > **原句 10:** "We are truly the authors of our lives. And knowing that, my dear reader, is what will make you resilient."
 
 - **中文理解**：我们真正是自己人生的作者。而明白这一点——亲爱的读者——正是会让你有韧性的东西。
-- **句子结构**：第一句是全书的最后判断句（作者身份）；第二句以插入语 my dear reader 停顿一下，把结论直接递到读者手上——like 递证书的动作。
+- **句子结构**：第一句是全书的最后判断句（作者身份）；第二句以插入语 my dear reader 停顿一下，把结论直接递到读者手上——像递证书的动作。
 - **关键词**：`the authors of our lives`、`my dear reader`、`what will make you resilient`
 - **表达方式**：全书最后出现的一次 direct address——我的亲爱的读者，把一本书的回信写成面对面；make you resilient 的句式与书名对齐：不是教你方法，而是"这个认知本身"就是韧性。
 - **为什么这样写**：结尾拒绝再添任何技术——作者把全部论点折叠成一个身份转换（从受困者到作者）；知道自己是作者，不是安慰，是叙事立场，这是本书能给出的最深的一层。

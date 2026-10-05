@@ -41,7 +41,7 @@ modified: "2026-10-05"
 - **中文理解**：与他人的连接是韧性的核心。没有连接，我们的韧性之井会干涸，我们的身心健康也岌岌可危。
 - **句子结构**：先立正面命题，再用 without 的否定条件句补反面代价——一正一反两拍，井的隐喻在章首即完成第一次引用。
 - **关键词**：`at the heart of resilience`、`Without connection`、`dries up`
-- **表达方式**：心脏与干涸的井——一个供血、一个供水，两个内脏隐喻在两句内交接；dries up 让"缺连接"有了可见的水位变化。
+- **表达方式**：心脏与干涸的井——一个供血、一个供水，一个器官隐喻与一个容器隐喻在两句内交接；dries up 让"缺连接"有了可见的水位变化。
 - **为什么这样写**：章首第一段即全章的公理——后面所有证据（演化、数据、案例、练习）都是这条公理的展开；把连接放在六章因素之首，是全书的价值排序。
 
 > **原句 2:** "Our ancestors’ survival depended on banding with others for mutual support in a harsh, dangerous world; lack of connection could truly lead to death. From an evolutionary standpoint, social affiliation is hardwired into our species, and our emotional health is sustained by our bonds with other people."
@@ -63,7 +63,7 @@ modified: "2026-10-05"
 > **原句 4:** "Rob’s confidence grew as his teacher challenged him with more difficult math problems and reading assignments, and his teacher became a role model and a profound source of validation. Looking back, Rob credits that relationship with a sense that someone was there for him, providing the assurance and security that helped him see that he could use his academic talents to pave a path different from the one into which he’d been born."
 
 - **中文理解**：罗布的信心随着老师给他出更难的数学题与阅读作业而生长，这位老师成了他的榜样，也是一股深厚的认可之源。回望来路，罗布把"有人在为他守着"的那种笃定感归功于这段关系——正是这份安心与安全感，让他看清自己可以用学业天赋铺一条与出身不同的路。
-- **句子结构**：第一句 as 从句写信心生长的机制（被加码、被信任），主句用 role model 与 source of validation 双名词收束；第二句动名词复合结构把关系的影响落到人生选择上。
+- **句子结构**：第一句 as 从句写信心生长的机制（被加码、被信任），主句用 role model 与 source of validation 双名词收束；第二句以分词结构收尾，把关系的影响落到人生选择上。
 - **关键词**：`Rob's confidence grew`、`a role model`、`a profound source of validation`
 - **表达方式**：被相信的方式是"出更难的题"——加码即认可，这是全段最反直觉的细节；pave a path different from the one into which he'd been born 把人生写成两条岔路的分叉。
 - **为什么这样写**：Rob 案例是本章的"被看见"样本——一个连接改写一生，为后文"质量胜过数量"埋桩；也呼应作者自己的治疗师：原生家庭缺席的，可由场外的一个人补上。

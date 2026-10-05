@@ -8,7 +8,7 @@ modified: "2026-10-05"
 
 - **出处**：*How to Be Resilient*，Gail Gazelle 著，Callisto Publishing 2025 年出版，书内第七章（CHAPTER 7）
 - **作者**：Gail Gazelle，医学博士——前临终关怀医生、医生教练；本章引 Kristin Neff 的自我关怀研究体系
-- **章节定位**：六个"可培养因素"之六——自我关怀。本章是全书前几章的汇流处：内在批评者（第六章）与自我慈悲（多次预告）在此正面展开，配上自我关怀的信念拆解、三大实证支柱（运动／营养／睡眠／冥想）与"排出优先级"的落地技术
+- **章节定位**：六个"可培养因素"之六——自我关怀。本章是全书前几章的汇流处：内在批评者（第六章）与自我慈悲（多次预告）在此正面展开，配上自我关怀的信念拆解、四大实证支柱（运动／营养／睡眠／冥想）与"排出优先级"的落地技术
 - **字符数**：23,079（提取件 `text/ch08_chapter_7_self_care.txt`）
 - **一句话主旨**：自我关怀是井的水源工程——先拆掉"我不值得／太忙／牺牲才成功"的信念，再按氧气面罩原则先给自己供氧：善待自己不是软弱，而是被研究证实的续航方式，最后落到日程表上的运动、营养、睡眠与冥想
 
@@ -39,7 +39,7 @@ modified: "2026-10-05"
 > **原句 1:** "If we don’t tend to our own mental, physical, emotional, and spiritual well-being, who will? And yet most of us don’t make self-care a priority."
 
 - **中文理解**：如果我们不去照料自己心理、身体、情绪与灵性的健康，还有谁会来照料？然而我们中的大多数人并没有把自我关怀列为优先事项。
-- **句子结构**：反问句开路——who will? 三词收尾，把责任问题悬在读者头顶；And yet 一转，第二句给出刺眼的现状对照。
+- **句子结构**：反问句开路——who will? 两词收尾，把责任问题悬在读者头顶；And yet 一转，第二句给出刺眼的现状对照。
 - **关键词**：`tend to our own`、`who will?`、`self-care a priority`
 - **表达方式**：mental, physical, emotional, spiritual 四个形容词由轻到重铺开全谱——自我关怀被定义成四维工事，不是泡个澡；反问的答案不言自明（没有人），让"被忽略"成为定论。
 - **为什么这样写**：以质问开场是全章的道德压力装置——它把自我关怀从"可选的奢侈"重新归类为"无人代劳的义务"，为后文三大误解的破除立好前提。
@@ -47,7 +47,7 @@ modified: "2026-10-05"
 > **原句 2:** "But the cost of doing that can be high: loss of compassion for others, burnout, and the downward spirals of depression and reduced productivity."
 
 - **中文理解**：但这样做的代价可能很高：对他人失去同情心、倦怠，以及抑郁与生产力下滑的下行螺旋。
-- **句子结构**：冒号后三个并列名词短语逐级加重——从人际（失去同情）到职业（倦怠）到临床（抑郁），like a bill being itemized，代价被逐项开列。
+- **句子结构**：冒号后三个并列名词短语逐级加重——从人际（失去同情）到职业（倦怠）到临床（抑郁），如同一张账单被逐项开列——代价逐条列出。
 - **关键词**：`the cost`、`burnout`、`the downward spirals`
 - **表达方式**：downward spirals 呼应第三章的 upward spirals——本书的螺旋是双向车道；把"不休息"写成有账单的借贷行为，是全章经济隐喻的起点。
 - **为什么这样写**：先给代价清单再谈方法——利用损失厌恶说服比许诺收益更有效；对"总把自己排最后"的读者，这一句是止损点。

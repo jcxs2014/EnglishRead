@@ -39,7 +39,7 @@ modified: "2026-10-05"
 > **原句 1:** "More than just a happy face, positive emotions and optimism contribute to good mental and physical health, and build our resilience to the hardships we encounter."
 
 - **中文理解**：积极情绪与乐观远不止是一张笑脸——它们增进我们的心理与身体健康，并筑起我们对抗所遇磨难的韧性。
-- **句子结构**：More than just a happy face 的介词短语把误读先挂出来示众，主句用三连动词（增进／筑起）把积极的效果铺成复利。
+- **句子结构**：More than just a happy face 的介词短语把误读先挂出来示众，主句用两个动词（增进／筑起）把积极的效果铺成复利。
 - **关键词**：`More than just a happy face`、`good mental and physical health`、`build our resilience`
 - **表达方式**：happy face 一词暗指"强颜欢笑"的流行嫌疑——本章开篇第一件事就是与之切割；build 与井的意象同族，积极是施工材料而非装饰。
 - **为什么这样写**：先立靶再放箭——全章都在证明"积极≠否认黑暗"；把身体收益写进第一句，是给后文的文献综述预约信任。

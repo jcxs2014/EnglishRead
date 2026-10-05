@@ -42,7 +42,7 @@ modified: "2026-10-05"
 - **句子结构**：more than 的比较结构先破后立——把"弹回原状"的流行定义接住再翻上去；第二句短促收束，给灵活一个明确的落点（认知与情绪）。
 - **关键词**：`more than an ability`、`endure tribulations`、`cognitive and emotional flexibility`
 - **表达方式**：与第一章的橡皮筋意象划清界限——硬扛回来不叫韧性；把灵活从身体词汇升格为心智词汇，全章的靶心就此立好。
-- **为什么这样写**：开篇即纠偏——上一章的"弯曲不断"图示太容易读成硬扛；本章第一句就把韧性的灵活从筋骨层面搬到念头层面。
+- **为什么这样写**：开篇即纠偏——上一章的"弯曲不断"图示太容易读成硬扛；开篇段前两句还停在筋骨意象，到这一句才把韧性的灵活从筋骨层面搬到念头层面。
 
 > **原句 2:** "Though many of the circumstances of our lives are beyond our ability to change, we can always change how we view them."
 
@@ -54,7 +54,7 @@ modified: "2026-10-05"
 
 > **原句 3:** "Over that weekend, in addition to worries about money, he found himself thinking, Why is this happening to me? I’m such a failure. Everyone knows that I always mess everything up."
 
-- **中文理解**：整个周末，除了对钱的担忧，他发现自己在不停地想：为什么这种事总发生在我身上？我真是个失败者。所有人都知道我总是把一切搞砸。
+- **中文理解**：整个周末，除了对钱的担忧，他发现自己在想：为什么这种事发生在我身上？我真是个失败者。所有人都知道我总是把一切搞砸。
 - **句子结构**：主句里嵌着直接引出的内心独白，三个短句自问自答步步下坠——语法上是一次引语，功能上是一场反刍的现场录音。
 - **关键词**：`found himself thinking`、`Why is this happening to me?`、`I'm such a failure`
 - **表达方式**：found himself thinking 的"发现自己"措辞精准——反刍不由自主，人被念头绑架而非主动思考；三个句子从疑问到定性再到"人人皆知"，是自我抨击的标准升级路径。
@@ -95,7 +95,7 @@ modified: "2026-10-05"
 > **原句 8:** "The second mark of existence is that everything changes. Nothing is permanent."
 
 - **中文理解**：存在的第二种印记是：一切都在变化。没有任何东西是永恒的。
-- **句子结构**：判断句 + 否定句的四字回声——第一句立命题，第二句以 Nothing 的全称否定把命题焊死。
+- **句子结构**：两个全称短句一正一反——第一句立命题，第二句以 Nothing 的全称否定把命题焊死。
 - **关键词**：`The second mark`、`everything changes`、`Nothing is permanent`
 - **表达方式**：mark（印记）的译法保留了佛教"三法印"的术语底色；两个句子一正一反、一全称一全称，形成教义般的确定性。
 - **为什么这样写**：三法印是本章给"变化"找的文化级靠山——不是鸡汤式"会好的"，而是存在论式的"必然变"；承接它的正是下一句"我们接受得并不优雅"的人间真实。
