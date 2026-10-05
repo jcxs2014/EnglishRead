@@ -22,7 +22,7 @@ modified: "2026-10-05"
 - **为什么这样写**：终章开场是一段会务通知——历史恐怖的两百年后变成了露营行程。nominal charge（象征性收费）与 Registration Desk（报到处）的公文腔，把正文里用命换来的每一寸「后来」折算成会议手册上的一行字。她的痛与他们的雨具，在同一张日程表上排队。
 - **读者视角提示**：记住这段会务腔——它是全书「日常化」主题的最后一次回响：连遗忘都是照章办事的。
 
-> **原句 2:** I say soi-disant because what we have before us is not the item in its original form. Strictly speaking, it was not a manuscript at all when first discovered, and bore no title. The superscription "The Handmaid's Tale" was appended to it by Professor Wade, partly in homage to the great Geoffrey Chaucer.
+> **原句 2:** I say soi-disant because what we have before us is not the item in its original form. Strictly speaking, it was not a manuscript at all when first discovered, and bore no title. The superscription “The Handmaid’s Tale” was appended to it by Professor Wade, partly in homage to the great Geoffrey Chaucer.
 
 - **中文理解**：「我说『所谓的』，是因为我们手头的这个东西已不是它的原貌。……《使女的故事》这个题名是 Wade 教授后加上去的——部分是向伟大的乔叟致敬。」
 - **关键词**：soi-disant · the item · appended · in homage to
