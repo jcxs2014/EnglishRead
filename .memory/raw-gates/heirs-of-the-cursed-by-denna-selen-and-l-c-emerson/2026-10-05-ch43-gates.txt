@@ -1,0 +1,123 @@
+=== ch43（Chapter 42）门禁留档 2026-10-05 ===
+
+$ verify_quotes
+ch01 the seventh son turns to stone.md: 8/8 ✅
+ch02 mind breaker at the circus.md: 10/10 ✅
+ch03 a lie called ausra.md: 12/12 ✅
+ch04 the chaser arrives at her door.md: 8/8 ✅
+ch05 naithea steals the soldiers secrets.md: 8/8 ✅
+ch06 the chaser asks for help.md: 8/8 ✅
+ch07 ausra means sunrise.md: 9/9 ✅（另有 1 条短引语未校验）
+ch08 the dark twins are gone.md: 11/11 ✅（另有 1 条短引语未校验）
+ch09 the dark twins have been missing.md: 11/11 ✅
+ch10 what the light of the night leaves behind.md: 8/8 ✅
+ch11 caught between the sword and the precipice.md: 11/11 ✅
+ch12 the midnight thief.md: 12/12 ✅
+ch13 a woman with knowledge is dangerous.md: 12/12 ✅
+ch14 the threads of her own mind.md: 14/14 ✅
+ch15 the fatis asteria.md: 11/11 ✅
+ch16 the midnight thief.md: 11/11 ✅
+ch17 the commander of death remembers her name.md: 14/14 ✅
+ch18 the midnight thief looks down.md: 15/15 ✅
+ch19 the compass and the confession.md: 14/14 ✅
+ch20 the keys of the twin goddesses.md: 18/18 ✅
+ch21 the night that could be their end.md: 20/20 ✅
+ch22 three weeks.md: 20/20 ✅
+ch23 mistake number two.md: 20/20 ✅
+ch24 thorns and tulips.md: 19/19 ✅（另有 1 条短引语未校验）
+ch25 surrender to me.md: 20/20 ✅
+ch26 the mark of a key.md: 20/20 ✅
+ch27 the monster she hid in her soul.md: 20/20 ✅
+ch28 you must follow the light.md: 20/20 ✅
+ch29 a betrayal to his king.md: 20/20 ✅
+ch30 then darkness swallowed her whole.md: 19/19 ✅
+ch31 the monster came to save her.md: 17/17 ✅（另有 2 条短引语未校验）
+ch32 you are not darcia voreia.md: 16/16 ✅（另有 4 条短引语未校验）
+ch33 she had a twin sister.md: 20/20 ✅
+ch34 the taste of revenge.md: 20/20 ✅
+ch35 she is amira boreaalinen.md: 19/19 ✅（另有 1 条短引语未校验）
+ch36 she ripped out his heart.md: 20/20 ✅
+ch37 im going to get my sisters to safety.md: 20/20 ✅
+ch38 that cave had been her home.md: 20/20 ✅
+ch39 she closed her eyes and sang.md: 20/20 ✅
+ch40 my twenty-second birthday.md: 20/20 ✅
+ch41 she is already dead.md: 20/20 ✅
+ch42 dont touch her.md: 18/18 ✅（另有 2 条短引语未校验）
+ch43 you cant kill whats already dead.md: 20/20 ✅
+
+⚠️ 全书共 12 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 673/673 引文可核实（100%）；完全干净文件 43/43；正文章节 0 提取 0；总览 0 提取转交 0 ===
+exit=0
+
+$ check_chapter_quotes 43
+ch43 you cant kill whats already dead.md: 20/20 in ch43 text
+exit=0
+
+$ check_vocab
+词条行合计: 1283
+
+--- FAIL (0) ---
+
+--- WARN (18) ---
+  ch02 mind breaker at the circus.md [基础] 基础档疑含超纲词「cobblestones」
+  ch03 a lie called ausra.md [基础] 基础档疑含超纲词「merchants」
+  ch04 the chaser arrives at her door.md [基础] 基础档疑含超纲词「breakfast」
+  ch05 naithea steals the soldiers secrets.md [基础] 基础档疑含超纲词「eyelashes」
+  ch07 ausra means sunrise.md [基础] 基础档疑含超纲词「vegetables」
+  ch08 the dark twins are gone.md [基础] 基础档疑含超纲词「whimpered」
+  ch08 the dark twins are gone.md [基础] 基础档疑含超纲词「desperately」
+  ch10 what the light of the night leaves behind.md [基础] 基础档疑含超纲词「fireworks」
+  ch11 caught between the sword and the precipice.md [基础] 基础档疑含超纲词「adjustable」
+  ch12 the midnight thief.md [基础] 基础档疑含超纲词「cobblestones」
+  ch14 the threads of her own mind.md [基础] 基础档疑含超纲词「chandeliers」
+  ch19 the compass and the confession.md [基础] 基础档疑含超纲词「heartbeat」
+  ch20 the keys of the twin goddesses.md [基础] 基础档疑含超纲词「stammered」
+  ch22 three weeks.md [基础] 基础档疑含超纲词「girlfriend」
+  ch22 three weeks.md [基础] 基础档疑含超纲词「stepbrother」
+  ch22 three weeks.md [基础] 基础档疑含超纲词「shoulders」
+  ch24 thorns and tulips.md [基础] 基础档疑含超纲词「chandeliers」
+  ch24 thorns and tulips.md [基础] 基础档疑含超纲词「champagne」
+exit=0
+
+$ check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+exit=0
+
+$ corruption_scan
+
+=== 编辑损坏扫描（heirs-of-the-cursed-by-denna-selen-and-l-c-emerson）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+exit=0
+
+$ sweep_full --quiet
+=== 引语整串 flat 比对（heirs-of-the-cursed-by-denna-selen-and-l-c-emerson）===
+  参照集：text/ 逐章（44 章，可定章） + epub 交叉验证
+  ✅ 本章命中 673 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 14 条归 check_short_quotes；无章可对 0 条未判）
+exit=0
+
+$ check_short_quotes
+=== 短引语兜底核对（heirs-of-the-cursed-by-denna-selen-and-l-c-emerson）===
+  verify_quotes 跳过（<20 flat 字符）的引语：14 条 —— 这些主门禁**根本没查**
+  ✅ 命中 14 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+exit=0
+
+$ indep_check --ch 43
+
+=== 独立复算：1 章 ｜ 引语 20 · 例句 30 · 导航层 61 ===
+✅ 三把尺全过（①b 含标点原样 / ①c 单段内 / 例句含词头）
+exit=0
+
+$ navscan --ch 43
+— 本章导航: 命中本章 51 · 跨章可核 0 · 跨句合并(假红) 0 · 编造 0
+— 一句话总结: 命中本章 36 · 跨章可核 0 · 跨句合并(假红) 0 · 编造 0
+  🔶 跨章借用 [精读层(为什么/读者视角/关键词)] caressing  → ch10, ch22, ch23, ch24, ch29, ch30
+  🔶 跨章借用 [精读层(为什么/读者视角/关键词)] surrender  → ch20, ch21, ch22, ch25, ch27, ch28
+  🔶 跨章借用 [精读层(为什么/读者视角/关键词)] to end them all  → ch42
+— 精读层(为什么/读者视角/关键词): 命中本章 166 · 跨章可核 3 · 跨句合并(假红) 0 · 编造 0
+
+✅ 无编造片段（跨章借用已标注章号，读者可自核）
+exit=0
