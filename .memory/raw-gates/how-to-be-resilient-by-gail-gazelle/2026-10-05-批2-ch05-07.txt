@@ -1,0 +1,73 @@
+=== 批2 ch05-ch07 门禁 2026-10-05（完整 lane）===
+
+ch01 Introduction.md: 10/10 ✅
+ch02 Cultivate Your Resilience.md: 10/10 ✅
+ch03 Connection.md: 10/10 ✅
+ch04 Flexibility.md: 10/10 ✅
+ch05 Perseverance.md: 10/10 ✅
+ch06 Self Regulation.md: 10/10 ✅
+ch07 Positivity.md: 10/10 ✅
+
+=== 总计 70/70 引文可核实（100%）；完全干净文件 7/7；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+词条行合计: 209
+
+--- FAIL (0) ---
+
+--- WARN (35) ---
+  ch01 Introduction.md [基础] 基础档疑含超纲词「confident」
+  ch01 Introduction.md [基础] 基础档疑含超纲词「stability」
+  ch01 Introduction.md [基础] 基础档疑含超纲词「strengths」
+  ch01 Introduction.md [基础] 基础档疑含超纲词「hardships」
+  ch01 Introduction.md [基础] 基础档疑含超纲词「strategies」
+  ch01 Introduction.md [基础] 基础档疑含超纲词「practical」
+  ch02 Cultivate Your Resilience.md [基础] 基础档疑含超纲词「resilience」
+  ch02 Cultivate Your Resilience.md [基础] 基础档疑含超纲词「experiences」
+  ch02 Cultivate Your Resilience.md [?] 词汇节外有 4 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch03 Connection.md [基础] 基础档疑含超纲词「connection」
+  ch03 Connection.md [基础] 基础档疑含超纲词「resilience」
+  ch03 Connection.md [基础] 基础档疑含超纲词「relationships」
+  ch03 Connection.md [基础] 基础档疑含超纲词「friendships」
+  ch03 Connection.md [基础] 基础档疑含超纲词「physician」
+  ch03 Connection.md [基础] 基础档疑含超纲词「stability」
+  ch03 Connection.md [?] 词汇节外有 2 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch04 Flexibility.md [基础] 基础档疑含超纲词「resilient」
+  ch04 Flexibility.md [基础] 基础档疑含超纲词「situation」
+  ch04 Flexibility.md [基础] 基础档疑含超纲词「experience」
+  ch04 Flexibility.md [?] 词汇节外有 3 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch05 Perseverance.md [基础] 基础档疑含超纲词「resilient」
+  ch05 Perseverance.md [基础] 基础档疑含超纲词「perseverance」
+  ch05 Perseverance.md [基础] 基础档疑含超纲词「difficult」
+  ch05 Perseverance.md [基础] 基础档疑含超纲词「situation」
+  ch05 Perseverance.md [基础] 基础档疑含超纲词「comfortable」
+  ch05 Perseverance.md [基础] 基础档疑含超纲词「experience」
+  ch05 Perseverance.md [?] 词汇节外有 4 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch06 Self Regulation.md [基础] 基础档疑含超纲词「resilience」
+  ch06 Self Regulation.md [基础] 基础档疑含超纲词「motivation」
+  ch06 Self Regulation.md [?] 词汇节外有 3 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch07 Positivity.md [基础] 基础档疑含超纲词「positivity」
+  ch07 Positivity.md [基础] 基础档疑含超纲词「resilient」
+  ch07 Positivity.md [基础] 基础档疑含超纲词「confidence」
+  ch07 Positivity.md [基础] 基础档疑含超纲词「meditation」
+  ch07 Positivity.md [?] 词汇节外有 3 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+
+=== 编辑损坏扫描（how-to-be-resilient-by-gail-gazelle）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== 引语整串 flat 比对（how-to-be-resilient-by-gail-gazelle）===
+  参照集：text/ 逐章（9 章，可定章） + epub 交叉验证
+  ✅ 本章命中 70 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+=== 短引语兜底核对（how-to-be-resilient-by-gail-gazelle）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+== 逐章归属 ch05-07 ==
+ch05 Perseverance.md: 10/10 in ch05 text
+ch06 Self Regulation.md: 10/10 in ch06 text
+ch07 Positivity.md: 10/10 in ch07 text
