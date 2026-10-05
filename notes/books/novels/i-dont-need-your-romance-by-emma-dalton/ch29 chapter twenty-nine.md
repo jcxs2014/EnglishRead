@@ -101,6 +101,41 @@ modified: "2026-10-06"
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| Breathtaking | 美得让人屏息的 | Sophie: Breathtaking! |
+| confiscate | 没收（此处指没收礼物） | Sophie: Do I need to march over and confiscate your gift? |
+| impossible | 不可能的 | And he’s nearly impossible to get past. |
+
+### ⭐⭐ 进阶
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| absorbed | 全神贯注的 | I should have expected it because that’s like the most cliché thing to happen in romance books, but I was too absorbed in the beautiful movie. |
+| costumes | 服装（戏服） | The side characters were entertaining and the costumes were great. |
+| clutching | 紧抱着（此处指抱着袋子） | He’s clutching the bag with his gift while I carry the other bag and Queen Rose. |
+| homework | 作业 | We left after our session and didn’t have a chance to do our homework. |
+| suspicion | 怀疑的眼神 | Raven is eyeing the helmet with suspicion. |
+
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| art kit | 画具套装 | I notice him rub his hand along the art kit I “bought” for him (I’m so going to pay him back somehow). |
+| best movie | 最棒的电影 | “Tell me that was the best movie you’ve ever watched in your life,” I tell Damian as the rest of the guests start piling out of the theater. |
+| eyes pop | 眼睛瞪圆 | Her eyes pop wide open. |
+| fantasy romance | 奇幻爱情故事 | “Sure, I can admit that one might never experience a fantasy romance like the movie,” he says. |
+| gift | 礼物 | Sophie: Do I need to march over and confiscate your gift? |
+| girlfriend | 女朋友 | He just told me tonight that he doesn’t ever want a girlfriend. |
+| jumbo cookie | 超大尺寸曲奇 | We order burgers, fries, onion rings, and a jumbo cookie that we’ll split. |
+| lips lift | 嘴角扬起 | The entire time, I replay the events that took place tonight, and my lips lift into a large smile. |
+| perfect record | 完美的记录（此处指没违纪） | Damian: Would you really risk your perfect record for that? |
+| picture message | 图片短信 | When I’m almost done, I receive a picture message from Damian. |
+| side characters | 配角 | The side characters were entertaining and the costumes were great. |
+| tub | （此处指爆米花桶） | He munches on the last bit of popcorn from the tub. |
+
 ## 一句话总结
 
 散场后她宣布她又赢了一局，而他说这部电影什么都比不上；她给粉色头盔起名叫 Queen Rose，他说了那句自己都没准备好的话——你是唯一一个会坐我车的女生。
