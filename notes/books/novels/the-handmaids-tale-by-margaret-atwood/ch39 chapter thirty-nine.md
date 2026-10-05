@@ -11,7 +11,7 @@ modified: "2026-10-05"
 - **一句话概括**：他得意地亮出房卡（I am to understand）；浴室里西班牙香皂的味道让她想家（bodily functions 至少还是民主的）；Moira 在影片里认出了她的母亲——Colonies 的灰衣人堆里那张特写脸；她回到公寓搜寻的回忆：被翻成废墟的房间、Luke 的一句 Just don't；镜子里的 travesty（用过的亮片、脱妆的脸）；床上他的脚终于脱掉了——她躺成一具 dead bird，脑内嘶喊：Fake it。
 - **情感弧线位置**：全章是失重的坠落段——母亲线（她还活着，但等于死了）与床戏线（futility and bathos）交叉下坠；Fake it 的内心嘶喊是弧线的谷底。
 - **叙事手法**：房间的原样叠印（Everything is the same——与 Luke 的旅馆记忆对撞）；Moira 的两句话剪辑（Thank God / She might as well be）；镜子前的自我验伤（carnival dolls）。
-- **线索进展**：① 母亲的下落：还活着，在 Colony 清理毒素——She might as well be；② 公寓被抄——她的失踪早于「变糟之前」；③ Luke 的 Just don't——他对时局的判断先于她（报警反而危险）；④ 纹身的另一种读法（a Braille he can read——他能读的盲文）；⑤ 脱下制服的他「像被晾干的东西」——布料即权力；⑥ 明晚的 Ceremony——Serena 要查岗，midnight pumpkin 的童话倒计时。
+- **线索进展**：① 母亲的下落：还活着，在 Colonies 清理毒素——She might as well be；② 公寓被抄——她的失踪早于「变糟之前」；③ Luke 的 Just don't——他对时局的判断先于她（报警反而危险）；④ 纹身的另一种读法（a Braille he can read——他能读的盲文）；⑤ 脱下制服的他「像被晾干的东西」——布料即权力；⑥ 明晚的 Ceremony——Serena 要查岗，midnight pumpkin 的童话倒计时。
 
 ## 精读
 
