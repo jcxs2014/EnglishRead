@@ -64,15 +64,13 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 **《I Am Not Jessica Chen》（Ann Liang）精读完工 + 独立五步审查通过**｜`notes/books/novels/i-am-not-jessica-chen-by-ann-liang/`
 
-**规模**：21 章正文（ch01–ch21，1:1 零偏移）+ 总览三篇 = **24 md**；text/ 21 件。体裁：当代青少年现实向小说（**诗行体**），言情/情感长篇档逐章精读。⚠️ epub 原件与 text/ 两侧 `Tyler` **0 次**，另一主角是 **Jenna**（Jessica 的表姐），全程按原文写。
+**文件数**：21 章正文（ch01–ch21，1:1 零偏移）+ 总览三篇 = **24 md**；text/ 21 件。体裁：当代青少年现实向小说（诗行体 verse novel），按言情/情感长篇档逐章精读。⚠️ epub 原件与 text/ 两侧 `Tyler` **0 次**，另一主角是 **Jenna Chen**（Jessica 的表姐），全程按原文写、未用出版本记忆。
 
-**完工门禁（完整 lane，epub 在位）**：verify_quotes **161/161**（干净 22/22）· check_vocab **799 行 FAIL 0** · 逐章归属 21 章全 X/X · sweep_full 跨章/拼接/查无均 0 · 结构缺陷 0 · 总览 **42/42**。
+**完工门禁（完整 lane，epub 在位）**：`gate.sh` **EXIT=0** · verify_quotes **161/161**（干净 22/22）· check_vocab **799 词条行 FAIL 0** · 逐章归属 21 章全 X/X · sweep_full 跨章/拼接/查无均 0 · 结构缺陷 0 · 总览引语 42/42。
 
-**独立五步审查（a–e 全部执行，同会话审查未自我豁免）**：**a 步当场抓到 2 处 corruption FAIL**——`gate.sh` 正门结论的聚合判据匹配不到 `FAIL n 处` 行 ⇒ 第 3 条进门禁项不计入门禁（已修工具+内容，投毒自证）。**b/c 步**换第二实现复核 159 块（两把尺子一致）。**d 步**三子代理逐块报 31 条，回源复核后 **22 条阻断型已整改**（块内散文错位 3·说话人指认 3·计数断言数错 6·跨章指错 3·自相矛盾 4·引语截短 3）。**e 步**抓到总览**中英整段错配 4 条**——模板块号按记忆填写、事后删块后 seq 前移，正是 `check_overview_full`/`labels` 只验逐字+章标注的共同盲区（已新增检测器并改模板重生成）。
+**审查结论**：独立五步审查 a–e 全部执行（同会话审查，未自我豁免）。子代理逐块二审 159 块报 31 条，回源复核后确认 **22 条阻断型**，已全部整改（块内散文错位 3 · 说话人指认 3 · 计数断言数错 6 · 跨章指错 3 · 自相矛盾 4 · 引语截短 3）；另 a 步查出 2 处 U+FFFD 并连带修掉 `gate.sh` 正门结论漏计 `corruption_scan` 的工具缺陷。**复验与整改前基线一致或更优，0 遗留。**
 
-**复验与基线一致或更优**：`gate.sh` **EXIT=0**；verify_quotes 161/161 · 逐章归属 159/159（含主门禁跳过的 10 条短引语）· sweep_full 149 命中/跨章 0/拼接 0/查无 0 · check_vocab FAIL 0 · corruption FAIL 0 · 总览标注 47/47。
-
-**10 commits 未 push**（`09b219093`→`367f0cb7e`）。逐行明细见工作日志；门禁原件 `.memory/raw-gates/i-am-not-jessica-chen-by-ann-liang/`。
+**11 commits 未 push**（`09b219093`→`14a0685df`）。逐行明细、三档定性、逐条清单见工作日志 `.memory/daily/2026-10-05.md`；门禁原件 `.memory/raw-gates/i-am-not-jessica-chen-by-ann-liang/`。
 
 ### [2026-10-05 18:47 UTC] [MiniMax-Mac] → All
 
