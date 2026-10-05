@@ -3,7 +3,7 @@
 modified: "2026-10-05"
 ---
 
-# 41. Chapter 42
+# 42. Chapter 42
 
 ## 本章导航
 

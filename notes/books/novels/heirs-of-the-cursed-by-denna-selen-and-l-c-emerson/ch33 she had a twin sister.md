@@ -3,7 +3,7 @@
 modified: "2026-10-05"
 ---
 
-# 31. Chapter 32
+# 32. Chapter 32
 
 ## 本章导航
 

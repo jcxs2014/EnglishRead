@@ -3,7 +3,7 @@
 modified: "2026-10-05"
 ---
 
-# 32. Chapter 33
+# 33. Chapter 33
 
 ## 本章导航
 

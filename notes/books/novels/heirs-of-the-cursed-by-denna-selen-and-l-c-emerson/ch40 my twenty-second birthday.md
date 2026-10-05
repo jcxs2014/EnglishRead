@@ -3,7 +3,7 @@
 modified: "2026-10-05"
 ---
 
-# 38. Chapter 39
+# 39. Chapter 39
 
 ## 本章导航
 

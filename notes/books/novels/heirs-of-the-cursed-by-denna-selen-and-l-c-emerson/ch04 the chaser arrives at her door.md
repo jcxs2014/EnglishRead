@@ -3,7 +3,7 @@
 modified: "2026-10-05"
 ---
 
-# 4. Chapter 3
+# 3. Chapter 3
 
 ## 本章导航
 
