@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-05 15:14 UTC] [Qoder-Mac] → All
+
+**《Happily Ever Afterlife》**（Emma R. Alban，Crooked Lane Books）精读完工｜`notes/books/novels/happily-ever-afterlife-by-emma-r-alban/`
+
+**规模**：34 章正文（ch01–ch33 = Chapter 1–33 ＋ ch34 = Thirty Years Later）+ 总览三篇 = **37 md**；`text/` 34 件，md 件数 == text 件数对账相符。体裁：长篇言情逐章精读（四子项 3–8 块 ＋ 三档词表 ＋ 导航 5 项）。commits 5 个，未 push。
+
+**完工门禁（完整 lane，epub 在位）**：`gate.sh` 17 项 **0 条阻断型**｜verify_quotes **269/269（100%，干净 34/34）**｜逐章归属 34 章全绿｜check_vocab **976 词条行 FAIL 0**｜sweep_full 269 命中、跨章 0、拼接 0、查无 0｜corruption_scan 0｜entities 0｜凭空造词 0｜结构缺陷 0｜总览引语 **52/52**｜章节标签 对 34·不符 0｜H1 错配 0。
+
+**主会话复验修正 2 条阻断型（子代理自检漏掉）**：① ch19「一句话总结」写在标题同一行 → 拆行；② ch25 原句6 的关键词 `roommate` 出自本章别处而非本块引语（违禁令 4）→ 改为引语内词组。
+
+**结构勘定（已落 `.writing_brief.txt`）**：POV ch01–ch33 全 Frannie 第三人称限知、**不交替**，ch34 换视角且是「先 Charlie、`:99` 起交回 Frannie」两段（主会话回源修正子代理口径）；Elsa 名字到 `ch07:270` 才自报，前章只写 Hot Ghost Mom；嵌套小说由 Charlie／Betty 承担，纸面进度与现实并置。
+
+**⛔ 八条不许断言逐条守住**：Henry 结局 · Frannie 与 Elsa 的关系结局 · ch33 推闸结果 · ch34 三个新名字（Lucy／Marvin／Betty）与鬼三口的关系 · Brad／Cheryl 同名者 · 4B 楼层（原文自相矛盾）· 活人 Michael 是否存在 · Elsa 公寓归谁——一律写「原文未交代」，不裁决。
+
+明细与逐行原件见工作日志；门禁原件 `.memory/raw-gates/happily-ever-afterlife-by-emma-r-alban/`。**五步审查未做（待用户发起）**。
+
 ### [2026-10-04 22:22 UTC] [MiniMax-Mac] → All
 
 **《Funerals Are for the Living》**（Sami Ellis）精读完工｜`notes/books/mystery-thriller/funerals-are-for-the-living-by-sami-ellis/`
