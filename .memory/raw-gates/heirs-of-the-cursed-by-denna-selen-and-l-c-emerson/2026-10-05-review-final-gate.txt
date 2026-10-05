@@ -1,0 +1,186 @@
+gate.sh 中途中止（set -u 未定义变量等），以上为中止前的输出。
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 691/691 引文可核实（100%）；完全干净文件 44/44；正文章节 0 提取 0；总览 0 提取转交 2；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 1313
+--- FAIL (0) ---
+--- WARN (18) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  ❌ FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 691 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 16 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 the seventh son turns to stone.md         ch01 the seventh son turns to stone.md: 8/8 in ch01 text
+ch02 mind breaker at the circus.md             ch02 mind breaker at the circus.md: 10/10 in ch02 text
+ch03 a lie called ausra.md                     ch03 a lie called ausra.md: 12/12 in ch03 text
+ch04 the chaser arrives at her door.md         ch04 the chaser arrives at her door.md: 8/8 in ch04 text
+ch05 naithea steals the soldiers secrets.md    ch05 naithea steals the soldiers secrets.md: 8/8 in ch05 text
+ch06 the chaser asks for help.md               ch06 the chaser asks for help.md: 8/8 in ch06 text
+ch07 ausra means sunrise.md                    ch07 ausra means sunrise.md: 9/9 in ch07 text（另有 1 条短引语未校验）
+ch08 the dark twins are gone.md                ch08 the dark twins are gone.md: 11/11 in ch08 text（另有 1 条短引语未校验）
+ch09 the dark twins have been missing.md       ch09 the dark twins have been missing.md: 11/11 in ch09 text
+ch10 what the light of the night leaves behind.md ch10 what the light of the night leaves behind.md: 8/8 in ch10 text
+ch11 caught between the sword and the precipice.md ch11 caught between the sword and the precipice.md: 11/11 in ch11 text
+ch12 the midnight thief.md                     ch12 the midnight thief.md: 12/12 in ch12 text
+ch13 a woman with knowledge is dangerous.md    ch13 a woman with knowledge is dangerous.md: 12/12 in ch13 text
+ch14 the threads of her own mind.md            ch14 the threads of her own mind.md: 14/14 in ch14 text
+ch15 the fatis asteria.md                      ch15 the fatis asteria.md: 11/11 in ch15 text
+ch16 the midnight thief.md                     ch16 the midnight thief.md: 11/11 in ch16 text
+ch17 the commander of death remembers her name.md ch17 the commander of death remembers her name.md: 14/14 in ch17 text
+ch18 the midnight thief looks down.md          ch18 the midnight thief looks down.md: 15/15 in ch18 text
+ch19 the compass and the confession.md         ch19 the compass and the confession.md: 14/14 in ch19 text
+ch20 the keys of the twin goddesses.md         ch20 the keys of the twin goddesses.md: 18/18 in ch20 text
+ch21 the night that could be their end.md      ch21 the night that could be their end.md: 20/20 in ch21 text
+ch22 three weeks.md                            ch22 three weeks.md: 20/20 in ch22 text
+ch23 mistake number two.md                     ch23 mistake number two.md: 20/20 in ch23 text
+ch24 thorns and tulips.md                      ch24 thorns and tulips.md: 19/19 in ch24 text（另有 1 条短引语未校验）
+ch25 surrender to me.md                        ch25 surrender to me.md: 20/20 in ch25 text
+ch26 the mark of a key.md                      ch26 the mark of a key.md: 20/20 in ch26 text
+ch27 the monster she hid in her soul.md        ch27 the monster she hid in her soul.md: 20/20 in ch27 text
+ch28 you must follow the light.md              ch28 you must follow the light.md: 20/20 in ch28 text
+ch29 a betrayal to his king.md                 ch29 a betrayal to his king.md: 20/20 in ch29 text
+ch30 then darkness swallowed her whole.md      ch30 then darkness swallowed her whole.md: 19/19 in ch30 text
+ch31 the monster came to save her.md           ch31 the monster came to save her.md: 17/17 in ch31 text（另有 2 条短引语未校验）
+ch32 you are not darcia voreia.md              ch32 you are not darcia voreia.md: 16/16 in ch32 text（另有 4 条短引语未校验）
+ch33 she had a twin sister.md                  ch33 she had a twin sister.md: 20/20 in ch33 text
+ch34 the taste of revenge.md                   ch34 the taste of revenge.md: 20/20 in ch34 text
+ch35 she is amira boreaalinen.md               ch35 she is amira boreaalinen.md: 19/19 in ch35 text（另有 1 条短引语未校验）
+ch36 she ripped out his heart.md               ch36 she ripped out his heart.md: 20/20 in ch36 text
+ch37 im going to get my sisters to safety.md   ch37 im going to get my sisters to safety.md: 20/20 in ch37 text
+ch38 that cave had been her home.md            ch38 that cave had been her home.md: 20/20 in ch38 text
+ch39 she closed her eyes and sang.md           ch39 she closed her eyes and sang.md: 20/20 in ch39 text
+ch40 my twenty-second birthday.md              ch40 my twenty-second birthday.md: 20/20 in ch40 text
+ch41 she is already dead.md                    ch41 she is already dead.md: 20/20 in ch41 text
+ch42 dont touch her.md                         ch42 dont touch her.md: 18/18 in ch42 text（另有 2 条短引语未校验）
+ch43 you cant kill whats already dead.md       ch43 you cant kill whats already dead.md: 20/20 in ch43 text
+ch44 i will find them harg.md                  ch44 i will find them harg.md: 18/18 in ch44 text（另有 2 条短引语未校验）
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：44 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（heirs-of-the-cursed-by-denna-selen-and-l-c-emerson）===
+  ✅ 逐字 1823 ｜ ⚠️ 跨章 12 ｜ 🔶 拼接 2 ｜ 🟠 部分命中 1 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 2450
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 20
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 5 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 15 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 松散关键词明细 ──
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 20/20 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 30/30 ✅
+
+=== 总览引文 50/50 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（heirs-of-the-cursed-by-denna-selen-and-l-c-emerson）===
+  参照集：text/（44 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（heirs-of-the-cursed-by-denna-selen-and-l-c-emerson）===
+  带前缀的 `> **原句 N:**` 行：44 个文件共 707 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+  ❌ ch02 mind breaker at the circus.md: 引语块 10 个，超出言情精简格式的 3–8配额
+  ❌ ch03 a lie called ausra.md: 引语块 12 个，超出言情精简格式的 3–8配额
+  ❌ ch07 ausra means sunrise.md: 引语块 10 个，超出言情精简格式的 3–8配额
+  ❌ ch08 the dark twins are gone.md: 引语块 12 个，超出言情精简格式的 3–8配额
+  ❌ ch09 the dark twins have been missing.md: 引语块 11 个，超出言情精简格式的 3–8配额
+  ❌ ch11 caught between the sword and the precipice.md: 引语块 11 个，超出言情精简格式的 3–8配额
+  ❌ ch12 the midnight thief.md: 引语块 12 个，超出言情精简格式的 3–8配额
+  ❌ ch13 a woman with knowledge is dangerous.md: 引语块 12 个，超出言情精简格式的 3–8配额
+  ❌ ch14 the threads of her own mind.md: 引语块 14 个，超出言情精简格式的 3–8配额
+  ❌ ch15 the fatis asteria.md: 引语块 11 个，超出言情精简格式的 3–8配额
+  ❌ ch16 the midnight thief.md: 引语块 11 个，超出言情精简格式的 3–8配额
+  ❌ ch17 the commander of death remembers her name.md: 引语块 14 个，超出言情精简格式的 3–8配额
+  ❌ ch18 the midnight thief looks down.md: 引语块 15 个，超出言情精简格式的 3–8配额
+  ❌ ch19 the compass and the confession.md: 引语块 14 个，超出言情精简格式的 3–8配额
+  ❌ ch20 the keys of the twin goddesses.md: 引语块 18 个，超出言情精简格式的 3–8配额
+  ❌ ch20 the keys of the twin goddesses.md 原句3: 关键词不在本块引语内 → ['she covered her ears with her hands']
+  ❌ ch21 the night that could be their end.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch22 three weeks.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch23 mistake number two.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch24 thorns and tulips.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch25 surrender to me.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch25 surrender to me.md 原句13: 关键词不在本块引语内 → ['Not in fear', 'In warning']
+  ❌ ch26 the mark of a key.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch27 the monster she hid in her soul.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch27 the monster she hid in her soul.md 原句6: 关键词不在本块引语内 → ['the soldiers unsheathed their swords', 'scanned their surroundings for signs of threats']
+  ❌ ch27 the monster she hid in her soul.md 原句14: 关键词不在本块引语内 → ['until their foreheads brushed']
+  ❌ ch28 you must follow the light.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch28 you must follow the light.md 原句6: 关键词不在本块引语内 → ['The world fell violently on her shoulders']
+  ❌ ch28 you must follow the light.md 原句8: 关键词不在本块引语内 → ['Harg had warned her']
+  ❌ ch28 you must follow the light.md 原句18: 关键词不在本块引语内 → ['the words had abandoned her']
+  ❌ ch29 a betrayal to his king.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch30 then darkness swallowed her whole.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch30 then darkness swallowed her whole.md 原句2: 关键词不在本块引语内 → ['Her father was gone', 'Her stepbrother hated her', 'She couldn’t find her friends', 'or Caeli']
+  ❌ ch30 then darkness swallowed her whole.md 原句15: 关键词不在本块引语内 → ['lowered a hand toward her chest', 'Not a heartbeat.', 'Not a sigh.']
+  ❌ ch30 then darkness swallowed her whole.md 原句16: 关键词不在本块引语内 → ['But there was no salvation for Caeli']
+  ❌ ch30 then darkness swallowed her whole.md 原句18: 关键词不在本块引语内 → ['“No!” she shouted. “I’m not going to leave her.”', '‘You won’t make it out alive.’', '“Shut up!”']
+  ❌ ch30 then darkness swallowed her whole.md 原句20: 关键词不在本块引语内 → ['a hard blow struck the back of her neck with brutal force']
+  ❌ ch31 the monster came to save her.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch31 the monster came to save her.md 原句7: 关键词不在本块引语内 → ['She was in her old room.']
+  ❌ ch31 the monster came to save her.md 原句10: 关键词不在本块引语内 → ['She didn’t remember her mother calling her that name', 'not once.']
+  ❌ ch31 the monster came to save her.md 原句15: 关键词不在本块引语内 → ['summoning a monster she’d never be rid of again']
+  ❌ ch31 the monster came to save her.md 原句20: 关键词不在本块引语内 → ['until it reached their necks']
+  ❌ ch32 you are not darcia voreia.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch32 you are not darcia voreia.md 原句2: 关键词不在本块引语内 → ['The sound of footsteps churned her guts']
+  ❌ ch32 you are not darcia voreia.md 原句6: 关键词不在本块引语内 → ['her face reddened with thousands of emotions']
+  ❌ ch32 you are not darcia voreia.md 原句8: 关键词不在本块引语内 → ['She tried to think back to her time before the circus', 'before Gion', 'before Conrad']
+  ❌ ch32 you are not darcia voreia.md 原句11: 关键词不在本块引语内 → ['Conrad had been fire. He had been flames.']
+  ❌ ch32 you are not darcia voreia.md 原句12: 关键词不在本块引语内 → ['She’d killed someone. Not just any person', 'but Lisabetta.', 'Their mother.']
+  ❌ ch32 you are not darcia voreia.md 原句16: 关键词不在本块引语内 → ['“I’m your stepsister', '” she said']
+  ❌ ch32 you are not darcia voreia.md 原句19: 关键词不在本块引语内 → ['a dark shadow leapt over Conrad and sent him tumbling to the ground']
+  ❌ ch33 she had a twin sister.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch34 the taste of revenge.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch35 she is amira boreaalinen.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch36 she ripped out his heart.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch37 im going to get my sisters to safety.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch38 that cave had been her home.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch39 she closed her eyes and sang.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch40 my twenty-second birthday.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch41 she is already dead.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch42 dont touch her.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch43 you cant kill whats already dead.md: 引语块 20 个，超出言情精简格式的 3–8配额
+  ❌ ch44 i will find them harg.md: 引语块 20 个，超出言情精简格式的 3–8配额
+=== 引语块覆盖度：44 个 md，问题 62 处 ===
+mavis-trash: moved to trash: '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/tmp.lQ3XhG2g4w'
+══ 正门结论：❌ 62 条阻断型（见上；退出码 1）══
