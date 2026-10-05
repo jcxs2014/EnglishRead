@@ -1,0 +1,196 @@
+=== Heirs of the Cursed 定稿全量门禁留档 2026-10-05 20:52 UTC ===
+    覆盖 ch01–ch44 + 总览三篇；逐章 check_chapter_quotes 输出完整列出（不留摘要）。
+    ⚠️ ch02–ch09 / ch15 / ch16 无独立逐章留档（那几批在更早会话提交时未立档），
+       其证据由本文件的全量重跑覆盖。
+
+########## 1. check_chapter_quotes.py 逐章 44/44 ##########
+ch01 the seventh son turns to stone.md: 8/8 in ch01 text
+ch02 mind breaker at the circus.md: 10/10 in ch02 text
+ch03 a lie called ausra.md: 12/12 in ch03 text
+ch04 the chaser arrives at her door.md: 8/8 in ch04 text
+ch05 naithea steals the soldiers secrets.md: 8/8 in ch05 text
+ch06 the chaser asks for help.md: 8/8 in ch06 text
+ch07 ausra means sunrise.md: 9/9 in ch07 text（另有 1 条短引语未校验）
+ch08 the dark twins are gone.md: 11/11 in ch08 text（另有 1 条短引语未校验）
+ch09 the dark twins have been missing.md: 11/11 in ch09 text
+ch10 what the light of the night leaves behind.md: 8/8 in ch10 text
+ch11 caught between the sword and the precipice.md: 11/11 in ch11 text
+ch12 the midnight thief.md: 12/12 in ch12 text
+ch13 a woman with knowledge is dangerous.md: 12/12 in ch13 text
+ch14 the threads of her own mind.md: 14/14 in ch14 text
+ch15 the fatis asteria.md: 11/11 in ch15 text
+ch16 the midnight thief.md: 11/11 in ch16 text
+ch17 the commander of death remembers her name.md: 14/14 in ch17 text
+ch18 the midnight thief looks down.md: 15/15 in ch18 text
+ch19 the compass and the confession.md: 14/14 in ch19 text
+ch20 the keys of the twin goddesses.md: 18/18 in ch20 text
+ch21 the night that could be their end.md: 20/20 in ch21 text
+ch22 three weeks.md: 20/20 in ch22 text
+ch23 mistake number two.md: 20/20 in ch23 text
+ch24 thorns and tulips.md: 19/19 in ch24 text（另有 1 条短引语未校验）
+ch25 surrender to me.md: 20/20 in ch25 text
+ch26 the mark of a key.md: 20/20 in ch26 text
+ch27 the monster she hid in her soul.md: 20/20 in ch27 text
+ch28 you must follow the light.md: 20/20 in ch28 text
+ch29 a betrayal to his king.md: 20/20 in ch29 text
+ch30 then darkness swallowed her whole.md: 19/19 in ch30 text
+ch31 the monster came to save her.md: 17/17 in ch31 text（另有 2 条短引语未校验）
+ch32 you are not darcia voreia.md: 16/16 in ch32 text（另有 4 条短引语未校验）
+ch33 she had a twin sister.md: 20/20 in ch33 text
+ch34 the taste of revenge.md: 20/20 in ch34 text
+ch35 she is amira boreaalinen.md: 19/19 in ch35 text（另有 1 条短引语未校验）
+ch36 she ripped out his heart.md: 20/20 in ch36 text
+ch37 im going to get my sisters to safety.md: 20/20 in ch37 text
+ch38 that cave had been her home.md: 20/20 in ch38 text
+ch39 she closed her eyes and sang.md: 20/20 in ch39 text
+ch40 my twenty-second birthday.md: 20/20 in ch40 text
+ch41 she is already dead.md: 20/20 in ch41 text
+ch42 dont touch her.md: 18/18 in ch42 text（另有 2 条短引语未校验）
+ch43 you cant kill whats already dead.md: 20/20 in ch43 text
+ch44 i will find them harg.md: 18/18 in ch44 text（另有 2 条短引语未校验）
+
+########## 2. verify_quotes.py（epub 完整 lane）##########
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+ch01 the seventh son turns to stone.md: 8/8 ✅
+ch02 mind breaker at the circus.md: 10/10 ✅
+ch03 a lie called ausra.md: 12/12 ✅
+ch04 the chaser arrives at her door.md: 8/8 ✅
+ch05 naithea steals the soldiers secrets.md: 8/8 ✅
+ch06 the chaser asks for help.md: 8/8 ✅
+ch07 ausra means sunrise.md: 9/9 ✅（另有 1 条短引语未校验）
+ch08 the dark twins are gone.md: 11/11 ✅（另有 1 条短引语未校验）
+ch09 the dark twins have been missing.md: 11/11 ✅
+ch10 what the light of the night leaves behind.md: 8/8 ✅
+ch11 caught between the sword and the precipice.md: 11/11 ✅
+ch12 the midnight thief.md: 12/12 ✅
+ch13 a woman with knowledge is dangerous.md: 12/12 ✅
+ch14 the threads of her own mind.md: 14/14 ✅
+ch15 the fatis asteria.md: 11/11 ✅
+ch16 the midnight thief.md: 11/11 ✅
+ch17 the commander of death remembers her name.md: 14/14 ✅
+ch18 the midnight thief looks down.md: 15/15 ✅
+ch19 the compass and the confession.md: 14/14 ✅
+ch20 the keys of the twin goddesses.md: 18/18 ✅
+ch21 the night that could be their end.md: 20/20 ✅
+ch22 three weeks.md: 20/20 ✅
+ch23 mistake number two.md: 20/20 ✅
+ch24 thorns and tulips.md: 19/19 ✅（另有 1 条短引语未校验）
+ch25 surrender to me.md: 20/20 ✅
+ch26 the mark of a key.md: 20/20 ✅
+ch27 the monster she hid in her soul.md: 20/20 ✅
+ch28 you must follow the light.md: 20/20 ✅
+ch29 a betrayal to his king.md: 20/20 ✅
+ch30 then darkness swallowed her whole.md: 19/19 ✅
+ch31 the monster came to save her.md: 17/17 ✅（另有 2 条短引语未校验）
+ch32 you are not darcia voreia.md: 16/16 ✅（另有 4 条短引语未校验）
+ch33 she had a twin sister.md: 20/20 ✅
+ch34 the taste of revenge.md: 20/20 ✅
+ch35 she is amira boreaalinen.md: 19/19 ✅（另有 1 条短引语未校验）
+ch36 she ripped out his heart.md: 20/20 ✅
+ch37 im going to get my sisters to safety.md: 20/20 ✅
+ch38 that cave had been her home.md: 20/20 ✅
+ch39 she closed her eyes and sang.md: 20/20 ✅
+ch40 my twenty-second birthday.md: 20/20 ✅
+ch41 she is already dead.md: 20/20 ✅
+ch42 dont touch her.md: 18/18 ✅（另有 2 条短引语未校验）
+ch43 you cant kill whats already dead.md: 20/20 ✅
+ch44 i will find them harg.md: 18/18 ✅（另有 2 条短引语未校验）
+
+⚠️ 全书共 14 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 2 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 691/691 引文可核实（100%）；完全干净文件 44/44；正文章节 0 提取 0；总览 0 提取转交 2 ===
+exit=0
+
+########## 3. check_vocab.py ##########
+词条行合计: 1313
+
+--- FAIL (0) ---
+
+--- WARN (18) ---
+  ch02 mind breaker at the circus.md [基础] 基础档疑含超纲词「cobblestones」
+  ch03 a lie called ausra.md [基础] 基础档疑含超纲词「merchants」
+  ch04 the chaser arrives at her door.md [基础] 基础档疑含超纲词「breakfast」
+  ch05 naithea steals the soldiers secrets.md [基础] 基础档疑含超纲词「eyelashes」
+  ch07 ausra means sunrise.md [基础] 基础档疑含超纲词「vegetables」
+  ch08 the dark twins are gone.md [基础] 基础档疑含超纲词「whimpered」
+  ch08 the dark twins are gone.md [基础] 基础档疑含超纲词「desperately」
+  ch10 what the light of the night leaves behind.md [基础] 基础档疑含超纲词「fireworks」
+  ch11 caught between the sword and the precipice.md [基础] 基础档疑含超纲词「adjustable」
+  ch12 the midnight thief.md [基础] 基础档疑含超纲词「cobblestones」
+  ch14 the threads of her own mind.md [基础] 基础档疑含超纲词「chandeliers」
+  ch19 the compass and the confession.md [基础] 基础档疑含超纲词「heartbeat」
+  ch20 the keys of the twin goddesses.md [基础] 基础档疑含超纲词「stammered」
+  ch22 three weeks.md [基础] 基础档疑含超纲词「girlfriend」
+  ch22 three weeks.md [基础] 基础档疑含超纲词「stepbrother」
+  ch22 three weeks.md [基础] 基础档疑含超纲词「shoulders」
+  ch24 thorns and tulips.md [基础] 基础档疑含超纲词「chandeliers」
+  ch24 thorns and tulips.md [基础] 基础档疑含超纲词「champagne」
+exit=0
+
+########## 4. check_entities.py ##########
+=== 实体一致性检测：0 个文件存在未知实体 ===
+exit=0
+
+########## 5. corruption_scan.py ##########
+
+=== 编辑损坏扫描（heirs-of-the-cursed-by-denna-selen-and-l-c-emerson）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+exit=0
+
+########## 6. sweep_full.py --quiet ##########
+=== 引语整串 flat 比对（heirs-of-the-cursed-by-denna-selen-and-l-c-emerson）===
+  参照集：text/ 逐章（44 章，可定章） + epub 交叉验证
+  ✅ 本章命中 691 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 16 条归 check_short_quotes；无章可对 0 条未判）
+exit=0
+
+########## 7. check_short_quotes.py ##########
+=== 短引语兜底核对（heirs-of-the-cursed-by-denna-selen-and-l-c-emerson）===
+  verify_quotes 跳过（<20 flat 字符）的引语：16 条 —— 这些主门禁**根本没查**
+  ✅ 命中 16 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+exit=0
+
+########## 8. indep_check.py（全书 44 章）##########
+
+=== 独立复算：44 章 ｜ 引语 707 · 例句 1313 · 导航层 2144 ===
+✅ 三把尺全过（①b 含标点原样 / ①c 单段内 / 例句含词头）
+exit=0
+
+########## 9. navforensics.py --min 0.45 ##########
+==============================================================================
+ch15  ch15 the fatis asteria.md   编造候选 1 条
+
+  ▸ in the book
+    相似度 0.91  → A/B 改写或截短
+    原文窗口: on the book
+
+########## 10. verify_overview_quotes.py ##########
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 20/20 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 30/30 ✅
+
+=== 总览引文 50/50 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+exit=0
+
+########## 11. check_overview_full.py ##########
+=== 总览整串核查（heirs-of-the-cursed-by-denna-selen-and-l-c-emerson）===
+  参照集：text/ 逐章（44 章） ｜ 总览文件 3 个
+  A 整串：命中 58 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 10
+  B 章节标签：对 58 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 4
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+exit=0
+
+########## 12. 对账 ##########
+md 44 件 / text 44 件 / 总览 3 件
+H1 编号异常 = 0 []
+引语块总数 = 707
