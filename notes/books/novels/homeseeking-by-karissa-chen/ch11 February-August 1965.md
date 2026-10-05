@@ -52,7 +52,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 「幻肢痛」是这一章最狠的一个词：被切除的是身体，被留下的痛却原封不动，而她还得靠中药和整晚的夜班把它压下去；作者把医学名词交给一个庸医说出，于是这个诊断同时也是对全书处境的诊断——没有药，也没有可执行的方案。
 
-**读者视角提示：** 本章从头到尾她做的每一件事都是替姐姐花自己的钱；请记住那个数字，第 12 章的台北会把它再算一遍。
+**读者视角提示：** 全章她没有一次抱怨过钱；下一章的台北，那个「数字」会换一个名字回来。
 
 > **原句 5:** But no. A spark of M’ma’s voice rang in her ear, and the images flooded back, flickering so rapidly, she barely had time to grab one and examine what it was. The first thing that came to her was the painted bunny by the back door of her shikumen, so she began there, providing a detailed picture of each room to Mr. Lam. From there she remembered the rest of the longtang, taking him down alleyways, introducing him to neighbors she hadn’t thought of in a long time. The memories came in a steady stream now, and she moved through them, trying not to let herself dwell long enough on any one for her to grow emotional.
 
@@ -60,7 +60,7 @@ modified: "2026-10-05"
 
 **关键词：** The first thing that came to her was the painted bunny · not to let herself dwell long enough
 
-**为什么这样写：** 「记忆闪得太快、抓不住」是人人有过却说不出的体验，作者用一个具体的抓取动作写它；那幅掉漆兔子被安排成第一个，是因为全书每一次回忆都是从它开始的——第 01 章她说服自己出门时就看见了它。
+**为什么这样写：** 「记忆闪得太快、抓不住」是人人有过却说不出的体验，作者用一个具体的抓取动作写它；那幅掉漆兔子被安排成第一个，是因为全书每一次回忆都是从它开始的——第 01 章他沿着那条路走来，路上最后一眼就是它。
 
 **读者视角提示：** 掉漆兔子在第 08 章被 Howard 记成「再也看不见了」；三章之后它以记忆的形式回来。
 
@@ -92,7 +92,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 全章以一个完整的动作收尾，不留评语；「开始」这个动词把她和刚开始学会的谋生接到一起，也让读者自己去补完：她开始唱的是给谁。
 
-**读者视角提示：** 这首曲子在前一章的第 07 章已经出现过一次，是她十四岁那年第一次听人唱；下一章的台北还会再出现。
+**读者视角提示：** 这首曲子在第 07 章已经出现过一次，是她十四岁那年第一次听人唱起它；下一章的台北还会再出现一次。
 
 ## 本章词汇
 
