@@ -67,7 +67,7 @@ modified: "2026-10-05"
 
 > **原句 6:** "“Then we’re at peace with that,” Elsa says, her voice soft and lovely and breaking Frannie’s heart."
 
-**中文理解：** Frannie 问她明天能不能过去，Elsa 上一句只答了一个"不"；这一句补完后半截：她们不保证结果，只确认这是自己想要的事。
+**中文理解：** Frannie 的假设刚出口就被破折号截断——"But if something happens—"。Elsa 接的不是好坏，而是这件事已经想清楚了：真出状况，他们也认下。
 
 **关键词：** at peace with that / soft and lovely and breaking Frannie’s heart
 
@@ -91,7 +91,7 @@ modified: "2026-10-05"
 
 **关键词：** believe with her entire soul / their little family / is everything
 
-**为什么这样写：** 句子以"她能做的全部"开头，把前面所有的清单、承诺和复述压成一句；中间的 because 并不把理由说尽，理由就是这一整章；末尾的 everything 与上一块末尾的同一个词前后扣合，一章之内两次落回同一个词，闭环就此合上。
+**为什么这样写：** 句子以"她能做的全部"开头，把前面所有的清单、承诺和复述压成一句；中间的 because 并不把理由说尽，理由就是这一整章；末尾的 everything 与上一块里那句 It's everything 前后扣合，两个相邻的块在同一个词上合拢，闭环就此合上。
 
 **读者视角提示：** 本章停在准备上，不停在结果上：她没有把明天说死，书里此刻也没有给出任何承诺。
 

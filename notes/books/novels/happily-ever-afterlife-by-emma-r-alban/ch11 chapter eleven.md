@@ -94,7 +94,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 整段没有一句直接说喜欢，所有结论都落在一副身体的处境上；covered in snow 和 starting to shiver 是同一副身体的两端，而 listening to Elsa laugh 是其中唯一在动的那一样。
 
-**读者视角提示：** 上一段的 she doesn't know how not to be 紧挨着这一句收尾——先承认自己不会，再决定要学。
+**读者视角提示：** 更早的那句 She just doesn't know how not to be 先认下自己改不掉这个毛病，中间隔了一段岔开的闲聊，这一句才给出她打算怎么改。
 
 ## 本章词汇
 
