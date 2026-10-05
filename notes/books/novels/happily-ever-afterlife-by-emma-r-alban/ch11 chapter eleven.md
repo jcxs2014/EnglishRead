@@ -58,7 +58,7 @@ modified: "2026-10-05"
 
 > **原句 5:** "Elsa nods slowly. “That’s what I thought. But it wasn’t enough. Joan—we had a big life outside this building. And Joan thought people would think she was crazy. That it would draw attention to her in ways that—” She breaks off, shaking her head. “Joan needed more than I could give her, so she left.”"
 
-**中文理解：** Joan 不是不爱她，是嫌给的不够。Elsa 先把对方的立场讲完，最后才落到 so she left；中间那一次中断，是她全章唯一一次说不下去。
+**中文理解：** Joan 不是不爱她，是嫌给的不够。Elsa 先把对方的立场讲完，最后才落到 so she left；中间那一次中断只是其中一处——她前后还有一次把话咽回去。
 
 **关键词：** it wasn’t enough / breaks off / so she left
 
@@ -82,7 +82,7 @@ modified: "2026-10-05"
 
 **关键词：** It’s been so long / worth the end / have the middle
 
-**为什么这样写：** 三个 Watching 排比把此刻拆成一串具体动作，抽象的"值得"因此落到了看得见的画面上；先认下"会结束"再谈值不值，是把结论的代价摆在前面。
+**为什么这样写：** 两个 watching 排比把此刻拆成一串具体动作，抽象的"值得"因此落到了看得见的画面上；先认下"会结束"再谈值不值，是把结论的代价摆在前面。
 
 **读者视角提示：** 她在替 Bridgette 的冒险作解释，也在替自己做同一件事：她知道 Frannie 迟早会走，所以更要趁现在承认值得。
 

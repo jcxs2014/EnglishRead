@@ -47,11 +47,11 @@ modified: "2026-10-05"
 
 > **原句 4:** "And this, tonight? Going to a party alone? Frannie’s not letting a little professional and social anxiety stand in the way of her happily ever after."
 
-**中文理解：** 连着三个问句替她把顾虑说了出来：今晚、一个人、不去行不行。随即她把这点心虚降级成一点职业与社交焦虑，并且不让它挡住自己的 happily ever after。
+**中文理解：** 连着两个问句替她把顾虑说了出来：今晚、一个人、不去行不行。随即她把这点心虚降级成一点职业与社交焦虑，并且不让它挡住自己的 happily ever after。
 
 **关键词：** And this, tonight? / Going to a party alone? / happily ever after
 
-**为什么这样写：** 三个问号连发，把"我该不该去"写成内心独白的语速，句子越短，决心来得越快；书名那四个字被她当成一件可以被焦虑挡在门外的东西——同一批词在这一章既是承诺也是障碍。
+**为什么这样写：** 两个问号连发，把"我该不该去"写成内心独白的语速，句子越短，决心来得越快；书名那四个字被她当成一件可以被焦虑挡在门外的东西——同一批词在这一章既是承诺也是障碍。
 
 **读者视角提示：** 上一章 Joan 用来讲"没有伴侣的一生"的是满墙的照片，那种日子是别人判给她的；这里的 alone 是她自己挑的，用词一样，处境相反。
 

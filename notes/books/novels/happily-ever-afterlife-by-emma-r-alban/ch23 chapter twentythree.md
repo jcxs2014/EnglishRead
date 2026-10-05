@@ -57,7 +57,7 @@ modified: "2026-10-05"
 
 > **原句 5:** "Is walking through them cold? Or does it feel warm, and smooth, and lovely, the way Elsa’s smile does?"
 
-**中文理解：** 三个问号连着发：穿过他们的时候是冷的吗？或者像她的笑那样，暖的、顺的、好的？她连答案都不敢确认。
+**中文理解：** 两个问号连着发：穿过他们的时候是冷的吗？或者像她的笑那样，暖的、顺的、好的？她连答案都不敢确认。
 
 **关键词：** cold / warm, and smooth, and lovely
 

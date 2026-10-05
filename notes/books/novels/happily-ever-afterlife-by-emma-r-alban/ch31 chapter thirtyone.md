@@ -27,7 +27,7 @@ modified: "2026-10-06"
 
 > **原句 2:** "So, almost six months after selling the book, a whopping $312,500, less commissions to Maribel and her attorney, will hit Frannie’s bank account today."
 
-**中文理解：** 第一本书卖出去快半年，钱分两半付；第二本还没定名，分三成，但签约就先拿第一成。扣掉经纪 Maribel 和律师那两份，今天到账的数字是三十一万二千五百。
+**中文理解：** 第一本书卖出去快半年，钱分两半付；第二本还没定名，分三成，但签约就先拿第一成。原文这一笔是**扣佣之前**的毛数——三十一万二千五百要先划掉经纪 Maribel 和律师那两份；真正落进账户的余额另有其数。
 
 **关键词：** almost six months / a whopping / less commissions
 
@@ -57,7 +57,7 @@ modified: "2026-10-06"
 
 > **原句 5:** "She stands for a moment staring at her new home, 11 Seventy-Third Street, with its white stone entrance, and the red-and-green brick pattern façade. There’s a beautiful flowering tree right out front, pink flowers in full late-July bloom, and the top floor, where her apartment is, has a green copper finish. It’s perfect."
 
-**中文理解：** 六小时后她端着蛋糕走到街对面，站在自己新的房子前面看了很久：白石门脸、红绿砖的立面，门口一棵开满粉花的树，她那套在顶楼，铜绿色的顶。下一句只有三个字：这是完美。
+**中文理解：** 六小时后她端着蛋糕从达科尼亚出来，站在自家车道的尽头望向新房子——过街是看完之后的事：白石门脸、红绿砖的立面，门口一棵开满粉花的树，她那套在顶楼，铜绿色的顶。紧跟一句只有两个词：这是完美。
 
 **关键词：** 11 Seventy-Third Street / in full late-July bloom / It’s perfect.
 

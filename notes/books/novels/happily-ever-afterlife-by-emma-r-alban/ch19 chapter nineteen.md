@@ -27,7 +27,7 @@ modified: "2026-10-05"
 
 > **原句 2:** "But still, she expects him to be gangly and pimply and dragging her out to drive their father’s old Jeep too fast on the nearby highway for something to do on a long holiday afternoon."
 
-**中文理解：** 她看着这个已有妻儿、开着公司、穿着父亲旧法兰绒衬衫的男人，心里预期的却还是那个拉她去超速飙车的哥哥。
+**中文理解：** 这一句以 But still 起头，说明前面已经让过一次步；让步之后她心里的形象却还是旧的——那个会拉她去超速飙车的哥哥，对方换成谁都不影响这个版本。
 
 **关键词：** gangly / But still
 

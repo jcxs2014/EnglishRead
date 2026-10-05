@@ -57,7 +57,7 @@ modified: "2026-10-05"
 
 > **原句 5:** "“Stuck in my brownstone,” Frannie says. It comes out high and a little tight; Elsa’s staring at her. “If I make the money it sounds like I’m going to make on the book, then Gretchen and I are going to get an apartment, and I’ll make sure it’s one on the grid. Gretchen will be working on her show most of the time, and even if she’s not, I think she’ll be cool with ghost roommates. Brad would love it.”"
 
-**中文理解：** 她一口气把方案说完：书赚钱、和 Gretchen 找一套在老电网上的公寓、把电闸推上让鬼冲过街。中间她先抢着纠正一个词——不是"卡在某某褐石"，是"卡在我的褐石"，这句抢答泄露出她真正想说的是什么。
+**中文理解：** 她一口气把方案说完：书赚钱、和 Gretchen 另找一套**接在同一张老电网上**的公寓、Gretchen 忙着做节目也乐意与鬼同住、Brad 会喜欢。中间她先抢着纠正一个词——不是"卡在某某褐石"，是"卡在我的褐石"，这句抢答泄露出她真正想说的是什么。
 
 **关键词：** brownstone / the grid
 

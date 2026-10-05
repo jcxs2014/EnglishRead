@@ -33,11 +33,11 @@ modified: "2026-10-05"
 
 **为什么这样写：** 开头三个词没有主语也没有系动词，像三声心跳，直接从叙述里跳出来；引号里的回答才把说话人补回来，省略的正是"为什么不作真答"——答案留给读者。forcing 一个副词把"笑"这件事写成需要用力气的动作，bright 与前一句的 nauseaous 形成硬对照。
 
-**读者视角提示：** across the street 这四个字在本章后面还会再出现一次（她在阁楼里复述计划时说的是同一句方位），那句话此时还只是一句客套。
+**读者视角提示：** across the street 这四个字在本章后面还会再出现两次（阁楼复述计划、屋顶上 Elsa 都说了同一句方位），那句话此时还只是一句客套。
 
 > **原句 3:** "It’s stranger than Frannie expected to have someone else in here with her. She never thought she’d feel territorial about an unventilated storage closet. How ridiculous."
 
-**中文理解：** 人走后她独自站在储藏室里，先承认一件自己没料到的事：她对那间没窗户的储物间生出了领地意识；紧接着自己拆自己的台。
+**中文理解：** 对方还没走，她先承认了一件自己没料到的事：她对那间没窗户的储物间生出了领地意识；紧接着自己拆自己的台。
 
 **关键词：** stranger / territorial / unventilated / How ridiculous
 
