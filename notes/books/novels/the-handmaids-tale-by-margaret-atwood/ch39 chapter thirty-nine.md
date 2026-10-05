@@ -8,14 +8,14 @@ modified: "2026-10-05"
 ## 本章导航
 
 - **场景·时间**：Jezebel's 的旅馆房间——一夜的剩余部分；插叙母亲的失踪（公寓的翻检现场）与 Moira 的 Colonies 影片证词。第十二部（Jezebel's）继续。
-- **一句话概括**：他得意地亮出房卡（I am to understand）；浴室里西班牙香皂的味道让她想家（bodily functions 至少还是民主的）；Moira 在影片里认出了她的母亲——Colony 的灰衣人堆里那张特写脸；她回到公寓搜寻的回忆：被翻成废墟的房间、Luke 的一句 Just don't；镜子里的 travesty（用过的亮片、脱妆的脸）；床上他的脚终于脱掉了——她躺成一具 dead bird，脑内嘶喊：Fake it。
+- **一句话概括**：他得意地亮出房卡（I am to understand）；浴室里西班牙香皂的味道让她想家（bodily functions 至少还是民主的）；Moira 在影片里认出了她的母亲——Colonies 的灰衣人堆里那张特写脸；她回到公寓搜寻的回忆：被翻成废墟的房间、Luke 的一句 Just don't；镜子里的 travesty（用过的亮片、脱妆的脸）；床上他的脚终于脱掉了——她躺成一具 dead bird，脑内嘶喊：Fake it。
 - **情感弧线位置**：全章是失重的坠落段——母亲线（她还活着，但等于死了）与床戏线（futility and bathos）交叉下坠；Fake it 的内心嘶喊是弧线的谷底。
 - **叙事手法**：房间的原样叠印（Everything is the same——与 Luke 的旅馆记忆对撞）；Moira 的两句话剪辑（Thank God / She might as well be）；镜子前的自我验伤（carnival dolls）。
 - **线索进展**：① 母亲的下落：还活着，在 Colony 清理毒素——She might as well be；② 公寓被抄——她的失踪早于「变糟之前」；③ Luke 的 Just don't——他对时局的判断先于她（报警反而危险）；④ 纹身的另一种读法（a Braille he can read——他能读的盲文）；⑤ 脱下制服的他「像被晾干的东西」——布料即权力；⑥ 明晚的 Ceremony——Serena 要查岗，midnight pumpkin 的童话倒计时。
 
 ## 精读
 
-> **原句 1:** There is something reassuring about the toilets. Bodily functions at least remain democratic. Everybody shits, as Moira would say.
+> **原句 1:** There is something reassuring about the toilets. Bodily functions at least remain democratic.. Everybody shits, as Moira would say.
 
 - **中文理解**：「厕所有一种让人安心的东西。至少身体机能还保持民主。人人都要拉屎——Moira 会这么说。」
 - **关键词**：reassuring · remain democratic · Everybody shits
@@ -24,9 +24,9 @@ modified: "2026-10-05"
 
 > **原句 2:** Thank God, I said. Why, thank God? said Moira. I thought she was dead. She might as well be, said Moira. You should wish it for her.
 
-- **中文理解**：「感谢上帝，我说。谢什么上帝？Moira 说。我以为她死了。那还不如死了，Moira 说。你应该盼着她死。」——四句对话完成一次消息的分级：活着（好消息）→在 Colony（坏消息）→不如死（判决）。
+- **中文理解**：「感谢上帝，我说。谢什么上帝？Moira 说。我以为她死了。那还不如死了，Moira 说。你应该盼着她死。」——四句对话完成一次消息的分级：活着（好消息）→在 Colonies（坏消息）→不如死（判决）。
 - **关键词**：Thank God · might as well be · You should wish it for her
-- **为什么这样写**：她的一声 Thank God 是本能——母亲没死；Moira 的回敬是 Colony 的知情者口吻：那样的活着比死更慢。You should wish it for her 是本章最狠的一句：盼亲人死，是这个世界给爱的唯一动词变位。
+- **为什么这样写**：她的一声 Thank God 是本能——母亲没死；Moira 的回敬是 Colonies 的知情者口吻：那样的活着比死更慢。You should wish it for her 是本章最狠的一句：盼亲人死，是这个世界给爱的唯一动词变位。
 - **读者视角提示**：与 ch38 的三年报废期连读：Moira 的判决有数据支撑。记住这四句——它是全书母女线的终审词。
 
 > **原句 3:** When the man got the door open what we found was chaos. There was furniture overturned, the mattress was ripped open, bureau drawers upside-down on the floor, their contents strewn and mounded.
