@@ -43,7 +43,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 全章对 Dimond 那句经典辱骂（You're an ungrateful wretch）的**解剖**。作者用两个被动式**pierced into her soul（刺入她的灵魂）与 had begun to believe（已开始相信）**——**前者是物理的刺入，后者是心理的接受**。最狠的是 begin（开始）：**begin 意味着这个过程还没完成，她还在半信半疑**。而 Those words, which… 这个定语从句让作者不去重复那句辱骂的原话，**而是把它当一件已经磨损的旧物来处理**——读者自己知道说的是哪句。**这是全书写"语言暴力"最高级的一次：作者让读者自己去回忆那句话。**
 
-**读者视角提示：** 这句话是对 ch04 那段"Madame Dimond 的惩罚"的**回响**。**而到了本章，这套语言暴力已经完成从"别人的话"到"她的自我认定"的转化**——她开始 believe them to be true，这就是控制最深的一层。
+**读者视角提示：** 这句话是对 ch07 里 Madame Dimond 嫌她赚得太少的那段的**回响**。**而到了本章，这套语言暴力已经完成从"别人的话"到"她的自我认定"的转化**——她开始 believe them to be true，这就是控制最深的一层。
 
 > **原句 4:** "“Repeat the story for me, will you?” Madame Dimond said with a viper’s kindness. “From the beginning.”"
 

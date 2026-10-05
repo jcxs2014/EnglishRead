@@ -118,7 +118,7 @@ modified: "2026-10-05"
 
 **中文理解：** "他正要训她，她正要骂他，可两人在看见 Harg Koller 从近旁走过的那一刻，都按住了想打一架的冲动。"
 
-**关键词：** grabbed her wrist once more and dragged her into an alley, where the shadows cloaked them · He was about to scold her, and she to insult him · they both restrained their urge to pick a fight · at the sight of Harg Koller strolling close by
+**关键词：** He was about to scold her, and she to insult him · they both restrained their urge to pick a fight · at the sight of Harg Koller strolling close by
 
 **为什么这样写：** **这一句是全书对"吵嘴"这件事写得最宽容的一处，而作者用一个对称省略句把两个人的台词互相让掉了。** **He was about to scold her, and she to insult him**——**后半句把 was about to 整个省掉了，只留下 to insult him**；**英语里两个动词共用同一个助动词，而作者用这个省结构等于说：他们俩的句子是同一句话的两个方向。** 而 **strolling（溜达）** 是这一句里最反讽的一个词：**Harg 正在以最放松的姿态走过一座他刚下令血洗的城**；**作者把"踱步"和"血洗"放进同一句，读者立刻明白这个人已经不为所做的事感到任何重量。** 而 restrained（按住）在这里的宾语是 urge（冲动）**而不是人**——**作者把两个人写成了被同一个东西制住的样子，于是他们短暂地站成了一边。**
 
@@ -158,7 +158,7 @@ modified: "2026-10-05"
 
 **中文理解：** "「不，」她撒了个显而易见的谎。「我只是不想有人挡我的路。」"
 
-**关键词：** Are you worried about me? · “No,” she lied unconvincingly · I just don’t want anyone in my way
+**关键词：** “No,” she lied unconvincingly · I just don’t want anyone in my way · anyone in my way
 
 **为什么这样写：** **这是全书写"撒谎"写得最短也最准的一句，而作者做了一件很不留情的事：他让读者看见她在撒谎。** **she lied unconvincingly** ——**这不是"她撒了谎"，这是"她撒得不像"**；**unconvincingly 紧跟在 lied 后面，等于叙述者在旁边摇了一下头**；**所以读者同时拥有了两样东西：那句谎，和那句谎的失败。** 而谎的内容本身选得很有意思：**in my way（挡我的路）**——**这是一个关于效率的理由，不是一个关于关心的理由**；**作者让她用一个战术性的词去挡一个情感性的问题，于是读者听得出她的防守。** 语法上，**她的"No"后面立刻接 I just don't want…**——**just（只是）是她加的护栏**；**just 一出现，就说明有人本来可以理解为别的意思。**
 

@@ -33,7 +33,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 这是一个**自欺**的句子，而作者用 she told herself（她对自己说）**明确标记这是她自己编的**。前面还有一句：But after her mother’s death, she’d vowed never to read again（母亲死后她发过誓永不读书）——**而她此刻正站在图书馆门口要违背那个誓**。这是全书最精准的一处**反讽结构**：她说 happy endings are a lie（幸福结局是谎言），**因为母亲的故事以死亡结尾**；但她今天来找的答案，很可能正是那场死亡的原因。ascending the stone stairs（登上石阶）这个进行时副词是唯一的实义，**身体往上，动机往下**。
 
-**读者视角提示：** Iseabail 是序章里那位夜渡边界的母亲（Every night, Iseabail would bring a new book to read until Naithea fell asleep）。**这本书的"母亲留下的故事"就是全书最大的伏笔之一。**
+**读者视角提示：** Iseabail 是 Naithea 的母亲（Every night, Iseabail would bring a new book to read until Naithea fell asleep）。**这本书的"母亲留下的故事"就是全书最大的伏笔之一。**
 
 > **原句 3:** "“That will be a problem, because I must go in,” she insisted with the last shred of calm and kindness left within her."
 

@@ -121,7 +121,7 @@ modified: "2026-10-05"
 
 **关键词：** you like to play with fire · a devilish grin · to whisper in her ear · I wouldn’t want you to get burned
 
-**为什么这样写：** 全章最后一句，两个人的**位置完成了互换**：前面是她在俯视（break that façade），这里是他俯身在她耳边（leaned in closer to whisper）。作者把 play with fire 这个惯用语**接住她自己的话**——她要玩火，他就把火这词**还给她**。making Naithea tremble slightly at his words（她的话却让她微微发抖）是本章**唯一一次让她身体失控**：不是因为疼，是因为**调情的权力反转**。而 Be careful, love 与 I wouldn’t want you to get burned 是一句**双层威胁**：表面是关心，底层是"你是我的东西，我提醒你别烫着自己"。
+**为什么这样写：** 全章最后一句，两个人的**位置完成了互换**：前面是她在俯视（break that façade），这里是他俯身在她耳边（leaned in closer to whisper）。而 play with fire（玩火）这个惯用语**全书只有 Ward 在这里说过一次**，Naithea 从未用过它——**于是这不是"接住她的话"，而是他先把这顶帽子扣上来**。making Naithea tremble slightly at his words（**他的话**却让她微微发抖）是本章**唯一一次让她身体失控**：不是因为疼，是因为**调情的权力反转**。而 Be careful, love 与 I wouldn’t want you to get burned 是一句**双层威胁**：表面是关心，底层是"你是我的东西，我提醒你别烫着自己"。
 
 **读者视角提示：** 全章在一次完整的钩连里结束：她试探、他回应、她再试（Try me）、他反压（You wouldn’t be able to take me）。**这一章结束时两人势均力敌，读者知道 Ward 是下一个要被查的深渊**。
 

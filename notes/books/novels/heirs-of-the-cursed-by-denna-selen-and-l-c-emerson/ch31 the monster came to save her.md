@@ -58,7 +58,7 @@ modified: "2026-10-05"
 
 **中文理解：** "她必须褪去自己的羊皮，露出下面那个她藏着的怪物。"
 
-**关键词：** take advantage of her without repercussions · shed her sheepskin · show the true monster she hid underneath
+**关键词：** She had to shed her sheepskin · shed her sheepskin · show the true monster she hid underneath
 
 **为什么这样写：** **这是全书把"表演"写成一个动作的最狠一处，而作者用的意象正好和前面那场广场宣告扣在一起。** 语法上最见功夫的是 **shed** 这个动词的选择：**shed 在英语里是"蜕下"（蛇蜕皮、动物掉毛），而作者让它发生在"一个人不再被信任"这个动作上**——**于是脱羊皮不是撒谎，是换季。** 而真正的厉害在那个比喻的两半长度：前半 **shed her sheepskin**（脱下羊皮）是她要做的动作；后半 **show the true monster she hid underneath**（露出她藏在下面的真怪物）是结果。**而 underneath 这个词把怪物定位在她身体的"下面"**——**不是深处，是下面**，**像一只一直在地板下的东西。** 最见功夫的是**这整段没有任何引号**——**这是一句无主语的内心话，而它出现在她跟一个商人谈判的中途**；**于是读者看见她一边算计一边在跟自己换算。**
 
@@ -168,7 +168,7 @@ modified: "2026-10-05"
 
 **中文理解：** "「拿走。」"
 
-**关键词：** And as if that cry had given the little girl back her strength · Naithea felt the darkness within her grow · ‘Take.’ · like snakes that advanced at her command
+**关键词：** ‘Take.’ · Take
 
 **为什么这样写：** **这是全书最吓人的一个词，而作者让它只出现一次，单独成段，前后都是空行。** 语法上值得看的是**单引号的选择**：**这一段里所有的对话都用了双引号，只有这三句用了单引号**；**而单引号是母亲对她的说话（Just a few sips, Ra.）的格式**；**于是这三句借用的是"母亲的声音"的格式——也就是说，**说这三个字的不是她，是她身上那个东西。** 而 **Take** 这个词选得极狠：**take 在英语里是最模糊的动词之一，它可以拿、可以带、可以吃、也可以杀**；**Vandrad 上一句刚说过 I’ll make sure to sell her，所以这个 take 和他那个 take 是同一个词**；**于是这三句话是对她母亲那句话的回答：你要卖她？我拿走。** 而 **这三次重复排成一列**（**‘Take.’ ‘Take.’ ‘Take.’**）**——**英语里重复一个词三次，就是命令升级三次**；**读者会听见"拿、拿、拿"这三下敲击。**
 

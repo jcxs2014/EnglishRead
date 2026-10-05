@@ -1,0 +1,44 @@
+ch01 the seventh son turns to stone.md: 8/8 in ch01 text
+ch02 mind breaker at the circus.md: 10/10 in ch02 text
+ch03 a lie called ausra.md: 12/12 in ch03 text
+ch04 the chaser arrives at her door.md: 8/8 in ch04 text
+ch05 naithea steals the soldiers secrets.md: 8/8 in ch05 text
+ch06 the chaser asks for help.md: 8/8 in ch06 text
+ch07 ausra means sunrise.md: 9/9 in ch07 text（另有 1 条短引语未校验）
+ch08 the dark twins are gone.md: 11/11 in ch08 text（另有 1 条短引语未校验）
+ch09 the dark twins have been missing.md: 11/11 in ch09 text
+ch10 what the light of the night leaves behind.md: 8/8 in ch10 text
+ch11 caught between the sword and the precipice.md: 11/11 in ch11 text
+ch12 the midnight thief.md: 12/12 in ch12 text
+ch13 a woman with knowledge is dangerous.md: 12/12 in ch13 text
+ch14 the threads of her own mind.md: 14/14 in ch14 text
+ch15 the fatis asteria.md: 11/11 in ch15 text
+ch16 the midnight thief.md: 11/11 in ch16 text
+ch17 the commander of death remembers her name.md: 14/14 in ch17 text
+ch18 the midnight thief looks down.md: 15/15 in ch18 text
+ch19 the compass and the confession.md: 14/14 in ch19 text
+ch20 the keys of the twin goddesses.md: 18/18 in ch20 text
+ch21 the night that could be their end.md: 20/20 in ch21 text
+ch22 three weeks.md: 20/20 in ch22 text
+ch23 mistake number two.md: 20/20 in ch23 text
+ch24 thorns and tulips.md: 19/19 in ch24 text（另有 1 条短引语未校验）
+ch25 surrender to me.md: 20/20 in ch25 text
+ch26 the mark of a key.md: 20/20 in ch26 text
+ch27 the monster she hid in her soul.md: 20/20 in ch27 text
+ch28 you must follow the light.md: 20/20 in ch28 text
+ch29 a betrayal to his king.md: 20/20 in ch29 text
+ch30 then darkness swallowed her whole.md: 19/19 in ch30 text
+ch31 the monster came to save her.md: 17/17 in ch31 text（另有 2 条短引语未校验）
+ch32 you are not darcia voreia.md: 16/16 in ch32 text（另有 4 条短引语未校验）
+ch33 she had a twin sister.md: 20/20 in ch33 text
+ch34 the taste of revenge.md: 20/20 in ch34 text
+ch35 she is amira boreaalinen.md: 19/19 in ch35 text（另有 1 条短引语未校验）
+ch36 she ripped out his heart.md: 20/20 in ch36 text
+ch37 im going to get my sisters to safety.md: 20/20 in ch37 text
+ch38 that cave had been her home.md: 20/20 in ch38 text
+ch39 she closed her eyes and sang.md: 20/20 in ch39 text
+ch40 my twenty-second birthday.md: 20/20 in ch40 text
+ch41 she is already dead.md: 20/20 in ch41 text
+ch42 dont touch her.md: 18/18 in ch42 text（另有 2 条短引语未校验）
+ch43 you cant kill whats already dead.md: 20/20 in ch43 text
+ch44 i will find them harg.md: 18/18 in ch44 text（另有 2 条短引语未校验）

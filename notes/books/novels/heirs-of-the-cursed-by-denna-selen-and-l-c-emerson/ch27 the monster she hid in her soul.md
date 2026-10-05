@@ -138,7 +138,7 @@ modified: "2026-10-05"
 
 **中文理解：** "「Fawke 说我对这次任务是个累赘。对你来说也是个累赘。」"
 
-**关键词：** I was alone in the woods · I think he was following me · Fawke said I’m a distraction to the mission · A distraction to you
+**关键词：** Fawke said I’m a distraction to the mission · A distraction to you · to the mission
 
 **为什么这样写：** **作者在这里只用了一个排比就把对方的话和她自己的处境连起来了，而连接靠的是第二个分句的独立。** 前面那半句 **I’m a distraction to the mission** 已经够伤人了：**她被说成是任务的障碍。** 而 **A distraction to you** 被作者单独放成一句、**并且去掉主语**——**主语是上一句留下的那个 I，所以这个 A 开头其实是在做替换：不是"任务里的累赘"，是"你面前的累赘"。** 结构上它是**换汤不换药**；效果上它把一句军事评价变成了**私人的**。而她**转述**这件事（**she recounted**）而不是自己先想到，**说明这半句不是她的判断，是被人塞进她脑子里的**——**于是接下来 Ward 要拆的不是她的自我认知，是别人写进她脑子的那一行。**
 

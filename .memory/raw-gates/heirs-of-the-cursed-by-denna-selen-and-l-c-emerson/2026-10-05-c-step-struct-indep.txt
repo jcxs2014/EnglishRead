@@ -1,0 +1,40 @@
+  ❌ ch02 mind breaker at the circus.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch03 a lie called ausra.md: [summary] 引语块 12 个，超出 3–8 配额
+  ❌ ch07 ausra means sunrise.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch08 the dark twins are gone.md: [summary] 引语块 12 个，超出 3–8 配额
+  ❌ ch09 the dark twins have been missing.md: [summary] 引语块 11 个，超出 3–8 配额
+  ❌ ch11 caught between the sword and the precipice.md: [summary] 引语块 11 个，超出 3–8 配额
+  ❌ ch12 the midnight thief.md: [summary] 引语块 12 个，超出 3–8 配额
+  ❌ ch13 a woman with knowledge is dangerous.md: [summary] 引语块 12 个，超出 3–8 配额
+  ❌ ch14 the threads of her own mind.md: [summary] 引语块 14 个，超出 3–8 配额
+  ❌ ch15 the fatis asteria.md: [summary] 引语块 11 个，超出 3–8 配额
+  ❌ ch16 the midnight thief.md: [summary] 引语块 11 个，超出 3–8 配额
+  ❌ ch17 the commander of death remembers her name.md: [summary] 引语块 14 个，超出 3–8 配额
+  ❌ ch18 the midnight thief looks down.md: [summary] 引语块 15 个，超出 3–8 配额
+  ❌ ch19 the compass and the confession.md: [summary] 引语块 14 个，超出 3–8 配额
+  ❌ ch20 the keys of the twin goddesses.md: [summary] 引语块 18 个，超出 3–8 配额
+  ❌ ch21 the night that could be their end.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch22 three weeks.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch23 mistake number two.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch24 thorns and tulips.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch25 surrender to me.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch26 the mark of a key.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch27 the monster she hid in her soul.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch28 you must follow the light.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch29 a betrayal to his king.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch30 then darkness swallowed her whole.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch31 the monster came to save her.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch32 you are not darcia voreia.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch33 she had a twin sister.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch34 the taste of revenge.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch35 she is amira boreaalinen.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch36 she ripped out his heart.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch37 im going to get my sisters to safety.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch38 that cave had been her home.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch39 she closed her eyes and sang.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch40 my twenty-second birthday.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch41 she is already dead.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch42 dont touch her.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch43 you cant kill whats already dead.md: [summary] 引语块 20 个，超出 3–8 配额
+  ❌ ch44 i will find them harg.md: [summary] 引语块 20 个，超出 3–8 配额
+=== 独立结构扫描：44 个 md，缺陷 39 处（另有提示型 0 条，不计入缺陷、不影响退出码）===

@@ -128,7 +128,7 @@ modified: "2026-10-05"
 
 **中文理解：** "听到这句话，她的心跳加快了——因为那港口边上就是那家妓院。她姐妹们就住在那里，那是她唯一的家人。"
 
-**关键词：** the compass has pointed west of the city, toward the shores of Salismar Ocean · Naithea’s heartbeat quickened at that · by the harbor, was the brothel · the only family she had
+**关键词：** Naithea’s heartbeat quickened at that · by the harbor, was the brothel · the only family she had · That was where her sisters lived
 
 **为什么这样写：** **这是全书对"坏消息"写得最省力的一处，而作者靠的是把一个地名和一个地点悄悄叠在一起。** 前面那个信使报的是**罗盘指向西边、指向 Salismar Ocean 的海岸**；**而作者的下一句用"因为"一转，直接说那边是妓院**——**于是读者在两句话之间自己完成了推理，作者一个字都没替他们说破。** 语法上那半句 **by the harbor, was the brothel** 是个**倒装**（地点在前，系动词提前）：**作者把这个倒装放在 because 从句的主语位置，于是"港口边上是妓院"这句话在句子里被抬到了比"心跳加快"更高的位置。** 而最重的是那个尾句 **the only family she had**——**作者用了 the only 这个独占限定**；**而它紧跟在"她姐妹住在那里"后面，于是这句限定同时是暖的（我有人）和冷的（只有那一处，而那一处已被罗盘指到）。
 
@@ -148,7 +148,7 @@ modified: "2026-10-05"
 
 **中文理解：** "尽管他为了找到失踪的公主们一直不懈地努力，他的父亲却控制着他的每一步，几乎不许他在没有得到许可的情况下喘一口气。"
 
-**关键词：** Despite his relentless efforts to find the lost princesses · his father had controlled his every move · barely allowing him to breathe without permission · time they didn’t have · his sister’s life hanging by a thread
+**关键词：** Despite his relentless efforts to find the lost princesses · his father had controlled his every move · barely allowing him to breathe without permission · to find the lost princesses
 
 **为什么这样写：** **这一段是全书写"王子"写得最反常识的一处，而作者用一次让步结构就把权力关系倒了过来。** **Despite 这个词本来是用来让后面的内容压过前面的**——**可作者后面跟的其实还是同一件事（他在努力），而真正压过来的东西在第三小句**：**his father had controlled his every move**（他的父亲控制着他每一步）。**于是整段的落差不在努力与不努力，而在"谁在主导"。** 而 **barely allowing him to breathe without permission**（几乎不许他不经许可就喘气）是全书最狠的一个侧面描写：**作者把"呼吸"当成了需要批准的事**——**于是一个成年的王子在文本里被写成了连换气都要报备的人。** 而 **hanging by a thread**（命悬一线）**紧跟着出现**，**和前面"喘气"那一句形成了一个身体上的连续**：**他连呼吸都要许可，而他妹妹的命正吊在一根线上。**
 
@@ -158,7 +158,7 @@ modified: "2026-10-05"
 
 **中文理解：** "「全都为了替那个他爱的女人遮掩。」"
 
-**关键词：** A betrayal to his king. · To his own father. · All to cover up for the woman he loved. · filled with lies and secrecy
+**关键词：** All to cover up for the woman he loved · to cover up for the woman he loved · the woman he loved
 
 **为什么这样写：** **这是全书最短也最重的一次定性，而作者把它拆成了三个各自独立成段的短句。** 前面两句极短：**背叛的是他的国王 / 背叛的是他自己的父亲**——**作者连用两个"his"，让背叛的方向从对外变成对内**；**而第三句才给出原因，而且也是一个 his**：**the woman he loved**。**三句的 his 全部指向同一个人，却没有一个是他必须服从的**——**作者用"所有权"这个词的三种用法，把"我不在乎"写成了三段。** 语法上最狠的是这句的完成时结构：**to cover up**（为了遮掩）**里的 cover up 是"掩盖"**——**而他要做的事情，动词本身和那份背叛的性质是同一个动作**。**而这一句前面正是**（one filled with lies and secrecy）**那个分词短语**：**作者在他还没开口之前，就把这条路标成了谎与秘密。**
 

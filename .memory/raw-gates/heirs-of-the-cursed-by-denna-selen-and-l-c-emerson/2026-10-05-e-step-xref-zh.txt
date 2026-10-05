@@ -1,0 +1,156 @@
+=== 跨章引用：章号+短语/POV 命中 131 / 错 0 / POV 错 0 ===
+⚠️ 中文相对引用 154 处（机械判不了，须人工折算）：
+  ch01 the seventh son turns to stone.md:23 块—  **为什么这样写：** 序章第一句就把**视角放在国境之外**——叙述者不属于这个王国，读者也是。而"pleas"（哀求）这个词选得很重：不
+  ch01 the seventh son turns to stone.md:93 块—  **为什么这样写：** 全书的第一句宣战在此落下，三个动词（毁掉 / 夺走 / 了结）按**从抽象到具体**排列：先是"legacy"与"p
+  ch01 the seventh son turns to stone.md:146 块—  序章用三个场景把本书的账算清：被诅咒的第七个儿子一出生就碎成石头，国王 Kirus Allencort 不肯承认诅咒、只肯承认威胁，于是把最
+  ch02 mind breaker at the circus.md:11 块—  - **情感弧线位置**：全书 Darcia 线的**起点——"被迫营业的日常"**。序章写的是国王的恐惧如何被转嫁，本章写恐惧被转嫁之后落
+  ch02 mind breaker at the circus.md:35 块—  **读者视角提示：** "the family it has given you"（马戏团给她的那个家）——注意这个所有格属于马戏团，不是她
+  ch02 mind breaker at the circus.md:55 块—  **读者视角提示：** "the Mind Breaker"是她的艺名式自称，与序章里 Leonel 想象的"怪物"形成对照——**同一类能
+  ch02 mind breaker at the circus.md:93 块—  **为什么这样写：** 安慰物的形状被作者安排成 **full moon（满月）**——而本章她是在月夜里出门的，序章里王国的名字 Ro’i
+  ch02 mind breaker at the circus.md:105 块—  **读者视角提示：** 本句与序章的 "Love could conquer everything, even fear, but not 
+  ch02 mind breaker at the circus.md:113 块—  **为什么这样写：** 全章结尾用**两个 wish 平行句 + 一个 But + 一句补语**完成转折。"hold her fate in
+  ch02 mind breaker at the circus.md:163 块—  本章把序章的"恐惧"落到一份具体的营生上：Darcia Voreia 靠读心与幻术撑起 Blood Moon Circus 的夜场，四头白虎
+  ch03 a lie called ausra.md:11 块—  - **情感弧线位置**：全书 **Naithea 线的起点**，也是全书**信息交汇的起点**——本章第一次让序章那条线（Leonel 进
+  ch03 a lie called ausra.md:13 块—  - **叙事手法**：**商品展示 → 自我揭底 → 职业判断 → 好奇越界 → 被注视**。开篇用市场口吻写她（"highest-paid
+  ch03 a lie called ausra.md:103 块—  **为什么这样写：** 全章的支点。先给假名，再立刻揭穿它是谎言——**叙述者比任何人都早知道**，读者因此不会上当。"slipped fr
+  ch03 a lie called ausra.md:123 块—  **为什么这样写：** 独立成段的一句判断，句式极简，作者全部的力气都放在定语从句上——**那个士兵的故事**。注意作者不在这里解释"拯救"
+  ch03 a lie called ausra.md:125 块—  **读者视角提示：** Lên Rājya 在序章是国王凝视窗外的敌国边缘，而在这里是被人"拯救"的对象。**两处并不矛盾，但需要读者自己拼
+  ch04 the chaser arrives at her door.md:11 块—  - **情感弧线位置**：全书情感弧线**由"忍耐"转向"被找上门"**的位置。序章的恐惧是国家的、抽象的（一个婴儿碎成石头）；这一章把它落
+  ch04 the chaser arrives at her door.md:53 块—  **为什么这样写：** 这段在介绍**舞台**——Dawnfall 是全书的马戏团城市，Darcia 那个"幻术师"的身份（原文后面才回指）
+  ch04 the chaser arrives at her door.md:73 块—  **为什么这样写：** 序章里国王只说了一句"放出 Chaser"，既没给称号也没给来历；这一段把主语与履历补齐。作者先用称号作主语，再用 
+  ch04 the chaser arrives at her door.md:146 块—  这一章把序章那种国家级别的恐惧压进了一个姑娘的早晨：Darcia 睡在马厩里、躲着继兄 Conrad 出门买面包，在面包房里从 Sadira
+  ch05 naithea steals the soldiers secrets.md:11 块—  - **情感弧线位置**：全书情感弧线上**让施术者与被施术者同时失守**的位置。序章写恐惧（Leonel 独自走进鬼城），这一章写**窥视
+  ch05 naithea steals the soldiers secrets.md:75 块—  **读者视角提示：** 上一章里有个姑娘隔着窗户只看见刀疤、光头和一双威吓人的榛色眼睛；这一章从他的意识内部看，同一个人只剩下一个怕黑的孩子
+  ch05 naithea steals the soldiers secrets.md:85 块—  **读者视角提示：** 序章里 Leonel 带回的结论是"她们从未存在过"，这一章里他说"两个该被关起来的人不见了"。**两句互相矛盾，而
+  ch06 the chaser asks for help.md:11 块—  - **情感弧线位置**：全书**第二次正面接触 Chaser**（第一次是序章国王放他出来），也是 Darcia 第一次与"要杀公主的人"
+  ch06 the chaser asks for help.md:43 块—  **为什么这样写：** 全书第一个**完整的诅咒名称**在此落下，而作者把它放在一个副词上：unflappable（不动声色的）seriou
+  ch06 the chaser asks for help.md:45 块—  **读者视角提示：** 这四个字在 ch01 序章的产房场景里出现过一次（"Just like the curse of stone and
+  ch06 the chaser asks for help.md:65 块—  **读者视角提示：** "The holly of death"这个专名在序章的摇篮场景里以复数出现过（the holly of death
+  ch07 ausra means sunrise.md:25 块—  **读者视角提示：** siren song（海妖之歌）是她的能力名。序章与 ch08 都没出现过这个词，本章是它第一次被命名——**命名之
+  ch07 ausra means sunrise.md:75 块—  **读者视角提示：** 本句是全书对"孤儿"的**最省字写法**。序章提到她母亲留给她的名字、ch15 提到她被装在篮子里漂在海上，本句只给
+  ch08 the dark twins are gone.md:11 块—  - **情感弧线位置**：全书**诅咒设定的第一次完整交代**，也是 Darcia 从"忍耐"到"付出代价"的分界点。序章的婴儿石化在本章被
+  ch08 the dark twins are gone.md:45 块—  **读者视角提示：** 这句话应与 ch01 序章里国王的 "I hope he won’t let me down." 对读——**一个是
+  ch08 the dark twins are gone.md:53 块—  **为什么这样写：** Dark Twins 的真名在本章揭晓，作者用**两种称谓并置**完成身份升级：先是耳熟能详的 "the curse
+  ch08 the dark twins are gone.md:55 块—  **读者视角提示：** Boreaalinen 这个姓在 ch01 出现过一次（Erlina 与 Tavarious），说明这对姐妹的母亲就
+  ch08 the dark twins are gone.md:63 块—  **为什么这样写：** 全章最短的一句台词，却承载最大的信息量：它**否定了序章的全部前提**。序章里 Leonel 亲眼看到空摇篮，国王据
+  ch08 the dark twins are gone.md:73 块—  **为什么这样写：** 叙述者 Darcia 并未亲历序章，但她**转述了序章的内容**——作者用一个 "a scout"（一名 scout
+  ch08 the dark twins are gone.md:75 块—  **读者视角提示：** 注意这里的 scout 是序章里那个被国王扔进鬼城的年轻人。本章的读者若已读完序章，会立刻认出；这也解释了他为何在 
+  ch08 the dark twins are gone.md:85 块—  **读者视角提示：** 本句可与序章国王那句 were memories turned to dust and stone（剩下的只是化成尘
+  ch08 the dark twins are gone.md:93 块—  **为什么这样写：** 独立成段，把序章那场婴儿石化的悲剧**压缩成一个行政用语**。"heir"（继承人）是制度词，"died"（死了）是
+  ch08 the dark twins are gone.md:95 块—  **读者视角提示：** 序章里国王说"Sons were more powerful"（儿子更有用），本章的"第七位继承人已死"因此不只是悲
+  ch08 the dark twins are gone.md:125 块—  **读者视角提示：** "Remember your place" 是本书的施暴公式。与序章国王威胁 Leonel 的方式对照：两个人都不解
+  ch08 the dark twins are gone.md:135 块—  **读者视角提示：** 本句与序章国王的"直到你流血而死"同为威胁句式，但一个用死亡收尾、一个用账目收尾，**本书的暴力体系从一开始就分成皇
+  ch09 the dark twins have been missing.md:53 块—  **为什么这样写：** 三步递进：穿行（wandered）→ 陈列（adorned with contrivances）→ 危险（capab
+  ch09 the dark twins have been missing.md:65 块—  **读者视角提示：** Kazaris 是毁灭女神，这个名字在 ch01 序章的 diones 设定里出现过（"the daimonas—t
+  ch09 the dark twins have been missing.md:75 块—  **读者视角提示：** 这条规则是全书的定价基准。序章里国王要的是 their crowns（他们的王冠），上一章那条线里黑暗索要的价码是 
+  ch09 the dark twins have been missing.md:103 块—  **为什么这样写：** 一个**双重过去完成时**的长主语（What Leonel had witnessed in Ro’i Rājya 
+  ch09 the dark twins have been missing.md:105 块—  **读者视角提示：** Leonel 是序章里那个被国王扔进鬼城的年轻士兵，本章他已经成了 Naithea 情报链上的第二环。**她通过 J
+  ch12 the midnight thief.md:75 块—  **读者视角提示：** 全书第二次出现"他能变成任何人"的结构。第一次是序章里 Leonel 描述鬼城里的存在，**同一个母题**——**本
+  ch13 a woman with knowledge is dangerous.md:34 块—  **为什么这样写：** 这是一个**自欺**的句子，而作者用 she told herself（她对自己说）**明确标记这是她自己编的**。
+  ch13 a woman with knowledge is dangerous.md:36 块—  **读者视角提示：** Iseabail 是序章里那位夜渡边界的母亲（Every night, Iseabail would bring a
+  ch13 a woman with knowledge is dangerous.md:76 块—  **读者视角提示：** 这与 ch11 结尾那句 An ordinary man 应 never speak... 是同一招。**Ward 
+  ch14 the threads of her own mind.md:84 块—  **为什么这样写：** 全章 Darcia 的第一次**反击**，而她反击的方式是**把"正常"重新定义成"逃走"**。I fight ev
+  ch14 the threads of her own mind.md:116 块—  **读者视角提示：** 呼应 ch12 开头那句 His sharp gold-rimmed eyes（那双锐利的金边眼睛）——**两处超自
+  ch14 the threads of her own mind.md:202 块—  本章是 Darcia 第一次说破自己能力的一章：那个传说里的窃贼 No one knew his name, nor had they se
+  ch15 the fatis asteria.md:43 块—  **为什么这样写：** "the monster"（那头怪物）**不写"在她心里"**——作者让读者先看见它有声音、有具体位置（在藏书楼里与
+  ch16 the midnight thief.md:13 块—  - **叙事手法**：**喧闹—沉静—惊动**三段。戏棚内用对话密度压顶（三人各揭一层，节奏像接力）；随后两句极短的独立成段（Someone
+  ch16 the midnight thief.md:53 块—  **为什么这样写：** 一句**条件式预言**，用虚拟语气（If that were to happen）把自己与预言保持距离——说话的人只
+  ch17 the commander of death remembers her name.md:154 块—  **为什么这样写：** 全章对 Ward **最冷的收束**，而作者用 **the pieces of the monster…fell b
+  ch18 the midnight thief looks down.md:36 块—  **读者视角提示：** 呼应他上一段说的he would work in one of the monasteries of Evrethi
+  ch18 the midnight thief looks down.md:116 块—  **读者视角提示：** 这段是全书对 Darcia 最残忍的一次刻画：**她有能力反击，但她选择的不是反击，是沉默。** 而这个沉默和上一章
+  ch18 the midnight thief looks down.md:166 块—  **读者视角提示：** 这是全书对 **Darcia 能力"成本"的最清晰展示**：她的魔力在**被情绪点燃的同时也是危险的**——而她每次
+  ch19 the compass and the confession.md:46 块—  **读者视角提示：** 本句与后面那句 Anyone who dares to question me in the slightest w
+  ch19 the compass and the confession.md:104 块—  **为什么这样写：** 全章对**"谁在藏她们"**最冷的一次表述，而作者用一个 **Whoever（无论是谁）** 起头的从句——**这个
+  ch19 the compass and the confession.md:116 块—  **读者视角提示：** 三支血蜡烛（每位女神一支）加上宝石与草药，构成的是**献祭台**。而这本书的献祭在 ch01 序章里就出现过（那个城
+  ch19 the compass and the confession.md:154 块—  **为什么这样写：** 全章**最后一句台词**，而它是**全章最漂亮的一击**。作者用一个 **You mean（你的意思是）** 开头的
+  ch20 the keys of the twin goddesses.md:11 块—  - **情感弧线位置**：全书 **Darcia 与 Alasdair 关系线第一次"非交易"** 的一章。ch12 的珠宝店是他在她不知情
+  ch21 the night that could be their end.md:35 块—  **读者视角提示：** 本句是全章对 **Dimond 的控制**最具体的一次物化，而这条控制链在本章前一段就铺好了：她要 hetairas
+  ch21 the night that could be their end.md:135 块—  **读者视角提示：** 本句是全书对 Ward 身世**唯一一次从内部写的**——不是别人交代他做过什么，是他自己承认 unfamiliar
+  ch21 the night that could be their end.md:163 块—  **为什么这样写：** 全章对 **Ward 感情**最重的一句，也是全书对"他为什么要毁掉自己"这句问题的第一次正面提出。而作者用 **m
+  ch22 three weeks.md:13 块—  - **叙事手法**：**三幕——梦、早餐、面具。** 开篇用 **Dreams were a precious gift** 与现实之间的
+  ch22 three weeks.md:25 块—  **读者视角提示：** 本句是**两条线共用的母题**——对面那条线里，她把梦记在别的东西上（写下来的是"我曾拥有过什么"），而这里 Dar
+  ch23 mistake number two.md:113 块—  **为什么这样写：** **全章的转折句，而作者用**一个**冒号**把一个人物直接接成一条行动指令。** **a single missi
+  ch23 mistake number two.md:173 块—  **为什么这样写：** **全章对"尊严"写得最响亮的一句，而作者把它写成一场宣战。** **I’m not joking**（我不是在开玩
+  ch23 mistake number two.md:215 块—  **读者视角提示：** **这一句与本章开头那句"她把脸从枕头上抬起来、脸上的褶痕是被某人压出来的"隔了整整一章。** 上一章她**躺在他怀
+  ch24 thorns and tulips.md:12 块—  - **人物弧线**：**Harg Koller 在本章第一次被写成"人"**——不是恶人，**是一个正在把自己的职业与自己的过去分装在两个
+  ch24 thorns and tulips.md:33 块—  **为什么这样写：** **这一段把"她想躲"和"他在看"写成了同一个动作。** **Needing something to focus 
+  ch24 thorns and tulips.md:45 块—  **读者视角提示：** **这是全书第一次，Alasdair 对 Darcia 说了话——而他用的是沉默。** 本章他真正出声的那一次在结尾
+  ch24 thorns and tulips.md:55 块—  **读者视角提示：** **注意金色挂剑（golden sword）这个细节是本卷反复出现的物件**——**在这个世界里，武器挂在腰上是身份
+  ch24 thorns and tulips.md:65 块—  **读者视角提示：** **这是全书对"名声作为武器"写得最清楚的一处**：她用他的名声当盾牌，**而本章结尾她会发现——他的名声正是他自己
+  ch24 thorns and tulips.md:85 块—  **读者视角提示：** **本章有两束花，而这一束是"公开的"**——当众递出、当众接下、**它留在她父亲手里过了一整晚**；**而结尾那一
+  ch24 thorns and tulips.md:155 块—  **读者视角提示：** **deep down（在更深的地方）** 这个短语是英语里最常见的自我开脱句式，而作者把它用在一个刚从舞台上下来的
+  ch24 thorns and tulips.md:165 块—  **读者视角提示：** **这是全书对两位女主身世最重要的一次并置**——**"Two Bloods"这个词在序章就出现过，而读者直到这一章
+  ch24 thorns and tulips.md:215 块—  **读者视角提示：** **这一章结束在这张床上，而上一章的结束也是这张床**——**上一章她一个人躺着，脸颊上还留着床单的褶痕；这一章她抱
+  ch25 surrender to me.md:33 块—  **为什么这样写：** **全章对两个人关系写得最安静、也最重的一句，而它是从"付钱"开始的。** **paid with a bag of
+  ch25 surrender to me.md:63 块—  **为什么这样写：** **这一段是全章对"她在军营的位置"最冷的一次交代，而作者用 **deceptive（骗人的）** 修饰"协议"这三
+  ch25 surrender to me.md:163 块—  **为什么这样写：** **全书对这个女主最不可原谅、也最诚实的一段，而作者把"她"和"它"放进了同一个生存算式里。** **She wep
+  ch26 the mark of a key.md:25 块—  **读者视角提示：** **注意这一句是被截断的**（末句用 a 结尾没有下文）——**这不是作者的失误，是她叙述时正在看镜子**：**她读
+  ch26 the mark of a key.md:43 块—  **为什么这样写：** **这一句是全章对"誓言"写得最工整的一处，而它靠的是 mended（修好）这个词。** **mend 在英语里原意
+  ch26 the mark of a key.md:123 块—  **为什么这样写：** **这一段是全书对"道德责任"写得最漂亮的一次反驳，而作者把锁链放在了心上。** **remain chained*
+  ch26 the mark of a key.md:143 块—  **为什么这样写：** **全书对"家"写得最具体的一次，而作者用的是复数。** **the four of them**（他们四个人）——
+  ch26 the mark of a key.md:155 块—  **读者视角提示：** **hands behind his back 这个动作在全书出现了两次**（上一章他在林子里也这样），**而两次都
+  ch26 the mark of a key.md:195 块—  **读者视角提示：** **这一句与上一章（那条线）交付的两把钥匙构成本卷的中枢道具**；**而两条线在此处第一次以"同一个名词"相遇**—
+  ch26 the mark of a key.md:205 块—  **读者视角提示：** **这一句是全书"坠子"这个物件的第四次现身，也是第一次由别人感知到它**——**而它给出的是敌意而不是保护**；*
+  ch26 the mark of a key.md:213 块—  **为什么这样写：** **全章最后一句，而作者用一个法律动词结束了这一章。** **sentenced（判决）**——**这是法庭上的动词
+  ch27 the monster she hid in her soul.md:11 块—  - **情感弧线位置**：**这是全书情欲线与道德线第一次正面相撞，而作者让"撞"发生在夜戏之前的那几个钟头。** 上一章她刚被自己放出来的
+  ch27 the monster she hid in her soul.md:23 块—  **为什么这样写：** **全章第一句就把上一章的结论写成了一个空间关系：笼子。** 作者用的是 **retreated and retur
+  ch27 the monster she hid in her soul.md:33 块—  **为什么这样写：** **这一句是全书埋得最深的一处双关，而它此刻还完全不显形。** **temples** 在这里指的是**太阳穴**（
+  ch27 the monster she hid in her soul.md:133 块—  **为什么这样写：** **这是全书"一个词改变一切"的写法，而作者把机制写全了。** 值得注意的是作者**始终没写出那个称呼是什么**——
+  ch28 you must follow the light.md:63 块—  **为什么这样写：** **这一句是全书写恐惧写得最有身体感的一处，而作者靠的是 overflowed（溢出）这个正在发生的词。** **o
+  ch28 you must follow the light.md:113 块—  **为什么这样写：** **这一段是全书对 Darcia 的出身写得最露骨、也最不解释的一次，而作者全靠三个形容词和一个动词。** **ar
+  ch29 a betrayal to his king.md:85 块—  **读者视角提示：** **这一句是她身上第一次出现不是伤的东西**（上一章她身上是伤疤与药粉）；**而作者紧接着就把她放进一群会追问她细节
+  ch29 a betrayal to his king.md:213 块—  **为什么这样写：** **这是全书最狠的一句收束，而作者只用了十来个词就把全章三条线一次清空。** **But 这个转折词放在最前面，而它
+  ch29 a betrayal to his king.md:215 块—  **读者视角提示：** **这是全书到本章为止最短、也最不像收尾的收尾**——**它没有交代她去了哪里，也没有交代他的解释。** 请注意**
+  ch30 then darkness swallowed her whole.md:11 块—  - **情感弧线位置**：**这是全书把「失去」写成一场需要完成的动作的一章。** 前面七章她一直在做减法（放弃身份、放弃家人、放弃解释），
+  ch30 then darkness swallowed her whole.md:25 块—  **读者视角提示：** **这一句紧接在上一章那盏灭掉的油灯之后**——**她刚看着火消失，现在她站在火的前面**。**作者把两个"离开"用
+  ch30 then darkness swallowed her whole.md:153 块—  **为什么这样写：** **这是全书对"告别动作"写得最轻也最重的一处，而作者把一个拥抱写成了额头相碰。** **他们的额头相碰，是上一章她
+  ch30 then darkness swallowed her whole.md:185 块—  **读者视角提示：** **这一段是全书对"她为什么不跑"给出的唯一一次事后回答，而答案不是勇气，是她舍不得**——**她舍不得的清单在上一
+  ch30 then darkness swallowed her whole.md:215 块—  **读者视角提示：** **这一句是全书第二次用"吞"（前一章是火 devour，本章前面是黑洞 insatiable），而这次连主语都不是
+  ch31 the monster came to save her.md:75 块—  **读者视角提示：** **这一句是本章与上一章之间的唯一一座桥，而它只有二十来个词。** 请把它和本章最后那三句 **‘Take.’** 
+  ch31 the monster came to save her.md:95 块—  **读者视角提示：** **这一段是全书对 Darcia 线的呼应**（上一章 Darcia 也刚失去自己的家），**而这两章挨在一起，读者
+  ch31 the monster came to save her.md:203 块—  **为什么这样写：** **这是全书对"杀"写得最冷的一处，而作者把它写成了一次节拍器。** 语法上真正见功夫的是那个 **bone by 
+  ch31 the monster came to save her.md:215 块—  **读者视角提示：** **这一句是整个 Chapter 30 的最后一句，而作者把它接在 Until it reached their n
+  ch32 you are not darcia voreia.md:25 块—  **读者视角提示：** **这一句是全书从上一章那场火直接切过来的，而作者用"灰的味道"当缝合线**（**the smell of ashe
+  ch32 you are not darcia voreia.md:125 块—  **读者视角提示：** **这是全书对 Darcia 与 Conrad 的关系写得最重的一句，而它把上一章那件事说成了交换**——**她拿走
+  ch32 you are not darcia voreia.md:143 块—  **为什么这样写：** **这是全书把"我需要一个孩子来养活"写得最坦荡的一处，而作者让他说得像在报账。** 语法上最见功夫的是那个 **b
+  ch32 you are not darcia voreia.md:155 块—  **读者视角提示：** **这是全书两条线第一次在同一个人的嘴里对上**——**Harg 找的是公主，而给 Harg 钥匙的是 Conrad
+  ch32 you are not darcia voreia.md:163 块—  **为什么这样写：** **这是全书对"怪物"这个词的第三次易主，而它只有五个词。** 语法上值得看的是**The 的缺席**：**英语里说
+  ch32 you are not darcia voreia.md:195 块—  **读者视角提示：** **这是全书对 Caeli 这个角色最完整的一次定性，而她已经死了三章。** 而最锋利的一点是：**她那一晚保护的是
+  ch32 you are not darcia voreia.md:213 块—  **为什么这样写：** **这是全书对"一个人怎么被打碎"写得最漂亮的一处，而作者用一个材料替换讲完了。** 语法上最见功夫的是那个 **n
+  ch32 you are not darcia voreia.md:215 块—  **读者视角提示：** **这是全书对"她会怎么活下去"给出的第一个答案，而答案是一个材料的隐喻**——**请把它和本章的第四枚炸弹连读**
+  ch34 the taste of revenge.md:11 块—  - **情感弧线位置**：**这是全书 Darcia 线唯一一次「真相落地之后，人没有塌下去」的位置。** 上一章她在木屋里被掀开底牌，本章
+  ch34 the taste of revenge.md:12 块—  - **人物弧线**：**Alasdair 在本章从"蒙面的小偷"变成"报出全名的人"**——开头是 **the one that trul
+  ch34 the taste of revenge.md:95 块—  **读者视角提示：** **这一章她摸这条手绳是第一次，而本章结尾她握着它哭是第二次**——**In the comfort of the 
+  ch35 she is amira boreaalinen.md:11 块—  - **情感弧线位置**：**这是全书「被爱的那一方」第一次成为「下达追杀令的那一方」的位置，而它发生在同一章里。** 前半章 Naithe
+  ch35 she is amira boreaalinen.md:25 块—  **读者视角提示：** **这是全书她第一次为"好奇"本身付出代价**——**而上一章她刚拿到的那个答案正是好奇的产物**；**于是这一句是
+  ch35 she is amira boreaalinen.md:123 块—  **为什么这样写：** **作者让她母亲的两个姓分两句给出**——**前一句是本姓，后一句是婚后的姓**；**于是她是谁的答案，被一个码头工
+  ch36 she ripped out his heart.md:45 块—  **读者视角提示：** **请注意他递刀的方式**——**handed her the dagger** ——**是"交到手里"，不是"丢过
+  ch36 she ripped out his heart.md:73 块—  **为什么这样写：** **作者让一个以 there be 开头、以 anymore 结尾的句子去回答一句关于"未来"的台词**——**而 
+  ch37 im going to get my sisters to safety.md:25 块—  **读者视角提示：** **这一章她哪儿也没去，可她手上有两把刀**——**请注意那句她"没还"的匕首，指向的是上一章她用石头换来的那一次告
+  ch37 im going to get my sisters to safety.md:45 块—  **读者视角提示：** **请记住这张脸**——**上一章那四个人已经被她用幻术和狼和刀处理掉了**；**而这一章门口站着四个同样形状的脸*
+  ch38 that cave had been her home.md:165 块—  **读者视角提示：** **这是全书第一次给出"变成狼"这件事的规则**——**而规则是：一方永远是动物，另一方必须离开**；**请把这条规
+  ch38 that cave had been her home.md:215 块—  **读者视角提示：** **这一句和第一句 She’d given in to her lineage as a daimon, as a 
+  ch39 she closed her eyes and sang.md:11 块—  - **情感弧线位置**：**这是全书 Naithea 线唯一一次「她为了不杀人而赢了」，而代价是她一个人走。** 前半章是全书最热闹的一场
+  ch39 she closed her eyes and sang.md:85 块—  **读者视角提示：** **这是 Fiend 的人第二次当着读者说要烧一座城**；**而上一章他烧的是 Dawnfall**；**请把这一句
+  ch39 she closed her eyes and sang.md:135 块—  **读者视角提示：** **这一句是全书 Fiend 的人第一次在 Naithea 面前把自己的工作说成"更重要"**；**而"更重要"的另
+  ch39 she closed her eyes and sang.md:213 块—  **为什么这样写：** **作者用两个嵌套条件把威胁撑到最大**——**would stop at nothing（什么都不顾）**是外面那
+  ch40 my twenty-second birthday.md:13 块—  - **叙事手法**：**本章是全书节奏最轻的一章，也是转折最硬的一章，而作者用一条对称轴把它撑起来：前一半是"两个成年人互相试探"，后一半
+  ch40 my twenty-second birthday.md:183 块—  **为什么这样写：** **作者用两个 no + 名词的短否定开场**——**而它们后面跟的是一个分号**；**于是"什么都没有"这个结论被
+  ch40 my twenty-second birthday.md:185 块—  **读者视角提示：** **这是全书 Bellmare 第一次被写成"被抽空"**；**而读者还不知道原因**——**上一章那场火、这一章这
+  ch41 she is already dead.md:11 块—  - **情感弧线位置**：**这是全书 Naithea 线第一次把「内疚」写在敌人脸上的一章——而作者让它同时是一段物理距离的收窄。** 全
+  ch41 she is already dead.md:13 块—  - **叙事手法**：**本章是全书第一次让"对话"完全退居其次，让身体先说话。** 作者用了**三层空间折叠**：先是空城（**There
+  ch41 she is already dead.md:53 块—  **为什么这样写：** **作者用 angry tears（愤怒的泪）而不是悲伤的泪**——**于是这一段痛感的性质是"被冒犯"，不是"失去
+  ch41 she is already dead.md:55 块—  **读者视角提示：** **请注意这是全书她第一次把"我爱过他"这件事当成一件让自己生气的事**——**上一章她还把等待说成自己天生的本事，
+  ch41 she is already dead.md:93 块—  **为什么这样写：** **这封信第一句就给好消息，第二句立刻用 but 把它压回去**——**于是 Jehanne 的处境在这一句里被算了
+  ch42 dont touch her.md:63 块—  **为什么这样写：** **作者先写声音再写动作**——**hung in the air（挂在空气里）这个"挂"字让尖叫没有立刻散去**，
+  ch42 dont touch her.md:203 块—  **为什么这样写：** **作者让"致命的一击"用 caressing（抚摸）这个最温柔的动作来完成**——**于是这一剑的可怕不在狠，在轻
+  ch42 dont touch her.md:215 块—  **读者视角提示：** **请注意这句话与上一章她自己的那句 I was doomed from the beginning. 是一对镜像*
+  ch43 you cant kill whats already dead.md:133 块—  **为什么这样写：** **这是全书最短的一次语言反杀，而它靠的是把名词换掉**——**threats（威胁）换成 promises（承诺）
+  ch43 you cant kill whats already dead.md:163 块—  **为什么这样写：** **这是全书妹妹第一次对姐姐下指令，而作者给了她 we（我们）**——**于是这不是"你走"，是"我们走"**。最见
+  ch43 you cant kill whats already dead.md:193 块—  **为什么这样写：** **作者让雪用 caresses（抚触）这个词来碰她**——**和上一章那记 caressing 下颌的剑同一个动词
+  ch43 you cant kill whats already dead.md:203 块—  **为什么这样写：** **作者在这里做了一次信仰的公开质疑**——**goddesses 在这一整章一直是站在她们这边的（献祭、引路、承认
+  ch43 you cant kill whats already dead.md:213 块—  **为什么这样写：** **全书最后一句只剩三个成分，而 together 这个词是本章真正的新增物。** 最见功夫的是 **that th
+  ch43 you cant kill whats already dead.md:215 块—  **读者视角提示：** **请注意这是全书两条线第一次在同一句里被写成"她们"，而不是"她"**；**于是这七个字既是本章的结尾，也是整本书
+  ch44 i will find them harg.md:23 块—  **为什么这样写：** **这是全书最后一章的第一句，而作者把主语写成 The capital 而不是任何人。** **于是丧事一开始就是公
+  ch44 i will find them harg.md:179 块—  **中文理解：** "他被愤怒与羞耻彻底占满，以至于没法让自己为她哭——而这个资格，他很久以前就丢掉了。"
+  ch44 i will find them harg.md:205 块—  **读者视角提示：** **请注意这句话是叙述者说的，不是角色说的**——**也就是说全书作者在最后一章替他说了一句人话**；**而这句人话

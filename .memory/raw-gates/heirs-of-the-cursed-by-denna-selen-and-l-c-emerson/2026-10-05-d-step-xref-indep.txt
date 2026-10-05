@@ -1,0 +1,314 @@
+=== chNN 引用 375 处：英文证据报警 0 处 ／ 中文式待人判 312 处 ===
+--- 中文式待人判清单（前 312 条）---
+  00_情感节点.md:7 → ch01｜> 本文件的 10 个节点覆盖全书 44 章（ch01 序章 → ch44 尾声）。
+  00_情感节点.md:7 → ch44｜> 本文件的 10 个节点覆盖全书 44 章（ch01 序章 → ch44 尾声）。
+  00_情感节点.md:12 → ch01｜## 节点①：摇篮里什么都没有（ch01）
+  00_情感节点.md:14 → ch01｜（ch01）序章用一个画面立住全书的恐惧：Leonel Ramsdean 穿过 crypt 与 Door of Etmek，走到那座被诅咒的王宫里——Erlina 夫妇仍在
+  00_情感节点.md:35 → ch03｜## 节点②：一个被磨成商品的十三岁（ch03）
+  00_情感节点.md:37 → ch03｜（ch03）视角交给 Naithea。
+  00_情感节点.md:49 → ch03｜**②**（ch03）"“Ausra.” The lie slipped from her lips with ease. Naithea would never reve
+  00_情感节点.md:58 → ch11｜## 节点③：十一只手（ch11）
+  00_情感节点.md:60 → ch11｜（ch11）皇家军队驻扎妓院，抽成从 seventy-five percent 涨到 ninety。
+  00_情感节点.md:81 → ch21｜## 节点④：一个没有发生的夜晚（ch21）
+  00_情感节点.md:83 → ch21｜（ch21）Ward 终于把 Naithea 带进那间房。
+  00_情感节点.md:104 → ch27｜## 节点⑤：怪物退回笼子之后（ch27）
+  00_情感节点.md:106 → ch27｜（ch27）Naithea 一个人在 Pixies’ Forest 里跑，林子喊她 surrender，她屈服了。
+  00_情感节点.md:127 → ch31｜## 节点⑥：喊出那个名字（ch31）
+  00_情感节点.md:129 → ch31｜（ch31）她算清了整笔账：赢得她心与灵魂的指挥官，就是她恨了一生的那个 faceless prince。
+  00_情感节点.md:152 → ch36｜（ch36）她逃了七天，把偷来的匕首刺进那个掐住她脖子的人的手里，从马厩冲出去。
+  00_情感节点.md:173 → ch39｜## 节点⑧：当众承认（ch39）
+  00_情感节点.md:175 → ch39｜（ch39）她被锁在 Madame Dimond 的房间里，一手 stolen sword、一手没还给王子的匕首。
+  00_情感节点.md:198 → ch42｜（ch42）全书两条线第一次放进同一片 Saevus Forest。
+  00_情感节点.md:227 → ch44｜## 节点⑩：「I’m trying,」他低声说（ch44）
+  00_情感节点.md:229 → ch44｜（ch44）整章切到 Killian。
+  00_概述.md:8 → ch01｜> 依据：本目录 `text/` 下 44 个原文文件（ch01 = PROLOGUE，ch02–ch43 = Chapter 1–42，ch44 = EPILOGUE）。
+  00_概述.md:8 → ch02｜> 依据：本目录 `text/` 下 44 个原文文件（ch01 = PROLOGUE，ch02–ch43 = Chapter 1–42，ch44 = EPILOGUE）。
+  00_概述.md:8 → ch43｜> 依据：本目录 `text/` 下 44 个原文文件（ch01 = PROLOGUE，ch02–ch43 = Chapter 1–42，ch44 = EPILOGUE）。
+  00_概述.md:8 → ch44｜> 依据：本目录 `text/` 下 44 个原文文件（ch01 = PROLOGUE，ch02–ch43 = Chapter 1–42，ch44 = EPILOGUE）。
+  00_概述.md:22 → ch01｜### 一、一个国家是怎么变成一块石头的（ch01，PROLOGUE）
+  00_概述.md:26 → ch02｜### 二、两条线各自的第一份营生（ch02–ch03）
+  00_概述.md:26 → ch03｜### 二、两条线各自的第一份营生（ch02–ch03）
+  00_概述.md:32 → ch04｜### 三、国王的机器开动（ch04–ch06）
+  00_概述.md:32 → ch06｜### 三、国王的机器开动（ch04–ch06）
+  00_概述.md:34 → ch06｜Darcia 先闻到它「介于腐烂与麝香之间」，养父 Gion 才用指尖捏起它：**“The holly of death,” Gion finished for him.*
+  00_概述.md:38 → ch07｜### 四、两个人各自的第一次结盟（ch07–ch13）
+  00_概述.md:38 → ch13｜### 四、两个人各自的第一次结盟（ch07–ch13）
+  00_概述.md:44 → ch14｜### 五、两条线各自交出底牌（ch14–ch21）
+  00_概述.md:44 → ch21｜### 五、两条线各自交出底牌（ch14–ch21）
+  00_概述.md:50 → ch22｜### 六、账开始被摊开算（ch22–ch28）
+  00_概述.md:50 → ch28｜### 六、账开始被摊开算（ch22–ch28）
+  00_概述.md:58 → ch29｜### 七、身份揭穿与第一次并肩（ch29–ch36）
+  00_概述.md:58 → ch36｜### 七、身份揭穿与第一次并肩（ch29–ch36）
+  00_概述.md:64 → ch32｜Darcia 这边，Conrad 在木屋里连扔四枚炸弹——第一枚是 **“It was my mother,” he said.**（ch32） 而她最终选择了把偷来的匕首
+  00_概述.md:66 → ch37｜### 八、逃、烧、和一句当众承认（ch37–ch40）
+  00_概述.md:66 → ch40｜### 八、逃、烧、和一句当众承认（ch37–ch40）
+  00_概述.md:68 → ch39｜她被锁在 Madame Dimond 的房间里，一手 stolen sword、一手没还给王子的匕首，脖子上是 menessbane necklace；她带着十一个女人翻窗
+  00_概述.md:74 → ch41｜### 九、两条线合流（ch41–ch43）
+  00_概述.md:74 → ch43｜### 九、两条线合流（ch41–ch43）
+  00_概述.md:78 → ch41｜青楼已被洗劫，**The brothel was silent, empty.** Killian 在暗室里等她，第一句是 **“I know. It took you l
+  00_概述.md:78 → ch41｜青楼已被洗劫，**The brothel was silent, empty.** Killian 在暗室里等她，第一句是 **“I know. It took you l
+  00_概述.md:78 → ch41｜青楼已被洗劫，**The brothel was silent, empty.** Killian 在暗室里等她，第一句是 **“I know. It took you l
+  00_概述.md:80 → ch42｜Darcia 循父亲那句「follow the light」赶到战场，念完四个名字后只说一句 **“Let the show begin.”**（ch42） 两人第一次对上
+  00_概述.md:82 → ch44｜### 十、尾声（ch44）
+  00_概述.md:84 → ch44｜Davinia Allencort 十三岁，**the last heiress of Lên Rājya’s throne**；王后只能摸着那对耳坠——**the onl
+  00_概述.md:86 → ch44｜火是弟弟放的：**And then, Sirio lowered the torch to the casket.** 而他等人走光了才敢上前，随即被自己挡住——**he 
+  00_概述.md:94 → ch03｜| Naithea Utari | Bellmare 的 hetaira；实际是 Dark Twins 之一（Meissa Boreaalinen） | ch03 起 |
+  00_概述.md:95 → ch02｜| Darcia Voreia | Blood Moon Circus 的幻术师；实际是 Dark Twins 之一（Amira Boreaalinen） | ch02 起
+  00_概述.md:96 → ch04｜| Killian Allencort | Lên Rājya 的 Crown Prince；初登场时以 Commander of Death 的身份化名 | ch04 起
+  00_概述.md:97 → ch06｜| Harg Koller | the Chaser；General of the Royal Army；Killian 认作兄弟的人 | ch06 起 |
+  00_概述.md:98 → ch02｜| Gion Voreia | Darcia 的养父；知道机制最全的人 | ch02 起 |
+  00_概述.md:99 → ch10｜| Caeli Ndiaye | Darcia 的爱人 | ch10 起 |
+  00_概述.md:100 → ch02｜| Conrad Voreia | Darcia 的继兄；拥有 Blood Moon Circus | ch02 起 |
+  00_概述.md:101 → ch09｜| Dyron Selmi | 独眼巫师；情报商 | ch09 起 |
+  00_概述.md:102 → ch41｜| Jehanne | Naithea 最好的朋友；ch41 独自去查妹妹下落 | ch07 起 |
+  00_概述.md:102 → ch07｜| Jehanne | Naithea 最好的朋友；ch41 独自去查妹妹下落 | ch07 起 |
+  00_概述.md:103 → ch05｜| Madame Dimond | The Grumpy Dwarf 的老板娘 | ch05 起 |
+  00_概述.md:104 → ch43｜| Fawke Biceus | Ward 的副手；被 Naithea 打成植物状态后在 ch43 现身 | ch25 起 |
+  00_概述.md:104 → ch25｜| Fawke Biceus | Ward 的副手；被 Naithea 打成植物状态后在 ch43 现身 | ch25 起 |
+  00_概述.md:105 → ch16｜| Alasdair Hale | 传说中的窃贼；真实身份在 ch16 交出 | ch12 起 |
+  00_概述.md:105 → ch12｜| Alasdair Hale | 传说中的窃贼；真实身份在 ch16 交出 | ch12 起 |
+  00_概述.md:106 → ch39｜| Leonel Ramsdean | 帝国军官；ch39 叛 Crown | ch01 起 |
+  00_概述.md:106 → ch01｜| Leonel Ramsdean | 帝国军官；ch39 叛 Crown | ch01 起 |
+  00_概述.md:107 → ch44｜| Davinia Allencort | Killian 的幼妹；ch44 死于火化 | ch44 |
+  00_概述.md:107 → ch44｜| Davinia Allencort | Killian 的幼妹；ch44 死于火化 | ch44 |
+  00_概述.md:108 → ch44｜| Sirio Allencort；Annemarie | Killian 的弟弟与姐姐；原文作 Annemarie and Sirio Allencort | ch44 
+  00_概述.md:109 → ch08｜| Kazaris | 其中一位女神；文中以 holly of death 为其标志 | ch08 起 |
+  00_概述.md:115 → ch31｜1. **ch31——名字被喊出来的那一章。
+  00_概述.md:123 → ch42｜- **ch42 里两处称呼的错位。
+  00_概述.md:123 → ch42｜** 士兵对 Naithea 喊 **“Surrender, Amira.”**（ch42），而抓住 Darcia 的黑眼士兵喊的是 **“You, my sweet Me
+  00_概述.md:123 → ch42｜** 士兵对 Naithea 喊 **“Surrender, Amira.”**（ch42），而抓住 Darcia 的黑眼士兵喊的是 **“You, my sweet Me
+  00_概述.md:124 → ch27｜** ch27 把他打到「eternal sleep」，ch43 他却好好地跪在那里说 **“You can’t kill what’s already dead, dar
+  00_概述.md:124 → ch43｜** ch27 把他打到「eternal sleep」，ch43 他却好好地跪在那里说 **“You can’t kill what’s already dead, dar
+  00_概述.md:125 → ch44｜** ch44 只写了火焰与王室的一句估价，**全书没有给出行凶者**；而覆盖在她身上的那句 **another victim of greed, hatred and p
+  00_金句精选.md:12 → ch01｜**上下文**：ch01 序章：Leonel Ramsdean 穿过 crypt 带回的答案，是他此前不肯承认的那一句。
+  00_金句精选.md:24 → ch03｜**上下文**：ch03 交代 Naithea 的来处：母亲的病、装在篮子里的海，以及被磨成商品的那双眼睛。
+  00_金句精选.md:28 → ch21｜**呼应关系**：ch21 里那块让她难受的薄面具，与这一双被等待发现的眼睛互为表里：**她一生都在被看见，却没人问过她想不想。
+  00_金句精选.md:36 → ch06｜**上下文**：ch06：被称为 the Chaser 的 Harg Koller 带着一块带 holly 的 Ro’i Rājya 石子上门，养父只闻了一下就报出名字。
+  00_金句精选.md:40 → ch42｜**呼应关系**：ch42 那只被称作「the symbol of Goddess Kazaris」的白虎，把这块石头代表的死变成了活物。
+  00_金句精选.md:48 → ch08｜**上下文**：ch08：Darcia 偷听 Conrad 与养父的谈话之后得出的判词。
+  00_金句精选.md:52 → ch42｜**呼应关系**：ch42 的 **“Let the show begin.”** 是这句的反面教材：**她选择不接受，于是她开了演。
+  00_金句精选.md:60 → ch08｜**上下文**：ch08 结尾：她潜入 Conrad 的心思被抓，挨了一记耳光之后仍然只留下这一句想法。
+  00_金句精选.md:64 → ch43｜**呼应关系**：ch43 的一句「雪不是好运的预兆，而是 impending death」把同一件事换成了天气——**石化与降雪，都是被提前告知的死法。
+  00_金句精选.md:72 → ch11｜**上下文**：ch11：十一个女人第一次开会，Regnera 怕，Tanea 想起全家死在火里，最后是 Larka 说出这番话。
+  00_金句精选.md:76 → ch14｜**呼应关系**：ch14 里 Darcia 对 Caeli 讲的「I can cut those threads」是同一道题的另一种解法：**她选择切别人的线，于是她成了
+  00_金句精选.md:84 → ch11｜**上下文**：ch11：Naithea 宣布锁门计划之后。
+  00_金句精选.md:88 → ch39｜**呼应关系**：ch39 里十一个女人跳窗离城，那一刻用词与此处几乎同构：**十一次握住，和十一次松开，是同一个动作的两头。
+  00_金句精选.md:96 → ch14｜**上下文**：ch14：她向 Caeli 坦白自己的全部能力之后，补上这条她四岁就学会的铁律。
+  00_金句精选.md:100 → ch36｜**呼应关系**：ch36 那场正面战里，她赢的方式正是先受够伤；**到 ch42 她已经没法再靠它，因为那一刀让她体内的怪物昏睡过去。
+  00_金句精选.md:100 → ch42｜**呼应关系**：ch36 那场正面战里，她赢的方式正是先受够伤；**到 ch42 她已经没法再靠它，因为那一刀让她体内的怪物昏睡过去。
+  00_金句精选.md:108 → ch21｜**上下文**：ch21：Ward 终于在房里只剩两人时开口，她给出的回答。
+  00_金句精选.md:112 → ch31｜**呼应关系**：ch31 她对 Dyron 喊出「Prince Killian」的那一刻，用的是同一种句式：**先承认渴望，再切断对象。
+  00_金句精选.md:120 → ch22｜**上下文**：ch22：Dream 之后回到现实，父亲用一整套证据换她离开。
+  00_金句精选.md:124 → ch36｜**呼应关系**：ch36 他把这笔账原样还给她：**Because fate has granted you back the power of choice.**——*
+  00_金句精选.md:132 → ch23｜**上下文**：ch23：Jehanne 带回药膏、六十枚 vramnias 和证词，却被一句「我们只是 hetaira」封死申诉的路。
+  00_金句精选.md:136 → ch44｜**呼应关系**：ch44 里那句 **She no longer had any value . . .** 是这句话的彻底反面：**同一个世界里，两种人被分别定价。
+  00_金句精选.md:144 → ch24｜**上下文**：ch24：Dawnfall 化装舞会，她向 Harg 解释为什么全城的女人都在被盘问。
+  00_金句精选.md:148 → ch11｜**呼应关系**：ch11 十一只手扣在一起是这条逻辑的起点，ch43 一句「Death can wait」是它的战术版本。
+  00_金句精选.md:156 → ch24｜**上下文**：ch24：化装舞会上，Chaser 递给她一束没有刺的红玫瑰。
+  00_金句精选.md:160 → ch25｜**呼应关系**：ch25 里她也在用同一种句式说反话：她在 ch23 对 Dyron Selmi 说「there’s no mind safer than yours」—
+  00_金句精选.md:160 → ch23｜**呼应关系**：ch25 里她也在用同一种句式说反话：她在 ch23 对 Dyron Selmi 说「there’s no mind safer than yours」—
+  00_金句精选.md:168 → ch25｜**上下文**：ch25：她给 Leonel 交底自己的来历与动机。
+  00_金句精选.md:172 → ch39｜**呼应关系**：ch39 那句 **She’d protect them, even from herself** 是它的兑现版：**同一个动机的另一种主语——保护的对象
+  00_金句精选.md:180 → ch27｜**上下文**：ch27：她在 Pixies’ Forest 里从失控中醒过来，Fawke Biceus 躺在她脚边。
+  00_金句精选.md:184 → ch31｜**呼应关系**：ch31 的 **show the true monster she hid underneath** 是她主动走出门的一次；**同一头怪物，一次是被关回
+  00_金句精选.md:192 → ch31｜**上下文**：ch31：她第一次在 Dyron Selmi 面前喊出「Prince Killian」，随即着手解决掉他。
+  00_金句精选.md:196 → ch27｜**呼应关系**：与上一条并读会得到全书最锋利的一组对照：**ch27 是怪物自己回笼，ch31 是她亲手放它出来。
+  00_金句精选.md:196 → ch31｜**呼应关系**：与上一条并读会得到全书最锋利的一组对照：**ch27 是怪物自己回笼，ch31 是她亲手放它出来。
+  00_金句精选.md:204 → ch31｜**上下文**：ch31：她回到母亲留下的石屋里，用能力清掉追兵。
+  00_金句精选.md:208 → ch32｜**呼应关系**：ch32 她在 Conrad 的木屋里把四枚炸弹一次性拆完，**用的也是这种清空式的动词**，**而清空的对象从外面的人换成了自己的过去。
+  00_金句精选.md:216 → ch33｜**上下文**：ch33：Killian 以真实身份站在她面前，她把这顶帽子扣回他身上。
+  00_金句精选.md:220 → ch43｜**呼应关系**：ch43 的 **“Not threats, Amira Boreaalinen,” he corrected her. “Promises.”** 用同
+  00_金句精选.md:228 → ch36｜**上下文**：ch36：Darcia 赶了七天路之后，作者在半夜里替她写下的判词。
+  00_金句精选.md:232 → ch34｜**呼应关系**：ch34 她摸着手链问出的那个假设，与这句判词构成一组问答：**作者替她答了，而她当时还不知道答案。
+  00_金句精选.md:240 → ch36｜**上下文**：ch36：他把偷来的匕首还给她时说的话。
+  00_金句精选.md:244 → ch42｜**呼应关系**：ch42 她真正做到这件事的现场是 **“Let the show begin.”**——**同一句话，一个是承诺，一个是兑现。
+  00_金句精选.md:252 → ch39｜**上下文**：ch39：她摇醒十一个姐妹之后，当众交出自己的身份。
+  00_金句精选.md:256 → ch31｜**呼应关系**：ch31 她喊出 **“Prince Killian,” she said aloud for the first time**——**同一种 aloud
+  00_金句精选.md:264 → ch39｜**上下文**：ch39：她公开身份之后，作者给这一段的判词。
+  00_金句精选.md:268 → ch44｜**呼应关系**：ch44 那个握紧拳头压住眼泪的王子，与这句构成一组镜像：**两个人都在从自己身上压住某样东西，一个压眼泪，一个压手。
+  00_金句精选.md:276 → ch41｜**上下文**：ch41：听见门响之后，她扔下朋友的叮嘱，拿起匕首与剑。
+  00_金句精选.md:280 → ch40｜**呼应关系**：ch40 那一整章是等待的专章；**这一句是全书对那章的注销**——**她用五个词把自己最稳定的人格注销了。
+  00_金句精选.md:288 → ch41｜**上下文**：ch41：她被压在剑尖底下时说出的最后一句，Maliya 在全书第一次被点名。
+  00_金句精选.md:292 → ch43｜**呼应关系**：ch43 的「Promises」与这句是对面的两种时间姿态：**他用将来时威胁，她用过去时认罪。
+  00_金句精选.md:300 → ch42｜**上下文**：ch42：她被逼到举剑当盾之后做出的选择。
+  00_金句精选.md:312 → ch43｜**上下文**：ch43：全书唯一一场审讯的第一次交锋，他正跪在她的剑下。
+  00_金句精选.md:316 → ch41｜**呼应关系**：ch41 她说 **“I was doomed from the beginning.”**——**一个说自己已经死了，一个说你杀不了已经死了的：**这两
+  00_金句精选.md:324 → ch43｜**上下文**：ch43：她说完「Death is inevitable. Nothing will save you from it.」之后。
+  00_金句精选.md:328 → ch33｜**呼应关系**：ch33 那句 **You’re the monster that the king releases** 用的是同一套手法，**只是方向相反：她把定义退
+  00_金句精选.md:336 → ch43｜**上下文**：ch43：雪落下来之前的收束句。
+  00_金句精选.md:340 → ch44｜**呼应关系**：ch44 那句誓约 **I will find them** 是它的反面：**上一章说「一起面对」，下一章整章只有一个人。
+  00_金句精选.md:348 → ch44｜**上下文**：ch44：Annemarie 与 Sirio 争要不要走过去陪母亲时，作者给出的王室家训。
+  00_金句精选.md:352 → ch03｜**呼应关系**：ch03 的 **“Ausra.”** 是它的微观版：**一个人为了不被母亲的名字被玷污而改名，**而王室这一代人连这层债务都省了。
+  00_金句精选.md:360 → ch44｜**上下文**：ch44：全书最后一句。
+  ch02 mind breaker at the circus.md:115 → ch04｜**读者视角提示：** "kept her chained"（把她锁着）在本章没有任何一处交代锁在哪里——**这是全章唯一被推迟回答的问题**，它会在 ch04 之后才真正
+  ch03 a lie called ausra.md:75 → ch02｜**读者视角提示：** 本书两个女主都有"面具"：Darcia 戴的是马戏团的面具（ch02 写过 mask 藏情绪），Naithea 戴的是这一副。
+  ch06 the chaser asks for help.md:25 → ch08｜**读者视角提示：** 本章之后 Chaser 在 ch08 已被王命释放，本句是他在民间**第一次亮明身份**。
+  ch06 the chaser asks for help.md:35 → ch08｜后文 ch08 里 Conrad 收到国王亲笔信时，本句的 discretion 会反过来约束他。
+  ch06 the chaser asks for help.md:45 → ch01｜**读者视角提示：** 这四个字在 ch01 序章的产房场景里出现过一次（"Just like the curse of stone and shadow had pred
+  ch06 the chaser asks for help.md:63 → ch08｜养父**没有躲**，他直接上手，而 ch08 里他唯一的反应是"不动声色的沉默"。
+  ch06 the chaser asks for help.md:83 → ch15｜**为什么这样写：** 与 ch15 那句 "Dyron finished for her" **完全同型**：一个人说出半句，另一个人替他把另一半补上。
+  ch06 the chaser asks for help.md:85 → ch08｜**读者视角提示：** 本章 Harg 的能力在 ch08 会被明确（他注意到了有人在他脑子里），而这里是他**第一次**被写成"能替人说完话"的人。
+  ch07 ausra means sunrise.md:25 → ch08｜序章与 ch08 都没出现过这个词，本章是它第一次被命名——**命名之后，它就归她所有，也归那头 monster 所有**。
+  ch07 ausra means sunrise.md:45 → ch08｜**读者视角提示：** 本句与 ch08 里 Conrad 那句"You don't want to know what I'm capable of if you mak
+  ch07 ausra means sunrise.md:75 → ch15｜序章提到她母亲留给她的名字、ch15 提到她被装在篮子里漂在海上，本句只给结论。
+  ch07 ausra means sunrise.md:105 → ch06｜**读者视角提示：** 这个专名在 ch06 由养父口中说出（the Fallen Kingdom），本章由 Naithea 说出。
+  ch08 the dark twins are gone.md:45 → ch01｜**读者视角提示：** 这句话应与 ch01 序章里国王的 "I hope he won’t let me down." 对读——**一个是接受命运，一个是要命运臣服**，
+  ch08 the dark twins are gone.md:55 → ch01｜**读者视角提示：** Boreaalinen 这个姓在 ch01 出现过一次（Erlina 与 Tavarious），说明这对姐妹的母亲就是序章中被石化的王后。
+  ch08 the dark twins are gone.md:75 → ch03｜本章的读者若已读完序章，会立刻认出；这也解释了他为何在 ch03 酒馆里被当作英雄谈论。
+  ch09 the dark twins have been missing.md:33 → ch08｜作者不写她疼不疼，写皮革**吸收了她的血并且留下了**——这是本库全书都在用的那类身体细节（ch08 写指甲掐进掌心，ch12 写嘴唇咬出血）。
+  ch09 the dark twins have been missing.md:33 → ch12｜作者不写她疼不疼，写皮革**吸收了她的血并且留下了**——这是本库全书都在用的那类身体细节（ch08 写指甲掐进掌心，ch12 写嘴唇咬出血）。
+  ch09 the dark twins have been missing.md:35 → ch07｜Madame Dimond 这个名字在 ch07 出现过，此处补上她的手段。
+  ch09 the dark twins have been missing.md:55 → ch01｜**读者视角提示：** unravel 在 ch01 是悬念（"even when it remained a mystery to unravel"），在 ch08 是方
+  ch09 the dark twins have been missing.md:55 → ch08｜**读者视角提示：** unravel 在 ch01 是悬念（"even when it remained a mystery to unravel"），在 ch08 是方
+  ch09 the dark twins have been missing.md:55 → ch09｜**读者视角提示：** unravel 在 ch01 是悬念（"even when it remained a mystery to unravel"），在 ch08 是方
+  ch09 the dark twins have been missing.md:65 → ch01｜**读者视角提示：** Kazaris 是毁灭女神，这个名字在 ch01 序章的 diones 设定里出现过（"the daimonas—the children of t
+  ch09 the dark twins have been missing.md:73 → ch07｜这个规则对 Naithea 尤其狠——**她已经没有情人、家人和家**（ch07 那句清单），那么"最爱之物"落在哪里就成了问题。
+  ch09 the dark twins have been missing.md:95 → ch07｜这与 ch07 那句"你不需要为之出卖身体"形成对照——她守得住身体，守不住别的。
+  ch09 the dark twins have been missing.md:113 → ch06｜**为什么这样写：** 本章第三次出现"替人说完话"的结构（前两次是 ch06 的 Harg、ch15 的 Dyron），这次说话的人正是 Dyron 自己——**他在这个
+  ch09 the dark twins have been missing.md:113 → ch15｜**为什么这样写：** 本章第三次出现"替人说完话"的结构（前两次是 ch06 的 Harg、ch15 的 Dyron），这次说话的人正是 Dyron 自己——**他在这个
+  ch09 the dark twins have been missing.md:123 → ch03｜妙处在于**它与 ch03 那句一字不差**——那晚在 The Grumpy Dwarf 门口，一个士兵对她说过同样的话。
+  ch09 the dark twins have been missing.md:123 → ch07｜而说话的人从士兵变成巫师，从交易的一端换成另一端；称呼 Miss Utari（Utari 小姐）用的是**真姓**，正好与 ch07 那句"Ausra"对照——**她对士兵
+  ch09 the dark twins have been missing.md:125 → ch06｜**读者视角提示：** 逐客时他仍用客气的措辞，这与 ch06 Harg 的"先道歉再谈条件"是同一种修辞。
+  ch10 what the light of the night leaves behind.md:25 → ch05｜ch05 到 ch09 里他主要作为家暴者出现，本句第一次把他放到**舞台与政治**的场域里——他不是边缘人，他握着排场。
+  ch10 what the light of the night leaves behind.md:25 → ch09｜ch05 到 ch09 里他主要作为家暴者出现，本句第一次把他放到**舞台与政治**的场域里——他不是边缘人，他握着排场。
+  ch10 what the light of the night leaves behind.md:35 → ch04｜**读者视角提示：** 呼应 ch04—ch07 中 Mind Breaker 的读心术设定：**她的强，需要"看得见"这个前提**。
+  ch10 what the light of the night leaves behind.md:35 → ch07｜**读者视角提示：** 呼应 ch04—ch07 中 Mind Breaker 的读心术设定：**她的强，需要"看得见"这个前提**。
+  ch10 what the light of the night leaves behind.md:43 → ch09｜这与 ch09 里 Naithea 那条 desolate streets 形成跨线呼应：同一种苍凉底色，一个用回声写，一个用"空街里孤独的标点"写。
+  ch10 what the light of the night leaves behind.md:75 → ch10｜**读者视角提示：** 镜子的用法在 ch10 是**施暴的放大器**。
+  ch11 caught between the sword and the precipice.md:11 → ch08｜ch08—ch09 她在别人的规则里被估价（数珠、问价、给不给能力），本章她第一次**给别人出题**：开会是她召集的、方案是她提的、手是她先摊开的。
+  ch11 caught between the sword and the precipice.md:11 → ch09｜ch08—ch09 她在别人的规则里被估价（数珠、问价、给不给能力），本章她第一次**给别人出题**：开会是她召集的、方案是她提的、手是她先摊开的。
+  ch11 caught between the sword and the precipice.md:24 → ch10｜这与 ch10 里 Conrad 抽十下的写法同族：施暴者一侧从不省略，被虐者一侧的话总被截断。
+  ch11 caught between the sword and the precipice.md:56 → ch03｜ch03—ch08 她的武器一直是身体与话术，本句她用的是**组织与算术**——这是她从"一个人"变成"一群人"的转折。
+  ch11 caught between the sword and the precipice.md:56 → ch08｜ch03—ch08 她的武器一直是身体与话术，本句她用的是**组织与算术**——这是她从"一个人"变成"一群人"的转折。
+  ch11 caught between the sword and the precipice.md:84 → ch09｜**为什么这样写：** 这是全章最**冷的一笔**，也把 ch09 那个"给她信息是因为交易"的角色补全了。
+  ch11 caught between the sword and the precipice.md:106 → ch04｜**读者视角提示：** 呼应 ch04 她对 Krantz 的评价、ch08 她在书中"改写"情节的习惯——**Naithea 的核心技能不是读心，是让对方暴露自己**。
+  ch11 caught between the sword and the precipice.md:106 → ch08｜**读者视角提示：** 呼应 ch04 她对 Krantz 的评价、ch08 她在书中"改写"情节的习惯——**Naithea 的核心技能不是读心，是让对方暴露自己**。
+  ch11 caught between the sword and the precipice.md:114 → ch10｜using and discarding them like trash（用完像垃圾一样丢弃）三个动作一气呵成，**"像垃圾"这个比喻把她们从人降格为物**——而 tras
+  ch11 caught between the sword and the precipice.md:116 → ch08｜这解释了为什么军队的驻扎对妓院的伤害是**直接的抽成**（ch08 那笔七十到九十的账）。
+  ch12 the midnight thief.md:11 → ch06｜ch06 之后她习惯了用身体和话术换主动权，本章全章她都在**被动位置**：被狼领、被 thief 按住、被匕首抵着。
+  ch12 the midnight thief.md:12 → ch10｜而 Darcia 的作者诊断在这里首次由外人说出口：**冲动**这个特质在 ch10 表现为扇继兄耳光、在本章表现为径直走进有人的屋子——两次都差点害死她。
+  ch12 the midnight thief.md:85 → ch11｜对比 ch11 里军队破门是 splintering apart（视觉：碎裂），本章军队抵达是**纯听觉**——**两章写军队，一写动静，一写声音**。
+  ch12 the midnight thief.md:115 → ch11｜**读者视角提示：** 这也是 ch11 里 Ward 那一幕的对照：**Ward 的危险在于有分寸，而 thief 的危险在于没有分寸**。
+  ch13 a woman with knowledge is dangerous.md:11 → ch04｜ch04—ch08 她面对的都是客户与妓院，她把受辱换算成生存成本；本章她对着一个能杀她的军官说 You’re a pig。
+  ch13 a woman with knowledge is dangerous.md:11 → ch08｜ch04—ch08 她面对的都是客户与妓院，她把受辱换算成生存成本；本章她对着一个能杀她的军官说 You’re a pig。
+  ch13 a woman with knowledge is dangerous.md:12 → ch11｜- **人物弧线**：Ward 在本章完成一次**关键反转**：他本可以在广场上把她带走（ch11 已经知道她有诈），却在图书馆门口替她赶走了侮辱她的人。
+  ch13 a woman with knowledge is dangerous.md:24 → ch12｜这与 ch12 那头狼的 Unfazed 是同一个姿态——**全书最强的两个角色，一个用这姿态面对她，一个用这姿态面对世界。
+  ch13 a woman with knowledge is dangerous.md:44 → ch03｜这句与 ch03 里她面对 Krantz 时的做法同构：**她从不辩解，她陈述**。
+  ch13 a woman with knowledge is dangerous.md:46 → ch11｜**读者视角提示：** 本句是她与全城男性第一次用**同一套谈判语法**说话——ch11 章节里她对 Ward 也是这种先下判断的句式。
+  ch13 a woman with knowledge is dangerous.md:64 → ch10｜dirty（肮脏的）这个形容词第一次出现，与 dirty 这个词在 ch10 里 Conrad 骂 Darcia 用的还是同一个词，**同样是把人降格为物**。
+  ch13 a woman with knowledge is dangerous.md:76 → ch11｜**读者视角提示：** 这与 ch11 结尾那句 An ordinary man 应 never speak... 是同一招。
+  ch13 a woman with knowledge is dangerous.md:84 → ch11｜而全书他对 Naithea 说过的每一句威胁都是这个调子（ch11 的 Be careful, love 是同一句话的温血版）。
+  ch13 a woman with knowledge is dangerous.md:96 → ch11｜在 ch11 她对 Ward 还是纯算计（Maybe if she found a way to keep him interested in her），本章出现了**非算
+  ch13 a woman with knowledge is dangerous.md:106 → ch05｜**读者视角提示：** 这是全书第二次明写 her power 会对 Naithea 有反噬（第一次在 ch05 她偷士兵档案那次）。
+  ch13 a woman with knowledge is dangerous.md:116 → ch03｜**读者视角提示：** saagrati 是干达利斯（光）的古语，ch03 章节里 Ausra 这个名字就来自它。
+  ch13 a woman with knowledge is dangerous.md:126 → ch11｜**读者视角提示：** 这句在 ch11 她对Ward 说 Because I'm a whore, I don't have the right... 是同一个句式第一次
+  ch14 the threads of her own mind.md:26 → ch12｜**读者视角提示：** 本句是 ch12 那场珠宝店遭遇的**追认**。
+  ch14 the threads of her own mind.md:26 → ch12｜Darcia 当时只看见黑面具与绿眼睛，现在她知道对方有多重要——**而读者比她早知道一步**（ch12 那章已写过偷宝石这段）。
+  ch14 the threads of her own mind.md:36 → ch12｜**读者视角提示：** 这是 ch12 那晚之后她对 Caeli 的**坦白**。
+  ch14 the threads of her own mind.md:44 → ch12｜这与 ch12 狼"unfazed"那句是同一种笔法：**用回避制造重量。
+  ch14 the threads of her own mind.md:46 → ch13｜这个"逼疯→自杀"的机制在全书多次被回收（她怕自己的失控，ch13 那段 Her power sang…calling that darkness 就是同一条线）。
+  ch14 the threads of her own mind.md:96 → ch13｜**读者视角提示：** 呼应 ch13 里 Naithea 那句 she decided to go out and investigate on her own——**两
+  ch14 the threads of her own mind.md:116 → ch12｜**读者视角提示：** 呼应 ch12 开头那句 His sharp gold-rimmed eyes（那双锐利的金边眼睛）——**两处超自然都用"非自然颜色的眼睛"标记*
+  ch14 the threads of her own mind.md:146 → ch12｜**读者视角提示：** 呼应 ch12 那句 Harg 的 **your sight will become nothing but a memory**（你将只剩回忆）—
+  ch15 the fatis asteria.md:10 → ch09｜- **一句话概括**：Naithea 借 Jehanne 的掩护溜进藏书楼查 Kirus 家史，一边听着心里那头怪物念"杀了他"，一边在发黄的页间读出王族谱系：先王 Iv
+  ch15 the fatis asteria.md:45 → ch08｜**读者视角提示：** 本句的施动者是"市民"，被要求动用的是"力量"，读者应记住这层结构——它在 ch08 的溺水里会再次出现。
+  ch15 the fatis asteria.md:169 → ch09｜本章把全书的设定从传闻变成文献：Naithea 连续两周溜出那座酒楼、钻进 Bellmare 的藏书楼，一边听着心里那头怪物 chanting 着她不愿下的手，一边在 ye
+  ch16 the midnight thief.md:35 → ch08｜到 ch08 Conrad 那句"你让我亏了钱"时，可回读此句比较两人对"利益"与"恨"的不同用法。
+  ch16 the midnight thief.md:93 → ch08｜作者用最轻的语气写最危险的人，与 ch08 里 Conrad 那种"把威胁算进账目"的冷形成对照：**同样冷，一个靠计算，一个靠轻蔑**。
+  ch16 the midnight thief.md:105 → ch02｜这与 ch02 那个戴 invisible but heavy 面具的 hetaira 是同一个人。
+  ch16 the midnight thief.md:125 → ch16｜**读者视角提示：** Alasdair 这个名字在本章之前不存在于 ch16 的任何叙述里——它是**新信息**，不是回指。
+  ch17 the commander of death remembers her name.md:26 → ch02｜**读者视角提示：** 注意 ch02 里 Senan 是 Darcia 那边的人；**这里的 Senan 是 Madame Dimond 的侄子，是妓院体系的人**。
+  ch17 the commander of death remembers her name.md:46 → ch07｜**读者视角提示：** 这句话是对 ch07 里 Madame Dimond 嫌她赚得太少的那段的**回响**。
+  ch17 the commander of death remembers her name.md:56 → ch13｜**读者视角提示：** 本句与 ch13 那句 Repeat the story for me will you? 在结构上同源（一个逼供、一个审问），但 Dimond 用
+  ch17 the commander of death remembers her name.md:76 → ch13｜**读者视角提示：** midnight-blue eyes 是 Ward 的专属标记（ch13、ch16 都用过）。
+  ch17 the commander of death remembers her name.md:76 → ch16｜**读者视角提示：** midnight-blue eyes 是 Ward 的专属标记（ch13、ch16 都用过）。
+  ch17 the commander of death remembers her name.md:106 → ch15｜而这一段"父亲的手"与 ch15 里那个 Anam Cara（Maliya）形成对位：**他的父亲教他"别动"，而 Maliya 是唯一让他"动"过的人。
+  ch17 the commander of death remembers her name.md:144 → ch13｜**从 ch13 起作者就在写"他在图书馆里没有动"、写 a stoic expression（不动声色的表情），到本章正式给它命名为 façade**——**façade
+  ch17 the commander of death remembers her name.md:146 → ch13｜**读者视角提示：** 这句与 ch13 那句 dangerous approval 是**同一个词组在两个人身上的对位**——**当时是 Naithea 对他 dange
+  ch18 the midnight thief looks down.md:12 → ch17｜这与 ch17 里他按住不动的那个 Ward 是同一种克制。
+  ch18 the midnight thief looks down.md:26 → ch12｜**读者视角提示：** 这一段把 ch12 那个珠宝店里的蒙面人**接上了**。
+  ch18 the midnight thief looks down.md:66 → ch11｜而它也让 ch11 那场"十一只手叠在一起"有了旁观者的回声。
+  ch18 the midnight thief looks down.md:96 → ch14｜**读者视角提示：** 本句与 ch14 那句 She’d learned that pain made everything easier 是同一条线的两端：**那边是能
+  ch18 the midnight thief looks down.md:146 → ch12｜**读者视角提示：** 这句与 ch12 那句 The only person who could possibly figure out who he was 构成**两
+  ch18 the midnight thief looks down.md:156 → ch17｜**注意她骂的是他的"不作为"，不是他的"作为"**——她逼他面对的是 ch17 里那件事的逻辑：**你既然看见了，为什么不动？
+  ch18 the midnight thief looks down.md:164 → ch10｜而 **a thousand daggers（一千把匕首）** 这个夸张复数极狠——**她此刻的处境就是 ch10 那晚她握着火钳的处境，而本章她是握着匕首的那一个**。
+  ch19 the compass and the confession.md:26 → ch17｜ch17 里他按住不动、救下 Naithea，ch18 里他给她道歉——**但这两章都不能抹掉本句**：**他的日常仍然是这个。
+  ch19 the compass and the confession.md:26 → ch18｜ch17 里他按住不动、救下 Naithea，ch18 里他给她道歉——**但这两章都不能抹掉本句**：**他的日常仍然是这个。
+  ch19 the compass and the confession.md:86 → ch13｜**读者视角提示：** 本句是全书对 Naithea 能力机制**第一次给出可操作说明**（对比 ch13 里 Ward 问 What's that for、她答 It's
+  ch19 the compass and the confession.md:96 → ch12｜**读者视角提示：** 注意这双 eyes 与 ch12 那位 Midnight Thief 的 emerald glow、ch17 里 Ward 的 midnight-b
+  ch19 the compass and the confession.md:96 → ch17｜**读者视角提示：** 注意这双 eyes 与 ch12 那位 Midnight Thief 的 emerald glow、ch17 里 Ward 的 midnight-b
+  ch19 the compass and the confession.md:106 → ch16｜而 Whoever 这个词在 ch16 之后会一直悬着——**读者会自己去找那个 whoever。
+  ch19 the compass and the confession.md:116 → ch01｜而这本书的献祭在 ch01 序章里就出现过（那个城市被献祭给 Kazaris）——**Dyron 的私人小祭坛，是那场大献祭的民间缩小版。
+  ch19 the compass and the confession.md:124 → ch17｜而 **He was a weapon（他是一件武器）** 是全段的支点：**这个词出自 ch17 里的 turned him into a monster，本章他不再用 
+  ch20 the keys of the twin goddesses.md:11 → ch12｜ch12 的珠宝店是他在她不知情的情况下出现的；本章是**她第一次知道是谁救了她、而他第一次主动报出名字**（Alasdair? she sobbed）。
+  ch20 the keys of the twin goddesses.md:12 → ch10｜ch10 那个抽她十鞭的继兄、ch11 那个在酒馆跟军队喝酒的人、ch12 那个跟 Chaser 一起出现的红斗篷，全是同一个人。
+  ch20 the keys of the twin goddesses.md:12 → ch11｜ch10 那个抽她十鞭的继兄、ch11 那个在酒馆跟军队喝酒的人、ch12 那个跟 Chaser 一起出现的红斗篷，全是同一个人。
+  ch20 the keys of the twin goddesses.md:12 → ch12｜ch10 那个抽她十鞭的继兄、ch11 那个在酒馆跟军队喝酒的人、ch12 那个跟 Chaser 一起出现的红斗篷，全是同一个人。
+  ch20 the keys of the twin goddesses.md:13 → ch14｜醉段用**声音**推进（脑子里的念头越来越响、她喊 Leave me alone），这是全章唯一一次她的能力**反噬她自己**；窥段是**偷听**（与 ch14 酒馆那场同
+  ch20 the keys of the twin goddesses.md:34 → ch14｜** 而 If she were to kill someone or drive them to madness（如果她杀了人或者把人逼疯）这两个动词**与 ch14 她
+  ch20 the keys of the twin goddesses.md:46 → ch14｜注意 ch14 里她说过 **pain made everything easier**（疼痛让一切都变容易）——**而本章她正试图用酒代替痛苦，酒却失败**。
+  ch20 the keys of the twin goddesses.md:76 → ch19｜**读者视角提示：** 呼应 ch19 里 Ward 的 if he showed even a flicker of care, it would have only m
+  ch20 the keys of the twin goddesses.md:76 → ch15｜** 而 ch15 里 Darcia 曾对 Harg 说过 Because who cares about the crippled…that not only makes
+  ch20 the keys of the twin goddesses.md:84 → ch12｜** 而这句与 ch12 那句 What kind of feeling stirred in his chest（他心里涌起什么感觉）都出现在 Ward 身上——**作者
+  ch20 the keys of the twin goddesses.md:96 → ch19｜而 ch19 里 Ward 收到的那枚 compass（他在心里说 The answer to all our questions）——**就是他手里的"礼物"。
+  ch20 the keys of the twin goddesses.md:106 → ch19｜** ch19 追的那对 The Dark Twins，也正是这个意思。
+  ch20 the keys of the twin goddesses.md:116 → ch12｜而 ch12 那晚在珠宝店外出现的红斗篷人，本章确认就是他——**他早就在暗处等着。
+  ch20 the keys of the twin goddesses.md:136 → ch11｜而 ch11 里 Naithea 她们逃走时提到的那个"抽成从七成五提到九成"的无脸男人，此刻就站在这里——**那是 Conrad 的上级。
+  ch20 the keys of the twin goddesses.md:156 → ch17｜**读者视角提示：** 本句是全书对 Darcia 身体的**又一次"降级"处理**（ch17 被他背、ch18 被扶回长凳、ch19 被听心跳）——**她这本书里被人抱过
+  ch20 the keys of the twin goddesses.md:156 → ch18｜**读者视角提示：** 本句是全书对 Darcia 身体的**又一次"降级"处理**（ch17 被他背、ch18 被扶回长凳、ch19 被听心跳）——**她这本书里被人抱过
+  ch20 the keys of the twin goddesses.md:156 → ch19｜**读者视角提示：** 本句是全书对 Darcia 身体的**又一次"降级"处理**（ch17 被他背、ch18 被扶回长凳、ch19 被听心跳）——**她这本书里被人抱过
+  ch20 the keys of the twin goddesses.md:186 → ch12｜ch12 里他说 I can be whoever you want me to be——**他在 ch12 就在用这套手法，只是本章用在了她身上。
+  ch20 the keys of the twin goddesses.md:186 → ch12｜ch12 里他说 I can be whoever you want me to be——**他在 ch12 就在用这套手法，只是本章用在了她身上。
+  ch20 the keys of the twin goddesses.md:196 → ch20｜** 这与 ch20 前文那句"Nor would she know that…Alasdair stayed with her to make sure she rest
+  ch20 the keys of the twin goddesses.md:196 → ch02｜** 而 ch02 里曾写过"即便如此，Darcia 也不确定他是谁"——**从第一章到这一章，读者陪着她一起等那张脸，而这一章作者把脸藏得更深了。
+  ch21 the night that could be their end.md:23 → ch11｜** 而 **the ink markings of two tigers（两道老虎的墨迹）** 呼应 ch11 里那次讨论「The White Tigers and th
+  ch21 the night that could be their end.md:25 → ch11｜**读者视角提示：** 本句与 ch11 里 Ward 那句 Let their rotting bodies be a reminder of what happens 
+  ch21 the night that could be their end.md:25 → ch11｜** 而 ch11 里 Naithea 就在那间妓院里，她为同伴们叠手立誓、说要偷窃还债；**本章第一段就告诉他们：这座城的绞架上挂了三个人，而你们的生意变好了。
+  ch21 the night that could be their end.md:55 → ch19｜**读者视角提示：** 本句与 ch19 那段 Day and night, Ward’s thoughts were consumed by her 构成对位：**他被消
+  ch21 the night that could be their end.md:63 → ch10｜** 作者用 cover（遮盖）与 ch10 里 Darcia 用来施法的 illusions（幻象）用同一个词族——**但他给她的不是幻象，是一件衣服。
+  ch21 the night that could be their end.md:85 → ch20｜** 而 ch20 里 Conrad 问 Did the commander like the compass I gave you?，**那条线与这条线此刻还看不见对方*
+  ch21 the night that could be their end.md:93 → ch20｜** 这与 ch20 里 Conrad 对 Harg 说的 Helping the kingdom is our duty 是同一套修辞——**但 Conrad 用这套修辞
+  ch21 the night that could be their end.md:103 → ch19｜** 而 **love（亲爱的）** 这个称呼是本章他第二次说（第一次在 ch19），而它出现的方式是**贴着她耳朵的低声**——**亲密的用词被用在承诺拒绝的句子里。
+  ch21 the night that could be their end.md:123 → ch18｜而 **ephemeral（转瞬即逝的）** 这个词在此处用得极狠：**这个词在 ch18 里被用来形容"我们相处过的那些夜晚"，在这里被用来形容语言**——**他把她的伤
+  ch21 the night that could be their end.md:125 → ch19｜而它与 ch19 里 Ward 想起她背上的疤是同一片伤疤——**上一次他想起的是伤疤本身，这一次他用伤疤来比喻。
+  ch21 the night that could be their end.md:143 → ch14｜** 而 **Stop what exactly（究竟要我停什么）** 这个反问是全书对 Naithea 最见功力的一次应对——**她说的是"停下"（Stop），而他把它拆
+  ch21 the night that could be their end.md:183 → ch17｜** 这与 ch17 里那句 hearing the screams of her sisters was the worst torture she'd ever bee
+  ch21 the night that could be their end.md:185 → ch17｜**读者视角提示：** 本句与 ch17 那句构成全书 Naithea 人物弧线的**闭环**。
+  ch21 the night that could be their end.md:185 → ch17｜而 ch17 时她忍受的是**自己**身上的鞭子，本章她忍受的是**自己**身上的拳头——**但 ch17 时她没有出手保护谁，本章她出手了。
+  ch21 the night that could be their end.md:185 → ch17｜而 ch17 时她忍受的是**自己**身上的鞭子，本章她忍受的是**自己**身上的拳头——**但 ch17 时她没有出手保护谁，本章她出手了。
+  ch21 the night that could be their end.md:193 → ch20｜而 **Ward growled** 的 growled（低吼）是全书对他唯一的形容：**他从不咆哮，他低吼**——**低吼是一种从胸腔深处发出的、压抑的声音**，而 ch
+  ch21 the night that could be their end.md:213 → ch17｜** 而全书对 **"不走"** 这个动作的经典写法在 ch17 里出现过——**那天他说 I would never sleep with a whore（我绝不会和婊子
+  ch32 you are not darcia voreia.md:115 → ch28｜** 请把这一段和 ch28 那场告别连读——**ch28 里 Gion 临走说 so did Lisabetta，而他说的是过去时**；**而这一章 Conrad 说"她
+  ch32 you are not darcia voreia.md:115 → ch28｜** 请把这一段和 ch28 那场告别连读——**ch28 里 Gion 临走说 so did Lisabetta，而他说的是过去时**；**而这一章 Conrad 说"她
+  ch33 she had a twin sister.md:11 → ch31｜** ch31 她刚知道自己是六岁时为救母亲召唤出怪物的人，而那一章收在「他们什么都不剩」；本章作者没有给她崩溃的时间——**她一路在跑，一路在想起来，一路被人拦住**。
+  ch33 she had a twin sister.md:125 → ch31｜**读者视角提示：** **请把它与 ch31 那句连读**——**同一句话的两个版本，一句是她对自己的，一句是她对他的**；**于是这个词在四章之内完成了两次易主**；*
+  ch34 the taste of revenge.md:85 → ch29｜**读者视角提示：** **这是全书 Caeli 之死第一次被质疑，而质疑者是她自己**——**于是这不是"她不信 Caeli"，是"她不敢拿 Caeli 的死当凭证"**
+  ch35 she is amira boreaalinen.md:12 → ch33｜- **人物弧线**：**Killian 在本章完成全书最大的一次翻转**——**ch33 末他还跪在树旁，说他等她说自己的真名已经等了几个月**，本章他回到营帐说 **I
+  ch35 she is amira boreaalinen.md:13 → ch34｜** 收尾是全书最冷的一组对照：**ch34 末她的收尾是「我留下」**，本章他的收尾是 **head on a spike**；**同一个人的两个承诺，一个关于留下，一个
+  ch35 she is amira boreaalinen.md:195 → ch33｜**读者视角提示：** **请立刻回头看本章的标题与 ch33 末那一段**——**ch33 末他还跪在树旁，说他等她说自己的真名已经等了几个月**；**于是"说出真名"这
+  ch35 she is amira boreaalinen.md:195 → ch33｜**读者视角提示：** **请立刻回头看本章的标题与 ch33 末那一段**——**ch33 末他还跪在树旁，说他等她说自己的真名已经等了几个月**；**于是"说出真名"这
+  ch35 she is amira boreaalinen.md:215 → ch34｜**读者视角提示：** **这一句是全书对"她妹妹"这个人的第一次正面提及**——**而提到她的方式，是把她当成一个必须看着的人**；**请把这一句与 ch34 末她说的那
+  ch36 she ripped out his heart.md:12 → ch34｜** **Alasdair 在本章完成他的第二次坦白**——**There are many things that don’t belong to me anymore*
+  ch36 she ripped out his heart.md:155 → ch34｜**读者视角提示：** **这一句是她在战斗里第一次为人所用**——**请注意 provided 的施动者是那片黑暗，而不是他**；**于是他这一章所有的胜利，都建立在她给
+  ch36 she ripped out his heart.md:193 → ch31｜最见功夫的是 **forgotten** 这个词：**它既指"没人记得了"，也指"被人故意忘掉的"**——**而这个技能是她自己在六岁那年用过的语言**（见 ch31）；*
+  ch36 she ripped out his heart.md:195 → ch31｜**读者视角提示：** **这是全书她第二次说出这门语言**（**第一次在 ch31 那段六岁的记忆里**）——**而两次都不是她主动选的**；**请注意这一句里 lips
+  ch36 she ripped out his heart.md:205 → ch33｜**读者视角提示：** **这一章她杀的最后一个人，用的不是刀、不是魔法，是手**——**于是作者把本章所有的兵器（匕首、剑、魔法、暗影）全部让位给两只手**；**而这个细
+  ch37 im going to get my sisters to safety.md:13 → ch33｜而作者用三个独立成段的短句完成第二次身份揭示——**The other one.** / **Her sister.** / **Meissa.** ——**一句比一句短，
+  ch37 im going to get my sisters to safety.md:35 → ch35｜**读者视角提示：** **这一句是全书 ch35 那条技术线索的回音**——**Fawke 说过，她的力量有一颗种子嵌在他灵魂里，perhaps it will rema
+  ch37 im going to get my sisters to safety.md:35 → ch35｜**读者视角提示：** **这一句是全书 ch35 那条技术线索的回音**——**Fawke 说过，她的力量有一颗种子嵌在他灵魂里，perhaps it will rema
+  ch37 im going to get my sisters to safety.md:55 → ch36｜**读者视角提示：** **这是全书 menessbane 第一次被点名**——**而它在 ch36 是在杀人时被读者看见的**（**the menessbane neck
+  ch37 im going to get my sisters to safety.md:205 → ch36｜**读者视角提示：** **这一章她拒了一次 Leonel 的请求，理由第一次不是"我还有事没做"，是"别人会死"**；**请把它与 ch36 那句 Not without
+  ch38 that cave had been her home.md:12 → ch37｜** 之前的每一次都由别人开口——那个哥哥说的、ch37 那个士兵说的、门外那些守卫喊的；**这一章是这群狼低头，她自己知道了。
+  ch38 that cave had been her home.md:205 → ch37｜**读者视角提示：** **这句献辞是对着一群低头行礼的狼说的**——**于是全书所有宣告过她身份的人（那个假哥哥、ch37 那个士兵、门外那些守卫、ch37 那个老鸨）在
+  ch38 that cave had been her home.md:205 → ch37｜**读者视角提示：** **这句献辞是对着一群低头行礼的狼说的**——**于是全书所有宣告过她身份的人（那个假哥哥、ch37 那个士兵、门外那些守卫、ch37 那个老鸨）在
+  ch39 she closed her eyes and sang.md:11 → ch31｜** 而作者用一整场战斗来证明她已经变了：**上一次怪物自作主张（ch31 杀光闯入者），这一次她把它按住了**（**her gift stirred only once 
+  ch39 she closed her eyes and sang.md:115 → ch32｜** 请把它与 ch32 里她指认他的那句话对读：**两个人给了对方一个动物名，一个是蟑螂，一个是怪物。
+  ch39 she closed her eyes and sang.md:155 → ch31｜** 请把这一句和 ch31 末那一段六岁的记忆连读**——**那一次是她六岁时失控，这一次是她自己选择。
+  ch39 she closed her eyes and sang.md:163 → ch36｜** 最见功夫的是 **like hers**：**英语里这个比较把两个人的身体连在一起**——**于是被施法的那个，正在变成施法的那一个**；**而这一章她的眼睛已经白了
+  ch39 she closed her eyes and sang.md:185 → ch31｜**读者视角提示：** **这是全书最重要的一次成长标记，而它只有一行**；**请把它与 ch31 那次（怪物连说三次 Take、不由自主地杀光闯入者）连读**——**那一
+  ch40 my twenty-second birthday.md:43 → ch36｜** 最见功夫的是 **from this plane**：**plane（层面）是她在 ch36 见过的那套词汇**（**that higher plane her ma
+  ch40 my twenty-second birthday.md:75 → ch32｜**读者视角提示：** **这三项在下一段全部被推翻**（她的名字不是 ch32 那个自称的 Darcia Voreia、她的血统不是 Caeli 知道的、她的生日是明天）
+  ch40 my twenty-second birthday.md:125 → ch38｜**读者视角提示：** **请注意这一句紧接在 ch38 那句 And yet she felt no remorse 之后**；**作者在两章里用同一组词，而这一次的 n
+  ch40 my twenty-second birthday.md:133 → ch33｜**为什么这样写：** **作者用 intoxicated（醉）写情绪**——**而这个词在 ch33 出现过一次，是那个 Prince 用来指 pixie dust 的词
+  ch40 my twenty-second birthday.md:135 → ch36｜**读者视角提示：** **这一章的 intoxicated 与 ch36 那句形成一次安静的呼应**；**而 She’d done it 后面紧跟的是 She’d rea
+  ch40 my twenty-second birthday.md:205 → ch31｜**读者视角提示：** **这一句是全书能力边界第一次被明确划出来**；**而作者没有说是谁的情绪**——**于是它可以是妹妹的，也可以是 Bellmare 的**；**请

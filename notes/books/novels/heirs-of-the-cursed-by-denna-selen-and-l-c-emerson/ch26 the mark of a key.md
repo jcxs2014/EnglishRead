@@ -14,9 +14,9 @@ modified: "2026-10-05"
 
 ## 精读
 
-> **原句 1:** "Darcia averted her boreal eyes to the bruises that graced her skin. Their purplish hue had become ghostly greenish blotches, which no longer hurt when she touched them. Not physically, at least. She walked over to the mirror to admire the huge scars that stretched across her back. The older ones were nothing more than white and red lines, while those she’d received during the last beating were a"
+> **原句 1:** "Darcia averted her boreal eyes to the bruises that graced her skin. Their purplish hue had become ghostly greenish blotches, which no longer hurt when she touched them. Not physically, at least. She walked over to the mirror to admire the huge scars that stretched across her back. The older ones were nothing more than white and red lines, while those she’d received during the last beating were adorned by scabs blackened by coagulated blood."
 
-**中文理解：** "Darcia 把那双北方的眼睛移开，落在 Skin 上那些被称作装饰的瘀伤上。它们的紫色已经变成鬼一样的青绿色斑块，她碰上去时已经不怎么痛了。至少在身体上不痛。她走到镜子前，去端详那些横过背部的巨大伤疤。旧一些的不过是白红相间的线条，而最近一次挨打留下的那些则是——"
+**中文理解：** "Darcia 把那双北方的眼睛移开，落在 Skin 上那些被称作装饰的瘀伤上。它们的紫色已经变成鬼一样的青绿色斑块，她碰上去时已经不怎么痛了。至少在身体上不痛。她走到镜子前，去端详那些横过背部的巨大伤疤。旧一些的不过是白红相间的线条，而最近一次挨打留下的那些，则被凝血结成的黑痂装点着。"
 
 **关键词：** Darcia averted her boreal eyes · to the bruises that graced her skin · had become ghostly greenish blotches · which no longer hurt when she touched them · Not physically, at least · the huge scars that stretched across her back · the older ones were nothing more than white and red lines
 

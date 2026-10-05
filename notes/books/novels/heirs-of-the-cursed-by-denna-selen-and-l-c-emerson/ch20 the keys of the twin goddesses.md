@@ -81,7 +81,7 @@ modified: "2026-10-05"
 
 **关键词：** What kind of man would I be · if I left you stranded · in the forest · with a storm approaching
 
-**为什么这样写：** 全章对 **Alasdair 的第一次自我定位**，而作者用一个 **What kind of man（我算哪种男人）** 的反问——**这是他在用别人的标准审视自己**。而 **stranded（遗弃在……的）** 这个词选得极准：stranded 是**搁浅**（船），**他在暗夜里把她想成了一条搁浅的船。** 而 **a storm approaching（暴风雨将至）** 用进行时——**它还没来，但所有人都知道它要来**，**所以"预防性救援"在这本书里永远是正当的。** 而这句与 ch12 那句 What kind of feeling stirred in his chest（他心里涌起什么感觉）都出现在 Ward 身上——**作者用同一个"男人应当如何"的问题，一次问给两个正在看同一个女人的人。**
+**为什么这样写：** 全章对 **Alasdair 的第一次自我定位**，而作者用一个 **What kind of man（我算哪种男人）** 的反问——**这是他在用别人的标准审视自己**。而 **stranded（遗弃在……的）** 这个词选得极准：stranded 是**搁浅**（船），**他在暗夜里把她想成了一条搁浅的船。** 而 **a storm approaching（暴风雨将至）** 用进行时——**它还没来，但所有人都知道它要来**，**所以"预防性救援"在这本书里永远是正当的。** 而这句与 ch19 里 Ward 内心那句 What kind of feeling stirred in his chest（他心里涌起什么感觉）是同一种问句——**两个男人分别在两条线上，对着各自的女人问出了同一个"我这是怎么了"。**
 
 **读者视角提示：** 本句是他与 Darcia 的第一次价值观交锋（她紧跟着回了一句 "You're a thief"）。**作者不让他申辩，他只是用反问把球打回去**——**这与 Darcia 的策略完全相同**，所以两人第一次对话就打成平手。
 
