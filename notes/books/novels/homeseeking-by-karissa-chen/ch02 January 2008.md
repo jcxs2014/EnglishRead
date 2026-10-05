@@ -62,7 +62,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 先制造听觉的真空，再让两个「他觉得」进入。创伤因此不再是记得的画面，而是两个说不清的直觉，这也是他终身想不起那晚在等谁的原因。
 
-**读者视角提示：** 把它和第 1 章末尾的窗前一段连着读：一次他站在门外，一次他站在船上，两次都差一个人没抓住。
+**读者视角提示：** 把这两次并排看：那边他站在窗外往里看，这边他站在一条正在灌水的船上，一次靠得太近，一次差点出不去——他一辈子都在门外。
 
 > **原句 6:** Yet, by the end, they were bound by their history, by the pain and laughter that could never be understood by anybody else. He missed her companionship above all.
 

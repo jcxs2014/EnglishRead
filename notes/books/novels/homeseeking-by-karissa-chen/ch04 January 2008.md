@@ -72,7 +72,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 用「奇怪的是」开头，把一句抱怨写成感慨，于是情绪不显得小；「rattle off」这个动词把熟练写得毫不费力，正是她话里真正的刺。
 
-**读者视角提示：** 这一问和第 02 章 Howard 让老友孙子背乘法表是同一个动作，方向不同、意思一样。
+**读者视角提示：** 这一问和第 02 章他认出前女友儿子是同一个动作，方向不同、意思一样：对方隔着几十年还记得他。
 
 > **原句 7:** By mid-1950, when he found himself back in Taiwan, building military housing he didn’t qualify for during the day and squatting in an elementary school at night, the music had begun leaking away, like a sieve had opened up in his brain.
 

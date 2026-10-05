@@ -52,7 +52,7 @@ modified: "2026-10-05"
 **中文理解：** 蚵仔煎摊主的女儿会说几句普通话，也能教他白天刚听见的那个词是什么意思——咬橘子的人，像猪。她说完有点忐忑，因为这句在当地不是玩笑。
 **关键词：** one who bites an orange · Like, you know, a pig · the girl bit her lip
 **为什么这样写：** 作者让一个正在学「怎么骂人」的姑娘给出词源。她替他解释被骂的代价，而他选了笑——这一笑是他今天做成的第二件事，第一件是在骰子摊上学会了两种点数。
-**读者视角提示：** 她就是第 12 章里拒绝陪他去瞻仰、说「他不是我的将军」的那位妻子；本章她二十几岁，站在自家摊子后面洗碗，父亲病着，两个女儿还小。
+**读者视角提示：** 本章她父亲一直活着，喊她「喂，小霞」；真正被留在异乡活到最后的，是第 20 章躺在石库门里的那个。
 
 > **原句 8:** Haiwen rode toward his house in the dark, turning the conversation over in his mind. Briefly, while he’d been talking to Tsai Linyee, he’d forgotten his grief, and this alarmed him. What if it leaked out of his brain like the music?
 **中文理解：** 骑回去的路上他发现了一件事：跟她说话的那一会儿，自己忘了悲伤。这让他害怕——怕它像脑子里那段声音一样漏掉。

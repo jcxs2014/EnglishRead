@@ -70,9 +70,9 @@ modified: "2026-10-05"
 
 **关键词：** Softly, he called · Happy New Year
 
-**为什么这样写：** 作者把「找家」的仪式交给一颗可能认错的星，又在名单的最后才放 Suchi；这一处的顺序就是他在心里的顺序。同一个春节在本书里出现过三次（本章此刻、第 04 章的往事、本章更早的 Linyee），每次名单都不一样。
+**为什么这样写：** 作者把「找家」的仪式交给一颗可能认错的星，又在名单的最后才放 Suchi；这一处的顺序就是他在心里的顺序。同一个春节在本书里出现过两次：本章此刻他蹲在河滩上找那颗可能是北极星的亮光，上一年他一个人过的那个春节什么也没数。
 
-**读者视角提示：** 名单里的 Jinjun、Haiming 在第 05 章的家庭场景里可以对上。
+**读者视角提示：** 名单里的 Junjun、Haiming，在第 05 章她家的饭桌上就能对上。
 
 > **原句 7:** For a second—a moment—he imagined a parallel life. One in which they presided over this New Year’s dinner together, where these were their children, their grandchildren. The family they had built together. He blinked, guilt trickling through his body. The mere thought was a betrayal to Linyee. No matter what, that part of his past belonged to her, would always belong to her. And yet, Howard longed for something. For more.
 
@@ -90,7 +90,7 @@ modified: "2026-10-05"
 
 **关键词：** evaporated decades ago · stop trying to revive the dead
 
-**为什么这样写：** 爆发的那几句全部是判断句，没有一个辩解；「蒸发了」和第 04 章的漏水、第 03 章的火车汽笛是同一个词根。说完她立刻泄气，承认「这是个错误」——作者用这一泄，把愤怒变成可笑的、可亲的。
+**为什么这样写：** 爆发的那几句全部是判断句，没有一个辩解；「蒸发了」和第 04 章的漏水是同一套液体比喻——第 04 章那个还抱着音乐不放的人，靠的就是「水一直漏、但只要还在漏就还活着」。说完她立刻泄气，承认「这是个错误」，作者用这一泄，把愤怒变成可笑的、可亲的。
 
 **读者视角提示：** 她骂完自己，是因为她知道他要的不是审判，而是靠近。
 

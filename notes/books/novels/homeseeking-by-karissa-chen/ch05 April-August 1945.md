@@ -22,7 +22,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 恐惧先被写成传闻（ murmur 出来的），再被写成身体经验（噩梦、查证件、盯人）；「习惯了」这一笔最狠——不是战胜了恐惧，是恐惧退化成了环境音，读者由此明白这个女孩已经准备在这样的世界里活很久。
 
-**读者视角提示：** 记住「背景嗡鸣」这个比喻；第 08 章（1993 年）和第 15 章（1972 年）会以另一种形式回来。
+**读者视角提示：** 记住「背景嗡鸣」这个比喻：三十年后他在第 08 章回到这条街上，是「他的神经在嗡嗡作响、亮得刺眼」；再往后第 15 章的香港，一屋子人同时说话，聋子听见的是「一片模模糊糊的环境噪声」——同一种失真，三种写法。
 
 > **原句 2:** Love crashed upon her in a pastel splash. Sulan was right, Suchi thought as they trudged home through the rain together. She loved his stupid hair. She loved his tedious aloofness. She loved the mystery of the music she couldn’t hear behind his eyes, even more than the music that came from his fingers. She loved him, and she felt dumb that Sulan had known before her.
 
@@ -42,7 +42,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 这是全书关于「音乐是什么」的核心比喻：她弹的是技巧，他听的是人；作者不解释这句话的意思，而是让两个人对同一张唱片各说各的，让分歧留在原地。同一段音乐因此同时是爱情场景和世界观分歧。
 
-**读者视角提示：** 记住「里面坐着一个人」；第 14 章、第 18 章会有人物用另一种说法复述它。
+**读者视角提示：** 这个说法不会消失，只会换容器：第 14 章她直接问他「你大概是在脑子里听音乐吧」，第 12 章的台北则相反，他连谱子都忘了，得用肌肉记忆把曲子从水里捞上来。
 
 > **原句 4:** “Or,” Suchi said, “you’ll practice harder. The fortunes aren’t a sealed fate.”
 
@@ -62,7 +62,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 父亲的逻辑没有一处是道德训诫，全是关于传播机制的推理：谁在放、谁在唱、唱给谁听；先拆机制再定罪，这样他才显得像一个消息灵通的人而不是一个暴怒的父亲。句式用连问逼女儿，节奏上不留插话的余地。
 
-**读者视角提示：** 这是全书最锋利的一次政治判断，也是父亲最没被公平呈现的一次——第 05 章后面和第 07 章都会给他补回来的。
+**读者视角提示：** 本章后半和第 07 章都会给他补回来的。
 
 > **原句 6:** She didn’t want to be like M’ma, cooped up in her own world, judgmental and afraid of change. When the war was over, she wanted to do things, to live more than survive. Travel to places like Hong Kong or England or France, get there on a sturdy ship that cut through the gray seas. Learn brush painting and calligraphy. Speak English well enough to converse with a European without blushing. Start a little garden where she could tend her own kumquat and lemon trees. Dance until sunrise in a room of beautiful strangers.
 
@@ -72,7 +72,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 清单式排比把愿望写得具体到柑橘品种，于是它不像幻想，像行程；最后一句「不要活成母亲那样」才是真正驱动这份清单的东西。作者不评论，只把这份清单压在一个十四岁女孩将要面对的现实上。
 
-**读者视角提示：** 这份清单会在第 10 章（纽约）和第 20 章（尾声）被一一对照。
+**读者视角提示：** 这份清单其实从没兑现过：第 08 章那个回来的人清楚自己的家乡「已经不是他走的时候那个样子」，同一句「你只能往前」原样出现在他劝她离开的对话里；真正替他走完清单的是第 20 章的母亲，躺在石库门里把这些名字一个一个叫回来。
 
 > **原句 7:** The voice was staccato and lilting, bloodless and thin. Suchi wondered if Haiwen would hear music in it, if there was something to unravel in the rhythm of Hirohito’s voice, the voice of the nation that had held her people captive her entire life. The words were meaningless, but their drone made it hard for Suchi to breathe. She didn’t know what to feel; she felt nothing. There was a before—her whole life was a before—but following these words, there would be an after.
 
@@ -92,7 +92,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 全章最后一次切换，把公共暴力和私人动作压进相邻两行：她的眼前是一具被绑住的身体，她背后是一个终于抓住她的手的人；结尾不给任何解释，只给一个动作。前面八个小时里所有的不敢、不能和来不及，都被这两行收走。
 
-**读者视角提示：** 本书第三次转折（承第 03 章的兔子、第 04 章的琴）都由「一个具体的物件或动作」完成。
+**读者视角提示：** 本书第三次转折（承第 01 章的兔子、第 04 章的小提琴）都由「一个具体的物件或动作」完成。
 
 
 ## 本章词汇

@@ -32,7 +32,7 @@ modified: "2026-10-05"
 
 **为什么这样写：** 这句话是全章的说明牌，后面每一个场景都在演示它：同一场雪是刑罚也是几何，同一栋楼是逃亡者的家也是废墟，一枚戒指既是母亲的遗物也是琴盒的夹层。
 
-**读者视角提示：** 记住「取决于语境」这条规则，第 19 章会用另一种方式再说一遍。
+**读者视角提示：** 记住「取决于语境」这条规则，第 06 章会用一场病复发再说一遍。
 
 > **原句 3:** “No problem,” he said. No problem was one of his favorite English phrases. It disarmed sticky situations, offered a measure of vagueness when he did not want to lie but knew better than to tell the truth. It was a phrase that meant many things and yet also nothing.
 
