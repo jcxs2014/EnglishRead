@@ -88,7 +88,7 @@ modified: "2026-10-05"
 
 **中文理解：** "他早就知道要发生什么，并且愿意为了找出国王的敌人，对无辜者施以一场屠杀。"
 
-**关键词：** Harg had warned her · He’d known what was going to happen · was willing to carry out a massacre against innocents · just to find the king’s enemies
+**关键词：** He’d known what was going to happen · against innocents · was willing to carry out a massacre against innocents · just to find the king’s enemies
 
 **为什么这样写：** **这是全书对 Harg 这个人下判决书的一句，而作者用了两句把她和他之间的全部旧账一次结清。** **He’d known what was going to happen**（他早知道要发生什么）**用完成时，是因为这个"知道"发生在她不知情的时候**——**于是读者立刻明白：他不是被蒙在鼓里，他一直在看。** 而最有分量的其实是 **just to find the king’s enemies** 里的 just：**just 放在这里不表示"只是"，它表示"仅仅为了"**；**于是屠杀的规模被缩到"仅为找人"这个理由上**——**作者用一个副词把一场屠杀写成了手段，而手段越小，行为越显得不可能必要。** 语态上值得留意的是 **was willing to**（愿意）：**这是一个没有任何强迫的动词**；**不是被迫，不是奉命，是"愿意"**——**所以下一块那句"她不认识他了"不是因为他变了性格，而是因为这个"愿意"从来没变过，只是现在她看见了。**
 

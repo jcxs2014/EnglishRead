@@ -68,7 +68,7 @@ modified: "2026-10-05"
 
 **中文理解：** "她的牙咬紧了那块压住她的话的布，可那灼烧着她眼背的热泪被另一种东西换掉了——一个填满了她最黑暗的欲望的凝视。"
 
-**关键词：** her face reddened with thousands of emotions · her teeth clenched over the cloth that repressed her words · the hot tears that burned the back of her eyes were replaced by a stare · filled with her darkest desires
+**关键词：** her teeth clenched over the cloth that repressed her words · the hot tears that burned the back of her eyes were replaced by a stare · filled with her darkest desires
 
 **为什么这样写：** **这是全书把"她的眼睛变了"写成一次替换的一处，而作者用的是被动。** 语法上最见功夫的是那个 **were replaced by** ——**英语里 replace 是"拿新的换掉旧的"，而这里的宾语是泪**；**于是作者说她的泪被"一个凝视"换掉了**——**而"凝视"是一个动作，不是东西；于是这一句把一次心理活动写成了一个实体替换。** 而 **her darkest desires**（她最黑暗的欲望）**这个短语是全章最危险的地方**——**它接在 gaze（凝视）后面**；**于是读者看见的是：她看着他，眼睛里是欲望。** 而这一句的前半用了三个身体细节（**reddened / clenched over / burned**），**而后半用一个心理词收尾**；**作者让身体先动、心理后到，而心理一到就把身体全部推翻。** 最见功夫的是 **her darkest desires** 里的最高级 **darkest**——**英语里 darkest 可以是"最黑的"**；**而作者这里指的是最不愿意承认的那一类。**
 
@@ -198,7 +198,7 @@ modified: "2026-10-05"
 
 **中文理解：** "一只黑狼。"
 
-**关键词：** a dark shadow leapt over Conrad and sent him tumbling to the ground · A black wolf.
+**关键词：** A black wolf.
 
 **为什么这样写：** **这是全书对"救她的人"写得最短的一处，而作者用两个词把所有铺垫一次兑现。** 语法上值得看的是**前一段与这一段的关系**：**前一段是 a dark shadow leapt over Conrad（一个黑影扑向 Conrad）**；**而这一段把那个黑影翻译成了 A black wolf**——**于是作者先给形状、后给名字，而中间隔了一整段。** 而 **black** 在英语里同时是"黑的"和"黑人的"**（这是一个词形歧义）**；**作者用 black 而不选别的颜色，是要一个"最黑"的那一只**。最见功夫的是**这一句没有任何动词**——**A black wolf. 是一个完整的名词性判断**；**于是狼没有动作，只有存在**；**而它一存在，Conrad 就 tumbling（滚）了。** 而最狠的是**它没有出现在前面任何一段里**——**连 Conrad 都没有看它一眼**；**于是它不是被打败的，它是路过的。**
 

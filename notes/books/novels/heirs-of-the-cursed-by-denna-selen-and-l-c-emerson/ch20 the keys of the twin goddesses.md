@@ -39,7 +39,7 @@ modified: "2026-10-05"
 
 **中文理解：** "近处那些人的念头在她脑海里越来越响，让她头痛、让她的愧疚膨胀。Darcia 跪倒在地，用双手捂住耳朵。"
 
-**关键词：** The thoughts of those near her · grew louder and louder in her mind · making her head ache · and her guilt swell · she covered her ears with her hands
+**关键词：** The thoughts of those near her · grew louder and louder in her mind · making her head ache · and her guilt swell · covered her ears with her hands
 
 **为什么这样写：** 全章对 **Darcia 能力失控**最具体的一次描写，而作者用**两个 growing（越来越）**把声音推到极限：louder（更响）与 swell（更胀）——**一个是听觉，一个是体积感**。而 **covered her ears with her hands（用双手捂耳）** 是全章最悲凉的一个动作：**她捂住的是自己的耳朵，不是别人的嘴**——**她的能力是"接收"的，所以防御的方向只能是向内。** 而 **fell to her knees（跪倒在地）** 让她**在姿势上先于语言崩溃**。
 

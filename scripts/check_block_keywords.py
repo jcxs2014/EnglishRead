@@ -223,6 +223,35 @@ def _kw_in_quote(k: str, qflat: str) -> bool:
 _CONT_STOP = re.compile(r'[\u4e00-\u9fff]|\*\*')
 
 
+def _sec_text(block: str, header: str) -> str:
+    """取出块内某个分析子项（`**为什么这样写**` / `**读者视角提示**`）到下个子项之间的正文。"""
+    i = block.find(header)
+    if i < 0:
+        return ""
+    tail = block[i + len(header):]
+    j = tail.find("\n**")
+    return tail if j < 0 else tail[:j]
+
+
+# ⚠️ 2026-10-05 新增（Heirs of the Cursed 五步审查 d 步）：**第 9 条 b 的语境延伸词豁免**。
+#   规则原文：「块内『关键词』的英文词必须能在该块引语中找到（允许词形变化）；
+#   **语境延伸词必须在『为什么这样写』中有呼应**，否则替换为引语逐字词。」
+#   本脚本原先只实现了前半句 ⇒ 把后半句**明文允许**的词与真缺陷同色报 ❌。
+#   实测（Heirs 五步审查）：17 条真缺陷整改完后仍报 23 条，逐词裁决**全部**满足该豁免。
+#   处置：命中豁免的降为 `⚠️ 提示` 并**单独计数**（不静默隐藏），未命中的仍判 ❌ 阻断。
+#   ⚠️ 两侧仍走同一个 `_flat`（与引语判定同口径）；`_flat < 4` 字符的不豁免，
+#     免得 `the` / `and` 这类虚词靠一次巧合命中就把真缺陷洗白。
+def _echoed(kw: str, block: str) -> bool:
+    f = _flat(_BRACKET.sub("", kw))
+    if len(f) < 4:
+        return False
+    for h in ("**为什么这样写", "**读者视角提示"):
+        sec = _sec_text(block, h)
+        if sec and f in _flat(sec):
+            return True
+    return False
+
+
 def _join_quote_lines(body: str, block: str):
     """把引用块内换行书写的引语续行并入首行，返回 (完整引语串, 是否并到了续行)。"""
     parts = [body.strip()]
@@ -440,7 +469,13 @@ def check(md: Path, book: Path):
                 if not _kw_in_quote(k, _qflat)
                 and not _kw_in_quote(_BRACKET.sub("", k), _qflat)]
         if miss:
-            out.append(f"{md.name} 原句{num}: 关键词不在本块引语内 → {miss}")
+            blocked = [k for k in miss if not _echoed(k, block)]
+            echoed = [k for k in miss if _echoed(k, block)]
+            if blocked:
+                out.append(f"{md.name} 原句{num}: 关键词不在本块引语内 → {blocked}")
+            if echoed:
+                out.append(f"{md.name} 原句{num}: ⚠️ 提示·语境延伸词"
+                           f"（第 9 条 b 允许：已被「为什么这样写」呼应）→ {echoed}")
     return out
 
 
@@ -456,16 +491,18 @@ def main():
     bad = []
     for md in mds:
         bad += check(md, book)
-    for b in bad:
-        # ⚠️ 2026-10-02：提示型**不得打 ❌ 前缀**——AGENTS 三档里提示型「只记不改」，
-        #   而 gate.sh ⑱ 的退出码按「是否含 ❌」聚合 ⇒ 标错档会把提示变成阻断。
-        #   判据用「含」不用 startswith：条目是 `文件名 原句N: ⚠️ 提示…`，前缀是文件名。
-        if "⚠️ 提示" in b:
-            print("  ⚠️ " + b.split("⚠️ 提示", 1)[1].join(["提示", ""]).lstrip("·"))
-        else:
-            print("  ❌ " + b)
-    print(f"=== 引语块覆盖度：{len(mds)} 个 md，问题 {len(bad)} 处 ===")
-    return 1 if bad else 0
+    # ⚠️ 2026-10-05 修正：**退出码原先只看 `bad` 非空**，而 `bad` 同时装着 ❌ 与 ⚠️
+    #   ⇒ 一条提示型也会让本脚本 exit=1（三档里提示型「只记不改」，不该阻塞）。
+    #   与上一条「提示型不得打 ❌ 前缀」是同一条纪律的两半：前缀对了，退出码也得对。
+    blocked = [b for b in bad if "⚠️ 提示" not in b]
+    hinted = [b for b in bad if "⚠️ 提示" in b]
+    for b in blocked:
+        print("  ❌ " + b)
+    for b in hinted:
+        print("  ⚠️ " + b.split("⚠️ 提示", 1)[1].join(["提示", ""]).lstrip("·"))
+    print(f"=== 引语块覆盖度：{len(mds)} 个 md，"
+          f"阻断型 {len(blocked)} 处 ／ 提示型 {len(hinted)} 处 ===")
+    return 1 if blocked else 0
 
 
 if __name__ == "__main__":

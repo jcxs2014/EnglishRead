@@ -68,7 +68,7 @@ modified: "2026-10-05"
 
 **中文理解：** "但他们什么也没找到，因为真正的危险就在他们面前，披着一层羊皮。"
 
-**关键词：** the soldiers unsheathed their swords · scanned their surroundings for signs of threats · But they didn’t find any · the real danger was in front of them · wearing the skin of a lamb
+**关键词：** But they didn’t find any · for the real danger was in front of them · wearing the skin of a lamb
 
 **为什么这样写：** **作者在这里用了一句谚语，而且是那种"用错主语反而更狠"的用法。** **羊皮这个意象是给狼准备的**；而作者把它安在她身上时，**"危险"这个词已经先于谚语出现了一次**（**scanned their surroundings for signs of threats**），**于是句子成了"士兵没找到威胁——因为威胁就站在这里"**。语法上，作者用一个 **for** 引导的原因状语从句，把读者的视线从"四周"强行折回到"面前"：**他们刚刚搜遍的那片空间是空的，而真正需要看的地方他们一直面对着。** 而 **wearing the skin of a lamb** 用的是 wearing（穿着）这个动作，**而不是"遮住脸"的那一类动作——穿在身上，没有开关。**
 
