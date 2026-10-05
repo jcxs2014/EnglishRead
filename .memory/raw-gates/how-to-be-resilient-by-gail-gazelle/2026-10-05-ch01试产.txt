@@ -1,0 +1,82 @@
+=== ch01 试产门禁 2026-10-05（完整 lane，epub 在位）===
+
+== verify_corpus ==
+=== 语料层验收（P0-0）: how-to-be-resilient-by-gail-gazelle ===
+text/ 件数: 9
+  [1] 件数 9 == 预期 9  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 未给 --anchors，跳过人物锚点双向  WARN
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (66 句)
+      首| Introduction
+      末| As you read, you’ll be reclaiming your birthright: your ability to enjoy life and thrive, no mat
+    ch02 (252 句)
+      首| CHAPTER 1
+      末| Self-compassion and avoiding self-judgment are key for building resilience.
+    ch03 (215 句)
+      首| CHAPTER 2
+      末| Random acts of kindness are small moments of generosity that build resilience in us and encourag
+    ch04 (328 句)
+      首| CHAPTER 3
+      末| Though it can often appear that other people don’t have the problems we have, each of us experie
+    ch05 (332 句)
+      首| CHAPTER 4
+      末| Setting a daily intention helps us align with our purpose.
+    ch06 (303 句)
+      首| CHAPTER 5
+      末| A pause can be created by stopping and taking a few slow deep breaths, walking around the block,
+    ch07 (257 句)
+      首| CHAPTER 6
+      末| We can learn to exert tremendous control over our mind state, changing our explanatory style to 
+    ch08 (269 句)
+      首| CHAPTER 7
+      末| Exercise, good nutrition, adequate sleep, and meditation have significant physical, mental, and 
+    ch09 (86 句)
+      首| CHAPTER 8
+      末| And knowing that, my dear reader, is what will make you resilient.
+
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===
+
+== verify_quotes ==
+ch01 Introduction.md: 10/10 ✅
+
+=== 总计 10/10 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+== check_vocab ==
+  [P0-4] 正文章节 1 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 30
+
+--- FAIL (0) ---
+
+--- WARN (6) ---
+  ch01 Introduction.md [基础] 基础档疑含超纲词「confident」
+  ch01 Introduction.md [基础] 基础档疑含超纲词「stability」
+  ch01 Introduction.md [基础] 基础档疑含超纲词「strengths」
+  ch01 Introduction.md [基础] 基础档疑含超纲词「hardships」
+  ch01 Introduction.md [基础] 基础档疑含超纲词「strategies」
+  ch01 Introduction.md [基础] 基础档疑含超纲词「practical」
+
+== check_entities ==
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+== check_chapter_quotes ch01 ==
+ch01 Introduction.md: 10/10 in ch01 text
+
+== corruption_scan ==
+
+=== 编辑损坏扫描（how-to-be-resilient-by-gail-gazelle）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+== sweep_full ==
+=== 引语整串 flat 比对（how-to-be-resilient-by-gail-gazelle）===
+  参照集：text/ 逐章（9 章，可定章） + epub 交叉验证
+  ✅ 本章命中 10 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+== check_short_quotes ==
+=== 短引语兜底核对（how-to-be-resilient-by-gail-gazelle）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
