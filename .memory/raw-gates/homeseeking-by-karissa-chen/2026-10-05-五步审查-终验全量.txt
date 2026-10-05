@@ -1,0 +1,116 @@
+=== 五步审查 · 整改后终验全量门禁 2026-10-05 17:04 UTC ===
+书目录：notes/books/novels/homeseeking-by-karissa-chen
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- check_short_quotes ---
+=== 短引语兜底核对（homeseeking-by-karissa-chen）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+--- check_anchor ---
+=== 关键词锚定自查（homeseeking-by-karissa-chen）===
+  扫 23 个 md，160 个引语块，160 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（21 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+--- check_quote_blocks ---
+=== 引语块结构对账（homeseeking-by-karissa-chen）===
+  带前缀的 `> **原句 N:**` 行：20 个文件共 160 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+--- check_block_keywords ---
+=== 引语块覆盖度：20 个 md，问题 0 处 ===
+
+--- check_nav_layer ---
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+--- check_struct_indep ---
+=== 独立结构扫描：20 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+
+--- check_analysis_indep ---
+抽出分析层英文片段 185 条
+✅ 全部片段在全书 text/ 逐字命中
+
+--- verify_corpus ---
+      末| She can hear the long, plaintive note of a violin, and it is growing louder.
+
+WARN  未给 --expect：件数未对账。**"件数=自己数出来的"等于没验**（Open Secrets 即 6 件=6 篇的自洽假象）
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 2）===
+
+--- sweep_analysis_inline ---
+  ⚠️  00_金句精选.md:127  「It’s a phantom pain,」→ 实为 ch11
+  ⚠️  00_金句精选.md:127  「probably brought about by stress. There’s nothing that c」→ 实为 ch11
+  ⚠️  00_金句精选.md:141  「Every day is hard,」→ 实为 ch12
+  ⚠️  00_金句精选.md:141  「It’s just that on some days you’re able to forget.」→ 实为 ch12
+  ⚠️  00_金句精选.md:148  「I mean,」→ 实为 ch2,3,4,5
+  ⚠️  00_金句精选.md:148  「we don’t talk about anything that matters.」→ 实为 ch6
+  ⚠️  00_金句精选.md:155  「He’s not my general.」→ 实为 ch12
+  ⚠️  00_金句精选.md:178  「The only thing that separates us from those people in th」→ 实为 ch9
+
+--- check_xref_indep ---
+=== chNN 引用 161 处：英文证据报警 0 处 ／ 中文式待人判 97 处 ===
+
+--- verify_corpus --expect 20 ---
+      末| She can hear the long, plaintive note of a violin, and it is growing louder.
+
+WARN  给了 --expect 但未给 --expect-source：预期数来源必须写明
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 2）===
+
+--- verify_corpus --expect 20 --anchors 海承威,Suchi ---
+
+WARN  给了 --expect 但未给 --expect-source：预期数来源必须写明
+FAIL  --anchors 解析不出任何章（格式应为 "ch01=Alice,Bob; ch02=Carol"）
+
+=== P0-0 语料验收: FAIL（FAIL 1 / WARN 1）===
+**这一层不过，下面所有门禁的绿都是假的**（方案 §10.1）
+
+--- verify_corpus 正确格式：--expect-source ls text/ ｜ --anchors 分章 ---
+  （--anchors 是「跨书污染」检查：本篇人物在本书各章都该 >0）
+FAIL  ch03 本篇含他篇 ch13 的人物「Suchi」（长篇里角色跨章出现属正常；续章人物请用 --shared 豁免）
+FAIL  ch03 本篇含他篇 ch13 的人物「Sulan」（长篇里角色跨章出现属正常；续章人物请用 --shared 豁免）
+FAIL  ch13 本篇含他篇 ch03 的人物「Apa」（长篇里角色跨章出现属正常；续章人物请用 --shared 豁免）
+FAIL  ch13 本篇含他篇 ch03 的人物「M'ma」（长篇里角色跨章出现属正常；续章人物请用 --shared 豁免）
+FAIL  ch01 未命中本篇人物「海承威」
+
+=== P0-0 语料验收: FAIL（FAIL 7 / WARN 0）===
+**这一层不过，下面所有门禁的绿都是假的**（方案 §10.1）
+
+--- verify_corpus 正径 --expect 20 + --expect-source ---
+
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===
+
+--- 假红归档：--anchors 不适用于单部长篇 ---
+  --anchors 语义＝「本篇人物在每章 >0，相邻篇人物 =0」，是短篇集/分部书的跨书污染检查。
+  本书是 20 章同一部长篇，角色跨章出现属正常，工具自身也这么提示。
+  改用直查做跨书污染自检（取全库其它书的高频人名各 1 个）：
+    Offred       本书 text/ 命中 0
+    Ava          本书 text/ 命中 4
+    Commander    本书 text/ 命中 2
+    Fred         本书 text/ 命中 0
+    Waterford    本书 text/ 命中 0
+    Moira        本书 text/ 命中 0
+    Natalie      本书 text/ 命中 0
+    Serena       本书 text/ 命中 0
+
+  本书独有人名在全库其它书 text/ 的命中数（应为 0）：
+    Baak         0
+    Haiwen       0
+    Suchi        15
+    Saikeung     0
+    Sieu         104
+
+  上面 Ava/Commander 的命中是 grep -i 子串误报（-i 把 Ava 匹配进 available、Commander 匹配进小写 commander）：
+    本书 text/ 中 Offred 0 ｜ Fred 0 ｜ Waterford 0 ｜ Moira 0 ｜ Natalie 0 ｜ Serena 0
+    本书 text/ 中 \bAva\b 0 ｜ \bCommander\b 0
+  ⇒ 跨书污染自检结论：0。
