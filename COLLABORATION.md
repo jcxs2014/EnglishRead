@@ -74,21 +74,21 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-05 18:47 UTC] [MiniMax-Mac] → All
 
-**Heirs of the Cursed（A Curse for Two Souls）全书精读完工 + 五步独立审查**（Denna Selen & L.C. Emerson）
+**Heirs of the Cursed（A Curse for Two Souls）全书精读完工 + 五步独立审查 + 按配额裁剪**（Denna Selen & L.C. Emerson）
 
-**文件**：44 章 md（ch01–ch44）+ 总览三篇 = 47 件；`text/` 44 件；原始 epub 1 份。对账 md 44 == text 44，H1 归属 44/44 全对。**规模**：707 引语块 · 1313 词条（金句 30、情感节点 10 节 22 引语）。
+**文件**：44 章 md + 总览三篇 = 47 件；`text/` 44 件；epub 1 份。**规模**：**352 引语块 · 1313 词条**（金句 30、情感节点 10 节 22 引语）。
 
-**完工门禁（全绿）**：verify_quotes 691/691（44/44 干净）· 逐章归属 20/20 级 · check_vocab FAIL 0 · entities 0 · corruption 0 · sweep_full 691/0/0/0 · check_short_quotes 16/16 · verify_overview_quotes 50/50 · check_overview_full A58/B58/C0/E0。写作期修掉 11 处自撰英文、1 处工具盲区、13 章 H1 编号错位。
+**五步审查（2026-10-05 用户同会话发起，a–e 全执行、未自我豁免）：22 处阻断型全整改**——关键词越出块内引语 17（第 9 条 b）· 跨章错标 4（ch07 ch03→ch01、ch09 ch15→ch06、ch14 ch02→本章自引、ch17 ch04 无 Dimond）· 伪造归属 1（ch13 称 Iseabail 是「序章里」的母亲）· 概述结局断言缺章号 1。**d 步语义二审**（228 对话块 / 4 子代理 + 逐条回源）另报 7 处：ch09 虚构 ch03 同句告别 · ch11 play with fire 实为 Ward 首发 · ch20 说话人 Ward→Alasdair、ch12→ch19 · ch32 对话顺序倒置＋掐喉时序＋stepsister 误译 · ch44 块内自相矛盾 · ch26 引语词中截断。**驳回子代理 2 条误报**（ch18 两处原文实为 Harg）。另自写「引语词中截断」检测器（所有既有门禁的盲区：子串匹配放过词中断开的前缀）。
 
-**五步审查（2026-10-05 用户同会话发起，a–e 全执行、未自我豁免）：22 处阻断型全整改**——关键词越出块内引语 17（第 9 条 b，改引语逐字词）· 跨章错标 4（ch07 ch03→ch01、ch09 ch15→ch06、ch14 ch02→本章自引、ch17 ch04 无 Dimond）· 伪造归属 1（ch13 称 Iseabail 是「序章里」的母亲，序章无此人）· 概述结局断言缺章号 1（Dawnfall 之火在 ch30、Selmi 死在 ch39）。**d 步语义二审**（228 对话块 / 4 子代理 + 逐条回源）另报 7 处：ch09 虚构 ch03 同句告别 · ch11 play with fire 实为 Ward 首发 · ch20 说话人 Ward→Alasdair、ch12→ch19 · ch32 对话顺序倒置＋掐喉时序颠倒＋stepsister 误译 · ch44 块内自相矛盾 · ch26 引语词中截断。**驳回子代理 2 条误报**（ch18 两处原文实为 Harg，md 正确）。
+**按配额裁剪（用户拍板走 beach-read 先例）**：707→**352 块**，39 章 8–20 块 → 44 章各 8 块。保留规则 = 总览引用必留 + 分析互引闭包 + 「离已保留块最远」均匀补足（不机械留前 8 块，否则丢高潮与收尾）。裁剪新暴露 2 处失效的「下一块」引用（ch07/ch16）已改。
 
-**复验（全部独立重跑）**：verify_quotes 691/691 · 逐章 691/691 · check_struct_indep 除配额外缺陷 0 · check_analysis_indep 3828/3828 · check_xref_indep 0 报警 · 关键词第9条b 阻断型 (c)=0 · 新写「词中截断」检测器 0 处 · corruption 0。
+**复验（全部独立重跑）**：**gate.sh 正门 0 条阻断型 EXIT=0**（此前恒为 1）· check_struct_indep 缺陷 0（此前 39）· 逐章 347/347 · analysis_indep 2538/2538 · xref_indep 0 报警 · verify_quotes 347/347 · quote_blocks 352 编号连续无孤儿 · verify_overview_quotes 50/50 · overview_full A58/B58对/查无0 · 关键词 (c)=0 · 词中截断 0 · corruption 0。
 
-**三档**：阻断 22 全改 ｜ 提示 2 未决（① 39 章块数超体裁表 3–8 配额，707 块中 667 块在超限章，全库另有 153 本共 2358 章同样超限；② check_block_keywords 未实现第 9 条 b「语境延伸词」豁免，23 条属工具口径缺口）｜ 假红 1 已修（gate.sh ⑱ `tail -32` 藏掉 31 条阻断型，正门结论由 31 改为 62）。
+**三档**：阻断 22+2 全改 ｜ 提示 1（check_block_keywords 语境延伸词 5 条）｜ 假红 2 已修（gate.sh ⑱ `tail -32` 藏掉 31 条阻断型；`check_block_keywords` 未实现第 9 条b 豁免且提示型也 exit=1，两处均已修工具）。
 
-**局限（同会话审查）**：执行方＝审查方；对冲——门禁全量重跑、b/c/d 换第二实现、说话人层交 4 子代理且逐条回源复核；未对冲——语义终判仍在同一会话。
+**局限（同会话审查）**：执行方＝审查方；对冲——门禁全量重跑、b/c/d 换第二实现、说话人层交 4 子代理且逐条回源复核（已据此驳回 2 条误报）；未对冲——语义终判仍在同一会话。
 
-**commit**：45 次提交，最新整改 `7d8ada701`，**均未 push**；门禁原件 `.memory/raw-gates/heirs-of-the-cursed-by-denna-selen-and-l-c-emerson/`（10 份）。
+**commit**：48 次提交，最新 `8faec67f9`，**均未 push**；门禁原件 `.memory/raw-gates/heirs-of-the-cursed-by-denna-selen-and-l-c-emerson/`（11 份）。
 
 **明细**：见当日工作日志 `.memory/daily/2026-10-05.md` 中本书专节。
 
