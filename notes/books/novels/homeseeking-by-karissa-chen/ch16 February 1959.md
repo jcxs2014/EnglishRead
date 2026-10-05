@@ -13,51 +13,83 @@ modified: "2026-10-05"
 
 ## 精读
 > **原句 1:** “He tried to steal a fisherman’s boat,” Lau Fu continued. “Zenpo said he tried to stop him, but Li Tsin kept shouting he was going to row back home. When the fisherman pulled out a knife, he jumped into the harbor and started swimming.”
+
 **中文理解：** 天还没亮，袍泽来敲门报信：那个叫李潜的年轻士兵想偷一条渔船，划回家去；渔民拔了刀，他就跳进港口开始游。
+
 **关键词：** row back home · pulled out a knife · started swimming
+
 **为什么这样写：** 作者把一场死亡写成一串笨拙的行动——偷船、划走；而阻止它的不是敌人，是一把刀，和一个根本不会游泳的人。整件事里没有一个反派，只有一个想回家的人对一整片水。
+
 **读者视角提示：** 紧接着那句「李潜不会游泳」是本章唯一一次直接说明；在此之前，读者要自己把前十四章里那些水、那些河、那些船拼起来。
 
 > **原句 2:** Hope and despair were two sides of the same coin, Haiwen now thought. Li Tsin, like Haiwen, hadn’t given up hope of returning home. It was what got the boy through the bullying, the harsh work he was ordered to do, the beatings from officers. He had nothing else—because he was a forced conscript, the military never fully trusted him, and he was stuck at the bottom of the totem pole.
+
 **中文理解：** 他想通了一件事：让李潜撑下来的不是乐观，是「还能回家」这个念头本身。盼头和绝望是同一枚硬币的两面；他自己也靠这枚硬币活了九年——被欺、被派重活、被军官打，因为他除了这个念想一无所有。
+
 **关键词：** two sides of the same coin · hadn't given up hope of returning home · stuck at the bottom of the totem pole
+
 **为什么这样写：** 作者把「想家」从一种感情改写成一种机制——它能挡住殴打，也能在人游不动的时候把人推下水。这是全书最硬的一处因果。
+
 **读者视角提示：** 同一个硬币在下一章还会翻到另一面：1975 年退到台湾的海承威，第一次听见有人在他面前说出「希望和绝望」以外的理由。
 
 > **原句 3:** The suicides had begun a couple of years ago, as soldiers had begun to despair of going home. Soldiers were cracking from the loneliness, depression, and stress. Even if they didn’t kill themselves, men yelled in their sleep, hallucinating they were burning or being buried alive; they became wild and unpredictable in their confrontations with both comrades and authority.
+
 **中文理解：** 这不是李潜一个人的事。几年前起，营区里就开始有人自杀；就算没死的，也在睡梦里喊自己被烧死、被活埋，醒来对同袍和对上级一样暴躁。这就是他后来一个人搬出竹石小屋住的原因。
+
 **关键词：** had begun to despair of going home · yelled in their sleep · with both comrades and authority
+
 **为什么这样写：** 作者把自杀写成一种会传染的整体气氛，而不是一串个案；「对同袍和对上级一样暴躁」这一句尤其重——崩溃之后，敌友变得没有区别。
+
 **读者视角提示：** 所以这一章他搬出来一个人住，等于用距离换清醒；同一天下午他却在骰子摊上主动去握陌生人的手，那是这份清醒用不上的那一部分。
 
 > **原句 4:** The officer had warned that, given the opportunity, the locals would rebel, riot, tear down all the military was trying to do for them. Martial law was a necessity, he said, the way boundaries are necessary for small children who can’t yet be trusted to care for themselves.
+
 **中文理解：** 军官的话是：给本地人一点机会，他们就会反、会抢、会砸掉军方替他们建的一切；所以戒严是必要的，就像小孩还不会照顾自己时必须先有边界。
+
 **关键词：** the locals would rebel · Martial law was a necessity · boundaries are necessary for small children
+
 **为什么这样写：** 全岛最重的一个政治判断，被作者包在一个很轻的比喻里——照顾小孩的比喻，判断却是硬的。而海承威的反驳同样只用了一个比喻：小孩总得学会自己照顾自己。
+
 **读者视角提示：** 说这段话的军官还断言本地人被日本洗脑；这句话会在下一章被原样奉还：1975 年林丽仪对他说，先是美国，然后是你们。
 
 > **原句 5:** “We have to be ten times as ruthless as those pigs!” Zenpo said. “If we’d defeated our enemies earlier, Li Tsin would be alive. We’d all be home by now, off this devil island. I could be fucking my own wife, playing with my kid.” Angry tears streamed down Zenpo’s face. “Goddammit,” he said, pounding his fist into his thigh. “Why didn’t that fucking fisherman just let him have the boat! Why didn’t I just fucking shoot that bastard and let Li Tsin go!”
+
 **中文理解：** 人力车上，曾福把李潜的死算到敌方头上：如果早就打赢，李潜不会死，我们早就回家了，他也能抱着自己的老婆孩子。粗口和眼泪都是真的。
+
 **关键词：** ten times as ruthless as those pigs · Li Tsin would be alive · playing with my kid
+
 **为什么这样写：** 作者让最激烈的政治主张从一件家务事里长出来——他想抱自己的孩子；说得越具体，那句「必须比他们狠十倍」就越站不住。
+
 **读者视角提示：** 同一天还有另一句话在营区里流传：「宁可杀一千个无辜的人，也不能放走一个有罪的人。」海承威听曾福背出这句时是震惊的，因为他从没想过身边这个人会照单全收。
 
 > **原句 6:** Haiwen tried to picture the map he had stashed somewhere in his hut, one on which he had taken a ruler and drawn a straight line from Keelung to Shanghai. Six hundred and eighty kilometers, he had calculated.
+
 **中文理解：** 他在棚屋里藏过一张地图，用尺子从基隆到上海画了一条直线——六百八十公里。这个数字是他自己算的，像一条永远走不完、也不会自己变短的路。
+
 **关键词：** a ruler and drawn a straight line from Keelung to Shanghai · Six hundred and eighty kilometers
+
 **为什么这样写：** 作者用一个几何动作代替抒情：拿尺子、拉直线。六百八十公里这个精确到个位的数字，比任何一句「我想家」都更让人难受。
+
 **读者视角提示：** 这条直线的一端在下一章换成了另一种活法；另一端在第 14 章的香港粥店，那天他们隔着一锅粥坐着，谁也没提这六百八十公里。
 
 > **原句 7:** “It means ‘one who bites an orange,’ ” she said quietly. “Like, you know, a pig.” Haiwen didn’t respond immediately, and the girl bit her lip.
+
 **中文理解：** 蚵仔煎摊主的女儿会说几句普通话，也能教他白天刚听见的那个词是什么意思——咬橘子的人，像猪。她说完有点忐忑，因为这句在当地不是玩笑。
+
 **关键词：** one who bites an orange · Like, you know, a pig · the girl bit her lip
+
 **为什么这样写：** 作者让一个正在学「怎么骂人」的姑娘给出词源。她替他解释被骂的代价，而他选了笑——这一笑是他今天做成的第二件事，第一件是在骰子摊上学会了两种点数。
+
 **读者视角提示：** 本章她父亲一直活着，喊她「喂，小霞」；真正被留在异乡活到最后的，是第 20 章躺在石库门里的那个。
 
 > **原句 8:** Haiwen rode toward his house in the dark, turning the conversation over in his mind. Briefly, while he’d been talking to Tsai Linyee, he’d forgotten his grief, and this alarmed him. What if it leaked out of his brain like the music?
+
 **中文理解：** 骑回去的路上他发现了一件事：跟她说话的那一会儿，自己忘了悲伤。这让他害怕——怕它像脑子里那段声音一样漏掉。
+
 **关键词：** he'd forgotten his grief, and this alarmed him · What if it leaked out of his brain like the music
+
 **为什么这样写：** 作者把「快乐」写成危险品。他从那个摊子学到的不是安慰，是一种必须立刻封存的东西；就像每天晚上把亲人的脸一张一张过一遍那样，他打算连这份笑意也归档。
+
 **读者视角提示：** 本书开篇他就听见一段不在任何乐器上的声音；这一章里那声音被叫做音乐，仍然没有交代它从哪里来。末句才是本章真正的结尾——他不打算再回那个摊子。
 
 ## 本章词汇

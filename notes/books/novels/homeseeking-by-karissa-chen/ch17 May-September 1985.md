@@ -13,51 +13,83 @@ modified: "2026-10-05"
 
 ## 精读
 > **原句 1:** Haggling for the best price and walking away with a deal gave Soukei a high; the minor triumph made her feel like she had value.
+
 **中文理解：** 她坚持自己去市场，不是因为爱挑菜，是因为那个过程让她觉得自己有用：把价钱谈下来、转身走掉，这种小小的胜利就是她的价值。
+
 **关键词：** Haggling for the best price · walking away with a deal · made her feel like she had value
+
 **为什么这样写：** 作者把「家庭主妇的自我肯定」落到一次讨价还价上，而且写得很轻——她得到的不是钱，是一个「我有价值」的感觉；这种感觉一旦被抽走，后面那句「我是个没用的五十四岁女人」才立得住。
+
 **读者视角提示：** 本章她做的每一件事都是围着儿子转的：亲手做午饭、加入家长会、煮他爱吃的甜品；唯一一件不为儿子做的事，就是这一趟市场。
 
 > **原句 2:** They stayed the same age while Soukei grew older, and with the years came an acclimation to their presence, the shame she’d felt in the beginning at having hired help dimming the same way her active loathing of Saikeung had.
+
 **中文理解：** 保姆只有二十岁，她已经四十几；保姆停在那一年不动，她一年年变老。最开始请人帮忙的羞耻感，和对丈夫的厌恶一样，都被日子磨平了。
+
 **关键词：** They stayed the same age while Soukei grew older · acclimation to their presence · her active loathing of Saikeung
+
 **为什么这样写：** 作者用一条不对等的时间轴写她的消耗：她雇来的女孩始终年轻，而她在原地老去；更狠的是「厌恶」也会被磨平——一个人可以对丈夫恶心，同时离不开他。
+
 **读者视角提示：** 这条时间轴也解释了她为什么始终不肯离婚：她在这段关系里已经待到像住惯一间旧屋，连臭味都闻不出来了。
 
 > **原句 3:** “Yeah, when I was like eleven. Those rides are all for little kids. And the dolphins all look miserable. You know that’s animal cruelty? Katie says they get depressed and try to drown themselves if they’re caged for too long.”
+
 **中文理解：** 她提议去海洋公园，儿子嫌幼稚，还说那里的海豚看起来很难受，被关久了会得抑郁症、会自己找水淹死。
+
 **关键词：** the dolphins all look miserable · that’s animal cruelty · try to drown themselves
+
 **为什么这样写：** 一个十几岁男孩随口说出的动物福利观念，在这一章里比任何政治判断都更接近真相；而母亲准备的糖水被一口推开，这段对话之后她才发现自己不知道儿子住在哪个国家。
+
 **读者视角提示：** 那句「被关久了会自己找水淹死」，和他母亲的处境在同一个逻辑里——被关住的人迟早自己动手了结；这一层作者没有点破。
 
 > **原句 4:** “You’re not,” he said. “You’re not even on your own side.” When he slammed the door, the spoon inside the bowl rattled.
+
 **中文理解：** 她说「我永远站在你这边」，儿子把碗一推说「你连自己那一边都没站」，然后摔门走了，碗里的勺子被震得响。
+
 **关键词：** You’re not even on your own side · When he slammed the door · the spoon inside the bowl rattled
+
 **为什么这样写：** 全章最短的一次交锋，却把标题式的指责落到了实处：她替儿子挡了十几年的丈夫，能替他挡，却不能替自己活；勺子被震响那一下，是屋里唯一还在动的东西。
+
 **读者视角提示：** 这句话也是全书的一个转折点：儿子第一次意识到母亲不是自愿留下来的，而是被困住；他自己重复她的话（「你还不是也……」）下一章会在旧金山电话里继续。
 
 > **原句 5:** “And do what?” Soukei asked. “Without him, I have nothing. Nothing I have is my own. My clothes, this apartment, every nice thing I have—it all belongs to Saikeung. I am a useless fifty-four-year-old woman. It’s too late for me to start over.”
+
 **中文理解：** 姐姐劝她离婚去纽约，她反问「然后呢」：没有丈夫她什么都没有，衣服、房子、所有好东西都是他的，她是个没用的五十四岁女人，重来太晚了。
+
 **关键词：** Without him, I have nothing · every nice thing I have—it all belongs to Saikeung · a useless fifty-four-year-old woman
+
 **为什么这样写：** 作者让她把「走不掉」讲成一份资产清单：她的一生没有一件属于自己的东西——连那句「太晚了」都不是抱怨，而是清点。
+
 **读者视角提示：** 姐姐那边的对照就在同一段里：九年前姐姐抛下孩子去纽约念时装学院，是祖贞变卖首饰替她交的学费；本章姐姐要还这笔钱，而祖贞连买机票的钱都要问。
 
 > **原句 6:** “You know your father,” she said. “Once he’s decided on something, it will happen, whether you want it to or not. To fight him is just the more painful road toward the inevitable.”
+
 **中文理解：** 儿子说听爸爸的话换宿舍很后悔，母亲的回答像是经验之谈：他一旦决定，事情就会发生；跟他硬顶，只是通往同样结果的一条更痛的路。
+
 **关键词：** Once he’s decided on something, it will happen · To fight him is just the more painful road toward the inevitable
+
 **为什么这样写：** 作者让母亲把自己二十年的屈服总结成一条策略，而这一章正是这句话被验证的时候——她确实一次也没有赢过，但正因如此，她保住了儿子没有被父亲打。
+
 **读者视角提示：** 这句话的代价也写在这一段里：为了不挨打，她劝儿子四年之内绝对服从——「毕业之后他就管不着你了」；她把自由说成一个日期，而儿子问了一个她没准备的问题。
 
 > **原句 7:** “Why are you such a fucking martyr, Ma? Why can’t you, for once, think about what you want? Do you think it does me any good that you’re like this? What do you want?”
+
 **中文理解：** 儿子放下勺子，低声问她为什么总这样；接着几乎是吼出来地问：为什么你不能哪怕一次想想自己想要什么，你这样对我好吗，你到底想要什么。
+
 **关键词：** Why are you such a fucking martyr · think about what you want · What do you want?
+
 **为什么这样写：** 全章唯一一次儿子把话说到脏字，母亲仍旧没有回答；作者让这句质问悬在空气里，紧接的那句「他是我丈夫」就是全部的答案。
+
 **读者视角提示：** 原文这一段把她的名字误写成了另一个人名，是作者的笔误，不影响理解；把它读成「她那一刻意识到儿子恨错了对象」也对得上下一段的转折。
 
 > **原句 8:** At four in the morning, Soukei realized why it had unnerved her so—Samson had looked just like her father.
+
 **中文理解：** 最后一夜她睡不着，凌晨四点才明白自己为什么被吓到：儿子皱眉的那个样子，和她父亲一模一样。
+
 **关键词：** At four in the morning · why it had unnerved her so · Samson had looked just like her father
+
 **为什么这样写：** 作者用「像她父亲」把三代人扣在一起：她怕丈夫，可她一生都在复刻母亲的处境；她刚从母亲那里逃出来，儿子身上又出现了她父亲。
+
 **读者视角提示：** 这一章的结尾她做了一件母亲和姐姐都没做过的事：打电话改签机票，并且叮嘱佣人不要告诉丈夫她打过电话——这是全书她第一次主动切断联系方式。
 
 ## 本章词汇
