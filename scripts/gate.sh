@@ -51,7 +51,19 @@ echo; echo "=== ③ check_entities（梗概实体一致性）==="
 python3 scripts/check_entities.py "$B" 2>&1 | tail -1
 
 echo; echo "=== ④ corruption_scan（编辑损坏，进门禁）==="
-python3 scripts/corruption_scan.py "$B" 2>&1 | grep -E "FAIL|报告"
+# ⚠️ 2026-10-05 五步审查修（I Am Not Jessica Chen 实证）：本项原写
+#   `| grep -E "FAIL|报告"`，输出行是 `  FAIL 2 处（U+FFFD / 双句号）`——
+#   **不含 ❌**，而正门结论的聚合判据是 `^[[:space:]]+❌` ⇒ **本项的 FAIL
+#   完全不进「正门结论」**；同段那行 `报告 0 处（…）` 又含 ` 0 ` 被
+#   `grep -v ' 0 '` 排除。后果：第 3 条明列的进门禁项报着 FAIL，
+#   正门结论照样打「0 条阻断型 · 退出码 0」——**汇总层把真阻断洗成绿灯**
+#   （实测：ch17:98 / ch19:28 两处 U+FFFD 在批次四与完工两轮 gate 里
+#   都真实存在且被本项抓到，写作方却据正门结论宣布完工）。
+#   与 2026-09-29「gate.sh 漏 verify_overview_quotes」同族复发。
+#   修法：把 FAIL 行缩进并加 ❌ 标记，使其进入既有聚合判据；
+#   **零计数时不得加标记**（否则每本书都会平白 +1）。
+python3 scripts/corruption_scan.py "$B" 2>&1 | grep -E "FAIL|报告" \
+  | sed -E 's/^  FAIL ([0-9]+) 处/  ❌ FAIL \1 处/'
 
 echo; echo "=== ⑤ sweep_full（引语整串 flat）==="
 python3 scripts/sweep_full.py "$B" --quiet 2>&1 | grep -E "✅|❓"
