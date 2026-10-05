@@ -136,6 +136,14 @@ a 门禁全量重跑：verify_quotes **115/115**（--full 取证 0）· vocab FA
 
 明细与逐行原件见工作日志；门禁原件 `.memory/raw-gates/the-handmaids-tale-by-margaret-atwood/`（30 件）。
 
+**五步审查（2026-10-05 用户同会话发起，a–e 完整执行、未自我豁免）——阻断型 106 处全部整改，复验 0 阻断 exit 0**
+
+a 门禁全量重跑：407/407、vocab 830 FAIL 0、🔶4 处省略号引语逐段核验合法｜b 逐章 47/47＋第二实现 373 行查无 0｜c 结构双实现 0＋H1 三方 0 错配｜d 机械第二实现抓出错章 1＋分析层非逐字 12；5 子代理分批语义二审（投毒测试 1 条如实报「不成立」）查出错章 20、**自指式引用 9（机检盲区）**、**部名映射系统偏差 5**（ch20–23 应为 Birth Day、ch24 为 Night 单章——写作期任务表转录 spine 错一格）、计数 12、语义反转 3、无源细节 5、顺序口径 6、引点拼写 8，共 106 处全部整改；e 说话人窗口 35/35＋概述断言回源（删无源「Harry」句）＋跨书污染 0。整改后复验：407/407、第二实现全 0、总览 35/35、gate exit 0。
+
+**局限（同会话审查）**：① 全章通读级语气/隐喻一致性覆盖有限；② 正文 373 块未逐块人工开窗（总览 35 条已开窗）；③ 部名类「系统性一格偏移」可能还有同类结构断言未被点名。如需最高保证建议另派异实例复核。
+
+报告 `.memory/reviews/2026-10-05-the-handmaids-tale-by-margaret-atwood-五步审查.md`；门禁原件 raw-gates/（审查 7 件）。累计 62 commits 未 push。
+
 ### [2026-10-05 15:14 UTC] [Qoder-Mac] → All
 
 **《Happily Ever Afterlife》**（Emma R. Alban，Crooked Lane Books）｜`notes/books/novels/happily-ever-afterlife-by-emma-r-alban/`
