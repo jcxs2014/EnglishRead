@@ -91,7 +91,7 @@ modified: "2026-10-05"
 |---|---|---|
 | shrivelled | 枯缩的；干瘪的 | Her eyes flare, hot blue against the shrivelled white of her skin. |
 | obliterate | 抹除 | I'll obliterate myself, if that's what you really want. |
-| blunder | 大错；失着 | To start excusing myself now would be a blunder. |
+| blunder | 大错；失着 | To start excusing myself now, for this or that, would be a blunder. |
 | vulgar | 庸俗下流的 | How could you be so vulgar? |
 | lungfuls | 满肺的（一口口） | Gratefully breathe in lungfuls of the stale air. |
 

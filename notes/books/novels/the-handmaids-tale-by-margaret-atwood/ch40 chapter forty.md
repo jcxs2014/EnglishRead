@@ -80,7 +80,6 @@ modified: "2026-10-05"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| lassitude | —（ch39 已收） | — |
 | fabrication | 捏造；虚构之物 | Possibly nobody ever talked like that in real life, it was all a fabrication from the beginning. |
 | approximate | 近似的 | The way love feels is always only approximate. |
 | slutting | 放荡（slut 的动名词用法） | Maybe he thinks I've been slutting around, at Jezebel's, with the Commander or more. |
@@ -91,7 +90,7 @@ modified: "2026-10-05"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| bachelor | 单身汉（bachelor apartment 单身公寓） | A bachelor, a studio, those were the names for that kind of apartment. |
+| bachelor | 单身汉（原文指车库楼上的单身公寓） | A bachelor, a studio, those were the names for that kind of apartment. |
 | no strings | 没有附加条件；不牵扯 | Once it would have meant: no strings. |
 | no heroics | 别逞英雄 | Now it means: no heroics. |
 

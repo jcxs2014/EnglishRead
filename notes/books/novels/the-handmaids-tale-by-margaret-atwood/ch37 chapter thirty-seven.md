@@ -92,7 +92,7 @@ modified: "2026-10-05"
 | scrounge | 搜罗；捡拾 | I guess they’ve had to fall back on a mélange, whatever they could scrounge or salvage. |
 | assimilated | 被同化 | They couldn’t be assimilated; anyway, most of them prefer it here. |
 | indispensable | 不可或缺的 | You believe you are indispensable and can therefore do anything. |
-| gawk | 呆呆地看；瞠目 | Don’t gawk. You’ll give yourself away. |
+| gawk | 呆呆地看；瞠目 | You’ll give yourself away. Just act natural. |
 | sprightliness | 轻快；活泼 | His voice assumes more and more the sprightliness and jocularity of youth. |
 | wobble | 摇晃；蹒跚 | I get up, wobble across the room. |
 

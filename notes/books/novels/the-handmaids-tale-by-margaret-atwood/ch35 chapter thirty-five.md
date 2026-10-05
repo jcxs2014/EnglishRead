@@ -95,7 +95,6 @@ modified: "2026-10-05"
 | emanating | 散发；发出 | Everything that went on in your life was thought to be due to some positive or negative power emanating from inside your head. |
 | maudlin | 多愁善感到失控的；爱哭的 | I become too maudlin, lose myself. Weep. |
 | marooned | 被困孤岛的；被遗弃的 | Like a White Russian drinking tea in Paris, marooned in the twentieth century. |
-| obliterate | 抹除（动词） | Oh God, obliterate me. |
 
 ### ⭐ 基础
 

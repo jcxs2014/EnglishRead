@@ -102,7 +102,7 @@ modified: "2026-10-05"
 |---|---|---|
 | aftermath | 后果；（爱的）余波 | They would have meant the aftermath, of love. |
 | dead bird | 死鸟（她的床上的自己） | He pulls down one of my straps, slides his other hand in among the feathers, but it's no good, I lie there like a dead bird. |
-| buck | 责任（pass the buck 推卸） | It is just passing the buck, as children do, to mothers. |
+| buck | 责任；过错（原文用「推责任」的固定说法） | It is just passing the buck, as children do, to mothers. |
 | apartment superintendent | 公寓管理员 | Finally I got the apartment superintendent on the phone. |
 
 ## 一句话总结

@@ -77,7 +77,7 @@ modified: "2026-10-05"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| Femaleroad | 书中自造词：地下女性之路（仿 Underground Railroad 地下铁路） | They were paydirt, because they were a station on the Underground Femaleroad. |
+| Femaleroad | 书中自造词：地下女性之路（仿十九世纪协助黑奴南逃的「地下铁路」构词） | They were paydirt, because they were a station on the Underground Femaleroad. |
 | greasepaint | 化妆油彩 | This is like backstage: greasepaint, smoke, the materials of illusion. |
 | swashbuckling | 侠客式的；恣意冒险的 | I want gallantry from her, swashbuckling, heroism, single-handed combat. |
 | gallantry | 勇武；骑士风度 | I want gallantry from her, swashbuckling, heroism, single-handed combat. Something I lack. |
