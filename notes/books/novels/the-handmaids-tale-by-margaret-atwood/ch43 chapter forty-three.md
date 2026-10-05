@@ -15,7 +15,7 @@ modified: "2026-10-05"
 
 ## 精读
 
-> **原句 1:** The three bodies hang there, even with the white sacks over their heads looking curiously stretched, like chickens strung up by the necks in a meatshop window; like birds with their wings clipped, like flightless birds, wrecked angels.
+> **原句 1:** THE THREE BODIES hang there, even with the white sacks over their heads looking curiously stretched, like chickens strung up by the necks in a meatshop window; like birds with their wings clipped, like flightless birds, wrecked angels.
 
 - **中文理解**：「那三具尸体吊在那儿，头上的白袋绷得有些怪异——像肉铺橱窗里串着脖子挂起的鸡；像剪了翅的鸟，像不会飞的鸟，坠毁的天使。」
 - **关键词**：like chickens strung up · flightless birds · wrecked angels
