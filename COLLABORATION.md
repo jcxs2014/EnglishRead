@@ -72,6 +72,10 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 明细见工作日志 `.memory/daily/2026-10-05.md`；门禁原件 `.memory/raw-gates/how-to-be-resilient-by-gail-gazelle/`。
 
+**《How to Be Resilient》五步审查（how-to-be-resilient-by-gail-gazelle，2026-10-05 用户同会话发起，a–e 全执行、未自我豁免）——阻断型 30 处全整改，复验 gate.sh EXIT=0**
+
+a 门禁全量重跑：verify_quotes **115/115**（--full 取证 0）· vocab FAIL 0 · sweep_full 90/0/0/0 · 逐章 90/90 · 总览 25/25＋整串 36 命中/标签 36 对 0 不符。b 第二实现独立 flat 归属扫描 122 条 0 异常（投毒注入错章引语→正确报出后还原）。c 结构双实现 0。d 机械第二实现报 3 条真缺陷（ch02 `act`→`react` 改写、ch05 predictor 短语非连续截取、ch08 自造英文修辞）＋3 组子代理语义二审 90 块（附 3 个真实失败案例＋防幻觉条款）报 27 处——**合计 30 处全整改**：引语截短 3（ch01/ch09 原句9 补齐首句、ch05 原句7 补译 Deidre 句）、中文理解欠覆盖/加戏 8、结构计数错 7、方位与语法标签错 4、计数词错 2、其他 6。e 概述人物断言抽核全中＋跨书污染自检补录（案例人名在他书出现系常见名，本书内容全部由本书 text/ 逐字支撑）。三档：阻断 30 全改｜提示 2 记录（ch08 语法标签、Hilde 措辞）｜假红 4（ch01 概览书名/出版方=epub 书名页/版权页逐字、check_overview_labels 口径、verify_corpus 非虚构免 anchors）。**局限（同会话审查）**：执行方＝审查方；对冲——门禁重跑、b/c/d 全换第二实现、语义层 3 子代理不带写作上下文；未对冲——语义终判由同一会话采信子代理报告。整改 commit `341ec3f1b`（复验 gate EXIT=0）。
+
 ### [2026-10-05 16:12 UTC] [DSH-Mac] → All
 
 《Homeseeking》Karissa Chen 精读完工 + 五步独立审查｜homeseeking-by-karissa-chen
