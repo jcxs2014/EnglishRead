@@ -29,17 +29,7 @@ modified: "2026-10-05"
 
 **读者视角提示**：这句话同时解释了她为什么被排除在那个小圈子之外：她进不去的地方，正是她最想去的地方。
 
-> **原句 2:** I wish I could do that, but I’ve never known how to paint from a place of happiness. I only paint what I want to change or what I don’t already have.
-
-**中文理解：** 她只画两样东西：想改变的，和本来就没有的。
-
-**关键词：** I only paint（我只画）；what I want to change（我想改变的东西）；what I don’t already have（本来就没有的东西）
-
-**为什么这样写**：十个字把她的整个人生说完了。作者让一个从未被人理解过的画家用自己的方法讲出了自己——她的每一张画都是一份缺的东西的清单。
-
-**读者视角提示**：这句可以和第 1 章那句「想要得越用力越够不着」对读：那一句是关于想要的，这一句是关于画的，而两者的逻辑完全一致。
-
-> **原句 3:** “I just find it incredibly fascinating,” he says. “How you can say something you don’t believe in with such conviction. Were you always such a good liar?”
+> **原句 2:** “I just find it incredibly fascinating,” he says. “How you can say something you don’t believe in with such conviction. Were you always such a good liar?”
 
 **中文理解：** 他说：能把一句自己不信的话说得这么笃定，这本身很迷人。你一直这么会撒谎吗？
 
@@ -49,7 +39,7 @@ modified: "2026-10-05"
 
 **读者视角提示**：这是全书最温和的一次揭穿：他没有报警，没有追问，只是指出了她的演技很好。而她没有否认。
 
-> **原句 4:** “I would never move on,” Aaron says softly. “I would never take your paintings down.”
+> **原句 3:** “I would never move on,” Aaron says softly. “I would never take your paintings down.”
 
 **中文理解：** 他说，我永远不会把你的画撤下来。
 
@@ -59,7 +49,7 @@ modified: "2026-10-05"
 
 **读者视角提示**：全书唯一一句不要求她变成别人的人说的话。她整本书都在被人要求成为杰西卡，而他要的只是她那些没人要的画。
 
-> **原句 5:** Because even if Mr. Howard came here dressed in a garbage bag, it wouldn’t change the fact that he’s important. His approval matters.
+> **原句 4:** Because even if Mr. Howard came here dressed in a garbage bag, it wouldn’t change the fact that he’s important. His approval matters.
 
 **中文理解：** 她还在笑——因为无论校长穿成什么样，他的认可都重要。
 
@@ -69,7 +59,7 @@ modified: "2026-10-05"
 
 **读者视角提示**：紧接着校长把她的姓叫错，把她认成另一个人。而她维持笑容的第一理由不是礼貌，是这一句。
 
-> **原句 6:** I don’t know why I’m still smiling, why it’s so important to maintain my facade of politeness. “Jessica Chen,” I say.
+> **原句 5:** I don’t know why I’m still smiling, why it’s so important to maintain my facade of politeness. “Jessica Chen,” I say.
 
 **中文理解：** 她纠正他：杰西卡·陈。他又确信地重复一遍：杰西卡·张。
 
@@ -79,7 +69,7 @@ modified: "2026-10-05"
 
 **读者视角提示**：这是全书最好的一处喜剧，而它的底子是彻底的绝望：两个姓只差一个音节的人，被同一个权威当成了同一个人。
 
-> **原句 7:** Everything gets so heavy. I wish somebody else would just come and take over my life. Live it for me. Please. If the universe is listening; if the stars could grant me any impossible wish, then all I ask for is this:
+> **原句 6:** Everything gets so heavy. I wish somebody else would just come and take over my life. Live it for me. Please. If the universe is listening; if the stars could grant me any impossible wish, then all I ask for is this:
 
 **中文理解**：她写：有时候我累坏了。什么都会变得那么重。我只求有个人能来，把我的人生接过去，替我活。
 
@@ -88,16 +78,6 @@ modified: "2026-10-05"
 **为什么这样写**：作者让这句日记和第一章许下的那个愿望逐字同构。同一个句式、同一副身体、两个人——只是这一次的申请人是**真正的**杰西卡。而读者到这里才明白：她们换的不是身份，是彼此最想要的那个东西。
 
 **读者视角提示**：这一句必须和下一句连读。整本书的谜底不是「她是谁」，而是「她们都想要对方的哪一个」。
-
-> **原句 8:** Everything gets so heavy. I wish somebody else would just come and take over my life. Live it for me. Please. If the universe is listening; if the stars could grant me any impossible wish, then all I ask for is this:
-
-**中文理解**：如果宇宙在听，如果星星能实现任何一个不可能的愿望，那么她只要这一件——
-
-**关键词：** if the universe is listening（如果宇宙在听）；if the stars could grant me any impossible wish（如果星星能实现任何一个不可能的愿望）
-
-**为什么这样写**：全书唯一的完整许愿结构，而且和第一章那句同样出现在夜空下。不同的是：第一章的杰娜想变成她，而这一章的杰西卡想不再是她。作者用一个对称句式把整本书翻转，而翻转的支点是一颗流星。
-
-**读者视角提示**：这句与第 1 章末句构成全书最硬的一条结构线。读到这里再回看第一章那句「我想当杰西卡」，它的意思已经完全不同了。
 
 ## 本章词汇
 
