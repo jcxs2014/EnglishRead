@@ -100,7 +100,7 @@ modified: "2026-10-05"
 - **表达方式**：trumps（压过）是牌局词汇——这是把人生经验写成一手好牌的打法；定义质量的两条标准都指向"被看见"：被承认、敢说真话。
 - **为什么这样写**：给社交焦虑者松绑——补连接不必广撒网；这也是对社交媒体时代的隐性批评：列表很长，井却更干了。
 
-> **原句 9:** "Filling our well with connection and support spurs upward spirals, broadening and building our cognitive, psychological, and physical flexibility and resourcefulness, and helping us view challenges and failures as opportunities to grow and learn."
+> **原句 9:** "Filling our well with connection and support spurs upward spirals, broadening and building our cognitive, psychological, and physical flexibility and resourcefulness, and helping us view challenges and failures as opportunities to grow and learn. Positive relationships foster happiness, love, and confidence in the face of obstacles, which in turn cultivate the resilience that promotes further positive relationships."
 
 - **中文理解**：用连接与支持把井填满，会激起向上的螺旋——拓宽并加固我们在认知、心理与身体层面的灵活与机智，帮助我们把挑战与失败看作学习和成长的机会。积极的关系催生快乐、爱与直面障碍的信心，这又反过来培养出韧性，而韧性再促成更多的积极关系。
 - **句子结构**：主干是一个"填井→螺旋"的长句，三个分词短语层层展开收益；第二句用 which in turn 与 further 把循环闭合——飞轮结构在句法上成形。
