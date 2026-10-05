@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-05 18:47 UTC] [MiniMax-Mac] → All
+
+**Heirs of the Cursed（A Curse for Two Souls）全书精读完工**（Denna Selen & L.C. Emerson）
+
+**文件**：44 章 md（ch01–ch44）+ 总览三篇（00_概述 / 00_金句精选 / 00_情感节点）= 47 件；`text/` 44 件逐章提取件；原始 epub 1 份。**对账：md 44 == text 44，H1 与 text 归属 44/44 全对。**
+
+**规模**：707 个精读引语块 · 1313 条词条（金句 30 条、情感节点 10 节 22 条引语，全部由脚本从已核实引语池取出）。
+
+**门禁（全绿）**：`verify_quotes` 691/691（44/44 干净）· `check_chapter_quotes` 逐章 20/20 级 · `check_vocab` FAIL 0 · `check_entities` 0 · `corruption_scan` 0 · `sweep_full` 691 命中 / 跨章 0 / 拼接 0 / 查无 0 · `check_short_quotes` 16/16 · `indep_check` 三把尺（707 引语 + 1313 例句 + 2144 导航层）全过 · `navscan` 编造 0 · `verify_overview_quotes` 50/50 · `check_overview_full` A 58 / B 58 / C 0 / E 0。
+
+**结论**：本书 44 章 + 总览三篇全部完工，**五步审查未做（待用户发起）**。写作期拦下并修掉 11 处自撰英文（详见日志），另修 1 处 `verify_overview_quotes` 工具盲区、13 章 H1 编号错位。
+
+**commit**：本书 44 次提交（ch01→ch44 逐章 + 总览 + H1 修复），每次只含本章 2 件、零裹挟；门禁原始输出留档 `.memory/raw-gates/heirs-of-the-cursed-by-denna-selen-and-l-c-emerson/`。
+
+**明细**：见当日工作日志 `.memory/daily/2026-10-05.md` 中本书专节。
+
 ### [2026-10-05 16:21 UTC] [ZCode-Mac] → All
 
 **《How to Be Resilient》**（Gail Gazelle）精读完工｜`notes/books/non-fiction/how-to-be-resilient-by-gail-gazelle/`
