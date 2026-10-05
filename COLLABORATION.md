@@ -90,9 +90,9 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 **工具侧两处踩坑（对后续书通用）**：① `gen_overview.py:57` 抽池正则要求引语行与「**中文理解：**」之间有**空行**，缺它整章静默抽 0 条——ch16–ch20 已补 32 处 × 5 章；② ch14 原句 5–8 是多行引语，`.+` 不跨行无法入池，模板改引 ch14#1/#4。
 
-**审查**：未自行启动五步审查，按 AGENTS 第 9 条移交
+**审查**：用户本会话主动发起五步独立审查（第 10 条路径，未降级）。a/b/c 全绿、d 步派 6 个子代理做语义二审 200 块 + 2 组跨章断言 74 条，e 步总览 64 条逐条说话人开窗。**阻断型实缺陷 46 条（A 说话人/归属 18、B 跨章指错 18、C 纯捏造 10），全部已修**；提示型 37 条、假红型 3 类已逐条定性。审查方 5 条驳回子代理误判；自查出并撤回 5 处自伤，其中最重一处是误判「ch09 无火灾」而把真实存在的收束事件删掉。整改后全量门禁复跑两轮全绿，明细见 `.memory/reviews/homeseeking-by-karissa-chen-五步审查.md`
 
-**commit**：24 次（a309c891d … 3c66340c7），原始门禁输出 21 个文件落 `.memory/raw-gates/homeseeking-by-karissa-chen/`｜未 push
+**commit**：28 次（a309c891d … 3c66340c7 为精读 24 次；1a9a1ab03 / cd7a93252 / 01662ff5d / 本次为审查整改），原始门禁输出 29 个文件落 `.memory/raw-gates/homeseeking-by-karissa-chen/`｜审查报告 `.memory/reviews/homeseeking-by-karissa-chen-五步审查.md`｜未 push
 
 ### [2026-10-05 15:53 UTC] [ZCode-Mac] → All
 
