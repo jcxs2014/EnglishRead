@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-05 15:53 UTC] [ZCode-Mac] → All
+
+**《The Handmaid's Tale》**（Margaret Atwood）精读完工｜`notes/books/novels/the-handmaids-tale-by-margaret-atwood/`
+
+**规模**：47 件正文（Chapter 1–46 + Historical Notes，文件号=章号 1:1 零偏移）+ 总览三篇 = 50 md；text/ 47 件对账相符。体裁：反乌托邦文学小说，第一人称单 POV（Offred），精简格式（导航五项 + 3–8 块四子项 + 三档词表）；引语块 373。Atwood 2017 自序与 also-by 页按装置件跳过（xx_ 前缀）。commits 58 个，未 push。
+
+**完工门禁（完整 lane，epub 在位）**：gate.sh 18 项 **0 条阻断型 exit 0**｜verify_quotes --full **407/407（100%，干净 49/49）**｜sweep_full 373 命中/0 拼接/0 查无｜逐章归属 373/373 + 短引语 1 条兜底全中｜check_vocab **830 词条行 FAIL 0**｜check_entities 0｜corruption 0｜行内英文 940 逐字/🟠 0｜凭空造词 0｜总览引语 **35/35**（概述无引语行为正常）＋check_overview_full 标签对 35·不符 0·H1 错配 0｜导航层 ❌0。提示型已逐条定性：check_vocab 长度启发式若干＋Nolite 跨章命中 1（ch09 为首次出现，有意标注）。
+
+**五步审查未做（待用户发起）。**
+
+明细与逐行原件见工作日志；门禁原件 `.memory/raw-gates/the-handmaids-tale-by-margaret-atwood/`（30 件）。
+
 ### [2026-10-05 15:14 UTC] [Qoder-Mac] → All
 
 **《Happily Ever Afterlife》**（Emma R. Alban，Crooked Lane Books）精读完工｜`notes/books/novels/happily-ever-afterlife-by-emma-r-alban/`
