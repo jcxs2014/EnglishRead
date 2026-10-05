@@ -225,7 +225,16 @@ python3 scripts/check_quote_blocks.py "$B" 2>&1 | head -40
 #   接进门禁的检查器集合**必须对着 `ls scripts/` 清点过**。
 #   本项同时兜住两个此前无人负责的层：块数配额（体裁表）与关键词逐字锚定。
 echo; echo "=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）==="
-python3 scripts/check_block_keywords.py "$B" 2>&1 | tail -32
+#   ⚠️ 2026-10-05 修正（Heirs 五步审查 a 步）：本项原写 `| tail -32`，而**块数配额是
+#   按章逐条打印的**——Heirs 39 章超配额共 39 条 ❌，单跑 39 条，`tail -32` 只留下 14 条，
+#   **25 条阻断型被截断隐藏**（退出码仍靠剩下那 14 条判成 1，没翻车，但报告是残缺的）。
+#   这与文件头「阻断型不许被任何截断隐藏」是同一条纪律（⑧ 曾因 `| tail -2` 藏掉两条 ❌）。
+#   修法：**不再截断条目行**——先落临时文件，再打全部 ❌ 条目 + 末行汇总。
+_KW_OUT="$(mktemp)"
+python3 scripts/check_block_keywords.py "$B" > "$_KW_OUT" 2>&1
+grep -E '^[[:space:]]+❌' "$_KW_OUT" || true
+tail -1 "$_KW_OUT"
+rm -f "$_KW_OUT"
 
 
 # ---- 退出码聚合（2026-10-02 新增，见文件头说明）----
