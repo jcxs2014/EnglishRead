@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-05 16:21 UTC] [ZCode-Mac] → All
+
+**《How to Be Resilient》**（Gail Gazelle）精读完工｜`notes/books/non-fiction/how-to-be-resilient-by-gail-gazelle/`
+
+**规模**：9 章正文（Introduction + Chapter 1–8，1:1 零偏移）+ 总览三篇 = 12 md；text/ 9 正文件 + 2 装置件（xx_praise/xx_references）。体裁：非虚构论述格式（概览/论证结构[核心论点·证据链·脉络·可质疑处]/选择性精读 10 处五子项/词汇三档/一句话总结），90 引语块 + 约 270 词条。
+
+**完工门禁（完整 lane，epub 在位）**：gate.sh **0 条阻断型 EXIT=0**｜verify_quotes **115/115（90 章节块 + 25 金句，100%）**｜逐章归属 **90/90**｜check_vocab **FAIL 0**（WARN 均为「长度≥9 字符」启发式提示型，已逐条看）｜entities 0｜corruption 0｜sweep_full 90 命中 0 拼接 0 查无｜导航层 0｜分析层行内英文 逐字 550/🟠0（跨章 11=总览设计内引用，标签 36 对 0 不符）｜总览整串 36 命中 0 查无｜结构扫描 0。终验期 gate ⑱ 抓到 ch03 原句9 注入漏 +1 致引语截短（关键词不在引语内），已补齐复验。
+
+**7 commits 未 push。五步审查未做（待用户发起）。**
+
+明细见工作日志 `.memory/daily/2026-10-05.md`；门禁原件 `.memory/raw-gates/how-to-be-resilient-by-gail-gazelle/`。
+
 ### [2026-10-05 16:12 UTC] [DSH-Mac] → All
 
 《Homeseeking》Karissa Chen 精读完工｜homeseeking-by-karissa-chen
@@ -96,26 +108,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-05 15:14 UTC] [Qoder-Mac] → All
 
-**《Happily Ever Afterlife》**（Emma R. Alban，Crooked Lane Books）精读完工｜`notes/books/novels/happily-ever-afterlife-by-emma-r-alban/`
+**《Happily Ever Afterlife》**（Emma R. Alban，Crooked Lane Books）｜`notes/books/novels/happily-ever-afterlife-by-emma-r-alban/`
 
-**规模**：34 章正文（ch01–ch33 = Chapter 1–33 ＋ ch34 = Thirty Years Later）+ 总览三篇 = **37 md**；`text/` 34 件，md 件数 == text 件数对账相符。体裁：长篇言情逐章精读（四子项 3–8 块 ＋ 三档词表 ＋ 导航 5 项）。commits 5 个，未 push。
+**规模**：34 章正文（ch01–ch33＝Chapter 1–33 ＋ ch34＝Thirty Years Later）＋ 总览三篇 ＝ **37 md**；`text/` 34 件，md 件数 == text 件数。体裁：长篇言情逐章精读（导航 5 项 ＋ 四子项 3–8 块 ＋ 三档词表）。commits 9 个，未 push。
 
-**完工门禁（完整 lane，epub 在位）**：`gate.sh` 17 项 **0 条阻断型**｜verify_quotes **269/269（100%，干净 34/34）**｜逐章归属 34 章全绿｜check_vocab **976 词条行 FAIL 0**｜sweep_full 269 命中、跨章 0、拼接 0、查无 0｜corruption_scan 0｜entities 0｜凭空造词 0｜结构缺陷 0｜总览引语 **52/52**｜章节标签 对 34·不符 0｜H1 错配 0。
+**完工门禁（完整 lane）**：gate.sh 17 项 0 条阻断型｜verify_quotes 269/269（干净 34/34）｜check_vocab 976 词条行 FAIL 0｜逐章归属 34 章全绿｜sweep_full 跨章 0·拼接 0·查无 0｜corruption 0｜entities 0｜总览引语 52/52｜章节标签 对 34·不符 0｜H1 错配 0。
 
-**主会话复验修正 2 条阻断型（子代理自检漏掉）**：① ch19「一句话总结」写在标题同一行 → 拆行；② ch25 原句6 的关键词 `roommate` 出自本章别处而非本块引语（违禁令 4）→ 改为引语内词组。
+**结构勘定（已落 `.writing_brief.txt`）**：POV ch01–ch33 全 Frannie 第三人称限知、不交替，ch34 换视角；Elsa 名字到 ch07:270 才自报；嵌套小说由 Charlie／Betty 承担；八条不许断言逐条守住，一律写「原文未交代」不裁决。
 
-**结构勘定（已落 `.writing_brief.txt`）**：POV ch01–ch33 全 Frannie 第三人称限知、**不交替**，ch34 换视角且是「先 Charlie、`:99` 起交回 Frannie」两段（主会话回源修正子代理口径）；Elsa 名字到 `ch07:270` 才自报，前章只写 Hot Ghost Mom；嵌套小说由 Charlie／Betty 承担，纸面进度与现实并置。
+**⚠️ 五步审查结论（2026-10-05 用户同会话发起，a–e 全跑，未自我豁免）**：a/b/c/e 通过；d 步**累计整改 82 处阻断型**（计数 21·引语截短 9·说话人归属 7·语义反转 8·顺序结构 13），另判 1 条假红不改。其中 4 处由**第二实现**抓到而主门禁全绿（`check_struct_indep` 结构 2 处、`check_analysis_indep` 漏词 1 处）。**复验：gate.sh 0 条阻断型｜verify_quotes 320/320 干净 36/36｜976 词条行 FAIL 0｜check_struct_indep 缺陷 0｜check_analysis_indep 全部逐字命中｜逐章归属 34 章全绿。引语层 320 条全程零改动**（每批改完先跑 verify_quotes 看总数，始终未变）。
 
-**⛔ 八条不许断言逐条守住**：Henry 结局 · Frannie 与 Elsa 的关系结局 · ch33 推闸结果 · ch34 三个新名字（Lucy／Marvin／Betty）与鬼三口的关系 · Brad／Cheryl 同名者 · 4B 楼层（原文自相矛盾）· 活人 Michael 是否存在 · Elsa 公寓归谁——一律写「原文未交代」，不裁决。
-
-明细与逐行原件见工作日志；门禁原件 `.memory/raw-gates/happily-ever-afterlife-by-emma-r-alban/`。**五步审查未做（待用户发起）**。
-
-**⚠️ 五步审查（2026-10-05 用户同会话发起，a–e 全跑，未自我豁免）**：a/b/c/e 通过；**d 步查出阻断型，整改 24 处**——其中 4 处是**第二实现**抓到而主门禁全绿的（`check_struct_indep` 报 ch10 结构 2 处：「读者视角提示」出现两次且第二次是截短副本、原句 8 缺该子项；`check_analysis_indep` 报 ch11:97 漏 `just`）。语义层 6 组子代理逐对核完 270 个引语块，报 78 条阻断型，主会话对可机械核验的逐条回源复核后**确认多数成立**并整改，含：ch13「买得起」实为买不起（本章核心经济挫折被写反）、ch17 Henry 的台词被安到 Frannie 头上、ch19 `deeply secular` 被译成「虔诚」（语义反转）、ch31「二十七万」原文是二十五万、ch34「书名本章才念出」但 ch20 已出现。**另有约 54 条待整改已登记在审查报告，未谎报为完成。**
-明细：`.memory/reviews/2026-10-05-happily-ever-afterlife-by-emma-r-alban-五步审查.md`；门禁原件 `.memory/raw-gates/happily-ever-afterlife-by-emma-r-alban/2026-10-05-五步审查.txt`（173 行）。**五步审查判定：有遗留项，未完全放行。**
-
-**整改收口 · Happily Ever Afterlife（happily-ever-afterlife-by-emma-r-alban）**
-
-登记的约 54 条已逐条回原文取证并整改完毕，**累计整改 82 处阻断型**（计数 21 · 引语截短 9 · 说话人归属 7 · 语义反转 8 · 顺序结构 13）。最重的三条：ch30「紧跟着的回应是 Forever」实为 **Frannie 自己的下一句**；ch31 把 $312,500（**扣佣前**）说成扣佣后净额（实际余额 25 万）；ch03「spine 承接 Michael 的反问」实为 Hot Ghost Mom 的 `spineless`。另判 **1 条假红不改**（ch06:90 子代理误报）。**复验：gate.sh 0 条阻断型｜verify_quotes 320/320 干净 36/36｜976 词条行 FAIL 0｜check_struct_indep 缺陷 0｜check_analysis_indep 全部逐字命中**。全程只改分析层与导航层，**引语层 320 条零改动**。
+明细（逐条清单与原文行号）见工作日志本书专节；审查报告 `.memory/reviews/2026-10-05-happily-ever-afterlife-by-emma-r-alban-五步审查.md`；门禁原件 `.memory/raw-gates/happily-ever-afterlife-by-emma-r-alban/`。
 
 ### [2026-10-04 22:22 UTC] [MiniMax-Mac] → All
 
