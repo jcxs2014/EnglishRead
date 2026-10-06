@@ -1,0 +1,72 @@
+================================================================
+ch07 词条 truth 缺陷：验证方 7 条缺口的逐条闭环证据
+生成时间：2026-10-06 UTC　｜　commit 0d8e176c3
+================================================================
+
+【缺口 1】不是假红：豁免要求 ch_corpus 为空
+  ch07 语料字节数:    21325
+  原句所在位置: text/ch07_chapter_six_blood.txt:308 存在 = 1
+  ⇒ 语料非空 ⇒ 假红豁免不成立 ⇒ 阻断型
+
+【缺口 2】She wonders whether 全书 0 次
+  md 命中数: 0
+  ⇒ 修复后全书 0 处
+
+【缺口 3】原文主语是 a woman，不是 She / 不是 Jenny
+  ch07:308 逐字：
+    Jenny picks a book at random. The cover crinkles when she touches it, so she draws back. On further inspection, its outside is preserved in a sheet of plastic. The pages are not confined in such a way. She turns them at random and finds she is reading about a woman on a beach with a man. Water crashes on a surf, a woman admires the taste of a man’s tongue (nothing to be particularly excited about, in her experience),
+  ⇒ 主语为『书中书里那个女人』；旧例句把它记成 Jenny = 伪造句法 + 错记人物归属
+
+【缺口 4】ch07:154 已改为逐字整句
+  修复前: | truth | 真实 | She wonders whether or not their love can be “true.” |
+  修复后: | true | 真的；真实的 | Curious, Jenny reads on, but an explanation on how love can exist as something “true” is not forthcoming. |
+
+  ⚠️ 与验证方建议的一处不同（有意为之）：
+  建议是把同表 :173 的 surf 例句搬过来；我改用 ch07:311 的另一句逐字整句，
+  因为 :173 那句已被 surf 占用，直接搬会让两行共用同一例句。
+  取用句(ch07:311): Curious, Jenny reads on, but an explanation on how love can exist as something “true” is not forthcoming. Does that mean there’s such a thing as false love? Can she use it to lure in the man? She flips pages forward to find more detail, but instead just reads about the woman eating “a muffin that was absolutely heavenly.” An explanation of the muffin’s relation to ecclesiastical matters is not explored.
+  该句逐字命中本章: 1
+
+【缺口 5】check_vocab FAIL (0)
+  词条行合计: 1114
+  --- FAIL (0) ---
+  --- WARN (40) ---
+  ⇒ 修复前 FAIL (1) → 修复后 FAIL (0)；词条行 1114 不变（换词非删行）
+
+【缺口 6】词头的 A/B 类裁决（AGENTS 第 5 条）
+  ch07 中 truth 词边界: 0
+  ch07 中 true  词边界: 2
+  全书 text 中 truth 的分布（epub 展平裁决：truth epub 7 次 ⇒ 本书有）：
+    ch20_chapter_nineteen_throat.txt
+    ch16_chapter_fifteen_veins.txt
+    ch18_chapter_seventeen_jaw.txt
+    ch11_chapter_ten_lips.txt
+    ch17_chapter_sixteen_cheek.txt
+    ch02_chapter_one_teeth.txt
+    ch04_chapter_three_rib.txt
+  ⇒ epub 有而本章 text 缺 = B 类语料缺失 ⇒ 处置为『优先改用文中真实词形』
+
+【缺口 7】审计档已记为阻断型并留修复前后对照
+  234:━━━ 十一、更正：ch07 那条 FAIL 不是假红，是阻断型（2026-10-06）━━━
+  262:  修复前：
+  264:  修复后（例句取自 ch07:311 的逐字整句，未被他处使用，故不与 :173 的 surf 例句重复）：
+  280:  > **假红的唯一合法依据是「参照集为空 / 例句确实在原文里但工具口径错了」。
+
+================================================================
+其余部分（验证方称无需返工）复跑结果
+================================================================
+  === 总计 206/206 引文可核实（100%）；完全干净文件 23/23；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+  词条行合计: 1114
+  --- FAIL (0) ---
+    ✅ 本章命中 165 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （逐章归属：全部 X/X in 本章 text）
+    ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+  === 总览引文 41/41 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+  === 引语块覆盖度：21 个 md，阻断型 0 处 ／ 提示型 0 处 ===
+  ══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
+  gate.sh exit=0
+
+  === 独立复核：扫 21 文件 / 167 个引语段 / 167 块 ｜ 报警 0 条 ===
+  --- 汇总：0 条 ---
+    FAIL 0 处（U+FFFD / 双句号）
+    报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
