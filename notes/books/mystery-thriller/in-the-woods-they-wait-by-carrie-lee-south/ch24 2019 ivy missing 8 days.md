@@ -17,83 +17,83 @@ modified: "2026-10-06"
 
 > **原句 1:** She pushed the front door open as far as the hoard would let her and shimmied her way into the house, a stale-aired coffin lined with rat’s nest materials. The stink of old urine and rotting leftovers settled on her skin and she tried not to grimace as she edged into the center where her mother sat wedged in her chair watching the news.
 
-**中文理解：** The stink of old urine and rotting leftovers settled on her skin
+**中文理解：** 她把前门推开到杂物允许的宽度，侧着身挤进屋子——那是一口不通风的棺材，塞满了窝巢一样的材料。旧尿和腐烂剩菜的气味贴在她皮肤上，她努力不作鬼脸，挪到中间，她母亲就卡在椅子里看着新闻。
 
-**关键词：** a ·   · s · t · a · l · e · - · a · i · r · e · d ·   · c · o · f · f · i · n ·   · l · i · n · e · d ·   · w · i · t · h ·   · r · a · t · ’ · s ·   · n · e · s · t ·   · m · a · t · e · r · i · a · l · s
+**关键词：** a stale-aired coffin lined with rat’s nest materials · The stink of old urine and rotting leftovers settled on her skin
 
 **为什么这样写：** 作者先把房子比作一口 stale-aired coffin——一口不通风的、塞满窝巢材料的棺材。棺材这个比喻不是修辞装饰：它同时说了两件事，一样东西被封在里面，一样东西已经死在里面。而她的进门动作也照着这个比喻写：门只开到杂物允许的宽度，人是 shimmied（侧身挤）进去的，不是走进去的。
 
-**读者视角提示：** 本块是这一章的气味起点。整章后面所有的对话都发生在这个房间里，所以这段先把鼻子里的东西交代清楚，后面母亲说出的那些话就自带了这股味道。
+**读者视角提示：** 本块是这一章的气味起点。整章后面所有的对话都发生在这个房间里，所以这段先把鼻子里的东西交代清楚，后面母亲说出的那些话就自带了这股味道。记住这个「棺材」。这一章里母亲把自己关在同一个空间里，说的却是相反的话——她不是被关进去的，她是自己留在里面的。
 
 > **原句 2:** “I don’t dream. I don’t go to sleep. I sit in this chair and I keep the television on until I fall unconscious, but I don’t go to sleep.”
 
-**中文理解：** but I don’t go to sleep
+**中文理解：** 「我不做梦。我不睡觉。我坐在这把椅子上，一直开着电视直到失去意识，可我不睡觉。」
 
-**关键词：** I ·   · k · e · e · p ·   · t · h · e ·   · t · e · l · e · v · i · s · i · o · n ·   · o · n ·   · u · n · t · i · l ·   · I ·   · f · a · l · l ·   · u · n · c · o · n · s · c · i · o · u · s
+**关键词：** I keep the television on until I fall unconscious · but I don’t go to sleep
 
 **为什么这样写：** 这段话最狠的地方在结构：她先否认（I don’t dream），再给出替代方案（I sit in this chair），最后用同一个否定句收尾（but I don’t go to sleep）。同一个说法在开头和结尾各出现一次，中间夹进一整套操作，于是「不睡觉」从一个状态变成了一项她每天在执行的决定。fall unconscious 也不是睡着——她连失去意识都要靠自己撑到撑不住为止。
 
-**读者视角提示：** 请注意电视在这里的功能：它不是为了看而开，是为了发声。有声音的房间和没有声音的房间，对她来说是两种房间。
+**读者视角提示：** 请注意电视在这里的功能：它不是为了看而开，是为了发声。有声音的房间和没有声音的房间，对她来说是两种房间。把这一块和下一块连起来读：这一块讲她用什么代替睡觉，下一块讲她为什么必须代替。顺序是先给方法，再给病因。
 
 > **原句 3:** “I saw him in dark places. Terrified, confused. Tight, close, claustrophobic spaces. And I kept hearing him, over and over, calling for us, just screaming. Always screaming. And I knew that if I could just see where he was, I could go get him. I couldn’t close my eyes… I just couldn’t bear to close them. I stopped sleeping in the bedroom. I stayed awake as long as I could, drinking coffee and pinching myself to stay awake because the darkness only meant more of the nightmare.
 
-**中文理解：** I knew that if I could just see where he was, I could go get him
+**中文理解：** 「我看见他待在暗处。害怕、困惑。逼仄、封闭、幽闭恐惧的空间。我一遍遍听见他喊我们，只是尖叫，一直尖叫。我知道只要我能看清他在哪儿，我就能去把他找回来。我没法闭上眼睛……我实在受不了闭上。我不再睡卧室里的那张床。我尽量一直醒着，喝咖啡、掐自己保持清醒，因为黑暗只会带来更多的噩梦。」
 
-**关键词：** T · i · g · h · t · , ·   · c · l · o · s · e · , ·   · c · l · a · u · s · t · r · o · p · h · o · b · i · c ·   · s · p · a · c · e · s
+**关键词：** Tight, close, claustrophobic spaces · I knew that if I could just see where he was, I could go get him · the darkness only meant more of the nightmare
 
-**为什么这样写：** the darkness only meant more of the nightmare
+**为什么这样写：** 作者用一串三词短句把幻象写成一个身体感受：Tight, close, claustrophobic——三个词都在说空间被压小了，而不是在说害怕。更重的是中间那句逻辑：她必须先看见，才能去救；于是不闭眼就不是熬夜，而是唯一还能行动的前提。最后收在 the darkness only meant more of the nightmare，把黑夜本身写成危险物。
 
-**读者视角提示：** 作者用一串三词短句把幻象写成一个身体感受：Tight, close, claustrophobic——三个词都在说空间被压小了，而不是在说害怕。更重的是中间那句逻辑：她必须先看见，才能去救；于是不闭眼就不是熬夜，而是唯一还能行动的前提。最后收在 the darkness only meant more of the nightmare，把黑夜本身写成危险物。
+**读者视角提示：** 这一段是全章最重的自白，而她说得很平静——平静本身就是可怕的地方。请注意她用「我们」：calling for us，一家人都被算在里面。记住这三种空间描述：狭小、封闭、幽闭恐惧。同一章稍后她提到自己踩进的那片 clearing 时的感觉，也是同一类身体记忆。
 
 > **原句 4:** “I wanted to ask… how did you know when to stop? When to give up?”
 
-**中文理解：** how did you know when to stop?
+**中文理解：** 「我想问……你当初是怎么知道该停了？什么时候该放弃？」
 
-**关键词：** I ·   · w · a · n · t · e · d ·   · t · o ·   · a · s · k
+**关键词：** I wanted to ask · how did you know when to stop? · When to give up?
 
-**为什么这样写：** When to give up?
+**为什么这样写：** 提问被拆成两半，之间停了一次：how did you know when to stop? 问的是方法，When to give up? 问的是许可。第二句更小、更短，作者用它的短促标出这次谈话真正的落点。前面那个 I wanted to ask… 带一个省略号，让请求先于问题出现——她知道自己要问的东西不好开口。
 
-**读者视角提示：** 提问被拆成两半，之间停了一次：how did you know when to stop? 问的是方法，When to give up? 问的是许可。第二句更小、更短，作者用它的短促标出这次谈话真正的落点。前面那个 I wanted to ask… 带一个省略号，让请求先于问题出现——她知道自己要问的东西不好开口。
+**读者视角提示：** 这两个问题问的不是同一件事。第一个想知道方法，第二个想要有人替她宣布结束。问法里带着她已经快要撑不住。请把她的请求对象记下来：someone with experience, someone official。她要的不是安慰，是一个有资格下结论的人来告诉她结论。
 
 > **原句 5:** “We were on horseback, in the backcountry, and we found a clearing filled with cairns. A lot of cairns. It was dead silent, and I had this overwhelming urge to get the fuck out of there—” Her voice trembled as she talked, which frustrated her. She didn’t want to seem weak or childish.
 
-**中文理解：** It was dead silent
+**中文理解：** 「我们骑马进了偏远内陆，发现一片空地，全是石堆。很多石堆。静得死一样，我有一种压倒性的冲动想他妈立刻滚出去——」她说话时声音在抖，这让她很恼火。她不想显得软弱或孩子气。
 
-**关键词：** w · e ·   · f · o · u · n · d ·   · a ·   · c · l · e · a · r · i · n · g ·   · f · i · l · l · e · d ·   · w · i · t · h ·   · c · a · i · r · n · s · . ·   · A ·   · l · o · t ·   · o · f ·   · c · a · i · r · n · s
+**关键词：** we found a clearing filled with cairns. A lot of cairns · It was dead silent · this overwhelming urge to get the fuck out of there
 
-**为什么这样写：** this overwhelming urge to get the fuck out of there
+**为什么这样写：** 作者用一次重复把数量推到异常：a clearing filled with cairns 之后紧接 A lot of cairns，一句话说了两遍，而第二遍只有三个词。紧接着两个短感官事实压上来——死寂，加上一种压倒性的逃跑冲动。真正值得注意的是作者随后补的一句：她讲这件事时声音在抖，而她为这个抖感到恼火。恐怖被写成了她在自我管理时的失误。
 
-**读者视角提示：** 作者用一次重复把数量推到异常：a clearing filled with cairns 之后紧接 A lot of cairns，一句话说了两遍，而第二遍只有三个词。紧接着两个短感官事实压上来——死寂，加上一种压倒性的逃跑冲动。真正值得注意的是作者随后补的一句：她讲这件事时声音在抖，而她为这个抖感到恼火。恐怖被写成了她在自我管理时的失误。
+**读者视角提示：** 本块是这一章里唯一一处她的粗口，也是唯一一处她对自己的叙述失去控制的地方。请注意恼火的指向：不是害怕，是怕自己显得不专业。把「我不想显得软弱」这句和第 6 块的压低声音放在一起看。她在办公室里两次压住自己的反应，而这两次都不是因为镇定，是因为她认为镇定才是该有的样子。
 
 > **原句 6:** “That’s not the first time Corbin and I have found these in the woods. I don’t think it was Ivy who left that cairn by the trail,” she whispered.
 
-**中文理解：** I don’t think it was Ivy who left that cairn by the trail
+**中文理解：** 「这已经不是科宾和我在林子里第一次发现它们了。我不认为步道边那个石堆是艾薇堆的。」她压低声音说。
 
-**关键词：** T · h · a · t · ’ · s ·   · n · o · t ·   · t · h · e ·   · f · i · r · s · t ·   · t · i · m · e ·   · C · o · r · b · i · n ·   · a · n · d ·   · I ·   · h · a · v · e ·   · f · o · u · n · d ·   · t · h · e · s · e ·   · i · n ·   · t · h · e ·   · w · o · o · d · s
+**关键词：** That’s not the first time Corbin and I have found these in the woods · I don’t think it was Ivy who left that cairn by the trail
 
 **为什么这样写：** 她用两句话做了件很难的事：先把「不是第一次」这个事实交给对方，再把责任从那个孩子身上移开。前一句是证据的累积，后一句是推论。整段压到最低的音量——she whispered——所以这句推论在办公室里几乎没有声音，作者却让它成了这一章唯一一次由她主动改变对方判断的发言。
 
-**读者视角提示：** 注意她说「不是那个孩子垒的」时的语法：I don’t think。用的是推测语气，不是断言。她已经学会不给主管看她还没把握的东西。
+**读者视角提示：** 注意她说「不是那个孩子垒的」时的语法：I don’t think。用的是推测语气，不是断言。她已经学会不给主管看她还没把握的东西。记住这个转变的方向：从第 5 块（她自己吓到说不出话）到这一块（她压着嗓子反推），一天之内她在这个人面前换了位置。下一块就是她换位之后的第一个结果。
 
 > **原句 7:** “I mean, I don’t know! Something left it there!”
 
-**中文理解：** I don’t know!
+**中文理解：** 「我的意思是，我不知道！有东西把它放在那儿的！」
 
-**关键词：** S · o · m · e · t · h · i · n · g ·   · l · e · f · t ·   · i · t ·   · t · h · e · r · e
+**关键词：** Something left it there · I don’t know!
 
 **为什么这样写：** 全章最短的一块，而它承担了整章的转折。主管在回答「谁垒的石堆」时先说了 I don’t know，被她追问之后情绪失守，喊出了一句 I mean, I don’t know!——注意这里重复的不是「不知道」，是「我」。他把对象从人换成了物：Something left it there。这个词是全章唯一的新信息，而且它是吼出来的。
 
-**读者视角提示：** 她紧接着抓住了这个用词，并且当场把它拆开：某物，不是某人。这个追问是这一章的转折点，因为主管必须回答一个他从没准备回答的问题。
+**读者视角提示：** 她紧接着抓住了这个用词，并且当场把它拆开：某物，不是某人。这个追问是这一章的转折点，因为主管必须回答一个他从没准备回答的问题。请记住「某物」这个词第一次被大声说出来的位置。它在第 8 块被正式命名，而在那之前，这个林子里只被认为住着一个模糊的存在。
 
 > **原句 8:** He closed his eyes and rubbed his temples. “You’re smart, Audrey. I know you’ve seen things, you’ve felt things. There’s something living in these woods that makes cairns, and when folks follow them, they don’t come back.”
 
-**中文理解：** There’s something living in these woods that makes cairns
+**中文理解：** 他闭上眼睛，揉着太阳穴。「你很聪明，奥德丽。我知道你见过一些东西，也感觉到过一些东西。这片林子里有个活物在垒石堆，而跟着石堆走的人，都没能回来。」
 
-**关键词：** Y · o · u · ’ · r · e ·   · s · m · a · r · t · , ·   · A · u · d · r · e · y · . ·   · I ·   · k · n · o · w ·   · y · o · u · ’ · v · e ·   · s · e · e · n ·   · t · h · i · n · g · s · , ·   · y · o · u · ’ · v · e ·   · f · e · l · t ·   · t · h · i · n · g · s
+**关键词：** You’re smart, Audrey. I know you’ve seen things, you’ve felt things · There’s something living in these woods that makes cairns · when folks follow them, they don’t come back
 
-**为什么这样写：** when folks follow them, they don’t come back
+**为什么这样写：** 这段说明的结构是先承认她的经验，再交出事实：You’re smart 先把她从被管理者的位置上提起来，然后才说 There’s something living in these woods。垒石堆被写成一个持续的行为（makes），而最后半句用 don’t come back 给出后果，却没有说死是死是活。作者让最严重的信息用最平的口气落地。
 
-**读者视角提示：** 这段说明的结构是先承认她的经验，再交出事实：You’re smart 先把她从被管理者的位置上提起来，然后才说 There’s something living in these woods。垒石堆被写成一个持续的行为（makes），而最后半句用 don’t come back 给出后果，却没有说死是死是活。作者让最严重的信息用最平的口气落地。
+**读者视角提示：** 这是本卷到目前为止关于那个东西最明确的一次说明，而给出说明的人是被她逼到墙角才说的。请注意他仍然没有说那是什么。把这一块和第 7 块连读：上一块他喊的是某物，这一块他说它 living。一个会垒石堆、会设陷阱、并且住在洞穴系统里的活物——这一章给出的全部内容就是这个轮廓。
 
 ## 本章词汇
 
