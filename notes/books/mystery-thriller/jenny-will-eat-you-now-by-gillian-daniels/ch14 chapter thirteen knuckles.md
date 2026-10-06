@@ -41,7 +41,7 @@ modified: "2026-10-06"
 
 **关键词：** And Jenny pauses · recognizes herself in this woman · physically overwhelming and murdering her · bite first or be bitten · run through with a spear
 
-**为什么这样写：** 这是本书把「怪物」与「人」放进同一个模具的一次操作，三个短句把她的求生逻辑压缩成 bite first or be bitten——这是一个**对称**的公式，两边是同一个动作。而作者随后把公式套到对方身上，于是观众被逼着回答一个本章不回答的问题：按她自己的定义，这个刚骂完种族主义的苍白女人，是不是也够格被她捏住手腕？注意这里的凶器是 spear——那是一件**不属于她的**、真正属于人类的武器，作者用它提醒读者：她怕的东西从头到尾都是人。
+**为什么这样写：** 这是本书把「怪物」与「人」放进同一个模具的一次操作，三个短句把她的求生逻辑压缩成 bite first or be bitten——这是一个**对称**的公式，两边是同一个动作。而作者随后把公式套到对方身上，于是观众被逼着回答一个本章不回答的问题：按她自己的定义，这个刚骂完种族主义的苍白女人，是不是也够格被她抓住手腕不放？注意这里的凶器是 spear——那是一件**不属于她的**、真正属于人类的武器，作者用它提醒读者：她怕的东西从头到尾都是人。
 
 **读者视角提示：** 请把下一段连着读。承认对方像自己，并不等于她放开了对方的手。
 
@@ -174,7 +174,7 @@ modified: "2026-10-06"
 | bickered | 争吵 | They weren’t always quiet, especially when they bickered, but she knew what the films were about and what was happening. |
 | mildew | 霉味；霉菌 | In the tight space, she smells cooking grease and stale sweat, hot butter, the remnants of marijuana and tobacco smoke, fried sugar, beer, mildew in the carpet, and breath laced with garlic, laughter, spit, and heat. |
 | marijuana | 大麻 | In the tight space, she smells cooking grease and stale sweat, hot butter, the remnants of marijuana and tobacco smoke, fried sugar, beer, mildew in the carpet, and breath laced with garlic, laughter, spit, and heat. |
-| Knuckles | 指节 | Chapter Thirteen: Knuckles |
+| Knuckles | 指节 | When she looks down to admire his knuckles, she sees hers now have a green blush. |
 
 ## 一句话总结
 
