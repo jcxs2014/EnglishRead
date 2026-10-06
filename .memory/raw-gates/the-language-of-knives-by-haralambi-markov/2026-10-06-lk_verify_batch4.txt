@@ -1,0 +1,14 @@
+########## ch12 ##########
+
+── ch12 spring is violence spring seeks blood.md ──
+   引语块 10 ｜ 词表行 35 ｜ 中文层英文片段 0 ｜ text/ 12719 字符
+   ✅ 本脚本 0 报警
+
+=== lk_verify_batch：合计报警 0 项 ===
+########## ch13 ##########
+
+── ch13 baba yaga helps build a house.md ──
+   引语块 10 ｜ 词表行 51 ｜ 中文层英文片段 1 ｜ text/ 63314 字符
+   ✅ 本脚本 0 报警
+
+=== lk_verify_batch：合计报警 0 项 ===
