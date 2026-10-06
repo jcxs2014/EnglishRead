@@ -1,0 +1,17 @@
+=== 批12a门禁 ch17 2026-10-06 ===
+--- verify_quotes ---
+ch17 chapter seventeen.md: 8/8 ✅
+
+=== 总计 142/142 引文可核实（100%）；完全干净文件 19/19；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- check_vocab ---
+--- FAIL (0) ---
+--- WARN (35) ---
+--- check_entities ---
+  ❌ ch17 chapter seventeen.md: Hadrian-Rowan, Mama-Daddy, Mama-Hadrian
+--- corruption_scan ---
+  FAIL 0 处（U+FFFD / 双句号）
+--- sweep_full ---
+  ✅ 本章命中 142 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+--- check_chapter_quotes 17 ---
+全章扫描: 解析引语块 142，命中本章 142（100%）
+✅ 全部引语均归属正确章节
