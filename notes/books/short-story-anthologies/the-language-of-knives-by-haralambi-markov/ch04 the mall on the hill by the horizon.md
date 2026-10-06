@@ -100,11 +100,11 @@ modified: "2026-10-06"
 
 ---
 
-> **原句 5:** "He closed the door and let her sleep. The last thing she’d seen before going to sleep was the Mall that still remained so far ahead. She was a pilgrim. He respected that. That made no sense to him at all, but he did not judge her for her failure. He’d do it for her. For all the others that hadn’t made it. He drove a while further, putting good distance between him and the automotive tomb out of respect for her peace."
+> **原句 5:** "He closed the door and let her sleep. The last thing she’d seen before going to sleep was the Mall that still remained so far ahead. She was a pilgrim. He respected that. He wasn’t thinking about not making it. That made no sense to him at all, but he did not judge her for her failure. He’d do it for her. For all the others that hadn’t made it. He drove a while further, putting good distance between him and the automotive tomb out of respect for her peace."
 
 **中文理解**：他关上那辆车的门，让她继续睡；在他看来，她临睡前看到的最后一个东西就是还远在天边的 Mall，所以她是个朝圣者。他尊重这一点，不去评判她没能走到，也不多停一分钟。
 
-**句子结构**：九个句子按"动作 → 解释 → 判断 → 立场 → 扩展"递进。第一句是并列谓语（closed the door and let her sleep）；第二句是主系表结构，主语 the last thing she’d seen 带过去完成时的定语从句；第三句最短，只有主系表；第四句又是短陈述；第五句 `He wasn’t thinking about not making it.` 用双重否定先排除一种解释，紧跟 `That made no sense to him at all, but he did not judge her for her failure.` 用 but 把否定落成判断；`He’d do it for her.` 与 `For all the others that hadn’t made it.` 是两个短句扩展动机；末句把立场落成动作 `He drove a while further…`。宗教词汇（pilgrim）本篇出现两次，都落在最短的句子上：第一次 `She was a pilgrim.` 写别人，第二次 `He wasn’t like the other pilgrims.` 写他自己——全篇的朝圣者说法由此从旁人的标签变成他自己的自称。
+**句子结构**：十个句子按"动作 → 解释 → 判断 → 立场 → 扩展"递进。第一句是并列谓语（closed the door and let her sleep）；第二句是主系表结构，主语 the last thing she’d seen 带过去完成时的定语从句；第三句最短，只有主系表；第四句又是短陈述；第五句 `He wasn’t thinking about not making it.` 用双重否定先排除一种解释，紧跟 `That made no sense to him at all, but he did not judge her for her failure.` 用 but 把否定落成判断；`He’d do it for her.` 与 `For all the others that hadn’t made it.` 是两个短句扩展动机；末句把立场落成动作 `He drove a while further…`。宗教词汇（pilgrim）本篇出现两次，都落在最短的句子上：第一次 `She was a pilgrim.` 写别人，第二次 `He wasn’t like the other pilgrims.` 写他自己——全篇的朝圣者说法由此从旁人的标签变成他自己的自称。
 
 **关键词**：
 - *pilgrim* — 朝圣者；把一次失败命名成一种身份，而不是"死人"
