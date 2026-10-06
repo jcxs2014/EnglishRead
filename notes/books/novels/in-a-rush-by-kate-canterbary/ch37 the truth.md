@@ -35,7 +35,7 @@ POV: Ryan
 **核心金句**：
 > "That was a game-time decision."
 > "It was all I'd ever wanted."
-> "I just want to spend the rest of my life loving you."
+> "I love you. Always have. Always will."
 
 ---
 
@@ -119,13 +119,13 @@ POV: Ryan
 
 **中文理解**："\"我只想用我的余生来爱你。\""
 
-**句子结构**："'I just want to spend the rest of my life loving you.'"（主谓宾）。
+**句子结构**："'I love you. Always have. Always will.'"（主系表）。
 
-**关键词**：I just want to spend the rest of my life loving you
+**关键词**：I love you / Always have / Always will
 
-**表达方式**：I just want to spend the rest of my life loving you是"我只想用我的余生来爱你"。
+**表达方式**：I love you是"我爱你"；Always have是"一直有"；Always will是"永远会"。
 
-**为什么这样写**：这是Ryan的最终告白。他只想用他的余生来爱她。
+**为什么这样写**：这是Ryan的承诺。他一直爱她，永远都会。
 
 ---
 
