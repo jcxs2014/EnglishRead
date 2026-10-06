@@ -10,7 +10,7 @@ modified: "2026-10-06"
 - **一句话概括**：她刚从母亲那里回来，怀着一肚子的水，隔着一片陌生的海滩跟泽克把话说开——问他会不会走，也被问到自己吃人这件事；随后停车场灯下出现两个人类男人和一件不该在人间的东西：克莱德与埃尔斯佩思，一桩关于海豹皮的旧夫妻账。前面半章是两个人在夜色里互相试探（礼貌、传统、不死的定义、离开的承诺），后面半章是她为克莱德出头、打输了又打回来，眼看着埃尔斯佩思在他怀里缩小、死去，最后当着泽克的面把那条手臂撕下来吃掉。
 - **情感弧线位置**：本章是她与泽克之间那条线最稳的一段，也是怪物言情里最不讲道理的一段——她在前半章确认了他不会走，后半章却当着他的面吃了人。「他留下」与「她吃人」被作者并排放进同一章，甜蜜与血腥之间没有过渡句。弧线形状是先升后折：泽克的那句「I understand.」是本章的顶点，她随即把这句话变成一次实测。
 - **Tropes 兑现/反转**：**兑现**——怪物言情里「我不吃你」这句承诺的第一次实测，测出的是她确实不想吃他，但确实吃得下别人。**反转**有三处。其一，本该是威胁者的她成了替人出头的那个，理由不是道德而是「我 like Clyde」。其二，配偶之间的旧账被翻成身体所有权问题：她偷走的是他的皮，于是她年迈而他年轻。其三，全章的收束句把「深爱」写成一种旁观姿态：她爱的人看着她吃人。
-- **人物弧线**：克莱德在本章之前一直是被写掉的配角（他是别人的丈夫、别人嘴里的名字），本章给了他一个完整的动作弧——先站着不动（被爱冻住），再趁乱撕皮，最后变成海豹下水。他不在场时是人物，一变成动物就只剩下剪影。埃尔斯佩思本章是本书少见的「人类版本的不死者」：她偷、她骂、她认输得干脆，最后缩小成一位好看又确实死掉的老太太。泽克的弧线最短也最关键：他从上一章的验证者退到本章的目击者，最后一句台词是理解，而理解并没有让他转身。
+- **人物弧线**：克莱德在本章之前一直是被写掉的配角（他是别人的丈夫、别人嘴里的名字），本章给了他一个完整的动作弧——先站着不动（被爱冻住），再趁乱撕皮，最后变成海豹下水。他不在场时是人物，一变成动物就只剩下剪影。埃尔斯佩思是本章的「人类版本的不死者」：她偷、她骂、她认输得干脆，最后缩小成一位好看又确实死掉的老太太。泽克的弧线最短也最关键：他从上一章的验证者退到本章的目击者，最后一句台词是理解，而理解并没有让他转身。
 - **叙事手法**：水路归来后立刻切到两盏灯的照明设计（月光被酸性橙色切一刀）· 以「manners」这种人类社交惯例解释物种差异的降调 · 把不死的定义权交给人（陪审式的停顿与道歉/祝贺二选一）· 用嗅觉承担认人功能 · 打斗写成体力账（她其实更弱）· 把同一副身体拆成两副牙 · 以旁观者一句童真比喻处理尸体 · 结尾一个动作句完成全书最重的一次公开。
 
 ## 精读
@@ -47,7 +47,7 @@ modified: "2026-10-06"
 
 > **原句 4:** “Sometimes I just pick over what’s left. Like a carrion crow, I feast on offal. Bodies on battlefields near lakes. The drowned.” She swallows. “Children who lost their way and fell. I leave what I can’t eat, like the bones.”
 
-**中文理解：** 「有时候我只是啄食剩下的。像一只食腐乌鸦，我享用下水。湖边战场上的尸体。溺水者。」她咽了一下。「迷路掉下去的孩子。我吃不完的会留下，比如骨头。」
+**中文理解：** 「有时候我只是啄食剩下的。像一只食腐乌鸦，我享用那些内脏。湖边战场上的尸体。溺水者。」她咽了一下。「迷路掉下去的孩子。我吃不完的会留下，比如骨头。」
 
 **关键词：** Sometimes I just pick over what’s left · Like a carrion crow, I feast on offal · Bodies on battlefields near lakes · The drowned · Children who lost their way and fell · I leave what I can’t eat, like the bones
 
@@ -61,7 +61,7 @@ modified: "2026-10-06"
 
 **关键词：** Make me, Jenny Greenteeth · squares her shoulders and raises her fists · She’s corded with muscle · the witchy woman of the deep · take up the mantle
 
-**为什么这样写：** 反派这一章的自我定位全在这几句里。她不否认自己是偷窃者，改为自己认领一个更老的称号——the witchy woman of the deep，而这个称号对她而言是可让渡的职位，于是她把神怪写成了可继任的编制。作者给了她 corded with muscle 这样的身体条件，让她有资格说这句话：她是本书里少见的靠身体而非神力与人对峙的对手。Elspeth 这个名字在此之前没有在本章被叫出，这一叫同时完成了点名与定性。
+**为什么这样写：** 反派这一章的自我定位全在这几句里。她不否认自己是偷窃者，改为自己认领一个更老的称号——the witchy woman of the deep，而这个称号对她而言是可让渡的职位，于是她把神怪写成了可继任的编制。作者给了她 corded with muscle 这样的身体条件，让她有资格说这句话：她是本章里靠身体而非神力与人对峙的对手。Elspeth 这个名字在本章更早处已由 Clyde 叫出（“Elspeth, please,”），所以她并不是被介绍才拿到身份的；这一段发生的是交接——她要詹妮接下 the witchy woman of the deep 这个称号，并说若拒绝她就自己接。
 
 **读者视角提示：** 她敢把深海巫婆当成一份差事，说明她见过的同类不止詹妮一个。这一章她输了，但这一句留下了一个更大的口子。
 
@@ -106,7 +106,7 @@ modified: "2026-10-06"
 | mortal | 必死的；会死的 | Yet she feels an affection for that wobbly, strange body of his, its mortal peculiarity. |
 | dreadful | 可怕的；糟糕的（此处指她对自己的估价） | She takes that dreadful fact, folds it away, into a cavern in her brain. |
 | carrion | 腐肉；死尸（carrion crow 即食腐乌鸦） | Like a carrion crow, I feast on offal. |
-| offal | 内脏；下水 | Like a carrion crow, I feast on offal. |
+| offal | 内脏；下水（此处指尸体内脏） | Like a carrion crow, I feast on offal. |
 | indignation | 愤慨；气恼 | Elspeth’s face grows red in indignation. |
 | betrayed | 背叛了 | “You betrayed me all those years ago.” |
 | immortality | 不死；长生 | “What woman wouldn’t take immortality for her own? |

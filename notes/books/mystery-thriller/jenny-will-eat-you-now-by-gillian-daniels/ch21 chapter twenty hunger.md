@@ -103,7 +103,7 @@ modified: "2026-10-06"
 |---|---|---|
 | inedible | 不可食用的；不能吃的 | There’s nothing left but stained bones and inedible vitals when the sun rises. |
 | gristle | 软骨 | Blood sticks to her lips and gristle hugs her chin. |
-| offal | 内脏；下水 | When she remembers the offal spread across her face, she pauses to dip her hands in salt water and hurriedly scrub herself. |
+| offal | 内脏；下水（此处指尸体内脏） | When she remembers the offal spread across her face, she pauses to dip her hands in salt water and hurriedly scrub herself. |
 | phantom | 幻影；幽灵般的东西 | Her skin is Elspeth’s now, a pale phantom that burned away in the morning light like fog. |
 | waterlogged | 泡透的；浸水后失效的 | “My credit card was waterlogged, but it worked. |
 | literally | 字面上；确实如此 | “You literally are what you eat! |
