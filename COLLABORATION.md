@@ -62,24 +62,21 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-06 08:52 UTC] [MiniMax-Mac] → All
 
-**《In the Woods They Wait》全书 33 章精读完工**（Carrie Lee South · 推理/悬疑 · 双时间线同一 POV）
+**《In the Woods They Wait》全书 33 章精读完工 + 五步审查已执行**
 
-**规模**：33 章 md + 总览三篇；263 章引语块 + 29 总览引语；词表 1214 条（三档）。
-**门禁（完整 lane，epub 在库）**：273/273 + 29/29 引文逐字、check_vocab FAIL0 WARN0、逐章归属 100%、corruption 0、分析层 1443 逐字 0 异常、结构缺陷 0、凭空造词 0、跨章指认 0 —— **0 条阻断型，退出码 0**。
-**对账**：text/ 33 件 == md/ 33 件，33 章全为 8 引语块，H1 与原文章标逐章互校通过。
-**门禁原件**：`.memory/raw-gates/in-the-woods-they-wait-by-carrie-lee-south/`（3 份）。
+**规模**：33 章 md + 总览三篇；263 章引语块 + 29 总览引语；词表 1214 条。Carrie Lee South · 推理/悬疑 · 双时间线同一 POV（2004 寻弟 / 2019 寻童）。
 
-**本轮修掉的真缺陷（当时门禁全绿）**：ch04 词头 spooked 与例句 spook 方向反了；ch18 四条例句与词头无关；ch21 一处指向后文的跨章呼应断言**该呼应在全书不存在**。
+**完工门禁**：273/273 + 29/29 引文逐字、check_vocab FAIL0 WARN0、逐章归属 100%、corruption 0、结构缺陷 0、凭空造词 0 ⇒ **0 条阻断型**。
 
-**工具侧修复（生产端，非内容手误）**：
-1. `make_vocab.py` 增 **V2b「例句必须含词头」**（单元 4/4 抓、6/6 放行；全书 1214 词条 0 例外）；
-2. `vocab_candidates.py` 修「逐字但内容损坏」两例：`3:15 a.m.` 被切成 `3:15 a.`（缩写腰斩）、`1.2 million` 被切成 `2 million`（数字腰斩），另 `--ch` 参数归一化；
-3. `check_overview_full.py` post 窗口 48 字符对长引语不够，致 ch32 被截成 ch3 的 5 处假红；
-4. 自写 `indep_check.py` 三处：投毒范围与扫描范围不一致造成假阴性、段数门槛不随范围缩放、参数不归一化。
+**五步审查（用户同会话发起，a–e 完整执行，不降级）**：a 门禁 12 项重跑 0 阻断；b 33 章 263/263 + cliffhanger 边界；c 硬核复验 264 块五子项/编号连续 0 问题；d **264/264 全量人判**；e 结局 7 断言 + 金句 10 条说话人逐条 grep。
 
-**可复用产出**（均在 `.build/`，已 gitignore）：带断言的构建器 `build_chapter.py`(A1-A8) / `make_vocab.py`(V1-V5b) / 收尾对账 `reconcile.py` / 人物首现索引 `entity_index.py`。引语全程程序化切出，**零手打**。
+**审查结论：门禁全绿下查出 阻断型 2 · 提示型 1 · 假红型 1，已全部处置。**
+- 阻断 ① `ch25:34` 分析层删否定词致**语义反转**（`doesn’t mean this is over`→`this is over`）；② `ch04:84` `Audrey’s veins` 写成 `her veins`，同块引语逐字为前者 ⇒ **引语对、分析错**。均已修。
+- 假红 `sweep_analysis_inline.py` 只切被引号包裹片段 ⇒ 分析层**裸写英文零覆盖却报「0 异常」**（是「没查」非「干净」）。新增 bare 通道，覆盖率 **1443→2364**，投毒自证有效。
+- 提示 1 处**不改**（概括性简写无语义损失，照单全改会改坏正当内容）。
 
-**五步审查未做（待用户发起）**。明细见当日工作日志。
+**整改后**：门禁 0 阻断、corruption 0、独立实现复验 759 条全命中。commit `0a0dce22d`。
+**明细见当日工作日志本书条目；门禁原件见 `.memory/raw-gates/in-the-woods-they-wait-by-carrie-lee-south/`。**
 
 ### [2026-10-06 07:52 UTC] [Opencode-Mac] → All
 
