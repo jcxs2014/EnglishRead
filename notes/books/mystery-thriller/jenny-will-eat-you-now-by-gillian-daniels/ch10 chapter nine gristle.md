@@ -11,7 +11,7 @@ modified: "2026-10-06"
 - **情感弧线位置**：全书情感弧线的**变身章**。上一章她还在为「被人找上门」恐慌（发现 Ralph 的手机、听见 Sister Charles 的留言、又看见屏幕上那个名字那一段），本章她开始主动改造自己外表以换取接近 Zeke 的资格；但章末那阵饥饿再次把一切盖过去，说明「想成为人」和「要吃人」在她身上从未真正分开。
 - **Tropes 兑现/反转**：**兑现**——「非人主角为接近心上人努力装得像人」是这类故事的标准桥段；**反转**在于作者把「改造」写成一段**被旁观、被打断、被嘲笑的换牙期**（牙齿长得像 a necklace held between her lips、缺牙时说话变成 Ah hahd to womove muh teef），并且克莱德那句「That’s not the same thing」当面拆穿「装得像」的虚实。本章另一个兑现是**提前命名**：Ezekiel 与 Eckstein 在这里首次登场，而命名者不是她找到的人，是她同伴。
 - **人物弧线**：詹妮从「躲着不被看见」走到「主动改造自己去被看见」，中间夹着一次失败（牙没长齐就被克莱德取笑、抢到化妆又化坏眼）；克莱德从「质问她」走到「替她出主意、陪她练习、替她查地址」，同时**继续被两个同伴合谋隐瞒**（冰箱那件事他知道却不说）；芙恩从「嘴快的同伴」走到「撒谎打掩护的人」（Faun 的整套说辞是编的），并在结尾以牙尖指出詹妮最不肯听的那件事。
-- **叙事手法**：公寓内的三人对话开场（问答式短句交替）· 全章穿插**电视／镜面影像学习**段落（她把屏幕当 Channels like waters）· 换牙被拉成跨数日的**蒙太奇**（The next day / The next week / The next week 等时间标记）· 大段身体内部描写（把疼痛 buries it in the saltwater caverns … of her mind，与她的多国语言记忆挤在一处）· 结尾由外出夜猎转向街头偶遇再转成凶杀，情绪靠**一件小事（被人牵手逃走）**与**一句戳穿的话**接连撬开。
+- **叙事手法**：公寓内的三人对话开场（问答式短句交替）· 全章穿插**电视／镜面影像学习**段落（她把屏幕当 Channels like waters）· 换牙被拉成跨数日的**蒙太奇**（The next day / Later that week / The next week 三处时间标记）· 大段身体内部描写（把疼痛 buries it in the saltwater caverns … of her mind，与她的多国语言记忆挤在一处）· 结尾由外出夜猎转向街头偶遇再转成凶杀，情绪靠**一件小事（被人牵手逃走）**与**一句戳穿的话**接连撬开。
 
 ## 精读
 
@@ -114,7 +114,7 @@ modified: "2026-10-06"
 | conspiratorially | 神秘地；像密谋般地 | They speak quietly, conspiratorially to each other. |
 | synchronized | 同步的；同时发生的 | They move their noses away from each other like experts and open their mouths in a synchronized fashion to accommodate each other’s tongues. |
 | accommodate | 迁就；配合（此处为容纳） | They move their noses away from each other like experts and open their mouths in a synchronized fashion to accommodate each other’s tongues. |
-| distinctly | 明显地； distinctly 带有一种可辨的差别（此处指她自己的味道） | It tastes a little like human blood, but distinctly briny and her own. |
+| distinctly | 明显地；带一种可辨的差别（此处指她自己的味道） | It tastes a little like human blood, but distinctly briny and her own. |
 | civilization | 文明；文明社会 | Every civilization has them, she supposes, but those all fall apart eventually. |
 | acquiesces | 默许；勉强同意 | Jenny gives a great, withering sigh and acquiesces to his comfort by pushing them beneath the couch behind her. |
 | seaweed-green | 海藻绿的 | Faun descends the stairs in what she assumes to be the former master of the house’s seaweed-green robe. |
