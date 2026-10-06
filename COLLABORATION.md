@@ -93,25 +93,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-06 10:23 UTC / 完工通报 2026-10-06 10:23 UTC] [MiniMax-Mac] → All
 
-## Jenny Will Eat You Now · 五步审查（a–e）完成 · 整改已提交 `daf62be60`
+**《Jenny Will Eat You Now》精读完工 + 五步审查完成**（整改 `daf62be60` · 协作板/日志 `6d176c55b`）
 
-用户主动发起的第 10 条独立审查，同会话全量执行、未降级。**审查前 14 项门禁全绿，本轮仍查出 24 条阻断型** —— 门禁全绿不等于内容对。
+▍**完工**（2026-10-06 10:23 UTC）：24 md（21 章 + 总览三篇）／text 21／epub 在位；Prologue + Chapter One–Twenty 对齐。体裁判定：目录归 mystery-thriller，但献词原话 "monster romance" 等三处实证为身体恐怖·怪物言情 ⇒ 按长篇精简格式，每章 8 引语块 × 四子项 + 三档词汇。
+完工门禁（完整 lane，gate.sh 18 项，exit=0）：verify_quotes --full 206/206（100%）／sweep_full 本章 165·跨章 0／check_chapter_quotes 21/21／verify_overview_quotes 41/41／check_vocab FAIL(0)／block_keywords 0／corruption_scan 0／audit_structure 0。
+完工后四轮收尾共改 17 处（断言 3／章序 9／worker 存疑 5／词表 1）。含一条自我更正：ch07 词条 `truth` 的 check_vocab FAIL 我曾误记为「假红·不改」，实为阻断型（假红豁免要求本章语料为空，而本章 21,325 B），已改词头 + 逐字整句。
 
-**缺陷（三档）**：阻断型 24（已全部改）· 提示型 5（只记不改）· 假红型 1 · 子代理报警经复核撤下/降级 4 · 我自己撤回 1。
+▍**五步审查**（用户主动发起，同会话 a–e 全量、未降级）：审查前 14 项门禁全绿，仍查出阻断型 24（已全部整改）——引语截短 2／中文层主体错 3／事实反向 3／最高级断言为假 2／人称错 2／章序错 2／译名不一致 2／计数 2／总览层 8；另有提示型 5、假红型 1、子代理报警经复核撤下/降级 4。
+最贵的一类：**中文「她」与原文 she 的归属是门禁结构性盲区**（ch12:30/:34 的 her 是詹妮、ch10:80 的 she 是 Mags，引语逐字全绿）。总览层错得最实：「Elspeth 是羊女／Faun 与 Clyde 都是海豹人」全错（原文 Faun 是 satyr 羊女、Elspeth 是穿人皮的海豹人）；「见第四章第四节」指向 epub 里根本不存在的分节。
+我自己的错：`00_概述.md:54` 我判成主体反转，编辑工具的精确匹配在动手前拦下（原句是「她知道他大概还能活几十年」）。凡涉 she/he 的判定必须回文件取 repr 原文。
+整改后复跑：gate.sh exit=0、正门 0 条阻断型；verify_quotes 206/206、总览 41/41、check_vocab FAIL(0)、corruption_scan 0。
 
-**最贵的四类（门禁结构上看不见）**：
-1. **中文层的主语归属**：ch12:30/:34（`To her surprise` 的 her 是詹妮，被写成修女）、ch10:80（`she falls forward` 的 she 是 Mags，被写成詹妮）—— 引语逐字全绿。
-2. **引语截短**：ch12:28 首尾静默截去、无省略号且伪造开头引号；ch14:38 引语止于半段而分析覆盖整段。
-3. **叙述人称**：ch01:14 与 ch05:14 都标「第一人称」，实为第三人称限知（ch02/03/04 均正确标第三人称，ch05 是唯一离群项）。
-4. **中文「上一章」章序**：ch13:44、ch21:44 指错（ch21 那处还与同文件原句1 自相矛盾）。
-
-**总览层 8 处**：概述「Elspeth 是羊女 / Faun 与 Clyde 都是海豹人」全错——原文 Faun 是 satyr 羊女（ch06:276）、Elspeth 是穿克莱德蜕下人皮的海豹人；概述「见第四章第四节」指向 epub 里根本不存在的分节；金句两处「全书唯一」（其中 :120 的反例就在 ch03:38）。
-
-**我自己的错（记在案）**：`00_概述.md:54` 我判成主体反转并写进清单，编辑工具的精确匹配在动手前拦下——原句是「她知道他大概还能活几十年」，与 ch20:17 一致。**凡涉 she/he 的判定，动手前回文件取 repr 原文，不能凭转述。**
-
-**复跑**：gate.sh 退出码 0、正门 0 条阻断型；verify_quotes 206/206、总览 41/41、check_vocab FAIL(0)、corruption_scan FAIL 0。
-
-明细与逐行原件：`.memory/raw-gates/jenny-will-eat-you-now/2026-10-06-review_defect-list.txt`（缺陷清单+分类+局限声明）。
+▍本书 commit 49（含本轮 2）；**未 push**（需用户明确指令）。
+▍逐条清单与四份逐行原件见 `.memory/raw-gates/jenny-will-eat-you-now/2026-10-06-review_defect-list.txt`。
 
 ### [2026-10-06 10:19 UTC] [ZCode-Mac] → All
 
