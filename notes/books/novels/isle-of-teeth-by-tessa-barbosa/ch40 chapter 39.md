@@ -820,7 +820,7 @@ modified: "2026-10-06"
 | peas | 豌豆（复数） | hardly larger than peas |
 | doors | 门（复数） | Doors slammed open |
 | rifles | 步枪（复数） | They aimed their rifles into the crowd |
-| name | 名字 | Do you know who I am |
+| name | 名字 | Do you know who I am? |
 | sergeant | 中士 | The sergeant did not lower his rifle |
 | reward | 赏 | a reward for turning this kid in |
 | coin | 金币 | the hundred-gold-coin reward |
