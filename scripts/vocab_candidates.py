@@ -109,10 +109,25 @@ def chapter_text(book_dir, ch):
     return require_chapter_text(book_dir, ch)
 
 
+# ⚠️ 2026-10-06 修（In the Woods They Wait ch07 实测）：小数点被当成句号。
+# 原文 `1.2 million acres of mountainous terrain`，旧正则切出「句」=
+# `2 million acres of mountainous terrain, almost two thousand square miles…`
+# —— 它**确实是逐字子串**（所以 V2 过、check_vocab 过、六道门禁全绿），
+# 但**把数字说错了**（1.2 million 变成 2 million）。
+# 这是「词中截断」盲区在**数字**上的同型，而且比词中截断更坏：词断错读者能看出来，
+# 数字断错是一句通顺的假话。
+# 修法：`.` 前后都是数字时**不切**（负数/缩写如 U.S. 同样受益）。
+_SENT_RE = re.compile(r'[^.!?\n]*?\.(?![0-9])[.!?]*|(?:[^.!?\n]*[!?]+)(?=\s|$)')
+
+
 def sentences(src):
-    """按句号/问号/叹号切句，保留原文标点（例句必须逐字）"""
+    """按句号/问号/叹号切句，保留原文标点（例句必须逐字）
+
+    **小数点不是句号**（见 _SENT_RE 注释）：否则例句会从数字中间开始，
+    造出「逐字但数字说错」的例句——这类损坏所有子串式门禁都看不见。
+    """
     out = []
-    for m in re.finditer(r'[^.!?\n]*[.!?]+(?=\s|$)', src):
+    for m in _SENT_RE.finditer(src):
         s = m.group(0).strip()
         if s:
             out.append((s, m.start()))
@@ -125,6 +140,13 @@ def pick_sentence(sents, pos, src, maxlen=140):
         if st <= pos < st + len(s) + 2:
             # 必须像个完整句子：以字母或开引号开头，且不是引号残片
             if not re.match(r'^[“‘\'A-Za-z0-9]', s):
+                return None
+            # ⚠️ 2026-10-06 补左边界守卫（ch07 `2 million` 实测）：
+            # 即使切句正则漏了，若「句首」紧贴在数字之后，说明仍是从数字中间起的
+            # （如 `1.2` 被切成 `2`）。左边界紧邻数字 ⇒ 判为碎片，直接放弃。
+            if st > 0 and src[st - 1].isdigit():
+                return None
+            if st > 0 and src[st - 1] == '.' and st > 1 and src[st - 2].isdigit():
                 return None
             if len(s) > maxlen:
                 return None

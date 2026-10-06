@@ -1,0 +1,108 @@
+=== 语料层验收（P0-0）: in-the-woods-they-wait-by-carrie-lee-south ===
+text/ 件数: 33
+  [1] 件数 33 == 预期 33  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 33 组 / 互查 1056 组  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (100 句)
+      首| 2004
+      末| She watched, unmoving, as he trudged farther and farther until he disappeared forever.
+    ch02 (249 句)
+      首| 2019
+      末| Meet me at the bridge.”
+    ch03 (143 句)
+      首| 2004
+      末| Until it did.
+    ch04 (357 句)
+      首| 2019
+      末| We’ve got a little girl missing.”
+    ch05 (399 句)
+      首| 2019: Ivy Missing 5 Hours
+      末| There were few things Audrey believed in, and the certainty of finding a missing person in Devil
+    ch06 (113 句)
+      首| 2004: Benny Missing 3 Days
+      末| She had just enough time to see a few people turn their heads in her direction before exhaustion
+    ch07 (76 句)
+      首| 2019: Ivy Missing 12 Hours
+      末| Never so impossible that she gave up hope.
+    ch08 (103 句)
+      首| 2004: Benny Missing 7 Days
+      末| We’ll keep looking as long as it takes.”
+    ch09 (207 句)
+      首| 2019: Ivy Missing 1 Day
+      末| There’s only so much a parent can take.
+    ch10 (145 句)
+      首| 2004: Benny Missing 3 Weeks
+      末| But she did wonder why he didn’t insist on knocking that one down.
+    ch11 (156 句)
+      首| 2019: Ivy Missing 2 Days
+      末| Somehow, she felt worse than when she had arrived.
+    ch12 (86 句)
+      首| 2004: Benny Missing 3 Months
+      末| He nodded, like it was the first time he’d ever heard of her, and she had never been more gratef
+    ch13 (160 句)
+      首| 2019: Ivy Missing 2 Days
+      末| This tiny barrette was more than they had ever found of Benny.
+    ch14 (151 句)
+      首| 2004: Benny Missing 4 Months
+      末| Benny wasn’t in that crevice.
+    ch15 (338 句)
+      首| 2019: Ivy Missing 3 Days
+      末| The day ended up being a rescue operation after all.
+    ch16 (140 句)
+      首| 2005: Benny Missing 6 Months
+      末| “I’m your family.”
+    ch17 (339 句)
+      首| 2019: Ivy Missing 4 Days
+      末| The flicker of panic in them reflected the same terror she’d felt in that cave.
+    ch18 (157 句)
+      首| 2019: Ivy Missing 4 Days
+      末| Something that could mimic the sounds of a lost child.
+    ch19 (160 句)
+      首| 2005: Benny Missing 7 Months
+      末| “I mean, who knows what’s really out there?”
+    ch20 (268 句)
+      首| 2019: Ivy Missing 5 Days
+      末| These felt like something else.
+    ch21 (212 句)
+      首| 2005: Benny Missing 9 Months
+      末| Without another word, Corbin grabbed their pack and Audrey grabbed the blanket and they scramble
+    ch22 (96 句)
+      首| 2019: Ivy Missing 7 Days
+      末| Tracy never broke eye contact with Audrey, who could almost hear the yip-howls of the stuffed co
+    ch23 (117 句)
+      首| 2005: Benny Missing 1 Year
+      末| Still, cool to think about.”
+    ch24 (275 句)
+      首| 2019: Ivy Missing 8 Days
+      末| With a sinking dread, Audrey understood why.
+    ch25 (72 句)
+      首| 2019: Ivy Missing 9 Days
+      末| “I’ll keep you updated if anything else comes up.”
+    ch26 (226 句)
+      首| 2019: Ivy Missing 10 Days
+      末| She slammed the door behind her.
+    ch27 (129 句)
+      首| 2006: Benny Missing 2 Years
+      末| How dismissive to ignore death just because you don’t think it’s permanent.
+    ch28 (429 句)
+      首| 2019: Ivy Missing 11 Days
+      末| She wanted to be angry with him, but she knew how it felt to not be believed.
+    ch29 (170 句)
+      首| 2019: Ivy Missing 12 Days
+      末| Just like a little brother to make a stupid joke right now.
+    ch30 (100 句)
+      首| 2006: Benny Missing 2 Years
+      末| Audrey suddenly didn’t care about how hunting helped the ecosystem.
+    ch31 (643 句)
+      首| 2019: Ivy Missing 13 Days
+      末| She choked out, “I’m sorry,” as she peeled back his fingers one by one to release it from his gr
+    ch32 (376 句)
+      首| 2019: Ivy Missing 14 Days
+      末| “We don’t know how abundant nor how widespread they may be,” Chaudhary continued, “but they’ve m
+    ch33 (155 句)
+      首| 2019: 4 Months After
+      末| “Good.”
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
