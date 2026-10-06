@@ -148,11 +148,11 @@ They both turned at the sound of a low growl. Not more than a hundred feet away 
 |---|---|---|
 | shivered | 颤抖 | Matiu shivered and turned away |
 | flooded | 淹没、涌上心头 | Memories flooded back |
-| crumbled | 崩溃、蜷缩 | Matiu crumpled into himself like a piece of parchment |
+| ruins | 废墟 | Houses he'd once visited had turned into toothy ruins |
 | hunched | 蹲伏、蜷缩 | hunched what looked like a large hairless dog |
 | howled | 咆哮、狂笑 | Jesson howled with laughter |
 | blotted | 遮蔽 | Clouds blotted out the last measure of moonlight |
-| gaped | 张开、破损 | Houses he'd once visited had turned into toothy ruins, gaping and empty |
+| gaping | 张开、破损 | Houses he'd once visited had turned into toothy ruins, gaping and empty |
 | pricked | 刺痛 | Matiu's skin prickled |
 | shifted | 移动 | the ground shifted under their feet |
 | envied | 羡慕 | He envied Jesson and the confidence in his voice |

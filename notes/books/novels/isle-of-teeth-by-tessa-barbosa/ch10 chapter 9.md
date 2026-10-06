@@ -118,11 +118,10 @@ modified: "2026-10-06"
 |---|---|---|
 | gasped | 屏住呼吸 | a thousand shades of green turned into patterns that made her gasp |
 | wound | 缠绕、卷裹 | Calyx undid the scarf she'd wound over her head and wrapped it around her neck |
-| nipped | 咬 | She always pretended to nip at him with her teeth |
+| hungriest | 最饥饿的 | No matter how hungry they were, she was the hungriest of them all |
 | wobbled | 摇晃、蹒跚 | Calyx wobbled to her feet |
 | familiar | 熟悉的 | That sense of familiarity nagged at her |
 | rag | 破布、碎布 | She shrugged off layers of rags one by one |
-| starve | 饥饿、饿死 | She was the hungriest of them all |
 | overheat | 过热 | her body overheated |
 
 ### ⭐ 基础
