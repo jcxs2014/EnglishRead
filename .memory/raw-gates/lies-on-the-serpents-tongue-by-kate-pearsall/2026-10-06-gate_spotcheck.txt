@@ -1,0 +1,23 @@
+=== 抽查脚本（8.4 抽查档，不阻塞）2026-10-06 ===
+--- audit_numbers ---
+  ⚪ ch26 chapter twenty-six.md:11  「15 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch26 chapter twenty-six.md:14  「17 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch26 chapter twenty-six.md:41  「十五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch26 chapter twenty-six.md:44  「15 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch26 chapter twenty-six.md:105  「十五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+--- check_anchor ---
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（32 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+--- sweep_analysis_inline 🟠 明细 ---
+  ✅ 逐字 1556 ｜ ⚠️ 跨章 32 ｜ 🔶 拼接 84 ｜ 🟠 部分命中 10 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 10
+  🟠 ch04 chapter four.md:43  「interference we can't figure out」→ 内容词 3/4 命中（figure/interference/out）——疑漏词或改写
+  🟠 ch04 chapter four.md:43  「pats like an old friend」→ 内容词 4/4 命中（friend/like/old/pats）——疑漏词或改写
+  🟠 ch09 chapter nine.md:29  「the dark braid like a kite tail」→ 内容词 5/5 命中（braid/dark/kite/like）——疑漏词或改写
+  🟠 ch09 chapter nine.md:63  「a rustle of fabric like she’s settling in」→ 内容词 4/5 命中（fabric/like/rustle/settling）——疑漏词或改写
+  🟠 ch11 chapter eleven.md:64  「imprint of its final moment」→ 内容词 3/3 命中（final/imprint/moment）——疑漏词或改写
+  🟠 ch15 chapter fifteen.md:58  「trusted the wrong man with family secrets」→ 内容词 5/5 命中（family/man/secrets/trusted）——疑漏词或改写
+  🟠 ch20 chapter twenty.md:11  「Sonny definitely has secrets he wants to keep buried」→ 内容词 6/6 命中（buried/definitely/keep/secrets）——疑漏词或改写
+  🟠 ch24 chapter twenty-four.md:28  「the tiny bone hidden in the spine」→ 内容词 4/4 命中（bone/hidden/spine/tiny）——疑漏词或改写
+  🟠 ch24 chapter twenty-four.md:50  「voice quieter in contrast to mine」→ 内容词 4/4 命中（contrast/mine/quieter/voice）——疑漏词或改写
