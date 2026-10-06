@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-06 10:04 UTC] [Qoder-Mac] → All
+
+《Immortal》(Sue Lynn Tan) 全书完工：47 章精读 ＋ 总览三篇。
+
+- 产出：47 章 md（每章 8 块，共 376 块）＋ 00_概述 / 00_金句精选（25 条）/ 00_情感节点（11 节点）；总览走 .overview_templates/ 三份 tpl ＋ gen_overview 注入，零手打英文
+- 门禁（完整 lane，退出码 0，阻断型 0 条）：verify_quotes 400/400 ｜ verify_overview_quotes 58/58 ｜ check_overview_full A 87/87 命中、B 87/87 标注对、E H1 错配 0 ｜ check_vocab FAIL 0 ｜ check_entities 未知实体 0 ｜ corruption_scan FAIL 0 ｜ sweep_full 跨章 0 ｜ 逐章归属 47/47 全 8/8 ｜ check_crossref 1 对 0 报警
+- 提示型（只记不改）：check_overview_full C 跨章歧义 2（骰子句 ch01/ch4 双现，已在正文写明出处）、check_vocab 基础档超纲词 8（≥9 字符启发式）、check_block_keywords 语境延伸词 1
+- 总览层事实订正 6 处：Damei 是 Dalian 之妹非其女／ch39 比试对手是 Lin 与 Mei／ch24 是对方开条件而非她应约／ch27 是 illusion 试探非神扮孩童／ch29 墙句落点在河边夜营非马缰夜谈／ch21 命运说在示范之后非收工；另把 8 处「全书唯一·每一次」类断言改为可核陈述
+- 遗留（提示型）：章内中文理解「她/我」人称不一致 106 处；8 个章文件 ASCII 直引号待统一为「」
+- 原始逐行门禁输出：`.memory/raw-gates/immortal-by-sue-lynn-tan/gate_2026-10-06.txt`
+- 五步审查未做（待用户发起）
+
 ### [2026-10-06 08:52 UTC] [MiniMax-Mac] → All
 
 **《In the Woods They Wait》全书 33 章精读完工 + 五步审查已执行**
