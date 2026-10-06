@@ -57,7 +57,7 @@ modified: "2026-10-06"
 
 **为什么这样写**：全章对 Sepal 的第一次正面描写，而它的技术是**让"精致"和"猫鼠"在同一个角色上**。"A tiny lump of cloth curled up on the metal floor of the carriage. A revenant."（一小团布蜷在车厢的金属地板上。一个归骸者。）**——"A revenant."（一个归骸者。）被单独成句**，**而它是对前面那团布的重新命名**：**读者先看见衣服，再看见物种**（与 ch32 里 Calyx 的看见方式相同）。而"she could kill him as easily as cat with a mouse in its paws"（她能像猫玩爪中的老鼠一样轻易杀了他）**——"a cat with a mouse in its paws"（爪中老鼠）是本书对归骸者杀伤力的固定比喻**，**而 ch36 里 Calyx 也用"as easily as"形容过同一个身量差**：**作者让最危险的生物长着一具孩子的身体。**
 
-> **原句 8:** "Sepal appeared more delicate than he'd imagined. She looked up at him with vacant eyes and hissed. She slammed herself against the wall and stuck her hand through the bars to gouge at Matiu's eyes. She could not reach him, but the misery of her state hit him all the same."
+> **原句 8:** "She looked up at him with vacant eyes and hissed. She slammed herself against the wall and stuck her hand through the bars to gouge at Matiu's eyes. She could not reach him, but the misery of her state hit him all the same."
 
 **中文理解**：Sepal 比他想象的更精致。她用空洞的眼睛抬头看他、嘶声。她把自己撞在墙上，把手伸出铁栏去抠 Matiu 的眼睛。她够不到他，可她那副痛苦还是撞到了他身上。
 
