@@ -105,7 +105,7 @@ modified: "2026-10-06"
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| gestated | 孕育；在……之内发育 | Men first gestated in the mouths of fish!’ ” Her translation from Greek—ancient and in a dialect not spoken here for a long time—is halting. |
+| gestated | 孕育；在……之内发育 | I knew it! Men first gestated in the mouths of fish! |
 | euphoria | 极度兴奋；欢欣 | She looks to Zeke in the hopes his regard will revive to similar heights of euphoria. |
 | treading | 踩（此处为踩水） | He looks pained as he stares down at his treading legs. |
 | spectacles | 眼镜 | Drops cling to his spectacles and he tries to wipe them away, serving only to make them more opaque as he splashes about. |
