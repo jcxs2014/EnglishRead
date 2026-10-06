@@ -45,7 +45,7 @@ modified: "2026-10-06"
 
 **关键词：** not the only thing on my mind（不只是我心里的那件事）；Damian…he did something odd yesterday（Damian……他昨天做了件奇怪的事）；Her body stiffens（她整个人一僵）；Define odd（说清楚「奇怪」）
 
-**为什么这样写：** 这一段的第一句是**结构上的预告**：她先声明「不只这一件事」，然后才说第二件；而 Raven 的反应（Her body stiffens）出现在「Damian…」这个姓名的半句之后，说明她等的其实是后面那句。她的回应只有四个词（Define odd），而这四个词是全书她对 Sophie 最典型的一次：不定性，先要定义。Sofie 这边的 him…he 那个破折号也是修辞上的标记——她说到他时需要一个缓冲。
+**为什么这样写：** 这一段的第一句是**结构上的预告**：她先声明「不只这一件事」，然后才说第二件；而 Raven 的反应（Her body stiffens）出现在「Damian…」这个姓名的半句之后，说明她等的其实是后面那句。她的回应只有四个词（Define odd），而这四个词是全书她对 Sophie 最典型的一次：不定性，先要定义。Sophie 这边的 him…he 那个破折号也是修辞上的标记——她说到他时需要一个缓冲。
 
 **读者视角提示：** 全章 Sophie 在车里做的所有铺垫（感动云在头上、maybe the dance competition will distract me）都在这句之后失效：她一提到他的名字，自己的议题就被顶掉了。
 

@@ -64,9 +64,17 @@ md = md_path.read_text(encoding="utf-8")
 for tag, quote in fixed:
     md = md.replace(f"«{tag}»", quote)
 
-left = re.findall(r"«Q\d+»", md)
+# ⚠️ 2026-10-06 修（EMNR ch43 实测假绿）：原判据 `re.findall(r"«Q\d+»", md)`
+# 要求成对的 »，所以**占位符被写坏时（`«Q8\`` 这类右括号落成反引号）正则匹配不到，
+# 残留检查静默通过、脚本仍打印「✅ 全部注入」并 exit 0**——而那一块根本没注入。
+# 现在改为「文件里只要还有任何一个占位符引号就算失败」，并打印可疑行号，
+# 让写坏占位符这种情况在注入这一步就被挡住，而不是留到门禁的关键词/逐字层才发现。
+left = [(i + 1, ln) for i, ln in enumerate(md.split("\n")) if "«" in ln or "»" in ln]
 if left:
-    print(f"❌ 仍有占位符未替换: {sorted(set(left))}")
+    print(f"❌ 仍有占位符未替换（{len(left)} 行）——"
+          "常见原因：占位符被写坏（如 «Q8` 缺右括号）或 tag 拼错：")
+    for n, ln in left[:8]:
+        print(f"   L{n}: {ln[:110]}")
     sys.exit(2)
 
 md_path.write_text(md, encoding="utf-8")
