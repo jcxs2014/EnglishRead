@@ -200,15 +200,15 @@ POV: Emme
 
 ---
 
-### 难点句2：第8句（Emme的承诺）
+### 难点句2：第8句（Ryan的疑问）
 
-> "I choose you. Every day. I choose this life with you."
+> "You didn't have a moment before our wedding."
 
-**结构**："I choose you."（主谓宾）+ "Every day."（省略句）+ "I choose this life with you."（主谓宾）。
+**结构**："You didn't have a moment before our wedding."（主谓宾）。
 
-**翻译**：我选择你。每天。我选择和你一起的这段生活。
+**翻译**：你在我们婚礼之前没有过一刻（属于自己的时刻）。
 
-**解析**：这是Emme的承诺。她选择Ryan——每天。她选择和他一起的生活。
+**解析**：这是Ryan对Emme说的话。他意识到因为这个"假婚姻"，Emme一直没有真正属于自己的时刻。
 
 ---
 
@@ -221,7 +221,7 @@ POV: Emme
 1. **Ryan的敏感**："You break my heart every time you say that."
 2. **Emme的Mardi Gras生活**：过去几个月的派对、香槟、可爱衣服
 3. **Ryan的建议**："You can't just pretend everything is okay and expect it to stay that way."
-4. **Emme的承诺**："I choose you. Every day. I choose this life with you."
+4. **Ryan的疑问**："You didn't have a moment before our wedding."
 
 **可迁移表达**：
 

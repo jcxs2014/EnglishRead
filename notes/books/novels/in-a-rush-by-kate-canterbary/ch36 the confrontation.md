@@ -34,7 +34,6 @@ POV: Emme
 **核心金句**：
 > "I held the ice to my face as I stared out the car window."
 > "I just want to know…" I leaned back against the sink, closing my eyes and pressing my fingers to my temples. "Was it just about the business deals?"
-> "I just want to know if you ever loved me."
 
 ---
 
@@ -165,4 +164,4 @@ POV: Emme
 **可迁移表达**：
 
 1. **The silence between us grew heavier by the minute.** — 我们之间的沉默越来越重。
-2. **I just want to know if you ever loved me.** — 我只是想知道你是否曾经爱过我。
+2. **Was it just about the business deals?** — 那只是关于生意吗？

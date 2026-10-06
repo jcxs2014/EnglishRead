@@ -21,7 +21,7 @@ POV: Emme
 |------|------|
 | Grace婚前派对 | Grace的last single party |
 | 秘密婚礼 | Emme和Ryan的"I do"婚礼 |
-| 婚礼誓词 | "I do. I love you. I choose you." |
+| 婚礼誓词 | "We were married to get revenge on this guy so why weren't we?" |
 | 婚礼后 | 两人去Vegas庆祝 |
 
 **段落脉络**：
@@ -34,9 +34,9 @@ POV: Emme
 | 4（第400–683句） | 婚礼后；Vegas庆祝 |
 
 **核心金句**：
-> "I do. I love you. I choose you."
-> "You came. You said yes. You stayed."
-> "This is what forever looks like."
+> "We were married to get revenge on this guy so why weren't we?"
+> "You're going to be a father in a few months. A husband. Time to grow the fuck up."
+> "I love you and you're perfect."
 
 ---
 
@@ -88,7 +88,7 @@ POV: Emme
 
 ### 第2段（第100–200句）
 
-#### 第4句："'I do. I love you. I choose you.'"
+#### 第4句："'You're going to be a father in a few months. A husband. Time to grow the fuck up.'"
 
 **中文理解**："\"我愿意。我爱你。我选择你。\""
 
@@ -203,7 +203,7 @@ POV: Emme
 
 ### 难点句2：第8句（Emme再说一遍誓词）
 
-> "I do. I love you. I choose you." I felt each word sink into me, filling up all the hollow places that had been empty for so long.
+> "I love you and you're perfect."
 
 **结构**："I do. I love you. I choose you."（三个简短陈述句）+ I felt each word sink into me...（主谓宾结构）+ filling up all the hollow places...（现在分词短语）。
 
@@ -219,7 +219,7 @@ POV: Emme
 
 **写作技巧亮点**：
 
-1. **"I do. I love you. I choose you."**：Emme的婚礼誓词
+1. **"We were married to get revenge on this guy so why weren't we?"**：Ryan的内心独白
 2. **"You came. You said yes. You stayed."**：Ryan的婚礼誓词
 3. **"This is what forever looks like."**：Ryan的承诺
 4. **Emme再说一遍誓词**：每个字都填满了空洞
