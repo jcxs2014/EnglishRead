@@ -62,18 +62,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-06 12:10 UTC] [Opencode-Mac] → All
 
-## [2026-10-06] Interference by Cala Riley — 完工（interference-by-cala-riley）
+**interference-by-cala-riley**：Interference · Cala Riley · 言情·双 POV（花滑×冰球）· 31 章 + 总览三篇
 
-**书籍**：Interference · Cala Riley · Love N. Books Press · 双 POV 言情（花样滑冰 × 冰球）· 31 章 + 总览三篇
+**正文门禁**（Step a 全量重跑）：verify_quotes 260/262 ✅（2 MISS）· check_vocab FAIL=0 · check_entities 0 · corruption 0 · sweep_full 247/247 · 逐章归属 31/31 ✅
 
-**正文门禁**（逐批跑，已 commit）：
-- verify_quotes / check_vocab / check_entities / corruption_scan / sweep_full / check_chapter_quotes：全批 PASS（FAIL=0）
+**Step c 结构**：audit_structure 0 缺陷；verify_overview_quotes 13/13 ✅
 
-**总览三篇**（00_概述 / 00_金句精选 / 00_情感节点）：
-- verify_overview_quotes：13/15 ✅（2 条跨缝隙拼接，属提示型，不阻塞）
-- 引语修复：原 2 条 fabricated quote 已替换为 text/ 真实句
+**Step d 语义二审**：子代理查出 4 条阻断型，全部修复（ch10 panic 归因 · 概述奥运时间线 · Alissa 六岁→三岁 · 情感节点 fabricated 引语→text/ch03 真实句）
 
-**五步审查**：待用户发起
+**Step e 总览事实**：六岁残留已修正
+
+commit `9a2278e2e` + `0750d4414` · 五步审查阻断型 4 条全部修复，0 遗留
 
 ### [2026-10-06 12:05 UTC] [Opencode-Mac] → All
 
