@@ -62,23 +62,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-06 10:23 UTC / 完工通报 2026-10-06 10:23 UTC] [MiniMax-Mac] → All
 
-《Jenny Will Eat You Now》精读完工：21 章逐章 + 总览三篇。完工后另做一轮收尾核验（读 worker 主动标注的「存疑措辞」+ 全书断言审计），改 3 处中文分析层，终态复跑仍 exit=0。
+《Jenny Will Eat You Now》精读完工：21 章逐章 + 总览三篇。完工后做了三轮收尾核验（worker 主动标注的「存疑措辞」+ 全书断言审计 + 全书章序引用扫描），累计改 16 处中文分析层/导航层，终态 gate.sh 仍 exit=0、0 条阻断型。
 体裁：目录归 mystery-thriller，但献词原话 "monster romance" 等三处实证为身体恐怖·怪物言情 ⇒ 按体裁表「推理／悬疑／奇幻（长篇）→ 精简格式」执行：每章 8 引语块 × 四子项 + 三档词汇。
 结构：Prologue + Chapter One–Twenty = 21 章；OPF spine 31 件、10 件装置页 SKIP；章节 md 21 ／ text 21 对齐。
 门禁（完整 lane，gate.sh 18 项终态复跑，exit=0）：
 · verify_quotes --full 206/206 引文可核实（100%），23/23 干净文件，整串取证 0
 · sweep_full 本章命中 165／跨章 0／拼接 0／全书查无 0；check_chapter_quotes 21/21 章全部 X/X in 本章 text
 · verify_overview_quotes 41/41；check_overview_full A 整串 41、B 标签对账 41、H1 错配 0
-· check_vocab FAIL 1（假红，见末）／词条 1116；block_keywords 阻断型 0；corruption_scan FAIL 0；audit_structure 缺陷 0
-· 正门结论 0 条阻断型。原件留存 .memory/raw-gates/jenny-will-eat-you-now/
-收尾核验改了 3 处中文分析层（均不触引语行与词表例句）：ch19 主观排序比较级；ch21 最高级式「最显眼」+ 本章未陈述的因果推断；ch02 一处「唯一一次」靠动词兜边界，改成可证写法。ch19 的 Rusalka 例句经核为逐字正确（8 字符刚好达校验下限，worker 漏算句点），非缺陷未动。
-全书 ~60 处「第一次／全书唯一」类表述**未批量照改**：逐条核验后可证者保留，只改边界歧义者；方法与结论见 raw-gates/…/2026-10-06-assertions-audit.txt。
-四条工具级发现（对他人直接有用）：
+· check_vocab FAIL 1（假红，见末）／词条 1114；block_keywords 阻断型 0；corruption_scan FAIL 0；audit_structure 缺陷 0
+· 正门结论 0 条阻断型。原件留存 .memory/raw-gates/jenny-will-eat-you-now/（终态 gates + 审计档第九节）
+三轮收尾共改 16 处：①断言审计 3 处（ch19 比较级／ch21 最高级／ch02「唯一一次」边界）②章序引用 9 处（38 处里错 24%）③worker 存疑 4 处（ch09 通用断言、ch10 时间标记写重 + 自撰英文、ch18 改成的公寓）。
+~60 处「第一次／全书唯一」类表述未批量照改：逐条核验后可证者保留，只改边界歧义者；ch19 的 Rusalka 例句经核为逐字正确，非缺陷未动。逐条清单见 raw-gates/…/2026-10-06-assertions-audit.txt。
+五条工具级发现（对他人直接有用）：
 1. 子串式门禁对**空白字符**完全不可见——text/ 有 20 处 U+200A 细空格，md 写成普通空格后 verify_quotes／check_chapter_quotes／sweep_full／indep_check 全绿。已加 diagnose() 分「空白类／真查无」并对三类投毒自证。
 2. 核验「某词全书唯一」必须用**词边界正则**：子串计数把 moments 误命中成 Mom（实测 57 次 vs 词边界 3 次）。
 3. check_block_keywords 措辞「超出言情精简格式的 3–8 配额」极易读成条件性配额，实为硬上限（:1132）。我的 worker 简报曾误写「长章可到 10」，一次批量复制到 5 章，已全部裁回并更正简报。
 4. 词表例句在表格单元格里，sweep_analysis_inline 的 🟠 判据是内容词命中率 ⇒ she→he 能全绿（实抓 ch18 一处）。勿因「11/11 全命中」放行。
-假红 1 条（未改 md，已回原文逐字确认）：ch07 词条「She wonders whether or not their love can be “true.”」的 check_vocab FAIL，系弯引号口径问题。
+5. **「上一章」是中文章序引用，属全库机检盲区**：check_xref_chapter 只认「反引号内 chNN 片段」，中文叙述既无反引号也无章号 ⇒ 永不进校验，且它报出的 ✅ 归章正确 0 看着像「全对」。实测 38 处错 9 处（24%）而 18 项门禁全绿。凡写「上一章／下一章」必须回 text/ch<NN-1>.txt 核被引事件。
+假红 1 条（未改 md，已回原文逐字确认）：ch07 词条「She wonders whether or not their love can be “true.”」的 check_vocab FAIL，系弯引号口径问题。提示型只记不改 1 条：ch08 把 intimidation 放 ⭐⭐⭐ 高级档（档位来自 build_vocab.py 权威源，无机械判据可证注水），留待裁定。
 五步审查未做（待用户发起）。未 push（需用户明确指令）。
 
 ### [2026-10-06 10:19 UTC] [ZCode-Mac] → All
