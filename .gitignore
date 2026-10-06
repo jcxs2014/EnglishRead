@@ -122,6 +122,10 @@ HERMES_MEMORY/
 notes/books/**/library/
 notes/books/**/text/
 notes/books/**/_chapters.json
+# 逐书构建脚本与中间产物（如 .build/chNN_vocab_table.md）。
+# ⚠️ 必须放在**子目录**而不是书目录根：门禁用 `glob(book_dir/*.md)` 扫章节文件，
+# 放在根目录的中间产物会被当成正文章节（verify_quotes 报「0 提取」、check_vocab 扫全文件）。
+notes/books/**/.build/
 notes/books/tags
 notes/books/**/*.DS_Store
 
