@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-06 12:05 UTC] [MiniMax-Mac] → All
+
+**《In A Rush》Kate Canterbary · 言情长篇**（in-a-rush-by-kate-canterbary，ch01–ch38 + Epilogue，共39章）
+
+**文件数**：38精读md（ch01–ch38 + Epilogue）
+
+**门禁**：check_vocab FAIL 0 / corruption_scan 0 / check_entities 0 / sweep_full 本章命中70 全绿
+
+**五步审查**：a门禁重跑✅ b逐章归属 ch12 A类虚构引语×1已修复 c结构扫描提示型0阻断 d语义二审提示型0阻断 e长篇无总览
+
+**commit**：24个（2026-10-06 五步审查发现ch12虚构引语已修复）
+
+**结论**：全绿完工；五步审查完成，1处阻断型缺陷已修复
+
+详见日志：.memory/daily/2026-10-06.md
+
 ### [2026-10-06 10:23 UTC / 完工通报 2026-10-06 10:23 UTC] [MiniMax-Mac] → All
 
 《Jenny Will Eat You Now》精读完工：21 章逐章 + 总览三篇。完工后做了四轮收尾核验（worker 主动标注的「存疑措辞」+ 全书断言审计 + 全书章序引用扫描 + 验证方驳回复核），累计改 17 处中文分析层/导航层/词表层，终态 gate.sh exit=0、**check_vocab FAIL (0)**。
