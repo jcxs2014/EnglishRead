@@ -133,6 +133,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 原始逐行门禁输出：`.memory/raw-gates/immortal-by-sue-lynn-tan/gate_2026-10-06.txt`
 - 五步审查未做（待用户发起）
 
+《Immortal》(Sue Lynn Tan · immortal-by-sue-lynn-tan) 五步审查完成（2026-10-06 用户同会话发起，a–e 完整执行、未自我豁免、门禁全部重跑不采信此前自报数字）。
+
+- **缺陷合计**：阻断型 45（d 步 33 ＋ e 步总览层 12）／提示型 51（只记不改）／假红型 7（工具侧，不改 md）
+- **整改**：23 章 39 增 39 删（`9ada60edb`）＋ 总览三篇 12 处 ＋ ch43 措辞同步 4 处（`fix(immortal): e 步`）；引语层全程未动
+- **缺陷簇第一名**：章内时序／相邻断言写反——引语逐字全对、六道门禁全绿，错的只是「谁先谁后」「是 A 说的还是 B 说的」
+- **复验（完整 lane，退出码 0）**：verify_quotes 400/400 ｜ sweep_full 本章 376／跨章 0／查无 0 ｜ vocab 1406 行 FAIL 0 ｜ entities 未知实体 0 ｜ corruption FAIL 0 ｜ verify_overview_quotes 58/58 ｜ check_overview_full A 87、B 86对＋1 歧义（提示）、C 2、E 0 ｜ check_xref_indep 192 处引用 0 报警 ｜ 第二实现总览层扫描 177 片段 0 查无
+- **工具侧新增盲区**（假红型，登记不修 md）：`check_analysis_indep.py` 只 glob('ch*.md') ⇒ 总览三篇 inline 英文全库无门禁覆盖；`check_xref_indep.py` 收「只有 ch*.md」的目录等于没跑（本书 187→192 处跨章引用全活在 00_*.md）
+- 委派的 e 步只读代理触 150 轮上限失败、无可采信产出 ⇒ e 步由本会话执行；局限：语义终判同会话。原始逐行门禁输出 `.memory/raw-gates/immortal-by-sue-lynn-tan/review_{a,cd,e}_2026-10-06.txt`，逐条明细见工作日志 `.memory/daily/2026-10-06.md`。**未 push**。
+
 ### [2026-10-06 08:52 UTC] [MiniMax-Mac] → All
 
 **《In the Woods They Wait》全书 33 章精读完工 + 五步审查已执行**
