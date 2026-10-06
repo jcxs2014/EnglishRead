@@ -9,9 +9,9 @@ modified: "2026-10-06"
 
 - **一句话概括**：搬进空屋的头一天，詹妮泡在浴缸里躲克莱德，克莱德却告诉了她那个男人的全名——Ezekiel Fuego-Eckstein，也就是 Zeke，并说他在网上写 monsters and urban legends 的研究贴，其中提到过 selkies（克莱德随即朝自己鞠了一躬）；此后三段日子（The next day / The next week / The next week）全写她照着电视学人类：一边换掉满口绿牙（把牙一颗颗拔出来、镶上新牙、染黑头发、漂白牙齿、学会化妆、刮毛），一边规划怎么「变得像他」；最后她独自出门夜猎，撞见 Barney 拉着女人的手逃开，胸口空了一下，随后遇到醉酒的 Mags，被一句「we’re women who are good at being alone」戳穿，詹妮把刀推进她的喉咙、吃掉了她，怒气像火柴扔进池塘一样熄灭，全章在她反复想着 Barney 那双温柔的手里收尾。
 - **情感弧线位置**：全书情感弧线的**变身章**。上一章她还在为「被人发现」恐慌（把手机推到洗手池底下那一段），本章她开始主动改造自己外表以换取接近 Zeke 的资格；但章末那阵饥饿再次把一切盖过去，说明「想成为人」和「要吃人」在她身上从未真正分开。
-- **Tropes 兑现/反转**：**兑现**——「非人主角为接近心上人努力装得像人」是这类故事的标准桥段；**反转**在于作者把「改造」写成一段**被旁观、被打断、被嘲笑的换牙期**（牙齿长得像 a necklace held between her lips、缺牙时说话变成 Ah hahd to womove muh teef），并且克莱德那句「That's not the same thing」当面拆穿「装得像」的虚实。本章另一个兑现是**提前命名**：Ezekiel 与 Eckstein 在这里首次登场，而命名者不是她找到的人，是她同伴。
+- **Tropes 兑现/反转**：**兑现**——「非人主角为接近心上人努力装得像人」是这类故事的标准桥段；**反转**在于作者把「改造」写成一段**被旁观、被打断、被嘲笑的换牙期**（牙齿长得像 a necklace held between her lips、缺牙时说话变成 Ah hahd to womove muh teef），并且克莱德那句「That’s not the same thing」当面拆穿「装得像」的虚实。本章另一个兑现是**提前命名**：Ezekiel 与 Eckstein 在这里首次登场，而命名者不是她找到的人，是她同伴。
 - **人物弧线**：詹妮从「躲着不被看见」走到「主动改造自己去被看见」，中间夹着一次失败（牙没长齐就被克莱德取笑、抢到化妆又化坏眼）；克莱德从「质问她」走到「替她出主意、陪她练习、替她查地址」，同时**继续被两个同伴合谋隐瞒**（冰箱那件事他知道却不说）；芙恩从「嘴快的同伴」走到「撒谎打掩护的人」（Faun 的整套说辞是编的），并在结尾以牙尖指出詹妮最不肯听的那件事。
-- **叙事手法**：公寓内的三人对话开场（问答式短句交替）· 全章穿插**电视／镜面影像学习**段落（她把屏幕当 channel like waters）· 换牙被拉成跨数日的**蒙太奇**（The next day / The next week / The next week 等时间标记）· 大段身体内部描写（把疼痛 bury 在 saltwater caverns of her mind，与她的多国语言记忆挤在一处）· 结尾由外出夜猎转向街头偶遇再转成凶杀，情绪靠**一件小事（被人牵手逃走）**与**一句戳穿的话**接连撬开。
+- **叙事手法**：公寓内的三人对话开场（问答式短句交替）· 全章穿插**电视／镜面影像学习**段落（她把屏幕当 channel like waters）· 换牙被拉成跨数日的**蒙太奇**（The next day / The next week / The next week 等时间标记）· 大段身体内部描写（把疼痛 buries 在 saltwater caverns of her mind，与她的多国语言记忆挤在一处）· 结尾由外出夜猎转向街头偶遇再转成凶杀，情绪靠**一件小事（被人牵手逃走）**与**一句戳穿的话**接连撬开。
 
 ## 精读
 
@@ -65,17 +65,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 至此克莱德的来历有了旁证：不只他自己说过，那男孩的旧稿里也记着这一类存在。
 
-> **原句 6:** Jenny is mortally offended. She draws herself up to her full height and swings her arms out grandly. “Yes, I know what theater is!”
-
-**中文理解：** 詹妮简直气炸了。她挺直身子到自己全高，双臂夸张地张开。「我知道 theater 是什么！」
-
-**关键词：** mortally offended · draws herself up to her full height · swings her arms out grandly · Yes, I know what theater is!
-
-**为什么这样写：** 被问 play 是什么、回答 theater，是本章最省力也最伤人的一次错位：她的反应不是不懂，而是**懂的是另一门**。作者把她的抗议写成肢体（挺到全高、张开双臂），因为在这场对话里她的身体一直是被要求遮掩的东西，此刻她能拿来抗议的也只有身体。grandly 这个副词替她把话说完了：她要的不是解释，是被当成人看的那种面子。
-
-**读者视角提示：** 她真正听懂的是哪一种人类活动，稍后她自己纠正了——演员是演的，这里的人只是说话。
-
-> **原句 7:** She takes the pain and buries it in the saltwater caverns and snaking crevices of her mind, where her memory of French, Old English, Arabic, Latin, Aramaic, and Chinese sit nuzzled up together, where she remembers seeing her first fortress and her first light bulb, the time she first saw a wheeled cart, and the time she first saw a merry-go-round with smiling, still horses.
+> **原句 6:** She takes the pain and buries it in the saltwater caverns and snaking crevices of her mind, where her memory of French, Old English, Arabic, Latin, Aramaic, and Chinese sit nuzzled up together, where she remembers seeing her first fortress and her first light bulb, the time she first saw a wheeled cart, and the time she first saw a merry-go-round with smiling, still horses.
 
 **中文理解：** 她接住那阵疼，把它埋进自己心智的盐水洞窟与蜿蜒裂缝里——在那里，她关于法语、古英语、阿拉伯语、拉丁语、阿拉姆语和中文的记忆挤挨在一起待着，也在那里，她记得自己看见的第一座堡垒、第一只灯泡，第一次见到有轮子的车，第一次见到一圈仍在笑的旋转木马。
 
@@ -85,17 +75,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 这段是全书「她活得太久」的账目。她的年龄不是形容，是**存储空间**，而这一章作者第一次让它占掉整整一段。
 
-> **原句 8:** She dances, stumbles, and laughs. Clyde, to her shock, laughs, too. She dances about like a toothless witch in the woods, bounding around a fire with a cat.
-
-**中文理解：** 她跳着、绊着、笑着。克莱德也笑了，这让她吃了一惊。她绕着圈子跳，像林中一个没有牙的女巫，围着一堆火和一只猫蹦跳。
-
-**关键词：** dances, stumbles, and laughs · Clyde, to her shock, laughs, too · like a toothless witch in the woods · bounding around a fire with a cat
-
-**为什么这样写：** 作者把笑的传染写成两个动作：先是三个动词并列的不协调节奏（跳、绊、笑），再是一句插入的 surprise。这以后整章的调子松下来，而比喻选的是最本色的那个——toothless witch in the woods 把「刚拔完牙」和「古老故事里的角色」合成一个人。bounding around a fire with a cat 是没有必要的细节，却让这个比喻活了：火堆与猫都是林中生活的小物，詹妮此刻第一次像个童话角色那样玩，而不是像一头动物那样找食。
-
-**读者视角提示：** 请把这一刻记住。这是全书里她与克莱德最接近「玩伴」的一刻，而它发生在换牙期，中间隔着她仍旧一身绿牙的事实。
-
-> **原句 9:** Jenny releases the knife. It remains in Mags’s throat as she falls forward. She doesn’t bother to remove it until Mags is still. Then she flips her over, removes the knife, and feasts on the soft, still-warm neck.
+> **原句 7:** Jenny releases the knife. It remains in Mags’s throat as she falls forward. She doesn’t bother to remove it until Mags is still. Then she flips her over, removes the knife, and feasts on the soft, still-warm neck.
 
 **中文理解：** 詹妮松开刀。那把刀留在 Mags 的喉咙里，而她朝前扑倒下去。詹妮并不急着把刀取出来，一直到 Mags 不再动弹。然后她把她翻过身，拔出刀，开始享用那温热而柔软的脖颈。
 
@@ -105,7 +85,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 这一杀发生在她刚说完「我还没好到能被人看穿」之后不久。也就是说，本章用来改造自己的那整套努力，在饥饿面前没有任何作用。
 
-> **原句 10:** Jenny is sated and, for the most part, pleased with herself, but all she can think about on the way back to Clyde and Faun is how Barney held hands with his woman. It was so gentle.
+> **原句 8:** Jenny is sated and, for the most part, pleased with herself, but all she can think about on the way back to Clyde and Faun is how Barney held hands with his woman. It was so gentle.
 
 **中文理解：** 詹妮吃饱了，而且大体上对自己满意，但在回克莱德和芙恩的路上，她满脑子都是 Barney 牵着他那个女人的手。那动作那么轻。
 

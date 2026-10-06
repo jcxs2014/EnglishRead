@@ -25,17 +25,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 注意这一章的甜是写在嘴上的。往后凡是她觉得好吃、好看、好闻，作者都用这一套「感官先到、情绪后到」的写法。
 
-> **原句 2:** “I do what I want to who I want when I want.”
-
-**中文理解：** 「我想对谁做什么，就什么时候做。」
-
-**关键词：** I do what I want · to who I want · when I want
-
-**为什么这样写：** 同一套 want 句式一路重复下去，而这个句子里没有宾语——她要什么没人问，也没人答。上一句的质问（为什么动手）在这里被彻底顶回去。作者不给这句话任何理由，因为理由正是她拒绝提供的东西：她不是辩解，她是在宣布规则。而 want 的宾语要等到后面才被补上，补上的内容不是仇恨，是饥饿。
-
-**读者视角提示：** 这是她的处世法则，也是本书危险的地方：她认为自己想做的事不需要理由。
-
-> **原句 3:** “I didn’t like her because I’m an angry old bitch who’s met the worst sort of humans imaginable.” Faun’s heart is loud, still a panicking gallop. “You got angry because you like having me as company.”
+> **原句 2:** “I didn’t like her because I’m an angry old bitch who’s met the worst sort of humans imaginable.” Faun’s heart is loud, still a panicking gallop. “You got angry because you like having me as company.”
 
 **中文理解：** 「我讨厌她，是因为我是个动辄发火的老母狗，我见过的最糟糕的那种人类都让我赶上了。」芙恩的心跳很响，还是那种受惊后的急跳。「你发火，是因为你喜欢有我陪着。」
 
@@ -45,7 +35,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 这一段是本章的真正冲突点。两个人其实在说同一件事——被伤害过，所以反应很大——只是一个承认，一个不承认。
 
-> **原句 4:** Now she shows Faun her teeth, drawing back her lips in a cruel and terrible sneer. This creature with the wrong bottom half who dares call herself Jenny’s companion! Jenny is too great to be understood.
+> **原句 3:** Now she shows Faun her teeth, drawing back her lips in a cruel and terrible sneer. This creature with the wrong bottom half who dares call herself Jenny’s companion! Jenny is too great to be understood.
 
 **中文理解：** 现在她向芙恩亮出牙齿，把嘴唇向后扯开，露出一个残忍而可怕的狞笑。这个上半身、下半身不对等的家伙，居然敢自称是詹妮的同伴！詹妮太伟大了，不该被人理解。
 
@@ -55,7 +45,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 她越是被说中，越要证明自己高不可攀。这一章的转折不在她终于认输，而在她改用另一种理由（饿）来解释自己。
 
-> **原句 5:** It’s midday, and Jenny has been among humans far longer than she’s used to being around anyone in years. Decades. She’s exhausted, and with the sun straight over her head, she’s hot. Mostly, however, she’s hungry.
+> **原句 4:** It’s midday, and Jenny has been among humans far longer than she’s used to being around anyone in years. Decades. She’s exhausted, and with the sun straight over her head, she’s hot. Mostly, however, she’s hungry.
 
 **中文理解：** 现在是正午，而詹妮待在人群里的时间，比她这些年头待在任何人身边的时间都长。几十年。她累坏了，太阳正当头照着，她很热。但主要的，她很饿。
 
@@ -65,7 +55,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 请记住「太阳」是她的钟。后文每一次她计算还剩多少时间，都用这个钟。
 
-> **原句 6:** “He deserves a beating.” Faun’s accent shifts, her tongue wrapping around the edges of consonants and touching vowels in ways she must have left behind long ago. Her grip on the present moment is slipping again and she is back in a laboratory with cruel men.
+> **原句 5:** “He deserves a beating.” Faun’s accent shifts, her tongue wrapping around the edges of consonants and touching vowels in ways she must have left behind long ago. Her grip on the present moment is slipping again and she is back in a laboratory with cruel men.
 
 **中文理解：** 「他该挨一顿打。」芙恩的口音变了，她的舌头绕在辅音的边缘、碰到一些元音的方式，是她早就丢在身后不知多少年的那些。她的手从当下松开了：她又回到了那间关着凶恶男人的实验室里。
 
@@ -75,7 +65,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 本章后面芙恩脱衣、踢断他、砸他的手，都在这一闪而过的实验室之后发生。记住这个顺序。
 
-> **原句 7:** “I’m hungry.” Jenny gives the barest smile, showing the edge of her green teeth. “Like with the rat.”
+> **原句 6:** “I’m hungry.” Jenny gives the barest smile, showing the edge of her green teeth. “Like with the rat.”
 
 **中文理解：** 「我饿了。」詹妮露出一个几乎看不见的笑，只让绿牙的边缘露出来。「就像那只老鼠一样。」
 
@@ -85,7 +75,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 这两个字是全章的枢纽。记住她不是被芙恩说服的，她是自己更饿。
 
-> **原句 8:** “You said it yourself.” Jenny stands beside Faun and manages to smile, too. “You’re a catch. You’re our catch.”
+> **原句 7:** “You said it yourself.” Jenny stands beside Faun and manages to smile, too. “You’re a catch. You’re our catch.”
 
 **中文理解：** 「这是你自己说的。」詹妮站到芙恩身边，也挤出了一个笑。「你是个抢手货。你是我们的货。」
 
@@ -95,7 +85,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 注意她也笑了。本章这两个非人在暴力上是配合的，在理由上却始终各说各话。
 
-> **原句 9:** She thinks of the many babies in carriages who have been rolled over her head, screaming like cats in an alley battle. Crying out like this is a thing humans are born knowing how to do. This man is only reiterating it, like he’s singing a chorus in a long, primal song.
+> **原句 8:** She thinks of the many babies in carriages who have been rolled over her head, screaming like cats in an alley battle. Crying out like this is a thing humans are born knowing how to do. This man is only reiterating it, like he’s singing a chorus in a long, primal song.
 
 **中文理解：** 她想起那些被车推过她头顶的婴儿，尖叫得像巷子里打架的猫。像这样哭叫，是人类生下来就会做的事。这个男人不过是在重复它，像是在一首又长又原始的歌里唱着副歌。
 

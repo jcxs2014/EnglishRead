@@ -45,17 +45,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 记住 health and humor。人肉对她是情绪必需品。序章那套「同类相食是荣幸」在这里变成了一张生理账单。
 
-> **原句 4:** When she takes it in her hands, it’s smooth, smoother than the brick, and black as onyx, but with a sort of button carved into its center. The bright pane of glass under her fingers goes dark. She presses its strange navel to rekindle it, but the water has seemingly doused its inner light.
-
-**中文理解：** 她把它拿在手里时，它是光滑的，比砖还滑，黑得像缟玛瑙，可正中央雕着一个像按钮的东西。她指下那块亮着的玻璃暗了下去。她去按它那个古怪的肚脐，想把它重新点亮，可水显然已经把它里面的光浇灭了。
-
-**关键词：** black as onyx · a sort of button carved into its center · presses its strange navel to rekindle it · doused its inner light
-
-**为什么这样写：** 这是人造物头一次落到她手里，而作者用身体词写它：center 与 navel。她按亮这块屏幕的方式，和人类按亮自己的心跳是同一种动作，于是这工具在她手里不是电器，是身体。onyx 这个词也不是随手挑的：同一章后面她写 Mayans 曾 cut onyx stones into lenses 去更好地看太阳，于是「黑得像缟玛瑙」的手机提前把那座 cenote 接上了。
-
-**读者视角提示：** 她刚把它按亮，它就灭在她手里。地面上漏下来的街灯只给她一层橙色，照不亮任何东西。
-
-> **原句 5:** Jenny wonders why he has mistaken a flooded unused train station for a barricade against a river. “Damn” is also a word of condemnation, and the Christian vision of Hell brought by pale sailors and Puritans. He isn’t as pale as they. She can see the olive undertone to his skin, the sort the Bostonians of years past would call “Italian” or maybe “Jewish” or “Greek.”
+> **原句 4:** Jenny wonders why he has mistaken a flooded unused train station for a barricade against a river. “Damn” is also a word of condemnation, and the Christian vision of Hell brought by pale sailors and Puritans. He isn’t as pale as they. She can see the olive undertone to his skin, the sort the Bostonians of years past would call “Italian” or maybe “Jewish” or “Greek.”
 
 **中文理解：** 詹妮奇怪他为什么把一座淹了水的废弃车站误当成拦河的水坝。「Damn」这个词同时也是谴责之词，还带着苍白的水手与清教徒带来的基督教地狱图景。他不像他们那么白。她看得见他皮肤底下的橄榄色调——多年前的波士顿人会把这种色调叫作「意大利」，或者也许「犹太」，或者「希腊」。
 
@@ -65,7 +55,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 这段是全书对「分类」的讽刺：她进不了人类的分类，人类却一直在互相分类。留意 He isn’t as pale as they——她头一回用一句话拆掉了别人世界观里的一个等级。
 
-> **原句 6:** He tries to scramble away, which is a very silly thing to do. The drool is thick in her mouth as she tackles and pins him. She feels the warmth of his body, smells the tartness of his sweat. His wrists are thick, but yes, there are bones beneath his flesh. They feel fragile to her. She’s so much stronger than he is! She could shatter those bones, she thinks with swelling euphoria. His pulse bounces like a rabbit.
+> **原句 5:** He tries to scramble away, which is a very silly thing to do. The drool is thick in her mouth as she tackles and pins him. She feels the warmth of his body, smells the tartness of his sweat. His wrists are thick, but yes, there are bones beneath his flesh. They feel fragile to her. She’s so much stronger than he is! She could shatter those bones, she thinks with swelling euphoria. His pulse bounces like a rabbit.
 
 **中文理解：** 他想手脚并用地爬开，那实在是很傻的一件事。她嘴里涎水浓稠，扑上去把他按住。她感到他身体的温热，闻到他汗的酸涩。他的手腕很粗，但没错，皮肉底下是有骨头的。那些骨头在她手感上很脆。她比他强太多了！她一边想，一边涌起 swelling euphoria：她能把那些骨头敲碎。他的脉搏像兔子一样弹跳。
 
@@ -75,7 +65,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 请注意她的顺序：先闻到、摸到、感到，最后才动口。这个进食顺序也是她这一章失败的原因。
 
-> **原句 7:** She wants to tear it from his chest to listen to it better, but remembers that with humans, being what they are, it would immediately stop and he would die. When her own heart was ripped from her body by a huntress centuries ago, it grew back. It made her insides twist and wounded whatever she has instead of a soul.
+> **原句 6:** She wants to tear it from his chest to listen to it better, but remembers that with humans, being what they are, it would immediately stop and he would die. When her own heart was ripped from her body by a huntress centuries ago, it grew back. It made her insides twist and wounded whatever she has instead of a soul.
 
 **中文理解：** 她想把那颗心从胸口撕出来听得更清楚，却记起人类——以他们那种样子——一旦如此就会立刻停下，然后死去。可她自己那颗心，在好几个世纪以前被一位 huntress（女猎手）从身体里撕出去过，它又长了回来。这一下让她内脏绞痛，伤到她所有代替灵魂的东西。
 
@@ -85,7 +75,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 请记住 instead of a soul。她并非不会痛，只是痛的位置和人不一样。
 
-> **原句 8:** Reality, for humans, is a unified thing, an agreement. The world, for her, has folds and divots, like a brain pried from a skull.
+> **原句 7:** Reality, for humans, is a unified thing, an agreement. The world, for her, has folds and divots, like a brain pried from a skull.
 
 **中文理解：** 现实，对人类来说是一件统一的东西，一种约定。而对她，这个世界有褶皱，有凹坑，像一颗从颅骨里撬出来的脑子。
 
@@ -95,7 +85,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 这一行是全章的枢纽：她失败之后之所以要去问母亲，正是因为她开始怀疑自己那套关于自己的判断。
 
-> **原句 9:** “Mother,” she rasps. In this dark place, she hopes her voice will pierce the veil between worlds, find the way to the realm of the otherworldly. “Some. Thing. Something happened.” She clears her throat as she treads water. “Or it did not happen. I tried to kill. It was a man. But I weakened. He asked— His eyes! I was hungry and have not eaten in so long, but I did not, could not.” She breathes in deep. “Mother, I would not kill him.”
+> **原句 8:** “Mother,” she rasps. In this dark place, she hopes her voice will pierce the veil between worlds, find the way to the realm of the otherworldly. “Some. Thing. Something happened.” She clears her throat as she treads water. “Or it did not happen. I tried to kill. It was a man. But I weakened. He asked— His eyes! I was hungry and have not eaten in so long, but I did not, could not.” She breathes in deep. “Mother, I would not kill him.”
 
 **中文理解：** 「母亲，」她嘶哑地说。在这个暗处，她希望自己的声音能穿透世界之间的那道幕，找到通往彼岸的路。「有。事。情。出了事。」她一边踩水一边清了清嗓子。「又或者根本没有发生。我试着去杀。是个男人。可我软下来了。他问——他的眼睛！我饿着，已经很久没吃东西了，可我没有，我做不到。」她深深吸进一口气。「母亲，我不愿意杀他。」
 

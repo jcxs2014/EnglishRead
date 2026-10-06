@@ -25,17 +25,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 请记住本章此后的顺序：先认识机器，再拆人。芙恩教她认电器的几段，是全书把「家」这个人类概念第一次完整展开的地方。
 
-> **原句 2:** “This is a bachelor. He probably wouldn’t have brought home a couple of women if a wife was here to yell at him.”
-
-**中文理解：** 「这是个独身男人。家里要是有个老婆会冲他大喊大叫，他多半不会把两个女人带回家。」
-
-**关键词：** This is a bachelor · wouldn’t have brought home a couple of women · if a wife was here to yell at him
-
-**为什么这样写：** 芙恩不是「相信叙述者」，她是**推理出来的**——她把桌上的邮件、堆满锅碗的水槽、发褐的瓷砖地砖一次性扫过，才说出一句结论；而这个结论还被包在一个 if 条件句里。读者因此同时得到两件事：这个男人确实独居，而「有没有老婆管」正是他家那堆独居痕迹的判据。作者让经验丰富的芙恩说出外行人的道理，反而更可信。
-
-**读者视角提示：** 这一句是全章的**总纲**——他们接下来的所有动作（清场、编谎、限期搬走）都建立在这个判断上。
-
-> **原句 3:** She finds a wooden block stuck with knives. Some, she is loath to admit, look sharper than her teeth. “I can skin and dress him, but that will take time. I need to cut the meat from the bone.”
+> **原句 2:** She finds a wooden block stuck with knives. Some, she is loath to admit, look sharper than her teeth. “I can skin and dress him, but that will take time. I need to cut the meat from the bone.”
 
 **中文理解：** 她找到一块插满刀的木头块。其中有几把——她不情愿地承认——比她的牙还锋利。「我能给他剥皮、收拾干净，但那要花时间。我得把肉从骨头上剔下来。」
 
@@ -45,7 +35,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 这是读者第一次看到她的专业能力，而能力与食欲被写在同一段里。请记住这种写法：她把手艺和胃口分开陈述，读者却知道它们是同一件事。
 
-> **原句 4:** Faun, for the first time since they arrived, appears genuinely amused. “God, no wonder Clyde wants to help you. You’re like a lamb. Well, a bloody lamb, but a lamb. You’ve seen a stove before, haven’t you?”
+> **原句 3:** Faun, for the first time since they arrived, appears genuinely amused. “God, no wonder Clyde wants to help you. You’re like a lamb. Well, a bloody lamb, but a lamb. You’ve seen a stove before, haven’t you?”
 
 **中文理解：** 芙恩在他们到达以来第一次显出真心的好笑。「天哪，怪不得克莱德想帮你。你像只小羊羔。唔，一只血糊糊的小羊羔，但还是小羊羔。你以前见过炉子吧？」
 
@@ -55,17 +45,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 芙恩顺口说出的 no wonder Clyde wants to help you 把三人各自的动机第一次摆到明面上，而没有人点破。
 
-> **原句 5:** He threw a scratchy horsehair blanket over her body. She repaid him by dropping on all fours and biting his ankle. Then she ran away.
-
-**中文理解：** 他把一条扎人的马毛毯子盖在她身上。她的回礼是四肢着地，咬了他的脚踝一口，然后跑掉了。
-
-**关键词：** a scratchy horsehair blanket · She repaid him · dropping on all fours and biting his ankle · Then she ran away
-
-**为什么这样写：** 这段插叙只有三句，全部落在**身体动作**上，没有一句交代她的动机。She repaid him 这个动词把咬人写成对善意的**偿付**——在她的账本里，咬人不是袭击，是结清。随后 dropping on all fours 把捕食的姿态写进一段关于「被警察抓住」的回忆里，于是这段回忆读起来不像怀旧，像一次预演。她对那件往事给出的回答只有一个否定词，从此不再解释，而全章的攻击性也是从这段旧事过渡到今夜的具体动作。
-
-**读者视角提示：** 这是全书交代她攻击性来源的几处插叙之一。写她杀人的段落都在这个尺度上——不写仇恨，只写动作。
-
-> **原句 6:** On the wall of his kitchen, she sees a photograph of him when he was young. It’s the same face shape and the same hungry eyes and smile. She knows he really must be younger because he looks buoyant and hopeful. His ear is not yet deformed.
+> **原句 4:** On the wall of his kitchen, she sees a photograph of him when he was young. It’s the same face shape and the same hungry eyes and smile. She knows he really must be younger because he looks buoyant and hopeful. His ear is not yet deformed.
 
 **中文理解：** 厨房墙上挂着一张他年轻时的照片。同样的脸型，同样的、饥饿的眼睛和笑容。她知道他一定年轻很多，因为他看上去轻快又充满希望。照片里他的耳朵还没有变形。
 
@@ -75,7 +55,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 下一段才是转折。这两段必须连着读：先辨认，再难过。
 
-> **原句 7:** The glass of the photograph is, to Jenny’s surprise, polished clean and well-kept. He loved this picture. Now that he’s dead, that love and care he put into maintaining it has evaporated into nothing. The thought, to her surprise, makes her sad.
+> **原句 5:** The glass of the photograph is, to Jenny’s surprise, polished clean and well-kept. He loved this picture. Now that he’s dead, that love and care he put into maintaining it has evaporated into nothing. The thought, to her surprise, makes her sad.
 
 **中文理解：** 相片的玻璃——让詹妮意外的是——擦得干净、保存得很好。他爱这张照片。如今他死了，他为保养它所付出的那份爱与心思已经蒸发成空。这个念头，让詹妮自己也没想到地，使她难过。
 
@@ -85,7 +65,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 这是本书里少见的、**由被害者占用凶手内心**的写法。请注意作者并不让詹妮说出怜悯，她只给一个生理性的情绪结果：难过。
 
-> **原句 8:** Are they sisters now, wedded to each other in blood, though they have only known each other’s names for a few hours?
+> **原句 6:** Are they sisters now, wedded to each other in blood, though they have only known each other’s names for a few hours?
 
 **中文理解：** 她们现在算是姐妹了吗，以血结为婚约，尽管彼此只知道对方的名字不过几个小时？
 
@@ -95,7 +75,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 这句设问放在两人一起抬尸体、一起刷地之后，是本章节奏上的呼吸口。它把整章的行为（合力处理一具尸体）翻译成了一段关系的成立。
 
-> **原句 9:** A woman’s crisp, gentle voice erupts from the phone: “Hey there, Ralph. We haven’t heard from you in the group for a week now, but I wanted to let you know we’re thinking about you. You’re stronger than you think. I promise.” The sister breathes out a laugh. Then the phone is silent.
+> **原句 7:** A woman’s crisp, gentle voice erupts from the phone: “Hey there, Ralph. We haven’t heard from you in the group for a week now, but I wanted to let you know we’re thinking about you. You’re stronger than you think. I promise.” The sister breathes out a laugh. Then the phone is silent.
 
 **中文理解：** 一个女人清脆而温柔的声音从手机里涌出来：「嗨，拉尔夫。我们有整整一周没在群里听到你的消息了，但我想让你知道，我们在惦记着你。你比你以为的更坚强。我保证。」那位姐姐轻轻笑了一声。然后手机沉默了。
 
@@ -105,7 +85,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 本章之前，死者只是一件食物；语音一响，他在世上还欠着一群人的关系。此后每一章都带着这条关系往前走。
 
-> **原句 10:** Human meat is delicious, yes, but rats are less complicated.
+> **原句 8:** Human meat is delicious, yes, but rats are less complicated.
 
 **中文理解：** 人肉是好吃，是的，但老鼠没那么复杂。
 

@@ -35,17 +35,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 紧接的下一段给出的回答是 they do not answer（他们不作答）。沉默既是她没被听见的实情，也是她往后整本书的处境。
 
-> **原句 3:** In the distance, Jenny sees a woman running. From what, she’s unsure, as the woman does not look behind her at all. Instead, she moves at a moderate pace, her legs clad in a searing bright pink, her hair tied up high in a tail that flicks back and forth. Perhaps she’s taking a daily constitutional. Either way, the woman does not notice them, which, to Jenny’s mind, is exactly what most humans do. They ignore people who don’t immediately have anything to do with them, including human-shaped things that aren’t humans.
-
-**中文理解：** 远处有个女人在跑步。她在跑什么，詹妮不知道，因为那女人从不回头看。那女人只是以中等的速度移动，两条腿裹在刺眼的亮粉色里，头发高高扎成一条来回甩动的马尾。也许她只是在做每天一次的例行散步。不管怎样，那女人没有注意到她们——照詹妮的想法，这恰恰就是大多数人类做的事：他们忽略跟自己当下无关的人，也包括那些长得像人、却不是人的东西。
-
-**关键词：** a moderate pace · clad in a searing bright pink · a daily constitutional · does not notice them · human-shaped things that aren’t humans
-
-**为什么这样写：** 这一段把「不被看见」写成一套连贯的日常机制，而不是一次意外。那个女人在跑步，而跑步与詹妮无关，于是不构成打扰；于是结论落下来：human-shaped things that aren’t humans（长得像人却不是人的东西）。作者用一个具体的画面（不许回头看的粉色双腿）去支撑一个抽象判断，中间还塞了一句 Either way（不管哪一种），把观察升级成习惯。
-
-**读者视角提示：** 留意最后那个 aren’t humans。人类没有恶意，也没有敌意，只是按筛选规则行事——而这条规则刚好把她归进「不需要处理」那一档。
-
-> **原句 4:** She makes a shallow slice along the length of skin across her throat and begins, slowly, to peel it down her chest.
+> **原句 3:** She makes a shallow slice along the length of skin across her throat and begins, slowly, to peel it down her chest.
 
 **中文理解：** 她沿着喉咙的长度浅浅切了一刀，然后开始，慢慢地，把那层皮往下剥到胸口。
 
@@ -55,7 +45,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 痛感被推迟到了下一段。作者先交付程序，再交付感受，于是身体恐怖被拆成了两步。
 
-> **原句 5:** “Yes,” Jenny says crisply. “If I am to go among humans, you are correct—I should not look like myself.” She pulls the skin of her face away, first from the chin, then the jawline, cheeks, forehead, and ears. She’s pink as a rat. When she looks down at the mask she has pulled away, she laughs to see the oval holes for the eyes and mouth. A surprised face, made of O’s. It’s comical, and to her surprise, it came from her.
+> **原句 4:** “Yes,” Jenny says crisply. “If I am to go among humans, you are correct—I should not look like myself.” She pulls the skin of her face away, first from the chin, then the jawline, cheeks, forehead, and ears. She’s pink as a rat. When she looks down at the mask she has pulled away, she laughs to see the oval holes for the eyes and mouth. A surprised face, made of O’s. It’s comical, and to her surprise, it came from her.
 
 **中文理解：** 「是的。」詹妮干脆地说，「如果我要到人群里去，你说得对——我不该看起来像我自己。」她把自己的脸皮从下巴开始往下扯，然后是下颌线、脸颊、额头、耳朵。她粉得像一只老鼠。当她低头看自己刚剥下来的那张面具时，她笑了——因为看见上面留给眼睛和嘴的椭圆孔洞。一张惊讶的脸，全由 O 形孔洞做成。它很滑稽，而让她意外的是，这张脸是从她自己身上来的。
 
@@ -65,7 +55,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 本章标题是 Skin（皮），而这一段是它的题眼：皮是可以换的，身份是要自己报上去的。
 
-> **原句 6:** “Clawing, biting, and eating sewer rats? You seem like you know how to have a good time. I’ve walked across every grimy corner of this planet since nine hundred years before the priests started to shout about the birth of some half god in Bethlehem. I drank wine with my mother and her maenad sisters as we sloshed our way through Greece. I’ve never been afflicted with anything like you.” Faun yanks the hose nozzle out of Clyde’s hands, leaving his pink palms empty. “All right. Me next, and then our new, dear friend, Jenny Greenteeth, last.”
+> **原句 5:** “Clawing, biting, and eating sewer rats? You seem like you know how to have a good time. I’ve walked across every grimy corner of this planet since nine hundred years before the priests started to shout about the birth of some half god in Bethlehem. I drank wine with my mother and her maenad sisters as we sloshed our way through Greece. I’ve never been afflicted with anything like you.” Faun yanks the hose nozzle out of Clyde’s hands, leaving his pink palms empty. “All right. Me next, and then our new, dear friend, Jenny Greenteeth, last.”
 
 **中文理解：** 「抓、咬、吃下水道的耗子？看起来你很懂得怎么找乐子。我走遍这颗星球上每一处肮脏的角落，那是在那些神父开始嚷嚷某个半神在伯利恒出生之前九百年。我和我的母亲、以及她的那些女祭司姐妹们一边喝酒，一边趟过希腊。我从没见过像你这样的东西。」法恩一把从克莱德手里扯走水管喷头，把他粉红的手心留了个空。「好吧。下一个是我，然后是我们新的、亲爱的朋友，詹妮绿牙牙，最后。」
 
@@ -75,7 +65,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 注意这段话的落点：I’ve never been afflicted with anything like you（我从没遇到过像你这样的东西）。法恩把詹妮当成一种需要命名的新东西，而不是同类。
 
-> **原句 7:** Clyde has a wariness to him, one that makes his eyes look much older than the face in which they reside. “And getting snapped at by dogs, thrown out of parks, starving to thinness without being able to die? Oh, yes, immortality is a dream!”
+> **原句 6:** Clyde has a wariness to him, one that makes his eyes look much older than the face in which they reside. “And getting snapped at by dogs, thrown out of parks, starving to thinness without being able to die? Oh, yes, immortality is a dream!”
 
 **中文理解：** 克莱德身上带着一种警觉，让他那双眼睛看起来比承载它们的那张脸更老。「被狗咬、被公园赶出去、瘦到饿死却死不掉？哦，是啊，不死是个梦！」
 
@@ -85,7 +75,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 请把这句和序章结尾那句并排读：一边是不死带来的荣耀，一边是不死带来的笑话。同一样东西，两种价钱。
 
-> **原句 8:** Jenny tries not to smell the humans too much or listen to the pulse of their guts and blood. Their bodies are less than hers, she reminds herself, beating their way toward death. Cattle, really, self-aware livestock to the likes of her. How does Clyde speak to them as if they are equals?
+> **原句 7:** Jenny tries not to smell the humans too much or listen to the pulse of their guts and blood. Their bodies are less than hers, she reminds herself, beating their way toward death. Cattle, really, self-aware livestock to the likes of her. How does Clyde speak to them as if they are equals?
 
 **中文理解：** 詹妮尽量不去闻这些人类，也尽量不去听他们内脏和血液的脉动。她提醒自己：他们的身体不如她的，正一路敲打着走向死亡。对她而言就是牲口——有自我意识的牲口。她想不通的是：克莱德怎么能像对待平等的人那样跟他们说话？
 
@@ -95,17 +85,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 本章的思想核心是一句问话，而不是一句判断。她的论证停在问号上。
 
-> **原句 9:** The elderly woman, with bloodshot eyes and broken capillaries in her nose, says, “If you’re gonna do meth, don’t pluck your eyebrows after. Word of advice from the old to the young. If you can’t die old, die beautiful.” She pats Jenny on the arm with a delicate hand, small as a girl’s, and pushes her cart away.
-
-**中文理解：** 那位老妇人眼睛充血，鼻子里有破裂的毛细血管，她说：「你要是吸冰毒，就别在事后拔眉毛。老人给年轻人的一句忠告：如果你没法老死，那就死得漂亮。」她用一只纤细的、像小女孩那样的小手拍了拍詹妮的手臂，然后推着购物车走了。
-
-**关键词：** broken capillaries in her nose · don’t pluck your eyebrows after · Word of advice from the old to the young · If you can’t die old, die beautiful
-
-**为什么这样写：** 一个陌生人对她说的最后一句里，没有问她是谁，也没有问她从哪里来，只给了一条关于外表的口头建议。die old（老得漂亮地死）与 die beautiful（死得漂亮）被塞进同一个 if 的两端，于是长寿和好看不再是两件事，而是一条建议的两半。落到手上的动作也短：拍一下手臂，像在拍一个小孩。
-
-**读者视角提示：** 她刚刚才把自己的脸换掉，而这位老妇人提醒她的恰恰是这件事：脸是可以弄成别的样子的。
-
-> **原句 10:** It’s more clothes than she’s worn in a long time. She doesn’t like them—they make her feel too heavy—but she knows a gift when she receives it. “Thank you,” she murmurs, but it’s at the same time a man opens the church door and begins to yell for everyone to get in line, don’t shove, the beds are limited, don’t fight for them. She doesn’t think her companions hear her feeble gratitude. Which is for the best, she decides.
+> **原句 8:** It’s more clothes than she’s worn in a long time. She doesn’t like them—they make her feel too heavy—but she knows a gift when she receives it. “Thank you,” she murmurs, but it’s at the same time a man opens the church door and begins to yell for everyone to get in line, don’t shove, the beds are limited, don’t fight for them. She doesn’t think her companions hear her feeble gratitude. Which is for the best, she decides.
 
 **中文理解：** 这身衣服比她很长时间以来穿过的任何一件都多。她不喜欢它们——它们让她觉得自己太沉——但她知道别人给东西时意味着什么。「谢谢。」她低声说，可就在这时一个男人打开教堂的门，开始朝所有人喊：排队，别挤，床位有限，别抢。她不觉得她的同伴听见了她那声微弱的感谢。她想，这样也好。
 
