@@ -46,7 +46,7 @@ modified: "2026-10-06"
 > **原句 5:** After two hundred years underground, the pine box the man was buried in is soft, and the casket has split in places where the roots of the tree have punched through it. Rusted bands of iron hold it together, and other roots have wrapped themselves around the wood like rope.
 
 - **中文理解**：「在地下埋了两百年，那口松木棺已经酥软，多处被树根顶穿裂开。锈蚀的铁箍勉强把它拢在一起，另一些根像绳索一样缠裹着棺身。」
-- **关键词**：the pine box…is soft · the roots of the tree have punched through it · wrapped themselves around the wood like rope
+- **关键词**：the pine box the man was buried in is soft · the roots of the tree have punched through it · wrapped themselves around the wood like rope
 - **为什么这样写**：棺材的惨状是树的罪证：根刺穿棺木——树以尸体为养料生长，又用根缠住棺材，像押解也像拥抱。punched through 与 wrapped 的动作一暴一柔，写出这棵树与死者之间爱恨难辨的关系。作者让「考古」带上病理报告的口吻，每一条腐朽都是时间与共谋的签名。
 - **读者视角提示**：根=门=树的血管：它们穿透棺木，也穿透两界；后面门的崩塌，物理上就从这些已经松动的接口开始。
 

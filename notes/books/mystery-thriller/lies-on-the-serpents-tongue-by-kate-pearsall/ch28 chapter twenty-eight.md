@@ -18,7 +18,7 @@ modified: "2026-10-06"
 > **原句 1:** The strongest magic in the Otherworld is tied to two things, Rowan. Blood and name. I was James McKeane Darrow before he was. And the only way to save the Bone Tree is to stabilize it in the same manner it was created.
 
 - **中文理解**：「彼界最强的魔法系于两样东西，Rowan。血与名。在他之前，是我占着 James McKeane Darrow 这个名。而救 Bone Tree 的唯一办法，就是照它当初被造的方式把它重新稳住。」
-- **关键词**：tied to two things…Blood and name · I was James McKeane Darrow before he was · stabilize it in the same manner it was created
+- **关键词**：tied to two things, Rowan. Blood and name · I was James McKeane Darrow before he was · stabilize it in the same manner it was created
 - **为什么这样写**：反派导师腔（teacher instructing a classroom）讲出全书魔法总纲：血与名。I was…before he was 一句把篡位术自供到只剩语法可辨——名字被他先占了，正统反而成了复制品。same manner it was created 点明重演意图：他要的稳树=重演一次活埋。作者让最大的恶以最温和的课堂语气宣讲。
 - **读者视角提示**：对账 ch24「Serena's tongue」封口咒与本章血名论：Nimh 的一切魔法都靠「占名」——所以 Rowan 的名字才是他唯一的解，也是他唯一的死穴。
 

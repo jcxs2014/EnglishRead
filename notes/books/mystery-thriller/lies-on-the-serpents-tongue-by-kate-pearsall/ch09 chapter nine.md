@@ -25,7 +25,7 @@ modified: "2026-10-06"
 > **原句 2:** “It wasn’t luck.” She shakes her head, the dark braid down her back like a kite tail. “The Teays River District office got an anonymous voicemail.”
 
 - **中文理解**：「「不是运气好。”她摇头，垂在背上的黑辫子像条风筝尾。“Teays River 区办公室接到过一通匿名语音留言。」」
-- **关键词**：It wasn’t luck · an anonymous voicemail · not give their name
+- **关键词**：It wasn’t luck · the dark braid down her back like a kite tail · an anonymous voicemail
 - **为什么这样写**：一句「不是运气」把救援的因果链拨回人手：有人知道伤者在哪、却不肯留名。anonymity 在这里比留言内容更响——留言人既要人被救，又要自己隐形；这与 Hadrian 的处境（被袭击、不能暴露身份）严丝合缝，与 Harshbarger 的谎（「这一带没有盗采者」）形成同章双谜。作者不给答案，只让 the dark braid like a kite tail 这种松弛的比喻垫在中间，仿佛在说：线索会飘，但要有人拉线。
 - **读者视角提示**：匿名报案人是本章最大暗扣——候选池：Hadrian（最顺）、伏击者（回马枪）、护林员内部；先存档再验证。
 

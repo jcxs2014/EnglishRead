@@ -25,7 +25,7 @@ modified: "2026-10-06"
 > **原句 2:** The freezer hung open, with so many months’ worth of work—vegetables from our garden, sauces, broths and stocks, bread dough and piecrusts, and meat—all left to rot. But the dining room was the worst. The words WITCHES BURN written in blood and dripping down the wall made the motive clear.
 
 - **中文理解**：「冷冻库的门敞着，好几个月的劳作——园子里的蔬菜、酱汁、高汤和底汤、面团和派皮、还有肉——全都烂在了里面。但餐厅才是最惨的。墙上用血写下的 WITCHES BURN 字样往下滴淌，把动机写得清清楚楚。」
-- **关键词**：so many months’ worth of work—all left to rot · The words WITCHES BURN · made the motive clear
+- **关键词**：so many months’ worth of work · all left to rot · The words WITCHES BURN · made the motive clear
 - **为什么这样写**：作者用一张清单写毁损：一项项都是「时间存进食物里的劳动」，rot 一词把劳动还原成腐物，比任何财物清单都更伤。然后笔锋一转 But the dining room was the worst——破坏的顶点不是财产损失而是那行血书。dripping down the wall 让字保持「正在滴」的时态，案发时刻被冻结在墙上；motive clear 是 Rowan 少见的斩钉截铁：这不是仇财，是仇人——烧女巫的老词。
 - **读者视角提示**：WITCHES BURN 三个词记住：它是全书对「镇子如何对待 James 家」的最直白陈述，也是后面每一条「要不要离开/要不要和解」争论的原点。
 

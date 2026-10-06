@@ -29,12 +29,12 @@ modified: "2026-10-06"
 - **为什么这样写**：掌伤是彼界带回的唯一实物，父亲一眼锁定——警长的职业本能对上女儿的省略话术。vaguely 与 hate myself a little 把「保护家人」与「背叛信任」写成同一动作的两面：她对 Hadrian「谎之省略」的自厌，在自己身上复发。作者用一道伤口当 thermometer：家的信任在体温计上又降了一度。
 - **读者视角提示**：掌伤是 Zephyrine 的开门仪式留下的——它现在同时是证物与病史；后面谁注意到这道疤，谁就摸到了彼界的门框。
 
-> **原句 3:** The rightful lord was soundly felled, / Buried in a bed of dirt and weald, / His kingdom left to plunder. / And there he will lie, / Till the bone’s day to die. / Two worlds torn forever asunder.
+> **原句 3:** Two worlds torn forever asunder.
 
-- **中文理解**：「正统之主被一举击倒，/ 埋进泥土与荒野铺就的床，/ 王国留给掠夺者任意挥霍。/ 他将长卧于此，/ 直到骨之死日来临，/ 两个世界被永远撕裂。」
-- **关键词**：Buried in a bed of dirt and weald · Till the bone’s day to die · Two worlds torn forever asunder
-- **为什么这样写**：小册诗的末节把全书神话压缩成六行墓志：「正统之主」葬于泥荒之床——正对 ch13「首代蛾翼人葬于树根」；「骨之死日」即 Bone Tree 的死期（11 月烧除？）；「两界永裂」是门毁之后的世界。作者用童谣的节奏装神话的火药：韵脚越轻，预言越重。而诗是谁塞进背包的、为什么塞给她，本身就是下一层谜。
-- **读者视角提示**：把诗当倒计时牌读：树死=两界永裂；但注意诗里那只「hungry cat black as night」站在 usurper 一边——与 Zephyrine（护人的猫）同源不同主，猫和猫不一样。
+- **中文理解**：「「两个世界被永远撕裂。」——小册诗的末行，独立成段的六个词。」
+- **关键词**：Two worlds torn forever asunder
+- **为什么这样写**：全诗的收束只落在这一行：六个词、两个世界、一次永别。诗的每一行各自成段——单行成段的形式本身就是预言的节奏：拆开来看每一句都轻，合起来才是墓志。而「撕裂」用的是完成时的被动（torn），账已经结清，只剩执行。诗是谁塞进背包的、为什么塞给她，本身就是下一层谜。
+- **读者视角提示**：对账 ch25 的「Two worlds torn forever asunder」兑现现场——门塌那天，这句诗从预言变成新闻；而「hungry cat black as night」站在 usurper 一边，与 Zephyrine（护人的猫）同源不同主。
 
 > **原句 4:** “I was just checking the latest news about the boy in the coma.” She locks her phone and tosses it onto the bed in front of her.
 
