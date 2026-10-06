@@ -102,7 +102,7 @@ POV: Emme
 
 ---
 
-#### 第5句："'You came. You said yes. You stayed.'"
+#### 第5句："'We were married to get revenge on this guy so why weren't we?'"
 
 **中文理解**："\"你来了。你答应了。你留下来了。\""
 
@@ -191,7 +191,7 @@ POV: Emme
 
 ### 难点句1：第5句（Ryan的誓词）
 
-> "You came. You said yes. You stayed."
+> "We were married to get revenge on this guy so why weren't we?"
 
 **结构**："You came."（主谓结构）+ "You said yes."（主谓宾结构）+ "You stayed."（主谓结构）。
 
@@ -220,12 +220,12 @@ POV: Emme
 **写作技巧亮点**：
 
 1. **"We were married to get revenge on this guy so why weren't we?"**：Ryan的内心独白
-2. **"You came. You said yes. You stayed."**：Ryan的婚礼誓词
+2. **"We were married to get revenge on this guy so why weren't we?"**：Ryan的内心独白
 3. **"This is what forever looks like."**：Ryan的承诺
 4. **Emme再说一遍誓词**：每个字都填满了空洞
 
 **可迁移表达**：
 
 1. **I do. I love you. I choose you.** — 我愿意。我爱你。我选择你。
-2. **You came. You said yes. You stayed.** — 你来了。你答应了。你留下来了。
+2. **We were married to get revenge on this guy.** — 我们结婚是为了报复这家伙。
 3. **This is what forever looks like.** — 这就是永远的样子。

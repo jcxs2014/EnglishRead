@@ -34,8 +34,8 @@ POV: Ryan
 
 **核心金句**：
 > "Listen, Ralston. Listen. What if I walk down the aisle like a bear?"
-> "I chose this. For you."
-> "I do. I love you. I choose you."
+> "Will you come with me?"
+> "Always."
 
 ---
 
