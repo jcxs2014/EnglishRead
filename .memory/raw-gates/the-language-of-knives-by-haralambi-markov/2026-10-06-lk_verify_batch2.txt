@@ -1,0 +1,20 @@
+
+── ch05 convalescence.md ──
+   引语块 10 ｜ 词表行 40 ｜ 中文层英文片段 0 ｜ text/ 30225 字符
+   ✅ 本脚本 0 报警
+
+── ch06 the drowning line.md ──
+   引语块 10 ｜ 词表行 42 ｜ 中文层英文片段 0 ｜ text/ 28698 字符
+   [禁令D5] 不可核的计数断言: **句子结构**：第一句是以 ashes 与 flesh 为两端的对举套语，用同一个介词 to 串起两次；第二句主句 Such are the rules of relation 为倒装（表语前置），
+   [禁令D5] 不可核的计数断言: **句子结构**：第一句是情态动词 can’t 加比较级 more than 构成的否定比较结构；第二句是由 but 连接的两个分句，前一分句用现在进行时表将来（I am going to die h
+
+── ch07 swallow.md ──
+   引语块 10 ｜ 词表行 35 ｜ 中文层英文片段 0 ｜ text/ 20194 字符
+   [禁令D5] 不可核的计数断言: **句子结构**：三句递进。第一句是「无冠词通名 + 谓语」的陈述句（`The round hardness rises`），通名不点明是什么，靠第二人称的语境补足；第二句用一个指示代词 `this`
+   [禁令D6] 最高级/唯一断言: **为什么这样写**：这是叙述者第一次把父亲的真名说出口。她此前替别人说过同样的话术（`You’ve said these commands countless times for other peo
+
+── ch08 holding hands with monsters.md ──
+   引语块 10 ｜ 词表行 30 ｜ 中文层英文片段 0 ｜ text/ 20970 字符
+   ✅ 本脚本 0 报警
+
+=== lk_verify_batch：合计报警 4 项 ===

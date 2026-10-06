@@ -16,6 +16,15 @@
 | W3 | ch03 | `ch03 when raspberries bloom in august.md` | `text/ch03_when_raspberries_bloom_in_august.txt` | 17 KB |
 | W4 | ch04 | `ch04 the mall on the hill by the horizon.md` | `text/ch04_the_mall_on_the_hill_by_the_horizon.txt` | 15 KB |
 
+**批 2（2026-10-06 第二轮派工，请按下表）**：
+
+| worker | 章 | md 文件名（必须一字不差） | text 文件 | 篇幅 | 事实基线（已核，仍须自己复制英文） |
+|---|---|---|---|---|---|
+| W5 | ch05 | `ch05 convalescence.md` | `text/ch05_convalescence.txt` | 30 KB / 486 句 | ⚠️ **更正**：我原先写的「主体是第二人称 you」**是错的**——叙述层全篇是第三人称 `he`，`you` 只出现在引号内的对话（worker 逐行核对后纠正了我，见其报告）。疗养院（sanatorium）/great-aunt/nurse 是场景词；姨婆 Lyudmila Chudinova；末句只有两个词：`He digs.`。⚠️ 另注：L201 有一个词含**西里尔字母 е**（`leg` 查无），别取那一句 |
+| W6 | ch06 | `ch06 the drowning line.md` | `text/ch06_the_drowning_line.txt` | 29 KB / 411 句 | 人物：David（26）· Hartrich（18）· Una（17）；湖（Wasserburg 的湖）；第一人称「我」是湖里的东西，末句是「我」被带上岸 |
+| W7 | ch07 | `ch07 swallow.md` | `text/ch07_swallow.txt` | 20 KB / 363 句 | 人物：Richard（14）· Grantham（6）；**第二人称**「you」对读者说话；末句极短：`You call your dad.` |
+| W8 | ch08 | `ch08 holding hands with monsters.md` | `text/ch08_holding_hands_with_monsters.txt` | 21 KB / 274 句 | **几乎没有专名**；第一人称 + 对话（Yes/This/That 频出）；bathroom / freeze 是反复出现的场景与动作；末句是我俯冲进床下的黑坑 |
+
 **文件名规则**（`AGENTS.md` 文件命名约定）：`ch<NN> <keyplot>.md`，**唯一分隔符是单空格**，
 去掉标点、保留字母数字 ⇒ 标题里的逗号要去掉（`Spring Is Violence, Spring Seeks Blood` → `spring is violence spring seeks blood`）。
 
@@ -144,3 +153,33 @@ python3 scripts/check_chapter_quotes.py <NN> "$B/chNN ....md" --out-dir "$B/text
 - 不要动别人的 md、不要动 `text/`、不要动 `library/`
 - 不要用脚本批量替换 md（`re.S` 跨块替换曾一次损毁全书 116 处结构）
 - 不要写 `00_*.md`（本体豁免总览三篇）
+
+---
+
+## 6. 批 1 实战增补（**全部是批1 真实被抓出来的缺陷，不是假想**）
+
+> 这些不是新增规则，而是把上面 D1–D10 在真实数据上**具体化**。批1 四个 worker 自报「阻断型 0」，
+> 主会话独立复核仍查出 6 处——所以下面每条都配了「批1 实际怎么被抓到的」。
+
+| # | 增补 | 批1 的实例 |
+|---|------|-----------|
+| A1 | **语气/转折类断言要找最早的转折点，不是你引的那句** | ch01 写「这是 hala 唯一一次从嘲讽转为恳劝」，但原文第 295 行 hala 已说 `I’m sorry. I don’t mean to mock you or anything.`，第 301 行 `That’s no joke, girl.` 也已是严肃警告 ⇒ 转折点在更早处 |
+| A2 | **同一个断言常落两份（关键词行 + 词表行），改一处不够** | ch02「groom 本篇唯一一次出现」同时写在**关键词**与**词表**两行；主会话改了词表行后，是自写检查器又抓到关键词行才补上。⇒ **改完一条断言，`grep` 同一措辞全文件** |
+| A3 | **出现次数类断言必须用 `grep -o \| wc -l`，不能用 `grep -c`** | ch02 释义写「groom 本篇唯一一次出现」，`grep -c` 数的是**行**（1 行内出现 2 次）⇒ 实为 2 次，是假断言 |
+| A4 | **两个词条不能共用同一句例句** | ch04 `awaiting` 与 `congealed` 的例句完全相同（两词全篇只出现在同一句里）⇒ 只能留一个 |
+| A5 | **中文层里引的英文短语，省略号两侧也要是原文连续词；标点也要照抄** | ch01 写 `gone but not missing`，原文是 `gone, but not missing`（漏一个逗号 ⇒ flat 比对抓不到） |
+| A6 | **导航层的引号必须与原文同形**（弯撇号 `’`、弯引号 `“”`），**不许手打直引号** | ch02 导航写 `I'm 28 now`，原文是 `I’m 28 now` ⇒ `grep -F` 0 命中。六道引语门禁都不解析导航层，只有逐字比对能抓 |
+| A7 | **两个「她」同篇时，中文层一律写名字** | ch01 写「让她成为那只兔子」，全篇有两个女性角色（Damyana / hala）⇒ 指代不明；应写「the fox 是 hala 自己，the hare 才是 Damyana」 |
+| A8 | **常见词不入 ⭐⭐⭐ 高级档；某档候选不足就留空** | ch04 `awaiting`（常见词）被放进 ⭐⭐⭐ 高级档 |
+
+## 7. 自检尺子（批1 新增，主会话已投毒自证）
+
+```bash
+# 先验尺子会报（每个 reviewer 首次使用前跑一次；输出须「每类都报得出」）
+python3 scripts/lk_verify_batch.py --self-test
+
+# 再用它核你这一章：引语逐字（不规范化）+ 词条例句/词头 + 中文层英文 + D5/D6
+python3 scripts/lk_verify_batch.py <NN>
+```
+⚠️ 这个脚本抓的是**字符层与措辞层**。**它不替你判断中文事实断言对不对**（D8）——
+那部分仍必须你回 `text/` 核，且**核出来的存疑必须写进报告第 3 节**。

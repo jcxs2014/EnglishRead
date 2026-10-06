@@ -166,7 +166,7 @@ modified: "2026-10-06"
 
 **中文理解**：Damyana 笑着说"那就带我去吧"，hala 立刻收住笑：这不是玩笑，姑娘。下界不是去串个门、回来再讲给朋友听的地方；一旦去了，就回不来了。
 
-**句子结构**：三个短句递进。"That’s no joke, girl." 为 that + be + no + 名词的判断句加插入呼语（girl 置于逗号后）。第二句 "The Lower Lands are not a place to visit and tell about to your friends." 是主系表结构，两个并列不定式 to visit 与 to tell about to your friends 共享 a place 作逻辑主语。第三句 "Once you go, there’s no coming back." 是 Once 引导的时间状语从句加 there be + 动名词结构。
+**句子结构**：三个短句递进。"That’s no joke, girl." 为 that + be + no + 名词的判断句加插入呼语（girl 置于逗号后）。第二句 "The Lower Lands are not a place to visit and tell about to your friends." 是主系表结构，两个并列成分 to visit 与 tell about to your friends 共享 a place 作逻辑主语（原文第二个不定式是裸 tell，to your friends 是介词短语）。第三句 "Once you go, there’s no coming back." 是 Once 引导的时间状语从句加 there be + 动名词结构。
 
 **关键词**：
 - *joke* — 玩笑；她刚说出口的词，被当场收回
