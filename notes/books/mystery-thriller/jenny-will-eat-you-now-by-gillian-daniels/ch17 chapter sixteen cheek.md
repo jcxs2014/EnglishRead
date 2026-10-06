@@ -105,129 +105,70 @@ modified: "2026-10-06"
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-
 | gestated | 孕育；在……之内发育 | Men first gestated in the mouths of fish!’ ” Her translation from Greek—ancient and in a dialect not spoken here for a long time—is halting. |
-
 | euphoria | 极度兴奋；欢欣 | She looks to Zeke in the hopes his regard will revive to similar heights of euphoria. |
-
 | treading | 踩（此处为踩水） | He looks pained as he stares down at his treading legs. |
-
 | spectacles | 眼镜 | Drops cling to his spectacles and he tries to wipe them away, serving only to make them more opaque as he splashes about. |
-
 | exertion | 费力；使力 | He puffs with exertion as he pumps his legs. |
-
 | humiliation | 羞辱；使难堪 | She opens her mouth to ask him if he can do this, but Zeke saves her from this humiliation by speaking first. |
-
 | flustered | 慌乱的；手足无措的 | He looks increasingly flustered. |
-
 | porcelain | 瓷器；瓷的 | Eventually, she feels the cool porcelain of the bathtub under her hands. |
-
 | barnacles | 藤壶（附着在贝壳与船底的甲壳动物） | It splashes over the tiles like a tide pool free from barnacles and crabs. |
-
 | receptacle | 容器（此处委婉指马桶座） | She realizes then that it’s for her, she’s supposed to take it, and that he would rather leave it on a waste receptacle than touch her again. |
-
 | copper-brown | 铜棕色的 | She sees copper-brown skin, a tuft of beard, and dark, dense curly hair wavering over an eye like a deer’s. |
-
 | wavering | 摇曳的；颤动的 | She sees copper-brown skin, a tuft of beard, and dark, dense curly hair wavering over an eye like a deer’s. |
-
 | dutifully | 恭敬顺从地 | Amir dutifully steps aside, eyes averted. |
-
 | insubstantial | 无形的；没有实质的 | She is as insubstantial as air to them. |
-
 | ineffectual | 无效的；不起作用的 | The punches, on any other day, would be ineffectual. |
-
 | discordant | 不和谐的；杂乱的 | Soon, she hears the wail of sirens, sees vehicles that wash the streets in red and blue discordant lights. |
-
 | viselike | 像钳子一样紧的 | Jenny hears the clack of hooves and turns just as Faun takes her hand in a viselike grip. |
-
 | uncomprehending | 听不明白的；一脸茫然的 | When Jenny still sees Faun is uncomprehending, she says, “The one we killed!” |
-
 | petulant | 任性的；赌气发作的 | Faun’s insults make her sulky, petulant. |
-
 | lemon-sour | 柠檬般酸的 | Faun’s mouth is a lemon-sour pucker. |
-
 | goat-legged | 长着羊腿的 | Her goat-legged companion shows her teeth. |
-
 | duckweed | 浮萍 | Green spirals down Jenny’s arm like she’s twined it with duckweed crowding the surface of a pond, but it’s her own skin peeking out at her. |
-
 | foolishly | 愚蠢地；不明智地 | “I trust foolishly. |
-
 | forefathers | 祖先；先辈 | “You leave my forefathers out of this.” |
-
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-
 | winces | （因痛或不适）皱眉；畏缩 | When they reach the air, Zeke winces at the sun. |
-
 | shrugs | 耸肩（表示不关心或推开） | Yet still he shrugs away from her touch. |
-
 | divots | （麻子似的）小坑；凹处 | “This is where I first learned the moon was a rock hanging in the sky and not just a disk pocked with divots made to float. |
-
 | craters | 环形山；火山口 | They knew and named the craters on its face. |
-
 | prying | 撬；撬开 | “A fisherwoman told me while she was prying open clams,” Jenny continues on anyway. |
-
 | opaque | 不透明的 | Drops cling to his spectacles and he tries to wipe them away, serving only to make them more opaque as he splashes about. |
-
 | ghastly | 苍白的；骇人的 | Jenny hates it, too, but she hates it even more as she sees Zeke’s face fold in on itself, turning a ghastly red, like he’s burning alive. |
-
 | sluice | （大量液体冲出的）涌流 | The first hot sluice of blood hits her tongue and it’s delicious and salty. |
-
 | oozing | 渗出；慢慢流出 | Jenny feels cold, despair oozing in her belly. |
-
 | sliver | 细长的一条 | Zeke opens the door so that Jenny can see the golden sliver of the hallway light. |
-
 | stately | 威严的；庄重的 | Jenny strides out of the bathroom as stately as any empress whose face has been printed on a coin, as proud as any actress on the stage. |
-
 | empress | 女皇 | Jenny strides out of the bathroom as stately as any empress whose face has been printed on a coin, as proud as any actress on the stage. |
-
 | averted | 移开的；避开的 | Amir dutifully steps aside, eyes averted. |
-
 | scummed | 浮着污垢的；覆着一层的 | Jenny smells the sex on her own skin, masked by salt water and scummed over by sweat. |
-
 | ratted | 告密的 | “Someone ratted us out, sweets.” |
-
 | harvest | 收割；夺取（此处指吃掉同类来维持自己） | She rests her chin on them and watches a woman—the waitress—and thinks that she ought to harvest someone like her to stave off her green skin. |
-
 | fencing | 击剑 | And when she comes to the table to give them all coffee, she mentions leaving soon to pick up a child at something called “fencing. |
-
 | sickly | 恶心的；腻味的 | She looks at them both blurrily, coming more fully awake to burnt coffee, grease, and the sickly sweet ooze of soap. |
-
 | mortals | 凡人（此处指人类） | “We’re forever creatures living in a world of mortals,” Faun says. |
-
 | ashamed | 羞愧的 | “It’s nothing to be ashamed of.” |
-
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-
 | shore | 岸；海岸 | She touches Zeke’s shoulder and points to the shore. |
-
 | tiles | 瓷砖 | It splashes over the tiles like a tide pool free from barnacles and crabs. |
-
 | moon | 月亮 | “This is where I first learned the moon was a rock hanging in the sky and not just a disk pocked with divots made to float. |
-
 | cheek | 脸颊 | Her cheek is a fibrous, screaming apple. |
-
 | teeth | 牙齿 | Even Jenny’s unsharpened teeth know how to bite. |
-
 | skin | 皮肤 | Her skin crawls when she considers the casual way Zeke estimated that the rest of his life could be measured in a few decades—a few years, really! |
-
 | ghost | 鬼；幽灵 | Jenny is hurt by this, reduced to a ghost when she has tried so hard to show herself to her best advantage. |
-
 | nun | 修女 | The nun with the rounded bite mark beneath her eye, leaking red down her chin and neck, would already be meat. |
-
 | purse | 手提包 | The purse hits Jenny in the stomach, driving the breath from her ridiculous lungs and making her gills flare. |
-
 | diner | 小餐馆 | In the diner, her hair and clothes dripping on the floor, Jenny doubts she’ll get much rest, but as Clyde and Faun settle into the booth stuck to the wall, as they all squeeze into seats that squeak beneath their respective persons, she folds her arms on the table and finds they make a nice pillow. |
-
 | smile | 微笑 | He cracks a smile that looks like it hurts his face. |
-
 | hand | 手 | Jenny squeezes Faun’s hand back because it’s comforting in its solidity, its sureness, even if Faun’s pulse hammers hard. |
-
 ## 一句话总结
 
 本章把上一章的坦白变成账单：他在水里说「Take me home」，她用一连串水路跳跃陪他回家，每到一处她就讲一段自己的神话（那段上岸的记忆里她被人当众欢呼，还被叫作 nymph），他的问题却越来越实际——Did you kill him after that? 直到他们回到那只已经漫水的浴缸：浴巾被放在污物容器上，接着是一句逐客令 You should go.。她走回自己家门口，撞见 Sister Mary Catherine Charles，先平静地自陈杀人与进食，再扑上去咬住对方的脸（a fibrous, screaming apple），却在血的味道里哭了并退开，于是本章最强的攻击没有完成。警笛响起，Faun 把她拖走，一路用淌着酸味的嗓子责骂她不会躲、不会装人（You’re very bad at hiding），故事于是从两个人的关系换成三个人的迁移：离开这座城市。雨里她睡了一觉，皮肤下的绿色成片浮出，随后答应带他们走。收尾在小餐馆：送咖啡的女服务员说起要去 fencing 接孩子，一句 They have little swords! 落在她刚咬过人的嘴上，而她还在等下一个可以歇脚的地方。
