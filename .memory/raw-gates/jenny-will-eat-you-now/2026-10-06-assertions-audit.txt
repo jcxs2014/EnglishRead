@@ -95,3 +95,39 @@
   误译、例句不完整），而这些**全部逃过 12–18 项门禁**——因为它们发生在中文分析层与
   译文层，而所有逐字判据只锚英文引语行。
   ⇒ 「worker 已自查过」**不能替代**回源核；凡 worker 标了存疑，主会话必须逐条核。
+
+━━━ 七、第二批回源核（ch14/ch15）+ 生产端缺陷 ━━━
+
+新增 4 处（均在中文分析层或词表层）：
+
+  8. **ch15 两处「上一章刀握在她手里」——章序颠倒**。
+     原文 `Jenny holds the knife up` 在 **ch16 开头**，位于 ch15 **之后**；
+     而 md 的 H1 章号 ch15 = 书内 Chapter Fourteen。⇒ 章号与叙事顺序混用导致的方向错误。
+  9. **ch14 词条 Knuckles 的例句是章标题行** `Chapter Thirteen: Knuckles`，不是正文句。
+ 10. ch14 原句 3 分析「捏住手腕」→ 原文是 `snatches her pale hand` ＋ `won't let go of the
+     long, delicate wrist` ⇒ 是「抓住不放」，不是「捏」。
+ 11. **ch12 两行 A 类虚构词条**：`| Chapter | 章；章节 | Chapter Eleven: Hands |` 与
+     `| Eleven | 十一 | Chapter Eleven: Hands |` —— 词头与例句**全部取自章标题行**，
+     且 `Chapter` 在本章正文只出现于第二个标题行（`Chapter ElevenHANDS`），
+     `Eleven` 在正文 **0 次** ⇒ check_vocab 的例句逐字校验对它无能为力（例句确实逐字"在 text 里"）。
+
+  ⭐ **第 11 条暴露的是生产端缺陷，已修 `build_vocab.py`**（`.build/`，gitignored）：
+    - 根因：`paras` 与 A1 词边界参照集 `text` **都包含章标题行**
+      ⇒ 标题里的词天然通过「词边界本章命中」，例句也被切成标题行本身。
+    - 修法：抽词前过滤 `^(Chapter\s+[A-Za-z]+|Prologue|Epilogue)\b` 且整段 ≤60 字符的单行段落，
+      并用过滤后的 `paras` 重建 A1 的 `text` 参照集（否则过滤会被原 `text` 里的标题行绕过）。
+    - 需拦两种形态：`Chapter Thirteen: Knuckles`（标题）与 `Chapter ThirteenKNUCKLES`（dropcap 变体）。
+    - **正向验证**：修后 ch12 产出 `Chapter`/`Eleven` **0 条**；ch14 的 `knuckles` 例句
+      自动变成正文整句 `When she looks down to admire his knuckles, she sees hers now have a green blush.`
+      ——与我手工替换的那句完全一致 ⇒ 改判据比改产物更根本（符合 AGENTS 第 8 条主张）。
+
+  ⚠️ **这类缺陷为何六道门禁全绿**：check_vocab 的「例句逐字命中」口径是
+  「例句字符串能在本章 text/ 里找到」——**而标题行就在 text/ 里**，所以它正确地判为命中。
+  ⇒ 与第 5 节同型：**断言只验「字符在不在」，不验「那是不是正文」**。
+
+━━━ 八、本轮累计 ━━━
+
+  两批回源核共核 7 份 worker 报告、**31 条存疑**，改 **14 处**；
+  其中真缺陷 11 处、确认原表述正确而故意不改 8 处、译文裁量 3 处、
+  无法证伪按「存疑不改」保留 2 处（ch10 放走情侣、ch01 全书唯一自称）。
+  另修 1 处生产端缺陷（build_vocab.py 章标题行泄漏）。
