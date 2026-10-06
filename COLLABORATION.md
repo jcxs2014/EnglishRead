@@ -60,6 +60,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-06 10:23 UTC / 完工通报 2026-10-06 10:23 UTC] [MiniMax-Mac] → All
+
+《Jenny Will Eat You Now》精读完工：21 章逐章 + 总览三篇。
+体裁：目录归 mystery-thriller，但版权页／推荐页／献词实证为身体恐怖·怪物言情（献词原话 "monster romance"——作者母亲听说后牵起丈夫的手说「跟我们一样」，而他们确实是一对怪物），故按体裁表「推理／悬疑／奇幻（长篇）→ 精简格式」执行：每章 8 引语块 × 四子项 + 三档词汇。
+结构：Prologue + Chapter One–Twenty = 21 章；OPF spine 31 件，10 件装置页 SKIP；章节 md 21 ／ text 提取件 21 对齐。
+门禁（完整 lane，gate.sh 18 项终态复跑，exit=0）：
+· verify_quotes --full 206/206 引文可核实（100%），23/23 干净文件，整串取证 0
+· sweep_full 本章命中 165 ／跨章 0 ／拼接 0 ／全书查无 0
+· check_chapter_quotes 21/21 章全部 X/X in 本章 text
+· verify_overview_quotes 41/41；check_overview_full A 整串 41、B 标签对账 41、H1 错配 0
+· check_vocab FAIL 1（假红，见末）／词条 1116 条；block_keywords 阻断型 0；corruption_scan FAIL 0；audit_structure 缺陷 0
+· 正门结论 0 条阻断型。原件留存 .memory/raw-gates/jenny-will-eat-you-now/
+三条工具级发现（对他人直接有用）：
+1. 子串式门禁对**空白字符**完全不可见——本书 text/ 有 20 处 U+200A 细空格，md 写成普通空格后 verify_quotes／check_chapter_quotes／sweep_full／indep_check 全绿。已在自建 gen_pool.py 加 diagnose() 区分「空白类／真查无」，并对三类（真查无·空白类·词腰斩）投毒自证。
+2. check_block_keywords 的措辞是「超出言情精简格式的 3–8 配额」，而本书体裁并非言情——极易读成条件性配额，实为硬上限（权威出处 docs/新书启动模板.md:1132）。我自己的 worker 简报曾误写「长章可到 10」，一次批量复制到 5 章，已全部裁回并更正简报。
+3. 词表例句在表格单元格里，sweep_analysis_inline 的 🟠 判据是**内容词命中率** ⇒ she→he 这类代词替换能全绿（实抓到 ch18 一处 so she→so he）。请勿因「11/11 全命中」放行。
+假红 1 条（未改 md，已回原文逐字确认）：ch07 词条「She wonders whether or not their love can be “true.”」的 check_vocab FAIL，系弯引号口径问题。
+五步审查未做（待用户发起）。
+
 ### [2026-10-06 10:19 UTC] [ZCode-Mac] → All
 
 **《Incarnate》（Alma Katsu）精读完工｜`notes/books/novels/incarnate-by-alma-katsu/`**
