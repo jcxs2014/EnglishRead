@@ -9,7 +9,7 @@ modified: "2026-10-06"
 
 - **场景·时间**：从「一周过去」的日程写起，前半是被上午朝堂与下午训练切成两半的日子；后半章落在一个不开朝会的日子——从残晨走到训练场边的那条河、河心一块平石，再到水下与岸上的草地，直到夜里。
 - **一句话概括**：她把训练塞进理政的空档，越练越近，直到一次落水把亲吻推到眼前；她在他伸手的那一刻拒绝了他，用的理由是身份而不是感情。
-- **情感弧线位置**：本章从「压抑的亲密」一路抬到水下的亲吻，再被她自己的两句判断压回「没有未来」；一整条起伏发生在同一个下午之内。
+- **情感弧线位置**：本章从「压抑的亲密」一路抬到水下的亲吻，再被她自己的两句判断压回「没有未来」；一整条起伏发生在同一天之内（原文自己写明：no court in session，要 spend the whole day training）。
 - **叙事手法**：第一人称限知。前半用日程清单与说明性对话压缩时间，后半用连续动作（石上练姿、落水、水下、岸边）把时间放开；一堂技术课被逐步改写成身体叙事。
 - **线索进展**：① magic 被讲成四类元素（Air, Water, Fire, Earth），而一个人擅长哪门，取决于他所处环境本有的性质；② 她替两人算好的账是 Once our pact was over，the God of War 就回到天上，而 Divine Pearl Lotus 是这桩约定的价；③ 章末一群 unfamiliar 的鸟掠过天，Zhangwei 的 shield 突然撤走，他说的是「Someone is coming . . . but I don’t know who.」
 
@@ -73,7 +73,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 第一句只有三个词，是全章节奏最硬的一击；紧接着 Immortals wouldn’t need to, when they could fly 用一句解释把「不能」合理化为「不必」——读者几乎要接受这个解释，第三个分句就把体温与毒拽了回来，合理性当场失效。两处身体信息（chill、poison）都不是新证据，是她在紧急时刻想起来的旧账。clutched 与她随后那句 refusing to let go 形成一对动作呼应：恐惧攥住她，她攥住他。
 
-**读者视角提示：** 从「他在装」到「他真的在沉」只用了三个句子，中间没有一个字写她的推理。判断的全部依据是身体感觉——这一段是本格推理式心理描写的反面。
+**读者视角提示：** 她的恶作剧（I wanted to swim away; he would be furious at my trick）与他真正下沉（only to sink deeper）之间只隔一句 But something wasn’t right，中间没有一个字写她的推理，判断的依据全是身体感觉。读到她上岸后问出 Were you pretending to drown? 时，会发现「装」这个字本就悬在这场水里。
 
 > **原句 7:** "Fire shot through my veins, searing every part of me. I was shattering, coming apart, even as he held me together."
 
