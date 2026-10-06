@@ -8,10 +8,10 @@ modified: "2026-10-06"
 ## 本章导航
 
 - **场景·时间**：pledging ceremony 前一日。从清晨对镜更衣开始，Zhangwei 在房外等候，两人同乘 phoenix 飞往 Phoenix Kingdom 的领地；降落、野餐、长谈、互易信物，章末仍停在凤凰栖息的那片草地上。
-- **一句话概括**：为卸下神的戒备，Liyen 穿上 Grandfather 死后的第一身亮色衣裙随 Zhangwei 出访；qilin 的拦截、他旧伤的自陈、关于杀戮与爱的对谈，把任务一寸寸挤成心动——她借"邀请"之名请他为 Tianxia 说话，他应允，两人以梳子与一绺头发互订凭证。
+- **一句话概括**：为卸下神的戒备，她穿上 Grandfather 死后的第一身亮色衣裙随 Zhangwei 出访；qilin 的拦截、他旧伤的自陈、关于杀戮与爱的对谈，把任务一寸寸挤成心动——她借"邀请"之名请他为 Tianxia 说话，他应允，两人以梳子与一绺头发互订凭证。
 - **情感弧线位置**：全章是出访途中的一段喘息——戒备没有消失，只是被美景与坦白一再延后；结尾她自认"不想让它结束"，把这份延后写成了不舍。
 - **叙事手法**：第一人称限知；大段对话承担人物重塑，她每接受一次温柔就补一句"不该"的内心旁白；qilin 一段先给奇观后给名与解释；风景书写（glittering sand、花海、azure ocean）服务于人物卸下心防的过程。
-- **线索进展**：① 旧伤——他亲口承认战争留下的伤（本章明写 this was the first time he’d spoken of them）：Some days I still feel its shadow.；② 承诺——I will speak for Tianxia.；③ 信物交换：a comb of lacquered sandalwood 对上 a lock of your hair；④ 她自曝 low trickery：邀请里掺着任务；⑤ 腕上的 red thread 重申时限——留下只有死亡。
+- **线索进展**：① 旧伤——他亲口承认战争留下的伤（本章明写 this was the first time he’d spoken of them）：Some days I still feel its shadow.；② 承诺——I will speak for Tianxia.；③ 信物交换：a comb of lacquered sandalwood 对上 a lock of your hair；④她自曝 low trickery：邀请里掺着任务；⑤ 腕上的 red thread 重申时限——留下只有死亡。
 
 ## 精读
 
@@ -43,7 +43,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 停顿的位置比台词更响：他先把"另一种选项"（killing）确认给她听，再给出原则——说明这句不是说给自己听的格言，而是说给她听的教导。never 与 the first answer 都留了余地：可以是第二个、第三个答案，这与他对"何时必须动手"的坦白一致。一个被叫作 God of War 的人开口先讲"不动手"，裂缝就在这句话里。
 
-**读者视角提示：** 她先前对这只 qilin 的假设（"更凶恶"）刚刚落空，他这句又把她的第二层假设推倒——本章他一直在修正她的先入之见。
+**读者视角提示：**她先前对这只 qilin 的假设（"更凶恶"）刚刚落空，他这句又把她的第二层假设推倒——本章他一直在修正她的先入之见。
 
 > **原句 4:** "Yet those soft feathers came with talons that could rend flesh like silk, and a mortal here was nothing but prey."
 
@@ -73,7 +73,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 两个对称的判断句先抛结论再补条件，if they are the right person 后置，让 One is enough 先声夺人。how often 与 how well 同词形、异词性，把"次数"贬成量词、把"品质"抬成标尺。语境也讲究：她刚替他数出"只爱过一个人"的窘，他纠正说数错了问题——她问数量，他答质量，一次对谈被重新定义。
 
-**读者视角提示：** 她此前刚说过，immortals 最大的福气是不必与所爱之人死别；他用这句话把"永恒"的重心从寿命挪到"一次、深爱"——读者可以留意她胸口那种"说不清是嫉妒还是羡慕"的疼。
+**读者视角提示：**她此前刚说过，immortals 最大的福气是不必与所爱之人死别；他用这句话把"永恒"的重心从寿命挪到"一次、深爱"——读者可以留意她胸口那种"说不清是嫉妒还是羡慕"的疼。
 
 > **原句 7:** "“I would welcome you to Tianxia,” I told him. “For myself, not from duty. Not because we are bound in service.”"
 

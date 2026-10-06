@@ -9,9 +9,9 @@ modified: "2026-10-06"
 
 - **场景·时间**：Tianxia 王宫，深夜。战火烧遍宫殿、花园与回廊；Grandfather Zhao Likang 拉着 Liyen 躲进一座荒废院落，把从 Kunlun Mountain 采得的 Divine Pearl Lotus 强行化进她体内，抵住 Wangchuan 河带来的死；随后 Aunt Shou 与 Chengyin 背她出东门，身后丧钟连响。
 - **一句话概括**：一个被判了死刑的继承人，在祖父用欺神之罪换来的莲花里活了下来，却只能看着祖父死在战神手下——她离城时在心里立下誓言，要为族人另开一条路。
-- **情感弧线位置**：全书开局，一章之内走完「宣判 → 救命 → 失去 → 立誓」；最低点由祖父之死砸出，紧接着被最后一句誓言拉起，是本段里谷底与决心贴得最近的一刻。
+- **情感弧线位置**：开篇一章之内走完「宣判 → 救命 → 失去 → 立誓」；最低点由祖父之死砸出，紧接着被最后一句誓言拉起，是本段里谷底与决心贴得最近的一刻。
 - **叙事手法**：第一人称限知，且叙述者全程失语（药效让她既不能动也不能说），因此大量信息由 Grandfather 与 Aunt Shou 的对话「说」给她听；她看见的与读者听到的之间被刻意错开半拍。章末以钟声与一句独白收束，不作解释。
-- **线索进展**：① 凡人与 immortals 的关系是供养而非平等——they'd built a wall around Tianxia，代价是 we were the custodians of their secrets；② Liyen 的病因是误饮了 Netherworld 的 Wangchuan 河水，能解的只有 Kunlun 山上那朵 the only one of its kind 的莲花；③ 祖父偷莲不是为私利，他自己早说过 There are lies of necessity and those of malice；④ 章末留下两条未解的钩子——战神为何亲手灭火，以及 Queen Caihong 为何 we can no longer sense its presence。
+- **线索进展**：① 凡人与 immortals 的关系是供养而非平等——they’d built a wall around Tianxia，代价是 we were the custodians of their secrets；② Liyen 的病因是误饮了 Netherworld 的 Wangchuan 河水，能解的只有 Kunlun 山上那朵 the only one of its kind 的莲花；③ 祖父偷莲不是为私利，他自己早说过 There are lies of necessity and those of malice；④ 章末留下两条未解的钩子——战神为何亲手灭火，以及 Queen Caihong 为何 we can no longer sense its presence。
 
 ## 精读
 
@@ -83,7 +83,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 祖父在整章里说的都是保命的话，只有这两句是关于「以后」的。而且它给出了一个极具体的政治判断：墙不是保护，是扣押。The world beyond is part of ours 用一个 is part of 把「墙外」从禁区改写成财产——这话是写给未来的继承者听的。
 
-**读者视角提示：** 主题句在这里第一次完整说出：祖父要推翻的，正是那些认为凡人只配守在墙内的说法。
+**读者视角提示：** 本章把这句话写得最完整：祖父要推翻的，正是那些认为凡人只配守在墙内的说法。
 
 > **原句 8:** "And I would forge a new path for us, to set us free of these ruthless gods."
 

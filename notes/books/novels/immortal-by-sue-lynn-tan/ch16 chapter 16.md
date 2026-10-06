@@ -8,10 +8,10 @@ modified: "2026-10-06"
 ## 本章导航
 
 - **场景·时间**：归程与当晚的朝会：qilin 落在 Tianxia 宫城外，暮色上来（dusk crept up around me），她独行盘算后进宫更衣、直入正殿见晚朝。
-- **一句话概括**：Liyen 带着战神的剑回国，先收好恩与伤，再在朝堂上压住 Minister Guo 与 Minister Dao 的摄政试探，最后抛出一个名为 a fight to the death 的假招亲提案，把朝局搅成读不懂她的局面。
+- **一句话概括**：她带着战神的剑回国，先收好恩与伤，再在朝堂上压住 Minister Guo 与 Minister Dao 的摄政试探，最后抛出一个名为 a fight to the death 的假招亲提案，把朝局搅成读不懂她的局面。
 - **情感弧线位置**：劫后回位——归乡的软在同一章里让位给盘算（This time, the stakes were in the open），结尾她已经能把威胁当作工具使用。
 - **叙事手法**：第一人称限知；前半章是独行中的内心盘算，后半章是朝堂对话的回合制；君臣彼此以 Your Ladyship 的称呼往复标示位置，而她的威仪是借来的腔调（My tone emulated the way Queen Caihong had spoken to me）。
-- **线索进展**：① 莲花仍在胸口，疤已不发光，只余血迹；② 战神的剑被裹进锦缎、锁进书房（I wrapped the god's sword in a piece of brocade and locked it into a cupboard in my study）；③ 东境大水被疑为女王怒意的溢出——Was the storm the mark of her displeasure, spilling over to us?；④ 下毒者仍未查明（who'd poisoned me before）；⑤ Chengyin 当众宣告效忠，她开始模仿君主的说话方式；⑥ fight to the death 提案她自己并不打算实行（While I had no plans of holding this event），却可能筛出更坚决的对手（Or it might leave those more determined, my mind reminded me drily）。
+- **线索进展**：① 莲花仍在胸口，疤已不发光，只余血迹；② 战神的剑被裹进锦缎、锁进书房（I wrapped the god’s sword in a piece of brocade and locked it into a cupboard in my study）；③ 东境大水被疑为女王怒意的溢出——Was the storm the mark of her displeasure, spilling over to us?；④ 下毒者仍未查明（who’d poisoned me before）；⑤ Chengyin 当众宣告效忠，她开始模仿君主的说话方式；⑥ fight to the death 提案她自己并不打算实行（While I had no plans of holding this event），却可能筛出更坚决的对手（Or it might leave those more determined, my mind reminded me drily）。
 
 ## 精读
 
@@ -57,7 +57,7 @@ modified: "2026-10-06"
 
 > **原句 5:** "I climbed the dais and settled into my throne. It felt unfamiliar, the seat too wide—yet I didn’t want to be anywhere else."
 
-**中文理解：** 她登上台基，坐进王座。位置陌生，座面太宽——可她没有别处想去。
+**中文理解：**她登上台基，坐进王座。位置陌生，座面太宽——可她没有别处想去。
 
 **关键词：** climbed the dais · settled into · unfamiliar · too wide · anywhere else
 
@@ -71,7 +71,7 @@ modified: "2026-10-06"
 
 **关键词：** I want to be here · presume · revert to what they were · emulated
 
-**为什么这样写：** 她先立意志（I want to be here），再禁揣度（Don't presume），后收职责、挂呈文——四个动作一层层把摄政提案拆干净。然后最后一句自曝方法：emulated 是「仿效」，她仿的是方才在同一座殿里压制过她的那位——权力的转移被压缩进一个动词：从伤害她的人那里借来腔调，用来守住自己的位置。
+**为什么这样写：**她先立意志（I want to be here），再禁揣度（Don’t presume），后收职责、挂呈文——四个动作一层层把摄政提案拆干净。然后最后一句自曝方法：emulated 是「仿效」，她仿的是方才在同一座殿里压制过她的那位——权力的转移被压缩进一个动词：从伤害她的人那里借来腔调，用来守住自己的位置。
 
 **读者视角提示：** Aunt Shou 在殿侧清嗓——a warning to remain calm：她这一回合赢了，但殿上有人在看着她怎么赢。赢法本身也是被观看的对象。
 
@@ -83,11 +83,11 @@ modified: "2026-10-06"
 
 **为什么这样写：** 两个 did not 完成一场祛魅：龙袍与羽衣两个意象，分别拆穿「power」与「might」两个词；后半句故意挑一件并不存在的衣服（羽毛披风）来嘲讽前半句里真实可穿的那件（绣龙袍）——抽象的 illusion 被 robe 与 cloak 两个具体物件拆到看得见、摸得着、穿不上的地步。
 
-**读者视角提示：** 就在本段上一句，她还在想 almost wishing I'd worn one of my gold headdresses——先承认需要道具，再用两句话否定道具的效力；这处自相矛盾她没有调和，读者只好替她记账。
+**读者视角提示：** 就在本段上一句，她还在想 almost wishing I’d worn one of my gold headdresses——先承认需要道具，再用两句话否定道具的效力；这处自相矛盾她没有调和，读者只好替她记账。
 
 > **原句 8:** "I leaned my head upon my hand, dealing the final blow, one to ensure this plan never saw the light. “It will be a fight to the death. The winner will be the last one remaining.”"
 
-**中文理解：** 她把头倚在手上，给出致命一击——确保这个提案永远见不到天日的那一击：「比的是死斗。活下来的那一位就是胜者。」
+**中文理解：**她把头倚在手上，给出致命一击——确保这个提案永远见不到天日的那一击：「比的是死斗。活下来的那一位就是胜者。」
 
 **关键词：** leaned my head upon my hand · dealing the final blow · never saw the light · a fight to the death · the last one remaining
 

@@ -9,9 +9,9 @@ modified: "2026-10-06"
 
 - **场景·时间**：对峙发生在 Queen Caihong 的宫殿大厅，一路持续到她逃入云端，出花园时太阳已低——"The sun hung low, a crimson disc crowning the heavens"；空间从王座前→侧廊→后宫竹园→草地尽头。
 - **一句话概括**：God of War（Lord Zhangwei）以「真实感情」为燃料的法术来夺她体内的 Divine Pearl Lotus；法术在她确认「不爱」的那一刻停摆，她反手以发簪破局、夺下他的剑，趁 Winged Devils 攻破宫殿之际乘 qilin 逃离。
-- **情感弧线位置**：背叛的谷底与反击的起点被压在同一场戏里——先坠落（even as his deceit was laid bare—the fact I hurt meant that I'd cared），再硬起来（I would not be their victim; I would fight back）。
+- **情感弧线位置**：背叛的谷底与反击的起点被压在同一场戏里——先坠落（even as his deceit was laid bare—the fact I hurt meant that I’d cared），再硬起来（I would not be their victim; I would fight back）。
 - **叙事手法**：第一人称限知，大半是对峙戏，法术的法则由施夺者亲口交代（your feelings had to be real）；局势的转折由一次具体动作（发簪刺入握刀的手）而非心理独白完成；章末动作停住，靠内心清算收束。
-- **线索进展**：① 抽取停在半空——the glittering trail of the lotus stilled in the air like time itself had frozen；② 只认主人的剑落在她手里而她没死；③ 她 regret 地丢下 the Shield of Rivers and Mountains（原文：left on the table），空手离殿；④ qilin 由追逐者变救者（The qilin who'd chased the God of War and me），心意始终未被言明；⑤ Winged Devils 破宫（the Winged Devils have breached the palace）；⑥ 章末定调：He would come for me; he would stop at nothing to get what he wanted. 与 But this time, I would be ready for him. 并置成收束。
+- **线索进展**：① 抽取停在半空——the glittering trail of the lotus stilled in the air like time itself had frozen；② 只认主人的剑落在她手里而她没死；③ 她 regret 地丢下 the Shield of Rivers and Mountains（原文：left on the table），空手离殿；④ qilin 由追逐者变救者（The qilin who’d chased the God of War and me），心意始终未被言明；⑤ Winged Devils 破宫（the Winged Devils have breached the palace）；⑥ 章末定调：He would come for me; he would stop at nothing to get what he wanted. 与 But this time, I would be ready for him. 并置成收束。
 
 ## 精读
 
@@ -43,7 +43,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 比喻的力量在量级：一边是 sparrow，一边是 a tiger 的 claws，是力量悬殊到「struggling」注定无效的一对。同位语直接挂上（不用 like 或 as），「动物化」在一拍内完成。recoiled（被碰之后的弹开）与 struggling（被握住之后的挣动）给足恐惧的生理动词，merciless claws 再把权力关系说死：他握着的不只是刀，也是她。
 
-**读者视角提示：** 这一句紧挨着 Lord Zhangwei's arm slid around me——同一条手臂既箍住她也撑住她；姿势的暧昧就是关系的暧昧。
+**读者视角提示：** 这一句紧挨着 Lord Zhangwei’s arm slid around me——同一条手臂既箍住她也撑住她；姿势的暧昧就是关系的暧昧。
 
 > **原句 4:** "“Never again,” I swore. “They were wrong about you. Your heart isn’t made of ice—you have no heart.”"
 
@@ -83,7 +83,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 与上一句构成对位：Why does it matter, if you hate me anyway? 她接下他的前提（恨），把它翻成自己的结论（能伤）。with all the malice and pride I could muster 交代了这笑的成本：她凑得动的只有恶意与骄傲，凑不出爱——正好与法术的失败对上。Because then, I can hurt you 短促如判词，then 后的逗号是推理的枢纽。
 
-**读者视角提示：** 上一行 He didn't deny it 是她笑容的前提：他的沉默坐实了她手里有刀。
+**读者视角提示：** 上一行 He didn’t deny it 是她笑容的前提：他的沉默坐实了她手里有刀。
 
 > **原句 8:** "The God of War’s sword was said to strike fear in the hearts of monsters, to leech life as easily as a sponge soaks water, a weapon that would only answer to its master. And yet, it was in my hand . . . and I was still alive."
 

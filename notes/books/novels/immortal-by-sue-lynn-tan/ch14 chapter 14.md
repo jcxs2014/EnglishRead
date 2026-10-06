@@ -8,7 +8,7 @@ modified: "2026-10-06"
 ## 本章导航
 
 - **场景·时间**：pledging ceremony 当日。从晨起更衣（pale and gray 的天色、细雨如雾）到赴御座厅对质，一日之内走完；章末停在匕首刺入胸口的一瞬。
-- **一句话概括**：Liyen 依计在典礼上抗命不誓，请求 Queen Caihong 归还 Shield of Rivers and Mountains、放 Tianxia 重入人间；Zhangwei 依约替她说话触怒女王，女王却当场揭破 Divine Pearl Lotus 就在她体内——原来全程是局，他以仪式为名制住她，把她的发丝缠上匕首，章末一刀刺下。
+- **一句话概括**：她依计在典礼上抗命不誓，请求 Queen Caihong 归还 Shield of Rivers and Mountains、放 Tianxia 重入人间；Zhangwei 依约替她说话触怒女王，女王却当场揭破 Divine Pearl Lotus 就在她体内——原来全程是局，他以仪式为名制住她，把她的发丝缠上匕首，章末一刀刺下。
 - **情感弧线位置**：从"觉醒的信任"直坠进"被制造的背叛"——前半章她开始信，后半章信任的每个细节被反过来用作证据；落点比哀悼更低，因为动手的是前一日刚与她互易信物的人。
 - **叙事手法**：第一人称限知；典礼前的心理铺垫用长句，殿中对质用短促交锋；天气、衣料与珠宝反复侧写权力落差；结尾连排三个独句短段（Lies. All lies. 一类）作鼓点。
 - **线索进展**：① 女王一句 All but the most important one. 点破 Grandfather 的"抗命"从未被原谅；② 旧伤真相——The Wuxin attack—you never recovered from it，他缺的是莲，不是她；③ 信物反噬：the strands of my hair 被缠上匕首，成了一句 "A token of the heart, given of your free will."；④ 莲"不可力取，须心甘情愿赠出"的规矩（"The lotus cannot be seized by force"）成了他取莲的程序；⑤ Weina 与 Lieutenant Yang 两个友善的 immortal 留在对照位上。
@@ -23,7 +23,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** dawned 本属日出，接 pale and gray 就是反用——"亮"成了不吉。incessant（不停）与 light（细雨）矛盾并置：这场雨不砸人，只是一直在，像女王的心绪。weaving of mist 把雨写成织物，与紧随其后的衣料、珠宝铺陈同源——这个世界的"美"从头到尾都是权力的织法。
 
-**读者视角提示：** 她自己也把天象读成女王的脸色（the skies were any reflection 一句在本章前面），天气的伏笔不靠悬念靠人物自己的解读。
+**读者视角提示：**她自己也把天象读成女王的脸色（the skies were any reflection 一句在本章前面），天气的伏笔不靠悬念靠人物自己的解读。
 
 > **原句 2:** "“Change is always frightening.” He turned to look into my eyes. “But trust in what is real. Trust in me.”"
 
@@ -57,7 +57,7 @@ modified: "2026-10-06"
 
 > **原句 5:** "The flash in her eyes fractured my calm. But I’d come this far; I wouldn’t back down now. “Your Majesty, a pledge of loyalty should be offered, not claimed.”"
 
-**中文理解：** 她眼中一闪而过的光把我的镇定击碎。但我已走到这一步，此刻不会退让。「陛下，效忠之誓应当是献出的，不是索取的。」
+**中文理解：**她眼中一闪而过的光把我的镇定击碎。但我已走到这一步，此刻不会退让。「陛下，效忠之誓应当是献出的，不是索取的。」
 
 **关键词：** fractured my calm · come this far · offered, not claimed
 
@@ -73,11 +73,11 @@ modified: "2026-10-06"
 
 **为什么这样写：** pinned by its wings 借的是标本制作的动词：她不是被抓住的，是被做成展品的——"美"与"被固定"同时发生，正呼应本章前面女王殿里那些 strewn as carelessly as pebbles 的珠宝。同段里他的动作被写成 sheathing me in a wintry embrace：拥抱一词被他的魔法征用，反讽由她自己点破（fool that I was）。
 
-**读者视角提示：** 她说过 I’d seen him attack others——观看经验早就存在，缺的只是"被观看者会是我"这一格；读者的信息差在此归零，背叛因此不再包装。
+**读者视角提示：**她说过 I’d seen him attack others——观看经验早就存在，缺的只是"被观看者会是我"这一格；读者的信息差在此归零，背叛因此不再包装。
 
 > **原句 7:** "She knew—they knew. Nothing had been a coincidence; they had plotted everything that led me here."
 
-**中文理解：** 她知道——他们都知道。没有一件事是巧合；把我引到这里的每一件事，都是预先布置好的。
+**中文理解：**她知道——他们都知道。没有一件事是巧合；把我引到这里的每一件事，都是预先布置好的。
 
 **关键词：** She knew · Nothing had been a coincidence · had plotted
 
