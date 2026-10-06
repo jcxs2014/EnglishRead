@@ -230,3 +230,56 @@
   若按后者执行，会误伤所有带语言学注解的词条（本库已有 sciendum / maenad 等多例），
   且把「词表列的职责边界」搞错 —— 这正是 AGENTS 第 8 条说的
   「缺陷率由生产方式决定」：**判据写错会批量改坏正当内容。**
+
+━━━ 十一、更正：ch07 那条 FAIL 不是假红，是阻断型（2026-10-06）━━━
+
+  ⚠️ **本节推翻前几节（含协作板）里我自己写的一条定性。**
+  此前把 ch07 词条 `truth` 的 check_vocab FAIL 记为「假红（弯引号口径）、不改」，
+  并据此对外报过「check_vocab FAIL 1 为已知假红」。**那是错的。**
+
+▍11.1 三项独立证据推翻「假红」
+
+  ① **假红豁免的前提不成立**：豁免要求本章语料为空，而 ch07 语料
+     **21,325 B**，原句就在 `text/ch07_chapter_six_blood.txt:308`。
+  ② **拼装串全书查无**：`grep "She wonders whether"` 全书 **0 次**。
+  ③ **原文主语不是 She**：`“wonders whether or not their love can be “true.””`
+     全书仅 1 处，主语是**书中书里那个女人**：
+     `She turns them at random and finds she is reading about a woman on a beach
+      with a man. Water crashes on a surf, a woman admires the taste of a man’s
+      tongue (nothing to be particularly excited about, in her experience), and
+      wonders whether or not their love can be “true.”`
+     ⇒ 把主语记成 Jenny，既**伪造句法**又**记错人物归属**。
+
+▍11.2 epub 展平裁决 ⇒ B 类，不是 A 类
+
+  `\btruth\b` 词边界：epub 全文 **7 次**；text/ 分布 ch02·ch04·ch11·ch17·ch18(×2)·ch20
+  —— **ch07 一次都没有**（`\btrue\b` 在 ch07 = 2 次）。
+  ⇒ 按 AGENTS 第 5 条：**epub 有而本章 text 缺 = B 类语料缺失**，
+  处置是「优先改用文中真实词形」，而不是留着不管。
+
+▍11.3 修复前后对照（ch07:154，基础档表）
+
+  修复前：
+    | truth | 真实 | She wonders whether or not their love can be “true.” |
+  修复后（例句取自 ch07:311 的逐字整句，未被他处使用，故不与 :173 的 surf 例句重复）：
+    | true | 真的；真实的 | Curious, Jenny reads on, but an explanation on how love can exist as something “true” is not forthcoming. |
+
+  复核：check_vocab **FAIL(1) → FAIL(0)**；词条行 1114 不变（换词不删行）；
+  新例句逐字命中本章 1 次、词头 `true` 本章词边界 2 次；
+  corruption_scan FAIL 0；indep_check 报警 0；gate.sh exit=0。
+  commit `0d8e176c3`。
+
+▍11.4 ⚠️ 为什么我会把阻断型读成假红（这才是要记住的）
+
+  **我看的是工具的标签，不是报警的内容。**
+  `check_vocab` 把这条报成 FAIL，而 FAIL 按定义就是阻断型；
+  我看到例句里有弯引号 `“true.”`，就顺势归因成「弯引号口径问题」——
+  这是**先有结论再找解释**，不是先读报警再定档。
+
+  判据（一行）：
+  > **假红的唯一合法依据是「参照集为空 / 例句确实在原文里但工具口径错了」。
+  > 任何不是这两种情形的 FAIL，一律先当阻断型，再去找它假红的证据。**
+
+  代价：这条 FAIL 在我手上存了**整本书的时间**没修，
+  且我对外（协作板）把「阻断型 0」与「假红 1 条」一并报过——
+  **报告里的每一个「假红」都是一次未经验证的断言。**
