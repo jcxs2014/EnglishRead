@@ -91,7 +91,7 @@ modified: "2026-10-06"
 
 **关键词：** Run · his first breath of freedom · He’d wanted me to be safe · get away · not without him
 
-**为什么这样写：** Zhangwei 前面刚说出 If I have to wound him to help us all escape, I won’t endanger his life.，而她的答复不在台词里——她用一个词的记忆完成拒绝。Run. 单独成句，是他脱身那一刻说出的全部内容，因此后面每个逗号都像在替这一句话结账；And I would, but not without him 把「听话」与「不独自走」缝在一起。
+**为什么这样写：** Zhangwei 前面刚说出 If I have to wound him to help us all escape, I won’t endanger his life.，她口头只答到 I just don’t want him to be hurt.；真正拍板的不是这句台词，而是 Chengyin 脱身那口气里的一个词。Run. 独立成句、领起整段，「答应跑」与「不肯单独跑」的分界全压在 And I would, but not without him 的 but 上，随后 As I nodded, fighting down a wave of despair 才把这份有条件的服从落成动作。
 
 **读者视角提示：** 章末她把这句记忆落成次序：Chengyin will leave first—and then, we will go together.。读者读到最后一句 Where you go, I go. 时，可以把它和这个先后对照着看——两个人让步的方向正好相反。
 
