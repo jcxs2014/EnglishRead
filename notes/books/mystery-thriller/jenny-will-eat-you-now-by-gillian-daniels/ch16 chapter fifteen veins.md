@@ -21,7 +21,7 @@ modified: "2026-10-06"
 
 **关键词：** This is what happens when you cut me · skids the edge of the knife down the center of her chest · somehow that makes it sting more · The porcine skin parts · like a page being turned in a book · it begins to knit together
 
-**为什么这样写：** 全章开场把上一章那场搏斗直接转成一场演示：她不躲，反而自己拿刀划开胸膛给对方看证据，于是持刀的人从威胁者变成观众。somehow that makes it sting more 用一个不合常理的连词承认了力学上的反常——不是切得深更疼，是切得不够深反而更疼，于是自伤失去了安全垫，读者被迫看着她动手。比喻的两端各配一个：翻书页那一端让伤口显得整齐、可读、像印刷品；it begins to knit together 那一端把愈合写成工艺（织、编织），正对着他房间里那些怪物海报——在她自己家里，她就是那个不需要化妆的怪物。末句那个单字「There.」把整场展示收成一个已完成的动作，像是交付完毕。
+**为什么这样写：** 全章开场把上一章那场搏斗直接转成一场演示：她不躲，反而自己拿刀划开胸膛给对方看证据，于是持刀的人从威胁者变成观众。somehow that makes it sting more 用一个不合常理的连词承认了力学上的反常——不是切得深更疼，是切得不够深反而更疼，于是自伤失去了安全垫，读者被迫看着她动手。比喻的两端各配一个：翻书页那一端让伤口显得整齐、可读、像印刷品；it begins to knit together 那一端把愈合写成工艺（织、编织），正对着他房间里那些怪物海报——而在那间属于他的屋子里，她反倒成了那个不需要化妆的怪物。末句那个单字「There.」把整场展示收成一个已完成的动作，像是交付完毕。
 
 **读者视角提示：** 记住她的身体可以当场拆开再现场拼回去。往后凡涉及她怎么在人群里隐藏身份，答案都在这层皮上。
 
@@ -51,7 +51,7 @@ modified: "2026-10-06"
 
 **关键词：** blooms open, a blue flower that pulls them down · Water rolls sweetly over her skin · She missed this! · It’s different from rain, from sweat, from a bathtub · It’s the ocean behind the oceans, and it holds her
 
-**为什么这样写：** 中段一次完整的感官释放，而作者把它写成回家而不是逃亡。blooms open 与 blue flower 让一个机械动作（缸底开了）变成开花，于是入口是生物性的而不是管道零件。三个感叹号连打，语调在这里失守——冷静的叙述者在这里承认自己想念，而承认的对象是一股水。三个比较项全是她身上或身边的水：雨、汗、浴缸，本节开头她还嫌水龙头声太小，这里已经把同一股水认成了故乡。最后一句把内陆浴缸和外海套成包含关系（海洋背后的海洋），并把「抱住他」这件事换成第三方主语来承托她——是那个地方在托住她，不是他在。
+**为什么这样写：** 中段一次完整的感官释放，而作者把它写成回家而不是逃亡。blooms open 与 blue flower 让一个机械动作（缸底开了）变成开花，于是入口是生物性的而不是管道零件。三个感叹号连打，语调在这里失守——冷静的叙述者在这里承认自己想念，而承认的对象是一股水。三个比较项全是她身上或身边的水：雨、汗、浴缸，本节开头管道里那点水声还只是 compared to the roar of waves 的 trickle，她却已经 but it grounds her，到这里更把同一股水认成了故乡。最后一句把内陆浴缸和外海套成包含关系（海洋背后的海洋），并把「抱住他」这件事换成第三方主语来承托她——是那个地方在托住她，不是他在。
 
 **读者视角提示：** 从这一句起沙滩上的一切才安全。到结尾陌生人出现时，那层安全感会被一次性收走。
 

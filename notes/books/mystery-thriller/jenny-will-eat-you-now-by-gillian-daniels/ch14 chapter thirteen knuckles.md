@@ -35,7 +35,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 注意她读标语牌时用的是 reads aloud slowly。慢读是因为认不全字，而 Zeke 没有纠正她。
 
-> **原句 3:** And Jenny pauses. She recognizes herself in this woman, the fear she has when she thinks about humans physically overwhelming and murdering her, of how she must bite first or be bitten. Or run through with a spear.
+> **原句 3:** And Jenny pauses. She recognizes herself in this woman, the fear she has when she thinks about humans physically overwhelming and murdering her, of how she must bite first or be bitten. Or run through with a spear. It’s served her well to strike every person she’s seen as an intruder, whether adult or child. In her way, is this woman not doing the same thing? Trying to strike first?
 
 **中文理解：** 詹妮停住了。她在这个女人身上认出了自己：她害怕人类在身体上压倒她、杀死她；她必须先咬，否则就被咬；或者被一支矛穿透。她这一路做得顺，就是把见到的每个人——不论大人还是小孩——都当成入侵者。在她看来，这个女人不也在做同样的事吗？也想先下手？
 

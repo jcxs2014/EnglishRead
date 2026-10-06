@@ -25,13 +25,13 @@ modified: "2026-10-06"
 
 **读者视角提示：** 请记住这条等式：水＝安全的母体，地面＝需要伪装的危险处。后面每一次她进城，都在违反它。
 
-> **原句 2:** “I was a waitress when we met. None of the regulars at the bar where I worked liked him.” To her surprise, the woman gives a gentle laugh. “Not a lot of people do.”
+> **原句 2:** “Not to my face. I was a waitress when we met. None of the regulars at the bar where I worked liked him.” To her surprise, the woman gives a gentle laugh. “Not a lot of people do. I knew him when I was Mary-Cat Charles…”
 
-**中文理解：** 「我们认识时我是女服务员。我工作的那家酒吧里的常客没有一位喜欢他。」女人自己也吃了一惊，轻轻笑了。「喜欢他的人本来就不多。」
+**中文理解：** 「我们认识时我是女服务员。我工作的那家酒吧里的常客没有一位喜欢他。」女人轻轻笑了，詹妮自己倒吃了一惊。「喜欢他的人本来就不多。」
 
 **关键词：** I was a waitress when we met · None of the regulars at the bar where I worked liked him · gives a gentle laugh · Not a lot of people do
 
-**为什么这样写：** 作者用「常客都不喜欢他」这件事，同时交代了这个男人的全部社交处境与他和她的关系起点（她曾是服务员）。To her surprise 这个插入语交代的是**作者**在替读者惊讶——说明连叙述者都没料到修女会笑。而 Not a lot of people do 这句把「不喜欢他」与「不喜欢他的人」重叠在一起，于是拉尔夫的孤独第一次被摆到台面上。
+**为什么这样写：** 作者用「常客都不喜欢他」这件事，同时交代了这个男人的全部社交处境与他和她的关系起点（她曾是服务员）。To her surprise 这个插入语交代的是**詹妮**在意外——她没料到这个修女会笑。而 Not a lot of people do 这句把「不喜欢他」与「不喜欢他的人」重叠在一起，于是拉尔夫的孤独第一次被摆到台面上。
 
 **读者视角提示：** 拉尔夫在本书里是被议论的对象，不是被同情的对象。修女是唯一一个同时承认「他不好」与「我还是照看他」的人。
 

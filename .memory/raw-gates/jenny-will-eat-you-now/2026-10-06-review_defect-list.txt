@@ -1,0 +1,223 @@
+Jenny Will Eat You Now · AGENTS 第 10 条独立审查五步法（a–e）· 缺陷清单与分类
+审查日期：2026-10-06（同一会话内用户主动发起；a–e 全量执行，未降级、未采信此前任何门禁数字）
+审查方 = 写作方（已按第 10 条「不得因是我写的而自我豁免」执行；结论部分见盲区声明）
+
+═══════════════════════════════════════════════════════════════════
+零、lane 与前提
+═══════════════════════════════════════════════════════════════════
+lane：完整 lane（library/*.epub 在位 ⇒ verify_quotes / check_vocab 的 epub 口径裁决成立）
+参照集：text/ 21 件 / 419,775 字符（每次脚本前均 assert 非空）
+章号口径：md chNN = Prologue(ch01) / Chapter One(ch02) … Chapter Twenty(ch21)；
+          总览三篇写「第N章」时一律指 md chNN（已用 ch03 眼镜男、ch06 餐厅、ch11 登记名、ch14 标语牌四处交叉验证）
+
+═══════════════════════════════════════════════════════════════════
+一、a 步（第 3 条提交门禁全量重跑）——14 项全绿
+═══════════════════════════════════════════════════════════════════
+原件：2026-10-06-review_a-gates.txt（228 行 / 12,716 B）
+  verify_corpus P0-0 FAIL 0 / WARN 0 · verify_quotes --full 206/206 100%（23/23 干净文件）
+  check_vocab FAIL 0（词条行 1114）· check_entities 未知实体 0 · corruption_scan FAIL 0
+  sweep_full 本章 165 / 跨章 0 / 拼接 0 / 查无 0 · check_block_keywords 阻断型 0
+  audit_structure 缺陷 0 · verify_overview_quotes 41/41 · check_nav_layer ❌0 ⚠️0
+  check_anchor 凭空造词 0 · check_xref_chapter 归章正确 0（该 0 ＝ 无反引号 chNN 片段可查，**不是全对**）
+审查期自伤 2 次（均为我自己的输入错，非内容缺陷）：
+  ① 首轮 verify_corpus 锚点凭印象编造 ⇒ FAIL 80；改用机器算出的本章独有词后 PASS。
+  ② 首轮 glob 取 epub 瞬时失败 ⇒ 后续脚本拿到空路径，产出「词条行合计 0」等无意义数字；
+     处置＝全部核验脚本加前置 assert（参照集非空 / 块数=167 / 金句=31）。
+
+═══════════════════════════════════════════════════════════════════
+二、b 步（逐章归属）——换实现交叉
+═══════════════════════════════════════════════════════════════════
+原件：2026-10-06-review_b-chapter-attr.txt
+路径 1＝仓库脚本 check_chapter_quotes.py；路径 2＝自写第二实现（原样字节 + 含省略号引语逐片段取证 + 要求同一自然段）。
+结果：自写实现报 ch12 原句2 整串查无 → 查实为引语首尾静默截短（见 D-01）。
+⚠️ 工具级发现：六道门禁对 ch12:28 全绿，因 verify_quotes 判定「去引号后连续」即算命中。
+
+═══════════════════════════════════════════════════════════════════
+三、c 步（结构扫描）——双实现
+═══════════════════════════════════════════════════════════════════
+自写实现 assert 块数=167：编号不连续 0 / 重复块 0 / 缺子项块 0；audit_structure 独立报结构缺陷 0。
+
+═══════════════════════════════════════════════════════════════════
+四、d 步（语义二审）——167 对逐对核对
+═══════════════════════════════════════════════════════════════════
+机械子项（用已 tracked 的 *_indep.py，不现写）：
+  check_struct_indep.py 缺陷 0 · check_xref_indep.py chNN 引用 100 处 / 英文证据报警 0 / 中文式待人判 67 处
+  check_analysis_indep.py 抽出分析层英文 638 条，逐字命中 638/638
+  显式 chNN 引用仅 4 处（ch19:34 / ch20:13 / ch20:24 → ch16，均核正确；ch05:13「上一章（ch04）」正确）
+主体：两批子代理（ch01–ch10 79 块 / ch11–ch21 88 块），各附本库真实失败案例 + 防幻觉条款。
+      ⭐ 主会话逐条复核子代理结论，撤下/降级 4 条（见第六节），不是照单全收。
+
+═══════════════════════════════════════════════════════════════════
+五、e 步（总览层事实核对）
+═══════════════════════════════════════════════════════════════════
+标签对账：00_金句精选 31/31、00_情感节点 11/11 全部「逐字命中且章节标签正确」；
+          31 条金句逐条打印原文 ±200 字符窗口核对说话人，全部正确（句4 Jenny、句22 Zeke、句27 Clyde、句29/30 Zeke）。
+事实断言：00_概述.md 全文 27 行断言逐条回源（text/ + epub），查实 6 处阻断型；00_情感节点.md 11 节点全绿。
+ epub 侧核出：Gallery Books / Simon & Schuster（copyright.xhtml）、献词原文
+          「When I told my parents I had written a monster romance」（dedication.xhtml）—— line 10 成立。
+
+═══════════════════════════════════════════════════════════════════
+六、缺陷清单（三档分类）
+═══════════════════════════════════════════════════════════════════
+—— 阻断型（必须改）——
+
+D-01 引语层 | ch12 chapter eleven hands.md:28
+  md 引语：“I was a waitress when we met. … “Not a lot of people do.”
+  原文 text/ch12:69：“Not to my face. I was a waitress when we met. … liked him.” To her surprise, the woman gives a
+  gentle laugh. “Not a lot of people do. I knew him when I was Mary-Cat Charles…”
+  ⇒ 首尾各静默截去一段、无省略号、伪造开头引号。门禁因「去引号后连续」判绿。
+
+D-02 引语层 | ch14 chapter thirteen knuckles.md:38
+  md 引语止于 “Or run through with a spear.”；但 :40 中文理解与 :42 关键词覆盖了引语之后的原文
+  （text/ch14:194 后半 “It’s served her well to strike every person she’s seen as an intruder, whether adult or child.
+   In her way, is this woman not doing the same thing? Trying to strike first?”），无 `…` 标记。
+  ⇒ 第 9 条 a2「引语截短」：引语逐字正确但短于它所支撑的分析。
+
+D-03 主体错 | ch12:30「女人自己也吃了一惊」
+  `To her surprise` 的 her = 詹妮（限知视角，惯指 Jenny）。
+
+D-04 主体错 + 自相矛盾 | ch12:34「To her surprise 这个插入语交代的是作者在替读者惊讶」
+  同上主体错；且与 :30「女人自己吃了一惊」互相打架。
+
+D-05 主体反转 | ch10 chapter nine gristle.md:80「而她朝前扑倒下去」
+  原文 text/ch10 “It remains in Mags’s throat as she falls forward” ⇒ she = Mags。前句主语是詹妮，中文读者会顺读成詹妮倒下。
+
+D-06 事实反向 + 同句自相矛盾 | ch16 chapter fifteen veins.md:24
+  「正对着他房间里那些怪物海报——在她自己家里，她就是那个不需要化妆的怪物。」
+  剖胸演示发生在 Zeke 的卧室（text/ch16:387 “back in his bedroom”；海报 ch15:197 “Zeke’s room … Posters line the walls”）。
+  同句前半已正确写「他房间里」，后半转成「她自己的家」。且她全书无家（住隧道/车站）。
+
+D-07 语义反向 | ch16:54「本节开头她还嫌水龙头声太小」
+  原文 text/ch16:108 “She can hear water rushing in the pipes. It may be a trickle compared to the roar of waves and the
+  babbling of rivers, but it grounds her.” ⇒ 她明确感到被安定，不是嫌小。
+
+D-08 最高级断言为假 | ch01 prologue.md:84「全书唯一一处出现人物自称（人名 + 文法主语）」
+  text/ch01:19「Over the millennia, Jenny has seen humans…」、:25「Jenny disagrees」均为 Jenny 作语法主语，且在原句7 之前。
+
+D-09 语义崩坏 | ch01:84「于是「不死」不是人设的一句描述，而是这座城市的名字」
+  全书无任何以 Jenny／不死命名的城市（Boston 19 次、Brooklyn 1 次）。该句无原文支撑且语义不成立。
+
+D-10 事实断言为假 | ch01:36「Mother 是全书唯一被提到名字而非称号的存在，后面不会再出现。」
+  Mother 在 ch19 有完整对话（text/ch19:217–229，Faun 与之对话，Mother 自称 Meg：ch19:208），
+  ch20:14 “the safest, the quickest way from Mother”。「后面不会再出现」为假。
+
+D-11 叙述人称错 | ch01:14「第一人称内心独白（全书唯一一处直接自称式发言）」
+  序章 0 处引号内以 I 开头的对话、0 处叙述层第一人称；母亲的教诲也是间接引语转述。
+
+D-12 叙述人称错（离群项） | ch05 chapter four skin.md:14「第一人称限知视角」
+  ch02/ch03/ch04 均标「第三人称限知」；ch05 的 11 处第一人称候选全部落在对话引号内。
+
+D-13 章序错 | ch13 chapter twelve fingers.md:44「而 lonely 这个词，恰恰是她在上一章已经演示过…的那件事」
+  上一章＝ch12，全文 lonely / lone / solitary / by herself 共 0 处。ch12 是修女与伞的一章，无孤独主题。
+
+D-14 章序错 + 同文件自相矛盾 | ch21 chapter twenty hunger.md:44「上一章他只是走下沙滩离开」
+  Zeke 离开沙滩在本章开头（text/ch21:13 “Jenny hears Zeke leave”），即本章原句1。
+
+D-15 译名不一致 | ch17 chapter sixteen cheek.md:24 / :54「佐克」×2
+  全书其余统一「泽克」（ch11×1 / ch14×1 / ch18×7 / ch19×9 / ch20×8），ch17「泽克」= 0。破坏 crossref 与人物一致性。
+
+D-16 章序错（总览） | 00_概述.md:64「第十四章 Zeke 说「I don’t think that was our world」」
+  该句在终章：text/ch21:182。（另：text/ch19:220 也有 “your world”，但说话人是 Mother，且在第十九章。）
+
+D-17 **【已撤回·我自己的误读】** 00_概述.md:54「他知道她大概还能活几十年」
+  我最初把原句读成「**他**知道她大概还能活几十年」，据此判为主体反转。
+  编辑工具的精确匹配拦下了我：文件里的原句是「**她**知道他大概还能活几十年」，
+  与 text/ch20:17 “He said he would likely be alive for a few more decades. She takes that dreadful fact…” **完全一致**。
+  ⇒ 本条不成立，不改。
+  ⭐ 这条是本轮对我自己最有价值的一次拦截：**我在缺陷清单里写下它、准备改它，是「用精确匹配工具再核一遍」救下的。**
+    判据：把 `read` 的输出转述成 old_string 时，人称代词是最容易整体对调的一类；**凡涉及 she/he 的判定，动手前必须回文件取 repr 原文。**
+
+D-18 物种错（总览） | 00_概述.md:75「同伴是 Faun 与 Clyde（海豹人）」
+  Faun 是 satyr／羊女：ch06:276「“Satyr,” says Faun. “On my father’s side…”」、ch04:237「The goat woman’s yell
+  edges into a bleat」、ch04:195 goat hooves、ch12:175 hooves。海豹人是 Clyde（ch20:348–351 变海豹）。
+
+D-19 物种错（总览） | 00_概述.md:75「Elspeth 是羊女」
+  Elspeth 是海豹人：ch20:155 裸露处「dappled brown」、:176「It’s a sealskin」、:192「You gave me your skin fair and
+  square!」、:243 flippers。全书的 satyr woman 指的是 Faun（ch09:105、ch21:176）。
+
+D-20 指代含混（总览） | 00_概述.md:24
+  「她肋骨被一脚踢断、咬出的伤口在对方皮肤上当场抹平，而对方裙下露出一双蹄子」
+  ⇒ 三个「对方」指两个人：肋骨是 Faun 踢裂的（ch04:108）、咬伤当场愈合的是 Clyde（ch04:144）、蹄子是 Faun 的（ch04:195）。
+  顺读会得出「被咬的是有蹄的那位」这一与原文相反的结论。
+
+D-21 定位不可核（总览） | 00_概述.md:76「**生理机制**见第四章第四节」
+  epub 的 ch04.xhtml 只有一个标题「Chapter FourSKIN」，无小节标题、无 <hr>、无场景分隔（section 仅 3 处且为 CSS/命名空间）；
+  text/ 提取件同样 0 个小节标记。该定位在原文与提取件中都不存在。
+
+D-22 不可核计数（总览） | 00_金句精选.md:244「前面二十页都在为他会不会跑掉做铺垫」
+  epub 无页码、text/ 无页码标记 ⇒ 页码计数不可核（禁令 2「可数且不可核」）。
+
+D-23 不可核计数（总览） | 00_金句精选.md:328「前面四十页写的是「不死」」
+  同上。
+
+D-24 最高级断言（总览） | 00_金句精选.md:98「这也是全书唯一一次让她把「错过猎物」当成自己的过错」
+  第 9 条 7c：唯一/最高级断言须改可证写法。
+
+D-25 最高级断言 + 有反例（总览） | 00_金句精选.md:120「全书唯一一次，她把「危险」当成一个可以像别的身份一样被认领的东西」
+  反例：text/ch03:38「spread the gospel of her dangerous beauty」——她早就在设想被人传扬「危险」这一标签。
+  dangerous/danger 全书仅 4 处：ch01:19（人类判定姐妹危险）、ch03:38、ch14:197、ch15:98。
+
+—— 提示型（只记不改）——
+P-01 ch16:24「ch16 那个把刀交出去的人」——实为她撬走（text/ch16:33 “she pries his fingers from the knife”），
+     但原文写他“remains stock-still”未反抗，「交出去」可辩为许可。
+P-02 ch08:34 / :64「上一章…实验室」——子代理报阻断型，主会话复核后降级：创伤确在上一章叙述
+     （ch07:287 “uniformed men brought me to a holding facility. They poked and prodded…”），只是原文用 holding
+     facility 而非 laboratory，且 ch08:84 原文自身即用 laboratory。属用词归并，非事实错。
+P-03 ch07:26「这副眼镜在本章出现两次」——自洽：第三处（ch07:221）是回忆，md 括号内只列了现在时的两处。
+P-04 ch16 原句3 措辞压缩（把「全被杀了 + 凶手是人类」压成一句话）——事实链成立。
+P-05 ch17 原句1「叫车」——比喻性措辞，原文无对应但不构成事实断言。
+
+—— 假红型（先修工具，不许当内容缺陷去改 md）——
+F-01 ch12:28「整串查无」——段中截取 + 补引号，verify 类脚本按整串比对。片段本身逐字命中，
+     但整串口径对「段中截取」天然对不上。真实缺陷是 D-01（截短），已单列。
+
+—— 已复核后判定「不成立」、不予改动的子代理报警（4 条）——
+N-01 ch01:54 / :56「三个感叹句」——**成立**，改。（子代理判对）
+N-02 ch10:11「听见 Sister Charles 的留言」——**不成立**。text/ch09:207 屏幕即显示「New. Voice. Mail. Sister.
+     Charles.」、:240 复现；ch09 确已点名，改动反而会引入错误。
+N-03 ch13:36「上一章她已经吃了 Ralph 的一根手指」——**不成立**。上一章＝ch12，ch12:88 确为 breaks off a finger。
+     （子代理自查后主动撤下，此处记录其自查有效。）
+N-04 ch17:26 另：ch19 全章「心梗/救生筏」——子代理复核确认本章无该场景、未误植，不报。
+
+═══════════════════════════════════════════════════════════════════
+八、整改与复跑（整改完成后的门禁状态）
+═══════════════════════════════════════════════════════════════════
+已改阻断型 24 条（D-01…D-25 去掉撤回的 D-17），分布：
+  ch01 ×6（:14 人称 · :36 Mother「后面不会再出现」· :52 破折号空格 · :54 三→两个感叹句 + 破折号 · :56 三→两个 · :84 两处断言）
+  ch05 ×1（:14 人称）· ch10 ×1（:80 Mags 主体）· ch12 ×3（:28 引语补全 · :30 惊讶主体 · :34 插入语主体）
+  ch13 ×1（:44 上一章→本章随后）· ch14 ×1（:38 引语补全到整段）
+  ch16 ×2（:24 他家·非她家 · :54 嫌水声→ grounds her）· ch17 ×2（:24/:54 佐克→泽克）· ch21 ×1（:44 上一章→本章开头）
+  00_概述.md ×5（:24 指代 · :64 章序 · :75 物种两处 · :76 定位）· 00_金句精选.md ×4（:98/:120 最高级 · :244/:328 页码）
+
+复跑（原件：2026-10-06-review_postfix-gates.txt）：
+  gate.sh 退出码 0，「正门结论：0 条阻断型（⚠️/❓ 不阻塞）」
+  verify_quotes 206/206 100%（23/23 干净文件）· verify_overview_quotes 41/41（情感节点 11 + 金句 30）
+  check_vocab FAIL(0) · corruption_scan FAIL 0 / 报告 0 · sweep_full 本章 165 / 跨章 0 / 拼接 0 / 查无 0
+  audit_structure 缺陷 0 · check_nav_layer ❌0 ⚠️0 · check_anchor 凭空造词 0 · check_block_keywords 阻断型 0
+  ⚠️ 改后**新增**检查逐条归因，无一由整改引入：
+    sweep_analysis_inline ⚠️跨章 3（ch04:24/:94 显式写「序章里」、ch04:36 显式写「上一章」）= 合法回指
+    sweep_analysis_inline 🟠部分命中 1（ch02:62）= **假红**：工具剥掉弯引号 “Faun,” 后留下三空格，
+      原文 text/ch02:86 为 He calls her “Faun,” as if she is a small deer，逐字正确
+    00_概述.md:10「monster romance」🔧B类 = **假红**：`text/` 只含正文 21 章、不含献词页；
+      该短语在 epub dedication.xhtml 逐字存在（When I told my parents I had written a monster romance）。
+      假红依据合法：**参照集（text/）不含前置页，工具把正文集当成了全书。**
+    verify_overview_quotes 30/31 金句 = 已定位为 **20 字符阈值**：原句22「He winces. “That’s awful.”」
+      扁平后 18 字符被丢弃 ⇒ 属「短引语须人工 grep 兜底」。人工兜底已做：text/ch16:87 逐字一致，**该条不缺覆盖**
+      （同一句在 ch16 精读块内由 verify_quotes 覆盖）。
+  本轮另一次自伤：孤儿块自查脚本误用章节字段名（中文理解/关键词/…）去查金句精选（实为 译文/为什么重要/出处），
+    报出 31×5 条「缺子项」全红 ⇒ **是我脚本错了，不是文件错了**；改用正确字段名复查 = 孤儿 0 / 缺子项 0。
+
+═══════════════════════════════════════════════════════════════════
+九、局限声明（同会话审查，第 10 条要求写进结论）
+═══════════════════════════════════════════════════════════════════
+本次审查方 = 写作方，虽按第 10 条执行了「门禁全部重跑」「换检查路径」「不自我豁免」，但仍有以下已知盲区：
+  ① **d 步主体依赖子代理**，虽有防幻觉条款与逐条主会话复核（撤下/降级 4 条），仍可能与写作时的盲区同源。
+  ② e 步只核了**可 grep 的断言**；「情绪会让形态失控」这类概括性论断无法逐字证伪，只能靠阅读判断。
+  ③ 本轮未做投毒测试（先修后验的最后一环），整改有效性靠「改后复跑全绿 + 逐条回原文核」两条支撑。
+  ④ 中文「上一章」类引用在 ch11–ch21 由子代理抽查、非全量穷举；本次在 ch01–ch13 抓到 4 处，
+     ch14–ch21 可能仍有同类未被抽查到的（尤其跨 3 章以上的回指）。
+建议：若要复核 ch14–ch21 的章序引用与 d 步语义层，指派另一实例独立过一遍。
+新增工具级发现（协作板在册，本轮再增 1 条）：
+  ⑥＋ **中文叙述里的「她」与英文原文的 she 归属，是门禁结构性盲区**：本轮 D-05（ch10 Mags/詹妮）、
+     D-03/D-04（ch12 詹妮/女人）均为「原文 she 明确、中文改判主语」，引语逐字全绿、六道门禁零覆盖。
+     判据：**中文理解层出现裸「她」时，主语归属必须回 text/ 逐字核，不能因为英文里 she 命中就放行。**

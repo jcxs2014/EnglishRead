@@ -41,7 +41,7 @@ modified: "2026-10-06"
 
 **关键词：** pulls on a dress that’s electric blue · with smiling green fish printed on the front · Her nipples press against the smooth, strange cloth · It’s like the waterways!
 
-**为什么这样写：** 上一章他只是走下沙滩离开（真正跳进海里、不再回头看的那一个是变成海豹的克莱德），本章他从同一片沙滩上回来，而她对他的评价里压根没提他去了哪里——这一块接的是生活而不是清算。electric blue 与 smiling green fish 都在她的颜色系统里（水、绿），所以这条裙子在字面上是他买的，意义上却是她的。她对布料的身体反应被写在乳头上：press against 既是触觉也是她还不习惯穿人类衣服的证据，strange 这个词同时属于那块布与这场生活。最后一句把一次购物变成一次认亲：It’s like the waterways 是她给出的第一个评价，说明她在替这个世界解释他之前，先已经替自己解释了他。
+**为什么这样写：** 本章开头他只是走下沙滩离开（真正跳进海里、不再回头看的那一个是变成海豹的克莱德），本章他从同一片沙滩上回来，而她对他的评价里压根没提他去了哪里——这一块接的是生活而不是清算。electric blue 与 smiling green fish 都在她的颜色系统里（水、绿），所以这条裙子在字面上是他买的，意义上却是她的。她对布料的身体反应被写在乳头上：press against 既是触觉也是她还不习惯穿人类衣服的证据，strange 这个词同时属于那块布与这场生活。最后一句把一次购物变成一次认亲：It’s like the waterways 是她给出的第一个评价，说明她在替这个世界解释他之前，先已经替自己解释了他。
 
 **读者视角提示：** 她对人类衣服的反应是陌生加笑，而她开口的第一句是地理性的。这条裙子是她的水路图。
 

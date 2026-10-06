@@ -77,7 +77,7 @@ modified: "2026-10-06"
 
 > **原句 7:** Jenny releases the knife. It remains in Mags’s throat as she falls forward. She doesn’t bother to remove it until Mags is still. Then she flips her over, removes the knife, and feasts on the soft, still-warm neck.
 
-**中文理解：** 詹妮松开刀。那把刀留在 Mags 的喉咙里，而她朝前扑倒下去。詹妮并不急着把刀取出来，一直到 Mags 不再动弹。然后她把她翻过身，拔出刀，开始享用那温热而柔软的脖颈。
+**中文理解：** 詹妮松开刀。那把刀留在 Mags 的喉咙里，Mags 朝前扑倒下去。詹妮并不急着把刀取出来，一直到 Mags 不再动弹。然后她把她翻过身，拔出刀，开始享用那温热而柔软的脖颈。
 
 **关键词：** releases the knife · It remains in Mags’s throat as she falls forward · doesn’t bother to remove it until Mags is still · flips her over, removes the knife, and feasts on the soft, still-warm neck
 

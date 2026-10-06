@@ -1,0 +1,228 @@
+════════════════════════════════════════════════════════════
+五步审查 · a 步：第 3 条提交门禁全量重跑（原始逐行输出）
+时间：2026-10-06 12:06 UTC　｜　审查方：MiniMax-Mac（主会话 · 同会话审查）
+lane：完整 lane（epub 在位）
+前置断言：text=21 件、md=24 个、epub 可打开 —— 不通过即终止（防瞬时 glob 故障静默产出 0）
+════════════════════════════════════════════════════════════
+
+⚠️ 审查过程自伤记录 1：首次跑 verify_corpus 我**凭印象编了 21 个锚点**
+   （railway/engulf/medieval/owl/doors/move/chang/condom/monster/TK/plate…），
+   结果 P0-0 **FAIL 80**。那 80 条**不是语料缺陷，是我输入的锚点不存在**。
+   ⇒ 改用机器算出的「本章独有词（df=1）」重跑 ⇒ PASS。
+⚠️ 审查过程自伤记录 2：首次取 epub 时 glob 瞬时失败 ⇒ 后续脚本拿到空路径，
+   产出「词条行合计 0」「text/ 无提取件」这种**看起来正常的无意义数字**。
+   ⇒ 本次起加前置断言；此类「计数为 0 的正常数字」在本项目已多次伤人。
+
+──── 1 语料层 verify_corpus ────
+--anchors "ch01=inevitable; ch02=massachusetts; ch03=boogeywoman; ch04=interdimensional; ch05=unfathomable; ch06=brambleberries; ch07=ecclesiastical; ch08=somersaulting; ch09=disintegrating; ch10=investigative; ch11=pharmaceutical; ch12=intermingling; ch13=slaughterhouse; ch14=acknowledgment; ch15=supplication; ch16=disemboweling; ch17=uncomprehending; ch18=sleepwalking; ch19=transcendent; ch20=congratulations; ch21=footsteps"
+=== 语料层验收（P0-0）: jenny-will-eat-you-now-by-gillian-daniels ===
+text/ 件数: 21
+  [1] 件数 21 == 预期 21  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 21 组 / 互查 420 组  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (36 句)
+      首| Prologue
+      末| Jenny is forever.
+    ch02 (149 句)
+      首| Chapter One: Teeth
+      末| Like a star, it burns through her slumber.
+    ch03 (303 句)
+      首| Chapter Two: Tongue
+      末| Her sharp ears note the familiarity of their voices, the man and woman from the adjacent tunnel.
+    ch04 (383 句)
+      首| Chapter Three: Rib
+      末| Let’s join this century.”
+    ch05 (406 句)
+      首| Chapter Four: Skin
+      末| Which is for the best, she decides.
+    ch06 (374 句)
+      首| Chapter Five: Eyes
+      末| She’s out the door and thudding up the stairs.
+    ch07 (374 句)
+      首| Chapter Six: Blood
+      末| Clyde, as far as Jenny can see, is still happily tapping away at his machine, blissfully unaware
+    ch08 (304 句)
+      首| Chapter Seven: Palate
+      末| Her face flushes hotly, and she watches her hands blush pink once more.
+    ch09 (279 句)
+      首| Chapter Eight: Meat
+      末| It feels good to be as deep as she can be.
+    ch10 (482 句)
+      首| Chapter Nine: Gristle
+      末| But that, like many of her memories, recedes into the depths inside her.
+    ch11 (865 句)
+      首| Chapter Ten: Lips
+      末| As she stares, spots run up her arms.
+    ch12 (273 句)
+      首| Chapter Eleven: Hands
+      末| Not while he’s still alive, anyway.
+    ch13 (439 句)
+      首| Chapter Twelve: Fingers
+      末| She wants to be hungry when she finally devours Zeke.
+    ch14 (393 句)
+      首| Chapter Thirteen: Knuckles
+      末| They kiss again and Zeke’s tongue slides along hers, finding her teeth, seeking her edges out wh
+    ch15 (327 句)
+      首| Chapter Fourteen: Mouth
+      末| “I’m not dying today.”
+    ch16 (545 句)
+      首| Chapter Fifteen: Veins
+      末| He might have been for a few moments, but those moments seem to have evaporated.
+    ch17 (377 句)
+      首| Chapter Sixteen: Cheek
+      末| She can smell it.
+    ch18 (392 句)
+      首| Chapter Seventeen: Jaw
+      末| Her scream is one of horror and delight, amazement and terror, and it’s the last thing Jenny hea
+    ch19 (340 句)
+      首| Chapter Eighteen: Heart
+      末| She fills with pride.
+    ch20 (351 句)
+      首| Chapter Nineteen: Throat
+      末| The man she adores watches.
+    ch21 (180 句)
+      首| Chapter Twenty: Hunger
+      末| THE END
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+
+──── 2 引语逐字 verify_quotes --full ────
+00_情感节点.md: 11/11 ✅
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 30/30 ✅（另有 1 条短引语未校验）
+ch01 prologue.md: 7/7 ✅
+ch02 chapter one teeth.md: 8/8 ✅
+ch03 chapter two tongue.md: 8/8 ✅
+ch04 chapter three rib.md: 8/8 ✅
+ch05 chapter four skin.md: 8/8 ✅
+ch06 chapter five eyes.md: 8/8 ✅
+ch07 chapter six blood.md: 8/8 ✅
+ch08 chapter seven palate.md: 8/8 ✅
+ch09 chapter eight meat.md: 8/8 ✅
+ch10 chapter nine gristle.md: 8/8 ✅
+ch11 chapter ten lips.md: 8/8 ✅
+ch12 chapter eleven hands.md: 8/8 ✅
+ch13 chapter twelve fingers.md: 8/8 ✅
+ch14 chapter thirteen knuckles.md: 8/8 ✅
+ch15 chapter fourteen mouth.md: 8/8 ✅
+ch16 chapter fifteen veins.md: 7/7 ✅（另有 1 条短引语未校验）
+ch17 chapter sixteen cheek.md: 8/8 ✅
+ch18 chapter seventeen jaw.md: 8/8 ✅
+ch19 chapter eighteen heart.md: 8/8 ✅
+ch20 chapter nineteen throat.md: 8/8 ✅
+ch21 chapter twenty hunger.md: 7/7 ✅（另有 1 条短引语未校验）
+
+⚠️ 全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 206/206 引文可核实（100%）；完全干净文件 23/23；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+──── 3 词表 check_vocab ────
+词条行合计: 1114
+
+--- FAIL (0) ---
+
+--- WARN (40) ---
+  ch01 prologue.md [基础] 基础档疑含超纲词「fishermen」
+  ch01 prologue.md [基础] 基础档疑含超纲词「contented」
+  ch01 prologue.md [基础] 基础档疑含超纲词「disagreed」
+  ch02 chapter one teeth.md [基础] 基础档疑含超纲词「unchanging」
+  ch02 chapter one teeth.md [基础] 基础档疑含超纲词「foundations」
+  ch02 chapter one teeth.md [基础] 基础档疑含超纲词「interesting」
+  ch02 chapter one teeth.md [基础] 基础档疑含超纲词「performing」
+  ch02 chapter one teeth.md [基础] 基础档疑含超纲词「automobiles」
+  ch02 chapter one teeth.md [基础] 基础档疑含超纲词「displeasure」
+  ch02 chapter one teeth.md [基础] 基础档疑含超纲词「discussion」
+  ch02 chapter one teeth.md [基础] 基础档疑含超纲词「beautiful」
+  ch02 chapter one teeth.md [基础] 基础档疑含超纲词「flashlights」
+  ch02 chapter one teeth.md [基础] 基础档疑含超纲词「disgusting」
+  ch02 chapter one teeth.md [基础] 基础档疑含超纲词「enthusiasm」
+  ch02 chapter one teeth.md [基础] 例句不含词头「blood」
+  ch03 chapter two tongue.md [基础] 基础档疑含超纲词「agreement」
+  ch04 chapter three rib.md [基础] 基础档疑含超纲词「scavenger」
+  ch05 chapter four skin.md [基础] 基础档疑含超纲词「alternate shape」
+  ch06 chapter five eyes.md [基础] 基础档疑含超纲词「restaurant」
+  ch06 chapter five eyes.md [基础] 基础档疑含超纲词「intersection」
+  ch06 chapter five eyes.md [基础] 基础档疑含超纲词「milkshakes」
+  ch06 chapter five eyes.md [基础] 基础档疑含超纲词「expecting」
+  ch06 chapter five eyes.md [基础] 基础档疑含超纲词「information」
+  ch06 chapter five eyes.md [基础] 基础档疑含超纲词「individual」
+  ch07 chapter six blood.md [基础] 基础档疑含超纲词「shoulders」
+  ch07 chapter six blood.md [基础] 基础档疑含超纲词「published」
+  ch07 chapter six blood.md [基础] 基础档疑含超纲词「professor」
+  ch07 chapter six blood.md [基础] 例句不含词头「tutor」
+  ch07 chapter six blood.md [基础] 基础档疑含超纲词「librarian」
+  ch07 chapter six blood.md [基础] 词条跨篇(本章无，epub 全书有)「hunger」
+  ch07 chapter six blood.md [基础] 例句不含词头「hunger」
+  ch07 chapter six blood.md [基础] 例句不含词头「fish」
+  ch08 chapter seven palate.md [基础] 基础档疑含超纲词「companion」
+  ch14 chapter thirteen knuckles.md [基础] 基础档疑含超纲词「heaviness」
+  ch14 chapter thirteen knuckles.md [基础] 基础档疑含超纲词「shoulders」
+  ch14 chapter thirteen knuckles.md [基础] 基础档疑含超纲词「protesting」
+  ch14 chapter thirteen knuckles.md [基础] 基础档疑含超纲词「crosswalk」
+  ch14 chapter thirteen knuckles.md [基础] 基础档疑含超纲词「marijuana」
+  ch20 chapter nineteen throat.md [基础] 基础档疑含超纲词「embarrassment」
+  ch20 chapter nineteen throat.md [基础] 基础档疑含超纲词「understand」
+
+──── 4 实体 check_entities ────
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+──── 5 编辑损坏 corruption_scan ────
+
+=== 编辑损坏扫描（jenny-will-eat-you-now-by-gillian-daniels）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+──── 6 引语整串 flat sweep_full ────
+=== 引语整串 flat 比对（jenny-will-eat-you-now-by-gillian-daniels）===
+  参照集：text/ 逐章（21 章，可定章） + epub 交叉验证
+  ✅ 本章命中 165 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+
+──── 7 块数配额 check_block_keywords ────
+=== 引语块覆盖度：21 个 md，阻断型 0 处 ／ 提示型 0 处 ===
+
+──── 8 引语块结构 check_quote_blocks ────
+=== 引语块结构对账（jenny-will-eat-you-now-by-gillian-daniels）===
+  带前缀的 `> **原句 N:**` 行：21 个文件共 167 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+──── 9 结构 audit_structure ────
+=== 精读结构扫描（jenny-will-eat-you-now-by-gillian-daniels）===
+  扫 24 个 md、209 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+──── 10 总览引语 verify_overview_quotes ────
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 11/11 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 30/30 ✅
+
+=== 总览引文 41/41 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+──── 11 短引语兜底 check_short_quotes ────
+=== 短引语兜底核对（jenny-will-eat-you-now-by-gillian-daniels）===
+  verify_quotes 跳过（<20 flat 字符）的引语：3 条 —— 这些主门禁**根本没查**
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+──── 12 导航层英文 check_nav_layer ────
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+──── 13 关键词锚定 check_anchor ────
+=== 关键词锚定自查（jenny-will-eat-you-now-by-gillian-daniels）===
+  扫 24 个 md，167 个引语块，167 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（21 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+──── 14 跨章指认 check_xref_chapter ────
+=== 分析层跨章指认核对（jenny-will-eat-you-now-by-gillian-daniels）===
+  参照集：text/（21 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0

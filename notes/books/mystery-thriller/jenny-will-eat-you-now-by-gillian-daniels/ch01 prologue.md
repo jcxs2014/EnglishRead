@@ -11,7 +11,7 @@ modified: "2026-10-06"
 - **情感弧线位置**：全书情感弧线的**起点基线**。这一章不推进情节，只交付一个前提：谁在说话、她怎么看人类、她为什么确信自己更高一等。全书后面二十章所有的猎与被猎、所有温柔与残忍，都要回到这页重新校准。
 - **Tropes 兑现/反转**：**兑现**——非人主角视角开篇是怪物故事最常规的入口；**反转**——作者不让她显得可悲或可恨，而是让她显得**正确**。人类被嘲笑的那句理由（把死者当 waste）在她自己的经验里是真的，而她对这个真相的判断力，恰恰是全书最大的威胁。
 - **人物弧线**：詹妮从「和姐妹一起坚信这套说法」走到「亲身验证了这套说法」；中间那道裂缝是她的姐妹们被人类处理掉的时刻。全章没有一句情绪失控的话，愤怒全部压在最后一句的短句里。
-- **叙事手法**：第一人称内心独白（全书唯一一处直接自称式发言）· 开篇即用反问与断言建立论战姿态 · 插入母亲的教诲（Mother said…）作为第二权威 · 千年尺度的历史俯瞰（Over the millennia）· 姊妹死亡的创伤段落作为唯一的情节事件 · 结尾两句独断式收束。整章无对话、无场景切换，是一份以语气维持而非以事件推进的开篇。
+- **叙事手法**：第三人称限知（紧贴詹妮意识）· 全章无一句人物对话，连母亲的教诲也只用间接引语转述 · 开篇即用反问与断言建立论战姿态 · 插入母亲的教诲（Mother said…）作为第二权威 · 千年尺度的历史俯瞰（Over the millennia）· 姊妹死亡的创伤段落作为唯一的情节事件 · 结尾两句独断式收束。整章无对话、无场景切换，是一份以语气维持而非以事件推进的开篇。
 
 ## 精读
 
@@ -33,7 +33,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 这一段把母亲的教诲、幼年场景、以及人类的指控并排放在一起，结构是「规矩—实例—结论」。hissed their regrets and sang their goodbyes 两个动作并列在 then 之前，而 feasted 单独落在最后——形式上的停顿把「吃」这个字变成了整段的落点。destroy perfectly good protein 把凶残的评价倒过来说成浪费：不是吃人是残忍，是不吃人才是浪费。整套修辞都为了后面那个反讽打底。
 
-**读者视角提示：** Mother 是全书唯一被提到名字而非称号的存在，后面不会再出现。请记住她是这套伦理的来源，而不是这套伦理的受害者。
+**读者视角提示：** Mother 是全书唯一被提到名字而非称号的存在。记住她是这套伦理的来源，而不是这套伦理的受害者。
 
 > **原句 3:** She didn’t believe it until they threw her sisters away. Over the millennia, Jenny has seen humans beat in their skulls with stones and hammers, push spears into their pale green bellies and out through their backs. It happened when her sisters dared to hunt on land in the daylight, bold and shining, but they were also hunted when they were quiet, shy, and fed on only vermin. It didn’t matter the cause. They looked and acted too uncanny to be human, and so were of course deemed dangerous. Real humans were happy to pull Jenny’s sisters out of the water, slice them open, and throw them back. She remembers fishermen who hooted like their ape cousins when they did it.
 
@@ -49,11 +49,11 @@ modified: "2026-10-06"
 
 **中文理解：** 可怜的东西。人类真是可怜。他们值得她同情——或者说，值得她那颗又小又恼怒的心里所剩不多的那点同情。人死时不该没有东西把他们吃掉，多可怜啊。人类多么可悲啊！
 
-**关键词：** Poor things · worthy of her pity — or what there is of it · in her small, annoyed heart · How sad men are!
+**关键词：** Poor things · worthy of her pity—or what there is of it · in her small, annoyed heart · How sad men are!
 
-**为什么这样写：** 序章的中段交给了一个短段落，其中三个感叹句（Poor things / How awful / How sad men are）像三记敲击，把前面长段的沉重情绪卸掉。这是本段的真实作用：让读者在听烦了那套论证之后，先松一口气，而这就是她需要人松开的那口气的缝隙。worthy of her pity — or what there is of it in her small, annoyed heart 里的破折号是本段最关键的一处：她先给出同情，再在半句之后自我否决，于是同情变成了一个笑话。
+**为什么这样写：** 序章的中段交给了一个短段落，其中两个感叹句（Poor things / How sad men are）像两记敲击，把前面长段的沉重情绪卸掉。这是本段的真实作用：让读者在听烦了那套论证之后，先松一口气，而这就是她需要人松开的那口气的缝隙。worthy of her pity—or what there is of it in her small, annoyed heart 里的破折号是本段最关键的一处：她先给出同情，再在半句之后自我否决，于是同情变成了一个笑话。
 
-**读者视角提示：** 三个感叹句是同一句话的三种变体。凡她要说服自己的时刻，本书都是这样用短句和感叹号入到正题里的。
+**读者视角提示：** 两个感叹句是同一句话的两种变体。凡她要说服自己的时刻，本书都是这样用短句和感叹号入到正题里的。
 
 > **原句 5:** Or maybe they don’t eat their own because they don’t think they taste very good. Jenny disagrees. Humans are ever so succulent. She pitied her sisters who contented themselves with fish. It’s only when Jenny eats humans that she feels whole, skin flushed, heart and stomach pleased and sated.
 
@@ -81,7 +81,7 @@ modified: "2026-10-06"
 
 **关键词：** Not her, though · Jenny is forever.
 
-**为什么这样写：** 全书唯一一处出现人物自称（人名 + 文法主语），前面所有段落都在讲「人类」与「姐妹」，只有这两行把主语换成名字。forever 这个词在整章里第一次出现，前面没有任何地方暗示过它；作者把它作为全书的最后一句抛出，于是「不死」不是人设的一句描述，而是这座城市的名字。
+**为什么这样写：** 这是全章的最后一句，也是全书第一次让她的名字单独成句：前面各段的主语在「人类」「姐妹」「母亲」之间轮换，只有这两行把落点收回名字。forever 这个词在整章里第一次出现，前面没有任何地方暗示过它；作者把它作为全书的最后一句抛出，于是「不死」不是旁白替她贴上的一句人设描述，而是她自己说出口的断言。
 
 **读者视角提示：** 这两句是全书的题眼。后文每一次她羡慕人类、每一次她失败，都要拿这句来对照——她认为自己是永恒的，这是全章里唯一一句没有论证的话。
 

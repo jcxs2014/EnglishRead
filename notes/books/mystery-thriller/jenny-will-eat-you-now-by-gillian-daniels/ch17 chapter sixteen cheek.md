@@ -21,7 +21,7 @@ modified: "2026-10-06"
 
 > **原句 1:** Zeke desperately treads water, trying to keep away from her. “Take me home.”
 
-**中文理解：** 佐克在水里拼命踩水，想离她远一点。「带我回家。」
+**中文理解：** 泽克在水里拼命踩水，想离她远一点。「带我回家。」
 
 **关键词：** desperately · treads water · trying to keep away from her · Take me home
 
@@ -51,7 +51,7 @@ modified: "2026-10-06"
 
 > **原句 4:** Zeke turns on her. His chin is high and his eyes, like his chest and throat, have a gleam of water. “You should go.”
 
-**中文理解：** 佐克转身面对她。他下巴抬着，眼睛和他的胸口、喉咙一样，闪着水光。「你该走了。」
+**中文理解：** 泽克转身面对她。他下巴抬着，眼睛和他的胸口、喉咙一样，闪着水光。「你该走了。」
 
 **关键词：** Zeke turns on her · His chin is high · have a gleam of water · You should go.
 
