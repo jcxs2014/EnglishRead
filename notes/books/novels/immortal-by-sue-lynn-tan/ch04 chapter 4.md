@@ -61,9 +61,9 @@ modified: "2026-10-06"
 
 **关键词：** dice fall · our choice · keep playing
 
-**为什么这样写：** 这一行单独成段，不带引号、不带「他说」——文本没有交代是谁的口吻：是祖父原话的形状，还是她记成这个样子，书里不分辨；正因如此，它同时是遗训和自勉。赌具的比喻接得住前因后果：王位是掷下去的骰子（她无法选择祖父已死），朝堂是继续玩的选择。句子的节奏也先抑后扬：前半句我们无能为力，后半句我们说了算。
+**为什么这样写：** 这一行单独成段，不带引号、不带「他说」——像一句已经被她收进自己口吻里的话。赌具的比喻接得住前因后果：王位是掷下去的骰子（她无法选择祖父已死），朝堂是继续玩的选择。句子的节奏也先抑后扬：前半句我们无能为力，后半句我们说了算。
 
-**读者视角提示：** 它摆在「有时觉得自己是在演一台才能不及的戏」那段之后——这类句子只会在快撑不住的当口被想起来。
+**读者视角提示：** 它摆在「有时觉得自己是在演一台才能不及的戏」那段之后——这类句子只会在快撑不住的当口被想起来。同一句话在 ch01 病榻边是有归属的：ch01 「Life is not fair. We cannot help how the dice fall」，由 Grandfather 说出；到本章它没了引号、也没了说话人，成了她自己的口吻。
 
 > **原句 6:** "“My responsibility is to the people of Tianxia, to guard their welfare and happiness, to keep them safe. I know my duty, do not dictate my responsibilities to me, Minister Guo”—my tone was soft yet needle-sharp—“else you will find yourself barred from court.”"
 
