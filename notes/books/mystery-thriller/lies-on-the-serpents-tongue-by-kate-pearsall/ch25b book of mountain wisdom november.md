@@ -11,7 +11,7 @@ modified: "2026-10-06"
 - **一句话概括**：悼月冥想：当准备进入最暗的季节，记住身边仍有生命——死亡也是生长的一部分，哪怕发生在地表之下；内省季里最深的欲望将浮出水面，逼人认领自己最珍视之物；放下的时节——「向更深处挖；烧掉过去的遗物」；这正是行护佑、扎根与家族仪式的理想时段。
 - **情感弧线位置**：与正文完全同步的一篇。正文本章正在「向更深处挖」（掘墓）与「烧」（计划烧除倒计时），插节像月历一样提前把这两件事排进了黄道吉日——手札的「宜/忌」与人物的「不得不」第一次完全重合。
 - **叙事手法**：三段式延续（冥想—清单—缺省的方子）；与前两篇的最大差异是「无方子」：九月有安眠茶、十月有安眠符，十一月只给态度不给处方——最暗的月份，连手札都没给出答案。
-- **呼应线索**：① 「death…is still growth, even if it happens beneath the surface」——树下埋着的王、地里生长的门；② 「identify that which we value most」——Mama 的爱、Juniper 的命、Ona 的母、Hadrian 的义，全书所有交易此刻都在对账；③ 「Dig deeper; burn away reminders of the past」——明日之火与今夜之铲的双重授权；④ 无落款——写这篇的人是谁（Apollonia？Sudie？还是 Roan 之后的新一代），留作余韵。
+- **呼应线索**：① 「It is still growth, even if it happens beneath the surface」——死亡也是地下的生长：树下埋着的王、地里生长的门；② 「identify that which we value most」——Mama 的爱、Juniper 的命、Ona 的母、Hadrian 的义，全书所有交易此刻都在对账；③ 「Dig deeper; burn away reminders of the past」——明日之火与今夜之铲的双重授权；④ 无落款——写这篇的人是谁（Apollonia？Sudie？还是 Roan 之后的新一代），留作余韵。
 
 ## 精读
 
