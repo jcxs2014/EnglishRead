@@ -9,9 +9,9 @@ modified: "2026-10-06"
 
 - **场景·时间**：宫殿里她自己的房间：她先推了一张 heavy desk 顶住门，沐浴、更衣、试法，然后带着 dagger 上床。中段是一场梦，梦回旧日战场；醒后是同一个夜里（有 shaft of moonlight 进屋）Zhangwei 到房中，长谈一路走到本章最后。
 - **一句话概括**：她先在一个梦里重新失去父亲，又在同一个夜里把爱人认回来——两段记忆把「我是谁」补齐了，却没有把「关于我们，我还漏了什么」补上。
-- **情感弧线位置**：本章走的是「自检 → 谷底 → 一路向上」：开头一个人试法力，看似回稳，随即被梦砸到 Father. 那一个词的谷底；之后没有再跌，只有刀、话、拥抱一层层收紧，末尾落在 Beloved 上，是全章收得最紧的一处。
+- **情感弧线位置**：本章走的是「自检 → 坠到谷底 → 一路向上」：开头一个人试法力，看似回稳，随即被梦砸到 Father. 那一个词的谷底；之后没有再跌，只有刀、话、拥抱一层层收紧，末尾落在单独成行的 Beloved 上——正文里只有两个词享有单独成行的待遇，就是这两个。
 - **叙事手法**：梦与醒用同一套手法：感官先于判断（颜色、温度、声音先给，身份最后才给）。设定信息几乎全部由对白承担，但每一次解释都挂在一个情感要求上——他不是在做报告，是在回答她「你凭什么是我认识的那个人」。
-- **线索进展**：① 她的 magic 被磨钝，一部分 lifeforce 永久损伤，连 Divine Pearl Lotus 也补不回来；② 那朵莲花原本只够她与 Zhangwei 两人分，而且只有在「一个凡人与一个 immortal」之间才分得开；③ Queen Caihong 从前的冷淡是计划的一部分：她不能在她还该无知的时候露出感情；④ 若没有 Tree of Everlasting Life 的赠礼，她早已变成 Wuxin，过去会被写成一张白页；⑤ 与 Zhangwei 的过往她仍然一点想不起来，全部细节只能由他口述——本章的悬念就此转成「缺的那一块是什么」。
+- **线索进展**：① 她的 magic 被磨钝，一部分 lifeforce 永久损伤，连 Divine Pearl Lotus 也补不回来；② 那朵莲花原本只够她与 Zhangwei 两人分，而且只有在「一个凡人与一个 immortal」之间才分得开；③ Queen Caihong 当年的不露声色是计划的一部分：she couldn’t show her feelings、even though it hurt her——因为女儿那时还不该知道；④ 若没有 Tree of Everlasting Life 的赠礼，她的 immortal self 会 irrevocably lost、变成 Wuxin，past 成一张 blank sheet of paper——由着他们往上写；⑤ 面对 Do you remember me? 她只答得出 Not yet——她自己说 searched for any recollection of him, yet nothing emerged beyond the glimpses I’d seen，两人过往的细节本章几乎全由他口述；悬念就此转成「缺的那一块是什么」。
 
 ## 精读
 
@@ -53,7 +53,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** braided（编成一股）把三种情绪写成实体：它们不是先后出现，是绞在一起分不开。warm and bright and endless 三个形容词并列却不给名词——她刻意不说破那是什么。紧接着 But what if 用一个假设句迎头把热度斩断；末句不说 I couldn’t 而说 I didn’t dare，承认的对象是「我自己不敢」，不是「他不可信」——这一点分寸很要紧。
 
-**读者视角提示：** 本章 dagger 出现得极密：压在枕下、握在手里、顶在喉上、落在 carpet 上、被靴子踢开。它就是她判断真假的量表——每一次把刀放下，都是一次明确让步。
+**读者视角提示：** 本章 dagger 的几次换位就是她的信任刻度：压在枕下、举在手里、顶在喉上、落在 carpet 上。注意刀落地的写法是 The dagger fell from my hand——不是她放下的，是她的手自己松的；而刀一旦离场，它就只能被拿出来当玩笑用：I’ll even take your dagger through my heart if you stay。
 
 > **原句 5:** "“At least I have the tears.” His gaze was startlingly bright. “But I’ll take a curse from you any day, over praise from any other.”"
 

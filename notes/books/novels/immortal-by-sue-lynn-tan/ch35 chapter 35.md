@@ -7,7 +7,7 @@ modified: "2026-10-06"
 
 ## 本章导航
 
-- **场景·时间**：temple 里的池塘边——她一个人在具镜之前；后半段从码头乘小船回宫殿，船上只有她和 Aunt Shou。全章是一次连续行程：先看完两场镜中所见，再听完一船对白。本章只给了 temple、pond、Wangchuan River、Netherworld 这几个地名，没有一句交代这座 temple 落在哪一界。
+- **场景·时间**：temple 里的池塘边——她一个人对着水面上的两个倒影；后半段从码头乘小船回宫殿，船上只有她和 Aunt Shou。全章是一次连续行程：先看完两场镜中所见，再听完一船对白。本章出现的专名只有 the Mirror of Destiny、Temple of the Crimson Moon、pond、Wangchuan River、Netherworld、Kunlun 这几个，既没有一句交代她脚下这座 temple 落在哪一界，也没有说它是不是对白里提到的那座 Temple of the Crimson Moon。
 - **一句话概括**：她在镜中看清两条命运各自通向哪一片尸堆，于是两条都不认领；回到船上，她还得继续装作改造已成的那个自己，同时从 Aunt Shou 嘴里把这场买卖的底牌一句句套出来。
 - **情感弧线位置**：前半是下坠：恐惧→恶心→哀恸→「tears that never fell」；中段那句 I claim neither fate 是触底后的反弹；后半没有再跌下去，情绪被压进「说什么／不说什么」的判断里，直到最后一行才重新说出「I would forge my own future」。
 - **叙事手法**：两种视域硬接：前半是看（画面、颜色、动作，叙述者只作反应），后半是听（一问一答，信息全在对白里）。前半把自己写成 she／my image／this manifestation，后半回到第一人称的算计；人称的收放就是这一章的弧线。
@@ -43,7 +43,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** one he’d taught her, that he’d taught me 里代词从 her 滑到 me，一句话把镜像和本人并成同一人：剑法是共用的，罪也就共用。破折号后面 the realization a punch to the gut 索性省掉动词，像挨的那一下来不及组织句子。整个动作场里 Zhangwei 一处台词也没有，只给了 his expression anguished——他被打的形状就是他的语言。
 
-**读者视角提示：** 镜中这一场他全程不出声。读到后半章他真人进房、开口说第一句话时，反差是设计好的。
+**读者视角提示：** 镜中这一场他一句台词也没有：被打、被鞭、抬起手，全是动作。本章让他「出声」的只有一处，而且是转述——Zhangwei’s words resonated through me，至于那句话到底是什么，作者没有在本章写出来。于是本章里他留下的痕迹只有一种：one he’d taught her, that he’d taught me——他给她的东西全在招式里。
 
 > **原句 4:** "Were they immortal, mortal, or Wuxin? In death, somehow, they all looked the same. Who among them truly deserved this vicious end?"
 
@@ -63,7 +63,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 全章最短的主句排在最长的一段之后，位置本身就是宣告。as I straightened, raising my chin——身体先立起来，话才跟得上；破折号之前她还只是「清楚」，破折号之后已经是「我要」。I claim neither fate 用 claim（认领、索取）而不是 choose：她拒绝的不是某一条路，是「由别人摆好两条路」这个前提本身。Return my memories, all of them 说明她要的不是答案，是材料。
 
-**读者视角提示：** 本章有三处同构的说法，说话人不同：I will make my own destiny（她）、This path is of your own making（具镜对她说）、I would forge my own future（她最后一行）。三句连起来才看得出：这条「第三种可能」是被承认的，不是她嘴硬的。
+**读者视角提示：** 本章有三处同构的说法，说话人不同：I will make my own destiny（她）、This path is of your own making（本章没有另标说话人，它与 It is done 同属 the Mirror of Destiny 那一串不带引号的话）、I would forge my own future（她最后一行）。三句连起来才看得出：这条「第三种可能」是被承认的，不是她嘴硬的。
 
 > **原句 6:** "Her knowing tone hurt. She was Dalian’s accomplice; she had plotted to take my choice from me. But I hid my emotions, fixing a smile on my face."
 
@@ -143,4 +143,4 @@ modified: "2026-10-06"
 
 ## 一句话总结
 
-一面试具照出两条都写满尸体的路，她把两条一起退了回去——宁可带着残缺的记忆与削去一层的力气，也不肯让任何人替她决定该恨谁。
+一面镜照出两条都写满尸体的路，她把两条一起退了回去——宁可带着残缺的记忆与削去一层的力气，也不肯让任何人替她决定该恨谁。
