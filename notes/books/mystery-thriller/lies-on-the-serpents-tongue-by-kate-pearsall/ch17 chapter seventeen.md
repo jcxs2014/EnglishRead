@@ -10,8 +10,8 @@ modified: "2026-10-06"
 - **地点·时间**：周一图书馆查档→周五早餐时段的小馆（Kye 卫生间审讯、Hadrian 求见、结尾望向 Mama 与 Daddy）；一周。
 - **一句话概括**：镇图书馆的钟楼会跳针走时，Rowan 在报纸堆里挖出车祸案报道——25 岁外州男、老式白 Ford Ranger、撞巨石、连夜 11:52；顺着保安公司 logo 咬合到 Kye 的制服，再以「检举毁馆」为筹码把 Kye 堵在卫生间撬出口供（报废场放行路子到手）；Hadrian 现身摊牌：那个男人叫 Ciaran Nimh——彼界之主、他四岁落彼界时唯一在乎他死活的人，任务正是查 Bone Tree 为何衰败；Mama 拥抱 Hadrian 说「那是我的选择」；望着 Mama 与 Daddy 重新靠近，Rowan 问出契约之忧，Hadrian 答「新的爱不改旧约」——而蛾翼人的契约，从来比我们以为的更蜿蜒。
 - **情感弧线位置**：并肩查案的磨合期与心防松动期。她用威胁撬 Kye、用情报跟 Hadrian 讨价还价，手段越来越像父亲；而对 Mama 重燃旧情的恐惧（「契约怎么办」）暴露她真正的软肋——全家人的安稳都押在那份交易上。
-- **叙事手法**：档案馆侦探戏（剪报+电话+logo 咬合）全用纸面物证推进；卫生间威胁喜剧（咖啡灌肠式逼供）；三段「重逢谈判」（Mama-Hadrian、Hadrian-Rowan、Mama-Daddy 的窗外画面）互为镜像；结尾用一段「旁观父母」的静景承担最重的情感与悬念。
-- **线索进展**：① 钟楼病：「loses time, sometimes skipping whole hours or ticking randomly into the past」——镇的时间本身在漏；② 车祸报道要点：约 23:52、单车、25 岁外州男性、老式白 Ford Ranger、出 Forest 时偏离路面撞巨石、死者系安全带未系、现场死亡、姓名待通知近亲后公布；③ 20 家报废场+警局合作保安公司——logo 与 Kye 制服同款；④ 报废场二号线人（周五早 7 点来电）：有 1999 年同款后尾板，「再约一周放行拆解」——Rowan 的取件窗口；⑤ Ona 不是本地人，「Here and there」含糊带过；⑥ Ethan Miranda 副警长登场（酒窝长睫毛卷发）；⑦ Kye 交底（5 分钟）——「他们对我下手会更狠」；Rowan 拿到进报废场的路径；⑧ Hadrian 臂上烙印实为一朵花（认不出品种）；⑨ Ciaran Nimh：彼界之主，四岁 Hadrian 在彼界落单时「唯一在乎他死活的人」；任务=查树衰之因（what, or who）；⑩ 树衰后果：不属此地之物渗入加剧；彻底失败则两界连接永失、亡魂滞留自理；⑪ Mama 立场：「He didn't take anything from me. It was my choice」——无谎味；⑫ 新恋不改旧约（Hadrian）；结尾疑影：蛾翼人的契约「more serpentine than we realize」，永远先人一步。
+- **叙事手法**：档案馆侦探戏（剪报+电话+logo 咬合）全用纸面物证推进；卫生间威胁喜剧（咖啡灌肠式逼供）；三段重逢谈判（Hadrian 对 Mama、Hadrian 对 Rowan、Mama 与 Daddy 的窗外画面）互为镜像；结尾用一段「旁观父母」的静景承担最重的情感与悬念。
+- **线索进展**：① 钟楼病：「loses time, sometimes skipping whole hours or ticking randomly into the past」——镇的时间本身在漏；② 车祸报道要点：约 23:52、单车、25 岁外州男性、老式白 Ford Ranger、出 Forest 时偏离路面撞巨石、死者系安全带未系、现场死亡、姓名待通知近亲后公布；③ 20 家报废场+警局合作保安公司——logo 与 Kye 制服同款；④ 报废场二号线人（周五早 7 点来电）：有 1999 年同款后尾板，「再约一周放行拆解」——Rowan 的取件窗口；⑤ Ona 不是本地人，「Here and there」含糊带过；⑥ Ethan Miranda 副警长登场（酒窝长睫毛卷发）；⑦ Kye 交底（5 分钟）——「他们对我下手会更狠」；Rowan 拿到进报废场的路径；⑧ Hadrian 臂上烙印实为一朵花（认不出品种）；⑨ Ciaran Nimh：彼界之主，四岁 Hadrian 在彼界落单时「唯一在乎他死活的人」；任务=查树衰之因（what, or who）；⑩ 树衰后果：不属此地之物渗入加剧；彻底失败则两界连接永失、亡魂滞留自理；⑪ Mama 立场：一句「It was my choice」，无谎味——交易在她那里是购买不是损失；⑫ 新恋不改旧约（Hadrian）；结尾疑影：蛾翼人的契约「more serpentine than we realize」，永远先人一步。
 
 ## 精读
 
@@ -83,7 +83,7 @@ modified: "2026-10-06"
 | apologetically | 歉意地 | Ona looks at me apologetically when she leaves, just as lunch rush begins in earnest and all the tables start to fill up. |
 | department | 警方部门 | The sheriff’s department is withholding the name of the victim until next of kin has been notified. |
 | dealership | 车行 | Our local newspaper is mostly high school sports updates, car dealership ads, and garage sale notices. |
-| serpentine | 蛇一般蜿蜒难测的 | And the Moth-Winged Man’s bargains are always more serpentine than we realize. |
+| serpentine | 蛇一般蜿蜒难测的 | But the Moth-Winged Man’s bargains are always more serpentine than we realize. |
 
 ### ⭐⭐ 进阶
 
