@@ -35,7 +35,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 这个男人就是本章末尾她追出去找的那一个。请注意她此刻只知道「一个闯进来的男人」，还不知道他叫什么。
 
-> **原句 3:** “I bet others call you ‘Pain in the Ass,’ ” Faun says with a note of what might be fondness. “What do you call yourself?”
+> **原句 3:** “I bet others call you ‘Pain in the Ass,’ ” Faun says with a note of what might be fondness. “What do you call yourself?”
 
 **中文理解：** 「我敢说别人都叫你『屁股上的麻烦』吧。」芙恩说，语气里带着一点说不准是不是喜欢的味道。「你自己管自己叫什么？」
 
