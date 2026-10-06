@@ -151,7 +151,7 @@ modified: "2026-10-06"
 |---|---|---|
 | long-sleeved | 长袖的 | A big, solid man, with his long-sleeved shirt that has buttons on the wrists. |
 | shoulders | 肩膀 | She puts her arm around his shoulders. |
-| truth | 真实 | She wonders whether or not their love can be “true.” |
+| true | 真的；真实的 | Curious, Jenny reads on, but an explanation on how love can exist as something “true” is not forthcoming. |
 | essays | 论文；文章 | “I’ve spent a morning staring at essays and hating them all. |
 | published | 发表的 | “Essays. Published things.” |
 | professor | 教授 | “Oh, a professor in Harvard Square.” |
