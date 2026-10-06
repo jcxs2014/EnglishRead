@@ -9,7 +9,7 @@ modified: "2026-10-06"
 
 - **地点·时间**：农家——Mama 的约会之夜（全员后援）→ 厨房烛显术→Rowan 卧室（Hadrian 夜访）；同日两段。
 - **一句话概括**：Daddy 捧着绣线菊来接 Mama 赴约，她穿的是 Zephyrine 阁楼衣柜里封存二十余年的枫叶红绸裙——那衣柜是一座「悲伤的纪念碑」；姐妹俩用烛显术让小册的洋葱皮纸浮出红字批注：「Druid 来自橡树，也来自门」「『黑如夜的饿猫』——Wampus Cat / cat-sìth？」「唤醒正统之王，斩断与彼界的连接」——矛头直指 Zephyrine 图谋毁树；而 Linden 把 sìth 按盖尔语读成 shee，Lucien 亡魂说的不是「她」是「sìth」——是猫-Sìth 杀了他；但批注笔迹与 diablerie 里 Zephyrine 的旧字不符；夜访的 Hadrian 验骨：那截骨头是人骨——她们召来的根本不是 Lucien，而是骨主；她移过去的蛇纹正缠着他臂上一朵「蛇舌花」（防人背后议论的符）——花正在被蛇绞枯。
-- **情感弧线位置**：家的甜与案的冷交替升温。Mama-Daddy 的第二次初恋甜到冒泡，姐妹的烛显夜紧张如拆弹，Hadrian 的夜访（「Hi, love」）在玩笑与血誓后推进关系；而蛇绞花的意象把两人的秘密摆上台面——她想知道他臂上锁着什么。
+- **情感弧线位置**：家的甜与案的冷交替升温。Mama 与 Daddy 的第二次初恋甜到冒泡，姐妹的烛显夜紧张如拆弹，Hadrian 的夜访（「Hi, love」）在玩笑与血誓后推进关系；而蛇绞花的意象把两人的秘密摆上台面——她想知道他臂上锁着什么。
 - **叙事手法**：约会戏用全家视角写（拉链、鞋、窗后目送）；烛显术步骤化（点烛—悬书—诵读—抢读）；「读音即破案」的语音学桥段（she vs shee）；纹身特写第二次登场（蛇缠花）当关系隐喻。
 - **线索进展**：① Zephyrine 衣柜：裙子礼帽珠宝「自她离开那天封存」——孩童时代的装扮游戏原是哀悼仪式；② Mama 适应良好：Gran 解为「不知失去便不觉得失去」——Rowan 还瞒着魂片缺失一事；③ Juniper 病弱加重：放学「白得像张活页纸」、饭后碗边睡着；④ 小册红字批注三条（见上）；⑤ 语音破案：sìth（盖尔语读 shee）——「What if the spirit of Lucien Ballard wasn't saying she, but sìth?」——猫-Sìth 杀 Lucien；⑥ 笔迹疑云：批注与 diablerie 里 Zephyrine 被送走前的字条不匹配（但二十余年+被胁迫可解释）；⑦ Hadrian 译「Dà shealladh」：Spirit echo，a seer of two worlds——「It's what Juniper is」；⑧ Lucien 临终对 Hadrian 异常兴奋、说「真希望带着相机」「世界该知道真相」——他是猎蛾人不是盗参人；⑨ 人骨鉴定：「I think you summoned whoever that bone belongs to」——通灵对象另有其魂；⑩ 蛇纹过户后的新画面：蛇缠着他臂上的「蛇舌花」纹身（防人背后议论之符）——花正在枯；⑪ 「When do I get it back?」/「Soon」——取回蛇纹的承诺第三次悬置。
 
