@@ -81,7 +81,7 @@ modified: "2026-10-06"
 
 **关键词：** trusting and gullible · The familiarity of that plea · before she had something new to regret
 
-**为什么这样写：** 作者让她自己发现自己在做这件事，而且是通过一个身体反应发现的：ice slipped through her veins（一阵寒意穿过血管），生理反应代替了良心的独白。trusting and gullible 这对词是全章最狠的一处——它们同时是评价和警告。而那句反问把她推向一个不情愿的结论：让人难受并不只是好玩，是她唯一还能感到自己有权力的方式。
+**为什么这样写：** 作者让她自己发现自己在做这件事，而且是通过一个身体反应发现的：ice slipped through Audrey’s veins（一阵寒意穿过血管），生理反应代替了良心的独白。trusting and gullible 这对词是全章最狠的一处——它们同时是评价和警告。而那句反问把她推向一个不情愿的结论：让人难受并不只是好玩，是她唯一还能感到自己有权力的方式。
 
 **读者视角提示：** 这一段是科尔宾那句「你挺尖的」的直接后果。请把两段连起来读：她当面被指出，改了，然后原地复发——这就是全书要慢慢处理的机制。
 

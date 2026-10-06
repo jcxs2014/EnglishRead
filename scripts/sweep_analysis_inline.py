@@ -134,12 +134,36 @@ def is_quoteish(x):
 # 分析层英文片段的两种载体：反引号 与 双引号
 SPAN = re.compile(r'`([^`\n]{4,})`|"([^"\n]{4,})"|“([^”\n]{4,})”')
 
+# ⚠️ 2026-10-06（ITW 五步审查）新增**裸英文通道**：
+# 原 SPAN 只切取**被引号/反引号包裹**的片段 ⇒ 分析层里**裸写的英文**（无任何包裹符）
+# 压根不会被收进检查范围，而该脚本仍报「❌ 零命中 0」——
+# **「0 异常」此时代表「没查」，不是「查过是绿的」**。
+# 实测抓到两处真实阻断型：`remind him that this is over`（删掉 it doesn't mean 致语义反转）、
+# `ice slipped through her veins`（引语是 Audrey's veins）。
+# ⇒ 分析层三行（中文理解/为什么这样写/读者视角提示）里，
+#    凡**连续 ≥4 个英文词**且不被任何包裹符覆盖的，一律作为候选送去比对。
+_BARE = re.compile(r'(?<![A-Za-z])([A-Za-z][A-Za-z’\x27-]*(?:\s+[a-z][A-Za-z’\x27-]*){3,})(?![A-Za-z])')
+_BARE_MIN = 4          # 连续英文词数下限
+_BARE_MIN_FLAT = 16    # flat 长度下限（低于此多为普通术语，不报）
 
-def fragments(line):
+
+def bare_fragments(line):
+    """裸英文候选：先剥掉已包裹部分，剩下的连续英文段。"""
+    stripped = SPAN.sub(' ', line)
+    for m in _BARE.finditer(stripped):
+        seg = m.group(1)
+        if len(re.sub(r'[^a-z0-9]', '', seg.lower())) >= _BARE_MIN_FLAT:
+            yield seg
+
+
+def fragments(line, bare=False):
     for m in SPAN.finditer(line):
         for g in m.groups():
             if g:
                 yield g
+    if bare:
+        for seg in bare_fragments(line):
+            yield seg
 
 
 def is_quote_line(line):
@@ -355,8 +379,16 @@ def main():
             if is_quote_line(line):
                 continue
             # 落点 #14：表格行额外做**单元格级**扫描（裸英文），并单独计数
-            cands = list(fragments(line))
-            if is_table_row(line):
+            # ⚠️ bare 通道**只对非表格行开启**（2026-10-06 五步审查后修）：
+            #    表格行（词表例句）已有 cell_fragments 单元格通道在扫；
+            #    若再叠一遍 bare，行内中文引号 `“…”` 两侧会被拼成一句
+            #    （实测 3 条伪影：`but only got out the words   before she choked on them`），
+            #    制造「疑漏词或改写」假红。
+            #    反之**分析层散文行**（中文理解/为什么这样写/读者视角提示）此前零覆盖，
+            #    正是两处真实阻断型藏身处 ⇒ 只在那里开 bare。
+            is_tbl = is_table_row(line)
+            cands = list(fragments(line, bare=not is_tbl))
+            if is_tbl:
                 n_table_rows += 1
                 for cell in table_cells(line):
                     for f2 in cell_fragments(cell):
