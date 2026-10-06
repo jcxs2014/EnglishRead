@@ -31,7 +31,7 @@ modified: "2026-10-06"
 
 **关键词：** She finds his hand and laces her fingers with his · His grip is firm, reliable · more intimate than she can articulate · She is his anchor, though he continues to thrash · Bubbles pour out of his mouth · it looks as if his head is touched with snowflakes
 
-**为什么这样写：** 救援的方向被整个倒过来——上一章是人类拿刀试她，这一章是捕食者握着那只正在下沉的手。两个形容词 firm 和 reliable 都来自人类劳动里的评价体系，她用评价一只锚的方式评价他握她的手；而 She is his anchor 一句只把主语留给了自己，没给他任何位置，though he continues to thrash 这个让步又把功劳削掉一半：锚是他自己挂上去的，她只是不肯解绳。收尾的雪是个克制的比喻——泡沫盖住一张发青的脸，本来该写成溺水，作者偏写成落雪，于是危险被降格成装饰，而她还在场。
+**为什么这样写：** 救援的方向被整个倒过来——ch16 那场卧室里的验证是人类拿刀试她（她当场把刀刃滑过自己胸口给他看），这一章是捕食者握着那只正在下沉的手。两个形容词 firm 和 reliable 都来自人类劳动里的评价体系，她用评价一只锚的方式评价他握她的手；而 She is his anchor 一句只把主语留给了自己，没给他任何位置，though he continues to thrash 这个让步又把功劳削掉一半：锚是他自己挂上去的，她只是不肯解绳。收尾的雪是个克制的比喻——泡沫盖住一张发青的脸，本来该写成溺水，作者偏写成落雪，于是危险被降格成装饰，而她还在场。
 
 **读者视角提示：** 本章里需要被救的是他，而握住不放的是她。这一章的紧张不在她会不会放手，在人类的身体到底能撑多久。
 
