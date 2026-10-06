@@ -100,6 +100,25 @@ PROFILES = {
         "RANGE": (10, 10),
         "MARK": ["## 精读结束总结", "## 可迁移表达"],
     },
+    # ⚠️ 2026-10-06（The Language of Knives 五步审查）新增第四档：**短篇合集档变体 B**。
+    # 症状：体裁对应格式表对「短篇合集」只规定「逐篇精读（10 处 + 五子项 + 三档词汇 +
+    # 一句话总结）」，**并未规定节名**；现有 anthology 档把「独有特征节」取成
+    # `## 精读结束总结` + `## 可迁移表达`（Ken Liu 那套的节名）。
+    # 本书 13 章用的是另一组合规节名：`## 本篇导航` + `## 精读` + `## 词汇分级` +
+    # `## 一句话总结`，引语抬头是 `> **原句 N:**`。
+    # ⇒ 两个档位特征节都不命中 ⇒ 回退 summary ⇒ **39 处全量假红**
+    #   （13×「必备节本章导航 0 次」+ 13×「本章词汇 0 次」+ 13×「引语块 10 个超出 3–8 配额」）。
+    # 修法不是改 md 去凑节名（体裁表没要求那些节名），而是**再加一档**。
+    # 认档特征：`## 本篇导航` + `## 词汇分级`（这一组是短篇合集档 B 的独有节名组合）。
+    "anthology2": {
+        "H2": ["## 本篇导航", "## 精读", "## 词汇分级", "## 一句话总结"],
+        "READ": "## 精读",
+        "SUB": ["中文理解", "句子结构", "关键词", "表达方式", "为什么这样写"],
+        "QRE": re.compile(r'^> \*\*原句 (\d+):\*\* (.+)$', re.M),
+        "NUM": lambda m: int(m.group(1)),
+        "RANGE": (10, 10),
+        "MARK": ["## 本篇导航", "## 词汇分级"],
+    },
 }
 
 
@@ -131,14 +150,14 @@ def detect_profile(s):
     **nonfiction 一直是「按特征节认、不要求 QRE 自证」**，那是它的既定契约（也是 2026-09-30
     An Army 那次只给它补 QRE、不动认档逻辑的原因）。**修工具只改必要的那一处。**
     """
-    for name in ("nonfiction", "anthology", "summary"):
+    for name in ("nonfiction", "anthology", "anthology2", "summary"):
         P = PROFILES[name]
         marks = P.get("MARK")
         ok_marks = all(_has(s, m) for m in marks) if name != "summary" \
             else any(_has(s, m) for m in marks)
         if not ok_marks:
             continue
-        if name == "anthology" and not P["QRE"].search(s):
+        if name in ("anthology", "anthology2") and not P["QRE"].search(s):
             continue          # 负控只约束新增档位
         return name
     return None

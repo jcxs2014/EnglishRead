@@ -238,4 +238,4 @@ modified: "2026-10-06"
 
 ## 一句话总结
 
-*Bones Are Stones for Building* 让「建造」与「语言」合流：High Seats 把一台 impossible 的引擎派给 Grand Architect Mother，并称作 trifle；她拒绝维修、要求儿子与丈夫陪她下到塔基之外，按 `One life—one building.` 的家族旧规自己走进石头死去。Orlin 封好她，在失去与她共整合的那半个意识之后确认 `I am still me.`，接下职衔，而母亲的声音在他入睡前最后一次出现在合唱里，要他 to build。
+*Bones Are Stones for Building* 让「建造」与「语言」合流：High Seats 把一台 impossible 的引擎派给 Grand Architect，并称作 trifle；她拒绝维修、要求儿子与丈夫陪她下到塔基之外，按 `One life—one building.` 的家族旧规自己走进石头死去。Orlin 封好她，在失去与她共整合的那半个意识之后确认 `I am still me.`，接下职衔，而母亲的声音在他入睡前最后一次出现在合唱里，要他 to build。
