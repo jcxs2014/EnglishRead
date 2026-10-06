@@ -8,7 +8,7 @@ modified: "2026-10-06"
 ## 本章导航
 
 - **场景·时间**：清晨到午前。Queen Caihong 来过之后的一顿早饭：席上摆着 soybean milk、pancakes 与 rice dumplings；饭后到入院，骑 phoenix 越过 desert 落到 Palace of Radiant Light 宫外，穿过修过的殿翼与点着灯笼的长廊，停在走廊尽头那对深色双门前。
-- **一句话概括**：她一早就在盘算怎么把 Lord Zhangwei 那点"保护"从心里拔出去，结果一顿早饭被他拆成一场关于恐惧的谈话；她先是被他一句 "Fear keeps you safe" 撬开一条缝，接着抢先用极难听的话把他的好意砸回去，两人各自身上的面具裂了一次，随后在宫门前他又把话拉回来，只嘱咐她别出头。
+- **一句话概括**：她一早就在盘算怎么把 Lord Zhangwei 那点"保护"从心里拔出去，结果一顿早饭被他拆成一场关于恐惧的谈话；他一句 be afraid 反倒撬开她一条缝（one that pried a little of me apart），她当场承认 I am afraid，接着抢先用极难听的话把他的好意砸回去，两人各自身上的面具裂了一次，随后在宫门前他又把话拉回来，只嘱咐她别出头。
 - **情感弧线位置**：从"要把心硬起来"起手，被席上的礼遇与一句体己话一点点软化；她承认害怕、又听见 "If you flinch, I’ll know you for a coward and liar"，于是由软转刺；末尾落在她自己那句"不敢再发脾气"的自责与门前的告诫上，情绪收住没有解开。
 - **叙事手法**：第一人称限知，大半篇幅是早餐对话，刑罚这件事靠"吃"来承载，紧张全压在食物的动作上；中段插入骑乘与两段风景（desert 上的宫殿、宫外不合季节的花），行路之后进入几乎无对话的收尾，只用一句长告诫和一次推门作结。
 - **线索进展**：① Dragon Platform 的刑罚有等第，"Lightning is the harshest. After that would be Fire, Water, then Earth."，而用哪一种 "It depends on Her Majesty’s mood."；② Lord Zhangwei 提到他们一同对过的 Winged Devils，也提到一次 attempted attack；宫殿主翼 still under repair 是门口 guard 转述的；那次 damage 是否就是这场攻击所致，只停在她的问句里；③ 她体内的 heat of the Divine Pearl Lotus 一直在，与她碰到他手腕时觉出的 cold 形成对照；④ phoenix 被牵来时他说 "Your natures are somewhat similar"，这一句在本章不作解释；⑤ 门前他把条件说清楚：只要她 "draw any attention to yourself"，Her Majesty will have no choice but to punish you。
@@ -43,7 +43,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 这句的结构是先给证据再给道理。gave no sign 是一种表扬，而表扬的话里带出一个她无法追问的旧事；他不解释那次遭遇，只拿它当凭据。Hide it if you must, but don’t be ashamed of it 是两个相反的许可：可以藏，不必羞——他把"示弱"和"怕"拆成了两件事。最后那句用 keeps you safe / keeps you alive 做同义递进，两个分句几乎重复，重复本身就是这句的分量所在。
 
-**读者视角提示：** 这一句刚说完，她就把害怕承认了出来；本章后面她所有的狠话，都是在这个已经被听见的位置上说的。
+**读者视角提示：** 她先前已经把害怕承认了出来（那句 I am afraid 就在本句之前），这一句是他对那份承认的回应；本章后面她所有的狠话，都是在这个已经被听见的位置上说的。
 
 > **原句 4:** "“Sometimes you learn to hide something so well, it’s lost even to yourself,” he said slowly, like he was sharing something intimate."
 
@@ -61,7 +61,7 @@ modified: "2026-10-06"
 
 **关键词：** severity of the strikes · element channeled · Lightning is the harshest · Fire, Water, then Earth
 
-**为什么这样写：** 这一段口气近乎技术说明，句式短、条目清楚，和前面那些绕着的对白形成强烈反差。channeled 这个词把刑罚讲成一件需要人把力量引进来差使的东西——受刑者被排在施刑者的手上。After that would be 那种依次报上来的口气随后就有回声（"It whets the appetite."），刑罚在本章因此有了两副面孔：一种身体上的重，一种宫廷生活里的日常。
+**为什么这样写：** 这一段口气近乎技术说明，句式短、条目清楚，和前面那些绕着的对白形成强烈反差。channeled 这个词把刑罚讲成一件需要人把力量引进来差使的东西——受刑者被排在施刑者的手上。这种按轻重排下来的口气落在一场已有前文的对话里——更早他把刑罚直接排进日程（Such events are typically held before the afternoon meal. It whets the appetite.），此处再依次报一遍名目，刑罚在本章因此有了两副面孔：一种身体上的重，一种宫廷生活里的日常。
 
 **读者视角提示：** 她紧接着问的那一句（"Which will be yours?"）才是这段说明的存在理由；等第越清楚，答案落在谁身上这件事就越沉。
 

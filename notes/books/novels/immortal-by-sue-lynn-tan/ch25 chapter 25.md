@@ -33,7 +33,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** nor are we prey 用倒装把第二个否认说得更硬。四句话按「驳斥—能力—行动—保证」递进，末句的 again 把今晚已经发生的事算进账里。敬称 Honored Immortal 与内容的顶撞并置，正是 her tone was respectful but firm 所指的形状。
 
-**读者视角提示：** 说话人是 Captain Li，不是她。叙述者随后为这句辩驳记了功（Pride surged through me at her words），并补了一句 it was no easy thing to correct the God of War——本章把「君」写成被臣下提醒的那个人。
+**读者视角提示：** 说话人是 Captain Li，不是她。叙述者随后为这句辩驳记了功（Pride surged through me at her words），并补了一句 it was no easy thing to correct the God of War——被臣下纠正的那位是 the God of War 本人，本章的「君」是她，这句记的是 Captain Li 的胆量。
 
 > **原句 3:** "Zhangwei did not reprimand her as I almost expected. “Your training is evident, as is your courage. You have much to take pride in. But it’s not a fair fight if one side possesses magic and the other does not. While you can undoubtedly hold your own in combat, what can you do against spells of fire, wind, and ice? What if your weapon cannot inflict harm on your enemy? You will fall, through no fault of your own.”"
 

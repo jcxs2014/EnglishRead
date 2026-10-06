@@ -41,7 +41,7 @@ modified: "2026-10-06"
 
 **关键词：** expression shuttered · Of course · your betrothed
 
-**为什么这样写：** shutter 本是窗板、闸板一类的东西，用作动词就是「啪地拉下」；作者选这个机械感的词，让「他收起表情」变成一个听得见声音的动作。`Of course` 是让步的说法，字面上同意、语气里全是不情愿；而他不提任何名字，只用 `your betrothed` 这个身份称呼——距离就是这么划出来的。她上一句刚说要通知 `Chengyin, Aunt Shou, the ministers`，他这一句接的是「你的婚约者」，两处是不是同一个人，本章没有写死。下一句她立刻接上 `His tone rankled`，并把他拉回公事：`“He’s also my First Advisor,” I reminded him.` 两人用一个称呼争执，没有一句提到感情。
+**为什么这样写：** shutter 本是窗板、闸板一类的东西，用作动词就是「啪地拉下」；作者选这个机械感的词，让「他收起表情」变成一个听得见声音的动作。`Of course` 是让步的说法，字面上同意、语气里全是不情愿；而他不提任何名字，只用 `your betrothed` 这个身份称呼——距离就是这么划出来的。本章已经把这两处钉成同一个人：她上一句点名的 `Chengyin`，就是他这一句口中的「你的婚约者」。下一句她立刻接上 `His tone rankled`，并把他拉回公事：`“He’s also my First Advisor,” I reminded him.` 两人用一个称呼争执，没有一句提到感情。
 
 **读者视角提示：** 这是本章里两人最接近拌嘴的一处，而且全程停在礼数上。读这类对话时把「说了什么」与「怎么称呼」分开记，后者的信息量更大。
 

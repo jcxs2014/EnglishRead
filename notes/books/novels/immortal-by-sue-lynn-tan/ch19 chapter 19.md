@@ -7,7 +7,7 @@ modified: "2026-10-06"
 
 ## 本章导航
 
-- **场景·时间**：晚宴时分，Tianxia 的 dining hall。她带着 the God of War（她口中称 Lord Zhangwei）穿过一路侧目的宫人上殿；殿上最后只剩她与 Chengyin，末了战神起身与一名抱 lute 的乐伎合奏。
+- **场景·时间**：晚宴时分，Tianxia 的 dining hall。她带着 the God of War（她口中称 Lord Zhangwei）穿过一路侧目的宫人上殿；殿上到最后是她、Chengyin 与留在她身侧的战神三人，末了战神起身与一名抱 lute 的乐伎合奏。
 - **一句话概括**：一场句句带刺的同席——她把焚宫的债一口咬定为 guilt 而非 kindness，为挡开他当场抛出「Chengyin is my betrothed」这句假话，却被一句贴耳的 don’t give up that easily 正面接住。
 - **情感弧线位置**：恨意与心动在这一章被摁在同一张餐桌上；她一边用「reparations」「betrothed」筑防线，一边又让一段 memory 与一段琴声把防线动摇，章末她把这份动摇斥为一笔 costly mistake。
 - **叙事手法**：第一人称限知；对白靠潜台词推进，满篇「表面客套、内里下刀」的反讽（她自陈那句劝和的客套实为 plunging the knife 更深）；叙述者的身体反应（chest tightened、throat went dry）替她说不肯出口的情绪。

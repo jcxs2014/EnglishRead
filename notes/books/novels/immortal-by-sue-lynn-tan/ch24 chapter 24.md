@@ -8,7 +8,7 @@ modified: "2026-10-06"
 ## 本章导航
 
 - **场景·时间**：夜里，Tianxia 宫城内部——从 `The entrance of my home was abandoned` 的空门开始，Wuxin 与 Winged Devils 一同入主庭院，一场对峙打到大殿前的广场，最后 Zhangwei 自树丛中现身，怪物退出她的家。
-- **一句话概括**：敌人为她体内的莲花而来；她为了不让族人死亡而把自己送上对方的条件，又在最后一刻把力量从自己身体里抽给那个护着她的人。
+- **一句话概括**：敌人为她体内的莲花而来；他们要她投降随行才肯放过族人，她假意周旋、迈步在即，被一道拦在中间的火焰打断——条件她始终没有接受；而在最后一刻，她把力量从自己身体里抽给那个护着她的人。
 - **情感弧线位置**：本章的张力不是一条线而是两条并行——外线是「留下护族人」与「跟她走保莲花」的拉扯，内线是她对 Zhangwei 从持剑相向到手掌相合；低点在少年士兵被取心，回升在 `the monsters gliding away from my home as silently as they had entered`。
 - **叙事手法**：第一人称限知；怪物的外形随时间「被画满」，恐惧因此有了可见的进度条；大量用「她问—他不答」的错位推进信息（`When he didn’t reply, I pressed further`）；又用极短的句子独立成段当闸门（`They would not take another.`、`They knew.`）。
 - **线索进展**：① Wuxin 与 Winged Devils 是同盟（`they were working together`）；② 他们的目标是她与 the Divine Pearl Lotus；③ Wuxin 口中出现一个没有露面的人物 Lord Dalian，叙述者自己还在猜他的身份（`Lord Dalian? Was he the ruler of the Wuxin?`），而这一方内部并不铁板（Miss Lin 当众斥责 Captain Rao 滥杀）；④ 她能把自己的暖分给 Zhangwei，`the color returning to his face`。
@@ -81,7 +81,7 @@ modified: "2026-10-06"
 
 **关键词：** silence · conceal him · avaricious eyes · my friend · claiming a position he did not want
 
-**为什么这样写：** 这一句的情绪是双向的：前半是保护他，后半是心疼他「认领」了一个位置。`claiming a position he did not want` 的措辞极其克制——作者不写他表白、不写他牺牲，只写他当众把自己登记成一个身份。破折号前后的两个动作（我想藏他／他在自我暴露）互相抵消，于是她的无助被写成了两难。此前他只是一句 `Chengyin straightened. “Her betrothed.”`——三个字，没有一句解释，这一段的分析全部由叙述者承担。
+**为什么这样写：** 这一句的情绪是双向的：前半是保护他，后半是心疼他「认领」了一个位置。`claiming a position he did not want` 的措辞极其克制——作者不写他表白、不写他牺牲，只写他当众把自己登记成一个身份。破折号前后的两个动作（我想藏他／他在自我暴露）互相抵消，于是她的无助被写成了两难。此前他只是站直身子留下两个字——`Her betrothed.`，没有一句解释，这一段的分析全部由叙述者承担。
 
 **读者视角提示：** 本章对 Chengyin 的全部信息都在这里：`just as my friend was trying to help me`。她称他为朋友，而他刚刚自认的是婚约者。这两个称呼之间的差，作者留着不填。
 

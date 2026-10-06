@@ -51,7 +51,7 @@ modified: "2026-10-06"
 
 **关键词：** no executions · the stomach for that · ruling by fear · worthy ministers · viperous court of bootlickers · nothing of worth gets done
 
-**为什么这样写：** 三句按「禁止—理由—后果」递进，分号与 moreover 维持进谏辞令的板正节奏；viperous（毒蛇般）与 bootlickers（舔靴的奴才）两个贬义意象合成一处——蛇窝长在靴子上，是本朝最刻薄的一个画面。where nothing of worth gets done 把整段议论收在「能不能做事」上——Aunt Shou 的价值观始终是实用的，这也是她此前那句 Children shouldn’t be 一类拌嘴话底下真正的分量。
+**为什么这样写：** 三句按「禁止—理由—后果」递进，分号与 moreover 维持进谏辞令的板正节奏；viperous（毒蛇般）与 bootlickers（舔靴的奴才）两个贬义意象合成一处——蛇窝长在靴子上，是本朝最刻薄的一个画面。where nothing of worth gets done 把整段议论收在「能不能做事」上——Aunt Shou 的价值观始终是实用的，这也是方才那场拌嘴的底色——Children shouldn’t be held accountable 出自 Chengyin，Aunt Shou 当场顶回去一句 Children should respect their elders。
 
 **读者视角提示：** 这段谏言直接接住 Chengyin 方才的玩笑（She can just order their heads cut off）；玩笑与政事在同一口气里切换，正是本章治理生活的日常形态——密谈不等于密谋，他们仍在互相纠正。
 
@@ -83,7 +83,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 条款连用三个 to 短语起头、不写主语，像一份条约草稿的毛坯；破折号里塞进 it’s ours too 三个词的领土主张，把所有权从女王的赠予逻辑里收回来。句末却留了一句 We would still guard Kunlun——她也给出对方在意的东西，谈判姿态在一口吻里立定：这不是乞求，也不是决战。
 
-**读者视角提示：** 她刚说完，Aunt Shou 立刻把豪言翻译成手艺（We must keep the terms precise and clear），Chengyin 追问 Will giving up the lotus hurt you？——誓言迎来两道技术审问；本章给她的每一点锋芒都配一副账本。
+**读者视角提示：** 她那句誓言不是迎来而是答出两道技术审问：Chengyin 先追问 Will giving up the lotus hurt you，Aunt Shou 再把话头收进手艺（We must keep the terms precise and clear），她随后才把豪言说出口；本章给她的每一点锋芒都配一副账本。
 
 > **原句 8:** "I stood straighter, my resolve hardening. This was not a game I could sacrifice; winning was more than a matter of pride. The immortal had underestimated me; he didn’t know what I was capable of. This time, I would show him, and victory would not be claimed by the God of War."
 

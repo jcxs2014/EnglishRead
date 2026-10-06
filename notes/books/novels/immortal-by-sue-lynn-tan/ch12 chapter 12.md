@@ -83,7 +83,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 这句先立一个普遍的否定（No one is invulnerable.），再把它专门落到强者身上，用 maybe 让一步、用 but 收回到「一样真」。Those stronger, suffer too 中间那个逗号把主语和动词隔开，读起来像她边想边说，不像格言。as real 只写了后半的 as，比较的对象留着不填——她要读者自己把「和谁一样真」补上。
 
-**读者视角提示：** 这句是接在他的两句自嘲之后说的（You are one of the few who ask such things / Most think I feel no pain.）。她把「他也是会痛的」这件事说出口，而这正是她后面那句 weakness 的源头。
+**读者视角提示：** 这句是接在他的两句自嘲之后说的（You are one of the few who ask such things / Most think I feel no pain.）。她把「他也是会痛的」这件事说出口；而她在本章更早些时候给自己下的那道判词（for such weakness led to ruin）正是被这一句推翻的对象——先有禁令，后有这句「一样真」。
 
 > **原句 8:** "Impossible. There was no future for us, at least none I would accept. To him, this was a brief interlude, a blink in his immortal existence. Whatever lay between us, even if it was real—it was not meant to last. And no matter the temptation, I would never trade my kingdom for my heart."
 
@@ -91,7 +91,7 @@ modified: "2026-10-06"
 
 **关键词：** Impossible · at least none I would accept · interlude · a blink · not meant to last · temptation · trade my kingdom for my heart
 
-**为什么这样写：** 段落以一个词的独句 Impossible. 开场，先给判决再补论证——她拒绝把那件事当成可讨论的对象。a brief interlude 借戏剧术语，a blink 借身体动作，两个尺度都在写「短」，且短的是他的时间而不是她的。最后一句是「拿王国去换心」这种交易句式，被保住的王国排在被让出的心之前；这个动词结构回收了她本章一直在做的事：用血、用陪伴、用结盟去换东西，而在这一笔上她拒付。
+**为什么这样写：** 段落以一个词的独句 Impossible. 开场，先给判决再补论证——她拒绝把那件事当成可讨论的对象。a brief interlude 借戏剧术语，a blink 借身体动作，两个尺度都在写「短」，且短的是他的时间而不是她的。最后一句是「拿王国去换心」这种交易句式，被保住的王国排在被让出的心之前；这个动词结构回收的是她一路在做的事——上一章她拿血相换，本章她给的是陪伴与结盟，而在这一笔上她拒付。
 
 **读者视角提示：** 这一句的锋利全在 at least none I would accept：她没有说没有将来，只说没有她肯要的将来——本章的自主性藏在这半句限定里。
 

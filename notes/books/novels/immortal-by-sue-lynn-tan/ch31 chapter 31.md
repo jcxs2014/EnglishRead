@@ -15,19 +15,19 @@ modified: "2026-10-06"
 
 ## 精读
 
-> **原句 1:** "Anger was good; it helped me forget my fear and misery, the very thing these creatures thrived on."
+> **原句 1:** "My hands balled into fists. Anger was good; it helped me forget my fear and misery, the very thing these creatures thrived on. When I lunged at him, he shoved me aside with brutal force, his hand ice-cold. I fell against the wall, fighting the tears that threatened."
 
-**中文理解：** 冒名的对方推进囚室，她扑上去被一把甩开，撞在墙上强忍眼泪。下一句她立刻换了姿态：愤怒是好事，因为它盖掉了恐惧和痛苦——而这些东西正是这类生物赖以生存的食物。
+**中文理解：** 她攥紧拳头给自己定调：愤怒是好事，因为它盖掉了恐惧和痛苦——而这些东西正是这类生物赖以生存的食物。随后她扑上去，被一把甩开，他的手冷得像冰；她撞在墙上，强忍住快要涌上来的眼泪。
 
-**关键词：** anger · fear · misery · thrived
+**关键词：** balled into fists · anger · fear · misery · thrived · shoved me aside · fighting the tears
 
 **为什么这样写：** 分号把句子切成"结论＋理由"，读起来像她当场做出的决定而不是事后的抒情。把愤怒写成工具而不是失控，一句话就把开场从"受害者的反应"转成"作战姿态"；thrived on 又把对手的饮食结构一并交代了。
 
-**读者视角提示：** 读者先看到她的手在抖，再看到她在挑情绪用，于是期待她后面靠这份冷静周旋，而不是硬碰硬。
+**读者视角提示：** 读者先看到她攥紧的拳头，再看到她在挑情绪用，于是期待她后面靠这份冷静周旋，而不是硬碰硬。
 
 > **原句 2:** "I’d been careless, seeing only what I wanted to, missing the signs."
 
-**中文理解：** 对方说 Chengyin 早就学会了藏自己的记忆，而他连脸上那道疤都注意到了。她紧跟着认下 Zhangwei had been right 这句判断——是自己只看想看的，才漏掉了那些迹象。
+**中文理解：** 前一句对方刚说 Chengyin 早就学会了藏自己的记忆，还自认漏看了那道疤（I was remiss to overlook the scar）——是他漏看，不是他看出。她紧跟着认下 Zhangwei had been right 这句判断：是自己只看想看的，才漏掉了那些迹象。
 
 **关键词：** careless · wanted · signs
 

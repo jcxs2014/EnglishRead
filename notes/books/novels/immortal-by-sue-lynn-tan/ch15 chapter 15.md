@@ -8,10 +8,10 @@ modified: "2026-10-06"
 ## 本章导航
 
 - **场景·时间**：对峙发生在 Queen Caihong 的宫殿大厅，一路持续到她逃入云端，出花园时太阳已低——"The sun hung low, a crimson disc crowning the heavens"；空间从王座前→侧廊→后宫竹园→草地尽头。
-- **一句话概括**：God of War（Lord Zhangwei）以「真实感情」为燃料的法术来夺她体内的 Divine Pearl Lotus；法术在她确认「不爱」的那一刻停摆，她反手以发簪破局、夺下他的剑，趁 Winged Devils 攻破宫殿之际乘 qilin 逃离。
+- **一句话概括**：God of War（Lord Zhangwei）以「真实感情」为燃料的法术来夺她体内的 Divine Pearl Lotus；法术先在半空停住，她把这一停认成自己不爱的证据，随后反手以发簪破局、夺下他的剑，趁 Winged Devils 攻破宫殿之际乘 qilin 逃离。
 - **情感弧线位置**：背叛的谷底与反击的起点被压在同一场戏里——先坠落（even as his deceit was laid bare—the fact I hurt meant that I’d cared），再硬起来（I would not be their victim; I would fight back）。
 - **叙事手法**：第一人称限知，大半是对峙戏，法术的法则由施夺者亲口交代（your feelings had to be real）；局势的转折由一次具体动作（发簪刺入握刀的手）而非心理独白完成；章末动作停住，靠内心清算收束。
-- **线索进展**：① 抽取停在半空——the glittering trail of the lotus stilled in the air like time itself had frozen；② 只认主人的剑落在她手里而她没死；③ 她 regret 地丢下 the Shield of Rivers and Mountains（原文：left on the table），空手离殿；④ qilin 由追逐者变救者（The qilin who’d chased the God of War and me），心意始终未被言明；⑤ Winged Devils 破宫（the Winged Devils have breached the palace）；⑥ 章末定调：He would come for me; he would stop at nothing to get what he wanted. 与 But this time, I would be ready for him. 并置成收束。
+- **线索进展**：① 抽取停在半空——the glittering trail of the lotus stilled in the air like time itself had frozen；② 只认主人的剑落在她手里而她没死；③ the Shield of Rivers and Mountains 始终 left on the table——她从未拿到它，只在离殿时回头看了一眼，regret 全在这一眼里；④ qilin 由追逐者变救者（The qilin who’d chased the God of War and me），心意始终未被言明；⑤ Winged Devils 破宫（the Winged Devils have breached the palace）；⑥ 章末定调：He would come for me; he would stop at nothing to get what he wanted. 与 But this time, I would be ready for him. 并置成收束。
 
 ## 精读
 
@@ -73,7 +73,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 三句是一次自我核对：先否定对方的判断，再宣告事实，最后用两个时间状语 not then, not now 给宣告上双锁。锁扣封住了「那时」与「现在」两个点，却没有写进第三个——这句话里没有将来；自我确认只敢确认到当下。
 
-**读者视角提示：** 这是本章的支点：法术停摆、发簪反击、剑认她为主，三件事全都挂在这一个否定式宣告上。
+**读者视角提示：** 这是本章的支点：法术停摆发生在她这一句之前，她给出的这个否定式解释才是此后两步——发簪反击、剑认她为主——的起点。
 
 > **原句 7:** "I smiled with all the malice and pride I could muster. “Because then, I can hurt you.”"
 
@@ -143,4 +143,4 @@ modified: "2026-10-06"
 
 ## 一句话总结
 
-以「真感情」为燃料的夺莲法术，卡死在她确认不爱的那一拍；她用发簪扳回一局，趁怪物破宫夺剑而去，乘 qilin 逃入云端——背叛清算完了，敌人的下一张帖也下了：他必来，而她等着。
+以「真感情」为燃料的夺莲法术在半空卡死，她随后把这一停认成自己不爱的证据；她用发簪扳回一局，夺下他的剑，趁怪物破宫之际乘 qilin 逃入云端——背叛清算完了，敌人的下一张帖也下了：他必来，而她等着。

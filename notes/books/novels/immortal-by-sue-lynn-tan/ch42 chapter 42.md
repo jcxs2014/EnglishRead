@@ -11,7 +11,7 @@ modified: "2026-10-06"
 - **一句话概括**：在通往 gateway 的船上，Lord Dalian 先以"娶妻"之名羞辱她、她以不动声色回敬；随后 Aunt Shou 到船头与她长谈，把 Dalian 一家的旧恨（女儿死于 Queen Caihong 兵下的突袭、Dalian 从此"学会了恨"）摊在她面前、劝她下嫁——她假意应下开 gateway 的许诺，两人各怀心思地彼此停战。
 - **情感弧线位置**：本章是一整段"被困—周旋—摊牌"的低气压：开篇她是被"验货"的一方，靠不动声色维持体面；中段与 Aunt Shou 的对话把怨恨、旧情与利用搅在一起；结尾她一面应承、一面自陈在撒谎，把全章压成一次无人可信的僵局。
 - **叙事手法**：第一人称限知，本章几乎全由对白推进；但她在对白之间频繁插入不带引号的心声（如那句 Convenient excuses），形成"嘴上应付、心里审判"的双声道；Aunt Shou 一家的身世不由叙述者补述，而是借她自己的口一段段揭开。
-- **线索进展**：① Lord Dalian 求娶之意，据他说是起于其母（Aunt Shou）昔日对她的推崇；② Aunt Shou 的女儿、Dalian 的妹妹（本章只以"his sister""my daughter"称之、未提其名）死于 Queen Caihong 麾下兵士的突袭，Dalian 从那日起 learned to hate；③ gateway 非靠她不能开启——她若跳水入 Wangchuan，Dalian 便开不了它，这是她本章自陈的筹码；④ 她向 Aunt Shou 讨一句护 Chengyin 周全的承诺，Aunt Shou 却回探她是否真会开 gateway——两人各说各的谎，是停战而非结盟。
+- **线索进展**：① Lord Dalian 求娶之意，据他说是起于其母（Aunt Shou）昔日对她的推崇；② Aunt Shou 的女儿、Dalian 的妹妹（本章只以"his sister""my daughter"称之、未提其名）死于 Queen Caihong 麾下兵士的突袭，Dalian 从那日起 learned to hate；③ gateway 非靠她不能开启——她若跳水入 Wangchuan，Dalian 便开不了它，这是她本章自陈的筹码；④ 她向 Aunt Shou 讨一句护 Chengyin 周全的承诺，Aunt Shou 却回探她是否真会开 gateway——她这一边的撒谎是原文自陈的，对方只点点头，是否也在撒谎，她只能在心里打问号；这一节是停战而非结盟。
 
 ## 精读
 
@@ -143,4 +143,4 @@ modified: "2026-10-06"
 
 ## 一句话总结
 
-一条河的两岸此刻都站满了要她撒谎的人——她对 Lord Dalian 虚与委蛇、对 Aunt Shou 层层试探，一边不肯以身殉国、一边又逼自己活下去争那一点转机；到头来连那位口称关心她的旧长辈，也只剩用一句假承诺与她彼此停战。
+一条河的两岸此刻都站满了要她撒谎的人——她对 Lord Dalian 虚与委蛇、对 Aunt Shou 层层试探，一边不肯以身殉国、一边又逼自己活下去争那一点转机；到头来连那位口称关心她的旧长辈，也只是点点头与她彼此停战——她这一边的假承诺由自己点破，对方那一边的猜测原文始终没有替她落实。

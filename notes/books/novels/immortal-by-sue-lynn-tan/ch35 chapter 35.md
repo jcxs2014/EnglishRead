@@ -7,7 +7,7 @@ modified: "2026-10-06"
 
 ## 本章导航
 
-- **场景·时间**：temple 里的池塘边——她一个人对着水面上的两个倒影；后半段从码头乘一小船回宫殿，同船的是 Aunt Shou。全章是一次连续行程：先看完两场镜中所见，再听完一船对白。她脚下这座 temple 在本章始终只写作 temple——没有一个字交代它落在哪一界，也没有说它是不是对白里提到的那座 Temple of the Crimson Moon（Aunt Shou 那句是「Not in the Temple of the Crimson Moon」，说的是另一件事）。
+- **场景·时间**：temple 里的池塘边——她一个人对着水面上的两个倒影；后半段从码头乘一小船回宫殿，同船的是 Aunt Shou。全章是一次连续行程：先看完两场镜中所见，再听完一船对白。她脚下这座 temple 在本章始终只写作 temple——没有一个字交代它落在哪一界；不过 Aunt Shou 回她「There was no taint in the pond」那句时说「Not in the Temple of the Crimson Moon」，等于当面替这座 temple 报了名，只是行文仍不点名。
 - **一句话概括**：她在镜中看清两条命运各自通向哪一片尸堆，于是两条都不认领；回到船上，她还得继续装作改造已成的那个自己，同时从 Aunt Shou 嘴里把这场买卖的底牌一句句套出来。
 - **情感弧线位置**：前半是下坠：恐惧→恶心→哀恸→「tears that never fell」；中段那句 I claim neither fate 是触底后的反弹；后半没有再跌下去，情绪被压进「说什么／不说什么」的判断里，直到最后一行才重新说出「I would forge my own future」。
 - **叙事手法**：两种视域硬接：前半是看（画面、颜色、动作，叙述者只作反应），后半是听（一问一答，信息全在对白里）。前半把自己写成 she／my image／this manifestation，后半回到第一人称的算计；人称的收放就是这一章的弧线。
@@ -85,7 +85,7 @@ modified: "2026-10-06"
 
 **读者视角提示：** 把这条因果链记牢：河水衰弱 → 需要 Mortal Realm → 需要她 open the gateway。后半段 Aunt Shou 每一次和气的对话，都可以拿这条链回读一遍。
 
-> **原句 8:** "I was Queen Caihong’s daughter, the only one who had a chance of lifting the enchantment crafted with her magic—the one that ran in my veins."
+> **原句 8:** "But it wasn’t my mortal heritage they wanted. I was Queen Caihong’s daughter, the only one who had a chance of lifting the enchantment crafted with her magic—the one that ran in my veins. And they would never let me go, not until I’d done what they wanted."
 
 **中文理解：** 他们要的并不是我的凡人之血。我是 Queen Caihong 的女儿，是有机会解开她以自身魔法所造那道咒的人——那道咒就流在我的血里。而他们绝不会放我走，直到我替他们做成这件事。
 

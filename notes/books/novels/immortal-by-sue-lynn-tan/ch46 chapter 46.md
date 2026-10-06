@@ -11,7 +11,7 @@ modified: "2026-10-06"
 - **一句话概括**：她在一场原文自己也不肯确证的重逢里向母亲认错，把「没有杀人、没有复仇」的账摊开，得到的回答不是原谅而是骄傲——而能不能回家，仍卡在规则与一场还没开始的谈判上。
 - **情感弧线位置**：本章的转折在于顺序：责备先落地（she rebuked me），母亲的坦白随后，且坦白用的是「自私」这个词；到 I am proud of you 才把语气完全换掉。她需要接受的从来不是母亲的严苛，而是严苛背后那句 It was a selfish decision。
 - **叙事手法**：几乎只有两人在场，对话承担全部信息；叙述层的长段议论（关于 mortals、关于 sun 与 shadow）插在台词之间，形成「说出来的少、想起来的长」的配比。结尾用一次醒来，把前面的亲密重新变成问题。
-- **线索进展**：① 她记起了 Golden Desert 与母亲，但本章两处自问这场相见是否真实（or was it because this wasn’t real?、Is this a dream?），母亲的回答只把判断交回她心里；② 母亲承认当初随她下去是自私的决定，且多年找不到人；③ 「本可以让 Wuxin 被毁灭而不折一名 immortal」的抉择被摊开，回答是 I am proud of you；④ 父亲只出现在母亲的假设句里（if I had your father back）与她的追问里（not avenging Father），本章未写其结局细节；⑤ 回家的条件是重新与 Celestial Emperor 谈新条款，她提出让 Tianxia 归回凡人世界、撤盾拆墙，母亲只答 Tianxia strengthens us，未应也未拒；她自判已经埋下念头（seeded the idea），并说会通过 the God of War 递上 formal petition；⑥ 母亲邀她看池塘里为新种的 lotuses，章末她在清晨醒来，留下一句 This was not our end。
+- **线索进展**：① 她记起了 Golden Desert 与母亲，但本章两处自问这场相见是否真实（or was it because this wasn’t real?、Is this a dream?），母亲的回答只把判断交回她心里；② 母亲把当年那一层动机称作自私的决定（It was a selfish decision），并说多年找不到她、以为她已失于彼界——本章没有写母亲随她下去，反倒写明她当时不在身边；③ 「本可以让 Wuxin 被毁灭而不折一名 immortal」的抉择被摊开，回答是 I am proud of you；④ 父亲只出现在母亲的假设句里（if I had your father back）与她的追问里（not avenging Father），本章未写其结局细节；⑤ 回家的条件是重新与 Celestial Emperor 谈新条款，她提出让 Tianxia 归回凡人世界、撤盾拆墙，母亲只答 Tianxia strengthens us，未应也未拒；她自判已经埋下念头（seeded the idea），并说会通过 the God of War 递上 formal petition；⑥ 母亲邀她看池塘里为新种的 lotuses，章末她在清晨醒来，留下一句 This was not our end。
 
 ## 精读
 

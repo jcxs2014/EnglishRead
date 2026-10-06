@@ -73,7 +73,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 几组词共用同一套纺织的语言：sliver（薄薄一片）、unraveled（抽开线）、woven（织）、thread（线）。作者要读者看见的不是「她想出了办法」，而是「这个办法薄到什么程度」。紧接的动作也印证了这份薄：她把藤蔓扔进液体里，Dalian 与 Aunt Shou 往后退，Lin 与 Mei 抬手遮挡，而 Zhangwei 已经不见。
 
-**读者视角提示：** 这个念头之所以成立，靠的是前一段刚立好的规矩：gateway 不吃魔法，那就给它一样属于它自己的东西。读者手里已经握着答案，只是比她早不了几秒。
+**读者视角提示：** 这个念头之所以成立，靠的是紧随其后的那一段当场把规矩试出来：水不挪、灯不灭——gateway 不吃魔法，那就给它一样属于它自己的东西。读者与她几乎是同时拿到这条前提的，谁也没比谁早几步。
 
 > **原句 7:** "“No.” Her voice broke, her expression haunted. “Let them go, my son. Enough suffering has been caused.” She gestured at the river behind us. “We don’t need the realms beyond; we can build a great kingdom here. I can’t lose you as I lost Damei—”"
 

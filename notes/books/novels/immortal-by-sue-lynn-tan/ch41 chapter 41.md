@@ -10,7 +10,7 @@ modified: "2026-10-06"
 - **场景·时间**：Endless Dawn Palace 外的夜色里，她被迫留在这座以 quartz 筑起的宫中。贴身守卫 Lin 抢步迎上来，两个人一路低声交谈、一路避开目光；随后 Lord Dalian 现身，命她随他到码头——Wangchuan 河畔战船已集结，gateway 要在今夜打开。
 - **一句话概括**：她在监视之底下与敌方守卫 Lin 完成一次危险的相互试探与暗中结盟，Lin 亲口说出 Lord Dalian 靠恐惧与配给维系统治、内部早有不满；话音未落 Lord Dalian 便宣布当晚就要用她打开 gateway，她被逼到低头假意顺从，把反抗收进"活下去、改日再战"的隐忍里。
 - **情感弧线位置**：本章走完「戒备 → 试探 → 结盟 → 被逼到墙角」一条线——开场她对 Lin 的突然亲近本能绷紧，中段她一边听一边在心里称量对方是否可交，末段 Lord Dalian 一道军令把刚燃起的转机压回原地，谷底被那句自白"站错了边"砸出，再由结盟的火种抬起。
-- **叙事手法**：第一人称限知，信息几乎全部藏在"压低声音的对白"里——muttered through clenched teeth 这类耳语承担推进；她嘴上应答、心里评估 Lin 的忠诚，说出的话与盘算之间始终错开一拍；章末以一句独立成段的自我剖白收束，不作解释。
+- **叙事手法**：第一人称限知，信息几乎全部藏在"压低声音的对白"里——muttered through clenched teeth 这类耳语承担推进；她嘴上应答、心里评估 Lin 的忠诚，说出的话与盘算之间始终错开一拍；章中有一句独立成段的自我剖白，不作解释，其后才接上 Dalian 的宣告与章末那场风暴。
 - **线索进展**：① void birds 是 Lord Dalian 布下的监视网——The void birds reported that an intruder was sighted，他靠它们 keep a close watch on us；② Wangchuan 的"衰败"只是 Lord Dalian 与其亲信的说法，Lin 疑他私吞河水之力（he hoards most for the army and those close to him）；③ 庙中镜子曾就 Wangchuan 留下一句：Before one attempts to restore it, one should learn the cause——"河水为何衰败"成了待解的疑团；④ 她之所以肯忍下这一切，是为 the mortal Lord Dalian holds captive 那个人。
 
 ## 精读

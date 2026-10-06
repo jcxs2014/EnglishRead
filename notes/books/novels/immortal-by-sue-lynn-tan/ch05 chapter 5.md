@@ -11,11 +11,11 @@ modified: "2026-10-06"
 - **一句话概括**：她在出发前替一个遭了蝗灾的老人当众压下朝臣的敷衍，又想起祖父当年举着一锭银子教她「到受苦的人中间去走」；接引她的正是放火烧她家的那位 God of War，一路顶嘴顶到云上，对方两句实话叫她当场动摇了一回，最后她为着那面盾牌答应住进神的宅子。
 - **情感弧线位置**：她已经站起来练刀、上朝、下决断，可这一章让她撞上一桩她没准备过的事：动手的那位也会讲道理——恨被撬开一道缝，她立刻用「我要替所有人挣出自由」把缝堵回去。
 - **叙事手法**：第一人称限知。一整段回忆（祖父举银锭问她「你看见什么」）嵌在现实的时间缝隙里，靠一句 「my mind drifted back to my grandfather」 进出；云上那一大段几乎全由一句顶一句的短台词推进，叙述只落在身体的反应上——胃、手指、呼吸、温度。
-- **线索进展**：① 她身体的变化：只有她自己知道胸口每日涌起的那股新暖、每晨醒来都是足的，对外却照旧装作没复原；那一缕由死水留下的白发她今天没藏，别人只看得一眼便躲开；② 祖父的治国课落地成一条具体政令——开仓放粮；③ 她把朝局交给两个互为政敌的臣子与 Chengyin，算的是「让他们互相牵制」；④ 神界有条硬规矩：凡人一生只能进一次，超了时辰人就没了，这条规矩靠一根串金珠的红线系在她腕上；⑤ The Shield of Rivers and Mountains 就在这边，或许正在这位神的家中——这是她留下来的真正理由。
+- **线索进展**：① 她身体的变化：只有她自己知道胸口每日涌起的那股新暖、每晨醒来都是足的，对外却照旧装作没复原；那一缕由死水留下的白发她今天没藏，别人只看得一眼便躲开；② 祖父的治国课落地成一条具体政令——开仓放粮；③ 她把朝局交给三位臣子（Guo、Dao、Hu，其中 Guo 与 Dao 互为政敌）与 Chengyin，算的是「让他们互相牵制」；④ 神界有条硬规矩：凡人一生只能进一次，超了时辰人就没了，这条规矩靠一根串金珠的红线系在她腕上；⑤ The Shield of Rivers and Mountains 就在这边，或许正在这位神的家中——这是她留下来的真正理由。
 
 ## 精读
 
-> **原句 1:** "A few courtiers exchanged impatient glances—their disdain for me evident in such looks, their shallow bows and increasingly brazen demands for lands and titles, anything they might grasp while the soil was still loose over my grandfather’s grave."
+> **原句 1:** "The escort to the Immortal Realm was late, a discourtesy that was hardly surprising. A few courtiers exchanged impatient glances—their disdain for me evident in such looks, their shallow bows and increasingly brazen demands for lands and titles, anything they might grasp while the soil was still loose over my grandfather’s grave. They would never have provoked Grandfather so, but a girl they had all but written off?"
 
 **中文理解：** 去 immortal 界的接引迟到了，这份怠慢倒也全在意料之中。几个朝臣交换着不耐烦的眼神——那股轻慢全写在这些神情里：敷衍的躬身，越来越不加遮掩地索要土地与封号，什么都想抓一把，趁着她祖父坟上的土还是松的。换作从前，他们绝不敢这样招惹祖父；可如今面对的是一个所有人都已经打算划掉的女孩？
 

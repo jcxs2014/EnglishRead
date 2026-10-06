@@ -51,7 +51,7 @@ modified: "2026-10-06"
 
 **关键词：** have to stay · a way back · How heavy · yet lost so much
 
-**为什么这样写：** How heavy my heart was 是没有谓语的感叹残句，插在台词与判断之间，像一个没说完的呼吸。We had won, yet lost so much 用 yet 把胜利与损失压进同一格；助动词 had 只写了一次，lost 共用它，于是整场战争的赢与亏被收进同一时态，本章此后所有关于「回去」的商量都在这半句的阴影里进行。
+**为什么这样写：** How heavy my heart was 是 how 引导的感叹句，主语 my heart 与系动词 was 俱在，只因 heavy 被 how 提前，读起来才像半口气；它插在台词与判断之间，像一个没说完的呼吸。We had won, yet lost so much 用 yet 把胜利与损失压进同一格；助动词 had 只写了一次，lost 共用它，于是整场战争的赢与亏被收进同一时态，本章此后所有关于「回去」的商量都在这半句的阴影里进行。
 
 **读者视角提示：** 同一段里她随即连发两问：Can we get a message to the Golden Desert? 与 could they restore the gateway?，读者会看到「不肯认输」与「已经认了」在同一人身上并行。
 
