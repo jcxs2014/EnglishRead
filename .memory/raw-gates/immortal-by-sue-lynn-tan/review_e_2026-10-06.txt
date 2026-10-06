@@ -1,0 +1,97 @@
+Immortal by Sue Lynn Tan — 五步审查 e 步（总览层事实核对）原始门禁输出
+时间：2026-10-06（整改后复跑）｜lane：完整 lane（1 epub: library/Immortal (Sue Lynn Tan) (Z-Library).epub）
+执行：主会话（委派的 e 步只读代理 aa350cb22a60c7941 触顶失败，无可采信产出）
+
+=== 整改后全量门禁复跑 ===
+
+$ python3 scripts/corruption_scan.py "notes/books/novels/immortal-by-sue-lynn-tan"
+=== 编辑损坏扫描（immortal-by-sue-lynn-tan）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——不判红，需人工判
+
+$ python3 scripts/verify_quotes.py "<dir>" "<epub>"
+  ○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+  ○ 总览三篇 1 个文件 0 提取——本工具不判红（总览引语主管门禁是 verify_overview_quotes）
+      · 00_情感节点.md → 须由 verify_overview_quotes 覆盖
+  === 总计 400/400 引文可核实（100%）；完全干净文件 48/48；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+$ python3 scripts/sweep_full.py "<dir>" --quiet
+  参照集：text/ 逐章（47 章，可定章） + epub 交叉验证
+  ✅ 本章命中 376 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+$ python3 scripts/check_vocab.py "<dir>"
+  词条行合计: 1406
+  --- FAIL (0) ---
+  提示型（长度 ≥9 字符启发式，只记不改）：ch25 explanation / ch27 moonlight / ch28 advantages / ch28 handkerchief 等
+
+$ python3 scripts/check_entities.py "<dir>"
+  === 实体一致性检测：0 个文件存在未知实体 ===
+
+$ python3 scripts/verify_overview_quotes.py "<dir>" "<epub>"
+  === lane：完整 lane（epub） ===
+  00_情感节点.md: 33/33 ✅
+  00_概述.md: ➖ 无引语行（正常，非门禁项）
+  00_金句精选.md: 25/25 ✅
+  === 总览引文 58/58 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条 ===
+
+$ python3 scripts/check_overview_full.py "<dir>"
+  参照集：text/ 逐章（47 章） ｜ 总览文件 3 个
+  A 整串：命中 87 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 86 ｜ 标注与实章不符 1（只报不判红） ｜ 无标签未判 0 ｜ 无法判定 0
+  F 无引号引语标签：对 0 ｜ 不符 0 ｜ 跳过 0
+  C 跨章多重命中：2 ｜ E H1 语义错配：0
+  ⚠️ 00_概述.md:10  标注 ch2 但引语不在该章（实为 ch1）：And I would forge a new path for us, to
+  ⚠️ 00_概述.md:47  同一句在 2 章出现（ch1,ch4），章节标注有歧义：We cannot help how the dice fall, bu
+  ⚠️ 00_金句精选.md:22  同一句在 2 章出现（ch1,ch4），章节标注有歧义：We cannot help how the dice fall, bu
+
+$ python3 scripts/check_xref_indep.py "<dir>"
+  === chNN 引用 192 处：英文证据报警 0 处 ／ 中文式待人判 142 处 ===
+  （cd 步为 187 处/138 待人判；+5/+4 全部来自 e 步自身改写时补进的章号标注，报警数 0 未变）
+
+$ python3 scripts/check_analysis_indep.py "<dir>"
+  抽出分析层英文片段 835 条
+  ✅ 全部片段在全书 text/ 逐字命中
+  ⚠️ 整串查无但每个词都在书里 1 条（提示型，人判已确认为并列专名枚举，非改写冒充）：
+      ch01 chapter 1.md:10  Grandfather Zhao Likang
+
+$ python3 scripts/check_chapter_quotes.py 43 "<dir>/ch43 chapter 43.md" --book-dir "<dir>"
+  全章扫描: 解析引语块 376，命中本章 376（100%）
+  ✅ 全部引语均归属正确章节
+
+=== 总览层第二实现（现写，专补 check_analysis_indep 只 glob('ch*.md') 的盲区）===
+  对 00_*.md 抽 ≥3 词、≥20 flat 字符的英文片段，与 text/ 全书展平集比对（弯撇号归一化）：
+  抽出 177 条；flat 查无 0 条
+  （cd 步那次报 222 条，差在片段切分口径而非内容：本次同一段散文改写后合并了若干碎片；两次结论一致=0 查无）
+
+=== e 步整改（总览层 12 处 ＋ ch43 同步 4 处，全部行级 edit，引语层未动）===
+00_概述.md（9 处）
+ 1. 一：「Liyen 误饮了…祖父以欺神之罪当场被问斩」→ 改为 text/ 实际时序：ch01 占卜者点出 Wangchuan 之水、
+    问罪队伍压进门来、祖父跪殿认罪却在女王面前心脏病发当场死掉、ch02 她自己推翻「神杀了他」一半。
+ 2. 一：同段补「那只手是谁给的水」到 ch33 才揭（原文 ch01 无此信息）。
+ 3. 六：「四名 immortal 士兵…死在 Zhangwei 织起的网里成四具焦尸」→ 网接住的是遗骸，四人坠到眼前已是焦尸，
+    Lieutenant Yang 在内；判定禁术出自 Wuxin 的是他。
+ 4. 九：「她与 Zhangwei 都不肯忘，她便以 ruler of the Netherworld…」→ 主语显名 Liyen / Aunt Shou，
+    并把「求得」补成「向船夫求得」。
+ 5. 九：「醒来之后她独自坐朝」→ ch47 开场是夜里独坐书案边等一个多月无消息的人，翌日临朝才有求娶。
+ 6. 主题二：把「祖父教给她的分类」与她 ch07 自立的准则拆开陈述（ch01 原话落点是「你选择说出的那些谎会定义品性」）。
+ 7. Aunt Shou 弧：「作者不给她任何一次辩解：投毒、劝嫁、丧子、掌权」→ ch33 她辩解得很多（投毒、放 Winged Devils、
+    瞒住自己是 Dalian 与 Damei 的母亲、接领袖位）；叙述层不替读者判真伪。「劝嫁」原文无支撑，删。
+ 8. 第二条线：「船夫的价目表要求她把两世的记忆分开付账」→ 价目表写的是一整套记忆，最后是她不肯、
+    身边人各饮一口替她分摊。
+ 9. 八（本轮补）：「用 gateway 自己的法术炸开缺口，与 Aunt Shou 合力把 Chengyin 从裂口送走」→ 藤蔓触发的
+    是拱门自己的法术吞掉最靠近的士兵（她要的一瞬空档）；Chengyin 由 Aunt Shou 的风托着从拱门那道窄缝送走。
+00_金句精选.md（1 处）
+ 10. ② 上下文「祖父因偷莲被斩」→ 认罪后心脏病发当场死去。
+00_情感节点.md（2 处）
+ 11. 节点九「是他们两人共同算过的一步」（指代含混，可误读为 Zhangwei＋Queen Caihong）→ 明写是她与 Zhangwei
+     在她还是 immortal 时共同定下的方案；并把「我真希望你从一开始就把真相告诉我」按原文时序放回他的解释之前。
+ 12. 节点十「借 gateway 自己的法术炸开缺口」→ 同 9。
+ch43 chapter 43.md（3 处措辞同步，引语层未动）
+ 13. 一句话概括「炸开一个空档」→「触发 gateway 自己的法术吞掉…换来一瞬空档」；
+     线索 ①「可用的破口」→「可用的机关」；⑥「裂口」→「拱门上那道窄缝」＋补「Aunt Shou 召起一阵风」；
+     一句话总结「用一根藤蔓炸开缺口」→「换来一瞬空档」。
+
+=== 假红型（不改 md，登记为工具侧）===
+  沿用 cd 步 7 条；e 步新增 1 条：check_analysis_indep 只 glob('ch*.md') ⇒ 总览三篇 inline 英文无门禁覆盖，
+  须现写第二遍扫描（本轮 177 条 0 查无）。

@@ -8,10 +8,10 @@ modified: "2026-10-06"
 ## 本章导航
 
 - **场景·时间**：船从 Wangchuan 分出的窄口拐进一条被黑山夹住的水湾，靠岸后停在山脚那道白色大理石拱门前——gateway 是一面不停流动的水帘，边缘缠着带刺的藤蔓与紫藤。Dalian 说其余的兵会从山里过来，而她猜 Zhangwei 走的正是同一条路径（This must be the same path Zhangwei was taking.）。他的援军随时会从山口赶到。
-- **一句话概括**：她被推到 gateway 前，接到的命令是割净藤蔓、再把自己的力量灌进去破掉拱门；她先拖、再承认自己怕，最后把一根藤蔓扔进那道液体，用 gateway 自己的法术炸开一个空档。
+- **一句话概括**：她被推到 gateway 前，接到的命令是割净藤蔓、再把自己的力量灌进去破掉拱门；她先拖、再承认自己怕，最后把一根藤蔓扔进那道液体，触发 gateway 自己的法术吞掉最靠近拱门的那一排士兵，换来一瞬空档。
 - **情感弧线位置**：全章由被动转向主动，代价却一路加重——先是被塞进手里的那把 scythe，然后是一只鸟，然后是自己人，最后是她对着 Chengyin 说出「我不救你」。章末绿色的光落下来把他们围住，收在 `We were out of time.`
 - **叙事手法**：动作段短、推进快，两处刻意放慢构成支点：一段恐惧自白（Saying it aloud 起头的那段），一段 gateway 杀鸟的完整演示。对话几乎全是短句的威胁与反诘；情绪一律交给身体来报——My throat tightened、my pulse thudding、My stomach churned。
-- **线索进展**：① gateway 对魔法不为所动（impervious），只对「属于它自己的东西」起反应，她由此找到可用的破口；② 她割藤时 scythe 逆她的意抽走她的力量，等于替 Wuxin 把要守的东西削薄了一层；③ Chengyin 用自刺夺回身体，Dalian 的腹部随之留下同一道伤口；④ Dalian 收走自己士兵 bell 里的力量，Captain Rao 死在他手下；⑤ 她扯掉眼里的伪装（letting the copper fade）、把铃铛扔还给他；⑥ Aunt Shou 的力量与她的合做一道屏障，把 Chengyin 从 gateway 的裂口送走，落点是 Kunlun。
+- **线索进展**：① gateway 对魔法不为所动（impervious），只对「属于它自己的东西」起反应，她由此找到可用的机关；② 她割藤时 scythe 逆她的意抽走她的力量，等于替 Wuxin 把要守的东西削薄了一层；③ Chengyin 用自刺夺回身体，Dalian 的腹部随之留下同一道伤口；④ Dalian 收走自己士兵 bell 里的力量，Captain Rao 死在他手下；⑤ 她扯掉眼里的伪装（letting the copper fade）、把铃铛扔还给他；⑥ Aunt Shou 的力量与她的合做一道屏障，Aunt Shou 再召起一阵风，把 Chengyin 从 gateway 上那道窄缝送走，落点是 Kunlun。
 
 ## 精读
 
@@ -144,4 +144,4 @@ modified: "2026-10-06"
 
 ## 一句话总结
 
-一道碰一下就杀人的门，一把被塞进她手里的镰刀——她把恐惧当成力气来用，用一根藤蔓炸开缺口，再用一句最疼的硬话，把朋友从敌人身上剥回来。
+一道碰一下就杀人的门，一把被塞进她手里的镰刀——她把恐惧当成力气来用，用一根藤蔓换来一瞬空档，再用一句最疼的硬话，把朋友从敌人身上剥回来。
