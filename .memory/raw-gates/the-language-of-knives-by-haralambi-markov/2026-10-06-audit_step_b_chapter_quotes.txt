@@ -1,0 +1,13 @@
+ch01 nine tongues tell of.md: 10/10 in ch01 text
+ch02 the town the forest ate.md: 10/10 in ch02 text
+ch03 when raspberries bloom in august.md: 10/10 in ch03 text
+ch04 the mall on the hill by the horizon.md: 10/10 in ch04 text
+ch05 convalescence.md: 9/9 in ch05 text（另有 1 条短引语未校验）
+ch06 the drowning line.md: 10/10 in ch06 text
+ch07 swallow.md: 10/10 in ch07 text
+ch08 holding hands with monsters.md: 10/10 in ch08 text
+ch09 the midnight feast.md: 10/10 in ch09 text
+ch10 the language of knives.md: 10/10 in ch10 text
+ch11 bones are stones for building.md: 10/10 in ch11 text
+ch12 spring is violence spring seeks blood.md: 10/10 in ch12 text
+ch13 baba yaga helps build a house.md: 10/10 in ch13 text

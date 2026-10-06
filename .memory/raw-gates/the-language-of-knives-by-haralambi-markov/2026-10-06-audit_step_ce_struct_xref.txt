@@ -1,0 +1,26 @@
+════════ 五步审查 · c步 结构与跨章引用（2026-10-06）════════
+
+=== audit_structure（第一实现）===
+=== 精读结构扫描（the-language-of-knives-by-haralambi-markov）===
+  扫 13 个 md、130 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== check_struct_indep（第二实现·已补 anthology2 档）===
+  ❌ ch05 convalescence.md: [anthology2] 必备节「## 本篇导航」出现 2 次（须恰 1）
+=== 独立结构扫描：13 个 md，缺陷 1 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+
+=== check_xref_indep（第二实现）===
+=== chNN 引用 0 处：英文证据报警 0 处 ／ 中文式待人判 0 处 ===
+
+=== check_analysis_indep（第二实现）===
+抽出分析层英文片段 344 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）3 条 —— 只报不判红，须人判：
+  ch03 when raspberries bloom in august.md:11  The Language of Knives and Other Stories
+  ch08 holding hands with monsters.md:11  The Language of Knives and Other Stories
+  ch13 baba yaga helps build a house.md:11  The Language of Knives Stories
+
+════════ e步 导航层/一句话总结层（门禁不解析的三层）════════
+共 62 条反引号英文片段，逐字查无 0 条（含大小写与撇号归一兜底）
+总览三篇：本书为短篇合集，AGENTS 唯一豁免体裁，无 00_*.md ⇒ e 步总览层不适用
