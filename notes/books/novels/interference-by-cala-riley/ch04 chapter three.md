@@ -3,7 +3,7 @@
 modified: "2026-10-06"
 ---
 
-# 03. The Truth Between Us
+# 03. Chapter Three
 
 ## 本章导航
 

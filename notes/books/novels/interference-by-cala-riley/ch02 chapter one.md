@@ -3,7 +3,7 @@
 modified: "2026-10-06"
 ---
 
-# 01. Brett's Heart
+# 01. Chapter One
 
 ## 本章导航
 
