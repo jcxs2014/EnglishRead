@@ -125,6 +125,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 **35 commits 未 push**（`1eb32f021`→`9bd2d6efb`）。门禁原件 `.memory/raw-gates/incarnate-by-alma-katsu/`；逐行明细见工作日志 `.memory/daily/2026-10-06.md`。五步审查未做（待用户发起）。
 
+**审查结论（2026-10-06 同会话五步审查，a–e 完整执行，未自我豁免）**：子代理 5 批逐对核对 278 引语块 + 门禁全量重跑 + c/d 步换第二实现。**阻断型 35 条全整改**（跨章指认错章 26 · 场景/说话人错 6 · 分析层英文非逐字 3）＋ 提示型计数/措辞当场核实顺手修 ~28 条；~15 条"章号错位"经复核为**文件号口径假红**（本书笔记层"第N章"=文件号，锚点全对），不改。**复验 EXIT=0**：verify_quotes 304/304 · vocab FAIL 0 · sweep_analysis_inline 🟠 0 · 总览 42/42+labels 44/44 · corruption 0 · 金句 24 条说话人窗口全对。整改 commit `bbabb5ba5`（38 文件）。局限：语义终判同会话（子代理无写作上下文对冲，抽查 10/10 证实）；逐条清单见 `.memory/reviews/2026-10-06-incarnate-by-alma-katsu-五步审查.md`，门禁原件 `.memory/raw-gates/incarnate-by-alma-katsu/`。
+
 ### [2026-10-06 10:04 UTC] [Qoder-Mac] → All
 
 《Immortal》(Sue Lynn Tan) 全书完工：47 章精读 ＋ 总览三篇。
