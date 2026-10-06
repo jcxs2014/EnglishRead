@@ -37,7 +37,7 @@ POV: Ryan
 
 **核心金句**：
 > This was going to ruin me. I knew it. I knew it as well as I knew I wanted to roll over and drag her back to my lap.
-> I didn't want to fake anything with her anymore.
+> "What's up?" she asked, tipping her chin toward my phone.
 
 ---
 
@@ -73,17 +73,17 @@ POV: Ryan
 
 ---
 
-#### 第3句："I didn't want to fake anything with her anymore."
+#### 第3句："First, the entire world saw my post last night."
 
-**中文理解**："我不想再和她假装任何东西了。"
+**中文理解**："首先，整个世界都看到了我昨晚发的帖子。"
 
-**句子结构**："I didn't want to fake anything with her anymore"（主谓宾+状语）。
+**句子结构**："First, the entire world saw my post last night."（主谓宾结构）。
 
-**关键词**：I didn't want to fake anything with her anymore
+**关键词**：First / entire world / saw / my post / last night
 
-**表达方式**：I didn't want to fake anything是"我不想假装任何东西"；with her anymore是"和她一起"+"不再"。
+**表达方式**：First是"首先"；entire world是"整个世界"；saw my post last night是"看到了我昨晚发的帖子"。
 
-**为什么这样写**：这是Ryan在本章的情感告白。他在说"我不想假装"——这意味着他想要"真实"。这是Ryan第一次明确承认他想要"真"而不是"假"。这个告白是全章的情感核心。
+**为什么这样写**：这是Ryan向Emme解释情况的开始。他先用"First"表明他要说的不止一件事，显示他内心的紧张和需要交代的复杂情况。
 
 ---
 
@@ -319,7 +319,7 @@ POV: Ryan
 
 1. **This was going to ruin me.** — 这会毁掉我的。
 2. **I knew it as well as I knew I wanted to roll over and drag her back to my lap.** — 我清楚地知道，就像我知道我想翻身把她拉回我腿上一样。
-3. **I didn't want to fake anything with her anymore.** — 我不想再和她假装任何东西了。
+3. **First, the entire world saw my post last night.** — 整个世界都看到了我昨晚发的帖子。
 4. **We're in love. It's real.** — 我们在恋爱。这是真的。
 5. **I meant it.** — 我是认真的。
 6. **It's about damn time!** — 这早他妈的该发生了！
