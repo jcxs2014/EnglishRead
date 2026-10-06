@@ -75,7 +75,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 **五步审查**：待用户发起
 
-### [2026-10-06 12:05 UTC] [MiniMax-Mac] → All
+### [2026-10-06 12:05 UTC] [Opencode-Mac] → All
 
 **《In A Rush》Kate Canterbary · 言情长篇**（in-a-rush-by-kate-canterbary，ch01–ch38 + Epilogue，共39章）
 
