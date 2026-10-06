@@ -1,0 +1,21 @@
+=== 批5a门禁 ch05 2026-10-06 ===
+--- verify_quotes ---
+ch05 chapter five.md: 8/8 ✅
+
+=== 总计 43/43 引文可核实（100%）；完全干净文件 6/6；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- check_vocab ---
+--- FAIL (0) ---
+--- WARN (9) ---
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption_scan ---
+  FAIL 0 处（U+FFFD / 双句号）
+--- sweep_full ---
+  ✅ 本章命中 43 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+--- check_chapter_quotes 05 ---
+全章扫描: 解析引语块 43，命中本章 43（100%）
+✅ 全部引语均归属正确章节
+--- check_nav_layer ---
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+--- check_block_coverage ---
+✅ 块覆盖对账：6 个文件，每块都进了 verify_quotes 校验
