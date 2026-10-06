@@ -122,6 +122,7 @@ modified: "2026-10-06"
 | appointment | （医生）预约 | All the good feelings fade away as my worry over the appointment settles in. |
 | sneaking | 偷偷摸摸地行动 | "Could have fooled me. She was sneaking into the hall bathroom," Cora tells me. |
 | meal prep | （健身圈的）提前备餐 | "We do meal prep. Better if I eat the chicken and veggies. |
+| television | 电视 | I come around to find Cora and Emery on the couch watching television. |
 
 ### ⭐ 基础
 
@@ -131,7 +132,6 @@ modified: "2026-10-06"
 | keys | 钥匙 | I grab my wallet and keys by the door before we walk out. |
 | couch | 沙发 | I glare at him from my curled-up position on the couch. |
 | burger | 汉堡 | I order a salad with some grilled chicken for Emery and a burger for myself. |
-| television | 电视 | I come around to find Cora and Emery on the couch watching television. |
 
 ## 一句话总结
 
