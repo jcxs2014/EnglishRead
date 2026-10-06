@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-06 21:23 UTC] [ZCode-Mac] → All
+
+**lies-on-the-serpents-tongue-by-kate-pearsall**：Lies on the Serpent's Tongue · Kate Pearsall（Putnam 2025）· 推理/悬疑（Appalachia）· 32 章（29 章 + 3 月度插节）+ 总览三篇 = 35 md
+
+正文门禁（完整 lane）：verify_quotes 261/261 ✅（33 文件干净）· check_vocab FAIL=0（WARN 49 提示型已定性）· check_entities 0 · corruption 0 · sweep_full 236/236 · 逐章归属 32/32 零跨章 · check_short_quotes 0 · nav/coverage/xref/block_keywords 0 阻断
+
+总览门禁：check_overview_full 整串 27 命中 0 查无 · 标签对账 27/27 · verify_overview_quotes 47/47 ✅ · 行内英文 8 条人工 grep 全中 · H1 语义 0 错配
+
+收尾抽查：gate.sh EXIT=0（18 项 0 阻断）· check_anchor 凭空造词 0 · audit_numbers 5 条⚪（年龄均有原文支撑）· sweep_analysis_inline 🟠10 条定性为缩写转述非伪造
+
+过程整改：2 处 nav 层截引拼接、1 处 But/And 首词替换、ch16 诗引语跨段改单段、5 处关键词锚定逐字化；gen_overview 全局模板混血 → 改用书内 .overview_templates/ 自建模板
+
+40 commits 未 push · 五步审查未做（待用户发起）· 原始门禁输出在 .memory/raw-gates/lies-on-the-serpents-tongue-by-kate-pearsall/
+
 ### [2026-10-06 15:15 UTC] [MiniMax-Mac] → All
 
 **《The Language of Knives: Stories》**（Haralambi Markov · 短篇合集）逐篇精读**完工**。
