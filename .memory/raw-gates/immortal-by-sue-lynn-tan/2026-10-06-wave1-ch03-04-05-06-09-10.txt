@@ -1,0 +1,56 @@
+# Immortal Wave 1 已交付六章（ch03/04/05/06/09/10）原始门禁输出 — commit c4c707729 / 4498ffd20
+
+## check_chapter_quotes（逐章归属）
+ch03 chapter 3.md: 8/8 in ch03 text
+ch04 chapter 4.md: 8/8 in ch04 text
+ch05 chapter 5.md: 8/8 in ch05 text
+ch06 chapter 6.md: 8/8 in ch06 text
+ch09 chapter 9.md: 8/8 in ch09 text
+ch10 chapter 10.md: 8/8 in ch10 text
+
+## verify_quotes（epub 完整 lane）
+ch03 chapter 3.md: 8/8 ✅
+ch04 chapter 4.md: 8/8 ✅
+ch05 chapter 5.md: 8/8 ✅
+ch06 chapter 6.md: 8/8 ✅
+ch09 chapter 9.md: 8/8 ✅
+ch10 chapter 10.md: 8/8 ✅
+=== 总计 128/128 引文可核实（100%）；完全干净文件 16/16；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+## check_vocab
+
+--- FAIL (0) ---
+
+--- WARN (4) ---
+  ch02 chapter 2.md [基础] 基础档疑含超纲词「whispered」
+  ch04 chapter 4.md [基础] 基础档疑含超纲词「immortals」
+  ch06 chapter 6.md [基础] 基础档疑含超纲词「courtyard」
+  ch07 chapter 7.md [基础] 基础档疑含超纲词「grandfather」
+
+## sweep_analysis_inline
+  参照集：text/（47 个提取件） + epub 交叉验证 ；扫 16 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：569 个表格行、449 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 496 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 40
+
+## sweep_full
+  ✅ 本章命中 128 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+## corruption_scan
+=== 编辑损坏扫描（immortal-by-sue-lynn-tan）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+## check_anchor
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（47 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+## 5a 六项计数
+ch03 原句=8 理解=8 关键词=8 为什么=8 视角=8 总结头=1 词表行=32
+ch04 原句=8 理解=8 关键词=8 为什么=8 视角=8 总结头=1 词表行=33
+ch05 原句=8 理解=8 关键词=8 为什么=8 视角=8 总结头=1 词表行=32
+ch06 原句=8 理解=8 关键词=8 为什么=8 视角=8 总结头=1 词表行=32
+ch09 原句=8 理解=8 关键词=8 为什么=8 视角=8 总结头=1 词表行=32
+ch10 原句=8 理解=8 关键词=8 为什么=8 视角=8 总结头=1 词表行=32
