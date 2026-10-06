@@ -100,11 +100,11 @@ modified: "2026-10-06"
 
 ---
 
-> **原句 5:** "He closed the door and let her sleep. The last thing she’d seen before going to sleep was the Mall that still remained so far ahead. She was a pilgrim. He respected that."
+> **原句 5:** "He closed the door and let her sleep. The last thing she’d seen before going to sleep was the Mall that still remained so far ahead. She was a pilgrim. He respected that. That made no sense to him at all, but he did not judge her for her failure. He’d do it for her. For all the others that hadn’t made it. He drove a while further, putting good distance between him and the automotive tomb out of respect for her peace."
 
 **中文理解**：他关上那辆车的门，让她继续睡；在他看来，她临睡前看到的最后一个东西就是还远在天边的 Mall，所以她是个朝圣者。他尊重这一点，不去评判她没能走到，也不多停一分钟。
 
-**句子结构**：四个句子按"动作 → 解释 → 判断 → 立场"递进。第一句是并列谓语（closed the door and let her sleep）；第二句是主系表结构，主语 the last thing she’d seen 带过去完成时的定语从句；第三句最短，只有主系表；第四句又是短陈述。宗教词汇只出现一次，且落在最短的句子上。
+**句子结构**：九个句子按"动作 → 解释 → 判断 → 立场 → 扩展"递进。第一句是并列谓语（closed the door and let her sleep）；第二句是主系表结构，主语 the last thing she’d seen 带过去完成时的定语从句；第三句最短，只有主系表；第四句又是短陈述；第五句 `He wasn’t thinking about not making it.` 用双重否定先排除一种解释，紧跟 `That made no sense to him at all, but he did not judge her for her failure.` 用 but 把否定落成判断；`He’d do it for her.` 与 `For all the others that hadn’t made it.` 是两个短句扩展动机；末句把立场落成动作 `He drove a while further…`。宗教词汇只出现一次，且落在最短的句子上。
 
 **关键词**：
 - *pilgrim* — 朝圣者；把一次失败命名成一种身份，而不是"死人"
@@ -187,7 +187,7 @@ modified: "2026-10-06"
 
 > **原句 10:** "The doors pulled; his arms stretched until his armpits burned. The doors pulled; his shoulders gave a wet crunch. Then a taut snap. Then lightness as the doors ran away with them."
 
-**中文理解**：门终于开了；暖意向他涌来，可他伸出去的两只手早冻在门板的金属上，门一开就把他的手臂朝外拽，拽到腋下烧灼、肩膀发出湿响，最后一声绷断，他被门带着冲了出去。
+**中文理解**：门终于开了；暖意向他涌来，可他伸出去的两只手早冻在门板的金属上，门一开就把他的手臂朝外拽，拽到腋下烧灼、肩膀发出湿响，最后一声绷断，他连人带手被门硬生生拖了进去——他就这样成了第一个顾客。
 
 **句子结构**：两个由分号连接的小句构成一组排比（do…do…do 的结构）：第一句主语 The doors、动词 pulled，后果是 his arms stretched until his armpits burned；第二句仍以 The doors pulled 起头，后果升级为 his shoulders gave a wet crunch；紧接的两个 Then 短句（Then a taut snap. / Then lightness as the doors ran away with them.）全部省略主语，用无主句模拟连续动作，末句用 as 引出让 The doors 重新做主语、并把前文的手臂一并带走。
 

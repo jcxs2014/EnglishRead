@@ -39,7 +39,7 @@ modified: "2026-10-06"
 
 **表达方式**：用"否定的等同式"（I do not fly, because I am flight）完成身份重写；把天气现象（gales and hail）写成自身携带的东西；末尾以问句结尾，把开场的问题原样掷回给人。
 
-**为什么这样写**：这是全书录音的第一句，先立定义再提要求。"I demand deference" 一句把话语权先握在非人的一方手里，为后面反复出现的"你们怎么定义怪物"预先埋下对峙姿态。
+**为什么这样写**：这是全书录音里 hala 开口的第一句（录音本身以主持人的提问开篇），先立定义再提要求。"I demand deference" 一句把话语权先握在非人的一方手里，为后面反复出现的"你们怎么定义怪物"预先埋下对峙姿态。
 
 ---
 
@@ -71,7 +71,7 @@ modified: "2026-10-06"
 - *treasurer* — 库管、财宝保管人；它给自己的角色名
 - *births* — 生育、产生；把"失去"写成一件被生产出来的事
 
-**表达方式**：把灾难重新命名为职责（treasure → treasurer → Treasuries 保持同一词根家族）；用 not by right, but by grace 的对照，把丰收说成受赐而非应得。
+**表达方式**：把灾难重新命名为职责（treasure → treasurer → Treasures 保持同一词根家族）；用 not by right, but by grace 的对照，把丰收说成受赐而非应得。
 
 **为什么这样写**：本篇的核心论证在这里完成——它不否认破坏，只把自己重写成保管者。这为后文 Damyana 逐件交出传家宝（treasure 的交易）提供了世界观许可，也让她从"受害者"变成自愿的客户。
 
@@ -79,7 +79,7 @@ modified: "2026-10-06"
 
 > **原句 4:** "A monster is what you call any living thing that opposes your ambition, your hunger and your self-assured knowledge of what is right and what is wrong. You will recognize a monster when the last of us leave. Then what will you scare each other with? Where will your teeth point and sink, and what will be left when all that is there has been bitten and gnawed at?"
 
-**中文理解**：Damyana 说"可怕是相对的，所以其实根本没有真正的怪物"。hala 反驳：所谓怪物，只是你叫做怪物的任何活物——任何反抗你的野心、你的饥饿、你那套自认为是的对错知识的东西。等我们最后都走了，你们才真会认出怪物；到那时你们互相吓唬用什么？你们的牙还往哪里咬，咬过之后还剩下什么？
+**中文理解**：Damyana 刚说"我们叫它怪物，只是因为它可怕"，hala 接过这句给出定义：所谓怪物，只是你叫做怪物的任何活物——任何反抗你的野心、你的饥饿、你那套自认为是的对错知识的东西。等我们最后都走了，你们才真会认出怪物；到那时你们互相吓唬用什么？你们的牙还往哪里咬，咬过之后还剩下什么？Damyana 顺势把它归纳成一句：可怕是相对的，所以根本没有真正的怪物。
 
 **句子结构**：定义句 "A monster is what you call any living thing that opposes…" 中，what 引导的名词性从句作表语，that 引导定语从句修饰 living thing，从句内用三个 your… 排比（ambition / hunger / knowledge）。"You will recognize a monster when the last of us leave." 是主句加 when 时间状语从句，the last of us 用定语形式强调"连最后的那一个"。随后连发两问："Then what will you scare each other with?" 与 "Where will your teeth point and sink, and what will be left…?" 是并列疑问句（where 与 what 各辖一个分句），全句主语都在（your teeth / what）；本段四句都没有省略主语。
 
@@ -107,7 +107,7 @@ modified: "2026-10-06"
 
 **表达方式**：跨物种类比（人的家庭 ≈ 九个头）；用否定式并列（gone, but not missing）先承认事实再堵住追问。
 
-**为什么这样写**：紧接在 Damyana 用"砍掉的两颗头"作过比之后，它把自己的孤独映射到她的丧亲之痛上，并且借用对方提供的形象来解释对方。两人关系在此从对峙转向同盟——后面所有的交易与告别都建立在这个"我们都是被砍掉的头"之上。
+**为什么这样写**：紧接在它自己抛出九头／掉了两头的比喻之后，它把这个形象转过来映射到 Damyana 的丧亲之痛上（`My parents were like the two heads cut off from your body.`）。两人关系在此从对峙转向同盟——后面所有的交易与告别都建立在这个"我们都是被砍掉的头"之上；紧接的下一句她回敬 `It’s vanished, but not missing as you said`，正是借了这个比喻的回声。
 
 ---
 
@@ -141,7 +141,7 @@ modified: "2026-10-06"
 
 **表达方式**：同一动词的重复排列（give away → mean → give … room）造出"付出—回报"的回声；用抽象名词 lightness 作动词宾语，把情绪写成占地方的实体。
 
-**为什么这样写**：这一句是 hala 世界观的落地实践：她在执行 Episode 3 里"库管"那套设定——交出珍藏，换回空间的腾空。悲伤被写成有体积的东西，因而可以被腾挪；这也让后面 hala 说"你把悲伤交给了我"成立。
+**为什么这样写**：这一句是 hala 世界观的落地实践：她在执行 Episode 3 里"库管"那套设定——交出珍藏，换回空间的腾空。悲伤被写成有体积的东西，因而可以被腾挪；这也让后面 hala 把它当成收纳的品类之一成立（`You all come to seek out the treasures I guard.`）。
 
 ---
 
@@ -169,7 +169,7 @@ modified: "2026-10-06"
 **句子结构**：三个短句递进。"That’s no joke, girl." 为 that + be + no + 名词的判断句加插入呼语（girl 置于逗号后）。第二句 "The Lower Lands are not a place to visit and tell about to your friends." 是主系表结构，两个并列成分 to visit 与 tell about to your friends 共享 a place 作逻辑主语（原文第二个不定式是裸 tell，to your friends 是介词短语）。第三句 "Once you go, there’s no coming back." 是 Once 引导的时间状语从句加 there be + 动名词结构。
 
 **关键词**：
-- *joke* — 玩笑；她刚说出口的词，被当场收回
+- *joke* — 玩笑；它自己此刻抛出的定性——上一句 Damyana 还在拿这事打趣，这一句就把它按下去
 - *Lower Lands* — 下界；前面说过是所有死者所在的地方，此处被限定为不可返回
 - *coming back* — 回来；动名词化后与 there be 搭配，把"回程"写成不存在的东西
 
