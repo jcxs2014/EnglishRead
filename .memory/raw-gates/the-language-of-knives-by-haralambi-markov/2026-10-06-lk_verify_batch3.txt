@@ -1,0 +1,21 @@
+########## ch09 ##########
+
+── ch09 the midnight feast.md ──
+   引语块 10 ｜ 词表行 39 ｜ 中文层英文片段 0 ｜ text/ 73356 字符
+   ✅ 本脚本 0 报警
+
+=== lk_verify_batch：合计报警 0 项 ===
+########## ch10 ##########
+
+── ch10 the language of knives.md ──
+   引语块 10 ｜ 词表行 29 ｜ 中文层英文片段 3 ｜ text/ 14799 字符
+   ✅ 本脚本 0 报警
+
+=== lk_verify_batch：合计报警 0 项 ===
+########## ch11 ##########
+
+── ch11 bones are stones for building.md ──
+   引语块 10 ｜ 词表行 23 ｜ 中文层英文片段 0 ｜ text/ 29842 字符
+   ✅ 本脚本 0 报警
+
+=== lk_verify_batch：合计报警 0 项 ===

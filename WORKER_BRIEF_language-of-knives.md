@@ -172,6 +172,19 @@ python3 scripts/check_chapter_quotes.py <NN> "$B/chNN ....md" --out-dir "$B/text
 | A7 | **两个「她」同篇时，中文层一律写名字** | ch01 写「让她成为那只兔子」，全篇有两个女性角色（Damyana / hala）⇒ 指代不明；应写「the fox 是 hala 自己，the hare 才是 Damyana」 |
 | A8 | **常见词不入 ⭐⭐⭐ 高级档；某档候选不足就留空** | ch04 `awaiting`（常见词）被放进 ⭐⭐⭐ 高级档 |
 
+## 6b. 批 3 / 批 4 名单（实测行数已更正）
+
+| 章 | md 文件名 | text 文件 | 字节 / 句 / 行 | 事实基线 |
+|---|---|---|---|---|
+| ch09 | `ch09 the midnight feast.md` | `text/ch09_the_midnight_feast.txt` | 73356 B / 1120 句 / 288 行 | **全书最长**。Gabriel(134)·Kalle(81)·Bernadette(41)·Gianna(41)·Jodie(36)·Bryan(31)·Arlene(25)·Lydia(21)·Clemens(17)；末句 `“You are about to witness something truly transcendent,” Arlene said and then lifted her veil.` |
+| ch10 | `ch10 the language of knives.md` | `text/ch10_the_language_of_knives.txt` | 14931 B / 166 句 / **103 行** | 第二人称「you」；Cake / Maker / Baking Chamber；文本是切开丈夫遗体做「cake」并把技艺教给女儿。⚠️ 原文**从未说「你＝女儿」**（L13 是 `she belongs by your side as a Cake Maker`），写身份须标行为推定 |
+| ch11 | `ch11 bones are stones for building.md` | `text/ch11_bones_are_stones_for_building.txt` | 30471 B / 407 句 / 112 行 | Mother(48)·Tower(36)·Architect(19)·Grand(18)·Boril(15)；telemetry/multiverse/elevator 为科幻设定；末句 `Mother is among the chorus, soothing me, and asking me to build.` |
+| ch12 | `ch12 spring is violence spring seeks blood.md` | `text/ch12_spring_is_violence_spring_seeks_blood.txt` | 12857 B / 147 句 / 43 行 | Spring(29)·Lazar(12)·Goddess(8)；第一人称；末句 `Until then, Spring held the city in his arms; the Underworld whispering soothingly to just let go and sleep.` |
+| ch13 | `ch13 baba yaga helps build a house.md` | `text/ch13_baba_yaga_helps_build_a_house.txt` | 65140 B / 1084 句 / 255 行 | **第二长**。Hristian(87)·House(67)·Baba Yaga(44)·Maria(26)；末句 `And in the morning, they will be in some place new where there’s no witch to harm them.` |
+
+⚠️ **行数一律以 `wc -l` 实测为准**：本 brief 曾把 ch10 写成「52 行」（那是我数的**非空行**），
+worker 发现后按实测 103 行定位。**brief 里的数字也会过期，取证一律现测。**
+
 ## 7. 自检尺子（批1 新增，主会话已投毒自证）
 
 ```bash
