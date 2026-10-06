@@ -117,7 +117,35 @@ def chapter_text(book_dir, ch):
 # 这是「词中截断」盲区在**数字**上的同型，而且比词中截断更坏：词断错读者能看出来，
 # 数字断错是一句通顺的假话。
 # 修法：`.` 前后都是数字时**不切**（负数/缩写如 U.S. 同样受益）。
+#
+# ⚠️ 2026-10-06 修（ch18 实测，同型第三例）：**单字母缩写**的点号也被当句末。
+# 原文 `The digital clock read 3:15 a.m.` 被切成 `… 3:15 a.`——
+# 逐字为真（V2/六道门禁全绿）但**缩写被腰斩**。
+# 判据：`.` 的**前一个字符是单个字母、且那个字母本身前面是词边界**（即 `a.` `m.` `p.`）
+#       时不切。`U.S.` 这类连续单字母的点号也已覆盖（每段都满足该判据）。
+# ⚠️ 2026-10-06 修（ch18 实测，同型第三例）：**单字母缩写**的点号也被当句末。
+# 原文 `The digital clock read 3:15 a.m.` 被切成 `… 3:15 a.`——逐字为真
+# （V2/六道门禁全绿）但**缩写 `a.m.` 被腰斩成 `a.`**。
+# 变长 lookbehind 在纯正则里做不到（`(?<!X\.)` 定长不够），所以改为：
+# **先按点号全切，再把「以单字母缩写点结尾」的碎片与下一片合并**（见 _merge_abbrev）。
+# 判据：片段以 `词边界+单字母+.` 结尾（a. m. p.）⇒ 该点是缩写的一部分。
 _SENT_RE = re.compile(r'[^.!?\n]*?\.(?![0-9])[.!?]*|(?:[^.!?\n]*[!?]+)(?=\s|$)')
+_ABBREV_TAIL = re.compile(r'\b[A-Za-z]\.$')
+
+
+def _merge_abbrev(parts):
+    """把以「单字母缩写点」结尾的片段与下一片段合并（a. + m. => a.m.）。"""
+    merged, i = [], 0
+    while i < len(parts):
+        cur = parts[i]
+        # 连续吞并：a. | m. | She… ⇒ a.m. She…
+        while (_ABBREV_TAIL.search(cur) and i + 1 < len(parts)
+               and re.fullmatch(r'[A-Za-z]\.', parts[i + 1])):
+            cur += parts[i + 1]
+            i += 1
+        merged.append(cur)
+        i += 1
+    return merged
 
 
 def sentences(src):
@@ -125,13 +153,25 @@ def sentences(src):
 
     **小数点不是句号**（见 _SENT_RE 注释）：否则例句会从数字中间开始，
     造出「逐字但数字说错」的例句——这类损坏所有子串式门禁都看不见。
+    **单字母缩写点也不是句末**（a.m. / U.S. / p.m.）：由 _merge_abbrev 合并还原。
+
+    ⚠️ 小数点的真实坑（ch07 `1.2` ⇒ 切出 `2 million`）：
+    正则 `(?![0-9])` 只在「点号后紧跟数字」时拒绝该切点，但**引擎会把匹配起点
+    后移到那个数字**，于是产出「从数字中间起头」的碎片——是逐字子串，却把数字说错。
+    ⇒ **切句前把「数字.数字」的点号换成哨兵字符（不出现在正文里），切完再换回**。
+       这样点号彻底不参与切分，`1.2 million` 自然留在同一句，且**不会误伤**完整句。
     """
-    out = []
-    for m in _SENT_RE.finditer(src):
-        s = m.group(0).strip()
+    SENT = '\x00'          # 哨兵：正文中不可能出现，避免与任何字符冲突
+    src2 = re.sub(r'(?<=\d)\.(?=\d)', SENT, src)      # 1.2 -> 1<SENT>2
+    raw = []
+    for m in _SENT_RE.finditer(src2):
+        s = m.group(0).replace(SENT, '.').strip()     # 还原
         if s:
-            out.append((s, m.start()))
-    return out
+            raw.append((s, m.start()))
+    # 合并缩写：把 a. | m. 还原成 a.m.
+    segs = _merge_abbrev([s for s, _ in raw])
+    starts = [st for _, st in raw]
+    return list(zip(segs, starts))
 
 
 def pick_sentence(sents, pos, src, maxlen=140):
@@ -168,6 +208,16 @@ def main():
     ap.add_argument('--tiers', action='store_true', help='按启发式分三档输出')
     ap.add_argument('--limit', type=int, default=40)
     a = ap.parse_args()
+
+    # ⚠️ 章号参数归一化：CLI 传 `--ch 18` 与 `--ch ch18` 都应可用。
+    # 原实现直接 a.ch 透传给 require_chapter_text，后者对 'ch18' 做 int() ⇒ ValueError 崩。
+    # 判据（一行）：**CLI 参数不该要求调用方记住「传数字不传前缀」**——
+    #   带不带 ch 前缀是同义词，工具自己该吸收这个差异。
+    s_arg = str(a.ch).strip()
+    digits = s_arg[2:] if s_arg.lower().startswith('ch') else s_arg
+    if not digits.isdigit():
+        raise SystemExit('❌ --ch 只接受章号（18 或 ch18），收到：%r' % a.ch)
+    a.ch = int(digits)
 
     path = chapter_text(a.book_dir, a.ch)
     src = open(path, encoding='utf-8').read()

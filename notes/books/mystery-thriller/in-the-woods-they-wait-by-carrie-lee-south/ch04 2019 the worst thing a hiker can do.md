@@ -112,7 +112,7 @@ modified: "2026-10-06"
 | condescending | 居高临下的；说教的 | She concentrated every effort on being helpful without being condescending. |
 | disheveled | 衣冠不整的；蓬头散发 | He answered, disheveled and still in pajamas, blinking at her. |
 | incessantly | 不停地；持续不断地 | Crickets and katydids hummed incessantly like buzzing television static. |
-| spooked | 受惊；（马）惊跳 | Cisco and Whiskey were close to retirement, but they were gentle and didn’t spook easily. |
+| spook | 受惊；（马）惊跳 | Cisco and Whiskey were close to retirement, but they were gentle and didn’t spook easily. |
 | volunteers | 志愿者 | There was so much upkeep that they often relied on volunteers to help take care of the horses. |
 
 ### ⭐⭐ 进阶
