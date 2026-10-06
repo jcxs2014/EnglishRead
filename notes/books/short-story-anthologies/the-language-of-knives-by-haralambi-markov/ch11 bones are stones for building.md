@@ -222,12 +222,12 @@ modified: "2026-10-06"
 | protocol | 协议、程序 | I have no choice but to initiate wake-up protocol. |
 | insensate | 感觉迟钝的、无知觉的 | It has so few sensors, practically insensate compared to my inorganic limbs, but his touch sings in me. |
 | Oxytocin | 催产素 | Oxytocin rises in my system and reduces the stress and tension in my body just in time as we enter her quarters. |
+| multiverse engine | 多宇宙引擎 | “She’s overloaded herself running the calculations for the multiverse engine.” |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| multiverse engine | 多宇宙引擎 | “She’s overloaded herself running the calculations for the multiverse engine.” |
 | person | 人、人身 | Treat me as no more than a prosthetic in the shape of a person. |
 | elevator | 电梯 | We part silently as I take my place by Mother inside the elevator. |
 | ancestors | 祖先 | From each slot in the wall gazes out a serious face etched into the stone; my ancestors. |

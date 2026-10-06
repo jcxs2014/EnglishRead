@@ -89,6 +89,146 @@ sun moon star sky rain snow wind fire""".split())
 
 TIER_PAT  = re.compile(r'^#+\s*[⭐★]*\s*(高级|进阶|基础)')
 SENTINEL  = re.compile(r'^\s*\|[-\s|]+\|\s*$')
+
+# ── 2026-10-06 新增：基础档日常词表 ──────────────────────────────
+# 用途见「分档合理性」段的判据说明。COMMON 是 207 词的**小学核心词**表，
+# 拿它判「基础档是否超纲」会误报大量日常名词/动词。
+# 本表收录日常名词、动词与形容词（约 300 词），只用于**排除假阳**，
+# 不用于判定「该词够不够基础」——那仍由词长与短语结构兜底。
+BASIC_WORDS = set("""
+abandon afraid age ahead alive alone along already amaze ancient anger angle animal answer
+apart appear apple arm asleep attack attend aunt autumn away baby back bag ball band bank bath
+beach bear beat beautiful bed bee begin beg behind believe bell belong below belt bench bend
+beside better beyond bike bird birth bite bite bitter black blade blanket bleed blind block blood
+blow blue board boat body boil bone book boot border bore borrow bottle bottom bowl box boy
+brain branch brave bread break breath breathe brick bride bright bring broad brother brown brush
+build burn burst bury bus bush busy butter button buy cabin cable cage cake call calm camp candle
+cap careful carpet carriage carry cart case cash cast cat catch cattle cave ceiling cell cement
+chain chair chalk chance change charge chase cheek cheese chest chief child chin choice choose
+church cigarette circle citizen city claim clap clay clean clear clerk clever cliff climb clip
+clock cloth close cloth cloud coast coat coin cold collect colour comb come comfort command
+comment common company compare compete complain complete concern condition conduct connect
+consider contain continue contract control cook cool copy corner correct cost cottage cotton cough
+count country couple courage course court cousin cover cow crack crash crazy cream create creep
+cross crowd cry cure curious curtain custom customer cut dance danger dark date daughter dawn
+day dead deal dear death decide decrease deep deer defeat defend degree delay deliver demand
+deny depend describe desert deserve design destroy detail develop die difference difficult dinner
+direct dirt dirty disagree disappear discover discuss disease dish dislike distance doctor dog
+dollar double doubt down dozen draft drag drain draw dream dress drink drive drop drown dry due
+dull duty each eager earn earth ease easily east easy eat edge educate effect effort egg eight
+either elbow elder elect electric element else empty enemy energy engine engineer enjoy enter
+entire equal escape especially evening event ever every exact exam example except excited excuse
+exercise exist expect expense experience explain express extra eye fabric face fact fade fail
+fair fall false family famous fancy farm farmer fashion fast fat fate father fault favor fear
+feast feed feel fellow fence fever few field fierce fight figure file fill film final find fine
+finger finish fire firm first fish fist fit five fix flag flame flash flat flee float flood floor
+flour flow flower fly fold folk follow fond food fool foot foot force forehead foreign forest
+forever forget forgive fork form former forward four free freeze fresh friend frighten front
+frost fruit fuel full fun furniture further future gain game garden gas gate general gentle
+ghost giant gift girl give glad glance glass glove glue goat god gold good goods goose govern
+grade grain grand grant grass grave gray great green greet grey grief grin grip ground group grow
+guard guess guest guide gun habit hair half hall hand handle hang happen happy harbor hard harm hat
+hate have hay head health hear heart heat heavy heel height hell help her here hero hide high hill
+hint hire history hit hold hole holiday home honest hope horn horse hospital host hot hotel hour
+house however huge human hundred hungry hunt hurry hurt ice idea illness image imagine important
+improve inch indeed injure insect inside instant instead insult intend interest interrupt into
+introduce invent iron island issue item jacket jail jar jaw job join joke journey joy judge juice
+jump jury just justice keen keep kettle key kick kid kill kilogram king kiss kitchen knee knife
+knock knot know ladder lady lake lamp land language large last late laugh law lawyer lay layer
+lazy lead leaf leak lean learn least leather leave left leg length less lesson let letter level
+liberty library lie life lift light like limb limit line lip liquid list listen little live load
+local lock lonely long look loose lord lose loss lost loud love low luck machine mad magazine
+magic mail main maintain major make male man manage manner mansion many map mark market marry
+mass master match matter maybe mayor meal mean meaning measure meat medicine meet member memory
+mention middle might mild mile milk mill mind mine minute mirror miss mistake mix model modern
+moment money monitor monkey month moon moral more morning most mother motor mountain mouse mouth
+move movement movie mud multiple murder muscle museum music must mystery nail name narrow nation
+native nature near neat necessary neck need needle neighbor neither nerve net network never new news
+next nice night nine noble noise none nor normal north nose note nothing notice novel now number
+obey object ocean odd of off offer office often oil old on once one onion only open operate opinion
+opposite or orange order ordinary organize other ought ounce out outside oven over owe own owner pack
+package page pain paint pair pale palm pan panel paper parent park part particular partner party pass
+past path patient pattern pause pay peace pen pencil people perfect perform perhaps period permit
+person persuade pet pick picture piece pier pig pin pipe pity place plain plan plant plastic plate
+play please plenty plot plough pocket point poison police polite pool poor pop port position
+possible post pot potato pound pour poverty powder power practise praise pray prefer prepare present
+preserve press pretty price pride priest prince prison private prize probably problem produce
+product professor program promise proper protect proud prove provide public pull punish purchase pure
+purpose push put quality quarter queen question quick quiet quit quite quote race radio rail rain
+raise range rank rapid rare rate rather reach read ready real reason receive recent recognize record
+recover reduce refuse regard region regular relate relax release relief religion rely remain
+remember remind remove rent repair repeat replace reply report rescue reserve respect rest result
+retire return reveal reward rice rich rid ride right ring rise risk river road rock roll roof room
+root rope rose rough round row rub rule run rush sad safe sail salt same sand save saw say scale
+scare scatter scene scent school science scientist score scratch scream screen sea search season
+seat second secret section see seed seek seem sell send sense sentence separate serious serve
+service set settle seven several shade shake shall shape share sharp she sheep sheet shelf shell
+shine ship shirt shoe shoot shop shore short should shoulder shout show shut sick side sight sign
+silence silk silver similar simple sin since sing single sink sir sister sit site situation six
+size skill skin skirt sky slave sleep slide slight slip slope slow small smart smell smile smoke
+smooth snake snow so soap society sock soft soil soldier solid solution some son song soon sorry
+sort soul sound soup south space spare speak special speed spell spend spirit split spoke spoon
+sport spot spread spring square squeeze stain stair stamp stand star stare start state station
+stay steady steal steam steel step stick still stir stock stomach stone stop store storm story
+stove straight strange straw stream street strength stretch strike string strip stroke strong
+structure struggle student study stuff subject succeed success such sudden suffer sugar suggest
+suit summer sun supply support suppose sure surface surprise survive swallow swear sweat sweep
+sweet swim swing sword table tail take tale talk tall tank tap taste tax tea teach team tear
+tell temple ten term terrible test text thank thick thief thin thing think third thirst this thorn
+though thought thread three throat through throw thumb thunder thus ticket tie tight till timber
+time tip tire title to today toe together tomorrow tone tongue tonight too tool tooth top touch
+toward town toy trade train travel tree tremble trick trip trouble trousers truck true trust truth
+try turn twelve twenty twice two type ugly uncle under understand union unless until upon upper
+upset upstairs use useful usual vegetable very view village visit voice vote wage wait wake walk
+wall wander want war warm warn wash waste watch water wave way weak wear weather week weight welcome
+well west wet wheel when where whether which while whisper white who whole whom whose why wide wife wild
+will wind window wine wing winter wire wise wish with wolf woman wonder wood word work worker world
+worth would wound wrap write writer wrong yard year yell yellow yes yesterday yet yield young
+your youth""".split())
+BASIC_PHRASE_BAN = ('engine', 'priestess', 'multiverse', 'shrubbery', 'gibberish', 'polka')
+
+# ⚠️ 2026-10-06 补：首版表漏收下列日常词，投毒自证时被抓出（`grandmother` 明明该在表里
+# 却报超纲 ⇒ 先查表、再怀疑加载，最后发现是**漏写**不是加载失败）。
+# 漏写的共同点：全是**复合派生词**（base 词在表里、派生词不在），
+# 而 COMMON/BASIC 都没有形态还原 ⇒ 长度启发式专挑这类词。
+BASIC_WORDS |= set("""
+ancestors apprentice architect assignment bachelors billboard disappears
+grandmother grandfather shoulders sufficiently tomb unfamiliar windshield
+automotive comfortable position dormant narcissus attending attention
+""".split())
+
+
+def _basic_over_scope(words):
+    """基础档是否含超纲词（2026-10-06 修判据）。
+
+    原判据 `len(w) >= 9 and w not in COMMON` 是**纯长度启发式**：
+    COMMON 只有 207 个小学核心词，`grandmother`(11)/`cigarette`(10)/
+    `apprentice`(10)/`shoulders`(9)/`ancestors`(9)/`billboard`(9) 全不在表内，
+    日常词与生僻词一律报警 ⇒ 实测 20 条里 12 条假阳。
+
+    现判据三条：
+      1. 整条是短语（含空格或连字符）⇒ 按**成分词**逐个判——短语天然比单词难，
+         不能拿整串长度去比「基础档」（`automotive tomb` 整串 20 字但两个词都基础）。
+      2. 单词落在 BASIC_WORDS 或 COMMON 里 ⇒ 放行。
+      3. 单词长度 ≤8 ⇒ 放行（短词不可能是超纲词）。
+      4. 仍不在表内且 ≥9 字，或命中 BASIC_PHRASE_BAN（生僻词根）⇒ 才报。
+    """
+    if not words:
+        return False
+    for w in words:
+        parts = [p for p in re.split(r'[\s\-]+', w) if len(p) >= 3]
+        if len(parts) > 1:            # 短语：逐成分词判
+            for p in parts:
+                if p in BASIC_PHRASE_BAN:
+                    return True
+                if p not in BASIC_WORDS and p not in COMMON and len(p) >= 9:
+                    return True
+        else:                          # 单词
+            if w in BASIC_PHRASE_BAN:
+                return True
+            if w not in BASIC_WORDS and w not in COMMON and len(w) >= 9:
+                return True
+    return False
 PH_HIT    = re.compile(r'^[—\-]\s*$')            # 例句列 = 纯占位
 NO_HIT    = re.compile(r'^\s*no\s*$', re.I)      # 例句列 = no
 ANN_HIT   = re.compile(r'[（()](可略|未出现|未在|此处未用|可省|略|见高级|见ch)[)）]')  # 释义自标（含全角/半角括号 + 扩展关键词）
@@ -522,10 +662,15 @@ def check_book(book_dir, verbose=False):
                                 '无 epub 权威全书，无法判定是否虚构'))
             # ── WARN 层 ──────────────────────────────────────────
             # 5. 分档合理性
+            # ⚠️ 2026-10-06 修判据：原判据 `any(len(w) >= 9 and w not in COMMON)`
+            # 把「基础档词条是否超纲」退化成**纯长度启发式**——COMMON 表只有 207 个小学级词，
+            # `grandmother`(11) / `cigarette`(10) / `apprentice`(10) / `shoulders`(9) /
+            # `ancestors`(9) / `billboard`(9) 全部不在表内 ⇒ 日常词与生僻词一律报警。
+            # 实测 Language of Knives 20 条「基础档疑含超纲词」里 12 条属此类假阳。
+            # 现判据：**短语按成分词逐个判**（短语天然比单词难，不该按整串长度判）；
+            # 单词用扩充的 BASIC_WORDS 表 + 词长 ≤8 兜底；仍不在表内且 ≥9 才报。
             key = min(words, key=len) if words else ''
-            if tier == '基础' and words and all(w in COMMON for w in words if len(w) >= 4):
-                pass  # 全常用词在基础档：合理
-            elif tier == '基础' and any(len(w) >= 9 and w not in COMMON for w in words):
+            if tier == '基础' and _basic_over_scope(words):
                 warns.append((name, tier, '基础档疑含超纲词', entry))
             elif tier == '高级' and words and all(w in COMMON for w in words):
                 warns.append((name, tier, '高级档混入常用词', entry))

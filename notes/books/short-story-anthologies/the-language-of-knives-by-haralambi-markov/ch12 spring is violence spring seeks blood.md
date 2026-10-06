@@ -243,13 +243,13 @@ modified: "2026-10-06"
 | blossomed | 开花；绽放 | Elegant stalks speared through, which then blossomed into bright yellow blooms and orange hearts the color of egg yolk. |
 | curvature | 弧度；曲面 | It was a true pity, because he liked the domes and curvature of the building. |
 | clearing | 空地；清理出来的林间空地 | The night next Spring was chosen, the entire city population crowded the clearing around the field of bells. |
+| attending priestess | 随侍的女祭司 | Towards the end, the attending priestess held his mouth open and poured pure honey straight down his gullet, then nearly candied blood. |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | mortal | 会死的凡人 | It was his last request as a mortal—a Spring-in-waiting. |
 | arms | 手臂；怀抱 | Until then, Spring held the city in his arms; the Underworld whispering soothingly to just let go and sleep. |
-| attending priestess | 随侍的女祭司 | Towards the end, the attending priestess held his mouth open and poured pure honey straight down his gullet, then nearly candied blood. |
 | beech tree | 山毛榉 | The beech tree awaited him; taller than the television tower it had used as support to reach its full height. |
 | bell tower | 钟楼 | At the center stood the bell tower and at its feet Spring’s priestesses waited for the correct stars to open their eyes. |
 | birth | 出生 | That was before his birth, though his grandfather liked to tell him stories of his travels as an airline pilot from his youth. |

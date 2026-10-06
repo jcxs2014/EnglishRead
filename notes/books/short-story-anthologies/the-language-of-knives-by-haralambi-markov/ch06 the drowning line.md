@@ -223,7 +223,7 @@ modified: "2026-10-06"
 |---|---|---|
 | drowning | 溺水；溺亡 | In the years after the drowning, when my mother left Germany after the Berlin Wall fell, I tried to grow up fast. |
 | eye sockets | 眼窝 | Bubbles rise through his eye sockets and nose. |
-| wound | 伤口 | Blood smears my right foot below the knee. |
+| wound | 伤口 | The wound on my calf leaks in lazy waves. |
 | lake | 湖 | Even though it’s day, the lake’s massive body is dark, or maybe it’s the darkness that creeps in once you run out of breath. |
 | chest burns | 胸口灼烧感 | It’s November and the water is cold, but my chest burns as mother holds me down against the rounded rocks in Lake Constance. |
 | whole body | 全身 | As she makes it to the end of her lane and does a flip turn, he stops and strokes her whole body from head to toe. |
