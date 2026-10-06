@@ -145,7 +145,7 @@ modified: "2026-10-06"
 | pallid | 苍白的 | The tiny Jennys who stare back at her are pallid, the pink meat along their eyes waxing green. |
 | waxing | （此处）渐渐变成 | The tiny Jennys who stare back at her are pallid, the pink meat along their eyes waxing green. |
 | ribbed | 有棱纹的；呈肋骨状的 | They’re ribbed with waving stripes of green. |
-| webbing | 蹼；蹼膜（此处指手指间长回来的膜） | Jenny obliges and shows him her hands, spreading them open like starfish so she can see the webbing that’s begun to grow back. |
+| webbing | 蹼；蹼膜（此处指手指间长回来的膜） | Jenny obliges and shows him her hands, spreading them open like starfish so he can see the webbing that’s begun to grow back. |
 | drowned | 淹死的；被淹没的 | In her mind, she says goodbye to the drowned train station, the beautiful scum in the dark, and the way the water held her, both in blurry-eyed wakefulness and silent dreams. |
 | anemone | 海葵 | Instead of fish swimming through anemone, she’s swimming alongside excitable humans hugging, screaming, and waving phones that glow and pick out their faces in eerie light. |
 | strumming | （拨）弹奏 | Clyde can’t out-yell a woman strumming an enormous lute plugged into the wall, so he leans toward her. |
