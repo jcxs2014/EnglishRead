@@ -11,7 +11,7 @@ modified: "2026-10-06"
 - **情感弧线位置**：全书情感弧线的**变身章**。上一章她还在为「被人发现」恐慌（把手机推到洗手池底下那一段），本章她开始主动改造自己外表以换取接近 Zeke 的资格；但章末那阵饥饿再次把一切盖过去，说明「想成为人」和「要吃人」在她身上从未真正分开。
 - **Tropes 兑现/反转**：**兑现**——「非人主角为接近心上人努力装得像人」是这类故事的标准桥段；**反转**在于作者把「改造」写成一段**被旁观、被打断、被嘲笑的换牙期**（牙齿长得像 a necklace held between her lips、缺牙时说话变成 Ah hahd to womove muh teef），并且克莱德那句「That’s not the same thing」当面拆穿「装得像」的虚实。本章另一个兑现是**提前命名**：Ezekiel 与 Eckstein 在这里首次登场，而命名者不是她找到的人，是她同伴。
 - **人物弧线**：詹妮从「躲着不被看见」走到「主动改造自己去被看见」，中间夹着一次失败（牙没长齐就被克莱德取笑、抢到化妆又化坏眼）；克莱德从「质问她」走到「替她出主意、陪她练习、替她查地址」，同时**继续被两个同伴合谋隐瞒**（冰箱那件事他知道却不说）；芙恩从「嘴快的同伴」走到「撒谎打掩护的人」（Faun 的整套说辞是编的），并在结尾以牙尖指出詹妮最不肯听的那件事。
-- **叙事手法**：公寓内的三人对话开场（问答式短句交替）· 全章穿插**电视／镜面影像学习**段落（她把屏幕当 channel like waters）· 换牙被拉成跨数日的**蒙太奇**（The next day / The next week / The next week 等时间标记）· 大段身体内部描写（把疼痛 buries 在 saltwater caverns of her mind，与她的多国语言记忆挤在一处）· 结尾由外出夜猎转向街头偶遇再转成凶杀，情绪靠**一件小事（被人牵手逃走）**与**一句戳穿的话**接连撬开。
+- **叙事手法**：公寓内的三人对话开场（问答式短句交替）· 全章穿插**电视／镜面影像学习**段落（她把屏幕当 Channels like waters）· 换牙被拉成跨数日的**蒙太奇**（The next day / The next week / The next week 等时间标记）· 大段身体内部描写（把疼痛 buries it in the saltwater caverns … of her mind，与她的多国语言记忆挤在一处）· 结尾由外出夜猎转向街头偶遇再转成凶杀，情绪靠**一件小事（被人牵手逃走）**与**一句戳穿的话**接连撬开。
 
 ## 精读
 
@@ -21,7 +21,7 @@ modified: "2026-10-06"
 
 **关键词：** walk into someone’s house and decide you live here · Clyde stomps down the stairs
 
-**为什么这样写：** 全章第一句就把「住进空屋」定性成一桩需要被审的事，而审她的人用了最普通的地面区所有权词汇。作者不写争吵的音量，只写 stomp down the stairs——把情绪交给脚，落在一个具象动作上。这一句同时交代了三人的位置：她已经在浴缸里，他在楼梯上，两人还没见面。
+**为什么这样写：** 全章第一句就把「住进空屋」定性成一桩需要被审的事，而审她的人用了最普通的地面区所有权词汇。作者不写争吵的音量，只写 stomps down the stairs——把情绪交给脚，落在一个具象动作上。这一句同时交代了三人的位置：她已经在浴缸里，他在楼梯上，两人还没见面。
 
 **读者视角提示：** 请记住这条规矩。本章接下来克莱德问的第一件事不是名字，是冰箱里有什么。
 
@@ -89,7 +89,7 @@ modified: "2026-10-06"
 
 **中文理解：** 詹妮吃饱了，而且大体上对自己满意，但在回克莱德和芙恩的路上，她满脑子都是 Barney 牵着他那个女人的手。那动作那么轻。
 
-**关键词：** sated and, for the most part, pleased with herself · all she can think about is how Barney held hands with his woman · It was so gentle
+**关键词：** sated and, for the most part, pleased with herself · all she can think about on the way back to Clyde and Faun is how Barney held hands with his woman · It was so gentle
 
 **为什么这样写：** 全章以饱足开始、以一个不属于她的温柔记忆结束。作者用 but 把两件事缝在一起：刚吃完一个人，心里想的却是另两个人牵手的画面。It was so gentle 只有两个词，没有主语、没有动词，是全章最短也最重的一句；gentle 这个形容词与本章反复出现的刀、牙、血形成对位，而它说的是她这一路唯一没能拥有、也唯一没有动手毁掉的东西。
 
