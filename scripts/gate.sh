@@ -148,7 +148,12 @@ for f in sorted(glob.glob(f"{book}/ch*.md"), key=lambda x: int(re.search(r"ch(\d
     #    原式只认 `## 本章导航` ⇒ nav 为 None ⇒ 恒 0 条 ⇒ **全量假红**。
     #    **两档节名都认**（`本章导航` 或 `概览`），与 ⑬b 的判据一致。
     nav = None
-    for nsec in ("本章导航", "概览"):
+    # ⚠️ 2026-10-06 修正（The Language of Knives 批1 实测 4 章假红）：
+    #    短篇合集用 `## 本篇导航`（体裁表逐篇精读格式；权威样本
+    #    the-passing-of-the-dragon-by-ken-liu/ch01），而 check_entities 早在
+    #    2026-09-27 就补过这一档，**gate.sh 这一处漏了** ⇒ nav 恒 None ⇒ 0 条 ⇒ 全量假红。
+    #    修法与本段上方「两档节名都认」同一原则：**三档节名都认**。
+    for nsec in ("本章导航", "概览", "本篇导航"):
         nav = re.search(rf"^## {nsec}[ \t]*\n(.*?)(?=\n## |\Z)", txt, re.M | re.S)
         if nav:
             break

@@ -62,6 +62,15 @@ CIRC_BLOCK_RE = re.compile(r'^([' + CIRCLED + r'])\s+["\']', re.M)
 CIRC_ITER = re.compile(r'^([' + CIRCLED + r'])\s+["\'](.*)$', re.M)
 # 短篇合集档的**独有特征节**（两者皆须命中才认档，避免与长篇精简档抢档）。
 ANTH_MARKS = (r'^## 精读结束总结', r'^## 可迁移表达')
+# ⚠️ 2026-10-06 新增（The Language of Knives 批1 实测 4 章假红）：
+#   短篇合集在库里有**两套 H2 形态**，只认一套 ⇒ 另一套全部落进「言情精简 3–8」误判：
+#   ① Ken Liu / Fold Catastrophes 变体：`## 精读` + `## 精读结束总结` + `## 可迁移表达`
+#     （the-passing-of-the-dragon / fold-catastrophes，见上 ANTH_MARKS）
+#   ② **体裁对应格式表的短篇合集档**（docs/新书启动模板.md:1101）：
+#     `## 本篇导航` + `## 精读` + `## 词汇分级` + `## 一句话总结`
+#     （the-language-of-knives；权威判据是**四个特征节同时在**）
+#   ⇒ 两套都认；配额同为固定 10（ANTH_RANGE）。
+ANTH_MARKS_V2 = (r'^## 本篇导航', r'^## 精读', r'^## 词汇分级', r'^## 一句话总结')
 # 短篇合集里**篇幅显著短于正篇**的篇目（引言/后记一类）按体裁表凑不出 10 处时，
 # 块数下限不适用的源文本长度阈值（正文归一后字符数）。写成结构性判据而非「某章特例」。
 ANTH_SHORT_SRC = 20000
@@ -297,10 +306,25 @@ def check(md: Path, book: Path):
     # ⚠️ 2026-10-04 加第三档：**短篇合集档**（特征节 `## 精读结束总结` + `## 可迁移表达`
     #   **且**圈码抬头能解析——与 check_struct_indep 的 anthology 档同口径，负控同款：
     #   认出档位不等于能解析它，解析不出就不认档，避免「少查」）。
-    is_anth = (all(re.search(p, s, re.M) for p in ANTH_MARKS)
+    # 两套变体各自配自己的负控（脚本原原则「认出档位不等于能解析它」）：
+    #   v1 Ken Liu 变体用圈码抬头 → 负控 = CIRC_BLOCK_RE 能解析出块；
+    #   v2 体裁表短篇合集档用 `> **原句 N:**` → 负控 = BLOCK_RE 数得到块（本行 nq）。
+    anth_v1 = (all(re.search(p, s, re.M) for p in ANTH_MARKS)
                and bool(CIRC_BLOCK_RE.search(s)))
-    if is_anth:
-        nq = len(CIRC_BLOCK_RE.findall(s))
+    anth_v2 = (all(re.search(p, s, re.M) for p in ANTH_MARKS_V2)
+               and nq > 0)
+    is_anth = anth_v1 or anth_v2
+    # ⚠️ 2026-10-06 修正（本条是**假阴性**，比假红更坏）：
+    #   原式 `if is_anth: nq = len(CIRC_BLOCK_RE...)` **无条件用圈码覆盖**块数。
+    #   它成立的前提是「短篇合集档＝圈码书」（Ken Liu / Fold Catastrophes 变体）。
+    #   而体裁对应格式表的短篇合集档（docs/新书启动模板.md:1101）用的是
+    #   `> **原句 N:**` ⇒ 覆盖后 nq 恒 0 ⇒ 走到下面 `if nq == 0: return`
+    #   ⇒ **关键词越界 / 拼接红线整段空转，却报成「未找到任何引语块」**
+    #   （The Language of Knives 批1 实测：4 个真实文件全落这条）。
+    #   ⇒ 改为**按文件实际使用的抬头计数取大者**，两种形态都真查。
+    n_circ = len(CIRC_BLOCK_RE.findall(s))
+    if n_circ > nq:
+        nq = n_circ
     nvocab = len(re.findall(r'^## (?:本章词汇|词汇分级)', s, re.M))
     nsum = len(re.findall(r'^## 一句话总结', s, re.M))
     if nq == 0:
