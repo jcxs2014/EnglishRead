@@ -19,7 +19,30 @@ modified: "2026-10-06"
 
 **叙事手法**：第三人称限知（brief 给的「第二人称 you」不成立——`you` 只出现在引号内的对话，叙述层一律是 `he`）。作者把**幻觉与现实对调**：姨婆在文本里以实体口吻说话、在叙述里以物件口吻说话（`I am the sanatorium—the walls, the windows, the linoleum on the floor, the concrete underneath it. Every patient, too.`），而现实中的护士、staff、水、食物全部缺席。句子的伦理重量靠**突然的直陈**承担——`They did it first. He only made it official.`
 
-**结构六段**：① 姨婆夜访：换药、吸体液、留下 `Tomorrow you walk` 的命令 ② 护士缺位：空床、无人应答、`A line where privacy crosses into abandonment.` ③ 门外之物逼近：他拒绝开门、她把「你」推成十二岁 ④ 腿开始自己动：钻开趾骨、purr、把切口缝回去 ⑤ 姨婆摊牌：`We got death so wrong.`、`I'm claiming you this time around.` ⑥ 掘土：她带来动物群与小牌子，他 `He digs.`
+**结构六段**：① 姨婆夜访：换药、吸体液、留下 `Tomorrow you walk` 的命令 ② 护士缺位：空床、无人应答、`A line where privacy crosses into abandonment.` ③ 门外之物逼近：他拒绝开门、她把「你」推成十二岁 ④ 腿开始自己动：钻开趾骨、purr、把切口缝回去 ⑤ 姨婆摊牌：`We got death so wrong.`、`I’m claiming you this time around.` ⑥ 掘土：她带来动物群与小牌子，他 `He digs.`
+
+**核心母题**：**照料如何变成吞噬**。开头姨婆替他揭纱布写的是 `a delicacy reserved for rice paper`，结尾同一个人握着他整条腿像抱婴儿。另一条是「缺失的归属」——`Can a person have nostalgia for a past that has never been his to begin with?`：他从未真正拥有过故乡，所以回忆无法成立，这正是他最终跟着走的原因。
+
+**结尾**（全文最后一行独立成段）：`He digs.`
+
+**文本内高频词**：sanatorium 出现 8 次，nurse 出现 6 次，great-aunt 与 great aunt 两种写法合计 18 次。
+
+---
+
+## 本篇导航
+
+**一句话主旨**：一个在希腊拍山火时摔伤了腿的年长摄影师，回保加利亚的疗养院养伤；死去的姨婆（great aunt）以年轻女孩的模样夜夜来看他，替他换药、吸他的体液，末了要带他一起走——那条发炎的腿缝回了他身上，却已经不听他的，全篇止于他在围着小牌子的动物群前挖土。
+
+**人物与关系**（本篇专名极少，下列关系均为原文可核的中性指称）：
+- 叙述者（全文第三人称 he）：职业是 photojournalist，曾在希腊拍山火（filming the wildfires）时从崖上滑落摔伤腿；早年与家庭断绝往来，原文写他十三年没跟家里说过话。他不写姓，文中也没给姓名。
+- 姨婆（原文 great aunt，名字 Lyudmila 共出现 3 次）：生前建成并经营这所疗养院，死后被葬在院内，离他养伤的房间不远。她的墓碑写 Lyudmilla Chudinova 1898–1999——碑上拼作两个 l，与正文写法不同。
+- 护士：全文出现 6 次，全是「不在」或「动作粗鲁」——他醒来找不到她的身影，地板上没有脚印。
+- 远房表亲（cousin）：他没记住名字就来了这里；姨婆告诉他 staff 三天前已随其他病人离开，表亲的办公室是空的。
+- 门外的东西：反复 yip 的动物、他看不见但一直观察他的许多眼睛和耳朵、结尾围着小牌子的动物群。
+
+**叙事手法**：第三人称限知（brief 给的「第二人称 you」不成立——`you` 只出现在引号内的对话，叙述层一律是 `he`）。作者把**幻觉与现实对调**：姨婆在文本里以实体口吻说话、在叙述里以物件口吻说话（`I am the sanatorium—the walls, the windows, the linoleum on the floor, the concrete underneath it. Every patient, too.`），而现实中的护士、staff、水、食物全部缺席。句子的伦理重量靠**突然的直陈**承担——`They did it first. He only made it official.`
+
+**结构六段**：① 姨婆夜访：换药、吸体液、留下 `Tomorrow you walk` 的命令 ② 护士缺位：空床、无人应答、`A line where privacy crosses into abandonment.` ③ 门外之物逼近：他拒绝开门、她把「你」推成十二岁 ④ 腿开始自己动：钻开趾骨、purr、把切口缝回去 ⑤ 姨婆摊牌：`We got death so wrong.`、`I’m claiming you this time around.` ⑥ 掘土：她带来动物群与小牌子，他 `He digs.`
 
 **核心母题**：**照料如何变成吞噬**。开头姨婆替他揭纱布写的是 `a delicacy reserved for rice paper`，结尾同一个人握着他整条腿像抱婴儿。另一条是「缺失的归属」——`Can a person have nostalgia for a past that has never been his to begin with?`：他从未真正拥有过故乡，所以回忆无法成立，这正是他最终跟着走的原因。
 
