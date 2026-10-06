@@ -73,7 +73,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 这是本章最长的一段独白，也是全书头一回让另一个物种替詹妮开口。开头是一串动名词（抓、咬、吃）给她的生活方式定性，接着用伯利恒与希腊两个坐标交出法恩自己的历史，最后落到那个新名字上：our new, dear friend, Jenny Greenteeth。dear friend（亲爱的朋友）里的亲昵不是善意，是归类——她用一个外号替代了她的本名，而这个外号只说了颜色和牙齿。
 
-**读者视角提示：** 注意这段话的落点：I've never been afflicted with anything like you（我从没遇到过像你这样的东西）。法恩把詹妮当成一种需要命名的新东西，而不是同类。
+**读者视角提示：** 注意这段话的落点：I’ve never been afflicted with anything like you（我从没遇到过像你这样的东西）。法恩把詹妮当成一种需要命名的新东西，而不是同类。
 
 > **原句 7:** Clyde has a wariness to him, one that makes his eyes look much older than the face in which they reside. “And getting snapped at by dogs, thrown out of parks, starving to thinness without being able to die? Oh, yes, immortality is a dream!”
 
