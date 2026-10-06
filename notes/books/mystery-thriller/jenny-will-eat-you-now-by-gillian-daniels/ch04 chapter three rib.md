@@ -10,7 +10,7 @@ modified: "2026-10-06"
 - **一句话概括**：两个伪装成人类的不死者（Faun 与 Clyde）闯进詹妮栖身的隧道，她把他们当入侵者扑上去，结果肋骨被一脚踢断、咬出的伤口在对方皮肤上当场抹平、对方裙下露出一双山羊蹄；这一章用一场短促的交手把「谁才是怪物」这个问题连同讨价还价一起交了出来。
 - **情感弧线位置**：从领地被侵犯的愤怒（Vagabonds! Wretches!），到被踢中胸口后的失控，再到看清对方不是人之后的屈辱（How humiliating it must be to be them），最后落到一场关于食物与手机的交易上。这条弧线不是靠事件推进的，而是靠「她每开口一次就被对方改写一次定义」推进：她自称猎手，对方说这是 bottom-feeder；她递出猎物，对方问 Do you think we eat rats?。
 - **Tropes 兑现/反转**：**兑现**——非人视角的怪物撞上真正的不死者，是身体恐怖把「猎人与猎物」关系倒转过来的常规入口。**反转**——被打败的是她，而且败在她没料到的对方体质上；作者不让她因此改口，她照旧说 I hunt. You should be prey.，并把对方丢回来的羞辱原样退回。喜剧性的误读同时在跑：她听不懂 nexus、real meal、zoe’s 这几个词，而对方也始终没弄清她要的究竟是什么。
-- **人物弧线**：詹妮在这一章挂了彩、第一次意识到对方不是人，却一次也没有动摇自己的物种立场，她的反应是把这件事记进账里（I do as I will.）。Faun 从被闯入的旁观者变成一脚把她踢开的人，并在中段问她 And whose skin should we wear, girl? Yours?。Clyde 从被咬的猎物变成拒绝承认的同类，他给的回应是 I suppose we are.
+- **人物弧线**：詹妮在这一章挂了彩、也看清了对方不是人，却一次也没有动摇自己的物种立场，她的反应是把这件事记进账里（I do as I will.）。Faun 从被闯入的旁观者变成一脚把她踢开的人，并在中段问她 And whose skin should we wear, girl? Yours?。Clyde 从被咬的猎物变成拒绝承认的同类，他给的回应是 I suppose we are.
 - **叙事手法**：第三人称限知（紧贴詹妮的意识）· 全章单一场景（隧道积水）· 对话承担喜剧节奏（Faun 与 Clyde 一路互相拆台）· 生理细节堆叠（肋骨、铜色液体、山羊蹄）· 动物与水相关的词贯穿全章（gape-mouthed、geyser、skitters、frog）· 结尾用现代俚语的落差收束（Let’s join this century.）。
 
 ## 精读
@@ -53,7 +53,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 作者不给这一击任何声音词，只用 Something hits the center of Jenny’s chest：主语是模糊的 Something，位置是精确的 the center，让这一下先是一次触觉、再是一次判断。紧跟着的 If…clad in a boot 用条件句拆解她自己都没看清的东西——她连对方穿的是什么都要靠猜才能知道，而 wedged into the sole of it 把伤害写进了装备里，不在身体上。段落之后是 her split rib thrums 与 The rib seems to be angled badly inside of her，这道伤在往后的每一次呼吸里继续计费。
 
-**读者视角提示：** 本章的标题词在这里落地。记住它不是刀伤也不是咬伤，是一脚——她全部关于「牙齿」的自信都在这一脚之后开始漏水。
+**读者视角提示：** 这一脚就是书内标题那根肋骨的来历。记住它不是刀伤也不是咬伤，是一脚——她全部关于「牙齿」的自信都在这一脚之后开始漏水。
 
 > **原句 5:** Jenny watches as the wound she inflicted on Clyde begins to change. The holes that mark where she bit grow shallow. Then they fill up and close over, becoming mere divots. Then his dark brown skin is smooth once more.
 
@@ -61,7 +61,7 @@ modified: "2026-10-06"
 
 **关键词：** the wound she inflicted on Clyde begins to change · grow shallow · becoming mere divots · his dark brown skin is smooth once more
 
-**为什么这样写：** 这一段的动词全是渐弱：begins to change 之后是 grow shallow，再是 becoming mere divots，最后收在 smooth once more。伤口没有喷血、没有结痂，而是按「变浅—填满—变平」走完，像被橡皮擦掉。divots（浅凹坑）是作者给出的关于这个人身体的第一个可触摸细节，紧接着下一段才是她自己的判词 He may not be a soldier, but he is cloaked in something like immortality.——她用 immortality 这个词，但前面那个 something like 说明她其实并没有把握。
+**为什么这样写：** 这一段的动词一路渐弱：begins to change 之后是 grow shallow，再是 becoming mere divots，最后收在 smooth once more。伤口没有喷血、没有结痂，而是按「变浅—填满—变平」走完，像被橡皮擦掉。divots（浅凹坑）是作者给出的关于这个人身体的第一个可触摸细节，紧接着下一段才是她自己的判词 He may not be a soldier, but he is cloaked in something like immortality.——她用 immortality 这个词，但前面那个 something like 说明她其实并没有把握。
 
 **读者视角提示：** 揭示用的是身体而不是解释：先是洞变成 divots，后面再用 Faun 裙下的蹄子做同一件事。这两个人都不否认自己不是人，只是不打算说。
 
@@ -83,7 +83,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 她学会的交易句式只有交换本身：I give this to you. You give me, um…，第二个 you give me 之后她卡住了，于是 She reaches for the word 把「找词」写成手上的动作而不是脑内的犹豫——她找不到的不是英语，是母语里对应的交易结构。同一个段落里 reach 出现两次，一次是把手里的东西递出去，一次是去够那个词，身体动作与语言动作被写成同一个动词。对方的回话是 Do you think we eat rats?，把她的出价原样退回来，而她连这个误会都听不出来。
 
-**读者视角提示：** 这一段是全章唯一一次她主动放弃攻击姿态。交易能成立，是因为对方没把她当怪物看——她要的只是被当成能交换的一方。
+**读者视角提示：** 这一段里她主动放弃了攻击姿态。交易能成立，是因为对方没把她当怪物看——她要的只是被当成能交换的一方。
 
 > **原句 8:** With a sigh, she decides not to let the rat go to waste and peels it open with her claws. It’s the color of dark rubies, fibrous and sour smelling. She devours it as quickly as she can under the watchful gaze of the vagabonds. Clyde’s dark complexion develops an ashen hue.
 
@@ -91,7 +91,7 @@ modified: "2026-10-06"
 
 **关键词：** not to let the rat go to waste · peels it open with her claws · the color of dark rubies, fibrous and sour smelling · She devours it as quickly as she can · Clyde’s dark complexion develops an ashen hue
 
-**为什么这样写：** go to waste 正是序章里她指责人类的那套说法的核心（序章原句：They treat their dead like waste.），本章她把同一句判断搬到一只老鼠身上，当着两个人类的面执行。剥开与吞食之间插进 under the watchful gaze of the vagabonds，把进食变成一场公开表演；Clyde’s dark complexion develops an ashen hue 是整段唯一的反应镜头，作者不写她吃得多吓人，只让旁观者的脸色替读者完成判断。她在剥开之前还先说了 All the water is the water where I live. 与 I do as I will.——这是本章里她唯一没有被对方改写的两句。
+**为什么这样写：** go to waste 正是序章里她指责人类的那套说法的核心（序章原句：They treat their dead like waste.），本章她把同一句判断搬到一只老鼠身上，当着两个人类的面执行。剥开与吞食之间插进 under the watchful gaze of the vagabonds，把进食变成一场公开表演；Clyde’s dark complexion develops an ashen hue 是整段唯一的反应镜头，作者不写她吃得多吓人，只让旁观者的脸色替读者完成判断。她在剥开之前还先说了 All the water is the water where I live. 与 I do as I will.——这两句正好对着前面每一次她被对方改写的定义。
 
 **读者视角提示：** 请把这句 waste 与序章那句放在一起看：她曾指责人类浪费同类，现在她同样不肯浪费眼前这只老鼠，而两个听者都清楚这只老鼠的来路。这不是讽刺，是她价值观的完整闭合。
 
