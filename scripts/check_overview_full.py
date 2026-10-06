@@ -148,7 +148,18 @@ def label_near(line, span_start, span_end):
     # 窗口右边界落在 `ch0` 与 `3` 之间 ⇒ `ch(\d{1,3})` 吃到 `0` ⇒ 报「标注 ch0」。
     # 20 这个数是按「标签紧贴引语、不隔字」估的，但 `said.`（5 字符）+ 全角括号（2）
     # 就吃掉了 7 个。放宽到 48 足以覆盖 `…said.（chNN）` 这类最短载体。
-    post = line[span_end:span_end + 48]
+    #
+    # ⚠️ 2026-10-06（ITW 总览，5 处假红「标注 ch3 但实为 ch32」）：
+    # 48 对**长引语**仍然不够——`gen_overview` 按 `（chNN）` 拆行，而标注在引语**之后**，
+    # 引语本身 200+ 字符时 48 窗口落在引语正中间，够不到标注 ⇒ 回退 pre 窗口
+    # ⇒ 抓到同一行别处的 `ch3`（`ch32` 被窗口边界切成 `ch3`|`2`）。
+    # ⇒ 两条一起改：① 窗口放到足以覆盖最长引语（512）；
+    #    ② post 窗口**只认 `（chNN）` 完整形态**，不再匹配裸 `ch3`——
+    #       裸章号只应出现在 pre 窗口（`出处：chNN —— "…"`），那是它的正确用法。
+    post = line[span_end:span_end + 512]
+    m = re.search(r'（ch(\d{1,3})）', post)
+    if m:
+        return int(m.group(1))
     m = RE_LABEL.search(post)
     return int(m.group(1)) if m else None
 
