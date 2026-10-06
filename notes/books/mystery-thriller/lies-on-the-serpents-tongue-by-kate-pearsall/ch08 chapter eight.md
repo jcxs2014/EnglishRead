@@ -11,7 +11,7 @@ modified: "2026-10-06"
 - **一句话概括**：Rowan 把 Hadrian 拖进屋急救，谈话间补齐两块世界观拼图——蛾翼人不是怪物而是「墓地守卫」（护送横死亡魂走完阴阳之路的苏格兰-爱尔兰移民信仰），Hadrian 十九年前作为男孩失踪、成了别的东西，此番回来是为给一名刚死的车祸亡者引路、却在 Bone Tree 这一侧遭人伏击；他求她帮忙（她能辨谎），被拒后留下一枚枫树翅果「想通了就烧掉它」；无线电传来东叉步道棚发现昏迷伤者，她狂奔而去——那人俊美如石雕，但不是 Hadrian。
 - **情感弧线位置**：敌意的裂缝。她擅长恨他，他偏在这夜躺进她怀里；「You get a little wrinkle right here」一句戳破她藏了一年的秘密，拒绝帮忙的硬话与追出去递翅果的行动形成温差——章末她为另一个男人狂奔，敌友坐标全部重排。
 - **叙事手法**：急救室对话体（一问一答推设定）；两本书分层（diablerie 正典 vs 民间传说「不是全部真相」）；「时间流速差」的硬设定用一句鼻音回答带过；结尾的辨人悬念（不是 Hadrian 那他是谁）以三连短句收束。
-- **线索进展**：① 蛾翼人正典：墓地守卫一员，护送「死于非命的亡魂」走完死与来世之间的路；信仰来自苏格兰-爱尔兰移民的 good folk；「like the Otherworld, it is all too real」；② Hadrian 十九年前以男孩身份失踪，此后「成了别的东西」；他找的不是哥哥是杀他的人；Linden 怀疑他已永久回了彼世；③ 车祸死者=盗参人（ch01 镇会案件），已由 Hadrian 经 Bone Tree 引渡过界——两界时间流速不同（本界已近两周）；④ 袭击发生在「这一侧」——「someone in Caball Hollow knows what I am. And what the Bone Tree is」；⑤ Hadrian 早知她能辨谎——「You get a little wrinkle right here every time」；⑥ 翅果召请：burn it 即应召；⑦ East Fork 止步棚发现另一名昏迷伤者：无鞋无外套、衣衫破碎、shallot 皮色的乱发、狐般锋利——未死，非 Hadrian。
+- **线索进展**：① 蛾翼人正典：墓地守卫一员，护送「死于非命的亡魂」走完死与来世之间的路；信仰来自苏格兰-爱尔兰移民的 good folk；「like the Otherworld, it is all too real」；② Hadrian 十九年前以男孩身份失踪，此后「成了别的东西」；他找的不是哥哥是杀他的人；Linden 怀疑他已永久回了彼世；③ 车祸死者=盗参人（ch01 镇会案件），已由 Hadrian 经 Bone Tree 引渡过界——两界时间流速不同（本界已近两周）；④ 袭击发生在「这一侧」——「someone in Caball Hollow knows what I am」，且对方也知道「what the Bone Tree is」；⑤ Hadrian 早知她能辨谎——「You get a little wrinkle right here every time」；⑥ 翅果召请：burn it 即应召；⑦ East Fork 止步棚发现另一名昏迷伤者：无鞋无外套、衣衫破碎、shallot 皮色的乱发、狐般锋利——未死，非 Hadrian。
 
 ## 精读
 
