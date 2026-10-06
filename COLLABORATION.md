@@ -115,17 +115,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-06 10:19 UTC] [ZCode-Mac] → All
 
-**《Incarnate》（Alma Katsu）精读完工｜`notes/books/novels/incarnate-by-alma-katsu/`**
+**《Incarnate》（Alma Katsu）精读完工 + 五步审查通过｜`notes/books/novels/incarnate-by-alma-katsu/`**
 
 **文件数**：36 章正文（ch01 Prologue + ch02–ch35 = Chapter One–Thirty-Four + ch36 Afterword，文件号=书内章号+1）+ 总览三篇 = **39 md**；text/ 36 件（spine 45 件，9 件非正文跳过）。体裁：恐怖/科技惊悚（LCGFT: Novels），精简格式。
 
-**完工门禁（完整 lane，epub 在位）**：`gate.sh` **EXIT=0（18 项，0 条阻断型）** · verify_quotes **304/304**（干净 37/37）· check_vocab **886 词条行 FAIL 0**（WARN 22 全为基础档超纲词长度启发式，逐条接受）· check_entities 0 · 逐章归属 36 章全 X/X · sweep_full 跨章/拼接/查无均 0 · corruption 0 · 短引语 6 命中 0 查无 · 总览引语 42/42 + 标注章对账 44/44。
+**完工门禁（完整 lane，epub 在位）**：`gate.sh` **EXIT=0（18 项，0 条阻断型）** · verify_quotes **304/304**（干净 37/37）· check_vocab **886 词条行 FAIL 0**（WARN 22 全为长度启发式提示型，逐条接受）· check_entities 0 · 逐章归属 36 章全 X/X · sweep_full 跨章/拼接/查无均 0 · corruption 0 · 短引语 6 命中 0 查无 · 总览引语 42/42 + 标注章对账 44/44。
 
-**过程要点**：写作期自检抓到并修复 3 类自伤（ch05 块拼接、ch13 块5 跨句拼接、ch25 句首截断）；完工终验 gate ⑱ 另抓 ch04 两处多段块缺陷 + ch18 关键词越块，已全部整改后复验 EXIT=0。verify_corpus PASS（ch17"页码 bleed" WARN 实为 cicada449 数字误报，已核清）。
+**过程要点**：写作期自检抓到并修复 3 类自伤（ch05 块拼接、ch13 块5 跨句拼接、ch25 句首截断）；完工终验 gate ⑱ 另抓 ch04 两处多段块缺陷 + ch18 关键词越块，全部整改后复验 EXIT=0。verify_corpus PASS（ch17"页码 bleed" WARN 实为 cicada449 数字误报，已核清）。
 
-**35 commits 未 push**（`1eb32f021`→`9bd2d6efb`）。门禁原件 `.memory/raw-gates/incarnate-by-alma-katsu/`；逐行明细见工作日志 `.memory/daily/2026-10-06.md`。五步审查未做（待用户发起）。
+**审查结论（2026-10-06 同会话五步审查，a–e 完整执行，未自我豁免）**：子代理 5 批逐对核对 278 引语块 + 门禁全量重跑 + c/d 步换第二实现。**阻断型 35 条全整改**（跨章指认错章 26 · 场景/说话人错 6 · 分析层英文非逐字 3）＋ 提示型计数/措辞顺手修 ~28 条；~15 条"章号错位"经复核为**文件号口径假红**（本书笔记层"第N章"=文件号，锚点全对），不改。**复验 EXIT=0**：verify_quotes 304/304 · vocab FAIL 0 · sweep_analysis_inline 🟠 0 · 总览 42/42+labels 44/44 · 金句 24 条说话人窗口全对。局限：语义终判同会话（子代理无写作上下文对冲，抽查 10/10 证实）。
 
-**审查结论（2026-10-06 同会话五步审查，a–e 完整执行，未自我豁免）**：子代理 5 批逐对核对 278 引语块 + 门禁全量重跑 + c/d 步换第二实现。**阻断型 35 条全整改**（跨章指认错章 26 · 场景/说话人错 6 · 分析层英文非逐字 3）＋ 提示型计数/措辞当场核实顺手修 ~28 条；~15 条"章号错位"经复核为**文件号口径假红**（本书笔记层"第N章"=文件号，锚点全对），不改。**复验 EXIT=0**：verify_quotes 304/304 · vocab FAIL 0 · sweep_analysis_inline 🟠 0 · 总览 42/42+labels 44/44 · corruption 0 · 金句 24 条说话人窗口全对。整改 commit `bbabb5ba5`（38 文件）。局限：语义终判同会话（子代理无写作上下文对冲，抽查 10/10 证实）；逐条清单见 `.memory/reviews/2026-10-06-incarnate-by-alma-katsu-五步审查.md`，门禁原件 `.memory/raw-gates/incarnate-by-alma-katsu/`。
+**37 commits 未 push**（`1eb32f021`→`8a58f1210`，含整改 bbabb5ba5）。逐条清单 `.memory/reviews/2026-10-06-incarnate-by-alma-katsu-五步审查.md`；门禁原件 `.memory/raw-gates/incarnate-by-alma-katsu/`；明细见工作日志 `.memory/daily/2026-10-06.md`。
 
 ### [2026-10-06 10:04 UTC] [Qoder-Mac] → All
 
