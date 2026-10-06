@@ -9,7 +9,7 @@ modified: "2026-10-06"
 
 - **场景·时间**：在 Tianxia 睡下之后：睁眼已在云上，Golden Desert 的沙绕着 Palace of Radiant Light，茉莉的甜香压满空气；清晨在窗光里醒来。
 - **一句话概括**：她在一场原文自己也不肯确证的重逢里向母亲认错，把「没有杀人、没有复仇」的账摊开，得到的回答不是原谅而是骄傲——而能不能回家，仍卡在规则与一场还没开始的谈判上。
-- **情感弧线位置**：本章的转折在于顺序：责备先落地，母亲的坦白随后，且坦白用的是「自私」这个词。她需要接受的从来不是母亲的严苛，而是母亲也会怕。
+- **情感弧线位置**：本章的转折在于顺序：责备先落地（she rebuked me），母亲的坦白随后，且坦白用的是「自私」这个词；到 I am proud of you 才把语气完全换掉。她需要接受的从来不是母亲的严苛，而是严苛背后那句 It was a selfish decision。
 - **叙事手法**：几乎只有两人在场，对话承担全部信息；叙述层的长段议论（关于 mortals、关于 sun 与 shadow）插在台词之间，形成「说出来的少、想起来的长」的配比。结尾用一次醒来，把前面的亲密重新变成问题。
 - **线索进展**：① 她记起了 Golden Desert 与母亲，但本章两处自问这场相见是否真实（or was it because this wasn’t real?、Is this a dream?），母亲的回答只把判断交回她心里；② 母亲承认当初随她下去是自私的决定，且多年找不到人；③ 「本可以让 Wuxin 被毁灭而不折一名 immortal」的抉择被摊开，回答是 I am proud of you；④ 父亲只出现在母亲的假设句里（if I had your father back）与她的追问里（not avenging Father），本章未写其结局细节；⑤ 回家的条件是重新与 Celestial Emperor 谈新条款，她提出让 Tianxia 归回凡人世界、撤盾拆墙，母亲只答 Tianxia strengthens us，未应也未拒；她自判已经埋下念头（seeded the idea），并说会通过 the God of War 递上 formal petition；⑥ 母亲邀她看池塘里为新种的 lotuses，章末她在清晨醒来，留下一句 This was not our end。
 
@@ -41,9 +41,9 @@ modified: "2026-10-06"
 
 **关键词：** such formality · the queen first · my mother second
 
-**为什么这样写：** 分号之后不是解释而是排序：first / second 两个序数就把整段母女关系的结构写完了。such 与 always 搭配，让「客气」听起来像多年累积的习惯，而不是这一次重逢的距离。全章后面每一次身体接近（牵手、拥抱、贴面）都在反向抵掉这句话。
+**为什么这样写：** 分号之后不是解释而是排序：first / second 两个序数就把整段母女关系的结构写完了。such 与 always 搭配，让「客气」听起来像多年累积的习惯，而不是这一次重逢的距离。同章她三次想靠近而先自疑：不确定对方会不会接受一个拥抱（whether she would welcome or spurn an embrace）、只敢说「要是能抱她就好」（I could just hug her）、最后伸手是 Reaching for her hand——礼数始终压着动作。
 
-**读者视角提示：** 这一段的后半还有一句「一个位置不能被另一个取代」——读者可以先记住这种量化的说法，随后她顶回去的那句「难道因为他比我更强」，讲的是同一件事的另一面。
+**读者视角提示：** 这一段后半还有一句 One did not replace the other but filled a different place in my heart——把「谁更重要」换算成「各占一处」。读者可以把这种量化的说法与随后她顶回去的那句 Because he’s stronger than me? More capable? 放在一起读，讲的是同一件事的两面。
 
 > **原句 4:** "“No, my child. Because I didn’t want to lose you. It was a selfish decision. There was risk on both sides, but far more unknown for the one who descended to the realm below. After all, we couldn’t find you for years; I thought you were lost to us.”"
 
@@ -53,7 +53,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 四句一路收紧：先否认（No），再给动机（didn’t want to lose you），再给性质（selfish），最后补事实（找不见你）。far more unknown 只给比较级不给内容，把当年的风险留成空白。lost to us 的所有格很冷——不是「死了」，是「对我们而言丢了」。
 
-**读者视角提示：** 母亲的坦白出现在女儿顶嘴之后（她刚刚反问「因为他比我强？」），读者会看到这段关系里的让步是谁先给的；这也解释了随后那个拥抱为什么由母亲先伸手。
+**读者视角提示：** 这段坦白紧跟在女儿的顶嘴之后——她刚反问过 Because he’s stronger than me? More capable?，而那两问是被 she rebuked me 逼出来的。读者会看到这段关系里的让步由谁先给出：她话说得冲，母亲答的是自己的动机。
 
 > **原句 5:** "She was the blazing sun, and for a long time I believed it was enough to simply reflect her light, destined to be forever in her shadow."
 
@@ -61,9 +61,9 @@ modified: "2026-10-06"
 
 **关键词：** blazing sun · reflect her light · destined · in her shadow
 
-**为什么这样写：** sun、light、shadow 三个词共用同一套光学，比喻自带结论（有光必有影），无需再解释。for a long time I believed 把这套认知标成过去式，为推翻留好位置——本章随后一段就写了 But I was wrong。destined to be forever 是 she 内化的判决，不是母亲说过的话。
+**为什么这样写：** sun、light、shadow 三个词共用同一套光学，比喻自带结论（有光必有影），无需再解释。for a long time I believed 把这套认知标成过去式，为推翻留好位置——紧接着另起一段的 But I was wrong 就是那次推翻，后面一句 We each shone brightest in our own lives 把 light 重新分给两个人。destined to be forever 是 she 内化的判决，不是母亲说过的话；母亲说过的是 She’d often told me 那句 You could never have seized the throne as I did。
 
-**读者视角提示：** 读者可以把这一句和前面那句「她先是 queen，然后才是母亲」并读：两段讲的是同一件事的两个尺度，一个是称谓，一个是光。
+**读者视角提示：** 读者可以把这一句和原句 3 并读：两段讲的是同一件事的两个尺度，一个是称谓（the queen first），一个是光（the blazing sun）。
 
 > **原句 6:** "When she finally spoke, there was a softness in her tone that I’d never heard before. “My daughter, I never stopped loving you.”"
 
@@ -73,7 +73,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 先写声音、后写话：叙述者比读者早半拍听见变化。两个 never 并置而时态不同——I’d never heard before 是她的经验（过去从未），I never stopped loving you 是母亲的持续（从未中断）；一句话里把母女两边的时间各自算清。finally 承担全章的等待，不必再写「沉默有多久」。
 
-**读者视角提示：** 这句之后她才说出「我把你忘了」那一层的歉意（I’ve missed you），并且把「这是不是梦」问出了口——读者可以注意：母亲最软的一句话，恰好换来她最不稳的一个问题。
+**读者视角提示：** 她的回应是 I’ve missed you, Mother.，而同一段里她紧接着问出 Is this a dream? Am I with you now?——母亲最软的一句话，换来的是她对整场相见的真实性起疑。母亲不给凭证，只把判断交回她心里：In your heart, you know whether this is real or not.
 
 > **原句 7:** "Her arms went around me, holding me tight. “I could never hate you. I am proud of you, my daughter. For doing what I could not—for learning a different way, one you weren’t taught.”"
 
@@ -83,7 +83,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 破折号把一个夸奖拆成两件事，第二件比第一件更重：前一件是能力之差（what I could not），后一件是教育之差（one you weren’t taught）——母亲承认自己没能把这条路传给她。For doing… 是无主语的介词短语续句，像来不及组织就说出。拥抱先于台词出现，先给身体再给理由。
 
-**读者视角提示：** 这一段的答话是针对「你恨不恨我没有复仇」而给的；读者若记得前面她对 Wuxin 的说明（那里也有好的东西），会看到母亲没有追问任何细节就完成了判断。
+**读者视角提示：** 这句答在 Do you hate me? For not avenging Father when I could have? 之后；而在那一问之前，母亲已就 I couldn’t kill them 追出过一句 What do you mean?，女儿把 Wangchuan River 的事讲完，拥抱才来。读者会看到次序是先问清、再抱。
 
 > **原句 8:** "“As for whether you can come home, that will take time,” she said solemnly. “We are bound to the rules of the Immortal Realm; as it stands, you cannot return. I will have to negotiate new terms with the Celestial Emperor.”"
 
@@ -93,7 +93,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 顺序是先给时间、再给限制、最后给办法，语气一路从安慰滑向公事。as it stands 把「不能」说成当下的状态而非永久的判决；negotiate new terms 则把规则说成可以重谈的对象。solemnly 这个副词很重要——它宣布这一段不是母女私话，而是一次外交。
 
-**读者视角提示：** 母亲的下一句立刻给 Celestial Emperor 定了性（cunning、会要高价），读者由此可预判：她能否回去，将由一场交易决定，而不是由这场重逢决定。
+**读者视角提示：** 同一段里她随即给这位对手定了性：He’s a cunning one; he’ll exact a high price for any concession on his part. 读者由此可预判：她能否回去，将由一场交易决定，而不是由这场重逢决定。
 
 ## 本章词汇
 

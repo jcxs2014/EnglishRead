@@ -7,11 +7,11 @@ modified: "2026-10-06"
 
 ## 本章导航
 
-- **场景·时间**：temple 里的池塘边——她一个人对着水面上的两个倒影；后半段从码头乘小船回宫殿，船上只有她和 Aunt Shou。全章是一次连续行程：先看完两场镜中所见，再听完一船对白。本章出现的专名只有 the Mirror of Destiny、Temple of the Crimson Moon、pond、Wangchuan River、Netherworld、Kunlun 这几个，既没有一句交代她脚下这座 temple 落在哪一界，也没有说它是不是对白里提到的那座 Temple of the Crimson Moon。
+- **场景·时间**：temple 里的池塘边——她一个人对着水面上的两个倒影；后半段从码头乘一小船回宫殿，同船的是 Aunt Shou。全章是一次连续行程：先看完两场镜中所见，再听完一船对白。她脚下这座 temple 在本章始终只写作 temple——没有一个字交代它落在哪一界，也没有说它是不是对白里提到的那座 Temple of the Crimson Moon（Aunt Shou 那句是「Not in the Temple of the Crimson Moon」，说的是另一件事）。
 - **一句话概括**：她在镜中看清两条命运各自通向哪一片尸堆，于是两条都不认领；回到船上，她还得继续装作改造已成的那个自己，同时从 Aunt Shou 嘴里把这场买卖的底牌一句句套出来。
 - **情感弧线位置**：前半是下坠：恐惧→恶心→哀恸→「tears that never fell」；中段那句 I claim neither fate 是触底后的反弹；后半没有再跌下去，情绪被压进「说什么／不说什么」的判断里，直到最后一行才重新说出「I would forge my own future」。
 - **叙事手法**：两种视域硬接：前半是看（画面、颜色、动作，叙述者只作反应），后半是听（一问一答，信息全在对白里）。前半把自己写成 she／my image／this manifestation，后半回到第一人称的算计；人称的收放就是这一章的弧线。
-- **线索进展**：① 镜中两条路都以 Tianxia 被毁、尸堆成山作代价，差别只在谁动手；② 她取回的是 immortal awareness 而不是完整的 immortal：my power diminished、记忆仍 fragmented；③ Wuxin 靠 Wangchuan River 的水维生，而河水之力已在减弱、必须 rationed，这是他们需要 Mortal Realm 的理由；④ 开 gateway 这件事 Lord Dalian 已近油尽，只剩「作为 Tianxia 的统治者、作为他们之一」的她能做；⑤ 她已知自己是 Queen Caihong 的女儿，而船上的人还在只谈她的凡人出身——她反过来装作什么都不知道。
+- **线索进展**：① 镜中两条路都以 Tianxia 被毁、尸堆成山作代价，差别只在谁动手；② 她取回的是 immortal awareness 而不是完整的 immortal：my power diminished、记忆仍 fragmented；③ Wuxin 靠 Wangchuan River 的水维生，而河水之力已在减弱、必须 rationed，这是他们需要 Mortal Realm 的理由；④ 开 gateway 这件事 Dalian has almost exhausted himself in his attempts，能做的只剩「As the Lady of Tianxia, as one of us」的她；⑤ 她已知自己是 Queen Caihong 的女儿，而船上的人还在只谈她的凡人出身——她反过来装作什么都不知道。
 
 ## 精读
 
@@ -43,7 +43,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** one he’d taught her, that he’d taught me 里代词从 her 滑到 me，一句话把镜像和本人并成同一人：剑法是共用的，罪也就共用。破折号后面 the realization a punch to the gut 索性省掉动词，像挨的那一下来不及组织句子。整个动作场里 Zhangwei 一处台词也没有，只给了 his expression anguished——他被打的形状就是他的语言。
 
-**读者视角提示：** 镜中这一场他一句台词也没有：被打、被鞭、抬起手，全是动作。本章让他「出声」的只有一处，而且是转述——Zhangwei’s words resonated through me，至于那句话到底是什么，作者没有在本章写出来。于是本章里他留下的痕迹只有一种：one he’d taught her, that he’d taught me——他给她的东西全在招式里。
+**读者视角提示：** 镜中这一场他一句台词也没有：被打、被鞭、抬起手，全是动作。整章里归到他名下的「话」只落到一处——Zhangwei’s words resonated through me——而它前面单独成行的 Then write your own. 不带引号、也没有标说话人，读者无从断定那是具镜的声音还是她听成了他的话。他在这章留下的痕迹因此很薄：one he’d taught her, that he’d taught me——他给她的东西全在招式里。
 
 > **原句 4:** "Were they immortal, mortal, or Wuxin? In death, somehow, they all looked the same. Who among them truly deserved this vicious end?"
 

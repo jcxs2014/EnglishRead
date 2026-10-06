@@ -17,13 +17,13 @@ modified: "2026-10-06"
 
 > **原句 1:** "Aunt Shou was slumped on the ground beside Dalian’s body, his hand still clasped between hers. The tears had stopped, but the haunted expression in her eyes remained. How calm his face in death, stripped of bitterness, regret, and spite. I felt no pity for him."
 
-**中文理解：** Aunt Shou 瘫坐在 Dalian 的尸身旁，她的手仍握着他那只手。泪已经停了，眼里那种被吓住的神色却没有退。他死时的脸竟这样平静，恨意、悔恨、刻薄全被剥走。她说得很直：自己对他生不出怜悯。
+**中文理解：** Aunt Shou 瘫坐在 Dalian 的尸身旁，她的手仍握着他那只手。泪已经停了，眼里那种被吓住的神色却没有退。他死时的脸竟这样平静，恨意、悔恨、刻薄全被剥走。我说得很直：我对他生不出怜悯。
 
 **关键词：** slumped · haunted · stripped · spite · no pity
 
 **为什么这样写：** 清单式写法：先给身体（slumped、手仍握着），再给脸（平静），最后给「被剥走了什么」。stripped of bitterness, regret, and spite 三个抽象名词一次交清，等于替死者做最后一次清点。收尾的 I felt no pity for him 只有六个词，跟前一行铺张的丧礼画面重量完全不成比例——正是这个不成比例，让读者听见叙述者在压自己。
 
-**读者视角提示：** 注意这一段里没有一句替死者辩护；「该不该怜悯」被留给随后跪地的士兵与母亲的手。读者可以先记下这个不肯松口的态度，再看本章后面她对 Aunt Shou 说的那句软话。
+**读者视角提示：** 注意这一段里没有一句替死者辩护；「该不该怜悯」被留给随后跪地的士兵与母亲的手。读者可以先记下这个不肯松口的态度，再读她伸手握住 Aunt Shou 时说的 He loves you, Aunt Shou. As you love him.
 
 > **原句 2:** "“I have no wish to rule, I have no heart for it . . . it died with my children.”"
 
@@ -41,19 +41,19 @@ modified: "2026-10-06"
 
 **关键词：** only until · elected · resonated · inherited but earned
 
-**为什么这样写：** 三个单位一层层立规矩：先限时（only until），再给选人标准（serve the people），最后给权力来源（not be inherited but earned）。She spoke quietly, yet her voice resonated 是叙述者在这里仅有的一句评价，用「轻」与「响」的反差代替解释。最后一句是无主语泛论，语法上像律令，语用上像遗言——她正在把自己刚失去的儿子那一套东西改写法。
+**为什么这样写：** 三个单位一层层立规矩：先限时（only until），再给选人标准（serve the people），最后给权力来源（not be inherited but earned）。She spoke quietly, yet her voice resonated 是叙述者在这里仅有的一句评价，用「轻」与「响」的反差代替解释。末句是无主语泛论，语法上像律令；而她说这句话之前，刚放开 Dalian 的那只手（At last she released Dalian’s hand and rose to face the soldiers），所指因此不必点破。
 
-**读者视角提示：** 「不继承、要挣得」这句话随后在她自己身上应验一次：她向船夫求情用的，正是她刚接下的这个身份所能给的信用。
+**读者视角提示：** 「不继承、要挣得」这条规矩，同章应验在立规矩的人自己身上：船夫让步时说那是 my gift to the new ruler of the Netherworld，还补了一句 One who I believe is worthy of the title.——头衔先接下来，信用才被认。
 
 > **原句 4:** "“Zhangwei and I will have to stay here until we find a way back.” How heavy my heart was. We had won, yet lost so much."
 
-**中文理解：** 「Zhangwei 和我得留在这里，直到找到回去的路。」心有多沉。他们赢了，却失去这么多。
+**中文理解：** 「Zhangwei 和我得留在这里，直到找到回去的路。」我的心有多沉。我们赢了，却失去这么多。
 
 **关键词：** have to stay · a way back · How heavy · yet lost so much
 
-**为什么这样写：** How heavy my heart was 是没有谓语的感叹残句，插在台词与判断之间，像一个没说完的呼吸。We had won, yet lost so much 用 yet 把胜利与损失压进同一格；过去完成时（had won / had lost）把整场战争收进一行，本章此后所有关于「回去」的商量都在这半句的阴影里进行。
+**为什么这样写：** How heavy my heart was 是没有谓语的感叹残句，插在台词与判断之间，像一个没说完的呼吸。We had won, yet lost so much 用 yet 把胜利与损失压进同一格；助动词 had 只写了一次，lost 共用它，于是整场战争的赢与亏被收进同一时态，本章此后所有关于「回去」的商量都在这半句的阴影里进行。
 
-**读者视角提示：** 这句之后她立刻连发两个问题（能否送信、能否修好 gateway），读者会看到「不肯认输」与「已经认了」在同一人身上并行。
+**读者视角提示：** 同一段里她随即连发两问：Can we get a message to the Golden Desert? 与 could they restore the gateway?，读者会看到「不肯认输」与「已经认了」在同一人身上并行。
 
 > **原句 5:** "“The magic that helped create the gateway is no more. Queen Caihong—your mother—was only able to craft the enchantment because the archway existed in the first place, the one that linked Kunlun to here.”"
 
@@ -63,15 +63,15 @@ modified: "2026-10-06"
 
 **为什么这样写：** 两个破折号之间塞进一个同位语（your mother），一句里同时交代设定与身世，且顺序是设定在前、身世在后——这与读者的期待正好相反。因果被写得很硬：法术不是原因，拱门才是；所以法术无法再造。Zhangwei 的语气没有安慰成分，全段是一个技术性的否定。
 
-**读者视角提示：** 回不去的原因由他口中说出，而不是由叙述者自陈——留意这一章里「坏消息由谁说」的分工；也正是这句话之后，她才转向 Wangchuan 河上的另一条路。
+**读者视角提示：** 回不去的原因由他口中说出，而不是由叙述者自陈——留意本章「坏消息由谁说」的分工。开口找另一条路的是她自己：What about the Eternal Boatman? Could he help us? 紧接的一句 I was grasping at threads 承认她抓的是稻草。
 
-> **原句 6:** "“The water from the Wangchuan River consumes all memories,” he said. “It gives as much as it takes, offering peace in place of misery—for many of the spirits trapped here suffer from the same thing: a broken heart."
+> **原句 6:** "“The water from the Wangchuan River consumes all memories,” he said. “It gives as much as it takes, offering peace in place of misery—for many of the spirits trapped here suffer from the same thing: a broken heart. Whether a loved one lost, dreams unfulfilled, or betrayal—they are unable to move on, unable to forget.”"
 
-**中文理解：** 「Wangchuan 河的水吞掉全部的记忆，」他说。「它给的和拿走的一样多——用安宁换掉苦楚，因为被困在这里的许多魂灵受的是一样的伤：一颗碎掉的心。」
+**中文理解：** 「Wangchuan 河的水吞掉全部的记忆，」他说。「它给的和拿走的一样多——用安宁换掉苦楚，因为被困在这里的许多魂灵受的是一样的伤：一颗碎掉的心。所爱之人逝去、梦想未曾实现、或是被背叛——他们无法往前走，无法忘掉。」
 
-**关键词：** consumes all memories · gives as much as it takes · in place of misery · a broken heart
+**关键词：** consumes all memories · gives as much as it takes · in place of misery · a broken heart · unable to forget
 
-**为什么这样写：** gives as much as it takes 用等量对举，把一场掠夺说成公平交易；in place of misery 是「替换」而不是「治愈」，措辞里已经承认原本的苦并没消失。冒号后落在 a broken heart，全段最短、最具体，前面所有抽象名词（memories、misery、spirits）都被它收成一样东西。船夫的话是安慰式的，功能却是报价。
+**为什么这样写：** gives as much as it takes 用等量对举，把一场掠夺说成公平交易；in place of misery 是「替换」而不是「治愈」，措辞里已经承认原本的苦并没消失。冒号后落在 a broken heart，全段最短、最具体，前面所有抽象名词（memories、misery、spirits）都被它收成一样东西；随后三个名词（a loved one lost、dreams unfulfilled、betrayal）越列越短，最后两个 unable 用重复收尾。船夫的话是安慰式的，功能却是报价。
 
 **读者视角提示：** 读者可以把这段当作一份条件说明：他并没有威胁，只是不接受议价。她随后替被困的魂灵反问的那一句，正是从这里长出来的疑问。
 
@@ -83,7 +83,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** the former 是公文式的指代，被用在一个残酷的报价上——语气越平，代价越冷。结构上先分类再取舍（冒号给分类，下句给取舍），读起来像条款。这一段的作用是把她的双重身份从「设定」改写成「要付账的项目」：她的处境改由别人来定价。
 
-**读者视角提示：** 船夫的判断（neither quite mortal nor immortal）与本章前面 Aunt Shou 那句「我给你们安排住处」互为反衬：一个要把她的一半拿去做路费，一个想把她的一半留住。
+**读者视角提示：** 船夫给她的判定是 neither quite mortal nor immortal，而 Aunt Shou 留她时说的是 Why not remain here with me?——一个要取走她的一半作路费，一个想把她的一半留住。
 
 > **原句 8:** "“We don’t cage those we love, we set them free,” Aunt Shou said quietly. “Keeping someone against their will isn’t love but selfishness, weighing your happiness above theirs.”"
 
@@ -91,9 +91,9 @@ modified: "2026-10-06"
 
 **关键词：** cage · set them free · against their will · isn’t love but selfishness · weighing
 
-**为什么这样写：** cage 用作动词，与 free 构成一对；isn’t love but selfishness 用 not…but 把一个定义硬掰回来。weighing 一词把「爱」换算成称重：谁的那一头沉。说话人刚刚在同一个上午失去长子、又必须主持葬礼，这句话因此不是格言而是自我削减——她正在把自己想留下的那部分愿望亲手删掉。
+**为什么这样写：** cage 用作动词，与 free 构成一对；isn’t love but selfishness 用 not…but 把一个定义硬掰回来。weighing 一词把「爱」换算成称重：谁的那一头沉。说话人这一章是从守着 Dalian 的尸身开始的（slumped on the ground beside Dalian’s body），中途又说要回去 prepare for my son’s funeral——这句话因此不是格言而是自我削减，她正在把自己想留下的那部分愿望亲手删掉。
 
-**读者视角提示：** 这句话之后她的动作比语言更快：她点头接过杯子，又说 There is much I wish to forget。读者可以把「放开别人」与「想忘掉自己」并排读，本章真正的代价在这里对齐。
+**读者视角提示：** 说这句的人自己随后点头说出 There is much I wish to forget.，又从船夫手里接过那只杯子（Aunt Shou inclined her head as she accepted the cup）。读者可以把「放开别人」与「想忘掉自己」并排读，本章真正的代价在这里对齐。
 
 ## 本章词汇
 

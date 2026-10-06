@@ -71,7 +71,7 @@ modified: "2026-10-06"
 
 **关键词：** she never hated you · couldn’t show her feelings · our plan would have failed
 
-**为什么这样写：** 这是本章最长的一段解释型对白，但作者把它压进一个情感反转里：先给结论（她爱你），再给条件（那时你还不该知道）。even though it hurt her 被放在句子中间，让母亲的受苦不被「计划」吞掉——理由成立，账还是要记。weren’t meant to know—not until 这组否定加时限，把隐瞒写成时间问题而不是意愿问题，正好接住她上一句 Does she hate me now?。
+**为什么这样写：** 这段是本章替 Queen Caihong 翻案的话，但作者把它压进一个情感反转里：先给结论（她爱你），再给条件（那时你还不该知道）。even though it hurt her 被放在句子中间，让母亲的受苦不被「计划」吞掉——理由成立，账还是要记。weren’t meant to know—not until 这组否定加时限，把隐瞒写成时间问题而不是意愿问题，正好接住她上一句 Does she hate me now?。
 
 **读者视角提示：** 这一章里三个人的动机是分开交付的：Aunt Shou 与 Lord Dalian 的算计、Queen Caihong 的沉默、Zhangwei 自己的隐瞒，各有各的说明处。别把它们并成一句「都是为她好」——并成就读错了。
 
