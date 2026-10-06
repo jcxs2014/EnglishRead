@@ -63,7 +63,7 @@ modified: "2026-10-06"
 
 **中文理解**：他看着围上来的四个人，心跳加快，拳头攥紧——他想动手，可那又怎样？动手能改变什么？他想象过媒体大炒 Beatrice Harrington 的儿子当众闹事、伤害其他孩子的样子；父母早就警告过他别惹事。他不想给他们这个把柄：让他们扫兴。他在最后一秒收回拳头，转身离开。
 
-**关键词：** I give each and every one death glares（我把每一个人都瞪了一遍）；Get violent?（动手吗）；the media having a field day（媒体大炒一场）；I’d never do that to her（我绝不对她那样）
+**关键词：** I give each and every one death glares（我把每一个人都瞪了一遍）；Get violent?（动手吗）；the media having a field day（媒体大炒一场）；I would never do that to her（我绝不对她那样）
 
 **为什么这样写：** 这一格是全书他最重要的一次**克制**（全章他唯一一次逼近动手又收回），而作者把它写成**一场计算**：hot head 先说不能打，然后他算媒体、算父母、算他会成为新闻。搏斗冲动在这里不是被压制的，是被**推理**掉的，于是作者借这次冲突顺手交代了父母对他的处境绑定。而这一段的收尾是一个动作而不是一句话（turn on my heels）：他带着一个笑走开，而作者不解释那个笑是什么。
 
