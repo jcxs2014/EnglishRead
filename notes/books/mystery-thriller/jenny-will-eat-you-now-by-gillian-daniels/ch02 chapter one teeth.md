@@ -21,7 +21,7 @@ modified: "2026-10-06"
 
 **关键词：** the languages that trip out over their tongues · nattering and squabbling and laughing · sea shanties that lulled her to sleep · It didn’t matter if they were in English, French, Irish, or dialects of Arabic · She has stayed because of that
 
-**为什么这样写：** 作者用 trip out（跌落）这个动作描述语言从人嘴里出来，暗示那些词对她而言是会掉落的东西，得靠听才接得住。三个 -ing 词（nattering/squabbling/laughing）只写声音不写内容，于是「人类的聒噪」本身成了她理解这个世界的入口。末句把「留下」这个决定直接系在一件无用的事上（听歌），不系在任何功利理由上——这是全书唯一一次她不为吃而停留。
+**为什么这样写：** 作者用 trip out（跌落）这个动作描述语言从人嘴里出来，暗示那些词对她而言是会掉落的东西，得靠听才接得住。三个 -ing 词（nattering/squabbling/laughing）只写声音不写内容，于是「人类的聒噪」本身成了她理解这个世界的入口。末句把「留下」这个决定直接系在一件无用的事上（听歌），不系在任何功利理由上——这是全书唯一一次，她为一件没用的事决定留在原地。
 
 **读者视角提示：** 请记住「她留下是因为歌」这件事。它是后面她愿意和人类合作的第一道缝。
 
