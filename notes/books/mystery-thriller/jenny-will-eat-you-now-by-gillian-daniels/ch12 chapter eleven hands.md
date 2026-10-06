@@ -117,8 +117,6 @@ modified: "2026-10-06"
 
 | 词/短语 | 释义 | 原文例句 |
 |---|---|---|
-| Chapter | 章；章节 | Chapter Eleven: Hands |
-| Eleven | 十一 | Chapter Eleven: Hands |
 | success | 成功；得意 | The first thing Jenny wants to do is tell Faun and Clyde of her great success. |
 | pushes | 推 | She pushes open the front door with its bright pink and searing orange symbols that threaten to burn her retinas. |
 | bright | 明亮的 | She pushes open the front door with its bright pink and searing orange symbols that threaten to burn her retinas. |
