@@ -23,7 +23,7 @@ modified: "2026-10-06"
 
 **为什么这样写：** 作者把她被排除的方式写成一次派工不公，而不是一次孤立：别人都领到了角色，只有她不知道自己该说什么、该做什么。同一段紧接着写男生排着队邀舞的热闹，正好是这句「没有剧本」的反证。
 
-**读者视角提示：** 请记住这个比喻在她后来的处境里还会被反过来用一次。这一章里它是准确的——她确实不知道该按哪一套说法过日子。
+**读者视角提示：** 注意作者紧接着给出的翻面：同学的人生是 `planned out at seventeen`——毕业、嫁高中 sweetheart、在父亲五金店里生孩子。同一章里，被派到戏里却没有剧本的人不止她一个；她只是**拒绝照剧本演**的那一个。
 
 > **原句 2:** The world kept turning. Life for them was all birthday parties and Easter egg hunts. It wasn’t that Audrey judged them—if anything she felt like a shopper on the other side of the window display looking in, longing to buy something she couldn’t afford.
 
