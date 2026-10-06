@@ -1,0 +1,81 @@
+# ch01 试产门禁原件  2026-10-06 07:21 UTC
+# lane: 完整 lane（library/*.epub 在位）
+
+$ python3 scripts/verify_quotes.py "notes/books/novels/immortal-by-sue-lynn-tan" "$EPUB"
+ch01 chapter 1.md: 8/8 ✅
+
+=== 总计 8/8 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+$ python3 scripts/verify_quotes.py --full
+ch01 chapter 1.md: 8/8 ✅
+
+=== 总计 8/8 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+$ python3 scripts/check_vocab.py
+  [P0-4] 正文章节 1 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 32
+
+--- FAIL (0) ---
+
+--- WARN (0) ---
+
+$ python3 scripts/check_entities.py
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+$ python3 scripts/corruption_scan.py
+
+=== 编辑损坏扫描（immortal-by-sue-lynn-tan）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+$ python3 scripts/sweep_full.py
+=== 引语整串 flat 比对（immortal-by-sue-lynn-tan）===
+  参照集：text/ 逐章（47 章，可定章） + epub 交叉验证
+  ✅ 本章命中 8 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+$ python3 scripts/check_chapter_quotes.py 1 ch01
+ch01 chapter 1.md: 8/8 in ch01 text
+
+$ python3 scripts/check_anchor.py
+=== 关键词锚定自查（immortal-by-sue-lynn-tan）===
+  扫 1 个 md，8 个引语块，8 条关键词行
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（47 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+$ python3 scripts/check_quote_blocks.py
+=== 引语块结构对账（immortal-by-sue-lynn-tan）===
+  带前缀的 `> **原句 N:**` 行：1 个文件共 8 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+$ python3 scripts/audit_structure.py
+=== 精读结构扫描（immortal-by-sue-lynn-tan）===
+  扫 1 个 md、8 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+$ python3 scripts/sweep_analysis_inline.py
+=== 分析层行内英文逐字核查（immortal-by-sue-lynn-tan）===
+  参照集：text/（47 个提取件） + epub 交叉验证 ；扫 1 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：38 个表格行、33 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 35 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 0
+
+$ python3 scripts/check_nav_layer.py
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+$ python3 scripts/check_block_coverage.py
+✅ 块覆盖对账：1 个文件，每块都进了 verify_quotes 校验
+
+$ python3 scripts/check_short_quotes.py
+=== 短引语兜底核对（immortal-by-sue-lynn-tan）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+$ python3 scripts/audit_numbers.py
+=== 计数断言核查（immortal-by-sue-lynn-tan）===
+  扫 1 个 md；抓到断言 0 条（含不可机械核查的年龄/百分比 0 条）
+  词数口径：连写算 1 词（`well-known`=2、`don't`=1）—— 差 1 极可能是口径而非错误
+  ❌ 不符（差 ≥2）0 ｜ ⚠️ 差 1 0 ｜ ❓ 参照串未解析未判 0 ｜ ⚪ 不可机械核查 0
