@@ -1,0 +1,25 @@
+=== 批6b门禁 ch08 2026-10-06 ===
+--- verify_quotes ---
+ch08 chapter eight.md: 8/8 ✅
+
+=== 总计 67/67 引文可核实（100%）；完全干净文件 9/9；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- check_vocab ---
+--- FAIL (0) ---
+--- WARN (14) ---
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption_scan ---
+  FAIL 0 处（U+FFFD / 双句号）
+--- sweep_full ---
+  ✅ 本章命中 67 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+--- check_chapter_quotes 08 ---
+全章扫描: 解析引语块 67，命中本章 67（100%）
+✅ 全部引语均归属正确章节
+--- check_nav_layer ---
+=== 导航/总结层英文核对：❌ 1 ｜ ⚠️ 1 ===
+--- check_block_coverage ---
+✅ 块覆盖对账：9 个文件，每块都进了 verify_quotes 校验
+--- audit_structure ---
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+  ⚠️ ch00 book of mountain wisdom september.m  引语 3 个，与本书众数 8 相差过大
