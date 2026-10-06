@@ -84,7 +84,7 @@ modified: "2026-10-06"
 
 **中文理解**：剥到肌肉时，「你」想起女儿曾经指责你缺少力量——指的就是那次选择：接下母亲的行当、收起战杖退役、从此替死人备办身后事。抽象的指控具体到三个动作。
 
-**句子结构**：主句 This was the same strength 是 was + the same + 名词的系表结构，后接省略 that 的定语从句 she accused you of lacking；accede 的宾语是抽象名词 strength 而非行为；when 引导的时间状语从句内部是三个并列谓语 chose / retired / chose，共用主语 you，并以介词短语 preparing the dead for their passing 收尾。
+**句子结构**：主句 This was the same strength 是 was + the same + 名词的系表结构，后接省略 that 的定语从句 she accused you of lacking；accused 的宾语（of 之后的成分）是抽象名词 strength 而非行为；when 引导的时间状语从句内部是三个并列谓语 chose / retired / chose，共用主语 you，并以介词短语 preparing the dead for their passing 收尾。
 
 **关键词**：accused / staff / preparing
 

@@ -73,7 +73,7 @@ modified: "2026-10-06"
 
 **中文理解**：祖父把砌屋的方位口诀一句句交出来：头骨放在北墙墙脚、眼睛朝北；右手指东但脸朝北，左手指西但脸朝南；两条腿在南墙交叉，脚尖朝外。
 
-**句子结构**：四句指令全部由方位名词短语搭骨架（at the base of the northern wall / goes East / goes West / at the southern wall），后面一律挂一个分词短语交代朝向（eyes facing North / pointing North / pointing South / toes pointing out）。分号连接前两句方位，最后 `and you cross …` 收尾。
+**句子结构**：两个长句承载四组方位指令（at the base of the northern wall / goes East / goes West / at the southern wall），每组后面一律挂一个分词短语交代朝向（eyes facing North / pointing North / pointing South / toes pointing out）。分号连接前两组方位，最后 `and you cross …` 收尾。
 
 **关键词**：
 - *skull* — 头骨
@@ -190,7 +190,7 @@ modified: "2026-10-06"
 
 > **原句 10:** "I get it. Why go back where you’re not wanted? It only leads to more pain. If only we could go far, far away from here."
 
-**中文理解**：Maria 拒绝回父母那边：既然在哪儿都不被需要，回去只会换来更多痛苦；她只希望两个人能走得远远的，离开这里。
+**中文理解**：Hristian 接住 Maria 的摇头接着说：既然在哪儿都不被需要，回去只会换来更多痛苦；他只希望两个人能走得远远的，离开这里。
 
 **句子结构**：三句递进。先表态 `I get it.`；再设问 `Why go back where you’re not wanted?`；随后用 `It only leads to more pain.` 回答自己的设问；末句换成虚拟语气 `If only we could go far, far away from here.`，`far, far` 的重复把愿望拉长。
 
@@ -199,9 +199,9 @@ modified: "2026-10-06"
 - *pain* — 痛苦
 - *far* — 远（原文连用两次）
 
-**表达方式**：全篇最后一记重音交给一个没有魔力的祈使式虚拟句；她说的只是「走远一点」，屋子却真的站起来了。
+**表达方式**：全篇最后一记重音交给一个没有魔力的祈使式虚拟句；说的只是「走远一点」，屋子却真的站起来了。
 
-**为什么这样写**：本篇的魔法从不落在咒语上：让它启动的是外人一句关于「不被需要」的判断。结尾因此不是 Hristian 召唤的结果，而是他与 Maria 之间真正的一次合作。
+**为什么这样写**：本篇的魔法从不落在咒语上：让它启动的是**他自己**一句关于「不被需要」的判断——叙述层随即写明 `As soon as he says it`，屋子就动了。结尾因此不是任何一句咒语的结果，而是他与 Maria 之间真正的一次合作。
 
 ---
 
