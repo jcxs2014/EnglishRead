@@ -25,7 +25,7 @@ modified: "2026-10-06"
 
 **读者视角提示**：这是全章唯一一处向后看的句子，像在事故报告里预先写下的"事故原因待查"。记住这个问句——它要到很后面才会被回答。
 
-> **原句 2:** The internet is flooded with fake people generated on SonaAI. Her lip curls at the crudeness of most of them. The too-big eyes, like those paintings of hungry waifs from the seventies. Lips as poufy as pillows, legs like stilts.
+> **原句 2:** The internet is flooded with fake people generated on SonaAI. Her lip curls at the crudeness of most of them. The too-big eyes, like those paintings of hungry waifs from the seventies. Lips as poufy as pillows, legs like stilts. They end up more like caricatures of people than like anything else. Because everyone thinks they can do it—everyone thinks they can make the perfect being, the perfect creation.
 
 > I’ll show them how it’s done.
 
@@ -72,6 +72,8 @@ modified: "2026-10-06"
 **读者视角提示**：谁都想跟谁做朋友——这是全书最伤感的一行愿望清单。它证明伊莎贝拉不是商业项目，是一封写给十二岁自己的补票信。
 
 > **原句 6:** Looks like you made a friend. She’s beautiful.
+
+> Dorothy does a double take. Who is this?
 
 > Don’t keep her all to yourself, now. She could take you far.
 
