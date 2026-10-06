@@ -11,7 +11,7 @@ modified: "2026-10-06"
 - **一句话概括**：昏迷者获救送医（现场还接到过一通匿名报案电话——谁打的？），Rowan 回家后向 Gran 汇报；Gran 承认要找回 Zephyrine 只剩一条路——被 Linden 交易给蛾翼人的巫典 diablerie；家中飞入「乌鸦大小」的鸟（死亡预告），Gran 自觉时日无多；Rowan 定下交易计划：帮 Hadrian，换 diablerie，并在 Sorrel 提点下想起「几滴血就能逼出真话」的血咒暗能力；当夜她烧掉枫翅果——黑烟实体般钻出窗缝，种子荚凭空消失。
 - **情感弧线位置**：结盟前夜。她在电话里对 Sorrel 承认对 Hadrian「又怒又松了口气」，又当着 Gran 把他的回归按住不表——两副面孔中间站着家族：为 Gran 找回妹妹，她决定跟最恨的人做交易。
 - **叙事手法**：双线汇报体（对官方只说听见、对 Gran 全盘托出、对自己承认动摇）；民俗征兆（鸟入宅）与博物学（蛇纹纹身）互为印证；血咒设定用童年旧事（Linden 咬了她又自己招了）轻巧带出；烧翅果一段全用物理细节写召唤（黑烟的「固体感」、无味、无痕）。
-- **线索进展**：① 伤者手部皮肤如挖土磨烂、指甲缝有泥、左手小指指尖陈年缺失（未获妥善医治的旧伤）；② Ellis：「It wasn't luck. The Teays River District office got an anonymous voicemail」——匿名报案人身份成谜（Hadrian？）；③ Rowan 对官方口径：「I only heard their voices」；④ Gran 在旧书里找救 Zephyrine 的法子，承认只剩 diablerie 可求；⑤ diablerie=家族最古老、更强力但有代价的书；Zephyrine 主张人人可用，Gran 主张封存——姐妹反目的真因；⑥ 此书被 Linden 交易给蛾翼人以救「the person she loves」；⑦ 鸟入宅=死亡预告，Gran 说那只「big as a crow」；⑧ Rowan 的hip纹身来历：反复梦见蛇缠 rowan 树咬尾；⑨ 姐妹分工：Linden=heart、Juniper=spirit、Sorrel=brains、Rowan=muscle/mouth；⑩ 血咒：几滴血可逼人吐秘（童年发现，只用过一次）；⑪ 翅果焚毕：黑烟有实体感、无味无痕，「as if it never existed at all」。
+- **线索进展**：① 伤者手部皮肤如挖土磨烂、指甲缝有泥、左手小指指尖陈年缺失（未获妥善医治的旧伤）；② Ellis 一句「The Teays River District office got an anonymous voicemail」——不是运气，是有人匿名报案；报案人身份成谜（Hadrian？）；③ Rowan 对官方口径：「I only heard their voices」；④ Gran 在旧书里找救 Zephyrine 的法子，承认只剩 diablerie 可求；⑤ diablerie=家族最古老、更强力但有代价的书；Zephyrine 主张人人可用，Gran 主张封存——姐妹反目的真因；⑥ 此书被 Linden 交易给蛾翼人以救「the person she loves」；⑦ 鸟入宅=死亡预告，Gran 说那只「big as a crow」；⑧ Rowan 的hip纹身来历：反复梦见蛇缠 rowan 树咬尾；⑨ 姐妹分工：Linden=heart、Juniper=spirit、Sorrel=brains、Rowan=muscle/mouth；⑩ 血咒：几滴血可逼人吐秘（童年发现，只用过一次）；⑪ 翅果焚毕：黑烟有实体感、无味无痕，「as if it never existed at all」。
 
 ## 精读
 
