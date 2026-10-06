@@ -53,7 +53,7 @@ modified: "2026-10-06"
 
 **为什么这样写**：克莱尔的可怕被写成一台安检机——X-ray vision 的幽默里全是忌惮：在能看穿一切的人面前，多萝西的全部行李都是透明的。这个比喻也为本章定调：这顿午餐就是一次开箱检查。
 
-**读者视角提示**：对照第七章"她手握验谎权"——克莱尔与多萝西的攻防从来是"看穿"与"被看穿"的军备竞赛。
+**读者视角提示**：对照第十二章"她手握验谎权"——克莱尔与多萝西的攻防从来是"看穿"与"被看穿"的军备竞赛。
 
 > **原句 5:** Maybe you should look at this another way, Isabella. Your industry, the influencer industry, thrives on turmoil. Drama.
 
@@ -83,7 +83,7 @@ modified: "2026-10-06"
 
 **为什么这样写**：恐慌发作的描写用了因果链——无法呼吸、影像浮动、归因、定价，一步不缺。the more…the higher 的句式把侏儒怪的交易条款翻译成经济学：收益与账单同步计息。这不是比喻了，是她的会计学。
 
-**读者视角提示**：第二十四章她还在给自己辩护（"更糟的交易有的是"），这一章她亲手把那句话作废。认知的翻面用了整整一章。
+**读者视角提示**：第二十章她还在给自己辩护（"更糟的交易有的是"），这一章她亲手把那句话作废。认知的翻面走了五章。
 
 > **原句 8:** She just can’t get the idea out of her head that something disastrous is going to happen. There’s always a price to pay.
 
@@ -103,7 +103,7 @@ modified: "2026-10-06"
 |---|---|---|
 | intimidating | 气场逼人的 | Second, the woman is hella intimidating. |
 | glad-handing | 虚情寒暄 | Maybe it’s because she has zero interest in glad-handing or trying to ingratiate herself with whoever she’s speaking to. |
-| ingratiate | （ingratiate oneself）讨好 | Maybe it’s because she has zero interest in glad-handing or trying to ingratiate herself with whoever she’s speaking to. |
+| ingratiate | 讨好 | Maybe it’s because she has zero interest in glad-handing or trying to ingratiate herself with whoever she’s speaking to. |
 | short-tempered | 一点就着的 | Being in constant pain makes Dorothy short-tempered. |
 | Athleisure | 运动休闲风穿搭 | Athleisure will have to do. |
 | disastrous | 灾难性的 | She just can’t get the idea out of her head that something disastrous is going to happen. |
@@ -126,8 +126,8 @@ modified: "2026-10-06"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| security | （security deposit）押金 | If you need money for a security deposit or something, I’m sure we can work it out. |
-| camera loves | （the camera loves you）镜头缘 | But the camera loves you. |
+| security | 押金 | If you need money for a security deposit or something, I’m sure we can work it out. |
+| camera loves | 镜头缘 | But the camera loves you. |
 | hot water | 热水 | The hot water of the shower feels good against Dorothy’s body. |
 | pepper mill | 胡椒研磨器 | He hurriedly lays the plates before them, offers the pepper mill, then darts away like a hummingbird. |
 | permanent address | 固定住址 | It’s complicated because I don’t have a permanent address right now,” she says. |

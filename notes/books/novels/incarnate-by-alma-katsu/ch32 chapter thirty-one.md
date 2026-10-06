@@ -43,7 +43,7 @@ modified: "2026-10-06"
 
 **关键词**：walled off · Perfect
 
-**为什么这样写**：乡间小屋的安全感被写成主动筑墙——walled off 呼应第二十四章粉丝为托尼筑的那堵"无法穿透的墙"：这次她给自己砌了一座。Perfect 单独成段回收第四章的"完美"（她评价藏身律师楼那个词）——她人生两次说"完美"，一次选律师，一次选坟场般的安静。
+**为什么这样写**：乡间小屋的安全感被写成主动筑墙——walled off 呼应第二十四章粉丝为托马萨筑的那堵"无法穿透的墙"：这次她给自己砌了一座。Perfect 单独成段回收第十一章的"完美"（她评价藏身律师楼那个词）——她人生两次说"完美"，一次选律师，一次选坟场般的安静。
 
 **读者视角提示**：对照第十九章她逃回家"想要 solitude"——那时是避难，这时是隐居。她正在把创伤应激反应过成生活方式。
 
@@ -53,7 +53,7 @@ modified: "2026-10-06"
 
 **关键词**：fugitive · murderer
 
-**为什么这样写**：三连罪的点名册——liar、thief 都是她早已领过的头衔，省略号之后 murderer 才是新增项。句式像在自报家门，语气却平得像填表格：她给自己的罪名定档了。第十一章"I am her"的句式在此变成"I am a murderer"——身份宣言的最后一版。
+**为什么这样写**：三连罪的点名册——liar、thief 都是她早已领过的头衔，省略号之后 murderer 才是新增项。句式像在自报家门，语气却平得像填表格：她给自己的罪名定档了。第十一章"I am her"的宣言在此换成一份罪名清单——身份陈述的最后一版。
 
 **读者视角提示**：从"冒充者"到"三料罪犯"，她的身份档案至此写完。全书的剩余部分只处理一个问题：这些头衔怎么使用。
 
@@ -85,7 +85,7 @@ modified: "2026-10-06"
 
 **为什么这样写**：妈妈的留言是全书的谜底宣读——make it look like she'd done it herself 一句把序章的"事件"从霸凌纠纷改写成预谋谋杀案。三个省略号是十年的三次哽咽。had I made a terrible mistake 以问句收尾，而答案读者已经知道：她确实错了，错在十年前就该信女儿需要的是医生，不是辩护律师。
 
-**读者视角提示**：把这段与序章连读——Gruber 那句"是你自己删了短信"的悬案、"她们该被关起来"的控诉，全部在此获得第二次解读。序章第一次读是受害者的自辩，现在读是作案者的陈述。
+**读者视角提示**：把这段与序章连读——格鲁伯那句"警察没找到那些短信，对吧"的悬案（而"是她删的"出自多萝西自己之口）、"她们该被关起来"的控诉，全部在此获得第二次解读。序章第一次读是受害者的自辩，现在读是作案者的陈述。
 
 > **原句 8:** It had been a good plan. Dorothy deserved everyone's sympathy after being publicly tormented by these three girls. So if one of them was so sorry for what she'd done that she tried to make amends by taking her own life, everyone would understand. It would've been beautiful, poetic justice.
 
@@ -116,7 +116,7 @@ modified: "2026-10-06"
 |---|---|---|
 | pamphlet | 小册子 | using the time to execute some of the steps in the pamphlet Ger gave her. |
 | treatise | 论著 | He’s already disappeared, even though his personality is all over this little treatise. |
-| committed | （commit to memory）铭记 | She’s read its scant pages so many times already that she feels she’s committed it to memory. |
+| committed | 铭记；牢记 | She’s read its scant pages so many times already that she feels she’s committed it to memory. |
 | nonsense | 无稽之谈 | It’s all romantic and probably complete nonsense, but it has become her life in short order. |
 | slapdash | 草率拼凑的 | It’s all very slapdash, but it gives her the illusion of feeling like she knows what she’s doing. |
 | illusion | 幻觉；错觉 | It’s all very slapdash, but it gives her the illusion of feeling like she knows what she’s doing. |

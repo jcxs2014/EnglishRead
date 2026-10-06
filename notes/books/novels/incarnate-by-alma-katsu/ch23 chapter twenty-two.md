@@ -31,7 +31,7 @@ modified: "2026-10-06"
 
 **关键词**：monarch · courtiers
 
-**为什么这样写**：网红合宿被写成宫廷剧——monarch 与 courtiers 两个词把点赞经济翻译回封建制：恩宠、召见、座次。她自称在学"平台礼仪"，实际误入的是一台旧制度机器。这句也为全章审判戏定调：廷臣的忠心只在君主点头时存在。
+**为什么这样写**：网红合宿被写成宫廷剧——monarch 与 courtiers 两个词把点赞经济翻译回封建制：恩宠、召见、座次。她自认吃透了平台的规矩，实际误入的是一台旧制度机器。这句也为全章审判戏定调：廷臣的忠心只在君主点头时存在。
 
 **读者视角提示**：记住这张座次表——两天后她被"拖出宫廷"时，用的还是同一套规则。
 
@@ -41,7 +41,7 @@ modified: "2026-10-06"
 
 **关键词**：panties · nose
 
-**为什么这样写**：恐怖片式的偷窥镜头以监控视角呈现——省略号停在"掏出"之后，把揭晓拖成慢动作。buried his nose 的动作细节让猥亵不再抽象：他连掩饰都懒得做。这一幕同时交代了她行李箱里的防御工程（分层装、抽屉假阵）的必要性。
+**为什么这样写**：恐怖片式的偷窥镜头以监控视角呈现——省略号停在"掏出"之后，把揭晓拖成慢动作。buried his nose 的动作细节让猥亵不再抽象：他连掩饰都懒得做。这一幕也交代了托尼翻找的从容——她的行李在他手里毫无防御。
 
 **读者视角提示**：这个偷窃场面是她此后所有"把柄"逻辑的起点——受害者手里第一次攥住了别人的罪证。
 
@@ -61,7 +61,7 @@ modified: "2026-10-06"
 
 **关键词**：competitors · attention
 
-**为什么这样写**：酒杯边的清醒判决——先拆穿友谊（competitors），再指认奖品（attention），最后承认自己的多疑并保留怀疑权。第章的"注意力物质论"在此兑现成人际结构：奖品唯一，则全员为敌。破折号里的自我怀疑是她的习惯性让步，但直觉的账本从不出错。
+**为什么这样写**：酒杯边的清醒判决——先拆穿友谊（competitors），再指认奖品（attention），最后承认自己的多疑并保留怀疑权。第二十章的"注意力物质论"在此兑现成人际结构：奖品唯一，则全员为敌。破折号里的自我怀疑是她的习惯性让步，但直觉的账本从不出错。
 
 **读者视角提示**：这是她在本书第一次主动承认"想要朋友"的愿望落空——她把失落归档为行业常识，档案编号：正常损耗。
 
@@ -111,7 +111,7 @@ modified: "2026-10-06"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | impostor | 冒名顶替者 | A frisson of impostor syndrome before Dorothy sticks out her hand. |
-| syndrome | （impostor syndrome）冒充者综合征 | A frisson of impostor syndrome before Dorothy sticks out her hand. |
+| syndrome | 冒充者综合征 | A frisson of impostor syndrome before Dorothy sticks out her hand. |
 | cavernous | 洞穴般空旷的 | She walks through a cavernous great room to get to the deck, which stretches the width of the house. |
 | notorious | 声名在外的 | Charli, notorious for changing her hair color and style, has it dyed a bright blond. |
 | pointedly | 带针对性的 | The woman reclining on the sofa, staring pointedly at Dorothy, is deadly serious. |

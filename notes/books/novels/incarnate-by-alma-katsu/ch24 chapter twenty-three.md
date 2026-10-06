@@ -33,7 +33,7 @@ modified: "2026-10-06"
 
 **为什么这样写**：粉丝行为学的一段定论——墙的意象把饭圈写成城堡防御工事，而最后一句把动机挖到性别地基：这不止是护主，是"整治女人"的传统手艺。putting a woman in her place 用最平的语气说最冷的话。
 
-**读者视角提示**：这与第三章"专家哄笑她必是真人"共享同一套结构：多数派筑墙，真相在外面淋雨。多萝西曾站在墙里，如今在墙外。
+**读者视角提示**：这与第七章"专家哄笑她必是真人"共享同一套结构：多数派筑墙，真相在外面淋雨。多萝西曾站在墙里，如今在墙外。
 
 > **原句 3:** Sona makes great revenge porn.
 
@@ -63,7 +63,7 @@ modified: "2026-10-06"
 
 **关键词**：victim · voice
 
-**为什么这样写**：记忆第一次以第二人称开口，说出名字（安伯——序章霸凌三人组之一）。她的惊悚不在内容而在方向：这句话只能来自她自己的记忆，却带着他人的口吻。The voice fading on the air 把内心声写成可消失的实体——恐怖片手法直接接管了心理描写。
+**为什么这样写**：记忆第一次以第二人称开口，说出名字（安伯——序章霸凌三人组之一）。她的惊悚不在内容而在方向：这句话只能来自她自己的记忆，却带着他人的口吻。那句"声音正在消散、最后一缕融进空气"把内心声写成可消失的实体——恐怖片手法直接接管了心理描写。
 
 **读者视角提示**：从这一刻起，她脑内多了一个匿名播音员。它引诱她报复、替她点评尸体——它是谁的声带，是全书后段最大的悬念之一。
 
@@ -77,7 +77,7 @@ modified: "2026-10-06"
 
 **为什么这样写**：车祸之后的两行回放，让"祈祷"成为本案唯一的物证——smite 是圣经语域的动词（天谴），她哀求的对象被这个词悄悄钉成神明。excuses…excuses 的重复里，她第一次放弃自我辩护。这不是推理，是招供的预备。
 
-**读者视角提示**：把这两行与第五章"我知道你想要什么"连读——愿望一旦说出，对方就自动升级为执行方。她的嘴，一直是最不设防的端口。
+**读者视角提示**：把这两行与第四章"我知道你想要什么"连读——愿望一旦说出，对方就自动升级为执行方。她的嘴，一直是最不设防的端口。
 
 > **原句 7:** If I’d known you were under His protection, I never would’ve gotten involved.
 
@@ -119,7 +119,7 @@ modified: "2026-10-06"
 | manosphere | 男性圈（网络男性亚文化空间） | She can imagine what he’ll say on his victory tour on the manosphere podcasts. |
 | wrongheaded | 判断错误的 | What if he isn’t some supernatural power but simply a wrongheaded denizen of the manosphere who set her up? |
 | speculation | 猜测；臆测 | Starting slowly, then building momentum, they begin peppering TikTok and Reddit with accusations and speculation. |
-| cautionary | （cautionary tale）警世故事 | She’ll become an epic failure, a cautionary tale for Gen Z, told with glee by their parents. |
+| cautionary | 警世故事 | She’ll become an epic failure, a cautionary tale for Gen Z, told with glee by their parents. |
 
 ### ⭐⭐ 进阶
 

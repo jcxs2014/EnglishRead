@@ -21,9 +21,9 @@ modified: "2026-10-06"
 
 **关键词**：alarm clock
 
-**为什么这样写**：八个词的章题句，与上一章"半夜痛醒"形成日程化的呼应——痛已经排进了她的作息表。闹钟在这里成了参照系：疼痛成了她的生物钟，精确、守时、不需要电池。
+**为什么这样写**：七个词的章题句，与第十章"半夜痛醒"形成日程化的呼应——痛已经排进了她的作息表。闹钟在这里成了参照系：疼痛成了她的生物钟，精确、守时、不需要电池。
 
-**读者视角提示**：把三处"痛醒"（ch10 半夜、ch13 闹钟前）连成时间轴——身体改造正在从偶发事件变成日常工序。
+**读者视角提示**：把两处"痛醒"（第十章半夜、本章闹钟前）连成时间轴——身体改造正在从偶发事件变成日常工序。
 
 > **原句 2:** It might be that she’s groggy and not quite awake, or that pain is distorting her perception, but the face staring back at her does not seem like hers. It’s like looking at a badly painted portrait.
 

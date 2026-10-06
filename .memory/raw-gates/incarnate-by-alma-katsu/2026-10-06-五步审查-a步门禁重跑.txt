@@ -1,0 +1,121 @@
+=== a步：verify_quotes + --full ===
+
+=== 总计 304/304 引文可核实（100%）；完全干净文件 37/37；正文章节 0 提取 0；总览 0 提取转交 1 ===
+=== 总计 304/304 引文可核实（100%）；完全干净文件 37/37；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+=== a步：check_vocab ===
+词条行合计: 776
+
+--- FAIL (0) ---
+
+--- WARN (22) ---
+  ch02 chapter one.md [基础] 基础档疑含超纲词「carefully」
+  ch03 chapter two.md [基础] 基础档疑含超纲词「ballerina」
+  ch04 chapter three.md [基础] 基础档疑含超纲词「blatant violation」
+  ch06 chapter five.md [基础] 基础档疑含超纲词「alternative」
+  ch07 chapter six.md [基础] 基础档疑含超纲词「baseboards」
+  ch07 chapter six.md [基础] 基础档疑含超纲词「certified wizard」
+  ch10 chapter nine.md [基础] 基础档疑含超纲词「chiropractor」
+  ch10 chapter nine.md [基础] 基础档疑含超纲词「autoimmune disease」
+  ch11 chapter ten.md [基础] 基础档疑含超纲词「paperwork」
+  ch11 chapter ten.md [基础] 基础档疑含超纲词「matchbook」
+  ch13 chapter twelve.md [基础] 基础档疑含超纲词「perplexing lack」
+  ch14 chapter thirteen.md [基础] 基础档疑含超纲词「shoplifting」
+  ch18 chapter seventeen.md [基础] 基础档疑含超纲词「nagging suspicion」
+  ch19 chapter eighteen.md [基础] 基础档疑含超纲词「apartment」
+  ch22 chapter twenty-one.md [基础] 基础档疑含超纲词「fairy godmother」
+  ch25 chapter twenty-four.md [基础] 基础档疑含超纲词「permanent address」
+  ch25 chapter twenty-four.md [基础] 基础档疑含超纲词「walk-on appearance」
+  ch31 chapter thirty.md [基础] 基础档疑含超纲词「cluttered」
+  ch31 chapter thirty.md [基础] 基础档疑含超纲词「apartment」
+  ch32 chapter thirty-one.md [基础] 基础档疑含超纲词「spectacle」
+  ch32 chapter thirty-one.md [基础] 基础档疑含超纲词「uniformed men」
+  ch36 afterword.md [基础] 基础档疑含超纲词「forecaster」
+=== a步：check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+=== a步：corruption_scan ===
+
+=== 编辑损坏扫描（incarnate-by-alma-katsu）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+=== a步：sweep_full ===
+=== 引语整串 flat 比对（incarnate-by-alma-katsu）===
+  参照集：text/ 逐章（36 章，可定章） + epub 交叉验证
+  ✅ 本章命中 280 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 6 条归 check_short_quotes；无章可对 0 条未判）
+=== a步：check_block_coverage ===
+✅ 块覆盖对账：36 个文件，每块都进了 verify_quotes 校验
+=== a步：check_nav_layer ===
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+=== a步：check_quote_blocks ===
+=== 引语块结构对账（incarnate-by-alma-katsu）===
+  带前缀的 `> **原句 N:**` 行：36 个文件共 286 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+=== a步：check_block_keywords ===
+=== 引语块覆盖度：36 个 md，阻断型 0 处 ／ 提示型 0 处 ===
+=== b步：check_short_quotes ===
+  verify_quotes 跳过（<20 flat 字符）的引语：6 条 —— 这些主门禁**根本没查**
+  ✅ 命中 6 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+=== b步：check_crossref ===
+交叉引用核对：0 对，报警 0
+=== b步：check_xref_zh ===
+=== 跨章引用：章号+短语/POV 命中 1 / 错 0 / POV 错 0 ===
+=== c步：audit_structure ===
+=== 精读结构扫描（incarnate-by-alma-katsu）===
+  扫 39 个 md、330 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+=== c步：check_struct_indep（第二实现） ===
+=== 独立结构扫描：36 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+=== d步机械：check_analysis_indep（第二实现） ===
+抽出分析层英文片段 72 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）2 条 —— 只报不判红，须人判：
+  ch24 chapter twenty-three.md:66  The voice fading on the air
+  ch29 chapter twenty-eight.md:34  Doctors unable to come to an agreement
+=== d步机械：check_xref_indep（第二实现） ===
+=== chNN 引用 108 处：英文证据报警 0 处 ／ 中文式待人判 106 处 ===
+=== d步机械：sweep_analysis_inline ===
+  🟠 ch30 chapter twenty-nine.md:66  「rips through the skull」→ 内容词 3/3 命中（rips/skull/through）——疑漏词或改写
+  🟠 ch32 chapter thirty-one.md:56  「I am a murderer」→ 内容词 1/1 命中（murderer）——疑漏词或改写
+  🟠 ch32 chapter thirty-one.md:119  「commit to memory」→ 内容词 2/2 命中（commit/memory）——疑漏词或改写
+  🟠 ch33 chapter thirty-two.md:54  「hunt like an animal」→ 内容词 3/3 命中（animal/hunt/like）——疑漏词或改写
+=== d步机械：audit_numbers ===
+  ⚪ ch29 chapter twenty-eight.md:34  「24 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch29 chapter twenty-eight.md:137  「24 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch32 chapter thirty-one.md:13  「十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch32 chapter thirty-one.md:96  「十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch32 chapter thirty-one.md:138  「十二岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch34 chapter thirty-three.md:10  「二十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+=== d步机械：check_anchor ===
+     ch28 chapter twenty-seven.md:96  关键词「bargain · sacrifices」的「sacrifices」在全书有、本块无
+     ch31 chapter thirty.md:34  关键词「pretend · real creator」的「creator」在全书有、本块无
+     ch32 chapter thirty-one.md:24  关键词「Welcome home · easy」的「welcome」在全书有、本块无
+     ch32 chapter thirty-one.md:24  关键词「Welcome home · easy」的「home」在全书有、本块无
+=== d步机械：check_speaker_consistency（抽查级） ===
+可判指纹 280 个
+⚠️ 归因与原文不一致 0
+
+⚠️ 抽查级：**报 0 不等于「说话人都对」**，只等于「没找到可判的归属矛盾」。
+   实测 315 本 1 条真缺陷 / 命中约 1/3 假阳 ⇒ 不进提交门禁。
+   无对话标签的叙述层引语、间接引语、转述，全部不在口径内。
+=== c步：check_overview_full ===
+=== 总览整串核查（incarnate-by-alma-katsu）===
+  参照集：text/ 逐章（36 章） ｜ 总览文件 3 个
+  A 整串：命中 3 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 3 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 24 ｜ 不符 0（**只报不判红**）｜ 跳过 40
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+=== c步：check_overview_labels ===
+  ✅ 标注章逐字 : 44
+
+----- 口径外（0 条，不计入失败，需人判）-----
+
+----- 待人判清单（0 条）-----
+=== c步：verify_overview_quotes ===
+00_情感节点.md: 18/18 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 42/42 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===

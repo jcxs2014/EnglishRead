@@ -91,7 +91,7 @@ modified: "2026-10-06"
 
 **关键词**：I see you
 
-**为什么这样写**：全章的落点只有九个词。它接住了上一章的 At last, she'd been seen——被看见是她从序章起就最缺的东西，作者让操纵者亲手把这颗糖递过来。I see you 连说两遍，第二遍补上名字，从行业共情瞬间收窄成两个人之间的私语。
+**为什么这样写**：全章的落点只有一句话。它接住了上一章的 At last, she'd been seen——被看见是她从序章起就最缺的东西，作者让操纵者亲手把这颗糖递过来。I see you 连说两遍，第二遍补上名字，从行业共情瞬间收窄成两个人之间的私语。
 
 **读者视角提示**：本书最危险的时刻都包装成最温柔的句子。这句"我看见你"出自一个以"让人看见不真实之物"为业的人——他看见的到底是她，还是她的用途？
 
@@ -131,7 +131,7 @@ modified: "2026-10-06"
 | ashtray | 烟灰缸 | “Ooh, put me in House of the Dragon,” she says as she stubs out the cigarette, using a plate as an ashtray. |
 | ballerina | 芭蕾舞者 | Dorothy notices how tall the woman is, how she holds herself like a ballerina. |
 | barely | 勉强；几乎不 | She is a barely padded skeleton, just bone and muscle. |
-| breath | （under one's breath）压低声音 | “Betty,” Dorothy says under her breath. |
+| breath | 压低声音 | “Betty,” Dorothy says under her breath. |
 
 ## 一句话总结
 

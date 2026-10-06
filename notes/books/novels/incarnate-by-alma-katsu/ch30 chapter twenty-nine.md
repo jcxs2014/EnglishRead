@@ -31,7 +31,7 @@ modified: "2026-10-06"
 
 **关键词**：ghost · rumor
 
-**为什么这样写**：室友的玩笑精确得像讣告——less than a ghost（比幽灵还少）接住了第二、五章的幽灵自称，再降半格成了 rumor：连"存在"都省了，只剩传闻。Hahaha 的轻佻与内容的寒意对冲，是全书典型的"用笑声运尸"笔法。
+**为什么这样写**：室友的玩笑精确得像讣告——less than a ghost（比幽灵还少）接住了第二章的幽灵自称，再降半格成了 rumor：连"存在"都省了，只剩传闻。Hahaha 的轻佻与内容的寒意对冲，是全书典型的"用笑声运尸"笔法。
 
 **读者视角提示**：她花三百天学会"让别人看不见自己"，如今连自己的生活都看不见她。愿望的全部条款都已兑现。
 
@@ -63,9 +63,9 @@ modified: "2026-10-06"
 
 **关键词**：skull · Save me
 
-**为什么这样写**：凶器入库前的最后一步心理组装——声音用 two 段短句完成恐吓（她会杀了我）与哀求（救我），rips through the skull 把话写成利器。Save me 两个字独立成段：全书的"救我"终于说出声，只是救的是伊莎贝拉，不是她。
+**为什么这样写**：凶器入库前的最后一步心理组装——声音用两段短句完成恐吓（她会杀了我）与哀求（救我），"rips through Dorothy's skull"把话写成利器。Save me 两个字独立成段：全书的"救我"终于说出声，只是救的是伊莎贝拉，不是她。
 
-**读者视角提示**：对照她自己的求救（第二十三章"Help me"无人应答）——现在她成了被求救的一方。呼吁在本书永远单向流动。
+**读者视角提示**：对照她自己的求救（第二十四章"Help me"无人应答）——现在她成了被求救的一方。呼吁在本书永远单向流动。
 
 > **原句 6:** I'm your baby, the voice cries in her head. Don't let her end me.
 
@@ -95,7 +95,7 @@ modified: "2026-10-06"
 
 **为什么这样写**：自我辩护的最终形态——她承认杀人，但把"我"从动词里摘了出去。stepped into Dorothy's body 是全书书名（Incarnate，化身）最黑的一次落地：她给别人造化身，别人往她身体里化身。looked away 三个词是全书的道德判决书：她不是没看见，是选择别过头。
 
-**读者视角提示**：序章"有人替她把所有人骗上错路"的悬念在此合龙——那个"有人"一直有资格用她的身体。恐怖的终点是所有权：她从头到尾，只是这具身体的二房东。
+**读者视角提示**：序章"她足够聪明，能让所有人走错路"的自白在此合龙——只是这一次，走上错路的是她自己。恐怖的终点是所有权：她从头到尾，只是这具身体的二房东。
 
 ## 本章词汇
 
@@ -134,7 +134,7 @@ modified: "2026-10-06"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | ghost | 幽灵 | You’re turning into, like, less than a ghost. A rumor. |
-| shell | （shell company）空壳 | The shell company, the offshore bank account where she had the lawyer deposit her money. |
+| shell | 空壳 | The shell company, the offshore bank account where she had the lawyer deposit her money. |
 | baby | 宝贝 | I’m your baby, the voice cries in her head. Don’t let her end me. |
 | truth | 真相 | And don’t fuck with me. I want the truth. |
 

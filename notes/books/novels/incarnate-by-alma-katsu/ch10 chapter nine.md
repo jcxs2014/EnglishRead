@@ -130,7 +130,7 @@ modified: "2026-10-06"
 | germs | 细菌；病菌 | No one wants your germs. |
 | chiropractor | 整脊师 | Maybe it’s time to see a doctor or a chiropractor. |
 | autoimmune disease | 自身免疫病 | Google will tell her she has bone cancer or an autoimmune disease. |
-| gut | （a punch to the gut）腹部重击 | Every exchange with that bitch is like a punch to the gut, at least when Tomas isn’t around. |
+| gut | 腹部重击 | Every exchange with that bitch is like a punch to the gut, at least when Tomas isn’t around. |
 
 ## 一句话总结
 

@@ -41,7 +41,7 @@ modified: "2026-10-06"
 
 **关键词**：poster child
 
-**为什么这样写**：海报儿童（poster child）原是慈善广告用语，用在这里等于给同事的行为模式立了一块公审展板。一句定性的效率极高：她与安杰莉卡的战争在本章需要群众基础，这句就是她递交的"民意"。
+**为什么这样写**：海报儿童（poster child）原是慈善广告用语，用在这里等于给同事的行为模式立了一块公审展板。一句定性的效率极高：她与安杰莉卡的战争在本章需要群众基础，这句就是她脑内预存的"民意"。
 
 **读者视角提示**：记住她的宣传口径——随后她就用同一支笔给安杰莉卡写"间谍罪"。宣传与构陷共用一个车间。
 
@@ -61,7 +61,7 @@ modified: "2026-10-06"
 
 **关键词**：mentor · hungry
 
-**为什么这样写**：温情的导师演说句句在喂狼——always be hungry, always want more 是创业修辞，也是欲望合法化仪式。 smile is kind 这个插叙偏偏放在"别安于现状"之前：善意的外包装让野心的处方更像礼物。he had no one to guide me 的孤独叙事则暗中把自己与她绑成同一种孤儿。
+**为什么这样写**：温情的导师演说句句在喂狼——always be hungry, always want more 是创业修辞，也是欲望合法化仪式。 smile is kind 这个插叙偏偏放在"别安于现状"之前：善意的外包装让野心的处方更像礼物。那句"当初没人指点我"的孤独叙事则暗中把自己与她绑成同一种孤儿。
 
 **读者视角提示**：多萝西的全部"想要"正是被这几句话点了火——陌生号码的报价单上写的几乎是同一句话。两位导师，一份教义。
 
@@ -93,7 +93,7 @@ modified: "2026-10-06"
 
 **为什么这样写**：自我审判只有三句，却完成了全书的道德转折登记——她第一次给自己的行为命名为 evil。Where did this come from 的措辞把恶念写成外来物（呼应第四章"念头击中她"），为自己保留了一层"不是我"的托辞。
 
-**读者视角提示**：她打完寒颤，还是把嘴闭上了（keeps her mouth shut）。全书对"良心"的写法在此定案：良心负责起鸡皮疙瘩，不负责喊停。
+**读者视角提示**：她先把嘴闭上（keeps her mouth shut），寒颤在闭嘴之后才姗姗来迟。全书对"良心"的写法在此定案：良心负责起鸡皮疙瘩，不负责喊停。
 
 ## 本章词汇
 
@@ -124,7 +124,7 @@ modified: "2026-10-06"
 | advantage | 好处；占先 | The gap works to Dorothy’s advantage, however. |
 | dragging | 拖延 | Tomas has been on Dorothy for days, but she’s dragging it out so she has an excuse to access the motion-capture files. |
 | sign-off | 签字认可 | The problem is that it hasn’t been shown to the singer yet for her sign-off. |
-| knowledge | （guilty knowledge）知情的负罪 | It’s her guilty knowledge pushing through. |
+| knowledge | 知情的负罪 | It’s her guilty knowledge pushing through. |
 | trusting | 轻信 | He’s trusting the one person he probably shouldn’t. |
 
 ### ⭐ 基础

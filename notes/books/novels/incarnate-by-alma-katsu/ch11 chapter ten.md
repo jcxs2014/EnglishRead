@@ -21,7 +21,7 @@ modified: "2026-10-06"
 
 **关键词**：contracting · squeezing
 
-**为什么这样写**：三个现在分词（收紧、压、勒）连成一台看不见的机床——她的身体成了被加工的工件，加工目标是 an ideal 的尺寸。more like a teenager's 把恐怖翻译成审美：它在把她雕回她最想成为的年纪，用的是她最疼的方式。
+**为什么这样写**：四个现在分词（收紧、蜷曲、压、勒）连成一台看不见的机床——她的身体成了被加工的工件，加工目标是 an ideal 的尺寸。more like a teenager's 把恐怖翻译成审美：它在把她雕回她最想成为的年纪，用的是她最疼的方式。
 
 **读者视角提示**：第三章她说卡翠娜"在烧掉生命力"，如今轮到她自己的骨头付账。代价清单开始逐条兑现。
 
@@ -55,7 +55,7 @@ modified: "2026-10-06"
 
 **为什么这样写**：前一段用 screams 把破败写成高分贝的劝退，后一段一个词的独立段把整段吐槽翻转成招聘广告——她要的恰恰是没人多看一眼的地方。Perfect 单独成段是全书式的选段口吻：她的标准与世人的标准永远差一百八十度。
 
-**读者视角提示**：还记得第六章"资料越空越完美"吗？这回连律师都得是"搜不到的"。匿名是她的美学，也是她的软肋。
+**读者视角提示**：还记得第四章"资料越空越完美"吗？这回连律师都得是"搜不到的"。匿名是她的美学，也是她的软肋。
 
 > **原句 5:** I am her. “Yes. I’m here because she’s about to sign some deals with sponsors and she needs a lawyer to handle the paperwork.” She tries to keep her voice from shaking.
 
@@ -127,8 +127,8 @@ modified: "2026-10-06"
 | squeezing | 勒紧；挤压 | Smashing her lungs, squeezing her heart and whatever other organs are in there, to make her torso narrower, more like a teenager’s. |
 | emergency | 紧急情况 | She feels like she’s one emergency away from having to beg her parents for help. |
 | anonymity | 匿名 | She wants to keep her anonymity, as much as possible, so she made me her intermediary. |
-| woodwork | （come out of the woodwork）突然冒出来 | No one’s going to come out of the woodwork to sue you, if that’s what you mean. |
-| attorney | （power of attorney）授权书；代理权 | He will wield power of attorney for the shy Isabella, signing the contracts that Isabella’s business manager brings to him. |
+| woodwork | 突然冒出来 | No one’s going to come out of the woodwork to sue you, if that’s what you mean. |
+| attorney | 授权书；代理权 | He will wield power of attorney for the shy Isabella, signing the contracts that Isabella’s business manager brings to him. |
 | obscures | 遮蔽 | Light from her phone paints the lenses of Zeilman’s glasses white and obscures his eyes as he studies the image. |
 
 ### ⭐ 基础

@@ -21,7 +21,7 @@ modified: "2026-10-06"
 
 **关键词**：dead · Bel Air
 
-**为什么这样写**：一章只有一条新闻标题当开场——十个词把第三章那具"两头烧的蜡烛"熄灭在豪宅里。found dead 的被动语态让死亡像快递签收：无人认领凶手，只有地点与状态。贝莱尔（顶级富人区）与前文她家的地下泳池形成残忍对照：梦想的尽头不保证活着。
+**为什么这样写**：一章只有一条新闻标题当开场——十个词把第三章那具"两头烧的蜡烛"熄灭在豪宅里。found dead 的被动语态让死亡像快递签收：无人认领凶手，只有地点与状态。贝莱尔（顶级富人区）与序章里她家没有的地下泳池形成残忍对照：梦想的尽头不保证活着。
 
 **读者视角提示**：这标题也是给多萝西的头版头条——她读到的每个词都在往自己身上对号。
 
@@ -31,7 +31,7 @@ modified: "2026-10-06"
 
 **关键词**：immobilized · thirty pounds
 
-**为什么这样写**：讣闻的量化细节（24 岁、三十磅、动弹不得）与第三章的 hummingbird energy 完成对冲——蜂鸟一样的女孩被磨到停摆。Doctors unable to come to an agreement 复现了全书的医学无能主题：能做的检查都做了，病名不在人间的词典里。
+**为什么这样写**：讣闻的量化细节（24 岁、三十磅、动弹不得）与第三章的 hummingbird energy 完成对冲——蜂鸟一样的女孩被磨到停摆。"Doctors were unable to come to an agreement"复现了全书的医学无能主题：能做的检查都做了，病名不在人间的词典里。
 
 **读者视角提示**：三十磅这个数字请记住——它是有去向的。本书的守恒律简单而残忍：一边少的，另一边在多。
 
@@ -41,7 +41,7 @@ modified: "2026-10-06"
 
 **关键词**：whisper · took her life
 
-**为什么这样写**：托马萨的八卦本能在葬礼上照常营业——压低的嗓音、抢答式的追问，把朋友的死聊成了线索挖掘。did you have any idea 是无心之箭，正中她唯一说不出口的秘密：她不但察觉了，还知道是怎么回事。
+**为什么这样写**：托马萨的八卦本能在电话里照常营业——压低的嗓音、抢答式的追问，把朋友的死聊成了线索挖掘。did you have any idea 是无心之箭，正中她唯一说不出口的秘密：她不但察觉了，还知道是怎么回事。
 
 **读者视角提示**：注意"没等她回答"——全书她的秘密之所以安全，一半靠别人不给她开口的机会。
 
@@ -109,7 +109,7 @@ modified: "2026-10-06"
 | painkillers | 止痛药 | She walks to her bedroom and digs out the vial with her precious supply of painkillers. |
 | clickbait | 标题党 | It has to be a mistake. Or some lying piece of clickbait. Fake news. |
 | speculate | 臆测 | People really shouldn’t speculate at a time like this. |
-| committed | （commit suicide）实施（自杀） | If Catrina Villeneuve committed suicide, it’s Dorothy’s fault. |
+| committed | 实施（自杀）；犯（罪） | If Catrina Villeneuve committed suicide, it’s Dorothy’s fault. |
 | essential | 根本的；要害的 | She stole Catrina Villeneuve’s essential energy through social media, fed off her like a vampire? |
 | complicit | 同谋的 | In her heart, though, she knows she’s complicit. |
 

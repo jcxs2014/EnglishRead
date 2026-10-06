@@ -83,7 +83,7 @@ modified: "2026-10-06"
 
 **关键词**：destined · arrogance
 
-**为什么这样写**：声音开始用"命运"体说话——destined 一词把它的角色从辩护律师升级为先知。她这回没有照单全收，而是 wince at the arrogance：全书第一次，她对脑内声音起了审美层面的反感。被它代表，比被它命令更让她不适。
+**为什么这样写**：声音开始用"命运"体说话——destined 一词把它的角色从辩护律师升级为先知。她这回没有照单全收，而是 winces at the arrogance：全书第一次，她对脑内声音起了审美层面的反感。被它代表，比被它命令更让她不适。
 
 **读者视角提示**：注意这场戏的位置——妈妈刚用哭腔说完"家人是真的"，声音立刻用"他们不会懂"接盘。两个声音在抢同一副耳膜。
 
@@ -106,7 +106,7 @@ modified: "2026-10-06"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | especially | 尤其是鉴于 | She’s tempted to let it go to voicemail, as usual, especially as she guesses why her mother’s calling. |
-| difference | （time difference）时差 | You always forget the time difference. |
+| difference | 时差 | You always forget the time difference. |
 | practically | 几乎能"听见" | There’s a long pause during which Dorothy can practically hear her mother’s patience burn, crackling like kindling. |
 
 ### ⭐⭐ 进阶

@@ -1,0 +1,38 @@
+=== 修复后 corruption_scan ===
+  FAIL 0 处（U+FFFD / 双句号）
+=== 修复后 verify_quotes ===
+
+=== 总计 304/304 引文可核实（100%）；完全干净文件 37/37；正文章节 0 提取 0；总览 0 提取转交 1 ===
+=== 总计 304/304 引文可核实（100%）；完全干净文件 37/37；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+=== 修复后 check_chapter_quotes（全书） ===
+⚠️  全书共 15 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 311，命中本章 311（100%）
+✅ 全部引语均归属正确章节
+=== 修复后 sweep_full ===
+  ✅ 本章命中 280 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 6 条归 check_short_quotes；无章可对 0 条未判）
+=== 修复后 check_block_keywords ===
+=== 引语块覆盖度：36 个 md，阻断型 0 处 ／ 提示型 0 处 ===
+=== 修复后 audit_structure（基线对比） ===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+=== 修复后 check_struct_indep ===
+=== 独立结构扫描：36 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+=== 修复后 check_analysis_indep ===
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）2 条 —— 只报不判红，须人判：
+  ch24 chapter twenty-three.md:66  The voice fading on the air
+  ch29 chapter twenty-eight.md:34  Doctors unable to come to an agreement
+=== 修复后 sweep_analysis_inline ===
+  🟠 ch28 chapter twenty-seven.md:86  「wince at the arrogance」→ 内容词 1/2 命中（arrogance）——疑漏词或改写
+  🟠 ch29 chapter twenty-eight.md:34  「Doctors unable to come to an agreement」→ 内容词 4/4 命中（agreement/come/doctors/unable）——疑漏词或改写
+  🟠 ch29 chapter twenty-eight.md:112  「commit suicide」→ 内容词 2/2 命中（commit/suicide）——疑漏词或改写
+=== 修复后 check_anchor ===
+     ch28 chapter twenty-seven.md:96  关键词「bargain · sacrifices」的「sacrifices」在全书有、本块无
+     ch31 chapter thirty.md:34  关键词「pretend · real creator」的「creator」在全书有、本块无
+     ch32 chapter thirty-one.md:24  关键词「Welcome home · easy」的「welcome」在全书有、本块无
+     ch32 chapter thirty-one.md:24  关键词「Welcome home · easy」的「home」在全书有、本块无
+=== 修复后 nav_layer ===
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+=== 修复后 check_xref_indep ===
+=== chNN 引用 106 处：英文证据报警 0 处 ／ 中文式待人判 104 处 ===

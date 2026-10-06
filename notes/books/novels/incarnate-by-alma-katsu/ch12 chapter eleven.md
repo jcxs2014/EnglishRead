@@ -7,11 +7,11 @@ modified: "2026-10-06"
 
 ## 本章导航
 
-- **一句话概括**：多萝西在托马萨的经纪人克莱尔面前演完最难的一场戏——用"害羞、英语不好、数字游民"的人设把伊莎贝拉签进克莱尔名下；邮件往返三回，代理合同落笔。
+- **一句话概括**：多萝西在托马萨的经纪人克莱尔面前演完最难的一场戏——用"害羞、英语不好、数字游民"的人设把伊莎贝拉签进克莱尔名下；邮件往返四回，代理合同落笔。
 - **悬念与恐怖布局**：克莱尔的直觉全程在线（"想想你的忠诚在哪里"），谎言靠情绪演技和邮箱屏障死撑；伊莎贝拉的新谎"病中失声"为将来找合成配音埋线。
 - **情感弧线位置**：行窃得手后的高潮——冰冷海水般的战栗；"成功比想象更甜"，可每句甜里都掺着"总有一天露馅"的倒计时。
 - **人物弧线**：多萝西首次完整扮演伊莎贝拉（编剧+演员+间谍三合一）；克莱尔的锐利与克制首秀，"你对他有所隐瞒"是她递出的第一道裂缝。
-- **叙事手法**：书信体嵌入叙事——三封邮件以"角色扮演式英语"登场，错句本身是设计好的道具；多萝西为每一处破绽预先备好解释。
+- **叙事手法**：书信体嵌入叙事——四封邮件以"角色扮演式英语"登场，错句本身是设计好的道具；多萝西为每一处破绽预先备好解释。
 
 ## 精读
 
@@ -71,7 +71,7 @@ modified: "2026-10-06"
 
 > **原句 6:** A sensation passes through her body like a wave of icy cold seawater. Relief. Excitement. Is this the high a thief feels after a successful breaking and entering? She’s invincible. Her deceit hasn’t come falling down around her ears—yet.
 
-**中文理解**：一股感觉像冰冷的海水 wave 般贯穿全身。如释重负。兴奋。这就是窃贼入室得手后的那种快感吗？她刀枪不入。她的骗局还没有塌下来砸在她耳朵上——暂时还没有。
+**中文理解**：一股感觉像冰冷的海水贯穿全身。如释重负。兴奋。这就是窃贼入室得手后的那种快感吗？她刀枪不入。她的骗局还没有塌下来砸在她耳朵上——暂时还没有。
 
 **关键词**：thief · invincible
 
@@ -81,7 +81,7 @@ modified: "2026-10-06"
 
 > **原句 7:** Everybody says they want honesty, but nobody is honest anymore. Our real lives are dull and tedious, at best the materials with which we construct new stories about ourselves. At worst, painful memories to hide.
 
-**中文理解**：人人都说自己要真实，可如今没有一个人诚实。我们真实的人生又闷又乏味，往好里说，只是用来给自己编新故事的素材；往坏里说，是藏起来的 pain 记忆。
+**中文理解**：人人都说自己要真实，可如今没有一个人诚实。我们真实的人生又闷又乏味，往好里说，只是用来给自己编新故事的素材；往坏里说，是藏起来的伤痛记忆。
 
 **关键词**：honesty · construct
 
@@ -95,7 +95,7 @@ modified: "2026-10-06"
 
 **关键词**：Manifesting · universe
 
-**为什么这样写**：灵修词汇（宇宙的流、正向能量、显化）原样入文，讽刺自带倍增器——她的人生确实是"显化"出来的，只不过是手动显化：一个假账号加一套壳公司。deserves 回收序章"你不配幸福吗"的钩子，只是这次发问的人是她自己。
+**为什么这样写**：灵修词汇（宇宙的流、正向能量、显化）原样入文，讽刺自带倍增器——她的人生确实是"显化"出来的，只不过是手动显化：一个假账号加一套壳公司。deserves 回收第五章"你不配幸福吗"的钩子，只是这次发问的人是她自己。
 
 **读者视角提示**：注意这个句式的生产者不是她——是互联网成功学。她一边骂人人不诚实，一边用最标准的套话给自己念祝词。
 
@@ -126,10 +126,10 @@ modified: "2026-10-06"
 | obsession | 痴迷；执念 | It’s stupid, this obsession with Claire. |
 | arsonist | 纵火犯 | It’s playing with fire, but isn’t that what every arsonist does, the same way murderers return to the scene of the crime? |
 | murderers | 杀人犯 | It’s playing with fire, but isn’t that what every arsonist does, the same way murderers return to the scene of the crime? |
-| Flirting | （flirt with disaster）与灾祸调情 | Flirting with disaster; it’s the only way to know you’re alive. |
+| Flirting | 与灾祸调情 | Flirting with disaster; it’s the only way to know you’re alive. |
 | ambition | 野心 | Claire isn’t immune to ambition. |
 | pinpoint | 确切说出；定位 | And for reasons Dorothy can’t pinpoint, she feels she can trust Claire. |
-| chickened | （chicken out）临阵退缩 | She’s had a few opportunities the past few days but chickened out each time. |
+| chickened | 临阵退缩 | She’s had a few opportunities the past few days but chickened out each time. |
 | admirable | 令人敬佩的 | She’s as admirable as she is frightening. |
 | resolves | 下定决心 | A hassled look passes over the woman’s face briefly, but Dorothy resolves not to back away. |
 
@@ -138,7 +138,7 @@ modified: "2026-10-06"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | relief | 如释重负 | Relief. |
-| stuff | （do stuff her way）事情；方式 | She sees the way Claire is able to control Tomas, keeping him from spinning out, getting him to agree to do stuff her way. |
+| stuff | 事情；方式 | She sees the way Claire is able to control Tomas, keeping him from spinning out, getting him to agree to do stuff her way. |
 | scowl | 皱眉怒视 | At least she stopped scowling. |
 
 ## 一句话总结

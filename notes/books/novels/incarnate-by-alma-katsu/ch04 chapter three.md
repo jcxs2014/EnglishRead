@@ -7,7 +7,7 @@ modified: "2026-10-06"
 
 ## 本章导航
 
-- **一句话概括**：多萝西借维伦纽夫的动捕身体换上自造的脸，"伊莎贝拉"匿名上线两小时即破百赞；深夜，一个陌生号码发来第一条短信——有人知道了。
+- **一句话概括**：多萝西借维伦纽夫的动捕身体换上自造的脸，"伊莎贝拉"匿名上线两小时近百赞；深夜，一个陌生号码发来第一条短信——有人知道了。
 - **悬念与恐怖布局**：神秘短信三连（有人看见了你、我知道你要什么）在一整章技术描写之后炸开；"机器里的幽灵"从她的自嘲修辞变成真正的伏笔。
 - **情感弧线位置**：躁动与狂喜混合——创造欲第一次压过自我贬低，而匿名短信立刻把这份得意变成握在别人手里的把柄。
 - **人物弧线**：多萝西完成从欣赏者到造物主的转身：像外科医生一样评估完美身体，像做手术一样削臀隆胸；欺骗惯性同步复发——删日志、建隐形金库、对托马萨全盘保密。
@@ -23,7 +23,7 @@ modified: "2026-10-06"
 
 **为什么这样写**：叙述者在这里亮出了未来时态——她会追问、会回望，说明"这一团乱麻"终将大到需要溯源。把创作冲动的起源说成 ghost in the machine，是技术词汇（机器故障里的幽灵）与超自然词汇（附耳低语者）的双关：作者提前告诉读者，本书的恐怖就藏在这个双关里。
 
-**读者视角提示**：这是全章唯一一处向后看的句子，像在事故报告里预先写下的"事故原因待查"。记住这个问句——它要到很后面才会被回答。
+**读者视角提示**：这是全章最早的一处向后看的句子，像在事故报告里预先写下的"事故原因待查"。记住这个问句——它要到很后面才会被回答。
 
 > **原句 2:** The internet is flooded with fake people generated on SonaAI. Her lip curls at the crudeness of most of them. The too-big eyes, like those paintings of hungry waifs from the seventies. Lips as poufy as pillows, legs like stilts. They end up more like caricatures of people than like anything else. Because everyone thinks they can do it—everyone thinks they can make the perfect being, the perfect creation.
 
@@ -45,7 +45,7 @@ modified: "2026-10-06"
 
 **关键词**：specimen · disposal
 
-**为什么这样写**：it hits her 把这个念头写成外来的袭击而非决定——主语不是"她想到"，而是"它击中她"。perfect specimen at her disposal 借用了实验室与仓储的用语，把一位歌手在她眼里的存在降格为一份可调用的资产。两句的落差就是道德滑坡的速度：上一句还是标本学的冷词，下一句只剩五个词的裸句，像按下快门。
+**为什么这样写**：it hits her 把这个念头写成外来的袭击而非决定——主语不是"她想到"，而是"它击中她"。perfect specimen at her disposal 借用了实验室与仓储的用语，把一位歌手在她眼里的存在降格为一份可调用的资产。两句的落差就是道德滑坡的速度：上一句还是标本学的冷词，下一句只剩四个词的裸句，像按下快门。
 
 **读者视角提示**：这本书写"起邪念"从不写挣扎，只写念头抵达的瞬间。越是没有心理斗争，越说明道德闸门早就锈死了。
 
@@ -67,7 +67,7 @@ modified: "2026-10-06"
 
 **关键词**：popular
 
-**为什么这样写**：四个短语逐级给出造物动机，最后一级落在 popular——序章那个最高级判断（不受欢迎是最糟的事）在这里完成了闭环。纸娃娃这种玩具被追认为她第一次"造人"练习，童年的涂鸦一下子有了案卷般的后见之明。
+**为什么这样写**：四个短语逐级给出造物动机，倒数第二级落在 popular——序章那个最高级判断（不受欢迎是最糟的事）在这里完成了闭环。纸娃娃这种玩具被追认为她第一次"造人"练习，童年的涂鸦一下子有了案卷般的后见之明。
 
 **读者视角提示**：谁都想跟谁做朋友——这是全书最伤感的一行愿望清单。它证明伊莎贝拉不是商业项目，是一封写给十二岁自己的补票信。
 
@@ -130,10 +130,10 @@ modified: "2026-10-06"
 | treadmill | 跑步机；（喻）无止境的循环 | An endless treadmill of competition. |
 | decrepit | 破旧的；年久失修的 | She doesn’t feel like ordering up an Uber to take her across town to her decrepit apartment. |
 | specimen | 标本；样本 | She has the perfect specimen at her disposal. |
-| disposal | （at one's disposal）任其支配 | She has the perfect specimen at her disposal. |
+| disposal | 任其支配 | She has the perfect specimen at her disposal. |
 | appraises | 评估；品鉴 | She appraises Villeneuve’s body like a surgeon—the singer is undoubtedly beautiful, but even she has her flaws. |
 | feminine | 女性的 | Everyone knows the feminine ideal: It’s a Barbie doll, right? |
-| overboard | （go overboard）做过头 | It’s easy to go overboard at this point and create something that looks like a plastic surgery job gone wrong. |
+| overboard | 做过头 | It’s easy to go overboard at this point and create something that looks like a plastic surgery job gone wrong. |
 | scrolling | 刷屏；滑动滚动 | But she will come to see—later, much later—that the idea was there from her earliest days of scrolling, scrolling, forever scrolling…. |
 
 ### ⭐ 基础

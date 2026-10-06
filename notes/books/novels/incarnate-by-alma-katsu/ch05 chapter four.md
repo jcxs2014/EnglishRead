@@ -65,7 +65,7 @@ modified: "2026-10-06"
 
 **为什么这样写**：从 thousands 到 Millions 的两词修正句，数字翻涨如股价拉抬；三个 her every 排比把"被注视"渲染成亲密的幻象，最后两个词单独收顶——被爱尚可理解，Worshipped 一词把受众直接写成信徒。这场交易的神学底色在此亮出。
 
-**读者视角提示**：注意许诺的主语全绕开了多萝西本人——被爱的是伊莎贝拉。他卖给她的，是隔着化身的间接被爱。
+**读者视角提示**：注意许诺用第二人称直呼"你"——被爱的是伊莎贝拉，被许诺的却是屏幕后的她。他卖给她的，是隔着化身的间接被爱。
 
 > **原句 6:** It’s not about sex, either. You think too small, Dorothy. You need to stop being afraid all the time. Don’t let the world hound you into hiding your gifts.
 
@@ -133,7 +133,7 @@ modified: "2026-10-06"
 | scam | 骗局 | Okay, this has got to be a scam. |
 | creep | 怪人；变态 | He’s a creep, right? |
 | black magic | 黑魔法 | She waits for him to go on, to explain what he’ll expect in return for his black magic, but there’s nothing. |
-| blood run | （blood run cold）血都凉了 | That makes her blood run cold. |
+| blood run | 血都凉了 | That makes her blood run cold. |
 | deal | 交易；成交 | Do we have a deal? |
 
 ## 一句话总结

@@ -21,7 +21,7 @@ modified: "2026-10-06"
 
 **关键词**：weaponized · benefit of the doubt
 
-**为什么这样写**：一次杂货店偷听升级为性别社会学论文——weaponized 这个军事动词把共情写成被缴获的武器。conditioned from birth 呼应第十章她对自己的描述（conditioned herself）：驯化无处不在，只是方向不同。整段的冷静反而最怒。
+**为什么这样写**：一次杂货店偷听升级为性别社会学论文——weaponized 这个军事动词把共情写成被缴获的武器。conditioned from birth 呼应第九章她对自己的描述（conditioned herself）：驯化无处不在，只是方向不同。整段的冷静反而最怒。
 
 **读者视角提示**：她对陌生女孩的愤怒比对托尼还烈——因为她认得这套驯化课程的每一页教材。
 
@@ -81,7 +81,7 @@ modified: "2026-10-06"
 
 **关键词**：paralyzed · headlights
 
-**为什么这样写**：本能反应先于决策——deer in the headlights 的成语写的是"看见死亡来临却动不了"。她僵住的对象不是写作任务，是自己被重新打开的旧案卷。身体比大脑先投了弃权票。
+**为什么这样写**：本能反应先于决策——"被车头灯定住的鹿"这个成语写的是"看见死亡来临却动不了"。她僵住的对象不是写作任务，是自己被重新打开的旧案卷。身体比大脑先投了弃权票。
 
 **读者视角提示**：全书的身体恐怖一贯是"被改写"，这一处是"被锁死"——她的身体第一次替她执行了"逃"。
 
@@ -93,7 +93,7 @@ modified: "2026-10-06"
 
 **关键词**：ghostwrite · disappointed
 
-**为什么这样写**：一封商务回信的措辞分析，听出了宣判的调子——ghostwrite 这个词本身就在嘲讽她：连忏悔都要别人代笔。So be it 三个词独立成段，是她对"被看穿"的正式签收：既然藏不住，就懒得藏了。这句与第十九章的"So be it"（对身体的）同句异境——她一生都在对无法改变的事投降。
+**为什么这样写**：一封商务回信的措辞分析，听出了宣判的调子——ghostwrite 这个词本身就在嘲讽她：连忏悔都要别人代笔。So be it 三个词独立成段，是她对"被看穿"的正式签收：既然藏不住，就懒得藏了。这句与第二十五章的"So be it"（对身体的）同句异境——她一生都在对无法改变的事投降。
 
 **读者视角提示**：两次"就这样吧"放在一起看：第一次她向变形投降，这一次她向"再也装不成好女孩"投降。全书的投降书越来越短。
 
@@ -110,7 +110,7 @@ modified: "2026-10-06"
 | narcissistic | 自恋的 | They came off looking like clueless, narcissistic ghouls, using a tragedy to make it all about them. |
 | implicated | 被牵连 | You are directly implicated in a story that everyone is talking about. |
 | springboard | 跳板 | You could use this tragic incident as a springboard to become a leading voice in the online community. |
-| headlights | （deer caught in the headlights）车头灯 | She’s paralyzed like a deer caught in the headlights. |
+| headlights | 车头灯 | She’s paralyzed like a deer caught in the headlights. |
 
 ### ⭐⭐ 进阶
 
@@ -124,7 +124,7 @@ modified: "2026-10-06"
 | bullying | 霸凌 | Well, once that happened, they started bullying her at school, too. |
 | overwhelm | 吞没 | Her past rushes up like a tsunami, threatening to overwhelm her. |
 | repressed | 被压抑的 | She leans her forehead against the cool wall tile, burning with a decade of repressed shame. |
-| retriever | （golden retriever）金毛寻回犬 | She was like a golden retriever, following Megan’s lead. |
+| retriever | 金毛寻回犬 | She was like a golden retriever, following Megan’s lead. |
 | opportunity | 机会 | I’m wondering, though, if this isn’t an opportunity, too. |
 
 ### ⭐ 基础
@@ -132,7 +132,7 @@ modified: "2026-10-06"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | deer | 鹿 | She’s paralyzed like a deer caught in the headlights. |
-| doubt | （benefit of the doubt）疑点利益 | You gotta give him the benefit of the doubt. |
+| doubt | 疑点利益 | You gotta give him the benefit of the doubt. |
 | bridge | 桥 | Tina Augustin had posted fewer than a dozen videos to YouTube before deciding to jump off the bridge at Norris Lake in Chapel County. |
 | dead | 死亡的 | She was pronounced dead at the scene. |
 

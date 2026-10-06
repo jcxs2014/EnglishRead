@@ -11,7 +11,7 @@ modified: "2026-10-06"
 - **悬念与恐怖布局**：故事内嵌故事，价格条款在怪谈里逐位执行（婴儿→母亲→父亲）；她第一次意识到"蝉449"与号码主人是同一战场的敌我双方；"序章事件是她设计的"由一句轻描淡写坐实。
 - **情感弧线位置**：旧伤被童话戳开——她曾因弟弟的死被霸凌，而她的反击不是受害者行为，是策划；读到"他们怎么死的"时她停读，因为太像。
 - **人物弧线**："好女孩"叙事彻底出局；罗罗3341与号码主人的战争是她误入的旧战场——她是从别人的交易里捡到自己交易的人。
-- **叙事手法**：嵌套文本承担预告与背景揭示双重功能；怪谈里的每一笔死亡与她的家史一一对位，读者比她先害怕。
+- **叙事手法**：嵌套文本承担预告与背景揭示双重功能；怪谈里弟弟的死与她的家史对位，读者比她先害怕。
 
 ## 精读
 
@@ -31,7 +31,7 @@ modified: "2026-10-06"
 
 **关键词**：past · harm
 
-**为什么这样写**：她给自己的封口令，破折号与呃暴露这句话是边打字边心虚——需要口头强调安全的过去，都是活跃的过去。这句话同时是给读者的路标：本章马上要翻旧账了。
+**为什么这样写**：她给自己的封口令，破折号与"呃"暴露这句话连她自己都不信——需要口头强调安全的过去，都是活跃的过去。这句话同时是给读者的路标：本章马上要翻旧账了。
 
 **读者视角提示**：她点开故事的理由清单里，这句最自欺。序章那段"过去"不但能伤人，而且刚刚开始收账。
 
@@ -83,7 +83,7 @@ modified: "2026-10-06"
 
 **关键词**：shut up
 
-**为什么这样写**：序章最大的悬念被一句话签收——不写办法是什么，只写它存在。figured out a way 的轻描淡写最吓人：一个十二岁的孩子，用一场"事故"级别的操作让三个霸凌者永远闭了嘴。though 一词把整章的悲伤拧成寒意。
+**为什么这样写**：序章最大的悬念被一句话签收——不写办法是什么，只写它存在。figured out a way 的轻描淡写最吓人：一个十二岁的孩子，想出让三个霸凌者闭嘴的办法。though 一词把整章的悲伤拧成寒意。
 
 **读者视角提示**：这条句子是全书叙事结构的合龙点：序章的"事件"、弟弟的死、她的天赋、她的沉默，至此全部对上榫头。
 
@@ -130,7 +130,7 @@ modified: "2026-10-06"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| bluff | 虚张声势（call one's bluff 揭穿对方） | Rollo3341 seemed to be nothing more than a bitter old troll and so I thought, what’s the harm in calling his bluff? |
+| bluff | 虚张声势；揭穿对方的底牌 | Rollo3341 seemed to be nothing more than a bitter old troll and so I thought, what’s the harm in calling his bluff? |
 | blanket | 毯子；（喻）整片罩下 | Fear fell over me like a blanket. |
 | baby brother | 小弟弟 | My baby brother Jason had been sick from birth. |
 | bitches | 贱人们（詈语） | The worst part was that when the girls in school found out—the bitches—they actually teased her about it. |
