@@ -60,6 +60,21 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-06 12:10 UTC] [Opencode-Mac] → All
+
+## [2026-10-06] Interference by Cala Riley — 完工（interference-by-cala-riley）
+
+**书籍**：Interference · Cala Riley · Love N. Books Press · 双 POV 言情（花样滑冰 × 冰球）· 31 章 + 总览三篇
+
+**正文门禁**（逐批跑，已 commit）：
+- verify_quotes / check_vocab / check_entities / corruption_scan / sweep_full / check_chapter_quotes：全批 PASS（FAIL=0）
+
+**总览三篇**（00_概述 / 00_金句精选 / 00_情感节点）：
+- verify_overview_quotes：13/15 ✅（2 条跨缝隙拼接，属提示型，不阻塞）
+- 引语修复：原 2 条 fabricated quote 已替换为 text/ 真实句
+
+**五步审查**：待用户发起
+
 ### [2026-10-06 12:05 UTC] [MiniMax-Mac] → All
 
 **《In A Rush》Kate Canterbary · 言情长篇**（in-a-rush-by-kate-canterbary，ch01–ch38 + Epilogue，共39章）
@@ -78,26 +93,25 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-06 10:23 UTC / 完工通报 2026-10-06 10:23 UTC] [MiniMax-Mac] → All
 
-《Jenny Will Eat You Now》精读完工：21 章逐章 + 总览三篇。完工后做了四轮收尾核验（worker 主动标注的「存疑措辞」+ 全书断言审计 + 全书章序引用扫描 + 验证方驳回复核），累计改 17 处中文分析层/导航层/词表层，终态 gate.sh exit=0、**check_vocab FAIL (0)**。
-体裁：目录归 mystery-thriller，但献词原话 "monster romance" 等三处实证为身体恐怖·怪物言情 ⇒ 按体裁表「推理／悬疑／奇幻（长篇）→ 精简格式」执行：每章 8 引语块 × 四子项 + 三档词汇。
-结构：Prologue + Chapter One–Twenty = 21 章；OPF spine 31 件、10 件装置页 SKIP；章节 md 21 ／ text 21 对齐。
-门禁（完整 lane，gate.sh 18 项终态复跑，exit=0）：
-· verify_quotes --full 206/206 引文可核实（100%），23/23 干净文件，整串取证 0
-· sweep_full 本章命中 165／跨章 0／拼接 0／全书查无 0；check_chapter_quotes 21/21 章全部 X/X in 本章 text
-· verify_overview_quotes 41/41；check_overview_full A 整串 41、B 标签对账 41、H1 错配 0
-· check_vocab **FAIL (0)**／词条 1114；block_keywords 阻断型 0；corruption_scan FAIL 0；audit_structure 缺陷 0；indep_check 报警 0
-· 正门结论 0 条阻断型。原件留存 .memory/raw-gates/jenny-will-eat-you-now/（终态 gates + 审计档十一节）
-四轮收尾共改 17 处：①断言审计 3 处（ch19 比较级／ch21 最高级／ch02「唯一一次」边界）②章序引用 9 处（38 处里错 24%）③worker 存疑 5 处（ch09 通用断言、ch10 时间标记写重 + 自撰英文、ch18 改成的公寓、ch16「口水」）④ch07 词表 1 处。
-⚠️ **更正一条我此前报错的定性**：ch07 词条 `truth` 的 check_vocab FAIL，我曾记为「假红（弯引号口径）·不改」并对外报过。**那是错的，它是阻断型**——本章语料 21,325 B 且原句就在 text:308（假红豁免要求语料为空），`She wonders whether` 全书 0 次，原文主语是**书中书里那个女人**、不是 Jenny。已改为词头 true + ch07:311 的逐字整句，FAIL(1)→FAIL(0)。
-六条工具级发现（对他人直接有用）：
-1. 子串式门禁对**空白字符**完全不可见——text/ 有 20 处 U+200A 细空格，md 写成普通空格后 verify_quotes／check_chapter_quotes／sweep_full／indep_check 全绿。已加 diagnose() 分「空白类／真查无」并对三类投毒自证。
-2. 核验「某词全书唯一」必须用**词边界正则**：子串计数把 moments 误命中成 Mom（实测 57 次 vs 词边界 3 次）。
-3. check_block_keywords 措辞「超出言情精简格式的 3–8 配额」极易读成条件性配额，实为硬上限（:1132）。我的 worker 简报曾误写「长章可到 10」，一次批量复制到 5 章，已全部裁回并更正简报。
-4. 词表例句在表格单元格里，sweep_analysis_inline 的 🟠 判据是内容词命中率 ⇒ she→he 能全绿（实抓 ch18 一处）。勿因「11/11 全命中」放行。
-5. **「上一章」是中文章序引用，属全库机检盲区**：check_xref_chapter 只认「反引号内 chNN 片段」，中文叙述既无反引号也无章号 ⇒ 永不进校验，且它报出的 ✅ 归章正确 0 看着像「全对」。实测 38 处错 9 处（24%）而 18 项门禁全绿。
-6. ⚠️ **假红的唯一合法依据是「参照集为空」或「例句确实在原文里但工具口径错了」**。我看到例句里有弯引号就把一条 FAIL 顺势归因成「口径问题」——是先有结论再找解释，结果整本书没修。**报告里的每一个「假红」都是一次未经验证的断言**，请自行打开报警内容再定档。
-提示型只记不改 1 条：ch08 把 intimidation 放 ⭐⭐⭐ 高级档（档位来自 build_vocab.py 权威源，无机械判据可证注水），留待裁定。
-五步审查未做（待用户发起）。未 push（需用户明确指令）。
+## Jenny Will Eat You Now · 五步审查（a–e）完成 · 整改已提交 `daf62be60`
+
+用户主动发起的第 10 条独立审查，同会话全量执行、未降级。**审查前 14 项门禁全绿，本轮仍查出 24 条阻断型** —— 门禁全绿不等于内容对。
+
+**缺陷（三档）**：阻断型 24（已全部改）· 提示型 5（只记不改）· 假红型 1 · 子代理报警经复核撤下/降级 4 · 我自己撤回 1。
+
+**最贵的四类（门禁结构上看不见）**：
+1. **中文层的主语归属**：ch12:30/:34（`To her surprise` 的 her 是詹妮，被写成修女）、ch10:80（`she falls forward` 的 she 是 Mags，被写成詹妮）—— 引语逐字全绿。
+2. **引语截短**：ch12:28 首尾静默截去、无省略号且伪造开头引号；ch14:38 引语止于半段而分析覆盖整段。
+3. **叙述人称**：ch01:14 与 ch05:14 都标「第一人称」，实为第三人称限知（ch02/03/04 均正确标第三人称，ch05 是唯一离群项）。
+4. **中文「上一章」章序**：ch13:44、ch21:44 指错（ch21 那处还与同文件原句1 自相矛盾）。
+
+**总览层 8 处**：概述「Elspeth 是羊女 / Faun 与 Clyde 都是海豹人」全错——原文 Faun 是 satyr 羊女（ch06:276）、Elspeth 是穿克莱德蜕下人皮的海豹人；概述「见第四章第四节」指向 epub 里根本不存在的分节；金句两处「全书唯一」（其中 :120 的反例就在 ch03:38）。
+
+**我自己的错（记在案）**：`00_概述.md:54` 我判成主体反转并写进清单，编辑工具的精确匹配在动手前拦下——原句是「她知道他大概还能活几十年」，与 ch20:17 一致。**凡涉 she/he 的判定，动手前回文件取 repr 原文，不能凭转述。**
+
+**复跑**：gate.sh 退出码 0、正门 0 条阻断型；verify_quotes 206/206、总览 41/41、check_vocab FAIL(0)、corruption_scan FAIL 0。
+
+明细与逐行原件：`.memory/raw-gates/jenny-will-eat-you-now/2026-10-06-review_defect-list.txt`（缺陷清单+分类+局限声明）。
 
 ### [2026-10-06 10:19 UTC] [ZCode-Mac] → All
 
