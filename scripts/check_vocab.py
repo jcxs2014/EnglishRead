@@ -266,7 +266,15 @@ HDR_EXAM  = ('例句', '原文例', '例 句', 'example', 'sentence', 'citation'
 # check out / give in）的中心词正是小品词，排掉就永远配不上。
 FUNC_STOP = {'the', 'a', 'an', 'and', 'or', 'it', 'its', 'is', 'are', 'was', 'were',
              'be', 'been', 'being', 'do', 'does', 'did', 'has', 'have', 'had',
-             'that', 'this', 'these', 'those', 'there', 'he', 'she', 'they'}
+             'that', 'this', 'these', 'those', 'there', 'he', 'she', 'they',
+             # 2026-10-06 补：人称/疑问词本身常被当作词条（`me` / `who` / `what` /
+             # `name` 之类），它们出现在例句里是**正常配词**，却因不在停用表一律
+             # 报「例句不含词头」。实测 Isle of Teeth ch40 `name` 行连报 4 次，
+             # 例句 `Do you know who I am?` 逐字出自本章，属假阳。
+             'i', 'me', 'my', 'mine', 'we', 'us', 'our', 'ours', 'you', 'your',
+             'yours', 'him', 'his', 'her', 'hers', 'them', 'their', 'theirs',
+             'who', 'whom', 'whose', 'what', 'which', 'when', 'where', 'why',
+             'how', 'not', 'no', 'yes', 'if', 'so', 'than', 'then', 'as'}
 
 # ── P0-4 必备章节（2026-09-26）─────────────────────────────────────────────
 # 最初想按体裁硬编码（AGENTS 的短篇合集格式不含「概览」，一刀切会全量假红），
@@ -614,6 +622,11 @@ def check_book(book_dir, verbose=False):
             example = cells[xi] if xi < len(cells) else ''
             words = [w.lower() for w in re.findall(r"[A-Za-z]+(?:'[A-Za-z]+)?", entry)]
             words = [w for w in words if w not in ('the','a','an','of','in','on','to','and','or')]
+            # 2026-10-06 修 P0-3 假阳：人称/疑问/否定小品词常被单独立条
+            # （`name` 条目的例句 `Do you know who I am?` 逐字出自原文，却因命中词
+            # 只有 am / you / know / i，而旧停用表不含它们被判「例句不含词头」）。
+            # 这类初级词条配任何自然句都难避开这些小词，统一并入停用表。
+            words = [w for w in words if w not in FUNC_STOP]
             if not words:
                 continue
             n_rows += 1
