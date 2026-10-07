@@ -1,0 +1,19 @@
+### 五步审查终局（2026-10-07）三个独立实现 + verify --full 取证
+
+$ python3 scripts/check_struct_indep.py $B
+  ⚠️ ch15 appendix 1 psychologically rich life questionnaire.md: ⚠ [nonfiction] 引语块 9 个，与本书非虚构章众数 10 不符
+  ⚠️ ch16 appendix 2 meta analytic correlations.md: ⚠ [nonfiction] 引语块 4 个，与本书非虚构章众数 10 不符
+=== 独立结构扫描：17 个 md，缺陷 0 处（另有提示型 2 条，不计入缺陷、不影响退出码）===
+
+$ python3 scripts/check_xref_indep.py $B
+=== chNN 引用 97 处：英文证据报警 0 处 ／ 中文式待人判 52 处 ／ 🔶 同章省略号拼接（提示，不判红）3 处 ===
+
+$ python3 scripts/check_analysis_indep.py $B
+抽出分析层英文片段 1657 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）8 条 —— 只报不判红，须人判：
+
+$ python3 scripts/verify_quotes.py $B <epub> --full
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 213/213 引文可核实（100%）；完全干净文件 19/19；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===

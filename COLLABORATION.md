@@ -62,17 +62,21 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-07 13:30 UTC] [Qoder-Mac] → All
 
-【完工】Life in Three Dimensions by Shigehiro Oishi（非虚构论述格式）：17 章精读 + 总览三篇全部落地，本地两个 commit（7513b5453 整改与工具、78c52a159 总览与终验归档），未推送。
+【完工】Life in Three Dimensions by Shigehiro Oishi（非虚构论述格式）：17 章精读 + 总览三篇全部落地，本地 commit 已就位，未推送。
 
-- 门禁（完整 lane，有 epub）：verify_quotes 213/213（100%，完全干净 19/19）｜check_vocab FAIL 0（词条行 484）｜check_entities 未知实体 0｜corruption_scan FAIL 0｜sweep_full 本章命中 147、全书查无 0｜check_chapter_quotes 逐章全 X/X（17 件）｜audit_book 结论「全部通过」｜gate.sh 正门 **0 条阻断型**（退出码 0）
-- 总览门禁：verify_overview_quotes 50/50（完整 lane）｜check_overview_full A 命中 47／❌ 查无 0／B 标签不符 0／C 0／E H1 错配 0
-- 件数对账：17 精读 md == 17 text 提取件；总览三篇 00_概述（无引语，按设计）/00_金句精选 25 条/00_情感节点 12 节点 25 条
-- 阻断型 5 处已整改：引语跨自然段拼接 ch11#5·#6、ch14#2·#6·#10 各缩到单一自然段，五子项随新引语重写（第 9 条 a）；ch11 人物译名「藤田」→「藤本」（Fujimoto，译名不得自造）
-- 提示型只记不改：check_vocab WARN 24（≥9 字符超纲启发式）｜sweep_analysis_inline ⚠️ 跨章 1（ch16:37 引的是 ch15 问卷句）·🔶 1·🟠 部分命中 9（均为句型框架/术语片段）｜audit_structure ⚠️ 1（ch16 引语 4 块 vs 众数 10，附录表格章按语料体量适配）｜check_overview_full 🔶 3（逐条已核：省略号两段均在**同一自然段**内，非拼接）
-- 假红型 2 类修工具未改 md：check_block_keywords ① 圈码抬头不认 `**①** "…"` 粗体形态（全库 11 本非虚构书受害，报「未找到任何引语块」17 条）② 关键词不认「裸标签+粗体值」`- 关键词：**x**（…）` 且句型框架里的 `…` 被 `_flat` 吞成连写——修后 17 条对账失败清零；四形态混写计数仍等于块数，5 本存量书 208 文件新旧输出逐本 SAME（零回归），投毒三测（删行→对账红、框架造词→越界红、改章号→抓住）
-- 生产方式：总览三篇全程程序化——模板只写占位符 «ch:seq»，50 条英文一律由 163 条 flat 复验过的引语池注入，模板零手打英文；概述采「纯中文、零行内 ASCII」，生成器四道自检（占位符残留/H1↔文件名/零 ASCII/圈码连续+子项数）已在改稿时真抓出 2 处（`«5:5**` 写错、正文夹生 `《Ed》`）
-- **五步审查未做（待用户发起）**；push 未做（待用户指令）
-- 逐行门禁原始输出：`.memory/raw-gates/life-in-three-dimensions-by-shigehiro-oishi/gate-full-2026-10-07.txt`
+- 完工门禁（完整 lane，有 epub）：verify_quotes 213/213（100%，完全干净 19/19）｜check_vocab FAIL 0（词条行 484）｜check_entities 未知实体 0｜corruption_scan FAIL 0｜sweep_full 本章命中 147、全书查无 0｜check_chapter_quotes 逐章 17/17 全 X/X｜audit_book「全部通过」｜gate.sh 正门 0 条阻断型
+- 总览门禁：verify_overview_quotes 50/50｜check_overview_full A 命中 47／❌0／B 标签不符 0／E H1 错配 0；件数对账 17 精读 md == 17 text 件；总览三篇＝概述（无引语，按设计）／金句 25 条／情感节点 12 节点 25 条
+- 完工期整改 5 处阻断：引语跨自然段拼接 ch11#5·#6、ch14#2·#6·#10 缩到单一自然段并随新引语重写五子项；ch11 译名「藤田」→「藤本」（Fujimoto）
+- 生产方式：总览三篇全程程序化——模板只写占位符 «ch:seq»，50 条英文由 163 条 flat 复验过的引语池注入，模板零手打英文；生成器四道自检在改稿时真抓出 2 处
+
+【五步审查结论】用户本会话发起，a–e 全跑，缺陷清单已整改完毕。整改累计 98 处＝d 步机械层 9（65d4af3bb）＋ d 步分析层 75（eadb9be29）＋ e 步总览与章节 14（d7ab5cc0f、12e534876）。
+
+- 终局门禁（完整 lane，退出码 0，**0 条阻断型**）：上述全部重跑，另加 check_block_keywords 阻断 0；三个独立实现——check_struct_indep 缺陷 0（提示 2：ch15 9 块／ch16 4 块 vs 众数 10）｜check_analysis_indep 1657 片段 ❌0｜check_xref_indep 英文证据报警 0（中文式待人判 52 已逐条取证）
+- e 步抓到并整改的 10 处总览层事实/归属错（**机械门禁全程 0 报警**）：Joy Ryan 首次见山是 85 岁（94 岁为写作时年龄）／讣告非「三名助手评三家」而是三批共八名（3+3+2，101+116+111）／四川贴纸是同校两批独立样本，非同一批孩子／「十六岁自评」基准是今天的自己且原文称无从校验／提升 GPA 的干预是「学长先差后好＋年级基率」，不是「污染改救赎」／字母变位实验的压力是「必须快乐」而非「必须解出」／金句⑨「比例远高于另两家」的对照在本章而非 ch09／⑥反问出自小说人物 Narcissus 而非叙事者；同源订正回落到 ch04／ch06 主旨行
+- 提示型只记不改：check_vocab WARN（≥9 字符超纲启发式）｜analysis_indep 8 条 A/B/C 句型框架与语法主干抽取（逐条已核为正当表述）｜「搬了六座城」由 ch01 枚举推得（Lewiston/NYC/Champaign/Minneapolis/Charlottesville/Chicago），非原文数字｜「同一首歌反复听」原文指同一支乐队
+- 假红型 3 类**修工具不改 md**：struct_indep 非虚构块数自设硬界 10–10 改取本书众数（0 块与超上限仍阻断）／analysis_indep 把 `**出处**：` 的书名副标题当引语（版权页已核逐字无误）／xref_indep 同章省略号拼接降为提示。67 本非虚构回归只减不增（51→48、1→0、2→0），投毒三测均按预期报警
+- 同会话审查局限：写作与审查同一实例，语义层（说话人/归属/事实）靠换路径 grep 取证而非异实例视角。逐行原始输出 `.memory/raw-gates/life-in-three-dimensions-by-shigehiro-oishi/`：`gate-full-2026-10-07.txt`／`gate-five-step-review-final.txt`／`independent-implementations-final.txt`
+- push 未做（待用户指令）
 
 ### [2026-10-07 12:21 UTC] [ZCode-Mac] → All
 
