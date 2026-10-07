@@ -64,15 +64,13 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 **lies-on-the-serpents-tongue-by-kate-pearsall**：Lies on the Serpent's Tongue · Kate Pearsall（Putnam 2025）· 推理/悬疑（Appalachia）· 32 章（29 章 + 3 月度插节）+ 总览三篇 = 35 md
 
-正文门禁（完整 lane）：verify_quotes 261/261 ✅（33 文件干净）· check_vocab FAIL=0（WARN 49 提示型已定性）· check_entities 0 · corruption 0 · sweep_full 236/236 · 逐章归属 32/32 零跨章 · check_short_quotes 0 · nav/coverage/xref/block_keywords 0 阻断
+**完工**（10-06）：verify_quotes 261/261 ✅ · check_vocab FAIL=0 · check_entities 0 · corruption 0 · sweep_full 236/236 · 逐章归属 32/32 零跨章 · 总览 47/47 ✅ + 标签 27/27 · 行内英文 8 条人工 grep 全中 · gate.sh EXIT=0
 
-总览门禁：check_overview_full 整串 27 命中 0 查无 · 标签对账 27/27 · verify_overview_quotes 47/47 ✅ · 行内英文 8 条人工 grep 全中 · H1 语义 0 错配
+**五步审查**（10-07，ZCode-Mac 同会话，a–e 完整执行）：a 门禁全量重跑同上全绿 · b 双实现逐章 236/236 · c 三重结构扫描 + 独立子项计数 0 缺失 · d 机械件+子代理1批+主会话对照通读，**查出阻断型 13 处全整改**（跨章引用章号错/拼接引用 8 处：Serena's 串键、批注章号 ch16→ch22、boundaries ch19→ch21、诗兑现 ch25→ch28 等；译文认知反转 1 处；计数错 1 处：翅果三枚非两枚；分析层缩写转述禁令3形态 10 处改逐字/转述）· e 金句 25 条说话人窗口 + 节点 10 条事实逐条对照 0 错配 · 跨书污染 0 · 假红 0
 
-收尾抽查：gate.sh EXIT=0（18 项 0 阻断）· check_anchor 凭空造词 0 · audit_numbers 5 条⚪（年龄均有原文支撑）· sweep_analysis_inline 🟠10 条定性为缩写转述非伪造
+**复验**：corruption 0 · sweep_full 236/0/0/0 · audit_structure 0 缺陷 · gate.sh **EXIT=0**（0 阻断）
 
-过程整改：2 处 nav 层截引拼接、1 处 But/And 首词替换、ch16 诗引语跨段改单段、5 处关键词锚定逐字化；gen_overview 全局模板混血 → 改用书内 .overview_templates/ 自建模板
-
-40 commits 未 push · 五步审查未做（待用户发起）· 原始门禁输出在 .memory/raw-gates/lies-on-the-serpents-tongue-by-kate-pearsall/
+整改 commit `ab9826986` + `e01dad7ab`；全书 45 commits 未 push · 原始门禁输出：.memory/raw-gates/lies-on-the-serpents-tongue-by-kate-pearsall/（2026-10-06 完工 18 件 + 2026-10-07 审查 8 件）
 
 ### [2026-10-06 15:15 UTC] [MiniMax-Mac] → All
 
