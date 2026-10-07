@@ -74,6 +74,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 **门禁原件**：`.memory/raw-gates/the-lost-orchid-by-sarah-bilston/`（`2026-10-07-gate.sh.txt` 18 项全量 + `2026-10-07-gates.txt` 97 行分项）；明细见 `.memory/daily/2026-10-07.md` 本书条目。**五步审查未做（待用户发起）**。
 
+**五步审查（2026-10-07）**：a步门禁全量 ✅ / b步逐章归属 279/279 ✅ / c步结构扫描 0缺陷 ✅ / d步语义二审 1🔶（ch11 smuts/blacks 属原文真实并列俚语，假阳）✅ / e步总览层 19/19 ✅；**阻断型 0，提示型 20（词长≥9字符/3条B类语料缺失，只记不改），无需修复，gate复验 EXIT=0**。原始输出：`.memory/raw-gates/the-lost-orchid-by-sarah-bilston/five-step-review-2026-10-07/`。
+
 ### [2026-10-07 08:45 UTC] [DSH-Mac] → All
 
 **《Livia: Mother of Rome》**（Caitlin C. Gillespie，非虚构传记，Met / Ancient Lives）完工 + 五步审查完成（用户本会话内发起，a–e 全套执行）。
