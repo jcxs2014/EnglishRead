@@ -16,9 +16,12 @@
 **⚠️ 体裁档位（2026-09-30 修正）**：本脚本原先把「必备节 / 子项集 / 引语格式 / 块数配额」
 **全部锁死在言情·精简档**（`## 本章导航` / `## 精读` / `## 本章词汇`、
 `读者视角提示`、`> **原句 N:**`、3–8 块）。**非虚构论述档**是另一套（`## 概览` /
-`## 选择性精读` / `## 词汇分级`、五子项含 `句子结构` 与 `表达方式`、`**①** "…"`、10 块），
+`## 选择性精读` / `## 词汇分级`、五子项含 `句子结构` 与 `表达方式`、`**①** "…"`），
 于是对**每一本**非虚构论述档书籍**全量假红**（Ghost Tales of the UK 实测 140 处「缺陷」
 而真实缺陷为 0；同型假红另见 `gate.sh` ⑬）。
+**块数这一维在模板里并无规定**（2026-10-07 追记：`docs/新书启动模板.md` 对非虚构档只规定
+「五子项 + 论证结构」，`docs/期刊精读模板.md` 的「五子项 10 处」只管期刊/短篇档），
+所以下方 ⑤ 对该档位取**本书自己的众数**做参照，硬界 `(10,10)` 属工具自设、已撤。
 **处置：按文件实际形态选档位**（AGENTS 8.3「格式自成一派的书是合法的；
 模板只降低手打出错概率，**不作判红依据**」）。判据 = 各档位特征节的命中数过半，
 否则报「体裁不明」并退出 2（**不猜**）。
@@ -242,6 +245,36 @@ def _short_piece(md: Path, book_dir: Path) -> bool:
     return len(t) < S_ANTH_SHORT_SRC
 
 
+_NF_MODE_CACHE = {}
+
+
+def _nf_mode(book_dir: Path, qre):
+    """本书**非虚构章**（`**①** "…"` 形态）块数的众数；无合格样本返回 None。
+
+    为什么取众数而不是写死 10：模板对非虚构档只规定「五子项 + 论证结构」，
+    **没有规定块数**（见 `check()` 里 ⑤ 的 2026-10-07 注）。块数的合理参照只能是
+    **这本书自己的其余各章**——与第一实现 `audit_structure.py` 同一口径。
+    排除「原句 N:」形态的章：那些走期刊逐句档配额，不与本档比。
+    ⚠️ **必须缓存**：本函数每次读全书 ch*.md，而 `check()` 逐章调用——
+    365 章的书不缓存就是 365×365 ≈ 13 万次读取，门禁会被自己拖死。
+    """
+    key = (str(book_dir), id(qre))
+    if key in _NF_MODE_CACHE:
+        return _NF_MODE_CACHE[key]
+    cnts = []
+    for m in sorted(book_dir.glob("ch*.md")):
+        try:
+            s = m.read_text(encoding="utf-8")
+        except OSError:
+            continue
+        if detect_profile(s) != "nonfiction" or "原句" in s:
+            continue
+        cnts.append(len(qre.findall(s)))
+    mode = None if not cnts else max(set(cnts), key=lambda c: (cnts.count(c), c))
+    _NF_MODE_CACHE[key] = mode
+    return mode
+
+
 def check(md: Path, sub_override=None, book_dir: Path = None):
     out = []
     s = md.read_text(encoding="utf-8")
@@ -313,6 +346,31 @@ def check(md: Path, sub_override=None, book_dir: Path = None):
     lo_hi = (LO, HI)
     if prof == "nonfiction" and marks_have_yuanju:
         lo_hi = (3, 20)   # 期刊逐句档不限 10 块；实测 4–13，放宽到 20 以免假红
+    elif prof == "nonfiction":
+        # ⚠️ 2026-10-07（Life in Three Dimensions 五步审查 c 步实测）：模板:147 的
+        # 「10 处」是**期刊/短篇合集**档的配额，非虚构档模板只规定「五子项 + 论证结构」，
+        # **从未规定块数**。`(10,10)` 因此是本工具按某几本书的写作习惯**自造的硬界**：
+        # 本书 ch15（9 块）/ch16（4 块）各报一条 ❌，而 ch16 的源文本只有 2 个够长自然段，
+        # 凑满 10 块必然违反「一条引语只取一个自然段」的硬禁令（禁令 5）。
+        # 第一实现 `audit_structure.py` 用的是**本书众数**比对且只给 ⚠️，两实现口径不一致。
+        # 改法：块数与**本书非虚构章的众数**比，偏离 ⇒ ⚠️ 提示型（只记不改，不进缺陷数、
+        # 不影响退出码）；**0 块仍是阻断型**——那才是真的结构断裂，与本豁免无关。
+        mode = _nf_mode(book_dir, QRE) if book_dir is not None else None
+        # lo_hi 置为恒真区间：本分支已自行判完，避免与下方通用配额**重复报同一条**
+        # （第一版就漏了这一步，9 块的书会同时收到 ⚠️ 与 ❌）。
+        lo_hi = (0, 10 ** 9)
+        if not nums:
+            out.append(f"[{prof}] 引语块 0 个（该档必须有精读块）")
+        elif mode is not None:
+            # ⚠️ 上限**必须先判**：若把 `len(nums) != mode` 放在前面，12 块的书会走进
+            # 「偏离众数」分支而**永不触发**上限判据——第一版就是这样写成了死代码
+            # （AGENTS 第 10 条「自写检查器第一版是死代码」同型坑）。
+            if len(nums) > HI:
+                out.append(f"[{prof}] 引语块 {len(nums)} 个，超出上限 {HI}")
+            elif len(nums) != mode:
+                out.append(f"⚠ [{prof}] 引语块 {len(nums)} 个，与本书非虚构章众数 {mode} 不符")
+        elif not LO <= len(nums) <= HI:
+            out.append(f"[{prof}] 引语块 {len(nums)} 个，超出 {LO}–{HI} 配额")
     if prof == "anthology" and book_dir is not None and _short_piece(md, book_dir):
         # ⚠️ 2026-10-04（Fold Catastrophes 五步审查 c 步实测）：第一实现
         #    `check_block_keywords.py` 早已有「短篇合集短篇目」豁免（ANTH_SHORT_SRC
