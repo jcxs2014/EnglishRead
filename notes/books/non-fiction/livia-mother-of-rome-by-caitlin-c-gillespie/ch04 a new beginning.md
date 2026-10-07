@@ -112,7 +112,7 @@ modified: "2026-10-07"
 > **原句 10:** These objects were all in the future: in 35, Octavian simply opened a door. Livia and Octavia had little control over what happened next.
 
 - **中文理解**：这些物件当时都还只是未来之事：公元前三十五年，屋大维不过是推开了一扇门。莉维娅与屋大维娅对接下来发生的事几乎没有掌控力。
-- **句子结构**：第一句主语 These objects，表语 all in the future，后接冒号引出第二句；第二句 in 35 为时间状语（公元年份不写纪元），simply 为副词，opened a door 为动宾；第二句独立成句，have nothing but little control 表达「几乎没有」。
+- **句子结构**：第一句主语 These objects，表语 all in the future，后接冒号引出第二句；第二句 in 35 为时间状语（公元年份不写纪元），simply 为副词，opened a door 为动宾；第二句独立成句，had little control over what happened next 表达「几乎没有」。
 - **关键词**：objects / opened / control
 - **表达方式**：作者先把一长串材质清单（宝石、浮雕、钱币、陶器、油灯……）压缩成 future 一个词，再用最简单的比喻 opened a door 与之配对：门是他开的，门后的一切都不属于开门人。
 - **为什么这样写**：这是全章的落点，也是与原句 1 的 lifeline 遥相对应的一处呼应——一个抓绳索，一个开大门，两个比喻的主语都不是她。全章从「她抓住了一根绳索」写到「门在她身后关上」，把标题里的「新开始」降格为一次被别人安排的位置变动：公共立像、法第权限、造型规范一项项到位，而她的发言权一项也没有同步到位。作者在下一章才真正开始检验这笔交易的代价。

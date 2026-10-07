@@ -101,7 +101,7 @@ modified: "2026-10-07"
 > **原句 8:** From mental agility comes moral action and the proper conduct of one’s life.
 
 - **中文理解**：由心智的敏捷，生出道德的行动与对一生的正当处世。
-- **句子结构**：倒装句，正常语序为 moral action and the proper conduct of one’s life come from mental agility；主语 the proper conduct of one’s life 后接 comes（与前面 compound subject 一致取单数）。
+- **句子结构**：原文即倒装句 From mental agility comes moral action and the proper conduct of one’s life；主语 the proper conduct of one’s life 后接 comes（谓语随靠近主语的中心词取单数）。
 - **关键词**：agility / moral action / proper
 - **表达方式**：以 from…comes 的因果结构作格言式断语，是斯多葛—修辞传统的口吻，恰好是希腊教师会灌输给她的那套语言。
 - **为什么这样写**：这句无主语的格言是全章教育论证的理论前提，且其来源正是莉维娅所受的教育。作者在不动声色地让她引用自己所学——她日后那套「靠说服与才智而非血统」的做法，正是这句格言的实践。
@@ -177,3 +177,4 @@ modified: "2026-10-07"
 
 ## 一句话总结
 
+作者把莉维娅的出身写成三笔账的乘积：克劳狄家族给她的制度性红利、针对贵族女性的一套完备道德教育、以及公元前 1 世纪末内战为女性腾出的行动空间——三者缺一不可，也正因如此，她日后所有越界举动都不是孤胆英雄式的选择，而是一个条件齐备的人在别人还没想到规则之前先用了规则。

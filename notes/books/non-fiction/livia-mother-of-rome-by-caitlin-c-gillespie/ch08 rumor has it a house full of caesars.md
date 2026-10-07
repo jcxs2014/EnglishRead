@@ -122,7 +122,7 @@ modified: "2026-10-07"
 | hierarchy | 层级、等级体系 | The Palatine complex was in constant flux, and the decade between 2 BCE and 8 CE witnessed shifts in the power hierarchy internal to the House of Caesar so swift they make my head spin. |
 | unsubstantiated | 未经证实的 | Rumors abounded, including accusations that Livia was behind both deaths, but they were unsubstantiated. |
 | plagued | 折磨、侵扰 | We will never be able to fully separate the truth from the lies in the rumors that plagued Livia and labeled her a murderer (among many other things), but we can at least consider the evidence. |
-| concordant | 和谐一致的 | Indeed, Ovid suggests, his wife may have derived her own positive qualities from this model matron, one who has been deservedly revered for years. |
+| concordant | 和谐一致的（此处指帝室夫妇公开的协调状态） | In his exilic corpus, Ovid expresses his desire for his wife to approach Livia and petition her to ask Augustus to remit his sentence.8 His request is reasonable, given Livia’s relationship with Augustus and her irreproachable qualities as his pure, chaste, concordant wife. |
 | erudition | 博学 | Against all odds, Claudius grew up to be a gifted orator and historian. He became recognized throughout the empire for his erudition and wrote voluminous histories, among other works, which demonstrated his encyclopedic knowledge. |
 | voluminous | 卷帙浩繁的 | Against all odds, Claudius grew up to be a gifted orator and historian. He became recognized throughout the empire for his erudition and wrote voluminous histories, among other works, which demonstrated his encyclopedic knowledge. |
 | sycophancy | 逢迎、谄媚 | Ovid’s hyperbolic portrait of Livia as a quasi-divine, perfect specimen of Roman womanhood smacks of sycophancy, but it may contain a kernel of truth about Livia’s public image. |
@@ -153,7 +153,7 @@ modified: "2026-10-07"
 | matron | 女家长、主妇 | Indeed, Ovid suggests, his wife may have derived her own positive qualities from this model matron, one who has been deservedly revered for years. |
 | devoted | 忠诚的、挚爱的 | Her devoted mother, Scribonia, voluntarily accompanied her and stayed with her to the end. |
 | anniversary | 周年纪念日 | They set up an annual day of mourning on the anniversary of the disaster. |
-| heir | 继承人 | As a record of public achievements, family only features when it is a public matter: Gaius and Lucius and Tiberius are mentioned, Livia is not. |
+| heir | 继承人 | Livia’s position as mother and stepmother in the House of Caesar was never tenuous, but her degree of influence over Augustus’s choice of an heir had its ups and downs. |
 
 ## 一句话总结
 

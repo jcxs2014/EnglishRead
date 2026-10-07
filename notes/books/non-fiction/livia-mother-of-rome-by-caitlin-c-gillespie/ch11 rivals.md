@@ -11,7 +11,7 @@ modified: "2026-10-07"
 - **作者**：Caitlin C. Gillespie
 - **章节定位**：正文第 10 章（书内 CHAPTER TEN）；承接 ch10（CHAPTER NINE Julia Augusta），覆盖提比略即位后至公元 29 年莉维娅去世
 - **字符数**：18,298 B（text/ch11_chapter_ten_rivals.txt，155 句）
-- **一句话主旨**：莉维娅的权力正来自她无法被罢免这一点；本章论证她与提比略之间的敌意是双向的，而她最终选择的报复方式是不出手—— letting her son destroy himself。
+- **一句话主旨**：莉维娅的权力正来自她无法被罢免这一点；本章论证她与提比略之间的敌意是双向的，而她最终选择的报复方式是不出手—— she let her son destroy his reputation himself。
 
 ## 论证结构
 
@@ -24,7 +24,7 @@ modified: "2026-10-07"
 - **论证脉络**：以帕斯奎诺像引入「匿名指控」这一形式 → 摆出母子关系的双重性（敌意与敬意并存）→ 说明她的权力为何无法被罢免（potentia 而非 imperium）→ 用乌尔古拉尼亚与皮索案展示庇护的具体形态 → 以公元 22 年重病展示她的待遇已近乎国教 → 交代提比略退居卡普里与塞雅努斯的挑战 → 点出她握有私信而未用 → 以她的死与那句「除她儿子外」收束。
 
 - **可质疑处**：
-  1. **「她不使用私信」被写成一个道德选择，但作者也承认这是推断**。原文用的措辞是 she may have threatened to expose them（可能威胁）与 Livia did not use them（未使用）；两处之间缺少一个说明「她有意不用」的直接证据。作者在结尾把它写成 letting her son destroy his reputation himself，语气上偏向褒义，而证据只支持「她没有用」。
+  1. **「她不使用私信」被写成一个道德选择，但作者也承认这是推断**。原文用的措辞是 may have threatened to expose them（可能威胁，主语是她留下的那些信）与 Livia did not use them（未使用）；两处之间缺少一个说明「她有意不用」的直接证据。作者在结尾把它写成 she let her son destroy his reputation himself，语气上偏向褒义，而证据只支持「她没有用」。
   2. **「她无法被罢免」这一优势同时是作者论证的对象与前提**，两者未被区分。作者用一串排比（不能罢免、不能解雇、不能免职、不能起诉）来证明她的地位特殊，但这串排比本身是她地位的描述，不是独立的证据；而她的地位在多大程度上是制度赋予的、又在多大程度上是她自己挣来的，本章没有细分。
   3. **关于提比略「可能装作关心」的对称性问题**。作者引塔西都乌斯说提比略的关切或许是假的，随即说「或者他们的和谐关系仍然真诚，或者两人都擅长掩饰」——两个选项并列，不作裁决。对于一位自称不接受塔西都乌斯式动机论的方法论作者，此处是同一个手法的第二次出现。
 
@@ -146,7 +146,7 @@ modified: "2026-10-07"
 | grudge | 积怨、记仇 | Even in her eighties, Livia could hold a grudge. So could her son. |
 | bated breath | 屏息 | There are times when the illness of a leader brings a society to a halt, and everyone waits with bated breath to see if the patient will survive. |
 | halt | 停止、停顿 | There are times when the illness of a leader brings a society to a halt, and everyone waits with bated breath to see if the patient will survive. |
-| heir | 继承人 | There are times when the illness of a leader brings a society to a halt, and everyone waits with bated breath to see if the patient will survive. |
+| heir | 继承人 | However, domestic matters were political matters, especially when it came to Tiberius’s heir. |
 | dynasty | 王朝 | Sejanus could not boast of the noble ancestry of the Claudians, and Tiberius considered him unqualified to be heir to the Julio-Claudian dynasty. |
 | mourning | 服丧 | She died in her home on the Palatine, and everyone went into mourning—well, everyone except her son. |
 | palatine | 帕拉丁（罗马七丘之一，皇族居所所在） | She died in her home on the Palatine, and everyone went into mourning—well, everyone except her son. |

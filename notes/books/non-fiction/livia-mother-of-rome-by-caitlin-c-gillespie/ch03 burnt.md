@@ -98,7 +98,7 @@ modified: "2026-10-07"
 > **原句 8:** Fulvia was not present at the battle, but that is not my point.
 
 - **中文理解**：福尔维娅当时并不在战场上，但这不是我此处的重点。
-- **句子结构**：两个小句由 but 转折；前句否定式，后句 that 引导的主指句 with that as the subject。
+- **句子结构**：两个小句由 but 转折；前句否定式，后句以 that 为主语的从句。
 - **关键词**：not my point / present
 - **表达方式**：作者罕见地直接向读者说话——that is not my point 是在提醒：真正重要的不是战场的细节，而是福尔维娅在罗马政治中的位置。
 - **为什么这样写**：作者在史料边缘处划了一条线，声明自己的关切所在。这既是诚实，也是策略：她想借用福尔维娅的事例来为莉维娅的处境做类比，就先排除掉不相关的细节，以免读者被战场上的具体描写带偏。
@@ -135,8 +135,8 @@ modified: "2026-10-07"
 | dissolved | 消解、溶解（此处为过去分词，指公私界限的消失） | Proscription dissolved the boundaries of public and private, political and domestic, by bringing politics into the home. |
 | siege | 围城 | Octavian was merciless, laying siege to the city and starving the citizens out. |
 | trajectory | 轨迹、路径（此处指政治生涯的走向） | Octavian’s family connection to Julius Caesar was central to his political trajectory. |
-| fleeing | 逃亡 | The cursed Tiberius Nero was forced to flee again, at night, through a forest that caught on fire. |
-| household | 家、一家（指罗马的家户单位，兼有法律意义） | Proscription dissolved the boundaries of public and private, political and domestic, by bringing politics into the home. |
+| fleeing | 逃亡 | It is not clear what happened next, but the cursed Tiberius Nero was forced to flee again, at night, through a forest that caught on fire. |
+| household | 家、一家（指罗马的家户单位，兼有法律意义） | Other members of the household, from the sons of the proscribed to their slaves, had to make similar decisions. |
 
 ### ⭐⭐ 进阶
 
@@ -148,15 +148,14 @@ modified: "2026-10-07"
 | auspices | 择日占卜（此处指择定婚日的宗教程序） | On the day itself, auspices would have been taken to make sure that the day was suitable for marriage: the legal requirements for marriage were matched by religious ones. |
 | flammeum | （拉丁语）新娘的火焰色头纱 | She wore the flammeum, a veil of bright orange, wrapped around her six braids and secured by a wreath of marjoram. |
 | materfamilias | 女主人、家长之母（罗马家户中的女性主导角色） | Upon entering, Tiberius gave Livia water and fire as a symbol of his acceptance of his bride and her new role as female head of his household (materfamilias). |
-| siege | 围城 | Octavian was merciless, laying siege to the city and starving the citizens out. |
-| eulogy | 悼词 | When Julia died eight years later, young Octavian had the honor of delivering her public funeral oration. |
-| grave | 坟墓（此处作动词，指下葬） | Brutus wept and ordered friends to bury the body. |
+| eulogy | 悼词 | Delivering a eulogy for a family member was a proven method for a young man to enter the public sphere and demonstrate his adroitness at public oratory. |
+| bury | 埋葬（此处指把死者下葬） | Brutus wept and ordered friends to bury the body. |
 | upbringing | 教养、抚育 | After his father died, Octavian had been sent to live with his grandmother Julia, and she managed his upbringing and education. |
 | spokesperson | 发言人 | Hortensia, the daughter of Cicero’s famous rival Hortensius, was chosen as their spokesperson. |
 | levied | 征收（税赋，过去式） | So they levied a tax on the wealthiest women of Rome to fund their civil war. |
 | institute | 设立、制定（此处指设立政治清洗制度） | As part of their agreement, they decided to institute a proscription—a list that publicly condemned their political rivals as enemies of the state. |
 | foment | 煽动、助长（此处指福尔维娅帮着掀起兵变） | As the wife of Antony, she helped foment a military uprising and even raised troops for the occasion. |
-| burnt | 焚烧、烧毁（本章标题 Burnt 的形容词形） | The incident became a core memory for Livia, or so I believe. |
+| fire | 火、火灾（本章标题 Burnt 所指的那场火） | We lose sight of the family for a short while after the fire. |
 
 ### ⭐ 基础
 
@@ -172,16 +171,16 @@ modified: "2026-10-07"
 | threshold | 门槛 | Attendants carried Livia over the threshold, or perhaps Tiberius did it himself. |
 | terrified | 恐惧的 | Life in Rome during a proscription was terrifying. |
 | wealth | 财富 | Livia had a noble ancestry, family wealth, and an education suitable for her presumed future as the wife of an elite Roman and mother of his children. |
-| coast | 海岸 | As they looked for a ship to take them away from Naples, the enemy burst into town, and they barely escaped. |
+| harbor | 港口、避风港 | The family made their way through the countryside, avoiding roads and eventually reaching the harbor. |
 | female | 女性的 | Upon entering, Tiberius gave Livia water and fire as a symbol of his acceptance of his bride and her new role as female head of his household (materfamilias). |
 | symbol | 象征 | Upon entering, Tiberius gave Livia water and fire as a symbol of his acceptance of his bride and her new role as female head of his household (materfamilias). |
 | celebrate | 庆祝 | Before all the drama, Livia and Tiberius Nero became officially betrothed in a formal ceremony and celebrated their upcoming nuptials with an engagement party. |
-| estate | 财产 | Unless their home had been confiscated by the triumvirs, the family still had property on the Palatine in Rome, and it would have been Livia’s job to manage it, along with the household staff. |
-| fascinating | 迷人的 | The gift was lovely, and Tiberius would keep the objects safe; later they would be put on display in Baiae in memory of Pompeia’s gracious gift. |
-| dignity | 尊严 | Marcus chose to die with his reputation intact rather than beg for mercy from the victors. |
-| loyalty | 忠诚 | Why did Livia continue to accompany Tiberius Nero, toting along their young son, rather than return to Rome and manage any property that had not been taken by the state? |
-| proclaim | 宣告 | The triumvirs reduced the number of women whose property was taxed and added several wealthy men to the list. |
-| struggle | 挣扎 | The trauma of exile was not necessarily worse than the trauma suffered by those who stayed at home, and dangers lurked around every corner. |
+| estate | 产业、庄园（此处指奥古斯都从姨丈处继承的财产） | In addition, Octavian gained his great-uncle’s estate, as well as the loyalty of Caesar’s legions. |
+| lovely | 可爱的、精美的（此处指庞培娅所赠的礼物） | The gift was lovely, and Tiberius would keep the objects safe; later they would be put on display in Baiae in memory of Pompeia’s gracious gift. |
+| reputation | 名声（此处指马库斯的死守住了自己的名声） | The use of violence against a Roman woman was abhorrent and unacceptable: as a result, Lepidus’s reputation was tarnished. |
+| loyalty | 忠诚 | Whatever her reasons, she demonstrated a steadfast marital loyalty, earning a reputation for absolute fidelity that would last throughout her life (with one major hiccup, that is—when she exchanged one husband for the next). |
+| proclaiming | 宣告、宣示（此处为分词，指恺撒在广场上自报血统） | Julius Caesar had achieved renown when he eulogized his aunt Julia in 68 from the Rostra, the speakers’ platform in the Forum, proclaiming his family’s descent from both the goddess Venus and the king Ancus Marcius.6 (No wonder he had an ego problem. |
+| conflict | 冲突、内战（此处指三头同盟之间的内战） | Many Romans lost their lives in the conflict and its aftermath, whether fighting in battle or by killing themselves in solidarity with their leaders. |
 
 ## 一句话总结
 

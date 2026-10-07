@@ -51,7 +51,7 @@ modified: "2026-10-07"
 - **句子结构**：主句 Her husband looks around 极短，后接独立主格 his eyes betraying…，再以冒号引出同位解释 it was his fault。破折号换成冒号是关键：冒号前是可见的外部动作，冒号后是内心归因，中间没有转折词，读者被强行带到他的自我指控面前。
 - **关键词**：betraying / regret / fault
 - **表达方式**：betraying 一词是全句的支点——「眼睛泄露了内心」这一被动泄露结构，把本应藏住的东西写成了藏不住的。
-- **为什么这样写**：作者把「流亡是谁的错」这个全书持续追问的问题（莉维娅是自愿随夫流亡，原文明确说 husband hadn't forced her）提前种在这一夜里。它同时服务于同情性解读：逃亡的过错被归给丈夫，这为后文她「不受控于身边男人」的自我定位埋下第一块砖。
+- **为什么这样写**：作者把「流亡是谁的错」这个全书持续追问的问题（莉维娅是自愿随夫流亡，原文明确说 His wife and child hadn’t been forced to join him in exile）提前种在这一夜里。它同时服务于同情性解读：逃亡的过错被归给丈夫，这为后文她「不受控于身边男人」的自我定位埋下第一块砖。
 
 > **原句 3:** Is this what her life was supposed to be like, the woman wondered. Wasn’t she born for more than this?
 
@@ -88,7 +88,7 @@ modified: "2026-10-07"
 > **原句 7:** When we look at Livia, we are confronted with a series of portraits, some of them wildly conflicting, and many created at a point of historical remove.
 
 - **中文理解**：当我们凝视莉维娅时，扑面而来的是一系列肖像，其中有些彼此剧烈冲突，且多数是在与她相隔甚远的历史时点被造出来的。
-- **句子结构**：When 引导的主句 we are confronted with…，后接两个并列的 some of them… 和 many created…，分别用逗号与 and 连接；the point of historical remove 三个名词连用作介词 of 的宾语。
+- **句子结构**：When 引导的主句 we are confronted with…，后接两个并列的 some of them… 和 many created…，分别用逗号与 and 连接；at a point of historical remove 三个名词连用作介词 of 的宾语。
 - **关键词**：portraits / conflicting / remove
 - **表达方式**：confronted（被迫面对）比 see（看见）更强——作者暗示读者并非在选择材料，而是被材料堵住了退路。
 - **为什么这样写**：这一句是全书的史料方法声明：肖像多、互相矛盾、且出自后世。三重限定叠加，把「为什么她可以是任何人」这一难题一次性交代完，后面就不必为每一条材料单独辩护。

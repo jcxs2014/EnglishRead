@@ -130,7 +130,7 @@ modified: "2026-10-07"
 | venerated | 被崇敬的 | Livia’s powerful position as matriarch was enshrined in stone. Her image remained potent, and her memory venerated. |
 | affability | 和蔼可亲 | With respect to the purity of her household she conformed to ancient customs; her affability went farther than was approved for women of old; an uncontrollable mother, a compliant wife, and a good match for the arts of her husband and the pretense of her son. |
 | honorific | 荣誉性的（此处指授予的凯旋门） | Among other innovative and exceptional honors, the Senate voted her an honorific arch for her acts of kindness and generosity, as well as divine honors, and ordered the matrons of Rome to mourn for an entire year. |
-| benefactions | 施与、捐赠 | We have no other details of the will, but Tiberius would have inherited the majority of her property. |
+| benefactions | 施与、捐赠（此处指贵族向亲友散财、释放奴隶的行善模式） | For the rest, she probably followed the established pattern of Roman aristocrats, providing benefactions to friends and other family members, and giving her most trusted, loyal slaves their freedom. |
 
 ### ⭐ 基础
 
