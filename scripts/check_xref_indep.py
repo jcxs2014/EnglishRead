@@ -70,6 +70,7 @@ def main():
         book[f'{int(num):0{max(2, len(num))}d}{suffix}'] = p.read_text(encoding='utf-8')
     flat = {k: re.sub(r'[^a-z0-9]', '', v.lower()) for k, v in book.items()}
     tot = bad = 0
+    n_splice = 0
     todo = []
     for md in sorted(list(B.glob('ch*.md')) + list(B.glob('00_*.md'))):
         s = md.read_text(encoding='utf-8')
@@ -109,15 +110,43 @@ def main():
                 for e in LAT.finditer(sent):
                     if 0 <= e.start() - c.end() <= 1 and e.group(0) not in STOP:
                         ev.append(e.group(0))
-                hit = [e for e in ev if re.sub(r'[^a-z0-9]', '', e.lower()) in flat.get(nn, '')]
+                # ⚠️ 2026-10-07 修正（本书五步审查 d 步实测，3 条假红）：带 `…` 的拼接引语
+                #   按定义**不是**该章文本的连续子串（`flat()` 把省略号一起剥掉，于是
+                #   「A…B」被当成「AB」去找，而原文 A、B 之间隔着别的词）⇒ 同一条引语在
+                #   `verify_overview_quotes` / `sweep_full` 里 ✅、在本脚本里 ❌，
+                #   **两个门禁口径不一致**（AGENTS 第 3 条假红型，同 check_block_keywords
+                #   2026-10-02 那条同源：判据放宽的是「整串」，**不是**「可以乱拼」）。
+                #   修法与全库同口径：**按 `…` 切开，每段都必须在被引章里 flat 命中**——
+                #   段数 ≥2 且全中 ⇒ 记为命中（另计一条 🔶 拼接提示，不判红）；
+                #   任一段查无 ⇒ 照旧 ❌（凭空造句与移章同样查无，负控见本次修正记录）。
+                def _hit(e):
+                    ch_flat = flat.get(nn, '')
+                    if re.sub(r'[^a-z0-9]', '', e.lower()) in ch_flat:
+                        return True, False
+                    segs = [x for x in re.split(r'\s*…\s*', e)
+                            if len(re.sub(r'[^a-z0-9]', '', x.lower())) >= 8]
+                    if len(segs) >= 2 and all(
+                            re.sub(r'[^a-z0-9]', '', x.lower()) in ch_flat
+                            for x in segs):
+                        return True, True
+                    return False, False
+                hit, splice = [], 0
+                for e in ev:
+                    ok, sp = _hit(e)
+                    if ok:
+                        hit.append(e)
+                        splice += sp
                 miss = [e for e in ev if e not in hit]
                 if ev and miss:
                     bad += 1
                     print(f"  ❌ {md.name}:{line} → ch{nn}：证据 {miss} 在该章查无")
                     print(f"        句：{sent.strip()[:100]}")
+                elif splice:
+                    n_splice += 1
                 elif not ev:
                     todo.append((md.name, line, nn, sent.strip()))
-    print(f"=== chNN 引用 {tot} 处：英文证据报警 {bad} 处 ／ 中文式待人判 {len(todo)} 处 ===")
+    print(f"=== chNN 引用 {tot} 处：英文证据报警 {bad} 处 ／ 中文式待人判 {len(todo)} 处"
+          f" ／ 🔶 同章省略号拼接（提示，不判红）{n_splice} 处 ===")
     if want_list and todo:
         print("--- 中文式待人判清单（前 %d 条）---" % min(mx, len(todo)))
         for f, l, n, sent in todo[:mx]:
