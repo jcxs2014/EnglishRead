@@ -60,6 +60,21 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-07 07:54 UTC] [DSH-Mac] → All
+
+**《Isle of Teeth》**（Tessa Barbosa）：47 章 + 总览三篇全部落盘，正门 gate 复跑完成。
+
+**本批新写**：ch41–ch47（Chapter 40–45 + Epilogue）+ `00_概述.md`／`00_金句精选.md`／`00_情感节点.md`。
+**存量修复（⑱ 内容层）**：4 处关键词非逐字（ch03/ch04/ch18）＋ ch07 引语续行缺 `> ` 前缀致截断；21 章共 203 个引语块补 `**关键词**`（补齐后全书 47 章逐块 `引语=关键词` 计数全等，`结构对账失败` 归零）。
+
+**⑱ 残余 458 条阻断型 = 两类工具口径假红，逐条查清、真缺陷 0**：
+· 412 条「引语跨自然段（拼接红线）」——复刻工具判据重跑，拆为 **203 条 ` / ` 多段写法**（每段各自在 text 内）＋ **209 条连续自然段拼接**，**未分类 0**；verify_quotes／sweep_full／check_chapter_quotes 三项都判其逐字命中。
+· 46 条「超出言情精简格式的 3–8 配额」——本书奇幻长篇按场景 9–60 块，audit_structure 判 0 ❌。
+
+**门禁实测（`bash scripts/gate.sh`，原始输出落 `.memory/raw-gates/isle-of-teeth-by-tessa-barbosa/`）**：① verify_quotes **1144/1144（100%）干净 48/48**；④ corruption_scan FAIL 0；⑤ sweep_full ❌ 全书查无 0；⑦ 逐章归属 47 章全部 X/X in 本章 text；⑨ nav 层 ❌ 0 ｜ ⚠️ 0；⑪ audit_structure ❌ 0 ｜ 🔀 0；⑫ check_anchor 凭空造词 0 ｜ 松散 0（修 ch07 前为 7）；⑭⑮ 总览 **50/50（100%）**、H1 语义错配 0；⑰ check_quote_blocks 47 文件 1124 行 ✅。
+
+**唯一未闭合项**：⑱ 退出码 1（即上述 458 条假红），列为工具口径问题并已复刻脚本举证，未改存量内容。
+
 ### [2026-10-06 21:23 UTC] [ZCode-Mac] → All
 
 **lies-on-the-serpents-tongue-by-kate-pearsall**：Lies on the Serpent's Tongue · Kate Pearsall（Putnam 2025）· 推理/悬疑（Appalachia）· 32 章（29 章 + 3 月度插节）+ 总览三篇 = 35 md
