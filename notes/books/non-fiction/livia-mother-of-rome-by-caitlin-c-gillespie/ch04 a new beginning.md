@@ -43,7 +43,7 @@ modified: "2026-10-07"
 - **句子结构**：第一句主语 She，两个并列的不定式短语 needed a new direction 与 as well as security that… 从属于同一谓语；第二句是 when 引导的时间状语从句在前、When a lifeline appeared 作条件，主句 she grabbed it 极短。
 - **关键词**：direction / security / lifeline
 - **表达方式**：grabbed 一个动词就把决定写得毫不迟疑，且不交代她是否犹豫。作者用最短的动作句结束全章的开场段，等于宣布：她抓住机会这件事，不是一个道德问题。
-- **为什么这样写**：作者把这一段写成全章的启动键。上一章结束时她一无所有（详见第二章 Burnt／焚毁一节的结局），这一段只用一个 grab 就完成转向——同时 grabbed it 的宾语是「绳索」而不是「幸福」，这个比喻此后贯穿全章：她抓住的始终是别人抛来的东西。这个意象在本章末尾还会再变一次形态，化作别人推开的一扇门。
+- **为什么这样写**：作者把这一段写成全章的启动键。上一章结束时全家正在获准返回罗马的路上（详见上一章 Burnt／焚毁一节的结尾），这一段只用一个 grab 就完成转向——同时 grabbed it 的宾语是「绳索」而不是「幸福」，这个比喻此后贯穿全章：她抓住的始终是别人抛来的东西。这个意象在本章末尾还会再变一次形态，化作别人推开的一扇门。
 
 > **原句 2:** The event gained further notoriety because it was held during a time of extreme famine in Rome, making the display of excessive luxury wholly inappropriate.
 
@@ -107,7 +107,7 @@ modified: "2026-10-07"
 - **句子结构**：主干为 so… that… 结果结构，主语 producing male heirs（动名词短语）作主语，had 为系动结构接表语 cultural cachet；that 从句中主语 female fertility，系动词 became，表语 a divine quality，后置分词短语 honored with statues 修饰 quality。
 - **关键词**：heirs / cachet / fertility / divine
 - **表达方式**：作者把一个社会习俗一路推到神学层：生育不再只是一种社会功能，而成了一项可立像供奉的神性品质。cachet 一词选得很准——它指的不是「重要」，而是「身份标志」，恰是女人用来证明自己价值的那种东西。
-- **为什么这样写**：这段是作者解释她此后命运的关键装置。她与屋大维此后再无共同的子女，从此再未怀孕（详见下一章开篇对其生育的追述），而本章紧接着写她获得公共雕像与保民官级特权——荣誉来得越迟，失去的越无法补偿。作者先用下文（第 38 段）提到的尼禄妻子生女后元老院决议建 fertility 神庙却终究未建作为反证，再回到这句总结，等于说：一个女人的生育力一旦与国家崇拜挂钩，它就成了她唯一的筹码，而莉维娅的筹码在三十岁出头就已被清空。
+- **为什么这样写**：这段是作者解释她此后命运的关键装置。她与屋大维此后再无共同的子女，从此再未怀孕（详见下一章开篇对其生育的追述），而本章紧接着写她获得公共雕像与保民官级特权——荣誉来得越迟，失去的越无法补偿。作者先用下文提到的尼禄妻子生女后元老院决议建生育女神神庙却终究未建一事作为反证，再回到这句总结，等于说：一个女人的生育力一旦与国家崇拜挂钩，它就成了她唯一的筹码，而莉维娅的筹码在三十岁出头就已被清空。这一无子女的处境在下一章（书内第四章 First Lady of Rome／罗马第一夫人）中仍被反复提及。
 
 > **原句 10:** These objects were all in the future: in 35, Octavian simply opened a door. Livia and Octavia had little control over what happened next.
 
