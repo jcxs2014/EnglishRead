@@ -1,0 +1,97 @@
+# 门禁原始输出 — ch01–ch14（12 件，缺 ch10/ch12）2026-10-07 14:24:54
+## verify_quotes
+ch01 should i stay or should i go.md: 10/10 ✅
+ch02 the happiness trap.md: 10/10 ✅
+ch03 the meaning trap.md: 10/10 ✅
+ch04 a life of exploration.md: 10/10 ✅
+ch05 ingredients of psychological richness.md: 10/10 ✅
+ch06 who is rich psychologically rich.md: 10/10 ✅
+ch07 playfulness.md: 10/10 ✅
+ch08 the beauty of diy.md: 10/10 ✅
+ch09 do aesthetic experiences count.md: 10/10 ✅
+ch11 turn adversity into a psychologically rich experience.md: 10/10 ✅
+ch13 two remaining questions.md: 10/10 ✅
+ch14 a good life without regrets.md: 10/10 ✅
+
+=== 总计 120/120 引文可核实（100%）；完全干净文件 12/12；正文章节 0 提取 0；总览 0 提取转交 0 ===
+## verify_quotes --full
+ch03 the meaning trap.md: 10/10 ✅
+ch04 a life of exploration.md: 10/10 ✅
+ch05 ingredients of psychological richness.md: 10/10 ✅
+ch06 who is rich psychologically rich.md: 10/10 ✅
+ch07 playfulness.md: 10/10 ✅
+ch08 the beauty of diy.md: 10/10 ✅
+ch09 do aesthetic experiences count.md: 10/10 ✅
+ch11 turn adversity into a psychologically rich experience.md: 10/10 ✅
+ch13 two remaining questions.md: 10/10 ✅
+ch14 a good life without regrets.md: 10/10 ✅
+
+=== 总计 120/120 引文可核实（100%）；完全干净文件 12/12；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+## check_vocab
+词条行合计: 386
+
+--- FAIL (0) ---
+
+--- WARN (18) ---
+  ch01 should i stay or should i go.md [基础] 基础档疑含超纲词「deadlines」
+  ch01 should i stay or should i go.md [?] 词汇节外有 3 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch02 the happiness trap.md [基础] 基础档疑含超纲词「decisions」
+  ch02 the happiness trap.md [?] 词汇节外有 1 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch03 the meaning trap.md [基础] 基础档疑含超纲词「strangers」
+  ch03 the meaning trap.md [?] 词汇节外有 1 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch04 a life of exploration.md [?] 词汇节外有 4 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch05 ingredients of psychological richness.md [基础] 基础档疑含超纲词「breakfast」
+  ch05 ingredients of psychological richness.md [基础] 基础档疑含超纲词「wrestling」
+  ch05 ingredients of psychological richness.md [?] 词汇节外有 4 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch06 who is rich psychologically rich.md [?] 词汇节外有 4 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch07 playfulness.md [?] 词汇节外有 4 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch08 the beauty of diy.md [?] 词汇节外有 4 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch09 do aesthetic experiences count.md [基础] 基础档疑含超纲词「childhood」
+  ch09 do aesthetic experiences count.md [?] 词汇节外有 2 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch11 turn adversity into a psychologically rich experience.md [?] 词汇节外有 5 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch13 two remaining questions.md [?] 词汇节外有 6 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch14 a good life without regrets.md [?] 词汇节外有 5 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+## check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+## corruption_scan
+
+=== 编辑损坏扫描（life-in-three-dimensions-by-shigehiro-oishi）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+## sweep_full
+=== 引语整串 flat 比对（life-in-three-dimensions-by-shigehiro-oishi）===
+  参照集：text/ 逐章（17 章，可定章） + epub 交叉验证
+  ✅ 本章命中 102 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 18 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+  🔶 ch02 the happiness trap.md（ch2）跨标签拼接，各段逐字都在：Suicide is still somewhat rare. In the peak 
+  🔶 ch06 who is rich psychologically（ch6）跨标签拼接，各段逐字都在：We also looked at how many of them led a hap
+  🔶 ch06 who is rich psychologically（ch6）跨标签拼接，各段逐字都在：How many of the Straits Times folks were rat
+  🔶 ch06 who is rich psychologically（ch6）跨标签拼接，各段逐字都在：It brings us back to the big question: Is it
+  🔶 ch06 who is rich psychologically（ch6）跨标签拼接，各段逐字都在：Goldberg’s study and others like it found th
+  🔶 ch06 who is rich psychologically（ch6）跨标签拼接，各段逐字都在：At a party, who do you talk to? I am an intr
+  🔶 ch06 who is rich psychologically（ch6）跨标签拼接，各段逐字都在：In short, openness to experiences represents
+  🔶 ch11 turn adversity into a psych（ch11）跨标签拼接，各段逐字都在：By 2001, all the physical damage in Kobe and
+  🔶 ch11 turn adversity into a psych（ch11）跨标签拼接，各段逐字都在：Replicating the results from the first study
+  🔶 ch13 two remaining questions.md（ch13）跨标签拼接，各段逐字都在：Their difficulties are in part due to the fa
+  🔶 ch13 two remaining questions.md（ch13）跨标签拼接，各段逐字都在：So I expected her paintings to be rather dar
+  🔶 ch13 two remaining questions.md（ch13）跨标签拼接，各段逐字都在：Fellowship emerges out of repeated shared ex
+  🔶 ch14 a good life without regrets（ch14）跨标签拼接，各段逐字都在：What’s the world for you if you can’t make i
+  🔶 ch14 a good life without regrets（ch14）跨标签拼接，各段逐字都在：So, let us not forget that this is our life 
+  🔶 ch14 a good life without regrets（ch14）跨标签拼接，各段逐字都在：If satisfaction and meaning were the only me
+  🔶 ch14 a good life without regrets（ch14）跨标签拼接，各段逐字都在：A happy life is like a Caribbean cruise. Eve
+  🔶 ch14 a good life without regrets（ch14）跨标签拼接，各段逐字都在：When we were in Chicago, there was a huge fe
+  🔶 ch14 a good life without regrets（ch14）跨标签拼接，各段逐字都在：To be clear, I am not arguing that a psychol
+## check_chapter_quotes 全书
+全章扫描: 解析引语块 120，命中本章 120（100%）
+✅ 全部引语均归属正确章节
+## sweep_analysis_inline
+=== 分析层行内英文逐字核查（life-in-three-dimensions-by-shigehiro-oishi）===
+  参照集：text/（17 个提取件） + epub 交叉验证 ；扫 12 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：555 个表格行、431 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1167 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 6 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 5
+  🟠 ch06 who is rich psychologically rich.md:105  「which is evident in」→ 内容词 1/1 命中（evident）——疑漏词或改写
+  🟠 ch09 do aesthetic experiences count.md:35  「art must be at least minimally comprehensible」→ 内容词 4/4 命中（art/comprehensible/least/minimally）——疑漏词或改写
+  🟠 ch09 do aesthetic experiences count.md:93  「it nevertheless made the reading experience deeper and r」→ 内容词 6/6 命中（deeper/experience/made/nevertheless）——疑漏词或改写
+  🟠 ch09 do aesthetic experiences count.md:141  「were more attributionally complex」→ 内容词 2/2 命中（attributionally/complex）——疑漏词或改写
+  🟠 ch14 a good life without regrets.md:37  「is not the best life」→ 内容词 2/2 命中（best/life）——疑漏词或改写
+  🟠 ch14 a good life without regrets.md:93  「then we might tell sb to do sth」→ 内容词 1/2 命中（tell）——疑漏词或改写
