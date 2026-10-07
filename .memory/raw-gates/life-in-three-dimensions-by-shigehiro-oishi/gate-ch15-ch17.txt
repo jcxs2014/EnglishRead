@@ -1,0 +1,82 @@
+### 2026-10-07 14:57:17 门禁原始输出（life-in-three-dimensions，ch01–ch17 全 17 件）
+
+$ verify_quotes --full
+ch01 should i stay or should i go.md: 10/10 ✅
+ch02 the happiness trap.md: 10/10 ✅
+ch03 the meaning trap.md: 10/10 ✅
+ch04 a life of exploration.md: 10/10 ✅
+ch05 ingredients of psychological richness.md: 10/10 ✅
+ch06 who is rich psychologically rich.md: 10/10 ✅
+ch07 playfulness.md: 10/10 ✅
+ch08 the beauty of diy.md: 10/10 ✅
+ch09 do aesthetic experiences count.md: 10/10 ✅
+ch10 the point of exploration.md: 10/10 ✅
+ch11 turn adversity into a psychologically rich experience.md: 10/10 ✅
+ch12 a story we tell.md: 10/10 ✅
+ch13 two remaining questions.md: 10/10 ✅
+ch14 a good life without regrets.md: 10/10 ✅
+ch15 appendix 1 psychologically rich life questionnaire.md: 9/9 ✅
+ch16 appendix 2 meta analytic correlations.md: 4/4 ✅
+ch17 appendix 3 an alternative summary of the book.md: 10/10 ✅
+
+=== 总计 163/163 引文可核实（100%）；完全干净文件 17/17；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+$ check_vocab
+词条行合计: 484
+
+--- FAIL (0) ---
+
+--- WARN (24) ---
+  ch01 should i stay or should i go.md [基础] 基础档疑含超纲词「deadlines」
+  ch02 the happiness trap.md [基础] 基础档疑含超纲词「decisions」
+  ch03 the meaning trap.md [基础] 基础档疑含超纲词「strangers」
+  ch05 ingredients of psychological richness.md [基础] 基础档疑含超纲词「breakfast」
+  ch05 ingredients of psychological richness.md [基础] 基础档疑含超纲词「wrestling」
+  ch09 do aesthetic experiences count.md [基础] 基础档疑含超纲词「childhood」
+  ch16 appendix 2 meta analytic correlations.md [基础] 基础档疑含超纲词「happiness」
+
+$ check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+$ corruption_scan
+
+=== 编辑损坏扫描（life-in-three-dimensions-by-shigehiro-oishi）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+$ sweep_full --quiet
+=== 引语整串 flat 比对（life-in-three-dimensions-by-shigehiro-oishi）===
+  参照集：text/ 逐章（17 章，可定章） + epub 交叉验证
+  ✅ 本章命中 145 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 18 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+$ check_chapter_quotes 全章
+全章扫描: 解析引语块 163，命中本章 163（100%）
+✅ 全部引语均归属正确章节
+
+$ audit_structure
+=== 精读结构扫描（life-in-three-dimensions-by-shigehiro-oishi）===
+  扫 17 个 md、163 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 1 ｜ 🔀 映射不一致 0
+  ⚠️ ch16 appendix 2 meta analytic correlatio  引语 4 个，与本书众数 10 相差过大
+
+$ sweep_analysis_inline
+=== 分析层行内英文逐字核查（life-in-three-dimensions-by-shigehiro-oishi）===
+  参照集：text/（17 个提取件） + epub 交叉验证 ；扫 17 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：727 个表格行、546 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1540 ｜ ⚠️ 跨章 1 ｜ 🔶 拼接 1 ｜ 🟠 部分命中 9 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 12
+  ⚠️  ch16 appendix 2 meta analytic correlations.md:37  「My life has been psychologically rich」→ 实为 ch15
+  🔶 ch10 the point of exploration.md:87  「How many people actually follow…? Very few.」→ 分段命中
+  🟠 ch06 who is rich psychologically rich.md:105  「which is evident in」→ 内容词 1/1 命中（evident）——疑漏词或改写
+  🟠 ch09 do aesthetic experiences count.md:93  「it nevertheless made the reading experience deeper and r」→ 内容词 6/6 命中（deeper/experience/made/nevertheless）——疑漏词或改写
+  🟠 ch10 the point of exploration.md:47  「the purpose of life is to live it」→ 内容词 3/3 命中（life/live/purpose）——疑漏词或改写
+  🟠 ch10 the point of exploration.md:51  「taste to the utmost」→ 内容词 2/2 命中（taste/utmost）——疑漏词或改写
+  🟠 ch10 the point of exploration.md:95  「those who spend less time exploring are indeed more like」→ 内容词 14/14 命中（before/divorce/end/exploring）——疑漏词或改写
+  🟠 ch12 a story we tell.md:58  「A is inherently intertwined with」→ 内容词 2/2 命中（inherently/intertwined）——疑漏词或改写
+  🟠 ch12 a story we tell.md:70  「which are designed to」→ 内容词 1/1 命中（designed）——疑漏词或改写
+  🟠 ch14 a good life without regrets.md:93  「then we might tell sb to do sth」→ 内容词 1/2 命中（tell）——疑漏词或改写
+  🟠 ch17 appendix 3 an alternative summary of the book.md:94  「What was the key word」→ 内容词 2/2 命中（key/word）——疑漏词或改写
+
+$ check_crossref
+交叉引用核对：5 对，报警 0
