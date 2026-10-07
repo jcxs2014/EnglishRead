@@ -40,7 +40,7 @@ modified: "2026-10-06"
 
 - **中文理解**：「「我们曾经有五十座之多，遍布整个林区，但六十年代开始用飞机之后就大多淘汰了，现在还有无人机和红外相机。不过这一座嘛」——她像拍老朋友一样拍了拍木楼梯的扶手——「这一座我们还用得着。这片区域的林子格外密，而且不知为什么，所有那些奇妙的新科技在这儿都会出故障。有某种干扰，我们查不清。」」
 - **关键词**：this one we still need · all that wonderful new tech just glitches · Some sort of interference
-- **为什么这样写**：Vernie 的话把塔从「过时的遗物」翻成「不可替代的例外」，理由却停在一句悬置的查不清（interference we can't figure out）——科技失效是本书超自然层的第二个入口（第一个是天赋与怪谈）。pats like an old friend 的动作说明这座塔与人有交情；而「 Plane 与无人机管用、唯独这里失灵」的写法，等于画出了一个超自然异常区的地图坐标。
+- **为什么这样写**：Vernie 的话把塔从「过时的遗物」翻成「不可替代的例外」，理由却停在一句悬置的查不清（「Some sort of interference here we can’t figure out」）——科技失效是本书超自然层的第二个入口（第一个是天赋与怪谈）。「pats the handrail of the wooden staircase like an old friend」的动作说明这座塔与人有交情；而「 Plane 与无人机管用、唯独这里失灵」的写法，等于画出了一个超自然异常区的地图坐标。
 - **读者视角提示**：把「科技在此 glitch」当作山里另一套规则的物理证据；后面的情节凡是「信号消失、设备失灵」，都发生在这张地图之内。
 
 > **原句 5:** “Do you know why the leaves change color?” she asks, squinting into the sun. “The trees dismantle their chlorophyll, reabsorbing it to store for the long winter. Waste nothing and prepare for anything. That’s my motto. Just like the forest.” She smiles, then disappears back into the trees.

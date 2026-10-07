@@ -48,7 +48,7 @@ modified: "2026-10-06"
 - **中文理解**：「Juniper 这份天赋，从她身上拿走的，似乎从来比给她的多。」
 - **关键词**：This gift of Juniper’s · take more from her than it ever gives
 - **为什么这样写**：Rowan 对妹妹天赋的总评一句：通灵在她身上不是技能是失血。take/give 的账本写法延续了本书「交换必有价」的伦理——天赋也有利息，Juliper 一直在用身体还。作者把这句话放在收队回程，让肾上腺素退潮后的担忧接管叙事：成功不等于值得。
-- **读者视角提示**：对照 ch09 的「amplify」疑虑与本次的实损：Juniper 的能力线正走向「要不要封印」的家庭争论，留意后续谁替她做这个决定。
+- **读者视角提示**：对照本章「amplified」的疑虑与本次的实损：Juniper 的能力线正走向「要不要封印」的家庭争论，留意后续谁替她做这个决定。
 
 > **原句 6:** He looks impossibly young. And it’s no surprise Sorrel’s friends are calling him Sleeping Beauty. He looks like some fairy-tale prince. Even the light shines through the window like it’s trying to caress his face.
 

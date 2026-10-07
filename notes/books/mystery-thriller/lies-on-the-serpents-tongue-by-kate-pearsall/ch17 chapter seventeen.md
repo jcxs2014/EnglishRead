@@ -20,7 +20,7 @@ modified: "2026-10-06"
 - **中文理解**：「正中央是一座会丢时间的钟楼，有时整小时地跳过，有时又随机地往回走针。」
 - **关键词**：a clock tower that loses time · skipping whole hours · ticking randomly into the past
 - **为什么这样写**：图书馆所在的市政楼先给镇子装一只病钟：丢时、跳时、倒走——三种故障正好对应本书三种时间异常（时差、跳失、倒流感）。作者把超自然设定藏进市政基建的闲笔里，读者第一次意识到：Caball Hollow 连公共计时器都在漏。这只钟是全镇状态的仪表盘。
-- **读者视角提示**：记住「钟会倒走」——凡后文出现时间对不上的细节（Juniper 的失踪、John Doe 的昏迷时长），都可回头对照这只钟。
+- **读者视角提示**：记住「钟会倒走」——凡后文出现时间对不上的细节（Rowan 的失踪、John Doe 的昏迷时长），都可回头对照这只钟。
 
 > **原句 2:** CABALL HOLLOW—Last night at approximately 11:52 p.m., the Eldritch County Sheriff’s Department responded to a fatal single-vehicle crash. An older-model white Ford Ranger, driven by a 25-year-old male from out of state, was exiting the National Forest when it left the roadway and struck a large boulder.
 

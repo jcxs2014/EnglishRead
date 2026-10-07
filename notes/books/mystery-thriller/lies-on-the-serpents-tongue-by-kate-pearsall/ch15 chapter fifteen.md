@@ -27,7 +27,7 @@ modified: "2026-10-06"
 - **中文理解**：「「别喊，”一个女声贴着我耳朵低语。“我无意伤害你。我只想谈谈。」」
 - **关键词**：Don’t scream · I mean you no harm · I just want to talk
 - **为什么这样写**：ch07 林中绑架案的签名句式（「We mean you no harm」）在这里被一个女人的耳语复述——同一句话，从威胁变成了保护。作者故意让句式撞车：读者此刻分不清来者是敌是友，直到下一句验谎。耳语的位置（贴耳）与 Rowan 平日的能力通道（鼻）不同，这次她只能靠味道判人——而「我只想谈谈」恰好无味。
-- **读者视角提示**：把这句话与 ch07 的「You must come with us. We mean you no harm」并置：同源句式，两种立场；谁在模仿谁，是彼界权力游戏的一角。
+- **读者视角提示**：把这句话与 ch07 绑架者的两句令（「You must come with us」「We mean you no harm」）并置：同源句式，两种立场；谁在模仿谁，是彼界权力游戏的一角。
 
 > **原句 3:** “You don’t have to trust me—hell, you probably shouldn’t—but I am trying to keep you safe, that I promise.”
 
@@ -55,14 +55,14 @@ modified: "2026-10-06"
 - **中文理解**：「「当年我走投无路，签下了自己的缚约，那时我并没有完全明白后果，”她说着，仍不看我。「如今我被诅咒了：只有化作一种没人认得出的形态，才能离开此地。」」
 - **关键词**：my own binding agreement · didn’t fully understand the consequences · in a form no one would recognize
 - **为什么这样写**：Zephyrine 的失踪案第一次有了第一人称版本：不是被掳，是签约。didn't fully understand the consequences 是这个家族所有交易的共同签名（Mama 的爱、Linden 的书、她的自由）——签的都是「当时以为付得起」的东西。a form no one would recognize 的字面答案（猫）要到下一段才揭开，作者故意让「认不出」先悬两行。
-- **读者视角提示**：对账：ch02 里 Gran 的妹妹「trusted the wrong man with family secrets」——被爱人出卖与自签缚约，中间还缺一环（那个男人是谁、契约给了谁），留意后文补全。
+- **读者视角提示**：对账：ch02 里 Gran 讲的 Zephyrine 旧案（她把家族秘密托付给以为爱她的男人，被那人拿去自保）与自签缚约，中间还缺一环（那个男人是谁、契约给了谁），留意后文补全。
 
 > **原句 7:** “No,” she agrees. “I’ve had to keep my claws covered, but I’ve done what I can to protect you from spying eyes and thieving beaks. Now you must do the rest.”
 
 - **中文理解**：「「不，”她认同道。“我一直只能把爪子收着，但在我力所能及之处，我一直护着你们——防那些窥探的眼、行窃的喙。剩下的，得靠你自己了。」」
 - **关键词**：keep my claws covered · protect you from spying eyes and thieving beaks · Now you must do the rest
 - **为什么这样写**：猫化身份揭晓的同时完成罪名反转：会偷魂的猫在本书里第一次出场，是收着爪子护人的那只。spying eyes and thieving beaks 顺手给喜鹊翻案——在 Zephyrine 的哨位里，鹊既是窃贼也是哨兵（一打喜鹊方才替她报警）。Now you must do the rest 把守望接力正式移交：长辈的护佑到期，主战场交还 Rowan。
-- **读者视角提示**：对账 ch11：门垫上的死鹊、骨树上的七鹊、今晨的警告齐鸣——「thieving beaks」里也有她的兵；Cat-Sìth≠凶手，凶手另有其猫。
+- **读者视角提示**：对账 ch11 与 ch06：门垫上的死鹊（ch11）、骨树上的七鹊（ch06）、今晨的警告齐鸣——「thieving beaks」里也有她的兵；Cat-Sìth≠凶手，凶手另有其猫。
 
 > **原句 8:** “Rowan,” Juniper says. “It’s nearly sunset. You’ve been missing all day.”
 

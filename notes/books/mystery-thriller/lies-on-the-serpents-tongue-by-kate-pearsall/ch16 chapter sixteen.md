@@ -34,7 +34,7 @@ modified: "2026-10-06"
 - **中文理解**：「「两个世界被永远撕裂。」——小册诗的末行，独立成段的六个词。」
 - **关键词**：Two worlds torn forever asunder
 - **为什么这样写**：全诗的收束只落在这一行：六个词、两个世界、一次永别。诗的每一行各自成段——单行成段的形式本身就是预言的节奏：拆开来看每一句都轻，合起来才是墓志。而「撕裂」用的是完成时的被动（torn），账已经结清，只剩执行。诗是谁塞进背包的、为什么塞给她，本身就是下一层谜。
-- **读者视角提示**：对账 ch25 的「Two worlds torn forever asunder」兑现现场——门塌那天，这句诗从预言变成新闻；而「hungry cat black as night」站在 usurper 一边，与 Zephyrine（护人的猫）同源不同主。
+- **读者视角提示**：对账 ch28——门塌之日，这句诗从预言变成新闻；而「hungry cat black as night」站在 usurper 一边，与 Zephyrine（护人的猫）同源不同主。
 
 > **原句 4:** “I was just checking the latest news about the boy in the coma.” She locks her phone and tosses it onto the bed in front of her.
 

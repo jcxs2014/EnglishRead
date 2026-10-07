@@ -26,7 +26,7 @@ modified: "2026-10-06"
 
 - **中文理解**：「「不是运气好。”她摇头，垂在背上的黑辫子像条风筝尾。“Teays River 区办公室接到过一通匿名语音留言。」」
 - **关键词**：It wasn’t luck · the dark braid down her back like a kite tail · an anonymous voicemail
-- **为什么这样写**：一句「不是运气」把救援的因果链拨回人手：有人知道伤者在哪、却不肯留名。anonymity 在这里比留言内容更响——留言人既要人被救，又要自己隐形；这与 Hadrian 的处境（被袭击、不能暴露身份）严丝合缝，与 Harshbarger 的谎（「这一带没有盗采者」）形成同章双谜。作者不给答案，只让 the dark braid like a kite tail 这种松弛的比喻垫在中间，仿佛在说：线索会飘，但要有人拉线。
+- **为什么这样写**：一句「不是运气」把救援的因果链拨回人手：有人知道伤者在哪、却不肯留名。anonymity 在这里比留言内容更响——留言人既要人被救，又要自己隐形；这与 Hadrian 的处境（被袭击、不能暴露身份）严丝合缝，与 Harshbarger 的谎（「这一带没有盗采者」）形成同章双谜。作者不给答案，只让「the dark braid down her back like a kite tail」这种松弛的比喻垫在中间，仿佛在说：线索会飘，但要有人拉线。
 - **读者视角提示**：匿名报案人是本章最大暗扣——候选池：Hadrian（最顺）、伏击者（回马枪）、护林员内部；先存档再验证。
 
 > **原句 3:** “I’ve been looking through all the old books, searching for a way to bring your great-aunt Zephyrine back.” Gran gestures to the book on the table in front of her. “It may be time for me to admit there’s only one place I’m likely to find a solution.”
@@ -60,7 +60,7 @@ modified: "2026-10-06"
 > **原句 7:** “There’s always one way you could get the truth.” There’s a rustle of fabric under her words like she’s settling in. “And all it would take is a couple drops of blood.”
 
 - **中文理解**：「「要拿到真相，总有一个法子。」她的话音底下有一阵布料的窸窣，像是躺得更舒服了些。「而且只需要几滴血。」」
-- **关键词**：one way you could get the truth · a rustle of fabric like she’s settling in · a couple drops of blood
+- **关键词**：one way you could get the truth · a rustle of fabric under her words like she’s settling in · a couple drops of blood
 - **为什么这样写**：Sorrel 的建议用最闲适的语气说出最狠的内容——隔着电话、伴着躺下的窸窣声谈「血咒」，亲密与阴冷同框。a couple drops of blood 把仪式成本压到近乎随意，与 Rowan「从不轻用」的郑重形成张力；姐妹俩一个递刀、一个握鞘，家的分工可见一斑。这段也为 Rowan 的第二能力（逼真话）正式立档：她能闻谎，也能造真。
 - **读者视角提示**：血咒=几滴血+迫使吐秘——记住成本与代价感的不对等；后面谁对谁用血、用几次，都是大节拍。
 

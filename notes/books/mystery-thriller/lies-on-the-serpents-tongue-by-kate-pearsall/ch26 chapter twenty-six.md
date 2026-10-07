@@ -34,7 +34,7 @@ modified: "2026-10-06"
 - **中文理解**：「想到那只猫正游荡着偷魂，而这片陌生的新大陆上没有墓园守卫引渡亡魂去彼界，恐慌攫住了所有人。故乡有人送来了指令——由鸟的喙衔来——写明若无守卫天然生成，该如何造出一个。而那个换生灵，似乎是理想人选。」
 - **关键词**：no graveyard watch · delivered in the beak of a bird · the changeling seemed an ideal candidate
 - **为什么这样写**：一封信补完犯罪链的最后一块：动机（怕魂被偷）、技术（故乡寄来的造门指南）、人选（美得出奇的换生灵男孩）。delivered in the beak of a bird 把喜鹊写成两界邮政——今天的偷魂贼，当年是送信员。ideal candidate 四个字轻飘飘落下，底下是殖民者对一个「不是人」的孩子签发的死刑。
-- **读者视角提示**：对账 ch19 的「The dead aren't good with boundaries」与本章：喜鹊的职务一直没变，变的是主人；镇子的原罪正式入档。
+- **读者视角提示**：对账 ch21 的「The dead aren't good with boundaries」与本章：喜鹊的职务一直没变，变的是主人；镇子的原罪正式入档。
 
 > **原句 4:** Black ink calligraphy sprawls across it in careful lines: J. M. Darrow, aged 15. Portrait commissioned by his mother.
 

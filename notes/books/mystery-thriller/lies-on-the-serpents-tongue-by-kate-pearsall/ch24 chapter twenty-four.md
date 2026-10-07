@@ -25,7 +25,7 @@ modified: "2026-10-06"
 > **原句 2:** “But as I read it, I realized it was more than that. It was the creation story of the Bone Tree and the forbidden prophecy of its end. And that the key to getting my mother out might be the tiny bone that was hidden in the spine.”
 
 - **中文理解**：「「可读着读着我发现，它不止于此。它是 Bone Tree 的创世故事，还有被封禁的、关于它终结的预言。而救我母亲出去的钥匙，也许就是藏在书脊里的那根小骨头。」」
-- **关键词**：the creation story of the Bone Tree · the forbidden prophecy of its end · the tiny bone hidden in the spine
+- **关键词**：the creation story of the Bone Tree · the forbidden prophecy of its end · the tiny bone that was hidden in the spine
 - **为什么这样写**：小册的成分表一次配齐：神话（创世）+预表（末日）+机关（书脊藏骨）。forbidden prophecy 点出彼界的言论管制：能被禁的故事，才是真故事。书脊藏骨把「书」与「骨」两件信物焊成一把钥匙——读它的人若知骨为何物，书就成了越狱指南。
 - **读者视角提示**：对账 ch16 诗的「Till the bone's day to die」：骨之日=王之骨重见天日之时；Ona 读的是同一首诗，只是她读出了行动纲领。
 
@@ -47,7 +47,7 @@ modified: "2026-10-06"
 
 - **中文理解**：「「他让我做一件我不肯做的事，我背叛了他一次——他饶了我。”与我渐高的音量相反，Hadrian 的声音越来越轻。「可我不知道该怎么阻止 Bone Tree 枯败。而当它垮掉的那天，你在一边……」」
 - **关键词**：I betrayed him once · he spared me · you’ll be on one side…
-- **为什么这样写**：他的全部处境压进三句：抗命、获饶、以及悬在省略号里的放逐。voice quieter in contrast to mine 写出两人音量的剪刀差——她越喊，他越轻，因为他的话没有立场只有事实。you'll be on one side 没说完的后半句是全书最重的未竟之语：门塌即永别，他连「分手」都是被门代办的。
+- **为什么这样写**：他的全部处境压进三句：抗命、获饶、以及悬在省略号里的放逐。「seems to get quieter in contrast to mine」写出两人音量的剪刀差——她越喊，他越轻，因为他的话没有立场只有事实。you'll be on one side 没说完的后半句是全书最重的未竟之语：门塌即永别，他连「分手」都是被门代办的。
 - **读者视角提示**：对账 ch15 的「Remember where your loyalty lies」：他不是不忠诚，是忠诚被绑票；「另一边」三个字记住——结局的门必须为这句话给答案。
 
 > **原句 6:** Then, when I’m sure he won’t see me cry, I give myself another ten minutes to fall apart.

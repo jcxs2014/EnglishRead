@@ -34,7 +34,7 @@ modified: "2026-10-06"
 - **中文理解**：「「他永远不会放我走。」她的嗓音哑得像喊过、或者哭过。「他愤怒，但不止是愤怒。他觉得被背叛，像有什么东西被人夺走了。而且他有股劲——一个目的……」她的声音低下去。」
 - **关键词**：He’s never going to let me go · He feels betrayed, like something was taken from him · this drive, a purpose
 - **为什么这样写**：Juniper 的通灵报告第一次给出王的「人格档案」：愤怒之下是背叛感，背叛感之下是目的。like something was taken from him 与她的处境互为镜像——王被夺走了命，她被夺走了力。作者让受害者与加害者在同一个句式里对账：他们都觉得被偷了。
-- **读者视角提示**：purpose 一词悬着：王的目的是什么（复仇？回家？重登王位？）——它与 ch16 诗的「awaken the rightful king」对上时，答案自会合拢。
+- **读者视角提示**：purpose 一词悬着：王的目的是什么（复仇？回家？重登王位？）——它与 ch22 烛显批注的「Awaken the rightful king」对上时，答案自会合拢。
 
 > **原句 4:** Tonight, the Bone Tree looks like a man trying to flee across the river, arms outstretched like he's reaching for help.
 

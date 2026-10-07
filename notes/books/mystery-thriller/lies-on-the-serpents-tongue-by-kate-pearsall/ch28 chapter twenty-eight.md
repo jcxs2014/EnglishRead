@@ -20,7 +20,7 @@ modified: "2026-10-06"
 - **中文理解**：「彼界最强的魔法系于两样东西，Rowan。血与名。在他之前，是我占着 James McKeane Darrow 这个名。而救 Bone Tree 的唯一办法，就是照它当初被造的方式把它重新稳住。」
 - **关键词**：tied to two things, Rowan. Blood and name · I was James McKeane Darrow before he was · stabilize it in the same manner it was created
 - **为什么这样写**：反派导师腔（teacher instructing a classroom）讲出全书魔法总纲：血与名。I was…before he was 一句把篡位术自供到只剩语法可辨——名字被他先占了，正统反而成了复制品。same manner it was created 点明重演意图：他要的稳树=重演一次活埋。作者让最大的恶以最温和的课堂语气宣讲。
-- **读者视角提示**：对账 ch24「Serena's tongue」封口咒与本章血名论：Nimh 的一切魔法都靠「占名」——所以 Rowan 的名字才是他唯一的解，也是他唯一的死穴。
+- **读者视角提示**：对账 ch24 的 serpent’s tongue 封口咒与本章血名论：Nimh 的一切魔法都靠「占名」——所以 Rowan 的名字才是他唯一的解，也是他唯一的死穴。
 
 > **原句 2:** Caorunn means ‘rowan.’ A perfect twist of fate. Caorunn helped create the bridge between our worlds, and now you will save it.
 
@@ -48,7 +48,7 @@ modified: "2026-10-06"
 - **中文理解**：「彼界的魔法是我活着的依托——或者说，是我所能靠近的「活」。我本来就不适合久留这个世界。一旦断了与彼界的连接，我剩下的就只是河底泡了十九年的一副骸骨。」
 - **关键词**：keeps me alive, or as near as I can be to it · not meant to be in this world long-term · a skeleton nineteen years in the river
 - **为什么这样写**：Hadrian 的死亡条款第一次自己宣读：他的「活」是充电式续航，树亡即电尽。as near as I can be to it 的自我修正诚实得残忍——他连「活着」都要打引号。a skeleton nineteen years in the river 把抽象危机换算成具体遗骸：Elam 的实体一直在河底等他。作者让爱情第一次面对物理倒计时，比任何反派都锋利。
-- **读者视角提示**：对账 ch13「Elam McCoy's body…never came home」：尸体下落在此揭晓（Teays River 水下暗窖）；「回家」的终点原来一直泡在离家一步的水里。
+- **读者视角提示**：对账 ch13 的「never came home」——Elam 遗体下落（Teays River 水下暗窖）在本章揭晓（Teays River 水下暗窖）；「回家」的终点原来一直泡在离家一步的水里。
 
 > **原句 6:** The original was made by the first Moth-Winged Man and the first Rowan James, right? So we’ll make our own. And we know where your bones are, so no need to bury anyone alive.
 

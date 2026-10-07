@@ -48,7 +48,7 @@ modified: "2026-10-06"
 - **中文理解**：「「彼界有个传统。纹身和这边的不一样，」Hadrian 解释。「它们是咒——护身、赋力、表效忠——而且必须挣来。」」
 - **关键词**：Tattoos aren’t like they are here · spells, for protection, for power, for fealty · they are earned
 - **为什么这样写**：彼界纹身观的三连功能（护身/赋力/效忠）排比对出权力体系：皮肤是契约的羊皮纸，墨是条款。they are earned 四个词最重——Nimh 的烙印、Hadrian 的花、Zephyrine 的猫，各自都是「挣来的」或「被迫挣的」。作者把这一设定放在移纹仪式前，等于先给读者发了一份咒语说明书。
-- **读者视角提示**：三大已见纹身对号入座：Hadrian 指节的 hell（自述）、臂上的花（烙印）、Zephyrine 的猫（化身形态）——纹身档案库开张。
+- **读者视角提示**：三大已见纹身对号入座：Hadrian 指节的 hell（ch10 特写）、臂上的花（烙印）、Zephyrine 的猫（化身形态）——纹身档案库开张。
 
 > **原句 6:** “I pledge my loyalty to you,” he says. “And even if you don’t believe that, you know your blood in my veins means I will always tell you the truth.”
 

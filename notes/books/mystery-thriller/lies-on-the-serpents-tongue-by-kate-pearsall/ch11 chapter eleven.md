@@ -61,7 +61,7 @@ modified: "2026-10-06"
 
 - **中文理解**：「我读到过这个。这种现象由一种叫 powder down 的细粉造成，只有某些鸟会分泌来保护羽毛。一个幽灵般的印痕——多半是它最后一刻留下的。」
 - **关键词**：a fine dust called powder down · only certain kinds of birds produce · likely its final moment
-- **为什么这样写**：博物学解释（粉羽、护羽功能）精确到位，最后一句却把科学滑向讣告：imprint of its final moment——玻璃上留下的是死亡的拓片。ghostly 一词两头通吃：既是「粉末印」的视觉形容，也是「亡魂」的字面预告。作者用知识侦探腔写超自然现场，这正是 Rowan 的招牌读法：先查文献，再认鬼。
+- **为什么这样写**：博物学解释（粉羽、护羽功能）精确到位，最后一句却把科学滑向讣告：「A ghostly imprint of what is likely its final moment」——玻璃上留下的是死亡的拓片。ghostly 一词两头通吃：既是「粉末印」的视觉形容，也是「亡魂」的字面预告。作者用知识侦探腔写超自然现场，这正是 Rowan 的招牌读法：先查文献，再认鬼。
 - **读者视角提示**：撞窗却无尸无羽（下一节揭晓尸在门垫）——现场被「整理」过；别把这段当独立怪谈，它是死鹊剧的前半场。
 
 > **原句 8:** There, on the worn-out old welcome mat, like some morbid gift, is a dead magpie, the keys to the cabin trapped beneath its wing. One for sorrow.

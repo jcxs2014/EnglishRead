@@ -18,7 +18,7 @@ modified: "2026-10-06"
 > **原句 1:** As we prepare to enter the darkest season, remember there is still life all around us, And death, too, is a part of life. It is still growth, even if it happens beneath the surface.
 
 - **中文理解**：「当我们准备进入最暗的季节，记住身边仍有生命。而死亡，也是生命的一部分。它依然是生长——哪怕发生在地表之下。」
-- **关键词**：the darkest season · death, too, is a part of life · growth beneath the surface
+- **关键词**：the darkest season · death, too, is a part of life · still growth, even if it happens beneath the surface
 - **为什么这样写**：悼月开篇先拆「死与生」的对立：死亡不是生长的反义词，是它的地下形态。beneath the surface 在这本书里从不是修辞——树下有尸、土里有门、记忆里有被偷的抽屉，全都在 surface 之下继续「生长」。原句「us, And death」处一个反常的大写 A，像手写体的一次顿笔，提醒读者：这句是手札里最郑重的一句。
 - **读者视角提示**：把这句当成 Bone Tree 的传记摘要：它是「地下的生长」最极端的形态——用一个人的死种出另一界的门。
 

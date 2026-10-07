@@ -24,7 +24,7 @@ modified: "2026-10-06"
 
 > **原句 2:** “Not exactly like we’re connected,” she clarifies. “It’s more like just before someone answers the phone, but you know they’re about to because the sound of the silence changes. I guess it’s like the line is open now. Instead of a wall between us, it’s more like a door.”
 
-- **中文理解**：「「说连接上也不准确，」她澄清道。「更像是电话那头有人正要接起——你还不确定，但寂静的音色变了。我觉得，线是通的。我们之间原本是一堵墙，现在更像一扇门。」」
+- **中文理解**：「「说连接上也不准确，」她澄清道。「更像是电话那头有人正要接起——你知道它就要来，因为寂静的音色变了。我觉得，线是通的。我们之间原本是一堵墙，现在更像一扇门。」」
 - **关键词**：the sound of the silence changes · the line is open now · Instead of a wall between us, it’s more like a door
 - **为什么这样写**：Juniper 用三个日常比喻给灵异分级：接电话前的寂静、开着的线、被拆掉的墙换成门。the sound of the silence changes 是全段最好的知觉描写——静默也有音色，经验者听得出来。作者让恐惧保持技术化的冷静：越是不慌的描述，越说明她懂这扇门意味着什么。
 - **读者视角提示**：墙/门的几何学是本章的骨架：上一章香囊是墙上的砖，这一章门开了——下一段马上讲钥匙在谁手里。
@@ -55,7 +55,7 @@ modified: "2026-10-06"
 - **中文理解**：「我也许从没想让她做那道咒，可我也没有拦她——如今她处境危险，可能要任由那些她穷尽一生才挡在门外的灵摆布。」
 - **关键词**：I didn’t stop her · at the mercy of the spirits · keep at bay her entire life
 - **为什么这样写**：负罪感的账算得极清：意愿无罪、失职有责——她拦不住的是 Juniper 的倔，拦得住的却没拦。her entire life 一句补出 Juniper 的前史：这孩子一辈子都在把灵挡在门外，如今门是自己开的。作者让姐姐的自责与读者的后见之明同频：当时觉得是成长，现在看是代价。
-- **读者视角提示**：对照 ch20「amplify」的隐忧：每一步「成功」都在加重 Juniper 的暴露；她的能力弧正从天赋滑向枷锁。
+- **读者视角提示**：对照 ch20 的「that spell wasn’t this powerful, either」：每一步「成功」都在加重 Juniper 的暴露；她的能力弧正从天赋滑向枷锁。
 
 > **原句 7:** And all we got in exchange for her sacrifice were more questions.
 
@@ -69,7 +69,7 @@ modified: "2026-10-06"
 - **中文理解**：「翅果一熄灭，我就希望自己能把它收回来。」
 - **关键词**：As soon as it disappears · I wish I could take it back
 - **为什么这样写**：全章收在一个即时后悔上：召唤与反悔之间只隔一缕烟。作者不写她为什么后悔——是怕把 Hadrian 拉进险境，还是怕自己心软，两种读法都成立，而这种双关正是关系线的火候。与 ch09 第一次烧翅果的「坚定」对照：同一种火，第一次点的是决心，这一次点的是疑虑。
-- **读者视角提示**：翅果已用完（两枚都烧了）：召请物归零后，两人的联系只剩血誓与案子本身；「take it back」在魔法世界里能不能实现，下一章见。
+- **读者视角提示**：翅果已用完（三枚全数烧尽：ch08 一枚、ch12 两枚）：召请物归零后，两人的联系只剩血誓与案子本身；「take it back」在魔法世界里能不能实现，下一章见。
 
 ## 本章词汇
 

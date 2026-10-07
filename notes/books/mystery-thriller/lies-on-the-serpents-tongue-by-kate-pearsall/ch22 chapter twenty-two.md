@@ -59,7 +59,7 @@ modified: "2026-10-06"
 
 > **原句 7:** “The thing is, I don’t think you summoned Lucien Ballard,” Hadrian says. “I think you summoned whoever that bone belongs to.”
 
-- **中文理解**：「「问题在于，我觉得你们召来的根本不是 Lucien Ballard，」Hadrian 说。「我覺得你们召来的，是那根骨头的主人。」」
+- **中文理解**：「「问题在于，我觉得你们召来的根本不是 Lucien Ballard，」Hadrian 说。「我觉得你们召来的，是那根骨头的主人。」」
 - **关键词**：don’t think you summoned Lucien Ballard · whoever that bone belongs to
 - **为什么这样写**：通灵成果一夜清零：连「对象是谁」都要重新立案。骨头的主人≠骨头的持有者——Lucien 带着别人的骨头 died，召唤锚点认骨不认人。作者用这一句把 ch19 的三片供词全部作废重审（那些答案是骨主的，不是 Lucien 的），也让「Betrayed」「She of the dark」的指向悬回半空。
 - **读者视角提示**：全面复盘 ch19：三句供词的发言人换了人，但内容未必作废——骨主可能知情甚至相关；「他是谁、怎么死的、为什么骨头在 Lucien 车里」三连问进清单。

@@ -8,7 +8,7 @@ modified: "2026-10-06"
 ## 本章导航
 
 - **地点·时间**：小馆早班（Vernie 突访、Ona 查素材）→ 后厨祖孙对话→家中（Juniper 病况、YouTube 深挖）；黑月通灵后的数日。
-- **一句话概括**：Vernie 送来 Forest Service 求职推荐信（「你在林子里是发光的」）；Rowan 请 Ona 私查偷拍相机素材，发现那台「相机」实为低清 Trail cam——动图静拍、信号一通就传图，且机位正对着她从瞭望塔去 Bone Tree 的那条路；Juniper 通灵后嗜睡加重被校方记名，急诊却查无异常；YouTube 考古挖出 Sonny 的频道底细——原为匿名号「Monster Encounters」，直到蛾翼人系列前才「Face Reveal」并突然有钱；结尾她断言：Sonny definitely has secrets he wants to keep buried。
+- **一句话概括**：Vernie 送来 Forest Service 求职推荐信（「你在林子里是发光的」）；Rowan 请 Ona 私查偷拍相机素材，发现那台「相机」实为低清 Trail cam——动图静拍、信号一通就传图，且机位正对着她从瞭望塔去 Bone Tree 的那条路；Juniper 通灵后嗜睡加重被校方记名，急诊却查无异常；YouTube 考古挖出 Sonny 的频道底细——原为匿名号「Monster Encounters」，直到蛾翼人系列前才「Face Reveal」并突然有钱；结尾她断言：Sonny「definitely has secrets he wants to keep buried」。
 - **情感弧线位置**：职场暖意与案情冷意交替。Vernie 的推荐信是全书给 Rowan 的第一份「未来」；而对 Ona 的试探、对 Sonny 的深挖让她越来越像审讯室里的父亲——破案与长大的界线开始模糊。
 - **叙事手法**：双线查证（线下素材库+线上频道考古）；「设备鉴定」桥段用技术细节（格式、天线、低清静帧）反推动机；频道史蒙太奇（早期青涩 vs 如今浮夸）写网红的换脸；章末回到「报住址的人」式收束。
 - **线索进展**：① Vernie 的推荐信：「You light up in those woods」——她看见的 Rowan 与 Rowan 自见的「muscle or mouth」判若两人；② 摄像机鉴定：不同文件格式、连上信号即上传静帧、增益天线、低清动检——「More like a cheap security camera or those trail cameras hunters use to track game」；③ Ona 澄清：管设备是她的责，但「那批东西」她不知情——无谎味；④ 诡点：要拍蛾翼人却用低清静帧机、还架在离溪一英里的密林深处——唯一拍得到的是「她去 Bone Tree 的路」；⑤ Sonny 频道考古：旧作风格粗糙、蒙面出镜、匿名号「Monster Encounters」、口号「Sunlight on the truth」；蛾翼人系列前发「Face Reveal」并升级装备——钱是新出现的；⑥ Rowan 的结论：Sonny 对蛾翼人知道的比他放出来的多；⑦ Bronco 油量悬案：周五半箱油、周末停在车道、周一见底——有人夜里用车？；⑧ Juniper 术后遗症：课上两次睡着被记名、急诊无异常——「that spell wasn't this powerful, either. I think it might just take longer to wear off」；⑨ Gran 对「小馆帮视频组配药？」嗤之以鼻——下咒者另有其人。
@@ -19,7 +19,7 @@ modified: "2026-10-06"
 
 - **中文理解**：「「好。你在林子里是发光的。要说我在世上这五十来年学到了什么，那就是：人生是用来享受的。」」
 - **关键词**：You light up in those woods · fifty-odd years on this earth · life is meant for enjoying
-- **为什么这样写**：Vernie 的赠言把 ch13 强制志愿的「败笔」改写成天命：她看见了 Rowan 自己没看见的亮。light up 与本书的火系意象同源——愤怒的火之外，林子里还有第二种光。fifty-odd years 的年纪坦白也接上 ch04 她「三十年前志愿出身」的自述，长辈的豁达来自活着。这份推荐信是全书第一次有人为 Rowan 的「以后」而不是「眼前的麻烦」做事。
+- **为什么这样写**：Vernie 的赠言把 ch13 强制志愿的「败笔」改写成天命：她看见了 Rowan 自己没看见的亮。light up 与本书的火系意象同源——愤怒的火之外，林子里还有第二种光。fifty-odd years 的年纪坦白也接上 ch04 她「volunteer fire lookout in this very cabin」的出身自述，长辈的豁达来自活着。这份推荐信是全书第一次有人为 Rowan 的「以后」而不是「眼前的麻烦」做事。
 - **读者视角提示**：对照她自评的「肌肉/嘴」：Vernie 给的评语是「光」——三份评价（家人/自己/导师）拼出一个完整的 Rowan，推荐信会在结局前后再次出现。
 
 > **原句 2:** “It looks like it was uploading stills whenever it connected to a mobile signal.” She turns the laptop so we can both see. “Which was often, thanks to the booster antenna it was connected to. More like a cheap security camera or those trail cameras hunters use to track game. It was just shooting low-res images whenever it detected movement.”
@@ -68,7 +68,7 @@ modified: "2026-10-06"
 
 - **中文理解**：「Sonny Vane——那个来 Caball Hollow 挖第一桶金的人——肯定藏着些他只想埋起来的秘密。」
 - **关键词**：showed up in Caball Hollow to make his fortune · definitely has secrets · keep buried
-- **为什么这样写**：章末判词沿用全书「definitely has secrets」的措辞力度：不猜、不定罪，只立Anchor。keep buried 与 ch13 的「bury the diablerie」、ch16 的「buried in a bed of dirt」共用一个词根——这本书里「埋」从来不是结局，是暂时。作者让 Rowan 的调查停在一个整齐的句号上，下一章就是起跑线。
+- **为什么这样写**：章末判词沿用全书「definitely has secrets」的措辞力度：不猜、不定罪，只立Anchor。keep buried 与 ch13 的藏书入地板、ch16 诗的「buried in a bed of dirt and weald」共用一个词根——这本书里「埋」从来不是结局，是暂时。作者让 Rowan 的调查停在一个整齐的句号上，下一章就是起跑线。
 - **读者视角提示**：把「buried」圈起来：被埋的东西（真相、树根下的人、翅膀上的秘密）在本书全都会出土；谁埋的，谁就得负责挖出来。
 
 ## 本章词汇
