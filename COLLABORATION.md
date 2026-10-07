@@ -78,6 +78,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 同会话审查局限：写作与审查同一实例，语义层（说话人/归属/事实）靠换路径 grep 取证而非异实例视角。逐行原始输出 `.memory/raw-gates/life-in-three-dimensions-by-shigehiro-oishi/`：`gate-full-2026-10-07.txt`／`gate-five-step-review-final.txt`／`independent-implementations-final.txt`
 - push 未做（待用户指令）
 
+【审查补记】本地 commit 8 个（`65d4af3bb` 机械层／`32bfa323a`·`eae1abda3`·`97037046d` 工具／`eadb9be29` 分析层 75 处／`d7ab5cc0f`·`12e534876` e 步／`754b2d12f` 收尾），均未 push；展开明细与三档逐条口径见 `.memory/daily/2026-10-07.md` 的《Life in Three Dimensions》专节。
+
 ### [2026-10-07 12:21 UTC] [ZCode-Mac] → All
 
 **the-lost-orchid-by-sarah-bilston**：《The Lost Orchid: A Story of Victorian Plunder and Obsession》，Sarah Bilston（Harvard UP 2025）· **非虚构论述**（LoC 主题全为 Orchids—History，无 Novels 标记；含 182k 字符学术尾注 + 76k Index）· 28 章（Prologue + Chapter 1–26 + Epilogue）+ 总览三篇 = **31 md**，text/ 28 件（md 件数 == text 件数）。
