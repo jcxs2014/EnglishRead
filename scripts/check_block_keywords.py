@@ -54,12 +54,18 @@ BLOCK_ITER = re.compile(r'^> \*\*原句 (\d+)[：:]\*\* (.*)$', re.M)
 # **关键词越界与拼接检查整段空转**（假阴性比假红更坏：它报 0 缺陷而实际没查）。
 # 与 `check_struct_indep.py` 的 anthology 档同口径（特征节 `## 精读结束总结` +
 # `## 可迁移表达` + 圈码能解析），判据本身一处不改，只补抬头识别。
+# ⚠️ 2026-10-07 新增（Life in Three Dimensions 终验实测，17 章整类假红）：
+#   **非虚构论述格式**的圈码抬头被粗体包住——`**①** "…"`——而下面两张正则只认裸圈码，
+#   于是 nq 恒 0 ⇒ 整批报「未找到任何引语块」。全库 11 本书用这一形态，是**排版档位**
+#   不是内容缺陷（按 AGENTS 第 3 条「假红型先修工具」处置）。
+#   改法：给圈码前后各加**可选** `\*{0,2}`——裸圈码书的匹配一字不变（纯增量）。
 CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕'
-CIRC_BLOCK_RE = re.compile(r'^([' + CIRCLED + r'])\s+["\']', re.M)
+CIRC_OPT = r'^\*{0,2}([' + CIRCLED + r'])\*{0,2}\s+["\']'
+CIRC_BLOCK_RE = re.compile(CIRC_OPT, re.M)
 # 圈码是**单行**形态（引语整段写在一行，分析子项另起行）⇒ 不需要续行合并。
 # ⚠️ 计数与切块走**同一张**正则（只差有没有捕获引语体），与 BLOCK_RE / BLOCK_ITER
 # 同构——否则又是一次「切块与取号口径不一致」的 zip() 错位（2026-10-01 已修过一次）。
-CIRC_ITER = re.compile(r'^([' + CIRCLED + r'])\s+["\'](.*)$', re.M)
+CIRC_ITER = re.compile(CIRC_OPT + r'(.*)$', re.M)
 # 短篇合集档的**独有特征节**（两者皆须命中才认档，避免与长篇精简档抢档）。
 ANTH_MARKS = (r'^## 精读结束总结', r'^## 可迁移表达')
 # ⚠️ 2026-10-06 新增（The Language of Knives 批1 实测 4 章假红）：
@@ -112,6 +118,18 @@ KW_RE_BOLD_OUT = re.compile(r'^[ \t]*(?:[-*+][ \t]+)?\*\*关键词\*\*[：:][ \t
 #   重复计数 ⇒ nkw 翻倍 ⇒ 反过来制造新的「对账失败」）：下面用 `(?!\*\*)` 与
 #   `(?<!\*\*)` 双向排除，实测三形态在同一文件里混写时计数仍等于块数。
 KW_RE_PLAIN = re.compile(r'^[ \t]*(?:[-*+][ \t]+)?(?!\*\*)关键词：(?!\*\*)[ \t]*(.*)$', re.M)
+# ⚠️ 2026-10-07 第四种形态（Life in Three Dimensions 实测，17/17 文件假红）：
+#   该书写 **裸标签 + 粗体值**：`- 关键词：**far from intentional**（完全不是有意选的）；…`
+#   ⇒ KW_RE_PLAIN 尾部的 `(?!\*\*)` 把它拒之门外（那条否定原本是为防与两条加粗形态
+#   **重复计数**，但它同时把「值加粗」这一合法形态也杀了），而两条加粗形态要求**标签**
+#   加粗 ⇒ 四条里没一条认 ⇒ 关键词行恒 0 ⇒ 17 章全报「结构对账失败 —— 关键词行 0 ≠
+#   引语块 10」。症状与 2026-10-01 / 10-02 / 10-04 四次记的**完全同族**（单形态正则
+#   静默抽 0 条），判据不变，只补形态。
+#   ⚠️ 新增形态而**不动** KW_RE_PLAIN 的尾部否定：改动既有正则等于给存量 1532 个裸形态
+#   文件引入回归风险；两条互斥（本条**要求**冒号后紧跟 `**`，KW_RE_PLAIN **拒绝**它），
+#   求和不会翻倍。实测投毒自证见本次修正记录（改一个字符 → 报「不在本块引语内」）。
+KW_RE_PLAIN_BOLD = re.compile(r'^[ \t]*(?:[-*+][ \t]+)?(?!\*\*)关键词：\*\*[ \t]*'
+                              r'(.*?)(?:\*\*)?[ \t]*$', re.M)
 
 # 短引语阈值：与 check_short_quotes 的 <20 字符口径一致（同一概念只留一处数值，
 # 两处各写一个数就会漂）。短于此长度的引语不适用「唯一命中 1 个自然段」判据。
@@ -202,7 +220,17 @@ def _kw_in_quote(k: str, qflat: str) -> bool:
     """
     if _flat(k) in qflat or _flat(_BRACKET.sub("", k)) in qflat:
         return True
-    words = [w for w in re.split(r"\s+", k.strip()) if w]
+    # ⚠️ 2026-10-07 补（Life in Three Dimensions 实测，2 条假红）：关键词本身写成
+    #   **句型框架**时含 `…`（`what started as…became…` / `neither…nor…`，省略号两侧
+    #   都是原词、中间是「此处可替换」的框架槽位）。本函数②的按序走词只切**空白**，
+    #   而 `_flat` 会把 `…` 一起吞掉 ⇒ `as…became…` 压成 `asbecame` 去查，恒查无。
+    #   ⇒ 与**引语侧同口径**：引语路径（见 check() 内 `re.split(r"\s*…\s*", q)`）
+    #   早已按省略号切开逐段验证，关键词路径漏了这一刀，属工具内部两处口径不一致
+    #   （AGENTS 第 3 条假红型），不是内容缺陷。
+    #   判据**不放宽**：切开后每个片段仍须按序、逐字（flat）出现在本块引语里，
+    #   凭空造的词同样查无（负控：`started as…vanished…` 仍报警）。
+    words = [w for seg in re.split(r"…+", k.strip())
+             for w in re.split(r"\s+", seg) if w]
     if len(words) < 2:
         return False
     pos = 0
@@ -296,7 +324,7 @@ def check(md: Path, book: Path):
     #   re.M 已在 compile() 里烘进 pattern，此处第二个参数应删除。
     nq = len(BLOCK_RE.findall(s))
     nkw = (len(KW_RE.findall(s)) + len(KW_RE_PLAIN.findall(s))
-           + len(KW_RE_BOLD_OUT.findall(s)))
+           + len(KW_RE_BOLD_OUT.findall(s)) + len(KW_RE_PLAIN_BOLD.findall(s)))
     # ⚠️ 2026-10-02 假红型修正（本工具写死言情格式 `## 本章词汇` + 3–8 块配额，
     #   而非虚构论述格式用 `## 词汇分级` + 10 处 `## 选择性精读`）。全库非虚构书
     #   （nexus / an-expert-witness / down-girl / herlands …）逐个复跑全部报同两条，
@@ -323,6 +351,7 @@ def check(md: Path, book: Path):
     #   （The Language of Knives 批1 实测：4 个真实文件全落这条）。
     #   ⇒ 改为**按文件实际使用的抬头计数取大者**，两种形态都真查。
     n_circ = len(CIRC_BLOCK_RE.findall(s))
+    n_yuanju = nq          # 2026-10-07：保留覆盖前的原句计数，供切块迭代器选档
     if n_circ > nq:
         nq = n_circ
     nvocab = len(re.findall(r'^## (?:本章词汇|词汇分级)', s, re.M))
@@ -389,7 +418,10 @@ def check(md: Path, book: Path):
     # 危害不止噪音：错位会让**真实的关键词越界被报在别的块名下**，复核时极易被当成假阳放过。
     # 处置：按块整体切分（编号 / 引语 / 关键词三者同源），配对不再跨口径；并剥掉包裹引号。
     # ⚠️ 2026-10-04：短篇合集档换用圈码迭代器（抬头不同，**判据与后续处理一字不改**）。
-    if is_anth:
+    # ⚠️ 2026-10-07：条件由 `is_anth` 放宽到「文件里圈码抬头数 > 原句抬头数」——
+    #   非虚构论述格式（`**①** "…"`）同样走圈码档。用**计数比较**而不是再加一个
+    #   体裁布尔，是为了让「同一文件两种抬头混用」时仍按实际多者切块，不会两套都漏。
+    if is_anth or n_circ > n_yuanju:
         _iter = CIRC_ITER
 
         def _next_head(pos):
@@ -475,6 +507,8 @@ def check(md: Path, book: Path):
         _mk = KW_RE.search(block)
         if _mk is None:
             _mk = KW_RE_BOLD_OUT.search(block)
+        if _mk is None:
+            _mk = KW_RE_PLAIN_BOLD.search(block)   # 2026-10-07：先于裸形态试，两者互斥
         if _mk is None:
             _mk = KW_RE_PLAIN.search(block)
         kws = _split_kw(_mk.group(1)) if _mk else []

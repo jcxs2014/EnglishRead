@@ -38,7 +38,7 @@ modified: "2026-10-07"
 
 ## 选择性精读
 
-**①** ""We define a psychologically rich life as a life characterized by variety, depth, and interest. A life could be psychologically rich if a person experiences a variety of interesting things or feels and appreciates a variety of deep emotions. These can be via firsthand experience or vicariously through novels, films, or sports on TV. Take the Psychologically Rich Life Questionnaire, and find out your psychological richness score!""
+**①** "We define a psychologically rich life as a life characterized by variety, depth, and interest. A life could be psychologically rich if a person experiences a variety of interesting things or feels and appreciates a variety of deep emotions. These can be via firsthand experience or vicariously through novels, films, or sports on TV. Take the Psychologically Rich Life Questionnaire, and find out your psychological richness score!"
 
 - 中文理解：我们把心理丰富的人生定义为由多样性、深度与趣味三者构成的人生。当一个人经历了各种有趣的事，或者感受到并领会了各种有深度的情绪，他的人生就可以是心理丰富的。这些体验既可以来自亲身经历，也可以经由小说、电影或电视上的体育比赛间接获得。来做这份心理丰富人生问卷，算出你的心理丰富度得分吧。
 
@@ -50,7 +50,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：这节里最要紧的一句是第三句。把 vicariously through novels, films, or sports on TV 写进定义，等于宣布一份读书记录可以与一次长途旅行在同一条刻度上相加；本书第九章整章讨论「审美体验算不算」，到这里不再讨论，直接算入。⚠️ 但也正是这一句与后面的题项对不上：十七道题里没有任何一题问间接体验，第 9 题甚至专门写明 firsthand（见可质疑处 1）。定义写得比量表宽，读者的作答框架与题目的作答框架因此不是同一个。
 
-**②** ""Please indicate the degree to which you agree or disagree with each of the following statements, using the 1 to 7 point scale below. Put your responses (numbers) next to the questions.""
+**②** "Please indicate the degree to which you agree or disagree with each of the following statements, using the 1 to 7 point scale below. Put your responses (numbers) next to the questions."
 
 - 中文理解：请就用 1 到 7 的评分尺，表明你对下面每一条陈述同意或不同意的程度。把你的作答（数字）写在题目旁边。
 
@@ -62,7 +62,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：这一句看似只是操作说明，实际上决定了整份量表的性质：它问的不是「你经历过多少件事」而是「你有多同意关于自己人生的一句话」。后面第 1–3 题直接把构念名称交给被试自评（My life has been psychologically rich），就是这个框架的必然结果。⚠️ 值得注意的是同意的强度并非中性变量——附录二那张表里，与丰富度相关最高的特质是 Openness（.47），而开放度与「愿意给自己贴丰富的标签」之间很难完全分离。
 
-**③** ""___9. I experience a full range of emotions via firsthand experiences such as travel and attending concerts*""
+**③** "___9. I experience a full range of emotions via firsthand experiences such as travel and attending concerts*"
 
 - 中文理解：我会经由亲身经历——比如旅行、去听音乐会——体验到范围很广的情绪。
 
@@ -74,7 +74,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：这一题与定义句的关系值得单独拿出来看。定义允许 vicariously，第 9 题却限定 firsthand，两条并存在同一份量表里，说明设计者的意图是把「情绪广度」这一维度算给亲身经历，而把经由作品获得的体验留给别的题——但别的题（第 3 题 feels and appreciates… 之外的十七题）并没有专门问作品。可质疑处 1 说的就是这个缺口。此外，把 travel 与 attending concerts 直接写进题干，等于把「消费得起的休闲」设为情绪的默认来源，这一点在常模里没有讨论，而样本是 1,213 名平均 38.21 岁的美国成人。
 
-**④** ""___11. On my deathbed, I am likely to say, “I had an interesting life”*""
+**④** "___11. On my deathbed, I am likely to say, “I had an interesting life”*"
 
 - 中文理解：到了临终那一刻，我很可能说出「我这辈子过得有趣」这样的话。
 
@@ -86,7 +86,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：这是整份量表里最能看出作者理论取向的一题。第十四章把「复盘时点」从临终前挪到每个里程碑，而此处仍把临终视角留在题项里，理由是临终那句话承载的是「一生的形态」而非「当下的情绪」，正好对应本书要的横向比较（第 11、12 题两道 deathbed 题在同一个 * 组里）。⚠️ 代价同样清楚：它要求 38 岁上下的样本对一个几十年后的言语行为做同意度判断，而这一判断会随受访者当下的生活状态大幅移动。
 
-**⑤** ""___17. I can’t remember the last time I’ve done or experienced something new (r)""
+**⑤** "___17. I can’t remember the last time I’ve done or experienced something new (r)"
 
 - 中文理解：我记不起上一次做过或经历过什么新东西是什么时候了。
 
@@ -98,7 +98,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：四道反向题里，第 14（monotonous）、15（feel bored）、16（uneventful）都是形容词或情绪词，只有这一题考的是记忆的可得性。这个选择与第十二章的主张相接：那一章说没有反思，经验只是一时的兴奋，感觉寻求者正因不反刍而在短时记忆与工作记忆任务上表现更差；此处把同一机制做成一道题——想不起上次新鲜事，本身就是「没被整合进故事」的信号。⚠️ 不过反向题只在 Step 1 里被折回来（1 to 7；2 to 6…），并没有回答「记不起」到底是经历少还是没复盘，两种成因在分数上无法区分。
 
-**⑥** ""Notes: The twelve-item version is composed of the items with an asterisk (*); (r) indicates a reverse item.""
+**⑥** "Notes: The twelve-item version is composed of the items with an asterisk (*); (r) indicates a reverse item."
 
 - 中文理解：注：十二题版本由带星号（*）的那些题组成；(r) 表示反向题。
 
@@ -110,7 +110,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：这一行是本附录最容易被跳过、也最容易出错的一行。按它数，十二题简版＝第 1–7 题加第 9–13 题，共 7＋5＝12 道，第 8 题 dramatic 与四道反向题都被排除在外；可紧接着的 How to score 三步全是按十七题写的（Step 2 加 Items 1 to 13、Step 3 除以 17），简版如何计分、是否沿用同一份常模没有交代（见可质疑处 2）。一个只做了十二题的读者按本节的算法无处可算。
 
-**⑦** ""Step 1. Convert your responses to Items 14 to 17 (these are reverse items) as follows: 1 to 7; 2 to 6; 3 to 5; 4 to 4; 5 to 3; 6 to 2; 7 to 1.""
+**⑦** "Step 1. Convert your responses to Items 14 to 17 (these are reverse items) as follows: 1 to 7; 2 to 6; 3 to 5; 4 to 4; 5 to 3; 6 to 2; 7 to 1."
 
 - 中文理解：第一步。把你对第 14 至 17 题（这几题是反向题）的作答按下面的对应关系转换：1 换成 7；2 换成 6；3 换成 5；4 保持不变；5 换成 3；6 换成 2；7 换成 1。
 
@@ -122,7 +122,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：这一步的写法暴露了本节的目标读者：不是心理学同行，而是拿到书自己做题的人。列出全部七对（含 4 to 4）看似啰嗦，却消灭了唯一一处需要推理的动作。⚠️ 但反向题只有四道，占十七题的两成多一点，而且四题全部落在第 14–17 题连续段里——反向题分散放置通常是为了压住作答惯性，此处把它们集中排放，则更像为了 Step 1 好写。
 
-**⑧** ""Below are the data from 1,213 American adults (mean age = 38.21).""
+**⑧** "Below are the data from 1,213 American adults (mean age = 38.21)."
 
 - 中文理解：下面是来自 1,213 名美国成年人的数据（平均年龄 38.21）。
 
@@ -134,7 +134,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：这一行决定了下面所有百分位数字的适用范围，而它出现在「How to interpret your score」这一段的最前面，位置是有意为之——读者在查自己落在哪一档之前先看到样本是谁。⚠️ 值得注意的是它没有报告抽样方式、性别构成或教育程度，只给了人数、国别与平均年龄；而紧接着的门槛句要用这些数字去判「你是不是前十 percent 的心理丰富者」，样本的三项属性里唯一与判断直接相关的其实只有「美国人」这一条，另外两条在解释规则里再没有被提起。
 
-**⑨** ""The mean (average) score was 4.58, and the range was 1.18 to 7.00. The percentile scores are as below. If your score was 3.41 or below, you scored among the lowest 10 percent of Americans. If your score was 4.35, then roughly 40 percent of Americans were below you and roughly 60 percent were above you. If your score was 5.75 or higher, then you were among the top 10 percent in psychological richness.""
+**⑨** "The mean (average) score was 4.58, and the range was 1.18 to 7.00. The percentile scores are as below. If your score was 3.41 or below, you scored among the lowest 10 percent of Americans. If your score was 4.35, then roughly 40 percent of Americans were below you and roughly 60 percent were above you. If your score was 5.75 or higher, then you were among the top 10 percent in psychological richness."
 
 - 中文理解：平均（均值）得分是 4.58，全距是 1.18 到 7.00。百分位分数见下面。如果你的得分是 3.41 或更低，你处于美国人中最低的十 percent。如果你的得分是 4.35，那么大约四成美国人在你之下、大约六成在你之上。如果你的得分是 5.75 或更高，你就处于心理丰富度的前十分 percent 之列。
 

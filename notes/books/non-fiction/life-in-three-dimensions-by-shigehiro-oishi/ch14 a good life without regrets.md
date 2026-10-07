@@ -50,18 +50,17 @@ modified: "2026-10-07"
 
 - 为什么这样写：**这是全书的交棒语**。前面各章负责建立维度，这一章负责把维度交出去；「adding to」这个介词是刻意的——不是替换旧的两条路，而是补第三条，作者在最后一段又亲手把它降级为众多路径之一。这里先用「补」起头，结尾再用「降调」收住，首尾形成张力。
 
-**②** "“What’s the world for you if you can’t make it up the way you want it?” … “That’s the point…[I] forgot it was mine. My life.” … If you don’t think of the world the way you want it, you forget it is your life."
+**②** "“What’s the world for you if you can’t make it up the way you want it?” … The hairdresser insists, “That’s the point…[I] forgot it was mine. My life.”"
 
-- 中文理解：「如果你没法把它弄成你想要的样子，那这个世界对你来说是什么？」——这是《Jazz》里那位理发师问薇紫特的话。薇紫特从没想过这个问题，只回「那又怎样？我改不了它。」理发师坚持：「那正是重点……[我]忘了它是我的。我的人生。」——如果你不把世界想成你想要的样子，你就会忘掉这是你自己的人生。
+- 中文理解：「如果你没法把它弄成你想要的样子，那这个世界对你来说是什么？」——这是《Jazz》里那位理发师问薇紫特的话。薇紫特从没想过这个问题，只回「那又怎样？我改不了它。」理发师坚持：「那正是重点……[我]忘了它是我的。我的人生。」
 
-- 句子结构：前两段是小说对话，第一个引号内为 if 引导的条件状语从句 + 主句；第二个引号内是主句 That’s the point ＋ 省略号后的补充成分「[I] forgot it was mine. My life.」（两句话）；末句是真实作者的转述句，结构为 If 引导的条件状语从句 + 主句 you forget it is your life（宾语从句 it is your life 嵌在动词 forget 之后）。三段之间用 `…` 隔开，因为原文中间还隔着薇紫特的那句「What’s the point? I can’t change it.」
+- 句子结构：两处引语都在原文同一个自然段内，中间的 `…` 跨过薇紫特那句回答与一句叙述。第一个引号内为 if 引导的条件状语从句 + 主句 what’s the world for you；第二个引号内是主句 That’s the point ＋省略号后的补充成分「[I] forgot it was mine. My life.」，方括号是原书为补出主语加的修补记号。
 
-- 关键词：**make it up the way you want it**（把它弄成你想要的样子）；**That’s the point**（那正是重点）；**forget it is your life**（忘了这是你的人生）
+- 关键词：**make it up the way you want it**（把它弄成你想要的样子）；**The hairdresser insists**（理发师坚持）；**That’s the point**（那正是重点）；**forgot it was mine**（忘了它是我的）
 
-- 表达方式：**用一段小说对话承载整章的第一推动作**。作者不给建议，而是让理发师说出「这是我的人生」这句被忘掉的话；随后用一句 If 引导的条件句把这个故事压缩成一条可复用的判准。
+- 表达方式：**用一段小说对话承载整章的第一推动作**。作者不给建议，而是让理发师说出「这是我的人生」这句被忘掉的话；叙述侧只留 says 与 insists 两个中性动词，把分量全部交给对话本身。
 
-- 为什么这样写：**「忘了它是我的」正是全书那个私人问题的反向答案**。作者开篇的问题是「留下还是离开」，而这里的答案是：离开或留下之前，先承认这个由你经营的世界是你的、且它不是你要的样子。若不承认这一点，探索就只是逃，而幸福与意义这两个框架也都无处安放——这一句把后面九条准则的前提一次说尽。
-
+- 为什么这样写：**「忘了它是我的」正是全书那个私人问题的反向答案**。作者开篇的问题是「留下还是离开」，而这里的答案是：离开或留下之前，先承认这个由你经营的世界是你的、且它不是你要的样子。若不承认这一点，探索就只是逃，而幸福与意义这两个框架也都无处安放——这一句把后面十条准则的前提一次说尽。
 **③** "So, let us not forget that this is our life and that we want something more than what it is. Maybe more happiness, more meaning, or more psychological richness. Instead of waiting until you’ve reached your deathbed, perhaps try to reflect after each milestone: What would you say about your high school life at the end of high school? What about your college life at the end of college? At the end of your first job? … The triad model of a good life—happiness, meaning, and psychological richness—gives you three dimensions with which you can evaluate your experiences."
 
 - 中文理解：所以，别忘了这是我们的人生，而且我们想要的比现状更多一些。也许是更多的幸福，也许是更多的意义，也许是更多的心理丰富度。与其等到躺在临终床前才反省，不如试着在每个里程碑之后复盘一次：高中结束的时候，你会怎么评价你的高中生活？大学毕业的时候呢？第一份工作结束的时候呢？（原文此处还接了一句「孩子高中毕业时你会怎么评价为人父母那段」，此处略去）好生活的三元模型——幸福、意义与心理丰富——给了你三个维度，让你可以据此评价自己的经历。
@@ -98,18 +97,17 @@ modified: "2026-10-07"
 
 - 为什么这样写：**这是全书第一次让第三维度挣到自己的位置**。前面它是作者提出的名词，这里它成了「用旧尺子会把人算错」的唯一解释项；同时作者立刻用 My guess 标注自己的证据强度——他很清楚这一步跨出的那一步是自己补的，这句自认既是诚实，也是本章最后那次降调的伏笔。
 
-**⑥** "A happy life is like a Caribbean cruise. Everything is planned. You get fed, and everything is taken care of. … A psychologically rich trip is like a backpacking trip. You have to plan it all by yourself. You can choose what you want to do. At the same time, you never know what to expect, and you might encounter something bad."
+**⑥** "A psychologically rich trip is like a backpacking trip. You have to plan it all by yourself. You can choose what you want to do. At the same time, you never know what to expect, and you might encounter something bad."
 
-- 中文理解：幸福的人生像一趟加勒比邮轮。一切都安排好了，有人喂你吃，什么都有人照料。……心理丰富的人生像一趟背包旅行。你得全靠自己规划；你可以选自己想做的事；与此同时，你永远不知道会遇到什么，而且可能会碰上糟糕的事。
+- 中文理解：心理丰富的旅行像一趟背包旅行。你得全靠自己规划；你可以选自己想做的事；与此同时，你永远不知道会遇到什么，而且可能会碰上糟糕的事。
 
-- 句子结构：前三句为三个极短的并列陈述句（系表句 / 主谓句 / 被动分句作表语）；后半段首句为系表句 A psychologically rich trip is like a backpacking trip，次句与末句为主谓句（You can choose…；At the same time 状语 + you never know…，逗号后由 and 连接一个并列分句 you might encounter something bad）。前后两段在原文中隔着电台研究的内容，故以 `…` 隔开。
+- 句子结构：首句为系表句 A psychologically rich trip is like a backpacking trip；次句与第三句为主谓句（You have to plan…；You can choose…）；末句由 At the same time 作状语，主句 you never know what to expect（what 引导宾语从句），逗号后由 and 连接并列分句 you might encounter something bad。
 
-- 关键词：**a Caribbean cruise**（一趟加勒比邮轮）；**plan it all by yourself**（全靠自己规划）；**you might encounter something bad**（你可能会碰上糟糕的事）
+- 关键词：**a backpacking trip**（一趟背包旅行）；**plan it all by yourself**（全靠自己规划）；**you never know what to expect**（你永远不知道会遇到什么）；**you might encounter something bad**（你可能会碰上糟糕的事）
 
-- 表达方式：**用两个旅游产品形态承两个抽象维度**。巡洋游一侧全是「一切都有人安排」的短句，背包一侧则被拆成「自己规划／自己选择／未知／可能糟糕」四个逐级加码的成分——而「可能糟糕」被作者刻意放在最后，不做修饰。
+- 表达方式：**用一个旅游产品形态承一个抽象维度**。本段被拆成「自己规划／自己选择／未知／可能糟糕」四个逐级加码的成分——而「可能糟糕」被作者刻意放在最后，不做修饰；与上一段那种「一切都有人安排」的幸福写法形成句法上的对照。
 
-- 为什么这样写：**这是全书对「丰富」这个概念最直白的一次交付**。前面的论证要绕数据、绕实验，到这里全部压成一次选择：要不要自己扛那个未知。作者不劝读者选背包，只把两边摆齐——「可能糟糕」是明码标价的代价，不被藏起来，正对应他在下一段讲述自己被骗、被警察赶走的那次旅行。
-
+- 为什么这样写：**这是全书对「丰富」这个概念最直白的一次交付**。前面的论证要绕数据、绕实验，到这里全部压成一次选择：要不要自己扛那个未知。作者不劝读者选背包，只把两种度假产品在同一页上摆齐——「可能糟糕」是明码标价的代价，不被藏起来，正对应他紧接着讲述的那次被骗、被警察赶走的背包旅行。
 **⑦** "When we were in Chicago, there was a huge festival in Grant Park. My friend went to see a White Sox game, but I wanted to go to this festival. So I went alone and ended up meeting three other young people there. They asked me to take a picture of them, so I did. Then we started talking. Before long, they were so nice that they invited me to a party at one of their houses. … It turned out I had been somewhere in Wisconsin that night! I couldn’t believe it."
 
 - 中文理解：我们在芝加哥的时候，格兰特公园里有一个巨大的节庆。朋友去看白袜队的比赛，我想去这个节庆，于是独自去了，在那里碰到了另外三个年轻人。他们请我帮他们拍张照，我就拍了；然后我们聊了起来。没过多久，他们好到请我去其中一个人家里的派对。我完全不知道那房子在哪儿，身上也没带换洗衣服，可我答应了。……结果是那天晚上我人在威斯康星某处！我简直不敢相信。
@@ -146,18 +144,17 @@ modified: "2026-10-07"
 
 - 为什么这样写：**它是本章标题的落点，也是十条准则里唯一一条带时间刻度的**。作者把「留下还是离开」这个从第一章就在的问题原样搬回来，让读者用它当下一次选择的检验工具；但这句话的适用范围有多大，本章最后一段自己给出了保留意见——十年后的后悔只能由十年后的你来判断。
 
-**⑩** "To be clear, I am not arguing that a psychologically rich life is the best life, or that it’s always better than a happy life or a meaningful life. Rather, I am arguing that prioritizing psychological richness is one way to lead a good life. … There might be other paths to a good life; new research might soon reveal a fourth (or more). … In the end, this is a story of diverse paths to a good life. Knowing who you are and what you value will guide you in pursuing the right one. … So I borrow from Simpson to give my last words to you: “Well, why don’t you?”"
+**⑩** "To be clear, I am not arguing that a psychologically rich life is the best life, or that it’s always better than a happy life or a meaningful life. Rather, I am arguing that prioritizing psychological richness is one way to lead a good life."
 
-- 中文理解：说清楚一点，我并不是在主张心理丰富的人生就是最好的人生，也不是说它总比幸福的人生或有意义的人生更好。我主张的是：把心理丰富度放在优先位置，是通向好生活的一条路。……通向好生活也许还有别的路；新的研究也许很快会揭示第四条（或更多条）。……归根结底，这是一段关于通向好生活的众多路径的故事。知道自己是谁、看重什么，会指引你去追求那一条属于你的路。……所以我借辛普森的话，把最后的话留给你：「那你为什么不呢？」
+- 中文理解：说清楚一点，我并不是在主张心理丰富的人生就是最好的人生，也不是说它总比幸福的人生或有意义的人生更好。我主张的是：把心理丰富度放在优先位置，是通向好生活的一条路。
 
-- 句子结构：首句以 To be clear 状语开头，主干 I am not arguing + 两个 that 从句由 or 并列，两个从句内又各嵌一个 that 同位语从句（a psychologically rich life / a happy life or a meaningful life）；次句 Rather 为承接副词，主句结构与首句平行但去掉否定。第三段为 There might be other paths… 存在句加分号连接的新研究揭示第四条的独立句，其中括号 (or more) 是对 fourth 的数量补充。第四段首句为介词短语 In the end 引导的主句 a story of diverse paths to a good life，后句为动名词短语 Knowing who you are and what you value 作主语＋will guide you in pursuing the right one，where who 与 what 各带一个宾语从句。末句主语为 So I borrow from Simpson，目的状语 to give my last words to you ＋冒号引出借自诗中的直接引语。
+- 句子结构：首句以 To be clear 作状语，主干 I am not arguing ＋两个由 or 并列的 that 从句，第二个从句内是 it’s always better than a happy life or a meaningful life；次句 Rather 为承接副词，主句 I am arguing 的 that 从句里以动名词短语 prioritizing psychological richness 作主语。两句构成「不是 A／只是 B」的显式降调结构。
 
-- 关键词：**I am not arguing that… is the best life**（我并不是主张……才是最好的人生）；**one way to lead a good life**（通向好生活的一条路）；**a story of diverse paths to a good life**（一段关于众多路径的故事）；**Well, why don’t you?**（那你为什么不呢？）
+- 关键词：**To be clear**（说清楚一点）；**I am not arguing that**（我并不是主张）；**prioritizing psychological richness**（把心理丰富度放在优先位置）；**one way to lead a good life**（通向好生活的一条路）
 
-- 表达方式：**用三段连续的自我否定收束一个正面的论证，再用一句借来的反问收全书**。前两句用 To be clear / Rather 完成一次显式降调；第三段主动邀请第四维度；末句不写自己的结论，而把一个反问转交给读者。
+- 表达方式：**用两句连续的自我否定收束一个正面的论证**。To be clear 起头是声明而非转折，Rather 再把话说回正面；前半只否定「最好」，不否定「值得优先」，分寸落在同一个动词 argue 上。
 
-- 为什么这样写：**降调不是谦虚而是论证的一部分**。作者刚用数据证明旧的两个维度会把人算错，若不立刻声明新维度也不是最好的，前面的对照就会被读成推销。正因为先声明「只是一条路」，末句那个反问才有分量——「你没做的那件事到底要不要做」，全书没有答案，只有提问的人自己知道。
-
+- 为什么这样写：**降调不是谦虚而是论证的一部分**。作者刚用数据证明旧的两个维度会把人算错，若不立刻声明新维度也不是最好的，前面的对照就会被读成推销。也正因先声明「只是一条路」，本章末尾那句借自辛普森《Ed》的反问才不是劝告，而是把选择交还给读者。
 ## 词汇分级
 
 ### ⭐⭐⭐ 高级

@@ -39,7 +39,7 @@ modified: "2026-10-07"
 
 ## 选择性精读
 
-**①** ""Here is a parody of Kierkegaard’s Either/Or that I’ve entitled Neither/Nor, in the form of imaginary correspondences between a son (A) and his father (B).""
+**①** "Here is a parody of Kierkegaard’s Either/Or that I’ve entitled Neither/Nor, in the form of imaginary correspondences between a son (A) and his father (B)."
 
 - 中文理解：下面是我对克尔凯郭尔《或非》的一则戏仿，我给它取的标题是 Neither/Nor（既不／也不），形式是一位儿子（A）与一位父亲（B）之间的想象通信。
 
@@ -51,7 +51,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：标题的改动是本节能读出的最后一个论证动作：《或非》把人生分成审美与伦理两种选择，此处把「或」换成「既不……也不……」，与正文前两章的命名（幸福陷阱、意义陷阱）方向一致——两者都不被接受为唯一路径。⚠️ 但这一层只能由读者推出来：本节通篇没有任何一句把 Neither/Nor 解释成「既不以幸福为唯一路、也不以意义为唯一路」。用体裁承担论证而不写进文字，是这一节自身的选择，也正是它作为「另一种摘要」的代价。
 
-**②** ""These comments may seem harsh…I don’t mean to say that you can’t disagree with Plato, only that you should address his analysis in the course of making your case. Without that engagement, we’re left with a stirring sermon but not so much argument and persuasion.""
+**②** "These comments may seem harsh…I don’t mean to say that you can’t disagree with Plato, only that you should address his analysis in the course of making your case. Without that engagement, we’re left with a stirring sermon but not so much argument and persuasion."
 
 - 中文理解：这些评语也许显得严厉……我并不是说你不能不同意柏拉图，只是说你在提出自己主张的过程中应当正面回应他的分析。缺少那种回应，留下的就是一篇动人的布道，而不太算得上论证与说服。
 
@@ -63,7 +63,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：这封短信里其余内容都在抱怨（冷、要得 B），只有这段是别人说的话，而它是本节最长的一段直接引语。选它在此出现的效果是：儿子被一位教授纠正了「布道 vs 论证」，而本节整组书信恰恰是布道的形式——父亲从不论证，只说「人生很长」「失败不要紧」。第十二章把这种自我改写叫作 story editing，此处则让它在批评的位子上出现一次。
 
-**③** ""Upperclassmen are all good students. Luke still hasn’t gotten any B’s yet! They all seem to know what they are doing. One of them is going to grad school at Karolinska Institute in Sweden. Two are going to law school. One is getting a CS degree, so not worried about job. I have no idea what I want to be. BTW, how come so many kids are so rich? One kid has a second house in Capri, Italy! They were talking about investment portfolio a few nights ago and which stocks were doing well. I have no idea. Should I be concerned?""
+**③** "Upperclassmen are all good students. Luke still hasn’t gotten any B’s yet! They all seem to know what they are doing. One of them is going to grad school at Karolinska Institute in Sweden. Two are going to law school. One is getting a CS degree, so not worried about job. I have no idea what I want to be. BTW, how come so many kids are so rich? One kid has a second house in Capri, Italy! They were talking about investment portfolio a few nights ago and which stocks were doing well. I have no idea. Should I be concerned?"
 
 - 中文理解：高年级学生全都是好学生。Luke 至今还没拿过 B！他们好像都知道自己在做什么。他们当中有一位要去瑞典的 Karolinska Institute 读研。两位要去法学院。一位在念计算机学位，所以不用担心工作。我完全不知道自己想做些什么。对了，怎么会有那么多孩子这么有钱？有个孩子在意大利的卡普里还有第二栋房子！几天前他们在聊投资组合，聊哪些股票涨得好。我一点也不懂。我该操心这个吗？
 
@@ -75,7 +75,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：本节把第一、二章的两个陷阱写成一次可同时触发的经验：学长们的确定性（意义陷阱的诱饵）与同学的财富（幸福陷阱的诱饵）在同一段里并列出现，末句 Should I be concerned? 则把「该不该比较」这个问题本身交回给父亲——父亲的回答也就正好从这一句开始（别比较）。⚠️ 值得注意的是 Carleton 与 Northfield 这两个校名地名在全书只在这一节出现，正文各章的作者自传用的是别的学校名（第五、十章写的是 Bates），故信中的「父亲」与正文里的「作者」并不完全重合。
 
-**④** ""More generally, it is easy to get into a happiness trap in college. Everyone else seems to be doing better than you. Everyone else seems to be having more fun than you. It is also easy to get into a meaning trap. Everyone else seems to know what they are doing. Everyone else seems to be making a difference in the world, while you are not. Neither happiness nor meaning is the only path to a good life. Well, first of all, life is long. You don’t have to know exactly what you are doing at the age of 18. You might find something important at age 30, 40, or even 50, 60, or 70 and make a difference then.""
+**④** "More generally, it is easy to get into a happiness trap in college. Everyone else seems to be doing better than you. Everyone else seems to be having more fun than you. It is also easy to get into a meaning trap. Everyone else seems to know what they are doing. Everyone else seems to be making a difference in the world, while you are not. Neither happiness nor meaning is the only path to a good life. Well, first of all, life is long. You don’t have to know exactly what you are doing at the age of 18. You might find something important at age 30, 40, or even 50, 60, or 70 and make a difference then."
 
 - 中文理解：更一般地说，在大学里很容易掉进幸福陷阱。别人好像都比你做得好。别人好像都比你玩得开心。也很容易掉进意义陷阱。别人好像都知道自己在做什么。别人好像都在改变世界，而你没有。幸福和意义都不是好生活的唯一道路。首先，人生很长。你不必在十八岁就确切知道自己要做什么。你可能在三十岁、四十岁，甚至五十、六十或七十岁时找到一件要紧的事，并在那时做出改变。
 
@@ -87,7 +87,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：这是全书三维主张最压缩的一次现身：Neither happiness nor meaning is the only path to a good life 一句就把第一、二章的结论并列置否，而它后面立刻跟的是人生很长而不是任何证据。⚠️ 「first of all」暗示还有 second、third，父亲确实在下一封信里补了 Second, it is OK to fail——两条安慰都不是论证而是时序与概率（你才十八，人生很长；一次 B 不会要命）。本节作为「摘要」交出的是这两条的口语版本，可测量的那一层（附录一、二）在这里一次都没被提起。
 
-**⑤** ""After looking at my first-semester grades, my advisor Professor Nakano said, “君も低空飛行ですね。You, too, are flying pretty low,” and laughed. The key word? “Too.” I was not alone. Other advisees were struggling, too. I found hope in that word.""
+**⑤** "After looking at my first-semester grades, my advisor Professor Nakano said, “君も低空飛行ですね。You, too, are flying pretty low,” and laughed. The key word? “Too.” I was not alone. Other advisees were struggling, too. I found hope in that word."
 
 - 中文理解：看过我第一学期的成绩之后，我的导师 Nakano 教授说：「你也飞得挺低啊。」然后笑了。关键的词是哪个？「也」。我并不孤单。其他在他指导下的学生也在挣扎。我从那个字里找到了希望。
 
@@ -99,7 +99,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：这一处与第十二章直接相接：那一章写的正是 Wilson 与 Ross 的「从 Chump to Champ」——把过去的自己看差一点，现在的自己就显出成长。父亲的这段回忆做的是同一件事，只是它的原料不是自我贬抑而是他人的基率（其他学生也挣扎）。⚠️ 而「advisees 也在挣扎」这条依据无法在同一封信里被检验，它的可信度全来自说话人是谁：一位父亲。本节反复出现这种结构——同一命题在正文里需要基率数据，在信里只需要一个「我也经历过」。
 
-**⑥** ""Looking from the perspective of the sick toward healthier concepts and values and, conversely, looking again from the fullness and self-assurance of a rich life down into the secret work of the instinct of decadence…. Now I know how, have the know-how, to reverse perspectives.""
+**⑥** "Looking from the perspective of the sick toward healthier concepts and values and, conversely, looking again from the fullness and self-assurance of a rich life down into the secret work of the instinct of decadence…. Now I know how, have the know-how, to reverse perspectives."
 
 - 中文理解：「从患病者的视角望向更健康的概念与价值，反过来，又从丰盛而自信的人生向下凝视衰败本能的隐秘工作……。现在我知道该怎么做了，我有了倒转视角的那套 know-how。」
 
@@ -111,7 +111,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：父亲在儿子赛季报销（That injury in February really hurt…）之后立刻搬出这段引文，功能是第十一章主张的口语版：逆境之所以能变成丰富的经验，是因为它提供了一处可站立的别的位置。⚠️ 而引文被截断的位置值得注意：省略号之后才出现的那句 Now I know how 承担全部结论，也就是说本节转述的是「我已学会倒转视角」这一成就，而不是它得以成立的条件。
 
-**⑦** ""It is not Kelly Clarkson; it is Nietzsche who first said what doesn’t kill you makes you stronger.""
+**⑦** "It is not Kelly Clarkson; it is Nietzsche who first said what doesn’t kill you makes you stronger."
 
 - 中文理解：说「杀不死我的让我更强大」的不是 Kelly Clarkson，而是 Nietzsche 第一个说的。
 
@@ -123,7 +123,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：这一句紧跟在⑥的长引文之后，读者会自然地把「Nietzsche 首创」理解为那一段引文的内容。⚠️ 但⑥的引文止于 to reverse perspectives，其中并没有 what doesn’t kill you makes you stronger 的字面——本节为那句流行话给出的唯一凭据就是它与一段真引文相邻。这是可质疑处 3 指的问题，也是本节作为「摘要」最典型的动作：把一句话的力量交给引用它的场合，而不再核对引用的边界。
 
-**⑧** ""My initial thought was, who would go there? Shocking to think that my grandpa was that kind of guy…He was pretty open-minded for his generation. I remember him bringing a homeless guy home and giving him some food and 500 yen (about $6).""
+**⑧** "My initial thought was, who would go there? Shocking to think that my grandpa was that kind of guy…He was pretty open-minded for his generation. I remember him bringing a homeless guy home and giving him some food and 500 yen (about $6)."
 
 - 中文理解：我一开始的反应是，谁会去那种地方？想到我祖父是那种人，真让人吃惊。对他们那一代人来说，他相当开放。我记得他把一个无家可归的人带回家，给了他一些吃的和五百日元（约合六美元）。
 
@@ -135,7 +135,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：这一段是对儿子那句「我去看了 WWE」的回应，但父亲没有评价摔跤本身，而是交出自己家里一段同样没有理由的记忆——并承认它曾被彻底遗忘（Indeed, I had totally forgotten about that until you mentioned WWE）。这正是第十二章给出的机制：记忆需要别人来问才回来，而那一章的原话是「她把我拾起来，把碎片按正确顺序还给我」式的友人作用。⚠️ 值得注意的是本节让父亲说出「我忘了」，而同一节里的父亲在别处全知——他知道哪一句是 Nietzsche 首创。
 
-**⑨** ""“Must, must, must—detestable word.” Is it Mrs. Dalloway? No, no, that’s from The Waves? Bernard? Tell me about it. I am that guy. You are too young to be Bernard. Be playful. Take a vacation from social and economic reality once in a while. Be open to be a fool now and then.""
+**⑨** "“Must, must, must—detestable word.” Is it Mrs. Dalloway? No, no, that’s from The Waves? Bernard? Tell me about it. I am that guy. You are too young to be Bernard. Be playful. Take a vacation from social and economic reality once in a while. Be open to be a fool now and then."
 
 - 中文理解：「必须、必须、必须——讨厌的词。」是《达洛维夫人》吗？不不，是《海浪》？伯纳德？跟我讲讲吧。我就是那个人。你要当伯纳德还太年轻。要贪玩。偶尔从社会与经济的现实里度一次假。时不时容忍自己当个傻瓜。
 
@@ -147,7 +147,7 @@ modified: "2026-10-07"
 
 - 为什么这样写：这是本节最接近全书结论的一段，而它的前半是同一个人（父亲）承认自己认不出出处、连续猜错两次。「我不知道这句出自哪里」与「你要贪玩」在同一段里相邻，使这段劝告听起来不像知识而是像性格。第七、八两章论证过玩耍与 DIY 的价值需要以研究为凭，此处一条依据都没有——这是本节作为「另一种摘要」的另一半：论证被换成一句我就是这样的人（I am that guy）。
 
-**⑩** ""Looking back at his time in Paris in his twenties, Ernest Hemingway said, “If you are lucky enough to have lived in Paris as a young man, then wherever you go for the rest of your life, it stays with you, for Paris is a moveable feast.” Make Copenhagen your own moveable feast.""
+**⑩** "Looking back at his time in Paris in his twenties, Ernest Hemingway said, “If you are lucky enough to have lived in Paris as a young man, then wherever you go for the rest of your life, it stays with you, for Paris is a moveable feast.” Make Copenhagen your own moveable feast."
 
 - 中文理解：回望自己二十多岁在巴黎的那段日子，Ernest Hemingway 说过：「如果你年轻时足够幸运地在巴黎住过，那么此后你一生去到任何地方，它都跟着你，因为巴黎是一席可移动的盛宴。」把哥本哈根变成你自己那席可移动的盛宴吧。
 
