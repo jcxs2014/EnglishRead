@@ -17,7 +17,7 @@ Julian在下午的教程中感到失望。他与Emily协议不要孩子，但Emi
 
 ### 第1段：Julian的失望
 
-> **原句 1:** Twelve minutes into the afternoon tutorial, Julian felt his disappointment turn into something like anger.
+> **原句 1:** Twelve minutes into the afternoon tutorial, Julian felt his disappointment turn to rage.
 
 **中文理解**：下午教程开始十二分钟后，Julian感到他的失望变成了某种像愤怒的东西。
 
@@ -43,7 +43,7 @@ Julian在下午的教程中感到失望。他与Emily协议不要孩子，但Emi
 
 ### 第2段：挫折和受伤的骄傲
 
-> **原句 2:** It was only frustration and hurt pride that made his fists clench and blood run hot in his ears.
+> **原句 2:** It was only frustration and hurt pride that made his fists clench and blood run to his face, he told himself. fists clench and blood run hot in his ears.
 
 **中文理解**：只有挫折和受伤的骄傲才让他的拳头握紧，血液在耳边热血沸腾。
 
@@ -142,7 +142,7 @@ Julian在下午的教程中感到失望。他与Emily协议不要孩子，但Emi
 
 ### 第6段：她盯着他看
 
-> **原句 6:** The way she stared at him while she said this caused Julian to remember the first time he'd seen her eyes.
+> **原句 6:** The way she stared at him while she said this caused Julian to remember the first tutorials, before Alice had appeared, which he had spent imagining what Pen might look like under her clothes. Julian to remember the first time he'd seen her eyes.
 
 **中文理解**：她说这话时盯着他看的样子让Julian想起了他第一次看到她眼睛的时候。
 

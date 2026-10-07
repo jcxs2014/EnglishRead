@@ -175,7 +175,7 @@ Pen坐Northern线去Angel，找George。他们讨论Pen的工作申请和未来�
 
 ### 第8段：Pen的回忆
 
-> **原句 8:** Pen remembered those trips, how she had stopped being invited to join him, and how he'd stopped inviting her.
+> **原句 8:** She'd always told me my father was an anonymous donor. When I eventually figured it out, I confronted her. All she said was ‘What took you so long.' ”mbered those trips, how she had stopped being invited to join him, and how distant Ted had always been on his return.g invited to join him, and how distant Ted had always been on his return.g invited to join him, and how he'd stopped inviting her.
 
 **中文理解**：Pen记得那些旅行，她是如何不再被邀请加入他，以及他如何停止邀请她。
 

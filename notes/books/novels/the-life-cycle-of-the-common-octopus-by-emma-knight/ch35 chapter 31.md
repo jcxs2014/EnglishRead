@@ -154,7 +154,7 @@ Fergus坐在Flossie的桌子旁，Charlie进入。Alice问Charlie的鞋子怎么
 
 ### 第7段：课间休息
 
-> **原句 7:** Later, during a break between lectures, a glacial wind pressed against Alice as she pushed through the door of the student union bar.
+> **原句 7:** Later, during a break between lectures, a glacial wind pressed against Alice as she crossed the raised platform from the George Square Theatre to the David Hume Tower.
 
 **中文理解**：后来，在课间休息时，一阵冰冷的风压向Alice，当她推开学生会酒吧的门时。
 

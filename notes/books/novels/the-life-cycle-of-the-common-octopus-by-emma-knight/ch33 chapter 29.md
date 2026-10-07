@@ -130,32 +130,9 @@
 
 ---
 
-### 第6段：最后的问题
+### 第6段：毛巾
 
-> **原句 6:** Her last questions of the night were about Lennox and her middle name, and he had answered them with his usual cryptic responses.
-
-**中文理解**：她那个晚上最后的问题是关于Lennox和她的中间名，他用他惯有的神秘回答回答了它们。
-
-**关键词**：
-- `last adj. 最后的`
-- `questions n. 问题`
-- `night n. 晚上`
-- `about prep. 关于`
-- `Lennox n. Lennox`
-- `middle n. 中间`
-- `name n. 名字`
-- `answered v. 回答`
-- `usual adj. 惯有的`
-- `cryptic adj. 神秘的`
-- `responses n. 回答`
-
-**表达方式**："usual cryptic responses"——惯有的神秘回答，暗示男人的神秘。
-
----
-
-### 第7段：毛巾
-
-> **原句 7:** It was not until Pen used the bathroom, and noticed the stack of embroidered hand towels beside a decorative jar containing fragrance sticks that made the room smell like a department store, that she realized that Ted probably did not live alone in his island in the sky.
+> **原句 6:** It was not until Pen used the bathroom, and noticed the stack of embroidered hand towels beside a decorative jar containing fragrance sticks that made the room smell like a department store, that she realized that Ted probably did not live alone in his island in the sky.
 
 **中文理解**：直到佩内洛普用了洗手间，注意到装饰性罐子旁边叠放着绣花的毛巾，罐子里装着让房间闻起来像百货公司的香氛棒，她才意识到Ted可能不是独居在他的高空岛屿上。
 
@@ -187,9 +164,9 @@
 
 ---
 
-### 第8段：想念他们
+### 第7段：想念他们
 
-> **原句 8:** The truth was that she missed them. And they had done nothing unfair by her.
+> **原句 7:** The truth was that she missed them. And they had done nothing unfair by her.
 
 **中文理解**：事实是她想念他们。而且他们没有对她做任何不公平的事。
 

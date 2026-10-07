@@ -71,7 +71,7 @@ Alice和佩内洛普坐机场穿梭巴士离开。Alice没有告诉佩内洛普�
 
 ### 第4段：Fergus的企图
 
-> **原句 4:** Just a few hours before, after Pen and Fergus had reeled out of the ballroom in the middle of the last song, he had pressed her into the linen closet and pulled his tie loose.
+> **原句 4:** Just a few hours before, after Pen and Fergus had reeled out of the ballroom in the middle of the last dance, the rest of them had piled into taxis and gone to Hugo's room for an afterparty. There had been more drinking. Hugo, who was always working on a new business idea that would make him rich enough to leave uni and spend the rest of his life between a yacht and a private island in the BVIs, was experimenting with a product that he called “Sweeties Vodka.” He had several bottles of off-brand vodka lined up on his bookshelf, competing for space with alarmingly few books, and was pouring out “free samples.” The liquid in each bottle was tinged with a different color, from the reddish one Alice tried to a creepy grayish-blue, and all contained what looked like pebbles at the bottom. Hugo wanted them to guess the flavor. A few of the boys, Hugo included, had taken pills, and were becoming all dopey and lovey-dovey, like drugged puppies.eled out of the ballroom in the middle of the last dance, the rest of them had piled into taxis and gone to Hugo's room for an afterparty.eled out of the ballroom in the middle of the last dance, the rest of them had piled into taxis and gone to Hugo's room for an afterparty.eled out of the ballroom in the middle of the last song, he had pressed her into the linen closet and pulled his tie loose.
 
 **中文理解**：就在几个小时前，佩内洛普和Fergus在最后一首歌的中间摇摇晃晃地走出舞厅后，他把她按进洗衣房，松开了他的领带。
 
@@ -110,7 +110,7 @@ Alice和佩内洛普坐机场穿梭巴士离开。Alice没有告诉佩内洛普�
 
 ### 第6段：Charlie的回应
 
-> **原句 6:** Charlie, arriving at her other side, told her that the pebbles had once been cinnamon hearts, but they'd gone off.
+> **原句 6:** Charlie, arriving at her other side, told her that the pebbles had once been cinnamon hearts, but the vodka had stripped away the red food coloring. To Alice's surprise (given that he went out nearly every night, and his sneakers were ten times dirtier now than they had been in September to prove it), Charlie had refused the small white pill Hugo had held out. So had she. They were sticking to the vodka. “Delicious, isn't it?” Charlie said, lifting his cup, deadpan. “Hugo's going to be a billionaire.”he pebbles had once been cinnamon hearts, but the vodka had stripped away the red food coloring.he pebbles had once been cinnamon hearts, but the vodka had stripped away the red food coloring.he pebbles had once been cinnamon hearts, but they'd gone off.
 
 **中文理解**：Charlie从另一边过来，告诉她那些鹅卵石曾经是肉桂心糖，但它们变质了。
 
@@ -149,7 +149,7 @@ Alice和佩内洛普坐机场穿梭巴士离开。Alice没有告诉佩内洛普�
 
 ### 第8段：谣言
 
-> **原句 8:** Initially, Hugo reported that she'd been semi-clothed, and they'd only been kissing and cuddling.
+> **原句 8:** Initially, Hugo reported that she'd been semi-clothed, and they'd only been kissing. Later, the boys who had been with Hugo had managed to convince him and everyone else at the afterparty that Pen had in fact been fully naked, straddling Fergus on the bed. This had become the official version of events, despite Alice's and Charlie's protests. Jo, whose voice might have carried more weight with this set, had slipped away from the reeling ball without saying goodbye, as had become her standard practice. The more Pen's friends had argued that the story was impossible, or at least exceptionally unlikely, the more those who hardly knew her had wanted to believe it had happened, and the more embellishments they'd added. Alice had tried confronting Hugo, furious that he had not shown more loyalty to Pen after all the time they had spent together, but Hugo, two-thirds of a bottle of cinnamon heart vodka and at least one pill into his Christmas vacation, had only laughed his easy laugh and said, “Kissing or shagging, what's the difference? They're just winding her up.”d, and they'd only been kissing.d, and they'd only been kissing.d, and they'd only been kissing and cuddling.
 
 **中文理解**：最初，Hugo说她是半裸的，他们只是接吻。
 

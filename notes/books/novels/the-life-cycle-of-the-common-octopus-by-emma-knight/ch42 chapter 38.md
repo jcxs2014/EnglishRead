@@ -72,7 +72,7 @@ Pen与Lennox对话，他问她是否听说过他的姐姐。Pen烦躁，去拿�
 
 ### 第3段：Pen的恐惧
 
-> **原句 3:** Though they were both dressed for the day, Pen, who had never once encountered Lennox before, felt like a schoolgirl meeting her headmaster.
+> **原句 3:** Though they were both dressed for the day, Pen, who had never once encountered Lennox before noon, felt as if she had walked in on him in his dressing gown and slippers. had never once encountered Lennox before, felt like a schoolgirl meeting her headmaster.
 
 **中文理解**：虽然他们都穿好了当天的衣服，但从未在中午前遇到Lennox的Pen，感觉自己撞见了他穿着睡袍和拖鞋的样子。
 
@@ -111,7 +111,7 @@ Pen与Lennox对话，他问她是否听说过他的姐姐。Pen烦躁，去拿�
 
 ### 第4段：Lennox的目光
 
-> **原句 4:** Her horror was compounded when she noticed how he was looking at her: like he was weighing her up.
+> **原句 4:** Her horror was compounded when she noticed how he was looking at her: like he was dusting her for prints. Just as Sherlock Holmes could deduce, from the worn-out knees of a man's trousers, that he was planning to rob a bank vault, she realized that Lennox would probably find evidence on her person of where she had spent the night, and how. The thought was intolerable. She plastered an artificial smile onto her face and forced herself to go through the motions of cheerful human interaction.s looking at her: like he was dusting her for prints.s looking at her: like he was dusting her for prints.s looking at her: like he was weighing her up.
 
 **中文理解**：当她注意到他看她的眼神时，她的恐惧更加剧烈了：就像他在称量她。
 

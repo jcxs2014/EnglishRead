@@ -99,7 +99,7 @@ Pen和Sasha五月去Talmòrach。Christina在花园里种花。他们讨论Margo
 
 ### 第4段：Christina的花
 
-> **原句 4:** "Funny," said Christina, resuming her previous position amid the white and pink roses.
+> **原句 4:** "Funny," said Christina, resuming her previous position amid the white and pink buds that looked like roses, but without the thorns. "I used to hate gardening."
 
 **中文理解**："有趣，"Christina说，恢复了她先前在白色和粉色玫瑰中的位置。
 
@@ -145,7 +145,7 @@ Pen和Sasha五月去Talmòrach。Christina在花园里种花。他们讨论Margo
 
 ### 第6段：关于母亲的讨论
 
-> **原句 6:** "So you don't believe a mother has to choose between being a selfish monster and a saint."
+> **原句 6:** "“So you don't believe a mother has to choose between being a selfish monster and being eaten alive? being a selfish monster and a saint."
 
 **中文理解**："所以你不认为母亲必须在选择自私的怪物和圣人之间做选择。"
 

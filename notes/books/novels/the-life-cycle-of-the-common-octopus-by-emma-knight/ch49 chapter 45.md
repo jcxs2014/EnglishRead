@@ -17,7 +17,7 @@ Pen在与伦纳斯对话后，去房间拿东西。她散步穿过爱丁堡的�
 
 ### 第1段：Pen的房间
 
-> **原句 1:** After her conversation with Fergus on the bench, Pen went up to her room to get her things.
+> **原句 1:** After her conversation with Fergus on the bench, Pen went up to her room to get ready. went up to her room to get her things.
 
 **中文理解**：与伦纳斯在长椅上对话后，Pen上楼回房间拿她的东西。
 
@@ -94,7 +94,7 @@ Pen在与伦纳斯对话后，去房间拿东西。她散步穿过爱丁堡的�
 
 ### 第4段：Princes Street
 
-> **原句 4:** Beyond Princes Street, on a curving, downward-sloping street called Broughton, were the flats.
+> **原句 4:** Beyond Princes Street, on a curving, downward-sloping street called Broughton, was the “smart” stationery shop where Jo would work that summer. It was so smart that few people shopped there, and Sylvia, who would return to Edinburgh in August to “take in the festival,” would come by often to test the merchandise. They would, in the relative privacy of a city whose summer population did not know them, experiment with being a couple.g street called Broughton, was the “smart” stationery shop where Jo would work that summer.g street called Broughton, was the “smart” stationery shop where Jo would work that summer.g street called Broughton, were the flats.
 
 **中文理解**：在Princes Street之外，在一条弯曲、向下倾斜的叫做Broughton的街上，是那些公寓。
 

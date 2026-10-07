@@ -16,7 +16,7 @@
 
 ## 逐句精读
 
-### 第1段：首映夜
+第1段首映夜
 
 > **原句 1:** Opening night arrived like any other Thursday.
 
@@ -35,7 +35,7 @@
 
 ---
 
-### 第2段：Charlie的问题
+第2段Charlie的问题
 
 > **原句 2:** Charlie sat down. "Alright?" he asked.
 
@@ -53,28 +53,11 @@
 
 ---
 
-### 第3段：Charlie的座位
-
-> **原句 3:** Charlie sat down. "Alright?" he asked.
-
-**中文理解**：Charlie坐下。"还好吗？"他问。
-
-**关键词**：
-- `Charlie n. Charlie`
-- `sat v. 坐下`
-- `down adv. 下`
-- `Alright int. 还好吗`
-- `question mark ? 问号`
-- `he pron. 他`
-- `asked v. 问`
-
-**表达方式**："Charlie sat down"——Charlie坐下，暗示Charlie的到达。
-
 ---
 
-### 第4段：Charlie的幽默
+第3段Charlie的幽默
 
-> **原句 4:** "Anesthetic," he said with a bow. "In anticipation of your gammy broken leg."
+> **原句 3:** "Anesthetic," he said with a bow. "In anticipation of your gammy broken leg."
 
 **中文理解**："麻醉剂，"他鞠躬说，"预期你的跛脚断裂。"
 
@@ -97,9 +80,9 @@
 
 ---
 
-### 第5段：Alice跟随Charlie
+第4段Alice跟随Charlie
 
-> **原句 5:** Alice followed Charlie as he wove through the tables, getting hellos from almost everyone.
+> **原句 4:** Alice followed Charlie as he wove through the tables, getting hellos from almost all of them.
 
 **中文理解**：Alice跟着Charlie，他穿梭在桌子间，几乎向每个人打招呼。
 
@@ -122,9 +105,9 @@
 
 ---
 
-### 第6段：Charlie的回应
+第5段Charlie的回应
 
-> **原句 6:** "Well, I do. You cannot stir things apart."
+> **原句 5:** "Well, I do. You cannot stir things apart."
 
 **中文理解**："好吧，我会。你不能把事物分开搅拌。"
 
@@ -142,9 +125,9 @@
 
 ---
 
-### 第7段：后台的紧张
+第6段后台的紧张
 
-> **原句 7:** Now the green room contained twelve other bodies. Now she was dusted with pale powder.
+> **原句 6:** Now the green room contained twelve other bodies. Now she was dusted with pale powder.
 
 **中文理解**：现在后台容纳了另外十二个人。现在她身上扑满了淡色粉末。
 
@@ -168,9 +151,9 @@
 
 ---
 
-### 第8段：Alice的颤抖
+第7段Alice的颤抖
 
-> **原句 8:** She sat huddled there, shaking, trying to suck oxygen into her lungs, her heartbeats thundering.
+> **原句 7:** She sat huddled there, shaking, trying to suck oxygen into her lungs, her heartbeat screaming in her ears.
 
 **中文理解**：她蜷缩坐在那里，颤抖着，试图把氧气吸入肺里，心跳在她耳边尖叫。
 

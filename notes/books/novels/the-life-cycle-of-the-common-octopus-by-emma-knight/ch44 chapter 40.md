@@ -42,7 +42,7 @@ Alice长了虱子，需要Pen的帮助。Pen给Alice洗虱子洗发水。他们�
 
 ### 第2段：Alice需要Pen
 
-> **原句 2:** She needed Pen. No one else in the city of Edinburgh, maybe no one else in the world, could help her.
+> **原句 2:** She needed Pen. No one else in the city of Edinburgh, maybe no one else in the world, could be trusted with knowing how vile she was. Alice would sooner have shaved her head and called it a fashion statement than asked Jo or Neville, whom she had known for a mere six months, to comb vermin from her hair. And she could not call her mother. Even if she had not been five thousand kilometers away, Nicola would only have folded Alice's panic into her own larger and more general panic. It had to be Pen. But Pen's phone was off. Alice had listened to her friend's polite-to-strangers voice a dozen times. “You've reached the voicemail of Penelope Winters. I'm not available right now, so please leave a message and I will return your call as soon as I can. Thanks!”, maybe no one else in the world, could be trusted with knowing how vile she was.ld help her.
 
 **中文理解**：她需要Pen。爱丁堡城里没有人，也许世界上没有人能帮她。
 
@@ -139,7 +139,7 @@ Alice长了虱子，需要Pen的帮助。Pen给Alice洗虱子洗发水。他们�
 
 ### 第6段：Alice的表情
 
-> **原句 6:** Alice gave her a meaningful look that was comically overdone and then started scratching her head.
+> **原句 6:** Alice gave her a meaningful look that was comically overdone and then started shaking with laughter. overdone and then started scratching her head.
 
 **中文理解**：Alice给了她一个意味深长的眼神，有点夸张，然后开始抓头。
 
@@ -166,7 +166,7 @@ Alice长了虱子，需要Pen的帮助。Pen给Alice洗虱子洗发水。他们�
 
 ### 第7段：虱子洗发水的按摩
 
-> **原句 7:** While Pen massaged the lice shampoo into Alice's scalp, she let her mind return to Lennox's letter.
+> **原句 7:** While Pen massaged the lice shampoo into Alice's scalp, she let her mind return to the Lennoxes. Not to Sasha, not yet, but to Christina and Lennox, to George and Margot, and to what they had all known this whole time. They must have thought that she, too, had known. She was now convinced of this.lp, she let her mind return to the Lennoxes.lp, she let her mind return to the Lennoxes.lp, she let her mind return to Lennox's letter.
 
 **中文理解**：当Pen将虱子洗发水按摩进Alice的头皮时，她让思绪回到Lennox的信上。
 

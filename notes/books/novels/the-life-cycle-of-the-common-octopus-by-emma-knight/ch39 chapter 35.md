@@ -134,7 +134,7 @@ Pen在闹钟前醒来，Sasha来访。他们讨论Freddie，Pen意识到自己�
 
 ### 第5段：Sasha去看窗
 
-> **原句 5:** He crossed to the awning window and fingered the flameproof fabric, a riot of velvety red roses.
+> **原句 5:** He smiled. “It's just how I pictured it. Except for the curtains. Those are nicer.”d fingered the flameproof fabric, a riot of vertical stripes in tones of sunburn and marigold.meproof fabric, a riot of vertical stripes in tones of sunburn and marigold.meproof fabric, a riot of velvety red roses.
 
 **中文理解**：他走到凸窗边，手指触摸防火布料，上面是天鹅绒般红玫瑰的狂欢。
 

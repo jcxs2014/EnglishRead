@@ -94,7 +94,7 @@ Alice回到爱丁堡，与Jo讨论Sasha的婚姻状况。Alice感到暴力的厌
 
 ### 第4段：Alice从未见过照片
 
-> **原句 4:** Alice had never seen a picture of Emily Sachs before, nor had she allowed herself to think about Julian's wife very much.
+> **原句 4:** Alice had never seen a picture of Emily Sachs before, nor had she allowed herself much curiosity about what she might look like. It turned out she was petite and smiley, with round cheeks—and a round belly. In the picture, Julian was beside her, his arm protectively circling her shoulders, the two of them standing under a cheesy banner that said “It's a girl!”, nor had she allowed herself much curiosity about what she might look like., nor had she allowed herself much curiosity about what she might look like., nor had she allowed herself to think about Julian's wife very much.
 
 **中文理解**：Alice以前从未见过Emily Sachs的照片，她也没有允许自己多想Julian的妻子。
 
@@ -172,7 +172,7 @@ Alice回到爱丁堡，与Jo讨论Sasha的婚姻状况。Alice感到暴力的厌
 
 ### 第7段：Fergus和Hugo
 
-> **原句 7:** Downstairs, they found Fergus and Hugo drinking pints at a big table by the main bar.
+> **原句 7:** “We both told our parents we had to come back early to study,” Jo said, looking happy. Alice could find no words. She put her arms around Jo and hugged her. “Right,” said Jo finally. “Time to pretend this conversation never happened.” • • Downstairs, they found Fergus and Hugo drinking pints at a big table by the main fireplace.s at a big table by the main fireplace.s at a big table by the main bar.
 
 **中文理解**：楼下，他们发现Fergus和Hugo正在酒吧的主吧台旁的大桌子喝 pint。
 

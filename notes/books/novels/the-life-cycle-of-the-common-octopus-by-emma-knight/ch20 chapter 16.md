@@ -17,7 +17,7 @@
 
 ### 第1段：每晚登录与抽象对话
 
-> **原句 1:** Since her first conversation with Sasha on messenger, Pen had begun to log on every night, telling herself it was nothing more than a way to pass time.
+> **原句 1:** Since her first conversation with Sasha on messenger, Pen had begun to log on every night, telling herself she was only checking to see if he was there.
 
 **中文理解**：自从第一次在 messenger 上与 Sasha 交谈后，佩内洛普每晚登录，告诉自己这只是为了打发时间。"telling herself it was nothing more than a way to pass time"——这是一种自我辩护的表述，暗示她知道自己不只是在"打发时间"。
 

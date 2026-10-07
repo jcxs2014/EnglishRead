@@ -17,7 +17,7 @@
 
 ### 第1段：车站相遇与 Sasha 的缺席
 
-> **原句 1:** It was Christina who met Pen at the station, wearing rubber boots and a raincoat, with the news that Sasha was stuck at work and would not be able to make it to the polo match until later.
+> **原句 1:** It was Christina who met Pen at the station, wearing rubber boots and a raincoat, with the news that Sasha was held up. rubber boots and a raincoat, with the news that Sasha was stuck at work and would not be able to make it to the polo match until later.
 
 **中文理解**：克里斯蒂娜在车站接佩内洛普，穿着橡胶靴和雨衣，告诉她 Sasha 被工作困住了，无法参加马球赛。
 
@@ -76,7 +76,7 @@
 
 ### 第5段：Stonehaven 与村庄
 
-> **原句 5:** Stonehaven was no longer the nearest place to the house to shop for groceries, Christina explained to Pen, who was surprised to learn that there was a larger supermarket in the village of Kirkton.
+> **原句 5:** Stonehaven was no longer the nearest place to the house to shop for groceries, Christina explained to Pen on the short drive to the center of town, from which the sea was visible in a gap between buildings. In the village of Talmòrach they now had “quite a good little co-op,” she said with what sounded like pride, as well as Betsy's Tearoom, a doctor's office, a pub, and a mobile post office that visited twice weekly. But Stonehaven, half an hour from the village by car, was still the nearest place for what she smilingly called “posh groceries”—foreign cheeses, fancy olives, Nellie's “by appointment of Her Majesty's corgis” kibble, and so on—and it was a charming old fishing town with a lovely beach, well worth seeing. Pen smiled back.use to shop for groceries, Christina explained to Pen on the short drive to the center of town, from which the sea was visible in a gap between buildings.use to shop for groceries, Christina explained to Pen on the short drive to the center of town, from which the sea was visible in a gap between buildings.use to shop for groceries, Christina explained to Pen, who was surprised to learn that there was a larger supermarket in the village of Kirkton.
 
 **中文理解**：克里斯蒂娜解释说，Stonehaven 不再是最靠近房子的杂货购物地点，佩内洛普惊讶地发现 Kirkton 村庄里有一个更大的超市。
 
@@ -91,7 +91,7 @@
 
 ### 第6段：克里斯蒂娜与村庄
 
-> **原句 6:** If Christina had been an object of interest in Stonehaven, here in "the village" she was greeted by everyone she met with a warmth that Pen could only describe as familial.
+> **原句 6:** If Christina had been an object of interest in Stonehaven, here in “the village” she was greeted by each person they encountered with familial warmth. Christina glided through the narrow aisles of the grocery co-op with the speed and hand-eye coordination of a regular, adding packages of PG Tips, Alpen cereal, Fairy liquid, and Nurofen Rapid Relief tablets to her basket while carrying on a conversation with the stout, aproned young man stocking shelves, whom she introduced as her godson, Kieran Hewitt. No credit card was swiped, and no money changed hands at the register; Kieran made a note in a ledger and piled the provisions into a cardboard box from under the counter. Across the street at Betsy's Tearoom, which sold scones the size of baseballs, Christina bought two loaves of bread and a jar of blackberry jam from another godchild, a pretty, freckled girl she called Eliza, who likewise merely wrote down the amount owed and sent them on their way.haven, here in “the village” she was greeted by each person they encountered with familial warmth.haven, here in “the village” she was greeted by each person they encountered with familial warmth.haven, here in "the village" she was greeted by everyone she met with a warmth that Pen could only describe as familial.
 
 **中文理解**：如果说克里斯蒂娜在 Stonehaven 是一个引人注目的存在，那么在这个"村庄"里，她遇到的每个人都以佩内洛普只能用"家庭般"来形容的亲切来问候她。
 

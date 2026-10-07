@@ -17,7 +17,7 @@ Pen在伦敦水族馆，Margot给她写信。他们讨论Pen的父亲和Margot�
 
 ### 第1段：伦敦水族馆
 
-> **原句 1:** The London Aquarium was on the other side of the river from the small part of London that Margot was visiting.
+> **原句 1:** The London Aquarium was on the other side of the river from the small part of London Pen knew.
 
 **中文理解**：伦敦水族馆在泰晤士河的另一边，Margot正在访问伦敦的那个小区域。
 
@@ -44,7 +44,7 @@ Pen在伦敦水族馆，Margot给她写信。他们讨论Pen的父亲和Margot�
 
 ### 第2段：特拉法加广场
 
-> **原句 2:** In Trafalgar Square, low puffs of cloud, dark gray against a pale gray sky, appeared to float above the statues.
+> **原句 2:** In Trafalgar Square, low puffs of cloud, dark gray against a pale gray sky, appeared to touch the central dome of the National Gallery. This, too, was gray, as were the portico's impressive columns. A stone carapace protecting the nation's color and feeling. Or keeping them from seeping out.gainst a pale gray sky, appeared to touch the central dome of the National Gallery.gainst a pale gray sky, appeared to touch the central dome of the National Gallery.gainst a pale gray sky, appeared to float above the statues.
 
 **中文理解**：在特拉法加广场，低矮的云团，深灰色衬着淡灰色的天空，似乎漂浮在雕像上方。
 
@@ -125,7 +125,7 @@ Pen在伦敦水族馆，Margot给她写信。他们讨论Pen的父亲和Margot�
 
 ### 第5段：海马
 
-> **原句 5:** Pen was admiring the round white bellies and long tails of the seahorses, whose fins fluttered.
+> **原句 5:** Pen was admiring the round white bellies and long tails of the seahorses, whose silhouettes did not at all correspond to the image she'd had in mind, when she felt a presence beside her.
 
 **中文理解**：Pen在欣赏海马圆圆的白色腹部和长长的尾巴，它们的鳍在飘动。
 
@@ -180,7 +180,7 @@ Pen在伦敦水族馆，Margot给她写信。他们讨论Pen的父亲和Margot�
 
 ### 第7段：关于父亲的讨论
 
-> **原句 7:** "When it came down to it, Elliot said your father had a right to know, and I did not want to keep secrets."
+> **原句 7:** "“When it came down to it, Elliot said your father had a right to know, and I didn't argue. a right to know, and I did not want to keep secrets."
 
 **中文理解**："说到底，Elliot说你的父亲有权知道，我不想保守秘密。"
 

@@ -141,7 +141,7 @@
 
 ### 第7段：爱如月潮
 
-> **原句 7:** When your turn comes, is there something I'll whisper in your ear as I leave you?
+> **原句 7:** When your turn comes, is there something I'll whisper in your ear as I leave you in a new room, without me?
 
 **中文理解**：当你的时刻来临时，有我能在你耳边低语的告别吗？
 
@@ -162,33 +162,6 @@
 **表达方式**："like the moon's pull on the tide"——就像月亮对潮汐的牵引，暗示爱的永恒。
 
 ---
-
-### 第8段：永别的预感
-
-> **原句 8:** When your turn comes, is there something I'll whisper in your ear as I leave you?
-
-**中文理解**：当你的时刻来临时，有我能在你耳边低语的告别吗？
-
-**关键词**：
-- `When conj. 当……的时候`
-- `your adj. 你的`
-- `turn n. 时刻`
-- `comes v. 来临`
-- `is v. 有`
-- `there adv. 有`
-- `something pron. 某事`
-- `I'll contr. 我会`
-- `whisper v. 低语`
-- `in prep. 在`
-- `your adj. 你的`
-- `ear n. 耳朵`
-- `as conj. 当……的时候`
-- `I pron. 我`
-- `leave v. 离开`
-- `comes v. 来临`
-- `question mark ? 问号`
-
-**表达方式**："as I leave you"——当我离开你时，暗示母亲的预感。
 
 ## 本章词汇
 

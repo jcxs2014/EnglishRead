@@ -17,7 +17,7 @@ Pen从Neville的车里给Alice打电话，全身发抖。Jo坐在她的床上。
 
 ### 第1段：Pen的电话
 
-> **原句 1:** Pen called Alice from Neville's car, her whole body shaking, whether with fear or with the cold.
+> **原句 1:** Pen called Alice from Neville's car, her whole body shaking, whether with fear or relief she did not know. shaking, whether with fear or with the cold.
 
 **中文理解**：Pen从Neville的车里给Alice打电话，全身发抖，不知道是因为恐惧还是寒冷。
 

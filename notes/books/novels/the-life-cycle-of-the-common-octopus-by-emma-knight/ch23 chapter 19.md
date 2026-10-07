@@ -111,7 +111,7 @@
 
 ### 第7段：庄园的参观
 
-> **原句 7:** With Nellie leaping ahead, he began a guided tour of the grounds that was very clearly, Pen thought, rehearsed.
+> **原句 7:** With Nellie leaping ahead, he began a guided tour of the grounds that was very clearly, Pen thought, a well-worn performance. the grounds that was very clearly, Pen thought, rehearsed.
 
 **中文理解**：Nel1ie在前面跳跃，他开始引导参观庄园，佩内洛普心想，这显然是排练过的。
 

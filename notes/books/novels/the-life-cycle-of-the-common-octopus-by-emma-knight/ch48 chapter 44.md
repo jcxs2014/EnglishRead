@@ -161,7 +161,7 @@ Pen的父母打电话给她，讨论Pen的过去和未来。他们讨论Jake和F
 
 ### 第6段：Pen的按压
 
-> **原句 6:** She pressed her knuckles to the inside corners of her eyes until shooting stars bloomed.
+> **原句 6:** She pressed her knuckles to the inside corners of her eyes until shooting stars filled her vision. He didn't try again to speak. What could he say? What would she have done in his place? Not lied to everyone including herself, she hoped. But then, she wasn't him. She didn't know.r eyes until shooting stars filled her vision.r eyes until shooting stars filled her vision.r eyes until shooting stars bloomed.
 
 **中文理解**：她把指关节按在眼睛的内角，直到金星迸发。
 
@@ -219,7 +219,7 @@ Pen的父母打电话给她，讨论Pen的过去和未来。他们讨论Jake和F
 
 ### 第8段：母亲的两刻
 
-> **原句 8:** "There were two moments in my life, both before you were born, when the pain was unbearable."
+> **原句 8:** "““There were two moments in my life, both before you were born, when the pain was too much, and I wanted it to end. But since you were born I have never—I would never—” Anna drew a sharp breath and forced herself to continue. “My mother left me, and I will not do the same to you. Do you understand?”ere born, when the pain was too much, and I wanted it to end.ere born, when the pain was too much, and I wanted it to end.ere born, when the pain was unbearable."
 
 **中文理解**："我的人生中有两个时刻，都在你出生之前，那时痛苦无法承受。"
 

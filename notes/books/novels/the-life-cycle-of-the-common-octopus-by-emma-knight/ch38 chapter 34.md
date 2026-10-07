@@ -51,7 +51,7 @@
 
 ### 第2段：Peter McAvoy的解释
 
-> **原句 2:** In reality, Peter McAvoy explained to Penelope in his office, speaking quietly behind closed doors, was that Julian had been found guilty of sexual misconduct.
+> **原句 2:** In reality, Peter McAvoy explained to Penelope in his office, speaking quietly because the door was propped wide open (under no circumstance would any member of his faculty ever again hold a meeting with a student behind closed doors if he could help it), Julian Sachs had effectively been let go. That Sachs had a reputation for inappropriate involvement with students was widely known. He had never, however, disclosed such a relationship to his superiors, as school policy dictated he must. Peter himself had issued several warnings—the most he could do in the absence of evidence. Sachs's graphic text messages, combined with the shocking accusation that he had cornered one of his students in the film lab, was more than sufficient grounds for dismissal.s office, speaking quietly because the door was propped wide open (under no circumstance would any member of his faculty ever again hold a meeting with a student behind closed doors if he could help it), Julian Sachs had effectively been let go.s office, speaking quietly because the door was propped wide open (under no circumstance would any member of his faculty ever again hold a meeting with a student behind closed doors if he could help it), Julian Sachs had effectively been let go.s office, speaking quietly behind closed doors, was that Julian had been found guilty of sexual misconduct.
 
 **中文理解**：实际上，Peter McAvoy在办公室里向Penelope解释，因为门被推开所以小声说，Julian Sachs实际上已被解雇。
 
@@ -87,7 +87,7 @@
 
 ### 第3段：董事会的决定
 
-> **原句 3:** The board had decided that Julian Sachs would not be permitted within five hundred meters of the campus.
+> **原句 3:** The board had decided that Julian Sachs would not be permitted within five hundred meters of any university-affiliated building for the duration of both leaves, on pain of permanent and public dismissal. permitted within five hundred meters of the campus.
 
 **中文理解**：董事会决定Julian Sachs不得进入校园五百米范围内。
 
@@ -115,7 +115,7 @@
 
 ### 第4段：数字时代
 
-> **原句 4:** But of course, this being the digital age, by the time Pen left his office, most of the staff had already seen the message.
+> **原句 4:** But of course, this being the digital age, by the time Pen left his office, most of the School of Philosophy, Psychology, and Language Sciences and at least half of the School of Literatures, Languages, and Cultures had already heard some version of the story. He had been made aware that his teaching contract would, at the end of the sabbatical, not be renewed. The softer narrative, Peter explained, had been devised in order to protect Penelope's privacy, as the matter was, naturally, a delicate one. The book in question, he thought it pertinent to add as he stood to signal the end of this uncomfortable conversation, was to contain a chapter on sexual ethics in the “digital age.” as he stood to signal the end of this uncomfortable conversation, was to contain a chapter on sexual ethics in the “digital age.” But of course, this being the digital age, by the time Pen left his office, most of the School of Philosophy, Psychology, and Language Sciences and at least half of the School of Literatures, Languages, and Cultures had already heard some version of the story.me Pen left his office, most of the School of Philosophy, Psychology, and Language Sciences and at least half of the School of Literatures, Languages, and Cultures had already heard some version of the story.me Pen left his office, most of the staff had already seen the message.
 
 **中文理解**：但当然，这是数字时代，等Pen离开他的办公室时，大多数员工已经看到了消息。
 
@@ -145,7 +145,7 @@
 
 ### 第5段：消息板网站
 
-> **原句 5:** In the spring term, a rudimentary message board website had begun spreading from school to school.
+> **原句 5:** In the spring term, a rudimentary message board website had begun spreading from screen to screen throughout the university's computer labs and residence halls. The banner across the top of the page read “Lonely Hearts of George Square,” and in the threads below, students hiding behind anonymous usernames wrote notes to and about one another. Mostly, it was used for low-risk flirting. A typical post read:ite had begun spreading from screen to screen throughout the university's computer labs and residence halls.ite had begun spreading from screen to screen throughout the university's computer labs and residence halls.ite had begun spreading from school to school.
 
 **中文理解**：在春季学期，一个简陋的消息板网站开始从一个学校传播到另一个学校。
 
@@ -197,7 +197,7 @@
 
 ### 第7段：Sasha的理解
 
-> **原句 7:** Sasha understood that it was not Pen herself, but a character she had invented, who was being discussed.
+> **原句 7:** Sasha understood that it was not Pen herself, but a character she had invented, who had become infamous. character she had invented, who was being discussed.
 
 **中文理解**：Sasha理解这不是Pen本人，而是她虚构的一个角色在被讨论。
 

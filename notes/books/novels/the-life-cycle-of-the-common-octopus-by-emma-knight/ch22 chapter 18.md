@@ -31,7 +31,7 @@
 
 ### 第2段：克里斯蒂娜的早晨
 
-> **原句 2:** Christina was, at eight thirty on Saturday morning, inside the white cloud of a freshly laundered pillowcase, her nose pressed against the fabric, breathing in the clean, crisp scent of lavender detergent.
+> **原句 2:** Christina was, at eight thirty on Saturday morning, inside the white cloud of a duvet cover, grasping for two ties that should have been in the corners. inside the white cloud of a freshly laundered pillowcase, her nose pressed against the fabric, breathing in the clean, crisp scent of lavender detergent.
 
 **中文理解**：周六早上八点半，克里斯蒂娜在一块刚洗过的枕套的白色云雾中，鼻子贴着布料，呼吸着薰衣草洗衣液干净清新的气味。
 
@@ -46,7 +46,7 @@
 
 ### 第3段：新做的床
 
-> **原句 3:** The freshly made bed, once pressed smooth, filled her with the satisfaction she had been seeking.
+> **原句 3:** The freshly made bed, once pressed smooth, filled her with the satisfaction she had sought in setting herself the task. Christina loved this bedroom, with its green Petrouchka walls and carriage-like bed. The motions required to prepare it were helping to put her in the necessary frame of mind to meet the day. It was not, after all, Pen's fault that she was arriving at the worst possible time.r with the satisfaction she had sought in setting herself the task.r with the satisfaction she had sought in setting herself the task.r with the satisfaction she had been seeking.
 
 **中文理解**：新做的床一旦被压平，就给了她一直在寻求的满足感。
 
@@ -76,7 +76,7 @@
 
 ### 第5段：收入来源
 
-> **原句 5:** These were important revenue streams that Christina had established in recent years: it took all her energies to run the B&B successfully, and she resented the fact that she had to do it all herself.
+> **原句 5:** These were important revenue streams that Christina had established in recent years: it took all her ingenuity and more to keep up with the eye-watering sums required to prevent the ceilings from caving in, the cottages from falling down around their tenants, the village in a fit state for its residents, and the antediluvian St. had established in recent years: it took all her energies to run the B&B successfully, and she resented the fact that she had to do it all herself.
 
 **中文理解**：这些是克里斯蒂娜近年来建立的重要收入来源：她需要全部精力来成功经营B&B，她怨恨自己不得不独自完成一切。
 
@@ -107,7 +107,7 @@
 
 ### 第7段：克里斯蒂娜对"好妻子"的定义
 
-> **原句 7:** Christina's idea of what constituted a "good wife" differed considerably from that of her mother, Lady Julia, who had been trained from birth to be a dutiful, subservient wife.
+> **原句 7:** Christina's idea of what constituted a “good wife” differed considerably from that of her mother, Lady Julia Campbell. Perhaps the most important distinction was that whereas her mother had long ago relinquished any claim on agency or fulfillment, Christina required both. When she had chosen to make her life with Elliot, she had gladly left the frustration and jockeying of her old role behind and taken on a new one that, as it turned out, better suited her desire to make tangible progress and her need for autonomy. And yes, it also allowed her to share a bed with the man she loved and, later, to mother on her own terms. Christina was grateful every day for this. She looked forward, as she fell asleep each night, to the sounds and smells of morning, to her cold shower (a habit born of impatience; the hot water took ages to arrive, and now she craved the rush), to her walk through this land that she adored. The beauty of Talmòrach still filled her with wonder. When she was taking a few days off to wander through the streets and galleries of London, her longing for the place was physical. Talamh meant “land” but also “earth” or “soil.” This soil was a part of her, and she would one day become a part of it.iffered considerably from that of her mother, Lady Julia Campbell.iffered considerably from that of her mother, Lady Julia Campbell.iffered considerably from that of her mother, Lady Julia, who had been trained from birth to be a dutiful, subservient wife.
 
 **中文理解**：克里斯蒂娜对"好妻子"的定义与母亲朱莉娅夫人截然不同，后者从出生起就被训练成一个尽职、顺从的妻子。
 

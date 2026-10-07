@@ -61,7 +61,7 @@
 
 ### 第4段：村庄与教堂
 
-> **原句 4:** As she pushed the stroller through the church parking lot, which had been half-empty the morning before, Pen noticed that there were now more cars than she had seen there in all her previous visits combined.
+> **原句 4:** As she pushed the stroller through the church parking lot, which had been half-empty the morning before, she noticed that every spot was taken. Of course, she thought; it's Sunday. She found the church grounds alive with activity. Young children in carefully pressed clothes were darting around, making full use of the new play structure. The men wore suits, and some of the women wore hats. The church's double doors stood wide open, and a slow-moving crowd was funneling in.g lot, which had been half-empty the morning before, she noticed that every spot was taken.g lot, which had been half-empty the morning before, she noticed that every spot was taken.g lot, which had been half-empty the morning before, Pen noticed that there were now more cars than she had seen there in all her previous visits combined.
 
 **中文理解**：当她推着婴儿车穿过教堂停车场时，佩内洛普注意到现在停的车比她以前所有访问加起来都多。
 
@@ -76,7 +76,7 @@
 
 ### 第5段：过路的对话
 
-> **原句 5:** "Eight months," Pen said, and tucked him up tightly under his blanket, hoping they would not recognize him.
+> **原句 5:** "Eight months," Pen said, and tucked him up tightly under his blanket, hoping they would not recognize Danny.
 
 **中文理解**："八个月，"佩内洛普说，把丹尼紧紧裹在毯子下，希望他们不会认出他。
 

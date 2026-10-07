@@ -17,7 +17,7 @@
 
 ### 第1段：大学生的求偶仪式
 
-> **原句 1:** The mating rituals of university students in the first decade of the twenty-first century were, to Pen's mind, a sad commentary on the state of human connection.
+> **原句 1:** The mating rituals of university students in the first decade of the twenty-first century were embarrassing, Pen thought as she walked along Pleasance toward the student union building, her hands stuffed in her pockets.
 
 **中文理解**：在佩内洛普看来，21世纪第一个十年里大学生的求偶仪式是对人类连接状态的一种悲哀评论。
 
@@ -33,7 +33,7 @@
 
 ### 第2段：佩内洛普对跳舞的态度
 
-> **原句 2:** Pen liked dancing when the music was good—and she knew it made sense for young people to find release in movement.
+> **原句 2:** Pen liked dancing when the music was good—and she knew it made sense for young people to examine one another's wits and shapes under the cover of noise and semidarkness—but she wished her generation had the waltz, or even just some kind of coordinated hop, in which to dress their hunger for acceptance, and for each other's bodies. sense for young people to find release in movement.
 
 **中文理解**：佩内洛普喜欢音乐好时跳舞——她知道年轻人通过运动来释放自己是合理的。
 

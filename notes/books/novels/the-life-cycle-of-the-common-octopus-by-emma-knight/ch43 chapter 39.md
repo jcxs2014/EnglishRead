@@ -17,7 +17,7 @@ Danny的派对正在进行，Pen在炮楼里与Sasha对话。他们讨论派对�
 
 ### 第1段：Danny的出现
 
-> **原句 1:** From the moment Danny reappeared, bleary-eyed in elasticized slacks and a blue button-up shirt.
+> **原句 1:** From the moment Danny reappeared, bleary-eyed in elasticized slacks and a blue button-down, and began helping himself to fistfuls of the Twiglets and potato chips Christina had put out, Pen was able to disappear into the flurry of the party.
 
 **中文理解**：从Danny重新出现的那一刻起，他双眼无神，穿着松紧裤和蓝色纽扣衬衫。
 
@@ -95,7 +95,7 @@ Danny的派对正在进行，Pen在炮楼里与Sasha对话。他们讨论派对�
 
 ### 第4段：Christina的丝带
 
-> **原句 4:** Christina, meanwhile, with the silk scarf Freddie had brought for her tied elegantly around her neck, was directing traffic.
+> **原句 4:** Christina, meanwhile, with the silk scarf Freddie had brought for her tied elegantly at her neck, was the cog around which the day turned, providing not only its structure and sustenance, but also the low, nearly imperceptible hum of order and compassion that made the house comfortable, and which, like running water or electricity, would only ever be truly noticed if it stopped.
 
 **中文理解**：与此同时，Christina将Freddie带给她的丝巾优雅地系在脖子上，正在指挥交通。
 
@@ -124,7 +124,7 @@ Danny的派对正在进行，Pen在炮楼里与Sasha对话。他们讨论派对�
 
 ### 第5段：piñata的兴奋
 
-> **原句 5:** At one moment, after the excitement of the piñata, Danny, indignant that the candy had fallen on his sister's side, had thrown his stick.
+> **原句 5:** At one moment, after the excitement of the piñata, Danny, indignant that the candy was being put away, had thrown his head back in protest, striking it against a side table with a sickening thunk. From the other end of the room Margot, who had been sunk in a tête-a-tête with Rosh, cried out as if it were her head that had been bumped. After a shocked pause, Danny burst into loud sobs at both the pain and the injustice. George, who had sprung up to buffer the fall and missed by a split second, held her son to her chest and rocked him back and forth, whispering comforting words in his ear. Margot leaped to her feet and crossed the room.anny, indignant that the candy was being put away, had thrown his head back in protest, striking it against a side table with a sickening thunk.anny, indignant that the candy was being put away, had thrown his head back in protest, striking it against a side table with a sickening thunk.anny, indignant that the candy had fallen on his sister's side, had thrown his stick.
 
 **中文理解**：在某个时刻，piñata的兴奋之后，Danny因为糖果掉在姐姐那边而愤慨，扔出了他的棍子。
 
@@ -154,7 +154,7 @@ Danny的派对正在进行，Pen在炮楼里与Sasha对话。他们讨论派对�
 
 ### 第6段：关于Peru的问题
 
-> **原句 6:** "Hi, Freddie. What did you do in Peru that was so awful?" she asked, cutting right to it.
+> **原句 6:** "““Hi, Freddie. What did you do in Peru that was so awful?
 
 **中文理解**："嗨，Freddie。你在秘鲁做了什么那么糟糕的事？"她问，直接切入主题。
 
@@ -185,7 +185,7 @@ Danny的派对正在进行，Pen在炮楼里与Sasha对话。他们讨论派对�
 
 ### 第7段：信件的到达
 
-> **原句 7:** This time, the arrival in the Palmer Street mail room of a slim envelope addressed to her sent a jolt of electricity through her.
+> **原句 7:** This time, the arrival in the Palmer Street mail room of a slim envelope addressed to Hugh Cornelius Campbell, Esq., with a Vietnamese postage stamp and no return address, had triggered the evacuation of the entire building and the arrival of a bioterrorism team in hazmat suits. Loose white granules shifting around inside an envelope addressed to a secret government office, as it turned out, were no laughing matter; it had only been a few years since anthrax in the mail had killed several people in Florida.m of a slim envelope addressed to Hugh Cornelius Campbell, Esq.m of a slim envelope addressed to Hugh Cornelius Campbell, Esq.m of a slim envelope addressed to her sent a jolt of electricity through her.
 
 **中文理解**：这次，一封写给她的纤细信封到达Palmer Street邮箱，通过她传导了一股电流。
 
