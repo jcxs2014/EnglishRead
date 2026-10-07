@@ -72,7 +72,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
   - audit_structure 缺陷 0 / 提示 0 ｜ check_anchor 凭空造词 0 ｜ 空段 0 ｜ 总览引语 32/32
 - **本轮整改**（上一批 ch01–ch12 复核）：词头与例句脱节 15 处（ch03 五个虚构词头按 B 类改用本章真实词形；删 1 条重复词头）；分析层英文逐字 9 处改写/漏词；ch02 补一句话总结；ch05 修占位符残留。**改后自身又引入 1 处新缺陷**（补全 ch11 引语时写成 `letting`，原文为 `she let`），已按原文修正——「补全」本身要复验
 - **对账**：md 章 13 / `text/ch*.txt` 13 / 总览 3，差额归零
-- **commit**：本书累计 14 次（本次 `07c23d168`），**未 push**
+- **commit**：本书 9 次（最新 `07c23d168`），**未 push**
 - **提示型（只记不改）**：check_vocab 基础档超纲词若干（长度启发式）；sweep_analysis_inline 跨章 1 处经核为**假红**（原文写「承接上章那句」，该句确在 ch02）
 - **五步审查未做（待用户发起）**
 - 明细见当日工作日志 2026-10-07 同书专节；门禁原件见 `.memory/raw-gates/livia-mother-of-rome-by-caitlin-c-gillespie/2026-10-07-完工.txt`
