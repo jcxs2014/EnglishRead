@@ -32,7 +32,7 @@ modified: "2026-10-07"
 
 **可质疑处**：
 
-1. **两条判准在数据里方向相反，作者只用「最低限度的可理解性」把它们勉强接上**。作者要求审美体验最终改变视角，而他自己引用的 Silvia 与 Turner 实验却说 interestingness 由 disturbingness 与 unpleasantness 预测——越令人不适的画越有趣。两条判准叠起来之后，Bacon 的《Figure with Meat》与 Goya 的《Saturn Devouring His Son》这类「不适＋有趣」的作品，只能靠「art must be at least minimally comprehensible」这一句勉强进门，而这条依据的实验只是：读 MacLeod 的《The Life of Haifisch》时，不给背景信息就读不懂、给了「Haifisch 是德语的鲨鱼」这一条就看懂了。判准的实际松紧因此取决于读者手头有多少背景知识，而这一变量在正文里没有被讨论。
+1. **两条判准在数据里方向相反，作者只用「最低限度的可理解性」把它们勉强接上**。作者要求审美体验最终改变视角，而他自己引用的 Silvia 与 Turner 实验却说 interestingness 由 disturbingness 与 unpleasantness 预测——越令人不适的画越有趣。两条判准叠起来之后，Bacon 的《Figure with Meat》与 Goya 的《Saturn Devouring His Son》这类「不适＋有趣」的作品，只能靠「For art to be appreciated, it must be at least minimally comprehensible」这一句勉强进门，而这条依据的实验只是：读 MacLeod 的《The Life of Haifisch》时，不给背景信息就读不懂、给了「Haifisch 是德语的鲨鱼」这一条就看懂了。判准的实际松紧因此取决于读者手头有多少背景知识，而这一变量在正文里没有被讨论。
 2. **五千余人问卷的自陈测量与它在论证中承担的重量不匹配**。童年读什么与成年后的归因复杂度之间，作者自己写明 Our studies were correlational、因果作用 needs to be tested in the future；但同一章仍以这条相关作为「读文学小说会改变人的视角」这一主张的证据，中间隔着「自陈的童年阅读量」这一层本身可能与家庭背景共同变动的变量。他控制住的是人口学变量与政治倾向，不是这一层。
 3. **体育是靠「结果未写好」被拉进审美体验的，而这一章给电影、给绘画的判据全是内在的**。作者在收束句里用 unscripted 把体育与复杂叙事直接并列为两个能触发同一动作的世界（我们被运送，也被改造），但正文给体育的唯一理由是 outcome is not scripted 与 Mumford 的 2012 年著作；同样一场没有剧本的比赛，未必比一部复杂电影给出更多视角，这个等价没有在正文里被论证。
 
@@ -138,7 +138,7 @@ modified: "2026-10-07"
 
 - 中文理解：第一，与预测一致，从小大量读文学小说的人，归因上确实更复杂（也就是：能想到一个人那样做可能有好几种原因），他们成年后过的心理生活也比那些没怎么读的人更丰富。第二，出乎意料，从小大量读言情小说的人，归因复杂度显著地低于那些没怎么读的人。
 
-- 句子结构：两句共享同一骨架「插入语 + 主语带 who 定语从句 + 并列谓语（末项带 than 比较结构）」。第一句的插入语为副词短语 as predicted；主句主语为 individuals who grew up reading a lot of literary fiction，并列谓语为 were more attributionally complex 与 led a psychologically richer life as adults；括号内的 i.e., … 是对 attributionally complex 的同位解释，其中关系代词 why 引导名词性从句作 think of 的宾语，而 someone might behave a certain way 又是嵌在其中的宾语从句；句末 than those who did not 以比较结构收尾，did 是动词的省略形式，do 指代 grew up reading a lot of literary fiction。第二句结构相同，插入语换成 unexpectedly，谓语为 were significantly less attributionally complex。
+- 句子结构：两句共享同一骨架「插入语 + 主语带 who 定语从句 + 并列谓语（末项带 than 比较结构）」。第一句的插入语为副词短语 as predicted；主句主语为 individuals who grew up reading a lot of literary fiction，并列谓语为 were indeed more attributionally complex 与 led a psychologically richer life as adults；括号内的 i.e., … 是对 attributionally complex 的同位解释，其中关系代词 why 引导名词性从句作 think of 的宾语，而 someone might behave a certain way 又是嵌在其中的宾语从句；句末 than those who did not 以比较结构收尾，did 是动词的省略形式，do 指代 grew up reading a lot of literary fiction。第二句结构相同，插入语换成 unexpectedly，谓语为 were significantly less attributionally complex。
 
 - 关键词：**as predicted**（与预测一致）；**attributionally complex**（归因上更复杂）；**multiple reasons**（好几个原因）；**than those who did not**（比那些没读的人）；**unexpectedly**（出乎意料地）；**significantly less**（显著地更低）
 

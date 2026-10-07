@@ -34,7 +34,7 @@ modified: "2026-10-07"
 
 1. **本节的核心维度从头到尾没有被测量，而作者用的是一句 My guess**。他先写 Payscale "did not ask survey respondents how interesting their jobs were, how much creativity mattered in their jobs, or other questions pertaining to psychological richness"，紧接着用 "My guess is that many art directors, editors, and writers would say that their jobs are interesting, creative, and psychologically rich" 把这个缺口补上。整个职业一节的结论——「some jobs low in happiness or meaning could still be good—psychologically rich—jobs」——其唯一的正面例证是殡仪馆长 87% 有意义对比编辑 42%，而 87% 恰好是有意义感的数字，不是丰富度的数字。用来证明第三维度存在的证据全部来自前两个维度。
 2. **题词里那位「喜欢熟悉」的人物，在同一章里被同时用作正反两面**。开篇题词引的是 Eugene Levy 的 "I really like familiarity"，紧跟着 "being able to crawl out of my comfort zone"；到准则第五条，又把他和 Daniel Plainview 并列成另一端的例子——「if you are a Daniel Plainview… or a Eugene Levy… you can find richness in the familiar」。同一个人在「要爬出舒适区」和「在熟悉里也能找到丰富」两端各出现一次，作者没有裁决哪一种才是他的主张，只用一句 "But" 把两种读法并排放着。
-3. **「无悔」这条准则与本章自己的降调互相拆台**。作者刚说 prioritizing psychological richness 只是 "one way to lead a good life"，并且明说它 "is not the best life"；紧接着第一条准则给出的却是全书最强硬的动作指令——十年后回头会不会后悔，并把 "Should I stay or should I go?" 设成通用提问句式。可如果一位读者已选定以幸福为先或以意义为先，同一套「别后悔」的算法给出的答案会正好相反（安稳地留下 vs 立刻出发）。作者没有处理这个分叉，只是把它留给了辛普森的反问。
+3. **「无悔」这条准则与本章自己的降调互相拆台**。作者刚说 prioritizing psychological richness 只是 "one way to lead a good life"，并且说的是 I am not arguing that a psychologically rich life is the best life（否定落在「我不是在主张」上，而不是给出一句「它不是最好的生活」的正面判定）；紧接着第一条准则给出的却是全书最强硬的动作指令——十年后回头会不会后悔，并把 "Should I stay or should I go?" 设成通用提问句式。可如果一位读者已选定以幸福为先或以意义为先，同一套「别后悔」的算法给出的答案会正好相反（安稳地留下 vs 立刻出发）。作者没有处理这个分叉，只是把它留给了辛普森的反问。
 
 ## 选择性精读
 
