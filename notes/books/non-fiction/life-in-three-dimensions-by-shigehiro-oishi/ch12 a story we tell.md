@@ -45,7 +45,7 @@ modified: "2026-10-07"
 
 - 句子结构：三句构成递进。首句与次句都是 How often 引导的特殊疑问句，但次句没有重复动词，而是把三个并列的动词（adjust, embellish, make sly cuts）挂在同一个 do we 之下；第三句是 the-comparative 结构（the longer life goes on, the fewer are those around），主句完全倒装，those around 后接两个并列的不定式 to challenge… 与 to remind…，remind 后接 that 宾语从句。末句是无动词的名词片段 Told to others, but—mainly—to ourselves，作为对 the story we have told 的补充回指。
 
-- 关键词：****the story we have told about our life**（我们讲过的关于人生的那个故事）；**make sly cuts**（悄悄剪掉一段）；**the fewer are those around to challenge our account**（能反驳我们这套说法的人越来越少）**
+- 关键词：**the story we have told about our life**（我们讲过的关于人生的那个故事）；**make sly cuts**（悄悄剪掉一段）；**the fewer are those around to challenge our account**（能反驳我们这套说法的人越来越少）
 
 - 表达方式：**用「没人来反驳」解释叙事为什么会失真**。作者不说道具，也不说自我欺骗，只说一个人口条件：能挑战你说法的人随年龄减少。失真的原因因此被写成外部约束，而非内部缺陷。
 
@@ -57,7 +57,7 @@ modified: "2026-10-07"
 
 - 句子结构：第一句是「A is inherently intertwined with B」的被动系表结构，intertwined 前用副词 inherently 限定；第二句是 the-comparative 对偶（The more interesting stories you have, the more psychologically rich your life is），两边各带一个比较级；第三句以 But 转折，as Julian Barnes points out 是非限定性插入语，主句 we tell our own life story differently at different times。
 
-- 关键词：****inherently intertwined**（本就地缠在一起）；**the quantity and quality of your stories**（你故事的数量与质量）**
+- 关键词：**inherently intertwined**（本就地缠在一起）；**the quantity and quality of your stories**（你故事的数量与质量）
 
 - 表达方式：**把抽象概念换算成可数的东西**。 richness 被换成「故事条数」，于是「丰富不丰富」变成一个可以清点、也可以改写的对象。
 
@@ -69,7 +69,7 @@ modified: "2026-10-07"
 
 - 句子结构：名词短语而非完整句。中心词 a set of techniques，后接 designed to redirect… 的过去分词短语作后置定语（= which are designed to…），redirect 的宾语是两个并列的 people's narratives about themselves 与 (about) the social world。
 
-- 关键词：****redirect**（重新引导）；**narratives about themselves and the social world**（关于自己与关于社会世界的叙事）**
+- 关键词：**redirect**（重新引导）；**narratives about themselves and the social world**（关于自己与关于社会世界的叙事）
 
 - 表达方式：**把「自我欺骗」重写成「一套技法」**。定义里没有任何道德判断词，只有 designed 与 redirect 这类中性动词，于是改故事变成了一件可以教的活儿。
 
@@ -81,7 +81,7 @@ modified: "2026-10-07"
 
 - 句子结构：单句撑起四个数据点。主干 parents' average ratings steadily increased from 5.87… to 6.67… to 7.21… to 7.47…，from 与三个 to 串成一条阶梯；每个数据点后面挂一个现在分词或介词短语作补充（meaning they were slightly above average / when they were their children's age / when they were roughly thirty-five years old），句末用破折号接一个无谓语的形容片段 a lot more broadminded, self-confident, and socially skilled than the average forty-nine-year-old，把最后那个数换算成比较结论。
 
-- 关键词：****average ratings steadily increased**（平均评分一路上升）；**slightly above average**（略高于平均）**
+- 关键词：**average ratings steadily increased**（平均评分一路上升）；**slightly above average**（略高于平均）
 
 - 表达方式：**用评分的斜率代替论证**。作者不做任何解释，只把四个数字按时间排开，让「一路上升」这个形状自己说话；量表零点信息（0 much less than most / 5 same as most / 10 much more than most）在前面单独交代，好让 5.87 这个看起来平常的数立刻被读成「略高于平均」。
 
@@ -93,7 +93,7 @@ modified: "2026-10-07"
 
 - 句子结构：Yet 起首的转折句，主句 they remembered their September selves to be significantly worse than their November selves，remember sb/sth to be… 是 remember 的复合宾语结构；冒号后接一个名词短语作同位说明 the remembered September self-rating was 5.74，其中 remembered 作前置定语，全句以感叹号收束。
 
-- 关键词：****remembered their September selves**（回忆中的九月自我）；**the remembered September self-rating**（被回忆起来的九月评分）**
+- 关键词：**remembered their September selves**（回忆中的九月自我）；**the remembered September self-rating**（被回忆起来的九月评分）
 
 - 表达方式：**把结论交给三个小数点的差**。6.35（九月实际自评）、6.05（十一月自评）、5.74（十一月回忆中的九月），同一个十一分制量表上的三个数并置，不需要任何形容词就把「记忆低于实况」这件事说完了。
 
@@ -103,9 +103,9 @@ modified: "2026-10-07"
 
 - 中文理解：所有参与者先填一份问卷，然后做一简版 GRE 语文阅读与字母易位词题，一周后再做另一版 GRE 语文阅读与字母易位词题。／其中一半人观看了一段由高年级学生谈自己一年级成绩差、后来如何逐步提升的访谈。一位受访者说自己的 GPA 从 2.0 升到 2.6 再升到 3.2。实验组还看到高年级学生的调查结果：「67% 说自己一年级的成绩低于预期；62% 说自己的 GPA 从一年级上半学期到高年级阶段有显著提升。」
 
-- 句子结构：干预内容用三层并列铺开：访谈录像（an interview with upper-class students talking about…，talking about 是现在分词作后置定语）→ 具体个人的数字（his GPA increased from 2.0 to 2.6 to 3.2）→ 抽象基率（67% said…; 62% of the students said…，两个分号并列的 that 宾语从句，第二个 that 明写、第一个省略）。因变量那一长句以 All the participants completed A, then B, and another version of C one week later 的顺序结构串起四次测量。
+- 句子结构：干预内容用三层并列铺开：访谈录像（an interview with upper-class students talking about…，talking about 是现在分词作后置定语）→ 具体个人的数字（his GPA increased from 2.0 to 2.6 to 3.2）→ 抽象基率（67% said…; 62% of the students said…，两个分号并列的 that 宾语从句，第二个 that 明写、第一个省略）。因变量那一长句以 All the participants completed A, then B, and another version of C one week later 的顺序结构串起三个测量时点（问卷、当天的简版、一周后的另一版）。
 
-- 关键词：****did poorly in their first year but improved over time**（一年级表现差但后来逐步提升）；**67% said their freshman grades were lower than they had anticipated**（67% 说一年级的成绩低于预期）**
+- 关键词：**did poorly in their first year but improved over time**（一年级表现差但后来逐步提升）；**67% said their freshman grades were lower than they had anticipated**（67% 说一年级的成绩低于预期）
 
 - 表达方式：**把「叙事」做成可投放的刺激物**。作者不描述干预的语气，只列出它包含哪些元素：一个人的三段数字、两个百分号。故事被拆成可复制的材料清单。
 
@@ -117,7 +117,7 @@ modified: "2026-10-07"
 
 - 句子结构：首句以 Strikingly 前置副词开场，主干 those in the GPA information condition actually improved their GPA by .34，from… to… 界定时间跨度，whereas 引导对照分句 those in the no-information condition saw their GPA drop by .05（see + 宾语 + 动词原形的使役感知结构）。次句用 Finally 起首，把 25 percent… whereas 5 percent… 做成同构对照，两个分句共享 transferred out of Duke 这一动词短语，后半省略。
 
-- 关键词：****improved their GPA by .34**（GPA 实际提高了 .34）；**saw their GPA drop by .05**（GPA 下滑了 .05）；**transferred out of Duke**（从杜克转走）**
+- 关键词：**improved their GPA by .34**（GPA 实际提高了 .34）；**saw their GPA drop by .05**（GPA 下滑了 .05）；**transferred out of Duke**（从杜克转走）
 
 - 表达方式：**用同一把尺子的两端收尾**。GPA 的差用小数（.34 对 .05，方向相反），去留的差用百分比（25% 对 5%，五倍）；一个连续、一个离散，两个指标一起把「叙事干预」的效应钉在可核查的量上。
 
@@ -129,7 +129,7 @@ modified: "2026-10-07"
 
 - 句子结构：首句 there are 存在句给出分类，but 后 main types are A and B 点出两型。第二句主语 George W. Bush's story，系表 a typical redemption narrative，后接 that 定语从句，从句内 goes from good to bad → before it hits a turning point → and concludes with a happy ending 三段用 before 与 and 串成时间轴。第三句是 so…that… 结果状语从句（was so prototypical that McAdams even wrote a book entitled…），entitled 为过去分词作后置定语修饰 book。
 
-- 关键词：****redemption narrative**（救赎叙事）；**contamination narrative**（污染叙事）；**goes from good to bad**（由好变坏）**
+- 关键词：**redemption narrative**（救赎叙事）；**contamination narrative**（污染叙事）；**goes from good to bad**（由好变坏）
 
 - 表达方式：**用一个人的一生同时充当两种叙事的对照样本**。作者先在第 1 节把同一个人的故事给出两个讲法（名门顺子 vs. 叛逆浪子回头），本章第 4 节再把它命名为 redemption narrative，于是抽象的类型学有了一个读者已经见过的具体面孔。
 
@@ -141,7 +141,7 @@ modified: "2026-10-07"
 
 - 句子结构：第一句是 A are like B who… 的明喻，who 定语从句内 party and spend all the money they have earned 两个动词并列，they have earned 是省略关系代词的定语从句修饰 money。第二句由分号隔开，两个并列谓语 are wasting… 与 are not accumulating… 形成反义对仗。
 
-- 关键词：****wasting their adventures**（浪费自己的冒险）；**not accumulating psychologically rich experiences**（没有积累心理丰富的经验）**
+- 关键词：**wasting their adventures**（浪费自己的冒险）；**not accumulating psychologically rich experiences**（没有积累心理丰富的经验）
 
 - 表达方式：**用财务隐喻把经验变成资产**。冒险被说成挣来的钱，反刍被说成储蓄，不反思则被说成挥霍；比喻自带算术，读者不必理解记忆巩固的机制就能得出结论。
 
@@ -153,7 +153,7 @@ modified: "2026-10-07"
 
 - 句子结构：主语 The bottom line，系动词 is，表语由 not A but B 结构给出：not how you tell a story per se（per se 作后置限定，意为「就讲述本身而言」），but what kinds of experiences you actually have（what 引导的名词性从句作表语），其后 whether you reflect on them 与 whether you can keep them… 两个并列的名词性从句继续扩展表语；keep 的双宾语结构是 keep them in your psychological memorabilia box。
 
-- 关键词：****not how you tell a story per se**（不是讲述本身）；**what kinds of experiences you actually have**（你实际拥有过哪些经验）；**your psychological memorabilia box**（你的心理纪念品盒子）**
+- 关键词：**not how you tell a story per se**（不是讲述本身）；**what kinds of experiences you actually have**（你实际拥有过哪些经验）；**your psychological memorabilia box**（你的心理纪念品盒子）
 
 - 表达方式：**用「不是 A 而是 B」把全章收回到一个具体的容器意象上**。讲述被排除了，留下三件事：发生过什么、想过没有、留没留住；最后用 memorabilia box（纪念品盒）这个实物意象接住抽象的「记忆」。
 

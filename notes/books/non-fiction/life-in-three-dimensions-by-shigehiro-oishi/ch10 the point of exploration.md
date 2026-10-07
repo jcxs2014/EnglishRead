@@ -46,7 +46,7 @@ modified: "2026-10-07"
 
 - 句子结构：首句主干 the purpose of life is to live it，其后 to taste experience to the utmost 与 to reach out eagerly and without fear for newer and richer experience 三个不定式并列作表语，插入语 after all 位于主语与系动词之间；reach out 的方向介词是 for 而非 to，其宾语由 and 连接的比较级 newer 与 richer 共同修饰 experience。次句是 only if 引导的条件句，倒装在主句 You can do that 之后，条件从句内 have 的宾语由 curiosity 与 an unquenchable spirit of adventure 并列，后者是同位说明。
 
-- 关键词：****to taste experience to the utmost**（把经验尝到极致）；**reach out eagerly and without fear**（热切地、无所畏惧地伸手）；**an unquenchable spirit of adventure**（无法熄灭的冒险精神）**
+- 关键词：**to taste experience to the utmost**（把经验尝到极致）；**reach out eagerly and without fear**（热切地、无所畏惧地伸手）；**an unquenchable spirit of adventure**（无法熄灭的冒险精神）
 
 - 表达方式：**把「目的」写成三个动词而不是一个状态**。live it / taste to the utmost / reach out 全是及物动作，没有一个表示「得到」或「抵达」的词；人生的目的因此被定义在动作的强度与方向上，而不是结果上。
 
@@ -58,7 +58,7 @@ modified: "2026-10-07"
 
 - 句子结构：两句由 When… 时间状语从句引导，形成条件对照。首句主句有三个并列谓语 explored…, figured out…, and stuck with…，其中 which one was better 是 figured out 的宾语从句；or "exploited" it 用选择连词 or 引出术语化的同义改写，exploited 加了引号以示这是行话。次句用 a lot more 承接比较，over forty hops on average 把量写成带「平均」的统计表述，before settling on the slightly better one 用介词分词短语收尾。
 
-- 关键词：****figured out which one was better**（弄清哪一个更好）；**stuck with the better one**（守着更好的那一个）；**“exploited”**（「利用」，行话加引号）**
+- 关键词：**figured out which one was better**（弄清哪一个更好）；**stuck with the better one**（守着更好的那一个）；**“exploited”**（「利用」，行话加引号）
 
 - 表达方式：**用两对数字搭起一个干净的实验梯度**。50% 差别对 10% 差别，十次跳跃对四十次以上；不讲任何理论，斜率自己就出来了——差别越小，探索越多。
 
@@ -70,7 +70,7 @@ modified: "2026-10-07"
 
 - 句子结构：首句主干 the great tits' choices were almost identical to the ideal simulated behaviors，Shockingly 前置；次句以 That is 起头作解释性同位，主语 great tits，instinctively 与 ideally 两个副词分别修饰动词与形容词，谓语是 used… and adjusted… 的并列，adjusted 后接 the degree of exploration depending on… 的分词短语作条件状语。
 
-- 关键词：****almost identical to the ideal simulated behaviors**（与理想模拟行为几乎完全相同）；**instinctively**（本能地）；**explore-then-exploit foraging strategy**（先探索后利用的觅食策略）**
+- 关键词：**almost identical to the ideal simulated behaviors**（与理想模拟行为几乎完全相同）；**instinctively**（本能地）；**explore-then-exploit foraging strategy**（先探索后利用的觅食策略）
 
 - 表达方式：**用一个副词把生物学事实转成规范命题**。instinctively 是这一句的重心：鸟不是学过、算过、试错后学会的，它天生就做到了最优。
 
@@ -82,7 +82,7 @@ modified: "2026-10-07"
 
 - 句子结构：首句主语 Computer simulations，谓语 show that 接宾语从句，从句主干 the optimal strategy here is to interview the first 37 percent of candidates，括号内 i.e., saying no to all of them 用动名词作解释性同位；and from that point on decide whether… 是并列的第二个不定式，whether 引导名词性从句作 decide 的宾语，从句内含比较级 better than the best of the first 37 percent。随后一句 This is called the "37 percent rule." 是被动命名句；末两句用问答式收束，Very few 是无动词片段答语。
 
-- 关键词：****the optimal strategy**（最优策略）；**saying no to all of them**（对他们全部说不）；**Very few**（极少）**
+- 关键词：**the optimal strategy**（最优策略）；**saying no to all of them**（对他们全部说不）；**Very few**（极少）
 
 - 表达方式：**把数学结论翻译成生活指令，再用两个词把它打回原形**。整段先给出一条清晰的操作规则（先拒 37%，此后遇好就上），最后用 "How many people actually follow…? Very few." 一问一答结束——规则越具体，答语越短，落差就越大。
 
@@ -94,7 +94,7 @@ modified: "2026-10-07"
 
 - 句子结构：主句 The CDC data indicates that…，宾语从句主干 those who spend less time exploring are indeed more likely to end their marriage in divorce than those who spend more time exploring before marriage，两个 who 定语从句对称套在两个 those 上，比较级 more likely… than 承担全句的判断；括号内 those who get married quickly after starting a serious relationship 是对前一个 those 的同位说明，把抽象的「探索少」换成可操作的定义。末句 So, on average, the more exploration, the more marital stability 是无动词的 the-comparative 对偶，用逗号隔开两个比较短语。
 
-- 关键词：****spend less time exploring**（花更少时间去探索）；**end their marriage in divorce**（让婚姻以离婚收场）；**the more exploration, the more marital stability**（探索越多，婚姻越稳定）**
+- 关键词：**spend less time exploring**（花更少时间去探索）；**end their marriage in divorce**（让婚姻以离婚收场）；**the more exploration, the more marital stability**（探索越多，婚姻越稳定）
 
 - 表达方式：**给相关性套上两道保险再说出结论**。indeed 强调与预测一致，on average 明确这是均值层面的陈述；同时把「探索少」在括号里定义成具体行为（很快结婚），避免读者把它读成性格。
 
@@ -106,7 +106,7 @@ modified: "2026-10-07"
 
 - 句子结构：首句主干 The most famous findings from this research were that…，that 引导的表语从句内含两个并列分句，由 and that 明写第二个 that 连接：over half of the couples had lived within twenty blocks of each other before marriage 与 33.58 percent of them had lived within five blocks or less，两者都用过去完成时（回指 1931 年的申请时点）。随后 Reflecting upon his findings 是分词状语，主句 Bossard commented 引出直接引语；引语内部 Cupid may have wings 是「专名＋情态动词」让步，but apparently they are not adapted for long flights 用被动结构（be adapted for）作转折，them 指代 wings。
 
-- 关键词：****had lived within twenty blocks of each other**（彼此只住不到二十个街区）；**within five blocks or less**（五个街区以内）；**not adapted for long flights**（不适合长途飞行）**
+- 关键词：**had lived within twenty blocks of each other**（彼此只住不到二十个街区）；**within five blocks or less**（五个街区以内）；**not adapted for long flights**（不适合长途飞行）
 
 - 表达方式：**用统计量给一个拟人形象配注脚**。丘比特被赋予翅膀，再用「不适合长途飞行」把翅膀这个象征当场取消；感叹号跟在 33.58% 之后，是精确小数与惊叹语气的错配——越精确越显得不可辩驳。
 
@@ -118,7 +118,7 @@ modified: "2026-10-07"
 
 - 句子结构：主干 the attractiveness ratings… increased linearly as exposure increased，as 引导时间／条件状语从句；括号内 on the 1 to 7 point scale 交代量表，冒号后用四个并列的名词短语把数值与条件一一对上，每个都是「数字 for the woman who + 定语从句」的同构片段，四个定语从句（never showed up / showed up five times / showed up ten times / showed up fifteen times）严格平行。
 
-- 关键词：****increased linearly as exposure increased**（随暴露次数线性上升）；**on the 1 to 7 point scale**（1 到 7 分制）**
+- 关键词：**increased linearly as exposure increased**（随暴露次数线性上升）；**on the 1 to 7 point scale**（1 到 7 分制）
 
 - 表达方式：**让数字自己排成一条直线**。linearly 是句子先给的判断，冒号后的四个数则是它的验算；四个片段句式完全一样，读起来就有等间距的感觉。
 
@@ -130,7 +130,7 @@ modified: "2026-10-07"
 
 - 句子结构：首句主语 the lowest price participants were willing to sell a possession of their own，其中 participants were willing to sell… 是省略关系代词的定语从句修饰 price，of their own 作后置定语；谓语 was twice as much as 是倍数比较结构，其宾语 the highest price they were willing to pay to purchase that same object 内又嵌一个省略 that 的定语从句。次句 For the same mug they paid $5 for 把话题前置（介词 for 悬在句末，是定语从句留下的空位），主句 they wanted others to pay $10 用 want sb to do 结构。
 
-- 关键词：****the lowest price participants were willing to sell**（愿意卖出自己所有物时的最低价）；**twice as much as**（两倍于）；**the same mug they paid $5 for**（同一只他们花 5 美元买下的杯子）**
+- 关键词：**the lowest price participants were willing to sell**（愿意卖出自己所有物时的最低价）；**twice as much as**（两倍于）；**the same mug they paid $5 for**（同一只他们花 5 美元买下的杯子）
 
 - 表达方式：**用同一只杯子完成一次双向报价**。买价与卖价在同一物件、同一人、一周之内被并置，价格差因此无法归因于物品变化；$5 对 $10 是最小可用的整数比，比任何统计量都直观。
 
@@ -142,7 +142,7 @@ modified: "2026-10-07"
 
 - 句子结构：首句 I am ashamed to say that… 用形容词补足语引出宾语从句，从句内 hung out with… far more than I probably should have 是比较结构，should have 后省略过去分词（虚拟的自我责备）。第二句 Why did I go all the way from Tokyo to Lewiston, Maine, to… 是特殊疑问句，go all the way 强调距离，地名之间的逗号是同位插说。第三句 It doesn't make rational sense, but psychologically it does 用助动词 does 完成省略替代，前后各带一个状语（rational / psychologically）形成对仗。其后三个短句连续给出 It gives us comfort 与 It's a psychological teddy bear，全段以短句堆收束。
 
-- 关键词：****I am ashamed to say**（我很惭愧地说）；**It doesn’t make rational sense, but psychologically it does**（理性上说不通，但心理上说得通）；**a psychological teddy bear**（一只心理上的泰迪熊）**
+- 关键词：**I am ashamed to say**（我很惭愧地说）；**It doesn’t make rational sense, but psychologically it does**（理性上说不通，但心理上说得通）；**a psychological teddy bear**（一只心理上的泰迪熊）
 
 - 表达方式：**把自己写成反面样本**。作者不用「人们常常」，而用「我很惭愧」「我为什么要跑这么远」；三个极简句（Familiarity is a powerful force. It gives us comfort. It's a psychological teddy bear.）逐句缩短，最后一句换成一个具体物件。
 
@@ -156,7 +156,7 @@ modified: "2026-10-07"
 
 - 句子结构：首句 They kept evolving, moving, refining their art 用 kept + 三个并列动名词，三个动词共享一个宾语结构，节奏靠 -ing 尾音连成一片。第二句 That's what I've always tried to do 用 what 从句作表语，破折号后 keep moving 是同位复述（严格说不是语法性同位，而是修辞性重复），使「要做的事」与「首句描述的行为」严丝合缝地对接。第三句 Otherwise 起头构成条件，as Dylan says 是插入语，其后的 if you're not busy being born, you're busy dying 是 be busy doing 结构两次复用的对偶。
 
-- 关键词：****kept evolving, moving, refining their art**（不断演化、不断移动、不断打磨自己的艺术）；**keep moving**（继续移动）；**if you’re not busy being born, you’re busy dying**（不忙着出生，就是在忙着死去）**
+- 关键词：**kept evolving, moving, refining their art**（不断演化、不断移动、不断打磨自己的艺术）；**keep moving**（继续移动）；**if you’re not busy being born, you’re busy dying**（不忙着出生，就是在忙着死去）
 
 - 表达方式：**用一句歌词式的对偶替代最后一段论证**。全章有模拟、有全国数据、有田野实验，结尾却交给一个比喻：不出生就是等死。修辞强度与证据强度在此处不匹配，效果是把结论从「建议」抬成「要么这样要么那样」的二择。
 

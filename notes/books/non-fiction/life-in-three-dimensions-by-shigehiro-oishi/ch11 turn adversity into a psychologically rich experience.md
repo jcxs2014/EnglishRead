@@ -9,7 +9,7 @@ modified: "2026-10-07"
 
 - **出处**：Life in Three Dimensions: How Curiosity, Exploration, and Experience Make a Fuller, Better Life，Chapter Eleven
 - **作者**：Shigehiro Oishi（本书作者；书中以第一人称写作，其父名为 Yoshi）
-- **章节定位**：全书 14 章平铺、无分部。本章接在 ch01 给「心理丰富度」立下的三要素之后，专攻其中「多样性与新颖性」这一要素的**另一半来源**——前面各章讲的都是人主动挑选的经历（探索、审美、动手做、玩），本章把同一套尺度推到人**没选**的经历上：疾病、地震、飓风、瘟疫。它因此是全书第一次把「心理丰富」与「幸福」正面切开：后者在灾难里必然下降，前者却可能上升。它给 ch13「Two Remaining Questions」与 ch14「A Good Life Without Regrets」埋下的线是——若逆境也能计入丰富度，那么「不遗憾」就不再等于「不经历坏事」。
+- **章节定位**：全书 14 章平铺、无分部。本章接在 ch01 表 1 给「心理丰富度」立下的三项核心特征（Novelty、Play、Perspective Change）之后，专攻其中「视角改变」这一项的**另一半来源**——前面各章讲的都是人主动挑选的经历（探索、审美、动手做、玩），本章把同一套尺度推到人**没选**的经历上：疾病、地震、飓风、瘟疫。它因此是全书第一次把「心理丰富」与「幸福」正面切开：后者在灾难里必然下降，前者却可能上升。它给 ch13「Two Remaining Questions」与 ch14「A Good Life Without Regrets」埋下的线是——若逆境也能计入丰富度，那么「不遗憾」就不再等于「不经历坏事」。
 - **字符数**：约 18,400
 - **一句话主旨**：如果把逆境的代价算成「不幸福」，它当然只是减法；但若按「这一段经历给我留下了多少可用的新视角」来算，同一件事可以是加法——本章用尼采、卡尼曼、卡特里娜与桑迪的幸存者、神户地震四轮追踪调查、四川儿童的贴纸实验、兵库与东京的市政职位申请数据，以及两轮瑞典问卷，一层层把这条换算做实，最后用威廉·詹姆斯的「只要脚还踩在魔鬼脖子上」收住全部张力。
 
@@ -74,7 +74,7 @@ modified: "2026-10-07"
 
 - 表达方式：**用一段对话把两个概念正面顶在一起，再由当事人自己给出一句拒绝**。作者没有让叙述者替卡尼曼发言，而是让卡尼曼在被劝说的当场顶回去——「meaningful」不是被论证掉的，是被一个研究了一辈子意义的人声明他不理解。
 
-- 为什么这样写：**这一段是本章与 ch03「意义陷阱」的对接处**。ch03 已说明「meaningful life」这个词本身有问题；本章换了一个在场者来作证，而这个在场者恰好是全书范围内最不该不懂「意义」的人。他的拒绝把 ch03 的批评从概念层推到实践层，也替作者后面那句「我 would call it psychologically rich」腾出了位置——换词不是修辞，是必要的替换。
+- 为什么这样写：**这一段是本章与 ch03「意义陷阱」的对接处**。ch03 已把「meaningful life」拆成两重陷阱——门槛抬得过高，且人们误解了它的所需；本章换了一个在场者来作证，而这个在场者恰好是全书范围内最不该不懂「意义」的人。他的拒绝把 ch03 的批评从概念层推到实践层，也替作者后面那句「I would call it psychologically rich」腾出了位置——换词不是修辞，是必要的替换。
 
 **④** "Kahneman—who escaped Nazi-occupied Paris, was on the run for three or four years during World War II, and would later go on to win the Nobel Prize—experienced many ups and downs in his life. He said his life was best described as “interesting”; I would call it psychologically rich."
 

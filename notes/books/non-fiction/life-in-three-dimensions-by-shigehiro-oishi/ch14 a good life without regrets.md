@@ -77,7 +77,7 @@ modified: "2026-10-07"
 
 - 中文理解：按照这个公式，提高自尊有两条路。一条是增加成功的数量，另一条是降低抱负。詹姆斯的自尊等式同样可以套到幸福上。极端简化地说，幸福可以表述为两个因子的函数：成功（个人的、人际的或社会的）除以抱负。人们可以靠增加成功来提高幸福，也可以靠降低抱负来提高幸福。
 
-- 句子结构：首句为 According to this formula 状语 + there be 存在句 + of increase self-esteem 后置定语；第二、三句为两个由 One is… / The other way is… 平行展开的不定式作表语。第四句是被动式 James’s self-esteem equation could be applied to happiness as well（could be + 过去分词，表被动）。第五句为 To simplify to the extreme 目的状语 + 主句 happiness could be stated as + the function of two factors，表语后接冒号引出的「分子／分母」算式，算式本身以斜杠分隔并用括号标注 (divided by)。末句把前两句合成为一句 by 短语构成的对比。
+- 句子结构：首句为 According to this formula 状语 + there are two ways 存在句，ways 的后置定语是不定式 to increase self-esteem（to do 表「做某事的路子」，不是 of + 动名词）；第二、三句为两个由 One is… / The other way is… 平行展开的不定式作表语。第四句是被动式 James’s self-esteem equation could be applied to happiness as well（could be + 过去分词，表被动）。第五句为 To simplify to the extreme 目的状语 + 主句 happiness could be stated as + the function of two factors，表语后接冒号引出的「分子／分母」算式，算式本身以斜杠分隔并用括号标注 (divided by)。末句把前两句合成为一句 by 短语构成的对比。
 
 - 关键词：**self-esteem equation**（自尊等式）；**reduce aspiration**（降低抱负）；**success (personal, interpersonal, or societal) / (divided by) aspirations**（成功除以抱负）
 
