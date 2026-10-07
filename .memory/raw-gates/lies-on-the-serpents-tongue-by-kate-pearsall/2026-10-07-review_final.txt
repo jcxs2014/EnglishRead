@@ -1,0 +1,14 @@
+=== 五步审查收尾：基线对比+终验 2026-10-07 ===
+--- audit_structure（修复后基线对比）---
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 3 ｜ 🔀 映射不一致 0
+  ⚠️ ch00 book of mountain wisdom september.m  引语 3 个，与本书众数 8 相差过大
+  ⚠️ ch16b book of mountain wisdom october.md  引语 3 个，与本书众数 8 相差过大
+  ⚠️ ch25b book of mountain wisdom november.m  引语 3 个，与本书众数 8 相差过大
+--- corruption_scan ---
+  FAIL 0 处（U+FFFD / 双句号）
+--- sweep_full ---
+  ✅ 本章命中 236 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+--- gate.sh 终验 ---
+=== 引语块覆盖度：32 个 md，阻断型 0 处 ／ 提示型 0 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
+GATE_EXIT=0

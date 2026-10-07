@@ -1,0 +1,72 @@
+=== 五步审查 a 步：第3条门禁全量重跑 2026-10-07 ===
+--- verify_corpus（语料层）---
+text/ 件数: 32
+  [1] 件数 32 == 预期 32  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 4 组 / 互查 12 组（共享人物 10 个已豁免）  OK
+  [3] 首末句抽印已跳过（--quiet-edges）
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+--- verify_quotes ---
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 261/261 引文可核实（100%）；完全干净文件 33/33；正文章节 0 提取 0；总览 0 提取转交 1 ===
+--- verify_quotes --full ---
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 261/261 引文可核实（100%）；完全干净文件 33/33；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+--- check_vocab ---
+--- FAIL (0) ---
+--- WARN (49) ---
+--- WARN (49) ---
+  ch00 book of mountain wisdom september.md [基础] 基础档疑含超纲词「September」
+  ch01 chapter one.md [基础] 基础档疑含超纲词「granddaddy」
+  ch03 chapter three.md [基础] 基础档疑含超纲词「gristmill」
+  ch03 chapter three.md [基础] 基础档疑含超纲词「livelihood」
+  ch03 chapter three.md [基础] 基础档疑含超纲词「anguished howl」
+  ch03 chapter three.md [基础] 基础档疑含超纲词「community」
+  ch04 chapter four.md [基础] 基础档疑含超纲词「chlorophyll」
+  ch05 chapter five.md [基础] 基础档疑含超纲词「ridiculous story」
+  ch05 chapter five.md [基础] 基础档疑含超纲词「welcoming smile」
+  ch06 chapter six.md [基础] 基础档疑含超纲词「rattlesnake」
+  ch06 chapter six.md [基础] 基础档疑含超纲词「strange languidness」
+  ch07 chapter seven.md [基础] 基础档疑含超纲词「sharpened」
+  ch07 chapter seven.md [基础] 基础档疑含超纲词「earlier discovery」
+  ch07 chapter seven.md [基础] 基础档疑含超纲词「woodstove」
+  ch09 chapter nine.md [基础] 基础档疑含超纲词「sickening crack」
+  ch09 chapter nine.md [基础] 基础档疑含超纲词「anonymous voicemail」
+  ch09 chapter nine.md [基础] 基础档疑含超纲词「trailhead」
+  ch10 chapter ten.md [基础] 基础档疑含超纲词「expensive teeth」
+  ch10 chapter ten.md [基础] 基础档疑含超纲词「newspaper」
+  ch10 chapter ten.md [基础] 基础档疑含超纲词「responsibility」
+  ch11 chapter eleven.md [基础] 基础档疑含超纲词「protective ward」
+  ch12 chapter twelve.md [基础] 基础档疑含超纲词「footprint」
+  ch12 chapter twelve.md [基础] 基础档疑含超纲词「afterimage」
+  ch12 chapter twelve.md [基础] 基础档疑含超纲词「repercussions」
+  ch13 chapter thirteen.md [基础] 基础档疑含超纲词「windfallen」
+  ch13 chapter thirteen.md [基础] 基础档疑含超纲词「woodstove」
+  ch13 chapter thirteen.md [基础] 基础档疑含超纲词「prescribed burn」
+  ch14 chapter fourteen.md [基础] 基础档疑含超纲词「delicious」
+  ch15 chapter fifteen.md [基础] 基础档疑含超纲词「shirtsleeves」
+  ch16 chapter sixteen.md [基础] 基础档疑含超纲词「headlights」
+  ch16 chapter sixteen.md [基础] 基础档疑含超纲词「investigation」
+  ch16 chapter sixteen.md [基础] 基础档疑含超纲词「distraction」
+  ch16 chapter sixteen.md [基础] 基础档疑含超纲词「Georgetown」
+  ch16 chapter sixteen.md [基础] 基础档疑含超纲词「Absolutely」
+  ch17 chapter seventeen.md [基础] 基础档疑含超纲词「approximately」
+  ch19 chapter nineteen.md [基础] 基础档疑含超纲词「polyester fluff」
+  ch19 chapter nineteen.md [基础] 基础档疑含超纲词「cheesecake」
+  ch20 chapter twenty.md [基础] 基础档疑含超纲词「Lucky coincidence?」
+  ch22 chapter twenty-two.md [基础] 基础档疑含超纲词「meadowsweet」
+  ch22 chapter twenty-two.md [基础] 基础档疑含超纲词「withering」
+  ch23 chapter twenty-three.md [基础] 基础档疑含超纲词「intentionally」
+  ch23 chapter twenty-three.md [基础] 基础档疑含超纲词「ridiculous」
+  ch24 chapter twenty-four.md [基础] 基础档疑含超纲词「bittercress」
+  ch26 chapter twenty-six.md [基础] 基础档疑含超纲词「changeling」
+  ch26 chapter twenty-six.md [基础] 基础档疑含超纲词「graveyard watch」
+  ch26 chapter twenty-six.md [基础] 基础档疑含超纲词「genealogy」
+  ch26 chapter twenty-six.md [基础] 基础档疑含超纲词「self-deprecatingly」
+  ch29 chapter twenty-nine.md [基础] 基础档疑含超纲词「confession」
+  ch29 chapter twenty-nine.md [基础] 基础档疑含超纲词「application」

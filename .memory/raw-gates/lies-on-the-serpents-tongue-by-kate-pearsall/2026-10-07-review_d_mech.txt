@@ -1,0 +1,24 @@
+=== 五步审查 d 步：机械三件 2026-10-07 ===
+--- check_analysis_indep（第二实现）---
+  ch11 chapter eleven.md:64  imprint of its final moment
+  ch15 chapter fifteen.md:58  trusted the wrong man with family secrets
+  ch20 chapter twenty.md:11  Sonny definitely has secrets he wants to keep buried
+  ch24 chapter twenty-four.md:28  the tiny bone hidden in the spine
+  ch24 chapter twenty-four.md:50  voice quieter in contrast to mine
+  ch25b book of mountain wisdom november.md:21  growth beneath the surface
+--- check_xref_indep（第二实现）---
+        句：- **读者视角提示**：对账 ch19 的「The dead aren't good with boundaries」与本章：喜鹊的职务一直没变，变的是主人；镇子的原罪正式入档。
+  ❌ ch28 chapter twenty-eight.md:23 → ch24：证据 ["Serena's tongue"] 在该章查无
+        句：- **读者视角提示**：对账 ch24「Serena's tongue」封口咒与本章血名论：Nimh 的一切魔法都靠「占名」——所以 Rowan 的名字才是他唯一的解，也是他唯一的死穴。
+  ❌ ch28 chapter twenty-eight.md:51 → ch13：证据 ["Elam McCoy's body…never came home", "Elam McCoy's body"] 在该章查无
+        句：- **读者视角提示**：对账 ch13「Elam McCoy's body…never came home」：尸体下落在此揭晓（Teays River 水下暗窖）；「回家」的终点原来一直泡在离家一步
+=== chNN 引用 292 处：英文证据报警 7 处 ／ 中文式待人判 235 处 ===
+--- check_crossref（英文模式）---
+  ⚠️ ch28 chapter twenty-eight.md:51 → ch13 查无「Elam McCoy's body…never came home…」
+
+⚠️ 报警须人工读行复核（同行多引用会误配）；确认后再判缺陷
+--- check_xref_zh（中文式跨章）---
+❌ ch21 chapter twenty-one.md:58  「amplify」全书查无（ch20 亦无）
+❌ ch28 chapter twenty-eight.md:23  「Serena's tongue」全书查无（ch24 亦无）
+⚠️  ch28 chapter twenty-eight.md:51  「Elam McCoy's body」标 ch13，实际在本章 ch28 ⇒ 章号错
+=== 跨章引用：章号+短语/POV 命中 87 / 错 3 / POV 错 0 ===

@@ -1,0 +1,22 @@
+=== 五步审查 c 步：结构扫描 2026-10-07 ===
+--- audit_structure（主实现）---
+  扫 35 个 md、283 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 3 ｜ 🔀 映射不一致 0
+  ⚠️ ch00 book of mountain wisdom september.m  引语 3 个，与本书众数 8 相差过大
+  ⚠️ ch16b book of mountain wisdom october.md  引语 3 个，与本书众数 8 相差过大
+  ⚠️ ch25b book of mountain wisdom november.m  引语 3 个，与本书众数 8 相差过大
+--- check_struct_indep（第二实现）---
+=== 独立结构扫描：32 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+--- check_overview_full（总览结构+H1）---
+=== 总览整串核查（lies-on-the-serpents-tongue-by-kate-pearsall）===
+  参照集：text/ 逐章（32 章） ｜ 总览文件 3 个
+  A 整串：命中 27 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 12
+  B 章节标签：对 27 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 37 ｜ 不符 0（**只报不判红**）｜ 跳过 48
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+--- H1 手查 ---
+notes/books/mystery-thriller/lies-on-the-serpents-tongue-by-kate-pearsall/00_金句精选.md:# 《Lies on the Serpent's Tongue》金句精选
+notes/books/mystery-thriller/lies-on-the-serpents-tongue-by-kate-pearsall/00_情感节点.md:# 《Lies on the Serpent's Tongue》情感节点
+notes/books/mystery-thriller/lies-on-the-serpents-tongue-by-kate-pearsall/00_概述.md:# 《Lies on the Serpent's Tongue》概述
+独立子项核验: 缺失 0 处（期望 0）

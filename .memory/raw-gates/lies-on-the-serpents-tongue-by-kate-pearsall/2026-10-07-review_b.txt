@@ -1,0 +1,37 @@
+=== 五步审查 b 步：逐章归属（单章模式逐一）2026-10-07 ===
+ch00 book of mountain wisdom september             全章扫描: 解析引语块 236，命中本章 236（100%）
+ch01 chapter one                                   全章扫描: 解析引语块 236，命中本章 236（100%）
+ch02 chapter two                                   全章扫描: 解析引语块 236，命中本章 236（100%）
+ch03 chapter three                                 全章扫描: 解析引语块 236，命中本章 236（100%）
+ch04 chapter four                                  全章扫描: 解析引语块 236，命中本章 236（100%）
+ch05 chapter five                                  全章扫描: 解析引语块 236，命中本章 236（100%）
+ch06 chapter six                                   全章扫描: 解析引语块 236，命中本章 236（100%）
+ch07 chapter seven                                 全章扫描: 解析引语块 236，命中本章 236（100%）
+ch08 chapter eight                                 全章扫描: 解析引语块 236，命中本章 236（100%）
+ch09 chapter nine                                  全章扫描: 解析引语块 236，命中本章 236（100%）
+ch10 chapter ten                                   全章扫描: 解析引语块 236，命中本章 236（100%）
+ch11 chapter eleven                                全章扫描: 解析引语块 236，命中本章 236（100%）
+ch12 chapter twelve                                全章扫描: 解析引语块 236，命中本章 236（100%）
+ch13 chapter thirteen                              全章扫描: 解析引语块 236，命中本章 236（100%）
+ch14 chapter fourteen                              全章扫描: 解析引语块 236，命中本章 236（100%）
+ch15 chapter fifteen                               全章扫描: 解析引语块 236，命中本章 236（100%）
+ch16 chapter sixteen                               全章扫描: 解析引语块 236，命中本章 236（100%）
+ch16b book of mountain wisdom october              全章扫描: 解析引语块 236，命中本章 236（100%）
+ch17 chapter seventeen                             全章扫描: 解析引语块 236，命中本章 236（100%）
+ch18 chapter eighteen                              全章扫描: 解析引语块 236，命中本章 236（100%）
+ch19 chapter nineteen                              全章扫描: 解析引语块 236，命中本章 236（100%）
+ch20 chapter twenty                                全章扫描: 解析引语块 236，命中本章 236（100%）
+ch21 chapter twenty-one                            全章扫描: 解析引语块 236，命中本章 236（100%）
+ch22 chapter twenty-two                            全章扫描: 解析引语块 236，命中本章 236（100%）
+ch23 chapter twenty-three                          全章扫描: 解析引语块 236，命中本章 236（100%）
+ch24 chapter twenty-four                           全章扫描: 解析引语块 236，命中本章 236（100%）
+ch25 chapter twenty-five                           全章扫描: 解析引语块 236，命中本章 236（100%）
+ch25b book of mountain wisdom november             全章扫描: 解析引语块 236，命中本章 236（100%）
+ch26 chapter twenty-six                            全章扫描: 解析引语块 236，命中本章 236（100%）
+ch27 chapter twenty-seven                          全章扫描: 解析引语块 236，命中本章 236（100%）
+ch28 chapter twenty-eight                          全章扫描: 解析引语块 236，命中本章 236（100%）
+ch29 chapter twenty-nine                           全章扫描: 解析引语块 236，命中本章 236（100%）
+--- check_short_quotes ---
+=== 短引语兜底核对（lies-on-the-serpents-tongue-by-kate-pearsall）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
