@@ -1,0 +1,165 @@
+=== 语料层验收（P0-0）: the-life-cycle-of-the-common-octopus-by-emma-knight ===
+text/ 件数: 52
+  [1] 件数 52 == 预期 52  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 8 组 / 互查 56 组  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (31 句)
+      首| Now
+      末| I turn it over in my mind deciding what to let sink, and what to preserve for a future that I ca
+    ch02 (14 句)
+      首| Pollock Halls of Residence
+      末| Though not crazed, I am a fan—and ever impressed by Paquin’s ability to solve a murder three dri
+    ch03 (16 句)
+      首| Talmòrach
+      末| The first two never count.
+    ch04 (121 句)
+      首| 1
+      末| He tossed a final raisin at her back at close range, watched it fall to the ground, and carefull
+    ch05 (163 句)
+      首| 2
+      末| Where was Peter McAvoy when she needed him?
+    ch06 (125 句)
+      首| 3
+      末| I just hope he lets us have you back.”
+    ch07 (171 句)
+      首| 4
+      末| She slipped inside and pulled it closed behind her.
+    ch08 (156 句)
+      首| 5
+      末| Sasha took her overnight bag from her hand, brushing her knuckles with his fingers, and she remi
+    ch09 (110 句)
+      首| 6
+      末| Pen had no idea what she meant or whether it was intended as a compliment, but she put out her c
+    ch10 (108 句)
+      首| 7
+      末| “Your dad used to bring Mum the very same thing, once upon a time.”
+    ch11 (107 句)
+      首| 8
+      末| Why wouldn’t it be?
+    ch12 (118 句)
+      首| 9
+      末| She was pretty sure Sasha could not have been interested in her—he was too much older, and too a
+    ch13 (108 句)
+      首| 10
+      末| Which was not nothing.
+    ch14 (55 句)
+      首| 11
+      末| This was one of the many things they had in common: they never tired of transformation.
+    ch15 (110 句)
+      首| 12
+      末| This was one of the most fundamental differences between them, Alice thought: Pen had been train
+    ch16 (149 句)
+      首| 13
+      末| Not directly, anyway.
+    ch17 (114 句)
+      首| 14
+      末| Pen finished her coffee and returned to Montaigne, who—whatever his faults—had almost definitely
+    ch18 (136 句)
+      首| 15
+      末| She leaned across her stupid essay and kissed him first.
+    ch19 (19 句)
+      首| Talmòrach
+      末| But how can you have failed to mention The Penelopiad?
+    ch20 (95 句)
+      首| 16
+      末| She found a seat on the train, rested her eyes on the sweep of sea out the window, and fantasize
+    ch21 (100 句)
+      首| 17
+      末| “Who the wandering fuck are you?” asked the sleep-grogged voice of a skinny, squinting boy.
+    ch22 (106 句)
+      首| 18
+      末| If it became a tabloid scandal, her contacts had warned her, there would be nothing they could d
+    ch23 (240 句)
+      首| 19
+      末| While Lennox opened the wine and Sasha set the kitchen table, Christina, unaware that she was be
+    ch24 (77 句)
+      首| 20
+      末| What she needed now, more than anything, was to be alone.
+    ch25 (113 句)
+      首| 21
+      末| Here was Leuchars–St Andrews, earning the oversized spot it occupied on her mental map of the wo
+    ch26 (237 句)
+      首| 22
+      末| She waved out the window at her receding father on the hotel steps, and left it open, letting th
+    ch27 (169 句)
+      首| 23
+      末| “Bye, Fergus,” she called, turning the knob and running silently down the hall, the sad music fo
+    ch28 (126 句)
+      首| 24
+      末| When Julian’s physical power over her weakened, as it had already begun to do, she would find a 
+    ch29 (158 句)
+      首| 25
+      末| Did her unconscious mind think she was stupid?
+    ch30 (317 句)
+      首| 26
+      末| Silently, Pen thanked them.
+    ch31 (87 句)
+      首| 27
+      末| They hugged as if they might never see one another again.
+    ch32 (277 句)
+      首| 28
+      末| She answered each of her friends, smiling to herself, and then turned the phone off and went dow
+    ch33 (171 句)
+      首| 29
+      末| “Very congenial,” repeated Pen.
+    ch34 (267 句)
+      首| 30
+      末| Salt burned her sinuses, and she woke up gasping for air.
+    ch35 (77 句)
+      首| 31
+      末| She stayed in the store for an indeterminate amount of time, clutching a bottle of Lucozade, tha
+    ch36 (162 句)
+      首| 32
+      末| He could wait one more night.
+    ch37 (181 句)
+      首| 33
+      末| Audrey’s perfect face filled the frame, smiling proudly, as if she were in on the joke.
+    ch38 (209 句)
+      首| 34
+      末| Whatever this is, at least it’s the opposite of numb, she thought.
+    ch39 (215 句)
+      首| 35
+      末| Good.” He followed her as she ran across the short distance to the house.
+    ch40 (269 句)
+      首| 36
+      末| Whatever skin she had just shed she would be happy never to see again, she thought, as she follo
+    ch41 (110 句)
+      首| 37
+      末| She dressed and made her way slowly back down all the winding stairs, careful not to let them cr
+    ch42 (186 句)
+      首| 38
+      末| Her way of looking made Pen feel like a fish at the market, gutless and splayed on ice chips, on
+    ch43 (315 句)
+      首| 39
+      末| Without thinking, she picked up the receiver.
+    ch44 (343 句)
+      首| 40
+      末| Yours (in part)—M
+    ch45 (165 句)
+      首| 41
+      末| “The octopus is the most intelligent animal on the planet without a backbone.”
+    ch46 (159 句)
+      首| 42
+      末| Inside the oblong box she found a fountain pen and a small pot of ink.
+    ch47 (150 句)
+      首| 43
+      末| She tightened her grip on Charlie’s hand, and he gave hers a reassuring, unhurried squeeze.
+    ch48 (343 句)
+      首| 44
+      末| She fell asleep and did not remember her dreams.
+    ch49 (138 句)
+      首| 45
+      末| She stopped fighting it.
+    ch50 (88 句)
+      首| 46
+      末| In it, a furious sea, rocked by waves, unbound by horizon, confronted the sky.
+    ch51 (50 句)
+      首| August
+      末| Satisfied that she had forgotten nothing important, she closed the door.
+    ch52 (21 句)
+      首| Now
+      末| In case you should ever go looking for them.
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
