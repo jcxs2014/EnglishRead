@@ -25,7 +25,7 @@ modified: "2026-10-07"
 
 - **可质疑处**：
   1. **「共同决策」的证据强度被高估的风险**。作者以书信中的「我们」推断出「each partner is heard」，但也承认只有一方书信存世、另一方的声音全部丢失。用一份单方面材料去证明双向对话，在方法上与作者批评塔西陀「只留下一面」的做法是同一个陷阱。作者在段末诚实地标注了「只有一面存续」，但结论的语气比证据更确定。
-  2. **谋害指控的「不可信」判定缺少与正面证据的对称检验**。作者用「unsubstantiated」「This is unlikely, and would have been near impossible」否定了两位少年之死的指控；但否定它靠的是「盖乌斯与卢西乌斯之死是疾病与战伤」这一自然解释，而这一解释本身同样出自塔西都乌斯之后的两千年叙述。若对指控从严，对自然解释也该同样从严——本章只对一方施加了怀疑标准。
+  2. **谋害指控的「不可信」判定缺少与正面证据的对称检验**。作者用「unsubstantiated」「This is unlikely, and would have been near impossible」否定了两位少年之死的指控；但否定它靠的是「盖乌斯与卢西乌斯之死是疾病与战伤」这一自然解释，而这一解释本身同样出自塔西陀之后的两千年叙述。若对指控从严，对自然解释也该同样从严——本章只对一方施加了怀疑标准。
   3. **以维吉尔「流言」统领全章在修辞上强、在论证上弱**。全章引了二十余行诗，却没有任何一处证明罗马的流言机制与本章所列具体指控之间存在因果关系。这是一层有效的氛围，但读者可能把氛围误当成论证。作者在引言处其实已经声明「我们将永远无法完全分开真相与谎言」——既然如此，用一整段神话怪物描写来为后续清点铺陈，就更像是修辞装置而非分析工具。
 
 ## 选择性精读
@@ -36,7 +36,7 @@ modified: "2026-10-07"
 - **句子结构**：前句为插入语 According to the poet 起首，主句为 Rumor 后接动词短语 cares little about…；后句为独立的判断句，以 indeed 收尾。
 - **关键词**：veracity / cares little / monster
 - **表达方式**：indeed 一词在句末并不加强断言，反而像一声叹息——读完全章的指控清单再回来看这句，味道就变了。
-- **为什么这样写**：作者把维吉尔的怪物描写翻译成一个可操作的立场：不追究流言的动机，只追究它的真假。而她接着就声明「We can at least consider the evidence」——这句话是全章的免责声明，也是她与塔西都乌斯分道扬镳的地方。
+- **为什么这样写**：作者把维吉尔的怪物描写翻译成一个可操作的立场：不追究流言的动机，只追究它的真假。而她接着就声明「We can at least consider the evidence」——这句话是全章的免责声明，也是她与塔西陀分道扬镳的地方。
 
 > **原句 2:** We will never be able to fully separate the truth from the lies in the rumors that plagued Livia and labeled her a murderer (among many other things), but we can at least consider the evidence.
 
@@ -67,8 +67,8 @@ modified: "2026-10-07"
 - **中文理解**：gravis 一词在这里译作「令人忧虑」，带有严重、压迫、带来灾祸等负面形容词的多重含义。它也可以指怀孕。
 - **句子结构**：主句为 SVO 加并列表语；后句为独立判断句，以 also 承接。
 - **关键词**：connotations / baneful / pregnant
-- **表达方式**：一句词源分析就拆掉了一桩指控——同一个词既能说「有害」也能说「有孕」，那么塔西都乌斯那句评语究竟在说什么？
-- **为什么这样写**：这是全书方法最漂亮的一次示范：不去问「塔西都乌斯是不是在诬陷」，而是去查他用的那个词究竟能指什么。作者用一个可能与不可能并存的歧义，让读者自己看出那句最恶毒的名言有多脆弱。
+- **表达方式**：一句词源分析就拆掉了一桩指控——同一个词既能说「有害」也能说「有孕」，那么塔西陀那句评语究竟在说什么？
+- **为什么这样写**：这是全书方法最漂亮的一次示范：不去问「塔西陀是不是在诬陷」，而是去查他用的那个词究竟能指什么。作者用一个可能与不可能并存的歧义，让读者自己看出那句最恶毒的名言有多脆弱。
 
 > **原句 6:** Living quarters aside, Livia was managing an incredibly complex household at a time when the continuation of the first imperial dynasty was anything but assured.
 
@@ -108,7 +108,7 @@ modified: "2026-10-07"
 - **句子结构**：两个独立小句由分号连接；后句主句为 Julia died in exile in 14 CE，not long after her father’s death 为时间状语。
 - **关键词**：stepdaughter / exile / never saw
 - **表达方式**：never 与 again 组合成一句极短的否定，而它前面是一整段关于争取赦免失败的详述——落差本身就是结论。
-- **为什么这样写**：作者写了莉维娅为尤利娅做到什么（争取到迁居大陆），也写了她做不到什么（争取到赦免）。她把「失败」与「记仇」两件事分开，因为在她看来这是两件事——这正是塔西都乌斯指控她的那种含混。
+- **为什么这样写**：作者写了莉维娅为尤利娅做到什么（争取到迁居大陆），也写了她做不到什么（争取到赦免）。她把「失败」与「记仇」两件事分开，因为在她看来这是两件事——这正是塔西陀指控她的那种含混。
 
 ## 词汇分级
 
@@ -135,7 +135,7 @@ modified: "2026-10-07"
 | third act | 第三幕（戏剧结构，此处指谋杀的终局） | According to Dio, she may have saved Augustus only to kill him in the third act. |
 | complex | 宫苑建筑群（此处指帕拉丁的整体地产） | The Palatine complex was in constant flux, and the decade between 2 BCE and 8 CE witnessed shifts in the power hierarchy internal to the House of Caesar so swift they make my head spin. |
 | stepmother | 继母 | Tacitus offers the most concise summation of the critique of her character and position: “Livia, troubling to the state as mother and troubling in the imperial household as stepmother.” |
-| intercession | 说情、代为求情 | The poet Ovid gives us a sense of Livia as someone whom other women could approach to intercede on their behalf. |
+| intercede | 说情、代为求情（动词） | The poet Ovid gives us a sense of Livia as someone whom other women could approach to intercede on their behalf. |
 | banished | 流放、逐出 | Agrippa Postumus was banished from Rome for rather obscure reasons in 7 CE and died in Planasia shortly after Augustus himself died in 14. |
 
 ### ⭐ 基础

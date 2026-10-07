@@ -73,7 +73,7 @@ modified: "2026-10-07"
 > **原句 5:** She thus complemented Augustus and his own building projects without stepping on any (male) toes.
 
 - **中文理解**：她因此补充了奥古斯都和他自己的建筑工程，同时没有踩到任何（男性）的脚。
-- **句子结构**：主句 She complemented Augustus and his own building projects，状语 without stepping on any (male) toes 附于句末。without 短语是全句的落点：前一半是合作，后一半是克制，两个动作由 thus 一个副词挂在同一句里。
+- **句子结构**：主句 She thus complemented Augustus and his own building projects，状语 without stepping on any (male) toes 附于句末。without 短语是全句的落点：前一半是合作，后一半是克制，两个动作由 thus 一个副词挂在同一句里。
 - **关键词**：complemented / projects / stepping
 - **表达方式**：（male）这一括号插话是作者的插嘴，把 toei 明确限定为男性的地盘——言下之意，女性的地盘踩了不算事，但这条界线是作者替读者划的。
 - **为什么这样写**：这十二个字是本章的处世哲学。她把资金投向「女性事务」（女人ly things），恰好落在丈夫的公共工程覆盖不到的地方，于是两项支出不相冲突。区别只在一字之差：不是继承、不是超越，而是补充。

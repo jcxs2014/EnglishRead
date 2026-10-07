@@ -58,7 +58,7 @@ modified: "2026-10-07"
 > **原句 3:** From that day forward, it was her job to present an image of a harmonious marriage and to follow her husband in all ways. The latter goal would become increasingly difficult, through no action of her own.
 
 - **中文理解**：从那天起，她的职责就是呈现一幅婚姻和睦的图景，并在一切方面追随丈夫。后一个目标会变得越来越难，而这并非出于她自己的任何行为。
-- **句子结构**：前句为形式主语结构 It was her job to do A and to do B；后句主句为 The latter goal would become increasingly difficult，后接 through no action of her own 这一方式状语。
+- **句子结构**：前句为形式主语结构 it was her job to present an image of a harmonious marriage and to follow her husband in all ways，两个 to-infinitives 并列；后句主句为 The latter goal would become increasingly difficult，后接 through no action of her own 这一方式状语。
 - **关键词**：harmonious / follow / latter
 - **表达方式**：前句写角色，后句写崩塌。through no action of her own 把责任从她身上移开，用一个否定结构宣告「这不是她的错」。
 - **为什么这样写**：本章标题 Burnt 的含义在此成形——被烧掉的是她作为「模范妻子」这个角色的可行性。制度给了她一个职责，而历史让她无法履行。作者把「难」写成渐进的（increasingly），为后面几章的持续失位做了铺垫。
@@ -135,7 +135,7 @@ modified: "2026-10-07"
 | dissolved | 消解、溶解（此处为过去分词，指公私界限的消失） | Proscription dissolved the boundaries of public and private, political and domestic, by bringing politics into the home. |
 | siege | 围城 | Octavian was merciless, laying siege to the city and starving the citizens out. |
 | trajectory | 轨迹、路径（此处指政治生涯的走向） | Octavian’s family connection to Julius Caesar was central to his political trajectory. |
-| fleeing | 逃亡 | It is not clear what happened next, but the cursed Tiberius Nero was forced to flee again, at night, through a forest that caught on fire. |
+| flee | 逃、逃跑 | It is not clear what happened next, but the cursed Tiberius Nero was forced to flee again, at night, through a forest that caught on fire. |
 | household | 家、一家（指罗马的家户单位，兼有法律意义） | Other members of the household, from the sons of the proscribed to their slaves, had to make similar decisions. |
 
 ### ⭐⭐ 进阶
@@ -163,13 +163,12 @@ modified: "2026-10-07"
 |---|---|---|
 | beautiful | 美丽的 | She was also beautiful. |
 | marriage | 婚姻 | By the time she was fifteen, Livia was considered ready for marriage. |
-| descendant | 后裔 | Tiberius was descended from the Claudii Nerones, the other major branch of the Claudian family, and was twenty-some years Livia’s senior. |
+| descended | 出身于、出自（此处指提比略出身于克劳狄旁支） | Tiberius was descended from the Claudii Nerones, the other major branch of the Claudian family, and was twenty-some years Livia’s senior. |
 | brightly | 鲜明地 | She wore the flammeum, a veil of bright orange, wrapped around her six braids and secured by a wreath of marjoram. |
 | wreath | 花环 | She wore the flammeum, a veil of bright orange, wrapped around her six braids and secured by a wreath of marjoram. |
 | traditionally | 传统上 | Once the couple was given the go-ahead by the priests, Livia dressed in the traditional clothing of Roman brides. |
 | audience | 观众、围观人群 | The wedding of two wealthy elites attracted an audience, who shouted jokes and good-humored obscenities as they passed. |
 | threshold | 门槛 | Attendants carried Livia over the threshold, or perhaps Tiberius did it himself. |
-| terrified | 恐惧的 | Life in Rome during a proscription was terrifying. |
 | wealth | 财富 | Livia had a noble ancestry, family wealth, and an education suitable for her presumed future as the wife of an elite Roman and mother of his children. |
 | harbor | 港口、避风港 | The family made their way through the countryside, avoiding roads and eventually reaching the harbor. |
 | female | 女性的 | Upon entering, Tiberius gave Livia water and fire as a symbol of his acceptance of his bride and her new role as female head of his household (materfamilias). |
