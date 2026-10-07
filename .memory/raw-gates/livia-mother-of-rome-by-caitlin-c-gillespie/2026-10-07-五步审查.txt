@@ -1,0 +1,180 @@
+# Livia: Mother of Rome — 五步审查（a–e）原始输出
+时间：2026-10-07 UTC ｜ lane：完整 lane ｜ 审查方：本会话（执行方同会话，按 AGENTS 第 10 条同会话四条要求执行）
+
+########## a 步：第 3 条门禁全量重跑（不采信完工报告数字） ##########
+$ python3 scripts/verify_quotes.py ... $E
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 162/162 引文可核实（100%）；完全干净文件 15/15；正文章节 0 提取 0；总览 0 提取转交 0 ===
+$ python3 scripts/verify_quotes.py ... $E --full
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 162/162 引文可核实（100%）；完全干净文件 15/15；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 7 ===
+$ python3 scripts/check_vocab.py
+词条行合计: 387
+--- FAIL (0) ---
+--- WARN (48) ---
+$ python3 scripts/check_entities.py
+=== 实体一致性检测：0 个文件存在未知实体 ===
+$ python3 scripts/corruption_scan.py --quiet
+=== 编辑损坏扫描（livia-mother-of-rome-by-caitlin-c-gillespie）===
+  FAIL 0 处（U+FFFD / 双句号）
+$ python3 scripts/sweep_full.py --quiet
+  ✅ 本章命中 130 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+########## b 步：逐章归属 check_chapter_quotes ##########
+ch01 introduction.md: 10/10 in ch01 text
+ch02 born to rise.md: 10/10 in ch02 text
+ch03 burnt.md: 10/10 in ch03 text
+ch04 a new beginning.md: 10/10 in ch04 text
+ch05 first lady of rome.md: 10/10 in ch05 text
+ch06 guardian of memory.md: 10/10 in ch06 text
+ch07 partner in all things.md: 10/10 in ch07 text
+ch08 rumor has it a house full of caesars.md: 10/10 in ch08 text
+ch09 a villa with a view.md: 10/10 in ch09 text
+ch10 julia augusta.md: 10/10 in ch10 text
+ch11 rivals.md: 10/10 in ch11 text
+ch12 divine augusta.md: 10/10 in ch12 text
+ch13 legacy.md: 10/10 in ch13 text
+
+########## c 步：结构扫描 + 换实现 ##########
+$ python3 scripts/audit_structure.py
+=== 精读结构扫描（livia-mother-of-rome-by-caitlin-c-gillespie）===
+  扫 16 个 md、163 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+$ python3 scripts/check_struct_indep.py（换实现）
+=== 独立结构扫描：13 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+$ python3 scripts/check_overview_full.py
+  参照集：text/ 逐章（13 章） ｜ 总览文件 3 个
+  A 整串：命中 32 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 8 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 24 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+$ grep -m1 '^# ' 00_*.md（总览 H1 语义手 grep 兜底）
+notes/books/non-fiction/livia-mother-of-rome-by-caitlin-c-gillespie/00_情感节点.md:# 情感节点
+notes/books/non-fiction/livia-mother-of-rome-by-caitlin-c-gillespie/00_概述.md:# 概述
+notes/books/non-fiction/livia-mother-of-rome-by-caitlin-c-gillespie/00_金句精选.md:# 金句精选
+
+########## d 步：语义二审（机械子项用 *_indep 换实现） ##########
+$ python3 scripts/check_xref_indep.py
+=== chNN 引用 92 处：英文证据报警 0 处 ／ 中文式待人判 86 处 ===
+$ python3 scripts/check_analysis_indep.py
+  ch09 a villa with a view.md:10  Metropolitan Museum of Art
+      未命中词: ['metropolitan']
+  ch10 julia augusta.md:10  Metropolitan Museum of Art
+      未命中词: ['metropolitan']
+  ch11 rivals.md:10  Metropolitan Museum of Art
+      未命中词: ['metropolitan']
+  ch12 divine augusta.md:10  Metropolitan Museum of Art
+      未命中词: ['metropolitan']
+  ch13 legacy.md:10  Metropolitan Museum of Art
+      未命中词: ['metropolitan']
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）3 条 —— 只报不判红，须人判：
+  ch09 a villa with a view.md:51  a tranquil stroll would be interrupted only by the occasional squawk
+  ch09 a villa with a view.md:115  is not the kinds of details that
+  ch09 a villa with a view.md:115  which made it into Tacitus’s dramatic history
+$ python3 scripts/sweep_analysis_inline.py
+  参照集：text/（15 个提取件） + epub 交叉验证 ；扫 16 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：589 个表格行、388 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 607 ｜ ⚠️ 跨章 1 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 3 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1
+
+########## e 步：总览层 ##########
+$ python3 scripts/verify_overview_quotes.py
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 25/25 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+########## 整改后 gate.sh 全量 ##########
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+=== 总计 162/162 引文可核实（100%）；完全干净文件 15/15；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 7 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 387
+--- FAIL (0) ---
+--- WARN (48) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  ❌ FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 130 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 introduction.md                           ch01 introduction.md: 10/10 in ch01 text
+ch02 born to rise.md                           ch02 born to rise.md: 10/10 in ch02 text
+ch03 burnt.md                                  ch03 burnt.md: 10/10 in ch03 text
+ch04 a new beginning.md                        ch04 a new beginning.md: 10/10 in ch04 text
+ch05 first lady of rome.md                     ch05 first lady of rome.md: 10/10 in ch05 text
+ch06 guardian of memory.md                     ch06 guardian of memory.md: 10/10 in ch06 text
+ch07 partner in all things.md                  ch07 partner in all things.md: 10/10 in ch07 text
+ch08 rumor has it a house full of caesars.md   ch08 rumor has it a house full of caesars.md: 10/10 in ch08 text
+ch09 a villa with a view.md                    ch09 a villa with a view.md: 10/10 in ch09 text
+ch10 julia augusta.md                          ch10 julia augusta.md: 10/10 in ch10 text
+ch11 rivals.md                                 ch11 rivals.md: 10/10 in ch11 text
+ch12 divine augusta.md                         ch12 divine augusta.md: 10/10 in ch12 text
+ch13 legacy.md                                 ch13 legacy.md: 10/10 in ch13 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：13 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（livia-mother-of-rome-by-caitlin-c-gillespie）===
+  ✅ 逐字 607 ｜ ⚠️ 跨章 1 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 3 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 1/1 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 25/25 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（livia-mother-of-rome-by-caitlin-c-gillespie）===
+  参照集：text/（15 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（livia-mother-of-rome-by-caitlin-c-gillespie）===
+  带前缀的 `> **原句 N:**` 行：13 个文件共 130 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：13 个 md，阻断型 0 处 ／ 提示型 0 处 ===
+mavis-trash: moved to trash: '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/tmp.gWMvtZl2R3'
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══

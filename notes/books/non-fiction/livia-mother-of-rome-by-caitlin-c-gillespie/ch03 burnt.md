@@ -42,7 +42,7 @@ modified: "2026-10-07"
 > **原句 1:** This stipulation would be very important for Livia later on.
 
 - **中文理解**：这项条款对莉维娅日后会非常重要。
-- **句子结构**：This 指代前文的 sine manu 婚姻条款；主句为无主语的 there be 结构 would be + 形容词 important + for + 宾语。
+- **句子结构**：This 指代前文的 sine manu 婚姻条款；主句主语为 This stipulation（指示代词作主语），谓语 would be + 形容词 important + 介词短语 for Livia later on。
 - **关键词**：stipulation / important / later
 - **表达方式**：作者首次跳出史料、对自己说话——这是叙述者在提醒读者，而非史料在说。
 - **为什么这样写**：这句话是作者埋下的伏笔标记。她提前告诉读者：刚才那段关于婚姻法的小知识不是背景插曲，而是后面几章的关键工具。读到第九章「她的财产如何独立运作」时，读者会回来找这一句。
@@ -76,7 +76,7 @@ modified: "2026-10-07"
 - **中文理解**：这些贵妇已经证明：她们能够团结起来，为自己发声，并在公共场合取得成功。
 - **句子结构**：主语 The matrons 加过去完成时 had proven；that 从句内三个动词原形并列共宾语 they：unify / advocate for themselves / succeed in public。
 - **关键词**：unify / advocate / succeed
-- **表达方式**：三个动词都由她们主动施动，无一动词含被动或受制意味——与本段之前「women were rebuked / refubbed」的被动处境形成对照。
+- **表达方式**：三个动词都由她们主动施动，无一动词含被动或受制意味——与本段之前被 Octavia、Julia 与 Fulvia 接连 rebuffed（回绝）的处境形成对照——原文用 rebuffed 与 rebuttal 这一组词，拒她的从来不是「她们」。
 - **为什么这样写**：霍滕西娅事件是全章唯一一次「女性集体胜利」。作者把它写成对第 4 条引语那句「溶解边界」的直接回应：边界一旦被溶解，就有人在 dissolved 之后的空间里站住了。莉维娅下一步走进的正是这个空间。
 
 > **原句 6:** With his one act, Caesar transformed the sickly teenager into an ambitious politician.

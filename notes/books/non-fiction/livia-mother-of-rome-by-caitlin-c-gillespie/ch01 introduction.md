@@ -40,7 +40,7 @@ modified: "2026-10-07"
 > **原句 1:** A mother carries her young son, holding him tightly as she follows her husband down an unfamiliar path.
 
 - **中文理解**：一位母亲抱着年幼的儿子，紧贴着丈夫，走上一条陌生的路。
-- **句子结构**：`carries` 与 `holding` 两个现在分词并列挂在主语 a mother 之后，介词短语 as she follows her husband 提供伴随动作；down an unfamiliar path 以介词短语收尾，其中 unfamiliar 一词同时修饰 path 并把「陌生」二字提前到读者的第一视觉位置。
+- **句子结构**：主句谓语为 `carries`，现在分词短语 `holding him tightly` 挂在主语 a mother 之后作伴随状语，介词短语 as she follows her husband 再补一层伴随动作；down an unfamiliar path 以介词短语收尾，其中 unfamiliar 一词同时修饰 path 并把「陌生」二字提前到读者的第一视觉位置。
 - **关键词**：carries / holding / unfamiliar
 - **表达方式**：全句没有一个历史专名，只有 a mother、her son、her husband 三个人称词——作者刻意把具体身份全部抹去，让读者先看见「一个家庭」而不是「莉维娅」。
 - **为什么这样写**：这是全书的题眼场景，放在第一句而非任何背景说明之后，等于先立人物再讲史。unfamiliar 与后面 chapter1 的 Born to Rise 标题形成张力：一条陌生的路，如何长成一个帝国的开端。

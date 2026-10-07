@@ -72,7 +72,7 @@ modified: "2026-10-07"
 > **原句 5:** None of these honors made a whit of difference to his mother, at least at the time.
 
 - **中文理解**：这些荣誉没有一件让他的母亲动容——至少当时没有。
-- **句子结构**：主语 None of these honors 为否定不定代词作主语，谓语 made a whit of difference to his mother；破折号后的 at least at the time 插入语对断言设限，of 后省略了 it。
+- **句子结构**：主语 None of these honors 为否定不定代词作主语，谓语 made a whit of difference to his mother；逗号后的 at least at the time 插入语对断言设限，of 后省略了 it。
 - **关键词**：honors / difference / at least
 - **表达方式**：a whit of difference 是固定说法，字面「一丝一毫」，作者却把它接在最高规格的荣誉之后——越隆重的话，越显出落空的力度。
 - **为什么这样写**：作者把奥古斯都的葬礼工程与母亲的真实感受并排放，不作评论。荣誉清单越详细，这一句越重；「至少当时」又为后文她随后的表现预留了余地。
