@@ -62,20 +62,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-07 08:45 UTC] [DSH-Mac] → All
 
-**《Livia: Mother of Rome》**（Caitlin C. Gillespie，非虚构传记，Met / Ancient Lives 系列）完工。
+**《Livia: Mother of Rome》**（Caitlin C. Gillespie，非虚构传记，Met / Ancient Lives）完工 + 五步审查完成（用户本会话内发起，a–e 全套执行）。
 
-- **文件**：13 章精读（ch01 Introduction – ch13 CHAPTER TWELVE Legacy，每章恰好 10 个引语块）+ 总览三篇（`00_概述.md` / `00_金句精选.md` 24 条 / `00_情感节点.md` 8 节点）＝ 16 md
-- **门禁**（完整 lane，epub 在位）：`gate.sh` A 组全量 **0 条阻断型**（退出码 0）
-  - verify_quotes **162/162（100%）**；逐章归属 ch01–ch13 各 **10/10 in 本章 text**
-  - sweep_full ✅130 ｜ 跨章 0 ｜ 拼接 0 ｜ 查无 0；sweep_analysis_inline 逐字 606
-  - check_vocab FAIL 0（词条 388）｜ check_entities 未知实体 0 ｜ corruption_scan FAIL 0
-  - audit_structure 缺陷 0 / 提示 0 ｜ check_anchor 凭空造词 0 ｜ 空段 0 ｜ 总览引语 32/32
-- **本轮整改**（上一批 ch01–ch12 复核）：词头与例句脱节 15 处（ch03 五个虚构词头按 B 类改用本章真实词形；删 1 条重复词头）；分析层英文逐字 9 处改写/漏词；ch02 补一句话总结；ch05 修占位符残留。**改后自身又引入 1 处新缺陷**（补全 ch11 引语时写成 `letting`，原文为 `she let`），已按原文修正——「补全」本身要复验
-- **对账**：md 章 13 / `text/ch*.txt` 13 / 总览 3，差额归零
-- **commit**：本书 9 次（最新 `07c23d168`），**未 push**
-- **提示型（只记不改）**：check_vocab 基础档超纲词若干（长度启发式）；sweep_analysis_inline 跨章 1 处经核为**假红**（原文写「承接上章那句」，该句确在 ch02）
-- **五步审查未做（待用户发起）**
-- 明细见当日工作日志 2026-10-07 同书专节；门禁原件见 `.memory/raw-gates/livia-mother-of-rome-by-caitlin-c-gillespie/2026-10-07-完工.txt`
+- **文件**：13 章精读（每章 10 个引语块）+ 总览三篇（金句 24、节点 8）＝ 16 md；对账 md 13 / text 13 / 总览 3
+- **完工门禁**：`gate.sh` 0 阻断型；verify_quotes 162/162；逐章归属 ch01–ch13 各 10/10；词条 388 FAIL 0；总览引语 32/32
+- **五步审查**：门禁全量重跑 → 逐章归属 → 结构扫描（`audit_structure` + `check_struct_indep` 换实现 + 五子项独立人判 13 章全齐）→ 语义二审（2 个 verifier + 我逐条独立取证）→ 总览层事实核对与标签对账
+- **审查查出 阻断型 19 处 + 提示型 7 处，全部已整改**，最实质四类：
+  1. **金句 24 条「呼应关系」是同一句占位文本**（零信息量，门禁只查子项存在不查内容）→ 逐条重写
+  2. **情感节点节点二引语与叙述无关**（引语讲贵妇团结、叙述写父亲之死），叙述另含方向误作东行等三处虚构 → 已按原文逐字改
+  3. **ch07 两处英文损坏**（`toei`、`女人ly things`）与 ch03 伪造英文（`refubbed` 原文无此词）→ `corruption_scan` 查不到的一类
+  4. **三个词头本章 0 次 + ch09 虚构植物（gardenia/sage）+ ch10 节庆日程错位 + ch12 墓志归属错**
+- **门禁全绿仍漏的层**：表达方式/可质疑处里的自撰英文与事实断言、证据链表格内容、跨文件译名（塔西都乌斯 9 处）、节点章节标注缺失
+- **我自己两次失误**：把 `carpentum`（拉丁词）误判为虚构；改节点时把父亲之死误归 ch04（实为 ch03）——均已按原文改正并记入日志
+- **跨书污染自检**：无（唯一例外是出版方名 Metropolitan，非书中内容）
+- **commit**：`d536e6af0`（审查首批）＋ `a9b9fe7d0`（d 步整改）；**未 push**
+- **同会话审查已知局限**：未做「引语说话人」专项普查（非虚构书人称风险集中处）；语义二审由子代理承担，我只对其报告逐条取证，未自读全部 130 块——需更高覆盖率请指派异实例复核
+- 明细见当日日志 2026-10-07 同书专节；a–e 逐行原件见 `.memory/raw-gates/livia-mother-of-rome-by-caitlin-c-gillespie/2026-10-07-五步审查.txt`
 
 ### [2026-10-07 07:54 UTC] [DSH-Mac] → All
 
