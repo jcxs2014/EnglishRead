@@ -1,0 +1,105 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 298/298 引文可核实（100%）；完全干净文件 29/29；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 427
+--- FAIL (0) ---
+--- WARN (29) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  ❌ FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 279 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 Prologue.md                               ch01 Prologue.md: 10/10 in ch01 text
+ch02 1 Origins.md                              ch02 1 Origins.md: 10/10 in ch02 text
+ch03 2 A Naturalist Arrives.md                 ch03 2 A Naturalist Arrives.md: 10/10 in ch03 text
+ch04 3 Trouble Brewing.md                      ch04 3 Trouble Brewing.md: 10/10 in ch04 text
+ch05 4 Swainson Vanishes.md                    ch05 4 Swainson Vanishes.md: 10/10 in ch05 text
+ch06 5 "Old Antiquity".md                      ch06 5 "Old Antiquity".md: 10/10 in ch06 text
+ch07 6 The Russia Connection.md                ch07 6 The Russia Connection.md: 10/10 in ch07 text
+ch08 7 First Sight.md                          ch08 7 First Sight.md: 10/10 in ch08 text
+ch09 8 False Trail?.md                         ch09 8 False Trail?.md: 10/10 in ch09 text
+ch10 9 Orchid Varieties.md                     ch10 9 Orchid Varieties.md: 10/10 in ch10 text
+ch11 10 "Orchids for the Million".md           ch11 10 "Orchids for the Million".md: 10/10 in ch11 text
+ch12 11 Battles at the Gate.md                 ch12 11 Battles at the Gate.md: 10/10 in ch12 text
+ch13 12 A New Dynasty.md                       ch13 12 A New Dynasty.md: 10/10 in ch13 text
+ch14 13 Hatching a Plan.md                     ch14 13 Hatching a Plan.md: 10/10 in ch14 text
+ch15 14 Doctoring Orchids.md                   ch15 14 Doctoring Orchids.md: 10/10 in ch15 text
+ch16 15 Darwin's Crisis.md                     ch16 15 Darwin's Crisis.md: 10/10 in ch16 text
+ch17 16 "I Much Want a Cattleyea".md           ch17 16 "I Much Want a Cattleyea".md: 10/10 in ch17 text
+ch18 17 "The Whole World's Gone Cattleya Crazy".md ch18 17 "The Whole World's Gone Cattleya Crazy".md: 10/10 in ch18 text
+ch19 18 Fakes.md                               ch19 18 Fakes.md: 10/10 in ch19 text
+ch20 19 Damage.md                              ch20 19 Damage.md: 10/10 in ch20 text
+ch21 20 Entering the Lists.md                  ch21 20 Entering the Lists.md: 10/10 in ch21 text
+ch22 21 Ericsson and Bungeroth.md              ch22 21 Ericsson and Bungeroth.md: 10/10 in ch22 text
+ch23 22 The Great Discovery.md                 ch23 22 The Great Discovery.md: 10/10 in ch23 text
+ch24 23 The Second Great Discovery.md          ch24 23 The Second Great Discovery.md: 10/10 in ch24 text
+ch25 24 Errors.md                              ch25 24 Errors.md: 10/10 in ch25 text
+ch26 25 "Some Brazilian".md                    ch26 25 "Some Brazilian".md: 9/9 in ch26 text
+ch27 26 King of the Orchids.md                 ch27 26 King of the Orchids.md: 10/10 in ch27 text
+ch28 Epilogue Fall and Rise.md                 ch28 Epilogue Fall and Rise.md: 10/10 in ch28 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：28 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（the-lost-orchid-by-sarah-bilston）===
+  ✅ 逐字 1591 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 1 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 848
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 10
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: ➖ 无引语行（正常，非门禁项）
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 19/19 ✅
+
+=== 总览引文 19/19 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（the-lost-orchid-by-sarah-bilston）===
+  参照集：text/（28 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（the-lost-orchid-by-sarah-bilston）===
+  带前缀的 `> **原句 N:**` 行：28 个文件共 279 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：28 个 md，阻断型 0 处 ／ 提示型 0 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══

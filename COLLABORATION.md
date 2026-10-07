@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-07 12:21 UTC] [ZCode-Mac] → All
+
+**the-lost-orchid-by-sarah-bilston**：《The Lost Orchid: A Story of Victorian Plunder and Obsession》，Sarah Bilston（Harvard UP 2025）· **非虚构论述**（LoC 主题全为 Orchids—History，无 Novels 标记；含 182k 字符学术尾注 + 76k Index）· 28 章（Prologue + Chapter 1–26 + Epilogue）+ 总览三篇 = **31 md**，text/ 28 件（md 件数 == text 件数）。
+
+**编号映射（防跨章指错）**：`chNN = 书内章号 + 1`——ch01 是序章占位，**ch02 文件即书内 Chapter 1**，ch28 为尾声。目录在 `novels/` 系归档误判（同 Lonely Mouth 情形），路径与 index 行**均未改动**。
+
+**门禁（`bash scripts/gate.sh`，完整 lane：18 项，**0 条阻断型**，退出码 0）**：① verify_quotes **298/298（100%）干净 29/29**，--full 整串取证 0 ｜ ② check_vocab 427 词条行 **FAIL 0**、WARN 29（全为「基础档疑含超纲词」≥9 字符长度启发式，**提示型逐条看过，不阻塞**）｜ ③ check_entities **0 未知实体** ｜ ④ corruption_scan **FAIL 0** ｜ ⑤ sweep_full **279 命中 / 跨章 0 / 拼接 0 / 查无 0** ｜ ⑥ 短引语 0（主门禁已全覆盖）｜ ⑦ 逐章归属 **28 章全部 X/X in 本章 text**（ch26 为 9/9）｜ ⑧ 块覆盖对账 ✅ 每块都进 verify ｜ ⑨ 导航层 ❌0 ⚠️0 ｜ ⑩ sweep_analysis_inline 🟠0 🟡0 ❌0 ｜ ⑪ audit_structure **缺陷 0 / 映射不一致 0** ｜ ⑫ check_anchor **凭空造词 0** ｜ ⑬ 空段扫描 **0** ｜ ⑭ 总览引语 **19/19** ｜ ⑮ check_overview_full 章节标签 0 不符 · **H1 语义错配 0** ｜ ⑯ 跨章指认 ❌0 ⚠️0 ｜ ⑰ check_quote_blocks **279 块前缀完整·编号连续·无孤儿·无泄漏** ｜ ⑱ 块覆盖 阻断 0 / 提示 0。
+
+**生产方式（决定零缺陷的部分）**：全书引语与词条例句**零手打**——每章由 `span(唯一起点, 唯一终点)` 从 `text/` 程序化切片，断言 fail-closed（起点不唯一即中止）；关键词断言「必须落在本块引语内」；词头只从 `vocab_candidates.py` 候选表挑，例句同机制切片。总览三篇的金句/节点引语**从已过 verify 的 254 条引语池按索引取**，写入前再 flat 比对——**该批唯一一次返工即在此发生**：初版总览的「中文译文」是我凭印象写的，取回池中原文后发现 4/24 不对应，整篇作废重写（禁令 1 的典型形态：分析层凭印象 → 门禁抓不到）。
+
+**commits 14 条，全部未 push**：`c828b0144`(ch01 首章试产) → `60a50c9de` → `7e71544b2` → `f40a954bd` → `31fc0c3fa` → `b63665e12` → `3344dc3ae` → `199c8fecd` → `03290c8a4` → `528f46e09` → `7ae61f111` → `1663d6266`(末三章) → `ee873ce58`(总览)。
+
+**门禁原件**：`.memory/raw-gates/the-lost-orchid-by-sarah-bilston/`（`2026-10-07-gate.sh.txt` 18 项全量 + `2026-10-07-gates.txt` 97 行分项）；明细见 `.memory/daily/2026-10-07.md` 本书条目。**五步审查未做（待用户发起）**。
+
 ### [2026-10-07 08:45 UTC] [DSH-Mac] → All
 
 **《Livia: Mother of Rome》**（Caitlin C. Gillespie，非虚构传记，Met / Ancient Lives）完工 + 五步审查完成（用户本会话内发起，a–e 全套执行）。
