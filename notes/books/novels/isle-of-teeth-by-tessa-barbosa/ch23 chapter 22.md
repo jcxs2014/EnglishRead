@@ -28,6 +28,7 @@ modified: "2026-10-06"
 > **原句 2:** "Leo hung back. Unlike Delia, he wasn't Songi. He didn't think the revenants were a blessing from Lady Death but a scientific curiosity. He eyed Calyx with caution and looked ready to bolt the minute she moved. Little did he know that he could never run fast enough to escape her."
 
 **中文理解**：Leo 落在后面。和 Delia 不同，他不是 Songi 人。他不认为归骸者是 Lady Death 的祝福，而是一种科学上的奇观。他警惕地打量 Calyx，看上去随时准备在她一动时夺门而逃。他哪里知道，他跑得再快也逃不掉。
+**关键词**：he wasn't Songi · a blessing from Lady Death but a scientific curiosity · looked ready to bolt the minute she moved · Little did he know that he could never run fast enough to escape her
 
 **为什么这样写**：全章在**三行之内完成了三个人物对归骸者的三种立场**：Delia 的信（blessing）、Leo 的好奇（scientific curiosity）、Matiu 的实用（他已经在跟一个归骸者做交易了）。而"Little did he know that he could never run fast enough to escape her"（他哪里知道，他跑得再快也逃不掉）是**本书里唯一一次用全知视角捉弄一个配角**——**这句话的读者是读者，不是 Leo。** 而"looked ready to bolt"（准备夺门而逃）与本章后半段"Leo plopped hesitantly onto a wooden box closer to the girls"（Leo 犹豫地一屁股坐到离两个女孩更近的木箱上）形成他一章之内的立场漂移——**他是被糕点收买的。**
 
@@ -192,6 +193,7 @@ modified: "2026-10-06"
 > **原句 21:** "'There are ways to create change that do not require risking your life,' Fagen said. 'But some do.' Karima stood tall and stabbed her cousin in the chest with a finger."
 
 **中文理解**："有些创造改变的方式不需要拿命去赌。"Fagen 说。"但有些需要。"Karima 站得笔直，用手指戳着她表弟的胸口。
+**关键词**：There are ways to create change that do not require risking your life · But some do · stabbed her cousin in the chest with a finger
 
 **为什么这样写**：全章最短的一组对答，而它是一场**完整的辩论压缩在两句对话里**。Fagen 的立场是"渐进"（不必冒险），Karima 的立场是"必须"（有些需要）——**两个人的理由都不需要解释，因为对方已经懂了。** 而"stabbed her cousin in the chest with a finger"（用手指戳着她表弟的胸口）这个动作是**本章最像身体的抗议方式**：**她不打他，她戳他**——**这个动作在 Orsai 人之间是允许的，而它比任何一句话都更清楚地说明了他们的亲戚关系。**
 

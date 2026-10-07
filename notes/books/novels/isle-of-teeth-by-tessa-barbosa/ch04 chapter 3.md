@@ -39,7 +39,7 @@ modified: "2026-10-06"
 
 **中文理解**：Matiu 无视他。他向后倾斜去伸展酸痛的腿肚子，把所有的注意力放到疼痛上，而不管其他任何事。他清楚自己不能在这个森林里把手从步枪上松开。连队被召回 Martinel，为皇帝的铁路工程提供额外安保。这条铁路，将是帝国"轻松获取西方财富"这一梦想的实现。
 
-**关键词**：sore calves · focus on the pain · took his hands off his rifle · fruition · easy access
+**关键词**：sore calves · focus on the pain · take his hands off his rifle · fruition · easy access
 
 **为什么这样写**：全章最"军人化"的一段独白。作者用"stretch his sore calves"（伸展酸痛的腿肚子）作为"聚焦疼痛"的物理动作——Matiu 的痛感不是比喻，是真实的运动性酸痛。而"fruition of the Empire's dream of easy access to the riches of the West"是全书对帝国动机最直白的一次暴露——铁路不是"文明"、不是"进步"，是"轻松获取财富"（easy access to riches）。作者刻意用"easy access"这个短语把帝国的美化语言（fruition / dream）与它最赤裸的目的（easy access）放在同一句里，让"帝国梦"的实质完全暴露。
 

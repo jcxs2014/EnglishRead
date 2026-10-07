@@ -70,12 +70,14 @@ modified: "2026-10-06"
 > **原句 7:** "Like the last time, they hooked a rope to the closest point on the Isle, where the gondola once ran."
 
 **中文理解**：和上次一样，他们把绳子挂在岛上最近的一个点上——那里曾经跑过缆车。
+**关键词**：Like the last time · hooked a rope to the closest point on the Isle · where the gondola once ran
 
 **为什么这样写**：全章最有效率的一处"历史废墟"，而它的技术是**用一个已经不存在的东西当坐标**。"where the gondola once ran"（缆车曾经跑过的地方）——**这座岛曾经和城市之间有一条缆车线**，也就是说**它曾经是可以双向通行的**。而"Like the last time"（和上次一样）**指的是 ch07–ch08 和 ch22 的那两次攀爬**——**同一根绳子，第三次。**
 
 > **原句 8:** "Silence fell over Calyx like a blanket of fresh snow. Even when she was newly made, and the city was full, there was a silence about the Isle when night fell. The sound of the wind in the trees became a distant thing, and the sound of her breathing was its loudest interruption."
 
 **中文理解**：寂静像一层新雪一样落满 Calyx 全身。即使在她刚被做出来、城里还住满人的时候，夜里这座岛总有一种寂静。风穿过树的声音变得很远，而她呼吸的声音成了它最大的打扰。
+**关键词**：Silence fell over Calyx like a blanket of fresh snow · the sound of her breathing was its loudest interruption
 
 **为什么这样写**：全章最美的一段环境描写，而它的技术是**让寂静有重量和质地**。"like a blanket of fresh snow"（像一层新雪）——**雪是压下来的，所以寂静也是压下来的。** 而"the sound of her breathing was its loudest interruption"（她呼吸的声音成了最大的打扰）**把"安静"变成了对呼吸本身的指控**：**在这座岛上，她活着这件事本身就是噪音。**
 
@@ -100,6 +102,7 @@ modified: "2026-10-06"
 > **原句 11:** "He kept his composure, though beads of sweat formed on his brow."
 
 **中文理解**：他保持着镇定，虽然额头上渗出了汗珠。
+**关键词**：He kept his composure · beads of sweat formed on his brow
 
 **为什么这样写**：全章对 Matiu 最简洁的一次评价，而它的技术是**让身体告密**。"He kept his composure, though beads of sweat formed on his brow."（他保持镇定，虽然额头渗出汗珠。）——**ch27 结尾她的判断是"恐惧可以是有用的本能，只要它不把他吞掉"**，而本章她一直在观察同一件事：**他有没有被吞掉。** 答案是：**没有，但他一直在出汗。**
 
@@ -176,6 +179,7 @@ modified: "2026-10-06"
 > **原句 20:** "The opening gaped just wide enough for a small human to squeeze through, and beyond it waited a windowless room. Calyx flicked out her tongue and tasted nothing but dust, so she slipped in first."
 
 **中文理解**：那个开口只够一个体型小的人挤进去，后面是一间没有窗户的房间。Calyx 伸出舌头尝了尝，除了灰什么也没有，于是她先进去。
+**关键词**：just wide enough for a small human to squeeze through · a windowless room · tasted nothing but dust · she slipped in first
 
 **为什么这样写**：全章最有效率的一次空间描写，而它的技术是**让"无窗"和"够小"同时成为威胁**。"just wide enough for a small human to squeeze through"（刚好够一个小体型的人挤进去）——**"小"这个限定词与本章后文那只小孩形状的蜘蛛严格呼应。** 而"a windowless room"（没有窗户的房间）**意味着如果里面出不来，外面不会知道。** 而"flicked out her tongue and tasted nothing but dust"（伸出舌头尝了尝，除了灰什么也没有）**说明她的方法在这间房里失效了**——**她尝的是空气，而危险悬在梁上。**
 
@@ -192,6 +196,7 @@ modified: "2026-10-06"
 > **原句 22:** "'Matiu will know what to do,' Estrella had assured her."
 
 **中文理解**："Matiu 会知道该怎么做。"Estrella 曾这样向她保证。
+**关键词**：Matiu will know what to do · Estrella had assured her
 
 **为什么这样写**：全章最可疑的一句转述，而它的技术是**让一个承诺在她最需要的时候才出现**。"Matiu will know what to do."（Matiu 会知道该怎么做。）——**这是一句预言，而它在本章应验了**（他用母亲的吊坠开门）。**而它的可疑在于：Estrella 怎么知道 Matiu 身上带着那个吊坠？** 而"assured"（保证）这个动词说明**她当时是拿这件事当担保用的。**
 
@@ -238,6 +243,7 @@ modified: "2026-10-06"
 > **原句 27:** "Calyx caught a blur at the edge of her vision and bolted up straight. All her senses fired at once. She tasted the stone dogs and saw their silhouettes criss-cross past the broken hallway windows."
 
 **中文理解**：Calyx 在视野边缘抓到一团模糊的影子，猛地站直。她所有的感官同时启动。她尝到了石狗，也看见它们的剪影从破掉的走廊窗户上一道道掠过。
+**关键词**：caught a blur at the edge of her vision · bolted up straight · All her senses fired at once · criss-cross past the broken hallway windows
 
 **为什么这样写**：全章的动作转折，而它的技术是**用"全部感官同时开火"说明危险已经贴脸**。"All her senses fired at once."（所有感官同时启动。）——**这不是因为她分散了注意力，恰恰是因为她一直在警戒**：**她在神庙最深处、刚刚拿到东西的那一刻，危险才出现。** 而这与本章前文"石狗在下风处"的预示严格对应。
 
@@ -282,12 +288,14 @@ modified: "2026-10-06"
 > **原句 32:** "She stared upward and realized that the desiccated carcasses of stone dogs littered a web that criss-crossed the entire building."
 
 **中文理解**：她抬头看，才意识到整座建筑的上方纵横交错着一张网，网上到处是石狗的干瘪尸体。
+**关键词**：the desiccated carcasses of stone dogs · littered a web that criss-crossed the entire building
 
 **为什么这样写**：全章最冷的一次揭示，而它的技术是**让"神庙为什么没人住"这个悬念用一个画面回答**。"the desiccated carcasses of stone dogs littered a web that criss-crossed the entire building"（整座建筑上方纵横交错的网上到处是石狗的干瘪尸体）——**石狗不是"避开"神庙，是被吃掉了很多。** 而"desiccated"（干瘪的）说明**这些东西被挂在那里很久了**——**这张网已经运营了很多年，而神庙的"安全"是一个陷阱。**
 
 > **原句 33:** "Calyx bit down so hard on her lip that she caught the edge of her tongue and tasted blood. She forgot the stone dogs in the hallway and raced toward the wooden staircase that wound up the wall and into the bell tower."
 
 **中文理解**：Calyx 咬得那么用力，咬到了舌尖，尝到了血。她忘了走廊里的石狗，冲向那道沿墙盘旋、通到钟楼的木楼梯。
+**关键词**：bit down so hard on her lip · caught the edge of her tongue and tasted blood · She forgot the stone dogs in the hallway · wound up the wall and into the bell tower
 
 **为什么这样写**：全章的转折决策，而它的技术是**让"忘了石狗"成为一次优先级排序**。"She forgot the stone dogs in the hallway"（她忘了走廊里的石狗）——**她刚刚为它们紧张了一整段，而她看到一个抓走 Matiu 的东西之后立刻把它们从脑子里删掉了。** 而"bit down so hard on her lip that she caught the edge of her tongue"（咬得那么用力，咬到了舌尖）**是本句的身体细节**：**她此刻唯一的表达方式是咬自己。**
 
@@ -330,12 +338,14 @@ modified: "2026-10-06"
 > **原句 38:** "Rope burned through the fabric of her scarf and tore up her palms. They crashed hard onto the wooden temple floor. Matiu groaned and scrambled to his feet."
 
 **中文理解**：绳子烧穿了围巾，把她的手掌磨破。他们重重砸在神庙的木地板上。Matiu 呻吟着爬起来。
+**关键词**：Rope burned through the fabric of her scarf and tore up her palms · crashed hard onto the wooden temple floor · scrambled to his feet
 
 **为什么这样写**：全章的代价清单，而它的技术是**用两个身体反应写两个人的差别**。"Rope burned through the fabric of her scarf and tore up her palms."（绳子烧穿围巾，磨破她的手掌。）与"Matiu groaned and scrambled to his feet."（Matiu 呻吟着爬起来。）**并排**——**她在流血，他在站起来。** 而本章结尾她的"手需要包扎"要与这一句连读：**这是她全章唯一一次包扎的需求，而她到最后都没包。**
 
 > **原句 39:** "It grabbed her shoulders and carried her up into the air. She twisted and stabbed at its abdomen. The creature dropped her before it could weave a cocoon. A bench cracked as she crashed into it."
 
 **中文理解**：它抓住她的肩膀，把她带上空中。她扭身一刀捅进它的腹部。那东西在织茧之前把她丢了下来。她撞上一张长凳，凳子断裂了。
+**关键词**：grabbed her shoulders and carried her up into the air · stabbed at its abdomen · before it could weave a cocoon · A bench cracked as she crashed into it
 
 **为什么这样写**：全章的第二次交手，而它的技术是**让胜负取决于"她愿意被摔"**。"The creature dropped her before it could weave a cocoon."（那东西在织茧之前把她丢了下来。）——**她挨的这一摔是胜利的代价**：**她打断了一个本来会完成的动作**。而"A bench cracked as she crashed into it"（她撞上长凳，凳子断裂）**说明摔得有多重**——**而本章后文她"肋骨疼"、"左臂脱臼"都来自这一摔。**
 
@@ -392,6 +402,7 @@ modified: "2026-10-06"
 > **原句 46:** "The more blood that coated her hands, the louder Mother's voice in her head."
 
 **中文理解**：手上沾的血越多，母亲在她脑子里的声音就越响。
+**关键词**：The more blood that coated her hands · the louder Mother's voice in her head
 
 **为什么这样写**：全章最短也最重要的一句设定陈述，而它的技术是**用一个正比关系定义她的诅咒**。"The more blood that coated her hands, the louder Mother's voice in her head."（血越多，母亲的声音越响。）——**这不是她软弱，这是她的机制**：**她的母亲通过血来获得通路。** 而这一句解释了 ch24 里 Estrella 说的"药"、ch19 里 Sepal 的发疯：**每一个归骸者都是一具被血开门给神的容器。**
 

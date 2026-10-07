@@ -1,0 +1,8 @@
+### check_block_keywords 2026-10-07 07:50 UTC
+  ⚠️ 提示·语境延伸词（第 9 条 b 允许：已被「为什么这样写」呼应）→ ['Because I made them']
+  ⚠️ 提示·语境延伸词（第 9 条 b 允许：已被「为什么这样写」呼应）→ ['his feet remained pointed toward the door']
+  ⚠️ 提示·语境延伸词（第 9 条 b 允许：已被「为什么这样写」呼应）→ ['she took both his hands in hers and squeezed']
+=== 引语块覆盖度：47 个 md，阻断型 471 处 ／ 提示型 5 处 ===
+
+== keyword-not-in-quote lines ==
+(none)

@@ -67,6 +67,8 @@ modified: "2026-10-06"
 
 **中文理解**："这永远不会发生。"Calyx 天真地说。
 
+**关键词**：It will never happen · Calyx told her naively
+
 **为什么这样写**：全章最短的一句，也是作者唯一一次在叙述里直接给 Calyx 的判断贴标签。**"naively"（天真地）是作者给读者的一封信**：她在告诉读者"这句话是错的，而且错得很明显"。全章的叙述都克制、不评论，只有这一处用了副词直接下判——**因为这一句是全章最重要的一次错误**。而在同一段后面，作者用"But it had."（但它发生了）三个词，作为对"naively"的正式回答。
 
 > **原句 7:** "It was the most wonderful thing she'd smelled in years. Calyx pressed her nose against a window under a wooden sign embossed with loaves and pastries."

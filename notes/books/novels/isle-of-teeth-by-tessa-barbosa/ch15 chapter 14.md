@@ -117,6 +117,8 @@ modified: "2026-10-06"
 
 **中文理解**：Leo 笑了。"Arnel 和我在一起。"
 
+**关键词**：Leo smiled · Arnel and I are together
+
 **为什么这样写**：全章最轻的一句，也是全书最先进的一笔。作者用五个英文单词交代了一段关系——没有解释、没有铺垫、没有让任何角色感到惊讶。**Matiu 的反应是"Ahh…"和一个清嗓子，然后下一句就是有人砸门。** 作者的处理方式是：让这件事在叙事里完全不构成事件。在一个关于种族屠杀和殖民的黑暗小说里，这一句提供了一个**不需要被辩护的正常**。
 
 > **原句 12:** "The thick layer of dust that coated the room answered his question, and the same strange sense of wrongness he'd felt in the museum nagged him again. It felt as though he were missing some vital information, but he couldn't afford to puzzle it through."

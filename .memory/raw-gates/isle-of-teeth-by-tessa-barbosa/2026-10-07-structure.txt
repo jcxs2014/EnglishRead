@@ -1,0 +1,18 @@
+### structural gates 2026-10-07 07:50 UTC
+== audit_structure ==
+  ⚠️ ch43 chapter 42.md  引语 24 个，与本书众数 10 相差过大
+  ⚠️ ch44 chapter 43.md  引语 23 个，与本书众数 10 相差过大
+  ⚠️ ch45 chapter 44.md  引语 29 个，与本书众数 10 相差过大
+
+== check_quote_blocks ==
+=== 引语块结构对账（isle-of-teeth-by-tessa-barbosa）===
+  带前缀的 `> **原句 N:**` 行：47 个文件共 1124 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+== check_anchor ==
+     ch07 chapter 6.md:126  关键词「the Isle of Teeth · hunched what looked 」的「what」在全书有、本块无
+     ch07 chapter 6.md:126  关键词「the Isle of Teeth · hunched what looked 」的「looked」在全书有、本块无
+     ch07 chapter 6.md:126  关键词「the Isle of Teeth · hunched what looked 」的「like」在全书有、本块无
+     ch07 chapter 6.md:126  关键词「the Isle of Teeth · hunched what looked 」的「large」在全书有、本块无
+     ch07 chapter 6.md:126  关键词「the Isle of Teeth · hunched what looked 」的「hairless」在全书有、本块无
+     ch07 chapter 6.md:126  关键词「the Isle of Teeth · hunched what looked 」的「dog」在全书有、本块无

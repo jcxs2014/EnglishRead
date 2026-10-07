@@ -59,7 +59,7 @@ modified: "2026-10-06"
 
 **中文理解**：乍一看，Matiu 和别人没什么不同，都穿着借来的黑西装，都严肃、都深色头发、都年轻。Matiu 脖子上没有珠子。他把衬衫塞得整整齐齐，而他们把衬衫下摆晾在外面。这些小小的差别把他们隔成了两个世界。
 
-**关键词**：borrowed black suits · Matiu bore no beads around his neck · shirts neatly tucked in · These small differences set them worlds apart
+**关键词**：borrowed black suits · Matiu bore no beads around his neck · his shirt neatly tucked in · These small differences set them worlds apart
 
 **为什么这样写**：全章对"身份差异是被细节标记出来的"最精辟的一次说明。作者列了两组"看起来一样"和"实际上不一样"：**一样的是（借来的西装、深色头发、年轻），不一样的是（没有珠子、衬衫塞进去了）。** 而最后那句"These small differences set them worlds apart"（这些小小的差别把他们隔成了两个世界）是全章最重要的一句社会学观察——**隔开两个族群的从来不是皮肤或语言，是"衬衫塞不塞进裤子"。** 而"borrowed"（借来的）这个形容词更狠：**他连这身伪装都是别人借给他的。**
 
@@ -68,6 +68,8 @@ modified: "2026-10-06"
 > **原句 6:** "'The colonizer doesn't even speak our language,' he said in the low tones of his mother's tongue."
 
 **中文理解**："这个殖民者连我们的话都不会说。"他用他母亲那种语言的低声调说。
+
+**关键词**：The colonizer doesn't even speak our language · in the low tones of his mother's tongue
 
 **为什么这样写**：全章最锋利的一句结构反讽。**少年用 Songi 语指责 Matiu 是"殖民者不会说我们的话"——而 Matiu 听懂了。** 作者把这句话写在 Songi 语里（"the low tones of his mother's tongue"），等于告诉我们：**Matiu 完全理解了这句骂他的话。** 这是本章最有效的一次"被排除者视角"：**他听得懂每一句关于他不属于这里的议论。**
 
@@ -151,6 +153,8 @@ modified: "2026-10-06"
 
 **中文理解**：围着 Isle of Teeth 的带刺围栏近看更加巨大。它警告每一个经过的人：Songi 人最后一场叛乱以灾难告终。
 
+**关键词**：The spiked fence that surrounded the Isle of Teeth · It warned everyone who passed by · the Songi's final rebellion had ended in disaster
+
 **为什么这样写**：全章空间的转折点，而作者的写法是**"围栏会说话"**。"It warned everyone who passed by"（它警告每一个经过的人）——**一个建筑物在做演讲。** 而"警告"的内容是一段历史结论：**"最终叛乱以灾难告终"。** 这座围栏不只是物理屏障，它是**一块写在大地上的纪念碑**，纪念的是"你们试过了，你们输了"。**Matiu 现在的仪式就在这道围栏外面进行。**
 
 > **原句 16:** "He'd been taught better by his mother, drilled with the proper cadence, so that even now he sang in his sleep. He shuddered."
@@ -217,6 +221,8 @@ modified: "2026-10-06"
 
 **中文理解**："不，孩子。"Rodel 的眼睛似乎大得足以吞下他。"你什么都不是。"
 
+**关键词**：Rodel's eyes seemed to grow large enough to swallow him · You are nothing.
+
 **为什么这样写**：全章最狠的一句，而它出现的**位置**是关键：Matiu 刚刚说完"I am Songi, by my mother's blood"（我凭母亲的血是 Songi 人）。**Rodel 的回答不是"你不算"，是"你什么都不是"。** 而"eyes seemed to grow large enough to swallow him"（眼睛似乎大得足以吞下他）这个描写把 Rodel 变成了**一个吞噬者的形象**——用"eyes"而不是"mouth"来吞噬，意味着**他是通过"看"来否定 Matiu 的**（这呼应了前面矮个男孩的"看着它们的眼睛"）。
 
 **读者视角提示**：这一句与 ch13 里 Raefel 的"You are a Frankel"（你是 Frankel 家的人）形成最尖锐的对照——**两个长辈，用同一个"你是/你不是"，给出了相反的定义。** 而 Matiu 此刻在两人之间：Lyssian 那边他"是 Frankel"，Songi 这边他"什么都不是"。
@@ -224,6 +230,8 @@ modified: "2026-10-06"
 > **原句 23:** "He made a mocking bow and shoved past Matiu's shoulder with surprising strength. The Archduke had sorely misjudged the Songi. They saw right through him."
 
 **中文理解**：他做了一个嘲弄的鞠躬，用惊人的力气从 Matiu 肩膀旁挤过去。公爵严重误判了 Songi 人。他们一眼看穿了他。
+
+**关键词**：shoved past Matiu's shoulder with surprising strength · The Archduke had sorely misjudged the Songi · They saw right through him.
 
 **为什么这样写**：全章最重要的一次"结论"，而它**指向的不是 Matiu，是 Raefel**。"The Archduke had sorely misjudged the Songi"（公爵严重误判了 Songi 人）——**Matiu 在被羞辱的瞬间，得出的结论是"我叔叔错了"。** 而"They saw right through him"（他们一眼看穿了他）里的"him"指谁很重要：语法上最近的名词是 Rodel，但逻辑上指的是**Matiu 自己**——**他们看穿了他的伪装（衬衫塞得整齐、脖子上没有珠子、不会说族语）。** 这是全章最重要的一次视角转换：**他不再判断族人，他开始判断自己。**
 
@@ -233,6 +241,8 @@ modified: "2026-10-06"
 
 **中文理解**：Matiu 攥着拳头在冻硬的土地上稳住自己。他紧闭双眼。他很聪明。他会找到办法。"情绪只会碍事。专注，孩子。"他父亲的声音在他脑中低语。
 
+**关键词**：with his fists balled · He was smart. He would find a way. · Emotions only get in the way. Focus, boy
+
 **为什么这样写**：全章最残酷的一次"安慰"，而它来自**父亲**。Matiu 在最需要被母亲族群接纳的时刻，脑子里响起的却是父亲的教导——**而父亲教给他的东西恰好是"情感只会碍事"（Emotions only get in the way）。** 这句话此刻的功能是**止血**：他刚刚被"你什么都不是"击中，而父亲的声音告诉他"不要有情绪"。**作者让全书最伤他的那个人，成为他唯一的心理急救。**
 
 **读者视角提示**：这一句与 ch04 里"父亲是前任 archduke 和归骸者创造者"、ch17 里他身上的疤痕与"drug addled 的课堂"形成背景——**Matiu 的自我控制能力是被虐待训练出来的。**
@@ -241,11 +251,15 @@ modified: "2026-10-06"
 
 **中文理解**：Matiu 深吸一口气，快速背出一串质数。1、2、3、5、7……他攥住母亲的 locket，屏住呼吸。
 
+**关键词**：rattled off a sequence of prime numbers · 1, 2, 3, 5, 7… · He clutched his mother's locket and stilled his breath
+
 **为什么这样写**：全章最动人的一个细节，而它的构成是**父亲的技术 + 母亲的遗物**。数质数（科学、可预测、需要工作记忆）是用来阻断情绪的——**这是父亲的方法**；攥着 locket 是用来锚定的——**这是母亲的东西**。**一个动作里两套遗产同时在场。** 而"1, 2, 3, 5, 7…"这个序列本身很有意思：**1 不是质数**，但一个人在心慌时背出来的数列不需要数学上正确——**它需要的是"我在计算"这个感觉。**
 
 > **原句 26:** "'I could be of use to you,' Matiu said, hurrying after Rodel."
 
 **中文理解**："我可以对你们有用。"Matiu 说，快步跟在 Rodel 后面。
+
+**关键词**：I could be of use to you · hurrying after Rodel
 
 **为什么这样写**：全章最简洁的转折，而它的力道在**"hurrying after"（快步跟上）** 这个动作。他刚刚被告知"你什么都不是"，然后他跟了上去。**这是本章对 Matiu 性格最精确的定义：他不会走。** 而"I could be of use to you"（我可以对你们有用）这个措辞——**不是"我想加入"，是"我有价值"。** 一个从小被当实验对象的人，懂得的唯一交换货币是**有用性**。
 
@@ -290,6 +304,8 @@ modified: "2026-10-06"
 > **原句 31:** "The Songi believed that songs created the world, that the right songs could control the weather and all the creatures under the skies. He could not sing all the songs, for his mother died before she could teach him. Still, he knew enough."
 
 **中文理解**：Songi 人相信歌创造了世界，正确的歌能控制天气和天空下所有的生物。他不能唱所有的歌，因为他母亲在他学会之前就死了。但他知道的够了。
+
+**关键词**：songs created the world · control the weather and all the creatures under the skies · his mother died before she could teach him · Still, he knew enough.
 
 **为什么这样写**：全章对"歌"作为一种力量最完整的一次说明，而设定是**有限度的**。"He could not sing all the songs"（他不能唱所有的歌）——**Matiu 的力量是残缺的，因为教学被死亡中断。** 这个"不完整"很重要：他不是全能的继承者，他是**一门失传技艺的最后碎片持有者。** 而"Still, he knew enough"（但他知道的够了）与 Rodel 的"我们没有剩下控制它们的歌"形成了本章唯一一处"他比长老们更强"的地方：**Songi 失去了全部，他留下了几首。**
 

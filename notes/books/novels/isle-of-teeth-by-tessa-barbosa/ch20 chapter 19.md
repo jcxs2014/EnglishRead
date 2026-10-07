@@ -67,6 +67,8 @@ modified: "2026-10-06"
 
 **中文理解**："我以 Lady 本人起誓。如果我不回来，那就是我死了。"
 
+**关键词**：I swear it upon the Lady herself · If I don't come back, then I am dead.
+
 **为什么这样写**：全章最险的一次承诺，而它妙在**逻辑的封闭性**。Jhon 问"你怎么保证你会回来"，Matiu 的回答不是承诺，是一个**同义反复**：如果我不回来，那我就是死了——**也就是说，他承诺的不是"我会回来"，而是"我不会偷走这条命"。** 而这句话的力量来自他的听众：**他正对一个真的相信 Lady 的人说这句话。**
 
 > **原句 7:** "'You know what you've promised Her, so I will honor your promise today. Lady Death comes for those who break their promises.' He spoke with such conviction that Matiu shivered. Matiu did not believe in the Lady, yet every hair on his body stood on end as though She stood behind his shoulder, listening."
@@ -82,6 +84,8 @@ modified: "2026-10-06"
 > **原句 8:** "'No one else gets that reward but me, you hear?' Jhon grumbled. Matiu nodded. He could only pray that he'd live long enough to worry about delivering."
 
 **中文理解**："那笔赏金除了我没人能拿，听到了吗？"Jhon 咕哝。Matiu 点头。他只能祈祷自己能活得够久，久到需要担心履约的事。
+
+**关键词**：No one else gets that reward but me · he'd live long enough to worry about delivering
 
 **为什么这样写**：全章最有人情味的一处小交易，而它的幽默是**冷的**。Jhon 关心的不是 Matiu 的命，是**赏金不能给别人**；而 Matiu 的想法是"希望我能活到要为这个发愁的时候"。**两个人在讨论一个大概不会发生的问题。** 而"he'd live long enough to worry about delivering"（活到需要担心履约）这个从句的结构很妙——**履约是"好事"，因为它意味着他还活着。**
 
@@ -136,6 +140,8 @@ modified: "2026-10-06"
 > **原句 14:** "He stared at the wall past Matiu, unseeing. Matiu suspected the gambling hall employed a blind man because he could not look too closely at their patrons."
 
 **中文理解**：他盯着 Matiu 身后的墙，什么都看不见。Matiu 猜赌场雇一个盲人，是因为他没法太仔细地看他们的客人。
+
+**关键词**：He stared at the wall past Matiu, unseeing · because he could not look too closely at their patrons
 
 **为什么这样写**：全章最冷的一个人事决策，而作者把它写成了一句**同义反复的笑话**。盲人看不见（生理事实）→ 赌场需要一个人"看不见"（功能需求）。**雇佣的理由不是"他能做什么"，是"他不能做什么"。** 而"past Matiu, unseeing"（越过 Matiu，什么都看不见）这个描写与前面 Lady Death"眼睛随着他走动"形成了本章最尖锐的一对对照：**一个神在看，一个门房看不见。** 而这个空间的规则是：**只有被禁止看的东西才是最要紧的。**
 
@@ -240,6 +246,8 @@ modified: "2026-10-06"
 > **原句 25:** "'Oh, oh! I see your game now. I will win this time, you hear me…,' Raefel mumbled."
 
 **中文理解**："哦，哦！我现在看穿你的把戏了。这次我会赢，你听到了吗……"Raefel 咕哝。
+
+**关键词**：I see your game now · I will win this time, you hear me…
 
 **为什么这样写**：全章最重要的一句疯话，因为它**在跟谁说话**。"I see your game now. I will win this time"（我看穿你的把戏了，这次我会赢）——**"这次"（this time）说明有上一次。** 这句话是对着那个"看不见的人"说的，而它把 Raefel 的整个政治行为（把 Matiu 当棋子、要归骸者、要平叛）重新解释成**一场个人的执念**。而"Oh, oh!"这个双重感叹是**突然的兴奋**——正如前面"a strange brightness... a restlessness"。
 

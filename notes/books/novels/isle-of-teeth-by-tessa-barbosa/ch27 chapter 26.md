@@ -44,6 +44,7 @@ modified: "2026-10-06"
 > **原句 4:** "'Matiu is a traumatized child with a father who cut him up for his experiments and an uncle who would use him for his schemes. I have no doubt that Matiu means well, but he's too confused. He doesn't know who he is, and he's never had the chance to. Still the Lady has given us a sign that he is part of her plans. You must act quickly. Matiu has the key. Our salvation lies on the Isle of Teeth, and only you can help us,' Estrella had told her."
 
 **中文理解**："Matiu 是个受过创伤的孩子，父亲为了实验把他切开，舅舅想拿他当棋子。我不怀疑 Matiu 心怀善意，但他太混乱了。他不知道他是谁，而且从来没有机会知道。但夫人已经给了我们一个迹象：他是她计划的一部分。你必须快。Matiu 有钥匙。我们的救赎就在 Isle of Teeth 上，只有你能帮我们。"——Estrella 是这样对她说的。
+**关键词**：a traumatized child with a father who cut him up for his experiments and an uncle who would use him for his schemes · He doesn't know who he is, and he's never had the chance to. · Matiu has the key
 
 **为什么这样写**：全章最重要的一段转述，而它的技术是**让一段评价听起来像一份使用说明**。"a traumatized child with a father who cut him up for his experiments and an uncle who would use him for his schemes"（父亲为了实验把他切开、舅舅想拿他当棋子）——**Estrella 用一句话概括了 Matiu 的全部来路，而她在对另一个被制造出来的孩子说这句话。** 而"He doesn't know who he is, and he's never had the chance to."（他不知道他是谁，而且从来没有机会知道）**是本句唯一带感情的部分**——**而下一句立刻转向"但夫人已经给了迹象"**：**同情只维持了一秒，然后就被任务取代。** 而"Matiu has the key"（Matiu 有钥匙）**与 ch16 里母亲对 Calyx 低语的"The boy is the key"是同一句**——**也就是说母亲和 Estrella 说的是同一件事。**
 
@@ -114,6 +115,7 @@ modified: "2026-10-06"
 > **原句 12:** "'How delicate these humans are,' she murmured."
 
 **中文理解**："这些人类多么脆弱啊。"她低声说。
+**关键词**：How delicate these humans are · she murmured
 
 **为什么这样写**：全章最复杂的一句话，而它的技术是**让她在对一个人产生感情的同时说出这句话**。"How delicate these humans are."（这些人类多么脆弱啊。）——**"these humans"（这些人类）把她划在人类之外，而这句话正出现在她刚被他睡着的样子打动之后。** 这是本书对 Calyx 的核心困境最精准的一次呈现：**她被人类的脆弱吸引，而她自己的存在方式恰恰不是脆弱的（她不会累、不会病、只是会疯）。** 而"murmured"（低声说）说明**这句话不是说给他听的，也不是说给自己听的——它是一句无法回答的叹息。**
 
@@ -188,12 +190,14 @@ modified: "2026-10-06"
 > **原句 20:** "Calyx pushed back her sleeve, and black lines curled down her shoulder like lace where the Lady's Breath had taken root inside her body."
 
 **中文理解**：Calyx 卷起袖子，黑色线条沿着她的肩膀像蕾丝一样卷下来——那是 Lady's Breath 在她体内扎根的地方。
+**关键词**：pushed back her sleeve · black lines curled down her shoulder like lace · the Lady's Breath had taken root inside her body
 
 **为什么这样写**：全章的视觉核心，而它的技术是**用一个美的比喻写一个死的征兆**。"like lace"（像蕾丝）——**蕾丝是装饰品、是礼服、是蕾丝袖口**，而这里它形容的是**真菌在她皮肤下蔓延的路径**。这个比喻同时完成了两件事：**它让疾病显得美（所以是残忍的），也说明 Calyx 自己是怎么看它的——她把它穿在身上，像一件脱不下来的衣服。** 而"had taken root inside her body"（在她体内扎了根）里的"root"（根）**是本句唯一没有修饰的动词**：**扎了根的东西拔不出来。**
 
 > **原句 21:** "The fungus had been key to reanimation, but it would also be their demise."
 
 **中文理解**：真菌是复活的关键，但它也会是他们的死因。
+**关键词**：The fungus had been key to reanimation · it would also be their demise
 
 **为什么这样写**：全章最短也最致命的一句设定陈述，而它的技术是**用一个对称句式把一个悖论钉死**。"key to reanimation, but it would also be their demise"（复活的关键，但也是他们的死因）——**让他们活过来的东西就是杀死他们的东西。** 而作者选择用一句独立成段的叙述句说出来，**因为这是本书给归骸者这个设定的最终定义**：**他们的存在是一个自毁装置。**
 
@@ -202,12 +206,14 @@ modified: "2026-10-06"
 > **原句 22:** "'There is a Songi woman who has medicine, and if I take her something she wants, she will give it to me,' Calyx said. 'She calls herself Madame Estrella. I remember her, Matiu. She was part of the Revenant Experiment, but it's been so many years. I could be mistaken…'"
 
 **中文理解**："有一个 Songi 女人有药，如果我给她想要的东西，她就会给我。"Calyx 说。"她自称 Estrella 夫人。我记得她，Matiu。她参与过归骸者实验，但那是很多年前了。也许我记错了……"
+**关键词**：She calls herself Madame Estrella · She was part of the Revenant Experiment · I could be mistaken
 
 **为什么这样写**：全章最致命的一次对话，而它的技术是**让她用"自称"（calls herself）和"也许我记错了"（I could be mistaken）把真相裹起来**。"She calls herself Madame Estrella"（她自称 Estrella 夫人）——**"自称"这个词预先为下一句的否认留好了空间。** 而"I could be mistaken"（也许我记错了）**是她自己递出的台阶**——**她不是在怀疑记忆，她是在给 Matiu 一个不用相信的选项。** 而本章后文他没有踩这个台阶：**他选择相信她的记忆，然后说的是"Estrella 是我母亲，她死了"——也就是说他信了，而这更糟。**
 
 > **原句 23:** "Matiu shook his head. 'Estrella was my mother, and she's dead.' Doubt flooded through Calyx."
 
 **中文理解**：Matiu 摇头。"Estrella 是我母亲，她死了。"怀疑灌满了 Calyx。
+**关键词**：Estrella was my mother, and she's dead · Doubt flooded through Calyx
 
 **为什么这样写**：全章的炸弹，而它的技术是**让它用一句最平的话落地**。"Estrella was my mother, and she's dead."（Estrella 是我母亲，她死了。）——**没有反问，没有震惊，只有两个事实用"and"连起来。** 而"Doubt flooded through Calyx."（怀疑灌满了 Calyx。）里的"flooded"（灌满）**与本章多处水的意象一致**（ch25 里他也被幻觉灌满）。**她的怀疑不是关于 Estrella 是不是死了，而是关于"如果我认错了人，那我刚才说的一切都不算数"。**
 
@@ -216,6 +222,7 @@ modified: "2026-10-06"
 > **原句 24:** "'I don't know how the Songi could have access to your medicine. It's most likely a trick.' Matiu ran his hands through his hair. He looked so tired. 'Did she ask you anything more? Do you trust her?' he asked."
 
 **中文理解**："我不知道 Songi 人怎么会弄到你们的药。这多半是骗局。"Matiu 把手指插进头发里。他看起来太累了。"她还问了你别的什么吗？你信她吗？"
+**关键词**：I don't know how the Songi could have access to your medicine · It's most likely a trick · He looked so tired · Do you trust her?
 
 **为什么这样写**：全章最能说明他状态的一段，而它的技术是**让他的怀疑针对错的对象**。"I don't know how the Songi could have access to your medicine."（我不知道 Songi 人怎么会弄到你们的药。）——**他怀疑的是"Songi 人怎么会有药"，而不是"那个自称 Estrella 的女人是谁"。** 而"Did she ask you anything more?"（她还问了你别的什么吗？）**这个问题暴露了他真正在怕的东西：不是骗局，是他母亲可能还活着。** 而"Do you trust her?"（你信她吗？）**是他第一次向别人求证关于母亲的事。**
 
@@ -278,6 +285,7 @@ modified: "2026-10-06"
 > **原句 31:** "'I haven't done much right in my life, but this… it feels right. Like I'm supposed to be here.'"
 
 **中文理解**："我这辈子没做对过几件事，但这件事……感觉是对的。就像我本来就该在这里。"
+**关键词**：I haven't done much right in my life · it feels right · Like I'm supposed to be here.
 
 **为什么这样写**：全章最像告白的一句，而它的技术是**让它不是关于她的**。"I haven't done much right in my life, but this… it feels right."（我这辈子没做对过几件事，但这件事感觉是对的。）——**他在说的是自己，不是他们。** 而"Like I'm supposed to be here."（就像我本来就该在这里。）**与本章开头他的"看不见的罗盘引他回家"形成呼应**：**他一直在被引向这座岛，而他现在主动承认了这件事。** 而"I haven't done much right"（没做对过几件事）**是他全书中对自己的评价里最低的一句。**
 
@@ -310,6 +318,7 @@ modified: "2026-10-06"
 > **原句 35:** "Matiu extended his hand. Calyx shook it to seal the deal between them."
 
 **中文理解**：Matiu 伸出手。Calyx 握住它，把他们之间的这笔交易定下来。
+**关键词**：extended his hand · shook it to seal the deal between them
 
 **为什么这样写**：全章的收束，而它的技术是**让一个握手同时是承诺和交易**。"to seal the deal between them"（把交易定下来）——**"deal"（交易）这个词是冷冰冰的，而它是本章最后一次接触的方式。** 而本章开头他们是"一条上钩的鱼"和"一只受惊的兔子"，结尾是两个人握手——**作者用两次接触完成了这一章：一次是拖着他走，一次是并肩出发。**
 

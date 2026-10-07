@@ -125,6 +125,8 @@ modified: "2026-10-06"
 
 **中文理解**：除非 Calyx 很快找到她姐姐，她将永远无法救她的家人。
 
+**关键词**：Unless Calyx found her sister quickly · she'd never be able to save her family
+
 **为什么这样写**：全章的收束，而它是一句**双重困境的句式**。注意"unless...never"的结构：她要救家人，前提是找到姐姐；而找姐姐的过程**正在毁掉她（伤口没处理、肋骨受伤、体力透支）**。而"save her family"（救她的家人）这个复数很重要——**不是只救 Sepal，是救 Anther、Caran、还有自己。** 而在本章，她刚刚看着其中一个（Sepal）做了她最不能接受的事。**她要救的家人，正在变成她必须阻止的东西。**
 
 ## 本章词汇

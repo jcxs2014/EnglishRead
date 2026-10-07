@@ -54,6 +54,7 @@ modified: "2026-10-06"
 > **原句 5:** "They were a problem to be discarded, just like the revenants."
 
 **中文理解**：他们是一个有待丢弃的问题，就像归骸者一样。
+**关键词**：a problem to be discarded · just like the revenants
 
 **为什么这样写**：全章最简洁的一次政治类比，而它的技术是**用"problem"（问题）这个词把两个族群并列**。"a problem to be discarded, just like the revenants"（有待丢弃的问题，就像归骸者一样）——**Songi 人和归骸者在帝国的语法里属于同一个类别：待处理事项。** 而作者让这句话出现在他刚对 Songi 产生同情、且刚刚读完父亲笔记之后——**这不是一句口号，是他刚算出来的一道等式。**
 
@@ -76,6 +77,7 @@ modified: "2026-10-06"
 > **原句 8:** "Many were smashed. Others contained the cross sections of animals, carefully dissected for examination. Matiu remembered this place."
 
 **中文理解**：许多罐子已经碎了。其他的装着动物的横切面——被仔细解剖以供检查。Matiu 记起了这个地方。
+**关键词**：Many were smashed · carefully dissected for examination · Matiu remembered this place.
 
 **为什么这样写**：全章最冷的一次儿童记忆，而它的技术是**让"记得"落在一句纯客观的描述之后**。"carefully dissected for examination"（被仔细解剖以供检查）——**"carefully"（仔细）这个副词是叙述者的，而它形容的是一种针对动物（以及后来的归骸者）的精密暴力。** 而"Matiu remembered this place."（Matiu 记起了这个地方。）**是独立的一句，也是一句判决**：**他记得，也就是说他见过这些罐子小时候就有。**
 
@@ -282,6 +284,7 @@ modified: "2026-10-06"
 > **原句 32:** "'There is water so you can wash yourself, and I found some of my brother's old clothes. Something should fit.'"
 
 **中文理解**："有水可以洗，我找了几件我哥哥的旧衣服。总有件能穿。"
+**关键词**：There is water so you can wash yourself · some of my brother's old clothes · Something should fit.
 
 **为什么这样写**：全章最不起眼也最重要的一次照顾，而它的技术是**让"洗澡"和"换衣服"同时是一次身份处理**。"I found some of my brother's old clothes."（我找了几件哥哥的旧衣服。）——**Anther 的衣服"过时了十年"（后文交代）**，也就是说**这是十年前的款式**：**Matiu 在这一章穿上的，是十年前那个家里还有人活着时的衣服。** 而这件事由 Calyx 主动做，不需要他开口。
 

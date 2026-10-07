@@ -49,6 +49,8 @@ modified: "2026-10-06"
 
 **中文理解**："我需要——"他身后一个暗影动了，而她吸气时围巾卡在嘴里。Sepal 一定就藏在附近。
 
+**关键词**：A dark shape shifted behind him · the scarf got stuck in her mouth as she sucked in a breath · Sepal must have been hiding just nearby
+
 **为什么这样写**：全章最有效率的一个转折，而它的结构是**"话被打断"**。Calyx 的"我需要——"（I need—）这句请求**永远没有说完**，因为从这一刻起整章就变成了追逐戏。而"the scarf got stuck in her mouth as she sucked in a breath"（她吸气时围巾卡在嘴里）这个极具体的细节说明她**戴围巾是为了遮住嘴**（舌头、獠牙）——**她的伪装正在因为恐惧而失效。** 而"Sepal must have been hiding just nearby"（Sepal 一定就藏在附近）是全章最恐怖的一句：**原来在她们说话的时候，姐姐就在几步之外看着。**
 
 > **原句 5:** "Calyx pointed out Sepal with her brown hand. He didn't seem to understand. Mother, not now. Calyx needed to stop what was about to happen, but she had eaten precious little and all she had left was her smarts."

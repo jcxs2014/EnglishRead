@@ -111,14 +111,12 @@ modified: "2026-10-06"
 
 **为什么这样写**：全章最紧张的"岛在动"时刻。作者用三个"移动"的意象（rubble shifted、glass shattered、ground shifted）把"下沉"翻译成了三个感官层面的证据——视觉（rubble）、听觉（glass）、触觉（ground）。而"Could someone truly have been left on the Isle?"是全章最孤独的一句问话——十年没有人，这口钟是谁在敲？
 
-> **原句 12:** "'You ass! This place isn't called the Isle of Teeth because there are bones lying around.'
-'Then why?' Jesson asked.
-They both turned at the sound of a low growl. Not more than a hundred feet away hunched what looked like a large hairless dog with thick scabs of skin that resembled flat pebbles glued together.
-'Because of all the things that want to eat you,' Matiu replied."
+> **原句 12:** "'You ass! This place isn't called the Isle of Teeth because there are bones lying around.' / 'Then why?' Jesson asked. / They both turned at the sound of a low growl. Not more than a hundred feet away hunched what looked like a large hairless dog with thick scabs of skin that resembled flat pebbles glued together. / Something had survived after all. / 'Because of all the things that want to eat you,' Matiu replied."
 
 **中文理解**："你这个笨蛋！这个岛不叫 Isle of Teeth 不是因为地上有骨头散落。"
 "那为什么？"Jesson 问。
 他们同时转向低声咆哮的方向。不到一百英尺外，蹲着一个看起来像大型无毛狗的东西，皮肤上覆着厚厚的鳞片，像粘在一起的扁平鹅卵石。
+毕竟还是有东西活了下来。
 "因为这里所有的东西都想吃掉你，"Matiu 回答。
 
 **关键词**：the Isle of Teeth · hunched what looked like a large hairless dog · Because of all the things that want to eat you

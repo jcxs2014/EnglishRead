@@ -26,6 +26,7 @@ modified: "2026-10-06"
 > **原句 2:** "She knew these truths, yet she smiled."
 
 **中文理解**：她知道这些真相，可她还是笑了。
+**关键词**：She knew these truths · yet she smiled
 
 **为什么这样写**：全章最短的一句，也是全章的定调句，而它的技术是**让转折词"yet"承担一整章的重量**。"She knew these truths, yet she smiled."（她知道这些真相，可她还是笑了。）——**"these truths"（这些真相）指的是前一段那两种死法，而"smiled"（笑了）是本章剩下的全部内容。** 而这一句与 ch28 结尾"她放弃了挣扎、迎接黑暗"形成直接的反向：**上一章她倒下，这一章她笑着带人去看她的石头。**
 
@@ -174,6 +175,7 @@ modified: "2026-10-06"
 > **原句 19:** "He looked down at her lips and quivered, but didn't move."
 
 **中文理解**：他低头看她的嘴唇，抖了一下，但没有动。
+**关键词**：looked down at her lips · quivered, but didn't move
 
 **为什么这样写**：全章最短也最精确的一句，而它的技术是**让"抖"和"不动"同时发生**。"He looked down at her lips and quivered, but didn't move."（他低头看她的嘴唇，抖了一下，但没有动。）——**"quivered"（颤抖）说明他想，"but didn't move"（但没有动）说明他不肯。** 而这一句与 ch28 里他那个"微小的畏缩"是同一个身体**在做同一个动作**——**只是一个是对她的血，一个是对她的嘴唇。**
 
@@ -324,6 +326,7 @@ modified: "2026-10-06"
 > **原句 37:** "She blew the whistle and Calyx crumpled."
 
 **中文理解**：她吹响哨子，Calyx 倒下了。
+**关键词**：She blew the whistle · Calyx crumpled
 
 **为什么这样写**：全章的末句，也是全书最短的章末句之一，而它的技术是**让全章的所有温柔在一个句号里作废**。"She blew the whistle and Calyx crumpled."（她吹响哨子，Calyx 倒下了。）——**七个词，两个动作，一个"and"。** 而"crumpled"（瘫倒、揉皱）**这个词在全书里形容过的是"倒塌的墙"**（ch29 末句"他心里的那些墙全塌了"用的是"crumbled"）：**她不是被打倒了，她是像纸一样被揉皱了。** 而这一句的主语是"她"（Estrella），宾语是"Calyx"——**而"Calyx"这个名字在本书里第一次被用作一个被动动词的宾语。**
 

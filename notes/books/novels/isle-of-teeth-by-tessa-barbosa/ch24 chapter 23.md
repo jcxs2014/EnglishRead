@@ -72,6 +72,7 @@ modified: "2026-10-06"
 > **原句 7:** "Delia pointed at Calyx's hair. 'We need to do something with this too. Girls don't usually wear their hair loose outside the home,' Delia explained. Calyx realized it must be why she'd been mistaken for a boy. 'I prefer it this way.' Calyx pulled her hair over her shoulders to hide her missing ears, and Delia made no more mention of it."
 
 **中文理解**：Delia 指着 Calyx 的头发。"这个也得处理一下。女孩在家里以外通常不散着头发。"Delia 解释道。Calyx 意识到这一定就是她被误认成男孩的原因。"我更喜欢这样。"Calyx 把头发拉到肩上遮住她失踪的耳朵，而 Delia 没有再提这件事。
+**关键词**：Girls don't usually wear their hair loose outside the home · mistaken for a boy · I prefer it this way · made no more mention of it
 
 **为什么这样写**：全章最温柔的一处"体贴"，而它的技术在于**一个动词的时态**。"Delia made no more mention of it"（Delia 没有再提这件事）——**"no more"（不再）说明 Delia 在这一秒就明白了。** 而 Calyx 的回答是"I prefer it this way"（我更喜欢这样），**她没有解释理由，也没有撒谎**，只是做了一个动作（把头发拉到肩上）。**这是本书里两个女孩之间最默契的一次交流，而她们一句真话都没说。**
 

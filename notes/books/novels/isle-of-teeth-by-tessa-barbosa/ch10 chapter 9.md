@@ -69,9 +69,9 @@ modified: "2026-10-06"
 
 **读者视角提示**：这一句与 ch01 里 Estrella 的"Reckoning"叙事形成呼应——ch01 里是 Lyssian 视角的"叛乱"，ch10 里是归骸者视角的"屠杀"。两个视角合在一起才揭示了"Reckoning"的完整真相。
 
-> **原句 7:** "The boy gripped a rifle in his white-knuckled hands, and he looked past her as though searching for someone else. A scar marred his lip, and his hair was cut too short, as if he'd carelessly picked a razor to it. The effect rendered him something other than beautiful. Still, Calyx couldn't help staring. That sense of familiarity nagged at her, though she still could not place him."
+> **原句 7:** "The boy gripped a rifle in his white-knuckled hands, and he looked past her as though searching for someone else. A scar marred his lip, and his hair was cut too short, as if he'd carelessly taken a razor to it. The effect rendered him something other than beautiful. Still, Calyx couldn't help staring. That sense of familiarity nagged at her, though she still could not place him."
 
-**中文理解**：那个男孩用发白的指关节握着一把步枪，他越过她看过去，像是在找别人。一道伤疤损毁了他的嘴唇，他的头发被剃得太短了，好像他漫不经心地选择了剃刀。这个效果让他看起来不那么漂亮了。但 Calyx 忍不住盯着他看。那种熟悉感在她心里作祟，尽管她仍然不能把他放在任何记忆里。
+**中文理解**：那个男孩用发白的指关节握着一把步枪，他越过她看过去，像是在找别人。一道伤疤损毁了他的嘴唇，他的头发被剃得太短了，好像他漫不经心地拿剃刀剃过。这个效果让他看起来不那么漂亮了。但 Calyx 忍不住盯着他看。那种熟悉感在她心里作祟，尽管她仍然不能把他放在任何记忆里。
 
 **关键词**：white-knuckled hands · A scar marred his lip · That sense of familiarity nagged at her
 

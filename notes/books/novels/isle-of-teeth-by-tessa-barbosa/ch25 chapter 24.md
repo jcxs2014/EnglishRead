@@ -128,6 +128,7 @@ modified: "2026-10-06"
 > **原句 13:** "Matiu held his breath as his father turned over in the bed. Jaothan did not open his eyes to glimpse Matiu hovering above him. He remembered his father gripping his arm tight, syringe in hand. 'This won't hurt at all, my boy,' Jaothan would say. 'Just don't look at the needle. Stay still.'"
 
 **中文理解**：Matiu 屏住呼吸，父亲在床上翻了个身。Jaothan 没有睁开眼睛看他悬在自己上方。他记得父亲紧紧抓住他的手臂，手里拿着注射器。"这一点都不疼，我的孩子。"Jaothan 会说。"别看针头。别动。"
+**关键词**：Matiu held his breath as his father turned over in the bed · gripping his arm tight, syringe in hand · This won't hurt at all, my boy · Just don't look at the needle. Stay still.
 
 **为什么这样写**：全章最残忍的一次结构安排，而它的技术是**让台词在两代人之间倒转**。"'This won't hurt at all, my boy,' Jaothan would say. 'Just don't look at the needle. Stay still.'"（"这一点都不疼，我的孩子。别看针头。别动。"）——**同一句话，同一支针，同一块皮肤，只是施与者换了人。** 而"would say"（会说）这个过去习惯时态说明**这不是一次，是一段被重复的童年**。**而作者在本章最重要的手法是：他从不评论。**
 
@@ -136,6 +137,7 @@ modified: "2026-10-06"
 > **原句 14:** "His father was a liar. It didn't matter if Matiu looked at the needle or not. Sometimes the drug swept through his body like a wildfire, burning hot as it crept through his veins as paralysis set in. Sometimes it slid through his body like slow-moving shards of ice, as though he were turning into crystal from the inside out. He could see, he could feel, but he couldn't move an inch to scream."
 
 **中文理解**：他父亲是个骗子。Matiu 看不看针头根本没有区别。有时那药像野火一样扫过他的身体，随着瘫痪降临，灼热地爬过他的血管。有时它像缓慢移动的冰片一样滑过他的身体，仿佛他从里往外正在变成水晶。他看得见，他能感觉，但他动不了一寸，喊不出来。
+**关键词**：His father was a liar · like a wildfire · like slow-moving shards of ice · He could see, he could feel, but he couldn't move an inch to scream
 
 **为什么这样写**：全章最恐怖的一段，而它的技术是**用两组对立的比喻形容同一种痛苦**。"like a wildfire"（像野火）与"like slow-moving shards of ice"（像缓慢移动的冰片）——**一个灼热、一个冰冷，而它们是同一种药**。而"as though he were turning into crystal from the inside out"（仿佛他从里往外正在变成水晶）这个比喻**把 ch22 里 Matiu 对第二支针管的恐惧具象化了**。而最后一句"He could see, he could feel, but he couldn't move an inch to scream"（他看得见，他能感觉，但他动不了一寸，喊不出来）**是全章对"瘫痪"最精确的定义——而被瘫痪的人是清醒的。**
 

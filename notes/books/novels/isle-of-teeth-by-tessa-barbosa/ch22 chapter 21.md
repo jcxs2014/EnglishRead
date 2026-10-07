@@ -129,6 +129,8 @@ modified: "2026-10-06"
 
 **中文理解**："我父亲是个生理学家。"他说。"他一生的热情就是理解身体怎么运作。他总是对如何把身体拆开再拼回去着迷得没完没了。"他用手指在地上划着灰尘。
 
+**关键词**：His life's passion is to understand how bodies work · endlessly fascinated with how to take bodies apart and put them back together · He trailed his finger through the dust in the floor
+
 **为什么这样写**：全章最冷的一次自我剖白，而它的温度由一个**具体动作**决定。"He trailed his finger through the dust in the floor"（他用手指在地上划着灰尘）——**在他说出关于父亲的最重的话时，他的手在做一件毫无意义的小事。** 而"endlessly fascinated with how to take bodies apart and put them back together"（对如何把身体拆开再拼回去着迷得没完没了）——**这句话同时是对父亲的描述，和对自己的描述**：**他此刻也在"拆开"Calyx（问她的伤、她的手、她的病），只不过他用的是问题而不是刀。**
 
 > **原句 14:** "'The rest of my family is there.' She looked into the distance. 'And it's safer for you humans if we stay away.'"

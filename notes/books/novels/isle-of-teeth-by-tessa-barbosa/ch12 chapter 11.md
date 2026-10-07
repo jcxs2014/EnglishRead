@@ -77,6 +77,8 @@ modified: "2026-10-06"
 
 **中文理解**：Sepal 用一把沉重的钥匙锁上了门。三天后，他们吃光了所有蛆虫，开始吃蟋蟀。连蟋蟀也吃完了，她知道如果出不去，他们就会死在那里。Calyx 用一根别针戳锁，摆弄那个机械装置好几天。奇迹般地，锁终于泄露了它的秘密……
 
+**关键词**：eaten all the maggots and had moved on to the crickets · they would die there · poked the lock with a pin · fiddled with the mechanism for days
+
 **为什么这样写**：全章最残酷的一段的生存记录。作者没有写"他们饿了三天"，而是写了**具体吃了什么**：蛆虫、蟋蟀、然后什么都没有了。这种"食物清单式的递减"比任何形容词都更有效。而"fiddled with the mechanism for days"（摆弄那个装置好几天）是全书 Calyx 最核心的人物特质——**她不是靠力量活下来的，她是靠"读书"活下来的。** 她读实验室的书，所以她懂机械。
 
 **读者视角提示**：这一句是全书对 Calyx"知识救了她"最直接的一次呈现，也解释了 ch06 里她为什么说"书给了我另一种自由"——书不只是让她认识世界，书让她撬开了锁。

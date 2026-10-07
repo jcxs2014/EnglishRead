@@ -72,12 +72,14 @@ modified: "2026-10-06"
 > **原句 7:** "'Lady, you've been drugged.' Leo cursed. Apparently, too much time with the Songi seemed to rub off on everyone."
 
 **中文理解**："夫人啊，你被下药了。"Leo 骂了一句。显然，和 Songi 人待久了，好像谁都会被传染。
+**关键词**：Lady, you've been drugged · too much time with the Songi seemed to rub off on everyone
 
 **为什么这样写**：全章的喜剧调剂，而它的技术是**让一个 Lyssian 少爷脱口喊出 Songi 的神**。"Lady, you've been drugged."（夫人啊，你被下药了。）——**这句感叹词就是全句的笑点**：**一个以科学自居的 Lyssian 人在紧急时刻叫的是"夫人"。** 而"too much time with the Songi seemed to rub off on everyone"（和 Songi 人待久了，好像谁都会被传染）是**叙述者的一次调笑**，而本书很少让叙述者开这种玩笑——**它标记了本章是全书最"有人味"的一章。**
 
 > **原句 8:** "'You need to get out of town, Matiu.' Leo collected the cup and inspected its contents, before shoving it back at Matiu. 'Drink more.'"
 
 **中文理解**："你得离开城里，Matiu。"Leo 收回杯子，检查了一下里面的东西，又把它塞回给 Matiu。"再喝点。"
+**关键词**：You need to get out of town · inspected its contents · Drink more.
 
 **为什么这样写**：全章最实用的一次对话，而它的技术是**让"劝人逃命"和"逼人喝药"同时进行**。"You need to get out of town"（你得离开城里）与"Drink more."（再喝点。）——**两句之间的动作是"收回杯子、检查、塞回去"，也就是 Leo 在判断药效。** 这个又救人又管人的姿态是本章 Leo 的全部定义。
 
@@ -244,6 +246,7 @@ modified: "2026-10-06"
 > **原句 27:** "'I went to the hospital, and Leo asked me to make sure you were safe.' Arnel looked torn. 'We need to go.'"
 
 **中文理解**："我去了医院，Leo 让我确保你安全。"Arnel 看起来很难受。"我们得走了。"
+**关键词**：Leo asked me to make sure you were safe · Arnel looked torn · We need to go.
 
 **为什么这样写**：全章对人物矛盾最精确的一次刻画，而它的技术是**用两个词写两难**。"Arnel looked torn."（Arnel 看起来被撕开了。）——**"torn"（撕裂）这个分词同时形容他的表情和他的处境**：**他既要救人，又知道这个人是 Frankel 家的人。** 而"Leo asked me to make sure you were safe"（Leo 让我确保你安全）**解释了本章前文 Leo 那句"别把麻烦带给 Agueda 家"的真实含义**：**Leo 赶走 Matiu 之后还是派人去找他了。**
 

@@ -29,6 +29,8 @@ modified: "2026-10-06"
 
 **中文理解**：老鼠僵在原地排成一排，等候他的命令。
 
+**关键词**：Mice stood frozen in a single row · awaited his command
+
 **为什么这样写**：全章最怪、也最有效的一个画面。作者用"awaited his command"（等候他的命令）把 Matiu 变成了一个**会指挥动物的东西**——这与 ch02 里他唱歌控制生物、ch05 里他的梦歌控制 Lukan 是同一条线。而"frozen in a single row"（僵在原地排成一排）这个"列队"的细节很重要：**动物对他的服从是军事化的。** 紧接着他的反应是"Scram!"（滚开！）——**他不需要这个能力，他只想睡个觉。**
 
 > **原句 3:** "Matiu preferred the military because all the thinking was done for him. The rules made it clear what was appropriate and what was not. He never had to guess what might be polite or what might be misconstrued. He stayed busy. And at night he was always too tired for the nightmares."
@@ -44,6 +46,8 @@ modified: "2026-10-06"
 > **原句 4:** "Sketched out were dresses as fanciful as peonies and spun as finely as spiderwebs. The suits she designed were rich in embroidery and colors that Leo would covet. These were dresses and coats for a future that Martinel seemed poised to turn away from if war truly broke out."
 
 **中文理解**：草图上的裙子像牡丹一样奇巧，织得像蜘蛛网一样精细。她设计的西装满是刺绣和 Leo 会觊觎的颜色。这些是为一个未来做的衣裙——如果战争真的爆发，Martinel 似乎正要背弃那个未来。
+
+**关键词**：as fanciful as peonies and spun as finely as spiderwebs · colors that Leo would covet · a future that Martinel seemed poised to turn away from
 
 **为什么这样写**：全章最重要的一个隐喻，而它的力量来自**衣服被赋予了时间**。"a future that Martinel seemed poised to turn away from"（一个 Martinel 似乎正准备背弃的未来）——**Delia 的裙子不是消费品，是对"和平会继续"的赌注。** 作者用两个比喻定义这些设计的品质（牡丹的奇巧、蜘蛛网的精细），然后用战争把它们全部作废。"Leo would covet"（Leo 会觊觎）这个细节也很精确：**Leo 是 Lyssian 富家子，也就是说这些 Songi 设计的水准高到帝国自己人想要。**
 
@@ -72,6 +76,8 @@ modified: "2026-10-06"
 > **原句 7:** "He finished his meal with military efficiency and noted that there was more sauce than meat in the dish. The Aguedas might not be doing as well as they seemed."
 
 **中文理解**：他以军人的效率吃完了饭，并注意到这道菜里酱比肉多。Agueda 一家可能没有看起来那么宽裕。
+
+**关键词**：military efficiency · more sauce than meat in the dish · might not be doing as well as they seemed
 
 **为什么这样写**：全章最克制的一笔，也是全书对 Matiu 观察力最经济的一次展示。作者只用"酱比肉多"这一个细节，就交代了整个家庭的经济状况——**而这一家人前几天还在用节庆礼数喂了他四顿。** 这一句也为后文"Manalo 家的米仓被没收，很快会很难买到米"做了铺垫。**Matiu 是军人，读补给线是他的本行；他在这里读的是他恩人的餐桌。**
 
@@ -139,6 +145,8 @@ modified: "2026-10-06"
 
 **中文理解**："你凭什么觉得别人会信你，哪怕一分钟？"Delia 问。她的父母没有反驳她。她问得对。
 
+**关键词**：even for a minute? · Her parents did not contradict her · She was right to ask.
+
 **为什么这样写**：全章最诚实的一句，也是对前面所有质疑的最终裁定："**She was right to ask.**"（她问得对。）作者让叙述者站在 Delia 那边——**包括站在她的父母那边（他们没有反驳她）。** 这个句子的重要性在于，它没有给 Matiu 任何辩解的空间：不是"她太苛刻"，不是"她误会了"，而是**她完全正确，而他必须接受这一点。**
 
 **读者视角提示**：这一句与全章结尾 Marcel 的"Someone has to give him a chance"形成完整的道德结构——**先承认质疑是对的，再给出一个不是基于信任而是基于审判的机会。**
@@ -157,6 +165,8 @@ modified: "2026-10-06"
 
 **中文理解**："Delia，你为什么不带他去丰收仪式？"Marcel 说。"让我们的祖先来审判他。"
 
+**关键词**：take him to the harvest ceremony · Let our ancestors judge him.
+
 **为什么这样写**：全章的收束，也是本书最优雅的一次结构安排。Marcel 没有说"我相信他"，也没有说"他可以留下"——他说"**让我们的祖先审判他**"。这个决定同时做到了四件事：**（1）不牺牲家人的安全**、**（2）给 Matiu 一个机会**、**（3）把判断权交给宗教权威而不是个人**、**（4）让 Delia 当监督者。** "ancestors"（祖先）这个词把决策从"政治"转移到"信仰"上——**Matiu 要通过的不是 Delia 的考验，是 Songi 的祖宗们的考验。**
 
 **读者视角提示**：这一句与 ch03 里 Calyx 在神庙钟楼发现的"召唤死神仪式"、ch12 里瞎眼贩子按丰收节习俗送糯米糕形成 Songi 宗教的三次出现。**丰收节是本书第一次让 Matiu 直接进入母亲的宗教。**
@@ -174,6 +184,8 @@ modified: "2026-10-06"
 > **原句 18:** "If it was Lady Death he had to please, Matiu would have no problem. They were well acquainted."
 
 **中文理解**：如果他要讨好的是 Lady Death，Matiu 不会有问题。他们相当熟。
+
+**关键词**：If it was Lady Death he had to please · They were well acquainted.
 
 **为什么这样写**：全书的章末句里最带黑色幽默的一句，而它同时是一句**双重真话**：字面上他说自己和死神熟（他 Reckoning 那晚活下来了，见过她）；潜台词上他在说**他宁可面对神也不愿意面对人**。而"well acquainted"（相当熟）这个措辞很克制——不是"我喜欢她"，是"我们打过交道"。**Matiu 在本章学会的是和人打交道，而他承认自己更擅长和死神打交道。**
 

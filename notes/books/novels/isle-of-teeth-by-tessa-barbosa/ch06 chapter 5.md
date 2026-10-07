@@ -75,9 +75,9 @@ modified: "2026-10-06"
 
 **为什么这样写**：全章最暴力的时刻。"jumped to her feet"（跳起来）是"病发"的标志，身体不是"缓慢反应"而是"猛地跳起"。而"a jar smashed into the space where her head had been"是全书最冷的一句"死里逃生"——玻璃罐砸在 Calyx 原本头颅的位置，她"刚刚"滚开了。读者知道她活下来了，但这是靠运气，不是靠掌控。
 
-> **原句 8:** "It was happening again. Sepal reminded her of Carpel the day he rampaged across the Isle of Teeth. Songi joined Carpel in his rampage. They took the violence as a sign from the Goddess. To the Lyssians, the day was nothing more than a failed rebellion. But to Calyx, it was always the day that the humans abandoned them."
+> **原句 8:** "It was happening again. Sepal reminded her of Carpel the day he rampaged across the Isle of Teeth. Songi rebels joined Carpel in his rampage. They took the violence as a sign from the Goddess. To the Lyssians, the day was nothing more than a failed rebellion. But to Calyx, it was always the day that the humans abandoned them."
 
-**中文理解**：它又一次发生了。Sepal 让 Calyx 想起 Carpel 那天席卷全岛的样子。Songi 人加入了 Carpel 的肆虐。他们把这场暴力当作女神的征兆。对 Lyssians 来说，那天不过是失败的叛乱。但对 Calyx 来说，那永远是"人类抛弃了我们的那一天"。
+**中文理解**：它又一次发生了。Sepal 让 Calyx 想起 Carpel 那天席卷全岛的样子。Songi 叛军加入了 Carpel 的肆虐。他们把这场暴力当作女神的征兆。对 Lyssians 来说，那天不过是失败的叛乱。但对 Calyx 来说，那永远是"人类抛弃了我们的那一天"。
 
 **关键词**：It was happening again · rampage · nothing more than a failed rebellion · the humans abandoned them
 
