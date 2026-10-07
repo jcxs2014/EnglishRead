@@ -47,6 +47,12 @@ for md in sorted(B.glob('ch*.md')):
         if line.startswith('> ') or line.startswith('|') or line.strip().startswith('#') \
            or line.startswith('状态:') or line.startswith('modified:') or line.startswith('---'):
             continue
+        # 2026-10-07 修假红（life-in-three-dimensions d 步实证，17 条同源）：
+        # `- **出处**：` 行是**书目元数据**（封面/版权页上的书名副标题），不是分析层引文。
+        # `text/` 只装正文各章，封面行天然不在语料里 ⇒ 逐词判据必报 `fuller` 之类未命中。
+        # 已核版权页：该副标题逐字无误，属**假红型**（先修工具，不改 md）。
+        if line.lstrip().startswith('- **出处**'):
+            continue
         for m in EN.finditer(line):
             frag=m.group(0)
             if len(re.sub(r'[^a-z0-9]','',frag.lower()))<20: continue
