@@ -35,7 +35,7 @@ modified: "2026-10-07"
 
 1. **本章的「故事编辑」与「经验本身」互相拉扯，而作者把结论压在后者上却没有给出权重**。前半章用四组研究论证换个讲法能改变表现与人生轨迹（Duke 组 GPA 实际提升 .34、转出率 5% 对 25%），结尾却写「The bottom line is not how you tell a story per se, but what kinds of experiences you actually have」，并补一句「You can't make an uneventful life psychologically rich.」——后者直接取消了前半章的可操作空间，而作者没有说明两件事各占多少分量，也没说明在什么条件下编辑是有效的、什么条件下只是自我安慰。
 2. **支撑「chump to champ」的关键证据全是自我报告，而作者在同一节里承认它无法校验**。横断研究让 49 岁的父母回忆自己十六岁、二十岁、三十五岁时的开明程度与自信程度；作者自己写下「the parents in the study might have indeed been less socially skilled and lacking self-confidence when they were young. There's no way to know for sure.」纵向研究把对照收紧到两个月前，但对照项仍然是被试当时的自评，不是外部记录。也就是说，本章最核心的「人在编辑过去」这一断言，其证据与它所要解释的现象来自同一个不可校验的报告源。
-3. **Duke 实验的效应被同时归给两个不同机制，而二者在实验里没有分离**。接受干预的一组同时看到学长谈逆袭的访谈录像**和**「67% said their freshman grades were lower than they had anticipated; 62%… had improved significantly」这两个基率数字。后文作者给出的解释是「having a role model—knowing someone who went through similar, but ended up successful」，指向具体的榜样；可另一半证据指向的是统计常态（大多数人都不如意、大多数人后来都进步了），两者在干预内容中被捆在一起投放，实验设计无法分辨是哪一种在起作用。
+3. **Duke 实验的效应被同时归给两个不同机制，而二者在实验里没有分离**。接受干预的一组同时看到学长谈逆袭的访谈录像**和**「67% said their freshman grades were lower than they had anticipated; 62%… had improved significantly」这两个基率数字。后文作者给出的解释是「having a role model—knowing someone who went through similar, tough experiences but ended up successful」，指向具体的榜样；可另一半证据指向的是统计常态（大多数人都不如意、大多数人后来都进步了），两者在干预内容中被捆在一起投放，实验设计无法分辨是哪一种在起作用。
 
 ## 选择性精读
 
@@ -103,7 +103,7 @@ modified: "2026-10-07"
 
 - 中文理解：所有参与者先填一份问卷，然后做一简版 GRE 语文阅读与字母易位词题，一周后再做另一版 GRE 语文阅读与字母易位词题。／其中一半人观看了一段由高年级学生谈自己一年级成绩差、后来如何逐步提升的访谈。一位受访者说自己的 GPA 从 2.0 升到 2.6 再升到 3.2。实验组还看到高年级学生的调查结果：「67% 说自己一年级的成绩低于预期；62% 说自己的 GPA 从一年级上半学期到高年级阶段有显著提升。」
 
-- 句子结构：干预内容用三层并列铺开：访谈录像（an interview with upper-class students talking about…，talking about 是现在分词作后置定语）→ 具体个人的数字（his GPA increased from 2.0 to 2.6 to 3.2）→ 抽象基率（67% said…; 62% of the students said…，两个分号并列的 that 宾语从句，第二个 that 明写、第一个省略）。因变量那一长句以 All the participants completed A, then B, and another version of C one week later 的顺序结构串起三个测量时点（问卷、当天的简版、一周后的另一版）。
+- 句子结构：干预内容用三层并列铺开：访谈录像（an interview with upper-class students talking about…，talking about 是现在分词作后置定语）→ 具体个人的数字（his GPA increased from 2.0 to 2.6 to 3.2）→ 抽象基率（67% said…; 62% of the students said…，由一个分号并列的两个从句，两处 said 之后的宾语从句都省略了引导词 that，原文没有明写的 that）。因变量那一长句以 All the participants completed A, then B, and another version of C one week later 的顺序结构串起三个测量时点（问卷、当天的简版、一周后的另一版）。
 
 - 关键词：**did poorly in their first year but improved over time**（一年级表现差但后来逐步提升）；**67% said their freshman grades were lower than they had anticipated**（67% 说一年级的成绩低于预期）
 
@@ -145,13 +145,13 @@ modified: "2026-10-07"
 
 - 表达方式：**用财务隐喻把经验变成资产**。冒险被说成挣来的钱，反刍被说成储蓄，不反思则被说成挥霍；比喻自带算术，读者不必理解记忆巩固的机制就能得出结论。
 
-- 为什么这样写：**作者要用它回答一个不好解释的反常结果**：感觉寻求者经验明显更多，为什么并不比常人更心理丰富。这一节给出的答案是「积累」环节缺失——不反思、不复述、不巩固，经验就只是一次性的刺激。这个区分对本章至关重要，它把「丰富」从发生学概念改成会计学概念：入账的才算数。而它同时回扣全书的第三个要素（渐进性深化），也让第 5 节关于日记、相册、书写疗法的建议有了统一的功能定位——它们都是储蓄手段，而不是记录手段。
+- 为什么这样写：**作者要用它回答一个不好解释的反常结果**：感觉寻求者经验明显更多，为什么并不比常人更心理丰富。这一节给出的答案是「积累」环节缺失——不反思、不复述、不巩固，经验就只是一次性的刺激。这个区分对本章至关重要，它把「丰富」从发生学概念改成会计学概念：入账的才算数。而它同时回扣 ch09 提出的那条「积累」条件（心理丰富度需要有意思经历的积累，记忆是关键），也让第 5 节关于日记、相册、书写疗法的建议有了统一的功能定位——它们都是储蓄手段，而不是记录手段。
 
 **⑩** "The bottom line is not how you tell a story per se, but what kinds of experiences you actually have, whether you reflect on them, and whether you can keep them in your psychological memorabilia box."
 
 - 中文理解：底线不在于你如何讲述故事本身，而在于你实际拥有过哪些种类的经验、你有没有对它们加以反思、以及你能不能把它们留在自己的心理纪念品盒子里。
 
-- 句子结构：主语 The bottom line，系动词 is，表语由 not A but B 结构给出：not how you tell a story per se（per se 作后置限定，意为「就讲述本身而言」），but what kinds of experiences you actually have（what 引导的名词性从句作表语），其后 whether you reflect on them 与 whether you can keep them… 两个并列的名词性从句继续扩展表语；keep 的双宾语结构是 keep them in your psychological memorabilia box。
+- 句子结构：主语 The bottom line，系动词 is，表语由 not A but B 结构给出：not how you tell a story per se（per se 作后置限定，意为「就讲述本身而言」），but what kinds of experiences you actually have（what 引导的名词性从句作表语），其后 whether you reflect on them 与 whether you can keep them… 两个并列的名词性从句继续扩展表语；keep them in your psychological memorabilia box 是「谓语 keep＋宾语 them＋介词短语 in your psychological memorabilia box 作处所成分」的结构，不是双宾语（keep 在这里只带一个宾语）。
 
 - 关键词：**not how you tell a story per se**（不是讲述本身）；**what kinds of experiences you actually have**（你实际拥有过哪些经验）；**your psychological memorabilia box**（你的心理纪念品盒子）
 
@@ -208,4 +208,4 @@ modified: "2026-10-07"
 
 ## 一句话总结
 
-**心理丰富度与你拥有多少个有趣故事、这些故事讲得好不好直接挂钩，因此「会讲自己的故事」是一种可以练的能力：Tim Wilson 的 story editing 教你把 G.W. Bush 的耶鲁岁月从「名门逆子」讲成「legacy 学生第一次被鄙视因而必须自证」；Wilson 与 Ross 发现 49 岁的父母把自己十六岁的评分一路抬到现在的 7.47，而纵向追踪把这件事坐实——九月自评 6.35，两个月后回想九月却只给 5.74，记忆里的过去比当时的实况更差。这种编辑不止改变感受：Duke 里只看了一段学长逆袭访谈和两个百分号的学生，一学期后 GPA 实际提高 .34（对照组下滑 .05），两年内转走的比例是 5% 对 25%；十年级学生只要听说爱因斯坦为统一电磁与引力挣扎了人生最后二十五年，就对科学更感兴趣、概念记得更牢。但作者亲手划下两道边界。一是客观绩效难以编辑——跑不过十年前的人没法讲「chump to champ」，本章恰恰要靠作用在客观成绩上的实验来反过来证明编辑有用。二是底线不在讲述：You can't make an uneventful life psychologically rich，真正决定的是你实际发生过什么、有没有回头反刍、以及留不留得住——感觉寻求者经验最多却未必更丰富，只因他们像通宵狂欢的百万富翁，把冒险当现钱花光而没存进心理的纪念品盒子。**
+**心理丰富度与你拥有多少个有趣故事、这些故事讲得好不好直接挂钩，因此「会讲自己的故事」是一种可以练的能力：Tim Wilson 的 story editing 教你把 G.W. Bush 的耶鲁岁月从「名门逆子」讲成「legacy 学生第一次被鄙视因而必须自证」；Wilson 与 Ross 发现 49 岁的父母把自己十六岁的评分一路抬到现在的 7.47，而纵向追踪把这件事坐实——九月自评 6.35，两个月后回想九月却只给 5.74，记忆里的过去比当时的实况更差。这种编辑不止改变感受：Duke 里只看了一段学长逆袭访谈和两个百分号的学生，从大一第一学期到大二第二学期 GPA 实际提高 .34（对照组下滑 .05），两年内转走的比例是 5% 对 25%；十年级学生只要听说爱因斯坦为统一电磁与引力挣扎了人生最后二十五年，就对科学更感兴趣、概念记得更牢。但作者亲手划下两道边界。一是客观绩效难以编辑——跑不过十年前的人没法讲「chump to champ」，本章恰恰要靠作用在客观成绩上的实验来反过来证明编辑有用。二是底线不在讲述：You can't make an uneventful life psychologically rich，真正决定的是你实际发生过什么、有没有回头反刍、以及留不留得住——感觉寻求者经验最多却未必更丰富，只因他们像通宵狂欢的百万富翁，把冒险当现钱花光而没存进心理的纪念品盒子。**

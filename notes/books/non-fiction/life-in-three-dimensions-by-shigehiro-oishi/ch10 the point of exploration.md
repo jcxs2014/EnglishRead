@@ -62,13 +62,13 @@ modified: "2026-10-07"
 
 - 表达方式：**用两对数字搭起一个干净的实验梯度**。50% 差别对 10% 差别，十次跳跃对四十次以上；不讲任何理论，斜率自己就出来了——差别越小，探索越多。
 
-- 为什么这样写：**作者需要一个不受文化、动机、自我欺骗污染的样本**。本章要论证的是人探索不足，而这类论证最大的风险是被读成道德批评（你懒、你怕）。把大山雀放在最前面，就把探索量变成了一道可计算、可测量、可由动物完美做到的题；人随后所有的偏离因此不再是性格缺陷，而是策略误差。此外 exploited 一词的引号是本章术语系统的锚点：全书后面几章反复用 explore-then-exploit 这组对立项，此处是它第一次被定义。
+- 为什么这样写：**作者需要一个不受文化、动机、自我欺骗污染的样本**。本章要论证的是人探索不足，而这类论证最大的风险是被读成道德批评（你懒、你怕）。把大山雀放在最前面，就把探索量变成了一道可计算、可测量、可由动物完美做到的题；人随后所有的偏离因此不再是性格缺陷，而是策略误差。此外 exploited 一词的引号是本章术语系统的锚点：连字符形态的 explore-then-exploit 全书只出现在本章，本章后文继续沿用这组对立项，此处是它第一次被定义。
 
 **③** "Shockingly, the great tits’ choices were almost identical to the ideal simulated behaviors. That is, great tits instinctively used an ideal, explore-then-exploit foraging strategy and adjusted the degree of exploration depending on the levels of food availability in different patches."
 
 - 中文理解：令人震惊的是，大山雀的选择与理想模拟行为几乎完全相同。也就是说，大山雀本能地使用了一种理想的、先探索后利用的觅食策略，并根据不同觅食点上食物可得性的水平来调节探索的程度。
 
-- 句子结构：首句主干 the great tits' choices were almost identical to the ideal simulated behaviors，Shockingly 前置；次句以 That is 起头作解释性同位，主语 great tits，instinctively 与 ideally 两个副词分别修饰动词与形容词，谓语是 used… and adjusted… 的并列，adjusted 后接 the degree of exploration depending on… 的分词短语作条件状语。
+- 句子结构：首句主干 the great tits' choices were almost identical to the ideal simulated behaviors，Shockingly 前置；次句以 That is 起头作解释性同位，主语 great tits，instinctively 是副词修饰谓语 used，ideal 则是形容词、与 explore-then-exploit 并列共同修饰 foraging strategy（原文并无 ideally 这一副词），谓语是 used… and adjusted… 的并列，adjusted 后接 the degree of exploration depending on… 的分词短语作条件状语。
 
 - 关键词：**almost identical to the ideal simulated behaviors**（与理想模拟行为几乎完全相同）；**instinctively**（本能地）；**explore-then-exploit foraging strategy**（先探索后利用的觅食策略）
 
@@ -98,7 +98,7 @@ modified: "2026-10-07"
 
 - 表达方式：**给相关性套上两道保险再说出结论**。indeed 强调与预测一致，on average 明确这是均值层面的陈述；同时把「探索少」在括号里定义成具体行为（很快结婚），避免读者把它读成性格。
 
-- 为什么这样写：**这是全章唯一一处把探索量与真实人生结局挂钩的证据**，前面都在实验室与模拟里。作者需要它，因为「探索有益」若只停留在卡片翻转任务上就没有说服力。但也正是这一句造出了本章最紧的一处张力：全国数据支持「越多越稳」的单调关系，而上一节 Todd 与 Miller 的修正恰恰说明最优搜索量存在上限（14% 或 3%）。作者用 on average 挡住了因果过度解读，却没有处理两条证据在「该探多少」上的方向冲突——见「可质疑处」第 1 条。
+- 为什么这样写：**这是全章唯一一处把探索量与真实人生结局挂钩的证据**，前面都在实验室与模拟里。作者需要它，因为「探索有益」若只停留在卡片翻转任务上就没有说服力。但也正是这一句造出了本章最紧的一处张力：全国数据支持「越多越稳」的单调关系，而本章后文 Todd 与 Miller 的修正恰恰说明最优搜索量存在上限（14% 或 3%）。作者用 on average 挡住了因果过度解读，却没有处理两条证据在「该探多少」上的方向冲突——见「可质疑处」第 1 条。
 
 **⑥** "The most famous findings from this research were that over half of the couples had lived within twenty blocks of each other before marriage, and that 33.58 percent of them had lived within five blocks or less! Although eligible bachelors and bachelorettes in a large city like Philadelphia have literally hundreds of thousands of potential mates, the majority of them appeared to consider only those who lived close to them. How else would the majority of matches have been made within twenty city blocks? Reflecting upon his findings, Bossard commented, “Cupid may have wings, but apparently they are not adapted for long flights."
 
@@ -122,7 +122,7 @@ modified: "2026-10-07"
 
 - 表达方式：**让数字自己排成一条直线**。linearly 是句子先给的判断，冒号后的四个数则是它的验算；四个片段句式完全一样，读起来就有等间距的感觉。
 
-- 为什么这样写：**这是全章因果链条最要紧的一环**。前面 Festinger 与 Bossard 只能证明住得近的人更可能在一起——那可能只是选择效应；而 Moreland 与 Zajonc 的课堂实验里，出场次数是研究者分配的，四个女性被预先评为同等吸引力。于是「熟悉→好感」第一次成为因果陈述，作者才敢说这些实验为费城与荷兰研究「providing a compelling causal claim」。选定 1–7 分制并逐项列出，也是为了让人看到效应的量级：从 3.62 到 4.38，十二次额外出场换来约一分——真实、可感、但不惊悚。
+- 为什么这样写：**这是全章因果链条最要紧的一环**。前面 Festinger 与 Bossard 只能证明住得近的人更可能在一起——那可能只是选择效应；而 Moreland 与 Zajonc 的课堂实验里，出场次数是研究者分配的，四个女性被预先评为同等吸引力。于是「熟悉→好感」第一次成为因果陈述，作者才敢说这些实验为费城与荷兰研究「providing a compelling causal claim」。选定 1–7 分制并逐项列出，也是为了让人看到效应的量级：从 3.62 到 4.38，十五次额外出场换来约一分——真实、可感、但不惊悚。
 
 **⑧** "Typically, the lowest price participants were willing to sell a possession of their own was twice as much as the highest price they were willing to pay to purchase that same object. For the same mug they paid $5 for, they wanted others to pay $10."
 

@@ -8,7 +8,7 @@ modified: "2026-10-07"
 ## 概览
 
 - **出处**：Life in Three Dimensions: How Curiosity, Exploration, and Experience Make a Fuller, Better Life，Appendix 3
-- **作者**：Shigehiro Oishi（本节是一组虚构通信，父亲（B）的声音自述「在明尼苏达住过四年」「在贝茨学院念书」「日本读大学时成绩不计」「从小看电视相扑长大」——这几条与正文第五、十、七、一章里作者本人的第一人称自述重合；儿子（A）的学校 Carleton 与地名 Northfield 只在本节出现）
+- **作者**：Shigehiro Oishi（本节是一组虚构通信，父亲（B）的声音自述「在明尼苏达住过四年」「在贝茨学院念书」「日本读大学时成绩不计」「从小看电视相扑长大」——前几条与正文第五、十、七、一章里作者本人的第一人称自述重合，「从小看电视相扑长大」这一条则**仅见于本节**（全库 text/ 检索：sumo 只出现在本节的父亲回信里，正文第一、五、七、十章均无对应自述）；儿子（A）的学校 Carleton 与地名 Northfield 只在本节出现）
 - **章节定位**：全书第 17 件（最后一个附录），副题「An Alternative Summary of the Book」已自陈其功能是复述而非新证。体裁在此突变：前十四章是论述，附录一是量表，附录二是一张表，本节是一组四问四答的书信，题头声明它是克尔凯郭尔《或非》的戏仿，新标题作 Neither/Nor
 - **字符数**：约 6,600
 - **一句话主旨**：作者把全书的三条劝告（别做社会比较、失败不要紧、偶尔给现实放个假）全部交给一个父亲的口吻去说，而信里出现的每一位作者（克尔凯郭尔、尼采、海明威、Wilson、Lyubomirsky、Gopnik）都是正文已经引过的那几位——这份「另一种摘要」摘要的是声音而不是证据。
@@ -43,7 +43,7 @@ modified: "2026-10-07"
 
 - 中文理解：下面是我对克尔凯郭尔《或非》的一则戏仿，我给它取的标题是 Neither/Nor（既不／也不），形式是一位儿子（A）与一位父亲（B）之间的想象通信。
 
-- 句子结构：Here is a parody of Kierkegaard’s Either/Or 是全部信息的主干，其后 that I’ve entitled Neither/Nor 是定语从句修饰 parody（entitle 取「给……题名」义，that 是从句里 entitled 的宾语补足语位置上的关系代词）；in the form of imaginary correspondences 作方式状语，between a son (A) and his father (B) 再修饰 correspondences。⚠️ 注意 (A) 与 (B) 是通信双方的代号，而信里的抬头与落款只用 Dad 与 Son，两套称呼并行。
+- 句子结构：Here is a parody of Kierkegaard’s Either/Or 是全部信息的主干，其后 that I’ve entitled Neither/Nor 是定语从句修饰 parody（entitle 取「给……题名」义，关系代词 that 是从句里 entitled 的**宾语**（指 parody），Neither/Nor 才是它的宾语补足语）；in the form of imaginary correspondences 作方式状语，between a son (A) and his father (B) 再修饰 correspondences。⚠️ 注意 (A) 与 (B) 是通信双方的代号，而信里的抬头与落款只用 Dad 与 Son，两套称呼并行。
 
 - 关键词：**a parody of Kierkegaard’s Either/Or**（对《或非》的一则戏仿）；**I’ve entitled Neither/Nor**（我给它取的标题是 Neither/Nor）；**imaginary correspondences**（想象中的通信）；**a son (A) and his father (B)**（儿子（A）与父亲（B））
 
@@ -85,7 +85,7 @@ modified: "2026-10-07"
 
 - 表达方式：**先复制陷阱的语言，再拆它**。四个 Everyone else seems to 用的是儿子的句式（见③里的 They all seem to know what they are doing），父亲把它们逐条重说一遍，好让第五句的否定落在全部四条之上。
 
-- 为什么这样写：这是全书三维主张最压缩的一次现身：Neither happiness nor meaning is the only path to a good life 一句就把第一、二章的结论并列置否，而它后面立刻跟的是人生很长而不是任何证据。⚠️ 「first of all」暗示还有 second、third，父亲确实在下一封信里补了 Second, it is OK to fail——两条安慰都不是论证而是时序与概率（你才十八，人生很长；一次 B 不会要命）。本节作为「摘要」交出的是这两条的口语版本，可测量的那一层（附录一、二）在这里一次都没被提起。
+- 为什么这样写：这是全书三维主张最压缩的一次现身：Neither happiness nor meaning is the only path to a good life 一句就把第一、二章的结论并列置否，而它后面立刻跟的是人生很长而不是任何证据。⚠️ 「first of all」暗示还有 second、third，父亲在**同一封信的下一段**里就补了 Second, it is OK to fail（这段仍是那封 Dear Son 回信里的下一个自然段，往后那封 Dear Dad 才是儿子写的）——两条安慰都不是论证而是时序与概率（你才十八，人生很长；一次 B 不会要命）。本节作为「摘要」交出的是这两条的口语版本，可测量的那一层（附录一、二）在这里一次都没被提起。
 
 **⑤** "After looking at my first-semester grades, my advisor Professor Nakano said, “君も低空飛行ですね。You, too, are flying pretty low,” and laughed. The key word? “Too.” I was not alone. Other advisees were struggling, too. I found hope in that word."
 

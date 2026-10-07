@@ -42,7 +42,7 @@ modified: "2026-10-07"
 
 - 中文理解：如果我走，前方有麻烦；如果我留，麻烦要double（翻倍）。这是全书题目的出处，也是全书的开场姿态——作者一开口就把「留下 vs. 离开」摆成一道两面都设陷阱的题，而不是一道有标准答案的选择题。
 
-- 句子结构：两个并列的条件状语从句（If I go there will be trouble / And if I stay it will be double），各由主句省略主语构成；第二句在前句基础上把后果加重。原文在书中排成诗行两行，中间隔一个空行。
+- 句子结构：两个并列的条件句（If I go there will be trouble / And if I stay it will be double），各由 if 条件从句＋主句构成——两个主句的主语分别是 there 与 it，并未省略；第二句在前句基础上把后果加重。原文在书中排成诗行两行，中间隔一个空行。
 
 - 关键词：**there will be trouble**（会有麻烦）；**it will be double**（会翻倍）
 
@@ -90,7 +90,7 @@ modified: "2026-10-07"
 
 - 中文理解：心理丰富的人生，是充满了多样的、不同寻常的、能改变你视角的体验的人生；是有 twists and turns（曲折回旋）的人生；是戏剧性的、多变故的人生，而不是简单直白的那种；有多重性与复杂性的人生；有许多停靠、绕行与转折点的人生；是感觉像一段漫长的蜿蜒长途徒步，而不是在同一圈赛车跑道上反复绕许多圈的人生。
 
-- 句子结构：主句为 a life filled with…（后接 that 关系从句修饰 experiences）；此后五个分句全部由 a life with… / a life that feels like… 构成的排比同位结构，分号分隔，层层加码。
+- 句子结构：主句为 a life filled with…（后接 that 关系从句修饰 experiences）；此后五个分句构成排比同位结构，分号分隔，层层加码——其中四个由 a life with… / a life that feels like… 构成，唯有第二个分句换式为 a dramatic, eventful life instead of a simple and straightforward one，不再以 a life 起头。
 
 - 关键词：**change your perspective**（改变你的视角）；**stops, detours, and turning points**（停靠、绕行与转折点）；**many laps of the same racing circuit**（同一圈赛车跑道上反复的许多圈）
 
@@ -102,7 +102,7 @@ modified: "2026-10-07"
 
 - 中文理解：一个好的类比是黑巧克力与甜巧克力之别。当你吃一块上好的黑巧克力，你会立刻注意到它不同于典型的加糖巧克力。它是甜的，但同时也是苦的，甚至是咸的。它不断给你带来惊讶，并且有更高的强度、复杂性与深度。换句话说，它是 rich（丰富）的。
 
-- 句子结构：首句为判断句 A good analogy is…（表语为动名词短语 dark vs. sweet chocolate）；第二句为时间／条件状语从句 When you eat…, 主句 you immediately notice that…（that 从句内再套宾语从句）；第三至五句为并列的短陈述句，末句以 In other words 引出结论。
+- 句子结构：首句为判断句 A good analogy is…（表语为名词短语 dark vs. sweet chocolate，两类巧克力借 vs. 并列，无动名词）；第二句为时间／条件状语从句 When you eat…, 主句 you immediately notice 后接 that 宾语从句（it is different from a typical, sugary chocolate，其内不再套其他从句）；第三至五句为并列的短陈述句，末句以 In other words 引出结论。
 
 - 关键词：**dark vs. sweet chocolate**（黑巧克力与甜巧克力之别）；**bitter, or even salty**（苦的，甚至咸的）；**heightened intensity, complexity, and depth**（更高的强度、复杂性与深度）
 
@@ -118,7 +118,7 @@ modified: "2026-10-07"
 
 - 关键词：**batting average**（打击率）；**the frequency of your hits**（你安打的频率）；**as worthy as**（与……同样值得）
 
-- 表达方式：**用一句状语宣告换喻，然后一路推到底**。作者在上一段刚说完幸福「像气球」，这里用 In another sense 换成打击率，随后五句全部沿用棒球词汇（安打、本垒打、击球手）而不返回日常语域。
+- 表达方式：**用一句状语宣告换喻，然后一路推到底**。作者在上一段刚说完幸福「像气球」，这里用 In another sense 换成打击率，随后三句继续用棒球词汇（安打、本垒打、打击率），直到末句才借 In other words 换回日常语域（social interactions、promotions）。
 
 - 为什么这样写：**打击率的度量对象不是单次击球有多远，而是一段时间里安打占了多少——这个「频率即价值」的算法，正是后面区分三者的地方**。如果幸福只取当下状态，气球比喻就够了；正因为作者要论证幸福其实是可累积的，才需要换上一个本身就以累积为定义的度量。
 
@@ -138,7 +138,7 @@ modified: "2026-10-07"
 
 - 中文理解：我有一位爱我、我也爱她的好妻子；有好孩子，还有一处不费我什么力气就在不断增长的大产业。我比以往任何时候都更受亲族与熟人敬重；我被陌生人加上了赞扬之词；毫不夸张地说，我可以认为自己的名字已经出名了……。然而我却无法为自己人生中的任何行动给出一个合理的意义。
 
-- 句子结构：首段为四个并列分句（主谓宾结构，分号连接），其中含一个 which 关系从句与一个 than 比较结构、一个省略 that 的被动式（I was loaded with praise）；第二段以 And yet 起首的转折副词短语开头，主句 I could give no reasonable meaning to any actions of my life。
+- 句子结构：首段为四个并列分句（主谓宾结构，分号连接），其中含一个 which 关系从句与一个 than 比较结构、一个被动式 I was loaded with praise，以及一个省略 that 的宾语从句（I could believe my name already famous）；省略号之后是以 And yet 起首的转折句（原书中仍属同一段），主句 I could give no reasonable meaning to any actions of my life。
 
 - 关键词：**with no pains taken on my part**（不费我什么力气）；**loaded with praise**（满载赞扬）；**no reasonable meaning**（无合理的意义）
 

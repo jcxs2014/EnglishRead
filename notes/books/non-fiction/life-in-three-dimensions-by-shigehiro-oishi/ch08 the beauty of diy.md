@@ -54,7 +54,7 @@ modified: "2026-10-07"
 
 - 中文理解：可是，如果让这十名工人各自只专攻一两道工序呢？比如说，一个人把铁丝拉出来，另一个把它拉直，另一个把它剪断，另一个把它的顶端磨尖，如此等等。亚当·斯密估计，这样一来这十名工人一天就能生产 48,000 枚别针，也就是每人 4,800 枚。因此，一个非常简单的分工，就能把生产率提高 4,800 倍！
 
-- 句子结构：首句是 but 引导的反事实疑问句，主语为 these ten workers，each specialized in one or two operations 是后置的省略 to be 动词不定式；次句为 For example 引导的举例句，内部由五个平行的分词短语构成（draws out the wire / straightens it / cuts it / sharpens its top / and so forth），another 一词重复四次作主语；末句为 Thus 引导的因果推论句，主语 a very simple division of labor + 谓语 would increase + 宾语 productivity + 程度状语 by 4,800 times。
+- 句子结构：首句是 but 引导的反事实疑问句，主语为 these ten workers，each specialized in one or two operations 是该问句的谓语部分（each 为紧跟主语的代词，specialized 是一般过去时的谓语动词，并非省略 to be 的不定式）；次句为 For example 引导的举例句，内部由四个并列的限定动词谓语构成（draws out the wire / straightens it / cuts it / sharpens its top），后以 and so forth 收尾；another 作主语重复三次；末句为 Thus 引导的因果推论句，主语 a very simple division of labor + 谓语 would increase + 宾语 productivity + 程度状语 by 4,800 times。
 
 - 关键词：**each specialized in one or two operations**（各自只专攻一两道工序）；**48,000 pins a day**（一天 48,000 枚别针）；**increase productivity by 4,800 times**（把生产率提高 4,800 倍）
 
@@ -78,7 +78,7 @@ modified: "2026-10-07"
 
 - 中文理解：分工攫住的不只是经济部门，而是社会上其他每一个领域；并且它在各处都奠定下那个包罗一切的专业化与分类体系，也就是在一个人身上只发展出一种单一的才能，代价是其余一切才能。
 
-- 句子结构：整句是一段独立引语，成分高度嵌套：主语 Division of labour 后接谓语 seizes upon，宾语为 not only the economic, but every other sphere of society 这一并列省略结构（第二个分句省略了重复成分）；and 之后接并列谓语 everywhere lays the foundation of，宾语是 that all engrossing system of specializing and sorting men（that 引导同位语从句）；该同位语从句内又套一层 that 引导的同位语从句 development in a man of one single faculty at the expense of all other faculties。全文两个 that 从句串联，是本章嵌套最深的一句。
+- 句子结构：整句是一段独立引语，成分高度嵌套：主语 Division of labour 后接谓语 seizes upon，宾语为 not only the economic, but every other sphere of society 这一并列省略结构（第二个分句省略了重复成分）；and 之后接并列谓语 everywhere lays the foundation of，宾语是 that all engrossing system of specializing and sorting men（此处 that 是指示限定词，直接修饰名词短语，不引导从句）；逗号后再并置第二个 that 起头的名词短语 development in a man of one single faculty at the expense of all other faculties，与前者构成同位并置（两个名词短语同为介词 of 的宾语）。全句两个 that 名词短语前后串联，是本章嵌套最深的一句。
 
 - 关键词：**seizes upon**（攫住、控制住）；**lays the foundation of that all engrossing system**（奠定那个包罗一切的体系）；**development in a man of one single faculty at the expense of all other faculties**（只发展一种单一才能，代价是其余一切才能）
 
@@ -114,7 +114,7 @@ modified: "2026-10-07"
 
 - 中文理解：专业化给你在某些话题上的深厚知识，以及可以拿到市场上去卖的技能。但它也在无意中让你对生活中其他领域失去兴趣。这就好比去一趟卢浮宫，你太专注于《蒙娜丽莎》，以致忘了向右看、向左看、向后看，把所有其他杰作都错过了！
 
-- 句子结构：首句为简单陈述句，主语 Specialization + 谓语 gives + 双宾语（deep knowledge in certain topics 与 marketable skills）；次句为 But 转折句，主句是 specialization（作主语）+ leaves you（谓语双重宾语结构的第一项）+ uninterested in other areas of life（宾语补语），句首插入副词 unintentionally；末句为系表句 It’s like + 现在分词短语 going to the Louvre 作表语，该短语内再套一个 so focused on the Mona Lisa that… 的结果状语结构、to look to your right, left, and back 这个省略 to be 的不定式短语，以及一个同样省略主语的并列祈使结构 and miss all the other masterpieces。
+- 句子结构：首句为简单陈述句，主语 Specialization + 谓语 gives + 双宾语（deep knowledge in certain topics 与 marketable skills）；次句为 But 转折句，主句是 specialization（作主语）+ leaves you（「谓语动词＋宾语＋宾语补语」结构，you 是 leave 的直接宾语，不是双宾语里的间接宾语；全段真正带双宾语的是首句 gives you A and B）+ uninterested in other areas of life（宾语补语），句首插入副词 unintentionally；末句为系表句 It’s like + 现在分词短语 going to the Louvre 作表语，该短语内再套一个 so focused on the Mona Lisa that… 的结果状语结构、to look to your right, left, and back 这个省略 to be 的不定式短语，以及一个同样省略主语的并列祈使结构 and miss all the other masterpieces。
 
 - 关键词：**marketable skills**（可以拿到市场上去卖的技能）；**unintentionally, specialization leaves you uninterested**（无意中让你失去兴趣）；**you forget to look to your right, left, and back**（你忘了向右、向左、向后看）
 
@@ -126,7 +126,7 @@ modified: "2026-10-07"
 
 - 中文理解：阿希利·惠兰斯与同事发现，在 4,469 名受访者中，那些每月花一些钱来把自由时间买回来的人，比不这么做的人更快乐。这在一定程度上由时间压力来解释——时间压力是用像「我今天总觉得时间不够用」这样的提示语来测量的。也就是说，那些把钱花在省时服务上的人，对时间不那么焦虑；而一个人对时间越不焦虑，他对自己整体的生活就越满意。
 
-- 句子结构：三句层层推进。首句为第三人称转述的过去时句，主干 found that 引导一个宾语从句，从句内以 across 4,469 respondents 作插入语，主句为 those who spent some money … were happier than those who didn’t（didn’t 单独充当主语，省略了重复的钱）。次句是被动句 This was in part explained by time stress，后接 measured by prompts such as, … 的分词短语作后置修饰，最后由 such as 引出一个引号内的问句作为测量的样例。末句以独立小句 That is, 起句（此处的 that 是指示代词而非连词，原文并没有 that 引导的原因从句），其后用 and 并列两个分句：前一分句说花钱买回时间的人对时间不那么焦虑，后一分句 the less stressed about time someone is, the more satisfied they are with their lives overall 本身是一个 the less…, the more… 比较结构，用来收束全段。
+- 句子结构：三句层层推进。首句为第三人称转述的过去时句，主干 found that 引导一个宾语从句，从句内以 across 4,469 respondents 作插入语，主句为 those who spent some money … were happier than those who didn’t（didn’t 单独充当主语，省略了重复的钱）。次句是被动句 This was in part explained by time stress，后接 measured by prompts such as, … 的分词短语作后置修饰，最后由 such as 引出一个引号内的陈述句 I feel pressed for time today 作为测量的样例（第一人称一般现在时，不是问句）。末句以独立小句 That is, 起句（此处的 that 是指示代词而非连词，原文并没有 that 引导的原因从句），其后用 and 并列两个分句：前一分句说花钱买回时间的人对时间不那么焦虑，后一分句 the less stressed about time someone is, the more satisfied they are with their lives overall 本身是一个 the less…, the more… 比较结构，用来收束全段。
 
 - 关键词：**across 4,469 respondents**（在 4,469 名受访者中）；**time stress measured by prompts such as**（用提示语来衡量的时间压力）；**the less stressed about time someone is, the more satisfied they are**（对时间越不焦虑，对整体生活就越满意）
 

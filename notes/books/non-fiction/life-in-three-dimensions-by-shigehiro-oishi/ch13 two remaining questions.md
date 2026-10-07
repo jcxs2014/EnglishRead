@@ -22,7 +22,7 @@ modified: "2026-10-07"
 | 证据 | 类型 | 支撑什么 |
 |---|---|---|
 | MIDUS 1995 与 2005 两轮数据（作者与 Uli Schimmack 分析，Carol Ryff 组织）：童年过多搬迁对内向者成年后的主观幸福感有挥之不去的负面影响 | 实验研究（二手数据分析） | 支撑「搬迁过量确有代价」，且代价集中在难以在新地方重建关系的人身上 |
-| 读者来信：Mary 十二年换十二次学校、Liz 上过十一个国家的十一所学校、Gus 每年换一所、Peggy 十三次、Jim 八所小学加三所中学 | 自述案例（一手，来信） | 支撑「搬迁的代价由孩子承担，而他们把责任算到自己头上」 |
+| 读者来信：Mary 十二年换十二次学校、Liz 在多个国家上过十一所学校（原文只说 multiple countries，未给国家数）、Gus 每年换一所、Peggy 十三次、Jim 八所小学加三所中学 | 自述案例（一手，来信） | 支撑「搬迁的代价由孩子承担，而他们把责任算到自己头上」 |
 | 反向来信：Tom（海军家庭，每 2–3 年搬一次，靠成绩在新学校迅速赢得同伴尊重）与 D.J.（一生搬了四十五次以上，认为满足感在两种生活里都能找到） | 自述案例（一手，来信） | 支撑「同一件事对不同的人不是同一件事」，作者据此拒绝给出统一阈值 |
 | Taylor Mac 在布鲁克林 St. Ann’s Warehouse 连演二十四小时的 A 24-Decade History of Popular Music，以及 Wesley Morris、Alex Needham 的评论 | 人物案例＋媒体评论 | 支撑「超量刺激确实存在，且对某些人是变形甚至危险的」 |
 | 作者自述妻子婚后近二十年才被发现的绘画能力；克尔凯郭尔《Either/Or》的 B；Frank Fincham 的祈祷实验（祈祷组更少出轨、且更觉关系神圣） | 自述案例（一手）＋哲学论证＋实验研究 | 支撑「熟悉之人内部仍能不断产生新发现，婚姻里的共同反思也能维持爱」 |
@@ -78,7 +78,7 @@ modified: "2026-10-07"
 
 - 中文理解：到头来，虽然如此，我们不去试，就永远不会知道什么对我们而言算「太多」。我们有一种从风险面前逃开的本能，这有助于我们活下来。但一味地逃开，会让我们变得过于胆怯，以至于无法真正地活。我们需要时不时把自己推到舒适区之外。
 
-- 句子结构：首句为插入语 In the end, though 置于句首（though 在此不接从句而作让步语气词），主句 we can’t know what is too much for us until we try 中 what 引导宾语从句、until 引导时间状语从句；次句为主谓宾结构 We have an instinct to run away from risks（不定式作后置定语）+ 非限制性定语从句 which helps us survive 的先行词是 risks；第三句为 but 引导的转折并列句，前半 too much running away 是动名词短语作主语、后半 makes us too timid to truly live 中 too…to… 结构表程度，to truly live 作目的状语；末句为情态动词 need + 动词原形 push 的主句，宾语 ourselves 后接 beyond our comfort zones 与 every once in a while 两个状语。
+- 句子结构：首句为插入语 In the end, though 置于句首（though 在此不接从句而作让步语气词），主句 we can’t know what is too much for us until we try 中 what 引导宾语从句、until 引导时间状语从句；次句为主谓宾结构 We have an instinct to run away from risks（不定式作后置定语）+ 非限制性定语从句 which helps us survive，其先行词是主句所述的「逃开风险的本能」这整件事（helps 为单数，回指的正是 an instinct），不是 risks；第三句为 but 引导的转折并列句，前半 too much running away 是动名词短语作主语、后半 makes us too timid to truly live 中 too…to… 结构表结果（「胆怯到无法真正地活」），to truly live 是该结果式的组成部分而非目的状语；末句为情态动词 need + 动词原形 push 的主句，宾语 ourselves 后接 beyond our comfort zones 与 every once in a while 两个状语。
 
 - 关键词：**we can’t know what is too much for us until we try**（不试就不知道什么算太多）；**an instinct to run away from risks**（逃避风险的本能）；**too timid to truly live**（胆怯到无法真正地活）；**push ourselves beyond our comfort zones**（把自己推到舒适区之外）
 
@@ -90,7 +90,7 @@ modified: "2026-10-07"
 
 - 中文理解：所以我本来预期她的画会偏暗、也要花不少工夫才能完成。我却很惊讶地看见她用粉色和天蓝色画梨子，做出 Mondrian 式的淡彩画布，而且非常非常快。……然而，如果当初我没有想给客厅的墙弄一幅画，我可能永远不会发现我妻子性格里的这一面。在我们的关系走到第二个二十年时才了解到关于她的新东西，对我们双方都是一种丰富。有些事，只有长久地了解一个人才能学到。
 
-- 句子结构：首句为隐含主语 I 的省略句 I expected，expected 后接宾语 her paintings，其后由两个并列的不定式（to be rather dark 与 to take a while to finish）作宾语补足语；次句主语 I、系动词 was 与表语 surprised to see 并列，to see 后接 her paint pears in pink and sky blue 与 create Mondrian-style canvases in pastel colors 两个并列的不定式作感官补足宾语，句末 all very, very quickly 为方式状语；被 `…` 略去的是中间两句（画本身「很快乐」、她下笔「很果断」，以及作者由此推断她内心快乐的推断句）；后半为 if 引导的真实条件状语从句 I had never wanted a painting for our living room wall（过去完成时表「过去的过去」）+ 主句 I might have never discovered this aspect of my wife’s personality（might have + 过去分词的否定推测）；随后是动名词短语 Learning something new about my wife 作主语、two decades into our relationship 作插入语的结构 was enriching for both of us；末句为 there be 结构，you only learn… 是省略关系代词 that 的限制性定语从句修饰先行词 things。
+- 句子结构：首句 So I expected…（So 承接上一句，主语 I 现成，并非省略句），expected 后接宾语 her paintings，其后由两个并列的不定式（to be rather dark 与 to take a while to finish）作宾语补足语；次句主语 I、系动词 was 与表语 surprised to see 并列，to see 后接 her paint pears in pink and sky blue 与 create Mondrian-style canvases in pastel colors 两个并列的不定式作感官补足宾语，句末 all very, very quickly 为方式状语；被 `…` 略去的是中间三句（Her paintings were so happy. / She went about making them so decisively. / Deep down, she must be a very happy person. —画本身「很快乐」、她下笔「很果断」，以及作者由此推断她内心深处本是个快乐的人）；后半为 if 引导的与过去相反的反事实条件从句（虚拟语气）I had never wanted a painting for our living room wall（过去完成式在此不表「过去的过去」，而表与已然相反的前提——他当初确实想给客厅挂画）+ 主句 I might have never discovered this aspect of my wife’s personality（might have + 过去分词的否定推测）；随后是动名词短语 Learning something new about my wife 作主语、two decades into our relationship 作插入语的结构 was enriching for both of us；末句为 there be 结构，you only learn… 是省略关系代词 that 的限制性定语从句修饰先行词 things。
 
 - 关键词：**Mondrian-style canvases**（Mondrian 式的画布）；**all very, very quickly**（非常非常快）；**this aspect of my wife’s personality**（我妻子性格的这一面）；**enriching for both of us**（对我们双方都是丰富）；**only learn from knowing one person for a long time**（只有长久地了解一个人才能学到）
 
@@ -102,7 +102,7 @@ modified: "2026-10-07"
 
 - 中文理解：交契是从长时间的、反复共享的经历中生长出来的。……也就是说，婚姻之爱或许会陷入单调，但单调也可以是一种平稳的速度，只要演奏得当，就能产生美与巨大的效果。按克尔凯郭尔 B 的说法，婚姻之爱可以像拉威尔的《Boléro》与菲利普·格拉斯的《Metamorphosis》：表面极其单调，内里却丰富而美丽。
 
-- 句子结构：首句为主谓宾结构（主语 Fellowship + 谓语 emerges + 介词短语 out of + 宾语 repeated shared experiences），句末 over an extended period of time 为时间状语；引号内被 `…` 略去的是关于孩子、回忆与音乐的中间三句；第二句为 That is 置于句首的同位说明 + but 引导的转折并列句（前半 marital love might suffer from monotony，后半 monotony can be an even tempo），其后 that, played properly, produces beauty and great effect 是关系代词 that 引导的定语从句修饰先行词 tempo，插入语 played properly 为过去分词短语作状语；第三句主语 marital love、系动词 can be like 与表语 Maurice Ravel’s Boléro and Philip Glass’s Metamorphosis 并列，冒号引出同位说明 very monotonic on the surface but rich and beautiful deep down，由 but 连接两个并列的形容词组。
+- 句子结构：首句为主谓宾结构（主语 Fellowship + 谓语 emerges + 介词短语 out of + 宾语 repeated shared experiences），句末 over an extended period of time 为时间状语；引号内被 `…` 略去的是中间五句：一句讲有孩子的伴侣可在共同养育中建立联结并从孩子身上学到新东西，一句引 B 论「人在孩子身上把整个生命重活一遍」，两句分讲孩子上小学、上中学时父母各自重历自己的小学与中学时代，末句是 B 以音乐的平稳速度（even tempo）作婚姻之爱的比喻，正是它引出下句的 That is；第二句为 That is 置于句首的同位说明 + but 引导的转折并列句（前半 marital love might suffer from monotony，后半 monotony can be an even tempo），其后 that, played properly, produces beauty and great effect 是关系代词 that 引导的定语从句修饰先行词 tempo，插入语 played properly 为过去分词短语作状语；第三句主语 marital love、系动词 can be like 与表语 Maurice Ravel’s Boléro and Philip Glass’s Metamorphosis 并列，冒号引出同位说明 very monotonic on the surface but rich and beautiful deep down，由 but 连接两个并列的形容词组。
 
 - 关键词：**Fellowship emerges out of repeated shared experiences**（交契从反复共享的经历中生长）；**marital love might suffer from monotony**（婚姻之爱或许会陷入单调）；**an even tempo**（一种平稳的速度）；**played properly**（演奏得当）；**rich and beautiful deep down**（内里丰富而美丽）
 
@@ -114,11 +114,11 @@ modified: "2026-10-07"
 
 - 中文理解：Aron 提出理论说，婚姻满意度在一段婚姻的进程中的典型下滑，部分原因在于缺少进一步扩张自我的新机会；而参与新奇活动能够提供更多扩张自我的机会。用这种方式，伴侣可以体验到「持续的复苏」。
 
-- 句子结构：主句 Aron theorizes 后接两个由 and that 连接的并列表语从句；第一个 that 从句的结构为主语 the typical decline in marital satisfaction（内含后置定语 over the course of a marriage）+ 系动词 is + 表语 due in part to this lack of new opportunities to expand the self（in part 为插入语）；第二个 that 从句为 engagement in novel activities（动名词短语作主语）+ could provide + further opportunities for self-expansion；末句为 In this way 置于句首的方式状语 + 主句 couples can experience “continuous rejuvenation.”，can 为情态动词，experience 的宾语为名词短语。
+- 句子结构：主句 Aron theorizes 后接两个由 and that 连接的并列宾语从句（theorizes 是及物动词，两个 that 从句都是它的宾语，而非表语）；第一个 that 从句的结构为主语 the typical decline in marital satisfaction（内含后置定语 over the course of a marriage）+ 系动词 is + 表语 due in part to this lack of new opportunities to expand the self（in part 为插入语）；第二个 that 从句为 engagement in novel activities（动名词短语作主语）+ could provide + further opportunities for self-expansion；末句为 In this way 置于句首的方式状语 + 主句 couples can experience “continuous rejuvenation.”，can 为情态动词，experience 的宾语为名词短语。
 
 - 关键词：**the typical decline in marital satisfaction**（婚姻满意度的典型下滑）；**opportunities to expand the self**（扩张自我的机会）；**engagement in novel activities**（参与新奇活动）；**could provide further opportunities for self-expansion**（能够提供更多扩张自我的机会）；**continuous rejuvenation**（持续的复苏）
 
-- 表达方式：把一个常见抱怨（婚后越来越没劲）改写成机制解释（扩张机会枯竭），再把处方挂在这个机制上。两个 that 从句一个是病因、一个是药方，靠 and that 挂在同一个动词 theorizes 后面，形式上是并列表语，逻辑上是因果链。
+- 表达方式：把一个常见抱怨（婚后越来越没劲）改写成机制解释（扩张机会枯竭），再把处方挂在这个机制上。两个 that 从句一个是病因、一个是药方，靠 and that 挂在同一个动词 theorizes 后面，形式上是并列宾语从句，逻辑上是因果链。
 
 - 为什么这样写：与本章第一部分的悲观材料相比，这里给出的是机制而不是安慰——爱并没有消失，消失的是「扩张」这件事的输入。支撑它的实验设计本身就把道理演示了一遍：让伴侣在垫子上爬过障碍物这种无意义的「新」，成本极低却显著提高关系评分。这条结论的适用范围也有限：它讲的是自愿选择留在同一段关系里的成年人，与 Mary 那种被剥夺选择权的儿童处在完全不同的决策位置上。
 
@@ -126,7 +126,7 @@ modified: "2026-10-07"
 
 - 中文理解：像次郎这样的匠人的工作与业余者的不同，因为它要求终身的献身。随着匠人不断获得新的技法与新的看法，这份工作会随时间而变。次郎不知怎么做到的，能持续感到他对寿司初恋般的不断复苏。抵达心理丰富度的一条路，就是走次郎那条路：把一生投注在一份职业上——前提是这份职业深到足以被终生探索。
 
-- 句子结构：首句为主系表结构，主语 The work of a shokunin（内嵌 like Jiro 插入语）+ 系动词 is + 表语 different from that of an amateur（that 指代主语 The work）+ because 引导的原因状语从句 it requires lifetime devotion；次句为主句 It changes over time + as 引导的时间状语从句 a shokunin acquires new techniques and perspectives（该从句的主语与 be 动词均承前省略）；第三句为主谓宾句 Jiro somehow finds a way to feel the continuous rejuvenation of his first love for sushi，其中 to feel… 为 finds 的宾语，somehow 为插入语；末句为 One way to reach psychological richness（动名词短语作主语）+ is to follow Jiro’s path（不定式作表语），冒号后的 devotion to one career 解释 path 的内容，再由 provided that 引导条件状语从句 the chosen career is deep enough for lifelong exploration 设定适用条件。
+- 句子结构：首句为主系表结构，主语 The work of a shokunin（内嵌 like Jiro 插入语）+ 系动词 is + 表语 different from that of an amateur（that 指代主语 The work）+ because 引导的原因状语从句 it requires lifetime devotion；次句为主句 It changes over time + as 引导的时间状语从句 a shokunin acquires new techniques and perspectives（该从句主语 a shokunin 与谓语 acquires 均照写，无承前省略，as 在此作「随着」解）；第三句为主谓宾句 Jiro somehow finds a way to feel the continuous rejuvenation of his first love for sushi，其中 to feel… 为 finds 的宾语，somehow 为插入语；末句为 One way to reach psychological richness（名词中心语 way 后接不定式 to reach psychological richness 作后置定语，整个名词短语作主语，不是动名词短语）+ is to follow Jiro’s path（不定式作表语），冒号后的 devotion to one career 解释 path 的内容，再由 provided that 引导条件状语从句 the chosen career is deep enough for lifelong exploration 设定适用条件。
 
 - 关键词：**different from that of an amateur**（与业余者的不同）；**requires lifetime devotion**（要求终身的献身）；**acquires new techniques and perspectives**（获得新的技法与新的看法）；**the continuous rejuvenation of his first love for sushi**（他对寿司初恋般的不断复苏）；**deep enough for lifelong exploration**（深到足以被终生探索）
 
@@ -138,7 +138,7 @@ modified: "2026-10-07"
 
 - 中文理解：然而，仅仅为了怀旧而反复听同一个乐队，并不会增加心理丰富度。与之相反，如果你反复听同一个乐队，是因为你总能注意到之前没注意到的东西，那么这就是一次心理丰富的体验，也就是在熟悉之物中发现丰富。
 
-- 句子结构：首句主语为动名词短语 listening to the same band for the sake of nostalgia，谓语 does not increase 为动词原形（与动名词主语搭配），宾语为 psychological richness；第二句为 In contrast 置于句首的对比状语 + if 引导的原因状语从句 you keep listening to the same band（该从句内再套 because 引导的原因状语从句 you keep noticing something you didn’t notice before，其中 something 为 noticing 的宾语、其后接省略关系代词 that 的限制性定语从句 you didn’t notice before）+ 主句 that is a psychologically rich experience；破折号后的 one of finding richness in a familiar object 为前面 a psychologically rich experience 的同位语。
+- 句子结构：首句主语为动名词短语 listening to the same band for the sake of nostalgia，谓语 does not increase 为动词原形（与动名词主语搭配），宾语为 psychological richness；第二句为 In contrast 置于句首的对比状语 + if 引导的条件状语从句 you keep listening to the same band（该条件从句内再套 because 引导的原因状语从句 you keep noticing something you didn’t notice before，其中 something 为 noticing 的宾语、其后接省略关系代词 that 的限制性定语从句 you didn’t notice before；「条件＋原因」两层叠加，正是本句的论证机关）+ 主句 that is a psychologically rich experience；逗号后的 one of finding richness in a familiar object 为前面 a psychologically rich experience 的同位语。
 
 - 关键词：**for the sake of nostalgia**（为了怀旧）；**does not increase psychological richness**（并不增加心理丰富度）；**because you keep noticing something you didn’t notice before**（因为你总能注意到之前没注意到的东西）；**finding richness in a familiar object**（在熟悉之物中发现丰富）
 
@@ -150,13 +150,13 @@ modified: "2026-10-07"
 
 - 中文理解：但这里有一个五十二岁的男人，至今仍痴痴地爱着他的旧恋人。这里没有无聊，只有对一个女人的纯粹、真诚、无止境的好奇。……就像 Offill 从《达洛维夫人》那里读出一生的功课，彼得也一直在克拉丽莎身上不断发现旧的与新的吸引力。
 
-- 句子结构：首句为 But 引导的转折句，主句部分是 there be 句式的 here is 加主语 a fifty-two-year-old man，其后跟一个省略了关系代词的现在分词短语 still madly in love with his old girlfriend 作后置定语；第二句为省略主语的 there be 否定形式 No boredom here，后接 but 连接的并列成分 pure, genuine, endless curiosity about one woman（三个并列形容词修饰 curiosity，about one woman 为后置定语）；被 `…` 略去的是作者自陈的那句困惑（这女人究竟哪里吸引人，这对他基本是个谜）；引语末句为 As 引导的原因状语从句 As Offill finds a lifetime of lessons from Mrs. Dalloway + 主句 Peter keeps finding old and new appeal in Clarissa。
+- 句子结构：首句为 But 引导的转折句，主句部分是 there be 句式的 here is 加主语 a fifty-two-year-old man，其后跟一个省略了关系代词的现在分词短语 still madly in love with his old girlfriend 作后置定语；第二句为省略主语的 there be 否定形式 No boredom here，后接 but 连接的并列成分 pure, genuine, endless curiosity about one woman（三个并列形容词修饰 curiosity，about one woman 为后置定语）；引语里的 `…` 处原文并无句子可省——作者自陈困惑的两句（What is so attractive about Clarissa? That is largely a mystery to me.）在引语**之前**，而 No boredom here… 与 As Offill finds… 在原文中本就紧邻；引语末句为 As 引导的原因状语从句 As Offill finds a lifetime of lessons from Mrs. Dalloway + 主句 Peter keeps finding old and new appeal in Clarissa。
 
 - 关键词：**still madly in love with his old girlfriend**（仍痴痴地爱着旧恋人）；**No boredom here**（这里没有无聊）；**pure, genuine, endless curiosity about one woman**（对一个女人纯粹、真诚、无止境的好奇）；**keeps finding old and new appeal in Clarissa**（不断在克拉丽莎身上发现新旧吸引力）
 
 - 表达方式：先摆出一个反常识的事实句，再用一个否定句把它锚定——No boredom here。全章的论证在这个位置被压缩成两个成分：没有无聊，只有好奇。
 
-- 为什么这样写：彼得·沃尔什是小说的边缘人物，作者给他安排的职能是为「留在原地」找一个不像案例的案例：他没有外部变化、没有远行、没有仪式，只有对同一个人的反复观察。而作者特意点出他连自己想要什么都不知道，这恰恰是「留下」阵营最难辩解的地方——如果连目标都没有，靠什么继续有丰富度？作者给出的不是目标，而是一种态度：endless curiosity。这也是本章与「温故知新」那句谚语之间的桥：旧书之所以能读出新东西，靠的不是书变了，是读它的人还没停止注意。
+- 为什么这样写：彼得·沃尔什是小说的边缘人物，作者给他安排的职能是为「留在原地」找一个不像案例的案例：他虽如原文所说是一个 well-educated and well-traveled 的人、也在印度另有过一段 love，却依旧把眼睛钉在同一个女人身上，没有仪式，只有对同一个人的反复观察。而作者特意点出他连自己想要什么都不知道，这恰恰是「留下」阵营最难辩解的地方——如果连目标都没有，靠什么继续有丰富度？作者给出的不是目标，而是一种态度：endless curiosity。这也是本章与「温故知新」那句谚语之间的桥：旧书之所以能读出新东西，靠的不是书变了，是读它的人还没停止注意。
 
 ## 词汇分级
 

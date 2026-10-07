@@ -89,7 +89,7 @@ modified: "2026-10-07"
 
 - 中文理解：如果满意度和意义是衡量好工作的全部尺度，那么我们大概会建议艺术指导、编辑和作家考虑改行当殡仪馆长。现实中我们不会这么做，因为我们知道编辑、艺术指导和作家身上有殡仪馆长没有的东西：自我表达与创造力。……我猜很多艺术指导、编辑和作家会说，他们的工作有意思、有创造力、心理上是丰富的。
 
-- 句子结构：首句为 If 引导的条件状语从句 + then we might tell sb to do sth 的主句；次句为 Realistically 副词 + 省略主语 we wouldn’t + because 引导的原因从句，从句内嵌一个 that 宾语从句（something that funeral directors don’t have），其后再用冒号引出 have 的两个宾语 self-expression and creativity。第三句是主语从句 My guess is that… 作主语＋从句，主句本体是省略的 is 及其表语；主语从句内嵌一个 that 宾语从句。第三句与前句之间原文还隔着一句关于 Payscale 没有问到创造力的说明，故用 `…` 隔开。
+- 句子结构：首句为 If 引导的条件状语从句 + then we might tell sb to do sth 的主句；次句为 Realistically 副词 + 主句 we wouldn’t（主语 we 俱在，承前省略的是谓语 tell art directors, editors, and writers to consider becoming funeral directors）+ because 引导的原因从句，从句内嵌一个修饰 something 的定语从句 that funeral directors don’t have，其后再用冒号引出 have 的两个宾语 self-expression and creativity。第三句 My guess is that… 为主系表结构——主语 My guess、系动词 is（并未省略）、that 从句作表语，不是主语从句；该表语从句内再套一个作 would say 宾语的 that 从句 that their jobs are interesting, creative, and psychologically rich。第三句与前句之间原文还隔着一句关于 Payscale 没有问到创造力的说明，故用 `…` 隔开。
 
 - 关键词：**the only metrics of good jobs**（衡量好工作的全部尺度）；**consider becoming funeral directors**（考虑改行当殡仪馆长）；**self-expression and creativity**（自我表达与创造力）
 
@@ -110,9 +110,9 @@ modified: "2026-10-07"
 - 为什么这样写：**这是全书对「丰富」这个概念最直白的一次交付**。前面的论证要绕数据、绕实验，到这里全部压成一次选择：要不要自己扛那个未知。作者不劝读者选背包，只把两种度假产品在同一页上摆齐——「可能糟糕」是明码标价的代价，不被藏起来，正对应他紧接着讲述的那次被骗、被警察赶走的背包旅行。
 **⑦** "When we were in Chicago, there was a huge festival in Grant Park. My friend went to see a White Sox game, but I wanted to go to this festival. So I went alone and ended up meeting three other young people there. They asked me to take a picture of them, so I did. Then we started talking. Before long, they were so nice that they invited me to a party at one of their houses. … It turned out I had been somewhere in Wisconsin that night! I couldn’t believe it."
 
-- 中文理解：我们在芝加哥的时候，格兰特公园里有一个巨大的节庆。朋友去看白袜队的比赛，我想去这个节庆，于是独自去了，在那里碰到了另外三个年轻人。他们请我帮他们拍张照，我就拍了；然后我们聊了起来。没过多久，他们好到请我去其中一个人家里的派对。我完全不知道那房子在哪儿，身上也没带换洗衣服，可我答应了。……结果是那天晚上我人在威斯康星某处！我简直不敢相信。
+- 中文理解：我们在芝加哥的时候，格兰特公园里有一个巨大的节庆。朋友去看白袜队的比赛，我想去这个节庆，于是独自去了，在那里碰到了另外三个年轻人。他们请我帮他们拍张照，我就拍了；然后我们聊了起来。没过多久，他们好到请我去其中一个人家里的派对。……结果是那天晚上我人在威斯康星某处！我简直不敢相信。
 
-- 句子结构：首句为 When 引导的时间状语从句 + there be 存在句主句；次句为 but 连接的并列复合句；其后多句全为 so 引导结果状语的简单句与祈使句交替（So I went alone and ended up meeting…；They asked me to take a picture of them, so I did；Then we started talking）；倒数第二句为 so 引导结果状语从句修饰 invited 的原因（they were so nice that…）；末句为 It turned out + that 宾语从句＋感叹句。中断处原文还隔着他醉宿派对、次日被送回市中心 YMCA 的叙述，故用 `…` 隔开。
+- 句子结构：首句为 When 引导的时间状语从句 + there be 存在句主句；次句为 but 连接的并列复合句；其后多句全为 so 引导结果状语的简单句与祈使句交替（So I went alone and ended up meeting…；They asked me to take a picture of them, so I did；Then we started talking）；倒数第二句 they were so nice that they invited me to a party at one of their houses 为 so…that 引导的**结果**状语从句（so 修饰 nice，that 从句是「好」所导致的结果，不是邀请的原因）；末句为 It turned out + that 宾语从句＋感叹句。中断处原文还隔着四句：他不知道自己答应了去的是哪儿、身上也没带换洗衣服却还是答应了，那是他那趟旅行里唯一一次喝酒，他在派对的住处睡了过去，次日由其中一个刚认识的人开车送回他住的市中心 YMCA，故用 `…` 隔开。
 
 - 关键词：**a huge festival in Grant Park**（格兰特公园里的巨大节庆）；**ended up meeting three other young people**（结果碰到了另外三个年轻人）；**It turned out I had been somewhere in Wisconsin that night**（结果是那天晚上我人在威斯康星某处）
 
@@ -124,11 +124,11 @@ modified: "2026-10-07"
 
 - 中文理解：心理丰富的人生，是有曲折回旋、有停靠、有绕行、有转折点的人生；是戏剧性的、多变故的人生，而不是熟悉而舒适的那种；是有复杂度与多重性的人生；是 expeditus（仓促的）即自发性的人生，而不是 deliberatio（审慎考虑）的人生；是漫长的、蜿蜒的旅程，而不是简单直白的那种人生。
 
-- 句子结构：主干是系表句 A psychologically rich life is a life with…；此后由分号分隔的四个同位语全部改写 a life 这一中心语：第一个是 with 短语作后置定语，第二个是 dramatic, eventful life instead of a familiar and cozy one（用介词短语 instead of 引出反面），第三个是 of 短语作后置定语，第四个是 of … rather than a life of … 的对比结构。第四个分句内两个拉丁词后面各跟一个逗号引出的 or + 同位语（expeditus, or spontaneity / deliberatio, or careful deliberation）。⚠️ 原文第五个分句作 a life of long, winding journey rather than…，冠词 a 之后直接接 of long，没有第二个限定词——这是原文的写法，此处照录不改。
+- 句子结构：主干是系表句 A psychologically rich life is a life with twists and turns, stops, detours, and turning points；其后由分号引出四个并列的同位语，全部改写 a life 这一中心语。按原文顺序：第一个 a dramatic and eventful life instead of a familiar and cozy one（用介词短语 instead of 引出反面），第二个 a life with complexity and multiplicity（with 短语作后置定语），第三个与第四个都是 of … rather than … 的对比结构。第三个（若把主干里 a life with twists and turns… 也计入，它正是原文按分号数下来的第四个分句）里两个拉丁词后面各跟一个逗号引出的 or + 同位语（expeditus, or spontaneity / deliberatio, or careful deliberation）。⚠️ 原文末一个分句作 a life of long, winding journey rather than…，冠词 a 之后直接接 of long，没有第二个限定词——这是原文的写法，此处照录不改。
 
 - 关键词：**twists and turns, stops, detours, and turning points**（曲折、停靠、绕行与转折点）；**expeditus, or spontaneity**（仓促，即自发性）；**rather than a life of deliberatio, or careful deliberation**（而不是审慎考虑的人生）
 
-- 表达方式：**用同位语排比复述定义，并在中途换语域**。前四句全是英语同义词，第五句突然插入两个拉丁词 expedientus／deliberatio，再各配一个英语同位语——一次语域的切换把「丰富」从描述性词汇改写成一对有哲学史的对立面。
+- 表达方式：**用同位语排比复述定义，并在中途换语域**。前三个分句全是英语同义词，第四个分句突然插入两个拉丁词 expeditus／deliberatio，再各配一个英语同位语——一次语域的切换把「丰富」从描述性词汇改写成一对有哲学史的对立面。
 
 - 为什么这样写：**收尾章必须重新命名它交付的东西**。若沿用开篇的日常比喻，读者会以为丰富度等于「多出去走走」；换成 expeditus 与 deliberatio 的一组对立后，三维框架与幸福、意义的关系被摆到了更高的位置——顺带暗示这两条路同样高，而这个暗示正好接上随后那十条准则里的「Be Spontaneous」与「Be Playful!」。
 
@@ -136,7 +136,7 @@ modified: "2026-10-07"
 
 - 中文理解：到了人生的后期，人们后悔的往往是那些本可以做却没有做的事：没接下那份工作、没在当时搬到波士顿、没回去读书。不行动很容易找得出借口，可当你面对「留下还是离开」这个问题时，问自己一句：「十年之后，我会为留下了而后悔吗？」记住，短期里我们可能后悔自己做了什么，但长期里，最让我们后悔的来自我们没做的事。
 
-- 句子结构：首句主语为 Later in life 状语 + peopletend to regret（情态动词 to do 表倾向）＋ 定语从句 they could have done but did not ＋ 冒号引出三个并列的动名词短语 not doing…；次句为 It’s easy to come up with… 主句与 but 连接的并列句，其中 when faced with… 为过去分词作状语（ faced 为 face 的过去分词），主句为省略主语祈使句 ask yourself + 冒号引出的直接引语；末句为 Remember 引导的祈使句加一个对比句 we may regret what we do in the short run, but in the long run, our biggest regrets come from what we didn’t do，其中两个时间状语分别前置作插入语。
+- 句子结构：首句主语为 people + 谓语 tend to regret（tend 是实义动词，后接不定式表倾向，不是情态动词），Later in life 为时间状语＋ 定语从句 they could have done but did not ＋ 冒号引出三个并列的动名词短语 not doing…；次句为 It’s easy to come up with… 主句与 but 连接的并列句，其中 when faced with… 为过去分词作状语（ faced 为 face 的过去分词），主句为省略主语祈使句 ask yourself + 冒号引出的直接引语；末句为 Remember 引导的祈使句加一个对比句 we may regret what we do in the short run, but in the long run, our biggest regrets come from what we didn’t do，其中两个时间状语分别前置作插入语。
 
 - 关键词：**regret the things they could have done but did not**（后悔那些本可做却没做的事）；**an excuse for inaction**（不行动的借口）；**our biggest regrets come from what we didn’t do**（最大的后悔来自没做的事）
 

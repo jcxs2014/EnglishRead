@@ -42,7 +42,7 @@ modified: "2026-10-07"
 
 - 中文理解：这一段分三层。作者先说，心理丰富的人格，其核心是「经验开放性」与「外向性」这两项人格特质。接着他自问一个很实际的问题：如果我们当中那些天生就没有这两项基本人格特质的人，还能变得更开放、更外向吗？答案是拥抱玩心——于是玩心被放在经验开放性的**上游**，是通往那两项特质的通路，而不是它们的同义词。
 
-- 句子结构：第一句是 there be 句型，At the core of a psychologically rich personality 作地点状语，主语为并列名词短语 openness to experience and extraversion，谓语 are 被后置到主语之前；第二句 One might ask, though: 是插入式主句，冒号后接一个间接疑问句（取陈述语序 How can those of us … become more open and extraverted?），该从句内再套 who 关系从句 those of us who don’t have those basic personality traits；第三句 One answer is to embrace playfulness 是主系表结构，表语用不定式短语。
+- 句子结构：第一句是介词短语前置的完全倒装句，句中无 there；At the core of a psychologically rich personality 作前置表语，主语为并列名词短语 openness to experience and extraversion，谓语 are 被置于主语之前；第二句 One might ask, though: 是插入式主句，冒号后接一个直接疑问句（助动词 can 提前、句末带问号 How can those of us … become more open and extraverted?），该问句内再套 who 关系从句 those of us who don’t have those basic personality traits；第三句 One answer is to embrace playfulness 是主系表结构，表语用不定式短语。
 
 - 关键词：**openness to experience**（经验开放性）；**those basic personality traits**（那些基本人格特质）；**embrace playfulness**（拥抱玩心）
 
@@ -66,7 +66,7 @@ modified: "2026-10-07"
 
 - 中文理解：尽管取得了惊人的成功，Michael Phelps 与 Simone Biles 两人都遭受了焦虑与抑郁。他们失去了对自己所擅长的那项运动的兴趣。单点式的专注当然值得敬佩，甚至算一种美德；但过多的单点专注，会夺走你仅仅因为能够跳、能够跑、能够游而感到的那种简单的快乐。
 
-- 句子结构：第一句为 Despite 引导的让步状语从句加主句；第二句主干为 lose interest in + the sports in which they excelled，内含 in which 关系从句；第三句为主系表，表语为两个并列形容词 admirable 与 even virtuous；第四句以 But 转折，主句为 too much single-mindedness could rob you of + 宾语 the simple joy of + 不定式动名词短语（just being able to jump, run, or swim）。
+- 句子结构：第一句为介词 Despite 带动名词短语作让步状语（Despite achieving spectacular success，无从句），后接主句；第二句主干为 lose interest in + the sports in which they excelled，内含 in which 关系从句；第三句为主系表，表语为两个并列形容词 admirable 与 even virtuous；第四句以 But 转折，主句为 too much single-mindedness could rob you of + 宾语 the simple joy of + 不定式动名词短语（just being able to jump, run, or swim）。
 
 - 关键词：**Despite achieving spectacular success**（尽管取得了惊人的成功）；**lost interest in the sports in which they excelled**（失去了对自己所擅长的运动的兴趣）；**rob you of the simple joy**（夺走你简单的快乐）
 
@@ -102,7 +102,7 @@ modified: "2026-10-07"
 
 - 中文理解：如果 Shaq 有 Kobe 那种拼劲，Shaq 作为一名篮球运动员也许能成就更多。但他同样也可能在职业生涯的早期就把自己烧掉。工作拼劲众所周知对在职业体育与竞争性职业中向上走很关键。即便如此，玩心也许是一个被低估了的、对长期成功有所贡献的因素。
 
-- 句子结构：第一句为 If 条件句（虚拟语气：过去完成时 had + might have + 过去分词 accomplished）；第二句为以 But 起首的转折并列句，主句为 he + might have + 过去分词 burned out，句首用 also 加强；第三、四句均为简单句，第三句主系表加 well known to be critical to 结构，第四句主语 playfulness + 情态动词 might be + an underrated contributor to long-term success。
+- 句子结构：第一句为 If 条件句（混合虚拟：条件从句的 had 是一般过去时、表与现在事实相反，主句用 might have + 过去分词 accomplished，结果指向过去）；第二句为以 But 起首的转折并列句，主句为 he + might have + 过去分词 burned out，句首用 also 加强；第三、四句均为简单句，第三句主系表加 well known to be critical to 结构，第四句主语 playfulness + 情态动词 might be + an underrated contributor to long-term success。
 
 - 关键词：**had Kobe’s work ethic**（有 Kobe 那种拼劲）；**burned out early in his career**（职业生涯早期就烧掉自己）；**an underrated contributor to long-term success**（被低估的长期成功助力）
 

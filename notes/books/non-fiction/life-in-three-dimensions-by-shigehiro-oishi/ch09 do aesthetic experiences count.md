@@ -78,7 +78,7 @@ modified: "2026-10-07"
 
 - 中文理解：至于我自己，我连这一点都说不上。你看，我信任过。我信任老爷的智慧。我侍奉他的那些年里，我始终相信自己是在做一件 worthwhile 的事。
 
-- 句子结构：首句为前置状语 As for myself 加主句 I cannot even claim that，that 作宾语从句且省略了 claimed 的内容；第二句 You see, I trusted 以插入的呼语起首（不是从句），主句 I trusted 单独成句；第三句为主谓宾加介词短语 in his lordship’s wisdom；第四句为前置状语从句 All those years I served him（All those years 在从句中作主语、Served 用过去时）加主句 I trusted，后接省略 that 的宾语从句 I was doing something worthwhile。
+- 句子结构：首句为前置状语 As for myself 加主句 I cannot even claim that，其中 that 是指示代词、直接作 claim 的宾语（回指上文「他至少能说自己选过一条路」那件事），不是引导宾语从句的连词，也谈不上省略了 claimed 的内容；第二句 You see, I trusted 以插入的呼语起首（不是从句），主句 I trusted 单独成句；第三句为主谓宾加介词短语 in his lordship’s wisdom；第四句为时间名词短语前置作状语 All those years（其后 I served him 是省略关系词的定语从句，served 用一般过去时；All those years 并非主语）加主句 I trusted，后接省略 that 的宾语从句 I was doing something worthwhile。
 
 - 关键词：**As for myself**（至于我自己）；**cannot even claim that**（连这一点都说不上）；**I trusted**（我信任）；**worthwhile**（值得做的）
 
@@ -96,7 +96,7 @@ modified: "2026-10-07"
 
 - 表达方式：把抽象的「读史会改变看法」落成一个反事实的自问，再用「并不愉快却仍然更深」的悖论收尾。
 
-- 为什么这样写：这是全章唯一由作者明说的「视角改变」实例，也是他日后要在实验里检验的那个机制的原型——注意它改变的不是知识，而是对自己的判断；作者还立刻承认这种改变令人不适，说明他并不把丰富度包装成一种舒服的体验。这与下面 ⑥ 里《Home Alone》的反例构成对照：沉浸、有趣、难忘，却因为没有复杂度而丰富不起来。
+- 为什么这样写：这是作者在本章以第一人称明说的「视角改变」实例之一（同类的自陈另有《罗生门》那一段），也是他日后要在实验里检验的那个机制的原型——注意它改变的不是知识，而是对自己的判断；作者还立刻承认这种改变令人不适，说明他并不把丰富度包装成一种舒服的体验。这与下面 ⑥ 里《Home Alone》的反例构成对照：沉浸、有趣、难忘，却因为没有复杂度而丰富不起来。
 
 **⑥** "Lastly, in order for reading and watching to be rich, it has to have some complexity and eventually change your perspective. The film Home Alone is highly immersive, fun, and even memorable. But it was not that psychologically rich, mainly because it did not have much complexity and did not change my perspective in life."
 
@@ -114,7 +114,7 @@ modified: "2026-10-07"
 
 - 中文理解：正如物质财富需要积累金钱，心理丰富也需要积累有意思的经历——直接得来的也好，间接得来的也好。有些寻求感官刺激的人走遍全世界，最后却发现这些多样的经历似乎并没有累积成一个令人满意的人生。
 
-- 句子结构：首句为 Just as 引导的并列结构——依据状语从句（心理丰富需要积累有意思的经历，that 从句省略）与主句 psychological richness requires the accumulation of interesting experiences 并列，两句共享 requires the accumulation of… 这一谓语，句末 directly or indirectly 为后置状语。末句为 only to find that 引出的发现式结构：主句 Some sensation-seekers go all over the world 加不定式短语 to find that…，that 从句内为系表句 these diverse experiences do not seem to add up to a satisfying life（do not seem to + 不定式作表语，表语为 a satisfying life）。
+- 句子结构：首句为 Just as 引导的比较状语从句＋主句——从句 material wealth requires the accumulation of money 讲的是物质财富需要积累金钱，主句 psychological richness requires the accumulation of interesting experiences 与之对照；两个分句各自带一个 requires，句式平行而非共享同一谓语的省略结构，句末 directly or indirectly 为后置状语。末句为 only to find that 引出的发现式结构：主句 Some sensation-seekers go all over the world 加不定式短语 to find that…，that 从句内为系表句 these diverse experiences do not seem to add up to a satisfying life（do not seem to + 不定式作表语，表语为 a satisfying life）。
 
 - 关键词：**Just as**（正如）；**the accumulation of**（……的积累）；**directly or indirectly**（直接或间接地）；**only to find that**（结果只发现……）；**add up to**（累积成）
 

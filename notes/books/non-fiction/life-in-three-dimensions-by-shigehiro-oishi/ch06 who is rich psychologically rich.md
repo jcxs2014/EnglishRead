@@ -78,13 +78,13 @@ modified: "2026-10-07"
 
 - 中文理解：我们也看过，他们当中有多少人同时过着幸福、有意义**并且**心理丰富的生活。有两个人三项全中：Nicholas Clinch（律师、登山者、塞拉俱乐部前执行主任）与 Simon Ramo（工程师、发明家、作家）。……有十个人过着既丰富又有意义的生活，八个人过着既幸福又有意义的生活，三个人过着既丰富又幸福的生活。令人难过的是，四十一名被试被评定为三项全都没有（当然，他们的讣告或许没有写到相关的事）。
 
-- 句子结构：首句为主句 We also looked at + how many 引导的宾语从句，三个形容词并列，其中 AND 用全大写；次句为 there be 句型 + who 定语从句（修饰 two）+ 冒号引出两个同位并列的专名，括号内是各人的身份同位语；第三句（在省略号之后）三个并列分句，第二、三个分句按英语省略规则省去重复的 people，第三个分句连主语动词一并省略只留 three led a rich and happy life；末句为 Sadly 作插入语的被动句，主语 forty-one of the subjects，核心结构是 were rated to have led（不定式完成式），其宾语用 neither…nor… 连接三个并列名词，括号内为 of course 起让步的解释性插入语。
+- 句子结构：首句为主句 We also looked at + how many 引导的宾语从句，三个形容词并列，其中 AND 用全大写；次句为 there be 句型 + who 定语从句（修饰 two）+ 冒号引出两个同位并列的专名，括号内是各人的身份同位语；第三句（在省略号之后）三个并列分句，前两个分句的 people 现成（ten people led a rich and meaningful life, eight people led a happy and meaningful life），只有第三个分句按英语省略规则省去重复的 people，数词直接作主语（three led a rich and happy life）；末句为 Sadly 作插入语的被动句，主语 forty-one of the subjects，核心结构是 were rated to have led（不定式完成式），其宾语用 neither…nor… 连接三个并列名词，括号内为 of course 起让步的解释性插入语。
 
 - 关键词：**AND**（并且，全大写强调）；**did it all**（三项全中）；**forty-one of the subjects**（四十一名被试）；**neither…nor…**（既不……也不……）
 
 - 表达方式：**先用全大写的 AND 强调「同时」三字，再给两个人名，再用一个省略号跳过韦恩图，最后落在四十一人上**。全段的情绪曲线是「两个人 → 十、八、三 → 四十一人」，越走越冷，而括号里那句免责又把冷调收了半度。
 
-- 为什么这样写：**四十一这个数字是本章后面「三种人生相互独立」的全部凭据**。若三十三人都至少命中一项、四十一人三项全无，剩下的三十九人就必然散落在各种组合里，相互独立的说法才能成立。作者把免责括号挂在最刺眼的那个数字上，等于当场承认这四十一里有相当一部分可能是讣告写得简略而非真的三项皆无——这既是诚实，也提前把「仪器测的是文字」这层局限摆在了读者面前。
+- 为什么这样写：**四十一这个数字是本章后面「三种人生相互独立」的全部凭据**。101 篇讣告中四十一人三项全无，剩下的六十人必然至少命中一项，且散落在各种组合里——十人命中「丰富且意义」、八人「幸福且意义」、三人「丰富且幸福」、三项全中的只有两人——相互独立的说法才能成立。作者把免责括号挂在最刺眼的那个数字上，等于当场承认这四十一里有相当一部分可能是讣告写得简略而非真的三项皆无——这既是诚实，也提前把「仪器测的是文字」这层局限摆在了读者面前。
 
 **⑤** "How many of the Straits Times folks were rated to have led a psychologically rich life? Forty! That is, 34.5 percent of the people featured in Straits Times obituaries were rated to have led a rich life, far more than in the first two newspapers. Meanwhile, twenty-five (21.6 percent) were rated to have led a happy life, and sixty-five (56.5 percent) were rated to have led a meaningful life. … Our studies demonstrate that a significant number of people lead a psychologically rich life."
 
@@ -138,7 +138,7 @@ modified: "2026-10-07"
 
 - 中文理解：在一个派对上，你会去跟谁说话？我是个内向的人，所以我总是靠向那些我已经认识的人。我通常只跟一两个人待着，努力把话说得深一点。外向的人采取的是完全不同的策略。他们跟许多新的人交谈，结下更多朋友。……那么从长远看，外向者比像我这样的内向者更有可能遇到各种各样的人，也更有可能学到新东西。这就是外向性与心理丰富的人生相联系的方式之一。
 
-- 句子结构：首句为省略主语与助动词的简短疑问句（正常语序是 whom/who do you talk to），只保留助动词与疑问词；第二句为 so 表结果的并列句，so 后主句中嵌 someone 宾语从句，宾语从句省略关系词并用 already 强调「新」的反面；第三、四句为主谓宾简单句与并列谓语句；第五句（省略号后）为插入语 In the long run, then + 比较结构 more likely to… more likely to… than…，than 之后的名词短语 like myself 作后置修饰；末句为系表结构 This is one way + 同位语从句 that 从句，从句内用被动语态 is linked to。
+- 句子结构：首句为地点状语后的特殊疑问句（At a party, who do you talk to?），疑问词 who 前置作 talk to 的宾语，主语 you 与助动词 do 均在；第二句为 so 表结果的并列句，so 后主句中的 someone 后接省略关系词 whom/that 的定语从句（someone I already know），already 强调「新」的反面；第三、四句为主谓宾简单句与并列谓语句；第五句（省略号后）为插入语 In the long run, then + 比较结构 more likely to… more likely to… than…，than 之后的名词短语 like myself 作后置修饰；末句为系表结构 This is one way + 同位语从句 that 从句，从句内用被动语态 is linked to。
 
 - 关键词：**I am an introvert**（我是个内向的人）；**gravitate toward**（靠向）；**more likely to learn new things**（更有可能学到新东西）；**in the long run**（从长远看）
 

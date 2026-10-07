@@ -66,7 +66,7 @@ modified: "2026-10-07"
 
 - 中文理解：那些所谓的社交乐趣——人们要提前八天或十四天为它们做准备——并没有多大意思。相反，通过偶然性，即便是最不重要的事物也能变成趣味的丰富来源。
 
-- 句子结构：首句为主语 the so-called social pleasures 加非限制性定语从句 for which one prepares eight or fourteen days in advance（介词 + 关系代词，which 作 prepares 的宾语），谓语为 have no great interest；次句以方式状语 Through accident 起首，中间插入转折语 on the other hand，主语为 even + the least significant thing，谓语为情态动词 can + 动词 become + 表语 a rich source of amusement。
+- 句子结构：首句为主语 the so-called social pleasures 加非限制性定语从句 for which one prepares eight or fourteen days in advance（介词 + 关系代词，which 只作介词 for 的宾语，for which 整体作 prepares 的目的状语，eight or fourteen days 是从句内的时间长度状语），谓语为 have no great interest；次句以方式状语 Through accident 起首，中间插入转折语 on the other hand，主语为 even + the least significant thing，谓语为情态动词 can + 动词 become + 表语 a rich source of amusement。
 
 - 关键词：**no great interest**（没有多大意思）；**Through accident**（通过偶然）；**a rich source of amusement**（趣味的丰富来源）
 
@@ -102,7 +102,7 @@ modified: "2026-10-07"
 
 - 中文理解：我再一次成了一个极其幸运而快乐的女人，充满着非理性的欣快与日常的喜悦。但那还不是我的全部。我发现自己既能爱女人也能爱男人，既能爱历史也能爱科学，能够穿越悲伤与孤独，而不只是穿越幸福……我找到的救赎在于人类心智那纯粹而无尽的好奇心——以及人类经验那纯粹而无尽的多样性。
 
-- 句子结构：首句为「主语 + 系动词 + 表语 + 两个并列后置定语 full of…」；次句为 But 转衔的省略句（省略主语与系动词）；第三句是主句 I’d discovered 加宾语从句，从句内以 as well as 重复三次构成平行（love women as well as men／history as well as science），末一分句改用 that 从句引导，句末以省略号表示省略；第四句为 I had found 加表语，前一并列名词由破折号引出第二个 sheer endless 修饰的并列成分。
+- 句子结构：首句为「主语 + 系动词 + 表语 + 两个并列后置定语 full of…」；次句为 But 起首的短句（But that's not all I was.，主语、系动词、表语俱全，其中 I was 是修饰 all 的省略 that 的定语从句）；第三句是主句 I’d discovered 加宾语从句，从句内以 as well as 出现两次构成平行（love women as well as men／history as well as science），末一分句改用 that 从句引导，句末以省略号表示省略；第四句为 I had found 加表语，前一并列名词由破折号引出第二个 sheer endless 修饰的并列成分。
 
 - 关键词：**that’s not all I was**（那还不是我的全部）；**sheer endless curiosity**（纯粹无尽的好奇心）；**the sheer endless variety of human experience**（人类经验纯粹无尽的多样性）
 
@@ -114,7 +114,7 @@ modified: "2026-10-07"
 
 - 中文理解：回到美国，对我来说比去印度更是一次文化冲击。印度乡村的人不像我们这样使用智力，他们改用直觉，而他们的直觉比世界其他地方发达得多……在印度的村庄里……他们还学会了别的东西，它在某些方面同样有价值，但在另一些方面则不是。这就是直觉与体验智慧的力量。
 
-- 句子结构：首句为主系结构加插入语 for me 与 much more…than 比较结构；次句为并列复合句，主句与两个 and 连接的并列分句之间只用逗号直连；第三句为非限制性定语从句 which 引导，其中又含 in some ways just as valuable 与 in other ways is not 两组对比；末句为 That’s the power of… 的判断句。三处「……」均为原文的省略号。
+- 句子结构：首句为主系结构加插入语 for me 与 much more…than 比较结构；次句为并列复合句，主句与两个 and 连接的并列分句之间只用逗号直连；第三句为非限制性定语从句 which 引导，其中又含 in some ways just as valuable 与 in other ways is not 两组对比；末句为 That’s the power of… 的判断句。引语中两处「……」均为原文的省略号。
 
 - 关键词：**cultural shock**（文化冲击）；**use their intuition instead**（改用直觉）；**experiential wisdom**（体验智慧）
 
@@ -144,7 +144,7 @@ modified: "2026-10-07"
 
 - 表达方式：三个短句，每句只以「我」或「它」作主语，不作任何解释；唯一的评价词（miraculous）恰好出现在「难以想象」之后——先承认经验的不可及，再说它的强度。
 
-- 为什么这样写：作者在全章末尾让一位九十四岁、此前从未旅行的老人自己定义收益，而她给出的不是「我看到了什么」，而是「我有了可以讲的东西」。经验的价值在这里被换算成叙事资产：它不改变过去的生活质量，而是改变往后说话时的内容。
+- 为什么这样写：作者在全章末尾让一位九十四岁、八十五岁前连山与海都没见过的老人自己定义收益，而她给出的不是「我看到了什么」，而是「我有了可以讲的东西」。经验的价值在这里被换算成叙事资产：它不改变过去的生活质量，而是改变往后说话时的内容。
 
 **⑩** "What an interesting life, I thought. Linda might not be financially rich, but she is psychologically and experientially rich. I think it’s also fair to say that she is happy, and that she has led a meaningful life as well. Despite her difficulties as a single mother early on, she now seems to live her life in all three dimensions."
 

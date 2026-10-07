@@ -66,7 +66,7 @@ modified: "2026-10-07"
 
 - 中文理解：第二，Grace 是带着关于摔角比赛该是什么样子的某些预设走进这场体验的，却带着一种不同的视角回来——比如她了解到 WWE 支持反霸凌行动，而且许多孩子崇拜摔角手。也就是说，Grace 的视角在这场活动之后改变了。相比之下，Rachel 的经历新奇而不寻常，却丝毫没有改变她的视角。总体而言，这两场焦点小组访谈显示，心理丰富的经历不仅包含新奇性，还包含强度、复杂度，以及视角的改变。
 
-- 句子结构：首句为并列复合句，with 介词短语作伴随状语，but 转折后主句为 came back with a different perspective，句末接现在分词短语 learning，其宾语从句由 and 连接两个并列的 that 从句；次句为 That is 引导的强调短句加主句；再次句为 In contrast 起首的对比句（but 转折）；末句为 Overall 起首的总结句，宾语是 not only…but also 的并列结构，not only 与 but also 各带两个成分。
+- 句子结构：首句为并列复合句，with 介词短语作伴随状语，but 转折后主句为 came back with a different perspective，句末接现在分词短语 learning，其宾语从句由 and 连接两个并列的 that 从句；次句为 That is 引导的强调短句加主句；再次句为 In contrast 起首的对比句（but 转折）；末句为 Overall 起首的总结句，宾语是 not only…but also 的并列结构，not only 只带一个成分（novelty），but also 带三个成分（intensity, complexity, and a change in perspective）。
 
 - 关键词：**preconceptions**（预设）；**came back with a different perspective**（带着不同的视角回来）；**did not change her perspective in any way**（丝毫没有改变她的视角）；**not only novelty but also intensity, complexity, and a change in perspective**（不仅是新奇，还有强度、复杂度与视角改变）
 
@@ -78,7 +78,7 @@ modified: "2026-10-07"
 
 - 中文理解：诗里有很多反事实的假设。它本可以糟得多，而这正使这个平常的日子显得珍贵。显然她珍爱自己平淡的生活。有意义的一天不只是有显性收获的一天。它也是那种你会感谢的一天，因为你「知道总有一天会变成另外的样子」。
 
-- 句子结构：首句为 there be 句型加介词短语 in 加书名；第二句为形式主语 it 作主语的真实主语句（could have been + 比较级短语），后接 which 引导的非限制性定语从句作结果状语；第三句同样是形式主语句（It’s clear that…）；第四句为 not just…but also 的并列否定句（also 后省略系动词）；末句为 because 引导的原因状语从句，内含省略 that 的宾语从句。
+- 句子结构：首句为 there be 句型加介词短语 in 加书名；第二句的主语是回指「这个平常的日子」的代词 it（不是形式主语），谓语为 could have been + 比较级短语，后接 which 引导的非限制性定语从句作结果状语；第三句才是形式主语句（It’s clear that…）；第四、五句分置两句，以 not just… / also 构成并列展开，第五句的系动词现成（It is also a day you appreciate），并未省略；末句为 because 引导的原因状语从句，内含省略 that 的宾语从句。
 
 - 关键词：**counterfactuals**（反事实情形）；**precious**（珍贵的）；**cherishes**（珍爱）；**explicit gains**（显性的收获）
 
@@ -96,7 +96,7 @@ modified: "2026-10-07"
 
 - 表达方式：三段并排的定义，每个成分对应一个可以观察的动作——碰到新的、感到多的、看法变了。
 
-- 为什么这样写：这是全章的正式定义，也是作者从两首诗归纳出来的假设，随后立刻要交给数据检验。它把「丰富」限定为当天的心理状态，而不是 ch01 所说的可累加的经验总量——两个口径之间的衔接，本章没有交代。
+- 为什么这样写：这是全章的正式定义，也是作者从三首诗归纳出来的假设之一，随后立刻要交给数据检验。它把「丰富」限定为当天的心理状态，而不是 ch01 所说的可累加的经验总量——两个口径之间的衔接，本章没有交代。
 
 **⑥** "A day with more free time was psychologically richer than a day with less free time. In contrast, a free day was no more meaningful than a less free day. Finally, a day with more required work was happier and more meaningful than a day with less required work. That is, getting things done made the day happier and more meaningful, whereas doing something unusual made the day psychologically richer."
 
@@ -108,7 +108,7 @@ modified: "2026-10-07"
 
 - 表达方式：连排三个「A 比 B 更……」的比较句，每句主语都是「一天」，变量依次换成自由时间与必做工作；再用一句 That is 把统计语言换回日常语言。
 
-- 为什么这样写：这是本章第一次让三个维度互相分开——同样的时间投入对快乐与意义是加分、对丰富度几乎无关；同样的必要工作对前两者是加分、对丰富度也不是。三组数据连起来才构成一次区分实验，单独看任何一组都不足以说明问题。
+- 为什么这样写：这是本章第一次让三个维度互相分开——空闲时间多只给丰富度加分，意义并不因此更多（引语未提快乐）；给快乐与意义加分的，反过来是必做的工作。三组数据连起来才构成一次区分实验，单独看任何一组都不足以说明问题。
 
 **⑦** "I didn’t realize until I put down the phone that it was Mike’s father! I of course knew the words “his” and “father.” I just could not understand the words on the phone. My listening comprehension of English was very low at that point. It was humiliating. Indeed, I had never been more humiliated."
 

@@ -67,7 +67,7 @@ modified: "2026-10-07"
 
 - 中文理解：讽刺在于，我们对幸福的盲目追求有时反而导致不幸福。我们给自己施加不必要的压力和紧张，要求自己永远快乐，结果反而让自己无法收获幸福的好处。拿麦迪逊·霍勒兰来说：她是宾夕法尼亚大学一名「受欢迎、有魅力、有才华」的大一学生。据《纽约时报》报道，她「发出来的照片里，她笑着，沐浴在阳光中，或者在派对上斜倚着」。她的社交媒体就是幸福的化身。然而她的真实处境要脆弱得多。
 
-- 句子结构：全段为「论点 → 机制 → 个案」的链式推进。首句为系表句，表语 that 从句内再套一个宾语从句 sometimes leads to unhappiness；次句为单句，主语 We put undue pressure and stress on ourselves，后接不定式短语 to always be happy 作目的状语，再接现在分词短语 preventing ourselves from reaping the benefits 作结果状语；后半段为四句：人物介绍（a 引语同位语 + 省略 that 的前置定语）与新闻引述（被动式 posted）并列，第三句是判断短句 epitomized happiness，末句以 Yet 起首的省略 that 的转折句收束。
+- 句子结构：全段为「论点 → 机制 → 个案」的链式推进。首句为系表句，表语 that 从句内再套一个宾语从句 sometimes leads to unhappiness；次句为单句，主语 We put undue pressure and stress on ourselves，后接不定式短语 to always be happy 作目的状语，再接现在分词短语 preventing ourselves from reaping the benefits 作结果状语；后半段为四句：人物介绍（a 引语同位语 + 省略 that 的前置定语）与新闻引述（she posted images…，主动语态一般过去时）并列，第三句是判断短句 epitomized happiness，末句以 Yet 起首的省略 that 的转折句收束。
 
 - 关键词：**blind pursuit**（盲目的追求）；**undue pressure and stress**（不必要的压力与紧张）；**epitomized happiness**（是幸福的化身）；**more tenuous**（更脆弱）
 
@@ -79,7 +79,7 @@ modified: "2026-10-07"
 
 - 中文理解：自杀仍然算是比较罕见。在 2018 年的高峰期，美国人死于自杀的比例达到每 10 万人中 14 人，这个数字可能会让麦迪逊的个案看起来像一个例外。然而自杀意念并不罕见。据 CDC 的数据，2020 年有 120 万次自杀未遂，有 1220 万名美国成年人「认真」想过自杀。这意味着那一年大约每 20 个美国成年人中就有 1 个人认真想过以自杀方式死去。如果你去看自杀念头出现的频率，那么，麦迪逊的个案就没那么罕见了。
 
-- 句子结构：前三句是一组「先小后大」的否定对举：第一句为系表句 is still somewhat rare；第二句为 there be 句型（the rate of Americans dying by suicide reached 14 out of 100,000）加一个非限制性同位语从句 a figure that might make…；第三句以 However 起首、is not 后省略与前句相同的宾语，构成省略式对举；此后三句分别是据 CDC 的两项计数、一句换算（That means…）与一个结论句，末句为 If you look at the frequency of suicidal thoughts, then, 条件状语从句加主句 doesn’t seem so rare。
+- 句子结构：前三句是一组「先小后大」的否定对举：第一句为系表句 is still somewhat rare；第二句为主谓宾齐全的常式陈述句（the rate of Americans dying by suicide reached 14 out of 100,000，句中并无 there 引导），句末加一个非限制性同位语 a figure that might make…；第三句以 However 起首、is not 后省略与首句相同的表语 rare，构成省略式对举；此后三句分别是据 CDC 的两项计数、一句换算（That means…）与一个结论句，末句为 If you look at the frequency of suicidal thoughts, then, 条件状语从句加主句 doesn’t seem so rare。
 
 - 关键词：**14 out of 100,000**（每 10 万人中 14 例）；**suicidal ideation is not**（自杀意念并不罕见）；**roughly 1 in 20**（约每 20 人中 1 人）；**the frequency of suicidal thoughts**（自杀念头出现的频率）
 
@@ -91,7 +91,7 @@ modified: "2026-10-07"
 
 - 中文理解：在一项研究里，丹·吉尔伯特和他的同事问那些尚未拿到终身教职的助理教授：如果拿到教职会有多开心，以及如果被拒绝会有多不开心。这听起来是个显而易见的问题。果然，这些助理教授都说，拿到教职会让他们欣喜若狂，被拒则会让他们心碎。接下来，研究者去访谈那些拿到了教职的前助理教授，以及另一些没能拿到的人。嗯，坏消息是——那些拿到教职的人，并没有现在的助理教授们所想象的那么开心。
 
-- 句子结构：首句主句为 asked untenured assistant professors（过去分词作宾语补足语），后接两个并列的宾语从句 how happy they would feel if they got tenure 与 how unhappy they would feel if they were denied tenure，两个从句内各嵌一个 if 条件从句；第二句为感叹式的短评句；第三句为以 Indeed 起首的证实句，内含两个并列的省略 that 的宾语从句（would be delighted / would be devastated）；第四句为时间顺序句，含一个省略关系代词 which 的定语从句；末句为插入语 Well 加 the bad news is that 引导的同位语从句。
+- 句子结构：首句主句为 asked 接间接宾语 untenured assistant professors（untenured 是修饰 assistant professors 的前置定语，并非宾语补足语），后接两个并列的宾语从句 how happy they would feel if they got tenure 与 how unhappy they would feel if they were denied tenure，两个从句内各嵌一个 if 条件从句；第二句为感叹式的短评句；第三句为以 Indeed 起首的证实句，内含两个并列的省略 that 的宾语从句（would be delighted / would be devastated）；第四句为时间顺序句，含一个省略关系代词 which 的定语从句；末句为插入语 Well 加 the bad news is 后接 that 引导的表语从句。
 
 - 关键词：**untenured assistant professors**（未获终身教职的助理教授）；**delighted**（欣喜若狂的）；**devastated**（心碎的）；**the bad news is that**（坏消息是）
 
@@ -103,7 +103,7 @@ modified: "2026-10-07"
 
 - 中文理解：也有许多实验要求被试表现得像外向的人。之后，他们报告的幸福感比那些被要求正常表现的人更多。出人意料的是，这一干预对天生的内向者同样有效。同样地，当人们被要求去和一个陌生人说话时（即表现得像一个外向者），人们感到的开心程度远超他们自己的预期。这些发现已被重复验证。所以，扮演一个外向者确实会让人更开心——即使假笑不会。
 
-- 句子结构：首句为 there be 存在句，which 关系从句作定语修饰 experiments，从句内是被动式 asked to behave like extraverts；第二句为现在完成时的比较结构（reported more happiness than those who were asked…，含 who 定语从句）；中间两句以 Similarly 连接的并列句，前者用 even for 引出意外的对象，后者含一个 which 引导的非限制性定语从句与一个插入语 (i.e., acting like an extravert)；末句为 So 引导的因果句，主句是「动名词主语 + does tend to + 比较补语」，补语本身是一个 even if 引导的让步状语从句。
+- 句子结构：首句为 there be 存在句，which 关系从句作定语修饰 experiments，从句内是被动式 asked to behave like extraverts；第二句为一般过去时的比较结构（Afterward, they reported more happiness than those who were asked…，含 who 定语从句）；中间两句以 Similarly 连接的并列句，前者用 even for 引出意外的对象，后者含一个 which 引导的非限制性定语从句与一个插入语 (i.e., acting like an extravert)；末句为 So 引导的因果句，主句是「动名词主语 + does tend to + 比较补语」，补语本身是一个 even if 引导的让步状语从句。
 
 - 关键词：**behave like extraverts**（表现得像外向者）；**worked even for natural introverts**（对天生的内向者也有效）；**have been replicated**（已被重复验证）；**even if fake smiling does not**（即使假笑并不管用）
 
@@ -139,23 +139,23 @@ modified: "2026-10-07"
 
 - 中文理解：那个康奈尔的学生申请了十所学校，也就是说他脑子里有九个反事实推演。如果我的 SAT 分数再高 20 分，我可能就能进耶鲁。如果我再多参加一项课外活动，我可能就能进普林斯顿。相比之下，那个知足者弗吉尼亚大学的学生有零个反事实——因为这个人找到了一所满足他全部要求的学校，而且他没有申请任何别的学校。没有备选，没有反事实，没有后悔。
 
-- 句子结构：首句把整句的主语移进从句——applied to ten schools 是主句部分，which means they had nine counterfactuals 是 which 关系从句作 means 的宾语，倒装式的语序让「十所学校」先占据句首的位置；中间两句为结构完全对仗的 If 虚拟条件句，谓语分别是 might have gotten，主句里还各嵌一个不同的宾语（into Yale / into Princeton）；第三句为 In contrast 引导的对比句，内含一个 as 原因状语从句与一个省略关系代词 which 的定语从句；末句为三个并列的省略结构（名词短语 + no 名词）后接一个省略系动词的完整判断句。
+- 句子结构：首句为正常语序，The Cornell student 是主语、applied to ten schools 是谓语部分，其后 which means they had nine counterfactuals 是指代前面整个主句的非限制性定语从句（means 后接省略 that 的宾语从句）；中间两句为结构完全对仗的 If 虚拟条件句，谓语分别是 might have gotten，主句里还各嵌一个不同的宾语（into Yale / into Princeton）；第三句为 In contrast 引导的对比句，内含一个 as 原因状语从句与一个省略关系代词 which 的定语从句；末句为三个并列的 no 名词短语（No alternative, no counterfactual, no regret），整句无动词，判断全靠三项并置。
 
 - 关键词：**nine counterfactuals**（九个反事实推演）；**If I had scored 20 points higher**（如果我分数再高 20 分）；**zero counterfactuals**（零个反事实）；**No alternative, no counterfactual, no regret**（没有备选，没有反事实，没有后悔）
 
-- 表达方式：**把「后悔」这件抽象的情绪，换算成一个可以数出来的东西**——申请了几所学校，就有几个反事实。
+- 表达方式：**把「后悔」这件抽象的情绪，换算成一个可以数出来的东西**——每多申请一所学校，就多出一个反事实：十所对应九个。
 
 - 为什么这样写：这是幸福陷阱第二面的全部数学。前半段让人看见代价（申请十所换来九个可想象的另一种人生），后半段用三个短促的否定句宣布代价可以归零。作者不去论证「少后悔更好」，而是让数字自己说完。
 
 **⑩** "They would laud and lure me into a small virtue; they would persuade my foot to the ticktock of a small happiness. I walk among this people and I keep my eyes open: they have become smaller, and they are becoming smaller and smaller; but this is due to their doctrine of happiness and virtue. For they are modest in virtue, too—because they want contentment. But only a modest virtue gets along with contentment."
 
-- 中文理解：他们会吹捧我，会把我诱进一个小小的德性；他们会说服我的双脚，去迎合那小小幸福的无齿轮声。我走在这些人中间，双眼一直睁着：他们已经变小了，而且在越来越小；但这是他们的幸福观与德性学说造成的。因为他们在德性上也是平庸的——因为他们想要的是知足。但只有平庸的德性才配得上知足。
+- 中文理解：他们会吹捧我，会把我诱进一个小小的德性；他们会说服我的双脚，去迎合那小小幸福的滴答声。我走在这些人中间，双眼一直睁着：他们已经变小了，而且在越来越小；但这是他们的幸福观与德性学说造成的。因为他们在德性上也是平庸的——因为他们想要的是知足。但只有平庸的德性才配得上知足。
 
 - 句子结构：整段是查拉图斯特拉的第一人称引语。首句为并列动宾结构：主语 They 与两个并列谓语 would laud and lure，宾语分别为 me 与 into a small virtue；第二句为并列的第二个主谓：they would persuade + 宾语 my foot + 目的状语 to the ticktock of a small happiness；第三句为两个并列动词构成的叙述句（walk / keep），后面用冒号引出解释；此后各句以分号或句号相连，其中 For they are modest in virtue, too 用破折号引出 because 从句作补充原因；末句为 But 引导的转折，前一分句是一个 only + 主语的聚焦结构。
 
-- 关键词：**lure me into a small virtue**（把我诱进一个小小的德性）；**the ticktock of a small happiness**（小小幸福的无齿轮声）；**they have become smaller**（他们变小了）；**modest in virtue**（在德性上平庸的）；**only a modest virtue gets along with contentment**（只有平庸的德性才配得上知足）
+- 关键词：**lure me into a small virtue**（把我诱进一个小小的德性）；**the ticktock of a small happiness**（小小幸福的滴答声）；**they have become smaller**（他们变小了）；**modest in virtue**（在德性上平庸的）；**only a modest virtue gets along with contentment**（只有平庸的德性才配得上知足）
 
-- 表达方式：**不直接批评「知足」，而是用「变小」这个视觉化的后果把它的代价画出来**。「un齿轮声（ticktock）」把幸福写成一具钟，而人被这具钟带着走。
+- 表达方式：**不直接批评「知足」，而是用「变小」这个视觉化的后果把它的代价画出来**。「滴答声（ticktock）」把幸福写成一具钟，而人被这具钟带着走。
 
 - 为什么这样写：作者把本章推荐的解药亲手交给尼采定罪，于是这一章没有停在「少想点、够好就行」上。承认知足有代价，是为了把读者推向 ch01 已经命名好的那第三个维度——本章最后一句「幸福不是通向好生活的唯一一条路」正是通向 ch03 与全书的出口。
 
