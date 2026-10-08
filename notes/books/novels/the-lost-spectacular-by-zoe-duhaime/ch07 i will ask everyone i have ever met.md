@@ -23,7 +23,7 @@ Munro 因被拒绝而更加执着，在治疗师的帮助下试图理清对 Noon
 
 ## 本章引语
 
-> "I don't know, man, I'm feeling really distracted—"
+> **原句 1:** "I don't know, man, I'm feeling really distracted—"
 
 **中文理解**：Munro 在朋友 Noam 面前的回答——他"感觉很疯狂"，无法解释自己为什么被 Spectacular 拒绝后反而更加执着。这句话揭示了他的核心困境：他的理智告诉他该停下来，但他的内心无法接受"被 Noon 拒绝"这件事。
 
@@ -39,7 +39,7 @@ Munro 因被拒绝而更加执着，在治疗师的帮助下试图理清对 Noon
 
 ---
 
-> "You've been temperamentally perfect for years," Odette went on. "I was worried, certainly, but you're not precious with loss or dull with books."
+> **原句 2:** "You've been temperamentally perfect for years," Odette went on. "I was worried, certainly, but you're not precious with loss or dull with books."
 
 **中文理解**：这是 ch06 里 Odette 对 Noon 的评价，说明为什么 Noon 是"天生适合接替 Lukøje 的人"——她对失去"不执着"（not precious with loss），对书"不迟钝"（not dull with books）。这是对 Noon 与 Munro 两人最精确的对比：她能放手，他不能。
 
@@ -64,16 +64,16 @@ Munro 因被拒绝而更加执着，在治疗师的帮助下试图理清对 Noon
 |---|---|---|
 | distracted | 分心的；心不在焉的 | I'm feeling really **distracted** |
 | therapist | 心理治疗师 | his new **therapist**'s office was in a brownstone |
-| ambush | 伏击；埋伏 | he was struck in the head in an **ambush** |
-| vulnerability | 脆弱；易伤性 | his nervous mind conjured false images |
+| ambush | 伏击；埋伏 | he was struck in the head from behind |
+| vulnerability | 脆弱；易伤性 | his **nervous** mind conjured false images |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| frusterated | 受挫的；沮丧的 | he was **frustrated** and isolated |
+| frustrated | 受挫的；沮丧的 | he was tired, he was annoyed, he was **isolated** |
 | obsessive | 执着的；强迫性的 | an emotionally unavailable, irascible, **obsessive** curator |
-| hounding | 追踪；纠缠 | leagues of personal responsibilities that fell by the wayside |
+| hounding | 追踪；纠缠 | leagues of personal **responsibilities** that fell by the wayside |
 | bruised | 淤伤的；受创的 | the **bruised** and battered |
 
 ### ⭐ 基础
@@ -81,6 +81,6 @@ Munro 因被拒绝而更加执着，在治疗师的帮助下试图理清对 Noon
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | friend | 朋友 | Noam invited **Munro** out for dinner |
-| therapy | 治疗 | he needed **therapy** |
-| library | 图书馆 | he went straight to the **library** |
+| therapy | 治疗 | **After** therapy, Munro had a wonderful day |
+| library | 图书馆 | he finally got to the **library** |
 | bookshop | 书店 | she was running his **bookshop** |
