@@ -23,7 +23,7 @@ Munro 的治疗师试图说服他"你不是宇宙的中心"，但 Munro 仍然�
 
 ## 本章引语
 
-> "You get to write your own damn story!"
+> **原句 1:** "You get to write your own damn story!"
 
 **中文理解**：Munro 的治疗师试图用"自助语言"来让他摆脱"我是宇宙中心"的妄想——"你可以写你自己的该死的故事！"但讽刺的是，在 Munro 的世界里，这句话有字面意义：他真的可以通过进入书本来"写"他的故事。治疗师的比喻在 Munro 的元小说现实中是真实的。
 
@@ -39,7 +39,7 @@ Munro 的治疗师试图说服他"你不是宇宙的中心"，但 Munro 仍然�
 
 ---
 
-> "The flutter had been the reshaping of ink, long dried, on the page. A young woman and an old woman, their backs to him, opened the gate in the illustration."
+> **原句 2:** "The flutter had been the reshaping of ink, long dried, on the page. A young woman and an old woman, their backs to him, opened the gate in the illustration."
 
 **中文理解**：Munro 看到插图中的两个女人开始移动——其中一个是 Noon，另一个是 Odette。她们背对着他，走向一扇门。这幅画面是全章最有力的意象：故事中的人物活了过来，而 Munro 只能在书外观看。
 
@@ -55,7 +55,7 @@ Munro 的治疗师试图说服他"你不是宇宙的中心"，但 Munro 仍然�
 
 ---
 
-> "His vision narrowed, a tunnel, and at the end was Noon Bonaventure."
+> **原句 3:** "His vision narrowed, a tunnel, and at the end was Noon Bonaventure."
 
 **中文理解**：Munro 意识到 Noon 就是 Spectacular——不是"与 Spectacular 有关"，而是"就是它"。他的整个人生（博物馆、展览、对失物的执念）都在 Noon 那里汇合。这句话是全章的情感终点：他的执念得到了证实，但证实的方式让他彻底崩溃。
 
@@ -77,25 +77,25 @@ Munro 的治疗师试图说服他"你不是宇宙的中心"，但 Munro 仍然�
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| therapist | 心理治疗师 | Munro's **therapist** suggested it was vanity |
-| obsession | 执念；困扰 | his **obsession** with the Spectacular |
-| illustration | 插图 | the **illustration** rippled with movement |
-| haunted | 闹鬼的；萦绕的 | a **haunted** manor on his shoulder blade |
+| therapist | 心理治疗师 | Munro's **therapist** suggested that it might be vanity |
+| obsession | 执念；困扰 | an **obsession** with death personified |
+| illustration | 插图 | The **illustration** had a large gate |
+| haunted | 闹鬼的；萦绕的 | had the **haunted** manor and its grounds tattooed |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | limber | 灵活的；柔软的 | his imagination was rich and **limber** |
-| tattoo | 纹身 | he had the manor **tattooed** on his shoulder blade |
-| reader | 读者 | she was a **reader** he would recognize anywhere |
+| tattoo | 纹身 | had the haunted manor and its grounds **tattooed** |
+| reader | 读者 | He had another glass, dear **reader** |
 | storyteller | 讲故事的人 | the **storyteller**'s hook |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| book | 书 | he read a **book** every night |
-| wine | 酒 | he poured himself a glass of **wine** |
+| book | 书 | Munro chose one last **book** before bedtime |
+| wine | 酒 | poured himself a glass of **wine** |
 | friend | 朋友 | meeting his **friends** for dinner |
-| page | 页 | he turned the **page** |
+| page | 页 | Munro turned the **page** |
