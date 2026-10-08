@@ -17,7 +17,7 @@ Fergus坐在Flossie的桌子旁，Charlie进入。Alice问Charlie的鞋子怎么
 
 ### 第1段：Fergus的位置
 
-> **原句 1:** The next morning, Fergus sat at Flossie's table with his back to the cafeteria's entrance, his long legs stretched out in front of him.
+> **原句 1:** The next morning, Fergus sat at Flossie's table with his back to the cafeteria's entrance, his long legs outstretched in a contrived show of ease. Jo swatted him upside the head on her way past. He smiled in the direction of Alice, Pen, and Jo as if he couldn't quite place them.
 
 **中文理解**：第二天早上，Fergus坐在Flossie的桌子旁，背对着餐厅的入口，长腿伸在前面。
 
@@ -36,7 +36,7 @@ Fergus坐在Flossie的桌子旁，Charlie进入。Alice问Charlie的鞋子怎么
 - `legs n. 腿`
 - `stretched v. 伸展`
 - `out adv. 出`
-- `front n. 前面`
+- `direction n. 方向`
 - `him pron. 他`
 
 **表达方式**："with his back to the cafeteria's entrance"——背对着餐厅的入口，暗示Fergus的姿态。
@@ -65,9 +65,9 @@ Fergus坐在Flossie的桌子旁，Charlie进入。Alice问Charlie的鞋子怎么
 
 ### 第3段：Charlie的回答
 
-> **原句 3:** "Mum binned the good ones," he said sheepishly. "I tried to rescue them, but she'd buried them under the washing machine."
+> **原句 3:** Mum binned the good ones," he said sheepishly. "I tried to rescue them, but she'd buried them under coffee grinds and something cabbagey. Cunning lady, she is.
 
-**中文理解**："妈妈把好的扔了，"他羞愧地说，"我试着去救它们，但她把它们埋在洗衣机下面了。"
+**中文理解**："好妈把好的扔了，"他不好意思地说，"我想抢救，但她埋在咖啡渣和某种烂白菜底下了。狡猾的女人。"
 
 **关键词**：
 - `Mum n. 妈妈`
@@ -83,8 +83,8 @@ Fergus坐在Flossie的桌子旁，Charlie进入。Alice问Charlie的鞋子怎么
 - `she'd v. 她`
 - `buried v. 埋`
 - `under prep. 在……下面`
-- `washing n. 洗`
-- `machine n. 机器`
+- `grinds n. 咖啡渣`
+- `cabbagey adj. 烂白菜味的`
 
 **表达方式**："sheepishly"——羞愧地，暗示Charlie的尴尬。
 

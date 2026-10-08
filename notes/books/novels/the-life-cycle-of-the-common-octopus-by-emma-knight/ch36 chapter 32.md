@@ -199,9 +199,9 @@ Julian在下午的教程中感到失望。他与Emily协议不要孩子，但Emi
 
 ### 第8段：Julian的消息
 
-> **原句 8:** Back in his office, Julian bit into an apple and sent her a message. When can I find you?
+> **原句 8:** Back in his office, Julian bit into an apple and sent her a message. When can I see you again? Penelope: Are you questioning my virtue?
 
-**中文理解**：回到办公室后，Julian咬了一口苹果，给她发了条消息。我什么时候能找到你？
+**中文理解**：回办公室，朱利安咬了口苹果，给她发消息。什么时候再见？你是在质疑我的品德吗，佩内洛普。
 
 **关键词**：
 - `Back adv. 回`
@@ -221,7 +221,7 @@ Julian在下午的教程中感到失望。他与Emily协议不要孩子，但Emi
 - `When adv. 什么时候`
 - `can v. 可以`
 - `I pron. 我`
-- `find v. 找到`
+- `see v. 见`
 - `you pron. 你`
 
 **表达方式**："sent her a message. When can I find you?"——给她发了条消息，暗示Julian的主动。

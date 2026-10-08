@@ -54,14 +54,14 @@
 
 ### 第3段：Christina与Danny
 
-> **原句 3:** "I was woken up six times by a howling dictator, and the only way to shut him up was to bring him into my bed and shove my nipple into his mouth. I probably won't ride again until he leaves for school." "Uh-oh," said Chet, helping himself to a piece of bread. "Not much I can say to that without getting smacked. Can someone rescue me please?" "Has anyone seen the Sport section of The Times? I've been looking for it everywhere," said Lennox. "Hector says he's sure the paper was whole when it arrived." Pen felt blood rush to her cheeks. "It was me," she said quickly to get it over with. "I'm sorry." Sasha caught her eye and suppressed a laugh. "Penelope! Did you sweep out the chimneys, too? Good lord," said Lennox. Christina gave her husband another look, this one a shade darker. "I saw Imogen at church this morning, and she told me a dreadful story. It seems Jane Ashton has stuck a kitchen knife into Henry," she said. "Oh dear," replied Lennox with some alarm, turning to his wife. "A kitchen knife?" "Yes, a chef's knife. Terribly sharp," said Christina. "Dropped it into his foot. Quite accidentally, of course."
+> **原句 3:** I was woken up six times by a howling dictator, and the only way to shut him up was to bring him into my bed and shove my nipple into his mouth. I probably won't ride again until he leaves for school." "Uh-oh," said Chet, helping himself to a piece of bread. "Not much I can say to that without getting smacked. Can someone rescue me please?" "Has anyone seen the Sport section of The Times? I've been looking for it everywhere," said Lennox. "Hector says he's sure the paper was whole when it arrived." Pen felt blood rush to her cheeks. "It was me," she said quickly to get it over with. "I used it to light a fire this morning.
 
 **中文理解**：George 继续吃饭，Danny 开始闹脾气，Christina 把 Danny 举高，在他脸颊上吹了一声响亮的口水音。Pen 觉得这是她见过的最恶心的声音之一。Christina 把 Danny 递给 George。George 接过婴儿，说 Danny 看起来像他认识的一个人。
 
 **句子结构**：Christina 用吹口水音哄 Danny 是典型的婴儿安抚技巧。Pen 的"恶心"评价是她作为观察者的外部视角。George 接过 Danny 并评价婴儿像某人——这暗示 George 可能是 Danny 的父亲。
 
 **关键词**：
-- `raspberry n. 口水音`
+- `dictator n. 暴君`
 
 **表达方式**：blowing a raspberry on his cheek 是英美文化中常见的逗婴儿方式；Pen 的厌恶反应建立她的年轻女性身份。
 
@@ -72,14 +72,14 @@
 
 ### 第4段：蒙田与友谊
 
-> **原句 4:** Lennox winced. Sasha and George traded a glance. "How unfortunate," said George. "The odd bit," Christina continued, looking directly into her husband's eyes, "was that afterward, Jane came back in without a word and played her turn. Must have been in shock, the poor thing. She'd been playing quite well, apparently." The table fell silent. Pen wondered whether Christina was offering this story as material, or as a warning. From the look on Lennox's face, she guessed both. "Is Henry all right?" he eventually asked. "Oh yes, a few stitches set him right. Dr. Morley came straightaway. Henry's a robust sort. And thankfully he doesn't use his feet a great deal. I do feel for Jane though."
+> **原句 4:** Lennox winced. Sasha and George traded a glance. "How unfortunate," said George. "The odd bit," Christina continued, looking directly into her husband's eyes, "was that afterward, Jane came back in without a word and played her turn. Must have been in shock, the poor thing. She'd been playing quite well, apparently." The table fell silent. Pen wondered whether Christina was offering this story as material, or as a warning. From the look on Lennox's face, she guessed both. "Is Henry all right?" he eventually asked. "Oh yes, a few stitches set him right. Dr. Morley came straightaway. Henry's a robust sort. And thankfully he doesn't use his feet a great deal. I do feel for Jane though.
 
 **中文理解**：Christina 继续说这位诗人对友谊有精彩的观点。Pen 问她是否读过，Christina 说她读过一点点，喜欢他对蒙田的描述。Pen 问蒙田是否也写过关于友谊的文章，Christina 说当然写过，这是文艺复兴时期的畅销题材。
 
 **句子结构**：两人关于友谊的讨论建立在对一位十八世纪法国诗人的共同兴趣上。Christina 展示了她对蒙田的了解（延续前文的蒙田线索）。
 
 **关键词**：
-- `Montaigne n. 蒙田`
+- `stitches n. 缝针`
 
 **表达方式**：Christina 否认 Targu Mures 是研究泥炭藓的地方，同时展示了真正的学术知识。这种低调的博学是 Christina 的人格特征。
 

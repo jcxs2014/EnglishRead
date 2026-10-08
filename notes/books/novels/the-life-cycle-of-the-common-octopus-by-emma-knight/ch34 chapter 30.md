@@ -17,9 +17,9 @@ Alice回到爱丁堡，与Jo讨论Sasha的婚姻状况。Alice感到暴力的厌
 
 ### 第1段：回到爱丁堡
 
-> **原句 1:** Alice got back to Edinburgh on a Sunday morning of dazzling light. She stood under the archway of the university's Old College building and felt the cold air fill her lungs.
+> **原句 1:** Alice got back to Edinburgh on a Sunday morning of dazzling light. She stood under the sputtering, tepid shower and dressed all in white to show off her sun-darkened skin.
 
-**中文理解**：Alice在一个光芒四射的周日早上回到爱丁堡。她站在大学Old College建筑的拱门下，感到冷空气充满她的肺。
+**中文理解**：爱丽丝在炫目光线下回到爱丁堡，冲了个忽冷忽热的澡，一身白衣衬她晒黑的皮肤。
 
 **关键词**：
 - `got v. 回到`
@@ -33,14 +33,14 @@ Alice回到爱丁堡，与Jo讨论Sasha的婚姻状况。Alice感到暴力的厌
 - `light n. 光`
 - `stood v. 站`
 - `under prep. 在……下面`
-- `archway n. 拱门`
-- `university n. 大学`
-- `building n. 建筑`
-- `felt v. 感到`
-- `cold adj. 冷的`
+- `shower n. 淋浴`
+- `white adj. 白色的`
+- `skin n. 皮肤`
+- `dazzling adj. 炫目的`
+- `tepid adj. 微温的`
 - `air n. 空气`
-- `fill v. 充满`
-- `lungs n. 肺`
+- `dress v. 穿衣`
+- `sun-darkened adj. 晒黑的`
 
 **表达方式**："a Sunday morning of dazzling light"——光芒四射的周日早上，暗示新年的开始。
 
@@ -122,9 +122,9 @@ Alice回到爱丁堡，与Jo讨论Sasha的婚姻状况。Alice感到暴力的厌
 
 ### 第5段：暴力的厌恶
 
-> **原句 5:** Alice felt violent disgust. She had known he was married, but not that he was excessively attractive to other women.
+> **原句 5:** Alice felt violent disgust. She had known he was married, but not that he was expecting a child. The idea made her retch.
 
-**中文理解**：Alice感到暴力的厌恶。她知道他已婚，但不知道他对其他女人有如此大的吸引力。
+**中文理解**：爱丽丝一阵生理性恶心。她知道他已婚，但不知道他快当爹了。这念头让她想吐。
 
 **关键词**：
 - `Alice n. Alice`
@@ -139,11 +139,11 @@ Alice回到爱丁堡，与Jo讨论Sasha的婚姻状况。Alice感到暴力的厌
 - `but conj. 但是`
 - `not adv. 不`
 - `that conj. 那`
-- `excessively adv. 过度地`
-- `attractive adj. 有吸引力的`
+- `retch v. 干呕`
+- `child n. 孩子`
 - `to prep. 对`
-- `other adj. 其他的`
-- `women n. 女人们`
+- `idea n. 念头`
+- `expecting adj. 怀孕的`
 
 **表达方式**："felt violent disgust"——感到暴力的厌恶，暗示Alice的强烈反应。
 

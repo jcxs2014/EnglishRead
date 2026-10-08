@@ -17,7 +17,7 @@
 
 ### 第1段：佩内洛普的早晨
 
-> **原句 1:** On Sunday morning, Pen bathed and dressed, shivering in the stone bathroom, and went quietly out into the dining room.
+> **原句 1:** On Sunday morning, Pen bathed and dressed, shivering in the stone bathroom, and went quietly out into the hall. She could hear Danny babbling away in George's room and knocked gently.
 
 **中文理解**：周日早上，佩内洛普在石头浴室里瑟瑟发抖地洗澡和穿衣服，然后悄悄走到餐厅。
 
@@ -46,7 +46,7 @@
 
 ### 第3段：佩内洛普的拒绝
 
-> **原句 3:** "No, you stay," said Pen, taking her cue from Christina. "I was given the grand tour yesterday; we were going to meet there."
+> **原句 3:** No, you stay," said Pen, taking her cue from Christina. "I was given the grand tour yesterday; we won't get lost." George smiled gratefully at Pen, dressed Danny in warm clothes, and gave instructions about his pram.
 
 **中文理解**："不，你留下来，"佩内洛普说，按克里斯蒂娜的意思行事。"昨天我已经参观过了，我们约好在那里见面。"
 

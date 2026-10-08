@@ -56,20 +56,20 @@
 
 ### 第3段：厨房独处与Hector
 
-> **原句 3:** She hesitated and then turned the right way and went downstairs. No one was in the living room. Their wine glasses and ashtrays were still where they had left them, and the cushions were depressed where they had been sitting just a few hours before. Breathing through her mouth, Pen brought the full ashtrays, dirty glasses, and empty bottles through the dining room, where the picked-over cheese board sat out uncovered and the tablecloth was splotched with wine and wax, and into the kitchen. The kitchen was eerily clean despite last night's feast, and someone had placed a bag of crumpets, a butter dish, and a jar of Marmite beside the toaster. Next to the electric kettle were a teapot and a worn tin labeled tea. On the sun-speckled kitchen table, beneath picture windows that looked over green lawns, there was a box of Weetabix and a selection of plates, bowls, butter knives, and spoons. Pen was reading the back of the Marmite jar when Hector came in through the back door, trailing an excited Nellie. \"Alright?\" he asked, dropping a stack of Sunday papers on the table. The spaniel jumped at Pen, wagging her tail. \"Great—you?\" she said awkwardly, stroking the dog's head. Hector gestured toward the blue sky. \"Never better.\" He looked at the untouched breakfast things. \"You're an early riser for this house.
+> **原句 3:** She hesitated and then turned the right way and went downstairs. No one was in the living room. Their wine glasses and ashtrays were still where they had left them, and the cushions were depressed where they had been sitting just a few hours before. Breathing through her mouth, Pen brought the full ashtrays, dirty glasses, and empty bottles through the dining room, where the picked-over cheese board sat out uncovered and the tablecloth was splotched with wine and wax, and into the kitchen. The kitchen was eerily clean despite last night's feast, and someone had placed a bag of crumpets, a butter dish, and a jar of Marmite beside the toaster. Pen emptied the ashtrays and washed them along with the glasses in the trough-like sink.
 
-**中文理解**：她走下楼梯。客厅里没有人，前夜的酒杯和烟灰缸还在原处。她把东西搬到厨房。厨房异常干净，与昨晚的盛宴形成对比。她正在读 Marmite 罐子上的文字时，Hector 从后门进来了，拖着一条猎犬。"还好？"他问，把周日报纸扔到桌上。猎犬扑向 Pen，摇着尾巴。"你是这屋子里起得早的人。他们十一点才出发骑马。你也去？"
+**中文理解**：她犹豫了一下才走对路下楼。客厅没人，前夜的酒杯烟灰缸还在老地方，垫子还陷着几小时前的坐痕。她用嘴呼吸，把满上的烟灰缸、脏杯子、空瓶穿过餐厅——没吃完的奶酪盘敞着，桌布溅着酒和蜡——一路收到厨房。厨房干净得瘆人，全不像昨夜摆过盛宴；有人在烤面包机旁放了一袋松饼、黄油碟和一罐马麦酱。她倒掉烟灰缸，和杯子一起在槽形水池里洗了。
 
-**句子结构**：场景切换到厨房。Hector 的进场通过直接引语和动作完成。短句 `No one was in the living room` 形成紧张的氛围。`"You're an early riser for this house"` 是 Hector 的特征性英式评价。
+**句子结构**：`No one was in the living room` 短句定调；where…where…地点从句串起收拾路线；`eerily clean despite` 反差收束。
 
 **关键词**：
 - `eerily adv. 怪异地`
-- `trail v. 拖`
-- `wag v. 摇（尾巴）`
+- `trough n. 槽形水池`
+- `splotched adj. 溅上斑点的`
 
-**表达方式**：`eerily clean despite last night's feast` 用 despite 制造反差；`dropping a stack of Sunday papers` 的动作描写简洁有力。
+**表达方式**：`eerily clean despite last night's feast` 用 despite 制造反差；`trough-like sink` 把洗碗写成牲口槽式的体力活。
 
-**为什么这样写**：Hector 是叙事中的功能性人物，他确认 Pen 的存在、提醒她骑马计划。Marmite 罐是贯穿全书的味觉地标。厨房的"怪异干净"暗示有人在照顾她，与 Pen 独自一人的场景形成张力。
+**为什么这样写**：独自收拾隔夜派对是佩内洛普进入庄园的方式：没人招呼她，她就自己动手；"干净得瘆人"暗示这房子有人照管，而她还在找自己的位置。
 
 
 ---
@@ -95,20 +95,20 @@
 
 ### 第5段：Christina与骑马安排
 
-> **原句 5:** \"Did you unearth some breakfast? Hector tells me you'll be riding. What's your boot size?\" She glanced at Pen's feet. \"I have a ladies' size five—will that do?\" Pen, trying to remember how UK shoe sizes worked, followed her down the kitchen stairs to the boot room, where rows of cubbies and hooks housed boots, oiled jackets, felt hats, and riding helmets in every size. Pen sat down and tried on the boots while Christina lowered a dusty velvet helmet onto her head. \"You've ridden before?\" \"I took lessons as a kid, but it's been years,\" said Pen, doing up the chin strap and shaking her head from side to side. \"Good. We'll put you on Kevin. He's about as energetic as a stoned woolly mammoth. But on a day like this even he might be frisky; best to take precautions. Are there many places to ride in Toronto?\" \"Not really. I learned at a farm outside the city. My dad used to take me on Sundays,\" said Pen. She glanced up at Christina, who looked as though she was remembering something. \"Were you at Edinburgh, too?\" she asked.
+> **原句 5:** Did you unearth some breakfast? Hector tells me you'll be riding. What's your boot size?" She glanced at Pen's feet. "I have a ladies' size five-will that do?" Pen, trying to remember how UK shoe sizes worked, followed her down the kitchen stairs to the boot room, where rows of cubbies and hooks housed boots, oiled jackets, felt hats, and riding helmets in every size. Pen sat down and tried on the boots while Christina lowered a dusty velvet helmet onto her head. "You've ridden before?" "I took lessons as a kid, but it's been years," said Pen, doing up the chin strap and shaking her head from side to side. "Good." Christina tightened the laces at the back of the helmet.
 
-**中文理解**："你找到早餐了吗？你的鞋码是多少？"Pen 跟着 Christina 下了厨房楼梯试靴子。Christina 递给她一顶天鹅绒头盔。"你以前骑过？""小时候学过，但好多年没骑了，"Pen 说。Christina 说："给你选 Kevin。他精力不太旺盛，像只吃了药的猛犸象。""你也在爱丁堡读书吗？"Pen 问。她抬头看 Christina，后者似乎想起了什么。
+**中文理解**："翻到早餐了吗？听说你要骑马，靴子几码？"她瞥了眼佩内洛普的脚："女士五码行吗？"佩内洛普努力回想英国鞋码，跟她下厨房楼梯去靴子房：一排排格子挂钩上是靴子、油布夹克、毡帽和各号头盔。她坐下试靴子，克里斯蒂娜把一顶落灰的天鹅绒头盔扣到她头上。"骑过？" "小时候学过，好多年了，"佩内洛普系上下巴带左右晃头。"好。"克里斯蒂娜系紧头盔脑后的系带。
 
-**句子结构**：对话节奏加快。Kevin 的描写（"精力不太旺盛，像只吃了药的猛犸象"）是幽默高峰。Pen 发现 Christina 也曾在爱丁堡读书。
+**句子结构**：`"What's your boot size?"` 开口就是码数；靴子房家当一口气报完；系下巴带左右晃头，试戴写成试穿仪式。
 
 **关键词**：
 - `helmet n. 头盔`
-- `energetic adj. 精力旺盛的`
-- `persist v. 坚持问`
+- `velvet adj. 天鹅绒的`
+- `strap n. 带子`
 
-**表达方式**：`stoned woolly mammoth` 的比喻将马比作被药物麻醉的史前巨兽；英式轻描淡写 `best to take precautions`。
+**表达方式**：`"ladies' size five"` 开口报码，庄园女主人的待客是行动派的；`dusty velvet helmet` 落灰的天鹅绒写出庄园的年头。
 
-**为什么这样写**：Christina 的问题是关键叙事转折：从客套寒暄滑向个人历史。Pen 的追问打破了她原本"在场但不介入"的位置。
+**为什么这样写**：不问来历先问鞋码，克里斯蒂娜用一整套行头把客人变成骑手；试靴子是佩内洛普被庄园接纳的第一道手续。
 
 
 ---

@@ -17,7 +17,7 @@
 
 ### 第1段：圣诞前夜
 
-> **原句 1:** The next time Pen turned on her phone it was Christmas Eve. It was late afternoon, and already dark outside.
+> **原句 1:** The next time Pen turned on her phone it was Christmas Eve. It was late afternoon, and already dark out. She was sitting on her bedroom floor surrounded by spools of ribbon and stacks of recycled tissue paper, half watching an old Christmas movie while she wrapped.
 
 **中文理解**：佩内洛普下次打开手机时是圣诞前夜。已是下午晚些时候，外面已经黑了。
 
@@ -31,15 +31,15 @@
 - `late adj. 晚的`
 - `afternoon n. 下午`
 - `dark adj. 黑暗的`
-- `outside adv. 外面`
+- `wrap v. 包裹`
 
-**表达方式**："already dark outside"——外面已经黑了，暗示圣诞前夜的黑暗。
+**表达方式**："already dark out"——天已经黑了，圣诞前夜的时间感只用天色交代。
 
 ---
 
 ### 第2段：一周的忙碌
 
-> **原句 2:** The past week had been a marathon of festive errands and visits. Pen had spent two evenings at her dad's place.
+> **原句 2:** The past week had been a marathon of festive errands and visits. Pen had spent two evenings at her dad's new condo on the fortieth floor of a downtown building, staring through the wall of windows at thousands of scurrying pedestrians and rows of traffic-clogged cars glowing red and white down below.
 
 **中文理解**：过去的一周是一场节日跑腿和拜访的马拉松。佩内洛普在父亲家度过了两个晚上。
 
@@ -54,7 +54,7 @@
 - `spent v. 度过`
 - `evenings n. 晚上`
 - `dad's n. 父亲的`
-- `place n. 地方`
+- `condo n. 公寓`
 
 **表达方式**："a marathon of festive errands and visits"——节日跑腿和拜访的马拉松，暗示一周的忙碌。
 

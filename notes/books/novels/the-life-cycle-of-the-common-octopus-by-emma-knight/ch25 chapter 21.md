@@ -32,7 +32,7 @@
 
 ### 第2段：男人的挑衅
 
-> **原句 2:** "Afternoon," said the man once he had sprawled into his seat and commandeered the middle armrest. He gestured at the book in her lap. "What are you reading?"
+> **原句 2:** Afternoon," said the man once he had sprawled into his seat and commandeered the middle armrest. He wore a tight long-sleeved T-shirt and the spotless Nikes of someone who owns multiple pairs. "Have you had a nice weekend?
 
 **中文理解**："下午好，"男人 sprawl 在座位里，霸占了中间扶手，说道。他指着她腿上的书。"你在读什么？"
 
@@ -125,7 +125,7 @@
 
 ### 第8段：痛苦的根源
 
-> **原句 8:** Pen had never needed to go far to find suffering. She could feel it in the drive from Talmòrach to the station.
+> **原句 8:** Pen had never needed to go far to find suffering. She could feel it in the driver's seat of the car, across from her at the kitchen table, or a story above her in the silent house. She hadn't known what it was when she was young.
 
 **中文理解**：佩内洛普从未需要走远就能找到痛苦。她能感觉到从 Talmòrach 到车站一路上弥漫的痛苦。
 

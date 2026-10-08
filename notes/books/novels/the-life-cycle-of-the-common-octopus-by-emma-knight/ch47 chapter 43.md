@@ -57,7 +57,7 @@
 
 第3段Charlie的幽默
 
-> **原句 3:** "Anesthetic," he said with a bow. "In anticipation of your gammy broken leg."
+> **原句 3:** "Anesthetic," he said with a bow. "In anticipation of your gammy broken leg.
 
 **中文理解**："麻醉剂，"他鞠躬说，"预期你的跛脚断裂。"
 
@@ -107,7 +107,7 @@
 
 第5段Charlie的回应
 
-> **原句 5:** "Well, I do. You cannot stir things apart."
+> **原句 5:** "Well, I do. You cannot stir things apart.
 
 **中文理解**："好吧，我会。你不能把事物分开搅拌。"
 

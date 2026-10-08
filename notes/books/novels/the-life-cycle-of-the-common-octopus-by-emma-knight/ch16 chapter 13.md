@@ -76,16 +76,16 @@
 
 ### 第4段：Julian的名字
 
-> **原句 4:** Pen felt a stab of dread. What had she done? Had she offended him somehow? Chethan: You're not a very good rider. I think you need private lessons. Relief. And then annoyance. Chethan: You're lucky. I've got just the man. The other window popped up again. Sasha: Or I could try tying it to Hedwig's leg. Assuming you know who that is. Pen smiled again, appreciating his open dorkiness. Pen: I'm not a total philistine. Sasha: Thank God. Pen: Pigeon would be more traditional in these parts though, wouldn't it? Sasha: Ah. You know your messenger birds. Well, that could be arranged. We do have a doocot you know. A what? He was typing again, giving her time to imagine Sasha and Chet sitting together at the kitchen table in their shared apartment, a bottle of something between them, messing with her. If that turned out to be the case, she would not mind; she was enjoying this. Sasha: Did you know that during both wars the Allies used pigeons to send intelligence across enemy lines? Heroic creatures. Mind you, these days the Americans probably use eagles. Pen: What on earth is a doocot? Sasha: Next time you come to the house I'll show you. She let the words reverberate through her. And then quashed the feeling. Pen: Regular eagles or bald? Sasha: Whatever Cheney can get his hands on, I reckon.
+> **原句 4:** Pen felt a stab of dread. What had she done? Had she offended him somehow? Chet was typing. Chethan: You're not a very good rider. I think you need private lessons. Relief. And then annoyance. Her computer pinged and she silenced it.
 
-**中文理解**：Sasha 发来消息:或者我可以把它绑在 Hedwig 的腿上,前提是你知道 Hedwig 是谁。Pen 回复:不好意思,这是玩笑吗?Sasha 发来:啊,你也知道信鸽啊。这个可以安排。我们确实有个鸽子窝。Pen 问:普通老鹰还是秃鹰?Sasha 回复:不管钱尼能搞到哪种,我猜。Pen 问:你这是什么意思?你是秃鹰爱好者吗?
+**中文理解**：一阵害怕：她做错什么了？惹到他了吗？切特正在打字。切特：你骑得不太好，得请私教。如释重负。然后是恼火。电脑响了，她按静音。
 
-**句子结构**：Hedwig 的典故是哈利波特——Sasha 用文学梗来延续烧书的主题。Pen 的普通老鹰还是秃鹰是双关语(bald eagle等于字面意思秃的鹰)。
+**句子结构**：害怕—释然—恼火三连情绪；私教的诊断先吓人再落地；结尾按静音，谈话通道说关就关。
 
 **关键词**：
-- `Hedwig n. 海德薇(信鸽名字)`
-- `pigeon n. 鸽子`
-- `bald eagle 秃鹰`
+- `dread n. 害怕`
+- `annoyance n. 恼火`
+- `silence v. 静音`
 
 **表达方式**：Hedwig 是哈利波特中Harry Potter的宠物雪枭,Sasha 用来指代 Lennox 家的信鸽;bald eagle 的双关建立本章的幽默层次。
 
@@ -134,7 +134,7 @@
 
 ### 第7段：妈妈的语音
 
-> **原句 7:** It was early evening in Toronto. Pen's mother was probably making dinner. She let it buzz itself back to silence. "1 New Voicemail," read the screen. Pen felt connected to her mom. Not in the girlfriend-y way that some of her friends were close with their mothers—they didn't go to get their hair done together, and her mom had never taught her to wear lipstick or anything like that—but in a more private way. After the bad period, in their five subsequent years of living just the two of them (plus their dog, Olive, a border collie mix), she felt they had developed a kind of wordless understanding. It was because of this understanding that Pen had allowed herself to go to Edinburgh. She knew she no longer had to worry. Still, she played the voicemail to reassure herself. "Hi, love, it's Mom at about, oh, sixish. Just thought I'd give you a call and see how you're doing. It's probably a bit late there…quite late, actually. No doubt you're in bed already, responsible citizen that you are. Give me a call any time you get a sec, no rush. Love you."
+> **原句 7:** It was early evening in Toronto. Pen's mother was probably making dinner. She let it buzz itself back to silence. "1 New Voicemail," read the screen. Pen felt connected to her mom. Not in the girlfriend-y way that some of her friends were close with their mothers—they didn't go to get their hair done together, and her mom had never taught her to wear lipstick or anything like that—but in a more private way. After the bad period, in their five subsequent years of living just the two of them (plus their dog, Olive, a border collie mix), she felt they had developed a kind of wordless understanding. It was because of this understanding that Pen had allowed herself to go to Edinburgh. She knew she no longer had to worry. Still, she played the voicemail to reassure herself. "Hi, love, it's Mom at about, oh, sixish. Just thought I'd give you a call and see how you're doing. It's probably a bit late there…quite late, actually. No doubt you're in bed already, responsible citizen that you are. Give me a call any time you get a sec, no rush. Love you.
 
 **中文理解**：她又打开了一次浏览器搜索 Bald Eagle 照片。那些鹰看起来很凶恶。是的,照片里的蒙田,穿着褶边领和紧身短上衣,确实是秃头。她把浏览器关了好一会儿。六点半左右,她的手机响了。是妈妈发来的语音留言:嗨亲爱的,是妈妈,大概六点?想打个电话问问你怎么样了。
 
@@ -142,7 +142,7 @@
 
 **关键词**：
 - `voicemail n. 语音留言`
-- `relieved adj. 放心的`
+- `Olive n. 奥利弗（狗名）`
 
 **表达方式**：voicemail 是模拟信号,在数字时代是落后的联系方式,但恰恰是这种媒介传达了最真实的情感——妈妈的声音。Pen 等待母亲的声音,而非文字。
 

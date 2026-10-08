@@ -17,9 +17,9 @@ Sasha的房间感觉与房子其他部分隔绝。Pen坐在他的床边上，看
 
 ### 第1段：Sasha的房间
 
-> **原句 1:** Sasha's room felt cut off from the rest of the house. It was three flights up, on the top floor.
+> **原句 1:** Sasha's room felt cut off from the rest of the house. It was three flights up, each narrower and more corkscrewed than the last. At the top he touched an inside wall and low pools of light brought the room into focus.
 
-**中文理解**：Sasha的房间感觉与房子其他部分隔绝。它在三楼，在顶层。
+**中文理解**：萨沙的房间像从房子上切下来。三层楼，一层比一层窄，一层比一层拧。顶上他摸了下内墙，几 pool 低低的光把房间照出来。
 
 **关键词**：
 - `Sasha's n. Sasha的`
@@ -39,7 +39,7 @@ Sasha的房间感觉与房子其他部分隔绝。Pen坐在他的床边上，看
 - `up adv. 上`
 - `on prep. 在`
 - `top adj. 顶层的`
-- `floor n. 楼层`
+- `flights n. 层（楼梯）`
 
 **表达方式**："felt cut off from the rest of the house"——感觉与房子其他部分隔绝，暗示Sasha的孤立。
 
@@ -47,9 +47,9 @@ Sasha的房间感觉与房子其他部分隔绝。Pen坐在他的床边上，看
 
 ### 第2段：点篝火
 
-> **原句 2:** He knelt to light the fire. It flickered to life as the newspaper caught, and the fire grew.
+> **原句 2:** He knelt to light the fire. It flickered to life as the newspaper caught, and then a log. He chose a disc from a tall stack.
 
-**中文理解**：他跪下点篝火。当报纸着火了，火苗闪烁起来，火势渐大。
+**中文理解**：他跪下点火。报纸着起来，火苗闪了一下，然后是一根木柴。他从高摞里挑了张碟。
 
 **关键词**：
 - `He pron. 他`
@@ -66,7 +66,7 @@ Sasha的房间感觉与房子其他部分隔绝。Pen坐在他的床边上，看
 - `newspaper n. 报纸`
 - `caught v. 着火`
 - `and conj. 和`
-- `grew v. 渐大`
+- `stack n. 摞`
 
 **表达方式**："It flickered to life as the newspaper caught"——当报纸着火时火苗闪烁起来，暗示篝火的点燃。
 
@@ -74,9 +74,9 @@ Sasha的房间感觉与房子其他部分隔绝。Pen坐在他的床边上，看
 
 ### 第3段：Pen的座位
 
-> **原句 3:** Pen sat on the edge of his bed, watching him. It took her a moment to place the object in his hand.
+> **原句 3:** Pen sat on the edge of his bed, watching him. It took her a moment to place the music. "Tommy?
 
-**中文理解**：Pen坐在他的床边上，看着他。她花了一会儿才认出他手中的物品。
+**中文理解**：佩恩坐在他床边，看着他。过了会儿她才听出放的是什么音乐。"汤米？"
 
 **关键词**：
 - `Pen n. Pen`
@@ -95,9 +95,9 @@ Sasha的房间感觉与房子其他部分隔绝。Pen坐在他的床边上，看
 - `to prep. 去`
 - `place v. 认出`
 - `the art. 那`
-- `object n. 物品`
+- `music n. 音乐`
 - `in prep. 在`
-- `hand n. 手`
+- `Tommy n. 汤米`
 
 **表达方式**："sat on the edge of his bed, watching him"——坐在他的床边上看着他，暗示Pen的紧张。
 
@@ -105,9 +105,9 @@ Sasha的房间感觉与房子其他部分隔绝。Pen坐在他的床边上，看
 
 ### 第4段：Tommy的歌
 
-> **原句 4:** "Tommy?" she said. She liked The Who well enough, but a rock opera wasn't what she'd expected.
+> **原句 4:** Tommy?" she said. She liked The Who well enough, but a rock opera wasn't what she would have chosen for such a moment. "It's a good album," he said.
 
-**中文理解**："Tommy？"她说。她喜欢The Who乐队，但摇滚歌剧不是她预期的。
+**中文理解**："汤米？"她说。谁乐队她挺喜欢，但摇滚歌剧不是这种时刻该选的。"好专辑，"他说。
 
 **关键词**：
 - `Tommy n. Tommy`
@@ -124,9 +124,9 @@ Sasha的房间感觉与房子其他部分隔绝。Pen坐在他的床边上，看
 - `opera n. 歌剧`
 - `wasn't contr. 不是`
 - `what pron. 什么`
-- `expected v. 预期的`
+- `album n. 专辑`
 
-**表达方式**："a rock opera wasn't what she'd expected"——摇滚歌剧不是她预期的，暗示Pen的惊讶。
+**表达方式**：`"It's a good album"——好专辑；萨沙用一句乐评把暧昧挡回去，也接住。
 
 ---
 
@@ -150,7 +150,7 @@ Sasha的房间感觉与房子其他部分隔绝。Pen坐在他的床边上，看
 
 ### 第6段：Margot的问题
 
-> **原句 6:** "What's going on in there?"
+> **原句 6:** "What's going on in there?
 
 **中文理解**："里面发生了什么？"
 
@@ -192,7 +192,7 @@ Sasha的房间感觉与房子其他部分隔绝。Pen坐在他的床边上，看
 
 ### 第8段：Pen的拒绝
 
-> **原句 8:** She shook her head furiously. "You're not rushing me."
+> **原句 8:** She shook her head furiously. "You're not rushing me.
 
 **中文理解**：她用力摇头。"你不能催促我。"
 

@@ -94,18 +94,18 @@
 
 ### 第5段：Alice对Julian的意识
 
-> **原句 5:** Thank goodness for Chet, who, upon learning that she didn't know what a WAG was, had taken the opportunity to fill her in on the past ten years of UK reality television/tabloid/football culture, which had segued smoothly into a rundown of the relative merits of every football club in the nation, and then the rules of cricket. When Sasha had walked her to the door of Lee House, she had leaned in to hug him and he'd gone in for a cheek kiss, resulting in an awkward moment during which he had held her close to him, their cheeks pressed together. He had stroked her back once and emitted a shy half-laugh before letting go. She had replayed this four-second interaction in her mind approximately once a minute since her return. She hadn't wanted Alice to know the extent of her infatuation, because she planned to do with it what she considered to be the only reasonable thing, which was absolutely nothing. Pen had told Alice about George with some reluctance, feeling guilty about her newfound proximity to Alice's idol. In high school, Alice, who could never remember when the math exam was, had always known the exact day when the French and British issues of Vogue would appear. She would carry them back to her messy room, close the door, and start to flip through the thick pages, pausing only to look at the risqué photoshoots involving bare nipples (in the French issue), until she found a society picture of Margot Lennox. And Margot would always be there. Sometimes posing for the camera at a glamorous soirée, dressed in an understated suit of her own design, and sometimes staring accusingly at the camera from her atelier in Paris, wearing a pair of tailored pants with a cuffed white shirt. "Tomorrow's your first rehearsal," Pen said, changing the subject. "What is Thomasina going to wear?" Alice's eyes brightened and she moved to Pen's closet. This was one of the many things they had in common: they never tired of transformation.
+> **原句 5:** Thank goodness for Chet, who, upon learning that she didn't know what a WAG was, had taken the opportunity to fill her in on the past ten years of UK reality television/tabloid/football culture, which had segued smoothly into a rundown of the relative merits of every football club in the nation, and then the rules of cricket. When Sasha had walked her to the door of Lee House, she had leaned in to hug him and he'd gone in for a cheek kiss, resulting in an awkward moment during which he had held her close to him, their cheeks pressed together. He'd stroked her back once and emitted a shy half-laugh before letting go. She had replayed this four-second interaction in her mind approximately once a minute since her return. She hadn't wanted Alice to know the extent of her infatuation, because she planned to do with it what she considered to be the only reasonable thing, which was absolutely nothing. Pen had told Alice about George with some reluctance, feeling guilty about her newfound proximity to Alice's idol. In high school, Alice, who could never remember when the math exam was, had always known the exact day when the French and British issues of Vogue would appear. She would carry them back to her messy room, close the door, and start to flip through the thick pages, pausing only to look at the risqué photoshoots involving bare nipples (in the French issue), until she found a society picture of Margot Lennox. And Margot would always be there. Sometimes posing for the camera at a glamorous soirée, dressed in an understated suit of her own design, and sometimes staring accusingly at the camera from her atelier in Paris, wearing a pair of tailored pants with a cuffed white shirt. "Tomorrow's your first rehearsal," Pen said, changing the subject. "What's Thomasina going to wear?" Alice's eyes brightened and she moved to Pen's closet. This was one of the many things they had in common: they never tired of transformation.
 
 **中文理解**：Alice 从未告诉 Pen 她在那一刻有多难——在那辆返回 Edinburgh 的车里，她坐在 Julian 旁边，她的身体因为紧张而僵硬，他一路上都戴着耳机。在化妆间里，Julian 一直在观察她，不是以一种好的方式。她能感觉到他的凝视在镜子里跟踪她——不是欣赏，而是某种评估。
 
-**句子结构**：`Alice had never told Pen how difficult she had found it to breathe` 的主语从句结构；`gaze tracking her in the mirror` 的进行时态建立持续的压迫感。
+**句子结构**：切特的补课从WAG一路开到板球规则；四秒的脸颊吻被佩恩按分钟重播；Vogue旧刊翻到玛戈，闺蜜夜话滑向时尚考古。
 
 **关键词**：
-- `breath v. 呼吸`
-- `gaze n. 凝视`
-- `assess v. 评估`
+- `tabloid n. 小报`
+- `cheek n. 脸颊`
+- `cricket n. 板球`
 
-**表达方式**：`gaze tracking her in the mirror` 的跟踪意象暗示侵略性；not appreciating but assessing 的对比揭示 Julian 对 Alice 的真实态度。
+**表达方式**：`"four-second interaction...once a minute"——四秒的互动，一分钟重播一次；暗恋的数学就是这么算的。
 
 **为什么这样写**：这是 Alice 章节最黑暗的一段：她透露自己曾坐在 Julian 旁边但无法呼吸，而 Julian 在化妆间里用评估性的凝视跟踪她。这种凝视与 Pen 在 Julian 办公室的经历形成对照——Julian 对两个女孩都在进行某种权力游戏。
 

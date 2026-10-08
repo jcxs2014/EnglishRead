@@ -147,9 +147,9 @@
 
 ### 第7段：Anna的困难
 
-> **原句 7:** "Hearing that name again brought me back to a difficult time. I wasn't quite ready for this conversation, but it needs to happen."
+> **原句 7:** Hearing that name again brought me back to a difficult time. I wasn't quite ready to go back there," Anna continued. "Don't feel like you have to go there now," said Pen.
 
-**中文理解**："再次听到那个名字把我带回了困难的时光。我还没有准备好进行这次对话，但它必须发生。"
+**中文理解**："再听到那个名字把我带回难熬的时候。我还没准备好回去，"安娜说。"不用觉得现在就得去，"佩恩说。
 
 **关键词**：
 - `Hearing v. 听到`
@@ -163,9 +163,9 @@
 - `wasn't v. 不是`
 - `quite adv. 完全`
 - `ready adj. 准备好的`
-- `conversation n. 对话`
-- `needs v. 需要`
-- `happen v. 发生`
+- `ready adj. 准备好的`
+- `feel v. 觉得`
+- `there adv. 那里`
 
 **表达方式**："brought me back to a difficult time"——把我带回了困难的时光，暗示Anna的回忆。
 
@@ -173,7 +173,7 @@
 
 ### 第8段：Gregory的去世
 
-> **原句 8:** "It was while I was pregnant for the second time that Gregory died. Complications after the birth."
+> **原句 8:** It was while I was pregnant for the second time that Gregory died. Complications from a surgery I hadn't known he was having. Not saying goodbye was hard.
 
 **中文理解**："Gregory去世时我正怀着第二个孩子。产后并发症。"
 
@@ -188,8 +188,8 @@
 - `Gregory n. Gregory`
 - `died v. 去世`
 - `Complications n. 并发症`
-- `after prep. 在……之后`
-- `birth n. 分娩`
+- `surgery n. 手术`
+- `goodbye n. 告别`
 
 **表达方式**："while I was pregnant for the second time"——怀着第二个孩子时，暗示Gregory去世的时间。
 

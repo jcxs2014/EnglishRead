@@ -72,9 +72,9 @@ Pen和Sasha在侧门的长椅上坐着，剥下湿透的外套。Margot到来，
 
 ### 第3段：进入厨房
 
-> **原句 3:** They went up into the kitchen. An elegant woman dressed in a black suit, her hair piled high on her head, was standing at the counter.
+> **原句 3:** They went up into the kitchen. An elegant woman dressed in a black suit, her hair tied at the base of her neck, was standing with her back to them. She turned and looked Pen up and down coldly.
 
-**中文理解**：他们走上楼进入厨房。一位穿着黑色西装的优雅女人，头发高高盘在头上，正站在柜台前。
+**中文理解**：他们上楼进厨房。一个穿黑西装的优雅女人，头发系在颈后，正背对他们。她转身把佩恩从头打量到脚，冷冷的。
 
 **关键词**：
 - `They pron. 他们`
@@ -92,16 +92,16 @@ Pen和Sasha在侧门的长椅上坐着，剥下湿透的外套。Margot到来，
 - `suit n. 西装`
 - `her adj. 她的`
 - `hair n. 头发`
-- `piled v. 盘在`
-- `high adj. 高的`
+- `tied adj. 系起的`
+- `base n. 根部`
 - `on prep. 在`
-- `head n. 头`
+- `neck n. 脖子`
 - `was v. 是`
 - `standing v. 站着`
 - `at prep. 在`
-- `counter n. 柜台`
+- `coldly adv. 冷冷地`
 
-**表达方式**："dressed in a black suit, her hair piled high"——穿着黑色西装，头发高高盘在头上，暗示Margot的优雅。
+**表达方式**：`"looked Pen up and down coldly"——从头打量到脚，还冷冷的；玛戈的审视是连体温都没有的。
 
 ---
 
@@ -157,7 +157,7 @@ Pen和Sasha在侧门的长椅上坐着，剥下湿透的外套。Margot到来，
 
 ### 第6段：Sasha的回应
 
-> **原句 6:** "You're looking well, Aunt Margot," added Sasha. "Did you bring Freddie with you?"
+> **原句 6:** "You're looking well, Aunt Margot," added Sasha. "Did you bring Freddie with you?
 
 **中文理解**："您看起来很好，Margot姑妈，"Sasha补充道，"您带Freddie来了吗？"
 
@@ -211,7 +211,7 @@ Pen和Sasha在侧门的长椅上坐着，剥下湿透的外套。Margot到来，
 
 ### 第8段：George的话
 
-> **原句 8:** "Night, kid," said George, squeezing Pen's forearm. "I'm glad you came."
+> **原句 8:** "Night, kid," said George, squeezing Pen's forearm. "I'm glad you came.
 
 **中文理解**："晚安，孩子，"George说，捏了捏Pen的前臂，"很高兴你来了。"
 

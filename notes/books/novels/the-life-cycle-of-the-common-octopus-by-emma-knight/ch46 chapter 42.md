@@ -17,7 +17,7 @@ Pen坐Northern线去Angel，找George。他们讨论Pen的工作申请和未来�
 
 ### 第1段：Northern线
 
-> **原句 1:** Pen took the Northern line to Angel. At a chain across from the tube stop, she bought a coffee.
+> **原句 1:** Pen took the Northern line to Angel. At a chain across from the tube stop, she bought two boxed salads, two coffees, and, on impulse, two caramel-smothered Love Bars. She found the blue door of a maisonette on a calm square and pressed the buzzer.
 
 **中文理解**：Pen坐Northern线去Angel。在地铁出口对面的连锁店，她买了一杯咖啡。
 
@@ -64,7 +64,7 @@ Pen坐Northern线去Angel，找George。他们讨论Pen的工作申请和未来�
 
 ### 第3段：Pen的身份
 
-> **原句 3:** "George. It's Pen."
+> **原句 3:** "George. It's Pen.
 
 **中文理解**："George，是我，Pen。"
 
@@ -80,7 +80,7 @@ Pen坐Northern线去Angel，找George。他们讨论Pen的工作申请和未来�
 
 ### 第4段：George的反应
 
-> **原句 4:** George said nothing. A mechanical sound issued from the intercom and the door's lock clicked.
+> **原句 4:** George said nothing. A mechanical sound issued from the intercom and the door's lock clanked open. Pen edged past a stroller to climb a narrow staircase.
 
 **中文理解**：George什么也没说。对讲机发出机械的声音，门锁咔哒一声。
 
@@ -98,7 +98,7 @@ Pen坐Northern线去Angel，找George。他们讨论Pen的工作申请和未来�
 - `the art. 那`
 - `door's n. 门的`
 - `lock n. 锁`
-- `clicked v. 咔哒`
+- `clanked v. 哐当`
 
 **表达方式**："A mechanical sound issued from the intercom"——对讲机发出机械的声音，暗示George的冷漠。
 
@@ -128,7 +128,7 @@ Pen坐Northern线去Angel，找George。他们讨论Pen的工作申请和未来�
 
 ### 第6段：Danny的消防车
 
-> **原句 6:** Danny drove the fire truck over Pen's foot. "Daddy!" he shouted. "Fire! BOOM!"
+> **原句 6:** Danny drove the fire truck over Pen's foot. "Daddy!" he shouted. "Fire! BOOM!
 
 **中文理解**：Danny把消防车开过Pen的脚。"爸爸！"他喊道，"着火啦！爆炸啦！"
 
@@ -175,7 +175,7 @@ Pen坐Northern线去Angel，找George。他们讨论Pen的工作申请和未来�
 
 ### 第8段：Pen的回忆
 
-> **原句 8:** She'd always told me my father was an anonymous donor. When I eventually figured it out, I confronted her. All she said was ‘What took you so long.'
+> **原句 8:** She'd always told me my father was an anonymous donor. When I eventually figured it out, I confronted her. All she said was ‘What took you so long.
 
 **中文理解**：她一直告诉我，我父亲是个匿名捐精人。等我最终弄明白，我去质问她。她只说了一句："你怎么花了这么久。"
 

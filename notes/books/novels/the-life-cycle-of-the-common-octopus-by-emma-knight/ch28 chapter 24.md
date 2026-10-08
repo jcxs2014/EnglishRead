@@ -17,15 +17,15 @@ Alice与Julian发生性关系，两人之间存在权力斗争。Alice通过策�
 
 ### 第1段：Alice被压制
 
-> **原句 1:** Alice could not move. Julian had pinned her down with his body. She could feel the weight of his forearm across her chest.
+> **原句 1:** Alice could not move. Julian had pinned her down with his body. She could feel the weight of his femur bones, the musculature of his thighs crushing hers. They were in the small, spartan bedroom in his flat.
 
-**中文理解**：Alice无法移动。Julian用他的身体把她压住。她能感觉到他前臂横跨在她胸口的重量。
+**中文理解**：爱丽丝动不了。朱利安用身体压住她。她能感到他股骨的重量，大腿肌肉压着她的。两人在他公寓里小小的、简陋的卧室。
 
 **关键词**：
 - `pinned v. 压制`
 - `body n. 身体`
 - `weight n. 重量`
-- `forearm n. 前臂`
+- `femur n. 股骨`
 
 **表达方式**："pinned her down with his body"——用身体把她压住，暗示权力斗争。
 

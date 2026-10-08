@@ -35,7 +35,7 @@
 
 ---
 
-> **原句 2:** "Meet us at the wrap place at 1."
+> **原句 2:** "Meet us at the wrap place at 1.
 
 **中文理解：** "1 点钟在卷饼店见面。
 

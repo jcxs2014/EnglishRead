@@ -37,38 +37,38 @@
 
 ### 第2段：与Sasha并骑
 
-> **原句 2:** Sasha came up beside Pen on a mare named Cindy. Her glossy coat was the same sun-washed brown as his hair. \"Her full name is Cinderella.\" I named her,\" he confessed to Pen as they walked in step. \"But my brother gets full credit for Kevin.\" \"Who chose the name Nellie?\" asked Pen, trying to recover whatever courage had possessed her the night before. \"Let me guess. Your dad, for Nellie Bly.\" He just looked at her. \"You know, the journalist. Ten Days in a Mad-House?\" \"A mad house? This is nothing. Wait until you meet my aunt Margot. And you're lucky, you only have to stay for two,\" he added, smiling. Cindy whipped Kevin with her tail. Kevin stamped an enormous foot.
+> **原句 2:** Sasha came up beside Pen on a mare named Cindy. Her glossy coat was the same sun-washed brown as his hair. "Her full name is Cinderella. I named her," he confessed to Pen as they walked in step. "But my brother gets full credit for Kevin." "Who chose the name Nellie?" asked Pen, trying to recover whatever courage had possessed her the night before. "Let me guess. Your dad, for Nellie Bly." He just looked at her. "You know, the journalist. Ten Days in a Mad-House?" "A mad house?" repeated Sasha. "This is nothing. Wait until you meet my aunt Margot. And you're lucky, you only have to stay for two," he added, smiling. Cindy whipped Kevin with her tail. Kevin stamped an enormous foot. "Don't worry," Sasha said.
 
-**中文理解**：Chet 骑着一匹叫 Brahms 的斑点灰马，一路小跑带头穿过田野。Sasha 骑着一匹叫 Cindy 的母马来到 Pen 旁边。"别担心，"Sasha 说，"Kevin 对 Cindy 有意思，Cindy 知道这一点，所以喜欢逗他。但如果 Kevin 觉得 Cindy 在被追赶，他会冲向树林。"他们沿着树篱骑行，能看到远处河流的微光。
+**中文理解**：萨沙骑着叫辛迪的母马来到佩恩旁边，毛色和他头发一个颜色。"大名叫辛德瑞拉。我起的，"他边走边坦白，"不过凯文归功全算我弟的。" "内莉这名谁起的？"佩恩问，想找回昨晚的勇气。"猜是令尊，为内莉·布莱。"他只看着她。"你知道，记者，《疯人院十日》。" "疯人院？"萨沙重复。"这不算，等你见到我玛戈阿姨。幸运的是你只待两天，"他笑着补一句。辛迪用尾巴抽凯文，凯文跺了下大脚。"别担心，"萨沙说。
 
-**句子结构**：`Chet threw himself onto a dapple gray called Brahms` 的 threw himself 是随意有力的动作描写；Sasha 的对话先安慰后警告，两层意思用 but 转折连接。
+**句子结构**：马名考据串起对话：辛迪、凯文、内莉，起名权归属一路问到记者内莉·布莱；辛迪尾巴一抽、凯文一跺脚，动物们先聊起来。
 
 **关键词**：
-- `trot n. 小跑`
-- `tease v. 逗弄`
-- `hedge n. 树篱`
+- `Cinderella n. 辛德瑞拉`
+- `confess v. 坦白`
+- `tail n. 尾巴`
 
-**表达方式**：`Kevin fancies Cindy` 用 fancies（英式口语，喜欢）表达马的情感；`hover close to Brahms's neck` 描述职业骑手的姿态。
+**表达方式**：`"Her full name is Cinderella. I named her"——大名辛德瑞拉；萨沙给马起人名的郑重其事，是庄园式幽默的开场。
 
-**为什么这样写**：Sasha 解释马的行为时透露了他对马的了解（功能性知识），同时也建立了 Kevin-Cindy 的隐喻关系——这对马的关系可能映射人物关系。Pen 在并骑中与 Sasha 接近，这是两人关系的第一个亲密场景。
+**为什么这样写**：起名考据是并骑时的安全话题：聊马的名字，就不用聊彼此；萨沙把"我弟"和"玛戈阿姨"依次摆出来，等于把家庭成员名单先交给她。
 
 
 ---
 
 ### 第3段：Kevin受惊冲入树林
 
-> **原句 3:** \"Don't worry,\" Sasha said. \"Kevin fancies Cindy and she knows it, so she likes to tease him. But they get along. Does he feel okay?\" \"Great.\" Pen tested out her legs as they walked, reminding herself how to use the gas and brakes. \"A bit rusty, but good.\" Moving through the cool air with Kevin's heat beneath her felt so good that once they'd cleared the fields and entered the canopy of the woods, with the wide trail unfurling ahead, she followed an impulse. She could see Chet cantering up ahead on Brahms, and so she applied firm, even pressure with her calves, guiding Kevin from his bouncing trot into a smooth canter. It felt like slow motion, even though they covered twice the ground in half the time. The soft thump of the ground beneath Kevin's hooves, the trustworthy swoop of his stride, and the way the light filtered in drops between the leaves lulled Pen into a state of peace. This pleasant illusion of control evaporated when the sound of a gunshot crackled through the trees, followed by the frenzied flapping of wings. Kevin, spooked, pinned his ears back and threw his considerable weight into a gallop. Pen lost one stirrup and then the other. Leather and metal flailed against her legs as the enormous horse barreled forward. She clung to his belly with her thighs and leaned back on the reins. She knew there was an emergency stop method that had to do with yanking one arm up while the other stayed down, but she couldn't remember it, and she didn't want to hurt Kevin's mouth. She stayed on, trying to slow him down until Kevin veered from the path. As the branches rushed forward, she ducked low and flung herself from the horse's back, as if rolling from a moving car. Kevin darted into the woods and Chet sped after him, hovering close to Brahms's neck to keep his head attached.
+> **原句 3:** Don't worry," Sasha said. "Kevin fancies Cindy and she knows it, so she likes to tease him. But they get along. Does he feel okay?" "Great." Pen tested out her legs as they walked, reminding herself how to use the gas and brakes. "A bit rusty, but good." "Ready to trot?"…"Sure."
 
-**中文理解**："别担心，"Sasha 说，"Kevin 对 Cindy 有意思。"她能看见 Chet 骑着 Brahms 在前方快跑，于是用小腿施压——这是骑马的核心技术。Kevin 突然冲进树林，Chet 跟在后面，俯身紧紧贴在马脖子上来控制它。"Pen！"Sasha 从 Cindy 背上滑下来，蹲在她旁边，脸上又是愤怒又是担心。
+**中文理解**："别担心，"萨沙说，"凯文喜欢辛迪，她知道，所以爱逗它。不过它俩处得来。它感觉还好？" "好。"佩内洛普边走边试腿，提醒自己油门刹车怎么用。"有点生，但还行。" "准备好小跑？" "行。"
 
-**句子结构**：`She could see Chet cantering up ahead` + `so she applied firm, even pressure with her calves`（因果链）；Kevin 冲进树林是突发动作；Sasha 的帮助是紧急反应。
+**句子结构**：骑马术语三连（gas/brakes/trot）把教学写成开车；短句问答推进上马前的节奏。
 
 **关键词**：
-- `canter v. 快跑`
-- `apply pressure with calves 用小腿施压`
-- `dart v. 猛冲`
+- `trot v. 快步走`
+- `brakes n. 刹车`
+- `tease v. 逗弄`
 
-**表达方式**：`his face contorted with anger and concern` 的 `contorted` 是精准的面部表情词；`hovering close to Brahms's neck` 是骑手控制马的专业动作。
+**表达方式**：`"reminding herself how to use the gas and brakes"`——把骑马写成开车，新手的身体记忆全是错的频道。
 
 **为什么这样写**：这是本章的危机场景。Kevin 受惊冲入树林的标准言情套路——危险来临时，男性角色赶来救援。但 Emma Knight 微妙地颠倒了期待：Sasha 跳下自己的马去帮助 Pen，而不是让 Chet 来救。
 

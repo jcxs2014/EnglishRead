@@ -44,9 +44,9 @@ Pen从Neville的车里给Alice打电话，全身发抖。Jo坐在她的床上。
 
 ### 第2段：Alice的回应
 
-> **原句 2:** "Are you out of your mind?" said Alice when Pen came to the door of Jo's room. She was wearing her pajamas.
+> **原句 2:** Are you out of your mind?" said Alice when Pen came to the door of Jo's room. She pulled Pen inside and flung her arms around her. "Please tell me you'll never do anything that stupid ever again.
 
-**中文理解**："你疯了吗？"Alice说，当Pen来到Jo的房间门口时。她穿着睡衣。
+**中文理解**："你疯了吗？"爱丽丝说。佩内洛普一到乔房间门口，就被她拉进去抱住。"答应我再也不干这种蠢事。"
 
 **关键词**：
 - `Are v. 是`
@@ -66,9 +66,9 @@ Pen从Neville的车里给Alice打电话，全身发抖。Jo坐在她的床上。
 - `room n. 房间`
 - `She pron. 她`
 - `was v. 是`
-- `wearing v. 穿着`
+- `arms n. 手臂`
 - `her adj. 她的`
-- `pajamas n. 睡衣`
+- `inside adv. 里面`
 
 **表达方式**："Are you out of your mind?"——你疯了吗？暗示Alice对Pen的担心。
 
@@ -96,9 +96,9 @@ Pen从Neville的车里给Alice打电话，全身发抖。Jo坐在她的床上。
 
 ### 第4段：Alice的评论
 
-> **原句 4:** "Stinky, you look like a burlesque dancer. What in the blooming flowers of hell are you wearing?"
+> **原句 4:** Stinky, you look like a burlesque dancer. What in the blooming flowers of hell have you been doing?" she said.
 
-**中文理解**："Stinky，你看起来像个滑稽演员。你穿的是什么鬼东西？"
+**中文理解**："臭宝，你像个滑稽舞女。见鬼你晚上都干什么了？"她说。
 
 **关键词**：
 - `Stinky n. Stinky`
@@ -116,7 +116,7 @@ Pen从Neville的车里给Alice打电话，全身发抖。Jo坐在她的床上。
 - `of prep. 的`
 - `hell n. 地狱`
 - `are v. 是`
-- `wearing v. 穿着`
+- `dancer n. 舞者`
 
 **表达方式**："What in the blooming flowers of hell"——该死的什么，暗示Alice的愤怒。
 
@@ -150,9 +150,9 @@ Pen从Neville的车里给Alice打电话，全身发抖。Jo坐在她的床上。
 
 ### 第6段：Jo的抽屉
 
-> **原句 6:** Jo opened her bedside drawer and pulled out a large bag of Haribo gummies. "For the occasion," she said.
+> **原句 6:** Jo opened her bedside drawer and pulled out a large bag of Haribo gummies. "For emergencies," she said. "This qualifies.
 
-**中文理解**：Jo打开她的床头柜抽屉，拿出一大袋Haribo软糖。"为了这个场合，"她说。
+**中文理解**：乔打开床头抽屉，掏出一大袋哈瑞宝软糖。"应急用的，"她说。"这次算。"
 
 **关键词**：
 - `Jo n. Jo`
@@ -170,19 +170,19 @@ Pen从Neville的车里给Alice打电话，全身发抖。Jo坐在她的床上。
 - `Haribo n. Haribo`
 - `gummies n. 软糖`
 - `For prep. 为了`
-- `occasion n. 场合`
+- `emergencies n. 紧急情况`
 - `she pron. 她`
 - `said v. 说`
 
-**表达方式**："For the occasion"——为了这个场合，暗示Jo的调侃。
+**表达方式**：`"For emergencies...This qualifies"`——应急用的，这次算；乔用零食给恐慌定级。
 
 ---
 
 ### 第7段：告诉Peter McAvoy
 
-> **原句 7:** "We have to tell Peter McAvoy immediately," said Jo, who had gone pale. "The department head needs to know."
+> **原句 7:** We have to tell Peter McAvoy immediately," said Jo, who had gone pale. "The department head. He's my director of studies.
 
-**中文理解**："我们必须立刻告诉Peter McAvoy，"Jo说，她脸色苍白。"系主任需要知道。"
+**中文理解**："我们必须立刻告诉彼得·麦卡沃伊，"乔说，她脸白了。"系主任。他是我的导师。"
 
 **关键词**：
 - `We pron. 我们`
@@ -200,8 +200,8 @@ Pen从Neville的车里给Alice打电话，全身发抖。Jo坐在她的床上。
 - `The art. 那`
 - `department n. 部门`
 - `head n. 主任`
-- `needs v. 需要`
-- `know v. 知道`
+- `pale adj. 苍白的`
+- `studies n. 学业`
 
 **表达方式**："We have to tell Peter McAvoy immediately"——我们必须立刻告诉Peter McAvoy，暗示Jo的紧迫感。
 
@@ -209,9 +209,9 @@ Pen从Neville的车里给Alice打电话，全身发抖。Jo坐在她的床上。
 
 ### 第8段：没有证据
 
-> **原句 8:** "Second, there's no proof. No one ever believes a former sexual partner and you can't go around saying that."
+> **原句 8:** Second, there's no proof. No one ever believes a former sexual partner and you know it. And third, even if McAvoy gives him a warning and moves me into another tutorial-and that is the most that will happen on my word alone.
 
-**中文理解**："第二，没有证据。没人相信前性伴侣，而且你不能到处说。"
+**中文理解**："第二，没证据。从没人信前任。再说，就算麦卡沃伊警告他、把我调去别的辅导课——撑死也就这样了。"
 
 **关键词**：
 - `Second n. 第二`
@@ -228,10 +228,10 @@ Pen从Neville的车里给Alice打电话，全身发抖。Jo坐在她的床上。
 - `partner n. 伴侣`
 - `and conj. 和`
 - `you pron. 你`
-- `can't contr. 不能`
+- `proof n. 证据`
 - `go v. 去`
-- `around adv. 到处`
-- `saying v. 说`
+- `warning n. 警告`
+- `tutorial n. 辅导课`
 - `that pron. 那`
 
 **表达方式**："there's no proof"——没有证据，暗示她们面临的困难。

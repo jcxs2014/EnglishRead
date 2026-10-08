@@ -37,20 +37,20 @@
 
 ### 第2段：主要回复（信件主体）
 
-> **原句 4:** Lovely letter. God you're well brought up. You will come back, won't you? I was too deep in my scribbling and not nearly as sharp as you about the details. I should have guessed that you must have been to Talmòrach before, when you were very young, because I was quite sure that I had seen you there. Your description was so vivid that I could almost remember what it had been like.
+> **原句 4:** Lovely letter. God you're well brought up. You will come back, won't you? I was too deep in my scribblings to pay proper attention to you last time. Christina said I was boorish, and I never question her judgment.
 
-**中文理解**：伦诺克斯称赞佩内洛普的信件（"Lovely letter"）和她的教养（"God you're well brought up"）。他说自己在写作时不够敏锐，没注意到细节。然后他揭示了一个惊人的信息——他确认佩内洛普小时候来过Talmòrach（"I was quite sure that I had seen you there"）。最后他说她的描述如此生动，他几乎能回忆起Talmòrach的样子。
+**中文理解**：伦诺克斯称赞佩内洛普的信件（"Lovely letter"）和她的教养（"God you're well brought up"）。他说上次她来，自己埋头瞎写，没好好招待她。克里斯蒂娜说他粗鲁，他从不质疑她的判断，他几乎能回忆起Talmòrach的样子。
 
 **关键词**：
 - `brought up phr. 被抚养长大`
 - `scribbling n. 写作（谦称）`
-- `vivid adj. 生动的`
+- `scribbling n. 瞎写（谦称）`
 
 **表达方式**："I was too deep in my scribbling"——伦诺克斯用"scribbling"自称自己的写作，这是一种自谦（humble）的表达，暗示他知道自己的作品不如佩内洛普的信件精彩。
 
 **关键词**：
 - `Lovely adj. 精彩的`（伦诺克斯对佩内洛普信件的评价）
-- `Guessed v. 猜到`（伦诺克斯说自己应该猜到佩内洛普来过Talmòrach）
+- `boorish adj. 粗鲁的`
 
 ---
 

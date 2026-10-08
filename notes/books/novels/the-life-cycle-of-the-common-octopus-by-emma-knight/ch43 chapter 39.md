@@ -41,9 +41,9 @@ Danny的派对正在进行，Pen在炮楼里与Sasha对话。他们讨论派对�
 
 ### 第2段：Rosh的到来
 
-> **原句 2:** Danny's father, Rosh, who had pulled up an hour before the party was due to start, was still there.
+> **原句 2:** Danny's father, Rosh, who had pulled up an hour before the party was due to start and been greeted as a conquering hero by Lennox and Christina, followed George closely with his eyes.
 
-**中文理解**：Danny的父亲Rosh，在派对开始前一小时到达，仍然在那里。
+**中文理解**：丹尼的父亲罗什，派对开始前一小时就到了，被伦诺克斯和克里斯蒂娜当凯旋英雄迎接，之后一直紧跟着乔治，眼不错珠。
 
 **关键词**：
 - `Danny's n. Danny的`
@@ -60,8 +60,8 @@ Danny的派对正在进行，Pen在炮楼里与Sasha对话。他们讨论派对�
 - `due adj. 预定`
 - `to prep. 去`
 - `start v. 开始`
-- `still adv. 仍然`
-- `there adv. 在那里`
+- `hero n. 英雄`
+- `eyes n. 眼睛`
 
 **表达方式**："had pulled up an hour before the party was due to start"——在派对开始前一小时到达，暗示Rosh的早到。
 
@@ -154,7 +154,7 @@ Danny的派对正在进行，Pen在炮楼里与Sasha对话。他们讨论派对�
 
 ### 第6段：关于Peru的问题
 
-> **原句 6:** "Hi, Freddie. What did you do in Peru that was so awful?"
+> **原句 6:** "Hi, Freddie. What did you do in Peru that was so awful?
 
 **中文理解**："嗨，弗雷迪。你在秘鲁做了什么那么糟糕的事？"——没有问候，没有铺垫，第一个问题就直指秘鲁那件"糟糕的事"。
 

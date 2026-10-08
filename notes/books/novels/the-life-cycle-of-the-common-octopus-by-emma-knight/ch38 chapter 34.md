@@ -17,9 +17,9 @@
 
 ### 第1段：官方声明
 
-> **原句 1:** The official story, sent by email to every student in the School of Philosophy, was that Julian Sachs had been asked to leave the university.
+> **原句 1:** The official story, sent by email to every student in the School of Philosophy, Psychology, and Language Sciences by Department Head Peter McAvoy on a cold morning in February, once the board of faculty members and administrators called upon to decide the matter had reached its conclusion, was that Julian Sachs would take six months' parental leave to support his growing family, effective immediately.
 
-**中文理解**：通过电子邮件发送给哲学系每个学生的官方声明是，Julian Sachs已被要求离开大学。
+**中文理解**：官方说法：寒冷二月的一个早晨，系主任彼得·麦卡沃伊发邮件给哲学、心理与语言科学学院的每个学生：朱利安·萨克斯将休六个月育儿假照顾 growing family，即刻生效。
 
 **关键词**：
 - `The art. 那`
@@ -40,10 +40,10 @@
 - `Julian n. Julian`
 - `Sachs n. Sachs`
 - `had been v. 已被`
-- `asked v. 被要求`
+- `parental adj. 父母的`
 - `to prep. 去`
 - `leave v. 离开`
-- `university n. 大学`
+- `immediately adv. 立刻`
 
 **表达方式**："sent by email to every student"——通过电子邮件发送给每个学生，暗示消息的传播。
 
@@ -224,9 +224,9 @@
 
 ### 第8段：Pen的消息
 
-> **原句 8:** Pen: What do you mean by that exactly? Because I've heard Chet use "kissed" to describe everything from a forehead touch to something more.
+> **原句 8:** Pen: What do you mean by that exactly? Because I've heard Chet use "kissed" to describe any number of activities. In North America we use a baseball metaphor, for clarity's sake.
 
-**中文理解**：Pen：你确切是什么意思？因为我听到Chet用"亲吻"来描述从额头触摸到更亲密的事情。
+**中文理解**：佩恩：你确切指什么？我听切特用"亲吻"指代各种行为。在北美我们用棒球隐喻，讲清楚起见。
 
 **关键词**：
 - `Pen n. Pen`
@@ -245,14 +245,14 @@
 - `kissed v. 亲吻`
 - `to prep. 去`
 - `describe v. 描述`
-- `everything pron. 一切`
-- `from prep. 从`
+- `baseball n. 棒球`
+- `metaphor n. 隐喻`
 - `a art. 一个`
-- `forehead n. 额头`
-- `touch n. 触摸`
+- `activities n. 活动`
+- `clarity n. 清楚`
 - `to prep. 到`
-- `something pron. 某事`
-- `more adj. 更多`
+- `sake n. 缘故`
+- `America n. 美洲`
 
 **表达方式**："What do you mean by that exactly?"——你确切是什么意思？暗示Pen的追问。
 

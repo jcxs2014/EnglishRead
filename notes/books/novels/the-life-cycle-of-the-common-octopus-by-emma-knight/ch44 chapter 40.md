@@ -69,7 +69,7 @@ Alice长了虱子，需要Pen的帮助。Pen给Alice洗虱子洗发水。他们�
 
 ### 第3段：Alice的电话
 
-> **原句 3:** "Pen, I know it's a bad time and you're in a love nest, but I NEED YOU. PLEASE."
+> **原句 3:** "Pen, I know it's a bad time and you're in a love nest, but I NEED YOU. PLEASE.
 
 **中文理解**："Pen，我知道这是个糟糕的时间，你在爱巢里，但我需要你。请。"
 
@@ -122,7 +122,7 @@ Alice长了虱子，需要Pen的帮助。Pen给Alice洗虱子洗发水。他们�
 
 ### 第5段：Pen的回应
 
-> **原句 5:** "Stay there, I'm coming."
+> **原句 5:** "Stay there, I'm coming.
 
 **中文理解**："待在那儿，我来了。"
 

@@ -32,15 +32,15 @@
 
 ### 第2段：与父亲的重逢
 
-> **原句 2:** "DAD!" She nuzzled her cheek against his smooth face. He smelled of leather and something vaguely medicinal.
+> **原句 2:** DAD!" She nuzzled her cheek against his smooth face. He smelled of leather and butterscotch. "What on EARTH are you doing here?
 
-**中文理解**："爸爸！"她把脸贴在他光滑的脸上。他闻起来像皮革和某种淡淡的药味。
+**中文理解**："爸！"她把脸贴上他光滑的脸。他闻起来是皮革和奶糖香。"天哪你怎么会在这儿？"
 
 **关键词**：
 - `nuzzle v. 用鼻子蹭`
 - `cheek n. 脸颊`
 - `smooth adj. 光滑的`
-- `medicinal adj. 药物的`
+- `butterscotch n. 奶糖`
 
 **表达方式**："nuzzled her cheek against his smooth face"——用脸颊蹭他的脸，暗示亲密的关系。
 
@@ -64,15 +64,15 @@
 
 ### 第4段：Nicola的介绍
 
-> **原句 4:** Nicola—a tall and vital, if slightly overwrought, woman whom he privately thought resembled a young Kate Winslet—greeted Pen with a hug and a glass of champagne.
+> **原句 4:** Nicola-a tall and vital, if slightly overwrought, woman whom he privately thought Isaac undervalued, although he tried not to make a habit of speculating about his friends' marriages-had ushered him back inside and ordered two dry gin martinis at the bar.
 
-**中文理解**：Nicola——一个高挑而充满活力，虽然有点紧张的女人，他私下觉得她像年轻时的Kate Winslet——用一个拥抱和一杯香槟迎接佩内洛普。
+**中文理解**：尼古拉——高挑有活力，只是微微紧绷，丈夫私下觉得艾萨克低估了她，虽然他尽量不养成揣测朋友婚姻的习惯——把他迎回去，在吧台点了两杯干马提尼。
 
 **关键词**：
 - `tall adj. 高挑的`
 - `vital adj. 充满活力的`
 - `overwrought adj. 紧张的`
-- `resemble v. 相似`
+- `martini n. 马提尼`
 
 **表达方式**："a tall and vital, if slightly overwrought, woman"——高挑而充满活力，虽然有点紧张，暗示Nicola的性格。
 
@@ -80,7 +80,7 @@
 
 ### 第5段：父亲的建议
 
-> **原句 5:** "Just until morning. I had some business in London, and thought it was a good opportunity for you to see him."
+> **原句 5:** Just until morning. I had some business in London, and thought it was a good opportunity to have Sunday dinner with my favorite girl." "I would never have gone away for the weekend if I'd known you were coming."
 
 **中文理解**："只到今天早上。我在伦敦有些生意，觉得这是个让你见他的好机会。"
 
@@ -112,7 +112,7 @@
 
 ### 第7段：关于Elliot Lennox
 
-> **原句 7:** "Is it fair to say Elliot Lennox is pretty good at creating sly characters with complicated motives?"
+> **原句 7:** "Is it fair to say Elliot Lennox is pretty good at creating sly characters with complicated motives?
 
 **中文理解**："可以说Elliot Lennox很擅长创造复杂的、动机复杂的角色吗？"
 

@@ -73,9 +73,9 @@ Pen在伦敦水族馆，Margot给她写信。他们讨论Pen的父亲和Margot�
 
 ### 第3段：喷泉的人鱼
 
-> **原句 3:** Pen hurried past the spluttering merpeople of the fountains, and across the Strand, to Leicester Square.
+> **原句 3:** Pen hurried past the spluttering merpeople of the fountains, and across the Strand and the Embankment toward the river. She had planned this route the previous night, tracing the path she would take across the Golden Jubilee footbridge and along the Queen's Walk, past the London Eye to the Edwardian County Hall building.
 
-**中文理解**：Pen匆匆走过喷泉的人鱼，穿过Strand，到达莱斯特广场。
+**中文理解**：佩恩匆匆走过喷泉里噗噗吐水的人鱼，穿过河岸街和堤岸往河边去。这条路线她昨晚就 plan 好了：过金禧步行桥，沿女王步道，经过伦敦眼，到爱德华时代的市政厅大楼。
 
 **关键词**：
 - `Pen n. Pen`
@@ -89,8 +89,8 @@ Pen在伦敦水族馆，Margot给她写信。他们讨论Pen的父亲和Margot�
 - `across prep. 穿过`
 - `Strand n. Strand`
 - `to prep. 到`
-- `Leicester n. 莱斯特`
-- `Square n. 广场`
+- `Jubilee n. 金禧`
+- `Embankment n. 堤岸`
 
 **表达方式**："hurried past the spluttering merpeople"——匆匆走过溅水的人鱼，暗示Pen的匆忙。
 
@@ -152,7 +152,7 @@ Pen在伦敦水族馆，Margot给她写信。他们讨论Pen的父亲和Margot�
 
 ### 第6段：Margot的信
 
-> **原句 6:** Margot looked down at the envelope and laughed. Her laughter was delicate, like a tinkling bell.
+> **原句 6:** Margot looked down at the envelope and laughed. Her laughter was delicate, like clinking glass. She reached sideways toward Pen, but instead of taking the envelope, she encircled Pen's forearm and pulled her into an off-kilter embrace.
 
 **中文理解**：Margot低头看着信封笑了。她的笑声很轻柔，像叮当作响的铃声。
 
@@ -211,9 +211,9 @@ Pen在伦敦水族馆，Margot给她写信。他们讨论Pen的父亲和Margot�
 
 ### 第8段：Pen的回应
 
-> **原句 8:** "I don't think you're right," Pen said quietly. "Maybe that used to be the case, but it isn't now."
+> **原句 8:** I don't think you're right," Pen said quietly. "Maybe that used to be the case, but no one thinks it's selfish or unnatural anymore. Things have changed."
 
-**中文理解**："我不认为你是对的，"Pen轻声说，"也许过去是这样，但现在不是了。"
+**中文理解**："我觉得你不对，"佩恩轻声说，"也许过去是这样，但没人再觉得那是自私或不自然。情况变了。"
 
 **关键词**：
 - `I pron. 我`
@@ -233,10 +233,10 @@ Pen在伦敦水族馆，Margot给她写信。他们讨论Pen的父亲和Margot�
 - `case n. 情况`
 - `but conj. 但是`
 - `it pron. 它`
-- `isn't contr. 不是`
-- `now adv. 现在`
+- `anymore adv. 再也不`
+- `changed adj. 改变了的`
 
-**表达方式**："Maybe that used to be the case, but it isn't now"——也许过去是这样，但现在不是了，暗示Pen的反对。
+**表达方式**：`"Things have changed"——情况变了；女儿用现在时驳母亲那代人的旧账。
 
 ## 本章词汇
 

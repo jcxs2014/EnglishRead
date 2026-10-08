@@ -61,16 +61,16 @@
 
 ### 第4段：克里斯蒂娜的家庭安排
 
-> **原句 4:** After the events of Thursday and Friday, however, Christina had not wanted visitors. She'd rung Sasha and told him she was busy, though she had done nothing more strenuous than wash the dishes and make the beds.
+> **原句 4:** After the events of Thursday and Friday, however, Christina had not wanted visitors. She'd rung Sasha soon after the first shock, not only to ask that he put off his guest, but also because he listened well and was capable of sound judgment.
 
-**中文理解**：在周四和周五的事件之后，克里斯蒂娜不想有访客。她给 Sasha 打了电话说她很忙，尽管她做的只是洗碗和铺床。
+**中文理解**：周四周五的事之后，克里斯蒂娜不想见客。第一波震惊后不久她就给萨沙打了电话，不只为请他推迟客人，更因为他听得进话、判断靠谱。
 
 **关键词**：
 - `visitor n. 访客`
-- `strenuous adj. 紧张的、费劲的`
-- `disclosure n. 披露、透露`
+- `judgment n. 判断力`
+- `shock n. 震惊`
 
-**表达方式**："though she had done nothing more strenuous than"——尽管她做的只是……，暗示克里斯蒂娜用"忙"作为借口来拒绝访客。
+**表达方式**：`"not only...but also because he listened well"——不只为推迟客人，更因为他听得进话；求助和用人一次办完。
 
 ---
 
@@ -92,16 +92,16 @@
 
 ### 第6段：父亲的期望
 
-> **原句 6:** Christina's father, Sir William Campbell, the third son of a landowning family from Gloucestershire, had once said to her: "It is impossible to be a good ambassador without a good wife, Teensy."
+> **原句 6:** Christina's father, Sir William Campbell, the third son of a landowning family from Gloucestershire, had (as he never let his own children forget) not inherited but earned his place in the world, thanks to two elder brothers who had, in his words, "proven stubbornly impervious to wars, shooting accidents, and useful calamities of all descriptions."
 
-**中文理解**：克里斯蒂娜的父亲威廉爵士，来自格洛斯特郡的地产家族第三个儿子，曾对她说："没有好妻子就不可能成为好的大使，小蒂蒂。"
+**中文理解**：克里斯蒂娜的父亲威廉爵士是格洛斯特郡地产家族的老三（他从不让孩子忘记这一点）：爵位不是继承的，是挣来的，多亏两个哥哥用他的话说"对战争、枪击事故和各种有用的灾难顽固免疫"。
 
 **关键词**：
-- `ambassador n. 大使`
+- `earn v. 挣得`
 - `landowning adj. 拥有土地的`
 - `third son n. 第三个儿子`
 
-**表达方式**："It is impossible to be a good ambassador without a good wife"——父亲的话暗示女性应该通过婚姻来支持丈夫的事业。
+**表达方式**：`"proven stubbornly impervious"`——对灾难顽固免疫，父亲用玩笑把继承说成 siblings 的失败红利。
 
 ---
 
@@ -123,17 +123,17 @@
 
 ### 第8段：弗雷迪的问题
 
-> **原句 8:** Christina ought to have taken him out of that school at the first sign of trouble. She hadn't grasped the extent to which Freddie was being bullied, and she had been too proud to admit it.
+> **原句 8:** Christina ought to have taken him out of that school at the first sign of trouble. She hadn't grasped, at the time, the full extent of the persecution he had suffered at the hands of Cousin Hugh.
 
-**中文理解**：克里斯蒂娜本应在最初发现麻烦迹象时就把他（弗雷迪）从那所学校带走。她没有意识到弗雷迪被欺凌的程度，也过于骄傲而不愿承认。
+**中文理解**：克里斯蒂娜本应在最初发现麻烦迹象时就把他（弗雷迪）从那所学校带走。当时她没完全看清他在休表哥手下受了多少迫害。
 
 **关键词**：
 - `ought to v. 应该`
 - `sign n. 迹象、征兆`
 - `extent n. 程度、范围`
-- `proud adj. 骄傲的`
+- `persecution n. 迫害`
 
-**表达方式**："She hadn't grasped the extent to which"——她没有意识到……的程度，暗示克里斯蒂娜对弗雷迪处境的无知。
+**表达方式**：`"the full extent of the persecution"——迫害的全部程度；母亲的后知后觉被写成计量问题。
 
 ## 本章词汇
 

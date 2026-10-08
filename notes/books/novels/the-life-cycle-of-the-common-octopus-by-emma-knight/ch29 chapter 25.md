@@ -33,7 +33,7 @@
 
 ### 第2段：Flossie的打扰
 
-> **原句 2:** "I'm so glad you're here," Flossie said in her doll's voice. "I could never face sitting alone."
+> **原句 2:** "I'm so glad you're here," Flossie said in her doll's voice. "I could never face sitting alone.
 
 **中文理解**："我很高兴你在这里，"Flossie用她的娃娃声说，"我从来不敢独自坐在这里。"
 
@@ -82,7 +82,7 @@
 
 ### 第5段：Sasha Lennox的照片
 
-> **原句 5:** "Oh look, Sasha Lennox. Ferg said he's a friend of yours?" she asked after a while, pushing the fattened spread of a magazine over the table.
+> **原句 5:** Oh look, Sasha Lennox. Ferg said he's a friend of yours?" she asked after a while, pushing the fattest and glossiest of the magazines toward Pen.
 
 **中文理解**："哦看，Sasha Lennox。Ferg说他是你的朋友？"她过了一会儿问，把杂志的一页推过桌子。
 
@@ -93,7 +93,7 @@
 - `pushing v. 推`
 - `magazine n. 杂志`
 
-**表达方式**："pushing the fattened spread of a magazine over the table"——把杂志的一页推过桌子，暗示Flossie的八卦。
+**表达方式**：`"pushing the fattest and glossiest of the magazines"——把最厚最亮的那本推过去；八卦的载体越光鲜，越显得居心。
 
 ---
 

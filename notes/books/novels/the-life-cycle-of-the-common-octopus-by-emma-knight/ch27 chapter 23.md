@@ -80,16 +80,16 @@
 
 ### 第5段：Alice的疏远
 
-> **原句 5:** Alice had been hard to pin down for weeks. Pen knew that these unexplained absences had more to do with her own insecurities than with anything Alice was doing.
+> **原句 5:** Alice had been hard to pin down for weeks. Pen knew that these unexplained absences had more to do with Julian than with rehearsals, but she was careful not to let on.
 
-**中文理解**：Alice几周来都很难找到。佩内洛普知道这些无法解释的缺席更多与自己的不安全感到有关，而不是Alice在做什么。
+**中文理解**：爱丽丝几周来行踪不定。佩内洛普知道这些没来由的缺席更多和朱利安有关，和排练无关，但她小心不说破。
 
 **关键词**：
 - `hard to pin down phrase 很难找到`
 - `weeks n. 几周`
 - `unexplained adj. 无法解释的`
 - `absences n. 缺席`
-- `insecurities n. 不安全感`
+- `let on phrase 透露`
 
 **表达方式**："hard to pin down"——很难找到，暗示Alice行踪不定。
 
@@ -97,7 +97,7 @@
 
 ### 第6段：Jo的疏远
 
-> **原句 6:** Soon after that conversation, Jo, too, had become elusive, not answering Pen's messages until the next day.
+> **原句 6:** Soon after that conversation, Jo, too, had become elusive, not answering Pen's messages until the next morning, and letting her phone ring through to voicemail.
 
 **中文理解**：在那次谈话后不久，Jo也变得难以找到，直到第二天才回复佩内洛普的消息。
 
@@ -113,15 +113,15 @@
 
 ### 第7段：Fergus的关注
 
-> **原句 7:** Meanwhile, Fergus's attentions to Pen had become more obvious. He had amassed a collection of words he thought might impress her.
+> **原句 7:** Meanwhile, Fergus's attentions to Pen had become more obvious. He had amassed a collection of words beginning with "Pen" that he produced as pet names in the same tone one might use to address a dog or horse.
 
-**中文理解**：与此同时，Fergus对佩内洛普的关注变得更加明显。他积累了他认为可能会打动她的词语。
+**中文理解**：与此同时，弗格斯对佩内洛普的殷勤更明显了。他攒了一堆"佩"字头的词当爱称，口气像唤狗，现在还像唤马。
 
 **关键词**：
 - `attentions n. 关注`
 - `obvious adj. 明显的`
 - `amassed v. 积累`
-- `impress v. 打动`
+- `pet names n. 爱称`
 
 **表达方式**："amassed a collection of words"——积累了词语，暗示Fergus在努力吸引佩内洛普。
 

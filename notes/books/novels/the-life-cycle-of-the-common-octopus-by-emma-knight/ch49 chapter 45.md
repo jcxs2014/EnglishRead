@@ -65,7 +65,7 @@ Pen在与伦纳斯对话后，去房间拿东西。她散步穿过爱丁堡的�
 
 ### 第3段：街道的转弯
 
-> **原句 3:** Dalkeith Road turned to St. Leonard. Pen cut in toward George Square, turned right onto Nicholson Street.
+> **原句 3:** Dalkeith Road turned to St. Leonard. Pen cut in toward George Square, turned right on Nicholson Street, and continued past the mosque kitchen, where you could get a vegetarian lunch for two pounds to eat in the garden of the Pear Tree, past the Festival Theatre where Alice would play a terrifying modern-day Clytemnestra in August, and past the Blackwell's bookstore across from Old College, where you could take your purchases into the attached café and read undisturbed for hours.
 
 **中文理解**：Dalkeith路转向St. Leonard。Pen切入乔治广场方向，右转进入Nicholson街。
 
@@ -84,7 +84,7 @@ Pen在与伦纳斯对话后，去房间拿东西。她散步穿过爱丁堡的�
 - `Square n. 广场`
 - `turned v. 转向`
 - `right adv. 右`
-- `onto prep. 进入`
+- `mosque n. 清真寺`
 - `Nicholson n. Nicholson`
 - `Street n. 街`
 
@@ -141,9 +141,9 @@ Pen在与伦纳斯对话后，去房间拿东西。她散步穿过爱丁堡的�
 
 ### 第6段：被抛弃的经历
 
-> **原句 6:** "Being run out on in the middle of the night and then ignored for a week? Yes. I felt like it."
+> **原句 6:** Being run out on in the middle of the night and then ignored for a week? Yes. I minded." "It wasn't a week. Just five days."
 
-**中文理解**："半夜被抛弃，然后被忽视一周？是的。我那样感觉。"
+**中文理解**："半夜被甩，然后晾一周？是，我介意。" "没一周。就五天。"
 
 **关键词**：
 - `Being v. 被`
@@ -164,8 +164,8 @@ Pen在与伦纳斯对话后，去房间拿东西。她散步穿过爱丁堡的�
 - `Yes int. 是的`
 - `question mark ? 问号`
 - `I pron. 我`
-- `felt v. 感觉`
-- `like prep. 像`
+- `mind v. 介意`
+- `days n. 天`
 - `it pron. 它`
 
 **表达方式**："Being run out on in the middle of the night and then ignored for a week"——半夜被抛弃，然后被忽视一周，暗示Pen的经历。
@@ -174,7 +174,7 @@ Pen在与伦纳斯对话后，去房间拿东西。她散步穿过爱丁堡的�
 
 ### 第7段：互相理解
 
-> **原句 7:** "That makes one of us."
+> **原句 7:** "That makes one of us.
 
 **中文理解**："那算我一个。"
 
@@ -192,9 +192,9 @@ Pen在与伦纳斯对话后，去房间拿东西。她散步穿过爱丁堡的�
 
 ### 第8段：Sasha的微笑
 
-> **原句 8:** He shook his head, smiling in earnest now. "Do you forgive me for behaving like an idiot?"
+> **原句 8:** He shook his head, smiling in earnest now. "Do you forgive me for behaving like a jerk?" She took his face between her hands.
 
-**中文理解**：他摇摇头，现在真心地微笑。"你原谅我像个傻瓜一样行为吗？"
+**中文理解**：他摇头，这次笑得真诚。"我半夜跑掉、犯浑，你原谅我吗？"她捧住他的脸。
 
 **关键词**：
 - `He pron. 他`
@@ -213,10 +213,10 @@ Pen在与伦纳斯对话后，去房间拿东西。她散步穿过爱丁堡的�
 - `behaving v. 行为`
 - `like prep. 像`
 - `an art. 一个`
-- `idiot n. 傻瓜`
+- `jerk n. 蠢货`
 - `question mark ? 问号`
 
-**表达方式**："Do you forgive me for behaving like an idiot?"——你原谅我像个傻瓜一样行为吗？暗示Sasha的诚恳。
+**表达方式**：`"behaving like a jerk"——犯浑；道歉先认领最难听的那个词，诚恳才有分量。
 
 ## 本章词汇
 

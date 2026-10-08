@@ -17,9 +17,9 @@ Pen和Sasha五月去Talmòrach。Christina在花园里种花。他们讨论Margo
 
 ### 第1段：去Talmòrach
 
-> **原句 1:** The next time Pen went with Sasha to Talmòrach, it was May. The air smelled of rain and new growth.
+> **原句 1:** The next time Pen went with Sasha to Talmòrach, it was May. The air smelled of rich mud and was full of sunlight and bird chatter, and the lawns, shrubs, and leaves were a luminous green.
 
-**中文理解**：Pen和Sasha下一次去Talmòrach，是五月。空气中弥漫着雨水和新生的气息。
+**中文理解**：佩恩下次和萨沙去塔尔莫拉赫是五月。空气是肥沃泥土味，满是阳光和鸟鸣，草坪灌木叶子绿得发光。
 
 **关键词**：
 - `The art. 那`
@@ -38,18 +38,18 @@ Pen和Sasha五月去Talmòrach。Christina在花园里种花。他们讨论Margo
 - `air n. 空气`
 - `smelled v. 弥漫着`
 - `of prep. 的`
-- `rain n. 雨水`
+- `mud n. 泥土`
 - `and conj. 和`
 - `new adj. 新的`
-- `growth n. 生长`
+- `chatter n. 鸣叫`
 
-**表达方式**："The air smelled of rain and new growth"——空气中弥漫着雨水和新生的气息，暗示春天的氛围。
+**表达方式**：`"rich mud...luminous green"——肥沃的泥和发光的绿；春天在这里是泥土味的，不是花香的。
 
 ---
 
 ### 第2段：Christina的脚
 
-> **原句 2:** Seeing Pen, Christina jumped to her feet. "Darling!" she said, pulling off her gardening gloves.
+> **原句 2:** Seeing Pen, Christina jumped to her feet. "Darling!" she said, pulling off her gloves and hugging her close. "I had a feeling I might find you here," Pen said.
 
 **中文理解**：看到Pen，Christina跳起来。"亲爱的！"她说，摘下她的手套。
 
@@ -67,7 +67,7 @@ Pen和Sasha五月去Talmòrach。Christina在花园里种花。他们讨论Margo
 - `pulling v. 摘`
 - `off adv. 脱`
 - `her adj. 她的`
-- `gardening adj. 花园的`
+- `hug v. 拥抱`
 - `gloves n. 手套`
 
 **表达方式**："jumped to her feet"——跳起来，暗示Christina的热情。
@@ -99,7 +99,7 @@ Pen和Sasha五月去Talmòrach。Christina在花园里种花。他们讨论Margo
 
 ### 第4段：Christina的花
 
-> **原句 4:** "Funny," said Christina, resuming her previous position amid the white and pink buds that looked like roses, but without the thorns. "I used to hate gardening."
+> **原句 4:** "Funny," said Christina, resuming her previous position amid the white and pink buds that looked like roses, but without the thorns. "I used to hate gardening.
 
 **中文理解**："有趣，"Christina说，恢复了她先前在白色和粉色玫瑰中的位置。
 

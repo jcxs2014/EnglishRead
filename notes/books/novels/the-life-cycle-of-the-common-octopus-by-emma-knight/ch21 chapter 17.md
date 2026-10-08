@@ -31,44 +31,44 @@
 
 ### 第2段：佩内洛普的失望与克里斯蒂娜的补偿
 
-> **原句 2:** Pen's disappointment was softened by the prospect of spending time alone with Christina. Over the past few weeks, Pen had come to regard her as a kind of older sister figure, someone who offered the same blend of warmth and teasing that Pen had always wanted from an older sibling.
+> **原句 2:** Pen's disappointment was softened by the prospect of spending time alone with Christina. Over the past three weeks, she had loomed almost as large in Pen's imagination as Sasha himself.
 
-**中文理解**：佩内洛普的失望被独自与克里斯蒂娜相处的预期所缓解。在过去几周，佩内洛普把她视为一个姐姐般的人物。
+**中文理解**：佩内洛普的失望被独自与克里斯蒂娜相处的预期所缓解。过去三周，克里斯蒂娜在她想象里越长越大，几乎和萨沙本人一样大。
 
 **关键词**：
 - `prospect n. 前景、预期`
 - `soften v. 软化、缓解`
-- `blend n. 混合物`
+- `loom v. 赫然显现`
 
-**表达方式**："a kind of older sister figure"——把克里斯蒂娜比作姐姐，暗示佩内洛普在她的生活中缺乏年长的女性角色。
+**表达方式**：`"loomed almost as large...as Sasha himself"`——三周不见，克里斯蒂娜在想象里长到和萨沙一样大；期待已经先于见面膨胀。
 
 ---
 
 ### 第3段：佩内洛普的礼貌分类理论
 
-> **原句 3:** Manners, Pen had lately decided, could be separated into two categories. In the first she placed all the people she knew who were polite in a perfunctory way, who said "thank you" and "please" out of habit rather than conviction. In the second she placed the people like Christina, whose politeness seemed to come from a deeper place, from a genuine respect for other people.
+> **原句 3:** Manners, Pen had lately decided, could be separated into two categories. In the first she placed all those social protocols whose true purpose was to delineate between people who had been taught them and people who had not.
 
-**中文理解**：佩内洛普最近决定把礼貌分为两类：第一类是出于习惯而非信念的礼貌，第二类像克里斯蒂娜那样从更深的地方、从对他人真正的尊重中来的礼貌。
+**中文理解**：佩内洛普最近认定礼貌分两类：第一类社交礼仪，真功能是划线，分出受过教的和没受过的。
 
 **关键词**：
-- `perfunctory adj. 敷衍的、例行公事的`
+- `delineate v. 划分`
 - `protocol n. 礼仪、惯例`
 - `separate v. 分开、分类`
 
-**表达方式**："polite in a perfunctory way"——用"perfunctory"（敷衍的）来描述某些人的礼貌，暗示这是一种表面行为，而不是发自内心的。
+**表达方式**：`"delineate between people"`——礼貌被写成划线工具，教过与没教过是两边；分类本身就是佩内洛普的自我定位。
 
 ---
 
 ### 第4段：佩内洛普理论的盲点
 
-> **原句 4:** As was often true of Pen's theories, however, she had missed something. She had not yet noticed that Christina's politeness was not universal; it was extended to people she found amusing, or people who reminded her of someone she had known in the past.
+> **原句 4:** As was often true of Pen's theories, however, she had missed something. She had not yet noticed that consistently putting others at ease must at times demand the skillful concealment of any inconvenience-a headache, a sleepless night, Gregor Samsa scuttling around his room-that might stand in the way of one's own comfort.
 
-**中文理解**：佩内洛普的理论遗漏了一点——克里斯蒂娜的礼貌不是普遍的，她只对她觉得有趣的人或让她想起过去某个人的人表现出礼貌。
+**中文理解**：但佩内洛普的理论照例漏了一块——她还没发现，让人舒服有时得巧妙藏起自己的不便：头疼、失眠、格里高尔·萨姆沙在房里窸窣，凡是挡自己舒服的东西。
 
 **关键词**：
 - `theory n. 理论`
 - `miss v. 错过、遗漏`
-- `amusing adj. 有趣的`
+- `concealment n. 隐藏`
 
 **表达方式**："As was often true of Pen's theories"——这句话暗示佩内洛普经常犯错，她的理论往往不完整。
 
@@ -120,7 +120,7 @@
 
 ### 第8段：Talmòrach 与 Sasha 的房间
 
-> **原句 8:** The room was dark, its curtains closed, and she knew from the smell—a fug of sweat and grass—that it was Sasha's room.
+> **原句 8:** The room was dark, its curtains closed, and she knew from the smell-a fug of sweat and grass-that it was not the green bedroom. A flicker of curiosity twitched in her chest.
 
 **中文理解**：房间是暗的，窗帘关着，佩内洛普从气味——一股汗水和草的气味——知道这是 Sasha 的房间。
 

@@ -17,9 +17,9 @@ Pen与Lennox对话，他问她是否听说过他的姐姐。Pen烦躁，去拿�
 
 ### 第1段：Alice的回复
 
-> **原句 1:** With Alice's incredulous replies and demands for more information buzzing in her head, Pen went up to the kitchen.
+> **原句 1:** With Alice's incredulous replies and demands for more information buzzing in her pocket, Pen went down to the kitchen. She was hungry.
 
-**中文理解**：带着Alice的难以置信的回复和索要更多信息的要求在脑海中嗡嗡作响，Pen走上楼进入厨房。
+**中文理解**：带着爱丽丝难以置信的回复和索要更多信息的要求在兜里嗡嗡作响，佩恩下楼进厨房。她饿了。
 
 **关键词**：
 - `With prep. 带着`
@@ -34,7 +34,7 @@ Pen与Lennox对话，他问她是否听说过他的姐姐。Pen烦躁，去拿�
 - `buzzing v. 嗡嗡作响`
 - `in prep. 在`
 - `her adj. 她的`
-- `head n. 头`
+- `hungry adj. 饿的`
 - `Pen n. Pen`
 - `went v. 走`
 - `up adv. 上`
@@ -47,7 +47,7 @@ Pen与Lennox对话，他问她是否听说过他的姐姐。Pen烦躁，去拿�
 
 ### 第2段：Lennox的招待
 
-> **原句 2:** "Penelope," he said, setting down the centerfold of a lurid tabloid. "Good morning."
+> **原句 2:** "Penelope," he said, setting down the centerfold of a lurid tabloid. "Good morning.
 
 **中文理解**："Penelope，"他说，放下 lurid 小报的中间折页。"早上好。"
 
@@ -139,9 +139,9 @@ Pen与Lennox对话，他问她是否听说过他的姐姐。Pen烦躁，去拿�
 
 ### 第5段：Lennox倒茶
 
-> **原句 5:** Lennox was pouring her a cup of tea. It was still steaming hot, though it had already been poured.
+> **原句 5:** Lennox was pouring her a cup of tea. It was still steaming hot, though it had steeped almost to the point of opacity. "I'm glad to have company," he said when she offered to leave him in peace.
 
-**中文理解**：Lennox正在给她倒一杯茶。它仍然热气腾腾，虽然已经倒了。
+**中文理解**：伦诺克斯正在给她倒茶。茶还烫手，尽管已经泡到快不透光。"有人陪真好，"她说要走，他留她。
 
 **关键词**：
 - `Lennox n. Lennox`
@@ -160,10 +160,10 @@ Pen与Lennox对话，他问她是否听说过他的姐姐。Pen烦躁，去拿�
 - `though conj. 虽然`
 - `it pron. 它`
 - `had already v. 已经`
-- `been v. 被`
-- `poured v. 倒了`
+- `steep v. 泡`
+- `opacity n. 不透光`
 
-**表达方式**："It was still steaming hot, though it had already been poured"——它仍然热气腾腾，虽然已经倒了，暗示茶的温度。
+**表达方式**：`"steeped almost to the point of opacity"——泡到快不透光；老派英国人的茶，浓到像借口。
 
 ---
 
@@ -194,9 +194,9 @@ Pen与Lennox对话，他问她是否听说过他的姐姐。Pen烦躁，去拿�
 
 ### 第7段：Pen的烦躁
 
-> **原句 7:** Irritation emboldened her. Pen went over to the cupboard where the bowls were kept and took one out.
+> **原句 7:** Irritation emboldened her. Pen went over to the cupboard where the bowls were kept and helped herself to cereal. If Lennox had something to tell her, let him say it, she thought.
 
-**中文理解**：烦躁给了她勇气。Pen走到放碗的柜子旁，拿出一个。
+**中文理解**：烦躁给了她勇气。佩恩走到放碗的柜子，给自己盛麦片。伦诺克斯要是有话跟她说，让他自己说，她想。
 
 **关键词**：
 - `Irritation n. 烦躁`
@@ -213,7 +213,7 @@ Pen与Lennox对话，他问她是否听说过他的姐姐。Pen烦躁，去拿�
 - `were v. 是`
 - `kept v. 存放`
 - `and conj. 和`
-- `took v. 拿`
+- `cereal n. 麦片`
 - `one pron. 一个`
 - `out adv. 出`
 
@@ -223,7 +223,7 @@ Pen与Lennox对话，他问她是否听说过他的姐姐。Pen烦躁，去拿�
 
 ### 第8段：关于派对的讨论
 
-> **原句 8:** "It's not the nineteenth century, for heaven's sake. It's possible to have both, is it not?"
+> **原句 8:** It's not the nineteenth century, for heaven's sake. It's possible to have both," Christina countered. "Is it?" said Margot.
 
 **中文理解**："这不是十九世纪，看在老天的份上。两者是可能同时拥有的，不是吗？"
 

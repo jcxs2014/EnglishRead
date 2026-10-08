@@ -70,9 +70,9 @@ Pen在闹钟前醒来，Sasha来访。他们讨论Freddie，Pen意识到自己�
 
 ### 第3段：邀请进入
 
-> **原句 3:** "May I—?" He was waiting for her to invite him in. She saw the first-year resident in the flat across the corridor staring at them.
+> **原句 3:** May I-?" He was waiting for her to invite him in. She saw the first-year residence corridor through his eyes, with its odor-infused carpeting and scribbled-over name tags.
 
-**中文理解**："我可以进来吗？"他在等她的邀请。她看到走廊对面公寓的一年级住户盯着他们看。
+**中文理解**："我能进来吗？"他在等她邀请。她透过他的眼睛看一年级宿舍走廊：浸透气味的地毯，涂满字的名牌。
 
 **关键词**：
 - `May v. 可以`
@@ -91,14 +91,14 @@ Pen在闹钟前醒来，Sasha来访。他们讨论Freddie，Pen意识到自己�
 - `the art. 那`
 - `first adj. 第一`
 - `year n. 年`
-- `resident n. 住户`
-- `in prep. 在`
-- `flat n. 公寓`
-- `across prep. 对面`
 - `corridor n. 走廊`
-- `staring v. 盯着`
+- `in prep. 在`
+- `carpeting n. 地毯`
+- `tags n. 标签`
+- `corridor n. 走廊`
+- `odor n. 气味`
 - `at prep. 对`
-- `them pron. 他们`
+- `infused adj. 浸透的`
 
 **表达方式**："waiting for her to invite him in"——在等她的邀请，暗示Sasha的尊重。
 
@@ -106,7 +106,7 @@ Pen在闹钟前醒来，Sasha来访。他们讨论Freddie，Pen意识到自己�
 
 ### 第4段：Pen的母亲
 
-> **原句 4:** "She looks just like you," he said. "Although her eyes are brown. Those must be from her dad."
+> **原句 4:** "She looks just like you," he said. "Although her eyes are brown. Those must be from her dad.
 
 **中文理解**："她看起来和你一模一样，"他说，"虽然她的眼睛是棕色的。那一定是她父亲的。"
 
@@ -177,9 +177,9 @@ Pen在闹钟前醒来，Sasha来访。他们讨论Freddie，Pen意识到自己�
 
 ### 第7段：Pen的思考
 
-> **原句 7:** Pen looked at Sasha's face in profile while he focused on the road. She was comparing his profile to her mother's.
+> **原句 7:** Pen looked at Sasha's face in profile while he focused on the road. She was completely at a loss. "He's the government intelligence official," Sasha said, glancing sideways at her.
 
-**中文理解**：Pen看着Sasha的侧脸，而他专注于道路。她正在将他的侧脸与母亲的比较。
+**中文理解**：佩恩看萨沙开车的侧脸，完全没了主意。"他是政府情报官员，"萨沙说，斜瞥她一眼。
 
 **关键词**：
 - `Pen n. Pen`
@@ -197,14 +197,14 @@ Pen在闹钟前醒来，Sasha来访。他们讨论Freddie，Pen意识到自己�
 - `road n. 道路`
 - `She pron. 她`
 - `was v. 是`
-- `comparing v. 比较`
+- `official n. 官员`
 - `his adj. 他的`
 - `profile n. 侧脸`
 - `to prep. 与`
 - `her adj. 她的`
-- `mother's n. 母亲的`
+- `intelligence n. 情报`
 
-**表达方式**："comparing his profile to her mother's"——将他的侧脸与母亲的比较，暗示Pen的观察。
+**表达方式**：`"government intelligence official"——政府情报官员；萨沙把玩笑开得一本正经，拿身份当调情。
 
 ---
 

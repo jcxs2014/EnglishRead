@@ -129,7 +129,7 @@ Alice和佩内洛普坐机场穿梭巴士离开。Alice没有告诉佩内洛普�
 
 ### 第7段：Alice的同意
 
-> **原句 7:** "The thing is, he will," Alice agreed, gently removing Hugo's arm from her shoulders and returning it to where it had come from.
+> **原句 7:** The thing is, he will," Alice agreed, gently removing Hugo's arm from her shoulders and returning it to his side, where Hugo watched it flop down as if it weren't attached to his body. "Not from Sweeties Vodka.
 
 **中文理解**："事情是这样的，他会的，"Alice同意道，轻轻地把Hugo的手臂从她肩膀上移开，放回它来的地方。
 

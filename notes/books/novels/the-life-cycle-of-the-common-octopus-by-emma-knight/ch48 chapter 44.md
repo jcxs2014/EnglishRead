@@ -17,9 +17,9 @@ Pen的父母打电话给她，讨论Pen的过去和未来。他们讨论Jake和F
 
 ### 第1段：天空
 
-> **原句 1:** The sky was a wispy blue. A warm breeze carried the promise of a fresh round of flowers.
+> **原句 1:** The sky was a wispy blue. A warm breeze carried the promise of a fresh round of exams. Pen was sitting on a bench in the middle of the concrete courtyard, trying and failing to lose herself in a novel.
 
-**中文理解**：天空是淡蓝色的。温暖的微风带着新一轮鲜花的承诺。
+**中文理解**：天是淡蓝的。暖风带着新一轮考试的许诺。佩恩坐在水泥院子中间的长椅上，想钻进书里躲起来，没成功。
 
 **关键词**：
 - `The art. 那`
@@ -37,9 +37,9 @@ Pen的父母打电话给她，讨论Pen的过去和未来。他们讨论Jake和F
 - `fresh adj. 新鲜的`
 - `round n. 轮`
 - `of prep. 的`
-- `flowers n. 鲜花`
+- `novel n. 小说`
 
-**表达方式**："carried the promise of a fresh round of flowers"——带着新一轮鲜花的承诺，暗示春天的到来。
+**表达方式**：`"trying and failing to lose herself in a novel"——想钻进书里又失败；逃避这件事本身也被写出来了。
 
 ---
 
@@ -73,9 +73,9 @@ Pen的父母打电话给她，讨论Pen的过去和未来。他们讨论Jake和F
 
 ### 第3段：三天的间隔
 
-> **原句 3:** During the three-day interval between her trip to London and Alice's opening night, Pen had called her parents.
+> **原句 3:** During the three-day interval between her trip to London and Alice's opening night, Pen had woken up early each morning, gone for a run through Holyrood Park, taken careful notes in her classes, done her work, and fallen into bed almost immediately after dinner.
 
-**中文理解**：在去伦敦的旅行和Alice首映夜的三天间隔中，Pen给父母打了电话。
+**中文理解**：去伦敦和爱丽丝首映夜之间的三天空档，佩恩每天早起，绕霍利鲁德公园跑步，上课记笔记，写完作业，晚饭后倒头就睡。
 
 **关键词**：
 - `During prep. 在……期间`
@@ -94,9 +94,9 @@ Pen的父母打电话给她，讨论Pen的过去和未来。他们讨论Jake和F
 - `night n. 夜晚`
 - `Pen n. Pen`
 - `had v. 已`
-- `called v. 打电话`
+- `notes n. 笔记`
 - `her adj. 她的`
-- `parents n. 父母`
+- `Holyrood n. 霍利鲁德`
 
 **表达方式**："the three-day interval between her trip to London and Alice's opening night"——在去伦敦的旅行和Alice首映夜的三天间隔中，暗示时间的流逝。
 
@@ -134,7 +134,7 @@ Pen的父母打电话给她，讨论Pen的过去和未来。他们讨论Jake和F
 
 ### 第5段：父亲的严肃
 
-> **原句 5:** Her dad's voice turned serious. "You're not going to be as stupid as I was."
+> **原句 5:** Her dad's voice turned serious. "You're not going to be as stupid as I was.
 
 **中文理解**：她父亲的声音变得严肃。"你不会像我曾经那样愚蠢。"
 
@@ -187,7 +187,7 @@ Pen的父母打电话给她，讨论Pen的过去和未来。他们讨论Jake和F
 
 ### 第7段：母亲的发现
 
-> **原句 7:** "She did find out, of course," he said after a while. "Many years later. I ran into them on a trip to London."
+> **原句 7:** "She did find out, of course," he said after a while. "Many years later. I ran into them on a trip to London.
 
 **中文理解**："她当然发现了，"他过了一阵说，"多年后。我在一个会议上遇到了她。"
 

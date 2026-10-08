@@ -46,14 +46,14 @@
 
 ### 第3段：回避具体话题
 
-> **原句 3:** Their conversations skirted around the concrete. They did not talk about how they spent their days, or about their parents, or about their friends. Instead, they talked about books and ideas, about the nature of friendship and the possibility of living without material comfort.
+> **原句 3:** Their conversations skirted around the concrete. They did not talk about how they spent their days, although Pen had conjured detailed mental renderings of his room, of the apartment he shared with Chet, and of his life in St Andrews.
 
-**中文理解**：他们的对话绕开了具体的话题——不谈日常、不谈父母、不谈朋友，只谈书籍和思想，谈友谊的本质和脱离物质舒适生活的可能性。"skirted around the concrete"——绕过具体事物，暗示这是一种刻意的回避（可能因为太亲密了）。
+**中文理解**：他们的对话绕开具体：不谈怎么打发日子，尽管佩内洛普已经在脑子里精细布置过他的房间、他和切特合租的公寓、他在圣安德鲁斯的生活。"skirted around the concrete"——绕过具体事物，暗示这是一种刻意的回避（可能因为太亲密了）。
 
 **关键词**：
 - `skirt v. 绕过`
 - `concrete adj. 具体的`
-- `material n. 物质`
+- `renderings n. 想象的画面`
 
 **表达方式**："skirted around the concrete"——"具体事物"作为对话的禁区，暗示两人之间有一种"太亲近而不能谈论日常"的距离感。
 
@@ -61,7 +61,7 @@
 
 ### 第4段：Alice 的质疑
 
-> **原句 4:** Alice, Jo, and Pen were in Pen's room, their backs against the wall and their feet dangling off the edge of her bed, waiting for it to be sufficiently late to line up in the hall to use the bathroom.
+> **原句 4:** Alice, Jo, and Pen were in Pen's room, their backs against the wall and their feet dangling off the edge of her bed, waiting for it to be sufficiently late to line up in the cold for a terrible nightclub, when a message from Sasha popped up. Pen closed it, changed her status to offline, and toggled back to the movie they were watching on her laptop.
 
 **中文理解**：Alice、Jo 和佩内洛普在佩内洛普的房间里，背靠着墙，脚悬在床边，等着等到足够晚可以去走廊排队用洗手间。这个场景设定——背靠墙、脚悬在床边——暗示一个私密、放松的小圈子对话场景。
 
@@ -75,14 +75,14 @@
 
 ### 第5段：Alice 的怀疑与 Jo 的辩护
 
-> **原句 5:** "I just don't see the point in falling in love with a fourth year," she said, taking a swig. "It's like adopting an elderly dog."
+> **原句 5:** "I just don't see the point in falling in love with a fourth year," she said, taking a swig. "It's like adopting an elderly dog.
 
-**中文理解**：Alice 不认为爱上一个四年级学生有意义——她说这就像收养一只老狗（暗示四年级学生毕业后就会消失）。Jo 反驳说 Sasha 不会毕业后就死，只是会搬去伦敦。
+**中文理解**：Alice 不认为爱上一个四年级学生有意义——她说这就像收养一只老狗（暗示四年级学生毕业后就会消失）。
 
 **关键词**：
 - `see the point in phr. 理解……的意义`
 - `fourth year n. 四年级（大学）`
-- `move up to n. 搬去（更高的城市）`
+- `swig n. 啜饮`
 
 **表达方式**："like adopting an elderly dog"——Alice 用"收养老狗"来比喻爱上四年级学生，暗示这种爱是短暂的（老狗很快就会死去），比喻中带有对四年级学生毕业离开后的悲观预期。
 
@@ -90,14 +90,14 @@
 
 ### 第6段：佩内洛普被 Sasha 吸引
 
-> **原句 6:** Pen, who had no rational basis for being as drawn to Sasha as she was and could not explain why her emotions felt so raw and immediate around him, said nothing.
+> **原句 6:** Pen, who had no rational basis for being as drawn to Sasha as she was and could not explain why her desire to talk to him felt more like a necessary impulse than a choice, did not know how to convince her otherwise.
 
-**中文理解**：佩内洛普对 Sasha 的吸引没有任何理性基础，她无法解释为什么在他身边情感如此强烈而直接。"raw and immediate"——原始而直接的，暗示这种情感是未经加工的、本能的。
+**中文理解**：佩内洛普对萨沙的着迷没有任何理性依据，也说不清为什么想找他说话更像不得不而不像选择，更不知道怎么说服她改变看法。
 
 **关键词**：
 - `drawn adj. 被吸引的`
 - `raw adj. 原始的、未经加工的`
-- `immediate adj. 即时的、直接的`
+- `impulse n. 冲动`
 
 **表达方式**："no rational basis for being as drawn to"——佩内洛普对 Sasha 的吸引力无法用理性解释，暗示这种情感是潜意识层面的。
 
@@ -105,7 +105,7 @@
 
 ### 第7段：Alice 的 Stanley Kowalski 建议
 
-> **原句 7:** "She needs a Stanley Kowalski type, someone who will rip her clothes off and awaken her id. Sasha sounds flimsy."
+> **原句 7:** "She needs a Stanley Kowalski type, someone who will rip her clothes off and awaken her id. Sasha sounds flimsy.
 
 **中文理解**：Alice 说佩内洛普需要的是"Stanley Kowalski 类型"的人——会撕掉她的衣服并唤醒她本我的人。Alice 还说 Sasha 听起来"flimsy"（单薄、靠不住），暗示她认为 Sasha 不是一个够"粗俗"、够直接的人。
 
@@ -120,7 +120,7 @@
 
 ### 第8段：Sasha 的邀请与佩内洛普的接受
 
-> **原句 8:** Sasha: Might you consider taking the train out to Stonehaven on Saturday morning? I have a polo match on then, and I thought you might like to come.
+> **原句 8:** Sasha: Might you consider taking the train out to Stonehaven on Saturday morning? I have a polo match first thing, but I'm planning to drive up straigth after. She spotted the typo and considered what it might mean.
 
 **中文理解**：Sasha 邀请佩内洛普去 Stonehaven 看马球赛。"Might you consider"——这是一种礼貌的、带有距离感的邀请方式，暗示 Sasha 不想显得太急切。佩内洛普用"Oh, well in that case"（好吧，那就……）答应了邀请，这种"在……情况下"的表达暗示她需要找到一个合理的借口来同意。
 

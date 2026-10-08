@@ -17,7 +17,7 @@
 
 ### 第1段：第一学期最后一个周五
 
-> **原句 1:** Just after seven on the last Friday night of the first term, Pen climbed the stairs to the ballroom.
+> **原句 1:** Just after seven on the last Friday night of the first term, Pen climbed the stairs to the New Club's second-floor ballroom with Jo and Alice beside her.
 
 **中文理解**：第一学期最后一个周五晚上七点刚过，佩内洛普爬上楼梯来到舞厅。
 
@@ -34,17 +34,17 @@
 
 ### 第2段：第一场考试
 
-> **原句 2:** On the morning of Pen's first exam, they had waited for her in front of the JMC with flowers and a bottle of champagne.
+> **原句 2:** On the morning of Pen's first exam, they had waited for her in front of the JMC with a takeaway coffee and a muffin. Pen had been overwhelmed with gratitude at the sight of them.
 
-**中文理解**：在佩内洛普第一场考试的早晨，他们带着花和一瓶香槟在JMC前面等她。
+**中文理解**：佩内洛普第一场考试的早晨，他们带着外卖咖啡和麦芬在教学楼前等她。佩内洛普感激得不知说什么好。
 
 **关键词**：
 - `morning n. 早上`
 - `first adj. 第一`
 - `exam n. 考试`
 - `waited v. 等待`
-- `flowers n. 花`
-- `champagne n. 香槟`
+- `takeaway adj. 外卖的`
+- `muffin n. 麦芬`
 
 **表达方式**："waited for her in front of the JMC"——在JMC前面等她，暗示庆祝的氛围。
 
@@ -95,7 +95,7 @@
 
 ### 第5段：座位图
 
-> **原句 5:** Pen had overseen the seating chart. She had put herself between Archie Bloomfield and Fergus MacLeod.
+> **原句 5:** Pen had overseen the seating chart. She had put herself between Archie Bloomfield, a fellow planning committee member from Bath with a good sense of humor, and, daringly, a second year studying Arabic whom everyone called Fit Jasper.
 
 **中文理解**：佩内洛普监督了座位图。她把自己安排在Archie Bloomfield和Fergus MacLeod之间。
 
@@ -132,7 +132,7 @@
 
 ### 第7段：Fergus的邀请
 
-> **原句 7:** Fergus took Pen's hands back in his. "May I have this dance?"
+> **原句 7:** Fergus took Pen's hands back in his. "May I have this dance?
 
 **中文理解**：Fergus把佩内洛普的手重新握在手里。"我可以请你跳这支舞吗？"
 
@@ -150,20 +150,20 @@
 
 ### 第8段：Alice和Jo的舞蹈
 
-> **原句 8:** Nearby, Alice and Jo had partnered up. Jo was leading, and Alice, who had missed the point of the waltz entirely, was stumbling behind.
+> **原句 8:** Nearby, Alice and Jo had partnered up. Jo was leading, and Alice, who had missed more than one rehearsal, looked like a baby horse trying to walk for the first time.
 
-**中文理解**：附近，Alice和Jo配对了。Jo在前面领舞，而完全没理解华尔兹要点的Alice在后面跌跌撞撞。
+**中文理解**：在附近，爱丽丝和乔配对，乔领舞；缺了不止一次排练的爱丽丝像刚学走路的小马。
 
 **关键词**：
 - `nearby adv. 附近`
 - `partnered v. 配对`
 - `leading v. 领舞`
 - `missed v. 错过`
-- `point n. 要点`
-- `waltz n. 华尔兹`
-- `stumbling v. 跌跌撞撞`
+- `rehearsal n. 排练`
+- `partner v. 配对`
+- `lead v. 领舞`
 
-**表达方式**："missed the point of the waltz entirely"——完全没理解华尔兹的要点，暗示Alice的不擅长。
+**表达方式**：`"like a baby horse trying to walk"——像刚学走路的小马，笨拙写得具体而无辜。
 
 ## 本章词汇
 
