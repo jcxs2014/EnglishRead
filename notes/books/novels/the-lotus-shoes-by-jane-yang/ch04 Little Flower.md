@@ -12,9 +12,9 @@
 
 ## 精读
 
-> "This morning's downpour had made the steps wet and slippery. Ahead of me, Miss Linjing bounded up like a frog. From the top, she shot bamboo dragonflies over the pagoda's ledge, letting them **spiraled** to the ground."
+> "This morning's downpour had made the steps wet and slippery. Ahead of me, Miss Linjing bounded up like a frog. From the top, she shot bamboo dragonflies over the pagoda's ledge, letting them spiral to the ground."
 
-「spiraled」在此作动词过去分词（严格来说应用 "spiral"），描述竹蜻蜓从宝塔边缘旋转坠落的轨迹——不是直线下落，而是借势盘旋、借重力缓慢坠下。这个用词比简单的 "fell" 更能还原童趣：Linjing 在塔顶放飞玩具，玩具在空中划出弧线再落地，小孩眼中这是一场小小的飞行表演。
+「spiral」在此作动词不定式，描述竹蜻蜓从宝塔边缘旋转坠落的轨迹——不是直线下落，而是借势盘旋、借重力缓慢坠下。这个用词比简单的 "fell" 更能还原童趣：Linjing 在塔顶放飞玩具，玩具在空中划出弧线再落地，小孩眼中这是一场小小的飞行表演。
 
 整句的核心视觉节奏：暴雨水渍 → 蛤蟆般跳跃的 Linjing → 塔顶发射 → 旋转坠落，层层递进构成一个完整的游戏画面，而 Little Flower 的任务是从湿滑的石阶爬上去把玩具捡回来——这对一双裹足是残忍的任务。
 

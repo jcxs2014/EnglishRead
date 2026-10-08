@@ -41,7 +41,7 @@
 
 ### 引语 3（Noble Siu Je 对残指的认可——"它们是你力量的证明"）
 
-> **"I'm glad you don't bind them. They are a reminder of your strength."**
+> **"I'm glad you don't bind them," he said. "They are a reminder of your strength."**
 
 **中文理解**："我很高兴你没有把它们包起来。它们是你力量的证明。"
 
