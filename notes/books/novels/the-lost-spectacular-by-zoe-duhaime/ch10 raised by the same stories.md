@@ -23,7 +23,7 @@ Noon 作为 Spectacular 新成员在故事间穿梭——从《爱丽丝漫游�
 
 ## 本章引语
 
-> "Permissions aside, she was ecstatically comfortable, bewildered every day at how quickly she could shift from a grounded and cautious woman to someone who didn't think twice about adopting an errant family heirloom."
+> **原句 1:** "Permissions aside, she was ecstatically comfortable, bewildered every day at how quickly she could shift from a grounded and cautious woman to someone who didn't think twice about adopting an errant family heirloom."
 
 **中文理解**：Noon 适应了 Spectacular 的生活后，她发现自己可以从一个"脚踏实地、小心谨慎的女人"变成一个"毫不犹豫地收养流浪家族遗物的人"。这种转变让她自己也感到困惑（bewildered）——她的身份在"现实中的店主"和"故事中的策展人"之间快速切换。
 
@@ -40,7 +40,7 @@ Noon 作为 Spectacular 新成员在故事间穿梭——从《爱丽丝漫游�
 
 ---
 
-> "The best part of life!" Odette agreed.
+> **原句 2:** "The best part of life!" Odette agreed.
 
 **中文理解**：Noon 问 Odette 是否"经常做 reckless 的事情"，Odette 的回答是"生活中最美好的部分！"——这是 Odette 的生活哲学： recklessness 是生命力 的证明，不是缺陷。这与 Munro 的"必须控制一切"形成鲜明对比。
 
@@ -56,7 +56,7 @@ Noon 作为 Spectacular 新成员在故事间穿梭——从《爱丽丝漫游�
 
 ---
 
-> "You must remember the first night, when I told you why we bother with the world, when we live here—We're the middle part, between the world and the lost."
+> **原句 3:** "You must remember the first night, when I told you why we bother with the world, when we live here—We're the middle part, between the world and the lost."
 
 **中文理解**：Odette 向 Noon 解释 Spectacular 存在的理由：他们是"中间部分"，在"世界"和"失物"之间。失物经过一定时间会变成 myth（神话），而 Spectacular 的工作就是在它们彻底变成 myth 之前管理它们。这是一个关于"故事如何存活"的本体论陈述。
 
@@ -78,9 +78,9 @@ Noon 作为 Spectacular 新成员在故事间穿梭——从《爱丽丝漫游�
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| apprentice | 学徒；见习生 | as an **apprentice** was exhausting |
-| custodian | 管理人；守护者 | become **custodians** of that middle place |
-| recklessness | 鲁莽；轻率 | the **recklessness** she used to have |
+| apprentice | 学徒；见习生 | Being an **apprentice** was exhausting |
+| custodian | 管理人；守护者 | became **custodians** of that middle place |
+| recklessness | 鲁莽；轻率 | The only sign of this **recklessness** she used to have |
 
 ### ⭐⭐ 进阶
 
@@ -88,14 +88,14 @@ Noon 作为 Spectacular 新成员在故事间穿梭——从《爱丽丝漫游�
 |---|---|---|
 | glamour | 魔法化妆；魅力 | she resorted to newfound trickeries of **glamour** |
 | charcoal | 炭灰色；炭袍男人 | the man in the **charcoal** cloak |
-| grief | 悲伤；悲痛 | around her, his voice had been higher with **grief** |
+| grief | 悲伤；悲痛 | had been a discourse on **grief** |
 | silver | 银色 | a **silver** cat rolling on its back for attention |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| coffee | 咖啡 | she was drinking her **coffee** in the crow's nest |
-| story | 故事 | she spent the night in her favourite children's **stories** |
-| night | 夜晚 | she left her door unlocked in the wee **hours** |
+| coffee | 咖啡 | was drinking her **coffee** in the crow's nest |
+| story | 故事 | could spend the night in her favourite children's **stories** |
+| night | 夜晚 | door unlocked in the **wee** hours |
 | father | 父亲 | the **father** she had lost |
