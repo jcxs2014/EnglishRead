@@ -146,11 +146,11 @@
 
 ### 精读块 7：回家的隐喻
 
-> **原句 1:** "I was just—looking for a couple I saw. Someone I thought I recognized."
+> **原句 1:** I was just—looking for a couple I saw. Someone I thought I recognized."
 >
 > Tom furrows his brow and scans my face. "One couple just left. I don't think we know them, but I saw them leave," he says. My chest tightens at this, to hear they left together. If it was them. If it was, it means the woman didn't escape, that he led her out with his hand **gripping the back of her neck**, pushing her forward. She might have smiled at Samantha and Hal and wished them well in a tremulous voice before vanishing through the door, into the night, with the man close behind.
 >
-> **原句 2:** "I lean my head against his chest, inhaling the familiar Tom smell of drugstore soap, sweat, and warm skin. A good man, a pure man. Nothing like the one I saw tonight."
+> **原句 2:** I lean my head against his chest, inhaling the familiar Tom smell of drugstore soap, sweat, and warm skin. A good man, a pure man. Nothing like the one I saw tonight."
 
 **中文理解**：Judith 向 Tom 撒谎说在找一对认识的夫妇。Tom 说一对不认识的夫妇刚离开。Judith 胸口发紧——如果那对夫妇就是她看到的，说明女子没有逃脱，而是被男子掐着后颈带出去。她想象那女子可能在门口微笑告别后才消失。Judith 把头靠在 Tom 胸口，闻着他熟悉的气味——皂香、汗味、温暖皮肤。一个好男人，一个纯洁的男人。绝不是她今晚看到的那个。
 
@@ -215,21 +215,6 @@
 ---
 
 ## 读者提示
-
-## 一句话总结
-
-（本章暂无总结）
-
-**关键阅读点**：本章的核心是 Judith 的解离（dissociation）和闪回（flashback）机制。她在派对上拍照是一种解离——通过取景框观察世界以保持情感距离。但当她真正目睹创伤事件时，解离失效，创伤记忆涌上。阅读时注意：她的相机何时是保护机制（让她得以观察而不是卷入），何时是障碍（让她无法行动）。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**语言亮点**：
-- "Photography is an art, and art can be a razor blade, peeling back layers of civility to reveal stark truths."——Paul 的话是双刃剑，既是 Judith 的创造力来源，也是她逃避责任的借口
-- "I hardly notice it's him, my husband"——简短的一句话，揭示了 Judith 创伤的深度：她连自己的丈夫都认不出来
-- "A good man, a pure man. Nothing like the one I saw tonight."——Tom 被理想化，但这理想化本身是脆弱的（建立在排除"那个男人"的基础上）
 
 ## 一句话总结
 

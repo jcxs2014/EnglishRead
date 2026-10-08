@@ -37,7 +37,7 @@
 
 ---
 
-> **原句 3:** "This is terrific," he says, quiet enough to be talking to himself.
+> **原句 3:** This is terrific," he says, quiet enough to be talking to himself.
 
 **中文理解**："太棒了，"他轻声说，轻得几乎像是在自言自语。
 
@@ -97,7 +97,7 @@
 
 ---
 
-> **原句 8:** "What could it hurt, to show him more?"
+> **原句 8:** What could it hurt, to show him more?"
 
 **中文理解**："多给他看一些又会有什么损失呢？"
 

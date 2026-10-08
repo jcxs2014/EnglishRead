@@ -1,6 +1,6 @@
 # 4. I Am Judith Stanley
 
-## 章节概述
+## 精读
 
 Judith 在小镇 Main Street 购物，为邻居 Samantha 和 Hal 的结婚二十五周年派对准备香槟和礼物。路人问起 Tom 的病情或 Rosie 的死，她须以轻描淡写应对。街道尽头，她在一扇旧玩具店橱窗前驻足——镜中映出自己：一道下身轮廓漂浮在蓝天下，脸庞明亮生动，周围是褪色玩具熊和空洞眼珠的洋娃娃。她用 Nikon 拍下这张照片，想起 Paul 会如何评价，内心却自我怀疑。片刻凝视后她感到眩晕、恍惚，身体脱离感强烈。定神后她转向 liquor store，继续当晚的任务。
 
@@ -79,18 +79,6 @@ Paul 的话（Judith 想象他会说"Incredible. The composition is striking."�
 - **uncanny eye**：Judith 想象 Paul 会用这个词——摄影术语，暗示她对"被看见"的渴望
 - **phantom or an alternate self**：phanom/alternate self 是解离症状的文学表达
 - **spell breaks**："spell"呼应巫术/魔法的语义——凝视橱窗是一种走神入魔的状态
-
-## 一句话总结
-
-（本章暂无总结）
-
-## 章节位置
-
-## 一句话总结
-
-（本章暂无总结）
-
-前有 ch03，Judith 刚经历过某事件（待核）；后接 ch05，TBD。本章在结构上是一次"减速"——从外部事件（购物、派对准备）进入内心独白，为后续张力积蓄心理基础。
 
 ## 一句话总结
 
