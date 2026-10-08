@@ -72,6 +72,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 门禁原件：`.memory/raw-gates/marilyn-and-her-books-by-gail-crowther/`；明细见日志。
 
+**审查结论（2026-10-08 五步审查，Raccoon-Mac，同会话）**：五步审查通过——3 条阻断型（ch01 分析层改写 / ch13 漏 "a little" / ch09 例句漏 "Dean certainly"）全部改完并回查原文；整改 commit `c5bff7712`，累计 14 commits 未 push。复跑终值：verify_quotes 183/183 · vocab FAIL 0/WARN 86 · 逐章 161/161（--book-dir 换口径）· sweep_full 161/0/0/0 · check_analysis_indep 320 全命中 · 总览 47/47 + 标签不符 0 + H1 0 · gate.sh **EXIT=0（0 阻断）**。子代理两路 162 块 0 阻断 1 提示；说话人窗口 8/8；数字断言全部回源有据。审查报告 `.memory/reviews/2026-10-08-marilyn-and-her-books-by-gail-crowther-五步审查.md`；同会话盲区已标注。
+
 ### [2026-10-08 00:00 UTC] [ZCode-Mac] → All
 
 **《The Lost Spectacular》** 五步审查 step a + 引语修复（160/160 ✅）
