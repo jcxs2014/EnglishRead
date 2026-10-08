@@ -1,0 +1,85 @@
+# 4. I Am Judith Stanley
+
+## 章节概述
+
+Judith 在小镇 Main Street 购物，为邻居 Samantha 和 Hal 的结婚二十五周年派对准备香槟和礼物。路人问起 Tom 的病情或 Rosie 的死，她须以轻描淡写应对。街道尽头，她在一扇旧玩具店橱窗前驻足——镜中映出自己：一道下身轮廓漂浮在蓝天下，脸庞明亮生动，周围是褪色玩具熊和空洞眼珠的洋娃娃。她用 Nikon 拍下这张照片，想起 Paul 会如何评价，内心却自我怀疑。片刻凝视后她感到眩晕、恍惚，身体脱离感强烈。定神后她转向 liquor store，继续当晚的任务。
+
+## 人物锚点
+
+- **Judith Stanley**（叙述者，第一人称）——自称"我"，有 Nikon 相机，业余摄影师；Tom 的妻子；Rosie（狗，三周前去世）是她的倾诉对象
+- **Tom**（Judith 的丈夫）——抱病，路人问候其健康状况
+- **Rosie**（Judith 的狗）——已死三周；Judith 的密友替代品，"held all my secrets, never judging me or loving me less"
+- **Samantha & Hal**（邻居）——结婚二十五周年，当晚办派对，请 Judith 做摄影师
+- **Paul**——同行/前辈摄影师，在 *Harper's* 刊过照片；Judith 给他看过照片（可能是 earlier chapter 的事件）
+- **Mr. Katz** ——toy store 店主，橱窗陈列多年未变
+- **Lance**——liquor store 店主
+
+## 关键场景
+
+### 1. 公众应对：轻描淡写的日常
+
+路人问候 Tom 的病情，Judith 只说 "He's doing just fine"；问起 Rosie，她说 "Rosie died three weeks ago"。旁人回应轻淡——"she was only a dog, after all"。这段揭示 Judith 在小镇生活中的**表演性身份**：公众话语要求轻巧得体，而她内心有更深的悲伤。
+
+> "She held all my secrets, never judging me or loving me less for them."
+
+Rosie 是 Judith 唯一真正倾诉的对象，比 Tom 更甚。狗死后，她失去了这个安全出口，被迫把所有话咽回肚里。
+
+### 2. 玩具店橱窗：镜像异化（核心意象）
+
+这是全章最浓墨重彩的一段。橱窗本身 Mr. Katz's old toy store，橱窗布置"oddly formal"：dusty teddy bears、alphabet blocks、empty-eyed dolls——这些意象暗示**时间的凝滞、童真的空洞、凝视的缺失**。而 Judith 在这其中的倒影：
+
+> "from the neck down, I'm a dark female shape reflected in the center of the window, with blue sky surrounding me and one wilted teddy bear caught in the bell of my skirt. Above it all, my face looms, bright and alive."
+
+**身体与面部分离**——下身是 dark female shape（暗色女性轮廓），上身（脸）bright and alive（明亮生动）。她用 Nikon 拍下这张composition——这一行为本身是**自我异化**的仪式：我把我的影像客体化，然后从外部审视它。
+
+Paul 的话（Judith 想象他会说"Incredible. The composition is striking."）是 Judith 内心对被认可的渴望，但随即自我否定：
+
+> "I don't even know if it will come out well. Or if I'll show Paul more pictures after all. He said he wanted to see them, but what if he was simply being polite? I believed him at the time, but now, with a little distance, I realize I may have been starstruck, naïve."
+
+自我怀疑与自我渴望之间的拉扯。
+
+### 3. 眩晕与身体回归
+
+> "I feel dizzy and my vision blurs. When I step to the right, the spell breaks. The image alters, the composition dissolves; I return to my body, to myself, a bit shaken."
+
+"step to the right"打破了凝视的魔法——这是身体对解离的自我修复。"return to my body, to myself"暗示之前的状态是"不在自我中"。这是 Judith 心理状态的隐喻：**她在自己生活中是旁观者，而非主人**。
+
+### 4. 结尾确认
+
+> "I am Judith Stanley."
+
+这是全章最后一句，也是标题的落地。经历了镜像异化、自我怀疑后，她在 liquor store 里对自己说这句话——**这是自我锚定**。在 Lance 面前，在"Here I am"的问候中，她需要确认自己是谁。
+
+## 心理层次
+
+| 层次 | 内容 |
+|------|------|
+| 外层 | 小镇日常、邻里寒暄、轻描淡写的礼仪 |
+| 中层 | 失去 Rosie 的孤独、对 Tom 病情的隐忧、对被认可的渴望与自我否定 |
+| 内层 | 身份危机——镜像中的"我"是陌生人，"not quite embodied, not quite real"，"a phantom or an alternate self with no past, present, or future" |
+
+## 写作技巧
+
+- **镜像意象**：橱窗倒影贯穿全章，从"myself reflected"到"the composition dissolves"，构成统一的隐喻结构
+- **身体化语言**：从"dark female shape"（去身体化）到"return to my body"（再身体化），映射心理状态
+- **留白与克制**：Rosie 的死、Tom 的病、Tomm 的秘密——所有真正沉重的事都用轻描淡写的短句一笔带过
+- **环境作为心理投射**：玩具店橱窗是 Judith 内心状态的外部化——灰蒙蒙的玩具、空洞的娃娃，映出她自己与生活的疏离
+- **结尾的简洁力量**："I am Judith Stanley."——独立成句，全小写，无标点，像一声呼吸
+
+## 句子结构分析
+
+> "Who is this person, I wonder. I know her face, but she isn't quite me."
+
+两个短句构成自问自答——这是 Judith 对自我身份的公开质疑，平静表面下的心理裂痕。"I know her face"说明她认得自己的面孔，"but she isn't quite me"说明面孔下面的那个人已经变形。
+
+## 词汇
+
+- **wilted**：枯萎的，形容 teddy bear 也暗示时间的凋零
+- **bell of my skirt**：裙摆的钟形轮廓，视觉意象精准
+- **uncanny eye**：Judith 想象 Paul 会用这个词——摄影术语，暗示她对"被看见"的渴望
+- **phantom or an alternate self**：phanom/alternate self 是解离症状的文学表达
+- **spell breaks**："spell"呼应巫术/魔法的语义——凝视橱窗是一种走神入魔的状态
+
+## 章节位置
+
+前有 ch03，Judith 刚经历过某事件（待核）；后接 ch05，TBD。本章在结构上是一次"减速"——从外部事件（购物、派对准备）进入内心独白，为后续张力积蓄心理基础。
