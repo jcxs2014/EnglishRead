@@ -114,7 +114,7 @@
 | shadow | n. | 影子 | To be her **shadow**——妹仔作为主人的附属物 |
 | glean | v. | 艰难收集、以代价换取 | An independence **gleaned** from grueling hours. |
 | denounce | v. | 谴责 | A ceremony to **denounce** marriage. |
-| ironic | adj. | 讽刺的 | That struck me as **ironic**. |
+| ironic | adj. | 讽刺的 | A ceremony to denounce marriage should mirror one **struck me as ironic**. |
 | enunciate | v. | 清晰发音 | She slowly **enunciated** each word. |
 | maidenhead | n. | 童贞 | The punishment for losing your **maidenhead**. |
 | conviction | n. | 信念、坚信 | Second stroke asks for **conviction**. |

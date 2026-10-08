@@ -133,8 +133,8 @@
 | cripple | v. | 使残废 | "**Crippled**," I supplied. |
 | retrain | v. | 重新训练 | I have **retrained** my thumb and little finger to compensate. |
 | compensate | v. | 弥补、补偿 | I have retrained my thumb and little finger to **compensate**. |
-| determined | adj. | 坚定的、决心的 | **Determined** to safeguard my job, I searched for a counterargument. |
-| safeguard | v. | 保卫、维护 | I was **determined** to **safeguard** my job. |
+| determined | adj. | 坚定的、决心的 | **Determined** to **safeguard** my job, the first that rewarded my skill and labors, I searched for a counterargument and found it in the factory's reputation. |
+| safeguard | v. | 保卫、维护 | **Determined** to **safeguard** my job, the first that rewarded my skill and labors, I searched for a counterargument and found it in the factory's reputation. |
 | counterargument | n. | 反驳论据 | I searched for a **counterargument** and found it in the factory's reputation. |
 | infirmity | n. | 虚弱、残疾 | He gestured awkwardly at my **infirmity**. |
 | leap | n. | 跳跃、飞跃 | I knew it was time to take the **leap**. |
