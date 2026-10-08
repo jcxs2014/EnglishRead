@@ -61,10 +61,9 @@ source_text: ch14_chapter_thirteen_return_to_the_great_eme.txt
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| inheritance | 遗产；传承 | a great many things in her will |
+| grandson | 孙子；外孙 | Vermillion Forrest left her only **grandson** |
 | grandmother | 祖母；外祖母 | as **Grandma** Millie finished knitting |
 | curator | 策展人；馆长 | the bones of a **curator** |
-| legacy | 遗产；传承 | his **legacy** explode in front of him |
 
 ### ⭐⭐ 进阶
 

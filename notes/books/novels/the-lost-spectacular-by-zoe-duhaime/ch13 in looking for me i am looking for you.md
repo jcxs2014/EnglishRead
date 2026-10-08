@@ -73,7 +73,7 @@ Munro 发现 Noon 就是 Spectacular 后，开始系统性地在书中追踪她�
 | tattoo | 纹身 | he got **tattooed** on his now densely worked arm |
 | fern | 蕨类植物 | his ex-wife had started dating a minor celebrity |
 | bazaar | 集市；义卖 | The fifth floor became a **bazaar** |
-| annotate | 注解；注释 | **annotate** their hiding spots |
+| bibliography | 书目；参考书目 | He put together a loose **bibliography** |
 
 ### ⭐ 基础
 

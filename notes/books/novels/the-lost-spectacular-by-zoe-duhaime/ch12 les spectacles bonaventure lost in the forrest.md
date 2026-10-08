@@ -80,6 +80,6 @@ Noon 向 Odette 提交了一份她精心策划的"藏身处"书目，希望保�
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | mother | 母亲 | Her **mother** tsked |
-| bookshop | 书店 | Her **bookshop** had been condemned |
-| night | 夜晚 | she ended the **night** with a margarita |
+| bookshop | 书店 | Her **bookshop**, or now she knew the bookshop, had been condemned |
+| night | 夜晚 | **Noon** ended the night with a margarita |
 | story | 故事 | Nothing like a good **story** time |
