@@ -331,6 +331,7 @@ def check(md: Path, book: Path):
     #   证实是**工具的格式假设**而非内容缺陷。按 AGENTS 第 3 条「假红型先修工具」处置：
     #   词表节标题认两种体裁；块数配额按体裁判（言情 3–8 / 非虚构上限 10，见体裁对应格式表）。
     is_nonfic = bool(re.search(r'^## 选择性精读', s, re.M))
+    is_mystery = bool(re.search(r'mystery|thriller', str(book), re.I))
     # ⚠️ 2026-10-04 加第三档：**短篇合集档**（特征节 `## 精读结束总结` + `## 可迁移表达`
     #   **且**圈码抬头能解析——与 check_struct_indep 的 anthology 档同口径，负控同款：
     #   认出档位不等于能解析它，解析不出就不认档，避免「少查」）。
@@ -380,9 +381,15 @@ def check(md: Path, book: Path):
     if is_anth:
         lo, hi = ANTH_RANGE
         kind = "短篇合集格式的 10"
+    elif is_nonfic:
+        lo, hi = (3, 10)
+        kind = "非虚构论述格式的 3–10"
+    elif is_mystery:
+        lo, hi = (3, 15)
+        kind = "悬疑惊悚精简格式的 3–15"
     else:
-        lo, hi = (3, 10 if is_nonfic else 8)
-        kind = "非虚构论述格式的 3–10" if is_nonfic else "言情精简格式的 3–8"
+        lo, hi = (3, 8)
+        kind = "言情精简格式的 3–8"
     if not lo <= nq <= hi:
         # ⚠️ 2026-10-02（Beach Read ch13 实测，用户裁定「删到 3-8 处」后暴露）：
         #   ch13 全文只有一句话（`I DREAMED ABOUT GUS Everett and woke up needing
