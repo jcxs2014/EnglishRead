@@ -25,7 +25,7 @@ modified: "2026-10-08"
 > **原句 2:** "Elsie, you have to learn to say no."
 
 - **中文理解**："Elsie，你得学会说不。"
-- **关键词**：learn to say no（学会拒绝）／test me（试探我）
+- **关键词**：learn to say no（学会拒绝）
 - **为什么这样写**：室友 Cece 用"你要不要帮我去买麦片"这种小事试探，戳破 Elsie 讨好型人格的核心病灶——她连最亲的朋友都无法拒绝。Cece 是全书的"真相使者"，用轻松喜剧外壳包着最尖锐的批评。
 - **读者视角提示**：这是全书人物弧光的核心命题预告——Elsie 的成长不是"找到爱情"，而是"学会做真实的自己、学会说不"。
 
@@ -50,11 +50,11 @@ modified: "2026-10-08"
 - **为什么这样写**：这是全章的道德重锤——Smith-Turner 的骗局本该由他自己负责，但学界推了一只替罪羊。"paddle cactus bed"这个荒诞比喻把学术问责的残忍具象化，也让下一句"That editor was Christophe Laurendeau—my mentor"的冲击力达到顶点。
 - **读者视角提示**：Elsie 的仇恨有了坚实的道德根基——她恨的不是被超越，而是她的恩师被不公正地牺牲。这让后面"与 Jack 恋爱"变成道德困境。
 
-> **原句 6:** "The person unbuttoning his North Face coat— is none other than Jack Smith."
+> **原句 6:** "—is none other than Jack Smith."
 
-- **中文理解**：正在解开北脸外套的那个人——不是别人，正是 Jack Smith。
-- **关键词**：none other than（正是，不是别人）／unbuttoning（解开）
-- **为什么这样写**：这是全书最漂亮的反转之一。全章铺垫"Jonathan Smith-Turner 是我最恨的人"，结尾用 "The person...is none other than Jack Smith." 三行短句把两个身份砸在一起；破折号与分行制造停顿，让读者和 Elsie 一起"哦"地反应过来：那个她讨厌的傲慢男人，就是害她导师的物理骗子。
+- **中文理解**："——不是别人，正是 Jack Smith。"
+- **关键词**：none other than（正是，不是别人）／Jack Smith
+- **为什么这样写**：这是全书最漂亮的反转之一。全章铺垫"Jonathan Smith-Turner 是我最恨的人"，结尾却用一句短促的揭晓把两个身份砸在一起——"none other than" 这个习语自带"竟然是"的戏剧性，破折号承接上一段的"那个正在解 North Face 外套的人"，让读者和 Elsie 一起"哦"地反应过来：那个她讨厌的傲慢男人，就是害她导师的物理骗子。
 - **读者视角提示**：这是 enemies-to-lovers 的终极伏笔——她已经在 Go 棋盘上动过心，现在却发现心动对象正是宿敌。张力被推到最高。
 
 ## 本章词汇

@@ -15,11 +15,11 @@ modified: "2026-10-08"
 
 ## 精读
 
-> **原句 1:** "Jack Smith and Jonathan Smith-Turner cannot be—" / "But call me Jack." / "—the same person."
+> **原句 1:** "“Smith-Turner.” The correction is a punch in the sternum. This can’t be. Jack Smith and Jonathan Smith-Turner cannot be—"
 
-- **中文理解**：Jack Smith 和 Jonathan Smith-Turner 不可能是——"但叫我 Jack 就行。"——同一个人。
-- **关键词**：the same person（同一个人）／call me Jack（叫我 Jack）
-- **为什么这样写**：用破折号把 Elsie 未说完的怀疑和 Jack 的"但叫我 Jack"夹在一起，形成戏剧性断裂；"the same person" 单独成行收尾，让读者和 Elsie 一起完成这个震惊的推理。
+- **中文理解**："'Smith-Turner。'"这个纠正像一拳砸在胸口。这不可能。Jack Smith 和 Jonathan Smith-Turner 不可能是——（而他对面那人打断道："但叫我 Jack 就行。"）——同一个人。
+- **关键词**：cannot be（不可能是）／Smith-Turner（史密斯-特纳）／punch in the sternum（砸在胸口的一拳）
+- **为什么这样写**：用破折号把 Elsie 未说完的怀疑悬在半空；"punch in the sternum" 把身份揭穿的震惊具象为生理冲击。随后的打断（"But call me Jack."）与补全（"—the same person."）在三个说话轮次间来回，制造戏剧性断裂，让读者和 Elsie 一起完成这个震惊的推理。
 - **读者视角提示**：这是全书最关键的身份揭穿——读者此刻才明白，前两章那个她有点心动的男人，正是她最恨的那个物理骗子。
 
 > **原句 2:** "Suddenly, Jonathan Jack Jesus Christ Superstar Smith-Turner, who plays board games and teaches something that starts with phys- and is most definitely not physical education, is a big fucking issue."

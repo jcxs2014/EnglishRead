@@ -22,14 +22,14 @@ modified: "2026-10-08"
 - **为什么这样写**：这是全章的理性锚点——Cece 用学术招聘的规则逻辑，彻底瓦解 Elsie 的恐惧。"recuse himself"这个术语本身就暗示 Jack 是局中人，而 Elsie 用她的规则反过来保护自己。
 - **读者视角提示**：读者第一次看到 Elsie 的"讨好"之外还有被保护的可能——规则站在她这边，这为后面她敢继续竞争提供了底气。
 
-> **原句 2:** "If his posturing doesn't work, he's still an MIT professor. If yours doesn't…" / "If mine doesn't, it's one more year in the adjunct pit."
+> **原句 2:** "“If his posturing doesn't work, he's still an MIT professor. If yours doesn't . . .”"
 
-- **中文理解**："如果他的装腔作势失败，他仍是 MIT 教授。如果你的失败了……""如果我的失败，就是在兼职讲师的地狱里再多熬一年。"
-- **关键词**：posturing（装腔作势）／adjunct pit（兼职讲师的地狱）
-- **为什么这样写**：用省略号制造停顿，让 Cece 不必说出那个残酷的答案。两人权力不对等在此刻赤裸裸地摊开——Jack 输得起，Elsie 输不起。这是全书最清醒的一处权力分析。
+- **中文理解**："如果他的装腔作势失败，他仍是 MIT 教授。如果你的失败了……"Cece 把后半句悬在半空；Elsie 替她补完（"如果我的失败，就是在兼职讲师的地狱里再多熬一年。"）。
+- **关键词**：posturing（装腔作势）／MIT professor（MIT 教授）／if yours doesn't（如果你的失败了）
+- **为什么这样写**：用省略号制造停顿，让 Cece 不必说出那个残酷的答案，而由 Elsie 自己接上——两人权力不对等在此刻赤裸裸地摊开：Jack 输得起，Elsie 输不起。这是全书最清醒的一处权力分析。
 - **读者视角提示**：读者由此理解 Elsie 的孤注一掷——这份工作不只是"翻身"，而是她逃离深渊的唯一绳索。
 
-> **原句 3:** "One of my Nature Physics articles was even featured on the cover. The research groups at Northeastern started giving me covetous glances and stopped asking me to make coffee."
+> **原句 3:** "One of my Nature Physics articles was even featured on the cover. The research groups at Northeastern started giving me covetous glances and stopped asking me to make coffee—"
 
 - **中文理解**：我的《自然·物理》论文甚至登上了封面。东北大学的研究组开始用嫉妒的眼神看我，也不再叫我煮咖啡了。
 - **关键词**：Nature Physics（《自然·物理》）／covetous glances（嫉妒的眼神）／make coffee（煮咖啡）

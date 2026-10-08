@@ -29,7 +29,7 @@ modified: "2026-10-08"
 - **为什么这样写**："award-winning"（获奖级）用在"触底耻辱"上是典型的反讽式夸张，把自嘲的幽默感推出来；同时第一次点出名字 "Jack Smith"，正式引入男主。
 - **读者视角提示**：主角用"他救了我"而非"他害了我"来定义此刻的处境，提前埋下她对他复杂的感激与依赖。
 
-> **原句 3:** "'Settle down, Elsie,' he says against the skin of my cheek, terse as usual, but also incongruously soothing. He's close—too close. I'm close—too close."
+> **原句 3:** "“Settle down, Elsie,” he says against the skin of my cheek, terse as usual, but also incongruously soothing. He’s close—too close. I’m close—too close."
 
 - **中文理解**："别乱动，Elsie。"他贴着我的脸颊说，像往常一样简短，却反常地安抚人。他太近了，我也太近了。
 - **关键词**：terse（简短生硬）／incongruously（不合常理地）／soothing（安抚的）
