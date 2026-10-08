@@ -5,7 +5,7 @@
 - **视角**：七岁 Linjing（女主）第一人称；ch02 的 Little Flower 是她的 muizai
 - **时间**：紧接 ch02；ch02 是 Little Flower 被卖第一天，本章已是到 Fong 家"一个多月后"（"only been one moon since Little Flower left her family"）
 - **地点**：Fong 家宅院
-- **本章核心**：Linjiing 对 Little Flower 的嫉妒与竞争；父亲提出不让 Linjing 裹脚以换取与 Lord Li 家的政治联姻；家族权力斗争在裹脚议题上爆发
+- **本章核心**：Linjing 对 Little Flower 的嫉妒与竞争；父亲提出不让 Linjing 裹脚以换取与 Lord Li 家的政治联姻；家族权力斗争在裹脚议题上爆发
 
 ---
 
