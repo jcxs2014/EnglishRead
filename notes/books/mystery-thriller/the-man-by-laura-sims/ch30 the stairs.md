@@ -1,6 +1,6 @@
 # 30. The Stairs
 
-## 章节概述
+## 精读
 
 Judith 在 Samantha Laertes 的摄影展上，沉浸于芝加哥边缘人群的影像中。Paul 突然出现，透露 Samantha 因抑郁症自杀（过量服药），两人曾在同一展览中展出作品。Paul 称赞 Judith 的才华，说她的照片也应该挂在这样的地方，并透露自己近来作品难以推广。Judith 明确表示她的照片是私人的，没有更广泛分享的欲望。Paul 随即指责她"自私"、"浪费才华"，语言激烈如那个男人，并抓住她的手臂。Judith 惊恐逃离，冲下地铁楼梯。
 
@@ -89,18 +89,6 @@ Paul 抓住 Judith 的手臂，她"nearly scream"：
 - **transfixed**：着魔的、出神的——既被吸引又被排斥的矛盾状态
 - **irresponsible / selfish**：不负责任的/自私的——Paul 用来攻击 Judith 的词语
 - **vibrating with anger**：因愤怒而颤抖——Judith 压抑的愤怒
-
-## 一句话总结
-
-（本章暂无总结）
-
-## 章节位置
-
-## 一句话总结
-
-（本章暂无总结）
-
-前接 ch25（Judith 在家中将食物吐进餐巾），后接 ch31（待核）。本章是 Judith 与 Paul 关系的转折点——Paul 不再是支持性的导师形象，而是暴露出控制欲和侵犯性。Judith 在本章中明确拒绝了 Paul's 对她生活的干预，并将他的言行与跟踪者等同视之。"selfish fucking bitch"和"抓手臂"这两个元素将第一章的创伤与当下直接连接，表明 Judith 的恐惧并非无根据的过度反应。
 
 ## 一句话总结
 

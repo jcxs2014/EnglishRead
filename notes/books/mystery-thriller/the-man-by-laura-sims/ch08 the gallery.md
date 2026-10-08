@@ -131,7 +131,7 @@
 
 ### 精读块 7：职业认可 vs. 内心恐惧
 
-> **原句 1:** "It isn't kindness," he says. "I've never offered to help a student with publication before. I never expected to. But believe me when I say these are extraordinary. I'd be honored to help you send them out. I think they'd find a great home. They deserve to find a great home."
+> **原句 1:** It isn't kindness," he says. "I've never offered to help a student with publication before. I never expected to. But believe me when I say these are extraordinary. I'd be honored to help you send them out. I think they'd find a great home. They deserve to find a great home."
 
 **中文理解**："这不是善意，"他说。"我从未主动提出过帮学生发表作品。我从未想过要这样做。但相信我，这些真的很非凡。我很荣幸能帮你投出去。我认为它们会找到很好的归宿。它们值得找到一个很好的归宿。"
 
@@ -169,7 +169,7 @@
 
 ### 精读块 9：结尾的轻快
 
-> **原句 2:** "Judith," Paul calls before the door swings shut behind me. "I hope you'll bring some new pictures next week."
+> **原句 2:** Judith," Paul calls before the door swings shut behind me. "I hope you'll bring some new pictures next week."
 
 > Everything shifts. I leave the room feeling buoyant and light.
 
@@ -225,26 +225,6 @@
 ## 总结
 
 Judith 在 Paul's 夜间摄影课结束后展示派对照片，获得 Paul 的高度评价（"fantastic"/"extraordinary"）以及帮其向摄影杂志投稿的承诺。然而当 Paul 即将看到那张有神秘男性轮廓的自拍照时，Judith 抢回了所有照片——渴望被认可与恐惧被看穿形成尖锐冲突。"to me it's the same"揭示了她将照片视为自我的延伸：被陌生人审视照片就是被审视内心。Paul 的再次邀请（"希望下周能看到新照片"）让 Judith 感到"轻快"，但这个愉悦建立在她仍无法面对创伤真相的基础上——那张自拍照里的男性轮廓仍是悬而未决的威胁。
-
-## 一句话总结
-
-（本章暂无总结）
-
----
-
-## 一句话总结
-
-（本章暂无总结）
-
-## 关键引语
-
-## 一句话总结
-
-（本章暂无总结）
-
-1. "I never want strangers' eyes on me again, searching me, prying me open."（核心心理宣言）
-2. "The ones I can't erase from my mind. If I'd managed to capture the man and woman on film, maybe I'd be able to move on and forget them."（摄影控制幻觉的失败）
-3. "I don't want strangers' eyes on my photographs, either; to me it's the same."（照片作为自我延伸）
 
 ## 一句话总结
 

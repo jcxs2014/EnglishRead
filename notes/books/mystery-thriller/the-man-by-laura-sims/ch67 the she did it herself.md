@@ -134,7 +134,7 @@
 
 ### 精读块 8：Schuyler 的最终暗示
 
-> **原句 1:** "Do you think a person's photographs can reveal their state of mind?" "Absolutely." Paul nods energetically, slipping right into professor mode. "They can reveal the photographer's background, his perspective on life, his hopes and fears—and yes, his state of mind, too. Or hers," he adds, giving Schuyler a significant look. "So you see all of that in Judith's work?" "I do. All that and more…What she didn't want to see, the mirror saw for her, the pond saw for her, and so on." "Why do you think she changed her mind?" "I don't really know."
+> **原句 1:** Do you think a person's photographs can reveal their state of mind?" "Absolutely." Paul nods energetically, slipping right into professor mode. "They can reveal the photographer's background, his perspective on life, his hopes and fears—and yes, his state of mind, too. Or hers," he adds, giving Schuyler a significant look. "So you see all of that in Judith's work?" "I do. All that and more…What she didn't want to see, the mirror saw for her, the pond saw for her, and so on." "Why do you think she changed her mind?" "I don't really know."
 
 **中文理解**："你觉得一个人的照片能揭示他的心理状态吗？""当然。"Paul 精力充沛地点了点头，直接滑入了教授模式。"它们能揭示摄影师的背景、他的人生观、他的希望和恐惧——是的，还有他的心理状态。或者说她的，"他补充道，给了 Schuyler 一个意味深长的眼神。"那么你在 Judith 的作品里看到了所有这些？""是的。所有这些，甚至更多……她不想看到的，镜子替她看了，池塘替她看了，等等。""你觉得她为什么改变了主意？""我真的不知道。"
 
@@ -151,7 +151,7 @@
 
 ### 精读块 9："那张屠夫店橱窗里的照片"
 
-> **原句 2:** "I was struck by the picture in the butcher shop window." Paul nods, preparing himself to lecture on the striking photograph Harper's chose as the cover for their issue, but Schuyler continues. "It's odd, isn't it? To take a picture of yourself with all those hanging sides of beef, and then a few days later, you end up dead? It seems…" He searches for the word, looking at Paul. "Tragic?" Paul offers. "No. Purposeful," he says bluntly. "Meaningful."
+> **原句 2:** I was struck by the picture in the butcher shop window." Paul nods, preparing himself to lecture on the striking photograph Harper's chose as the cover for their issue, but Schuyler continues. "It's odd, isn't it? To take a picture of yourself with all those hanging sides of beef, and then a few days later, you end up dead? It seems…" He searches for the word, looking at Paul. "Tragic?" Paul offers. "No. Purposeful," he says bluntly. "Meaningful."
 
 **中文理解**："屠夫店橱窗里的那张照片让我印象深刻。"Paul 点头，准备讲一讲 Harper's 选作那一期封面的那张引人注目的照片，但 Schuyler 继续说道。"这很奇怪，不是吗？给自己拍一张照片，背景是那些挂着的牛肉片，然后几天后，你就死了？这似乎……"他找着词，看着 Paul。"悲剧？"Paul 提议。"不。有目的的，"他直言不讳地说。"有意义的。"
 
@@ -200,30 +200,6 @@
 ---
 
 ## 章节总结
-
-## 一句话总结
-
-（本章暂无总结）
-
-**Schuyler 的审讯逻辑**：本章是 Schuyler 的一次精心设计的心理审讯。他没有直接说"我们认为 Judith 自杀"，而是通过一系列问题——关于1934年的袭击、关于婚姻、关于指纹证据、关于照片里的 stalker——把 Paul 引导到同一个结论。Schuyler 的核心问题是："她告诉丈夫 stalker 在每张照片里，但我们什么都没找到——你不觉得奇怪吗？"这个问题是整个审讯的 trap：Paul 最终理解 Schuyler 在暗示 Judith 可能是自导自演。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**指纹证据的关键意义**：Schuyler 在 Paul 面前提到"只有 Judith 的指纹"——Paul 立刻用"凶手戴手套"来解释。但 Schuyler 的意图完全不同：如果 Judith 是自己导演了自己的死亡，那只有她的指纹就完全合理。Paul 的"戴手套"解释在 Schuyler 的逻辑里变成了另一个方向的证据：凶手根本不存在，所以指纹只有一个。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**Paul 的崩溃**：全章结尾的"trembling hand"和"without any sense behind the words"是 Paul's 的心理崩溃。他一直以为自己在利用 Judith 的死亡赚钱，他一直以为自己是"策展顾问"，他一直以为真正的凶手在外面某个地方——现在他知道了：Judith 的死亡可能是一场她自己策划的表演，而 Paul 以为自己是主角，实际上他只是一个被利用的棋子。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**"She Did It Herself"的双重含义**：标题的"she did it herself"可以理解为"她自己动了手"（自杀或自伤），也可以理解为"她自己是肇事者"——在这本书的语境里，两层含义都是真的。Judith 既是受害者（1934年的袭击），也是她1980年代死亡的策划者。Paul 以为自己在消费一具尸体，但实际上他一直在 Judith 的剧本里扮演一个角色。
 
 ## 一句话总结
 

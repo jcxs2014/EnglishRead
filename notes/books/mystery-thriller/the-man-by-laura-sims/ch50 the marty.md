@@ -140,18 +140,3 @@ He tells himself to slow down. First he has to get Marty's approval; then he'll 
 ## 一句话总结
 
 （本章暂无总结）
-
-**关键词：**
-- **veto them**：否决它们——Paul 担心 Marty 会拒绝这些照片
-- **slow down**：慢下来——Paul 在给自己踩刹车，但效果存疑
-- **First...then**：首先……然后……——典型的计划性思维，显示 Paul's 在操控局面
-
-## 一句话总结
-
-（本章暂无总结）
-
-**为什么这样写**：结尾揭示 Paul's 的策略：他不是在"分享" Judith 的作品，而是在按照自己的计划一步步推进。"slow down" 暗示他知道自己在冒险，但无法停下来。Marty 是第一关，Tom 是第二关——两关都必须过，他的"计划"才能成功。
-
-## 一句话总结
-
-（本章暂无总结）

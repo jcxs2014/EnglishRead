@@ -46,9 +46,9 @@
 >
 > Tom snorts. "Not for us."
 >
-> **原句 1:** "Well, for Judith, then. Think of—"
+> **原句 1:** Well, for Judith, then. Think of—"
 >
-> **原句 2:** "Don't tell me 'Judith would have wanted this.' She asked for your help with submitting a few photographs to magazines, and now you've **whipped up a circus**. You want this. That's why you're doing it. **You love the spotlight.** You've been giving interviews left and right, don't think I haven't noticed. Putting up a gallery show? That's something you're doing for yourself. You'll get more money that way, won't you?"
+> **原句 2:** Don't tell me 'Judith would have wanted this.' She asked for your help with submitting a few photographs to magazines, and now you've **whipped up a circus**. You want this. That's why you're doing it. **You love the spotlight.** You've been giving interviews left and right, don't think I haven't noticed. Putting up a gallery show? That's something you're doing for yourself. You'll get more money that way, won't you?"
 
 **中文理解**："一个展览？" Tom 的语气仿佛 Paul 建议的是在绅士俱乐部搞百老汇滑稽秀、脱衣舞。Paul 强调这是对任何艺术家的最高成就，对 Judith 和 Tom 一家都好。Tom 冷嘲："不是为我们。" Paul 说"那为 Judith 想想——" Tom 直接打断：别跟我说"Judith 会想要这个"——她只是想投几幅照片到杂志，你却搞成了马戏团。你自己想要这个，你爱聚光灯，到处接受采访，别以为我没注意到。办画廊展是为了你自己，这样你能赚到更多钱，对吧？
 
@@ -176,21 +176,6 @@
 ---
 
 ## 读者提示
-
-## 一句话总结
-
-（本章暂无总结）
-
-**关键阅读点**：本章的核心是 Paul 的自我叙事（"I'm building her legacy"）与他人的视角（Tom 的"narcissistic opportunist"）之间的张力。阅读时注意：Paul 的每一次自我辩护都包含一个裂缝——他说"为了 Judith"，但他的行为明显有自己的利益驱动。"And he is a fool, isn't he?" 是全章最诚实的时刻，但 Paul 自己没有勇气正面承认。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**语言亮点**：
-- "Thanks to you, everyone on earth knows she was brutally murdered, and took weird photographs."——Tom 的话是全章最沉重的句子，括号中的"took weird photographs"是 Tom 对 Judith 作品的全部理解，与 Paul 的"艺术遗产"叙事形成毁灭性对比
-- "Contracts can be broken, though; they can be torn into bits and flushed down toilets, or burned to ash."——Paul 对合同被毁的想象揭示了他的恐惧程度
-- "But he is curious. And it doesn't take much to open and read a few letters."——简洁的结尾，悬念感强
 
 ## 一句话总结
 

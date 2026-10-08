@@ -113,7 +113,7 @@
 
 ### 精读块 7：叙事的炼金术
 
-> **原句 1:** "Judith is the star, of course," Jahan says, evaporating Paul's little dream. "Her work will be the centerpiece. So will her death—whether we like it or not. But the story of 'Judith and Paul' is compelling, too, the one about this singular talent discovered by her brilliant photography instructor."
+> **原句 1:** Judith is the star, of course," Jahan says, evaporating Paul's little dream. "Her work will be the centerpiece. So will her death—whether we like it or not. But the story of 'Judith and Paul' is compelling, too, the one about this singular talent discovered by her brilliant photography instructor."
 
 **中文理解**："Judith 当然是明星，" Jahan 说，蒸发了 Paul 的那个小梦想。"她的作品是核心。当然，她的死亡也是——无论我们喜不喜欢。但'Judith 和 Paul'的故事同样引人入胜——这个关于 singular talent 被她出色的摄影导师发现的故事。"
 
@@ -177,21 +177,6 @@
 ---
 
 ## 读者提示
-
-## 一句话总结
-
-（本章暂无总结）
-
-**关键阅读点**：本章的核心是"握手仪式"作为 narcissistic 转变的隐喻。Paul 在每一次握手中"discards more and more of his old self"，这个过程是本章最重要的意象。注意 Paul 如何在 Jahan 的叙事框架中找到新的自我定位——从"star"（被拒绝）到"star 的发现者"（被接受）。这个身份同样建立在对 Judith 的利用之上，只是包装不同。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**语言亮点**：
-- "evaporating Paul's little dream"——精准的动词，暗示 Paul 的幻想瞬间破灭
-- "discards more and more of his old self"——握手作为蜕变仪式的核心隐喻
-- "bright new person who belongs in this golden world"——Paul 的自我预言，他相信自己能成为"新人"
 
 ## 一句话总结
 

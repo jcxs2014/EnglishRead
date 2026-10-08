@@ -125,27 +125,3 @@
 ## 一句话总结
 
 （本章暂无总结）
-
-**谎言的全面兑现**：ch59 是 Paul's 骗局的最高潮。媒体和画商像"友善的秃鹰"一样盘旋，Harper's 的编辑要全部二十张照片，Marty 的赞助落实，最重要的是 Doven Gallery（纽约艺术界的皇冠）愿意为 Judith 举办个展。Paul 已经完全忘记了自己是摄影老师，沉浸在这个新身份里。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**媒体文化的镜子**：本章通过 Paul's 的视角展示了媒体和公众的消费文化。"They’re feasting on Judith's tragic story—and on the story of 'Judith and Paul.'"Paul 知道公众在消费什么，他也知道如何提供他们想要的。"The public wants surface, only surface, and he's good at giving it"——Paul 对公众的理解是精英主义的：他认为他们没有头脑，只想要表面，所以他给他们表面。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**身份的全面替换**：本章最重要的句子是"By the end of the first week, this new identity has blotted out the old one so thoroughly that he forgets all about his real job: teaching photography."Paul 的新身份已经彻底覆盖了旧身份，他真的忘记了自己是谁。Charlie 是他唯一的软肋——他不想在 Charlie 面前暴露新身份，因为 Charlie 可能看穿他。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**Oyster 的双重含义**：全章以"The world will be his fucking oyster"结尾。字面上是 Paul's 的狂喜宣言——他将拥有世界；深层次上这是 Paul's 的危险信号：他相信通过谎言和操控可以得到任何东西。oyster 可以是被打开的，也是可以被吃的——Paul 既是打开者，也是食用者，而这个世界（包括 Judith 的遗产、Marty 的父爱、艺术界的认可）都是他的食物。
-
-## 一句话总结
-
-（本章暂无总结）

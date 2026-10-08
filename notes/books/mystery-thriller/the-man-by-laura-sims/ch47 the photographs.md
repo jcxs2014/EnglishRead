@@ -79,7 +79,7 @@ POV: "Paul (third person limited)"
 ---
 
 > **原句 4：**
-> **原句 1:** "Look, my dad isn't too happy about it, but I convinced him to let you review all the photographs, select a few, and send them to a magazine—one magazine. What did you say the other day? Life?"
+> **原句 1:** Look, my dad isn't too happy about it, but I convinced him to let you review all the photographs, select a few, and send them to a magazine—one magazine. What did you say the other day? Life?"
 
 **中文理解：**
 "我爸对这个不太高兴，但我说服了他，让你审阅所有照片，选几张，然后寄给一家杂志——就一家。你前几天说的是哪一家来着？Life？"
@@ -117,7 +117,7 @@ Paul 的夸夸其谈与他的真实处境形成讽刺性反差。他说"edgier"�
 ---
 
 > **原句 6：**
-> **原句 2:** "All right. But you'll have to pass everything by my dad before you submit them. He wants to make sure there's nothing that could, you know, embarrass Mom. Her memory."
+> **原句 2:** All right. But you'll have to pass everything by my dad before you submit them. He wants to make sure there's nothing that could, you know, embarrass Mom. Her memory."
 
 **中文理解：**
 "行。但你在投稿之前，所有照片都得过我爸爸那一关。他想确保没有什么会……你懂的，让妈妈难堪。她的名誉。"
@@ -163,22 +163,6 @@ Paul 感谢他然后挂断电话，随后坐在那里，香烟叼在齿间，摇
 
 **句子结构：**
 简单句。"He glances at his dining room table"是现实动作，"and pictures them there"是心理意象。"piles of Judith's photographs like piles of gold"是明喻结构，将照片的价值等同于黄金——但"piles"既可以理解为数量的堆叠，也可以暗指 Paul's 对这些照片的拜物态度。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**关键词：**
-- **pictures them there**：脑海里看到它们——心理意象，是 Paul's 动机的直接呈现
-- **piles of gold**：成堆的黄金—— Paul's 对这些照片的拜金主义解读，而非对艺术价值的真正欣赏
-- **piles**：堆——重复使用，强化 Paul's 的"占有欲"视角
-
-## 一句话总结
-
-（本章暂无总结）
-
-**为什么这样写：**
-这是 Paul's 动机的最终揭示：Judith 的照片对他而言是"gold"，是重新进入艺术界的敲门砖。"pictures them there"暗示他已经开始了使用这些照片的想象——他在 mental 中已经开始"消费"这些尚未真正接触的作品。餐桌是他生活场景的中心，也是他与 Tom 讨论 Judith 作品的地方，现在它成为 Paul's 幻想的幕布。这一句与开篇的"bathroom mirror"形成结构性呼应：从自我审视到欲望投射，Paul's 的叙事弧线完成了一个循环。
 
 ## 一句话总结
 

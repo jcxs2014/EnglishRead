@@ -184,7 +184,7 @@
 
 ### 精读块 8：新角度
 
-> **原句 1:** "As you probably know, the case remains unsolved." Paul tries to say yes, but it comes out a flippant-sounding Yeah. "Well, I've taken over, and I'm starting from scratch. Reviewing suspects, paperwork, photographs, everything. Looking at some new angles here, too, and I'd appreciate you coming by the station this week to answer some questions."
+> **原句 1:** As you probably know, the case remains unsolved." Paul tries to say yes, but it comes out a flippant-sounding Yeah. "Well, I've taken over, and I'm starting from scratch. Reviewing suspects, paperwork, photographs, everything. Looking at some new angles here, too, and I'd appreciate you coming by the station this week to answer some questions."
 
 **中文理解**："你可能知道，这个案子还没有解决。"Paul 想说"是的"，但出口变成了听起来很轻浮的"Yeah"。"嗯，我接管了，从头开始。审查嫌疑人、书面材料、照片，一切。也在看一些新的角度，我希望你这周能来警局回答一些问题。"
 
@@ -223,7 +223,7 @@
 
 ### 精读块 10：答应问话
 
-> **原句 2:** "Of course, Detective. I'd be happy to come by," Paul says, trying to sound relaxed, though he's grateful the detective can't see how hard he's gripping the receiver. "How's tomorrow morning?"
+> **原句 2:** Of course, Detective. I'd be happy to come by," Paul says, trying to sound relaxed, though he's grateful the detective can't see how hard he's gripping the receiver. "How's tomorrow morning?"
 
 "Excellent. Nine thirty all right with you?"
 
@@ -330,26 +330,6 @@
 ## 总结
 
 Paul 在家收到一个无声骚扰电话（疑似 Charlie 所为），随后 Detective Schuyler 来电——他接管了 Judith Stanley 谋杀案，要 Paul 明早去警局接受问话。Paul 的表面反应是配合（"Of course, Detective"），但内心充满恐惧与自我辩护：他对 Detective 的"新角度"感到焦虑，猜测可能是自己的 near-arrest（商店盗窃）或从 Judith 死中获利的采访被翻出来。他喝酒（"It doesn't even begin to help"）并用"你没有杀她"来安慰自己，但"不是说清白总是有用"又暴露了更深层的悲观。"mind and stomach roiling"的状态与章末 Paul 盯着"不久之前还在平静工作"的桌子的画面形成对照——过去的正常已成过去。
-
-## 一句话总结
-
-（本章暂无总结）
-
----
-
-## 一句话总结
-
-（本章暂无总结）
-
-## 关键引语
-
-## 一句话总结
-
-（本章暂无总结）
-
-1. "You didn't kill her, though... not that innocence always matters."（核心自我辩护的双刃剑）
-2. "Here's a man who's profiting nicely from Judith Stanley's death."（Paul 对 Detective 可能推理的内疚预感）
-3. "He directs a surge of helpless rage at Charlie and latches on to her image as he sits, mind and stomach roiling."（情绪转移与躯体化焦虑）
 
 ## 一句话总结
 

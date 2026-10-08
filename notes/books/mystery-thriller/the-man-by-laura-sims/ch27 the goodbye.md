@@ -1,6 +1,6 @@
 # 27. The Goodbye
 
-## 章节概述
+## 精读
 
 Paul 讲授街头摄影师课程，暗示纽约之行。Judith 已有一周多未碰相机——它被收进浴室柜，连同那个男人的声音一起被隔绝。但空虚感在清晨醒来时汹涌而至：她成了"Mrs. Judith Stanley, mother and housewife"。Paul 当众注视她，课后单独问她是否参加下周五的 field trip，最终说出"mainly happy we're going for you"。Judith 在"goodbye"中点头应允——这是她对摄影的告别，还是对保罗的投降？
 
@@ -84,18 +84,6 @@ Paul 问她要照片，她说"It’s been a busy week"——谎言，也是自�
 - **misplaced something**：放错了什么东西——她无法命名失去的是什么，但身体知道
 - **throbbing head**：跳动的头痛——说"yes"时身体的抗拒信号
 - **uncomfortable pleasure**：不舒服的愉悦——对 Paul 的 attraction 她无法否认，却也感到羞耻
-
-## 一句话总结
-
-（本章暂无总结）
-
-## 章节位置
-
-## 一句话总结
-
-（本章暂无总结）
-
-前有 ch26（Paul 评论 Judith 的室内照片，鼓励她去城市），后接 ch28（待核）。本章是全书的转折点之一——Judith 在"放下"与"拿起"之间做出选择，Paul 的那句"mainly happy we're going for you"是她在黑暗中看到的一束光，但也是她继续在危险边缘行走的信号。
 
 ## 一句话总结
 

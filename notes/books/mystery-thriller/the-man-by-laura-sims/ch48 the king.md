@@ -11,7 +11,7 @@
 
 ## 精读
 
-> **原句 1:** "With TJ's help, Paul packs the eleven boxes into his trunk as quickly as he can."
+> **原句 1:** With TJ's help, Paul packs the eleven boxes into his trunk as quickly as he can."
 
 **中文理解**：Paul在TJ的帮助下尽快将十一个箱子装进后备箱。
 
@@ -23,7 +23,7 @@
 
 ---
 
-> **原句 2:** "He doesn't really think Tom Senior will change his mind, but the man hovers in the doorway, looking like someone who's ingested poison."
+> **原句 2:** He doesn't really think Tom Senior will change his mind, but the man hovers in the doorway, looking like someone who's ingested poison."
 
 **中文理解**：他并不真觉得Tom Senior会改变主意，但那男人却赖在门口不走，看起来像是吞了毒药一样难受。
 
@@ -37,7 +37,7 @@
 
 ---
 
-> **原句 3:** "Tom sounded defensive and ill at ease, and Paul didn't quite believe him."
+> **原句 3:** Tom sounded defensive and ill at ease, and Paul didn't quite believe him."
 
 **中文理解**：Tom说话时显得有戒心、很不自在，Paul不太相信他。
 
@@ -49,7 +49,7 @@
 
 ---
 
-> **原句 4:** "He hesitated to push Tom at a crucial moment and decided to leave it alone, to stay focused on what he had: the photographs, the negatives, the film rolls."
+> **原句 4:** He hesitated to push Tom at a crucial moment and decided to leave it alone, to stay focused on what he had: the photographs, the negatives, the film rolls."
 
 **中文理解**：他在关键时刻没有逼迫Tom，决定先放一放，专注于已有的东西：照片、底片、胶卷。
 
@@ -63,7 +63,7 @@
 
 ---
 
-> **原句 5:** "You'll let us know when you've made your selection and come by to show us, right?" Junior asks, glancing at his father.
+> **原句 5:** You'll let us know when you've made your selection and come by to show us, right?" Junior asks, glancing at his father.
 
 **中文理解**："你选好了来给我们看看，会通知我们的吧？"Junior瞥了一眼父亲问道。
 
@@ -75,7 +75,7 @@
 
 ---
 
-> **原句 6:** "'Yes. Absolutely. Wouldn't think of doing otherwise,' Paul lies."
+> **原句 6:** 'Yes. Absolutely. Wouldn't think of doing otherwise,' Paul lies."
 
 **中文理解**："好。一定。想都不会想别的。"Paul撒了谎。
 
@@ -85,7 +85,7 @@
 
 ---
 
-> **原句 7:** "He's thought plenty of doing otherwise—of driving off into the sunset with the boxes and never having to deal with Tom Senior again."
+> **原句 7:** He's thought plenty of doing otherwise—of driving off into the sunset with the boxes and never having to deal with Tom Senior again."
 
 **中文理解**：他其实一直在盘算另一种做法——带着这些箱子驾车消失在夕阳中，再也不跟Tom Senior有任何瓜葛。
 
@@ -97,7 +97,7 @@
 
 ---
 
-> **原句 8:** "In reality, Tom is the one and only owner of Judith's photographs—however much it rankles Paul to acknowledge it."
+> **原句 8:** In reality, Tom is the one and only owner of Judith's photographs—however much it rankles Paul to acknowledge it."
 
 **中文理解**：实际上，Tom才是Judith照片的唯一所有者——尽管承认这一点令Paul非常不爽。
 
@@ -111,7 +111,7 @@
 
 ---
 
-> **原句 9:** "Just as he senses the onset of blissful freedom and fumbles across the seat for his cigarette pack, Tom Senior's face appears in the passenger-side window, his hand on the car."
+> **原句 9:** Just as he senses the onset of blissful freedom and fumbles across the seat for his cigarette pack, Tom Senior's face appears in the passenger-side window, his hand on the car."
 
 **中文理解**：正当他感受到幸福自由即将到来的时刻，手忙脚乱地在座位上摸索烟盒时，Tom Senior的脸出现在车窗边，手搭在车身上。
 
@@ -126,7 +126,7 @@
 
 ---
 
-> **原句 10:** "Hey, if you happen to see anything out of the ordinary in those pictures she took of herself, will you let me know? Anything like…a man lurking in the background?"
+> **原句 10:** Hey, if you happen to see anything out of the ordinary in those pictures she took of herself, will you let me know? Anything like…a man lurking in the background?"
 
 **中文理解**："嘿，如果你碰巧在这些自拍里看到什么不寻常的东西，能告诉我吗？比如……背景里潜伏的男人？"
 
@@ -138,7 +138,7 @@
 
 ---
 
-> **原句 11:** "The police have looked, but I thought maybe with your, you know, expertise…"
+> **原句 11:** The police have looked, but I thought maybe with your, you know, expertise…"
 
 **中文理解**："警察已经看过了，但我想也许有你那……你知道的……专业能力……"
 
@@ -148,7 +148,7 @@
 
 ---
 
-> **原句 12:** "She said he showed up in the background of those pictures. In all of them. She cropped him out every time, so the ones you saw were—fixed."
+> **原句 12:** She said he showed up in the background of those pictures. In all of them. She cropped him out every time, so the ones you saw were—fixed."
 
 **中文理解**："她说那个男人出现在那些照片的背景里。每张都有。她每次都把他裁掉了，所以你看到的那些——是处理过的。"
 
@@ -162,7 +162,7 @@
 
 ---
 
-> **原句 13:** "After she died, the police reprinted some of her film, but they said they found nothing."
+> **原句 13:** After she died, the police reprinted some of her film, but they said they found nothing."
 
 **中文理解**：她去世后，警察重印了她的一些胶卷，但说什么都没发现。
 
@@ -172,7 +172,7 @@
 
 ---
 
-> **原句 14:** "'Really?' Paul says, stunned. 'Not a single one?'"
+> **原句 14:** 'Really?' Paul says, stunned. 'Not a single one?'"
 
 **中文理解**："真的吗？"Paul说，吃了一惊。"一张都没有？"
 
@@ -183,7 +183,7 @@
 
 ---
 
-> **原句 15:** "But I don't trust them. They've been nothing but sloppy."
+> **原句 15:** But I don't trust them. They've been nothing but sloppy."
 
 **中文理解**："但我不信任他们。他们一直都很马虎。"
 
@@ -194,7 +194,7 @@
 
 ---
 
-> **原句 16:** "And if Judith said she saw it, it must be there."
+> **原句 16:** And if Judith said she saw it, it must be there."
 
 **中文理解**："如果Judith说她看到了，那它一定就在那里。"
 
@@ -207,7 +207,7 @@
 
 ---
 
-> **原句 17:** "A heartbroken man who's been cold to him, and dismissive, too, but if he could satisfy Tom Senior in this, it would be nothing but beneficial to them both."
+> **原句 17:** A heartbroken man who's been cold to him, and dismissive, too, but if he could satisfy Tom Senior in this, it would be nothing but beneficial to them both."
 
 **中文理解**：这是一个对他冷淡且不屑的心碎男人，但如果能在这件事上让Tom Senior满意，对他们双方都只有好处。
 
@@ -217,7 +217,7 @@
 
 ---
 
-> **原句 18:** "Paul says he'll examine the self-portraits with exquisite care, reprinting the negatives if he needs to."
+> **原句 18:** Paul says he'll examine the self-portraits with exquisite care, reprinting the negatives if he needs to."
 
 **中文理解**：Paul说他会极其仔细地检查这些自拍，必要时重新冲洗底片。
 
@@ -229,7 +229,7 @@
 
 ---
 
-> **原句 19:** "Tom looks relieved—grateful, even."
+> **原句 19:** Tom looks relieved—grateful, even."
 
 **中文理解**：Tom看起来放心了——甚至有些感激。
 
@@ -239,7 +239,7 @@
 
 ---
 
-> **原句 20:** "He turns on the radio to hear the Doors. He doesn't love the Doors, but he pumps the volume anyway."
+> **原句 20:** He turns on the radio to hear the Doors. He doesn't love the Doors, but he pumps the volume anyway."
 
 **中文理解**：他打开收音机，正好听到Door乐队的歌。他其实并不喜欢Door乐队，但还是把音量调大了。
 
@@ -253,7 +253,7 @@
 
 ---
 
-> **原句 21:** "He feels ignited by the lyrics, for once. He feels like a fucking king."
+> **原句 21:** He feels ignited by the lyrics, for once. He feels like a fucking king."
 
 **中文理解**：他感到被歌词点燃了，这一次是真的。他感觉自己像个该死的国王。
 

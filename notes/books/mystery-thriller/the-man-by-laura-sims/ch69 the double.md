@@ -134,7 +134,7 @@
 
 ### 精读块 8："You don't have the right to share someone's possible psychological condition"
 
-> **原句 1:** "So, what's the plan? Is this just for your own curiosity?" He sounds hopeful. "Well, I have to write this catalog introduction for the show, and I'm sure I'll be doing interviews. I feel like—I think I have a duty to tell the truth," Paul says. "To give them background to the work, you know? They'll understand the pictures better if they know what she was going through." When he thought this all out the day before, on his walk, it felt lofty and righteous. Now it sounds craven. Malcolm stares at him for a long moment. "I think you mean it will pack the room and sell pictures, right? I mean, I get it, I know you want the show to succeed, but you don't have the right to share someone's possible psychological condition. What would her husband think?"
+> **原句 1:** So, what's the plan? Is this just for your own curiosity?" He sounds hopeful. "Well, I have to write this catalog introduction for the show, and I'm sure I'll be doing interviews. I feel like—I think I have a duty to tell the truth," Paul says. "To give them background to the work, you know? They'll understand the pictures better if they know what she was going through." When he thought this all out the day before, on his walk, it felt lofty and righteous. Now it sounds craven. Malcolm stares at him for a long moment. "I think you mean it will pack the room and sell pictures, right? I mean, I get it, I know you want the show to succeed, but you don't have the right to share someone's possible psychological condition. What would her husband think?"
 
 **中文理解**。"那你的计划是什么？这只是出于你自己的好奇心吗？"他听起来充满希望。"嗯，我得为展览写这篇图录介绍，而且我肯定会上一些采访。我感觉——我觉得我有责任告诉真相，"Paul 说。"给他们提供一些关于这部作品的背景知识，你懂吗？如果他们知道她经历了什么，他们会更好地理解这些照片。"前一天散步时他把这一切都想清楚的时候，感觉是崇高的、正义的。现在听起来却是卑劣的。Malcolm 盯着他看了很久。"我觉得你的意思是这会吸引观众、卖出照片，对吧？我的意思是，我理解你，我知道你想让展览成功，但你没有权利分享某人可能的心理状况。她丈夫会怎么想？"
 
@@ -181,7 +181,7 @@
 
 ### 精读块 11："A double this time"
 
-> **原句 2:** "I'll have another," he tells Kent. "A double this time."
+> **原句 2:** I'll have another," he tells Kent. "A double this time."
 
 **中文理解**。"再来一杯，"他对 Kent 说。"这次要双份的。"
 
@@ -192,30 +192,6 @@
 ---
 
 ## 章节总结
-
-## 一句话总结
-
-（本章暂无总结）
-
-**道德堕落的弧线**：本章继续了 Paul's 从 ch66 到 ch67 再到本章的道德堕落弧线。在 ch67 中，Schuyler 暗示 Judith 可能自己动手；在本章中，Paul 向心理医生 Malcolm 寻求"专业意见"，来支持他在展览图录中披露 Judith 的心理状况。Malcolm 明确拒绝了："你不能分享某人可能的心理状况"，并且愤然离去。但 Paul 仍然坚持——他仍然打算告诉 Jahan。"I think I have a duty to tell the truth"是 Paul's 的道德包装，但 Malcolm 直接戳穿了它："I think you mean it will pack the room and sell pictures."
-
-## 一句话总结
-
-（本章暂无总结）
-
-**"The Double"的含义**：标题"the Double"指向 Paul's 的双重自我：他在镜子中看到的那个人与他以为的自己完全不同。他一直以为自己是"英俊的"，但镜子里的人有"不对称的五官"、"下垂的眼睑"、"鹰钩鼻"。他一直以为自己是"在做正确的事"，但 Malcolm 刚刚与他在道德上断绝了关系。"The Double"是 Paul's 的身份危机：他是那个利用死者赚钱的"寄生虫"，还是那个"有责任告诉真相"的策展人？
-
-## 一句话总结
-
-（本章暂无总结）
-
-**Malcolm 的伦理立场**：Malcolm 代表了 Paul's 良心的声音。他拒绝了 Paul's 的计划，不是因为他不相信 Judith 可能患有解离性障碍，而是因为：① 把某人的"可能的心理状况"当作展览卖点是不道德的；② Paul 没有权利这样做，因为这不是他的故事。Malcolm 的离去是 Paul's 失去的最后一个道德锚点——在这之后，Paul 将没有任何朋友来阻止他做他想做的事。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**酒精与自我逃避**：全章的结尾 Paul 要了一杯"双份"——这既是字面意义（双份烈酒），也是隐喻意义（另一个 Paul，那个丑陋的、畸形的、与他的自我形象不符的人）。酒精是 Paul's 回归"正常"的方式（"the first burning sip sets him right"），但在全章结尾，"double"表明他已经走得太远了——他需要更多的酒精才能"正常"，而"正常"本身已经变得不真实了。
 
 ## 一句话总结
 

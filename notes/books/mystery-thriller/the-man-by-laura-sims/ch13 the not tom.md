@@ -1,6 +1,6 @@
 # 13. The Not Tom
 
-## 章节概述
+## 精读
 
 Judith 为 Tom 做他最爱的晚餐（chicken piccata），却感到空虚。Tom 追问她今天去了哪里，她隐瞒了追踪跟踪者的事。Tom 翻看她刚冲洗的照片，称赞"just as good as the ones in Life"——Judith 内心深知这不是真话，她想象 Paul 看到这批照片时会把它们称为"not gems but duds"。结尾她在厨房水池上方看着窗玻璃中自己的倒影，想举起 Nikon 拍下这个"pathetic, pained woman"，但随即警觉：**那个男人是否就站在她身后？**
 
@@ -69,18 +69,6 @@ Tom 看 contact sheets 后说"just as good as the ones in Life"——Judith 对�
 - **filter out**：Judith 通常会从给 Tom 看的照片中过滤掉"weird" ones；今天没过滤，因为没什么可过滤的
 - **startled**：倒影中的表情是"startled"——她没有预料到自己看起来如此痛苦
 - **pathet**ic：这个词将她客体化——她看见的是一个"可怜的女人"，仿佛是别人
-
-## 一句话总结
-
-（本章暂无总结）
-
-## 章节位置
-
-## 一句话总结
-
-（本章暂无总结）
-
-前有 ch12（待核），后接 ch14（待核）。本章是全书中**被监视感最直接**的一章——The man 从背景走向前景，从"可能在附近"变成"可能就在我身后"。Tom 的在场非但没有提供安全感，反而衬托出 Judith 真正恐惧的对象不是丈夫。
 
 ## 一句话总结
 

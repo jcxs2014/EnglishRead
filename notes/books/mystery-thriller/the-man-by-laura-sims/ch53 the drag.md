@@ -132,18 +132,3 @@
 ## 一句话总结
 
 （本章暂无总结）
-
-**关键词：**
-- **a long, delicious drag**：深吸一口，美妙的感觉——"delicious" 是 Paul's 对复仇/成功的感官享受
-- **building himself into a brand-new man**：把自己塑造成一个全新的人——Paul 的身份重建
-- **the man who speaks for the soon-to-be-famous Judith Stanley**：为即将走红的 Judith Stanley 代言的人——Paul 用 Judith 的名声来定义自己的新身份
-
-## 一句话总结
-
-（本章暂无总结）
-
-**为什么这样写**：本章的终极主题在此揭示。Paul 借 Judith 的遗作重返 Harper's，并在过程中把自己重塑为"发现天才的人"。他的新身份——"the man who speaks for Judith Stanley"——是自我救赎，也是他多年来对被拒绝、被遗忘的反击。delicious drag 是感官细节，暗示 Paul's 品尝胜利的姿态。
-
-## 一句话总结
-
-（本章暂无总结）

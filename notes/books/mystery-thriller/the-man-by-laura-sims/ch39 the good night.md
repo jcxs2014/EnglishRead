@@ -1,6 +1,6 @@
 # 39. The Good Night
 
-## 章节概述
+## 精读
 
 Paul 因病提前下课后单独留下 Judith。他为之前在画廊的发作道歉，请求原谅，并再次称赞她的照片"vibrant and sublime"。Judith 内心经历剧烈挣扎：她想让他把照片拿去发表（"Take my pictures, try to sell them"几乎脱口而出），但"the pain"（那个男人的声音）警告她不要。最终她收起信封，Tom 还在等她——她选择服从这个无形的枷锁，在"Good night"中结束又一场内心的溃败。
 

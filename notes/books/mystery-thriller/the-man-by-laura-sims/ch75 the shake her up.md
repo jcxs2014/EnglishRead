@@ -19,7 +19,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 1：春天的地铁
 
-> **原句 1:** "Paul slumps sideways, letting his head rest against the subway car window warmed by afternoon sunlight. Spring sunlight. The season has changed without his noticing; he hasn't had a chance to notice."
+> **原句 1:** Paul slumps sideways, letting his head rest against the subway car window warmed by afternoon sunlight. Spring sunlight. The season has changed without his noticing; he hasn't had a chance to notice."
 
 **中文理解**：Paul 斜靠着，让头靠在被午后阳光晒暖的地铁车窗上。春天的阳光。季节已经变了，他却没注意到；他根本没机会注意。
 
@@ -35,7 +35,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 2：Charlie 的阴影
 
-> **原句 2:** "He thinks about getting off at the next stop and walking the rest of the way to Doven to appreciate the weather, but he doesn't have time. Jahan asked him to be there by four, and he's running late… He lets his eyes close, but Charlie, laughing in his face as she did last night, pops into his mind."
+> **原句 2:** He thinks about getting off at the next stop and walking the rest of the way to Doven to appreciate the weather, but he doesn't have time. Jahan asked him to be there by four, and he's running late… He lets his eyes close, but Charlie, laughing in his face as she did last night, pops into his mind."
 
 **中文理解**：他想过在下一站下车走路去 Doven，享受一下天气，但他没时间。Jahan 要求他四点前到，而他快迟到了……他想让眼睛闭上，但 Charlie——昨晚在他面前笑着——突然闯入他的脑海。
 
@@ -50,7 +50,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 3：Jahan 的奉承
 
-> **原句 3:** ""What a star you are, Paul, what a star! They'll come pouring in here on opening night. This is wonderful—for all of us," he says, and gestures toward his staff, who've arranged themselves quickly in a semicircle and, to Paul's pleased embarrassment, have started to applaud."
+> **原句 3:** "What a star you are, Paul, what a star! They'll come pouring in here on opening night. This is wonderful—for all of us," he says, and gestures toward his staff, who've arranged themselves quickly in a semicircle and, to Paul's pleased embarrassment, have started to applaud."
 
 **中文理解**："你真是个明星，Paul，真是个明星！开幕式那天他们会蜂拥而至。这太棒了——对我们所有人来说，"他说，并向员工们做了个手势，他们已经迅速排成半圆，而让 Paul 感到既高兴又尴尬的是，他们开始鼓掌。
 
@@ -65,7 +65,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 4："我让她不朽"
 
-> **原句 4:** ""I can't quite believe it's real—that her work is here, at Doven. It's—it's a dream come true." His face heats with the childish admission and because it's his dream come true, not Judith's, even though the work is hers."
+> **原句 4:** "I can't quite believe it's real—that her work is here, at Doven. It's—it's a dream come true." His face heats with the childish admission and because it's his dream come true, not Judith's, even though the work is hers."
 
 **中文理解**："我简直不敢相信这是真的——她的作品真的在这里，在 Doven。这——这是一个梦想成真。"他的脸因为这个幼稚的坦白而发热，因为这真的是他的梦想成真，而不是 Judith 的，虽然作品是她的。
 
@@ -80,7 +80,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 5：跟踪的念头
 
-> **原句 5:** ""It's when she turns to go and he watches her walk away—that lovely round ass like Charlie's moving in a tight, short skirt—that the idea comes to him: he'll follow her. Not Tasha, of course; Tasha has been nothing but gracious, appreciative, polite. But Charlie. He'll follow Charlie once or twice, to give her a scare and a nudge.""
+> **原句 5:** "It's when she turns to go and he watches her walk away—that lovely round ass like Charlie's moving in a tight, short skirt—that the idea comes to him: he'll follow her. Not Tasha, of course; Tasha has been nothing but gracious, appreciative, polite. But Charlie. He'll follow Charlie once or twice, to give her a scare and a nudge.""
 
 **中文理解**：就在她转身离开、他看着她走开的时候——那可爱的圆形身体像 Charlie 一样穿着紧身短裙移动——一个念头突然出现：他要跟踪她。不是 Tasha，当然不是；Tasha 一直很亲切、很感激、很有礼貌。但 Charlie。他会跟踪 Charlie 一两次，给她一个警告。
 

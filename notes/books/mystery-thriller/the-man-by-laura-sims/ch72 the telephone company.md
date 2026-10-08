@@ -19,7 +19,7 @@ POV: "Paul Sorenson (third person limited)"
 
 ### 精读块 1：梦醒时分
 
-> **原句 1:** "Morning sunlight snakes through the blinds. When Paul blinks awake, he hears the telephone, ringing and ringing. He was dreaming of wandering through a ragged old house—a nightmare version of the Stanley home with the same furniture, the same blue carpeting—searching for Judith. There were signs of her everywhere: her Nikon sat on a side table, her winter coat hung limp in a closet above a pair of worn leather boots. She must have just left, he kept telling himself, turning in circles. But he couldn't concentrate with that shrill ringing sound somewhere in the background—where was it coming from?"
+> **原句 1:** Morning sunlight snakes through the blinds. When Paul blinks awake, he hears the telephone, ringing and ringing. He was dreaming of wandering through a ragged old house—a nightmare version of the Stanley home with the same furniture, the same blue carpeting—searching for Judith. There were signs of her everywhere: her Nikon sat on a side table, her winter coat hung limp in a closet above a pair of worn leather boots. She must have just left, he kept telling himself, turning in circles. But he couldn't concentrate with that shrill ringing sound somewhere in the background—where was it coming from?"
 
 **中文理解**：晨光透百叶窗蛇行而入。Paul 眨着眼睛醒来，听见电话响个不停。他梦见自己在一家破旧的房子里游荡——Stanley 家的噩梦版本，同一套家具、同样的蓝色地毯——寻找 Judith。到处都是她的痕迹：她的尼康在边桌上，她的冬季外套松垂地挂在衣柜里，下面是一双磨损的皮靴。她一定刚离开，他不断告诉自己，原地打转。但那尖锐的电话铃声在背景里响着，他无法集中——声音从哪里来的？
 
@@ -37,7 +37,7 @@ POV: "Paul Sorenson (third person limited)"
 
 ### 精读块 2：宿醉的代价
 
-> **原句 2:** "When he rises up on his elbows, the headache descends."
+> **原句 2:** When he rises up on his elbows, the headache descends."
 
 **中文理解**：他撑起身子，头痛随之降临。
 
@@ -52,7 +52,7 @@ POV: "Paul Sorenson (third person limited)"
 
 ### 精读块 3：酒吧记忆
 
-> **原句 3:** "He went to a bar after leaving the studio and got smashed in its gloomy, welcoming darkness. The place was called…the Pig & Whistle? The Pot & Kettle? Something like that. The jolly bartender kept filling his cup, so by the time he stumbled out to the sidewalk at 2 a.m., he'd forgotten where he was, and all thoughts of what he'd said about Judith on television had long since gone sodden in his brain."
+> **原句 3:** He went to a bar after leaving the studio and got smashed in its gloomy, welcoming darkness. The place was called…the Pig & Whistle? The Pot & Kettle? Something like that. The jolly bartender kept filling his cup, so by the time he stumbled out to the sidewalk at 2 a.m., he'd forgotten where he was, and all thoughts of what he'd said about Judith on television had long since gone sodden in his brain."
 
 **中文理解**：Paul 从 studio 出来后去了酒吧，在阴暗而温馨的黑暗里喝得烂醉。酒吧名字记不清了（猪与哨子？壶与水壶？），酒保不断给他添酒。到凌晨两点踉跄出来时，他已经忘了自己在哪里，电视上关于 Judith 说的话早就在脑子里泡烂了。
 
@@ -71,7 +71,7 @@ POV: "Paul Sorenson (third person limited)"
 
 ### 精读块 4：成功的尖叫
 
-> **原句 4:** "Once home, he fell into bed without remembering to unplug his telephone. He's paying for it now as he reckons with the wrenching noise, his wrecked head, and the swift return of unwanted—if foggy—awareness. He wants silence and peace—only silence and peace!—but knows there can be none, not after yesterday. The phone's endless screaming is the sound of his longed-for success. And, speaking of that, damn it all, the caller could be someone important. He groans and swings his legs out of bed, stumbles in his underwear to the phone."
+> **原句 4:** Once home, he fell into bed without remembering to unplug his telephone. He's paying for it now as he reckons with the wrenching noise, his wrecked head, and the swift return of unwanted—if foggy—awareness. He wants silence and peace—only silence and peace!—but knows there can be none, not after yesterday. The phone's endless screaming is the sound of his longed-for success. And, speaking of that, damn it all, the caller could be someone important. He groans and swings his legs out of bed, stumbles in his underwear to the phone."
 
 **中文理解**：回家后 Paul 直接倒在床上，忘了拔电话线。现在他在承受后果——刺耳的电话声、破碎的头、和迅速回来的模糊意识。他想要安静和平——只有安静和平！——但知道不可能了，昨天的事之后不可能。电话无休止的尖叫是他渴望已久的成功的声音。话虽如此，该死的，来电者可能是重要人物。他呻吟着从床上起来，穿着内衣踉跄着走向电话。
 
@@ -89,7 +89,7 @@ POV: "Paul Sorenson (third person limited)"
 
 ### 精读块 5：愤怒来电
 
-> **原句 5:** "Fuck you, Paul Sorenson," a woman's voice hisses. "Fuck you and your lies about Judith Stanley."
+> **原句 5:** Fuck you, Paul Sorenson," a woman's voice hisses. "Fuck you and your lies about Judith Stanley."
 
 **中文理解**："操你，Paul Sorenson，"一个女声低吼道。"操你和你关于 Judith Stanley 的谎言！"
 
@@ -104,7 +104,7 @@ POV: "Paul Sorenson (third person limited)"
 
 ### 精读块 6：换号逃避
 
-> **原句 6:** "The first thing he'll do, after coffee, is call the telephone company and change his number."
+> **原句 6:** The first thing he'll do, after coffee, is call the telephone company and change his number."
 
 **中文理解**：喝完咖啡后他要做的第一件事是给电话公司打电话，换掉号码。
 

@@ -1,6 +1,6 @@
 # 41. The Last Night
 
-## 章节概述
+## 精读
 
 Judith 死后八周，Paul 登门拜访 Tom，在 Stanley 家蓝色客厅里编造谎言：声称 Judith 死前最后一夜曾请求他帮忙出版摄影作品。Paul 的核心动机是觊觎 Judith 的照片——他相信那是天才之作，而 Tom 无权让它们沉睡在储藏室里。全章是 Paul 的独角戏，通过他的回忆与自我辩护，揭示一个失败者如何将自己的执念包装成对亡者的义务。
 
@@ -80,30 +80,6 @@ Paul 认为自己才是让 Judith 作品重见天日的合适人选。"Someone l
 - **tapping right into the marrow of the world**：直探世界的骨髓——Paul 对 Judith 天才的描述
 - **fixated**：adj. 执念的；着魔的——Paul 对 Judith 作品的病态依附
 - **towering talent**：卓越天才——Paul 无法企及的东西
-
-## 一句话总结
-
-（本章暂无总结）
-
-## 章节位置
-
-## 一句话总结
-
-（本章暂无总结）
-
-Part II 开篇。ch01–ch37 为 Part I（Judith 生前），ch41 开始 Part II（Judith 死后）。本书 79 章，Part II 将揭示 Judith 之死的真相与 Paul 的真实角色。本章是 Part II 的定调：表面是"完成亡者遗愿"，实质是一个失败者的执念如何驱动他走向危险的边缘。
-
-## 一句话总结
-
-（本章暂无总结）
-
----
-
-## 一句话总结
-
-（本章暂无总结）
-
-*POV：Paul（第三人称）*
 
 ## 一句话总结
 

@@ -214,18 +214,3 @@
 ## 一句话总结
 
 （本章暂无总结）
-
-**关键阅读点**：本章的核心是 Paul 的心理防御机制（否认、理性化、"who cares?"）与他无法真正逃脱的内心困扰之间的张力。注意 Sims 如何用"repeat, repeats"和"slants slightly to the left; the other is nearly perfectly vertical"这样的精确细节来呈现 Paul 的思维被卡住的状态——他在脑海中重复同样的短语，同时试图用精确的笔迹分析来获得控制感，但两者都失败了。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**语言亮点**：
-- "In all caps like: FUCKING PARASITE."——全大写的并置：合同文字与污言秽语并列，讽刺效果强烈
-- "Paul thinks he may have entered some kind of hell, after having lived in paradise briefly. But it isn't hell, of course, it's just the city"——城市即地狱，但 Paul 需要一个参照系（Doven Gallery 的成功）才能意识到这一点
-- "He isn't required to open them!"——Paul 用义务语言来处理情感困境，荒唐而悲哀
-
-## 一句话总结
-
-（本章暂无总结）

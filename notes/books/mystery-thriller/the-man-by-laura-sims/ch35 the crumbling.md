@@ -187,7 +187,7 @@ Judith 带刀出门，既是自我保护的本能，也是她对"the man"威胁�
 ---
 
 > **原句 10：**
-> **原句 1:** "Rosie?" I call, embarrassed at first, then letting my voice ring out. "Rosie?"
+> **原句 1:** Rosie?" I call, embarrassed at first, then letting my voice ring out. "Rosie?"
 
 **中文理解：**
 "Rosie？"我喊了一声，一开始还很尴尬，然后让声音响亮地传开。"Rosie？"

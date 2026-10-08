@@ -57,7 +57,7 @@
 
 ### 精读块 3：认知的鸿沟
 
-> **原句 1:** "I don't know if Judith would want that one out in the world, then, if it's saying all that." Paul has to scramble now, kicking himself, to steer Tom in the right direction. "I understand your hesitation, Tom, I really do. But I think we need this one. It really shows her prowess for composition."
+> **原句 1:** I don't know if Judith would want that one out in the world, then, if it's saying all that." Paul has to scramble now, kicking himself, to steer Tom in the right direction. "I understand your hesitation, Tom, I really do. But I think we need this one. It really shows her prowess for composition."
 
 **中文理解**："如果那张照片真的在说那些（关于她父亲的），我不知道 Judith 会不会想让它面世。"Paul 不得不慌乱地补救，一边自责，一边引导 Tom 朝正确的方向走。"我理解你的犹豫，Tom，真的。但我认为我们需要这张。它真的展示了她的构图能力。"
 
@@ -91,7 +91,7 @@
 
 ### 精读块 5：真相大白
 
-> **原句 2:** "I don't think the magazine is going to want them, though," Tom says, breaking through the uproar in Paul's mind. "I mean, I know you're an expert, but Judith was a housewife. A mother. She raised her kids and cooked dinner. She didn't have any art credentials or anything. She didn't have any fancy connections."
+> **原句 2:** I don't think the magazine is going to want them, though," Tom says, breaking through the uproar in Paul's mind. "I mean, I know you're an expert, but Judith was a housewife. A mother. She raised her kids and cooked dinner. She didn't have any art credentials or anything. She didn't have any fancy connections."
 
 **中文理解**："不过，我觉得那本杂志不会想要它们的，"Tom 说，打断了 Paul 脑中的喧嚣。"我是说，我知道你是专家，但 Judith 是个家庭主妇。一个母亲。她带孩子、做饭。她没有任何艺术资质什么的。她也没有任何高级的人脉。"
 
@@ -130,21 +130,6 @@
 **中文理解**：比 Paul 想象中容易太多了，这让他的车开走时心生不安。现在他和明天在 Harper's 与 Marty 的会面之间已经没有任何阻碍了。好事，当然：他等待的那一天。但他没有感到欣喜或确定，不像 Tom 同意时他感受的那样。他怀疑那个人是不是把怀疑传染给他了。
 
 **句子结构**：结尾的"怀疑"与开篇的"pit in his stomach" 形成首尾呼应——故事开始于焦虑，结束于更深的焦虑。"Easier than Paul ever imagined" 的结果不是释然而是 "makes him nervous"，这种反直觉的心理转折揭示了 Paul's 的核心冲突：他害怕的不是失败，而是成功——因为成功意味着他要为结果负责。"He wonders if the man has infected him with doubt" 是完美的结尾句："infect" 将 doubt 变成一种病，Tom 的怀疑像病毒一样传染给了 Paul。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**关键词：**
-- **makes him nervous**：让他不安——轻易的成功反而让 Paul 警觉，与他的预期不符
-- **nothing between him and**：他和……之间没有任何阻碍——胜利就在眼前，但 Paul's 的情绪却是疑虑而非喜悦
-- **infected him with doubt**：把怀疑传染给他——"infect" 将心理状态疾病化，Tom 的悲观像病原体一样传播
-
-## 一句话总结
-
-（本章暂无总结）
-
-**为什么这样写**：全章以"疑云"结束，不是技术性的未完待续，而是心理层面的悬而未决。Paul 得到了他想要的，但代价是：他现在不确定自己是否配得上它。Tom 的"家庭主妇"标签像一根刺扎在他心里——即使 Paul 赢了这场辩论，他也没有真正赢得 Tom 对 Judith 作为艺术家的认可。这种"感染"是双向的：Paul 的自信被 Tom 的怀疑削弱，而 Tom 的怀疑其实也是 Paul's 内心深处的不确定。
 
 ## 一句话总结
 

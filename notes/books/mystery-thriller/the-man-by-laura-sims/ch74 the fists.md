@@ -19,7 +19,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 1：课堂上的空洞表演
 
-> **原句 1:** "Paul finds himself back in class—unprepared and unmotivated to teach—exactly two weeks before the gallery show is set to open. He stands where he's always stood in the ugly, institutional lecture hall, staring at bright-faced (if not always bright) young men and women in the seats around him, but he feels like an actor in a play about someone else's life."
+> **原句 1:** Paul finds himself back in class—unprepared and unmotivated to teach—exactly two weeks before the gallery show is set to open. He stands where he's always stood in the ugly, institutional lecture hall, staring at bright-faced (if not always bright) young men and women in the seats around him, but he feels like an actor in a play about someone else's life."
 
 **中文理解**：Paul 发现自己在课堂上——没准备、没动力教——距离展览开幕正好两周。他站在丑陋的、机构化的阶梯教室里老位置，盯着周围那些脸蛋明亮（虽然不一定聪明）的年轻男女，但他感觉自己像个演员，在演一部关于别人人生的戏。
 
@@ -35,7 +35,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 2：Charlie 的目光
 
-> **原句 2:** "Looking around as he speaks, his eyes land on Charlie. He's thought of her so often lately that it's jarring to see her in person—and to see that she's just an ordinary pretty girl, one of several in the class, not the powerful figure he's imagined sometimes, the leader of an enraged, self-righteous women's gang."
+> **原句 2:** Looking around as he speaks, his eyes land on Charlie. He's thought of her so often lately that it's jarring to see her in person—and to see that she's just an ordinary pretty girl, one of several in the class, not the powerful figure he's imagined sometimes, the leader of an enraged, self-righteous women's gang."
 
 **中文理解**：他边说边环顾四周，目光落在 Charlie 身上。他最近经常想到她，所以见到她本人时感到震惊——而且发现她只是班里几个普通漂亮女孩之一，不是什么他在想象中构建的强大人物，不是愤怒的、自以为正义的女性帮派领袖。
 
@@ -51,7 +51,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 3：Paul 的广告
 
-> **原句 3:** ""Many of you may already know this, but I'm co-curating an exhibition of Judith Stanley's photographs that's opening in two weeks at Doven Gallery, in the city. If I've seemed a little distracted lately, that's why," he says, smiling. "I've been doing some, uh, appearances lately that have taken up a great deal of time.""
+> **原句 3:** "Many of you may already know this, but I'm co-curating an exhibition of Judith Stanley's photographs that's opening in two weeks at Doven Gallery, in the city. If I've seemed a little distracted lately, that's why," he says, smiling. "I've been doing some, uh, appearances lately that have taken up a great deal of time.""
 
 **中文理解**："你们很多人可能已经知道了，但我正在共同策展一个 Judith Stanley 摄影展，两周后在市里的 Doven 画廊开幕。如果你们觉得我最近有点分心，这就是原因，"他笑着说，"我最近做了一些，嗯，亮相，花了很多时间。"
 
@@ -67,7 +67,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 4：Charlie 的挑战
 
-> **原句 4:** ""Did she really say that, before she died?" "Excuse me?" "Did she really tell you she wanted to publish her photographs? She didn't seem the type, honestly. I'm the type, but I don't have the talent.""
+> **原句 4:** "Did she really say that, before she died?" "Excuse me?" "Did she really tell you she wanted to publish her photographs? She didn't seem the type, honestly. I'm the type, but I don't have the talent.""
 
 **中文理解**："她真的在死前这样说了吗？""你说什么？""她真的告诉你她想发表她的照片吗？说实话，她看起来不像那种人。我才是那种人，但我没有她那种才华。"
 
@@ -83,7 +83,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 5：暴力幻想
 
-> **原句 5:** "Paul wants to smack her. So hard that her head would snap to the side with the force of it. So hard it would leave a dark red handprint on her cheek. And maybe give her a black eye, too, if that were possible. He can see her, standing before him with her dark eyes spilling over with tears, blubbering her apologies in the aftermath."
+> **原句 5:** Paul wants to smack her. So hard that her head would snap to the side with the force of it. So hard it would leave a dark red handprint on her cheek. And maybe give her a black eye, too, if that were possible. He can see her, standing before him with her dark eyes spilling over with tears, blubbering her apologies in the aftermath."
 
 **中文理解**：Paul 想打她。用力打，让她的头被打得偏向一边。用力打到会在她脸颊上留下一个暗红色的手印。也许还会打出一个黑眼圈，如果可能的话。他能看见她站在他面前，黑眼睛里溢满泪水，在事后呜咽着道歉。
 
@@ -101,7 +101,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 6：攥紧的拳头
 
-> **原句 6:** "Not really, of course, but his hands curl into fists at his sides, and he stands there, enraged and impotent, as she turns to leave."
+> **原句 6:** Not really, of course, but his hands curl into fists at his sides, and he stands there, enraged and impotent, as she turns to leave."
 
 **中文理解**：当然不是真的想打她，但他的手在身侧攥成拳头，他站在那里，满腔愤怒却无能为力，看着她转身离开。
 

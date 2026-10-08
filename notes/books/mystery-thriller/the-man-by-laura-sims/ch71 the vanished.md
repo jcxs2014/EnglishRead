@@ -19,7 +19,7 @@
 
 ### 精读块 1：绿色房间的恐惧与直觉
 
-> **原句 1:** "Even with Jahan's blessing and that influential we lifting him up, he can't nullify the sense that he's doing something drastic and outlandish—something dangerous, even."
+> **原句 1:** Even with Jahan's blessing and that influential we lifting him up, he can't nullify the sense that he's doing something drastic and outlandish—something dangerous, even."
 
 **中文理解**：即使有 Jahan 的祝福和那个有影响力的"我们"在支撑他，Paul 仍然无法消除这种感觉：他在做一些极端出格的事——甚至是危险的事。
 
@@ -36,7 +36,7 @@
 
 ### 精读块 2：谎言的自动流动
 
-> **原句 2:** "The words catch and start to carry him; he only has to follow their flow."
+> **原句 2:** The words catch and start to carry him; he only has to follow their flow."
 
 **中文理解**：话卡住了然后开始带着他走；他只需要跟随它们的流动。
 
@@ -53,7 +53,7 @@
 
 ### 精读块 3：全国性的"自杀"宣布
 
-> **原句 3:** "She may have taken her own life," Paul says bluntly, and one of the studio crew members, out of sight, lets out a gasp.
+> **原句 3:** She may have taken her own life," Paul says bluntly, and one of the studio crew members, out of sight, lets out a gasp.
 
 **中文理解**："她可能是自己了结了自己的生命，"Paul 直言不讳地说，录音棚里一个看不见的工作人员忍不住倒吸一口气。
 
@@ -70,7 +70,7 @@
 
 ### 精读块 4：观众的注意力作为燃料
 
-> **原句 4:** "The more he speaks, the more relaxed he becomes, and the easier it is to be the man the audience wants to see."
+> **原句 4:** The more he speaks, the more relaxed he becomes, and the easier it is to be the man the audience wants to see."
 
 **中文理解**：他越说越放松，越容易成为观众想要看到的那个人。
 
@@ -87,7 +87,7 @@
 
 ### 精读块 5：消失的温暖
 
-> **原句 5:** "Outside in the cold, he tries to recapture the warmth he felt while connecting with his countless invisible and captivated viewers. He shivers; it's vanished now—and he may have invented it anyway."
+> **原句 5:** Outside in the cold, he tries to recapture the warmth he felt while connecting with his countless invisible and captivated viewers. He shivers; it's vanished now—and he may have invented it anyway."
 
 **中文理解**：在外的寒冷中，他试图重获他在与无数看不见的、被迷住的观众连接时感受到的温暖。他颤抖了；它现在已经消失了——而且他可能本来就是自己发明它的。
 

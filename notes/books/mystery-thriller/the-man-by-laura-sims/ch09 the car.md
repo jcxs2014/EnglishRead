@@ -14,7 +14,7 @@ Judith 独自开车前往 Suttonville 街头摄影，在 Paul's "worthy subjects
 
 **关键转折：** Liquor store 自拍时"a sudden flash of movement"——一个 ordinary man 从街对面经过，但她回头检查镜子时确信"no one, nothing"。这一闪念与 ch07 照片中的男性轮廓形成潜在呼应
 
-## 章节概述
+## 精读
 
 Judith 次日清晨前往 Suttonville 寻找"worthy subjects"。在一家老旧 liquor store，她情不自禁地拍摄了一组自画像——镜中无数酒瓶反射，她从颈以下"made of bottles"。拍摄中途她看到一个 ordinary man 从街对面经过，但回头检查镜子时确信"no one, nothing"。随后她在镇上游荡，拍摄流浪猫、购物女性、空荡门廊、破窗、一个戴帽子的闲坐男人，直到过了午餐时间才带着 deeply satisfied 的感觉回到车中。
 

@@ -195,18 +195,3 @@
 ## 一句话总结
 
 （本章暂无总结）
-
-**关键阅读点**：本章的核心是 Paul 的自我认知悖论：他能轻易相信自己是"寄生虫"，却难以相信生活是"美好"的。阅读时注意 Paul 如何在三个阶段处理这些信件：①否认（"just another crackpot"）→ ②部分接受（"The truth is, he is a parasite"）→ ③压抑并继续（"A blunt truth he'll soon shove to a shadowed corner"）。他偶尔面对自己的真实动机，但从来没有让这种认知改变他的行为。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**语言亮点**：
-- "A parasite living off a parasite"——Paul 的自我讽刺，他把 Judith 称为"parasite"（寄生虫），因为他认为 Judith 在某种程度上也在利用自己的死亡
-- "the delicious pinch of real feeling at a time when his life often feels unreal"——这是全章最黑暗的句子，揭示了 Paul 为什么需要这些负面反馈
-- "Fucking parasite, though, he can easily believe"——简洁有力的结尾，Paul 接受负面自我认知比接受生活美好更容易
-
-## 一句话总结
-
-（本章暂无总结）

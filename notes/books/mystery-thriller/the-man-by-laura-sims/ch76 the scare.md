@@ -19,7 +19,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 1：蹲守
 
-> **原句 1:** "Paul has been sitting in his parked car across from Charlie's brick apartment building at 135 Van Houten Street for several hours, doing everything but having fun."
+> **原句 1:** Paul has been sitting in his parked car across from Charlie's brick apartment building at 135 Van Houten Street for several hours, doing everything but having fun."
 
 **中文理解**：Paul 已经在 135 号 Van Houten 街 Charlie 公寓楼对面的停车里坐了好几个小时，做了一切除了开心的事情。
 
@@ -34,7 +34,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 2：滑雪面罩
 
-> **原句 2:** "He grasps the ski mask beside him with trembling fingers. He looks down at his outfit, too, to make sure, again, that he's dressed in nondescript clothes he's never worn to class. He wants to look like an everyday thug."
+> **原句 2:** He grasps the ski mask beside him with trembling fingers. He looks down at his outfit, too, to make sure, again, that he's dressed in nondescript clothes he's never worn to class. He wants to look like an everyday thug."
 
 **中文理解**：他用颤抖的手指抓紧身旁的滑雪面罩。他也低头看了看自己的装备，再次确认他穿的是平时上课从未穿过的、不引人注目的衣服。他想让自己看起来像一个普通的暴徒。
 
@@ -50,7 +50,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 3：他的失败
 
-> **原句 3:** "He creeps closer, ducking behind each car as he goes. But when he gets near enough to reach out and grab the long rope of her dark, shiny hair, his nerve fails him. He finds he can't move from his crouch behind the long back end of an Oldsmobile, so Charlie gets away, walking languidly to the door."
+> **原句 3:** He creeps closer, ducking behind each car as he goes. But when he gets near enough to reach out and grab the long rope of her dark, shiny hair, his nerve fails him. He finds he can't move from his crouch behind the long back end of an Oldsmobile, so Charlie gets away, walking languidly to the door."
 
 **中文理解**：他蹲伏在每辆车后逐渐靠近。但当他足够近、能够伸手抓住她那乌黑发亮的头发时，他的勇气用光了。他发现自己蹲在奥斯莫比尔的车尾后面动弹不得，Charlie 走掉了，懒洋洋地走向大门。
 
@@ -66,7 +66,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 4："练习"
 
-> **原句 4:** "He isn't mad at Charlie—he's mad at himself. For being weak and afraid, for letting his chance slip away. But as the minutes pass and the smoke and booze start to lull him, quiet him a little, he begins to forgive himself, bit by bit. This wasn't a failure but a successful practice run."
+> **原句 4:** He isn't mad at Charlie—he's mad at himself. For being weak and afraid, for letting his chance slip away. But as the minutes pass and the smoke and booze start to lull him, quiet him a little, he begins to forgive himself, bit by bit. This wasn't a failure but a successful practice run."
 
 **中文理解**：他不是对 Charlie 生气——他对自己生气。因为自己软弱、懦弱、放走了机会。但随着时间过去，烟和酒开始让他平静，让他稍微安静，他开始一点一点地原谅自己。这不是失败，而是一次成功的练习。
 

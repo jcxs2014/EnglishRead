@@ -72,7 +72,7 @@
 
 ### 精读块 4：公开的谎言
 
-> **原句 1:** "Everyone, I wanted to let you know that your former classmate, Judith Stanley, who, uh, died so tragically a few months ago, as you probably know, will have twenty of her photographs featured in this month's Harper's. It comes out tomorrow."
+> **原句 1:** Everyone, I wanted to let you know that your former classmate, Judith Stanley, who, uh, died so tragically a few months ago, as you probably know, will have twenty of her photographs featured in this month's Harper's. It comes out tomorrow."
 
 **中文理解**："各位，我想告诉你们，你们以前的同学 Judith Stanley——你们可能知道，几个月前她悲惨地去世了——将有二十张她的照片登上本月的 Harper's。明天就出版。"
 
@@ -151,21 +151,6 @@
 "谢谢你这么说。我也迫不及待想看到它了。我觉得你们都会欣赏这个特辑中的照片的。现在明天出去买一本！或者两本！"他笑着说，他们也跟着笑，尽管他仍在 Charlie 方向憋着一股气。学生们离开时他转过身去隐藏自己的情绪，半期待着听到她轻轻咳嗽以示存在，但什么都没有，当他转过身时，她走了。所有人都走了。他幸福地孤独着，虽然他感受不到幸福。一点都不幸福。
 
 **句子结构**："Me too" 是 Charlie 对 Paul's "I only wish Judith were here"的回应——她的"Me too"是讽刺，不是哀悼。Paul 对此的反应（"As if she knew Judith at all"）暴露了他的愤怒：他不认为 Charlie 有资格哀悼 Judith。接着是一个学生的" Saving him"——这个学生无意中成了 Paul's 的救星，让他从 Charlie 的攻势中脱身。"blissfully alone" 是全章的题眼，但紧接着就是"though he doesn't feel blissful. Not blissful at all."——Paul 的"胜利"是空洞的。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**关键词：**
-- **Me too**：我也希望——Charlie 的讽刺回应，她不是真的希望 Judith 还在
-- **Saving him**：救了他——那个学生无意中打断了 Charlie 的攻势
-- **blissfully alone, though he doesn't feel blissful**：幸福地孤独着，虽然感受不到幸福——全章点题句，标题出处
-
-## 一句话总结
-
-（本章暂无总结）
-
-**为什么这样写**："Not blissful at all" 是全章的收尾，也是 Paul's 心理状态的精确描述。他的"blissfully alone"不是因为真正的内心平静，而是因为 Charlie 走了、他暂时安全了。但这种安全是脆弱的——Charlie 还会回来，她的"Me too"和她的问题都还没有得到解答。Paul 笑着对学生笑，但他的"seething in Charlie's direction"说明他的愤怒和恐惧都没有消失。这本书的标题 "The Man" 在这一章达到某种意义的揭示：Paul 是那个"man"——一个利用死亡女性的记忆往上爬的男人，但他的胜利是空洞的，他的内心是不平静的。
 
 ## 一句话总结
 

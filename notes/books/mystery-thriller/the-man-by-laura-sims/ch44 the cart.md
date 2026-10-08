@@ -1,6 +1,6 @@
 # 44. The Cart
 
-## 章节概述
+## 精读
 
 Paul 在超市经理 Harvey 的办公室内接受警员 Prager 的问询。他最大的恐惧——因 Judith Stanley 案被重新牵扯——并未发生：Prager 只负责普通盗窃案，且 Paul 的名字在报道中从未被重点提及。Paul 利用这种 indifference，成功脱身，带着满车赃物离开。
 
@@ -83,25 +83,6 @@ Paul 观察到 Prager 的"exasperated look"并确认自己已经赢了。Harvey 
 | **in a hurry** | 匆忙 | I was in a hurry, my fiancée is in the hospital |
 | **blacklist** | 黑名单 | I'm adding your name to our blacklist |
 | **shakes hands** | 握手 | Once Paul has shaken hands with Officer Prager |
-
-## 一句话总结
-
-（本章暂无总结）
-
-## 章节位置
-
-## 一句话总结
-
-（本章暂无总结）
-
-前有 ch43（超市行窃、被 Harvey 拦下、等待 police），现有 ch44（警察问询、脱身成功）。本章是 Paul POV 的续章，展示其危机应对能力：观察、利用信息差、在压力下保持冷静的操控。Judith Stanley 案的名字从未真正远离——"If he's one kind of criminal, after all, he might be another"——但这一次，他成功脱身。
-
-## 一句话总结
-
-（本章暂无总结）
-
----
-*POV：Paul（第三人称）*
 
 ## 一句话总结
 

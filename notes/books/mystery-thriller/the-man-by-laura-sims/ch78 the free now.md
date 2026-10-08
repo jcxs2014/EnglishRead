@@ -19,7 +19,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 1：胜利的快感
 
-> **原句 1:** "At home, after a celebratory jerk-off in the shower—still relishing the sight of Charlie's twisted face—Paul towels off and stands, drained but exhilarated, drinking in the middle of his living room, swaying naked to Charles Mingus on the radio."
+> **原句 1:** At home, after a celebratory jerk-off in the shower—still relishing the sight of Charlie's twisted face—Paul towels off and stands, drained but exhilarated, drinking in the middle of his living room, swaying naked to Charles Mingus on the radio."
 
 **中文理解**：在家里，在淋浴中完成了一次庆祝性的自慰——还在回味 Charlie 扭曲面孔的模样——Paul 用毛巾擦干，站在客厅中央，赤身裸体着随着查尔斯·明格斯（爵士乐）的广播轻轻摇晃。
 
@@ -35,7 +35,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 2：toast to 每一块砖
 
-> **原句 2:** ""To Charlie!" he yells. "To my-goddamn-self!" And the last one: "To Judith!""
+> **原句 2:** "To Charlie!" he yells. "To my-goddamn-self!" And the last one: "To Judith!""
 
 **中文理解**："敬 Charlie！"他喊道。"敬我这个该死的自己！"最后一个："敬 Judith！"
 
@@ -50,7 +50,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 3：第二次怀疑
 
-> **原句 3:** "He begins to see the night differently, to doubt what he's done—or hasn't done. He really didn't do much, did he? All he did was cough, without even emerging from his hiding place."
+> **原句 3:** He begins to see the night differently, to doubt what he's done—or hasn't done. He really didn't do much, did he? All he did was cough, without even emerging from his hiding place."
 
 **中文理解**：他开始以不同的方式看待那一夜，怀疑他所做的——或者没做的。他真的做了很多吗？他所做的只是咳嗽，甚至没有从躲藏处出来。
 
@@ -65,7 +65,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 4：第三次——物理接触
 
-> **原句 4:** "As soon as she turns, he's on her. He catches her by the shoulders and pulls her back, screaming, clamping a hand over her mouth and an arm around her neck."
+> **原句 4:** As soon as she turns, he's on her. He catches her by the shoulders and pulls her back, screaming, clamping a hand over her mouth and an arm around her neck."
 
 **中文理解**：她一转身，他就扑上去。他抓住她的肩膀，把她拉回来，尖叫着，一手捂住她的嘴，一手绕住她的脖子。
 
@@ -81,7 +81,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 5：勃起
 
-> **原句 5:** "Instead, he pins her against him so she can feel his erection and wallow in a moment of paralyzing fear."
+> **原句 5:** Instead, he pins her against him so she can feel his erection and wallow in a moment of paralyzing fear."
 
 **中文理解**：相反，他把她的身体贴在自己身上，让她能感受到他的勃起，在瘫痪性的恐惧中挣扎。
 
@@ -97,7 +97,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 6：刀伤
 
-> **原句 6:** "But before he can loosen his hold enough to let her go, her hands flail up at him somehow, and something sharp comes slashing at his arms. A knife. He sees the blood darken his shirtsleeves before he feels any pain."
+> **原句 6:** But before he can loosen his hold enough to let her go, her hands flail up at him somehow, and something sharp comes slashing at his arms. A knife. He sees the blood darken his shirtsleeves before he feels any pain."
 
 **中文理解**：但在他能松手让她走之前，她的双手不知怎的向他胡乱抓来，有什么尖锐的东西划破了他的手臂。一把刀。他看到血渗透了他的衬衫袖口，然后才感觉到疼痛。
 
@@ -113,7 +113,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 7：Paul 的"胜利"
 
-> **原句 7:** "He drives off in his ski mask without giving his arms more than a glance. But before he gets on the highway, he pulls over and peels off his mask and shirt to examine the stinging wounds. There are quite a few slash marks, all bleeding profusely, but he doesn't think they're that bad."
+> **原句 7:** He drives off in his ski mask without giving his arms more than a glance. But before he gets on the highway, he pulls over and peels off his mask and shirt to examine the stinging wounds. There are quite a few slash marks, all bleeding profusely, but he doesn't think they're that bad."
 
 **中文理解**：他开着车离开，滑雪面罩还戴着，对他的手臂只是瞥了一眼。但在 上高速公路之前，他停在路边，脱下面罩和衬衫检查那阵阵刺痛伤口。有相当多的划痕，全都大量出血，但他觉得不那么严重。
 
@@ -129,7 +129,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 8："我清理了障碍"
 
-> **原句 8:** "He's done it, he's cleared his path of every obstacle at last. He's free now to shine all night at the opening, to step through the doorway to his bright new world."
+> **原句 8:** He's done it, he's cleared his path of every obstacle at last. He's free now to shine all night at the opening, to step through the doorway to his bright new world."
 
 **中文理解**：他做到了，他终于清理了他路上的每一个障碍。他现在自由了，可以在整个开幕式上闪耀，踏入他光明的新世界的门户。
 

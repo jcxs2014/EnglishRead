@@ -1,6 +1,6 @@
 # 19. The Masterful
 
-## 章节概述
+## 精读
 
 Judith 在 Paul's 摄影课上经历了一次公开的过山车：被当众点名展示照片 → 恐慌抗拒 → Paul 当众称赞"marvelous" → 选择那张年轻恋人的照片在全班面前分析，称之为"beautiful and cruel" → Charlie 友善提问 → Paul 说出"masterful"一字，Judith 感动落泪。她对职业认可的渴望与被审视的恐惧在此交汇，"masterful"成为全章情绪最高点。
 
@@ -75,18 +75,6 @@ Charlie 友善提问后，Paul 说：
 - **marvelous**：Paul 对照片的初次评价（当众）
 - **sears through**：灼烧感——pride 带来的身体感受
 - **masterful**：全章关键词——掌控感的、主人翁式的认可
-
-## 一句话总结
-
-（本章暂无总结）
-
-## 章节位置
-
-## 一句话总结
-
-（本章暂无总结）
-
-前有 ch18（Paul 的课），后接 ch20（待核）。本章是 Judtih 获得外部专业认可的关键时刻——Paul 的"masterful"与 Tom 的"just as good as the ones in Life"（ch13）形成对照：前者是当众的、具体的、震撼的；后者是私下的、虚伪的、礼节性的。Charlie 的友善态度也标志着 Judith 在这个新环境中第一次体验到来自同辈（非权威）的正面关注。
 
 ## 一句话总结
 

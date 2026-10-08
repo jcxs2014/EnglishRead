@@ -1,6 +1,6 @@
 # 43. The Local Police
 
-## 章节概述
+## 精读
 
 Paul 驱车离开高速公路，拐进一家郊区超市，在众目睽睽之下从容完成"零元购"。他在收银台之间徘徊、自导自演遗忘商品的戏码，推着满载商品的手推车扬长而去——然而被经理 Harvey 拦下。Paul 故作镇定地应对，但 Maddie 收银员的否认让他的伪装开始崩塌。警察到来之前，Paul 的焦虑达到顶点。
 
@@ -78,25 +78,6 @@ Paul 随机指定 Maddie 作证，但 Maddie 的 weary certainty 打破了他的
 | **pharmacy aisle** | 药品区 | he stocks up on shaving cream, razors, aspirin, and toothpaste on the pharmacy aisle |
 | **conveyer belt** | 传送带 | She moves items along the conveyer belt |
 | **in uniform** | 穿制服的 | a man walking toward them. In uniform. Local police |
-
-## 一句话总结
-
-（本章暂无总结）
-
-## 章节位置
-
-## 一句话总结
-
-（本章暂无总结）
-
-前有 ch42（Paul 的动向待核），现有 ch43（超市被拦、即将面对 police）。本章是 Paul 的 POV 章节，揭示其犯罪心理的运作方式：掠夺是 identity 的支撑，而任何对其"应得"的质疑都会激起类似 Tom Stanley 带来的 fury。警察的出现意味着他的控制模式正在被外部力量打破——这是全书中 Paul 第一次真正失去对局面的掌控。
-
-## 一句话总结
-
-（本章暂无总结）
-
----
-*POV：Paul（第三人称）*
 
 ## 一句话总结
 

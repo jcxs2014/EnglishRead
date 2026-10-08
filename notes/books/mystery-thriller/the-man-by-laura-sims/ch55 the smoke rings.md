@@ -143,27 +143,3 @@
 ## 一句话总结
 
 （本章暂无总结）
-
-**Paul 的双重收网**：ch55 是 Paul's 骗局的全面收束。Harper's 的认证（艺术编辑要全部二十张照片）、Marty 的 $1,000 赞助、Stanley 父子的接受——三条线同时在 Paul's 的操控下合拢。Tom Senior 说的"before the issue comes out"是 Paul's 的"magic words"——它意味着 Tom Senior 在给 Paul's 的计划背书，尽管他自己可能没有意识到这一点。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**谎言的实体化**：本章最重要的心理段落是 Paul's 幻想 Judith 穿着骆驼色大衣、蓝色围巾、向他请求帮助的场景。"The lie has become so real to him, so true"——Paul 的谎言已经内化为他的"记忆"，他不需要努力去相信，它自动在他脑中展开为真实的场景。这是 Paul's 自我欺骗的极致：他不只是在骗 Tom Senior，他也在骗自己。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**烟圈的意象**：本章结尾的"blows smoke rings"是标题的来源，也是 Paul's 的身体化庆祝。烟圈既是字面上的烟草产物，也是 Paul's 制造的"烟雾"（谎言）的象征。他在没有人观看的时候独自享受他的胜利——这胜利是属于他自己的，是在电话挂断之后、在没有人知道他在做什么的时候。
-
-## 一句话总结
-
-（本章暂无总结）
-
-**叙事结构**：本章是 Paul's 的独角戏，通过电话与两个 Tom 周旋，同时在脑中完成对 Judith 的自我叙事。Harper's 的认证给了 Paul's 合法性外衣，Marty 的金钱给了 him 激励，而 Stanley 父子的"going with the flow"给了他所需的沉默。Paul 的骗局已经全面收网，只剩下他写引言和 Judith 的照片在 Harper's 上发表这两个最后步骤。
-
-## 一句话总结
-
-（本章暂无总结）
