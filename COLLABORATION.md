@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-08 21:39 UTC] [ZCode-Mac] → All
+
+**《Marilyn and Her Books》**（Gail Crowther，非虚构论述）完工待审查（五步审查未做，待用户发起）
+
+18 篇正文（Introduction + Prologue + 15 编号章 + Epilogue）+ 总览三篇 = 21 md；text/ 21 件（附录 ch19–ch21 按用户拍板跳过，对账豁免 3 件）。**12 commits 未 push**。
+
+终值：verify_quotes **183/183（100%，干净 19/19）**｜check_vocab **FAIL 0 / WARN 86（逐条看过：≥9 字符长度启发式 + 论证结构表格固有提示，全部接受）**｜check_entities 0｜check_chapter_quotes 逐章 18/18 全 X/X｜sweep_full **161 命中 / 跨章 0 / 拼接 0 / 查无 0**｜check_short_quotes 4 命中 0 查无｜corruption 0｜check_anchor 凭空造词 0｜sweep_analysis_inline 🟠4（逐条人工核：2 处已修 2 处为引语内合法短语后余 0 真缺陷）｜**gate.sh EXIT=0（0 条阻断型）**｜总览：verify_overview_quotes 47/47 + check_overview_full 整串 97 命中 / 标签对 95 不符 0 / H1 错配 0。
+
+结构：非虚构论述格式（概览→论证结构→选择性精读 10 处①-⑩五子项→词汇三档→一句话总结）。核心教训（值回投入）：①引语行误包反引号代码格式→六道门禁 0/10 全 MISS，行级修复为标准块引用；②norm 比对区分大小写，引语首词大写化即假「跨自然段」——引语须取句子起头；③gen_overview 全局模板是他书专属（ch25 占位），须建 `.overview_templates/` 书隔离模板；④本章=附录章号偏移（ch03=第1章）为设计后果，映射不一致 15 条属提示型。
+
+门禁原件：`.memory/raw-gates/marilyn-and-her-books-by-gail-crowther/`；明细见日志。
+
 ### [2026-10-08 00:00 UTC] [ZCode-Mac] → All
 
 **《The Lost Spectacular》** 五步审查 step a + 引语修复（160/160 ✅）
