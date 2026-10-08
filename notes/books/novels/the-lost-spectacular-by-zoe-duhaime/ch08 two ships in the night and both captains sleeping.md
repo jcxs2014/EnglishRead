@@ -23,7 +23,7 @@ Noon 正式加入 Spectacular，在 Odette 的引导下穿过一本 Coleridge �
 
 ## 本章引语
 
-> "You have a copy of Sibylline Leaves (1817) that I would like to see," Odette said. "We will be looking for a poem called 'Frost at Midnight', where we've docked."
+> **原句 1:** "You have a copy of Sibylline Leaves (1817) that I would like to see," Odette said. "We will be looking for a poem called 'Frost at Midnight', where we've docked."
 
 **中文理解**：Odette 带 Noon 去看一本书中的诗——这是进入 Spectacular 的方式：用书作为"港口"，穿过文字到达另一个故事。Coleridge 的《消极边界》提供了一个"港口"，而诗中的"海盗船"是目的地。这段对话本身就是一个微型叙事：两个人在谈论"我们停泊在哪里"，但实际上在谈论如何穿越故事。
 
@@ -40,7 +40,7 @@ Noon 正式加入 Spectacular，在 Odette 的引导下穿过一本 Coleridge �
 
 ---
 
-> "In subtleties so light that only Munro could have noticed them in her, she became clearer. Perhaps it was the work of being in a poem that her qualities hardened and lyricized."
+> **原句 2:** "In subtleties so light that only Munro could have noticed them in her, she became clearer. Perhaps it was the work of being in a poem that her qualities hardened and lyricized."
 
 **中文理解**：Noon 进入诗境后，她的"本质"开始变得更清晰——她的勇敢变成了"勇敢"，她的冲动变成了"冲动"，所有特质都被放大并赋予更清晰的轮廓。这是进入"故事世界"的效果：角色在故事中获得更鲜明的定义，而在现实中（La Tobaganne）她是模糊的、犹豫的。
 
@@ -56,7 +56,7 @@ Noon 正式加入 Spectacular，在 Odette 的引导下穿过一本 Coleridge �
 
 ---
 
-> "We wear these marks to pass through, because they come from the first story. Don't forget it, or time will catch up and the doors will be locked."
+> **原句 3:** "We wear these marks to pass through, because they come from the first story. Don't forget it, or time will catch up and the doors will be locked."
 
 **中文理解**：Lukøje 给 Noon 的警告——Saturn 项链是穿越故事的通行证，但一旦忘记（或放弃它），时间就会"追上来"，门就会被锁上。这是 Spectacular 的核心规则：你是故事的居民，但你必须保持与故事的连接，否则你就会"回到现实"并失去进入的能力。
 
@@ -80,8 +80,8 @@ Noon 正式加入 Spectacular，在 Odette 的引导下穿过一本 Coleridge �
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | apprentice | 学徒；新手 | Lukøje, irascible at the best of times when made to consider the great veil, knocked back three whiskeys |
-| eternity | 永恒；不朽 | the **eternity** behind the way he looked at Noon |
-| mentor | 导师；师傅 | the **mentor**-apprentice relationship |
+| eternity | 永恒；不朽 | **Centuries** were behind the way he looked |
+| mentor | 导师；师傅 | the lord of dust and his **apprentice** were one day |
 | pirate ship | 海盗船 | a grand **pirate ship** bobbed |
 
 ### ⭐⭐ 进阶
@@ -89,9 +89,9 @@ Noon 正式加入 Spectacular，在 Odette 的引导下穿过一本 Coleridge �
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | percolate | 渗透；（文字在书中）浮现 | the book **percolated**, the merriment died |
-| troupe | 马戏团；演出团 | the **troupe** of feasting storybook characters |
-| threshold | 门槛；临界点 | the **threshold** between stories |
-| necklace | 项链 | he had a **necklace** in his hand |
+| troupe | 马戏团；演出团 | Lukøje called to a **troupe** of feasting storybook characters |
+| threshold | 门槛；临界点 | we wear these marks to **pass through** |
+| necklace | 项链 | In his hand he had a **necklace** |
 
 ### ⭐ 基础
 
