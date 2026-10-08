@@ -159,7 +159,7 @@
 - `I'll contr. 我会`
 - `leave v. 离开`
 
-**表达方式**："like the moon's pull on the tide"——就像月亮对潮汐的牵引，暗示爱的永恒。
+**表达方式**：`"as I leave you in a new room"——把离别写成换房间；母亲先替孩子把未知说成已知。
 
 ---
 
@@ -209,4 +209,4 @@
 1. **"in the darkness"** —— 在黑暗中：*You look up at me.*
 2. **"the grayish-blue of sea and sky"** —— 海和天空的灰蓝色：*Your eyes are.*
 3. **"warm from dreams"** —— 从梦中带来的温暖：*I lift you up.*
-4. **"like the moon's pull on the tide"** —— 就像月亮对潮汐的牵引：*My love for you is.*
+4. **"When your turn comes"** —— 当你的时刻来临：*When your turn comes, is there something.*
