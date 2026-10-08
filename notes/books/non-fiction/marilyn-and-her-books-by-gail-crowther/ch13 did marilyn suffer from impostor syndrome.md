@@ -33,7 +33,7 @@ source_text: "text/ch13_chap13.txt"
 - **论证脉络**：被告知愚蠢的机制 → 她的支持系统全缺失（父母/丈夫/朋友皆雇员）→ Rand 的雇主口号与 impostorization → 米勒日记事件 → 冒名顶替综合征的定义与"无根据"要求 → RECORD 笔记本第 135 页 → Lerner 的唯一理解 → 片场行为（迟到/完美主义）与 Lemmon 的辩护 → 书架的镜像（礼仪书、"如何读劳伦斯"）→ 落点：她自己的判词——"恐惧是愚蠢的。遗憾也是。"
 - **可质疑处**：
   1. "她因读米勒日记而未完全恢复"依赖 "People who knew Marilyn felt"，转述层归纳；
-  2. "是否达到冒名顶替综合征"作者自认 requires more analysis，本章以"有据/无据"的对立给出立场而非临床判断。
+  2. "是否达到冒名顶替综合征"作者自认 whether this amounted to impostor syndrome requires a little more analysis，本章以"有据/无据"的对立给出立场而非临床判断。
 
 ## 选择性精读
 

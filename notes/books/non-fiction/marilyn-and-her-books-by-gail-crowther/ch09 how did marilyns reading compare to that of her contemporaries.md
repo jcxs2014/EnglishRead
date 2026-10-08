@@ -162,7 +162,7 @@ source_text: "text/ch09_chap9.txt"
 | exacerbated | 加重的 | especially depression, exacerbated by addiction issues and alcohol abuse |
 | marginalia | 页边批注 | revealed an engaged reader who wrote plenty of marginalia |
 | encapsulates | 概括；浓缩 | The Young Lions perfectly encapsulates this philosophy, a popularist film with nods to the intelligentsia |
-| bestowed | 被授予的；被加诸的 | he does not share the ditzy reputation that has been bestowed on Marilyn |
+| bestowed | 被授予的；被加诸的 | Dean certainly does not share the ditzy reputation that has been bestowed on Marilyn |
 
 ### ⭐ 基础
 

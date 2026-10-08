@@ -122,7 +122,7 @@ source_text: "text/ch01_chap1.txt"
 - **中文理解**：作家诺拉·艾芙隆对阅读的总结：阅读既是逃逸，又是逃逸的反面——编造了一天之后，它让你重新接触现实；太过真实的一天之后，它让你接触他人的想象。阅读是磨料，也是极乐。作者借它说明：阅读之所以对梦露珍贵，正因为它同时承担了演员生活的两个极端。
 - **句子结构**：总分总结构：第一长句用 "and the opposite of escape" 的悖论式同位 + 两个 "a way to / a way of" 平行不定式展开；随后两个两词短句（Reading is grist. / Reading is bliss.）以判断句对仗收束。
 - **关键词**：escape, contact, grist, bliss
-- **表达方式**：悖论修辞（escape and its opposite）撑起整段张力；"making things up" 与 "all too real" 一虚一实对举；"grist"（磨谷、素材）是罕见的名词化比喻，把阅读说成供心灵碾磨的原料。
+- **表达方式**：悖论修辞（"Reading is escape, and the opposite of escape" 的同位结构）撑起整段张力；"making things up" 与 "all too real" 一虚一实对举；"grist"（磨谷、素材）是罕见的名词化比喻，把阅读说成供心灵碾磨的原料。
 - **为什么这样写**：把它放在引言接近收尾处，是为全书定性阅读的多重功能——作者紧接着说，这对作家如此，"想必对演员也是如此"。梦露的职业恰是"几个月里假装成别人"，艾芙隆的悖论因此不只是一种文学修辞，而几乎是给演员阅读行为写的说明书。
 
 ## 词汇分级
