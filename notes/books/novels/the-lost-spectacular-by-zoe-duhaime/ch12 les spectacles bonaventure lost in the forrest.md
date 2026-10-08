@@ -23,7 +23,7 @@ Noon 向 Odette 提交了一份她精心策划的"藏身处"书目，希望保�
 
 ## 本章引语
 
-> "It's a beautiful list. Dazzling. You're such a good reader, and that's one of the reasons we found you. But the childhood list simply won't do. It's the same reason I'm not running the show either: It's too familiar."
+> **原句 1:** "It's a beautiful list. Dazzling. You're such a good reader, and that's one of the reasons we found you. But the childhood list simply won't do. It's the same reason I'm not running the show either: It's too familiar."
 
 **中文理解**：Odette 告诉 Noon 她的书目"太童年"——而这恰恰是问题所在。Noon 和 Munro 有着完全相同的童年阅读历史，她喜欢的书，Munro 也喜欢。这意味着用她最喜欢的童书作为藏身处，就像把钥匙放在锁旁边一样。
 
@@ -39,7 +39,7 @@ Noon 向 Odette 提交了一份她精心策划的"藏身处"书目，希望保�
 
 ---
 
-> "And you know who else thinks that?"
+> **原句 2:** "And you know who else thinks that?"
 
 **中文理解**：Odette 暗示：认为"最好的童书是最好的藏身处"的人，不只有 Noon——还有 Munro。他的阅读品味和她一模一样，所以他可以轻松找到她。Odette 的话还没说完，Noon 就已经猜到了答案。
 
@@ -61,9 +61,9 @@ Noon 向 Odette 提交了一份她精心策划的"藏身处"书目，希望保�
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| bibliography | 书目；参考书目 | she had a **bibliography** to put together |
+| bibliography | 书目；参考书目 | had a **bibliography** to put together |
 | overread | 过度阅读；在书中被读到 | the **overreading** has been coming more often |
-| retire | 退休；退役 | he was **retiring** and ancient |
+| retire | 退休；退役 | He was **retiring** and ancient |
 | decoy | 诱饵；幌子 | I'm thinking of setting up a **decoy** |
 
 ### ⭐⭐ 进阶
@@ -71,15 +71,15 @@ Noon 向 Odette 提交了一份她精心策划的"藏身处"书目，希望保�
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | paramour | 情人；秘密恋人 | any **paramours**? |
-| ruse | 计策；策略 | the **ruse** of a masquerade |
-| spectre | 幽灵；鬼魂 | the **spectre** of Munro |
-| margarita | 玛格丽塔酒 | she ended the night with a **margarita** |
+| trick | 把戏；技巧 | a **narrative** hallucination |
+| spectre | 幽灵；鬼魂 | a **ghost** story and had her re-enact |
+| margarita | 玛格丽塔酒 | ended the **night** with a margarita |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| mother | 母亲 | she told her **mother** |
-| bookshop | 书店 | her old **bookshop** had been condemned |
+| mother | 母亲 | Her **mother** tsked |
+| bookshop | 书店 | Her **bookshop** had been condemned |
 | night | 夜晚 | she ended the **night** with a margarita |
-| story | 故事 | the best **story** time |
+| story | 故事 | Nothing like a good **story** time |
