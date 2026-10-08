@@ -2,7 +2,7 @@
 
 ## 故事梗概
 
-Madam Sapphire 向 Little Flower 讲述了 Celibate Sisterhood 的起源——以集体投河自尽换来女性独身的权利。她必须在"个人爱情"和"集体契约"之间做出选择，但她选择了前者。现在，她被绑上竹笼、押往河边，等待溺死。Linjiang 像花木兰一样冲出来用身体护住她，但群众只会嘲笑。Noble Siu Je 没有出现。
+Madam Sapphire 向 Little Flower 讲述了 Celibate Sisterhood 的起源——以集体投河自尽换来女性独身的权利。她必须在"个人爱情"和"集体契约"之间做出选择，但她选择了前者。现在，她被绑上竹笼、押往河边，等待溺死。Linjing 像花木兰一样冲出来用身体护住她，但群众只会嘲笑。Noble Siu Je 没有出现。
 
 ---
 
@@ -67,7 +67,7 @@ Madam Sapphire 向 Little Flower 讲述了 Celibate Sisterhood 的起源——�
 
 ### ④ "Linjing looked like Muk Laan, the brave daughter who answered the call of conscription in place of her elderly father."
 
-**译文**：Linjiang 看起来像花木兰——那个替老父从军的英勇女儿。
+**译文**：Linjing 看起来像花木兰——那个替老父从军的英勇女儿。
 
 **句子重难点**：
 - Muk Laan = 花木兰；Linjing 此刻以身体护住 Little Flower，像花木兰代父从军一样英勇
@@ -116,7 +116,7 @@ Madam Sapphire 不是单纯的恶人——她向 Little Flower 解释了修道�
 
 ### 3. Linjing 的救赎完成
 
-Linjiang 在关键时刻冲出人群、用身体护住 Little Flower——这是她 ch47 醒悟后的具体行动。虽然不足以拯救 Little Flower，但足以证明她的改变。
+Linjing 在关键时刻冲出人群、用身体护住 Little Flower——这是她 ch47 醒悟后的具体行动。虽然不足以拯救 Little Flower，但足以证明她的改变。
 
 ---
 

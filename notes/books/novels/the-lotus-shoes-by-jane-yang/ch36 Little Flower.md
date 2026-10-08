@@ -91,5 +91,5 @@
 
 - **主线**：Little Flower 的设计困境；三天的创作瓶颈；Joy 的"贵得买不起"触发灵感；突破性想法——让普通女孩也能拥有的平价设计
 - **重要场景**：三个相互矛盾的要求（创新+便宜+保品质）；"老母鸡一样贫瘠"的心灵；Joy 带来灵感
-- **人物动态**：Little Flower 的自我怀疑；Joy 从同屋成为创意触发者；Linjiang 继续谈论 Noble Siu Je
+- **人物动态**：Little Flower 的自我怀疑；Joy 从同屋成为创意触发者；Linjing 继续谈论 Noble Siu Je
 - **核心意象**：老母鸡（aged hen）——创作困境的卑微比喻；迁徙的鹅（migratory goose）——灵感的有翅回归；街头小贩（street vendors）——相互矛盾的指令在脑中争吵

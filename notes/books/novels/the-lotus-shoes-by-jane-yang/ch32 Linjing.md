@@ -4,7 +4,7 @@
 
 ## 精读
 
-### 引语 1（Linjiang 对 Noble 的观察——"他很少屈尊与农女说话"）
+### 引语 1（Linjing 对 Noble 的观察——"他很少屈尊与农女说话"）
 
 > "**In short, Noble rarely condescended to speak with peasants, which accounted for his dismissal of Little Flower.**"
 
@@ -15,13 +15,13 @@
 **关键词**：
 
 - **condescended** v. 屈尊、俯就——Noble Siu Je 主动选择不与"农女"说话，这不仅是他个人的偏好，而是他身份地位的体现。
-- **peasant** n. 农女、乡民——这个词在 Linjiang 口中出现，说明她已经内化了 Noble Siu Je 的阶级语言。
+- **peasant** n. 农女、乡民——这个词在 Linjing 口中出现，说明她已经内化了 Noble Siu Je 的阶级语言。
 
-**为什么这样写**：Linjiang 用" peasants"来形容工厂女工，包括她的朋友 Little Flower。这说明 Linjiang 在叙述时已经在采用 Noble Siu Je 的阶级视角——她自己在"怜悯"农女，同时又用农女这个词指代她们。这揭示了 Linjiang 的阶级认同与友谊之间的张力。
+**为什么这样写**：Linjing 用" peasants"来形容工厂女工，包括她的朋友 Little Flower。这说明 Linjing 在叙述时已经在采用 Noble Siu Je 的阶级视角——她自己在"怜悯"农女，同时又用农女这个词指代她们。这揭示了 Linjing 的阶级认同与友谊之间的张力。
 
 ---
 
-### 引语 2（Linjiang 的心情——"第一次感到轻松愉快"）
+### 引语 2（Linjing 的心情——"第一次感到轻松愉快"）
 
 > "**It was hard to be solemn when I felt buoyant for the first time since Aa Noeng's disgrace.**"
 
@@ -31,10 +31,10 @@
 
 **关键词**：
 
-- **buoyant** adj. 轻松愉快的、漂浮的——这个词通常用于"浮起"，在情感语境里表示"从阴郁中解脱"。Linjiang 终于从 Aa Noeng 的丑闻中走出来，而她的好心情与 Aa Noeng 的倒霉直接相关。
-- **disgrace** n. 失势、蒙羞——Aa Noeng 的坠落让 Linjiang 摆脱了包办婚姻的压力，这是 Linjiang 感到"轻松"的直接原因。
+- **buoyant** adj. 轻松愉快的、漂浮的——这个词通常用于"浮起"，在情感语境里表示"从阴郁中解脱"。Linjing 终于从 Aa Noeng 的丑闻中走出来，而她的好心情与 Aa Noeng 的倒霉直接相关。
+- **disgrace** n. 失势、蒙羞——Aa Noeng 的坠落让 Linjing 摆脱了包办婚姻的压力，这是 Linjing 感到"轻松"的直接原因。
 
-**为什么这样写**：Linjiang 在朋友 Little Flower 最困难的时刻（被 Noble Siu Je 拒绝）感到"buoyant"——这个对比揭示了 Linjiang 自私的一面。她的轻松不是因为 Little Flower 状况好转，而是因为 Aa Noeng（她的前未婚夫）失势了。
+**为什么这样写**：Linjing 在朋友 Little Flower 最困难的时刻（被 Noble Siu Je 拒绝）感到"buoyant"——这个对比揭示了 Linjing 自私的一面。她的轻松不是因为 Little Flower 状况好转，而是因为 Aa Noeng（她的前未婚夫）失势了。
 
 ---
 
@@ -48,27 +48,27 @@
 
 **关键词**：
 
-- **highborn** adj. 出身高贵的——Linjiang 用"highborn"来形容 Noble Siu Je 的外貌，这说明她已经把他理想化为"高贵"的代表。
-- **namesake** n. 同名者——Noble Siu Je 的名字（Noble = 贵族）与他的外表相符，这让 Linjiang 更加确信他的"高贵"。
+- **highborn** adj. 出身高贵的——Linjing 用"highborn"来形容 Noble Siu Je 的外貌，这说明她已经把他理想化为"高贵"的代表。
+- **namesake** n. 同名者——Noble Siu Je 的名字（Noble = 贵族）与他的外表相符，这让 Linjing 更加确信他的"高贵"。
 
-**为什么这样写**："worthy of his namesake"——Linjiang 对 Noble 的倾慕不仅是对他本人的认可，更是对"贵族"这个符号系统的信仰。Noble 的名字（Noble = 高贵）本身就是 Linjiang 认同这个阶级的原因。
+**为什么这样写**："worthy of his namesake"——Linjing 对 Noble 的倾慕不仅是对他本人的认可，更是对"贵族"这个符号系统的信仰。Noble 的名字（Noble = 高贵）本身就是 Linjing 认同这个阶级的原因。
 
 ---
 
-### 引语 4（Linjiang 的内心独白——"他可能是被我的处境所阻"）
+### 引语 4（Linjing 的内心独白——"他可能是被我的处境所阻"）
 
 > "**Could it be true that he esteemed me despite my natural feet and reduced circumstances? Might he be thinking about the obstacles that lay in our way?**"
 
 **中文理解**："他真的会不顾我的天足和降低的身份而敬重我吗？他是否也在想我们面前的障碍？"
 
-**句子结构**：两个连续的修辞疑问句，表达 Linjiang 的内心矛盾。"esteemed"（敬重）与"obstacles"（障碍）形成对照。
+**句子结构**：两个连续的修辞疑问句，表达 Linjing 的内心矛盾。"esteemed"（敬重）与"obstacles"（障碍）形成对照。
 
 **关键词**：
 
-- **esteem** v. 敬重、尊重——Linjiang 渴望 Noble 对她的"敬重"，而不是单纯的爱或欲望。这说明她追求的是阶级认可。
-- **obstacles** n. 障碍——Linjiang 知道婚姻有障碍：她的天足、她降低的身份、她与 Noble 的阶级差距。
+- **esteem** v. 敬重、尊重——Linjing 渴望 Noble 对她的"敬重"，而不是单纯的爱或欲望。这说明她追求的是阶级认可。
+- **obstacles** n. 障碍——Linjing 知道婚姻有障碍：她的天足、她降低的身份、她与 Noble 的阶级差距。
 
-**为什么这样写**：Linjiang 在问自己"他是否也在想障碍"——这说明她已经意识到横亘在两人之间的阶级障碍。她希望 Noble 也看到这些障碍，因为这证明他认真对待这段关系。
+**为什么这样写**：Linjing 在问自己"他是否也在想障碍"——这说明她已经意识到横亘在两人之间的阶级障碍。她希望 Noble 也看到这些障碍，因为这证明他认真对待这段关系。
 
 ---
 
@@ -89,7 +89,7 @@
 
 ## 本篇导航
 
-- **主线**：Linjiang 对 Noble Siu Je 的暗恋；尝试为 Little Flower 说情被拒；Noble Siu Je 对 Linjiang 的特殊关注
-- **重要场景**：Noble Siu Je 办公室窗口窥视；Linjiang 在工厂走廊与其交谈；Linjiang 对 Noble 侧脸的凝视
-- **人物动态**：Linjiang 内心分裂——对 Noble 的阶级认同与对 Little Flower 的友谊之间的张力；Noble Siu Je 对 Linjiang 有好感但受阶级规范约束
-- **核心意象**：同名相配（worthy of his namesake）——Noble 的名字本身就是他身份地位的标签；窗户（window）——Noble Siu Je 透过窗户观察 Linjiang，代表阶级距离下的窥视与欲望
+- **主线**：Linjing 对 Noble Siu Je 的暗恋；尝试为 Little Flower 说情被拒；Noble Siu Je 对 Linjing 的特殊关注
+- **重要场景**：Noble Siu Je 办公室窗口窥视；Linjing 在工厂走廊与其交谈；Linjing 对 Noble 侧脸的凝视
+- **人物动态**：Linjing 内心分裂——对 Noble 的阶级认同与对 Little Flower 的友谊之间的张力；Noble Siu Je 对 Linjing 有好感但受阶级规范约束
+- **核心意象**：同名相配（worthy of his namesake）——Noble 的名字本身就是他身份地位的标签；窗户（window）——Noble Siu Je 透过窗户观察 Linjing，代表阶级距离下的窥视与欲望

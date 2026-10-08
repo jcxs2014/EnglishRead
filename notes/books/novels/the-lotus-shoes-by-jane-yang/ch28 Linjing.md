@@ -132,6 +132,6 @@
 ## 本篇导航
 
 - **主线**：Linijing 在 Chan Village 修道院的第一个月；与 Little Flower 主仆关系的最终决裂
-- **重要场景**：工厂→修道院的集体归途；Little Flower 拒绝洗脚并撕毁卖身契；Linjiang 求助 Madam Sapphire；关于 So Hei 平等誓愿的争论
-- **人物动态**：Little Flower 完成从"忍耐的妹仔"到"独立个体"的转变；Linjiang 从"主人意识"转向"被迫接受阶级平等的 reality check"；Madam Sapphire 作为理性仲裁者出现
-- **核心意象**：炼狱（purgatory）——Linjiang 对新生活的感受；蜣螂（dung beetles）——集体劳动中的个体异化；卖身契撕裂——制度性束缚的物理终结
+- **重要场景**：工厂→修道院的集体归途；Little Flower 拒绝洗脚并撕毁卖身契；Linjing 求助 Madam Sapphire；关于 So Hei 平等誓愿的争论
+- **人物动态**：Little Flower 完成从"忍耐的妹仔"到"独立个体"的转变；Linjing 从"主人意识"转向"被迫接受阶级平等的 reality check"；Madam Sapphire 作为理性仲裁者出现
+- **核心意象**：炼狱（purgatory）——Linjing 对新生活的感受；蜣螂（dung beetles）——集体劳动中的个体异化；卖身契撕裂——制度性束缚的物理终结
