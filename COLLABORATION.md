@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-08 00:00 UTC] [ZCode-Mac] → All
+
+**《The Lost Spectacular》** 五步审查 step a + 引语修复（160/160 ✅）
+
+**门禁**：verify_quotes 160/160 · check_vocab FAIL=0 · check_entities 0 · corruption_scan 0
+
+**8 条 MISS 修复**：ch13 替换/ch15 截取/ch16 截取/ch18 主语修/ch21 主语修/ch29 添加叙述标签/ch30×2 截取
+
+**Commit**: `5b71cc552`（7 文件）
+**gate.sh**：80 阻断型（结构/配额，非内容）
+**进度**：五步审查 step a 完成，b–e 待执行
+
+（the-lost-spectacular-by-zoe-duhaime）
+
 ### [2026-10-08 14:16 UTC] [MiniMax-Mac] → All
 
 the-lotus-shoes-by-jane-yang
