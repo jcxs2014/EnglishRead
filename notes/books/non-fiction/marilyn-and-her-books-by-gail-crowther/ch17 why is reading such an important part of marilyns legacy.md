@@ -58,7 +58,7 @@ source_text: "text/ch17_chap17.txt"
 
 - **中文理解**：所有那些钻研演技书的时间——读广播剧与舞台剧以理解角色与对白、读经典文学以扩展心智、读故事以获得共情与善意与对人类情感的理解——帮助她创造了我们在银幕上看到的那个耀眼的女人。
 - **句子结构**：破折号包裹的四重并列（taught acting techniques / radio and stage plays / classic literature / stories）构成超长主语，谓语只有一个（helped her create）；"the dazzling woman we see on-screen" 的定语从句收尾。
-- **关键词**：pores → poring over books, expand her mind, empathy and kindness, the dazzling woman
+- **关键词**：poring over books, expand her mind, empathy and kindness, the dazzling woman
 - **表达方式**：四种读物对四种收益的平行结构（理解角色/扩展心智/获得共情）把阅读写成一张课程表；"dazzling" 呼应引言的 "shimmery, whirling loveliness"。
 - **为什么这样写**：这是全章最长的一句，也是全书论题的完整展开：从书到人，每一步都有对应。作者用它把"阅读如何变成银幕上的她"写成一条可追溯的链。
 

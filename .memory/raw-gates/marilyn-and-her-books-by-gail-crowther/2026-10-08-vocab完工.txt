@@ -1,0 +1,91 @@
+词条行合计: 389
+
+--- FAIL (0) ---
+
+--- WARN (86) ---
+  ch01 introduction marilyn and her books.md [基础] 基础档疑含超纲词「adventurous reader」
+  ch01 introduction marilyn and her books.md [基础] 基础档疑含超纲词「bookshelf」
+  ch01 introduction marilyn and her books.md [基础] 基础档疑含超纲词「fascination」
+  ch01 introduction marilyn and her books.md [?] 词汇节外有 2 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch02 prologue daydreaming and shelfsnooping.md [?] 词汇节外有 4 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch03 where did marilyn get her books.md [基础] 基础档疑含超纲词「headscarf」
+  ch03 where did marilyn get her books.md [基础] 基础档疑含超纲词「miserable breakup」
+  ch03 where did marilyn get her books.md [?] 词汇节外有 6 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch04 what sort of books did marilyn read.md [基础] 基础档疑含超纲词「reception」
+  ch04 what sort of books did marilyn read.md [基础] 基础档疑含超纲词「adulation」
+  ch04 what sort of books did marilyn read.md [基础] 基础档疑含超纲词「annotations」
+  ch04 what sort of books did marilyn read.md [基础] 基础档疑含超纲词「psychotic」
+  ch04 what sort of books did marilyn read.md [?] 词汇节外有 5 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch05 are there any surprising omissions in marilyns personal library.md [基础] 基础档疑含超纲词「earnestness」
+  ch05 are there any surprising omissions in marilyns personal library.md [基础] 基础档疑含超纲词「prime candidate」
+  ch05 are there any surprising omissions in marilyns personal library.md [基础] 基础档疑含超纲词「misleading question」
+  ch05 are there any surprising omissions in marilyns personal library.md [?] 词汇节外有 2 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch06 did marilyn read all her books.md [基础] 基础档疑含超纲词「forgotten book」
+  ch06 did marilyn read all her books.md [基础] 基础档疑含超纲词「production company」
+  ch06 did marilyn read all her books.md [?] 词汇节外有 6 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch07 why are there so many photographs of marilyn reading.md [基础] 基础档疑含超纲词「intelligence」
+  ch07 why are there so many photographs of marilyn reading.md [基础] 基础档疑含超纲词「playground」
+  ch07 why are there so many photographs of marilyn reading.md [基础] 基础档疑含超纲词「combination」
+  ch07 why are there so many photographs of marilyn reading.md [基础] 基础档疑含超纲词「companions」
+  ch07 why are there so many photographs of marilyn reading.md [?] 词汇节外有 5 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch08 did marilyns reading link to her acting.md [基础] 基础档疑含超纲词「circulating library」
+  ch08 did marilyns reading link to her acting.md [基础] 基础档疑含超纲词「performance」
+  ch08 did marilyns reading link to her acting.md [基础] 基础档疑含超纲词「importance」
+  ch08 did marilyns reading link to her acting.md [基础] 基础档疑含超纲词「vocabulary」
+  ch08 did marilyns reading link to her acting.md [基础] 基础档疑含超纲词「profession」
+  ch08 did marilyns reading link to her acting.md [基础] 基础档疑含超纲词「creativity」
+  ch08 did marilyns reading link to her acting.md [?] 词汇节外有 5 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch09 how did marilyns reading compare to that of her contemporaries.md [基础] 基础档疑含超纲词「reputation」
+  ch09 how did marilyns reading compare to that of her contemporaries.md [基础] 基础档疑含超纲词「recognizable」
+  ch09 how did marilyns reading compare to that of her contemporaries.md [基础] 基础档疑含超纲词「philosopher」
+  ch09 how did marilyns reading compare to that of her contemporaries.md [?] 词汇节外有 7 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch10 what was marilyns impact on writers.md [基础] 基础档疑含超纲词「friendship」
+  ch10 what was marilyns impact on writers.md [基础] 基础档疑含超纲词「luminaries」
+  ch10 what was marilyns impact on writers.md [基础] 基础档疑含超纲词「celebrated」
+  ch10 what was marilyns impact on writers.md [基础] 基础档疑含超纲词「combination」
+  ch10 what was marilyns impact on writers.md [基础] 基础档疑含超纲词「remarkable」
+  ch10 what was marilyns impact on writers.md [基础] 基础档疑含超纲词「reprimanded」
+  ch10 what was marilyns impact on writers.md [?] 词汇节外有 7 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch11 what was the literary impact of and on arthur miller.md [基础] 基础档疑含超纲词「playwright」
+  ch11 what was the literary impact of and on arthur miller.md [基础] 基础档疑含超纲词「autobiography」
+  ch11 what was the literary impact of and on arthur miller.md [基础] 基础档疑含超纲词「conversations」
+  ch11 what was the literary impact of and on arthur miller.md [基础] 基础档疑含超纲词「possessions」
+  ch11 what was the literary impact of and on arthur miller.md [基础] 基础档疑含超纲词「congratulated」
+  ch11 what was the literary impact of and on arthur miller.md [基础] 基础档疑含超纲词「magnificent」
+  ch11 what was the literary impact of and on arthur miller.md [?] 词汇节外有 5 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch12 why is marilyns reading ability doubted.md [基础] 基础档疑含超纲词「unnecessary」
+  ch12 why is marilyns reading ability doubted.md [基础] 基础档疑含超纲词「fundamental」
+  ch12 why is marilyns reading ability doubted.md [基础] 基础档疑含超纲词「limitations」
+  ch12 why is marilyns reading ability doubted.md [基础] 基础档疑含超纲词「celebrity」
+  ch12 why is marilyns reading ability doubted.md [基础] 基础档疑含超纲词「appearance」
+  ch12 why is marilyns reading ability doubted.md [?] 词汇节外有 7 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch13 did marilyn suffer from impostor syndrome.md [基础] 基础档疑含超纲词「supportive」
+  ch13 did marilyn suffer from impostor syndrome.md [基础] 基础档疑含超纲词「interfered」
+  ch13 did marilyn suffer from impostor syndrome.md [基础] 基础档疑含超纲词「terrified」
+  ch13 did marilyn suffer from impostor syndrome.md [基础] 基础档疑含超纲词「confidence」
+  ch13 did marilyn suffer from impostor syndrome.md [基础] 基础档疑含超纲词「authorities」
+  ch13 did marilyn suffer from impostor syndrome.md [?] 词汇节外有 6 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch14 did marilyn use books as a form of selfhelp.md [基础] 基础档疑含超纲词「relaxation」
+  ch14 did marilyn use books as a form of selfhelp.md [基础] 基础档疑含超纲词「motivation」
+  ch14 did marilyn use books as a form of selfhelp.md [基础] 基础档疑含超纲词「suggestion」
+  ch14 did marilyn use books as a form of selfhelp.md [基础] 基础档疑含超纲词「characters」
+  ch14 did marilyn use books as a form of selfhelp.md [基础] 基础档疑含超纲词「exclusively」
+  ch14 did marilyn use books as a form of selfhelp.md [基础] 基础档疑含超纲词「inspiration」
+  ch14 did marilyn use books as a form of selfhelp.md [?] 词汇节外有 6 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch15 was marilyn a misunderstood intellectual.md [基础] 基础档疑含超纲词「intelligent」
+  ch15 was marilyn a misunderstood intellectual.md [基础] 基础档疑含超纲词「researcher」
+  ch15 was marilyn a misunderstood intellectual.md [基础] 基础档疑含超纲词「graduating」
+  ch15 was marilyn a misunderstood intellectual.md [基础] 基础档疑含超纲词「confidence」
+  ch15 was marilyn a misunderstood intellectual.md [基础] 基础档疑含超纲词「significant」
+  ch15 was marilyn a misunderstood intellectual.md [基础] 基础档疑含超纲词「surprising」
+  ch15 was marilyn a misunderstood intellectual.md [?] 词汇节外有 6 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch16 why did marilyn treasure her books.md [基础] 基础档疑含超纲词「self-expression」
+  ch16 why did marilyn treasure her books.md [基础] 基础档疑含超纲词「importance」
+  ch16 why did marilyn treasure her books.md [基础] 基础档疑含超纲词「loneliness」
+  ch16 why did marilyn treasure her books.md [基础] 例句不含词头「bravery」
+  ch16 why did marilyn treasure her books.md [?] 词汇节外有 3 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」
+  ch17 why is reading such an important part of marilyns legacy.md [基础] 基础档疑含超纲词「intelligence」
+  ch17 why is reading such an important part of marilyns legacy.md [基础] 基础档疑含超纲词「production company」
+  ch18 epilogue daydreaming and departure.md [基础] 基础档疑含超纲词「bookstores」
+  ch18 epilogue daydreaming and departure.md [基础] 基础档疑含超纲词「wonderful」
+  ch18 epilogue daydreaming and departure.md [?] 词汇节外有 2 行词条形表格（`论证结构`）已排除——格式应把词汇表归入 `## 词汇` 节，否则等于重复登记「」

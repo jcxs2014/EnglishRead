@@ -61,7 +61,7 @@ source_text: "text/ch16_chap16.txt"
 
 - **中文理解**：安娜姨妈在死前把《科学与健康》题赠给玛丽莲：亲爱的诺玛，读这本书。我留给你的不多，除了我的爱——但连死亡也不能使之衰减；死亡也永远不会把我从你身边带走。作者写：难怪她珍视这本书。
 - **句子结构**：祈使句 + 让步结构（do not leave you much except my love）+ 分号后的两个 nor 并列；"not even death can diminish" 的完成否定是全句的轴。
-- **关键词**：read this book, not even death can diminish, never take me far away from you
+- **关键词**：read this book, not even death can diminish, nor will death ever take me far away from you
 - **表达方式**：死亡被写成衰减而非终结；"my love" 的稀薄与"死亡带不走"的浓度并置——遗赠的语言恰好是书的语言。
 - **为什么这样写**：放在安娜姨妈一节，它是全章的爱的物证：一个鼓励她演戏、死于 1948 年没能看到她成功的姨妈，留下的题赠本身就在谈"不离开"。作者用它完成题眼（书是不离开的人）的第一次落地。
 

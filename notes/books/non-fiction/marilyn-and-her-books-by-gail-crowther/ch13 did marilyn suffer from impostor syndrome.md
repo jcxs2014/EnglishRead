@@ -93,7 +93,7 @@ source_text: "text/ch13_chap13.txt"
 
 - **中文理解**：Lerner 的完整定性：令人印象深刻的是，这种奔向明星地位、名声与赞誉的单一目的驱动力，与颤抖的敏感、野丫头的顽皮、真实的才华、以及一股对书、思想与作家真切的引力共存。
 - **句子结构**：主语（The impressive thing is that …）+ 长主语从句内三个并列宾语 + 与之 co-exists 的四个并列名词短语；"single-purposed drive" 与四种质感并置是全句的结构。
-- **关键词**：single-purposed drive, co-exists, tremulous sensitivity, a genuine pull towards books
+- **关键词**：single-purposed drive, co-exists, tremulous sensitivity, an evidently genuine pull towards books
 - **表达方式**：一个驱动力与四种质感的共存是全句的论证——Lerner 写的正是全书写的：野心与敏感不是矛盾，是共存。
 - **为什么这样写**：这是全章外部证词的核心：一个记者在 1960 年就写出了本书的论题——对书与思想与作家的"真切的引力"。作者引它不加评论，因为它就是结论。
 

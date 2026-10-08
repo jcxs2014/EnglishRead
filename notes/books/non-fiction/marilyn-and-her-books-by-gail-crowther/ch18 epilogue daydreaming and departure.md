@@ -34,7 +34,7 @@ source_text: "text/ch18_chap18.txt"
 
 **①**
 
-> **原句 1:** "The logs flame, never burning away. They will never burn away."
+> **原句 1:** "The house is still empty, but the logs flame, never burning away. They will never burn away."
 
 - **中文理解**：夜降临 Fifth Helena Drive，屋子空着，但木柴燃烧，永不烧尽。它们永远不会烧尽。白日梦的时间在这里停住——与序章"这个白日梦外在于时间"呼应。
 - **句子结构**：两个短句的重复（never burning away / They will never burn away）；第一句是陈述，第二句是承诺。
@@ -49,7 +49,7 @@ source_text: "text/ch18_chap18.txt"
 - **中文理解**：她失眠的深夜会开车去圣莫尼卡的码头走，呼吸盐味的空气。海的辽阔让心智放松而打开；它让一切显得可能，让所有问题连着答案像潮水一样漫回你身上。
 - **句子结构**：三个并列谓语（relaxes and opens / makes anything seem possible / makes any questions … wash back over you）；"like the tide" 的明喻收尾。
 - **关键词**：relaxes and opens the mind, anything seem possible, like the tide
-- **表达方式**：潮水比喻把问题与答案写成同一场涨落——全书"提问"的方法论在此被海的意象收束；"anything seem possible" 呼应引言"anything can happen in a daydream"。
+- **表达方式**：潮水比喻把问题与答案写成同一场涨落——全书"提问"的方法论在此被海的意象收束；"anything seem possible" 呼应引言的白日梦规则（在白日梦里一切皆可发生）。
 - **为什么这样写**：放在码头一节，它是全书唯一写她与海的段落：一个失眠的人在海边走。作者用潮水比喻把全书的"问题"收进自然——问题会回来，像潮水；这也是全书对"答案"的姿态。
 
 **③**

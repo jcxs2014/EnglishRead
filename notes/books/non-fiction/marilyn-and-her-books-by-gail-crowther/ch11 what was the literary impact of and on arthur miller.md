@@ -133,7 +133,7 @@ source_text: "text/ch11_chap11.txt"
 > **原句 10:** "“her bicycle. It’s been hanging up in there for 40 years.”"
 
 - **中文理解**：2002 年被问及是否留着两人共同的东西，米勒说只留了四五封信，然后指向车库："她的自行车。在车库里挂了四十年了。"作者收束全章：他也从这段婚姻里带走了文学影响——是好是坏，取决于你怎么解读。
-- **句子结构**：引语内两短句：名词短语（her bicycle）+ 现在完成进行时（has been hanging up in there for 40 years）；"40 years" 的时长把遗物写成时间本身。
+- **句子结构**：引语内两短句：名词短语（her bicycle）+ 现在完成进行时（It’s been hanging up in there for 40 years）；"40 years" 的时长把遗物写成时间本身。
 - **关键词**：her bicycle, hanging up in there for 40 years
 - **表达方式**："hanging up in there" 的口语化让自行车像一件被忘记的遗物；四十年的时长是全章最重的数字——婚姻四年，遗忘四十年。
 - **为什么这样写**：作为全章收束，它与《堕落之后》的舞台死亡对照：舞台上她的痛苦被反复上演，车库里她的自行车挂了四十年没人碰。米勒留下的两样东西——一个文本性的 Maggie，一辆挂着的自行车——就是这段婚姻全部的文学后果。
