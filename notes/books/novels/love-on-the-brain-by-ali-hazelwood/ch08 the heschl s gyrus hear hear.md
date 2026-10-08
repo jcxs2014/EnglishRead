@@ -14,45 +14,70 @@ title: "The Love on the Brain by Ali Hazelwood"
 
 ## 精读
 
-> **原句 1：** "Dr. Curie would know what to do. Dr. Königswasser, on the other hand, is looking around like a lost calf, grateful that no one's watching."
+> **原句 1：** "Dr. Curie would know what to do. Dr. Königswasser, on the other hand, is looking around like a lost calf, grateful that there’s no one around to see her sulking outside the director of research’s office."
 
-**中文理解**：居里夫人会知道该怎么做。而 Königswasser 博士呢，则像只迷路的小牛一样四处张望，庆幸没有人在看。
+**中文理解**：居里夫人会知道该怎么做。而 Königswasser 博士呢，则像只迷路的小牛一样四处张望，庆幸周围没人看到她蹲在研究主管办公室门外生闷气。
 
-**句子结构**：并列对比句。Dr. Curie would know 是虚拟语气（暗示她不在场）；Dr. Königswasser is looking 是现在进行时（当下的尴尬状态）。
+**句子结构**：并列对比句。Dr. Curie would know 是虚拟语气（暗示她不在场）；Dr. Königswasser is looking 是现在进行时（当下的尴尬状态）。that 引导定语从句修饰 no one。
 
 **关键词**：
 - `lost calf` — 迷路的小牛，无助、困惑的意象
-- `grateful that no one's watching` — 庆幸无人观看，暗示 Bee 知道自己处于尴尬境地
+- `grateful that there’s no one around to see her sulking` — 庆幸无人观看，具体地点是"研究主管办公室门外"，暗示 Bee 处于下风却无人知晓
 
-**为什么这样写**：这是 Bee 典型的自我贬低式幽默：用 Dr. Curie 的完美来对比 Dr. Königswasser 的窘迫。但"looking around like a lost calf"同时也是一种自我保护——她把自己放低，让可能的失败变得可以承受。
+**为什么这样写**：这是 Bee 典型的自我贬低式幽默：用 Dr. Curie 的完美来对比 Dr. Königswasser 的窘迫。"sulking outside the director of research’s office"比"no one's watching"更具体地点明了她的处境——她正在偷听门内的对话。
 
 ---
 
-> **原句 2：** "And not conducive to scientific progress. He sounds calmly exasperated, which should be technically impossible, but Levi's voice has a whole range of contradictions built into it."
+> **原句 2：** "And not conducive to scientific progress."
 
-**中文理解**：而且无助于科学进步。他的声音听起来冷静又恼火——这在技术上本应不可能，但 Levi 的声音本身就充满矛盾。
+**中文理解**：而且无助于科学进步。
 
-**句子结构**：`He sounds calmly exasperated` 是主系表结构，calmly exasperated 是矛盾修饰法（oxymoron）。which 引导非限制性定语从句修饰整句话。
+**句子结构**：简单陈述句，Levi 在向 Boris 抱怨 BLINK 项目的现状。
+
+**关键词**：
+- `not conducive to` — "无益于"，对项目价值的否定性评价
+
+**为什么这样写**：这是 Levi 对 Bee 的间接评价——他在 Boris 面前说 Bee"无助于科学进步"，但后文揭示他其实在暗中为她争取资源。这种言行反差正是全章张力的核心：Levi 表面上对 Bee 冷淡甚至贬低，实际上却在背后替她说话。
+
+---
+
+> **原句 2b（叙述描写）：** "He sounds calmly exasperated, which should be technically impossible, but Levi does have a knack for bringing oxymorons to life."
+
+**中文理解**：他听起来冷静又恼火——这在技术上本应不可能，但 Levi 确实擅长把矛盾修饰法变成现实。
+
+**句子结构**：主系表结构 + which 引导的非限制性定语从句。calmly exasperated 是矛盾修饰法（oxymoron）。
 
 **关键词**：
 - `calmly exasperated` — 矛盾修饰法，"冷静地恼火"，精准描述 Levi 的声音特质
-- `a whole range of contradictions built into it` — "自带一整套矛盾"，暗示 Levi 声音里藏着无法言说的情绪
+- `bringing oxymorons to life` — 把矛盾修饰法变成现实，形容 Levi 声音里充满无法调和的矛盾
 
-**为什么这样写**：这是全章的核心观察。Levi 对 Bee 的评价是"不专业"，但 Bee 听到的却是"calmly exasperated"——冷静和恼火并存。这种矛盾正是 ROME romance 男主的典型声音：表面冷淡，内里波涛汹涌。"built into it"暗示这种矛盾是 Levi 声音的内在特质，是他性格的映射。
+**为什么这样写**：这是全章的核心观察。Levi 对 Bee 的评价是"不专业"，但 Bee 听到的却是"calmly exasperated"——冷静和恼火并存。这种矛盾正是 romance 男主的典型声音：表面冷淡，内里波涛汹涌。"does have a knack for"暗示这种矛盾是 Levi 声音的内在特质，是他性格的映射。
 
 ---
 
-> **原句 3：** "I agree, I fully agree. The voice is not Levi's."
+> **原句 3：** "I agree," Boris replies.
 
-**中文理解**：我同意，我完全同意。这个声音不是 Levi 的。
+**中文理解**："我同意。"Boris 回应道。
 
-**句子结构**：`I agree, I fully agree` 是重复强调；`The voice is not Levi's` 是否定判断句。
+**句子结构**：简单引用句 + says 替代词"replies"（暗示 Boris 在回应 Levi 的话）。
 
 **关键词**：
-- `The voice is not Levi's` — 双重否定或否定判断，暗示这是另一个人的声音
-- `I fully agree` — 重复强调，暗示 Bee 在试图说服自己
+- `replies` — 替代 says，说明 Boris 在回应 Levi 的判断
 
-**为什么这样写**：这是全章的转折点。Boris 同意 Levi 的观点——Bee"不专业"。但这个声音不是 Levi 的，意味着 Bee 在同时听到两个人的意见。Boris 的同意让这个批评变得更重：这不是一个人的偏见，而是两个人的共识。
+**为什么这样写**：Boris 同意 Levi 对 Bee 的评价"不专业"。这一句让批评从 Levi's 一个人的观点变成了两个人的共识，让 Bee 感到更加孤立。
+
+---
+
+> **原句 3b：** "I fully agree."
+
+**中文理解**："我完全同意。"
+
+**句子结构**：简短的强调句，Boris 再次表示同意。
+
+**关键词**：
+- `fully agree` — 重复强调，程度加深，Boris 强化了 Levi 的判断
+
+**为什么这样写**：Boris 再次强调同意，表明这不是敷衍而是真心认同。Bee 听到两个她本应信任的人（Levi 是同事/对手，Boris 是上级）都认为她"不专业"，这是全章最让她难堪的时刻。
 
 ---
 
@@ -62,24 +87,22 @@ title: "The Love on the Brain by Ali Hazelwood"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| Heschl's gyrus | Heschl 回（大脑皮层，负责处理听觉信息） | Chapter title "HESCHL'S GYRUS: **Hear, Hear**" — 处理听觉信息的大脑区域，暗示本章主题是"偷听" |
-| conducive | 有益的 | Something is not **conducive** to scientific progress, according to Levi. |
-| exasperated | 恼火的 | Levi sounds calmly **exasperated**, a contradiction in terms. |
+| conducive | 有益的 | And not **conducive** to scientific progress. |
+| exasperated | 恼火的 | He sounds calmly **exasperated**, which should be technically impossible, but Levi does have a knack for bringing oxymorons to life. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| contradictory | 矛盾的 | His voice has a whole range of **contradictory** tones **built into it**. |
-| sneak | 偷偷溜走 | I cannot believe he **sneaked** past me while I was talking with Rocio. |
-| unprofessional | 不专业的 | Bee is accused of being **unprofessional** by Levi. |
+| unprofessional | 不专业的 | "—**unprofessional**," Levi is saying. |
+| lost calf | 迷路的小牛 | Dr. Königswasser, on the other hand, is looking around like a **lost calf**, grateful that there’s no one around to see her sulking outside the director of research’s office. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
-|------|------|------|------|
-| hear, hear | 洗耳恭听；表示赞同（议会用语） | "**Hear, hear**," someone says from the back of the room. |
-| eavesdrop | 偷听 | I cannot help **eavesdropping** on their conversation. |
+|------|------|------|
+| sulk | 生闷气 | Dr. Königswasser, on the other hand, is looking around like a lost calf, grateful that there’s no one around to see her **sulking** outside the director of research’s office. |
+| oxymoron | 矛盾修饰法 | Levi does have a knack for bringing **oxymorons** to life — "calmly exasperated" is one. |
 
 ## 本章一句话总结
 

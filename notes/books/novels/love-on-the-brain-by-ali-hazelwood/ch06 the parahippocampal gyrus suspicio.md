@@ -42,31 +42,32 @@ title: "The Love on the Brain by Ali Hazelwood"
 
 ---
 
-> **原句 3：** "My chest feels tight with the same thing I felt in the hallway yesterday, when I was waiting for seven hundred pounds of mechanical engineering tools to kill me."
+> **原句 3：** "Am I being paranoid? Probably."
 
-**中文理解**：我的胸口发紧，和昨天在走廊里等那七百磅机械工具砸死我的感觉一样。
+**中文理解**：我是不是在疑神疑鬼？大概是吧。
 
-**句子结构**：`My chest feels tight` 是主系表；`with the same thing I felt...` 是 with 介词短语引出定语从句。
+**句子结构**：一般疑问句 `Am I being paranoid?` + 省略结构的副词回答 `Probably.`（= Probably, you are being paranoid.）
 
 **关键词**：
-- `tight` — 胸紧，焦虑的身体反应
-- `seven hundred pounds` — 呼应第 4 章的精确重量估计，Bee 的"数字化焦虑"表达方式
+- `paranoid` — 偏执的/多疑的，与章节主题"Suspicion"直接呼应
+- `probably` — 轻描淡写，Bee 内心其实已经确信 Levi 在搞破坏
 
-**为什么这样写**：Bee 把当下的紧张和"被砸死"的那一刻联系起来——说明那场事故已经成为了她的心理创伤记忆锚点，而与 Levi 在同一空间让这个锚点被触发。
+**为什么这样写**：这是 Bee 第一次在内心正式承认自己的怀疑。之前她一直用"可能是我想多了"自我安慰，但到了第五天，她不得不面对现实：Levi 的 saboteur 行为已经无法再用巧合解释。这句话出现在她与 Reike 通话之后，是她从"自我怀疑"走向"确认怀疑"的转折点。
 
 ---
 
-> **原句 4：** "I'm at a loss until I notice the door to Levi's office is ajar and there's a strip of yellow police tape running across it."
+> **原句 4：** "He opens the door and immediately asks me about brain stimulation and spatial cognition, and over an hour goes by."
 
-**中文理解**：我困惑不已，直到注意到 Levi 办公室的门虚掩着，上面贴了一条黄色警戒带。
+**中文理解**：他推开门，立刻问我关于脑刺激和空间认知的问题，结果一个小时就这么过去了。
 
-**句子结构**：`I'm at a loss` 是主系表；until 引导时间状语从句；there's a strip of yellow police tape 是 there be 句型。
+**句子结构**：主句 `He opens the door` + 并列句 `immediately asks me about...` + 结果状语 `and over an hour goes by`。
 
 **关键词**：
-- `at a loss` — 困惑/不知所措
-- `police tape` — 警戒带，犯罪现场标记，暗示某个"犯罪现场"
+- `brain stimulation` — 脑刺激，Bee 的专业领域
+- `spatial cognition` — 空间认知，与 parahippocampal gyrus（海马旁回）的功能直接相关
+- `over an hour goes by` — 时间流逝，Bee 在与 Guy 交谈中完全忘了自己被困在门外这回事
 
-**为什么这样写**：Yellow police tape 把 Levi 的办公室变成了"犯罪现场"——暗示有人（可能是 Levi 本人）不希望任何人进入这个空间。B 意识到有什么东西被隐藏了，怀疑开始形成。
+**为什么这样写**：这句话出现在 Bee 被锁在门外之后，Guy 帮她打开了门。但她一开口谈科学，时间就飞速流逝——暗示她对科学的纯粹热爱让她暂时忘记了眼前的困境（门被锁、怀疑 Levi 在搞破坏）。也反讽地说明：她越想追查 Levi 的 sabotaging 行为，就越容易被科学讨论带跑。
 
 ---
 
@@ -76,22 +77,21 @@ title: "The Love on the Brain by Ali Hazelwood"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| parahippocampal gyrus | 海马旁回（大脑皮层，与记忆和空间定位相关） | Chapter title "PARAHIPPOCAMPAL GYRUS: **Suspicion**" — 与怀疑和记忆有关的大脑区域 |
-| spatial memory | 空间记忆 | The ** parahippocampal gyrus** is critical for **spatial memory** and navigation. |
+| paranoid ideation | 偏执观念 | I google whether I'm within the age of onset for **paranoid ideation**—shit, I am. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| ajar | 虚掩的（门） | His office door is **ajar**, with a strip of yellow police tape across it. |
-| carnivorous | 肉食性的 | Carnivorous moths are roaming the hallway outside our lab. |
+| authorization | 授权/审批 | I heard Kaylee say that it's an **authorization** problem. |
+| carnivorous | 肉食性的 | Someone dug a moat around it and filled it with alligators. And bears. And **carnivorous** moths. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
-|------|------|------|------|
-| lift an eyebrow | 挑眉（表示怀疑） | She sounds panicked. I **lift an eyebrow**. |
-| police tape | 警戒带 | There's a strip of yellow **police tape** across Levi's office door. |
+|------|------|------|
+| lift an eyebrow | 挑眉（表示怀疑） | She sounds so uncharacteristically panicked, I **lift an eyebrow**. |
+| reverie | 白日梦/幻想 | I have my first vivid **reverie** on my third day at NASA, when I imagine offing him with poison. |
 
 ## 本章一句话总结
 

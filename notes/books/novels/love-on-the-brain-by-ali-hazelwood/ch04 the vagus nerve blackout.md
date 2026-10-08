@@ -14,7 +14,7 @@ title: "The Love on the Brain by Ali Hazelwood"
 
 ## 精读
 
-> **原句 1：** "It's a truth universally acknowledged that a community of women trying to mind their own business must be in want of a random man's opinion."
+> **原句 1：** "It is a truth universally acknowledged that a community of women trying to mind their own business must be in want of a random man's opinion."
 
 **中文理解**：Bee 在推特上回击男性网友后，内心发出这句调侃——女人在 STEM 圈安静做事，总会有陌生男人跑来给意见。
 
@@ -42,59 +42,59 @@ title: "The Love on the Brain by Ali Hazelwood"
 
 ---
 
-> **原句 3：** "I'm not a very secretive person, mostly out of laziness: I refuse to do on the cognitive labor of tracking lies and omissions."
+> **原句 3：** "I'm not a very secretive person, mostly out of laziness: I refuse to take on the cognitive labor of tracking lies and omissions."
 
 **中文理解**：Bee 坦白自己不是秘密主义者——不是因为坦诚，是因为懒于"追踪谎言和隐瞒"的心理劳动。
 
-**句子结构**：冒号后解释前句。out of laziness = 原因状语；refuse to do on 双重否定（不拒绝=愿意），但语义是"懒得撒谎"。
+**句子结构**：冒号后解释前句。out of laziness = 原因状语；refuse to take on 双重否定（不拒绝=愿意），但语义是"懒得撒谎"。
 
 **关键词**：
 - `cognitive labor` — 认知劳动，学术术语，暗示 Bee 用"心理学术语"解读日常生活
 - `tracking lies and omissions` — 追踪谎言和遗漏，解释为什么她不是秘密主义者
 
-**为什么这样写**：这是 Bee 性格的又一力证：她懒于撒谎，却把"懒"包装成"认知劳动"的学术概念。这句话还直接点出她保守的一个秘密：@WhatWouldMarieDo。同时，"I refuse to do on"暗示她在推特世界里的矛盾——她在网上其实是"战略性隐藏"的。
+**为什么这样写**：这是 Bee 性格的又一力证：她懒于撒谎，却把"懒"包装成"认知劳动"的学术概念。这句话还直接点出她保守的一个秘密：@WhatWouldMarieDo。同时，"I refuse to take on"暗示她在推特世界里的矛盾——她在网上其实是"战略性隐藏"的。
 
 ---
 
-> **原句 4：** "About seven hundred pounds of mechanical engineering tools."
+> **原句 4：** "That mouth. That mouth is still breathing heavily on top of me, probably from the effort of whisking me out from under seven hundred pounds of mechanical engineering tools."
 
-**中文理解**：大约七百磅的机械工程工具。
+**中文理解**：Bee 在重压下清醒的第一秒，精确到荒谬地感知到 Levi 嘴里的呼吸——然后才意识到自己被"从七百磅机械工具下救出"这个物理事实。
 
-**句子结构**：名词短语，无谓语动词——这是 Bee 被压前脑海中闪过的"估算"。用数字和重量感传达真实危险。
+**句子结构**：两个句子，第一句是独句"that mouth"作主语倒装（正常语序为"that mouth is still breathing..."）；第二句用"probably from the effort of..."解释前一句的因。
 
 **关键词**：
-- `seven hundred pounds` — 具体化危险；七百磅约 317 公斤，制造视觉化冲击力
-- `mechanical engineering tools` — 讽刺：Levi 是工程师，工具是他的领域，命运用"他的工具"来制造两人第一次肢体接触
+- `that mouth is still breathing heavily on top of me` — "那张嘴还在我身上沉重地呼吸"，暗示 Levi 正压在她身上（救援姿势），呼吸急促说明刚才的体力消耗
+- `seven hundred pounds of mechanical engineering tools` — 七百磅机械工具，具体化危险重量；讽刺的是 Levi 是工程师，工具是他的领域，命运用"他的工具"制造两人肢体接触
 
-**为什么这样写**：这是本章最幽默也最关键的一句话。Bee 在生死关头，脑子里居然在精确估算重量。这种"极度紧张时的超冷静旁白"是Bee 的标志性叙述声音，也为后文 Levi 救她做了一个"工程学层面的数据化铺垫"。
+**为什么这样写**：这是本章最幽默也最关键的一句话。Bee 在生死关头，脑子里居然在精确估算重量。这种"极度紧张时的超冷静旁白"是 Bee 的标志性叙述声音——用学术语言包裹身体本能反应，为后文 Levi 救她做了一个"工程学层面的数据化铺垫"。
 
 ---
 
-> **原句 5：** "Green. All I can see is green."
+> **原句 5：** "All I can see is green. Not dark, like the grass outside; not dull, like the pistachios I had on the plane."
 
-**中文理解**：绿色。我眼前全是绿色。
+**中文理解**：绿色。我眼前全是绿色——不是外面草地的深绿，不是飞机上开心果的那种灰暗绿，而是鲜明到不真实的绿。
 
-**句子结构**：两个极简句，独立成段。Bare perception，短促并列，制造视觉冲击。绿色是 Levi 眼睛的颜色。
+**句子结构**：主句 + 三个并列的否定比较（Bare perception，短促并列，制造视觉冲击）。绿色是 Levi 眼睛的颜色。
 
 **关键词**：
-- `Green` — 呼应第 1 章 Levi 眼睛的描写（"green and black and stormy cold"）；这是两人六年后重逢，Bee 第一次这么近看 Levi
-- 两个单句制造"意识重启"效果：她失去知觉后恢复感知，第一个信号是视觉——绿色（Levi 的眼睛）
+- `Not dark, like the grass outside; not dull, like the pistachios` — 两个否定比较说明绿色的质地——不是暗沉的自然绿，不是灰调的坚果绿，而是某种更鲜明的东西
+- `pistachios I had on the plane` — 细节呼应飞行旅途，绿色与飞机上吃开心果的记忆形成感官联结
 
-**为什么这样写**：这是全章的情绪高点。倒述结构让这个时刻的冲击力成倍放大：Bee 先写看到的绿色，然后才辨认出是谁的眼睛。"Green"独处一句，暗示她的大脑在识别身份之前先接受了视觉刺激——Levi 的眼睛是她的首要感知。
+**为什么这样写**：这是全章的情绪高点。倒述结构让这个时刻的冲击力成倍放大：Bee 先写看到的绿色，然后才辨认出是谁的眼睛。她用两个否定"不是什么"来界定这个绿色，强调这不是日常所见——暗示这是 Levi 眼睛的颜色，这种绿带着某种超现实的鲜明感。
 
 ---
 
-> **原句 6：** "I know that mouth. Levi."
+> **原句 6：** "I know that mouth."
 
-**中文理解**：我认识那张嘴。Levi。
+**中文理解**：我认识那张嘴。
 
-**句子结构**：两个独立句，无连接词。并置制造认出-identity 的认知跳跃。"Levi."独处一句，句号，是确认也是冲击。
+**句子结构**：独句，无主语无时间状语——这是 Bee 压在重物下恢复意识后，第一个清晰的认知判断。不是"我认识那个人"，而是"我认识那张嘴"——因为她当时的视角只能看到 Levi 的脸（嘴）。
 
 **关键词**：
 - `I know that mouth` — 先说"那张嘴"，因为那一刻她被压在墙上的视角只能看到 Levi 的脸；先说局部的"嘴"再认出整体
-- `Levi.` — 全章最重的两个字；用句号而非感叹号，符合极度震惊下的克制表达
+- 独句结构制造认知停顿：她的身体先于理智认出他
 
-**为什么这样写**：从"Green"到"Levi"是全章的情感路径。"Green"是潜意识感知，"I know that mouth"是意识确认——她的身体先于理智认出他。六年的时光在这一刻被压缩成一个呼吸的距离。
+**为什么这样写**：从"Green"到"I know that mouth"是全章的情感路径。"Green"是潜意识感知（眼睛先看到），"I know that mouth"是意识确认（大脑认出记忆）。六年的时光在这一刻被压缩成一个呼吸的距离——嘴是两人最亲密的器官，记忆先于身份确认。
 
 ---
 
@@ -118,28 +118,27 @@ title: "The Love on the Brain by Ali Hazelwood"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
+| neurostimulation | 神经刺激 | But we got to a point where we needed a **neurostimulation** expert on board. |
+| scrutinize | 仔细审视 | I **scrutinize** her beautiful face for hints that she's lying. Her large dark eyes, heavily rimmed with eyeliner, are inscrutable. |
 | vagus nerve | 迷走神经 | "VAGUS NERVE: **Blackout**" — 迷走神经调节"休息-消化"反应，在极端压力下可致昏迷 |
-| neurostimulation | 神经刺激 | Guy explains they needed a **neurostimulation** expert on board. |
-| astrophysics | 天体物理 | The engineering labs work on complex **astrophysics** equipment. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| chirpy | 叽叽喳喳的 | I hear a soft and **chirpy** noise, like a small animal nearby. |
-| scrutinize | 仔细审视 | I **scrutinize** her beautiful face for hints that she's lying. |
-| throng | 聚集 | Women in STEM **throng** online communities to share experiences. |
-| pantry | 食品储藏 | I open every single **pantry** (they're all empty; I'm not sure what I expected). |
+| chirpy | 叽叽喳喳的 | I hear a noise from down the hallway. It's soft and **chirpy**, and sounds a lot like a cat. |
+| inscrutable | 难以捉摸的 | I **scrutinize** her beautiful face for hints that she's lying. Her large dark eyes, heavily rimmed with eyeliner, are **inscrutable**. |
+| grin | 咧嘴笑 | Yep. This. I feel my **grin** widen as the replies start coming in. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| be on board | 参与某项目 | We got to a point where we needed a **neurostimulation** expert **on board**. |
-| blow off steam | 发泄情绪 | Engaging with critics online is never a good idea—I'd rather **blow off steam** elsewhere. |
-| give sb a hand | 帮助某人 | The flight attendant offers me a glass of water from a tray. I shake my head, smile, and **give her** a grateful nod. |
-| be due to | 预期 | I'm **due** at the lab on Monday, but nervous energy has me arriving Friday. |
+| be on board | 参与某项目 | But we got to a point where we needed a **neurostimulation** expert **on board**. |
+| blow off steam | 发泄情绪 | If they want to **blow off some steam**, they can buy a gym membership or play third-person-shooter video games. |
+| be due to | 预期/应 | It's Friday, and I'm not **due to** check in until Monday, but I'm brimming with nervous energy. |
 
 ## 本章一句话总结
 
 Bee 飞赴 NASA 约翰逊航天中心，在推特上与神秘网友 @Shmacademics（实为 Levi）聊天，抵达后被宇航员同事 Guy 带着参观，却在独自探索时遭遇设备倒塌危机，被六年末见的 Levi 救下——迷走神经反应让她瞬间失去意识，两人的身体接触重新点燃了被封存六年的张力。
+

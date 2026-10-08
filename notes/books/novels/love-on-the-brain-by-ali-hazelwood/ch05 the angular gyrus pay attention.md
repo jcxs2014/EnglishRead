@@ -14,74 +14,62 @@ title: "The Love on the Brain by Ali Hazelwood"
 
 ## 精读
 
-> **原句 1：** "Yes, I swooned in His Wardness's arms like some Victorian lady with a brain tumor."
+> **原句 1：** "Yes, I swooned in His Wardness's manly arms like a twentieth-century hysteric with penis envy."
 
-**中文理解**：是的，我在"沃德尼斯博士"的怀里晕了过去，活像个脑子里长了肿瘤的维多利亚时代淑女。
+**中文理解**：是的，我在"沃德尼斯博士"有力的臂弯里晕了过去，活像个有阴茎嫉妒的二十世纪歇斯底里症患者。
 
-**句子结构**：独立句，短促自嘲。like some Victorian lady 是介词短语作状语；with a brain tumor 是 lady 的后置定语。
+**句子结构**：独立句，短促自嘲。like a twentieth-century hysteric 是介词短语作状语；with penis envy 是 hysteric 的后置定语。
 
 **关键词**：
 - `swooned` — 晕倒，戏剧化用词，比 faint 更夸张，暗示 Bee 用喜剧化方式处理尴尬
-- `His Wardness's arms` — 绰号再次出现，把 Levi 去人格化为"沃德尼斯博士"，但同时承认了她在他的臂弯里
-- `brain tumor` — 自嘲解释晕倒的原因（她研究的是大脑），医学幽默
+- `His Wardness's manly arms` — 双重绰号（His Wardness + manly），既去人格化 Levi 又承认了被他抱着的触感
+- `twentieth-century hysteric with penis envy` — 弗洛伊德式自嘲，把晕倒归因为"阴茎嫉妒"（而非真正的心动），是 Bee 典型的心理防御机制
 
-**为什么这样写**：这是 Bee 处理创伤的标准方式：自嘲。晕倒在"敌人"怀里本应极度尴尬，她却用"Victorian lady"和"brain tumor"的组合转化为幽默。这种幽默是防御机制——用笑话掩盖真实情绪。
-
----
-
-> **原句 2：** "My heartbeat accelerates—probably because the last time I saw Levi my brain confabulated that he was carrying me like a sack of lab equipment."
-
-**中文理解**：我的心跳加速——可能是因为上次见到 Levi 时我的大脑编造了他像扛实验设备一样扛着我的场景。
-
-**句子结构**：`confabulated`（编造）是关键词，暗示她的记忆可能是假的。破折号引出原因状语从句；like a sack of lab equipment 是比喻。
-
-**关键词**：
-- `confabulated` — 虚构/编造记忆，精神科用语，指大脑在记忆模糊时自动填补情节
-- `a sack of lab equipment` — 把被救描述成"被扛"，贬低自己同时暗示她把自己工具化（与 Levie 是工程师视角吻合）
-
-**为什么这样写**：`confabulated` 是精准的神经科学术语，暗示她的大脑可能在虚构记忆。但读者知道那不是 confabulation——Levi 确实救了她，而且动作可能真的像"扛设备"。Bee 用自嘲来处理这个尴尬局面。
+**为什么这样写**：这是 Bee 处理创伤的标准方式：自嘲。晕倒在"敌人"怀里本应极度尴尬，她却用"二十世纪歇斯底里症"和"阴茎嫉妒"的组合转化为幽默。这种幽默是防御机制——用笑话掩盖真实情绪。但同时"manly arms"又泄露了身体的真实感知。
 
 ---
 
-> **原句 3：** "Something about how he stops reminds me of an inmate being watched."
+> **原句 2：** "My heartbeat accelerates—probably because the last time I saw Levi my brain confabulated that he was carrying me An Officer and a Gentleman-style, and the previous came on the tail of a year of him treating me like I'm a tax auditor."
 
-**中文理解**：他停下脚步的方式让我想起被监视的囚犯。
+**中文理解**：我的心跳加速——可能是因为上次见到 Levi 时我的大脑编造了他像《军官与绅士》里那样扛着我的场景，而此前我承受了整整一年被他当作税务审计员对待的冷遇。
 
-**句子结构**：`reminds me of` 是视觉化比喻；an inmate being watched 是比喻的本体。Bee 用旁观者视角描述 Levi 的肢体语言。
+**句子结构**：破折号引出原因状语从句；`confabulated`（编造）是关键词；`An Officer and a Gentleman` 是文化参照（1982 年电影，男主救女主于危难）；`the previous` 指代前文提到的 year of cold treatment。
 
 **关键词**：
-- `inmate` — 囚犯，被监视的状态；暗示 Levi 被"某种东西"监视——可能是她，可能是他们之间的历史
-- `being watched` — 进行时，被动状态，说明监视是持续的
+- `confabulated` — 虚构/编造记忆，精神科用语，指大脑在记忆模糊时自动填补情节；Bee 用这个词暗示她不确定那是不是真的发生过
+- `An Officer and a Gentleman-style` — 电影《军官与绅士》中的经典浪漫桥段（男主抱着女主离开），Bee 用它来描述她的"被救"记忆，暗示潜意识里的浪漫期待
+- `treating me like I'm a tax auditor` — 把 Levi 对她的冷漠比作税务审计员的刻板印象，幽默且带有性别意味
+
+**为什么这样写**：`confabulated` 是精准的神经科学术语，暗示她的大脑可能在虚构记忆。但读者知道 Levi 确实救了她，动作可能真的像"扛设备"。Bee 用自嘲来处理这个尴尬局面，同时借"tax auditor"的比喻表达了她对 Levi 过去一年态度的不满。
+
+---
+
+> **原句 3：** "I might be reading too much into the way his spine goes rigid, but something about how he stops reminds me of an inmate being watched."
+
+**中文理解**：我可能过度解读了他脊背僵硬的方式，但他停下来时的某种东西让我想起被监视的囚犯。
+
+**句子结构**：`I might be reading too much into` 是自嘲式插入语；`the way his spine goes rigid` 是主语；`reminds me of an inmate being watched` 是谓语+宾语。
+
+**关键词**：
+- `spine goes rigid` — 脊背僵硬，Bee 对 Levi 肢体语言的精准观察
+- `inmate being watched` — 囚犯被监视的状态；暗示 Levi 被"某种东西"监视——可能是她，可能是他们之间的历史，也可能是他自己的情绪
 
 **为什么这样写**：这是 Bee 对 Levi 行为反应的观察。她在解读他的肢体语言：他停下来不是因为放松，而是像被监视的囚犯一样警觉。这暗示 Levi 在面对她时同样紧张——两人其实处于同等的尴尬状态。
 
 ---
 
-> **原句 4：** "I need to follow through with whatever I'm saying. The words tumble out, and then I lose them, the same way I always lose my subway pass."
+> **原句 4：** "That would be amazing," I gasp. Embarrassing, how breathless I sound when I get excited. I need to follow through with my Couch-to-5K plans."
 
-**中文理解**：我需要把正在说的话说完。话涌出来，然后我弄丢了它，就像我总是弄丢地铁卡一样。
+**中文理解**："那太好了。"我喘息着说。尴尬，我兴奋时声音这么喘。我需要坚持我的 couch-to-5K 跑步计划。
 
-**句子结构**：`The words tumble out` 是主句；`and then I lose them` 是并列谓语；`the same way I always lose my subway pass` 是方式状语从句。
-
-**关键词**：
-- `tumble out` — 涌出，描述话语不受控制的状态
-- `lose my subway pass` — 把话语丢失和地铁卡丢失类比，暗示这是习惯性行为模式
-
-**为什么这样写**：这是 Bee 在 Levi 面前无法正常说话的精准描写。她的认知失调（想假装不在意却无法控制生理反应）通过"话说到一半就弄丢了"这个比喻体现。地铁卡丢失是日常小事，用来对比她此刻的失控感，既真实又可悲。
-
----
-
-> **原句 5：** "That would be amazing," I gasp. Embarrassing, how breathless I sound when I get excited.
-
-**中文理解**："那太好了。"我喘息着说。尴尬，我兴奋时声音这么喘。
-
-**句子结构**：`That would be amazing` 是直接引语；`I gasp` 是引语后的动作描写；`Embarrassing` 是名词化形容词作独立句，描述她对自身反应的评价。
+**句子结构**：`That would be amazing` 是直接引语；`I gasp` 是引语后的动作描写；`Embarrassing` 是名词化形容词作独立句，描述她对自身反应的评价；最后一句是她的内心独白（关于跑步计划）。
 
 **关键词**：
 - `I gasp` — 喘息，在 Levi 面前连说句话都在喘，暗示她的生理反应超出意识控制
 - `how breathless I sound` — 反身感叹句，暗示她意识到了自己的失态
+- `follow through with my Couch-to-5K plans` — couch-to-5K 是一款跑步 app；她用"跑步计划"来转移话题，是逃避策略
 
-**为什么这样写**：这是全章最尴尬的瞬间。Bee 在 Levi 面前连正常的对话都维持不住，一句话要喘息。她的"兴奋"到底是什么兴奋——书名叫《Love on the Brain》已经给了答案，但 Bee 还在否认。
+**为什么这样写**：这是全章最尴尬的瞬间。Bee 在 Levi 面前连正常的对话都维持不住，一句话要喘息。她的"兴奋"暗示了身体的真实反应，而"跑步计划"是她试图用理性话题掩盖失控感的尝试。
 
 ---
 
@@ -91,25 +79,22 @@ title: "The Love on the Brain by Ali Hazelwood"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| angular gyrus | 角回（大脑皮层，负责语言和注意力整合） | Chapter title "ANGULAR GYRUS: **Pay Attention**" — 角回负责整合感官信息，注意力的神经基础 |
-| confabulate | 编造虚假记忆 | My brain **confabulated** that he was carrying me like a sack of lab equipment. |
-| amygdala hijack | 杏仁核劫持（情绪失控反应） | My heartbeat accelerates when I see him — probably an **amygdala hijack** from the accident. |
+| angular gyrus | 角回（大脑皮层，负责语言和注意力整合） | This area will stimulate the **angular gyrus**, right? |
+| confabulate | 编造虚假记忆 | My heartbeat accelerates—probably because the last time I saw Levi my brain **confabulated** that he was carrying me An Officer and a Gentleman–style, and the previous came on the tail of a year of him treating me like I'm a tax auditor. |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| rigid | 僵硬的 | Something about how his spine goes **rigid** reminds me of an inmate being watched. |
-| tumble | 滚落；涌出 | The words **tumble** out, and then I lose them. |
-| follow through | 完成（未完成的动作） | I need to **follow through** with whatever I'm saying. |
+| rigid | 僵硬的 | I might be reading too much into the way his spine goes **rigid**, but something about how he stops reminds me of an inmate getting caught by the guards. |
+| follow through | 完成（未完成的动作） | Embarrassing, how breathless I sound when I get excited. I need to **follow through** with my Couch-to-5K plans. |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
 | gasp | 喘息 | "That would be amazing," I **gasp**. |
-| lose my temper | 发火 | I try not to **lose my temper** at myself for being so flustered. |
-| catch my breath | 喘过气来 | I take a moment to **catch my breath** before entering the room. |
+| out of breath | 上气不接下气 | When I reach him, I'm pitifully **out of breath**. "Levi, wait up!" |
 
 ## 本章一句话总结
 
