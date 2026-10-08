@@ -44,7 +44,7 @@ Madam Hung 最后答应的条件：为"脚部畸形或唇裂"的次子寻找婚�
 | **pining** | 动词 | "to save her pining for the impossible" | 渴望、空想；Linjing 建议告诉 Little Flower 真相，以免她空抱不可能的希望 |
 | **kindled** | 动词 | "Embers of hope kindled in my heart" | 点燃；希望重新在 Little Flower 心中点燃 |
 | **beseeched** | 动词 | "Please help me," I beseeched | 恳求、哀求；Little Flower 跪下恳求 Madam Hung |
-| **disbelief** | 名词 | "she could not keep the note of disbelief out of her voice" | 怀疑、不相信；Madam Hung 对 Linjing 大脚的消息感到难以置信 |
+| **disbelief** | 名词 | "she could not keep the note of pity and disbelief out of her voice" | 怀疑、不相信；Madam Hung 对 Linjing 大脚的消息感到难以置信 |
 | **perched** | 动词 | "she pulled out a pair of armless spectacles and perched them on her nose" | 戴上；Madam Hung 戴上眼镜仔细研究刺绣作品 |
-| **compensate** | 动词 | "Could my embroidery skills compensate for my big feet?" | 补偿；Little Flower 试图用她的超常技艺来弥补脚部"缺陷" |
+| **compensate** | 动词 | "Do you think Little Flower's embroidery skills could compensate for her big feet?" | 补偿；Little Flower 试图用她的超常技艺来弥补脚部"缺陷" |
 | **scoffed** | 动词 | "Madam Hung scoffed" | 嘲笑、冷笑；Madam Hung 对 Little Flower 提出"绣庄或软装行业"的建议表示轻蔑 |

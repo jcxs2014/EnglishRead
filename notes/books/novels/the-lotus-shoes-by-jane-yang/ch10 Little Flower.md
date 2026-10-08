@@ -44,9 +44,9 @@ Spring Rain 对基督教的拒绝建立在对钉死十字架的批判上：她�
 |------|------|----------------------|------|
 | **sprouted** | 动词 | "Doubt sprouted in my heart" | 发芽、萌生；Little Flower 决定信任 Miss Hart 前的犹疑，如同种子在心中发芽 |
 | **threshold** | 名词 | "Your conversation won't cross this threshold" | 门槛；Miss Hart 承诺在这个房间内保密，不越过门槛 |
-| **flickering** | 形容词 | "the flame flickering, the small pool of light scarcely able to reach us" | 闪烁的；烛火在风中摇曳，照亮两个女孩深夜密谈的微光 |
+| **flickering** | 形容词 | "its flame flickering, the small pool of light scarcely able to reach us" | 闪烁的；烛火在风中摇曳，照亮两个女孩深夜密谈的微光 |
 | **huddled** | 动词 | "We huddled together" | 挤在一起；两个女孩在寒冷的夜里挤在一起，是全书最温暖的友谊画面之一 |
 | **burrowed** | 动词 | "the late autumn chill burrowed through the layers" | 钻进、钻进；秋夜的寒意穿透多层衣物，钻入骨髓 |
 | **chattered** | 动词 | "my teeth chattered as I spoke" | （牙齿）打颤；天气寒冷时身体的颤抖 |
 | **clutched** | 动词 | "she clutched her pendant, a small cross of gold" | 紧握；Miss Hart 听到 Spring Rain 需要帮助时紧握她的金十字架 |
-| **clamped** | 动词 | "I clamped my lips" | 紧闭；Little Flower 决定不透露 Spring Rain 的逃跑计划 |
+| **clamped** | 动词 | "I wanted to know more, but clamped my lips" | 紧闭；Little Flower 决定不透露 Spring Rain 的逃跑计划 |
