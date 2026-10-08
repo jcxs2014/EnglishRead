@@ -85,7 +85,11 @@ Tom 的"Oh"——这个 Oh 意味深长：他是看到了她的恐慌？她的 p
 - **运动描写作为情绪载体**：car door、run toward、brushing by、slamming——她的身体在空间中的轨迹精确地映射了内在的失控。 porch light 亮起 = 她从恐慌切换到逃跑模式。
 - **车的意象**：车窗外 Paul 的手"close to where my left hand rests on the steering wheel, so close I can imagine him grabbing my hand"——距离与想象的控制在此处汇合。
 
-## 词汇
+## 本章词汇
+
+## 一句话总结
+
+（本章暂无总结）
 
 - **placidly**：平静地——Paul 收集书本时的从容，与 Judith 等待承认时的愤怒形成对比
 - **abashed**：窘迫的——Paul 被 Judith 的"cold and unshakable"语气压住后的表情
@@ -93,3 +97,7 @@ Tom 的"Oh"——这个 Oh 意味深长：他是看到了她的恐慌？她的 p
 - **obeyed**：服从——Judith 把信封交给 Paul，主动的身体行为，但被"obediently"修饰——服从的不是 Paul，而是自己的惯性模式
 - **lighthearted**：轻松的——Paul 的状态，与 Judith 的恐慌形成镜像
 - **pant**：喘息——跑进门的状态，身体先于语言
+
+## 一句话总结
+
+（本章暂无总结）

@@ -14,6 +14,9 @@
 
 ---
 
+
+## 本章词汇
+
 ## 精读
 
 ### 精读块 1：信的处置
@@ -24,7 +27,7 @@
 
 **句子结构**：Paul 对信件的处置方式揭示了他的心理策略：不销毁 = 不给它力量。"He won't destroy it" 与他之前的行为形成对比——他现在更强大了，能够以"漠视"来回应恶意。
 
-**词汇/表达**：
+**关键词：**
 - **won't destroy it**：不销毁——Paul 拒绝给信件"力量"，这是一种心理防御机制
 - **just another letter in the pile**：堆里普通的一封——Paul 试图将创伤正常化
 
@@ -52,7 +55,7 @@
 
 **句子结构**：穿着描写是 Paul 自我转化的外在标志。"forgot he had" 暗示这件衬衫代表了他遗忘的另一个自己——那个曾经认真对待摄影的自己。"A little tight across the chest" 是身体感知，暗示他对自己形象的不满与修正。
 
-**词汇/表达**：
+**关键词：**
 - **button-down shirt**：纽扣衬衫——正式服装的选择，Paul 在为"蜕变"做准备
 - **serious, quietly stylish, and mature**：严肃、低调有型、成熟——Paul 想要呈现的公众形象
 
@@ -68,7 +71,7 @@
 
 **句子结构**："firm handshake" 是权力关系的隐喻——Jahan 是主导者，Paul 是被接纳者。这个握手是本章的标题核心，也是 Paul "蜕变" 的仪式起点。
 
-**词汇/表达**：
+**关键词：**
 - **firm handshake**：有力的握手——权力与认可的象征
 - **beaming smile**：灿烂的笑容——Jahan 的热情表象
 
@@ -84,7 +87,7 @@
 
 **句子结构**："Paul thrills to the sound of Mr. Sorenson" 是关键——Paul 的快感来源于被称呼"Mr. Sorenson"这个正式身份，而他的礼貌回应"call me Paul"是一种虚伪的谦逊。
 
-**词汇/表达**：
+**关键词：**
 - **thrills to the sound of Mr. Sorenson**：被"Sorenson 先生"这个称呼所激动——身份认同的渴望
 - **thrills**：激动、兴奋——Paul 的 narcissistic 反应
 
@@ -100,7 +103,7 @@
 
 **句子结构**："About me?" 是 Paul 内心最直接的欲望表达——他想要成为展览的共同主角，而不仅仅是 Judith 的附属。这个幻想"letting himself imagine"揭示了他 narcissistic 的自我投射。
 
-**词汇/表达**：
+**关键词：**
 - **pointing his forefinger at Paul**：用食指指着 Paul——Jahan 的肢体语言，权力与关注的象征
 - **letting himself imagine**：让自己想象——Paul 在进行 narcissistic 幻想
 
@@ -110,13 +113,13 @@
 
 ### 精读块 7：叙事的炼金术
 
-> "Judith is the star, of course," Jahan says, evaporating Paul's little dream. "Her work will be the centerpiece. So will her death—whether we like it or not. But the story of 'Judith and Paul' is compelling, too, the one about this singular talent discovered by her brilliant photography instructor."
+> **原句 1:** "Judith is the star, of course," Jahan says, evaporating Paul's little dream. "Her work will be the centerpiece. So will her death—whether we like it or not. But the story of 'Judith and Paul' is compelling, too, the one about this singular talent discovered by her brilliant photography instructor."
 
 **中文理解**："Judith 当然是明星，" Jahan 说，蒸发了 Paul 的那个小梦想。"她的作品是核心。当然，她的死亡也是——无论我们喜不喜欢。但'Judith 和 Paul'的故事同样引人入胜——这个关于 singular talent 被她出色的摄影导师发现的故事。"
 
 **句子结构**：Jahan 的"当然"（of course）立刻粉碎了 Paul 的幻想——他是"star"的陪衬，不是共同主角。但 Jahan 立刻用"Judith and Paul"的叙事重新收编他——Paul 是 Judith 的"发现者"，这个身份同样能满足他的 narcissistic 需求。
 
-**词汇/表达**：
+**关键词：**
 - **evaporating Paul's little dream**：蒸发了 Paul 的小梦想——"evaporating"是精准的动词，暗示 Paul 的幻想瞬间破灭
 - **singular talent**： singular talent——Paul 被定位为"发现者"，而非被发现的"人才"
 - **brilliant photography instructor**：出色的摄影导师——Paul 获得的正式身份标签
@@ -133,7 +136,7 @@
 
 **句子结构**："With each handshake" + "discards more and more of his old self"——握手成为蜕变仪式。Paul 在每一次握手中完成"自我清除"，把旧身份（"shabby college instructor and has-been photographer"）当作垃圾丢弃。
 
-**词汇/表达**：
+**关键词：**
 - **discards more and more of his old self**：丢弃更多旧的自己——自我转化的核心隐喻
 - **shabby college instructor and has-been photographer**：破旧的大学讲师和过气摄影师——Paul 对旧身份的评价
 - **bright new person**：明亮的新人——narcissistic 重生的意象
@@ -151,7 +154,6 @@
 | **evaporate** | /ɪˈvæpəreɪt/ | v. | 使蒸发；使消失 | evaporating Paul's little dream |
 | **discard** | /dɪsˈkɑːrd/ | v. | 丢弃；抛弃 | discards more and more of his old self |
 | **giddy** | /ˈɡɪdi/ | adj. | 头晕的；兴奋的 | he's almost giddy enough at Jahan's words to do it |
-| **gilded** | /ˈɡɪldɪd/ | adj. | 镀金的；金色的 | this golden world |
 
 ---
 
@@ -176,9 +178,21 @@
 
 ## 读者提示
 
+## 一句话总结
+
+（本章暂无总结）
+
 **关键阅读点**：本章的核心是"握手仪式"作为 narcissistic 转变的隐喻。Paul 在每一次握手中"discards more and more of his old self"，这个过程是本章最重要的意象。注意 Paul 如何在 Jahan 的叙事框架中找到新的自我定位——从"star"（被拒绝）到"star 的发现者"（被接受）。这个身份同样建立在对 Judith 的利用之上，只是包装不同。
+
+## 一句话总结
+
+（本章暂无总结）
 
 **语言亮点**：
 - "evaporating Paul's little dream"——精准的动词，暗示 Paul 的幻想瞬间破灭
 - "discards more and more of his old self"——握手作为蜕变仪式的核心隐喻
 - "bright new person who belongs in this golden world"——Paul 的自我预言，他相信自己能成为"新人"
+
+## 一句话总结
+
+（本章暂无总结）

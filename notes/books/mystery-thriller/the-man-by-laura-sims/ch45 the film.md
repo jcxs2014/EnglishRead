@@ -81,7 +81,7 @@ Paul 想在这里庆祝，但 Judith 的死亡记忆让他不敢久留：
 - **问句的道德重量**："but is it even one he would have wanted?"——Paul 自己提出的这个问题比任何外部批判都更有力：他知道答案，他只是不敢承认
 - **停车场作为记忆触发点**：地点与 Judith 死亡的地点重叠，让 Paul 无法真正逃避
 
-## 词汇
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
@@ -109,9 +109,25 @@ Paul 想在这里庆祝，但 Judith 的死亡记忆让他不敢久留：
 | **pulse leaps** | 心跳加速 | Paul's pulse leaps at the sight of Tom Stanley |
 | **in the dark** | 在黑暗中 | He squints into the darkness |
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 章节位置
+
+## 一句话总结
+
+（本章暂无总结）
 
 前有 ch44（POV=Paul，内容待核），现有 ch45（Paul 遇见 TJ、谈判取得突破、章末停车场黑暗心理）。后接 ch46（POV=Paul，内容待核）。本章是 Paul 主线的重要转折点：Tom 的拒绝被 TJ 的支持所抵消，Paul 第一次看到了获得 Judith 照片的现实可能性。章末的自问——"is it even one he would have wanted?"——揭示了 Paul 内心最深的道德黑洞：他不是希望 Judith 活着，而是庆幸她死了。
 
+## 一句话总结
+
+（本章暂无总结）
+
 ---
 *POV：Paul（第三人称）*
+
+## 一句话总结
+
+（本章暂无总结）

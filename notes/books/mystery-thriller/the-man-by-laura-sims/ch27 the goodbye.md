@@ -77,7 +77,7 @@ Paul 问她要照片，她说"It’s been a busy week"——谎言，也是自�
 - **具体物件作为心理载体**：相机 = 摄影生命力的外化；Tom 把它搬走 = Judith 主动切除自己的一部分。
 - **Paul 的"not out of niceness"**：这句对白既真实（他是老师不是追求者）又令人心痛（Judith 多么渴望一个"出于 niceness"的关心）——她对 nice 的渴望本身就是创伤的印记。
 
-## 词汇
+## 本章词汇
 
 - **taunt**：嘲弄——Paul 无恶意的话被 Judith 听成指控
 - **gnawing emptiness**：啃噬性的空虚——醒来时最强烈的身份失落感
@@ -85,6 +85,18 @@ Paul 问她要照片，她说"It’s been a busy week"——谎言，也是自�
 - **throbbing head**：跳动的头痛——说"yes"时身体的抗拒信号
 - **uncomfortable pleasure**：不舒服的愉悦——对 Paul 的 attraction 她无法否认，却也感到羞耻
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 章节位置
 
+## 一句话总结
+
+（本章暂无总结）
+
 前有 ch26（Paul 评论 Judith 的室内照片，鼓励她去城市），后接 ch28（待核）。本章是全书的转折点之一——Judith 在"放下"与"拿起"之间做出选择，Paul 的那句"mainly happy we're going for you"是她在黑暗中看到的一束光，但也是她继续在危险边缘行走的信号。
+
+## 一句话总结
+
+（本章暂无总结）

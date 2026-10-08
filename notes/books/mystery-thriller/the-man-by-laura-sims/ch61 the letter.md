@@ -14,6 +14,9 @@
 
 ---
 
+
+## 本章词汇
+
 ## 精读
 
 ### 精读块 1：fan mail 的慰藉
@@ -24,7 +27,7 @@
 
 **句子结构**：第一人称叙述，核心叙事在 Paul 打开并阅读 fan mail 的动作。修辞上以问题 "When did he last laugh?" 暗示他多日来的压抑状态。内部独白 "doesn't he?" 是自我质疑——Paul 需要外界的肯定来确认自己的价值。
 
-**词汇/表达**：
+**关键词：**
 - **slit open with his dagger-shaped letter opener**：用匕首形的开信刀划开——刀的意象贯穿全书，Paul 持有这把刀不是偶然
 - **disturbing, unladylike, and harmful to the general public**：负面评价却让 Paul 发笑——他享受被关注，哪怕是负面的
 - **toasts himself**：向自己举杯——Paul 的自我庆祝开始变得可疑
@@ -42,7 +45,7 @@
 
 **句子结构**：以 Eddie 的问题为核心——四个连续问句（"who knifed..."/"if he watched..."/"What did it look like..."/"how did it sound..."/"what did Paul feel?"）形成压迫性的信息索取。Paul 的反应从生理（胃部不适）到心理（内疚感）到自我辩护（怪 interviewers）。
 
-**词汇/表达**：
+**关键词：**
 - **childish hand**：幼稚的笔迹——Eddie 可能不是真的"幼稚"，而是有意伪装
 - **who knifed the lady photographer**："刺死了那位女摄影师"——Eddie 用的是"knifed"这个残忍的动词，而非"killed"
 - **the whiskey sits like acid**：威士忌像酸一样——生理反应，Paul 的身体比他的意识更诚实
@@ -71,7 +74,7 @@
 
 **句子结构**：全大写、无标点的短句集合——这是攻击性的视觉和文本形式。六个独立句子，每句都是一个指控，从"寄生虫"到"你杀了她吗"逐步升级。"PAUL"的单独出现制造了直接对质的亲密感——写信人知道他的名字。
 
-**词汇/表达**：
+**关键词：**
 - **PARASITE**：寄生虫——最核心的指控，精准击中 Paul 的自我怀疑
 - **I BET YOU'RE GLAD SHE'S DEAD**：直接指控 Paul 从 Judith 的死中获益
 - **DID YOU KILL HER, PAUL?**：最致命的指控——这个问题把 Paul 从"利用亡妻名声"升格为"可能的凶手"
@@ -88,7 +91,7 @@
 
 **句子结构**：身体反应（paper trembles / unscrews shakily / takes a long swallow / burps）是情绪的外化，与 Paul 的心理否认形成对比。"He isn't sure why" 是关键——Paul 不知道为什么自己把信留下不撕，这个无意识的行为揭示了他内心想要面对这些指控。
 
-**词汇/表达**：
+**关键词：**
 - **the paper trembles in his hand**：纸在他手里颤抖——Paul 的身体比他的意志更诚实
 - **crackpot**：疯子——Paul 的第一反应是自我保护，把信归类为无害的疯子作品
 - **feels different. Worse**：感觉不一样。更糟——Paul 直觉这封信比 Eddie 的更危险
@@ -106,7 +109,7 @@
 
 **句子结构**：全章最核心的一段。Paul 开始了自我认知的循环：否认（"technically he isn't…"）→ 承认（"he is profiting"）→ 接受（"the label will be irrefutable then"）→ 矛盾的享受（"It almost feels good—cathartic"）→ 自我讽刺（"A parasite living off a parasite"）。最后两个短句"blunt truth he would never publicly own"和"blunt truth he'll soon shove to a shadowed corner"揭示了 Paul 的模式：面对真相，但只是为了更好地压抑它。
 
-**词汇/表达**：
+**关键词：**
 - **parasite**：寄生虫——这个词成为全章的关键词，Paul 接受了它，但以一种扭曲的方式
 - **cathartic**：宣泄的——Paul 感到某种奇怪的释放，仿佛被指控反而让他轻松
 - **A parasite living off a parasite**：寄生虫靠寄生虫为生——Paul 的黑色幽默：他自己靠 Judith（被谋杀的受害者）为生
@@ -124,7 +127,7 @@
 
 **句子结构**：Paul 开始从被动接受转为主动分析——他想知道写信人是谁。"Certainly a woman" 是直觉判断，"he can almost taste her woman's rage" 是身体化的感知。"But what woman?" 是核心问题，而 Charlie 是他猜测的答案。最后一句是 Paul 的反击逻辑：写信人恨他，但她能知道 Judith 全靠他的推广——一种扭曲的"恩人"叙事。
 
-**词汇/表达**：
+**关键词：**
 - **he can almost taste her woman's rage**：他几乎能尝到她的愤怒——感官的、亲密的感知，Paul 在想象写信人
 - **someone like his student Charlie**：像他的学生 Charlie——Charlie 在这本书里代表了一种特定的年轻女性视角
 - **eager to blame Paul in the absence of anyone more deserving of blame**：在没有更值得责备的人时，迫切地要责备 Paul——Paul 把自己定位为"次优目标"，暗示真凶另有其人
@@ -142,7 +145,7 @@
 
 **句子结构**：最后一段的核心是"他想要更多"——这个欲望是全章最重要的揭示。Paul 表面上应该感到害怕或厌恶，但他实际上"想要更多恶意和伤害"。原因是："the delicious pinch of real feeling at a time when his life often feels unreal"——在 Paul 的生活感觉不真实的时候，这种痛苦反而给了他真实感。这是一个严重的心理发现：Paul 在某种程度上需要这种痛苦来确认自己的存在。最后一句 "Fucking parasite, though, he can easily believe" 是完美的结尾——Paul 可以轻松相信自己是寄生虫，但他难以相信生活是"美好"的。
 
-**词汇/表达**：
+**关键词：**
 - **recoiling from the thought of finding another but still sifting through the letters quickly, almost eagerly**：一边想退缩一边急切地翻找——矛盾的心理状态
 - **the delicious pinch of real feeling**：真实感受的美妙刺痛——Paul 从痛苦中获得某种扭曲的愉悦
 - **at a time when his life often feels unreal**：在他的生活常常感觉不真实的时候——Paul 的生活确实"不真实"：他靠亡妻的名声生活，靠媒体曝光维持存在感
@@ -189,9 +192,21 @@
 
 ## 读者提示
 
+## 一句话总结
+
+（本章暂无总结）
+
 **关键阅读点**：本章的核心是 Paul 的自我认知悖论：他能轻易相信自己是"寄生虫"，却难以相信生活是"美好"的。阅读时注意 Paul 如何在三个阶段处理这些信件：①否认（"just another crackpot"）→ ②部分接受（"The truth is, he is a parasite"）→ ③压抑并继续（"A blunt truth he'll soon shove to a shadowed corner"）。他偶尔面对自己的真实动机，但从来没有让这种认知改变他的行为。
+
+## 一句话总结
+
+（本章暂无总结）
 
 **语言亮点**：
 - "A parasite living off a parasite"——Paul 的自我讽刺，他把 Judith 称为"parasite"（寄生虫），因为他认为 Judith 在某种程度上也在利用自己的死亡
 - "the delicious pinch of real feeling at a time when his life often feels unreal"——这是全章最黑暗的句子，揭示了 Paul 为什么需要这些负面反馈
 - "Fucking parasite, though, he can easily believe"——简洁有力的结尾，Paul 接受负面自我认知比接受生活美好更容易
+
+## 一句话总结
+
+（本章暂无总结）

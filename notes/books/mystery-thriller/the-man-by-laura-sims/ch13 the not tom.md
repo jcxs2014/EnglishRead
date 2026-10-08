@@ -62,7 +62,7 @@ Tom 看 contact sheets 后说"just as good as the ones in Life"——Judith 对�
 - **厨房作为临界空间**：洗碗、水池、窗玻璃——这些意象将日常女性劳作与自我观察结合。厨房是 Judith 的"岗位"，而她在这里被自己的倒影所震惊。
 - **相机作为防御/暴露工具**：Nikon 在 Judith 手中既是自我客体化的手段（拍橱窗倒影），也是面对威胁时的潜在武器——但她没有真的举起它，恐惧阻止了她。
 
-## 词汇
+## 本章词汇
 
 - **piccata**：意式柠檬蒜香煎鸡排，Tom 的"favorite"——Judith 选择这道菜是出于义务而非热情
 - **dispersed**：Fog 无法被驱散——Tom 的 compliment 无法穿透 Judith 心中的阴霾
@@ -70,6 +70,18 @@ Tom 看 contact sheets 后说"just as good as the ones in Life"——Judith 对�
 - **startled**：倒影中的表情是"startled"——她没有预料到自己看起来如此痛苦
 - **pathet**ic：这个词将她客体化——她看见的是一个"可怜的女人"，仿佛是别人
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 章节位置
 
+## 一句话总结
+
+（本章暂无总结）
+
 前有 ch12（待核），后接 ch14（待核）。本章是全书中**被监视感最直接**的一章——The man 从背景走向前景，从"可能在附近"变成"可能就在我身后"。Tom 的在场非但没有提供安全感，反而衬托出 Judith 真正恐惧的对象不是丈夫。
+
+## 一句话总结
+
+（本章暂无总结）

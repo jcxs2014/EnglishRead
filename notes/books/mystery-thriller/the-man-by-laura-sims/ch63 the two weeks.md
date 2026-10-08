@@ -14,6 +14,9 @@
 
 ---
 
+
+## 本章词汇
+
 ## 精读
 
 ### 精读块 1：荣耀之后的裂痕
@@ -26,7 +29,7 @@
 
 **句子结构**：第一段是简单过去时的叙事流：靠/点/思绪飘过/见到/看到/签下。五个动作一气呵成，节奏轻快，呈现 Paul 当天的成就感。第二段是独句——对比性的重击，两个短语并列，把第一段的成就感全部推翻。
 
-**词汇/表达**：
+**关键词：**
 - ** CONSULTING CURATOR in all caps**：全大写的"咨询策展人"——职业身份的标签化，Paul 引以为傲的头衔
 - **In all caps like**：Paul 的意识流把合同文字与匿名信的全大写指控并置——讽刺，前者是他的荣耀，后者是他的噩梦
 - **FUCKING PARASITE**：去你妈的寄生虫——暴力语言，与上一行优雅的职业头衔形成刺目的对比
@@ -45,7 +48,7 @@
 
 **句子结构**：第一段是 Paul 的内心独白：承认匿名信的逻辑有一部分是对的（"things are working out for him because she died"），然后用一整段假设句展示 Judith 活着的情况下他的位置：顶多一个脚注。第二段 Paul 自我重构：虽然不是伟大摄影师，但可以成为"识别天才的人"。最后一句是 Paul 的社会性自我安慰：大多数人不会同意写信人。
 
-**词汇/表达**：
+**关键词：**
 - **fixates on**：专注于——Paul 的思维反刍模式，被负面想法抓住
 - **the next best thing**：次好的——Paul 退而求其次的人生哲学：他接受了自己成不了伟大摄影师，但要做"识别伟大的人"
 - **ferried it deftly into the world**：巧妙地将它带入世界——策展人的定义，Paul 把它包装成一种贡献行为
@@ -62,7 +65,7 @@
 
 **句子结构**：三个短句建立节奏：吐烟/愿景瓦解/城市回来——然后是一个长句描写流浪汉与 Paul 的想法，最后是一句自我肯定。"Judith had her talent; he has his own—and yes, she's gone, but he's still alive" 是全章的情感锚点：Paul 用"她死了但我还活着"来为自己的存在辩护。
 
-**词汇/表达**：
+**关键词：**
 - **the vision slowly disintegrates**：愿景慢慢瓦解——Paul 的自我安慰失败，城市（现实）回来打断他
 - **made him into something magnificent**：把他变成某种伟大的东西——Judith 的摄影观：把普通人的尊严拍出来
 - **generous and unenvious**：慷慨而不嫉妒——Paul 刻意强调自己没有嫉妒心，但这种自我描述本身就暗示了嫉妒的可能性
@@ -85,7 +88,7 @@
 
 **句子结构**：第一段是酒吧体验（逃避与落空），"the unwanted phrase"像唱片跳针一样 repeat/repeat。第二段 Paul 进入地铁，城市变成地狱般的人物画廊。三个视觉意象（疤痕男人/织毛线女人/瘦弱双胞胎）以纪录片式的方式呈现。最后一句是 Paul 的顿悟：这不是地狱，只是城市——但他刚从 Doven Gallery 回来，那短暂的"paradise"让一切显得更可怕。
 
-**词汇/表达**：
+**关键词：**
 - **rain check**：改天吧——女孩的礼貌拒绝，但给了号码，Paul 有一线希望
 - **the unwanted phrase pops into his head and repeats, repeats**：不想听的话在脑海中跳出，重复，重复——跳针式思维，被困在负面想法中
 - **trail him down the subway stairs**：跟着他下地铁——"trail"暗示像跟踪者一样
@@ -104,7 +107,7 @@
 
 **句子结构**：三个"but"并列（但没有直接上楼/但走向邮箱/但分不清），Paul 的意志力在每一步都失败。最后一句简洁：找到第二封信。"quickening pulse" 揭示 Paul 知道可能会有更多匿名信——他在期待（虽然不承认）。
 
-**词汇/表达**：
+**关键词：**
 - **quickening pulse**：加速的心跳——Paul 害怕又期待的心理
 - **block letters**：印刷体——与第一封信相同的书写方式，引发 Paul 的怀疑
 - **yellow legal pad paper**：黄纸 legal pad——廉价纸张，与写信人的身份（愤怒的普通人）一致
@@ -121,7 +124,7 @@
 
 **句子结构**：连续质问，三个层次：照片是谁拍的？ Judith 存在吗？这是新闻吗？最后两句揭示写信人的真实情绪：不在乎 Judith 本人，只在乎恨她的类型。"Glad she's dead" 与第一封信的结尾完全相同。
 
-**词汇/表达**：
+**关键词：**
 - **Did that bitch really take those pictures or did you take them?**：那个婊子真的拍了那些照片还是你拍的？——比第一封信更直接的攻击：不仅指控 Paul 是寄生虫，还质疑 Judith 是否真实存在
 - **Is there really even a Judith Stanley or did you make her up to make money?**：真的有个 Judith Stanley 吗，还是你编出来骗钱的？——比第一封信更深层的怀疑：Paul 创造了一个不存在的人
 - **I watch a lot of television and I never saw a news story about a Jersey housewife getting killed**：我看很多电视节目，从没见过新闻报道——写信人用媒体验证现实，"Jersey housewife"是对 Judith 身份的贬低性简化
@@ -139,7 +142,7 @@
 
 **句子结构**：第一句是 Paul 的情绪反应（chill）。第二句是理性分析（echoes/could be same writer）。第三句是 Paul 的直觉判断（instincts tell him no）。第四句是物理证据比较，结果是不确定。Sims 用精确的笔迹描述（"slants slightly to the left"/"nearly perfectly vertical"）来呈现 Paul 试图用物理证据解决心理困境的努力。
 
-**词汇/表达**：
+**关键词：**
 - **half-witted, delusional**：半愚昧的、妄想狂的——Paul 对写信人的诊断，试图贬低他们的可信度
 - **goading**：刺激；激怒——Paul 意识到有人在故意激怒他
 - **flit back and forth between them**：在两者之间来回跳动——Paul 的目光，也是他的思绪
@@ -157,7 +160,7 @@
 
 **句子结构**：两个"But"开头的转折句：第一个"But who cares?"是自我否定（否定匿名信的重要性）。第二个"But he does require sleep"是承认身体需求。最后一句揭示"two weeks"假期的结束——他必须回到常规教师生活。注意 Paul 对自己说"he isn't required to open them"——这是一个法律/义务的语言，他把这个心理负担转化为一种选项。
 
-**词汇/表达**：
+**关键词：**
 - **who cares?**：谁在乎？——Paul 的核心自我防御机制
 - **one of the best days of his life**：他人生中最好的日子之一——Doven 合同的意义，被匿名信污染后仍然成立
 - **unhinged**：精神失常的；疯狂的——Paul 对写信人的诊断
@@ -173,7 +176,6 @@
 | 词汇 | 音标 | 词性 | 释义 | 例句（原文） |
 |------|------|------|------|-------------|
 | **reverie** | /ˈrevəri/ | n. | 白日梦；幻想 | He forgets the glory of the day and fixates on the letter again—especially the accusation that he's "glad she's dead." |
-| **ferry** | /ˈferi/ | v. | 摆渡；运送 | he'll be the next best thing: the one who recognized genius and ferried it deftly into the world |
 | **hobo** | /ˈhoʊboʊ/ | n. | 流浪汉 | A hobo walks by, dragging behind him a cart stuffed with paper bags and old electronics |
 | **unenvious** | /ʌnˈenviəs/ | adj. | 不嫉妒的；无羡慕的 | He lets the fleeting joy of this thought swell inside of him, generous and unenvious |
 | **rain check** | /reɪn tʃek/ | n. | 改天再说；延期承诺 | she says she has plans and slides him her number for a "rain check" |
@@ -181,7 +183,7 @@
 | **sway** | /sweɪ/ | v. | 摇晃；摇摆 | Standing and swaying in the train car |
 | **flaunt** | /flɔːnt/ | v. | 炫耀；夸耀 | it's just the city, flaunting its mundane horrors |
 | **goad** | /ɡoʊd/ | v. | 刺激；激怒 | trying a new way of goading Paul |
-| **unhinged** | /ʌnˈhɪndʒd/ | adj. | 精神失常的；疯狂的 | what an ex-con and an angry woman wrote in their unhinged letters |
+| **unhinged** | /ʌnˈhɪndʒd/ | adj. | 精神失常的；疯狂的 | No one will see these letters but him—and he isn't required to open them! But it doesn't matter what an ex-con and an angry woman wrote in their unhinged letters |
 
 ---
 
@@ -209,9 +211,21 @@
 
 ## 读者提示
 
+## 一句话总结
+
+（本章暂无总结）
+
 **关键阅读点**：本章的核心是 Paul 的心理防御机制（否认、理性化、"who cares?"）与他无法真正逃脱的内心困扰之间的张力。注意 Sims 如何用"repeat, repeats"和"slants slightly to the left; the other is nearly perfectly vertical"这样的精确细节来呈现 Paul 的思维被卡住的状态——他在脑海中重复同样的短语，同时试图用精确的笔迹分析来获得控制感，但两者都失败了。
+
+## 一句话总结
+
+（本章暂无总结）
 
 **语言亮点**：
 - "In all caps like: FUCKING PARASITE."——全大写的并置：合同文字与污言秽语并列，讽刺效果强烈
 - "Paul thinks he may have entered some kind of hell, after having lived in paradise briefly. But it isn't hell, of course, it's just the city"——城市即地狱，但 Paul 需要一个参照系（Doven Gallery 的成功）才能意识到这一点
 - "He isn't required to open them!"——Paul 用义务语言来处理情感困境，荒唐而悲哀
+
+## 一句话总结
+
+（本章暂无总结）

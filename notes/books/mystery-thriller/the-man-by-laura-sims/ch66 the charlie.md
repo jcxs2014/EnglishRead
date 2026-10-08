@@ -14,6 +14,7 @@
 
 ---
 
+
 ## 精读
 
 ### 精读块 1：工作被打断
@@ -24,7 +25,7 @@
 
 **句子结构**："Paul is so in the flow of writing" 是主句，so...that 结构暗示他的专注程度。"that when the telephone rings he lets it go for a while" 是结果状语从句。"hearing the sound but not responding until he thinks, Jahan." 是现在分词短语作状语，说明他没有立刻接的原因。最后 "It could be Jahan." 是内心独白。"It's 11 a.m. and the gallery is open; Jahan might have a question, or he might be checking in." 是 Paul 的推断和自我安慰。"Paul strides over to the armchair and grabs the receiver." 是肢体动作，与他的内心焦虑形成对比——表面镇定。
 
-**词汇/表达**：
+**关键词：**
 - **in the flow of writing**：沉浸在写作的节奏中——暗示 Paul 在写 catalog introduction（见章末），他正在正常工作
 - **let it go for a while**：让它响了一会儿——Paul 的疏忽或分心
 - **It could be Jahan**：可能是 Jahan——Paul 找了一个合理的解释来让自己接电话
@@ -46,7 +47,7 @@
 
 **句子结构**："Silence on the other end." 是名词短语，独立成句，模拟 Paul 面对的沉默。"as if Jahan would call and say nothing" 是方式状语从句，暗示 Paul 对 Jahan 的信任（觉得 Jahan 不会无聊到打恶作剧电话）。"Paul listens deeply, pressing the telephone against his ear" 是主句动作。"and begins to hear the sound of light breathing." 是听觉发现。"It reminds him of standing alone in the parking lot last night..." 是回忆连接——这个电话触发了他对 Judith 被跟踪那段时期的联想。"He felt foolish and scared; he refuses to feel the same way..." 是情绪对比。"But he does think of Judith—of what she endured." 是承认——他无法不想起 Judith。"Calls like this—but worse—" 是插入，暗示 Judith 收到过类似电话。"as her stalker pressed closer, boding bad things to come." 是过去完成时，描述 Judith 当时的处境。
 
-**词汇/表达**：
+**关键词：**
 - **listens deeply**：屏息凝神地听——"deeply"暗示听觉的专注程度
 - **pressing the telephone against his ear**：把电话紧紧按在耳边——肢体动作显示紧张
 - **the sound of light breathing**：轻微的呼吸声——恶作剧电话的经典元素
@@ -71,7 +72,7 @@
 
 **句子结构**："I'm hanging up," he says firmly, but he doesn't" 是言语与行为的矛盾——Paul 威胁要挂断却没有挂。"the hand pressing the receiver to his ear shakes slightly" 是身体语言泄露内心恐惧。"He listens hard, trying to discern if the breathing he hears is male or female." 是认知努力。"He thinks…female, but how can he possibly tell?" 是自我质疑。"He's thinking of Charlie, that's why" 是答案揭示。"however incongruous it is to imagine a girl like her..." 是让步状语从句。"He can see her penning a cruel letter or two more easily than he can imagine her doing this." 是比较结构——Paul 觉得 Charlie 写信更符合她形象，但打电话"不太像她"。
 
-**词汇/表达**：
+**关键词：**
 - **firmly**：坚定地——Paul 试图表现得强硬
 - **the hand pressing the receiver to his ear shakes slightly**：手握着话筒微微颤抖——身体背叛了言语
 - **discern if the breathing he hears is male or female**：分辨呼吸声是男是女——荒谬的企图
@@ -91,7 +92,7 @@
 
 **句子结构**："Hey. You need to cut this shit out" 是命令句，Paul 的愤怒爆发。"he says at last" 暗示他犹豫了很久才开口。"hearing a little gasp, or intake of breath—or was it a swallowed laugh?" 是听觉感知的模糊性——Paul 无法确定听到了什么。"Paul slams the receiver down" 是肢体动作，暴力性的。"and stares at the phone, waiting for it to ring again." 是心理期待——尽管刚被骚扰，Paul 仍然渴望再接到电话（想对质）。"It doesn't." 是现实——没有再次响起。
 
-**词汇/表达**：
+**关键词：**
 - **cut this shit out**：停下——粗鲁的命令，Paul 的愤怒
 - **a little gasp, or intake of breath—or was it a swallowed laugh?**：一声轻轻的喘息，或呼吸声——或者那是一声被咽下去的笑？——听觉的模糊性，Paul 的不确定
 - **slams the receiver down**：猛地挂断——暴力性的肢体语言
@@ -109,7 +110,7 @@
 
 **句子结构**："As the minutes pass" 是时间状语。"Paul stands smoking at the window, turning to stare at the telephone more often than he'd like." 是主要动作和心理。"He wants another chance with the caller" 是欲望。"maybe it was Charlie?" 是可能性。"Maybe she and her friends were grouped around the phone..." 是 Paul 的想象重建。"listening to Paul panic and curse" 是她们的行为。"when one of them let a single syllable of laughter escape." 是意外泄露。"He can see it:" 是视觉想象的引入。"those gorgeous girls from class sitting cross-legged on a shaggy bedroom carpet" 是画面。"pressing their heads together to hear, pressing their hands to their mouths, eyes bulging with merriment." 是细节描写。"Charlie wouldn't do it alone, but she might do it with friends." 是判断。"And she would be the leader, the one passionate enough about Judith's work to fuck with him." 是 Charlie 的定性。"The others were just—" 是句子未完成，暗示 Paul 不想说或不知道其他人是什么。
 
-**词汇/表达**：
+**关键词：**
 - **more often than he'd like**：比他愿意承认的更频繁——Paul 的自我意识
 - **grouped around the phone**：围在电话旁——集体行为
 - **let a single syllable of laughter escape**：不小心漏出了一个音节的笑声——细节暴露
@@ -148,7 +149,7 @@
 
 **句子结构**："The telephone rings." 独立成句，制造悬念。"There's a pause; Paul can hear muffled background noise, but no laughter." 是听觉描述，没有笑声是重要细节。"The noise of a busy workplace carrying on beyond a closed door." 是环境描写。"He's instantly relieved." 是 Paul 的情绪反应。"Professor Paul Sorenson?" 是确认身份。"Yes, speaking." 是确认。"This is Detective Grant Schuyler of the Harrington Police Department." 是自我介绍。"We questioned you not long ago in relation to the Judith Stanley murder?" 是案件关联。
 
-**词汇/表达**：
+**关键词：**
 - **brusquely**：简短地——Paul 对可能的骚扰者采取的冷淡态度
 - **muffled background noise**：模糊的背景噪音——与之前的家庭环境不同
 - **no laughter**：没有笑声——重要细节，Paul 意识到这不是 Charlie
@@ -167,7 +168,7 @@
 
 **句子结构**："Paul's relief vanishes; his stomach twists." 是情绪急转。"Y-yes," Paul stammers." 是言语卡顿，身体反应。"As if he could forget the small gray interrogation room..." 是否定式类比，暗示他无法忘记。"Not held him, really, but it felt as if he were being held." 是语义澄清——Paul 知道技术上不是"关押"，但主观感受是被关押。"He was so nervous he thought he might crap his pants at any moment" 是过去时的极度紧张。"and everything he said sounded suspicious even to his own ears." 是自我怀疑。"But this isn't the officer who questioned him." 是现在时的确认。"He can't remember that officer's name, but he remembers the voice" 是记忆细节。"higher pitched than this Detective Schuyler's." 是声音比较。"He's somewhat relieved that it's a different person." 是情绪。"But why should he be?" 是自我质疑的结尾。
 
-**词汇/表达**：
+**关键词：**
 - **relief vanishes**：轻松消失——情绪转折
 - **his stomach twists**：胃在翻绞——躯体化焦虑
 - **stammers**：结结巴巴——言语失控
@@ -183,13 +184,13 @@
 
 ### 精读块 8：新角度
 
-> "As you probably know, the case remains unsolved." Paul tries to say yes, but it comes out a flippant-sounding Yeah. "Well, I've taken over, and I'm starting from scratch. Reviewing suspects, paperwork, photographs, everything. Looking at some new angles here, too, and I'd appreciate you coming by the station this week to answer some questions."
+> **原句 1:** "As you probably know, the case remains unsolved." Paul tries to say yes, but it comes out a flippant-sounding Yeah. "Well, I've taken over, and I'm starting from scratch. Reviewing suspects, paperwork, photographs, everything. Looking at some new angles here, too, and I'd appreciate you coming by the station this week to answer some questions."
 
 **中文理解**："你可能知道，这个案子还没有解决。"Paul 想说"是的"，但出口变成了听起来很轻浮的"Yeah"。"嗯，我接管了，从头开始。审查嫌疑人、书面材料、照片，一切。也在看一些新的角度，我希望你这周能来警局回答一些问题。"
 
 **句子结构**："As you probably know, the case remains unsolved." 是陈述。"Paul tries to say yes, but it comes out a flippant-sounding Yeah." 是言语失误，Paul 的失控。"Well, I've taken over" 是自我介绍。"and I'm starting from scratch." 是方法声明。"Reviewing suspects, paperwork, photographs, everything." 是行动清单。"Looking at some new angles here, too" 是关键短语——"new angles"暗示之前的调查可能有遗漏。"and I'd appreciate you coming by the station this week to answer some questions." 是请求。
 
-**词汇/表达**：
+**关键词：**
 - **the case remains unsolved**：案子还没有解决——悬而未决
 - **flippant-sounding Yeah**：听起来轻浮的"Yeah"——Paul 的言语失误，可能让 Detective 觉得他不认真
 - **starting from scratch**：从头开始——全面的重新审查
@@ -208,7 +209,7 @@
 
 **句子结构**："Paul swallows." 是身体动作。"New angles." 是内心重复。"What 'new angles' might those be?" 是核心问题。"Did Schuyler learn of Paul's near-arrest..." 是可能性的推理。"and think it worthwhile to reconsider 'the professor' as a suspect again?" 是推理的终点。"But there was no record of the near-arrest" 是安慰。"because it wasn't a full arrest" 是解释。"he doubts the officer would remember his name." 是概率判断。"He doesn't remember the officer's" 是自我揭示。"and it certainly wasn't Schuyler." 是确认。"All he remembers is Harvey" 是唯一清晰的记忆。"the ridiculous, red-faced manager who chased him out of the store." 是对 Harvey 的描述。
 
-**词汇/表达**：
+**关键词：**
 - **New angles**：新角度——核心焦虑
 - **near-arrest for grocery store theft**：杂货店盗窃未遂——Paul 的另一项涉嫌行为
 - **there was no record of the near-arrest**：near-arrest 没有记录——Paul 的安慰
@@ -222,7 +223,7 @@
 
 ### 精读块 10：答应问话
 
-> "Of course, Detective. I'd be happy to come by," Paul says, trying to sound relaxed, though he's grateful the detective can't see how hard he's gripping the receiver. "How's tomorrow morning?"
+> **原句 2:** "Of course, Detective. I'd be happy to come by," Paul says, trying to sound relaxed, though he's grateful the detective can't see how hard he's gripping the receiver. "How's tomorrow morning?"
 
 "Excellent. Nine thirty all right with you?"
 
@@ -236,7 +237,7 @@
 
 **句子结构**："Of course, Detective." 是礼貌的肯定。"I'd be happy to come by" 是过度礼貌的表达。"trying to sound relaxed" 是 Paul 的表演。"though he's grateful the detective can't see how hard he's gripping the receiver." 是自我揭示——他的身体语言与言语不符。"How's tomorrow morning?" 是 Paul 的主动提议，想尽快结束。"Excellent. Nine thirty all right with you?" 是 Detective 的接受。"Yes, that's fine" 是 Paul 的无奈接受。"because what else can he say?" 是内心独白。"When they hang up" 是结束。"Paul reaches for a nearby glass." 是肢体反应。"It hasn't been washed, but it will have to do." 是对环境的描述。"He pours whiskey in it almost to the rim" 是量的描述。"and swallows it in two gulps." 是速度描写。"It doesn't even begin to help, at least not immediately." 是结果评估。
 
-**词汇/表达**：
+**关键词：**
 - **trying to sound relaxed**：试图听起来很轻松——Paul 的表演
 - **how hard he's gripping the receiver**：他握着话筒的手有多用力——身体背叛言语
 - **what else can he say?**：除此之外他还能说什么？——无奈
@@ -257,7 +258,7 @@
 
 **句子结构**："What the hell?" 是内心感叹。"Schuyler didn't sound like he was winding up for an interrogation" 是 Paul 的观察。"but you never could tell." 是不可知论。"He might have played it like that on the phone" 是可能性。"sounding polite and mild" 是表面行为。"but then Paul could arrive at the station tomorrow" 是时间跳跃。"and find himself in handcuffs." 是最终恐惧。
 
-**词汇/表达**：
+**关键词：**
 - **What the hell?**：搞什么？——挫败感
 - **winding up for an interrogation**：收网审讯——比喻侦探即将采取行动
 - **you never could tell**：谁也说不准——不确定性
@@ -275,7 +276,7 @@
 
 **句子结构**："You didn't kill her, though, Paul reminds himself with surprised relief" 是核心自我辩护。"the call briefly made him forget his own innocence" 是分析。"not that innocence always matters." 是悲观修正。"He wonders if Tom Stanley has anything to do with this" 是推理方向一。"but Tom distrusts the Harrington PD more than he does Paul." 是反驳。"It's possible the detective saw the Harper's issue" 是推理方向二。"or one of Paul's interviews" 是补充。"Here's a man who's profiting nicely from Judith Stanley's death" 是 Detecting 的可能想法。"and thought to bring him in." 是行动。"Or what if his harasser sent one of her pithy anonymous notes?" 是推理方向三。"You should take another look at Paul Sorenson, that vile worm." 是匿名纸条的模拟内容。"He directs a surge of helpless rage at Charlie" 是情绪转移。"and latches on to her image" 是聚焦。"as he sits, mind and stomach roiling" 是躯体化焦虑。"staring toward the table where he sat not long ago, peacefully working on his catalog introduction." 是时间对比。
 
-**词汇/表达**：
+**关键词：**
 - **You didn't kill her, though**：但你没有杀她——Paul 的核心自我辩护
 - **with surprised relief**：带着惊讶的宽慰——Paul 惊讶于自己需要提醒自己这件事
 - **not that innocence always matters**：不是说清白总是有用——悲观主义
@@ -313,7 +314,7 @@
 
 ---
 
-## 词汇
+## 本章词汇
 
 - **in the flow of writing**：沉浸在写作中——Paul 表面的正常工作
 - **listens deeply / pressing the telephone against his ear**：屏息凝神地听 / 把电话紧紧按在耳边——听觉的专注和身体紧张
@@ -330,10 +331,26 @@
 
 Paul 在家收到一个无声骚扰电话（疑似 Charlie 所为），随后 Detective Schuyler 来电——他接管了 Judith Stanley 谋杀案，要 Paul 明早去警局接受问话。Paul 的表面反应是配合（"Of course, Detective"），但内心充满恐惧与自我辩护：他对 Detective 的"新角度"感到焦虑，猜测可能是自己的 near-arrest（商店盗窃）或从 Judith 死中获利的采访被翻出来。他喝酒（"It doesn't even begin to help"）并用"你没有杀她"来安慰自己，但"不是说清白总是有用"又暴露了更深层的悲观。"mind and stomach roiling"的状态与章末 Paul 盯着"不久之前还在平静工作"的桌子的画面形成对照——过去的正常已成过去。
 
+## 一句话总结
+
+（本章暂无总结）
+
 ---
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 关键引语
+
+## 一句话总结
+
+（本章暂无总结）
 
 1. "You didn't kill her, though... not that innocence always matters."（核心自我辩护的双刃剑）
 2. "Here's a man who's profiting nicely from Judith Stanley's death."（Paul 对 Detective 可能推理的内疚预感）
 3. "He directs a surge of helpless rage at Charlie and latches on to her image as he sits, mind and stomach roiling."（情绪转移与躯体化焦虑）
+
+## 一句话总结
+
+（本章暂无总结）

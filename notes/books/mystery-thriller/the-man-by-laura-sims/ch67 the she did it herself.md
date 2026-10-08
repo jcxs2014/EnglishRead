@@ -14,6 +14,9 @@
 
 ---
 
+
+## 本章词汇
+
 ## 精读
 
 ### 精读块 1：不是审讯室——是办公室
@@ -24,7 +27,7 @@
 
 **句子结构**："not to an interrogation room"是 Paul 的第一个安慰——他被带进的是"办公室"，不是"审讯室"，他把这解读为对他有利的信号。"He takes this as a good sign"是 Paul's 的自我安慰倾向：他把任何中性事件都解读为对他有利的信号。"until he meets the detective's penetrating gaze"中"penetrating"是 Schuyler 的眼神特征：它能穿透。"suffer his brief but crushing handshake"中"crushing"既指握手力度，也隐喻 Paul 被压垮的心理状态。"If he'd faced Schuyler right after Judith's death, he might have confessed despite his innocence"是 Paul's 的内心坦白：他知道自己可能认罪，即使他是无辜的——这说明 Paul 心里有鬼，他不是表面上那么无辜。"rabbity heartbeat"是 Paul's 的恐惧心理：他的心跳像兔子一样快，表明他极度紧张。
 
-**词汇/表达**：
+**关键词：**
 - **penetrating gaze**：洞穿一切的目光——Schuyler 的标志性特征，能看穿 Paul
 - **crushing handshake**：令人窒息的握手——既指物理力度，也暗示 Paul 被压制的感觉
 - **rabbity heartbeat**：兔子般的心跳——Paul 的恐惧；他像猎物一样害怕被捕食者
@@ -41,7 +44,7 @@
 
 **句子结构**："slides it across the desk"是 Schuyler 的动作：把证据"滑"过来——不是郑重地"递"，是随意地"滑"，但内容是沉重的。"Ancient history"是 Paul's 的第一反应：这是古老的、与当前无关的事。"A high school portrait, Paul notices first. Judith, he notices next."是 Paul's 的观察顺序：先看到照片类型，再认出是 Judith——他是以"审美/类型"的角度切入，再过渡到"身份"。这个顺序揭示了 Paul's 的心理距离：他看 Judith 的照片时，首先看到的是"一张照片"，其次才是一个人。
 
-**词汇/表达**：
+**关键词：**
 - **yellowed paper**：泛黄的纸——时间的痕迹；1934年的文章意味着这是 50 多年前的事
 - **slides it across the desk**：滑过桌面——Schuyler 的随意动作，但内容是关键证据
 - **Ancient history**：古老的、与当前无关的事——Paul 对这件事的第一判断；他认为这与他无关
@@ -58,7 +61,7 @@
 
 **句子结构**："She was making herself an after-school snack"是日常生活的细节：一个普通的下午，Judith 在做普通的事，突然袭击发生了——这是典型的"无预警暴力"场景。"A large, middle-aged man"是袭击者的特征——不是年轻人，是中年男人，这个细节在后面的推理中可能有用。"harmed and disfigured her…chilling in its vagueness"是 Paul's 的反应：措辞太模糊了，让他感到不安。"Paul feels disgusted but curious"是 Paul's 的复杂反应：他既感到厌恶，又感到好奇——这是旁观者对他人创伤的好奇，不是真正的同情。"He saw no sign of disfigurement"是关键细节：Paul 只见过 Judith 的脸、脖子和手——他在评估 Judith 的身体时，首先是在寻找"毁容的证据"。
 
-**词汇/表达**：
+**关键词：**
 - **after-school snack**：课后点心——日常生活的细节，与暴力袭击形成对比
 - **harmed and disfigured her**：伤害并毁坏了她的容貌——官方措辞的冷漠；"disfigure"是关键词，暗示 Judith 的身体在某个地方被毁坏
 - **chilling in its vagueness**：措辞含糊得令人不寒而栗——Paul 对官方语言的本能反应
@@ -75,7 +78,7 @@
 
 **句子结构**："Does that track?"是 Schuyler 的第一个关键问题：他是在测试 Paul 对 Judith 的了解程度。"Does it make sense to you she would have kept this from her husband?"是 Schuyler 在建立 Judith 隐瞒创伤的模式——她对 Tom 也隐瞒了这件事。"lightly enough, but Paul knows he's being asked a serious question"是 Paul's 对 Schuyler 话语层次的精确感知：Schuyler 的话听起来轻描淡写，但 Paul 知道它的分量。"one whose answer could have serious consequences for Tom"是 Paul's 对局势的评估：他的回答会影响 Tom 的嫌疑地位。"Is he back at the top of their list?"是 Paul's 的自我中心：他关心的是 Tom 是否又成为首要嫌疑人，而不是关心 Judith 的创伤或她为什么隐瞒。
 
-**词汇/表达**：
+**关键词：**
 - **Does that track?**：（这个说法）成立吗？——Schuyler 在测试 Paul 对 Judith 行为的理解
 - **lightly enough**：语气足够轻——Schuyler 表面轻松，实际上是在下套
 - **former prime suspect**：前主要嫌疑人——Paul 对 Tom 的定位；Paul 知道 Tom 曾经是嫌疑人
@@ -92,7 +95,7 @@
 
 **句子结构**："I don't really know"是 Paul's 的谨慎——他不想演过头。"not wanting to overplay it"是 Paul's 的自我意识：他知道自己可能在演戏，他不想被人看穿。"I can't imagine he'd be the type of man who'd appreciate knowing…that about his wife"是 Paul's 的暗示性描述：Tom 是那种不能接受妻子有被侵犯历史的男人。这句话既是在贬低 Tom（强化 Tom 作为施害者的形象），也是在为自己开脱（如果 Tom 不能接受 Judith 的过去，那 Judith 隐瞒这件事也是"合理的"）。"shrugging as he delivers this suggestive last line"是 Paul's 的肢体语言：耸肩表示他不在乎，但实际上他的话正在把 Tom 推向嫌疑人的位置。
 
-**词汇/表达**：
+**关键词：**
 - **overplay it**：演过头——Paul 意识到自己可能在表演，他想控制表演的分寸
 - **the type of man who'd appreciate knowing**：那种会想知道……的男人——Paul 对 Tom 的贬低性描述；暗示 Tom 是传统、大男子主义的男人
 - **suggestive last line**：意味深长的最后一句话——Paul 在暗示 Tom 可能对 Judith 使用暴力
@@ -109,7 +112,7 @@
 
 **句子结构**："It's sad, and strange, isn't it?"是 Schuyler 的陷阱：他先说"婚姻"让 Paul 以为他在谈 Tom，然后突然转到 Judith 的受害史。"To go through something like this as a kid, and then to go through a similar experience again, some thirty years later"是 Schuyler 在建立平行结构：1934年的袭击与1980年代的"袭击"（死亡）——同样的模式。"And die, Paul adds"是 Paul's 的无意间插话：他在 Schuyler 建立的平行结构里加上了"死亡"，这本身没有问题，但 Paul's 清了清嗓子——他意识到自己说得太多了。"Why did I mention her dying?"是 Paul's 事后的自我质疑：他不知道为什么自己要提 Judith 的死。
 
-**词汇/表达**：
+**关键词：**
 - **sad, and strange**：悲伤，也很奇怪——Schuyler 的关键词；他喜欢用"strange"来描述 Judith 的案子
 - **a similar experience again, some thirty years later**：大约三十年后再次经历类似的事情——Schuyler 在建立1934年与当前案件的平行关系
 
@@ -131,13 +134,13 @@
 
 ### 精读块 8：Schuyler 的最终暗示
 
-> "Do you think a person's photographs can reveal their state of mind?" "Absolutely." Paul nods energetically, slipping right into professor mode. "They can reveal the photographer's background, his perspective on life, his hopes and fears—and yes, his state of mind, too. Or hers," he adds, giving Schuyler a significant look. "So you see all of that in Judith's work?" "I do. All that and more…What she didn't want to see, the mirror saw for her, the pond saw for her, and so on." "Why do you think she changed her mind?" "I don't really know."
+> **原句 1:** "Do you think a person's photographs can reveal their state of mind?" "Absolutely." Paul nods energetically, slipping right into professor mode. "They can reveal the photographer's background, his perspective on life, his hopes and fears—and yes, his state of mind, too. Or hers," he adds, giving Schuyler a significant look. "So you see all of that in Judith's work?" "I do. All that and more…What she didn't want to see, the mirror saw for her, the pond saw for her, and so on." "Why do you think she changed her mind?" "I don't really know."
 
 **中文理解**："你觉得一个人的照片能揭示他的心理状态吗？""当然。"Paul 精力充沛地点了点头，直接滑入了教授模式。"它们能揭示摄影师的背景、他的人生观、他的希望和恐惧——是的，还有他的心理状态。或者说她的，"他补充道，给了 Schuyler 一个意味深长的眼神。"那么你在 Judith 的作品里看到了所有这些？""是的。所有这些，甚至更多……她不想看到的，镜子替她看了，池塘替她看了，等等。""你觉得她为什么改变了主意？""我真的不知道。"
 
 **句子结构**："Professor mode"是 Paul's 的舒适区：他用学术语言来描述 Judith 的作品，把自己放在一个安全的"学者"位置上。"What she didn't want to see, the mirror saw for her, the pond saw for her"是 Paul's 对 Judith 作品的学术化解读：她不想直视自己的创伤，但她的自拍像让她看到了。这段解读在上下文中变得恐怖：如果 Judith 的照片是她在"看"自己不想看的东西——那她最后是不是在照片里"看到"了什么，导致她决定自己结束这一切？"I don't really know"是 Paul's 的诚实：他现在真的不知道 Judith 为什么改变了对出版物的态度。
 
-**词汇/表达**：
+**关键词：**
 - **professor mode**：教授模式——Paul 的舒适区；他用学术语言来建立安全感
 - **What she didn't want to see, the mirror saw for her**：她不想看到的，镜子替她看了——Paul 对 Judith 作品的解读；语境变化后这句话变得恐怖
 - **Or hers**：或者说她的——Paul 给 Schuyler 的"significant look"；他在试图显得性别敏感，但这个"hers"变成了 Schuyler 的把柄
@@ -148,13 +151,13 @@
 
 ### 精读块 9："那张屠夫店橱窗里的照片"
 
-> "I was struck by the picture in the butcher shop window." Paul nods, preparing himself to lecture on the striking photograph Harper's chose as the cover for their issue, but Schuyler continues. "It's odd, isn't it? To take a picture of yourself with all those hanging sides of beef, and then a few days later, you end up dead? It seems…" He searches for the word, looking at Paul. "Tragic?" Paul offers. "No. Purposeful," he says bluntly. "Meaningful."
+> **原句 2:** "I was struck by the picture in the butcher shop window." Paul nods, preparing himself to lecture on the striking photograph Harper's chose as the cover for their issue, but Schuyler continues. "It's odd, isn't it? To take a picture of yourself with all those hanging sides of beef, and then a few days later, you end up dead? It seems…" He searches for the word, looking at Paul. "Tragic?" Paul offers. "No. Purposeful," he says bluntly. "Meaningful."
 
 **中文理解**："屠夫店橱窗里的那张照片让我印象深刻。"Paul 点头，准备讲一讲 Harper's 选作那一期封面的那张引人注目的照片，但 Schuyler 继续说道。"这很奇怪，不是吗？给自己拍一张照片，背景是那些挂着的牛肉片，然后几天后，你就死了？这似乎……"他找着词，看着 Paul。"悲剧？"Paul 提议。"不。有目的的，"他直言不讳地说。"有意义的。"
 
 **句子结构**："It seems…"是 Schuyler 的欲言又止——他让 Paul 自己填词。"Tragic?"是 Paul's 的自动建议：他认为 Judith 的死是一场悲剧。"No. Purposeful."是 Schuyler 的否定和重新定性：不是悲剧，是有目的的。这句话在全章的语境里变得极其恐怖——Schuyler 在说 Judith 的死不是随机的暴力，而是一场有计划、有目的的行动。Paul 正在逐渐理解 Schuyler 在暗示什么。
 
-**词汇/表达**：
+**关键词：**
 - **Purposeful**：有目的的——Schuyler 的关键词；不是"悲剧"，是"有目的"
 - **Meaningful**：有意义的——Schuyler 继续 Paul 的用词；Judith 的死是有意义的，不是随机的
 
@@ -170,7 +173,7 @@
 
 **句子结构**："She told her husband the man was in there, in every picture she took of herself"是 Judith 的核心妄想——或者 Schuyler 现在认为不是妄想，而是她计划的一部分。"And we didn't see a thing"是 Schuyler 和团队研究照片的结果：没有 stalker 的迹象。"Don't you find that strange?"是 Schuyler 的终极问题，他在等 Paul 自己说出来：没有 stalker，所以 Judith 说的"在每张照片里"是她自己构建的谎言。"Schuyler's favorite word"是 Paul 对 Schuyler 审讯风格的理解——他喜欢"strange"这个词。"This time, though, it rings in Paul's ears"是 Paul's 的意识转变：这一次，"strange"对他有了不同的意义。
 
-**词汇/表达**：
+**关键词：**
 - **the man was in there, in every picture she took of herself**：那个男人在她每一张自拍里——Judith 对 Tom 说的话；Schuyler 正在用它建立 Judith 可能在构建谎言的推理
 - **Schuyler's favorite word**：Schuyler 最喜欢的词——Paul 知道 Schuyler 喜欢用"strange"来描述这个案子
 - **it rings in Paul's ears**：它在 Paul 的耳边回响——Paul 终于开始理解 Schuyler 在说什么
@@ -187,7 +190,7 @@
 
 **句子结构**："Thank you for coming by, Professor"是 Schuyler 的礼貌结束语——但 Paul 知道这不是"感谢"，这是"审讯结束"。"It's been very helpful"是 Schuyler 的双关语：Paul 的回答对他有帮助，Paul 的存在本身对他有帮助（作为排除对象）。"He's able to light a cigarette—at last, and just barely—with his trembling hand"是 Paul's 的身体状态：颤抖的手、勉强点燃的烟——他在经历某种崩溃。"They think she did it himself"是 Paul's 的第一层理解：Schuyler 认为 Judith 是自己动手的（可能是自杀，或者自己导演了自己的死亡）。"My god, she did it herself"是 Paul's 的第二层理解：不是"她自杀了"，而是"她——作为策划者——自己动手了"。
 
-**词汇/表达**：
+**关键词：**
 - **at last, and just barely**：终于，勉勉强强——Paul 的状态：他终于出来了，但状态很差
 - **trembling hand**：颤抖的手——Paul 的恐惧；他终于理解了 Schuyler 在暗示什么
 - **she did it herself**：她是自己动手的——双关语；既可以指"自杀"，也可以指"自己策划并执行了自己的死亡"
@@ -198,10 +201,30 @@
 
 ## 章节总结
 
+## 一句话总结
+
+（本章暂无总结）
+
 **Schuyler 的审讯逻辑**：本章是 Schuyler 的一次精心设计的心理审讯。他没有直接说"我们认为 Judith 自杀"，而是通过一系列问题——关于1934年的袭击、关于婚姻、关于指纹证据、关于照片里的 stalker——把 Paul 引导到同一个结论。Schuyler 的核心问题是："她告诉丈夫 stalker 在每张照片里，但我们什么都没找到——你不觉得奇怪吗？"这个问题是整个审讯的 trap：Paul 最终理解 Schuyler 在暗示 Judith 可能是自导自演。
+
+## 一句话总结
+
+（本章暂无总结）
 
 **指纹证据的关键意义**：Schuyler 在 Paul 面前提到"只有 Judith 的指纹"——Paul 立刻用"凶手戴手套"来解释。但 Schuyler 的意图完全不同：如果 Judith 是自己导演了自己的死亡，那只有她的指纹就完全合理。Paul 的"戴手套"解释在 Schuyler 的逻辑里变成了另一个方向的证据：凶手根本不存在，所以指纹只有一个。
 
+## 一句话总结
+
+（本章暂无总结）
+
 **Paul 的崩溃**：全章结尾的"trembling hand"和"without any sense behind the words"是 Paul's 的心理崩溃。他一直以为自己在利用 Judith 的死亡赚钱，他一直以为自己是"策展顾问"，他一直以为真正的凶手在外面某个地方——现在他知道了：Judith 的死亡可能是一场她自己策划的表演，而 Paul 以为自己是主角，实际上他只是一个被利用的棋子。
 
+## 一句话总结
+
+（本章暂无总结）
+
 **"She Did It Herself"的双重含义**：标题的"she did it herself"可以理解为"她自己动了手"（自杀或自伤），也可以理解为"她自己是肇事者"——在这本书的语境里，两层含义都是真的。Judith 既是受害者（1934年的袭击），也是她1980年代死亡的策划者。Paul 以为自己在消费一具尸体，但实际上他一直在 Judith 的剧本里扮演一个角色。
+
+## 一句话总结
+
+（本章暂无总结）

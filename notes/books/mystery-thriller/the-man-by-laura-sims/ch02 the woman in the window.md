@@ -10,6 +10,7 @@
 
 ---
 
+
 ## 精读
 
 > **原句 1:** Professor Sorenson looks up from the handful of prints I've given him and studies me like he's seeing me for the first time: the quiet woman in his Introduction to Photography class.
@@ -108,7 +109,7 @@
 
 ---
 
-## 词汇
+## 本章词汇
 
 ### ⭐⭐⭐（高阶：描述性/文学性词汇）
 

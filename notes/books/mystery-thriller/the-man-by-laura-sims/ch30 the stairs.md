@@ -81,7 +81,7 @@ Paul 抓住 Judith 的手臂，她"nearly scream"：
 - **身体反应先行**：Judith 的逃离是本能的——"Every inch of me says flee"——在理性分析之前，她的身体已经做出反应。
 - **标题的双重含义**：地铁楼梯是逃离的通道，也是 Judith 内心状态的隐喻——她永远在向下、向外逃离。
 
-## 词汇
+## 本章词汇
 
 - **outcasts**：被遗弃者、边缘人——Laertes 摄影展的主角群体
 - **dark magnetism**：黑暗的吸引力——Judith 形容这些苦难影像的独特魅力
@@ -90,6 +90,18 @@ Paul 抓住 Judith 的手臂，她"nearly scream"：
 - **irresponsible / selfish**：不负责任的/自私的——Paul 用来攻击 Judith 的词语
 - **vibrating with anger**：因愤怒而颤抖——Judith 压抑的愤怒
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 章节位置
 
+## 一句话总结
+
+（本章暂无总结）
+
 前接 ch25（Judith 在家中将食物吐进餐巾），后接 ch31（待核）。本章是 Judith 与 Paul 关系的转折点——Paul 不再是支持性的导师形象，而是暴露出控制欲和侵犯性。Judith 在本章中明确拒绝了 Paul's 对她生活的干预，并将他的言行与跟踪者等同视之。"selfish fucking bitch"和"抓手臂"这两个元素将第一章的创伤与当下直接连接，表明 Judith 的恐惧并非无根据的过度反应。
+
+## 一句话总结
+
+（本章暂无总结）

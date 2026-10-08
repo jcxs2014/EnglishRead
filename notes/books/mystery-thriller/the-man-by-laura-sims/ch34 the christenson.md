@@ -90,7 +90,7 @@ Judith 想象自己变成 Tom 收藏的水晶装饰品：
 - **隐身的结构性**：Judith 多次强调自己是"隐形的"——"like I'm a picture on the wall"、"the detectives turn as if I've just appeared"——她的在场是被观看的对象，而非主动发声的主体
 - **暴力幻想的冷静**：她的杀人幻想冷静而有步骤（刀、软肋、下颌、血流），与警察的无能形成对比——她不需要他们，她有自己的解决方式
 
-## 词汇
+## 本章词汇
 
 - **resigned expressions**：警察的认命表情——这个词暗示他们见过太多类似的"浪费时间的案件"
 - **hold forth / pick at his hangnails**：Denby 高谈阔论 vs Christenson 紧张地抠指甲——一动一静的对比，构成警察两人组的滑稽素描
@@ -100,6 +100,18 @@ Judith 想象自己变成 Tom 收藏的水晶装饰品：
 - **burning satisfaction—a hunger**：暴力幻想带来的感受——burning 和 hunger 都是关于缺失和渴望的隐喻
 - **crystal figurines**：水晶装饰品——Judith 被期待成为被观看、被修复、永远不会真正独立的物品
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 章节位置
 
+## 一句话总结
+
+（本章暂无总结）
+
 前有 ch33（Judith 告诉 Tom 几乎一切），后接 ch35（待核）。本章是 Judith 与 Tom 关系的又一次裂变：Tom 在警察面前代表她发言，却将事实全部说错；她选择不纠正，也选择不交照片。警察的"stay home"建议让 Tom 与 Denby 站到了同一边——他们都希望她静止、沉默、被保护，而她内心燃烧的是另一种解决方案。
+
+## 一句话总结
+
+（本章暂无总结）

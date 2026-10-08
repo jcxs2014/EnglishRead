@@ -14,6 +14,9 @@
 
 ---
 
+
+## 本章词汇
+
 ## 精读
 
 ### 精读块 1：重逢与 foamy mug
@@ -24,7 +27,7 @@
 
 **句子结构**："foamy mug of beer"是酒吧场景的实体细节，Paul 迟到半小时但 Malcolm 已经等着了——暗示这次见面 Malcolm 是被求助者，不是社交性聚会。"scrolling through rolls of microfiche until his head was pounding"是 Paul 的努力：他花了一整天在图书馆地下室研究缩微胶卷，头都痛了——他确实在"做功课"。"It paid off, though"是 Paul's 的自我肯定：他的努力有了回报（找到了1934年的报道）。"Schuyler's story come alive"是关键词：Paul 把 Schuyler 昨天告诉他的事情当作"故事"——他不认为自己是受害者，他也不认为 Judith 是受害者，他把整个事件当作一个他需要破解的"故事"。"Judith's suffering vibrated through the words"是 Paul's 的文学性反应：他用"振动"来描述文字中的苦难，说明他以审美的方式处理 Judith 的创伤。"What an odd phrase to use about your granddaughter's molestation: It's a shame."是 Paul's 对 Judith 祖母的道德判断：他认为"It’s a shame"这个措辞太轻描淡写了，好像在说是 Judith 的错。"Paul starts to think it must be true—that this formative incident"是 Paul's 的理论：他开始认为 Judith 十六岁时的创伤导致了她后来的"妄想"。"flooding her vulnerable psyche"是 Paul's 的心理学语言：他用"脆弱的心理"来描述 Judith，这个词暗示他对 Judith 的同情——但同时他也在构建一个可以被展览消费的"受害者心理"叙事。
 
-**词汇/表达**：
+**关键词：**
 - **foamy mug of beer**：泡沫满满的啤酒杯——酒吧场景的实体细节，Paul 迟到而 Malcolm 已在等待
 - **scrolling through rolls of microfiche**：滚动缩微胶卷——Paul 花了一整天研究旧报纸
 - **Judith's suffering vibrated through the words**：Judith 的苦难从文字中振动出来——Paul 的审美化反应；他用文学语言处理创伤
@@ -43,7 +46,7 @@
 
 **句子结构**："simply relishing the pleasure of reuniting with an old friend"是 Paul's 的真诚片刻：他真的在享受与老朋友重逢的快乐。"it's almost like seeing a ghost—or perhaps Paul is the ghost"是核心意象：Paul 觉得看到 Malcolm 像是看到了鬼魂——或者，也许 Paul 才是鬼魂，一个新的迭代版本的自己。这个"ghost"意象在本章末尾再次出现（对着镜子看自己）。"a new iteration of himself living a surreal new life"是 Paul's 的自我描述：他在过一种"新的"、超现实的生活——自从 Judith 死后，他的生活变得不真实了。"the first burning sip sets him right, brings him back to his body"是 Paul's 的身体感受：酒精让他"回到身体"，回到"此刻"。酒精是 Paul's 回归现实的方式。
 
-**词汇/表达**：
+**关键词：**
 - **like seeing a ghost—or perhaps Paul is the ghost**：像看到鬼魂——或者 Paul 才是那个鬼魂——核心意象，Paul 感到自己生活的不真实
 - **a new iteration of himself**：一个新的迭代版本的自己——Paul 感到自己变了，变成了另一个人
 - **surreal new life**：超现实的新生活——Judith 的死亡改变了 Paul 的一切
@@ -61,7 +64,7 @@
 
 **句子结构**："You're moving on up, buddy"是 Malcolm 的调侃——他以为 Paul's 的艺术展是"往上爬"的机会。"Hardly. But yeah, it's exciting"是 Paul's 的典型反应：先否认，再说"是的"。"The glory is all hers"是 Paul's 的道德高点：他把荣耀归于 Judith——但这与他接下来要做的事情（披露她的心理诊断）形成鲜明对比。"fucking parasite"是 Paul's 的内心声音：他自己知道他是在利用 Judith 的死亡赚钱。"Does Malcolm think the same of him?"是 Paul's 的焦虑：他在意 Malcolm 怎么看他。"Thank god Paul has gone and done something, at last"是 Malcolm 对 Paul's 的真实评价——Malcolm 认为 Paul 终于做成了一件事（而不是寄生虫）。Paul 对这个评价感到恼火（"It irks him"）——因为它太接近真相了。"he plays it up, tells Malcolm that yes, 'big bucks' might be in order"是 Paul's 的自我膨胀：他反而夸大了自己的经济收益。
 
-**词汇/表达**：
+**关键词：**
 - **moving on up**：往上爬——Malcolm 对 Paul's 艺术展的调侃
 - **The glory is all hers**：荣耀都是她的——Paul 把荣耀归于 Judith；但这与他即将做的事情（利用她的心理诊断）形成矛盾
 - **fucking parasite**：大写的寄生虫——Paul 的内心独白；他知道自己是什么
@@ -91,7 +94,7 @@
 
 **句子结构**："Was she raped?"是 Malcolm 的直接——他不需要 Paul's 的含糊其辞，他直接问核心问题。"Paul is taken aback"是 Paul's 反応：他没想到 Malcolm 会这么直接。"eyes darting around the bar as if someone might be spying"是 Paul's 的偏执：他知道这很可笑，但他仍然感到不安。"He knows it's comical"说明 Paul 有自我意识——他知道自己可能过于偏执——但这不能阻止他的焦虑。
 
-**词汇/表达**：
+**关键词：**
 - **stuffed it under the rug**：压在毯子下面——Paul 对 Judith 隐瞒创伤的描述；委婉但有效
 - **Was she raped?**：她被强暴了吗？——Malcolm 的直接；他不绕弯子
 - **eyes darting around the bar**：眼睛在酒吧里扫来扫去——Paul 的偏执；他在担心被监视
@@ -120,7 +123,7 @@
 
 **句子结构**："dissociative identity disorder"是 Malcolm 给出的专业术语——这是 Paul's 一直在寻找的"解释"。"Technically no, she wouldn't have"是 Malcolm 的重要澄清：解离性障碍患者不会"故意"做某事——这是关键。"But there's a lot of controversy about this"是 Malcolm 的专业诚实：他不会给出确定的诊断，因为他知道这个领域有争议。"out-of-body experiences or hallucinations"是 Malcolm 的具体化：Judith 可能会经历离体体验或强烈的幻觉。"Why then, why that particular moment in her life?"是 Malcolm 的核心问题——他在试图找到触发事件。"He regrets not having more access to Tom"是 Paul's 的遗憾：Tom 是唯一知道 Judith 晚年生活细节的人，但 Tom 已经对他关上了门。
 
-**词汇/表达**：
+**关键词：**
 - **dissociative identity disorder**：解离性身份障碍——Malcolm 给出的专业术语
 - **out-of-body experiences or hallucinations**：离体体验或幻觉——解离性障碍的具体表现
 - **Why then, why that particular moment?**：为什么是那个时候，为什么是那个特定的时刻？——Malcolm 在寻找触发事件
@@ -131,13 +134,13 @@
 
 ### 精读块 8："You don't have the right to share someone's possible psychological condition"
 
-> "So, what's the plan? Is this just for your own curiosity?" He sounds hopeful. "Well, I have to write this catalog introduction for the show, and I'm sure I'll be doing interviews. I feel like—I think I have a duty to tell the truth," Paul says. "To give them background to the work, you know? They'll understand the pictures better if they know what she was going through." When he thought this all out the day before, on his walk, it felt lofty and righteous. Now it sounds craven. Malcolm stares at him for a long moment. "I think you mean it will pack the room and sell pictures, right? I mean, I get it, I know you want the show to succeed, but you don't have the right to share someone's possible psychological condition. What would her husband think?"
+> **原句 1:** "So, what's the plan? Is this just for your own curiosity?" He sounds hopeful. "Well, I have to write this catalog introduction for the show, and I'm sure I'll be doing interviews. I feel like—I think I have a duty to tell the truth," Paul says. "To give them background to the work, you know? They'll understand the pictures better if they know what she was going through." When he thought this all out the day before, on his walk, it felt lofty and righteous. Now it sounds craven. Malcolm stares at him for a long moment. "I think you mean it will pack the room and sell pictures, right? I mean, I get it, I know you want the show to succeed, but you don't have the right to share someone's possible psychological condition. What would her husband think?"
 
 **中文理解**。"那你的计划是什么？这只是出于你自己的好奇心吗？"他听起来充满希望。"嗯，我得为展览写这篇图录介绍，而且我肯定会上一些采访。我感觉——我觉得我有责任告诉真相，"Paul 说。"给他们提供一些关于这部作品的背景知识，你懂吗？如果他们知道她经历了什么，他们会更好地理解这些照片。"前一天散步时他把这一切都想清楚的时候，感觉是崇高的、正义的。现在听起来却是卑劣的。Malcolm 盯着他看了很久。"我觉得你的意思是这会吸引观众、卖出照片，对吧？我的意思是，我理解你，我知道你想让展览成功，但你没有权利分享某人可能的心理状况。她丈夫会怎么想？"
 
 **句子结构**："Is this just for your own curiosity?"是 Malcolm 的试探——他在看 Paul's 动机是什么。"I think I have a duty to tell the truth"是 Paul's 的道德高点——他在用"真相"来包装自己的商业计划。"When he thought this all out the day before, on his walk, it felt lofty and righteous. Now it sounds craven."是 Paul's 的自我意识：他在前一天觉得自己的想法是"崇高的、正义的"，但现在——当着 Malcolm 的面说出来——它听起来是"卑劣的"。这个对比是 Paul's 的良心在发挥作用。Malcolm 直接戳穿了 Paul's 的自我欺骗："I think you mean it will pack the room and sell pictures"——他不需要 Paul's 的委婉语。
 
-**词汇/表达**：
+**关键词：**
 - **a duty to tell the truth**：有责任告诉真相——Paul 的道德包装；他在用"真相"来合理化商业决策
 - **lofty and righteous / Now it sounds craven**：崇高和正义的 / 现在听起来是卑劣的——Paul 的自我意识；他知道自己在做什么
 - **pack the room and sell pictures**：吸引观众、卖出照片——Malcolm 对 Paul's 计划的直接描述
@@ -166,7 +169,7 @@
 
 **句子结构**："catches sight of himself in the mirror"是全章的高潮时刻——Paul 终于"看到"了自己。"His own ugliness startles him, confuses him"是核心反应：Paul 对自己的外表感到"震惊"和"困惑"。"Hasn't he always been handsome?"是 Paul's 的自我欺骗：他一直以为自己是英俊的——但镜子里的人不是。"He tries to smile, to make it right, and fails"是 Paul's 的徒劳：他试图用微笑来"修复"自己，但失败了。"unbalanced, malformed"是 Paul's 的视觉描述：镜子里的他是不平衡的、畸形的。
 
-**词汇/表达**：
+**关键词：**
 - **asymmetrical features**：不对称的五官——Paul 对自己面部特征的关注
 - **His own ugliness startles him, confuses him**：他自己的丑陋让他震惊、困惑——"ghost"意象的回归；Paul 在镜子里看到了"另一个人"
 - **Hasn't he always been handsome?**：他不是一直都很帅吗？——Paul 的自我欺骗；他一直在想象一个不同的自己
@@ -178,7 +181,7 @@
 
 ### 精读块 11："A double this time"
 
-> "I'll have another," he tells Kent. "A double this time."
+> **原句 2:** "I'll have another," he tells Kent. "A double this time."
 
 **中文理解**。"再来一杯，"他对 Kent 说。"这次要双份的。"
 
@@ -190,10 +193,30 @@
 
 ## 章节总结
 
+## 一句话总结
+
+（本章暂无总结）
+
 **道德堕落的弧线**：本章继续了 Paul's 从 ch66 到 ch67 再到本章的道德堕落弧线。在 ch67 中，Schuyler 暗示 Judith 可能自己动手；在本章中，Paul 向心理医生 Malcolm 寻求"专业意见"，来支持他在展览图录中披露 Judith 的心理状况。Malcolm 明确拒绝了："你不能分享某人可能的心理状况"，并且愤然离去。但 Paul 仍然坚持——他仍然打算告诉 Jahan。"I think I have a duty to tell the truth"是 Paul's 的道德包装，但 Malcolm 直接戳穿了它："I think you mean it will pack the room and sell pictures."
+
+## 一句话总结
+
+（本章暂无总结）
 
 **"The Double"的含义**：标题"the Double"指向 Paul's 的双重自我：他在镜子中看到的那个人与他以为的自己完全不同。他一直以为自己是"英俊的"，但镜子里的人有"不对称的五官"、"下垂的眼睑"、"鹰钩鼻"。他一直以为自己是"在做正确的事"，但 Malcolm 刚刚与他在道德上断绝了关系。"The Double"是 Paul's 的身份危机：他是那个利用死者赚钱的"寄生虫"，还是那个"有责任告诉真相"的策展人？
 
+## 一句话总结
+
+（本章暂无总结）
+
 **Malcolm 的伦理立场**：Malcolm 代表了 Paul's 良心的声音。他拒绝了 Paul's 的计划，不是因为他不相信 Judith 可能患有解离性障碍，而是因为：① 把某人的"可能的心理状况"当作展览卖点是不道德的；② Paul 没有权利这样做，因为这不是他的故事。Malcolm 的离去是 Paul's 失去的最后一个道德锚点——在这之后，Paul 将没有任何朋友来阻止他做他想做的事。
 
+## 一句话总结
+
+（本章暂无总结）
+
 **酒精与自我逃避**：全章的结尾 Paul 要了一杯"双份"——这既是字面意义（双份烈酒），也是隐喻意义（另一个 Paul，那个丑陋的、畸形的、与他的自我形象不符的人）。酒精是 Paul's 回归"正常"的方式（"the first burning sip sets him right"），但在全章结尾，"double"表明他已经走得太远了——他需要更多的酒精才能"正常"，而"正常"本身已经变得不真实了。
+
+## 一句话总结
+
+（本章暂无总结）

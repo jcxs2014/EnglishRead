@@ -51,7 +51,7 @@ Paul 随机指定 Maddie 作证，但 Maddie 的 weary certainty 打破了他的
 - **Harvey-Tom 的心理投射**：Paul 将 Harvey 与 Tom 并置——两者都在质疑 Paul"应得"的东西，这是全章最关键的心理洞察
 - **thrill 的消失**：从 electric 状态到"this isn't fun anymore"——Paul 的 identity 建立在 thrill 之上的，当 thrill 消失，他面临的不是危险，而是自我定义的空洞
 
-## 词汇
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
@@ -75,13 +75,29 @@ Paul 随机指定 Maddie 作证，但 Maddie 的 weary certainty 打破了他的
 
 | 词条 | 释义 | 例句（原文） |
 |------|------|-------------|
-| **pharmacy aisle** | 药品区 | stocks up on shaving cream, razors, aspirin on the pharmacy aisle |
+| **pharmacy aisle** | 药品区 | he stocks up on shaving cream, razors, aspirin, and toothpaste on the pharmacy aisle |
 | **conveyer belt** | 传送带 | She moves items along the conveyer belt |
 | **in uniform** | 穿制服的 | a man walking toward them. In uniform. Local police |
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 章节位置
+
+## 一句话总结
+
+（本章暂无总结）
 
 前有 ch42（Paul 的动向待核），现有 ch43（超市被拦、即将面对 police）。本章是 Paul 的 POV 章节，揭示其犯罪心理的运作方式：掠夺是 identity 的支撑，而任何对其"应得"的质疑都会激起类似 Tom Stanley 带来的 fury。警察的出现意味着他的控制模式正在被外部力量打破——这是全书中 Paul 第一次真正失去对局面的掌控。
 
+## 一句话总结
+
+（本章暂无总结）
+
 ---
 *POV：Paul（第三人称）*
+
+## 一句话总结
+
+（本章暂无总结）

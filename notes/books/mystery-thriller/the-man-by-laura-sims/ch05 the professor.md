@@ -14,6 +14,9 @@
 
 ---
 
+
+## 本章词汇
+
 ## 精读
 
 ### 精读块 1：摄影的刀片
@@ -26,7 +29,7 @@
 
 **句子结构**：复合句，核心为 "I think Paul would encourage my behavior"，中间插入原因状语 "my almost-lack of remorse"，句末 "he told us recently" 是 Paul 原话的引用框架。修辞上 "razor blade / peeling back layers" 形成隐喻链（工具→动作→对象）。
 
-**词汇/表达**：
+**关键词：**
 - **uncanny eye**：超自然的眼光，暗示 Judith 的摄影能力带有某种洞察力（和她的创伤经历相关）
 - **lit up**：兴奋、亢奋（口语），此处描述拍照后的肾上腺素状态
 - **razor blade**：剃须刀片，Paul 用来比喻艺术的功能
@@ -45,7 +48,7 @@
 
 **句子结构**：长复合句，以时间推进为脉络。"as the hours pass" 设定时间框架；"I start to tense" 对比 "the party loosens"，形成情绪张力反讽。
 
-**词汇/表达**：
+**关键词：**
 - **taut atmosphere**：紧绷的气氛（taut = 绷紧的），与后文 "loosen" 对比
 - **raucous male laughter**：喧闹的男性笑声——带有贬义色彩，暗示 Judith 对男性群体的本能警惕
 - **sway languidly**：懒洋洋地摇摆（sway = 摇摆，languidly = 懒散地）
@@ -64,7 +67,7 @@
 
 **句子结构**：长复合句，动作链 "I notice... They stare... I've aimed... I move on, spotting and shooting..."，节奏随 Judith 的扫描式目光加速。"I hardly notice it's him, my husband" 是全段情绪核心——创伤解离的具体表现。
 
-**词汇/表达**：
+**关键词：**
 - **subdued but vicious fight**：压抑但凶狠的争吵——"subdued" 指声音低、动作隐晦，"vicious" 指实质敌意
 - **taut with anger**：因愤怒而绷紧的（面部表情），与第 10 行的 "taut atmosphere" 形成回声
 - **aimed the lens to the left of them**：镜头故意偏向一侧——Judith 在拍 Miller 争吵，但闪光灯闪了；她迅速转向无辜人群以掩饰。这是一个伦理模糊的行为
@@ -87,7 +90,7 @@
 
 **句子结构**：核心是两个对照：男人的动作未停（"never stops moving and grunting"）vs 女人的惊恐静止（"keeps her head up, staring at me, terrified"）。Judith 的反应也是两组对照：理性上想举起相机（观察者本能）vs 身体上僵住（创伤激活）。
 
-**词汇/表达**：
+**关键词：**
 - **shirtless man is pinning a naked woman down**：赤裸上身的男人把裸体女人按下去——"pinning down" 是强制压制的明确用语，"naked" vs "shirtless" 的不对称强调强迫性
 - **pressing the flesh of her V-ed arms**：按压她 V 字形张开的手臂的肉——"V-ed arms" 暗示女性被强制摆成某种姿势，呼应了她后来说的 "the kind of man who held me down and branded my thighs"
 - **grunts and moves against her**：低吼着在她身上动作——性暴力场景，"against her" 而非 "with her" 强调非自愿
@@ -109,7 +112,7 @@
 
 **句子结构**：两段，第一段是内聚焦回忆（过去的 Judith），第二段是现在时（当下的 Judith）。"As if the burden were mine" 是全章的情感核心——Judith 反复被要求为不是她造成的事情负责。
 
-**词汇/表达**：
+**关键词：**
 - **blurred into an awful mask**：模糊成一张可怕的面具——Judith 的记忆保护机制（解离），她的大脑不允许她记住袭击者的脸
 - **sigh in frustration**：沮丧地叹气——外祖母的态度给 Judith 造成二次伤害
 - **he'd never be caught if I couldn't remember**：如果你记不住，他就抓不到——外祖母把责任推给受害者 Judith
@@ -128,7 +131,7 @@
 
 **句子结构**："I go from room to crowded room, ignoring Tom... my eyes furiously searching. But they're nowhere."——Judith 的搜寻是绝望的，但无果。结尾的三种"或者"揭示她内心的冲突——她不知道女子是被带走的（被动受害者）还是主动逃脱的（有能力反抗）。
 
-**词汇/表达**：
+**关键词：**
 - **tearing past**：冲过（tearing = 猛冲，激烈动作）
 - **fling open**：猛然推开——与 "tearing past" 连续的动作动词，强调 Judith 的急切
 - **tranquil**：平静的——讽刺，刚刚发生了暴力/性侵，房间里却"宁静"
@@ -143,17 +146,17 @@
 
 ### 精读块 7：回家的隐喻
 
-> "I was just—looking for a couple I saw. Someone I thought I recognized."
+> **原句 1:** "I was just—looking for a couple I saw. Someone I thought I recognized."
 >
 > Tom furrows his brow and scans my face. "One couple just left. I don't think we know them, but I saw them leave," he says. My chest tightens at this, to hear they left together. If it was them. If it was, it means the woman didn't escape, that he led her out with his hand **gripping the back of her neck**, pushing her forward. She might have smiled at Samantha and Hal and wished them well in a tremulous voice before vanishing through the door, into the night, with the man close behind.
 >
-> "I lean my head against his chest, inhaling the familiar Tom smell of drugstore soap, sweat, and warm skin. A good man, a pure man. Nothing like the one I saw tonight."
+> **原句 2:** "I lean my head against his chest, inhaling the familiar Tom smell of drugstore soap, sweat, and warm skin. A good man, a pure man. Nothing like the one I saw tonight."
 
 **中文理解**：Judith 向 Tom 撒谎说在找一对认识的夫妇。Tom 说一对不认识的夫妇刚离开。Judith 胸口发紧——如果那对夫妇就是她看到的，说明女子没有逃脱，而是被男子掐着后颈带出去。她想象那女子可能在门口微笑告别后才消失。Judith 把头靠在 Tom 胸口，闻着他熟悉的气味——皂香、汗味、温暖皮肤。一个好男人，一个纯洁的男人。绝不是她今晚看到的那个。
 
 **句子结构**：核心对比在最后一句："A good man, a pure man. Nothing like the one I saw tonight."——Tom 与卧室里的男人对比，好/坏二元对立。但 "Nothing like the one I saw tonight" 也暗示 Judith 此刻对 Tom 的感知被创伤经历过滤了——她需要相信 Tom 是"好男人"，才能维持婚姻的正常感。
 
-**词汇/表达**：
+**关键词：**
 - **gripping the back of her neck**：掐着后颈——控制/支配的姿态，Judith 想象中被带走的方式
 - **tremulous voice**：颤抖的声音——女子被迫离开时的伪装平静
 - **A good man, a pure man**：一个好男人，一个纯洁的男人——Tom 被理想化为与"那个"相反的存在
@@ -181,7 +184,7 @@
 | **grunt** | /ɡrʌnt/ | v. | 发出哼声；（猪般）嘟囔 | he grunts and moves against her |
 | **flop** | /flɑːp/ | v. | 猛然落下；沉重地摔 | her head is flopped back |
 | **blur** | /blɜːr/ | v. | （使）模糊；（使）看不清 | they blurred into an awful mask |
-| **telltale** | /ˈtelteɪl/ | adj. | 泄露真相的；暴露的 | telltale wrinkles in the duvet |
+| **telltale** | /ˈtelteɪl/ | adj. | 泄露真相的；暴露的 | I step closer and study the bed, spotting a few telltale wrinkles in the otherwise smooth duvet fabric |
 | **skein** | /skeɪn/ | n. | 一缕；一团；（毛线）束 | the skein of smoke hanging in the air |
 | **veil** | /veɪl/ | v. | 遮盖；掩饰 | veiling everything |
 | **tremulous** | /ˈtremjələs/ | adj. | 颤抖的；紧张的 | a tremulous voice |
@@ -213,9 +216,21 @@
 
 ## 读者提示
 
+## 一句话总结
+
+（本章暂无总结）
+
 **关键阅读点**：本章的核心是 Judith 的解离（dissociation）和闪回（flashback）机制。她在派对上拍照是一种解离——通过取景框观察世界以保持情感距离。但当她真正目睹创伤事件时，解离失效，创伤记忆涌上。阅读时注意：她的相机何时是保护机制（让她得以观察而不是卷入），何时是障碍（让她无法行动）。
+
+## 一句话总结
+
+（本章暂无总结）
 
 **语言亮点**：
 - "Photography is an art, and art can be a razor blade, peeling back layers of civility to reveal stark truths."——Paul 的话是双刃剑，既是 Judith 的创造力来源，也是她逃避责任的借口
 - "I hardly notice it's him, my husband"——简短的一句话，揭示了 Judith 创伤的深度：她连自己的丈夫都认不出来
 - "A good man, a pure man. Nothing like the one I saw tonight."——Tom 被理想化，但这理想化本身是脆弱的（建立在排除"那个男人"的基础上）
+
+## 一句话总结
+
+（本章暂无总结）

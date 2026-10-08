@@ -114,7 +114,7 @@ Judith 以"frantic pace"扫街拍摄：
 
 这个自我描述揭示自拍时 Judith 的自我感消解——她的身体被酒瓶取代，"shining and bright"既是视觉描述，也暗示一种灼烧的渴望（酒瓶=酒=burning drink）。
 
-## 词汇
+## 本章词汇
 
 - **incandescent**：发光的；描述酒瓶在晨光中的状态，暗示 Judith 对这些反射物品的美学欣赏
 - **worthy subject**：值得拍摄的对象；Paul 的核心理念，Judith 用它来合理化自己的拍摄行为

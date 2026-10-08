@@ -57,7 +57,7 @@ Judith 在 contact sheet 上发现那个男人——他小到要用 loupe 才能
 - **刀的双重性**：刀曾是 Tom Junior 的 Boy Scouts 工具，现在成为 Judith 的护身武器——从童年的 innocence 到成年后的暴力防御
 - **省略号的力量**："my eyelids drifting down, down"——两个"down"暗示她在恐惧中陷入恍惚状态，甚至有一丝解脱感
 
-## 词汇
+## 本章词汇
 
 - **loupe**：摄影放大镜，用于查看 contact sheet 上的细节
 - **squint**：眯眼看——她必须刻意去看才能发现那个渺小的身影
@@ -66,6 +66,18 @@ Judith 在 contact sheet 上发现那个男人——他小到要用 loupe 才能
 - **recoil**：退缩——但她又 press closer，矛盾心理
 - **triple time**：快步走，Rosie 的小短腿跟不上 Judith 的步伐——暗示 Rosie 已不在身边
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 章节位置
 
+## 一句话总结
+
+（本章暂无总结）
+
 前有 ch17，后接 ch19。本章是 Judith 从"恐惧"走向"反击"的关键转折点——她不再只是被动接受或主动寻找，而是决定以刀为武器。"The Camera"既是她发现威胁的工具（照片），也是她记录自我（self-portraits）的方式——而那个男人总在背景中。
+
+## 一句话总结
+
+（本章暂无总结）

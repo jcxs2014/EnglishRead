@@ -84,7 +84,7 @@ Paul 病着、疲惫着，已不再注视她。而 Judith 回应的是：
 - **"Force"的词汇选择**：全章两处"force"——force a smile / force out "Good night"——说明 Judith 的所有表达都是被迫的、被挤压出来的，而非自然流露。
 - **对比的结构功能**：Charlie 的 normal friendship vs. Judith's abnormal captivity；Paul's apology（真实但轻微）vs. Judith's wound（深层且持续）——对比制造出章节的情感基调和悲剧感。
 
-## 词汇
+## 本章词汇
 
 - **drawn**（面带病容的）——"Paul's pale, drawn face"；比"tired"更准确：drawn 暗示被某种力量抽干了气色
 - **slinking**（悄悄溜走）——"my careful slinking out the door"；动物性的、羞耻的逃避姿态
@@ -94,3 +94,7 @@ Paul 病着、疲惫着，已不再注视她。而 Judith 回应的是：
 - **sublime**（崇高的）——Paul 对她照片的评价；与"vibrant"并用，暗示他的真诚但也暗示她无法接受
 - **stifled**（窒息的）——"I'm both stifled and cheered by the thought"（Tom 可能在车里等）；同一想法同时制造窒息与安慰——矛盾本身就是她的困境
 - **idling**（怠速运转）——"sitting in the car with the engine idling"；这个意象暗示 Tom 的等待是静止的、持续的、无需证明的——这既是安全感也是压迫感
+
+## 一句话总结
+
+（本章暂无总结）

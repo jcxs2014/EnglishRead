@@ -14,6 +14,9 @@
 
 ---
 
+
+## 本章词汇
+
 ## 精读
 
 ### 精读块 1：合同焦虑
@@ -24,7 +27,7 @@
 
 **句子结构**：复合句，核心叙事在 "he'll have to tell Tom"；插入两个让步状语从句（"Though Tom signed over..." / "he retained the right..."），最后以 "So telling Tom... is largely a formality" 作结。修辞上 "bask in the glory" 与 "dampening reality" 形成情绪对照。
 
-**词汇/表达**：
+**关键词：**
 - **bask in the glory**：沐浴在荣耀中——讽刺，Paul 的狂喜建立在亡妻的尸体上
 - **contractual obligations**：合同义务——法律术语，Paul 的所有行为都披着法律外衣
 - **"informed of all consequential decisions related to the public display of [her] work"**：合同原文，Tom 设下的法律防线
@@ -43,15 +46,15 @@
 >
 > Tom snorts. "Not for us."
 >
-> "Well, for Judith, then. Think of—"
+> **原句 1:** "Well, for Judith, then. Think of—"
 >
-> "Don't tell me 'Judith would have wanted this.' She asked for your help with submitting a few photographs to magazines, and now you've **whipped up a circus**. You want this. That's why you're doing it. **You love the spotlight.** You've been giving interviews left and right, don't think I haven't noticed. Putting up a gallery show? That's something you're doing for yourself. You'll get more money that way, won't you?"
+> **原句 2:** "Don't tell me 'Judith would have wanted this.' She asked for your help with submitting a few photographs to magazines, and now you've **whipped up a circus**. You want this. That's why you're doing it. **You love the spotlight.** You've been giving interviews left and right, don't think I haven't noticed. Putting up a gallery show? That's something you're doing for yourself. You'll get more money that way, won't you?"
 
 **中文理解**："一个展览？" Tom 的语气仿佛 Paul 建议的是在绅士俱乐部搞百老汇滑稽秀、脱衣舞。Paul 强调这是对任何艺术家的最高成就，对 Judith 和 Tom 一家都好。Tom 冷嘲："不是为我们。" Paul 说"那为 Judith 想想——" Tom 直接打断：别跟我说"Judith 会想要这个"——她只是想投几幅照片到杂志，你却搞成了马戏团。你自己想要这个，你爱聚光灯，到处接受采访，别以为我没注意到。办画廊展是为了你自己，这样你能赚到更多钱，对吧？
 
 **句子结构**：对话体为核心，Paul 的话被 Tom 不断打断。Tom 的语速越来越快，从 "Not for us" 到一长串指控，最后以反问收尾（"won't you?"），形成压迫性节奏。
 
-**词汇/表达**：
+**关键词：**
 - **mount a Broadway burlesque, a cabaret, or even a topless dance**：把 Judith 的作品比作百老汇滑稽秀、脱衣舞——Tom 的讽刺极具侮辱性
 - **whipped up a circus**：搞成了马戏团——Tom 的核心指控：Paul 把悲剧变成了娱乐事件
 - **You love the spotlight**：你爱聚光灯——Paul 最怕被看穿的本质，被 Tom 一语道破
@@ -74,7 +77,7 @@
 
 **句子结构**：对话节奏在此达到高潮。Paul 的 "I'm building her legacy!" 是全章的情绪最高点——他吼出来了，这说明他的防线被 Tom 击穿。Tom 的回应冷静而毁灭性：把 Paul 的"遗产"论砸得粉碎。挂断电话是 Paul 彻底失败的标志。
 
-**词汇/表达**：
+**关键词：**
 - **natural next step**：自然的下一步——Paul 的自我辩护，把自己的决定包装成不可避免的发展
 - **Paul Sorenson**：全名直呼，Tom 在刻意强调个人身份，与 Paul 的"我在建立 Judith 的遗产"形成讽刺
 - **screams**：尖叫——Paul 唯一一次失控，说明 Tom 戳到了痛处
@@ -93,7 +96,7 @@
 
 **句子结构**：长复合句，"He looks at... He sees it all as..."——Paul 的视角从外部（房间）回到内部（自我评价）。最后一句的自我反问 "And he is a fool, isn't he?" 是全章最关键的内心转折：他开始质疑自己。
 
-**词汇/表达**：
+**关键词：**
 - **stares blearily**：茫然地盯着——挂断后的失神状态
 - **riding adrenaline**：靠肾上腺素撑着——Paul 多日来的生理状态
 - **exhaustion lands like an anvil**：疲惫如铁锤砸下——明喻，重量感
@@ -118,7 +121,7 @@
 
 **句子结构**：三段，第一段是 Paul 的焦虑与希望（法律威胁），第二段是日常（烟、fan mail），第三段是好奇心的最终胜利。"he is curious" 是全章的结尾悬念。
 
-**词汇/表达**：
+**关键词：**
 - **sullied**：被玷污的——Paul 被 Tom 的话伤害后的感受
 - **torn into bits and flushed down toilets, or burned to ash**：撕成碎片冲进马桶，或烧成灰——Paul 想象合同被销毁的几种方式，极端的意象
 - **wait and hope**：等待和希望——Paul 的应对策略：无能为力
@@ -140,7 +143,7 @@
 | **formality** | /fɔːrˈmæləti/ | n. | 例行程序；形式 | telling Tom about the show is largely a formality |
 | **transfiguration** | /ˌtrænsfɪɡjəˈreɪʃn/ | n. | 变形；转变 | overnight transfiguration into an overnight public sensation |
 | **pinnacle** | /ˈpɪnəkl/ | n. | 顶峰；巅峰 | the pinnacle for any artist or photographer |
-| **whip up** | /wɪp ʌp/ | phrasal v. | 迅速激起；煽动 | you've whipped up a circus |
+| **whip up** | /wɪp ʌp/ | phrasal v. | 迅速激起；煽动 | You've gone and whipped up a circus |
 | **disdain** | /dɪsˈdeɪn/ | n. | 蔑视；鄙视 | Tom says with disdain |
 | **blearily** | /ˈblɪrəli/ | adv. | 模糊地；朦胧地 | stares blearily around the room |
 | **anvil** | /ˈænvɪl/ | n. | 铁砧 | exhaustion lands like an anvil |
@@ -174,9 +177,21 @@
 
 ## 读者提示
 
+## 一句话总结
+
+（本章暂无总结）
+
 **关键阅读点**：本章的核心是 Paul 的自我叙事（"I'm building her legacy"）与他人的视角（Tom 的"narcissistic opportunist"）之间的张力。阅读时注意：Paul 的每一次自我辩护都包含一个裂缝——他说"为了 Judith"，但他的行为明显有自己的利益驱动。"And he is a fool, isn't he?" 是全章最诚实的时刻，但 Paul 自己没有勇气正面承认。
+
+## 一句话总结
+
+（本章暂无总结）
 
 **语言亮点**：
 - "Thanks to you, everyone on earth knows she was brutally murdered, and took weird photographs."——Tom 的话是全章最沉重的句子，括号中的"took weird photographs"是 Tom 对 Judith 作品的全部理解，与 Paul 的"艺术遗产"叙事形成毁灭性对比
 - "Contracts can be broken, though; they can be torn into bits and flushed down toilets, or burned to ash."——Paul 对合同被毁的想象揭示了他的恐惧程度
 - "But he is curious. And it doesn't take much to open and read a few letters."——简洁的结尾，悬念感强
+
+## 一句话总结
+
+（本章暂无总结）

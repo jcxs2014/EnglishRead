@@ -14,6 +14,9 @@
 
 ---
 
+
+## 本章词汇
+
 ## 精读
 
 ### 精读块 1：身体崩溃与理性空白
@@ -24,7 +27,7 @@
 
 **句子结构**："Stunned by the phrase"是 Paul's 的身体反应先于理解：他被 Schuyler 的话震惊到忘记呼吸。"forgets to exhale a chest full of smoke"是 Paul's 的身体状态：他在警局外抽烟，被震惊到忘了吐气——这是一个精准的生理细节。"A woman…walks a wide circle around him"是周围世界对 Paul's 崩溃的无视：路人绕着他走，普通人继续过着普通生活。"he focuses on the black leather of her low heels"是 Paul's 的强迫性聚焦：他需要抓住一个普通的视觉细节来锚定自己。"the reassuring sound of an ordinary woman walking"是 Paul's 的心理需求：听到普通女人的普通步伐声让他感到"reassuring"——因为他的世界观刚刚崩塌了。"They all resemble Judith's house"是 Paul's 的认知转换：他开始用 Schuyler 的视角重新看这个世界，所有房子现在都和 Judith 的房子相似。"a deep, physical pang"是 Paul's 的身体化疼痛：他的震惊不是精神上的，是物理上的疼痛。"putting one foot in front of another"是 Paul's 的最小行动单位：在这个认知崩塌的时刻，他唯一能做的就是走路。
 
-**词汇/表达**：
+**关键词：**
 - **Stunned by the phrase**：被这句话震惊——Paul 被 Schuyler 的暗示震惊到失去身体控制
 - **unfashionably long skirt**：不时髦的长裙——路人的细节；Paul 需要普通事物的细节来锚定自己
 - **walks a wide circle around him**：绕了一个大圈从他身边走过——路人本能地避开崩溃中的人
@@ -45,7 +48,7 @@
 
 **句子结构**："Loosened a little by the forward movement"是 Paul's 的身体状态通过行走开始松动——运动是一种释放机制。"what he's thinking—what he thinks Schuyler is thinking"是 Paul's 的双重思维：他先想到自己的想法，再想到 Schuyler 的想法——但这两者正在合并。"Having known her—calm, steady, and quiet as she was"是 Paul's 对 Judith 的旧认知：他用"冷静、沉稳、安静"来定义她，这个定义现在正在被打破。"can't see the detective's idea as anything but outlandish"是 Paul's 的最初反应：Schuyler 的想法是古怪的，甚至冒犯了他——他还在为 Judith 辩护。"But he felt it, didn't he?"是 Paul's 的内心矛盾：他感受到了 Schuyler 理论的某种真实感，即使他理智上在拒绝。
 
-**词汇/表达**：
+**关键词：**
 - **Loosened a little by the forward movement**：被向前的移动稍微松开——Paul 通过行走开始从震惊中恢复
 - **what he thinks Schuyler is thinking**：他觉得 Schuyler 在想什么——Paul 在试图读 Schuyler 的心思
 - **calm, steady, and quiet**：冷静、沉稳、安静——Paul 对 Judith 的旧认知框架
@@ -64,7 +67,7 @@
 
 **句子结构**："evidence—or a lack of it, rather"是 Paul's 的重新框架：他开始把"没有证据"解读为"证据指向另一个方向"。"no stalker / no fingerprints / no sign of her attacker"是三个"没有"的累积——所有指向"凶手存在"的证据都缺失。"he himself has offered photographic proof"是 Paul's 的关键自省：他自己的展览图录提供了 Judith "精神状态有问题"的证据——他在无意中为自己的论点提供了弹药。
 
-**词汇/表达**：
+**关键词：**
 - **a lack of it, rather**：更准确地说，证据的缺失——Paul 在重新框架"没有证据"这个事实
 - **photographic proof of her troubled mind**：她精神状态不佳的照片证据——Paul 意识到自己的展览图录可以用来证明 Judith 有精神问题
 
@@ -80,7 +83,7 @@
 
 **句子结构**："gathers them together quickly"是 Paul's 的思维加速：他快速地把 Schuyler 的所有暗示收集成一套连贯的理论。"hangs on"是 Paul's 的心理姿态：他抓紧这个理论不放——不是因为它让他舒服，而是因为它太"有用"了。"despite his own revulsion and resistance"是 Paul's 的内心矛盾：他感到厌恶和抵触，但他还是接受了这个理论。"Judith did this to herself"是全章的核心句：Paul 终于说出了这句话。
 
-**词汇/表达**：
+**关键词：**
 - **gathers them together quickly**：迅速收集在一起——Paul 的思维速度；他不想在这个结论上停留太久
 - **hangs on**：抓紧不放——Paul 抓紧这个理论，尽管它让他厌恶
 - **despite his own revulsion and resistance**：尽管他自己也感到厌恶和抵触——Paul 的内心矛盾
@@ -98,7 +101,7 @@
 
 **句子结构**："It only makes sense"是 Paul's 的认知闭合：他在寻找一个"说得通"的解释，而 Schuyler 的理论现在是最"说得通"的。"walking now at a furious pace"是 Paul's 的身体状态变化：从之前的"一步步行走"加速到"疯狂的速度"——他在物理上也在加速。"if Judith's mind were warped enough"是 Paul's 的条件句：他开始构建一个假设的心理机制来解释 Judith 的行为。"to see the man over and over again, to hear his words, even feel his touch"是 Paul's 对 Judith 被害妄想的推测：他认为 Judith 可能真的"看到"了 stalker，"听到"了他的声音，"感觉到"了他的触碰——这是精神分裂症或严重创伤后应激障碍的症状。"Was that possible?"是 Paul's 的自我质疑：他在问自己这个假设是否可能。"And most of all, could her mind have really brought her to the point of stabbing herself?"是 Paul's 的核心问题：他最终的问题是 Judith 是否"真的动手杀了自己"。
 
-**词汇/表达**：
+**关键词：**
 - **walking now at a furious pace**：以疯狂的速度走着——Paul 的身体状态在加速，反映心理也在加速
 - **mind were warped**：精神扭曲——Paul 对 Judith 心理状态的推测
 - **to see the man over and over again**：一次又一次地看到那个男人——Paul 在推测 Judith 的幻觉/妄想体验
@@ -117,7 +120,7 @@
 
 **句子结构**："My god, if it were true"是 Paul's 的第一反应：他想到了这件事的"利用价值"。"it would be a stunning draw for the show"是 Paul's 的立即计算：这个信息对节目有巨大价值。"He flinches from the thought at first"是 Paul's 的第一次道德退缩：他因为想到"利用 Judith 的死来做节目"而感到不适。"but as the seconds go by"是时间的作用：几秒钟后，Paul 的道德感开始消退。"he begins to understand why it might be not only beneficial but also necessary"是 Paul's 的自我合理化：他不仅认为这件事对节目"有益"，而且认为它是"必要的"。
 
-**词汇/表达**：
+**关键词：**
 - **a stunning draw for the show**：节目一个惊人的卖点——Paul 对 Schuyler 理论的第一次功利计算
 - **flinches from the thought**：因这个想法畏缩——Paul 的第一次道德退缩
 - **not only beneficial but also necessary**：不仅有益，而且必要——Paul 的自我合理化升级
@@ -134,7 +137,7 @@
 
 **句子结构**：这是全章最长的句子之一，是 Paul's 的"公共服务"宣言。"This is part of Judith's story"是 Paul's 的框架：Judith 的精神状态是她故事的一部分。"Posthumously, sure"是 Paul's 的让步：是的，她已经死了，但正因如此更有理由公开。"The story of her life doesn't belong to him"是 Paul's 的否认：他否认自己对 Judith 的故事拥有所有权。"All of it, all of her, belongs to the viewing public"是 Paul's 的重新分配：Judith 和她的人生属于"观众"。"Even fans like Charlie"是 Paul's 的内心矛盾：他想到了 Charlie——一个他可能在利用的人——然后"with an internal flinch"——他感到了内疚，但他没有停下来。"This has nothing to do with Paul, really!"是 Paul's 的自我否认：这个感叹号说明他太用力了。"He's merely the vessel, the mediator"是 Paul's 的自我提升：他把自己从"利用者"变成"服务者"。"He has a duty to do it, as her mentor and manager"是 Paul's 的最后合理化：他作为 Judith 的"导师和经纪人"有"义务"这样做。
 
-**词汇/表达**：
+**关键词：**
 - **Judith the artist, the photographer, the public figure**：Paul 对 Judith 的标签化——他在用职业标签代替她作为一个人的存在
 - **the viewing public**：观众——Paul 把所有东西都分配给了"观众"这个抽象概念
 - **Even fans like Charlie**：甚至像 Charlie 这样的粉丝——Paul 在利用 Charlie 这样的粉丝作为"公众"的代表
@@ -154,7 +157,7 @@
 
 **句子结构**："loops back to his car with a determined stride"是 Paul's 的身体语言：他的步伐从"furious pace"变成了"determined stride"——他从奔跑变成了有目的的行走。"Tomorrow, he'll visit the library"是 Paul's 的行动计划：第一步是去图书馆查阅1934年的报纸。"he wants to be able to refer to its specifics while he's writing"是 Paul's 的工具性目标：他需要具体的细节来写 Judith 的故事。"even if he ends up discarding the suicide theory"是 Paul's 的保留条款：他还不确定自己是否会使用"自杀理论"，但他会保留它。"he has to use her childhood attack"是 Paul's 的底线：不管怎样，他都要用 Judith 童年被袭击的事。"That alone would alter the narrative"是 Paul's 的叙事工程：童年的遇袭本身就足以改变 Judith 的故事框架。
 
-**词汇/表达**：
+**关键词：**
 - **loops back to his car with a determined stride**：以坚定的步伐绕回车旁——Paul 从情绪化的思考转向具体的行动计划
 - **the Somerset Daily Register article**：萨默塞特每日记事报的文章——1934年报道 Judith 童年遇袭的报纸
 - **alter the narrative around Judith**：改变关于 Judith 的叙事——Paul 在主动改造 Judith 的故事
@@ -172,7 +175,7 @@
 
 **句子结构**："He'll also read any follow-up articles"是 Paul's 的额外研究计划：他会找所有关于寻找 Judith 袭击者的后续报道。"Schuyler said the man had 'vanished'"是 Paul's 对 Schuyler 话语的引用：他记得 Schuyler 用"vanished"这个词来形容袭击者。"just like Judith's murderer"是 Paul's 的连接：袭击者"消失"了，就像 Judith 的凶手一样——这两个"消失"可能有关联。"Then, he'll run it all by Malcolm"是 Paul's 的关键行动：他需要找一个心理学权威来验证他的理论。"He veers toward the nearest pay phone booth"是 Paul's 的急迫身体动作：从"determined stride"到"veers"（突然转向）——他迫不及待要打电话。"Please call Paul Sorenson. It's urgent."是 Paul's 的留言——简短、急迫、充满自我重要性。
 
-**词汇/表达**：
+**关键词：**
 - **follow-up articles**：后续文章——Paul 计划做的研究工作
 - **the man had "vanished"**：那个男人"消失了"——Schuyler 的原话；Paul 在引用它
 - **Judith's hometown rag**：Judith 家乡的小报——Paul 对地方报纸的轻蔑称呼（rag = 破烂的东西）
@@ -188,10 +191,30 @@
 
 **Paul 的道德滑落轨迹**：本章完整呈现了 Paul's 的道德崩溃过程：从震惊（忘记吐气）→抵触（"outlandish, even offensive"）→感受真实（"he felt it"）→接受（"Judith did this to herself"）→功利计算（"a stunning draw for the show"）→自我合理化（"public good"）→行动计划（图书馆、Malcolm）。整个过程发生在从警局到他车里的步行距离内。
 
+## 一句话总结
+
+（本章暂无总结）
+
 **"公共服务"框架的双重功能**：Paul 把"利用 Judith 的死"重新包装为"公众知情权"——这个框架有两个功能：① 让他自己感觉道德上可以接受；② 为他提供了一个可以对外使用的"正当理由"。读者可以看到这个框架是透明的，但 Paul's 自己相信它。
+
+## 一句话总结
+
+（本章暂无总结）
 
 **电话留言——章节结尾的紧迫感**："Please call Paul Sorenson. It's urgent."是 Paul's 的内心状态投射：他在告诉全世界"我有急事"。这个留言的简短和自我中心（"Paul Sorenson"——他的全名，而不是"Paul"）说明他已经进入了一种急迫的、以自我为中心的心理状态。
 
+## 一句话总结
+
+（本章暂无总结）
+
 **Malcolm 的角色**：Paul 需要 Malcolm 作为一个"心理学权威"来验证他的理论。如果 Malcolm 确认 Judith 的行为符合某种精神疾病的模式，Paul 就可以把这个理论包装成"科学事实"来使用。这是 Paul's 的新闻敏感性：他知道"心理学分析"比"猜测"更有说服力。
 
+## 一句话总结
+
+（本章暂无总结）
+
 **标题"The Urgent"的含义**：Paul 的整个心理状态是"urgent"——他需要行动，需要验证，需要把 Schuyler 的理论变成他自己的叙事。"Urgent"也是 Paul's 的自我欺骗：他把真正的贪婪和利用欲望伪装成了"紧迫感"。
+
+## 一句话总结
+
+（本章暂无总结）

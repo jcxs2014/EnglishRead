@@ -14,6 +14,9 @@
 
 ---
 
+
+## 本章词汇
+
 ## 精读
 
 ### 精读块 1：猎物的召唤
@@ -24,7 +27,7 @@
 
 **句子结构**："calls her down" 是关键——Paul 不是在"对话"，而是在"召唤猎物"。主句"he wanted badly to grasp it back"揭示了他的真实动机：他想要夺回 Doven 那天的"风光"，而不是 Charlie 本人。Charlie 只是他用来确认自己价值的工具。
 
-**词汇/表达**：
+**关键词：**
 - **calls her down**：叫住她——Paul 的权力姿态，把 Charlie 视为可以随意召唤的对象
 - **skittish and guilty**：局促不安与心怀愧疚——Paul 对 Charlie 的矛盾心理，他既渴望她又害怕她
 - **the sad shabbiness of it**：那种可悲的寒酸感——Paul 对自己"孤独幻想"的评价，与 Doven 的"glamorous day"形成对比
@@ -42,7 +45,7 @@
 
 **句子结构**："catches himself staring"是关键——Paul 无意识地"抓到"自己在看 Charlie 的身体，而不是她的脸。"He struggles to meet her eyes"与前面的身体凝视形成张力：他想看她的身体，但又必须假装在"对话"。这种割裂揭示了 Paul 对女性的物化视角——他看到的是"身体部位"，而不是"人"。
 
-**词汇/表达**：
+**关键词：**
 - **catches himself staring**：发现自己正在盯着看——Paul 对自己行为的"意外发现"，暗示他无法控制自己的凝视
 - **thin fabric**：薄薄的布料——Paul 的目光穿透衣物，暗示他的性目光
 - **bell-bottomed jeans**：喇叭裤——1970 年代流行款式，暗示 Charlie 的年轻与时代感
@@ -60,7 +63,7 @@
 
 **句子结构**："she's become warm again, readable. Fuckable."是 Paul 对 Charlie 的三重"定义"——先是情感层面的"热情"，然后是智力层面的"可解读"，最后是性层面的"可以操的"。这个递进揭示了 Paul 如何将女性"降维"处理：他把 Charlie 的"热情"直接转译为"性欲对象"。
 
-**词汇/表达**：
+**关键词：**
 - **readable**：可以解读的——Paul 将人当作"文本"来处理，需要被"读懂"才能控制
 - **Fuckable**：可以操的——Paul 的性对象化，将人降维为身体
 - **Glowing with it**：容光焕发——Charlie 沉浸在赞美 Judith 的快乐中，Paul 错误地认为这快乐是给他的
@@ -77,7 +80,7 @@
 
 **句子结构**："Paul could be anyone—one of her peers, or a table"是全章最残忍的对比——Paul 精心策划的"Harper's feature"在 Charlie 眼里毫无意义。她的眼里只有 Judith 和 Judith 的作品，Paul 只是一个"在场但不存在的背景"。
 
-**词汇/表达**：
+**关键词：**
 - **reverently**：虔诚地——Charlie 对 Judith 的崇拜语气，与 Paul 预期的"感谢"形成讽刺
 - **Paul could be anyone**：Paul 可能是任何人——他的存在被完全忽视
 - **for all his presence matters to her**：他的存在对她来说无足轻重——Paul 的 narcissistic 损伤
@@ -94,7 +97,7 @@
 
 **句子结构**："Her silence resounds... like a booming judgment"——Paul 将 Charlie 的沉默解读为"判决"。这是一个关键的心理时刻：Charlie 的"不说话"被 Paul 解读为"故意不说"，因为他的 narcissistic 框架无法容纳"别人真的不关心他"这个事实。
 
-**词汇/表达**：
+**关键词：**
 - **resounds like a booming judgment**：像一声响亮的判决一样回荡——Paul 将沉默"戏剧化"，把它解读为对自己的审判
 - **curiosity alone would have driven her to read it**：仅仅好奇心就足以驱使她去读——Paul 仍然在用"她一定看了"的信念自我安慰
 
@@ -110,7 +113,7 @@
 
 **句子结构**："a swift, bright fury"——Paul 的愤怒是"bright"（明亮的），不是"dark"（黑暗的）。这个形容词暗示了一种 almost pleasurable 的暴力冲动。"He wants to hear her trying to scream"是全章最黑暗的时刻——Paul 的幻想从"性吸引"直接跳跃到"性暴力"，揭示了他对女性的真实态度。
 
-**词汇/表达**：
+**关键词：**
 - **a swift, bright fury**：一道迅速而明亮的怒火——"bright"是一个危险的形容词，暗示暴力快感
 - **grind into her**：磨蹭——性暴力的意象，Paul 的性幻想与暴力冲动密不可分
 - **smothering her mouth**：捂住她的嘴——剥夺女性的声音是 Paul 暴力幻想的核心
@@ -128,7 +131,7 @@
 
 **句子结构**："His is the only car left in the lot"——孤立感是 Paul 被害妄想的环境触发器。空旷的停车场与"only car"创造了"唯一在场者"的孤立感，这种物理孤独直接转化为心理被害感。
 
-**词汇/表达**：
+**关键词：**
 - **the only car left in the lot**：停车场里只有他一辆车——物理孤立的环境触发器
 - **staring around at still and moving shadows**：盯着周围静止和移动的影子——被害妄想的视觉表现
 - **nervous and observed**：紧张，总觉得被盯着——被迫害妄想的核心症状
@@ -145,7 +148,7 @@
 
 **句子结构**："rev"和"peeling out"是本章标题"the engine"的落地——引擎的轰鸣是 Paul 失控情绪的唯一出口。他无法处理被 Charlie 否定的愤怒，无法应对 Judith  killer 可能存在的恐惧，所以他把这一切"转化"为对引擎的控制。
 
-**词汇/表达**：
+**关键词：**
 - **rev**：踩油门——Paul 对机械的控制替代了对人际关系的失控
 - **peeling out**：轮胎尖叫着冲出——物理层面的"逃离"，但他无法逃离自己的内心
 
@@ -191,10 +194,22 @@
 
 ## 读者提示
 
+## 一句话总结
+
+（本章暂无总结）
+
 **关键阅读点**：本章的核心是"沉默的暴力"与"引擎的隐喻"。Charlie 的沉默被 Paul 解读为"审判"，他的暴力幻想（捂住嘴、听尖叫）是他在"意义争夺"失败后的替代补偿。注意 Paul's 的"凝视"如何从"欣赏"滑向"占有"：他看到的不再是"人"，而是"身体部位"和"可以被控制的对象"。
+
+## 一句话总结
+
+（本章暂无总结）
 
 **语言亮点**：
 - "Her silence resounds...like a booming judgment"——沉默被戏剧化为"判决"
 - "a swift, bright fury"——"bright"是一个危险的形容词，暗示暴力快感
 - "He wants to hear her trying to scream"——控制与剥夺的终极形式
 - "rev"和"peeling out"——引擎作为控制感的终极隐喻
+
+## 一句话总结
+
+（本章暂无总结）

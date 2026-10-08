@@ -14,6 +14,9 @@
 
 ---
 
+
+## 本章词汇
+
 ## 精读
 
 ### 精读块 1：光与影的追寻
@@ -24,7 +27,7 @@
 
 **句子结构**：长句开局，节奏沉稳。"Not all of them—it was too much work, and too slow—to do all of them" 中两个破折号插入解释，解释了 Paul's 的局限——他不是没能力，而是懒惰。"and he figures...right?" 是自我合理化的心理独白，"right?" 表面是反问，实则是 Paul 在为自己的半途而废找借口。"He's afraid to see the figure—much as Judith must have been afraid" 用类比将 Paul's 的恐惧与 Judith 生前的恐惧等同——她拍照片时怕，他看照片时也怕。最后 "Longs for proof" 单独成句并重复 "longs"，强调 Paul's 的双重欲望：既想看到（证明存在），又怕看到（真相可能很残酷）。
 
-**词汇/表达**：
+**关键词：**
 - **contact sheets**：接触印相纸——底片直接曝光在相纸上形成的缩小图像，便于快速浏览
 - **under his loupe**：用放大镜——"loupe" 是摄影术语，指放大镜；Paul 正在做一个专业摄影师的工作
 - **Longs for proof**：渴望证据——"proof" 在这里是双关：既是"证据"（证明 stalker 存在），也是"照片"的文雅说法
@@ -42,7 +45,7 @@
 
 **句子结构**：短句碎拍节奏。"He doesn't find it. Sets the loupe on the table and sighs." 两句之间没有连词，呈现 Paul's 的挫败感。"Maybe he's chosen the wrong ones? There shouldn't be wrong ones." 自问自答，揭示 Paul's 的自我矛盾——他知道没有"正确选择"，但仍在找借口。"He could—and probably should—" 重复两次，形成犹豫不决的节奏，每次 "should" 前都有 "probably"，显示 Paul's 知道该做什么但缺乏行动力。
 
-**词汇/表达**：
+**关键词：**
 - **He doesn't find it**：他没找到——it（那个 stalker 的身影）就在这些照片里，但他就是看不见
 - **There shouldn't be wrong ones**：不应该有选错的—— Paul's 在给自己找理由，实际上是在承认自己的失败
 - **despite what Judith said**：尽管 Judith 说过——Paul 已经准备好违背她的遗愿了
@@ -59,7 +62,7 @@
 
 **句子结构**："But it's eleven o'clock" 的 "But" 标示心理转换——从照片研究转到打电话。"his energy for the project has flagged" 是疲惫的信号，也是放弃的借口。"he has his little speech...memorized" 中的 "little speech" 暗示 Paul's 把这当作一场表演而非真诚的对话。"If it works out...another time" 和 "If it doesn't...can't even think about that" 形成对比——成功时还有退路，失败时则是彻底的崩溃。
 
-**词汇/表达**：
+**关键词：**
 - **his energy has flagged**：精力已经消退——他在照片研究上投入的能量已经耗尽
 - **while the day is fresh**：趁这天还新鲜——Paul 需要一个"新鲜"的时机来打这通电话
 - **the little speech**：那番简短说辞——"little" 在这里是贬义，暗示 Paul's 精心设计但内容空洞的表演
@@ -77,7 +80,7 @@
 
 **句子结构**："I'm sorry to say I struck out" 是失败的开场白，"struck out" 是棒球术语（三振出局），Paul 用这个词来形容自己的彻底失败。"I wish I had better news to report" 暗示他原本预期能给 Tom 带去好消息。"though I did look thoroughly" 是欲盖弥彰——他说 "did look thoroughly" 恰恰证明他知道自己没有。"practically broadcasting to Tom with preemptive defensiveness" 是叙述者的评论，揭示 Paul's 的自我矛盾：他一边说自己仔细看了，一边又在预先为失败找借口。
 
-**词汇/表达**：
+**关键词：**
 - **struck out**：三振出局——美国口语，彻底失败
 - **redeveloped**：重新冲印——Paul 声称做了额外工作，实际上是在为自己的失败辩解
 - **preemptive defensiveness**：预先防御——Paul 还没等 Tom 批评就已经在自我辩护了
@@ -95,7 +98,7 @@
 
 **句子结构**："'Okay,' Tom says at last" 是极简的回应，"at last" 暗示 Tom 是在不情愿地结束这段对话。"Paul swallows his surprise" 揭示 Paul's 原本期待更多同情或认可。"He would have given the same response even if..." 是 Paul's 对 Tom 的心理分析——无论结果如何，Tom 都不会满意。最后 "Paul was the 'expert,' loathsome as he was" 中 "loathsome" 是 Paul's 替 Tom 给自己的评价，揭示他自我认知中的阴暗面。
 
-**词汇/表达**：
+**关键词：**
 - **swallows his surprise**：咽下惊讶——Paul 想从 Tom 那里得到认可，但只得到冷淡
 - **no other recourse**：没有别的办法——Tom 找 Paul 是因为别无选择，不是出于信任
 - **loathsome as he was**：尽管他令人厌恶——Paul 用这个词形容自己，暗示他对"专家"身份的自我厌恶
@@ -112,7 +115,7 @@
 
 **句子结构**："work that wasn't his own" 强调这些照片不属于 Paul's，但他却把它们说成是自己的资本。"a story around it as good—or better than—the photographs themselves" 是 Paul's 的核心论点：Judith 的故事比她的照片更有价值。"Paul was shaking from head to toe" 是强烈的身体反应，显示这通电话对 Paul's 的情绪冲击有多大。"as if Marty had said he wanted to see Paul's own photographs" 是关键的心理投射：Paul 把 Judith 的作品当成了自己的成就。
 
-**词汇/表达**：
+**关键词：**
 - **incredible work**：令人难以置信的作品——Paul 用夸张的词汇来包装 Judith 的照片
 - **a story around it**：围绕它的故事——Paul 意识到 Judith 的故事（被跟踪、被杀害）是吸引 Marty 的关键
 - **shaking from head to toe**：从头到脚都在发抖——极度的紧张和兴奋，把别人的成就当成了自己的
@@ -134,9 +137,21 @@ He tells himself to slow down. First he has to get Marty's approval; then he'll 
 
 **句子结构**："But what if...veto them?" 是 Paul's 的焦虑爆发——他担心 Marty 的认可无法转化成 Tom 父子的接受。"He tells himself to slow down" 是自我安抚，但紧接着的 "First...then..." 结构又暴露了他的急切——他有一个精心设计的两阶段计划：先 Marty，后 Tom。
 
-**词汇/表达**：
+## 一句话总结
+
+（本章暂无总结）
+
+**关键词：**
 - **veto them**：否决它们——Paul 担心 Marty 会拒绝这些照片
 - **slow down**：慢下来——Paul 在给自己踩刹车，但效果存疑
 - **First...then**：首先……然后……——典型的计划性思维，显示 Paul's 在操控局面
 
+## 一句话总结
+
+（本章暂无总结）
+
 **为什么这样写**：结尾揭示 Paul's 的策略：他不是在"分享" Judith 的作品，而是在按照自己的计划一步步推进。"slow down" 暗示他知道自己在冒险，但无法停下来。Marty 是第一关，Tom 是第二关——两关都必须过，他的"计划"才能成功。
+
+## 一句话总结
+
+（本章暂无总结）

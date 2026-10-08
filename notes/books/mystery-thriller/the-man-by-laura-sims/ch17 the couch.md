@@ -14,6 +14,9 @@ POV: "Judith Stanley (first person)"
 
 ---
 
+
+## 本章词汇
+
 ## 精读
 
 > **原句 1：**
@@ -115,7 +118,7 @@ Tom 问："去干什么？"他的眼神里闪过一丝异样，声音里带着�
 ---
 
 > **原句 6：**
-> "I wanted to get better pictures. More pictures. There are simply more people there, Tom," I say, sounding defensive and slightly condescending. "I'm tired of my usual circuit. I'm running out of subjects. Paul says—"
+> **原句 1:** "I wanted to get better pictures. More pictures. There are simply more people there, Tom," I say, sounding defensive and slightly condescending. "I'm tired of my usual circuit. I'm running out of subjects. Paul says—"
 
 **中文理解：**
 "我想拍更好的照片。更多的照片。那里人就是更多，Tom。"她说，听起来像在防守，口气还有点居高临下。"我对我那套老路线厌倦了。快要找不到拍摄对象了。Paul说——"
@@ -222,8 +225,24 @@ Judith在儿子离开后进入了存在主义危机（"What now? What and who ar
 - **三年前**：空巢危机 → 摄影疗法 → 丰富的精神生活
 - **现在**：Tom发病 + Rosie死 + 跟踪者 → 新的秘密生活
 
+## 一句话总结
+
+（本章暂无总结）
+
 她的摄影现在有了新的功能：不仅是艺术追求，更是追踪和记录那个跟踪者的手段。而这个新功能必须继续对Tom隐瞒。
+
+## 一句话总结
+
+（本章暂无总结）
 
 ### Tom的角色
 
+## 一句话总结
+
+（本章暂无总结）
+
 Tom在本章中展现了多面性：追问者（What for?）→ 恐惧者（You didn't take the subway?）→ 愤怒者（I don't care what Paul says）→ 关心者（Did you run into any trouble?）→ 保护者（arm firmly around me）。他的情绪波动与Judith的应对策略形成动态关系：每次他表现出怀疑，她就用半真半假来平息他的担忧。而他最终的"满足"状态证明她的策略是"成功的"——但这个成功是以持续的秘密为代价的。
+
+## 一句话总结
+
+（本章暂无总结）

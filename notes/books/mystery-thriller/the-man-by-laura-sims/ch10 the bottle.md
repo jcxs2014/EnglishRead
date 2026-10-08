@@ -14,6 +14,7 @@ POV: "Judith Stanley (first person)"
 
 ---
 
+
 ## 精读
 
 > **原句 1：**
@@ -245,7 +246,7 @@ Tom 很快就到家了。我把照片收好，突然想起 Samantha 说她留的
 
 ---
 
-## 词汇
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
@@ -254,7 +255,6 @@ Tom 很快就到家了。我把照片收好，突然想起 Samantha 说她留的
 | **bereft** | 空虚的，被剥夺的 | I feel puzzled and oddly bereft |
 | **excise** | 切除，删除 | as if I've excised something crucial from myself |
 | **wallow** | 沉溺，自怨自艾 | I stop wallowing and kneel to gather up the scattered prints |
-| **trudge** | 沉重地走，艰难地走 | （本章未出现，供类比参考） |
 
 ### ⭐⭐ 进阶
 
@@ -275,7 +275,7 @@ Tom 很快就到家了。我把照片收好，突然想起 Samantha 说她留的
 | **crop** | 裁剪 | I can reprint the photo and crop the man out |
 | **tuck** | 把……藏起来 | I tuck the pictures away |
 | **peer into** | 凝视，窥视 | I peer into the aqua blue side of the bottle |
-| **distorted** | 扭曲的 | I see my own distorted, smiling face |
+| **distorted** | 扭曲的 | I peer into the aqua blue side of the bottle and see my own distorted, smiling face |
 
 ---
 

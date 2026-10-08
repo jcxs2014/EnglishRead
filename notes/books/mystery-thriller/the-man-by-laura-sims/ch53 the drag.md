@@ -6,9 +6,12 @@
 - **核心事件**：Paul 带着 Judith 的摄影遗作前往 Harper's 杂志社，向出版人 Marty Janowski 兜售，成功说服对方为 Judith 出版专题。
 - **关键人物**：Paul、Marty Janowski（Harper's 出版人）、Judith Stanley（已故，Paul 的学生）
 - **章节主题**：权力与身份的伪装——Paul 以"遗作经纪人"身份重返他曾失意的 Harper's，用别人的才华换取自身的救赎感与复仇的快感。
-- **上章回顾**：Paul 向 Donna 坦白自己是最后见到 Judith 的人，并说服她让他来处理遗作。
+- **上章回顾**：Paul 成功说服 Tom 同意让他处理 Judith 的摄影遗作，带着这枚"金牌"自信前往 Harper's，准备向出版人 Marty Janowski 兜售。
 
 ---
+
+
+## 本章词汇
 
 ## 精读
 
@@ -20,7 +23,7 @@
 
 **句子结构**：复合句，核心为 "Paul pities the guy" 和 "Paul's nerves have vanished, leaving nothing but..." 的对比。"who's probably sweating it out" 是 the guy 的定语从句。"Comfortable in..." 是分词结构作状语，描写 Paul 的穿着与从容。
 
-**词汇/表达**：
+**关键词：**
 - **sharply dressed**：衣着考究（sharply = 精准地，暗示刻意打扮）
 - **sweating it out**：焦虑地等待/紧张兮兮（口语）
 - **wingtips**：翼尖鞋，正式皮鞋的一种
@@ -39,7 +42,7 @@
 
 **句子结构**：插入语结构 "He can't imagine having the nerve to say those words about his own work—I wanted to give you a first look—" 揭示 Paul 的内心独白。"like, Hand them over" 是非正式的口语化方式描写 Marty 的肢体语言。
 
-**词汇/表达**：
+**关键词：**
 - **give you a first look**：让你先看——经纪人的特权语言，暗示作品的价值和稀缺性
 - **can't imagine having the nerve to say those words about his own work**：Paul 承认自己从未有底气用这种话推荐自己的照片——一句坦白，揭示他多年来的自我怀疑
 - **wait a beat**：稍等片刻——Paul 在控制节奏，不是急于成交
@@ -57,7 +60,7 @@
 
 **句子结构**：Paul 的问句是一连串叠加的名词短语（a woman / a mother, a housewife / in suburban New Jersey / named Judith Stanley），逐步揭示 Judith 的身份，制造悬疑节奏。
 
-**词汇/表达**：
+**关键词：**
 - **Did you happen to hear**：你碰巧听说了吗——假装随意的问法，实际上是精心设计的叙事铺垫
 - **keyed up**：极度兴奋/紧张（keyed up = 神经紧绷）
 - **stalker**：跟踪者——Paul 对 Judith 死因的定性
@@ -74,12 +77,12 @@
 
 **句子结构**："Nothing about Judith's death or the serendipitous timing of her change of heart" 是句子的信息中心——Marty 的问题清单里没有这些最关键的"故事元素"，而 Paul 恰恰希望如此。
 
-**词汇/表达**：
+**关键词：**
 - **listening intently**：专注地听——Marty 表面上是职业兴趣，但 Paul 注意到他没问"该问"的问题
 - **the serendipitous timing of her change of heart**：她改变心意的凑巧时机——Paul 内心对 Judith"死前不久才决定发表"这件事的讽刺性表述
 - **won't need to clarify the limits of the family's permission**：Paul 不必澄清家属许可的边界——因为他根本没有得到真正的许可
 
-**为什么这样写**：Paul 在这里松了一口气，因为他撒的谎没被戳破。他只得到了 Donna"不反对"的默许，而非正式授权。Marty 没问"该问"的问题，说明他是出版人思维——关心的是内容，不是法律细节。这对 Paul 来说是个绿灯，也是他继续撒谎的通行证。
+**为什么这样写**：Paul 在这里松了一口气，因为他撒的谎没被戳破——Marty 没问"家属许可"的边界，只关心内容。Paul 内心清楚他其实并未获得正式授权，但 Marty 的职业思维（只管内容、不管法律）给了他继续撒谎的空间。
 
 ---
 
@@ -91,7 +94,7 @@
 
 **句子结构**："With a whiff of coming vengeance" 是介词短语作状语，揭示 Paul's 的内心状态。"Nonchalantly at first, then with increasingly dense attention" 是对比节奏，描写 Marty 阅读行为的变化过程。
 
-**词汇/表达**：
+**关键词：**
 - **a whiff of coming vengeance**：一股即将复仇的气息——whiff = 微弱的气味，暗示 Paul's 的复仇欲望是潜意识的、几乎察觉不到的，但它确实存在
 - **nonchalantly**：漫不经心地——Marty 最初的态度
 - **increasingly dense attention**：越来越密集的注意力——dense = 密集的，暗示 Marty 开始认真对待
@@ -109,12 +112,12 @@
 
 **句子结构**："A falsehood for now" 是插入语，Paul 内心承认这是谎言，但 Marty 并不知道。"distractedly" 形容 Marty 的 nodding——他心不在焉，说明他已经完全被照片征服，不在乎细节。
 
-**词汇/表达**：
+**关键词：**
 - **posthumous representative**：身后的代理人——Paul 自封的身份
-- **A falsehood for now**：目前的谎言——"for now" 暗示 Paul 打算把它变成真的（他确实去找 Donna 要了授权）
+- **A falsehood for now**：目前的谎言——"for now" 暗示 Paul 打算把它变成真的（他声称有家属授权但实为欺骗）
 - **nods his head distractedly**：心不在焉地点头——Marty 的注意力全在照片上，不在 Paul 的身份问题上
 
-**为什么这样写**：Paul 当着 Marty 的面撒谎，而 Marty 的"distractedly"让这个谎暂时成立。Paul 心里清楚这是谎言，但他有把握变成真的——他已经在 ch52 拿到了 Donna 的"不反对"态度。"for now" 是 Paul's 对自己行为的定位：他知道自己在做什么，也知道谎言的保质期。
+**为什么这样写**：Paul 当着 Marty 的面撒谎，而 Marty 的"distractedly"让这个谎暂时成立。Paul 心里清楚这是谎言，但他有把握变成真的——他自称有"家属授权"，但这只是他接近 Marty 的手段。"for now" 是 Paul's 对自己行为的定位：他知道自己在做什么，也知道谎言的保质期。
 
 ---
 
@@ -126,9 +129,21 @@
 
 **句子结构**："after all this time" 是全章的情感核心——Paul 的职业生涯已经走下坡多年，此刻终于有了转机。"He thinks of how he's building himself into a brand-new man" 是 Paul's 自我认知的转变：他不再是那个失意的摄影师，而是 Judith 的代言人。
 
-**词汇/表达**：
+## 一句话总结
+
+（本章暂无总结）
+
+**关键词：**
 - **a long, delicious drag**：深吸一口，美妙的感觉——"delicious" 是 Paul's 对复仇/成功的感官享受
 - **building himself into a brand-new man**：把自己塑造成一个全新的人——Paul 的身份重建
 - **the man who speaks for the soon-to-be-famous Judith Stanley**：为即将走红的 Judith Stanley 代言的人——Paul 用 Judith 的名声来定义自己的新身份
 
+## 一句话总结
+
+（本章暂无总结）
+
 **为什么这样写**：本章的终极主题在此揭示。Paul 借 Judith 的遗作重返 Harper's，并在过程中把自己重塑为"发现天才的人"。他的新身份——"the man who speaks for Judith Stanley"——是自我救赎，也是他多年来对被拒绝、被遗忘的反击。delicious drag 是感官细节，暗示 Paul's 品尝胜利的姿态。
+
+## 一句话总结
+
+（本章暂无总结）

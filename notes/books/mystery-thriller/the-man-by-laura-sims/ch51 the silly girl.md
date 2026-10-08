@@ -14,6 +14,7 @@ POV: "Paul (first person)"
 
 ---
 
+
 ## 精读
 
 > **原句 1：**
@@ -144,7 +145,7 @@ Charlie 的问题看似天真（"如果家人让你帮忙，你大概不是嫌�
 
 ---
 
-## 词汇
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
@@ -169,7 +170,7 @@ Charlie 的问题看似天真（"如果家人让你帮忙，你大概不是嫌�
 | 词条 | 释义 | 例句（原文） |
 |------|------|-------------|
 | **silly** | 傻的，愚蠢的 | She's just a silly young girl |
-| **longs for** | 渴望 | he longs for those dead pictures now |
+| **longs for** | 渴望 | She’s just a silly young girl, he tells himself, and longs for those dead pictures now |
 | **firmly** | 坚定地 | he says firmly |
 
 ---

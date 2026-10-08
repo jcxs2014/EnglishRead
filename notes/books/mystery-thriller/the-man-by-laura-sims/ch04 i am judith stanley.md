@@ -72,7 +72,7 @@ Paul 的话（Judith 想象他会说"Incredible. The composition is striking."�
 
 两个短句构成自问自答——这是 Judith 对自我身份的公开质疑，平静表面下的心理裂痕。"I know her face"说明她认得自己的面孔，"but she isn't quite me"说明面孔下面的那个人已经变形。
 
-## 词汇
+## 本章词汇
 
 - **wilted**：枯萎的，形容 teddy bear 也暗示时间的凋零
 - **bell of my skirt**：裙摆的钟形轮廓，视觉意象精准
@@ -80,6 +80,18 @@ Paul 的话（Judith 想象他会说"Incredible. The composition is striking."�
 - **phantom or an alternate self**：phanom/alternate self 是解离症状的文学表达
 - **spell breaks**："spell"呼应巫术/魔法的语义——凝视橱窗是一种走神入魔的状态
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 章节位置
 
+## 一句话总结
+
+（本章暂无总结）
+
 前有 ch03，Judith 刚经历过某事件（待核）；后接 ch05，TBD。本章在结构上是一次"减速"——从外部事件（购物、派对准备）进入内心独白，为后续张力积蓄心理基础。
+
+## 一句话总结
+
+（本章暂无总结）

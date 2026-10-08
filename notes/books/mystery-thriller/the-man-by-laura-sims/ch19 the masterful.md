@@ -68,7 +68,7 @@ Charlie 友善提问后，Paul 说：
 - **"Beautiful and cruel"的结构功能**：这个词组既是 Paul 对照片的美学评价，也是 Judith 人生经验的总结——美与残酷并存，认可与伤害同在。
 - **高潮的静默处理**：最高潮（"masterful"/tears）出现在 Paul 继续对全班讲课的背景下——Judith 的情感反应是隐蔽的、私密的，与公开的课堂形成反差。
 
-## 词汇
+## 本章词汇
 
 - **sharply tuned in**：高度专注——Judith 在 Paul's 课上的投入状态
 - **dread**：恐惧——被当众点名时的情绪反应
@@ -76,6 +76,18 @@ Charlie 友善提问后，Paul 说：
 - **sears through**：灼烧感——pride 带来的身体感受
 - **masterful**：全章关键词——掌控感的、主人翁式的认可
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 章节位置
 
+## 一句话总结
+
+（本章暂无总结）
+
 前有 ch18（Paul 的课），后接 ch20（待核）。本章是 Judtih 获得外部专业认可的关键时刻——Paul 的"masterful"与 Tom 的"just as good as the ones in Life"（ch13）形成对照：前者是当众的、具体的、震撼的；后者是私下的、虚伪的、礼节性的。Charlie 的友善态度也标志着 Judith 在这个新环境中第一次体验到来自同辈（非权威）的正面关注。
+
+## 一句话总结
+
+（本章暂无总结）

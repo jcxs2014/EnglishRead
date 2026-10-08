@@ -146,7 +146,7 @@ Judith 在地板上寻找死去的狗——这是一个悲伤的细节：她期�
 
 "intense anticipation and delight"——对冲洗出来的照片的期待，揭示摄影对 Judith 而言是**愉悦的制造**，而非仅仅记录。她在照片中看到的是被自己重新控制的世界。
 
-## 词汇
+## 本章词汇
 
 - **contented trance**：满足的恍惚状态；是 Judith 用工作/仪式来逃避情绪的写照
 - **ground me with purpose**：ground 这里是动词，使固定、使踏实；Judith 用冲洗照片的仪式来获得目的感，对抗焦虑

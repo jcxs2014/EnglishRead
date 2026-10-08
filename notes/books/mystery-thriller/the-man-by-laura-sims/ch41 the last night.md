@@ -71,7 +71,7 @@ Paul 认为自己才是让 Judith 作品重见天日的合适人选。"Someone l
 - **"buzz"意象**：偷窃带来的短暂快感（floating）vs. 事后的空洞（sprawled in a chair, staring out grimy window）——成瘾机制的具体呈现
 - **时间线收束**：从八周前的死亡 → 当下的来访 → 最后的意图，逐层剥开 Paul 的动机
 
-## 词汇
+## 本章词汇
 
 - **remarkably**：adv. 显著地——修饰"easy to lie"，暗示 Paul 的欺骗能力超乎寻常
 - **jittering heart**：心悸；紧张的心跳——与表面的平静形成反差
@@ -81,10 +81,30 @@ Paul 认为自己才是让 Judith 作品重见天日的合适人选。"Someone l
 - **fixated**：adj. 执念的；着魔的——Paul 对 Judith 作品的病态依附
 - **towering talent**：卓越天才——Paul 无法企及的东西
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 章节位置
+
+## 一句话总结
+
+（本章暂无总结）
 
 Part II 开篇。ch01–ch37 为 Part I（Judith 生前），ch41 开始 Part II（Judith 死后）。本书 79 章，Part II 将揭示 Judith 之死的真相与 Paul 的真实角色。本章是 Part II 的定调：表面是"完成亡者遗愿"，实质是一个失败者的执念如何驱动他走向危险的边缘。
 
+## 一句话总结
+
+（本章暂无总结）
+
 ---
 
+## 一句话总结
+
+（本章暂无总结）
+
 *POV：Paul（第三人称）*
+
+## 一句话总结
+
+（本章暂无总结）

@@ -8,6 +8,7 @@
 - **章节主题**：占有与欺骗——Paul以学术之名拿到全部遗物，内心却计划据为己有；Tom Senior以关心之名打探线索，实则仍在否认现实
 - **上章回顾**：Paul与两位Tom达成协议，获准带走全部照片、底片和胶卷
 
+
 ## 精读
 
 > **原句 1:** "With TJ's help, Paul packs the eleven boxes into his trunk as quickly as he can."
@@ -264,7 +265,7 @@
 
 **为什么这样写**：全章以Paul的极度膨胀结束。他骗过了Tom Senior，拿到了Judith的全部遗物，还在Tom Senior最在乎的问题上给了空头承诺。这个结尾的狂喜与书名"The Man"的悬念形成张力——Paul认为自己掌控了一切，但读者知道真正的"the man"（stalker）仍然在暗处。
 
-## 词汇
+## 本章词汇
 
 ⭐⭐⭐
 - **ingested**：摄入，吞下（原形ingest）｜Tom Senior looks like someone who's ingested poison — 极度不适的生理状态

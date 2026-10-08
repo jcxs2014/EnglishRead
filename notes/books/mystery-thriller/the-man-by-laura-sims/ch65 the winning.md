@@ -14,6 +14,9 @@
 
 ---
 
+
+## 本章词汇
+
 ## 精读
 
 ### 精读块 1：信件与自我慰藉
@@ -24,7 +27,7 @@
 
 **句子结构**："tells himself not to mess with them, then starts picking through them anyway"是 Paul's 的模式：自我命令与实际行为之间的脱节。他需要"a hit of something nice"——他把正面的信件当作药物、当作提神剂。"after dealing with Charlie's ugly silence"透露了 Paul's 的状态：他刚刚处理完 Charlie 的沉默，这种沉默让他不安。"paranoia that overtook him back in the parking lot"是 Paul's 的偏执——他对 Charlie 的怀疑和不安已经到达了偏执的程度。
 
-**词汇/表达**：
+**关键词：**
 - **a hit of something nice**：一点好东西——Paul 把正面信件当作药物；"hit"是成瘾的隐喻
 - **lift him up**：提神——Paul 需要外部的东西来提升自己的情绪
 - **ugly silence**：冷漠的沉默——Paul 如何描述 Charlie 的沉默；"ugly"是他的评价词
@@ -41,7 +44,7 @@
 
 **句子结构**："The handwriting on the envelope, all elegant loops and curves"是 Paul's 对信件的第一印象：他通过笔迹判断写信人。"one as sane and orderly as his own mother"是 Paul's 的心理：他渴望理智和秩序，他把它投射到笔迹上。"Farrah calls Judith 'a visionary who made [her] feel seen'"是 Farrah 对 Judith 的评价——但这个评价是关于 Judith 的，不是关于 Paul 的。"but then she goes on to lament Judith's death"是 Paul 的转折点：信从"夸 Judith"变成了"哀悼 Judith 的死亡"。"closes without mentioning Paul at all"是 Paul's 的痛点：他没有被提到。"His absence is central, slighting—a replay of what happened in the classroom"是 Paul's 的内心解读：Farrah 没有提到他，这是一种轻蔑，是教室里的重演。"He crumples the letter and envelope viciously in one hand"是 Paul's 的暴力反应：他愤怒地揉信。
 
-**词汇/表达**：
+**关键词：**
 - **promising-looking**：看起来有希望的——Paul 在寻找他想要的东西
 - **sane and orderly**：理智有序——Paul 投射到 Farrah 身上的品质
 - **slighting**：轻蔑——Paul 如何解读自己的缺席
@@ -71,7 +74,7 @@
 
 **句子结构**："He wanted something, needed it, and didn't get it"是 Paul's 的总结：他寻求认可，但没有得到。"But why was he looking for what he needed in the damn letters anyway?"是 Paul's 的自我质询：他在信件里寻找什么？"Or from someone like Charlie?"是 Paul's 提到的 Charlie——他也在 Charlie 那里寻求认可。"It was just a craving he'd given in to"是 Paul's 的自我认知：他屈服于对认可的渴望。"a craving for affirmation, a sense that he was good and what he'd done was right"是 Paul's 的渴望的核心：他需要知道自己"是好的"，需要知道他的行为"是对的"。"no outside voice will give him that"是 Paul's 的领悟：外部世界不能给他这种确定性。"he resolves not to read any more unless he wants pure entertainment"是 Paul's 的决定：不再寻求认可，除非只是为了娱乐。
 
-**词汇/表达**：
+**关键词：**
 - **a craving for affirmation**：对认可的渴望——Paul 承认自己需要被认可
 - **a sense that he was good and what he'd done was right**：对自己是好人和自己行为正确的感知——Paul 需要的是自我价值感
 - **pure entertainment**：纯粹娱乐——Paul 降低信件的意义：从"认可来源"变成"娱乐"
@@ -88,7 +91,7 @@
 
 **句子结构**："draft dodger like yourself"是 David 对 Paul 的指控：Paul 逃避了兵役。"would be the man to profit by Judith Stanley's work"是 David 的核心指责：Paul 在利用 Judith 的作品赚钱。"I feel sorry for the woman herself and for her family"是 David 对 Judith 和她家人的同情。"who may or may not know the truth about you"是 David 的暗示：Judith 的家人可能不知道 Paul 的真相。"If I had the power to expose you for what you are, I would"是 David 的威胁：他想要揭露 Paul。"in the hands of someone with a real sense of duty, honor, and integrity"是 David 对"真正的保管者"的定义——不是 Paul。"if I could do anything to stop it, I would"是 David 的最终声明：他想要阻止 Paul。
 
-**词汇/表达**：
+**关键词：**
 - **draft dodger**：逃避兵役者——David 对 Paul 的指控
 - **expose you for what you are**：揭露你的真面目——David 的意图
 - **duty, honor, and integrity**：责任感、荣誉感、正直——David 用来攻击 Paul 的价值体系
@@ -105,7 +108,7 @@
 
 **句子结构**："A man who didn't even have the 'honor and integrity' to sign off with his last name"是 Paul's 的反驳逻辑：David 没有用全名，所以他没有"honor and integrity"。"when Paul was too old for the damn draft"是 Paul's 的核心反驳：他太老了，不能服役——所以他不是 draft dodger。但这个反驳很薄弱：Paul 似乎在抗议一个技术细节，而不是直接否认指控。"Paul snorts and rips the letter right in half"是 Paul's 的暴力反应：他用撕信来回应。
 
-**词汇/表达**：
+**关键词：**
 - **too old for the damn draft**：超过了服役年龄——Paul 的反驳；但这只能证明"当时太老"，不能证明"从来没有逃避"
 - **rips the letter right in half**：把信撕成两半——Paul 的暴力反应；他对指控的回应是身体上的暴力，而不是言语上的反驳
 
@@ -121,7 +124,7 @@
 
 **句子结构**："nearly strides into the kitchen to light it on fire"是 Paul's 的冲动：他想烧掉所有的信。"but stops himself before getting there"是 Paul's 的自我控制：他停下来，因为"it will make a mess"——他害怕后果。"it will make a mess, he'll set off the fire alarm"是 Paul's 的顾虑：他害怕被发现，害怕引起注意。"it's too cold to go out on his fire escape"是 Paul's 的借口：天气冷，所以不能烧——这是他的理性化。"since Paul can't stand disarray, he scoops them up and stacks them neatly"是 Paul's 的强迫性：他不能忍受凌乱，所以他把信整齐地堆好。"his stomach churning violently the whole time"是 Paul's 的身体反应：他的胃在翻腾——他在压抑愤怒和焦虑。
 
-**词汇/表达**：
+**关键词：**
 - **nearly strides into the kitchen to light it on fire**：几乎要大步走进厨房点燃——Paul 的冲动
 - **can't stand disarray**：无法忍受凌乱——Paul 的强迫性；对秩序的需求
 - **stomach churning violently**：胃剧烈翻腾——Paul 的身体焦虑
@@ -138,7 +141,7 @@
 
 **句子结构**："finds an empty cardboard box and dumps all the letters"是 Paul's 的行动：他把所有信都收起来。"Even the opened, threatening ones"是 Paul's 的 inclusivity：即使是威胁信，他也放进去——但这与"他差点烧信"矛盾。"Neither threats nor compliments matter"是 Paul's 的声明：他不再在乎。"He has a catalog introduction to write, and a job at Doven Gallery"是 Paul's 的专注点：工作。"He will no longer let the insignificant insults of angry girls, women, or men have any impact"是 Paul's 的宣言：他不会让"愤怒的女孩、女人或男人"的"无足轻重的侮辱"影响他。"upwardly mobile life"是 Paul's 的自我描述：他的生活是"向上爬的"。"In the end, he's still winning"是 Paul's 的最终结论：无论如何，他还是赢了。
 
-**词汇/表达**：
+**关键词：**
 - **upwardly mobile life**：向上爬的生活——Paul 如何描述他的人生方向
 - **In the end, he's still winning**：最终，他还是赢了——Paul 的自我肯定；但这句话很空洞
 
@@ -158,6 +161,18 @@
 - **纸箱**：把所有反馈（威胁和恭维）都收起来——Paul 的"不再在乎"
 - **胃翻腾**：Paul 的身体真实状态，与他"still winning"的声明矛盾
 
+## 一句话总结
+
+（本章暂无总结）
+
 **与前章关系**：ch64 是 Paul 收到 Charlie 的沉默，本章他在信件中寻找慰藉，但收到的是威胁。Charlie 的沉默和 David 的威胁都是 Paul's 不能控制的外部世界——他的反应都是暴力冲动后转为秩序化。
 
+## 一句话总结
+
+（本章暂无总结）
+
 **悬念**：Paul 是 draft dodger 吗？David 的指控有多少真实性？Paul 的反驳"太老了"暗示了什么？Judith 的家人是否知道关于 Paul 的真相？
+
+## 一句话总结
+
+（本章暂无总结）

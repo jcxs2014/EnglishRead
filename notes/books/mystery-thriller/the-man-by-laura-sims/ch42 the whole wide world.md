@@ -57,7 +57,7 @@ Tom 一语戳破，Paul 还想挣扎——"a pittance like that isn't my motivat
 - **物件作为执念象征**：photos、prints、rolls、negatives——Paul 在脑中把 Judith 的作品拆解成可掠夺的物件
 - **"newly bright"的眼睛**：Tom 此前处于悲伤的迟钝中，这一刻突然变得警觉——是 Paul 的谎言触发了他的警觉机制
 
-## 词汇
+## 本章词汇
 
 - **stifles a nervous laugh**：Paul 试图掩饰时的生理反应——笑被压住，说明他在紧张
 - **overestimated the stupor of his grief**：Paul 低估了 Tom 的清醒程度——Tom 并非浑噩的鳏夫，而是一个仍在思考的人
@@ -65,9 +65,25 @@ Tom 一语戳破，Paul 还想挣扎——"a pittance like that isn't my motivat
 - **a vein in Tom's forehead jumps out**：Tom 愤怒到极限的生理描写——几乎要动手，但忍住了
 - **fan the flames of his desire**：Paul 的愤怒反而助长了他占有照片的欲望——情绪的扭曲逻辑
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 章节位置
+
+## 一句话总结
+
+（本章暂无总结）
 
 ch41（the prison）之后，Judith 的康复叙事暂时搁置，视线转向 Paul。Tom 既是受害者又是拒绝者的双重身份在本章得到强化——他看穿了 Paul，而 Paul's 被逐出门的场景完成了 Paul 叙事线的又一次挫败。"the whole wide world"这五个字是 Paul 给自己的谎言，是本章的标题，也是他最深的讽刺。
 
+## 一句话总结
+
+（本章暂无总结）
+
 ---
 *POV：Paul（第三人称）*
+
+## 一句话总结
+
+（本章暂无总结）

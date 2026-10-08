@@ -57,7 +57,7 @@ Paul 观察到 Prager 的"exasperated look"并确认自己已经赢了。Harvey 
 - **"pathetic green vest"**：Paul 对 Harvey 的最终贬低，vest 成为无能/被驯化的符号
 - **结尾的 glance 暗示**：Paul "knows without looking back"——他对控制的确信已达到超感官的程度
 
-## 词汇
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
@@ -84,9 +84,25 @@ Paul 观察到 Prager 的"exasperated look"并确认自己已经赢了。Harvey 
 | **blacklist** | 黑名单 | I'm adding your name to our blacklist |
 | **shakes hands** | 握手 | Once Paul has shaken hands with Officer Prager |
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 章节位置
+
+## 一句话总结
+
+（本章暂无总结）
 
 前有 ch43（超市行窃、被 Harvey 拦下、等待 police），现有 ch44（警察问询、脱身成功）。本章是 Paul POV 的续章，展示其危机应对能力：观察、利用信息差、在压力下保持冷静的操控。Judith Stanley 案的名字从未真正远离——"If he's one kind of criminal, after all, he might be another"——但这一次，他成功脱身。
 
+## 一句话总结
+
+（本章暂无总结）
+
 ---
 *POV：Paul（第三人称）*
+
+## 一句话总结
+
+（本章暂无总结）

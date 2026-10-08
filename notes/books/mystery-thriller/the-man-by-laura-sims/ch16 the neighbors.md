@@ -114,7 +114,7 @@ Judith 坐在排屋台阶上，试图回忆那个声音——它在某个"shabby
 - **家的意象系统**：freshly vacuumed carpet / family photographs / crystal figurines / curtains / front door——这五个意象构成一个完整的"封闭自我"隐喻
 - **未知恐惧的精确化**：那个男人的面孔始终模糊（average height, short brown hair, tan sleeve）——越模糊越可怕，因为模糊意味着他可以是任何人
 
-## 词汇
+## 本章词汇
 
 - **one-track mind**：Paul 的摄影师哲学，Judith 将其内化为面对城市时的行为准则
 - **giddy**：Judith 描述自己 snapping left and right 时的状态——这个词暗示某种轻度欣快，可能是解离的前兆
@@ -122,6 +122,18 @@ Judith 坐在排屋台阶上，试图回忆那个声音——它在某个"shabby
 - **moist spray of breath**：袭击者的"moist spray"与 kind stranger 的"kind, concerned face"形成对照——两个陌生人的身体接近带来截然不同的感受
 - **bile and bitterness**：口中充满胆汁与苦涩——身体化的抑郁表达
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 章节位置
 
+## 一句话总结
+
+（本章暂无总结）
+
 前有 ch15（待核），后接 ch17（待核）。本章在结构上是**崩溃章节**：Judith 从"我可以控制这个城市"的信心高峰，一路跌至"他认识我的名字"的心理低谷。城市从解放空间变成威胁空间，照片从艺术变成证据，而"neighbors"——无论是在排屋台阶上帮助她的陌生人还是最终等待她回家的邻居——成为她与创伤之间的唯一缓冲。
+
+## 一句话总结
+
+（本章暂无总结）

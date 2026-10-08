@@ -14,6 +14,7 @@
 
 ---
 
+
 ## 精读
 
 ### 精读块 1：等待与注视
@@ -24,7 +25,7 @@
 
 **句子结构**：复合句，主句 "I envy them their fresh young beauty" 前置了大量状语从句描写"粉丝女孩"的行为。"except for" 引出省略结构 "except for three young women (who...)"，who 定语从句内部用现在分词短语 "tossing their hair or smoothing it in place, crossing and uncrossing..." 描绘她们刻意做作的姿态。最后 "but none of it has earned them anything near the attention Paul has gladly given me" 形成情绪反转——Judith 表面羡慕，内心实则自信于自己独享的特别关注。
 
-**词汇/表达**：
+**关键词：**
 - **fangirls**：粉丝女孩——带有贬义，指那些刻意吸引教授注意的女生，Judith 用引号标记这个称呼，暗示一种轻蔑
 - **tossing their hair or smoothing it in place**：甩头发或整理头发——刻意卖弄的姿态
 - **stockinged legs**：穿着长筒袜的腿——强调性吸引力
@@ -44,7 +45,7 @@
 
 **句子结构**：主句 "I notice how I've emphasized the shadowy corners..." 后接三个并列宾语 "the shadows beneath Janet's eyes, her wide-open, shadowy mouth—the shadows everywhere"，破折号引出总结性判断 "on this so-called joyous occasion"。"so-called" 是插入性修饰，暗示 Judith 并不认为这个派对真正欢乐。
 
-**词汇/表达**：
+**关键词：**
 - **shadowy corners**：阴暗角落——Judith 镜头下的派对不是明亮的庆祝，而是充满隐藏的阴暗
 - **shadows beneath Janet's eyes**：Janet 眼下的阴影——暗示疲惫、纵欲或不安
 - **wide-open, shadowy mouth**：大张的、充满阴影的嘴——呼应 ch05 中对 Janet 在卧室里"被压制"场景的记忆
@@ -62,7 +63,7 @@
 
 **句子结构**：短促的断句式书写。"Shadows in the bedroom, too. That ugly coupling." 两个独立名词短语，没有动词，是强烈的意象并置。接着 "I fight to bring my focus back..." 是主句。"Not the pictures I didn't, couldn't, take that night." 是否定对照。"The ones I can't erase from my mind." 自我纠正——真正挥之不去的是脑海中的画面。最后"If I'd managed... maybe I'd be able to..." 是虚拟语气，表达 Judith 的自我欺骗；"But they linger..." 则是残酷的现实。
 
-**词汇/表达**：
+**关键词：**
 - **That ugly coupling**：那场丑陋的交合——ch05 中 Judith 无意中撞见的场景，"ugly"是强烈的道德判断
 - **I fight to bring my focus back**：我努力把注意力拉回——"fight"暗示这不是轻而易举的事
 - **couldn't**：不敢——情态动词的精确选择，Judith 不敢拍下那场性行为，可能是出于恐惧或道德
@@ -81,7 +82,7 @@
 
 **句子结构**："Man, Judith, these are fantastic" 是直接引语，Paul 的惊叹。"He says it quietly" 是转述，"but it startles me from my dark reverie" 形成转折——低声说的赞美却产生了惊醒效果。"His eyes are glued to the photograph..." 描述 Paul 的专注。最后 "I'm so pleased... that I start to babble" 是结果状语从句，解释 Judith 的反应过度。
 
-**词汇/表达**：
+**关键词：**
 - **Man, Judith, these are fantastic**：Paul 的原话，感叹句式，非正式但真诚
 - **startles me from my dark reverie**：把我从黑暗的出神中惊醒——"dark reverie"呼应 Judith 的内心状态，"startle"暗示她本不在当下
 - **eyes are glued to**：眼睛被粘在……上——极度专注
@@ -100,7 +101,7 @@
 
 **句子结构**："As Paul nears the self-portrait, the picture I most wanted to share, I start to panic." 主句带时间状语从句和同位语。"I wanted to see if he would notice..." 是过去的意图，"but now I'm overwhelmed by the opposite desire" 形成情绪反转。最后 "I reach out and grab all the photographs from his hands" 是肢体动作，与心理恐慌形成对应。
 
-**词汇/表达**：
+**关键词：**
 - **the picture I most wanted to share**：我最想分享的照片——矛盾修饰：最想分享的反而是让她最恐惧的
 - **the small figure in the background**：背景里小小的身影——ch07 中发现的男性轮廓
 - **searching gaze**：审视的目光——"searching"暗示穿透、探查，呼应 Judith 对"被看穿"的恐惧
@@ -118,7 +119,7 @@
 
 **句子结构**："Paul runs his hand through his thick, nearly shoulder-length hair—something he does often during class—" 是插入语，描述 Paul 的习惯性动作。"and keeps flipping through the pictures" 是主句动作。"He praises... and pauses at the photograph of Tom, too." 是 Paul 的反应。"I stop breathing for a moment." 是 Judith 的身体反应——当别人看到 Tom 的照片时，她屏住了呼吸。
 
-**词汇/表达**：
+**关键词：**
 - **runs his hand through his thick, nearly shoulder-length hair**：拢头发——Paul 的习惯性动作，增加人物细节
 - **flipping through the pictures**：翻看照片——"flip"有快速翻动的意思
 - **grimacing at Samantha's kiss**：在 Samantha 亲吻时做鬼脸——Hal 在派对上的反应
@@ -130,13 +131,13 @@
 
 ### 精读块 7：职业认可 vs. 内心恐惧
 
-> "It isn't kindness," he says. "I've never offered to help a student with publication before. I never expected to. But believe me when I say these are extraordinary. I'd be honored to help you send them out. I think they'd find a great home. They deserve to find a great home."
+> **原句 1:** "It isn't kindness," he says. "I've never offered to help a student with publication before. I never expected to. But believe me when I say these are extraordinary. I'd be honored to help you send them out. I think they'd find a great home. They deserve to find a great home."
 
 **中文理解**："这不是善意，"他说。"我从未主动提出过帮学生发表作品。我从未想过要这样做。但相信我，这些真的很非凡。我很荣幸能帮你投出去。我认为它们会找到很好的归宿。它们值得找到一个很好的归宿。"
 
 **句子结构**：直接引语，Paul 的郑重表态。"It isn't kindness" 是否定式开场，强调这不是客套。"I've never offered to help a student with publication before. I never expected to." 是强调他破例的罕见性。"But believe me when I say these are extraordinary." 是核心评价。"I'd be honored to help you send them out." 是主动提供帮助。"I think they'd find a great home. They deserve to find a great home." 是对作品未来的预言，"find a great home"是拟人化表达，指找到愿意发表的媒体。
 
-**词汇/表达**：
+**关键词：**
 - **It isn't kindness**：这不是善意——Paul 强调这是专业判断，不是社交客套
 - **extraordinary**：非凡的——比 "fantastic" 更高一级的评价
 - **I'd be honored to help you send them out**：我很荣幸能帮你投出去——"honored"是高度正式的用语
@@ -154,7 +155,7 @@
 
 **句子结构**："Extraordinary, he said. Extraordinary. Even better than uncanny." 是内心独白，重复强化 Paul 的评价。"The dim, ordinary lecture hall brightens in the glow of Paul's words." 是环境描写，呼应情绪。"Even so, they can't sway me." 是转折——外部认可无法改变内心。"I never want strangers' eyes on me again, searching me, prying me open." 是核心宣言，三个平行动词（never want / searching / prying）强调拒绝的程度。"to me it's the same" 是关键判断：被看照片 = 被看穿。"And I can't explain any of that to Paul." 是隔离感——她无法向 Paul 袒露真实的自己。
 
-**词汇/表达**：
+**关键词：**
 - **Even better than uncanny**：比"超自然"还好——Judith 用 Paul 在课堂上用过的词来衡量这个评价
 - **The dim, ordinary lecture hall brightens**：昏暗的教室明亮起来——环境描写映射内心，但"ordinary"暗示 Judith 意识到这一切其实很普通
 - **can't sway me**：无法动摇我——外部认可失效
@@ -168,7 +169,7 @@
 
 ### 精读块 9：结尾的轻快
 
-> "Judith," Paul calls before the door swings shut behind me. "I hope you'll bring some new pictures next week."
+> **原句 2:** "Judith," Paul calls before the door swings shut behind me. "I hope you'll bring some new pictures next week."
 
 > Everything shifts. I leave the room feeling buoyant and light.
 
@@ -178,7 +179,7 @@
 
 **句子结构**：对话与叙述的简短交替。"Everything shifts." 是全章最精简的句子，两个词，却承载了情绪的剧变。"I leave the room feeling buoyant and light." 是具体的身体感觉。
 
-**词汇/表达**：
+**关键词：**
 - **before the door swings shut behind me**：门在我身后关上之前——时间的紧迫感
 - **I hope you'll bring some new pictures next week**：Paul 的邀请，暗示他真的想继续看到她的作品
 - **Everything shifts**：一切都在改变——情绪转折点
@@ -209,7 +210,7 @@
 
 ---
 
-## 词汇
+## 本章词汇
 
 - **fangirls**：粉丝女孩——Judith 用引号标记，暗示轻蔑；她们靠外貌吸引注意，Judith 则靠作品
 - **startle from my dark reverie**：从黑暗的出神中惊醒——Judith 一直不在当下，被 Paul's 的话猛然拉回
@@ -225,10 +226,26 @@
 
 Judith 在 Paul's 夜间摄影课结束后展示派对照片，获得 Paul 的高度评价（"fantastic"/"extraordinary"）以及帮其向摄影杂志投稿的承诺。然而当 Paul 即将看到那张有神秘男性轮廓的自拍照时，Judith 抢回了所有照片——渴望被认可与恐惧被看穿形成尖锐冲突。"to me it's the same"揭示了她将照片视为自我的延伸：被陌生人审视照片就是被审视内心。Paul 的再次邀请（"希望下周能看到新照片"）让 Judith 感到"轻快"，但这个愉悦建立在她仍无法面对创伤真相的基础上——那张自拍照里的男性轮廓仍是悬而未决的威胁。
 
+## 一句话总结
+
+（本章暂无总结）
+
 ---
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 关键引语
+
+## 一句话总结
+
+（本章暂无总结）
 
 1. "I never want strangers' eyes on me again, searching me, prying me open."（核心心理宣言）
 2. "The ones I can't erase from my mind. If I'd managed to capture the man and woman on film, maybe I'd be able to move on and forget them."（摄影控制幻觉的失败）
 3. "I don't want strangers' eyes on my photographs, either; to me it's the same."（照片作为自我延伸）
+
+## 一句话总结
+
+（本章暂无总结）

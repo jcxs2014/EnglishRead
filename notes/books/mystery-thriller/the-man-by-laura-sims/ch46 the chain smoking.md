@@ -68,7 +68,7 @@ Paul 冲回家，坐进扶手椅，决定坐到凌晨——"though it makes litt
 - **反讽的职业倦怠**：教师本应关心教育，但 Paul 的内心独白"what does it matter"是对职业本身的否定
 - **Judith 作为标杆**：Paul 无意识地将 Judith 作为所有事物的衡量标准——她的缺场本身就是一种在场
 
-## 词汇
+## 本章词汇
 
 - **doggedly**：固执地；顽强地——电话"doggedly silent"，是拟人化
 - **at bay**：阻挡；围困——Paul 用酒吧氛围把 Stanley 男人的思绪挡在门外
@@ -77,6 +77,18 @@ Paul 冲回家，坐进扶手椅，决定坐到凌晨——"though it makes litt
 - **thrum**：低频持续震动——描述焦虑心理的质感
 - **wee hours**：凌晨时分——Paul 准备等到深夜
 
+## 一句话总结
+
+（本章暂无总结）
+
 ## 章节位置
 
+## 一句话总结
+
+（本章暂无总结）
+
 前有 ch45（待核），后接 ch47（待核）。本章是 Paul 的独角戏——他与 Judith（梦中接触）和 TJ（现实等待）的双重联系构成张力。Judith 在他的参照系中是无形的标杆（"none of them are like Judith"），而 TJ 是具体的焦虑来源（等不到的电话）。两者的共同点：Paul 都无法主动联系，只能被动等待。
+
+## 一句话总结
+
+（本章暂无总结）

@@ -111,7 +111,7 @@ Paul 主动提出送她上车，Judith 感到"conscious of my body"——这是�
 
 破折号连接两个对立状态：relieved（因为没有真的说出）和 melancholy（因为无法说出）。破折号制造了情感上的断裂感，alone 再次确认她的孤立处境。
 
-## 词汇
+## 本章词汇
 
 - **rapt**：全神贯注的；"as rapt as a fangirl"将 Judith 与粉丝团女生并列，暗示她的心态不是"学生"而是"追星族"
 - **showman, magician**：Paul 被同时赋予两个词——前者暗示表演性，后者暗示真正的魔力；两个词合在一起说明他既是演员也是艺术家

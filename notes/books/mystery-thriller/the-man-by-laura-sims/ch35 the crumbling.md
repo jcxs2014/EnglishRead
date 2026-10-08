@@ -14,6 +14,7 @@ POV: "Judith Stanley (first person)"
 
 ---
 
+
 ## 精读
 
 > **原句 1：**
@@ -186,7 +187,7 @@ Judith 带刀出门，既是自我保护的本能，也是她对"the man"威胁�
 ---
 
 > **原句 10：**
-> "Rosie?" I call, embarrassed at first, then letting my voice ring out. "Rosie?"
+> **原句 1:** "Rosie?" I call, embarrassed at first, then letting my voice ring out. "Rosie?"
 
 **中文理解：**
 "Rosie？"我喊了一声，一开始还很尴尬，然后让声音响亮地传开。"Rosie？"
@@ -352,7 +353,7 @@ Patty 是社区监视的象征——她"ogled"Tom 被抬出家门的场景，现
 
 ---
 
-## 词汇
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 

@@ -14,6 +14,7 @@ POV: "Judith Stanley (first person)"
 
 ---
 
+
 ## 精读
 
 > **原句 1：**
@@ -244,7 +245,7 @@ Tom 的一次普通翻身就让 Judith 僵住——这个细节揭示了她长�
 
 ---
 
-## 词汇
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
@@ -263,7 +264,7 @@ Tom 的一次普通翻身就让 Judith 僵住——这个细节揭示了她长�
 | **cowardly** | 胆小的，胆怯的 | He's cowardly, I tell myself |
 | **commotion** | 喧嚣，骚动 | he'll be lost in the commotion of the city |
 | **rigid** | 僵硬的，僵化的 | I stay rigid until I hear a light snore |
-| **long to** | 渴望，极度希望 | part of me longs to be told exactly that |
+| **long to** | 渴望，极度希望 | Though part of me—a small part—longs to be told exactly that, to let the trip go, to not put myself at risk of encountering the man |
 
 ### ⭐ 基础
 
