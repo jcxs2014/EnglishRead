@@ -72,7 +72,7 @@ Pen与Lennox对话，他问她是否听说过他的姐姐。Pen烦躁，去拿�
 
 ### 第3段：Pen的恐惧
 
-> **原句 3:** Though they were both dressed for the day, Pen, who had never once encountered Lennox before noon, felt as if she had walked in on him in his dressing gown and slippers. had never once encountered Lennox before, felt like a schoolgirl meeting her headmaster.
+> **原句 3:** Though they were both dressed for the day, Pen, who had never once encountered Lennox before noon, felt as if she had walked in on him in his dressing gown and slippers.
 
 **中文理解**：虽然他们都穿好了当天的衣服，但从未在中午前遇到Lennox的Pen，感觉自己撞见了他穿着睡袍和拖鞋的样子。
 
@@ -111,9 +111,9 @@ Pen与Lennox对话，他问她是否听说过他的姐姐。Pen烦躁，去拿�
 
 ### 第4段：Lennox的目光
 
-> **原句 4:** Her horror was compounded when she noticed how he was looking at her: like he was dusting her for prints. Just as Sherlock Holmes could deduce, from the worn-out knees of a man's trousers, that he was planning to rob a bank vault, she realized that Lennox would probably find evidence on her person of where she had spent the night, and how. The thought was intolerable. She plastered an artificial smile onto her face and forced herself to go through the motions of cheerful human interaction.s looking at her: like he was dusting her for prints.s looking at her: like he was dusting her for prints.s looking at her: like he was weighing her up.
+> **原句 4:** Her horror was compounded when she noticed how he was looking at her: like he was dusting her for prints. Just as Sherlock Holmes could deduce, from the worn-out knees of a man's trousers, that he was planning to rob a bank vault, she realized that Lennox would probably find evidence on her person of where she had spent the night, and how. The thought was intolerable. She plastered an artificial smile onto her face and forced herself to go through the motions of cheerful human interaction.
 
-**中文理解**：当她注意到他看她的眼神时，她的恐惧更加剧烈了：就像他在称量她。
+**中文理解**：当她注意到他看她的眼神时，她的恐惧更加剧烈了：就像他在给她取指纹。
 
 **关键词**：
 - `Her adj. 她的`
@@ -130,10 +130,10 @@ Pen与Lennox对话，他问她是否听说过他的姐姐。Pen烦躁，去拿�
 - `at prep. 对`
 - `her pron. 她`
 - `like prep. 像`
-- `weighing v. 称量`
-- `up adv. 上`
+- `dusting v. 取指纹`
+- `prints n. 指纹`
 
-**表达方式**："like he was weighing her up"——就像他在称量她，暗示Lennox的审视。
+**表达方式**："like he was dusting her for prints"——像给她取指纹，伦诺克斯的打量是侦探式的：昨晚她在哪、怎么过的，他都要从她身上取证。
 
 ---
 
@@ -327,5 +327,5 @@ Pen与Lennox对话，他问她是否听说过他的姐姐。Pen烦躁，去拿�
 
 1. **"incredulous replies and demands for more information"** —— 难以置信的回复和索要更多信息的要求：*With Alice's incredulous replies.*
 2. **"felt like a schoolgirl meeting her headmaster"** —— 感觉自己像一个女学生遇到她的校长：*Though they were both dressed for the day.*
-3. **"like he was weighing her up"** —— 就像他在称量她：*Her horror was compounded when she noticed.*
+3. **"like he was dusting her for prints"** —— 像在给她取指纹：*Her horror was compounded when she noticed.*
 4. **"Irritation emboldened her"** —— 烦躁给了她勇气：*Pen went over to the cupboard.*

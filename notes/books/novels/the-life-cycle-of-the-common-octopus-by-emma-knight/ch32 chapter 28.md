@@ -17,7 +17,7 @@
 
 ### 第1段：看到父亲
 
-> **原句 1:** 28 Pen saw her dad right away and was slammed with a feeling of relief so powerful that she thought she might have to sit down in the middle of the arrivals ramp.
+> **原句 1:** Pen saw her dad right away and was slammed with a feeling of relief so powerful that she thought she might have to sit down in the middle of the arrivals ramp.
 
 **中文理解**：佩内洛普立刻看到了爸爸，一股强烈的 relief 袭来，几乎让她摔倒。
 
@@ -37,9 +37,9 @@
 
 ### 第2段：想说的话
 
-> **原句 2:** There were many things she wanted to tell him, but none of them seemed right, somehow. By day, without the loosening effects of darkness, dinner, and a glass of wine, Ted mostly stuck to a narrow script with her, the way he did when he was talking to shareholders. The news was always a safe subject. She brought up Iraq—the US was considering sending more troops, but public opinion was against it—and helped herself to a butterscotch from the glove compartment.one of them seemed right, somehow.one of them seemed right, somehow.one of them seemed right, so she just said, "Hi, Dad."
+> **原句 2:** There were many things she wanted to tell him, but none of them seemed right, somehow. By day, without the loosening effects of darkness, dinner, and a glass of wine, Ted mostly stuck to a narrow script with her, the way he did when he was talking to shareholders. The news was always a safe subject. She brought up Iraq—the US was considering sending more troops, but public opinion was against it—and helped herself to a butterscotch from the glove compartment.
 
-**中文理解**：她有很多话想告诉他，但没有一句显得合适，所以她只说了"嗨，爸爸。"
+**中文理解**：她有很多话想告诉他，但没有一句显得合适。白天没有了黑夜、晚餐和一杯酒的松弛作用，泰德跟她说话大多守着一套窄窄的台词，跟他对股东说话时一样；新闻永远是安全话题。她提起伊拉克，又从手套箱里摸了颗奶糖。
 
 **关键词**：
 - `many adj. 许多`
@@ -125,7 +125,7 @@
 
 ### 第6段：佩内洛普的房间
 
-> **原句 6:** Pen's room was still her room, and she half expected to encounter herself and Alice, aged sixteen, sprawled on the floor eating Cool Ranch Doritos while running lines for the school theater production of The Crucible. to encounter herself and Alice there.
+> **原句 6:** Pen's room was still her room, and she half expected to encounter herself and Alice, aged sixteen, sprawled on the floor eating Cool Ranch Doritos while running lines for the school theater production of The Crucible.
 
 **中文理解**：佩内洛普的房间还是她的房间，她差点期待在那里遇到自己和Alice。
 

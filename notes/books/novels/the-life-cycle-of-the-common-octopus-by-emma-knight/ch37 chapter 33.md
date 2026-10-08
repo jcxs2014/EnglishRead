@@ -17,9 +17,9 @@ Pen从Neville的车里给Alice打电话，全身发抖。Jo坐在她的床上。
 
 ### 第1段：Pen的电话
 
-> **原句 1:** Pen called Alice from Neville's car, her whole body shaking, whether with fear or relief she did not know. shaking, whether with fear or with the cold.
+> **原句 1:** Pen called Alice from Neville's car, her whole body shaking, whether with fear or relief she did not know.
 
-**中文理解**：Pen从Neville的车里给Alice打电话，全身发抖，不知道是因为恐惧还是寒冷。
+**中文理解**：佩内洛普从奈维尔的车里给爱丽丝打电话，全身发抖，分不清是因为害怕，还是如释重负，自己也说不上来。
 
 **关键词**：
 - `Pen n. Pen`
@@ -36,9 +36,9 @@ Pen从Neville的车里给Alice打电话，全身发抖。Jo坐在她的床上。
 - `with prep. 因为`
 - `fear n. 恐惧`
 - `or conj. 或者`
-- `cold adj. 寒冷`
+- `relief n. 如释重负`
 
-**表达方式**："her whole body shaking, whether with fear or with the cold"——全身发抖，不知道是因为恐惧还是寒冷，暗示Pen的状态。
+**表达方式**："whether with fear or relief she did not know"——害怕还是如释重负，她自己也不知道；劫后余生不是先松一口气，而是先分不清。
 
 ---
 
@@ -309,7 +309,7 @@ Pen从Neville的车里给Alice打电话，Jo在房间里。她们讨论是否要
 
 ## 可迁移表达
 
-1. **"her whole body shaking, whether with fear or with the cold"** —— 全身发抖，不知道是因为恐惧还是寒冷：*Pen called Alice from Neville's car.*
+1. **"her whole body shaking, whether with fear or relief"** —— 全身发抖，分不清是害怕还是如释重负：*Pen called Alice from Neville's car.*
 2. **"Are you out of your mind?"** —— 你疯了吗？：*said Alice when Pen came to the door of Jo's room.*
 3. **"sitting cross-legged on her grandmotherly bedspread"** —— 盘腿坐在祖母风床上：*Jo was sitting cross-legged.*
 4. **"there's no proof"** —— 没有证据：*No one ever believes a former sexual partner.*

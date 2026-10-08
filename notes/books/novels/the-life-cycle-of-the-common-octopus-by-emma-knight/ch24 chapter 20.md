@@ -61,16 +61,16 @@
 
 ### 第4段：村庄与教堂
 
-> **原句 4:** As she pushed the stroller through the church parking lot, which had been half-empty the morning before, she noticed that every spot was taken. Of course, she thought; it's Sunday. She found the church grounds alive with activity. Young children in carefully pressed clothes were darting around, making full use of the new play structure. The men wore suits, and some of the women wore hats. The church's double doors stood wide open, and a slow-moving crowd was funneling in.g lot, which had been half-empty the morning before, she noticed that every spot was taken.g lot, which had been half-empty the morning before, she noticed that every spot was taken.g lot, which had been half-empty the morning before, Pen noticed that there were now more cars than she had seen there in all her previous visits combined.
+> **原句 4:** As she pushed the stroller through the church parking lot, which had been half-empty the morning before, she noticed that every spot was taken. Of course, she thought; it's Sunday. She found the church grounds alive with activity. Young children in carefully pressed clothes were darting around, making full use of the new play structure. The men wore suits, and some of the women wore hats. The church's double doors stood wide open, and a slow-moving crowd was funneling in.
 
-**中文理解**：当她推着婴儿车穿过教堂停车场时，佩内洛普注意到现在停的车比她以前所有访问加起来都多。
+**中文理解**：当她推着婴儿车穿过教堂停车场时——前一天早上这里还半空着——她发现每个车位都被占了。当然，她心想，今天是周日。教堂院子里一片热闹：穿着熨帖衣服的小孩到处乱跑，尽情使用新的游乐设施；男人们穿西装，有些女人戴帽子；教堂大门敞开，一股缓慢的人流正往里涌。
 
 **关键词**：
 - `stroller n. 婴儿车`
 - `parking lot n. 停车场`
 - `notice v. 注意到`
 
-**表达方式**："more cars than she had seen there in all her previous visits combined"——比以前所有访问加起来都多，暗示教堂可能有某种活动。
+**表达方式**："every spot was taken"——每个车位都被占了，与前一天早上的半空形成对照；`alive with activity` 让一个周日早上的教堂院子有了集市般的声势。
 
 ---
 

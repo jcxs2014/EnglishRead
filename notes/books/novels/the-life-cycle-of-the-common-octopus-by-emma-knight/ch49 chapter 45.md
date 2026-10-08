@@ -17,9 +17,9 @@ Pen在与伦纳斯对话后，去房间拿东西。她散步穿过爱丁堡的�
 
 ### 第1段：Pen的房间
 
-> **原句 1:** After her conversation with Fergus on the bench, Pen went up to her room to get ready. went up to her room to get her things.
+> **原句 1:** After her conversation with Fergus on the bench, Pen went up to her room to get ready.
 
-**中文理解**：与伦纳斯在长椅上对话后，Pen上楼回房间拿她的东西。
+**中文理解**：与弗格斯在长椅上谈完，佩内洛普上楼回房间准备。
 
 **关键词**：
 - `After prep. 在……之后`
@@ -37,9 +37,9 @@ Pen在与伦纳斯对话后，去房间拿东西。她散步穿过爱丁堡的�
 - `to prep. 去`
 - `get v. 拿`
 - `her adj. 她的`
-- `things n. 东西`
+- `ready adj. 准备好的`
 
-**表达方式**："went up to her room to get her things"——上楼回房间拿她的东西，暗示Pen的行动。
+**表达方式**："went up to her room to get ready"——上楼准备；动词简单，方向明确，谈话结束，人就动起来。
 
 ---
 
@@ -94,9 +94,9 @@ Pen在与伦纳斯对话后，去房间拿东西。她散步穿过爱丁堡的�
 
 ### 第4段：Princes Street
 
-> **原句 4:** Beyond Princes Street, on a curving, downward-sloping street called Broughton, was the “smart” stationery shop where Jo would work that summer. It was so smart that few people shopped there, and Sylvia, who would return to Edinburgh in August to “take in the festival,” would come by often to test the merchandise. They would, in the relative privacy of a city whose summer population did not know them, experiment with being a couple.g street called Broughton, was the “smart” stationery shop where Jo would work that summer.g street called Broughton, was the “smart” stationery shop where Jo would work that summer.g street called Broughton, were the flats.
+> **原句 4:** Beyond Princes Street, on a curving, downward-sloping street called Broughton, was the “smart” stationery shop where Jo would work that summer. It was so smart that few people shopped there, and Sylvia, who would return to Edinburgh in August to “take in the festival,” would come by often to test the merchandise. They would, in the relative privacy of a city whose summer population did not know them, experiment with being a couple.
 
-**中文理解**：在Princes Street之外，在一条弯曲、向下倾斜的叫做Broughton的街上，是那些公寓。
+**中文理解**：王子街之外，布劳顿街弯弯地往下走，那里有一家体面的文具店，乔夏天会在那里工作；它体面到少有人光顾，八月回爱丁堡"过节"的西尔维娅会常来试用商品。
 
 **关键词**：
 - `Beyond prep. 在……之外`
@@ -110,9 +110,9 @@ Pen在与伦纳斯对话后，去房间拿东西。她散步穿过爱丁堡的�
 - `street n. 街`
 - `called v. 叫做`
 - `Broughton n. Broughton`
-- `were v. 是`
+- `smart adj. 体面的`
 - `the art. 那`
-- `flats n. 公寓`
+- `stationery n. 文具`
 
 **表达方式**："on a curving, downward-sloping street called Broughton"——在一条弯曲、向下倾斜的叫做Broughton的街上，暗示地点的描述。
 
@@ -289,7 +289,7 @@ Pen在与伦纳斯对话后，去房间拿东西。她散步穿过爱丁堡的�
 
 ## 可迁移表达
 
-1. **"went up to her room to get her things"** —— 上楼回房间拿她的东西：*After her conversation with Fergus.*
+1. **"went up to her room to get ready"** —— 上楼回房间准备：*After her conversation with Fergus.*
 2. **"The sun was still high in the sky"** —— 太阳仍然高高挂在天空：*The sun was still high.*
 3. **"breathing hard from the climb"** —— 因爬山而喘气：*she said.*
 4. **"Do you forgive me for behaving like an idiot?"** —— 你原谅我像个傻瓜一样行为吗？：*He shook his head.*

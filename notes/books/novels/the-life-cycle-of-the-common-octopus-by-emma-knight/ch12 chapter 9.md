@@ -77,20 +77,20 @@
 
 ### 第4段：Kevin被寻回与反思
 
-> **原句 4:** \"Pen!\" Sasha was sliding from Cindy's back, crouching beside her, his face contorted with anger and concern. He gently lay a hand on her arm. His touch cut through her shock. \"Those bloody lunatics. Are you all right?\" Pen's wrists felt loose from hitting the ground and her spine had a jerked-sideways feel, but she'd landed well. She had always been good at falling. Although of course she had not fallen; she had jumped. Shame rose in her chest and pricked at her eyes. She blinked it away and sat up in the underbrush. Chet returned before long, still mounted, and pulling along a heaving, wild-eyed Kevin. \"I'm so sorry. He could have been killed,\" Pen said, reaching out to touch Kevin's sweat-darkened neck. \"You could have been killed,\" he said, carefully removing a leaf from her hair, sending a tingle from her scalp down through her whole body. \"If anything, the excitement will have added years to Kev's life,\" he added. He passed her Kevin's reins. For a defeated moment, she thought he was going to suggest they walk the horses back. But he held the stirrup in place for her. She planted her left foot on the rubber tread and cast herself up. Lightly, he loosened the rubber handle of the crop from her fingers—she hadn't realized how tightly she was clutching it—and tucked it beneath her leg under the saddle. They rode back the way they had come at a leisurely walk. Sasha glanced repeatedly at Pen, as if to make sure she was still there, while Chet explained the attraction of shooting pheasant and black grouse, and mocked Sasha for not participating. \"My aversion to blood sport does nothing for the family's reputation,\" he told Pen. \"Mum lets our neighbors use the land, within reason. But clearly reason's boundaries are ill-defined.\"
+> **原句 4:** \"Pen!\" Sasha was sliding from Cindy's back, crouching beside her, his face contorted with anger and concern. He gently lay a hand on her arm. His touch cut through her shock. \"Those bloody lunatics. Are you all right?\" Pen's wrists felt loose from hitting the ground and her spine had a jerked-sideways feel, but she'd landed well. She had always been good at falling. Although of course she had not fallen; she had jumped. Shame rose in her chest and pricked at her eyes. She blinked it away and sat up in the underbrush. Chet returned before long, still mounted, and pulling along a heaving, wild-eyed Kevin. \"I'm so sorry. He could have been killed,\" Pen said, reaching out to touch Kevin's sweat-darkened neck.
 
-**中文理解**：Chet 没过多久就回来了，仍然骑在马上，牵着喘着粗气、眼冒凶光的 Kevin。Sasha 不停地回头看 Pen，好像在确认她还在那里。Chet 解释说 Kevin 被蜜蜂蜇了，蜜蜂的声音——或者只是蜜蜂本身——会让马发狂。回到马厩后，Nellie 叫了一声作为问候，用头蹭着 Sasha 的腿。Pen 站在泥土和干草的气味中，想着她从来没有这么快对一个地方产生好感。
+**中文理解**：萨沙从辛迪背上滑下来，蹲在佩内洛普身边，脸上愤怒和担心扭在一起；他把手轻轻放在她手臂上，触碰穿透了她的震惊。佩内洛普落地摔得手腕发软、脊背别了一下，但总体落得不坏——她一向擅长摔倒，尽管这一次她不是摔下来，是自己跳的。羞愧涌上胸口刺痛眼睛，她眨掉它，在灌木丛里坐起身。切特没过多久骑马回来，还牵着喘着粗气、眼睛发野的凯文。佩内洛普伸手去摸凯文汗湿的脖子，为差点害死它道歉。
 
-**句子结构**：`Chet returned before long, still mounted` 的 mounted 作形容词；Sasha 的回望是 `glanced repeatedly`（反复瞥）；Pen 的反思是本章的情感落点。
+**句子结构**：`sliding...crouching...` 两个分词连起萨沙下马、近身、蹲下的连续动作；`Although of course she had not fallen; she had jumped` 用转折澄清摔与跳的区别；对话与叙述交替，现场救援的节奏一紧一松。
 
 **关键词**：
-- `heave v. 喘气`
-- `glance v. 瞥`
-- `musk n. 麝香`
+- `contorted adj. 扭曲的`
+- `heaving adj. 喘着粗气的`
+- `underbrush n. 灌木丛`
 
-**表达方式**：`a heaving, wild-eyed Kevin` 用两个形容词营造 Kevin 刚从狂奔中恢复的状态；`she had never warmed to a place so quickly` 是 Pen 的情感自白。
+**表达方式**：`His touch cut through her shock` 用切割感写安抚的穿透力；`She had always been good at falling` 以轻描淡写压住惊魂；道歉先递向马（`He could have been killed`），再轮到自己，愧疚先向外走。
 
-**为什么这样写**：蜜蜂蜇是意外的自然原因，为 Kevin 的失控提供了合理的解释（而非马的性格问题）。Sasha 的反复回望和 Pen 的反思共同标志两人关系的进展。结尾句是本章的情感落点——Pen 对这个地方产生好感，部分是因为这里的人。
+**为什么这样写**：萨沙脸上愤怒与担心并存，确立他先看人、再看马的优先级；佩内洛普"擅长摔倒却羞愧"的矛盾，写出主动跳马与失控落地之间的难堪；以伸手摸马脖子收束，把惊魂转成可以触摸的安抚，也为两人关系的升温留出身体接触的余地。
 
 
 ---

@@ -71,9 +71,9 @@ Alice和佩内洛普坐机场穿梭巴士离开。Alice没有告诉佩内洛普�
 
 ### 第4段：Fergus的企图
 
-> **原句 4:** Just a few hours before, after Pen and Fergus had reeled out of the ballroom in the middle of the last dance, the rest of them had piled into taxis and gone to Hugo's room for an afterparty. There had been more drinking. Hugo, who was always working on a new business idea that would make him rich enough to leave uni and spend the rest of his life between a yacht and a private island in the BVIs, was experimenting with a product that he called “Sweeties Vodka.” He had several bottles of off-brand vodka lined up on his bookshelf, competing for space with alarmingly few books, and was pouring out “free samples.” The liquid in each bottle was tinged with a different color, from the reddish one Alice tried to a creepy grayish-blue, and all contained what looked like pebbles at the bottom. Hugo wanted them to guess the flavor. A few of the boys, Hugo included, had taken pills, and were becoming all dopey and lovey-dovey, like drugged puppies.eled out of the ballroom in the middle of the last dance, the rest of them had piled into taxis and gone to Hugo's room for an afterparty.eled out of the ballroom in the middle of the last dance, the rest of them had piled into taxis and gone to Hugo's room for an afterparty.eled out of the ballroom in the middle of the last song, he had pressed her into the linen closet and pulled his tie loose.
+> **原句 4:** Just a few hours before, after Pen and Fergus had reeled out of the ballroom in the middle of the last dance, the rest of them had piled into taxis and gone to Hugo's room for an afterparty. There had been more drinking. Hugo, who was always working on a new business idea that would make him rich enough to leave uni and spend the rest of his life between a yacht and a private island in the BVIs, was experimenting with a product that he called “Sweeties Vodka.” He had several bottles of off-brand vodka lined up on his bookshelf, competing for space with alarmingly few books, and was pouring out “free samples.” The liquid in each bottle was tinged with a different color, from the reddish one Alice tried to a creepy grayish-blue, and all contained what looked like pebbles at the bottom. Hugo wanted them to guess the flavor. A few of the boys, Hugo included, had taken pills, and were becoming all dopey and lovey-dovey, like drugged puppies.
 
-**中文理解**：就在几个小时前，佩内洛普和Fergus在最后一首歌的中间摇摇晃晃地走出舞厅后，他把她按进洗衣房，松开了他的领带。
+**中文理解**：就在几小时前，佩内洛普和弗格斯在最后一支舞跳到一半时摇出舞厅，一行人挤进出租车去雨果房间开 afterparty。酒更多了。雨果永远在捣鼓能让他辍学、余生在游艇和私人岛屿之间度过的新商业点子，这次是他叫"糖果伏特加"的产品：书架上摆着几瓶杂牌伏特加，书少得可怜，每瓶液体颜色各异，从爱丽丝试的微红到瘆人的灰蓝，瓶底都沉着像鹅卵石的东西。雨果让大家猜口味。几个男生包括雨果嗑了药，全都晕晕乎乎黏黏糊糊，像嗑药的小狗。
 
 **关键词**：
 - `just adv. 就`
@@ -81,10 +81,10 @@ Alice和佩内洛普坐机场穿梭巴士离开。Alice没有告诉佩内洛普�
 - `reeled v. 摇摇晃晃地走出`
 - `ballroom n. 舞厅`
 - `middle n. 中间`
-- `song n. 歌曲`
-- `pressed v. 按`
-- `closet n. 洗衣房`
-- `loose adj. 松的`
+- `dance n. 舞蹈`
+- `vodka n. 伏特加`
+- `flavor n. 口味`
+- `pills n. 药丸`
 
 **表达方式**："reeled out of the ballroom"——摇摇晃晃地走出舞厅，暗示两人的醉态。
 
@@ -110,9 +110,9 @@ Alice和佩内洛普坐机场穿梭巴士离开。Alice没有告诉佩内洛普�
 
 ### 第6段：Charlie的回应
 
-> **原句 6:** Charlie, arriving at her other side, told her that the pebbles had once been cinnamon hearts, but the vodka had stripped away the red food coloring. To Alice's surprise (given that he went out nearly every night, and his sneakers were ten times dirtier now than they had been in September to prove it), Charlie had refused the small white pill Hugo had held out. So had she. They were sticking to the vodka. “Delicious, isn't it?” Charlie said, lifting his cup, deadpan. “Hugo's going to be a billionaire.”he pebbles had once been cinnamon hearts, but the vodka had stripped away the red food coloring.he pebbles had once been cinnamon hearts, but the vodka had stripped away the red food coloring.he pebbles had once been cinnamon hearts, but they'd gone off.
+> **原句 6:** Charlie, arriving at her other side, told her that the pebbles had once been cinnamon hearts, but the vodka had stripped away the red food coloring. To Alice's surprise (given that he went out nearly every night, and his sneakers were ten times dirtier now than they had been in September to prove it), Charlie had refused the small white pill Hugo had held out. So had she. They were sticking to the vodka. “Delicious, isn't it?” Charlie said, lifting his cup, deadpan. “Hugo's going to be a billionaire.”
 
-**中文理解**：Charlie从另一边过来，告诉她那些鹅卵石曾经是肉桂心糖，但它们变质了。
+**中文理解**：查理从另一边过来，告诉她那些鹅卵石曾经是肉桂心糖，但伏特加洗掉了红色素。
 
 **关键词**：
 - `arriving v. 到来`
@@ -121,7 +121,7 @@ Alice和佩内洛普坐机场穿梭巴士离开。Alice没有告诉佩内洛普�
 - `told v. 告诉`
 - `pebbles n. 鹅卵石`
 - `once adv. 曾经`
-- `gone off v. 变质`
+- `strip v. 剥除`
 
 **表达方式**："the pebbles had once been cinnamon hearts"——那些鹅卵石曾经是肉桂心糖，暗示过去的甜蜜。
 
@@ -149,7 +149,7 @@ Alice和佩内洛普坐机场穿梭巴士离开。Alice没有告诉佩内洛普�
 
 ### 第8段：谣言
 
-> **原句 8:** Initially, Hugo reported that she'd been semi-clothed, and they'd only been kissing. Later, the boys who had been with Hugo had managed to convince him and everyone else at the afterparty that Pen had in fact been fully naked, straddling Fergus on the bed. This had become the official version of events, despite Alice's and Charlie's protests. Jo, whose voice might have carried more weight with this set, had slipped away from the reeling ball without saying goodbye, as had become her standard practice. The more Pen's friends had argued that the story was impossible, or at least exceptionally unlikely, the more those who hardly knew her had wanted to believe it had happened, and the more embellishments they'd added. Alice had tried confronting Hugo, furious that he had not shown more loyalty to Pen after all the time they had spent together, but Hugo, two-thirds of a bottle of cinnamon heart vodka and at least one pill into his Christmas vacation, had only laughed his easy laugh and said, “Kissing or shagging, what's the difference? They're just winding her up.”d, and they'd only been kissing.d, and they'd only been kissing.d, and they'd only been kissing and cuddling.
+> **原句 8:** Initially, Hugo reported that she'd been semi-clothed, and they'd only been kissing. Later, the boys who had been with Hugo had managed to convince him and everyone else at the afterparty that Pen had in fact been fully naked, straddling Fergus on the bed. This had become the official version of events, despite Alice's and Charlie's protests. Jo, whose voice might have carried more weight with this set, had slipped away from the reeling ball without saying goodbye, as had become her standard practice. The more Pen's friends had argued that the story was impossible, or at least exceptionally unlikely, the more those who hardly knew her had wanted to believe it had happened, and the more embellishments they'd added. Alice had tried confronting Hugo, furious that he had not shown more loyalty to Pen after all the time they had spent together, but Hugo, two-thirds of a bottle of cinnamon heart vodka and at least one pill into his Christmas vacation, had only laughed his easy laugh and said, “Kissing or shagging, what's the difference? They're just winding her up.”
 
 **中文理解**：最初，Hugo说她是半裸的，他们只是接吻。
 
@@ -189,7 +189,7 @@ Alice和佩内洛普坐机场穿梭巴士离开。Alice没有告诉佩内洛普�
 | wincing | /ˈwɪnsɪŋ/ | v. | 皱眉 | ⭐⭐ |
 | pebbles | /ˈpebəlz/ | n. | 鹅卵石 | ⭐⭐⭐ |
 | cinnamon hearts | /ˈsɪnəmən hɑːrts/ | n. | 肉桂心糖 | ⭐⭐⭐ |
-| gone off | /ɡɒn ɒf/ | v. | 变质 | ⭐⭐⭐ |
+| deadpan | /ˈdɛdpæn/ | adv. | 面无表情地 | ⭐⭐⭐ |
 | shoulders | /ˈʃoʊldərz/ | n. | 肩膀 | ⭐ |
 | gently | /ˈdʒentli/ | adv. | 轻轻地 | ⭐ |
 | returning | /rɪˈtɜːrnɪŋ/ | v. | 放回 | ⭐⭐ |

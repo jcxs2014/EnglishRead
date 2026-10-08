@@ -94,9 +94,9 @@ Alice回到爱丁堡，与Jo讨论Sasha的婚姻状况。Alice感到暴力的厌
 
 ### 第4段：Alice从未见过照片
 
-> **原句 4:** Alice had never seen a picture of Emily Sachs before, nor had she allowed herself much curiosity about what she might look like. It turned out she was petite and smiley, with round cheeks—and a round belly. In the picture, Julian was beside her, his arm protectively circling her shoulders, the two of them standing under a cheesy banner that said “It's a girl!”, nor had she allowed herself much curiosity about what she might look like., nor had she allowed herself much curiosity about what she might look like., nor had she allowed herself to think about Julian's wife very much.
+> **原句 4:** Alice had never seen a picture of Emily Sachs before, nor had she allowed herself much curiosity about what she might look like. It turned out she was petite and smiley, with round cheeks—and a round belly. In the picture, Julian was beside her, his arm protectively circling her shoulders, the two of them standing under a cheesy banner that said “It's a girl!”
 
-**中文理解**：Alice以前从未见过Emily Sachs的照片，她也没有允许自己多想Julian的妻子。
+**中文理解**：爱丽丝从没见过艾米丽·萨克斯的照片，也没放任自己多好奇她长什么样。结果她娇小爱笑，圆脸——还有圆滚滚的肚子。
 
 **关键词**：
 - `Alice n. Alice`
@@ -110,13 +110,13 @@ Alice回到爱丁堡，与Jo讨论Sasha的婚姻状况。Alice感到暴力的厌
 - `had she v. 她`
 - `allowed v. 允许`
 - `herself pron. 她自己`
-- `think v. 想`
+- `petite adj. 娇小的`
 - `about prep. 关于`
 - `Julian n. Julian`
-- `wife n. 妻子`
-- `very much phrase 多想`
+- `smiley adj. 爱笑的`
+- `belly n. 肚子`
 
-**表达方式**："nor had she allowed herself to think about"——她也没有允许自己多想，暗示Alice的回避。
+**表达方式**："nor had she allowed herself much curiosity"——连好奇都不允许，可见她一直在主动回避这个人。
 
 ---
 
@@ -172,9 +172,9 @@ Alice回到爱丁堡，与Jo讨论Sasha的婚姻状况。Alice感到暴力的厌
 
 ### 第7段：Fergus和Hugo
 
-> **原句 7:** “We both told our parents we had to come back early to study,” Jo said, looking happy. Alice could find no words. She put her arms around Jo and hugged her. “Right,” said Jo finally. “Time to pretend this conversation never happened.” • • Downstairs, they found Fergus and Hugo drinking pints at a big table by the main fireplace.s at a big table by the main fireplace.s at a big table by the main bar.
+> **原句 7:** “We both told our parents we had to come back early to study,” Jo said, looking happy. Alice could find no words. She put her arms around Jo and hugged her. “Right,” said Jo finally. “Time to pretend this conversation never happened.” • • Downstairs, they found Fergus and Hugo drinking pints at a big table by the main fireplace.
 
-**中文理解**：楼下，他们发现Fergus和Hugo正在酒吧的主吧台旁的大桌子喝 pint。
+**中文理解**：乔说两人都是跟父母说提前回来学习才溜出来的，她看起来很高兴。爱丽丝一时失语，抱住乔。乔最后说，就当这场谈话没发生过。楼下，他们发现弗格斯和雨果在壁炉边的大桌旁喝品脱。
 
 **关键词**：
 - `Downstairs adv. 楼下`
@@ -190,9 +190,9 @@ Alice回到爱丁堡，与Jo讨论Sasha的婚姻状况。Alice感到暴力的厌
 - `table n. 桌子`
 - `by prep. 在……旁边`
 - `main adj. 主要的`
-- `bar n. 吧台`
+- `fireplace n. 壁炉`
 
-**表达方式**："drinking pints at a big table by the main bar"——在大桌子喝 pint，暗示酒吧的氛围。
+**表达方式**："drinking pints at a big table by the main fireplace"——壁炉边的大桌配品脱，劫后余生的两个女孩先记下这个安稳的画面。
 
 ---
 

@@ -78,9 +78,9 @@
 
 ### 第5段：佩内洛普的逃离
 
-> **原句 5:** Just after Pen crossed into the next car, a bend in the tracks sent her careening into the legs of another passenger. the tracks sent her careening against the seat in front of her.
+> **原句 5:** Just after Pen crossed into the next car, a bend in the tracks sent her careening into the legs of another passenger.
 
-**中文理解**：佩内洛普刚走到下一节车厢，铁轨的一个弯道让她撞到前面的座位上。
+**中文理解**：佩内洛普刚走进下一节车厢，铁轨上的一个弯道就把她甩进另一名乘客腿上。
 
 **关键词**：
 - `cross v. 穿过`
@@ -109,15 +109,15 @@
 
 ### 第7段：酒吧的思考
 
-> **原句 7:** Pen had worked hard to acquire her protective coating, and she did not like to feel it crack. After her father had moved out and her mother had confirmed what Pen already knew, while they were packing her childhood illusions into boxes along with the contents of the house, Pen had decided that organized religion was not for her. She still believed in something, but it was not her grandmother's God. She had abruptly stopped praying. Going to church with Tilda had furnished her with a lifelong respect for the power of stories, and a physical response to certain hymns when sung by a choir, but it was time to stop asking imaginary forces for favors and start functioning as a self-contained unit, at least emotionally.g, and she did not like to feel it crack.g, and she did not like to feel it crack.g, and she did not like to feel it peel away.
+> **原句 7:** Pen had worked hard to acquire her protective coating, and she did not like to feel it crack. After her father had moved out and her mother had confirmed what Pen already knew, while they were packing her childhood illusions into boxes along with the contents of the house, Pen had decided that organized religion was not for her. She still believed in something, but it was not her grandmother's God. She had abruptly stopped praying. Going to church with Tilda had furnished her with a lifelong respect for the power of stories, and a physical response to certain hymns when sung by a choir, but it was time to stop asking imaginary forces for favors and start functioning as a self-contained unit, at least emotionally.
 
-**中文理解**：佩内洛普花了很大力气获得她的保护壳，她不喜欢看到它被剥离。
+**中文理解**：佩内洛普花了很大力气获得她的保护壳，她不喜欢感到它裂开。
 
 **关键词**：
 - `acquire v. 获得`
 - `protective adj. 保护的`
 - `coating n. 涂层、壳`
-- `peel v. 剥离`
+- `crack v. 裂开`
 
 **表达方式**："protective coating"——保护壳，暗示佩内洛普用冷漠来保护自己。
 

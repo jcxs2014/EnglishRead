@@ -124,9 +124,9 @@ Danny的派对正在进行，Pen在炮楼里与Sasha对话。他们讨论派对�
 
 ### 第5段：piñata的兴奋
 
-> **原句 5:** At one moment, after the excitement of the piñata, Danny, indignant that the candy was being put away, had thrown his head back in protest, striking it against a side table with a sickening thunk. From the other end of the room Margot, who had been sunk in a tête-a-tête with Rosh, cried out as if it were her head that had been bumped. After a shocked pause, Danny burst into loud sobs at both the pain and the injustice. George, who had sprung up to buffer the fall and missed by a split second, held her son to her chest and rocked him back and forth, whispering comforting words in his ear. Margot leaped to her feet and crossed the room.anny, indignant that the candy was being put away, had thrown his head back in protest, striking it against a side table with a sickening thunk.anny, indignant that the candy was being put away, had thrown his head back in protest, striking it against a side table with a sickening thunk.anny, indignant that the candy had fallen on his sister's side, had thrown his stick.
+> **原句 5:** At one moment, after the excitement of the piñata, Danny, indignant that the candy was being put away, had thrown his head back in protest, striking it against a side table with a sickening thunk. From the other end of the room Margot, who had been sunk in a tête-a-tête with Rosh, cried out as if it were her head that had been bumped. After a shocked pause, Danny burst into loud sobs at both the pain and the injustice. George, who had sprung up to buffer the fall and missed by a split second, held her son to her chest and rocked him back and forth, whispering comforting words in his ear. Margot leaped to her feet and crossed the room.
 
-**中文理解**：在某个时刻，piñata的兴奋之后，Danny因为糖果掉在姐姐那边而愤慨，扔出了他的棍子。
+**中文理解**：玩过皮纳塔，丹尼因糖果被收走而愤慨，抗议地向后仰头，脑袋磕在边桌上，闷响瘆人。房间那头正和罗什说悄悄话的玛戈，像磕的是自己的头一样叫出声。惊愕地停顿之后，丹尼为疼痛也为委屈放声大哭；差一刹没接住他的乔治把儿子抱在胸前来回摇，凑在他耳边说安慰的话。玛戈跳起身穿过房间。
 
 **关键词**：
 - `At prep. 在`
@@ -142,21 +142,21 @@ Danny的派对正在进行，Pen在炮楼里与Sasha对话。他们讨论派对�
 - `candy n. 糖果`
 - `had fallen v. 已掉落`
 - `on prep. 在`
-- `sister's n. 姐姐的`
+- `thunk n. 闷响`
 - `side n. 边`
 - `had thrown v. 已扔出`
 - `his adj. 他的`
-- `stick n. 棍子`
+- `sobs n. 嚎哭`
 
-**表达方式**："indignant that the candy had fallen on his sister's side"——因为糖果掉在姐姐那边而愤慨，暗示Danny的嫉妒。
+**表达方式**："a sickening thunk"——用瘆人的闷响写磕碰的实感；大人这边厢的悄悄话、那边厢的嚎哭，把一场生日派对的乱与疼收进一个客厅。
 
 ---
 
 ### 第6段：关于Peru的问题
 
-> **原句 6:** "““Hi, Freddie. What did you do in Peru that was so awful?
+> **原句 6:** "Hi, Freddie. What did you do in Peru that was so awful?"
 
-**中文理解**："嗨，Freddie。你在秘鲁做了什么那么糟糕的事？"她问，直接切入主题。
+**中文理解**："嗨，弗雷迪。你在秘鲁做了什么那么糟糕的事？"——没有问候，没有铺垫，第一个问题就直指秘鲁那件"糟糕的事"。
 
 **关键词**：
 - `Hi int. 嗨`
@@ -172,22 +172,16 @@ Danny的派对正在进行，Pen在炮楼里与Sasha对话。他们讨论派对�
 - `so adv. 那么`
 - `awful adj. 糟糕的`
 - `question mark ? 问号`
-- `she pron. 她`
-- `asked v. 问`
-- `cutting v. 切入`
-- `right adv. 直接`
-- `to prep. 到`
-- `it pron. 它`
 
-**表达方式**："cutting right to it"——直接切入主题，暗示提问者的直接。
+**表达方式**："What did you do in Peru that was so awful"——不问近况，开口就是问责；派对的热闹到此裂开一条缝。
 
 ---
 
 ### 第7段：信件的到达
 
-> **原句 7:** This time, the arrival in the Palmer Street mail room of a slim envelope addressed to Hugh Cornelius Campbell, Esq., with a Vietnamese postage stamp and no return address, had triggered the evacuation of the entire building and the arrival of a bioterrorism team in hazmat suits. Loose white granules shifting around inside an envelope addressed to a secret government office, as it turned out, were no laughing matter; it had only been a few years since anthrax in the mail had killed several people in Florida.m of a slim envelope addressed to Hugh Cornelius Campbell, Esq.m of a slim envelope addressed to Hugh Cornelius Campbell, Esq.m of a slim envelope addressed to her sent a jolt of electricity through her.
+> **原句 7:** This time, the arrival in the Palmer Street mail room of a slim envelope addressed to Hugh Cornelius Campbell, Esq., with a Vietnamese postage stamp and no return address, had triggered the evacuation of the entire building and the arrival of a bioterrorism team in hazmat suits. Loose white granules shifting around inside an envelope addressed to a secret government office, as it turned out, were no laughing matter; it had only been a few years since anthrax in the mail had killed several people in Florida.
 
-**中文理解**：这次，一封写给她的纤细信封到达Palmer Street邮箱，通过她传导了一股电流。
+**中文理解**：这次，帕尔默街收发室收到一封薄信封，寄给休·康尼利厄斯·坎贝尔先生，越南邮票，无回邮地址，整栋楼为此疏散，还开来一队穿防护服的生化反恐小组。寄往秘密政府办公室的信封里晃着白色颗粒，这可不是玩笑；距炭疽信杀死佛罗里达几个人，才过去几年。
 
 **关键词**：
 - `This art. 这`
@@ -205,15 +199,15 @@ Danny的派对正在进行，Pen在炮楼里与Sasha对话。他们讨论派对�
 - `addressed v. 写给`
 - `to prep. 给`
 - `her pron. 她的`
-- `sent v. 传导`
+- `triggered v. 触发`
 - `a art. 一股`
-- `jolt n. 冲击`
+- `hazmat n. 防护服`
 - `of prep. 的`
-- `electricity n. 电流`
-- `through prep. 通过`
+- `anthrax n. 炭疽`
+- `evacuation n. 疏散`
 - `her pron. 她的`
 
-**表达方式**："sent a jolt of electricity through her"——通过她传导了一股电流，暗示信件的冲击。
+**表达方式**："were no laughing matter"——不是玩笑；炭疽信的记忆让一封薄信封直接升级成整栋楼疏散。
 
 ---
 
@@ -331,5 +325,5 @@ Danny的派对正在进行，Pen在炮楼里与Sasha对话。他们讨论派对�
 
 1. **"bleary-eyed in elasticized slacks"** —— 双眼无神，穿着松紧裤：*From the moment Danny reappeared.*
 2. **"a benign absence from the octagonal sitting room"** —— 从八角形客厅中良性缺席：*Lennox was a benign absence.*
-3. **"indignant that the candy had fallen on his sister's side"** —— 因为糖果掉在姐姐那边而愤慨：*after the excitement of the piñata.*
+3. **"a sickening thunk"** —— 瘆人的闷响：*after the excitement of the piñata.*
 4. **"she dug for her phone"** —— 她翻找手机：*Out on the driveway.*

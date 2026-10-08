@@ -44,9 +44,9 @@ Pen在伦敦水族馆，Margot给她写信。他们讨论Pen的父亲和Margot�
 
 ### 第2段：特拉法加广场
 
-> **原句 2:** In Trafalgar Square, low puffs of cloud, dark gray against a pale gray sky, appeared to touch the central dome of the National Gallery. This, too, was gray, as were the portico's impressive columns. A stone carapace protecting the nation's color and feeling. Or keeping them from seeping out.gainst a pale gray sky, appeared to touch the central dome of the National Gallery.gainst a pale gray sky, appeared to touch the central dome of the National Gallery.gainst a pale gray sky, appeared to float above the statues.
+> **原句 2:** In Trafalgar Square, low puffs of cloud, dark gray against a pale gray sky, appeared to touch the central dome of the National Gallery. This, too, was gray, as were the portico's impressive columns. A stone carapace protecting the nation's color and feeling. Or keeping them from seeping out.
 
-**中文理解**：在特拉法加广场，低矮的云团，深灰色衬着淡灰色的天空，似乎漂浮在雕像上方。
+**中文理解**：在特拉法加广场，低矮的云，深灰衬着淡灰的天，仿佛挨着国家美术馆的中央穹顶；穹顶也是灰的，门廊的大柱子也是灰的——一副石头甲壳，护着这个国家的颜色和情绪，也拦着它们渗出来。
 
 **关键词**：
 - `In prep. 在`
@@ -63,11 +63,11 @@ Pen在伦敦水族馆，Margot给她写信。他们讨论Pen的父亲和Margot�
 - `sky n. 天空`
 - `appeared v. 似乎`
 - `to prep. 去`
-- `float v. 漂浮`
-- `above prep. 在……上方`
-- `statues n. 雕像`
+- `dome n. 穹顶`
+- `carapace n. 甲壳`
+- `nation n. 国家`
 
-**表达方式**："appeared to float above the statues"——似乎漂浮在雕像上方，暗示天空的宁静。
+**表达方式**："A stone carapace protecting the nation's color and feeling"——石头甲壳护着颜色和情绪，也拦着它们渗出来；美术馆被写成国民情绪的保险箱。
 
 ---
 
@@ -180,9 +180,9 @@ Pen在伦敦水族馆，Margot给她写信。他们讨论Pen的父亲和Margot�
 
 ### 第7段：关于父亲的讨论
 
-> **原句 7:** "“When it came down to it, Elliot said your father had a right to know, and I didn't argue. a right to know, and I did not want to keep secrets."
+> **原句 7:** "When it came down to it, Elliot said your father had a right to know, and I didn't argue.
 
-**中文理解**："说到底，Elliot说你的父亲有权知道，我不想保守秘密。"
+**中文理解**："说到底，埃利奥特说你父亲有权知道，她没有争辩。"
 
 **关键词**：
 - `When conj. 当……的时候`
@@ -200,12 +200,12 @@ Pen在伦敦水族馆，Margot给她写信。他们讨论Pen的父亲和Margot�
 - `know v. 知道`
 - `and conj. 和`
 - `did not contr. 不想`
-- `want v. 想`
+- `argue v. 争辩`
 - `to prep. 去`
-- `keep v. 保守`
-- `secrets n. 秘密`
+- `right n. 权利`
+- `came down to phrase 说到底`
 
-**表达方式**："your father had a right to know, and I did not want to keep secrets"——你的父亲有权知道，我不想保守秘密，暗示Margot的诚实。
+**表达方式**："your father had a right to know, and I didn't argue"——有权知道，她没有争辩；玛戈把姿态摆得干脆，决定权交出去，评论收回来。
 
 ---
 
@@ -319,6 +319,6 @@ Pen在伦敦水族馆，Margot给她写信。他们讨论Pen的父亲和Margot�
 ## 可迁移表达
 
 1. **"on the other side of the river"** —— 在河的另一边：*The London Aquarium was on the other side.*
-2. **"appeared to float above the statues"** —— 似乎漂浮在雕像上方：*In Trafalgar Square.*
+2. **"A stone carapace protecting the nation's color and feeling"** —— 石头甲壳护着这个国家的颜色和情绪：*In Trafalgar Square.*
 3. **"hurried past the spluttering merpeople"** —— 匆匆走过溅水的人鱼：*Pen hurried past.*
-4. **"your father had a right to know, and I did not want to keep secrets"** —— 你的父亲有权知道，我不想保守秘密：*When it came down to it.*
+4. **"your father had a right to know, and I didn't argue"** —— 你的父亲有权知道，她没有争辩：*When it came down to it.*

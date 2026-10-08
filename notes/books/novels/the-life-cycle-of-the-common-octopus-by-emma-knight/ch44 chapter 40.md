@@ -42,9 +42,9 @@ Alice长了虱子，需要Pen的帮助。Pen给Alice洗虱子洗发水。他们�
 
 ### 第2段：Alice需要Pen
 
-> **原句 2:** She needed Pen. No one else in the city of Edinburgh, maybe no one else in the world, could be trusted with knowing how vile she was. Alice would sooner have shaved her head and called it a fashion statement than asked Jo or Neville, whom she had known for a mere six months, to comb vermin from her hair. And she could not call her mother. Even if she had not been five thousand kilometers away, Nicola would only have folded Alice's panic into her own larger and more general panic. It had to be Pen. But Pen's phone was off. Alice had listened to her friend's polite-to-strangers voice a dozen times. “You've reached the voicemail of Penelope Winters. I'm not available right now, so please leave a message and I will return your call as soon as I can. Thanks!”, maybe no one else in the world, could be trusted with knowing how vile she was.ld help her.
+> **原句 2:** She needed Pen. No one else in the city of Edinburgh, maybe no one else in the world, could be trusted with knowing how vile she was. Alice would sooner have shaved her head and called it a fashion statement than asked Jo or Neville, whom she had known for a mere six months, to comb vermin from her hair. And she could not call her mother. Even if she had not been five thousand kilometers away, Nicola would only have folded Alice's panic into her own larger and more general panic. It had to be Pen. But Pen's phone was off. Alice had listened to her friend's polite-to-strangers voice a dozen times. “You've reached the voicemail of Penelope Winters. I'm not available right now, so please leave a message and I will return your call as soon as I can. Thanks!”
 
-**中文理解**：她需要Pen。爱丁堡城里没有人，也许世界上没有人能帮她。
+**中文理解**：她需要佩恩。爱丁堡城里没有别人，也许全世界没有别人，能被信任知道她有多糟。爱丽丝宁可剃光头当成时髦宣言，也不愿让认识才半年的乔或奈维尔给她捉虱子；妈妈更指望不上。
 
 **关键词**：
 - `She pron. 她`
@@ -60,7 +60,7 @@ Alice长了虱子，需要Pen的帮助。Pen给Alice洗虱子洗发水。他们�
 - `maybe adv. 也许`
 - `world n. 世界`
 - `could v. 能`
-- `help v. 帮助`
+- `vile adj. 糟糕的`
 - `her pron. 她的`
 
 **表达方式**："No one else in the city of Edinburgh, maybe no one else in the world"——爱丁堡城里没有人，也许世界上没有人，暗示Alice的孤立。
@@ -139,9 +139,9 @@ Alice长了虱子，需要Pen的帮助。Pen给Alice洗虱子洗发水。他们�
 
 ### 第6段：Alice的表情
 
-> **原句 6:** Alice gave her a meaningful look that was comically overdone and then started shaking with laughter. overdone and then started scratching her head.
+> **原句 6:** Alice gave her a meaningful look that was comically overdone and then started shaking with laughter.
 
-**中文理解**：Alice给了她一个意味深长的眼神，有点夸张，然后开始抓头。
+**中文理解**：爱丽丝给了她一个意味深长、夸张到滑稽的眼神，然后笑得浑身抖起来。
 
 **关键词**：
 - `Alice n. Alice`
@@ -157,8 +157,8 @@ Alice长了虱子，需要Pen的帮助。Pen给Alice洗虱子洗发水。他们�
 - `and conj. 和`
 - `then adv. 然后`
 - `started v. 开始`
-- `scratching v. 抓`
-- `head n. 头`
+- `laughter n. 笑声`
+- `shaking v. 抖动`
 
 **表达方式**："a meaningful look that was comically overdone"——一个意味深长的眼神，有点夸张，暗示Alice的幽默。
 
@@ -166,9 +166,9 @@ Alice长了虱子，需要Pen的帮助。Pen给Alice洗虱子洗发水。他们�
 
 ### 第7段：虱子洗发水的按摩
 
-> **原句 7:** While Pen massaged the lice shampoo into Alice's scalp, she let her mind return to the Lennoxes. Not to Sasha, not yet, but to Christina and Lennox, to George and Margot, and to what they had all known this whole time. They must have thought that she, too, had known. She was now convinced of this.lp, she let her mind return to the Lennoxes.lp, she let her mind return to the Lennoxes.lp, she let her mind return to Lennox's letter.
+> **原句 7:** While Pen massaged the lice shampoo into Alice's scalp, she let her mind return to the Lennoxes. Not to Sasha, not yet, but to Christina and Lennox, to George and Margot, and to what they had all known this whole time. They must have thought that she, too, had known. She was now convinced of this.
 
-**中文理解**：当Pen将虱子洗发水按摩进Alice的头皮时，她让思绪回到Lennox的信上。
+**中文理解**：佩恩把虱子洗发水按摩进爱丽丝头皮时，思绪回到伦诺克斯一家：不是萨沙，还轮不到他，而是克里斯蒂娜和伦诺克斯，乔治和玛戈，以及他们一直都知道的那件事。他们一定以为她也早就知道。她现在确信了。
 
 **关键词**：
 - `While conj. 当……的时候`
@@ -185,8 +185,8 @@ Alice长了虱子，需要Pen的帮助。Pen给Alice洗虱子洗发水。他们�
 - `mind n. 思绪`
 - `return v. 回到`
 - `to prep. 到`
-- `Lennox's n. Lennox的`
-- `letter n. 信`
+- `convinced adj. 确信的`
+- `whole time phrase 一直以来`
 
 **表达方式**："massaged the lice shampoo into Alice's scalp"——将虱子洗发水按摩进Alice的头皮，暗示Pen的帮助。
 

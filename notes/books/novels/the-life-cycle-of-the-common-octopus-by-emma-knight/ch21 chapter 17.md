@@ -17,15 +17,15 @@
 
 ### 第1段：车站相遇与 Sasha 的缺席
 
-> **原句 1:** It was Christina who met Pen at the station, wearing rubber boots and a raincoat, with the news that Sasha was held up. rubber boots and a raincoat, with the news that Sasha was stuck at work and would not be able to make it to the polo match until later.
+> **原句 1:** It was Christina who met Pen at the station, wearing rubber boots and a raincoat, with the news that Sasha was held up.
 
-**中文理解**：克里斯蒂娜在车站接佩内洛普，穿着橡胶靴和雨衣，告诉她 Sasha 被工作困住了，无法参加马球赛。
+**中文理解**：克里斯蒂娜在车站接佩内洛普，穿着橡胶靴和雨衣，带来消息说萨沙被事情绊住了。
 
 **关键词**：
-- `stuck adj. 被困住的、无法脱身的`
-- `stuck at work phrase 被困在工作中`
+- `held up phrase 被事情绊住的`
+- `rubber boots n. 橡胶靴`
 
-**表达方式**："stuck at work"——这个短语暗示 Sasha 无法脱身，可能是因为工作紧急，也可能是因为他不想来。
+**表达方式**："held up"——被事情绊住，克里斯蒂娜用轻描淡写的说法带过萨沙缺席的原因，不替他多解释。
 
 ---
 
@@ -76,22 +76,22 @@
 
 ### 第5段：Stonehaven 与村庄
 
-> **原句 5:** Stonehaven was no longer the nearest place to the house to shop for groceries, Christina explained to Pen on the short drive to the center of town, from which the sea was visible in a gap between buildings. In the village of Talmòrach they now had “quite a good little co-op,” she said with what sounded like pride, as well as Betsy's Tearoom, a doctor's office, a pub, and a mobile post office that visited twice weekly. But Stonehaven, half an hour from the village by car, was still the nearest place for what she smilingly called “posh groceries”—foreign cheeses, fancy olives, Nellie's “by appointment of Her Majesty's corgis” kibble, and so on—and it was a charming old fishing town with a lovely beach, well worth seeing. Pen smiled back.use to shop for groceries, Christina explained to Pen on the short drive to the center of town, from which the sea was visible in a gap between buildings.use to shop for groceries, Christina explained to Pen on the short drive to the center of town, from which the sea was visible in a gap between buildings.use to shop for groceries, Christina explained to Pen, who was surprised to learn that there was a larger supermarket in the village of Kirkton.
+> **原句 5:** Stonehaven was no longer the nearest place to the house to shop for groceries, Christina explained to Pen on the short drive to the center of town, from which the sea was visible in a gap between buildings. In the village of Talmòrach they now had “quite a good little co-op,” she said with what sounded like pride, as well as Betsy's Tearoom, a doctor's office, a pub, and a mobile post office that visited twice weekly. But Stonehaven, half an hour from the village by car, was still the nearest place for what she smilingly called “posh groceries”—foreign cheeses, fancy olives, Nellie's “by appointment of Her Majesty's corgis” kibble, and so on—and it was a charming old fishing town with a lovely beach, well worth seeing. Pen smiled back.
 
-**中文理解**：克里斯蒂娜解释说，Stonehaven 不再是最靠近房子的杂货购物地点，佩内洛普惊讶地发现 Kirkton 村庄里有一个更大的超市。
+**中文理解**：克里斯蒂娜在去镇中心的短短车程里解释说，斯通黑文不再是离房子最近的买杂货的地方；车从楼缝间开过，还能望见海。前面是个有可爱海滩的小镇，值得一看，佩内洛普笑着回应。
 
 **关键词**：
 - `groceries n. 杂货、食品`
 - `explain v. 解释`
-- `surprised adj. 惊讶的`
+- `visible adj. 看得见的`
 
-**表达方式**："who was surprised to learn"——佩内洛普的惊讶暗示她对克里斯蒂娜的生活圈了解有限。
+**表达方式**："from which the sea was visible in a gap between buildings"——买杂货的日常话题里忽然漏进一线海景，这段车程写得松弛。
 
 ---
 
 ### 第6段：克里斯蒂娜与村庄
 
-> **原句 6:** If Christina had been an object of interest in Stonehaven, here in “the village” she was greeted by each person they encountered with familial warmth. Christina glided through the narrow aisles of the grocery co-op with the speed and hand-eye coordination of a regular, adding packages of PG Tips, Alpen cereal, Fairy liquid, and Nurofen Rapid Relief tablets to her basket while carrying on a conversation with the stout, aproned young man stocking shelves, whom she introduced as her godson, Kieran Hewitt. No credit card was swiped, and no money changed hands at the register; Kieran made a note in a ledger and piled the provisions into a cardboard box from under the counter. Across the street at Betsy's Tearoom, which sold scones the size of baseballs, Christina bought two loaves of bread and a jar of blackberry jam from another godchild, a pretty, freckled girl she called Eliza, who likewise merely wrote down the amount owed and sent them on their way.haven, here in “the village” she was greeted by each person they encountered with familial warmth.haven, here in “the village” she was greeted by each person they encountered with familial warmth.haven, here in "the village" she was greeted by everyone she met with a warmth that Pen could only describe as familial.
+> **原句 6:** If Christina had been an object of interest in Stonehaven, here in “the village” she was greeted by each person they encountered with familial warmth. Christina glided through the narrow aisles of the grocery co-op with the speed and hand-eye coordination of a regular, adding packages of PG Tips, Alpen cereal, Fairy liquid, and Nurofen Rapid Relief tablets to her basket while carrying on a conversation with the stout, aproned young man stocking shelves, whom she introduced as her godson, Kieran Hewitt. No credit card was swiped, and no money changed hands at the register; Kieran made a note in a ledger and piled the provisions into a cardboard box from under the counter. Across the street at Betsy's Tearoom, which sold scones the size of baseballs, Christina bought two loaves of bread and a jar of blackberry jam from another godchild, a pretty, freckled girl she called Eliza, who likewise merely wrote down the amount owed and sent them on their way.
 
 **中文理解**：如果说克里斯蒂娜在 Stonehaven 是一个引人注目的存在，那么在这个"村庄"里，她遇到的每个人都以佩内洛普只能用"家庭般"来形容的亲切来问候她。
 
@@ -150,7 +150,7 @@
 
 ## 可迁移表达
 
-1. **"stuck at work"** —— 被困在工作中：*Sasha was stuck at work and would not be able to make it to the polo match.*
+1. **"held up"** —— 被事情绊住：*with the news that Sasha was held up.*
 2. **"soften by the prospect of"** —— 被……的预期所缓解：*Pen's disappointment was softened by the prospect of spending time alone with Christina.*
 3. **"could not help but remark"** —— 忍不住评论：*Pen could not help but remark as they loaded the car.*
 4. **"a fug of sweat and grass"** —— 一股汗水和草的气味（比喻房间的氛围）：*a fug of sweat and grass*

@@ -134,30 +134,18 @@ Pen在闹钟前醒来，Sasha来访。他们讨论Freddie，Pen意识到自己�
 
 ### 第5段：Sasha去看窗
 
-> **原句 5:** He smiled. “It's just how I pictured it. Except for the curtains. Those are nicer.”d fingered the flameproof fabric, a riot of vertical stripes in tones of sunburn and marigold.meproof fabric, a riot of vertical stripes in tones of sunburn and marigold.meproof fabric, a riot of velvety red roses.
+> **原句 5:** He smiled. “It's just how I pictured it. Except for the curtains. Those are nicer.”
 
-**中文理解**：他走到凸窗边，手指触摸防火布料，上面是天鹅绒般红玫瑰的狂欢。
+**中文理解**：他笑了：房间跟他想象的一样，只是窗帘更好，那些更好看。
 
 **关键词**：
 - `He pron. 他`
-- `crossed v. 走到`
-- `to prep. 到`
-- `the art. 那`
-- `awning n. 凸窗`
-- `window n. 窗`
-- `and conj. 和`
-- `fingered v. 用手指触摸`
-- `the art. 那`
-- `flameproof adj. 防火的`
-- `fabric n. 布料`
-- `a art. 一个`
-- `riot n. 狂欢`
-- `of prep. 的`
-- `velvety adj. 天鹅绒般的`
-- `red adj. 红色的`
-- `roses n. 玫瑰`
+- `smiled v. 微笑`
+- `pictured v. 想象`
+- `curtain n. 窗帘`
+- `nicer adj. 更好看的`
 
-**表达方式**："a riot of velvety red roses"——天鹅绒般红玫瑰的狂欢，暗示窗布的华丽。
+**表达方式**："Except for the curtains. Those are nicer"——唯独窗帘超出想象；一句转折，把看房的注意力轻轻拨到唯一的变化上。
 
 ---
 

@@ -17,9 +17,9 @@
 
 ### 第1段：被加入Chat
 
-> **原句 1:** Pen was at the desk in her room wearing a sweatshirt over her warmest pajamas and taking notes from a library book when her laptop made a pinging sound, and then another. She lifted its screen. Chethan Mehta would like to add you to Chat, said the first notification. She clicked "Accept" and closed the window. Sasha Lennox would like to add you to Chat, said the window behind it. She smiled, a warm feeling spreading inside her chest, as if she had drunk something hot. She accepted. Their names appeared in bold on her contact list with dots beside them showing that they were online. She tried to think of something witty to say. Nothing came. She tilted her laptop screen back down and returned to the book. When researching for an essay, her method was to write out a full bibliography entry and, beneath it, to transcribe passages that might be useful for her argument with their page numbers. Her own comments were always in a different color. This was to keep her from plagiarizing accidentally, the mere thought of which made her feel like throwing up. The friendly bleep of an incoming message came from her laptop. She opened it, expecting to see Chet's name.
+> **原句 1:** Pen was at the desk in her room wearing a sweatshirt over her warmest pajamas and taking notes from a library book when her laptop made a pinging sound, and then another. She lifted its screen. Chethan Mehta would like to add you to Chat, said the first notification. She clicked "Accept" and closed the window. Sasha Lennox would like to add you to Chat, said the window behind it. She smiled, a warm feeling spreading inside her chest, as if she had drunk something hot. She accepted. Their names appeared in bold on her contact list with dots beside them showing that they were online. She tried to think of something witty to say. Nothing came. She tilted her laptop screen back down and returned to the book. When researching for an essay, her method was to write out a full bibliography entry and, beneath it, to transcribe passages that might be useful for her argument with their page numbers. Her own comments were always in a different color. This was to keep her from plagiarizing accidentally, the mere thought of which made her feel like throwing up.
 
-**中文理解**：Pen 穿着运动衫和最暖和的睡衣坐在房间的书桌前。她打开屏幕,第一条通知是:Chethan Mehta 想加她为聊天好友。她点了接受。然后是 Sasha Lennox 的好友请求。她的胸口涌起一股温暖的感觉,好像喝了什么暖身的东西。她接受了,两个名字以粗体出现在联系人列表里,旁边有绿点表示在线。
+**中文理解**：Pen 穿着运动衫和最暖和的睡衣坐在房间的书桌前。她打开屏幕,第一条通知是:Chethan Mehta 想加她为聊天好友。她点了接受。然后是 Sasha Lennox 的好友请求。她的胸口涌起一股温暖的感觉,好像喝了什么暖身的东西。她接受了,两个名字以粗体出现在联系人列表里,旁边有小圆点表示在线。
 
 **句子结构**：场景建立:数字技术是本章的核心媒介。屏幕通知的机械语气与 Pen 看到 Sasha 名字时的温暖情感形成对比。
 
@@ -28,7 +28,7 @@
 - `Chat n. 即时通讯`
 - `contact n. 联系人`
 
-**表达方式**：好友请求通知的机械语言与内心温暖感受的反差;绿点表示在线状态是数字友谊的视觉符号。
+**表达方式**：好友请求通知的机械语言与内心温暖感受的反差;名字旁的小圆点是数字友谊的视觉符号。
 
 **为什么这样写**：开篇建立本章的核心技术媒介:Chat。Pen 的情感反应(warm feeling spreading inside her chest)立即将她对 Sasha 的感情可视化。
 

@@ -175,32 +175,18 @@ Pen坐Northern线去Angel，找George。他们讨论Pen的工作申请和未来�
 
 ### 第8段：Pen的回忆
 
-> **原句 8:** She'd always told me my father was an anonymous donor. When I eventually figured it out, I confronted her. All she said was ‘What took you so long.' ”mbered those trips, how she had stopped being invited to join him, and how distant Ted had always been on his return.g invited to join him, and how distant Ted had always been on his return.g invited to join him, and how he'd stopped inviting her.
+> **原句 8:** She'd always told me my father was an anonymous donor. When I eventually figured it out, I confronted her. All she said was ‘What took you so long.'
 
-**中文理解**：Pen记得那些旅行，她是如何不再被邀请加入他，以及他如何停止邀请她。
+**中文理解**：她一直告诉我，我父亲是个匿名捐精人。等我最终弄明白，我去质问她。她只说了一句："你怎么花了这么久。"
 
 **关键词**：
-- `Pen n. Pen`
-- `remembered v. 记得`
-- `those adj. 那些`
-- `trips n. 旅行`
-- `how adv. 如何`
-- `she pron. 她`
-- `had v. 已`
-- `stopped v. 停止`
-- `being v. 是`
-- `invited v. 被邀请`
-- `to prep. 去`
-- `join v. 加入`
-- `him pron. 他`
-- `and conj. 和`
-- `how adv. 如何`
-- `he'd contr. 他已`
-- `stopped v. 停止`
-- `inviting v. 邀请`
-- `her pron. 她的`
+- `anonymous adj. 匿名的`
+- `donor n. 捐赠者`
+- `figured out phrase 弄明白`
+- `confronted v. 质问`
+- `took v. 花费`
 
-**表达方式**："how she had stopped being invited"——她是如何不再被邀请，暗示Pen的回忆。
+**表达方式**："What took you so long"——母亲把隐瞒多年的事，轻轻收进一句反问。
 
 ## 本章词汇
 

@@ -145,9 +145,9 @@ Pen和Sasha五月去Talmòrach。Christina在花园里种花。他们讨论Margo
 
 ### 第6段：关于母亲的讨论
 
-> **原句 6:** "“So you don't believe a mother has to choose between being a selfish monster and being eaten alive? being a selfish monster and a saint."
+> **原句 6:** "So you don't believe a mother has to choose between being a selfish monster and being eaten alive?
 
-**中文理解**："所以你不认为母亲必须在选择自私的怪物和圣人之间做选择。"
+**中文理解**："所以你不认为，母亲必须在当自私的怪物和被吃掉之间二选一？"
 
 **关键词**：
 - `So adv. 所以`
@@ -166,10 +166,10 @@ Pen和Sasha五月去Talmòrach。Christina在花园里种花。他们讨论Margo
 - `monster n. 怪物`
 - `and conj. 和`
 - `a art. 一个`
-- `saint n. 圣人`
-- `period . 句号`
+- `eaten adj. 被吃掉的`
+- `alive adj. 活着的`
 
-**表达方式**："between being a selfish monster and a saint"——在选择自私的怪物和圣人之间，暗示对母亲身份的讨论。
+**表达方式**："between being a selfish monster and being eaten alive"——自私的怪物，或被吃掉：玛戈把母职的两种结局推到极端，逼克里斯蒂娜表态。
 
 ---
 
@@ -280,4 +280,4 @@ Pen和Sasha五月去Talmòrach。Christina在花园里种花。他们讨论Margo
 1. **"The air smelled of rain and new growth"** —— 空气中弥漫着雨水和新生的气息：*it was May.*
 2. **"jumped to her feet"** —— 跳起来：*Seeing Pen, Christina.*
 3. **"amid the white and pink roses"** —— 在白色和粉色玫瑰中：*said Christina.*
-4. **"between being a selfish monster and a saint"** —— 在选择自私的怪物和圣人之间：*So you don't believe.*
+4. **"between being a selfish monster and being eaten alive"** —— 在当自私的怪物和被吃掉之间：*So you don't believe.*

@@ -97,7 +97,7 @@ Alice与Julian发生性关系，两人之间存在权力斗争。Alice通过策�
 
 ### 第6段：塔楼的五层平台
 
-> **原句 6:** Every subsequent Tuesday they'd met on the tower's fifth-floor landing, which was more discreet than the lobby, at the start of the lunch hour. He'd follow her up the rest of the stairs. She'd wait for him at his office door, slightly out of breath. He'd turn the key in the lock, hold the door open for her, as if she were any other student who had come to ask him about moral philosophy, and close it behind her. They'd have nearly an hour to play their games. He liked to bring her to the brink slowly and then stop, leaving her to tremble, furious, before holding his palm over her mouth to keep her from screaming out as he took her over the edge. This was intended to prevent them from spending the whole of the tutorial making eyes at each other. But it wasn't enough.ifth-floor landing, which was more discreet than the lobby, at the start of the lunch hour.ifth-floor landing, which was more discreet than the lobby, at the start of the lunch hour.ifth-floor landing, which was more discreet than anywhere else.
+> **原句 6:** Every subsequent Tuesday they'd met on the tower's fifth-floor landing, which was more discreet than the lobby, at the start of the lunch hour. He'd follow her up the rest of the stairs. She'd wait for him at his office door, slightly out of breath. He'd turn the key in the lock, hold the door open for her, as if she were any other student who had come to ask him about moral philosophy, and close it behind her. They'd have nearly an hour to play their games. He liked to bring her to the brink slowly and then stop, leaving her to tremble, furious, before holding his palm over her mouth to keep her from screaming out as he took her over the edge. This was intended to prevent them from spending the whole of the tutorial making eyes at each other. But it wasn't enough.
 
 **中文理解**：之后的每个星期二，他们都在塔楼的五层平台见面，这比任何地方都更隐蔽。
 
@@ -131,16 +131,16 @@ Alice与Julian发生性关系，两人之间存在权力斗争。Alice通过策�
 
 ### 第8段：Julian的公寓
 
-> **原句 8:** Alice knew that Julian had owned this apartment since his student days, and that he usually rented it out to postgrads, but had decided to keep it that year as a place to write. She knew his father had bought it for him. His father, who had deposited Julian and his younger brother Paul in boarding school when they had turned eight, and who had then divested himself of his filial load when his sons had “come of age,” purchasing a one-bedroom apartment for each near the university of his choice. The apartments were, Julian had explained, their inheritance, on one level. But really, they had been a signal that from age eighteen onward, Julian and Paul were no longer expected to “visit” for the holidays.e his student days, and that he usually rented it out to postgrads, but had decided to keep it that year as a place to write.e his student days, and that he usually rented it out to postgrads, but had decided to keep it that year as a place to write.e his student days, and that he had inherited it from his grandmother.
+> **原句 8:** Alice knew that Julian had owned this apartment since his student days, and that he usually rented it out to postgrads, but had decided to keep it that year as a place to write. She knew his father had bought it for him. His father, who had deposited Julian and his younger brother Paul in boarding school when they had turned eight, and who had then divested himself of his filial load when his sons had “come of age,” purchasing a one-bedroom apartment for each near the university of his choice. The apartments were, Julian had explained, their inheritance, on one level. But really, they had been a signal that from age eighteen onward, Julian and Paul were no longer expected to “visit” for the holidays.
 
-**中文理解**：Alice知道Julian从学生时代就拥有这套公寓，而且它是从他祖母那里继承来的。
+**中文理解**：爱丽丝知道朱利安从学生时代就拥有这套公寓，平常租给研究生住，这一年留着自己写作；房子是他父亲给他买的。
 
 **关键词**：
 - `owned v. 拥有`
 - `apartment n. 公寓`
 - `student days n. 学生时代`
-- `inherited v. 继承`
-- `grandmother n. 祖母`
+- `postgrad n. 研究生`
+- `rent out phrase 出租`
 
 **表达方式**："owned this apartment since his student days"——从学生时代就拥有这套公寓，暗示Julian的家庭背景。
 

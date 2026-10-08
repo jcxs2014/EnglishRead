@@ -33,17 +33,17 @@
 
 ### 第2段：佩内洛普对跳舞的态度
 
-> **原句 2:** Pen liked dancing when the music was good—and she knew it made sense for young people to examine one another's wits and shapes under the cover of noise and semidarkness—but she wished her generation had the waltz, or even just some kind of coordinated hop, in which to dress their hunger for acceptance, and for each other's bodies. sense for young people to find release in movement.
+> **原句 2:** Pen liked dancing when the music was good—and she knew it made sense for young people to examine one another's wits and shapes under the cover of noise and semidarkness—but she wished her generation had the waltz, or even just some kind of coordinated hop, in which to dress their hunger for acceptance, and for each other's bodies.
 
-**中文理解**：佩内洛普喜欢音乐好时跳舞——她知道年轻人通过运动来释放自己是合理的。
+**中文理解**：音乐好时佩内洛普喜欢跳舞——她知道，年轻人借噪音和半暗打量彼此的机锋与身形；只是她希望她这一代拥有华尔兹，哪怕某种齐整的蹦跶，好把那份对接纳、对彼此身体的渴望穿得体面一点。
 
 **关键词**：
 - `liked v. 喜欢`
 - `dancing v. 跳舞`
 - `music n. 音乐`
-- `release n. 释放`
+- `waltz n. 华尔兹`
 
-**表达方式**："find release in movement"——通过运动来释放，暗示跳舞对年轻人的重要性。
+**表达方式**："dress their hunger for acceptance"——给渴望穿上衣服，华尔兹被写成体面安放欲望的方式。
 
 ---
 

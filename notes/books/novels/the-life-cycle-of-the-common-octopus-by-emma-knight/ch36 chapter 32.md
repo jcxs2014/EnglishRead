@@ -43,9 +43,9 @@ Julian在下午的教程中感到失望。他与Emily协议不要孩子，但Emi
 
 ### 第2段：挫折和受伤的骄傲
 
-> **原句 2:** It was only frustration and hurt pride that made his fists clench and blood run to his face, he told himself. fists clench and blood run hot in his ears.
+> **原句 2:** It was only frustration and hurt pride that made his fists clench and blood run to his face, he told himself.
 
-**中文理解**：只有挫折和受伤的骄傲才让他的拳头握紧，血液在耳边热血沸腾。
+**中文理解**：只有挫折和受伤的骄傲才让他的拳头攥紧、血往脸上涌，他这样告诉自己。
 
 **关键词**：
 - `It pron. 它`
@@ -62,11 +62,11 @@ Julian在下午的教程中感到失望。他与Emily协议不要孩子，但Emi
 - `clench v. 握紧`
 - `blood n. 血`
 - `run v. 流`
-- `hot adj. 热的`
+- `face n. 脸`
 - `in prep. 在`
-- `ears n. 耳朵`
+- `himself pron. 他自己`
 
-**表达方式**："made his fists clench and blood run hot in his ears"——让他的拳头握紧，血液在耳边热血沸腾，暗示Julian的愤怒。
+**表达方式**："blood run to his face, he told himself"——血往脸上涌，再补一句"他这样告诉自己"，愤怒被写成需要自我说服才能认领的东西。
 
 ---
 
@@ -142,9 +142,9 @@ Julian在下午的教程中感到失望。他与Emily协议不要孩子，但Emi
 
 ### 第6段：她盯着他看
 
-> **原句 6:** The way she stared at him while she said this caused Julian to remember the first tutorials, before Alice had appeared, which he had spent imagining what Pen might look like under her clothes. Julian to remember the first time he'd seen her eyes.
+> **原句 6:** The way she stared at him while she said this caused Julian to remember the first tutorials, before Alice had appeared, which he had spent imagining what Pen might look like under her clothes.
 
-**中文理解**：她说这话时盯着他看的样子让Julian想起了他第一次看到她眼睛的时候。
+**中文理解**：她说话时盯着他的样子，让朱利安想起爱丽丝出现之前的早期辅导课——那段时间他一直在想象佩内洛普衣服底下是什么样。
 
 **关键词**：
 - `The art. 那`
@@ -162,11 +162,11 @@ Julian在下午的教程中感到失望。他与Emily协议不要孩子，但Emi
 - `remember v. 想起`
 - `the art. 那`
 - `first adj. 第一`
-- `time n. 时间`
-- `he'd v. 他`
-- `seen v. 看到`
+- `tutorial n. 辅导课`
+- `imagine v. 想象`
+- `clothes n. 衣服`
 - `her adj. 她的`
-- `eyes n. 眼睛`
+- `appear v. 出现`
 
 **表达方式**："The way she stared at him"——她盯着他看的方式，暗示她对他的注视。
 
@@ -303,6 +303,6 @@ Julian在下午的教程中感到失望，他与Emily协议不要孩子，但Emi
 ## 可迁移表达
 
 1. **"felt his disappointment turn into something like anger"** —— 感到失望变成某种像愤怒的东西：*Twelve minutes into the afternoon tutorial.*
-2. **"made his fists clench and blood run hot in his ears"** —— 让他的拳头握紧，血液在耳边热血沸腾：*It was only frustration and hurt pride.*
+2. **"made his fists clench and blood run to his face"** —— 让拳头攥紧、血往脸上涌：*It was only frustration and hurt pride.*
 3. **"had gone without his knowing"** —— 在他不知道的情况下去了：*But when Emily had turned thirty-eight.*
 4. **"had abruptly stopped talking to each other"** —— 突然停止了互相交谈：*Penelope and Josephine—wives' names, both of them.*

@@ -111,17 +111,17 @@
 
 ### 第7段：庄园的参观
 
-> **原句 7:** With Nellie leaping ahead, he began a guided tour of the grounds that was very clearly, Pen thought, a well-worn performance. the grounds that was very clearly, Pen thought, rehearsed.
+> **原句 7:** With Nellie leaping ahead, he began a guided tour of the grounds that was very clearly, Pen thought, a well-worn performance.
 
-**中文理解**：Nel1ie在前面跳跃，他开始引导参观庄园，佩内洛普心想，这显然是排练过的。
+**中文理解**：内莉往前蹦，他开始带着佩内洛普参观庄园，套路熟到佩内洛普一眼看出这是一场演熟了的表演。
 
 **关键词**：
 - `guided adj. 有引导的`
 - `tour n. 参观、游览`
 - `grounds n. 庄园、场地`
-- `rehearsed adj. 排练过的`
+- `performance n. 表演`
 
-**表达方式**："a guided tour of the grounds that was rehearsed"——排练过的参观，暗示埃利奥特准备充分，可能是为了给佩内洛普留下好印象。
+**表达方式**："a well-worn performance"——穿旧了的表演，庄园导览被写成演过太多次的戏；内莉往前蹦的活泼反衬出主人介绍词的熟套。
 
 ---
 
