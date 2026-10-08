@@ -23,7 +23,7 @@ Munro 的东西开始频繁丢失——先是 his alligator shoes，然后是 ra
 
 ## 本章引语
 
-> "The stars in his eyes faded. Someone let out a low whistle. Noam put a hand on his friend's shoulder, but the other men devoted themselves to the crevices in the hardwood."
+> **原句 1:** "The stars in his eyes faded. Someone let out a low whistle. Noam put a hand on his friend's shoulder, but the other men devoted themselves to the crevices in the hardwood."
 
 **中文理解**：Munro 在清洁博物馆时无意中说出自己"Arial 的葬礼迟到了半小时"——这句话像一颗石子打破了平静。他的朋友们沉默，Noam 把手放在他肩上，但其他人继续干活。叙述者用这个细节揭示：Munro 的愧疚是他最私密的秘密，连最好的朋友也无法帮他分担。
 
@@ -39,7 +39,7 @@ Munro 的东西开始频繁丢失——先是 his alligator shoes，然后是 ra
 
 ---
 
-> "You know the man in the charcoal cloak?" he asked after a quiet moment, spun out on Cava he hadn't yet the tolerance for.
+> **原句 2:** "You know the man in the charcoal cloak?" he asked after a quiet moment, spun out on Cava he hadn't yet the tolerance for.
 
 **中文理解**：Arial 的葬礼后，Munro 在台阶上对 Noon 说："你知道那个穿炭袍的人吗？"——这是他试图与 Noon 重新建立连接的尝试，用他们共同的童年记忆（炭袍男人/Spectacular）作为话题。但 Noon 刚刚失去父亲，无法忍受这种"故事化"的尝试。
 
@@ -61,25 +61,24 @@ Munro 的东西开始频繁丢失——先是 his alligator shoes，然后是 ra
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| haunting | 萦绕的；难以忘怀的 | the **haunting** of the past |
-| ghost | 鬼魂；幽灵 | he felt like he was being watched, and he was correct |
-| memory | 记忆；回忆 | a constant **memory** of the past |
-| storyteller | 讲故事的人 | the **storyteller**'s hook |
+| haunting | 萦绕的；难以忘怀的 | If before he felt **haunted** |
+| ghost | 鬼魂；幽灵 | he felt like he was being **watched**, and he was correct |
+| memory | 记忆；回忆 | eat off a shared **memory** before he went charging |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| funeral | 葬礼 | he was late to Arial Bonaventure's **funeral** |
-| grief | 悲伤；悲痛 | her **grief** was his constant imagined companion |
-| museum | 博物馆 | the **museum** at the end of Twelfth Street |
-| shadow | 影子；阴影 | the **shadow** of who he used to be |
+| funeral | 葬礼 | I was a half hour late to Arial Bonaventure's **funeral** |
+| grief | 悲伤；悲痛 | Her **grief** was his constant imagined companion |
+| museum | 博物馆 | the men spent every day and night at their **museum** |
+| shadow | 影子；阴影 | he felt like he was being **watched** |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| friend | 朋友 | Noam invited Munro out for dinner with his **friends** |
-| bookshop | 书店 | she's still running the **bookshop** |
-| missing | 失踪的；不见的 | things going **missing** |
-| story | 故事 | a childhood **story** about the circus |
+| friend | 朋友 | His **friends** were, maddeningly, hardly robbed |
+| bookshop | 书店 | She's still running the **bookshop** |
+| missing | 失踪的；不见的 | Munro was used to things going **missing** |
+| story | 故事 | their **childhood** friendship had burnt out |
