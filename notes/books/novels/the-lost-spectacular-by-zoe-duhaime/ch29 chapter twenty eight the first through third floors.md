@@ -16,7 +16,7 @@ Munro 穿越 Spectacular 的三层奇观后在天文馆与 Lukøje 最终相遇�
 
 ## 精读
 
-> "You come to finish me off?" Munro asked. Fabian held his paddle in his lap like a toy soldier might hold his gun at the end of the day."
+> **原句 1:** "You come to finish me off?" Munro asked. Fabian held his paddle in his lap like a toy soldier might hold his gun at the end of the day."
 
 - **中文理解**："你是来结束我的吗？"Munro 问道。Fabian 把桨放在膝上，像一个玩具士兵在一天结束时拿着枪。这是 Munro 与 Fabian（Florean 的兄弟）的对话，Munro 显然仍处于警惕状态。
 - **句子结构**：直接引语 + 叙述句； Fabian 的动作描写用 `like` 引导的比喻结构。
@@ -26,7 +26,7 @@ Munro 穿越 Spectacular 的三层奇观后在天文馆与 Lukøje 最终相遇�
 
 ---
 
-> "I'm here to take you across, if you'd like. I'm sorry about my brother."
+> **原句 2:** "I'm here to take you across, if you'd like. I'm sorry about my brother."
 
 - **中文理解**："如果你愿意，我在这里带你过去。对于我的兄弟，我很抱歉。"Fabian 表示他不是来伤害 Munro 的，而是来帮助他的，并为他兄弟 Florean 之前的行为道歉。
 - **句子结构**：直接引语，两个独立句子。
@@ -36,7 +36,7 @@ Munro 穿越 Spectacular 的三层奇观后在天文馆与 Lukøje 最终相遇�
 
 ---
 
-> "Hardly anyone here is happy, but everyone here has a good time. Stories need endings."
+> **原句 3:** "Hardly anyone here is happy, but everyone here has a good time. Stories need endings."
 
 - **中文理解**："这里几乎没有人是快乐的，但每个人都在尽情享乐。故事需要结局。"Fabian 总结了他在 Spectacular 中的观察——快乐与娱乐不同，而故事必须结束才能有意义。
 - **句子结构**：两个独立句子，第一句对比，第二句陈述事实。
@@ -46,7 +46,7 @@ Munro 穿越 Spectacular 的三层奇观后在天文馆与 Lukøje 最终相遇�
 
 ---
 
-> "Munro ran to him. It felt off, running in a molten-gold salon, but the room of giggling revellers paid no mind and parted easily."
+> **原句 4:** "Munro ran to him. It felt off, running in a molten-gold salon, but the room of giggling revellers paid no mind and parted easily."
 
 - **中文理解**：Munro 跑向他。在熔金色的沙龙里奔跑感觉很奇怪，但那些傻笑的狂欢者毫不在意地让开了路。这是 Munro 与 Noam 重逢的时刻——在 Spectacular 的奇观中，两个老朋友终于面对面。
 - **句子结构**：`Munro ran to him. It felt off... but the room... paid no mind and parted easily.` —— 简短叙述 + 让步从句。
@@ -56,7 +56,7 @@ Munro 穿越 Spectacular 的三层奇观后在天文馆与 Lukøje 最终相遇�
 
 ---
 
-> "You were really, honest to god, a fucking pain about this show."
+> **原句 5:** "You were really, honest to god, a fucking pain about this show."
 
 - **中文理解**："你真的是他妈的这个展览的一个混蛋。"Noam 在重逢时对 Munro 说的话——这是朋友间的调侃，也是真实的抱怨，因为 Munro 为了展览忽略了他。
 - **句子结构**：直接引语，感叹句。
@@ -66,7 +66,7 @@ Munro 穿越 Spectacular 的三层奇观后在天文馆与 Lukøje 最终相遇�
 
 ---
 
-> "I love you, but I'm going to stay here for right now. I lost something that's actually right here in the room with me."
+> **原句 6:** "I love you, but I'm going to stay here for right now. I lost something that's actually right here in the room with me."
 
 - **中文理解**："我爱你，但我现在要留在这里。我丢失的东西其实就在这个房间里的某个人身上。"Noam 告诉 Munro 他不会跟他回去——他在 Spectacular 中找到了他正在寻找的东西（可能是 Apollonie，也可能是自我接纳）。
 - **句子结构**：直接引语，两个独立句子，第二句是暗喻。
@@ -76,7 +76,7 @@ Munro 穿越 Spectacular 的三层奇观后在天文馆与 Lukøje 最终相遇�
 
 ---
 
-> "The door in the clock opened on the other side through an oil painting of winter hills, into a room with many marble statues."
+> **原句 7:** "The door in the clock opened on the other side through an oil painting of winter hills, into a room with many marble statues."
 
 - **中文理解**：时钟里的门在另一边通过一幅冬山的油画打开，进入一个有许多大理石雕像的房间。这是 Munro 进入 Spectacular 第三层的入口——通过一个充满艺术史元素的房间。
 - **句子结构**：`The door in the clock opened... into a room with many marble statues` —— 主语 + 动词 + 介词短语。
@@ -86,7 +86,7 @@ Munro 穿越 Spectacular 的三层奇观后在天文馆与 Lukøje 最终相遇�
 
 ---
 
-> "The floor was an exhibit of how desperate the mission of recovery was, how there was room for it all."
+> **原句 8:** "The floor was an exhibit of how desperate the mission of recovery was, how there was room for it all."
 
 - **中文理解**：地板是一个展览，展示恢复任务有多么绝望，以及它是否有空间容纳一切。这是 Munro 在艺术史层的内心独白——他在思考收藏和保存的本质。
 - **句子结构**：`The floor was an exhibit of how desperate... how there was room for it all` —— 系表结构 + 两个 how 名词从句。
@@ -96,7 +96,7 @@ Munro 穿越 Spectacular 的三层奇观后在天文馆与 Lukøje 最终相遇�
 
 ---
 
-> "Munro Forrest had spent a good many years feeling everything could come back home."
+> **原句 9:** "Munro Forrest had spent a good many years feeling everything could come back home."
 
 - **中文理解**：Munro Forrest 花了很多年认为一切都可以回家。这是 Munro 在艺术史层的内心独白，总结了他的人生哲学——他相信所有失去的东西都可以被找回来。
 - **句子结构**：简单过去时陈述句。
@@ -106,7 +106,7 @@ Munro 穿越 Spectacular 的三层奇观后在天文馆与 Lukøje 最终相遇�
 
 ---
 
-> "I came to ask your grandmother to consider selling the bookshop to someone nearby, and it was she who suggested Arial."
+> **原句 10:** "I came to ask your grandmother to consider selling the bookshop to someone nearby, and it was she who suggested Arial."
 
 - **中文理解**："我来是让你祖母考虑把书店卖给附近的人，是她建议卖给 Arial 的。"Lukøje 向 Munro 揭示了他最初来到这个世界的原因——Millie 请求他来找她，而不是因为他自己的目的。
 - **句子结构**：直接引语，两个并列分句。
@@ -116,7 +116,7 @@ Munro 穿越 Spectacular 的三层奇观后在天文馆与 Lukøje 最终相遇�
 
 ---
 
-> "There is no good ending; there are only the stories we tell ourselves."
+> **原句 11:** "There is no good ending; there are only the stories we tell ourselves."
 
 - **中文理解**："没有好的结局；只有我们告诉自己关于自己的故事。"Lukøje 的最后一句话，总结了全书的哲学主题。
 - **句子结构**：并列句，两个分句形成对比。

@@ -8,7 +8,7 @@ Munro 和 Noon 在《The Faerie Queene》的森林里相遇，经历了从对抗
 
 ## 精读
 
-> "She opened a small blue volume, which had exquisite marbled endpapers."
+> **原句 1:** "She opened a small blue volume, which had exquisite marbled endpapers."
 
 **中文理解**：Noon 跳入一本小蓝书的环衬页（marbled endpapers）——这是她最喜欢的进入方式，像游泳一样进入书页。蓝色的大理石纹是她的"河流"，她可以在里面游到永恒。但这一次，她被 Munro 找到了——他从来没有这样找到过她。
 
@@ -24,7 +24,7 @@ Munro 和 Noon 在《The Faerie Queene》的森林里相遇，经历了从对抗
 
 ---
 
-> "Had no one found her, she could have floated forever."
+> **原句 2:** "Had no one found her, she could have floated forever."
 
 **中文理解**：如果没有人找到她，Noon 可以在墨水里永远漂浮——这是她的"无限"概念。但 Munro 找到了她，把她从永恒中拉了出来。这是他们关系的核心张力：她想要无限，他想要有限；她想要流动，他想要停留。
 
@@ -40,7 +40,7 @@ Munro 和 Noon 在《The Faerie Queene》的森林里相遇，经历了从对抗
 
 ---
 
-> "She opened her eyes, then dove under."
+> **原句 3:** "She opened her eyes, then dove under."
 
 **中文理解**：Munro 叫她，她睁开眼睛，然后潜入——这是她一贯的反应：当被 Munro 找到时，她的第一反应是逃。但这一次不同——这一次，她没有逃掉。
 
@@ -55,7 +55,7 @@ Munro 和 Noon 在《The Faerie Queene》的森林里相遇，经历了从对抗
 
 ---
 
-> "Between them, this kiss had been imagined hundreds of times. But neither of them, in their worst or most feverish dreams, had imagined it quite like this."
+> **原句 4:** "Between them, this kiss had been imagined hundreds of times. But neither of them, in their worst or most feverish dreams, had imagined it quite like this."
 
 **中文理解**：他们接吻了——这是全书的高潮。这一个吻是"被想象过数百次的"，但真正发生时与他们想象的都不一样。这是 Duhaime 的主题：现实永远比想象更复杂、更混乱、更真实。
 
@@ -71,7 +71,7 @@ Munro 和 Noon 在《The Faerie Queene》的森林里相遇，经历了从对抗
 
 ---
 
-> "They spent a quiet moment in the balcony seat above a play whose premiere would be interrupted with wartime bombs, and which was never performed or written about again."
+> **原句 5:** "They spent a quiet moment in the balcony seat above a play whose premiere would be interrupted with wartime bombs, and which was never performed or written about again."
 
 **中文理解**：在短暂的宁静中，他们坐在一个包厢里，俯视一部从未上演过的戏剧——因为战时炸弹打断了它的首演。这个细节是全章的隐喻：他们的故事就像那部从未上演的戏剧——被打断了，被战争（他们的分歧）阻止了，但现在他们在废墟中找到了彼此。
 

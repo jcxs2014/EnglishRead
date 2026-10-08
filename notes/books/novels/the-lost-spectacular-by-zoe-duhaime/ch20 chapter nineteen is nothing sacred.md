@@ -7,13 +7,13 @@
 3. **Noon 的间谍战**：Noon 潜入 Munro 的办公室，在他的日程里安插线人，同时招募他的新员工作为双重间谍。她把火柴放到 Nabokov 的书桌上，让 Munro 在看 Caillebotte 画作时当场崩溃。
 4. **战争的升级**：两人从"感情战争"升级为"全面情报战"——互相在对方的世界里安插人员、破坏财产、窃取信息。Noon 在 Munro 的约会对象面前留下了"告密者"的标识，Munro 成立了专门追踪她的团队。
 
-> "Christ," he said to no one. He could feel his body responding. The world of fiction and truth blurred, and he felt it all: the show, the woman, his hands on her but not his hands at all.
+> **原句 1:** "Christ," he said to no one. He could feel his body responding. The world of fiction and truth blurred, and he felt it all: the show, the woman, his hands on her but not his hands at all.
 
 ---
 
 ## 精读
 
-> "He would say something along the lines of I really didn't think about how you might have viewed the fountain pen present."
+> **原句 2:** "He would say something along the lines of I really didn't think about how you might have viewed the fountain pen present."
 
 **中文理解**：Munro 在去见 Noon 之前在心里排练他的道歉词。他想说"我真的没有考虑到你会如何解读钢笔礼物"。这是他第一次承认"观点"的存在——Noon 有她自己的视角，他需要考虑它。但这个认知来得太晚了，他已经在书页中看到了最糟糕的一幕。
 
@@ -28,7 +28,7 @@
 
 ---
 
-> "The captain of his childhood canon tilted his head back across the couch and reached up to Munro's old love."
+> **原句 3:** "The captain of his childhood canon tilted his head back across the couch and reached up to Munro's old love."
 
 **中文理解**：Munro 的"童年 canon"（经典）中的人物——Nemo 船长——现在正在与 Noon 发生关系。"Munro's old love"是 Noon，但这个词也暗示了 Munro 对 Nemo 船长的感情——他是 Munro 的另一个"旧爱"。这种双关是 Duhaime 的精心设计：Munro 爱 Nemo，就像他爱 Noon 一样——而现在这两个人在一起背叛了他。
 
@@ -43,7 +43,7 @@
 
 ---
 
-> "He watched the captain fist her hair and pull her slowly, like a cat by the neck, off his lap and onto her knees in front of him."
+> **原句 4:** "He watched the captain fist her hair and pull her slowly, like a cat by the neck, off his lap and onto her knees in front of him."
 
 **中文理解**：Munro 观看 Noon 和 Nemo 的场景。"like a cat by the neck"——这个比喻既描述了 Noon 被抓住的方式（像猫被抓住脖子），也暗示了 Spinoza（那只猫）——Noon 在 ch19 看到 Spinoza 在 Wilfrid Ratsoy 的腿上，而这只猫现在在 Munro 和 Noon 的关系中扮演着某种角色。
 
@@ -58,7 +58,7 @@
 
 ---
 
-> "Nothing is lost," he'd said simply, and handed her back her CV.
+> **原句 5:** "Nothing is lost," he'd said simply, and handed her back her CV.
 
 **中文理解**：Munro 在面试一个金属探测员时，说出了"Nothing is lost"——这是他对即将成立的追踪团队的核心哲学。他相信没有东西是真正"丢失"的，只是需要被找到。这个信念既是他作为策展人的职业核心，也是他对 Noon 的执念的根源——他不能接受"失去"她，所以他要追踪她。
 
@@ -73,7 +73,7 @@
 
 ---
 
-> "Noon was waiting in half-moon glasses at the gate of the most trussed-up Spectacular to date."
+> **原句 6:** "Noon was waiting in half-moon glasses at the gate of the most trussed-up Spectacular to date."
 
 **中文理解**：Noon 戴着半月形眼镜，在 Spectacular 的门口等待——这是她在 Munro 的世界里安插的间谍网络的核心节点。她穿着 Dumbo 主题的服装，用马戏团的元素来伪装她的真实身份。她是"ringleader"（马戏团领班），而 Munro 的追踪团队正在试图找到她。
 

@@ -7,7 +7,7 @@
 3. **意外的脆弱**：Munro 独自坐在他那间小到可笑的公寓里，收到安保负责人 Creed 的电话说需要帮忙代班。他去了——不是为了钱，而是因为"很久没有人需要他了"。
 4. **包间店的双胞胎**：Munro 让 Noam 去包间店买肉桂包，趁机摆脱他的跟踪。他发现包间店的女人看起来像一个曾经在他身后偷袭过他的女人（Apollonie）。
 
-> "Did you hear what I said about it only being me who's trying to see things from the other perspective?"
+> **原句 1:** "Did you hear what I said about it only being me who's trying to see things from the other perspective?"
 
 ## 一句话总结
 
@@ -17,7 +17,7 @@ Munro 在治疗师的审视和 Noon 的魔法报复之间挣扎——他的公�
 
 ## 精读
 
-> "Something that was hers." / "That she didn't have anymore."
+> **原句 2:** "Something that was hers." / "That she didn't have anymore."
 
 **中文理解**：Munro 和治疗师的对话陷入了一个关键的分歧点：治疗师指出 Munro"送出了一样本就属于她的东西"，Munro 立刻反驳"她已经不需要它了"。这是一个关于"所有权"和"归还权"的争论：Munro 认为他是在"归还"（retrieved），而不是"赠予"；治疗师认为这不重要，重要的是 Noon 是否想要它。
 
@@ -33,7 +33,7 @@ Munro 在治疗师的审视和 Noon 的魔法报复之间挣扎——他的公�
 
 ---
 
-> "Did you ask her about that?" / "Munro took a long sip of his tea, and decided to say whatever he needed to say to get through the session."
+> **原句 3:** "Did you ask her about that?" / "Munro took a long sip of his tea, and decided to say whatever he needed to say to get through the session."
 
 **中文理解**：治疗师问：你有没有问过她关于书店的事？Munro 没有回答，而是决定说一些"能让他通过这次诊疗的话"。他不喜欢认输，但他意识到每小时两百美元的价格应该能让他有一些"发言权"——但现在他意识到，没有人能和他谈论钢笔而不变得哲学化。
 
@@ -48,7 +48,7 @@ Munro 在治疗师的审视和 Noon 的魔法报复之间挣扎——他的公�
 
 ---
 
-> "His house was nicely arranged inside an illustrated tree trunk."
+> **原句 4:** "His house was nicely arranged inside an illustrated tree trunk."
 
 **中文理解**：Munro 的公寓现在在一棵树的树干内部——所有的 belongings 都被缩小进了 Brambly Hedge 的插画世界里。老鼠大小的衣服挂在迷你衣架上，奶奶的脚凳上摆着柠檬水托盘和微型书籍。这是 Noon 的报复：她不能伤害 Munro，就破坏他的物理空间。
 
@@ -63,7 +63,7 @@ Munro 在治疗师的审视和 Noon 的魔法报复之间挣扎——他的公�
 
 ---
 
-> "A tear, easy and clear, came to him."
+> **原句 5:** "A tear, easy and clear, came to him."
 
 **中文理解**：Munro 在他的微型公寓里哭了——这是他半年治疗以来第一次哭。不是因为钢笔，不是因为 Noon，而是因为他突然意识到：他花了三千美元进行治疗，却没有一个专业的人能帮他理解这件事，而一个他爱过的人可以把他变成老鼠大小、放在一幅画里。这个对比让他无法承受。
 
@@ -78,7 +78,7 @@ Munro 在治疗师的审视和 Noon 的魔法报复之间挣扎——他的公�
 
 ---
 
-> "Munro was thrilled, not just by the novelty of being called into work at night, the shadows, the creaking door, but by being needed by someone he hadn't let down a hundred times before."
+> **原句 6:** "Munro was thrilled, not just by the novelty of being called into work at night, the shadows, the creaking door, but by being needed by someone he hadn't let down a hundred times before."
 
 **中文理解**：Munro 接到电话去代班时感到"激动"——不是因为新奇（夜班、阴影、吱呀作响的门），而是因为"被需要"这件事。他已经很久没有这种感觉了——他一直在让别人失望，而这一次，有人需要他，他可以出现。这是他重建自我价值的开始。
 

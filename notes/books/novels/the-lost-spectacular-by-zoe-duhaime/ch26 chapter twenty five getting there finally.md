@@ -16,7 +16,7 @@ Munro 踏入 The Spectacular，在一片由记忆与失物构成的奇幻马戏�
 
 ## 精读
 
-> "The umbrella thief, Lukøje, was about to commit a terrible crime."
+> **原句 1:** "The umbrella thief, Lukøje, was about to commit a terrible crime."
 
 - **中文理解**：这是全章的第一句话，直接点明 Lukøje 即将犯下可怕的罪行——为 The Spectacular 的"大偷"拉开了序幕。
 - **句子结构**：`The umbrella thief, Lukøje, was about to commit a terrible crime`——主系表结构的简单陈述，主语由同位语强化。
@@ -26,7 +26,7 @@ Munro 踏入 The Spectacular，在一片由记忆与失物构成的奇幻马戏�
 
 ---
 
-> "Here, he dallied in the long, winding cherry-tree lanes, had an affair with a suffragette, and spent long days in the park."
+> **原句 2:** "Here, he dallied in the long, winding cherry-tree lanes, had an affair with a suffragette, and spent long days in the park."
 
 - **中文理解**：Lukøje 在故事中游荡，在樱花盛开的小径上徘徊，与一位妇女权利运动者谈恋爱，在公园里度过漫长的日子——他是一个穿梭于故事之间的存在。
 - **句子结构**：三个并列谓语 `dallied... had... spent...`，描述 Lukøje 在不同故事中的游荡。
@@ -36,7 +36,7 @@ Munro 踏入 The Spectacular，在一片由记忆与失物构成的奇幻马戏�
 
 ---
 
-> "Munro was not the first man to walk through the snow that evening, but still, his footprints were alone."
+> **原句 3:** "Munro was not the first man to walk through the snow that evening, but still, his footprints were alone."
 
 - **中文理解**：Munro 不是当晚第一个在雪中行走的人，但他的脚印是孤独的。这句话用"不是第一个"却"孤独"制造对比，暗示他与他追寻的事物之间的距离。
 - **句子结构**：`Munro was not the first man to... but still, his footprints were alone`——转折结构，前半句否认唯一性，后半句肯定孤独感。
@@ -46,7 +46,7 @@ Munro 踏入 The Spectacular，在一片由记忆与失物构成的奇幻马戏�
 
 ---
 
-> "The air, without disturbance at all, easy, became rich with light from within."
+> **原句 4:** "The air, without disturbance at all, easy, became rich with light from within."
 
 - **中文理解**：空气毫无波动，平静地，变得充盈着来自内部的光。这句话描写的是 The Spectacular 帐篷内的空间特性——光的来源不是外部，而是内部自生。
 - **句子结构**：`The air... became rich with light from within`——名词短语 + 动词 + 介词短语。
@@ -56,7 +56,7 @@ Munro 踏入 The Spectacular，在一片由记忆与失物构成的奇幻马戏�
 
 ---
 
-> "Somewhere in the distance, two violins began to play Mozart's lost sonata."
+> **原句 5:** "Somewhere in the distance, two violins began to play Mozart's lost sonata."
 
 - **中文理解**：远处，两把小提琴开始演奏莫扎特失传的奏鸣曲。"失传的奏鸣曲"是一个核心意象——Lost 的东西在这个空间里被找到、被演奏。
 - **句子结构**：`Somewhere in the distance, two violins began to play Mozart's lost sonata`——地点状语 + 主语 + 谓语 + 宾语。
@@ -66,7 +66,7 @@ Munro 踏入 The Spectacular，在一片由记忆与失物构成的奇幻马戏�
 
 ---
 
-> "The players were a pair of brothers, twenty emerald rings between them, and they were standing on their caravan, eyes to the roof as the night began."
+> **原句 6:** "The players were a pair of brothers, twenty emerald rings between them, and they were standing on their caravan, eyes to the roof as the night began."
 
 - **中文理解**：演奏者是一对兄弟，他们之间有二十枚翡翠戒指，他们站在大篷车上，眼睛望着屋顶，夜幕开始降临。这句话描写了 The Spectacular 内部的奇幻表演者群像。
 - **句子结构**：主语 + 同位语 + 伴随状语 `standing on their caravan` + 时间状语 `as the night began`。
@@ -76,7 +76,7 @@ Munro 踏入 The Spectacular，在一片由记忆与失物构成的奇幻马戏�
 
 ---
 
-> "Amelia Earhart's plane spun above their head."
+> **原句 7:** "Amelia Earhart's plane spun above their head."
 
 - **中文理解**：Amelia Earhart 的飞机在他们的头顶旋转。这是 The Spectacular 内部的另一个奇观——历史上著名的女飞行员的飞机出现在这个马戏团帐篷里。
 - **句子结构**：`Amelia Earhart's plane spun above their head`——主语 + 动词 + 地点状语，极简结构。
@@ -86,7 +86,7 @@ Munro 踏入 The Spectacular，在一片由记忆与失物构成的奇幻马戏�
 
 ---
 
-> "Munro put his palms around the neck of a beech tree so as not to collapse."
+> **原句 8:** "Munro put his palms around the neck of a beech tree so as not to collapse."
 
 - **中文理解**：Munro 用双手环住一棵山毛榉树的树干，以免自己倒下。这是他面对 The Spectacular 奇观时的身体反应——震惊到需要扶住树木才能站稳。
 - **句子结构**：`Munro put his palms around... so as not to collapse`——目的从句表示结果。

@@ -16,7 +16,7 @@ Forrest 家族在 City Not-Unlike-Montréal 继续他们的故事——Noon 和 
 
 ## 精读
 
-> "Just as there are worlds beneath our own, there are stories beneath stories."
+> **原句 1:** "Just as there are worlds beneath our own, there are stories beneath stories."
 
 - **中文理解**：就像我们的世界之下有世界一样，故事之下也有故事。这是全书的最后一句话，也是对全书主题的最终陈述。
 - **句子结构**：`Just as there are worlds beneath our own, there are stories beneath stories`——类比结构，两个并列的 there be 句型。
@@ -26,7 +26,7 @@ Forrest 家族在 City Not-Unlike-Montréal 继续他们的故事——Noon 和 
 
 ---
 
-> "They could stay as long as they liked at the Spectacular: They were written in now, and had plenty of room to wander. There were even illustrations."
+> **原句 2:** "They could stay as long as they liked at the Spectacular: They were written in now, and had plenty of room to wander. There were even illustrations."
 
 - **中文理解**：他们可以想待多久就待多久——他们现在已经被写入其中，有足够的空间漫游。甚至还有插图。
 - **句子结构**：并列复合句，最后一句简短而有力。
@@ -36,7 +36,7 @@ Forrest 家族在 City Not-Unlike-Montréal 继续他们的故事——Noon 和 
 
 ---
 
-> "In this home, commonly called a walk-up, there were three reading windows, one on top of another."
+> **原句 3:** "In this home, commonly called a walk-up, there were three reading windows, one on top of another."
 
 - **中文理解**：在这所通常被称为 walk-up 的房子里，有三个阅读窗，一个叠在另一个上面。这描绘了 Forrest 家族公寓的物理结构，也是叙事层次的隐喻。
 - **句子结构**：`In this home... there were three reading windows, one on top of another`——地点状语 + there be 句型 + 同位语。
@@ -46,7 +46,7 @@ Forrest 家族在 City Not-Unlike-Montréal 继续他们的故事——Noon 和 
 
 ---
 
-> "Noon Bonaventure and Munro Forrest arrived together via a portrait of a train station in the downtown of a City Not-Unlike-Montréal."
+> **原句 4:** "Noon Bonaventure and Munro Forrest arrived together via a portrait of a train station in the downtown of a City Not-Unlike-Montréal."
 
 - **中文理解**：Noon Bonaventure 和 Munro Forrest 一起到达——通过一幅位于 City Not-Unlike-Montréal 市中心的火车站肖像。这是他们回家的方式：通过一幅画/一张照片进入 Spectacular。
 - **句子结构**：简单陈述句，两个主语 + 一个动词 + 方式状语。
@@ -56,7 +56,7 @@ Forrest 家族在 City Not-Unlike-Montréal 继续他们的故事——Noon 和 
 
 ---
 
-> "Every once in a while, they would take the train home and return to the start of the story."
+> **原句 5:** "Every once in a while, they would take the train home and return to the start of the story."
 
 - **中文理解**：偶尔，他们会坐火车回家，回到故事的开头。这句话暗示 Munro 和 Noon 会继续在现实世界和 Spectacular 之间往返。
 - **句子结构**：时间状语从句 + 主句 + 并列谓语。
@@ -66,7 +66,7 @@ Forrest 家族在 City Not-Unlike-Montréal 继续他们的故事——Noon 和 
 
 ---
 
-> "Their mothers always waited together at the Station Dunyazad, plus two little girls with kittens of their own, for Spinoza had vanished into a story when her time came, now long passed, as all things will."
+> **原句 6:** "Their mothers always waited together at the Station Dunyazad, plus two little girls with kittens of their own, for Spinoza had vanished into a story when her time came, now long passed, as all things will."
 
 - **中文理解**：他们的母亲总是在 Station Dunyazad 等候他们，还有两个小女孩带着她们自己的小猫——因为 Spinoza 在她的时刻到来时已经消失在一个故事里，那是很久以前的事了，正如所有事物一样。
 - **句子结构**：主句 + 原因状语从句 + 插入语。

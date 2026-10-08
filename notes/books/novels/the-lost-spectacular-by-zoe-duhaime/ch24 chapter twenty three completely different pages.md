@@ -16,7 +16,7 @@ Munro 回到原生家庭汲取力量，随后鼓起勇气向 Élizabeth 道歉�
 
 ## 精读
 
-> "I think I need to go home," he told Noam. "And I really, really need you to lead the boys while I'm gone."
+> **原句 1:** "I think I need to go home," he told Noam. "And I really, really need you to lead the boys while I'm gone."
 
 - **中文理解**：Munro 在经历与 Noon 的情感断裂后，向好友表示自己必须回家一趟。他用"lead the boys"把 press gala 的重担托付给 Noam，语气恳切。
 - **句子结构**：`I think`（插入语缓和语气）+ 主句 `I need to go home`；直接引语引出对白，叙事者不介入判断。
@@ -26,7 +26,7 @@ Munro 回到原生家庭汲取力量，随后鼓起勇气向 Élizabeth 道歉�
 
 ---
 
-> "We used to be best friends."
+> **原句 2:** "We used to be best friends."
 
 - **中文理解**：Noon 平静地指出他们曾经是最好的朋友，言外之意是现在不再是这样了。这句话让 Munro 意识到自己的缺席对友谊的损耗。
 - **句子结构**：简短陈述句，无修饰，直接了当。`used to` 表示过去的状态，暗含对照。
@@ -36,7 +36,7 @@ Munro 回到原生家庭汲取力量，随后鼓起勇气向 Élizabeth 道歉�
 
 ---
 
-> "Lacuna Heron passed, a raucous castle in the middle of the frozen lake, frosted with amber windows and the smoke of happy chimneys; a snow schooner was sailing in circles around the city, trailed by a hundred screaming geese that flew so slowly behind him that Munro wondered how they didn't drop from the air."
+> **原句 3:** "Lacuna Heron passed, a raucous castle in the middle of the frozen lake, frosted with amber windows and the smoke of happy chimneys; a snow schooner was sailing in circles around the city, trailed by a hundred screaming geese that flew so slowly behind him that Munro wondered how they didn't drop from the air."
 
 - **中文理解**：列车窗外掠过 Lacuna Heron 城堡——冰湖中一座喧嚣的城堡，窗户镀着琥珀色光芒，烟囱冒着快乐的白烟；一艘雪橇船绕城航行，身后跟着一百只尖叫的鹅，飞得慢得让 Munro 疑惑它们为何不掉下来。
 - **句子结构**：`A passed, B, frosted with...; C, trailing... that Munro wondered...`——分号连接两个独立意象，最后以 `that` 从句收尾。
@@ -46,7 +46,7 @@ Munro 回到原生家庭汲取力量，随后鼓起勇气向 Élizabeth 道歉�
 
 ---
 
-> "We're just—You never just come home."
+> **原句 4:** "We're just—You never just come home."
 
 - **中文理解**：Anjali 没有责怪，只是说出事实——Munro 从不轻易回家。这句话让 Munro 意识到自己的疏离有多深。
 - **句子结构**：`We're just—`（破折号表示话未说完的打断感）+ 主句 `You never just come home`，简短有力。
@@ -56,7 +56,7 @@ Munro 回到原生家庭汲取力量，随后鼓起勇气向 Élizabeth 道歉�
 
 ---
 
-> "It's about La Tobaganne."
+> **原句 5:** "It's about La Tobaganne."
 
 - **中文理解**：Munro 终于说出展览的真正主题——不是"珍本与边缘叙事"，而是关于 La Tobaganne 这个他与 Noon、Grandma Forrest 共度童年的书店。
 - **句子结构**：`It's about + 名词`，最简单的宣告句式，却承载了 Munro 对整个童年的致敬。
@@ -66,7 +66,7 @@ Munro 回到原生家庭汲取力量，随后鼓起勇气向 Élizabeth 道歉�
 
 ---
 
-> "Millie invested in the restaurant with the money she got from selling La Tobaganne."
+> **原句 6:** "Millie invested in the restaurant with the money she got from selling La Tobaganne."
 
 - **中文理解**：Élizabeth 向 Munro 揭示了一个此前他从未知晓的家庭秘密——Millie（他的奶奶）卖掉 La Tobaganne 后，用那笔钱投资了 La Chasse-Galerie。
 - **句子结构**：`Millie invested... with the money she got from selling La Tobaganne`，主句 + 关系从句说明资金来源。
@@ -76,7 +76,7 @@ Munro 回到原生家庭汲取力量，随后鼓起勇气向 Élizabeth 道歉�
 
 ---
 
-> "I know I should have told you sooner, or asked. I don't mean to blindside you, but it wasn't really, truly this exact show until a few days ago."
+> **原句 7:** "I know I should have told you sooner, or asked. I don't mean to blindside you, but it wasn't really, truly this exact show until a few days ago."
 
 - **中文理解**：Munro 向 Élizabeth 坦白展览的真相——展览直到几天前才变成现在这个关于 Arial 和 La Tobaganne 的版本。
 - **句子结构**：`I know I should have... / I don't mean to... / but it wasn't... until a few days ago`——多重从句表达复杂的歉意和解释。
@@ -86,7 +86,7 @@ Munro 回到原生家庭汲取力量，随后鼓起勇气向 Élizabeth 道歉�
 
 ---
 
-> "Come if you dare."
+> **原句 8:** "Come if you dare."
 
 - **中文理解**：邀请函上的结语。简短、挑衅、神秘——完全符合 The Spectacular 的调性。
 - **句子结构**：`Come if you dare`——条件句，命令式语气。

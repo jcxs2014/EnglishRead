@@ -8,7 +8,7 @@ Munro 的追踪团队成员开始消失（被 Noon 吸收），Noam Lafitte 被 
 
 ## 精读
 
-> "The boys hated it when Munro's insane schemes got tangled. They were just thrilled that the fifth floor looked beautiful and that they'd booked the Gazelle interview, not to mention the Rosemonton Dial."
+> **原句 1:** "The boys hated it when Munro's insane schemes got tangled. They were just thrilled that the fifth floor looked beautiful and that they'd booked the Gazelle interview, not to mention the Rosemonton Dial."
 
 **中文理解**：Munro 的团队（Avery、Avaya、Jordan）对他的"疯狂计划"感到不满，但他们喜欢"五楼很漂亮"和"采访很顺利"。他们想要的是正常的工作环境，而不是 Munro 和 Noon 之间的无休止战争。这是全书中 Munro 的孤独感的又一次体现——他的朋友们无法理解他的执念。
 
@@ -24,7 +24,7 @@ Munro 的追踪团队成员开始消失（被 Noon 吸收），Noam Lafitte 被 
 
 ---
 
-> "Wasn't that a glorious show? I'm sorry to say this is your curtain call too for the evening. I must insist that you finish your drinks, take a last look around, and make your way as you came."
+> **原句 2:** "Wasn't that a glorious show? I'm sorry to say this is your curtain call too for the evening. I must insist that you finish your drinks, take a last look around, and make your way as you came."
 
 **中文理解**：Noon 在舞台上对观众说"这是你们今晚的闭幕"，然后直接点名叫 Noam Lafitte——这是她对 Munro 团队的公开宣战。她把 Noam 叫上舞台，让他在众人面前面对自己在 Spectacular 的现实。这是她一贯的方式：用戏剧来表达她无法用言语说出的事情。
 
@@ -40,7 +40,7 @@ Munro 的追踪团队成员开始消失（被 Noon 吸收），Noam Lafitte 被 
 
 ---
 
-> "No, or it would be here."
+> **原句 3:** "No, or it would be here."
 
 **中文理解**：Noam 和 Noon 在酒吧对话，讨论他失去的东西（"The Lamborghini mattered?" "No, it didn't." "It didn't?" "No, or it would be here."）。Noon 的逻辑是：如果那辆车真的重要，它就会在 Spectacular 里——而它不在，所以它不重要。这是 Noon 对"失去"的根本态度：能被带走的才是真正重要的，不能被带走的只是物质。
 
@@ -55,7 +55,7 @@ Munro 的追踪团队成员开始消失（被 Noon 吸收），Noam Lafitte 被 
 
 ---
 
-> "Munro curled up in bed, and would have drifted off into a bothered sleep had it not been for a striking new detail on the cover of his favourite book. Jeremy Fisher was wearing his emerald-green sweater."
+> **原句 4:** "Munro curled up in bed, and would have drifted off into a bothered sleep had it not been for a striking new detail on the cover of his favourite book. Jeremy Fisher was wearing his emerald-green sweater."
 
 **中文理解**：Munro 在经历了所有这些之后，试图睡觉，但他打开《The Tale of Mr. Jeremy Fisher》时，发现封面上 Jeremy Fisher 穿着他的祖母绿毛衣。这是 Noon 的印记——她在告诉他：我知道你的一切，你的阅读习惯、你的记忆、你的最爱。她把他的颜色放进了他最私密的物品里。
 

@@ -27,7 +27,7 @@ Munro 以博物馆馆长的身份正式向 Curators' Guild 提出展览计划：
 
 ## 本章引语
 
-> "I think we can all agree that we need to reassess," Munro said. His best friends, who had stuck with him through every nutso pitch of the decade, looked a little worried.
+> **原句 1:** "I think we can all agree that we need to reassess," Munro said. His best friends, who had stuck with him through every nutso pitch of the decade, looked a little worried.
 
 **中文理解**：Munro 在博物馆董事会上提议"重新评估"Spectacular——而他最亲密的朋友们（也是童年玩伴）虽然跟了他十年，却已经开始担心他是否"读太多 Jules Verne"了。这句话揭示了 Munro 的困境：他对失物与故事的执着，在朋友们眼中已经接近疯狂。
 
@@ -43,7 +43,7 @@ Munro 以博物馆馆长的身份正式向 Curators' Guild 提出展览计划：
 
 ---
 
-> "And my umbrellas! Grandma Forrest's ring—that could not be more important! And my homework all those years—fuck, my car that Christmas? Then there was pretty much every left slipper for a decade, how could that be chance?"
+> **原句 2:** "And my umbrellas! Grandma Forrest's ring—that could not be more important! And my homework all those years—fuck, my car that Christmas? Then there was pretty much every left slipper for a decade, how could that be chance?"
 
 **中文理解**：Munro 在董事会上历数自己丢失的东西——雨伞、祖母的戒指、作业、汽车、左脚的鞋子。他的语气从激动逐渐失控（fuck 加入了），暗示这种"丢失"已经不再是偶然，而是某种模式。这段话揭示了 Spectacular 多年来的"狩猎"痕迹。
 
@@ -59,7 +59,7 @@ Munro 以博物馆馆长的身份正式向 Curators' Guild 提出展览计划：
 
 ---
 
-> "Last year, Jordan had organized a vintage air show, and had hung the airplanes of renowned Northland flyer Charlie Herald from the ceiling, strung with fairy lights. Avaya had been in charge of a travelling piece about the lifespan of butterflies, an absolute bonanza."
+> **原句 3:** "Last year, Jordan had organized a vintage air show, and had hung the airplanes of renowned Northland flyer Charlie Herald from the ceiling, strung with fairy lights. Avaya had been in charge of a travelling piece about the lifespan of butterflies, an absolute bonanza."
 
 **中文理解**：叙述者列举了 Curators' Guild 过往的"异域"展览——老式飞机、蝴蝶周期。这些展览看似荒诞，却暗示了一个主题：他们都曾被 Munro 的"故事感"所感染，并把它变成了真实的博物馆事业。只是现在，Munro 走得太远了。
 
@@ -75,7 +75,7 @@ Munro 以博物馆馆长的身份正式向 Curators' Guild 提出展览计划：
 
 ---
 
-> "Sometimes, he would leave well-loved copies of his favourites to be carried off by starry-eyed children: The Phantom Tollbooth (1961); the foundational From the Mixed-Up Files of Mrs. Basil E. Frankweiler (1967)..."
+> **原句 4:** "Sometimes, he would leave well-loved copies of his favourites to be carried off by starry-eyed children: The Phantom Tollbooth (1961); the foundational From the Mixed-Up Files of Mrs. Basil E. Frankweiler (1967)..."
 
 **中文理解**：Munro 在博物馆 Trees 区域放置他最爱的童书，等待孩子们把它们带走。这段细节揭示了他的真正激情所在：不是"保存"失物，而是让它们找到新的主人——让故事继续流动。
 
@@ -100,7 +100,7 @@ Munro 以博物馆馆长的身份正式向 Curators' Guild 提出展览计划：
 |---|---|---|
 | curator | 策展人；馆长 | he was going to be a **curator** |
 | reassess | 重新评估 | "I think we can all agree that we need to **reassess**," Munro said |
-| bonanza | 大获成功；发财 | a travelling piece about butterflies, an absolute **bonanza** |
+| bonanza | 大获成功；发财 | a travelling piece about the lifespan of butterflies, an absolute **bonanza** |
 | provenance | 来历；出处 | I take **provenance** very seriously |
 
 ### ⭐⭐ 进阶
@@ -119,4 +119,4 @@ Munro 以博物馆馆长的身份正式向 Curators' Guild 提出展览计划：
 | museum | 博物馆 | there was a **museum** at the end of Twelfth Street |
 | exhibition | 展览 | My next **exhibit** will be called Errata |
 | friend | 朋友 | his best **friends**, who had stuck with him |
-| tree | 树 | seven **trees**, for the seven of them in the house |
+| tree | 树 | seven **trees**, for the seven of them in that house |

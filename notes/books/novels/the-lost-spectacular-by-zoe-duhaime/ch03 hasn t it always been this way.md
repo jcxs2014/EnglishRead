@@ -27,7 +27,7 @@ Noon 和 Munro 跟踪祖母 Millie Forrest 夜间出行，发现她与一个神�
 
 ## 本章引语
 
-> "Grandma Forrest never goes out," Noon said conspiratorially as soon as they were out the door. Munro was still trying to get his sweater over his head, and poked his face out quizzically.
+> **原句 1:** "Grandma Forrest never goes out," Noon said conspiratorially as soon as they were out the door. Munro was still trying to get his sweater over his head, and poked his face out quizzically.
 
 **中文理解**：Noon 以"她从不出门"来推断祖母去了某个特殊的地方——这个反常的观察成为两个孩子跟踪 Millie 的起点。句中 `conspiratorially` 点明 Noon 分享秘密时的兴奋与狡黠，与 Munro 的困惑反应形成喜剧性对照。
 
@@ -43,7 +43,7 @@ Noon 和 Munro 跟踪祖母 Millie Forrest 夜间出行，发现她与一个神�
 
 ---
 
-> "We're going. It's my birthright," Munro said. It wasn't quite the natural conclusion of realizing you weren't really sure who your own grandmother was, but his pride needed a crutch of certainty.
+> **原句 2:** "We're going. It's my birthright," Munro said. It wasn't quite the natural conclusion of realizing you weren't really sure who your own grandmother was, but his pride needed a crutch of certainty.
 
 **中文理解**：Munro 用"与生俱来的权利"来为自己的好奇心辩护——但叙述者立刻揭穿：这个结论并不"自然"，它只是 Munro 用来对抗"不确定感"的拐杖。身份认同的焦虑在这里被轻轻点破。
 
@@ -59,7 +59,7 @@ Noon 和 Munro 跟踪祖母 Millie Forrest 夜间出行，发现她与一个神�
 
 ---
 
-> "The moment they took their eyes off the tent, it could have been anything—a collection of beach glass in your palm, a crow's clutter of sparkling treasures, or a pile of rain boots at the front of a kindergarten."
+> **原句 3:** "The moment they took their eyes off the tent, it could have been anything—a collection of beach glass in your palm, a crow's clutter of sparkling treasures, or a pile of rain boots at the front of a kindergarten."
 
 **中文理解**：这段话描写孩子们第一眼看到 Circus Tent 时的恍惚——它可以是任何东西，因为它还没有被"故事"固定下来。叙述者的犹豫本身就在模仿孩子们未被故事框架捕捉时的原始感知。
 
@@ -98,25 +98,25 @@ Noon 和 Munro 跟踪祖母 Millie Forrest 夜间出行，发现她与一个神�
 |---|---|---|
 | conspiratorially | 密谋般地；像策划阴谋似地 | "Grandma Forrest never goes out," Noon said **conspiratorially**. |
 | crutch | 拐杖；支撑物；依赖 | his pride needed a **crutch** of certainty |
-| patchwork | 拼凑之物；百衲衣 | a **patchwork** of old umbrellas |
-| bewilderment | 困惑；茫然 | the **bewilderment** in his voice |
+| arcane | 神秘的；奥妙的 | her enormous bookcases were filled with many wonderful and **arcane** things |
+| snuck | 偷偷溜走 | It was the first time they had **snuck** out together |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | birthright | 与生俱来的权利 | "It's my **birthright**," Munro said. |
-| clandestine | 秘密的；私下的 | their **clandestine** expedition |
-| glimmer | 微光；闪烁 | the **glimmer** of high heels on the sidewalk |
+| metro | 地铁站 | the nearby **metro** stop with the enormous fountain |
+| nasturtium | 旱金莲 | the peppery end of **nasturtium** season |
 | gnarled | 多节的；扭曲的 | the **gnarled** old willow roots |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| grandmother | 祖母 | the **grandmother** upon whom this story is built |
-| firelight | 火光 | shadow puppets in the flickering **firelight** |
-| iron staircase | 铁艺楼梯 | the dangerous **wrought-iron** staircases |
+| grandmother | 祖母 | the grandmother upon whom, arguably, this story is built |
+| firelight | 火光 | shadow puppets in the flickering lights of the fire |
+| iron staircase | 铁艺楼梯 | they would often climb down the iron staircase just before dusk |
 | a quiet life | 平静的生活 | in the City Not-Unlike-Montréal |
-| follow | 跟随 | they followed Millie Forrest down the road |
-| whisper | 低声说；耳语 | "Maybe we had her right, but—maybe she just likes the circus." |
+| follow | 跟随 | we should follow her |
+| clever | 聪明的；机灵的 | their neighbour was also **clever** with words |

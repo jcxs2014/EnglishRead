@@ -80,16 +80,16 @@ Noon 决定关闭 La Tobaganne，却意外发现最忠实的顾客 Odette 竟是
 | legacy | 遗产；传承 | this shop has a **legacy**? |
 | timeless | 不老的；超越时间的 | Odette was—well—**timeless** |
 | toboggan | 雪橇；本作中特指 Spectacular 的运作隐语 | I was the first to drive the great **toboggan** |
-| bibliophile | 爱书人 | a **shepherd** of the bibliophilic flock |
+| shepherd | 引导者；牧羊人 | a **shepherd** of the bibliophilic |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | surrender | 投降；放弃；顺从 | the smash hit of La Chasse-Galerie and knew a thing or two about **surrender** |
-| eternity | 永恒；不朽 | her most loyal customer was, in all likelihood, **eternal** |
-| tribe | 部落；社群 | our **crowd** hardly expands |
-| apprentice | 学徒；新手 | an **accountant** (her dad's friend) |
+| eternal | 永恒的；不朽的 | her most loyal customer was, in all likelihood, **eternal** |
+| crowd | 人群；一伙人 | our **crowd** hardly expands |
+| accountant | 会计；账房 | she called her **accountant** her dad's friend |
 
 ### ⭐ 基础
 

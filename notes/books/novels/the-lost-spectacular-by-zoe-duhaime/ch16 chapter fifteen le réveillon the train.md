@@ -7,13 +7,13 @@
 3. **重逢的温柔与刺痛**：他们互相刺探——Munro 问她有没有朋友、有没有约会对象；Noon 反击说他在偷听。两个戴着眼镜的中年人像少年一样笨拙，但那种熟悉的张力从未消失。
 4. **站台上的重逢**：三家妈妈在 Station Dunyazad 等候，看到两个孩子从同一节车厢走出来——她们无法欢呼，只能震惊地看着。Munro 悄悄把一枚硬币塞给 Noon，让她在喷泉许愿——这是 Arial 多年前教他们的老规矩。
 
-> "It's our first date in years," he interrupted. "That's not true, we just did some archery."
+> **原句 1:** "It's our first date in years," he interrupted. "That's not true, we just did some archery."
 
 ---
 
 ## 精读
 
-> "You're obsessed," she said over his shoulder.
+> **原句 2:** "You're obsessed," she said over his shoulder.
 
 **中文理解**：Noon 从 Munro 肩后看到他正在读什么——一份与她相关的餐厅评论，描述了她"长长的腿和低领上衣"。她用一句轻描淡写的"你执念了"来掩饰自己的心跳加速。这是两人在火车上重逢后的第一句对话，表面嘲讽、实则暗流涌动。
 
@@ -28,7 +28,7 @@
 
 ---
 
-> "The merlot is quite nice—you'd love it."
+> **原句 3:** "The merlot is quite nice—you'd love it."
 
 **中文理解**：Munro 向 Noon 推荐酒——Merlot 很适合她。这句话表面上是在说酒，实际上在说"我记得你的口味，我还了解你"。这是他笨拙的方式，试图在"老朋友"和"曾经爱过的人"之间找到合适的距离。
 
@@ -43,7 +43,7 @@
 
 ---
 
-> "That's not true, we just did some archery."
+> **原句 4:** "That's not true, we just did some archery."
 
 **中文理解**：Noon 反驳 Munro 说这是多年来的第一次约会——"我们不是刚一起练过射箭吗？"射箭是前几天的活动，但 Noon 的反驳暗示她在乎这件事的性质：这不是约会，只是"顺便见面"。
 
@@ -58,7 +58,7 @@
 
 ---
 
-> "Do you actually ever just make it over to Avery's? For decorating Christmas trees?"
+> **原句 5:** "Do you actually ever just make it over to Avery's? For decorating Christmas trees?"
 
 **中文理解**：Noon 突然反击——她知道他在 Avery 家的圣诞树派对上，而 Munro 完全没料到她会知道这件事。她在暗示：你说我偷听，但其实你也在暗中监视我。两人之间的监视是双向的。
 
@@ -73,7 +73,7 @@
 
 ---
 
-> "You have friends?" he asked. "I have friends."
+> **原句 6:** "You have friends?" he asked. "I have friends."
 
 **中文理解**：Munro 问 Noon 有没有朋友，Noon 回答"我有朋友"——这是一个极其干巴的对话，却是两人互相刺探的核心：他想知道她是否已经建立了支持系统，她想证明自己不是孤身一人。两个问题都是关心，只是裹着怀疑的外衣。
 
@@ -88,7 +88,7 @@
 
 ---
 
-> "Okay, you can keep your secrets if you keep off Nemo. You know what, stay away from all of Verne—some things are sacred."
+> **原句 7:** "Okay, you can keep your secrets if you keep off Nemo. You know what, stay away from all of Verne—some things are sacred."
 
 **中文理解**：Munro 说：你可以保留你的秘密，但别碰 Nemo（潜水艇船长，《海底两万里》主角）——他是 Munro 最喜欢的角色，而 Noon 威胁说要和他约会。Munro 用"有些东西是神圣的"来表达：我的热爱你不要碰。
 
@@ -103,7 +103,7 @@
 
 ---
 
-> "No, Munro, I'm not in the books."
+> **原句 8:** "No, Munro, I'm not in the books."
 
 **中文理解**：Noon 终于正面回答了 Munro 的问题：她不在书里。这意味着她不是某个作家的创作，而是真实的——或者至少，她存在于"故事和现实之间的中间地带"。这是全书关于身份认定的核心揭示之一。
 
@@ -118,7 +118,7 @@
 
 ---
 
-> "Does it ever stick?" / "No, they go back unless I stay." / "And you never stay." / "And so I never stay."
+> **原句 9:** "Does it ever stick?" / "No, they go back unless I stay." / "And you never stay." / "And so I never stay."
 
 **中文理解**：Munro 问：如果角色在书里留下了，他们能"固定"吗？Noon 的回答是：不能——除非她留在那里，否则他们都会回到原来的位置。而她从来不留下，所以她也从来不在那里停留。这是一个关于"留下的代价"的隐喻——爱一个人意味着放弃流动性，而 Noon 无法做到这一点。
 
@@ -134,7 +134,7 @@
 
 ---
 
-> "You have to learn to stay in your own lane."
+> **原句 10:** "You have to learn to stay in your own lane."
 
 **中文理解**：Munro 说"你得学会待在自己的车道里"——这是 Noon 曾经对他说的话（ch12），现在他把它还给她。两个人都在要求对方"不要入侵自己的领域"，却同时都在试图进入对方的世界。这是他们关系的根本矛盾：既想靠近，又害怕被吞噬。
 
@@ -149,7 +149,7 @@
 
 ---
 
-> "Not all that's gone is stolen, and the fact that you don't think I know the difference between what is left and what is taken—what is for me and what is not—is exactly the point."
+> **原句 11:** "Not all that's gone is stolen, and the fact that you don't think I know the difference between what is left and what is taken—what is for me and what is not—is exactly the point."
 
 **中文理解**：Noon 说：失去的东西不一定是被人偷走的。你以为我不知道"留下的"和"被拿走的"之间的区别吗？这正是问题所在。这段话是 Noon 对整场争论的总结——她在说：我知道你给我的那支钢笔是"我自己的"，你只是在把它还给我，但你没有权利决定我应该为什么而停留。
 

@@ -7,13 +7,13 @@
 3. **平局**：两人最终和解失败，但也没有彻底破裂——Noon 在 Munro 的圣诞卡上发现了一个窗口，潜入他在卧室读书的场景，看到他身上的文身（全部是她曾经推荐给他的书）。她意识到：他比她以为的更了解她，但她已经没有时间了。
 4. **文身的地图**：Munro 的文身是他读过的书籍的地图——Narnia 的船、《铁路的孩子》的火车、安徒生的插图、格林的灰姑娘。这些都是她曾经带他去过的地方，现在刻在他的身上，成为他身体的一部分。
 
-> "Not all that's gone is stolen, and the fact that you don't think I know the difference between what is left and what is taken—what is for me and what is not—is exactly the point."
+> **原句 1:** "Not all that's gone is stolen, and the fact that you don't think I know the difference between what is left and what is taken—what is for me and what is not—is exactly the point."
 
 ---
 
 ## 精读
 
-> "When his grandmother had passed, she had leaned into him to learn about his grief and walk alongside him. They had tilted together, long nights in the bookshop and on the emerald couch unquestioned, and so what if she had to learn how to talk about death? It was horrifying—they were sixteen years old and rookies with loss—but she persevered, as he deserved."
+> **原句 2:** "When his grandmother had passed, she had leaned into him to learn about his grief and walk alongside him. They had tilted together, long nights in the bookshop and on the emerald couch unquestioned, and so what if she had to learn how to talk about death? It was horrifying—they were sixteen years old and rookies with loss—but she persevered, as he deserved."
 
 **中文理解**：Noon 回忆当 Munro 的奶奶 Millie 去世时，她主动去陪伴他——她学着谈死亡，学着在他身边度过漫长的夜晚。十六岁的她是"损失的新手"，但她坚持了下来，因为她觉得他"值得"。这段回忆揭示了两人关系的深层结构：**她是照顾者，他是需要被照顾的人**——但反过来，当她的父亲去世时，他没有能力同样地照顾她。
 
@@ -29,7 +29,7 @@
 
 ---
 
-> "Munro had his boys. Noon did not. Munro, it turned out, had not learned to talk about death."
+> **原句 3:** "Munro had his boys. Noon did not. Munro, it turned out, had not learned to talk about death."
 
 **中文理解**：Munro 有他的朋友们，Noon 没有。Munro 没有学会谈论死亡——这就是问题所在。当她的父亲去世时，他用"加入曲棍球队、选另一门选修课"来回避她，而她把这理解为"他不在乎"。三年后，他带别人去 proms——这是一个致命的错误，但也是他不知道如何面对她的悲伤的证明。
 
@@ -45,7 +45,7 @@
 
 ---
 
-> "Noon looked at herself in her bedroom mirror still covered in stickers—she was more fairy tale than woman, but the thumping human shame in her chest was inarguable."
+> **原句 4:** "Noon looked at herself in her bedroom mirror still covered in stickers—she was more fairy tale than woman, but the thumping human shame in her chest was inarguable."
 
 **中文理解**：Noon 在镜子里看自己——她的房间还贴满贴纸，她像一个童话里的女孩，但胸口有一种"不可争辩的人类羞耻感"。这是她对自己的诊断：她想表现得成熟、洒脱、不在乎，但她的身体出卖了她——羞耻感是无法伪装的。
 
@@ -61,7 +61,7 @@
 
 ---
 
-> "Noon gave her mother a ring from an old portrait of a long-dead queen. She gave Esperanza and Anjali shawls and a globe that she'd found in storage beneath a consulate. For Munro, she had nothing, not having expected to see him."
+> **原句 5:** "Noon gave her mother a ring from an old portrait of a long-dead queen. She gave Esperanza and Anjali shawls and a globe that she'd found in storage beneath a consulate. For Munro, she had nothing, not having expected to see him."
 
 **中文理解**：Noon 给妈妈的礼物都有来源——戒指来自旧肖像画、披肩和地球仪来自储存室。但对于 Munro，她什么都没有准备——她没想到会见到他。这份"什么都没有"本身就是一种礼物：她不需要假装在乎，不需要准备一个"合适"的礼物来掩盖她的真实感受。
 
@@ -76,7 +76,7 @@
 
 ---
 
-> "Inside the box was her dead dad's fountain pen, with a red ribbon tied around the cap."
+> **原句 6:** "Inside the box was her dead dad's fountain pen, with a red ribbon tied around the cap."
 
 **中文理解**：Munro 给 Noon 的礼物是她父亲的钢笔——他已经保管了多年，现在还给她。红绳绑在笔帽上，是一个精心设计的细节：这既是"圣诞礼物"的仪式感，也是"我一直在守护它"的证据。对 Noon 来说，这支笔代表着她父亲的死、她和 Munro 的共同历史，以及他最不了解她的一点——她不想停留在过去。
 
@@ -92,7 +92,7 @@
 
 ---
 
-> "How could this man be everything to her? A joke and a dream and the dullest of all days, the most interesting evening she'd spent in years? The best present but the worst implications."
+> **原句 7:** "How could this man be everything to her? A joke and a dream and the dullest of all days, the most interesting evening she'd spent in years? The best present but the worst implications."
 
 **中文理解**：Noon 的内心独白：这个人怎么可以是她的"一切"？他是笑话、是梦、最无聊的日常、最有趣的夜晚。他送的礼物是"最好的礼物"，但也是"最糟糕的隐喻"——他把她父亲的遗物还给她，暗示他们共同的过去比她现在的生活更重要。
 
@@ -108,7 +108,7 @@
 
 ---
 
-> "You have to learn to stay in your own lane." / "From the queen herself, obviously unbothered and in her own lane, which happens, coincidentally, to look exactly! like! mine!"
+> **原句 8:** "You have to learn to stay in your own lane." / "From the queen herself, obviously unbothered and in her own lane, which happens, coincidentally, to look exactly! like! mine!"
 
 **中文理解**：Munro 用 Noon 在 ch12 说过的话反击她："你得学会待在自己的车道里。"Noon 说：哦，是从"女王"嘴里说出来的——显然你很自在、很有自己的车道，而且它"恰好"看起来和我的车道一模一样！这是他们关系的核心矛盾：两个人都要求对方"待在自己的领域"，但两个"领域"实际上是同一个地方。
 
@@ -124,7 +124,7 @@
 
 ---
 
-> "Munro, if we really had the same hand of cards, you would have been beside me for the past ten years. But you weren't there when my dad died until you wanted to pitch it like a murder mystery, you were—and I can't believe that this is true—late when you were supposed to be a pallbearer."
+> **原句 9:** "Munro, if we really had the same hand of cards, you would have been beside me for the past ten years. But you weren't there when my dad died until you wanted to pitch it like a murder mystery, you were—and I can't believe that this is true—late when you were supposed to be a pallbearer."
 
 **中文理解**：Noon 最终说出了她对 Munro 最深的怨恨：如果你们真的有同样的牌，你们应该在我身边十年。但你不在——你们不在那里，当我父亲去世的时候，你不在；当你要把它变成谋杀之谜的时候，你不在；你甚至在应该做扶灵人的时候迟到了。这是全章的情感爆发点，Noon 终于说出了她从来没有直接对 Munro 说过的话。
 
@@ -139,7 +139,7 @@
 
 ---
 
-> "Not all that's gone is stolen, and the fact that you don't think I know the difference between what is left and what is taken—what is for me and what is not—is exactly the point."
+> **原句 10:** "Not all that's gone is stolen, and the fact that you don't think I know the difference between what is left and what is taken—what is for me and what is not—is exactly the point."
 
 **中文理解**：Noon 说：失去的东西不一定是被人偷走的，你不知道我知道"留下的"和"被拿走的"之间的区别——这就是问题所在。这句话是 Noon 对整场争论的总结：她父亲的死不是被谁"谋杀"的，不是被谁"偷走"的——它就是发生了，而她选择向前走。Munro 用"关心"来掩盖他的侵犯，而她知道这两者之间的区别。
 

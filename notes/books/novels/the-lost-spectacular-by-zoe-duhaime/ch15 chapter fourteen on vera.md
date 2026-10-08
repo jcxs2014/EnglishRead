@@ -7,13 +7,13 @@
 3. **画中访客**：Munro 在五楼天花板作 La Tobaganne 的画作，发现 Noon 会进入画中——毯子从地板移到沙发背上，Munro 意识到她一直在暗中探望，且"她可以看到我有一支更大的军队"。
 4. **双线结局**：炭袍男人问 Millie 是否愿意"让书店留在好人手中"，暗示下一代传承；Munro 收尾于"Avery 今晚装饰圣诞树，你去吗？""你需要多久都行，只要你人在就行"——孤独者的救赎在于"有人在等"。
 
-> "You must be exhausted," he murmured, over his coffee one morning, at the ever-shifting blanket on the ceiling.
+> **原句 1:** "You must be exhausted," he murmured, over his coffee one morning, at the ever-shifting blanket on the ceiling.
 
 ---
 
 ## 精读
 
-> "It's not in my nature to interfere," he said, "but we don't live forever."
+> **原句 2:** "It's not in my nature to interfere," he said, "but we don't live forever."
 
 **中文理解**：炭袍男人（Lukøje）深夜拦住 Millie Forrest，语气克制却带着紧迫——他通常不插手世事，但这次事关生死：Millie 和他一样并非永生，"在你我需要散步之前时间不多了"。这是全书第一次正面揭示 Lukøje 的本质：**不是神，是另一个困在故事里的存在**。
 
@@ -29,7 +29,7 @@
 
 ---
 
-> "Your imagination and passion are your strengths, Munro," the therapist had said, "but reaching out more will help develop your relationships, which in turn will work to address these feelings of being adrift."
+> **原句 3:** "Your imagination and passion are your strengths, Munro," the therapist had said, "but reaching out more will help develop your relationships, which in turn will work to address these feelings of being adrift."
 
 **中文理解**：治疗师指出 Munro 的核心困境：他的想象力与热情是天赋，但它们同时也是他与社会脱节的根源——"你觉得孤独不是因为没人爱你，而是因为你用幻想替代了真实的连接"。Adrift（漂泊无根）是治疗师的诊断词，Munro 自己却觉得这个词"不太对"。
 
@@ -45,7 +45,7 @@
 
 ---
 
-> "Munro, meri jaan! What a surprise!"
+> **原句 4:** "Munro, meri jaan! What a surprise!"
 
 **中文理解**：Munro 的印度裔妈妈 Anjali 用印地语昵称"meri jaan"（我的生命）来接电话，热情到让他妈妈Élizabeth 也赶紧来听。三个妈妈争着接电话的场景温馨到令人心疼——Munro 已经很久没有这样和家庭联系了。
 
@@ -61,7 +61,7 @@
 
 ---
 
-> "You did! Noon let us stay in her little suite and everything. Of course, she wasn't there, she'd said she was off on a romantic getaway to—where was it, love?"
+> **原句 5:** "You did! Noon let us stay in her little suite and everything. Of course, she wasn't there, she'd said she was off on a romantic getaway to—where was it, love?"
 
 **中文理解**：妈妈们兴奋地讲述在 Oxford 住在 Noon 小套房的经历——Noon 居然真的有一个套房！而且她不在，去了"浪漫之旅"。Munro 一直以为 Noon 是靠谎言维系与家人的距离，结果发现她真的在 Oxford 安顿了下来。
 
@@ -77,7 +77,7 @@
 
 ---
 
-> "He had taken to experiments up on the fifth floor. The hardwood was covered in books and papers, all text up. But some of the paintings had bits taped up in front."
+> **原句 6:** "He had taken to experiments up on the fifth floor. The hardwood was covered in books and papers, all text up. But some of the paintings had bits taped up in front."
 
 **中文理解**：Munro 在博物馆五楼做"实验"——用画作追踪 Noon 的行踪。他在地上铺满书籍和论文，把画作用便签纸遮住局部，试图捕捉 Noon 进入画中时产生的变化。这是策展人把整个博物馆变成追踪工具的荒诞而心酸的努力。
 
@@ -93,7 +93,7 @@
 
 ---
 
-> "Fine—his brilliance hadn't paid off quite as he had wanted, but the pool on the floor was delightful. Her fountain pen was still under the floorboards in his office."
+> **原句 7:** "Fine—his brilliance hadn't paid off quite as he had wanted, but the pool on the floor was delightful. Her fountain pen was still under the floorboards in his office."
 
 **中文理解**：Munro 的追踪实验部分成功——他没能再在画中看到她，但"地板上的泳池"（从画中溢出的水）让他欣喜；更重要的是，他意识到 Noon 的钢笔还在他办公室的地板下面。钢笔是 Noon 留在 Munro 世界的唯一实物痕迹，也是两人关系中"谁欠谁"的隐喻。
 
@@ -109,7 +109,7 @@
 
 ---
 
-> "You must be exhausted," he murmured, over his coffee one morning, at the ever-shifting blanket on the ceiling.
+> **原句 8:** "You must be exhausted," he murmured, over his coffee one morning, at the ever-shifting blanket on the ceiling.
 
 **中文理解**：Munro 独自在办公室里，对着天花板上那块"不断移动的毯子"轻声说话。他知道她有可怕的噩梦，知道她这些年失去了太多。这个场景是全章的核心意象：**他在画中等待，她从画中探望，两个人隔着故事的两侧各自孤独**。
 

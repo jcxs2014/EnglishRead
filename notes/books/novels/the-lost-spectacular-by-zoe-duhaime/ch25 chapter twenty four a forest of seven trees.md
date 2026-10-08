@@ -16,7 +16,7 @@
 
 ## 精读
 
-> "To Esperanza Forrest, my sweet wayfarer, my historian! Happy birthday!"
+> **原句 1:** "To Esperanza Forrest, my sweet wayfarer, my historian! Happy birthday!"
 
 - **中文理解**：Anjali 站在椅子上为妻子 Esperanza 祝酒，称她为"我甜蜜的旅人，我的历史学家"——这两个称呼点明了 Esperanza 作为一个环游世界、记录历史的人文学者的身份。
 - **句子结构**：呼语 + 同位语 + 感叹句，是典型的祝酒词结构。
@@ -26,7 +26,7 @@
 
 ---
 
-> "Munro removed the pie from the warm oven, spooned perfect vanilla ice cream into crystal dishes given as a wedding gift, and served the table."
+> **原句 2:** "Munro removed the pie from the warm oven, spooned perfect vanilla ice cream into crystal dishes given as a wedding gift, and served the table."
 
 - **中文理解**：Munro 从温热的烤箱里取出馅饼，用结婚时收到的水晶碗盛入完美的香草冰淇淋，端上桌。这是 Esperanza 生日宴的高潮时刻。
 - **句子结构**：三个并列的 `spooned... into... and served` 动作，构成流水线式的宴会准备画面。
@@ -36,7 +36,7 @@
 
 ---
 
-> "The sky had deepened to plum, with Orion clear and nothing else."
+> **原句 3:** "The sky had deepened to plum, with Orion clear and nothing else."
 
 - **中文理解**：天空变成了深 plum 色，猎户座清晰可见，别无他物。这句话以天文的简洁暗示夜色的纯净——暴风雨前的宁静。
 - **句子结构**：`The sky had deepened to plum, with Orion clear and nothing else`——名词短语 + 独立主格结构，文学感极强。
@@ -46,7 +46,7 @@
 
 ---
 
-> "The trees were much, much older, and their branches moved slowly and without wind; baubles floated beneath branches without string, toy canoes flew through the air, paper planes flew calmly around him like songbirds."
+> **原句 4:** "The trees were much, much older, and their branches moved slowly and without wind; baubles floated beneath branches without string, toy canoes flew through the air, paper planes flew calmly around him like songbirds."
 
 - **中文理解**：树木比 Munro 以往见过的要古老得多，树枝在无风的情况下缓慢移动；装饰球漂浮在树枝下却没有绳子牵引，玩具独木舟在空中飞舞，纸飞机像歌鸟一样平静地绕着他飞。
 - **句子结构**：`The trees were... and their branches moved...; baubles floated... toy canoes flew... paper planes flew...`——分号连接多个独立意象，构成奇幻森林的群像。
@@ -56,7 +56,7 @@
 
 ---
 
-> "Her thumb moved, just barely, on the latch. The sound of an umbrella opening sounded like thunder in the sky."
+> **原句 5:** "Her thumb moved, just barely, on the latch. The sound of an umbrella opening sounded like thunder in the sky."
 
 - **中文理解**：那个老女人轻轻按下锁扣，伞打开的声音在天空中响起如雷。这是 Lukøje（或他的代理人）启动 Spectacular 的时刻。
 - **句子结构**：`Her thumb moved... on the latch`（简短）+ `The sound... sounded like thunder`（比喻），两个短句制造节奏感。
@@ -66,7 +66,7 @@
 
 ---
 
-> "One hundred umbrellas flew open. All at once, there was a circus tent where before there had been sky."
+> **原句 6:** "One hundred umbrellas flew open. All at once, there was a circus tent where before there had been sky."
 
 - **中文理解**：一百把伞同时撑开，瞬间之间，原本是天空的地方出现了一个马戏团帐篷。The Spectacular 的奇观正式登场。
 - **句子结构**：`One hundred umbrellas flew open`（简短有力）+ `All at once, there was a circus tent`（倒装句，强调突然性）。
@@ -76,7 +76,7 @@
 
 ---
 
-> "Munro put his palms around the neck of a beech tree so as not to collapse."
+> **原句 7:** "Munro put his palms around the neck of a beech tree so as not to collapse."
 
 - **中文理解**：Munro 用双手环住一棵山毛榉树的树干，以免自己倒下。这是他面对 The Spectacular 奇观时的身体反应——震惊到需要扶住树木才能站稳。
 - **句子结构**：`Munro put his palms around... so as not to collapse`——目的从句表示结果。

@@ -64,23 +64,23 @@ Munro 因被拒绝而更加执着，在治疗师的帮助下试图理清对 Noon
 |---|---|---|
 | distracted | 分心的；心不在焉的 | I'm feeling really **distracted** |
 | therapist | 心理治疗师 | his new **therapist**'s office was in a brownstone |
-| ambush | 伏击；埋伏 | he was struck in the head from behind |
-| vulnerability | 脆弱；易伤性 | his **nervous** mind conjured false images |
+| nervous | 紧张的；焦虑的 | his **nervous** mind conjured false images |
+| autumn | 秋天；秋季 | **autumn** leaves had fallen |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| frustrated | 受挫的；沮丧的 | he was tired, he was annoyed, he was **isolated** |
+| isolated | 孤立的；孤独的 | he was tired, he was annoyed, he was **isolated** |
 | obsessive | 执着的；强迫性的 | an emotionally unavailable, irascible, **obsessive** curator |
-| hounding | 追踪；纠缠 | leagues of personal **responsibilities** that fell by the wayside |
+| responsibilities | 责任；义务 | personal **responsibilities** from grocery shopping to press tours |
 | bruised | 淤伤的；受创的 | the **bruised** and battered |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| friend | 朋友 | Noam invited **Munro** out for dinner |
+| behind | 在…后面 | behind the **library** on Twelfth Street |
 | therapy | 治疗 | **After** therapy, Munro had a wonderful day |
-| library | 图书馆 | he finally got to the **library** |
+| library | 图书馆 | munro finally got to the **library** |
 | bookshop | 书店 | she was running his **bookshop** |

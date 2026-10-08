@@ -7,7 +7,7 @@
 3. **梦境入侵**：Lukøje 给了 Noon 一个关于海底的梦，但这一次，梦中的人物是 Munro——他坐在 Nemo 的位置上，弹着钢琴。Noon 意识到她已经无法把 Munro 从她的世界中驱逐出去了。
 4. **身份的边界**：Noon 问自己：我是在一个故事里，还是在现实里？当梦中的人物开始像 Munro 一样行动时，她的世界和 Munro 的世界之间的界限已经模糊了。
 
-> "Children's books will be nicer," he said quietly. "You're playful. I've long lost that. I like what you've been doing."
+> **原句 1:** "Children's books will be nicer," he said quietly. "You're playful. I've long lost that. I like what you've been doing."
 
 ## 一句话总结
 
@@ -17,7 +17,7 @@ Noon 发现 Spectacular 正在被 Munro 的存在感同化——颜色、发型�
 
 ## 精读
 
-> "You seem happy after your holiday," Lukøje observed. "Better adjusted."
+> **原句 2:** "You seem happy after your holiday," Lukøje observed. "Better adjusted."
 
 **中文理解**：Lukøje 在平安夜演出后观察 Noon 的状态。她的反应是 grin——因为她刚刚把 Munro 的整个公寓微缩进了 Brambly Hedge 插画里。Munro 没有找到他们，已经好几周了。但这个观察本身是讽刺的：Lukøje 以为她的快乐来自圣诞假期，实际上来自她对 Munro 的报复。
 
@@ -32,7 +32,7 @@ Noon 发现 Spectacular 正在被 Munro 的存在感同化——颜色、发型�
 
 ---
 
-> "Before, she could have sworn it was moss green. And then one day, she took a second look and found that it wasn't quite as she remembered. The boat was emerald."
+> **原句 3:** "Before, she could have sworn it was moss green. And then one day, she took a second look and found that it wasn't quite as she remembered. The boat was emerald."
 
 **中文理解**：Noon 发现 Pirate Ship 的颜色变了——从 moss green 变成了 emerald（祖母绿）。这是 Munro 的颜色，是 La Tobaganne 的颜色。Noon 意识到：她的世界正在被 Munro 的存在感渗透——不是 Munro 本人进入了 Spectacular，而是他的"痕迹"开始出现在她的世界里。
 
@@ -47,7 +47,7 @@ Noon 发现 Spectacular 正在被 Munro 的存在感同化——颜色、发型�
 
 ---
 
-> "I think about it all the time."
+> **原句 4:** "I think about it all the time."
 
 **中文理解**：Noon 在演出后无意中听到客人们的对话——他们在讨论"在 Twelfth Street 尽头的那个地方"，讨论 Munro 的 profile，说"我一直想着这件事"。这些客人是在说 Spectacular——而 Noon 意识到 Munro 已经发布了关于他们的信息，她的藏身之处正在被发现。
 
@@ -62,7 +62,7 @@ Noon 发现 Spectacular 正在被 Munro 的存在感同化——颜色、发型�
 
 ---
 
-> "Florean," she called before she pushed open the door.
+> **原句 5:** "Florean," she called before she pushed open the door.
 
 **中文理解**：Noon 去找 Florean 了解情况，发现他和 Apollonie 在一起——他们正在用 Punjabi（旁遮普语）交谈，而 Noon 确定他们之前不会说这门语言。Spectacular 的成员们正在被 Munro 的世界同化——不仅仅是颜色和发型，连语言都开始渗透了。
 
@@ -77,7 +77,7 @@ Noon 发现 Spectacular 正在被 Munro 的存在感同化——颜色、发型�
 
 ---
 
-> "Once, after a show, in the dead of night in a city much like New York, except there were earthquakes, she crept into the woodshed."
+> **原句 6:** "Once, after a show, in the dead of night in a city much like New York, except there were earthquakes, she crept into the woodshed."
 
 **中文理解**：Noon 采取了她自己的"惩罚行动"：她潜入了 Munro 的纹身所在地——Walden 的木屋。她知道这些纹身对应着被破坏的插画，所以她进入了 Thoreau 的世界，在那里放火——她把木屋烧了。这是她对 Munro 破坏她的世界的报复。
 
@@ -92,7 +92,7 @@ Noon 发现 Spectacular 正在被 Munro 的存在感同化——颜色、发型�
 
 ---
 
-> "Worlds away, Munro paused his tour. He tugged on his collar a little and mopped his brow."
+> **原句 7:** "Worlds away, Munro paused his tour. He tugged on his collar a little and mopped his brow."
 
 **中文理解**：当 Noon 在 Walden 的木屋里放火时，Munro 正在博物馆里给学校孩子们做导览。他突然停下来，拉了拉衣领，擦了擦额头——他感觉到了什么。不，不是物理上的疼痛，而是一种"印记者"的共鸣——他的纹身在被破坏时，他感受到了某种东西。
 

@@ -79,9 +79,9 @@ Noon 正式加入 Spectacular，在 Odette 的引导下穿过一本 Coleridge �
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| apprentice | 学徒；新手 | Lukøje, irascible at the best of times when made to consider the great veil, knocked back three whiskeys |
-| eternity | 永恒；不朽 | **Centuries** were behind the way he looked |
-| mentor | 导师；师傅 | the lord of dust and his **apprentice** were one day |
+| apprentice | 学徒；新手 | the lord of dust and his **apprentice** were one day |
+| centuries | 世纪；漫长岁月 | **Centuries** were behind the way he looked |
+| dust | 尘埃；尘土 | the lord of **dust** and his apprentice |
 | pirate ship | 海盗船 | a grand **pirate ship** bobbed |
 
 ### ⭐⭐ 进阶
@@ -90,7 +90,7 @@ Noon 正式加入 Spectacular，在 Odette 的引导下穿过一本 Coleridge �
 |---|---|---|
 | percolate | 渗透；（文字在书中）浮现 | the book **percolated**, the merriment died |
 | troupe | 马戏团；演出团 | Lukøje called to a **troupe** of feasting storybook characters |
-| threshold | 门槛；临界点 | we wear these marks to **pass through** |
+| marks | 标记；伤痕 | we wear these **marks** to pass through |
 | necklace | 项链 | In his hand he had a **necklace** |
 
 ### ⭐ 基础

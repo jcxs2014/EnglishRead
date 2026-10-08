@@ -40,7 +40,7 @@ THIS TOO SHALL PASS
 
 ---
 
-> "Where the hell have you been? The draft is done and Wordsworth is over."
+> **原句 1:** "Where the hell have you been? The draft is done and Wordsworth is over."
 
 **中文理解**：这是"炭袍男人"（Man in the charcoal cloak）的第一句台词。他责备 Noon"去了哪里"，并提到"草稿已完成，维庸时代结束"——暗示他来自一个仍在写作中的故事世界，时间线与 Noon 的现实不同步；Wordsworth 在这里是书中某个角色的名字（与历史诗人无关）。
 
@@ -88,7 +88,7 @@ THIS TOO SHALL PASS
 
 ---
 
-> "This too shall pass," she murmured, and shrugged off her jacket.
+> **原句 2:** "This too shall pass," she murmured, and shrugged off her jacket.
 
 **中文理解**：Noon 用这句古老谚语自我安抚，回应本章标题"This Too Shall Pass"（这也会过去）——但结合她的元小说自觉，这句话有了第二层含义：故事也会过去，角色也会消亡，而她似乎正在对抗这一命运。
 
@@ -135,8 +135,8 @@ THIS TOO SHALL PASS
 | cast a shadow | 投射阴影 | the toboggan nailed above the door **cast shadows** that looked like dentures |
 | client | 顾客；客户 | a **client** would think they needed glasses |
 | a quiet life | 平静的生活 | It was a **quiet life**, but she was making it work |
-| to go to hell | 完蛋；一切化为乌有 | the households **drifted** |
-| sit out a storm | 挨过风暴 | Money meant a break in the rain for the bookshop |
+| drifted | 漂流；漂泊 | the households **drifted** |
+| break | 间歇；喘息 | Money meant a **break** in the rain for the bookshop |
 
 ---
 

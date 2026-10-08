@@ -16,7 +16,7 @@ Munro 在终章公寓见到了曾祖母 Odette，得知家族秘史，随后在 
 
 ## 精读
 
-> "It was exactly as it had been when he had been a child, except that it was more, in every capacity, fictionalized."
+> **原句 1:** "It was exactly as it had been when he had been a child, except that it was more, in every capacity, fictionalized."
 
 - **中文理解**：这完全像他童年时的样子，只是它在各个方面都更加"小说化"了。Munro 发现的公寓是 Millie 公寓的"更真实"版本——它更鲜明、更完美，但也更虚假。
 - **句子结构**：`It was exactly as it had been... except that it was more, in every capacity, fictionalized`——比较结构，前半句强调相似，后半句以 `except that` 引出关键差异。
@@ -26,7 +26,7 @@ Munro 在终章公寓见到了曾祖母 Odette，得知家族秘史，随后在 
 
 ---
 
-> "There were swan feathers in her white hair."
+> **原句 2:** "There were swan feathers in her white hair."
 
 - **中文理解**：她白色的头发里有天鹅羽毛。Odette 出现在 Millie 的公寓里，而她头发里的天鹅羽毛暗示她与天鹅（Noon 的象征）以及 Spectacular 的关联。
 - **句子结构**：简短陈述句，名词短语 + 介词短语。
@@ -36,7 +36,7 @@ Munro 在终章公寓见到了曾祖母 Odette，得知家族秘史，随后在 
 
 ---
 
-> "I'm one hundred and fifty years old? More or less. Don't concern yourself about it. Lukøje comes from whenever the Sandman myth originated."
+> **原句 3:** "I'm one hundred and fifty years old? More or less. Don't concern yourself about it. Lukøje comes from whenever the Sandman myth originated."
 
 - **中文理解**："我大约一百五十岁。别担心这个。Lukøje 来自睡魔神话起源的任何时代。"Odette 向 Munro 揭示了她的真实年龄，并暗示 Lukøje 是一个源自西方神话的古老存在。
 - **句子结构**：直接引语 + 叙述解释。
@@ -46,7 +46,7 @@ Munro 在终章公寓见到了曾祖母 Odette，得知家族秘史，随后在 
 
 ---
 
-> "Nothing belongs to anyone, and most of these things don't exist in the technical sense anyways."
+> **原句 4:** "Nothing belongs to anyone, and most of these things don't exist in the technical sense anyways."
 
 - **中文理解**："没有任何东西属于任何人，而且大多数这些东西在技术层面上根本不存在。"Odette 对 Munro 说出这句关于所有权与存在的话，呼应了全书的"失落"主题。
 - **句子结构**：两个并列独立句，第一句否定的哲学陈述，第二句更进一步的否定。
@@ -56,7 +56,7 @@ Munro 在终章公寓见到了曾祖母 Odette，得知家族秘史，随后在 
 
 ---
 
-> "On her ring finger was a golden swan ring, its graceful head resting on its outstretched wing."
+> **原句 5:** "On her ring finger was a golden swan ring, its graceful head resting on its outstretched wing."
 
 - **中文理解**：在她的无名指上是一枚金色的天鹅戒指，它优雅的头部栖息在它张开的翅膀上。这是 Odette 戴着的天鹅戒指——与 Munro 给 Noon 的那枚相同，暗示这些戒指的来源。
 - **句子结构**：`On her ring finger was a golden swan ring, its graceful head resting on its outstretched wing`——倒装句，同位语用独立主格结构。
@@ -66,7 +66,7 @@ Munro 在终章公寓见到了曾祖母 Odette，得知家族秘史，随后在 
 
 ---
 
-> "Where do you think she got it from?" Odette asked, easily."
+> **原句 6:** "Where do you think she got it from?" Odette asked, easily."
 
 - **中文理解**："你觉得她从哪里得到它的？"Odette 轻松地问道。这是 Odette 揭示天鹅戒指真正来源的时刻——它最初属于 Odette，而不是 Munro 以为的"成年礼物"。
 - **句子结构**：`"Where do you think she got it from?" Odette asked, easily.`——直接引语 + 叙述句。
@@ -76,7 +76,7 @@ Munro 在终章公寓见到了曾祖母 Odette，得知家族秘史，随后在 
 
 ---
 
-> "I've thought about you every day of my whole life, and it is the biggest regret of my life that I wasn't with you or near you or even kind to you when Arial died."
+> **原句 7:** "I've thought about you every day of my whole life, and it is the biggest regret of my life that I wasn't with you or near you or even kind to you when Arial died."
 
 - **中文理解**："我一生中每一天都在想你，而我最大的遗憾是在 Arial 去世时我没有陪在你身边，甚至没有对你好一点。"Munro 在与 Noon 的最终舞蹈中坦白了他的愧疚。
 - **句子结构**：直接引语，两句话，第一句是坦白，第二句是道歉。
@@ -86,7 +86,7 @@ Munro 在终章公寓见到了曾祖母 Odette，得知家族秘史，随后在 
 
 ---
 
-> "I can keep going. Let go and we'll see how far you can follow."
+> **原句 8:** "I can keep going. Let go and we'll see how far you can follow."
 
 - **中文理解**："我可以继续走。放手吧，我们看看你能跟多远。"Noon 对 Munro 的回应——她愿意给他一个机会，但他们需要以不同的方式前进。
 - **句子结构**：直接引语，两个独立句子。
@@ -96,7 +96,7 @@ Munro 在终章公寓见到了曾祖母 Odette，得知家族秘史，随后在 
 
 ---
 
-> "Do you have a minute to come with me?" The sentence could be unfolded many ways and then re-creased to form a wholly different paper airplane."
+> **原句 9:** "Do you have a minute to come with me?" The sentence could be unfolded many ways and then re-creased to form a wholly different paper airplane."
 
 - **中文理解**："你有空跟我来吗？"这句话可以被拆解成许多种方式，然后重新折叠成一架完全不同的纸飞机。这是 Noon 的邀请，也是全章的最后一个重要对话。
 - **句子结构**：`"Do you have a minute to come with me?" The sentence could be unfolded many ways...`——直接引语 + 叙述者的评论。
@@ -106,7 +106,7 @@ Munro 在终章公寓见到了曾祖母 Odette，得知家族秘史，随后在 
 
 ---
 
-> "The photograph was from a funeral—the funeral."
+> **原句 10:** "The photograph was from a funeral—the funeral."
 
 - **中文理解**：照片来自一场葬礼——那场葬礼。这是 Munro 在展览中看到的 Arial 的葬礼照片——Noon 从展览中拿走了它，现在还给他。
 - **句子结构**：`The photograph was from a funeral—the funeral`——名词短语 + 同位语破折号重复。

@@ -98,4 +98,4 @@ Noon 作为 Spectacular 新成员在故事间穿梭——从《爱丽丝漫游�
 | coffee | 咖啡 | was drinking her **coffee** in the crow's nest |
 | story | 故事 | could spend the night in her favourite children's **stories** |
 | night | 夜晚 | door unlocked in the **wee** hours |
-| father | 父亲 | the **father** she had lost |
+| father | 父亲 | her **father's daughter** |

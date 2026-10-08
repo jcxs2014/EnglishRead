@@ -27,7 +27,7 @@ Noon 因失父遗物（钢笔）被迫追踪炭袍男人，在 Spectacular 入�
 
 ## 本章引语
 
-> "So nice of you to come," he replied. He had the scratchy voice of some handsome myth that had pulled himself out of the shadowlands.
+> **原句 1:** "So nice of you to come," he replied. He had the scratchy voice of some handsome myth that had pulled himself out of the shadowlands.
 
 **中文理解**："炭袍男人"的出场描写——他的声音是"某个从阴影中挣脱出来的英俊神话"的嗓音。既是外貌描写，也是元小说暗示：他是一个"从故事里走出来的人物"，声音里带着故事的痕迹。
 
@@ -44,7 +44,7 @@ Noon 因失父遗物（钢笔）被迫追踪炭袍男人，在 Spectacular 入�
 
 ---
 
-> "Well, I think ignoring our letters is a little childish."
+> **原句 2:** "Well, I think ignoring our letters is a little childish."
 
 **中文理解**：炭袍男人对 Noon 的回应——她之前一直无视那些灰色信封（Spectacular 的邀请函），而他认为这是"幼稚"的行为。这里隐含一个叙事契约：不接受故事邀请，就等于拒绝成长。
 
@@ -60,7 +60,7 @@ Noon 因失父遗物（钢笔）被迫追踪炭袍男人，在 Spectacular 入�
 
 ---
 
-> "There was just one little thing that paused the chin-up brigade. She looked at the toboggan above the door, her narrative intuition nagging."
+> **原句 3:** "There was just one little thing that paused the chin-up brigade. She looked at the toboggan above the door, her narrative intuition nagging."
 
 **中文理解**：Noon 的"元小说直觉"再次出现——她之所以决定接受邀请，不是因为乐观，而是因为她的"叙事直觉"告诉她：这是第三幕的设定时刻（a third-chapter setup）。她的决定是基于对故事结构的判断，而非情感冲动。
 
@@ -77,7 +77,7 @@ Noon 因失父遗物（钢笔）被迫追踪炭袍男人，在 Spectacular 入�
 
 ---
 
-> "You know, I think taking the pen was a little heavy-handed."
+> **原句 4:** "You know, I think taking the pen was a little heavy-handed."
 
 **中文理解**：Noon 在 Spectacular 内部与炭袍男人对峙时，主动提起了"偷笔"事件。她的语气是调侃式的，但潜台词是：我知道这是你干的。它开启了一个关于"故事设计者与角色"之间权力关系的讨论。
 
@@ -99,7 +99,7 @@ Noon 因失父遗物（钢笔）被迫追踪炭袍男人，在 Spectacular 入�
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| narrative intuition | 叙事直觉；角色对故事结构的本能感知 | her **narrative intuition** was nagging |
+| narrative intuition | 叙事直觉 | her **narrative intuition** nagging |
 | chin-up brigade | 强撑乐观的一群人（反讽） | one little thing that paused the **chin-up brigade** |
 | impermanence | 无常；短暂易逝 | Noon, queen of **impermanence** |
 | bibliophile | 爱书人；书虫 | a child **bibliophile** |
@@ -117,8 +117,8 @@ Noon 因失父遗物（钢笔）被迫追踪炭袍男人，在 Spectacular 入�
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| pen | 笔 | the blue Waterman **pen** |
+| pen | 笔 | the **pen** was gone |
 | storm | 暴风雨；风雨交加 | The **storm** blazed on |
-| bookstore | 书店 | sitting on the floor of her **bookshop** |
-| library | 图书馆 | the back of the **library** |
+| umbrella | 雨伞 | stole an **umbrella** from the pages |
+| library | 图书馆 | the **library** was from the good old days |
 | story | 故事 | you couldn't be a child bibliophile and not know a **story** |

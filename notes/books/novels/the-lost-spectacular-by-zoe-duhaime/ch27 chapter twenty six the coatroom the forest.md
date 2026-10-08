@@ -16,7 +16,7 @@ Munro 在 Spectacular 的衣帽间用毛衣换取一枚石榴石后进入七树�
 
 ## 精读
 
-> "He took a deep breath. There was no option to slip into the world without going around the tent."
+> **原句 1:** "He took a deep breath. There was no option to slip into the world without going around the tent."
 
 - **中文理解**：Munro 意识到没有捷径——他必须绕过帐篷才能进入这个世界，没有其他办法可以偷偷溜进去。
 - **句子结构**：简短陈述句，`There was no option to... without...` 表示唯一路径。
@@ -26,7 +26,7 @@ Munro 在 Spectacular 的衣帽间用毛衣换取一枚石榴石后进入七树�
 
 ---
 
-> "The last carriage read in enormous gold lettering 'The Coatroom.'"
+> **原句 2:** "The last carriage read in enormous gold lettering 'The Coatroom.'"
 
 - **中文理解**：最后一节车厢用巨大的金色字母写着"衣帽间"。这是进入 Spectacular 的最后一道关卡——衣帽间即入口。
 - **句子结构**：`The last carriage read...` —— 拟人化的车厢"读出"文字，是文学中常见的将物体人格化的手法。
@@ -36,7 +36,7 @@ Munro 在 Spectacular 的衣帽间用毛衣换取一枚石榴石后进入七树�
 
 ---
 
-> "The inside of the coatroom was as you might expect, although it did not seem like it was inside a moving train."
+> **原句 3:** "The inside of the coatroom was as you might expect, although it did not seem like it was inside a moving train."
 
 - **中文理解**：衣帽间内部和你想象的一样，然而它似乎并不在一列行驶的火车里。这句话揭示了 Spectacular 的空间逻辑——它不是物理上连续的，而是碎片拼接的。
 - **句子结构**：`The inside... was as you might expect, although it did not seem like...` —— 让步从句引出意外转折。
@@ -46,7 +46,7 @@ Munro 在 Spectacular 的衣帽间用毛衣换取一枚石榴石后进入七树�
 
 ---
 
-> "Many of the swinging coats were from the backside of the other wardrobes in The Lion, The Witch and the Wardrobe (1950) by C. S. Lewis."
+> **原句 4:** "Many of the swinging coats were from the backside of the other wardrobes in The Lion, The Witch and the Wardrobe (1950) by C. S. Lewis."
 
 - **中文理解**：许多摇摆的外套来自刘易斯《纳尼亚传奇》中其他衣柜的背面。这句话暗示衣帽间里的物品来自著名儿童文学中的虚构衣柜——"另一个世界"的入口。
 - **句子结构**：简单陈述句，以括号注明年份，是学术性引用风格。
@@ -56,7 +56,7 @@ Munro 在 Spectacular 的衣帽间用毛衣换取一枚石榴石后进入七树�
 
 ---
 
-> "Zorca Krinc snapped her dentures."
+> **原句 5:** "Zorca Krinc snapped her dentures."
 
 - **中文理解**：Zorca Krinc 打了个响指（字面：她让她的人造假牙发出咔嗒声）——这个细节暗示她的年龄是伪装，同时显示她在这个世界的权威地位。
 - **句子结构**：简短动作描写，名词 + 动词，极简。
@@ -66,7 +66,7 @@ Munro 在 Spectacular 的衣帽间用毛衣换取一枚石榴石后进入七树�
 
 ---
 
-> "You be careful with that. It's handmade."
+> **原句 6:** "You be careful with that. It's handmade."
 
 - **中文理解**：Munro 脱下毛衣后，Zorca 说："小心点，那是手工织的。"这是 Munro 的母亲 Anjali 给他织的毛衣，他在 Spectacular 中的身份交换中交出了它。
 - **句子结构**：`You be careful with that. It's handmade.` —— 两句简短陈述，第一句命令式，第二句解释。
@@ -76,7 +76,7 @@ Munro 在 Spectacular 的衣帽间用毛衣换取一枚石榴石后进入七树�
 
 ---
 
-> "This door opened out of the trunk of a tree, a black eastern walnut."
+> **原句 7:** "This door opened out of the trunk of a tree, a black eastern walnut."
 
 - **中文理解**：这扇门开在一棵黑胡桃树的树干上。Munro 意识到他根本不在火车车厢里，而是在一棵树的内部。
 - **句子结构**：`This door opened out of the trunk of a tree, a black eastern walnut` —— 地点状语 + 同位语。
@@ -86,7 +86,7 @@ Munro 在 Spectacular 的衣帽间用毛衣换取一枚石榴石后进入七树�
 
 ---
 
-> "The willow, queen of them all, was the farthest away."
+> **原句 8:** "The willow, queen of them all, was the farthest away."
 
 - **中文理解**：垂柳，群树之后，是所有树中最遥远的一棵。垂柳是七树森林的中心，也是 Noon 记忆的核心所在地。
 - **句子结构**：`The willow, queen of them all, was the farthest away` —— 同位语 + 系表结构。
@@ -96,7 +96,7 @@ Munro 在 Spectacular 的衣帽间用毛衣换取一枚石榴石后进入七树�
 
 ---
 
-> "Her fountain pen, of course, was hanging by a thread, spinning like it was calibrating true north."
+> **原句 9:** "Her fountain pen, of course, was hanging by a thread, spinning like it was calibrating true north."
 
 - **中文理解**：她的钢笔当然悬在一根线上，像是在校准真正的北方。这是 Noon 父亲的钢笔——Arial Bonaventure 的遗物，挂在垂柳上等待被找到。
 - **句子结构**：`Her fountain pen... was hanging by a thread, spinning like it was calibrating true north` —— 主语 + 分词短语 + 比喻。
@@ -106,7 +106,7 @@ Munro 在 Spectacular 的衣帽间用毛衣换取一枚石榴石后进入七树�
 
 ---
 
-> "And behind him, so too did the man in the charcoal cloak."
+> **原句 10:** "And behind him, so too did the man in the charcoal cloak."
 
 - **中文理解**：他身后，炭色斗篷的男人也同样跟了上来。这是全章的最后一幕——Lukøje 一直跟踪 Munro，而 Munro 正在进入 Noon 的记忆世界。
 - **句子结构**：`And behind him, so too did the man in the charcoal cloak` —— 倒装句，强调"紧随其后"。

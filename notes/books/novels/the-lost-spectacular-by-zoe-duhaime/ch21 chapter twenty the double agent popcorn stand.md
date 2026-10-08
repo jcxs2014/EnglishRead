@@ -11,13 +11,13 @@ Munro 的线人 Zorca 潜入 Spectacular 担任爆米花摊主，却在与 Odett
 3. **零食车的政治**：Noon 的零食车计划是让 Munro 的人逐渐熟悉 Spectacular，然后"沉入背叛"。但 Zorca 不甘只做零食摊员工，她想要钥匙、想要权力。
 4. **灰姑娘的契约**：Zorca 用她对 Lukøje 的了解（"你偷了我妈妈的伞"）换取了一份"五星级待遇"——她在 Spectacular 获得了她想要的东西，而 Lukøje 的秘密仍然安全。
 
-> "If I don't have five-star treatment by next week, you fucking weasel, you think you have it rough with Forrest? There's no retirement I won't ruin for you."
+> **原句 1:** "If I don't have five-star treatment by next week, you fucking weasel, you think you have it rough with Forrest? There's no retirement I won't ruin for you."
 
 ---
 
 ## 精读
 
-> "Zorca Krinc was impeccable at the helm of the popcorn caravan."
+> **原句 2:** "Zorca Krinc was impeccable at the helm of the popcorn caravan."
 
 **中文理解**：Zorca 在爆米花摊前表现"无懈可击"——但这个"impeccable"是反讽：她其实是个双重间谍，一边拿着 Munro 的钱，一边已经被 Noon 的条件收买。她的"无懈可击"只是表面上的职业态度。
 
@@ -33,7 +33,7 @@ Munro 的线人 Zorca 潜入 Spectacular 担任爆米花摊主，却在与 Odett
 
 ---
 
-> "They walked home at the end of their shifts, more or less in the right city, only occasionally being shooed out of a janitor's closet (via the true door of an open book, for subtlety)."
+> **原句 3:** "They walked home at the end of their shifts, more or less in the right city, only occasionally being shooed out of a janitor's closet (via the true door of an open book, for subtlety)."
 
 **中文理解**：Munro 的人在下夜班后走回家，大致在"对的城市"，偶尔被从清洁工的橱柜里赶出来（通过一本打开的书的真正门，为了低调）。这是 Duhaime 对 Munro 追踪团队的讽刺性描写：他们以为自己找到了 Spectacular，实际上只是在各个城市之间徘徊，被各个故事的边界弹来弹去。
 
@@ -49,7 +49,7 @@ Munro 的线人 Zorca 潜入 Spectacular 担任爆米花摊主，却在与 Odett
 
 ---
 
-> "Odette did not like people who didn't wonder. Zorca did not like people who were too fancy."
+> **原句 4:** "Odette did not like people who didn't wonder. Zorca did not like people who were too fancy."
 
 **中文理解**：Odette 和 Zorca 之间的根本差异：Odette 不喜欢"不好奇的人"（没有想象力的人），Zorca 不喜欢"太花哨的人"（太有文化的人）。这是两种世界观的冲突：Spectacular 的成员（Odette）相信奇迹，而 service 出身的 Zorca 只相信信息和控制。
 
@@ -65,7 +65,7 @@ Munro 的线人 Zorca 潜入 Spectacular 担任爆米花摊主，却在与 Odett
 
 ---
 
-> "Zorca took her sweet time and hobbled back. It seemed to Odette that there was no curse like growing older."
+> **原句 5:** "Zorca took her sweet time and hobbled back. It seemed to Odette that there was no curse like growing older."
 
 **中文理解**：Zorca 故意拖延时间慢慢回来——她在故意激怒 Odette。而 Odette 的想法是"没有比变老更诅咒的事了"。两个人都在对抗时间的流逝，但方式完全不同：Zorca 用固执来抵抗，Odette 用优雅来接受。
 
@@ -81,7 +81,7 @@ Munro 的线人 Zorca 潜入 Spectacular 担任爆米花摊主，却在与 Odett
 
 ---
 
-> "Munro was handsome and relaxed, and the interviewer thought he was divine."
+> **原句 6:** "Munro was handsome and relaxed, and the interviewer thought he was divine."
 
 **中文理解**：Munro 在电视上接受采访，表现得"英俊而放松"，主持人觉得他是"神一样的"。但就在采访进行到一半时，他从夹克里掏出了一群蝴蝶——直接从《英国蝴蝶》一书中飞出来的。这是他对 Noon 的"反击"：他不能用正常的方式找到 Spectacular，就用魔法来回应魔法。
 

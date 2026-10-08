@@ -16,7 +16,7 @@ Noon 在 press gala 的展览中看到父亲的书店被精心复原，在回忆
 
 ## 精读
 
-> "She didn't sparkle; there was a touch of her mother's arthritis, and nothing in her body moved as it had."
+> **原句 1:** "She didn't sparkle; there was a touch of her mother's arthritis, and nothing in her body moved as it had."
 
 - **中文理解**：她不再闪耀了；她身上有了她母亲的关节炎痕迹，身体的每个部位都不再像以前那样灵活。这句话描写了 Noon 在经历了与 Munro 的风波后的状态——她不再是那个年轻无畏的"女英雄"，而是带着生活痕迹的普通人。
 - **句子结构**：`She didn't sparkle; there was... and nothing in her body moved as it had` —— 分号连接两个并列陈述，暗示 Noon 的衰老与改变。
@@ -26,7 +26,7 @@ Noon 在 press gala 的展览中看到父亲的书店被精心复原，在回忆
 
 ---
 
-> "The twist was the indelible landscape of Arial Bonaventure. Her dad's bookshop, disassembled and auctioned off, had been quilted together."
+> **原句 2:** "The twist was the indelible landscape of Arial Bonaventure. Her dad's bookshop, disassembled and auctioned off, had been quilted together."
 
 - **中文理解**：出乎意料的是，这里是 Arial Bonaventure 不可磨灭的风景。她父亲的书店，被拆解并拍卖后，被重新拼凑在一起。
 - **句子结构**：`The twist was... Her dad's bookshop... had been quilted together` —— 名词短语 + 同位语 + 过去分词短语。
@@ -36,7 +36,7 @@ Noon 在 press gala 的展览中看到父亲的书店被精心复原，在回忆
 
 ---
 
-> "Every detail was an homage to her father, or a careful expression of the way she had loved him."
+> **原句 3:** "Every detail was an homage to her father, or a careful expression of the way she had loved him."
 
 - **中文理解**：每一个细节都是对她父亲的致敬，或是她爱他这种方式的精心表达。这句话总结了 Munro 重建 La Tobaganne 的意图——不是为了准确地重建，而是为了表达爱。
 - **句子结构**：`Every detail was an homage... or a careful expression of the way she had loved him` —— 并列系表结构。
@@ -46,7 +46,7 @@ Noon 在 press gala 的展览中看到父亲的书店被精心复原，在回忆
 
 ---
 
-> "He made me promise, you know, that I'd still write about the shop when it fell to his daughter."
+> **原句 4:** "He made me promise, you know, that I'd still write about the shop when it fell to his daughter."
 
 - **中文理解**："他让我答应他，当书店传到他女儿手上时，我仍然会写关于它的文章。"一位老评论家回忆起 Arial 的遗言。
 - **句子结构**：直接引语，回忆过去的事件。
@@ -56,7 +56,7 @@ Noon 在 press gala 的展览中看到父亲的书店被精心复原，在回忆
 
 ---
 
-> "This exhibit is temporary. At the end of the month, all proceeds from the exhibit will go to cancer research. This too shall pass."
+> **原句 5:** "This exhibit is temporary. At the end of the month, all proceeds from the exhibit will go to cancer research. This too shall pass."
 
 - **中文理解**：展览是临时的。月底，所有收益将用于癌症研究。这也是会过去的。这三句话是展览最后一块标牌的文字，以"This too shall pass"结尾，呼应了本书的书名主题和 Munro 的展览名称"Errata"。
 - **句子结构**：三个独立句子，最后一句是谚语。
@@ -66,7 +66,7 @@ Noon 在 press gala 的展览中看到父亲的书店被精心复原，在回忆
 
 ---
 
-> "Noam was the light of the party, being swept away for profiles on his last hurrah."
+> **原句 6:** "Noam was the light of the party, being swept away for profiles on his last hurrah."
 
 - **中文理解**：Noam 是派对的光芒，在最后一次盛会中被打动接受采访。这是 Noam 作为策展人的最后之夜——他正在接受各家媒体的采访，庆祝他的职业生涯。
 - **句子结构**：`Noam was the light of the party, being swept away for profiles on his last hurrah` —— 系表结构 + 分词短语。
@@ -76,7 +76,7 @@ Noon 在 press gala 的展览中看到父亲的书店被精心复原，在回忆
 
 ---
 
-> "You need something, you tell me," Apollonie said. Noon had a fantastic course of tears on her face.
+> **原句 7:** "You need something, you tell me," Apollonie said. Noon had a fantastic course of tears on her face.
 
 - **中文理解**："你需要什么，告诉我。"Apollonie 说。Noon 的脸上流下了一串串眼泪。Apollonie 是 Noam 的舞伴，她在这个情感时刻出现在 Noon 身边。
 - **句子结构**：`"You need something, you tell me," Apollonie said. Noon had a fantastic course of tears on her face.` —— 直接引语 + 叙述句。
