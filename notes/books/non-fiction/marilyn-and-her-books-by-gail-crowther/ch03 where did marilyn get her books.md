@@ -155,6 +155,7 @@ source_text: "text/ch03_chap3.txt"
 | intimate glimpse | 亲密的一瞥；贴近内情的窥看 | So, it is no surprise that in the case of Marilyn Monroe, her hundreds of books can give us an intimate glimpse into her life. |
 | favorite downtime | 最爱的消遣时段 | Driving from the Fox studio lot, her favorite downtime activity is to browse Pickwick Book Shop. |
 | memories | 记忆 | In this sense, books act as a store for memories, and in some cases, forgetting. |
+| allegory | 寓言 | the play was seen as a three-part allegory about humanity |
 
 ## 一句话总结
 

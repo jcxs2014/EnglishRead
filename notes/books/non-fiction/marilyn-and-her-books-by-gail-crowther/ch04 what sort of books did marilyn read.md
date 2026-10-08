@@ -158,7 +158,7 @@ source_text: "text/ch04_chap4.txt"
 | puerile | 幼稚的；孩子气的 | perhaps even as a middle-aged man he was making some sort of puerile joke |
 | hushed → hush | 寂静；鸦雀无声 | When she finished there was a hush, and she stared into space. |
 | Freudian slip | 弗洛伊德式口误 | eager to point out to people who flubbed their lines that they had made a Freudian slip |
-| allegory | 寓言 | the play was seen as a three-part allegory about humanity |
+
 
 ### ⭐ 基础
 
