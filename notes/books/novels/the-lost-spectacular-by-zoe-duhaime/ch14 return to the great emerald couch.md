@@ -23,7 +23,7 @@ source_text: ch14_chapter_thirteen_return_to_the_great_eme.txt
 
 ## 本章引语
 
-> "We all must decide how close we want stories to look like our lives," she said, both agreeing and not agreeing.
+> **原句 1:** "We all must decide how close we want stories to look like our lives," she said, both agreeing and not agreeing.
 
 **中文理解**：Millie 在讨论 Munro 提出的"umbrella in stories"理论时说了这句话——这是全章最核心的陈述，也是本书的主题之一：我们必须决定"故事"和"生活"之间应该有多近。Millie 自己是两者之间的"中间人"（她既是书店老板，也是 Spectacular 的成员），但她暗示这个距离需要被主动选择。
 
@@ -39,7 +39,7 @@ source_text: ch14_chapter_thirteen_return_to_the_great_eme.txt
 
 ---
 
-> "Everything you love will leave you."
+> **原句 2:** "Everything you love will leave you."
 
 **中文理解**：这是 Millie 去世后叙述者给出的陈述——也是全章的情感终点。Millie 留给 Munro 的不是书 shop（她已经没有书 shop 了），而是一句关于"失去"的普遍真理。天鹅戒指是这个真理的物理象征。
 
@@ -62,8 +62,8 @@ source_text: ch14_chapter_thirteen_return_to_the_great_eme.txt
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | inheritance | 遗产；传承 | a great many things in her will |
-| grandmother | 祖母；外祖母 | **Grandma** Forrest had given him a lantern |
-| memoir | 回忆录；纪念 | he had the **memoir** of childhood |
+| grandmother | 祖母；外祖母 | as **Grandma** Millie finished knitting |
+| curator | 策展人；馆长 | the bones of a **curator** |
 | legacy | 遗产；传承 | his **legacy** explode in front of him |
 
 ### ⭐⭐ 进阶
@@ -71,15 +71,15 @@ source_text: ch14_chapter_thirteen_return_to_the_great_eme.txt
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | emerald | 翡翠绿；翠绿色 | the **emerald** sweater |
-| umbrella | 雨伞 | books with **umbrellas** |
-| retire | 退休 | it's time I **retire** |
-| swan | 天鹅 | a great **swan** ring |
+| umbrella | 雨伞 | He would like books with **umbrellas** |
+| retire | 退休 | time I **retire** |
+| swan | 天鹅 | her golden **swan** ring |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | bookshop | 书店 | Arial has agreed to buy La Tobaganne |
-| story | 故事 | how much I love you and whether you trust me |
-| bed | 床 | it was time for **bed** |
-| night | 夜晚 | the rain kept falling through the **night** |
+| story | 故事 | whether or not you trust me |
+| bed | 床 | it's your **bedtime** |
+| night | 夜晚 | a wicked rainstorm **outside** |
