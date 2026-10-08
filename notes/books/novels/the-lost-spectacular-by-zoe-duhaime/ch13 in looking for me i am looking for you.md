@@ -23,7 +23,7 @@ Munro 发现 Noon 就是 Spectacular 后，开始系统性地在书中追踪她�
 
 ## 本章引语
 
-> "He felt a little crazy, being led like this by a woman who didn't even see his work, but he knew she would soon enough understand that what looked like her looked like him as well, and well, fair was fair."
+> **原句 1:** "He felt a little crazy, being led like this by a woman who didn't even see his work, but he knew she would soon enough understand that what looked like her looked like him as well, and well, fair was fair."
 
 **中文理解**：Munro 在追踪 Noon 的过程中意识到：他之所以能找到她，是因为他们的品味完全一致——"她喜欢的东西，他也喜欢"。他把这视为一种"公平"（fair was fair）：既然他们有相同的阅读历史，他就有权利找到她。
 
@@ -39,7 +39,7 @@ Munro 发现 Noon 就是 Spectacular 后，开始系统性地在书中追踪她�
 
 ---
 
-> "He felt like he was making a shadow box of pinned butterflies, with all of those texts spread open."
+> **原句 2:** "He felt like he was making a shadow box of pinned butterflies, with all of those texts spread open."
 
 **中文理解**：Munro 把他的追踪方法比喻为"制作一个蝴蝶标本盒"——他把所有书本打开，就像把蝴蝶钉在纸板上一样。这个意象既是美的（博物馆式的整理），也是令人不安的（把活物变成死标本）。
 
@@ -61,25 +61,25 @@ Munro 发现 Noon 就是 Spectacular 后，开始系统性地在书中追踪她�
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| bibliography | 书目；参考书目 | he put together a loose **bibliography** |
-| obsession | 执念；困扰 | his **obsession** with the Spectacular |
-| curator | 策展人；馆长 | he was a **curator** who knew it better than anyone |
+| bibliography | 书目；参考书目 | He put together a loose **bibliography** |
+| obsession | 执念；困扰 | The **search** was illuminated by nostalgia |
+| curator | 策展人；馆长 | No one knew a museum like its **curator** |
 | shadow box | 影盒；展示盒 | making a **shadow box** of pinned butterflies |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| tattoo | 纹身 | he had **tattooed** on his now densely worked arm |
+| tattoo | 纹身 | he got **tattooed** on his now densely worked arm |
 | fern | 蕨类植物 | his ex-wife had started dating a minor celebrity |
-| bazaar | 集市；义卖 | the fifth floor became a **bazaar** |
+| bazaar | 集市；义卖 | The fifth floor became a **bazaar** |
 | annotate | 注解；注释 | **annotate** their hiding spots |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| book | 书 | a **book** where he'd seen the man in the charcoal cloak |
+| book | 书 | Every **book** where he'd seen the man |
 | museum | 博物馆 | his **museum** exhibit |
 | coffee | 咖啡 | his **coffee** cup was no longer there |
-| painting | 画 | she jumped back and ran into the **painting** |
+| painting | 画 | There was a **painting** of a café |
