@@ -73,6 +73,6 @@ title: "The Love on the Brain by Ali Hazelwood"
 | be at the right place at the right time | 在正确的时间出现在正确的地点 | Trevor is a mediocre scientist who was lucky enough to be **at the right place** when tons of neuro positions and funding opportunities were created. |
 | impatient | 不耐烦的 | "Whatever," he says **impatiently**. "Are they ready?" |
 
-## 本章一句话总结
+## 一句话总结
 
 杏仁核驱动的愤怒在 BLINK 第二周爆发：Trevor 打来电话催进度，对科学细节漠然的态度让 Bee 清醒地意识到自己有多渴望离开 NIH，而 BLINK 成了她逃离这种羞辱职场的唯一出口。

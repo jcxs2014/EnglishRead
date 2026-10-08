@@ -96,6 +96,6 @@ title: "The Love on the Brain by Ali Hazelwood"
 | gasp | 喘息 | "That would be amazing," I **gasp**. |
 | out of breath | 上气不接下气 | When I reach him, I'm pitifully **out of breath**. "Levi, wait up!" |
 
-## 本章一句话总结
+## 一句话总结
 
 Bee 在醒来后试图用科学解释（迷走神经/杏仁核劫持）说服自己被 Levi 救起这件事"没什么大不了"，却在与他的对话中不断失态——话说到一半、声音发颤、无法直视他的眼睛——她的理性大脑与失控的身体之间产生了巨大裂痕，揭示 ROME romance 中"口是心非"的核心机制。

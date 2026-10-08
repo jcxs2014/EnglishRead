@@ -138,7 +138,7 @@ title: "The Love on the Brain by Ali Hazelwood"
 | blow off steam | 发泄情绪 | If they want to **blow off some steam**, they can buy a gym membership or play third-person-shooter video games. |
 | be due to | 预期/应 | It's Friday, and I'm not **due to** check in until Monday, but I'm brimming with nervous energy. |
 
-## 本章一句话总结
+## 一句话总结
 
 Bee 飞赴 NASA 约翰逊航天中心，在推特上与神秘网友 @Shmacademics（实为 Levi）聊天，抵达后被宇航员同事 Guy 带着参观，却在独自探索时遭遇设备倒塌危机，被六年末见的 Levi 救下——迷走神经反应让她瞬间失去意识，两人的身体接触重新点燃了被封存六年的张力。
 

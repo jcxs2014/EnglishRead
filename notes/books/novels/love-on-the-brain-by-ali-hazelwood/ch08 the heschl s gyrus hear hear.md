@@ -104,6 +104,6 @@ title: "The Love on the Brain by Ali Hazelwood"
 | sulk | 生闷气 | Dr. Königswasser, on the other hand, is looking around like a lost calf, grateful that there’s no one around to see her **sulking** outside the director of research’s office. |
 | oxymoron | 矛盾修饰法 | Levi does have a knack for bringing **oxymorons** to life — "calmly exasperated" is one. |
 
-## 本章一句话总结
+## 一句话总结
 
 Bee 在走廊里偷听到 Levi 和 Boris 的对话，Levi 评价她"不专业"且"无助于科学进步"，Boris 同意；她同时意识到 Levi 声音里那组无法调和的矛盾——冷静与恼火并存——这与她对 Levi 的认知形成了新的张力维度。

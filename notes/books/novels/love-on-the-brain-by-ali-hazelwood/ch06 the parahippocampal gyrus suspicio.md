@@ -93,6 +93,6 @@ title: "The Love on the Brain by Ali Hazelwood"
 | lift an eyebrow | 挑眉（表示怀疑） | She sounds so uncharacteristically panicked, I **lift an eyebrow**. |
 | reverie | 白日梦/幻想 | I have my first vivid **reverie** on my third day at NASA, when I imagine offing him with poison. |
 
-## 本章一句话总结
+## 一句话总结
 
 BLINK 第二天，Bee 发现自己的实验室门被锁，同事 Rocio 对另一个研究者 Kaylee 表现出反常的敌意；随后 Bee 注意到 Levi 办公室门上贴着警戒带，开始怀疑有人在试图隐藏什么，Parahippocampal gyrus 区域驱动的"怀疑"机制全面启动。

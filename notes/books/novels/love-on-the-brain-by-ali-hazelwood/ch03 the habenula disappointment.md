@@ -142,6 +142,6 @@ title: "The Love on the Brain by Ali Hazelwood"
 | set sb. back | 让……破费 | I wasn't going to get my security deposit back anyway. |
 | pull sb. aside | 把……拉到一边 | Levi **pulled him aside** and told him that he could do much better than me. |
 
-## 本章一句话总结
+## 一句话总结
 
 神经科学博士 Bee Königswasser 在获得 NASA 神经工程项目 BLINK 联合负责人身份后，发现自己的劲敌——当年在 Grad School 公开羞辱她的 Levi Ward——将与自己共事，两人从针锋相对到最终相爱的 ROME romance 正式拉开序幕。
