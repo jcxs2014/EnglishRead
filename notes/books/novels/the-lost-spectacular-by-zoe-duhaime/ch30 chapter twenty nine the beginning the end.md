@@ -36,7 +36,7 @@ Munro 在终章公寓见到了曾祖母 Odette，得知家族秘史，随后在 
 
 ---
 
-> **原句 3:** "I'm one hundred and fifty years old? More or less. Don't concern yourself about it. Lukøje comes from whenever the Sandman myth originated."
+> **原句 3:** "You're  one hundred and fifty years old ?" "More or less. Don't concern yourself about it."
 
 - **中文理解**："我大约一百五十岁。别担心这个。Lukøje 来自睡魔神话起源的任何时代。"Odette 向 Munro 揭示了她的真实年龄，并暗示 Lukøje 是一个源自西方神话的古老存在。
 - **句子结构**：直接引语 + 叙述解释。
@@ -96,7 +96,7 @@ Munro 在终章公寓见到了曾祖母 Odette，得知家族秘史，随后在 
 
 ---
 
-> **原句 9:** "Do you have a minute to come with me?" The sentence could be unfolded many ways and then re-creased to form a wholly different paper airplane."
+> **原句 9:** "Do you have a minute to come with me?"
 
 - **中文理解**："你有空跟我来吗？"这句话可以被拆解成许多种方式，然后重新折叠成一架完全不同的纸飞机。这是 Noon 的邀请，也是全章的最后一个重要对话。
 - **句子结构**：`"Do you have a minute to come with me?" The sentence could be unfolded many ways...`——直接引语 + 叙述者的评论。

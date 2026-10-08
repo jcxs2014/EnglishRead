@@ -36,7 +36,7 @@ Munro 穿越 Spectacular 的三层奇观后在天文馆与 Lukøje 最终相遇�
 
 ---
 
-> **原句 3:** "Hardly anyone here is happy, but everyone here has a good time. Stories need endings."
+> **原句 3:** "Hardly anyone here is happy," he said simply, "but everyone here has a good time."
 
 - **中文理解**："这里几乎没有人是快乐的，但每个人都在尽情享乐。故事需要结局。"Fabian 总结了他在 Spectacular 中的观察——快乐与娱乐不同，而故事必须结束才能有意义。
 - **句子结构**：两个独立句子，第一句对比，第二句陈述事实。

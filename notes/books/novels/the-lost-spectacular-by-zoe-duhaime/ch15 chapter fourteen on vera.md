@@ -93,7 +93,7 @@
 
 ---
 
-> **原句 7:** "Fine—his brilliance hadn't paid off quite as he had wanted, but the pool on the floor was delightful. Her fountain pen was still under the floorboards in his office."
+> **原句 7:** "Fine—his brilliance hadn't paid off quite as he'd wanted, but the pool on the floor was delightful."
 
 **中文理解**：Munro 的追踪实验部分成功——他没能再在画中看到她，但"地板上的泳池"（从画中溢出的水）让他欣喜；更重要的是，他意识到 Noon 的钢笔还在他办公室的地板下面。钢笔是 Noon 留在 Munro 世界的唯一实物痕迹，也是两人关系中"谁欠谁"的隐喻。
 

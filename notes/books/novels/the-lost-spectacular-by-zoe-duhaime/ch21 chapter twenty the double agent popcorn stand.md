@@ -81,7 +81,7 @@ Munro 的线人 Zorca 潜入 Spectacular 担任爆米花摊主，却在与 Odett
 
 ---
 
-> **原句 6:** "Munro was handsome and relaxed, and the interviewer thought he was divine."
+> **原句 6:** "He was handsome and relaxed, and the interviewer thought he was divine."
 
 **中文理解**：Munro 在电视上接受采访，表现得"英俊而放松"，主持人觉得他是"神一样的"。但就在采访进行到一半时，他从夹克里掏出了一群蝴蝶——直接从《英国蝴蝶》一书中飞出来的。这是他对 Noon 的"反击"：他不能用正常的方式找到 Spectacular，就用魔法来回应魔法。
 

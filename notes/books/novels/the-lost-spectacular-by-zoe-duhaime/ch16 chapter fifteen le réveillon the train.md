@@ -7,7 +7,7 @@
 3. **重逢的温柔与刺痛**：他们互相刺探——Munro 问她有没有朋友、有没有约会对象；Noon 反击说他在偷听。两个戴着眼镜的中年人像少年一样笨拙，但那种熟悉的张力从未消失。
 4. **站台上的重逢**：三家妈妈在 Station Dunyazad 等候，看到两个孩子从同一节车厢走出来——她们无法欢呼，只能震惊地看着。Munro 悄悄把一枚硬币塞给 Noon，让她在喷泉许愿——这是 Arial 多年前教他们的老规矩。
 
-> **原句 1:** "It's our first date in years," he interrupted. "That's not true, we just did some archery."
+> **原句 1:** "It's our first date in years."
 
 ---
 

@@ -48,7 +48,7 @@ Munro 在治疗师的审视和 Noon 的魔法报复之间挣扎——他的公�
 
 ---
 
-> **原句 4:** "His house was nicely arranged inside an illustrated tree trunk."
+> **原句 4:** "Munro's house was nicely arranged inside an illustrated tree trunk."
 
 **中文理解**：Munro 的公寓现在在一棵树的树干内部——所有的 belongings 都被缩小进了 Brambly Hedge 的插画世界里。老鼠大小的衣服挂在迷你衣架上，奶奶的脚凳上摆着柠檬水托盘和微型书籍。这是 Noon 的报复：她不能伤害 Munro，就破坏他的物理空间。
 

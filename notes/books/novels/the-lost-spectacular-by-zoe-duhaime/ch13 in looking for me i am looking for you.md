@@ -39,7 +39,7 @@ Munro 发现 Noon 就是 Spectacular 后，开始系统性地在书中追踪她�
 
 ---
 
-> **原句 2:** "He felt like he was making a shadow box of pinned butterflies, with all of those texts spread open."
+> **原句 2:** "We all must decide how close we want stories to look like our lives,"
 
 **中文理解**：Munro 把他的追踪方法比喻为"制作一个蝴蝶标本盒"——他把所有书本打开，就像把蝴蝶钉在纸板上一样。这个意象既是美的（博物馆式的整理），也是令人不安的（把活物变成死标本）。
 
