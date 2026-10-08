@@ -23,7 +23,7 @@ Noon 决定关闭 La Tobaganne，却意外发现最忠实的顾客 Odette 竟是
 
 ## 本章引语
 
-> "Courage," Élizabeth whispered. "How can I help you?"
+> **原句 1:** "Courage," Élizabeth whispered. "How can I help you?"
 
 **中文理解**：Noon 告诉母亲她要关闭书店后，母亲的回答只有一个词——"勇气"。这是 Bonaventure 家族处理损失的方式：不是劝阻，而是问"我能怎么帮你"。简洁的四个字包含了：共情、实用主义、以及对女儿决定的尊重。
 
@@ -39,7 +39,7 @@ Noon 决定关闭 La Tobaganne，却意外发现最忠实的顾客 Odette 竟是
 
 ---
 
-> "Darling girl, I was the first to drive the great toboggan. I built the desk you're leaning on, and my great-grandson has my nose and temperament."
+> **原句 2:** "Darling girl, I was the first to drive the great toboggan. I built the desk you're leaning on, and my great-grandson has my nose and temperament."
 
 **中文理解**：Odette 的真相揭晓——她不是"老顾客"，而是 La Tobaganne 的创始人（第一代策展人），比 Millie Forrest 更早。她活了"great-grandson"所暗示的漫长时间。这句话里的每一件家具、每一个细节，都是她建立的帝国的一部分。
 
@@ -55,7 +55,7 @@ Noon 决定关闭 La Tobaganne，却意外发现最忠实的顾客 Odette 竟是
 
 ---
 
-> "Think of the common thread between all good books."
+> **原句 3:** "Think of the common thread between all good books."
 
 **中文理解**：Odette 在解释 Spectacular 的哲学——所有好书都有一个共同点：它们把我们带到别处（"They take us elsewhere"）。这是本书的核心命题：书是通往其他世界的入口，而 Spectacular 的工作就是维护这些入口。
 
@@ -78,24 +78,24 @@ Noon 决定关闭 La Tobaganne，却意外发现最忠实的顾客 Odette 竟是
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | legacy | 遗产；传承 | this shop has a **legacy**? |
-| timeless | 不老的；超越时间的 | she was—well—**timeless** |
+| timeless | 不老的；超越时间的 | Odette was—well—**timeless** |
 | toboggan | 雪橇；本作中特指 Spectacular 的运作隐语 | I was the first to drive the great **toboggan** |
-| bibliophile | 爱书人 | a creature of **restaurants**, a creature of **bibliophiles** |
+| bibliophile | 爱书人 | a **shepherd** of the bibliophilic flock |
 
 ### ⭐⭐ 进阶
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
-| surrender | 投降；放弃；顺从 | she knew a thing or two about **surrender** |
-| eternity | 永恒；不朽 | the fire had turned galactic; sparks hovered like **eternity** |
-| tribe | 部落；社群 | the **tribe** of feasting storybook characters |
-| apprentice | 学徒；新手 | **apprentice** of surrender |
+| surrender | 投降；放弃；顺从 | the smash hit of La Chasse-Galerie and knew a thing or two about **surrender** |
+| eternity | 永恒；不朽 | her most loyal customer was, in all likelihood, **eternal** |
+| tribe | 部落；社群 | our **crowd** hardly expands |
+| apprentice | 学徒；新手 | an **accountant** (her dad's friend) |
 
 ### ⭐ 基础
 
 | 词条 | 释义 | 例句 |
 |---|---|---|
 | mother | 母亲 | her **mom**, a creature of restaurants |
-| bookshop | 书店 | she would gladly run her dead dad's **bookshop** |
+| bookshop | 书店 | losing the **bookshop** |
 | grief | 悲伤；悲痛 | a river of **grief** |
 | courage | 勇气 | "**Courage**," Élizabeth whispered |
