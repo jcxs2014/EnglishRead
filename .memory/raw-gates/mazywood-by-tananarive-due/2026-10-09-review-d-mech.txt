@@ -1,0 +1,53 @@
+### d 步机械层：换实现的三个脚本 + 数字断言 + 中文式章号回查
+
+=== check_analysis_indep（d 步分析层行内英文第二实现）===
+      未命中词: ['tananarive']
+  ch32 personally invited.md:2  Mazywood by Tananarive Due
+      未命中词: ['tananarive']
+  ch33 not a bear.md:2  Mazywood by Tananarive Due
+      未命中词: ['tananarive']
+  ch34 no one was there.md:2  Mazywood by Tananarive Due
+      未命中词: ['tananarive']
+  ch35 knew you were alive.md:2  Mazywood by Tananarive Due
+      未命中词: ['tananarive']
+  ch36 look out for him.md:2  Mazywood by Tananarive Due
+      未命中词: ['tananarive']
+  ch37 beast brings water.md:2  Mazywood by Tananarive Due
+      未命中词: ['tananarive']
+  ch38 the bone room.md:2  Mazywood by Tananarive Due
+      未命中词: ['tananarive']
+  ch39 pile of newspapers.md:2  Mazywood by Tananarive Due
+      未命中词: ['tananarive']
+  ch40 new best friend.md:2  Mazywood by Tananarive Due
+      未命中词: ['tananarive']
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）5 条 —— 只报不判红，须人判：
+  ch06 discovered your grandmother.md:2  The Name Hidden in Three Letters
+  ch13 bear creek homecoming.md:2  Homecoming at Bear Creek Lodge
+  ch18 the thing under the snow.md:2  The Thing Under the Snow
+  ch30 wish scout back.md:2  Back to the Wishing Pool
+  ch32 personally invited.md:2  A Private Tour of Bear Creek Lodge
+
+=== check_xref_indep（跨章引用回查第二实现）===
+=== chNN 引用 232 处：英文证据报警 0 处 ／ 中文式待人判 210 处 ／ 🔶 同章省略号拼接（提示，不判红）0 处 ===
+
+=== audit_numbers（数字断言）===
+  ⚪ ch22 jump for joy.md:14  「二十九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch27 tree well.md:36  「十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch27 tree well.md:40  「十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch27 tree well.md:42  「十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch28 miracle tree.md:90  「12 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch29 the waving hand.md:14  「六十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch29 the waving hand.md:96  「六十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch29 the waving hand.md:140  「六十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch30 wish scout back.md:4  「三十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch30 wish scout back.md:14  「三十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch30 wish scout back.md:14  「十五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch30 wish scout back.md:14  「五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch30 wish scout back.md:30  「三十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch30 wish scout back.md:36  「五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch30 wish scout back.md:40  「五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch30 wish scout back.md:140  「三十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch32 personally invited.md:64  「七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch32 personally invited.md:72  「七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch32 personally invited.md:76  「七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch32 personally invited.md:76  「七岁」年龄/百分比类，文本层推不出真值，只列出待人核

@@ -1,0 +1,41 @@
+### b 步：逐章归属（单文件模式，只传 --out-dir；带 --book-dir 会假绿，见 §5.1）
+ch01 the wishing pool.md: 8/8 in ch01 text
+ch02 the first screen test.md: 7/7 in ch02 text
+ch03 the velvet curtain.md: 7/7 in ch03 text
+ch04 we love you mazy.md: 7/7 in ch04 text
+ch05 scout worst day.md: 7/7 in ch05 text
+ch06 discovered your grandmother.md: 7/7 in ch06 text
+ch07 a calm eye.md: 7/7 in ch07 text
+ch08 evil genie.md: 7/7 in ch08 text
+ch09 under the snow.md: 7/7 in ch09 text
+ch10 running in white.md: 6/6 in ch10 text
+ch11 left behind.md: 7/7 in ch11 text
+ch12 the white jeep.md: 7/7 in ch12 text
+ch13 bear creek homecoming.md: 7/7 in ch13 text
+ch14 a frozen nightmare.md: 7/7 in ch14 text
+ch15 the punishment room.md: 7/7 in ch15 text
+ch16 the meat graveyard.md: 7/7 in ch16 text
+ch17 the cure all along.md: 7/7 in ch17 text
+ch18 the thing under the snow.md: 7/7 in ch18 text
+ch19 the severed hand.md: 6/6 in ch19 text
+ch20 hunting on their own.md: 6/6 in ch20 text
+ch21 the gates of hell.md: 7/7 in ch21 text
+ch22 jump for joy.md: 7/7 in ch22 text
+ch23 closed eyes.md: 7/7 in ch23 text
+ch24 play it again.md: 7/7 in ch24 text
+ch25 get your ass up.md: 6/6 in ch25 text
+ch26 no happy ending.md: 6/6 in ch26 text
+ch27 tree well.md: 6/6 in ch27 text
+ch28 miracle tree.md: 7/7 in ch28 text
+ch29 the waving hand.md: 7/7 in ch29 text
+ch30 wish scout back.md: 7/7 in ch30 text
+ch31 bad boy scout.md: 7/7 in ch31 text
+ch32 personally invited.md: 7/7 in ch32 text
+ch33 not a bear.md: 7/7 in ch33 text
+ch34 no one was there.md: 7/7 in ch34 text
+ch35 knew you were alive.md: 7/7 in ch35 text
+ch36 look out for him.md: 7/7 in ch36 text
+ch37 beast brings water.md: 7/7 in ch37 text
+ch38 the bone room.md: 7/7 in ch38 text
+ch39 pile of newspapers.md: 7/7 in ch39 text
+ch40 new best friend.md: 7/7 in ch40 text

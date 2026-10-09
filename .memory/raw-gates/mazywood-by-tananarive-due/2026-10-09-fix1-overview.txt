@@ -1,0 +1,21 @@
+## 2026-10-09 整改批①总览层 gate 原件
+epub=notes/books/mystery-thriller/mazywood-by-tananarive-due/library/Mazywood (Tananarive Due) (z-library.sk, 1lib.sk, z-lib.sk).epub
+### verify_overview_quotes
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 30/30 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 54/54 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+### check_overview_full
+=== 总览整串核查（mazywood-by-tananarive-due）===
+  参照集：text/ 逐章（40 章） ｜ 总览文件 3 个
+  A 整串：命中 30 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 14
+  B 章节标签：对 30 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 37 ｜ 不符 0（**只报不判红**）｜ 跳过 37
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+### corruption_scan
+
+=== 编辑损坏扫描（mazywood-by-tananarive-due）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
