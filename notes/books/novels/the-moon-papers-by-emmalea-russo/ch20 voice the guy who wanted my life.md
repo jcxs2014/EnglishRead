@@ -10,7 +10,7 @@ POV: "未具名的第一人称说话者（第一人称限知，口述体，地�
 
 - **时空坐标**：Part Two 开篇；说话者在妻子"做成"的这栋房子里对答（My wife made this house what it is），具体城市与时间本章未给出，只交代母亲 any minute 即到
 - **叙事视角**：第一人称口述证言，节题为众声体标签；说话者姓名本章未出现，对面有一个发问者在场（只以 What was your question? 一句露出，从未开口说话）
-- **核心事件**：一个男人反复指认 this guy wanted my life；妻子生前强烈厌恶此人、连他站过的位置都不肯站，原因从未说出；他只在一次出差中见过此人一面，对方那时已婚、在做 headhunter；妻子如今已"不在了"（gone），她遭遇了什么本章未交代；末句报出本章唯一姓名——母亲 Vesta 马上到
+- **核心事件**：一个未具名的说话者反复指认 this guy wanted my life；其妻生前强烈厌恶此人、连他站过的位置都不肯站，原因从未说出；他只在一次出差中见过此人一面，对方那时已婚、在做 headhunter；其妻如今已"不在了"（gone），她遭遇了什么本章未交代；末句报出本章唯一姓名——母亲 Vesta 马上到
 - **关键人物**：无名说话者（有妻子、妻子已 gone，本章未给其名）、this guy（被指认对象，全章无名字）、说话者的妻子（全章无名字）、Vesta（本章唯一出现的名字，被说话者称为母亲）
 - **章节主题**：嫉妒与阶级作为一桩没有物证的悬案——证词绕着"妻子为何恨他"这个空缺的中心打转，猜想到底（Maybe because…）也不给答案
 - **上章回顾**：ch19（East）收尾于 Vesta 的视角：原型月亮从窗台边升起、发出漏气般的 hiss，受惊的兔子跳走，Dean 白牙一笑拿起电话又挂断；Part One 至此结束，Part Two 从本章起改为一段段无署名的口述
@@ -33,11 +33,11 @@ POV: "未具名的第一人称说话者（第一人称限知，口述体，地�
 
 > **原句 2:** I saw him once on a business trip. Out in the middle of the country. He was married by then, working as a headhunter.
 
-**中文理解**：他讲证据：只见过这个人一次，是在一趟出差路上；在中部大平原那种前不着村的地方；等真见到时，对方已经结了婚，职业是猎头——替别人挖人才的中介。
+**中文理解**：说话者给出的全部证据：只见过这个人一次，是在一趟出差路上；在中部大平原那种前不着村的地方；等真见到时，对方已经结了婚，职业是猎头——替别人挖人才的中介。
 
 **关键词**：business trip、headhunter、by then
 
-**为什么这样写**：整段证词里唯一一处"在场证据"就是这一面，而且被三句越写越短的话推远：Out in the middle of the country. 是无主语的碎片句，记忆像地平线一样模糊；He was married by then 的 by then 又给这面加了时差——他要指控的人，他其实从没赶上过。headhunter 这个职业随后被他自己注解（You know what a headhunter is?），一个"想要别人人生"的人以替别人挑人生为业，说话者的不安由此落在一件具体的事上，但他不点破，只把这一行身份摆出来。
+**为什么这样写**：整段证词里唯一一处"在场证据"就是这一面，而且被三句越写越短的话推远：Out in the middle of the country. 是无主语的碎片句，记忆像地平线一样模糊；He was married by then 的 by then 又给这面加了时差——他要指控的人，他其实从没赶上过。headhunter 这个职业随后被他自己注解（You know what a headhunter is?），一个"想要别人人生"的人以替别人挑人生为业，不安由此落在一件具体的事上，却不点破，只把这一行身份摆出来。
 
 **读者视角提示**：紧接着的三连问把采访情境完全显形——Been thinking of that guy lately. Why am I talking about him? What was your question? 口述的"我"随时会被问句拽回当下。
 
@@ -51,7 +51,7 @@ POV: "未具名的第一人称说话者（第一人称限知，口述体，地�
 
 **为什么这样写**：前面刚用三句夸房子（My wife made this house what it is. / She’s all over it. / Look around.），但 But now she’s gone 用最轻的动词宣布缺席——房子越具体，gone 越空洞。Do you know what happened to her? 让被访谈的人反过来提问，紧接着 It seems to get everyone. 把一个人的死抬成一桩普遍疫病，seems 又把断言缩回可疑。收尾是硬性位移：先 any minute 的时间压力，再把全章唯一的名字放进最后四个词——证词结束于一次即将发生的到场，而说话者与 Vesta 的亲属关系（my mother）也在同一口气里交出。
 
-**读者视角提示**：名字 Vesta 在上一章（ch19）也出现过，但本章没有交代两处是否同一人；只按本章读——说话者有一位即将到的母亲、一位已 gone 的妻子、一个他从未真正见过的对手。
+**读者视角提示**：名字 Vesta 在上一章（ch19）也出现过，但本章没有交代两处是否同一人；只按本章读——说话者有一位即将到的母亲、一位已 gone 的妻子、一个只在出差中见过一面的对手。
 
 ---
 
