@@ -23,9 +23,9 @@ POV: "未署名的第一人称口述者（有一个女儿；本章的谈话对�
 
 **中文理解**：嗯，夏天还没过完。我相信她还活着，在休息。有几样东西在我脑子里很突出。比方说，我整个夏天都有这样一种感觉：她一直在绕圈、绕圈，就像一只动物绕圈、绕圈，直到它找到一个可以躺下睡觉的地点。空间本身并没有任何改变。可是那只动物在决定躺下之前所做的事，改变了这个空间，从某种意义上说。
 
-**关键词**：believe、circling、a spot to sleep、in a sense
+**关键词**：summer、not over、believe、alive
 
-**为什么这样写**：起头的 Well 是接话的语气，说明他在回应一个在场的问题——本章唯一的一处反问（Don’t you think?，在原句 2 里）同样证明有人在听，而本章不给对方名字。I believe she is alive and resting 用 believe 不用 know，而 resting 一个词就把后面的动物比喻提前放进了句子。Some things stand out in my mind 是他对自己这份证词的定性：这是记忆的清单，不是目击的报告。随后那个比喻是本章真正的思想：she was circling and circling the way an animal circles and circles——同一个词根在一句里出现四次，重复本身就是绕圈的动作被写进句子；Nothing changes about the space itself 先把客观条件按住，But the movement... changes the space 才给出他的论点：决定去向的不是地点，是躺下之前的那些圈。最后 in a sense 三个词，他自己把这句论断的分量又卸掉一层——本节群的证人在给出重要判断时几乎都要自我削薄一次。
+**为什么这样写**：起头的 Well 是接话的语气，说明他在回应一个在场的问题——本章唯一的一处反问（Don’t you think?，在原句 2 里）同样证明有人在听，而本章不给对方名字。I believe she is alive and resting 用 believe 不用 know，而 resting 一个词就把后面的动物比喻提前放进了句子。Some things stand out in my mind 是他对自己这份证词的定性：这是记忆的清单，不是目击的报告。随后那个比喻是本章真正的思想：she was circling and circling the way an animal circles and circles——同一个词根在一句里出现四次，重复本身就是绕圈的动作被写进句子；Nothing changes about the space itself 先把客观条件按住，随后那句 But the movement the animal makes before it decides to lay down changes the space 才给出他的论点：决定去向的不是地点，是躺下之前的那些圈。最后 in a sense 三个词，他自己把这句论断的分量又卸掉一层——本节群的证人在给出重要判断时几乎都要自我削薄一次。
 
 **读者视角提示**：把 alive and resting 与"绕圈找地方睡觉"当成一句读——他给她的下落唯一的形状是"还没睡下来的动物"，本章没有别的版本。
 
@@ -49,18 +49,13 @@ POV: "未署名的第一人称口述者（有一个女儿；本章的谈话对�
 
 **关键词**：already dead、ran over it again、flatten、lack of air、spiked hair、turn up
 
-**为什么这样写**：这一块是本章最不安的。It was already dead, like so many things 用 like so many things 把一只动物扩成一整类东西——他的语法在这里滑得很快。I ran over it again 的 again 是本章最省的一处信息：第一次轧过它没有交代，而他补的是感受：And it felt terribly good / To further flatten a body already flat——terribly 修饰 good 是矛盾搭配，两句合起来把快感定义在"已经完成了的事情上再补一刀"，而 To further flatten a body already flat 这个没有主语的句子读起来像格言，也像他对她之事的真实愿望的反面。I remember a lack of air 只报一个感官的缺失，夹在两组物象之间；随后那两种"没见过"的粉色花给出本章唯一近似新生的东西：did not have petals, but thin strands of spiked hair——花被写成有毛发的身体。最后三句是转折：She’s not dead. 三个词，从原句 1 的 believe 升级成断言；Vesta will turn up when and if she wants 里 when and if 把"什么时候"与"是否"合并成一个条件，主动权全交给她，而 Vesta 这个名字本章只在这一句出现一次，前文她一直是 she；收束句 If my daughter were dead, I’d know it in my bones and heart 用虚拟语气同时承认两件事——他有一个女儿，以及他没有从骨头和心里得到这个"知道"。他有没有资格替 Vesta 判定生死，本章不作答。
+**为什么这样写**：这一块是本章最不安的。It was already dead, like so many things 用 like so many things 把一只动物扩成一整类东西——他的语法在这里滑得很快。I ran over it again 的 again 是本章最省的一处信息：第一次轧过它没有交代，而他补的是感受：And it felt terribly good / To further flatten a body already flat——terribly 修饰 good 是矛盾搭配，两句合起来把快感定义在"已经完成了的事情上再补一刀"，而 To further flatten a body already flat 这个没有主语的句子读起来像一句无处安放的格言——它不说明这份"好极了"与她之间是什么关系。I remember a lack of air 只报一个感官的缺失，夹在两组物象之间；随后那两种"没见过"的粉色花给出本章唯一近似新生的东西：did not have petals, but thin strands of spiked hair——花被写成有毛发的身体。最后三句是转折：She’s not dead. 三个词，从原句 1 的 believe 升级成断言；Vesta will turn up when and if she wants 里 when and if 把"什么时候"与"是否"合并成一个条件，主动权全交给她，而 Vesta 这个名字本章只在这一句出现一次，前文她一直是 she；收束句 If my daughter were dead, I’d know it in my bones and heart 用虚拟语气同时承认两件事——他有一个女儿，以及他没有从骨头和心里得到这个"知道"。他有没有资格替 Vesta 判定生死，本章不作答。
 
 **读者视角提示**：这一节的三份证据（红雀、狗、浣熊）里只有一份是他自己动过手的——他又轧了一次那只已经死的动物；读完全章再回头看原句 1 那句"她还在绕圈找地方睡"，分量会不一样。
 
 ---
 
 ## 本章词汇
-
-### ⭐⭐⭐ 高级
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
 
 ### ⭐⭐ 进阶
 

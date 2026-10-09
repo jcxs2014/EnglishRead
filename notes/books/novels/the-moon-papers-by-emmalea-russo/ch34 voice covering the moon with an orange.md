@@ -59,7 +59,7 @@ POV: "Voice 叙述者（店员，第一人称限知，街对面是教堂的小�
 
 **中文理解**：一条狗立刻咬了 Ben 的手，我还有点暗自高兴。没见血什么的。但无所谓，反正那些又不是 Vesta 的狗。
 
-**关键词**：immediately、sort of happy、draw blood、strays
+**关键词**：immediately、sort of happy、draw blood、Vesta's dogs
 
 **为什么这样写**：sort of 先把这点快感的分量缩到最小，但没有收回——幸灾乐祸被"sort of"包装成可否认的尺度，这正是她的道德算术。"She didn't draw blood" 里 she 指狗——她顺手给每条狗都用人称代词，比人对她的态度更像"人"。"it didn't matter" 的转折很潦草：咬没咬破不重要，因为那不是 Vesta 的狗、只是她遛的流浪犬；叙述从事件滑向八卦只需一个 cause。
 

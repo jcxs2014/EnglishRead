@@ -23,7 +23,7 @@ POV: "Radko 与 Velour（聊天体多声，转入紧贴 Velour 的第三人称�
 
 **中文理解**：开场是深夜的短信你来我往：Radko 把幼蝠哺乳的画面给 Velour 看（they're nursing! OMG! OMG），Velour 却追问她记下的一件事——"you never told me who called you"，到底是谁打来报告"蝙蝠落在我家挡风玻璃上"。Radko 只回 IDK，再讲原委：那女人没说身份，看见 bat pup 就打了电话，然后径直走开、把它留在了那里——除非她把它带走了。
 
-**关键词**：windshield、bat pup、IDK
+**关键词**：she didn't say、bat pup、walked away
 
 **为什么这样写**：聊天体剥掉了全部大小写与标点规范（u、OMG、IDK），两人的性格以"打字节奏"显影：Radko 感叹号连发，Velour 惜字如金。神秘来电者是本节唯一悬着的"场外人物"——she didn't say、kept on、unless 三层否定画出一个拒绝登记的人，连幼蝠的下落都不给结论。再往后那句不带发件人抬头的 `the bat shit accumulating in my attic haunts me` 打破了聊天体一轮一名的节奏：本章没标它出自谁，按上下文最直读仍是 Velour 的延续——而 haunts 一词把整个群落挂上了 Part One 题页的那句诗（The Smell of Bats was heavy on the Wind）的幽灵语法。
 
