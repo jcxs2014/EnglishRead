@@ -12,7 +12,7 @@ POV: "Velour Bellmer（第三人称限知，她自己的住宅：卧室、后院
 - **叙事视角**：第三人称限知，紧贴 Velour Bellmer；全章用引号短句交替推进对话，没有聊天体或短信体发言行
 - **核心事件**：蝙蝠保育机构的 Radko Toth 上门核实一只死掉的小棕蝠（他邻居在她的车上发现的），检查她屋顶的蝙蝠活动并拍下粪便证据，说明他无权驱赶这些受保护的蝙蝠，并请求本周再来
 - **关键人物**：Velour Bellmer（Vesta 的母亲，Hans Bellmer 与 Vivienne Volker 的女儿）、Radko Toth（专做蝙蝠照护、救援与迁出）、Vesta（未出场，只被"同学"这一层关系提及）、她死去的母亲（只以阁楼的声响与她那只银色 Zippo 出现）、发现幼崽的邻居与提"心智控制"的女婿（都未出场）
-- **章节主题**：一个带着规章来的年轻人进入一间堆满可移动古董的屋子——守护、欲望与污染在同一批抵达，而Velour 第一次同时想开门和想关门
+- **章节主题**：一个带着规章来的年轻人进入一间堆满可移动古董的屋子——守护、欲望与污染在同一批抵达，而 Velour 第一次同时想开门和想关门
 - **上章回顾**：上一节（West 线 ch03）的例会上，Marla 用 Demy 替掉了 Bobby 从希腊神话里挑的拖船名并拿到 consensus；Dean 当众追问 Kelly 的去向，被 Bobby 以"她自己走丢了"和"勉强的共识也是共识"按了回去
 
 ---
@@ -69,7 +69,7 @@ POV: "Velour Bellmer（第三人称限知，她自己的住宅：卧室、后院
 
 > **原句 5:** “That’s a great question. I think about it all the time. But bottom line? We just don’t know what the bats are gonna do when they’re at the mercy of a second moon. A moon that’s always full, no less. Right?”
 
-**中文理解**：那是个好问题，我一直在想它。可底线在哪儿？我们就是不知道，当它们任一个第二月亮摆布的时候，蝙蝠会干出什么来。何况那还是一轮永远不亏的满月。对吧？
+**中文理解**：那是个好问题，我一直在想它。可底线在哪儿？我们就是不知道，蝙蝠们被第二颗月亮摆布的时候会干出什么来。何况那还是一轮永远不亏的满月。对吧？
 
 **关键词**：bottom line、at the mercy、a second moon、always full
 
