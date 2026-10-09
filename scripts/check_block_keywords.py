@@ -158,6 +158,14 @@ def norm(s: str) -> str:
     """
     for a, b in _TYPO.items():
         s = s.replace(a, b)
+    # ⚠️ 2026-10-08（The Man ch05 实测）：MD 用 ASCII 单引号 `'Oh,'` 表对话，
+    # text/ 用弯双引号 `"Oh,"`；_TYPO 只把弯引号转直双，MD 的单引号原样保留，
+    # 两者仍不匹配。处置：统一把直单引号也映射为直双引号（英文对话引号互替不影响语义）。
+    s = s.replace("'", '"')
+    # ⚠️ 2026-10-08（The Man ch05 实测）：引语内含 `**uncanny eye**` 等 bold 标记，
+    # 而 text/ 原文无此格式；norm() 不剥 bold 导致逐字命中的真引语报拼接红线。
+    # 处置：剥掉所有 `**` 之后再归一。
+    s = re.sub(r'\*+', '', s)
     return re.sub(r'\s+', ' ', s).strip()
 
 
