@@ -21,7 +21,7 @@
 
 ### 精读块 1：猎物的召唤
 
-> Paul spots Charlie leaving and calls her down. When he first saw her tonight, surveying him with those dark eyes, he felt skittish and guilty. He thought of all the time he'd spent with her in his mind, lonely on his couch, and the sad shabbiness of it made the glamorous day he'd spent at Doven wither and recede; he wanted badly to grasp it back.
+> **原句 1:** "When he first saw her tonight, surveying him with those dark eyes, he felt skittish and guilty. He thought of all the time he'd spent with her in his mind, lonely on his couch, and the sad shabbiness of it made the glamorous day he'd spent at Doven wither and recede; he wanted badly to grasp it back."
 
 **中文理解**：Paul 看到 Charlie 要离开，叫住了她。今晚第一次见到她时，她用那双黑眼睛审视着他，他感到局促不安、心怀愧疚。他想起自己独自窝在沙发上时在脑海里与她共度的那些时光——那种可悲的寒酸感让他在 Doven 度过的风光一天黯然失色、节节败退；他拼命想要重新抓住那种感觉。
 
@@ -39,7 +39,7 @@
 
 ### 精读块 2：身体的凝视
 
-> he catches himself staring at her breasts beneath the thin fabric of her sweater, the dramatic curve of her hips in her bell-bottomed jeans. He struggles to meet her keen and questioning—and laughing?—dark brown eyes.
+> **原句 2:** "he catches himself staring at her breasts beneath the thin fabric of her sweater, the dramatic curve of her hips in her bell-bottomed jeans. He struggles to meet her keen and questioning—and laughing?—dark brown eyes."
 
 **中文理解**：他发现自己正盯着她薄薄毛衣下的胸部，紧身喇叭裤下夸张的臀部曲线。他努力去迎上她那双锐利、质疑——而且在笑？——的深棕色眼睛。
 
@@ -57,7 +57,7 @@
 
 ### 精读块 3：崇拜的错位
 
-> "It was out of this world. Fantastic," she says, her face lighting up. It stirs something in Paul; she's become warm again, readable. Fuckable. She's impressed with what he's done and she can't help showing it. Glowing with it, even.
+> **原句 3:** ""It was out of this world. Fantastic," she says, her face lighting up. It stirs something in Paul; she's become warm again, readable. Fuckable. She's impressed with what he's done and she can't help showing it. Glowing with it, even."
 
 **中文理解**："太震撼了。太棒了，"她说，脸上绽放出光彩。这激起了 Paul 内心深处的某种东西；她又变得热情了，可以解读了。可以操的。她被他所做的打动了，忍不住表露出来。甚至因此容光焕发。
 
@@ -74,7 +74,7 @@
 
 ### 精读块 4：消失的 introduction
 
-> "I just love her work so much," she goes on, cheeks flushing. "I can't believe I was in class with her. Her pictures are so—powerful. Like magic, almost. They speak to me—and to so many people I know. She was a genius," she says reverently. Paul could be anyone—one of her peers, or a table, for all his presence matters to her.
+> **原句 4:** ""I just love her work so much," she goes on, cheeks flushing. "I can't believe I was in class with her. Her pictures are so—powerful. Like magic, almost. They speak to me—and to so many people I know. She was a genius," she says reverently. Paul could be anyone—one of her peers, or a table, for all his presence matters to her."
 
 **中文理解**："我就是太喜欢她的作品了，"她继续说，脸颊泛红。"真不敢相信我和她同班过。她的照片太——有力量了。几乎像魔法一样。它们对我说话——也对我认识的那么多人说话。她是个天才，"她虔诚地说。Paul 可能是任何人——她的一个同学，或一张桌子，他的存在对她来说无足轻重。
 
@@ -91,7 +91,7 @@
 
 ### 精读块 5：沉默的审判
 
-> He knows she read it; curiosity alone would have driven her to read it. Her silence resounds in the empty classroom like a booming judgment.
+> **原句 5:** "Her silence resounds in the empty classroom like a booming judgment."
 
 **中文理解**：他知道她读过了；仅仅好奇心就足以驱使她去读。但她的沉默在这间空旷的教室里像一声响亮的判决一样回荡。
 
@@ -107,7 +107,7 @@
 
 ### 精读块 6：窒息的幻想
 
-> "Professor—Paul—did you want something else? I'm about to miss my ride," Charlie says, and a swift, bright fury rears up in him. He drops his hands, forgetting the cigarettes—he wants something else. He wants to grab her arm, press her up against a wall, grind into her with a hot hand smothering her mouth. He wants to hear her trying to scream.
+> **原句 6:** ""Professor—Paul—did you want something else? I'm about to miss my ride," Charlie says, and a swift, bright fury rears up in him. He drops his hands, forgetting the cigarettes—he wants something else. He wants to grab her arm, press her up against a wall, grind into her with a hot hand smothering her mouth. He wants to hear her trying to scream."
 
 **中文理解**："教授——Paul——你还有别的事吗？我要赶不上车了，"Charlie 说，一道迅速而明亮的怒火在他心中竖起。他放下手，忘了找烟——他想要别的。他想抓住她的手臂，把她按在墙上，用一只火热的手捂住她的嘴磨蹭。他想听她拼命尖叫。
 
@@ -125,7 +125,7 @@
 
 ### 精读块 7：空旷停车场的被迫害妄想
 
-> He finally lights a cigarette when he steps outside, and stands smoking it under the awning. His is the only car left in the lot. The nicotine doesn't calm him like he thought it would; he starts staring around at still and moving shadows, at the swaying tops of trees. He feels nervous and observed.
+> **原句 7:** "He finally lights a cigarette when he steps outside, and stands smoking it under the awning. His is the only car left in the lot. The nicotine doesn't calm him like he thought it would; he starts staring around at still and moving shadows, at the swaying tops of trees. He feels nervous and observed."
 
 **中文理解**：他终于在走出去时点燃了一根烟，站在雨棚下抽着。停车场里只有他一辆车。尼古丁并没有像他想象的那样让他平静；他开始盯着周围静止和移动的影子，盯着摇晃的树顶。他感到紧张，总觉得被盯着。
 
@@ -142,7 +142,7 @@
 
 ### 精读块 8：引擎的隐喻
 
-> He starts his engine, revs it, and goes peeling out of the parking lot.
+> **原句 8:** "He starts his engine, revs it, and goes peeling out of the parking lot."
 
 **中文理解**：他发动引擎，踩下油门，轮胎尖叫着冲出停车场。
 

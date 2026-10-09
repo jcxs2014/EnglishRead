@@ -21,7 +21,7 @@
 
 ### 精读块 1：梦境般的日子
 
-> The following days unfold like a dream. Journalists and gallerists begin to write and call, circling like kind, subservient vultures. Mr. Sorenson this, Mr. Sorenson that…Paul responds to all of them with confident ease, as Mr. Sorenson, naturally, would. By the end of the first week, this new identity has blotted out the old one so thoroughly that he forgets all about his real job: teaching photography. He calls Betty in the main office to cancel class at the last minute with only a twinge of disappointment that he won't face Charlie while wearing this new, unassailable skin.
+> **原句 1:** "The following days unfold like a dream. Journalists and gallerists begin to write and call, circling like kind, subservient vultures. Mr. Sorenson this, Mr. Sorenson that…Paul responds to all of them with confident ease, as Mr. Sorenson, naturally, would. By the end of the first week, this new identity has blotted out the old one so thoroughly that he forgets all about his real job: teaching photography. He calls Betty in the main office to cancel class at the last minute with only a twinge of disappointment that he won't face Charlie while wearing this new, unassailable skin."
 
 **中文理解**：接下来的日子如梦一般展开。记者和画商们开始写信、打电话，像友善的、顺从的秃鹰一样盘旋。"Sorenson 先生"这样，"Sorenson 先生"那样……Paul 以自信从容的姿态回应他们所有人，Sorenson 先生当然会这样。到第一周结束时，这个新身份已经把旧身份彻底抹掉，以至于他完全忘记了自己真正的工作：教摄影。他给教务处的 Betty 打电话最后一刻取消课程，只有一点点失望——他不会在穿着这层新的、坚不可摧的皮肤面对 Charlie 了。
 
@@ -38,7 +38,7 @@
 
 ### 精读块 2：媒体狂欢与"Paul and Judith"叙事
 
-> But there's so much more to think about than Charlie. Though no one ever says it aloud, Judith's gruesome death has amplified the public response to her work, and Paul feels himself at the center of a maelstrom almost immediately. He's booked for radio, television, newspaper, and magazine interviews, during which he speaks somberly, respectfully, about Judith's last day in class, how she broached her desire to publish, and what exactly he saw and heard when he left the school building that evening. Nothing, he tells one mournful-looking host after another, shaking his head. Absolutely nothing. On one occasion, he hears the live audience's collective moan and thinks it sounds slightly ecstatic. They're feasting on Judith's tragic story—and on the story of "Judith and Paul." Not quite a love story, no—though some are already speculating about this in the press—but still something for his listeners to tear into.
+> **原句 2:** "But there's so much more to think about than Charlie. Though no one ever says it aloud, Judith's gruesome death has amplified the public response to her work, and Paul feels himself at the center of a maelstrom almost immediately. He's booked for radio, television, newspaper, and magazine interviews, during which he speaks somberly, respectfully, about Judith's last day in class, how she broached her desire to publish, and what exactly he saw and heard when he left the school building that evening. Nothing, he tells one mournful-looking host after another, shaking his head. Absolutely nothing. On one occasion, he hears the live audience's collective moan and thinks it sounds slightly ecstatic. They're feasting on Judith's tragic story—and on the story of "Judith and Paul." Not quite a love story, no—though some are already speculating about this in the press—but still something for his listeners to tear into."
 
 **中文理解**：但比起 Charlie，有更多事情值得想。虽然没有人说出口，但 Judith 惨烈的死提升了公众对她作品的回应，Paul 感到自己几乎立刻身处风暴中心。他被安排了广播、电视、报纸和杂志采访，在所有这些采访中，他庄重而恭敬地谈到 Judith 在班的最后一天，她如何提出想要出版的愿望，以及他离开学校大楼的那个晚上究竟看到了什么、听到了什么。什么都没有，他一次又一次地对看起来哀伤的主持人摇头说。什么都没有。有一次，他听到现场观众齐声发出的呻吟声，觉得听起来有点狂喜。他们在享用 Judith 的悲剧故事——也在享用"Judith 与 Paul"的故事。算不上爱情故事，不——虽然媒体已经有人在猜测——但仍然是他的听众可以撕咬的东西。
 
@@ -55,7 +55,7 @@
 
 ### 精读块 3：次文本与公众的愚钝
 
-> Not one of his interviewers has come out and said, If Judith were alive, you wouldn't be sitting here, would you, pal? And thank god for that! But Paul still hears it as a subtext to certain questions: How long ago was it that your own work was published in Harper's, Paul? Are you still an active photographer, or do you simply devote yourself to your teaching now? As time passes, though, he grows inured to it all, sets aside any focus on possible subtext. What does subtext matter, anyway, in the mind of the public, which has no mind? The public wants surface, only surface, and he's good at giving it, so good. He knows he's the best possible champion of Judith's work—much better than Judith would have been herself. Marty reports that sales of the issue are "through the roof," and he treats Paul now like the son he never had—though the Harper's check still hasn't arrived.
+> **原句 3:** "Not one of his interviewers has come out and said, If Judith were alive, you wouldn't be sitting here, would you, pal? And thank god for that! But Paul still hears it as a subtext to certain questions: How long ago was it that your own work was published in Harper's, Paul? Are you still an active photographer, or do you simply devote yourself to your teaching now? As time passes, though, he grows inured to it all, sets aside any focus on possible subtext. What does subtext matter, anyway, in the mind of the public, which has no mind? The public wants surface, only surface, and he's good at giving it, so good. He knows he's the best possible champion of Judith's work—much better than Judith would have been herself. Marty reports that sales of the issue are "through the roof," and he treats Paul now like the son he never had—though the Harper's check still hasn't arrived."
 
 **中文理解**：没有一个采访者直接问：要是 Judith 活着，你不会坐在这儿，对吧，伙计？谢天谢地！但 Paul 仍然把它当作某些问题的次文本：你自己的作品多久前在 Harper's 发表的，Paul？你仍然是活跃的摄影师吗，还是只是专心教书？然而随着时间推移，他对这一切都变得麻木了，放弃了关注可能的次文本。次文本有什么关系呢，反正对于没有头脑的公众来说？公众要的是表面，只有表面，而他很擅长给予它，很好。他知道自己是最完美的 Judith 作品的捍卫者——比 Judith 本人更好。Marty 报告说这一期销量"爆表"，他现在对待 Paul 像对待他从没有过的儿子——虽然 Harper's 的支票还没到。
 
@@ -72,7 +72,7 @@
 
 ### 精读块 4：Doven Gallery 的邀请
 
-> Before long, Paul's tireless efforts secure a glowing prize: a one-woman show at Doven Gallery, the crown jewel of the New York art world. When Paul brings fifty of Judith's photographs to share with Jahan Davani, Doven's famed owner and head curator, the man is so moved by them that tears spill down his cheeks. He blots these elegantly with a monogrammed handkerchief while Paul stares; what surer proof of his own elevated status, his sparkling new life, than the sight of this ethereally handsome, successful, stylish man weeping over his pictures?
+> **原句 4:** "Before long, Paul's tireless efforts secure a glowing prize: a one-woman show at Doven Gallery, the crown jewel of the New York art world. When Paul brings fifty of Judith's photographs to share with Jahan Davani, Doven's famed owner and head curator, the man is so moved by them that tears spill down his cheeks. He blots these elegantly with a monogrammed handkerchief while Paul stares; what surer proof of his own elevated status, his sparkling new life, than the sight of this ethereally handsome, successful, stylish man weeping over his pictures?"
 
 **中文理解**：不久，Paul 的不懈努力赢得了一个光辉的奖项：Doven Gallery 的个展，纽约艺术界的皇冠上的宝石。当 Paul 把 Judith 的五十张照片带给 Jahan Davani（Doven 著名的老板兼首席策展人）看时，这个人被感动得泪水顺着脸颊流下来。他优雅地用带字母组合的手帕擦眼泪，Paul 盯着看；有什么比看到这个超凡英俊、成功、时尚的男人为他的照片哭泣更能证明他自己的地位提升、他闪闪发光的新生活？
 
@@ -89,7 +89,7 @@
 
 ### 精读块 5：Jahan 的承诺与 Paul's 的狂喜
 
-> Once Jahan recovers, clears his throat, and declares the work "dazzling," he lights two cigarettes from a slim gold case and hands one to Paul. Then he recites a litany of promises and intentions: Doven will mount a one-woman show; it will draw thousands of viewers; Paul will be "consulting curator," essential to the mounting of said show; a contract will be drawn up and work will begin posthaste, as Jahan wants the show to open in April—or at the latest, May. Jahan shakes his hand and claps him on the shoulder, then kisses him on both cheeks while bidding him goodbye. Paul, ecstatic and dazed, stands on the sidewalk outside the gallery, wondering if what happened was a dream. Consulting curator, the man said. Paul has no idea what the job will entail, and he has no credentials for it either, but it's his and he wants it badly. He'll be the best goddamn consulting curator the world has ever seen, and Judith's show will be the hit of the season—or of the whole year.
+> **原句 5:** "Once Jahan recovers, clears his throat, and declares the work "dazzling," he lights two cigarettes from a slim gold case and hands one to Paul. Then he recites a litany of promises and intentions: Doven will mount a one-woman show; it will draw thousands of viewers; Paul will be "consulting curator," essential to the mounting of said show; a contract will be drawn up and work will begin posthaste, as Jahan wants the show to open in April—or at the latest, May. Jahan shakes his hand and claps him on the shoulder, then kisses him on both cheeks while bidding him goodbye. Paul, ecstatic and dazed, stands on the sidewalk outside the gallery, wondering if what happened was a dream. Consulting curator, the man said. Paul has no idea what the job will entail, and he has no credentials for it either, but it's his and he wants it badly. He'll be the best goddamn consulting curator the world has ever seen, and Judith's show will be the hit of the season—or of the whole year."
 
 **中文理解**：Jahan 恢复过来，清了清嗓子，称这些作品"令人惊艳"，然后从一个细长的金色烟盒里点燃两根烟，递了一根给 Paul。然后他背诵了一连串承诺：Doven 将举办一个女性艺术家个展；展览将吸引数千名观众；Paul 将担任"策展顾问"，对展览的筹备至关重要；合同将起草，工程将立即开始，因为 Jahan 希望展览在四月——最晚五月开幕。Jahan 和他握手，拍他的肩膀，然后在他告别时双方面颊上各亲了一下。Paul，狂喜而眩晕，站在画廊外的人行道上，想着刚才发生的是不是一场梦。策展顾问，那个人说的。Paul 不知道这份工作需要什么，他也没有任何资质，但它属于他了，他非常想要。他会成为世界上最好的该死的策展顾问，Judith 的展览会成为本季度——或者全年的热门。
 
@@ -106,7 +106,7 @@
 
 ### 精读块 6：世界是他的生蚝
 
-> And after that, who knows? The world will be his fucking oyster.
+> **原句 6:** "And after that, who knows? The world will be his fucking oyster."
 
 **中文理解**：在那之后，谁知道呢？世界将成为他妈的牡蛎。
 

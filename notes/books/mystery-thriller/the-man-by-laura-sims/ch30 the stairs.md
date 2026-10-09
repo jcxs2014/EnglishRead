@@ -1,5 +1,15 @@
 # 30. The Stairs
 
+## 本章导航
+
+- **叙事视角**：第一人称，Judith Stanley——Samantha Laertes 摄影展与 Paul 的爆发
+- **情节进度**：Judith 在 Samantha Laertes 的摄影展上沉浸于芝加哥边缘人群的影像中。Paul 透露 Samantha 因抑郁症自杀，并称赞 Judith 的才华，说她的照片也应该挂在这样的地方。Judith 明确拒绝更广泛分享照片，Paul 随即指责她"自私"、"浪费才华"，语言激烈如跟踪者，并抓住她的手臂。Judith 惊恐逃离，冲下地铁楼梯。
+- **核心事件**：Paul 的话"Selfish, even. I don't believe this whole worry over privacy—I think you're just afraid."与跟踪者在人行横道说的"selfish fucking bitch"形成呼应。Judith 意识到 Paul 的语言与那个男人惊人地相似。
+- **关键人物**：Judith（叙述者）、Paul（爆发者，将自己的挫败感发泄在 Judith 身上）、Samantha Laertes（已故摄影师，Paul 的旧识）
+- **章节主题**：语言暴力的重叠——Paul 的"selfish"与跟踪者的"selfish fucking bitch"，两个男人用相似的词来指责 Judith 的"自私"。这种语言的巧合（或必然）揭示了 Judith 周围的男性暴力模式。
+
+---
+
 ## 精读
 
 Judith 在 Samantha Laertes 的摄影展上，沉浸于芝加哥边缘人群的影像中。Paul 突然出现，透露 Samantha 因抑郁症自杀（过量服药），两人曾在同一展览中展出作品。Paul 称赞 Judith 的才华，说她的照片也应该挂在这样的地方，并透露自己近来作品难以推广。Judith 明确表示她的照片是私人的，没有更广泛分享的欲望。Paul 随即指责她"自私"、"浪费才华"，语言激烈如那个男人，并抓住她的手臂。Judith 惊恐逃离，冲下地铁楼梯。

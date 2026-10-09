@@ -1,5 +1,15 @@
 # 42. The Whole Wide World
 
+## 本章导航
+
+- **叙事视角**：第三人称，Paul Sorenson——被 Tom 逐出门后的内心独白
+- **情节进度**：Paul 登门拜访 Tom，试图说服他让自己负责出版亡妻 Judith 的摄影作品。Tom 先是冷淡拒绝，继而步步紧逼 Paul 透露真实动机。Paul 撒谎说 Judith 曾在生前向他表达过出书愿望，但 Tom 不为所动——他看穿了 Paul 的机会主义面目，以"你想要钱"彻底堵住 Paul 的嘴。Paul 被逐出门后，一个阴暗的念头滋长：撬门闯入 Tom 家，独自占有所有照片。
+- **核心事件**：Paul 被逐——Tom 说"No"并打开门示意 Paul 离开。Paul 最后试图用"Judith wanted this"来打动 Tom，但 Tom 眼神中的"violence"让 Paul 等待一拳落下。
+- **关键人物**：Paul（叙述者，被逐出门的掠夺者）、Tom Stanley（看穿 Paul 目的的鳏夫）
+- **章节主题**：掠夺者的退行——当正常的掠夺途径被堵死，Paul 想到"breaking into the house"、用 crowbar 撬开后门。但他不会真的这么做——因为"he isn't that kind of thief"。结尾"To everyone. To the whole wide world"是空洞的自我安慰。
+
+---
+
 ## 精读
 
 Paul 登门拜访 Tom，试图说服他让自己负责出版亡妻 Judith 的摄影作品。Tom 先是冷淡拒绝，继而步步紧逼 Paul 透露真实动机。Paul 撒谎说 Judith 曾在生前向他表达过出书愿望，但 Tom 不为所动——他看穿了 Paul 的机会主义面目，以"你想要钱"彻底堵住 Paul 的嘴。Paul 被逐出门后，一个阴暗的念头在心中滋长：撬门闯入 Tom 家，独自占有所有照片。当然他不会真的这么做——但结尾那句"To everyone. To the whole wide world"已是一句自我欺骗的空话。

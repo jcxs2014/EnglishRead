@@ -1,5 +1,15 @@
 # 19. The Masterful
 
+## 本章导航
+
+- **叙事视角**：第一人称，Judith Stanley——摄影课上的公开审视与情感过山车
+- **情节进度**：Paul 在课上讲授光影的本质，Judith 被当众点名展示照片。她恐慌抗拒但最终交出照片，Paul 称赞"marvelous"并选择那张年轻恋人的照片在全班面前分析，称之为"beautiful and cruel"。Charlie 友善提问后，Paul 说出"masterful"一字，Judith 感动落泪。
+- **核心事件**：Judith 内心曾想向 Paul 坦白："That man has been following me everywhere. He grabbed me in the city, in a crosswalk. He calls me, too. I've started carrying a knife." 但她从未说出口——担心被当作"crazy or damaged"。
+- **关键人物**：Judith（叙述者）、Paul（摄影老师，当众称赞 Judith 的作品）、Charlie（友好的"粉丝女孩"）、年轻恋人（照片中被分析的主体）
+- **章节主题**：被认可的渴望与被审视的恐惧——"masterful"是全章情绪最高点，也是 Judith 最渴望的肯定。但这种认可是有代价的：照片被传阅、分析、评判，而她内心藏着无法分享的秘密。
+
+---
+
 ## 精读
 
 Judith 在 Paul's 摄影课上经历了一次公开的过山车：被当众点名展示照片 → 恐慌抗拒 → Paul 当众称赞"marvelous" → 选择那张年轻恋人的照片在全班面前分析，称之为"beautiful and cruel" → Charlie 友善提问 → Paul 说出"masterful"一字，Judith 感动落泪。她对职业认可的渴望与被审视的恐惧在此交汇，"masterful"成为全章情绪最高点。

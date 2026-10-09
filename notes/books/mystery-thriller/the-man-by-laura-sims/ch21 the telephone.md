@@ -1,5 +1,15 @@
 # 21. The Telephone
 
+## 本章导航
+
+- **叙事视角**：第一人称，Judith Stanley——小镇街头与蓝色 Buick 的正面对峙
+- **情节进度**：Judith 在小镇 Mason 街头被跟踪者拦截——蓝色 Buick 车、苍白有力的手、"Get in, Judith"的声音。她逃入自己车内，以刀防身，闭眼盲拍了一系列照片。跟踪者离去后她冲回家，抵门等待那通必将响起的电话。
+- **核心事件**：Judith 握刀闭眼盲拍——"I lift my camera, turn the lens toward him and shoot, advance the film and shoot again, all with my eyes closed." 跟踪者似乎在对着相机微笑、摆姿势。汽车喇叭声打断了这场对峙，她才得以逃脱。
+- **关键人物**：Judith（叙述者，携带 Nikon 和折叠刀）、The man（蓝色 Buick 司机，声音"low and gravelly"，手"lean but muscular-looking and tan"）
+- **章节主题**：监控与反抗的颠倒——闭眼拍照是 Judith 最大的反抗姿态：她拒绝看见他，却用镜头对准他。跟踪者反而成为"被拍摄者"，在相机前微笑、摆姿势。电视的喧闹声成为她自我屏蔽的工具。
+
+---
+
 ## 精读
 
 Judith 在小镇 Mason 街头被跟踪者拦截——蓝色 Buick 车、苍白双手、"Get in, Judith"——她逃入自己车内，以刀防身，闭眼盲拍。跟踪者离去后她冲回家，抵门等待那通必将响起的电话，以电视的喧闹声自我屏蔽。本章以"刀"与"电话"两条线交织，呈现 Judith 从物理对抗到心理等待的过渡。

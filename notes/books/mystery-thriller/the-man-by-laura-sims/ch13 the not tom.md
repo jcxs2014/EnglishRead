@@ -1,5 +1,15 @@
 # 13. The Not Tom
 
+## 本章导航
+
+- **叙事视角**：第一人称，Judith Stanley——家庭晚餐场景，Tom 与 Judith 的对话张力
+- **情节进度**：Judith 为 Tom 做他最爱的晚餐（chicken piccata），却食不知味。Tom 追问她今天的行踪，她轻描淡写地撒谎。Tom 翻看她刚冲洗的照片，给出礼貌性赞美。Judith 内心想象 Paul 看到这批照片时会把它们称为"duds"。
+- **核心事件**：Judith 在厨房水池上方看着窗玻璃中自己的倒影，想举起 Nikon 拍下这个"pathetic, pained woman"，但随即警觉——那个男人是否就站在她身后？结尾的悬念暗示跟踪者可能已进入她的家庭空间。
+- **关键人物**：Judith（叙述者）、Tom（丈夫，抱病追问 Judith 行踪）、Paul（摄影老师，Judith 想象他对自己照片的负面评价）、The man（跟踪者，本章揭示他与多年前伤疤事件有关）
+- **章节主题**：谎言的双重性——Judith 对 Tom 撒谎是为了保护自己不知道的部分，而 Tom 表面相信实际上"haven't wanted to know"。家庭成为监控与秘密共存的场所，而跟踪者的阴影已渗透进这个本应安全的厨房空间。
+
+---
+
 ## 精读
 
 Judith 为 Tom 做他最爱的晚餐（chicken piccata），却感到空虚。Tom 追问她今天去了哪里，她隐瞒了追踪跟踪者的事。Tom 翻看她刚冲洗的照片，称赞"just as good as the ones in Life"——Judith 内心深知这不是真话，她想象 Paul 看到这批照片时会把它们称为"not gems but duds"。结尾她在厨房水池上方看着窗玻璃中自己的倒影，想举起 Nikon 拍下这个"pathetic, pained woman"，但随即警觉：**那个男人是否就站在她身后？**

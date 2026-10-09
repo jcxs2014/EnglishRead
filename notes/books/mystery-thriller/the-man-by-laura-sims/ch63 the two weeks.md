@@ -21,9 +21,9 @@
 
 ### 精读块 1：荣耀之后的裂痕
 
-> Outside, Paul leans against the window of a closed florist and lights a cigarette. The smoke fills him up, tastes delicious. He lets his mind drift over the past several hours: meeting Tasha, Jahan's gorgeous assistant, who seemed to instantly like him; seeing the rooms to be filled with Judith's framed photographs, and his own printed words; signing the contract that said CONSULTING CURATOR in all caps.
+> **原句 1:** "Outside, Paul leans against the window of a closed florist and lights a cigarette. The smoke fills him up, tastes delicious. He lets his mind drift over the past several hours: meeting Tasha, Jahan's gorgeous assistant, who seemed to instantly like him; seeing the rooms to be filled with Judith's framed photographs, and his own printed words; signing the contract that said CONSULTING CURATOR in all caps.
 >
-> In all caps like: FUCKING PARASITE. I BET YOU'RE GLAD SHE'S DEAD.
+> In all caps like: FUCKING PARASITE. I BET YOU'RE GLAD SHE'S DEAD."
 
 **中文理解**：Paul 靠在关门的花店橱窗外点了一根烟。烟雾充满他的肺，味道美味。他的思绪飘过过去几小时：见到 Tasha（Jahan 美丽的助手，她似乎立刻喜欢上了他）；看到将要挂满 Judith 照片和他的文字的房间；签下了写着"咨询策展人"的合同（全大写）。——全大写就像：去你妈的寄生虫。我打赌你很高兴她死了。
 
@@ -40,9 +40,9 @@
 
 ### 精读块 2：无法否认的逻辑
 
-> The words jolt him out of his reverie. He forgets the glory of the day and fixates on the letter again—especially the accusation that he's "glad she's dead." He isn't glad she's dead, but he can't deny that things are working out for him because she died. If she hadn't, and if she'd ever published her photographs—which was doubtful—he'd have been a brief mention in her interviews at most. I had a photography instructor who pushed me to send out my work. I resisted but finally did it, thanks to him…She wouldn't have named him, because who would need to know his name? Only hers would have mattered.
+> **原句 2:** "The words jolt him out of his reverie. He forgets the glory of the day and fixates on the letter again—especially the accusation that he's "glad she's dead." He isn't glad she's dead, but he can't deny that things are working out for him because she died. If she hadn't, and if she'd ever published her photographs—which was doubtful—he'd have been a brief mention in her interviews at most. I had a photography instructor who pushed me to send out my work. I resisted but finally did it, thanks to him…She wouldn't have named him, because who would need to know his name? Only hers would have mattered.
 >
-> But now his matters, too. Maybe he won't be the great photographer himself, but he'll be the next best thing: the one who recognized genius and ferried it deftly into the world. A few might share the letter writer's view—like Charlie, maybe—but most will see him as a generous mentor and promising young curator.
+> But now his matters, too. Maybe he won't be the great photographer himself, but he'll be the next best thing: the one who recognized genius and ferried it deftly into the world. A few might share the letter writer's view—like Charlie, maybe—but most will see him as a generous mentor and promising young curator."
 
 **中文理解**：这些话把他从白日梦中震醒。他忘记了那天的荣耀，专注于那封信——尤其是"他很高兴她死了"这个指控。他不高兴她死了，但他无法否认事情正因为她死了才对他有利。如果她没死，如果她曾经发表过照片——这很可疑——他在她的访谈中顶多会被简短提及：我有一个摄影老师推动我发表作品，我很抗拒但最终照做了，多亏了他……她不会提到他的名字，因为谁会需要知道他的名字？只有她的名字才重要。但现在他的名字也重要了。也许他不会成为伟大的摄影师，但他会成为次好的：识别天才并巧妙地将它带入世界的人。少数人可能同意写信人的观点——比如 Charlie——但大多数人会把他看成慷慨的导师和有前途的年轻策展人。
 
@@ -59,7 +59,7 @@
 
 ### 精读块 3：出租车里的道德喘息
 
-> He exhales a great cloud of smoke at this vision and the vision slowly disintegrates; the city returns. A hobo walks by, dragging behind him a cart stuffed with paper bags and old electronics. Paul thinks of Judith: how she could have captured this man's image, made him into something magnificent. He lets the fleeting joy of this thought swell inside of him, generous and unenvious. Judith had her talent; he has his own—and yes, she's gone, but he's still alive.
+> **原句 3:** "He exhales a great cloud of smoke at this vision and the vision slowly disintegrates; the city returns. A hobo walks by, dragging behind him a cart stuffed with paper bags and old electronics. Paul thinks of Judith: how she could have captured this man's image, made him into something magnificent. He lets the fleeting joy of this thought swell inside of him, generous and unenvious. Judith had her talent; he has his own—and yes, she's gone, but he's still alive."
 
 **中文理解**：他对着这个愿景吐出一大口烟雾，这个愿景慢慢瓦解；城市回来了。一个流浪汉走过，身后拖着一辆装满纸袋和旧电器的推车。Paul 想到 Judith：她本可以捕捉到这个人的形象，把他变成某种伟大的东西。他让这个稍纵即逝的想法在胸中膨胀，慷慨而不嫉妒。Judith 有她的才华；他有自己的——是的，她不在了，但他还活着。
 
@@ -76,13 +76,13 @@
 
 ### 精读块 4：酒吧与地铁
 
-> Instead of heading home, he ducks into a bar in Chelsea and stays until midnight. He thinks he may have gone home with one particular pretty girl, but she says she has plans and slides him her number for a "rain check." Once he finally leaves the dim, cozy glow of the bar and finds himself back on the street, alone and wobbling drunkenly, the unwanted phrase pops into his head and repeats, repeats:
+> **原句 4:** "Instead of heading home, he ducks into a bar in Chelsea and stays until midnight. He thinks he may have gone home with one particular pretty girl, but she says she has plans and slides him her number for a "rain check." Once he finally leaves the dim, cozy glow of the bar and finds himself back on the street, alone and wobbling drunkenly, the unwanted phrase pops into his head and repeats, repeats:
 >
 > FUCKING PARASITE
 >
 > FUCKING PARASITE
 >
-> The words trail him down the subway stairs. Standing and swaying in the train car, he sees nothing but strange characters, some of whom catch and hold his eye: a man with a deeply scarred cheek; a woman with a swollen-shut eye, compulsively knitting; two shockingly thin young women, possibly twins, leaning together as if conjoined at the temple. Paul thinks he may have entered some kind of hell, after having lived in paradise briefly. But it isn't hell, of course, it's just the city, flaunting its mundane horrors. They're nothing new, they just seem especially horrible after his time at Doven Gallery.
+> The words trail him down the subway stairs. Standing and swaying in the train car, he sees nothing but strange characters, some of whom catch and hold his eye: a man with a deeply scarred cheek; a woman with a swollen-shut eye, compulsively knitting; two shockingly thin young women, possibly twins, leaning together as if conjoined at the temple. Paul thinks he may have entered some kind of hell, after having lived in paradise briefly. But it isn't hell, of course, it's just the city, flaunting its mundane horrors. They're nothing new, they just seem especially horrible after his time at Doven Gallery."
 
 **中文理解**：他没有直接回家，而是溜进了切尔西的一家酒吧，待到午夜。他觉得他可能会跟某个漂亮的女孩回家，但她说她有别的安排，递给他一张写着"改天吧"的纸条。一旦他离开酒吧温暖昏暗的光芒回到街上，独自一人、醉醺醺地摇晃着，那句不想听的话又出现在他脑海中，重复，重复：去你妈的寄生虫。去你妈的寄生虫。这些话跟着他下地铁楼梯。站在车厢里摇晃，他看到的尽是奇怪的人，其中一些引起了他的注意：脸颊有深深疤痕的男人；一只眼睛肿胀紧闭、强迫性织毛线的女人；两个瘦得惊人的年轻女人，可能是双胞胎，靠在一起仿佛在太阳穴处相连。Paul 觉得他可能进入了某种地狱，在短暂地生活在天堂之后。但这当然不是地狱，这只是这座城市，在炫耀它平庸的恐怖。它们没什么新鲜的，只是他在 Doven 画廊待过之后显得格外可怕。
 
@@ -101,7 +101,7 @@
 
 ### 精读块 5：第二封信
 
-> He's relieved when he's climbing the steps to the door of his building. He thinks about going straight up but instead heads to the row of metal mailboxes with a quickening pulse. He pulls out a small stack of letters and bills and shuffles through them, spotting another envelope with the address written in block letters. Are they the same block letters, though? He can't tell. He tears it open and unfolds a sheet of yellow legal pad paper bearing a message from someone who signs off, "An ex-con."
+> **原句 5:** "He's relieved when he's climbing the steps to the door of his building. He thinks about going straight up but instead heads to the row of metal mailboxes with a quickening pulse. He pulls out a small stack of letters and bills and shuffles through them, spotting another envelope with the address written in block letters. Are they the same block letters, though? He can't tell. He tears it open and unfolds a sheet of yellow legal pad paper bearing a message from someone who signs off, "An ex-con.""
 
 **中文理解**：他爬公寓门口台阶时松了一口气。他想直接上楼，但反而走向一排金属邮箱，心跳加速。他抽出一叠信件和账单，快速翻找，发现另一封用印刷体写地址的信封。是和上次一样的印刷体吗？他分不清。他撕开信封，展开一张黄纸 legal pad 纸，上面是一封信，署名是"前科犯"。
 
@@ -118,7 +118,7 @@
 
 ### 精读块 6：第二封信的内容
 
-> Did that bitch really take those pictures or did you take them? Is there really even a Judith Stanley or did you make her up to make money? That's what I think. I watch a lot of television and I never saw a news story about a Jersey housewife getting killed so I think you made it up. I don't really care except I hate bitches like her. Glad she's dead.
+> **原句 6:** "Did that bitch really take those pictures or did you take them? Is there really even a Judith Stanley or did you make her up to make money? That's what I think. I watch a lot of television and I never saw a news story about a Jersey housewife getting killed so I think you made it up. I don't really care except I hate bitches like her. Glad she's dead."
 
 **中文理解**：那个婊子真的拍了那些照片还是你拍的？真的有个 Judith Stanley 吗，还是你编出来骗钱的？我就这么想。我看很多电视节目，从没见过关于新泽西家庭主妇被杀的新闻报道，所以我觉得你编的。我其实不在乎，我只是恨像她那样的婊子。很高兴她死了。
 
@@ -136,7 +136,7 @@
 
 ### 精读块 7：笔迹分析
 
-> The last line sends a chill through him. Despite the half-witted, delusional content, Paul can't ignore how this letter echoes the other one at the end. Glad she's dead. Could this "ex-con" be the same writer putting on an act, trying a new way of goading Paul? His instincts tell him no, they're different people, but even so, he compares the two envelopes when he gets upstairs. His eyes flit back and forth between them but he can't be certain they're the same—or different. They look similar, but one slants slightly to the left; the other is nearly perfectly vertical.
+> **原句 7:** "The last line sends a chill through him. Despite the half-witted, delusional content, Paul can't ignore how this letter echoes the other one at the end. Glad she's dead. Could this "ex-con" be the same writer putting on an act, trying a new way of goading Paul? His instincts tell him no, they're different people, but even so, he compares the two envelopes when he gets upstairs. His eyes flit back and forth between them but he can't be certain they're the same—or different. They look similar, but one slants slightly to the left; the other is nearly perfectly vertical."
 
 **中文理解**：最后一句话让他打了个寒颤。尽管内容是半愚昧的、妄想狂的，Paul 无法忽视这封信在结尾与另一封的呼应。"很高兴她死了。"这个"前科犯"会不会是同一个人在演戏，用一种新的方式刺激 Paul？他的直觉告诉他不是，他们是不同的人，但即便如此，他上楼后还是比较了两封信封。他的目光在两者之间来回跳动，但他无法确定它们是相同的——还是不同的。它们看起来相似，但一封稍微左斜；另一封几乎完全垂直。
 
@@ -154,7 +154,7 @@
 
 ### 精读块 8：自我安慰与两周假期
 
-> But who cares? He sets both letters aside. He's just had one of the best days of his life; it doesn't matter what an ex-con and an angry woman (or just one angry woman) wrote in their unhinged letters. No one will see these letters but him—and he isn't required to open them! But he does require sleep. Tomorrow—or later today, really—he has to drive to New Jersey and teach class. It's been two weeks, and he'll have to dip himself back into his old life for a while—though he can hardly imagine it.
+> **原句 8:** "But who cares? He sets both letters aside. He's just had one of the best days of his life; it doesn't matter what an ex-con and an angry woman (or just one angry woman) wrote in their unhinged letters. No one will see these letters but him—and he isn't required to open them! But he does require sleep. Tomorrow—or later today, really—he has to drive to New Jersey and teach class. It's been two weeks, and he'll have to dip himself back into his old life for a while—though he can hardly imagine it."
 
 **中文理解**：但谁在乎呢？他把两封信放到一边。这只是他人生中最好的日子之一；一个前科犯和一个愤怒的女人（或者就只是一个愤怒的女人）在他们疯狂的信里写了什么并不重要。没有人会看到这些信，只有他会看到——而且他也没有义务打开它们！但他的确需要睡觉。明天——或者说今天晚些时候——他要开车去新泽西上课。已经两周了，他要把自己浸回旧生活一段时间——虽然他几乎无法想象。
 

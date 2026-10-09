@@ -1,5 +1,15 @@
 # 39. The Good Night
 
+## 本章导航
+
+- **叙事视角**：第一人称，Judith Stanley——Paul 的道歉与内心的两难抉择
+- **情节进度**：Paul 因病提前下课后单独留下 Judith。他为之前在画廊的发作道歉，请求原谅，并再次称赞她的照片"vibrant and sublime"。Judith 内心经历剧烈挣扎：她想让他把照片拿去发表，但"the pain"（那个男人的声音）警告她不要。最终她收起信封，在"Good night"中结束。
+- **核心事件**：Judith 的两次险些坦白——第一次几乎说"Take my pictures, try to sell them"；第二次几乎承认自己没有车、需要 Tom 来接。但"the pain throbs"阻止了她——If you let Paul sell your pictures, the man will come。
+- **关键人物**：Judith（叙述者，内心挣扎）、Paul（道歉者，真心欣赏 Judith 的作品但已不再恳求）、Charlie（同学，Judith 打算用"夸奖"来操控）
+- **章节主题**：沉默的代价——Judith 知道她的照片值得被看见，但恐惧让她选择沉默。Tom 在她意识边缘等待，而她选择服从这个无形的枷锁。
+
+---
+
 ## 精读
 
 Paul 因病提前下课后单独留下 Judith。他为之前在画廊的发作道歉，请求原谅，并再次称赞她的照片"vibrant and sublime"。Judith 内心经历剧烈挣扎：她想让他把照片拿去发表（"Take my pictures, try to sell them"几乎脱口而出），但"the pain"（那个男人的声音）警告她不要。最终她收起信封，Tom 还在等她——她选择服从这个无形的枷锁，在"Good night"中结束又一场内心的溃败。

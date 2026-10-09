@@ -1,5 +1,15 @@
 # 29. The Subway
 
+## 本章导航
+
+- **叙事视角**：第一人称，Judith Stanley——进城 field trip 与 Charlie 的友谊
+- **情节进度**：Judith 随 Paul 的摄影班乘火车进城。火车上她与 Charlie 闲聊，透露自己拍摄自画像的秘密；途中她摸到包里的刀，幻想用它刺向跟踪者。进城后她在华盛顿广场公园疯狂拍摄，捕捉街头众生，并在下水道井盖的反射中完成一次自画像。
+- **核心事件**：Judith 的第一张安全自拍照——她在下水道井盖的反射中自拍，确信"there can only be my face and the tops of buildings looming over me. No room for the man, unless he can fly"。这是她重新夺回自拍主动权的时刻。
+- **关键人物**：Judith（叙述者，有相机和刀）、Paul（摄影班导师，eyes lit up when he saw Judith）、Charlie（同学，对 Judith 热情友好，主动提出交换作品）
+- **章节主题**：城市的双重性——对 Judith 而言城市既是解放的空间（"sets me free"）也是危险的空间（跟踪者在城市里"touched"过她）。Charlie 的友谊与她对城市的渴望并存，而刀既是恐惧的象征也是力量的象征。
+
+---
+
 ## 精读
 
 Judith 随 Paul 的摄影班进城。火车上她与同学 Charlie 闲聊，透露自己拍摄自画像的秘密；途中她摸到包里的刀，幻想用它刺向"那个男人"。进城后她在华盛顿广场公园疯狂拍摄，捕捉街头众生的众相——并借他人接吻的瞬间完成一次安全的自画像。

@@ -21,6 +21,7 @@
 
 ### 精读块 1：信件与自我慰藉
 
+> **原句 1:**
 > He tosses the latest batch of letters onto his dining table, tells himself not to mess with them, then starts picking through them anyway. He needs a hit of something nice, something to lift him up after dealing with Charlie's ugly silence and the paranoia that overtook him back in the parking lot.
 
 **中文理解**：他把最新一批信件扔到餐桌上，告诉自己不要去翻它们，但随即又开始翻起来。他需要一点好东西，需要它来提神——在经历了 Charlie 冷漠的沉默和之前在停车场包围他的偏执之后。
@@ -38,6 +39,7 @@
 
 ### 精读块 2：Farrah 的信——期待的落空
 
+> **原句 2:**
 > He zeroes in on a promising-looking one. The handwriting on the envelope, all elegant loops and curves, tells him it's from a woman, one as sane and orderly as his own mother, whose handwriting resembled this. The letter starts promisingly enough; Farrah from Minnesota calls Judith "a visionary who made [her] feel seen." Fine, good. But then she goes on to lament Judith's death in a long, winding paragraph, and closes without mentioning Paul at all. His absence is central, slighting—a replay of what happened in the classroom. He crumples the letter and envelope viciously in one hand and drops them in the trash.
 
 **中文理解**：他瞄准一封看起来有希望的信。信封上的笔迹，全是优雅的圈圈弯弯，告诉他这是一封女人的信，一个和他妈妈一样理智有序的女人——他妈妈的笔迹和这很像。信的开头还不错；明尼苏达州的 Farrah 称 Judith 为"一个有远见的人，让她感到被看见"。好的，不错。但随后她在又长又绕的段落里哀叹 Judith 的死亡，结束时根本没有提到 Paul。他的缺席是核心的、是一种轻蔑——重演了教室里发生过的事。他愤怒地把信和信封揉成一团，扔进垃圾桶。
@@ -56,6 +58,7 @@
 
 ### 精读块 3：Paul 的自我辩解
 
+> **原句 3:**
 > So long, Farrah from Minnesota.
 
 **中文理解**：再见了，明尼苏达州的 Farrah。
@@ -68,6 +71,7 @@
 
 ### 精读块 4：Charlie 的沉默与他人的认可
 
+> **原句 4:**
 > He wanted something, needed it, and didn't get it. But why was he looking for what he needed in the damn letters anyway? Or from someone like Charlie? Or anyone? It was just a craving he'd given in to—a craving for affirmation, a sense that he was good and what he'd done was right. But no outside voice will give him that; he resolves not to read any more unless he wants pure entertainment and has absolutely nothing better to do.
 
 **中文理解**：他想要一些东西，需要一些东西，但没有得到。但为什么他要在该死的信件里寻找他需要的东西？或者从 Charlie 那样的人那里？或者从任何人那里？这只是一种他屈服了的渴望——对肯定、对"我是好的、我的所作所为是对的"的感知。但没有外部的声音会给他这个；他决定不再读任何信，除非他想纯粹娱乐一下、而且绝对没有更好的事情可做。
@@ -85,6 +89,7 @@
 
 ### 精读块 5：David 的威胁信
 
+> **原句 5:**
 > I find it absolutely unbearable that a draft dodger like yourself would be the man to profit by Judith Stanley's work. I feel sorry for the woman herself and for her family, who may or may not know the truth about you. If I had the power to expose you for what you are, I would. Alas, I only have the power of sending these private words. I admire Ms. Stanley's photographs greatly and only wish they were in the hands of someone with a real sense of duty, honor, and integrity. I'm certain you'll go on profiting from her work in many ways, and I want you to know that if I could do anything to stop it, I would.
 
 **中文理解**：我简直无法忍受，像你这样的逃避兵役者竟然是那个从 Judith Stanley 的作品中获利的人。我为那个女人本人和她的家人感到遗憾，他们可能知道也可能不知道关于你的真相。如果我有权力揭露你是什么样的人，我会的。哎，我只是有权力发送这些私人话语。我非常欣赏 Stanley 女士的照片，只希望它们在一个真正有责任感、荣誉感和正直的人手中。我确信你会继续以各种方式从她的作品中获利，我想让你知道，如果我能做什么来阻止你，我会的。
@@ -102,6 +107,7 @@
 
 ### 精读块 6：Paul 对指控的反驳
 
+> **原句 6:**
 > A man who didn't even have the "honor and integrity" to sign off with his last name, or include his return address, accusing Paul of being a draft dodger—when Paul was too old for the damn draft! Paul snorts and rips the letter right in half.
 
 **中文理解**：一个连"荣誉和正直"都没有的人——不用全名签名，不留回信地址——指控 Paul 是逃避兵役者——而 Paul 当时已经超过了该死的服役年龄！Paul 哼了一声，把信撕成两半。
@@ -118,6 +124,7 @@
 
 ### 精读块 7：差点烧信
 
+> **原句 7:**
 > Then he grabs up the whole pile and nearly strides into the kitchen to light it on fire in the sink but stops himself before getting there—it will make a mess, he'll set off the fire alarm, it's too cold to go out on his fire escape and do it in a metal trash can out there…He throws the letters back on the hall table. Some of them slide to the floor, and since Paul can't stand disarray, he scoops them up and stacks them neatly, his stomach churning violently the whole time.
 
 **中文理解**：然后他抓起整堆信，几乎要大步走进厨房，在水槽里把它们点燃，但他在到达之前停下来——会把一切弄得很乱，他会触发火警警报，外面太冷，不能在防火梯上用金属垃圾桶烧……他把信扔回门厅的桌子上。有些滑到地板上，而 Paul 无法忍受凌乱，所以把它们捡起来，整整齐齐地堆好，同时他的胃一直在剧烈地翻腾。
@@ -135,6 +142,7 @@
 
 ### 精读块 8：最后的决心
 
+> **原句 8:**
 > He finds an empty cardboard box and dumps all the letters—even the opened, threatening ones—into it. Neither threats nor compliments matter; he won't let them distract him anymore. He has a catalog introduction to write, and a job at Doven Gallery. He will no longer let the insignificant insults of angry girls, women, or men have any impact on his upwardly mobile life. In the end, he's still winning.
 
 **中文理解**：他找到一个空纸箱，把所有的信都倒进去——即使是那些拆开的、威胁性的信。威胁和恭维都不重要；他不会再让它们分散他的注意力了。他要写展览介绍，还有 Doven Gallery 的工作。他不会再让愤怒的女孩、女人或男人的无足轻重的侮辱对他向上爬的生活有任何影响。最终，他还是赢了。

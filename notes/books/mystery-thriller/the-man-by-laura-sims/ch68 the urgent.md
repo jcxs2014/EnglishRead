@@ -21,7 +21,7 @@
 
 ### 精读块 1：身体崩溃与理性空白
 
-> Stunned by the phrase, Paul forgets to exhale a chest full of smoke and bends over, coughing. A woman wearing an unfashionably long skirt walks a wide circle around him; he focuses on the black leather of her low heels, the reassuring sound of an ordinary woman walking. When he recovers, he straightens and looks around at the small, orderly houses lining the streets. They all resemble Judith's house: small brick ranches with tidy lawns. He thinks of Judith in this destabilizing new light with a deep, physical pang, and begins putting one foot in front of another.
+> **原句 1:** "Stunned by the phrase, Paul forgets to exhale a chest full of smoke and bends over, coughing. A woman wearing an unfashionably long skirt walks a wide circle around him; he focuses on the black leather of her low heels, the reassuring sound of an ordinary woman walking. When he recovers, he straightens and looks around at the small, orderly houses lining the streets. They all resemble Judith's house: small brick ranches with tidy lawns. He thinks of Judith in this destabilizing new light with a deep, physical pang, and begins putting one foot in front of another."
 
 **中文理解**：这句话让 Paul 震惊得忘记吐出身子里满腔的烟雾，他弯下腰剧烈地咳嗽。一个穿着不时髦的长裙的女人绕了一个大圈从他身边走过；他盯着她低跟黑皮鞋，盯着一个普通女人走路这令人安心的声音。等他恢复过来，他站直身体，环顾四周排列在街道两旁的整齐小房子。它们都和 Judith 的房子很像：小巧的砖砌平房，整洁的草坪。他以一种令人不安的全新眼光想着 Judith，一阵深刻的身体疼痛涌上来，然后他开始一步一步地往前走。
 
@@ -42,7 +42,7 @@
 
 ### 精读块 2：逻辑重组
 
-> Loosened a little by the forward movement, Paul asks himself if what he's thinking—what he thinks Schuyler is thinking—could really be true. Having known her—calm, steady, and quiet as she was—he can't see the detective's idea as anything but outlandish, even offensive. But he felt it, didn't he? Felt the truth of it in that stifling small office?
+> **原句 2:** "Loosened a little by the forward movement, Paul asks himself if what he's thinking—what he thinks Schuyler is thinking—could really be true. Having known her—calm, steady, and quiet as she was—he can't see the detective's idea as anything but outlandish, even offensive. But he felt it, didn't he? Felt the truth of it in that stifling small office?
 
 **中文理解**：被向前的移动稍微松开了些，Paul 问自己，他正在想的——他觉得 Schuyler 在想的——是否真的可能是真的。他曾经了解她——她曾是如此冷静、沉稳、安静——他无法把侦探的想法看作除了古怪之外的任何东西，甚至觉得受到了冒犯。但他在那间令人窒息的小办公室里感受到了它的真实性，不是吗？感受到了它的真实？
 
@@ -61,7 +61,7 @@
 
 ### 精读块 3：证据的重新解读
 
-> And beyond that, there was evidence—or a lack of it, rather: no stalker in Judith's portraits, no fingerprints on the murder weapon, no sign of her attacker anywhere. And now he knows how psychologically scarred she must have been—and he himself has offered photographic proof of her troubled mind.
+> **原句 3:** "And beyond that, there was evidence—or a lack of it, rather: no stalker in Judith's portraits, no fingerprints on the murder weapon, no sign of her attacker anywhere. And now he knows how psychologically scarred she must have been—and he himself has offered photographic proof of her troubled mind.
 
 **中文理解**：而且除此之外，还有证据——或者更准确地说，证据的缺失：Judith 的肖像照里没有 stalker，凶器上没有指纹，现场没有任何袭击者的痕迹。而且现在他知道她的精神一定受过多么深的创伤——而他自己就提供了她精神状态不佳的照片证据。
 
@@ -77,7 +77,7 @@
 
 ### 精读块 4：自我合理化的起点
 
-> Paul gathers them together quickly and hangs on, despite his own revulsion and resistance: Judith did this to herself.
+> **原句 4:** "Paul gathers them together quickly and hangs on, despite his own revulsion and resistance: Judith did this to herself.
 
 **中文理解**：Paul 迅速把所有的线索收集在一起，抓紧不放，尽管他自己也感到厌恶和抵触：Judith 自己动了手。
 
@@ -95,7 +95,7 @@
 
 ### 精读块 5：理性化推理
 
-> It only makes sense, he thinks, walking now at a furious pace, if Judith's mind were warped enough to make her believe she was being stalked, to see the man over and over again, to hear his words, even feel his touch. Was that possible? And most of all, could her mind have really brought her to the point of stabbing herself? Killing herself?
+> **原句 5:** "It only makes sense, he thinks, walking now at a furious pace, if Judith's mind were warped enough to make her believe she was being stalked, to see the man over and over again, to hear his words, even feel his touch. Was that possible? And most of all, could her mind have really brought her to the point of stabbing herself? Killing herself?
 
 **中文理解**：这唯一说得通，他边想边以疯狂的速度走着，如果 Judith 的精神扭曲到足以让她相信自己在被追踪，一次又一次地看到那个男人，听到他的声音，甚至感觉到他的触碰。这可能吗？最重要的是，她的精神状态真的能把她带到用刀捅自己的地步吗？杀死自己？
 
@@ -114,7 +114,7 @@
 
 ### 精读块 6：功利计算
 
-> My god, if it were true… it would be a stunning draw for the show. He flinches from the thought at first, but as the seconds go by, he begins to understand why it might be not only beneficial but also necessary.
+> **原句 6:** "My god, if it were true… it would be a stunning draw for the show. He flinches from the thought at first, but as the seconds go by, he begins to understand why it might be not only beneficial but also necessary.
 
 **中文理解**：我的上帝，如果这是真的……这将是节目一个惊人的卖点。他先是因这个想法畏缩了一下，但随着时间过去，他开始理解为什么它不仅是有益的，而且是必要的。
 
@@ -131,7 +131,7 @@
 
 ### 精读块 7："公众知情权"的框架
 
-> This is part of Judith's story, after all: Judith the artist, the photographer, the public figure. Posthumously, sure, but that's all the more reason for Paul to broadcast what he's learned. The story of her life doesn't belong to him, or even to Judith anymore. And certainly not to Tom Stanley. All of it, all of her, belongs to the viewing public: art critics, gallerists, and Judith's growing cadre of fans. Even fans like Charlie, yes, he thinks with an internal flinch. They need to approach her work and view it with the full story in mind; it will change how they perceive and critique it, how they place it in the scope of art history. This has nothing to do with Paul, really! He's merely the vessel, the mediator, bringing it all to light for the public good. He has a duty to do it, as her mentor and manager.
+> **原句 7:** "This is part of Judith's story, after all: Judith the artist, the photographer, the public figure. Posthumously, sure, but that's all the more reason for Paul to broadcast what he's learned. The story of her life doesn't belong to him, or even to Judith anymore. And certainly not to Tom Stanley. All of it, all of her, belongs to the viewing public: art critics, gallerists, and Judith's growing cadre of fans. Even fans like Charlie, yes, he thinks with an internal flinch. They need to approach her work and view it with the full story in mind; it will change how they perceive and critique it, how they place it in the scope of art history. This has nothing to do with Paul, really! He's merely the vessel, the mediator, bringing it all to light for the public good. He has a duty to do it, as her mentor and manager.
 
 **中文理解**：这毕竟是 Judith 故事的一部分：Judith 是艺术家、摄影师、公众人物。死后，当然，但正因为如此，Paul 更有理由广播他所知道的一切。她人生的故事不属于他，甚至不属于 Judith 了。当然也不属于 Tom Stanley。所有的一切，Judith 的一切，属于观众：艺术评论家、画廊主，还有 Judith 日益壮大的粉丝群体。甚至像 Charlie 这样的粉丝，是的，他想到这个内心畏缩了一下。他们需要全面了解 Judith 的故事来接近她的作品；这将改变他们感知和评价她的方式，改变他们在艺术史中给她定位的方式。这跟 Paul 真的没有任何关系！他只是一个容器，一个中介，把这一切带给公众。他有义务这样做，作为她的导师和经纪人。
 
@@ -151,7 +151,7 @@
 
 ### 精读块 8：计划——图书馆
 
-> Paul loops back to his car with a determined stride. Tomorrow, he'll visit the library to search for the Somerset Daily Register article; he wants to be able to refer to its specifics while he's writing. Because even if he ends up discarding the suicide theory, he has to use her childhood attack. That alone would alter the narrative around Judith: the woman who survived one attack only to die, years later, in another.
+> **原句 8:** "Paul loops back to his car with a determined stride. Tomorrow, he'll visit the library to search for the Somerset Daily Register article; he wants to be able to refer to its specifics while he's writing. Because even if he ends up discarding the suicide theory, he has to use her childhood attack. That alone would alter the narrative around Judith: the woman who survived one attack only to die, years later, in another.
 
 **中文理解**：Paul 以坚定的步伐绕回他的车。明天，他要去图书馆查阅《萨默塞特每日记事报》的文章；他想在写作时能够引用其中的具体内容。因为即使他最终丢弃了自杀理论，他也必须用上她的童年遇袭。这本身就能改变关于 Judith 的叙事：那个在一次袭击中幸存下来，多年后又在另一次袭击中死去的女人。
 
@@ -169,7 +169,7 @@
 
 ### 精读块 9：Malcolm——心理学权威
 
-> He'll also read any follow-up articles he can find, about the search for her attacker. Schuyler said the man had "vanished," just like Judith's murderer; Paul wants to make sure that's the case, and he wants to glean anything else he can from Judith's hometown rag. Then, he'll run it all by Malcolm. He veers toward the nearest pay phone booth to make his call. He reaches Malcolm's secretary and leaves a message that reads: Please call Paul Sorenson. It's urgent.
+> **原句 9:** "He'll also read any follow-up articles he can find, about the search for her attacker. Schuyler said the man had "vanished," just like Judith's murderer; Paul wants to make sure that's the case, and he wants to glean anything else he can from Judith's hometown rag. Then, he'll run it all by Malcolm. He veers toward the nearest pay phone booth to make his call. He reaches Malcolm's secretary and leaves a message that reads: Please call Paul Sorenson. It's urgent.
 
 **中文理解**：他还要读任何能找到的后续文章，关于寻找她袭击者的文章。Schuyler 说那个男人"消失了"，就像 Judith 的凶手一样；Paul 想确认情况确实如此，而且他想从 Judith 家乡的小报里尽可能挖出其他信息。然后，他会找 Malcolm 把所有这些过一遍。他转向最近的公共电话亭去打电话。他联系上了 Malcolm 的秘书，留了一条留言：请让 Paul Sorenson 回电。有急事。
 

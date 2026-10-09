@@ -1,5 +1,15 @@
 # 44. The Cart
 
+## 本章导航
+
+- **叙事视角**：第三人称，Paul Sorenson——超市经理办公室的脱罪
+- **情节进度**：Paul 在 Harvey 的办公室内接受警员 Prager 的问询。他最大的恐惧——因 Judith Stanley 案被重新牵扯——并未发生：Prager 只负责普通盗窃案，且 Paul 的名字在报道中从未被重点提及。Paul 利用这种 indifference，成功脱身，带着满车赃物离开。
+- **核心事件**：Paul 的双重逃脱——他不仅逃过了超市盗窃的指控，更重要的是，他没有因为 Judith 的死被重新审视。"If he's one kind of criminal, after all, he might be another."这句话暴露了 Paul 内心对自己身份的深刻不确定。
+- **关键人物**：Paul（叙述者，逃脱的掠夺者）、Officer Prager（只负责普通盗窃案的当地警察）、Harvey（超市经理，无力改变结局）
+- **章节主题**：制度的盲点——Prager 对 Paul 身份的判断建立在他"well-dressed middle-class white man"的外表上，而不是任何实质性的怀疑。Paul 利用这种 class bias 成功脱身。
+
+---
+
 ## 精读
 
 Paul 在超市经理 Harvey 的办公室内接受警员 Prager 的问询。他最大的恐惧——因 Judith Stanley 案被重新牵扯——并未发生：Prager 只负责普通盗窃案，且 Paul 的名字在报道中从未被重点提及。Paul 利用这种 indifference，成功脱身，带着满车赃物离开。

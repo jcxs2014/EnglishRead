@@ -21,7 +21,7 @@
 
 ### 精读块 1：fan mail 的慰藉
 
-> Paul slits open the first envelope with his dagger-shaped letter opener and settles into the armchair to read. Margo in Illinois calls Judith's work "disturbing, unladylike, and harmful to the general public." Not exactly a fan letter but it makes him laugh, and laughing feels good. When did he last laugh? Everything has been so serious and intense for days—though it's all going well. Except for Tom. He turns to another letter, quickly: this one from a fellow photographer in Idaho who says Judith's work has been a great inspiration. There are more like this, one after the other, thanking Paul for what he's done. He pours himself a generous glass of whiskey and toasts himself, then takes a burning sip. He's having fun, and he deserves to have fun, doesn't he?
+> **原句 1:** "Paul slits open the first envelope with his dagger-shaped letter opener and settles into the armchair to read. Margo in Illinois calls Judith's work 'disturbing, unladylike, and harmful to the general public.' Not exactly a fan letter but it makes him laugh, and laughing feels good. When did he last laugh? Everything has been so serious and intense for days—though it's all going well. Except for Tom. He turns to another letter, quickly: this one from a fellow photographer in Idaho who says Judith's work has been a great inspiration. There are more like this, one after the other, thanking Paul for what he's done. He pours himself a generous glass of whiskey and toasts himself, then takes a burning sip. He's having fun, and he deserves to have fun, doesn't he?"
 
 **中文理解**：Paul 用那把匕首形的开信刀划开第一封信，坐进扶手椅里读信。伊利诺伊州的 Margo 说 Judith 的作品"令人不安、不够淑女、对公众有害"。算不上粉丝来信，但这让他笑了——笑的感觉真好。他上一次笑是什么时候？这些天一切都太严肃、太紧张了——虽然一切都在往好的方向发展。除了 Tom。他快速转向下一封信：爱达荷州的一位摄影师说 Judith 的作品给了他极大启发。这样的信还有很多，一封接一封，感谢 Paul 所做的一切。他给自己倒了满满一杯威士忌，向自己举杯，然后一饮而尽。他玩得开心，而且他觉得自己值得开心，不是吗？
 
@@ -39,7 +39,7 @@
 
 ### 精读块 2：Eddie 的信
 
-> The next letter is written in a childish hand and signed by someone named Eddie. There's no return address. Eddie asks if Paul knows "who knifed the lady photographer," and if he watched it happen. What did it look like, how did it sound, what did Paul feel? Eddie asks. Suddenly, the whiskey sits like acid in his empty stomach. Paul should have eaten, though he had no appetite—and now he has less. He knows "Eddie" is just some wacko, but he feels guilty somehow—as if he encouraged men like Eddie to write things like this. He didn't, of course; he blames the interviewers, forever asking him about Judith's morbid end. He has no choice but to answer them, does he? To the twisted delight of the Eddies of the world.
+> **原句 2:** "The next letter is written in a childish hand and signed by someone named Eddie. There's no return address. Eddie asks if Paul knows 'who knifed the lady photographer,' and if he watched it happen. What did it look like, how did it sound, what did Paul feel? Eddie asks. Suddenly, the whiskey sits like acid in his empty stomach. Paul should have eaten, though he had no appetite—and now he has less. He knows 'Eddie' is just some wacko, but he feels guilty somehow—as if he encouraged men like Eddie to write things like this. He didn't, of course; he blames the interviewers, forever asking him about Judith's morbid end. He has no choice but to answer them, does he? To the twisted delight of the Eddies of the world."
 
 **中文理解**：下一封信字迹幼稚，署名 Eddie。没有回信地址。Eddie 问 Paul 是否知道"谁刺死了那位女摄影师"，以及他是否目睹了事件发生。看起来是什么样的？听起来是什么样的？Paul 有什么感受？Eddie 问道。突然，威士忌在他空荡荡的胃里像酸一样翻腾。Paul 应该吃点东西的，虽然他没有胃口——现在更不想吃了。他知道"Eddie"只是个疯子，但他莫名感到内疚——仿佛他鼓励了像 Eddie这样的人写这种东西。当然他没有；他怪那些 interviewers，总是没完没了地问 Judith 的惨死。他没有选择，只能回答他们，不是吗？为了让 Eddie 们获得扭曲的快感。
 
@@ -58,17 +58,17 @@
 
 ### 精读块 3：匿名恐吓信
 
-> YOU'RE A FUCKING PARASITE
+> **原句 3:** "YOU'RE A FUCKING PARASITE"
 >
-> LIVING OFF JUDITH'S WORK
+> "LIVING OFF JUDITH'S WORK"
 >
-> I BET YOU'RE GLAD SHE'S DEAD
+> "I BET YOU'RE GLAD SHE'S DEAD"
 >
-> DID YOU KILL HER, PAUL?
+> "DID YOU KILL HER, PAUL?"
 >
-> FUCKING LOWLIFE
+> "FUCKING LOWLIFE"
 >
-> MONSTER
+> "MONSTER"
 
 **中文理解**：你这该死的寄生虫。靠 Judith 的作品过活。我猜你很高兴她死了。你杀了她吗，Paul？该死的卑鄙小人。怪物。
 
@@ -85,7 +85,7 @@
 
 ### 精读块 4：Paul 的内心震荡
 
-> He rereads it several times, just as he reread the last one, though he isn't smiling, isn't pleased, and the paper trembles in his hand. He tells himself this is just another crackpot like Eddie, but it feels different. Worse. He reaches for his whiskey bottle, unscrews the top shakily, and takes a long, hot swallow. As it pools heavily in his stomach, he burps. He lets the letter and envelope drop to the floor instead of tearing them up—he isn't sure why—but then he stares down, compulsively rereading.
+> **原句 4:** "He rereads it several times, just as he reread the last one, though he isn't smiling, isn't pleased, and the paper trembles in his hand. He tells himself this is just another crackpot like Eddie, but it feels different. Worse. He reaches for his whiskey bottle, unscrews the top shakily, and takes a long, hot swallow. As it pools heavily in his stomach, he burps. He lets the letter and envelope drop to the floor instead of tearing them up—he isn't sure why—but then he stares down, compulsively rereading."
 
 **中文理解**：他读了好几遍，就像读上一封信一样，但他没有笑、不开心，手里的纸在颤抖。他告诉自己这不过是另一个像 Eddie 一样的疯子，但感觉不一样。更糟。他伸手去拿威士忌，颤抖着拧开盖子，长长地灌了一口。酒重重地沉入胃里，他打了个嗝。他让信和信封掉在地上而不是撕掉——他不知道为什么——但然后他盯着它们，强迫性地反复读。
 
@@ -103,7 +103,7 @@
 
 ### 精读块 5：寄生虫的自我认知
 
-> The truth is, he is a parasite. What else could he be? Though technically he isn't "living off Judith's work"—the Harper's check still hasn't arrived, and even when it does, it won't give him any great financial boost. But he is profiting from her work in other, less material ways, and he may profit greatly after this gallery show, so… the label will be irrefutable then. He fixates on the word and takes it in, lets it settle inside him. It almost feels good—cathartic, anyway—to let the word parasite attach to him—like a parasite itself. A parasite living off a parasite, he thinks with a dry chuckle. The word pierces the skin of the dream he's been living since the Harper's feature appeared, and for the moment he welcomes it, savors its blunt truth.
+> **原句 5:** "The truth is, he is a parasite. What else could he be? Though technically he isn't 'living off Judith's work'—the Harper's check still hasn't arrived, and even when it does, it won't give him any great financial boost. But he is profiting from her work in other, less material ways, and he may profit greatly after this gallery show, so… the label will be irrefutable then. He fixates on the word and takes it in, lets it settle inside him. It almost feels good—cathartic, anyway—to let the word parasite attach to him—like a parasite itself. A parasite living off a parasite, he thinks with a dry chuckle. The word pierces the skin of the dream he's been living since the Harper's feature appeared, and for the moment he welcomes it, savors its blunt truth."
 
 **中文理解**：事实是，他就是个寄生虫。他还能是什么？虽然严格来说他并没有"靠 Judith 的作品过活"——Harper's 的支票还没到，即使到了也不会给他任何大的经济提升。但他在以其他非物质的方式从她的作品中获利，而这个画廊展之后他可能会赚大钱……所以这个标签到那时将是无可辩驳的。他执着于这个词，接受了它，让它沉淀在内心。这几乎让他感到愉快——至少是种宣泄——让"寄生虫"这个词贴在自己身上——像寄生虫一样靠寄生虫为生，他苦笑着想。这个词刺穿了他自 Harper's 专题报道出现以来一直生活的梦境，那一刻他欢迎它，品味着它赤裸裸的真相。
 
@@ -121,7 +121,7 @@
 
 ### 精读块 6：寻找写信人
 
-> After a long while, he reaches down to pick up the letter with thumb and forefinger, scanning the words, wondering for the first time who wrote them. Certainly a woman; he can almost taste her woman's rage. But what woman? A deranged stranger, or someone he knows? Someone like his student Charlie, maybe. He doesn't believe it is Charlie—not really—but someone like her: drawn to Judith's work and the drama of her death, eager to blame Paul in the absence of anyone more deserving of blame. The writer is frustratingly unaware, too, of her own hypocrisy—because she would never have known about Judith without Paul. And she'd never have had the opportunity to hate him, then.
+> **原句 6:** "After a long while, he reaches down to pick up the letter with thumb and forefinger, scanning the words, wondering for the first time who wrote them. Certainly a woman; he can almost taste her woman's rage. But what woman? A deranged stranger, or someone he knows? Someone like his student Charlie, maybe. He doesn't believe it is Charlie—not really—but someone like her: drawn to Judith's work and the drama of her death, eager to blame Paul in the absence of anyone more deserving of blame. The writer is frustratingly unaware, too, of her own hypocrisy—because she would never have known about Judith without Paul. And she'd never have had the opportunity to hate him, then."
 
 **中文理解**：过了很久，他用拇指和食指捡起那封信，扫视着那些字，第一次想知道是谁写的。肯定是个女人；他几乎能尝到她的愤怒。但哪个女人？一个疯狂陌生人，还是他认识的人？也许像他的学生 Charlie 那样的人。他不相信是 Charlie——真的不信——但像她那样的人：被 Judith 的作品和她死亡的戏剧性所吸引，在没有更值得责备的人时，迫切地要责备 Paul。写信人还令人恼火地没有意识到她自己的虚伪——因为没有 Paul，她永远不会知道 Judith。而她也永远不会有机会恨他。
 
@@ -139,7 +139,7 @@
 
 ### 精读块 7：渴望更多
 
-> He wonders if she's written more. He returns to the pile, recoiling from the thought of finding another but still sifting through the letters quickly, almost eagerly. Finally, he dumps them all on the floor and gets on his knees to survey them. After a few minutes, he's certain: there are no other envelopes addressed to him in block letters with a missing return address. He should be relieved—and he is, to some degree. But he also wants more. More information, he tells himself, so he can figure out who this epistolary enemy might be. But he also craves more nastiness and hurt: the delicious pinch of real feeling at a time when his life often feels unreal. Wonderful, but sometimes unbelievable. Fucking parasite, though, he can easily believe.
+> **原句 7:** "He wonders if she's written more. He returns to the pile, recoiling from the thought of finding another but still sifting through the letters quickly, almost eagerly. Finally, he dumps them all on the floor and gets on his knees to survey them. After a few minutes, he's certain: there are no other envelopes addressed to him in block letters with a missing return address. He should be relieved—and he is, to some degree. But he also wants more. More information, he tells himself, so he can figure out who this epistolary enemy might be. But he also craves more nastiness and hurt: the delicious pinch of real feeling at a time when his life often feels unreal. Wonderful, but sometimes unbelievable. Fucking parasite, though, he can easily believe."
 
 **中文理解**：他想知道她是否还写了更多。他回到那堆信里，一边想着要是再发现一封就退缩，一边还是快速地、几乎是急切地翻找。最后他把它们全倒在地板上，跪下来审视。几分钟后，他确定：没有其他用印刷体写着他的名字、没有回信地址的信封了。他应该松一口气——某种程度上他也是。但他同时也想要更多。他告诉自己：更多信息，这样他就能搞清楚这个写信的敌人是谁。但他也渴望更多的恶意和伤害：在他的生活常常感觉不真实的时候，那种真实感受的美妙刺痛。太好了，但有时难以置信。而"该死的寄生虫"，他却能轻易相信。
 

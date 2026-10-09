@@ -1,5 +1,15 @@
 # 18. The Camera
 
+## 本章导航
+
+- **叙事视角**：第一人称，Judith Stanley——黑暗房间里的发现与恐惧升级
+- **情节进度**：Judith 在冲洗的自拍照中发现跟踪者——他出现在 Cadillac 后视镜那张照片里，渺小却无法抹除。她取出一把生锈的折叠刀（Tom Junior 的 Boy Scouts 装备）随身携带，再次接到无声电话，听到熟悉的浅呼吸声。
+- **核心事件**：Judith 决定带刀出门——"If he comes at me again, if he nears me or touches me, I'll give him this blade in the chest, neck, arm, face—whatever's closest." 结尾电话响起，无声呼吸声传来，Judith 握着刀柄听着。
+- **关键人物**：Judith（叙述者）、The man（跟踪者，出现在照片背景中）、Tom Junior（Judith 的儿子，刀的原主人）
+- **章节主题**：武器化与监控的循环——相机曾是她观看的工具，如今刀成为防御的依靠。照片中无法抹除的身影与电话中的呼吸声形成双重监控——他无处不在，而 Judith 正在学会反击。
+
+---
+
 ## 精读
 
 Judith 在冲洗的自拍照中发现跟踪者——他出现在 Cadillac 后视镜那张照片里，渺小却无法抹除。她取出一把生锈的折叠刀随身携带，再次接到无声电话，听到熟悉的浅呼吸声。本章以"刀"与"镜头"两个意象贯穿：相机曾是她观看的工具，如今刀成为她防御的依靠。

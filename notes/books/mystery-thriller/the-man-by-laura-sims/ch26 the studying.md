@@ -1,5 +1,15 @@
 # 26. The Studying
 
+## 本章导航
+
+- **叙事视角**：第一人称，Judith Stanley——课堂上的评价与师生之间的权力张力
+- **情节进度**：Paul 在摄影课上翻看 Judith 的室内场景与静物照片——而非她标志性的自拍像。Paul 给予好评但话中有话：暗示她"刻意回避自拍"，并催促她"回城里"继续发展。Judith 感受到 Paul 深陷于她的照片之中，甚至可以无视她的存在。
+- **核心事件**：Paul 的话只说了一半——"But I didn't actually miss them. I mean, I did miss them, I love your self-portraits, but…"这句未竟的话悬在空中，暗示 Judith 应该继续自拍，但又存在某种危险。Judith 感受到他正在审视她说谎时紧握的双手。
+- **关键人物**：Judith（叙述者）、Paul（摄影老师，似乎将 Judith 的照片看得比 Judith 本人更重要）
+- **章节主题**：师生权力关系与摄影的占有——Paul 翻看 Judith 照片时"不需要她在场"，他与照片的 communion 比与 Judith 本人的互动更重要。这种权力不对称贯穿全书。
+
+---
+
 ## 精读
 
 Paul 在摄影课上翻看 Judith 的作品集——一组室内场景与静物照片，而非她标志性的自拍像。Paul 给予好评，但话中有话：他说 Judith"刻意回避自拍"，并暗示她应该"回城里"继续发展，似乎话只说了一半。Judith 感受到 Paul 深陷于她的照片之中、甚至可以无视她的存在，同时察觉 Paul 正在审视她说谎时紧握的双手。两人之间微妙的权力张力在本章达到新的层次——Paul 手握评价权，却似乎将 Judith 的照片看得比 Judith 本人更重要。

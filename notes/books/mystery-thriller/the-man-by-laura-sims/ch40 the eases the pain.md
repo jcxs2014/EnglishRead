@@ -1,5 +1,15 @@
 # 40. The Eases the Pain
 
+## 本章导航
+
+- **叙事视角**：第一人称，Judith Stanley——停车场的最终 confrontation
+- **情节进度**：Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿全书追踪她的身影。她用藏在包里的刀刺向攻击者，但最终倒在血泊中。Paul 从学校出来开车离去，未能发现倒在地上的 Judith。停车场的灯光逐一熄灭，黑暗最终吞没一切。
+- **核心事件**：刀刺向追踪者——Judith 终于反击了。她stabbed him, lightly at first, then deeper。但当她倒下时，她无法分辨血是她自己的、他的、还是混合的。"Is it his blood, or mine? Or both of ours, mixed together?"
+- **关键人物**：Judith（叙述者，Part I 的终结）、The man（追踪者，被刺伤后消失）、Paul（从学校出来，未发现 Judith）、Tom（Judith 等待的人，还在赶来途中）
+- **章节主题**：Part I 的终结——这是 Judith 作为叙述者的最后一章。她终于反击，但最终倒在停车场。灯光熄灭，疼痛消逝，黑暗成为最终的避难所。Tom 还在等待，而 Judith 已经永远沉默了。
+
+---
+
 ## 精读
 
 Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿全书追踪她的身影。她用藏在包里的刀刺向攻击者，但最终倒在血泊中。Paul 从学校出来开车离去，未能发现倒在地上的 Judith。停车场的灯光逐一熄灭，黑暗最终吞没一切——疼痛，连同旧日创伤，一同消逝在死亡的平静中。Part I 终。

@@ -1,5 +1,15 @@
 # 27. The Goodbye
 
+## 本章导航
+
+- **叙事视角**：第一人称，Judith Stanley——一周的停滞与保罗的再次催促
+- **情节进度**：Paul 讲授街头摄影师课程，Judith 已有一周多未碰相机——它被收进浴室柜。清晨醒来时空虚感汹涌而至，她成了"Mrs. Judith Stanley, mother and housewife"。Paul 当众注视她，课后单独问她是否参加下周五的 field trip，说出"mainly happy we're going for you"。Judith 点头应允。
+- **核心事件**：相机与男人的双重缺席——Judith 失去了摄影的欲望，也有一周多未见那个男人。但空虚感恰恰来自这两者的消失：她是摄影师，没有相机她什么都不是；她是受害者，没有跟踪者她失去了另一种身份确认。
+- **关键人物**：Judith（叙述者，一周未拍照）、Paul（催促她回城拍照）、Charlie（给 Judith 支持性微笑的同学）
+- **章节主题**：身份的空心化——当相机和跟踪者都消失时，Judith 面对的是空洞的自我。"Mrs. Judith Stanley, mother and housewife—that's all"是她最害怕的身份，也是她正在滑向的深渊。
+
+---
+
 ## 精读
 
 Paul 讲授街头摄影师课程，暗示纽约之行。Judith 已有一周多未碰相机——它被收进浴室柜，连同那个男人的声音一起被隔绝。但空虚感在清晨醒来时汹涌而至：她成了"Mrs. Judith Stanley, mother and housewife"。Paul 当众注视她，课后单独问她是否参加下周五的 field trip，最终说出"mainly happy we're going for you"。Judith 在"goodbye"中点头应允——这是她对摄影的告别，还是对保罗的投降？

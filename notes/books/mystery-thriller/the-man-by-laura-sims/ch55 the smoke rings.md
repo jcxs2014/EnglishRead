@@ -21,7 +21,7 @@
 
 ### 精读块 1：电话与双 Tom
 
-> "It's happening," Paul says into the telephone. Thankfully, both Toms are on the other end of the line—so the younger Tom can nudge the elder in the right direction, on hearing Paul's news. "The art editor at Harper's wants all twenty of her pictures—all the ones I showed you, Tom." There is a long silence on the other end before TJ speaks.
+> **原句 1:** "It's happening," Paul says into the telephone. Thankfully, both Toms are on the other end of the line—so the younger Tom can nudge the elder in the right direction, on hearing Paul's news. "The art editor at Harper's wants all twenty of her pictures—all the ones I showed you, Tom." There's a long silence on the other end before TJ speaks.
 
 **中文理解**："正在发生，"Paul 在电话里说。幸运的是，两个 Tom 都在电话另一端——这样 younger Tom 听到 Paul 的消息后，可以把 elder Tom 引向正确方向。"Harper's 的艺术编辑想要她的全部二十张照片——就是给你看过的那些，Tom。"对方沉默了很长时间，TJ 开口前是一片长久的沉默。
 
@@ -38,7 +38,7 @@
 
 ### 精读块 2：不可逆的布局
 
-> "I'm sorry, Tom, but I've had to leave them at Harper's. I wasn't expecting to, but they need them. The issue will come out in about a month, so they are ramping up production." He says this to make it true, to make it impossible for Tom Senior to say he won't let it happen. But he doesn't want TJ to see the pictures anyway, just in case he reacts the same way his father did.
+> **原句 2:** "I'm sorry, Tom, but I've had to leave them at Harper's. I wasn't expecting to, but they need them. The issue will come out in about a month, so they're ramping up production." He says this to make it true, to make it impossible for Tom Senior to say he won't let it happen. But he doesn't want TJ to see the pictures anyway, just in case he reacts the same way his father did.
 
 **中文理解**："对不起，Tom，但我不得不把照片留在 Harper's 了。我没打算这么做，但他们需要。杂志大约一个月后就出，所以他们正在加速生产。"他这么说是为了让这件事成真，为了让 Tom Senior 不可能说"他不会让这事发生"。但他反正也不想让 TJ 看到照片，以防他和他父亲一样的反应。
 
@@ -55,7 +55,8 @@
 
 ### 精读块 3：TJ 的信任与 Paul's 的感激
 
-> "I want TJ to see them before the issue comes out," Senior says, gruffly. "I know, Tom, and I'm sorry about this. I wish I could—" "Dad," TJ interjects. "It's okay. Really. I trust Paul, and I trust you, too. You've seen them. You've approved them. I'm sure they're all right. I'm not exactly an art expert, anyway." He chuckles, and Paul joins him. He's so grateful for this easy, pleasing man, he could cry.
+> **原句 3:** "I want TJ to see them before the issue comes out," Senior says, gruffly. "I know, Tom, and I'm sorry about this. I wish I could—"
+> "Dad," TJ interjects. "It's okay. Really. I trust Paul, and I trust you, too. You've seen them. You've approved them. I'm sure they're all right. I'm not exactly an art expert, anyway." He chuckles, and Paul joins him. He's so grateful for this easy, pleasing man, he could cry.
 
 **中文理解**："我希望 TJ 在杂志出版前看到它们，"Senior 生硬地说。"我知道，Tom，对不起。我希望我能——""爸，"TJ 插嘴。"没关系。真的。我信任 Paul，也信任你。你看过了。你也批准了。我肯定没问题。反正我也不是什么艺术专家。"他轻声笑了笑，Paul 也跟着笑。他如此感激这个随和、讨人喜欢的人，感动得想哭。
 
@@ -72,7 +73,7 @@
 
 ### 精读块 4：Magic Words
 
-> He's so grateful for this easy, pleasing man, he could cry. He's grateful, too, to have heard Tom Senior say a string of magic words: before the issue comes out. He isn't putting himself in the way, even though he's displeased. He's accepting it, allowing it all to happen.
+> **原句 4:** He's so grateful for this easy, pleasing man, he could cry. He's grateful, too, to have heard Tom Senior say a string of magic words: before the issue comes out. He isn't putting himself in the way, even though he's displeased. He's accepting it, allowing it all to happen.
 
 **中文理解**：他如此感激这个随和、讨人喜欢的人，感动得想哭。他也感激听到 Tom Senior 说出一串魔法词：在杂志出版之前。他没有阻拦，即使他不满。他在接受，在允许这一切发生。
 
@@ -89,7 +90,7 @@
 
 ### 精读块 5：$1,000 与 30/70 分成
 
-> Both men seem uncomfortable at the mention of money and the contract, but there's no outburst of anger, no denial or refusal. They're accepting it; they're going with the flow.
+> **原句 5:** Both men seem uncomfortable at the mention of money and the contract, but there's no outburst of anger, no denial or refusal. They're accepting it; they're going with the flow.
 
 **中文理解**：两个人对金钱和合同的提及都显得不安，但没有爆发出愤怒，没有拒绝。他们在接受；他们在随波逐流。
 
@@ -105,7 +106,7 @@
 
 ### 精读块 6：Judith 的遗愿与谎言的实体化
 
-> "She really said that to you? She really said she wanted this?" Tom Senior speaks right into the phone, right into Paul's ear. Paul pulls the receiver slightly away for some distance. He clears his throat. "Yes, Tom," he says firmly. "This is exactly what she wanted." The lie has become so real to him, so true, that the scene unfolds easily in his mind: Judith approaching in her quiet way, requesting his help. She is wearing her long, camel-colored coat with a soft blue scarf, her brown hair done up in a tidy bun. She looks serious, a bit scared. Paul smiles and claps his hands together when she tells him what she wants—which is also what he wants. They're in total agreement.
+> **原句 6:** "She really said that to you? She really said she wanted this?" Tom Senior speaks right into the phone, right into Paul's ear. Paul pulls the receiver slightly away for some distance. He clears his throat. "Yes, Tom," he says firmly. "This is exactly what she wanted." The lie has become so real to him, so true, that the scene unfolds easily in his mind: Judith approaching in her quiet way, requesting his help. She's wearing her long, camel-colored coat with a soft blue scarf, her brown hair done up in a tidy bun. She looks serious, a bit scared. Paul smiles and claps his hands together when she tells him what she wants—which is also what he wants. They're in total agreement.
 
 **中文理解**："她真的对你这么说了？她真的说她想要这样？"Tom Senior 贴近电话说，贴近 Paul's 耳边。Paul 把听筒稍微拉开一点距离。他清了清嗓子。"是的，Tom，"他坚定地说。"这正是她想要的。"这个谎言对他来说已经变得如此真实，如此真实，以至于这个场景在他脑海中轻松展开：Judith 以她安静的方式走近，请求他的帮助。她穿着她的长骆驼色大衣，围着柔软的蓝色围巾，棕色头发扎成整齐的发髻。她看起来严肃，有点害怕。当她告诉他她想要什么——这也是他想要的——Paul 微笑着双手合十。他们完全一致。
 
@@ -122,7 +123,7 @@
 
 ### 精读块 7：双重胜利与烟圈
 
-> "All right," Tom Senior says, dispelling the joyful imaginary scene, and then Paul knows he's done it—he's won. He doesn't push it by adding the news that he's writing the introduction—it might complicate things; Tom Senior will surely have issues with anything and everything he writes. Instead, he thanks them both and tells them he'll stay in close contact, though he hopes to keep his distance from now on. When he hangs up, he blows smoke rings in the air for a long while, luxuriating in the solid double triumphs of the day: winning Marty over, and then locking down the Stanley men.
+> **原句 7:** "All right," Tom Senior says, dispelling the joyful imaginary scene, and then Paul knows he's done it—he's won. He doesn't push it by adding the news that he's writing the introduction—it might complicate things; Tom Senior will surely have issues with anything and everything he writes. Instead, he thanks them both and tells them he'll stay in close contact, though he hopes to keep his distance from now on. When he hangs up, he blows smoke rings in the air for a long while, luxuriating in the solid double triumphs of the day: winning Marty over, and then locking down the Stanley men.
 
 **中文理解**："好吧，"Tom Senior 说，驱散了那个愉快的想象场景，然后 Paul 知道他做到了——他赢了。他没有追加"他要写引言"的消息来节外生枝——可能会让事情复杂化；Tom Senior 肯定对他写的任何东西都会有意见。相反，他感谢他们俩，告诉他们他会保持密切联系，虽然他希望从现在开始保持距离。当他挂断电话，他长时间地向空中吐出烟圈，沉浸在今天坚实的双重胜利中：让 Marty 就范，然后锁定了 Stanley 男人。
 

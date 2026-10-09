@@ -1,5 +1,15 @@
 # 20. The Lock
 
+## 本章导航
+
+- **叙事视角**：第一人称，Judith Stanley——课后与 Paul 的私密对峙与回家途中的恐惧
+- **情节进度**：Paul 为不当众展示 Judith 照片道歉，试探她是否"enjoyed"被观看。Judith 意外触发厨房创伤记忆（"You enjoyed that, didn't you? You little slut"），但 Paul 的温和让她确信他不可能是那个人。她开车回家，在邻居灌木丛的动静中惊惶奔入家门。
+- **核心事件**：锁门作为全章句点——"the sound of the front door closing, the lock sliding into place"。城市释放她也暴露她，家门隔绝危险也囚禁她。
+- **关键人物**：Judith（叙述者）、Paul（道歉者，但他的"Did you enjoy it?"触发创伤闪回）、Tom（在门口等 Judith）
+- **章节主题**：锁的二元性——门锁既是安全的象征也是囚禁的隐喻。Judith 在城市与家庭之间来回拉扯，而创伤记忆在任何亲密时刻都可能被触发。
+
+---
+
 ## 精读
 
 Judith 在 Paul's 摄影课后与 Paul 单独对峙：Paul 为不经同意展示她照片道歉，并试探她是否"enjoyed"被观看。Judith 意外触发高中厨房被袭的创伤记忆，但 Paul 的温和让她确信"he couldn't have"。她开车回家，在邻居灌木丛的动静中惊惶奔入家门，以锁上门的声音——"the lock sliding into place"——作为全章句点。锁是贯穿全书的符号：城市释放她也暴露她，家门隔绝危险也囚禁她。

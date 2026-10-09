@@ -1,5 +1,15 @@
 # 41. The Last Night
 
+## 本章导航
+
+- **叙事视角**：第三人称，Paul Sorenson——Judith 死后八周，登门拜访 Tom
+- **情节进度**：Judith 死后八周，Paul 登门拜访 Tom，在 Stanley 家蓝色客厅里编造谎言：声称 Judith 死前最后一夜曾请求他帮忙出版摄影作品。Tom 面带警惕与悲伤，对 Paul 的谎言将信将疑。Paul 的掌心在裤子上出汗，但语调平稳。
+- **核心事件**：Paul 的核心动机揭晓——他相信 Judith 的照片是"天才之作"，而 Tom 无权让它们沉睡在储藏室里。他想成为 Judith 作品的"管理者"和"推广者"，这既是真实的欣赏，也是自私的占有欲。
+- **关键人物**：Paul（叙述者，觊觎 Judith 作品的摄影师）、Tom Stanley（丧妻之痛中的鳏夫）、Judith Stanley（被提及/回忆，Paul 眼中的"真正的天才"）
+- **章节主题**：掠夺者的自我辩护——Paul 用对 Judith 的"义务"来包装自己的占有欲。"When the time comes, he finds it remarkably easy to lie." 全章第一句即定性：他是一个说谎高手。
+
+---
+
 ## 精读
 
 Judith 死后八周，Paul 登门拜访 Tom，在 Stanley 家蓝色客厅里编造谎言：声称 Judith 死前最后一夜曾请求他帮忙出版摄影作品。Paul 的核心动机是觊觎 Judith 的照片——他相信那是天才之作，而 Tom 无权让它们沉睡在储藏室里。全章是 Paul 的独角戏，通过他的回忆与自我辩护，揭示一个失败者如何将自己的执念包装成对亡者的义务。

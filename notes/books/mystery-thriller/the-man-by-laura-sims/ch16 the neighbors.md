@@ -1,5 +1,15 @@
 # 16.
 
+## 本章导航
+
+- **叙事视角**：第一人称，Judith Stanley——纽约街头摄影师身份的确立与崩溃
+- **情节进度**：Judith 只身乘火车赴纽约，以摄影师身份游走城市街头。她贪婪地拍摄陌生人——通勤者、无家可归的家庭、亲吻的恋人、哭泣的孩童。当她试图在橱窗镜面中自拍时，对跟踪者的恐惧袭来，她调整构图试图限制背景中的空间。
+- **核心事件**：在中央公园附近，Judith 拍摄了一个脏脸哭泣的小女孩，被其祖母追赶驱逐。惊魂未定之际，她在人行横道被一名男子抓住手臂，对方贴近耳畔说出"Judith, you're a selfish fucking bitch"——最恐怖的是：他知道她的名字。疼痛发作后她蹲在百货公司门前，一位陌生男子询问她是否需要帮助，她拒绝后继续走向车站，最终乘火车回家。
+- **关键人物**：Judith（叙述者）、Tom（丈夫，不知道 Judith 今日的遭遇）、Paul（摄影老师，"Shoot! Shoot! Shoot!"成为 Judith 的内心指令）、The man（跟踪者，知道 Judith 的名字，声音"masculine, ageless, smooth"）、小女孩与祖母（触发 Judith 与 Parade Girl 的联想）
+- **章节主题**：城市作为释放与危险的双重空间——Paul 的教导"Shoot! Shoot! Shoot!"让 Judith 在城市中获得了解放，但跟踪者知道她名字的事实打破了所有安全感。她对家的渴望（"freshly vacuumed carpet"、"family photographs"、"curtains to pull across windows"）与城市形成对照——家才是唯一的避难所。
+
+---
+
 ## 精读
 
 Judith 只身乘火车赴纽约，以摄影师身份游走城市街头。她贪婪地拍摄陌生人——通勤者、无家可归的家庭、亲吻的恋人、哭泣的孩童。然而当她试图在橱窗镜面中自拍时，对那个男人的恐惧重新袭来：她担心他就在身后。她调整构图、限制背景，试图" outmaneuver him"。在中央公园附近，她拍摄了一个脏脸哭泣的小女孩，被其祖母追赶驱逐。惊魂未定之际，她在人行横道被一名男子抓住手臂，对方贴近她耳畔说出"Judith, you're a selfish fucking bitch"——这是全章最恐怖的时刻：他知道她的名字。疼痛发作，她蹲在一家百货公司门前，之后一位陌生男子询问她是否需要帮助，她拒绝后继续走向车站，最终乘火车回家。回家路上的她只想看到"freshly vacuumed carpet""family photographs""curtains to pull across windows"——家的意象成为情感避难所。

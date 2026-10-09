@@ -1,5 +1,15 @@
 # 37. The Thank You
 
+## 本章导航
+
+- **叙事视角**：第一人称，Judith Stanley——创伤后的短暂安宁
+- **情节进度**：Judith 与 Tom 共进晚餐。炖菜温热，灯光柔和，Tom 的陪伴让她感到安全。创伤记忆（窗外那张被蹂躏的脸、假 Rosie 的追赶、藏起受伤双手的屈辱）已变得遥远而不真实。她自称"新的 Judith"——包扎着双手，安宁地享用食物。Tom 夸赞"Delicious, Judy"，她轻声回答"Thank you"。
+- **核心事件**：创伤的暂时隔膜——"I can understand that it happened, but I can no longer feel it." Judith 在家庭的安全感中短暂地从创伤中分离出来。这是她的生存机制：在最黑暗的时刻之后，她需要相信黑暗已经过去。
+- **关键人物**：Judith（叙述者，"新的 Judith"）、Tom（安静的陪伴者）
+- **章节主题**：短暂的平静——这章是 Part I 结束前的短暂喘息。Judith 与 Tom 的晚餐是全书最接近"正常婚姻"想象的时刻，但读者知道这只是暴风雨前的宁静。
+
+---
+
 ## 精读
 
 Judith 与 Tom 共进晚餐。炖菜温热，灯光柔和，Tom 的陪伴让她感到安全。创伤记忆（窗外那张被蹂躏的脸、那条假 Rosie 的追赶、藏起受伤双手的屈辱）已变得遥远而不真实。她自称"新的 Judith"——包扎着双手，安宁地享用食物。Tom 夸赞"Delicious, Judy"，她轻声回答"Thank you"。
