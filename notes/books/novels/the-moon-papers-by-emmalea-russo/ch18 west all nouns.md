@@ -37,7 +37,7 @@ POV: "Dean Konig（第三人称限知，加州 High Desert）"
 
 **关键词**：startlingly、uninhabited、unencumbered、boon
 
-**为什么这样写**：排成 "a perfect row" 的人是本节第一批被摆成形状的东西，而 Dean 的判断分三问给出：运气、基因、离群索居的报酬——前两问是可核查的解释，第三问 "inhabiting the uninhabited" 用同词根把"居住"与"无人"焊在一起，是全节最紧的一处措辞。随后 "not a boon at all, but a loss" 把前面所有关于健康的观察一次翻面，而他身体的反应先于结论到达（"His chest tightened"）。"the only family he'd ever known" 夹在一个分词结构里、只有五个词，是本节最短的一次交底；紧接着他玩的这个游戏，正是用来检验这种"家庭"的：把一个人换算成一个词。
+**为什么这样写**：排成 "a perfect row" 的人是本节第一批被摆成形状的东西，而 Dean 的判断分三问给出：运气、基因、离群索居的报酬——前两问是可核查的解释，第三问 "inhabiting the uninhabited" 用同词根把"居住"与"无人"焊在一起，是全节最紧的一处措辞。随后 "not a boon at all, but a loss" 把前面所有关于健康的观察一次翻面，而他身体的反应先于结论到达（"His chest tightened"）。"the only family" 这一短语夹在一个分词结构里、只有三个词，是本节最短的一次交底；紧接着他玩的这个游戏，正是用来检验这种"家庭"的：把一个人换算成一个词。
 
 **读者视角提示**：注意游戏的规则被写成第二人称（"when you looked at a person"）——本节让 Dean 用一条通用规则来说服自己他接下来的判断不是私怨。
 

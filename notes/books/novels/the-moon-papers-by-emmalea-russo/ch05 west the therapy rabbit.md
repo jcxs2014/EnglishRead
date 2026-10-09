@@ -37,7 +37,7 @@ POV: "Dean Konig（第三人称限知，加州 Mojave 沙漠 CCC 工作间内 Bi
 
 **关键词**：seven months、acquired、animated、lifeless、westward
 
-**为什么这样写**：He animated Binky 是全节最冷的一行——animate 的宾语是她那只 lifeless 的手，动词把"使有生命者活动"用在没有生命迹象的身体上；本节此后每一次 Binky 看似"回应"的时刻，都要按这一句来读。"this child" 被破折号插在 project 之后，项目和婴儿在同一句法位上互换，紧接着 Dean did not know much about...its fate and future 又把知情范围划得极窄：集体内部也有人不知道自己在做什么，本节不解释这算不算失职。末句的 westward 是唯一的方向标，凉风从敞开的窗往西走，而这一节本身就是西线。
+**为什么这样写**：He animated Binky 是全节最冷的一行——animate 的宾语是她那只 lifeless 的手，动词把"使有生命者活动"用在没有生命迹象的身体上；本节此后每一次 Binky 看似"回应"的时刻，都要按这一句来读。"this child" 被破折号插在 project 之后，项目和婴儿在同一句法位上互换，紧接着 Dean did not know much about the project—this child—its fate and future 又把知情范围划得极窄：集体内部也有人不知道自己在做什么，本节不解释这算不算失职。末句的 westward 是唯一的方向标，凉风从敞开的窗往西走，而这一节本身就是西线。
 
 **读者视角提示**：acquired（取得）用在孩子身上，本节不会再用别的词替换它；后文宣传材料里那两个名词（孵化器、容器）是同一条语法的延伸。
 
@@ -61,7 +61,7 @@ POV: "Dean Konig（第三人称限知，加州 Mojave 沙漠 CCC 工作间内 Bi
 
 **关键词**：voluntarily、pioneering、incubator、vessel、reluctantly
 
-**为什么这样写**：framed these VCs... as vacations 与 log off 是同一套宣传语，本节先让叙述原样模仿它一遍，再用 But now, things were different 一句拆掉。incubator 与 vessel 一个来自工业、一个来自宗教语域，并列在 the special children of the future 之前，中间不加任何评论——这是本节对项目最直的判词写法：把两个不相容的名词挨着放，让读者自己听见摩擦。最后一句把 Dean 的立场钉死：他既不是发起人也不是反对者，只是勉强点头的人；本节稍后还有一个他在病床边摸口袋里那只手机的动作，两种不忠诚出同一个人。
+**为什么这样写**：framed these VCs (voluntary comas) as vacations 与 log off 是同一套宣传语，本节先让叙述原样模仿它一遍，再用 But now, things were different 一句拆掉。incubator 与 vessel 一个来自工业、一个来自宗教语域，并列在 the special children of the future 之前，中间不加任何评论——这是本节对项目最直的判词写法：把两个不相容的名词挨着放，让读者自己听见摩擦。最后一句把 Dean 的立场钉死：他既不是发起人也不是反对者，只是勉强点头的人；本节稍后还有一个他在病床边摸口袋里那只手机的动作，两种不忠诚出同一个人。
 
 **读者视角提示**：It was a great art project. Great in the true sense of the word. 这两句的重复是自辩式的；本节没有给出"现在是不是还伟大"，只写了"现在不同了"。
 
@@ -85,7 +85,7 @@ POV: "Dean Konig（第三人称限知，加州 Mojave 沙漠 CCC 工作间内 Bi
 
 **关键词**：interviewing、screening、scripted、transcript、calling the shots
 
-**为什么这样写**：这是一段对着昏迷者讲的回忆，所以它一边叙述一边向 Binky 提问（Do I have a boss, Binky?），再把答案推给上帝：God's existence doesn't depend on us seeing him 与"某个隐形的高层力量给的稿子"是同构的两句话，本节不区分神与雇主。审查关系的倒转被写得极具体——原本该是我面试她，她倒问起我来了，而旁听的 Collective 因此第一次显形为"在墙那边听的人"。她那句反问 How do you know? 是整节的重心：Dean 承认自己答不上来，并用 I didn't. I don't. 的时态变化把当年那次会面一直拖到今天；紧接的一句反问 And we weren't almost done, were we? 让读者明白，那场所谓"筛查"从未结束。
+**为什么这样写**：这是一段对着昏迷者讲的回忆，所以它一边叙述一边向 Binky 提问（Do I have a boss, Binky?），再把答案推给上帝：God’s existence doesn’t depend on us seeing him 与"某个隐形的高层力量给的稿子"是同构的两句话，本节不区分神与雇主。审查关系的倒转被写得极具体——原本该是我面试她，她倒问起我来了，而旁听的 Collective 因此第一次显形为"在墙那边听的人"。她那句反问 How do you know? 是整节的重心：Dean 承认自己答不上来，并用 I didn’t. I don’t. 的时态变化把当年那次会面一直拖到今天；紧接的一句反问 And we weren’t almost done, were we? 让读者明白，那场所谓"筛查"从未结束。
 
 **读者视角提示**：这段回忆一次性交代了 Lars 与 Vesta 已结婚、她当时十八岁、Lars 年长许多、外祖母临终在即——全部出自 Dean 一个人的转述，本书后面若展开这些，须另章取证。
 
@@ -97,7 +97,7 @@ POV: "Dean Konig（第三人称限知，加州 Mojave 沙漠 CCC 工作间内 Bi
 
 **关键词**：muscular、faux-fur、graduate student、thesis、two hops
 
-**为什么这样写**：新人物先以坐姿出现在角落，权限由叙述用 they'd allowed 给出——不是他自己闯进来的，是集体放行的（本节稍后的对话里他说钥匙是 Liza 给的）。for months 只给时长不给起点。最后一句把兔子写成第三个有否决权的在场者：she took two hops toward him, then paused——接近之后停下，本节此后每一场对话都发生在这种"凑近—收住"的节奏里，包括 Dean 自己对 Bryan 的态度。
+**为什么这样写**：新人物先以坐姿出现在角落，权限由叙述用 they’d allowed 给出——不是他自己闯进来的，是集体放行的（本节稍后的对话里他说钥匙是 Liza 给的）。for months 只给时长不给起点。最后一句把兔子写成第三个有否决权的在场者：she took two hops toward him, then paused——接近之后停下，本节此后每一场对话都发生在这种"凑近—收住"的节奏里，包括 Dean 自己对 Bryan 的态度。
 
 **读者视角提示**：Bryan 是本章唯一被写明"在研究 CCC"的外部人；他的论文题目他后面会说还没定，别替他定。
 

@@ -27,7 +27,7 @@ POV: "Radko Toth（第三人称限知，东线，记忆与当下叠印，Pennsyl
 
 **为什么这样写**：全章第一句就把"去 Velour 家"和"与 Chloe 的甜短信"叠在同一趟车上；第三句 "And no more furniture. Promise," 悬着代词不落地，直到 "Radko's wife" 出现才收网——作者逼读者像 Radko 一样在几位女性之间辨认方向。`even though she hadn't said it` 立起这段婚姻的运转方式：要紧的事不说破也能互相知道。这正好是 Radko 对 Vesta 那份没说出口的感情的镜像——他能察觉妻子的沉默，却在整个本章里一再误读 Vesta。末句 `And he loved her for that` 只用四个词收束一段心理，爱在这里是有"for that"的记账式回报。
 
-**读者视角提示**：记住 Velour 是 Vesta 的母亲——本节主角一开头就朝着"离 Vesta 最近的地址"行驶；而"no more furniture"的承诺，会在章末被一只脚凳无声地作废。
+**读者视角提示**：记住 Velour 是 Vesta 的母亲——本节主角一开头就朝着"离 Vesta 最近的地址"行驶；而那句关于"no more furniture"的叮嘱，会在章末遇上一只真正搬进他卡车里的脚凳。
 
 ---
 
@@ -85,7 +85,7 @@ POV: "Radko Toth（第三人称限知，东线，记忆与当下叠印，Pennsyl
 
 **关键词**：fetal position、shock、burst out laughing
 
-**为什么这样写**：找蝙蝠的人推开门找到了人——就在几页之前，他刚在阁楼里对着母蝠与幼崽祈愿；作者把"一窝蜷睡蝙蝠"与"蜷成胎儿姿势睡觉的 Vesta"按这个顺序排进同一栋房子，相似性由场景调度完成，不用一个词说破。而她自己形容梦境用的也是"梦见未来"——一个睡在过去房间里的人，梦的是还没发射的月亮。`quiet as a bat` 三个词把 Radko 的身份漂移写满：技工、窥探者、最后是把自己藏进蝙蝠比喻里的人。尖叫—大笑的短路（`They both burst out laughing`）是全章唯一一次两人同频，作者给它的最小篇幅与它对他的最大分量形成反差。
+**为什么这样写**：找蝙蝠的人推开门找到了人——就在几页之前，他刚在阁楼里对着母蝠与幼崽祈愿；作者把"一窝蜷睡蝙蝠"与"蜷成胎儿姿势睡觉的 Vesta"按这个顺序排进同一栋房子，相似性由场景调度完成，不用一个词说破。而她自己形容梦境用的也是"梦见未来"——一个睡在过去房间里的人，梦的是还没发射的月亮。`quiet as a bat` 三个词把 Radko 的身份漂移写满：技工、窥探者、最后是把自己藏进蝙蝠比喻里的人。尖叫—大笑的短路（`They both burst out laughing`）是两人难得的同频时刻，作者给它的最小篇幅与它对他的最大分量形成反差。
 
 **读者视角提示**：这段的位置在阁楼查相机之后——他刚对蝙蝠们 "wished them well"，转过弯就撞见她；顺序本身就是"蝙蝠引路"的另一重兑现。
 
@@ -93,13 +93,13 @@ POV: "Radko Toth（第三人称限知，东线，记忆与当下叠印，Pennsyl
 
 > **原句 7:** He pressed his lips against hers and his legs buckled as her hand slid down his pants, reaching for him.
 
-**中文理解**：Velour 把脚凳当礼物硬塞给他之后，又像孩子一样怯怯 clinging to the doorpost，主动抱住他；她的手滑下他的裤管探向他，他的腿一软——然后 "He wriggled out of her grasp"，借口要赶下一单脱身。
+**中文理解**：Velour 把脚凳当礼物硬塞给他之后，又像孩子一样怯怯 `clinging tentatively to the doorpost`，主动抱住他；她的手滑下他的裤管探向他，他的腿一软——然后 "He wriggled out of her grasp"，借口要赶下一单脱身。
 
-**关键词**：legs buckled、grasp、embraced
+**关键词**：legs buckled、wriggled out、grasp
 
-**为什么这样写**：`legs buckled` 又一次把心动写成生理反射，与高三跟踪那段 `his heart pounding up into his throat` 同一语法——Radko 的身体对 Furio 家任何女性的靠近都先失控再表态。但挣脱只用了 "wriggled out" 三个词，不给心理说明：他要的是女儿，母亲的贴近只是把欲望照得太亮，亮到必须逃。细节继续出卖他——接吻时他的知觉是 `Her skin, thinner than Vesta's, smelled like vanilla pudding`：皮肤厚度在跟 Vesta 比，气味是甜点味的 Velour；吻在被比较的瞬间就已经失败了。
+**为什么这样写**：`legs buckled` 又一次把心动写成生理反射，与高三跟踪那段 `his heart pounding up into his throat` 同一语法——Radko 的身体对 Furio 家任何女性的靠近都先失控再表态。但挣脱句短得几乎没有摩擦（"He wriggled out of her grasp."），不给任何心理说明：他要的是女儿，母亲的贴近只是把欲望照得太亮，亮到必须逃。细节继续出卖他——接吻时他的知觉是 `Her skin, thinner than Vesta's, smelled like vanilla pudding`：皮肤厚度在跟 Vesta 比，气味是甜点味的 Velour；吻在被比较的瞬间就已经失败了。
 
-**读者视角提示**：这段紧跟着 "I have to get to another call."——职业身份是他现成的逃逸出口；而"another call"在英文里与"求爱电话"双关，作者不会不晓得。
+**读者视角提示**：这段紧跟着 "I have to get to another call."——职业身份是他现成的逃逸出口；而 call 一词在此同时是"工单"与"来电"，脱身话术恰好骑在两种呼叫上。
 
 ---
 
@@ -111,7 +111,7 @@ POV: "Radko Toth（第三人称限知，东线，记忆与当下叠印，Pennsyl
 
 **为什么这样写**：全章 Radko 用"公事"解释一切往返，妻子用一句治疗师式的诊断拆穿账本：他的感情不是朝向 Velour（或她身后的 Vesta）自发产生的，而是"被选择"的下游——`the bats chose her` 把选择权让渡给群落，与本章前面 "since the moment they chose her house" 同一动词。更狠的是这个句子的位置：Radko 的高中生自我（"她选我吗"）与已婚自我（"她容我"）在此被同一个 chose 贯穿。他当场否认 `I only care about the bats`，可"只在乎蝙蝠"恰恰坐实了诊断——他的爱已经整个搬进群落的语法里。
 
-**读者视角提示**：Chloe 梦里的飞蛾（moth）与本章末句母蝠 "moth-fed and ready to nurse" 是同一条食物链：她的闭眼被飞蛾撞击，蝙蝠的乳房靠飞蛾充盈——本节把"入侵"与"喂养"写成同一件事的两端，留待下节发酵。
+**读者视角提示**：Chloe 梦里的飞蛾（moth）与本章末句母蝠 "moth-fed and ready to nurse" 是同一条食物链：她的闭眼被飞蛾撞击，蝙蝠的乳房靠飞蛾充盈——本节把"入侵"与"喂养"写成同一件事的两端——下一条 East 线（ch14）里，Velour 会在清晨亲手兑现这条飞蛾链。
 
 ---
 
