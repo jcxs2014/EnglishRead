@@ -21,11 +21,11 @@ modified: "2026-10-09"
 **为什么这样写**：开篇即用「认知延迟」制造悬疑——读者比当事人先知道：警察口中的「你儿子」是 Ferris，而他还躺在被窝里；turn over in my bed（翻个身）这个无害动作与即将塌下来的命运形成讽刺性落差。
 **读者视角提示**：*to be honest*（说实话）是叙述者拉近距离的口头标记；读这类「主角慢半拍」的开场，注意它在替读者省去悬念，却替主角加了一层无力。
 
-> **原句 2:** "Since when did she start just coming into my room like that? My rule is that he always has to knock three times, so that I can say no."
+> **原句 2:** "Since when did she start just coming into my room like that? My rule is that she always has to knock three times, so that I can say no."
 
-**中文理解**：她什么时候开始这么直接进他房间的？他的规矩是必须敲三下，好让他能说「不」。
+**中文理解**：她什么时候开始这么直接进他房间的？他的规矩是「她」必须敲三下，好让他能说「不」。
 **关键词：** my rule · knock three times · so that I can say no
-**为什么这样写**：一句 teenage ritual（敲三下）把 Ferris 的权力感写得可怜又可笑：他在家里唯一能执行的规则就是这一条，而「能说不」立刻与下一句 Mom 的 Now（现在下楼）形成对照——他连这唯一的否决权都没能使用。
+**为什么这样写**：一句 teenage ritual（敲三下）把 Ferris 的权力感写得可怜又可笑：他在家里唯一能执行的规则就是这一条，而「能说不」立刻与下一句 Mom 的 Now（现在下楼）形成对照——他连这唯一的否决权都没能使用。注意敲门的「她」指 Mom：Ferris 在家唯一能约束的人就是母亲。
 **读者视角提示**：*since when did…*（什么时候开始……）是抱怨的高频起句；注意这里的 humour 是黑色的：角色的「规矩」越具体，被碾压时越痛。
 
 > **原句 3:** "“Sweetheart.” Mom puts one hand on my shoulder. “Don’t say anything. We’ll arrange a lawyer for you.”"
@@ -93,7 +93,6 @@ modified: "2026-10-09"
 | pin-striped suit | 细条纹西装 | He’s a douchebag in a pin-striped suit. |
 | black eye | 青肿的眼眶 | Downstairs I see my dad first, with a black eye. |
 | lawyer | 律师 | We’ll arrange a lawyer for you. |
-| headache | 头痛 | My head is thumping. |
 
 ## 一句话总结
 

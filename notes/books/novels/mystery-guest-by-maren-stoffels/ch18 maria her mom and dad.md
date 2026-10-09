@@ -58,7 +58,7 @@ modified: "2026-10-09"
 
 > **原句 7:** "I keep remembering how easily the blade slid into her chest."
 
-**中文理解**（章首 PIP 自白）：我一直在想刀刃滑进她胸口时是那么容易。
+**中文理解**：我一直在想刀刃滑进她胸口时是那么容易。（章首 PIP 自白）
 **关键词：** the blade slid · so easily
 **为什么这样写**：章首隐藏自白三连（PIP 的刀 / CODY 的溺水 / NORAH 的勒杀）首次给出「Maria 已死」的预演视角——easily（轻易）一词让暴力显得毫无阻力；这三段自白是全书结局的预告片，且各自都对不上最终真相。
 **读者视角提示**：注意这是 PIP 的口吻（impulse / never my intention to kill her）——叙述者们在各自独白里排练凶案，作者在教读者：每个人都可能是嫌疑人。

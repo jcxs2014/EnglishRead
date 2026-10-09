@@ -1,0 +1,283 @@
+== verify_corpus ==
+=== 语料层验收（P0-0）: mystery-guest-by-maren-stoffels ===
+text/ 件数: 60
+  [1] 件数 60 == 预期 60  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 7 组 / 互查 42 组（共享人物 16 个已豁免）  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (186 句)
+      首| PIP
+      末| Bored?
+    ch02 (53 句)
+      首| MARIA & MYSTERY GUEST
+      末| Let’s play a game.
+    ch03 (29 句)
+      首| MARIA & HER MOM AND DAD
+      末| “I’ll go get some cake after I go swimming.”
+    ch04 (158 句)
+      首| MARIA & PIP
+      末| “You are not going to that location.”
+    ch05 (57 句)
+      首| MARIA & MIKE
+      末| “What are you doing here?”
+    ch06 (206 句)
+      首| MARIA & MYSTERY GUEST
+      末| Then we’ll play again soon.
+    ch07 (73 句)
+      首| MARIA & CODY
+      末| “I’m Cody.”
+    ch08 (154 句)
+      首| MARIA & FERRIS
+      末| “Sure.”
+    ch09 (176 句)
+      首| MARIA & MYSTERY GUEST
+      末| “What the hell are you doing?”
+    ch10 (99 句)
+      首| MARIA & NORAH
+      末| I should have done it way sooner.
+    ch11 (38 句)
+      首| MARIA & MYSTERY GUEST
+      末| “Maria?”
+    ch12 (151 句)
+      首| MARIA & CODY
+      末| Then Mike steps on the gas and disappears from sight.
+    ch13 (196 句)
+      首| MARIA & MIKE
+      末| “Shannon!”
+    ch14 (127 句)
+      首| MARIA & PIP
+      末| But then I see the mask on my screen: MG is back.
+    ch15 (66 句)
+      首| MARIA & MYSTERY GUEST
+      末| For one moment, I relax, but at the sight of that yellow hoodie, my breath catches in my throat.
+    ch16 (119 句)
+      首| MARIA & FERRIS
+      末| “That is really screwed up, Maria.” Ferris walks straight past me and disappears back into the b
+    ch17 (48 句)
+      首| MARIA & MYSTERY GUEST
+      末| We’ll continue the game tomorrow.
+    ch18 (116 句)
+      首| PIP
+      末| “Wasn’t that enough?”
+    ch19 (202 句)
+      首| MARIA & CODY
+      末| But I want to bring someone along.”
+    ch20 (20 句)
+      首| MARIA & HER MOM AND DAD
+      末| My phone buzzes, and when I look, I see “MG” appear on the screen.
+    ch21 (68 句)
+      首| MARIA & MYSTERY GUEST
+      末| “How about we take a walk?”
+    ch22 (138 句)
+      首| MARIA & CODY
+      末| Then a red convertible pulls up next to the bus stop.
+    ch23 (68 句)
+      首| MARIA & MIKE
+      末| “This is really bad…”
+    ch24 (25 句)
+      首| MARIA & MYSTERY GUEST
+      末| “Jax…”
+    ch25 (114 句)
+      首| MARIA & CODY
+      末| Then she’d have put all her money on me.
+    ch26 (130 句)
+      首| MARIA & PIP
+      末| For the first time since we met, I have the feeling that she’s lying to me.
+    ch27 (83 句)
+      首| MARIA & HER MOM AND DAD
+      末| Ferris has him exactly where he wants him.
+    ch28 (28 句)
+      首| MARIA & MYSTERY GUEST
+      末| Go there and find out.
+    ch29 (35 句)
+      首| MARIA & OUTCAST
+      末| “How’s single life agreeing with you?”
+    ch30 (69 句)
+      首| MARIA & NORAH
+      末| “So do something about it.”
+    ch31 (43 句)
+      首| MARIA & MYSTERY GUEST
+      末| And I have a blue jerry can in my hands.
+    ch32 (108 句)
+      首| MARIA & PIP
+      末| But now there’s nothing that can be done.
+    ch33 (128 句)
+      首| MARIA & SHANNON
+      末| Good luck.
+    ch34 (97 句)
+      首| MARIA & CODY
+      末| In her hands, she has the last of the posters.
+    ch35 (20 句)
+      首| MARIA & HER MOM AND DAD
+      末| Whatever I do, I can never go back.
+    ch36 (91 句)
+      首| MARIA & MYSTERY GUEST
+      末| Are we finally getting to my favorite part?
+    ch37 (79 句)
+      首| MARIA & MYSTERY GUEST
+      末| “Okay.” Mystery Guest grabs the edge of their mask and pulls it from their face.
+    ch38 (126 句)
+      首| PIP & MARIA
+      末| And then I hang up.
+    ch39 (47 句)
+      首| FERRIS & MARIA
+      末| “You’ve got nothing on me.”
+    ch40 (19 句)
+      首| PIP & MARIA
+      末| For us.
+    ch41 (19 句)
+      首| PIP & MARIA
+      末| “She’s missing.”
+    ch42 (18 句)
+      首| PIP & SHANNON
+      末| It turns out that Shannon is our “something more exciting.”
+    ch43 (22 句)
+      首| MIKE & MARIA
+      末| “I just don’t trust her.”
+    ch44 (34 句)
+      首| PIP & MARIA
+      末| “See you tomorrow.”
+    ch45 (146 句)
+      首| MIKE & MARIA
+      末| “Damn, damn, damn.”
+    ch46 (22 句)
+      首| PIP & MARIA
+      末| “I…I think I was raped.”
+    ch47 (36 句)
+      首| MIKE & HIS DAD
+      末| “We’d like to have a word with your son by ourselves, sir.”
+    ch48 (24 句)
+      首| MIKE & THE TOWN
+      末| And now: Beat it.”
+    ch49 (25 句)
+      首| PIP & MARIA
+      末| Anything at all.
+    ch50 (31 句)
+      首| PIP & MARIA
+      末| That’s when I know for sure that Norah is the best idea I’ve ever had.
+    ch51 (22 句)
+      首| NORAH & MARIA
+      末| “You and I need to talk.”
+    ch52 (12 句)
+      首| PIP & MARIA
+      末| “I like it.”
+    ch53 (39 句)
+      首| PIP & MARIA
+      末| “I really do.”
+    ch54 (17 句)
+      首| MIKE & FERRIS
+      末| “I think she screwed us both over.”
+    ch55 (25 句)
+      首| PIP & MIKE
+      末| Is typing…
+    ch56 (85 句)
+      首| PIP & FERRIS
+      末| “I am going to kill her.”
+    ch57 (36 句)
+      首| PIP & THE PLAN
+      末| Maria is going to love him.
+    ch58 (49 句)
+      首| MYSTERY GUEST & MARIA
+      末| Let’s play a game.
+    ch59 (180 句)
+      首| MARIA & MYSTERY GUEST
+      末| As soon as possible.
+    ch60 (44 句)
+      首| MIKE
+      末| So, can you keep a little secret?
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
+== verify_quotes ==
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 509/509 引文可核实（100%）；完全干净文件 61/61；正文章节 0 提取 0；总览 0 提取转交 1 ===
+== check_vocab(book) ==
+词条行合计: 984
+
+--- FAIL (3) ---
+  ch26 maria pip.md [高级] 例句不命中本章(例句未命中本章)
+      「Jax warily steps out of the carrier.」
+  ch26 maria pip.md [进阶] 例句不命中本章(例句未命中本章)
+      「You can’t blame me for that.」
+  ch39 ferris maria.md [基础] 词条(A类虚构，epub 全书查无)
+      「headache」
+
+--- WARN (37) ---
+  ch01 maria pip.md [基础] 基础档疑含超纲词「batteries」
+  ch04 maria pip.md [基础] 基础档疑含超纲词「strawberries」
+  ch04 maria pip.md [基础] 基础档疑含超纲词「chocolate milk」
+  ch06 maria mystery guest.md [基础] 基础档疑含超纲词「invitation」
+  ch09 maria mystery guest.md [基础] 基础档疑含超纲词「trembling」
+  ch12 maria cody.md [进阶] 词条跨篇(本章无，epub 全书有)「canine tooth」
+  ch12 maria cody.md [基础] 基础档疑含超纲词「grilled sandwiches」
+  ch13 maria mike.md [基础] 基础档疑含超纲词「boyfriend」
+  ch13 maria mike.md [基础] 基础档疑含超纲词「conversation」
+  ch13 maria mike.md [基础] 基础档疑含超纲词「nightmares」
+  ch16 maria ferris.md [基础] 基础档疑含超纲词「flashlight」
+  ch17 maria mystery guest.md [基础] 基础档疑含超纲词「heartbeat」
+  ch18 maria her mom and dad.md [基础] 基础档疑含超纲词「threatening」
+  ch19 maria cody.md [基础] 基础档疑含超纲词「croissant」
+  ch19 maria cody.md [基础] 基础档疑含超纲词「invitation」
+  ch21 maria mystery guest.md [基础] 基础档疑含超纲词「sandcastle」
+  ch22 maria cody.md [基础] 基础档疑含超纲词「girlfriend」
+  ch23 maria mike.md [基础] 基础档疑含超纲词「passenger door」
+  ch25 maria cody.md [基础] 基础档疑含超纲词「adrenaline」
+  ch28 maria mystery guest.md [基础] 基础档疑含超纲词「dishwasher」
+  ch29 maria outcast.md [基础] 基础档疑含超纲词「nightclub」
+  ch32 maria pip.md [基础] 基础档疑含超纲词「girlfriend」
+  ch32 maria pip.md [基础] 例句不含词头「poster」
+  ch36 maria mystery guest.md [基础] 基础档疑含超纲词「firefighters」
+  ch37 maria mystery guest.md [基础] 基础档疑含超纲词「encounter」
+  ch37 maria mystery guest.md [基础] 基础档疑含超纲词「fireflies」
+  ch38 pip maria.md [基础] 基础档疑含超纲词「emergency services」
+  ch39 ferris maria.md [基础] 例句不含词头「headache」
+  ch45 mike maria.md [进阶] 例句不含词头「excitement」
+  ch45 mike maria.md [基础] 基础档疑含超纲词「convertible」
+  ch48 mike the town.md [基础] 基础档疑含超纲词「community service」
+  ch50 pip maria.md [进阶] 词条跨篇(本章无，epub 全书有)「temperature」
+  ch50 pip maria.md [进阶] 例句不含词头「temperature」
+  ch56 pip ferris.md [基础] 基础档疑含超纲词「golden retriever」
+  ch57 pip the plan.md [基础] 基础档疑含超纲词「connection」
+  ch57 pip the plan.md [基础] 基础档疑含超纲词「daredevil」
+  ch59 maria mystery guest.md [基础] 基础档疑含超纲词「fireflies」
+== check_entities ==
+=== 实体一致性检测：0 个文件存在未知实体 ===
+== corruption_scan ==
+
+=== 编辑损坏扫描（mystery-guest-by-maren-stoffels）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+== sweep_full ==
+=== 引语整串 flat 比对（mystery-guest-by-maren-stoffels）===
+  参照集：text/ 逐章（60 章，可定章） + epub 交叉验证
+  ✅ 本章命中 468 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 21 ｜ ❌ 全书查无 0
+  （短引语 41 条归 check_short_quotes；无章可对 0 条未判）
+== check_short_quotes ==
+=== 短引语兜底核对（mystery-guest-by-maren-stoffels）===
+  verify_quotes 跳过（<20 flat 字符）的引语：46 条 —— 这些主门禁**根本没查**
+  ✅ 命中 46 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+== verify_overview_quotes ==
+=== lane：降级 lane（text/ 兜底，非 epub 全书） ===
+00_情感节点.md: ➖ 无引语行（正常，非门禁项）
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 24/24 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+== audit_structure ==
+=== 精读结构扫描（mystery-guest-by-maren-stoffels）===
+  扫 63 个 md、409 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+== check_anchor ==
+     ch45 mike maria.md:27  关键词「** I’ve been warned about you · You know」的「doesn't」在全书有、本块无
+     ch45 mike maria.md:27  关键词「** I’ve been warned about you · You know」的「mean」在全书有、本块无
+     ch45 mike maria.md:27  关键词「** I’ve been warned about you · You know」的「know」在全书有、本块无
+     ch45 mike maria.md:27  关键词「** I’ve been warned about you · You know」的「who」在全书有、本块无
+     ch59 maria mystery guest.md:43  关键词「** Why did you tell so many lies? · reco」的「why」在全书有、本块无
+     ch59 maria mystery guest.md:43  关键词「** Why did you tell so many lies? · reco」的「many」在全书有、本块无
+     ch59 maria mystery guest.md:70  关键词「** Let go of the knife · You’re not a ki」的「knife」在全书有、本块无
+     ch59 maria mystery guest.md:70  关键词「** Let go of the knife · You’re not a ki」的「know」在全书有、本块无

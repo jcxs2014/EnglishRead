@@ -1,0 +1,59 @@
+===== check_struct_indep =====
+  ❌ ch18 maria her mom and dad.md: [summary] 引语 7: 子项「中文理解」出现 0 次（须恰 1）
+  ❌ ch34 maria cody.md: [summary] 引语 6: 子项「关键词」出现 0 次（须恰 1）
+  ❌ ch59 maria mystery guest.md: [summary] 引语块 11 个，超出 3–8 配额
+=== 独立结构扫描：60 个 md，缺陷 3 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+===== check_xref_indep =====
+=== chNN 引用 457 处：英文证据报警 0 处 ／ 中文式待人判 360 处 ／ 🔶 同章省略号拼接（提示，不判红）0 处 ===
+===== check_analysis_indep =====
+  ch23 maria mike.md:29  be etched in one's memory
+  ch25 maria cody.md:13  Pip gentle stroking vs Cody claws
+  ch26 maria pip.md:56  first time I've heard Pip curse
+  ch27 maria her mom and dad.md:13  temperature went down a few degrees
+  ch27 maria her mom and dad.md:42  the temperature went down a few degrees
+  ch27 maria her mom and dad.md:57  have sb where you want them
+  ch28 maria mystery guest.md:12  clicking over and over again
+  ch30 maria norah.md:13  voice disappears into gurgling
+  ch34 maria cody.md:10  Want to guess where the last poster is
+  ch34 maria cody.md:58  not get any further than
+  ch36 maria mystery guest.md:10  They only have to play two more games
+  ch36 maria mystery guest.md:45  have nothing left to get sb with
+  ch36 maria mystery guest.md:77  voices sounds distorted
+  ch37 maria mystery guest.md:21  few minutes before I dare
+  ch43 mike maria.md:29  doesn't know the meaning of the word
+  ch44 pip maria.md:98  trickles into my body like an IV drip
+  ch45 mike maria.md:10  You've been warned about you too
+  ch47 mike his dad.md:22  leave sb by the side of the road
+  ch49 pip maria.md:43  a group of girls saw her leave
+  ch49 pip maria.md:89  Maria is like a hand grenade
+  ch54 mike ferris.md:21  one other guy looking our way
+  ch54 mike ferris.md:35  have something in common
+  ch55 pip mike.md:36  have nothing to say to sb
+  ch56 pip ferris.md:22  the last thing sb was expecting
+  ch59 maria mystery guest.md:59  play sb against each other
+===== verify_fragments_indep =====
+❌ MISS ch58 mystery guest maria.md:24  片段: "“We are not going to let that happen,” I say. “How about we do something fun tomorrow?” / “What kind of fun? 
+❌ MISS ch58 mystery guest maria.md:31  片段: "“A bit.” I turn my face away to emphasize my feelings. “You called me ‘safe.’ ” / That word makes my blood bo
+❌ MISS ch58 mystery guest maria.md:38  片段: ” Slowly I feel myself softening again, like butter melting in a pan. Why do I still keep falling for this? / 
+❌ MISS ch58 mystery guest maria.md:38  片段: ” / I kiss her. Anything to shut her up."
+❌ MISS ch58 mystery guest maria.md:45  片段: "When Maria is outside, I grab my extra phone. / This is the perfect moment. / I look at the profile picture I
+❌ MISS ch58 mystery guest maria.md:52  片段: "Always. / Always. / Even when she’s with me? / Any lingering doubts about my plan disappear. / Hands tremblin
+❌ MISS ch59 maria mystery guest.md:17  片段: "Finally I’m going to find out who Mystery Guest is. / As the mask comes off their face, it’s as if all the fi
+❌ MISS ch59 maria mystery guest.md:17  片段: / I see Cody. / And I see Norah. / And I see Pip. / I see all three of them. / They were always three separate
+❌ MISS ch59 maria mystery guest.md:24  片段: "My Pip, with her cute blond hair, her green eyes, and more freckles than ever. / Cody, with his mysterious ga
+❌ MISS ch59 maria mystery guest.md:47  片段: "“Lies,” says Pip. “Always so many lies. And you kept calling me boring. You’re only interesting because of th
+❌ MISS ch59 maria mystery guest.md:54  片段: more like she’s tired. As if I’m a little kid who’s just scribbled all over the recently painted walls yet aga
+❌ MISS ch59 maria mystery guest.md:74  片段: "She shoves me away. / “Don’t touch me!” / I feel a sharp pain in my stomach. / We both look down. All I can s
+❌ MISS ch59 maria mystery guest.md:74  片段: ” Pip’s face is as pale as death. I don’t see a trace of Cody or Norah now, only Pip. / The sweetest girl I ev
+❌ MISS ch59 maria mystery guest.md:74  片段: ” Her face blurs, and my knees buckle. / “No!” Pip’s shriek is like an animal’s. “Maria, no!”"
+❌ MISS ch59 maria mystery guest.md:98  片段: "Killing someone is the best thrill ever. / It’s too bad that the unbeatable feeling always fades away so quic
+❌ MISS ch59 maria mystery guest.md:105  片段: "Maria is finally dead. / Did it really have to take so long? / The worst thing is that Pip regrets it. / She 
+❌ MISS ch60 mike.md:17  片段: "I can’t wait to get out of this town again. / Maria’s murder, the funeral. It all brings up too many memories
+❌ MISS ch60 mike.md:24  片段: "But I didn’t do anything. / I didn’t touch her! / At least, not without her consent! / At the funeral, we sto
+❌ MISS ch60 mike.md:31  片段: "I drive past the spot where I saw Maria at the end of July. She nearly had a heart attack when I slowed down 
+❌ MISS ch60 mike.md:38  片段: "Man, that girl really is disturbed. / She has an incredible brain, but she is so, so disturbed. / And then I 
+❌ MISS ch60 mike.md:45  片段: "I hit the gas harder as I drive past the fields. / That’s where Shannon was found. / It was a risk to say my 
+
+=== 逐片段核验（独立实现） ===
+  引语条数 383 ｜ 受检片段 459 ｜ ❌ MISS 149 ｜ 缺参照章 0
+  ⇒ 有片段在**本章** text/ 里查无 = 伪造或跨章搬引，必须改

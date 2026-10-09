@@ -65,7 +65,7 @@ modified: "2026-10-09"
 | reluctantly | 不情愿地 | “On the highway,” I say reluctantly. |
 | incredibly | 难以置信地 | it’s an incredibly selfish thought |
 | impossible | 不可能的 | I know that’s impossible. |
-| warily | 警觉地 | Jax warily steps out of the carrier. |
+| warily | 警觉地 | Jax warily steps out, as if he’s afraid that a car might still come racing past at any moment. |
 
 ### ⭐⭐ 进阶
 
@@ -78,7 +78,6 @@ modified: "2026-10-09"
 | jealousy | 嫉妒 | Jealousy rears its head inside me like a monster. |
 | convinced | 信服 | “No way,” says Pip, but I’m not convinced. |
 | selfish | 自私的 | it’s an incredibly selfish thought |
-| blame | 责怪 | You can’t blame me for that. |
 | hippie act | 嬉皮人设 | was he just trying to keep up his hippie act? |
 | perked up | 精神好转 | Jax seems to have perked up quite a bit. |
 

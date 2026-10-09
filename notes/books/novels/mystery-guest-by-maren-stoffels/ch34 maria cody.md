@@ -53,7 +53,8 @@ modified: "2026-10-09"
 >
 > “Maria…” My mom’s voice doesn’t get any further than my name."
 
-**中文理解**：她手里拿着最后一张海报。「Maria……」妈妈的声音只吐得出她的名字。**关键词：** the last of the posters · doesn’t get any further than my name
+**中文理解**：她手里拿着最后一张海报。「Maria……」妈妈的声音只吐得出她的名字。
+**关键词：** the last of the posters · doesn’t get any further than my name
 **为什么这样写**：章末定格三连——物证（海报）、称呼（Maria）、失语（voice doesn’t get any further）：名字先于指控，因为名字已经被照片改写；MG 的 Want to guess where it is?（猜猜在哪）此刻应验得残忍而精准。
 **读者视角提示**：*not get any further than*（止步于）句型；对照结构：她一夜藏匿所有海报的努力=0，因为最后一张的藏匿点是她自己的家——MG 的游戏设计哲学：秘密藏在哪里，就在哪里引爆。
 

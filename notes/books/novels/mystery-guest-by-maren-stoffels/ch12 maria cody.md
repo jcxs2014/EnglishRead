@@ -35,11 +35,17 @@ modified: "2026-10-09"
 **为什么这样写**：这句是 Maria 心理依赖转移的实锤：她找倾诉对象的第一筛选条件是「会不会骂我的游戏」——危险偏好在先、人身安全在后；*disapprove of*（不赞成）配 instantly（立刻），说明 Pip 的反对给她留下的是「孤立感」而非警醒。
 **读者视角提示**：*disapprove of* 必须带介词 of；这段是理解「她为什么越陷越深」的钥匙——她需要的不是保护者，是观众。
 
-> **原句 4:** "I have to carry out challenges. Dangerous ones. … “What did it feel like?” … “It felt…unbeatable.”"
+> **原句 4:** "“I have to carry out challenges. Dangerous ones,” I say."
+>
+> “What did it feel like?”
+>
+> I look up in surprise. Is that seriously Cody’s first question?
+>
+> “It felt…unbeatable.”
 
-**中文理解**：「我得完成挑战，很危险的那种。」当 Cody 问「那是什么感觉」，她答：「感觉……无可匹敌。」
+**中文理解**：「我得完成挑战，很危险的那种，」我说。Cody 问「那是什么感觉」；我惊讶地抬头——这真的是他的第一个问题吗？我答：「感觉……无可匹敌。」
 **关键词：** carry out challenges · unbeatable
-**为什么这样写**：Cody 的第一个问题不是「你疯了吗」而是 What did it feel like?——与 Pip 的反应构成 A/B 对照，Maria 的惊讶（Is that seriously Cody's first question?）写出她第一次被「接住」；*unbeatable*（无可匹敌的）是她能给危险快感的最高评级。
+**为什么这样写**：Cody 的第一个问题不是「你疯了吗」而是 “What did it feel like?”——与 Pip 的反应构成 A/B 对照，Maria 的惊讶（Is that seriously Cody’s first question?）写出她第一次被「接住」；*unbeatable*（无可匹敌的）是她能给危险快感的最高评级。
 **读者视角提示**：*carry out*（执行/完成）配 challenge/task/plan；回想 ch09 的 immortal、本章的 unbeatable——她的词汇表正在为危险快感建立专属词库。
 
 > **原句 5:** "“I sometimes deliberately do dangerous things, just to get that kick,” says Cody. The look on his face shifts from dreamy to dark, and I don’t dare ask any more questions."
@@ -49,16 +55,16 @@ modified: "2026-10-09"
 **为什么这样写**：Cody 一句话完成「同类认证」——MG 的挑战之所以钓得住 Maria，正因世间真有以此为食的人；*from dreamy to dark*（从梦幻到阴沉）是全章最重要的表情镜头，noface 的温柔外壳裂开一条缝。
 **读者视角提示**：*deliberately*（故意地，ch01 已收）在此与 MG 的「premeditated」气质呼应；*get a kick*（获取快感）是口语高频搭配。
 
-> **原句 6:** "“It’s not about where I’m from,” he says. “It’s about where I am now. And right now, I’m with you.”"
+> **原句 6:** "Cody doesn’t reply, just moves on to the next photo."
 >
-> "Cody doesn’t reply, just moves on to the next photo."
+> "“It’s not about where I’m from,” he says. “It’s about where I am now. And right now, I’m with you.”"
 >
 > "I study him from the side. … Could he be Mystery Guest?"
 
-**中文理解**：「重点不是我从哪来，」他说，「重点是我现在在哪。而此刻，我和你在一起。」被问父亲时他只翻到下一张照片。她侧脸端详他：他会不会就是 Mystery Guest？
+**中文理解**：被问父亲时他不回答，只翻到下一张照片。「重点不是我从哪来，」他说，「重点是我现在在哪。而此刻，我和你在一起。」她侧脸端详他：他会不会就是 Mystery Guest？
 **关键词：** It’s about where I am now · Could he be Mystery Guest?
 **为什么这样写**：金句与疑点共用一张嘴——「当下与你同在」的深情语法（躲开来历+父亲）同时也是完美逃词；Maria 的推理第一次成型（appear just after the messages began / philosophical way of talking sounds kind of similar），读者与她同步进入排除法游戏。
-**读者视角提示**：注意叙述顺序：深情台词在前、回避动作在后、推理收尾——这三步节奏以后每次 Cody 说话都会重复一遍，直到真相揭晓。
+**读者视角提示**：注意叙述顺序：回避动作在前、深情台词在后、推理收尾——这三步节奏以后每次 Cody 说话都会重复一遍，直到真相揭晓。
 
 > **原句 7:** "I don’t want it to be him. Because if it’s him, we can never be friends. And if I lose Pip, I’m going to need a friend."
 >

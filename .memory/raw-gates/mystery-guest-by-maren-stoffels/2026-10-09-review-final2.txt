@@ -1,0 +1,190 @@
+=== 五步审查整改后全量复跑 2026-10-09 23:32:34 ===
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 20/20 ✅（另有 5 条短引语未校验）
+ch01 maria pip.md: 9/9 ✅（另有 8 条短引语未校验）
+ch02 maria mystery guest.md: 14/14 ✅（另有 10 条短引语未校验）
+ch03 maria her mom and dad.md: 10/10 ✅（另有 2 条短引语未校验）
+ch04 maria pip.md: 18/18 ✅（另有 1 条短引语未校验）
+ch05 maria mike.md: 14/14 ✅（另有 1 条短引语未校验）
+ch06 maria mystery guest.md: 20/20 ✅（另有 2 条短引语未校验）
+ch07 maria cody.md: 13/13 ✅（另有 2 条短引语未校验）
+ch08 maria ferris.md: 22/22 ✅（另有 1 条短引语未校验）
+ch09 maria mystery guest.md: 26/26 ✅（另有 2 条短引语未校验）
+ch10 maria norah.md: 12/12 ✅
+ch11 maria mystery guest.md: 9/9 ✅（另有 3 条短引语未校验）
+ch12 maria cody.md: 10/10 ✅
+ch13 maria mike.md: 7/7 ✅
+ch14 maria pip.md: 7/7 ✅
+ch15 maria mystery guest.md: 7/7 ✅
+ch16 maria ferris.md: 7/7 ✅
+ch17 maria mystery guest.md: 7/7 ✅
+ch18 maria her mom and dad.md: 7/7 ✅
+ch19 maria cody.md: 7/7 ✅
+ch20 maria her mom and dad.md: 5/5 ✅
+ch21 maria mystery guest.md: 7/7 ✅
+ch22 maria cody.md: 7/7 ✅
+ch23 maria mike.md: 6/6 ✅
+ch24 maria mystery guest.md: 5/5 ✅（另有 1 条短引语未校验）
+ch25 maria cody.md: 6/6 ✅
+ch26 maria pip.md: 6/6 ✅
+ch27 maria her mom and dad.md: 6/6 ✅
+ch28 maria mystery guest.md: 5/5 ✅
+ch29 maria outcast.md: 6/6 ✅
+ch30 maria norah.md: 6/6 ✅
+ch31 maria mystery guest.md: 6/6 ✅
+ch32 maria pip.md: 6/6 ✅
+ch33 maria shannon.md: 6/6 ✅
+ch34 maria cody.md: 6/6 ✅
+ch35 maria her mom and dad.md: 6/6 ✅
+ch36 maria mystery guest.md: 11/11 ✅
+ch37 maria mystery guest.md: 13/13 ✅（另有 2 条短引语未校验）
+ch38 pip maria.md: 14/14 ✅（另有 1 条短引语未校验）
+ch39 ferris maria.md: 7/7 ✅
+ch40 pip maria.md: 5/5 ✅
+ch41 pip maria.md: 5/5 ✅
+ch42 pip shannon.md: 5/5 ✅
+ch43 mike maria.md: 6/6 ✅
+ch44 pip maria.md: 7/7 ✅
+ch45 mike maria.md: 7/7 ✅
+ch46 pip maria.md: 5/5 ✅
+ch47 mike his dad.md: 6/6 ✅
+ch48 mike the town.md: 6/6 ✅
+ch49 pip maria.md: 6/6 ✅
+ch50 pip maria.md: 6/6 ✅
+ch51 norah maria.md: 5/5 ✅
+ch52 pip maria.md: 4/4 ✅
+ch53 pip maria.md: 7/7 ✅
+ch54 mike ferris.md: 5/5 ✅
+ch55 pip mike.md: 4/4 ✅（另有 2 条短引语未校验）
+ch56 pip ferris.md: 6/6 ✅
+ch57 pip the plan.md: 6/6 ✅
+ch58 mystery guest maria.md: 6/6 ✅
+ch59 maria mystery guest.md: 11/11 ✅
+ch60 mike.md: 5/5 ✅
+
+⚠️ 全书共 43 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 509/509 引文可核实（100%）；完全干净文件 61/61；正文章节 0 提取 0；总览 0 提取转交 1 ===
+⚠️  全书共 43 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 499，命中本章 499（100%）
+✅ 全部引语均归属正确章节
+=== 引语整串 flat 比对（mystery-guest-by-maren-stoffels）===
+  参照集：text/ 逐章（60 章，可定章） + epub 交叉验证
+  ✅ 本章命中 470 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 19 ｜ ❌ 全书查无 0
+  （短引语 41 条归 check_short_quotes；无章可对 0 条未判）
+=== 独立结构扫描：60 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+=== 精读结构扫描（mystery-guest-by-maren-stoffels）===
+  扫 63 个 md、406 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+词条行合计: 984
+
+--- FAIL (3) ---
+  ch26 maria pip.md [高级] 例句不命中本章(例句未命中本章)
+      「Jax warily steps out of the carrier.」
+  ch26 maria pip.md [进阶] 例句不命中本章(例句未命中本章)
+      「You can’t blame me for that.」
+  ch39 ferris maria.md [基础] 词条(A类虚构，epub 全书查无)
+      「headache」
+
+--- WARN (37) ---
+  ch01 maria pip.md [基础] 基础档疑含超纲词「batteries」
+  ch04 maria pip.md [基础] 基础档疑含超纲词「strawberries」
+  ch04 maria pip.md [基础] 基础档疑含超纲词「chocolate milk」
+  ch06 maria mystery guest.md [基础] 基础档疑含超纲词「invitation」
+  ch09 maria mystery guest.md [基础] 基础档疑含超纲词「trembling」
+  ch12 maria cody.md [进阶] 词条跨篇(本章无，epub 全书有)「canine tooth」
+  ch12 maria cody.md [基础] 基础档疑含超纲词「grilled sandwiches」
+  ch13 maria mike.md [基础] 基础档疑含超纲词「boyfriend」
+  ch13 maria mike.md [基础] 基础档疑含超纲词「conversation」
+  ch13 maria mike.md [基础] 基础档疑含超纲词「nightmares」
+  ch16 maria ferris.md [基础] 基础档疑含超纲词「flashlight」
+  ch17 maria mystery guest.md [基础] 基础档疑含超纲词「heartbeat」
+  ch18 maria her mom and dad.md [基础] 基础档疑含超纲词「threatening」
+  ch19 maria cody.md [基础] 基础档疑含超纲词「croissant」
+  ch19 maria cody.md [基础] 基础档疑含超纲词「invitation」
+  ch21 maria mystery guest.md [基础] 基础档疑含超纲词「sandcastle」
+  ch22 maria cody.md [基础] 基础档疑含超纲词「girlfriend」
+  ch23 maria mike.md [基础] 基础档疑含超纲词「passenger door」
+  ch25 maria cody.md [基础] 基础档疑含超纲词「adrenaline」
+  ch28 maria mystery guest.md [基础] 基础档疑含超纲词「dishwasher」
+  ch29 maria outcast.md [基础] 基础档疑含超纲词「nightclub」
+  ch32 maria pip.md [基础] 基础档疑含超纲词「girlfriend」
+  ch32 maria pip.md [基础] 例句不含词头「poster」
+  ch36 maria mystery guest.md [基础] 基础档疑含超纲词「firefighters」
+  ch37 maria mystery guest.md [基础] 基础档疑含超纲词「encounter」
+  ch37 maria mystery guest.md [基础] 基础档疑含超纲词「fireflies」
+  ch38 pip maria.md [基础] 基础档疑含超纲词「emergency services」
+  ch39 ferris maria.md [基础] 例句不含词头「headache」
+  ch45 mike maria.md [进阶] 例句不含词头「excitement」
+  ch45 mike maria.md [基础] 基础档疑含超纲词「convertible」
+  ch48 mike the town.md [基础] 基础档疑含超纲词「community service」
+  ch50 pip maria.md [进阶] 词条跨篇(本章无，epub 全书有)「temperature」
+  ch50 pip maria.md [进阶] 例句不含词头「temperature」
+  ch56 pip ferris.md [基础] 基础档疑含超纲词「golden retriever」
+  ch57 pip the plan.md [基础] 基础档疑含超纲词「connection」
+  ch57 pip the plan.md [基础] 基础档疑含超纲词「daredevil」
+  ch59 maria mystery guest.md [基础] 基础档疑含超纲词「fireflies」
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== 编辑损坏扫描（mystery-guest-by-maren-stoffels）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+=== lane：降级 lane（text/ 兜底，非 epub 全书） ===
+00_情感节点.md: ➖ 无引语行（正常，非门禁项）
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 24/24 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+=== 短引语兜底核对（mystery-guest-by-maren-stoffels）===
+  verify_quotes 跳过（<20 flat 字符）的引语：46 条 —— 这些主门禁**根本没查**
+  ✅ 命中 46 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== vocab 修复后复跑 23:35:43：FAIL 0 / WARN 36（提示档，含 ch50 temperature、超纲词提示等）===
+词条行合计: 982
+
+--- FAIL (0) ---
+
+--- WARN (36) ---
+  ch01 maria pip.md [基础] 基础档疑含超纲词「batteries」
+  ch04 maria pip.md [基础] 基础档疑含超纲词「strawberries」
+  ch04 maria pip.md [基础] 基础档疑含超纲词「chocolate milk」
+  ch06 maria mystery guest.md [基础] 基础档疑含超纲词「invitation」
+  ch09 maria mystery guest.md [基础] 基础档疑含超纲词「trembling」
+  ch12 maria cody.md [进阶] 词条跨篇(本章无，epub 全书有)「canine tooth」
+  ch12 maria cody.md [基础] 基础档疑含超纲词「grilled sandwiches」
+  ch13 maria mike.md [基础] 基础档疑含超纲词「boyfriend」
+  ch13 maria mike.md [基础] 基础档疑含超纲词「conversation」
+  ch13 maria mike.md [基础] 基础档疑含超纲词「nightmares」
+  ch16 maria ferris.md [基础] 基础档疑含超纲词「flashlight」
+  ch17 maria mystery guest.md [基础] 基础档疑含超纲词「heartbeat」
+  ch18 maria her mom and dad.md [基础] 基础档疑含超纲词「threatening」
+  ch19 maria cody.md [基础] 基础档疑含超纲词「croissant」
+  ch19 maria cody.md [基础] 基础档疑含超纲词「invitation」
+  ch21 maria mystery guest.md [基础] 基础档疑含超纲词「sandcastle」
+  ch22 maria cody.md [基础] 基础档疑含超纲词「girlfriend」
+  ch23 maria mike.md [基础] 基础档疑含超纲词「passenger door」
+  ch25 maria cody.md [基础] 基础档疑含超纲词「adrenaline」
+  ch28 maria mystery guest.md [基础] 基础档疑含超纲词「dishwasher」
+  ch29 maria outcast.md [基础] 基础档疑含超纲词「nightclub」
+  ch32 maria pip.md [基础] 基础档疑含超纲词「girlfriend」
+  ch32 maria pip.md [基础] 例句不含词头「poster」
+  ch36 maria mystery guest.md [基础] 基础档疑含超纲词「firefighters」
+  ch37 maria mystery guest.md [基础] 基础档疑含超纲词「encounter」
+  ch37 maria mystery guest.md [基础] 基础档疑含超纲词「fireflies」
+  ch38 pip maria.md [基础] 基础档疑含超纲词「emergency services」
+  ch45 mike maria.md [进阶] 例句不含词头「excitement」
+  ch45 mike maria.md [基础] 基础档疑含超纲词「convertible」
+  ch48 mike the town.md [基础] 基础档疑含超纲词「community service」
+  ch50 pip maria.md [进阶] 词条跨篇(本章无，epub 全书有)「temperature」
+  ch50 pip maria.md [进阶] 例句不含词头「temperature」
+  ch56 pip ferris.md [基础] 基础档疑含超纲词「golden retriever」
+  ch57 pip the plan.md [基础] 基础档疑含超纲词「connection」
+  ch57 pip the plan.md [基础] 基础档疑含超纲词「daredevil」
+  ch59 maria mystery guest.md [基础] 基础档疑含超纲词「fireflies」
