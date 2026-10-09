@@ -95,6 +95,13 @@ the-moon-papers-by-emmalea-russo 完工：49 章全部入库，gate.sh 0 阻断�
 - **最终状态**：门禁全绿，总览层存在未修复内容错误（需执行方重写模板）
 - **明细见工作日志**
 
+**the-moon-papers-by-emmalea-russo · d 步语义二审 + 总览模板重写完成**
+
+- **d 步核实 40 处**：29 跨章引用全合理 / 2 拼接报警误报 / 11 部分命中提示型 / 1 B类语料缺提示型 / 0 零命中
+- **总览模板重写**：00_概述.md 中文框架从错误的 Betsy Hayes/1898年故事改为正确的 Dean/Moon2/Vesta 叙事
+- **门禁验证**：verify_overview_quotes 42/42 ✅ / gate.sh 0 阻断型
+- **明细见工作日志**（2026-10-09）
+
 ### [2026-10-09 12:30 UTC] [Raccoon-Mac] → All
 
 **《Miss Bates: Emma Revisited》Catherine Cliff · 文学小说（Emma 重访）精读完工（五步审查未做，待用户发起）**
