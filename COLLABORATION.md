@@ -99,7 +99,7 @@ mystery-guest-by-maren-stoffels（推理/悬疑长篇，逐章精读·精简格�
 
 进度：ch01–ch43 共 43/60 章（每三至四章一批，门禁全绿后独立 commit；text/ 不入库，md 入库）。
 
-结构与主线：前 37 章为 Maria 单 POV；自 ch38 起切入多 POV 回闪补齐前史（PIP / FERRIS / MIKE）。ch01–03 石子夜会与 Bored?；04–06 第一局三色瓶；07–09 瞭望塔第二局；10–12 分手与第三局横穿高速；13–15 Mike 劫车与烧毁教堂；16–18 黄卫衣=Ferris、照片摊牌、早餐审判；19–21 Shannon 案补课与 Cody 洗清；22–24 自拍试探、路牌信封、Jax 人质；25–27 悬崖与危险共犯；28–31 Outcast 派对、Norah 勒颈、旧照现形；32–34 撕海报、真相章（ch33 纵火自白）、母亲手持最后一张海报；35–37 离家出逃、旧仓库假救援（录音机循环 Maria!）、湖边掐颈与摘面具前夕；38–40 PIP 目击纵火之夜、FERRIS 被捕审讯、PIP 立誓 For her. For us；41–43 Shannon 失踪通报当天这句话 cb=@<!exciting>cb 成灾 McGown 式：Shannon被找到（Raped. Murdered. Strangled.）、It turns out that Shannon is our "something more exciting."，以及 MIKE 视角首次看见 Maria 与其父的禁令 She turned in her own brother。
+结构与主线：前 37 章为 Maria 单 POV；自 ch38 起切入多 POV 回闪补齐前史（PIP / FERRIS / MIKE）。ch01–03 石子夜会与 Bored?；04–06 第一局三色瓶；07–09 瞭望塔第二局；10–12 分手与第三局横穿高速；13–15 Mike 劫车与烧毁教堂；16–18 黄卫衣=Ferris、照片摊牌、早餐审判；19–21 Shannon 案补课与 Cody 洗清；22–24 自拍试探、路牌信封、Jax 人质；25–27 悬崖与危险共犯；28–31 Outcast 派对、Norah 勒颈、旧照现形；32–34 撕海报、真相章（ch33 纵火自白）、母亲手持最后一张海报；35–37 离家出逃、旧仓库假救援（录音机循环 Maria!）、湖边掐颈与摘面具前夕；38–40 PIP 目击纵火之夜、FERRIS 被捕审讯、PIP 立誓 For her. For us；41–43 Shannon 失踪当晚 Maria 索要「更刺激的事」，几小时后 Shannon 被找到（Raped. Murdered. Strangled.），末句 It turns out that Shannon is our "something more exciting."；并切入 MIKE 视角首次看见 Maria 及其父的禁令 She turned in her own brother。以及 MIKE 视角首次看见 Maria 与其父的禁令 She turned in her own brother。
 
 最新门禁（第十五批 ch41–ch43）：check_chapter_quotes ch41 5/5、ch42 5/5、ch43 6/6；check_vocab FAIL 0 / WARN 0（降级 lane：无 library/*.epub，verify_quotes 层不判定）；check_entities 0；corruption FAIL 0；sweep_full 本章命中 374 / 跨章 0 / 查无 0；check_short_quotes 40/40。
 
