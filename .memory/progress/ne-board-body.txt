@@ -1,0 +1,8 @@
+Null Entity (Seth Haddon) 完工：23 章＋总览三篇，gate.sh 18 项 0 阻断型。
+- 文件数：正文 md 23（== text/ch*.txt 23）＋ 00_ 三篇＝26；.overview_templates 3 份随书入库
+- 章层门禁：verify_quotes 188/188（100%，完全干净文件 24/24，--full 整串取证 0）｜check_chapter_quotes 逐章 23 次非满命中 0 行｜sweep_full 本章 164／跨章 0／拼接 0／查无 0｜check_short_quotes 8/8｜check_vocab 591 行 FAIL 0｜check_entities 未知实体 0｜corruption_scan FAIL 0｜check_block_keywords 阻断 0｜gate.sh EXIT=0
+- 总览门禁：verify_overview_quotes 53/53｜check_overview_full 整串命中 34／标注与实章不符 0／H1 语义错配 0｜check_overview_labels 标注章逐字 55、待人判 0
+- 提示型（只记不改）：check_anchor 松散关键词 342｜sweep_analysis_inline ⚠️ 跨章 113（112 条位于 00_* 总览，按定义无「本章」；1 条是 ch10 明示「与第 9 章 Aliers 的…」，Informants. 逐字在 ch09）｜check_vocab 基础档疑超纲 3（词长 ≥9 启发式）
+- 本轮整改：ch10 原句6 跨自然段拼接→同段引语＋中文转述；总览 5 处（「整座空间站」→那艘 Subsidiary 飞船 ×2、造词 mindscape ×2、RABBIT 落点引语↔断言错位）
+- commit：088df2c35（总览三篇＋ch10 整改＋全书 gate）／994d1ad2d、f1b37a9af（章层门禁归档与二轮质检）；23 个章文件此前已入库
+- 五步审查未做（待用户发起）；原始逐行输出见 .memory/raw-gates/null-entity-by-seth-haddon/ 与当日工作日志
