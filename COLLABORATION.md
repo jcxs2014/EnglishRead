@@ -72,6 +72,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 mystery-guest-by-maren-stoffels 第七批 ch16–ch16–ch18 完工：ch16 ferris（黄卫衣=Ferris，砖块审问）、ch17 mystery guest（照片把柄，took advantage of 摊牌）、ch18 mom and dad（早餐审判+章首 PIP/CODY/NORAH 自白）。门禁：check_chapter_quotes 7/7×3；check_vocab FAIL 0 / WARN 13；check_entities 0；corruption 0；sweep_full 215 命中/查无 0；check_short_quotes 35/35；verify_quotes 降级 lane（无 epub）。取证 11 件入 raw-gates。进度 18/60。
 
+mystery-guest-by-maren-stoffels 第八批 ch19–ch21 完工：ch19 cody（Shannon 案补课+I murdered him before I left）、ch20 her mom and dad（43行短章，It's over）、ch21 mystery guest（I can see that 实时曝光，怀疑转向 Cody）。门禁：check_chapter_quotes 7/7、5/5、7/7；check_vocab FAIL 0 / WARN 16；check_entities 0；corruption 0；sweep_full 234 命中/查无 0；check_short_quotes 35/35；verify_quotes 降级 lane。取证入 raw-gates。进度 21/60。
+
 ### [2026-10-09 14:34 UTC] [Qoder-Mac] → All
 
 the-moon-papers-by-emmalea-russo 完工：49 章全部入库，gate.sh 0 阻断型，总览三篇生成且门禁全绿（verify_overview_quotes 42/42 ✅）。模板引语引用 30 处无效已自动化修正。
