@@ -75,7 +75,7 @@ POV: "Johnny Washington 与 Imani Washington（现在线，周六深夜跨进周
 
 **为什么这样写**：视角交接后，作者给读者的第一件东西是同一句自我鼓励被三股力量来回改写：You can do this 出现三次，中间插进一句 What were the chances（她清楚汽油是自己落下的），后面接一句脏话式的自贬（You ruin everything, dumbass.），最后落到一句近乎威胁的 You better fucking do this.——同一句话的三种语气，就是她的羞耻在被当场消化。而 Not even a wisp of smoke yet 只给"一缕烟"的量词，把希望压到最小单位，再让人物自己动手去扩大它。
 
-**读者视角提示**：Imani 本章的所有动作都在赎上一章她落下的那两桶汽油；本书让孩子的错误与父亲的失败在同一场停电里同时执行，两者互相抵消不了。
+**读者视角提示**：Imani 本章的所有动作都在赎 ch16 交代她落下的那两桶汽油；本书让孩子的错误与父亲的失败在同一场停电里同时执行，两者互相抵消不了。
 
 ---
 

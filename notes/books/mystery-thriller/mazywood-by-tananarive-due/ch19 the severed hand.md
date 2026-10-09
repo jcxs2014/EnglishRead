@@ -63,7 +63,7 @@ POV: "Tasha → Johnny（PRESENT DAY，Bear Creek Lodge 雪夜，第三人称限
 
 **为什么这样写**：这是一段"翻案"的文字，但作者先写心理机制再给外形：stuffed the memory into the safer realm of his dreams 把遗忘解释成自我保护，读者于是明白此前的"那只是梦"全是止痛药。而 white fur、snakelike torso、narrow snout、sharp teeth 这组解剖式细节，被嵌在恨祖母的从句里顺嘴带出——角色仍不肯直视它，作者却已经把它画完。
 
-**读者视角提示**：记住这组外形特征。本章稍早 Johnny 只给过 creature、slithered、zigzagging 这类抽象词，这是他第一次交出"长相"；后文凡再出现雪地轨迹、拖拽或掳掠场面，读者都应回来对照这份轮廓。
+**读者视角提示**：记住这组外形特征。本章稍早 Johnny 只给过 creature、slithered、zigzagging 这类抽象词，这一段才补全躯干、口鼻与牙齿——本章稍早他只交出过一句白毛（White fur, like camouflage in the snow）；后文凡再出现雪地轨迹、拖拽或掳掠场面，读者都应回来对照这份轮廓。
 
 ---
 

@@ -49,7 +49,7 @@ POV: "Imani Washington（现在线，周六下午近黄昏，第三人称限知�
 
 **关键词**：speckled、severed、ragged、eye socket
 
-**为什么这样写**：揭示被拆成三档焦距：先是形状（a brown and white cone），再是名字（a severed deer’s head），最后是细节（a snow-filled eye socket）——每档之间只隔一步，读者的辨认与人物同步。脖子用 ragged 而不写"切"，把责任留给读者想象；省略号让"又一步"变成缓冲，是全章唯一一次节奏上的深呼吸。收点 A frozen nightmare. 只有三个词，是孩子式的判语，同时也是本章的日期戳：血是冻住的，说明事情不是当天发生的——这个时间差正是下一章她能自圆其说的凭据。
+**为什么这样写**：揭示被拆成三档焦距：先是形状（a brown and white cone），再是名字（a severed deer’s head），最后是细节（a snow-filled eye socket）——每档之间只隔一步，读者的辨认与人物同步。脖子用 ragged 而不写"切"，把责任留给读者想象；省略号让"又一步"变成缓冲，是全章唯一一次节奏上的深呼吸。收点 A frozen nightmare. 只有三个词，是孩子式的判语，同时也是本章的日期戳：血是冻住的，说明事情不是当天发生的——这个时间差正是本章后文她能自圆其说的凭据。
 
 **读者视角提示**：鹿头没有角，Imani 在后面据此判断它是母鹿；作者让"家庭"这一层含义由孩子自己想到，不由叙述者说出。
 

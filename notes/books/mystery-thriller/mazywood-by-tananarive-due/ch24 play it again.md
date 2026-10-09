@@ -97,7 +97,7 @@ POV: "Mazelle（1943 年，洛杉矶，war bond fundraiser 之夜，第三人称
 
 **关键词**：brayed、pinched her cheek、You’ll always be Lazy Mazy
 
-**为什么这样写**：本章在一句现在时的宣言上收束："You’ll always be Lazy Mazy." 这句话与 ch21 的 Little Mazy 判词、与刚才那位法国口音男人的预言（And his prophecy sounded so real that it was as if the French stranger had broken her spell and Cinderella had been revealed as a scullery maid despite her exquisite gown.）合成同一个判决：她的名字不是她的。作者的写法是让声音物理化——To her, Lorenzo’s voice tolled throughout the room and trembled the walls. 一句关于名字的判决被放大成整个房间的钟声；随后是身体的恨：Mazelle wished she could wrap her hands around Lorenzo’s neck and snap his spine. 而动作只有半句：Instead, just like in a fairy tale, she turned to flee the ball.——童话给了她一个"逃离"的姿势，却没给她钟点之外的任何东西：没有车（司机在楼下）、没有合约（四年）、也没有 Reaper（在 MGM）。
+**为什么这样写**：本章在一句现在时的宣言上收束："You’ll always be Lazy Mazy." 这句话与 ch21 的 Little Mazy 判词、与刚才那位法国口音男人的预言（And his prophecy sounded so real that it was as if the French stranger had broken her spell and Cinderella had been revealed as a scullery maid despite her exquisite gown.）合成同一个判决：她的名字不是她的。作者的写法是让声音物理化——To her, Lorenzo’s voice tolled throughout the room and trembled the walls. 一句关于名字的判决被放大成整个房间的钟声；随后是身体的恨：Mazelle wished she could wrap her hands around Lorenzo’s neck and snap his spine. 而动作只有半句：Instead, just like in a fairy tale, she turned to flee the ball.——童话给了她一个"逃离"的姿势，却没给她钟点之外的任何东西：没有一辆能替她离开的车、没有合约（四年）、也没有 Reaper（在 MGM）。
 
 **读者视角提示**：本章的舞会结束方式与前面每一次"愿望兑现"一致：外部奖赏到手、内部代价结清；读者若把这一夜读成"她成功打入白人顶级圈层"，就把最后两句的位置读丢了——逃跑才是她的第一句自己的话。
 

@@ -25,7 +25,7 @@ POV: "Johnny Washington 与 Tasha Washington（现在线，周六夜里两点前
 
 **关键词**：burlesque、tickling、thrill of taboo、dying room
 
-**为什么这样写**：作者把两件本该冲突的事焊在同一句里：His distaste…immediately gave way to the thrill of taboo——快感的前提正是它越界，而越界的对象是一件死者的衣服。随后两句短句（This was his grandmother’s robe. They were about to sleep in her dying room.）用最平陈的语气把"地点"重新定义：同一个 room 在上章还是"惩罚房"，现在成了"临终房"与婚床所在。三个空间名互相覆盖，等于提醒读者：这本书里的房间从来只有一个功能——存放过去。
+**为什么这样写**：作者把两件本该冲突的事焊在同一句里：His distaste…immediately gave way to the thrill of taboo——快感的前提正是它越界，而越界的对象是一件死者的衣服。随后两句短句（This was his grandmother’s robe. They were about to sleep in her dying room.）用最平陈的语气把"地点"重新定义：无窗的窄小惩罚房（ch15）与放了病床、有百叶窗的主卧（本章）本是相邻的两间房，却在叙述里被并置成同一层记忆。两个空间名互相覆盖，等于提醒读者：这本书里的房间从来只有一个功能——存放过去。
 
 **读者视角提示**：与上一章末尾那次全家拥抱相接，本书在每一章"关系修复"之后立刻安排一次异响；此处越亲密，后面的枪越不突兀。
 
@@ -49,7 +49,7 @@ POV: "Johnny Washington 与 Tasha Washington（现在线，周六夜里两点前
 
 **关键词**：convertible、sporting、prematurely graying、clipped
 
-**为什么这样写**：梦的素材全部来自本章之前埋好的实物：车库里那辆红色 Cadillac（上一章 Imani 才掀开苫布）、走廊上的海报、Tasha 刚穿过的那件袍子。作者因此让"读过的东西"以"记起来的东西"的形态回来——waving to Black families lined up to cheer 满足的正是上一章她替 Mazelle 抱的那些不平。The name came to her 这一句最要紧：它标明知识不是通过感官获得的，而是被给予的，Tasha 只是接到。
+**为什么这样写**：梦的素材全部来自本章之前埋好的实物：车库里那辆红色 Cadillac（上一章 Imani 才掀开苫布）、走廊上的海报、Tasha 刚穿过的那件袍子。作者因此让"读过的东西"以"记起来的东西"的形态回来——waving to Black families lined up to cheer 满足的正是 ch13 走廊上她替 Mazelle 抱的那些不平。The name came to her 这一句最要紧：它标明知识不是通过感官获得的，而是被给予的，Tasha 只是接到。
 
 **读者视角提示**：Grady 这个人名本章没有交代身份来历；他是梦给的名字，请当作未证实的信息读，不要在此认定他与 Mazelle 的关系。
 

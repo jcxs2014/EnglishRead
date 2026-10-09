@@ -27,7 +27,7 @@ POV: "Johnny Washington（现在线，周六下午四点过后，Bear Creek Lodg
 
 **为什么这样写**：全章从一件衣服的"移动"起笔——袍子自己从模型上走到了门口（no longer on the living room mannequin 只交代位置变化，不交代原因），读者比 Johnny 更早怀疑有手碰过它。第三句把抽象的"过去"写成有方向、有重量的东西压向身体：bearing down on him 与 with every step 让走路变成受阻力运动，空间被写成时间的阻力场。fur-weighted 这个复合形容词更是把"重量"钉在皮草上——一件用动物做的衣服，正在替死者施力。
 
-**读者视角提示**：上一章末尾 Tasha 才想起 Mazelle 的袍子、想着要不要试穿；本章第一句就把袍子放到门口等她，两章之间的衔接全靠物件位移，没有任何说明句。
+**读者视角提示**：ch13 章中 Tasha 才想起 Mazelle 的袍子、想着要不要试穿；本章第一句就把袍子放到门口等她，两章之间的衔接全靠物件位移，没有任何说明句。
 
 ---
 
@@ -37,7 +37,7 @@ POV: "Johnny Washington（现在线，周六下午四点过后，Bear Creek Lodg
 
 **关键词**：punishment、pissed、kept her distance
 
-**为什么这样写**：这段的力气全在"罪名不成立"上：But I hadn’t done anything except show up 用一个只有"到场"的清单，把惩罚的定义权夺回来。随后 Johnny 把矛头从祖母转向大人之间的默契——she knew damn well why Mom kept her distance——damn well 这个口语重音让"她本来知道"成为比刑罚更重的指控：受罚不是因为做错，而是因为长辈之间那笔没算清的账。最后一句同时替上一章 Tasha 的疑问（为何此处是家庭秘密）给出部分答案，但仍不给出全貌。
+**为什么这样写**：这段的力气全在"罪名不成立"上：But I hadn’t done anything except show up 用一个只有"到场"的清单，把惩罚的定义权夺回来。随后 Johnny 把矛头从祖母转向大人之间的默契——she knew damn well why Mom kept her distance——damn well 这个口语重音让"她本来知道"成为比刑罚更重的指控：受罚不是因为做错，而是因为长辈之间那笔没算清的账。最后一句同时替 ch13 里 Tasha 的疑问（为何此处是家庭秘密）给出部分答案，但仍不给出全貌。
 
 **读者视角提示**：本章所有往事都经由 Johnny 之口转述给 Tasha，是"讲述"而非"演场"；注意他讲得断断续续、句子以引号套引号，读者拿到的永远是第二手。
 
@@ -61,7 +61,7 @@ POV: "Johnny Washington（现在线，周六下午四点过后，Bear Creek Lodg
 
 **关键词**：testament、meanest、sobbing、shock
 
-**为什么这样写**：这一段完全用"讲给妻子听"的现在时推进：I’m in shock. I’m in here sobbing——时态把三十年前的夜里拉回当下，讲述本身变成重历。作者先把冠冕堂皇的台词用引号套出来（it’s all love, like…），再一句 but she took my player. Took my music. 用最少的词把话撕开； Took 的重复省略主语，语气像孩子清点损失。最后一句停在 and I see… 之后不写完——省略号与段落断开同时使用，让下一段只剩一个词：Blood.
+**为什么这样写**：这一段完全用"讲给妻子听"的现在时推进：I’m in shock. I’m in here sobbing——时态把当年的那片夜拉回当下，讲述本身变成重历。作者先把冠冕堂皇的台词用引号套出来（it’s all love, like…），再一句 but she took my player. Took my music. 用最少的词把话撕开； Took 的重复省略主语，语气像孩子清点损失。最后一句停在 and I see… 之后不写完——省略号与段落断开同时使用，让下一段只剩一个词：Blood.
 
 **读者视角提示**：这种"块内句子被章末省略号截断"的写法是本书分段的常规手法；读到下一段单独成段的短词时，那通常是上一章/上一段刻意吊住的答案。
 
@@ -73,7 +73,7 @@ POV: "Johnny Washington（现在线，周六下午四点过后，Bear Creek Lodg
 
 **关键词**：scratched、drew first blood、minute
 
-**为什么这样写**：Tasha 在前面问过"first blood"是什么意思，这段就是回答，作者因此让 Johnny 用一句斗殴/决斗术语收拢全局：My grandmother drew first blood the minute she got the chance——draw first blood 本来是"先手见血"的竞技说法，一旦用于祖母，就把那栋房子定义成一个有规则、有对手的场子。First night and I’m already bleeding 只有四个词加时间状语，节奏上像孩子的算账：入场与受伤之间几乎没有间隔。长-ass nails 这个粗俗语则提醒读者，这段叙述的语气仍是十三岁那个孩子的。
+**为什么这样写**：Johnny 在本段先说出 drew first blood，Tasha 的追问（What do you mean… ‘first blood’?）紧随本段之后，作者因此让 Johnny 用一句斗殴/决斗术语收拢全局：My grandmother drew first blood the minute she got the chance——draw first blood 本来是"先手见血"的竞技说法，一旦用于祖母，就把那栋房子定义成一个有规则、有对手的场子。First night and I’m already bleeding 只有四个词加时间状语，节奏上像孩子的算账：入场与受伤之间几乎没有间隔。长-ass nails 这个粗俗语则提醒读者，这段叙述的语气仍是十三岁那个孩子的。
 
 **读者视角提示**：本章里"血"与"疤"是两个不同事件（耳朵被抓破、手臂被烙），别把它们并成一件事；后面章节提到烧伤时都只回指、不解释前因。
 
@@ -97,7 +97,7 @@ POV: "Johnny Washington（现在线，周六下午四点过后，Bear Creek Lodg
 
 **关键词**：undulating、snout、chittering、Humoring
 
-**为什么这样写**：作者把恐怖压缩在一瞬间的视觉里：so fast that it strobed in only two or three impressions 用"闪频"来写速度，等于承认人物的证据只有两三帧。比喻全部走"像 A 又不像 A"的否定式——like a weasel’s、like a squirrel’s chittering, except deadly、like a demon——每个比喻都用来说明"它不该是真的"，而孩子正是靠这些不吻合认出它危险。最后 Uncle Ricky 那句劝告与"humoring"（敷衍）连在一起，让成年人第二次以"压低消息"的方式出场，与前一章"别把这事再对别人说"呼应。
+**为什么这样写**：作者把恐怖压缩在一瞬间的视觉里：so fast that it strobed in only two or three impressions 用"闪频"来写速度，等于承认人物的证据只有两三帧。比喻全部走"像 A 又不像 A"的否定式——like a weasel’s、like a squirrel’s chittering, except deadly、like a demon——每个比喻都用来说明"它不该是真的"，而孩子正是靠这些不吻合认出它危险。最后 Uncle Ricky 那句劝告与"humoring"（敷衍）连在一起，让成年人第二次以"压低消息"的方式出场——同段里他先被告知 not to repeat his story to anyone else，随后又听到那句 chasin’ 之后的劝告，两道禁令叠在一处。
 
 **读者视角提示**：本章只写"Johnny 以为看到了什么"，物种始终没有确定；书里另一条线也有沿雪追迹、以形猜物的段落，读到那里时不要把这些描写当成分类依据。
 

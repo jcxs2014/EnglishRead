@@ -61,7 +61,7 @@ POV: "Tasha → Johnny → Imani（PRESENT DAY，雪停后的清晨，第三人�
 
 **关键词**：embodied、struggled、glove compartment
 
-**为什么这样写**：否定排比把 Johnny 此前给过的每个候选答案（fox-thing、bear、snake、bat）逐一划掉，借人物之口替读者更新"不可能清单"；embodied all these things 则把恐惧从"猜是哪一种"升级为"无法归类"。one shoe flying off 是全场最轻的物象、也是最重的丢失——作者让一只鞋先于母亲离开画面，一只踢向 glove compartment 的脚说明她到最后一秒仍在用车内的动作回应车外的世界。
+**为什么这样写**：否定排比把 Johnny 此前给过的候选答案（mountain lion、bear、fox 或 possum 大小的东西）逐一划掉，而 snake 与 bat 此前只以叙述旧比喻出现过（ch15 写那身子 undulating snakelike、写袍袖 like a bat’s wings），此刻第一次被当成候选，借人物之口替读者更新"不可能清单"；embodied all these things 则把恐惧从"猜是哪一种"升级为"无法归类"。one shoe flying off 是全场最轻的物象、也是最重的丢失——作者让一只鞋先于母亲离开画面，一只踢向 glove compartment 的脚说明她到最后一秒仍在用车内的动作回应车外的世界。
 
 **读者视角提示**：本章随后写 Johnny 跳车时忘了挂车（若 his rational mind had been functioning 他本会先挂挡再跳），程序感的失守与这只飞掉的鞋同属一类细节——文明动作没人做了。
 

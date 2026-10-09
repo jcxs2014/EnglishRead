@@ -9,7 +9,7 @@ POV: "Mazelle Washington（1941 年 7 月起，洛杉矶，第三人称限知）
 ## 本章导航
 
 - **时空坐标**：TWO YEARS LATER / JULY 1941——洛杉矶 Mayan Theater 的首演夜、两天后 Washington 家客厅、教堂后的 Hattie 家，章末已进入 Pearl Harbor 之后的十二月
-- **叙事视角**：第三人称限知，紧贴 Mazelle；本章时间跨度比前一章大得多（一夜、两天、数月），靠单独成行的 Be careful what you wish. 反复回环来缝合
+- **叙事视角**：第三人称限知，紧贴 Mazelle；本章时间跨度比前一章大得多（一夜、两天、数月），靠单独成行三次的 Be careful what you wish. 反复回环来缝合
 - **核心事件**：Mazelle 在 Mayan Theater 前排看 Duke Ellington 的 Jump for Joy 首演，被萨克斯手 Richard Harris 当众认作女友；散场时 Jerry Lorenzo 突然出现，她背过身躲开；两天后 Richard 上门拜访父母、Lorenzo 与 Sharpe 同日不请自来，送来 Reaper 剧本与一周一百五十美元起、四年的合约草案；签约后头三周白拿钱、Mother 辞掉厨工，随后寄来的却是"加勒比女服务员""笨女仆"，Reaper 被战事搁置，Lorenzo 又宣布一个新"主角"，Mother 当场咳不成声
 - **关键人物**：Mazelle、Richard Harris（Ellington 乐队的中音萨克斯手，本章写明二十九岁）、Duke Ellington、Hattie McDaniel、Jerry Lorenzo、Buddy Sharpe、Millie、Mother 与 Daddy、Mantan Moreland 与 Hazel、Dorothy Dandridge、Judith Jenkins（Reaper 编剧，女性）
 - **章节主题**：机会与圈套同体——救命钱与束缚合同是同一张纸的两面，"许愿—兑现—计价"的回路在战时好莱坞完成一次完整咬合
@@ -37,7 +37,7 @@ POV: "Mazelle Washington（1941 年 7 月起，洛杉矶，第三人称限知）
 
 **关键词**：bandmate、brag、startling
 
-**为什么这样写**：被认领的瞬间用听觉而不是视觉写——she heard him brag，读者与 Mazelle 一样只能听见，无法验证。作者紧接着留出一句极短的自我怀疑：Was it even true? They had socialized a couple of times, but always in a group.——两人其实只在人群里聚过几次，"我的姑娘"因此是一次单方面宣布。后文他的低音在客厅里唱 Jump for Joy 的新抒情曲，His deep voice was indigo silk 与这里的"炫耀"同属一种质地——好听的、可以被拿来做交易的东西。
+**为什么这样写**：被认领的瞬间用听觉而不是视觉写——she heard him brag，读者与 Mazelle 一样只能听见，无法验证。作者紧接着留出一句极短的自我怀疑：Was it even true? They had socialized a couple of times, but always in a group.——两人其实只在人群里聚过几次，"我的姑娘"因此是一次单方面宣布。后文他的低音从餐厅那边传来，唱 Jump for Joy 的新抒情曲，His deep voice was indigo silk 与这里的"炫耀"同属一种质地——好听的、可以被拿来做交易的东西。
 
 **读者视角提示**：Mazelle 打量 Richard 的那句心动（Mazelle’s heart sped with intrigue as she cataloged Richard’s handsome features）与她算计片酬的算术共用一套逻辑：本章里心动与评估同时进行，读者若只看见浪漫会漏掉账本。
 
@@ -51,7 +51,7 @@ POV: "Mazelle Washington（1941 年 7 月起，洛杉矶，第三人称限知）
 
 **为什么这样写**：这一块的重量在括号里：原文紧接一句 (You know how.)——叙述不替她说明"怎么扭曲的"，只把责任交回给读者记忆里 ch01 的那桩交易。随后作者立刻给这恐惧一个具体动作：The empty piano bench behind Ellington made her remember Aunt Ruby’s hairbrush. Mazelle stiffened, acid curdling her stomach. No. Not tonight. She willed the poisonous memories away. 空琴凳、卷发刷、胃酸——三个实物把抽象的"报应"钉回她身体里，也钉回她自己的家。
 
-**读者视角提示**：Be careful what you wish. 在本章单独成行地反复响起（Richard 的得意之后、Lorenzo 出现之后、她笑说"这辈子最好的一天"之后、Sharpe 醉话之后）；这是本章的节拍器，读到最后一块时请回数它出现的位置。
+**读者视角提示**：Be careful what you wish. 在本章三次单独成行地响起（Richard 的得意之后、她笑说"这辈子最好的一天"之后、Sharpe 醉话之后），另有一次嵌在段落末尾（…lingering baby face. Be careful what you wish.）；这是本章的节拍器，读到最后一块时请回数它出现的位置。
 
 ---
 
@@ -73,7 +73,7 @@ POV: "Mazelle Washington（1941 年 7 月起，洛杉矶，第三人称限知）
 
 **关键词**：sharecropper、noble bearing、melancholy
 
-**为什么这样写**：转折被写成身体动作：先是要把页面推回去（She was about to push the pages back to her parents），再是被一行字勾住——作者让"妥协"与"心动"之间只隔一个舞台说明。那段说明写得极像 Mazelle 本人（She belongs a million miles away. And she is!），而 Lorenzo 的推销词恰好把这份相认坐实：Negroes fleeing racial violence in the South sang about moving to cities 的处境与 Louvenia 的"不在原地"同构。叙述又补一句客观事实：And the screenwriter was a woman, although Mazelle had never heard of her: Judith Jenkins. 一个她从未听过的名字，是本章唯一不带价签的礼物。
+**为什么这样写**：转折被写成身体动作：先是要把页面推回去（She was about to push the pages back to her parents），再是被一行字勾住——作者让"妥协"与"心动"之间只隔一个舞台说明。那段说明写得极像 Mazelle 本人（She belongs a million miles away. And she is!），而把这份相认坐实的是叙述本身——Negroes fleeing racial violence in the South sang about moving to cities 出自她对 "Passport to Georgia" 歌词的听感，不是 Lorenzo 的推销词；其处境与 Louvenia 的"不在原地"同构。叙述又补一句客观事实：And the screenwriter was a woman, although Mazelle had never heard of her: Judith Jenkins. 一个她从未听过的名字，是本章唯一不带价签的礼物。
 
 **读者视角提示**：Reaper 这个词的钝感被 Mazelle 当场感到——The script was titled simply Reaper, which gave Mazelle an inexplicable jolt with its bluntness, nothing cute or flowery；剧名"收割者"与后文弟弟从脱粒机上摔落（falls from a thresher in the cornfield）在章内互相预告。
 
@@ -81,7 +81,7 @@ POV: "Mazelle Washington（1941 年 7 月起，洛杉矶，第三人称限知）
 
 > **原句 6:** “I’m sorry, Mazelle,” Sharpe said, his voice tremoring. “Sorry about this. I shouldn’t have called. Have a good night.” Then, as an afterthought, “Congratulations, sweetheart.”
 
-**中文理解**：签约那晚的午夜电话，开头是沉重的、破着风的呼吸。Sharpe 醉着打来，只问了一句"你签了吗"，得到"签了"的回答之后，他说：对不起，Mazelle；对不起；我不该打这个电话；晚安。然后像忽然想起什么似的补了一句——恭喜你，甜心。
+**中文理解**：签约那晚的午夜电话，开头是沉重的、破着风的呼吸。Sharpe 醉着打来，连着两遍问"你签了吗"（“Did you sign it?”…“Just tell me—did you sign it?”），得到"签了"的回答之后，他说：对不起，Mazelle；对不起；我不该打这个电话；晚安。然后像忽然想起什么似的补了一句——恭喜你，甜心。
 
 **关键词**：tremoring、afterthought、Congratulations
 

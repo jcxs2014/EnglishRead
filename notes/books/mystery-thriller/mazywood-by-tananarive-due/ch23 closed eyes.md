@@ -57,11 +57,11 @@ POV: "Mazelle（1943 年，好莱坞 Lorenzo Studios，片场人称 Mrs. Washing
 
 > **原句 4:** “I’m not that drunk,” Jerry said. He stepped closer. He’d been moving toward her again and she hadn’t noticed. He was just on the other side of the chair now. She smelled his shampoo again, a cologne’s musk. “I see everything more clearly now. I see you more clearly now.”
 
-**中文理解**：她说"你醉得不轻，先生"，故意用"先生"去扎他残存的清醒。他答：我没那么醉。他又靠近了一步——她已经第二次没察觉他在移动——现在他只剩一把椅子的距离。她再次闻到他的洗发水味，混着古龙水的麝香。"我现在什么都看得更清楚。我看得更清楚你了。"
+**中文理解**：她说"你醉得不轻，先生"（这句在引语块前一段），故意用"先生"去扎他残存的清醒。他答：我没那么醉。他又靠近了一步——她没察觉他在移动（全章这一处 hadn’t noticed）——现在他只剩一把椅子的距离。她再次闻到他的洗发水味，混着古龙水的麝香。"我现在什么都看得更清楚。我看得更清楚你了。"
 
 **关键词**：not that drunk、hadn’t noticed、more clearly
 
-**为什么这样写**：本章最狠的一句是"我看得更清楚你了"，因为它把侵犯包装成"看见"：全章她争取的正是被看见（Bill 不打亮她的脸，观众只看她的围裙），而他用一句"我看清你了"完成了反向的、占有式的注视。作者的预警技术也在这里：连续两处写她"没察觉"（He’d been moving toward her again and she hadn’t noticed；前文 she felt a practiced tug on her dress’s zipper 之前，叙述已写过她站在椅后 keeping the chair between them），叙述者的眼睛比角色更早看见危险。而 Lorenzo 问她 When did you get so cynical, Mazelle? 之后，她心里的算术把这句问话答成了被剥削的起点：When I was eleven, Mazelle thought. No, when I was nine.
+**为什么这样写**：本章最狠的一句是"我看得更清楚你了"，因为它把侵犯包装成"看见"：全章她争取的正是被看见（Bill 不打亮她的脸，观众只看她的围裙），而他用一句"我看清你了"完成了反向的、占有式的注视。作者的预警技术也在这里：叙述只写了一次她"没察觉"（He’d been moving toward her again and she hadn’t noticed），而她其实早有位置感——她站在椅后 keeping the chair between them，用椅子隔开两人；她看见了距离，没看见意图。叙述者的眼睛比角色更早把危险摆出来。而 Lorenzo 问她 When did you get so cynical, Mazelle? 之后，她心里的算术把这句问话答成了被剥削的起点：When I was eleven, Mazelle thought. No, when I was nine.
 
 **读者视角提示**：本章的"看/被看"意象要连 ch21 的 Look sad 与 ch24 的舞会灯光一起读；作者把"被看见"写成双刃——它是她要的报酬，也是他要的价格。
 
@@ -73,7 +73,7 @@ POV: "Mazelle（1943 年，好莱坞 Lorenzo Studios，片场人称 Mrs. Washing
 
 **关键词**：nobody’s clown、hid you under that sack、His voice cracked
 
-**为什么这样写**：这是全书历史线里权力者第一次承认账目：Lorenzo 承认自己就是那个把她"藏进围裙"的人（Lazy Mazy 的设定正出自本章回溯的那番推销），也承认这不是过去式——and I’m still doing it。作者立刻给这份坦白一个功能：紧接着 Mazelle 听见自己最深的愿望被他说出口（She’d heard her deepest yearning spoken aloud, released into the air by the only person she knew with the influence to make it real. Maybe Lorenzo could cast a spell for her too.），于是"道歉"在文本里不是救赎而是开锁工具——他一边自贬，一边伸手解她背后的拉链。声音裂开的那一秒与他的手越过椅背的那一秒被排在同一段里，这就是本章的道德结构。
+**为什么这样写**：这是全书历史线里权力者第一次承认账目：Lorenzo 承认自己就是那个把她"藏进围裙"的人（Lazy Mazy 的设定正出自本章回溯的那番推销），也承认这不是过去式——and I’m still doing it。作者立刻给这份坦白一个功能：紧接着 Mazelle 听见自己最深的愿望被他说出口（She’d heard her deepest yearning spoken aloud, released into the air by the only person she knew with the influence to make it real. Maybe Lorenzo could cast a spell for her too.），于是"道歉"在文本里不是救赎而是开锁工具——他一边自贬，一边伸手解她背后的拉链。他的承认（His voice cracked.）与随后伸手解她背后拉链的那一段被排在紧邻的两段里，这就是本章的道德结构。
 
 **读者视角提示**：不要把这句读成他的成长；本章后面 Sharpe 在车里说的 "Millie heard all about what’s going on in that office, girls crying on her shoulder" 才是作者对这类"我会为你想办法"的定价——他不是第一次这样说，也不会是最后一次。
 
@@ -97,7 +97,7 @@ POV: "Mazelle（1943 年，好莱坞 Lorenzo Studios，片场人称 Mrs. Washing
 
 **关键词**：a mercy、mysterious、Get out of it while you can
 
-**为什么这样写**：作者把本章的收束交给一个广播剧：既不用 Sharpe 说教（他自己刚刚只说出 "From now on, if Jerry wants to meet you in his office, I go with you."），也不用 Mazelle 忏悔——她确实一个字没说（She and Sharpe didn’t speak for the rest of the drive.）。广播的"另一个女人"是本书常用的结构：让警告来自公共介质，因而无人负责、也无法反驳。它与本章前段她心里 Mother 的声音、Millie 的名声焦虑同时响起，构成一个由女性声音组成的警告网络——而她仍会留在合约里，因为 ch22 已经把"离开"的价钱标好了。
+**为什么这样写**：作者把本章的收束交给一个广播剧：既不用 Sharpe 说教（他自己刚刚只说出 "From now on, if Jerry wants to meet you in his office, I go with you."），也不用 Mazelle 忏悔——广播响起之后的后半程她一个字没说（She and Sharpe didn’t speak for the rest of the drive.；此前她只丢给 Sharpe 两句自保的话）。广播的"另一个女人"是本书常用的结构：让警告来自公共介质，因而无人负责、也无法反驳。它与本章前段她心里 Mother 的声音、Millie 的名声焦虑同时响起，构成一个由女性声音组成的警告网络——而她仍会留在合约里，因为 ch22 已经把"离开"的价钱标好了。
 
 **读者视角提示**：Suspense 这档节目名与章题 Closed Eyes 押在一起：听众与闭眼者都是"只闻其声、不见其事"的位置；下一章的舞会与筹款会把这则警告搬到她自己的嘴边。
 
@@ -138,4 +138,4 @@ POV: "Mazelle（1943 年，好莱坞 Lorenzo Studios，片场人称 Mrs. Washing
 
 ## 一句话总结
 
-1943 年的拍摄日里，Mazelle 用闭眼当盾、用一条过的特技当工资、用"Jerry"这个称呼当筹码，却在办公室里被同一套"我看见你"的话术按进椅背——本章让施害者先承认账目（I hid you under that sack—and I’m still doing it），再让她在天花板上看着自己被劈成两半，最后把全部判决交给收音机里另一个女人的两句警告。
+1943 年的拍摄日里，Mazelle 用闭眼当盾、用一条过的特技当工资、用"Jerry"这个称呼当筹码，却在办公室里被同一套"我看见你"的话术按进椅背——本章让施害者先承认账目（I hid you under that sack—and I’m still doing it），再让她在天花板上看着自己被劈成两半，最后把全部判决交给收音机里另一个女人的一句警告。
