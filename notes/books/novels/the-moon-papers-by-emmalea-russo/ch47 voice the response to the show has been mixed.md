@@ -121,20 +121,38 @@ POV: "无名 Voice（第一人称限知，城市寓所与 Gallery X；为展览�
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| juxtaposes | 并置、对照 | He juxtaposes photographs he took of socialite parties and events here in the city with parties in rural Pennsylvania where he ended up living, I believe until his time of death. |
-| effervescent | 冒泡的、热情洋溢的 | Like a carbonated beverage, she starts out bubbly and effervescent, almost burning your throat. |
-| embellishes | 润色、 embellish | It’s true Vesta tends to work from life, but she also embellishes, allowing other worlds to get in. |
+| juxtaposed | 并置、对照摆放 | Anyway, the dream structure reminded me of that series in that there were many disparate locations and social tiers juxtaposed. |
+| Variations | 变奏、反复变化的版本 | Variations on that same dream for over three months now. |
+| breathless | 气喘吁吁的 | He was breathless, sweating. |
+| effervescent | 冒泡的、兴致高昂的 | Like a carbonated beverage, she starts out bubbly and effervescent, almost burning your throat. |
+| definitively | 确凿地、一锤定音地 | I don’t think they definitively prove that she was cheating on Lars, nor that she has anything to do with the man in the paintings, or that he even exists, at the Center for Constant Creation or anywhere but in her imagination. |
+| imagination | 想象、虚构 | I don’t think they definitively prove that she was cheating on Lars, nor that she has anything to do with the man in the paintings, or that he even exists, at the Center for Constant Creation or anywhere but in her imagination. |
+| embellishes | 渲染、添枝加叶地加工 | It’s true Vesta tends to work from life, but she also embellishes, allowing other worlds to get in. |
+| collecting | 搜集、暗中收集 | But she was collecting intel in secret. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| cinematic | 电影感的、有镜头感的 | They are cinematic, these pieces, see: one, two, three. |
+| socialite | 名媛、社交名流 | He juxtaposes photographs he took of socialite parties and events here in the city with parties in rural Pennsylvania where he ended up living, I believe until his time of death. |
+| disparate | 互不相干的、分散各处的 | Anyway, the dream structure reminded me of that series in that there were many disparate locations and social tiers juxtaposed. |
+| fanciest | 最华丽讲究的 | I had to put my clothes back on, go back out into the fanciest part of the party and be charming. |
+| charming | 迷人的、施展魅力 | I had to put my clothes back on, go back out into the fanciest part of the party and be charming. |
+| dreamers | 做梦的人 | Like, myself and all the other dreamers were being dreamed by her. |
+| reviewers | 评论者、书评人 | I’ve watched her charm the pants off so many buyers and reviewers. |
+| departure | 转变、出走（双关） | It’s true that these paintings represent a departure for her. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| architectural impossibility | 建筑学上的不可能 | I’m inside a very complicated building where many zones are affixed to each other, like an architectural impossibility. |
+| carbonated beverage | 碳酸饮料、汽水 | Like a carbonated beverage, she starts out bubbly and effervescent, almost burning your throat. |
+| dream space | 梦境空间 | I mention this dream because I got the feeling that Vesta had created the dream space. |
+| publicity materials | 宣传材料 | I threw together the publicity materials in a few hours. |
+| scary prayer | 吓人的祷文（反复念诵） | Like a scary prayer looping. |
+| tablecloths | 桌布 | And she wasn’t present but she was all around: in the details, the tablecloths, woven into the dream fabric. |
+| window unit | 窗式空调机 | I have a window unit in my apartment but that’s it. |
 
 ## 一句话总结
 

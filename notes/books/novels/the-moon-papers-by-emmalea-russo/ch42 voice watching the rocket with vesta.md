@@ -115,7 +115,7 @@ POV: "无名老年 Voice（第一人称限知，她现在的住处；本章未�
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| designer | 设计师（她的头衔） | A designer. |
+| designer | 设计师（叙述者的头衔） | A designer. |
 | no-good hippie | 不务正业的嬉皮士 | He’s a no-good hippie. |
 | quote unquote | 所谓、加了引号的 | I guess you could say my daughter, who must be about my age by now, is a quote unquote success. |
 | vice president | 副总裁 | She’s a vice president at one of those medical companies. |
