@@ -1,0 +1,10 @@
+词条行合计: 176
+
+--- FAIL (0) ---
+
+--- WARN (5) ---
+  ch01 maria pip.md [基础] 基础档疑含超纲词「batteries」
+  ch04 maria pip.md [基础] 基础档疑含超纲词「strawberries」
+  ch04 maria pip.md [基础] 基础档疑含超纲词「chocolate milk」
+  ch06 maria mystery guest.md [基础] 基础档疑含超纲词「invitation」
+  ch09 maria mystery guest.md [基础] 基础档疑含超纲词「trembling」
