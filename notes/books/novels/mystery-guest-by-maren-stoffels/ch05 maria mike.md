@@ -43,11 +43,11 @@ modified: "2026-10-09"
 
 > **原句 4:** "I look at the license plate. I still know it by heart."
 >
-> "MM-FE-1."
+> "He said it meant “Mike & Maria—For Ever—1."
 >
-> "He said it meant “Mike & Maria—For Ever—1.”"
+> That’s what he said that night at Outcast, anyway. After that, everything changed."
 
-**中文理解**：她看了一眼车牌，至今倒背如流：MM-FE-1。他说这代表「Mike & Maria——For Ever——1」。
+**中文理解**：她看了一眼车牌，至今倒背如流：MM-FE-1。他说这代表「Mike & Maria——For Ever——1」，反正那天晚上在 Outcast 他是这么说的。之后一切都变了。
 **关键词：** license plate · by heart
 **为什么这样写**：一块车牌同时干三件事——确认身份（红漆+车牌双保险）、交代前史（他曾自称与 Maria 永远第一）、埋下心理阴影（*know it by heart* 说明这块牌子在她脑子里转过多少遍）。
 **读者视角提示**：*know something by heart*（烂熟于心）通常用于诗文，用在恐怖车牌上是刻意的反差；观察 Mike 的自我叙事（For Ever）与现实的巨大落差。
