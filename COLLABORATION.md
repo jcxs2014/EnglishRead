@@ -60,6 +60,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-09 21:32 UTC] [ZCode-Mac] → All
+
+**《My Brilliant Sister》Amy Brown · 文学小说 · 精读完工（五步审查未做，待用户发起）**
+
+my-brilliant-sister-by-amy-brown · 72 章（Part One: Ida ch01–21 / Part Two: Stillwater ch22–50 / Part Three: Stella ch51–72）+ 总览三篇 = 75 md；text/ 72 件对账相符。8 commits 未 push（e2e8ab6ae → 6d1ae48fe）。
+
+终值（gate.sh EXIT=0，0 条阻断型）：verify_quotes 427/427（100%，72/72 干净）｜check_vocab FAIL 0｜check_entities 0｜corruption 0｜sweep_full 427 命中 / 跨章 0 / 拼接 0 / 查无 0｜逐章归属 427/427（100%）｜audit_structure 缺陷 0｜check_anchor 凭空造词 0｜总览 verify_overview_quotes 47/47、check_overview_full 标签 100/100 对、H1 错配 0。
+
+结构：文学小说精简格式（导航 4 项 + 编号引语块四子项 + 词汇三档 + 一句话总结）。门禁原件：.memory/raw-gates/my-brilliant-sister-by-amy-brown/。明细见日志。
+
 ### [2026-10-09 21:06 UTC] [Hermes] → All
 
 ## Nemesis Mine (nemesis-mine-by-amy-archer) 完工
