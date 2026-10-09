@@ -1,0 +1,18 @@
+词条行合计: 354
+
+--- FAIL (0) ---
+
+--- WARN (13) ---
+  ch01 maria pip.md [基础] 基础档疑含超纲词「batteries」
+  ch04 maria pip.md [基础] 基础档疑含超纲词「strawberries」
+  ch04 maria pip.md [基础] 基础档疑含超纲词「chocolate milk」
+  ch06 maria mystery guest.md [基础] 基础档疑含超纲词「invitation」
+  ch09 maria mystery guest.md [基础] 基础档疑含超纲词「trembling」
+  ch12 maria cody.md [进阶] 词条跨篇(本章无，epub 全书有)「canine tooth」
+  ch12 maria cody.md [基础] 基础档疑含超纲词「grilled sandwiches」
+  ch13 maria mike.md [基础] 基础档疑含超纲词「boyfriend」
+  ch13 maria mike.md [基础] 基础档疑含超纲词「conversation」
+  ch13 maria mike.md [基础] 基础档疑含超纲词「nightmares」
+  ch16 maria ferris.md [基础] 基础档疑含超纲词「flashlight」
+  ch17 maria mystery guest.md [基础] 基础档疑含超纲词「heartbeat」
+  ch18 maria her mom and dad.md [基础] 基础档疑含超纲词「threatening」
