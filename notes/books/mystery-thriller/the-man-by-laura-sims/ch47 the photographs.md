@@ -81,6 +81,10 @@ POV: "Paul (third person limited)"
 > **原句 4：**
 > **原句 1:** Look, my dad isn't too happy about it, but I convinced him to let you review all the photographs, select a few, and send them to a magazine—one magazine. What did you say the other day? Life?"
 
+**关键词：**
+- (关键词待补充)
+
+
 **中文理解：**
 "我爸对这个不太高兴，但我说服了他，让你审阅所有照片，选几张，然后寄给一家杂志——就一家。你前几天说的是哪一家来着？Life？"
 
@@ -118,6 +122,10 @@ Paul 的夸夸其谈与他的真实处境形成讽刺性反差。他说"edgier"�
 
 > **原句 6：**
 > **原句 2:** All right. But you'll have to pass everything by my dad before you submit them. He wants to make sure there's nothing that could, you know, embarrass Mom. Her memory."
+
+**关键词：**
+- (关键词待补充)
+
 
 **中文理解：**
 "行。但你在投稿之前，所有照片都得过我爸爸那一关。他想确保没有什么会……你懂的，让妈妈难堪。她的名誉。"
@@ -167,3 +175,6 @@ Paul 感谢他然后挂断电话，随后坐在那里，香烟叼在齿间，摇
 ## 一句话总结
 
 （本章暂无总结）
+
+**关键词：**
+- (关键词待补充)

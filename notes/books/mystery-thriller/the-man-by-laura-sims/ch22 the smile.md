@@ -30,7 +30,7 @@ Judith 做了一顿过熟的鸡肉和蔫四季豆作为晚餐，Tom 善意地全
 
 Tom 的 kindness 反而成为触发点：
 
-> "but Tom's habitual kindness unlocks them; they slide down my face. They come faster and faster, until I'm gasping with sobs."
+> **原句 1:** "but Tom's habitual kindness unlocks them; they slide down my face. They come faster and faster, until I'm gasping with sobs."
 
 **中文理解**："但 Tom 惯常的善意将它们（眼泪）解锁；它们滑过我的脸。越来越快，直到我喘不上气来。" Judith 用"unlock"来形容泪水——善意成了解开她压抑情绪的钥匙，而一旦打开就无法关闭。
 
@@ -47,7 +47,7 @@ habitual kindness 触发崩溃——这是全章的情感引擎。Judith 一直�
 
 Judith 的哭泣不是单一悲伤，而是多层记忆同时涌起——她用了**排比结构**交代三段往事：
 
-> "When Rosie died, I cried like this, and again at Tom's hospital bedside. I cried like this when Tom Junior was born…"
+> **原句 2:** "When Rosie died, I cried like this, and again at Tom's hospital bedside. I cried like this when Tom Junior was born…"
 
 **中文理解**："当 Rosie 死的时候，我这样哭过，在 Tom 住院的床边又哭了一次。Tom Junior 出生的时候我也这样哭过……" Judith 用排比结构将三个截然不同的场景——丧失、恐惧、喜悦——用同一种哭泣连接，暗示她成年生活的核心模式。
 
@@ -62,7 +62,7 @@ Rosie 之死、Tom 住院、儿子出生——三个场景代表三种情感：�
 
 关于 Tom Junior 出生那一段尤其重要：
 
-> "I held him and wept out all the pain, all the hardship and horror of my childhood."
+> **原句 3:** "I held him and wept out all the pain, all the hardship and horror of my childhood."
 
 **中文理解**："我抱着他，宣泄出我童年所有的痛苦、艰辛和恐惧。" Judith 抱着刚出生的 Tom Junior，却在他的存在中找到了宣泄压抑一生的创伤的出口。新生儿的出生与童年创伤的记忆在此刻交织。
 
@@ -76,7 +76,7 @@ Rosie 之死、Tom 住院、儿子出生——三个场景代表三种情感：�
 
 ### 3. 眼泪作为净化仪式
 
-> "When I was done sobbing, it felt like I'd gone through a monumental cleansing. As if the flood of my tears had washed out the past like it was a rotten bridge."
+> **原句 4:** "When I was done sobbing, it felt like I'd gone through a monumental cleansing. As if the flood of my tears had washed out the past like it was a rotten bridge."
 
 **中文理解**："当我哭完之后，我感觉经历了一场宏大的净化。仿佛我泪水的洪水将过去冲刷殆尽，像一座腐烂的桥。" Judith 用净化和桥梁的意象描述情绪崩溃后的状态——过去需要被冲走，新的开始才有可能。
 
@@ -95,7 +95,7 @@ Rosie 之死、Tom 住院、儿子出生——三个场景代表三种情感：�
 
 情绪平复后 Judith 选择开口——但她说的只是可以说的部分：
 
-> "There's a man who's been—calling me… He says terrible things. I don't know why he's calling me, or why it upset me just now, but he does and it did."
+> **原句 5:** "There's a man who's been—calling me… He says terrible things. I don't know why he's calling me, or why it upset me just now, but he does and it did."
 
 **中文理解**："有一个男人一直——打电话给我……他说可怕的话。我不知道为什么他给我打电话，也不知道为什么现在让我心烦，但他确实在打，确实让我心烦了。" Judith 向 Tom 透露骚扰电话的存在，但用三个"I don't know"制造无知的假象。
 
@@ -112,7 +112,7 @@ Rosie 之死、Tom 住院、儿子出生——三个场景代表三种情感：�
 
 这是全章最关键的**张力点**之一。Tom 愤怒且坚定地提出报警，但 Judith 的 blood freezes——因为她对 police 有着痛苦的记忆：
 
-> "Tom doesn't know my history with the police: how they accused me of letting my attacker in, being complicit in my own torment. How, later, they suggested I'd made it all up—and my grandmother believed them."
+> **原句 6:** "Tom doesn't know my history with the police: how they accused me of letting my attacker in, being complicit in my own torment. How, later, they suggested I'd made it all up—and my grandmother believed them."
 
 **中文理解**："Tom 不知道我报警的经历：他们指控我让攻击者进来，说我自己的痛苦是共谋。后来，他们暗示这一切都是我编的——而我的祖母相信了他们。" Judith 过去的创伤不仅来自攻击本身，还来自警察系统的二次伤害——他们质疑她的可信度。
 
@@ -128,7 +128,7 @@ Rosie 之死、Tom 住院、儿子出生——三个场景代表三种情感：�
 
 Tom 尊重了她的意愿，但加了一个条件：**不要接电话**。Judith 反驳：
 
-> "What if something happened to you? Or Tom Junior."
+> **原句 7:** "What if something happened to you? Or Tom Junior."
 
 **中文理解**："如果你出了什么事呢？或者 Tom Junior 呢？" Judith 用这个问题反驳 Tom"不要接电话"的建议——她不能完全脱离外界，即使危险就在电话那头。这是 Judith 的困境：危险与正常生活的边界已经完全模糊。
 
@@ -144,7 +144,7 @@ Tom 尊重了她的意愿，但加了一个条件：**不要接电话**。Judith
 
 在"shielding Tom to save his health"的想法之后，Judith 突然质问自己：
 
-> "I tell myself I'm shielding Tom to save his health, but really, would it hurt or kill him to know? Why hold so tightly to my secrets?"
+> **原句 8:** "I tell myself I'm shielding Tom to save his health, but really, would it hurt or kill him to know? Why hold so tightly to my secrets?"
 
 **中文理解**："我告诉自己我是在保护 Tom、保住他的健康，但实际上，告诉他会伤害他或杀死他吗？为什么我如此紧紧抓住我的秘密？" Judith 先写出"官方版本"（我在保护 Tom），然后立刻用"but really"推翻它。
 
@@ -157,7 +157,7 @@ Tom 尊重了她的意愿，但加了一个条件：**不要接电话**。Judith
 
 这是一个重要的**自我拆穿**：她知道自己在找借口，但还是要继续找。然后是更令人不安的问题：
 
-> "Because I love them, just a little? Cherish them as wholly mine?"
+> **原句 9:** "Because I love them, just a little? Cherish them as wholly mine?"
 
 **中文理解**："因为我爱它们，只是一点点？把它们当作完全属于我的而珍视？" Judith 质问自己是否爱她的秘密——这暗示某种斯德哥尔摩式的情感：秘密已经成为她身份的一部分，如果分享出去，她会失去那 part of herself。
 
@@ -169,7 +169,7 @@ Tom 尊重了她的意愿，但加了一个条件：**不要接电话**。Judith
 
 她 love 她的秘密——这暗示某种斯德哥尔摩式的情感：秘密已经成为她身份的一部分，如果分享出去，她会失去那 part of herself。
 
-> "Do I love the man, the shadow, too?"
+> **原句 10:** "Do I love the man, the shadow, too?"
 
 **中文理解**："我也爱那个男人，那个阴影吗？" Judith 质问自己与追踪者之间是否存在某种扭曲的情感联系。这是全章最黑暗的一句话——她开始怀疑自己是否对侵害者产生了某种情感依附。
 
@@ -183,7 +183,7 @@ Tom 尊重了她的意愿，但加了一个条件：**不要接电话**。Judith
 
 ### 7. 结尾的微笑
 
-> "There is no hope for you, I think, looking at my Tom like he's some kind of doomed suitor."
+> **原句 11:** "There is no hope for you, I think, looking at my Tom like he's some kind of doomed suitor."
 
 **中文理解**："我觉得你没有希望了，我看着我的 Tom，仿佛他是某种注定失败的求婚者。" Judith 用"doomed suitor"（注定失败的求婚者）重新框架她与 Tom 的关系——她已经 to some degree 宣告了这段关系的悲剧结局。
 
@@ -197,7 +197,7 @@ Tom 尊重了她的意愿，但加了一个条件：**不要接电话**。Judith
 
 但 Tom 的回应是：
 
-> "He just gives me a loving smile."
+> **原句 12:** "He just gives me a loving smile."
 
 **中文理解**："他只是给我一个温柔的微笑。" Tom 的回应与 Judith 的内心绝望形成强烈反差——他看不见她所看见的，他们之间的信息差本身就是悲剧。
 
@@ -227,15 +227,23 @@ Tom 尊重了她的意愿，但加了一个条件：**不要接电话**。Judith
 
 ## 句子结构分析
 
-> "Tom's fork clatters to his plate as he reaches for my wrist. He grabs it too hard and I cry out, as though he were the man in the crosswalk."
+> **原句 13:** "Tom's fork clatters to his plate as he reaches for my wrist. He grabs it too hard and I cry out, as though he were the man in the crosswalk."
+
+
+**关键词：**
+- (关键词待补充)
 
 三个动作在一个句子中完成：fork clatters → reaches → grabs too hard。"as though he were the man in the crosswalk"是全章最惊悚的一句——Judith 在那一刻把 Tom 与追踪者**等同**，这不是 Tom 的错，而是 Judith 的创伤已经让她无法区分善意与危险。cry out 是身体的本能反应，先于理性。
 
 > "There's a man who's been—calling me," I say quietly.
 
+
+**关键词：**
+- (关键词待补充)
+
 破折号制造了言语在出口前就断裂的感觉——Judith 无法说出完整真相，这个破折号就是她的心理防线。
 
-> "I tell myself I'm shielding Tom to save his health, but really, would it hurt or kill him to know? Why hold so tightly to my secrets?"
+> **原句 14:** "I tell myself I'm shielding Tom to save his health, but really, would it hurt or kill him to know? Why hold so tightly to my secrets?"
 
 这句话是 Judith 的**自我拆穿**：她先写出"官方版本"（我在保护 Tom），然后立刻用"but really"推翻它。"hold so tightly to my secrets"这个措辞很有力——秘密被她牢牢握住，说明她从秘密中获得了某种东西。
 

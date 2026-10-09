@@ -163,6 +163,10 @@
 
 ### 原句 11：Tom 的转述
 
+
+**关键词：**
+- (关键词待补充)
+
 > **原句 11:** "One couple just left. I don't think we know them, but I saw them leave," he says. My chest tightens at this, to hear they left together. If it was them. If it was, it means the woman didn't escape, that he led her out with his hand **gripping the back of her neck**, pushing her forward. She might have smiled at Samantha and Hal and wished them well in a tremulous voice before vanishing through the door, into the night, with the man close behind."
 
 **中文理解**：Tom 说一对不认识的夫妇刚离开。Judith 胸口发紧——如果那对夫妇就是她看到的，说明女子没有逃脱，而是被男子掐着后颈带出去。

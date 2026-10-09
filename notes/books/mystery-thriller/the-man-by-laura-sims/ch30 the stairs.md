@@ -33,7 +33,7 @@ Judith 描述 Laertes 的摄影作品"each one compels me toward the door"——
 
 Paul 的出现打破了她与影像之间的私人对话。他提到 Samantha 的自杀，语气突然且私密：
 
-> "They don't say it there," he says, pointing, "but she overdosed, and everyone who knew her knows she did it on purpose."
+> **原句 1:** "They don't say it there," he says, pointing, "but she overdosed, and everyone who knew her knows she did it on purpose."
 
 **中文理解**："那里没有写，"他指着（墙上的文字）说，"但她服药过量了，每个认识她的人都知道她是故意的。" Paul 用这句话向 Judith 透露 Samantha 自杀的真相，语气突然且私密。
 
@@ -54,19 +54,29 @@ Judith 用"dark magnetism"形容 Laertes 的作品，这个词准确捕捉了这
 
 Paul 说 Judith 的照片"could be hanging in a place like this"，将她的才华与已故的 Samantha 相提并论：
 
-> "You have a great talent, like Samantha did. It shouldn't be wasted."
+> **原句 2:** "You have a great talent, like Samantha did. It shouldn't be wasted."
+
+
+**关键词：**
+- (关键词待补充)
 
 "wasted"这个词立即在 Judith 心中触发创伤联想：它与跟踪者说的"selfish fucking bitch"和"rough hand gripping my arm"并列。
 
 ### 5. 正面冲突
 
+
+
 Judith 明确拒绝 Paul's 的建议：
 
-> "I'm sorry you've had such trouble, Paul, but you know how I feel. My pictures are private."
+> **原句 3:** "I'm sorry you've had such trouble, Paul, but you know how I feel. My pictures are private."
+
+
+**关键词：**
+- (关键词待补充)
 
 Paul 的反应迅速升级为攻击：
 
-> "It is a waste. It's irresponsible. Selfish, even."
+> **原句 4:** "It is a waste. It's irresponsible. Selfish, even."
 
 **中文理解**："这是一种浪费。是不负责任。是自私，甚至。" Paul 用"waste"、"irresponsible"和"selfish"三个词攻击 Judith 拒绝公开展示照片的决定。这三个词与第一章中跟踪者骂 Judith 的"selfish fucking bitch"形成呼应。
 
@@ -83,10 +93,6 @@ Paul 的反应迅速升级为攻击：
 
 **中文理解**：它（Paul 的话）像那个男人说"selfish fucking bitch"一样灼烧我，他的粗手紧紧抓着我的手臂。Judith 将 Paul 的语言暴力与跟踪者的身体攻击进行对比——两者都同样灼烧她。
 
-**关键词：**
-- **It burns**：它灼烧——Paul 的话语像物理灼烧一样伤害 Judith
-- **the man saying selfish fucking bitch**：那个男人说"selfish fucking bitch"——跟踪者的污名化语言
-- **his rough hand gripping my arm**：他粗手紧紧抓着我的手臂——跟踪者身体攻击的记忆
 
 **为什么这样写**：Sims 用"burns"这个动词连接 Paul 的语言暴力与跟踪者的身体攻击——Judith 将两者同等对待。"selfish"和"waste"两个词在两个场景中出现，揭示 Judith 周围的男性用相似的语言来攻击她。这种语言的巧合揭示 Judith 周围的男性暴力模式。
 

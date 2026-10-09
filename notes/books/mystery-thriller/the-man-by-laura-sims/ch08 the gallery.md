@@ -25,13 +25,6 @@
 
 **句子结构**：复合句，主句 "I envy them their fresh young beauty" 前置了大量状语从句描写"粉丝女孩"的行为。"except for" 引出省略结构 "except for three young women (who...)"，who 定语从句内部用现在分词短语 "tossing their hair or smoothing it in place, crossing and uncrossing..." 描绘她们刻意做作的姿态。最后 "but none of it has earned them anything near the attention Paul has gladly given me" 形成情绪反转——Judith 表面羡慕，内心实则自信于自己独享的特别关注。
 
-**关键词：**
-- **fangirls**：粉丝女孩——带有贬义，指那些刻意吸引教授注意的女生，Judith 用引号标记这个称呼，暗示一种轻蔑
-- **tossing their hair or smoothing it in place**：甩头发或整理头发——刻意卖弄的姿态
-- **stockinged legs**：穿着长筒袜的腿——强调性吸引力
-- **in unison**：整齐划一地——三个女生的同步动作，暗示她们是同一类型
-- **track Paul's movements**：追踪 Paul 的动作——"track" 有跟踪、监视的含义，暗示一种凝视
-- **none of it has earned them anything near the attention Paul has gladly given me**：一个微妙的优越感表达——Judith 不需要卖弄就能获得关注
 
 **为什么这样写**：开篇通过"粉丝女孩"与 Judith 的对比，建立 Judith 的自我定位：她不是靠外貌吸引注意，而是靠作品。这种对比为后文 Paul 对她照片的赞赏埋下伏笔——她期待的是专业认可，而非调情。同时"track"这个词带有不健康的执念感，暗示 Judith 对被关注的渴望本身可能是一种创伤的反映。
 
@@ -117,7 +110,7 @@
 
 ### 精读块 8：Tom 的贬值与认可的代价
 
-> **原句 3:** "This one—he looks like the guy who makes jokes at parties to please everyone." I cringe inwardly at the delight in Paul's eyes but nod along, smiling, having earned my ounce of approval at Tom's expense.
+> **原句 2:** "This one—he looks like the guy who makes jokes at parties to please everyone." I cringe inwardly at the delight in Paul's eyes but nod along, smiling, having earned my ounce of approval at Tom's expense.
 
 **中文理解**："这张——他看起来像那种在派对上讲笑话来取悦所有人的人。"我在心里对 Paul 眼中的快乐感到不适，但仍然点头、微笑——以 Tom 的被贬低为代价换来了我的一点点认可。Judith 用 Tom 的形象换取了 Paul 的赞许，这是一个无声的交易。
 
@@ -144,7 +137,7 @@
 
 ### 精读块 10：结尾的轻快
 
-> **原句 2:** Judith," Paul calls before the door swings shut behind me. "I hope you'll bring some new pictures next week."
+> **原句 3:** Judith," Paul calls before the door swings shut behind me. "I hope you'll bring some new pictures next week."
 
 > Everything shifts. I leave the room feeling buoyant and light.
 

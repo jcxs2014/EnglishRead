@@ -31,7 +31,7 @@ Judith 独自外出散步，在公园reflecting pool 附近决定主动寻找跟
 
 Judith 说服 Tom 让她出门，承诺会休息、不去 darkroom。但她"walking listlessly through our local park, snapping pictures here and there without looking deeply"——**她人在户外，心仍在创伤中**。"I see things but don't feel them. It's too painful to feel them."这句话是全章的情绪底色。
 
-> "I see things but don't feel them. It's too painful to feel them."
+> **原句 1:** "I see things but don't feel them. It's too painful to feel them."
 
 **中文理解**：我看见一切，却感受不到任何东西。感受太痛苦了。
 
@@ -48,7 +48,7 @@ Judith 在 reflecting pool 附近决定"try to find him"——这是她第一次
 
 她对跟踪者消失能力的想象荒诞而具体：
 
-> "Maybe he curls himself into the shape of a rock, or climbs a tree. It sounds ludicrous, but otherwise I can't explain his damned invisibility. And then his damned visibility."
+> **原句 2:** "Maybe he curls himself into the shape of a rock, or climbs a tree. It sounds ludicrous, but otherwise I can't explain his damned invisibility. And then his damned visibility."
 
 **中文理解**：也许他把自己蜷缩成一块石头的形状，或者爬上树。这听起来荒唐可笑，否则我无法解释他那该死的隐身能力。还有他那该死的现身能力。
 
@@ -64,7 +64,7 @@ Judith 在 reflecting pool 附近决定"try to find him"——这是她第一次
 
 从树林出来后，Judith 在 playground 拍照，被妇女围堵质问：
 
-> "Why are you taking pictures of our children?"
+> **原句 3:** "Why are you taking pictures of our children?"
 
 **中文理解**：你为什么要拍我们孩子的照片？
 
@@ -75,7 +75,7 @@ Judith 在 reflecting pool 附近决定"try to find him"——这是她第一次
 
 这是本章最尖锐的现实碰撞。Judith **forgot that I no longer belong in this world—the world of women with young children**——这句话揭示了她的处境：**她不属于"正常生活"的世界**。一个有相机、没有孩子的女人，在 playground 上是 suspicious intruder。
 
-> "I mumble an embarrassed response and leave quickly through the playground gate. The first woman swings it shut and locks it behind me."
+> **原句 4:** "I mumble an embarrassed response and leave quickly through the playground gate. The first woman swings it shut and locks it behind me."
 
 **中文理解**：我含糊地尴尬回应，快步从游乐场大门离开。第一个女人把门甩上，锁住了它，把我锁在外面。
 
@@ -102,7 +102,11 @@ Judith 在 reflecting pool 附近决定"try to find him"——这是她第一次
 
 ## 句子结构分析
 
-> "I see things but don't feel them. It's too painful to feel them."
+> **原句 5:** "I see things but don't feel them. It's too painful to feel them."
+
+
+**关键词：**
+- (关键词待补充)
 
 三个短句构成递进：第一句描述状态，第二句解释原因，第三句强化痛苦程度。句式简单但情感重量极重。
 

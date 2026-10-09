@@ -32,7 +32,7 @@ Judith 次日清晨前往 Suttonville 寻找"worthy subjects"。在一家老旧 
 
 Judith 抵达 Suttonville 的老旧 liquor store，镜中酒瓶在晨光中"incandescent"——像液态糖果。她产生强烈的欲望：
 
-> "I have the urge to bring one to my lips and take a great, burning drink. One to burn away my grief over Rosie, my worry over Tom's health. Another to wash away the awful image of the couple from the party. A third to forget the strange man I caught in my photographs."
+> **原句 1:** "I have the urge to bring one to my lips and take a great, burning drink. One to burn away my grief over Rosie, my worry over Tom's health. Another to wash away the awful image of the couple from the party. A third to forget the strange man I caught in my photographs."
 
 **中文理解**：我有一种强烈的欲望，想把一瓶酒送到唇边，大口灼烧地喝下去。一瓶消除我对 Rosie 的悲伤，一瓶消除我对 Tom 健康的担忧。另一瓶洗去派对上那对情侣的可怕形象。第三瓶忘记我在照片中捕捉到的那个奇怪男人。
 
@@ -51,7 +51,7 @@ Judith 抵达 Suttonville 的老旧 liquor store，镜中酒瓶在晨光中"inca
 
 拍摄中途，Judith 看到"a sudden flash of movement"——一个普通男人从街对面经过。关键对比：
 
-> "But he's just an ordinary man, not the least bit interested in me or what I'm doing."
+> **原句 2:** "But he's just an ordinary man, not the least bit interested in me or what I'm doing."
 
 **中文理解**：但他只是一个普通男人，对我或我在做什么毫无兴趣。
 
@@ -63,7 +63,7 @@ Judith 抵达 Suttonville 的老旧 liquor store，镜中酒瓶在晨光中"inca
 
 她回头检查镜子：
 
-> "When I look back, I check the mirror for any sign of someone reflected behind me; I'm certain there's no one, nothing."
+> **原句 3:** "When I look back, I check the mirror for any sign of someone reflected behind me; I'm certain there's no one, nothing."
 
 **中文理解**：当我回头时，我检查镜子里是否有任何人反射在我身后；我确信没有人，什么都没有。
 
@@ -77,7 +77,7 @@ Judith 抵达 Suttonville 的老旧 liquor store，镜中酒瓶在晨光中"inca
 
 Judith 在街头拍摄时，Paul 的理念成为她的精神支柱：
 
-> "In last week's class, I jotted down a note that said, The subject's response doesn't matter. All that matters is doing what's right for the photograph."
+> **原句 4:** "In last week's class, I jotted down a note that said, The subject's response doesn't matter. All that matters is doing what's right for the photograph."
 
 **中文理解**：在上周的课上，我记下了一条笔记：拍摄对象的反应不重要。重要的是为照片做正确的事。
 
@@ -89,7 +89,7 @@ Judith 在街头拍摄时，Paul 的理念成为她的精神支柱：
 
 ---
 
-> "It's easy to apply because the camera makes me bolder than I am. So does Paul."
+> **原句 5:** "It's easy to apply because the camera makes me bolder than I am. So does Paul."
 
 **中文理解**：这很容易应用，因为相机让我比真实的自己更勇敢。 Paul 也是。
 
@@ -99,7 +99,7 @@ Judith 在街头拍摄时，Paul 的理念成为她的精神支柱：
 
 **为什么这样写**：她用 Paul 来获得 boldness——**相机和 Paul 共同给予她现实中缺乏的勇气**。"It's safe to think of him"——"safe"这个词很关键：想念 Paul 是安全的，因为他是同行、是支持者，不构成威胁。
 
-> "I'm moving and choosing easily; Paul's words just give me an extra lift."
+> **原句 6:** "I'm moving and choosing easily; Paul's words just give me an extra lift."
 
 **中文理解**：我轻松地移动和选择； Paul 的话给了我额外的提升。
 
@@ -113,7 +113,7 @@ Judith 在街头拍摄时，Paul 的理念成为她的精神支柱：
 
 Judith 以"frantic pace"扫街拍摄：
 
-> "I take pictures of eloquently empty doorways, a broken window gleaming with sunlight, a man leaning against a tree with his legs crossed, his hat pulled down over his eyes."
+> **原句 7:** "I take pictures of eloquently empty doorways, a broken window gleaming with sunlight, a man leaning against a tree with his legs crossed, his hat pulled down over his eyes."
 
 **中文理解**：我拍摄了雄辩地空着的门廊、阳光照耀下发光的破窗、一个靠着树双腿交叉、帽子压低遮住眼睛的男人。
 
@@ -130,7 +130,7 @@ Judith 以"frantic pace"扫街拍摄：
 
 章末：
 
-> "I snap a few final shots and then turn back to the car, spent and deeply satisfied."
+> **原句 8:** "I snap a few final shots and then turn back to the car, spent and deeply satisfied."
 
 **中文理解**：我快速拍了几张最后的照片，然后转身回到车里，精疲力竭却又深感满足。
 
@@ -159,11 +159,15 @@ Judith 以"frantic pace"扫街拍摄：
 
 ## 句子结构分析
 
-> "One to burn away my grief over Rosie, my worry over Tom's health. Another to wash away the awful image of the couple from the party. A third to forget the strange man I caught in my photographs."
+> **原句 9:** "One to burn away my grief over Rosie, my worry over Tom's health. Another to wash away the awful image of the couple from the party. A third to forget the strange man I caught in my photographs."
+
+
+**关键词：**
+- (关键词待补充)
 
 三个平行句式（One to... / Another to... / A third to...）构成 Judith 四重痛苦的金字塔：grief、worry、awful image、the strange man。每一项都比前一项更难言说——grief 是可以承认的，worry 是可以承认的，但"the awful image of the couple"（派对事件）需要"wash away"，而 the strange man（ch07 的发现）只能"forget"。
 
-> "From the neck down I'm made of bottles, shining and bright."
+> **原句 10:** "From the neck down I'm made of bottles, shining and bright."
 
 **中文理解**：从脖子往下，我是由酒瓶组成的，闪闪发光。
 

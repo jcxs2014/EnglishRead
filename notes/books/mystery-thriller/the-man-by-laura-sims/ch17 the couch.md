@@ -120,6 +120,10 @@ Tom 问："去干什么？"他的眼神里闪过一丝异样，声音里带着�
 > **原句 6：**
 > **原句 1:** I wanted to get better pictures. More pictures. There are simply more people there, Tom," I say, sounding defensive and slightly condescending. "I'm tired of my usual circuit. I'm running out of subjects. Paul says—"
 
+**关键词：**
+- (关键词待补充)
+
+
 **中文理解：**
 "我想拍更好的照片。更多的照片。那里人就是更多，Tom。"她说，听起来像在防守，口气还有点居高临下。"我对我那套老路线厌倦了。快要找不到拍摄对象了。Paul说——"
 

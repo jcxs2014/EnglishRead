@@ -35,7 +35,7 @@ Judith 深夜在暗房冲洗照片，试图在派对照中寻找那对情侣，�
 
 开篇 Judith 在 Tom 熟睡时独自下楼冲洗照片。暗房对她而言是庇护所：
 
-> "I love how the dark swallows me as I descend the steps. It's a good dark, a private, soothing dark."
+> **原句 1:** "I love how the dark swallows me as I descend the steps. It's a good dark, a private, soothing dark."
 
 **中文理解**：我喜欢黑暗在我走下台阶时将我吞没的感觉。这是一个好的黑暗，一个私密、安慰的黑暗。
 
@@ -49,7 +49,7 @@ Judith 深夜在暗房冲洗照片，试图在派对照中寻找那对情侣，�
 
 Judith 在派对照中反复寻找那对情侣（她认为可能拍到了他们的照片），但找不到。"The more I don't see them, the more relieved I am"——因为没有照片证据，那场 master bedroom 事件就好像"从未发生"。但她紧接着写：
 
-> "But the memory lingers. I saw it; it was real."
+> **原句 2:** "But the memory lingers. I saw it; it was real."
 
 **中文理解**：但记忆挥之不去。我看到了；那是真的。
 
@@ -63,7 +63,7 @@ Judith 在派对照中反复寻找那对情侣（她认为可能拍到了他们�
 
 这是全章最关键、最令人不寒而栗的发现。Judith 检查自己在玩具店橱窗前的自拍照：
 
-> "There's something odd in the background, though, reflected faintly behind me: a human-shaped smudge or shadow near the top right-hand corner of the print."
+> **原句 3:** "There's something odd in the background, though, reflected faintly behind me: a human-shaped smudge or shadow near the top right-hand corner of the print."
 
 **中文理解**：不过，背景中有某种奇怪的东西，在我身后隐约反射出来：一个人形的污迹或影子，在照片右上角附近。
 
@@ -75,7 +75,7 @@ Judith 在派对照中反复寻找那对情侣（她认为可能拍到了他们�
 
 她仔细端详，无法确定是"an imperfection, or a person?"——然后逐渐确信：
 
-> "The more I look, the more certain I am that it's a man."
+> **原句 4:** "The more I look, the more certain I am that it's a man."
 
 **中文理解**：我看得越久，就越确定那是一个男人。
 
@@ -86,7 +86,7 @@ Judith 在派对照中反复寻找那对情侣（她认为可能拍到了他们�
 
 但 Judith 同时理性地自我反驳：
 
-> "It can't be him, but the sudden spike of pain in my side says otherwise."
+> **原句 5:** "It can't be him, but the sudden spike of pain in my side says otherwise."
 
 **中文理解**：可能是他，但我肋骨突然的刺痛说明并非如此。
 
@@ -96,7 +96,7 @@ Judith 在派对照中反复寻找那对情侣（她认为可能拍到了他们�
 
 **为什么这样写**：她身体知道真相（pain 是创伤的躯体化症状），而理智在否认。**恐惧的生理化**："cold spreads"是经典的肾上腺素反应。
 
-> "Cold spreads through my body like liquid."
+> **原句 6:** "Cold spreads through my body like liquid."
 
 **中文理解**：寒冷像液体一样在我身体里蔓延。
 
@@ -119,7 +119,7 @@ Judith 被照片中的轮廓触发，开始回忆创伤的完整链条：
 
 ### 5. 摄影的起源与功能
 
-> "Around this time, I found my father's Kodak 35, bought on a whim and abandoned in a desk drawer with rolls of unused film."
+> **原句 7:** "Around this time, I found my father's Kodak 35, bought on a whim and abandoned in a desk drawer with rolls of unused film."
 
 **中文理解**：大约在这段时间，我发现了父亲的 Kodak 35 相机，一时兴起买的，被丢在书桌抽屉里，还有几卷未使用的胶卷。
 
@@ -129,7 +129,7 @@ Judith 被照片中的轮廓触发，开始回忆创伤的完整链条：
 
 **为什么这样写**：父亲留下的相机成为 Judith 逃离创伤的出口。她开始拍摄：**gleaming doorknobs, sunlit windows, the gloomy staircase leading to the attic**——门把手、窗户、阁楼楼梯，这些都是**家的意象**，但都是静止的、被动的、没有生命的物件。
 
-> "I loved how the camera rendered everything I saw precise and comprehensible. It made me feel safe, warming to my hand and showing me wonders in the world—even in my own tainted corner of it."
+> **原句 8:** "I loved how the camera rendered everything I saw precise and comprehensible. It made me feel safe, warming to my hand and showing me wonders in the world—even in my own tainted corner of it."
 
 **中文理解**：我喜欢相机如何把我看到的一切变得精确、可理解。它让我感到安全，暖着我的手，向我展示世界中的奇迹——即使在我自己被污染的角落里。
 
@@ -144,7 +144,7 @@ Judith 被照片中的轮廓触发，开始回忆创伤的完整链条：
 
 Judith 描述了她婚后多年使用相机的方式——"the way a good wife and mother should: to capture birthdays, school plays, graduations, vacations"——这是**工具性的摄影**，服务于家庭角色而非个人情感。
 
-> "I felt proud of myself, living the way Grandmother would have liked, leaving the past in the past, moving forward, always forward."
+> **原句 9:** "I felt proud of myself, living the way Grandmother would have liked, leaving the past in the past, moving forward, always forward."
 
 **中文理解**：我为自己感到骄傲，按照祖母喜欢的方式生活，把过去留在过去，不断向前，永远向前。
 
@@ -156,7 +156,7 @@ Judith 描述了她婚后多年使用相机的方式——"the way a good wife a
 
 ### 7. 祖母声音的回归
 
-> "Maybe that's why I hear Grandmother now, sense her disgust like hot breath on the back of my neck."
+> **原句 10:** "Maybe that's why I hear Grandmother now, sense her disgust like hot breath on the back of my neck."
 
 **中文理解**：也许这就是为什么我现在听到祖母的声音，感觉她的厌恶像热气息吹在我后颈上。
 
@@ -168,7 +168,7 @@ Judith 描述了她婚后多年使用相机的方式——"the way a good wife a
 
 ### 8. 章末：Rosie 的幻觉
 
-> "when I look down I expect to see Rosie, her little tail wagging."
+> **原句 11:** "when I look down I expect to see Rosie, her little tail wagging."
 
 **中文理解**：当我低头时，我期待看到 Rosie，她的小尾巴在摇摆。
 
@@ -197,15 +197,27 @@ Judith 描述了她婚后多年使用相机的方式——"the way a good wife a
 
 ## 句子结构分析
 
-> "I love how the dark swallows me as I descend the steps."
+> **原句 12:** "I love how the dark swallows me as I descend the steps."
+
+
+**关键词：**
+- (关键词待补充)
+
+
+**关键词：**
+- (关键词待补充)
+
+
+**关键词：**
+- (关键词待补充)
 
 "the dark swallows me"——暗房的黑暗被赋予了主动性，吞噬 Judith。这是 Judith 主动寻求的庇护，也是她对黑暗的矛盾感受：她爱这种黑暗，因为它隔绝外界，但也意味着她在主动"被吞噬"。
 
-> "Cold spreads through my body like liquid."
+> **原句 13:** "Cold spreads through my body like liquid."
 
 这个比喻暗示恐惧的渗透性——像液体一样流动、渗透、充满身体各处的缝隙。是肾上腺素激活的躯体反应。
 
-> "I felt intense anticipation and delight whenever I went to pick up my prints from the shop."
+> **原句 14:** "I felt intense anticipation and delight whenever I went to pick up my prints from the shop."
 
 "intense anticipation and delight"——对冲洗出来的照片的期待，揭示摄影对 Judith 而言是**愉悦的制造**，而非仅仅记录。她在照片中看到的是被自己重新控制的世界。
 

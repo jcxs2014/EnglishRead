@@ -46,6 +46,10 @@
 >
 > **原句 1:** Well, for Judith, then. Think of—"
 >
+
+**关键词：**
+- (关键词待补充)
+
 > **原句 2:** Don't tell me 'Judith would have wanted this.' She asked for your help with submitting a few photographs to magazines, and now you've **whipped up a circus**. You want this. That's why you're doing it. **You love the spotlight.** You've been giving interviews left and right, don't think I haven't noticed. Putting up a gallery show? That's something you're doing for yourself. You'll get more money that way, won't you?"
 
 **中文理解**："一个展览？" Tom 的语气仿佛 Paul 建议的是在绅士俱乐部搞百老汇滑稽秀、脱衣舞。Paul 强调这是对任何艺术家的最高成就，对 Judith 和 Tom 一家都好。Tom 冷嘲："不是为我们。" Paul 说"那为 Judith 想想——" Tom 直接打断：别跟我说"Judith 会想要这个"——她只是想投几幅照片到杂志，你却搞成了马戏团。你自己想要这个，你爱聚光灯，到处接受采访，别以为我没注意到。办画廊展是为了你自己，这样你能赚到更多钱，对吧？

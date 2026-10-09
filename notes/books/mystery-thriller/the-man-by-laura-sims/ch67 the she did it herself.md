@@ -134,6 +134,10 @@
 
 ### 精读块 8：Schuyler 的最终暗示
 
+
+**关键词：**
+- (关键词待补充)
+
 > **原句 8:** Do you think a person's photographs can reveal their state of mind?" "Absolutely." Paul nods energetically, slipping right into professor mode. "They can reveal the photographer's background, his perspective on life, his hopes and fears—and yes, his state of mind, too. Or hers," he adds, giving Schuyler a significant look. "So you see all of that in Judith's work?" "I do. All that and more…What she didn't want to see, the mirror saw for her, the pond saw for her, and so on." "Why do you think she changed her mind?" "I don't really know."
 
 **中文理解**："你觉得一个人的照片能揭示他的心理状态吗？""当然。"Paul 精力充沛地点了点头，直接滑入了教授模式。"它们能揭示摄影师的背景、他的人生观、他的希望和恐惧——是的，还有他的心理状态。或者说她的，"他补充道，给了 Schuyler 一个意味深长的眼神。"那么你在 Judith 的作品里看到了所有这些？""是的。所有这些，甚至更多……她不想看到的，镜子替她看了，池塘替她看了，等等。""你觉得她为什么改变了主意？""我真的不知道。"

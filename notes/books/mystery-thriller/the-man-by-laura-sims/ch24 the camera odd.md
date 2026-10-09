@@ -26,7 +26,7 @@ Judith 在家中以摄影探索日常空间，浴室镜中渴望捕捉无限倒�
 ### 1. 困守与希望
 
 Judith 知道今天又会待在家里——那个男人可以打电话给她，但无法触及她。她把希望寄托在"明天"出门摄影：
-> "I hang my hope on tomorrow, and the idea of it shines in my mind."
+> **原句 1:** "I hang my hope on tomorrow, and the idea of it shines in my mind."
 
 **中文理解**："我把希望挂在明天，那个想法在我心中闪耀。" Judith 用这句话描述她对明天出门摄影的期待——她把希望寄托在明天，用"谨慎"换取明天"鲁莽"的资格。
 
@@ -41,7 +41,7 @@ Judith 知道今天又会待在家里——那个男人可以打电话给她，�
 ### 2. Tom 的叮嘱：颠倒的危险
 
 Tom 临走前叮嘱她锁门，Judith  sigh 了一声——因为威胁（在她感知中）来自屋子内部，而非门外：
-> "the threat—as he perceives it—comes from inside the house."
+> **原句 2:** "the threat—as he perceives it—comes from inside the house."
 
 **中文理解**："威胁——在他看来——来自屋子内部。" Judith 用这句话描述她感知中的危险来源：威胁不在外部（街道、蓝色车），而在屋子内部。这是全章的讽刺核心：Tom 认为危险来自外部（需要锁门），而 Judith 知道真正的危险来自内部（她的记忆、追踪者的威胁）。
 
@@ -57,14 +57,18 @@ Tom 临走前叮嘱她锁门，Judith  sigh 了一声——因为威胁（在她
 ### 3. 日常空间变成异域
 
 从水晶小雕像，到衣橱里"像空壳一样挂着的"外套，再到卧室壁橱、夫妻床铺分别的身体印记、消失在黑暗中的阁楼台阶——房间在阳光下移动，从日常变为"阴影笼罩的陌生地带"：
-> "our rooms become shadowed, strange terrain."
+> **原句 3:** "our rooms become shadowed, strange terrain."
+
+
+**关键词：**
+- (关键词待补充)
 
 摄影行为本身在重新诠释空间。
 
 ### 4. 浴室镜：渴望与恐惧
 
 Judith 躲避家中所有镜子，却在浴室被自己的倒影 hold 住。双面镜的无限反射让她兴奋（Paul 式的"electric and original"），但随之而来的是深层恐惧：
-> "terrified at what might be behind me when I print the film: the man reflected ad infinitum, too."
+> **原句 4:** "terrified at what might be behind me when I print the film: the man reflected ad infinitum, too."
 
 **中文理解**："害怕当我冲洗胶片时我身后可能有什么：那个男人也被无限反射其中。" Judith 想象自己用浴室的双面镜自拍，但恐惧随之而来——如果她冲洗胶片，会不会看到那个男人也在镜中，无限反射？
 
@@ -78,7 +82,7 @@ Judith 躲避家中所有镜子，却在浴室被自己的倒影 hold 住。双�
 ### 5. relief 与 disappointment 的悖论
 
 她放下相机，用冷水洗脸，抬头——镜中只有她自己。两种情感同时涌起：
-> "I feel great relief and a vast disappointment—relieved to be safe, bereft to give up on such a striking picture."
+> **原句 5:** "I feel great relief and a vast disappointment—relieved to be safe, bereft to give up on such a striking picture."
 
 **中文理解**："我感到极大的解脱和极大的失望——庆幸自己是安全的，却因为要放弃如此惊艳的画面而感到失落。" Judith 放下相机后的双重情绪：安全（照片里没有那个男人）与艺术渴望（失去"striking picture"）之间的悖论。
 

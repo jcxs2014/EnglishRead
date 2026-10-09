@@ -26,7 +26,7 @@ Judith 在 Paul's 摄影课后与 Paul 单独对峙：Paul 为不经同意展示
 
 Paul 为展示 Judith 照片道歉，Judith 试图保持冷静但声音颤抖：
 
-> "You shouldn't have done it. You had no right to pass my picture around without asking my permission."
+> **原句 2:** "You shouldn't have done it. You had no right to pass my picture around without asking my permission."
 
 **中文理解**：你不应该这么做。未经我的许可就把我的照片传阅，你没有这个权利。
 
@@ -40,7 +40,7 @@ Paul 为展示 Judith 照片道歉，Judith 试图保持冷静但声音颤抖：
 
 Paul 道歉后反问：
 
-> "Look, I fully acknowledge my guilt. But tell me the truth. Did you enjoy it? Just a little?"
+> **原句 1:** "Look, I fully acknowledge my guilt. But tell me the truth. Did you enjoy it? Just a little?"
 
 **中文理解**：听我说，我完全承认我的过错。但告诉我真相。你享受了吗？就一点点？
 

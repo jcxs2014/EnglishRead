@@ -45,11 +45,6 @@
 
 **句子结构**："Paul switches into teacher mode" 是全章的枢纽句——Paul 不是以遗孀朋友的身份说话，而是以鉴赏家和教育者的身份向一个"门外汉"布道。"letting Tom soak up the image of his wife" 中 "soak up" 是被动吸收的画面，Tom 不是主动观看而是被允许观看。"Unless it's upsetting to see her so vividly alive" 是 Paul 内心一闪而过的体贴——这个念头打断了他滔滔不绝的讲解，暗示他并非完全麻木。
 
-**关键词：**
-- **teacher mode**：教师模式——Paul 的自我定位，他把自己看作 Judith 与世界之间的桥梁/翻译者
-- **shine like gems**：像宝石一样闪耀——视觉意象的具体化，但这种"美"的语言 Tom 并不买账
-- **soak up the image**：好好看看——"soak" 暗示需要时间浸润，Tom 对这些照片是陌生的
-- **so vividly alive**：如此鲜活地活着——Paul 的顾虑：他正在 Tom 面前展示他死去的妻子，这种矛盾贯穿整个场景
 
 **为什么这样写**：Paul 的"教师模式"揭示了他的核心冲突：他需要把 Judith 的作品当作客观艺术来推销，但又无法完全无视 Tom 作为遗孀的情感。这段描写既展示了 Paul's 的专业性（他真的懂摄影），也暗示了他的自私——他花在思考"如何说服 Tom"上的精力，远比花在"这对 Tom 意味着什么"上的多。
 
