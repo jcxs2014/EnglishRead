@@ -1,0 +1,117 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 299/299 引文可核实（100%）；完全干净文件 41/41；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 702
+--- FAIL (0) ---
+--- WARN (39) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  ❌ FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 275 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 the wishing pool.md                       ch01 the wishing pool.md: 8/8 in ch01 text
+ch02 the first screen test.md                  ch02 the first screen test.md: 7/7 in ch02 text
+ch03 the velvet curtain.md                     ch03 the velvet curtain.md: 7/7 in ch03 text
+ch04 we love you mazy.md                       ch04 we love you mazy.md: 7/7 in ch04 text
+ch05 scout worst day.md                        ch05 scout worst day.md: 7/7 in ch05 text
+ch06 discovered your grandmother.md            ch06 discovered your grandmother.md: 7/7 in ch06 text
+ch07 a calm eye.md                             ch07 a calm eye.md: 7/7 in ch07 text
+ch08 evil genie.md                             ch08 evil genie.md: 7/7 in ch08 text
+ch09 under the snow.md                         ch09 under the snow.md: 7/7 in ch09 text
+ch10 running in white.md                       ch10 running in white.md: 6/6 in ch10 text
+ch11 left behind.md                            ch11 left behind.md: 7/7 in ch11 text
+ch12 the white jeep.md                         ch12 the white jeep.md: 7/7 in ch12 text
+ch13 bear creek homecoming.md                  ch13 bear creek homecoming.md: 7/7 in ch13 text
+ch14 a frozen nightmare.md                     ch14 a frozen nightmare.md: 7/7 in ch14 text
+ch15 the punishment room.md                    ch15 the punishment room.md: 7/7 in ch15 text
+ch16 the meat graveyard.md                     ch16 the meat graveyard.md: 7/7 in ch16 text
+ch17 the cure all along.md                     ch17 the cure all along.md: 7/7 in ch17 text
+ch18 the thing under the snow.md               ch18 the thing under the snow.md: 7/7 in ch18 text
+ch19 the severed hand.md                       ch19 the severed hand.md: 6/6 in ch19 text
+ch20 hunting on their own.md                   ch20 hunting on their own.md: 6/6 in ch20 text
+ch21 the gates of hell.md                      ch21 the gates of hell.md: 7/7 in ch21 text
+ch22 jump for joy.md                           ch22 jump for joy.md: 7/7 in ch22 text
+ch23 closed eyes.md                            ch23 closed eyes.md: 7/7 in ch23 text
+ch24 play it again.md                          ch24 play it again.md: 7/7 in ch24 text
+ch25 get your ass up.md                        ch25 get your ass up.md: 6/6 in ch25 text
+ch26 no happy ending.md                        ch26 no happy ending.md: 6/6 in ch26 text
+ch27 tree well.md                              ch27 tree well.md: 6/6 in ch27 text
+ch28 miracle tree.md                           ch28 miracle tree.md: 7/7 in ch28 text
+ch29 the waving hand.md                        ch29 the waving hand.md: 7/7 in ch29 text
+ch30 wish scout back.md                        ch30 wish scout back.md: 7/7 in ch30 text
+ch31 bad boy scout.md                          ch31 bad boy scout.md: 7/7 in ch31 text
+ch32 personally invited.md                     ch32 personally invited.md: 7/7 in ch32 text
+ch33 not a bear.md                             ch33 not a bear.md: 7/7 in ch33 text
+ch34 no one was there.md                       ch34 no one was there.md: 7/7 in ch34 text
+ch35 knew you were alive.md                    ch35 knew you were alive.md: 7/7 in ch35 text
+ch36 look out for him.md                       ch36 look out for him.md: 7/7 in ch36 text
+ch37 beast brings water.md                     ch37 beast brings water.md: 7/7 in ch37 text
+ch38 the bone room.md                          ch38 the bone room.md: 7/7 in ch38 text
+ch39 pile of newspapers.md                     ch39 pile of newspapers.md: 7/7 in ch39 text
+ch40 new best friend.md                        ch40 new best friend.md: 7/7 in ch40 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：40 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（mazywood-by-tananarive-due）===
+  ✅ 逐字 1512 ｜ ⚠️ 跨章 3 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 719
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 7
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 30/30 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 24/24 ✅
+
+=== 总览引文 54/54 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（mazywood-by-tananarive-due）===
+  参照集：text/（40 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（mazywood-by-tananarive-due）===
+  带前缀的 `> **原句 N:**` 行：40 个文件共 275 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：40 个 md，阻断型 0 处 ／ 提示型 1 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
