@@ -69,6 +69,8 @@ CIRC_BLOCK_RE = re.compile(CIRC_OPT, re.M)
 # ⚠️ 计数与切块走**同一张**正则（只差有没有捕获引语体），与 BLOCK_RE / BLOCK_ITER
 # 同构——否则又是一次「切块与取号口径不一致」的 zip() 错位（2026-10-01 已修过一次）。
 CIRC_ITER = re.compile(CIRC_OPT + r'(.*)$', re.M)
+YANQING_RE = re.compile(r'^>\s*"(.+)"\s*$', re.M)
+YANQING_ITER = re.compile(r'^>\s*"(.*)', re.M)
 # 短篇合集档的**独有特征节**（两者皆须命中才认档，避免与长篇精简档抢档）。
 ANTH_MARKS = (r'^## 精读结束总结', r'^## 可迁移表达')
 # ⚠️ 2026-10-06 新增（The Language of Knives 批1 实测 4 章假红）：
@@ -332,6 +334,9 @@ def check(md: Path, book: Path):
     nq = len(BLOCK_RE.findall(s))
     nkw = (len(KW_RE.findall(s)) + len(KW_RE_PLAIN.findall(s))
            + len(KW_RE_BOLD_OUT.findall(s)) + len(KW_RE_PLAIN_BOLD.findall(s)))
+    # ⚠️ 2026-10-08：yanqing 计数必须用与迭代器相同的模式（YANQING_ITER 不要求闭引号，
+    # YANQING_RE 要求），避免计数 < 迭代数导致 StopIteration。
+    n_yanqing = len(YANQING_ITER.findall(s))
     # ⚠️ 2026-10-02 假红型修正（本工具写死言情格式 `## 本章词汇` + 3–8 块配额，
     #   而非虚构论述格式用 `## 词汇分级` + 10 处 `## 选择性精读`）。全库非虚构书
     #   （nexus / an-expert-witness / down-girl / herlands …）逐个复跑全部报同两条，
@@ -365,9 +370,18 @@ def check(md: Path, book: Path):
     nvocab = len(re.findall(r'^## (?:本章词汇|词汇分级)', s, re.M))
     nsum = len(re.findall(r'^## 一句话总结', s, re.M))
     if nq == 0:
-        return [f"{md.name}: 未找到任何 `> **原句 N:**` 引语块"
-                f"（短篇合集圈码 `① \"…\"` 同样计；本文件判为"
-                f"{'短篇合集' if is_anth else '非短篇合集'}档）"]
+        if n_yanqing > 0:
+            # ⚠️ 2026-10-08 新增（The Man 36 章实测）：
+            # yanqing 格式（`> "quoted text"` 无编号头），用 yanqing 计数替代。
+            # 关键词/拼接检查同样走 yanqing 切块逻辑。
+            nq = n_yanqing
+            _in_yanqing = True
+        else:
+            return [f"{md.name}: 未找到任何 `> **原句 N:**` 引语块"
+                    f"（yanqing `> \"...\"` 格式 {n_yanqing} 块；本文件判为"
+                    f"{'短篇合集' if is_anth else '非短篇合集'}档）"]
+    else:
+        _in_yanqing = False
     if nkw != nq:
         out.append(f"{md.name}: 结构对账失败 —— 关键词行 {nkw} ≠ 引语块 {nq}（内容可能被整段复制）")
     if nvocab != 1:
@@ -441,6 +455,12 @@ def check(md: Path, book: Path):
         def _next_head(pos):
             mm = CIRC_BLOCK_RE.search(s, pos)
             return mm.start() if mm else len(s)
+    elif _in_yanqing:
+        _iter = YANQING_ITER
+
+        def _next_head(pos):
+            mm = YANQING_RE.search(s, pos)
+            return mm.start() if mm else len(s)
     else:
         _iter = BLOCK_ITER
 
@@ -448,8 +468,15 @@ def check(md: Path, book: Path):
             i = s.find("\n> **原句 ", pos)
             return i if i != -1 else len(s)
 
+    if _in_yanqing:
+        _yanqing_nums = iter(range(1, n_yanqing + 1))
+
     for m in _iter.finditer(s):
-        num, body = m.group(1), m.group(2)
+        if _in_yanqing:
+            num = str(next(_yanqing_nums))
+            body = m.group(1).rstrip('"')  # strip trailing closing quote
+        else:
+            num, body = m.group(1), m.group(2)
         # BLOCK_ITER 的 $ 在 MULTILINE 模式下匹配到**内容行末尾**而非 header 行末尾，
         # 导致 m.end() 落在 quote 行末尾而非 header 行末尾。
         # 上一版用 `header_end = s.find("\n", m.start()) + 1` 定位到 quote 行开头，
