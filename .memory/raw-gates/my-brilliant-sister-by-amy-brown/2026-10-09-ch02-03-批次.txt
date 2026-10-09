@@ -1,0 +1,31 @@
+=== [2026-10-09] ch02-ch03 批次门禁原始输出 ===
+--- verify_quotes ---
+ch01 to swim.md: 6/6 ✅
+ch02 to burn.md: 6/6 ✅
+ch03 to mother.md: 6/6 ✅
+
+=== 总计 18/18 引文可核实（100%）；完全干净文件 3/3；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- check_vocab ---
+词条行合计: 74
+
+--- FAIL (0) ---
+
+--- WARN (3) ---
+  ch02 to burn.md [基础] 基础档疑含超纲词「administrative hoops」
+  ch03 to mother.md [基础] 基础档疑含超纲词「autobiography」
+  ch03 to mother.md [基础] 基础档疑含超纲词「background knowledge」
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- check_chapter_quotes ---
+全章扫描: 解析引语块 18，命中本章 18（100%）
+✅ 全部引语均归属正确章节
+--- corruption_scan ---
+
+=== 编辑损坏扫描（my-brilliant-sister-by-amy-brown）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+--- sweep_full ---
+=== 引语整串 flat 比对（my-brilliant-sister-by-amy-brown）===
+  参照集：text/ 逐章（72 章，可定章） + epub 交叉验证
+  ✅ 本章命中 18 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
