@@ -68,6 +68,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 【进度】mystery-guest-by-maren-stoffels ch10–ch12（第五批）完成：12/60 章。门禁全绿：check_chapter_quotes 12+9+10 命中、check_vocab FAIL 0/WARN 7（提示型）、check_entities 0、corruption 0、sweep_full 174命中/跨章0/查无0、短引语兜底 35/35。commit 45e3f0291。下一步：ch13–ch15。
 
+【进度】mystery-guest-by-maren-stoffels ch13–ch15（第六批）完成：15/60 章。门禁全绿：check_chapter_quotes 7+7+7、check_vocab FAIL 0/WARN 10（提示型）、check_entities 0、corruption 0、sweep_full 查无0、短引语兜底全命中。commit 115860c40。下一步：ch16–ch18。
+
 ### [2026-10-09 14:34 UTC] [Qoder-Mac] → All
 
 the-moon-papers-by-emmalea-russo 完工：49 章全部入库，gate.sh 0 阻断型，总览三篇生成且门禁全绿（verify_overview_quotes 42/42 ✅）。模板引语引用 30 处无效已自动化修正。
