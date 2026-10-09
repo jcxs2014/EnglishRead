@@ -67,7 +67,7 @@ POV: "Johnny Washington 与 Imani Washington（PRESENT DAY，Bear Creek Lodge �
 
 ---
 
-> **原句 5:** Whether or not his ghost was still here, or ever had been, Uncle Ricky’s presence flowed through Johnny’s fingers as he checked the chamber, confirmed it was empty, and carefully loaded five tarnished rounds from the old cardboard box.
+> **原句 5:** Whether or not his ghost was still here, or ever had been, Uncle Ricky’s presence flowed through Johnny’s fingers as he checked the chamber, confirmed it was empty, and carefully loaded five tarnished rounds from the old cardboard box. The cardboard had frayed, so a few of the sharp-tipped cylindrical rounds rolled loose in his pocket. He counted twelve total. Twelve chances.
 
 **中文理解**：那支温彻斯特步枪就横在雪里。幽灵是否还在、或曾经存在过，都说不准——但当 Johnny 验膛、确认空枪、再从旧纸盒里小心压进五发发乌的子弹时，Uncle Ricky 的存在顺着他的手指流了进来。纸盒磨破了，几发弹在他口袋里滚来滚去；他数出总共十二发。
 
@@ -97,9 +97,9 @@ POV: "Johnny Washington 与 Imani Washington（PRESENT DAY，Bear Creek Lodge �
 
 **关键词**：stone-silent、past tense、last wish
 
-**为什么这样写**：病情判断被让位给孩子的语法敏感——错不在病症描述，在 he needed to see they were safe 那口过去时；从 Tylenol 到 Aspirin 再到 blood thinner 的层层递进（他要的是"抗凝"，指向心脏）在前两段已经铺完，这里由女儿的反应替读者收账。Like a last wish 与全书的许愿机制押韵：本书里"愿望"从来不是修辞，本章把它挂在父亲的口误上，恐惧因此有了制度性的形状。
+**为什么这样写**：病情判断被让位给孩子的语法敏感——错不在病症描述，在 he needed to see they were safe 那口过去时；从 Tylenol 到 Aspirin 再到 blood thinner 的层层递进（他要的是"抗凝"，指向心脏）要到本段之后才逐层铺开，这里由女儿的反应替读者收账。Like a last wish 与全书的许愿机制押韵：本书里"愿望"从来不是修辞，本章把它挂在父亲的口误上，恐惧因此有了制度性的形状。
 
-**读者视角提示**：他此前低声说 I had some help… from Uncle Ricky 时，姐妹俩的对视与 All of Dad’s family was dead. Was he delirious? 已经给出另一重读法——父亲可能与幻象同病；本章让女儿怀疑"他精神错乱"，同时让读者怀疑"幻象是真的"，两边都不许落下。
+**读者视角提示**：他随后低声说 I had some help… from Uncle Ricky（本章后文）时，姐妹俩的对视与 All of Dad’s family was dead. Was he delirious? 已经给出另一重读法——父亲可能与幻象同病；本章让女儿怀疑"他精神错乱"，同时让读者怀疑"幻象是真的"，两边都不许落下。
 
 ---
 

@@ -43,7 +43,7 @@ POV: "Mazelle Washington（GRACETOWN, FLORIDA / JUNE 1950，三十一岁，父�
 
 ---
 
-> **原句 3:** Mazelle could almost hear Priscilla Stephens’s rote instructions, as if the details bored her. You throw in your penny and wish real hard, but wishes always try to trick you. If you touch the water, the wish won’t come true—and there might be hell to pay.
+> **原句 3:** Mazelle could almost hear Priscilla Stephens’s rote instructions, as if the details bored her. You throw in your penny and wish real hard, but wishes always try to trick you. If you touch the water, the wish won’t come true—and there might be hell to pay. The Wishing Pool is mostly dried up, except during the summer. That’s the best time to get your wish.
 
 **中文理解**：她几乎又听见 Priscilla Stephens 那套背熟的规矩，语气像在敷衍：把便士扔进去，狠狠许愿，但愿望总是想法子骗你；要是碰了水，愿望不会成真——而且可能有大祸要偿。池子平时多半是干的，只有夏天有水，那才是许愿最好的时候。
 
@@ -75,7 +75,7 @@ POV: "Mazelle Washington（GRACETOWN, FLORIDA / JUNE 1950，三十一岁，父�
 
 **为什么这样写**：这一段是本书正面交代 Scout 形体的关键一处，作者用排除法来写：先给一个熟悉类别（fish），否定；再给第二个（possum），用反问动摇；再给第三个（snake），只作明喻。每个类别都被立刻收回，读者被迫停留在"无法归类"里，与 Mazelle 同步。节奏上，It wasn’t a fish. And it was white, not silver. 两个短句先推翻她的第一眼，此后句子才变长——惊悚不是由 jump scare 提供，而是由"命名失败"提供。末句 they looked like bat’s wings 把最不可消化的特征放在段尾，让下一段 This can’t be real, Mazelle thought. This is impossible. 有凭有据。同时，earnest 这个词用得刺眼：形容一只扑过来的怪物用"恳切"，恐惧与深情被压进同一个副词。
 
-**读者视角提示**：读者会拿 1926 年那只毛茸茸、会翻筋斗的 Scout 来比对这个形体；本章叙述没有给出这个新形态的解释，只给 Mazelle 事后自列的一串"也许"——包括她忘了许愿让他"以原样、或以狗的样子"回来。
+**读者视角提示**：读者会拿 1926 年那只毛茸茸、会向她鞠躬并跟着她舞步打转的 Scout 来比对这个形体（翻筋斗与劈叉是 Mazelle 自己的技艺，text/ch05 交代过）；本章叙述没有给出这个新形态的解释，只给 Mazelle 事后自列的一串"也许"——包括她忘了许愿让他"以原样、或以狗的样子"回来。
 
 ---
 
@@ -87,7 +87,7 @@ POV: "Mazelle Washington（GRACETOWN, FLORIDA / JUNE 1950，三十一岁，父�
 
 **为什么这样写**：认亲不靠外形而靠眼睛——Only when it was close enough for Mazelle to see its eyes did she fully understand: The rims were bluish silver, but she saw its true eyes were brown. Soulful. Familiar. 作者把识别的锚点放在一个极小的器官上，让"变了"与"没变"能同时为真，不必二选一。Scout reborn. Scout reimagined. 两个零动词短句像判词：reborn 是被造物的词，reimagined 是作者／叙事者的词——本章把一个怪物的诞生同时写成一次重生和一次改写，后者尤其危险，因为它暗示"原样"已经不可恢复。这段之前是 Dear God, could it be…? 与 “Scout?” Mazelle whispered, testing the name. 名字被"试用"，说明她也不敢肯定。
 
-**读者视角提示**：紧接着的段落把这份相认立刻转成自责——Had her wish done this to her precious Scout? Had she summoned him from his well-earned rest to breathe again as this deformity? 作者不给答案，但"他本来已经安息"这一读法已被 Mazelle 提出；本章对 Scout 那七年去了哪里始终沉默（原话只到 but then Scout went away.）。
+**读者视角提示**：紧接着的段落把这份相认立刻转成自责——Had her wish done this to her precious Scout? Had she summoned him from his well-earned rest to breathe again as this deformity? 作者不给答案，但"他本来已经安息"这一读法已被 Mazelle 提出；本章对 Scout 离开的那些年的去向始终沉默（原话只到 but then Scout went away.）。
 
 ---
 

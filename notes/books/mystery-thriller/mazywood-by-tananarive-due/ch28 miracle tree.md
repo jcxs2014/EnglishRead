@@ -87,7 +87,7 @@ POV: "Johnny → Imani 与 Sharise（PRESENT DAY，Bear Creek Lodge 之外的雪
 
 **为什么这样写**：作者把整章「避难所」的心理安全拆掉，只用了两个物理小细节——"breeze"（有风）与 "no light"（没有对应外部）。有风而无光，等于「洞是通向别处的、别处不是外面」。这个推论 Imani 只做一半（"leading to a tunnel"），剩下的由文本稍后用 "the fur-wrapped twigs"、"the faintest scent of fetid mud, just like Beast’s terrible smell" 补完——她们刚躲进去的这棵树，可能是 Beast 自己的家。作者把反转藏在一次弯腰打手电里：这是本章最冷的一次「发现」，因为它同时兑现了本章原句 4 里 "clinging to facts" 那句「最坏的一半」。
 
-**读者视角提示**：紧接此句，文本里 Imani 会补一句 "A Beasthole, technically."（本章自造词、作者让 12 岁的 Imani 造出来）；本章后面写的兽毛、腐泥气味与骨头只是加强「这是巢」的观察，物种仍不作结论。
+**读者视角提示**：紧接此句，文本里 Imani 会补一句 "A Beasthole, technically."（本章自造词，出自叙述者的插注而非 Imani 的台词；Imani 十三岁，只是常被人猜成 eleven or twelve）；本章后面写的兽毛、腐泥气味与骨头只是加强「这是巢」的观察，物种仍不作结论。
 
 ---
 
@@ -95,9 +95,9 @@ POV: "Johnny → Imani 与 Sharise（PRESENT DAY，Bear Creek Lodge 之外的雪
 
 **中文理解**：「不……是在院子里的时候。我已经看不见她了。可我听到她的声音说，我还活着。那么清楚、那么平静。就像她正站在我旁边。就像她在微笑。」
 
-**关键词**：clear and calm、smiling、in your head
+**关键词**：clear and calm、smiling、heard her voice
 
-**为什么这样写**：作者让 Mom 声音的「内容」极小（只有 "I’m still alive."），「质感」极大（clear、calm、standing next to me、smiling）——内容与质感的强度差越大，就越说明「这不是刚才那声尖叫的余波，而是另一种东西」。紧接一段，Sharise 会小心翼翼地问 "Was the voice… in your head?"，而 Imani 只 "nod"（此句之外的一处叙述）——作者通过 Sharise 的这个问题把「这是通灵吗」摆在桌上，却不让文本本身点头承认。整个 Q&A 的节奏是「姐姐的确认+妹妹的温柔」，而不是任何超自然的确认。这是本章对 ch26 尾 Imani 袜口那一线血的正面接住——但接住不等于解答。
+**为什么这样写**：作者让 Mom 声音的「内容」极小（只有 "I’m still alive."），「质感」极大（clear、calm、standing next to me、smiling）——内容与质感的强度差越大，就越说明「这不是刚才那声尖叫的余波，而是另一种东西」。紧接一段，Sharise 会小心翼翼地问 "Was the voice… in your head?"，而 Imani 只 "nod"（此句之外的一处叙述）——作者通过 Sharise 的这个问题把「这是通灵吗」摆在桌上，却不让文本本身点头承认。整个 Q&A 的节奏是「姐姐的轻声追问＋妹妹的点头」，而不是任何超自然的确认。这是本章对 ch26 尾 Imani 袜口那一线血的正面接住——但接住不等于解答。
 
 **读者视角提示**：Mom 生死／这条声音是心灵感应还是幻听／是记忆重构——本章文本不作任何裁定（工单悬置项）；只按 Imani 与 Sharise 各自的语感读，别越过文本替她们定罪或翻案。
 

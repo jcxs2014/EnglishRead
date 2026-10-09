@@ -11,7 +11,7 @@ POV: "Johnny → Imani 与 Sharise（PRESENT DAY，Bear Creek Lodge 之外的雪
 - **时空坐标**：本章抬头是 "FIVE MINUTES LATER—OR AN HOUR"——现在线同一片雪林里的追踪，时间被写成一段估不准的跨度，全章按这一"说不清过了多久"的标注展开
 - **叙事视角**：第三人称限知，前半紧贴 Johnny，读到中段（雪开始落）转到 Imani 与 Sharise；Johnny 昏迷/恍惚时文本切成一般现在时的童年片段，是全章时间标注的极致体现
 - **核心事件**：Johnny 穿着陌生的雪鞋沿女儿们的踪迹下山，一次次眩晕、昏倒，跌进一个 tree well（树下深雪坑），靠脑中 Uncle Ricky 的声音把自己扒出来；雪落之下，Imani 与 Sharise 决定回头，途中 the Beast 现身，Imani 开枪却打空、又忘了退壳，子弹耗尽，两人朝一棵中空枯树狂奔
-- **关键人物**：Johnny（脑震荡、独行、把童年追兽的记忆叠回当下）、Uncle Ricky（只在 Johnny 脑内／幻象里出声，本章文本明确写 "not his ghost or hallucination or whatever the fuck"）、Imani（持 Winchester、开枪失手的姐姐）、Sharise（主张回头、不断示警的妹妹）
+- **关键人物**：Johnny（脑震荡、独行、把童年追兽的记忆叠回当下）、Uncle Ricky（本章起在 Johnny 身边出声；原文那句 not his ghost or hallucination or whatever the fuck 修饰的是他与「真的」叔叔最后一次交谈，并未裁定此后这些是幻象——全书悬置项，不裁决）、Imani（持 Winchester、开枪失手的姐姐）、Sharise（主张回头、不断示警的妹妹）
 - **章节主题**：一个"说不清过了多久"的雪林里，父亲与女儿在同一段时间的两端各自挣扎——追踪者与被追者互为镜像
 - **上章回顾**：上一章收于 Imani 在袜口内侧看见妈妈的一线血、意识到没有不带血的结局；本章按自己的抬头 "FIVE MINUTES LATER—OR AN HOUR" 先回到穿雪鞋下山的 Johnny，中段起转到 Imani 与 Sharise
 

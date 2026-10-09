@@ -10,8 +10,8 @@ POV: "Imani Washington 与 Sharise（PRESENT DAY，Bear Creek Lodge 之外的国
 
 - **时空坐标**：本章抬头即一句 "IMANI WASHINGTON’S WHOLE WORLD WAS snow."（现在线，Bear Creek Lodge 家界之外、pine groves 与国家森林的雪原；无上表日期）
 - **叙事视角**：第三人称限知，紧贴 Imani；Sharise 全程在场，但内心独白与判断都从 Imani 一侧给出
-- **核心事件**：Imani 带着 Sharise 与一支 Winchester 在夜里追 the Beast 的踪迹；雪堆旁那条 zigzag 一度消失，两人争论妈妈是否已死、冷手相握立誓追到踪迹尽头就回头；Imani 在灌木上捡到妈妈的一只袜子、确认她们逼近了，却在袜口内侧看见一线血
-- **关键人物**：Imani（持枪、执意追踪的姐姐）、Sharise（一路哭泣、主张回去求助的妹妹）、Tasha（被掳走的母亲，只剩踪迹与那只袜子在场）、Dad／Johnny（留在屋里，生死未卜）
+- **核心事件**：Imani 带着 Sharise 与一支 Winchester 一早就追进 the Beast 的踪迹；雪堆旁那条 zigzag 一度消失，两人争论妈妈是否已死、冷手相握立誓追到踪迹尽头就回头；Imani 在灌木上捡到妈妈的一只袜子、确认她们逼近了，却在袜口内侧看见一线血
+- **关键人物**：Imani（持枪、执意追踪的妹妹）、Sharise（一路哭泣、主张回去求助的姐姐）、Tasha（被掳走的母亲，只剩踪迹与那只袜子在场）、Dad／Johnny（留在屋里，生死未卜）
 - **章节主题**：希望与绝望由同一个物证（那只袜子）翻转——"找到线索"到底是得救的起点，还是最后一块遗物的开端
 - **上章回顾**：上一章收于 Johnny 带上雪鞋与一支滑雪杖，开始往下走女儿们命名的 Steps of Death；本章把镜头交给更早一步追进雪林的 Imani 与 Sharise
 
@@ -51,7 +51,7 @@ POV: "Imani Washington 与 Sharise（PRESENT DAY，Bear Creek Lodge 之外的国
 
 **为什么这样写**：作者先让读者和 Imani 一样"低头看雪"，再借 Sharise 的手指把视线猛地抬起，用一次视角差完成"踪迹消失"的揭示。句中 "the trail stopped" 与随后 "and vanished" 是同一件事被说两遍，第一遍是事实、第二遍带省略 "…" 的迟疑，等于让叙述跟着人物一起不肯接受。这是全章希望的第一个断点。
 
-**读者视角提示**：踪迹"停在雪堆边"这个信息是 Sharise 先看见的——本章让被 Imani 视作"只会哭"的妹妹承担了几次关键观察，这条人物张力会一路走到章末的袜子。
+**读者视角提示**：踪迹"停在雪堆边"这个信息是 Sharise 先看见的——本章让被 Imani 视作"只会哭"的姐姐承担了几次关键观察，这条人物张力会一路走到章末的袜子。
 
 ---
 
@@ -61,7 +61,7 @@ POV: "Imani Washington 与 Sharise（PRESENT DAY，Bear Creek Lodge 之外的国
 
 **关键词**：save、scared、thinking
 
-**为什么这样写**：这是 Imani 的自我说服，逻辑被说成一条公理：恐惧的来源不是危险，而是"认定会失去"。作者让她把这套推理讲给妹妹听，其实是在讲给自己——后文她自己也在袜口内侧的血面前摇摇欲坠。这段的修辞越是干脆，越显出它是一种硬撑的信念（呼应章末 Imani 靠"faith"这个名字撑着）。
+**为什么这样写**：这是 Imani 的自我说服，逻辑被说成一条公理：恐惧的来源不是危险，而是"认定会失去"。作者让她把这套推理讲给姐姐听，其实是在讲给自己——后文她自己也在袜口内侧的血面前摇摇欲坠。这段的修辞越是干脆，越显出它是一种硬撑的信念（呼应 ch28 里那句 It was about faith, like the way she knew Mom was still alive）。
 
 **读者视角提示**：Imani 的"妈妈还活着"与 Sharise 的"妈妈可能死了"构成全章的拉锯；不要把它们读成谁对谁错——文本让两人都各自握着一部分真相。
 
@@ -129,4 +129,4 @@ POV: "Imani Washington 与 Sharise（PRESENT DAY，Bear Creek Lodge 之外的国
 
 ## 一句话总结
 
-在 "IMANI WASHINGTON’S WHOLE WORLD WAS snow" 这句抬头之下，Imani 带着 Sharise 与一支 Winchester 追进夜里 the Beast 的踪迹：两人一路争执妈妈是否已死、冷手相扣立下"追到踪迹尽头就回头"的约定；雪堆旁那条 zigzag 一度消失、又被妈妈的一只袜子重接成"她还来过这里"的希望，直到 Imani 在袜口内侧看见一线血——她意识到没有不带血的结局。
+在 "IMANI WASHINGTON’S WHOLE WORLD WAS snow" 这句抬头之下，Imani 带着 Sharise 与一支 Winchester 追进上午的雪光里，一路追着 the Beast 的踪迹：两人一路争执妈妈是否已死、冷手相扣立下"追到踪迹尽头就回头"的约定；雪堆旁那条 zigzag 一度消失、又被妈妈的一只袜子重接成"她还来过这里"的希望，直到 Imani 在袜口内侧看见一线血——她意识到没有不带血的结局。
