@@ -1,10 +1,10 @@
 # Chapter 45
 
 ## 导航
-- **一句话概括**：Jasper追捕失败但找到凶手遗留的蓝宝石丝绸碎片；Houndsbury建议留守以缩小嫌疑人范围，Frankie决定留下；晚宴照常举行，Jasper准备暗中猎凶
+- **一句话概括**：Jasper追捕失败但找到凶手遗留的蓝宝石丝绸碎片；Houndsbury建议留守以缩小嫌疑人范围，Frankie决定留下当诱饵；晚宴照常举行，Jasper与Frankie互诉衷肠后准备武装赴宴
 - **核心冲突**：离开保安全 vs. 留守抓凶手；Houndsbury的战略考量 vs. Jasper的保护本能
-- **人物关系**：Houndsbury→Jasper/Frankie（战略顾问角色）；Mrs. Turner→Jasper（态度软化）
-- **本章结构**：Jasper回报 → 发现丝绸证据 → Houndsbury战略分析 → Frankie决定留下 → Mrs. Turner道歉 → Jasper准备武装赴宴
+- **人物关系**：Houndsbury→Jasper/Frankie（战略顾问角色）；Jasper↔Frankie（情感深化）
+- **本章结构**：Jasper回报 → 发现丝绸证据 → Houndsbury战略分析 → Frankie决定留下 → 私密吻别 → Jasper准备武装赴宴
 
 ---
 
@@ -50,7 +50,7 @@
 > - **关键词**：**disbands** (解散), **perpetrator** (罪犯), **avenues of escape** (逃跑路线), **window of opportunity** (机会窗口)
 > - **为什么这样写**：Houndsbury的战略眼光超越Jasper的情绪反应；"window of opportunity"是军事术语
 
-> **原句 8:** "'Does the betrothed have any say?' 'No,' Jasper said automatically, but at her scathing look he paused, took a deep breath, and amended his statement. 'Yes, of course you do.'"
+> **原句 8:** "'Does the betrothed have any say?' Frankie asked. 'No,' Jasper said automatically, but at her scathing look he paused, took a deep breath, and amended his statement. 'Yes, of course you do.'"
 > - **中文理解**：Frankie问未婚妻有没有发言权；Jasper自动回答"没有"，但在她严厉的目光下停顿、深呼吸，改口说"当然有"
 > - **句子结构**：对话加身体语言描写，展示权力动态变化
 > - **关键词**：**automatically** (自动地), **scathing** (严厉的), **amended** (修正)
@@ -86,42 +86,6 @@
 > - **关键词**：**loneliness** (孤独), **wept** (哭泣)
 > - **为什么这样写**：Jasper首次暴露脆弱面；"nearly wept"是硬汉情感的极限表达
 
-> **原句 14:** "'You defended my daughter in front of the Duke of Houndsbury today.' ... 'Because Frankie is incredible, and everyone should know it.'"
-> - **中文理解**：Mrs. Turner问Jasper为何在公爵面前为Frankie辩护；Jasper回答因为Frankie非凡，每个人都应该知道
-> - **句子结构**：问答式对话，简洁有力
-> - **关键词**：**defended** (辩护), **incredible** (非凡的)
-> - **为什么这样写**：Mrs. Turner态度转变的开始；Jasper的公开辩护是对Frankie价值的肯定
-
-> **原句 15:** "'She loves you, too, I think.' 'I am not sure she does. I am not even sure she believes she is lovable.'"
-> - **中文理解**：Mrs. Turner说Frankie也爱Jasper；Jasper不确定，甚至不确定Frankie相信自己值得被爱
-> - **句子结构**：对话揭示双方认知差距
-> - **关键词**：**lovable** (值得爱的)
-> - **为什么这样写**：Jasper的诚实承认Frankie的自我价值问题；Mrs. Turner的观察可能更准确
-
-> **原句 16:** "'I fear you will have to undo some of the damage I have inflicted. Francis could use someone on her side. I have not always been that person.'"
-> - **中文理解**：Mrs. Turner承认自己对Frankie造成了伤害，需要Jasper修复；Frankie需要支持者，而她并不总是那个人
-> - **句子结构**：自我批判式坦白，"undo the damage"承认母职失败
-> - **关键词**：**undo** (撤销/修复), **inflicted** (施加), **on her side** (支持她)
-> - **为什么这样写**：Mrs. Turner的自我反省揭示她侮辱Frankie的根源——不是恶意而是无能；"on her side"是Frankie从未有过的体验
-
-> **原句 17:** "'Mr. Jones, I have brought you out here so that I can apologize away from prying eyes. The things I have said about Miss Turner in the past were cruel and careless, and I never should have left her alone during the game of sardines.' The apology sounded fluid and sincere, but her expression was far from contrite. In the pale moonlight, her eyes were as cunning as ever."
-> - **中文理解**：Lady Evelyn邀请Jasper到阳台道歉，说她过去对Frankie的言论残忍轻率，不该在捉迷藏游戏中留她一人；道歉听起来流畅真诚，但表情毫不悔恨，月光下她的眼睛依旧狡黠
-> - **句子结构**：外在言辞与内在表情的对比描写
-> - **关键词**：**prying eyes** (窥探的眼睛), **contrite** (悔恨的), **cunning** (狡黠的)
-> - **为什么这样写**：揭示Evelyn的虚伪——道歉是策略而非真心；"cunning"预示危险
-
-> **原句 18:** "'Surely you can see how she riles the men with her uncouth mathematics displays and talk of equality. It is a woman's duty to provide a beautiful home, robust heirs, and polite conversation. Many doctors warn that a woman risks becoming barren if she engages with the sciences.'"
-> - **中文理解**：Evelyn说Frankie用粗俗的数学展示和平等言论激怒男性；女人的职责是提供美丽家园、健康继承人和礼貌交谈；许多医生警告女性从事科学会导致不孕
-> - **句子结构**：列举传统女性职责，用伪科学恐吓
-> - **关键词**：**riles** (激怒), **uncouth** (粗俗的), **barren** (不孕的), **engages with** (从事)
-> - **为什么这样写**：Evelyn使用社会主流偏见攻击Frankie；"doctors warn"是常见的反女权话术
-
-> **原句 19:** "Jasper felt the brush of air at his back a split second before pain exploded in his skull, and the stars in the night sky faded."
-> - **中文理解**：Jasper在后脑感到空气拂过半秒后，疼痛在头骨中爆发，夜空中的星星逐渐消失
-> - **句子结构**：感官顺序描写（触觉→痛觉→视觉丧失），模拟被击昏过程
-> - **关键词**：**brush of air** (空气拂过), **exploded** (爆发), **faded** (消失)
-> - **为什么这样写**：章节结尾的悬念反转，Jasper被袭击；"stars faded"既是字面也是隐喻意识丧失
-
 ---
 
 ## 词汇分级
@@ -135,7 +99,6 @@
 - **telltale** /ˈtelteɪl/ adj. 泄露真相的 — *"telltale burning"*
 - **melee** /ˈmeɪleɪ/ n. 混战，乱斗 — *"caught in the melee"*
 - **playacting** /ˈpleɪæktɪŋ/ n. 装模作样 — *"One of them is playacting"*
-- **contrite** /kənˈtraɪt/ adj. 悔恨的，忏悔的 — *"far from contrite"*
 
 ### ⭐ 基础
 - **handkerchief** /ˈhæŋkərtʃɪf/ n. 手帕 — *"pulled his handkerchief"*
@@ -154,12 +117,10 @@
 5. **"window of opportunity"** — 短暂的机会期
 6. **"paradoxically safer"** — 反直觉的安全状态
 7. **"The only thing worse than X was Y"** — 讽刺性比较句式
-8. **"undo some of the damage I have inflicted"** — 承认自己造成伤害并希望修复
-9. **"on her side"** — 表示支持和站队
-10. **"away from prying eyes"** — 避开窥探的私下场合
-11. **"pain exploded in his skull"** — 描写头部受重击的生动表达
+8. **"pain exploded in his skull"** — 描写头部受重击的生动表达（注：此句实际出现在ch46，此处为预留）
+9. **"on the hunt for a killer"** — 猎杀凶手的宣言式表达
 
 ---
 
 ## 一句话总结
-Jasper追捕失败但找到蓝宝石丝绸碎片证据，Houndsbury建议留守以缩小嫌疑人范围，Frankie决定留下当诱饵；Mrs. Turner向Jasper道歉并承认Frankie也爱他，Lady Evelyn假意道歉后将Jasper引至阳台，Jasper遭人从背后袭击昏迷。
+Jasper追捕失败但找到蓝宝石丝绸碎片证据，Houndsbury建议留守以缩小嫌疑人范围，Frankie决定留下当诱饵；晚宴照常举行，Jasper与Frankie互诉衷肠后准备武装赴宴猎凶。
