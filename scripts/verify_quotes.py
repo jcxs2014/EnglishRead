@@ -21,6 +21,24 @@ import re, sys, glob, html, zipfile, tempfile, os
 
 CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕'
 
+# 印张页码锚点（epub 的 doc-pagebreak）。**必须在标签还完整时剥**：剥标签后
+# 数字会与正文粘连（The Moon Papers 实证 `saw 12them` / `204and` / `281Then` 约百处）。
+# 源形态（两种配对）：
+#   <span aria-labelledby="pg12" epub:type="pagebreak" id="page_12" role="doc-pagebreak"/>
+#   <span hidden="hidden" id="pg12">12</span>
+# 页码不是正文，两侧（epub 参照集与 text/ 提取件）必须同口径，否则跨页引语必假 MISS。
+PAGE_ANCHOR_RES = (
+    re.compile(r'<(?:span|a|div|p)\b[^>]*(?:epub:type="pagebreak"|role="doc-pagebreak")[^>]*/?>'
+               r'(?:[^<]{0,16}</(?:span|a|div|p)>)?', re.I),
+    re.compile(r'<(\w+)\b[^>]*\bid="pg[a-z0-9]+"\b[^>]*>\s*[0-9]{1,4}\s*</\1>', re.I),
+    re.compile(r'<(\w+)\b[^>]*\bhidden="hidden"[^>]*>\s*[0-9]{1,4}\s*</\1>', re.I),
+)
+
+def strip_page_anchors(t: str) -> str:
+    for rx in PAGE_ANCHOR_RES:
+        t = rx.sub('', t)
+    return t
+
 def flat_alpha(s) -> str:
     # 先剥掉引文里手写的段落转义符（\n/\t 会被指纹误读为字母 nn/tt）
     if not isinstance(s, str):
@@ -45,6 +63,7 @@ def epub_flat_text(epub_path: str) -> str:
 
 def read_html(p: str) -> str:
     t = open(p, encoding="utf-8", errors="ignore").read()
+    t = strip_page_anchors(t)
     t = re.sub(r'<[^>]+>', ' ', t)
     t = html.unescape(t).replace('\u00a0', ' ')
     return t

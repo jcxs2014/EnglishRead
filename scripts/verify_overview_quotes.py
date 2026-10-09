@@ -22,6 +22,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 # 该文件原注释已写死这条纪律——「两处口径必须一致，否则同一段文字在正文章节判 🔶、
 # 在总览判 ❌，排查的人会怀疑工具而不是怀疑书」。构造上一致，而不是靠自觉保持一致。
 from check_overview_full import halves, suffix_match, is_quoteish  # noqa: E402
+from verify_quotes import strip_page_anchors  # noqa: E402  # 页码锚点口径须与 epub 参照集一致
 
 CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚'
 
@@ -43,6 +44,7 @@ def epub_flat_text(epub_path: str) -> str:
 
 def _read_html(p: str) -> str:
     t = open(p, encoding="utf-8", errors="ignore").read()
+    t = strip_page_anchors(t)
     t = re.sub(r'<[^>]+>', ' ', t)
     t = html.unescape(t).replace('\u00a0', ' ')
     return t

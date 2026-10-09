@@ -13,6 +13,11 @@ extract_chapters.py — 把书籍 epub 拆分为逐章纯文本（精读前的"�
 import re, sys, html, os, zipfile, argparse, glob, posixpath
 from urllib.parse import unquote
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+# 页码锚点剥离与 epub 参照集**共用同一实现**（verify_quotes）。提取侧剥、参照侧不剥
+# 会造成「跨页引语两侧都不认识」的假 MISS，故口径只能有一份。
+from verify_quotes import strip_page_anchors  # noqa: E402
+
 # 出版商 dropcap 修连：**必须在标签还完整时做**（剥标签后无法再判断大写到哪结束）。
 # 排版形态：<span class="dropcap-rw">I</span><span class="smallcaps-rw">T WAS UNSPOKEN</span>
 # 产出：首字母 + 逐词首字母大写 + 单空格（"IT WAS UNSPOKEN"，即正常句子形态）。
@@ -48,7 +53,8 @@ def _fix_dropcap_markup(t: str) -> str:
 
 
 def clean(raw: str) -> str:
-    t = _fix_dropcap_markup(raw)
+    t = strip_page_anchors(raw)          # 页码锚点须在标签还在时剥，否则数字粘进正文
+    t = _fix_dropcap_markup(t)
     t = re.sub(r'<(p|div|h[1-6]|li|br)\b[^>]*>', '\n', t)
     t = re.sub(r'</(p|div|h[1-6])>', '\n', t)
     t = re.sub(r'<[^>]+>', '', t)          # 行内标签删除，不引入空格
