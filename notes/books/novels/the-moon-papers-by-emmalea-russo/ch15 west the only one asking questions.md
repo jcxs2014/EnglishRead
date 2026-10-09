@@ -25,7 +25,7 @@ POV: "Dean Konig（第三人称限知，间以集体聊天与论坛多声记录�
 
 **关键词**：I'm fine、Sorry I'm late、test moon、trial balloon、whatever it's called
 
-**为什么这样写**：本章开场没有任何场景描写，人的到场全靠发言行完成——上一行还是 Bobby 的 "Here's our man."，Dean 的三个短句就依次到位：I'm fine（防御）、Sorry I'm late（社交）、I was with the test moon（解释）。迟到的理由其实是真话：上一章结尾他确实站在月亮底下。术语的滑动是关键——test moon 是机构的叫法，trial balloon 是日常语（英语里这个词本身还暗含"试探舆论"之意），而 whatever it's called 干脆放弃命名；同一个人谈论自己负责的项目，归属感随称呼一个比一个随意。
+**为什么这样写**：本章开场没有任何场景描写，人的到场全靠发言行完成——开章第一行是 Bobby 的 "Here's our man."，Marla 问好后，Dean 的三个短句依次到位：I'm fine（防御）、Sorry I'm late（社交）、I was with the test moon（解释）。迟到的理由其实是真话：上一章结尾他确实站在月亮底下。术语的滑动是关键——test moon 是机构的叫法，trial balloon 是日常语（英语里这个词本身还暗含"试探舆论"之意），而 whatever it's called 干脆放弃命名；同一个人谈论自己负责的项目，归属感随称呼一个比一个随意。
 
 **读者视角提示**："I'm fine" 在本章出现两次——这一次，以及稍后被 Edwin 追问 "Dean, are you with us?"、Liza 提议看医生之后的 "No. I'm fine. I was just thinking."。同一句搪塞被重复使用，第二次读者已经能确认它不成立。
 
@@ -37,7 +37,7 @@ POV: "Dean Konig（第三人称限知，间以集体聊天与论坛多声记录�
 
 **关键词**：not knowing、beautiful、requires、a certain level、as you know
 
-**为什么这样写**：Dean 刚说完 "At the end of the day, we know barely anything."——那是沮丧；Jules 接住同一个词根，把"不知道"重新定义成职业素质。requires a certain level 让"不知道"变得可计量，和技能排在同一张等级表上；句尾的 as you know 借用 Dean 自己的动词，把"你不认同也得认同"包装成默契。软性收编说完两行后，Liza 的硬版本才到——"Technical fixation is regressive, Dean. We reached consensus on that."，两句合起来是机构给"追问机制"定的性：技术关心等于倒退。
+**为什么这样写**：Dean 刚说完 "At the end of the day, we know barely anything."——那是沮丧；Jules 接住同一个词根，把"不知道"重新定义成职业素质。requires a certain level 让"不知道"变得可计量，和技能排在同一张等级表上；句尾的 as you know 借用 Dean 自己的动词，把"你不认同也得认同"包装成默契。软性收编之后隔了几个回合，Liza 的硬版本才到——"Technical fixation is regressive, Dean. We reached consensus on that."，两句合起来是机构给"追问机制"定的性：技术关心等于倒退。
 
 **读者视角提示**：Dean 的反问 "How are we going to launch it if we don’t know how it works?" 无人正面接招，被 Marla 岔去声明起草——留意例会真正议程的暴露点："How to craft a new statement that offsets the fearmongering we’ve seen around Moon2 disrupting biological processes."。
 
@@ -51,7 +51,7 @@ POV: "Dean Konig（第三人称限知，间以集体聊天与论坛多声记录�
 
 **为什么这样写**：本章第一个叙述段里，烦躁不指向任何人——他走神想的是尘土多久覆盖试验月亮，一个只能问给物体的无解问题。real moon 与 test moon 在本章首次对照：前者的脚印 still intact（人的痕迹永远留在上面），后者很快会被 dust 覆盖（人的痕迹只会糊上去）；两颗月亮的命运被并排放在一个走神里。末句最准："He wasn’t sure he believed that, but it sounded good."——Dean 判断一个说法从不用真值，用"听着是否舒服"；而集体对 Moon2 的态度恰是同一种姿态，叙述不点破，结构点破。
 
-**读者视角提示**：footprints 会再次出现——"He thought of those famous footprints again, impressions on the moon’s surface, as he tuned out."——impressions 兼有"脚印"与"印象、影响"两义，紧接着的两个词 impressionable、impressionability 正从这层双关里长出来。
+**读者视角提示**：footprints 会再次出现——"He thought of those famous footprints again, impressions on the moon’s surface, as he tuned out."——它是一连串追问的收束句，而那条追问里刚用过 impressionable 与 impressionability（"Whose was more impressionable, susceptible?"）；impressions 兼有"脚印"与"印象、影响"两义，"影响"这组词族在同一段里绕回原点。
 
 ---
 
