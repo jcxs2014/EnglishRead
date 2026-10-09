@@ -61,7 +61,7 @@ POV: "Velour Bellmer（第三人称限知，Pennsylvania 东南部乡间自宅�
 
 **关键词**：slippery、frenzied、digital blue、dingy、overflowing
 
-**为什么这样写**：明喻把本体和喻体放在不相称的量级上——用一群鸟的动感去比"时间"这种没有形状的东西，而这些鸟还是镜中的（reflected in her phone），比较的下游本就是虚的，于是句子末尾的 hard to grasp 有了双关：抓不住的是鸟影，也是时间。两个疑问句不给答案，She certainly couldn't tell, didn't know 用同义重复把"不知道"说满两遍，后半截短到近乎粗率，替人物省掉了体面。the birds disappeared into digital blue 是全章唯一一次让自然物死在电子屏里。最后镜头落到烟灰缸：浑水里的十二支烟和"前一晚的雨"被塞进同一句，读者只能自己排时间——那些烟是一根根攒的，雨是夜里下的。
+**为什么这样写**：明喻把本体和喻体放在不相称的量级上——用一群鸟的动感去比"时间"这种没有形状的东西，而这些鸟还是镜中的（reflected in her phone），比较的下游本就是虚的，于是句子末尾的 hard to grasp 有了双关：抓不住的是鸟影，也是时间。两个疑问句不给答案，She certainly couldn’t tell, didn’t know 用同义重复把"不知道"说满两遍，后半截短到近乎粗率，替人物省掉了体面。the birds disappeared into digital blue 是全章唯一一次让自然物死在电子屏里（digital 这个词本节只出现这一次）。最后镜头落到烟灰缸：浑水里的十二支烟和"前一晚的雨"被塞进同一句，读者只能自己排时间——那些烟是一根根攒的，雨是夜里下的。
 
 **读者视角提示**：十二支烟是一个被数出来的数字，而本节后面她自己也会被数（文件上的岁数与心里认领的岁数）；这节里所有"计数"都既是环境细节也是人物处境。
 
@@ -75,7 +75,7 @@ POV: "Velour Bellmer（第三人称限知，Pennsylvania 东南部乡间自宅�
 
 **为什么这样写**：Technically 一个开头就把年龄拆成两套账——文件上的和心里认领的，而人物明确选了错的那一套，还称它是 preparation，这是本节最坦率的一次自我交代，不给反驳留位置。A form of preparation 单独成句，长度在这段里最短，作用像盖章。末句的时态用得极准：将来完成体把"提前成为七十"写成一件在未来回望时已经完成的事，读者被迫同时在时间轴的两端读这句话——这正是上一块"时间抓不住"的语法版本。soften the blow 里的 blow 没有施暴者，只留一个"击"字，衰老因此有了具体打人的形象。
 
-**读者视角提示**：这段是她对自身时间的主权声明；紧接着从外面闯进来的就是他人的时间——Mindy 那声 Hi! Hi there! 是本节第一次有人不容她预备。
+**读者视角提示**：这段是她对自身时间的主权声明；紧接着从外面闯进来的就是他人的时间——Mindy 那一声 Hi! Hi there! 不给她任何预备。
 
 ---
 
@@ -85,7 +85,7 @@ POV: "Velour Bellmer（第三人称限知，Pennsylvania 东南部乡间自宅�
 
 **关键词**：snapped、accumulating、electric hit、indestructible、run wild
 
-**为什么这样写**：两个 after 并列，把"外界的认可"和"作品的完成"一起摆成扳机，而 something snapped inside 用不定代词让断裂发生在身体内部、不给出对象——叙述不解释她为什么塌，只报告塌了。Trinkets, objects, furniture, anything 是清单加终止词：前三项还在分类，anything 取消分类，句子结构替她演示失控的进程。冒号后的 like death wasn't possible 是全章与第一块 dead things 唯一一次正面对撞，她囤的不是东西，是把死亡暂时关掉的开关。to the brim 与 run wild 也互相拆台——装满是控制，疯长是不受控，同一层楼两种说法，本节里她的家一直是这样同时被描述成作品和事故现场。
+**为什么这样写**：两个 after 并列，把"外界的认可"和"作品的完成"一起摆成扳机，而 something snapped inside 用不定代词让断裂发生在身体内部、不给出对象——叙述不解释她为什么塌，只报告塌了。Trinkets, objects, furniture, anything 是清单加终止词：前三项还在分类，anything 取消分类，句子结构替她演示失控的进程。冒号后的 like death wasn’t possible 让她开头那串 dead things 在这里折了回来——她囤的不是东西，是把死亡暂时关掉的开关；而这节里 death 这个名词也只出现在这一句。to the brim 与 run wild 也互相拆台——装满是控制，疯长是不受控，同一层楼两种说法，本节里她的家一直是这样同时被描述成作品和事故现场。
 
 **读者视角提示**：这一块的因果起点（那篇杂志报道）就在前文 Mindy 的对话里被她亲口确认过；囤积不是突发，是"被看见"之后的续集。
 
@@ -97,7 +97,7 @@ POV: "Velour Bellmer（第三人称限知，Pennsylvania 东南部乡间自宅�
 
 **关键词**：went cold、impossible、thirty-five years、not one
 
-**为什么这样写**：At the word bat 是全章第一次让"词本身"产生生理作用——不是看见，是听见名称就冷。此前她把那团东西的名字念出声（她说出口的 tiny spine），命名在这节里一直有体力，到 bat 这里命名第一次反噬了她。In thirty-five years, not one 把数量放在前、结论留在句尾，not one 单独收尾，读起来像一句证词；而这条证词马上就被 Mac 用常识推翻：他说 Residenz 对面那座谷仓里住着一处 male satellite colony，那就意味着附近有 maternity colony——两处栖息地都在她自家视线之内，谁也没撒谎，错的只是她的观察范围。
+**为什么这样写**：At the word bat 让"词本身"产生了生理作用——不是看见，是听见名称就冷。此前她把那团东西的名字念出声（她说出口的 tiny spine），命名在这节里一直有体力，到 bat 这里名字反过来打到了她身上。In thirty-five years, not one 把数量放在前、结论留在句尾，not one 单独收尾，读起来像一句证词；而这条证词马上就被 Mac 用一条常识解释掉：他说 Residenz 对面那座谷仓里住着一处 male satellite colony，那就意味着附近有 maternity colony——她否认的是"这里"，Mac 给出的是"附近"，两个人说的不是同一个距离，谁也没撒谎。
 
 **读者视角提示**：Part One 的题页写的就是蝙蝠的气味压在山风上；本节让第一只蝙蝠以"还没长齐毛的独苗"出场，而它母亲的群落到底在哪儿，本章不交代。
 

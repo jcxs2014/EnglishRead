@@ -25,7 +25,7 @@ POV: "Velour（第三人称限知，中段一次短暂移交 Radko；她的乡�
 
 **关键词**："Streetlight"、"not moon"、"miniature bench"、"lighter"、"lift off"
 
-**为什么这样写**：开篇第一句就把西线节里那轮始终在场的月亮换掉——"Streetlight, not moon"，东线的夜第一次不被月亮照，只被人造光照明，这与本书"要升起的第二颗月亮"正好相反：本节的人造光在地上。around and around 的重复把"转"写成实际时长，读者跟着这件小家具绕圈。随后三句递进（"Her house would get lighter. She would get lighter. So light they’d lift off."）主语从房子滑到人再滑到"两者合起来的它们"，变轻因此不是比喻而是本章的物理指标。收尾 "She smiled wide" 用最普通的动词把这段狂想落到一个身体表情上。
+**为什么这样写**：开篇第一句就把西线节里那轮始终在场的月亮换掉——"Streetlight, not moon"，东线这一节的夜开头不被月亮照，只被人造光照明，这与本书"要升起的第二颗月亮"正好相反：本节的人造光在地上。around and around 的重复把"转"写成实际时长，读者跟着这件小家具绕圈。随后三句递进（"Her house would get lighter. She would get lighter. So light they’d lift off."）主语从房子滑到人再滑到"两者合起来的它们"，变轻因此不是比喻而是本章的物理指标。收尾 "She smiled wide" 用最普通的动词把这段狂想落到一个身体表情上。
 
 **读者视角提示**：记住"轻"这个计量单位——本节最后一只长凳被搬走时它要兑现，而 Radko 那句 "This is a major day" 也压在同一个刻度上。
 
@@ -33,7 +33,7 @@ POV: "Velour（第三人称限知，中段一次短暂移交 Radko；她的乡�
 
 > **原句 2:** She thought of Radko, a stranger, an angel at her back door. She knew he could walk soundlessly around zones with such quiet strength that his presence alone would make lives and personalities change. She pictured him as the angel Gabriel visiting Mary, telling her the news that she was pregnant with God’s son. She pictured Radko wearing heavy wings and puffy Renaissance sleeves, crouching down to tell Mary he meant her no harm as a beam of light shot right into the virgin and a scroll of paper fell from Rad’s large palm. She pictured him being born. Holding a child. Going down on a woman. Going down on a man. Playing himself in a movie. Driving a car. Licking her blood off his thumb. Eating bat shit. Dead.
 
-**中文理解**：她想起 Radko，一个陌生人，一个待在她后门台阶上的天使。她想象他像天使加百列拜访 Mary、告知她怀了神子那样，穿着沉重的翅膀和蓬起的文艺复兴式袖口，蹲下身说自己无意伤害她，一道光直射进那贞女体内、一卷纸从 Rad 的大掌心里掉下来。接着她想象他被生出来、抱着一个孩子、与女人、与男人口交、在自己出演的电影里演自己、开车、把她血舔出拇指、吃蝙蝠粪、死了。
+**中文理解**：她想起 Radko，一个陌生人，一个待在她后门台阶上的天使。她知道他能悄无声息地在各处走动，那种安静的力量只凭在场就能让人的生活与性情改变。她想象他像天使加百列拜访 Mary、告知她怀了神子那样，穿着沉重的翅膀和蓬起的文艺复兴式袖口，蹲下身说自己无意伤害她，一道光直射进那贞女体内、一卷纸从 Rad 的大掌心里掉下来。接着她想象他被生出来、抱着一个孩子、与女人、与男人口交、在自己出演的电影里演自己、开车、把她血舔出拇指、吃蝙蝠粪、死了。
 
 **关键词**："a stranger"、"an angel at her back door"、"the angel Gabriel"、"heavy wings"、"Dead"
 

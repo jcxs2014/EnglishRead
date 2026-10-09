@@ -49,7 +49,7 @@ POV: "无名老年 Voice（第一人称限知，她现在的住处；本章未�
 
 **关键词**：rocket、holding my hand、take off
 
-**为什么这样写**："like it was the two of us who were about to take off" 是全节的重心比喻：升空的主体从火箭悄悄滑到这对并肩的人身上。火箭与本节的另一件大事实（月亮被发射）叠在一起，使"我们两个也要起飞"同时是回忆、愿望和一句说不出口的话——她等的人正是没跟她一起走的那个。
+**为什么这样写**："like it was the two of us who were about to take off" 是全节的重心比喻：升空的主体从火箭悄悄滑到这对并肩的人身上。火箭与本节的另一件大事实（月亮被发射）叠在一起，使"我们两个也要起飞"同时是回忆、愿望和一句说不出口的话——她等的人，如今只活在"一起看过"的句式里。
 
 **读者视角提示**：这里第一次出现 "Vesta and I" 这种绑定句式；本节后面每次提到 Vesta，句法上都挂着"在我旁边"的方位词，读者可以把这当作她证词的一致性检验。
 
@@ -57,7 +57,7 @@ POV: "无名老年 Voice（第一人称限知，她现在的住处；本章未�
 
 > **原句 4:** Not my daughter. My daughter is full of shit. She moved to the mountains with her con artist husband. They lie to me and take my money. This guy too. This guy out there. He’s a no-good hippie.
 
-**中文理解**：她先撇清：握她手的不是她女儿。女儿满嘴跑火车，跟骗子丈夫进了山，骗她的钱。紧接着把火引到"外头那个家伙"——她不知道那人对她草坪要做什么，草坪本来挺好——一个不行的嬉皮。
+**中文理解**：她先撇清：握她手的不是她女儿。女儿满嘴跑火车，跟骗子丈夫进了山，骗她的钱。紧接着把火引到"外头那个家伙"——她不知道那人对她草坪要做什么，草坪本来挺好——一个不务正业的嬉皮。
 
 **关键词**：con artist、no-good hippie、lawn
 
@@ -69,13 +69,13 @@ POV: "无名老年 Voice（第一人称限知，她现在的住处；本章未�
 
 > **原句 5:** The astronaut said something that sounded smart but was actually stupid. Like, no shit the moon is desolate and magnificent. But I was proud to be an American.
 
-**中文理解**：她说宇航员讲了句听着聪明、其实挺蠢的话——大意无非是"废话，月亮荒凉又壮丽"。可紧接着：她仍为自己是美国人骄傲，想着"那是我的国家"，他们赶在十年期限之内把它做成了。
+**中文理解**：她说宇航员讲了句听着聪明、其实挺蠢的话——大意无非是"废话，月亮荒凉又壮丽"。可紧接着：她仍为自己是美国人骄傲，想着"那是我的国家"，他们赶在那十年过完之前把它做成了。
 
 **关键词**：astronaut、desolate and magnificent、proud
 
 **为什么这样写**："sounded smart but was actually stupid" 是这节罕见的文学批评时刻——她把国家史诗的第一行降级成聊天废话，降级之后又立即升格回去（"I was proud to be an American."），一贬一褒之间不加过渡。"It happened like that, faster than you could snap." 用响指给国家级工程计时，语域再次跌落。作者把宏大叙事交给两种口吻同时说，不裁定哪一种才是她的真心。
 
-**读者视角提示**：desolate、magnificent 这两个形容词在本节后面还会各干一次活——它们先由宇航员说成废话，再由老太太自己用它们丈量眼前的月亮之夜。
+**读者视角提示**：desolate、magnificent 这对大词由宇航员说成废话之后，紧接着就被 "I was proud to be an American." 接住——本节让宏大与家常在同一口气里互换，读者不必选边。
 
 ---
 

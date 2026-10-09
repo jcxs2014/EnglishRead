@@ -81,11 +81,11 @@ POV: "Radko Toth（第三人称限知，东线，记忆与当下叠印，Pennsyl
 
 > **原句 6:** To his shock, Vesta was lying on the bed, seemingly asleep, facing the window in a fetal position.
 
-**中文理解**：他推开那间他认定曾是 Vesta 卧室的木门——Vesta 蜷成胎儿姿势面朝窗睡在床上。他吓了一跳，挂在门口 `quiet as a bat`；她伸懒腰发出动物般的吱声，回头一声尖叫，他也叫，然后两人大笑。她解释自己回来是想 clear my head、remember some feeling，梦见的是月亮——至于是月亮还是 Moon2，她说不知道，"but I dreamed of the future."
+**中文理解**：他推开那间他认定曾是 Vesta 卧室的木门——Vesta 蜷成胎儿姿势面朝窗睡在床上。他吓了一跳，挂在门口 `quiet as a bat`；她伸懒腰发出动物般的吱声，回头一声尖叫，他也叫，然后两人大笑。她解释自己回来是想 clear my head、想起某种感觉，梦见的是月亮——至于是月亮还是 Moon2，她说不知道，"but I dreamed of the future."
 
-**关键词**：fetal position、doorway、laughing
+**关键词**：fetal position、shock、burst out laughing
 
-**为什么这样写**：找蝙蝠的人推开门找到了人——Vesta 在旧卧室里蜷成阁楼里 pups 的姿势，Radko 眼里两处"巢"就此并置；连她自己形容梦境用的也是"梦见未来"，一个睡在过去房间里的人梦的是还没发射的月亮。`quiet as a bat` 三个词把 Radko 的身份漂移写满：技工、窥探者、最后是把自己藏进蝙蝠比喻里的人。尖叫—大笑的短路（`They both burst out laughing`）是全章唯一一次两人同频，作者给它的最小篇幅与它对他的最大分量形成反差。
+**为什么这样写**：找蝙蝠的人推开门找到了人——就在几页之前，他刚在阁楼里对着母蝠与幼崽祈愿；作者把"一窝蜷睡蝙蝠"与"蜷成胎儿姿势睡觉的 Vesta"按这个顺序排进同一栋房子，相似性由场景调度完成，不用一个词说破。而她自己形容梦境用的也是"梦见未来"——一个睡在过去房间里的人，梦的是还没发射的月亮。`quiet as a bat` 三个词把 Radko 的身份漂移写满：技工、窥探者、最后是把自己藏进蝙蝠比喻里的人。尖叫—大笑的短路（`They both burst out laughing`）是全章唯一一次两人同频，作者给它的最小篇幅与它对他的最大分量形成反差。
 
 **读者视角提示**：这段的位置在阁楼查相机之后——他刚对蝙蝠们 "wished them well"，转过弯就撞见她；顺序本身就是"蝙蝠引路"的另一重兑现。
 

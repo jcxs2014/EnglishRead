@@ -25,7 +25,7 @@ POV: "Lars Arden（第三人称限知，宾州车站至纽约 Gallery X）"
 
 **关键词**：stippled、accosting、maniacally、omens
 
-**为什么这样写**：开篇先把"车站"降级——really 一句 "just a slice of sidewalk" 把长途出发从布景里连根拔掉，只剩沥青、虫子和热气。苍蝇钻耳与狂舞手臂让全章第一组神经质动作长在 Lars 身上，而笑出来的是 Vesta：两人对同一只虫子的反应从一开始就不同步。收束的明喻 "like omens" 是整段唯一朝场景外指认的词——油膜是任何公路都有的东西，把预兆写进普通早晨的，是看的那个人。"Over his wife’s shoulder" 顺手交代了驾驶座是谁，后文 "She’d been barefoot while driving him to the bus station" 才把这条线挑明。
+**为什么这样写**：开篇先把"车站"降级——一句 "really just a slice of sidewalk" 把长途出发从布景里连根拔掉，只剩沥青、虫子和热气。苍蝇钻耳与狂舞手臂让全章第一组神经质动作长在 Lars 身上，而笑出来的是 Vesta：两人对同一只虫子的反应从一开始就不同步。收束的明喻 "like omens" 是整段唯一朝场景外指认的词——油膜是任何公路都有的东西，把预兆写进普通早晨的，是看的那个人。"Over his wife’s shoulder" 顺手交代了驾驶座是谁，后文 "She’d been barefoot while driving him to the bus station" 才把这条线挑明。
 
 **读者视角提示**：记住第一段的方向感——苍蝇要进他的耳朵，油膜在妻子肩外。全章 Lars 都在隔着一层什么看：屏幕、玻璃、邻居家窗上的反光。
 
@@ -49,7 +49,7 @@ POV: "Lars Arden（第三人称限知，宾州车站至纽约 Gallery X）"
 
 **关键词**：regarded、croissant duffel、anxiety-inducing、mors immatura
 
-**为什么这样写**：这是全章唯一一次冷静点数的段落，"who totaled seven" 之后立刻滑向对皮包的恋物式描写——数人头的人与给随身物编号（"one of his key items"）的人是同一个，为访谈里那句 "The first and only rule of style" 提前交底。拉丁文身不需要任何情节就把死亡放进了一个夏天的早晨，下一段紧跟着 "that person would have to kill him first"，杀气被立即接住。注意 "comforting and anxiety-inducing" 这对矛盾词挂在物件上：袋里最看重的，正是 "his Moon2 research and daily observations"——Moon Papers 的物质形态第一次登场。
+**为什么这样写**：这是全章一段罕见的冷静点数，"who totaled seven" 之后立刻滑向对皮包的恋物式描写——数人头的人与给随身物编号（"one of his key items"）的人是同一个，为访谈里那句 "The first and only rule of style" 提前交底。拉丁文身不需要任何情节就把死亡放进了一个夏天的早晨，下一段紧跟着 "that person would have to kill him first"，杀气被立即接住。注意 "comforting and anxiety-inducing" 这对矛盾词挂在物件上：袋里最看重的，正是 "his Moon2 research and daily observations"——Moon Papers 的物质形态第一次登场。
 
 **读者视角提示**：唇钉女人下车时 "stumbled like she was sad or drunk"，Lars 咽下喉头的异物感抱紧旅行袋——本章的陌生人只活在他目光落下的那一瞬，退场后不再回头。
 
@@ -81,11 +81,11 @@ POV: "Lars Arden（第三人称限知，宾州车站至纽约 Gallery X）"
 
 > **原句 6:** Sudden activity on-screen. Lars’s arms tingled as he watched Vesta walk across their front yard barefoot (of course) in a huge black T-shirt. Her steps were light and jolty yet trepidatious, like a fawn daring to cross a highway. She walked past the twin red chairs, mailbox, car, then onto the hot asphalt before disappearing into a mass of trees behind Ziggy’s house. Lars leaned far in.
 
-**中文理解**：屏幕上有动静。Lars 双臂发麻：Vesta 赤着脚（"of course"）穿过大 T 恤走过前院，步子又轻又跳、却又 "trepidatious"——"like a fawn daring to cross a highway"，像一头敢闯公路的幼鹿。她走过两把红椅子、信箱、汽车，踏上滚烫的沥青，然后消失在对门 Ziggy 家后面一团树影里。Lars 把整个身子探向屏幕。
+**中文理解**：屏幕上有动静。Lars 双臂发麻：Vesta 赤着脚（"of course"）、穿一件宽大的黑 T 恤走过前院，步子又轻又跳、却又 "trepidatious"——"like a fawn daring to cross a highway"，像一头敢闯公路的幼鹿。她走过两把红椅子、信箱、汽车，踏上滚烫的沥青，然后消失在对门 Ziggy 家后面一团树影里。Lars 把整个身子探向屏幕。
 
 **关键词**：on-screen、barefoot、trepidatious、fawn
 
-**为什么这样写**："Sudden activity on-screen." 两个词、一个句号——叙述模仿监控系统的弹出提示；人是系统，家是取景框。括号里的 "(of course)" 是全段唯一一次对读者的插话：赤脚早已是他与妻子之间无需解释的事实，加油站那幕与 Peach 关于鞋的对话都铺过这一笔。比喻把妻子放到猎物一侧——同一章里他自比为骗过蝙蝠的飞蛾、把 Moon2 想象成捕食者；在他自己装了摄像头的房子前，被观看的从来不是别人。"disappearing into a mass of trees" 是全章监控线的实体结局：他加宽镜头终于看清了她——看清的是她离开画面。
+**为什么这样写**："Sudden activity on-screen." 两个词、一个句号——叙述模仿监控系统的弹出提示；人是系统，家是取景框。括号里的 "(of course)" 是全段唯一一次对读者的插话：赤脚早已是他与妻子之间无需解释的事实，车站那幕与 Peach 关于鞋的对话都铺过这一笔。比喻把妻子放到猎物一侧——同一章里他自比为骗过蝙蝠的飞蛾、把 Moon2 想象成捕食者；在他自己装了摄像头的房子前，被观看的从来不是别人。"disappearing into a mass of trees" 是全章监控线的实体结局：他加宽镜头终于看清了她——看清的是她离开画面。
 
 **读者视角提示**：下一段立刻交代他想回放却不能——"he’d declined to accept that feature"：一个拒绝录像的人看了全部直播。这句矛盾本章不再处理。
 
