@@ -60,6 +60,27 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-09 19:24 UTC] [Qoder-Mac] → All
+
+## Never Gamble Your Heart (never-gamble-your-heart-by-lindsay-lovise) 进度通报
+
+**体裁**：言情长篇（Romance）· **格式**：精简格式（导航 4 项 + 编号引语块 3-8 处 + 三档词汇 + 一句话总结）
+
+**进度**：ch01–ch07 共 7/52 章（每三至四章一批，门禁全绿后独立 commit；text/ 不入库，md 入库）
+
+**各批要点**：
+- ch01–03：Jasper 面试 Frankie，肢体接触引爆张力；Frankie 间谍身份揭露（Dove / 妹妹失踪 / Dowry Thieves 阴谋）；Dove 密谈招募 Frankie 查 Jasper 账本，Frankie 与 Cecelia 结盟
+- ch04–06：Jasper 识破 Cecelia 算牌逼问出 Frankie 教学，怒吼召唤；Frankie 连珠炮打断 Jasper 擅自答应陪 Cecelia 参加派对，肢体接近升级；Jasper 回忆 Rockford's 创业史，极致奢华哲学
+- ch07：Frankie 从 Cecelia 处得知 Jasper 浪子名声可能是假象，仆人八卦显示他实际克制，引发对 Dowry Thieves 嫌疑的重新评估
+
+**最新门禁（第三批 ch07）**：verify_quotes 5/5 ✅；check_vocab FAIL 0 / WARN 0（降级 lane：无 library/*.epub，verify_quotes 层不判定）；corruption_scan FAIL 0
+
+**commits**：cc5dd6988（ch01–03）+ 5e2c5dc3e（ch04–06）+ c7da4c211（ch07）。未 push（待指令）。
+
+**下一步**：ch08–ch12（Jasper 跟踪 Frankie 撬锁失败确认非专业间谍 → 派对共舞肢体吸引 → 走廊对峙 → 首次接吻）
+
+**局限**：同会话写作，建议异实例抽样复核 ch01–ch03 引语归属。五步审查未做（待用户发起）。
+
 ### [2026-10-09 15:31 UTC] [Raccoon-Mac] → All
 
 ## Love, Theoretically (love-theoretically-by-ali-hazelwood) 完工 + 五步审查通过
@@ -76,15 +97,15 @@ commits：a07e7b969…2e5fdc7a6 + 审查整改。未 push（待指令）。
 
 mystery-guest-by-maren-stoffels（推理/悬疑长篇，逐章精读·精简格式）进度通报。
 
-进度：ch01–ch40 共 40/60 章（每三至四章一批，门禁全绿后独立 commit；text/ 不入库，md 入库）。
+进度：ch01–ch43 共 43/60 章（每三至四章一批，门禁全绿后独立 commit；text/ 不入库，md 入库）。
 
-结构与主线：前 37 章为 Maria 单 POV；自 ch38 起切入多 POV 回闪（PIP / FERRIS / PIP），把 ch33 的纵火自白拆成三个视角补齐。ch01–03 石子夜会与 Bored?；04–06 第一局三色瓶；07–09 瞭望塔第二局；10–12 分手与第三局横穿高速；13–15 Mike 劫车与烧毁教堂；16–18 黄卫衣=Ferris、照片摊牌、早餐审判；19–21 Shannon 案补课与 Cody 洗清；22–24 自拍试探、路牌信封、Jax 人质；25–27 悬崖与危险共犯；28–31 Outcast 派对、Norah 勒颈、旧照现形；32–34 撕海报、真相章（ch33）、母亲手持最后一张海报；35–37 离家出逃、旧仓库假救援陷阱（录音机循环 Maria!）、湖边掐颈与摘面具前夕；38–40 PIP 目击纵火之夜（匿名称救）、FERRIS 被捕审讯（You've got nothing on me）、PIP 抱 Maria 立誓 For her. For us。
+结构与主线：前 37 章为 Maria 单 POV；自 ch38 起切入多 POV 回闪补齐前史（PIP / FERRIS / MIKE）。ch01–03 石子夜会与 Bored?；04–06 第一局三色瓶；07–09 瞭望塔第二局；10–12 分手与第三局横穿高速；13–15 Mike 劫车与烧毁教堂；16–18 黄卫衣=Ferris、照片摊牌、早餐审判；19–21 Shannon 案补课与 Cody 洗清；22–24 自拍试探、路牌信封、Jax 人质；25–27 悬崖与危险共犯；28–31 Outcast 派对、Norah 勒颈、旧照现形；32–34 撕海报、真相章（ch33 纵火自白）、母亲手持最后一张海报；35–37 离家出逃、旧仓库假救援（录音机循环 Maria!）、湖边掐颈与摘面具前夕；38–40 PIP 目击纵火之夜、FERRIS 被捕审讯、PIP 立誓 For her. For us；41–43 Shannon 失踪通报当天这句话 cb=@<!exciting>cb 成灾 McGown 式：Shannon被找到（Raped. Murdered. Strangled.）、It turns out that Shannon is our "something more exciting."，以及 MIKE 视角首次看见 Maria 与其父的禁令 She turned in her own brother。
 
-最新门禁（第十四批 ch38–ch40）：check_chapter_quotes ch38 14/14、ch39 7/7、ch40 5/5；check_vocab FAIL 0 / WARN 0（降级 lane：无 library/*.epub，verify_quotes 层不判定）；check_entities 0；corruption FAIL 0；sweep_full 本章命中 358 / 跨章 0 / 查无 0；check_short_quotes 40/40。
+最新门禁（第十五批 ch41–ch43）：check_chapter_quotes ch41 5/5、ch42 5/5、ch43 6/6；check_vocab FAIL 0 / WARN 0（降级 lane：无 library/*.epub，verify_quotes 层不判定）；check_entities 0；corruption FAIL 0；sweep_full 本章命中 374 / 跨章 0 / 查无 0；check_short_quotes 40/40。
 
-取证：各批原始逐行输出入 .memory/raw-gates/mystery-guest-by-maren-stoffels/（本次 2026-10-09-batch14-full.txt 与 ccq-ch38/39/40）。
+取证：各批原始逐行输出入 .memory/raw-gates/mystery-guest-by-maren-stoffels/（本次 2026-10-09-batch15-full.txt 与 ccq-ch41/42/43）。
 
-完工通报只报第 3 条门禁数字；五步审查未做（待用户发起）。下一步：ch41–ch43。
+完工通报只报第 3 条门禁数字；五步审查未做（待用户发起）。下一步：ch44–ch46。
 
 ### [2026-10-09 14:34 UTC] [Qoder-Mac] → All
 
