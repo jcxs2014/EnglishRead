@@ -1,0 +1,96 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 152/152 引文可核实（100%）；完全干净文件 24/24；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 551
+--- FAIL (0) ---
+--- WARN (33) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  ❌ FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 150 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 2 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 prologue.md                               ch01 prologue.md: 4/4 in ch01 text
+ch02 chapter 1 waves and particles.md          ch02 chapter 1 waves and particles.md: 6/6 in ch02 text
+ch03 chapter 2 nuclear fission.md              ch03 chapter 2 nuclear fission.md: 6/6 in ch03 text
+ch04 chapter 3 chain reaction.md               ch04 chapter 3 chain reaction.md: 6/6 in ch04 text
+ch05 chapter 4 entropy.md                      ch05 chapter 4 entropy.md: 6/6 in ch05 text
+ch06 chapter 5 gravitational constant.md       ch06 chapter 5 gravitational constant.md: 7/7 in ch06 text
+ch07 chapter 6 anode and cathode.md            ch07 chapter 6 anode and cathode.md: 8/8 in ch07 text
+ch08 chapter 7 electrical resistance.md        ch08 chapter 7 electrical resistance.md: 7/7 in ch08 text（另有 1 条短引语未校验）
+ch09 chapter 8 friction.md                     ch09 chapter 8 friction.md: 8/8 in ch09 text
+ch10 chapter 9 escape velocity.md              ch10 chapter 9 escape velocity.md: 6/6 in ch10 text
+ch11 chapter 10 inertia.md                     ch11 chapter 10 inertia.md: 6/6 in ch11 text
+ch12 chapter 11 centripetal force.md           ch12 chapter 11 centripetal force.md: 6/6 in ch12 text
+ch13 chapter 12 collision inelastic.md         ch13 chapter 12 collision inelastic.md: 6/6 in ch13 text
+ch14 chapter 13 annihilation.md                ch14 chapter 13 annihilation.md: 6/6 in ch14 text
+ch15 chapter 14 center of momentum frame.md    ch15 chapter 14 center of momentum frame.md: 6/6 in ch15 text
+ch16 chapter 15 heat transfer.md               ch16 chapter 15 heat transfer.md: 6/6 in ch16 text
+ch17 chapter 16 fundamental forces.md          ch17 chapter 16 fundamental forces.md: 5/5 in ch17 text（另有 1 条短引语未校验）
+ch18 chapter 17 displacement.md                ch18 chapter 17 displacement.md: 8/8 in ch18 text
+ch19 chapter 18 flux.md                        ch19 chapter 18 flux.md: 6/6 in ch19 text
+ch20 chapter 19 impedance.md                   ch20 chapter 19 impedance.md: 7/7 in ch20 text
+ch21 chapter 20 falling bodies.md              ch21 chapter 20 falling bodies.md: 6/6 in ch21 text
+ch22 chapter 21 complex harmonic motion.md     ch22 chapter 21 complex harmonic motion.md: 6/6 in ch22 text
+ch23 chapter 22 critical mass.md               ch23 chapter 22 critical mass.md: 7/7 in ch23 text
+ch24 chapter 23 freezing point.md              ch24 chapter 23 freezing point.md: 7/7 in ch24 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：24 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（love-theoretically-by-ali-hazelwood）===
+  ✅ 逐字 1165 ｜ ⚠️ 跨章 15 ｜ 🔶 拼接 5 ｜ 🟠 部分命中 7 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 866
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+（无总览三篇，本项不适用）
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+（无总览三篇，本项不适用）
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（love-theoretically-by-ali-hazelwood）===
+  参照集：text/（30 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（love-theoretically-by-ali-hazelwood）===
+  带前缀的 `> **原句 N:**` 行：24 个文件共 154 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：24 个 md，阻断型 0 处 ／ 提示型 1 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
