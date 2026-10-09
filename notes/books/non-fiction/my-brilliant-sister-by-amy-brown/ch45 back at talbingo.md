@@ -93,11 +93,6 @@ modified: "2026-10-09"
 | becoming | 成为 | How close were you to becoming a farmer’s wife? |
 | houndish | 像猎犬似的（hound + -ish） | You houndish hare, every bit as much a liar as I’ve been. |
 
-### ⭐ 基础
-
-| 词/短语 | 释义 | 原文例句 |
-|---|---|---|
-
 ## 一句话总结
 
 在 Stella 去美国后，Linda 退回 Grannie 家的床上，一边羡慕姐姐"能确保命运的意志"，一边用 Edwin 的婚事揭穿她也是会说谎的人——最后断定 Stella 连自己都分不清真假。

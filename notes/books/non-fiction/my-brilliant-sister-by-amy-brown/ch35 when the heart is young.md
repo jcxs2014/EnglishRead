@@ -54,13 +54,13 @@ modified: "2026-10-09"
 
 **读者视角提示：** "没有怨恨"是 Linda 此刻的真实状态，但也是她停止思考的代价。注意"不需要反思"这个短语，它和 Stella 的"搅动水底"形成对照。
 
-> **原句 5:** "What if this perfect satisfaction, of feeding a beloved, is the same sensation you had on publishing?"
+> **原句 5:** "You may shake your head at these admissions, say I’m full of the chemical that keeps Australian women shackled to such drudgery, but what if this perfect satisfaction, of feeding a beloved, is the same sensation you had on publishing?"
 
-**中文理解：** Linda 问 Stella：如果这种喂养挚爱之人的完美满足感，和你出版作品时的感觉是同一回事呢？
+**中文理解：** Linda 对 Stella 说：你尽可以对这些坦白摇头，说我也被那种让澳大利亚女性困在苦役里的化学物质填满了——但如果喂养挚爱之人的这种完美满足感，和你出版作品时的感觉是同一回事呢？
 
-**关键词：** this perfect satisfaction · of feeding a beloved · the same sensation you had on publishing
+**关键词：** the chemical that keeps Australian women shackled to such drudgery · this perfect satisfaction · the same sensation you had on publishing
 
-**为什么这样写：** 这是 Linda 对 Stella 最温柔的一次反击：她把喂养婴儿与出版作品放在同一个天平上，质疑 Stella 的成就是否也只是某种"激素释放"的满足。作者让 Linda 提出一个几乎亵渎的问题——把母亲的喂养与作家的成就在生理层面等同起来。这个问题既是在抬高自己的价值，也是在拆解 Stella 的神圣性。
+**为什么这样写：** 这是 Linda 对 Stella 最温柔也最尖锐的一次反击。她先替 Stella 说出贬低自己的话（"困在苦役里的化学物质"），然后用一个"如果"把喂养婴儿与出版作品放在同一个天平上——质疑姐姐的成就是否也只是某种激素释放的满足。作者让 Linda 提出一个几乎亵渎的问题：把母亲的喂养与作家的成就在生理层面等同起来。这个问题既是在抬高自己的价值，也是在拆解 Stella 的神圣性。
 
 **读者视角提示：** 这个问题是 Linda 的尊严宣言：她的生活不是失败的写作，而是一种不同的满足。注意 Stella（在 Part Three）是否会正面回答这个问题。
 

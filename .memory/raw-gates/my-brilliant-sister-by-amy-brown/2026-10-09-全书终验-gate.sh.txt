@@ -1,0 +1,150 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 447/447 引文可核实（100%）；完全干净文件 73/73；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 1546
+--- FAIL (0) ---
+--- WARN (93) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  ❌ FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 427 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 5 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 to swim.md                                ch01 to swim.md: 6/6 in ch01 text
+ch02 to burn.md                                ch02 to burn.md: 6/6 in ch02 text
+ch03 to mother.md                              ch03 to mother.md: 6/6 in ch03 text
+ch04 to marry.md                               ch04 to marry.md: 6/6 in ch04 text
+ch05 to work.md                                ch05 to work.md: 6/6 in ch05 text
+ch06 to meddle.md                              ch06 to meddle.md: 5/5 in ch06 text（另有 1 条短引语未校验）
+ch07 to play.md                                ch07 to play.md: 4/4 in ch07 text（另有 1 条短引语未校验）
+ch08 to lie.md                                 ch08 to lie.md: 5/5 in ch08 text（另有 1 条短引语未校验）
+ch09 to comfort.md                             ch09 to comfort.md: 6/6 in ch09 text
+ch10 to conform.md                             ch10 to conform.md: 6/6 in ch10 text
+ch11 to buy.md                                 ch11 to buy.md: 6/6 in ch11 text
+ch12 to walk.md                                ch12 to walk.md: 6/6 in ch12 text
+ch13 to drive.md                               ch13 to drive.md: 6/6 in ch13 text
+ch14 to ride.md                                ch14 to ride.md: 6/6 in ch14 text
+ch15 to perform.md                             ch15 to perform.md: 6/6 in ch15 text
+ch16 to balance.md                             ch16 to balance.md: 6/6 in ch16 text
+ch17 to plant.md                               ch17 to plant.md: 6/6 in ch17 text
+ch18 to learn.md                               ch18 to learn.md: 6/6 in ch18 text
+ch19 to sustain.md                             ch19 to sustain.md: 6/6 in ch19 text
+ch20 to absorb.md                              ch20 to absorb.md: 6/6 in ch20 text
+ch21 to sister.md                              ch21 to sister.md: 6/6 in ch21 text
+ch22 i remember i remember.md                  ch22 i remember i remember.md: 6/6 in ch22 text
+ch23 a lifeless life.md                        ch23 a lifeless life.md: 6/6 in ch23 text
+ch24 your career.md                            ch24 your career.md: 6/6 in ch24 text
+ch25 disjointed sketches.md                    ch25 disjointed sketches.md: 6/6 in ch25 text
+ch26 revolt.md                                 ch26 revolt.md: 6/6 in ch26 text
+ch27 a rose without its thorns.md              ch27 a rose without its thorns.md: 6/6 in ch27 text
+ch28 stillwater left behind.md                 ch28 stillwater left behind.md: 6/6 in ch28 text
+ch29 mother's recipe.md                        ch29 mother's recipe.md: 6/6 in ch29 text
+ch30 charlie graham.md                         ch30 charlie graham.md: 6/6 in ch30 text
+ch31 yah.md                                    ch31 yah.md: 6/6 in ch31 text
+ch32 grand passions.md                         ch32 grand passions.md: 6/6 in ch32 text
+ch33 he.md                                     ch33 he.md: 6/6 in ch33 text
+ch34 letter.md                                 ch34 letter.md: 6/6 in ch34 text
+ch35 when the heart is young.md                ch35 when the heart is young.md: 6/6 in ch35 text
+ch36 sermons.md                                ch36 sermons.md: 6/6 in ch36 text
+ch37 my ladylike behaviour again.md            ch37 my ladylike behaviour again.md: 6/6 in ch37 text
+ch38 when fortune smiles.md                    ch38 when fortune smiles.md: 6/6 in ch38 text
+ch39 burning love and cold respect.md          ch39 burning love and cold respect.md: 6/6 in ch39 text
+ch40 what a day may bring forth.md             ch40 what a day may bring forth.md: 6/6 in ch40 text
+ch41 boast not thyself of tomorrow.md          ch41 boast not thyself of tomorrow.md: 6/6 in ch41 text
+ch42 my journey.md                             ch42 my journey.md: 6/6 in ch42 text
+ch43 to life.md                                ch43 to life.md: 6/6 in ch43 text
+ch44 a bust-up.md                              ch44 a bust-up.md: 6/6 in ch44 text
+ch45 back at talbingo.md                       ch45 back at talbingo.md: 6/6 in ch45 text
+ch46 absent friends are soon forgot.md         ch46 absent friends are soon forgot.md: 6/6 in ch46 text
+ch47 once upon a time when the days were long and hot.md ch47 once upon a time when the days were long and hot.md: 6/6 in ch47 text
+ch48 he that despiseth little things shall fail little by little.md ch48 he that despiseth little things shall fail little by little.md: 6/6 in ch48 text
+ch49 idylls of youth.md                        ch49 idylls of youth.md: 6/6 in ch49 text
+ch50 a tale that is told and a day that is done.md ch50 a tale that is told and a day that is done.md: 6/6 in ch50 text
+ch51 to swim.md                                ch51 to swim.md: 6/6 in ch51 text
+ch52 to burn.md                                ch52 to burn.md: 6/6 in ch52 text
+ch53 to mother.md                              ch53 to mother.md: 6/6 in ch53 text
+ch54 to marry.md                               ch54 to marry.md: 6/6 in ch54 text
+ch55 to work.md                                ch55 to work.md: 6/6 in ch55 text
+ch56 to meddle.md                              ch56 to meddle.md: 6/6 in ch56 text
+ch57 to play.md                                ch57 to play.md: 6/6 in ch57 text
+ch58 to lie.md                                 ch58 to lie.md: 6/6 in ch58 text
+ch59 to comfort.md                             ch59 to comfort.md: 6/6 in ch59 text
+ch60 to conform.md                             ch60 to conform.md: 6/6 in ch60 text
+ch61 to buy.md                                 ch61 to buy.md: 6/6 in ch61 text
+ch62 to walk.md                                ch62 to walk.md: 6/6 in ch62 text
+ch63 to drive.md                               ch63 to drive.md: 6/6 in ch63 text
+ch64 to ride.md                                ch64 to ride.md: 5/5 in ch64 text（另有 1 条短引语未校验）
+ch65 to perform.md                             ch65 to perform.md: 6/6 in ch65 text
+ch66 to balance.md                             ch66 to balance.md: 6/6 in ch66 text
+ch67 to plant.md                               ch67 to plant.md: 6/6 in ch67 text
+ch68 to doubt.md                               ch68 to doubt.md: 6/6 in ch68 text
+ch69 to learn.md                               ch69 to learn.md: 6/6 in ch69 text
+ch70 to sustain.md                             ch70 to sustain.md: 6/6 in ch70 text
+ch71 to absorb.md                              ch71 to absorb.md: 6/6 in ch71 text
+ch72 to sister.md                              ch72 to sister.md: 6/6 in ch72 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：72 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（my-brilliant-sister-by-amy-brown）===
+  ✅ 逐字 2886 ｜ ⚠️ 跨章 8 ｜ 🔶 拼接 8 ｜ 🟠 部分命中 21 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1464
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 2 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 1 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 松散关键词明细 ──
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 22/22 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 47/47 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（my-brilliant-sister-by-amy-brown）===
+  参照集：text/（72 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（my-brilliant-sister-by-amy-brown）===
+  带前缀的 `> **原句 N:**` 行：72 个文件共 431 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：72 个 md，阻断型 0 处 ／ 提示型 1 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
