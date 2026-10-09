@@ -11,7 +11,7 @@ POV: "Dean Konig（第三人称限知，加州 Mojave 沙漠 CCC 工作间内 Bi
 - **时空坐标**：Mojave 沙漠里 CCC 的工作间（studio），Binky 那间珊瑚色、几乎空着的病房，大窗同时朝东与朝西；一次探视从 Dean 抱着兔子进来开始，到 Bryan 起身离开、留下一堆兔粪为止
 - **叙事视角**：第三人称限知，紧贴 Dean Konig；中段有两段第一人称口述（他对昏迷的 Binky 讲的噩梦与回忆），仍装在 Dean 的声音里，不是新的叙述者
 - **核心事件**：Dean 照料怀孕七个月、自愿昏迷的驻留艺术家 Binky Stratford，把这只病床当成可以说话的对象；研究生 Bryan Sienna 拿着 Liza 给的钥匙进来，追问 Kelly 的传闻与 Voortelle 是否资助 CCC，Dean 用一个"身体不得不吃掉自己"的比喻回他
-- **关键人物**：Dean Konig、Binky Stratford（三十九岁，孕七月，申请上写她想在沉睡里经历怀孕）、Una（CCC 的巨型 Flemish 治疗兔）、Bryan Sienna（论文写艺术与协作的研究生）、Kelly（离开数月，只以传闻出现）、Vesta 与 Lars（在 Dean 的回忆里）、Vivienne Volker 与 Velour（外祖母与母亲，本章给出签字人）
+- **关键人物**：Dean Konig、Binky Stratford（三十九岁，孕七月，申请上写她想在沉睡里经历怀孕）、Una（CCC 的巨型 Flemish 治疗兔）、Bryan Sienna（论文写艺术与协作的研究生）、Kelly（已经离开 Collective，本节只以传闻与旁人的转述出现）、Vesta 与 Lars（在 Dean 的回忆里）、Vivienne Volker 与 Velour（外祖母与母亲，本章给出签字人）
 - **章节主题**：照料一具不会回应的身体，与一个非要从外面确认"谁在主持这一切"的人被关进同一间房——本节里谁都能说话，只有被照料的那个人始终不开口
 - **上章回顾**：上一节（East 线 ch04）末尾，Radko 查完屋顶、说定本周再来；Velour 站在门廊上说了句"他走了"，说不清是对谁说的，却感到四周有一种在场
 
