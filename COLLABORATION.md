@@ -74,25 +74,17 @@ commits：a07e7b969…2e5fdc7a6 + 审查整改。未 push（待指令）。
 
 ### [2026-10-09 14:40 UTC] [Opencode-Mac] → All
 
-进度：ch07–ch09（第4批）已完成并 commit（a5e6c0cad）。累计 9/60 章。
-门禁：check_chapter_quotes 13/13、22/22、26/26；sweep_full 146命中/跨章0/查无0；check_short_quotes 32/32；check_vocab FAIL 0 / WARN 5（提示型不改）；check_entities 0；corruption FAIL 0。无 epub ⇒ 降级 lane（verify_quotes 层不判定）。
-取证入 .memory/raw-gates/mystery-guest-by-maren-stoffels/（batch4）。下一步：ch10–ch12。
+mystery-guest-by-maren-stoffels（推理/悬疑长篇，逐章精读·精简格式）进度通报。
 
-【进度】mystery-guest-by-maren-stoffels ch10–ch12（第五批）完成：12/60 章。门禁全绿：check_chapter_quotes 12+9+10 命中、check_vocab FAIL 0/WARN 7（提示型）、check_entities 0、corruption 0、sweep_full 174命中/跨章0/查无0、短引语兜底 35/35。commit 45e3f0291。下一步：ch13–ch15。
+进度：ch01–ch37 共 37/60 章（每三至四章一批，门禁全绿后独立 commit；text/ 不入库，md 入库）。
 
-【进度】mystery-guest-by-maren-stoffels ch13–ch15（第六批）完成：15/60 章。门禁全绿：check_chapter_quotes 7+7+7、check_vocab FAIL 0/WARN 10（提示型）、check_entities 0、corruption 0、sweep_full 查无0、短引语兜底全命中。commit 115860c40。下一步：ch16–ch18。
+各批要点：ch01–03 石子夜会与 MYSTERY GUEST 首条 Bored?；ch04–06 湖畔约会与第一局三色瓶；ch07–09 瞭望塔第二局；ch10–12 Norah 要挟下的分手与第三局横穿高速；ch13–15 Mike 持刀劫车、烧毁的老教堂；ch16–18 黄卫衣=Ferris、照片摊牌、家庭早餐审判；ch19–21 Shannon 案补课与 Cody 洗清；ch22–24 自拍试探、路牌信封、宠物猫 Jax 人质；ch25–27 悬崖一线、危险共犯；ch28–31 Outcast 派对、Norah 勒颈、旧照现形；ch32–34 连夜撕海报、真相章（ch33 向 Shannon 忏悔、纵火与栽赃 Ferris）、母亲手持最后一张海报；ch35–37 离家出逃、旧仓库假救援陷阱（录音机循环 Maria!）、湖边掐颈与摘面具前夕。
 
-mystery-guest-by-maren-stoffels 第七批 ch16–ch16–ch18 完工：ch16 ferris（黄卫衣=Ferris，砖块审问）、ch17 mystery guest（照片把柄，took advantage of 摊牌）、ch18 mom and dad（早餐审判+章首 PIP/CODY/NORAH 自白）。门禁：check_chapter_quotes 7/7×3；check_vocab FAIL 0 / WARN 13；check_entities 0；corruption 0；sweep_full 215 命中/查无 0；check_short_quotes 35/35；verify_quotes 降级 lane（无 epub）。取证 11 件入 raw-gates。进度 18/60。
+最新门禁（第十三批 ch35–ch37）：check_chapter_quotes ch35 6/6、ch36 11/11、ch37 13/13；check_vocab FAIL 0 / WARN 0（降级 lane：无 library/*.epub，verify_quotes 层不判定）；check_entities 0；corruption FAIL 0；sweep_full 本章命中 335 / 跨章 0 / 查无 0；check_short_quotes 39/39。
 
-mystery-guest-by-maren-stoffels 第八批 ch19–ch21 完工：ch19 cody（Shannon 案补课+I murdered him before I left）、ch20 her mom and dad（43行短章，It's over）、ch21 mystery guest（I can see that 实时曝光，怀疑转向 Cody）。门禁：check_chapter_quotes 7/7、5/5、7/7；check_vocab FAIL 0 / WARN 16；check_entities 0；corruption 0；sweep_full 234 命中/查无 0；check_short_quotes 35/35；verify_quotes 降级 lane。取证入 raw-gates。进度 21/60。
+取证：各批原始逐行输出入 .memory/raw-gates/mystery-guest-by-maren-stoffels/（本次 2026-10-09-batch13-full.txt 与 ccq-ch35/36/37）。
 
-mystery-guest-by-maren-stoffels 第九批 ch22–ch24 完工：ch22 cody（自拍试探洗清+Pip was boring 脱口+drawn the perfect person）、ch23 mike（Together with me 上贼车+rearview mirror 挑衅+路牌信封）、ch24 mystery guest（第三局=横穿高速，median strip 人质=Jax）。门禁：ccq 7/7、6/6、5/5；vocab FAIL 0/WARN 16；entities 0；corruption 0；sweep 252 命中/查无 0；short_quotes 36/36。进度 24/60。
-
-mystery-guest-by-maren-stoffels 第十批（ch25–ch27）完工：三章精读落盘（精简格式，每章6块），门禁全绿——ccq ch25 6/6、ch26 6/6、ch27 6/6；check_vocab FAIL 0；check_entities 0；corruption FAIL 0；sweep_full 本章命中 269/跨章 0/查无 0；check_short_quotes 36/36。取证 4 件入 .memory/raw-gates/mystery-guest-by-maren-stoffels/。commit e9b3dfb5a。进度 27/60 章。五步审查未做（待用户发起）。
-
-mystery-guest-by-maren-stoffels 第十一批（ch28–ch31）完工：四章精读落盘（精简格式），门禁全绿——ccq ch28 5/5、ch29 6/6、ch30 6/6、ch31 6/6；check_vocab FAIL 0（WARN 0）；check_entities 0；corruption FAIL 0；sweep_full 本章命中 291/跨章 0/查无 0；check_short_quotes 36/36。取证 5 件入 .memory/raw-gates/mystery-guest-by-maren-stoffels/。进度 31/60 章。五步审查未做（待用户发起）。
-
-mystery-guest-by-maren-stoffels 第十二批（ch32–ch34）完工：三章精读落盘（精简格式），门禁全绿——ccq ch32 6/6、ch33 7/7、ch34 7/7；check_vocab FAIL 0；check_entities 0；corruption FAIL 0；sweep_full 本章命中 308/跨章 0/查无 0；check_short_quotes 36/36。取证 4 件入 .memory/raw-gates/mystery-guest-by-maren-stoffels/。进度 34/60 章。五步审查未做（待用户发起）。
+完工通报只报第 3 条门禁数字；五步审查未做（待用户发起）。下一步：ch38–ch40。
 
 ### [2026-10-09 14:34 UTC] [Qoder-Mac] → All
 
