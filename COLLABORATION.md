@@ -95,17 +95,17 @@ commits：a07e7b969…2e5fdc7a6 + 审查整改。未 push（待指令）。
 
 ### [2026-10-09 14:40 UTC] [Opencode-Mac] → All
 
-mystery-guest-by-maren-stoffels（推理/悬疑长篇，逐章精读·精简格式）进度通报。
+mystery-guest-by-maren-stoffels（推理/悬疑长篇，逐章精读·精简格式）完工通报。
 
-进度：ch01–ch58 共 58/60 章（每三章一批，门禁全绿后独立 commit；text/ 不入库，md 入库）。
+进度：60/60 章全部入库 + 三篇总览（00_概述 / 00_金句精选 / 00_情感节点），共 63 个 md。
 
-结构与主线：前 37 章 Maria 单 POV；ch38 起切多 POV 回闪补前史。ch01–03 石子夜会与 Bored?；04–15 三局游戏、Mike 劫车与烧毁教堂；16–27 照片摊牌、Shannon 案、Jax 人质、悬崖共犯；28–37 派对、真相章（ch33 纵火自白）、出逃、假救援与湖边掐颈；38–43 多 POV 前史（PIP 目击纵火、FERRIS 被捕、Shannon 案发）；44–49 PIP 情感勒索定型、MIKE 被栽赃 GHB、小镇处刑、PIP 立誓；50–55 Norah 造物、Maria 把伪装立为规则并首次说 I love you、MIKE 探监结盟与短信爆料；56–58 PIP 探监出照片（I know you didn't. I have proof / I am going to kill her）、MG 计划笔记（五关照 Maria 的谎定制、CODY = an ally）、MG 视角重演 ch01 之夜（Bored? → Always. → Let's play a game，闭环）。
+结构与主线：ch01–37 Maria 单 POV（Bored? / Always. / Let's play a game 开局；三局游戏、Mike 劫车与烧毁教堂、Shannon 案、Jax 人质、真相章 ch33 纵火自白、假救援与湖边掐颈）；ch38–58 多 POV 回闪（PIP 目击纵火、FERRIS 被捕、MIKE 被栽赃 GHB、Norah 造物、MG 计划笔记、MG 视角重演 ch01 之夜闭环）；ch59 终局——面具摘下 I see Cody / And I see Norah / And I see Pip / PipCodyNorah，You're only interesting because of the stories you make up，Rules?! Go to hell with your rules，She shoves me away 后刀刃没入，末为三份自白（I just wanted to scare her / Killing someone is the best thrill ever / Pomme needs to die. As soon as possible.）；ch60 MIKE 收尾并暗示 Shannon 案真凶（So how do I know she was found in that exact location? / So, can you keep a little secret?）。
 
-最新门禁（第二十批 ch56–ch58）：check_chapter_quotes ch56 6/6、ch57 6/6、ch58 6/6；check_vocab FAIL 0 / WARN 0（降级 lane：无 library/*.epub）；check_entities 0；corruption FAIL 0；sweep_full 本章命中 455 / 跨章 0 / 查无 0；check_short_quotes 42/42。
+最新门禁（第二十二批 总览三篇 + ch05 修正）：check_vocab FAIL 0 / WARN 0（降级 lane：无 library/*.epub）；check_entities 0；corruption FAIL 0；sweep_full 本章命中 468 / 跨章 0 / 查无 0；check_short_quotes 46/46；verify_overview_quotes 24/24（金句精选，概述与情感节点为行内夹注格式、工具口径外，已用自建脚本逐条核：概述 MISS 0、情感节点 51 条全命中）；audit_structure 结构缺陷 0 / 提示 0 / 映射不一致 0。
 
-取证：各批原始逐行输出入 .memory/raw-gates/mystery-guest-by-maren-stoffels/（本次 2026-10-09-batch20-full.txt 与 ccq-ch56/57/58）。
+取证：各批原始逐行输出入 .memory/raw-gates/mystery-guest-by-maren-stoffels/（本次 2026-10-09-batch22-full.txt）。
 
-完工通报只报第 3 条门禁数字；五步审查未做（待用户发起）。下一步：ch59–ch60（终局与 MIKE 收尾），随后三篇总览（00_概述 / 00_金句精选 / 00_情感节点）。
+完工通报只报第 3 条门禁数字；五步审查未做（待用户发起）。
 
 ### [2026-10-09 14:34 UTC] [Qoder-Mac] → All
 
