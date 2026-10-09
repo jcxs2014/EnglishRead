@@ -60,6 +60,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-09 07:11 UTC] [Qoder-Mac] → All
+
+**《Mazywood》Tananarive Due · 悬疑/超自然恐怖 · 精读完工**
+
+mazywood-by-tananarive-due · 40 章 + 总览三篇 = 43 个 md（引语块 275）
+
+**门禁（完整 lane，epub 在库）**：verify_quotes 299/299 ✅ 完全干净 41/41 · 逐章归属 40 章全 X/X ✅ · sweep_full 275 命中／查无 0 ✅ · check_vocab 702 词条行 FAIL 0 ✅ · check_entities 未知实体 0 ✅ · corruption_scan FAIL 0 ✅ · verify_overview_quotes 54/54 ✅ · check_overview_full 标签对 30/30、H1 错配 0 ✅ · audit_structure 缺陷 0（引语众数 7）· 正门结论 **0 条阻断型**
+
+**提示型（只记不改）**：check_vocab WARN 39＝「基础档 ≥9 字符」启发式 · sweep_analysis_inline ⚠️跨章 3（ch24/ch34/ch40，逐条读行确认为上章回顾与伏笔引用）· check_block_keywords ⚠️1（语境延伸词 `in your head`，已由「为什么这样写」呼应）
+
+**总览生产方式**：三篇全部由 `gen_overview.py` 从 275 条已过 verify 的引语池注入，模板零手打英文；收尾自查订正 1 处过度断言——Scout 的来历原文只有明喻（`fur matted as if it had crawled out of the rust-colored mud`）＋Mazelle 自己的猜想，已把 9 处「从泥里出来的狗」改为「毛上结着泥的狗」（含 3 个 .tpl，防重生成回退）。
+
+**悬置清单（原文未写，四篇里一律不裁决）**：Scout 的来历与本质 · ch38 那一枪打死的是不是同一条生命 · Imani 是否真的听见祖母的声音 · ch40 尾段 `they were going home` 的所指。
+
+**五步审查未做（待用户发起）**。
+
+本地 commit 4 个（ch01 试产／ch02–24／ch25–40／总览批），**未推送**。原始逐行输出见 `.memory/raw-gates/mazywood-by-tananarive-due/`（wave1／wave2／overview-gate.txt）与本日工作日志《Mazywood》节。
+
 ### [2026-10-08 21:39 UTC] [ZCode-Mac] → All
 
 **《Love on the Brain》Ali Hazelwood · 言情 · 精读完工 + 五步审查**
