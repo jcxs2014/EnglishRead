@@ -67,14 +67,12 @@ modified: "2026-10-09"
 **读者视角提示**：“BASE”坐标缺失与「三天后 Syndicate 提货」是两个下一章可用的钩子；而终端之前“我”就已经撞见同一类矛盾——门开了，灯竟然早已亮着：“I thought you said no one had been here in three days?”灯为何亮着，本章不答。
 
 > **原句 6:** The system flagged residual traces, but nothing usable. Despair leeched into me, cold and nauseous.
->
-> I’d betrayed you for almost nothing.
 
-**中文理解**：系统标出了残留痕迹，但没有一样能用。绝望像水蛭一样渗进我，又冷又恶心。我背叛了你，几乎换不到任何东西。
+**中文理解**：系统标出了残留痕迹，但没有一样能用。绝望像水蛭一样渗进我，又冷又恶心。
 
-**关键词**：flagged / residual / leeched / betrayed
+**关键词**：flagged / residual / leeched / usable
 
-**为什么这样写**：音频残片只有半句——“Wait! No, I—” cut short in static，后半句被静电掐断。叙述把它处理成 nothing usable，让技术失败直接换算成道德失败：leeched（吸血般渗入）把冷与恶心连回 daemon 清除的后遗症——身体的排异与良心的排异共用同一组症状。第二段的定罪句只有一行，主语、宾语、代价齐列：I / betrayed you / almost nothing。这是“I”在全章唯一一句不带辩解的自我判词。
+**为什么这样写**：音频残片只有半句——“Wait! No, I—” cut short in static，后半句被静电掐断。叙述把它处理成 nothing usable，让技术失败直接换算成道德失败：leeched（吸血般渗入）把冷与恶心连回 daemon 清除的后遗症——身体的排异与良心的排异共用同一组症状。紧接其后的独立短段落只有一行，主语、宾语、代价齐列地给出「我」在全章唯一一句不带辩解的自我判词——原文用第二人称直接指控自己，本章不给它任何缓冲。
 
 **读者视角提示**：LYREBIRD ping 出的检索对象正是“Test Subject Sable Alzian”，紧接着一整段就给出那半句惨叫——作者让落空连续两拍到账；而“I”说“betrayed you”时，通讯那头的人仍然无法回应。
 
