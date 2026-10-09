@@ -33,7 +33,7 @@ POV: "Dean Konig（第三人称限知为主；前半为集体会议的对话体�
 
 > **原句 2:** Chelseazday: the moon is Mother. Mother. Throughout the ages. So this second moon is like: Forget the Moon, Forget Mothers, Wombs, Life death how messy they r etc. Look over here. We are your mother. We Will Mother U.
 
-**中文理解**：月亮是母亲。母亲。贯穿各个时代。所以这第二颗月亮等于：忘掉月亮，忘掉母亲、子宫、生死，忘掉它们有多乱、等等。往这儿看。我们才是你们的母亲。我们会来 mother 你们。
+**中文理解**：月亮是母亲。母亲。贯穿各个时代。所以这第二颗月亮等于：忘掉月亮，忘掉母亲、子宫、生死，忘掉它们有多乱、等等。往这儿看。我们才是你们的母亲。我们会来做你们的母亲。
 
 **关键词**："the moon is Mother"、"Throughout the ages"、"messy"、"We Will Mother U"
 
@@ -61,9 +61,9 @@ POV: "Dean Konig（第三人称限知为主；前半为集体会议的对话体�
 
 **关键词**："That name is bleak"、"only Artist in Residence"、"final Artist in Residence"、"without total group consent"
 
-**为什么这样写**：这一段是"话术打磨"的现场演示：先否掉一个名字（"That name is bleak"），再换上程序化的名字，被改写的不是事实而是称呼——同一个人（Binky）在 ch05 里怀着七个月的身孕、孩子将被一对住欧洲的富裕夫妇 acquired，而本节例会讨论的是这个计划的名称是否够体面。only 与 final 被放在相邻两句里，等于用同一个词把人写成起点和终点；"She shouldn’t even be here" 与 "Kelly brought her in without total group consent" 把 consent 一词第一次落到具体事件上，而这个词在 ch01 的语境里是集体对自己隐形身份的规矩。收束三句（"A new era. Onward. Moon2 is our thing."）用公告体把整段辩解关掉，节奏上像敲一下收工。
+**为什么这样写**：这一段是"话术打磨"的现场演示：先否掉一个名字（"That name is bleak"），再换上程序化的名字，被改写的不是事实而是称呼——同一个人（Binky）在 ch05 里怀着七个月的身孕、孩子将被一对住欧洲的富裕夫妇 acquired，而本节例会讨论的是这个计划的名称是否够体面。only 与 final 被放在相邻两句里，等于用同一个词把人写成起点和终点；"She shouldn’t even be here" 与 "Kelly brought her in without total group consent" 把 consent 这个本书已有的词（ch05 写 Dean "had only given his consent" 时才极不情愿）落到一件具体的事上：一个人被带进院子里，没有经过全体同意。收束三句（"A new era. Onward. Moon2 is our thing."）用公告体把整段辩解关掉，节奏上像敲一下收工。
 
-**读者视角提示**：注意 Bobby 上一句还在给 Lars 定罪（"Some people see our Comatose Birther Program less like artful care and more like . . . manipulation and abduction"）——"artful care / manipulation and abduction" 这对替义词在本节里由集体自己说出，说明他们其实知道外部读法。
+**读者视角提示**：注意 Bobby 上一句刚把 Lars 归进"把我们看成操纵与诱拐"的那类人（"Some people see our Comatose Birther Program less like artful care and more like . . . manipulation and abduction. Lars is one of them, apparently."）——这对替义词由集体自己说出，说明他们清楚外部读法。
 
 ---
 
@@ -85,7 +85,7 @@ POV: "Dean Konig（第三人称限知为主；前半为集体会议的对话体�
 
 **关键词**："Back east"、"older than the West"、"originary"、"soothed"、"bloody violence"
 
-**为什么这样写**：本节让节题 West/East 被人物的脑子拿出来称重。三组排比把地理排序交给宇宙学（东／西、夜／昼、月／日），于是"月亮更古老"这条事实被用来给东部加分，而全书要造的那颗第二月亮正是插进这套古老秩序里的新物。"wasn’t really from anywhere" 一句把 Dean 的出身写成空白，紧接着说这组方位词 soothed him——安慰他的不是归属而是修辞。末句以冒号收住：起源处是一种 "a trance-inducing, bloody violence"；这个"起源即暴力"在本节有具体的天文学对应，就是下一段那句 "Some say the moon was formed when a Mars-sized object slammed into Earth."（本句在第 5 块之后、非本块引语），而 Dean 说出这段宇宙论的当刻，他正在屏幕上看她的身体。
+**为什么这样写**：本节让节题 West/East 被人物的脑子拿出来称重。三组排比把地理排序交给宇宙学（东／西、夜／昼、月／日），于是"月亮更古老"这条事实被用来给东部加分，而全书要造的那颗第二月亮正是插进这套古老秩序里的新物。"wasn’t really from anywhere" 一句把 Dean 的出身写成空白，紧接着说这组方位词 soothed him——安慰他的不是归属而是修辞。末句以冒号收住：起源处是一种 "a trance-inducing, bloody violence"；这个"起源即暴力"在本节有具体的天文学对应，就是紧接下一段那句 "Some say the moon was formed when a Mars-sized object slammed into Earth."（该自然段在第 6 块引语之后，非本块引语），而 Dean 想这些的当刻，他正在屏幕上看她的身影移动。
 
 **读者视角提示**：他刚把"词语"的起源写成暴力，Vesta 下一句就宣布 "I don’t want to talk. I’ve been talking all day"——本节让这套宇宙论立刻被一句话取消。
 
@@ -97,7 +97,7 @@ POV: "Dean Konig（第三人称限知为主；前半为集体会议的对话体�
 
 **关键词**："There are no paintings"、"Yeah, and?"、"visual randomness"、"Free, Take Some"
 
-**为什么这样写**：报道以一句缺失开头上场，而本节读者刚从第 5 块知道画在哪儿——不在官方工作室，在街对面那间谁也不许看的秘密工作室。于是"没有画"对 Dean 是常识、对职业记者是一个需要被耸肩回应的事实，信息等级在这一句里被排好队。"Yeah, and?" 是 Vesta 在本节里的第一句直接引语，两句三个字，防御先于内容。"a kind of visual randomness"（山羊、破玩具、免费自取的牌子）与她稍后"要把一切清空"的说法相反，也就是说，她的乡间环境并不配合她的哲学；而 "Free, Take Some" 与 ch06 里 Velour 那句 "But I’d like to give it to you" 是同一种无回报的给予——母女各用一块牌子、一张长凳说同一件事。
+**为什么这样写**：报道以一句缺失开头上场，而本节读者刚从第 5 块知道画在哪儿——不在官方工作室，在街对面那间谁也不许看的秘密工作室。于是"没有画"对 Dean 是常识、对职业记者是一个需要被耸肩回应的事实，信息等级在这一句里被排好队。"Yeah, and?" 是 Vesta 在本节里的第一句直接引语，只有两个词，防御先于内容。"a kind of visual randomness"（山羊、破玩具、免费自取的牌子）与她稍后"要把一切清空"的说法相反，也就是说，她的乡间环境并不配合她的哲学；而 "Free, Take Some" 与 ch06 里 Velour 那句 "But I’d like to give it to you" 是同一种无回报的给予——母女各用一块牌子、一张长凳说同一件事。
 
 **读者视角提示**：这篇报道是 Dean 自己点开的（"He revisited the article whenever she felt out of reach."）——本节最"客观"的材料其实是他挑来读的东西。
 
@@ -150,7 +150,7 @@ POV: "Dean Konig（第三人称限知为主；前半为集体会议的对话体�
 | second moon | 第二颗月亮 | Femmebot776: ppl think these moons gonna free us but Lalalands is right, CCC is definitely a project backed by Government (Voortelle), big tech big gov ok like, what is the glitch here, where all these ppl thinking a second moon bringing liberation?? |
 | ancients | 古人 | The ancients linked the moon to the many moon goddesses, the alterations and changes of female bodies, how they swell and deflate with the tides and with age, as Chelseazday implies. |
 | arts collective | 艺术集体 | They were open back then about the arts collective being funded by Voortelle but that narrative has since been suppressed. |
-| beyond | 彼岸、 Beyond 之境 | It is the gateway to the beyond. |
+| beyond | 彼岸、人所说的"之外" | It is the gateway to the beyond. |
 | full moon | 满月 | We know some nocturnal animals struggle to hunt under the light of the full moon. |
 | main question | 核心的问题 | The main question here: is Lars Arden, or Lalalands, or whatever, an actual threat or just some assclown? |
 | satellite | 卫星 | Our satellite, after all, has (arguably) been here longer than us, than Earth. |
