@@ -30,35 +30,69 @@ Judith 在小镇 Main Street 购物，为邻居 Samantha 和 Hal 的结婚二十
 
 路人问候 Tom 的病情，Judith 只说 "He's doing just fine"；问起 Rosie，她说 "Rosie died three weeks ago"。旁人回应轻淡——"she was only a dog, after all"。这段揭示 Judith 在小镇生活中的**表演性身份**：公众话语要求轻巧得体，而她内心有更深的悲伤。
 
-> "She held all my secrets, never judging me or loving me less for them."
+> **原句 1:** "She held all my secrets, never judging me or loving me less for them."
 
-Rosie 是 Judith 唯一真正倾诉的对象，比 Tom 更甚。狗死后，她失去了这个安全出口，被迫把所有话咽回肚里。
+**中文理解**：Rosie 是 Judith 唯一真正倾诉的对象，比 Tom 更甚。狗死后，她失去了这个安全出口，被迫把所有话咽回肚里。
+
+**关键词：**
+- **held all my secrets**：保守我所有秘密——Rosie 是 Judith 的密友替代品
+
+**为什么这样写**：这句引出 Rosie 的死对 Judith 的打击——她失去了唯一能倾诉的对象。
+
+---
 
 ### 2. 玩具店橱窗：镜像异化（核心意象）
 
-这是全章最浓墨重彩的一段。橱窗本身 Mr. Katz's old toy store，橱窗布置"oddly formal"：dusty teddy bears、alphabet blocks、empty-eyed dolls——这些意象暗示**时间的凝滞、童真的空洞、凝视的缺失**。而 Judith 在这其中的倒影：
+> **原句 2:** "from the neck down, I'm a dark female shape reflected in the center of the window, with blue sky surrounding me and one wilted teddy bear caught in the bell of my skirt. Above it all, my face looms, bright and alive."
 
-> "from the neck down, I'm a dark female shape reflected in the center of the window, with blue sky surrounding me and one wilted teddy bear caught in the bell of my skirt. Above it all, my face looms, bright and alive."
+**中文理解**：从脖子往下，我是映在窗中央的一个暗色女性轮廓，蓝天环绕着我，一只见效的泰迪熊卡在我的裙摆里。这一切之上，我的脸庞明亮生动地浮现。
 
 **身体与面部分离**——下身是 dark female shape（暗色女性轮廓），上身（脸）bright and alive（明亮生动）。她用 Nikon 拍下这张composition——这一行为本身是**自我异化**的仪式：我把我的影像客体化，然后从外部审视它。
 
-Paul 的话（Judith 想象他会说"Incredible. The composition is striking."）是 Judith 内心对被认可的渴望，但随即自我否定：
+**关键词：**
+- **dark female shape**：暗色女性轮廓——去身体化
+- **bright and alive**：明亮生动——与下身的对比
 
-> "I don't even know if it will come out well. Or if I'll show Paul more pictures after all. He said he wanted to see them, but what if he was simply being polite? I believed him at the time, but now, with a little distance, I realize I may have been starstruck, naïve."
+**为什么这样写**：身体与面部分离的意象是全章核心——Judith 在自己生活中是旁观者。
 
-自我怀疑与自我渴望之间的拉扯。
+---
 
-### 3. 眩晕与身体回归
+### 3. 自我怀疑
 
-> "I feel dizzy and my vision blurs. When I step to the right, the spell breaks. The image alters, the composition dissolves; I return to my body, to myself, a bit shaken."
+> **原句 3:** "I don't even know if it will come out well. Or if I'll show Paul more pictures after all. He said he wanted to see them, but what if he was simply being polite? I believed him at the time, but now, with a little distance, I realize I may have been starstruck, naïve."
 
-"step to the right"打破了凝视的魔法——这是身体对解离的自我修复。"return to my body, to myself"暗示之前的状态是"不在自我中"。这是 Judith 心理状态的隐喻：**她在自己生活中是旁观者，而非主人**。
+**中文理解**：我甚至不知道这张照片能不能拍好。或者我到底要不要给 Paul 看更多照片。他说想看，但我现在想想，他也许只是客气？我当时信了，但现在离远点看，我意识到我可能是一时冲动、太天真了。
 
-### 4. 结尾确认
+**关键词：**
+- **starstruck, naïve**：追星心态、天真——Judith 对被认可的渴望与自我否定
 
-> "I am Judith Stanley."
+**为什么这样写**：自我怀疑与自我渴望之间的拉扯，揭示 Judith 的不安全感。
 
-这是全章最后一句，也是标题的落地。经历了镜像异化、自我怀疑后，她在 liquor store 里对自己说这句话——**这是自我锚定**。在 Lance 面前，在"Here I am"的问候中，她需要确认自己是谁。
+---
+
+### 4. 眩晕与身体回归
+
+> **原句 4:** "I feel dizzy and my vision blurs. When I step to the right, the spell breaks. The image alters, the composition dissolves; I return to my body, to myself, a bit shaken."
+
+**中文理解**："我感到眩晕，视线模糊。当我向右迈出一步，魔法打破。影像改变，构图消解；我回到我的身体，回到我自己，有点受惊。"
+
+**关键词：**
+- **return to my body, to myself**：回到身体、回到自我——解离的修复
+
+**为什么这样写**："step to the right"打破了凝视的魔法——这是身体对解离的自我修复。**她在自己生活中是旁观者，而非主人**。
+
+---
+
+### 5. 结尾确认
+
+> **原句 5:** "I am Judith Stanley."
+
+**中文理解**：我是 Judith Stanley。
+
+**关键词：**
+- **I am Judith Stanley**：自我锚定——经历镜像异化后的身份确认
+
+**为什么这样写**：全章最后一句，独立成句，全小写，无标点，像一声呼吸——这是自我锚定。
 
 ## 心理层次
 

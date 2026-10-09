@@ -65,6 +65,9 @@
 
 **句子结构**：这是 Paul's 的内心独白：他用"so long"来 Dismiss Farrah——像是在摆脱一个不重要的人。这是 Paul's 的自我保护机制：把拒绝他的人和事最小化。
 
+**关键词：**
+- **So long, Farrah from Minnesota**：再见了——Paul 对 Farrah 的 Dismiss；他用轻描淡写的告别来掩盖被忽视的愤怒
+
 **为什么这样写**：Paul 不能接受"Farrah 没有提到我"这个事实，所以他 Dismiss 她——"so long"。这是 Paul's 的模式：他不能处理批评或忽视，所以他把它们 Dismiss。
 
 ---

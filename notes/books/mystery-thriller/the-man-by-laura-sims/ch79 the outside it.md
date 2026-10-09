@@ -80,6 +80,18 @@ Judith Stanley 摄影展开幕式达到盛大的高潮，Paul 作为"发现者"�
 
 > **原句 3b：** Charlie stands across the circle from him, somehow. Has she just arrived? He notes her satiny, sleeveless blue dress and the two black circles around her eyes. The long, deep-looking scratch along her right cheek. Dark bruising around her bare neck like a choker and bruises evident along both her bare arms, too. Did he do all that? He didn't, no. He knows he didn't. She's wearing makeup, he thinks, she's putting on an act.
 
+**中文理解**：Charlie不知怎么地站在圈子对面。Paul注意到她的丝质无袖蓝色连衣裙、眼睛周围的两圈黑色、右脸颊上那道看起来很深的抓痕、裸露脖子上像项圈一样的淤青，以及双臂上明显的淤青。他做了这些吗？他没有，他没有。他知道自己没有。她在化妆，他在想，她在演戏。
+
+**关键词**：
+- **satiny, sleeveless blue dress**：丝质无袖蓝色连衣裙——Charlie的精心装扮
+- **two black circles around her eyes**：眼睛周围的两圈黑色——化妆效果，制造"被打"的外观
+- **like a choker**：像项圈——淤青位置暗示掐脖子
+- **putting on an act**：在演戏——Paul的心理防御机制
+
+**为什么这样写**：Charlie的"装扮"与"伤痕"并置是Sims的精妙设计——读者无法确定她是真实的受害者还是在演戏。同样，Paul的"她在化妆"的解读也是他的心理防御。Did he do all that?这个问题的出现本身就是裂缝——他的潜意识知道答案。
+
+---
+
 > **原句 4：** "Paul Sorenson did this to me," Charlie says, her clear voice ringing out. "He followed me home last night and attacked me in the parking garage. He's been stalking me for a while now, mostly through letters and stuff, but he didn't touch me until last night." She lifts her arms as if to display them and immediately, a flashbulb or two pops. Paul jerks his head to the right, sees journalists, photographers, pushing through the crowd.
 
 **中文理解**："Paul Sorenson 对我做了这个，"Charlie 说，她清晰的声音响彻全场。"昨晚他跟踪我回家，在停车场袭击了我。他已经跟踪我一段时间了，主要是写信之类的，但在昨晚之前他没有碰过我。"她抬起双臂像是要展示它们，立刻有一两个闪光灯亮起。Paul 把头向右一转，看到记者、摄影师们正从人群中挤过来。

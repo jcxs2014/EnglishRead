@@ -45,12 +45,6 @@
 
 **句子结构**：主句 "I notice how I've emphasized the shadowy corners..." 后接三个并列宾语 "the shadows beneath Janet's eyes, her wide-open, shadowy mouth—the shadows everywhere"，破折号引出总结性判断 "on this so-called joyous occasion"。"so-called" 是插入性修饰，暗示 Judith 并不认为这个派对真正欢乐。
 
-**关键词：**
-- **shadowy corners**：阴暗角落——Judith 镜头下的派对不是明亮的庆祝，而是充满隐藏的阴暗
-- **shadows beneath Janet's eyes**：Janet 眼下的阴影——暗示疲惫、纵欲或不安
-- **wide-open, shadowy mouth**：大张的、充满阴影的嘴——呼应 ch05 中对 Janet 在卧室里"被压制"场景的记忆
-- **so-called joyous occasion**：所谓的欢乐场合——讽刺语调，Judith 透过镜头看到的是表相下的腐烂
-
 **为什么这样写**：Judith 通过照片向 Paul 展示的其实是她自己看到的东西——阴影。Paul 的专业认可让 Judith 意识到：她拍的不是派对的欢乐，而是创伤的投射。"the so-called joyous occasion" 是 Judith 对"正常"社会交往的持续怀疑——她无法相信表面文章，总能看到（并拍下）裂缝。
 
 ---
@@ -62,13 +56,6 @@
 **中文理解**：卧室里也有阴影。那场丑陋的交合。我努力把注意力拉回 Paul 和他手里的照片。不是那些我没能拍到、不敢拍到的东西。而是我脑海中无法抹去的那些画面。如果那天晚上我成功把他们拍下来了，也许我就能继续前行、忘掉他们。但它们挥之不去，刻骨铭心而且异常鲜活。
 
 **句子结构**：短促的断句式书写。"Shadows in the bedroom, too. That ugly coupling." 两个独立名词短语，没有动词，是强烈的意象并置。接着 "I fight to bring my focus back..." 是主句。"Not the pictures I didn't, couldn't, take that night." 是否定对照。"The ones I can't erase from my mind." 自我纠正——真正挥之不去的是脑海中的画面。最后"If I'd managed... maybe I'd be able to..." 是虚拟语气，表达 Judith 的自我欺骗；"But they linger..." 则是残酷的现实。
-
-**关键词：**
-- **That ugly coupling**：那场丑陋的交合——ch05 中 Judith 无意中撞见的场景，"ugly"是强烈的道德判断
-- **I fight to bring my focus back**：我努力把注意力拉回——"fight"暗示这不是轻而易举的事
-- **couldn't**：不敢——情态动词的精确选择，Judith 不敢拍下那场性行为，可能是出于恐惧或道德
-- **If I'd managed to capture the man and woman on film, maybe I'd be able to move on**：虚拟语气——Judith 相信如果能"捕捉"那个场景就能"继续前行"，这是典型的控制幻觉
-- **indelible and grossly alive**：刻骨铭心而且异常鲜活——"indelible"原指墨迹不可消除，"grossly alive"是身体性的鲜活感
 
 **为什么这样写**：这段是 Judith 内心冲突的核心自白。她相信摄影是控制工具（Paul 的"艺术是刀片"理论），但她真正无法控制的是脑海中的影像——那些"没能拍到"的画面。她的创伤不是来自照片，而是来自记忆；她对摄影的执念是想通过重新拍摄来覆盖创伤记忆，但这一努力在本章宣告失败。
 
@@ -82,13 +69,6 @@
 
 **句子结构**："Man, Judith, these are fantastic" 是直接引语，Paul 的惊叹。"He says it quietly" 是转述，"but it startles me from my dark reverie" 形成转折——低声说的赞美却产生了惊醒效果。"His eyes are glued to the photograph..." 描述 Paul 的专注。最后 "I'm so pleased... that I start to babble" 是结果状语从句，解释 Judith 的反应过度。
 
-**关键词：**
-- **Man, Judith, these are fantastic**：Paul 的原话，感叹句式，非正式但真诚
-- **startles me from my dark reverie**：把我从黑暗的出神中惊醒——"dark reverie"呼应 Judith 的内心状态，"startle"暗示她本不在当下
-- **eyes are glued to**：眼睛被粘在……上——极度专注
-- **head thrown back, mouth gaping**：头向后仰，嘴大张着——呼应前文的 "wide-open, shadowy mouth"，Janet 在派对上的失态姿态
-- **babble**：喋喋不休——Judith 因被认可而失去冷静，变得话多
-
 **为什么这样写**：Paul 的认可对 Judith 而言是重要的——她渴望被看到、被确认。但"startle"这个词揭示了她的脆弱状态：她一直在"黑暗的出神"中，不是真正在场。babble 是她过度依赖外部认可的表现，也是她在亲密关系中（与 Tom、与 Paul）缺乏安全感的反映。
 
 ---
@@ -101,12 +81,6 @@
 
 **句子结构**："As Paul nears the self-portrait, the picture I most wanted to share, I start to panic." 主句带时间状语从句和同位语。"I wanted to see if he would notice..." 是过去的意图，"but now I'm overwhelmed by the opposite desire" 形成情绪反转。最后 "I reach out and grab all the photographs from his hands" 是肢体动作，与心理恐慌形成对应。
 
-**关键词：**
-- **the picture I most wanted to share**：我最想分享的照片——矛盾修饰：最想分享的反而是让她最恐惧的
-- **the small figure in the background**：背景里小小的身影——ch07 中发现的男性轮廓
-- **searching gaze**：审视的目光——"searching"暗示穿透、探查，呼应 Judith 对"被看穿"的恐惧
-- **overwhelmed by the opposite desire**：被相反的渴望淹没——渴望被认可 vs. 渴望躲藏
-
 **为什么这样写**：这是全章最关键的心理转折。Judith 来找 Paul 是为了分享，但当分享即将发生时，她退缩了。那个"小小的身影"是她的创伤符号——如果 Paul 看到了并追问，她将被迫重新面对那段记忆。她的"抢回照片"是防御性的肢体动作，与她之前渴望被认可形成尖锐冲突。
 
 ---
@@ -118,12 +92,6 @@
 **中文理解**：Paul 用手拢了拢他厚厚的、几乎及肩的头发——这是他在课上常做的动作——继续翻看照片。他称赞了 Hal 在 Samantha 亲吻时做鬼脸的那张，也在 Tom 的照片前停顿了一下。我停止了呼吸。
 
 **句子结构**："Paul runs his hand through his thick, nearly shoulder-length hair—something he does often during class—" 是插入语，描述 Paul 的习惯性动作。"and keeps flipping through the pictures" 是主句动作。"He praises... and pauses at the photograph of Tom, too." 是 Paul 的反应。"I stop breathing for a moment." 是 Judith 的身体反应——当别人看到 Tom 的照片时，她屏住了呼吸。
-
-**关键词：**
-- **runs his hand through his thick, nearly shoulder-length hair**：拢头发——Paul 的习惯性动作，增加人物细节
-- **flipping through the pictures**：翻看照片——"flip"有快速翻动的意思
-- **grimacing at Samantha's kiss**：在 Samantha 亲吻时做鬼脸——Hal 在派对上的反应
-- **I stop breathing for a moment**：我停止呼吸——Judith 的焦虑躯体化反应
 
 **为什么这样写**：Paul 看到 Tom 的照片时，Judith 停止了呼吸——她害怕 Paul 对 Tom 的评价。果然，Paul 随后说 Tom "looks like the guy who makes jokes at parties to please everyone"。Judith 虽然"nod along, smiling"，但内心知道这是对 Tom 的贬低，她用 Tom 的被贬低换来了 Paul 对自己作品的认可——这是 Judith 内在的冲突：她需要被认可，但这种认可是以牺牲她最亲密的人为代价的。
 
@@ -147,7 +115,22 @@
 
 ---
 
-### 精读块 8：内心的拒绝
+### 精读块 8：Tom 的贬值与认可的代价
+
+> **原句 3:** "This one—he looks like the guy who makes jokes at parties to please everyone." I cringe inwardly at the delight in Paul's eyes but nod along, smiling, having earned my ounce of approval at Tom's expense.
+
+**中文理解**："这张——他看起来像那种在派对上讲笑话来取悦所有人的人。"我在心里对 Paul 眼中的快乐感到不适，但仍然点头、微笑——以 Tom 的被贬低为代价换来了我的一点点认可。Judith 用 Tom 的形象换取了 Paul 的赞许，这是一个无声的交易。
+
+**关键词：**
+- **the guy who makes jokes at parties to please everyone**：在派对上讲笑话取悦所有人的人——Paul 对 Tom 的贬低性评价
+- **cringe inwardly**：在心里感到不适——Judith 知道这是不公平的，但选择接受
+- **earned my ounce of approval at Tom's expense**：以 Tom 的被贬低为代价换来了我的一点点认可——"ounce"暗示微小的收获
+
+**为什么这样写**：Paul 对 Tom 的评价与 Judith 之前在派对上偷拍 Tom 时写的"a man acting like a clown"形成呼应。Judith 内心知道 Paul 的评价是刻薄的（"cringe inwardly"），但她仍然"nod along, smiling"——为了获得认可，她默许了对 Tom 的贬低。这揭示了 Judith 在渴望被 Paul 认可与保护 Tom 之间选择了前者，而这种选择本身就是一种背叛。
+
+---
+
+### 精读块 9：内心的拒绝
 
 > Extraordinary, he said. Extraordinary. Even better than uncanny. The dim, ordinary lecture hall brightens in the glow of Paul's words. Even so, they can't sway me. I never want strangers' eyes on me again, searching me, prying me open. I don't want strangers' eyes on my photographs, either; to me it's the same. And I can't explain any of that to Paul.
 
@@ -155,19 +138,11 @@
 
 **句子结构**："Extraordinary, he said. Extraordinary. Even better than uncanny." 是内心独白，重复强化 Paul 的评价。"The dim, ordinary lecture hall brightens in the glow of Paul's words." 是环境描写，呼应情绪。"Even so, they can't sway me." 是转折——外部认可无法改变内心。"I never want strangers' eyes on me again, searching me, prying me open." 是核心宣言，三个平行动词（never want / searching / prying）强调拒绝的程度。"to me it's the same" 是关键判断：被看照片 = 被看穿。"And I can't explain any of that to Paul." 是隔离感——她无法向 Paul 袒露真实的自己。
 
-**关键词：**
-- **Even better than uncanny**：比"超自然"还好——Judith 用 Paul 在课堂上用过的词来衡量这个评价
-- **The dim, ordinary lecture hall brightens**：昏暗的教室明亮起来——环境描写映射内心，但"ordinary"暗示 Judith 意识到这一切其实很普通
-- **can't sway me**：无法动摇我——外部认可失效
-- **strangers' eyes on me again**：再一次被陌生人的眼睛盯着——"again"暗示过去曾有过被陌生人审视的经历，结合她的创伤背景
-- **searching me, prying me open**：审视我，把我撬开——两个动词都是侵入性的，"prying open"暗示打开封闭的东西
-- **to me it's the same**：对我来说那是一回事——Judith 将被看照片等同于被看穿
-
 **为什么这样写**：这是 Judith 心理的核心矛盾：她渴望被认可，但又恐惧被看穿。"I never want strangers' eyes on me again" 中的 "again" 将创伤背景与当下处境连接——被陌生人审视唤起了她被袭击时的无力感。她无法向 Paul 解释，因为解释需要袒露创伤，而袒露创伤意味着失去控制。"to me it's the same" 揭示了她对摄影的本质理解：照片是她自我的延伸，被审视照片就是被审视内心。
 
 ---
 
-### 精读块 9：结尾的轻快
+### 精读块 10：结尾的轻快
 
 > **原句 2:** Judith," Paul calls before the door swings shut behind me. "I hope you'll bring some new pictures next week."
 

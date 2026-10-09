@@ -27,9 +27,14 @@ Judith 为 Tom 做他最爱的晚餐（chicken piccata），却感到空虚。To
 
 Judith 精心准备 Tom 最爱的 chicken piccata，却将其价值判定为零：
 
-> "This is the best thing I made today—to be consumed and processed and eliminated quickly. A literal waste."
+> **原句 1:** "This is the best thing I made today—to be consumed and processed and eliminated quickly. A literal waste."
 
-食物在这里是 Judith 自我价值的隐喻：她所做的努力最终都是徒劳的、一次性的。她的"small bites"与 Tom 的大快朵颐形成对照——她在消耗这餐，却没有真正摄取。
+**中文理解**：这是 Judith 内心对自己所做的努力的否定性评价——她认为自己在"制作"的东西最终命运就是被消耗、被处理、被排泄，毫无价值。
+
+**关键词：**
+- **literal waste**：字面意义上的浪费——她说的不是食物，而是她自己的价值
+
+**为什么这样写**：食物在这里是 Judith 自我价值的隐喻：她所做的努力最终都是徒劳的、一次性的。她的"small bites"与 Tom 的大快朵颐形成对照——她在消耗这餐，却没有真正摄取。
 
 ### 2. 谎言与隐瞒
 
@@ -37,25 +42,44 @@ Tom 问"Where'd you go today?"并试图显得 casual；Judith 的内心独白揭
 
 > I tried to find the man who's been following me but couldn't even though I know he was somewhere nearby. He's the man who called yesterday and the man in my pictures who might have branded me years ago. Those scars on my thighs are not from an accident.
 
-这是本章的核心揭露：①跟踪者与电话、与照片中的人、与大腿伤疤是同一个人；②Judith 知道伤疤不是事故造成；③ Tom"haven't wanted to know"。这段心理活动证明 Tom 的追问并非简单的关心，而是有意识的监控——他要求报告，而 Judith 学会了给出一个不引发进一步追问的版本。
+**中文理解**：Judith 内心真正想说的是——她试图追踪那个跟踪者，但未能成功。她知道那个人就是昨天打电话的人、就是照片里出现过的人、就是多年前可能在她大腿上留下伤疤的人。那些伤疤不是意外造成的。
+
+**关键词：**
+- **the man who called yesterday**：昨天的电话——连接跟踪者与电话的关键证据
+- **branded me**：在我身上留下烙印——她用"branded"而非"hurt"，暗示这不仅是身体伤害，更是身份标记
+- **not from an accident**：不是意外——她清醒地知道伤疤的来源
+
+**为什么这样写**：这是本章的核心揭露：①跟踪者与电话、与照片中的人、与大腿伤疤是同一个人；②Judith 知道伤疤不是事故造成；③ Tom"haven't wanted to know"。这段心理活动证明 Tom 的追问并非简单的关心，而是有意识的监控——他要求报告，而 Judith 学会了给出一个不引发进一步追问的版本。
 
 ### 3. 照片的虚伪赞美
 
 Tom 看 contact sheets 后说"just as good as the ones in Life"——Judith 对此清醒认知：这些照片并不真的好。她随即在想象中构建了 Paul 的真实反应：他会带着期待 smile through his well-trimmed beard，然后搜索整组照片寻找哪怕一张能证明"this unlikely talent"并非虚妄的证据——但他找不到。
 
-> He would take the bunch and tap the edges against the desk… then hold them out as if they might taint him. Very nice, he'd say, as he's done with the others.
+> **原句 2:** He would take the bunch and tap the edges against the desk… then hold them out as if they might taint him. Very nice, he'd say, as he's done with the others.
 
-"tap the edges against the desk"是权威人物处理他不认可的作品时的机械动作；"as if they might taint him"暗示 Paul 对 Judith 的才华始终持保留态度——那些赞美只是礼貌的重复。
+**中文理解**：Paul 会拿起那沓照片，用手指敲敲边缘，然后把它们递出去，好像它们会玷污他似的。他会说"很好"，就像他对其他学生说过无数次的那样。
+
+**关键词：**
+- **tap the edges against the desk**：用手指敲照片边缘——权威人物处理不认可作品时的机械、敷衍动作
+- **as if they might taint him**：好像它们会玷污他——Paul 对 Judith 才华的保留态度，赞美只是表面
+
+**为什么这样写**："tap the edges against the desk"是权威人物处理他不认可的作品时的机械动作；"as if they might taint him"暗示 Paul 对 Judith 的才华始终持保留态度——那些赞美只是礼貌的重复。
 
 ### 4. 窗玻璃中的凝视（核心意象）
 
-> I look up in the darkened kitchen window over the sink as I fill one tub with hot, soapy water. I look startled in the reflection. Startled and sad. I could grab my Nikon now and capture it, this image of a pathetic, pained woman, but wouldn't he be standing just behind me?
+> **原句 3:** I look up in the darkened kitchen window over the sink as I fill one tub with hot, soapy water. I look startled in the reflection. Startled and sad. I could grab my Nikon now and capture it, this image of a pathetic, pained woman, but wouldn't he be standing just behind me?
 
-这是全章情绪最高点。Judith 在洗碗时无意识地抬头，看见玻璃中自己的倒影——startled and sad。她本能地想用 Nikon 记录这个"pathetic, pained woman"，但下一秒的念头打断了这个冲动：**那个男人是否就站在她身后？** 这个转折将她的自我观察（自恋式凝视）与被监视感（被害妄想/现实威胁）瞬间叠加。最后一句——
+**中文理解**：Judith 在洗碗时抬头看向黑暗厨房窗户中的倒影。她在玻璃中看到自己惊愕而悲伤的表情。她本可以此刻用 Nikon 拍下这个"可怜、痛苦的女人"，但随即产生了一个令人不寒而栗的念头：那个男人是不是就站在她身后？
+
+
+**为什么这样写**：这是全章情绪最高点。Judith 在洗碗时无意识地抬头，看见玻璃中自己的倒影——startled and sad。她本能地想用 Nikon 记录这个"pathetic, pained woman"，但下一秒的念头打断了这个冲动：**那个男人是否就站在她身后？** 这个转折将她的自我观察（自恋式凝视）与被监视感（被害妄想/现实威胁）瞬间叠加。
 
 > The man, I mean. Not Tom.
 
-——用括号纠正的方式将 Tom 从"身后的威胁"中排除，但这个纠正本身揭示了她的恐惧结构：**Tom 不是威胁，但那个男人可能是。** 而她不确定他在不在那里。
+**中文理解**：括号内的自我纠正——她说的"他"指的是那个跟踪者，不是 Tom。
+
+
+**为什么这样写**：用括号纠正的方式将 Tom 从"身后的威胁"中排除，但这个纠正本身揭示了她的恐惧结构：**Tom 不是威胁，但那个男人可能是。** 而她不确定他在不在那里。
 
 ## 心理层次
 

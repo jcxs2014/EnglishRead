@@ -67,15 +67,6 @@
 
 **句子结构**：长复合句，动作链 "I notice... They stare... I've aimed... I move on, spotting and shooting..."，节奏随 Judith 的扫描式目光加速。"I hardly notice it's him, my husband" 是全段情绪核心——创伤解离的具体表现。
 
-**关键词：**
-- **subdued but vicious fight**：压抑但凶狠的争吵——"subdued" 指声音低、动作隐晦，"vicious" 指实质敌意
-- **taut with anger**：因愤怒而绷紧的（面部表情），与第 10 行的 "taut atmosphere" 形成回声
-- **aimed the lens to the left of them**：镜头故意偏向一侧——Judith 在拍 Miller 争吵，但闪光灯闪了；她迅速转向无辜人群以掩饰。这是一个伦理模糊的行为
-- **spotting and shooting**：发现即拍摄——猎手式语言
-- **leering openly at**：公然盯着……看（带有性意味的凝视）
-- **looking sick to her stomach**：看起来要吐了——Maura 怎么了？可能是醉酒、可能是妊娠、可能是目睹了什么
-- **hardly notice it's him, my husband**：几乎认不出他是自己的丈夫——解离的明确信号
-
 **为什么这样写**：这是 Judith 摄影瘾性的高峰展示。她在派对中寻找"文明的裂缝"并拍摄——邻居的争吵、男子的色眼、朋友的醉态、丈夫的小丑相。她的镜头是一种控制机制：把混乱的现实框定在自己的取景框里。但关键在于 "I hardly notice it's him"——当她把丈夫也变成拍摄对象时，说明她已经无法区分亲疏。
 
 ---
@@ -89,14 +80,6 @@
 **中文理解**：Judith 误开的门后是主卧，她看到：一个赤裸上身的男人把一个裸体女人按在床上，压制她 V 字形张开的手臂，一边发出低吼一边动作。女人的头先向后仰，然后抬起来看到 Judith，嘴形成完美的圆形——即便在震惊中，Judith 仍下意识想到举起相机。男人未停，女人惊恐地盯着 Judith。"Stop!" 女人尖叫——不知道是对 Judith 还是对男人还是对两人都喊。Judith 关门，快步走向走廊。
 
 **句子结构**：核心是两个对照：男人的动作未停（"never stops moving and grunting"）vs 女人的惊恐静止（"keeps her head up, staring at me, terrified"）。Judith 的反应也是两组对照：理性上想举起相机（观察者本能）vs 身体上僵住（创伤激活）。
-
-**关键词：**
-- **shirtless man is pinning a naked woman down**：赤裸上身的男人把裸体女人按下去——"pinning down" 是强制压制的明确用语，"naked" vs "shirtless" 的不对称强调强迫性
-- **pressing the flesh of her V-ed arms**：按压她 V 字形张开的手臂的肉——"V-ed arms" 暗示女性被强制摆成某种姿势，呼应了她后来说的 "the kind of man who held me down and branded my thighs"
-- **grunts and moves against her**：低吼着在她身上动作——性暴力场景，"against her" 而非 "with her" 强调非自愿
-- **flopped back**：（头）无力地向后仰，"flopped" 暗示被动、无力
-- **so perfectly circular**：嘴圆成完美的圆形——极度震惊的表情，Judith 的摄影本能再次激活
-- **staring at me, terrified**：惊恐地盯着我——女人的恐惧是针对 Judith 还是男人？Judith 自问却无答案
 
 **为什么这样写**：这是全章的情节转折点。Judith 撞见的不是通奸（"just a couple having sex in the dark"），而是强制性行为。关键证据：① 女人裸体而男人仅脱上衣（非对等脱衣）；② 女人被"按压"V 形手臂；③ 女人惊恐尖叫；④ "Stop!" 是对谁说的？Judith 的闪回（"the kind of man who'd held me down and branded my thighs"）确认她识别出这是强奸/性暴力场景，而非两相情愿的性行为。
 
@@ -112,13 +95,6 @@
 
 **句子结构**：两段，第一段是内聚焦回忆（过去的 Judith），第二段是现在时（当下的 Judith）。"As if the burden were mine" 是全章的情感核心——Judith 反复被要求为不是她造成的事情负责。
 
-**关键词：**
-- **blurred into an awful mask**：模糊成一张可怕的面具——Judith 的记忆保护机制（解离），她的大脑不允许她记住袭击者的脸
-- **sigh in frustration**：沮丧地叹气——外祖母的态度给 Judith 造成二次伤害
-- **he'd never be caught if I couldn't remember**：如果你记不住，他就抓不到——外祖母把责任推给受害者 Judith
-- **Parade Girl**：游行者女孩——第 1 章 Judith 提到的被袭击事件中的受害者身份（她自己）
-- **I left her there**：我把她留在那里——Judith 再次未能救助处于危险中的女性，形成与 Parade Girl 事件的平行
-
 **为什么这样写**：Judith 的创伤后应激在本章达到临界。她在派对中拍照是在重复她无法控制的童年经历——试图通过镜头"捕捉"和"记录"现实，以获得某种控制感。但当她真正目击可能的强奸时，她再次无力行动，再次"把责任留给自己"。Parade Girl 是 Judith 的代号——她曾经是那个被困住的女子，如今她看到的是另一个"自己"。
 
 ---
@@ -130,15 +106,6 @@
 **中文理解**：Judith 从浴室冲出，强行打开卧室门——人已不在，只有床头灯的黄色光晕和床单上几道褶皱（他们逃离前试图整理过的痕迹）。她回到派对现场，从房间到房间疯狂搜索，忽略 Tom 的招手。她在寻找那对男女，但找不到。Tom 告诉她一对夫妇刚离开——Judith 猜测：男子把女子带走了（可能笑着道别离开），或者女子侥幸逃脱了。
 
 **句子结构**："I go from room to crowded room, ignoring Tom... my eyes furiously searching. But they're nowhere."——Judith 的搜寻是绝望的，但无果。结尾的三种"或者"揭示她内心的冲突——她不知道女子是被带走的（被动受害者）还是主动逃脱的（有能力反抗）。
-
-**关键词：**
-- **tearing past**：冲过（tearing = 猛冲，激烈动作）
-- **fling open**：猛然推开——与 "tearing past" 连续的动作动词，强调 Judith 的急切
-- **tranquil**：平静的——讽刺，刚刚发生了暴力/性侵，房间里却"宁静"
-- **telltale wrinkles**：泄露真相的褶皱——床单被整理过，说明他们曾仓皇逃离
-- **skein of smoke**：一缕烟雾（skein = 纤维束），与第 10 行 "low bank of smoke" 回响
-- **veiling everything**：遮蔽一切——烟雾是派对气氛的表象，也是 Judith 认知的隐喻（她看到的"真实"被遮蔽）
-- **furiously searching**：疯狂搜索——"furiously" 说明情绪强度
 
 **为什么这样写**：Judith 的搜寻徒劳无功——她无法控制局面，无法拯救任何人。她忽略 Tom 是因为 Tom 代表"正常"（他的安慰是"everything all right?"），而 Judith 现在无法接受正常。"He took her somewhere—or they left together happily, willingly. Or the woman managed to run away."——Judith 给出了三种可能性，第三种是唯一让她好受一点的（女子有主动逃脱的可能）。但她无法确认。
 

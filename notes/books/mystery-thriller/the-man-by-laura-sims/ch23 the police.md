@@ -26,8 +26,17 @@ Judith 在次日清晨洗碗时想起跟踪者那只"吓人的浅褐色手"—�
 
 Judith 洗碗时想起跟踪者的手——"terrifying, tan hand spread against the white leather car seat"。一只盘子滑落、碎裂：
 
-> "Judith?" Tom calls from the other room.
-> "I'm fine, it's fine," I sing back, trying to sound carefree, like the woman who's opened her heart and now feels as light as a bird.
+> **原句 1:** "Judith?" Tom calls from the other room. "I'm fine, it's fine," I sing back, trying to sound carefree, like the woman who's opened her heart and now feels as light as a bird.
+
+**中文理解**：Tom 在另一个房间喊道"Judith？" Judith 用唱歌般的声音回应"我没事，都没事"，试图表现得无忧无虑，像那个"打开心扉、感觉轻如飞鸟的女人"。但碎瓷片的尖锐戳穿了她的伪装。
+
+**关键词：**
+- **Judith?**：Tom 的呼唤——关心的询问
+- **I'm fine, it's fine**：我没事，都没事——双重否定强调，刻意制造的轻快
+- **sing back**：唱歌般回应——用"sing"形容她的声音，暗示一种刻意表演的轻快
+- **light as a bird**：轻如飞鸟——Judith 假装达到的状态，与她的实际处境形成强烈反差
+
+**为什么这样写**：Sims 用"sing"这个动词揭示 Judith 的表演性——她不是在正常说话，而是在刻意制造轻快的语调。"I'm fine, it's fine"的双重否定和"sing back"的动作描写都暗示这不是真实的回应，而是一种防御性的表演。
 
 她试图表现得轻松，像那个"打开心扉、感觉轻如飞鸟的女人"——但碎瓷片的尖锐戳穿了伪装。她盯着一块完美的三角形碎片看了很久，才把它扔进垃圾桶。这块碎瓷与跟踪者的手形成呼应：两者都带有危险的尖锐。
 
@@ -35,7 +44,16 @@ Judith 洗碗时想起跟踪者的手——"terrifying, tan hand spread against 
 
 送走 Tom 后，Judith 缓步走下地下室暗房的楼梯：
 
-> I tremble at the door and make a promise to myself: If I have a clear picture of him, I will tell Tom everything. We will go to the police.
+> **原句 2:** I tremble at the door and make a promise to myself: If I have a clear picture of him, I will tell Tom everything. We will go to the police.
+
+**中文理解**：我在暗房门口颤抖着对自己许下承诺：如果我有他的一张清晰照片，我就告诉 Tom 一切。我们会去报警。Judith 用这个条件句为自己的沉默辩护——她希望没有清晰的照片，这样她就有借口不面对真相。
+
+**关键词：**
+- **tremble at the door**：在门口颤抖——即将面对结果的紧张
+- **If I have a clear picture**：如果我有清晰的照片——她设置的触发条件
+- **tell Tom everything**：告诉 Tom 一切——她对坦白的承诺
+
+**为什么这样写**：Sims 用这个承诺揭示 Judith 的心理防御机制：她设置了一个她希望不会发生的条件。"If"这个条件句的本质是她希望没有清晰照片，这样她就有理由不履行承诺——她已经知道答案了。
 
 她对自己许下承诺：如果有清晰的照片，就告诉 Tom一切，去报警。这是她对"面对真相"的一次有条件的承诺——条件由照片是否清晰来决定，而这个条件本身就在暗示她希望什么会发生。
 
@@ -45,12 +63,25 @@ Judith 洗碗时想起跟踪者的手——"terrifying, tan hand spread against 
 
 午后她打印负片，等待它们干燥，然后撕下、拿上楼：
 
-> First I see the hard proof of my mediocre shooting day—then I hold my breath and squint at the shots taken inside the car.
-> There's nothing in any of them. Only a blue and white blur, something that might—or might not—be the dashboard of his car.
+> **原句 3:** First I see the hard proof of my mediocre shooting day—then I hold my breath and squint at the shots taken inside the car. There's nothing in any of them. Only a blue and white blur, something that might—or might not—be the dashboard of his car.
+
+**中文理解**：首先我看到的是我那天平庸摄影技术的硬证据——然后我屏住呼吸、眯着眼看车内拍的那些照片。什么都没有。只有蓝白色的模糊，可能是什么东西——也可能什么都不是。
+
+**关键词：**
+- **hard proof of my mediocre shooting day**：我那天平庸摄影技术的硬证据——她自嘲的摄影水平
+- **hold my breath and squint**：屏住呼吸、眯着眼——期待与恐惧交织的身体反应
+- **blue and white blur**：蓝白色的模糊——照片里什么都没有，只有模糊
+
+**为什么这样写**：Sims 用"hard proof"这个词的反讽揭示 Judith 的困境：照片本应是证据，却什么都没有。"blue and white blur"是全章的核心意象——证据模糊，真相同样模糊。她的反应是双重情绪：frustration 与 relief 并存。
 
 照片里什么都没有。只有蓝白色的模糊，可能是什么东西——也可能什么都不是。她的反应是双重情绪的交织：
 
 > Alongside my frustration, I feel a sliver of relief as sharp as the plate shard: Now I won't tell Tom anything. I won't have to visit the police.
+
+**中文理解**：与挫败感一同涌来的，是一丝像碎瓷片一样尖锐的解脱感：现在我不用告诉 Tom 任何事了。我不用去报警了。relief 与 frustration 同时存在——这是一条关键的情感分裂。
+
+
+**为什么这样写**：Sims 用"sliver of relief"和"as sharp as the plate shard"将情绪物化——relief 被"sliver"缩小、被"sharp"锐化。她的情感仍然被编码为身体感受（尖锐感），而非命名情绪。这条情感分裂揭示 Judith 的心理防御机制：她从不需要面对真相中获得了某种解脱。
 
 relief（解脱）与 frustration（挫败）同时存在——这是一条关键的情感分裂。"a sliver of relief as sharp as the plate shard"：那块碎瓷片是真实的、物质的，她的 relief 同样是尖锐的、能切割的。她用"as sharp as"将情绪物化，揭示她的心理防御机制。
 

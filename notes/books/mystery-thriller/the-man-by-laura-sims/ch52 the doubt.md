@@ -21,7 +21,7 @@
 
 ### 精读块 1：紧张与伪装
 
-> Thursday afternoon, Paul stands on Tom's doorstep with a pit in his stomach; will Tom ruin all his beautiful hard work? All the hours he's spent culling the best twenty prints—an impossible job—from the wealth of Judith's photographic archive? He could, Paul knows, but he tells himself he won't let him and grips the portfolio handle tightly, as if to keep Tom from snatching it. When the door swings open, Paul puts on a smile and simulates an air of relaxed confidence.
+> **原句 3:** Thursday afternoon, Paul stands on Tom's doorstep with a pit in his stomach; will Tom ruin all his beautiful hard work? All the hours he's spent culling the best twenty prints—an impossible job—from the wealth of Judith's photographic archive? He could, Paul knows, but he tells himself he won't let him and grips the portfolio handle tightly, as if to keep Tom from snatching it. When the door swings open, Paul puts on a smile and simulates an air of relaxed confidence.
 
 **中文理解**：周四下午，Paul 站在 Tom 家门口，胃里像坠了一块石头；Tom 会毁掉他所有漂亮的努力工作吗？他从 Judith 海量的摄影档案中精挑细选出的二十张最好的照片——这是一项不可能完成的任务——花费了他多少时间？他知道 Tom 能做到，但他告诉自己不会让他得逞，并且紧紧握住作品集的手柄，仿佛要阻止 Tom 抢走它。门开了，Paul 露出微笑，装出一副轻松自信的样子。
 
@@ -80,11 +80,6 @@
 
 **句子结构**：Tom 的"你可以用"与 Paul's 的期待形成剧烈反差——"He thought he'd be here all evening" 对比 "After ten minutes!" 制造出讽刺性的喜剧效果。Paul 的 "What's the catch?" 是全章最关键的内心提问——一个 instant 的怀疑，暴露了他对这种轻易成功的本能不信任。破折号的处理（"he wants to ask—but wouldn't in a million years."）制造了思想与行动之间的断裂——他想到了，但永远不会说。
 
-**关键词：**
-- **gapes at him, speechless**：目蹬口呆——Paul 的计划本该需要艰难说服，却如此轻易地成功了
-- **giving in—quickly and completely**：快速而彻底地投降——这个胜利来得太便宜，Paul 反而警觉
-- **What's the catch?**：有什么猫腻？——Paul 的直觉：他太了解"天下没有免费午餐"的道理
-
 **为什么这样写**：Paul 的怀疑暴露了他的世界观：他相信任何轻易的胜利都有代价。Tom 的轻易让步不是因为他被说服了，而是因为他从一开始就不相信这会成功——Paul 的胜利是虚幻的，Tom 的失败也是虚幻的，两人都各怀心思。
 
 ---
@@ -113,11 +108,6 @@
 **中文理解**：Paul 现在明白了：Tom 投降是因为他认为 Paul 会失败。更重要的是，他认为 Judith 会失败。尽管 Tom 深爱他的妻子，他无法看清她——即使她死后，即使她伟大的证据就在他面前。Paul 是对的；正如他所想，她那些精美的照片会一直躺在盒子里腐烂，无人问津，也许某天会被当作垃圾扔掉。一位母亲的爱好。所以他是对的——他撒谎了，他强行推动了 Stanley 家的决定。
 
 **句子结构**："Paul was right; just as he thought" 是全章的情绪最高点——Paul 的自我庆祝。但紧接着 "So he was right to lie" 中 "lie" 一词的出现是关键时刻的裂痕：Paul 在这一刻承认了他的欺骗，并用"结果证明手段"来合理化。"A mother's hobby" 是 Tom 对 Judith 作品的定义，Paul 用这句话来证明 Tom 的盲目，也证明自己干预的必要性。
-
-**关键词：**
-- **can't see her clearly**：无法看清她——Tom 眼中的 Judith 是"妻子/母亲"，不是"艺术家"
-- **moldering in their boxes**：在盒子里腐烂——Paul 的恐惧：不是 Judith 的死亡让他害怕，而是她的作品会被遗忘
-- **A mother's hobby**：一位母亲的爱好——Tom 的标签，也是社会对女性艺术的标准贬低
 
 **为什么这样写**：Paul 的自我辩护是全章最黑暗的时刻：他用 Tom 的偏见来证明自己撒谎的正确性，逻辑是"因为 Tom 是错的，所以我骗他是对的"。但这种逻辑的危险在于：它把 Paul's 的行为从"帮助 Judith"变成了"利用 Judith"——他需要相信自己是在拯救她的遗产，但这与真正的尊重背道而驰。
 

@@ -15,13 +15,11 @@
 ---
 
 
-## 本章词汇
-
 ## 精读
 
 ### 精读块 1：信的处置
 
-> He folds the letter up and slides it into its envelope. Sets it carefully on his desk. He won't destroy it the way he did "Eddie's"; destroying it would mean it has power over him. He'd rather treat it like just another letter in the pile.
+> **原句 1:** He folds the letter up and slides it into its envelope. Sets it carefully on his desk. He won't destroy it the way he did "Eddie's"; destroying it would mean it has power over him. He'd rather treat it like just another letter in the pile.
 
 **中文理解**：他把信折好，塞进信封，小心翼翼地放在桌上。他不会像撕掉"Eddie 的信"那样撕掉它——撕掉它意味着它对他有控制力。他宁愿把它当作信件堆里普通的一封。
 
@@ -37,7 +35,7 @@
 
 ### 精读块 2：第一天
 
-> The most important job he's ever had.
+> **原句 2:** The most important job he's ever had.
 
 **中文理解**：这是他人生中最重要的那份工作。
 
@@ -45,11 +43,14 @@
 
 **为什么这样写**：Paul 对这份工作的定位——"most important job he's ever had"——揭示了他的真实动机：他不是来推广 Judith 的作品，而是来借 Judith 之死重塑自己的人生轨迹。
 
+**关键词：**
+- **most important job he's ever had**：人生中最重要的那份工作——Paul 的野心与自我定位
+
 ---
 
 ### 精读块 3：精心打扮
 
-> With his brown pants he wears a white button-down shirt he forgot he had. A little tight across the chest, but he likes how he looks when he checks the mirror: serious, quietly stylish, and mature.
+> **原句 3:** With his brown pants he wears a white button-down shirt he forgot he had. A little tight across the chest, but he likes how he looks when he checks the mirror: serious, quietly stylish, and mature.
 
 **中文理解**：他穿着棕色裤子，套上一件他忘了自己有的白色纽扣衬衫。胸口有点紧，但他照镜子时喜欢自己的样子：严肃、低调有型、成熟。
 
@@ -65,7 +66,7 @@
 
 ### 精读块 4：Jahan 的欢迎
 
-> Jahan welcomes him with a firm handshake and a beaming smile.
+> **原句 4:** Jahan welcomes him with a firm handshake and a beaming smile.
 
 **中文理解**：Jahan 用一个用力的握手和一个灿烂的笑容欢迎他。
 
@@ -81,7 +82,7 @@
 
 ### 精读块 5：Mr. Sorenson
 
-> "Mr. Sorenson, so wonderful to see you." Paul thrills to the sound of Mr. Sorenson coming from Jahan Davani's lips but tells him to call him Paul—just as he did when they first met days ago.
+> **原句 5:** "Mr. Sorenson, so wonderful to see you." Paul thrills to the sound of Mr. Sorenson coming from Jahan Davani's lips but tells him to call him Paul—just as he did when they first met days ago.
 
 **中文理解**："Sorenson 先生，很高兴见到您。" Paul 被 Jahan Davani 嘴里说出的"Sorenson 先生"所激动，但他告诉他叫他 Paul——就像几天前他们初次见面时一样。
 
@@ -97,7 +98,7 @@
 
 ### 精读块 6："Judith and Paul"
 
-> "The show is about Judith, yes, but it's also about you," Jahan goes on, pointing his forefinger at Paul. About me? Paul wants to ask, letting himself imagine, for a moment, that Jahan saw his old photograph in Harper's and wants to feature his work alongside Judith's.
+> **原句 6:** "The show is about Judith, yes, but it's also about you," Jahan goes on, pointing his forefinger at Paul. About me? Paul wants to ask, letting himself imagine, for a moment, that Jahan saw his old photograph in Harper's and wants to feature his work alongside Judith's.
 
 **中文理解**："展览是关于 Judith 的，是的，但也是关于你的，" Jahan 继续说，用食指指着 Paul。关于我？Paul 忍不住想问，他让自己想象了一会儿——Jahan 是否看到了他在 Harper's 的旧照片，想把他的作品与 Judith 的一起展出。
 
@@ -113,7 +114,7 @@
 
 ### 精读块 7：叙事的炼金术
 
-> **原句 1:** Judith is the star, of course," Jahan says, evaporating Paul's little dream. "Her work will be the centerpiece. So will her death—whether we like it or not. But the story of 'Judith and Paul' is compelling, too, the one about this singular talent discovered by her brilliant photography instructor."
+> **原句 7:** Judith is the star, of course," Jahan says, evaporating Paul's little dream. "Her work will be the centerpiece. So will her death—whether we like it or not. But the story of 'Judith and Paul' is compelling, too, the one about this singular talent discovered by her brilliant photography instructor."
 
 **中文理解**："Judith 当然是明星，" Jahan 说，蒸发了 Paul 的那个小梦想。"她的作品是核心。当然，她的死亡也是——无论我们喜不喜欢。但'Judith 和 Paul'的故事同样引人入胜——这个关于 singular talent 被她出色的摄影导师发现的故事。"
 
@@ -130,7 +131,7 @@
 
 ### 精读块 8：蜕变的握手仪式
 
-> With each handshake, he discards more and more of his old self—the shabby college instructor and has-been photographer—and leans into the bright new person who belongs in this golden world.
+> **原句 6:** With each handshake, he discards more and more of his old self—the shabby college instructor and has-been photographer—and leans into the bright new person who belongs in this golden world.
 
 **中文理解**：每握一次手，他就丢弃更多旧的自己——那个破旧的大学讲师和过气摄影师——然后更加靠近属于这个金色世界的新自己。
 

@@ -28,7 +28,13 @@ Paul 为展示 Judith 照片道歉，Judith 试图保持冷静但声音颤抖：
 
 > "You shouldn't have done it. You had no right to pass my picture around without asking my permission."
 
-她的声音"trembling"，语气如"the vexed mother of Tom Junior at the maddening height of his adolescence"——用母亲的语气说本应是受害者的愤怒，是典型的 Judith 防御机制：身份降级（受害者→母亲→愤怒的妻子）来避免直面创伤。
+**中文理解**：你不应该这么做。未经我的许可就把我的照片传阅，你没有这个权利。
+
+**关键词：**
+- **You had no right**：受害者的愤怒——但她的声音在颤抖，不是强势的抗议
+- **without asking my permission**：她强调程序正义——不是因为照片内容，而是因为未经同意
+
+**为什么这样写**：她的声音"trembling"，语气如"the vexed mother of Tom Junior at the maddening height of his adolescence"——用母亲的语气说本应是受害者的愤怒，是典型的 Judith 防御机制：身份降级（受害者→母亲→愤怒的妻子）来避免直面创伤。
 
 ### 2. "Did you enjoy it?"
 
@@ -36,9 +42,15 @@ Paul 道歉后反问：
 
 > "Look, I fully acknowledge my guilt. But tell me the truth. Did you enjoy it? Just a little?"
 
-这句话直接击穿 Judith 的防线——她瞬间跌回高中厨房：
+**中文理解**：听我说，我完全承认我的过错。但告诉我真相。你享受了吗？就一点点？
 
-> You enjoyed that, didn't you? You little slut.
+**关键词：**
+- **I fully acknowledge my guilt**：Paul 的坦诚——但这句话本身是一种侵犯
+- **Did you enjoy it? Just a little?**：与祖母的话同构——击穿 Judith 防线的核心问句
+
+**为什么这样写**：这句话直接击穿 Judith 的防线——她瞬间跌回高中厨房：
+
+ You enjoyed that, didn't you? You little slut.
 
 两句话完全同构：一般疑问、寻求确认、"just a little"（程度修饰）。Paul 的问句是对祖母那句话的复制，Judith 无法分辨是无意巧合还是 Paul 本人就是那个袭击者——"He couldn't have, could he?"但 Paul 的后续反应（lighthearted、Simply Paul）让她暂时脱钩。
 

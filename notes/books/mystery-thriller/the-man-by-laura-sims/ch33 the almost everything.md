@@ -25,7 +25,15 @@ Judith 在厨房桌前瘫坐，等待 Tom 回家。她僵住无法动弹，眼�
 
 Judith 设法坐到椅子上，但也仅此而已。她看着时钟指针前进，知道 Tom 即将回家、会发现她这副样子——会吓到他、甚至危害他的健康。但她就是不动。
 
-> because I'm a selfish fucking bitch. A fucking waste.
+> **原句 1:** Tom finds me slumped at the kitchen table, staring into space. I managed to sit myself down in a chair, but that was all. Then I watched the clock hands advancing and knew he was coming, that he would find me like this, that it would scare him, endanger his health, even, but I never moved—because I'm a selfish fucking bitch. A fucking waste.
+
+**中文理解**：Tom 发现我瘫坐在厨房桌前，盯着虚空。我勉强把自己放到椅子上，但也仅此而已。然后我看着时钟指针前进，知道他快回来了，他会发现我这样子——会吓到他、甚至危害他的健康，但我就是不动——因为我是自私的婊子。彻底的废物。Judith 用最极端的自我贬损语言定义自己——这与 ch31 结尾 butcher shop 橱窗前那个"分裂的自我"一脉相承：她用跟踪者和 Paul 曾经用来攻击她的词来攻击自己。
+
+**关键词：**
+- **selfish fucking bitch**：自私的婊子——跟踪者曾经用来攻击 Judith 的词，现在被她内化
+- **A fucking waste**：彻底的废物——Paul 在摄影展用来攻击她的词，也被她内化
+
+**为什么这样写**：Sims 用 Judith 的自我攻击揭示创伤后自我认知的扭曲：她将外部的暴力语言内化为自我定义。跟踪者的"selfish bitch"和 Paul 的"waste"现在成为 Judith 自己的声音。这种语言的内化揭示她在极端压力下的自我否定已经到达何种程度。
 
 这是她对自己的定义：自私的婊子、彻底的废物。与 ch31 结尾 butcher shop 橱窗前那个"分裂的自我"一脉相承——她再次使用极端的自我贬损语言。
 
@@ -47,15 +55,23 @@ Judith 设法坐到椅子上，但也仅此而已。她看着时钟指针前进�
 
 ### 3. 迎接：平滑如缎
 
-> When Tom came home, she smiled and offered him her cheek. How was work, she asked, as always. And the evening unrolled like a smooth satin ribbon.
+> **原句 2:** When Tom came home, she smiled and offered him her cheek. How was work, she asked, as always. And the evening unrolled like a smooth satin ribbon.
 
-"as always"——这是日复一日的例行公事。而"smooth satin ribbon"的比喻暗示一切看起来完美无瑕——这个分裂出去的 Judith 完美地维持着正常生活的假象。
+"smooth satin ribbon"的比喻暗示一切看起来完美无瑕——这个分裂出去的 Judith 完美地维持着正常生活的假象。
 
 ### 4. 真实：panic 与 almost everything
 
 而真正的 Judith——"the only one I know and am"——看着 Tom 惊慌的眼神，听着他急切的问题，仿佛隔着一层水。她让眼泪落下，说：
 
-> "Oh, Tom."
+> **原句 3:** But the other Judith, the only one I know and am, looks into Tom's panicked eyes, hearing his frantic questions as if through water. I let the tears fall and say, "Oh, Tom." And I tell him almost everything.
+
+**中文理解**："哦，Tom。" Judith 在真实的 Judith 只能流着泪说出这两个词——这是她能给予 Tom 的全部：一个感叹、一个名字。然后她告诉他"几乎一切"。"Almost everything"是她对 Tom 的回答——她说了，却又不完全说。最核心的秘密（童年被攻击、跟踪者就是那个人）仍然深埋。
+
+**关键词：**
+- **Oh, Tom**：哦，Tom——两个字，承载 Judith 所有的无力和悲伤
+- **Tom**：名字——Judith 在分裂状态中唯一能清晰表达的是丈夫的名字
+
+**为什么这样写**：Sims 用"Oh, Tom."这个极简的句子作为 Judith 真实自我的最后表达：两个字，承载她所有的无力和悲伤。这个句子与全章大量的内心独白形成鲜明对比——在极端分裂状态下，她只能说出丈夫的名字，然后告诉他"几乎一切"。"Almost everything"成为 Judith 对 Tom 的回答——她说了，却又不完全说。
 
 然后她告诉他"几乎一切"。
 

@@ -21,7 +21,7 @@
 
 ### 精读块 1：等待中的空洞
 
-> Though Paul is almost dizzyingly busy in the days leading up to the Harper's publication date, time passes slowly. He sends the finished contract to the Stanleys—which Tom signs and sends back, surprisingly without complaint, and seemingly without noticing how much power it gives Paul, or how much leeway there is for future endeavors like gallery shows.
+> **原句 2:** Though Paul is almost dizzyingly busy in the days leading up to the Harper's publication date, time passes slowly. He sends the finished contract to the Stanleys—which Tom signs and sends back, surprisingly without complaint, and seemingly without noticing how much power it gives Paul, or how much leeway there is for future endeavors like gallery shows.
 
 **中文理解**：虽然 Paul 在 Harper's 出版日前的日子里忙得几乎晕头转向，时间却过得很慢。他把完成的合同寄给 Stanley 们——Tom 签了字寄回来，出奇地没有抱怨，似乎没有注意到这份合同给了 Paul 多少权力，也没有注意到它为未来的计划（如画廊展览）留了多少余地。
 
@@ -38,7 +38,7 @@
 
 ### 精读块 2：焦虑的净化仪式
 
-> In this time of impatience, Paul smokes and drinks more to try to quiet his anxiety-infused glee—or his glee-infused anxiety. He masturbates to Charlie, too, but when his fantasies grow darker, tinged with violence, and he emerges from them shaking and ashamed, he resolves to try something more purifying: taking hours-long walks up and down the length of Manhattan in the bitter cold.
+> **原句 3:** In this time of impatience, Paul smokes and drinks more to try to quiet his anxiety-infused glee—or his glee-infused anxiety. He masturbates to Charlie, too, but when his fantasies grow darker, tinged with violence, and he emerges from them shaking and ashamed, he resolves to try something more purifying: taking hours-long walks up and down the length of Manhattan in the bitter cold.
 
 **中文理解**：在这段焦躁的等待期里，Paul 抽更多烟、喝更多酒，试图平息他的焦虑带来的兴奋——或者是兴奋带来的焦虑。他也对着 Charlie 手淫，但当他的幻想变得更深、更带有暴力色彩，完事之后他颤抖着、羞耻地回过神来，他决定尝试某种更净化自己的方式：在严寒中沿着曼哈顿的长度走上几个小时。
 

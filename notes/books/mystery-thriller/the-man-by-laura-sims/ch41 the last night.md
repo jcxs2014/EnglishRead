@@ -24,43 +24,53 @@ Judith 死后八周，Paul 登门拜访 Tom，在 Stanley 家蓝色客厅里编�
 
 ### 1. 谎言的开场
 
-> When the time comes, he finds it remarkably easy to lie.
+> **原句 1:** When the time comes, he finds it remarkably easy to lie.
 
-全章第一句即定性 Paul：说谎对他"出奇容易"。他没有结巴、没有磕绊，用最平稳的教授语调讲述虚构的" Judith 的遗愿"。与此同时，他的掌心在裤子上出汗——身体的背叛与表面的从容形成反讽。
+**中文理解**：时机到了，他发现说谎出奇地容易。
+
+**关键词：**
+- **remarkably easy**：出奇容易——Paul 对说谎毫无心理障碍
+
+**为什么这样写**：全章第一句即定性 Paul：说谎对他"出奇容易"。他没有结巴、没有磕绊，用最平稳的教授语调讲述虚构的" Judith 的遗愿"。与此同时，他的掌心在裤子上出汗——身体的背叛与表面的从容形成反讽。
 
 ### 2. Paul 的核心谎言
 
-> "That last night—the last time I saw her—Judith asked me to help her publish her photographs."
+> **原句 2:** "That last night—the last time I saw her—Judith asked me to help her publish her photographs."
 
-这是 Paul 来访的唯一目的。他声称 Judith 临终前托付他出版照片，但事实是 Judith 每一次都拒绝了他。Paul 知道这一点，却选择相信 Judith"迟早会被说服"——他把自己的执念投射为亡者的"真实愿望"。
+**中文理解**："那天晚上——我最后一次见到她——Judith 求我帮她出版她的照片。"
+
+**关键词：**
+- **publish her photographs**：出版她的照片——Paul 谎言的核心：他声称 Judith 临终前托付了他这件事
+
+**为什么这样写**：这是 Paul 来访的唯一目的。他声称 Judith 临终前托付他出版照片，但事实是 Judith 每一次都拒绝了他。Paul 知道这一点，却选择相信 Judith"迟早会被说服"——他把自己的执念投射为亡者的"真实愿望"。
 
 ### 3. 窃盗的快感
 
-> He remembers thinking, I want these. Like her pictures were something he could steal—the way he stole groceries, books, booze, and clothes when he felt the urge.
+> **原句 3:** He remembers thinking, I want these. Like her pictures were something he could steal—the way he stole groceries, books, booze, and clothes when he felt the urge.
 
 Paul 将 Judith 的照片视为另一种可以窃取之物。偷窃给他快感（buzz）、让他感到"漂浮在生活的肮脏之上"——但快感总会消退，留下的只有空洞。偷窃是他填补内在匮乏的方式。
 
 ### 4. 天才与平庸的对照
 
-> It was painfully clear that she could tap right into the marrow of the world just by lifting the camera to her eye. She made it look easy. He knew then that she could be what Paul never could: a towering talent.
+> **原句 4:** It was painfully clear that she could tap right into the marrow of the world just by lifting the camera to her eye. She made it look easy. He knew then that she could be what Paul never could: a towering talent.
 
 Paul 面对 Judith 的作品时，清楚看到她拥有他永远无法企及的东西。他经历了短暂的不公感（envy），随后转向"导师角色"作为补偿——通过帮助 Judith，他得以间接分享天才的光环。
 
 ### 5. 被拒绝后的执念
 
-> Paul could have changed course then; he could have avoided her after class, denying her the chance to share her work. Instead, he welcomed her whenever she lingered.
+> **原句 5:** Paul could have changed course then; he could have avoided her after class, denying her the chance to share her work. Instead, he welcomed her whenever she lingered.
 
 Judith 拒绝出版后，Paul 没有放手，反而变本加厉地接近她——因为 Judith 的照片已变成他的执念。他需要她的作品来维系自己的存在感。
 
 ### 6. 死后的执念升级
 
-> Instead, he grew fixated on her work, especially in the quiet evenings when he sat by a cracked-open window in his living room, wearing his winter coat, smoking cigarettes, and sipping rye. The pictures were there, weren't they, in her house?
+> **原句 6:** Instead, he grew fixated on her work, especially in the quiet evenings when he sat by a cracked-open window in his living room, wearing his winter coat, smoking cigarettes, and sipping rye. The pictures were there, weren't they, in her house?
 
 Judith 死后，Paul 没有释怀，反而更加强化。他穿着冬装、坐在窗边、喝黑麦威士忌——这套行为仪式暗示他在自我塑造为悲剧主角，执念在此刻彻底转化为"使命感"。
 
 ### 7. 最终的意图
 
-> Someone like him.
+> **原句 7:** Someone like him.
 
 Paul 认为自己才是让 Judith 作品重见天日的合适人选。"Someone like him"——他自己说出口的，却似乎没有意识到其含义：他不是 Judith 的同伴，他是那个想要占有她天赋的人。
 

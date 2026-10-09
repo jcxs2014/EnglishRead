@@ -28,12 +28,29 @@ Judith 在家中以摄影探索日常空间，浴室镜中渴望捕捉无限倒�
 Judith 知道今天又会待在家里——那个男人可以打电话给她，但无法触及她。她把希望寄托在"明天"出门摄影：
 > "I hang my hope on tomorrow, and the idea of it shines in my mind."
 
+**中文理解**："我把希望挂在明天，那个想法在我心中闪耀。" Judith 用这句话描述她对明天出门摄影的期待——她把希望寄托在明天，用"谨慎"换取明天"鲁莽"的资格。
+
+**关键词：**
+- **hang my hope on tomorrow**：把希望挂在明天——将希望外化为可以悬挂的物体
+- **the idea of it shines in my mind**：那个想法在我心中闪耀——光的意象，暗示希望
+
+**为什么这样写**：Sims 用"hang"和"shines"两个动词制造张力：希望被"悬挂"意味着它依赖于外部条件（明天是否真的出门）；而"shines"暗示 Judith 对未来仍抱有希望，尽管她被困在家中。这种矛盾的姿态揭示她作为艺术家的本能与作为受害者的困境之间的冲突。
+
 她用"谨慎"换取明天"鲁莽"的资格——自我说服的逻辑。
 
 ### 2. Tom 的叮嘱：颠倒的危险
 
 Tom 临走前叮嘱她锁门，Judith  sigh 了一声——因为威胁（在她感知中）来自屋子内部，而非门外：
 > "the threat—as he perceives it—comes from inside the house."
+
+**中文理解**："威胁——在他看来——来自屋子内部。" Judith 用这句话描述她感知中的危险来源：威胁不在外部（街道、蓝色车），而在屋子内部。这是全章的讽刺核心：Tom 认为危险来自外部（需要锁门），而 Judith 知道真正的危险来自内部（她的记忆、追踪者的威胁）。
+
+**关键词：**
+- **the threat**：威胁——Judith 所感知的危险
+- **comes from inside the house**：来自屋子内部——威胁的内化
+- **as he perceives it**：在他看来——Tom 的视角，与 Judith 的感知形成对比
+
+**为什么这样写**：Sims 用这句话制造双重讽刺：Tom 认为威胁来自外部（入室者），叮嘱 Judith 锁门；而 Judith 知道真正的威胁已经内化——它来自她的记忆、来自追踪者可能打电话进来的电话。这种信息差揭示两人对现实的不同感知。
 
 讽刺：她扫描街道找蓝色车，却不知真正的危险潜伏在何处。
 
@@ -49,10 +66,29 @@ Tom 临走前叮嘱她锁门，Judith  sigh 了一声——因为威胁（在她
 Judith 躲避家中所有镜子，却在浴室被自己的倒影 hold 住。双面镜的无限反射让她兴奋（Paul 式的"electric and original"），但随之而来的是深层恐惧：
 > "terrified at what might be behind me when I print the film: the man reflected ad infinitum, too."
 
+**中文理解**："害怕当我冲洗胶片时我身后可能有什么：那个男人也被无限反射其中。" Judith 想象自己用浴室的双面镜自拍，但恐惧随之而来——如果她冲洗胶片，会不会看到那个男人也在镜中，无限反射？
+
+**关键词：**
+- **terrified at what might be behind me**：害怕我身后可能有什么——对被追踪/被观看的恐惧
+- **when I print the film**：当我冲洗胶片时——摄影师最期待的时刻变成恐惧的来源
+- **the man reflected ad infinitum**：那个男人被无限反射——"ad infinitum"是学术腔调，与恐惧内容形成反差
+
+**为什么这样写**：Sims 用"ad infinitum"这个拉丁语短语制造恐怖效果——双面镜的无限反射本是艺术创意，却变成了追踪者无处不在的隐喻。Judith 的摄影师身份与受害者身份在此刻撕裂：她想拍照，但害怕冲印出来的结果。
+
 ### 5. relief 与 disappointment 的悖论
 
 她放下相机，用冷水洗脸，抬头——镜中只有她自己。两种情感同时涌起：
 > "I feel great relief and a vast disappointment—relieved to be safe, bereft to give up on such a striking picture."
+
+**中文理解**："我感到极大的解脱和极大的失望——庆幸自己是安全的，却因为要放弃如此惊艳的画面而感到失落。" Judith 放下相机后的双重情绪：安全（照片里没有那个男人）与艺术渴望（失去"striking picture"）之间的悖论。
+
+**关键词：**
+- **great relief**：极大的解脱——庆幸没有拍到那个男人
+- **vast disappointment**：极大的失望——失去艺术创作的机会
+- **relieved to be safe**：庆幸自己是安全的——受害者的庆幸
+- **bereft to give up on such a striking picture**：因为要放弃如此惊艳的画面而感到失落——艺术家身份的丧失
+
+**为什么这样写**：Sims 用"great relief"和"vast disappointment"的并列揭示 Judith 身份的核心撕裂：她是受害者，需要安全；她是艺术家，需要创造。这两种身份在同一时刻产生矛盾——她既庆幸自己放下相机，又因为失去那张可能"striking"的照片而深深失望。
 
 安全与艺术的悖论：她既庆幸照片里没有那个男人，又因为失去一张"striking picture"而深深失望。
 

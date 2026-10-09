@@ -21,7 +21,7 @@
 
 ### 精读块 1：光与影的追寻
 
-> In the morning light, Paul studies the contact sheets he's developed from Judith's self-portrait negatives. Not all of them—it was too much work, and too slow—to do all of them, and he figures if Judith said the stalker was in all of them, he should see him in any of them, right? So he studies the selection under his loupe, moving slowly as he goes. He's afraid to see the figure—much as Judith must have been afraid every time she developed a self-portrait—but he longs to see it, too. Longs for proof.
+> **原句 1:** In the morning light, Paul studies the contact sheets he's developed from Judith's self-portrait negatives. Not all of them—it was too much work, and too slow—to do all of them, and he figures if Judith said the stalker was in all of them, he should see him in any of them, right? So he studies the selection under his loupe, moving slowly as he goes. He's afraid to see the figure—much as Judith must have been afraid every time she developed a self-portrait—but he longs to see it, too. Longs for proof.
 
 **中文理解**：晨光中，Paul 研究着他从 Judith 自拍照底片冲印出来的接触印相纸。不是全部——全部工作量太大、也太慢——而且他琢磨着：既然 Judith 说跟踪者出现在所有照片里，那他随便挑几张看应该就行，对吧？于是他用放大镜细细审视那些选出来的照片，缓缓推进。他害怕看见那个身影——正如 Judith 每次冲印自拍照时必定也害怕一样——但他也渴望看见。渴望一个证据。
 
@@ -39,7 +39,7 @@
 
 ### 精读块 2：挫败与借口
 
-> He doesn't find it. Sets the loupe on the table and sighs. Maybe he's chosen the wrong ones? There shouldn't be wrong ones. Or he's missed it somehow, in these small versions? He could—and probably should—print them full-sized. He could—and probably should—print more of them, despite what Judith said. He should be thorough.
+> **原句 2:** He doesn't find it. Sets the loupe on the table and sighs. Maybe he's chosen the wrong ones? There shouldn't be wrong ones. Or he's missed it somehow, in these small versions? He could—and probably should—print them full-sized. He could—and probably should—print more of them, despite what Judith said. He should be thorough.
 
 **中文理解**：他没找到。放下放大镜，叹了口气。也许他选错了？可不应该有选错这回事啊。或者他是在这些小图上漏掉了什么？他可以——而且也许应该——把它们放大打印。他可以——而且也许应该——再多印一些，尽管 Judith 说过不要。他应该更仔细才对。
 
@@ -56,7 +56,7 @@
 
 ### 精读块 3：计划与焦虑
 
-> But it's eleven o'clock, his energy for the project has flagged, and he's anxious to call Marty now, while the day is fresh. He has his little speech about Judith memorized, and he wants to get things going. If it works out, he and Marty can discuss the elusive stalker another time. If it doesn't—well, he can't even think about that.
+> **原句 3:** But it's eleven o'clock, his energy for the project has flagged, and he's anxious to call Marty now, while the day is fresh. He has his little speech about Judith memorized, and he wants to get things going. If it works out, he and Marty can discuss the elusive stalker another time. If it doesn't—well, he can't even think about that.
 
 **中文理解**：但已经十一点了，他对这项工作的精力已经消退，他现在急于给 Marty 打电话，趁这天还新鲜。他已经把关于 Judith 的那番简短说辞背得滚瓜烂熟，想让事情启动起来。如果顺利的话，他可以和 Marty 另找时间讨论那个难以捉摸的跟踪者。如果不顺利——好吧，他连想都不敢想。
 
@@ -74,7 +74,7 @@
 
 ### 精读块 4：冷淡的回应
 
-> "I'm sorry to say I struck out with the self-portraits. I, uh, redeveloped them and looked them over carefully, but…nothing. No sign of the man. I wish I had better news to report. It's possible I missed him, you know, though I did look thoroughly," he adds, practically broadcasting to Tom with preemptive defensiveness that he hasn't looked thoroughly, that he's done a half-assed job.
+> **原句 4:** "I'm sorry to say I struck out with the self-portraits. I, uh, redeveloped them and looked them over carefully, but…nothing. No sign of the man. I wish I had better news to report. It's possible I missed him, you know, though I did look thoroughly," he adds, practically broadcasting to Tom with preemptive defensiveness that he hasn't looked thoroughly, that he's done a half-assed job.
 
 **中文理解**："很抱歉告诉你们，自拍照这边没有收获。我，嗯，重新冲印了它们，仔细检查了一遍，但是……什么都没有。没有那个男人的踪迹。我希望有更好的消息报告。有可能我漏掉了，你懂的，虽然我的确仔细看了。"他补充道——实际上是在向 Tom 预先发出防御信号：他并没有仔细看，他只是敷衍了事。
 
@@ -92,7 +92,7 @@
 
 ### 精读块 5：不被信任的专家
 
-> "Okay," Tom says at last. Paul swallows his surprise. But he knows Tom simply distrusts him. He would have given the same response even if Paul had developed and scoured every last self-portrait for hours, for days, and found nothing. He only asked Paul because he had no other recourse, because Paul was the "expert," loathsome as he was.
+> **原句 5:** "Okay," Tom says at last. Paul swallows his surprise. But he knows Tom simply distrusts him. He would have given the same response even if Paul had developed and scoured every last self-portrait for hours, for days, and found nothing. He only asked Paul because he had no other recourse, because Paul was the "expert," loathsome as he was.
 
 **中文理解**："好的。"Tom 最终说道。Paul 咽下了他的惊讶。但他知道 Tom 就是不信任他。即使 Paul 花上几小时、几天冲印并仔细检查每一张自拍照、最后什么也没发现，Tom 也会给出同样的回应。他找 Paul 只是因为没有别的办法，因为 Paul 是"专家"——尽管他令人厌恶。
 
@@ -109,7 +109,7 @@
 
 ### 精读块 6：艺人与赌徒
 
-> When he phoned Marty and told him he had some "incredible work" to share with him, work that wasn't his own and had a story around it as good—or better than—the photographs themselves, Marty said he was "keen" to see it. When they hung up, Paul was shaking from head to toe—as if Marty had said he wanted to see Paul's own photographs, or as if Paul's personal artistic reputation were on the line.
+> **原句 6:** When he phoned Marty and told him he had some "incredible work" to share with him, work that wasn't his own and had a story around it as good—or better than—the photographs themselves, Marty said he was "keen" to see it. When they hung up, Paul was shaking from head to toe—as if Marty had said he wanted to see Paul's own photographs, or as if Paul's personal artistic reputation were on the line.
 
 **中文理解**：当他打电话给 Marty 说有一些"令人难以置信的作品"要给他看——那些不属于他自己的作品，却有一个比照片本身一样好——甚至更好的故事——Marty 说，他"很期待"来看看。挂断电话后，Paul 从头到脚都在发抖——就好像 Marty 说想看的是 Paul 自己的作品一样，又好像 Paul's 个人的艺术声誉都押在了这上面似的。
 
@@ -127,7 +127,7 @@
 
 ### 精读块 7：两阶段的操控
 
-> But what if he shows them to the Toms, and they veto them?
+> **原句 7:** But what if he shows them to the Toms, and they veto them?
 
 He tells himself to slow down. First he has to get Marty's approval; then he'll deal with the Toms.
 

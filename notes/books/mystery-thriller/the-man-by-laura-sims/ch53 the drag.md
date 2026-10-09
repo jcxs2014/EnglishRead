@@ -77,11 +77,6 @@
 
 **句子结构**："Nothing about Judith's death or the serendipitous timing of her change of heart" 是句子的信息中心——Marty 的问题清单里没有这些最关键的"故事元素"，而 Paul 恰恰希望如此。
 
-**关键词：**
-- **listening intently**：专注地听——Marty 表面上是职业兴趣，但 Paul 注意到他没问"该问"的问题
-- **the serendipitous timing of her change of heart**：她改变心意的凑巧时机——Paul 内心对 Judith"死前不久才决定发表"这件事的讽刺性表述
-- **won't need to clarify the limits of the family's permission**：Paul 不必澄清家属许可的边界——因为他根本没有得到真正的许可
-
 **为什么这样写**：Paul 在这里松了一口气，因为他撒的谎没被戳破——Marty 没问"家属许可"的边界，只关心内容。Paul 内心清楚他其实并未获得正式授权，但 Marty 的职业思维（只管内容、不管法律）给了他继续撒谎的空间。
 
 ---
@@ -94,12 +89,6 @@
 
 **句子结构**："With a whiff of coming vengeance" 是介词短语作状语，揭示 Paul's 的内心状态。"Nonchalantly at first, then with increasingly dense attention" 是对比节奏，描写 Marty 阅读行为的变化过程。
 
-**关键词：**
-- **a whiff of coming vengeance**：一股即将复仇的气息——whiff = 微弱的气味，暗示 Paul's 的复仇欲望是潜意识的、几乎察觉不到的，但它确实存在
-- **nonchalantly**：漫不经心地——Marty 最初的态度
-- **increasingly dense attention**：越来越密集的注意力——dense = 密集的，暗示 Marty 开始认真对待
-- **vulnerable, moved, and electrified**：脆弱、被触动、震撼——三个形容词的递进，描绘 Marty 被照片击中的完整情感弧线
-
 **为什么这样写**："whiff of coming vengeance" 是全章最揭示 Paul's 内心动机的句子。他带来的不只是 Judith 的作品，还有对 Harper's 的旧怨——他曾是"one-hit wonder"被他们拒绝，如今他以"带来金矿的人"的身份回来。Marty 的三段式反应（漫不经心→专注→震撼）证明 Paul's 的赌注成功了。
 
 ---
@@ -111,11 +100,6 @@
 **中文理解**："我和她的鳏夫达成协议，成为她身后的代理人。她的经纪人。"这是个谎言——但 Marty 心不在焉地点了点头。
 
 **句子结构**："A falsehood for now" 是插入语，Paul 内心承认这是谎言，但 Marty 并不知道。"distractedly" 形容 Marty 的 nodding——他心不在焉，说明他已经完全被照片征服，不在乎细节。
-
-**关键词：**
-- **posthumous representative**：身后的代理人——Paul 自封的身份
-- **A falsehood for now**：目前的谎言——"for now" 暗示 Paul 打算把它变成真的（他声称有家属授权但实为欺骗）
-- **nods his head distractedly**：心不在焉地点头——Marty 的注意力全在照片上，不在 Paul 的身份问题上
 
 **为什么这样写**：Paul 当着 Marty 的面撒谎，而 Marty 的"distractedly"让这个谎暂时成立。Paul 心里清楚这是谎言，但他有把握变成真的——他自称有"家属授权"，但这只是他接近 Marty 的手段。"for now" 是 Paul's 对自己行为的定位：他知道自己在做什么，也知道谎言的保质期。
 

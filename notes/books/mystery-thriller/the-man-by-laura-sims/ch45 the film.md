@@ -37,7 +37,12 @@ Paul 走出教学楼，看见一个高大的男人站在雨棚下。最初他以
 
 > "Paul Sorenson? Professor? Tom Stanley Junior—or TJ. You can call me TJ."
 
-Paul 的心跳加速（"pulse leaps"）。他看到 Judith 在 TJ 的脸上——这句话既可以理解为母子相似，也可以理解为 Paul 在 TJ 身上寻找 Judith 的影子，以便更顺利地推进他的计划。
+**中文理解**："Paul Sorenson？教授？我是 Tom Stanley Junior——或者叫我 TJ。"
+
+**关键词：**
+- **Tom Stanley Junior—or TJ**：Tom Stanley Junior，或者 TJ——身份的确立
+
+**为什么这样写**：Paul 的心跳加速（"pulse leaps"）。他看到 Judith 在 TJ 的脸上——这句话既可以理解为母子相似，也可以理解为 Paul 在 TJ 身上寻找 Judith 的影子，以便更顺利地推进他的计划。
 
 ### 3. TJ 的立场：儿子替母亲说话
 
@@ -45,7 +50,12 @@ TJ 首先澄清："Dad doesn't know I'm here"——这句话建立了整个对�
 
 > "I think you should do it. I think Dad should let you do it."
 
-Paul 立即抓住这个机会，开始阐述他的计划：他想把 Judith 的照片卖给 Harper's 杂志，并在画廊展出。作为她的"manager"，他要求 30% 的佣金——"That's the industry standard"（他内心知道这个数字可能偏高）。TJ 平静地接受了这个条件。
+**中文理解**："我觉得你应该做这件事。我觉得爸爸应该让你做。"
+
+**关键词：**
+- **I think Dad should let you**：我觉得爸爸应该让你——TJ 背着父亲支持 Paul
+
+**为什么这样写**：Paul 立即抓住这个机会，开始阐述他的计划：他想把 Judith 的照片卖给 Harper's 杂志，并在画廊展出。作为她的"manager"，他要求 30% 的佣金——"That's the industry standard"（他内心知道这个数字可能偏高）。TJ 平静地接受了这个条件。
 
 ### 4. Paul 的内心博弈
 
@@ -53,7 +63,12 @@ Paul 努力保持"stone-faced"，但让 excitement "billow through him like a wa
 
 > "I think—Judith would be happy."
 
-TJ 微笑着接受了这句话。但读者知道这句话的重量：Paul 内心其实不确定 Judith 是否会高兴——更重要的是，他在想的不是 Judith 的遗愿，而是他自己能得到什么。
+**中文理解**："我想——Judith 会很开心的。"
+
+**关键词：**
+- **Judith would be happy**：Judith 会很开心——Paul 用亡者的名义为自己的行为正名
+
+**为什么这样写**：TJ 微笑着接受了这句话。但读者知道这句话的重量：Paul 内心其实不确定 Judith 是否会高兴——更重要的是，他在想的不是 Judith 的遗愿，而是他自己能得到什么。
 
 ### 5. 章末：停车场与"the film"
 

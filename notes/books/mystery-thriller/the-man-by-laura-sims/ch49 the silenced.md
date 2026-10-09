@@ -27,10 +27,6 @@
 
 **句子结构**：三个短句构成递进节奏。第一句 "Paul reaches for a glass of liquor that isn't there" 用定语从句创造一种渴望与失落并存的意象——酒不在，但欲望仍在；"the ghost of a drink like the ghost of the cropped-out man" 是同位语，将"虚幻的酒"与"被裁掉的男人的幽灵"类比，暗示两个"缺席在场"的主题形成共振。第二句 "He shivers" 一词成句，身体反应先于意识——恐惧的身体记忆。第三句 "And steps away from the table—gratefully—" 中 "gratefully" 的位置和破折号都强调了心理转折——他庆幸能离开那些照片。
 
-**关键词：**
-- **the ghost of a drink**：酒之幽灵——"ghost" 的反复出现是本章的核心意象，既指物理上被裁剪掉的人影，也指心理上挥之不去的阴影
-- **the ghost of the cropped-out man**：被裁掉的男人的幽灵——与 Judith 照片中被裁掉的神秘跟踪者形成呼应，Paul 此刻正在寻找的就是这个幽灵
-- **gratefully**：如释重负地——这个词暗示那些照片和其中可能隐藏的凶手让 Paul 不安到需要逃离
 
 **为什么这样写**："ghost" 的双关贯穿全章——被裁掉的男人是照片中的幽灵，Paul 伸手去够的酒是现实中缺席的安慰。两个"幽灵"并置，暗示 Paul 正在试图抓住一个永远无法触及的真相。"gratefully" 从餐桌旁离开，揭示了那些照片并非单纯的艺术欣赏对象，而是令人不安的犯罪现场。
 
@@ -44,10 +40,6 @@
 
 **句子结构**：极度压缩的内心独白。"When she was really, he wanted to say" 中的 "really" 提前并单独成词，制造一种强烈的强调——"实际上她真的是……"。三个短句 "Should he call the TV station and tell them? He didn't. He couldn't." 形成节奏上的三连击：疑问→否定→更深层的否定（不能，而不只是不去做）。"They wouldn't want to hear" 是全章最简洁也最有力的句子之一——公众的冷漠比凶手的暴力更让 Paul 愤怒。
 
-**关键词：**
-- **a fucking artist**：一个他妈的艺术家——Paul 内心用粗口表达愤怒，粗口在此不是脏话而是价值判断的强化，表示 Judith 的艺术家身份是不容置疑的
-- **the innovator**：创新者——Paul 对 Judith 的定义是"艺术家/摄影师/创新者"三位一体，与媒体给他的"被跟踪谋杀的家庭主妇"标签形成尖锐对立
-- **They wouldn't want to hear**：他们不会想听的——"wouldn't" 而非 "won't" 暗示一种基于经验的悲观预测，Paul 太了解公共舆论的惰性
 
 **为什么这样写**：本章的核心矛盾在这里集中爆发：Judith 本人生前拒绝公开展示（她抢回照片、要求 Paul 烧掉），而 Paul 现在决定违背她的遗愿——"She was wrong, though, wasn't she?"。他的理由是：如果 Judith 知道她将如何死去（被消声、被杀害），她会改变主意。这里 Paul 的逻辑是：死亡本身改变了一切——受害者的意愿被死亡自动撤销。这是一种危险的自以为是的善意，也是他 later 走向极端的心理伏笔。
 

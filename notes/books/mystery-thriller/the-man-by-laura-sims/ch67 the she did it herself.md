@@ -21,7 +21,7 @@
 
 ### 精读块 1：不是审讯室——是办公室
 
-> At the station, Paul is led straight to Schuyler's office—not to an interrogation room. He takes this as a good sign until he meets the detective's penetrating gaze and suffers his brief but crushing handshake. If he'd faced Schuyler right after Judith's death, he might have confessed despite his innocence. He only hopes the man can't hear his rabbity heartbeat in the small, closed room.
+> **原句 1:** At the station, Paul is led straight to Schuyler's office—not to an interrogation room. He takes this as a good sign until he meets the detective's penetrating gaze and suffers his brief but crushing handshake. If he'd faced Schuyler right after Judith's death, he might have confessed despite his innocence. He only hopes the man can't hear his rabbity heartbeat in the small, closed room.
 
 **中文理解**：在警局，Paul 直接被带到了 Schuyler 的办公室——而不是审讯室。他把这当作一个好兆头，直到他迎上侦探那双洞穿一切的目光，遭受了那次短暂而令人窒息的握手。如果他在 Judith 死后立刻面对 Schuyler，他可能已经会承认——尽管他是无辜的。他只希望这个男人听不到他在这间封闭的小房间里砰砰乱跳的心。
 
@@ -38,7 +38,7 @@
 
 ### 精读块 2：1934 年的报纸文章
 
-> Schuyler opens a file, takes out a yellowed paper, and slides it across the desk. "Have you seen this?" he asks. Paul shakes his head as he studies it: an article from the Somerset Daily Register, from June 1934. "Local Girl Attacked by Afternoon Intruder." Ancient history. Below the title, there's a picture of a young, unsmiling girl. Her head slightly tilted, her shoulder-length hair neatly curled. A high school portrait, Paul notices first. Judith, he notices next.
+> **原句 2:** Schuyler opens a file, takes out a yellowed paper, and slides it across the desk. "Have you seen this?" he asks. Paul shakes his head as he studies it: an article from the Somerset Daily Register, from June 1934. "Local Girl Attacked by Afternoon Intruder." Ancient history. Below the title, there's a picture of a young, unsmiling girl. Her head slightly tilted, her shoulder-length hair neatly curled. A high school portrait, Paul notices first. Judith, he notices next.
 
 **中文理解**：Schuyler 打开档案，抽出一张泛黄的纸，滑过桌面推过来。"你见过这个吗？"他问。Paul 摇头研究着它：这是1934年6月《萨默塞特每日记事报》的一篇文章。"当地女孩遭午后入侵者袭击"。陈年旧事了。标题下方是一张年轻、不笑的女孩照片。她的头微微倾斜，齐肩的头发整齐地卷着。高中肖像照，Paul 先注意到。Judith，他接下来注意到。
 
@@ -55,7 +55,7 @@
 
 ### 精读块 3：Judith 的创伤史
 
-> Paul reads the article, learning how Judith, sixteen, was attacked in her home. She was making herself an after-school snack when the screen door opened and shut behind her. A large, middle-aged man strode in, grabbed her, and pushed her to the floor. He pinned her down with his heavy body and told him he'd kill her if she struggled, so she lay still. Then he "touched her inappropriately," the article says, and afterward "harmed and disfigured her." Harmed and disfigured her…chilling in its vagueness. Paul feels disgusted but curious, too—where and how did he disfigure her? He saw no sign of disfigurement, though he only ever saw Judith's face, neck, and hands.
+> **原句 3:** Paul reads the article, learning how Judith, sixteen, was attacked in her home. She was making herself an after-school snack when the screen door opened and shut behind her. A large, middle-aged man strode in, grabbed her, and pushed her to the floor. He pinned her down with his heavy body and told him he'd kill her if she struggled, so she lay still. Then he "touched her inappropriately," the article says, and afterward "harmed and disfigured her." Harmed and disfigured her…chilling in its vagueness. Paul feels disgusted but curious, too—where and how did he disfigure her? He saw no sign of disfigurement, though he only ever saw Judith's face, neck, and hands.
 
 **中文理解**：Paul 读了这篇文章，了解到十六岁的 Judith 在自己家中被袭击。她正在给自己做课后点心，这时纱门在她身后打开又关上。一个高大、中年的男人大步走进来，抓住她，把她推到地板上。他用沉重的身体压住她，告诉她如果挣扎就杀了她，所以她一动不动。然后他"对她进行了不当触碰"，文章写道，之后"伤害并毁坏了她的容貌"。"伤害并毁坏了她的容貌"……措辞含糊得令人不寒而栗。Paul 感到厌恶，但也好奇——他是在哪里、怎样毁坏她容貌的？他没有看到任何毁容的痕迹，虽然他只见过 Judith 的脸、脖子和手。
 
@@ -72,7 +72,7 @@
 
 ### 精读块 4：Schuyler 的意图
 
-> "Does that track?" Schuyler asks. Paul looks at him, confused. "Does it make sense to you she would have kept this from her husband?" "It does," Paul says. "She was extremely private, you know." "But this was her husband. You think they had a good marriage?" Schuyler asks, lightly enough, but Paul knows he's being asked a serious question—one whose answer could have serious consequences for Tom, the former prime suspect. Is he back at the top of their list?
+> **原句 4:** "Does that track?" Schuyler asks. Paul looks at him, confused. "Does it make sense to you she would have kept this from her husband?" "It does," Paul says. "She was extremely private, you know." "But this was her husband. You think they had a good marriage?" Schuyler asks, lightly enough, but Paul knows he's being asked a serious question—one whose answer could have serious consequences for Tom, the former prime suspect. Is he back at the top of their list?
 
 **中文理解**："这个说法成立吗？"Schuyler 问。Paul 看着他，困惑。"你觉得她会把这件事瞒着丈夫，这说得通吗？""说得通，"Paul 说。"她极其注重隐私，你懂的。""但这是她丈夫啊。你觉得他们的婚姻幸福吗？"Schuyler 问，语气足够轻，但 Paul 知道他在问一个严肃的问题——答案可能对 Tom 产生严重的后果，前主要嫌疑人。他又回到他们的名单之首了吗？
 
@@ -89,7 +89,7 @@
 
 ### 精读块 5：Paul 为 Tom 辩护
 
-> "I don't really know," Paul says, not wanting to overplay it. "I think so? They seemed—well, it was a long marriage, wasn't it? I never saw them together, and I've only met Tom a few times, but I can't imagine he'd be the type of man who'd appreciate knowing…that about his wife. I can see why she might hide it from him, or even be afraid he'd find out someday," he said, shrugging as he delivers this suggestive last line.
+> **原句 5:** "I don't really know," Paul says, not wanting to overplay it. "I think so? They seemed—well, it was a long marriage, wasn't it? I never saw them together, and I've only met Tom a few times, but I can't imagine he'd be the type of man who'd appreciate knowing…that about his wife. I can see why she might hide it from him, or even be afraid he'd find out someday," he said, shrugging as he delivers this suggestive last line.
 
 **中文理解**："我真的不知道，"Paul 说，不想演过头。"我觉得是吧？他们的样子——嗯，毕竟是多年的婚姻，不是吗？我从来没有见过他们在一起，我也只见过 Tom 几次，但我无法想象他是那种会想知道……关于他妻子的那件事的男人。我能理解她为什么会瞒着他，甚至害怕他有一天会发现，"他说着，耸了耸肩，抛出了这句意味深长的话。
 
@@ -106,7 +106,7 @@
 
 ### 精读块 6："同样的事情再次发生"
 
-> "It's sad, and strange, isn't it?" Schuyler asks, and Paul thinks, at first, he means the state of their marriage. He's about to agree when Schuyler goes on. "To go through something like this as a kid, and then to go through a similar experience again, some thirty years later." "And die," Paul adds, then clears his throat. Why did he mention her dying? But Schuyler doesn't seem to hear; his eyes are fixed on a spot to the right of Paul, who sits wondering over the sudden change of topic.
+> **原句 6:** "It's sad, and strange, isn't it?" Schuyler asks, and Paul thinks, at first, he means the state of their marriage. He's about to agree when Schuyler goes on. "To go through something like this as a kid, and then to go through a similar experience again, some thirty years later." "And die," Paul adds, then clears his throat. Why did he mention her dying? But Schuyler doesn't seem to hear; his eyes are fixed on a spot to the right of Paul, who sits wondering over the sudden change of topic.
 
 **中文理解**："这很悲伤，也很奇怪，不是吗？"Schuyler 问，Paul 一开始以为他是在说他们的婚姻状况。他正要表示同意，Schuyler 继续说道："在小时候经历这样的事，然后在大约三十年后再次经历类似的事情。""然后死去，"Paul 补充道，然后清了清嗓子。为什么他要提到她的死？但 Schuyler 似乎没有听到；他的目光盯着 Paul 右边某处，Paul 坐在那里对这个话题的突然转变感到困惑。
 
@@ -122,7 +122,7 @@
 
 ### 精读块 7：指纹证据
 
-> "The thing is, there was only one set of fingerprints on the knife found at the scene in the parking lot: Judith's." Paul nods solemnly; he read that in the newspaper. He didn't find it strange. He figured the killer must have been careful and worn gloves.
+> **原句 7:** "The thing is, there was only one set of fingerprints on the knife found at the scene in the parking lot: Judith's." Paul nods solemnly; he read that in the newspaper. He didn't find it strange. He figured the killer must have been careful and worn gloves.
 
 **中文理解**："问题是，在停车场现场的刀上只有一组指纹：Judith 的。"Paul 严肃地点了点头；他在报纸上读过这个。他并不觉得奇怪。他以为凶手一定是谨慎的，戴了手套。
 
@@ -134,7 +134,7 @@
 
 ### 精读块 8：Schuyler 的最终暗示
 
-> **原句 1:** Do you think a person's photographs can reveal their state of mind?" "Absolutely." Paul nods energetically, slipping right into professor mode. "They can reveal the photographer's background, his perspective on life, his hopes and fears—and yes, his state of mind, too. Or hers," he adds, giving Schuyler a significant look. "So you see all of that in Judith's work?" "I do. All that and more…What she didn't want to see, the mirror saw for her, the pond saw for her, and so on." "Why do you think she changed her mind?" "I don't really know."
+> **原句 8:** Do you think a person's photographs can reveal their state of mind?" "Absolutely." Paul nods energetically, slipping right into professor mode. "They can reveal the photographer's background, his perspective on life, his hopes and fears—and yes, his state of mind, too. Or hers," he adds, giving Schuyler a significant look. "So you see all of that in Judith's work?" "I do. All that and more…What she didn't want to see, the mirror saw for her, the pond saw for her, and so on." "Why do you think she changed her mind?" "I don't really know."
 
 **中文理解**："你觉得一个人的照片能揭示他的心理状态吗？""当然。"Paul 精力充沛地点了点头，直接滑入了教授模式。"它们能揭示摄影师的背景、他的人生观、他的希望和恐惧——是的，还有他的心理状态。或者说她的，"他补充道，给了 Schuyler 一个意味深长的眼神。"那么你在 Judith 的作品里看到了所有这些？""是的。所有这些，甚至更多……她不想看到的，镜子替她看了，池塘替她看了，等等。""你觉得她为什么改变了主意？""我真的不知道。"
 

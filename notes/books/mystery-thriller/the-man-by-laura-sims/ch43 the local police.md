@@ -24,25 +24,37 @@ Paul 驱车离开高速公路，拐进一家郊区超市，在众目睽睽之下
 
 ### 1. 超市行窃：掠夺者的"电力"
 
-> He weaves back and forth behind the busy cash registers for a while, as if deciding which to pick. Then he parks his cart in a line and stays there for a few minutes as they inch forward.
+> **原句 1:** He weaves back and forth behind the busy cash registers for a while, as if deciding which to pick. Then he parks his cart in a line and stays there for a few minutes as they inch forward.
 
 Paul 在收银台之间游走，物色目标，然后混入队伍——这是他精心设计的障眼法。选好商品、"遗忘"某物、折返、绕场一周、找无人看管的通道。原文描述了他享受的两个时刻："invisible and powerful"（隐形的权力感）——不被发现，且拥有为所欲为的能力。
 
 ### 2. 经理拦截：控制权的考验
 
-> "Did you pay for those?" The man is about Paul's age but heavyset, with a green vest pulled tight over his belly and a name tag that reads Store Manager. Paul gives him an easy smile.
+> **原句 2:** "Did you pay for those?" The man is about Paul's age but heavyset, with a green vest pulled tight over his belly and a name tag that reads Store Manager. Paul gives him an easy smile.
 
-Harvey 拦住 Paul 要求看收据。Paul 立即启动应对模式：easy smile + 借口（自己装袋所以没等收据）。他心里将 Harvey 与 Tom 并置——"Tom's doubt. Tom's fury. Tom's denial of what Paul wants. And now this fat little man, challenging other things he wants." Paul 视一切质疑为对他"应得之物"的侵犯。
+**中文理解**："这些你付钱了吗？"那人跟 Paul 年龄相仿，但身材魁梧，绿色背心紧紧裹着肚子，胸口的名牌写着"店长"。Paul 轻松地朝他微微一笑。
+
+**关键词：**
+- **Store Manager**：店长——Harvey 的身份
+- **easy smile**：轻松的微笑——Paul 的应对策略：假装镇定
+
+**为什么这样写**：Harvey 拦住 Paul 要求看收据。Paul 立即启动应对模式：easy smile + 借口（自己装袋所以没等收据）。他心里将 Harvey 与 Tom 并置——"Tom's doubt. Tom's fury. Tom's denial of what Paul wants. And now this fat little man, challenging other things he wants." Paul 视一切质疑为对他"应得之物"的侵犯。
 
 ### 3. 谎言开始崩塌：Maddie 的否认
 
-> "No, Harvey, I've never seen him before," she says with weary certainty, and then turns away from them, returns to pulling goods off the conveyer belt.
+> **原句 3:** "No, Harvey, I've never seen him before," she says with weary certainty, and then turns away from them, returns to pulling goods off the conveyer belt.
 
-Paul 随机指定 Maddie 作证，但 Maddie 的 weary certainty 打破了他的算盘。他开始 panic——从"puffing on a cigarette"的悠闲状态跌落到现实的地面。他想逃离，"this isn't fun anymore; the thrill is gone"。
+**中文理解**："不，Harvey，我以前从没见过他。"她带着疲惫的确定性说道，然后转过身去，继续从传送带上把商品拉下来。
+
+**关键词：**
+- **I've never seen him before**：我以前从没见过他——Maddie 的否认打破了 Paul 的计划
+- **weary certainty**：疲惫的确定性——Maddie 不想卷入其中
+
+**为什么这样写**：Paul 随机指定 Maddie 作证，但 Maddie 的 weary certainty 打破了他的算盘。他开始 panic——从"puffing on a cigarette"的悠闲状态跌落到现实的地面。他想逃离，"this isn't fun anymore; the thrill is gone"。
 
 ### 4. 警察到场：威胁升级
 
-> When Paul turns, he sees a man walking toward them. In uniform. Local police.
+> **原句 4:** When Paul turns, he sees a man walking toward them. In uniform. Local police.
 
 全章以警察登场收尾。Paul 权衡了各种选项——逃跑、装作无辜、继续演戏——但最终选择跟随 Harvey 回到店内，这一决策让他陷入更深的困境。警察的出现意味着 Paul 对局面控制权的彻底丧失。
 

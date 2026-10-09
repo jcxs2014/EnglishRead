@@ -24,31 +24,38 @@ Paul 在超市经理 Harvey 的办公室内接受警员 Prager 的问询。他�
 
 ### 1. 脱罪窗口：Judith Stanley 阴影下的判断
 
-> Paul is worried this officer will remember his name from the Judith Stanley case and will haul him in to be requestioned. This time with much keener interest.
+> **原句 1:** Paul is worried this officer will remember his name from the Judith Stanley case and will haul him in to be requestioned. This time with much keener interest.
 
 Paul 内心最深的恐惧不是盗窃本身，而是 Judith Stanley 案引发的关注。他的自我认知在"普通小偷"与"谋杀案嫌疑人"之间摇摆——"If he's one kind of criminal, after all, he might be another." 这句话暴露了 Paul 本质上对自己身份的不确定。
 
 ### 2. 信息差：Paul 的策略性优势
 
-> It helps that Paul's name was never batted around in the news coverage; he was mainly identified as a "person of interest," and once or twice as "Judith's photography instructor."
+> **原句 2:** It helps that Paul's name was never batted around in the news coverage; he was mainly identified as a "person of interest," and once or twice as "Judith's photography instructor."
 
 媒体报道的疏漏成为 Paul 的护身符。他观察到 Prager 的 indifference 并立即利用——把自己包装成"被误解的中产阶级教授"。原文的观察精准："well-dressed middle-class white man—a professor."
 
 ### 3. 谎言构建：hospital 和 fiancée 的叙事
 
-> "Officer Prager, I didn't steal anything. I paid for the groceries, and I just forgot to pick up my receipt. I was in a hurry, my fiancée is in the hospital. She's waiting for me right now."
+> **原句 3:** "Officer Prager, I didn't steal anything. I paid for the groceries, and I just forgot to pick up my receipt. I was in a hurry, my fiancée is in the hospital. She's waiting for me right now."
 
-Paul 的谎言有结构：遗忘收据 + 紧急情况（ fiancée 在医院）+ 社会身份（中产教授）。当 Harvey 打断说收银员"not that old"，Paul 立即用"old enough"巧妙转化——把年龄变成可信度的背书。
+**中文理解**："Prager 警官，我什么都没偷。我付钱了，只是忘了拿收据。我赶时间，我的未婚妻在医院。她现在正在等我。"
+
+**关键词：**
+- **I didn't steal anything**：我什么都没偷——否认
+- **forgot to pick up my receipt**：忘了拿收据——精心设计的借口
+- **my fiancée is in the hospital**：我未婚妻在医院——利用同情心
+
+**为什么这样写**：Paul 的谎言有结构：遗忘收据 + 紧急情况（ fiancée 在医院）+ 社会身份（中产教授）。当 Harvey 打断说收银员"not that old"，Paul 立即用"old enough"巧妙转化——把年龄变成可信度的背书。
 
 ### 4. 胜局已定：Prager 的不耐烦
 
-> Paul sees the exasperated look on Prager's face and knows he's already won.
+> **原句 4:** Paul sees the exasperated look on Prager's face and knows he's already won.
 
 Paul 观察到 Prager 的"exasperated look"并确认自己已经赢了。Harvey 的 round face red as a beet、chastised child 的姿态，与 Paul 的胜利形成鲜明对比。
 
 ### 5. 离开：控制权的最终展示
 
-> As he pushes the full cart of stolen goods to the car, Paul knows without looking back that Harvey, stuffed into that pathetic green vest, is glaring after him.
+> **原句 5:** As he pushes the full cart of stolen goods to the car, Paul knows without looking back that Harvey, stuffed into that pathetic green vest, is glaring after him.
 
 全章以 Paul 推着满车赃物离开收尾。"pathetic green vest" 是对 Harvey 的最终贬低——他的权威被彻底瓦解，而 Paul 重获控制。
 

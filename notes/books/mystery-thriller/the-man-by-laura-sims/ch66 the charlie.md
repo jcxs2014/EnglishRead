@@ -19,7 +19,7 @@
 
 ### 精读块 1：工作被打断
 
-> Paul is so in the flow of writing the next morning that when the telephone rings he lets it go for a while, hearing the sound but not responding until he thinks, Jahan. It could be Jahan. It's 11 a.m. and the gallery is open; Jahan might have a question, or he might be checking in. Paul strides over to the armchair and grabs the receiver.
+> **原句 1:** Paul is so in the flow of writing the next morning that when the telephone rings he lets it go for a while, hearing the sound but not responding until he thinks, Jahan. It could be Jahan. It's 11 a.m. and the gallery is open; Jahan might have a question, or he might be checking in. Paul strides over to the armchair and grabs the receiver.
 
 **中文理解**：第二天上午，Paul 正沉浸在写作的节奏中，电话响了，他没有立刻接，听到了铃声但没有回应，直到他想到——Jahan。可能是 Jahan。现在是上午 11 点，画廊开门了；Jahan 可能有问题要问，或者只是在确认情况。Paul 大步走向扶手椅，抓起了话筒。
 
@@ -37,7 +37,7 @@
 
 ### 精读块 2：无声电话
 
-> "Hello?" he says. Silence on the other end.
+> **原句 2:** "Hello?" he says. Silence on the other end.
 
 "Hello? Jahan?" he says, as if Jahan would call and say nothing. Paul listens deeply, pressing the telephone against his ear, and begins to hear the sound of light breathing. It reminds him of standing alone in the parking lot last night, straining his eyes for some solid threat he could sense but not see. He felt foolish and scared; he refuses to feel the same way in his own living room, and from something as trifling as a late-morning phone call. But he does think of Judith—of what she endured. Calls like this—but worse—as her stalker pressed closer, boding bad things to come. Paul swallows.
 
@@ -66,7 +66,7 @@
 
 ### 精读块 3：性别的猜测
 
-> "Hello? Anyone there? I'm hanging up," he says firmly, but he doesn't, and the hand pressing the receiver to his ear shakes slightly. He listens hard, trying to discern if the breathing he hears is male or female. He thinks…female, but how can he possibly tell? He's thinking of Charlie, that's why, however incongruous it is to imagine a girl like her sitting at home alone, playing around with prank calls. He can see her penning a cruel letter or two more easily than he can imagine her doing this.
+> **原句 3:** "Hello? Anyone there? I'm hanging up," he says firmly, but he doesn't, and the hand pressing the receiver to his ear shakes slightly. He listens hard, trying to discern if the breathing he hears is male or female. He thinks…female, but how can he possibly tell? He's thinking of Charlie, that's why, however incongruous it is to imagine a girl like her sitting at home alone, playing around with prank calls. He can see her penning a cruel letter or two more easily than he can imagine her doing this.
 
 **中文理解**："喂？有人吗？我要挂断了，"他坚定地说，但他没有，手握着话筒的耳朵微微颤抖。他努力地听着，试图分辨他听到的呼吸声是男是女。他觉得……是女的，但他怎么可能分辨出来？他在想 Charlie，就是这个原因，虽然想象这样一个女孩独自坐在家里玩恶作剧电话是多么不协调。他可以想象她写一两封残忍的信，但难以想象她做这种事。
 
@@ -86,7 +86,7 @@
 
 ### 精读块 4：挂断与等待
 
-> "Hey. You need to cut this shit out," he says at last, hearing a little gasp, or intake of breath—or was it a swallowed laugh? Paul slams the receiver down and stares at the phone, waiting for it to ring again. It doesn't.
+> **原句 4:** "Hey. You need to cut this shit out," he says at last, hearing a little gasp, or intake of breath—or was it a swallowed laugh? Paul slams the receiver down and stares at the phone, waiting for it to ring again. It doesn't.
 
 **中文理解**："嘿，你给我停下，"他最后说道，听到一声轻轻的喘息，或呼吸声——或者那是一声被咽下去的笑？Paul 猛地挂断电话，盯着电话，等它再响。它没有。
 
@@ -104,7 +104,7 @@
 
 ### 精读块 5：想象 Charlie
 
-> As the minutes pass, Paul stands smoking at the window, turning to stare at the telephone more often than he'd like. He wants another chance with the caller—maybe it was Charlie? Maybe she and her friends were grouped around the phone, listening to Paul panic and curse, when one of them let a single syllable of laughter escape. He can see it: those gorgeous girls from class sitting cross-legged on a shaggy bedroom carpet, pressing their heads together to hear, pressing their hands to their mouths, eyes bulging with merriment. Charlie wouldn't do it alone, but she might do it with friends. And she would be the leader, the one passionate enough about Judith's work to fuck with him. The others were just—
+> **原句 5:** As the minutes pass, Paul stands smoking at the window, turning to stare at the telephone more often than he'd like. He wants another chance with the caller—maybe it was Charlie? Maybe she and her friends were grouped around the phone, listening to Paul panic and curse, when one of them let a single syllable of laughter escape. He can see it: those gorgeous girls from class sitting cross-legged on a shaggy bedroom carpet, pressing their heads together to hear, pressing their hands to their mouths, eyes bulging with merriment. Charlie wouldn't do it alone, but she might do it with friends. And she would be the leader, the one passionate enough about Judith's work to fuck with him. The others were just—
 
 **中文理解**：几分钟过去，Paul 站在窗边抽烟，比他愿意承认的更频繁地转头盯着电话。他想再有一次机会与来电者对质——也许那是 Charlie？也许她和她的朋友们围在电话旁，听着 Paul 惊慌和咒骂，这时她们中的一个人不小心漏出了一个音节的笑声。他能想象到：班上那些漂亮的女孩盘腿坐在毛茸茸的卧室地毯上，挤在一起听，把手捂在嘴上，眼睛因为欢乐而瞪得老大。Charlie 不会独自做这种事，但她可能会和朋友们一起。而她会主导，是那个对 Judith 的作品足够热情、足以搞他的人。其他人只是——
 
@@ -127,7 +127,7 @@
 
 ### 精读块 6：Detective 来电
 
-> The telephone rings.
+> **原句 6:** The telephone rings.
 
 "Hello," Paul says brusquely. There's a pause; Paul can hear muffled background noise, but no laughter. The noise of a busy workplace carrying on beyond a closed door. He's instantly relieved.
 
@@ -162,7 +162,7 @@
 
 ### 精读块 7：Paul 的回忆
 
-> Paul's relief vanishes; his stomach twists. "Y-yes," Paul stammers. As if he could forget the small gray interrogation room where they held him after Judith's death. Not held him, really, but it felt as if he were being held. He was so nervous he thought he might crap his pants at any moment, and everything he said sounded suspicious even to his own ears. But this isn't the officer who questioned him. He can't remember that officer's name, but he remembers the voice: higher pitched than this Detective Schuyler's. He's somewhat relieved that it's a different person. But why should he be?
+> **原句 7:** Paul's relief vanishes; his stomach twists. "Y-yes," Paul stammers. As if he could forget the small gray interrogation room where they held him after Judith's death. Not held him, really, but it felt as if he were being held. He was so nervous he thought he might crap his pants at any moment, and everything he said sounded suspicious even to his own ears. But this isn't the officer who questioned him. He can't remember that officer's name, but he remembers the voice: higher pitched than this Detective Schuyler's. He's somewhat relieved that it's a different person. But why should he be?
 
 **中文理解**：Paul 的轻松消失了；他的胃在翻绞。"是——是的，"Paul 结结巴巴地说。就好像他会忘记 Judith 死后他们关押他的那个小灰色审讯室。不是真的关押，但感觉上是这样。他当时紧张得觉得自己随时可能会拉裤子，而且他说的每句话听起来连他自己都觉得可疑。但这次问话的不是那个警官。他不记得那个警官的名字，但他记得那个声音：比这个 Schuyler 侦探的更高亢。换了一个人，他有些松了口气。但——他为什么要松口气呢？
 
@@ -184,7 +184,7 @@
 
 ### 精读块 8：新角度
 
-> **原句 1:** As you probably know, the case remains unsolved." Paul tries to say yes, but it comes out a flippant-sounding Yeah. "Well, I've taken over, and I'm starting from scratch. Reviewing suspects, paperwork, photographs, everything. Looking at some new angles here, too, and I'd appreciate you coming by the station this week to answer some questions."
+> **原句 8:** As you probably know, the case remains unsolved." Paul tries to say yes, but it comes out a flippant-sounding Yeah. "Well, I've taken over, and I'm starting from scratch. Reviewing suspects, paperwork, photographs, everything. Looking at some new angles here, too, and I'd appreciate you coming by the station this week to answer some questions."
 
 **中文理解**："你可能知道，这个案子还没有解决。"Paul 想说"是的"，但出口变成了听起来很轻浮的"Yeah"。"嗯，我接管了，从头开始。审查嫌疑人、书面材料、照片，一切。也在看一些新的角度，我希望你这周能来警局回答一些问题。"
 
@@ -203,7 +203,7 @@
 
 ### 精读块 9：Paul 的内心推理
 
-> Paul swallows. New angles. What "new angles" might those be? Did Schuyler learn of Paul's near-arrest for grocery store theft and think it worthwhile to reconsider "the professor" as a suspect again? But there was no record of the near-arrest, because it wasn't a full arrest; he doubts the officer would remember his name. He doesn't remember the officer's—and it certainly wasn't Schuyler. All he remembers is Harvey—the ridiculous, red-faced manager who chased him out of the store.
+> **原句 9:** Paul swallows. New angles. What "new angles" might those be? Did Schuyler learn of Paul's near-arrest for grocery store theft and think it worthwhile to reconsider "the professor" as a suspect again? But there was no record of the near-arrest, because it wasn't a full arrest; he doubts the officer would remember his name. He doesn't remember the officer's—and it certainly wasn't Schuyler. All he remembers is Harvey—the ridiculous, red-faced manager who chased him out of the store.
 
 **中文理解**：Paul 咽了口唾沫。新角度。那些"新角度"可能是什么？Schuyler 是否听说了 Paul 在杂货店盗窃未遂的事，并认为值得重新考虑"那个教授"作为嫌疑人？但 near-arrest 没有记录，因为它不是完整的逮捕；他怀疑那个警官会记得他的名字。他不记得那个警官的名字——而且肯定不是 Schuyler。他只记得 Harvey——那个荒谬的、红着脸的经理，把他赶出了商店。
 
@@ -223,7 +223,7 @@
 
 ### 精读块 10：答应问话
 
-> **原句 2:** Of course, Detective. I'd be happy to come by," Paul says, trying to sound relaxed, though he's grateful the detective can't see how hard he's gripping the receiver. "How's tomorrow morning?"
+> **原句 10:** Of course, Detective. I'd be happy to come by," Paul says, trying to sound relaxed, though he's grateful the detective can't see how hard he's gripping the receiver. "How's tomorrow morning?"
 
 "Excellent. Nine thirty all right with you?"
 
@@ -252,7 +252,7 @@
 
 ### 精读块 11：自我辩护
 
-> What the hell? Schuyler didn't sound like he was winding up for an interrogation, but you never could tell. He might have played it like that on the phone, sounding polite and mild, but then Paul could arrive at the station tomorrow and find himself in handcuffs.
+> **原句 11:** What the hell? Schuyler didn't sound like he was winding up for an interrogation, but you never could tell. He might have played it like that on the phone, sounding polite and mild, but then Paul could arrive at the station tomorrow and find himself in handcuffs.
 
 **中文理解**：搞什么？Schuyler 听起来不像是要收网审讯，但谁也说不准。他可能在电话里表现得礼貌温和，但 Paul 明天到了警局可能会发现自己被戴上手铐。
 
@@ -270,7 +270,7 @@
 
 ### 精读块 12：无辜的提醒
 
-> You didn't kill her, though, Paul reminds himself with surprised relief; the call briefly made him forget his own innocence—not that innocence always matters. He wonders if Tom Stanley has anything to do with this—but Tom distrusts the Harrington PD more than he does Paul. It's possible the detective saw the Harper's issue or one of Paul's interviews and thought, Here's a man who's profiting nicely from Judith Stanley's death, and thought to bring him in. Or what if his harasser sent one of her pithy anonymous notes? You should take another look at Paul Sorenson, that vile worm. He directs a surge of helpless rage at Charlie and latches on to her image as he sits, mind and stomach roiling, staring toward the table where he sat not long ago, peacefully working on his catalog introduction.
+> **原句 12:** You didn't kill her, though, Paul reminds himself with surprised relief; the call briefly made him forget his own innocence—not that innocence always matters. He wonders if Tom Stanley has anything to do with this—but Tom distrusts the Harrington PD more than he does Paul. It's possible the detective saw the Harper's issue or one of Paul's interviews and thought, Here's a man who's profiting nicely from Judith Stanley's death, and thought to bring him in. Or what if his harasser sent one of her pithy anonymous notes? You should take another look at Paul Sorenson, that vile worm. He directs a surge of helpless rage at Charlie and latches on to her image as he sits, mind and stomach roiling, staring toward the table where he sat not long ago, peacefully working on his catalog introduction.
 
 **中文理解**：但你没有杀她，Paul 带着惊讶的宽慰提醒自己；那通电话短暂地让他忘记了自己的清白——不是说清白总是有用。他想知道 Tom Stanley 是否与此事有关——但 Tom 对哈灵顿警局的信任比对 Paul 的还少。侦探有可能看到了那期 Harper's 或者 Paul 的某次采访，然后想：这是一个从 Judith Stanley 的死中获利颇丰的人，并决定把他叫来。或者，如果他的骚扰者寄了一张她那种尖刻的匿名纸条呢？"你应该再看一眼 Paul Sorenson，那个卑鄙的蠕虫。"他把一股无助的怒火指向 Charlie，抓住她的形象，坐在那里，思绪和胃都在翻搅，盯着桌子——不久之前他还在那里平静地写着 catalog 引言。
 

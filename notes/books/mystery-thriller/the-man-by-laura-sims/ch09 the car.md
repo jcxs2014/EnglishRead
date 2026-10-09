@@ -34,7 +34,14 @@ Judith 抵达 Suttonville 的老旧 liquor store，镜中酒瓶在晨光中"inca
 
 > "I have the urge to bring one to my lips and take a great, burning drink. One to burn away my grief over Rosie, my worry over Tom's health. Another to wash away the awful image of the couple from the party. A third to forget the strange man I caught in my photographs."
 
-三个"to burn / wash away / forget"的并列结构——**grief、worry、"the couple"（party 事件）、the strange man**——Judith 的创伤来源层层叠加，而 liquor store 成为她渴望暂时麻痹的地点。
+**中文理解**：我有一种强烈的欲望，想把一瓶酒送到唇边，大口灼烧地喝下去。一瓶消除我对 Rosie 的悲伤，一瓶消除我对 Tom 健康的担忧。另一瓶洗去派对上那对情侣的可怕形象。第三瓶忘记我在照片中捕捉到的那个奇怪男人。
+
+**关键词：**
+- **burn away my grief**：消除悲伤——酒精作为麻痹剂
+- **wash away the awful image**：洗去可怕形象——派对事件的创伤
+- **forget the strange man**：忘记奇怪的男人—— ch07 的发现
+
+**为什么这样写**：三个"to burn / wash away / forget"的并列结构——**grief、worry、"the couple"（party 事件）、the strange man**——Judith 的创伤来源层层叠加，而 liquor store 成为她渴望暂时麻痹的地点。
 
 **自拍的悖论**：她"didn't intend to take another self-portrait"，但"the shot is too good not to take"。自拍时她"raise my camera to the top of my chest and try to relax my stern-looking face"——这个取景角度暗示她对自己面容的不自在，相机成为自我审查的工具。
 
@@ -46,13 +53,25 @@ Judith 抵达 Suttonville 的老旧 liquor store，镜中酒瓶在晨光中"inca
 
 > "But he's just an ordinary man, not the least bit interested in me or what I'm doing."
 
-这个"just an ordinary man"是 Judith 的理性化防御——她需要他是 ordinary 的，因为如果他是那个 strange man，就意味着 ch07 的发现不是 fluke。
+**中文理解**：但他只是一个普通男人，对我或我在做什么毫无兴趣。
+
+**关键词：**
+- **just an ordinary man**：只是一个普通男人——理性化防御
+- **not the least bit interested**：毫无兴趣—— Judith 说服自己他不是威胁
+
+**为什么这样写**：这个"just an ordinary man"是 Judith 的理性化防御——她需要他是 ordinary 的，因为如果他是那个 strange man，就意味着 ch07 的发现不是 fluke。
 
 她回头检查镜子：
 
 > "When I look back, I check the mirror for any sign of someone reflected behind me; I'm certain there's no one, nothing."
 
-"I'm certain"——这个极度确定的语气本身就是焦虑的体现。她需要确定性来维持"fluke"的假设。随后她"try different expressions and postures"，继续拍摄，说明她压制住了恐惧。
+**中文理解**：当我回头时，我检查镜子里是否有任何人反射在我身后；我确信没有人，什么都没有。
+
+**关键词：**
+- **check the mirror for any sign**：检查镜子里的任何迹象——焦虑的体现
+- **I'm certain there's no one, nothing**：我确信没有人，什么都没有——极度确定的语气
+
+**为什么这样写**："I'm certain"——这个极度确定的语气本身就是焦虑的体现。她需要确定性来维持"fluke"的假设。随后她"try different expressions and postures"，继续拍摄，说明她压制住了恐惧。
 
 ### 3. Paul's Philosophy as Lifeline
 
@@ -60,13 +79,35 @@ Judith 在街头拍摄时，Paul 的理念成为她的精神支柱：
 
 > "In last week's class, I jotted down a note that said, The subject's response doesn't matter. All that matters is doing what's right for the photograph."
 
+**中文理解**：在上周的课上，我记下了一条笔记：拍摄对象的反应不重要。重要的是为照片做正确的事。
+
+**关键词：**
+- **The subject's response doesn't matter**：拍摄对象的反应不重要—— Paul 的核心理念
+- **doing what's right for the photograph**：为照片做正确的事——摄影的自主性
+
+**为什么这样写**：Judith 在街头拍摄时，Paul 的理念成为她的精神支柱。这句话体现了 Paul 教导的核心：摄影不应被拍摄对象的态度所左右。
+
+---
+
 > "It's easy to apply because the camera makes me bolder than I am. So does Paul."
 
-她用 Paul 来获得 boldness——**相机和 Paul 共同给予她现实中缺乏的勇气**。"It's safe to think of him"——"safe"这个词很关键：想念 Paul 是安全的，因为他是同行、是支持者，不构成威胁。
+**中文理解**：这很容易应用，因为相机让我比真实的自己更勇敢。 Paul 也是。
+
+**关键词：**
+- **the camera makes me bolder**：相机让我更勇敢——摄影作为勇气来源
+- **So does Paul**： Paul 也是—— Paul 给她的勇气
+
+**为什么这样写**：她用 Paul 来获得 boldness——**相机和 Paul 共同给予她现实中缺乏的勇气**。"It's safe to think of him"——"safe"这个词很关键：想念 Paul 是安全的，因为他是同行、是支持者，不构成威胁。
 
 > "I'm moving and choosing easily; Paul's words just give me an extra lift."
 
-"extra lift"——Paul 给她的是额外的提升，让她能够继续"moving and choosing"。这与 ch07 的"moving forward, always forward"是同一种逃避策略的变体。
+**中文理解**：我轻松地移动和选择； Paul 的话给了我额外的提升。
+
+**关键词：**
+- **moving and choosing easily**：轻松地移动和选择——控制感的恢复
+- **extra lift**：额外的提升—— Paul 的支持
+
+**为什么这样写**："extra lift"——Paul 给她的是额外的提升，让她能够继续"moving and choosing"。这与 ch07 的"moving forward, always forward"是同一种逃避策略的变体。
 
 ### 4. The Frantic Pace（控制感的重建）
 
@@ -74,7 +115,14 @@ Judith 以"frantic pace"扫街拍摄：
 
 > "I take pictures of eloquently empty doorways, a broken window gleaming with sunlight, a man leaning against a tree with his legs crossed, his hat pulled down over his eyes."
 
-三个拍摄对象形成**空、破、遮**的意象链——empty doorways、broken window、hat pulled down over eyes——都暗示**空缺、破损、遮蔽**。她选择这些"worthy subjects"，实际上是在无意识中呼应自己的心理状态。
+**中文理解**：我拍摄了雄辩地空着的门廊、阳光照耀下发光的破窗、一个靠着树双腿交叉、帽子压低遮住眼睛的男人。
+
+**关键词：**
+- **eloquently empty doorways**：雄辩地空着的门廊——空缺的意象
+- **broken window gleaming**：破窗发光——破损的意象
+- **hat pulled down over his eyes**：帽子遮住眼睛——遮蔽的意象
+
+**为什么这样写**：三个拍摄对象形成**空、破、遮**的意象链——empty doorways、broken window、hat pulled down over eyes——都暗示**空缺、破损、遮蔽**。她选择这些"worthy subjects"，实际上是在无意识中呼应自己的心理状态。
 
 她"keep up a frantic pace until my stomach tells me it's well past lunchtime"——**身体信号才让她停下来**。这个细节暗示她处于一种 dissociated 状态，身体的需要被无视。
 
@@ -84,9 +132,14 @@ Judith 以"frantic pace"扫街拍摄：
 
 > "I snap a few final shots and then turn back to the car, spent and deeply satisfied."
 
-"spent and deeply satisfied"——身体的消耗与心理的满足并行。她 spent 是因为拍摄耗尽了她的精力，satisfied 是因为在这段时间里她重新获得了控制感——通过取景、按下快门、选择什么进入画面。
+**中文理解**：我快速拍了几张最后的照片，然后转身回到车里，精疲力竭却又深感满足。
 
-**Car 作为庇护所的回归**：在街头游荡后回到 car，car 是她的私密空间，与暗房（ch03）和 toy store（ch07）类似，是她能够暂时控制环境的地方。
+**关键词：**
+- **spent and deeply satisfied**：精疲力竭却又深感满足——矛盾的情绪状态
+- **spent**：耗尽的——身体的消耗
+- **deeply satisfied**：深感满足——控制感的恢复
+
+**为什么这样写**："spent and deeply satisfied"——身体的消耗与心理的满足并行。她 spent 是因为拍摄耗尽了她的精力，satisfied 是因为在这段时间里她重新获得了控制感——通过取景、按下快门、选择什么进入画面。**Car 作为庇护所的回归**：在街头游荡后回到 car，car 是她的私密空间，与暗房（ch03）和 toy store（ch07）类似，是她能够暂时控制环境的地方。
 
 ## 心理层次
 
@@ -112,7 +165,13 @@ Judith 以"frantic pace"扫街拍摄：
 
 > "From the neck down I'm made of bottles, shining and bright."
 
-这个自我描述揭示自拍时 Judith 的自我感消解——她的身体被酒瓶取代，"shining and bright"既是视觉描述，也暗示一种灼烧的渴望（酒瓶=酒=burning drink）。
+**中文理解**：从脖子往下，我是由酒瓶组成的，闪闪发光。
+
+**关键词：**
+- **made of bottles**：由酒瓶组成——自我感的消解
+- **shining and bright**：闪闪发光——视觉描述，也暗示灼烧的渴望
+
+**为什么这样写**：这个自我描述揭示自拍时 Judith 的自我感消解——她的身体被酒瓶取代，"shining and bright"既是视觉描述，也暗示一种灼烧的渴望（酒瓶=酒=burning drink）。这是 dissociation 的变体：她通过相机的取景框看到的不再是自己，而是一个由反射物品组成的集合体。
 
 ## 本章词汇
 

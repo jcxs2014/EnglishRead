@@ -29,13 +29,30 @@ Judith 在 Mason 街头拍照，却感到"bad"——与她在城市拍的照片�
 
 > Nothing like what I'd take in the city.
 
+**中文理解**：Judith 拍完 Mason 镇的照片后自评——"我拍的照片和我在其它新泽西小镇拍的没什么不同。"这意味着她在乡村小镇拍的照片远不如她在城市拍的照片，她对自己的作品感到失望。
+
+**关键词：**
+- **Nothing like**：不如、比不上——Judith 对自己摄影作品质量的负面判断
+- **wasted enough film**：浪费了足够多的胶片——她认为继续拍下去毫无意义
+
+**为什么这样写**：Sims 用这句内心独白开篇，将 Judith 定位为一个对自己要求极高、却因小镇题材受限的摄影师。这为后文她的自我否定埋下伏笔——她不是不能拍，而是觉得不值得拍。
+
 她放弃了——任相机悬在颈间，不再触碰，自认"wasted enough film this morning"。这是她创作生涯最低点：不是因为没拍，而是因为自我判断先于行动。
 
 ### 2. 蓝色 Buick：逼近的物理威胁
 
 一辆"long blue Buick with white leather seats"突然停在她身旁。她看不见司机，只看见"lean but muscular-looking and tan"的双手握着方向盘——她立刻判断"Mean hands"，并联想到 Paul 的手（"very different hand, aglow in the parking lot light"）。
 
-> "Get in, Judith," he says. Low and gravelly. Commanding.
+> **原句 1:** "Get in, Judith," he says. Low and gravelly. Commanding.
+
+**中文理解**："进来，Judith。"他说。声音低沉沙哑，带着命令的语气。这是跟踪者首次直接对 Judith 说话，这句命令式的话语既威胁又亲密——他用名字称呼她，说明他知道她是谁。
+
+**关键词：**
+- **Get in**：进来/上车——命令式语句，将 Judith 定位为被控制的对象
+- **Low and gravelly**：低沉沙哑——声音特征，用于识别和记忆
+- **Commanding**：命令的、专横的——暗示权力不对等
+
+**为什么这样写**：Sims 用"Get in"这个简短有力的命令开篇，制造即时威胁感。声音的描写（low and gravelly）服务于 Judith 的记忆检索机制——她试图通过声音辨认对方，但记忆的运作方式本身就是创伤的反应。
 
 声音引发她的记忆检索——"From the telephone, or the crosswalk, or from long, long ago?"——但记忆本身加剧疼痛，她不得不停止回想。这暗示声音她听过，但无法在痛苦中完成辨认。
 
@@ -49,7 +66,16 @@ Judith 的疼痛撕裂而来（"the pain tears through me"），但她的反应�
 **第二种姿势——盲拍**：
 她突发奇想：可以闭眼拍照。她放下刀，举起相机，"all with my eyes closed"拍摄两张。男人"facing the camera head-on and smiling. Posing, even"——他甚至配合。
 
-> I haven't thought of the party, of that couple in the bedroom, in some time. How the man on top of her was smiling—wasn't he? Taking pleasure in all of it, even in my watching.
+> **原句 2:** I haven't thought of the party, of that couple in the bedroom, in some time. How the man on top of her was smiling—wasn't he? Taking pleasure in all of it, even in my watching.
+
+**中文理解**：Judith 突然想起那场派对——门缝中窥见的场景：压在女人身上的男人正在微笑。"不是吗？他从这一切中获取快感，甚至从我的窥视中。"
+
+**关键词：**
+- **the man on top of her**：压在女人身上的男人——派对中 Judith 偷窥到的施暴者形象
+- **Taking pleasure in all of it**：从这一切中获取快感——施虐者的性快感和权力快感
+- **even in my watching**：甚至从我的观看中——Judith 的窥视成为对方快感的来源之一
+
+**为什么这样写**：Sims 将当下的跟踪者与记忆中的施暴者等同，揭示 Judith 的创伤核心——她不仅是受害者，还是被观看、被消费的对象。两个场景中的男人都在"观看"中获得快感，而 Judith 始终是客体。
 
 这段回忆将当下的跟踪者与派对中"在女人身上的男人"等同——两者都在"观看"中获得快感，而 Judith 始终是被看的客体。
 
@@ -59,7 +85,12 @@ Judith 的疼痛撕裂而来（"the pain tears through me"），但她的反应�
 
 到家后她做了一件奇怪的事：抵着前门站立，等待电话响起：
 
-> I expect the telephone to ring. I expect him to be there, breathing, on the other end of the line. Saying, Judith, you got away but I can still reach you. My mean hands can always reach you.
+> **原句 3:** I expect the telephone to ring. I expect him to be there, breathing, on the other end of the line. Saying, Judith, you got away but I can still reach you. My mean hands can always reach you.
+
+**中文理解**：Judith 预料电话会响。她预料他在电话那头，呼吸着，说："Judith，你逃了，但我仍然能触及你。我那双手可以触及你。"这是 Judith 对威胁的内化——跟踪者的话语成为她自我囚禁的声音。
+
+
+**为什么这样写**：Sims 用这段内心独白将 Judith 的恐惧具体化。"mean hands"将 Judith 对跟踪者的道德判断与物理威胁结合。电话成为连接 Judith 与追踪者的工具——即使在家里，她也无法逃脱。
 
 她不敢动——"afraid to move because I'm certain if I move, if I set down my things and give up my vigilance, the telephone will ring"。
 

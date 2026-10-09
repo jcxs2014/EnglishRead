@@ -47,7 +47,17 @@ Judith 躺在浴室镜子前检查伤痕，turns her wrist back and forth, turns
 
 ### 5. 电话里的声音：无处可逃
 
-> "You have such deep regrets about going today, don't you, Judith? The way I handled you. Marked you, even if you can't see it. I can see it from here."
+> **原句 1:** "You have such deep regrets about going today, don't you, Judith? The way I handled you. Marked you, even if you can't see it. I can see it from here."
+
+**中文理解**："你对今天出门一定很后悔吧，Judith？我处理你的方式。给你留下了印记，即使你看不到。我从这里就能看到。"跟踪者用"soft, confiding"——私密的、知心的语调说着最恐怖的话。他声称能给 Judith "留下印记"，并能从远处看到。
+
+**关键词：**
+- **deep regrets about going today**：对今天出门很后悔——跟踪者暗示 Judith 今天去了某处（地铁）
+- **The way I handled you**：我处理你的方式——将暴力行为描述为"处理"
+- **Marked you**：给你留下印记——贯穿全书的关键词，侵害者声称对 Judith 拥有标记权
+- **I can see it from here**：我从这里就能看到——打破 Judith 的安全空间
+
+**为什么这样写**：Sims 用"soft, confiding voice"制造恐怖效果：侵害者用亲密的语气说话，将暴力伪装成私密关系中最常见的沟通方式。"Marked you"呼应 ch31 中 Judith 自我分裂的隐喻——她被"标记"了。"I can see it from here"打破了她的安全空间：他不是在远处，他是"在这里"，他在看她。
 
 全章核心句。男人的语气是"soft, confiding"——私密的、知心的、像朋友一样的语调，却说着最恐怖的话。"Marked you"呼应 ch31 中 Judith 自我分裂的隐喻——她被"标记"了。"I can see it from here"打破了她的安全空间：他不是在远处，他是**在这里**，他在看她。
 
@@ -65,13 +75,32 @@ crouch（蹲）和 stand（站）的交替，身体在空间中的紧张移动�
 
 ### 8. 真相的揭露：你是自愿的
 
-> "When I walked through your grandmother's door that day and found you, you were willing. You wanted all of it—the burning, too."
+> **原句 2:** "When I walked through your grandmother's door that day and found you, you were willing. You wanted all of it—the burning, too." Because who would you be today if I hadn't marked you? Not Judith Stanley, right? Who?
+
+**中文理解**："那天当我走进你祖母的门找到你时，你是自愿的。你想要这一切——包括灼烧感。因为如果我没有在你身上留下印记，你今天会是谁呢？不是 Judith Stanley，对吧？是谁？"这是本书的核心揭露：那个男人就是多年前闯入祖母家攻击 Judith 的同一个人。"you were willing"是最恶毒的谎言，将强暴重新定义为双方自愿。
+
+**关键词：**
+- **When I walked through your grandmother's door that day**：那天当我走进你祖母的门——确认跟踪者就是当年入侵者
+- **you were willing**：你是自愿的——最恶毒的谎言，将强暴重构为双方同意
+- **the burning, too**：包括灼烧感——呼应之前章节中 Judith 对创伤的身体记忆
+
+**为什么这样写**：Sims 用这句话揭露全书最黑暗的秘密：跟踪者就是当年攻击 Judith 的人。"you were willing"是最恶毒的谎言，因为它触及 Judith 最深的自我怀疑：我是否真的有过错？"burning"呼应之前章节中 Judith 对那次创伤的身体记忆（灼烧感）。
 
 这是本书的核心揭露之一：那个男人就是多年前闯入祖母家的侵害者。"you were willing"是最恶毒的谎言——将强暴重新定义为双方自愿。burning 呼应之前章节中 Judith 对那次创伤的身体记忆（灼烧感）。"Because who would you be today if I hadn't marked you?"——他把自己的标记行为定义为塑造她身份的事件。
 
 ### 9. 电话垂挂：摇摆的象征
 
-> I scream into the receiver then and slam it down—again and again and again. Then I drop it so it hangs, swinging back and forth, sending its dial tone and then its urgent beeping into the air.
+> **原句 3:** I scream into the receiver then and slam it down—again and again and again. Then I drop it so it hangs, swinging back and forth, sending its dial tone and then its urgent beeping into the air.
+
+**中文理解**：我对着话筒尖叫，然后摔下电话——一次又一次又一次。然后我松手让它垂挂，来回摇摆，发出拨号音和急促的嘟嘟声。Judith 在听到跟踪者的真相揭露后崩溃，电话成为她情绪爆发的见证。
+
+**关键词：**
+- **scream into the receiver**：对着话筒尖叫——情绪爆发的身体反应
+- **slam it down—again and again and again**：摔下电话——一次又一次——重复动作强调情绪强度
+- **swinging back and forth**：来回摇摆——标题的出处，电话成为 Judith 心理状态的外化
+- **dial tone and urgent beeping**：拨号音和急促的嘟嘟声——技术噪音，无意义的持续
+
+**为什么这样写**：Sims 用"again and again and again"的重复强调 Judith 情绪爆发的强度。"swinging back and forth"是本章标题的出处——电话被摔下后垂挂、摇摆，是 Judith 心理状态的外化。dial tone 和 beeping 是无意义的技术噪音，代表她试图重建隔绝状态的失败尝试。
 
 **"The Swinging"标题的出处**——电话被摔下后垂挂着、来回摇摆。dial tone（拨号音）和 urgent beeping（急促的嘟嘟声）是无意义的技术噪音，是她试图重建隔绝状态的失败尝试。电话曾经是连接正常生活的工具（给 Tom 打电话），现在是威胁穿透家庭防线的通道。
 

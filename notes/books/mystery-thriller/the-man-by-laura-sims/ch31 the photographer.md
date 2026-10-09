@@ -45,11 +45,20 @@ Judith 想起包里有一把刀——"There if I need it"。这把刀在 ch18 �
 
 ### 5. 手的捕获：核心场景
 
-> His hand is instantly on my wrist. His cold fingers wrapping it, pressing it down.
+> **原句 1:** His hand is instantly on my wrist. His cold fingers wrapping it, pressing it down. I try to wrench free and stand, but the pressure of his hand keeps me pinned in place, and then the old pain sears through me.
 
 当她伸手进包里握住相机、准备举起来时，男子的手立刻抓住她的手腕——**他知道她要拍照**。"cold fingers"与之前温暖的车厢形成对比，暗示危险的身体接触。她的手腕被他 pin 在原位，"old pain sears through me"——多年的旧伤被激活。
 
-> "You're hurting me," I manage through the sharp pain of my wrist and the deep burning in my middle.
+> **原句 2:** "You're hurting me," I manage through the sharp pain of my wrist and the deep burning in my middle.
+
+**中文理解**："你伤害我了，"我在手腕的尖锐疼痛和身体深处的灼烧中艰难地说出这句话。Judith 被地铁男子攻击时本能地说出这句话，但她的声音被疼痛淹没了。
+
+**关键词：**
+- **You're hurting me**：你伤害我了——受害者的本能反应，语言的呼救
+- **sharp pain of my wrist**：手腕的尖锐疼痛——物理的伤害
+- **deep burning in my middle**：身体深处的灼烧——心理创伤的躯体化
+
+**为什么这样写**：Sims 用"sharp pain"和"deep burning"的并列揭示 Judith 所承受的双重伤害：物理的疼痛与心理的创伤在此交织。"Wrist"（手腕）的疼痛是当下的攻击，而"middle"（身体深处）的灼烧是童年创伤的记忆被触发。
 
 "Wrist"（手腕）的疼痛与"middle"（身体深处）的灼烧同时出现——物理的疼痛与心理的创伤在此交织。
 
@@ -58,6 +67,15 @@ Judith 想起包里有一把刀——"There if I need it"。这把刀在 ch18 �
 男子将手臂环绕她的脖颈，把她 pin 在胸前：
 
 > his hot breath in my hair like a lover's. The way the first man's breath was in my hair, slow at first, then quickening, quickening, then slowing at last while I turned my head and retched.
+
+**中文理解**：他的热呼吸在我头发里，像恋人一样。第一个男人的呼吸也是这样，在我头发里，先慢，然后加快，加快，再最后慢下来，而我的头转开、干呕。Judith 在地铁男子身上闻到当年袭击者的呼吸模式——同样的节奏、同样的姿势。
+
+**关键词：**
+- **his hot breath in my hair like a lover's**：他的热呼吸在我头发里，像恋人一样——最令人不寒而栗的比喻
+- **slow at first, then quickening, quickening, then slowing at last**：先慢，然后加快，加快，再最后慢下来——性暴力的呼吸节奏
+- **I turned my head and retched**：我转头、干呕——当年受害时的身体反应
+
+**为什么这样写**：Sims 用这个呼吸节奏串联当下的骚扰与当年的创伤——当前男子的呼吸模式与当年袭击者的完全相同。"like a lover's"这个比喻最令人不寒而栗：亲密的呼吸与暴力的呼吸无法区分。Judith 的 head turning 和 retching 是当年受害时的身体反应，现在被重新激活。
 
 **这是全章最关键的句子**：当前的呼吸模式（先慢后快再慢）与当年袭击者当年的呼吸模式完全相同。她的 head turning 和 retching（转头、干呕）是当年受害时的身体反应，现在被重新激活。"like a lover's"这个比喻最令人不寒而栗——亲密的呼吸与暴力的呼吸无法区分，暗示 Judith 与侵害者之间扭曲的关系。
 
@@ -77,7 +95,16 @@ Judith 步行穿过街道，相机像"a small anvil"（小铁锤）挂在脖子�
 
 她举起相机拍摄，知道那个男人就在身后某处——摄影再次成为她面对恐惧的方式。
 
-> I'm startled to see: the woman split in two. The photographer thrilling to her hurt subject's face, and the hurt subject resentful of the woman with the camera.
+> **原句 3:** I'm startled to see: the woman split in two. The photographer thrilling to her hurt subject's face, and the hurt subject resentful of the woman with the camera.
+
+**中文理解**：我惊讶地看到：那个女人分裂成两个人。摄影师为她的受伤主体的脸而激动，而受伤主体怨恨那个拿着相机的女人。Judith 在肉铺橱窗的倒影中看到自己分裂成两个人：举起相机的摄影师，以及憎恨镜头对准自己的受伤者。
+
+**关键词：**
+- **the woman split in two**：那个女人分裂成两个人——全章核心意象
+- **the photographer thrilling to her hurt subject's face**：摄影师为她的受伤主体的脸而激动——摄影的快感
+- **the hurt subject resentful of the woman with the camera**：受伤主体怨恨那个拿着相机的女人——受害者的愤恨
+
+**为什么这样写**：Sims 用"split in two"点明全章主题：Judith 的双重身份在此刻达到最深的撕裂。举起相机的摄影师（thrilling to her hurt subject's face）与镜头前的受伤者（resentful of the woman with the camera）同时存在、相互排斥。这是 photographer 与 victim 两个身份的不可调和。
 
 **全章点题**：她看到自己"分裂成两个人"——举起相机的摄影师（thrilling to her hurt subject's face）与镜头前的受伤者（resentful of the woman with the camera）。这不是双胞胎，而是同一个人的两个分裂身份：摄影的快感与被摄的愤恨同时存在、相互排斥。
 

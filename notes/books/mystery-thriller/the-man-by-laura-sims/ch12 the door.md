@@ -33,6 +33,13 @@ Judith 说服 Tom 让她出门，承诺会休息、不去 darkroom。但她"walk
 
 > "I see things but don't feel them. It's too painful to feel them."
 
+**中文理解**：我看见一切，却感受不到任何东西。感受太痛苦了。
+
+**关键词：**
+- **see things but don't feel them**：解离状态的核心表述——身体在场，情感关闭
+
+**为什么这样写**：三个短句构成递进：第一句描述状态，第二句解释原因，第三句强化痛苦程度。句式简单但情感重量极重，用最短的句子承载最深的创伤。
+
 创伤使她进入解离状态：身体在移动，灵魂却缺席。
 
 ### 2. 树林寻人：主动面对恐惧
@@ -43,6 +50,14 @@ Judith 在 reflecting pool 附近决定"try to find him"——这是她第一次
 
 > "Maybe he curls himself into the shape of a rock, or climbs a tree. It sounds ludicrous, but otherwise I can't explain his damned invisibility. And then his damned visibility."
 
+**中文理解**：也许他把自己蜷缩成一块石头的形状，或者爬上树。这听起来荒唐可笑，否则我无法解释他那该死的隐身能力。还有他那该死的现身能力。
+
+**关键词：**
+- **curls himself into the shape of a rock**：将跟踪者非人化的极端想象——他能变成矿物界的一部分
+- **damned invisibility/visibility**：矛盾修辞——他既能消失又能出现，这种矛盾正是 Judith 恐惧的核心
+
+**为什么这样写**：用"ludicrous"主动贬低自己的想象，但随后用"damned"（双重诅咒）保留这个想象的真实重量。她需要荒诞来缓解恐惧，但又无法放弃恐惧本身。
+
 "dark god of some kind"——这是她给他的神话化定位：一个既是 rock 又是 god 的存在，既渺小又无限。
 
 ### 3. Playground 拍照冲突：身份丧失
@@ -51,11 +66,24 @@ Judith 在 reflecting pool 附近决定"try to find him"——这是她第一次
 
 > "Why are you taking pictures of our children?"
 
+**中文理解**：你为什么要拍我们孩子的照片？
+
+**关键词：**
+- **our children**："我们的"孩子——强调群体归属，将 Judith 明确划为外人
+
+**为什么这样写**：这是本章最尖锐的现实碰撞。一句简单的质问将 Judith 推入"他者"的深渊——她不属于"有孩子的母亲"的世界。
+
 这是本章最尖锐的现实碰撞。Judith **forgot that I no longer belong in this world—the world of women with young children**——这句话揭示了她的处境：**她不属于"正常生活"的世界**。一个有相机、没有孩子的女人，在 playground 上是 suspicious intruder。
 
 > "I mumble an embarrassed response and leave quickly through the playground gate. The first woman swings it shut and locks it behind me."
 
-**门被锁上了**——这不是字面的门，而是 Judith 与"正常世界"之间那道打不开的 barrier。她被这个世界的规则清晰地排斥在外。
+**中文理解**：我含糊地尴尬回应，快步从游乐场大门离开。第一个女人把门甩上，锁住了它，把我锁在外面。
+
+**关键词：**
+- **mumble an embarrassed response**：低能量自卫——她无法解释自己，因为解释等于暴露创伤
+- **swings it shut and locks it**：两个动作的连续暴力——门不仅是关上的，还是锁上的
+
+**为什么这样写**：门被锁上了——这不是字面的门，而是 Judith 与"正常世界"之间那道打不开的 barrier。她被这个世界的规则清晰地排斥在外。
 
 ## 心理层次
 

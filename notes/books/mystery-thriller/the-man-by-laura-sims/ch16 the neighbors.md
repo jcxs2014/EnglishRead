@@ -30,11 +30,17 @@ Judith 将九点钟的火车比作"nervous and excited as a child"，但她不�
 
 > "Photographers should have a one-track mind when they're out in the field. Shoot! Shoot! Shoot!"
 
-她 Punches the air——这个肢体动作与课堂笑声赋予 Judith 某种解放感。她告诉自己"I want to obey"，但最初仍有保留，直到她的脚踏上 Penn Station 潮湿的站台：
+**中文理解**：摄影师出门在外时应该有一颗单一的心。拍！拍！拍！
 
 > "With my first breath of Penn Station's humid, tar-heavy air, all hesitation drops away."
 
-城市空气的感官特征（humid, tar-heavy）成为她放下戒备的物理信号。从此刻起，她成为那个 rock in the river——人群围绕她流过，她用镜头捕捉一切。
+**中文理解**：当我吸进宾州站潮湿、沥青般沉重的空气的第一口时，所有犹豫都消失了。
+
+**关键词：**
+- **humid, tar-heavy**：城市空气的感官特征——潮湿、黏稠、工业化
+- **all hesitation drops away**：身体感官先于心理变化——她用呼吸切换状态
+
+**为什么这样写**：城市空气的感官特征（humid, tar-heavy）成为她放下戒备的物理信号。从此刻起，她成为那个 rock in the river——人群围绕她流过，她用镜头捕捉一切。
 
 ### 2. 自拍恐惧：限制背景的挣扎
 
@@ -42,7 +48,13 @@ Judith 将九点钟的火车比作"nervous and excited as a child"，但她不�
 
 > "I know the man could be nearby despite how safe I feel. I turn and look behind me for a long while, checking every male figure and face for him—and finding nothing—but I can't quite take the picture, either, with all that terrible space behind my back."
 
-核心矛盾：她 feel safe，却又 know he could be nearby。背后的"terrible space"是威胁的空间化——她无法同时拥有安全感和创作自由。于是她开始寻找"shots that limit background space"：车镜、橱窗银盘、门廊上的烤面包机。"he can't possibly squeeze into this one"——这是一种强迫性的自我安慰，而"I push forward with growing confidence"和"If he's there, I'll crop him out"则是这种安慰的升级版。她的信心是建筑在否认之上的。
+**中文理解**：我知道那个人可能就在附近，尽管我感觉安全。我转身长久地回头看，检查每一个男性身影和面孔——却什么也没找到——但我也拍不了那张照片，背后那片可怕的空间让我无法按下快门。
+
+**关键词：**
+- **terrible space**：威胁的空间化——背后那片"可怕的空间"是恐惧的隐喻
+- **can't quite take the picture**：安全感和创作自由无法并存
+
+**为什么这样写**：核心矛盾：她 feel safe，却又 know he could be nearby。背后的"terrible space"是威胁的空间化——她无法同时拥有安全感和创作自由。于是她开始寻找"shots that limit background space"：车镜、橱窗银盘、门廊上的烤面包机。"he can't possibly squeeze into this one"——这是一种强迫性的自我安慰，而"I push forward with growing confidence"和"If he's there, I'll crop him out"则是这种安慰的升级版。她的信心是建筑在否认之上的。
 
 ### 3. 祖母追逐：Paul 指令的执行
 
@@ -50,15 +62,30 @@ Judith 拍下一个哭泣的脏脸女孩（"a younger, less desolate version of 
 
 > "Get away, get out of here," she says, like I'm a stray dog.
 
-祖母的出现让 Judith 想起自己的祖母（"large and formidable"），但这个祖母是在保护孙辈——这是 Judith 从未体验过的安全感（她自己的祖母没有保护她）。Judith 拒绝离开并拍下祖母本人，引发了一场追逐：
+**中文理解**："走开，滚出去，"她说道，仿佛我是一只流浪狗。
+
+**关键词：**
+- **like I'm a stray dog**：将 Judith 动物化——她不属于人类社区，是可以被驱逐的存在
+
+**为什么这样写**：祖母的出现让 Judith 想起自己的祖母（"large and formidable"），但这个祖母是在保护孙辈——这是 Judith 从未体验过的安全感（她自己的祖母没有保护她）。Judith 拒绝离开并拍下祖母本人，引发了一场追逐：
 
 > "I turn and run, knowing she can't run far; she'd leave the child behind."
 
-她赢了——不是因为她跑得快，而是因为祖母被孩子束缚。这个逻辑冷酷而准确，揭示 Judith 内心某种愤世嫉俗的残余。而追逐之后她的感受是 exhilarated，尽管她知道"it's somewhat wrong"：
+**中文理解**：我转身就跑，知道她跑不了多远；她会把孩子丢在后面。
 
-> "I've followed Paul's dictum: Shoot! Shoot! Shoot!"
+**关键词：**
+- **she'd leave the child behind**：冷酷的逻辑——祖母被孩子束缚，这是 Judith 获胜的筹码
 
-Paul 的指令在这里与道德边界发生了冲突——Judith 知道这是"somewhat wrong"，但她仍然做了。这说明她的行为已经不再由道德驱动，而是由对那个男人的恐惧和对认可的渴望共同驱动。
+**为什么这样写**：她赢了——不是因为她跑得快，而是因为祖母被孩子束缚。这个逻辑冷酷而准确，揭示 Judith 内心某种愤世嫉俗的残余。而追逐之后她的感受是 exhilarated，尽管她知道"it's somewhat wrong"：
+
+ "I've followed Paul's dictum: Shoot! Shoot! Shoot!"
+
+**中文理解**：我遵循了 Paul 的指令：拍！拍！拍！
+
+**关键词：**
+- **Paul's dictum**：Paul 的命令成为 Judith 行为的背书——即使知道"somewhat wrong"也执行
+
+**为什么这样写**：Paul 的指令在这里与道德边界发生了冲突——Judith 知道这是"somewhat wrong"，但她仍然做了。这说明她的行为已经不再由道德驱动，而是由对那个男人的恐惧和对认可的渴望共同驱动。
 
 ### 4. 人行横道袭击（核心场景）
 
@@ -66,9 +93,13 @@ Paul 的指令在这里与道德边界发生了冲突——Judith 知道这是"s
 
 > "Judith, you're a selfish fucking bitch," he hisses, dropping my arm and striding off before I can see his face, or anything but his hand and the tan sleeve of his jacket."
 
-关键细节：① 他叫了她的**名字**；② 他说这句话时声音"masculine, ageless, smooth"；③ 他在说完之前就离开了——他不需要回应，他要的是恐惧本身；④ Judith 只能看到他的手和袖子，average height 和 short brown hair——一个面目模糊的威胁。
+**中文理解**："Judith，你这个自私的婊子，"他低声说，松开我的手臂，在我看清他的脸之前——只能看到他的手和棕色袖口——就走开了。
 
-这段的心理创伤在于：她说出了她的名字，这打破了"我看不见他，他也不确定是我"的幻想。他知道她是谁，他确定她是 Judith，而且他选择了一个公开场合——人行横道中央——来展示他的知识和权力。
+**关键词：**
+- **he hisses**：低声说——不是大声呼喊，是亲密的侵犯
+- **dropping my arm**：物理接触后迅速撤离——他不要回应，他要的是恐惧本身
+
+**为什么这样写**：关键细节：① 他叫了她的**名字**；② 他说这句话时声音"masculine, ageless, smooth"；③ 他在说完之前就离开了——他不需要回应，他要的是恐惧本身；④ Judith 只能看到他的手和袖子，average height 和 short brown hair——一个面目模糊的威胁。这段的心理创伤在于：她说出了她的名字，这打破了"我看不见他，他也不确定是我"的幻想。他知道她是谁，他确定她是 Judith，而且他选择了一个公开场合——人行横道中央——来展示他的知识和权力。
 
 ### 5. 疼痛发作与陌生人的善意
 
@@ -76,11 +107,23 @@ Judith 的旧痛（可能是腿上的伤疤对应的心理创伤）在公开场�
 
 > "I'm doubled over, gripping the railing in front of a department store, when a man's voice asks, 'Are you all right?'"
 
-这是另一个"man"——但这个男人的声音是"kind, concerned"。他提供帮助，Judith 拒绝：
+**中文理解**：我弯着身子，紧紧抓住一家百货公司门前的栏杆，这时一个男人的声音问道："你还好吗？"
+
+**关键词：**
+- **doubled over**：身体崩溃的姿态——疼痛发作的物理表现
+- **a man's voice**：另一个"man"——但这个声音是"kind, concerned"
+
+**为什么这样写**：这是另一个"man"——但这个男人的声音是"kind, concerned"。他提供帮助，Judith 拒绝：
 
 > "I shake my head. 'I'm fine. Fine.' I straighten up and begin to hobble away despite the pain. I don't thank him, because I can't push out the words."
 
-她无法说谢谢。这个细节揭示了她的孤立程度——即使面对真实的善意，她也失去了社交能力。"I'm fine. Fine."的重复是自我催眠，也是拒绝帮助的最终声明。
+**中文理解**：我摇摇头。"我没事。没事。"我挺直身子，不顾疼痛开始一瘸一拐地走开。我没有谢谢他，因为我无法说出那两个字。
+
+**关键词：**
+- **I'm fine. Fine.**：重复的自我声明——自我催眠，也是拒绝帮助的最终声明
+- **can't push out the words**：她失去了社交能力——即使面对真实的善意
+
+**为什么这样写**：她无法说谢谢。这个细节揭示了她的孤立程度——即使面对真实的善意，她也失去了社交能力。"I'm fine. Fine."的重复是自我催眠，也是拒绝帮助的最终声明。
 
 ### 6. 归途：家的意象
 
@@ -90,7 +133,13 @@ Judith 坐在排屋台阶上，试图回忆那个声音——它在某个"shabby
 
 > "I want freshly vacuumed carpet beneath my feet; I want to see our family photographs on the wall and my small, shining crystal figurines on the shelves. I want curtains to pull across windows, a front door to slam shut and lock."
 
-四个"I want"排比句，每一句都是一个边界——**地面**（脚）、**墙壁**（相框）、**窗户**（窗帘）、**门**（锁）。她的欲望全部指向封闭、隔离、有边界的空间。她对家的渴望与她对自己裸露在外的恐惧直接相关。
+**中文理解**：我想脚下踩着新吸过尘的地毯；我想看墙上的全家福照片，架子上我小小的闪亮水晶雕像。我想拉上窗户的窗帘，想把前门砰地关上并锁好。
+
+**关键词：**
+- **four "I want" 排比**：每一句都是一个边界——地面（脚）、墙壁（相框）、窗户（窗帘）、门（锁）
+- **freshly vacuumed carpet / family photographs / crystal figurines / curtains / front door**：封闭、隔离、有边界的空间意象
+
+**为什么这样写**：四个"I want"排比句，每一句都是一个边界——**地面**（脚）、**墙壁**（相框）、**窗户**（窗帘）、**门**（锁）。她的欲望全部指向封闭、隔离、有边界的空间。她对家的渴望与她对自己裸露在外的恐惧直接相关。
 
 但 Rosie 出现了又消失了——她想念 Rosie，但 Rosie 已经死了，变成了"a pile of bones and moldy flesh"。这个转折令人不寒而栗，因为它展示了 Judith 的创伤如何扭曲她的爱：她想 Rosie，但她无法维持那个温柔的想象。
 
@@ -98,7 +147,13 @@ Judith 坐在排屋台阶上，试图回忆那个声音——它在某个"shabby
 
 > "I lean my forehead against the smudged window, staring out at the wetlands caught between the frantic crush of the city and the orderly green lawns of home."
 
-这片湿地是全章的地理隐喻：**城市与家的中间地带**，既不是疯狂也不是秩序，而是某种过渡空间。Judith 在这里用镜头看到了她无法拍摄的东西。
+**中文理解**：我把额头靠在脏兮兮的窗玻璃上，凝视着那片湿地——它被困在城市疯狂的拥挤和家乡有序的绿色草坪之间。
+
+**关键词：**
+- **wetlands**：地理隐喻——城市与家的中间地带，过渡空间
+- **caught between**：被困在两者之间——她无法属于任何一边
+
+**为什么这样写**：这片湿地是全章的地理隐喻：**城市与家的中间地带**，既不是疯狂也不是秩序，而是某种过渡空间。Judith 在这里用镜头看到了她无法拍摄的东西。
 
 回家路上，她思考的却是"dinner, an upcoming dentist appointment, and the three shirts of Tom's that need ironing tonight"——日常琐事作为防御机制，用来压制创伤。她不想去 darkroom，不想看到那些 vivid images——照片会提醒她那一天发生了什么。
 
@@ -106,7 +161,13 @@ Judith 坐在排屋台阶上，试图回忆那个声音——它在某个"shabby
 
 > "He knows my name. He came and taunted me. Touched me. Said my name."
 
-三个动词的排比——came, taunted, touched, said——最后一个"said my name"是点睛之笔，因为它揭示了 Judith 最深的恐惧不是疼痛，甚至不是被触碰，而是**被认识**。那个男人不是随机袭击者，他认识她。
+**中文理解**：他知道我的名字。他来了，嘲笑我。触碰了我。说出了我的名字。
+
+**关键词：**
+- **four verbs 排比**：came, taunted, touched, said——恐惧的节奏
+- **said my name**：点睛之笔——最深的恐惧是被认识，不是被伤害
+
+**为什么这样写**：三个动词的排比——came, taunted, touched, said——最后一个"said my name"是点睛之笔，因为它揭示了 Judith 最深的恐惧不是疼痛，甚至不是被触碰，而是**被认识**。那个男人不是随机袭击者，他认识她。
 
 ## 心理层次
 

@@ -28,7 +28,12 @@ Judith 在 contact sheet 上发现那个男人——他小到要用 loupe 才能
 
 > "I would recognize him by the sick feeling in my gut, the agonizing twist in my side."
 
-身体反应先于视觉确认：恐惧是一种认知方式。照片中的人小到"几乎不存在"，她试图说服自己这等于"他已经不存在"——但她无法 crop 他，只能带着这个阴影继续生活。
+**中文理解**：我会通过胃里的恶心感和身侧的剧烈疼痛来认出他。
+
+**关键词：**
+- **sick feeling in my gut / agonizing twist in my side**：身体反应先于视觉确认——恐惧是一种认知方式
+
+**为什么这样写**：身体反应先于视觉确认：恐惧是一种认知方式。照片中的人小到"几乎不存在"，她试图说服自己这等于"他已经不存在"——但她无法 crop 他，只能带着这个阴影继续生活。
 
 ### 2. 出门与行走：刀与护身符
 
@@ -42,7 +47,13 @@ Judith 在 contact sheet 上发现那个男人——他小到要用 loupe 才能
 
 > "There is nothing but silence—and then the slow, shallow breathing I heard the other day. I can almost feel the small wind of it in my ear."
 
-她的反应充满矛盾：电话里的呼吸让她 recoil，却也让她"press my ear closer"——恐惧中的病态亲密感。她在呼吸的节奏中开始 lose myself，eyelids drifting down，直到对方摔下电话。
+**中文理解**：什么都没有，只有沉默——然后是那天我听到的缓慢、浅薄的呼吸声。我几乎能感觉到它在我耳边的微弱风声。
+
+**关键词：**
+- **slow, shallow breathing**：跟踪者的声音标志——呼吸成为恐惧的符号
+- **the small wind of it in my ear**：身体化的感知——她用触觉代替听觉
+
+**为什么这样写**：她的反应充满矛盾：电话里的呼吸让她 recoil，却也让她"press my ear closer"——恐惧中的病态亲密感。她在呼吸的节奏中开始 lose myself，eyelids drifting down，直到对方摔下电话。
 
 ### 4. 刀的隐喻：迟到多年的反击
 
@@ -50,7 +61,13 @@ Judith 在 contact sheet 上发现那个男人——他小到要用 loupe 才能
 
 > "It's what I wanted to do all those years ago but couldn't. I lay there and received his harm, and then he vanished."
 
-"Now he is back"——她不再接受，她要反击。刀成为她从被动受害者转为主动防御者的象征。
+**中文理解**：这是那些年前我想做却没能做到的事。我躺在那里承受他的伤害，然后他就消失了。
+
+**关键词：**
+- **I lay there and received his harm**：被动受害的姿态——多年创伤的核心记忆
+- **then he vanished**：侵害者消失，但创伤留了下来
+
+**为什么这样写**："Now he is back"——她不再接受，她要反击。刀成为她从被动受害者转为主动防御者的象征。
 
 ## 心理层次
 

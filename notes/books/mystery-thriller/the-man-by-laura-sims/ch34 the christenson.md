@@ -39,7 +39,7 @@ Judith 想拿相机记录这两名警察：
 ### 3. Tom 的错误叙述：她故事里的她
 
 Tom 向警察讲述事件经过，Judith 旁观：
-> Tom narrates my experience like I'm not here at all, like I'm a picture on the wall or a child at a grown-up party, invisible.
+> **原句 1:** Tom narrates my experience like I'm not here at all, like I'm a picture on the wall or a child at a grown-up party, invisible. I know this feeling—I remember it from back then. When my father sat beside me on the sofa and we faced one officer, not two.
 
 她用"like I'm a picture on the wall"将 Tom 的误读与自己的摄影师身份并置——画中人没有声音，只有被观看。更关键的是 Tom 叙述中的两处错误：
 - "the man in the crosswalk pushed me"（人行道上的男人推了我）
@@ -52,6 +52,15 @@ Tom 向警察讲述事件经过，Judith 旁观：
 Denby 要求更具体的描述，Judith 给出的是极度模糊的信息：
 > "Tall. White. Brown-haired. Maybe…fifties? He's often wearing a hat."
 
+**中文理解**："高。白人。棕发。可能……五十岁左右？他经常戴帽子。" Judith 向警察描述跟踪者，但她的描述极度模糊——她无法说出的是：跟踪者"每次看起来都不同，却又始终是同一个人"。
+
+**关键词：**
+- **Tall. White. Brown-haired**：高。白人。棕发——模糊的身体描述
+- **Maybe…fifties?**：可能……五十岁左右？——不确定性
+- **He's often wearing a hat**：他经常戴帽子——模糊的特征，无法用于识别
+
+**为什么这样写**：Sims 用 Judith 给出的极端模糊描述揭示她对跟踪者的认知困境：每次看起来都不同，却又始终是同一个人。她无法向警察提供任何有用的信息，因为跟踪者的身份本身就是流动的、模糊的。这种模糊描述与 Judith 作为摄影师精确观察的能力形成对比——她在创伤状态下无法正常工作。
+
 她无法说出的是：跟踪者"每次看起来都不同，却又始终是同一个人"。这个矛盾她永远无法向警察解释。
 
 更私密的是她对 Christenson 手部的察觉：
@@ -62,7 +71,7 @@ Denby 要求更具体的描述，Judith 给出的是极度模糊的信息：
 ### 5. 暴力的幻想：刀与软肋
 
 警察离开后，Judith 独自回味"act quickly"这个词：
-> not of police officers rushing to my side, sirens blaring, but of reaching into my purse for the knife and holding the blade to that face I haven't fully seen.
+> **原句 3:** I focus on the phrase act quickly, thinking not of police officers rushing to my side, sirens blaring, but of reaching into my purse for the knife and holding the blade to that face I haven't fully seen. The image fills me with a burning satisfaction—a hunger, even—to do it.
 
 她想象的不是警察来救她，而是自己动手——把刀捅向那个她从未看清的脸，在"下颌那个柔软脆弱的位置"。这个幻想带来"burning satisfaction"和"hunger"。
 
@@ -71,10 +80,30 @@ Denby 要求更具体的描述，Judith 给出的是极度模糊的信息：
 ### 6. "Stay home"：监禁的建议
 
 Denby 最后的建议是让她待在家里，不要独自外出：
-> I don't go out alone, whether it's day or night. Stay home. It's the best way to stay safe.
+> **原句 2:** I don't go out alone, whether it's day or night. Stay home. It's the best way to stay safe. I don't say a word. I just hold his gaze and hope he sees that he's offered us no help, that he's told me to imprison myself so the man can roam free.
+
+**中文理解**："不要独自外出，无论白天还是晚上。待在家里。这是保持安全的最佳方式。" Judith 的内心反应是：让她把自己囚禁起来，让跟踪者逍遥法外。
+
+**关键词：**
+- **Don't go out alone**：不要独自外出——警察的建议变成 Judith 的囚禁
+- **Stay home**：待在家里——安全建议变成了限制自由
+- **the best way to stay safe**：保持安全的最佳方式——讽刺：安全变成囚禁
+
+**为什么这样写**：Sims 用这段对话揭示警察制度的失败：他们的"安全建议"实际上是将 Judith 囚禁起来，让跟踪者逍遥法外。"Stay home"与 Judith 作为摄影师需要外出的本质相矛盾——她需要走出去，但警察的建议让她更加孤立。
 
 Judith 的内心反应：
 > I just hold his gaze and hope he sees that he's offered us no help, that he's told me to imprison myself so the man can roam free.
+
+**中文理解**：我只是保持与他对视，希望他能看到他给我们没有提供任何帮助，他只是告诉我把自己囚禁起来，让那个男人逍遥法外。Judith 清楚这个逻辑的荒谬，但 Tom 也点头同意，这让她更加孤立。
+
+**关键词：**
+- **I just hold his gaze**：我只是保持与他对视——无声的抗议
+- **he's offered us no help**：他给我们没有提供任何帮助—— Judith 清楚警察的建议毫无帮助
+- **imprison myself so the man can roam free**：把自己囚禁起来，让那个男人逍遥法外—— Judith 看穿了这个逻辑的荒谬
+
+**为什么这样写**：Sims 用 Judith 的无声抗议揭示警察制度的失败：他们的"安全建议"实际上是将 Judith 囚禁起来，让跟踪者逍遥法外。Tom 点头同意这个建议让 Judith 更加孤立——她的丈夫也无法理解她。
+
+"imprison myself so the man can roam free"——她清楚这个逻辑的荒谬，但 Tom 也点头同意，这让她更加孤立。
 
 "imprison myself so the man can roam free"——她清楚这个逻辑的荒谬，但 Tom 也点头同意，这让她更加孤立。
 

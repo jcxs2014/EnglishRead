@@ -35,6 +35,15 @@ Paul 的出现打破了她与影像之间的私人对话。他提到 Samantha �
 
 > "They don't say it there," he says, pointing, "but she overdosed, and everyone who knew her knows she did it on purpose."
 
+**中文理解**："那里没有写，"他指着（墙上的文字）说，"但她服药过量了，每个认识她的人都知道她是故意的。" Paul 用这句话向 Judith 透露 Samantha 自杀的真相，语气突然且私密。
+
+**关键词：**
+- **They don't say it there**：那里没有写——官方说法没有提及自杀
+- **she overdosed**：她服药过量了——死因
+- **everyone who knew her knows she did it on purpose**：每个认识她的人都知道她是故意的——强调自杀是故意的
+
+**为什么这样写**：Sims 用这句话揭示 Paul 与 Samantha 之间的关系深度：Paul 强调"everyone who knew her knows"，暗示他对 Samantha 有深入了解。同时"did it on purpose"与前面章节提到的"wasted"形成呼应——Paul 对才华被浪费的执念。
+
 Paul 强调"everyone who knew her knows"——暗示他对 Samantha 有深入了解，两人因共同参展而相识。
 
 ### 3. "Dark magnetism" 与艺术共鸣
@@ -59,9 +68,27 @@ Paul 的反应迅速升级为攻击：
 
 > "It is a waste. It's irresponsible. Selfish, even."
 
+**中文理解**："这是一种浪费。是不负责任。是自私，甚至。" Paul 用"waste"、"irresponsible"和"selfish"三个词攻击 Judith 拒绝公开展示照片的决定。这三个词与第一章中跟踪者骂 Judith 的"selfish fucking bitch"形成呼应。
+
+**关键词：**
+- **It is a waste**：这是一种浪费——Paul 认为 Judith 的才华被浪费
+- **It's irresponsible**：是不负责任的——对 Judith 选择的道德判断
+- **Selfish, even**：是自私的，甚至——与跟踪者使用的"selfish fucking bitch"形成呼应
+
+**为什么这样写**：Sims 用 Paul 的话与跟踪者的语言形成对应——"selfish"和"waste"两个词在两个场景中出现，揭示 Judith 周围的男性用相似的语言来攻击她。这种语言的巧合（或必然）揭示了 Judith 周围的男性暴力模式。
+
 他最后的话——"selfish, even"和"fucking waste"——与第一章中跟踪者的污名化语言形成对应。Judith 将 Paul 与那个男人进行比较：
 
 > It burns like the man saying selfish fucking bitch, his rough hand gripping my arm.
+
+**中文理解**：它（Paul 的话）像那个男人说"selfish fucking bitch"一样灼烧我，他的粗手紧紧抓着我的手臂。Judith 将 Paul 的语言暴力与跟踪者的身体攻击进行对比——两者都同样灼烧她。
+
+**关键词：**
+- **It burns**：它灼烧——Paul 的话语像物理灼烧一样伤害 Judith
+- **the man saying selfish fucking bitch**：那个男人说"selfish fucking bitch"——跟踪者的污名化语言
+- **his rough hand gripping my arm**：他粗手紧紧抓着我的手臂——跟踪者身体攻击的记忆
+
+**为什么这样写**：Sims 用"burns"这个动词连接 Paul 的语言暴力与跟踪者的身体攻击——Judith 将两者同等对待。"selfish"和"waste"两个词在两个场景中出现，揭示 Judith 周围的男性用相似的语言来攻击她。这种语言的巧合揭示 Judith 周围的男性暴力模式。
 
 ### 6. 身体接触与逃离
 

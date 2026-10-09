@@ -26,7 +26,16 @@ Paul 在摄影课上翻看 Judith 的作品集——一组室内场景与静物�
 
 开篇 Paul 安静地翻看 Judith 的照片，Judith 描述自己"like a schoolgirl—like one of his fangirls"站在那里等待评价。这个自我比喻暴露了她的姿态：面对权威的仰视、等待被评判的紧张。
 
-> I watch him pause at certain ones and wonder what they are. I stand there, fidgeting like a schoolgirl—like one of his fangirls.
+> **原句 3:** I watch him pause at certain ones and wonder what they are. I stand there, fidgeting like a schoolgirl—like one of his fangirls.
+
+**中文理解**：我看着他停在某些照片前，想知道它们是什么。我站在那里，像个女学生一样坐立不安——像他的一个粉丝女孩。Judith 用"fangirls"形容自己面对 Paul 时的紧张姿态。
+
+**关键词：**
+- **pause at certain ones**：停在某些照片前——Paul 对 Judith 照片的具体反应
+- **fidgeting**：坐立不安——紧张的身体语言
+- **fangirls**：粉丝女孩——对 Paul 的偶像化关注，暗示 Judith 对老师的特殊情感
+
+**为什么这样写**：Sims 用"schoolgirl"和"fangirls"两个词揭示 Judith 在面对权威（Paul）时的姿态：仰视、等待被评判。同时"fangirls"暗示 Judith 对 Paul 的关注可能超越了普通的师生关系——她对他的关注有一种偶像化的成分。
 
 "fangirls"一词既是自嘲，也暗示 Paul 对她而言不仅是老师——她对他的关注有一种偶像化的成分。
 
@@ -34,7 +43,7 @@ Paul 在摄影课上翻看 Judith 的作品集——一组室内场景与静物�
 
 Paul 给出了看似矛盾的反馈：既说没想到看到的是室内静物，又说"我其实很想念你的自拍，但我没看到它们却感到惊讶"。Paul 真正想说的是：
 
-> I can still feel them, you know? Feel the weight of the house and the life of these things, and your life inside all of it.
+> **原句 1:** I can still feel them, you know? Feel the weight of the house and the life of these things, and your life inside all of it.
 
 这句话的诡异之处在于：他感受到的是"房子的重量"、"东西的生命"、"她的生活在其中"——但他不需要她本人在场就能感受这一切。"I could be…a desk, or the fine point of his sharpened pencil, or nothing at all"——Judith 意识到自己在 Paul's眼中可以被物取代。
 
@@ -46,7 +55,16 @@ Judith 说她"I purposely avoided taking self-portraits"，Paul 却说"You've go
 
 Paul 再次建议 Judith"回城里"，认为这会推动她的进步。但 Judith 撒谎说"I’ve had to stay close to home"——她被困住了，而 Paul 并不知道（或假装不知道）原因。
 
-> "I see," is all he says, and I can sense him studying me, studying my face and the way my hands clench together at my waist, smothering the truth between them.
+> **原句 2:** "I see," is all he says, and I can sense him studying me, studying my face and the way my hands clench together at my waist, smothering the truth between them.
+
+**中文理解**："我明白了，"他只说了这么一句，我能感觉到他在研究我——研究我的脸，还有我双手在腰间攥在一起的方式，把真相闷死在它们之间。Paul 的"studying"既指研究照片，也指审视 Judith 本人；而 Judith 双手攥在一起的动作是她撒谎时的身体泄露。
+
+**关键词：**
+- **studying me**：研究我——Paul 在审视 Judith 本人
+- **my hands clench together at my waist**：我双手在腰间攥在一起—— Judith 说谎时的身体反应
+- **smothering the truth between them**：把真相闷死在它们之间——双手攥在一起的动作是真相被压抑的隐喻
+
+**为什么这样写**：Sims 用"studying"的重复制造双重含义：Paul 在"研究"她的照片，同时也在"审视"她这个人。而 Judith 双手攥在一起的动作是她说谎时的身体泄露——真相被"闷死"在双手之间。这个细节揭示两人之间微妙的权力博弈：他在观看，她在隐藏。
 
 "Studying me"与"studying my photographs"形成对照——Paul 既研究她的照片，也研究她本人；她则在照片与身体两个层面同时被观看、被评判。
 
