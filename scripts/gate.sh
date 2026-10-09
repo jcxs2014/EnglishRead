@@ -153,7 +153,7 @@ for f in sorted(glob.glob(f"{book}/ch*.md"), key=lambda x: int(re.search(r"ch(\d
     #    the-passing-of-the-dragon-by-ken-liu/ch01），而 check_entities 早在
     #    2026-09-27 就补过这一档，**gate.sh 这一处漏了** ⇒ nav 恒 None ⇒ 0 条 ⇒ 全量假红。
     #    修法与本段上方「两档节名都认」同一原则：**三档节名都认**。
-    for nsec in ("本章导航", "概览", "本篇导航"):
+    for nsec in ("本章导航", "概览", "本篇导航", "导航/概览", "导航"):
         nav = re.search(rf"^## {nsec}[ \t]*\n(.*?)(?=\n## |\Z)", txt, re.M | re.S)
         if nav:
             break
@@ -175,10 +175,22 @@ for f in sorted(glob.glob(f"{book}/ch*.md"), key=lambda x: int(re.search(r"ch(\d
     #   而本库推荐的导航层分隔符是 `·`（check_vocab 明确建议「概述/导航层避免用 | ，改用 ·」）
     #   ⇒ 用 ` · ` 分隔且内容完好的导航被判「粗体项 2 条 < 4」。
     #   这与本段上方「只判项数与正文、不锁死标签措辞」同一原则：**分隔符也不该锁**。
-    items = re.findall(r"(?m)^[-*]?\s*\*\*([^*]+)\*\*\s*(?:[：:]|·|—|–)\s*(\S.*)$",
-                       nav.group(1)) if nav else []
+    # ⚠️ 2026-10-08 新增（The Man ch07/ch73 等实测）：
+    #   本库同时存在两种导航项格式：
+    #   Format A: **key**：value —— 分隔符（：）在 bold 外；ch05 等多数章节
+    #   Format B: **key：** value —— 分隔符在 bold 内；ch07 等
+    #   原模式只匹配 Format A，Format B 恒 0 条 ⇒ 53 章假红。
+    #   新代码跑两个 pattern 并合并结果。
+    if nav:
+        txt = nav.group(1)
+        # Format A: **key**：value (separator outside bold)
+        items = re.findall(r"(?m)^[-*]?\s*\*\*([^*：]+)\*\*\s*(?:[：:]|\u00b7|\u2014|\u2013)\s*(\S.+)$", txt)
+        # Format B: **key：** value (separator inside bold)
+        items += re.findall(r"(?m)^[-*]?\s*\*\*([^*：：]+[：:])\*\*\s+(\S.+)$", txt)
+    else:
+        items = []
     if len(items) < 4:
-        print(f"❌ {n}: 导航/概览 粗体项 {len(items)} 条 < 4（缺项或写法不匹配 `**X**：`）")
+        print(f"❌ {n}: 导航/概览 粗体项 {len(items)} 条 < 4（缺项或两种写法 `**key**：value` / `**key：** value` 均不匹配）")
         bad += 1
     for k, v in items:
         if not v.strip():

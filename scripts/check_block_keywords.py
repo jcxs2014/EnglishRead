@@ -43,11 +43,14 @@ import re
 import sys
 from pathlib import Path
 
+# ⚠️ 2026-10-08 同步 verify_quotes.py 修复：原模式用 `：** ` 结尾要求引语头后必须有空格，
+# 而 ch65 等章节格式是 `：**`（无空格）后接引语正文。
+# 新模式允许 `：**`（无空格）或 `：** content`（有空格）两种形态。
 QUOTE_RE = re.compile(r'^> \*\*原句 (\d+)[：:]\*\* "(.*)"$', re.M)
-BLOCK_RE = re.compile(r'^> \*\*原句 (\d+)[：:]\*\* ', re.M)
+BLOCK_RE = re.compile(r'^> \*\*原句 (\d+)[：:]\*\*', re.M)
 # ⚠️ 2026-10-01 新增：编号 + 引语头的整体迭代器。编号、引语、关键词三者必须同源切分，
 # 否则切块与取号口径不一致会让 zip() 错位（详见 check() 内注释）。
-BLOCK_ITER = re.compile(r'^> \*\*原句 (\d+)[：:]\*\* (.*)$', re.M)
+BLOCK_ITER = re.compile(r'^> \*\*原句 (\d+)[：:]\*\*\s*(.*)$', re.M)
 # ⚠️ 2026-10-04 新增：短篇合集档用**裸圈码** `① "…"` 作引语块头（本库短篇合集
 # 体裁对应格式表＝逐篇精读 10 处五子项，与长篇精简档的 `> **原句 N:**` 不是一套）。
 # 而本工具三张正则只认 `原句 N:` ⇒ 圈码书 nq 恒 0 ⇒ 走到「未找到任何引语块」就 return，
@@ -291,7 +294,11 @@ def _echoed(kw: str, block: str) -> bool:
 
 def _join_quote_lines(body: str, block: str):
     """把引用块内换行书写的引语续行并入首行，返回 (完整引语串, 是否并到了续行)。"""
-    parts = [body.strip()]
+    # body 来自 BLOCK_ITER group(2)：对于 `> **原句 1：**\n> I spot...` 这样的 header，
+    # group(2) 捕获的是 `**` 之后的内容，即 `\n> I spot...`。
+    # `body.strip()` 后剩余开头 `>`（block quote 标记），需要去掉。
+    first = body.lstrip(">").strip()
+    parts = [first]
     for ln in block.split("\n"):
         raw = ln.strip()
         if raw in ("", ">"):
@@ -443,8 +450,15 @@ def check(md: Path, book: Path):
 
     for m in _iter.finditer(s):
         num, body = m.group(1), m.group(2)
-        # body 到下一个引语块头（或文件末）为止
-        block = s[m.end(): _next_head(m.end())]
+        # BLOCK_ITER 的 $ 在 MULTILINE 模式下匹配到**内容行末尾**而非 header 行末尾，
+        # 导致 m.end() 落在 quote 行末尾而非 header 行末尾。
+        # 上一版用 `header_end = s.find("\n", m.start()) + 1` 定位到 quote 行开头，
+        # 但 block.split("\n") 的第一行正好是 quote 行本身 ⇒ `_join_quote_lines`
+        # 把 quote 行当作"续行"再处理一遍，导致 quote 被拼接两次（775 = 2×387）。
+        # 正确：block 从 quote 行**之后**开始（即 quote 行末的 \n 之后）。
+        header_nl = s.find("\n", m.start()) + 1        # position of \n after header line
+        quote_end = m.end()                            # position past last char of quote line
+        block = s[quote_end: _next_head(quote_end)]
         q, q_multi = _join_quote_lines(body, block)
         # ⚠️ 2026-10-02 修正（Bird of a Thousand Stories 终验实测，ch18 原句5 假红）：
         # 本库**同一批书**里存在两种写法 —— `> **原句 1[：:]\*\* "…"` 与
