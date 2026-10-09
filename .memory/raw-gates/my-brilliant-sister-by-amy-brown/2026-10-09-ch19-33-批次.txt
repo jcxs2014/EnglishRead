@@ -1,0 +1,63 @@
+=== [2026-10-09] ch19-ch33 批次门禁原始输出（子代理产出） ===
+--- verify_quotes ---
+ch20 to absorb.md: 6/6 ✅
+ch21 to sister.md: 6/6 ✅
+ch22 i remember i remember.md: 6/6 ✅
+ch23 a lifeless life.md: 6/6 ✅
+ch24 your career.md: 6/6 ✅
+ch25 disjointed sketches.md: 6/6 ✅
+ch26 revolt.md: 6/6 ✅
+ch27 a rose without its thorns.md: 6/6 ✅
+ch28 stillwater left behind.md: 6/6 ✅
+ch29 mother's recipe.md: 6/6 ✅
+ch30 charlie graham.md: 6/6 ✅
+ch31 yah.md: 6/6 ✅
+ch32 grand passions.md: 6/6 ✅
+ch33 he.md: 6/6 ✅
+
+⚠️ 全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 194/194 引文可核实（100%）；完全干净文件 33/33；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- check_short_quotes ---
+=== 短引语兜底核对（my-brilliant-sister-by-amy-brown）===
+  verify_quotes 跳过（<20 flat 字符）的引语：3 条 —— 这些主门禁**根本没查**
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+--- check_vocab ---
+  ch21 to sister.md [基础] 基础档疑含超纲词「complicated respect」
+  ch23 a lifeless life.md [基础] 基础档疑含超纲词「crossroad」
+  ch25 disjointed sketches.md [基础] 基础档疑含超纲词「deduction」
+  ch26 revolt.md [基础] 基础档疑含超纲词「celebratory dinner」
+  ch27 a rose without its thorns.md [基础] 基础档疑含超纲词「journalist」
+  ch28 stillwater left behind.md [基础] 基础档疑含超纲词「concession」
+  ch30 charlie graham.md [基础] 基础档疑含超纲词「companion」
+  ch31 yah.md [基础] 基础档疑含超纲词「blackberry plant」
+  ch32 grand passions.md [基础] 基础档疑含超纲词「companion」
+  ch32 grand passions.md [基础] 基础档疑含超纲词「gratitude」
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- check_chapter_quotes ---
+⚠️  全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 194，命中本章 194（100%）
+✅ 全部引语均归属正确章节
+--- audit_structure ---
+=== 精读结构扫描（my-brilliant-sister-by-amy-brown）===
+  扫 33 个 md、197 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+--- check_anchor ---
+  参照集：text/（72 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 1 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 松散关键词明细 ──
+     ch03 to mother.md:65  关键词「她活在对未来的排练里，却无法行动。这解释了为什么她痴迷于 Franklin 的传」的「franklin」在全书有、本块无
+--- corruption_scan ---
+
+=== 编辑损坏扫描（my-brilliant-sister-by-amy-brown）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+--- sweep_full ---
+=== 引语整串 flat 比对（my-brilliant-sister-by-amy-brown）===
+  参照集：text/ 逐章（72 章，可定章） + epub 交叉验证
+  ✅ 本章命中 194 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 3 条归 check_short_quotes；无章可对 0 条未判）
