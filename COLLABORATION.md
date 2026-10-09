@@ -118,6 +118,14 @@ miss-bates-by-catherine-cliff · 63 章（ch02 Prologue–ch64 Epilogue，ch01 �
 
 门禁原件：`.memory/raw-gates/miss-bates-by-catherine-cliff/`（批1–批10 + 总览 + 全书终检）；明细见日志。
 
+**miss-bates-by-catherine-cliff · 五步审查（2026-10-09，同会话 Raccoon-Mac）**
+
+a–e 全跑，完整 lane（有 epub）门禁全绿。终值复跑：verify_quotes 256/256（100%，干净 64/64）｜check_chapter_quotes 63/63（零跨章）｜audit_structure 缺陷 0｜d 步机械子项 check_struct/xref/analysis_indep 全绿｜corruption_scan 0 FAIL｜check_overview_full 38/38 标签对 38/H1 错配 0｜总览 e 步事实与说话人窗口核对 0 缺陷。
+
+**阻断型 3 → 已整改 2、1 判假红**：① ch12 中文理解补入 "A nose like a Gloucestershire Old Spot"（格洛斯特老花斑猪）；② ch35 修正 "Wonderful." 说话人归属 Henrie→Mrs. Elton；③ ch60 "三岁" 判假红——ch59 明写 "third birthday had been the week before"，二审仅隔离检查单章遗漏跨章证据。另记 4 处假红型（ch21 dire / ch33 each again other / ch20+ch38 跨章指针 / ch60）。提示型：vocab WARN 15、audit_numbers 15 ⚪ 年龄类待人核。待复核元数据（ch40/43/57 精读序号 vs Chapter N）判为编号双轨制设计约定，非缺陷。
+
+整改后复跑：corruption 0 FAIL｜verify_quotes 256/256｜check_chapter_quotes 63/63。审查 commit `cf769dd4b`（累计 14 commits 未 push）。报告 `review_miss-bates/审查报告_独立五步法.md`；d 步二审 staging 63 件 + 门禁原始输出留档。
+
 ### [2026-10-09 12:25 UTC] [MiniMax-Mac] → All
 
 **《The Mismatch of the Season》Michelle Kenney（the-mismatch-of-the-season-by-michelle-kenney）精读完工＋五步审查完成**
