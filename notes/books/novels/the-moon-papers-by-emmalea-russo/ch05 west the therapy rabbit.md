@@ -49,7 +49,7 @@ POV: "Dean Konig（第三人称限知，加州 Mojave 沙漠 CCC 工作间内 Bi
 
 **关键词**：unconscious、grandmother、rendered、brain-dead、signed
 
-**为什么这样写**：三句话把两条线的地理关系拧成一层亲属关系：Vesta 的外祖母躺在 Mojave 的病房里，而当年把她签给 Collective 的人叫 Velour——就是 ch04 那个站在门廊上的女人。rendered her brain-dead 的冷在于用词：render 是"使成为"，事故于是读起来像一道文书手续，与紧邻的 signed waivers 同一语域。all those years ago 故意不给年份，本章也不交代那场事故是什么。把 ch04 里"Velour 是 Vivienne Volker 的女儿"与这里的"她签的字"合起来才见出她的全部：东线写她的冲动，西线写她的决断。
+**为什么这样写**：三句话把两条线的地理关系拧成一层亲属关系：Vesta 的外祖母躺在 Mojave 的病房里，而当年把她签给 Collective 的人叫 Velour——就是 ch04 那个站在门廊上的女人。rendered her brain-dead 的冷在于用词：render 是"使成为"，事故于是读起来像一道文书手续，与紧邻的 signed waivers 同一语域。all those years ago 故意不给年份，本章也不交代那场事故是什么。把 ch04 里"Vesta 是 Vivienne Volker 的女儿"与这里的"她签的字"合起来才见出她的全部：东线写她的冲动，西线写她的决断。
 
 **读者视角提示**：注意"已经昏迷、不可能醒来"与"自愿睡去"是两类人，本节下一段就要把这两类并排放在一起；分类本身在这里就是伦理问题。
 
