@@ -8,10 +8,10 @@ modified: "2026-10-08"
 ## 本章导航
 
 - **一句话概括**：周六 Elsie 从昨晚的余波里恍惚醒来——她和 Jack 做了些高中生都不会算"第一垒"的事，却被彻底改变了；Cece 用 Nosferatu 电影梗打趣她脖子上的痕迹，妈妈继续用兄弟打架操控她，她第一次想象"让生活围绕我想要什么"。晚上 Greg 请客晚餐，Elsie 用"诚实"主动发消息"我想今晚留下来"，误送一瓶"Ménage à Trois"红酒闹笑话；三人的晚餐温馨得像家常，回家后 Jack 却在床上温柔地让她睡觉，而不是做爱——用一段关于"你不是不值得被爱"的诊断，把全书主题推向最温柔的一章。
-- **情感弧线位置**：**确认 / 余温**——接 ch19 的首次亲密，本章没有实质性的性，只有陪伴与对话。标题 "Falling Bodies"（下落物体）呼应物理术语，也象征两人都在"坠落"——互相承认、互相依赖，而不再假装只是"casual fun"。
+- **情感弧线位置**：**确认 / 余温**——接 ch20 的首次亲密，本章没有实质性的性，只有陪伴与对话。标题 "Falling Bodies"（下落物体）呼应物理术语，也象征两人都在"坠落"——互相承认、互相依赖，而不再假装只是"casual fun"。
 - **Tropes 兑现/反转**：兑现「**主动诚实**」——Elsie 第一次用 Jack 教她的方式主动提出"我想留下来过夜"；反转「**上床的期待**」——读者（和 Elsie 自己）都以为会做爱，Jack 却温柔地让她睡觉，把"爱"从性欲重新定义为安全感；兑现「**互相示爱**」——两人同时承认"我想你""你有没有想过让我搬来住"。
 - **人物弧线**：Elsie 从"讨好型被动"第一次主动表达欲望与需求（"I'd like to spend the night"）；她也第一次开始"用家庭之外的视角"看待自己（"让生活围绕我想要什么"）。Jack 则把全书"诚实规则"推向最深一层——他诊断出 Elsie 自我价值的内在谎言（"你的大脑决定你不值得别人的时间"），并承诺"我会证明给你看"。
-- **叙事手法**：本章用「余波恍惚 → 主动出击 → 家庭温馨 → 温柔夜话」四段温度曲线，把 ch19 的热烈降下来，变成一种日常的、安静的亲密。结尾"数到二十"的段落是全章最精彩的温柔——Jack 用玩笑（"It's a kink I have"）包裹真实的关爱，让 Elsie 在安全感里入睡，与 ch19 结尾"对我温柔一点"形成首尾呼应。
+- **叙事手法**：本章用「余波恍惚 → 主动出击 → 家庭温馨 → 温柔夜话」四段温度曲线，把 ch20 的热烈降下来，变成一种日常的、安静的亲密。结尾"数到二十"的段落是全章最精彩的温柔——Jack 用玩笑（"It's a kink I have"）包裹真实的关爱，让 Elsie 在安全感里入睡，与 ch19 结尾"对我温柔一点"形成首尾呼应。
 
 ## 精读
 
@@ -20,7 +20,7 @@ modified: "2026-10-08"
 - **中文理解**：我在房间里小心翼翼地走动，眼神游离，双手在动作中停住，就像我想不起自己打开衣柜是为了什么，记不清要怎么挤牙膏才能挤出合适的量。这是第一次。我感觉到某种范式的转变在我体内发生了，但我无法解释它。
 - **关键词**：I shuffle around my room gingerly（我在房间里小心翼翼地走动）／distant stares and hands stopping midaction（眼神游离、双手在动作中停住）／paradigmatic shift has happened within me（某种范式转变在我体内发生了）／but I cannot justify it（但我无法解释它）
 - **为什么这样写**：这是全书对"第一次亲密之后"最精准的心理描写。作者没有写"她很高兴"或"她恋爱了"，而是写她的**身体先于认知做出了反应**——'shuffle'（拖着脚步）'gingerly'（小心翼翼）'hands stopping midaction'（手停在半空）都是她失去正常生活节奏的信号。'paradigmatic shift' 是物理学/科学术语（范式转变，库恩的概念），作者把它用在 Elsie 的内心体验上，既是她科学家身份的自然表达，也精准点出这次经历对她而言不是"恋爱"而是"自我认知的范式颠覆"。'but I cannot justify it' 是全段关键——她**知道**变了，却**无法用逻辑解释**，这打破了 Elsie 长期"用理性分析一切"的防御机制，是全书主题"诚实"的第一次胜利：承认自己无法控制的感受，本身就是一种诚实。
-- **读者视角提示**：读者第一次看到 Elsie 不再"分析 Jack"，而是"无法分析自己"；这个"不可解释的转变"正是 ch19 亲密场景真正的后果——不是身体，而是她看待自己的方式开始改变。
+- **读者视角提示**：读者第一次看到 Elsie 不再"分析 Jack"，而是"无法分析自己"；这个"不可解释的转变"正是 ch20 亲密场景真正的后果——不是身体，而是她看待自己的方式开始改变。
 
 > **原句 2:** I think of the word honesty a lot before adding: ELSIE: I'd like to spend the night afterwards.
 
@@ -33,7 +33,7 @@ modified: "2026-10-08"
 
 - **中文理解**："我今天去学校想完成工作。结果我一直在想，如果我请你搬来住，那会有多疯狂。"
 - **关键词**：I went to campus today to get work done（我今天去学校想完成工作）／Instead I kept wondering（结果我一直在想）／how buck wild it would be（那会有多疯狂）／if I asked you to move in（如果我请你搬来住）
-- **为什么这样写**：这是 Jack 第一次**主动**提出一个远超"刚恋爱"范围的承诺——"move in"（搬来住）。'Instead I kept wondering' 用 "Instead" 制造反转：他去学校是要"get work done"，结果满脑子想的都是她，这是 Jack 一贯"理性"人设被感情击穿的瞬间。'how buck wild it would be' 用 "buck wild"（口语，极度疯狂）这种非常规的街头俚语，是作者刻意为 Jack 加的一句出格的话——他向来措辞严谨、逻辑严密，这句俚语暴露他内心的失控感。而这段话所在的对话语境同样关键：Elsie 追问 "Have you ever . . . ?"，他答 "Nope. Total first."（完全没有，完全是第一次）——两人都意识到这份感情超出了他们的预设；随后他直视她说 "I think we both know what"（我们俩都知道怎么了），是全书 Jack 最直白的承认。Elsie 嘴上回 "No."，身体却已经承认——他给她那个"reserved for when we both know I'm lying"的眼神，正是两人之间"诚实规则"的现场运用。
+- **为什么这样写**：这是 Jack 第一次**主动**提出一个远超"刚恋爱"范围的承诺——"move in"（搬来住）。'Instead I kept wondering' 用 "Instead" 制造反转：他去学校是要"get work done"，结果满脑子想的都是她，这是 Jack 一贯"理性"人设被感情击穿的瞬间。'how buck wild it would be' 用 "buck wild"（口语，极度疯狂）这种非常规的街头俚语，是作者刻意为 Jack 加的一句出格的话——他向来措辞严谨、逻辑严密，这句俚语暴露他内心的失控感。而这段话所在的对话语境同样关键：Elsie 追问 "Have you ever . . . ?"，他答 "Nope. Total first."（完全没有，完全是第一次）——两人都意识到这份感情超出了他们的预设；随后他直视她说 "I think we both know what"（我们俩都知道怎么了），是全书 Jack 最直白的承认。Elsie 嘴上回 "No."，身体却已经承认——他给她那个"the one he reserves for when we both know I'm lying"的眼神，正是两人之间"诚实规则"的现场运用。
 - **读者视角提示**：读者在这里看到 Jack 从"边界男"转为"主动求婚者"（搬来住的提议），他不再用规则保护自己，而是第一次把脆弱摊开；那句 "I think we both know what" 是全书 Jack 最直白的承认，为后续情节铺平道路。
 
 > **原句 4:** "This is . . . easy," I tell Jack when Greg gets a late-night work call. He's washing the dishes; I dry. "What is?" "Just . . ." I stare at his soapy fingers. "This. The three of us. I thought it'd be weird, but . . ." It's not.
@@ -54,7 +54,7 @@ modified: "2026-10-08"
 
 - **中文理解**：他的呼吸在我耳边平稳柔和。我又暖又安全，只数到十三就沉入了梦乡。
 - **关键词**：His breath is a soft, steady rhythm under my ear（他的呼吸在我耳边平稳柔和）／I'm warm and safe（我又暖又安全）／I get only to thirteen（只数到十三）／before I'm lost to the world（就沉入了梦乡）
-- **为什么这样写**：这是全书最温柔的收束之一，也是对 ch19 结尾"Be gentle with me, Elsie"的完美呼应。它所在的对话语境是全章最精彩的段落：Elsie 喊 "We should be having all the sex"（我们应该做全套），读者（和 Elsie）都以为会做爱，Jack 却说 "just close your eyes and be silent for twenty seconds"，用一句玩笑 "It's a kink I have"（这是我的小癖好）把"睡觉"包装成"性癖"，既化解了 Elsie 的期待落空，又不让她感到被拒绝。'You perv.' / 'What happened to anal play and bondage?' 两段 Elsie 的玩笑，既展现她已经敢在 Jack 面前开玩笑（不再是拘谨的讨好者），也用色情话题**反衬**Jack 的克制。'We'll get there. Are your eyes closed?' 是 Jack 的承诺——"我们会到那一步"，暗示他相信未来，但**当下**最重要。而收束句本身更妙：'His breath is a soft, steady rhythm under my ear' 用听觉细节写陪伴，'I'm warm and safe' 是全书 Elsie 第一次直白承认"安全"——对一个习惯了"有用才值得被留下"的人来说，这五个字是最大的转变。'I get only to thirteen before I'm lost to the world'——她没能数到二十就睡着了，这个"十三"既写出她的疲惫，也写出她在 Jack 身边的安全感已经强到不需要"撑"到数完。全段没有性，却比任何性场景都亲密：这是**被爱的安全感**。
+- **为什么这样写**：这是全书最温柔的收束之一，也是对 ch20 结尾"Be gentle with me, Elsie"的完美呼应。它所在的对话语境是全章最精彩的段落：Elsie 喊 "We should be having all the sex"（我们应该做全套），读者（和 Elsie）都以为会做爱，Jack 却说 "just close your eyes and be silent for twenty seconds"，用一句玩笑 "It's a kink I have"（这是我的小癖好）把"睡觉"包装成"性癖"，既化解了 Elsie 的期待落空，又不让她感到被拒绝。'You perv.' / 'What happened to anal play and bondage?' 两段 Elsie 的玩笑，既展现她已经敢在 Jack 面前开玩笑（不再是拘谨的讨好者），也用色情话题**反衬**Jack 的克制。'We'll get there. Are your eyes closed?' 是 Jack 的承诺——"我们会到那一步"，暗示他相信未来，但**当下**最重要。而收束句本身更妙：'His breath is a soft, steady rhythm under my ear' 用听觉细节写陪伴，'I'm warm and safe' 是全书 Elsie 第一次直白承认"安全"——对一个习惯了"有用才值得被留下"的人来说，这五个字是最大的转变。'I get only to thirteen before I'm lost to the world'——她没能数到二十就睡着了，这个"十三"既写出她的疲惫，也写出她在 Jack 身边的安全感已经强到不需要"撑"到数完。全段没有性，却比任何性场景都亲密：这是**被爱的安全感**。
 - **读者视角提示**：读者在这里看到 Jack 把"爱"从性欲重新定义为安全感——他宁愿让 Elsie 睡着也不愿利用她的疲惫；那句"只数到十三"是全章最动人的细节，写出她终于能在一个人身边毫无防备地入睡。
 
 ## 本章词汇

@@ -20,7 +20,7 @@ modified: "2026-10-09"
 - **中文理解**："……大多数时候我真的、真心相信他看见的是真实的我，但有时候会有这种吓僵了的恐惧，"我对 Jada 解释，"觉得也许他没有。也许他犯了个错？也许他会改变主意？也许存在什么一票否决项，而他正处在发现它的几天、几秒钟之前？"
 - **中文理解修正**："……大多数时候我真的、真心相信他看见的是真实的我，但有时候会有这种吓僵了的恐惧，"我对 Jada 解释，"觉得也许他没有。也许他犯了个错？也许他会改变主意？也许存在什么一票否决项，而他正处在发现它的几天、几秒钟之前？"
 - **关键词**：he sees me for what I am（他看见的是真实的我）／petrifying fear（吓僵了的恐惧）／a deal breaker, and he's days, seconds away from discovering it（一票否决项，他正处在发现它的几天、几秒钟之前）
-- **为什么这样写**：治疗室一场戏是全书恐惧的最后一层解剖。'he sees me for what I am' 与 ch19 "scared to be seen" 首尾呼应：她终于被看见，却开始害怕"被看见"是错觉。四个 'Maybe' 的排比是焦虑的标准语法——每个"也许"都在把幸福推迟到下一个检验点。'petrifying fear' 用石化写恐惧：不是剧烈的，而是僵住的那种；'days, seconds away from discovering it' 的时间刻度是焦虑的常态——灾难永远"只差一点"。作者让这场戏发生在治疗室而不是与 Jack 的对话里，正是健康关系的样子：**不安全感先在专业人士那里处理，再带回去沟通**——她当年因为 copay 太贵没再去的治疗，现在负担得起，这本身就是弧线的成果。
+- **为什么这样写**：治疗室一场戏是全书恐惧的最后一层解剖。'he sees me for what I am' 与 ch24 "how scared I am to be seen" 首尾呼应：她终于被看见，却开始害怕"被看见"是错觉。四个 'Maybe' 的排比是焦虑的标准语法——每个"也许"都在把幸福推迟到下一个检验点。'petrifying fear' 用石化写恐惧：不是剧烈的，而是僵住的那种；'days, seconds away from discovering it' 的时间刻度是焦虑的常态——灾难永远"只差一点"。作者让这场戏发生在治疗室而不是与 Jack 的对话里，正是健康关系的样子：**不安全感先在专业人士那里处理，再带回去沟通**——她当年因为 copay 太贵没再去的治疗，现在负担得起，这本身就是弧线的成果。
 - **读者视角提示**：读者会注意到她的恐惧已经变形：从"真话会让人离开"变成"也许他会发现什么"——内容变了，机制还是那个；而 Jada 的回应（"We articulate our insecurities to our partner"）正是全书诚实规则的教科书式表述。
 
 > **原句 2:** I sigh. “We articulate our insecurities to our partner and listen to their answer.”

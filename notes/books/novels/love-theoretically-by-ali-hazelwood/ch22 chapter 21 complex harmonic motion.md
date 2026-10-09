@@ -47,7 +47,7 @@ modified: "2026-10-08"
 
 - **中文理解**：为自己的享受而担心，这很新鲜。我正模模糊糊地发着呆琢磨这件事，某件事发生了变化。
 - **关键词**：It's new, worrying about my own enjoyment（为自己的享受而担心，这很新鲜）／I'm contemplating it（我正琢磨着这件事）／vaguely dumbfounded（模模糊糊地发着呆）／when something changes（某件事发生了变化）
-- **为什么这样写**：这是本章最安静也最深刻的一句。背景是全书最反套路的性爱时刻：Jack 进入前，Elsie 突然喊停，问 "If it's not good, we're going to work on it. Right?"（如果不舒服，我们会一起解决，对吗？）——这不是矜持，而是她把 ch20 那句"I don't want to be work"真正内化后的平等条款。而 'worrying about my own enjoyment' 直白得近乎残忍：她此前的人生里，性（以及一切）的价值取决于对方是否满足，她" liking this the least"（最不喜欢被进入的部分）从来没人在意——包括她自己。'It's new' 两个字写出讨好型人格自我修复的起点：**把自己的感受当成值得考虑的事，本身是需要学习的新技能**。'vaguely dumbfounded' 写出她对自己这份觉醒的陌生——她甚至不知道该用什么表情面对它。'when something changes' 悬置句尾，把转折交给下一行的 "Jack presses into me"——作者刻意让"身体的感觉"打断"头脑的犹疑"，呼应全书主题：诚实不仅是说出口，也是允许身体有自己的意见。
+- **为什么这样写**：这是本章最安静也最深刻的一句。背景是全书最反套路的性爱时刻：Jack 进入前，Elsie 突然喊停，问 "If it's not good, we're going to work on it. Right?"（如果不舒服，我们会一起解决，对吗？）——这不是矜持，而是她把 ch20 那句"I need to know that you're not initiating anything with me because it's something you think I expect"真正内化后的平等条款。而 'worrying about my own enjoyment' 直白得近乎残忍：她此前的人生里，性（以及一切）的价值取决于对方是否满足，她" liking this the least"（最不喜欢被进入的部分）从来没人在意——包括她自己。'It's new' 两个字写出讨好型人格自我修复的起点：**把自己的感受当成值得考虑的事，本身是需要学习的新技能**。'vaguely dumbfounded' 写出她对自己这份觉醒的陌生——她甚至不知道该用什么表情面对它。'when something changes' 悬置句尾，把转折交给下一行的 "Jack presses into me"——作者刻意让"身体的感觉"打断"头脑的犹疑"，呼应全书主题：诚实不仅是说出口，也是允许身体有自己的意见。
 - **读者视角提示**：读者第一次看到 Elsie 在亲密关系中问"我舒服吗"而不是"他满意吗"；这句"为自己的享受而担心很新鲜"是全书女性自我意识觉醒的题眼，比任何高潮描写都重要。
 
 > **原句 6:** I'm still buzzing with thrumming, unsnapped tension. And it should be frustrating—it is frustrating that he came and I didn't, that there's heat pushing against the seams of me, simmering from within. But it was good anyway.

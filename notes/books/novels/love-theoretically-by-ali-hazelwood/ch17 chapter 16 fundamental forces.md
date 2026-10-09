@@ -47,7 +47,7 @@ modified: "2026-10-08"
 
 - **中文理解**："我感觉……"真是个好问题。"就像我一直在抛的那些剧情球全都掉到了地上。我也不知道我的故事接下来会怎样。"
 - **关键词**：What a good question（真是个好问题）／plot balls that I was juggling（我一直在抛的剧情球）／dropped to the floor（掉到地上）／no idea what comes next in my story（不知道故事接下来怎样）
-- **为什么这样写**：这是 Elsie 对自己的精准诊断——'What a good question' 先自嘲一句（没人这么问过她），再用 'plot balls I was juggling' 的比喻说清她一生的状态：像杂耍一样，用讨好、完美、迎合去"同时抛起"所有人的期待。'dropped to the floor' 指她如今失业、关系、自我全都崩盘。'no idea what comes next in my story' 是她第一次承认自己不知道下一步——对一生都在表演的人来说，失去剧本既可怕也是自由。
+- **为什么这样写**：这是 Elsie 对自己的精准诊断——'What a good question' 先自嘲一句（没人这么问过她），再用 'plot balls that I was juggling' 的比喻说清她一生的状态：像杂耍一样，用讨好、完美、迎合去"同时抛起"所有人的期待。'dropped to the floor' 指她如今失业、关系、自我全都崩盘。'no idea what comes next in my story' 是她第一次承认自己不知道下一步——对一生都在表演的人来说，失去剧本既可怕也是自由。
 - **读者视角提示**：读者第一次感到 Elsie 用"剧情球"的比喻，把讨好型人格的疲惫说得清清楚楚——她不是没能力，而是一直在为别人写剧本；这句也为全书后半她"找回自己"的主题定调。
 
 > **原句 6:** Are you free tomorrow night?

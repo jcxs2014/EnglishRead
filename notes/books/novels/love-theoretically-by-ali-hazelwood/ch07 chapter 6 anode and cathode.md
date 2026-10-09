@@ -60,7 +60,7 @@ modified: "2026-10-08"
 > **原句 7:** "No, I didn't." Jack's expression sharpens. He straightens and leans forward, elbows on his desk. The entire room shifts and thickens with tension. "I did know, however, that there is something about you. That you tirelessly study people. Figure out who they are, what they want, and then mold yourself into whatever shape you think will fit them."
 
 - **中文理解**："不，我没有。"Jack 的表情锐利起来。他坐直身子前倾，手肘支在桌上。整个房间随着张力收紧。"但我确实知道，你身上有某种东西。你不知疲倦地研究别人。弄清他们是谁、想要什么，然后把自己塑造成你认为适合他们的任何形状。"
-- **关键词**：tirelessly study people（不知疲倦地研究别人）／mold yourself into whatever shape（把自己塑造成任何形状）／channel surfing（切换频道）
+- **关键词**：tirelessly study people（不知疲倦地研究别人）／mold yourself into whatever shape（把自己塑造成任何形状）／Figure out who they are, what they want（搞清他们是谁、想要什么）
 - **为什么这样写**：这是全书最关键的一次"看穿"——Jack 精准描述了 Elsie 讨好型人格的运作机制，甚至用了"channel surfing"（切换频道）这个比喻来刻画她随人而变。他没有评判她，只是陈述事实，这反而更具冲击力——因为他是第一个看见她真面目的人。
 - **读者视角提示**：读者在 Elsie 冻结的那一刻，明白她被 Jack 彻底看见了——这是她讨好型人格第一次被外部世界照见，为后续"被他接受真实的自己"埋下情感伏笔。
 

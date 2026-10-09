@@ -1,0 +1,17 @@
+=== b: check_chapter_quotes ===
+Usage: scripts/check_chapter_quotes.py <NN> "<md_file>" [--out-dir <dir>] [--book-dir <book_dir>]
+=== c: audit_structure ===
+=== 精读结构扫描（love-theoretically-by-ali-hazelwood）===
+  扫 31 个 md、188 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+=== c: check_overview_full ===
+=== 总览整串核查（love-theoretically-by-ali-hazelwood）===
+  参照集：text/ 逐章（28 章） ｜ 总览文件 3 个
+  A 整串：命中 71 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 18
+  B 章节标签：对 12 ｜ 标注与实章不符 1（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 58 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+  ⚠️ 00_金句精选.md:145  标注 ch24 但引语不在该章（实为 ch27）：the more you know me, the less you'll li
+=== c: check_struct_indep ===
+=== 独立结构扫描：28 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===

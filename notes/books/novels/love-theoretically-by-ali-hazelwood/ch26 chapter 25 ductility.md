@@ -41,7 +41,7 @@ modified: "2026-10-09"
 - **中文理解**：我点点头。"我知道。"我的心跳得重了一些。"但说到底，这是个容易的选择。因为我想要。"
 - **中文理解修正**：我点点头。"我知道。"我的心跳得重了一些。"但说到底，这是个容易的选择。因为我想要。"
 - **关键词**：My heart beats a little harder（我的心跳得重了一些）／it was an easy choice（这是个容易的选择）／Because I wanted to（因为我想要）
-- **为什么这样写**：George 承认"I really didn't think you were going to accept"，而 Elsie 的回答是全书动机的最简表达式。'Because I wanted to' 五个词，是 ch24 那个"very careful not to forget it"的债权逻辑的完全反命题：不为恩情、不为报复、不为人设——只因为想要。'My heart beats a little harder' 是唯一承认代价的细节：说出口仍要心跳，但只是"a little"——恐惧没有消失，只是降级了。'easy choice' 与 ch25 里"数学化的人生"对撞：她给 Dr. L. 的每个决定都要反复建模，而这个真正的转折点反而"容易"——作者在说：**跟随自己的选择不需要模型，模仿别人的人生才需要**。
+- **为什么这样写**：George 承认"I really didn't think you were going to accept"，而 Elsie 的回答是全书动机的最简表达式。'Because I wanted to' 五个词，是 ch25 那个"very careful not to forget it"的债权逻辑的完全反命题：不为恩情、不为报复、不为人设——只因为想要。'My heart beats a little harder' 是唯一承认代价的细节：说出口仍要心跳，但只是"a little"——恐惧没有消失，只是降级了。'easy choice' 与 ch25 里"数学化的人生"对撞：她给 Dr. L. 的每个决定都要反复建模，而这个真正的转折点反而"容易"——作者在说：**跟随自己的选择不需要模型，模仿别人的人生才需要**。
 - **读者视角提示**：读者会注意到"I know"的平静——她接受 George 没想到，正如接受 Jack 没想到她敢赶他走；她不再需要别人懂她的选择，只需要自己懂。
 
 > **原句 5:** Then I remember: I’m angry. And sad. And disappointed. Yes, Jack was right about Laurendeau, but I’m still furious—at both of them. They lied, withheld information, presumed to know what was best for me, and a new, vengeful version of me revels in the way these two men who hate each other are now tangled up together in the expanse of my rage.

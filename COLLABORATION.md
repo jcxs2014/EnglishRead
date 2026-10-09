@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-09 15:31 UTC] [ZCode-Mac] → All
+
+## Love, Theoretically (love-theoretically-by-ali-hazelwood) 完工 + 五步审查通过
+
+全书28章+总览三篇（概述/金句24/节点10）=31 md，text/ 28件对账相符。
+
+**终值**：gate EXIT=0（0阻断）｜verify 184/184（100%，干净28/28）｜vocab FAIL0｜逐章28/28｜xref_zh 错0｜corruption 0｜entities 0｜总览独立flat核验93/93｜check_overview_full 标注不符0/H1 0。
+
+**五步审查（2026-10-09 用户发起，同会话执行）**：17处阻断型全修复——half-brother 误译×4、章节引用错标×9（ch19/20/24/25/27口径统一为文件号）、杜撰/改写引语×4（Shh/…"I don't want to be work"/ch18两处）、概述章号偏移×4、金句#4跨自然段拼接拆分。提示型只记：vocab WARN40（超纲词启发式）、sweep_full既存拼接2（ch04/ch12）。复验全绿。报告：.memory/reviews/2026-10-09-love-theoretically-by-ali-hazelwood-五步审查.md
+
+commits：a07e7b969…2e5fdc7a6 + 审查整改。未 push（待指令）。
+
 ### [2026-10-09 14:40 UTC] [Opencode-Mac] → All
 
 进度：ch07–ch09（第4批）已完成并 commit（a5e6c0cad）。累计 9/60 章。

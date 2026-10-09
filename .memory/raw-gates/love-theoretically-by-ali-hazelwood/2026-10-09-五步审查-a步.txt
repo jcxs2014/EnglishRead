@@ -1,0 +1,25 @@
+=== lane 判定 ===
+完整 lane
+=== verify_quotes ===
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 184/184 引文可核实（100%）；完全干净文件 28/28；正文章节 0 提取 0；总览 0 提取转交 2 ===
+=== verify_quotes --full ===
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 184/184 引文可核实（100%）；完全干净文件 28/28；正文章节 0 提取 0；总览 0 提取转交 2；--full 整串取证 0 ===
+=== check_vocab ===
+--- FAIL (0) ---
+--- WARN (40) ---
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+=== corruption_scan ===
+=== 编辑损坏扫描（love-theoretically-by-ali-hazelwood）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+=== sweep_full ===
+  ✅ 本章命中 182 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 2 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+  🔶 ch04 chapter 3 chain reaction.md（ch4）跨标签拼接，各段逐字都在：I've never hated anybody… I'm mild mannered,
+  🔶 ch12 chapter 11 centripetal forc（ch12）跨标签拼接，各段逐字都在：Never showing anyone who you really are." He

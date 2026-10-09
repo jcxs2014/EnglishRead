@@ -47,14 +47,14 @@ modified: "2026-10-08"
 
 - **中文理解**："不是。"我咽了咽口水。"我不知道那是假的。"
 - **关键词**：I swallow（我咽了咽口水）／I didn't know it was fake（我不知道那是假的）
-- **为什么这样写**：这是 Elsie 全书最沉重的一次坦白，全句只有八个词。'I swallow' 先写身体的退缩——说话比吞咽更难；'I didn't know it was fake' 一字一字地否认了 J.J. 那场假约会里她以为唯一的知情者身份。它之所以震撼，是因为它把"假约会"从 Elsie 的主动策略（ch01 她曾理直气壮地接单）翻转成她也是受害者：她一开始以为 J.J. 是真心，直到对方的前女友回来，才被告知这一切都是假的。'I didn't know' 呼应前文 Olive 对导师的警告、也呼应全书"讨好型人格"的核心——Elsie 一生都在读别人想要什么，却读不懂"别人根本没想要她"。这句话后 Jack 的注意力骤然变得 "more cautious. Gentle. Land mine territory."，他明白这里埋着雷。
+- **为什么这样写**：这是 Elsie 全书最沉重的一次坦白，全句只有八个词。'I swallow' 先写身体的退缩——说话比吞咽更难；'I didn't know it was fake' 一字一字地否认了 J.J. 那场假约会里她以为唯一的知情者身份。它之所以震撼，是因为它把"假约会"从 Elsie 的主动策略（ch01 她曾理直气壮地接单）翻转成她也是受害者：她当年是明知是假才答应的（"It was a fuzzy plan. But I said yes"），可这场 ruse 从校园一路假到见家长、假进日常（"we didn't talk much about the fact that it was fake"），假的边界早已失守——她此刻说 "I didn't know it was fake"，说的不是"当初不知道"，而是这场假戏在什么时候变成真的、连她自己都没能看清。'I didn't know' 呼应前文 Olive 对导师的警告、也呼应全书"讨好型人格"的核心——Elsie 一生都在读别人想要什么，却读不懂"别人根本没想要她"。这句话后 Jack 的注意力骤然变得 "more cautious. Gentle. Land mine territory."，他明白这里埋着雷。
 - **读者视角提示**：读者第一次知道 Elsie 的假约会创伤远比"接单干活"深——她是被假约会伤害过的人，这让她与 Jack 之间"假约会"的设定变得格外讽刺而沉重；也解释了为何 Elsie 对"诚实"格外敏感。
 
 > **原句 6:** "It was Elsie and J.J. Everyone said how beautiful a couple we were, and I settled into that. I read the Dune books because they were his favorites. I told myself Dream Theater was good. I did his laundry. Cut my hair short because he liked bobs. I felt powerful, like I'd cracked how to be a social human being. I'd learned how to make people want me."
 
 - **中文理解**："那是 Elsie 和 J.J.。人人都说我们是多么登对的一对，我也就这么安顿下来。我读《沙丘》系列，因为那是他的最爱。我告诉自己 Dream Theater 挺好听的。我帮他洗衣服。把头发剪短，因为他喜欢波波头。我觉得自己很强大，好像我终于弄懂了怎么做一个社会人。我学会了怎么让别人想要我。"
 - **关键词**：I settled into that（我安顿下来了）／I read the Dune books（我读《沙丘》系列）／I did his laundry（我帮他洗衣服）／Cut my hair short（把头发剪短）／I'd cracked how to be a social human being（我终于弄懂了怎么做一个社会人）／make people want me（让别人想要我）
-- **为什么这样写**：这是 Elsie 对自己讨好型人格最清醒的自白。作者用一连串具体动作（读他喜欢的书、听他不喜欢的音乐、洗他的衣服、剪他喜欢的发型）把"爱"写成"全面自我替换"，比抽象抒情有力得多。'I settled into that' 的"安顿"二字尤其精准——她不是被强迫，是主动把自己塞进一个"登对情侣"的模具里。'I'd cracked how to be a social human being' 是全段的灵魂：她把讨好当成一种技能、一种"通关"，'make people want me' 是她以为的胜利——结果她只学会了如何被人需要，没学会如何被人爱。这与 Jack 随后那句 "You gave him a perfect version of you, and he still didn't want you" 形成全书最锋利的因果链。
+- **为什么这样写**：这是 Elsie 对自己讨好型人格最清醒的自白。作者用一连串具体动作（读他喜欢的书、说服自己也觉得 Dream Theater 好听、洗他的衣服、剪他喜欢的发型）把"爱"写成"全面自我替换"，比抽象抒情有力得多。'I settled into that' 的"安顿"二字尤其精准——她不是被强迫，是主动把自己塞进一个"登对情侣"的模具里。'I'd cracked how to be a social human being' 是全段的灵魂：她把讨好当成一种技能、一种"通关"，'make people want me' 是她以为的胜利——结果她只学会了如何被人需要，没学会如何被人爱。这与 Jack 随后那句 "You gave him a perfect version of you, and he still didn't want you" 形成全书最锋利的因果链。
 - **读者视角提示**：读者第一次系统看清 Elsie 讨好型人格的成因与代价——不是她不值得被爱，而是她一直在用"完美版本"换取别人的喜欢；这句话把全书的"假约会"主题从情节升华为心理诊断。
 
 > **原句 7:** "You gave him a perfect version of you, and he still didn't want you," Jack says prosaically. Almost detached. Like I'm a gravitational singularity that can be explained, cataloged, predicted. I'm momentarily stunned by how right he is.

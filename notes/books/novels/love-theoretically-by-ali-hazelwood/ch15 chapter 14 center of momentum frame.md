@@ -48,7 +48,7 @@ modified: "2026-10-08"
 - **中文理解**："我会确保他们永远别想在物理学界有立足之地。"
 - **关键词**：make sure（确保）／never have a career in physics（永远没有物理学的职业生涯）
 - **为什么这样写**：这是 Jack 回应 Elsie 说"当年同学因她是女性而贬低她的成就"时的表态——他不仅安慰，而是直接说"我会让他们付出代价"。这句话的分量在于：Jack 身为物理学界权威，他的"确保"具有实际威力，而非空话。'never have a career in physics' 用极端的后果表达他对 Elsie 的绝对维护——他不接受任何对 Elsie 的轻视。这与他此前冷静理性的形象形成对照：只有在 Elsie 受委屈时，他才露出这种近乎护犊的锋芒。
-- **读者视角提示**：读者第一次看到 Jack 的"温柔"背后有"铁腕"——他嘴上说着 'Shh. It's okay'，心里却已决定惩戒伤害她的人；这种双重性正是全书 Jack 的魅力所在。
+- **读者视角提示**：读者第一次看到 Jack 的"温柔"背后有"铁腕"——他嘴上说着 "Hey. It's okay. You already apologized."，心里却已决定惩戒伤害她的人；这种双重性正是全书 Jack 的魅力所在。
 
 > **原句 6:** "In my weird fantasies, Elsie . . ." He shifts me till our curves and angles match up. Perfectly. "In my fantasies, you allow me to keep an eye on you." I feel his lips at my temple. "And when I really let go, I imagine that you let me take care of you, too."
 

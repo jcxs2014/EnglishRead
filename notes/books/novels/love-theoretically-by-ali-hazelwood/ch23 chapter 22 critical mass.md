@@ -59,7 +59,7 @@ modified: "2026-10-08"
 
 > **原句 7:** "Maybe next year," he says, and it sounds low and hopeful, a promise nestled inside it, and I realize that I'd love to accept George's offer because I want to work with her, because I want to dedicate my brainpower to liquid crystals, because I want to not spend eleven-fifteenths of my time commuting between campuses, and because I want to have enough money to surprise Cece with little hats for her ugly, murderous quill-nugget. But this man, who was going to be the absolute worst part of my dream job, might still turn out to be the thing I want the most.
 
-- **中文理解**："也许明年吧，"他说，声音低沉而充满希望，里面嵌着一个承诺。我意识到我很想接受 George 的工作邀请——因为我想和她共事，因为我想把脑子用在液晶上，因为我不想再花十一分之十一……不想再把时间耗在两个校区之间的通勤上，因为我想攒够钱给 Cece 那只丑得要命、杀气腾腾的羽球宝贝买小帽子。但这个本该成为我梦想工作里绝对最糟部分的男人，也许最终会变成我最想要的东西。
+- **中文理解**："也许明年吧，"他说，声音低沉而充满希望，里面嵌着一个承诺。我意识到我很想接受 George 的工作邀请——因为我想和她共事，因为我想把脑子用在液晶上，因为我不想再花十五分之十一……不想再把时间耗在两个校区之间的通勤上，因为我想攒够钱给 Cece 那只丑得要命、杀气腾腾的羽球宝贝买小帽子。但这个本该成为我梦想工作里绝对最糟部分的男人，也许最终会变成我最想要的东西。
 - **关键词**：Maybe next year（也许明年）／a promise nestled inside it（里面嵌着一个承诺）／I'd love to accept George's offer（我很想接受 George 的邀请）／the absolute worst part of my dream job（我梦想工作里绝对最糟的部分）／might still turn out to be the thing I want the most（也许最终会变成我最想要的东西）
 - **为什么这样写**：这是本章的收束与全书事业线+感情线的合流点。'Maybe next year' 指的是 George 的博士后职位（去 MIT、和 Jack 同校）——"明年"既是时间承诺，也是 Jack 对两人未来的具体想象（对比 ch19 之前的"we're not having sex"式的清规戒律，他现在在做五年规划了）。'a promise nestled inside it' 的 nestled（ nestled 像蛋嵌在巢里）写语言里的温度。Elise 接受 George offer 的理由清单是全书最"落地"的愿望清单——工作、研究、通勤、给 Cece 的刺猬买帽子——每一条都具体、自我、不带讨好：这是她第一次把"我想要什么"列得如此清楚。而最后一句是全段的引爆点：'the absolute worst part of my dream job'（梦想工作里最糟的部分）与 'the thing I want the most'（我最想要的东西）的倒置，把 Jack 从"障碍"变成了"奖品"——注意她没有说"为了他接受工作"，而是承认他本身就是想要的。这个句序非常关键：她仍然是"为自己选"，Jack 只是恰好也在。'eleven-fifteenths of my time' 用她一贯的精确数字癖写通勤之苦，喜剧感里藏着生活真相。
 - **读者视角提示**：读者在这里看到感情线与事业线第一次同向：接受 George 的 offer 既是为了自己（研究、钱、不再通勤），也能和 Jack 同校——但最后一句的措辞确保她不是"为爱牺牲"，而是"想要的东西恰好合流"；这为后续她必须在"恩师"与"真相"之间的抉择埋下更痛的伏笔——她现在拥有的一切，都可能被那根"看不见的线"炸断。
@@ -82,7 +82,7 @@ modified: "2026-10-08"
 | tenuous | 脆弱的，纤细的 | "the tenuous, burgeoning impression" |
 | resplendent | 辉煌的，灿烂的 | "this resplendent, life-altering, unearthly sort of pleasure" |
 | quill-nugget | 羽球宝贝（Cece 对宠物刺猬的昵称，作者造词） | "little hats for her ugly, murderous quill-nugget" |
-| eleven-fifteenths | 十一分之十一（分数式精确表达） | "not spend eleven-fifteenths of my time commuting" |
+| eleven-fifteenths | 十五分之十一（分数式精确表达） | "not spend eleven-fifteenths of my time commuting" |
 
 ### ⭐⭐ 进阶
 
