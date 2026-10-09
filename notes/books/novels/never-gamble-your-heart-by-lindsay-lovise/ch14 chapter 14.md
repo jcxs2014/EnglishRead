@@ -85,7 +85,7 @@
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | interlaced | 交握的 | Cecelia was pacing in front of the bookshelf, hands interlaced behind her back. |
-| perusing | 细读 / 浏览 | Free for the remainder of the day, Frankie spent the afternoon perusing Hookham's shelves until at last she found the manual she sought. |
+| embarrassed | 尴尬的 | Embarrassed for perhaps the hundredth time by what she'd done, Frankie vowed that from that moment forward she would act as cool as a cucumber should she run across her employer. |
 
 ### ⭐ 基础
 

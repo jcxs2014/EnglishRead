@@ -69,7 +69,7 @@
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| barouche | 四轮敞篷马车 | Cecelia had not stopped talking from the moment they'd ascended the steps to the barouche. |
+| attendance | 出席 / 到场 | All eight of the remaining Scott Silver investors that I told you about yesterday will be in attendance. |
 
 ## 可迁移表达
 

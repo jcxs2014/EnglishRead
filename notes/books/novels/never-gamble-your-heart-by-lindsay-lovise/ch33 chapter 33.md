@@ -46,7 +46,7 @@
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | muttonchops | 羊排式鬓角 | His fashionable muttonchops and mustache were shiny with perspiration. |
-| tête-à-tête | 私下交谈 / 促膝谈心 | I look forward to our tête-à-tête this evening. |
+| astonished | 惊讶的 | She was astonished by the liberty he'd taken. |
 
 ### ⭐⭐ 进阶
 

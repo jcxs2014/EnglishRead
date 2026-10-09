@@ -36,7 +36,7 @@
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | cloying | 甜腻的 / 令人作呕的 | Her cloying floral scent wrapped around them like a cloud. |
-| tawdry | 俗丽的 / 低俗的 | Made tawdry by the scandal. |
+| accompanied | 陪同 / 伴随 | On the heels of his words, Frankie heard a furious pounding from the door across the room accompanied by a string of muffled threats. |
 
 ### ⭐⭐ 进阶
 
