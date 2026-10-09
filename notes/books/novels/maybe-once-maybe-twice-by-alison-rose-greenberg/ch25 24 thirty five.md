@@ -70,7 +70,6 @@ Maggie签约经纪人Shelly Pier，有了写七首歌的合同和足以"建造�
 
 【**"Geriatric pregnancy"**】Maggie终于有钱了，可以考虑生育问题了。合同让她从"Geriatric pregnancy"（高龄产妇）变成了可以有选择的女人。
 
-【**Shelly的警告**】"If you're Asher Reyes's girlfriend first, then it's possible, if the movie doesn't do well, that's what your brand will be." 这是整个现代社会对女性艺术家的双重标准：她们的成功永远会被归结为"睡出来的"。
 
 【**"去一个月后再开始（和他在一起）"**】Shelly给了她一个时间表：等电影拍完、歌曲录完，再用恋情抢头条。这是Maggie第一次面对一个问题：爱和事业可以分开吗？
 

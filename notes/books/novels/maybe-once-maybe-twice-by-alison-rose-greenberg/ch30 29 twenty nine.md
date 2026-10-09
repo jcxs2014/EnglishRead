@@ -68,6 +68,5 @@ description: 第29章：二十九岁 Drew分手后·与Garrett跳舞
 
 【**Garrett要去旧金山**】他要去他爸爸的公司工作9个月，成为他不想成为的人。Maggie知道他还会回来——但问题是：回来的还是同一个人吗？
 
-【**音乐与性**】"Love on the Brain"在背景里播放——Rihanna的这首歌是关于"爱在脑海里"的，歌词"If loving you is the drug, then you're overdose"——这正是Maggie对Garrett的感受：用药过量，但无法停止。
 
 【**"I want to take you home right now"**】Garrett在舞池里说这话——他从来不是先说出口的人，但这次他说了。而Maggie用"Mine's closer"回应——这已经是她能给出的最直接的邀请。

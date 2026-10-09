@@ -70,8 +70,6 @@ Maggie在Garrett订婚派对上唱"Everlong"看着他，然后追到马厩——
 
 【**"I can't be enough for you"**】Garrett说"I want you"但又说"not enough for you"——这是他一贯的模式：表达感情，然后立刻收回。这是Maggie说的"他永远不在对的时间全力以赴"。
 
-【**"You remind me there's a best version of myself"**】Garrett说Maggie让他看到他可以成为谁——但他选择不做那个人。他选择Cecily，因为Cecily不需要他成长。这是他们之间最深的裂痕：他爱她，但他不需要因为爱她而改变。
 
 【**马厩里的接吻**】在烟花下，在马厩里，他们再次接吻——这次不是在错误的时间，而是在错误的地点（别人的订婚派对）。然后Dolly那匹马打破了这一刻——这个喜剧性的打断让整个场景既有悲剧感又有荒诞感。
 
-【**"I'm on this train and I can't get off it"**】Garrett用"火车"形容他对Maggie的感情——火车是Maggie父亲的主题（他坐火车离开），也是Maggie人生的隐喻：她总是在等待下一站，却永远不知道目的地在哪里。

@@ -4,7 +4,6 @@
 
 ### 一句话总结
 
-Maggie 独自在家崩溃后叫 Garrett 来；她第一次在他面前播放"Let's Lie"；Garrett 听完说"You were wrong—you didn't love me more"；然后他说"Because I loved you more than anything"。
 
 ---
 
@@ -61,7 +60,6 @@ Maggie 听"Let's Lie"时的反应。Cole 没有按照他原来的意图加入 gu
 
 ---
 
-> "You were wrong. You didn't love me more."
 
 Garrett 听完"Let's Lie"后说的。注意他在说他爱她更多——而 Maggie 一直以为自己是那个爱得更深的人。这是全书最重要的反转之一。
 

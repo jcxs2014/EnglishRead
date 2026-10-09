@@ -75,9 +75,7 @@ Asher在Bowery Electric演出后把Maggie拉进Escalade，告诉她拿到了《O
 
 【**"I never needed any convincing"**】Asher说"I never needed any convincing"——他从来不需要被说服，他需要的是她主动出现。他为她等了多少年？
 
-【**他的手表**】Asher说"super-early shoot for Rolex"——他是代言人，是全世界最著名的男人之一，而他来听她在小酒吧唱歌。
 
-【**"Have dinner with me"**】Asher约她"dinner to talk shop and...catch up"——"shop"是借口，"catch up"才是真正目的。他想重新了解她，就像当年在夏令营一样。
 
 【**"Maggie Vine, I could listen to you sing every day until I die"**】十四岁他这样说过，三十五岁他仍然这样认为——有些话一旦说出口就成了誓言。
 

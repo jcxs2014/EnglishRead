@@ -21,9 +21,6 @@ Maggie 与 Raini 讨论爱与不确定性，读到 Rolling Stone 文章发现 As
 | 星级 | 词汇 | 词性 | 例句 |
 |---|---|---|---|
 | ⭐⭐⭐ | **Enigma** | n. | He's sort of an **enigma**. |
-| ⭐⭐⭐ | **Treacherous** | adj. | Both of us had pasts that were **treacherous**. |
-| ⭐⭐ | **Exhale** | v. | Watching two people just **exhale**. |
-| ⭐⭐ | **Exhale** | v. | It's like watching two people just **exhale**. |
 | ⭐ | **Reverberate** | v. | The pain **reverberated** in my chest. |
 | ⭐ | **Envelop** | v. | Tears **enveloped** his eyes. |
 
@@ -67,7 +64,6 @@ Asher 终于说出这句话。他从来没有处理过这件事。弟弟的死�
 
 ---
 
-> "I had met a man who made me want to stay."
 
 Maggie 的内心独白。在 Asher 的沉默里，她看到的是他们都在与过去搏斗。
 

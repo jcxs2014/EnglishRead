@@ -63,7 +63,6 @@ Maggie 描述唱歌时的感受——"letting go"、失重、"灵魂跳伞"（sk
 
 ---
 
-> "It felt like my voice was reminding me that it existed to tell stories other people couldn't tell."
 
 Maggie 在录音室里找到了自己的身份认同——她是那个用声音讲别人讲不了的故事的人。这是全书中她最接近"职业觉醒"的时刻。
 

@@ -72,7 +72,6 @@ Asher 反过来要求 Maggie。这也是双向的承诺。
 
 ---
 
-> "We'll make this work for three years. We'll make it work for forever."
 
 Maggie 的话。他们已经维持了三年，他们会让它永远持续下去。
 

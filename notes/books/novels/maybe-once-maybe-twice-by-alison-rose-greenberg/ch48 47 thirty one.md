@@ -43,7 +43,6 @@ Maggie 描述 Cole 事件后她的生活。"The music died"——她完全放弃
 
 ---
 
-> "Maggie Vine, we are going to get your career back to where it's supposed to be."
 
 Summer 的第一条计划。不是"我们看看怎么办"，是"我们要把你的职业拿回来"。这就是 Summer 的方式——直接、坚定、不妥协。
 
@@ -67,7 +66,6 @@ Summer 的第三条计划。但这里有一个时间问题——Garrett 当时�
 
 ---
 
-> "Garrett's so in love with you that he can't even meet your eyes because it hurts too much."
 
 Summer 对 Maggie 说的关于 Garrett 的话。Garrett 看到 Maggie 时无法直视她——不是因为不在乎，是因为太在乎了。
 

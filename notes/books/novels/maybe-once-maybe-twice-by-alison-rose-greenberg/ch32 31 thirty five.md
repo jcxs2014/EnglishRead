@@ -63,13 +63,11 @@ Garrett 终于说出口。Maggie 等了十二年的一句话。两个字，道�
 
 ---
 
-> "You know that night—the night of my twenty-fourth birthday? … I broke up with him right after you left. Later that night, I showed up at your door to finish what you started, and Quinn answered the buzzer."
 
 Maggie 把那个她从未说出口的真相告诉 Garrett——她那天晚上真的去了，被 Quinn 应门。十二年的误会在此刻解开。
 
 ---
 
-> "I think about it too much. About how if you had believed in the possibility of us, the way I did, that we'd probably be…"
 
 Maggie 没有说完"我们大概已经……"——不需要说完。Garrett 知道。他们都知道。
 

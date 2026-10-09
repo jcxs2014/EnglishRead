@@ -61,7 +61,6 @@ Maggie 的歌词。最终，时间站在了她这边。
 
 ---
 
-> "A week ago, I was meeting with a director over there—and then I saw you walk out of the coffee shop pushing a stroller. I stood there, just…"
 
 Asher 解释他是如何找到 Maggie 的。他这一周每天都来这个咖啡店，只为了见她一面。
 
@@ -69,7 +68,6 @@ Asher 解释他是如何找到 Maggie 的。他这一周每天都来这个咖啡
 
 > "It was my turn to show up."
 
-Asher 说的话。注意这和 ch55 中 Maggie 对他说的"It's my turn to show up"形成呼应——现在轮到 Asher 来找 Maggie 了。
 
 ---
 

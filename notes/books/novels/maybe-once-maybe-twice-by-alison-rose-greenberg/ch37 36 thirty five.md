@@ -77,4 +77,3 @@ Maggie 对 Asher 最精准的比喻。Boomerang——飞镖。Garrett 是她一�
 
 > "Almost."
 
-全章最后一个词。Maggie 在做完爱后想：" Almost. It was almost like the last eighteen years had been nothing but a bad dream." 那个"Almost"是说：几乎像一场梦，但还是不完全是。过去十八年不是梦，它是真实的——包括痛苦，也包括现在这个时刻。

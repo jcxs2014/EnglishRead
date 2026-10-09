@@ -43,7 +43,6 @@ Asher 的话。他不愿意再维持一个不公平的关系。这是成熟的�
 
 ---
 
-> "Yes, you do, you just don't want to do it. So I'll—I I'll do it for you."
 
 Maggie 替 Asher 说出他想说的话。她知道他想分手，她来替他做这个了断。这是 Maggie 的方式——用行动来保护别人。
 

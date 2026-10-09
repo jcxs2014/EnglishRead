@@ -39,25 +39,20 @@ Maggie 写的歌词。"throw hope to the wolves"——她把自己的希望扔�
 
 ---
 
-> "Jesus Christ, Maggie." "You make Elliott Smith seem fun."
 
-Summer 听完后的反应——这首歌比 Elliott Smith 还暗黑。Summer 用幽默打破沉重，但 Maggie 说"I might be projecting"。
 
 ---
 
-> "Babe, Garrett's a giant coward, and I refuse to let you sleep in the embers of his shittty spinelessness."
 
 Summer 的经典台词。"sleep in the embers"——不要在余烬里睡觉，烫伤自己。这是 Summer 的人生哲学：不要停留在伤害你的地方。
 
 ---
 
-> "I love my wife. She drives me wild in good and bad ways. But I don't know if we're going to make it." "My wife wants children. And I don't want children."
 
 Summer 的坦白。全章最意外的揭露——Summer 那个"完美的伴侣" Valeria，她们的婚姻也有裂痕。"想要孩子 vs 不想生孩子"是另一种 timing 问题，只是这次关乎的是"两个人的未来"而非"相遇的时机"。
 
 ---
 
-> "I looked at kids, and I don't feel any ache in my chest. I don't feel like there's a missing piece inside of me."
 
 Summer 描述自己面对孩子时的感受——不是遗憾，是彻底的"没有感觉"。她不是在拒绝孩子，她是在诚实面对自己。
 

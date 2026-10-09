@@ -55,7 +55,6 @@ Maggie 和 Garrett 关于如果她当时告诉他会发生什么的对话。Garr
 
 ---
 
-> "I'm sorry that you had to go through that alone." "I would have liked to have been there for you."
 
 Garrett 的道歉。这不是"对不起"——是"对不起你独自经历了这些"。 Garrett 意识到他本来可以在那里支持她，但她独自承受了这一切。
 

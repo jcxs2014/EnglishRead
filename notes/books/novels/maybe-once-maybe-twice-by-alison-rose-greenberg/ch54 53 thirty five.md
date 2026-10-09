@@ -31,7 +31,6 @@ Garrett 解除婚约；Maggie 和其他四位 Cole Wyan 的受害者一起公开
 
 ## 引语块
 
-> "I didn't want to hurt Cole Wyan quietly. I wanted to do it loudly, publicly—I wanted to pick up a baseball bat to his reputation."
 
 Maggie 的复仇哲学。她不想安静地受苦，她要公开地站出来。
 

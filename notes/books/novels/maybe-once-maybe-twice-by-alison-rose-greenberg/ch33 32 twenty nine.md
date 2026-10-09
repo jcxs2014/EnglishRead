@@ -57,9 +57,7 @@ Garrett 发现 Maggie 的月亮纹身。注意：他惊讶是因为他"以为他
 
 ---
 
-> "Maggie, I'm leaving for nine months." "I've thought about this, about us—so many times. But I did long distance right after college and it went very poorly."
 
-Garrett 的告白。不是说"No"，而是说"I can't do long distance again"——这个"不"字背后是对自己的不信任，不是对 Maggie 的拒绝。
 
 ---
 

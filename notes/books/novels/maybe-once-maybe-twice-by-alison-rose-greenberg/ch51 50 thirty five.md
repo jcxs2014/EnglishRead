@@ -49,7 +49,6 @@ Maggie 知道 Garrett 会为她取消婚礼。但这不是她想要的。
 
 ---
 
-> "You know this is it for us, right? I can't love you like this anymore."
 
 Maggie 对 Garrett 的告别。不是"我不爱你了"——是"我不能像这样爱你了"。这是一种成熟的结束。
 
@@ -61,7 +60,6 @@ Garrett 的回应。他承认那些夜晚是他一生中最美好的夜晚。他
 
 ---
 
-> "I love Garrett Scholl; I had since the day I first heard his voice. But you can only be fully in love with one person. It was time for me to be in love with the right one."
 
 全章最重要的内心独白。你只能完全地爱一个人。对 Maggie 来说，那个"对的人"是 Asher，不是 Garrett。
 

@@ -56,13 +56,11 @@ Maggie 描述她的"panic room"——她在脑子里建了一个安全室，不�
 
 ---
 
-> "The goal is not to [go back from all this]." "So, keep making enough smart decisions so that dropping twenty-K on a two-hour flight is just another casual Thursday?"
 
 Maggie 和 Asher 关于私人飞机的对话。Asher 说"目标是不要回去"，意思是不要回到她过去的生活。Maggie 则世俗地算了一笔账。
 
 ---
 
-> "What is PDK? Peachtree-Dekalb. Atlanta."
 
 Maggie 问 PDK 是什么——她从没听说过，Asher 带她去她没去过的地方。这是 Asher 一直对她做的事：把她带到她不知道存在的地方。
 
@@ -82,7 +80,6 @@ Asher 引导 Maggie 进入 Yael 的视角。他的手在她肩上，帮她找到
 
 > "We threw hope to the fire and now I'm floating past Mars / I should know better, but I don't see no harm / The ashes of our maybes will keep me warm"
 
-Maggie 写的新歌词。把"throw hope to the wolves"改成了"throw hope to the fire"，火比狼更直接。"the ashes of our maybes will keep me warm"——灰烬不是毁灭性的，它们是温暖的。这是成长。
 
 ---
 

@@ -31,7 +31,6 @@ Maggie 在 Bowery Electric 演出时被偶像 Cole Wyan 发现，Cole 成为她�
 
 ## 引语块
 
-> "You know what you are? You're like a manic pixie dream-girl version of Fiona Apple. And I'm going to change your life."
 
 Cole Wyan 对 Maggie 说的第一句话。这是一个危险的句子——他用赞美来建立信任，为后来的侵犯做铺垫。"Manic pixie dream girl"这个标签本身就剥夺了 Maggie 作为一个完整的人的复杂性。
 
@@ -55,7 +54,6 @@ Maggie 在整个侵犯过程中的身体反应——缓慢地、尽可能不激�
 
 ---
 
-> "C'mon. I know what you're afraid of…"
 
 Cole 的话。"我知道你在害怕什么"——他假装理解她，但实际上他完全不知道她在害怕什么，或者他根本不在乎。这是侵犯者常用的语言模式。
 
