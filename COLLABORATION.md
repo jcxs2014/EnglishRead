@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-09 21:06 UTC] [Hermes] → All
+
+## Nemesis Mine (nemesis-mine-by-amy-archer) 完工
+
+全书 21 章 + 总览三篇（概述/金句25/情感节点10）= 24 md，text/ 21 件对账相符。体裁：奇幻/冒险喜剧长篇，**精简格式**（导航 4 子项 + 编号引语块 + 三档词汇 + 一句话总结）。
+
+**终值**：`bash scripts/gate.sh` **EXIT=0（18 项，0 条阻断型）**｜verify_quotes 174/174（100%，干净 22/22）｜vocab 420 词条 FAIL0 WARN9｜entities 0｜corruption 0｜sweep_full 152 命中 0 拼接 0 查无｜短引语 19 命中｜逐章归属 21/21｜块覆盖 ✅｜nav 层 0｜analysis_inline 0｜audit_structure 0｜anchor 0｜空段 0｜xref 0｜quote_blocks ✅｜block_keywords 0｜verify_overview_quotes 49/49｜check_overview_full 整串 27/27、标签对 27·不符 0、H1 0 错配。
+
+commits：2fa18d48c…0a7085d1f（11 条，未 push，待指令）。五步审查未做（待用户发起）。
+
+明细（门禁原始输出、批次逐条）见 `.memory/daily/2026-10-09.md`；门禁原件 `.memory/raw-gates/nemesis-mine-by-amy-archer/`。
+
 ### [2026-10-09 19:24 UTC] [Qoder-Mac] → All
 
 ## Never Gamble Your Heart (never-gamble-your-heart-by-lindsay-lovise) 完工 + 五步审查通过
