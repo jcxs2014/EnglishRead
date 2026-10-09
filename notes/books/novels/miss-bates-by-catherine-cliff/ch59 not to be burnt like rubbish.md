@@ -24,7 +24,7 @@ title: Miss Bates 精读 58 · Chapter 9（Part Five）
 
 **关键词**：unenthusiastically, condolence, gone off
 
-**为什么这样写**：作者不给 Mrs. Elton 任何恶言恶语，只让恶意藏在动作和细节里——"breezed through a door"是她一贯的顾盼自雄，"sent along a quart of cream that had gone off"则是把打发叫花子式的施舍写成实物。克制的白描比控诉更冷。
+**为什么这样写**：作者不给 Mrs. Elton 任何恶言恶语，只让恶意藏在动作和细节里——"breezed through a door"是她一贯的顾盼自雄，"sending along a quart of cream that had gone off"则是把打发叫花子式的施舍写成实物。克制的白描比控诉更冷。
 
 **读者视角提示**：注意叙述者紧接着补的那句事实说明（Jane 去世后的往来状况），它替读者把客套话底下的账算清了——这是全书惯用的"客套在前、括号里拆台"手法的变体。
 
