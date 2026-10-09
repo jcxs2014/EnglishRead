@@ -83,7 +83,7 @@ modified: "2026-10-09"
 | packed | 挤满 | The beach is packed with tourists of all shapes and sizes. |
 | instruction manual | 说明书 | I don’t know what kind of instruction manual he’s read. |
 | challenge | 挑战 | how far I’ll go with his dangerous challenges |
-| vulnerable | 脆弱的 | A feeling of vulnerability washes over me again. |
+| vulnerability | 脆弱感 | A feeling of vulnerability washes over me again. |
 | seriously | 认真地 | Maybe I should start taking them a bit more seriously. |
 | drips | 滴落 | quickly lick the drips off the cone |
 
