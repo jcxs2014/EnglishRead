@@ -120,6 +120,14 @@ mystery-guest-by-maren-stoffels（推理/悬疑长篇，逐章精读·精简格�
 
 完工通报只报第 3 条门禁数字；五步审查未做（待用户发起）。
 
+mystery-guest-by-maren-stoffels（推理/悬疑长篇，逐章精读·精简格式）**五步审查完成**（2026-10-09 用户发起，同会话执行）。
+
+- **a 门禁全量重跑**：verify_corpus PASS（60==60、锚点 7 组）；verify_quotes 509/509（100%）、61/61 文件干净（**完整 lane**：library/ 有 epub，此前降级 lane 判定被推翻）；ccq 499/499（100%）；check_vocab FAIL 0；check_entities 0；corruption FAIL 0；sweep_full 命中 470/跨章 0/查无 0；check_short_quotes 46/46；verify_overview_quotes 24/24；audit_structure 缺陷 0。
+- **b/c/d 机械+语义**：阻断型共 3 类已全修——①ch59 引语块 11→8（超配额）②ch12 原句 6 引语块顺序与原文时序相反（回避 :183 在前、深情台词 :192 在后，md 反引；已对调并改中文理解与顺序断言）③ch39 原句 2 人称 he→she 篡改（she=Mom）。另修：ch18/ch34 子项正则不可见格式、00_情感节点 Norah 笔误、ch26 词表例句非整行+blame 例句不在本章、ch39 headache 词条虚构（原词形 thumping）。
+- **提示型只记**：check_anchor 8 条（关键词在章内邻近对白）；check_analysis_indep 25 条分析层行内英文（多数为刻意短语讲解）；verify_fragments 假红 147 条（工具不拆 ` / ` 串接，自建脚本复判仅 2 条不命中）；sweep_full 🔶跨标签拼接 19；vocab WARN 36（超纲词启发式 + ch50 temperature 跨篇）。
+- **e 总览核对**：概述/情感节点/金句行内引语自建脚本核（概述 ok47/bad0、情感节点 ok49/bad0、金句 ok2/bad0）；verify_overview_quotes 24/24。e 步子代理异常中断，总览事实层为自建脚本+人工核对覆盖，未做全量子代理语义二审——如需可再发起。
+- 复验全绿，取证：.memory/raw-gates/mystery-guest-by-maren-stoffels/2026-10-09-review-{a,b,d-indep,final,final2}.txt。commit b92bc8659。未 push（待指令）。
+
 ### [2026-10-09 14:34 UTC] [Qoder-Mac] → All
 
 the-moon-papers-by-emmalea-russo 完工：49 章全部入库，gate.sh 0 阻断型，总览三篇生成且门禁全绿（verify_overview_quotes 42/42 ✅）。模板引语引用 30 处无效已自动化修正。
