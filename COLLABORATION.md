@@ -89,21 +89,25 @@ commit: 1423095b5 + 56b0ccff9 + 47efa2ace + 5eaae4fb9（五步审查）
 
 ### [2026-10-09 07:11 UTC] [Qoder-Mac] → All
 
-**《Mazywood》Tananarive Due · 悬疑/超自然恐怖 · 精读完工**
+**《Mazywood》Tananarive Due · 悬疑/超自然恐怖 · 精读完工 + 五步审查（2026-10-09 同会话，用户发起）**
 
 mazywood-by-tananarive-due · 40 章 + 总览三篇 = 43 个 md（引语块 275）
 
-**门禁（完整 lane，epub 在库）**：verify_quotes 299/299 ✅ 完全干净 41/41 · 逐章归属 40 章全 X/X ✅ · sweep_full 275 命中／查无 0 ✅ · check_vocab 702 词条行 FAIL 0 ✅ · check_entities 未知实体 0 ✅ · corruption_scan FAIL 0 ✅ · verify_overview_quotes 54/54 ✅ · check_overview_full 标签对 30/30、H1 错配 0 ✅ · audit_structure 缺陷 0（引语众数 7）· 正门结论 **0 条阻断型**
+**门禁（完整 lane，epub 在库；审查整改后复跑）**：verify_quotes 299/299 ✅ 干净 41/41 · 逐章归属 275/275 全部命中本章 ✅ · sweep_full 275 命中／跨章 0／拼接 0／查无 0 ✅ · check_vocab 702 词条行 FAIL 0 ✅ · entities 0 ✅ · corruption FAIL 0 ✅ · verify_overview_quotes 54/54 ✅ · check_overview_full 标签对 30/30、H1 错配 0 ✅ · audit_structure 缺陷 0（引语众数 7）· 正门结论 **0 条阻断型**
 
-**提示型（只记不改）**：check_vocab WARN 39＝「基础档 ≥9 字符」启发式 · sweep_analysis_inline ⚠️跨章 3（ch24/ch34/ch40，逐条读行确认为上章回顾与伏笔引用）· check_block_keywords ⚠️1（语境延伸词 `in your head`，已由「为什么这样写」呼应）
+**审查整改数字**：d 步七组只读子代理报阻断 78 条 → 章节侧落盘 85 处；e 步总览侧 48 处；合计 **133 处**，分 7 批以断言式行级脚本改完（A/B 29·C/D 24·E 16·F 9·G 7·O1 38·O2 10），每批后 corruption FAIL 0。**133 处只动分析与导航层，275 条引语一字未换。**
 
-**总览生产方式**：三篇全部由 `gen_overview.py` 从 275 条已过 verify 的引语池注入，模板零手打英文；收尾自查订正 1 处过度断言——Scout 的来历原文只有明喻（`fur matted as if it had crawled out of the rust-colored mud`）＋Mazelle 自己的猜想，已把 9 处「从泥里出来的狗」改为「毛上结着泥的狗」（含 3 个 .tpl，防重生成回退）。
+**缺陷簇**：章内时序写反 14 · 相对章号指错 12 · 无出处断言 8 · 计数断言 7 · 说话人与主语错配 6 · 长幼反转（Sharise 是姐姐）5 · 时段与场景断言 5 · 词表例句截首 3 · 悬置项被裁决 2 · 引语截短 2 · 唯一性与归属断言 2。**撤案 3 条**（子代理报警经回源推翻，未改内容）；**假红型 0，未改门禁脚本。**
 
-**悬置清单（原文未写，四篇里一律不裁决）**：Scout 的来历与本质 · ch38 那一枪打死的是不是同一条生命 · Imani 是否真的听见祖母的声音 · ch40 尾段 `they were going home` 的所指。
+**提示型（只记不改）**：check_vocab WARN 39＝基础档 ≥9 字符启发式 · sweep_analysis_inline ⚠️跨章 6（逐条回源，归属全部正确，属章标题式合法交叉引用）· check_block_keywords ⚠️1（语境延伸词 `in your head`，已由「为什么这样写」呼应）。
 
-**五步审查未做（待用户发起）**。
+**总览生产方式**：三篇由 `gen_overview.py` 从 275 条已过 verify 的引语池注入，模板零手打英文；收尾自查订正 9 处「从泥里出来的狗」→「毛上结着泥的狗」（含 3 个 .tpl 防回退）。**⚠️ 总览层的行内英文与中文事件断言无门禁覆盖**——本轮 48 处全靠逐条 grep 全书。
 
-本地 commit 4 个（ch01 试产／ch02–24／ch25–40／总览批），**未推送**。原始逐行输出见 `.memory/raw-gates/mazywood-by-tananarive-due/`（wave1／wave2／overview-gate.txt）与本日工作日志《Mazywood》节。
+**悬置清单（四篇一律不裁决）**：Scout 的来历与本质 · ch38 击毙者／送水者／ch30 池中物是否同一 · Imani 是否真听见声音 · ch40 `they were going home` 的所指。
+
+**局限**：同会话审查；说话人／人物／关系／结局四类不可靠机械化（`check_speaker_consistency` 命中约 1/3 假阳）⇒ **异实例复核价值最高**。逐条清单 `.memory/reviews/2026-10-09-mazywood-by-tananarive-due-五步审查.md`；门禁原件 `.memory/raw-gates/mazywood-by-tananarive-due/`（wave1／wave2／overview-gate／2026-10-09-review-closeout）；明细见本日工作日志《Mazywood》节。
+
+本地 commit 11 个（完工 4 ＋ 审查整改 6 ＋ 清单与原件 1），**未推送**。
 
 ### [2026-10-08 21:39 UTC] [ZCode-Mac] → All
 
