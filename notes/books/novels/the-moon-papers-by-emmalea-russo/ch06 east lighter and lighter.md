@@ -116,7 +116,7 @@ POV: "Velour（第三人称限知，中段一次短暂移交 Radko；她的乡�
 | paternally | 像父亲那样地 | Radko was smoothing her gray, frazzled hair, stroking her head paternally. |
 | echolocation | 回声定位 | They’re using echolocation all the time. |
 | transcendent | 超越的、出尘的 | Again, Velour could see something extraordinary in him, transcendent, dirty-clean, otherworldly. |
-| weightless | 没有重量的 | She hopped down, weightless. |
+| weightless | 没有重量的、失重的 | She hopped down, weightless. |
 
 ### ⭐⭐ 进阶
 
@@ -137,11 +137,12 @@ POV: "Velour（第三人称限知，中段一次短暂移交 Radko；她的乡�
 |---|---|---|
 | tiny bench | 小长凳 | As the tiny bench circled like a satellite, she could feel herself standing at an important edge. |
 | back door | 后门 | She thought of Radko, a stranger, an angel at her back door. |
+| bat expert | 蝙蝠专家 | The bat expert was smiling, his bright white teeth aglow. |
 | human-sized benches | 与人同尺寸的长凳 | She could now get rid of one of the human-sized benches, she thought. |
+| knees | 膝盖 | She rubbed her knees, sore from kneeling before him. |
 | late husband | 亡夫 | She recalled her late husband saying, when they’d purchased the old farmhouse years ago—it doesn’t matter if it’s in bad shape, cause it’s got good bones. |
 | major day | 重要的日子 | This is a major day. |
 | maternity colony | 育幼群体、待产的一窝 | You’ve got a maternity colony of endangered little brown bats, all right. |
-| old farmhouse | 老农舍 | She recalled her late husband saying, when they’d purchased the old farmhouse years ago—it doesn’t matter if it’s in bad shape, cause it’s got good bones. |
 | orphaned pups | 失去母亲的幼崽 | If I exclude the moms, then we’ve got a situation on our hands cause the orphaned pups are still inside. |
 
 ## 一句话总结

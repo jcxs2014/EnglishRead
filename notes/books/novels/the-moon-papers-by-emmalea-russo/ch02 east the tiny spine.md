@@ -45,13 +45,13 @@ POV: "Velour Bellmer（第三人称限知，Pennsylvania 东南部乡间自宅�
 
 > **原句 3:** It was Lars, her son-in-law. He was worried about Vesta—his wife, her daughter. Has she seemed different to you lately? Distant?
 
-**中文理解**：亮起来的是 Lars 发来的消息，她女婿。他在为 Vesta 担心——Vesta 是他妻子，也是 Velour 的女儿。"她最近在你那儿显得有什么不一样吗？疏远吗？"
+**中文理解**：来消息的是 Lars，她女婿。他在为 Vesta 担心——Vesta 是他妻子，也是 Velour 的女儿。"她最近在你那儿显得有什么不一样吗？疏远吗？"
 
 **关键词**：son-in-law、his wife、her daughter、Distant
 
-**为什么这样写**：破折号里那六个词是全章最经济的一次关系交代：先说妻子、再说女儿，一边一个所有格，Lars 的担忧因此同时是丈夫的和女婿的，而 Vesta 在整段里只是被谈论的对象，本人不在场。正文嵌进短信时既不加引号也不换行，Has she seemed different to you lately? 直接接在叙述句后面——读者被放在 Velour 的视野里，她就是那样扫一眼看见的。Distant? 一个词独立成句，把 Vesta 的状态写成空间距离而不是情绪，这与本书用 West / East 方位来分线的写法同调。
+**为什么这样写**：破折号里那四个词是全章最经济的一次关系交代：先说妻子、再说女儿，一边一个所有格，Lars 的担忧因此同时是丈夫的和女婿的，而 Vesta 在整段里只是被谈论的对象，本人不在场。正文嵌进短信时既不加引号也不换行，Has she seemed different to you lately? 直接接在叙述句后面——读者被放在 Velour 的视野里，她就是那样扫一眼看见的。Distant? 一个词独立成句，把 Vesta 的状态写成空间距离而不是情绪，这与本书用 West / East 方位来分线的写法同调。
 
-**读者视角提示**：Velour 对这则消息的处置是忽略，紧接着就是 she clicked off her phone；这个"不回话"和本节结尾她与 Mac 之间那件约好不算数的事是同一类操作，此处先记下。
+**读者视角提示**：Velour 对这则消息的处置是忽略（Velour ignored this），再下一句才是 she clicked off her phone；这个"不回话"和本节结尾她与 Mac 之间那件约好不算数的事是同一类操作，此处先记下。
 
 ---
 

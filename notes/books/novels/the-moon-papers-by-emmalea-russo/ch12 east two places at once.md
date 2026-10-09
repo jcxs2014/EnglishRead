@@ -37,7 +37,7 @@ POV: "Radko Toth（第三人称限知，东线，记忆与当下叠印，Pennsyl
 
 **关键词**：loner、side-eyed、giddy with the creeps
 
-**为什么这样写**：`But it was different. He was a guy.` 两个短句给出整段性别判词，作者不展开，用句子的短促本身当论据。Radko 对谣言的反应不是澄清而是 `made a point to look at Vesta less`——表演性的不看恰恰是attention 的证据，`cause everyone else was looking at her more` 把"被注视"写成会传染的场。谣言用 `The story was this:` 悬置半段再揭晓，结构复刻八卦本身的传递节奏。收束 `It was late spring` 只给三个词的时间戳，与本节的 early summer 在日历上严丝合缝——晚春的谣言与初夏的重逢是同一季节的两面。
+**为什么这样写**：没人取笑过她这句先立"善意校风"，再用 `made people uneasy` 拆穿：不安不需要名字与肇事者。`But it was different. He was a guy.` 两个短句给出整段性别判词，作者不展开，用句子的短促本身当论据。Radko 对谣言的反应不是澄清而是 `made a point to look at Vesta less`——表演性的不看恰恰是注意力的证据，`cause everyone else was looking at her more` 把"被注视"写成会传染的场。谣言用 `The story was this:` 悬置半段再揭晓，结构复刻八卦本身的传递节奏。收束 `It was late spring` 只给三个词的时间戳，与本节的 early summer 在日历上严丝合缝——晚春的谣言与初夏的重逢是同一季节的两面。
 
 **读者视角提示**：`By study hall, Rad had heard` 说明他在谣言链里是终点站（听了、不传）——这个"接住不说"的习惯，与他本章后面对 Vesta 的全部处理方式同构。
 
@@ -57,7 +57,7 @@ POV: "Radko Toth（第三人称限知，东线，记忆与当下叠印，Pennsyl
 
 > **原句 4:** “My dog died,” she said suddenly, squinting up at Radko.
 
-**中文理解**：聊完不上大学的话题，她忽然眯起眼仰头对他说："我狗死了。"那只狗 basically her husband，他们互相照顾，大个子狗老了，"seventy-eight in human years"。Radko 试探着开了个玩笑（`Older than your boyfriend?`），她脸色一拧，他立刻骂自己在人家掏心窝时耍贫——但她随后笑了，他觉得像施展了一次神迹。
+**中文理解**：聊完不上大学的话题，她忽然眯起眼仰头对他说："我狗死了。"那只狗在她口中的分量相当于丈夫——"basically my husband"；他们互相照顾，大个子狗老了，"seventy-eight in human years"。Radko 试探着开了个玩笑（`Older than your boyfriend?`），她脸色一拧，他立刻骂自己在人家掏心窝时耍贫——但她随后笑了，他觉得像施展了一次神迹。
 
 **关键词**：suddenly、squinting、contorted
 
