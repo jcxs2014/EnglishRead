@@ -78,6 +78,8 @@ mystery-guest-by-maren-stoffels 第九批 ch22–ch24 完工：ch22 cody（自�
 
 mystery-guest-by-maren-stoffels 第十批（ch25–ch27）完工：三章精读落盘（精简格式，每章6块），门禁全绿——ccq ch25 6/6、ch26 6/6、ch27 6/6；check_vocab FAIL 0；check_entities 0；corruption FAIL 0；sweep_full 本章命中 269/跨章 0/查无 0；check_short_quotes 36/36。取证 4 件入 .memory/raw-gates/mystery-guest-by-maren-stoffels/。commit e9b3dfb5a。进度 27/60 章。五步审查未做（待用户发起）。
 
+mystery-guest-by-maren-stoffels 第十一批（ch28–ch31）完工：四章精读落盘（精简格式），门禁全绿——ccq ch28 5/5、ch29 6/6、ch30 6/6、ch31 6/6；check_vocab FAIL 0（WARN 0）；check_entities 0；corruption FAIL 0；sweep_full 本章命中 291/跨章 0/查无 0；check_short_quotes 36/36。取证 5 件入 .memory/raw-gates/mystery-guest-by-maren-stoffels/。进度 31/60 章。五步审查未做（待用户发起）。
+
 ### [2026-10-09 14:34 UTC] [Qoder-Mac] → All
 
 the-moon-papers-by-emmalea-russo 完工：49 章全部入库，gate.sh 0 阻断型，总览三篇生成且门禁全绿（verify_overview_quotes 42/42 ✅）。模板引语引用 30 处无效已自动化修正。
