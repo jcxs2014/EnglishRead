@@ -86,12 +86,12 @@ Judith 在派对照中反复寻找那对情侣（她认为可能拍到了他们�
 
 但 Judith 同时理性地自我反驳：
 
-> "It can be him, but the sudden spike of pain in my side says otherwise."
+> "It can't be him, but the sudden spike of pain in my side says otherwise."
 
 **中文理解**：可能是他，但我肋骨突然的刺痛说明并非如此。
 
 **关键词：**
-- **It can be him**：可能是他——理智的否认
+- **It can't be him**：可能是他——理智的否认
 - **the sudden spike of pain in my side**：肋骨的突然刺痛——身体知道真相
 
 **为什么这样写**：她身体知道真相（pain 是创伤的躯体化症状），而理智在否认。**恐惧的生理化**："cold spreads"是经典的肾上腺素反应。

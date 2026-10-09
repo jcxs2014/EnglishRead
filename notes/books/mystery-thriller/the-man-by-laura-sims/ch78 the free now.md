@@ -97,7 +97,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 6：刀伤
 
-> **原句 6:** But before he can loosen his hold enough to let her go, her hands flail up at him somehow, and something sharp comes slashing at his arms. A knife. He sees the blood darken his shirtsleeves before he feels any pain."
+> **原句 6:** Her hands flail up at him somehow, and something sharp comes slashing at his arms. A knife. He sees the blood darken his shirtsleeves before he feels any pain."
 
 **中文理解**：但在他能松手让她走之前，她的双手不知怎的向他胡乱抓来，有什么尖锐的东西划破了他的手臂。一把刀。他看到血渗透了他的衬衫袖口，然后才感觉到疼痛。
 

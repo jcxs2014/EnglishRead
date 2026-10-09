@@ -39,19 +39,23 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 那个男人从黑暗的角落缓缓现身。Judith 的内心连续蹦出六个指认：
 
-> **原句 2:** the first man / the man in the blue Buick / the man in the crosswalk / the man on the telephone / the man in the subway car / the man lurking in the back corners of all my self-portraits
+> **原句 2:** When the man steps into a pool of light, I see that it isn't Tom, of course; it's the first man / the man in the blue Buick / the man in the crosswalk / the man on the telephone / the man in the subway car / the man lurking in the back corners of all my self-portraits.
 
-**中文理解**：第一个男人/蓝色别克里的男人/过人行道的男人/打电话的男人/地铁里的男人/潜伏在我所有自画像角落深处的男人。
+**中文理解**：当那个男人走进一片光中，我看清楚那不是 Tom，当然了；那是——第一个男人、蓝色别克里的男人、过人行道时抓住我手臂的男人、打无声电话的男人、地铁里攻击我的男人、潜伏在我所有自画像角落的男人。
 
 **关键词：**
-- **the first man**：贯穿全书的追踪者，所有身份的汇总
-- **the man lurking in the back corners of all my self-portraits**：追踪者已经内化为Judith自我的一部分
+- **the first man**：三十年前最初的攻击者，所有身份的汇总
+- **the man in the blue Buick**：ch01 中 Judith 注意到的车
+- **the man in the crosswalk**：ch16 中公开骚扰 Judith 的人
+- **the man on the telephone**：通过电话骚扰 Judith 的人
+- **the man in the subway car**：ch31 中在地铁上攻击 Judith 的人
+- **the man lurking in the back corners of all my self-portraits**：追踪者已经内化为 Judith 自我的一部分
 
-**为什么这样写**：从第一章的blue Buick，到crosswalk、telephone、subway car，再到self-portraits的阴影角落——这是全书中所有追踪事件的浓缩回顾。"I know him instantly, though his face remains shadowed"——她从未真正看清过他的脸，但他对她而言无处不在。
+**为什么这样写**：从第一章的 blue Buick，到 crosswalk、telephone、subway car，再到 self-portraits 的阴影角落——这是全书中所有追踪事件的浓缩回顾。"I know him instantly, though his face remains shadowed"——她从未真正看清过他的脸，但他对她而言无处不在。六重身份的并置用短句而非完整句，创造出一种窒息式的压迫感——这是全书中追踪者最完整的亮相。
 
 ### 3. 刀近在咫尺，身体却不动
 
-> **原句 3:** The knife is right there, I think. Almost calmly, through the thick sludge of terror.
+> **原句 9:** The knife is right there, I think. Almost calmly, through the thick sludge of terror.
 
 **中文理解**：刀就在那里，我想。几乎平静地，穿过恐惧的浓稠淤泥。
 
@@ -66,7 +70,7 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 男人走近，Judith 的旧痛却没有预期般袭来：
 
-> **原句 4:** I expect the sharp pang of my old pain to come as we draw closer, closer—but: nothing. Instead, the sight of him washes over me like a soothing wave.
+> **原句 10:** I expect the sharp pang of my old pain to come as we draw closer, closer—but: nothing. Instead, the sight of him washes over me like a soothing wave.
 
 **中文理解**：我期待着旧痛随着我们越靠越近而袭来——但：什么都没有。相反，看到他的感觉像一道舒缓的波浪从我身上涌过。
 
@@ -79,7 +83,7 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 ---
 
-> **原句 5:** "You shouldn't be here, Judith. You should have stayed home like you were meant to. You should have stayed inside the building. You should have pulled the knife before you stepped outside. I'll wait for you to do it now, if you like."
+> **原句 11:** "You shouldn't be here, Judith. You should have stayed home like you were meant to. You should have stayed inside the building. You should have pulled the knife before you stepped outside. I'll wait for you to do it now, if you like."
 
 **中文理解**："你不应该在这里，Judith。你应该待在家里，这是你命中注定的。你应该待在楼里。你应该在走出外面之前拔出刀。如果你想的话，我现在可以等你这么做。"
 
@@ -91,7 +95,7 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 ### 5. 反击：刀刃上的片刻主动
 
-> **原句 6:** I grip the knife tightly and hold it out toward him, watching the blade catch the light. I'm transfixed by it. It seems to float before me, detached from my hand.
+> **原句 12:** I grip the knife tightly and hold it out toward him, watching the blade catch the light. I'm transfixed by it. It seems to float before me, detached from my hand.
 
 **中文理解**：我紧紧握住刀，把它伸向他，看着刀刃接住光线。我被它定住了。它似乎漂浮在我面前，与我的手分离。
 
@@ -103,7 +107,7 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 ---
 
-> **原句 7:** I step forward and slash at him. He gasps and his awful laughing stops. I can taste his fear like blood in my mouth.
+> **原句 13:** I step forward and slash at him. He gasps and his awful laughing stops. I can taste his fear like blood in my mouth.
 
 **中文理解**：我向前一步，向他砍去。他倒吸一口气，可怕的笑声停了。我能尝到他的恐惧，像血一样在我嘴里。
 
@@ -115,7 +119,7 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 ### 6. 坠落：灯光熄灭
 
-> **原句 8:** I find myself on the ground, looking up at the night sky. The parking lot lights mostly obscure the stars, but I can still see them, faint and twinkling.
+> **原句 14:** I find myself on the ground, looking up at the night sky. The parking lot lights mostly obscure the stars, but I can still see them, faint and twinkling.
 
 **中文理解**：我发现自己倒在地上，仰望着夜空。停车场的灯光大多遮蔽了星星，但我仍能看到它们，微弱而闪烁。
 
@@ -127,7 +131,7 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 ### 7. 血的疑问
 
-> **原句 9:** Is it his blood, or mine? / Or both of ours, mixed together?
+> **原句 15:** Is it his blood, or mine? / Or both of ours, mixed together?
 
 **中文理解**：是他的血还是我的？还是我们两个的，混在一起？
 
@@ -139,7 +143,7 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 ### 8. Paul 的忽视
 
-> **原句 10:** Paul. I open my mouth to yell, but I can only whisper. "Paul," I whisper. But he doesn't hear or see me, far from him at the back of the lot. He walks decidedly to his car, oblivious, and starts it up.
+> **原句 16:** Paul. I open my mouth to yell, but I can only whisper. "Paul," I whisper. But he doesn't hear or see me, far from him at the back of the lot. He walks decidedly to his car, oblivious, and starts it up.
 
 **中文理解**：Paul。我张开嘴想喊，但只能低语。"Paul，"我低语。但他没有听见也没有看见我，他离我太远，在停车场的另一头。他果断地走向他的车，浑然不觉，然后发动了它。
 
@@ -151,7 +155,7 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 ### 9. 结尾：黑暗即解脱
 
-> **原句 11:** The lights in the parking lot flicker all at once, then dim. / They grow dimmer. I'm frightened of the dark. / It eases the pain of my stomach and the old pain beneath it and blots out every last painful inch of the world.
+> **原句 17:** The lights in the parking lot flicker all at once, then dim. / They grow dimmer. I'm frightened of the dark. / It eases the pain of my stomach and the old pain beneath it and blots out every last painful inch of the world.
 
 **中文理解**：停车场的灯光同时闪烁，然后变暗。/ 它们越来越暗。我害怕黑暗。/ 它缓解了我胃里的疼痛和下面旧的疼痛，抹去了世界上最后一丝痛苦的痕迹。
 
