@@ -48,7 +48,7 @@ modified: "2026-10-09"
 
 **中文理解**："也许他本来就没那么善良。"
 
-**关键词**：not entirely good / in the first place
+**关键词**：entirely good / in the first place
 
 **为什么这样写**：Cyrus 对"你对他不好"（You're bad for him）的回应，而它其实是替 Maximillian 辩护——他承认自己在带坏对方，同时指出对方本就未必是好人。用 entirely（完全地）这个词留出余地：他没说对方是坏人，只说不是纯粹的好人。这句同时呼应了 ch04 里那个"疯狗般的笑"。
 
