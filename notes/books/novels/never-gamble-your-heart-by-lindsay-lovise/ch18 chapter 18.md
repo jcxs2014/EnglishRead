@@ -76,7 +76,7 @@
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | embossed | 浮雕的 / 压花的 | She smoothed her palm over the embossed leather cover. |
-| cornet | 少尉（军衔） | Three hundred pounds was more than an army cornet made in an entire year. |
+| cornet | 少尉（军衔） | The pattern quickly became obvious: on the first of every month Jasper Jones paid three hundred pounds, which was more than an army cornet made in an entire year, for "fish." |
 
 ### ⭐⭐ 进阶
 

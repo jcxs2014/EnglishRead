@@ -92,8 +92,8 @@
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| perplexing | 令人困惑的 | His governess grew more perplexing and infuriating by the day. |
-| grumbles | 抱怨 | He had heard a few grumbles about her being "another one of those horridly progressive women." |
+| perplexing | 令人困惑的 | His governess—no, his beneficiary—grew more perplexing and infuriating by the day. |
+| grumbles | 抱怨 | I have heard a few grumbles about you being 'another one of those horridly progressive women.' |
 
 ### ⭐ 基础
 

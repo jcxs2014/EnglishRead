@@ -65,7 +65,7 @@
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| ethereal | 飘渺的 / 优雅的 | The modiste had an ethereal morning gown of white embroidered with delicate roses. |
+| ethereal | 飘渺的 / 优雅的 | The modiste had had two suitable gowns on hand, one of them an ethereal morning gown of white embroidered with delicate roses and greenery. |
 | rheumy | 黏液多的 / 浑浊的（形容眼睛） | Her eyes were rheumy and her gait was unsure. |
 
 ### ⭐⭐ 进阶

@@ -96,7 +96,7 @@
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | foreboding | 不祥预感 | Every one of his senses tingled with foreboding. |
-| escapade | 冒险行为 / 闹剧 | Today's escapade was only one example why he avoided the ton. |
+| escapade | 冒险行为 / 闹剧 | He had been lucky this time, but would his luck hold forever? Jasper avoided social situations with the ton as if they were the plague, and today's escapade was only one example why. |
 
 ### ⭐⭐ 进阶
 

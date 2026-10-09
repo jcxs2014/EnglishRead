@@ -85,14 +85,14 @@
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | interlaced | 交握的 | Cecelia was pacing in front of the bookshelf, hands interlaced behind her back. |
-| perusing | 细读 / 浏览 | It did not take her more than a few minutes of perusing to discover that it was an incredibly clever system. |
+| perusing | 细读 / 浏览 | Free for the remainder of the day, Frankie spent the afternoon perusing Hookham's shelves until at last she found the manual she sought. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | calling cards | 名片 | While I slept yesterday Uncle Jasper received a mountain of invitations and thank-you notes and calling cards. |
-| cucumber | 黄瓜 | He plucked the lenses from the debris of triangle bread slices and cucumber coins. |
+| cucumber | 黄瓜 | Embarrassed for perhaps the hundredth time by what she'd done, Frankie vowed that from that moment forward she would act as cool as a cucumber should she run across her employer. |
 
 ## 可迁移表达
 

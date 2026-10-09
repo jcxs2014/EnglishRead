@@ -56,7 +56,7 @@
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | missive | 信件 / 公函 | Frankie took a deep breath and pressed the missive to her chest. |
-| upstart | 暴发户 / 新贵 | Several governesses reported grumblings about that "upstart Turner woman." |
+| upstart | 暴发户 / 新贵 | In the meantime, I must alert you that several of my governesses have reported grumblings in their houses about that "upstart Turner woman." |
 
 ### ⭐⭐ 进阶
 
