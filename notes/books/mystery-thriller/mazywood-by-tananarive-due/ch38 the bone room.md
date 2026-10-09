@@ -10,7 +10,7 @@ POV: "Johnny 与 Imani（PRESENT DAY，前半贴近 Johnny、后半贴近 Imani�
 
 - **时空坐标**：无抬头——承上一章时段；场景从崖壁雪架转入林中生物的洞穴：洞口、下行岔道与堆骨洞室
 - **叙事视角**：前半紧贴 Johnny（自章首 JOHNNY WRAPPED HIS RIGHT ARM 段起）；自 Imani had stumbled once while she ran 一段起转贴 Imani，章末 Imani 的段落里父亲写作 Daddy、生物写作 Scout／Beast
-- **核心事件**：Johnny 攀上岩架，循雪地行迹找到被巨石遮住的洞口；Ricky 的幻影在洞内点了打火机又熄灭，Johnny 对它说出原谅，随后怀疑自己一整天是否都在自言自语；他劝 Sharise 取滑雪杖回小屋、开 Jeep 去镇上搬救兵；他只身进洞，发现整间堆骨之室，凭金牙与牛仔帽上的银带扣认出 Uncle Ricky 的遗骸；生物现身，他举枪，冲进来的 Imani 喊 Daddy, no!——枪响之后，本章以 Scout 死在骨室、Imani 失聪落泪收尾
+- **核心事件**：Johnny 攀上岩架，循雪地行迹找到被巨石遮住的洞口；Ricky 的幻影在洞内点了打火机又熄灭，Johnny 对它说出原谅，随后怀疑自己一整天是否都在自言自语；他要 Sharise 回那棵树那边去，而取滑雪杖步行回去、开 Jeep 上镇搬救兵是 Sharise 自己改的主意；他只身进洞，发现整间堆骨之室，凭金牙与牛仔帽上的银带扣认出 Uncle Ricky 的遗骸；生物现身，他举枪，冲进来的 Imani 喊 Daddy, no!——枪响之后，本章以 Scout 死在骨室、Imani 失聪落泪收尾
 - **关键人物**：Johnny（父亲、编剧）、Sharise（长女，被送出搬救兵）、Imani（小女儿，靠荧光棒指路奔回父亲身边）、Uncle Ricky（本章先为幻影、后为遗骸）、Johnny 所称 monster／Imani 所称 Beast、Scout（Imani 对它的称呼）
 - **章节主题**："准备"能否消掉开枪的代价——Brian 的一句 I'm ready 被 Johnny 用整章去兑现，兑现成功的同时，他也打死了本章最后一刻还在跳舞的那条生命
 - **上章回顾**：上一章收在 Tasha 把削尖的木矛交给 Imani、警告她它是 killer；Imani 带着矛奔出去，既想救家人，也可能想救 Beast
@@ -25,7 +25,7 @@ POV: "Johnny 与 Imani（PRESENT DAY，前半贴近 Johnny、后半贴近 Imani�
 
 **关键词**：drowning、loomed、fulfilled
 
-**为什么这样写**：溺水比喻把攀岩写成在岩壁里泅水，垂直的石面成了会淹死人的流体，clung the way he would if he were drowning 是一个虚拟语气——他还没淹死，但只差十英尺。when it had appeared like a wish fulfilled 让"许愿—兑现"的本书母题在现在线第一次换了执行人：1926 年线上愿望由许愿池回应，这里的回应是他自己的手脚；括号句 (Thank you, God.) 是 Johnny 段落里唯一一次直接触及上帝，且以旁注形式出现，不是祷词，是事后签收。
+**为什么这样写**：溺水比喻把攀岩写成在岩壁里泅水，垂直的石面成了会淹死人的流体，clung the way he would if he were drowning 是一个虚拟语气——他还没淹死，但只差十英尺。when it had appeared like a wish fulfilled 让"许愿—兑现"的本书母题在现在线第一次换了执行人：1926 年线上愿望由许愿池回应，这里的回应是他自己的手脚；括号句 (Thank you, God.) 以旁注形式出现，不是祷词，是事后签收；本章他此后还要向上帝开好几回口（But, God, please let Sharise and Imani have a tomorrow. / Nothing yet, thank God. / Dear God.），唯独这一句最短。
 
 **读者视角提示**：注意 loomed 的施动者是崖顶——本章的威胁感大量由"地形拟人化"承担（后文还有石头像在呻吟的句子），先于生物本身压向人物。
 
@@ -142,4 +142,4 @@ POV: "Johnny 与 Imani（PRESENT DAY，前半贴近 Johnny、后半贴近 Imani�
 
 ## 一句话总结
 
-Johnny 用 Brian 教给他的"准备好"攀上崖壁、走进骨室，凭一枚五十年没忘的熊头带扣认回 Uncle Ricky 的遗骸，又在女儿冲进来喊停之前击毙了那头曾给她们送水的生物——本章以 Imani 无声的眼泪收账：获救的代价，是她第一次为一个大人做出的选择哭给一条生命听。
+Johnny 用 Brian 教给他的"准备好"攀上崖壁、走进骨室，凭一枚五十年没忘的熊头带扣认回 Uncle Ricky 的遗骸，又在女儿冲进来一再喊停（Daddy, no!／Don’t shoot it!）之后击毙了那头曾给她们送水的生物——本章以 Imani 无声的眼泪收账：获救的代价，是她第一次为一个大人做出的选择哭给一条生命听。

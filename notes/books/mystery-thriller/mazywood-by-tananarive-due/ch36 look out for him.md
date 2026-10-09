@@ -25,7 +25,7 @@ POV: "Mazelle Washington（1980 年 12 月，Bear Creek Lodge，第三人称限�
 
 **关键词**：drumbeat、indulgences、aptly、Masterpieces
 
-**为什么这样写**：全章把病榻上的时间写成一场演出后台：pain 是鼓点，清醒是"幕布升起"，而 peek backstage at life’s indulgences 让一个演了一辈子戏的人用职业语汇描述自己残存的享受。aptly titled Masterpieces 的反讽由叙述者一个 aptly 标出—— cassette 是孙子买的，标题却是他人生效的评语。鼓点、炭火、幕布三种身体比喻依次排开，疼痛先是被外化成乐队，再被内化成灼伤，最后才有"后台一瞥"的松弛——三段式正好是一章病榻戏的节奏谱。
+**为什么这样写**：全章把病榻上的时间写成一场演出后台：pain 是鼓点，清醒是"幕布升起"，而 peek backstage at life’s indulgences 让一个演了一辈子戏的人用职业语汇描述自己残存的享受。aptly titled Masterpieces 的反讽由叙述者一个 aptly 标出—— cassette 是儿子 Ricky 买的，标题却像对她一生的评语；而她听这音乐时涌起的负罪指向外孙（本章后文写明 her grandson had been playing this group when she took his cassette player）。鼓点、炭火、幕布三种身体比喻依次排开，疼痛先是被外化成乐队，再被内化成灼伤，最后才有"后台一瞥"的松弛——三段式正好是一章病榻戏的节奏谱。
 
 **读者视角提示**：与前文对照，此时的小屋卧房是年代线一切积怨的清算现场；但清算全部经由 Mazelle 自己的回忆与耳闻完成，本章没有给任何指控安排第二方证人。
 
@@ -63,7 +63,7 @@ POV: "Mazelle Washington（1980 年 12 月，Bear Creek Lodge，第三人称限�
 
 **为什么这样写**：入场的礼仪写足了"仍是那只狗"：asking permission to enter 是教养，melodic whisper 是音量控制，两句合起来是陪伴的伦理学。随即 beyond what should be possible 把礼仪变成超自然——作者让读者先接受情感的真实，再补上物理的不可能，顺序与多数恐怖片相反。插叙的 anyway 补刀（When he wasn’t stoned out of his mind, anyway）一句话交代 Ricky 的成瘾，不展开。
 
-**读者视角提示**：注意 flattening his long torso 与 chittering、银圈眼睛等本章词表——它们与前章林中之物的语汇高度重合；但本章没有给出"它就是那个东西"的识别句，比对留给读者。
+**读者视角提示**：注意 flattening his long torso 与 chittering、银圈眼睛等本章词表——其中 chittering 并非本章新词：ch31、ch33、ch34 已用它写林中之物的发声，而银圈眼睛（unnatural silver rim）只在本章出现过；但本章没有给出"它就是那个东西"的识别句，比对留给读者。
 
 ---
 

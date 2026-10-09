@@ -10,7 +10,7 @@ POV: "Tasha 与 Imani（PRESENT DAY，前半贴近 Tasha、后半贴近 Imani，
 
 - **时空坐标**：PRESENT DAY；抬头第二行为 THIS TIME, TASHA WOULD BE ready for Not A Bear——本章无具体地点标注，正文场景是林中生物巢穴所在的洞穴凹室（nook）
 - **叙事视角**：第三人称限知，前半紧贴 Tasha；自 No matter how long Imani stared 一段起转贴 Imani，后半文中 Mom 均指 Imani 的母亲 Tasha
-- **核心事件**：Tasha 让 Imani 削尖木杖作矛防身；那生物逼近后却朝她们抛来一箱完好的瓶装水，Imani 由此把它唤作 Beast 并向它发问（是否属于 Mazelle、是否有名字）；随后生物朝暗道暴怒低吼，Tasha 朝着黑暗喊出 Johnny! Sharise! Watch out! 示警，并把矛交还 Imani、警告她它是 killer
+- **核心事件**：Tasha 让 Imani 削尖木杖作矛防身；那生物逼近后却朝她们抛来半箱瓶装水（外包装被牙印咬烂、里面至少十几瓶完好），Imani 由此把它唤作 Beast 并向它发问（是否属于 Mazelle、是否有名字）；随后生物朝暗道暴怒低吼，Tasha 朝着黑暗喊出 Johnny! Sharise! Watch out! 示警，并把矛交还 Imani、警告她它是 killer
 - **关键人物**：Tasha（受伤左脚、身孕在身）、Imani（持手电与折刀）、Not A Bear／Beast（本章人物对林中生物的称呼，原文未给物种结论）、Mazelle Washington（被 Imani 发问提及的"前任主人"）、Johnny 与 Sharise（章末示警的对象）
 - **章节主题**：称呼决定对待——同一种东西，被叫作 Not A Bear 时是要防的野兽，被叫作 Beast 又送来水之后，女儿开始想救它
 - **上章回顾**：上一章收在 1980 年 Bear Creek Lodge：年迈的 Mazelle 在脑中与想象里的孙子相伴数小时，以忘却疼痛
@@ -51,7 +51,7 @@ POV: "Tasha 与 Imani（PRESENT DAY，前半贴近 Tasha、后半贴近 Imani，
 
 **为什么这样写**：声音书写走"尺度错置"——先用 a perversion of 借两种小动物的叫声给读者一个熟悉锚点，再在同一句里用 an animal large enough to fill 把锚点拽到吞人的体量，恐惧不来自全新之物，而来自熟悉之物的变形。身体反应也写在认知之前（her hand tried to fly open from reflex），跳过"她害怕"的说明，让手替她怕。
 
-**读者视角提示**：chittering 在前章已是这生物的惯常发声；本章后半 Imani 会亲口重新解释这个声音（她说它做这声音时并不是在生气），先记住 Tasha 这一段的听感，再看女儿怎样把它翻案。
+**读者视角提示**：chittering 在 ch31、ch33、ch34 已写为那生物的发声，上一章 ch36 里 Scout 也用同样的声音招呼病中的 Mazelle；本章后半 Imani 会亲口重新解释这个声音（她说它做这声音时并不是在生气），先记住 Tasha 这一段的听感，再看女儿怎样把它翻案。
 
 ---
 
