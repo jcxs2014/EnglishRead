@@ -1,7 +1,7 @@
 ---
 title: "The Moon Papers by Emmalea Russo: Chapter 34 — Voice, Covering the Moon with an Orange"
 chapter: "Part Two: Extraordinary Beings Have Extraordinary Departures（第 15 节，全书第 34 章）"
-POV: "Voice 叙述者（店员，第一人称限知，街对面是教堂的小店；其姓名本章未出现）"
+POV: "Voice 叙述者（店员，第一人称限知，街对面是教堂的小店；其姓名全章无自报）"
 ---
 
 # 34. Voice
@@ -9,7 +9,7 @@ POV: "Voice 叙述者（店员，第一人称限知，街对面是教堂的小�
 ## 本章导航
 
 - **时空坐标**：叙述的"现在"在店内（擦脸补妆、开灯、数钱箱、把招牌从打烊翻到营业）；回忆的主场是发射前后的一个破晓——Ben 的告白、Vesta 牵流浪狗进店都发生在那段天光未亮的时刻
-- **叙事视角**：第一人称独白，节题 Voice；讲述者姓名本章未出现，全章是口语与短信体混合的自述，时态在"此刻"与"那日"之间滑动
+- **叙事视角**：第一人称独白，节题 Voice；讲述者以 I 叙述但全章无自报姓名，全章是口语与短信体混合的自述，时态在"此刻"与"那日"之间滑动
 - **核心事件**：Ben 想在月亮发射前坦白出轨、称之为"新时代"，她默不作声只摆弄橙子；破晓时分 Vesta 用绳子把流浪狗绑在腰间撞进店里，一条狗咬破 Ben 的手；Vesta 买了蛋糕、软糖、烟和汽水离开；Vesta 失踪之后，她承认当时竟对 Vesta 动了嫉妒
 - **关键人物**：Voice 店员（自述"我"，未名）、Ben（男友／"Maybe ex"，承认出轨）、Vesta（带流浪狗购物，后被说成 missing）、"the whore he fucked"（她脑中挥之不去的对象，本章未给名字）
 - **章节主题**：普通人视角里的两个月亮——新纪元的话术被一只橙子盖住；嫉妒一个失踪的人是一种"reverse guilt"

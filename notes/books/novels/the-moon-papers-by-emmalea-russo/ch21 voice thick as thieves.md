@@ -1,7 +1,7 @@
 ---
 title: "The Moon Papers by Emmalea Russo: Chapter 21 — Voice, Thick as Thieves"
 chapter: "Part Two: Extraordinary Beings Have Extraordinary Departures（第 2 节，全书第 21 章）"
-POV: "画廊实习生（第一人称限知，说话者姓名本章未出现，地点未标注）"
+POV: "画廊实习生（第一人称限知，说话者以 I 叙述但全章无自报姓名，地点未标注）"
 ---
 
 # 21. Voice
@@ -9,7 +9,7 @@ POV: "画廊实习生（第一人称限知，说话者姓名本章未出现，�
 ## 本章导航
 
 - **时空坐标**：月亮发射之后几夜（a few nights ago），说话者回到基本无薪实习的画廊继续干活；具体城市与场馆本章未给出
-- **叙事视角**：第一人称口述体，节题与上一章相同；对面有发问者在场（And here I am talking to you about Vesta fucking Furio 一句坐实"被采访"），说话者只自报"在画廊实习"，姓名本章未出现
+- **叙事视角**：第一人称口述体，节题与上一章相同；对面有发问者在场（And here I am talking to you about Vesta fucking Furio 一句坐实"被采访"），说话者只自报"在画廊实习"，全章无自报姓名
 - **核心事件**：实习生先诉苦——老板从不正眼看她、不承认她的劳动；继而提出自己的 theory：Vesta 与 Lars Arden 从小相识、里应外合，把 CCC 说成危险、不人道的 Voortelle Corporation 机器人，画是两人合谋的道具；但她自己随即拆台——CCC 什么都没做错，看月亮发射是说话者此生最超验的体验，那股兴奋劲儿到现在还没过
 - **关键人物**：说话者（画廊实习生，全章无名）、Vesta（本章作 Vesta fucking Furio 全名）、Lars Arden（被 theory 点名的合谋者；本章另有一位"My boss"，两处是否同一人本章未用一句挑明）、Binky Stratford（Vesta 画中一位平庸的老艺术家）、Moon2 与 Collective 与 CCC（月亮发射的一方）
 - **章节主题**：内部人的证词如何自我拆穿——怨气、亲密关系的八卦与对 spectacle 的沉迷在同一段话里互相抵消
