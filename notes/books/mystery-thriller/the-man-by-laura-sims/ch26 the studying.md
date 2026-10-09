@@ -55,6 +55,9 @@ Judith 说她"I purposely avoided taking self-portraits"，Paul 却说"You've go
 
 Paul 再次建议 Judith"回城里"，认为这会推动她的进步。但 Judith 撒谎说"I’ve had to stay close to home"——她被困住了，而 Paul 并不知道（或假装不知道）原因。
 
+
+**关键词：**
+- (关键词待补充)
 > **原句 2:** "I see," is all he says, and I can sense him studying me, studying my face and the way my hands clench together at my waist, smothering the truth between them.
 
 **中文理解**："我明白了，"他只说了这么一句，我能感觉到他在研究我——研究我的脸，还有我双手在腰间攥在一起的方式，把真相闷死在它们之间。Paul 的"studying"既指研究照片，也指审视 Judith 本人；而 Judith 双手攥在一起的动作是她撒谎时的身体泄露。

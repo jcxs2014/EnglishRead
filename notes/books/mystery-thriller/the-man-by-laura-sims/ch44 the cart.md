@@ -28,12 +28,18 @@ Paul 在超市经理 Harvey 的办公室内接受警员 Prager 的问询。他�
 
 Paul 内心最深的恐惧不是盗窃本身，而是 Judith Stanley 案引发的关注。他的自我认知在"普通小偷"与"谋杀案嫌疑人"之间摇摆——"If he's one kind of criminal, after all, he might be another." 这句话暴露了 Paul 本质上对自己身份的不确定。
 
+
+**关键词：**
+- (关键词待补充)
 ### 2. 信息差：Paul 的策略性优势
 
 > **原句 2:** It helps that Paul's name was never batted around in the news coverage; he was mainly identified as a "person of interest," and once or twice as "Judith's photography instructor."
 
 媒体报道的疏漏成为 Paul 的护身符。他观察到 Prager 的 indifference 并立即利用——把自己包装成"被误解的中产阶级教授"。原文的观察精准："well-dressed middle-class white man—a professor."
 
+
+**关键词：**
+- (关键词待补充)
 ### 3. 谎言构建：hospital 和 fiancée 的叙事
 
 > **原句 3:** "Officer Prager, I didn't steal anything. I paid for the groceries, and I just forgot to pick up my receipt. I was in a hurry, my fiancée is in the hospital. She's waiting for me right now."
@@ -53,12 +59,18 @@ Paul 内心最深的恐惧不是盗窃本身，而是 Judith Stanley 案引发�
 
 Paul 观察到 Prager 的"exasperated look"并确认自己已经赢了。Harvey 的 round face red as a beet、chastised child 的姿态，与 Paul 的胜利形成鲜明对比。
 
+
+**关键词：**
+- (关键词待补充)
 ### 5. 离开：控制权的最终展示
 
 > **原句 5:** As he pushes the full cart of stolen goods to the car, Paul knows without looking back that Harvey, stuffed into that pathetic green vest, is glaring after him.
 
 全章以 Paul 推着满车赃物离开收尾。"pathetic green vest" 是对 Harvey 的最终贬低——他的权威被彻底瓦解，而 Paul 重获控制。
 
+
+**关键词：**
+- (关键词待补充)
 ## 心理层次
 
 | 层次 | 内容 |

@@ -30,6 +30,9 @@ Paul 在收银台之间游走，物色目标，然后混入队伍——这是他
 
 ### 2. 经理拦截：控制权的考验
 
+
+**关键词：**
+- (关键词待补充)
 > **原句 2:** "Did you pay for those?" The man is about Paul's age but heavyset, with a green vest pulled tight over his belly and a name tag that reads Store Manager. Paul gives him an easy smile.
 
 **中文理解**："这些你付钱了吗？"那人跟 Paul 年龄相仿，但身材魁梧，绿色背心紧紧裹着肚子，胸口的名牌写着"店长"。Paul 轻松地朝他微微一笑。
@@ -57,6 +60,9 @@ Paul 在收银台之间游走，物色目标，然后混入队伍——这是他
 > **原句 4:** When Paul turns, he sees a man walking toward them. In uniform. Local police.
 
 全章以警察登场收尾。Paul 权衡了各种选项——逃跑、装作无辜、继续演戏——但最终选择跟随 Harvey 回到店内，这一决策让他陷入更深的困境。警察的出现意味着 Paul 对局面控制权的彻底丧失。
+
+**关键词：**
+- (关键词待补充)
 
 ## 心理层次
 

@@ -63,6 +63,9 @@ Judith 设法坐到椅子上，但也仅此而已。她看着时钟指针前进�
 
 而真正的 Judith——"the only one I know and am"——看着 Tom 惊慌的眼神，听着他急切的问题，仿佛隔着一层水。她让眼泪落下，说：
 
+
+**关键词：**
+- (关键词待补充)
 > **原句 3:** But the other Judith, the only one I know and am, looks into Tom's panicked eyes, hearing his frantic questions as if through water. I let the tears fall and say, "Oh, Tom." And I tell him almost everything.
 
 **中文理解**："哦，Tom。" Judith 在真实的 Judith 只能流着泪说出这两个词——这是她能给予 Tom 的全部：一个感叹、一个名字。然后她告诉他"几乎一切"。"Almost everything"是她对 Tom 的回答——她说了，却又不完全说。最核心的秘密（童年被攻击、跟踪者就是那个人）仍然深埋。

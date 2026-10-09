@@ -23,6 +23,9 @@
 
 **为什么这样写**：开篇即点出两人关系的本质——在课堂上 Judith 一直是"安静的旁观者"，Sorenson 教授从未真正注意过她。此刻他"像第一次看见我一样"，暗示 Judith 渴望被看见，而她的作品成了被看见的媒介。handful of prints 不是大量作品，恰恰说明她交出的数量之少，与其孤僻性格一致。
 
+**关键词：**
+- (关键词待补充)
+
 ---
 
 > **原句 2:** I feared he'd look into her face, into those tearing eyes, and see the younger me—like I did.
@@ -34,6 +37,9 @@
 **关键词**：tearing eyes / the younger me / like I did
 
 **为什么这样写**："Parade Girl"的照片是全章的情感核心。Judith 害怕的不是教授评价她的技术，而是怕他透过照片中那个哭泣的女孩，看见"年少时的自己"——这暗示 Judith 有一段与照片中女孩相似的创伤或痛苦经历。"like I did" 表明她自己看这张照片时也无法避免地看到了过去的自己。tearing eyes 是视觉焦点，也是情感共鸣的触发点。
+
+**关键词：**
+- (关键词待补充)
 
 ---
 
@@ -47,6 +53,9 @@
 
 **为什么这样写**：Sorenson 教授的赞叹"轻到像自言自语"，反常规的强烈反应比大声喝彩更有说服力——他不是在客套，而是真的被触动。这种克制的反应与 Judith 内敛的性格形成呼应，让她更容易接受这份赞美，也解释了为什么 Judith 随后会"脸颊发热"（warm with his words of praise）。
 
+**关键词：**
+- (关键词待补充)
+
 ---
 
 > **原句 4:** I can suddenly hear the loud ticking of the classroom clock.
@@ -58,6 +67,9 @@
 **关键词**：suddenly / loud ticking / clock
 
 **为什么这样写**：这是本章最精炼的环境意象。Judith 从高度集中的状态中突然"出来"，周围世界的声音重新涌入——滴答声突然变得清晰。这种感官的突然转变暗示她刚才处于一种极度紧张/专注的状态（等待 Sorenson 教授对 Parade Girl 的反应），而现在他给出正面评价后，她才重新"听见"外部世界。loud 是心理感知的放大，而非物理音量的测定。
+
+**关键词：**
+- (关键词待补充)
 
 ---
 
@@ -71,6 +83,9 @@
 
 **为什么这样写**：Judith 对"把照片公之于众"的抗拒被她用了一个极为具体而生动的比喻来表达——"裸身站在城镇广场上"。这个意象与她摄影师的身份形成反讽：她习惯透过镜头观察别人，却极度恐惧自己成为被观察的对象。town green 是公共场所的典型意象，裸身站在其中意味着彻底暴露、毫无保护。though 句的存在说明她理性上理解 Sorenson 的好意，但感性上无法克服这种暴露恐惧。
 
+**关键词：**
+- (关键词待补充)
+
 ---
 
 > **原句 6:** But the force behind his words and his pleading smile act on me like a stiff old-fashioned—my grandmother's drink—coursing through my veins.
@@ -82,6 +97,9 @@
 **关键词**：the force / pleading smile / stiff old-fashioned / coursing through my veins
 
 **为什么这样写**：这是全章最重要的隐喻。祖母的鸡尾酒是"老派"的事物，暗示传统、家常、与过去的联系；"stiff"（烈性的）和"coursing through my veins"则暗示一种强烈的、生理性的冲击——Sorenson 的邀请对 Judith 造成了近乎本能的吸引力。pledging smile 透露出他真诚的热情，而 Judith 对这种热情无法抗拒。"old-fashioned"同时呼应了她孤僻、怀旧的性格特点。
+
+**关键词：**
+- (关键词待补充)
 
 ---
 
@@ -95,6 +113,9 @@
 
 **为什么这样写**：Judith 用这句话揭示了她此前的人生态度——只做最低限度的事，不对未来做任何展望。Sorenson 的出现和高度评价让她突然有了"想展示更多"的念头，这种想法本身就是一个转折点，说明她开始被某种力量推动着走出自己的封闭状态。class requirement 将她的摄影创作框定为被动的学业任务，而非主动的艺术表达。
 
+**关键词：**
+- (关键词待补充)
+
 ---
 
 > **原句 8:** What could it hurt, to show him more?"
@@ -106,6 +127,9 @@
 **关键词**：could it hurt / show him more
 
 **为什么这样写**：全章以这句话收尾，是 Judith 内心转折的具体化：从"恐惧暴露"到"试探性开放"。这个问句本身已经预设了答案——"没什么会损失"——是她给自己的心理许可。问句形式暗示犹疑和自我质疑，但选择提出这个问题本身就说明她已经在朝"愿意"的方向倾斜。show him more 回应了 Sorenson 开头说的"Bring me your work anytime. I'd love to see more."，形成一个情感上的闭环。
+
+**关键词：**
+- (关键词待补充)
 
 ---
 

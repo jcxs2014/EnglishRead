@@ -27,6 +27,9 @@
 
 **为什么这样写**："And even though Paul knows better"揭示了他的矛盾——他理性上知道这是印刷品，但情感上仍然被它控制。"Paul checks over his shoulder to see if anyone else has witnessed his exposure as a sham"是全章最关键的一句：Paul 在公共场所突然感到被看穿——不是被 Judith（她已死），而是被他自己的良心。
 
+**关键词：**
+- (关键词待补充)
+
 ---
 
 ### 精读块 2：被恭喜的时刻
@@ -44,6 +47,9 @@
 
 **为什么这样写**：Amir 的恭喜是全章唯一来自外部的真诚认可。Paul 接过雪茄，感受到"gladly, gratefully"——这种感恩是真实的，因为在这之前他一直是独自承受着谎言的重量。"He's happy again, proud of what he's done. Who he's become. A true success."是 Paul's 的内心独白——"who he has become"暗示他不再是原来的自己，而是他新创造的身份。
 
+**关键词：**
+- (关键词待补充)
+
 ---
 
 ### 精读块 3：封面描述与身份建构
@@ -59,6 +65,9 @@
 - **bogus**：假的——Paul 担心"bogus story of her 'last wish'"被看穿
 
 **为什么这样写**："He tried to get them to change them—or their order, at least"揭示了 Paul's 的控制欲：他不只想要名声，还想要正确类型的名声。Paul 承认他试图改顺序或措辞，但"编辑们"坚持这样做——"They said it would sell"——Paul 接受了这个叙事，因为它强化了他的正当性叙事。
+
+**关键词：**
+- (关键词待补充)
 
 ---
 
@@ -76,6 +85,9 @@
 
 **为什么这样写**："He feels as though he's floating in air, observing himself from above."是 Paul's 的解离体验：他在自己之外看自己——这是全章最赤裸的自恋暴露。他不是在为 Judith 的作品感到兴奋，而是为"自己的选择和判断"感到兴奋。"And here they are."——这句话的完成时态揭示了 Paul's 的成就感：他把事情做成了。
 
+**关键词：**
+- (关键词待补充)
+
 ---
 
 ### 精读块 5：导语中的核心谎言
@@ -91,6 +103,9 @@
 - **sleepwalking / smacked me awake**：睡眠与惊醒的意象——Paul 把 Judith 的照片写成让他"觉醒"的力量
 
 **为什么这样写**："He followed her, too"——这是全书最黑暗的句子之一：Paul 在导语中用第三人称描述自己就是 stalker。"I might have saved her"是彻底的谎言：他不可能"拯救"一个被他亲手杀死的人。
+
+**关键词：**
+- (关键词待补充)
 
 ---
 

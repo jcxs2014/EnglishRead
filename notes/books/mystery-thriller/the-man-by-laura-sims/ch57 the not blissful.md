@@ -127,6 +127,9 @@
 
 **句子结构**："I was" 是直接承认——Paul 没有否认自己是最后一个见到 Judith 的人。"I wish I—could have done something" 是情感表演，中断了的话语暗示他无法说出"save her"这样的词。"Folds his arms across his chest and stares into the distance" 是 Paul's 的身体语言：防御姿态 + 逃避目光。他用"安全地"这个词形容自己的凝视方向——他需要找到一个"安全"的位置来逃避 Charlie 和全班的目光。
 
+
+**关键词：**
+- (关键词待补充)
 **关键词：**
 - **I was**：我是——Paul 直接承认，没有否认
 - **I wish I—could have done something**：我希望我能做点什么——中断的话语制造情感压力，实际上是演戏
