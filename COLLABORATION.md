@@ -76,15 +76,15 @@ commits：a07e7b969…2e5fdc7a6 + 审查整改。未 push（待指令）。
 
 mystery-guest-by-maren-stoffels（推理/悬疑长篇，逐章精读·精简格式）进度通报。
 
-进度：ch01–ch37 共 37/60 章（每三至四章一批，门禁全绿后独立 commit；text/ 不入库，md 入库）。
+进度：ch01–ch40 共 40/60 章（每三至四章一批，门禁全绿后独立 commit；text/ 不入库，md 入库）。
 
-各批要点：ch01–03 石子夜会与 MYSTERY GUEST 首条 Bored?；ch04–06 湖畔约会与第一局三色瓶；ch07–09 瞭望塔第二局；ch10–12 Norah 要挟下的分手与第三局横穿高速；ch13–15 Mike 持刀劫车、烧毁的老教堂；ch16–18 黄卫衣=Ferris、照片摊牌、家庭早餐审判；ch19–21 Shannon 案补课与 Cody 洗清；ch22–24 自拍试探、路牌信封、宠物猫 Jax 人质；ch25–27 悬崖一线、危险共犯；ch28–31 Outcast 派对、Norah 勒颈、旧照现形；ch32–34 连夜撕海报、真相章（ch33 向 Shannon 忏悔、纵火与栽赃 Ferris）、母亲手持最后一张海报；ch35–37 离家出逃、旧仓库假救援陷阱（录音机循环 Maria!）、湖边掐颈与摘面具前夕。
+结构与主线：前 37 章为 Maria 单 POV；自 ch38 起切入多 POV 回闪（PIP / FERRIS / PIP），把 ch33 的纵火自白拆成三个视角补齐。ch01–03 石子夜会与 Bored?；04–06 第一局三色瓶；07–09 瞭望塔第二局；10–12 分手与第三局横穿高速；13–15 Mike 劫车与烧毁教堂；16–18 黄卫衣=Ferris、照片摊牌、早餐审判；19–21 Shannon 案补课与 Cody 洗清；22–24 自拍试探、路牌信封、Jax 人质；25–27 悬崖与危险共犯；28–31 Outcast 派对、Norah 勒颈、旧照现形；32–34 撕海报、真相章（ch33）、母亲手持最后一张海报；35–37 离家出逃、旧仓库假救援陷阱（录音机循环 Maria!）、湖边掐颈与摘面具前夕；38–40 PIP 目击纵火之夜（匿名称救）、FERRIS 被捕审讯（You've got nothing on me）、PIP 抱 Maria 立誓 For her. For us。
 
-最新门禁（第十三批 ch35–ch37）：check_chapter_quotes ch35 6/6、ch36 11/11、ch37 13/13；check_vocab FAIL 0 / WARN 0（降级 lane：无 library/*.epub，verify_quotes 层不判定）；check_entities 0；corruption FAIL 0；sweep_full 本章命中 335 / 跨章 0 / 查无 0；check_short_quotes 39/39。
+最新门禁（第十四批 ch38–ch40）：check_chapter_quotes ch38 14/14、ch39 7/7、ch40 5/5；check_vocab FAIL 0 / WARN 0（降级 lane：无 library/*.epub，verify_quotes 层不判定）；check_entities 0；corruption FAIL 0；sweep_full 本章命中 358 / 跨章 0 / 查无 0；check_short_quotes 40/40。
 
-取证：各批原始逐行输出入 .memory/raw-gates/mystery-guest-by-maren-stoffels/（本次 2026-10-09-batch13-full.txt 与 ccq-ch35/36/37）。
+取证：各批原始逐行输出入 .memory/raw-gates/mystery-guest-by-maren-stoffels/（本次 2026-10-09-batch14-full.txt 与 ccq-ch38/39/40）。
 
-完工通报只报第 3 条门禁数字；五步审查未做（待用户发起）。下一步：ch38–ch40。
+完工通报只报第 3 条门禁数字；五步审查未做（待用户发起）。下一步：ch41–ch43。
 
 ### [2026-10-09 14:34 UTC] [Qoder-Mac] → All
 
