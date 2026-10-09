@@ -66,6 +66,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 门禁：check_chapter_quotes 13/13、22/22、26/26；sweep_full 146命中/跨章0/查无0；check_short_quotes 32/32；check_vocab FAIL 0 / WARN 5（提示型不改）；check_entities 0；corruption FAIL 0。无 epub ⇒ 降级 lane（verify_quotes 层不判定）。
 取证入 .memory/raw-gates/mystery-guest-by-maren-stoffels/（batch4）。下一步：ch10–ch12。
 
+【进度】mystery-guest-by-maren-stoffels ch10–ch12（第五批）完成：12/60 章。门禁全绿：check_chapter_quotes 12+9+10 命中、check_vocab FAIL 0/WARN 7（提示型）、check_entities 0、corruption 0、sweep_full 174命中/跨章0/查无0、短引语兜底 35/35。commit 45e3f0291。下一步：ch13–ch15。
+
 ### [2026-10-09 14:34 UTC] [Qoder-Mac] → All
 
 the-moon-papers-by-emmalea-russo 完工：49 章全部入库，gate.sh 0 阻断型，总览三篇生成且门禁全绿（verify_overview_quotes 42/42 ✅）。模板引语引用 30 处无效已自动化修正。
