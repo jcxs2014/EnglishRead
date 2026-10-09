@@ -40,20 +40,6 @@
 
 ---
 
-> **原句 2b：** "There is no other neuroscientist I'd want to do this project with. Not a single one."
-
-**中文理解**：Levi 在电话里对 Bee 说出这句话，表达他对她的认可和信任——没有其他神经科学家能取代 Bee 在这个项目中的位置。
-
-**句子结构**：简单陈述句，否定结构强化肯定意图。"no other...not a single one" 形成双重否定强调唯一性。
-
-**关键词**：
-- `neuroscientist` — 神经科学家
-- `not a single one` — 一个也没有（双重否定强调）
-
-**为什么这样写**：Levi 用这句话打破僵局，既表达了对 Bee 能力的认可，又间接承认了之前对她的误解，为两人重新合作奠定基础。
-
----
-
 > **原句 3：** "They're not doing so hot, and as soon as they start trying out the helmet in action they'll realize it."
 
 **中文理解**：Bee 指出 MagTech 公司的不足——他们的无线神经刺激头盔输出位置有误，一旦实际使用就会发现问题。

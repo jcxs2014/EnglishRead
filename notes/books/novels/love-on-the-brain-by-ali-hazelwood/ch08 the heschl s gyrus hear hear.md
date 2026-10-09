@@ -41,17 +41,17 @@ title: "The Love on the Brain by Ali Hazelwood"
 
 ---
 
-> **原句 2b（叙述描写）：** "He sounds calmly exasperated, which should be technically impossible, but Levi does have a knack for bringing oxymorons to life."
+> **原句 4：** "Not nearly as good as her, not when it comes to neurostimulation."
 
-**中文理解**：他听起来冷静又恼火——这在技术上本应不可能，但 Levi 确实擅长把矛盾修饰法变成现实。
+**中文理解**：「在神经刺激方面，没有任何人能与她相比。」Levi 在 Boris 面前毫不犹豫地肯定 Bee 的专业能力——这是全章最直接的赞美，与他平时的冷漠形成鲜明反差。
 
-**句子结构**：主系表结构 + which 引导的非限制性定语从句。calmly exasperated 是矛盾修饰法（oxymoron）。
+**句子结构**：双重否定结构。"Not nearly as good as her" 是否定，"not when it comes to neurostimulation" 是补充条件。语气强烈而不容置疑。
 
 **关键词**：
-- `calmly exasperated` — 矛盾修饰法，"冷静地恼火"，精准描述 Levi 的声音特质
-- `bringing oxymorons to life` — 把矛盾修饰法变成现实，形容 Levi 声音里充满无法调和的矛盾
+- `not nearly as good as` — 远不如；根本比不上
+- `neurostimulation` — 神经刺激（Bee 的专业领域）
 
-**为什么这样写**：这是全章的核心观察。Levi 对 Bee 的评价是"不专业"，但 Bee 听到的却是"calmly exasperated"——冷静和恼火并存。这种矛盾正是 romance 男主的典型声音：表面冷淡，内里波涛汹涌。"does have a knack for"暗示这种矛盾是 Levi 声音的内在特质，是他性格的映射。
+**为什么这样写**：这是 Levi 第一次在公开场合（与 Boris 的对话中）明确表达对 Bee 能力的认可。与前文他"贬低"Bee 形成鲜明对比——读者知道他在暗中支持她，但没想到他的支持如此绝对。这句话也是 Bee 偷听这段对话的原因：她本来预期听到更多批评，却听到了意想不到的赞美。
 
 ---
 

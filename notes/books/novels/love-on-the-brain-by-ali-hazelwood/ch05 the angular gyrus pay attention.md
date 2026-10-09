@@ -44,17 +44,17 @@ title: "The Love on the Brain by Ali Hazelwood"
 
 ---
 
-> **原句 3：** "I might be reading too much into the way his spine goes rigid, but something about how he stops reminds me of an inmate being watched."
+> **原句 3：** "I might be reading too much into the way his spine goes rigid, but something about how he stops reminds me of an inmate getting caught by the guards just a step away from breaking out of prison."
 
-**中文理解**：我可能过度解读了他脊背僵硬的方式，但他停下来时的某种东西让我想起被监视的囚犯。
+**中文理解**：我可能过度解读了他脊背僵硬的方式，但他的某种停下方式让我想起一个快要逃出监狱却被狱警抓住的囚犯——差一步就自由了，却被重新抓回。
 
-**句子结构**：`I might be reading too much into` 是自嘲式插入语；`the way his spine goes rigid` 是主语；`reminds me of an inmate being watched` 是谓语+宾语。
+**句子结构**：`I might be reading too much into` 是自嘲式插入语；`the way his spine goes rigid` 是主语部分；`reminds me of an inmate...` 是谓语+宾语。`just a step away from breaking out of prison` 补充说明囚犯的处境——不是"被监视"，而是"差点就成功了却功亏一篑"。
 
 **关键词**：
-- `spine goes rigid` — 脊背僵硬，Bee 对 Levi 肢体语言的精准观察
-- `inmate being watched` — 囚犯被监视的状态；暗示 Levi 被"某种东西"监视——可能是她，可能是他们之间的历史，也可能是他自己的情绪
+- `spine goes rigid` — 脊背僵硬，Levi 面对 Bee 时的身体紧张
+- `inmate getting caught` — 囚犯被抓；Bee 把 Levi 的"停下"比作即将越狱却被抓回的囚犯，暗示他本来也有接近她的冲动，却被某种东西阻止
 
-**为什么这样写**：这是 Bee 对 Levi 行为反应的观察。她在解读他的肢体语言：他停下来不是因为放松，而是像被监视的囚犯一样警觉。这暗示 Levi 在面对她时同样紧张——两人其实处于同等的尴尬状态。
+**为什么这样写**：这是 Bee 对 Levi 行为反应的观察。她在解读他的肢体语言：他的"僵硬停下"不是冷漠，而是像快要逃离却被抓回的囚犯——他自己也在挣扎，却没能迈出那一步。"差点就成功了"（just a step away）暗示两人其实都在越狱的边缘。
 
 ---
 
@@ -86,7 +86,7 @@ title: "The Love on the Brain by Ali Hazelwood"
 
 | 词条 | 释义 | 例句 |
 |------|------|------|
-| rigid | 僵硬的 | I might be reading too much into the way his spine goes **rigid**, but something about how he stops reminds me of an inmate getting caught by the guards. |
+| rigid | 僵硬的 | I might be reading too much into the way his spine goes **rigid**, but something about how he stops reminds me of an inmate getting caught by the guards just a step away from breaking out of prison. |
 | follow through | 完成（未完成的动作） | Embarrassing, how breathless I sound when I get excited. I need to **follow through** with my Couch-to-5K plans. |
 
 ### ⭐ 基础

@@ -56,17 +56,16 @@
 
 ---
 
-> **原句 4：** "You were always in my head. And I could never get you out."
+> **原句 4：** "Red lipstick looks great on you."
 
-**中文理解**：「你一直在我脑子里。我怎么也把你赶不出去。」
+**中文理解**：「红唇脂在你身上很好看。」Bee 用这句话回应 Levi 盯着她红唇看的目光——这是她第一次对 Levi 的身体关注给予正面回应，而非用讽刺来防御。
 
-**句子结构**：两个并列的简短陈述句，and连接。always频率副词加强时间跨度的漫长感，never双重否定强化无法自拔的状态。
+**句子结构**：主系表结构，looks 是系动词，great 是表语，on you 是介词短语作方向状语。
 
 **关键词**：
-- `in my head` 在我脑海里（挥之不去）
-- `get out` 离开；摆脱
+- `looks great on` — 穿/戴……很好看（在某人身上显得很漂亮）
 
-**为什么这样写**：这是Levi重述他当年对Dan说的话。Bee此时才得知，Levi并非从一开始就讨厌她——他只是因为Dan会当面问Bee"你是不是那个我兄弟喝醉时唠叨的女孩"而感到尴尬。这段回忆与第18章的告白形成呼应，进一步证实了Levi感情的深度与持久性。
+**为什么这样写**：这是 Bee 第一次正面回应 Levi 的目光。"looks great on you" 将焦点放在 Levi 身上（红唇在他脸上好看），而非 Bee 自己——她用把赞美转向对方的方式来接受自己的吸引力。整晚约会结束后，她终于能用一句简单的话承认她在乎 Levi 对她的看法。
 
 ---
 
@@ -100,17 +99,17 @@
 
 ---
 
-> **原句 7：** "There has to be a miracle in there, no?"
+> **原句 7：** "Looks like you got it."
 
-**中文理解**：「这其中一定有某个奇迹，不是吗？」
+**中文理解**：「看来你做到了。」Boris 在看到 BLINK 原型成功后的肯定——这是全章最平静却最关键的肯定。
 
-**句子结构**：There be句型的特殊疑问式，no作附加疑问。Miracle in there指的是Levi在如此糟糕的原生家庭中成长为人品端正、体面成功的人这件事本身就是一个奇迹。
+**句子结构**：主谓结构，Looks 是系动词，like 引导表语从句，you got it 是从句内容。口语化的 "Looks like you got it" 比正式汇报更显轻描淡写。
 
 **关键词**：
-- `miracle` /ˈmɪrəkəl/ n. 奇迹
-- 例：It's a miracle that no one was hurt in the accident.
+- `looks like` — 看来；似乎
+- `got it` — 做到了；成功了
 
-**为什么这样写**：这是Bee在得知Levi的童年经历后的感叹。她用miracle这个词，既是调侃Levi能从"no nature and no nurture"中存活下来是不可思议的，也暗示了她对Levi的深深欣赏。这句话也出现在Levi提议去吃冰激凌的语境中，展现了Bee在严肃话题后用幽默缓解气氛的习惯。
+**为什么这样写**：这是 Boris 对 Bee 工作的认可，也是全章从"技术突破"到"人情关系"过渡的节点。Boris 的轻描淡写与前文紧张的技术攻关形成反差——他用最简单的话给了最高的评价，也暗示了后文他主动提出让 Bee 领导 NASA 神经科学团队的原因。
 
 ---
 
