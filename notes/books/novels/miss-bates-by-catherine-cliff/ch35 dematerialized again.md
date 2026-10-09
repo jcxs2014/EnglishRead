@@ -44,7 +44,7 @@ title: Miss Bates 精读 34 · Chapter 11（Part Three）
 
 > **原句 3:** "“Wonderful.” Henrie had dematerialized again. Mrs. Elton was picking up her bags. “Perhaps I should have come in the coach, so tiresome to carry all these items. I declare, I walk into Ford’s and I forget my list entirely and buy whatever strikes my fancy. I’m sure I will return home without what I came for. Mr. Elton will be quite cross with me, but he never stays mad for long. We married women have our secret ways of smoothing over domestic strife, as I’m sure you can imagine. See you tomorrow, Jane! I hope I may call you Jane, as we are to be such friends, we chatterboxes!”"
 
-**中文理解**：Henrie 说了句"太好了"，随即又"隐形"了——Mrs. Elton 只顾收拾包裹，开始滔滔自述：本该坐马车来，东西太沉；一进 Ford's 就忘了清单，见什么买什么；回去多半没买到要买的，Mr. Elton 会不高兴，不过他气不长；我们已婚女人自有平息家务风波的秘密办法，你懂的。然后只对 Jane 说：明天见！我可以叫你 Jane 吧——我们就要成为好朋友了，我们这两个话痨！
+**中文理解**：Mrs. Elton 丢下一句"太好了"，随即 Henrie 又"隐形"了——这位牧师太太只顾收拾包裹，开始滔滔自述：本该坐马车来，东西太沉；一进 Ford's 就忘了清单，见什么买什么；回去多半没买到要买的，Mr. Elton 会不高兴，不过他气不长；我们已婚女人自有平息家务风波的秘密办法，你懂的。然后只对 Jane 说：明天见！我可以叫你 Jane 吧——我们就要成为好朋友了，我们这两个话痨！
 
 **关键词**：dematerialized, domestic strife, chatterboxes
 
@@ -64,7 +64,7 @@ title: Miss Bates 精读 34 · Chapter 11（Part Three）
 
 **读者视角提示**：结合下一句 Henrie 强行往好处想（"她只是忘了让我叫她 Augusta"）和末尾"我们又是一个队的了"——母女对同一件事的两种消化方式，正是这条主线的写法。
 
-## 词汇分级
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 

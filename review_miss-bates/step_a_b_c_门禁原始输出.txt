@@ -1,0 +1,126 @@
+# Miss Bates: Emma Revisited — 五步审查 Step a/b/c 门禁原始输出
+日期：2026-10-09 16:15
+Lane：完整 lane（有 epub）
+
+## 门禁 1: verify_quotes（引文逐字）
+ch64 epilogue augusta elton.md: 4/4 ✅
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 256/256 引文可核实（100%）；完全干净文件 64/64；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+## 门禁 5: verify_quotes --full（取证，不参与退出码）
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 256/256 引文可核实（100%）；完全干净文件 64/64；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+## 门禁 2: check_vocab
+词条行合计: 687
+
+--- FAIL (0) ---
+
+--- WARN (15) ---
+  ch02 prologue june 1812.md [基础] 基础档疑含超纲词「self-possession」
+  ch12 miraculous spectacles.md [基础] 基础档疑含超纲词「accommodations」
+  ch17 in the churchyard.md [基础] 基础档疑含超纲词「embarrassing」
+  ch17 in the churchyard.md [基础] 基础档疑含超纲词「shrieking」
+  ch19 best for jane.md [基础] 基础档疑含超纲词「compliant」
+  ch22 a professional in gray.md [基础] 基础档疑含超纲词「forefinger」
+  ch23 jane writes letters.md [基础] 基础档疑含超纲词「announced」
+  ch31 swept out of her own story.md [基础] 基础档疑含超纲词「spectacles」
+  ch37 ripped syllable.md [基础] 基础档疑含超纲词「petticoat」
+  ch39 wooden overshoes.md [基础] 基础档疑含超纲词「shivering」
+  ch41 there lies the difficulty.md [基础] 基础档疑含超纲词「somersault」
+  ch43 the beast arrives.md [基础] 基础档疑含超纲词「whispered」
+  ch45 letter to the colonel.md [基础] 基础档疑含超纲词「instrument」
+  ch51 sitting by janes bed.md [基础] 基础档疑含超纲词「handkerchiefs」
+  ch55 emmas discontent.md [基础] 基础档疑含超纲词「transformed」
+
+## 门禁 3: check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+## 门禁 4: corruption_scan
+
+=== 编辑损坏扫描（miss-bates-by-catherine-cliff）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+## 门禁 6: sweep_full（引语整串 flat）
+=== 引语整串 flat 比对（miss-bates-by-catherine-cliff）===
+  参照集：text/ 逐章（63 章，可定章） + epub 交叉验证
+  ✅ 本章命中 244 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+
+## 门禁 7: verify_overview_quotes
+00_情感节点.md: 12/12 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: ➖ 无引语行（正常，非门禁项）
+
+=== 总览引文 12/12 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+## 门禁 8: audit_structure
+=== 精读结构扫描（miss-bates-by-catherine-cliff）===
+  扫 66 个 md、258 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 4
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+## 门禁 9: check_short_quotes
+=== 短引语兜底核对（miss-bates-by-catherine-cliff）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+## 门禁 10: check_anchor
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（63 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 1 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 松散关键词明细 ──
+     ch21 spin and letters.md:37  关键词「put spin, stave off, dire」的「dire」在全书有、本块无
+
+## 门禁 11: audit_numbers
+  ⚪ ch26 the notebook.md:53  「五六岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch59 not to be burnt like rubbish.md:12  「三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch60 women who lost their babies.md:39  「三岁」年龄/百分比类，文本层推不出真值，只列出待人核
+
+## 门禁 12: check_crossref
+交叉引用核对：0 对，报警 0
+
+## 门禁 13: sweep_analysis_inline
+=== 分析层行内英文逐字核查（miss-bates-by-catherine-cliff）===
+  参照集：text/（63 个提取件） + epub 交叉验证 ；扫 66 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：1065 个表格行、653 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 1044 ｜ ⚠️ 跨章 3 ｜ 🔶 拼接 5 ｜ 🟠 部分命中 3 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 829
+  ⚠️  ch03 the guillotine and george.md:39  「liked her」→ 实为 ch4
+  ⚠️  ch20 village living overstated.md:29  「so simple and elegant」→ 实为 ch19
+  ⚠️  ch38 allowing jane to go.md:41  「controlled voice」→ 实为 ch37
+  🔶 ch08 mending at the vicarage.md:51  「grateful enough... to feed me」→ 分段命中
+  🔶 ch25 moved the furniture.md:63  「sewing ... to their seats with her relentless chatter」→ 分段命中
+  🔶 ch40 official loss of hope.md:27  「dated…to」→ 分段命中
+  🔶 ch57 tricky albert.md:41  「her arrival……became very welcome」→ 分段命中
+  🔶 ch64 epilogue augusta elton.md:63  「so different from... energetic smiles of old」→ 分段命中
+  🟠 ch13 without her spectacles.md:39  「paw decide if they were good enough」→ 内容词 4/4 命中（decide/enough/good/paw）——疑漏词或改写
+  🟠 ch33 ritardando.md:39  「No. Not a single letter. No letters. Enough.」→ 内容词 4/4 命中（enough/letter/letters/single）——疑漏词或改写
+  🟠 ch58 so happy to see you.md:63  「a sly scam confusion and misery」→ 内容词 4/4 命中（confusion/misery/scam/sly）——疑漏词或改写
+
+## 门禁 14: check_overview_full
+  参照集：text/ 逐章（63 章） ｜ 总览文件 3 个
+  A 整串：命中 38 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 38 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+## Step b: check_chapter_quotes 逐章归属汇总
+## Step b: check_chapter_quotes 逐章归属
+逐章归属：63/63 全部 X/X in chNN text，零跨章搬句
+
+## d 步机械子项（第二实现，tracked）
+- check_struct_indep:
+=== 独立结构扫描：63 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+- check_xref_indep:
+=== chNN 引用 222 处：英文证据报警 0 处 ／ 中文式待人判 209 处 ／ 🔶 同章省略号拼接（提示，不判红）0 处 ===
+- check_analysis_indep:
+抽出分析层英文片段 323 条
+✅ 全部片段在全书 text/ 逐字命中

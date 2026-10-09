@@ -20,7 +20,7 @@ title: Miss Bates 精读 11 · Chapter 10（Part One）
 
 > **原句 1:** "The spectacles were miraculous; Henrie could see as she never had before. Perhaps miraculous was not the right word. Devastating. She did have pockmarks. And, it could not be denied, a small moustache. Why hadn't Jeannette told her? And her hair grew just like a shaggy bear's—the young scholars had been right; Mrs. Mott had not exaggerated. A nose like a Gloucestershire Old Spot."
 
-**中文理解**：妹妹寄来的眼镜本是善意，却让 Henrie 第一次"看清"自己的脸——麻点、小胡子、乱发，全是她靠看不清而没受过的伤害。作者用"奇迹→毁灭"的一词翻转，把"获得视力"写成一场灾难。
+**中文理解**：妹妹寄来的眼镜本是善意，却让 Henrie 第一次"看清"自己的脸——麻点、小胡子、乱发，全是她靠看不清而没受过的伤害；连鼻子也被比作一头格洛斯特老花斑猪（Gloucestershire Old Spot，一种脸面布满黑白斑的猪）。作者用"奇迹→毁灭"的一词翻转，把"获得视力"写成一场灾难。
 
 **关键词**：spectacles, Devastating, pockmarks
 
@@ -44,9 +44,7 @@ title: Miss Bates 精读 11 · Chapter 10（Part One）
 
 > **原句 3:** "The real shock, far more so than the death itself (which was, after all, something Henrie had given quite a bit of thought to), was the news from the lawyer, Mr. Cole, who had arrived, twisting and squinting with the awkwardness of explaining Mr. Bates's financial position at the moment of his exit. They met him in the vicar's study and he sat at his late client's desk while the women sat in the former pupils' chairs. They were quite low to the ground and had to lean their heads back to make eye contact with the lawyer as he described their dire position. He assumed a level of knowledge that Henrie and her mother most certainly didn't have. "As you know," and "It comes as no surprise, I'm sure," and "This has been a long time in the making" punctuated his speech. This initial revelation was followed by a momentary pause as Mr. Cole turned over the pages he had on the desk before him. Henrie felt the panic rising—he seemed to be talking to people who were not them, and she had to get his attention so they could understand."
 
-**中文理解**：真正的打击远超死亡本身（那件事毕竟 Henrie 早想过很多），是律师 Mr. Cole 带来的消息——他一路别扭地扭着身子、眯着眼睛，来解释 Mr. Bates 在离世那一刻的财务状况。他们在牧师书房见他，他坐在已故委托人的书桌后，两位女士坐在原先学生的椅子上。那些椅子离地面很低，她们不得不仰着头，才能与律师对视，听他描述她们已陷入绝境的处境。他预设了 Henrie 和她母亲根本不具备的知识水平。"你们知道，""我相信这并不意外，""这已是积弊已久"这类话不断打断他的陈述。最初的披露之后是一阵短暂的停顿，Mr. Cole 翻动着桌上的纸页。Henrie 感到恐慌上涌——他似乎在对一群不是她们的人说话，她必须引起他的注意，她们才能明白。
-
-**中文理解**：父亲之死不是最痛的一击，真正的崩塌是律师带来的破产真相。这场"宣判"被作者写成一场悬殊的权力戏：律师坐在死者的位子上，母女坐在矮小的学生椅上仰头听判，他口口声声"你们知道"，其实她们一无所知。
+**中文理解**：真正的打击远超死亡本身（那件事毕竟 Henrie 早想过很多），是律师 Mr. Cole 带来的消息——他一路别扭地扭着身子、眯着眼睛，来解释 Mr. Bates 在离世那一刻的财务状况。他们在牧师书房见他，他坐在已故委托人的书桌后，两位女士坐在原先学生的椅子上。那些椅子离地面很低，她们不得不仰着头，才能与律师对视，听他描述她们已陷入绝境的处境。他预设了 Henrie 和她母亲根本不具备的知识水平。"你们知道，""我相信这并不意外，""这已是积弊已久"这类话不断打断他的陈述。最初的披露之后是一阵短暂的停顿，Mr. Cole 翻动着桌上的纸页。Henrie 感到恐慌上涌——他似乎在对一群不是她们的人说话，她必须引起他的注意，她们才能明白。父亲之死不是最痛的一击，真正的崩塌是这场破产"宣判"：律师坐在死者的位子上，母女坐在矮小的学生椅上仰头听判，他口口声声"你们知道"，其实她们一无所知。
 
 **关键词**：dire position, assumed a level of knowledge, the panic rising
 
@@ -58,17 +56,15 @@ title: Miss Bates 精读 11 · Chapter 10（Part One）
 
 > **原句 4:** "Then he said, "That money has been spent every year, and more besides. The debts are considerable. A further loan was undertaken for Mrs. Fairfax's portion. I often said to your husband that he should be careful. But here we are." Again, Mr. Cole busied himself with reshuffling his papers, his bushy eyebrows raised high."
 
-**中文理解**：然后他说："那笔钱每年都在花，还不止。债务相当可观。为了 Mrs. Fairfax 的嫁妆，还另外借了一笔钱。我常跟你丈夫说他该小心些。可事已至此。"Mr. Cole 再次埋头翻动他的文件，浓密的眉毛高高扬起。
-
-**中文理解**：律师的这句宣告一次性拆掉了母女仅剩的指望：母亲的年金早已花光，债务可观，妹妹的嫁妆又添新债——而债主们用另一种方式把她计算在家之外。
+**中文理解**：然后他说："那笔钱每年都在花，还不止。债务相当可观。为了 Mrs. Fairfax 的嫁妆，还另外借了一笔钱。我常跟你丈夫说他该小心些。可事已至此。"Mr. Cole 再次埋头翻动他的文件，浓密的眉毛高高扬起。律师的这句宣告一次性拆掉了母女仅剩的指望：母亲的年金早已花光，债务可观，妹妹的嫁妆又添新债——而债主们用另一种方式把她计算在家之外。
 
 **关键词**：considerable, undertaken, busied himself
 
-**为什么这样写**：律师的话是全章信息量最大、也最冷的一句——作者把它放在母亲亮出最后希望之后，让"sad silence that told the story before Mr. Cole did"先于语言到达；"busy himself with reshuffling his papers"的小动作写出专业人士对他人灾难的职业性回避。
+**为什么这样写**：律师的话是全章信息量最大、也最冷的一句——作者把它放在母亲亮出最后希望之后，让"sad silence that told the story before Mr. Cole did"先于语言到达；"busied himself with reshuffling his papers"的小动作写出专业人士对他人灾难的职业性回避。
 
 **读者视角提示**：注意 Mrs. Fairfax 这个称呼——出嫁后的 Jeannette 在账本里只是"一笔嫁妆"；Henrie 想让她回家，而债主们用另一种方式把她计算在家之外。
 
-## 词汇分级
+## 本章词汇
 
 ### ⭐⭐⭐ 高级
 
