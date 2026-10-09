@@ -1,0 +1,57 @@
+=== ch09–ch12 批次 门禁原始输出 2026-10-09 22:20 UTC ===
+lane: 完整 lane
+
+--- verify_quotes ---
+ch01 one.md: 7/7 ✅（另有 1 条短引语未校验）
+ch02 two.md: 8/8 ✅
+ch03 three.md: 9/9 ✅
+ch04 four.md: 8/8 ✅
+ch05 five.md: 8/8 ✅
+ch06 six.md: 8/8 ✅
+ch07 seven.md: 7/7 ✅
+ch08 eight.md: 8/8 ✅
+ch09 nine.md: 8/8 ✅
+ch10 ten.md: 10/10 ✅
+ch11 eleven.md: 15/15 ✅
+ch12 twelve.md: 12/12 ✅
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 108/108 引文可核实（100%）；完全干净文件 12/12；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- check_vocab ---
+词条行合计: 333
+--- FAIL (0) ---
+--- WARN (56) ---
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- check_chapter_quotes 09 ---
+⚠️  全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 108，命中本章 108（100%）
+✅ 全部引语均归属正确章节
+--- check_chapter_quotes 10 ---
+⚠️  全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 108，命中本章 108（100%）
+✅ 全部引语均归属正确章节
+--- check_chapter_quotes 11 ---
+⚠️  全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 108，命中本章 108（100%）
+✅ 全部引语均归属正确章节
+--- check_chapter_quotes 12 ---
+⚠️  全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 108，命中本章 108（100%）
+✅ 全部引语均归属正确章节
+
+--- corruption_scan ---
+
+=== 编辑损坏扫描（never-thought-id-end-up-here-by-ann-liang）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+=== 引语整串 flat 比对（never-thought-id-end-up-here-by-ann-liang）===
+  参照集：text/ 逐章（22 章，可定章） + epub 交叉验证
+  ✅ 本章命中 108 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
