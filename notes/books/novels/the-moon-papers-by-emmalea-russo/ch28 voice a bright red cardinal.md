@@ -65,11 +65,7 @@ POV: "未署名的第一人称口述者（有一个女儿；本章的谈话对�
 | stagnant | 停滞的、死水般的 | And I remember a dog, maybe a stray, lying drowsily beside an inflated swimming pool, half-filled with leafy stagnant water under a matching blue sky. |
 | terribly | 极其、非常 | And it felt terribly good. |
 
-### ⭐ 基础
-
-| 词/短语 | 释义 | 例句 |
-|---|---|---|
 
 ## 一句话总结
 
-这位未署名的证人用绕圈的动物、最红的主红雀、半池死水和一只被再轧一次的浣熊，说她"在休息"、没死，最后却把判定生死的能力让给了自己那位并没有出事的女儿。
+这位未署名的证人用绕圈的动物、最红的主红雀、半池死水与一只被再轧一次的浣熊断言她没死，最后却把"知道"二字只留在关于女儿的那句虚拟语气里。
