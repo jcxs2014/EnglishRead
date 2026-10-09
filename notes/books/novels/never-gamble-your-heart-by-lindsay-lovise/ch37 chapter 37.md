@@ -53,7 +53,7 @@
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | bloodless | 苍白的 / 无血的 | Devon's already bloodless face paled further. |
-| jerky | 突然的 / 不连贯的 | He jerkily pushed his chair out. |
+| jerkily | 突然地 / 不连贯地 | He jerkily pushed his chair out. |
 
 ### ⭐ 基础
 
