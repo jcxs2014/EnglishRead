@@ -49,7 +49,7 @@ POV: "Johnny Washington → Imani Washington（承 PRESENT DAY，崖脚与洞穴
 
 **关键词**：ablaze、strategizing、safeguard、poison
 
-**为什么这样写**：三个 while 层叠把"同时做四件事"写成句法上的气喘。末句完成一次漂亮的比喻链收束：safeguard 与 poison 同属"防毒"语义场，把情感写成剂量（a spoonful），与前文他吞药仍如梗在喉的真药细节遥相对照——本章他靠比喻服药。might never have moved 的谨慎虚拟式也值得注意：叙述者连他的自夸都不肯坐实。
+**为什么这样写**：两个 while 与两处分词（watching…、strategizing…）层叠，把"同时做四件事"写成句法上的气喘。末句完成一次漂亮的比喻链收束：safeguard 与 poison 同属"防毒"语义场，把情感写成剂量（a spoonful），与前文他吞药仍如梗在喉的真药细节遥相对照——本章他靠比喻服药。might never have moved 的谨慎虚拟式也值得注意：叙述者连他的自夸都不肯坐实。
 
 **读者视角提示**：注意 Sharise 在本章前段完全依赖这个"只能算账"的父亲；到章末 Imani 一侧，孩子反过来给大人递药、贴手贴——照顾关系在两半章之间整体倒挂，这是本章的结构对称轴。
 

@@ -61,7 +61,7 @@ POV: "Mazelle Washington 与 Giovanni Mateo Lorenzo（DECEMBER 1958，L.A. 与 M
 
 **关键词**：syrup、flurrying、curling toes、ladder stunt
 
-**为什么这样写**：作者把"施虐的快感"写成一次片场回忆的重演：原文替这快感指出了出处：except that one day on Li’l Gumshoes——她七岁时拿别人的恐惧当燃料去表演——受害者的经验与加害者的经验被同一段身体记忆连上。比喻也走味觉（sweet syrup on her tongue），与本章稍后她拒绝给他倒酒、只给自己倒了一小口（Instead of pouring a drink for him, Mazelle poured a splash into the glass for herself.）形成同一组口腔意象：她终于尝到自己端出来的东西。同一章里，这层快感被她自己拆穿过一次：If she were, then she would only have to make her will known to Scout—and he would not go anywhere near Lorenzo.——她清楚知道自己本可以不下令，也清楚自己没有。
+**为什么这样写**：作者把"施虐的快感"写成一次片场回忆的重演：原文替这快感指出了出处：except that one day on Li’l Gumshoes——她当年违抗 Sharpe 夫妇演那次梯子特技、看着他们怕她摔下去——受害者的经验与加害者的经验被同一段身体记忆连上。比喻也走味觉（sweet syrup on her tongue），与本章稍后她拒绝给他倒酒、只给自己倒了一小口（Instead of pouring a drink for him, Mazelle poured a splash into the glass for herself.）形成同一组口腔意象：她终于尝到自己端出来的东西。同一章里，这层快感被她自己拆穿过一次：If she were, then she would only have to make her will known to Scout—and he would not go anywhere near Lorenzo.——她清楚知道自己本可以不下令，也清楚自己没有。
 
 **读者视角提示**：读者会想起 ch30 她在池边"话语危险"的经验；本章把那条规则反过来用——她不必再说话许愿，只须什么都不说，Scout 就会照她的心意动手。
 
@@ -85,7 +85,7 @@ POV: "Mazelle Washington 与 Giovanni Mateo Lorenzo（DECEMBER 1958，L.A. 与 M
 
 **关键词**：preened、translucent、vicious、daggers
 
-**为什么这样写**：Scout 的形体在这一段被完整地交到读者眼前，而且是由一个外人的眼睛完成的：本章前半 Mazelle 一侧只有它的信号（Outside, the wind chimes tinkled madly. Scout wanted her to know he was ready.），形体直到此刻才由 Lorenzo 看见——作者把怪物的"证明"交给怀疑她的人，顺带解决了一个叙事难题：由 Mazelle 自陈已经不可信。动词选择也讲究：preened（炫耀）与 ch30 她许愿得到的"漂亮小戏子"押韵，这头东西仍然在为她表演。two rows, not one 这种计数式的观察句，让恐怖来自一次冷静的清点；而 A nightmare creature. 的短句收尾，正落在 Lorenzo 下一段马上要想起的旧梦上：In his dream, Scout had been growling at him, gnashing his teeth, his eyes flashing pale white.
+**为什么这样写**：Scout 的形体在这一段被完整地交到读者眼前，而且是由一个外人的眼睛完成的：本章前半 Mazelle 一侧只有它的信号（Outside, the wind chimes tinkled madly. Scout wanted her to know he was ready.），形体直到此刻才由 Lorenzo 看见——作者把怪物的"证明"交给怀疑她的人，顺带解决了一个叙事难题：由 Mazelle 自陈已经不可信。动词选择也讲究：preened（炫耀）这个动词把形体写成一次演出，这头东西仍然在为她表演。two rows, not one 这种计数式的观察句，让恐怖来自一次冷静的清点；而 A nightmare creature. 的短句收尾，正落在 Lorenzo 前一段刚想起的那场旧梦上：In his dream, Scout had been growling at him, gnashing his teeth, his eyes flashing pale white.
 
 **读者视角提示**：本章早段已写明他在赴约前 dream 到过这个地点、那头狗（He looked up at the trees spiraling above him and realized he had seen this place before—in a dream.），还写明他当年把那个梦讲给 Mazelle 听过；读者由此看到的"报应"结构，是作者用旧事回收旧事，而不是超自然力量的裁决。
 

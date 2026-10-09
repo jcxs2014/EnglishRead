@@ -27,7 +27,7 @@ POV: "Mazelle Washington（MAZYWOOD，Mount Shasta，第三人称限知；全章
 
 **为什么这样写**：仇恨以"物证链"送达——刀、滴血、刻到一半的笔画，三样东西都在场，唯独施暴者与受害者都不在场。作者让最刺眼的信息停在省略号上：And Scout had…? 把"Scout 可能杀了人"作为问句交到读者手里，而 Mazelle 自己的推论已经先给出——Mazelle knew perfectly well what the finished word would have spelled。前一句则用触觉取证：Mazelle ran her fingers across the damaged pine and spruce slat, feeling the groove of the exposed paler wood underneath, verifying that the damage wasn’t an illusion. 她必须先确认这是真的，才敢往下想；这个动作把"不愿相信"写成身体行为。
 
-**读者视角提示**：N-I-G 三个字母刻在她 gate 的木栏上，而本章早前刚交代过这扇门的用途：She’d intentionally built the tall, ostentatious ranch gate as a middle finger to any neighbors who didn’t want her there——同一件建筑先写作挑衅，随后变成凶案现场，作者的讽刺全压在物象上，不出一句评论。
+**读者视角提示**：N-I-G 三个字母刻在她 gate 的木栏上，而这扇门的用途要到本章后文才交代：She’d intentionally built the tall, ostentatious ranch gate as a middle finger to any neighbors who didn’t want her there——同一件建筑先写作挑衅，随后变成凶案现场，作者的讽刺全压在物象上，不出一句评论。
 
 ---
 
