@@ -10,10 +10,10 @@ POV: "Chloe（第三人称限知，自家房后的蓝屋子办公室）"
 
 - **时空坐标**：一个午后，房后自带独立入口的蓝屋子办公室；窗外是舞蹈营午间休息列队而出的中学女孩——Moon2 临近发射的城镇，本章未具名
 - **叙事视角**：第三人称限知，紧贴 Chloe；会谈部分整段以 `Name:` 发言行呈现，患者 Lisa Wallace 占据大半篇幅
-- **核心事件**：当日最后一位患者 Lisa 的会谈：忧郁的马、Lars 推荐的论坛、磨牙的梦与"礼物马别看牙口"的谚语，直到 "Whoever's behind Moon2 has us all in his mouth and he's about to bite down." 的预言
+- **核心事件**：当日最后一位患者 Lisa 的会谈：忧郁的马、Lars 推荐的论坛、磨牙的梦与"礼物马别看牙口"的谚语，直到 "Whoever’s behind Moon2 has us all in his mouth and he’s about to bite down." 的预言
 - **关键人物**：Chloe、Lisa Wallace、Rad（给墙调色的名字）/Radko（Nina 之子）、Nina（照看 Louise）、Louise、Mac 与 Mackenzie（Lisa 的丈夫与女儿）、Lars Arden 与 Velour（被提及）、Moon2
 - **章节主题**：倾听的极限——当一镇人都"往最坏处跳"，那间自称没有监视的蓝屋子是否也已经在别人的嘴里
-- **上章回顾**：ch28 的 Voice 罗列了整个夏天的异象（红得刺眼的枢机鸟、被反复碾过的浣熊、无瓣的花），断言 She's not dead、Vesta 会按自己的意愿现身，并以 Don't you think? 收尾——那个问句的口癖本章由 Lisa 接力
+- **上章回顾**：ch28 的 Voice 罗列了整个夏天的异象（红得刺眼的枢机鸟、被反复碾过的浣熊、无瓣的花），断言 She’s not dead、Vesta 会按自己的意愿现身，并以 Don’t you think? 收尾——那个问句的口癖本章由 Lisa 接力
 
 ---
 
@@ -61,7 +61,7 @@ POV: "Chloe（第三人称限知，自家房后的蓝屋子办公室）"
 
 **关键词**：therapy、lethargic、energy
 
-**为什么这样写**：治疗者与被治疗者的宾格互换（for therapy → need therapy），一句话把整个疗愈产业绕成闭环；Something's taking their energy 的主语无人称——她不敢（不屑）指名的元凶，要到 Moon2 才有名字。随后 Chloe 只回一句 The horses?——回声式复述，这正是 she had a shorthand 的内容：本章 Chloe 的全部发言几乎都是这种单词级重复（The events.、Eyes and ears.、Teeth.），谈话的引擎整个让给患者。
+**为什么这样写**：治疗者与被治疗者的宾格互换（for therapy → need therapy），一句话把整个疗愈产业绕成闭环；Something’s taking their energy 的主语无人称——她不敢（不屑）指名的元凶，要到 Moon2 才有名字。随后 Chloe 只回一句 The horses?——回声式复述，这正是 she had a shorthand 的内容：本章 Chloe 的全部发言几乎都是这种单词级重复（The events.、Eyes and ears.、Teeth.），谈话的引擎整个让给患者。
 
 **读者视角提示**：马是本章的中继意象：马—牙—口（mouth）三点一线，读完全章回头看，Lisa 其实只在讲同一张嘴。
 
@@ -73,7 +73,7 @@ POV: "Chloe（第三人称限知，自家房后的蓝屋子办公室）"
 
 **关键词**：snob、screwed on straight、forum、insane
 
-**为什么这样写**：head screwed on straight 是螺丝/牙齿语场在本章的第一次露头，后面磨牙、五形马牙都由它放行；a bit of a snob 的保留意见让这句评价像证词而不是崇拜。真正锋利的是 the only one——Chloe 用 The only one? 复述钓出补刀（well, you too honey. But, that's your job.，不在引语内），一刀切开倾听业的两层：被当人看是服务，不是看法。
+**为什么这样写**：head screwed on straight 是螺丝/牙齿语场在本章的第一次露头，后面磨牙、五形马牙都由它放行；a bit of a snob 的保留意见让这句评价像证词而不是崇拜。真正锋利的是 the only one——Chloe 用 The only one? 复述钓出补刀（well, you too honey. But, that’s your job.，不在引语内），一刀切开倾听业的两层：被当人看是服务，不是看法。
 
 **读者视角提示**：这是 Lars 线经由患者侧证进入主线的一站——ch32 起 Lars 自己开口之前，他的名声先在咨询室里被排好了座次。
 
@@ -81,7 +81,7 @@ POV: "Chloe（第三人称限知，自家房后的蓝屋子办公室）"
 
 > **原句 6:** Had a dream last night that my back tooth fell out but stayed in my mouth. I had to reach back and fish it out. Horrible, feeling my gums, the big gap. The tooth crumbled into a few pieces in my hand and looked decayed. Like it’d been ground down. Maybe I was grinding my teeth. Mac usually wakes me up though, tells me I’m grinding. I have such a big mouth, big teeth.
 
-**中文理解**：Lisa 讲昨晚的梦：后牙掉了下来、却还留在嘴里，得把手伸回去把它捞出来；牙在手里碎成几块、看着腐坏，"像被磨平的"。她猜自己又在磨牙——平时 Mac 会把她吵醒、告诉她 "Mac usually wakes me up though, tells me I'm grinding." 末了话头散开："I have such a big mouth, big teeth."
+**中文理解**：Lisa 讲昨晚的梦：后牙掉了下来、却还留在嘴里，得把手伸回去把它捞出来；牙在手里碎成几块、看着腐坏，"像被磨平的"。她猜自己又在磨牙——平时 Mac 会把她吵醒、告诉她 "Mac usually wakes me up though, tells me I’m grinding." 末了话头散开："I have such a big mouth, big teeth."
 
 **关键词**：gap、crumbled、decayed、grinding
 
@@ -97,7 +97,7 @@ POV: "Chloe（第三人称限知，自家房后的蓝屋子办公室）"
 
 **关键词**：behind、bite down、mouth
 
-**为什么这样写**：眼耳是观看的权力，牙是咀嚼的权力——监控在这里升级成消化，Moon2 的"升空"被换算成"被吃"；把主语写成 he，一整个计划被收进一个人的口腔。Chloe 接着问出 What's it like in the mouth?——全章她唯一一次把复述换成真正的疑问，而 Lisa 把问题原样推回（You're in here too, girl. What do you feel?）：蓝墙没有例外，倾听者也在口中。
+**为什么这样写**：眼耳是观看的权力，牙是咀嚼的权力——监控在这里升级成消化，Moon2 的"升空"被换算成"被吃"；把主语写成 he，一整个计划被收进一个人的口腔。Chloe 接着问出 What’s it like in the mouth?——全章她唯一一次把复述换成真正的疑问，而 Lisa 把问题原样推回（You’re in here too, girl. What do you feel?）：蓝墙没有例外，倾听者也在口中。
 
 **读者视角提示**：Lisa 前一句还说这间蓝屋子是"最后一块没有监视的空间"——两句之间没有过渡，安全感与被吞噬感共享同一个"your"。
 
@@ -109,7 +109,7 @@ POV: "Chloe（第三人称限知，自家房后的蓝屋子办公室）"
 
 **关键词**：answer her phone、edge、panic、jump to the worst
 
-**为什么这样写**：全章收在一通电话上：接起电话的人先问出最坏，jump to the worst 有了活体标本；There's an edge to every conversation 把恐慌写成形而上的介质——不是某个人慌，是"每一段对话"这种形式本身带刃。Don't you think? 与 ch28 Voice 节的同型问句（Time passes differently now. Don't you think?）隔章应和——第三人称章节与第一人称章节用同一个口癖缝起来，这是全书多声部最细的一处接缝。
+**为什么这样写**：全章收在一通电话上：接起电话的人先问出最坏，jump to the worst 有了活体标本；There’s an edge to every conversation 把恐慌写成形而上的介质——不是某个人慌，是"每一段对话"这种形式本身带刃。Don’t you think? 与 ch28 Voice 节的同型问句（Time passes differently now. Don’t you think?）隔章应和——第三人称章节与第一人称章节用同一个口癖缝起来，这是全书多声部最细的一处接缝。
 
 **读者视角提示**：本章没有给出 Chloe 的回答——Lisa 的问句悬着，下一章的 Voice 直接换了叙述者，悬置被接力棒带走。
 

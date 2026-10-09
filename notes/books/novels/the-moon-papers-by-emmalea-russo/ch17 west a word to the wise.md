@@ -9,7 +9,7 @@ POV: "Dean Konig（第三人称限知，加州 High Desert）"
 ## 本章导航
 
 - **时空坐标**：白天，加州 High Desert 的 Center for Constant Creation（CCC）院区——Dean 步行四分之一英里到泳池，池边只有 Tulip 一人，本节结束于他仰头直视头顶的太阳
-- **叙事视角**：第三人称限知，紧贴 Dean Konig；节题 West 仍是地理也是感知方位，本节里所有景物都经由他的知觉变形（池砖"倾斜"了他的感知、泳池"缩小"）
+- **叙事视角**：第三人称限知，紧贴 Dean Konig；节题 West 既是地理也是感知方位，本节多处景物经由他的知觉变形（池砖"倾斜"了他的感知、泳池"缩小"）
 - **核心事件**：Dean 在池边游泳，感到 Tulip 一直在看他，于是越游越快、开始追问这里之外的水域；上岸后 Tulip 警告他别落得和 Kelly 一样，Dean 则把怀疑丢回去——Bryan Sienna 可能不是他自称的那个人，而 Voortelle Corporation 也许在幕后操控这一切；Tulip 一句话不答就扎进水里，旁边还有 Liza 也在看着他们
 - **关键人物**：Dean Konig、Tulip（本节唯一与他对话的人，叫他姓氏 Konig）、Kelly（只出现在警告里，本节未交代她的结局）、Bryan Sienna（被 Dean 指为"不是学生"）、Liza（处理技术规格，本节末尾在场）、Lalalands 与 Voortelle Corporation（Dean 复述的论坛说法与怀疑对象）
 - **章节主题**：被注视如何变成世界的尺寸——当"你在改变、你在提问"成为一条罪状，勇气只能靠与外界那条不能说的联系来供氧
@@ -73,7 +73,7 @@ POV: "Dean Konig（第三人称限知，加州 High Desert）"
 
 **关键词**：underwater、connection、braver、wither
 
-**为什么这样写**：段落开头的 But 是本节最利落的一次打断——Dean 刚要说出"还有一件事"，谈话就被一具身体沉进水里的方式终止了；"for what seemed like forever" 把时间还给主观感受，与前面泳池缩小时同一套尺度变形。"Liza was off to the side, watching them" 单独一句插进来，把本节写成一个有两层的监视结构：池边的眼睛和池外的眼睛。然后是全节最短的一句 "He wasn't afraid."——否定式、句号极短，紧跟着解释它从何而来：his connection with the outside making him braver，句子只说"外界"，不说那外界是谁，勇气因此是一笔来源保密的借款。收尾三动词 wither、curl、burn up 把念头变成纸片，热炭的比喻让阳光不再只是刺眼，而是有火。
+**为什么这样写**：段落开头的 But 是本节最利落的一次打断——Dean 刚要说出"还有一件事"，谈话就被一具身体沉进水里的方式终止了；"for what seemed like forever" 把时间还给主观感受，与前面泳池缩小时同一套尺度变形。"Liza was off to the side, watching them" 单独一句插进来，把本节写成一个有两层的监视结构：池边的眼睛和池外的眼睛。然后是全节最短的一句否定：他并不害怕。紧跟着解释它从何而来：his connection with the outside making him braver，句子只说"外界"，不说那外界是谁，勇气因此是一笔来源保密的借款。收尾三动词 wither、curl、burn up 把念头变成纸片，热炭的比喻让阳光不再只是刺眼，而是有火。
 
 **读者视角提示**：本节最后交给读者的是 Dean 主动直视太阳的画面——他这一节所有的"看见"到这里换成一次被允许的眩晕。
 

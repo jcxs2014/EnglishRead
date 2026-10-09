@@ -27,7 +27,7 @@ POV: "Velour Bellmer（第三人称限知，她自己的住宅：卧室、后院
 
 **为什么这样写**：东线重新接手时，交给读者的第一件东西不是月亮，而是一页被幼崽身体弄脏的废纸。imprinted（压印）这个词先于所有对话出现，等于先立下本节的物理法则：接触会留下痕迹。随后污渍"把影子投在"家具照片上，观看因此分成三步——飘、遮、认出，而每一次认出都比上一次更不舒服（先看清污渍，才看清那是广告）。最后落到 doll furniture，本节的空间尺度从一开始就被缩小了一号，为后文蝙蝠能挤过半英寸缝隙、Radko 收腹挤过古董柜这两次"通过极窄处"作了尺寸上的铺垫。
 
-**读者视角提示**：She looked closer and realized 这个句式会在本章一再出现；跟着它走，不要相信第一眼。
+**读者视角提示**：She looked closer and realized 这个"凑近—认出"的动作就是本章推进信息的方式；后面的每一块都靠她把看见的东西换掉一次，所以别停在第一眼上。
 
 ---
 
@@ -57,7 +57,7 @@ POV: "Velour Bellmer（第三人称限知，她自己的住宅：卧室、后院
 
 > **原句 4:** “They call out to each other. But we humans cannot hear them. I’m talking about the mama bats and their pups. Truth? Bats are more like whales than they are like mice or rats. They’re advanced. With linguistics. Sound. We don’t understand. Maybe never will. I’ve cared for them, nursed them back to health. Seen spectacles, you know, the sky black with bats. Point being, anything could have happened. The mama could have swooped down and got him. Maybe. Or, maybe he was just shocked, and now he’s back, kickin’ it with his fam. I hope so. As long as his spine wasn’t broken.”
 
-**中文理解**：它们会互相呼唤，但我们人类听不见。他说的是母蝠和它们的幼崽。真话？蝙蝠更像鲸，而不像老鼠或大鼠。它们很高级，有语言学，有声音。我们不懂，也许永远不懂。我照料过它们，把它们喂回健康。我见过那种场面，你知道的，天空被蝙蝠涂黑。重点是，什么都可能发生。也许是蝠妈妈俯冲下来把他叼走了。也许。也许他只是吓着了，现在正跟家里人混在一起。我希望是这样。只要他的脊椎没断。
+**中文理解**：它们会互相呼唤，但我们人类听不见。他说的是母蝠和它们的幼崽。真话？蝙蝠更像鲸，而不像老鼠或大鼠。它们很高级，有语言学，有声音。我们不懂，也许永远不懂。我照料过它们，把它们护理回健康。我见过那种场面，你知道的，天空被蝙蝠涂黑。重点是，什么都可能发生。也许是蝠妈妈俯冲下来把他叼走了。也许。也许他只是吓着了，现在正跟家里人混在一起。我希望是这样。只要他的脊椎没断。
 
 **关键词**：linguistics、spectacles、swooped、spine
 
@@ -73,7 +73,7 @@ POV: "Velour Bellmer（第三人称限知，她自己的住宅：卧室、后院
 
 **关键词**：bottom line、at the mercy、a second moon、always full
 
-**为什么这样写**：Moon2 第一次进入东线，不是通过宣传话术，而是通过一个外人的反问。刚过去的那节西线例会正在打磨"让公众别慌"的语言，而本节让一个跟集体毫无关系的人问出了他们回避的那个问题——而且直接说不知道。at the mercy of 把"发射一颗艺术月亮"说成"把别的生物置于他人的摆布之下"，这是本章对那个项目最省力的道德表述。A moon that’s always full, no less. 用一句插入的口语强调，把集体的宏大目标翻成夜里刺眼的灯。
+**为什么这样写**：Moon2 第一次进入东线，不是通过宣传话术，而是通过一个外人的反问。刚过去的那节西线例会（ch03）正在打磨"让公众别慌"的语言，而本节让一个跟集体毫无关系的人问出了他们回避的那个问题——而且直接说不知道。at the mercy of 把"发射一颗艺术月亮"说成"把别的生物置于他人的摆布之下"，这是本章对那个项目最省力的道德表述。A moon that’s always full, no less. 用一句插入的口语强调，把集体的宏大目标翻成夜里刺眼的灯。
 
 **读者视角提示**：留意 Radko 的推理方式——他不评论 Moon2 美不美，只问它对听不见声音的生物做什么。这个视角在本节末尾还会回来：他要说的最后一道限制是法律不让他动这些蝙蝠。
 
@@ -85,7 +85,7 @@ POV: "Velour Bellmer（第三人称限知，她自己的住宅：卧室、后院
 
 **关键词**：hotness、translucence、angel、invisible、fingertips
 
-**为什么这样写**：本节的性唤起被写成一次尺度上的倒退：先 hotness 从胃到喉咙（往内脏里走），再"变成小孩"，最后只剩 fingertips 在木纹上描。Now, Radko was invisible. 单独成句，是全章最关键的一次措辞重合——上一节的西线把集体成员比作"应当隐形的天使"，本节的 Velour 并不知道那条规矩，却用同一个词描述一个爬梯子的男人；差别在于西线的隐形是纪律，这里的隐形是身体被建筑挡住、只剩器具可见。not a bat expert so much as an angel 的让步结构也是本章的常用手法：先否认一个身份，再换上更让人不安的那个。
+**为什么这样写**：本节的性唤起被写成一次尺度上的倒退：先 hotness 从胃到喉咙（往内脏里走），再"变成小孩"，最后只剩 fingertips 在木纹上描。Now, Radko was invisible. 单独成句，是本章与西线之间一次没有解释的措辞重合——西线开篇那一节（ch01）把 Collective 成员比作"应当隐形的天使"，本节的 Velour 并不知道那条规矩，却用同一个词描述一个正在爬梯子的男人；差别在于西线的隐形是纪律，这里的隐形是身体被建筑挡住、只剩器具可见。not a bat expert so much as an angel 的让步结构也是本章的常用手法：先否认一个身份，再换上更让人不安的那个。
 
 **读者视角提示**：她描的是橱柜上的 rosettes，不是在描他的身体；本章一再让她把冲动转嫁给家具，读者要盯住这个替代动作。
 
@@ -97,7 +97,7 @@ POV: "Velour Bellmer（第三人称限知，她自己的住宅：卧室、后院
 
 **关键词**：filthy halo、coated、circled
 
-**为什么这样写**：本章的宗教词只留了一个 halo，而且立刻被 filthy 取消。a throat coated in bat shit and her own blood 把 Radko 说话的身体拆成两层污染物，次序与读者刚看到的两件事完全一致：先是他碾碎粪便的手指，然后是他拇指上她的那一点血。名字从这条喉咙里出来，于是"被叫名字"这件小事变成一次物理接触，sound 绕头一圈又把它变成可以被围观的形状——比喻先于剧情把本节末尾那种"四周有在场"的感觉摆好了。
+**为什么这样写**：本章的宗教语汇是零散借来的（天使、咒语、神迹），到了这里只剩一个 halo，而且立刻被 filthy 取消。a throat coated in bat shit and her own blood 把 Radko 说话的身体拆成两层污染物，次序与读者刚看到的两件事完全一致：先是他碾碎粪便的手指，然后是他拇指上她的那一点血。名字从这条喉咙里出来，于是"被叫名字"这件小事变成一次物理接触，sound 绕头一圈又把它变成可以被围观的形状——比喻先于剧情把本节末尾那种"四周有在场"的感觉摆好了。
 
 **读者视角提示**：这是 Radko 离开之后、Velour 独自站在门廊上的句子；本章此后他不再出现，只留下这一圈声音。
 

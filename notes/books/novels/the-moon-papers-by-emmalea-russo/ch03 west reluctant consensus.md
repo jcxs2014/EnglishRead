@@ -11,7 +11,7 @@ POV: "Dean Konig（第三人称限知，加州 High Desert 的 CCC 会议室）"
 - **时空坐标**：加州 High Desert 的 Center for Constant Creation 会议室，当晚的例会——Liza 开场报明这是当天第二次也是最后一次会议；窗外水泥门廊上那颗试验气球的布料正在起伏
 - **叙事视角**：第三人称限知，紧贴 Dean；本节大部分篇幅是发言人行体（Name: 内容）的会议记录，叙述只在他走神的那一段切回内心
 - **核心事件**：七名成员围坐定夺拖船宣传语与船名，Marla 的 Demy 顶掉 Bobby 的 Oeagrus 并获一致通过；Dean 追问"天体"的定义、追问公众的担忧，被一句"较什么真"接住；他走神想起 Vivienne Volker 与自己照顾她最后十一年；轮到 Dean 汇报时他报告 Comatose Birther Program 只剩 Binky Stratford 一名艺术家（已进入孕晚期，瑞士的领养父母又来要超声波照片），随后把话题拧到几个月前消失的 Kelly 上，被 Jules 与 Bobby 用"她走开了"两轮按回
-- **关键人物**：Dean Konig、Liza（主持并报出七人名单：Tulip、Dean、Marla、Edwin、Jules、Bobby 与自己）、Marla（拖船意象与 Demy 的提出者）、Bobby（坚持 Oeagrus 与"不情愿的一致也是一致"）、Jules（上一份新闻稿的汇报人）、Tulip（"振动转变"论）、Edwin（催回 Moon2 议题）、Kelly（本节唯一的缺席者，Dean 在 Collective 里最好的朋友）、Binky Stratford（Birther 计划仅存的艺术家）
+- **关键人物**：Dean Konig、Liza（主持并报出七人名单：Tulip、Dean、Marla、Edwin、Jules、Bobby 与自己）、Marla（拖船意象与 Demy 的提出者）、Bobby（坚持 Oeagrus 与"不情愿的一致也是一致"）、Jules（上一份新闻稿的汇报人）、Tulip（"振动转变"论）、Edwin（催回 Moon2 议题）、Kelly（本节的关键缺席者，Dean 在 Collective 里最好的朋友）、Binky Stratford（Birther 计划仅存的艺术家）
 - **章节主题**：一个把"达成共识"当成生产流程的团体如何处置不肯同意的人——话术被逐字录音转写，而异见者只剩下"她走开了"这一种解释
 - **上章回顾**：上一节是东线——Velour 在 Pennsylvania 的六月正午接到女婿 Lars 关于 Vesta 的短信并忽略，用绿色玻璃花瓶扣住一只新生蝙蝠幼崽，Mac 认出它是幼崽后她把它从窗口送下去，幼崽落在挡风玻璃上不动了；结尾她与 Mac 做了两人早年约好"不算数"的事
 
@@ -27,7 +27,7 @@ POV: "Dean Konig（第三人称限知，加州 High Desert 的 CCC 会议室）"
 
 **为什么这样写**：开场先给静物一个动势（布料在门廊上起伏），随即把它写成一次对视——但叙述立刻给这份不确定上保险：was somehow watching him 挂在 He felt 之下，"物在看人"只是他的感觉，读者拿不到客观证据，也就无法把它当作设定收下。三个同位语 the prototype、the test moon、the trial balloon 在同一句里给同一件东西换了三次名字，而 trial balloon 本身在英语里就是"试探性说法"的习语——道具还没充气，先成了会议话语的隐喻。Kelly 的出场只有三句：三个性格形容词、一句立场、一句后果，顺序恰好是"能被听见的异议"接着"被抹掉"，末句用 everyone 作主语把抹除写成集体动作，没有一个具体的人做过它。
 
-**读者视角提示**：本节把 "He was finding it more difficult to focus" 的原因排了序——Vesta 在前、Kelly 在后；这两条线在后面几节里会长成不同的东西，此处都只是 Dean 的自述。
+**读者视角提示**：本节把 "He was finding it more difficult to focus" 的原因排了序——Vesta 在前、Kelly 在后；两条都只停在 Dean 的自述里，本节不交代 Kelly 的下落。
 
 ---
 
@@ -39,7 +39,7 @@ POV: "Dean Konig（第三人称限知，加州 High Desert 的 CCC 会议室）"
 
 **为什么这样写**：这一段是道具清单，四样东西里只有录音机分到两个动词，而 twitched 是给生物的词，机器因此比围坐的七个人更像活物；following their voices 又把"跟随"的对象从人换成声音，人的在场被降格成声源。capturing and transcribing them verbatim 是理解全节的钥匙：这个团体的话会被逐字转写、送到不知何处，而随后所有"我们达成了一致"的发言都发生在它的下方。最后两句把不确定分层——他不知道去了哪里，但他知道一定去了某个地方；However 一句只承认存在接收方，不承认他认识那个接收方，全节的监视感就藏在这半步里。
 
-**读者视角提示**：各人的落地靠垫"每人一只自己的"，这个细节与后文"举手示一致"的仪式呼应——本节的亲密是按座位分配的。
+**读者视角提示**：各人的落地靠垫"每人一只自己的"，这个细节与后文表决一致时全屋弹指（Fingers snapping all around the room）的仪式呼应——本节的亲密是按座位分配的。
 
 ---
 
@@ -63,7 +63,7 @@ POV: "Dean Konig（第三人称限知，加州 High Desert 的 CCC 会议室）"
 
 **为什么这样写**：这是本节最短的发言之一，也是少数从定义起句的话——前面所有关于"名字听着对不对""它是否可爱"的判断都在审美层，这句落到事实层，句子长度立刻缩到最短，最后三个字不带补足成分，读者必须自己回填被省掉的部分。这种"回填"正是本节 Moon2 的处境：它的光来自别处。紧接 Marla 回了一句 Why so pedantic lately, Deano?，把定义追问改叫成"较真"，还用只有这里出现一次的昵称把提问者本人收编；异议被处理的方式不是反驳，而是给它一个语气词。
 
-**读者视角提示**：Tulip 在同一节里给出的另一套说法是 "a change of energy and vibe"，并称这是把公众"润滑"到新纪元开头；本节里定义与话术第一次当面对撞，赢的是话术。
+**读者视角提示**：Tulip 在同一节里给出的另一套说法是 "a change of energy and vibe"，并称这是把公众"润滑"到新纪元开头；本节里定义与话术当面对撞，赢的是话术。
 
 ---
 
@@ -73,7 +73,7 @@ POV: "Dean Konig（第三人称限知，加州 High Desert 的 CCC 会议室）"
 
 **关键词**：checked out、enacted or imagined、artist in residence、figurine、oblivion
 
-**为什么这样写**：Dean checked out 只有三个词，却是本节两种文体唯一的接缝——叙述从发言人行体切回内心视角全靠它。拼贴的说明用成对反义写集体的作品（enacted or imagined, astral and earthly），两对仗之后立刻补上三层物质细节：纯白的墙、Pepto-Bismol 的粉框、电池供电的壁灯；胃药品牌的粉色把"高级艺术"降回药味。He felt smaller than a human but bigger than a figurine 用两个比较级夹出一个不存在的尺寸，flat and shiny 随后把这个尺寸兑现成印刷品的质感；into oblivion, eternity 把两个抽象名词用逗号并置，遗忘在前、永恒在后，坠入两者被写成同一个方向。收尾他逐一看过其余六名成员的身体部位，在 Marla 那里一直看到发丝与头皮相接的那条线，然后 squinting until blurred——本节给出的"看清"的办法，是把它看到糊。
+**为什么这样写**：Dean checked out 只有三个词，却把叙述从发言人行体一下切回内心视角，本节两种文体的接缝就落在它上面。拼贴的说明用成对反义写集体的作品（enacted or imagined, astral and earthly），两对仗之后立刻补上三层物质细节：纯白的墙、Pepto-Bismol 的粉框、电池供电的壁灯；胃药品牌的粉色把"高级艺术"降回药味。He felt smaller than a human but bigger than a figurine 用两个比较级夹出一个不存在的尺寸，flat and shiny 随后把这个尺寸兑现成印刷品的质感；into oblivion, eternity 把两个抽象名词用逗号并置，遗忘在前、永恒在后，坠入两者被写成同一个方向。收尾他逐一看过其余六名成员的身体部位，在 Marla 那里一直看到发丝与头皮相接的那条线，然后 squinting until blurred——本节给出的"看清"的办法，是把它看到糊。
 
 **读者视角提示**：这一段第一次交代 Dean 与 Vesta 的具体旧事：他照顾过她外祖母的最后十一年，当时老人在 CCC 驻留；而"他屏幕"上是什么，本节没有说明。
 
@@ -85,7 +85,7 @@ POV: "Dean Konig（第三人称限知，加州 High Desert 的 CCC 会议室）"
 
 **关键词**：taken over Binky、never talk about her、what happened、strange
 
-**为什么这样写**：这段长句与前面那些会议短句形成反差：它没有一项议程内容，只有一次自我报告，三个短句连着把"没人做过什么"列出来——不说、不说去哪儿、不知道发生了什么。两个问句叠在一起（It's strange. 紧跟 don't you find that strange?），第一句是陈述、第二句立刻把它降级成征求意见，他连怀疑都要先申请合法性，这是本节里集体规训最清楚的一次显形。Since Kelly was the one who brought Binky in 单独成句、语法上是残句（没有主句），作者用句子的不完整对应他手里唯一可用的证据：一条工作交接关系。
+**为什么这样写**：这段长句与前面那些会议短句形成反差：它没有一项议程内容，只有一次自我报告，三个短句连着把"没人做过什么"列出来——不说、不说去哪儿、不知道发生了什么。两个问句叠在一起（It’s strange. 紧跟 don’t you find that strange?），第一句是陈述、第二句立刻把它降级成征求意见，他连怀疑都要先申请合法性，这是本节里集体规训最清楚的一次显形。Since Kelly was the one who brought Binky in 单独成句、语法上是残句（没有主句），作者用句子的不完整对应他手里唯一可用的证据：一条工作交接关系。
 
 **读者视角提示**：注意他是在汇报 Binky 的段落之后才提出 Kelly 的，而 Edwin 那句"我们继续回到 Moon2"就发生在这之前；顺序本身就是他被岔开的证据。
 
@@ -97,7 +97,7 @@ POV: "Dean Konig（第三人称限知，加州 High Desert 的 CCC 会议室）"
 
 **关键词**：dude、doing her job、wandered off、as simple as that
 
-**为什么这样写**：这是本节最后一行发言，四句全是短句，节奏与 Dean 那段长句成反比——压场的话由最短的句子说。dude 把称呼放平，是带着亲昵的封口；she wasn't doing her job 用绩效替换了失踪这件事本身，wandered off 则是不带施动者的动词短语，谁都不必对她做过什么负责，于是疑问句被换成了工作量问题。It's as simple as that 收在 that 上，与稍早 Bobby 那句 Reluctant consensus is still consensus 共用同一套语法：把"仍有疑问"归为提问者的态度问题，而不是事情的问题。本节到这一行就结束了，最后一行之后没有任何叙述句。
+**为什么这样写**：这是本节最后一行发言，四句全是短句，节奏与 Dean 那段长句成反比——压场的话由最短的句子说。dude 把称呼放平，是带着亲昵的封口；she wasn’t doing her job 用绩效替换了失踪这件事本身，wandered off 则是不带施动者的动词短语，谁都不必对她做过什么负责，于是疑问句被换成了工作量问题。It’s as simple as that 收在 that 上，与稍早 Bobby 那句 Reluctant consensus is still consensus 共用同一套语法：把"仍有疑问"归为提问者的态度问题，而不是事情的问题。本节到这一行就结束了，最后一行之后没有任何叙述句。
 
 **读者视角提示**：读者被和 Dean 一起留在这句话下面；下一节（第 4 节，East）换线，Kelly 的下落、她"没在做她的活儿"具体指什么，本节都不给。
 

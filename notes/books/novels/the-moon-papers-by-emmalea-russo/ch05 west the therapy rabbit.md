@@ -37,7 +37,7 @@ POV: "Dean Konig（第三人称限知，加州 Mojave 沙漠 CCC 工作间内 Bi
 
 **关键词**：seven months、acquired、animated、lifeless、westward
 
-**为什么这样写**：He animated Binky 是全节最冷的一行——animate 的宾语是她那只 lifeless 的手，动词把"使有生命者活动"用在没有生命迹象的身体上；本节此后每一次 Binky 看似"回应"的时刻，都要按这一句来读。"this child" 被破折号插在 project 之后，项目和婴儿在同一句法位上互换，紧接着 Dean did not know much about the project—this child—its fate and future 又把知情范围划得极窄：集体内部也有人不知道自己在做什么，本节不解释这算不算失职。末句的 westward 是唯一的方向标，凉风从敞开的窗往西走，而这一节本身就是西线。
+**为什么这样写**：He animated Binky 是全节最冷的一行——animate 的宾语是她那只 lifeless 的手，动词把"使有生命者活动"用在没有生命迹象的身体上；本节此后每一次 Binky 看似"回应"的时刻，都要按这一句来读。"this child" 被破折号插在 project 之后，项目和婴儿在同一句法位上互换，紧接着 Dean did not know much about the project—this child—its fate and future 又把知情范围划得极窄：集体内部也有人不知道自己在做什么，本节不解释这算不算失职。末句的 westward 把凉风写成一个有刻度的方向动作；这一节稍后还会交代那间病房的大窗同时朝东与朝西——方向在本节不是修辞，是可以指认的，而这一节本身就标着 West。
 
 **读者视角提示**：acquired（取得）用在孩子身上，本节不会再用别的词替换它；后文宣传材料里那两个名词（孵化器、容器）是同一条语法的延伸。
 
@@ -49,7 +49,7 @@ POV: "Dean Konig（第三人称限知，加州 Mojave 沙漠 CCC 工作间内 Bi
 
 **关键词**：unconscious、grandmother、rendered、brain-dead、signed
 
-**为什么这样写**：三句话把两条线的地理关系拧成一层亲属关系：Vesta 的外祖母躺在 Mojave 的病房里，而当年把她签给 Collective 的人叫 Velour——就是上一节那个站在门廊上的女人。rendered her brain-dead 是本节最冷的一击：render 是"使成为"，事故于是读起来像一道文书手续，与紧邻的 signed waivers 同一语域。all those years ago 故意不给年份，本章也不交代那场事故是什么。ch04 里那句 Velour 是 Vivienne Volker 的女儿，与这里的"她签的字"合起来才构成她的全部：东线写她的冲动，西线写她的决断。
+**为什么这样写**：三句话把两条线的地理关系拧成一层亲属关系：Vesta 的外祖母躺在 Mojave 的病房里，而当年把她签给 Collective 的人叫 Velour——就是 ch04 那个站在门廊上的女人。rendered her brain-dead 的冷在于用词：render 是"使成为"，事故于是读起来像一道文书手续，与紧邻的 signed waivers 同一语域。all those years ago 故意不给年份，本章也不交代那场事故是什么。把 ch04 里"Velour 是 Vivienne Volker 的女儿"与这里的"她签的字"合起来才见出她的全部：东线写她的冲动，西线写她的决断。
 
 **读者视角提示**：注意"已经昏迷、不可能醒来"与"自愿睡去"是两类人，本节下一段就要把这两类并排放在一起；分类本身在这里就是伦理问题。
 
@@ -85,7 +85,7 @@ POV: "Dean Konig（第三人称限知，加州 Mojave 沙漠 CCC 工作间内 Bi
 
 **关键词**：interviewing、screening、scripted、transcript、calling the shots
 
-**为什么这样写**：这是一段对着昏迷者讲的回忆，所以它一边叙述一边向 Binky 提问（Do I have a boss, Binky?），再把答案推给上帝：God’s existence doesn’t depend on us seeing him 与"某个隐形的高层力量给的稿子"是同构的两句话，本节不区分神与雇主。审查关系的倒转被写得极具体——原本该是我面试她，她倒问起我来了，而旁听的 Collective 因此第一次显形为"在墙那边听的人"。她那句反问 How do you know? 是整节的重心：Dean 承认自己答不上来，并用 I didn’t. I don’t. 的时态变化把当年那次会面一直拖到今天；紧接的一句反问 And we weren’t almost done, were we? 让读者明白，那场所谓"筛查"从未结束。
+**为什么这样写**：这是一段对着昏迷者讲的回忆，所以它一边叙述一边向 Binky 提问（Do I have a boss, Binky?），再把答案推给上帝：God’s existence doesn’t depend on us seeing him 与"某个隐形的高层力量给的稿子"是同构的两句话，本节不区分神与雇主。审查关系的倒转写得极具体——原本该是我面试她，她倒问起我来了（though I was meant to be interviewing her），而 Collective 全程在旁听这场谈话；审与被审、听与被听在本节里是同一组动作。她那句反问 How do you know? 是整节的重心：Dean 承认自己答不上来，并用 I didn’t. I don’t. 的时态变化把当年那次会面一直拖到今天；紧接的一句反问 And we weren’t almost done, were we? 拆掉的不是谈话的结尾，而是"谈完了"这个说法本身——他当年无法确认结束，今天仍然无法。
 
 **读者视角提示**：这段回忆一次性交代了 Lars 与 Vesta 已结婚、她当时十八岁、Lars 年长许多、外祖母临终在即——全部出自 Dean 一个人的转述，本书后面若展开这些，须另章取证。
 
