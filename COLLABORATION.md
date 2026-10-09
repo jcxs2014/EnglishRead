@@ -97,15 +97,15 @@ commits：a07e7b969…2e5fdc7a6 + 审查整改。未 push（待指令）。
 
 mystery-guest-by-maren-stoffels（推理/悬疑长篇，逐章精读·精简格式）进度通报。
 
-进度：ch01–ch52 共 52/60 章（每三章一批，门禁全绿后独立 commit；text/ 不入库，md 入库）。
+进度：ch01–ch55 共 55/60 章（每三章一批，门禁全绿后独立 commit；text/ 不入库，md 入库）。
 
-结构与主线：前 37 章 Maria 单 POV；ch38 起切多 POV 回闪补前史（PIP / FERRIS / MIKE）。ch01–03 石子夜会与 Bored?；04–06 第一局三色瓶；07–09 瞭望塔第二局；10–12 分手与第三局横穿高速；13–15 Mike 劫车与烧毁教堂；16–18 黄卫衣=Ferris、照片摊牌、早餐审判；19–21 Shannon 案补课与 Cody 洗清；22–24 自拍试探、路牌信封、Jax 人质；25–27 悬崖与危险共犯；28–31 Outcast 派对、Norah 勒颈、旧照现形；32–34 撕海报、真相章（ch33 纵火自白）、母亲持最后一张海报；35–37 离家出逃、旧仓库假救援（录音机循环 Maria!）、湖边掐颈；38–40 PIP 目击纵火之夜、FERRIS 被捕审讯、PIP 立誓 For her. For us；41–43 Shannon 失踪与被找到（Raped. Murdered. Strangled.）；44–46 PIP 视角情感勒索定型（my boring little baby）、MIKE 被栽赃 GHB（Damn, damn, damn）、次晨 I…I think I was raped；47–49 MIKE 留瓶证据与父亲护子、小镇处刑（Beat it）、PIP 立誓 I will do anything for Maria；50–52 造物现场：PIP 虚构前女友 Norah（Norah is the best idea I've ever had）、戴假发红唇以 Norah 身份现身（You must be Maria / I grew bigger）、课间 Maria 反被吸引（I think you have many faces. … I like it）。
+结构与主线：前 37 章 Maria 单 POV；ch38 起切多 POV 回闪补前史（PIP / FERRIS / MIKE）。ch01–03 石子夜会与 Bored?；04–06 第一局三色瓶；07–09 瞭望塔第二局；10–12 分手与第三局；13–15 Mike 劫车与烧毁教堂；16–18 照片摊牌与早餐审判；19–21 Shannon 案补课；22–27 自拍试探、路牌信封、Jax 人质、悬崖共犯；28–31 Outcast 派对、Norah 勒颈、旧照现形；32–37 撕海报、真相章（ch33 纵火自白）、离家出逃、假救援与湖边掐颈；38–40 PIP 目击纵火之夜、FERRIS 被捕审讯、PIP 立誓 For her. For us；41–43 Shannon 失踪与被找到；44–49 PIP 情感勒索定型、MIKE 被栽赃 GHB、小镇处刑、PIP 立誓 anything for Maria；50–52 Norah 造物与假发现身、Maria 被吸引；53–55 Maria 把伪装正式立为规则（When you're Norah, you should really be Norah / Just make me terrified of Norah / 首次 I love you, Pip）、MIKE 探监结盟（she screwed us both over）、短信章（It was Maria. She's been playing everyone. Probably including you. → Is typing…）。
 
-最新门禁（第十八批 ch50–ch52）：check_chapter_quotes ch50 6/6、ch51 5/5、ch52 4/4；check_vocab FAIL 0 / WARN 0（降级 lane：无 library/*.epub，verify_quotes 层不判定）；check_entities 0；corruption FAIL 0；sweep_full 本章命中 424 / 跨章 0 / 查无 0；check_short_quotes 40/40。
+最新门禁（第十九批 ch53–ch55）：check_chapter_quotes ch53 7/7、ch54 5/5、ch55 4/4（另 2 条短引语走兜底）；check_vocab FAIL 0 / WARN 0（降级 lane：无 library/*.epub）；check_entities 0；corruption FAIL 0；sweep_full 命中见取证；check_short_quotes 42/42。
 
-取证：各批原始逐行输出入 .memory/raw-gates/mystery-guest-by-maren-stoffels/（本次 2026-10-09-batch18-full.txt 与 ccq-ch50/51/52）。
+取证：各批原始逐行输出入 .memory/raw-gates/mystery-guest-by-maren-stoffels/（本次 2026-10-09-batch19-full.txt 与 ccq-ch53/54/55）。
 
-完工通报只报第 3 条门禁数字；五步审查未做（待用户发起）。下一步：ch53–ch55，之后终局 ch56–ch60 与三篇总览。
+完工通报只报第 3 条门禁数字；五步审查未做（待用户发起）。下一步：ch56–ch58，之后 ch59–ch60 与三篇总览。
 
 ### [2026-10-09 14:34 UTC] [Qoder-Mac] → All
 
