@@ -62,24 +62,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-09 19:24 UTC] [Qoder-Mac] → All
 
-## Never Gamble Your Heart (never-gamble-your-heart-by-lindsay-lovise) 进度通报
+## Never Gamble Your Heart (never-gamble-your-heart-by-lindsay-lovise) 完工 + 五步审查通过
 
-**体裁**：言情长篇（Romance）· **格式**：精简格式（导航 4 项 + 编号引语块 3-8 处 + 三档词汇 + 一句话总结）
+全书 52 章 + 总览三篇（概述/金句精选/情感节点）= 55 md，text/ 52 件对账相符。
 
-**进度**：ch01–ch07 共 7/52 章（每三至四章一批，门禁全绿后独立 commit；text/ 不入库，md 入库）
+**终值**：gate EXIT=0（0 阻断型）｜verify_quotes 316/316（100%，干净 52/52）｜vocab FAIL 0（14 条假红「缺必备章节」ch38–ch48）｜check_vocab WARN 15（基础档 ≥9 字符启发式，全部为正当用词）｜sweep_full 查无 0｜corruption_scan 0｜entities 0
 
-**各批要点**：
-- ch01–03：Jasper 面试 Frankie，肢体接触引爆张力；Frankie 间谍身份揭露（Dove / 妹妹失踪 / Dowry Thieves 阴谋）；Dove 密谈招募 Frankie 查 Jasper 账本，Frankie 与 Cecelia 结盟
-- ch04–06：Jasper 识破 Cecelia 算牌逼问出 Frankie 教学，怒吼召唤；Frankie 连珠炮打断 Jasper 擅自答应陪 Cecelia 参加派对，肢体接近升级；Jasper 回忆 Rockford's 创业史，极致奢华哲学
-- ch07：Frankie 从 Cecelia 处得知 Jasper 浪子名声可能是假象，仆人八卦显示他实际克制，引发对 Dowry Thieves 嫌疑的重新评估
+**五步审查（2026-10-09 用户发起，同会话执行）**：10 处阻断型全整改——A 类虚构词条 ×4（perusing/ch14、barouche/ch30、tête-à-tête/ch33、tawdry/ch36）、跨章引用例句 ×3（cucumber/ch14、upstart/ch30、grumbles/ch25）、截断引语 ×3（escapade/ch16、cornet/ch18、ethereal/ch23）。提示型只记：vocab WARN 15（超纲词启发式）；假红型 14 条（`check_vocab` 报 ch38–ch48「缺必备章节」，text/ 文件实际存在，工具口径问题）。复验 vocab FAIL 0。报告：`.memory/reviews/2026-10-09-never-gamble-your-heart-by-lindsay-lovise-五步审查.md`
 
-**最新门禁（第三批 ch07）**：verify_quotes 5/5 ✅；check_vocab FAIL 0 / WARN 0（降级 lane：无 library/*.epub，verify_quotes 层不判定）；corruption_scan FAIL 0
-
-**commits**：cc5dd6988（ch01–03）+ 5e2c5dc3e（ch04–06）+ c7da4c211（ch07）。未 push（待指令）。
-
-**下一步**：ch08–ch12（Jasper 跟踪 Frankie 撬锁失败确认非专业间谍 → 派对共舞肢体吸引 → 走廊对峙 → 首次接吻）
-
-**局限**：同会话写作，建议异实例抽样复核 ch01–ch03 引语归属。五步审查未做（待用户发起）。
+commits：9ebea25d0 + b28ee4077。未 push（待指令）。
 
 ### [2026-10-09 15:31 UTC] [Raccoon-Mac] → All
 
