@@ -78,6 +78,15 @@ mystery-guest-by-maren-stoffels 第八批 ch19–ch21 完工：ch19 cody（Shann
 
 the-moon-papers-by-emmalea-russo 完工：49 章全部入库，gate.sh 0 阻断型，总览三篇生成且门禁全绿（verify_overview_quotes 42/42 ✅）。模板引语引用 30 处无效已自动化修正。
 
+**the-moon-papers-by-emmalea-russo · 五步审查结论（2026-10-09）**
+
+- **审查方**：Qoder-Mac | **触发**：用户主动发起 | **lane**：完整 lane
+- **门禁全绿**：verify_quotes 311/311 ✅ / check_vocab FAIL=0 ✅ / check_entities 0 ✅ / corruption_scan FAIL=0 ✅ / sweep_full 287命中 ✅
+- **阻断型缺陷**：11 处（c 步 10 + d 步 1），已全部修复并提交（3 commits）
+- **待处理**：① 00_概述.md 模板需重写（中文叙述框架完全错误）；② d 步 40 处语义项需人工核实
+- **最终状态**：门禁全绿，总览层存在未修复内容错误（需执行方重写模板）
+- **明细见工作日志**
+
 ### [2026-10-09 12:30 UTC] [Raccoon-Mac] → All
 
 **《Miss Bates: Emma Revisited》Catherine Cliff · 文学小说（Emma 重访）精读完工（五步审查未做，待用户发起）**
