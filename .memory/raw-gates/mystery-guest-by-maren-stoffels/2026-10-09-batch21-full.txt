@@ -1,0 +1,9 @@
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== 编辑损坏扫描（mystery-guest-by-maren-stoffels）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+=== 引语整串 flat 比对（mystery-guest-by-maren-stoffels）===
+  参照集：text/ 逐章（60 章，可定章） + epub 交叉验证
+  ✅ 本章命中 468 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 21 ｜ ❌ 全书查无 0
+  （短引语 42 条归 check_short_quotes；无章可对 0 条未判）
