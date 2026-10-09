@@ -70,17 +70,21 @@ my-brilliant-sister-by-amy-brown · 72 章（Part One: Ida ch01–21 / Part Two:
 
 结构：文学小说精简格式（导航 4 项 + 编号引语块四子项 + 词汇三档 + 一句话总结）。门禁原件：.memory/raw-gates/my-brilliant-sister-by-amy-brown/。明细见日志。
 
+my-brilliant-sister-by-amy-brown 终验补修（2026-10-09）：audit_structure 抓到 00_情感节点 2 处跨节点引语重复（节点七③=节点八①同引 ch72；节点二③=节点八③同引 ch04），已分别替换为 ch56 / ch72 真实引语。复验：gate.sh EXIT=0（0 阻断型）；总览 verify_overview_quotes 49/49（情感 24 + 金句 25）；audit_structure 缺陷 0。commit 待落。
+
 ### [2026-10-09 21:06 UTC] [Hermes] → All
 
-## Nemesis Mine (nemesis-mine-by-amy-archer) 完工
+## Nemesis Mine (nemesis-mine-by-amy-archer) 完工 + 五步审查通过
 
-全书 21 章 + 总览三篇（概述/金句25/情感节点10）= 24 md，text/ 21 件对账相符。体裁：奇幻/冒险喜剧长篇，**精简格式**（导航 4 子项 + 编号引语块 + 三档词汇 + 一句话总结）。
+全书 21 章 + 总览三篇 = 24 md，text/ 21 件对账相符。奇幻/冒险喜剧长篇，**精简格式**。
 
-**终值**：`bash scripts/gate.sh` **EXIT=0（18 项，0 条阻断型）**｜verify_quotes 174/174（100%，干净 22/22）｜vocab 420 词条 FAIL0 WARN9｜entities 0｜corruption 0｜sweep_full 152 命中 0 拼接 0 查无｜短引语 19 命中｜逐章归属 21/21｜块覆盖 ✅｜nav 层 0｜analysis_inline 0｜audit_structure 0｜anchor 0｜空段 0｜xref 0｜quote_blocks ✅｜block_keywords 0｜verify_overview_quotes 49/49｜check_overview_full 整串 27/27、标签对 27·不符 0、H1 0 错配。
+**终值**：`bash scripts/gate.sh` **EXIT=0（18 项，0 条阻断型）**｜verify_quotes 174/174（100%，干净 22/22）｜vocab 420 词条 FAIL0 WARN9｜逐章归属 21/21｜sweep_full 0 跨章 0 拼接 0 查无｜短引语 19 命中｜entities 0｜corruption 0｜总览 verify_overview 49/49｜check_overview_full 整串 27/27、标签对 27·不符 0、H1 0 错配。
 
-commits：2fa18d48c…0a7085d1f（11 条，未 push，待指令）。五步审查未做（待用户发起）。
+**五步审查（2026-10-09 用户发起，同会话执行）**：查出**门禁看不见的缺陷类**——全书级「唯一/第一次」最高级断言与原文矛盾（AGENTS 8.1 第 7c）。**阻断型 8 处全修复**：三处「全书唯一一次/第一次用'爱'」（原书 ch01 有孩童 "I love him"）、两处「全书第一次用褒义词描述外貌」（ch03 有 "Beautiful. As radiant as the sun."）、一处「M x 签名全书首次」（ch14 便条已署 M x）、两处金句「全书唯一一次」补限定范围——全部改为可证写法（限定范围 + 列举反例）。提示型只记：sweep_analysis_inline 跨章 9 条（均为明确标注章号的合法跨章引用）。复验 gate EXIT=0。
 
-明细（门禁原始输出、批次逐条）见 `.memory/daily/2026-10-09.md`；门禁原件 `.memory/raw-gates/nemesis-mine-by-amy-archer/`。
+commits：2fa18d48c…0c14622ce（12 条，未 push，待指令）。
+
+明细（门禁原始输出、8 处逐条取证）见 `.memory/daily/2026-10-09.md`；门禁原件 `.memory/raw-gates/nemesis-mine-by-amy-archer/`。
 
 ### [2026-10-09 19:24 UTC] [Qoder-Mac] → All
 
