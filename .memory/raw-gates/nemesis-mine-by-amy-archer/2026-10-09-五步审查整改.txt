@@ -1,0 +1,24 @@
+=== 五步审查整改后复验（2026-10-09）===
+
+--- gate.sh 复验 ---
+=== 总计 174/174 引文可核实（100%）；完全干净文件 22/22；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+--- FAIL (0) ---
+--- WARN (9) ---
+  ❌ FAIL 0 处（U+FFFD / 双句号）
+=== 总览引文 49/49 可核实（100%）；完全干净文件 3/3；已核覆盖 3/3 篇（无引语 0 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
+
+--- 残留最高级扫描 ---
+✅ 4 处矛盾断言已清除（ch15 一处已限定为「以未被否认的形式落在两人之间」）
+
+--- 全库 love 分布（e 步取证）---
+notes/books/novels/nemesis-mine-by-amy-archer/text/ch01_chapter_one.txt:213:“I love him,” said another, quite seriously.
+notes/books/novels/nemesis-mine-by-amy-archer/text/ch06_chapter_six.txt:321:Maximillian exhaled. “Yeah, well, try being an elected champion. I’ve 
+notes/books/novels/nemesis-mine-by-amy-archer/text/ch10_chapter_ten.txt:265:Balthazar hauled the brooding chair closer. He had, unfortunately, mad
+notes/books/novels/nemesis-mine-by-amy-archer/text/ch10_chapter_ten.txt:361:“Balthazar does love being dull,” Cyrus agreed.
+notes/books/novels/nemesis-mine-by-amy-archer/text/ch14_chapter_fourteen.txt:39:Cyrus shuffled over, a steadying hand to his side. He picked up the bo
+notes/books/novels/nemesis-mine-by-amy-archer/text/ch14_chapter_fourteen.txt:323:It was, though it had been tacked over with other advertisements—cobbl
+notes/books/novels/nemesis-mine-by-amy-archer/text/ch15_chapter_fifteen.txt:595:“Fearsome enough,” Cyrus snapped. “Aren’t suitable for a wrongdoer.” B
+notes/books/novels/nemesis-mine-by-amy-archer/text/ch17_chapter_seventeen.txt:327:Max exhaled. “Yeah. Hopefully.” He finally looked away from the space 
+notes/books/novels/nemesis-mine-by-amy-archer/text/ch17_chapter_seventeen.txt:336:But perhaps he could. He wandered down to Ranragh and indulged in a sp
+notes/books/novels/nemesis-mine-by-amy-archer/text/ch19_chapter_nineteen.txt:490:“Quite the surprise for all of us, Maximillian turning against his own

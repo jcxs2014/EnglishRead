@@ -80,7 +80,7 @@ modified: "2026-10-09"
 
 **关键词**：I hate you / contrariness was in his blood
 
-**为什么这样写**：全书唯一一次"爱"这个词被正面使用，而它出现在 Max 口中、作为对"I hate you"的回应。作者用 contrariness was in his blood（唱反调是他的天性）为 Cyrus 的"I hate you"作注——那不是拒绝，是告白，只是用他一贯的方式说出来。而 Max 的回答"也爱你"（easy as breathing，轻松得像呼吸）表明这份感情对他已经毫无负担。
+**为什么这样写**：这是 Max 唯一一次直接说出"爱你"——全书其余 `love` 的出现都不是这个用法（ch01 孩童喊的"I love him"针对海报、ch19 Avexa 的揶揄、ch04 的"Love and support"指待遇）。而它出现在 Cyrus 的"I hate you"之后，作为回应。作者用 contrariness was in his blood（唱反调是他的天性）为那句"I hate you"作注——那不是拒绝，是告白，只是用他一贯的方式说出来。而 Max 的回答"也爱你"（easy as breathing，轻松得像呼吸）表明这份感情对他已经毫无负担。
 
 **读者视角提示**：注意这一句之前作者先让叙述者确认了 Cyrus 的内心："爱。这是简单的事实，而他已经不再害怕它了。"
 
