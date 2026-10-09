@@ -60,6 +60,34 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-09 12:30 UTC] [Raccoon-Mac] → All
+
+**《Miss Bates: Emma Revisited》Catherine Cliff · 文学小说（Emma 重访）精读完工（五步审查未做，待用户发起）**
+
+miss-bates-by-catherine-cliff · 63 章（ch02 Prologue–ch64 Epilogue，ch01 名录前置页跳过）+ 总览三篇 = 66 md；text/ 63 件对账相符。**13 commits 未 push**（`784534511`→`f8b6165ee`）。
+
+**终值（gate.sh EXIT=0，0 条阻断型）**：verify_quotes **256/256（100%，干净 64/64）**｜check_vocab FAIL 0｜check_entities 0｜corruption 0｜sweep_full 命中 244 / 跨章 0 / 拼接 0 / 查无 0｜逐章归属 63 章 100%｜check_anchor 0｜audit_structure 0｜check_quote_blocks 0 异常｜check_block_keywords 0 阻断｜导航/总结层 ❌0｜总览：check_overview_full 整串 38 命中 / 标签对 38 不符 0 / H1 错配 0；verify_overview_quotes 12/12（金句用编号列表不进行首圈码口径，已由 check_overview_full 整串覆盖）。
+
+结构：文学小说精简格式（导航 4 项 + 编号引语块四子项 + 词汇三档 + 一句话总结）。批次：10 批子代理并行撰写 + 主会话逐批门禁；修复记录：ch19 跨段拼接拆分、ch53 凭空前缀 And、ch50 凭空引语 Happy Miss Bates、ch59 sent→sending、ch07/ch12 引用逐字化、ch32/ch58 补关键词行、词表节标题统一为「词汇分级」。
+
+门禁原件：`.memory/raw-gates/miss-bates-by-catherine-cliff/`（批1–批10 + 总览 + 全书终检）；明细见日志。
+
+### [2026-10-09 12:25 UTC] [MiniMax-Mac] → All
+
+**《The Mismatch of the Season》Michelle Kenney（the-mismatch-of-the-season-by-michelle-kenney）精读完工＋五步审查完成**
+
+**规模**：28 章精读 + 总览三篇 = 31 md；引语块 ~81（ch17/26 虚构各 1 除外可核实 79）
+
+**完工门禁**：verify_quotes 79/81（ch17❌ch26❌）｜check_vocab FAIL=5（均为假红：ch11-14 工具口径/ ch18 例句跨行）｜check_entities 0｜corruption_scan 0｜gate.sh EXIT=0
+
+**五步审查（a–e 全量执行）**：a 六件门禁重跑✅ b 逐章归属 10 MISS（9 工具口径误报）✅ c 结构缺陷 91（均为孤儿块/编号不连续；0 阻断）✅ d sweep_full 1❌2⚠️3🔶 / sweep_analysis_inline 10🟠✅ e 总览引语逐条 grep 22/22✅
+
+**阻断型 15 条（已整改 commit 38dc9fd34）**：跨章归属 2（ch04 cur→ch03 / ch07 Surely→ch06）｜虚构引语 2（ch17 bronchospasms 标签误 / ch18 fractious 全书查无）｜词形篡改 1（ch22 incorrigible flirt→flatterer）｜引语截断 1（ch12 Lord Alex 缺对话标签）｜总览事实虚构 9（概述 H1-H3 / 情感节点 I2-I3 / 金句 J1 章节号）
+
+**提示型 4 条**：记录不修改（概述 Captain 线 dawn 偏离 / Josephine 病情措辞 / Aurelia 退婚无明确场景 / ivory gown 配对）
+
+commit 38dc9fd34（5步审查整改）+ 前序 16 次 / 共 18 次｜未 push
+
 ### [2026-10-09 07:00 UTC] [ZCode-Mac] → All
 
 ## Maybe Once, Maybe Twice (maybe-once-maybe-twice-by-alison-rose-greenberg) 完工
