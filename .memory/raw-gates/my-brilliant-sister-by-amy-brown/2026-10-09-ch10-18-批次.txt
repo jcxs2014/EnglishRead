@@ -1,0 +1,68 @@
+=== [2026-10-09] ch10-ch18 批次门禁原始输出（子代理产出） ===
+--- verify_quotes ---
+ch09 to comfort.md: 6/6 ✅
+ch10 to conform.md: 6/6 ✅
+ch11 to buy.md: 6/6 ✅
+ch12 to walk.md: 6/6 ✅
+ch13 to drive.md: 6/6 ✅
+ch14 to ride.md: 6/6 ✅
+ch15 to perform.md: 6/6 ✅
+ch16 to balance.md: 6/6 ✅
+ch17 to plant.md: 6/6 ✅
+ch18 to learn.md: 6/6 ✅
+
+⚠️ 全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 104/104 引文可核实（100%）；完全干净文件 18/18；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- check_short_quotes ---
+=== 短引语兜底核对（my-brilliant-sister-by-amy-brown）===
+  verify_quotes 跳过（<20 flat 字符）的引语：3 条 —— 这些主门禁**根本没查**
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+--- check_vocab ---
+  ch10 to conform.md [基础] 基础档疑含超纲词「assistant principal」
+  ch10 to conform.md [基础] 基础档疑含超纲词「diagnosis」
+  ch10 to conform.md [基础] 基础档疑含超纲词「consequences」
+  ch10 to conform.md [基础] 基础档疑含超纲词「farm household」
+  ch11 to buy.md [基础] 基础档疑含超纲词「memoirist」
+  ch11 to buy.md [基础] 基础档疑含超纲词「embroidered cat」
+  ch12 to walk.md [基础] 基础档疑含超纲词「daycare-kindergarten centre」
+  ch14 to ride.md [基础] 基础档疑含超纲词「forehooves」
+  ch15 to perform.md [基础] 基础档疑含超纲词「cartoon character」
+  ch16 to balance.md [基础] 基础档疑含超纲词「burgundy birthmark」
+  ch16 to balance.md [基础] 基础档疑含超纲词「different person」
+  ch17 to plant.md [基础] 基础档疑含超纲词「investment」
+  ch17 to plant.md [基础] 基础档疑含超纲词「westringia」
+  ch18 to learn.md [基础] 基础档疑含超纲词「breakfast」
+  ch18 to learn.md [基础] 基础档疑含超纲词「enclosure」
+  ch18 to learn.md [基础] 基础档疑含超纲词「enclosures」
+  ch18 to learn.md [基础] 基础档疑含超纲词「early slaughter」
+  ch18 to learn.md [基础] 基础档疑含超纲词「concrete replacement」
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- check_chapter_quotes ---
+⚠️  全书共 3 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 104，命中本章 104（100%）
+✅ 全部引语均归属正确章节
+--- audit_structure ---
+=== 精读结构扫描（my-brilliant-sister-by-amy-brown）===
+  扫 18 个 md、107 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 6
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+--- check_anchor ---
+  判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
+  参照集：text/（72 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 1 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 松散关键词明细 ──
+     ch03 to mother.md:65  关键词「她活在对未来的排练里，却无法行动。这解释了为什么她痴迷于 Franklin 的传」的「franklin」在全书有、本块无
+--- corruption_scan ---
+
+=== 编辑损坏扫描（my-brilliant-sister-by-amy-brown）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+--- sweep_full ---
+=== 引语整串 flat 比对（my-brilliant-sister-by-amy-brown）===
+  参照集：text/ 逐章（72 章，可定章） + epub 交叉验证
+  ✅ 本章命中 104 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 3 条归 check_short_quotes；无章可对 0 条未判）
