@@ -131,21 +131,17 @@ the-moon-papers-by-emmalea-russo 完工：49 章全部入库，gate.sh 0 阻断�
 
 **《Miss Bates: Emma Revisited》Catherine Cliff · 文学小说（Emma 重访）精读完工（五步审查未做，待用户发起）**
 
-miss-bates-by-catherine-cliff · 63 章（ch02 Prologue–ch64 Epilogue，ch01 名录前置页跳过）+ 总览三篇 = 66 md；text/ 63 件对账相符。**13 commits 未 push**（`784534511`→`f8b6165ee`）。
+miss-bates-by-catherine-cliff · 63 章（ch02 Prologue–ch64 Epilogue，ch01 名录前置页跳过）+ 总览三篇 = 66 md；text/ 63 件对账相符。文学小说精简格式（导航 4 项 + 编号引语块四子项 + 词汇三档 + 一句话总结）；修复记录：ch19 跨段拼接、ch53 凭空前缀 And、ch50 凭空引语、ch59 sent→sending、ch07/ch12 引用逐字化、ch32/ch58 补关键词行、词表节标题统一「词汇分级」。**13 commits 未 push**（`784534511`→`f8b6165ee`）。
 
-**终值（gate.sh EXIT=0，0 条阻断型）**：verify_quotes **256/256（100%，干净 64/64）**｜check_vocab FAIL 0｜check_entities 0｜corruption 0｜sweep_full 命中 244 / 跨章 0 / 拼接 0 / 查无 0｜逐章归属 63 章 100%｜check_anchor 0｜audit_structure 0｜check_quote_blocks 0 异常｜check_block_keywords 0 阻断｜导航/总结层 ❌0｜总览：check_overview_full 整串 38 命中 / 标签对 38 不符 0 / H1 错配 0；verify_overview_quotes 12/12（金句用编号列表不进行首圈码口径，已由 check_overview_full 整串覆盖）。
-
-结构：文学小说精简格式（导航 4 项 + 编号引语块四子项 + 词汇三档 + 一句话总结）。批次：10 批子代理并行撰写 + 主会话逐批门禁；修复记录：ch19 跨段拼接拆分、ch53 凭空前缀 And、ch50 凭空引语 Happy Miss Bates、ch59 sent→sending、ch07/ch12 引用逐字化、ch32/ch58 补关键词行、词表节标题统一为「词汇分级」。
-
-门禁原件：`.memory/raw-gates/miss-bates-by-catherine-cliff/`（批1–批10 + 总览 + 全书终检）；明细见日志。
+**终值（gate.sh EXIT=0，0 条阻断型）**：verify_quotes **256/256（100%，干净 64/64）**｜check_vocab FAIL 0｜check_entities 0｜corruption 0｜sweep_full 244/0/0/0｜逐章归属 63 章 100%｜check_anchor 0｜audit_structure 0｜导航/总结层 ❌0｜总览 check_overview_full 38/0/0 + verify_overview_quotes 12/12。门禁原件 `.memory/raw-gates/miss-bates-by-catherine-cliff/`；明细见日志。
 
 **miss-bates-by-catherine-cliff · 五步审查（2026-10-09，同会话 Raccoon-Mac）**
 
-a–e 全跑，完整 lane（有 epub）门禁全绿。终值复跑：verify_quotes 256/256（100%，干净 64/64）｜check_chapter_quotes 63/63（零跨章）｜audit_structure 缺陷 0｜d 步机械子项 check_struct/xref/analysis_indep 全绿｜corruption_scan 0 FAIL｜check_overview_full 38/38 标签对 38/H1 错配 0｜总览 e 步事实与说话人窗口核对 0 缺陷。
+a–e 全跑，完整 lane（有 epub）门禁全绿。终值复跑：verify_quotes 256/256（100%，干净 64/64）｜check_chapter_quotes 63/63（零跨章）｜audit_structure 缺陷 0｜d 步机械子项 check_struct/xref/analysis_indep 全绿｜corruption_scan 0 FAIL｜check_overview_full 38/38 标签对 0/H1 0｜总览 e 步事实与说话人窗口核对 0 缺陷。
 
-**阻断型 3 → 已整改 2、1 判假红**：① ch12 中文理解补入 "A nose like a Gloucestershire Old Spot"（格洛斯特老花斑猪）；② ch35 修正 "Wonderful." 说话人归属 Henrie→Mrs. Elton；③ ch60 "三岁" 判假红——ch59 明写 "third birthday had been the week before"，二审仅隔离检查单章遗漏跨章证据。另记 4 处假红型（ch21 dire / ch33 each again other / ch20+ch38 跨章指针 / ch60）。提示型：vocab WARN 15、audit_numbers 15 ⚪ 年龄类待人核。待复核元数据（ch40/43/57 精读序号 vs Chapter N）判为编号双轨制设计约定，非缺陷。
+**阻断型 3 → 已整改 2、1 判假红**：① ch12 中文理解补入 "A nose like a Gloucestershire Old Spot"（格洛斯特老花斑猪）；② ch35 修正 "Wonderful." 说话人归属 Henrie→Mrs. Elton；③ ch60 "三岁" 判假红——ch59 明写 "third birthday had been the week before"，二审仅隔离检查单章遗漏跨章证据。另记 4 处假红型（ch21 dire / ch33 each again other / ch20+ch38 跨章指针 / ch60）。提示型：vocab WARN 15、audit_numbers 15 ⚪ 年龄类待人核。待复核元数据（ch40/43/57 精读序号 vs Chapter N）判为编号双轨制设计约定，非缺陷。整改后复跑：corruption 0 FAIL｜verify_quotes 256/256｜check_chapter_quotes 63/63。审查 commit `cf769dd4b`（累计 14 commits 未 push）。
 
-整改后复跑：corruption 0 FAIL｜verify_quotes 256/256｜check_chapter_quotes 63/63。审查 commit `cf769dd4b`（累计 14 commits 未 push）。报告 `.memory/reviews/2026-10-09-miss-bates-by-catherine-cliff-五步审查.md`；d 步二审 staging 63 件 + 门禁原始输出已归档 `.memory/reviews/`（三件同批）。
+**审查产物归档 + 原目录清空（2026-10-09，用户确认）**：已按 `.memory/reviews/` 命名约定归档三件——五步审查报告 / d 步二审 63 章合并件（226676 B，63 章标题齐全）/ step-abc 门禁原始输出（git 100% rename 或合并新增，commit `41d1217db`）；板/日志产物路径引用已同步（`58b720b73`）；原 `review_miss-bates/` 经用户确认清空（63 件 staging 为已归档重复副本，commit `7f458ef2f`）。归档完整性经删前逐件校验：件数 63、空文件 0、章号 ch02–ch64 连续。
 
 ### [2026-10-09 12:25 UTC] [MiniMax-Mac] → All
 
