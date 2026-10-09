@@ -8,7 +8,7 @@ POV: "Johnny Washington（SATURDAY，2 P.M.，McCLOUD 的 mini-mart，第三人�
 
 ## 本章导航
 
-- **时空坐标**：MCCLOUD, CALIFORNIA / SATURDAY / 2 P.M.——山脚小镇公路旁的 Gas N Go 便利店与它的停车场，离私路入口只有几分钟车程
+- **时空坐标**：MCCLOUD, CALIFORNIA / SATURDAY / 2 P.M.——山脚小镇公路旁的 Gas N Go 便利店与它的停车场；上山那条私路仍在更北的地方
 - **叙事视角**：第三人称限知，全程贴 Johnny；他的自由间接引语（What did a Miami boy know about snow chains, anyway?）频繁顶替叙述者的声音
 - **核心事件**：一家人在便利店装好防滑链、买杂货与汽油；Tasha 在里间卫生间孕吐不止；店员 Sue 先打量两个女孩、随后认出 Mazywood 这个名字并说漏"昨天有人来找过那地方"；看屋人 Dick Hollman 已经离镇，这一周末山上无人接应；离店时两只红色汽油桶被留在柴堆旁
 - **关键人物**：Johnny Washington（昵称 Money，把小屋装修过却始终没挂上短租平台）、Tasha（怀孕，正为她的写作计划采访当地人，已记下 Sue 的电话号码）、Imani 与 Sharise（被店员盯着打量的一对姐妹）、Sue（胸前名牌写着的店员，祖父曾给山上送肉）、Dick Hollman（退休教师、镇上少数的兄弟之一、看屋人，本章完全不在场）、Rex（Sue 提到他三点到店，本章未说明身份）
@@ -75,7 +75,7 @@ POV: "Johnny Washington（SATURDAY，2 P.M.，McCLOUD 的 mini-mart，第三人�
 
 **为什么这样写**：作者用一个不在场的看屋人同时交代三件事：谁在维护这栋房子、Johnny 与这个镇的关系有多薄（只在咖啡馆见过一次，over coffee and pecan pie），以及这趟旅行的动机如何与妻子重合——starry-eyed about the idea of preserving her legacy, just like Tasha。最后一句 Hollman was a good hire. 单独成句、语气肯定，可就在几段之前，Johnny 刚说过这位好雇佣已经离镇：He left town yesterday morning. Funeral down south. 于是这个周末山上没有本地人接应，只剩他们四个人和一栋装修过却没人常住的老屋。
 
-**读者视角提示**：Sue 说昨天有人来问过那个地方，本章没有说那人是谁；把这条信息与上一章对上，是读者按题注（周五与周六）自己做的推断，本章本身只让两件事挨在同一个周末里。
+**读者视角提示**：Sue 说昨天有人来问过那个地方，本章没有说那人是谁；把这条信息与 ch09 对上，是读者按题注（周五与周六）自己做的推断，本章本身只让两件事挨在同一个周末里。
 
 ---
 
@@ -85,7 +85,7 @@ POV: "Johnny Washington（SATURDAY，2 P.M.，McCLOUD 的 mini-mart，第三人�
 
 **关键词**：called、Bear Creek Lodge、Not Mazywood
 
-**为什么这样写**：纠正的内容很短，代价却全在语气上。作者紧接这一段让全家人都 stare at him，再让 Johnny 自己认出来源——as if he’d channeled a flash of his grandmother’s famous temper，他一发火就变成了外祖母；而 She’d changed the name for a reason. 是全章留下的第一个真正的谜：谁改的名、什么时候改的，本章不答，只把年份范围（early 1940s）、把 Lazy Mazy 这个角色名，以及 her name above the title on the posters 一起放进叙述。同一件事随后又被 Tasha 用另一种读法化解：她说那只是他对自己演的电影太敏感。
+**为什么这样写**：纠正的内容很短，代价却全在语气上。作者紧接这一段让全家人都 stare at him，再让 Johnny 自己认出来源——as if he’d channeled a flash of his grandmother’s famous temper，他一发火就变成了外祖母；而 She’d changed the name for a reason. 是全章留下的第一个真正的谜：她为什么要为这个角色名改掉自己的名字，本章不答，只把年份范围（early 1940s）、把 Lazy Mazy 这个角色名，以及 her name above the title on the posters 一起放进叙述。同一件事随后又被 Tasha 用另一种读法化解：她说那只是他对自己演的电影太敏感。
 
 **读者视角提示**：本章其实没有把两个名字的先后说清——Johnny 一边坚持她叫它 Bear Creek Lodge，一边又承认 Lazy Mazy 是她给自己那个角色起的名字；此处不必急着替文本排序，后面的章节另有材料。
 

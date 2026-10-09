@@ -11,7 +11,7 @@ POV: "Mazelle Washington（1928 年，九岁，Los Angeles 新家；梦段用现
 - **时空坐标**：1928—TWO YEARS LATER；梦里的场地仍是 Gracetown 的松林与沼泽草，醒后在洛杉矶的新家（八间房，太阳门廊，门外是 Daddy 给她搭的缩微复制自家房子的狗屋）
 - **叙事视角**：第三人称限知，紧贴 Mazelle；开篇一段是她的梦，用现在时写，惊醒后换回过去时，另有一处极短的内心独白直接用第一人称（若她想退出，Lorenzo 会告全家）
 - **核心事件**：Mazelle 梦见在佛州林子里找 Scout，蚊子变成齐膝的雪、林间一串血脚印，雾里骂狗的却不是 Doris 而是 Aunt Ruby；一声撞墙声把她惊醒，Scout 干净地坐在门廊上。醒来后交代两年后的处境：与 Mr. Lorenzo 签下的合同（每周两百美元、两年后到期）、Mother 越来越重的咳嗽与替她梳头的手、Aunt Ruby 每周六三个一小时的课与那把发刷；她在琴凳上第一次想明白 Aunt Ruby 是嫉妒她
-- **关键人物**：Mazelle（九岁，全家的经济支柱）、Scout（不见睡觉、爱打猎、只跟 Mazelle 成套）、Mother（她的经理，咳嗽，替她编头）、Daddy（腰伤已不允许他按自己的方式教她）、Doris 与 Dottie（姐姐，在洛杉矶没找到活）、Aunt Ruby（Mother 的教母，住厨房后多出来那间，替她上课也用发刷打她）、被提及者：Mr. Lorenzo、Gram、Sunshine Sammy 与 Our Gang、The California Eagle
+- **关键人物**：Mazelle（九岁，全家的经济支柱）、Scout（不见睡觉、爱打猎、只跟 Mazelle 成套）、Mother（她的经理，咳嗽，替她编头）、Daddy（腰伤已不允许他按自己的方式教她）、Doris 与 Dottie（姐姐，在洛杉矶没找到活）、Aunt Ruby（Mother 的教母，住厨房后多出来那间，替她上课也用发刷打她）、被提及者：Mr. Lorenzo、Sunshine Sammy 与 Our Gang、The California Eagle
 - **章节主题**：好运的账单——一份不能退出的合同、一副被强加的种族化造型、一块不敢去掀的天鹅绒幕布（Scout 到底是什么）
 - **上章回顾**：ch02 收在 Norman Studios 后院的飞机道具旁，全家被 Mr. Norman 的两句好话与两句警告同时打动——会有人想买走 Scout，而他推荐他们去投的 Lorenzo 拍的不是给黑人看的片子；Daddy 说不用现在就定，先听 Mr. Lorenzo 怎么说
 

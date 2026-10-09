@@ -13,7 +13,7 @@ POV: "Mazelle Washington（承 1926 年夏，Jacksonville 的 Norman Studios，�
 - **核心事件**：全家按息影前的团服打扮到 Norman Studios 见白人制片人 Mr. Norman；Mazelle 临场自封艺名 Little Mazy，与 Scout 在摄影机前拍成人生第一个 screen test；Mr. Norman 劝他们把片子寄去加州的 Lorenzo Studios，并带全家看了他为新片 The Flying Ace 做的飞机道具
 - **关键人物**：Mazelle（自取艺名 Little Mazy）、Scout（戴着借来的红项圈与 Daddy 的一条红领结）、Daddy 与 Mother（谈合同的是 Mother）、Brother（低声给她解释 shoot 与 Hal Roach）、Doris 与 Dottie（在镜头前站直了身子讨好）、Daddy 的表哥（引荐人，向白人老板夸耀剧团旧绩）、Mr. Norman（Norman Studios 的白人制片人，正在筹备 The Flying Ace）、Benny（Mr. Norman 一句话里带过的人物，身份本章未交代）、被提及者：Oscar Micheaux、Hal Roach、Bessie Coleman、Marion Davies、Lafayette Players、Jerry Lorenzo
 - **章节主题**：一次靠 Scout 赢来的赏识——白人制片人的好意同时是两道警告（有人会买你的狗；下一站的那个制片人不为黑人拍片）
-- **上章回顾**：ch01 收在自家后院——Mazelle 在后院把 Scout 演给全家看，Daddy 压低嗓门追问这只狗是谁的、从哪儿来的，她没有答出来历；她又连着演到黑透之后很久
+- **上章回顾**：ch01 收在自家后院——Mazelle 在后院把 Scout 演给全家看，Daddy 压低嗓门追问这只狗是谁的、从哪儿来的，她只答不归任何人、是路上捡的；她又连着演到黑透之后很久
 
 ---
 
@@ -25,7 +25,7 @@ POV: "Mazelle Washington（承 1926 年夏，Jacksonville 的 Norman Studios，�
 
 **关键词**：pinch、whimpered、click-clicked、rehearsals
 
-**为什么这样写**：本章把“喜”和“痛”绑在同一个身体动作里：她必须 smile and stay excited，而脚在疼。Scout 的呜咽不是回应她的情绪而是回应她的疼痛（as if he knew her pain），于是上一章那种“狗听得懂人”的奇迹在本章被降级成日常背景，没人再觉得奇怪。click-clicked 这个拟声随后在片场被原样安到 Scout 的长趾甲上（Mazelle’s shoes click-clicked, while Scout’s long toenails click-clicked beside her），用声音把两者配成一双。
+**为什么这样写**：本章把“喜”和“痛”绑在同一个身体动作里：她必须 smile and stay excited，而脚在疼。Scout 的呜咽不是回应她的情绪而是回应她的疼痛（as if he knew her pain），上一章那种“狗听得懂人”的奇迹在本章并没有被当成日常——摄影机后就有人低声惊呼（How’s that damn dog know what ‘action’ means?），只有 Mazelle 觉得理所当然。click-clicked 这个拟声随后在片场被原样安到 Scout 的长趾甲上（Mazelle’s shoes click-clicked, while Scout’s long toenails click-clicked beside her），用声音把两者配成一双。
 
 **读者视角提示**：本章没有日期抬头，靠 Gracetown to Jacksonville 这个地名移动承接上一章的 1926 年夏；Mr. Norman 的全名 Richard Norman 要到 ch04 那封装框的电报才给出。
 
@@ -61,7 +61,7 @@ POV: "Mazelle Washington（承 1926 年夏，Jacksonville 的 Norman Studios，�
 
 **关键词**：Despite、fondly、sipping、died
 
-**为什么这样写**：这里叙述者直接插手（预叙）：他已知终局，却只交代态度（look back fondly），不交代内容。until the day she died 把一个比喻的时间跨度一路拉到死亡，读者立刻明白眼前这场甜蜜是被当作“已失去之物”来写的。like bourbon 是只有成年人才有的酒和比喻，和紧接其后的儿童误读（Whose feet were they going to shoot? And why was he talking about a cockroach?）声口落差极大，一句话里同时装下成人 retrospective 与孩子现场视角。
+**为什么这样写**：这里叙述者直接插手（预叙）：他已知终局，却只交代态度（look back fondly），不交代内容。until the day she died 把一个比喻的时间跨度一路拉到死亡，读者立刻明白眼前这场甜蜜是被当作“已失去之物”来写的。like bourbon 是只有成年人才有的酒和比喻，和本章前段那处儿童误读（Whose feet were they going to shoot? And why was he talking about a cockroach?）声口落差极大，一句话里同时装下成人 retrospective 与孩子现场视角。
 
 **读者视角提示**：本书历史线惯在段落收口处插这类“一生之后”的总结句（ch05 结尾把此后十几年的兴衰一口气交代完是同一手法）；读到这种句子应记下：叙述者知道而人物不知道。
 

@@ -11,7 +11,7 @@ POV: "Johnny Washington（PRESENT DAY，Universal 片场的一个下午到黄昏
 - **时空坐标**：抬头 PRESENT DAY；日历只给到 just a week before all of Hollywood would shut down for the holidays，即全好莱坞为假日停工前一周的那个下午；地点全在 Universal 片场里的 LDR Productions 一带：制片公司小屋那条街、会议室、走廊与洗手间、门口的观光大巴与回车的路；时间从下午三点半一路推到四点多
 - **叙事视角**：第三人称限知，贴紧 Johnny Washington：信息几乎全部经过他的身体（偏头痛、恶心、胸口、喉咙里那块石头）与他的记忆（母亲、USC、卖出第一个剧本的那天）；Ben、Money、Rashad 的内心作者一律不写，只给 Johnny 从动作与微表情里读出来的部分
 - **核心事件**：Johnny 与 Money 拿着 Tennyson Hardwick 的代理人给出的 letter of intent 去 LDR 要一个答复（Hardwick 三月要在布达佩斯开机）；会议室里等的只有两个没有 green-light power 的开发 exec。Rashad 一坐下，Johnny 就读出了结果，Ben 只能承认自己卖不动老板。Johnny 当面把 Denzel 与 Halle 从未合演、以及黑人男主的性爱场面从来没有卖过一亿美元这件事说破，起身走人，在洗手间吐空了自己；走开的路上他第一次对活人说出 Tasha 怀孕。Rashad 追出来，说自己小时候爱 Misery Swamp，接着告诉他：LDR 的 L 是 Lorenzo，而 Lorenzo Studios discovered your grandmother——你知道的——Mazy
-- **关键人物**：Johnny Washington（when he had just turned sixty，偏头痛遗传自母亲，童星出身，Frat House Haunting 四部的编导演）、Money（政府名字 Derrick Gibson，USC 室友、二十五年制片搭档，由白人养父母养大，有个十岁的外孙与小儿子在跑大学田径）、Ben（LDR 的 director of features，有法律学位）、Rashad（前编剧，去年刚被雇的 development executive，locs，六英尺三寸）、开高尔夫球车的年轻女员工；被提及：Tasha（四十五岁，六月临产）、Sharise（十八岁，正在申请大学）、Imani（十三岁）、Tennyson Hardwick、Ryan Coogler、Jordan Peele、Mazelle Washington
+- **关键人物**：Johnny Washington（when he had just turned sixty，偏头痛遗传自母亲，Frat House Haunting 四部的编导演）、Money（政府名字 Derrick Gibson，USC 室友、二十五年制片搭档，由白人养父母养大，有个十岁的外孙与小儿子在跑大学田径）、Ben（LDR 的 director of features，有法律学位）、Rashad（前编剧，去年刚被雇的 development executive，locs，六英尺三寸）、开高尔夫球车的年轻女员工；被提及：Tasha（四十五岁，六月临产）、Sharise（十八岁，正在申请大学）、Imani（十三岁）、Tennyson Hardwick、Ryan Coogler、Jordan Peele、Mazelle Washington
 - **章节主题**：一个刚满六十的人承认自己可能等不到这部片子拍成；而就在同一个黄昏，公司的三个字母把他的家族史还给了他
 - **上章回顾**：ch05 收在合同到期之后：Mazelle 某个清晨发现 Scout 的狗窝空了，全国跟着找都没有找到；她没告诉任何人的那条线索，是橘树下那个四周草叶全枯、唯独自己湿润的泥坑与一枚不知新旧的爪印
 
@@ -27,7 +27,7 @@ POV: "Johnny Washington（PRESENT DAY，Universal 片场的一个下午到黄昏
 
 **为什么这样写**：偏头痛被写成一场要抢时间的仗：dug、popped a capsule dry、hadn’t started throbbing yet——一连串全是防守动作，而不是症状。更妙的是作者让他逐项排查自己的身体：太阳穴的紧箍、眼睛、恶心；全章后面的事也都先经过这套仪器——不是他在判断会议，是他在判断自己的头。而开头那个 Fuck. 与 an early celebration 把这套身体反应锁在好消息上：偏头痛在他身上不区分喜与惧，而这毛病是从母亲那儿继承来的。
 
-**读者视角提示**：作者先给读者一具会报警的身体，再给信息：下一段就会交代 his mother——他遗传的是那个女人，也就是 ch01–ch05 里那个女孩。
+**读者视角提示**：作者先给读者一具会报警的身体，再给信息：下一段就会交代 his mother——他遗传自母亲这一边；而 ch01–ch05 里那个女孩是他母亲的母亲，也就是他的祖母。
 
 ---
 
@@ -97,7 +97,7 @@ POV: "Johnny Washington（PRESENT DAY，Universal 片场的一个下午到黄昏
 
 **关键词**：stands, Merged, linked up, discovered, grandmother
 
-**为什么这样写**：全章的分量压在这两句上，而它们被裹在一段公司并购史的说明里：先给三个字母的来历（Merged、linked up、L-D-R），一句一顿，然后才落到 discovered your grandmother。Rashad 补的那句 You know—Mazy 里的 You know 是全章最扎人的两个字——对方以为他当然知道。读者刚从 ch01–ch05 出来，知道 Mazy 只是那个孩子的艺名，她的真名是 Mazelle Washington，而且她当着大人说过自己不姓 Mazy；现在线与过去线在这一句里接上了：发现她的那家公司，就是此刻拒掉她孙子作品的那家公司的前身。
+**为什么这样写**：全章的分量压在这两句上，而它们被裹在一段公司并购史的说明里：先给三个字母的来历（Merged、linked up、L-D-R），一句一顿，然后才落到 discovered your grandmother。Rashad 补的那句 You know—Mazy 里的 You know 是全章最扎人的两个字——对方以为他当然知道。读者刚从 ch01–ch05 出来，知道 Mazy 只是那个孩子的艺名，她的真名是 Mazelle Washington，而且她当着大人说过 Mazy 只是艺名、她叫 Mazelle；现在线与过去线在这一句里接上了：发现她的那家公司，就是此刻拒掉她孙子作品的那家公司的前身。
 
 **读者视角提示**：铺垫早就埋在会议室墙上：Some of the films dated to the 1950s, predating the merger that had created LDR——读者比 Johnny 早几页就知道这家公司所属的年代有 ch02–ch05 的片场，可他一直没把它们连起来。Johnny 只答了两个字 Small world，Rashad 的回话是 History。
 

@@ -37,7 +37,7 @@ POV: "Mazelle Washington（承 ch04 同一天，洛杉矶片场与家中；第�
 
 **关键词**：startled、pursing、growling、slid
 
-**为什么这样写**：作者把这场反抗写得极小：一句“My real name is Mazelle”，没有动作、没有哭闹。真正被放大的是身体的回应——Millie Sharpe 咳嗽、抿嘴，Scout 则 slid to Mazelle’s side 并把头低下去，本章开头 Scout 曾用同样的姿势瞪过 Mr. Sharpe，头一低、牙床一动就露出牙齿；读者被训练过：头低下来不是顺从，是准备。最后一句把优先级说清：眼睛比低吼更凶，等于承认这只狗的愤怒不必发声也已经生效。
+**为什么这样写**：作者把这场反抗写得极小：只有块前一行那句 “My real name is Mazelle,” she heard herself say.，没有动作、没有哭闹。真正被放大的是身体的回应——Millie Sharpe 咳嗽、抿嘴，Scout 则 slid to Mazelle’s side 并把头低下去，本章开头 Scout 曾用同样的姿势瞪过 Mr. Sharpe，头一低、牙床一动就露出牙齿；读者被训练过：头低下来不是顺从，是准备。最后一句把优先级说清：眼睛比低吼更凶，等于承认这只狗的愤怒不必发声也已经生效。
 
 **读者视角提示**：这一段的时机被精心安排：Mother 不在场（本章中段她因哮喘住院），这一天没有人替 Mazelle 压住场面——代价当晚就要付。
 
@@ -63,7 +63,7 @@ POV: "Mazelle Washington（承 ch04 同一天，洛杉矶片场与家中；第�
 
 **为什么这样写**：作者在暴力的最高点把叙述放慢：先给一个眼神（saw the question in his eyes），再取消语言这个媒介本身（never needed language）。于是紧接其后那个独成一行的 Yes. 既不是喊出来的也不是想出来的句子，而是一次许可——ch03 里那条看不见的拴绳在这里被真正用在行动上。更冷的是视角：读者能看见这道许可是 Mazelle 给的，而屋里没有任何大人。
 
-**读者视角提示**：对照 ch03 那句她不敢掀开的 dark velvet curtain：本章她不但掀开了，还答了话；下一章起她余生都要在这一夜上面过日子。
+**读者视角提示**：对照 ch03 那句她不敢掀开的 dark velvet curtain：本章她不但掀开了，还答了话；而本章最后几段已经把这夜的账一路记到了她的余生。
 
 ---
 
@@ -93,7 +93,7 @@ POV: "Mazelle Washington（承 ch04 同一天，洛杉矶片场与家中；第�
 
 > **原句 7:** The only clue left behind was one Mazelle didn’t share, because who would believe her? On the day of his disappearance, deep in a corner of her backyard, under Scout’s favorite orange tree he marked on every walk, she’d found a mudhole. The mudhole reminded her of the muddy rim of the Wishing Pool she had visited so many years before, as if there had been a rainstorm or someone had left the garden hose running overnight. But all the grass and leaves around the mudhole were parched from the summer sun. Only the mudhole was wet, with a single paw print that might have been brand-new, or might have been as old as her wish in Gracetown.
 
-**中文理解**：留下的线索只有一条，而 Mazelle 没有说出去，因为谁会信她？他不见的那天，在她后院最深的一个角落、他每次散步都要做记号的那棵橘子树下，她发现一个泥坑。那泥坑让她想起多年前往过多次的 Wishing Pool 边那圈泥，像是刚下过一场暴雨，或有人整夜开着水管。可周围的草与叶子全被夏日的太阳晒得干透，只有那个泥坑是湿的，里面一只爪印，也许是全新的，也也许和她当年在 Gracetown 许下的愿望一样老。
+**中文理解**：留下的线索只有一条，而 Mazelle 没有说出去，因为谁会信她？他不见的那天，在她后院最深的一个角落、他每次散步都要做记号的那棵橘子树下，她发现一个泥坑。那泥坑让她想起多年前往过多次的 Wishing Pool 边那圈泥，像是刚下过一场暴雨，或有人整夜开着水管。可周围的草与叶子全被夏日的太阳晒得干透，只有那个泥坑是湿的，里面一只爪印，也许是全新的，也许和她当年在 Gracetown 许下的愿望一样老。
 
 **关键词**：mudhole、parched、brand-new、clue
 
@@ -119,10 +119,10 @@ POV: "Mazelle Washington（承 ch04 同一天，洛杉矶片场与家中；第�
 
 | 词/短语 | 释义 | 例句 |
 |------|------|------|
-| hypnotized | 把人定住一般迷住 | In a once-upon-a-time voice that hypnotized them all, Mr. |
+| hypnotized | 把人定住一般迷住 | In a once-upon-a-time voice that hypnotized them all, Mr. Sharpe gathered the kids to tell them the story they would act out. |
 | shuddering | 剧烈地发抖颤动 | Mazelle flailed her arms as if she were panicked, the ladder shuddering beneath her. |
 | unprofessional | 不敬业、不像干这行的样子 | Did Jake think she was unprofessional after her outburst over her name? |
-| cooing | 轻声柔语地哄 | Wu, who held Danny in the shade of an awning, cooing to calm her son’s tears, away from the thinning smoke. |
+| cooing | 轻声柔语地哄 | Everyone flocked to them except Mrs. Wu, who held Danny in the shade of an awning, cooing to calm her son’s tears, away from the thinning smoke. |
 | taunted | 故意挑衅地嘲 | Aunt Ruby taunted him. |
 | fervor | 猛烈到失态的投入 | “Please don’t hurt me—” But Aunt Ruby whirled instead toward Scout, who was barking with such fervor that spittle and foam flew from his mouth. |
 | guttural | 从喉咙深处发出的 | From the loud sound of her skull on the countertop, Mazelle feared (hoped?) that Aunt Ruby might be knocked out, or even dead—but an enraged, guttural shriek told her otherwise. |
@@ -134,7 +134,7 @@ POV: "Mazelle Washington（承 ch04 同一天，洛杉矶片场与家中；第�
 |------|------|------|
 | ladder | 梯子 | Scout’s most dramatic rescue will be Mazy’s, who will be at the window reaching for a ladder before Scout pulls her back inside to lead her to safety. |
 | rung | 梯子的横档 | “Pretend you’re going to climb out—” Mazelle jumped from the thin ledge to the top rung of the ladder. |
-| blanket | 毯子 | Sharpe held up a small blanket. |
+| blanket | 毯子 | Mr. Sharpe held up a small blanket. |
 | pillow | 枕头 | She cried, hugging her pillow over her face so Aunt Ruby wouldn’t have the satisfaction of hearing how sad she was. |
 | biscuits | 饼干，此处指点心奖励 | The mothers gathered around Scout to celebrate him with dog biscuits, and no one noticed his muddy swamp smell, or didn’t complain if they did. |
 

@@ -8,7 +8,7 @@ POV: "Johnny Washington 与 Tasha Morrison Washington（PRESENT DAY，洛杉矶 
 
 ## 本章导航
 
-- **时空坐标**：承上一章时段（PRESENT DAY）——Johnny 从佛罗里达返程，当天傍晚回到 Baldwin Hills 的家中，夜里 Tasha 独自留在门廊与他空着的办公室
+- **时空坐标**：承上一章时段（PRESENT DAY）——Johnny 从 LDR 那场会面驾车回家（途中闪回的是二十年前 Florida Highway Patrol 通知母亲车祸），当天傍晚回到 Baldwin Hills 的家中，夜里 Tasha 独自留在门廊与他空着的办公室
 - **叙事视角**：第三人称限知，前半贴 Johnny；自 Tasha 独自站到前门廊那一段起改贴 Tasha，两段各自只知道各自的秘密
 - **核心事件**：Johnny 被片方要求再改一轮剧本后回到家，与 Tasha 谈定这周末去 Bear Creek Lodge，并决定把怀孕的事告诉两个女儿；Tasha 独处时承认自己对怀孕的第一反应是恐惧，也摊开她还没动笔的 Mazelle Washington 新书计划
 - **关键人物**：Johnny Washington（编剧兼导演，母亲 Sadie 已故）、Tasha Morrison Washington（在 UCLA 教 Afrofuturism 与黑人电影，腹中有未出世的孩子）、Imani（十三岁，戴着 VR 头显打游戏）、Sharise（长女，刚考完 SAT，正为大学申请拍家族史视频）、Sadie Washington（Johnny 的母亲，只出现在回忆与墙上照片里）、Mazelle Washington（Johnny 的祖母，本章只以一张童年照片与 Tasha 的书计划出现）、Nala（邻居家的 pit bull，Tasha 认为只有它知道自己真正的心事）
@@ -73,7 +73,7 @@ POV: "Johnny Washington 与 Tasha Morrison Washington（PRESENT DAY，洛杉矶 
 
 **关键词**：wishful thinking、nemesis、migrated、miscarriage、emotional armor
 
-**为什么这样写**：上一章还堵在喉头的石头，在这里长到肚子上；作者把羞耻与恐惧做成有位置、有体积、会移动的实体，而部位的位移本身就是情节推进。更狠的是那句"这个秘密给了他一副情绪装甲"：本该由夫妻共担的坏消息被他明确写成**我的**盔甲，于是"同意等三个月"这件看似体贴的事底下露出自私的一层。三个人的不知情保护了一个人，这道算式读者能算出来，角色却不敢算。
+**为什么这样写**：上一章还堵在喉头的石头，在这里长到肚子上；作者把羞耻与恐惧做成有位置、有体积、会移动的实体，而部位的位移本身就是情节推进。更狠的是那句"这个秘密给了他一副情绪装甲"：本该由夫妻共担的坏消息被他明确写成**我的**盔甲，于是"同意等三个月"这件看似体贴的事底下露出自私的一层。两个女儿的不知情保护了一个人，这道算式读者能算出来，角色却不敢算。
 
 **读者视角提示**：本章后半 Tasha 会亲手戳破同一副盔甲——她独自盘算的正是不把真实想法告诉他；先记住石头与盔甲都长在 Johnny 身上，而后半章的关键词是撒谎，两套防御会在 Bear Creek Lodge 撞在一起。
 
@@ -87,7 +87,7 @@ POV: "Johnny Washington 与 Tasha Morrison Washington（PRESENT DAY，洛杉矶 
 
 **为什么这样写**：作者给 Tasha 的入场句，和本章开头 Johnny 的入场句是同一个句式模具——"直到站定，才知道自己的状态"，两条线因此在结构上对称。接着整条街成了她情绪的显影液：别人家的节日装饰用 trussed（捆住、扎紧）这个近乎绑缚的动词，草坪上的充气饰品用 sprouted（自己长出来），而她被排除在这种自动生长之外。末句停在还没点燃的三色蜡烛上：物件齐备、仪式缺席，正是她此刻的处境。
 
-**读者视角提示**：视角从这里换绑到 Tasha，本章后半的全部信息只经她一人；注意她看的是"别人家的节日"，紧接着下一章轮到女儿们在五金店里谈论圣诞节——同一件事被三层视角轮流检查：这个家还要不要照常过下去。
+**读者视角提示**：视角从这里换绑到 Tasha，本章后半的全部信息只经她一人；注意她看的是"别人家的节日"，而本章后文已经先给过女儿们的版本——她们吵着要滑雪服，Sharise 开车带 Imani 去了运动用品店——同一件事被三层视角轮流检查：这个家还要不要照常过下去。
 
 ---
 

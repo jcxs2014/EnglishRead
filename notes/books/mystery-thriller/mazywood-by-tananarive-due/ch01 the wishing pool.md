@@ -21,7 +21,7 @@ POV: "Mazelle Washington（1926 年，七岁，第三人称限知）"
 
 > **原句 1:** She didn’t mind bug bites, or mysterious rustling in the brush, or twigs scratching her face and snagging her hair because the woods were so magical compared to the sameness of the cities her family had toured during her seven years of life. Rustling revealed deer, squirrels, raccoons, rabbits, possums, and animals she didn’t yet know; quick flashes of brown, gray, and black. An entire world was hidden beneath the surface of the everyday one.
 
-**中文理解**：她不怕蚊虫咬，不怕灌木丛里可疑的窸窣声，也不怕树枝刮脸挂头发——因为和她七生里跟着家人巡演走过的那些城市相比，这片林子太有魔力了。窸窣声底下露出的是鹿、松鼠、浣熊、兔子、负鼠，还有她叫不出名字的动物，一闪而过的棕、灰、黑。日常世界的表面之下藏着一整个世界。
+**中文理解**：她不怕蚊虫咬，不怕灌木丛里可疑的窸窣声，也不怕树枝刮脸挂头发——因为和她七年人生里跟着家人巡演走过的那些城市相比，这片林子太有魔力了。窸窣声底下露出的是鹿、松鼠、浣熊、兔子、负鼠，还有她叫不出名字的动物，一闪而过的棕、灰、黑。日常世界的表面之下藏着一整个世界。
 
 **关键词**：rustling、snagging、sameness、revealed、everyday
 
@@ -51,7 +51,7 @@ POV: "Mazelle Washington（1926 年，七岁，第三人称限知）"
 
 **为什么这样写**：三个 Whoever 从句并列堆叠，从"陪我玩"到"爱我"到"护我"，一句比一句更靠近恐惧，最后一句被她自己咽下去——愿望的清单因此不是齐备的，与刚立下的"一点不能漏"规则正好差了一处。作者让"漏掉的"由叙述者点明却仍不出自角色之口，读者比人物多知道一件事，后面 Scout 的每一次保护都因此带上补偿意味。
 
-**读者视角提示**：terrible older sisters 在这里只是孩子的气话，下一段才交代双胞胎姐姐、十岁的年龄差和"accident"这个称呼；读到那里会明白她求的到底是什么。
+**读者视角提示**：terrible older sisters 在这里只是孩子的气话，本章后半才交代双胞胎姐姐、十岁的年龄差和"accident"这个称呼；读到那里会明白她求的到底是什么。
 
 ---
 
@@ -109,7 +109,7 @@ POV: "Mazelle Washington（1926 年，七岁，第三人称限知）"
 
 **关键词**：the next two hours、long past dark、did just that
 
-**为什么这样写**：全章收束在一个回指上——did just that 拒绝重述内容，只把 Daddy 那句要求再来一个的口令接过来执行，等于让父亲的命令成为孩子的绿灯。时间副词直到 long past dark 才落地，而本章开头她正因为"太黑了"放弃过两次进林；同一片黑暗在结尾从阻碍变成奖赏，角色的处境已经换了一个方向。
+**为什么这样写**：全章收束在一个回指上——did just that 拒绝重述内容，只把 Daddy 那句要求再来一个的口令接过来执行，等于让父亲的命令成为孩子的绿灯。时间副词直到 long past dark 才落地，而本章开头她两次寻池未成，一次是因为该去做家务、一次是因为天要黑了；同一片黑暗在结尾从阻碍变成奖赏，角色的处境已经换了一个方向。
 
 **读者视角提示**：章末停在"她做到了"而非"愿望兑现"，这是作者分章的节奏习惯——每章都收在一个看似圆满的动作上，代价留到下一章付。
 

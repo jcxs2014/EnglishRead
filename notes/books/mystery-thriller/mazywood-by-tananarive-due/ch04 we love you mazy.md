@@ -11,7 +11,7 @@ POV: "Mazelle Washington（承 1928 年后的洛杉矶，第三人称限知；�
 - **时空坐标**：本章无日期抬头，抬头是粉丝的一句大写喊话 WE LOVE YOU, MAZY!；场景自家门口（街边那辆片厂派来的黑色 limousine）移到 Lorenzo Studios 的泥地摄影棚与 Mr. Lorenzo 的办公室，是签约之后一个普通的周一
 - **叙事视角**：第三人称限知，紧贴 Mazelle；叙述者两次跳出（Later, she would find out… / 一句 Everyone knew except her.），先替读者补上她被瞒住的事实
 - **核心事件**：Mazelle 在门口被等她的孩子与记者围住，带着 Scout 到片厂参加每周一的 Cracker Jack 奖品比试；随后被叫进 Mr. Lorenzo 的办公室开会，Charlie Chaplin 当众夸她的喜剧天赋、临走提醒这行对孩子很险；Lorenzo 宣布 Li’l Gumshoes 转有声片，由 Millie Sharpe 替 Mazy 改造口音，Mazelle 被迫听一段杂耍戏腔的示范；她讨要更好的裙子，会议在母亲止不住的咳嗽里散场，夫妻俩带她去看医生
-- **关键人物**：Mazelle／Little Mazy、Scout、Mother（她的经理，咳嗽加重）、Daddy（背伤已丢工）、Mr. Lorenzo（片厂主，怕 Hal Roach 把她抢走）、Buddy Sharpe（挂名导演）与 Millie Sharpe（能说口技、将做她的方言教练）、同剧组孩子 Jake「Professor」、Stan「Puddin’」、Davie「Bubbles」、Amelia「Sweetheart」、Danny Wu「Chong」及其母 Mrs. Wu（演 Ming Ming the Laundry Lady）、家庭教师 Mrs. Hillbrandt、司机 Lenny、秘书 Pearl、Charlie Chaplin、被提及者：Richard Norman（那封装框电报的落款 —RN）、Hal Roach 与 Our Gang、Al Jolson 与 The Jazz Singer、Lafayette Players
+- **关键人物**：Mazelle／Little Mazy、Scout、Mother（她的经理，咳嗽加重）、Daddy（背伤已丢工）、Mr. Lorenzo（片厂主，怕 Hal Roach 把她抢走）、Buddy Sharpe（挂名导演）与 Millie Sharpe（能说口技、将做她的方言教练）、同剧组孩子 Jake「Professor」、Stan「Puddin’」、Davie「Bubbles」、Amelia「Sweetheart」、Danny Wu「Chong」及其母 Mrs. Wu（演 Ming Ming the Laundry Lady）、家庭教师 Mrs. Hillbrandt、司机 Lenny、秘书 Pearl、Charlie Chaplin、被提及者：Richard Norman（那封装框电报的落款 —RN）、Hal Roach 与 Our Gang、Al Jolson 与 The Jazz Singer
 - **章节主题**：赏识与改写同时发生——她被夸，然后她的名字、口音、裙子和「真实的声音」一件件被从她身上取走
 - **上章回顾**：ch03 收在琴凳边——Aunt Ruby 用发刷打她的前臂，Dottie 在楼梯口安慰她，而她已经知道自己那些愿望不会成真：Mazelle 唯一的魔法就是 Scout
 
@@ -27,7 +27,7 @@ POV: "Mazelle Washington（承 1928 年后的洛杉矶，第三人称限知；�
 
 **为什么这样写**：作者用空间的溢出写名声：人群不是「很多」，而是 spilling past 院子和树，跨过篱笆——连镜头都站在 fence 之外，说明这一家的生活已经被看成公共财产。两句里的种族分布是全章的说明书：等着她的是有色孩子，拿着相机的两个白人却站在篱笆外，红脸颊与 silly grins 把「观看的权力」画了出来。这一章接下来发生的所有事，都发生在一个被看着的孩子身上。
 
-**读者视角提示**：Brownie 相机与门口等车这两个细节，与 ch05 片场外那群「比上周更多」的家长形成同一套成名日常；本章抬头本身没有日期，是粉丝的一句话。
+**读者视角提示**：Brownie 相机与门口等车这两个细节，与 ch05 那群候在布景外的家长（the cast and the mothers as they huddled near him outside of the set）形成同一套成名日常；本章抬头本身没有日期，是粉丝的一句话。
 
 ---
 
@@ -99,7 +99,7 @@ POV: "Mazelle Washington（承 1928 年后的洛杉矶，第三人称限知；�
 
 **为什么这样写**：全章的强制令被压缩成最短的几句，每句都在拿走一点东西：先否认真名，再造一个角色，最后把说话方式判给那个角色。作者故意不给任何论证、任何缓和，让 Daddy 的抗议撞上一句没有理由的话——这正是本章前文那句 The niceness in his voice thinned away 的具体形状：需要钱的时候，客气是真的；不想要你反驳的时候，一句话就够了。而紧接的一段的比喻由叙述者接手：Silence landed in the room like a giant boulder had rolled off the mountain，随后 Scout 贴住她的腿、呼吸变快——狗比她先做出反应。
 
-**读者视角提示**：本章收在 Mazelle barely heard Scout’s growl 一句上；这一夜之后，她的名字、口音、头发与裙子都已不再归她所有，这是 ch05 那句“我的真名是 Mazelle”的直接前因。
+**读者视角提示**：本章收在 Mazelle barely heard Scout’s growl 一句上；这一天之后，她的名字、口音、头发与裙子都已不再归她所有，这是 ch05 那句“我的真名是 Mazelle”的直接前因。
 
 ---
 
