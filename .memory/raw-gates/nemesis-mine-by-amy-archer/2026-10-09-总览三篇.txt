@@ -1,0 +1,43 @@
+=== 总览三篇门禁（2026-10-09）===
+
+--- verify_overview_quotes ---
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 25/25 ✅
+00_概述.md: 2/2 ✅
+00_金句精选.md: 22/22 ✅
+
+=== 总览引文 49/49 可核实（100%）；完全干净文件 3/3；已核覆盖 3/3 篇（无引语 0 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+--- check_overview_full ---
+=== 总览整串核查（nemesis-mine-by-amy-archer）===
+  参照集：text/ 逐章（21 章） ｜ 总览文件 3 个
+  A 整串：命中 27 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 10
+  B 章节标签：对 27 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 19 ｜ 不符 0（**只报不判红**）｜ 跳过 48
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+--- H1 语义校验 ---
+notes/books/novels/nemesis-mine-by-amy-archer/00_情感节点.md:# 《Nemesis Mine》情感节点
+notes/books/novels/nemesis-mine-by-amy-archer/00_概述.md:# 《Nemesis Mine》概述
+notes/books/novels/nemesis-mine-by-amy-archer/00_金句精选.md:# 《Nemesis Mine》金句精选
+
+--- corruption_scan ---
+=== 编辑损坏扫描（nemesis-mine-by-amy-archer）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_analysis_inline ---
+  ⚠️  ch12 chapter twelve.md:43  「A nobody」→ 实为 ch3
+  ⚠️  ch12 chapter twelve.md:43  「Defeat」→ 实为 ch2,4,5,8
+  ⚠️  ch13 chapter thirteen.md:95  「end point」→ 实为 ch11
+  ⚠️  ch19 chapter nineteen.md:73  「I choose us」→ 实为 ch15
+
+--- check_anchor ---
+  参照集：text/（21 个提取件）
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+--- verify_quotes 全书 ---
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 174/174 引文可核实（100%）；完全干净文件 22/22；正文章节 0 提取 0；总览 0 提取转交 1 ===
