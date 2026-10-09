@@ -80,6 +80,25 @@ Phoebe 主动进攻，用 Fred 教她的击剑动作缴械了 Will 的火枪—�
 
 ---
 
+> **原句 4：**
+> "'You … cur!' she yelled, deriving no small amount of satisfaction from the way the word rolled off her tongue."
+
+**中文理解**
+这是 Phoebe 对 highwayman 打出那一拳之后说出的台词。"cur"（恶狗/卑鄙小人）是英国下层社会的俗语，与 Phoebe 平时使用的"old goat"/"Corinthian"同属粗口谱系。叙述者说明"deriving no small amount of satisfaction"（感到非常满意），这是 Phoebe 自我意识的流露——她意识到自己正处于"英雄小说"的经典时刻：女英雄痛斥反派。
+
+**句子结构**
+直接引语 + 叙述者插入语（deriving no small amount of satisfaction…）+ 因果连接（because…），后接动名词结构（"Little wonder Fred used it so often"）作补充说明。
+
+**关键词**
+- **cur** — 恶狗，Fred 常用的骂人话，Phoebe 在危急时刻本能地借用了兄弟的语言。
+- **rolled off her tongue** — "脱口而出"，说明这个字眼 Phoebe 早已熟悉，只是在等待一个合适的场合使用。
+- **Little wonder** — "难怪"，后接解释，Phoebe 用此为她的暴力行为寻找文化合理性。
+
+**为什么这样写**
+这是 Phoebe 第一次对男性使用身体暴力（对 highwayman），目的是保护他人而非保护自己。"cur"是女性愤怒的爆发，而非被动接受——这与第一章她"只能眼睁睁看着"的无力感形成对照，证明出逃已经开始改变她的主体性。
+
+---
+
 > **原句 5：**
 > "Phoebe watched his departure with an odd mix of relief and disappointment. She'd been bested by the worst highwayman in Taunton, in front of a home crowd, while her hair had seen fit to become irretrievably embroiled with a tree root."
 

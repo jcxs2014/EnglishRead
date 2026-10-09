@@ -34,25 +34,17 @@
 
 ---
 
-③ **fractious** — 脾气暴躁的；难对付的
+③ **indiscreet** — 轻率的；不谨慎的
 
-> 'She'd never felt so fractious.'
+> 'But be careful, you wouldn't want Aunt to think you were being indiscreet or encouraging his attentions without an understanding.'
 
-**中文理解**：她从未感到如此脾气暴躁。
+**中文理解**："但你要小心，你不想让姑妈觉得你轻率地鼓励他的殷勤，却又不具备任何默契关系吧。"
 
-**句子结构**：She'd never felt = 她从未感到（过去完成时表示"到那时为止的最极点"）；so fractious = 如此难对付（自我描述）。
+**句子结构**：you wouldn't want + 宾语 + to 动词 = "你不想让某人做某事"；or 连接两个并列的假设情况（indiscreet / encouraging his attentions）。
 
-**关键词**：fractious /ˈfrækʃəs/ — 脾气暴躁的
+**关键词**：indiscreet /ˌɪndɪˈskriːt/ — 轻率的；不谨慎的
 
-**为什么这样写**：fractious 通常形容"难以伺候的婴儿或宠物"，Phoebe 用它形容自己，暗示她正处于"内在失控"的状态——婚礼将近，而她对 Viscount 的感情又无法安放。
-
----
-
-④ **devastating** — 毁灭性的；极具破坏力的
-
-> 'Devastating' 是 Phoebe 用来形容自己在舞会上造成的破坏——她打破窗户救了 Florence，但这个"英雄行为"在 Viscount 看来是"毁灭性的"。
-
-**中文理解**：毁灭性的；极具破坏力的
+**为什么这样写**：Sophie 用"indiscreet"警告 Phoebe——她与 Captain 的关系在 Regency 社会规范下若被误解为"encouraging attentions"而没有正式婚约，会损害名声。这是姐妹之间真实的关心，而非嫉妒。
 
 **句子结构**：Devastating 在 Regency 言情中既是字面意义（破坏），也是情感意义（令人心碎的）。
 

@@ -22,9 +22,9 @@ Bath Pump Room。Aurelia 带着即将嫁给 Viscount 的得意出现，暗示她
 
 ② **incorrigible** — 不可救药的
 
-> 'You really are an incorrigible flirt, Captain Elliot.' Sophie giggled.
+> 'You really are an incorrigible flatterer, Captain Elliot.' Sophie giggled.
 
-**中文理解**："你真是个不可救药的调情高手，Elliot 船长。"Sophie 咯咯笑道。
+**中文理解**："你真是个不可救药的阿谀奉承者，Elliot 船长。"Sophie 咯咯笑道。
 
 **句子结构**：incorrigible flirt = "不可救药的调情者"；这是 Sophie 对 Captain 的评价，但她的语气是"带着好感的调侃"，暗示她对 Captain 有好感，却不知道他的真实处境。
 

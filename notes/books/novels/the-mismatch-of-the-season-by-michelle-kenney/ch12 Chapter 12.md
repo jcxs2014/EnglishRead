@@ -124,7 +124,7 @@ Viscount 记住了 Chapter 11 中 Phoebe 的话（devil's brew 是 Matilda 想�
 
 ### 引语块 7
 
-> 'Lord, Alex! You sound like the vicar! I see no reason why a lady need not enjoy herself as much as any gentleman, providing it does not compromise her of course. Personally, I feel the fairer sex would be twice as responsible with half our freedom, were we just to relax our collar points a little. This is 1820, after all!'
+> "'Lord, Alex!' the captain chortled. 'You sound like the vicar! I see no reason why a lady need not enjoy herself as much as any gentleman, providing it does not compromise her of course. Personally, I feel the fairer sex would be twice as responsible with half our freedom, were we just to relax our collar points a little. This is 1820, after all!'"
 
 **中文理解**
 Captain 说：老哥，你听起来像个牧师！我认为女士完全可以像男士一样享乐，只要不损害她自己的名誉就行。实际上，如果给予女性一半我们现有的自由，她们会用双倍的责任感来回报。毕竟这是 1820 年了！

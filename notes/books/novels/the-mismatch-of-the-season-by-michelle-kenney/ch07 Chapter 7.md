@@ -50,25 +50,6 @@ Bath 之旅是 Phoebe 获得短暂自由后的第一个"真正外出"——她�
 
 ---
 
-> **原句 3：**
-> "'Surely, if we feel we need to live up to some male idea of heroism, or even that depicted between the covers of a novel, then we're probably missing the point altogether?'"
-
-**中文理解**
-这是 Josephine 从第 6 章继承的核心论点在本章的延续。她指出：若按男性的 heroism 标准来衡量自己，就永远无法定义自己的价值——这是对 Phoebe 前五章所有"action-based heroism"追求的哲学批评。Josephine 是四姐妹中最接近"文学评论家"角色的一个，她的存在让本书的元叙事层次得以保持活跃。
-
-**句子结构**
-双重条件句（if we feel… or even that depicted…），then 引导结论（we're missing the point altogether）。这是 Josephine 的微型论点三段论：前提（若我们按男性标准生活）→ 结论（那我们就错失了重点）。
-
-**关键词**
-- **live up to** — "不辜负/达到"，这个词暗示了一种被动性：你不是创造标准，而是试图达到外部设定的标准。
-- **male idea of heroism** — "男性定义的英雄主义"，这是 Josephine 对 Phoebe"seven seas heroism"的直接回应。
-- **missing the point altogether** — "完全错失重点"，Josephine 给出的判断——Phoebe 追求的 heroism 类型本身就是一种框架内的行为。
-
-**为什么这样写**
-Josephine 在第 6 章给了"respond vs act"的 heroism 定义，本章她又进一步指出"live up to male idea"本身就是陷阱。这两条批评加在一起，构成了对 Phoebe 前几章所有行为的系统性质疑：是她在主动定义冒险，还是她只是在用另一种方式接受男性设定的剧本？
-
----
-
 > **原句 4：**
 > "Phoebe's throat tightened as she stared out at the disappearing countryside, thinking of that brief moment in the viscount's library. It had been such an intimate act for a man who barely knew her, one who most definitely didn't respect her. And yet it had burned itself into her head, as though she'd never truly been alive before."
 
