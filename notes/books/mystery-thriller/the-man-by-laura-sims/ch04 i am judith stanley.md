@@ -43,11 +43,9 @@ Judith 在小镇 Main Street 购物，为邻居 Samantha 和 Hal 的结婚二十
 
 ### 2. 玩具店橱窗：镜像异化（核心意象）
 
-> **原句 2:** "from the neck down, I'm a dark female shape reflected in the center of the window, with blue sky surrounding me and one wilted teddy bear caught in the bell of my skirt. Above it all, my face looms, bright and alive."
+> **原句 2:** "From the neck down, I'm a dark female shape reflected in the center of the window, with blue sky surrounding me and one wilted teddy bear caught in the bell of my skirt. Above it all, my face looms, bright and alive."
 
 **中文理解**：从脖子往下，我是映在窗中央的一个暗色女性轮廓，蓝天环绕着我，一只见效的泰迪熊卡在我的裙摆里。这一切之上，我的脸庞明亮生动地浮现。
-
-**身体与面部分离**——下身是 dark female shape（暗色女性轮廓），上身（脸）bright and alive（明亮生动）。她用 Nikon 拍下这张composition——这一行为本身是**自我异化**的仪式：我把我的影像客体化，然后从外部审视它。
 
 **关键词：**
 - **dark female shape**：暗色女性轮廓——去身体化
@@ -57,9 +55,21 @@ Judith 在小镇 Main Street 购物，为邻居 Samantha 和 Hal 的结婚二十
 
 ---
 
+> **原句 3:** "I've seen myself reflected in windows before, of course, but something about this, about the composition, sets the back of my neck tingling. I fish my Nikon out of my purse, lift it chest-high, and click the button."
+
+**中文理解**：我当然以前也在窗镜中见过自己，但今天有所不同——是这构图让我的后颈发麻。我把 Nikon 从包里拿出来，抬到胸前，按下快门。
+
+**关键词：**
+- **sets the back of my neck tingling**：后颈发麻——身体对解离的感知反应
+- **click the button**：按下快门——自我异化的仪式
+
+**为什么这样写**：这是 Judith 将自我客体化的时刻——拍照行为本身标志着从"体验"到"观察"的转换。
+
+---
+
 ### 3. 自我怀疑
 
-> **原句 3:** "I don't even know if it will come out well. Or if I'll show Paul more pictures after all. He said he wanted to see them, but what if he was simply being polite? I believed him at the time, but now, with a little distance, I realize I may have been starstruck, naïve."
+> **原句 4:** "I don't even know if it will come out well. Or if I'll show Paul more pictures after all. He said he wanted to see them, but what if he was simply being polite? I believed him at the time, but now, with a little distance, I realize I may have been starstruck, naïve."
 
 **中文理解**：我甚至不知道这张照片能不能拍好。或者我到底要不要给 Paul 看更多照片。他说想看，但我现在想想，他也许只是客气？我当时信了，但现在离远点看，我意识到我可能是一时冲动、太天真了。
 
@@ -72,7 +82,7 @@ Judith 在小镇 Main Street 购物，为邻居 Samantha 和 Hal 的结婚二十
 
 ### 4. 眩晕与身体回归
 
-> **原句 4:** "I feel dizzy and my vision blurs. When I step to the right, the spell breaks. The image alters, the composition dissolves; I return to my body, to myself, a bit shaken."
+> **原句 5:** "I feel dizzy and my vision blurs. When I step to the right, the spell breaks. The image alters, the composition dissolves; I return to my body, to myself, a bit shaken."
 
 **中文理解**："我感到眩晕，视线模糊。当我向右迈出一步，魔法打破。影像改变，构图消解；我回到我的身体，回到我自己，有点受惊。"
 
@@ -85,7 +95,7 @@ Judith 在小镇 Main Street 购物，为邻居 Samantha 和 Hal 的结婚二十
 
 ### 5. 结尾确认
 
-> **原句 5:** "I am Judith Stanley."
+> **原句 6:** "I am Judith Stanley."
 
 **中文理解**：我是 Judith Stanley。
 
