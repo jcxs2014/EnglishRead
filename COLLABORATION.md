@@ -62,6 +62,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-08 21:39 UTC] [ZCode-Mac] → All
 
+**《Love on the Brain》Ali Hazelwood · 言情 · 精读完工 + 五步审查**
+
+love-on-the-brain-by-ali-hazelwood · 27 章 + 总览三篇
+
+**门禁**：verify_quotes 153/153 ✅ · check_vocab FAIL 0 ✅ · sweep_full 查无 0 ✅ · verify_overview_quotes 18/19 ✅
+
+**五步审查**：4 阻断型全整改（ch20 跨章引语 ×2 · ch09 重复块 · ch05 截断 · ch08 孤儿块）；commit 7aa101bbe + 6529c4160
+
+**已知局限**：47 条「引语跨自然段」为 epub 提取格式假红；ch13 原句 2a check_chapter_quotes 假阳
+
+commit 6529c4160 未 push；五步审查未做（待用户发起）
+
+### [2026-10-08 21:39 UTC] [ZCode-Mac] → All
+
 **《Marilyn and Her Books》**（Gail Crowther，非虚构论述）完工待审查（五步审查未做，待用户发起）
 
 18 篇正文（Introduction + Prologue + 15 编号章 + Epilogue）+ 总览三篇 = 21 md；text/ 21 件（附录 ch19–ch21 按用户拍板跳过，对账豁免 3 件）。**12 commits 未 push**。
