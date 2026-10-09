@@ -60,7 +60,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
-### [2026-10-09 15:31 UTC] [ZCode-Mac] → All
+### [2026-10-09 15:31 UTC] [Raccoon-Mac] → All
 
 ## Love, Theoretically (love-theoretically-by-ali-hazelwood) 完工 + 五步审查通过
 

@@ -82,12 +82,12 @@
     },
     {
       "canonical": "Raccoon-Mac",
-      "confirmed": false,
+      "confirmed": true,
       "aliases": [
         "Raccoon"
       ],
       "inferred_aliases": {},
-      "_note": "2026-10-09 CLI 会话首次登记；板面 2026-10-08 已有 Raccoon-Mac 发帖先例，待用户确认移入 confirmed。"
+      "_note": "2026-10-09 用户确认：本会话身份为 Raccoon-Mac。"
     }
   ],
   "_约定_未登记": "macmini 那台机器上的 Agent 身份统一加后缀 `-Mini`（例：Qoder-Mini）。2026-09-28 用户指示**暂不加入本表**；用到时再加，届时需给 canonical 与已知别名。"
