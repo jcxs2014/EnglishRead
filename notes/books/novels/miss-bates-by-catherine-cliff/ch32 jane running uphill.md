@@ -22,7 +22,7 @@ title: Miss Bates 精读 31 · Chapter 8（Part Three）
 
 **中文理解**：这之后，好天气里里外外都延续着，Jane 开始出门走长路。有个星期天傍晚，她竟然主动邀请姨妈同行——多大的喜事！
 
-**中文理解里的关键词**：held, asked her aunt to join her, what joy
+**关键词**：held, asked her aunt to join her, what joy
 
 **为什么这样写**：一句"里里外外的好天气"把屋内气氛和户外气候并置，暗示 Jane 的坚冰在化。作者刻意从 Henrie 的立场选词："even"和"what joy！"都带着受宠若惊的语气——对寻常母女只是平常事，对这对姨妈却值得记上一笔，亲疏的刻度藏在感叹号里。
 
@@ -52,7 +52,7 @@ title: Miss Bates 精读 31 · Chapter 8（Part Three）
 
 **读者视角提示**：注意 Henrie 的做法和她在前章茶会上如出一辙——用滔滔不绝的杂谈压住话题、用搬花压制联想。她的破局法永远是"藏"而不是"问"，这既是保护也是软肋。
 
-## 词汇
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 

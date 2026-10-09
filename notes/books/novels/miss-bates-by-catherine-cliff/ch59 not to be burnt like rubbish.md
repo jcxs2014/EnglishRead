@@ -64,7 +64,7 @@ title: Miss Bates 精读 58 · Chapter 9（Part Five）
 
 **读者视角提示**："Another underground body for Henrie to think about" 提醒读者她一生埋下过多少人和秘密——溺亡的弟弟、Jane、母亲，如今又添一个无名女婴。这一把铁锹，是她对"没人照料的生命"唯一能给出的回答。
 
-## 词汇
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 

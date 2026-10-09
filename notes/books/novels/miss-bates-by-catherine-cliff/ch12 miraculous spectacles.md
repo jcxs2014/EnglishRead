@@ -64,11 +64,11 @@ title: Miss Bates 精读 11 · Chapter 10（Part One）
 
 **关键词**：considerable, undertaken, busied himself
 
-**为什么这样写**：律师的话是全章信息量最大、也最冷的一句——作者把它放在母亲亮出最后希望之后，让"sad silence that told the story before Mr. Cole did"先于语言到达；"busy himself with reshuffling papers"的小动作写出专业人士对他人灾难的职业性回避。
+**为什么这样写**：律师的话是全章信息量最大、也最冷的一句——作者把它放在母亲亮出最后希望之后，让"sad silence that told the story before Mr. Cole did"先于语言到达；"busy himself with reshuffling his papers"的小动作写出专业人士对他人灾难的职业性回避。
 
 **读者视角提示**：注意 Mrs. Fairfax 这个称呼——出嫁后的 Jeannette 在账本里只是"一笔嫁妆"；Henrie 想让她回家，而债主们用另一种方式把她计算在家之外。
 
-## 词汇
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 

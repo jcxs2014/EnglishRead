@@ -52,7 +52,7 @@ title: Miss Bates 精读 53 · Chapter 4（Part Five）
 
 **读者视角提示**：读过《爱玛》的读者会记得 Box Hill 那一幕是 Emma 羞辱了 Henrie；这里 Henrie 的"恶意"是她这一生少有的不体面情绪，也正是她开始"重新做回一个有脾气的人"的证据。
 
-## 词汇
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 

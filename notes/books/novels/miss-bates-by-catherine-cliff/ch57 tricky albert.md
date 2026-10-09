@@ -64,7 +64,7 @@ title: Miss Bates 精读 56 · Chapter 7（Part Five）
 
 **读者视角提示**：记住这对"鸡语搭档"和 Albert 那道小豁口——下一章他回到 Hartfield，Henrie 将以旁观者的身份重新见到他，那时你才知道这几个月的相处意味着什么。
 
-## 词汇
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 

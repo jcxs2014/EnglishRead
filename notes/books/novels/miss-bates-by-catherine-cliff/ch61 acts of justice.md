@@ -64,7 +64,7 @@ title: Miss Bates 精读 60 · Chapter 11（Part Five）
 
 **读者视角提示**：对照原句 2 的"hoping a grown-up would notice you"——童年里没人看见的 Henrie，在想象中终于站到了所有人视线的中心。这是全书到目前为止对她内心最深的一次披露，值得记住"被看见"这个母题。
 
-## 词汇
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 

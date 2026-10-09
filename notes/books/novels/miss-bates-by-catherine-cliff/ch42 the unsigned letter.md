@@ -64,7 +64,7 @@ title: Miss Bates 精读 41 · Chapter 3（Part Four）
 
 **读者视角提示**：章末 Jane 把账算到 Emma 头上，与 Henrie 心里"总有一天那姑娘会知道害怕"的念头形成暗合——母女对 Emma 的怨恨在此罕见地同向。下一章 Emma 恰好登门，Henrie 将独自替女儿挡驾。
 
-## 词汇
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 

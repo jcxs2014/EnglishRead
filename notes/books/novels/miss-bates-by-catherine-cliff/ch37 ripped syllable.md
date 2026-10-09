@@ -64,7 +64,7 @@ title: Miss Bates 精读 36 · Chapter 13（Part Three）
 
 **读者视角提示**："old maid" 是全句的钉子：Henrie 一生未婚，Jane 即将独身做家庭教师——这个侮辱同时落在两个人身上，只是 Henrie 此刻未必听得出来。
 
-## 词汇
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 

@@ -64,7 +64,7 @@ title: Miss Bates 精读 50 · Chapter 1（Part Five）
 
 **读者视角提示**：记住"mask"一词——Henrie 对外的絮叨与体面至此全部卸下，Part Five 后续章节里她如何重新戴上这张面具、又如何带着对 Emma 的恨活下去，是往下读的全部悬念。
 
-## 词汇
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 

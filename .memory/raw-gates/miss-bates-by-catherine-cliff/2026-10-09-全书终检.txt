@@ -1,0 +1,141 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 256/256 引文可核实（100%）；完全干净文件 64/64；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 687
+--- FAIL (0) ---
+--- WARN (15) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  ❌ FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 244 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch02 prologue june 1812.md                     ch02 prologue june 1812.md: 4/4 in ch02 text
+ch03 the guillotine and george.md              ch03 the guillotine and george.md: 4/4 in ch03 text
+ch04 what is a witch.md                        ch04 what is a witch.md: 4/4 in ch04 text
+ch05 bounty baskets.md                         ch05 bounty baskets.md: 4/4 in ch05 text
+ch06 pardon me.md                              ch06 pardon me.md: 4/4 in ch06 text
+ch07 attract the least attention.md            ch07 attract the least attention.md: 4/4 in ch07 text
+ch08 mending at the vicarage.md                ch08 mending at the vicarage.md: 4/4 in ch08 text
+ch09 jeannettes green curricle.md              ch09 jeannettes green curricle.md: 4/4 in ch09 text
+ch10 the cap.md                                ch10 the cap.md: 3/3 in ch10 text
+ch11 jeannette meets her lieutenant.md         ch11 jeannette meets her lieutenant.md: 4/4 in ch11 text
+ch12 miraculous spectacles.md                  ch12 miraculous spectacles.md: 4/4 in ch12 text
+ch13 without her spectacles.md                 ch13 without her spectacles.md: 4/4 in ch13 text
+ch14 the cannonball.md                         ch14 the cannonball.md: 4/4 in ch14 text
+ch15 no room for defiant suffering.md          ch15 no room for defiant suffering.md: 4/4 in ch15 text
+ch16 back in her mind.md                       ch16 back in her mind.md: 4/4 in ch16 text
+ch17 in the churchyard.md                      ch17 in the churchyard.md: 4/4 in ch17 text
+ch18 when hospitality arrived.md               ch18 when hospitality arrived.md: 4/4 in ch18 text
+ch19 best for jane.md                          ch19 best for jane.md: 4/4 in ch19 text
+ch20 village living overstated.md              ch20 village living overstated.md: 3/3 in ch20 text
+ch21 spin and letters.md                       ch21 spin and letters.md: 4/4 in ch21 text
+ch22 a professional in gray.md                 ch22 a professional in gray.md: 3/3 in ch22 text
+ch23 jane writes letters.md                    ch23 jane writes letters.md: 4/4 in ch23 text
+ch24 the letter for you.md                     ch24 the letter for you.md: 4/4 in ch24 text
+ch25 moved the furniture.md                    ch25 moved the furniture.md: 4/4 in ch25 text
+ch26 the notebook.md                           ch26 the notebook.md: 4/4 in ch26 text
+ch27 beast of hartfield.md                     ch27 beast of hartfield.md: 3/3 in ch27 text
+ch28 dinner with the woodhouses.md             ch28 dinner with the woodhouses.md: 4/4 in ch28 text
+ch29 tops of heads.md                          ch29 tops of heads.md: 4/4 in ch29 text
+ch30 the impertinence.md                       ch30 the impertinence.md: 4/4 in ch30 text
+ch31 swept out of her own story.md             ch31 swept out of her own story.md: 4/4 in ch31 text
+ch32 jane running uphill.md                    ch32 jane running uphill.md: 3/3 in ch32 text
+ch33 ritardando.md                             ch33 ritardando.md: 4/4 in ch33 text
+ch34 a lifetime of practice.md                 ch34 a lifetime of practice.md: 4/4 in ch34 text
+ch35 dematerialized again.md                   ch35 dematerialized again.md: 4/4 in ch35 text
+ch36 unrelenting.md                            ch36 unrelenting.md: 4/4 in ch36 text
+ch37 ripped syllable.md                        ch37 ripped syllable.md: 4/4 in ch37 text
+ch38 allowing jane to go.md                    ch38 allowing jane to go.md: 4/4 in ch38 text
+ch39 wooden overshoes.md                       ch39 wooden overshoes.md: 4/4 in ch39 text
+ch40 official loss of hope.md                  ch40 official loss of hope.md: 4/4 in ch40 text
+ch41 there lies the difficulty.md              ch41 there lies the difficulty.md: 4/4 in ch41 text
+ch42 the unsigned letter.md                    ch42 the unsigned letter.md: 4/4 in ch42 text
+ch43 the beast arrives.md                      ch43 the beast arrives.md: 3/3 in ch43 text
+ch44 mrs churchills death.md                   ch44 mrs churchills death.md: 4/4 in ch44 text
+ch45 letter to the colonel.md                  ch45 letter to the colonel.md: 4/4 in ch45 text
+ch46 eleven days after.md                      ch46 eleven days after.md: 4/4 in ch46 text
+ch47 borrowing trouble.md                      ch47 borrowing trouble.md: 4/4 in ch47 text
+ch48 mustard poultices.md                      ch48 mustard poultices.md: 4/4 in ch48 text
+ch49 decant her longevity.md                   ch49 decant her longevity.md: 4/4 in ch49 text
+ch50 room for anger.md                         ch50 room for anger.md: 4/4 in ch50 text
+ch51 sitting by janes bed.md                   ch51 sitting by janes bed.md: 4/4 in ch51 text
+ch52 winter churchyard.md                      ch52 winter churchyard.md: 4/4 in ch52 text
+ch53 dorothea goddard.md                       ch53 dorothea goddard.md: 4/4 in ch53 text
+ch54 plumping a pillow.md                      ch54 plumping a pillow.md: 3/3 in ch54 text
+ch55 emmas discontent.md                       ch55 emmas discontent.md: 3/3 in ch55 text
+ch56 moments of alliance.md                    ch56 moments of alliance.md: 4/4 in ch56 text
+ch57 tricky albert.md                          ch57 tricky albert.md: 4/4 in ch57 text
+ch58 so happy to see you.md                    ch58 so happy to see you.md: 4/4 in ch58 text
+ch59 not to be burnt like rubbish.md           ch59 not to be burnt like rubbish.md: 4/4 in ch59 text
+ch60 women who lost their babies.md            ch60 women who lost their babies.md: 4/4 in ch60 text
+ch61 acts of justice.md                        ch61 acts of justice.md: 4/4 in ch61 text
+ch62 alberts only problem.md                   ch62 alberts only problem.md: 4/4 in ch62 text
+ch63 backgammon with mr woodhouse.md           ch63 backgammon with mr woodhouse.md: 4/4 in ch63 text
+ch64 epilogue augusta elton.md                 ch64 epilogue augusta elton.md: 4/4 in ch64 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：63 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（miss-bates-by-catherine-cliff）===
+  ✅ 逐字 1042 ｜ ⚠️ 跨章 4 ｜ 🔶 拼接 5 ｜ 🟠 部分命中 5 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 834
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 4
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 1 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 松散关键词明细 ──
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 12/12 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: ➖ 无引语行（正常，非门禁项）
+
+=== 总览引文 12/12 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（miss-bates-by-catherine-cliff）===
+  参照集：text/（63 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（miss-bates-by-catherine-cliff）===
+  带前缀的 `> **原句 N:**` 行：63 个文件共 244 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：63 个 md，阻断型 0 处 ／ 提示型 0 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══

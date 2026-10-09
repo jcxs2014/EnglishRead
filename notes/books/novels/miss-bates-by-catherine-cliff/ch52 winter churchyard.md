@@ -64,7 +64,7 @@ title: Miss Bates 精读 51 · Chapter 2（Part Five）
 
 **读者视角提示**：这是夸张的内心排演而非行动预告——作者用它标记 Henrie 的转折点：从 Prologue 里忍泪的角色，变成把恨当作支撑的人。后文"Claws out"（亮出爪子）接住这一段，读 Part Five 时请带着这份不安。
 
-## 词汇
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 

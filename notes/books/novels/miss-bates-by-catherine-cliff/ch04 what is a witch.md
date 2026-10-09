@@ -64,7 +64,7 @@ title: Miss Bates 精读 03 · Chapter 2（Part One）
 
 **读者视角提示**：注意"triumphant"收尾的轻盈与全章 Jenkins 讲述的绞刑、焚烧形成的落差——孩子用甜蜜的想象消化残酷的知识。
 
-## 词汇
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 
