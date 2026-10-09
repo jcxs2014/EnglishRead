@@ -1,0 +1,10 @@
+ch01 maria pip.md: 9/9 ✅（另有 8 条短引语未校验）
+ch02 maria mystery guest.md: 14/14 ✅（另有 10 条短引语未校验）
+ch03 maria her mom and dad.md: 10/10 ✅（另有 2 条短引语未校验）
+ch04 maria pip.md: 18/18 ✅（另有 1 条短引语未校验）
+ch05 maria mike.md: 14/14 ✅（另有 2 条短引语未校验）
+ch06 maria mystery guest.md: 20/20 ✅（另有 2 条短引语未校验）
+
+⚠️ 全书共 25 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 85/85 引文可核实（100%）；完全干净文件 6/6；正文章节 0 提取 0；总览 0 提取转交 0 ===
