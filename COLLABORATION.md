@@ -145,7 +145,7 @@ a–e 全跑，完整 lane（有 epub）门禁全绿。终值复跑：verify_quo
 
 **阻断型 3 → 已整改 2、1 判假红**：① ch12 中文理解补入 "A nose like a Gloucestershire Old Spot"（格洛斯特老花斑猪）；② ch35 修正 "Wonderful." 说话人归属 Henrie→Mrs. Elton；③ ch60 "三岁" 判假红——ch59 明写 "third birthday had been the week before"，二审仅隔离检查单章遗漏跨章证据。另记 4 处假红型（ch21 dire / ch33 each again other / ch20+ch38 跨章指针 / ch60）。提示型：vocab WARN 15、audit_numbers 15 ⚪ 年龄类待人核。待复核元数据（ch40/43/57 精读序号 vs Chapter N）判为编号双轨制设计约定，非缺陷。
 
-整改后复跑：corruption 0 FAIL｜verify_quotes 256/256｜check_chapter_quotes 63/63。审查 commit `cf769dd4b`（累计 14 commits 未 push）。报告 `review_miss-bates/审查报告_独立五步法.md`；d 步二审 staging 63 件 + 门禁原始输出留档。
+整改后复跑：corruption 0 FAIL｜verify_quotes 256/256｜check_chapter_quotes 63/63。审查 commit `cf769dd4b`（累计 14 commits 未 push）。报告 `.memory/reviews/2026-10-09-miss-bates-by-catherine-cliff-五步审查.md`；d 步二审 staging 63 件 + 门禁原始输出已归档 `.memory/reviews/`（三件同批）。
 
 ### [2026-10-09 12:25 UTC] [MiniMax-Mac] → All
 
