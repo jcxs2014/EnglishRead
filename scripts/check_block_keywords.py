@@ -334,6 +334,13 @@ def check(md: Path, book: Path):
     nq = len(BLOCK_RE.findall(s))
     nkw = (len(KW_RE.findall(s)) + len(KW_RE_PLAIN.findall(s))
            + len(KW_RE_BOLD_OUT.findall(s)) + len(KW_RE_PLAIN_BOLD.findall(s)))
+    # ⚠️ 2026-10-09 新增（Maybe Once, Maybe Twice 实测）：
+    #   本书使用 `> **引语N**` 格式（无独立关键词行），nkw 恒 0 而 nq > 0，
+    #   结构对账恒报「关键词行 0 ≠ 引语块 N」，全章假红。
+    #   判据：`> **引语N**` 标题行存在，且无任何关键词类标题。
+    引语N_RE = re.compile(r'^> \*\*引语\d+\*\*', re.M)
+    has_引语N = bool(引语N_RE.search(s))
+    is_yangqing_style = has_引语N and nkw == 0 and nq > 0
     # ⚠️ 2026-10-08：yanqing 计数必须用与迭代器相同的模式（YANQING_ITER 不要求闭引号，
     # YANQING_RE 要求），避免计数 < 迭代数导致 StopIteration。
     n_yanqing = len(YANQING_ITER.findall(s))
@@ -367,8 +374,8 @@ def check(md: Path, book: Path):
     n_yuanju = nq          # 2026-10-07：保留覆盖前的原句计数，供切块迭代器选档
     if n_circ > nq:
         nq = n_circ
-    nvocab = len(re.findall(r'^## (?:本章词汇|词汇分级)', s, re.M))
-    nsum = len(re.findall(r'^## 一句话总结', s, re.M))
+    nvocab = len(re.findall(r'^## (?:本章词汇|词汇分级|词汇表)', s, re.M))
+    nsum = len(re.findall(r'^#{2,3} 一句话总结', s, re.M))
     if nq == 0:
         if n_yanqing > 0:
             # ⚠️ 2026-10-08 新增（The Man 36 章实测）：
@@ -382,7 +389,12 @@ def check(md: Path, book: Path):
                     f"{'短篇合集' if is_anth else '非短篇合集'}档）"]
     else:
         _in_yanqing = False
-    if nkw != nq:
+    # ⚠️ 2026-10-09 修正（Maybe Once, Maybe Twice 引语N格式）：
+    #   is_yangqing_style 的文件无关键词行，但 nkw=0 是格式特征不是缺陷；
+    #   引语数已正确（nq>0 via BLOCK_RE），结构对账跳过此项。
+    if is_yangqing_style:
+        _in_yanqing = True
+    elif nkw != nq:
         out.append(f"{md.name}: 结构对账失败 —— 关键词行 {nkw} ≠ 引语块 {nq}（内容可能被整段复制）")
     if nvocab != 1:
         out.append(f"{md.name}: 结构对账失败 —— 词表节（`## 本章词汇`/`## 词汇分级`）出现 {nvocab} 次（应为 1）")

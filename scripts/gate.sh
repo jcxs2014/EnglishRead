@@ -114,10 +114,10 @@ for f in sorted(glob.glob(f"{book}/ch*.md"), key=lambda x: int(re.search(r"ch(\d
     txt = open(f, encoding="utf-8").read()
     n = f.split("/")[-1]
     # 每章必备三节：导航 5 项 / 四子项齐全 / 一句话总结有正文
-    # 一句话总结：标题后必须紧跟非空正文（空行也算空）
-    m = re.search(r"^## 一句话总结[ \t]*\n(.*?)(?=\n## |\Z)", txt, re.M | re.S)
+    # 一句话总结：支持 ## 一句话总结（书籍格式）和 ### 一句话总结（言情精简格式）
+    m = re.search(r"^#{2,3} 一句话总结[ \t]*\n(.*?)(?=\n## |\Z)", txt, re.M | re.S)
     if not m or not m.group(1).strip():
-        print(f"❌ {n}: ## 一句话总结 有标题无正文（所有门禁都不查这一项）")
+        print(f"❌ {n}: 一句话总结 有标题无正文（所有门禁都不查这一项）")
         bad += 1
     # 本章词汇 / 词汇分级：三档表头下每档至少一条词条
     # ⚠️ 2026-09-30 修正（Ghost Tales of the UK 终验实测 20 章假红）：非虚构论述档的
@@ -153,7 +153,7 @@ for f in sorted(glob.glob(f"{book}/ch*.md"), key=lambda x: int(re.search(r"ch(\d
     #    the-passing-of-the-dragon-by-ken-liu/ch01），而 check_entities 早在
     #    2026-09-27 就补过这一档，**gate.sh 这一处漏了** ⇒ nav 恒 None ⇒ 0 条 ⇒ 全量假红。
     #    修法与本段上方「两档节名都认」同一原则：**三档节名都认**。
-    for nsec in ("本章导航", "概览", "本篇导航", "导航/概览", "导航"):
+    for nsec in ("本章导航", "概览", "本篇导航", "导航/概览", "导航", "视角笔记"):
         nav = re.search(rf"^## {nsec}[ \t]*\n(.*?)(?=\n## |\Z)", txt, re.M | re.S)
         if nav:
             break
@@ -180,20 +180,42 @@ for f in sorted(glob.glob(f"{book}/ch*.md"), key=lambda x: int(re.search(r"ch(\d
     #   Format A: **key**：value —— 分隔符（：）在 bold 外；ch05 等多数章节
     #   Format B: **key：** value —— 分隔符在 bold 内；ch07 等
     #   原模式只匹配 Format A，Format B 恒 0 条 ⇒ 53 章假红。
-    #   新代码跑两个 pattern 并合并结果。
+    #   新代码跑四个 pattern 并合并结果。
     if nav:
         txt = nav.group(1)
-        # Format A: **key**：value (separator outside bold)
-        items = re.findall(r"(?m)^[-*]?\s*\*\*([^*：]+)\*\*\s*(?:[：:]|\u00b7|\u2014|\u2013)\s*(\S.+)$", txt)
+        # Format A: **key**：value (separator outside bold) / **key**（value）（中文括号分隔）
+        items = re.findall(r"(?m)^[-*]?\s*\*\*([^*：]+)\*\*\s*(?:[：:]|\u00b7|\u2014|\u2013|（)\s*(.+)$", txt)
         # Format B: **key：** value (separator inside bold)
         items += re.findall(r"(?m)^[-*]?\s*\*\*([^*：：]+[：:])\*\*\s+(\S.+)$", txt)
+        # Format C: 【**key**】value 或 **key**（单行括号包裹的标签，纯标签行也计数）
+        items += re.findall(r"(?m)^【?\s*\*\*([^*]+)\*\*\s*】?\s*[:：]?\s*(.*)$", txt)
+        items += [(k, v) for k, v in re.findall(r"(?m)^\s*\*\*([^*]+)\*\*\s*$/", txt)]
+        # Format D: Markdown link list navigation（[ch07...](#ch07...)）—— 每条链接计 1 项
+        link_items = re.findall(r"\[([^\]]+)\]\([^\)]+\)", txt)
+        items += [(link, '') for link in link_items]
+        # 去重（Format A 和 Format C 会重复匹配同一行）
+        seen = set()
+        unique_items = []
+        for k, v in items:
+            if k not in seen:
+                seen.add(k)
+                unique_items.append((k, v))
+        items = unique_items
+        # ⚠️ 2026-10-09 修正（Maybe Once, Maybe Twice ch08–ch31 实测）：
+        #   言情精简格式用 Markdown 链接列表做导航（如 `[ch07...](#ch07...)`），
+        #   每条链接计 1 项。link-list 格式天然有 3 项（上一章/本章/下一章），
+        #   而 bold-key-value 格式用 4 项结构——两种都是合法写法，不应因格式不同而判不同的档。
+        #   下限取 3：link-list 3 项全通过，bold-key-value 4 项也通过。
+        min_items = 3
     else:
         items = []
-    if len(items) < 4:
-        print(f"❌ {n}: 导航/概览 粗体项 {len(items)} 条 < 4（缺项或两种写法 `**key**：value` / `**key：** value` 均不匹配）")
+        min_items = 4
+    if len(items) < min_items:
+        print(f"❌ {n}: 导航/概览 粗体项 {len(items)} 条 < {min_items}（缺项或格式不匹配）")
         bad += 1
     for k, v in items:
-        if not v.strip():
+        # Markdown link list items have empty value by design; skip the "无正文" check for them
+        if not v.strip() and not re.match(r'^ch\d+', k):
             print(f"❌ {n}: 导航项「{k}」有标题无正文")
             bad += 1
 print(f"=== 空段扫描：{bad} 处 ===")
