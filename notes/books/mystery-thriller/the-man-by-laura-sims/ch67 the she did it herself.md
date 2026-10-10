@@ -155,7 +155,7 @@
 
 ### 精读块 9："那张屠夫店橱窗里的照片"
 
-> **原句 2:** I was struck by the picture in the butcher shop window." Paul nods, preparing himself to lecture on the striking photograph Harper's chose as the cover for their issue, but Schuyler continues. "It's odd, isn't it? To take a picture of yourself with all those hanging sides of beef, and then a few days later, you end up dead? It seems…" He searches for the word, looking at Paul. "Tragic?" Paul offers. "No. Purposeful," he says bluntly. "Meaningful."
+> **原句 9:** I was struck by the picture in the butcher shop window." Paul nods, preparing himself to lecture on the striking photograph Harper's chose as the cover for their issue, but Schuyler continues. "It's odd, isn't it? To take a picture of yourself with all those hanging sides of beef, and then a few days later, you end up dead? It seems…" He searches for the word, looking at Paul. "Tragic?" Paul offers. "No. Purposeful," he says bluntly. "Meaningful."
 
 **中文理解**："屠夫店橱窗里的那张照片让我印象深刻。"Paul 点头，准备讲一讲 Harper's 选作那一期封面的那张引人注目的照片，但 Schuyler 继续说道。"这很奇怪，不是吗？给自己拍一张照片，背景是那些挂着的牛肉片，然后几天后，你就死了？这似乎……"他找着词，看着 Paul。"悲剧？"Paul 提议。"不。有目的的，"他直言不讳地说。"有意义的。"
 
