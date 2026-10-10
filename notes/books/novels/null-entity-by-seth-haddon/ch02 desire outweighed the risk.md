@@ -54,7 +54,7 @@ modified: "2026-10-09"
 >
 > They couldn’t risk anyone else ending up like us.
 
-**中文理解**：你的视线移向广场上方旋转的 holorotator：二十四小时之内，一次强制更新会被推给这一区所有 VisorForge 面具。警告以紧急红色跳动——系统强制更新，擅动 VisorForge 软件属被禁止行为；随后跟上一句标语：面具不被维护，人也就被拆开。他们不敢再让任何其他人落得和我们一样的下场。
+**中文理解**：你的视线移向广场上方旋转的 holorotator：二十四小时之内，一次强制更新会被推给所有 VisorForge 面具（原文未限定范围）。警告以紧急红色跳动——系统强制更新，擅动 VisorForge 软件属被禁止行为；随后跟上一句标语：面具不被维护，人也就被拆开。他们不敢再让任何其他人落得和我们一样的下场。
 
 **关键词**：a forced update / within twenty-four hours / emergency red / Tampering / prohibited / A Mask Unkept is a Self Unraveled
 

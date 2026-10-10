@@ -7,7 +7,7 @@ modified: "2026-10-09"
 
 ## 本章导航
 
-- **一句话概括**：逃离 GTM-11 一小时后，在 Subsidiary Four 的血肉船上，“我”诊断出 Wylla 体内被植入一枚异体 daemon——它不但在监视，还在驾驶；章末 Four 自同船的低温舱里走出、举枪抬到“我们”头颅的高度，叙事随即揭底：daemon 一直在改写她的记忆，“逃走”从未发生。
+- **一句话概括**：逃离 GTM-11 还不到一小时，在 Subsidiary Four 的血肉船上，“我”诊断出 Wylla 体内被植入一枚异体 daemon——它不但在监视，还在驾驶；章末 Four 自同船的低温舱里走出、举枪抬到“我们”头颅的高度，叙事随即揭底：daemon 一直在改写她的记忆，“逃走”从未发生。
 - **情感弧线位置**：脱险后的应激章——前半场是创伤处理现场（一处痒、一条 boundary、一次拒绝扫描），中段由自主权被侵犯跌入愤怒，论坛骂战给了短暂有序的喘息，篇末再被抛回“从未逃出”的恐慌。情绪节拍与动作节拍在本章完全反相：每安抚一次，世界就更危险一层。
 - **人物弧线**：null entity 的身份代价在本章具体化——Wylla 自己说破：“Guess I’m not a null entity anymore.”；她从自伤（prodding your calf）走到被侵犯的暴怒（rage warring with shame）；“我”从克制（practicing restraint）越到代打（I’ll trap it. I’ll purge it.），并给出 Forget the Order／Forget VisorForge 的优先序，把爱明确排在复仇之上。
 - **叙事手法**：三种嵌入文档——体检报告体、全大写的分区新闻简报、论坛帖串——插进第一人称叙述；新闻块是公文腔短句，论坛块保留真实聊天室的小写、错拼与互骂，叙述声夹在两种“他者的记录”之间。本章的主题（局势由谁定义）因此在排版层面就开演。
@@ -30,7 +30,7 @@ modified: "2026-10-09"
 
 **关键词**：sufficed / exalted / stitched you whole / propagating
 
-**为什么这样写**：本章的政治层受伤写成一组三连同句法的 hated——认知失调的标准形态：救你的与砸你计划的是同一批人，两种情绪都真。stitched you whole 把治愈写成针线活，与上文皮肤 knitted shut、下文神经 knitting itself 共用一个工具房：这本书里“被治好”一律写成“被缝上”。末三问层层越界——从身体到永久性与繁殖，再问到 LYREBIRD 里——每一问都比上一问更无处可躲，而本章没有作答。
+**为什么这样写**：本章的政治层受伤写成一组三连同句法的 hated——认知失调的标准形态：救你的与砸你计划的是同一批人，两种情绪都真。stitched you whole 把治愈写成针线活，与上文皮肤 knitted shut、下文神经 knitting itself 共用一个工具房：这本书里“被治好”偏爱写成“被缝上”。末三问层层越界——从身体到永久性与繁殖，再问到 LYREBIRD 里——每一问都比上一问更无处可躲，而本章没有作答。
 
 **读者视角提示**：不必急着替 Edenic Order 定善恶；本段给了坐标——the movement you once exalted。幻灭只发生在供上过祭坛的对象身上，恨的强度是崇拜的存折。
 

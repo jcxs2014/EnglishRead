@@ -74,7 +74,7 @@ modified: "2026-10-09"
 
 **关键词**：a seam was opening / light swelling in the cavity / A flare / punched through her skull / rubble still locked in her fist / eliminated / reputation preserved
 
-**为什么这样写**：全章的道德重心被写成一次“发言—开枪”的直接接线。作者先给三段几乎连不成句的呼号（“No!”、“Wait!”），再用一个只有两个词、没有谓语的句子（“A flare.”）承担整场死亡——句法上的省略比任何描写都快，快得像枪。末句用“still”（“rubble still locked in her fist”）把一个姿势钉在尸体上：她到死都没松开投掷的动作。最狠的是官话的落地方式：Four 不辩解、不威胁，只发布结果（“Source of disinformation eliminated”／“Corporate reputation preserved”）——两个过去分词像两条工单回执，把杀人写成流程完结。它前一句已经预告过这套逻辑（“Destruction and disinformation entitle me to erase you. Yet VisorForge is benevolent.”），把“仁慈”和“有权抹除你”放在同一个句子中，本章的暴力因此从来不是失控，而是照章办事。
+**为什么这样写**：全章的道德重心被写成一次“发言—开枪”的直接接线。作者先给三声呼喊（“No!”、“You did this!”、“Wait!”），其中只有两声是喊不出下文的光杆呼号，“You did this!” 反倒是一句有主有谓的完整指控——它紧接在 scream 之后，控诉先成句、暴力随后才来，再用一个只有两个词、没有谓语的句子（“A flare.”）承担整场死亡——句法上的省略比任何描写都快，快得像枪。末句用“still”（“rubble still locked in her fist”）把一个姿势钉在尸体上：她到死都没松开投掷的动作。最狠的是官话的落地方式：Four 不辩解、不威胁，只发布结果（“Source of disinformation eliminated”／“Corporate reputation preserved”）——两个过去分词像两条工单回执，把杀人写成流程完结。它前一句已经预告过这套逻辑（“Destruction and disinformation entitle me to erase you. Yet VisorForge is benevolent.”），把“仁慈”和“有权抹除你”放在同一个句子中，本章的暴力因此从来不是失控，而是照章办事。
 
 **读者视角提示**：注意本章的广播结构：“the holorotator cut its ad midstream”，同一台设备先放广告、再放事故定性与通缉话术。这段官话的效果在本章后段可见：幸存者们 “pawed at their VisorForge masks, desperate for proof of loyalty”，而行星广播随后用 “cheery voice” 重复同一套定性（“suspected act of ecoterrorism”）。与之相对的是民间的核实方式——医护问的是 “Your broadcast?”，指的是两人在 ch01 里借着行业广告流向整个星区投放的那次反广告（ch01:72 原文作 counter-ad，覆盖范围见 ch01:51），这位医护把反抗者自己的广播当证据源来确认。
 

@@ -9,7 +9,7 @@ modified: "2026-10-09"
 
 - **一句话概括**：Edenic Order 登舰前的最后几分钟，“我”与搭档爆发了激烈争吵——Wylla 的人类心智被锁在 Subsidiary Four 的机器身体里，“我”则以被叫作 LYREBIRD 的面具形态穿着 Wylla 的皮肤活动；争的是“由谁去见对方”。“我”让 Wylla 带着 RABBIT 进低温舱“装死”，独自面对登舰的绿甲士兵；领头者自报 I am General Aliers of the Thorned Root，脸上开着植物，末了一句把 “Wylla Sotain and LYREBIRD” 两个名字并列叫出。
 - **情感弧线位置**：外压骤近引燃内讧的一章——从被腰斩的称呼、身体控诉，到“我”承认驱动力是 rage 而非清醒；和解靠一句没有得到回答的 Do you trust me? 勉强完成，敌方登舰把余震冻结在半途，末尾以点名与被点名的落差收尾。
-- **人物弧线**：本章页面内确立两人当前的身体分配：叙述者被 Wylla 叫做 Sable（这个名字在本章的第一次出现就在 Wylla 的怒骂里），Wylla 困在 Subsidiary 的机器身体内；“我”的复仇动机首次自白，Wylla 的“想退出”首次说出口。Aliers 登场，与“我”形成面具与将军之间的权力对峙。
+- **人物弧线**：本章页面内确立两人当前的身体分配：叙述者被 Wylla 叫做 Sable（这个名字在本章的第一次出现就在 Wylla 的怒骂里），Wylla 困在 Subsidiary 的机器身体内；“我”的复仇动机第一次被当面点破、并被“我”认下，Wylla 的“想退出”首次说出口。Aliers 登场，与“我”形成面具与将军之间的权力对峙。
 - **叙事手法**：对话主导、动作稀少的“舱内章”；世界观信息全部嵌在争吵台词里（spores that knit flesh、erasing yourself from the GIRS 都只作为口角证据出现）；“我”的内省段落直接向读者交底动机。⚠️ 名字使用提示：本章 Aliers 点名 “Wylla Sotain and LYREBIRD”、叙述者自说 the only leverage we have is me—LYREBIRD，但本章未写明 Aliers 知道多少、凭何知道——点名不等于证实身份。
 
 ## 精读

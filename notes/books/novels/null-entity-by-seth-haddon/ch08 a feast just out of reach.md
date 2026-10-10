@@ -7,7 +7,7 @@ modified: "2026-10-09"
 
 ## 本章导航
 
-- **一句话概括**：小船被拖进 Thorned Root 的巨型战舰，两人首次分离——“我”随 Aliers 去医务舱治伤，被 android 验不出身份的闹剧钉上 “a proper null entity in the GIRS” 的鉴定；Aliers 陈述了 VisorForge 之恨，又点破“你帮过的人都怎样了”，随后 Four 把处刑影像灌进 LYREBIRD 系统：Pell 被迫当众念稿翻供、随后被标注在押之后死亡，估价师 Vex 死于“住宅系统故障”，Spektral 被捏碎气管——帮过“我们”的人被 VisorForge 逐一清算。章末 Aliers 讲完 Monk Lorien 的处决录像、Federation 的最后通牒与杀死前任 General Surrett 的兵变，递来 bring VisorForge down for good 的邀约。
+- **一句话概括**：小船被拖进 Thorned Root 的巨型战舰，两人首次分离——“我”随 Aliers 去医务舱治伤，被 android 验不出身份的闹剧钉上 “a proper null entity in the GIRS” 的鉴定；Aliers 陈述了 VisorForge 之恨，又点破“你帮过的人都怎样了”，随后借 Four 这条线，把处刑影像灌进 LYREBIRD 系统的是 Wylla：Pell 被迫当众念稿翻供、随后被标注在押之后死亡，估价师 Vex 死于“住宅系统故障”，Spektral 被捏碎气管——帮过“我们”的人被 VisorForge 逐一清算。章末 Aliers 讲完 Monk Lorien 的处决录像、Federation 的最后通牒与杀死前任 General Surrett 的兵变，递来 bring VisorForge down for good 的邀约。
 - **情感弧线位置**：从入敌巢的敬畏到痛觉带来的短暂狂喜，再坠入死者账本的羞与骇；章末“我”对 Aliers 生出把嫉妒拧成发烧式敬畏的情感——恐惧与醉意同时到位。
 - **人物弧线**：“我”久违地拥有“属于自己的感觉”，并承认自己的复仇是 blood hunger；Wylla 的在场方式从争吵变为静默：她封住 RABBIT 的权限不给“我”看她的生命体征，用一段死者影像替自己说话，留下一句未被转述的拒绝。Aliers 的来历在本章大面积展开：战舰来路、Lorien 处决、内部兵变、招揽意图。
 - **叙事手法**：战舰内部空间被写成悬念布景（空机库、修剪过的植物、训练场、焊死的舱门），“我”据视觉证据推出“夺船苦撑”的结论；处刑影像由 GUI 全大写标签与冰冷公文措辞承载暴行；全章三层声音：对外对话、与 Wylla 的静默频道、以及 Wylla 偶尔插入的警告（Sable. Be careful.）。
