@@ -70,7 +70,7 @@ modified: "2026-10-10"
 
 **关键词：** get hurt · not worth it
 
-**为什么这样写：** Fara 家训："dead, too…almost hear her"（也死了＋幻听）是包装。而"good person…try to listen"（好人＋尽量听）是态度。度即"My father…good person, too…one of them…Council…never…questioned"（Ky：我爹也好＋体制内＋从不质疑）——"Most people don't"（Taj：大伙都不）——不即"never thought…Father was…Father…seeing all this again…making sense?…perspective…look up…bottom"（Ky：没想过＋爹是爹＋回来一看＋说不清＋视角＋倒灌 ch25，灌即"melting into velvet…try the bottle?…swings…sip…mouthful of flames…larger swallow"，融＋试＋递＋抿＋焰＋闷，闷即"final match tomorrow…decided…die/prison…list…interrupt"，决＋列＋断，断即"do it now…lose the chance…What?…talking about"，干＋问＋懵，懵即"fixes…eyes…flushed…cheek…lips…Do you want to—"，定＋脸＋唇＋问，问即敲门，门即——截！）。
+**为什么这样写：** Fara 家训："dead, too…almost hear her"（也死了＋幻听）是包装。而"good person…try to listen"（好人＋尽量听）是态度。度即"My father…good person, too…one of them…Council…never…questioned"（Ky：我爹也好＋体制内＋从不质疑）——"Most people don't"（Taj：大伙都不）——不即"never thought…Father was…Father…seeing all this again…making sense?…perspective…look up…bottom"（Ky：没想过＋爹是爹＋回来一看＋说不清＋视角＋倒灌旧话，灌即"melting into velvet…try the bottle?…swings…sip…mouthful of flames…larger swallow"，融＋试＋递＋抿＋焰＋闷，闷即"final match tomorrow…decided…die/prison…list…interrupt"，决＋列＋断，断即"do it now…lose the chance…What?…talking about"，干＋问＋懵，懵即"fixes…eyes…flushed…cheek…lips…Do you want to—"，定＋脸＋唇＋问，问即敲门，门即——截！）。
 
 **读者视角提示：** "not worth it"是 Fara 家训（伤人即亏）。Ky 的"never questioned"（爹不质疑）vs Taj 的"try to listen"（我尽量听）；读到家训，先看酒（"mouthful of flames"，焰），焰即胆（壮），壮即剖白（白即"something I want"，要即"Do you want to—"，问即——截！截即 Bradley，立即召见，见即下一章）。
 
@@ -80,9 +80,9 @@ modified: "2026-10-10"
 
 **关键词：** look up · bottom
 
-**为什么这样写：** 讨旧话："Exactly…said?…easier…bottom?"（Ky：对，你说过？底下好上看？）——"Something like that…relaxing…melting"（Taj：差不多＋松＋融）是回应。而"Can I try the bottle?…"（试酒，见上）——试即"final match tomorrow…decided there…die/prison…interrupt…do it now…What?…fixes…Do you want to—…knock"（决＋列＋断＋干＋懵＋定＋问＋截，全套，套即 Bradley＋messenger＋Alzimyth＋at once＋ought to know immediately，急即下一章：夜话，话即法官问，问即 BLAST＋REPEL＋Star＋THINK？答即——决赛前夜，前夜即本章，章即——睡？睡即 Star 令，令即"sleep"，眠即——打！）。
+**为什么这样写：** "Exactly…said?…easier…bottom?"（Ky：对，你说过？底下好上看？）——"Something like that…relaxing…melting"（Taj：差不多＋松＋融）是回应。而"Can I try the bottle?…"（试酒，见上）——试即"final match tomorrow…decided there…die/prison…interrupt…do it now…What?…fixes…Do you want to—…knock"（决＋列＋断＋干＋懵＋定＋问＋截，全套，套即 Bradley＋messenger＋Alzimyth＋at once＋ought to know immediately，急即下一章：夜话，话即法官问，问即 BLAST＋REPEL＋Star＋THINK？答即——决赛前夜，前夜即本章，章即——睡？睡即 Star 令，令即"sleep"，眠即——打！）。
 
-**读者视角提示：** "look up…bottom"是 ch25 定理回灌（Ky 引用 Taj，引用即亲近）。"Something like that"（差不多吧）是 Taj 式谦虚；读到回灌，先看姿势（"melting into velvet"，融化），化即放松（松即剖白时机，机即"Do you want to—"，问即截，截即——下一章）。
+**读者视角提示：** "look up…bottom"是旧话回灌（Ky 引用 Taj，引用即亲近）。"Something like that"（差不多吧）是 Taj 式谦虚；读到回灌，先看姿势（"melting into velvet"，融化），化即放松（松即剖白时机，机即"Do you want to—"，问即截，截即——下一章）。
 
 > **原句 8:** "I thought that you ought to know immediately."
 
@@ -90,7 +90,7 @@ modified: "2026-10-10"
 
 **关键词：** ought to know · immediately
 
-**为什么这样写：** Bradley 截停函：knock（敲门）配"Miss? Master Taj?"（点名）配"beet red…thorns…thought I told you"（Ky：通红＋刺＋不是说了别打扰）配"Forgive me…messenger…Master Alzimyth…at once…embarrassed cough"（Bradley：恕罪＋信使＋法官＋马上＋咳）——"ought to know immediately"（得立刻知道，急）是结语。而"Do you want to—"（Ky 问到一半，悬置）＋"fixes…cheek…lips"（定＋脸＋唇，前摇）——摇即截（截即召见，见即下一章：Alzimyth 夜话，话即 ch30 露台"piss"续集＋"If I can ask—"答案，案即 BLAST＋REPEL＋手搓＋Star，问即答？答即——决赛前夜，前夜漫长，漫长即——打！）。
+**为什么这样写：** Bradley 截停函：knock（敲门）配"Miss? Master Taj?"（点名）配"beet red…thorns…thought I told you"（Ky：通红＋刺＋不是说了别打扰）配"Forgive me…messenger…Master Alzimyth…at once…embarrassed cough"（Bradley：恕罪＋信使＋法官＋马上＋咳）——"ought to know immediately"（得立刻知道，急）是结语。而"Do you want to—"（Ky 问到一半，悬置）＋"fixes…cheek…lips"（定＋脸＋唇，前摇）——摇即截（截即召见，见即下一章：Alzimyth 夜话，话即露台"piss"续集＋"If I can ask—"答案，案即 BLAST＋REPEL＋手搓＋Star，问即答？答即——决赛前夜，前夜漫长，漫长即——打！）。
 
 **读者视角提示：** "ought to know immediately"是 Bradley 的急件章（截停两次，次次"立刻"）。"Do you want to—"（悬置问）是本章的钩子；读到悬置，先看 Bradley（咳吗），咳即急件（件即 Alzimyth，法官深夜召见，见即——下一章，章即夜话，话即——答？答即决赛，赛即 Quech＋蛇，蛇即——赢！）。
 
