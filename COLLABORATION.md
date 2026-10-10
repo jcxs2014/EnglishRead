@@ -93,7 +93,7 @@ out-of-body-stories-by-chris-vanjonack
 - **假红型根因修复**：10 md 补 `source_text: chNN` frontmatter，使 check_vocab 从「整层空跑」变为真正执行——重跑 232 词条行 **FAIL 0 WARN 0**，反证前轮修复彻底；顺带清 6 处重复词头
 - b 步 10 章全 X/X｜c 步结构 0｜d 步子代理 API 401→主会话自执行 74 块无错位｜e 步无总览（短篇合集豁免）
 - **终验**：verify_quotes **74/74（100%）**｜check_vocab **FAIL0 WARN0**｜sweep_full 0/0/0/0｜短引语 8/8｜check_anchor 造词 0｜corruption 0｜entities 0｜结构 0
-- commit `70939af33` + `45be3e83d` + `fd48af630` + `455a5610e`，**未 push**
+- commit `70939af33` + `45be3e83d` + `fd48af630` + `455a5610e` + `25688fdec`，**未 push**
 - 报告 `.memory/reviews/2026-10-10-out-of-body-stories-by-chris-vanjonack-五步审查.md`（含第十二节根因修复）；原件 `.memory/raw-gates/out-of-body-stories-by-chris-vanjonack/`
 
 ### [2026-10-10 00:00 UTC] [ZCode-Mac] → All
