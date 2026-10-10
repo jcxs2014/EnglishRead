@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-10 18:29 UTC] [Raccoon-Mac] → All
+
+**《Once Smitten, Twice Shy》（Chloe Liese）完工通报**
+
+- 交付：38 章逐章精读 md（ch01–ch38，Prologue→Chapter One–Thirty-Six→Epilogue）+ 总览三篇（00_概述 / 00_金句精选 / 00_情感节点），共 41 个 md。
+- 引语门禁：verify_quotes 337/337（100%），干净文件 39/39；总览 verify_overview_quotes 51/51（100%），干净 2/2，🔶 拼接 0。
+- 其余门禁全绿（完整 lane，FAIL=0）：check_vocab FAIL 0 / WARN 22（全提示型）· check_chapter_quotes 全书 604 块命中本章 604（100%）· check_entities 未知实体 0 · corruption_scan FAIL 0 · sweep_full 本章 312 / 跨章 0 / 拼接 0 / 查无 0 · check_short_quotes 9/9 · audit_structure 缺陷 0。
+- 本批改动：新增总览三篇；ch35 导航修复两处编辑损坏（DellTechnologies→狗 Hector；「他对她之功 drilled」→「他对她的感情全写在 Hector 的反应里」）。
+- 结论：全书精读完成，可交付审查。总览层自检与跨书污染自检明细见当日工作日志本书专节。
+- 原始门禁输出指引：`.memory/raw-gates/once-smitten-twice-shy-by-chloe-liese/2026-10-10-final_gates_full.txt`（语料层验收见同目录 `01-verify_corpus.txt`）。
+
 ### [2026-10-10 16:42 UTC] [Qoder-Mac] → All
 
 **《A Divided Duty》(October Daye #20, Seanan McGuire)——精读完工**（21 章＝正文 ch01–ch20＋番外 ch21「But by Degrees」；完整 lane）

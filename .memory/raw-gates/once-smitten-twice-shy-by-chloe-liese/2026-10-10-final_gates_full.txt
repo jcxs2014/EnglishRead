@@ -1,0 +1,143 @@
+### once-smitten-twice-shy-by-chloe-liese 终态门禁（2026-10-10，完整 lane）
+
+## lane
+notes/books/novels/once-smitten-twice-shy-by-chloe-liese/library/Once Smitten, Twice Shy (Chloe Liese) (Z-Library).epub
+
+## verify_quotes.py
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 25/25 ✅
+ch01 prologue.md: 8/8 ✅
+ch02 chapter one.md: 8/8 ✅
+ch03 chapter two.md: 8/8 ✅
+ch04 chapter three.md: 8/8 ✅（另有 1 条短引语未校验）
+ch05 chapter four.md: 8/8 ✅
+ch06 chapter five.md: 8/8 ✅
+ch07 chapter six.md: 5/5 ✅（另有 1 条短引语未校验）
+ch08 chapter seven.md: 8/8 ✅
+ch09 chapter eight.md: 7/7 ✅
+ch10 chapter nine.md: 8/8 ✅
+ch11 chapter ten.md: 7/7 ✅
+ch12 chapter eleven.md: 8/8 ✅
+ch13 chapter twelve.md: 7/7 ✅（另有 1 条短引语未校验）
+ch14 chapter thirteen.md: 7/7 ✅
+ch15 chapter fourteen.md: 9/9 ✅
+ch16 chapter fifteen.md: 8/8 ✅
+ch17 chapter sixteen.md: 8/8 ✅（另有 1 条短引语未校验）
+ch18 chapter seventeen.md: 9/9 ✅
+ch19 chapter eighteen.md: 10/10 ✅
+ch20 chapter nineteen.md: 10/10 ✅
+ch21 chapter twenty.md: 9/9 ✅
+ch22 chapter twenty one.md: 8/8 ✅
+ch23 chapter twenty two.md: 5/5 ✅
+ch24 chapter twenty three.md: 6/6 ✅（另有 2 条短引语未校验）
+ch25 chapter twenty four.md: 7/7 ✅
+ch26 chapter twenty five.md: 8/8 ✅
+ch27 chapter twenty six.md: 6/6 ✅（另有 1 条短引语未校验）
+ch28 chapter twenty seven.md: 10/10 ✅
+ch29 chapter twenty eight.md: 10/10 ✅
+ch30 chapter twenty nine.md: 10/10 ✅
+ch31 chapter thirty.md: 10/10 ✅
+ch32 chapter thirty one.md: 10/10 ✅
+ch33 chapter thirty two.md: 10/10 ✅
+ch34 chapter thirty three.md: 11/11 ✅
+ch35 chapter thirty four.md: 6/6 ✅（另有 1 条短引语未校验）
+ch36 chapter thirty five.md: 9/9 ✅（另有 1 条短引语未校验）
+ch37 chapter thirty six.md: 8/8 ✅
+ch38 epilogue.md: 10/10 ✅
+
+⚠️ 全书共 9 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 337/337 引文可核实（100%）；完全干净文件 39/39；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+## verify_quotes.py --full
+
+🔬 P0-6 --full 取证：1 条引语**前 52 字符命中但整串对不上**——常规口径看不见这一段
+    · 00_金句精选.md
+      md：「“Can I have a do-over?” He presses his hands together, holding my eyes」
+      首个不命中片段：flat 偏移 30  「dstogetherholdingmyeyespleaseidonttellhi」
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 337/337 引文可核实（100%）；完全干净文件 39/39；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 1 ===
+
+## check_vocab.py
+词条行合计: 1808
+
+--- FAIL (0) ---
+
+--- WARN (22) ---
+  ch02 chapter one.md [基础] 基础档疑含超纲词「greenhouse」
+  ch04 chapter three.md [基础] 基础档疑含超纲词「playground」
+  ch05 chapter four.md [基础] 基础档疑含超纲词「ambulance」
+  ch05 chapter four.md [基础] 基础档疑含超纲词「smile brightens」
+  ch07 chapter six.md [基础] 基础档疑含超纲词「matchmaker」
+  ch10 chapter nine.md [基础] 基础档疑含超纲词「adventure」
+  ch11 chapter ten.md [基础] 基础档疑含超纲词「threshold」
+  ch13 chapter twelve.md [基础] 基础档疑含超纲词「distillery」
+  ch16 chapter fifteen.md [基础] 基础档疑含超纲词「acrobatic attempt」
+  ch18 chapter seventeen.md [基础] 基础档疑含超纲词「bittersweet image」
+  ch18 chapter seventeen.md [基础] 基础档疑含超纲词「boyfriend」
+  ch20 chapter nineteen.md [基础] 基础档疑含超纲词「convincing smile」
+  ch20 chapter nineteen.md [基础] 基础档疑含超纲词「curveball」
+  ch22 chapter twenty one.md [基础] 基础档疑含超纲词「dangerous game」
+  ch25 chapter twenty four.md [基础] 基础档疑含超纲词「dominatrix」
+  ch25 chapter twenty four.md [基础] 基础档疑含超纲词「contended sigh」
+  ch29 chapter twenty eight.md [基础] 基础档疑含超纲词「headboard」
+  ch29 chapter twenty eight.md [基础] 基础档疑含超纲词「refractory period」
+  ch31 chapter thirty.md [基础] 基础档疑含超纲词「breathing tight」
+  ch34 chapter thirty three.md [基础] 基础档疑含超纲词「boyfriend」
+  ch34 chapter thirty three.md [基础] 基础档疑含超纲词「extroverted」
+  ch37 chapter thirty six.md [基础] 基础档疑含超纲词「excellent astrological」
+
+## check_entities.py
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+## corruption_scan.py
+
+=== 编辑损坏扫描（once-smitten-twice-shy-by-chloe-liese）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+## sweep_full.py --quiet
+=== 引语整串 flat 比对（once-smitten-twice-shy-by-chloe-liese）===
+  参照集：text/ 逐章（38 章，可定章） + epub 交叉验证
+  ✅ 本章命中 312 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 9 条归 check_short_quotes；无章可对 0 条未判）
+
+## check_chapter_quotes.py --book-dir（全书逐章归属）
+⚠️  全书共 51 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 604，命中本章 604（100%）
+✅ 全部引语均归属正确章节
+
+## check_short_quotes.py
+=== 短引语兜底核对（once-smitten-twice-shy-by-chloe-liese）===
+  verify_quotes 跳过（<20 flat 字符）的引语：9 条 —— 这些主门禁**根本没查**
+  ✅ 命中 9 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+## audit_structure.py
+=== 精读结构扫描（once-smitten-twice-shy-by-chloe-liese）===
+  扫 41 个 md、356 个引语块；多数派必备节：（无，不判）
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+## verify_overview_quotes.py（总览三篇）
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 21/21 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 30/30 ✅
+
+=== 总览引文 51/51 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+## H1 一致性机检
+notes/books/novels/once-smitten-twice-shy-by-chloe-liese/00_情感节点.md:# 《Once Smitten, Twice Shy》情感节点
+notes/books/novels/once-smitten-twice-shy-by-chloe-liese/00_概述.md:# 《Once Smitten, Twice Shy》概述
+notes/books/novels/once-smitten-twice-shy-by-chloe-liese/00_金句精选.md:# 《Once Smitten, Twice Shy》金句精选
