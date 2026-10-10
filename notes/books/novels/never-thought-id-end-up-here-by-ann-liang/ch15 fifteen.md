@@ -105,7 +105,7 @@ modified: "2026-10-09"
 
 **关键词：** destroyed beyond repair（毁到无法修复）；moving in circles（原地打转）；the press of his palm like a salve（他掌心的按压力像药膏）
 
-**为什么这样写：** 用「药膏」这个词把上一章她给他贴创可贴的动作接回来：那次是她被照料，这次轮到她被按住。三个环境细节（风、蟋蟀、掌心）都由身体感知写成，结论因此不靠推论。
+**为什么这样写：** 用「药膏」这个词把上一章「他蹲下替她脱鞋、给她贴上创可贴」的动作接回来：那次是她被照料，这次轮到他掌心的按压力成为同一件事的延续。三个环境细节（风、蟋蟀、掌心）都由身体感知写成，结论因此不靠推论。
 
 **读者视角提示：** 她随后站起身要走，他说「别走」，给的理由是怕吵醒别人。她追问「这是真正的原因吗」，他停了很久，答「也许」。
 
@@ -167,6 +167,7 @@ modified: "2026-10-09"
 
 ### ⭐⭐ 进阶
 
+| 词/短语 | 释义 | 例句 |
 |------|------|------|
 | flinches | 退缩、畏缩 | He flinches, inhaling sharply like someone breaking through the currents right before they’re about to drown, his eyes wide and disoriented. |
 | disoriented | 迷失方向的、茫然的 | He flinches, inhaling sharply like someone breaking through the currents right before they’re about to drown, his eyes wide and disoriented. |
@@ -181,6 +182,7 @@ modified: "2026-10-09"
 
 ### ⭐ 基础
 
+| 词/短语 | 释义 | 例句 |
 |------|------|------|
 | nightmare | 噩梦 | “Do you have them often?” I ask, sitting down on his bed. |
 | hesitates | 犹豫、迟疑 | He hesitates. Starts to say something. |
@@ -192,5 +194,5 @@ modified: "2026-10-09"
 
 ## 一句话总结
 
-凌晨三点四十二分，一条噩梦把她从床上拎起来，也把赛勒斯为什么变成现在这样一次交出来——父母的争吵、父亲把伤害叫作在意、以及一封信在他父母之间当筹码的指望；而她把手覆在他的拳头上，说「你并没有毁掉我」，然后在第二天早上向 Oliver 问清关系，换回一个「为友谊」的拳头相碰。
+凌晨三点四十二分，一条噩梦把她从床上拎起来，也把赛勒斯为什么变成现在这样一次交出来——父母的争吵、父亲把伤害叫作在意、以及**打进斯坦福的那通报喜电话能让他父母重新说话的指望**；而她把手覆在他的拳头上，说「你并没有毁掉我」，然后在第二天早上向 Oliver 问清关系，换回一个「为友谊」的拳头相碰。
 

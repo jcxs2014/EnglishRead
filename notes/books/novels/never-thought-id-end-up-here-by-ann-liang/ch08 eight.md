@@ -118,6 +118,7 @@ modified: "2026-10-09"
 
 ### ⭐⭐ 进阶
 
+| 词/短语 | 释义 | 例句 |
 |------|------|------|
 | dignified | 有威严的、体面的 | He steps forward in as dignified a manner as possible for someone who’s just leapt back three feet. |
 | disperse | 散开、驱散 | The ghosts don’t block our way, but they don’t disperse either. |
@@ -132,6 +133,7 @@ modified: "2026-10-09"
 
 ### ⭐ 基础
 
+| 词/短语 | 释义 | 例句 |
 |------|------|------|
 | wig | 假发 | I only really glance at them—their blood-splattered faces; their long, tangled wigs drooping over their pale robes; their bright red contacts—out of politeness and appreciation for their efforts. |
 | calligraphy | 书法 | Half the space has been dedicated to private rooms, each with their own flower and poetic name—at least, I’m assuming it’s poetic, based on the calligraphy and the fact that I don’t recognize a single character—printed above the carved lattice doors. |

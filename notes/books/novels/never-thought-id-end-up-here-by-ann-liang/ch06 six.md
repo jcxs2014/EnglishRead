@@ -116,6 +116,7 @@ modified: "2026-10-09"
 
 ### ⭐⭐ 进阶
 
+| 词/短语 | 释义 | 例句 |
 |------|------|------|
 | novelty | 新鲜事、新奇 | There was a time, just after I turned pretty, when getting any kind of male attention was still a novelty to me, where I’d take Oliver’s words far too seriously and fantasize about what it could all mean. |
 | twitches | 抽动、抽搐 | The smile that twitches at my lips is a little more genuine this time. |
@@ -128,6 +129,7 @@ modified: "2026-10-09"
 
 ### ⭐ 基础
 
+| 词/短语 | 释义 | 例句 |
 |------|------|------|
 | counter | 台面、柜台 | Then I unpack three bags of makeup products, letting them spill onto my side of the marble counter. |
 | eyeliner | 眼线笔 | Even on the plane ride here, I had my perfectly glued lashes and trusted black eyeliner for support. |
