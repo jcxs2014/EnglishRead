@@ -74,13 +74,13 @@ modified: "2026-10-10"
 
 **读者视角提示：** "not worth it"是 Fara 家训（伤人即亏）。Ky 的"never questioned"（爹不质疑）vs Taj 的"try to listen"（我尽量听）；读到家训，先看酒（"mouthful of flames"，焰），焰即胆（壮），壮即剖白（白即"something I want"，要即"Do you want to—"，问即——截！截即 Bradley，立即召见，见即下一章）。
 
-> **原句 7:** "It’s easier to look up when you’re at the bottom?"
+> **原句 7:** "What was it you said? It’s easier to look up when you’re at the bottom?"
 
-**中文理解：** ""在底下才好往上看？""
+**中文理解：** ""你当时咋说的？在底下才好往上看？""
 
-**关键词：** look up · bottom
+**关键词：** What did you say · look up · bottom
 
-**为什么这样写：** "Exactly…said?…easier…bottom?"（Ky：对，你说过？底下好上看？）——"Something like that…relaxing…melting"（Taj：差不多＋松＋融）是回应。而"Can I try the bottle?…"（试酒，见上）——试即"final match tomorrow…decided there…die/prison…interrupt…do it now…What?…fixes…Do you want to—…knock"（决＋列＋断＋干＋懵＋定＋问＋截，全套，套即 Bradley＋messenger＋Alzimyth＋at once＋ought to know immediately，急即下一章：夜话，话即法官问，问即 BLAST＋REPEL＋Star＋THINK？答即——决赛前夜，前夜即本章，章即——睡？睡即 Star 令，令即"sleep"，眠即——打！）。
+**为什么这样写：** "What was it you said? It’s easier to look up when you’re at the bottom?"（Ky 现问现引）——"Something like that…relaxing…melting"（Taj：差不多＋松＋融）是回应。而"Can I try the bottle?…"（试酒）——试即"final match tomorrow…decided there…die/prison…interrupt…do it now…What?…fixes…Do you want to—…knock"（决＋列＋断＋干＋懵＋定＋问＋截，全套，套即 Bradley＋messenger＋Alzimyth＋at once＋ought to know immediately，急即下一章：夜话，话即法官问，问即 BLAST＋REPEL＋Star＋THINK？答即——决赛前夜，前夜即本章，章即——睡？睡即 Star 令，令即"sleep"，眠即——打！）。
 
 **读者视角提示：** "look up…bottom"是旧话回灌（Ky 引用 Taj，引用即亲近）。"Something like that"（差不多吧）是 Taj 式谦虚；读到回灌，先看姿势（"melting into velvet"，融化），化即放松（松即剖白时机，机即"Do you want to—"，问即截，截即——下一章）。
 
