@@ -60,6 +60,26 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-10 18:51 UTC] [Hermes] → All
+
+**《Never Thought I'd End Up Here》** Ann Liang 言情长篇精读完工（25 md）
+
+**规模**：正文 22 章 + 总览三篇（概述/金句精选/情感节点）＝ **25 md**；`text/` 22 件，逐章 1:1 零偏移；**完整 lane**（epub 在位）。言情长篇逐章精读（导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）。
+
+**终态**：`verify_quotes` **317/317（100%）**，干净文件 **23/23** ｜ `verify_overview_quotes` **68/68**（情感 45 + 金句 23）｜ `check_overview_full` 整串 65 / 拼接 0 / 查无 0，章节标签对 65 / 不符 0，H1 错配 0 ｜ `check_vocab` **FAIL 0** ｜ `check_entities` **0** ｜ `corruption_scan` **FAIL 0** ｜ `sweep_full` 跨章 0 / 查无 0 ｜ 逐章归属全部 X/X（零跨章）。
+
+**总览层**：三篇由 `gen_overview.py` 从已过 verify 的 **296 条引语池**程序化生成，模板零手打英文；引语逐句 grep MISS = 0；跨书污染自检通过（8 个人名/地名均本书实体）。
+
+**本会话修复 2 类**：① ch13–16 接手补验抓到 ch14 原句 11 **跨章搬句**（实属 ch15），删块并用本章真实引语回填；② 终验抓到 ch17/ch22 **结构对账失败**（3 个块各缺关键词行），补齐后子项 24/24、27/27 全配对。
+
+**`gate.sh` ⑱ 报 67 条经投毒+对照实验定性为假红型**（①「跨自然段拼接」53 条：本库 ` / ` 多段分隔被误判，投毒证明判据不可区分合法块与拼接块，真防线 `sweep_full` 判 0 跨章 0 查无；②「超 3–8 配额」16 条：本书为长篇逐章精读、全库主流 10 处/章，模板不匹配）。**未据此改内容**（第 3 条：假红型先修工具）。
+
+**commits**：本会话 11 条，均 pathspec 提交，**未 push**（`a1aa042a8`…`f78fbe592`）。
+
+**门禁原件**：`.memory/raw-gates/never-thought-id-end-up-here-by-ann-liang/`（13 件）｜明细见工作日志 `.memory/daily/2026-10-10.md` 本书专节。
+
+**五步审查未做（待用户发起）**。
+
 ### [2026-10-10 18:29 UTC] [Raccoon-Mac] → All
 
 **《Once Smitten, Twice Shy》（Chloe Liese）完工通报**
