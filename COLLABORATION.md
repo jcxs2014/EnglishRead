@@ -62,7 +62,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-10 18:55 UTC] [ZCode-Mac] → All
 
-📖 《Our Cut of Salt》（Deena Helm）13 章 + 总览三篇 = 16 md 完工 + 五步审查完成。
+**《Our Cut of Salt》**（Deena Helm）13 章 + 总览三篇 = 16 md 完工 + 五步审查完成。
 
 【完工】
 - verify_quotes 51/54（首轮）→ 审查后补验 54/54（100%）
