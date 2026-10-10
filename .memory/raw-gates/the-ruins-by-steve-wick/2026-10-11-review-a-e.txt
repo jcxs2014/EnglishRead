@@ -1,0 +1,49 @@
+=== 2026-10-11 The Ruins 五步审查（a–e）门禁与缺陷清单 ===
+
+## a. 第 3 条提交门禁全量重跑
+verify_quotes：289/289（100%），43/43 干净；--full 整串取证 0
+check_vocab：FAIL=0（WARN 24 提示型）
+check_entities：0 未知实体
+corruption_scan：FAIL 0
+sweep_full：267/267 本章命中，0 跨章，0 跨标签拼接，0 查无
+
+## b. 逐章归属
+check_chapter_quotes：42/42 章全部 X/X in chNN text（含 ch41 postscript 4/4、ch42 author's note 7/7）
+check_short_quotes：5/5 命中
+
+## c. 结构扫描
+audit_structure：45 md、309 块，结构缺陷 0，提示 0，映射不一致 0
+check_struct_indep（第二实现）：42 md，缺陷 0
+check_overview_full：A 整串 54 命中，拼接 0，章节标签 54 对 / 不符 0；C 跨章多重命中 1（ch22/ch42 提示型）；H1 语义错配 0
+H1 校验：00_概述 / 00_金句精选 / 00_情感节点 各自匹配
+
+## d. 语义二审
+check_anchor：凭空造词 0，松散关键词 0（修 3 处关键词锚定后）
+audit_numbers：❓ 未判 5 + ⚪ 年龄 3（提示型，只记不改）
+sweep_analysis_inline：逐字 1247，🟠 部分命中 5（全部人判为逐字片段/语法讨论，提示型）
+check_xref_indep：245 处引用，英文证据报警 0（修 2 处章号后）
+子代理语义二审（3 批，逐块引语↔分析核对）：共查出 5 处阻断型/事实错误 + 若干提示型，全部整改
+
+### 子代理查出的阻断型/事实缺陷清单（已修复）
+1. ch02 原句7 读者视角「麦克凯始终用过去时态谈论妻子」→ 与原文矛盾（他用现在时）→ 改为「从头到尾没有掉过一滴眼泪——悲伤更像愤怒」
+2. ch26 原句3 中文理解「约 35,000 美元从未下落不明」→ 双重否定颠倒语义 → 改「始终下落不明」
+3. ch28 原句1「母亲失踪前一周的新闻」→ 实为入院次日（1939-02-21）→ 改「被送进精神病院次日见报」
+4. ch29 原句3 读者视角「保罗提到 the very people who took and killed that child」→ 说话人实为豪普特曼遗孀（ch27）→ 改归属
+5. ch31 原句6 读者视角「父亲沉默」→ 原文他反问转移话题 → 改「没有正面否认，而是转移话题」
+6. ch31 原句4 中文理解「先轻轻说…然后…」压缩两个独立时刻 → 改时序表述
+7. ch32 原句1 读者视角引用「The day I enlisted」超出引语 → 改中文转述
+
+### 机械层自查修复
+8. ch05 跨章引用「ch02 保罗 I can't do this by myself」→ 实为 ch06 → 改章号
+9. ch20 跨章引用「ch18 的 Geheimnisse…」→ 实为 ch14 → 改章号
+10. check_anchor 3 处关键词错锚（ch31 原句4/原句7、ch36 原句4）→ 引语修改后未同步关键词 → 已更新
+11. sweep_analysis_inline 🟠 中的截短例句/行内改写 10 处（ch08/ch12/ch14/ch15/ch17/ch24×2/ch33/ch42 词表例句 + ch19/ch20/ch24/ch25 行内英文）→ 全部改为逐字整句
+
+## e. 总览层事实核对
+verify_overview_quotes：22/22（100%），0 跨缝隙拼接
+check_overview_full：54/54 标签对，0 拼接；仅 ch22/ch42 多重命中（提示型，金句⑭ 标 ch22 为首次出处，保留）
+总览说话人抽查（grep 200 字符窗口）：Baer/Schmidt/Herr/Paul 归属全部正确
+跨书污染自检：Liebmann/Beirne/Hagar/Stuckart/Falzini 在其他书 0 命中
+
+## 修复后门禁复跑
+verify_quotes：289/289（100%）· check_vocab FAIL=0 · check_entities 0 · corruption_scan FAIL 0 · sweep_full 267/267 零拼接 · audit_structure 0 缺陷

@@ -120,7 +120,7 @@ modified: "2026-10-10"
 | attic | 阁楼 | He pulled on the rope that lowered the trapdoor to the attic. |
 | boxes | 箱子 | At night he sat in his bungalow, reading and rereading all the material he had collected, going through the boxes. |
 | boy | 男孩 | Once he caught the boy’s eye and waved to him. |
-| bungalow | 平房 | He walked from his car along the street to the bungalow. |
+| bungalow | 平房 | He waited thirty minutes, then walked from his car along the street to the bungalow. |
 | magazine | 弹匣 | Pulling out the magazine, he could see it was fully loaded. |
 
 ## 一句话总结

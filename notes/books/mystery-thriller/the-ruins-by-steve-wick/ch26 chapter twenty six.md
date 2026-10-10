@@ -41,7 +41,7 @@ modified: "2026-10-10"
 
 > **原句 3:** "Baer has Lindbergh ransom money from 1932. $32,000 in 1932 dollars. Approximately $35,000 was never accounted for."
 
-**中文理解**：保罗在墙上用大号黑字写下——贝尔持有 1932 年林德伯格赎金，按 1932 年币值约 32,000 美元；大约 35,000 美元从未下落不明。
+**中文理解**：保罗在墙上用大号黑字写下——贝尔持有 1932 年林德伯格赎金，按 1932 年币值约 32,000 美元；大约 35,000 美元始终下落不明。
 
 **关键词**：Baer has Lindbergh ransom money / $32,000 / never accounted for
 

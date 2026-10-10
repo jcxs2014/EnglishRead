@@ -9,7 +9,7 @@ modified: "2026-10-10"
 
 - **一句话概括**：保罗在舅舅农场的工棚里找到母亲留下的两箱遗物——里面有《时代》杂志（林德伯格与卡雷尔合影）、冷泉港优生学记录办公室的明信片、1933 年 12 月 5 日费施告别派对的请柬（德语）、德国《遗传病后代预防法》宣传册，以及一叠金元券；母亲在纸上写着「从我丈夫在萨福克县国民银行的保险箱里取出」，日期是 1939 年 2 月 19 日——即她失踪前一天。
 - **情感弧线位置**：母亲遗物揭示了她失踪前的行为——她不仅带走了父亲保险箱里的文件，还带走了金元券（可能与赎金有关）。
-- **Tropes 兑现/反转**：失踪者的「秘密档案」；母亲的主动调查（she was investigating her husband）；金元券作为赎金证据。
+- **Tropes 兑现/反转**：失踪者的「秘密档案」；母亲的主动调查（她一直在调查自己的丈夫）；金元券作为赎金证据。
 - **人物弧线**：保罗对舅舅的失望（他从未打开箱子）与对母亲的重新认识——她不是一个受害者，而是一个发现了秘密的女人。
 - **叙事手法**：工棚寻物（灰尘、旧箱）与厨房热可可场景交替；遗物的「物证化」让母亲的失踪史变得可触摸。
 
@@ -92,7 +92,7 @@ modified: "2026-10-10"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| photographs | 照片 | It featured photographs of two men in a laboratory. |
+| photographs | 照片 | It was dated June 1938 and featured photographs of two men in a laboratory. |
 | disappeared | 消失 | When Joyce disappeared, just vanished from his life and your life, he was completely stunned and heartbroken. |
 | going-away | 告别（聚会） | Attend a going-away party on December 5, 1933. |
 | German-language | 德语的 | A worn, yellowed, German-language brochure fell out of the magazine. |
@@ -106,7 +106,7 @@ modified: "2026-10-10"
 | vanished | 消失 | When Joyce disappeared, just vanished from his life. |
 | enlisted | 入伍 | Then you enlisted in the Navy. |
 | addressed | 写给、寄给 | An invitation addressed to his parents. |
-| brochure | 宣传册 | A German-language brochure fell out of the magazine. |
+| brochure | 宣传册 | A worn, yellowed, German-language brochure fell out of the magazine. |
 
 ### ⭐ 基础
 

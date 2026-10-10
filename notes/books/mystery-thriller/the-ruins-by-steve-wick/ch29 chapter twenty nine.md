@@ -47,7 +47,7 @@ modified: "2026-10-10"
 
 **为什么这样写**：保罗把母亲、菲施、豪普特曼三个人物串成一条线——母亲在场、父亲在场、豪普特曼拿到盒子（赎金）。这段话是保罗第一次向父亲展示他掌握了多少：不仅知道金券，还知道派对、盒子、处决。父亲无言以对，只回了句德语粗口「Geh und fick dich」。
 
-**读者视角提示**：保罗提到「the very people who took and killed that child」——他此时已确信父亲参与绑架，但还没有证据证明父亲亲手杀死了孩子。这个问题要到 ch31 才有答案。
+**读者视角提示**：豪普特曼遗孀在 ch27 说过「You could bring them the people behind this, the very people who took and killed that child」——保罗此时已确信父亲参与绑架，但还没有证据证明父亲亲手杀死了孩子。这个问题要到 ch31 才有答案。
 
 ---
 

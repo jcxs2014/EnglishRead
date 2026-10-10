@@ -84,7 +84,7 @@ modified: "2026-10-10"
 | magnifying | 放大的 | He rummaged through drawers in the kitchen and in his bedroom until he found a magnifying glass. |
 | grievances | 积怨、不满 | Stay on one investigation before branching off into the grievances you have against your father. |
 | Deportation | 驱逐出境 | Deportation to Germany is scheduled for October 5. |
-| breathless | 上气不接下气的、兴奋的 | He told me about it in his breathless way what a great night it was. |
+| breathless | 上气不接下气的、兴奋的 | He came home and told me about it in his breathless way what a great night it was. |
 
 ### ⭐⭐ 进阶
 

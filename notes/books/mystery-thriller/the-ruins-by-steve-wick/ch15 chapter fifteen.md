@@ -107,7 +107,7 @@ modified: "2026-10-10"
 | barracks | 州警营部 | You will turn over the McKay investigation to the state police barracks. |
 | violated | 被侵犯 | McGregor let out a dramatic scream as if his rights had been violated. |
 | interfere | 干涉 | If you interfere with the state police, you will be gone immediately. |
-| relieved | 感到宽慰 | He was relieved to see that it was a few minutes before six A.M. |
+| relieved | 感到宽慰 | He found his watch on the floor and was relieved to see that it was a few minutes before six A.M. |
 
 ### ⭐ 基础
 

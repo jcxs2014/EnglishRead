@@ -127,7 +127,7 @@ modified: "2026-10-10"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | crate | 板条箱 | He retrieved a crate stored in a warehouse. |
-| occupation | 占领时期 | Carrel moved to France to serve the Vichy government during the occupation. |
+| occupation | 占领时期 | Carrel worked for the Rockefeller Institute in New York and moved to France to serve the Vichy government during the occupation. |
 | complex | 集中营建筑群 | Before this album was discovered there had been no photographs of Mengele at the complex. |
 | story | 故事 | She never told her story, and her fate in Europe is unknown. |
 | table brace | 桌子支架 | In June 2003, the New York Times published a story headlined THIS CASE NEVER CLOSES about the discovery of the table brace. |

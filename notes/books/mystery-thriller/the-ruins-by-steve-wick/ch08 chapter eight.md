@@ -120,7 +120,7 @@ modified: "2026-10-10"
 | piano | 钢琴 | Pushing his cello forward and leaning it against the side of the piano. |
 | table | 桌子 | He slid a sheaf of papers onto the table. |
 | body | 尸体 | Uniformed cops stood around the body. |
-| back door | 后门 | He watched him lay his violin on the kitchen table and stare out the back door. |
+| back door | 后门 | Paul watched him lay his violin on the kitchen table and stare out the back door to the yard beyond like a man lost. |
 
 ## 一句话总结
 

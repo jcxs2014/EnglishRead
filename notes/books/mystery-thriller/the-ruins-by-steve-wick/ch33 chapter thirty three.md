@@ -107,7 +107,7 @@ modified: "2026-10-10"
 |---|---|---|
 | orderliness | 秩序、条理 | There was an orderliness, a rhythm to the farm. |
 | restrictions | 限制 | Some days he picked up the boy at school, as the restrictions Phyliss had in place had been removed. |
-| arrangements | 安排 | Pauli told him his mother had sat him down at the kitchen table and said arrangements with his father would change. |
+| arrangements | 安排 | It was Pauli who told him his mother had sat him down at the kitchen table and said arrangements with his father would change. |
 | overturned | 翻转 | Paul, standing over the water, overturned the urn. |
 | carburetor | 化油器 | He squeezed the bulb on the gas tank to prime the carburetor. |
 | challenging | 有挑战性的 | Sleeping on the beach would be challenging. |

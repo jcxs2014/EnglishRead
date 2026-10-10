@@ -55,7 +55,7 @@ modified: "2026-10-10"
 
 **中文理解**：夏洛特说——你在律所那次之后，你父亲来这里见了惠特纳和鲁迪。你父亲告诉他们你说的那些话。鲁迪说，你该被杀死。（说这话之前，她还补了一句：「说实话，我很惊讶你还活着。」）
 
-**关键词**：I am surprised you are still alive / your father came here to meet with Whitener and Rudi / Rudi said you should be killed
+**关键词**：your father came here to meet with Whitener and Rudi / Rudi said you should be killed
 
 **为什么这样写**：这是全书对父亲最沉重的指控——他不仅参与了绑架案，还主动向哈泽出卖儿子的调查内容，间接导致哈泽发出杀意。作者让夏洛特平静地说出「Rudi said you should be killed」，而保罗问「My father heard that?」——父亲在场，却一言不发。这不是父亲的「沉默」，而是默许。
 

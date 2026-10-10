@@ -53,9 +53,9 @@ modified: "2026-10-10"
 
 > **原句 4:** Doc covered his face with both hands. "I can't believe what I am hearing," he said. "These people are monsters."
 
-**中文理解**：多克先轻轻说「我的天哪」，然后双手掩面说——我简直不敢相信我所听到的。这些人都是怪物。
+**中文理解**：多克双手掩面说——我简直不敢相信我所听到的。这些人都是怪物。（此前他还轻轻说过「我的天哪」。）
 
-**关键词**：Oh my God / I can't believe what I am hearing / These people are monsters
+**关键词**：I can't believe what I am hearing / These people are monsters
 
 **为什么这样写**：多克——纳粹暴行的幸存者——用「monsters」一词给贝尔与哈加定性。作者让这位见过种族灭绝的外科医生做出道德判断：与纳粹的罪行相比，这群美国邦德成员的所作所为同样令人发指。多克的反应代表读者此刻的震惊。
 
@@ -83,7 +83,7 @@ modified: "2026-10-10"
 
 **为什么这样写**：保罗揭穿整个绑架案的经济本质：孩子的死被伪装成绑架，赎金成了邦德和纳粹党的资金来源。作者让「桌子支架上的忏悔铭文」与「赎金信的笔迹」合流——父亲不仅参与了绑架，还可能是赎金信的作者。这解释了母亲为何要偷走金券并藏起证据。
 
-**读者视角提示**：父亲没有否认「It's yours, isn't it?」——他沉默。这个沉默本身就是答案。
+**读者视角提示**：父亲没有正面否认「It's yours, isn't it?」，而是用另一个问题转移话题（「You came here to confront me about an old murder case?」）。这个回避本身就是答案。
 
 ---
 
@@ -91,7 +91,7 @@ modified: "2026-10-10"
 
 **中文理解**：保罗回答父亲的问题——「我母亲发生了什么」就是我来这里的唯一目的。
 
-**关键词**：not investigating the McKay murders / What are you here for / what happened to my mother
+**关键词**：what happened to my mother
 
 **为什么这样写**：章节以全书最核心的问题结束。父亲问「你来这里干什么？」，保罗的回答不是「抓你」，而是「我想知道我母亲发生了什么」。保罗已经放弃了「抓捕父亲」——他知道新泽西州不会在乎林德伯格案，麦克凯案的凶手是哈泽。他唯一想要的是母亲的命运。作者让父亲在这个问题面前再次沉默，把悬念留给最后一章。
 
