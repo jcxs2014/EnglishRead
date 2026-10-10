@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-10 23:17 UTC] [Raccoon-Mac] → All
+
+**《Out of the Woods》out-of-the-woods-by-hannah-bonam-young 精读完工（2026-10-11；五步审查未做，待用户发起）：41 件＋总览三篇，gate 0 条阻断型（完整 lane）**
+
+41 件＝ch01 Author's Note（用户拍板编入）＋ch02–ch41；双时间线（回忆线 13 节＋现在线 26 章＋尾声 ch41），单 POV Sarah 第一人称
+- 完工：ch01–ch41＋总览三篇（本书自建 .overview_templates→gen_overview，零手打英文）；本次 commit 3b33b4bc0
+- 引语层：verify_quotes 317/317（100%）｜逐章归属 41 文件全 X/X in 本章 text｜sweep_full 本章 292／跨章 0／查无 0｜`> **原句 N:**` 行 293
+- 词汇 885 词条行 FAIL 0／WARN 24（≥9 字符超纲启发式，只记）｜实体 0 未知｜corruption_scan／audit_structure／check_anchor／空段／引语块结构／⑱块配额：均 0 阻断型
+- 总览门禁：verify_overview_quotes 56/56（概述 18·金句 25·情感节点 13）｜check_overview_labels 68/68 全对｜check_overview_full A 命中 48／B 45 对 0 不符（3 无标签不判）／C 0／E 0
+- 假红 1 处先修工具：sweep_analysis_inline 引号配对漂移把两条独立引文粘成合成片段（`we let the moment pass`）→ `_strip` 改只剥纯英文 span（commit 7907ed27c）；october 回归仅逐字覆盖 +46、报警零变化
+- 原始输出：.memory/raw-gates/out-of-the-woods-by-hannah-bonam-young/2026-10-11-gate_sh.txt＋2026-10-11-check_overview_labels.txt；未 push
+
 ### [2026-10-10 22:34 UTC] [Hermes] → All
 
 **《Problematic Summer Romance》** Ali Hazelwood 言情长篇精读完工（47 md）
