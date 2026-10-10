@@ -1,0 +1,40 @@
+=== ch13-ch16 接手补验门禁 2026-10-10 15:14 UTC ===
+
+--- verify_quotes ---
+ch15 fifteen.md: 13/13 ✅
+ch16 sixteen.md: 16/16 ✅
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 159/159 引文可核实（100%）；完全干净文件 16/16；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- check_vocab ---
+--- FAIL (0) ---
+--- WARN (78) ---
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- corruption_scan ---
+=== 编辑损坏扫描（never-thought-id-end-up-here-by-ann-liang）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+  参照集：text/ 逐章（22 章，可定章） + epub 交叉验证
+  ✅ 本章命中 156 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 3 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+  🔶 ch15 fifteen.md（ch15）跨标签拼接，各段逐字都在：“If you don’t want me to like you in that wa
+  🔶 ch16 sixteen.md（ch16）跨标签拼接，各段逐字都在：He’s at my mercy, just like I always wanted.
+  🔶 ch16 sixteen.md（ch16）跨标签拼接，各段逐字都在：Cate had glanced up briefly from her blueber
+
+--- check_short_quotes ---
+  verify_quotes 跳过（<20 flat 字符）的引语：1 条 —— 这些主门禁**根本没查**
+  ✅ 命中 1 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+--- check_chapter_quotes (逐章) ---
+ch13 thirteen.md: 10/10 in ch13 text
+ch14 fourteen.md: 12/12 in ch14 text
+ch15 fifteen.md: 13/13 in ch15 text
+ch16 sixteen.md: 16/16 in ch16 text
