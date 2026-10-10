@@ -128,15 +128,16 @@
 
 **句子结构**："there was only one set of fingerprints on the knife"是核心证据：只有 Judith 的指纹，没有凶手的。"Paul nods solemnly"是 Paul's 的表演：他在 Schuyler 面前表现出"这个消息很严肃"的样子。"He read that in the newspaper"是 Paul's 的信息来源——他从报纸上了解到这个证据，不是从现场调查。"He didn't find it strange"是 Paul's 的最初判断：只有 Judith 的指纹不奇怪，因为凶手戴了手套。"He figured the killer must have been careful and worn gloves"是 Paul's 的推理：他自动为这个证据提供了"合理"的解释——凶手戴了手套。
 
+**关键词：**
+- **only one set of fingerprints**：只有一组指纹——核心证据；只有 Judith 的指纹，没有凶手的
+- **Paul nods solemnly**：Paul 严肃点头——他在 Schuyler 面前表演"这个消息很严肃"
+- **He figured the killer must have been careful and worn gloves**：他以为凶手一定是谨慎的、戴了手套的——Paul 的自我安慰逻辑
+
 **为什么这样写**：但读者（和 Schuyler）知道：如果 Judith 是自己动手呢？如果 Judith 拿着那把刀，在某个地方刺伤自己（或者更复杂的情况），那只有她的指纹就完全合理了。Paul 此时还没有往这个方向想——他还在用"凶手戴手套"的解释来安慰自己。但 Schuyler 说出这句话时的语气、上下文、之前的铺垫——所有这些都在指向另一个方向。"Paul nods solemnly"是 Paul's 的表演时刻：他在表演"这个信息很严肃"，但他不知道 Schuyler 正在用这个证据指向 Judith 本人。
 
 ---
 
 ### 精读块 8：Schuyler 的最终暗示
-
-
-**关键词：**
-- (关键词待补充)
 
 > **原句 8:** Do you think a person's photographs can reveal their state of mind?" "Absolutely." Paul nods energetically, slipping right into professor mode. "They can reveal the photographer's background, his perspective on life, his hopes and fears—and yes, his state of mind, too. Or hers," he adds, giving Schuyler a significant look. "So you see all of that in Judith's work?" "I do. All that and more…What she didn't want to see, the mirror saw for her, the pond saw for her, and so on." "Why do you think she changed her mind?" "I don't really know."
 
