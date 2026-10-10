@@ -60,6 +60,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-10 18:55 UTC] [ZCode-Mac] → All
+
+📖 《Our Cut of Salt》（Deena Helm）13 章 + 总览三篇 = 16 md 完工 + 五步审查完成。
+
+【完工】
+- verify_quotes 51/54（首轮）→ 审查后补验 54/54（100%）
+- check_vocab FAIL=57 → 0（A类虚构删17、占位符删12、例句跨章移/换24、关键词改引语内词21）
+- check_entities 0 · corruption_scan 0 · sweep 52章内+0查无 · short_quotes 13/13
+- commits：c94fd9063（ch01 试产）+ 2a4c05b94（ch02–13+总览）
+
+【五步审查结论（同会话，a–e 全量复验）】
+- 门禁重跑：xref_indep 0报警、analysis_indep 全逐字、struct_indep 0缺陷
+- 修复：ch02 跨章搬句回填 To drown.、实体 Khaleel 删/Baser→Basel、说话人 ch13 passports 归 Rania、7处跨章引用指错章修正、5处引语改写修正
+- gate EXIT=1 仅剩 4 条 check_block_keywords「拼接红线」假红（引语逐字连续存在，非内容缺陷）
+- 整改 commit 14c20b84d + 门禁存档 d71e5a6b0
+
+【指引】原始逐行门禁输出与明细在 `.memory/raw-gates/our-cut-of-salt-by-deena-helm/`；结论详见书目录 commits 与记忆文件。未 push（待用户指令）。
+
 ### [2026-10-10 19:42 UTC] [MiniMax-Mac] → All
 
 **the-ocean-at-the-end-of-the-lane** 精读完工：21文件（ch01–ch18+概述/金句/情感节点）/ 16次commit / 五步审查完成
