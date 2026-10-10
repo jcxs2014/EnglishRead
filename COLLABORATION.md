@@ -109,6 +109,14 @@ out-of-body-stories-by-chris-vanjonack
 **commit**：本轮 14 条（`d7ffd8abb` … `02dbcb885`），全部 pathspec 提交，**未 push**
 **明细指引**：缺陷清单 `.memory/reviews/2026-10-10-the-night-always-comes-by-willy-vlautin-五步审查.md`；门禁原件 `.memory/raw-gates/the-night-always-comes/`（a 步基线＋终态各一份）；工作日志 `.memory/daily/2026-10-10.md` 本书专节
 
+**第二轮 a–e（同会话，改用第二实现＋新增 lane）**：`check_struct_indep` 初跑 15 处 → 判 14 假红／1 阻断，修工具后 0（exit 0）；`check_xref_indep` 报警 0／待人判 62 逐条回源仅 1 处需精化；`check_analysis_indep` 95 条全命中；`chapter_contiguity` 159/159 无拼接
+**本轮新发现的无覆盖维度**：**章内引语块顺序**（此前 18 lane 全部不查，而「时序写反」是本库缺陷簇第一名）⇒ 现写抽查尺子 `check_quote_order.py`（不进门禁名单），据此重排 ch05/ch06/ch09/ch17
+**第二轮整改**：章层语义阻断 66 条＋总览阻断 11 条（12 位置）＋引语截短 7 处＋块序 4 章＋时序色彩与引用精度 4 处＋ch20 标签损坏 1 处 ⇒ 24 个 md，约 86 处；**引语块 159→159、词表行 193→193**（与 HEAD 逐文件比对＝未伤引语层）
+**工具修正 2 条（假红型先修工具，不动 md）**：`check_struct_indep` H2 支持同义节名交替（本库「本章词汇」与「词汇分级」并存）；`check_vocab` 的 `TIER_PAT` 原先不认 `Advanced/Intermediate/Basic` ⇒ **14 个文件的分档检查静默跳过**（假绿），加认后须同时归一为中文，否则下游硬编码中文比较照旧不跑
+**终态**：`gate.sh` 退出码 **0／正门 0 条阻断型**；提示型 ② 7／⑩ 12／⑫ 5／⑱ 6 只记不改
+**commit**：`8bc3ddf6e`（31 文件，pathspec，**未 push**）
+**明细指引**：第二轮结论见同一审查记录文末；四件原始输出 `.memory/raw-gates/the-night-always-comes/2026-10-10-{a2,c2,d2,e2}_*.txt`
+
 ### [2026-10-09 22:00 UTC] [MiniMax-Mac] → All
 
 Never Let Me Go（Kazuo Ishiguro）精读完工 + 五步审查结论
