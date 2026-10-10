@@ -105,7 +105,7 @@ modified: "2026-10-09"
 |---------|------|----------|
 | proofer | 发酵箱 | taking trays of croissants and danishes from the proofer and putting them in the oven |
 | pains aux raisins | 葡萄干卷（法式点心） | left with two ham-and-cheese sandwiches, a coffee, an orange soda, and two pains aux raisins |
-| gentrification | 士绅化（隐含主题） | Twenty years ago the area was mostly deserted warehouses; now high-end lofts |
+| condominium | 公寓楼 | In its place was a half-built ten-story condominium building |
 
 ### ⭐⭐ 进阶
 

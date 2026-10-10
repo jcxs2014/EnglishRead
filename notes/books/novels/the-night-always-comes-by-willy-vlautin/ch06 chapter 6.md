@@ -84,8 +84,8 @@ modified: "2026-10-09"
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
 | bumper to bumper | 车距极近（交通拥堵） | The traffic was bumper to bumper |
-| cul-de-sac | 死胡同，尽头路 | At the edge of a cul-de-sac she parked |
-| Jägermeister | 野格利口酒（德国品牌） | In the glove box was a pint of Jägermeister |
+
+
 
 ### ⭐⭐ 进阶
 

@@ -84,7 +84,7 @@ modified: "2026-10-09"
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
 | pacing | 来回踱步（焦虑表现） | began pacing around the room |
-| orthopedic | 矫形的 | thick black orthopedic shoes |
+
 
 ### ⭐⭐ 进阶
 
@@ -92,7 +92,7 @@ modified: "2026-10-09"
 |---------|------|----------|
 | Pop-Tarts | 夹心烤饼（美国速食早餐） | In a locked cupboard was a package of Pop-Tarts |
 | box heater | 箱式取暖器 | She turned on a box heater |
-| bifocal | 双光镜片的 | Her glasses were bifocal |
+
 
 ### ⭐ 基础
 

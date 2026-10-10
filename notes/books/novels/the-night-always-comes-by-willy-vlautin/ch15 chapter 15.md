@@ -84,7 +84,7 @@
 
 **中文理解**: 电视是新的，但周围海报仍是旧物——Wipers、Dead Moon 等朋克乐队海报，记录着二十年前的地下音乐场景。
 
-**关键词**: band posters / punk / twenty years ago
+**关键词**: band posters / twenty years ago
 
 **为什么这样写**: 乐队名单建立 JJ 的文化身份（波特兰朋克场景）；新旧混杂显示他的停滞不前。
 
@@ -444,7 +444,7 @@
 
 **中文理解**: JJ 收到回复：Rodney 愿出三千美元购买，六点可到其家中交易——远低于实际价值（六千）。
 
-**关键词**: three grand / six o'clock / forty-five minutes
+**关键词**: three grand / at six / forty-five minutes
 
 **为什么这样写**: 低价显示剥削仍在继续；时间压力（45 分钟）限制 Lynette 的议价能力。
 

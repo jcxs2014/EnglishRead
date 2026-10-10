@@ -94,8 +94,8 @@ modified: "2026-10-09"
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
 | Peanut Buster Parfait | Dairy Queen 招牌花生圣代 | I just want a Peanut Buster Parfait for here and one to go |
-| cul-de-sac | 死胡同 | At the edge of a cul-de-sac she parked |
-| Jägermeister | 野格利口酒 | In the glove box was a pint of Jägermeister |
+
+
 
 ### ⭐⭐ 进阶
 
