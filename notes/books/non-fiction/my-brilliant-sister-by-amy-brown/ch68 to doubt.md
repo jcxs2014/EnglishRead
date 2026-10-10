@@ -36,11 +36,11 @@ modified: "2026-10-09"
 
 > **原句 3:** "‘How did you not expect it to be hard?’ I asked Ana when Hera was a few months old and Ana hadn’t slept more than half an hour at a time in weeks, and was sick with mastitis and the realisation that Simon would never feel the same burden she did."
 
-**中文理解：** Stella 回忆起 Hera 几个月大时，Ana 几周以来从没一次睡超过半小时，还得了乳腺炎，并意识到 Simon 永远不会感受到她承受的那种负担。Stella 问她：你怎么会没想到这很难？
+**中文理解：** Stella 回忆 Hera 几个月大时 Ana 得了乳腺炎，并意识到 Simon 永远不会感受到她承受的那种负担。她问 Ana：你怎么会没想到这很难？
 
-**关键词：** expect it to be hard · hadn’t slept more than half an hour · mastitis
+**关键词：** expect it to be hard · mastitis · the realisation that Simon would never feel the same burden
 
-**为什么这样写：** 这是 Stella 对"母职"最直接的一次发问。她的问题听起来像指责，但更接近一种真诚的不解——对她来说，做母亲一直像"受苦"，她不明白女人为什么会心甘情愿地在婚姻和生产中失去自己。这里交代了她对亲密与生育的长期戒备。Ana 被冒犯，但没有发作，而是给了她一个关于"期望与现实"的比喻。
+**为什么这样写：** Stella 这个问题表面上是问 Ana，实际上是在表达自己的困惑——她不理解为什么 Ana 会对"母职的代价"毫无预警。Ana 得了乳腺炎这个细节说明母职的代价是真实的、可量化的（身体的疼痛与功能障碍），而 Stella 质疑的是：为什么 Ana 在怀孕前不知道这一切有多难？这背后的预设是：女性被期待无怨地承担这些代价，而"没想到"本身就是一种结构性盲视。读者视角提示里关于 "Simon" 的那句话点出了这句话的另一层含义：Ana 在独自承担这一切。
 
 **读者视角提示：** 注意 "Simon" 这个名字——原文只在这里出现一次。Stella 说 Ana 意识到 Simon 永远不会感受到同样的负担，这是她对异性伴侣关系中不对等付出的观察。
 
