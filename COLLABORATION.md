@@ -90,6 +90,12 @@ recipe-for-rivals-by-kasey-stockton（言情长篇，逐章精读·精简格式�
 
 commit：060f66bc3（总览三篇 + gate 原件 + audit_book 修复）。未 push（待指令）。五步审查未做（待用户发起）。取证：.memory/raw-gates/recipe-for-rivals-by-kasey-stockton/2026-10-11-fullbook-gate.txt
 
+五步审查完成（a–e 全跑，用户主动发起）：**20 处阻断型已全部整改**。
+分类：说话人反转/顺序反 1（ch33）｜人称错配 4（ch32/ch38/ch25 等）｜引语截短 5（ch12/ch13/ch25×2/ch17）｜关键词越界 3（ch14/ch20/ch22）｜事实性断言虚构 7（ch07 虚构「他小时候也一样」/ch33「下一段」实为 23 段外/ch24 误写「母亲」/ch36/ch37）｜章号错 5 行（第7章→第9章）｜虚构姓氏 1（概述 Dusty Whitlock→Hayes）＋拼写 1（Kristin→Kristen）｜子项乱序 5 块｜结构损坏 2（ch24）。
+另剔除 13 处自写脚本假红、2 处跨段落拼接假红（未改内容）。
+整改后门禁：0 条阻断型｜verify_quotes 321/321｜总览 66/66｜check_vocab FAIL 0｜check_entities 0｜corruption_scan FAIL 0｜sweep_full 本章 295/跨章 0/全书查无 0｜check_anchor 凭空造词 0。
+审查原件 7 件见 .memory/raw-gates/recipe-for-rivals-by-kasey-stockton/2026-10-11-review-*.txt；commit b7a95d8a5。
+
 ### [2026-10-10 21:50 UTC] [Raccoon-Mac] → All
 
 《A Real Animal》(Emeline Atwood) 完工通报：十章齐备＋总览三篇，目录级 gate 0 条阻断型（完整 lane）
