@@ -109,7 +109,6 @@ modified: "2026-10-11"
 | shuddering | 颤抖的 | She drew in a shuddering breath. |
 | unwholesome | 不体面的 | How could we continue spending time together without me making it sound unwholesome? |
 | fluttering | 颤动、扑动 | I inhaled slowly, my eyes fluttering closed, and breathed in the sweet scent of her shampoo. |
-| cranking |  crank up 的变形：拖累、使难做（此处为 cramping） | It was so important to me that Nova understood I was willing and happy to take things slowly…which was absolutely cramping my game. |
 | fundraiser | 募捐活动 | Desi had to get Kendall to bed, so they left the fundraiser. |
 | Thanksgiving | 感恩节 | I wanted to shop for Christmas ornaments and plan a Thanksgiving menu with her. |
 
@@ -139,7 +138,7 @@ modified: "2026-10-11"
 | brown eyes | 棕色的眼睛 | She blinked, looking at me, her brown eyes searching mine as if she could look through them and read my entire history. |
 | calming presence | 令人安定的存在 | You were a calming presence for us. |
 | better choice | 更好的选择 | If he’d thought he was the better choice for raising me, then my parents had to have been a terrible option. |
-| cupholder | 杯架 | He didn’t text back, so I put my phone in the cupholder and pulled onto the road. |
+
 | eyes | 眼睛 | Nova closed her eyes. |
 
 ## 一句话总结
