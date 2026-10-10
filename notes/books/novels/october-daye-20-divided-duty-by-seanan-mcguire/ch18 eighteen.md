@@ -14,9 +14,9 @@ modified: "2026-10-10"
 
 ## 精读
 
-> **原句 1:** "I DON’T KNOW HOW LONG I spent dreaming the dreams of the arbor, of leaf and root and sap, moving slowly through flesh like softened stone. The blood of trees is their sap, and it flows through veins, just like it does for mammals, moving through the flesh of the tree according to existing channels."
+> **原句 1:** "I DON’T KNOW HOW LONG I spent dreaming the dreams of the arbor, of leaf and root and sap, moving slowly through flesh like softened stone. The blood of trees is their sap, and it flows through veins, just like it does for mammals, moving through the flesh of the tree according to existing channels. As a tree, I didn’t have a mouth, but I did have veins, and the sap that moved through them was tantalizingly close to my awareness, so close that I could almost reach out and touch it."
 
-**中文理解**： "我不知道自己花了多久，做那棵树的梦——叶、根与树液的梦，缓缓穿行于血肉之间，像穿过被泡软的石头。树的血就是它们的树液，它在叶脉里流动，就像哺乳动物的血在血管里流动：沿着既有的河道，穿过树的肌理。"
+**中文理解**： "我不知道自己花了多久，做那棵树的梦——叶、根与树液的梦，缓缓穿行于血肉之间，像穿过被泡软的石头。树的血就是它们的树液，它在叶脉里流动，就像哺乳动物的血在血管里流动：沿着既有的河道，穿过树的肌理。作为一棵树，我没有嘴，却有叶脉；在其中流动的树液离我的知觉近得诱人——近得我几乎能伸手碰到它。"
 
 **关键词**： dreaming the dreams of the arbor / softened stone / existing channels
 
@@ -40,7 +40,7 @@ modified: "2026-10-10"
 
 **关键词**： only new tree / a knife jammed through / dry detachment
 
-**为什么这样写**： Tybalt 的第一句台词不接"你是怎么找到我的"里的感情，而是递交一份物证清单：两条"唯一"（路中间的新树、树下立着蜡烛、枝上钉着刀）就是他搜索的全部依据——他把寻找妻子讲成侦探报告，用可验证的细节替换拥抱，这既是他的幽默，也是他的后怕。字面很好笑（一棵树被钉了刀），可读者笑到一半会意识到：那把刀、那些口子，正是他为了让她醒过来而必须做的事。收尾半句是本章最精的一次镜头调度：strain 与 detachment 是一对替换件，作者不写"他生气了"，只写他换了一副面孔——而她随即点破，这种"干燥"恰恰证明他有多难过；口是心非于是成了一个看得见的机械动作。
+**为什么这样写**： Tybalt 答话的第一句不接"你是怎么找到我的"里的感情，而是递交一份物证清单：两条"唯一"（路中间的新树、树下立着蜡烛、枝上钉着刀）就是他搜索的全部依据——他把寻找妻子讲成侦探报告，用可验证的细节替换拥抱，这既是他的幽默，也是他的后怕。字面很好笑（一棵树被钉了刀），可读者笑到一半会意识到：那把刀、那些口子，正是他为了让她醒过来而必须做的事。收尾半句是本章最精的一次镜头调度：strain 与 detachment 是一对替换件，作者不写"他生气了"，只写他换了一副面孔——而她随即点破，这种"干燥"恰恰证明他有多难过；口是心非于是成了一个看得见的机械动作。
 
 **读者视角提示**： 留意这里的两件道具：蜡烛与刀。本章它们会在不同的人手里反复出现——她举着蜡烛赶路、她的腰带里有一把用完即归鞘的刀、最后是他提着一盏蜡烛找到她。谁在什么时候拿着什么，谁就离危险更近一步。
 
@@ -60,7 +60,7 @@ modified: "2026-10-10"
 
 **关键词**： honey-gold / pitch-black / woodgrain whorls
 
-**为什么这样写**： 观察顺序是完全临床式的：先给基准线——一直以来是标准的 Torquill 蜜金色、血统的证明——再给现状；恐怖不来自颜色本身，而来自对照，Not any longer 用两个词的独立句完成一次身份判词。最刺人的搭配是 obscenely cheerful："欢快"本该属于一张脸，此处却用来形容虹膜的粉色，美被写成值得作呕的错误；而紧接着的 blooming 反向借来园艺的赞美词去写一场灾变——一冷一热两个词，指向同一个事实。收尾用让步结构做升级：That wasn't nearly as much of a problem as…把眼睛的异变降级成"还不算最麻烦的"，逼读者继续读下去；句末的 bark 承担全部重量，pale as birch 与 woodgrain whorls 都是木工词，与开篇那棵树的生理学首尾接榫。
+**为什么这样写**： 观察顺序是完全临床式的：先给基准线——一直以来是标准的 Torquill 蜜金色、血统的证明——再给现状；恐怖不来自颜色本身，而来自对照，Not any longer 用三个词的独立句完成一次身份判词。最刺人的搭配是 obscenely cheerful："欢快"本该属于一张脸，此处却用来形容虹膜的粉色，美被写成值得作呕的错误；而紧接着的 blooming 反向借来园艺的赞美词去写一场灾变——一冷一热两个词，指向同一个事实。收尾用让步结构做升级：That wasn't nearly as much of a problem as…把眼睛的异变降级成"还不算最麻烦的"，逼读者继续读下去；句末的 bark 承担全部重量，pale as birch 与 woodgrain whorls 都是木工词，与开篇那棵树的生理学首尾接榫。
 
 **读者视角提示**： 三样变化各通一条线索：眼睛连着血脉（Torquill 的金色被谁改写了？），树皮连着木化（她正在变成什么？），发辫里的藤蔓则回答"开花"这个动词。读到下一段的 blooming 时，不妨想一想：谁是园丁。
 

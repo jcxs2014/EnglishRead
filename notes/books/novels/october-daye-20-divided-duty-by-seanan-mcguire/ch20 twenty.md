@@ -24,13 +24,13 @@ modified: "2026-10-10"
 
 **读者视角提示**： 记住这三样道具的空间关系：房间（自我封闭）、走廊（唯一的通道）、隔音咒（本该保护、却挡不住梦）。本章的每一项"恢复"都用这类位置变动来报账，读时可以把它们连成一条由门内通到门外的路线。
 
-> **原句 2:** "That had really been the first sign that things might eventually get back to normal, or what passed for normal around our place. If Raysel was willing to go out at all, she was starting to feel safe again. That was really what mattered."
+> **原句 2:** "May had waited until the end of the week to book her spa day, cajoling Raysel into going with her. That had really been the first sign that things might eventually get back to normal, or what passed for normal around our place. If Raysel was willing to go out at all, she was starting to feel safe again. That was really what mattered."
 
-**中文理解**： "那才真正算得上是事情有可能慢慢恢复正常的第一个信号——或者说是恢复成我们这个家勉强算数的那种正常。只要 Raysel 肯出门，就说明她开始重新觉得安全了。这才是真正要紧的。"
+**中文理解**： "May 一直等到那一周的末尾才去预约她的水疗日，连哄带劝拉上了 Raysel 同去。那才真正算得上是事情有可能慢慢恢复正常的第一个信号——或者说是恢复成我们这个家勉强算数的那种正常。只要 Raysel 肯出门，就说明她开始重新觉得安全了。这才是真正要紧的。"
 
 **关键词**： the first sign / what passed for normal / what mattered
 
-**为什么这样写**： 三句话是三记收敛：第一句给判据（first sign），第二句给条件（willing to go out），第三句给结论（what mattered）——逻辑钉得很死，反而衬出她自定的标准之低：what passed for normal 这个自贬式插入语，等于承认这个家的"正常"本来就体面不到哪里去。作者不写"她好多了"，只写"她肯出门"，把恢复交还给可观察的行为；末尾独立成句的 That was really what mattered 是全章的价值观落点：不是复仇、不是清算，而是一个孩子肯重新迈出门。短句连续收拢、really 反复出现，节奏像在自我确认。
+**为什么这样写**： 四句话是一串收敛：先给出事实（May 哄着 Raysel 同去预约水疗），再给判据（first sign），再给条件（willing to go out），末句给结论（what mattered）——逻辑钉得很死，反而衬出她自定的标准之低：what passed for normal 这个自贬式插入语，等于承认这个家的"正常"本来就体面不到哪里去。作者不写"她好多了"，只写"她肯出门"，把恢复交还给可观察的行为；末尾独立成句的 That was really what mattered 是全章的价值观落点：不是复仇、不是清算，而是一个孩子肯重新迈出门。短句连续收拢、really 反复出现，节奏像在自我确认。
 
 **读者视角提示**： 这一句是全章的度量衡：此后所有人的处境都按"是否朝安全多走了一步"排序。注意动词链——预约（book）、出门（go out）、感到安全（feel safe），每一步都更抽象一层；最里面那层看不见，只能靠外面两步作证。
 

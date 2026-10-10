@@ -42,7 +42,7 @@ modified: "2026-10-10"
 
 **为什么这样写**： 全章第一次由 Raysel 自己开口算账，句法被压到极简：主语是 You（你带走了我），宾语是 my home（我的家），随后立刻给"家"下定义——不是某个特定地名，也不需要是；真正的条件只有两条：finally home、finally safe。两个 finally 把时态钉在 was：她说的是已经失去的东西，控诉句因此读起来像悼词。作者不给她一个形容词来骂人，只让她陈述"你拿走了什么"，让母亲的行为自己显形——比一句"你自私"要重得多。同时这也是一次站位宣告：在此之前，她是被谈论的对象（"还救得了的"那个孩子）；这段话之后，她是说话的人。
 
-**读者视角提示**： 这是本章的人物弧线拐点：此前她的台词只有哭声，此后是拳头。注意她说这话时两位成年护卫者主动向两侧让开、像掀开一道活的帘子让她上台——这场戏的权力，在她开口的那一刻就易主了。
+**读者视角提示**： 这是本章的人物弧线拐点：她从啜泣翻到握拳，从"Shut up!"翻到把账一条条说出来。注意她说这话时两位成年护卫者主动向两侧让开、像掀开一道活的帘子让她上台——这场戏的权力，在她开口的那一刻就易主了。
 
 > **原句 4:** "“Keeping a family together is never wrong,” she countered. “You may not like my methods, but you would do the same if you were backed into a corner. You would fight the world to save your child from being lost to it.”"
 
