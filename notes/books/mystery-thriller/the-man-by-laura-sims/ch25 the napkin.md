@@ -28,6 +28,12 @@ Judith 在家中独自等待一整天，没有等来电话——这种空白本�
 
 > **原句 1:** "Not a sound, except for the white noise of vacuuming the carpet, or the watery sound of mopping the kitchen floor. The phone never rang; no one knocked; not one person disturbed my solitude—though it felt more like abject loneliness by the end of the day."
 
+**中文理解：**
+"没有任何声音，只有吸尘器清洁地毯的白噪音，或者拖地时水的声响。电话从未响起；没有人敲门；没有一个人打扰我的独处——尽管到了那天结束时，它更像是彻底的孤苦。"
+
+**句子结构：**
+平行结构（not...except for...; The phone never rang; no one knocked; not one person disturbed my solitude）构建出单调重复的否定画面。"though it felt more like abject loneliness by the end of the day"中"abject loneliness"是"solitude"的戏剧性升级——从主动选择的独处到被动承受的绝望，用词精准捕捉了 Judith 心理状态的渐变。
+
 **关键词**：
 - **abject loneliness**：彻底的孤苦——比 solitude 更深，强调无助与被遗弃感
 - **white noise**：白噪音——vacuuming/mopping 的声音填补寂静，反而凸显空洞
@@ -43,6 +49,12 @@ Tom 回来时 Judith 给他一个"fierce embrace"——这是全章唯一的身�
 
 > **原句 2:** "It sullies my house—my spotless rooms and straightened pillows. I feel sullied myself, though I'm showered and dressed for dinner."
 
+**中文理解：**
+"它玷污了我的房子——我那一尘不染的房间和我整理好的枕头。我觉得自己也被玷污了，尽管我已经洗过澡、换好衣服准备晚餐。"
+
+**句子结构：**
+"It sullies my house"与"I feel sullied myself"形成平行结构——外界污染与内心污染并列。"spotless rooms"与"sullied myself"形成讽刺对比：物质的整洁无法阻挡精神的侵蚀。"though I'm showered and dressed"中though引导的让步状语从句进一步强化了这种对比：身体洁净不等于心灵洁净。
+
 **关键词**：
 - **sullies**：弄脏——电话铃声"污染"了她的家和自我
 - **spotless rooms**：一尘不染的房间——Judith 对秩序的控制欲
@@ -56,6 +68,12 @@ Judith 独自坐在餐桌前，叉子悬在半空，听 Tom 在厨房接电话�
 
 > **原句 3:** "Will the man just breathe and laugh, or will he say vile things? Will he tell Tom the full truth of how my thighs were scarred? Will he tell him I'm…"
 
+**中文理解：**
+"那个男人是会只呼吸和笑，还是会说些肮脏的话？他会不会把真相全部告诉 Tom——我大腿上的伤疤？他会不会告诉他我是……"
+
+**句子结构：**
+三个递进问句构成排比结构：呼吸/笑声（无声骚扰）→ 说出疤痕真相（暴露创伤）→ 说出"我是……"（身份定义被颠覆）。问句在"I'm"后戛然而止，留下空白——Judith 不敢说出那个词。问句本身即是她内心恐惧的外化，而不敢说完的词比任何具体描述都更令人不安。
+
 **关键词**：
 - **breathe and laugh**：呼吸和笑声——无声骚扰的特征
 - **vile things**：肮脏的话语——具体的污名内容
@@ -68,6 +86,12 @@ Judith 独自坐在餐桌前，叉子悬在半空，听 Tom 在厨房接电话�
 Tom 回来时"gives me a wobbly smile"——这个 wobbly 说明 Tom 也感受到了异常。对方要找 Gunderson，Judith 松了一口气，但这口气松不掉：
 
 > **原句 4:** "Relief floods through me, but it's temporary. There will be another call sometime, probably soon. Or the man will come to our door instead."
+
+**中文理解：**
+"如释重负涌遍全身，但这是暂时的。某天还会再有电话，可能很快。或者那个男人会直接来我们家门口。"
+
+**句子结构：**
+"Relief floods through me"与"but it's temporary"构成情绪的潮汐——短暂的释然立即被"temporary"否定。"There will be another call"与"Or the man will come to our door"构成递进：电话骚扰升级为当面骚扰。整句用一般将来时营造不可避免的压迫感——Judith 完全清醒地知道这只是喘息，下一次攻击随时会来。
 
 **关键词**：
 - **relief floods through me**：如释重负涌来——但立即被"temporary"否定
@@ -83,6 +107,12 @@ Tom 回来时"gives me a wobbly smile"——这个 wobbly 说明 Tom 也感受�
 晚餐时 Judith 发现自己嚼了很久却无法下咽：
 
 > **原句 5:** "If I swallow it, I'll become those things, won't I?"
+
+**中文理解：**
+"如果我咽下去，我就会变成那些东西，不是吗？"
+
+**句子结构：**
+"If I swallow it, I'll become those things"是条件复合句，条件（吞咽）与结果（变成那些东西）之间的因果关系被 Judith 视为绝对真理。"won't I?"是反义疑问句，她不需要回答——她自己已经确信这个等式：摄入 = 认同 = 异化。句子简短却有力，是全章的核心认知。
 
 **关键词**：
 - **swallow**：吞咽——身体动作，也是"接受污名内化"的隐喻

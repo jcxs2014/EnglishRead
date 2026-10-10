@@ -29,6 +29,12 @@ Paul 讲授 Garry Winogrand、Lee Friedlander、Diane Arbus、Robert Frank 这�
 
 > **原句 1:** "Paul's lecture on the great street photographers of recent years is like a taunt"
 
+**中文理解：**
+"Paul 关于近年来伟大街头摄影师的讲座就像是一种嘲弄。"
+
+**句子结构：**
+简单明了的类比句——"X is like a Y"，Paul 的讲座与"嘲弄"之间建立直接联系。值得注意的是Judith 选择"taunt"而非"challenge"或"criticism"：嘲弄暗示一种居高临下的责备，而创伤让她把外部世界的一切解读为针对自己的指控。名词"taunt"而非动词"to taunt"强调这是一种感受而非行为。
+
 **关键词**：
 - **taunt**：嘲弄——Judith 把外部世界解读为对自己的责备
 - **street photographers**：街头摄影师——Winogrand/Friedlander/Arbus/Frank
@@ -40,6 +46,12 @@ Paul 讲授 Garry Winogrand、Lee Friedlander、Diane Arbus、Robert Frank 这�
 Judith 主动让 Tom 把相机搬进暗房——不是为了用，而是为了"不看见它"。这是一种主动的视觉回避：
 
 > **原句 2:** "I finally asked Tom to carry my camera to the darkroom for me—mainly so I wouldn't have to see it every time I used the toilet or sink"
+
+**中文理解：**
+"我最终让 Tom 帮我把相机搬进暗房——主要是为了不用每次上厕所或洗手时都看见它。"
+
+**句子结构：**
+"I finally asked Tom to carry my camera to the darkroom for me"是主句，"mainly so I wouldn't have to see it every time I used the toilet or sink"是目的状语从句。破折号后的"mainly"揭示她真正目的——不是为了使用，而是为了回避。相机被隔离，暗房成为它的"监狱"，而"mainly"暗示她潜意识里还有其他未说明的理由。
 
 **关键词**：
 - **carry my camera to the darkroom**：把相机搬进暗房——主动的视觉回避
@@ -53,6 +65,12 @@ Judith 主动让 Tom 把相机搬进暗房——不是为了用，而是为了"�
 
 > **原句 3:** "giving me the foggy sense that I've misplaced something; then the sense of loss grows until I name it, acknowledge what's happened, and along with that, who or what I've become: Mrs. Judith Stanley, mother and housewife—that's all"
 
+**中文理解：**
+"给我一种模糊的感觉，仿佛我放错了什么东西；然后失去感越来越强，直到我命名它、承认所发生的一切，以及随之而来的我已经成为或正在成为的那个人或东西：朱迪思·斯坦利太太，母亲和家庭主妇——就这样。"
+
+**句子结构：**
+分号前后构成递进关系：从"misplaced something"的模糊感觉到"sense of loss grows"的具体化过程。"until I name it"是关键词——只有命名才能面对，只有面对才能承认。"Mrs. Judith Stanley, mother and housewife—that's all"中破折号后的"that's all"是全章最沉重的三个字：她曾经是摄影师，现在"只是"这些社会角色。身份的缩减在此刻完成。
+
 **关键词**：
 - **misplaced something**：放错了什么东西——失去摄影后的空虚
 - **Mrs. Judith Stanley, mother and housewife**：Judith 的社会角色定义——"that's all"是身份崩塌后的灰烬
@@ -64,6 +82,12 @@ Judith 主动让 Tom 把相机搬进暗房——不是为了用，而是为了"�
 章节核心问句：
 
 > **原句 4:** "But what's caused this? The camera's sudden absence, or the man's?"
+
+**中文理解：**
+"但是什么导致了这一切？相机的突然缺席，还是那个男人的？"
+
+**句子结构：**
+修辞问句"But what's caused this?"引出全章核心问题。两个并列的名词短语"The camera's sudden absence"与"the man's"构成选择——Judith 本能地将两者并置，因为在她心中相机与跟踪者是同一创伤的两个面向。问句不需要答案，因为两者都参与了她的空虚：失去摄影等于失去生命力，失去跟踪者等于失去另一种身份确认真。
 
 **关键词**：
 - **the camera's sudden absence**：相机突然缺席——失去摄影
@@ -77,6 +101,12 @@ Paul 问她要照片，她说"It’s been a busy week"——谎言，也是自�
 
 > **原句 5:** "I can't hide my uncomfortable pleasure or my swiftly reddening face"
 
+**中文理解：**
+"我无法隐藏我不舒服的愉悦，也无法隐藏我迅速涨红的脸。"
+
+**句子结构：**
+"I can't hide X or Y"结构中，X（不舒服的愉悦）与Y（涨红的脸）构成身体对意志的背叛——她嘴上说放下了，但身体在回应。"uncomfortable pleasure"揭示她对 Paul 的吸引感到羞耻，而"swiftly reddening face"是这种内心冲突的外在生理表现。两个"无法隐藏"组成双重暴露：她既无法隐藏愉悦，也无法隐藏羞耻。
+
 **关键词**：
 - **uncomfortable pleasure**：不舒服的愉悦——被 Paul 吸引但感到羞耻
 - **swiftly reddening face**：迅速涨红的脸——身体对意志的背叛
@@ -88,6 +118,12 @@ Paul 问她要照片，她说"It’s been a busy week"——谎言，也是自�
 全章以 Paul 的话和她的"goodbye"作结：
 
 > **原句 6:** "What can I do but nod my throbbing head and say goodbye?"
+
+**中文理解：**
+"除了点头我还能做什么呢？我头痛欲裂，然后说再见。"
+
+**句子结构：**
+"What can I do but..."是修辞反问句，暗示别无选择——"除了……还能做什么"在英语中表达一种无奈的顺从。"nod my throbbing head"与"say goodbye"之间用"and"连接，说明两个动作同时发生：她头痛欲裂，但仍然在回应、在点头、在说再见。修辞问句不需要回答，它本身就是答案：她只能妥协。
 
 **关键词**：
 - **nod my throbbing head**：点头——她头痛欲裂但仍在回应
