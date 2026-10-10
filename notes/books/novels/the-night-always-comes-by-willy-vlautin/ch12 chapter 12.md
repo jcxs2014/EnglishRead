@@ -114,7 +114,7 @@
 
 **中文理解**: Lynette 利用护理 Kenny 的经验指导 Kansas 处理癫痫——侧卧防窒息，取出刀具防误伤。
 
-**关键词**: seizures / on his side / choking
+**关键词**: seizures / on his side
 
 **为什么这样写**: 专业知识成为求生工具；冷静的指令显示 Lynette 在危机中恢复理性。
 

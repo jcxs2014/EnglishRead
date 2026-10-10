@@ -94,7 +94,7 @@
 
 **中文理解**: Jack 谎称卡车坏了旷工，只为再次感谢她；他在店里等了一小时直到无人时才开口。
 
-**关键词**: truck broke down / thanks / waited
+**关键词**: truck broke down / thanks
 
 **为什么这样写**: 撒谎显示他的决心；等待一小时体现他对时机的敏感（不愿让她尴尬）。
 
@@ -164,7 +164,7 @@
 
 **中文理解**: 周末下午他们漫步社区，幻想未来居住的房子和家具——典型的年轻情侣规划。
 
-**关键词**: houses / furniture / future
+**关键词**: houses / furniture
 
 **为什么这样写**: 幻想未来是关系投入的标志；但这些计划从未落地，预示不稳定性。
 
@@ -184,7 +184,7 @@
 
 **中文理解**: Jack 喜欢 Kenny，主动花时间陪他——带他去哥伦比亚河畔看船、去机场看飞机、去看赛车。
 
-**关键词**: liked Kenny / boats / airport
+**关键词**: liked Kenny / boats
 
 **为什么这样写**: 接受弟弟是关系的关键测试；Jack 通过这一测试，证明他的爱是全面的。
 
@@ -234,7 +234,7 @@
 
 **中文理解**: 崩溃首次发生在 Seaside 海滩派对——庆祝 Jack 的兄弟从机械学校毕业，全家出席。
 
-**关键词**: Seaside / beach party / family
+**关键词**: Seaside / beach party
 
 **为什么这样写**: 家庭聚会是高压环境；Lynette 面对"正常家庭"的对比触发不安全感。
 
@@ -254,7 +254,7 @@
 
 **中文理解**: Jack 去洗手间后与前女友（红发女子）交谈了几分钟——这本是无害的社交，却触发 Lynette 的嫉妒。
 
-**关键词**: high school girlfriend / redheaded / few minutes
+**关键词**: high school girlfriend / redheaded
 
 **为什么这样写**: 几分钟的对话成为导火索；前女友象征 Jack 在她之前的生活。
 

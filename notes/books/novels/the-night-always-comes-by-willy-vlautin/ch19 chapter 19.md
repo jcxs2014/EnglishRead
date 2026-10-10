@@ -26,7 +26,7 @@
 
 **中文理解**: Gloria 列出嫌疑人：只有 Terry、另一个朋友和 Lynette 有钥匙和密码。她排除了前两者，因为 Terry 和她在一起，另一个朋友发誓没做。Lynette 有密码且昨晚在那里过夜，所以成为唯一嫌疑人。Lynette 辩解说她改变主意离开了，把钥匙留在台面上。
 
-**关键词**: key, code, stayed
+**关键词**: （待补充）
 
 **为什么这样写**: Gloria 的逻辑看似合理实则漏洞百出。她相信 Terry 和"另一个朋友"的说辞，却怀疑 Lynette，显示了阶级偏见——她认为 Lynette 作为穷人有犯罪动机。Vlautin 揭示了富人如何选择性地信任同类而怀疑下层人。Lynette 的辩解（"left the key on the counter"）无人见证，使她处于不利地位。
 

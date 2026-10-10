@@ -38,7 +38,7 @@
 
 **中文理解**: Lynette 哭泣着讲述母亲威胁要在抚养权官司中揭露她的"不适合"（心理问题、可疑收入）。Shirley 用黑色幽默回应：她曾以为 Lynette 怀孕、被甩或家人去世，但随即自嘲地说 Lynette 没有男友，家人也不会"幸运"地死去。
 
-**关键词**: unfit, custody, black humor
+**关键词**: （待补充）
 
 **为什么这样写**: Shirley 的幽默是 coping mechanism（应对机制），用笑声缓解沉重话题。她的列举（怀孕、被甩、家人去世）涵盖了女性危机的典型剧本，但 Lynette 的处境比这些都复杂——她是被系统性地剥夺资源和支持。Vlautin 展示了底层人民如何用幽默来面对绝望，避免被痛苦压垮。
 
@@ -110,7 +110,7 @@
 
 **中文理解**: Shirley 决定不卖车给 Lynette，而是免费送给她。她拒绝任何争论、讨论或偷偷留钱的行为，称这是祝福 Lynette 的方式。她提到父亲喜欢棕发女性，所以会希望 Lynette 拥有这辆车。
 
-**关键词**: giving, no arguments, luck, brunettes
+**关键词**: （待补充）
 
 **为什么这样写**: Shirley 的慷慨是本段的高潮。2003 Buick LeSabre 虽然老旧，但对 Lynette 来说是自由的工具——没有车她无法离开波特兰，也无法在中西部生活。Vlautin 用"a thing about brunettes"这个轻松的理由来化解 Lynette 可能的愧疚感，使礼物显得自然而非施舍。这种给予方式尊重了 Lynette 的尊严：不是慈善，而是家族传承。
 

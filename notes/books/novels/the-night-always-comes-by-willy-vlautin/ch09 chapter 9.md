@@ -14,7 +14,7 @@
 
 **中文理解**: Gloria 外表精致但内在粗鄙——她编造了加州大学伯克利分校毕业的出身，实际来自伐木小镇 Clatskanie，父亲瘫痪、靠救济金生活。
 
-**关键词**: natural elegance / UC Berkeley / logging town
+**关键词**: natural elegance / UC Berkeley
 
 **为什么这样写**: 对比揭示 Gloria 的生存策略：美貌是商品，谎言是包装。Lynette 作为知情者既鄙视又依赖这种虚假。
 
@@ -84,7 +84,7 @@
 
 **中文理解**: Gloria 最终承认自己破产，只愿给五百美元——远不足以解决 Lynette 的困境，却是她能榨出的极限。
 
-**关键词**: broke / five hundred
+**关键词**: five hundred
 
 **为什么这样写**: 从八千到五百的落差凸显 Lynette 计划的失败；Gloria 的敷衍显示她对朋友的困境缺乏共情。
 
@@ -104,7 +104,7 @@
 
 **中文理解**: Gloria 离开后，Lynette 回到卧室查看保险箱——它未被固定，可以移动但太重无法独自搬运。她拍照记录后离开。
 
-**关键词**: pictures / safe / not bolted down
+**关键词**: pictures
 
 **为什么这样写**: 冷静的行动显示 Lynette 已进入犯罪模式；拍照是为后续行动做准备，理性压倒道德顾虑。
 

@@ -81,7 +81,7 @@ modified: "2026-10-09"
 
 **中文理解**：家庭据点 The Overlook 刚关门，他们吃了二十五年的地方被开发商买下建公寓。
 
-**关键词**：family place / twenty-five years / sold
+**关键词**：family place / twenty-five years / closed
 
 **为什么这样写**：用一家餐厅的消失象征旧生活的终结。"twice a month for twenty-five years" 是稳定的仪式，现在被金钱碾碎。
 

@@ -94,7 +94,7 @@
 
 **中文理解**: Lynette 意识到自己被内疚支配——祖父去世后，她从"Kenny 的姐姐"变成"Kenny 的护理员"。
 
-**关键词**: ruled by guilt / caregiver / broken
+**关键词**: （待补充）
 
 **为什么这样写**: "ruled by guilt" 是本章核心洞察；身份转变（sister → caregiver）揭示创伤的制度化。
 
@@ -234,7 +234,7 @@
 
 **中文理解**: 挂断后，Lynette 下楼开车，拨打 JJ Benada 的电话——凌晨四点，她想出售从保险箱获得的 cocaine。
 
-**关键词**: JJ / stay up all night / cocaine
+**关键词**: JJ / stay up all night
 
 **为什么这样写**: 联系 JJ 是回归堕落源头；"used to" 显示他们已七年未联系。
 
