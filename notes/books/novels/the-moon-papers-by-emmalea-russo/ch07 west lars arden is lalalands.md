@@ -49,7 +49,7 @@ POV: "Dean Konig（第三人称限知为主；前半为集体会议的对话体�
 
 **关键词**："Lalalands"、"L.A."、"ten years ago"、"with his wife, Vesta"
 
-**为什么这样写**：本节的情节推进被写成抢台词：Marla 先说 "I’m a step ahead of you guys. It only took like, seven clicks to find out who he is and what he does."，而 Dean 在同一轮里直接报出名字，换来 "You stole my line, Deano. How’d you know?"——识别外部威胁这件事在本节是荣誉，不是警报。Dean 的写法是把 Lalalands 缩写成 L.A. 再给出全名 Lars Arden，随后补上 "with his wife, Vesta. Vesta Furio."：东线那个人第一次被带进西线的会议桌，而且是以"某人的妻子"的身份被说出。"ten years ago" 与 ch01 那句 a young artist he’d met only once about a decade prior 是同一个时间刻度——本节让 Dean 记得别人不记得的年份，于是他的私人知识与集体知识从这一刻起混在一条线上；稍后他与 Vesta 的视频通话就是这条线继续用下去的样子。
+**为什么这样写**：本节的情节推进被写成抢台词：Marla 先说 "I’m a step ahead of you guys. It only took like, seven clicks to find out who he is and what he does."，而 Dean 在同一轮里直接报出名字，换来 "You stole my line, Deano. How’d you know?"——识别外部威胁这件事在本节是荣誉，不是警报。Dean 的写法是把 Lalalands 缩写成 L.A. 再给出全名 Lars Arden，随后补上 "with his wife, Vesta. Vesta Furio."：东线那个人在这一刻被摆上西线的会议桌，而且是以"某人的妻子"的身份被说出。"ten years ago" 与 ch01 那句 a young artist he’d met only once about a decade prior 是同一个时间刻度——本节让 Dean 记得别人不记得的年份，于是他的私人知识与集体知识从这一刻起混在一条线上；稍后他与 Vesta 的视频通话就是这条线继续用下去的样子。
 
 **读者视角提示**：本节稍后 Marla 就 Kelly 一事追问 Dean："How do you know? Did you talk to her? We agreed to share everything we know, Dean! You consented to that."——集体依赖他的记忆，同时盘问他，两件事在同一场会里并行。
 
@@ -97,7 +97,7 @@ POV: "Dean Konig（第三人称限知为主；前半为集体会议的对话体�
 
 **关键词**："There are no paintings"、"Yeah, and?"、"visual randomness"、"Free, Take Some"
 
-**为什么这样写**：报道以一句缺失开头上场，而本节读者刚从第 5 块知道画在哪儿——不在官方工作室，在街对面那间谁也不许看的秘密工作室。于是"没有画"对 Dean 是常识、对职业记者是一个需要被耸肩回应的事实，信息等级在这一句里被排好队。"Yeah, and?" 是 Vesta 在本节里的第一句直接引语，只有两个词，防御先于内容。"a kind of visual randomness"（山羊、破玩具、免费自取的牌子）与她稍后"要把一切清空"的说法相反，也就是说，她的乡间环境并不配合她的哲学；而 "Free, Take Some" 与 ch06 里 Velour 那句 "But I’d like to give it to you" 是同一种无回报的给予——母女各用一块牌子、一张长凳说同一件事。
+**为什么这样写**：报道以一句缺失开头上场，而本节读者刚从第 5 块知道画在哪儿——不在官方工作室，在街对面那间谁也不许看的秘密工作室。于是"没有画"对 Dean 是常识、对职业记者是一个需要被耸肩回应的事实，信息等级在这一句里被排好队。"Yeah, and?" 只有两个词，是 Vesta 在报道里开口回应的方式——先一个耸肩，再一句话，防御先于内容。"a kind of visual randomness"（山羊、破玩具、免费自取的牌子）与她稍后"要把一切清空"的说法相反，也就是说，她的乡间环境并不配合她的哲学；而 "Free, Take Some" 与 ch06 里 Velour 那句 "But I’d like to give it to you" 是同一种无回报的给予——母女各用一块牌子、一张长凳说同一件事。
 
 **读者视角提示**：这篇报道是 Dean 自己点开的（"He revisited the article whenever she felt out of reach."）——本节最"客观"的材料其实是他挑来读的东西。
 

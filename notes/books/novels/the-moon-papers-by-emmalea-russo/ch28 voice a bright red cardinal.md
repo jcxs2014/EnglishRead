@@ -13,13 +13,13 @@ POV: "未署名的第一人称口述者（有一个女儿；本章的谈话对�
 - **核心事件**：他说他相信她还活着、在休息；他整夏都感觉她在绕圈，像一只动物绕到找到一个能睡的地方才躺下；他依次报出一只红得过分的主红雀、一只躺在充气泳池边的狗、一只被他再轧一次的浣熊、一种没有花瓣只有尖刺状细丝的粉色花；最后三句他把"她不会死"说成断言，并补了一句关于自己女儿的虚拟句
 - **关键人物**：她（本章末句之前不具名）、Vesta（本章只在这最后一句里被点名一次）、说话者的女儿（只出现在虚拟句里，本章不给名字、不给年龄）
 - **章节主题**：一个人能否用"绕圈""颜色""再压一次已经扁了的躯体"这类感官证据来判定另一个人是死是活——本章给了信念，没给根据
-- **上章回顾**：第 27 节（全书第 27 章，Vesta）里她画完画被 Lars 的手放回身体上，他吻她、把她手上的颜料舔掉；那两块"两地分裂"的句式由她自己说完（她在干燥的沙漠里，她也在这里）
+- **上章回顾**：第 27 节（全书第 27 章，Vesta）里她画完画，被一只手放回身体上、被吻、被舔掉手上的颜料；那两块"两地分裂"的句式由她自己说完（她在干燥的沙漠里，她也在这里）
 
 ---
 
 ## 精读
 
-> **原句 1:** «Q1»
+> **原句 1:** Well, the summer’s not over yet. I believe she is alive and resting. Some things stand out in my mind. For instance, I had the sense all summer that she was circling and circling the way an animal circles and circles until it finds a spot to sleep. Nothing changes about the space itself. But the movement the animal makes before it decides to lay down changes the space, in a sense.
 
 **中文理解**：嗯，夏天还没过完。我相信她还活着，在休息。有几样东西在我脑子里很突出。比方说，我整个夏天都有这样一种感觉：她一直在绕圈、绕圈，就像一只动物绕圈、绕圈，直到它找到一个可以躺下睡觉的地点。空间本身并没有任何改变。可是那只动物在决定躺下之前所做的事，改变了这个空间，从某种意义上说。
 
@@ -31,19 +31,19 @@ POV: "未署名的第一人称口述者（有一个女儿；本章的谈话对�
 
 ---
 
-> **原句 2:** «Q2»
+> **原句 2:** I also remember, while walking, a bright red cardinal. The reddest cardinal I’d ever seen among the total green. Time passes differently now. Don’t you think? The cardinal was like a signal, a warning. And I remember a dog, maybe a stray, lying drowsily beside an inflated swimming pool, half-filled with leafy stagnant water under a matching blue sky.
 
 **中文理解**：我还记得，走路的时候，一只鲜红的北美红雀。我在一片绿里面见过的最红的一只红雀。现在时间过得不一样。你不这样觉得吗？那只红雀像是一个信号，一个警告。我还记得一只狗，也许是条野狗，昏昏欲睡地躺在充了气的游泳池旁边，池子里半是漂着叶子的死水，头顶的蓝色天空和它配成一副颜色。
 
 **关键词**：cardinal、reddest、total green、signal、stagnant、matching
 
-**为什么这样写**：先给颜色再给最高级：a bright red cardinal 之后是 The reddest cardinal I’d ever seen among the total green——整片绿被压成背景，好让那一点红成为坐标。紧接着 Time passes differently now. Don’t you think? 被卡在两个记忆中间：本章的时间感不是被他讲出来的，而是被这个插入句演示出来的（他正说着红雀就说到"现在时间不一样了"），而那句反问是全章唯一一处向听话人索要同意。The cardinal was like a signal, a warning 用两个同位名词收尾却不给内容——信号与警告都关于什么，本章不说。最后那句狗是本章最长最静的一句：maybe a stray 的犹疑保留（他不确认那是不是别人的狗）、drowsily 一词让她"在休息"（原句 1）的那副困乏有了身体、half-filled with leafy stagnant water 把水写成不动的、发臭的、有叶子的，而 under a matching blue sky 里 matching 一词承认了这画面像布景——他记得的是一整套配色，不是一件事实。
+**为什么这样写**：先给颜色再给最高级：a bright red cardinal 之后是 The reddest cardinal I’d ever seen among the total green——整片绿被压成背景，好让那一点红成为坐标。紧接着 Time passes differently now. Don’t you think? 被卡在两个记忆中间：本章的时间感不是被他讲出来的，而是被这个插入句演示出来的（他正说着红雀就说到"现在时间不一样了"），而那句反问是全章唯一一处向听话人索要同意。The cardinal was like a signal, a warning 用两个同位名词收尾却不给内容——信号与警告都关于什么，本章不说。最后那句狗是原句 2 里最长的一句，也最静：maybe a stray 的犹疑保留（他不确认那是不是别人的狗）、drowsily 一词让她"在休息"（原句 1）的那副困乏有了身体、half-filled with leafy stagnant water 把水写成不动的、发臭的、有叶子的，而 under a matching blue sky 里 matching 一词承认了这画面像布景——他记得的是一整套配色，不是一件事实。
 
 **读者视角提示**：a signal, a warning 与原句 3 里那些粉色的花都在替她说事情，但本章拒绝解释——本节群的证人只负责报出颜色与形状。
 
 ---
 
-> **原句 3:** «Q3»
+> **原句 3:** I remember a raccoon too. It was already dead, like so many things. I ran over it again. And it felt terribly good. To further flatten a body already flat. I remember a lack of air. And pink flowers on trees in the later part of the season, ones I’d never seen. The flowers did not have petals, but thin strands of spiked hair. She’s not dead. Vesta will turn up when and if she wants. If my daughter were dead, I’d know it in my bones and heart.
 
 **中文理解**：我还记得一只浣熊。它已经死了，就像那么多东西一样。我又从它身上轧过一次。而那感觉好极了。把一具已经扁了的身体再压扁一点。我记得有一种透不过气的感觉。还有季末树上的粉色花，我从没见过的品种。那些花没有花瓣，只有一缕一缕尖刺似的细丝。她没死。Vesta 会在她愿意的时候、如果她愿意的时候出现。要是死的是我女儿，我的骨头和心里会知道。
 
@@ -57,15 +57,37 @@ POV: "未署名的第一人称口述者（有一个女儿；本章的谈话对�
 
 ## 本章词汇
 
+### ⭐⭐⭐ 高级
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| differently | 以不一样的方式、不同地 | Time passes differently now. |
+| half-filled | 半满的 | And I remember a dog, maybe a stray, lying drowsily beside an inflated swimming pool, half-filled with leafy stagnant water under a matching blue sky. |
+
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
+| instance | 例子、比方 | For instance, I had the sense all summer that she was circling and circling the way an animal circles and circles until it finds a spot to sleep. |
 | circling | 绕圈、盘旋 | For instance, I had the sense all summer that she was circling and circling the way an animal circles and circles until it finds a spot to sleep. |
-| stagnant | 停滞的、死水般的 | And I remember a dog, maybe a stray, lying drowsily beside an inflated swimming pool, half-filled with leafy stagnant water under a matching blue sky. |
+| movement | 动作、移动 | But the movement the animal makes before it decides to lay down changes the space, in a sense. |
+| drowsily | 昏昏欲睡地 | And I remember a dog, maybe a stray, lying drowsily beside an inflated swimming pool, half-filled with leafy stagnant water under a matching blue sky. |
+| swimming | 游泳（本章指泳池） | And I remember a dog, maybe a stray, lying drowsily beside an inflated swimming pool, half-filled with leafy stagnant water under a matching blue sky. |
+| stagnant | 停滞不流的、死水般的 | And I remember a dog, maybe a stray, lying drowsily beside an inflated swimming pool, half-filled with leafy stagnant water under a matching blue sky. |
 | terribly | 极其、非常 | And it felt terribly good. |
+| daughter | 女儿 | If my daughter were dead, I’d know it in my bones and heart. |
 
+### ⭐ 基础
+
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
+| later part | 后段、接近尾声的那一段 | And pink flowers on trees in the later part of the season, ones I’d never seen. |
+| signal | 信号 | The cardinal was like a signal, a warning. |
+| space | 空间 | But the movement the animal makes before it decides to lay down changes the space, in a sense. |
+| stray | 流浪的、无人认领的 | And I remember a dog, maybe a stray, lying drowsily beside an inflated swimming pool, half-filled with leafy stagnant water under a matching blue sky. |
+| total green | 一整片绿 | The reddest cardinal I’d ever seen among the total green. |
+| warning | 警告 | The cardinal was like a signal, a warning. |
 
 ## 一句话总结
 
-这位未署名的证人用绕圈的动物、最红的主红雀、半池死水与一只被再轧一次的浣熊断言她没死，最后却把"知道"二字只留在关于女儿的那句虚拟语气里。
+他用绕圈的动物、最红的红雀、半池死水与再轧一次的浣熊断言她没死，却把"知道"二字只留在关于女儿的虚拟句里。

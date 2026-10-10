@@ -1,17 +1,17 @@
 ---
 title: "The Moon Papers by Emmalea Russo: Chapter 22 — Vesta, Extraordinary Departures"
 chapter: "Part Two: Extraordinary Beings Have Extraordinary Departures（第 3 节，全书第 22 章）"
-POV: "Vesta Furio 为主、后段切至 Dean Konig（第三人称限知，Pennsylvania 车内与电话两端）"
+POV: "Vesta 为主、后段切至 Dean（第三人称限知，车内与电话两端）"
 ---
 
 # 22. Vesta
 
 ## 本章导航
 
-- **时空坐标**：八月某晨，Vesta 开车走 Pennsylvania 乡间的 California Road，从自家往村里去，再停在母亲的老屋门前；通话另一端的 Dean 只以屏幕上的影像在场；末段切到 Dean 挂断电话后躺回床上做梦
+- **时空坐标**：八月某晨，Vesta 开车走乡间的 California Road，从自家往村里去，再停在母亲的老屋门前；通话另一端的 Dean 只以屏幕上的影像在场；末段切到 Dean 挂断电话后躺回床上做梦
 - **叙事视角**：第三人称限知，前半贴 Vesta，自 Dean 打量那栋蛋色外墙的老屋起转贴 Dean；对话句有 yelled / told / said 一类标签，内心段没有
 - **核心事件**：她把摄像头镜头拧向副驾一侧的车窗，载着看不见的 Dean 开快车；途经她读过的学校时她提起高中一次吃药致幻的下午；在母亲门口她先坦白对家人的怒、再坦白那些秘密的画；Dean 要求她把手机转过来被一个词的拒绝挡回；Dean 挂断后梦见月亮成因的"捕获说"
-- **关键人物**：Vesta Furio（开车的人）、Dean Konig（屏幕上的同乘者）、Lars（本章只出现在她的怒与怨里，未说明与她的关系）、Velour（老屋里窗前出现、后走到屋外的女人，本章未说明她与 Vesta 的关系）、Mark 与 Gregory（高中那个下午的另外两个人）
+- **关键人物**：Vesta（开车的人）、Dean（屏幕上的同乘者）、Lars（本章只出现在她的怒与怨里，未说明与她的关系）、Velour（老屋里窗前出现、后走到屋外的女人，本章未说明她与 Vesta 的关系）、Mark 与 Gregory（高中那个下午的另外两个人）
 - **章节主题**：看见与被看见可以被装置和角度重新分配——她一手关掉自己被看的可能，一手在同一分钟里说出最不该说的话
 - **上章回顾**：第 21 节（全书第 21 章）是一段未署名口述，说话者自称几乎不拿工资替画廊干活，并提出"那些画不是写生，而是画廊主人与 Vesta 合谋"的推测；该推测属上一节，本章不对其判定
 

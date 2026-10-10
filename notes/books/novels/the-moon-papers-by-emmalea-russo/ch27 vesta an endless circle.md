@@ -1,7 +1,7 @@
 ---
 title: "The Moon Papers by Emmalea Russo: Chapter 27 — Vesta, An Endless Circle"
 chapter: "Part Two: Extraordinary Beings Have Extraordinary Departures（第 8 节，全书第 27 章）"
-POV: "Vesta Furio（第三人称限知，Pennsylvania 的家中； Dean Konig 只以"被描述的反在场"出现）"
+POV: "Vesta（第三人称限知，她自己那处一层住房的家中；Dean Konig 只以\"被描述的反在场\"出现）"
 ---
 
 # 27. Vesta

@@ -11,7 +11,7 @@ POV: "Velour（第三人称限知，中段一次短暂移交 Radko；她的乡�
 - **时空坐标**：夜里，Velour 老宅的室内与后门台阶——路灯（不是月亮）照着她手里的迷你长凳开场，Radko 在门外站了一会儿、敲两下门进屋，上阁楼装摄像头，最后搬着长凳走向卡车；同一夜阁楼里那窝幼蝠在两人各自的手机屏幕上被看见
 - **叙事视角**：第三人称限知，紧贴 Velour；中段以 "Unbeknownst to Velour" 把视线交给窗外的 Radko，随后收回；对话靠 "she asked him"、"he said" 这类叙述标签标明说话人
 - **核心事件**：Radko 说明他 legally 不能移动一处活跃的 maternity colony，只能在阁楼装摄像头远程观察；Velour 坚持留下小的那只、把真尺寸的温莎长凳送他；她跪在他腿边为 "that rogue pup" 道歉；两人并肩坐着看手机里的幼蝠，她 "getting lighter and lighter"，最后开门看他搬走长凳
-- **关键人物**：Velour（本节唯一在场的主人）、Radko Toth（本节写 he was no longer a man named Radko Toth；他的妻子在对话里被说出全名 Chloe Toth，女儿的第一个词是 apple）、Myotis lucifugus（本节点名的濒危小棕蝠学名）、Vesta Furio（全章未出场，只存在于 Radko 的辨认与 Velour 关于"话"的回忆里）
+- **关键人物**：Velour（本节开场即在场、多数段落跟着她）、Radko Toth（本节写 he was no longer a man named Radko Toth；他的妻子在对话里被说出全名 Chloe Toth，女儿的第一个词是 apple）、Myotis lucifugus（本节点名的濒危小棕蝠学名）、Vesta Furio（全章未出场，只存在于 Radko 的辨认与 Velour 关于"话"的回忆里）
 - **章节主题**：变轻＝清空人生，而清空对象里包括法律与自然都不许她清空的一窝蝙蝠——"放手"计划从第一步起就有一个不肯被放走的他者
 - **上章回顾**：ch05（West）Dean 把治疗兔 Una 抱到怀孕七个月的驻留艺术家 Binky Stratford 床边陪她静坐；Bryan 反复追问 Kelly 是否在与外界联络、CCC 是否由 Voortelle Corporation 资助，并断言 Moon2 才是一切，临走提醒 Dean 去清理角落那堆兔粪
 
@@ -25,7 +25,7 @@ POV: "Velour（第三人称限知，中段一次短暂移交 Radko；她的乡�
 
 **关键词**："Streetlight"、"not moon"、"miniature bench"、"lighter"、"lift off"
 
-**为什么这样写**：开篇第一句就把西线节里那轮始终在场的月亮换掉——"Streetlight, not moon"，东线这一节的夜开头不被月亮照，只被人造光照明，这与本书"要升起的第二颗月亮"正好相反：本节的人造光在地上。around and around 的重复把"转"写成实际时长，读者跟着这件小家具绕圈。随后三句递进（"Her house would get lighter. She would get lighter. So light they’d lift off."）主语从房子滑到人再滑到"两者合起来的它们"，变轻因此不是比喻而是本章的物理指标。收尾 "She smiled wide" 用最普通的动词把这段狂想落到一个身体表情上。
+**为什么这样写**：开篇第一句就把西线节里那轮始终在场的月亮换掉——"Streetlight, not moon"，东线这一节的夜开头不被月亮照，只被人造光照明，这与本书"要升起的第二颗月亮"正好相反：本节的人造光在地上。可查一查本节 moon 这个词出现的次数——只有一次，就在这一句的否定里；而 ch01、ch03、ch05 三个 West 节都反复写着月亮。around and around 的重复把"转"写成实际时长，读者跟着这件小家具绕圈。随后三句递进（"Her house would get lighter. She would get lighter. So light they’d lift off."）主语从房子滑到人再滑到"两者合起来的它们"，变轻因此不是比喻而是本章的物理指标。收尾 "She smiled wide" 用最普通的动词把这段狂想落到一个身体表情上。
 
 **读者视角提示**：记住"轻"这个计量单位——本节最后一只长凳被搬走时它要兑现，而 Radko 那句 "This is a major day" 也压在同一个刻度上。
 
@@ -61,7 +61,7 @@ POV: "Velour（第三人称限知，中段一次短暂移交 Radko；她的乡�
 
 **关键词**："the real one, the big one"、"genuine Windsor bench"、"worth quite a lot"、"I want you to have it"
 
-**为什么这样写**：这段买卖式独白里没有一句是完整的商量："Do you know what that is?" 她自己发问又不等回答，"It’s over there. Near the Sheraton Cylinder desk." 用一件家具的名字给另一件家具定位——她的屋子里所有物品只能互相指认，没有门牌、没有方位，这是囤积者独有的空间语法。genuine 与 worth quite a lot 先立价格，再用 "But I’d like to give it to you" 的 but 把它推翻，赠送因此被写成一次主动的失重动作，正对上第 1 块的 lighter。但她也当场划出界限：小的留、大的走——"放手"从来不是清空一切，是选择清空的规格。紧接的叙述给出对方一侧："He looked all around the room, but didn’t understand what any of those words meant. He wanted whatever she was giving him, though."（他听不懂那些词，但她在给什么都想要）——本节用最少的字给 Radko 下的一句判词就在这儿。
+**为什么这样写**：这段买卖式独白里没有一句是完整的商量："Do you know what that is?" 她自己发问又不等回答，"It’s over there. Near the Sheraton Cylinder desk." 用一件家具的名字给另一件家具定位——她的屋子里所有物品只能互相指认，没有门牌、没有方位，这是囤积者独有的空间语法。genuine 与 worth quite a lot 先立价格，再用 "But I’d like to give it to you" 的 but 把它推翻，赠送因此被写成一次主动的失重动作，正对上第 1 块的 lighter。但她也当场划出界限：小的留、大的走——"放手"在这里不是清空一切，是选择清空的规格。紧接的叙述给出对方一侧："He looked all around the room, but didn’t understand what any of those words meant. He wanted whatever she was giving him, though."（他听不懂那些词，但她在给什么都想要）——本节给 Radko 的一句判词就在这儿。
 
 **读者视角提示**：本节的 give 没有回报预期；对照稍后她跪着说的两次道歉（"I’m sorry" 与 "I am sorry"），赠予与歉意在这里像同一种动作的两副面孔。
 
@@ -97,7 +97,7 @@ POV: "Velour（第三人称限知，中段一次短暂移交 Radko；她的乡�
 
 **关键词**："back door"、"over his head"、"truck bed"
 
-**为什么这样写**：全章结束在一个开门的动作上——她替他开门（"Velour opened the back door"），而这个方位词在第 2 块里已经带过天使（"an angel at her back door"）：章末同一扇门被打开，天使性被撤走，只剩一个举着家具的人。over his head 让长凳高过他的头，视觉上正是本节"人的尺寸"的东西被真正抬走的那一秒；truck bed 把东线这处乡间劳动写实落地。她只是 watch——她那份变轻计划里唯一被执行的一步由他搬走，而叙述不给情绪注解，读者只能自己判断她是轻松还是失去。
+**为什么这样写**：全章结束在一个开门的动作上——她替他开门（"Velour opened the back door"），而这个方位词在第 2 块里已经带过天使（"an angel at her back door"）：章末同一扇门被打开，天使性被撤走，只剩一个举着家具的人。over his head 让长凳高过他的头，视觉上正是本节"人的尺寸"的东西被真正抬走的那一秒；truck bed 把东线这处乡间劳动写实落地。她只是 watch——她那份变轻计划里被执行的那一步由他搬走，而叙述不给情绪注解，读者只能自己判断她是轻松还是失去。
 
 **读者视角提示**：对照西线 ch01 的结尾 "Outside, the test moon got very still."——一颗还没充气的人造月亮停着不动，一条已有人尺寸的真长凳被抬走，本书两条线各自用一件"物"收尾。
 
