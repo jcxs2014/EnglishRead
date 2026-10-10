@@ -64,7 +64,7 @@ title: Miss Bates 精读 11 · Chapter 10（Part One）
 
 **读者视角提示**：注意 Mrs. Fairfax 这个称呼——出嫁后的 Jeannette 在账本里只是"一笔嫁妆"；Henrie 想让她回家，而债主们用另一种方式把她计算在家之外。
 
-## 本章词汇
+## 词汇分级
 
 ### ⭐⭐⭐ 高级
 
