@@ -129,7 +129,13 @@ for f in sorted(glob.glob(f"{book}/ch*.md"), key=lambda x: int(re.search(r"ch(\d
             continue
         tiers = re.split(r"(?m)^### ", v.group(1))[1:]
         for ti in tiers:
-            rows = [x for x in ti.split("\n") if x.startswith("| ") and "词/短语" not in x and not x.startswith("|---")]
+            # ⚠️ 2026-10-10 修正（The Man ch02/ch71/ch79 实测假红）：
+            #    原判据只认表格行（`| ` 前缀），但本书使用 bullet 列表格式
+            #    （`- **word** ⭐⭐⭐ — 释义`）=> rows 恒为空，合法词表被误判。
+            #    **同时认表格行和 bullet 行**作为有效词条。
+            rows = [x for x in ti.split("\n")
+                    if (x.startswith("| ") and "词/短语" not in x and not x.startswith("|---"))
+                    or x.startswith("- **")]
             # ⚠️ 2026-10-02 修正（The Whispers 终验实测 ch41 假红）：空档的**既有先例**
             #    是写一行中文说明（`（本章无高级词条）` / `（本章过短，无基础词条）`），
             #    原判据只认表格行 ⇒ 合法空档被报「只有表头没有词条」。

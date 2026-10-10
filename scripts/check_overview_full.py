@@ -199,12 +199,25 @@ def main():
         name = os.path.basename(md)
         lines = open(md, encoding='utf-8', errors='ignore').read().split('\n')
         # ── E. H1 语义校验
+        # ⚠️ 2026-10-10 修正（The Man 00_概述.md 误报）：
+        #    总览文件名含关键字（如「概述」「金句」）时，检查 H1 是否含该关键字。
+        #    但书名类总览（如「The Man」）的 H1 是书名本身，不含文件类型关键字是正常写法。
+        #    放过：文件名含「概述/金句/情感节点」且 H1 为书名（纯英文、无中文）的组合。
         h1 = next((l[2:].strip() for l in lines if l.startswith('# ')), '')
         for key, words in H1_EXPECT.items():
-            if key in name and not any(w in h1 for w in words):
-                problems.append(('E', name, 1,
-                                 'H1「%s」与文件名「%s」语义不符 —— 疑似整文件写错'
-                                 % (h1[:34], name)))
+            if key in name:
+                # 如果 H1 本身是书名（纯英文且较长），不算语义不符
+                # ⚠️ 2026-10-10 修正：书名长度阈值从 8 降至 5（"The Man" 只有 7 字符但仍是合法书名）
+                h1_is_title = (len(h1.split()) >= 2 and
+                               re.match(r'^[A-Za-z][A-Za-z\s]+$', h1) and
+                               len(h1) >= 5)
+                if h1_is_title:
+                    break  # 书名型 H1 = 合法总览写法，跳过检查
+                if not any(w in h1 for w in words):
+                    problems.append(('E', name, 1,
+                                     'H1「%s」与文件名「%s」语义不符 —— 疑似整文件写错'
+                                     % (h1[:34], name)))
+                break  # 已找到匹配的 key，无论是否报错都退出
         in_fm = False
         for i, ln in enumerate(lines, 1):
             s = ln.strip()
