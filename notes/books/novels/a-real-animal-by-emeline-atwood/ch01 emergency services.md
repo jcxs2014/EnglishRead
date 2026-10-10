@@ -6,11 +6,11 @@ modified: "2026-10-10"
 # 01. Emergency Services
 
 ## 本章导航
-**一句话概括**：露西（Lucy）倒叙毕业当天她在宿舍变成豹子、爬上全校最大的橡树、被母亲坐云梯吊篮抱下来的整场「紧急救援」，以及随后两周的沉默、与科尔（Cole）的分手、和母亲在墓地边逼她保证「别再来一次」；她真正守住的不是澳洲那一夜，而是「我再也没能变成豹子」。
+**一句话概括**：露西（Lucy）倒叙毕业前夕（课程已结、她再没踏回校园、文凭由邮寄、典礼也缺席）她在宿舍变成豹子、爬上全校最大的橡树、被母亲坐云梯吊篮抱下来的整场「紧急救援」，以及随后两周的沉默、与科尔（Cole）的分手、和母亲在墓地边逼她保证「别再来一次」；她真正守住的不是澳洲那一夜，而是「我再也没能变成豹子」。
 **情感弧线位置**：全书起势。开篇不是低谷而是「失去之后的原地」——她已经变回人，却从此带着一种无法退回的观看方式；本章把母女、友谊、爱情三段关系的裂缝同时摊开，一条也不解决。
-**Tropes 兑现/反转**：兑现「变形记」式开场（以动物视角反照人的处境）。反转在讲述欲本身：她一路渴望有人能听她讲豹子（妹妹不愿听、男友不被允许问、母亲两周不说话），而唯一一次摊牌被母亲改写成「别再来一次这种出格举动」——倾诉型开篇在这里被处理成一场始终没有听众的讲述。
+**Tropes 兑现/反转**：兑现「变形记」式开场（以动物视角反照人的处境）。反转在讲述欲本身：她一路渴望有人能听她讲豹子（姐姐不愿听、男友不被允许问、母亲两周不说话），而唯一一次摊牌被母亲改写成「别再来一次这种出格举动」——倾诉型开篇在这里被处理成一场始终没有听众的讲述。
 **人物弧线**：露西从「靠他人的确认活着」转向「确认失效」。豹子的眼睛第一次让她看见室友身体的多余，也让她第一次知道自己的身体能被怎样对待；到本章末尾，她已经能自行判定「我不是坏人」，不再需要任何人背书。
-**叙事手法**：第一人称回忆体，三层时间交错（毕业后的两周／前一个夏天澳洲实习／更早的母亲冷战史），以「沉默」作节拍器；豹子视角承担陌生化——香薰机被看成一只肥胖的鸽子、宿舍被闻成没有出口的笼子。性创伤不作正面叙述，先以气味、口令（「girls traveling alone」的告诫）与身体拒答的形式渗出来。
+**叙事手法**：第一人称回忆体，三层时间交错（变形之后两周的沉默／前一个夏天澳洲实习／更早的母亲冷战史），以「沉默」作节拍器；豹子视角承担陌生化——香薰机被看成一只肥胖的鸽子、宿舍被闻成没有出口的笼子。澳洲那一夜先以气味、口令（「girls traveling alone」的告诫）与身体拒答的形式渗出来，到本章后半才整段正面讲出；而它并不是她守住的事——「Cole and my mother and my dad and my sister all knew about」。
 
 ## 精读
 
@@ -39,7 +39,7 @@ modified: "2026-10-10"
 
 **中文理解**：变回人的那一秒比变成豹子更危险。她一认出母亲，就同时失去了豹子的完整感与人的立足点，于是「从树枝上滚下去结束生命」成为一个具体、可执行、甚至讲究「时机」的选项。括号里的补语说明这个念头不属于豹子，而属于「重新成为露西」这件事本身。
 **关键词**：gut-rupturing / Lucy’s mind / roll off the branch
-**为什么这样写**：用「时机」而不是「绝望」来写自杀念头，比直接抒情更冷；而全章唯一一次自杀念头出现在她变回人的一瞬，「痊愈」因此被写成损失的一部分。紧接着的括号外补句也做了同一件事——她真正学到的关于自己的知识是「原来我是更想活下去的那种人」（「which was how I learned with certainty that I was actually someone who preferred to live」）。
+**为什么这样写**：用「时机」而不是「绝望」来写自杀念头，比直接抒情更冷；而本章第一次自杀念头出现在她变回人的一瞬；后半澳洲那段还有第二次（「I thought about throwing myself off the cliff outside」），两处都写得具体可执行，「痊愈」因此被写成损失的一部分。紧接着的括号外补句也做了同一件事——她真正学到的关于自己的知识是「原来我是更想活下去的那种人」（「which was how I learned with certainty that I was actually someone who preferred to live」）。
 **读者视角提示**：本章后面母亲在墓地边说「You understand how this whole thing seems like a giant cry for help」，正是对这一刻的误读：母亲以为她在求关注，而她当时想的是结束。两句的错位是全书母女关系的模板，后面每次母亲「讲道理」都可以按这个错位去听。
 
 > **原句 5:** "As the leopard, my needs had never felt so simple to identify. Each need that registered in me had been easily addressed: I felt tired on that branch, so I slept; I felt scared, so I backed into the leaves. There’d been silence around every instinct."
@@ -51,10 +51,10 @@ modified: "2026-10-10"
 
 > **原句 6:** "I grew up constantly confused as to who was right about me—my teachers, my friends’ parents, my soccer coaches, or my mother?"
 
-**中文理解**：这一句把母亲「沉默—伏击」机制的后果说清了：外部世界一致赞许（举手发言、不抢话、听指挥），母亲私下指控（态度差、不感恩、对妹妹「vicious」），一个孩子在这两边无法裁决。「who was right about me」因此不是虚荣问题，而是生存问题。
+**中文理解**：这一句把母亲「沉默—伏击」机制的后果说清了：外部世界一致赞许（举手发言、不抢话、听指挥），母亲私下指控（态度差、不感恩、对姐姐「vicious」），一个孩子在这两边无法裁决。「who was right about me」因此不是虚荣问题，而是生存问题。
 **关键词**：constantly / right about me / soccer coaches
 **为什么这样写**：用一个问句收掉整段家庭史，且问号正好落在「or my mother」之后——此处叙述者暂时交出裁判权。正因如此，紧随其后的「Thankfully, I now understand, without needing anyone else’s assurance, that I’m not a bad person」才是被赢得的结论，而不是天生的自信。
-**读者视角提示**：妹妹佩蒂的电话那场戏给出的是两个并存的版本——她不记得母亲冷战过，也不记得姐姐刻薄过；露西则记得清清楚楚。原文没有裁定谁对，读到任何一版本时都别替作者下结论（这是本书反复出现的「书内不一致不裁决」的第一次亮相）。
+**读者视角提示**：两个并存的版本出自本章的事后追述——姐姐「She can’t remember our mother ever giving me the silent treatment, and she can’t remember me ever being that mean」；露西则记得清清楚楚。那场浴室电话给出的是另一件事：姐姐觉得整桩事令人不安、只反复确认母亲好不好，并且完全不愿谈豹子。原文没有裁定谁对，读到任何一版本时都别替作者下结论（这是本书反复出现的「书内不一致不裁决」的第一次亮相）。
 
 > **原句 7:** "It was because of Indianapolis that I had any chance of surviving all of this. Everything from the past year was only going to be okay precisely because Indianapolis was a place for me to go, get better, then come back from."
 
@@ -68,7 +68,7 @@ modified: "2026-10-10"
 **中文理解**：章末收束不落在「爱」或「疗愈」上，而落在三个「我能」上：我可以黑暗，我可以保守秘密，我可以爬上树。前两项是道德层的自我承认，第三项把全书的书名问题——什么才算真实的动物——收进一个身体动作。
 **关键词**：dark / keep secrets / scale trees
 **为什么这样写**：三个「I can」的平行结构与本章开头那句「AS THE LEOPARD, I HAD NO MEMORY OF EVER HAVING been anything other」的绝对语气互为镜像：失去豹子身份后她拿到的不是教训，是三种技能。「scale」用的是攀爬的技术义，原文前文已有一次呼应（「I had scaled seventy feet of tree」），因此这个词是证据而不是修辞。
-**读者视角提示**：「keep secrets」指向本章她始终没说出口的两件事——澳洲那一夜的具体经过，以及她不愿再变回人的那部分渴望。本章给读者的约定是：这两件事不会因为有人开口就解开；读后续章节时，把「她是否又被看见」而不是「她是否终于说了」当作衡量尺度。
+**读者视角提示**：「keep secrets」在本章有明确指向：她与科尔所有好友上床一事他始终不知情（「Unbeknownst to Cole, that year I’d slept with every single one of them」），连嘴里的溃疡也是「no one could see them」的那一笔；澳洲那一夜恰恰相反，本章已整段正面讲出、且家人都知道。至于她不愿再变回人的那部分渴望，本章确实没有一个听众。本章给读者的约定是：这两件事不会因为有人开口就解开；读后续章节时，把「她是否又被看见」而不是「她是否终于说了」当作衡量尺度。
 
 ## 本章词汇
 ### ⭐⭐⭐ 高级

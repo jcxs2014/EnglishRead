@@ -40,7 +40,7 @@ modified: "2026-10-10"
 **中文理解**：葬礼后的乡村俱乐部停车场，露西蹲在厢车轮胎后抽烟，偷听长辈对话。这几句给出母亲的另一份历史：生完她之后，母亲多天不下床、反反复复说「什么感觉都没有」、邻居上门时总发现她在哭。全程没有日期、没有诊断，只有重复。
 **关键词**：Days and days / felt nothing / sobbing
 **为什么这样写**：重复本身就是这段信息的形状——「Days and days and days」「over and over」，语言的卡顿对应母亲当年的卡顿；而露西听讲的姿势（踩灭烟、蹲下、只为给佩蒂带八卦回去）正是全章「两面性」的肉身版：她在做一个秘密的偷听者，同时自己也是别人的秘密的藏匿处。长辈口中的「Abe」「Lloyd」始终不解释身份，信息流是残缺的、被夹带出来的——本章关于上一代的「真相」，只以这种过听的形式抵达。
-**读者视角提示**：这段之后露西的应激是「retreating into the most inanimate parts of my body」——躲进手肘和肩缘这类最没有知觉的身体部位；读到她后面在车里与自己对话、在厨房悬崖边劝对方「back us up」，都可以按这个机制理解：她的自我调节，是把感受挪到不毛之地。
+**读者视角提示**：这段之后露西的应激是「retreating into the most inanimate parts of my body」——躲进手肘和肩缘这类最没有知觉的身体部位；读到她后面在车里与自己对话、在厨房里那段悬崖幻象中劝自己「back us up」，都可以按这个机制理解：她的自我调节，是把感受挪到不毛之地。
 
 > **原句 5:** "There was also a world in which all of this became a stabilizing thing, not destabilizing. After all, I was just like her. I was also someone who broke vows."
 

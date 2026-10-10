@@ -23,7 +23,7 @@ modified: "2026-10-10"
 
 > **原句 2:** "These words haunted me later when Liam’s ninety-six-year-old grandmother took advantage of the seconds between the nurse exiting the room to refill her juice and entering again, to hoist her frail body up onto the sill, then launch herself out of the sixteenth-story hospital window."
 
-**中文理解**：「These words」指多年前母亲在厨房水池边点评霍尔太太遭遇自杀时说的那句「It’s just so inconsiderate, making someone clean you up」。多年后的病房里，利亚姆九十六岁的祖母趁护士出去倒果汁的间隙，把虚弱的身体撑上窗台，从十六楼跃下；利亚姆带着骄傲说「No one was letting her go the way she wanted」——与母亲的「inconsiderate」针锋相对。
+**中文理解**：「These words」指多年前母亲在厨房水池边点评霍尔先生（Mr. Hall）自杀时说的那句「It’s just so inconsiderate, making someone clean you up」。多年后的病房里，利亚姆九十六岁的祖母趁护士出去倒果汁的间隙，把虚弱的身体撑上窗台，从十六楼跃下；利亚姆带着骄傲说「No one was letting her go the way she wanted」——与母亲的「inconsiderate」针锋相对。
 **关键词**：haunted / hoist / launch
 **为什么这样写**：一句童年偷听，把相隔多年、隔着州的两场死亡缝在一起：镇子反复改写霍尔叔叔的死法，而露西承认这句话一直「haunt」她——死的意义从来由活着的人决定。「between the nurse exiting the room to refill her juice and entering again」把出走的 seconds 写得冷而精确，精确本身就是老人隐忍时长的证据。hoist 与 launch 两个动词分写「撑上」与「跃出」，虚弱的身体完成了不虚弱的动作。
 **读者视角提示**：haunted 不是修辞点缀——本章随后会给你字面版本的「被纠缠」：艾萨克鬼故事里老鼠跑过琴键的声音、感恩节夜里窗外的「breathing」。再读到「haunt」一类词，按听觉与恐惧读，不按比喻读。
@@ -39,7 +39,7 @@ modified: "2026-10-10"
 
 **中文理解**：母亲翻出露西一年级做的那本螺旋装订小册子「Places Beyond」（第一页是 Africa，画着狮子、太阳和长颈鹿），然后坐得笔直、双手紧扣，宣布这个计划：等你们的孩子和佩蒂（Patty）的孩子满十三岁，带他们去全世界任何想去的地方。露西心里的真实反应是「Our mother had barely ever left the Northeast」。
 **关键词**：decided / thirteen / whole world
-**为什么这样写**：这个许诺精确地冲着母亲自己的限制去——随笔里写，她十三岁那年父亲与好友约翰·吉尔（John Geer）在费里斯湖（Ferris Lake）上空「hit bad air」，此后“never stepped aboard another plane, or train, or ship ever again”。她打算送孙辈的，正是她没给自己的东西；而「thirteen」在母亲史里锚在哪一场灾难，原文只给这一笔、不裁决，留白就是留白。同时，从句「when your kids…turn thirteen」预设了尚不存在的孩子，而利亚姆刚说过「when I picture our life together, I picture it just us」——母亲的计划与露西的处境迎面相撞，所以接话的是「There was a long silence.」。
+**为什么这样写**：这个许诺精确地冲着母亲自己的限制去——本章前面露西自己写着「Our mother had barely ever left the Northeast」，随笔里母亲也承认「Still, I didn’t fly on a plane until a few years ago」，是 Abe 替她报了五个多月的飞行恐惧课才飞成的。至于随笔同一篇里那句“never stepped aboard another plane, or train, or ship ever again”，主语是母亲笔下她自己的母亲：1973 年随笔作者的父亲与好友约翰·吉尔（John Geer）在费里斯湖（Ferris Lake）上空「hit bad air」，随笔作者那年十三岁，此后不再上飞机火车轮船、活动范围不越过 Allentown 与 Saratoga Springs 的，是她的母亲。她打算送孙辈的，正是她没给自己的东西。两处「十三岁」原文没有解释关系；而 ch01 对母亲的怕飞另给过一版（「My mother had never left the Northeast. Her father had died in a plane crash when she was little and because of this she didn’t fly.」），与随笔这一版对不上，不裁决。同时，从句「when your kids…turn thirteen」预设了尚不存在的孩子，而利亚姆刚说过「when I picture our life together, I picture it just us」——母亲的计划与露西的处境迎面相撞，所以接话的是「There was a long silence.」。
 **读者视角提示**：把这句读成母亲与恐惧、与时间的谈判，而不是温情旅行规划——她说这话时眼里有「tiny tears」，被露西误认成火光的反光。此后每逢长辈提出「带谁去哪里」的句子，都先问一句：这是给予，还是补偿。
 
 > **原句 5:** "I realized that this thing about the baby and the toilet that for years I thought mattered so much, maybe didn’t. I think I had been waiting to tell someone about it, but maybe I had waited too long and it had expired in relevance."
@@ -53,7 +53,7 @@ modified: "2026-10-10"
 
 **中文理解**：争吵散场后，露西躲进窗座，想起窗外对面那片草地——父亲生前叫它「Lucy’s Field」，她想象里面满是幼鹿。这句把「独处」写成双刃：草地盛得下整个世界，也可能让你在长草中间迷路、再也回不来——同一个分号里焊死，没有转折词。
 **关键词**：committing / infinity / find my way back
-**为什么这样写**：紧接着一句「That’s how I define happiness」——幸福的定义就是这片草地；段末又把它收回朴素（「maybe mine is just this big sunny field」），把羚羊与「hippopotamus clouds」这类铺张收进一个「just」。草地与「被拆掉的房子」同框：母亲要 gut 的正是这扇窗对面的家；同一扇窗有两条指令线——「Did she want me to explore the world」与「Or did she want me to live here with her at home for the rest of her life?」。母亲的孙辈旅行许诺与翻新蓝图，恰是这对矛盾的两张脸。
+**为什么这样写**：紧接着一句「That’s how I define happiness」——幸福的定义就是这片草地；段末又把它收回朴素（「maybe mine is just this big sunny field」），把羚羊与「hippopotamus clouds」这类铺张收进一个「just」。草地与「被拆掉的房子」同框：母亲要 gut 的正是有这扇窗座的本宅，窗外对面那块草地是别人的私产（「private land belonging to an ancient estate」）；同一扇窗有两条指令线——「Did she want me to explore the world」与「Or did she want me to live here with her at home for the rest of her life?」。母亲的孙辈旅行许诺与翻新蓝图，恰是这对矛盾的两张脸。
 **读者视角提示**：草地在本章是量尺不是场景——利亚姆的是牧场（「Liam’s was his ranch」）、埃利斯（Ellis）的是「an ocean full of golden treasures」、科尔（Cole）的是「a brilliant company saving people every day」、随笔里的母亲「never traveled any farther north than Allentown」。凡再遇到「某人的场地」类句子，按这把尺读：你能走多远、肯走多远。
 
 > **原句 7:** "My mother’s hand clasped around my ankle. We were both hearing it. That was clear. Someone was knocking on the back door."
