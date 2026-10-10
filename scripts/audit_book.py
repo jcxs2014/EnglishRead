@@ -43,7 +43,14 @@ def format_check(f, txt):
     for label, ok in [('梗概/概览节', has_story), ('精读节', has_read), ('词汇分级', has_vocab), ('总结', has_summ)]:
         if not ok: issues.append(f'缺「{label}」章节')
     n_quotes = len(extract_quotes(txt))
-    n_five = len(re.findall(r'\*\*中文理解\*\*|- 中文理解|：中文理解', txt))
+    # 2026-10-11 假红修复：本库存在两种并列写法——
+    #   A 派（非虚构/多数书）`**中文理解**：…`（冒号在粗体外）
+    #   B 派（言情族主力，含 Never Thought I'd End Up Here / Beach Read / 本书 38 章）
+    #        `**中文理解：** …`（冒号在粗体内）
+    # 原正则只有 A 派的三个变体，B 派一律抽到 0 ⇒ audit_book C 段对整族书报
+    # 「五子项块数(0) < 引语数(N)」，**是假红，不是内容缺陷**（实测参照书
+    # never-thought-id-end-up-here 22 章同报，该书已验收通过）。
+    n_five = len(re.findall(r'\*\*中文理解[：:]\*\*|\*\*中文理解\*\*|- 中文理解|：中文理解', txt))
     if n_quotes and abs(n_five - min(n_quotes, 10)) > 1 and n_five < n_quotes:
         issues.append(f'五子项块数({n_five}) < 引语数({n_quotes})，疑有子项缺失')
     if '■' in txt: issues.append('含结束符 ■（规范禁止）')

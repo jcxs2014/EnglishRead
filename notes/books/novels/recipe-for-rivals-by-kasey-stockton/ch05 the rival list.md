@@ -142,7 +142,7 @@ modified: "2026-10-11"
 | meatloaf | 肉糕（美式家常菜） | “You want to jump in and get the meatloaf going for lunch?” |
 | waitress | 当女服务员、端盘子 | “I’ll make the meatloaf,” Dal said, freeing me up to waitress. |
 | uniformed | 穿制服的 | Two uniformed officers sat across from each other, sipping at mugs. |
-| shift | 班次 | “Two days on, four days off. The whole department does it this way,” the woman said. |
+| shift | 班次 | “We just came off a 48-hour shift,” the other guy said loudly. |
 | mascara | 睫毛膏 | I finished blow-drying my hair, scraped it back into a ponytail, and swiped mascara on. |
 
 ## 一句话总结
