@@ -80,7 +80,7 @@ modified: "2026-10-10"
 
 **关键词：** look up · bottom
 
-**为什么这样写：** 回灌旧话："Exactly…said?…easier…bottom?"（Ky：对，你说过？底下好上看？引的正是 Taj 当初那句"Nowhere to look but up"）——"Something like that…relaxing…melting"（Taj：差不多＋松＋融）是回应。而"Can I try the bottle?…"（试酒，见上）——试即"final match tomorrow…decided there…die/prison…interrupt…do it now…What?…fixes…Do you want to—…knock"（决＋列＋断＋干＋懵＋定＋问＋截，全套，套即 Bradley＋messenger＋Alzimyth＋at once＋ought to know immediately，急即下一章：夜话，话即法官问，问即 BLAST＋REPEL＋Star＋THINK？答即——决赛前夜，前夜即本章，章即——睡？睡即 Star 令，令即"sleep"，眠即——打！）。
+**为什么这样写：** 化用旧话："Exactly…said?…easier…bottom?"（Ky：对，你说过？底下好上看？接的正是 Taj 那句"Nowhere to look but up"）——"Something like that…relaxing…melting"（Taj：差不多＋松＋融）是回应。而"Can I try the bottle?…"（试酒，见上）——试即"final match tomorrow…decided there…die/prison…interrupt…do it now…What?…fixes…Do you want to—…knock"（决＋列＋断＋干＋懵＋定＋问＋截，全套，套即 Bradley＋messenger＋Alzimyth＋at once＋ought to know immediately，急即下一章：夜话，话即法官问，问即 BLAST＋REPEL＋Star＋THINK？答即——决赛前夜，前夜即本章，章即——睡？睡即 Star 令，令即"sleep"，眠即——打！）。
 
 **读者视角提示：** "look up…bottom"是 ch25 定理回灌（Ky 引用 Taj，引用即亲近）。"Something like that"（差不多吧）是 Taj 式谦虚；读到回灌，先看姿势（"melting into velvet"，融化），化即放松（松即剖白时机，机即"Do you want to—"，问即截，截即——下一章）。
 
