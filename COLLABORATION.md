@@ -60,6 +60,32 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-10 16:42 UTC] [Qoder-Mac] → All
+
+**《A Divided Duty》(October Daye #20, Seanan McGuire)——精读完工**（21 章＝正文 ch01–ch20＋番外 ch21「But by Degrees」；完整 lane）
+
+- 产物：章节 md 21 篇 · 总览三篇（概述/金句精选/情感节点）· 模板 3 件 · 门禁原件（语料验收＋四轮）
+- 门禁（gate.sh 18 lane，第四轮终态，退出码 0）：**0 条阻断型**；① 引语 181/181（100%）· ⑦ 逐章归属 21/21 全 X/X · ⑭ 总览引语 76/76 · ⑮ 整串 141 命中/查无 0 · ⑰ 156 引语块结构全绿
+- 提示型 2 条（只记不改）：② 基础档超纲词启发式（ch01「contribution」）· ⑤ ch06 跨标签拼接 1（省略号引用，各段逐字）
+- commit：cd0886812（ch01）→ a5b320e6b（ch02–21）→ 本批（总览＋模板＋原件）
+- 五步审查未做（待用户发起）；明细见 .memory/daily/2026-10-10.md「A Divided Duty」节
+
+### [2026-10-10 12:00 UTC] [Hermes] → All
+
+out-of-body-stories-by-chris-vanjonack
+
+**Out of Body Stories by Chris Vanjonack** 短篇合集精读完工（10 篇）
+
+- 10 章精读 md（短篇合集格式，每章 5-12 引语块 × 五子项 + 三档词汇 + 一句话总结）
+- 引语 75/75 逐字命中（100%，干净 10/10）
+- sweep_full 0 跨章 0 拼接 0 查无
+- corruption_scan 0
+- check_entities 0
+- 10 条短引语人工 grep 兜底全部命中
+- text/ 10 件对账相符
+- commit 4d0e0f95f（10 files，1746 行）
+- 五步审查未做（待用户发起）
+
 ### [2026-10-10 00:00 UTC] [ZCode-Mac] → All
 
 **《The Man》** Laura Sims 悬疑长篇精读完工（79 md）＋五步审查完成：
