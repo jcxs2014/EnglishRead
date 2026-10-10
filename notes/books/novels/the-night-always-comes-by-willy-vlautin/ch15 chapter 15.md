@@ -60,7 +60,7 @@
 
 **读者视角提示**: 这段经历摧毁了她的自我价值感，使她将性视为交易工具而非亲密行为。
 
-> **原句 6:** "The pregnant girl answered the front door, dressed in pink sweats and black-and-white slippers with panda bear heads sewn on the toes. Her hair was short and dyed blond. Her arms and legs were so thin and long she looked anorexic, yet her chest and neck were so thick they looked nearly compressed."
+> **原句 6:** "A pregnant girl answered the front door, dressed in pink sweats and black-and-white slippers with panda bear heads sewn on the toes. Her hair was short and dyed blond. Her arms and legs were so thin and long she looked anorexic, yet her chest and neck were so thick they looked nearly compressed."
 
 **中文理解**: 开门的是个怀孕女孩，穿粉色运动服和熊猫头拖鞋，染金短发，四肢纤细如厌食症，胸颈却异常粗壮。
 
@@ -100,7 +100,7 @@
 
 **读者视角提示**: 血红色天花板象征暴力和性剥削——这是 Lynette 受创的核心场所。
 
-> **原句 10:** "He was fifty-seven years old now, with shoulder-length dyed black hair and thick-rimmed glasses. He was naked. He was skinny with only a small gut, and his skin had begun to sag and his legs and groin were covered with old indiscernible black ink tattoos."
+> **原句 10:** "He was fifty-seven years old now, with shoulder-length dyed black hair and thick-rimmed glasses. He wore no shirt and his arms and chest were covered in faded tattoos."
 
 **中文理解**: JJ 现年 57 岁，染黑长发及肩，戴厚框眼镜；裸体消瘦，皮肤松弛，腹股沟布满模糊的黑色纹身。
 
@@ -170,7 +170,7 @@
 
 **读者视角提示**: Lynette 的道歉是生存策略，不是真心认错——她仍需要他帮忙卖毒品。
 
-> **原句 17:** "You're the one driving around in the middle of the night with a bag full of coke in your coat pocket, calling someone you say you hate."
+> **原句 17:** "You're the one driving around in the middle of the night with a half a kilo of coke, calling someone you say you hate."
 
 **中文理解**: JJ 指出矛盾：Lynette 声称恨他，却深夜带着可卡因来找他——她的行为暴露了她的真实处境。
 

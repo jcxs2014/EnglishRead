@@ -90,7 +90,7 @@
 
 **读者视角提示**: 与 Cody 的病弱相反，Kansas 代表原始暴力和不可预测性。
 
-> **原句 9:** "Kansas ripped the purse from Lynette's hands and threw it to the blond man. He took the money from it and began counting. Minutes passed and then through the dust mask he cried, 'Seventeen thousand dollars.'"
+> **原句 9:** "The derelict house was white in color but hadn't been painted in decades and was half covered in blackberry bushes. Steel bars lined the windows, even on the second floor, and cardboard was taped to the inside of the window glass, keeping out any light."
 
 **中文理解**: Kansas 夺过手提包扔给金发男子，清点后发现现金高达一万七千美元——远超 Lynette 声称的八千。
 

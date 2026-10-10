@@ -90,7 +90,7 @@
 
 **读者视角提示**: "three years" 对应母亲未涨租的时间段——她以为在储蓄，实际在逃避。
 
-> **原句 9:** "As she sat there in the restaurant she knew that she was ruled by guilt. She had been broken by her brother because after her grandfather died her life as Kenny's sister changed to her life as Kenny's caregiver."
+> **原句 9:** "As she sat there in the restaurant she was at least proud of that."
 
 **中文理解**: Lynette 意识到自己被内疚支配——祖父去世后，她从"Kenny 的姐姐"变成"Kenny 的护理员"。
 

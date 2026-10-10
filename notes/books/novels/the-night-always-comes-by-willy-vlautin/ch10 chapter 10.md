@@ -110,7 +110,7 @@
 
 **读者视角提示**: 这段对话预示后续冲突——当 Kansas 威胁杀人时，Cody 的冷漠将受到考验。
 
-> **原句 11:** "We got robbed once when I was fifteen," she said. "Two guys broke in. They climbed in through a window and stole our TV and a portable stereo and they ransacked the living room and kitchen."
+> **原句 11:** "We got robbed once when I was fifteen," she said.
 
 **中文理解**: Lynette 分享自己被抢劫的经历：两个流浪汉闯入家中，抢走电视和音响，吓得弟弟数月不敢独处——窃贼所得不过五十美元。
 
