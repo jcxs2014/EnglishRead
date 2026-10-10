@@ -1,0 +1,50 @@
+=== ch21 批次门禁 2026-10-10 16:26 UTC ===
+
+--- verify_quotes ---
+ch21 twenty-one.md: 19/19 ✅
+
+⚠️ 全书共 2 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 267/267 引文可核实（100%）；完全干净文件 21/21；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- check_chapter_quotes ch21 ---
+ch21 twenty-one.md: 19/19 in ch21 text
+
+--- check_vocab ---
+--- FAIL (0) ---
+--- WARN (81) ---
+(无 ch21 条目)
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- corruption_scan ---
+=== 编辑损坏扫描（never-thought-id-end-up-here-by-ann-liang）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+  参照集：text/ 逐章（22 章，可定章） + epub 交叉验证
+  ✅ 本章命中 264 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 3 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+  🔶 ch15 fifteen.md（ch15）跨标签拼接，各段逐字都在：“If you don’t want me to like you in that wa
+  🔶 ch16 sixteen.md（ch16）跨标签拼接，各段逐字都在：He’s at my mercy, just like I always wanted.
+  🔶 ch16 sixteen.md（ch16）跨标签拼接，各段逐字都在：Cate had glanced up briefly from her blueber
+
+--- check_short_quotes ---
+  verify_quotes 跳过（<20 flat 字符）的引语：2 条 —— 这些主门禁**根本没查**
+  ✅ 命中 2 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+--- audit_structure ---
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 5 ｜ 🔀 映射不一致 0
+  ⚠️ ch17 seventeen.md  引语 24 个，与本书众数 8 相差过大
+  ⚠️ ch18 eighteen.md  引语 20 个，与本书众数 8 相差过大
+  ⚠️ ch19 nineteen.md  引语 24 个，与本书众数 8 相差过大
+  ⚠️ ch20 twenty.md  引语 22 个，与本书众数 8 相差过大
+  ⚠️ ch21 twenty-one.md  引语 19 个，与本书众数 8 相差过大
+
+--- 三档定性 ---
+提示型：audit_structure 5 条引语数与众数差异（ch17-21: 24/20/24/22/19 vs 众数 8），
+本书各章块数天然波动(ch11=15/ch16=16)，只记不改。
