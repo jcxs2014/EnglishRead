@@ -80,7 +80,7 @@ modified: "2026-10-10"
 
 **关键词**： bowed her head in acknowledgement / direct eye contact / the skerry once controlled by Blind Michael
 
-**为什么这样写**： 这是本章的引信：一句话把"庭内家事"升级为"全厅公案"。动作先写字面礼仪（bowed her head in acknowledgement），紧接着用第二个动作拆掉礼仪（looked up, making direct eye contact with Arden）——臣服与对峙被压进同一个人物的两个连续动作里。台词的信息投放更讲究：她不解释、不铺垫，只把地名升级——前文 Dianda 口里的 a skerry（一座礁岛）在这里变成 the skerry once controlled by Blind Michael，用旧主的名字给家丑加上全场的共同记忆；同一个名词在两位母亲口中接力，一个用于索赔，一个用于控诉。作者随后还借 October 的叙述点出这一手有多冒险：对新来的听众而言，Blind Michael 仍停留在"儿童故事"的层面——咒语的受害者未必愿意为一个旧魔头的名字动容。
+**为什么这样写**： 这是本章的引信：一句话把"庭内家事"升级为"全厅公案"。动作先写字面礼仪（bowed her head in acknowledgement），紧接着用第二个动作拆掉礼仪（looked up, making direct eye contact with Arden）——臣服与对峙被压进同一个人物的两个连续动作里。台词的信息投放更讲究：她不解释、不铺垫，只把地名升级——前文 Dianda 口里的 a skerry（一座礁岛）在这里变成 the skerry once controlled by Blind Michael，用旧主的名字给家丑加上全场的共同记忆；同一个名词在两位母亲口中接力，一个用于索赔，一个用于控诉。作者随后还借 October 的叙述点出这一手有多冒险：对新来的听众而言，Blind Michael 仍停留在"儿童故事"的层面（抽气最大声的恰是这批人）——而叙述者随后点名的"first mistake"是 Luna 的另一手：她提醒众人 Acacia 是 Titania 之女，可满厅新来者正是被 Titania 之乱驱赶至此的人。
 
 **读者视角提示**： 注意这句台词落下的时机：Arden 即将说出判决的句式已被一声"等等"打断，程序从这里开始失效，而打断它的是母亲。也留意她选择的武器——信息：她赌厅里的人需要听到全部真相，却漏算了这些人爱憎的方向。
 

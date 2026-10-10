@@ -22,7 +22,7 @@ modified: "2026-10-10"
 
 **为什么这样写**： 回答一个私人问题，作者却先给丈夫一声咳嗽当标点——Tybalt 不出声说话，只用一声干咳交代夫妻的共同立场，尴尬由两个人分摊，而不是让叙述者一个人挡在前面。紧接着 "hemmed and hawed"（支支吾吾）与 "in a remarkably well-controlled voice"（用控制得极好的声音）并置：一个是口吃般的口语动词，一个是评估式的正式评语，落差本身就是自嘲——声音控制得越好，越说明心里不平静。整句话的语序也有讲究：先"我不知道"，再补两条理由（两次怀孕都不享受、一个就足够），最后用 "Maybe in a few years." 收口——一句不肯把话说死的软化语，既是社交场合的礼貌，也如实保留了当事人的不确定。而句中的复数化（we will be、for us），让"要不要孩子"从私人决定变成夫妻共同体对外的统一口径。
 
-**读者视角提示**： 注意"生育"在本章是一个被公开询问的题目：提问者的热望与当事人的谨慎形成对照，而这个对照在本章后半（她想起 Bridget 的请求时）会再次出现。也留意叙述者话里的每一处"控制"——话说得越四平八稳，越说明她心里排练过。
+**读者视角提示**： 注意"生育"在本章是一个被公开询问的题目：提问者的热望与当事人的谨慎形成对照，而这个对照在本章稍后（她想到 Bridget 的请求时）会再次出现。也留意叙述者话里的每一处"控制"——话说得越四平八稳，越说明她心里排练过。
 
 > **原句 2:** "His smile twisted a bit at the edges, turning sour. “After Amandine, any contribution I can point to in my darling girl is a thing to be treasured. But yes. Your sisters are doing very well, and I can’t wait for you to see them again. I want them to grow up knowing you.”"
 

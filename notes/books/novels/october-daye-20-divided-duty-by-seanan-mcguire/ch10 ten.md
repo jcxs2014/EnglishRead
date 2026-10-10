@@ -10,7 +10,7 @@ modified: "2026-10-10"
 - **一句话概括**：Luna 闭眼不动、Acacia 重伤待休的僵局里，October 用一场"讨债"谈判换来 Firstborn 的一口血：借来的三段记忆让她看清袭击者的来路与 Acacia 对 Raysel 的冷意，也让她借到不属于自己的痛；随后她与 Tybalt 循着袭击者身上 Acacia 的血味穿过荒原，一路谈成"若败你先走"的约定，走向目标堡垒。
 - **情感弧线位置**：营救线的推进段（升温）。Luna 一脉被按下——她闭眼不动，伤情只能等；Raysel 的下落接管了全部推进力。本章以"交易—读忆—追猎"三拍把血统议题从背景推到台面，再以夫妻间的撤退约定收束，停在堡垒之外。
 - **人物弧线**：October：从急于推进营救的务实，到承认自己一直拒绝看清 Acacia 的本色，再到当面向 Firstborn 讨血、在记忆里承受借来的痛，最后提出让 Tybalt 先撤的成熟请求——她把"家"的定义落在比血更多的东西上（原文 "more than blood"）。Acacia：从对 Luna 伤情与 Raysel 失踪的漠然，到被讨债逻辑逗笑、交出血与记忆，再退回树林休养。Tybalt：从无声嗅迹的追踪者，到接受"会跑，但会回来"的条件。
-- **叙事手法**：单 POV 第一人称；三段骑血记忆用斜杠融合人称（her/my、they/we、she/I），把叙述者嵌进记忆主人的语法；场景沿屋内—林地—荒原—堡垒连续位移，以对话承接推进，全章从一场交易写到一次承诺。
+- **叙事手法**：单 POV 第一人称；三段骑血记忆用斜杠融合人称（her/my、they/we、she/I），把叙述者嵌进记忆主人的语法；场景沿 skerry 屋外—林地—荒原—堡垒连续位移，以对话承接推进，全章从一场交易写到一次承诺。
 
 ## 精读
 
@@ -20,7 +20,7 @@ modified: "2026-10-10"
 
 **关键词**： beset / bronze tipped in iron / no silver
 
-**为什么这样写**： 这是"伤者自己复盘"的口吻样本：句子按装备—判词—伤情三段推进，先给武器的具体形制（sword and axe, bronze tipped in iron），再给出她幸存的技术原因（no silver），最后才落结论。三句一处比一处短，句幅的收缩对应她从复述到收尾的语气，像在念一份事件报告；而报告的主人用 could not kill me 这类否定式总结战力差距，克制本身就是性格展示。被动式 I was immediately beset 让她在语法上也是"被袭来的一方"，与本章前面"召唤树木仍来不及"的无力感同构——叙述者还特意点出反差：她就以 measured tone 谈着孩子与职责，仿佛浑然未伤。
+**为什么这样写**： 这是"伤者自己复盘"的口吻样本：句子按装备—判词—伤情三段推进，先给武器的具体形制（sword and axe, bronze tipped in iron），再给出她幸存的技术原因（no silver），最后才落结论。句幅先大落、再小幅回升（26 → 14 → 16 词），这种收束—回弹的节奏对应她从复述到收尾的语气，像在念一份事件报告；而报告的主人用 could not kill me 这类否定式总结战力差距，克制本身就是性格展示。被动式 I was immediately beset 让她在语法上也是"被袭来的一方"，与紧接下文"召唤树木仍来不及"的无力感同构——叙述者还特意点出反差：她就以 measured tone 谈着孩子与职责，仿佛浑然未伤。
 
 **读者视角提示**： 读这一段时记住：她越冷静，技术细节就越是线索——武器、金属、伤情分级，都在替袭击者的身份画像。也留意叙述者对"以冷静谈孩子与职责"的评论，那是本章给 Acacia 画像的起笔。
 
@@ -34,9 +34,9 @@ modified: "2026-10-10"
 
 **读者视角提示**： 留意这场胜利其实是"被认出"：October 的手腕在这里不是说服，而是与 Antigone 的相似替她得了分。也看看让步的形态——她给的不是情话而是交割（Here. 之后紧接着伸出的是手臂），在 Acacia 的世界里，感情总要换算成可交割的东西。
 
-> **原句 3:** "She/I stand at the gateway to my new country, her/my strong husband at her/my side and the wind blowing gently over her/my wings, ruffling the tiny scales that grow there, angled so as to help her/me take to the skies. This will be their/our paradise eternal, and he will forget all about those other children, the ones her/my siblings slew, his little line of Seers who could not be allowed to live, not when Mother had decreed that the future must be allowed to pass unseen."
+> **原句 3:** "She/I stand at the gateway to my new country, her/my strong husband at her/my side and the wind blowing gently over her/my wings, ruffling the tiny scales that grow there, angled so as to help her/me take to the skies. This will be their/our paradise eternal, and he will forget all about those other children, the ones her/my siblings slew, his little line of Seers who could not be allowed to live, not when Mother had decreed that the future must be allowed to pass unseen. He will forget them in the light of the children they/we will have together, good children, strong children, children with the blood of Titania running bright through their veins, keeping them close to hearth and home."
 
-**中文理解**： "她/我站在我新国度的门户前，她/我强壮的丈夫在她/我身边，风轻轻吹过她/我的翅膀，拂动生在那里的细小鳞片——它们斜斜生着，正助她/我飞上天空。这里会成他们/我们永恒的乐园，而他会忘掉另外那些孩子：被她/我的兄弟姐妹杀掉的那些、他那一小脉不被允许活着的先知——只因母亲裁定，未来必须被允许以不被看见的方式流过。"
+**中文理解**： "她/我站在我新国度的门户前，她/我强壮的丈夫在她/我身边，风轻轻吹过她/我的翅膀，拂动生在那里的细小鳞片——它们斜斜生着，正助她/我飞上天空。这里会成他们/我们永恒的乐园，而他会忘掉另外那些孩子：被她/我的兄弟姐妹杀掉的那些、他那一小脉不被允许活着的先知——只因母亲裁定，未来必须被允许以不被看见的方式流过。他会在他们/我们将共同拥有的孩子的光里忘掉他们——好孩子、强壮的孩子，血里流着 Titania 之血、被炉火与家园拢在近旁的孩子。"
 
 **关键词**： her/my / paradise eternal / Seers who could not be allowed to live
 
@@ -60,7 +60,7 @@ modified: "2026-10-10"
 
 **关键词**： borrowed pain / memory of injury / felt like they did
 
-**为什么这样写**： 全段用"否定—再否定—翻转"三拍写完一次假伤：先说没有伤口（no gashes opened），再说没有骨折（no bones broke），最后用一个短句把前面的否定整句推翻（It just felt like they did.）。生理上是假的，体感上是全真的——这正是借血手艺的收费方式：信息以痛为计价单位。作者还让这场尖叫兼任笑料：前脚 Tybalt 把它当求救信号，后脚 Acacia 补上一句 I don’t remember it hurting that much.——一句话同时交代 Firstborn 与常人的痛觉标尺不同，顺手把主角的狼狈变成笑点。
+**为什么这样写**： 全段用"否定—再否定—翻转"三拍写完一次假伤：先说没有伤口（no gashes opened），再说没有骨折（no bones broke），最后用一个短句把前面的否定整句推翻（It just felt like they did.）。生理上是假的，体感上是全真的——这正是借血手艺的收费方式：信息以痛为计价单位。作者还让这场尖叫兼任笑料：Acacia 当场补上一句 I don’t remember it hurting that much.，一句话交代了 Firstborn 与常人的痛觉标尺不同；稍后 Tybalt 也来添一笔——他听见了叫声，却以为她不想让人冲来相救，主角只得当场立规矩：以后听见她尖叫，尽管来救。
 
 **读者视角提示**： 这是本章把"价格"写进身体的一刻：借来的记忆不开伤口，却换来真实的惨叫。记住这笔价码——借血读忆从来不是一次免费的信息检索。
 
@@ -80,7 +80,7 @@ modified: "2026-10-10"
 
 **关键词**： leave me to die / leave me behind / Miranda needs us both
 
-**为什么这样写**： 这段请求的技术含量全在"升级"：她把旧命题（leave me to die——抛下我等死）与新命题（leave me behind——抛下我、活着撤走）并排，让 Tybalt 无法用"我不会离开你"这类誓言一刀切掉；because we both know that I won’t 又把句尾截在"我不会做的事"上，逼听者自己补完剩下的意思。理由也换成了资源逻辑而不是牺牲美学：她要的不是他陪葬，而是他活着把 Miranda 一起带走——用一个 she only gets that if 的条件句，把爱情议题折算成育儿算术。Tybalt 只用一句 Do not, 拦截，她则用一句直截了当的祈使句收尾——全段请求的分量，就落在 you need to run 这句话上。
+**为什么这样写**： 这段请求的技术含量全在"升级"：她把旧命题（leave me to die——抛下我等死）与新命题（leave me behind——抛下我、活着撤走）并排，让 Tybalt 无法用"我不会离开你"这类誓言一刀切掉；because we both know that I won’t 又把句尾截在"我不会做的事"上，逼听者自己补完剩下的意思。理由也换成了资源逻辑而不是牺牲美学：她要的不是他陪葬，而是他活着把 Miranda 一起带走——用一个 she only gets that if 的条件句，把爱情议题折算成育儿算术。Tybalt 只用一句 Do not, 拦截，她则用一句直截了当的通牒收尾——you need to run 在语法上是陈述句，分量上却是全段请求最硬的落点。
 
 **读者视角提示**： 注意这是"先说坏消息"的谈判术：把不好接受的部分主动放在前面，为的是赶在局面变糟之前把约定签掉。也看 Tybalt 的回应方式——在这对夫妻之间，重话常用短句表示。
 

@@ -20,7 +20,7 @@ modified: "2026-10-10"
 
 **关键词**： Very smooth / I do appreciate it / missed you almost every day
 
-**为什么这样写**： 这段台词的对象是一栋建筑，语气却完全是哄一位老朋友的：先是两句同头的干巴巴夸奖（Very smooth、Very slick），像顺手拍了两下门框；再滑进郑重其事的一句领情（I do appreciate it 用 do 加重语气）；最后才是承诺与思念。三层意思层层后退到更私人的位置——承诺（I’ll try to be around more from now on）、解释（this time, I didn’t stay away because I wanted to）、思念（I’ve missed you almost every day）——而句尾落在 almost every day 这种日常量词上，比任何抒情句都重。didn’t stay away because I wanted to 用双重否定不说出"被迫"二字，把一段缺席史压进一个从句，信息给得极省。最克制的一笔在下一段：作者不给任何回应台词，只用叙述写她感到一种明确的认可感从四面涌来——门究竟是活的，还是她在投射，作者此刻并不裁决：这份模糊正是本章一切"与房子打交道"场景的情感前提。
+**为什么这样写**： 这段台词的对象是一栋建筑，语气却完全是哄一位老朋友的：先是两句同头的干巴巴夸奖（Very smooth、Very slick），像顺手拍了两下门框；再滑进郑重其事的一句领情（I do appreciate it 用 do 加重语气）；最后才是承诺与思念。三层意思层层后退到更私人的位置——承诺（I’ll try to be around more from now on）、解释（this time, I didn’t stay away because I wanted to）、思念（I’ve missed you almost every day）——而句尾落在 almost every day 这种日常量词上，比任何抒情句都重。didn’t stay away because I wanted to 用一重否定不说出"被迫"二字，把一段缺席史压进一个从句，信息给得极省。最克制的一笔在下一段：作者不给任何回应台词，只用叙述写她感到一种明确的认可感从四面涌来——门究竟是活的，还是她在投射，作者此刻并不裁决：这份模糊正是本章一切"与房子打交道"场景的情感前提。
 
 **读者视角提示**： 注意这个开场的双重身份："与门说话"既是世界设定，也是人物速写——她习惯把一切活着的东西当人对待。读她与这栋建筑的每一次互动时，都留意"回应"被写成感觉而不是语言：作者要的就是这种介于魔法与想象之间的模糊。
 
@@ -52,7 +52,7 @@ modified: "2026-10-10"
 
 **为什么这样写**： 这一段的全部功夫在"声口切换"：同一通电话里，Madden 刚用宫廷仪典的调门行使过权力（他先喊出 Dame Elvia 的头衔、收下 full apologies），挂回听筒便立刻换成朋友的口吻，作者用 In a more-normal tone 一句叙述就把两次发音位置交代清楚。他的句子随之变短、变具体：Be nice to her, okay? 是请求而非命令；how we do things here 划出"我们"与她来处之间的界线；收尾的 Not with the way they used to run things up there 却是个残句，不作解释——背景交给读者与叙述者随后的追述去补。不把话说完，反而让"那边"显得更冷：把恐怖留在省略里，是本章反复使用的手法。前一刻他以 Seneschal 的身份把 Toby 放进门，这一刻反过来替拦过她的人求情——权力与善意落在同一个人身上而不打架，这是本章给"王廷"留下的最暖注脚。
 
-**读者视角提示**： 这里值得对照读：同一个人、同一通电话，声音有"公"与"私"两副面孔，作者只用一句叙述（声调切换）就把它标了出来。还有一层背景被故意悬置："那边过去的规矩"是什么样，叙述者在通话结束后立刻用一段追述补上——留意这种"话不说完、让追述兜底"的写法。
+**读者视角提示**： 这里值得对照读：同一个人、同一通电话，声音有"公"与"私"两副面孔，作者只用一句叙述（声调切换）就把它标了出来。还有一层背景被故意悬置："那边过去的规矩"是什么样，叙述者在通话结束之前就用一段追述补上——留意这种"话不说完、让追述兜底"的写法。
 
 > **原句 5:** "The fourth panel was the one that gave me pause. A man stood in front of three of Blind Michael’s Riders, carved so precisely that I could easily make out Arden’s arms at his breast. He looked grimly determined, not afraid, and I knew him. I could pretend I didn’t, but I did, and after confronting Melly, I wasn’t going to let her accomplice go free."
 

@@ -14,7 +14,7 @@ modified: "2026-10-10"
 
 ## 精读
 
-> **原句 1:** "“I am Sir October Daye. I serve your mistress as a Hero of the Realm. The man who lives here, Eion, has been dishonest in his oaths to her. He is a danger to your mistress. Arden lives. Help me keep it that way. Show us where we need to go.”"
+> **原句 1:** "“Shush,” I said, and then, more loudly, “I am Sir October Daye. I serve your mistress as a Hero of the Realm. The man who lives here, Eion, has been dishonest in his oaths to her. He is a danger to your mistress. Arden lives. Help me keep it that way. Show us where we need to go.”"
 
 **中文理解**： "'嘘，'我说，接着更大声地说，'我是 Sir October Daye。我以王国英雄的身份为你的女主人效力。住在这里的这个人，Eion，对她立下的誓言有不诚。他对你的女主人是个危险。Arden 还活着——帮我把这一点维持下去。指给我们该去的地方。'"
 
@@ -60,7 +60,7 @@ modified: "2026-10-10"
 
 **关键词**： Who is ‘them,’ Eion? / wasn’t alive yet / never hurt anyone
 
-**为什么这样写**： 整段由同一个骨架反复撑起——每句都是"某个名字 + isn’t ‘them’"，后接一条可核验的资格说明（有没有活在那时、有没有伤过人）——像按名册逐条核销，把复仇的抽象对象还原成一个个具体的人。全段几乎不用愤怒词，唯一的重锤是给 them 加的引号：她不断引用他的代词、又不断把它的内容掏空，攻击的其实是分类本身。例证顺序也有算计：先死者之妹（时间上不可能有罪），再眼前的 Chelsea（在现场的人证），最后 Sylvester（背后还压着 Luna 与保密那笔旧账的那位）——从无可争辩的对象推到背景复杂的对象，Eion 的反驳空间被逐句收紧。她甚至顺手承认 Sylvester 与 Luna 之间那个结难解（"比我俩都聪明的人"才谈得清），却仍然守住一条线：Raysel 不该替父母的罪受罚；承认复杂与坚持底线在同一段里并存，是这段说理格外结实的地方。
+**为什么这样写**： 整段由同一个骨架反复撑起——每句都是"某个名字 + isn’t ‘them’"，后接一条可核验的资格说明（有没有活在那时、有没有伤过人）——像按名册逐条核销，把复仇的抽象对象还原成一个个具体的人。全段几乎不用愤怒词，唯一的重锤是给 them 加的引号：她不断引用他的代词、又不断把它的内容掏空，攻击的其实是分类本身。例证顺序也有算计：先被掳走的 Raysel（案发时还没出生，时间上不可能有罪），再眼前的 Chelsea（在现场的人证），最后 Sylvester（背后还压着 Luna 与保密那笔旧账的那位）——从无可争辩的对象推到背景复杂的对象，Eion 的反驳空间被逐句收紧。她甚至顺手承认 Sylvester 与 Luna 之间那个结难解（"比我俩都聪明的人"才谈得清），却仍然守住一条线：Raysel 不该替父母的罪受罚；承认复杂与坚持底线在同一段里并存，是这段说理格外结实的地方。
 
 **读者视角提示**： 读这段时注意 she 与 they 的对撞：她给出的每一份名单都是一次"具体化"攻击——把对方含糊的复数还原成有出生时间、有行为记录的个人；也留意她要的从来不是道歉，而是地址：这场点名之后，她逼问的还是同一件事——他们把她带去了哪里。
 
@@ -80,7 +80,7 @@ modified: "2026-10-10"
 
 **关键词**： weary rover / night bird cry / one candle’s light
 
-**为什么这样写**： 这段是本章的"仪式开关"：即将触发位移的咒语被写成韵文，三对韵脚各司其职——stand/Westmoreland 负责呼唤与许诺，sun/done 把"见不到日光"与"旅程终结"押成同义，right/light 收成封缄与兑现。呼语在句中悄悄换过一次：weary rover（游走者）到 weary wanderer（流浪人），而第三次呼唤不再换词、改成 know I tell you right 的担保句——像在咒语末尾盖章；咒歌一面铺开不见太阳、不见 Westmoreland 这类否定，一面把落点交给 there and back again 的肯定——韵文的功能正是把不确定的旅途翻译成可预言的保证。最后半句 by just one candle’s light 把宏大旅程的实现条件收缩到手中的一支烛火——本章的门票制度（一趟需要特殊票据、两支烛火同燃同行）在这里被写进歌里，宏大叙事落回掌心的道具。叙述随后用一个最平实的收尾句把咒歌静音——and we were gone——不惊叹、不解释：仪式完成，人也已不在原地。
+**为什么这样写**： 这段是本章的"仪式开关"：即将触发位移的咒语被写成韵文，三对韵脚各司其职——stand/Westmoreland 负责呼唤与许诺，sun/done 把"见不到日光"与"旅程终结"押成同义，right/light 收成封缄与兑现。呼语在句中悄悄换过一次：weary rover（游走者）到 weary wanderer（流浪人），而第二次呼唤里，后半句从 listen as you stand 换成 know I tell you right 的担保句——像在咒语末尾盖章；咒歌一面铺开不见太阳、不见 Westmoreland 这类否定，一面把落点交给 there and back again 的肯定——韵文的功能正是把不确定的旅途翻译成可预言的保证。最后半句 by just one candle’s light 把宏大旅程的实现条件收缩到手中的一支烛火——本章的门票制度（一趟需要特殊票据、两支烛火同燃同行）在这里被写进歌里，宏大叙事落回掌心的道具。叙述随后用一个最平实的收尾句把咒歌静音——and we were gone——不惊叹、不解释：仪式完成，人也已不在原地。
 
 **读者视角提示**： 读这段韵文时把它当清单读——每一句都在承诺什么、又在否认什么（不见太阳、不经 Westmoreland、夜鸟、烛光），这些条件都是可以逐项对照的；也注意念咒之前她先与 Tybalt 对视了一眼，这一趟从一开始就是双人的票。
 

@@ -80,7 +80,7 @@ modified: "2026-10-10"
 
 **关键词**： didn’t double-check / Luna took Raysel / abducted by her own mother
 
-**为什么这样写**： 全章的解法靠"否定式揭示"完成：答案不是发现了什么新东西，而是当初漏做了一道检查（didn't double-check）——侦探故事里最漂亮的一类揭底，凶手是团队自己制造的盲点。句式从短到长再收短：先给最朴素的答案（wine），破折号后接一句自省式的推理，然后用两个主谓宾齐备、几乎不带修饰的短句落锤——Luna was here. Luna took Raysel.——名字加动词的重复，把"母亲带走女儿"这件荒唐事写成了既成事实。最后一句切回公文语域（notify Queen Windermere / abducted / outside the authority of the Mists）：Toby 用法律词汇宣布家事升级为跨境案件，句子越长、语域越冷，读者就越明白这一步已经超出私人范围。
+**为什么这样写**： 全章的解法靠"否定式揭示"完成：答案不是发现了什么新东西，而是当初漏做了一道检查（didn't double-check）——侦探故事里最漂亮的一类揭底，凶手是团队自己制造的盲点。句式从短到长再收短：先给最朴素的答案（wine），逗号后接一句自省式的推理，然后用两个主谓宾齐备、几乎不带修饰的短句落锤——Luna was here. Luna took Raysel.——名字加动词的重复，把"母亲带走女儿"这件荒唐事写成了既成事实。最后一句切回公文语域（notify Queen Windermere / abducted / outside the authority of the Mists）：Toby 用法律词汇宣布家事升级为跨境案件，句子越长、语域越冷，读者就越明白这一步已经超出私人范围。
 
 **读者视角提示**： 这一句回填了前面全部伏笔：植物性的血脉、"有些组合在精灵界就是不成立"、以及那滴从桌沿滑下的湿痕——到这里一次性结算。也注意她的第一反应不是去追，而是上报：对"权限"的敏感是这位叙述者政治本能的一部分。
 

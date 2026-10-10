@@ -50,7 +50,7 @@ modified: "2026-10-10"
 
 **关键词**： despairing sound / if not who would be following them / laying it
 
-**为什么这样写**： 顺序即真实时序：身体先失守（despairing sound），理智接管理由（I couldn’t help it），推理最后到场——她把"崩溃"和"复盘"压进同一段，读者跟着她从失态里把结论捡起来。分号把句子劈成两半：知道会被追 / 未必知道追的人是谁，if not who 这个插入让恐惧变了质——对方不是针对她，而是根本不必针对。句末 laying it 是全段的刀口：trail 与 laying 互相点火，前文所有"顺得可疑"的路都被这一句重新结算；下一段她顺势给出更准的定性："It might not have been a trap. It was definitely a trick, and we’d fallen for it."
+**为什么这样写**： 顺序即真实时序：身体先失守（despairing sound），理智接管理由（I couldn’t help it），推理最后到场——她把"崩溃"和"复盘"压进同一段，读者跟着她从失态里把结论捡起来。分号把句子劈成两半：前半"知道会被追"、后半"线索是他们自己铺的"；if not who 这个插入再把前半剖开一刀——被追是肯定的、追的人是谁未必，恐惧因此变了质：对方不是针对她，而是根本不必针对。句末 laying it 是全段的刀口：trail 与 laying 互相点火，前文所有"顺得可疑"的路都被这一句重新结算；下一段她顺势给出更准的定性："It might not have been a trap. It was definitely a trick, and we’d fallen for it."
 
 **读者视角提示**： 这一声绝望是本章的转折音：从这里开始，调查的目标从"追上绑匪"变成"拆穿布局"。读 Luna 那场戏时攥住那个问号——谁能提前知道她的计划，还来得及把局布得这么干净？
 
@@ -60,7 +60,7 @@ modified: "2026-10-10"
 
 **关键词**： knew what they were doing / abducted both by and then from her mother / talk to Luna
 
-**为什么这样写**： abducted both by and then from her mother 是全章最紧凑的一句句法杂技：一个动词、一个宾语，靠 by 与 from 两个介词把方向相反的两次绑架折叠进同一口气里，短语结构本身就在演示 Rayseline 被来回搬运的命运。I agreed 交代这场推理是两个人互相确认出来的，把侦探式的独白改成搭档对账；末句 Which means 一锤定音，句式从被动（has been abducted）翻到主动（we need to talk），人物从被牵着走翻到主动出击——本章后半程的冲突对象，在语法翻转的瞬间挂牌上岗。
+**为什么这样写**： abducted both by and then from her mother 是全章最紧凑的一句句法杂技：一个动词、一个受事主语（Rayseline），靠 by 与 from 两个介词把方向相反的两次绑架折叠进同一口气里，短语结构本身就在演示 Rayseline 被来回搬运的命运。I agreed 交代这场推理是两个人互相确认出来的，把侦探式的独白改成搭档对账；末句 Which means 一锤定音，句式从被动（has been abducted）翻到主动（we need to talk），人物从被牵着走翻到主动出击——本章后半程的冲突对象，在语法翻转的瞬间挂牌上岗。
 
 **读者视角提示**： 记住"被劫两次"这个结构，它是对 Luna 那场谈话的全部来由；也注意语气的分寸——说的是找 Luna"谈谈"，不带火气，这种冷静在后面的对峙里比怒吼更具压迫感。
 
@@ -80,7 +80,7 @@ modified: "2026-10-10"
 
 **关键词**： I used to wish / make her happy / get away as quickly as I can
 
-**为什么这样写**： 两个 I used to 排比把旧愿望写得极具体：不是抽象的敬爱，而是"睡前觉得有人爱我"这种孩子气的算式；And now 一转，同一个句框原地翻面，愿望变成逃跑。全段最重的是那句提问收尾（How could anything involving her ever be easy?）：她不控诉、不解释，只把问题递给丈夫，等于承认自己也没有答案——本章的处理是把所有激烈留在 Luna 那间屋里，走出墙缝之后才允许自己露出疲惫。句法全是简单句加一个反问，写得越平，读着越疼。
+**为什么这样写**： 两个 I used to 排比把旧愿望写得极具体：不是抽象的敬爱，而是"睡前觉得有人爱我"这种孩子气的算式；And now 一转，同一个句框原地翻面，愿望变成逃跑。全段最重的是那句提问收尾（How could anything involving her ever be easy?）：她不控诉、不解释，只把问题递给丈夫，等于承认自己也没有答案——本章的处理是把所有激烈留在 Luna 那间屋里，走出墙缝之后才允许自己露出疲惫。句式平实、几乎不设修饰，最后收在一个反问上，写得越平，读着越疼。
 
 **读者视角提示**： 注意这次坦白发生的位置——对质结束、人已出门；October 的重话总是迟半步、且只在安全距离外说。也留意"母亲"是本章的暗线：她与 Luna 的对峙，本质上是一场关于"谁有资格当母亲"的交锋。
 
@@ -90,7 +90,7 @@ modified: "2026-10-10"
 
 **关键词**： might as well have been, to us / our Lady / our savior
 
-**为什么这样写**： 两处 Even those of us 的平行结构是这段话的承重墙：她把"爱过主上的人"和"回不了家的人"这两种最难开口道谢的立场都排进来，等于代表整座 skerry 立证——感激不因忠诚而打折扣。our Lady 对 our savior，一组头韵短语把 October 的两种可能人生摆上台面：留在原地当象征，或者出手把人救出来；后者才是她被记住的方式。称谓语三级跳——I know you（认得）、全名加头衔 Sir October Daye（敬称）、our（归属）——一句话里完成从相认到归队的全套宫廷礼仪，也是被遗弃者向调查者递上"请愿书"的语感。
+**为什么这样写**： 两处 Even those of us 的平行结构是这段话的承重墙：她把"爱过主上的人"和"回不了家的人"这两种最难开口道谢的立场都排进来，等于代表整座 skerry 立证——感激不因忠诚而打折扣。our Lady 对 our savior，一组同以 our 起首的平行短语把 October 的两种可能人生摆上台面：留在原地当象征，或者出手把人救出来；后者才是她被记住的方式。称谓语三级跳——I know you（认得）、全名加头衔 Sir October Daye（敬称）、our（归属）——一句话里完成从相认到归队的全套宫廷礼仪，也是被遗弃者向调查者递上"请愿书"的语感。
 
 **读者视角提示**： 这是本章的道德天平段：谁被救过、谁没被救成、救人者自己怎么记账。留意 October 如何当场"卸任"——她不肯接"救主"这个称呼，只肯认领"顺带"的那部分（as a side effect），稍后又把这份感激兑换成一份具体差事。
 
