@@ -6,31 +6,31 @@ modified: "2026-10-10"
 # 05. Bad Time
 
 ## 本章导航
-**一句话概括**：露西（Lucy）为一整年没直接联系的妹妹帕蒂（Patty）飞去纽约过周末——她替妹妹擦掉室友男友扎克（Zach）留下的鼻血、看她一场并不成功的独角戏、在她三个闺蜜面前把忠贞讲成一场不公平的考试，凌晨三点离开妹妹的床去和那个当面贬低过妹妹的男人做爱；章末一段忽然跳回得州的高速公路，她想起自己多想活到九十岁，却看见九十岁的自己回望来说「别成为我」。
+**一句话概括**：露西（Lucy）为一整年没直接联系的妹妹佩蒂（Patty）飞去纽约过周末——她到场就赶上妹妹一边喊「我很不好」一边往静电拖把上换第好几片清洁垫、清掉室友卡洛琳的表弟扎克（Zach）一路滴下的鼻血迹子，她反过来劝妹妹别擦了、去准备演出、看她一场并不成功的独角戏、在她三个闺蜜面前把忠贞讲成一场不公平的考试，凌晨三点离开妹妹的床去和那个当面贬低过妹妹的男人做爱；章末一段忽然跳回得州的高速公路，她想起自己多想活到九十岁，却看见九十岁的自己回望来说「别成为我」。
 **情感弧线位置**：epub 目录页把本章列为 Part I 五章的最后一章，而它的位置感确实是「上半场收在一条下坡线上」：她在本章中段自己交代过此行的目标——让这次探访「set in motion a pattern」，成为姐妹之间随时串门、互相照看的常规；到本章末尾，这条常规被她自己的脚步打破。全章的情绪不是低谷而是错位——她越是想当好姐姐，越是控制不住地把妹妹的人生接过来判。
 **Tropes 兑现/反转**：兑现「姐妹照护」桥段（姐姐为「正过得不好」的妹妹赶来、陪她备战开场夜）。反转在照护的方向：她一路替妹妹判断（该放弃演戏、该看清男友、该防着扎克），而妹妹在本章递出的那个台阶——发现她被迫看片时说「Want to come help me concoct my lemonade punch?」——她没有接住；本章最后一个动作，是她绕过妹妹去做那件最不能让她知道的事。
-**人物弧线**：露西从「不再需要别人给她自证」走向「用这套自证去裁定别人」。一年没通话后，她给自己造出一句解脱式的判词（「You’re not a bad person. You’re just a person who’s bad at texting.」），并由此确信自己擅长「在人们需要的时候到场」；本章把这份确信一路推到极限——推到她在派对上口无遮拦，推到她把「别人都不懂忠诚」当作阅历优势，最后推到凌晨三点那趟离开床的脚步。帕蒂的弧线相反：她把坏状态一路压到深夜才泄出来，而泄出来的原因与露西无关（洛根没来）。
+**人物弧线**：露西从「不再需要别人给她自证」走向「用这套自证去裁定别人」。一年没通话后，她给自己造出一句解脱式的判词（「You’re not a bad person. You’re just a person who’s bad at texting.」），并由此确信自己擅长「在人们需要的时候到场」；本章把这份确信一路推到极限——推到她在派对上口无遮拦，推到她把「别人都不懂忠诚」当作阅历优势，最后推到凌晨三点那趟离开床的脚步。佩蒂的弧线相反：她把坏状态一路压到深夜才泄出来，而泄出来的原因与露西无关（洛根没来）。
 **叙事手法**：第一人称回忆体，主线是一个周四到周日的周末，中途两处插叙（一年前正月的电话与得州的恨意；十二三岁在五金店看见别的女孩出丑）；章末整段跳到得州夜间的高速，句子骤然变长。信息控制主要交给身体：心跳能被听见、胃随话题翻搅、脸后升起热与液体。动物比喻由视角外化（妹妹是狐獴、闺蜜团是企鹅、远处路灯下的电线杆像一队麋鹿）。性创伤不作正面叙述，本章只以「preemptively」（提前）与「surprised in the middle」（中途被惊到）这对词、以及一句无人回应的「Please don’t be me」间接显形。
 
 ## 精读
 
 > **原句 1:** "WHEN I WALKED IN WITH THE COFFEES, I FOUND MY sister equipped with a blue Clorox bottle, her arms dressed in the long yellow gloves that had been hanging above the dish rack. She lifted herself up from where she’d been scrubbing the cabinet door and stood for a quick, serious second in front of the sink. Meerkat-like."
 
-**中文理解**：本章第一场戏在清晨的厨房。妹妹帕蒂拿着蓝色漂水瓶、两臂套着晾在碗架上方的长黄手套，正在擦柜门；她站起来的那一秒钟神情严肃，但不是准备跟姐姐说早安——她在评估右边墙上的一处污渍。最后那个孤零零的词把她的姿态定成一只狐獴：直立、警戒、随时准备发现险情。这句的前半排印成一串大写字母，语气是勘查报告，不是叙旧。
+**中文理解**：本章第一场戏在清晨的厨房。妹妹佩蒂拿着蓝色漂水瓶、两臂套着晾在碗架上方的长黄手套，正在擦柜门；她站起来的那一秒钟神情严肃，但不是准备跟姐姐说早安——她在评估右边墙上的一处污渍。最后那个孤零零的词把她的姿态定成一只狐獴：直立、警戒、随时准备发现险情。这句的前半排印成一串大写字母，语气是勘查报告，不是叙旧。
 **关键词**：Clorox / gloves / Meerkat-like
-**为什么这样写**：清洁被写成一套搜索程序，而且作者先给读者一个误判（她以为妹妹要问好）再立刻纠正——帕蒂的注意力从来不在人身上。这个词的选择也让本书的动物线从第一章的豹子转成日常尺寸的比喻：本章它还会用在闺蜜团身上（「And they were penguins, these girls」）。同段稍后有一句总结式补笔：「It wasn’t that Patty’s New York apartment was particularly clean; it was just clean in a particular way」——要区分「干净」与「只属于一个人的那套干净」，本章全部冲突都来自别人能不能进入这套系统。
-**读者视角提示**：把本章出现的每个动物比喻记下它落在谁身上——它们是「露西此刻把谁当成被观察对象」的标记，而不是装饰。她看妹妹是狐獴、看闺蜜是企鹅、看远处的帕蒂是贵宾犬（粉色连指手套和护耳帽），而她自己的位置始终在观察这一侧。
+**为什么这样写**：清洁被写成一套搜索程序，而且作者先给读者一个误判（她以为妹妹要问好）再立刻纠正——佩蒂的注意力从来不在人身上。这个词的选择也让本书的动物线从第一章的豹子转成日常尺寸的比喻：本章它还会用在闺蜜团身上（「And they were penguins, these girls」）。同段稍后有一句总结式补笔：「It wasn’t that Patty’s New York apartment was particularly clean; it was just clean in a particular way」——要区分「干净」与「只属于一个人的那套干净」，本章全部冲突都来自别人能不能进入这套系统。
+**读者视角提示**：把本章出现的每个动物比喻记下它落在谁身上——它们是「露西此刻把谁当成被观察对象」的标记，而不是装饰。她看妹妹是狐獴、看闺蜜是企鹅、看远处的佩蒂是贵宾犬（粉色连指手套和护耳帽），而她自己的位置始终在观察这一侧。
 
 > **原句 2:** "The reason I was visiting her on such short notice was simple: Patty was having a bad time. She admitted this to me on the phone when I called her in mid-January for the first time in over a year."
 
 **中文理解**：本章题眼以一句解释给出：她临时飞去纽约，是因为妹妹「正过得不好」。但这句话里更冷的信息在冒号之后——她上一次和妹妹直接通话是一年多以前。「承认」这个词也值得停一下：坏日子是被妹妹亲口承认的，不是被发现的。
 **关键词**：short notice / bad time / mid-January
-**为什么这样写**：「a bad time」在本章被说两次，而顺序是关键：先有露西在电话里讲自己的分手（「It’s been a bad time over here.」），紧接着帕蒂用「I’m having a bad time too」把它接过去，原文还加了一句极准的补写——「taking on my lightly melancholy tone」（借用她那种略带忧郁的语气）。同一个短语由姐姐先给出，妹妹复述，于是两人困境被系在一起，却仍不平等。同段后文又补了第三层沉默：她与母亲自三月起没说话、已经十个月，而「Patty was a suppressor」（帕蒂是不揭丑的人），所以这件事她不确定妹妹知不知道——本章不解决它，只把它放在这个周末的地基上。
+**为什么这样写**：「a bad time」在本章被说两次，而顺序是关键：先有露西在电话里讲自己的分手（「It’s been a bad time over here.」），紧接着佩蒂用「I’m having a bad time too」把它接过去，原文还加了一句极准的补写——「taking on my lightly melancholy tone」（借用她那种略带忧郁的语气）。同一个短语由姐姐先给出，妹妹复述，于是两人困境被系在一起，却仍不平等。同段后文又补了第三层沉默：她与母亲自三月起没说话、已经十个月，而「Patty was a suppressor」（佩蒂是不揭丑的人），所以这件事她不确定妹妹知不知道——本章不解决它，只把它放在这个周末的地基上。
 **读者视角提示**：读这一句时把时间轴摆出来：一年多没直接通话、十个月不与母亲说话、周四到周日三天、周日之后要上班。这个周末的「临时」不是热情，是补救；后面她每一次过度插手（买啤酒、替妹妹规划），都可以按这份时限去读。
 
 > **原句 3:** "I could have murdered him. I wanted to push him and his stupid face in front of a speeding cab. The audacity to insult my sister’s show to me of all people. Who did he think he was and who did he think I was?"
 
-**中文理解**：散场后她在街边自我介绍是帕蒂的姐姐，扎克却说「我刚才只是客气」，接着评价那类幽默很做作。她的第一反应不是受伤而是杀意，具体到一辆飞驰的出租车；而且这四句全在脑内，没有一句说出口。最后两个问句把重点从「他说了什么」移到「我们各自是谁」——冒犯成立的条件不是内容，是身份。
+**中文理解**：散场后她在街边自我介绍是佩蒂的姐姐，扎克却说「我刚才只是客气」，接着评价那类幽默很做作。她的第一反应不是受伤而是杀意，具体到一辆飞驰的出租车；而且这四句全在脑内，没有一句说出口。最后两个问句把重点从「他说了什么」移到「我们各自是谁」——冒犯成立的条件不是内容，是身份。
 **关键词**：murdered / speeding cab / audacity
 **为什么这样写**：紧随这段的原文给出本章最锋利的一条自我规则：「I had permission to say it could use some polishing because I was her sister. He obviously didn’t have that permission」。同一句评价，她说出来是权利，他说出来是僭越——作者用「内容相同、许可不同」把姐妹关系写成一种排他资格。这也为章末她仍然要替妹妹决定一切预先立好了正当性。同时这段的夸张（推人上车前）提醒读者：本章她的攻击性远大于事件本身的分量；而她对扎克身份的判断也很快被更正——后来他自己说明「Caroline’s my cousin」，他只是喝多了来表亲地板上睡的人。
 **读者视角提示**：本章她心里的话和说出口的话是两条分开的线，落差极大（这里她想推人，实际什么都没说）。读到她后来在派对上那些刻薄的、当众出口的句子时，别把它们当成她「变大胆」的证据，先回来看这条内心线。
@@ -46,7 +46,7 @@ modified: "2026-10-10"
 
 **中文理解**：扎克问她是不是多边恋、又接连追问她是不是把「被别的男人看」当癖好之后，她先失灵的是胃。四句里没有一句讲道理：先是「又」疼了，然后是液体与搅动的两个形容词，然后是一个纯功能性的句子（我得去趟洗手间），最后才是她突然掉进自怜。
 **关键词**：stomach / turbulent / tremendously
-**为什么这样写**：「again」是本章身体线的接头词。前文已经把它的来路交代过：新年时埃利斯（Ellis）发来的那条私信之后，「The guilt was killing my gut」，并且疼痛「kept bubbling up with this horrible gastrointestinal pain at randomly inconvenient times」。所以这里不需要解释情绪名称，器官先给事实。作者也让两句极短的话（「Swishy, turbulent.」）承担生理的不可控感；同一手法在她拒绝帕蒂递来的台阶时又一次出现——「But I felt like lead on the floor」（人在地板上像灌了铅）。本段紧接着的是羞耻而不是疼痛：「I hoped that everyone would forget everything I’d said」——先难受，后懊悔，顺序不能反。
+**为什么这样写**：「again」是本章身体线的接头词。前文已经把它的来路交代过：新年时埃利斯（Ellis）发来的那条私信之后，「The guilt was killing my gut」，并且疼痛「kept bubbling up with this horrible gastrointestinal pain at randomly inconvenient times」。所以这里不需要解释情绪名称，器官先给事实。作者也让两句极短的话（「Swishy, turbulent.」）承担生理的不可控感；同一手法在她拒绝佩蒂递来的台阶时又一次出现——「But I felt like lead on the floor」（人在地板上像灌了铅）。本段紧接着的是羞耻而不是疼痛：「I hoped that everyone would forget everything I’d said」——先难受，后懊悔，顺序不能反。
 **读者视角提示**：把本章的身体反应当可读的时间轴用：心跳（能被自己听见、把夹克拉链误认成心搏）、胃、脸后的热与液体。每次读到她说出过分的话，先回看她上一段有没有写到身体——那才是判断她真实状态的更可靠的表。
 
 > **原句 6:** "I think if you’re having sex with someone for the first time, you should tell them preemptively that choking is a behavior you don’t like and that you don’t want to do anal either, so that you don’t get surprised in the middle. I think we should make sure to set the expectation as: sex should be gentle and regular at first. Don’t you think?"
