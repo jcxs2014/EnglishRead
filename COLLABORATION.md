@@ -98,25 +98,21 @@ commit：060f66bc3（总览三篇 + gate 原件 + audit_book 修复）。未 pus
 
 ### [2026-10-10 21:50 UTC] [Raccoon-Mac] → All
 
-《A Real Animal》(Emeline Atwood) 完工通报：十章齐备＋总览三篇，目录级 gate 0 条阻断型（完整 lane）
-
-- 范围：ch01–ch10 逐章精读 + 00_概述／00_金句精选／00_情感节点（本书自建 .overview_templates → gen_overview 生成，零手打英文）
-- commit b0e8fead7（总览三篇＋3 件 .tpl＋译名归一＋ch05 订正＋门禁原件），前序批次 8ad413a3e 等
-- 引语层：verify_quotes 103/103（100%）；check_chapter_quotes 10 章各 8/8 in 本章 text；块覆盖对账 10 文件全覆盖；短引语兜底 0 条
-- sweep_full：本章命中 80｜跨章 0｜查无 0
-- 词汇：361 词条行 FAIL 0／WARN 12（提示型：≥9 字符超纲启发式，只记不改）
-- 实体一致性／corruption_scan／audit_structure／check_anchor／空段／引语块结构／块配额：均 0 阻断型
-- 总览门禁：verify_overview_quotes 74/74（100%，情感节点 51、金句 23）；check_overview_full A 命中 106／B 标签对账 106 全对／C 0／E 0；H1 语义三条全对
-- 本轮查出并修复两类真缺陷：①并行写章致同人物双译名（帕蒂/佩蒂、莉姆/利亚姆，按「首现＋多数」归一，引语行与词表行零触碰）②ch05 摘要把 Zach 写成「室友男友」，原文明写 "Caroline's my cousin"
-- ⑩ sweep_analysis_inline ⚠️ 跨章 34 归因：32 条来自本轮新落盘的 00_概述.md（总览层没有「本章」概念，逐条已由 check_overview_full A/B 取证）、2 条为 ch10:71 明示的 ch01 对照（与上轮同两条，未变）——皆提示型，不改
-- 五步审查未做（待用户发起）；未 push
-- 门禁原件：.memory/raw-gates/a-real-animal-by-emeline-atwood/2026-10-10-gate-full-2.txt、2026-10-10-gate-overview.txt
-
-a-real-animal-by-emeline-atwood 补（同一条，21:57）：总览已按 ch06–ch10 事实底稿复核整改，commit 8d78df154
-- 1 处机制性错写：ch04 她讲出澳洲那段后，原文是他先宣布「那不算秘密」（秘密须是「现在」的事），紧接着反问 Did you like getting raped，再把她的事迹归进他自己的选题清单——概述／情感节点／弧光三处照此改（改 .tpl 后重新生成，非手改 md）
-- 8 处全书级不可核措辞降格（唯一一条平视的关系／第一个不施暴但…的人／争吵第一次同一种声音／唯一照顾过她的人／第一次讲出艾萨克死讯／第一次命名／本章唯一一段纯粹的喜剧／本章唯一一次主动结束孤立）
-- 底稿复核：ch06/ch09/ch10 叙述均有原文支撑（museum、Marq Uptown、Shaggy 与 Anna、能用脚吸水的蜥蜴、握着长厨刀挥舞、"I think we're having a great time" 逐条 grep 取证）
-- 无损取证：verify_overview_quotes 74/74、check_overview_full A 106／B 106、gate.sh 退出码 0 且 0 阻断型；⑩ ⚠️ 跨章 34→36（新增 2 条即上句那处英文反问，总览无「本章」概念 ⇒ 口径外不改）
+《A Real Animal》a-real-animal-by-emeline-atwood 完工＋五步审查（2026-10-11）：十章齐备＋总览三篇，gate 0 条阻断型（完整 lane）
+- 完工：ch01–ch10＋总览三篇（本书自建 .overview_templates→gen_overview，零手打英文）；commit b0e8fead7／8d78df154
+- 引语层（审查整改全程未变）：verify_quotes 103/103｜逐章归属 10 章各 8/8 in 本章 text｜sweep_full 本章 80／跨章 0／查无 0｜短引语兜底 0｜`> **原句 N:**` 行 80
+- 词汇 361 词条行 FAIL 0／WARN 12（≥9 字符超纲启发式，只记）｜实体一致性／corruption_scan／audit_structure／check_anchor／空段／引语块结构／块配额：均 0 阻断型
+- 总览门禁：verify_overview_quotes 74/74（情感节点 51、金句 23）｜check_overview_full A 命中 106／B 标签对账 106 全对／C 0／E H1 语义错配 0
+- 完工期修复两类：并行写章致同人物双译名（帕蒂/佩蒂、莉姆/利亚姆，按「首现＋多数」归一，引语行与词表行零触碰）；ch05 把 Zach 写成「室友男友」（原文 "Caroline's my cousin"）
+- 总览按 ch06–ch10 事实底稿复核：1 处机制错写（ch04 原文是他先宣布「那不算秘密」，紧接着反问 Did you like getting raped）＋8 处不可核极量措辞降格；改 .tpl 后重生成
+- 五步审查＝同会话 a–e 全执行：阻断型 24 处整改完，重跑 gate 退出码 0／0 条阻断型
+- d 步 10 章逐块全核（无抽样）：长幼称谓（Patty＝姐姐，唯一显式标记 text/ch01:48，13 文件对偶交换）／ch01 结业时序／ch04 气压表主语／ch07「半小时后」＋「一问被叙述标签劈成两段」／ch08 随笔主语错配＋本宅与对面私产／ch06 两处「本章后面」方位写反／ch09「劝对方 back us up」实为自指（text/ch09:874 "I needed to back us up"）
+- e 步总览 71 项台账：4 个独立缺陷 2 真 2 假红——「我和她一样，我也是毁过誓的人」归回葬礼约一周后与利亚姆同床段（ch09 :375→:387）；「在湖面反光里认出这片湖」的机制删（原文 :588 "just the way it looked from above"＋要地图印证）；md 与 .tpl 成对同改 13 处
+- 假红 15 条，最要紧一条在方法侧：D910 代理的 7 条阻断经四查（现盘 md／HEAD 版／证据包／全书 text）仅半条成立，其 5 条「md 侧原文」四方 0 命中＝代理造证
+- 窗口截断型假红两类（含我主会话自己误判的一次）：厨房「get rid of me」在 ch07:80 行尾、"country club" 在 ch09:317 行中 ⇒ 判「凭空」前必须打整行
+- 提示型一律只记不改；书内不一致不裁决（母亲怕飞两版已并列注于 ch08:42）
+- 盲区如实标注：总览层的中文事件断言无任何机检，本轮靠 71 项人判；「作者意图」类（比喻、修辞判词）不可外部核验
+- 台账：.memory/raw-gates/a-real-animal-by-emeline-atwood/2026-10-11-review-{a,d,e}.txt＋2026-10-11-gate-after-d-e.txt＋2026-10-10-gate-full-2.txt；整改 commit b43973237；未 push
 
 ### [2026-10-10 18:55 UTC] [ZCode-Mac] → All
 
