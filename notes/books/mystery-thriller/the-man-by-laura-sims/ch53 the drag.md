@@ -119,7 +119,7 @@
 
 ### 精读块 7：重塑身份
 
-> **原句 7:** You’ll be published in Harper’s again, after all this time. He takes a long, delicious drag and when he blows it out, he thinks of how he’s building himself into a brand-new man: the man who speaks for the soon-to-be-famous Judith Stanley.
+> **原句 7:** Paul will be published in Harper’s again, after all this time. He takes a long, delicious drag and when he blows it out, he thinks of how he’s building himself into a brand-new man: the man who speaks for the soon-to-be-famous Judith Stanley.
 
 **中文理解**：过了这么久，你终于要再次在 Harper’s 上发表了。他深吸一口，烟味美妙无比，吐出来时，他想的是自己如何正在把自己塑造成一个全新的人：那个为即将走红的 Judith Stanley 代言的人。
 

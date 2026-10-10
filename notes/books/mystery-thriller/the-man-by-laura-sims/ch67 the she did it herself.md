@@ -38,7 +38,7 @@
 
 ### 精读块 2：1934 年的报纸文章
 
-> **原句 2:** Schuyler opens a file, takes out a yellowed paper, and slides it across the desk. "Have you seen this?" he asks. Paul shakes his head as he studies it: an article from the Somerset Daily Register, from June 1934. "Local Girl Attacked by Afternoon Intruder." Ancient history. Below the title, there's a picture of a young, unsmiling girl. Her head slightly tilted, her shoulder-length hair neatly curled. A high school portrait, Paul notices first. Judith, he notices next.
+> **原句 2:** Schuyler opens a file, takes out a yellowed paper, and slides it across the desk. "Have you seen this?" he asks. Paul shakes his head as he studies it: an article from the Somerset Daily Register, from June 1934. "Local Girl Attacked by Afternoon Intruder." Ancient history. Below the title, there's a picture of a young, unsmiling girl. Her head slightly tilted, her shoulder-length hair neatly curled. A high school portrait, Paul notices first. Judith, he notices next. Judith is the "local girl."
 
 **中文理解**：Schuyler 打开档案，抽出一张泛黄的纸，滑过桌面推过来。"你见过这个吗？"他问。Paul 摇头研究着它：这是1934年6月《萨默塞特每日记事报》的一篇文章。"当地女孩遭午后入侵者袭击"。陈年旧事了。标题下方是一张年轻、不笑的女孩照片。她的头微微倾斜，齐肩的头发整齐地卷着。高中肖像照，Paul 先注意到。Judith，他接下来注意到。
 

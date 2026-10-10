@@ -118,22 +118,16 @@ Paul 主动提出送她上车，Judith 感到"conscious of my body"——这是�
 ### 5. 停车场分别：光与影的意象
 
 结尾 Judith 想为 Paul 拍照——他在 heavily shadowed parking lot 中穿过 streetlamps 的光池：
-> **原句 8:** "Moody and striking, he'd say."
+> **原句 8:** "Moody and striking, he'd say, when I showed it to him. I love the deep contrast here—the man striding in and out of darkness and light."
 
-**中文理解**："有氛围且 striking，他会这么说。"
+**中文理解**："有氛围且 striking，他会这么说，当我给他看的时候。我喜欢这里强烈的对比——那个男人在光与暗之间穿行。"
 
 **关键词：**
 - **Moody and striking**：Paul 的摄影评价词汇——Judith 用这个词描述他本人，主体与客体混淆
-
-**为什么这样写**：这句话有双重含义：Paul 会用"moody and striking"来评价这张照片；Judith 也在用这个词描述她眼中 Paul 的形象——他在光与暗之间的穿行，既是物理现实，也是她的情感投射。
-
-> **原句 9:** "I love the deep contrast here—the man striding in and out of darkness and light."
-
-**中文理解**：我喜欢这里强烈的对比——那个男人在光与暗之间穿行。
-
-**关键词：**
 - **the contrast**：标题的落地——光与暗的对比，也是全章主题词
 - **striding in and out of darkness and light**：动态的穿行——Paul 在光影之间，Judith 在接近与退缩之间
+
+**为什么这样写**：这句话有双重含义：Paul 会用"moody and striking"来评价这张照片；Judith 也在用这个词描述她眼中 Paul 的形象——他在光与暗之间的穿行，既是物理现实，也是她的情感投射。"the contrast"是标题的落地。
 
 **为什么这样写**：**"the contrast"**——这是标题的落地，也是全章的主题词。Paul 在光影之间穿行；Judith 在接近与退缩之间穿行；那个男人在存在与消失之间穿行。三种 contrast 叠加在同一句话里。
 
