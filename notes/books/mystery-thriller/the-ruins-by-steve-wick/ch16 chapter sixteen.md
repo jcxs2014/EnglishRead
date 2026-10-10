@@ -113,12 +113,12 @@ modified: "2026-10-10"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | telegram | 电报 | On top of the telegram were more letters from Pauline Blobel. |
-| assembled | 组装 | He assembled the sections and carried it to the hallway. |
+| assembled | 组装 | He assembled the sections, carried it to the hallway, and tilted it up so that it extended into the attic. |
 | grieving | 悲伤的 | We remain a family in grieving. |
 | forester | 林务员 | He is working as a forester on the old Bismark estate. |
 | headline | 标题 | The headline says, SEVEN HANGED FOR NAZI WAR CRIMES. |
 | prominent | 杰出的、著名的 | We were both prominent surgeons. |
-| smuggled | 偷运、偷渡 | He smuggled himself onboard an ocean liner. |
+| smuggled | 偷运、偷渡 | He was from Kamenz, Germany, and smuggled himself onboard an ocean liner and landed in New York City. |
 
 ### ⭐ 基础
 

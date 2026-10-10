@@ -104,8 +104,8 @@ modified: "2026-10-10"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| contemptuous | 轻蔑的 | Henry was contemptuous of politicians and the political system. |
-| deportation | 驱逐出境 | She is awaiting deportation in a federal halfway house. |
+| contemptuous | 轻蔑的 | Henry was both jovial and serious, contemptuous of politicians and the political system. |
+| deportation | 驱逐出境 | She is out of prison and awaiting deportation in a federal halfway house off Times Square. |
 | selections | 挑选（去毒气室） | Mengele was on the platform making selections. |
 | extermination | 灭绝 | I didn’t believe Germany was capable of wholesale extermination. |
 | collaborator | 合作者、通敌者 | Doc’s accusation that she was a “collaborator.” |

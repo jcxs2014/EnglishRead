@@ -95,7 +95,7 @@ modified: "2026-10-10"
 | unpleasant | 令人不快的 | Avoiding people and unpleasant conversations was his mission. |
 | postmarked | 盖邮戳的 | They were postmarked February 21, 1939. |
 | Handwriting | 笔迹 | Handwriting on the note read: Helmuth, ich dachte, das würde dir gefallen. |
-| ordinariness | 平凡、普通 | The photographs were vulgar in their ordinariness. |
+| ordinariness | 平凡、普通 | The photographs of these men and some uniformed women were vulgar in their ordinariness. |
 | normalness | 平常性 | There was an obscenity to the normalness of them happily posing. |
 | unaccounted | 下落不明的 | Approximately $35,000 Lindbergh ransom money unaccounted for. |
 
@@ -105,7 +105,7 @@ modified: "2026-10-10"
 |---|---|---|
 | shimmered | 闪烁、泛光 | The last light of day shimmered on the surface of the salt creek. |
 | trapdoor | 活板门 | He pulled on the rope that lowered the trapdoor to the attic. |
-| postcards | 明信片 | He found two postcards from his mother to his father. |
+| postcards | 明信片 | At the bottom of the trunk, he found a manila envelope containing two postcards from his mother to his father. |
 | signature | 签名 | His mother’s signature—Joyce Beirne—was on both. |
 | swastika | 纳粹卐字 | Inside was his father’s Bund uniform, the swastika armband on the shirt sleeve. |
 | revulsion | 厌恶、反感 | Brought on a sickening revulsion. |
@@ -116,9 +116,9 @@ modified: "2026-10-10"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | house | 房子 | He barely left the house. |
-| car | 汽车 | He parked the car and waited for recess. |
+| car | 汽车 | Some afternoons he drove by his son’s elementary school, parked the car, and waited for recess so he could see Pauli on the playground. |
 | attic | 阁楼 | He pulled on the rope that lowered the trapdoor to the attic. |
-| boxes | 箱子 | He went through the boxes. |
+| boxes | 箱子 | At night he sat in his bungalow, reading and rereading all the material he had collected, going through the boxes. |
 | boy | 男孩 | Once he caught the boy’s eye and waved to him. |
 | bungalow | 平房 | He walked from his car along the street to the bungalow. |
 | magazine | 弹匣 | Pulling out the magazine, he could see it was fully loaded. |

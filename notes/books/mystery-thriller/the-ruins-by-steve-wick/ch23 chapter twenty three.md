@@ -115,7 +115,7 @@ modified: "2026-10-10"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | child | 孩子 | They would not have known which window was the child’s nursery. |
-| attic | 阁楼 | The homemade ladder he used to get into the attic. |
+| attic | 阁楼 | He also envisioned the homemade ladder in his father’s house that he used to get into the attic. |
 | confession | 自白 | This is a confession. |
 | copies | 副本 | When Doc arrived, Paul gave him the copies. |
 | deputy | 副手 | Paul rang the deputy’s house. |

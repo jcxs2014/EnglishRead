@@ -93,7 +93,7 @@ modified: "2026-10-10"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | photographs | 照片 | It featured photographs of two men in a laboratory. |
-| disappeared | 消失 | When Joyce disappeared, he was completely stunned. |
+| disappeared | 消失 | When Joyce disappeared, just vanished from his life and your life, he was completely stunned and heartbroken. |
 | going-away | 告别（聚会） | Attend a going-away party on December 5, 1933. |
 | German-language | 德语的 | A worn, yellowed, German-language brochure fell out of the magazine. |
 

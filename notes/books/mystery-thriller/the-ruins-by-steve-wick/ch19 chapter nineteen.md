@@ -108,7 +108,7 @@ modified: "2026-10-10"
 | preserved | 保存 | It must be preserved. |
 | obscenity | 猥亵、可憎 | The obscenity of it, my God! |
 | barbarian | 野蛮人 | This barbarian is a member of your family. |
-| celebrate | 庆祝 | A wonderful, festive time to celebrate our heritage. |
+| celebrate | 庆祝 | This was a wonderful, festive time to celebrate our great heritage, our race, and our leader. |
 
 ### ⭐ 基础
 

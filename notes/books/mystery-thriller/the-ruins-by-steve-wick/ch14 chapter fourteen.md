@@ -80,8 +80,8 @@ modified: "2026-10-10"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| descriptive | 描述性的 | She wasn’t “missing” or anything else as descriptive. |
-| magnifying | 放大的 | He rummaged through drawers until he found a magnifying glass. |
+| descriptive | 描述性的 | She wasn’t “missing” or “ran off with another man” or anything else as descriptive. |
+| magnifying | 放大的 | He rummaged through drawers in the kitchen and in his bedroom until he found a magnifying glass. |
 | grievances | 积怨、不满 | Stay on one investigation before branching off into the grievances you have against your father. |
 | Deportation | 驱逐出境 | Deportation to Germany is scheduled for October 5. |
 | breathless | 上气不接下气的、兴奋的 | He told me about it in his breathless way what a great night it was. |

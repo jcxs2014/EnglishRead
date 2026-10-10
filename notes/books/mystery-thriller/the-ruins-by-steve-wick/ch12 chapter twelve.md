@@ -117,17 +117,17 @@ modified: "2026-10-10"
 | cabinets | 橱柜 | He saw the cabinets had been emptied. |
 | swastika | 纳粹卐字 | On the far wall by the front door was a painted swastika. |
 | frighten | 吓唬 | Bringing in his deputy would accomplish little more than to frighten him. |
-| hardware | 五金店 | He drove to the hardware store in the village. |
+| hardware | 五金店 | After an hour he got up, drove to the hardware store in the village and bought two gallons of white paint, a brush, and a roller. |
 | elements | 分子、人群 | Levitt is making sure the wrong elements can’t live there. |
 | retained | 被聘为律师 | My law office in our village has been retained by the Haase family. |
-| horrific | 骇人的 | He questioned him about the horrific murder. |
+| horrific | 骇人的 | He has confronted my client Mr. Haase in a rough way, questioning him about the horrific murder of the poor woman found ripped apart off Wellwood Avenue. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | house | 房子 | Instead of going inside the house, he walked to the creek. |
-| back | 后排 | He took a seat in the back. |
+| back | 后排 | Paul walked upstairs to the village board meeting at one P.M. and took a seat in the back. |
 | brush | 刷子 | He bought two gallons of white paint, a brush, and a roller. |
 | camera | 相机 | His first thought was to call Cantwell and ask him to come with the camera. |
 | cushion | 坐垫 | Turning the couch upright, he fell onto the cushion. |

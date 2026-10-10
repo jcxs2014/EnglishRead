@@ -101,7 +101,7 @@ modified: "2026-10-10"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | checkout | 收银台 | Before he walked to the checkout, he returned the six-pack. |
-| reflected | 映照 | The creek was a mirror that reflected his image back at him. |
+| reflected | 映照 | The creek was his own lighthouse, a mirror that reflected his image back at him, a steady beacon. |
 | ignoring | 无视 | You are ignoring the messages of people who want you to stop. |
 | allowing | 使……得以 | His big body pitched forward, allowing Paul to jump out of the way. |
 
@@ -112,8 +112,8 @@ modified: "2026-10-10"
 | driver | 司机 | Schmidt looked out the driver’s side window. |
 | pistol | 手枪 | His hands shook wildly, a bad condition for a man holding a pistol. |
 | wheel | 方向盘 | Schmidt was behind the wheel. |
-| engine | 引擎 | Schmidt gunned the engine and was gone. |
-| fishing tackle | 钓具 | He put the fishing tackle in the back of the truck. |
+| engine | 引擎 | Schmidt gunned the engine, spun around in the street, and was gone. |
+| fishing tackle | 钓具 | In the morning, Paul went to the garage and put the fishing tackle in the back of the truck. |
 
 ## 一句话总结
 

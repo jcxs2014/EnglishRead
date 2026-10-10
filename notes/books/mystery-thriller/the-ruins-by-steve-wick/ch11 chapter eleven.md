@@ -96,7 +96,7 @@ modified: "2026-10-10"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | church | 教堂 | Parking behind the church, they walked around to the front. |
-| cookout | 户外烧烤聚餐 | The Haggartys and the Polish family are doing a cookout. |
+| cookout | 户外烧烤聚餐 | The Haggartys and the Polish family that bought the farm next to them are doing a cookout. |
 | leather gloves | 皮手套 | The softness of the leather gloves was so familiar. |
 | note | 字条 | Next to it was a note. |
 | sun | 太阳 | The sun peeking over the line of oak trees on the eastern edge of the farm. |

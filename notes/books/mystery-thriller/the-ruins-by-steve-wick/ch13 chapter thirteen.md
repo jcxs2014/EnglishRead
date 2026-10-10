@@ -108,7 +108,7 @@ modified: "2026-10-10"
 | binoculars | 双筒望远镜 | From the glove box he removed a pair of binoculars. |
 | insistence | 坚持 | He was hired here at his wife’s insistence. |
 | microfiche | 微缩胶片 | A large, high-ceilinged room filled with microfiche machines. |
-| grim-faced | 表情阴沉的 | Dozens of mug shots: grim-faced men and a woman named Lily Stein. |
+| grim-faced | 表情阴沉的 | Dozens of mug shots were spread across the screen: grim-faced men and a woman named Lily Stein. |
 | government | 政府 | The government said it was about sabotage. |
 
 ### ⭐⭐ 进阶

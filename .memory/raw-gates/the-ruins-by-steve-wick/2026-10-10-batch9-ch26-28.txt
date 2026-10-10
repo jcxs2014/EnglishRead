@@ -1,0 +1,51 @@
+=== 2026-10-10 批9（ch26-28）门禁 ===
+（本批同时修复 check_vocab 新判据暴露的旧批次 26 条非逐字例句：ch08/ch11/ch12/ch13/ch14/ch15/ch16/ch17/ch18/ch19/ch20/ch21/ch23/ch24）
+
+--- verify_quotes ---
+
+=== 总计 173/173 引文可核实（100%）；完全干净文件 28/28；正文章节 0 提取 0；总览 0 提取转交 0 ===
+（ch27 原句4 补 "she said." 叙述标签；ch26 原句2 补 "I can't explain..." 中间句；ch28 原句7 拆掉跨段拼接）
+
+--- check_vocab ---
+词条行合计: 513
+--- FAIL (0) ---
+--- WARN (15) ---
+  ch04 chapter four.md [基础] 基础档疑含超纲词「bartender」
+  ch05 chapter five.md [基础] 基础档疑含超纲词「customers」
+  ch06 chapter six.md [基础] 基础档疑含超纲词「carpenter」
+  ch09 chapter nine.md [基础] 基础档疑含超纲词「bookkeeper」
+  ch09 chapter nine.md [基础] 基础档疑含超纲词「assistance」
+  ch13 chapter thirteen.md [基础] 基础档疑含超纲词「employees」
+  ch14 chapter fourteen.md [基础] 基础档疑含超纲词「flashlight」
+  ch21 chapter twenty one.md [基础] 基础档疑含超纲词「engine」
+  ch22 chapter twenty two.md [基础] 基础档疑含超纲词「detective」
+  ch23 chapter twenty three.md [基础] 基础档疑含超纲词「confession」
+  ch24 chapter twenty four.md [基础] 基础档疑含超纲词「belongings」
+  ch24 chapter twenty four.md [基础] 基础档疑含超纲词「invitation」
+  ch26 chapter twenty six.md [基础] 基础档疑含超纲词「farmhouse」
+  ch28 chapter twenty eight.md [基础] 基础档疑含超纲词「bureaucrats」
+  ch28 chapter twenty eight.md [基础] 基础档疑含超纲词「chief prosecutor」
+
+--- check_chapter_quotes ---
+ch26 chapter twenty six.md: 5/5 in ch26 text
+ch27 chapter twenty seven.md: 6/6 in ch27 text
+ch28 chapter twenty eight.md: 7/7 in ch28 text
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- corruption_scan ---
+=== 编辑损坏扫描（the-ruins-by-steve-wick）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+=== 引语整串 flat 比对（the-ruins-by-steve-wick）===
+  参照集：text/ 逐章（42 章，可定章） + epub 交叉验证
+  ✅ 本章命中 173 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 3 条归 check_short_quotes；无章可对 0 条未判）
+
+--- check_short_quotes ---
+=== 短引语兜底核对（the-ruins-by-steve-wick）===
+  verify_quotes 跳过（<20 flat 字符）的引语：3 条 —— 这些主门禁根本没查
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0

@@ -105,7 +105,7 @@ modified: "2026-10-10"
 | shutters | 百叶窗 | The window unlocked, the shutters open. |
 | scrambled | 炒（蛋） | Inside, he scrambled eggs. |
 | nightmare | 噩梦 | He was half asleep, trying to shake off the nightmare. |
-| coffeepot | 咖啡壶 | He went to the kitchen to get the coffeepot going. |
+| coffeepot | 咖啡壶 | He turned on all the lights and went to the kitchen to get the coffeepot going. |
 | customary | 惯常的 | Doc was in his customary suit and bow tie. |
 | bedsheets | 床单 | He threw a heap of clothes and bedsheets on the couch. |
 | souvenir | 纪念品 | Perhaps he picked it up as a souvenir of the day. |

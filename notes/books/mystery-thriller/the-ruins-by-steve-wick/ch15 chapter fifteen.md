@@ -93,7 +93,7 @@ modified: "2026-10-10"
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | conducting | 进行（调查） | I am conducting a murder investigation. |
-| determined | 决意要做的 | I can only conclude that you are determined to frame Mr. Haase. |
+| determined | 决意要做的 | I can only conclude from this that you are determined to frame Mr. Haase for the murder of the McKay woman. |
 | confronting | 当面质问 | You will refrain from confronting Rudolf or Charlotte Haase. |
 | threatening | 威胁性的 | For a moment he thought about Doc and the threatening note. |
 | mentioning | 提及 | Paul thought of mentioning the legal document. |
@@ -105,7 +105,7 @@ modified: "2026-10-10"
 | persisted | 坚持、执意 | Yet you persisted. |
 | conclude | 得出结论 | I can only conclude from this that you are determined to frame Mr. Haase. |
 | barracks | 州警营部 | You will turn over the McKay investigation to the state police barracks. |
-| violated | 被侵犯 | McGregor screamed as if his rights had been violated. |
+| violated | 被侵犯 | McGregor let out a dramatic scream as if his rights had been violated. |
 | interfere | 干涉 | If you interfere with the state police, you will be gone immediately. |
 | relieved | 感到宽慰 | He was relieved to see that it was a few minutes before six A.M. |
 
@@ -113,9 +113,9 @@ modified: "2026-10-10"
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| mayor | 市长 | Haase were seated in front of the mayor’s desk. |
+| mayor | 市长 | Brady Whitener and Mr. and Mrs. Haase were seated in chairs set in a half circle in front of the mayor’s desk. |
 | arm | 手臂 | Schmidt gathered them up and tucked them under his arm. |
-| camera | 相机 | McGregor stood with his camera draped over his right shoulder. |
+| camera | 相机 | Leaning against the paneled wall next to Madden’s desk stood McGregor, his arms folded, his camera draped over his right shoulder. |
 | cabinets | 文件柜 | McGregor took photographs of Schmidt going through the cabinets. |
 | ex-wife | 前妻 | The editor of the local newspaper is dating your ex-wife. |
 

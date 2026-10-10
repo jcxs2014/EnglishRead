@@ -117,7 +117,7 @@ modified: "2026-10-10"
 |---|---|---|
 | brother | 兄弟 | He guessed one of the men was his brother. |
 | cello | 大提琴 | Doc was playing a cello. |
-| piano | 钢琴 | He pushed his cello forward and leaning it against the side of the piano. |
+| piano | 钢琴 | Pushing his cello forward and leaning it against the side of the piano. |
 | table | 桌子 | He slid a sheaf of papers onto the table. |
 | body | 尸体 | Uniformed cops stood around the body. |
 | back door | 后门 | He watched him lay his violin on the kitchen table and stare out the back door. |
