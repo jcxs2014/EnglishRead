@@ -27,15 +27,15 @@ modified: "2026-10-09"
 
 **读者视角提示**：这家酒店曾是阿姨叔叔住的地方，现在被开发商改造成高档酒店——gentrification 的另一例证。
 
-> **原句 2:** "The man who opened the door was small, thin, and dressed in a tight black T-shirt, black jeans, and white tennis shoes."
+> **原句 2:** "The lobby was empty but for a single front-desk clerk who stood behind the counter. Lynette nodded to her, passed the closed restaurant, and went into the hotel's only bar, the Driftwood Room, a small, 1950s bar that looked like a kidney-shaped swimming pool."
 
-**中文理解**：开门的男人矮小瘦削，穿紧身黑 T 恤、黑牛仔裤、白球鞋——刻意打扮的形象。
+**中文理解**：大堂空无一人，只有一个前台职员。Lynette 点头示意后穿过关闭的餐厅，走进酒店唯一的酒吧 Driftwood Room——一个像肾形泳池的小巧 1950 年代风格酒吧。
 
-**关键词**：tight black T-shirt / white tennis shoes
+**关键词**：empty / Driftwood Room / kidney-shaped swimming pool
 
-**为什么这样写**：tight 暗示他想显得年轻或有型。全黑搭配是中年男性试图保持魅力的典型选择。
+**为什么这样写**：用建筑细节呈现酒店的衰败与复古感。kidney-shaped 是 1950 年代的标志性设计，暗示这家酒吧停留在过去。
 
-**读者视角提示**：这个男人与她的父亲或 Kenny 形成对照——他是她生活中的"另一个世界"。
+**读者视角提示**：这个场景呼应了前文对 Hotel deLuxe 的描述——它曾是 The Mallory，现在被改造成高档酒店，但内部仍保留着旧时代的痕迹。
 
 > **原句 3:** "'I've always liked that you're on time,' the pudgy man said to Lynette. 'I don't think you've been late once. No one else I know is like that, except for me maybe.'"
 
@@ -67,7 +67,7 @@ modified: "2026-10-09"
 
 **读者视角提示**：Driftwood Room 是她童年记忆中阿姨叔叔会来的地方，现在变成她与已婚男人约会的场所——时空错位。
 
-> **原句 6:** "He had a wedding ring on his left hand, a SAE fraternity ring on his right, and a white-gold Montblanc watch on his wrist."
+> **原句 6:** "The man had a wedding ring on his left hand, a SAE fraternity ring on his right, and a white-gold Montblanc watch on his wrist."
 
 **中文理解**：他左手戴婚戒，右手戴兄弟会戒指，手腕上是白金万宝龙手表——身份符号的堆砌。
 

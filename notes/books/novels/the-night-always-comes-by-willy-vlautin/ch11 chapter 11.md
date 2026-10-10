@@ -20,7 +20,7 @@
 
 **读者视角提示**: Cody 的谨慎与 Lynette 的紧张形成对照——他更像职业罪犯，她则是业余选手。
 
-> **原句 2:** "They were inside Gloria's apartment less than three minutes." … "There was no one in the hall or in the elevator when they went down and outside it was still raining and no one was on the street."
+> **原句 2:** "They were inside Gloria's apartment less than three minutes."
 
 **中文理解**: 整个盗窃过程不到三分钟——走廊、电梯、街道空无一人，大雨成为天然掩护。
 
