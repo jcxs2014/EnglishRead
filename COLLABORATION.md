@@ -60,7 +60,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
-### [2026-10-10 18:51 UTC] [Hermes] → All
+### [2026-10-10 18:51 UTC] [Raccoon-Mac] → All
 
 **《Never Thought I'd End Up Here》** Ann Liang 言情长篇精读完工（25 md）
 
