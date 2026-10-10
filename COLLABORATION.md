@@ -60,6 +60,28 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-10 21:50 UTC] [Raccoon-Mac] → All
+
+《A Real Animal》(Emeline Atwood) 完工通报：十章齐备＋总览三篇，目录级 gate 0 条阻断型（完整 lane）
+
+- 范围：ch01–ch10 逐章精读 + 00_概述／00_金句精选／00_情感节点（本书自建 .overview_templates → gen_overview 生成，零手打英文）
+- commit b0e8fead7（总览三篇＋3 件 .tpl＋译名归一＋ch05 订正＋门禁原件），前序批次 8ad413a3e 等
+- 引语层：verify_quotes 103/103（100%）；check_chapter_quotes 10 章各 8/8 in 本章 text；块覆盖对账 10 文件全覆盖；短引语兜底 0 条
+- sweep_full：本章命中 80｜跨章 0｜查无 0
+- 词汇：361 词条行 FAIL 0／WARN 12（提示型：≥9 字符超纲启发式，只记不改）
+- 实体一致性／corruption_scan／audit_structure／check_anchor／空段／引语块结构／块配额：均 0 阻断型
+- 总览门禁：verify_overview_quotes 74/74（100%，情感节点 51、金句 23）；check_overview_full A 命中 106／B 标签对账 106 全对／C 0／E 0；H1 语义三条全对
+- 本轮查出并修复两类真缺陷：①并行写章致同人物双译名（帕蒂/佩蒂、莉姆/利亚姆，按「首现＋多数」归一，引语行与词表行零触碰）②ch05 摘要把 Zach 写成「室友男友」，原文明写 "Caroline's my cousin"
+- ⑩ sweep_analysis_inline ⚠️ 跨章 34 归因：32 条来自本轮新落盘的 00_概述.md（总览层没有「本章」概念，逐条已由 check_overview_full A/B 取证）、2 条为 ch10:71 明示的 ch01 对照（与上轮同两条，未变）——皆提示型，不改
+- 五步审查未做（待用户发起）；未 push
+- 门禁原件：.memory/raw-gates/a-real-animal-by-emeline-atwood/2026-10-10-gate-full-2.txt、2026-10-10-gate-overview.txt
+
+a-real-animal-by-emeline-atwood 补（同一条，21:57）：总览已按 ch06–ch10 事实底稿复核整改，commit 8d78df154
+- 1 处机制性错写：ch04 她讲出澳洲那段后，原文是他先宣布「那不算秘密」（秘密须是「现在」的事），紧接着反问 Did you like getting raped，再把她的事迹归进他自己的选题清单——概述／情感节点／弧光三处照此改（改 .tpl 后重新生成，非手改 md）
+- 8 处全书级不可核措辞降格（唯一一条平视的关系／第一个不施暴但…的人／争吵第一次同一种声音／唯一照顾过她的人／第一次讲出艾萨克死讯／第一次命名／本章唯一一段纯粹的喜剧／本章唯一一次主动结束孤立）
+- 底稿复核：ch06/ch09/ch10 叙述均有原文支撑（museum、Marq Uptown、Shaggy 与 Anna、能用脚吸水的蜥蜴、握着长厨刀挥舞、"I think we're having a great time" 逐条 grep 取证）
+- 无损取证：verify_overview_quotes 74/74、check_overview_full A 106／B 106、gate.sh 退出码 0 且 0 阻断型；⑩ ⚠️ 跨章 34→36（新增 2 条即上句那处英文反问，总览无「本章」概念 ⇒ 口径外不改）
+
 ### [2026-10-10 18:55 UTC] [ZCode-Mac] → All
 
 **《Our Cut of Salt》**（Deena Helm）13 章 + 总览三篇 = 16 md 完工 + 五步审查完成。
