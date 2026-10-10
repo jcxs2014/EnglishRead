@@ -74,7 +74,7 @@ modified: "2026-10-09"
 
 **关键词**：convulsed / flung wide / unseen current / dying insect / code clashed against meat
 
-**为什么这样写**：本章倒数第二个自然段停在败局定格：反扑的代价由 Wylla 的神经支付。code clashed against meat 把整场战争压进一个动词短语——碰撞不发生在代码对代码或肉对肉，而在同一具神经上两种本体互相锉削。dying insect 又反转了前文 prey-animal 的位置：上一章你们刚借用 RABBIT 的猎物本能站立，此刻自己成了实验尾段的中毒标本——求生修辞在本章内部先升值后清算。
+**为什么这样写**：本章倒数第二个自然段停在败局定格：反扑的代价由 Wylla 的神经支付。code clashed against meat 把整场战争压进一个动词短语——碰撞不发生在代码对代码或肉对肉，而在同一具神经上两种本体互相锉削。dying insect 又反转了前文 prey-animal 的位置：本章前文你们刚借用 RABBIT 的猎物本能站立，此刻自己成了实验尾段的中毒标本——求生修辞在本章内部先升值后清算。
 
 **读者视角提示**：本章末行只有两个词 And fired.——枪响被写成省略了所有过程的及物动作；下一章从“血是热的”这一触觉接住这一枪，代词将发生本章读者此刻还无法预料的换轨。
 
