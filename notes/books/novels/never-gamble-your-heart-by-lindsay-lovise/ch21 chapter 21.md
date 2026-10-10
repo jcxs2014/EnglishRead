@@ -92,7 +92,7 @@
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| banns | 结婚公告 | He was wondering if they would have to suffer the banns being read. |
+| banns | 结婚公告 | Privately, he was wondering if he could secure a special license, or if they would have to suffer the banns being read. |
 | lopsided | 不对称的 / 歪斜的 | She gave him a lopsided smile and picked up her cards. |
 
 ### ⭐ 基础
