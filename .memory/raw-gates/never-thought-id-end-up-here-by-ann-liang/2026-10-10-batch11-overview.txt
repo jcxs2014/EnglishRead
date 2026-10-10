@@ -1,0 +1,33 @@
+=== 总览三篇批次门禁 2026-10-10 18:08 UTC ===
+生成方式：gen_overview.py 从已核实引语池程序化生成（模板零手打英文）
+
+--- verify_overview_quotes ---
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 45/45 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 23/23 ✅
+
+=== 总览引文 68/68 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+--- check_overview_full ---
+=== 总览整串核查（never-thought-id-end-up-here-by-ann-liang）===
+  参照集：text/ 逐章（22 章） ｜ 总览文件 3 个
+  A 整串：命中 65 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 20
+  B 章节标签：对 65 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 32 ｜ 不符 0（**只报不判红**）｜ 跳过 36
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+--- corruption_scan ---
+
+=== 编辑损坏扫描（never-thought-id-end-up-here-by-ann-liang）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- H1 语义校验 ---
+notes/books/novels/never-thought-id-end-up-here-by-ann-liang/00_情感节点.md:# 《Never Thought I'd End Up Here》情感节点
+notes/books/novels/never-thought-id-end-up-here-by-ann-liang/00_概述.md:# 《Never Thought I'd End Up Here》概述
+notes/books/novels/never-thought-id-end-up-here-by-ann-liang/00_金句精选.md:# 《Never Thought I'd End Up Here》金句精选
+
+--- 模板占位符修正记录 ---
+初稿 6 处引用不存在的池键，按实际池内容逐条核对后替换：
+  3:12->3:8 / 9:9->9:8 / 13:13->13:10 / 14:14->14:11 / 15:15->15:13 / 1:11->1:8(金句㉔呼应关系行)
