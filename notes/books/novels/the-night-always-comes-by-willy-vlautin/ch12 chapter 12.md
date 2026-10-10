@@ -16,17 +16,17 @@
 
 **中文理解**: Kansas 将物品摊在工作台上，Lynette 立刻意识到他会反悔，冲上前将东西塞进手提包。
 
-**关键词**: stark bright light / change his mind / shoving
+**关键词**：（待补充）
 
 **为什么这样写**: "stark bright light" 象征真相暴露——在荧光灯下贪婪无所遁形；Lynette 的本能反应显示她的警觉。
 
 **读者视角提示**: 她的先发制人动作虽未能阻止冲突，但为后续谈判争取了筹码。
 
-> **原句 2:** "I paid you the five hundred I owed you," she said nervously while backing up. "That was the deal.""
+> **原句 2:** "I paid you the five hundred I owed you," she said nervously while backing up. "That was the deal."
 
 **中文理解**: Lynette 试图用契约精神约束 Kansas——已付五百美元开锁费，多余的钱和私人物品必须归还。
 
-**关键词**: the deal / agreed / personal stuff
+**关键词**：（待补充）
 
 **为什么这样写**: 诉诸"协议"显示 Lynette 仍试图用文明规则约束暴力；提出放弃毒品是妥协策略。
 
@@ -36,37 +36,37 @@
 
 **中文理解**: Kansas 拿起四英尺长的撬棍，命令金发男子锁门——他要杀 Lynette 灭口。
 
-**关键词**: crowbar / lock the door / gonna kill her
+**关键词**：（待补充）
 
 **为什么这样写**: 简短的命令句式强化 Kansas 的冷酷；撬棍作为凶器比刀更具钝击威胁。
 
 **读者视角提示**: 锁门动作切断退路，Lynette 陷入绝境——这是全书最危险的时刻之一。
 
-> **原句 4:** "We'll bleed her in the utility sink and put the rest of her in the acid drum.""
+> **原句 4:** "We'll bleed her in the utility sink and put the rest of her in the acid drum."
 
 **中文理解**: Kansas 详细规划谋杀流程：在水槽放血，尸体扔进酸桶；让助手取刀和毯子接血。
 
-**关键词**: acid drum / Buck knife / soak up the blood
+**关键词**：（待补充）
 
 **为什么这样写**: 程序化的杀人计划显示 Kansas 可能有前科；"soak up the blood" 的细节令人毛骨悚然。
 
 **读者视角提示**: 他的冷静比愤怒更可怕——谋杀对他而言是日常事务而非道德危机。
 
-> **原句 5:** "Lynette was so scared she couldn't speak. Kansas's full weight was on her chest and his legs pinned her arms against the concrete floor.""
+> **原句 5:** "Lynette was so scared she couldn't speak. Kansas's full weight was on her chest and his legs pinned her arms against the concrete floor."
 
 **中文理解**: Kansas 全身重量压在 Lynette 胸口，双腿夹住她的手臂；她恐惧到失语，被逼问保险箱主人身份。
 
-**关键词**: full weight / pinned / couldn't speak
+**关键词**：（待补充）
 
 **为什么这样写**: 身体压迫象征权力绝对不对等；窒息感强化死亡的迫近。
 
 **读者视角提示**: Lynette 的沉默既是恐惧也是思考——她在寻找生路而非屈服。
 
-> **原句 6:** "I can bring you an eighty-thousand-dollar Mercedes," she said and began crying. … "I have . . . I have a Mercedes I could give you tonight." … "I just do." … "North Portland," she whispered.
+> **原句 6:** "I can bring you an eighty-thousand-dollar Mercedes,"
 
 **中文理解**: Lynette 急中生智谎称有一辆八万美元的奔驰车可给 Kansas，声泪俱下地编造细节。
 
-**关键词**: eighty-thousand-dollar Mercedes / tonight / North Portland
+**关键词**：（待补充）
 
 **为什么这样写**: 具体金额（八万）和地点（北波特兰）增加谎言可信度；哭泣既是恐惧也是表演。
 
@@ -76,7 +76,7 @@
 
 **中文理解**: Lynette 进一步安抚 Kansas——车主无害，不会追究；她可以带 Cody 去取车。
 
-**关键词**: harmless / won't do anything / drive Cody
+**关键词**：（待补充）
 
 **为什么这样写**: 淡化风险使交易更具吸引力；提及 Cody 是为分散注意力，也为后续逃跑创造条件。
 
@@ -86,7 +86,7 @@
 
 **中文理解**: Lynette 拿起手机拨打 911，颤抖着宣布只需按 1 就能接通——这是虚张声势的 bluff。
 
-**关键词**: 9-1 / five bars / hit 1
+**关键词**：（待补充）
 
 **为什么这样写**: 公开拨号增加可信度；"shakier voice" 既是恐惧也是表演，制造不确定性。
 

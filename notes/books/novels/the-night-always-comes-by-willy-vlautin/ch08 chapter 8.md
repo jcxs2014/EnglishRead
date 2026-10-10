@@ -21,7 +21,7 @@ modified: "2026-10-09"
 
 **中文理解**：晚上十点半，唯一一家营业到十一点的 Dairy Queen 终于出现，她停车进去——深夜的孤独觅食。
 
-**关键词**：ten thirty / only Dairy Queen
+**关键词**：（待补充）
 
 **为什么这样写**：only 强调选择的稀少，就像她生活中的选项越来越少。late night DQ 是蓝领阶层的典型场所。
 
@@ -31,7 +31,7 @@ modified: "2026-10-09"
 
 **中文理解**：女孩说二十分钟后关门，烤架已关闭——即将打烊的松弛感与 Lynette 的紧迫感形成对照。
 
-**关键词**：closing in twenty minutes / grill's shut off
+**关键词**：（待补充）
 
 **为什么这样写**：女孩的轻松语气反衬 Lynette 的沉重心情。grill shut off 暗示她来得太晚，连热食都吃不上。
 
@@ -41,7 +41,7 @@ modified: "2026-10-09"
 
 **中文理解**：一天的时间里，多年的规划、挣扎和牺牲变得毫无意义。没有房子了，她辜负了 Kenny 和妈妈。她失败了。
 
-**关键词**：years of planning / came to mean nothing / failed
+**关键词**：（待补充）
 
 **为什么这样写**：三个名词并列（planning/struggle/sacrifice）总结她的付出，came to mean nothing 是彻底的虚无。failed 是自我审判。
 
@@ -51,7 +51,7 @@ modified: "2026-10-09"
 
 **中文理解**：她本打算雇父亲的施工队一天，自己做准备工作，他们就能刷完整个一楼。
 
-**关键词**：hire / prep work / painted
+**关键词**：（待补充）
 
 **为什么这样写**：详细的装修计划显示她对未来的憧憬有多具体。prep work 表明她愿意亲力亲为，不只是出钱。
 
@@ -61,7 +61,7 @@ modified: "2026-10-09"
 
 **中文理解**：她还计划请 bakery 的一位艺术家面包师在 Kenny 房间墙上画开拓者和冬鹰队的标志。
 
-**关键词**：artist / Trail Blazers and Winterhawks logos
+**关键词**：（待补充）
 
 **为什么这样写**：这个细节揭示她对 Kenny 的爱——她想给他一个充满个人兴趣的空间，而不只是收容他的地方。
 
@@ -71,7 +71,7 @@ modified: "2026-10-09"
 
 **中文理解**：酒吧常客、持证电工 Roy Oldham 答应为她免费工作一天，换取一个月免费酒水。
 
-**关键词**：licensed electrician / month of free drinks
+**关键词**：（待补充）
 
 **为什么这样写**：以酒换工显示她的资源匮乏——她用酒吧权限而非现金支付。regular 暗示她与客人建立的关系网是唯一的安全网。
 
@@ -81,7 +81,7 @@ modified: "2026-10-09"
 
 **中文理解**：她开始吃花生圣代，看着墙上的钟——还有十七分钟就打烊了。
 
-**关键词**：Peanut Buster Parfait / Seventeen more minutes
+**关键词**：（待补充）
 
 **为什么这样写**：具体品牌名增加真实感。数着剩余时间显示她无处可去，只能拖延回家的时刻。
 

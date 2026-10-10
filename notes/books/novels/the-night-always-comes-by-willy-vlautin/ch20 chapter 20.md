@@ -12,11 +12,11 @@
 
 ---
 
-> **原句 1:** "I'll give you three," Lynette said, her voice growing sadder. "I'll give it to you." … First she drove to JJ's and gave him the three thousand dollars and Rodney's gun. After that she drove to the post office on Killingsworth and parked. On an overnight box she wrote Gloria's address with her left hand. The writing was crude but legible. She put no note inside, only the nine thousand dollars, the personal papers, the photos, the jewelry, and the silver dollars.
+> **原句 1:** "I'll give you three,"
 
 **中文理解**: Lynette 同意给 JJ 三千美元（比最初商定的两千多出一千），并交还了 Rodney 的枪。随后她去邮局用左手写了 Gloria 的地址，将九千美元、个人文件、照片、珠宝和银币装入快递盒寄出，没有附任何纸条。
 
-**关键词**: three thousand, crude, no note
+**关键词**：（待补充）
 
 **为什么这样写**: Lynette 的"voice growing sadder"显示她意识到自己再次被剥削——JJ 设局害她差点丧命，她却还要付钱平息事端。用左手写字的细节表明她在避免留下笔迹证据，显示她对法律风险的清醒认知。"No note"是关键：她不解释、不道歉、不告别，只是冷冰冰地归还物品。这种沉默是最有力的谴责。
 
@@ -28,7 +28,7 @@
 
 **中文理解**: Lynette 将 Nissan Sentra 卖给废车场，只得到两百美元现金。下午四点五十分，天已黑且下雨，她和 Kenny 打车去披萨店，点了中号意大利香肠披萨和两杯可乐，坐在游戏机旁吃饭。
 
-**关键词**: two hundred, Radio Cab, video games
+**关键词**：（待补充）
 
 **为什么这样写": 两百美元与之前买房的九万三千美元形成鲜明对比，显示 Lynette 的资产流动性极低——大部分钱来自性交易，而非稳定收入。Radio Cab 是波特兰本地的出租车公司，Vlautin 用具体品牌名增强真实感。在游戏机旁吃饭的场景既温馨又心酸：Kenny 还是个孩子，需要正常生活的片刻安宁，而母亲正在策划他的未来。
 
@@ -36,11 +36,11 @@
 
 ---
 
-> **原句 3:** "Jesus, you got beat up. The bruises are really showing now.""
+> **原句 3:** "Jesus, you got beat up. The bruises are really showing now."
 
 **中文理解**: 母亲看到 Lynette 的淤青更加明显，检查伤口时发现一个已愈合，另一个仍开放且可能感染。在护理过程中，母亲开始讲述前同事 Mona 的丈夫的故事——一个肥胖到看起来像怀孕的男人。
 
-**关键词**: beat up, infected, pregnant
+**关键词**：（待补充）
 
 **为什么这样写**: 伤口的恶化象征 Lynette 处境的持续危险。母亲一边护理一边闲聊的 juxtaposition（并置）显示了功能失调家庭的典型模式：亲密行为（护理伤口）与情感疏离（谈论无关话题）并存。对 Mona 丈夫外貌的刻薄描述（"looked pregnant"）预示了母亲对新室友的真实态度——她并不尊重 Mona，只是利用她。
 
@@ -48,11 +48,11 @@
 
 ---
 
-> **原句 4:** "I'm gonna move in with her.""
+> **原句 4:** "I'm gonna move in with her."
 
 **中文理解**: 母亲宣布要搬去和 Mona 同住，理由是便宜、不用付押金、所有东西都在 Mona 名下。她声称两人"已经谈了一段时间"，但当 Lynette 追问时又轻描淡写地说"只是聊聊"。
 
-**关键词**: move in, cheap, deposit
+**关键词**：（待补充）
 
 **为什么这样写**: 母亲的理由全是经济考量（cheap, no deposit），没有提及情感纽带。这与她对 Lynette 说的"我不想和你一起生活"形成对照——她不是不能和人同居，只是不想和女儿同居。"You know how I am"是典型的回避话术，暗示她的优柔寡断或不可靠。Vlautin 展示了贫困者如何通过共享住房来降低生活成本，但这种安排往往基于算计而非友谊。
 
@@ -64,7 +64,7 @@
 
 **中文理解**: 母亲透露她和 Mona 设计了一个计划：申请成为 Kenny 的全职护理员，从俄勒冈州政府获得每小时14.65美元、每周20小时的报酬（约每月一千美元）。Mona 很"smart"，懂得"work the system"（利用制度漏洞）。
 
-**关键词**: work the system, personal care assistant, $14.65
+**关键词**：（待补充）
 
 **为什么这样写**: 这是本章的道德核心。母亲和 Mona 的计划本质上是福利欺诈——Mona 实际照顾 Kenny，但母亲名义上受雇，这样 Mona 可以保留残疾补助，母亲可以获得护理工资和 Kenny 的残疾金。Vlautin 精确列出金额（$14.65/hour）显示他对社会福利制度的了解。这种"聪明"不是真正的智慧，而是贫困者被逼到绝境后的生存策略。
 
@@ -76,7 +76,7 @@
 
 **中文理解**: 母亲坦白她不会实际照顾 Kenny，而是由 Mona 代劳。这样 Mona 保留残疾补助，母亲获得 Kenny 的残疾金和食品券。作为交换，母亲不付租金只付一半水电费，并将 Kenny 的食品券给 Mona（Mona 会转给她"糟糕的女儿"）。
 
-**关键词**: disability check, food stamps, save money
+**关键词**：（待补充）
 
 **为什么这样写**: 这段详细描述揭示了福利系统的漏洞如何被多方利用。Mona 的女儿（"fucked-up daughter"）可能也有药物成瘾或其他问题，需要食品券支持。整个安排像一个地下经济网络，每个人都在灰色地带操作。Vlautin 没有道德评判，只是呈现事实：当合法途径无法生存时，人们会寻找替代方案。
 
@@ -84,11 +84,11 @@
 
 ---
 
-> **原句 7:** "But you're forgetting something," said Lynette. "I'm taking Kenny. That was the deal.""
+> **原句 7:** "But you're forgetting something," said Lynette. "I'm taking Kenny. That was the deal."
 
 **中文理解**: Lynette 提醒母亲之前的协议是她带走 Kenny，但母亲反悔，声称因为 Kenny 是她的儿子所以有权决定。她威胁要在抚养权官司中揭露 Lynette 的心理问题（愤怒、自杀未遂、住院）和可疑的收入来源。
 
-**关键词**: changed my mind, anger issues, hospitalized
+**关键词**：（待补充）
 
 **为什么这样写**: 母亲的威胁是本章最残酷的时刻。她利用自己对女儿历史的了解（心理健康问题、性工作）作为武器，显示她从未真正关心 Lynette 的福祉，只是在收集筹码。Vlautin 展示了家庭内部的信息如何被武器化——最亲近的人知道如何最深地伤害你。
 
@@ -100,7 +100,7 @@
 
 **中文理解**: 母亲表达了一种宿命论观点：有些人天生就会失败，而她认识到自己是其中之一。她知道这种自我认知很痛苦，但这不意味着她接受现状。她必须为自己而活。
 
-**关键词**: born to sink, born to fail, live
+**关键词**：（待补充）
 
 **为什么这样写**: 这段话是母亲的哲学宣言，也是全书对贫困心理最深刻的洞察。"Born to sink/fail"是一种内化的阶级自卑——将结构性不公归因于个人本质。Vlautin 展示了这种思维如何导致道德妥协：如果注定失败，那么任何生存手段都是合理的。母亲的"got to live, too"既是自私的借口，也是真实的绝望。
 

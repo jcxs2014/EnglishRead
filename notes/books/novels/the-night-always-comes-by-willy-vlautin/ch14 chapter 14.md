@@ -12,11 +12,11 @@
 
 ---
 
-> **原句 1:** "The Original Hotcake House was a twenty-four-hour restaurant. It was three a.m. and the restaurant was empty but for three drunk men in their early twenties eating breakfast.""
+> **原句 1:** "The Original Hotcake House was a twenty-four-hour restaurant. It was three a.m. and the restaurant was empty but for three drunk men in their early twenties eating breakfast."
 
 **中文理解**: 凌晨三点的 Hotcake House 餐馆只有三个醉汉；Lynette 查看镜中自己，脖子上的掐痕比预期轻。
 
-**关键词**: three a.m. / red marks / mirror
+**关键词**：（待补充）
 
 **为什么这样写**: 时间（凌晨三点）象征人生的低谷；镜子场景是自我审视的经典意象。
 
@@ -26,17 +26,17 @@
 
 **中文理解**: 祖父曾是码头工会工人，四十年如一日穿同样服装——李维斯牛仔裤、工作靴、Ben Davis 条纹半拉链衬衫。
 
-**关键词**: stevedore / union / Ben Davis
+**关键词**：（待补充）
 
 **为什么这样写**: 具体品牌和工作细节建立祖父的工人阶级身份；制服式穿着显示他的稳定可靠。
 
 **读者视角提示**: 祖父代表 Lynette 生命中唯一的无条件爱来源，与当前处境形成残酷对照。
 
-> **原句 3:** "Afterward he'd take her to Portland Meadows horse track to watch the early-morning workouts. Her grandfather would carry her in one arm and hold a kid's sleeping bag and a thermos of coffee in the other.""
+> **原句 3:** "Afterward he'd take her to Portland Meadows horse track to watch the early-morning workouts. Her grandfather would carry her in one arm and hold a kid's sleeping bag and a thermos of coffee in the other."
 
 **中文理解**: 祖父带她去赛马场看晨练，一手抱她一手拿睡袋和咖啡保温瓶——咖啡味、马蹄声、睡袋温暖构成童年安全感的三重感官记忆。
 
-**关键词**: horse track / thermos / sleeping bag
+**关键词**：（待补充）
 
 **为什么这样写**: 感官细节（嗅觉、听觉、触觉）强化记忆的生动性；保温瓶象征祖父的准备工作。
 
@@ -46,7 +46,7 @@
 
 **中文理解**: 祖父总介绍她是"史上最棒的孩子"，给她唯一真正脱离照顾弟弟责任的喘息机会。
 
-**关键词**: greatest kid / break from Kenny
+**关键词**：（待补充）
 
 **为什么这样写**: "greatest kid" 与 Lynette 当前的自我认知（失败者）形成强烈反差；"break from Kenny" 揭示她从未有过真正的童年。
 
@@ -56,7 +56,7 @@
 
 **中文理解**: 九岁那年祖父因心脏病突发死于人行道——送修卡车后步行回家途中倒下，毫无预兆。
 
-**关键词**: heart attack / collapsed / Lombard Street
+**关键词**：（待补充）
 
 **为什么这样写**: 死亡的突然性强调生命的脆弱；地点具体化（Lombard Street）增加真实感。
 
@@ -66,7 +66,7 @@
 
 **中文理解**: 十三四岁时，Lynette 会独自乘公交穿越全城去 Hotcake House 吃饭，只为怀念祖父。
 
-**关键词**: take the bus / think about her grandfather
+**关键词**：（待补充）
 
 **为什么这样写**: 重复行为显示她对祖父的依恋；独自前往表明她无法与他人分享这份记忆。
 
@@ -76,7 +76,7 @@
 
 **中文理解**: Lynette 边吃边流泪，自问祖父会如何看待现在的自己——参与或默许了种种可怕之事。
 
-**关键词**: tears / horrible things / let be done
+**关键词**：（待补充）
 
 **为什么这样写**: "let be done" 是关键——她不仅谴责自己的主动行为，更谴责自己的被动妥协。
 
@@ -86,7 +86,7 @@
 
 **中文理解**: 过去三年她甚至辜负了 Kenny——为了买房而忽视他，用睡眠和工作逃避责任。
 
-**关键词**: failed Kenny / ignoring / save money
+**关键词**：（待补充）
 
 **为什么这样写**: 自我指控精准指向她的核心矛盾：为长远安全牺牲当下关怀，结果两头落空。
 

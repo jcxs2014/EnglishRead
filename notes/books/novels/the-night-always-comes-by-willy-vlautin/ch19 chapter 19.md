@@ -12,11 +12,11 @@
 
 ---
 
-> **原句 1:** "I know you stole my safe.""
+> **原句 1:** "I know you stole my safe."
 
 **中文理解**: Gloria 直接指控 Lynette 偷了保险箱，声称认识她太久所以知道她在撒谎。Lynette 反击说 Gloria 是酒鬼，Gloria 愤怒地要求归还保险箱。
 
-**关键词**: stole, shitty liar, drunk
+**关键词**：（待补充）
 
 **为什么这样写**: 这段对话展示了两人关系的权力动态。Gloria 的指控毫无证据，仅凭"我认识你太久"这种主观判断，显示她对 Lynette 的根深蒂固的不信任。Lynette 立即转向攻击 Gloria 的酗酒问题，说明她早已看透朋友的弱点。Vlautin 用简短的对话展现了长期积累的怨恨如何爆发。
 
@@ -24,7 +24,7 @@
 
 ---
 
-> **原句 2:** "There's only one other person besides Terry who has a key and the code to my place. I was with Terry last night and my other friend promises it wasn't him. And you have the code and last night you were staying there. What am I supposed to think?""
+> **原句 2:** "There's only one other person besides Terry who has a key and the code to my place. I was with Terry last night and my other friend promises it wasn't him. And you have the code and last night you were staying there. What am I supposed to think?"
 
 **中文理解**: Gloria 列出嫌疑人：只有 Terry、另一个朋友和 Lynette 有钥匙和密码。她排除了前两者，因为 Terry 和她在一起，另一个朋友发誓没做。Lynette 有密码且昨晚在那里过夜，所以成为唯一嫌疑人。Lynette 辩解说她改变主意离开了，把钥匙留在台面上。
 
@@ -36,11 +36,11 @@
 
 ---
 
-> **原句 3:** "You owe me eight thousand dollars. Did you have that in your safe?""
+> **原句 3:** "You owe me eight thousand dollars. Did you have that in your safe?"
 
 **中文理解**: Lynette 质问 Gloria 是否用保险箱里的钱还债，Gloria 承认里面有一万六千美元（两倍于欠款）。Lynette 愤怒地质问：你有钱却不还我，当我乞求时你说破产，现在却指责我偷窃？她提醒 Gloria，那八千美元是作为朋友借给她付酒驾罚款的。
 
-**关键词**: owe, begging, DUI
+**关键词**：（待补充）
 
 **为什么这样写**: 这是本章的道德核心。Lynette 列举了她对 Gloria 的帮助：在她入狱时接她、在她受伤时照顾她、在她被困时救援。相比之下，Gloria 有钱不还却反过来诬陷。Vlautin 展示了友谊如何在经济不平等中扭曲——Gloria 将 Lynette 的帮助视为理所当然，甚至利用她的困境来确立道德优越感。
 
@@ -52,7 +52,7 @@
 
 **中文理解**: Gloria 声称自己对 Lynette 付出很多，引用 Terry 的话说 Lynette 是"寄生虫"。她厌倦了和 Lynette 交往，鄙视她在 Dutchman 酒吧的工作，并将她与 Shirley 相提并论（两人都被她憎恨）。她威胁要报警，称保险箱里有重要的个人物品。
 
-**关键词**: leeching, loser, personal things
+**关键词**：（待补充）
 
 **为什么这样写**: Gloria 的这段话暴露了她的阶级傲慢。她将 Lynette 的职业（bartending）视为失败，将她的朋友（Shirley）视为低贱。Vlautin 展示了上层人士如何通过职业歧视来合理化剥削——如果对方是"loser"，那么欠他们的钱就不算盗窃。"Personal things"这个模糊表述暗示保险箱里可能有不可告人的秘密（后文揭示是照片和珠宝，可能涉及她的过去）。
 
@@ -64,7 +64,7 @@
 
 **中文理解**: Lynette 揭露 Gloria 的真实背景：她没有上过 Catlin Gabel 私立学校，也没上过伯克利大学。她实际上在 Clatskanie 的拖车里长大，高中辍学后考了 GED（同等学力证书），甚至从空乘学校退学。Lynette 说无论 Gloria 买多少东西都无法摆脱这个出身。
 
-**关键词**: Catlin Gabel, Berkeley, trailer, GED
+**关键词**：（待补充）
 
 **为什么这样写**: 这是全书最尖锐的阶级批判。Catlin Gabel 是波特兰著名的精英私立学校，Berkeley 是顶尖公立大学。Gloria 伪造这些学历是为了融入上流社会。Vlautin 通过具体地名（Clatskanie 是俄勒冈州的小镇）和机构名让虚构扎根现实。Lynette 的攻击直指 Gloria 的核心恐惧：她的身份是建构的，随时可能崩塌。
 
@@ -76,7 +76,7 @@
 
 **中文理解**: Lynette 承认两人都是妓女（prostitute），但她试图成为真正的朋友，而 Gloria 背叛了她。她威胁要告诉 Terry Gloria 的真实教育背景，摧毁她的关系。
 
-**关键词**: prostitute, real friend, yearbook
+**关键词**：（待补充）
 
 **为什么这样写**: Lynette 的"prostitute"自称是本章的道德转折点。她不再为自己的生存手段感到羞耻，而是将其与 Gloria 的行为并列——两者都通过身体或谎言换取金钱，但 Lynette 至少诚实。Vlautin 展示了性工作者内部的阶级分化：Gloria 通过高端伴游（escorting）伪装成上流人士，而 Lynette 在底层挣扎。威胁揭露学历是 Lynette 的终极武器，因为她知道这对 Gloria 的关系至关重要。
 
@@ -84,11 +84,11 @@
 
 ---
 
-> **原句 7:** "Why would you do that? Why would you ruin me? I mean, just give me back the safe and you can have the eight grand. I'm sorry I didn't give it to you last night. I should have, but I was in a hurry. But I swear I'll give you the money I owe you. And I'll even give you a grand extra as interest. Just give me back the safe.""
+> **原句 7:** "Why would you do that? Why would you ruin me? I mean, just give me back the safe and you can have the eight grand. I'm sorry I didn't give it to you last night. I should have, but I was in a hurry. But I swear I'll give you the money I owe you. And I'll even give you a grand extra as interest. Just give me back the safe."
 
 **中文理解**: Gloria 先是试图贿赂（还八千再加一千利息），被拒绝后转为恶毒诅咒，侮辱 Lynette 的弟弟和母亲是"fucked-up"和"nutjob"，威胁要让她们全家坐牢。
 
-**关键词**: ruin, interest, nutjob
+**关键词**：（待补充）
 
 **为什么这样写**: Gloria 的反应展示了特权阶层在被揭穿时的典型模式：先试图用钱解决问题，失败后诉诸制度暴力（警察、监狱）。她对 Kenny 和母亲的侮辱显示她从未真正尊重过 Lynette 的家人，只是利用 Lynette 的孤独来获取廉价友谊。Vlautin 展示了阶级仇恨如何转化为语言暴力。
 

@@ -12,11 +12,11 @@
 
 ---
 
-> **原句 1:** "Gloria Milligan was the most beautiful woman Lynette had ever met. Thin and tall with black hair and light blue eyes. She had a seemingly natural elegance to her, but Lynette knew she had worked hard at it.""
+> **原句 1:** "Gloria Milligan was the most beautiful woman Lynette had ever met. Thin and tall with black hair and light blue eyes. She had a seemingly natural elegance to her, but Lynette knew she had worked hard at it."
 
 **中文理解**: Gloria 外表精致但内在粗鄙——她编造了加州大学伯克利分校毕业的出身，实际来自伐木小镇 Clatskanie，父亲瘫痪、靠救济金生活。
 
-**关键词**: natural elegance / UC Berkeley
+**关键词**：（待补充）
 
 **为什么这样写**: 对比揭示 Gloria 的生存策略：美貌是商品，谎言是包装。Lynette 作为知情者既鄙视又依赖这种虚假。
 
@@ -26,7 +26,7 @@
 
 **中文理解**: Gloria 醉酒后坦白自己视力正在恶化，五年内将完全失明——这是她唯一的秘密，也是美貌资本即将耗尽的倒计时。
 
-**关键词**: blind / completely blind
+**关键词**：（待补充）
 
 **为什么这样写**: 失明的隐喻指向她对自己真实处境的视而不见；身体衰败与她精心维持的外表形成残酷对照。
 
@@ -36,17 +36,17 @@
 
 **中文理解**: Lynette 提到 Gloria 睡过沙发的事触怒了她——Gloria 极度忌讳提及贫困出身，哪怕面对唯一知情的朋友。
 
-**关键词**: my past / never fucking listen
+**关键词**：（待补充）
 
 **为什么这样写**: Gloria 的愤怒暴露了她的羞耻感和阶级焦虑；威胁断交显示她对虚假身份的执着。
 
 **读者视角提示**: Lynette 故意戳痛处，既是无心之失也是潜意识里的权力平衡——她掌握着 Gloria 的真实历史。
 
-> **原句 4:** "I just got back from Newport Beach," she said. "Did I tell you?""
+> **原句 4:** "I just got back from Newport Beach," she said. "Did I tell you?"
 
 **中文理解**: Gloria 炫耀南加州之旅，却抱怨 Terry 不再让她坐头等舱——细节暗示关系降温，她开始失去特权。
 
-**关键词**: Newport Beach / first class
+**关键词**：（待补充）
 
 **为什么这样写**: 物质细节（Chloé 包、Simone Perele 内衣）标记她的消费水平；头等舱降级预示 Terry 可能厌倦她。
 
@@ -56,33 +56,33 @@
 
 **中文理解**: Gloria 直言不讳：她愿意用陪伴换取公寓，Terry 却始终回避这个话题——交易失衡，她无法获得想要的保障。
 
-**关键词**: condo / shuts down
+**关键词**：（待补充）
 
 **为什么这样写**: "not that much work" 暴露她将关系视为劳务交换；Terry 的回避暗示他并不打算长期承诺。
 
 **读者视角提示**: Gloria 的务实与 Lynette 的理想主义形成对照——两人都被困在不同形式的交易中。
 
-> **原句 6:** "And I know you're in a hurry, but I was hoping I could get back the money I loaned you.""
+> **原句 6:** "And I know you're in a hurry, but I was hoping I could get back the money I loaned you."
 
 **中文理解**: Lynette 终于开口要回八千美元借款——Gloria 七个月前以酒驾罚款为由借走，承诺一周内归还却至今未还。
 
-**关键词**: eight thousand dollars / DUI / seven months
+**关键词**：（待补充）
 
 **为什么这样写**: 具体金额和时间跨度强化 Lynette 的绝望；Gloria 的拖延显示她从未打算还款。
 
 **读者视角提示**: 这笔钱是 Lynette 买房计划的关键部分，Gloria 的违约直接威胁她的生存策略。
 
-> **原句 7:** "I thought Terry gave you a thousand a week spending money.""
+> **原句 7:** "I thought Terry gave you a thousand a week spending money."
 
 **中文理解**: Lynette 质问 Gloria 为何声称没钱——她知道 Gloria 同时交往多个男人获取金钱，Gloria 对此暴怒。
 
-**关键词**: thousand a week / two other guys
+**关键词**：（待补充）
 
 **为什么这样写**: Lynette 的追问打破社交禁忌，暴露 Gloria 的多重欺骗；Gloria 的愤怒源于恐惧而非羞愧。
 
 **读者视角提示**: 两人关系的权力动态在此逆转——Lynette 掌握信息优势，Gloria 处于防御地位。
 
-> **原句 8:** "Honestly I don't know. You can't just throw things like this at me when I'm trying to not be late.""
+> **原句 8:** "Honestly I don't know. You can't just throw things like this at me when I'm trying to not be late."
 
 **中文理解**: Gloria 最终承认自己破产，只愿给五百美元——远不足以解决 Lynette 的困境，却是她能榨出的极限。
 

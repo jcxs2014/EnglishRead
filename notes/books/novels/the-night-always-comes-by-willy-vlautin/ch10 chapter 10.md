@@ -12,21 +12,21 @@
 
 ---
 
-> **原句 1:** "Cody was six feet three inches tall and weighed less than a hundred and forty pounds. He was so thin and gaunt that he looked ill. He had a straggly beard and his brown hair was curly and long.""
+> **原句 1:** "Cody was six feet three inches tall and weighed less than a hundred and forty pounds. He was so thin and gaunt that he looked ill. He had a straggly beard and his brown hair was curly and long."
 
 **中文理解**: Cody 身材极高却极度消瘦，外表病态——卷曲长发、稀疏胡须、鹰钩鼻，手臂布满新纹身，耳垂有穿孔痕迹。
 
-**关键词**: gaunt / straggly beard / tattoos
+**关键词**：（待补充）
 
 **为什么这样写**: 身体描写暗示 Cody 的底层处境和可能的药物使用；"looked ill" 预示他的脆弱性而非威胁性。
 
 **读者视角提示**: 与典型"硬汉罪犯"形象相反，Cody 的虚弱使他成为可操控的同谋而非危险伙伴。
 
-> **原句 2:** "I heard you've been in prison.""
+> **原句 2:** "I heard you've been in prison."
 
 **中文理解**: Lynette 直接询问 Cody 的犯罪记录——他因入室盗窃入狱，但拒绝详谈，只想完成工作下班。
 
-**关键词**: prison / burglary
+**关键词**：（待补充）
 
 **为什么这样写**: Lynette 的直球提问显示她的紧迫感和缺乏迂回技巧；Cody 的回避暴露他对过去的羞耻或警惕。
 
@@ -36,37 +36,37 @@
 
 **中文理解**: Lynette 坦白需要违法帮助，承认是同事 Shirley 告知 Cody 的犯罪背景——她毫无备选方案，只能孤注一掷。
 
-**关键词**: illegal / Shirley / didn't know who else
+**关键词**：（待补充）
 
 **为什么这样写**: 诚实到近乎鲁莽的策略反而降低 Cody 的戒心；提及中间人增加可信度。
 
 **读者视角提示**: Lynette 的道德底线已彻底崩溃，向陌生人求助犯罪显示她的绝望程度。
 
-> **原句 4:** "There's a safe I want, but I'm not strong enough to carry it out and I don't know how to open it." … "You want me to help you steal a safe?" His breath smelled of coffee and cigarettes and teeth that he didn't brush.
+> **原句 4:** "There's a safe I want, but I'm not strong enough to carry it out and I don't know how to open it."
 
 **中文理解**: Lynette 压低声音说明计划：保险箱未固定，她需要人手搬运和开启；Cody 的呼吸带着咖啡、香烟和不刷牙的臭味。
 
-**关键词**: safe / not strong enough / steal
+**关键词**：（待补充）
 
 **为什么这样写**: 感官细节（口臭）强化 Cody 的底层身份；Lynette 的弱势（力量不足）使合作成为必要而非选择。
 
 **读者视角提示**: 保险箱成为两人关系的纽带——Lynette 提供机会，Cody 提供技能，交易性质明确。
 
-> **原句 5:** "I have the key to the place and the owner is gone all night.""
+> **原句 5:** "I have the key to the place and the owner is gone all night."
 
 **中文理解**: Lynette 强调作案条件优越：有钥匙、主人不在、无室内监控；她声称只取回属于自己的钱，Gloria 不会报警。
 
-**关键词**: key / no cameras / won't report
+**关键词**：（待补充）
 
 **为什么这样写**: 理性化犯罪行为——Lynette 用"拿回我的钱"自我辩护，降低道德负担；细节准备显示预谋程度。
 
 **读者视角提示**: "won't call the cops" 是自我安慰，实际风险被刻意忽略。
 
-> **原句 6:** "Thirty percent of eight grand is twenty-four hundred. That's a lot of money. The problem is everybody's got cameras now. They'll know we took it.""
+> **原句 6:** "Thirty percent of eight grand is twenty-four hundred. That's a lot of money. The problem is everybody's got cameras now. They'll know we took it."
 
 **中文理解**: Cody 计算分成后提出实际困难：摄像头无处不在；他想起一个有工具的机械师，但不确定对方是否愿意参与。
 
-**关键词**: thirty percent / cameras / mechanic
+**关键词**：（待补充）
 
 **为什么这样写**: Cody 的务实平衡了 Lynette 的理想化；引入第三方（机械师）增加情节复杂度和风险层级。
 
@@ -76,17 +76,17 @@
 
 **中文理解**: Cody 坦白帮忙的真正原因：受够了每天乘公交通勤，急需一辆车——犯罪动机源于日常困境而非贪婪。
 
-**关键词**: riding the bus / hour and fifteen minutes / car
+**关键词**：（待补充）
 
 **为什么这样写**: 平凡的渴望（买车）与犯罪行为形成讽刺对照；通勤时间具体化显示底层生活的艰辛。
 
 **读者视角提示**: Cody 的动机比 Lynette 更纯粹——他不是为复仇或正义，只是为基本尊严。
 
-> **原句 8:** "My girlfriend at the time worked at an old folks' home in Sherwood. She planned it and me and this guy robbed it.""
+> **原句 8:** "My girlfriend at the time worked at an old folks' home in Sherwood. She planned it and me and this guy robbed it."
 
 **中文理解**: Cody 讲述入狱经历：女友策划抢劫养老院，他与同伙实施却被设局——女友与同伙暗中交往并订婚，联手陷害他。
 
-**关键词**: old folks' home / tipped off / engaged
+**关键词**：（待补充）
 
 **为什么这样写**:  backstory 揭示 Cody 并非主谋而是替罪羊；背叛的双重性（女友+朋友）解释他的愤世嫉俗。
 

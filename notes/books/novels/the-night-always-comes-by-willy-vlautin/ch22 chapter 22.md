@@ -12,11 +12,11 @@
 
 ---
 
-> **原句 1:** "I bought Shirley's old car.""
+> **原句 1:** "I bought Shirley's old car."
 
 **中文理解**: Lynette 告诉母亲她买了 Shirley 的旧车（实际上是免费得到的），形容它是"船"（指体积大、操控笨重但舒适）。母亲询问是否卖掉了 Nissan，Lynette 确认已送去废车场，并反问母亲是否在喝酒。
 
-**关键词**: boat, wrecking yard, drunk
+**关键词**：（待补充）
 
 **为什么这样写**: "It's a boat"是汽车俚语，指大型轿车（如 Buick LeSabre）虽然操控不灵活但乘坐舒适。Vlautin 用这个比喻暗示 Lynette 的新生活：缓慢但稳定，不同于她之前的紧急逃亡状态。母亲饮酒的细节呼应了全书的酗酒主题——两代女性都用酒精应对压力，但 Lynette 能控制（只在危机时喝 Jägermeister），而母亲依赖它（gin and tonic）。
 
@@ -27,11 +27,11 @@
 
 ---
 
-> **原句 2:** "Maybe you should hate my guts and maybe I deserve to get my head caved in by you. Maybe that wouldn't be the worst thing to happen, but really in the end where would that leave us: you, me, and Kenny? Nowhere, that's where. We have to get by regardless of what we feel. And I'm gonna be honest with you right now. So you have to listen to me. Will you do that?""
+> **原句 2:** "Maybe you should hate my guts and maybe I deserve to get my head caved in by you. Maybe that wouldn't be the worst thing to happen, but really in the end where would that leave us: you, me, and Kenny? Nowhere, that's where. We have to get by regardless of what we feel. And I'm gonna be honest with you right now. So you have to listen to me. Will you do that?"
 
 **中文理解**: 母亲说暴力解决不了问题，她们必须"get by"（勉强维持）。她描述了波特兰 Pearl District 的绅士化：从前是废弃建筑和吸毒者，现在是时尚建筑和杂志模特般的瘦人。
 
-**关键词**: hate my guts, get by, Pearl District, bums
+**关键词**：（待补充）
 
 **为什么这样写**: Pearl District 是波特兰最著名的绅士化案例，从工业区转变为高档住宅和商业区。Vlautin 用具体地名让虚构扎根现实。母亲的观察（"skinny people who look like they're in magazines"）揭示了阶级外貌差异——富裕人群有能力保持苗条，而穷人往往肥胖（如母亲自己和她提到的 Mona 的丈夫）。这种身体政治是贫困研究的重要议题。
 
@@ -43,7 +43,7 @@
 
 **中文理解**: 母亲观察到波特兰随处可见的无家可归者帐篷，并开始理解他们的选择：如果无论如何努力都无法改善生活，为什么要辛苦工作？这种认知标志着她从道德判断转向结构性批判。
 
-**关键词**: homeless, tents, bust their asses, never get ahead
+**关键词**：（待补充）
 
 **为什么这样写**: 这是母亲哲学转变的关键时刻。她曾经认为无家可归者是懒惰或吸毒，但现在认识到系统性不公：努力工作不一定有回报。Vlautin 通过母亲之口表达了对资本主义的批判——当社会契约（努力工作=成功）破裂时，人们会拒绝参与。这种理解不是同情，而是认同：如果系统不公平，那么逃避或欺诈是合理的回应。
 
@@ -58,7 +58,7 @@
 
 **中文理解**: 母亲重新定义"美国梦"为"踩踏他人获取所需"。她认为历史是由掠夺者书写的，他们不在乎伤害他人。她列举了富人的奢侈消费（快艇、第三套度假屋、第五套出租房产、非洲狩猎），与普通人偿还信用卡和学生贷款的挣扎形成对比。
 
-**关键词**: American dream, taking, justify, safaris
+**关键词**：（待补充）
 
 **为什么这样写**: 这是全书对美国梦最尖锐的批判。母亲将建国神话（"land of the free"）解构为掠夺的借口，指出财富积累的本质是剥削。Vlautin 用具体物品（speedboat, vacation home, rental property, safaris）描绘了精英阶层的炫耀性消费，这些细节来自真实的社会观察。"Kill giraffes and elephants"指非洲战利品狩猎，是超级富豪的极端奢侈行为，与普通人的生存挣扎形成荒诞对比。
 
@@ -70,7 +70,7 @@
 
 **中文理解**: 母亲总结她的哲学：既然富人剥削他人，她也会做必要的事来生存。她给 Lynette 的最后建议是"只顾自己，不管他人"。
 
-**关键词**: screw them, look out for yourself, screw everyone else
+**关键词**：（待补充）
 
 **为什么这样写**: 这句话是母亲道德堕落的顶点。她将社会达尔文主义内化为个人行为准则，认为在 unfair system 中道德是奢侈品。Vlautin 展示了贫困如何腐蚀道德：当合法途径无法生存时，人们会转向灰色地带。但母亲的建议忽略了关键一点：她和 Lynette 都是受害者，互相伤害不会改变系统，只会加深创伤。
 
@@ -82,7 +82,7 @@
 
 **中文理解**: Lynette 向 Kenny 承诺会回来接他，并列举了她不会做的事（不消沉、不变刻薄、不残忍）。她感谢 Kenny"救了她"，称他为兄弟而非儿子（因为 Kenny 实际上是她的弟弟，尽管她像母亲一样照顾他）。
 
-**关键词**: promise, bakery, mean or bitter, darkness, saving me
+**关键词**：（待补充）
 
 **为什么这样写**: 这段独白是 Lynette 的道德宣言。她列出的"won't"清单（won't get depressed, won't get mean or bitter, won't be cruel）直接回应了母亲的哲学。Vlautin 展示了两种应对贫困的方式：母亲选择变得"mean and bitter"，Lynette 选择保持善良。这种选择不是天真的乐观，而是有意识的抵抗——她知道黑暗会吞噬她，但仍努力对抗。
 
@@ -90,11 +90,11 @@
 
 ---
 
-> **原句 7:** "Remember to say hello to the Trail Blazers for me. Tell them not to trade CJ or Damian. And remember no matter where you end up, I'll come and get you. I swear on my life I will, and when you see me, I'll be good, I'll be doing good." … The things she put into her car weren't much: clothes, a lamp Jack had bought her, a wristwatch of her grandfather's, and two boxes of dishes her grandmother had left her. All of it fit in the trunk of the Buick.
+> **原句 7:** "Remember to say hello to the Trail Blazers for me. Tell them not to trade CJ or Damian. And remember no matter where you end up, I'll come and get you. I swear on my life I will, and when you see me, I'll be good, I'll be doing good."
 
 **中文理解**: Lynette 让 Kenny 向波特兰开拓者队（Trail Blazers）问好，不要交易 CJ McCollum 或 Damian Lillard（球队明星球员）。她带走的东西很少：衣服、Jack 买的灯、祖父的手表、祖母留下的餐具。所有物品都装进了 Buick 的后备箱。
 
-**关键词**: Trail Blazers, CJ, Damian, trunk
+**关键词**：（待补充）
 
 **为什么这样写**: 提到 NBA 球员是 Vlautin 的地域写实手法。Damian Lillard 和 CJ McCollum 是 2010 年代末波特兰开拓者队的核心球员，Lynette 的请求显示她对本地文化的依恋。她带走的物品具有象征意义：Jack 的灯代表过去的爱情，祖父的手表和祖母的餐具代表家族传承。这些物品不多，但每件都有情感价值，与她之前堆积的杂物（第19章清理的物品）形成对比——她现在只保留真正重要的东西。
 
@@ -106,7 +106,7 @@
 
 **中文理解**: Lynette 在厨房桌上给母亲留了告别便条，表达爱意。锁门后将钥匙从邮件槽塞回屋内，上车倒咖啡，凌晨时分驶入州际公路向东行驶。外面仍在下雨。
 
-**关键词**: note, loved, key, headed east
+**关键词**：（待补充）
 
 **为什么这样写**: 结尾场景简洁而有力。Lynette 没有当面告别，而是留便条，显示她避免情感对抗。将钥匙塞回邮件槽是象征性的动作：她归还了对这个家的访问权，彻底切断联系。"Headed east"是开放结局——她没有指定目的地（St. Louis? Kansas City? 还是其他？），方向本身比终点更重要。东行象征着背离波特兰（西海岸），朝向未知的内陆。
 
