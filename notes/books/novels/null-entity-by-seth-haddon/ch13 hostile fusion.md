@@ -52,7 +52,7 @@ modified: "2026-10-09"
 
 **为什么这样写**：第一段先用最冷的技术语言交代处境——"she and I had taken its place"：LYREBIRD PRIME 被取下，"她和我"顶上了它的位置——本章没有说明这个 she 是谁，读者只能确定被绑上装置的是两具存在，而它们正被推向目录。随后四段一来一回的对话短到只剩命令与反驳，Aliers 的每一句都在削掉抵抗（"I need you to try."／"Sotain is fine!"／"Now focus."），她甚至用感叹号而不是问号回应对方对 Wylla 的呼喊。最有力的一击在最后一句：叙述者把 Aliers 的自由史（remade her body past human limits for freedom）当作加重伤害的理由——同一个"为自己改变身体"的动作，用在 Aliers 身上是解放，用在她身上是刑具，本章的道德难题就在这句里成形。"Not trauma but hate stopped me" 是全章最干净的一次自我区分：她拒绝把不合作归因于心理损伤，而归因于判断。
 
-**读者视角提示**：把 "Wait—!" 与它下面几行的 "Now focus." 并读——这是叙述者第二次被要求配合装置，而第一次的记忆（训练室里那些等着咬进植入体的接口）已在上一章给出；本章不说破，但位置已经说明一切。
+**读者视角提示**：把 "Wait—!" 与它下面几行的 "Now focus." 并读——这是叙述者第二次被要求配合装置（第一次在 ch12），而训练室里那些等着咬进植入体的接口是她更早的旧记忆（ch11）；本章不说破，但位置已经说明一切。
 
 > **原句 3:** You and I, Wylla, shared the same frequencies. Our union was unmatched. This? This was a hostile fusion. If my consent meant nothing to her, then hers meant nothing to me.
 >

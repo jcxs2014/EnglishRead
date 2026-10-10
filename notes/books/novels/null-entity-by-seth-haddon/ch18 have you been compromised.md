@@ -70,7 +70,7 @@ modified: "2026-10-09"
 
 **为什么这样写**：whispered 到 firmer 的改口是殉道者出发前的最后一次自我说服——For old Earth 是乡愁，For the future 是纲领，两个答案互相拆台，恰恰因此可信。Sey’s cutting 一枝插在生者与死人间：被留下的那个人（Sey）的赠礼，正被要去死的人捻在指间。The elevator seemed to close in. 空间回应话题，把「答案够不够」的问题挤压成物理的。末两问换了方向：本章真正的追问不是他们为何赴死，而是「我」——上一章自认见过更坏结局的人——有没有资格打分。Did it matter what I thought? 是对叙述者权威的自问自削。
 
-**读者视角提示**：注意 Rahn 不敢看的是「你」——不是 Aliers、不是 Sira；你问的资格来自你也曾是他们（上一章的「一年前的我」），这层对照本章只点不穿。
+**读者视角提示**：注意 Rahn 不敢看的是「你」——不是 Aliers、不是 Sira；而最后两问出自「我」，「我」的立场来自她也曾是他们（上一章「A year ago, I might have traded my life for justice」），这层对照本章只点不穿。
 
 > **原句 6:** Beckhan Marshall Wood, CEO of VisorForge, stood at the front, his LION mask framing the beard spilling beneath. Subsidiary Prime lurked at his side. Around him, Federation officials sipped champagne, Syndicate delegates crowding opposite, eyes on the arena below. Whether by design or impulse, they’d divided the booth between them, leaving a clear seam of silence where the two sides should have met.
 >

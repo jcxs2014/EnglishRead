@@ -146,7 +146,7 @@ modified: "2026-10-09"
 >
 > “Hello, Sable.”
 
-**中文理解**："你知道 Order 官方是怎么看你的吗？"她低声说。"你是一种记忆寄生虫。一副仿制的心魂。你说你不是 Sable Alzian，哪怕你自己以为你是。""Fyster 也是这么说的。在我把他的脑子煮沸之前。"Aliers 眼里一闪。她向前一步。当她抬手把 LYREBIRD 从你头上推下来时，我没有反抗。最好不要拿你的身体冒险——直到为时已晚我才想起，你已经不在你的身体里。它记得怎么呼吸吗？没有我它会死吗？我的爱无处可去。我在孤独与悲恸里翻滚。我想要的只是你。然后，毫无预兆地，来了一个崭新的人。我滑进一副新的眼睛、鼻子、嘴巴，听见一个新声音在叫我的名字。"你好，Sable。"
+**中文理解**："你知道 Order 官方是怎么看你的吗？"她低声说。"你是一种记忆寄生虫。一副仿制的心魂。在他们看来，你并不是 Sable Alzian，哪怕你自己以为你是。""Fyster 也是这么说的。在我把他的脑子煮沸之前。"Aliers 眼里一闪。她向前一步。当她抬手把 LYREBIRD 从你头上推下来时，我没有反抗。最好不要拿你的身体冒险——直到为时已晚我才想起，你已经不在你的身体里。它记得怎么呼吸吗？没有我它会死吗？我的爱无处可去。我在孤独与悲恸里翻滚。我想要的只是你。然后，毫无预兆地，来了一个崭新的人。我滑进一副新的眼睛、鼻子、嘴巴，听见一个新声音在叫我的名字。"你好，Sable。"
 
 **关键词**：official / mnemonic parasite / imitation soul / even if you think you are / boiled / eyes flashed / pushed / didn’t resist / remember to breathe / nowhere to go / writhed / someone new / calling my name
 
