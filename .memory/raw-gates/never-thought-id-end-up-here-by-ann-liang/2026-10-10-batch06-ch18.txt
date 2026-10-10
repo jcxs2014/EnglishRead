@@ -1,0 +1,37 @@
+=== ch18 批次门禁 2026-10-10 15:41 UTC ===
+
+--- verify_quotes ---
+ch17 seventeen.md: 24/24 ✅
+ch18 eighteen.md: 20/20 ✅
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 203/203 引文可核实（100%）；完全干净文件 18/18；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- check_chapter_quotes ch18 ---
+ch18 eighteen.md: 20/20 in ch18 text
+
+--- check_vocab ---
+--- FAIL (0) ---
+--- WARN (81) ---
+  ch18 eighteen.md [基础] 基础档疑含超纲词「thoughtful」
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- corruption_scan ---
+=== 编辑损坏扫描（never-thought-id-end-up-here-by-ann-liang）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+  参照集：text/ 逐章（22 章，可定章） + epub 交叉验证
+  ✅ 本章命中 200 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 3 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+  🔶 ch15 fifteen.md（ch15）跨标签拼接，各段逐字都在：“If you don’t want me to like you in that wa
+  🔶 ch16 sixteen.md（ch16）跨标签拼接，各段逐字都在：He’s at my mercy, just like I always wanted.
+  🔶 ch16 sixteen.md（ch16）跨标签拼接，各段逐字都在：Cate had glanced up briefly from her blueber
+
+--- 写作期自查修复记录 ---
+ch18 初稿含 2 行占位 + 2 个本章不存在词头(infirmity/distracted) + 1 处停用词(frightening)，
+全部替换为 vocab_candidates 候选中的本章真实词，改后词头逐条 grep -iw 核验命中=1。
