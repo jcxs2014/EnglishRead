@@ -12,7 +12,7 @@
 
 ---
 
-> **原句 1:** "My mom backed out of buying the house." … "She backed out?" said Shirley. "Really backed out or is she just being nervous?" … Lynette shook her head, looked down, and whispered, "We're not going to get the house and tonight I learned that she was never serious about buying it. Not really. But the thing is, she never told me she wasn't serious. I don't know why she wouldn't tell me, but she didn't. For over three years I worked two jobs and I had the other thing also."
+> **原句 1:** "My mom backed out of buying the house.""
 
 **中文理解**: Lynette 告诉 Shirley 母亲退出买房计划，并透露母亲从未真正认真过。她困惑于母亲为何不早点告知，导致她白白辛苦了三年（两份工作加上"那件事"即性工作）。
 
@@ -24,7 +24,7 @@
 
 ---
 
-> **原句 2:** "She doesn't want to live with me, Shirley. That's why she doesn't want the house. That's the reason. She doesn't want to be near me anymore." … Shirley took another sip of her beer and set it down on the coffee table. "In the end maybe that's a good thing." … "How can that be a good thing?" … "Because living with her isn't good for you."
+> **原句 2:** "She doesn't want to live with me, Shirley. That's why she doesn't want the house. That's the reason. She doesn't want to be near me anymore.""
 
 **中文理解**: Lynette 坦白母亲不想和她一起生活，这才是拒绝买房的真正原因。Shirley 出人意料地回应：这也许是好事，因为和母亲一起生活对 Lynette 有害。
 
@@ -36,7 +36,7 @@
 
 ---
 
-> **原句 3:** "You know, she wanted me to take Kenny, and I wanted to, but now she's keeping him. She's even taking him away from me. She says she'll tell everyone I'm unfit if I try to get custody." She wiped the tears from her face with her hands. "I'm sorry. I don't mean to cry in front of you." … "It's okay. When I saw your face yesterday, I knew something was up. I'd have thought you were pregnant or your boyfriend left you or someone in your family died. But I've never seen you with a boyfriend and you wouldn't be lucky enough to have someone in your family die."
+> **原句 3:** "You know, she wanted me to take Kenny, and I wanted to, but now she's keeping him. She's even taking him away from me. She says she'll tell everyone I'm unfit if I try to get custody." She wiped the tears from her face with her hands. "I'm sorry. I don't mean to cry in front of you.""
 
 **中文理解**: Lynette 哭泣着讲述母亲威胁要在抚养权官司中揭露她的"不适合"（心理问题、可疑收入）。Shirley 用黑色幽默回应：她曾以为 Lynette 怀孕、被甩或家人去世，但随即自嘲地说 Lynette 没有男友，家人也不会"幸运"地死去。
 
@@ -48,7 +48,7 @@
 
 ---
 
-> **原句 4:** "I think I'm gonna have to leave town." … "Leave town? Where?" … "I don't know. But if I stay here, I'll probably just have to get a room somewhere. An apartment, even a studio, is around thirteen hundred bucks a month, and I'll work all day just to scrape by living in it. I'll never be able to buy a house. I know I always told you that I dreamed about owning a bakery, like Tulip when it was open. I wasn't joking about that."
+> **原句 4:** "I think I'm gonna have to leave town.""
 
 **中文理解**: Lynette 考虑离开波特兰，因为留下意味着高昂的租金和永无止境的挣扎。她重申开面包店的梦想（像曾经的 Tulip Pastry Shop），表明这不是空想而是具体计划。
 
@@ -60,7 +60,7 @@
 
 ---
 
-> **原句 5:** "You know, I read in the paper a while ago that the places to move to are in the Midwest. That it's cheap in the old cities like St. Louis or Kansas City or Detroit or Cleveland. Everyone left them for a while, but now people are going back. Maybe you could start a bakery out there. In some city like that. How much money you got?" … "Almost a hundred thousand." … "Well, that's something, isn't it? Just work on fixing your credit, talk to somebody on how to do it, and save that money and then buy something."
+> **原句 5:** "You know, I read in the paper a while ago that the places to move to are in the Midwest. That it's cheap in the old cities like St. Louis or Kansas City or Detroit or Cleveland. Everyone left them for a while, but now people are going back. Maybe you could start a bakery out there. In some city like that. How much money you got?""
 
 **中文理解**: Shirley 建议 Lynette 去中西部城市（圣路易斯、堪萨斯城、底特律、克利夫兰），那里房价便宜，人们正在回流。得知 Lynette 有近十万美元后，她建议修复信用、咨询专业人士、存钱买房。
 
@@ -72,7 +72,7 @@
 
 ---
 
-> **原句 6:** "And if you really do have to leave town, don't worry about the Dutchman. I'll cover the shifts that I can and you know Wendy's wanted your slot for a couple years." … "I'm gonna be straight with you, okay? Take it however you want, but I'm gonna be straight because I like you. You were in trouble with Gloria. I knew it, but I didn't say anything because I knew why you were doing it. Well, now you're free of that. That's a lucky thing."
+> **原句 6:** "And if you really do have to leave town, don't worry about the Dutchman. I'll cover the shifts that I can and you know Wendy's wanted your slot for a couple years.""
 
 **中文理解**: Shirley 表示会帮 Lynette 覆盖酒吧班次，并透露她知道 Lynette 与 Gloria 的"麻烦"（性工作），但选择沉默因为她理解原因。现在 Lynette 摆脱了那段生活，这是幸运的事。
 
@@ -96,7 +96,7 @@
 
 ---
 
-> **原句 8:** "You know I never had kids." … "Did you want them?" … "Sure. I went crazy about it for a while. My husband wanted them, too. But I couldn't have them. But if I had a daughter, I always thought I'd want her to be like you." … "Like me?" Lynette said and then whispered, "But I'm no good at all. I've done a lot of bad things, Shirley." … "Not really you haven't. Not to me. See, the thing is, you never give up and you've got a good heart, a damaged heart, but a good heart, and you want to do good. Most people don't care about doing good. Most people just push you out of the way and grab what they want."
+> **原句 8:** "You know I never had kids.""
 
 **中文理解**: Shirley 透露自己无法生育，但如果她有女儿，希望她像 Lynette。Lynette 自卑地认为自己做了很多坏事，但 Shirley 反驳：你从未放弃，有一颗"受损但善良的心"，想要做好事，而大多数人只关心自己。
 
@@ -108,15 +108,6 @@
 
 ---
 
-> **原句 9:** "So let's go see your new car. But here's the thing I've decided. I ain't gonna sell it. I'm giving it to you. And I don't want any arguments about it. I don't want any discussion and I don't want you leaving money in my mailbox either. Just let me do it. It's my way of wishing you luck in life. My dad was a nice guy even though he smoked cigars. He'd want you to have it. He had a thing about brunettes."
-
-**中文理解**: Shirley 决定不卖车给 Lynette，而是免费送给她。她拒绝任何争论、讨论或偷偷留钱的行为，称这是祝福 Lynette 的方式。她提到父亲喜欢棕发女性，所以会希望 Lynette 拥有这辆车。
-
-**关键词**: （待补充）
-
-**为什么这样写**: Shirley 的慷慨是本段的高潮。2003 Buick LeSabre 虽然老旧，但对 Lynette 来说是自由的工具——没有车她无法离开波特兰，也无法在中西部生活。Vlautin 用"a thing about brunettes"这个轻松的理由来化解 Lynette 可能的愧疚感，使礼物显得自然而非施舍。这种给予方式尊重了 Lynette 的尊严：不是慈善，而是家族传承。
-
-**读者视角提示**: 注意"I don't want you leaving money in my mailbox"这个预防性声明。Shirley 知道 Lynette 的性格（不愿欠人情），所以提前堵住所有可能的回报途径。这种坚决显示她的给予是无条件的，不期待任何回报。
 
 ---
 

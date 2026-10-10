@@ -36,7 +36,7 @@
 
 ---
 
-> **原句 3:** "Jesus, you got beat up. The bruises are really showing now." … Her mother took off the large gauze bandages. One cut was completely covered with dried blood and looked better, but the other was still open and looked infected. "We went out on his boat once," she said. "He's the guy who wore the too-tight swim trunks and the golf shirts and had the huge belly. One of those guys who looked pregnant."
+> **原句 3:** "Jesus, you got beat up. The bruises are really showing now.""
 
 **中文理解**: 母亲看到 Lynette 的淤青更加明显，检查伤口时发现一个已愈合，另一个仍开放且可能感染。在护理过程中，母亲开始讲述前同事 Mona 的丈夫的故事——一个肥胖到看起来像怀孕的男人。
 
@@ -48,7 +48,7 @@
 
 ---
 
-> **原句 4:** "I'm gonna move in with her." … "It's cheap and I do like her and I don't have to come up with a deposit. Everything's in her name and she doesn't want anything up front. She and I have been talking about living together for a while." … "Just talking. You know how I am."
+> **原句 4:** "I'm gonna move in with her.""
 
 **中文理解**: 母亲宣布要搬去和 Mona 同住，理由是便宜、不用付押金、所有东西都在 Mona 名下。她声称两人"已经谈了一段时间"，但当 Lynette 追问时又轻描淡写地说"只是聊聊"。
 
@@ -84,7 +84,7 @@
 
 ---
 
-> **原句 7:** "But you're forgetting something," said Lynette. "I'm taking Kenny. That was the deal." … "Well, I've changed my mind." … "I can because he's my son, not yours." … "And tell them what? That you've got anger issues, that you've tried to kill yourself, that you've been hospitalized for it, and that most likely, from what I gather, you've been making money in a way I don't even want to think about."
+> **原句 7:** "But you're forgetting something," said Lynette. "I'm taking Kenny. That was the deal.""
 
 **中文理解**: Lynette 提醒母亲之前的协议是她带走 Kenny，但母亲反悔，声称因为 Kenny 是她的儿子所以有权决定。她威胁要在抚养权官司中揭露 Lynette 的心理问题（愤怒、自杀未遂、住院）和可疑的收入来源。
 

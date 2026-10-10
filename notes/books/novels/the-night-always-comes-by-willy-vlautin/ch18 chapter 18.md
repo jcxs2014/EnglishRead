@@ -12,7 +12,7 @@
 
 ---
 
-> **原句 1:** "My god," she said. "Can you take it off?" … "That bad, huh?" … "You still have your fifth of Jägermeister in the freezer. Do you want me to get you a glass?" … "I'll get some dish towels, too. I know we have hydrogen peroxide and rubbing alcohol in the medicine cabinet. Do we have tweezers?"
+> **原句 1:** "My god," she said. "Can you take it off?""
 
 **中文理解**: 母亲看到 Lynette 血浸透的衬衫后震惊，立即进入护理模式：提供酒精止痛、准备消毒用品、找镊子取玻璃。这一系列动作显示她对处理此类紧急情况并不陌生。
 
@@ -24,7 +24,7 @@
 
 ---
 
-> **原句 2:** "Where did you get such an expensive bra?" she said and set it on the edge of the bathtub. … "I don't really remember," Lynette whispered and sat back down. … "I never had a bra like that." Her mother opened the medicine cabinet and took out a bottle of hydrogen peroxide. "But my tits used to be as good as yours. Maybe even better, but of course then came two kids. Jesus, wait until you get to my age, until you can't lose weight and your tits sag."
+> **原句 2:** "Where did you get such an expensive bra?" she said and set it on the edge of the bathtub."
 
 **中文理解**: 母亲注意到 Lynette 的高档内衣（来自之前的性交易），引发短暂的嫉妒和自嘲。她回忆自己年轻时也曾拥有好身材，但因生育两个孩子而衰老。
 
@@ -36,7 +36,7 @@
 
 ---
 
-> **原句 3:** "This house will give us something to work on, something of our own to be proud of. This city is changing so much so fast that I don't know what to think. It just makes me scared. I drove around last night and there are neighborhoods I don't even recognize anymore." … "There are eleven downtown. Eleven new buildings and that's just right now. He counted sixteen last summer. We're gonna get pushed out if we don't buy. That's a fact."
+> **原句 3:** "This house will give us something to work on, something of our own to be proud of. This city is changing so much so fast that I don't know what to think. It just makes me scared. I drove around last night and there are neighborhoods I don't even recognize anymore.""
 
 **中文理解**: Lynette 恳求母亲买房，认为这是他们多年来第一个幸运机会。她描述了波特兰的快速绅士化（gentrification），担心如果不买房就会被驱逐出社区。她提到 Kenny 数起重机的细节，强调变化的速度。
 
@@ -48,7 +48,7 @@
 
 ---
 
-> **原句 4:** "I'm too tired to talk about this again," she said. … "I told you what I thought yesterday. I don't want to again. I'm sorry, but I meant what I said." … "I'm exhausted and I was so worried about you I couldn't even sleep and now I can't work. I'm beat and I know this is going to upset you, but, Christ, for once I have to put myself first. I don't want the loan and I don't want this house. I don't know how many times I have to tell you."
+> **原句 4:** "I'm too tired to talk about this again," she said."
 
 **中文理解**: 母亲以疲惫为由拒绝继续讨论买房。她声称必须"把自己放在第一位"，明确表示不想要贷款也不想要房子。这种重复的拒绝显示她早已做出决定，只是不愿直面女儿的失望。
 
@@ -60,7 +60,7 @@
 
 ---
 
-> **原句 5:** "I'm not that smart, but I think I'm beginning to figure out what you're doing. . . . You don't want to live with me, do you? This is about me. That's what's going on?" … Her mother took a long pull from her cigarette, exhaled the smoke, and looked at her. "I'm sorry, Lynette, but I don't want to live with you. I love you, I do, but I'm tired of living with you. I'm tired of being around you."
+> **原句 5:** "I'm not that smart, but I think I'm beginning to figure out what you're doing. . . . You don't want to live with me, do you? This is about me. That's what's going on?""
 
 **中文理解**: Lynette 终于问出核心问题：母亲是否不想和她一起生活。母亲确认后给出了残酷的解释：她爱女儿，但厌倦了和她在一起。这种爱与厌恶的并存是本章的情感核心。
 
@@ -72,7 +72,7 @@
 
 ---
 
-> **原句 6:** "Okay. Do you really want me to take Kenny?" … Her mother half nodded. "I was so upset last night that I gave him a pill and packed most of his things. If you want him, take him." … "Where are we supposed to go?" … "You're the one who said you were leaving this morning if I didn't do what you wanted. I don't know where you're supposed to go. I barely know where I'm gonna go."
+> **原句 6:** "Okay. Do you really want me to take Kenny?""
 
 **中文理解**: Lynette 询问是否应该带走 Kenny，母亲半点头承认昨晚已给儿子服药并打包了他的物品。当 Lynette 问去哪里时，母亲推卸责任，说自己也不知道要去哪。
 
@@ -84,7 +84,7 @@
 
 ---
 
-> **原句 7:** "I'm gonna get out of here in a day or two. My ribs hurt and I'll have to get rid of a lot of stuff, so I don't know how long it'll take, but now I don't want to stay here anymore either. So I'll be fast. I'll clean out the basement and the garage and Kenny's room. You'll have to do the rest, but most of this stuff is yours anyway. I'll give you an extra month's rent and bill money." … "I'll look at your bandages when you wake up. Try not to sleep on your back."
+> **原句 7:** "I'm gonna get out of here in a day or two. My ribs hurt and I'll have to get rid of a lot of stuff, so I don't know how long it'll take, but now I don't want to stay here anymore either. So I'll be fast. I'll clean out the basement and the garage and Kenny's room. You'll have to do the rest, but most of this stuff is yours anyway. I'll give you an extra month's rent and bill money.""
 
 **中文理解**: Lynette 宣布将在一两天内离开，承诺清理自己的物品并支付额外一个月的费用。母亲最后提出会检查绷带，建议不要仰卧睡觉。这是她们之间最后的温柔时刻。
 

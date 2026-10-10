@@ -22,7 +22,7 @@
 
 **读者视角提示**: 她的先发制人动作虽未能阻止冲突，但为后续谈判争取了筹码。
 
-> **原句 2:** "I paid you the five hundred I owed you," she said nervously while backing up. "That was the deal." … "But that wasn't what we agreed," said Lynette. "You can take the drugs if you want. But I have to give back her personal stuff and the extra money."
+> **原句 2:** "I paid you the five hundred I owed you," she said nervously while backing up. "That was the deal.""
 
 **中文理解**: Lynette 试图用契约精神约束 Kansas——已付五百美元开锁费，多余的钱和私人物品必须归还。
 
@@ -42,7 +42,7 @@
 
 **读者视角提示**: 锁门动作切断退路，Lynette 陷入绝境——这是全书最危险的时刻之一。
 
-> **原句 4:** "We'll bleed her in the utility sink and put the rest of her in the acid drum." … "Get my Buck knife from the drawer and the blanket covering the motorcycle. Put the blanket underneath her neck to soak up the blood."
+> **原句 4:** "We'll bleed her in the utility sink and put the rest of her in the acid drum.""
 
 **中文理解**: Kansas 详细规划谋杀流程：在水槽放血，尸体扔进酸桶；让助手取刀和毯子接血。
 
@@ -52,7 +52,7 @@
 
 **读者视角提示**: 他的冷静比愤怒更可怕——谋杀对他而言是日常事务而非道德危机。
 
-> **原句 5:** "Lynette was so scared she couldn't speak. Kansas's full weight was on her chest and his legs pinned her arms against the concrete floor." … "Tell me whose stuff this is."
+> **原句 5:** "Lynette was so scared she couldn't speak. Kansas's full weight was on her chest and his legs pinned her arms against the concrete floor.""
 
 **中文理解**: Kansas 全身重量压在 Lynette 胸口，双腿夹住她的手臂；她恐惧到失语，被逼问保险箱主人身份。
 
@@ -92,55 +92,6 @@
 
 **读者视角提示**: 她并未真正拨通（否则会有接线员回应），但 Kansas 无法验证——心理战的关键在于信息不对称。
 
-> **原句 9:** "If you do call the police, I really will kill you," Kansas said and got up. … "Then you'll go to prison," said Lynette. "And the thing that you don't know about me is that I don't care if you kill me. I wouldn't mind if you did."
-
-**中文理解**: Kansas 威胁真会动手，Lynette 反击称自己不在乎死亡——这种虚无主义反而震慑了他。
-
-**关键词**: prison / don't care / wouldn't mind
-
-**为什么这样写**: Lynette 的绝望成为武器；承认求死意志打破 Kansas 的控制逻辑。
-
-**读者视角提示**: 这句话揭示 Lynette 深层的心理状态——三年 caregiver 生涯已耗尽她的生存欲望。
-
-> **原句 10:** "The blond-haired man grabbed a box cutter from the shop table and began pacing as he showed Lynette the blade. His breathing grew quicker and quicker until he just stopped and puked into the dust mask." … "On the concrete floor he went into a seizure."
-
-**中文理解**: 金发男子手持裁纸刀逼近 Lynette，呼吸急促后突然呕吐并癫痫发作，倒在地上抽搐。
-
-**关键词**: box cutter / puked / seizure
-
-**为什么这样写**: 突发疾病打断暴力进程，创造逃生窗口；呕吐物和白沫的感官描写增强现场混乱感。
-
-**读者视角提示**: 他的病痛成为 Lynette 的救星——讽刺的是，Kansas 因照顾他而分心，给了她机会。
-
-> **原句 11:** "I know about seizures," Lynette said to Kansas. "Make sure to put him on his side. You don't want him to choke on his vomit. Get the knife out of his hand, too, because he might start thrashing around."
-
-**中文理解**: Lynette 利用护理 Kenny 的经验指导 Kansas 处理癫痫——侧卧防窒息，取出刀具防误伤。
-
-**关键词**: seizures / on his side
-
-**为什么这样写**: 专业知识成为求生工具；冷静的指令显示 Lynette 在危机中恢复理性。
-
-**读者视角提示**: 这段护理知识源自多年照顾弟弟的经历——创伤转化为生存技能，形成命运闭环。
-
-> **原句 12:** "Kansas was running with the man in his arms when he hit the right side of the door with the man's leg. The edge of the metal security bar holder went into his calf with such force that it tore the blond man's coveralls and put a long gash in his leg that instantly leaked out blood."
-
-**中文理解**: Kansas 抱着抽搐的男子冲向门口时，男子的腿撞到金属门栏，小腿被划开一道长口子，鲜血直流。
-
-**关键词**: metal security bar / gash / leaked out blood
-
-**为什么这样写**: 二次伤害加剧 Kansas 的慌乱；血迹增加逃亡的视觉冲击力。
-
-**读者视角提示**: 这道伤口象征 Kansas 计划的彻底崩盘——从加害者变为手忙脚乱的救助者。
-
-> **原句 13:** "Dogs in nearby yards went crazy with barking and Kansas began going back to where he left the blond man on the wet gravel and was almost to him when he once again turned around. He ran back to the fence and screamed, 'The purse!' but by then Lynette had disappeared into the darkness."
-
-**中文理解**: 邻居家狗狂吠，Kansas 跑回同伴身边后又折返追 Lynette，对着围栏尖叫索要手提包，但她已消失在黑暗中。
-
-**关键词**: dogs barking / disappeared / darkness
-
-**为什么这样写**: 狗吠象征秩序恢复（警报功能）；"darkness" 既是物理环境也是 Lynette 的道德模糊地带。
-
-**读者视角提示**: Kansas 的最终失败源于贪念——若他专心救人，或许能抓住 Lynette。
 
 ---
 

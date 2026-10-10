@@ -57,7 +57,7 @@ modified: "2026-10-09"
 
 **读者视角提示**：用机械规则替代人际协商，因为 Kenny 的心智水平无法进行复杂沟通。
 
-> **原句 5:** "Her brother shook his head." … "He was thirty-two years old and gaining more weight each year. His body had become a pear." … "He had monthly seizures and couldn't talk but for the sounds that came out almost like words."
+> **原句 5:** "Her brother shook his head.""
 
 **中文理解**：Kenny 摇头拒绝后，叙述者转入对他的身体与心智描写——三十二岁、梨形身材、每月癫痫、只能发出近似词语的声音。
 
@@ -67,7 +67,7 @@ modified: "2026-10-09"
 
 **读者视角提示**：医生说他有三岁心智，但 Lynette 觉得"有时太低有时太高"——她的判断超越标签，既承认局限也保留人性复杂度。
 
-> **原句 6:** "The foundation of the house was poured in 1922 using faulty concrete." … "She had her mother's two-decades-old full-sized bed, a dresser that had come with the house, two of its legs now bricks, and a six-foot-long wooden pole that was nailed to the ceiling where she hung her clothes." … "In a backpack she put a change of clothes and her class work and went upstairs to find her mother in the living room asleep on the couch, the TV still on."
+> **原句 6:** "The foundation of the house was poured in 1922 using faulty concrete.""
 
 **中文理解**：从房屋地基的劣质混凝土，到 Lynette 的二手家具（砖头垫脚的抽屉柜、天花板晾衣杆），再到她背起背包去上课——物质贫困与个人追求并置。
 

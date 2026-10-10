@@ -12,7 +12,7 @@
 
 ---
 
-> **原句 1:** "Cody was six feet three inches tall and weighed less than a hundred and forty pounds. He was so thin and gaunt that he looked ill. He had a straggly beard and his brown hair was curly and long." … "His nose was narrow and long and drooped at the end, and his arms were bony and covered in new, brightly colored tattoos."
+> **原句 1:** "Cody was six feet three inches tall and weighed less than a hundred and forty pounds. He was so thin and gaunt that he looked ill. He had a straggly beard and his brown hair was curly and long.""
 
 **中文理解**: Cody 身材极高却极度消瘦，外表病态——卷曲长发、稀疏胡须、鹰钩鼻，手臂布满新纹身，耳垂有穿孔痕迹。
 
@@ -22,7 +22,7 @@
 
 **读者视角提示**: 与典型"硬汉罪犯"形象相反，Cody 的虚弱使他成为可操控的同谋而非危险伙伴。
 
-> **原句 2:** "I heard you've been in prison." … "Burglary." … "What did you steal?" … "I've stole a lot of things, but right now I just want to get out of here and you're getting in the way of that."
+> **原句 2:** "I heard you've been in prison.""
 
 **中文理解**: Lynette 直接询问 Cody 的犯罪记录——他因入室盗窃入狱，但拒绝详谈，只想完成工作下班。
 
@@ -52,7 +52,7 @@
 
 **读者视角提示**: 保险箱成为两人关系的纽带——Lynette 提供机会，Cody 提供技能，交易性质明确。
 
-> **原句 5:** "I have the key to the place and the owner is gone all night." … "She doesn't have cameras inside her place. I don't know about the building. But she won't report it anyway. She won't call the cops if I take just what's mine."
+> **原句 5:** "I have the key to the place and the owner is gone all night.""
 
 **中文理解**: Lynette 强调作案条件优越：有钥匙、主人不在、无室内监控；她声称只取回属于自己的钱，Gloria 不会报警。
 
@@ -62,7 +62,7 @@
 
 **读者视角提示**: "won't call the cops" 是自我安慰，实际风险被刻意忽略。
 
-> **原句 6:** "Thirty percent of eight grand is twenty-four hundred. That's a lot of money. The problem is everybody's got cameras now. They'll know we took it." … "I know a mechanic who has a lot of tools. I haven't talked to him in a while, but I bet he could do it. I just don't know if he'd want to."
+> **原句 6:** "Thirty percent of eight grand is twenty-four hundred. That's a lot of money. The problem is everybody's got cameras now. They'll know we took it.""
 
 **中文理解**: Cody 计算分成后提出实际困难：摄像头无处不在；他想起一个有工具的机械师，但不确定对方是否愿意参与。
 
@@ -82,7 +82,7 @@
 
 **读者视角提示**: Cody 的动机比 Lynette 更纯粹——他不是为复仇或正义，只是为基本尊严。
 
-> **原句 8:** "My girlfriend at the time worked at an old folks' home in Sherwood. She planned it and me and this guy robbed it." … "The police had been tipped off and they took me in." … "He was seeing my girlfriend. That's who he was talking about. They were engaged. They had wedding plans."
+> **原句 8:** "My girlfriend at the time worked at an old folks' home in Sherwood. She planned it and me and this guy robbed it.""
 
 **中文理解**: Cody 讲述入狱经历：女友策划抢劫养老院，他与同伙实施却被设局——女友与同伙暗中交往并订婚，联手陷害他。
 
@@ -92,45 +92,6 @@
 
 **读者视角提示**: Cody 的犯罪史充满被动色彩——他被女人利用，这与 Lynette 主动策划形成对照。
 
-> **原句 9:** "She showed them emails. I mean she even got on my laptop and sent herself emails from my account. She pretended to be me. The emails were rants, mean as shit, saying I was gonna ruin her life."
-
-**中文理解**: 前女友伪造邮件证据：登录 Cody 的邮箱给自己发送威胁信，制造他有暴力倾向的假象，导致刑期加重。
-
-**关键词**: emails / pretended / rants
-
-**为什么这样写**: 数字时代的伪证手段显示预谋的精密；Cody 不习惯发邮件的细节（只用短信）成为致命弱点。
-
-**读者视角提示**: 司法系统被操纵，Cody 的冤屈加深读者对他的同情，也为后续背叛埋下伏笔。
-
-> **原句 10:** "But you robbed old, sick people." … "I guess," he said. "But most of them couldn't even remember their names. What are they gonna do with a watch or a phone or a gold ring? Plus, all that shit's insured."
-
-**中文理解**: Lynette 质疑 Cody 抢劫老人病人的道德性；Cody 辩称老人们记不住自己的名字，物品都有保险，伤害有限。
-
-**关键词**: old, sick people / insured
-
-**为什么这样写**: Cody 的自我辩护暴露其道德相对主义；Lynette 的批评显示她仍有底线，尽管正在跨越它。
-
-**读者视角提示**: 这段对话预示后续冲突——当 Kansas 威胁杀人时，Cody 的冷漠将受到考验。
-
-> **原句 11:** "We got robbed once when I was fifteen," she said.
-
-**中文理解**: Lynette 分享自己被抢劫的经历：两个流浪汉闯入家中，抢走电视和音响，吓得弟弟数月不敢独处——窃贼所得不过五十美元。
-
-**关键词**: robbed
-
-**为什么这样写**: 个人创伤解释 Lynette 对小偷的厌恶；损失微小却造成长期心理伤害，凸显贫困家庭的脆弱性。
-
-**读者视角提示**: Lynette 既是受害者又将成为加害者，身份矛盾加剧内心冲突。
-
-> **原句 12:** "Well, I only rob people where there's shit I could actually sell and make money. But like I said, I don't do that anymore. Anyway, don't fuck with me. I'm helping you."
-
-**中文理解**: Cody 反驳 Lynette 的道德指责：他只抢劫有销路的物品，且已金盆洗手；最后警告她不要惹恼自己，毕竟在帮她。
-
-**关键词**: don't fuck with me / helping you
-
-**为什么这样写**: Cody 的防御性反应显示他对自己过往的敏感；权力声明提醒 Lynette 他们的合作关系脆弱。
-
-**读者视角提示**: "don't fuck with me" 是虚张声势——Cody 的虚弱使他依赖 Lynette，而非相反。
 
 ---
 

@@ -12,7 +12,7 @@
 
 ---
 
-> **原句 1:** "The deal is you can get out of my trailer now." … "JJ says you owe him money, and the thing is, JJ owes me money. Has for a few years." … "You give me the coke and JJ and me are even. And you'll be even with JJ, too."
+> **原句 1:** "The deal is you can get out of my trailer now.""
 
 **中文理解**: Rodney 揭露真相：这不是交易，而是债务转移。JJ 欠他钱，而 Lynette 被诬陷欠 JJ 钱，所以用可卡因抵债让两人"扯平"。Lynette 成为他们之间债务清算的牺牲品。
 
@@ -36,7 +36,7 @@
 
 ---
 
-> **原句 3:** "One thing in my line of work that you find out is that most people act like they have more than they really do. That they're better off than they really are." … "Rednecks and gangsters want to be rich, but most of them aren't rich. Rednecks with their trucks and gangsters with their SUVs and Cadillacs. And on the other side are the full-of-shit people trying to act white-collar rich by driving BMWs and Mercedeses and Audis."
+> **原句 3:** "One thing in my line of work that you find out is that most people act like they have more than they really do. That they're better off than they really are.""
 
 **中文理解**: Rodney 作为收车人，观察到美国人普遍通过贷款购买超出承受能力的物品来伪装富裕。他将人分为两类：开卡车和 SUV 的"红脖子与黑帮"，以及开豪车的"白领装逼犯"。
 
@@ -48,7 +48,7 @@
 
 ---
 
-> **原句 4:** "People getting things they haven't earned, that they haven't sweated for. Half the time they're buying things they didn't even know they wanted. And let me tell you, getting things you haven't earned does nobody any good." … "They'd rather kill a guy than take a bus. They'd rather kill a guy than drive a piece-of-shit beater like what you got out there."
+> **原句 4:** "People getting things they haven't earned, that they haven't sweated for. Half the time they're buying things they didn't even know they wanted. And let me tell you, getting things you haven't earned does nobody any good.""
 
 **中文理解**: Rodney 谴责人们通过信用卡获取未earned的东西，认为这害了所有人。他甚至说有些人宁愿杀人也不愿坐公交或开破车，暗示他曾被债务人威胁过生命。
 
@@ -60,7 +60,7 @@
 
 ---
 
-> **原句 5:** "You're leaving right now." … "JJ said you're a piece of shit and you owe him money. I knew just by looking at you that you'd bitch and lie and waste my time and I'm playing golf in less than an hour. So leave, and if you do, your debt to JJ is done and his debt to me is done and you won't be a piece of shit anymore. At least where this is concerned."
+> **原句 5:** "You're leaving right now.""
 
 **中文理解**: Rodney 用枪指着 Lynette，命令她离开。他重复 JJ 的侮辱（"piece of shit"），并声称只要她离开，债务就一笔勾销。他把暴力包装成"宽恕"。
 

@@ -27,7 +27,7 @@ modified: "2026-10-09"
 
 **读者视角提示**：这是 Portland 的典型场景，低收入工作者为城市发展让路，自己却被推向边缘。
 
-> **原句 2:** "Don't leave this room unless you have to use the bathroom… but find me first. And don't wait too long like you did yesterday because I forgot to bring you a change of clothes."
+> **原句 2:** "Don't leave this room unless you have to use the bathroom"
 
 **中文理解**：一连串指令——别离开、先找我、别憋太久、昨天就忘了带换洗衣服。语速急促如 checklist。
 

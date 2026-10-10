@@ -12,7 +12,7 @@
 
 ---
 
-> **原句 1:** "I bought Shirley's old car." … "It's a 2003 Buick. It's a boat, but it drives nice." … "Got rid of the Nissan?" … "I took it to the wrecking yard today. You getting drunk?" … "Just having a drink."
+> **原句 1:** "I bought Shirley's old car.""
 
 **中文理解**: Lynette 告诉母亲她买了 Shirley 的旧车（实际上是免费得到的），形容它是"船"（指体积大、操控笨重但舒适）。母亲询问是否卖掉了 Nissan，Lynette 确认已送去废车场，并反问母亲是否在喝酒。
 
@@ -24,19 +24,10 @@
 
 ---
 
-> **原句 2:** "I'll lose my nerve if I don't leave tonight." … "Where you gonna go?" … "I don't know." … "I've been thinking a lot today," she said. "You might say I don't love you, but I do love you. I love you because you're my daughter. I'd run in front of a bus to save you. Right this second I would and every second you've been breathing. I've always felt that way. You wouldn't understand that, the way a mother feels about her kids. I'd give my life to save yours until the day I keel over. That's the truth. But really that doesn't mean I have to like you or that we have to get along or that you even have to like me. 'Cause I'd guess you haven't liked me in a lot of years."
-
-**中文理解**: Lynette 说如果今晚不走就会失去勇气。母亲开始长篇独白：她爱女儿（愿意为她挡公交车），但这不等于喜欢她或能和她相处。她认为 Lynette 多年来也不喜欢她。
-
-**关键词**: （待补充）
-
-**为什么这样写": 这是母亲最诚实也最自相矛盾的时刻。她将"爱"定义为生物本能（为子女牺牲生命），将"喜欢"定义为情感兼容（能否相处）。Vlautin 展示了母爱的复杂性：它可以是无条件的（biological imperative），也可以是有条件的（personality clash）。母亲假设 Lynette 不喜欢她，这是一种投射——她将自己的厌恶归因于女儿。
-
-**读者视角提示**: 注意"keel over"这个短语（突然倒下死亡）。母亲频繁提及死亡，显示她对衰老和死亡的焦虑。这种存在主义恐惧驱动了她的许多决定：她不想再为任何人牺牲，只想在剩余的时间里为自己而活。
 
 ---
 
-> **原句 3:** "Maybe you should hate my guts and maybe I deserve to get my head caved in by you. Maybe that wouldn't be the worst thing to happen, but really in the end where would that leave us: you, me, and Kenny? Nowhere, that's where. We have to get by regardless of what we feel. And I'm gonna be honest with you right now. So you have to listen to me. Will you do that?" … "Last month Mona and I drove around downtown. Near where your bakery is. The Pearl District. When I was your age, no one went to that part of town. It was all empty buildings and bums and guys shooting up. Now, as you know, it's all fancy buildings and skinny people who look like they're in magazines."
+> **原句 2:** "Maybe you should hate my guts and maybe I deserve to get my head caved in by you. Maybe that wouldn't be the worst thing to happen, but really in the end where would that leave us: you, me, and Kenny? Nowhere, that's where. We have to get by regardless of what we feel. And I'm gonna be honest with you right now. So you have to listen to me. Will you do that?""
 
 **中文理解**: 母亲说暴力解决不了问题，她们必须"get by"（勉强维持）。她描述了波特兰 Pearl District 的绅士化：从前是废弃建筑和吸毒者，现在是时尚建筑和杂志模特般的瘦人。
 
@@ -48,7 +39,7 @@
 
 ---
 
-> **原句 4:** "And then . . . Then all you do is cross another street and there's homeless people camping everywhere. They're coming, too. You can't drive around Portland without seeing a hundred tents. People living in tents! Are they all on drugs? Are there that many people who are crazy and on drugs? I used to always ask myself, why would a man in his twenties want to live on the street when he could work? I mean, my God, what's happening? For a long time I didn't understand it. Why . . . why would they live that way? It seems so awful. So miserable. But you know, now I think I'm starting to understand. The answer is, why not? Why should they bust their asses all day when they know no matter what they do they'll never get ahead."
+> **原句 3:** "And then . . . Then all you do is cross another street and there's homeless people camping everywhere. They're coming, too. You can't drive around Portland without seeing a hundred tents. People living in tents! Are they all on drugs? Are there that many people who are crazy and on drugs? I used to always ask myself, why would a man in his twenties want to live on the street when he could work? I mean, my God, what's happening? For a long time I didn't understand it. Why . . . why would they live that way? It seems so awful. So miserable. But you know, now I think I'm starting to understand. The answer is, why not? Why should they bust their asses all day when they know no matter what they do they'll never get ahead."
 
 **中文理解**: 母亲观察到波特兰随处可见的无家可归者帐篷，并开始理解他们的选择：如果无论如何努力都无法改善生活，为什么要辛苦工作？这种认知标志着她从道德判断转向结构性批判。
 
@@ -60,19 +51,10 @@
 
 ---
 
-> **原句 5:** "Me, I have to pay for my shitty health insurance and all the goddamn copays, and I have to pay out the nose for anything that's not covered, and there's a lot of things not covered. And then some homeless creep who lives in a tent just goes to the hospital and gets everything for free. Politicians get health care for free and bums do, too. But of course not us. How does that make sense? How does that make you want to get out of bed in the morning and go to work and stand next to Cheryl? Christ."
-
-**中文理解**: 母亲抱怨她必须支付昂贵的医疗保险和共付额，而无家可归者和政客却可以免费获得医疗服务。这种不公让她质疑工作的意义。
-
-**关键词**: health insurance, copays, free, politicians
-
-**为什么这样写": 这段抱怨揭示了美国医疗系统的荒谬性：夹心层（working poor）既不够穷到享受 Medicaid，又不够富到负担私人保险。Vlautin 精准捕捉了工人阶级的愤怒来源：他们看到两端的人（赤贫者和精英）都有保障，而自己承担全部风险。母亲的"Cheryl"（同事）代表了她日常生活中的微小挫折累积成的绝望。
-
-**读者视角提示**: 注意"politicians get health care for free"这个说法。实际上美国国会议员确实享有联邦员工健康福利，但这需要纳税人资助，并非完全"free"。母亲的简化反映了她对政治精英的怨恨，这种怨恨是美国民粹主义的燃料。
 
 ---
 
-> **原句 6:** "Isn't that the American dream? Fuck over whoever is in your way and get what you want. I barely got through high school, but if I remember anything about history, it's that. The people who are written about are the ones taking. People arrive somewhere and try to get their piece. They don't care who they hurt doing it, they really don't, and I'm starting to understand why. Because it's all bullshit. The land of the free and that whole crock of shit. It's just men taking what they want and justifying it any way they need to so they can get up in the morning and take more and buy another speedboat and their third vacation home and their fifth rental property and then push people out of their homes so they can make more money and go on safaris and kill giraffes and elephants all while everyone else is just trying to pay off their credit card bill or student loan or trying to get enough hours at one job so they don't have to get a second."
+> **原句 4:** "Isn't that the American dream? Fuck over whoever is in your way and get what you want. I barely got through high school, but if I remember anything about history, it's that. The people who are written about are the ones taking. People arrive somewhere and try to get their piece. They don't care who they hurt doing it, they really don't, and I'm starting to understand why. Because it's all bullshit. The land of the free and that whole crock of shit. It's just men taking what they want and justifying it any way they need to so they can get up in the morning and take more and buy another speedboat and their third vacation home and their fifth rental property and then push people out of their homes so they can make more money and go on safaris and kill giraffes and elephants all while everyone else is just trying to pay off their credit card bill or student loan or trying to get enough hours at one job so they don't have to get a second."
 
 **中文理解**: 母亲重新定义"美国梦"为"踩踏他人获取所需"。她认为历史是由掠夺者书写的，他们不在乎伤害他人。她列举了富人的奢侈消费（快艇、第三套度假屋、第五套出租房产、非洲狩猎），与普通人偿还信用卡和学生贷款的挣扎形成对比。
 
@@ -84,7 +66,7 @@
 
 ---
 
-> **原句 7:** "Well, fine then. If they're gonna do what they want to do, I'll do what I have to do, too. Screw them. That's what I believe in now. So this is my advice to you, Lynette, at the end of the day just look out for yourself and screw everyone else."
+> **原句 5:** "Well, fine then. If they're gonna do what they want to do, I'll do what I have to do, too. Screw them. That's what I believe in now. So this is my advice to you, Lynette, at the end of the day just look out for yourself and screw everyone else."
 
 **中文理解**: 母亲总结她的哲学：既然富人剥削他人，她也会做必要的事来生存。她给 Lynette 的最后建议是"只顾自己，不管他人"。
 
@@ -96,7 +78,7 @@
 
 ---
 
-> **原句 8:** "I have no idea about Mona's place," she said gently. "I've never been there, so I don't know. But I've got a bad feeling it's not going to be very nice there. But I don't want you to worry, Kenny, because I'm going to come back and get you when I'm settled. I promise, I really do promise. It might take me a bit, but I'll find a place that I can own, and maybe I really will own a bakery. Maybe in St. Louis or Kansas City or Cleveland like Shirley said, or maybe in some smaller town that's just cheaper. And when I get there, I won't mess around, Kenny. I won't. I swear I won't. I won't let myself get depressed. And I won't get mean or bitter. I won't be cruel. And I'll try hard and I'll make sure the darkness doesn't get me. I'll try my hardest to make sure it doesn't. You'll see. . . . I'll remember to be kind and I'll try not to be so weak. I'll try to be strong. And I'll think about you every minute and I'll love you every second. Thanks for saving me, Kenny. Thanks for being my brother."
+> **原句 6:** "I have no idea about Mona's place," she said gently. "I've never been there, so I don't know. But I've got a bad feeling it's not going to be very nice there. But I don't want you to worry, Kenny, because I'm going to come back and get you when I'm settled. I promise, I really do promise. It might take me a bit, but I'll find a place that I can own, and maybe I really will own a bakery. Maybe in St. Louis or Kansas City or Cleveland like Shirley said, or maybe in some smaller town that's just cheaper. And when I get there, I won't mess around, Kenny. I won't. I swear I won't. I won't let myself get depressed. And I won't get mean or bitter. I won't be cruel. And I'll try hard and I'll make sure the darkness doesn't get me. I'll try my hardest to make sure it doesn't. You'll see. . . . I'll remember to be kind and I'll try not to be so weak. I'll try to be strong. And I'll think about you every minute and I'll love you every second. Thanks for saving me, Kenny. Thanks for being my brother."
 
 **中文理解**: Lynette 向 Kenny 承诺会回来接他，并列举了她不会做的事（不消沉、不变刻薄、不残忍）。她感谢 Kenny"救了她"，称他为兄弟而非儿子（因为 Kenny 实际上是她的弟弟，尽管她像母亲一样照顾他）。
 
@@ -108,7 +90,7 @@
 
 ---
 
-> **原句 9:** "Remember to say hello to the Trail Blazers for me. Tell them not to trade CJ or Damian. And remember no matter where you end up, I'll come and get you. I swear on my life I will, and when you see me, I'll be good, I'll be doing good." … The things she put into her car weren't much: clothes, a lamp Jack had bought her, a wristwatch of her grandfather's, and two boxes of dishes her grandmother had left her. All of it fit in the trunk of the Buick.
+> **原句 7:** "Remember to say hello to the Trail Blazers for me. Tell them not to trade CJ or Damian. And remember no matter where you end up, I'll come and get you. I swear on my life I will, and when you see me, I'll be good, I'll be doing good." … The things she put into her car weren't much: clothes, a lamp Jack had bought her, a wristwatch of her grandfather's, and two boxes of dishes her grandmother had left her. All of it fit in the trunk of the Buick.
 
 **中文理解**: Lynette 让 Kenny 向波特兰开拓者队（Trail Blazers）问好，不要交易 CJ McCollum 或 Damian Lillard（球队明星球员）。她带走的东西很少：衣服、Jack 买的灯、祖父的手表、祖母留下的餐具。所有物品都装进了 Buick 的后备箱。
 
@@ -120,7 +102,7 @@
 
 ---
 
-> **原句 10:** At the kitchen table, Lynette wrote a note to her mother saying goodbye and that she loved her. When she'd locked the front door, she put her key through the mail slot and got into the Buick. She poured a cup of coffee and started the car. It was still raining and past midnight when she got on the interstate and headed east.
+> **原句 8:** At the kitchen table, Lynette wrote a note to her mother saying goodbye and that she loved her. When she'd locked the front door, she put her key through the mail slot and got into the Buick. She poured a cup of coffee and started the car. It was still raining and past midnight when she got on the interstate and headed east.
 
 **中文理解**: Lynette 在厨房桌上给母亲留了告别便条，表达爱意。锁门后将钥匙从邮件槽塞回屋内，上车倒咖啡，凌晨时分驶入州际公路向东行驶。外面仍在下雨。
 

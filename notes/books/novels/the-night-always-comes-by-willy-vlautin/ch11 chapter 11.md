@@ -72,7 +72,7 @@
 
 **读者视角提示**: 这个无名角色（后称"blond man"）将成为悲剧受害者，他的出场即预示不幸。
 
-> **原句 7:** "More than half of his face was covered with psoriasis. Bursting red blisters ran from the back of his neck, around his left ear, and completely engulfed his left eye and forehead." … "He was young, in his twenties, but his teeth had gone bad and his eyes looked pushed into his head like he was an old man."
+> **原句 7:** "More than half of his face was covered with psoriasis. Bursting red blisters ran from the back of his neck, around his left ear, and completely engulfed his left eye and forehead.""
 
 **中文理解**: 金发男子面部过半被牛皮癣覆盖——红色水疱从颈部蔓延至左眼和前额；虽年仅二十多岁，牙齿腐烂，眼神苍老。
 
@@ -82,7 +82,7 @@
 
 **读者视角提示**: 他的病痛使他成为弱者，与 Kansas 的暴力形成权力不对等，预示他将被牺牲。
 
-> **原句 8:** "Sets of fluorescent lights hung over a ten-foot-long workbench where a large, overweight man, in the same type of gray coveralls, stood next to a woodstove." … "His voice had a high-pitched grate to it, like something in his voice box was broken. His tongue was pierced. There was a large silver stud in the middle of it that he played with when he talked."
+> **原句 8:** "Sets of fluorescent lights hung over a ten-foot-long workbench where a large, overweight man, in the same type of gray coveralls, stood next to a woodstove.""
 
 **中文理解**: Kansas 是个超重的壮汉，声音尖利如声带受损，舌头上有银钉，说话时不停把玩。
 
@@ -92,25 +92,6 @@
 
 **读者视角提示**: 与 Cody 的病弱相反，Kansas 代表原始暴力和不可预测性。
 
-> **原句 9:** "He made grunting noises as he jammed a crowbar into the edges of the door, trying to bend it. After five minutes he had both crowbars inside the safe and bent the door until it popped open."
-
-**中文理解**: Kansas 用两根撬棍强行撬开保险箱门——五分钟后门被掰开。
-
-**关键词**: crowbar / bent the door / popped open
-
-**为什么这样写**: 暴力开箱方式显示 Kansas 的力量与粗暴；"popped open" 的拟声词制造紧张释放感。
-
-**读者视角提示**: 与 Cody 的病弱相反，Kansas 代表原始暴力和不可预测性。
-
-> **原句 10:** "From inside the safe he took out three rubber-banded stacks of one-hundred-dollar bills, a large plastic bag of what looked like cocaine, three diamond rings, two silver dollars in cases, an antique gold necklace, two antique brooches, a manila envelope of papers, and stacks of personal and family photos."
-
-**中文理解**: 保险箱内物品丰富：三叠百元美钞、一大袋可卡因、三枚钻戒、两枚纪念银币、古董金项链和胸针、文件袋及个人照片。
-
-**关键词**: cocaine / diamond rings / personal photos
-
-**为什么这样写**: 物品清单混合金钱、毒品、情感价值（照片）——Gloria 的生活被压缩进一个金属盒。
-
-**读者视角提示**: 照片和文件的存在使盗窃升级为侵犯隐私；可卡因将成为后续冲突的导火索。
 
 ---
 

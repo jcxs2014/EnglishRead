@@ -12,7 +12,7 @@
 
 ---
 
-> **原句 1:** "I know you stole my safe." … "Your safe? I didn't steal anything. What's wrong? Did you get robbed?" … "I've known you too long and you're a shitty liar." … "You really are a drunk, aren't you?" … "Fuck you," Gloria yelled. "I just want my safe."
+> **原句 1:** "I know you stole my safe.""
 
 **中文理解**: Gloria 直接指控 Lynette 偷了保险箱，声称认识她太久所以知道她在撒谎。Lynette 反击说 Gloria 是酒鬼，Gloria 愤怒地要求归还保险箱。
 
@@ -24,7 +24,7 @@
 
 ---
 
-> **原句 2:** "There's only one other person besides Terry who has a key and the code to my place. I was with Terry last night and my other friend promises it wasn't him. And you have the code and last night you were staying there. What am I supposed to think?" … "But I didn't stay there. I changed my mind and left the key on the counter. So get your hands off me."
+> **原句 2:** "There's only one other person besides Terry who has a key and the code to my place. I was with Terry last night and my other friend promises it wasn't him. And you have the code and last night you were staying there. What am I supposed to think?""
 
 **中文理解**: Gloria 列出嫌疑人：只有 Terry、另一个朋友和 Lynette 有钥匙和密码。她排除了前两者，因为 Terry 和她在一起，另一个朋友发誓没做。Lynette 有密码且昨晚在那里过夜，所以成为唯一嫌疑人。Lynette 辩解说她改变主意离开了，把钥匙留在台面上。
 
@@ -36,7 +36,7 @@
 
 ---
 
-> **原句 3:** "You owe me eight thousand dollars. Did you have that in your safe?" … "Fuck you. There was twice that in the safe and you know it." … "You're saying you had twice as much money as what you owed me and still you didn't give me anything? When I was begging? When I was begging for you to just pay me back what you owe me? Now you come here and have the nerve to say I stole it. And to think I gave you that eight thousand dollars as a friend. I gave it to you 'cause you're a fucking drunk and got a DUI."
+> **原句 3:** "You owe me eight thousand dollars. Did you have that in your safe?""
 
 **中文理解**: Lynette 质问 Gloria 是否用保险箱里的钱还债，Gloria 承认里面有一万六千美元（两倍于欠款）。Lynette 愤怒地质问：你有钱却不还我，当我乞求时你说破产，现在却指责我偷窃？她提醒 Gloria，那八千美元是作为朋友借给她付酒驾罚款的。
 
@@ -84,7 +84,7 @@
 
 ---
 
-> **原句 7:** "Why would you do that? Why would you ruin me? I mean, just give me back the safe and you can have the eight grand. I'm sorry I didn't give it to you last night. I should have, but I was in a hurry. But I swear I'll give you the money I owe you. And I'll even give you a grand extra as interest. Just give me back the safe." … "You and your fucked-up brother and your nutjob mom. Well, I'm calling the cops and they'll fucking throw you all in prison and I hope you rot there for the rest of your lives."
+> **原句 7:** "Why would you do that? Why would you ruin me? I mean, just give me back the safe and you can have the eight grand. I'm sorry I didn't give it to you last night. I should have, but I was in a hurry. But I swear I'll give you the money I owe you. And I'll even give you a grand extra as interest. Just give me back the safe.""
 
 **中文理解**: Gloria 先是试图贿赂（还八千再加一千利息），被拒绝后转为恶毒诅咒，侮辱 Lynette 的弟弟和母亲是"fucked-up"和"nutjob"，威胁要让她们全家坐牢。
 

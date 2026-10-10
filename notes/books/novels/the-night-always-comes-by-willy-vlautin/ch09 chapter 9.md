@@ -12,7 +12,7 @@
 
 ---
 
-> **原句 1:** "Gloria Milligan was the most beautiful woman Lynette had ever met. Thin and tall with black hair and light blue eyes. She had a seemingly natural elegance to her, but Lynette knew she had worked hard at it." … "The old man she was with had witnessed none of it. He thought she'd grown up in Portland and had gone to college at UC Berkeley."
+> **原句 1:** "Gloria Milligan was the most beautiful woman Lynette had ever met. Thin and tall with black hair and light blue eyes. She had a seemingly natural elegance to her, but Lynette knew she had worked hard at it.""
 
 **中文理解**: Gloria 外表精致但内在粗鄙——她编造了加州大学伯克利分校毕业的出身，实际来自伐木小镇 Clatskanie，父亲瘫痪、靠救济金生活。
 
@@ -42,7 +42,7 @@
 
 **读者视角提示**: Lynette 故意戳痛处，既是无心之失也是潜意识里的权力平衡——她掌握着 Gloria 的真实历史。
 
-> **原句 4:** "I just got back from Newport Beach," she said. "Did I tell you?" … "Terry had business in Corona del Mar. I flew down a couple days after him, but he didn't even put me in first class. He used to always put me in first class."
+> **原句 4:** "I just got back from Newport Beach," she said. "Did I tell you?""
 
 **中文理解**: Gloria 炫耀南加州之旅，却抱怨 Terry 不再让她坐头等舱——细节暗示关系降温，她开始失去特权。
 
@@ -62,7 +62,7 @@
 
 **读者视角提示**: Gloria 的务实与 Lynette 的理想主义形成对照——两人都被困在不同形式的交易中。
 
-> **原句 6:** "And I know you're in a hurry, but I was hoping I could get back the money I loaned you." … "The eight thousand dollars I gave you." … "For the DUI? You told me you were gonna give me the money back within a week no problem. But it's been seven months."
+> **原句 6:** "And I know you're in a hurry, but I was hoping I could get back the money I loaned you.""
 
 **中文理解**: Lynette 终于开口要回八千美元借款——Gloria 七个月前以酒驾罚款为由借走，承诺一周内归还却至今未还。
 
@@ -72,7 +72,7 @@
 
 **读者视角提示**: 这笔钱是 Lynette 买房计划的关键部分，Gloria 的违约直接威胁她的生存策略。
 
-> **原句 7:** "I thought Terry gave you a thousand a week spending money." … "What about those two other guys you're seeing?" … "What the fuck?" said Gloria and again glared at her through the reflection in the mirror. "I'm not seeing them anymore. And don't tell anyone I am."
+> **原句 7:** "I thought Terry gave you a thousand a week spending money.""
 
 **中文理解**: Lynette 质问 Gloria 为何声称没钱——她知道 Gloria 同时交往多个男人获取金钱，Gloria 对此暴怒。
 
@@ -82,7 +82,7 @@
 
 **读者视角提示**: 两人关系的权力动态在此逆转——Lynette 掌握信息优势，Gloria 处于防御地位。
 
-> **原句 8:** "Honestly I don't know. You can't just throw things like this at me when I'm trying to not be late." … "Look, I didn't mean to get pissed off. I got a lot going on, too. I'll get Terry to give me some money tonight. I could probably get you five hundred."
+> **原句 8:** "Honestly I don't know. You can't just throw things like this at me when I'm trying to not be late.""
 
 **中文理解**: Gloria 最终承认自己破产，只愿给五百美元——远不足以解决 Lynette 的困境，却是她能榨出的极限。
 
@@ -92,25 +92,6 @@
 
 **读者视角提示**: Lynette 意识到正规途径无望，为后续盗窃决定埋下伏笔。
 
-> **原句 9:** "Is it alright if I stay here?" she asked. "I just can't go home right now." … "Sure," said Gloria and put on a coat and grabbed her purse. "I won't be here until tomorrow anyway." … "I really appreciate it. And do you have an extra key? I'm going to get some food and then come back."
-
-**中文理解**: Lynette 请求借宿并索要备用钥匙——Gloria 毫无疑心地答应，为 Lynette 返回盗窃创造机会。
-
-**关键词**: extra key / stay here
-
-**为什么这样写**: Lynette 的请求看似随意实则预谋；Gloria 的信任暴露她的天真或漠不关心。
-
-**读者视角提示**: 钥匙成为犯罪工具，友谊被彻底工具化——Lynette 的道德滑坡至此完成。
-
-> **原句 10:** "She sat on the bed, tried to think, and then took a half-dozen pictures of it and left."
-
-**中文理解**: Gloria 离开后，Lynette 回到卧室查看保险箱——它未被固定，可以移动但太重无法独自搬运。她拍照记录后离开。
-
-**关键词**: pictures
-
-**为什么这样写**: 冷静的行动显示 Lynette 已进入犯罪模式；拍照是为后续行动做准备，理性压倒道德顾虑。
-
-**读者视角提示**: 保险箱象征 Gloria 隐藏的秘密财富，Lynette 的决定标志着她从受害者转为加害者。
 
 ---
 
