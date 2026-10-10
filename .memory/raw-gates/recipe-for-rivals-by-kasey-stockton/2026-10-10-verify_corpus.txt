@@ -1,0 +1,123 @@
+=== 语料层验收（P0-0）: recipe-for-rivals-by-kasey-stockton ===
+text/ 件数: 38
+  [1] 件数 38 == 预期 38  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 3 组 / 互查 6 组（共享人物 4 个已豁免）  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (244 句)
+      首| CHAPTER ONE
+      末| Story of my life.
+    ch02 (245 句)
+      首| CHAPTER TWO
+      末| Maybe I needed to take a break from Gigi’s lunches for a while.
+    ch03 (265 句)
+      首| CHAPTER THREE
+      末| Dusty.
+    ch04 (236 句)
+      首| CHAPTER FOUR
+      末| I had to agree.
+    ch05 (246 句)
+      首| CHAPTER FIVE
+      末| One minute at a time.
+    ch06 (225 句)
+      首| CHAPTER SIX
+      末| It was good for now.
+    ch07 (210 句)
+      首| CHAPTER SEVEN
+      末| I had a feeling it was going to be incredibly difficult to focus for the next hour.
+    ch08 (270 句)
+      首| CHAPTER EIGHT
+      末| That one I could believe.
+    ch09 (205 句)
+      首| CHAPTER NINE
+      末| I really, really hoped I’d misunderstood that interaction.
+    ch10 (257 句)
+      首| CHAPTER TEN
+      末| Then, tomorrow, do the same thing.
+    ch11 (222 句)
+      首| CHAPTER ELEVEN
+      末| “My dad.”
+    ch12 (265 句)
+      首| CHAPTER TWELVE
+      末| Yes
+    ch13 (282 句)
+      首| CHAPTER THIRTEEN
+      末| “Me.”
+    ch14 (271 句)
+      首| CHAPTER FOURTEEN
+      末| You don’t have to try.”
+    ch15 (267 句)
+      首| CHAPTER FIFTEEN
+      末| I closed my eyes, listening to Alice sing to herself in her room, and breathed.
+    ch16 (268 句)
+      首| CHAPTER SIXTEEN
+      末| “Of course.”
+    ch17 (260 句)
+      首| CHAPTER SEVENTEEN
+      末| I was starting to fall for Nova.
+    ch18 (208 句)
+      首| CHAPTER EIGHTEEN
+      末| We’d see who was right.
+    ch19 (225 句)
+      首| CHAPTER NINETEEN
+      末| “Guess we’ll need a rematch.”
+    ch20 (261 句)
+      首| CHAPTER TWENTY
+      末| Man, I was such a goner for this girl.
+    ch21 (293 句)
+      首| CHAPTER TWENTY-ONE
+      末| “See you around!” I disappeared inside.
+    ch22 (217 句)
+      首| CHAPTER TWENTY-TWO
+      末| “I’m not planning on it.”
+    ch23 (250 句)
+      首| CHAPTER TWENTY-THREE
+      末| I plan to,” I said, then closed the door behind him.
+    ch24 (192 句)
+      首| CHAPTER TWENTY-FOUR
+      末| “Then it’s a good thing you got me a belt, son.”
+    ch25 (287 句)
+      首| CHAPTER TWENTY-FIVE
+      末| Or maybe not.
+    ch26 (236 句)
+      首| CHAPTER TWENTY-SIX
+      末| Well, upon further consideration, neither did I.
+    ch27 (279 句)
+      首| CHAPTER TWENTY-SEVEN
+      末| I took my kids’ hands, Alice clutching a repaired Peaches to her chest, and walked away, Gigi’s 
+    ch28 (217 句)
+      首| CHAPTER TWENTY-EIGHT
+      末| Pretty sure I was going to marry this woman.
+    ch29 (283 句)
+      首| CHAPTER TWENTY-NINE
+      末| Because it was in my apartment.
+    ch30 (301 句)
+      首| CHAPTER THIRTY
+      末| “I figured I’d start by talking to one of them.”
+    ch31 (218 句)
+      首| CHAPTER THIRTY-ONE
+      末| “Yep.”
+    ch32 (188 句)
+      首| CHAPTER THIRTY-TWO
+      末| Sleep would level me out, and I would talk to my kids, and then I would know what the right thin
+    ch33 (180 句)
+      首| CHAPTER THIRTY-THREE
+      末| “I’m here for my kids.”
+    ch34 (268 句)
+      首| CHAPTER THIRTY-FOUR
+      末| I just showed him exactly how in sync we were.
+    ch35 (290 句)
+      首| CHAPTER THIRTY-FIVE
+      末| Finally—happiness.
+    ch36 (321 句)
+      首| CHAPTER THIRTY-SIX
+      末| “Say no more.”
+    ch37 (84 句)
+      首| CHAPTER THIRTY-SEVEN
+      末| My man was the best.
+    ch38 (117 句)
+      首| EPILOGUE
+      末| And, because I love my husband, after a break to check out the Toy Story rides, we got in line f
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
