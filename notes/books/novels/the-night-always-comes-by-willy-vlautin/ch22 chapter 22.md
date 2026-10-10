@@ -6,17 +6,17 @@
 
 **情感弧线位置**: 从告别的痛苦到离开的决绝。母亲的最后通牒代表了全书对"美国梦"最彻底的批判，而 Lynette 的离开既是对这种哲学的拒绝也是对其现实的承认——她必须独自求生，但选择不变成母亲那样的人。
 
-**Tropes 兑现/反转**: 兑现"公路小说结局"类型——主角开车离开寻求新生活；反转为没有明确的目的地或胜利宣言，只有模糊的希望和持续的雨。Vlautin 拒绝了传统成长小说的圆满结局，留下开放的未来。
+**Tropes 兑现/反转**: 兑现"公路小说结局"类型——主角开车离开寻求新生活；反转为没有明确的目的地或胜利宣言，只有模糊的希望和持续的雨。作者拒绝了传统成长小说的圆满结局，留下开放的未来。
 
 **人物弧线**: Lynette 在此章完成最终转变：她从试图拯救家庭转向自我保存，但保留了道德核心（承诺回来、拒绝变得"mean or bitter"）。母亲则完成了她的哲学宣言：将剥削合理化为社会达尔文主义的必然。两者的对比是全书的核心冲突——在残酷的世界中，人应该如何选择生存方式？
 
----
+## 精读
 
 > **原句 1:** "I bought Shirley's old car."
 
 **中文理解**: Lynette 告诉母亲她买了 Shirley 的旧车（实际上是免费得到的），形容它是"船"（指体积大、操控笨重但舒适）。母亲询问是否卖掉了 Nissan，Lynette 确认已送去废车场，并反问母亲是否在喝酒。
 
-**关键词**：boat, wrecking yard, drunk
+**关键词**：bought shirley's / shirley's
 
 **为什么这样写**: "It's a boat"是汽车俚语，指大型轿车（如 Buick LeSabre）虽然操控不灵活但乘坐舒适。Vlautin 用这个比喻暗示 Lynette 的新生活：缓慢但稳定，不同于她之前的紧急逃亡状态。母亲饮酒的细节呼应了全书的酗酒主题——两代女性都用酒精应对压力，但 Lynette 能控制（只在危机时喝 Jägermeister），而母亲依赖它（gin and tonic）。
 
@@ -31,7 +31,7 @@
 
 **中文理解**: 母亲说暴力解决不了问题，她们必须"get by"（勉强维持）。她描述了波特兰 Pearl District 的绅士化：从前是废弃建筑和吸毒者，现在是时尚建筑和杂志模特般的瘦人。
 
-**关键词**：hate my guts, get by, Pearl District, bums
+**关键词**：regardless / wouldn't
 
 **为什么这样写**: Pearl District 是波特兰最著名的绅士化案例，从工业区转变为高档住宅和商业区。Vlautin 用具体地名让虚构扎根现实。母亲的观察（"skinny people who look like they're in magazines"）揭示了阶级外貌差异——富裕人群有能力保持苗条，而穷人往往肥胖（如母亲自己和她提到的 Mona 的丈夫）。这种身体政治是贫困研究的重要议题。
 
@@ -92,11 +92,11 @@
 
 > **原句 7:** "Remember to say hello to the Trail Blazers for me. Tell them not to trade CJ or Damian. And remember no matter where you end up, I'll come and get you. I swear on my life I will, and when you see me, I'll be good, I'll be doing good."
 
-**中文理解**: Lynette 让 Kenny 向波特兰开拓者队（Trail Blazers）问好，不要交易 CJ McCollum 或 Damian Lillard（球队明星球员）。她带走的东西很少：衣服、Jack 买的灯、祖父的手表、祖母留下的餐具。所有物品都装进了 Buick 的后备箱。
+**中文理解**: Lynette 让 Kenny 向波特兰开拓者队（Trail Blazers）问好，不要交易队里的 CJ 或 Damian（书中只称呼其名，未给全名）。她带走的东西很少：衣服、Jack 买的灯、祖父的手表、祖母留下的餐具。所有物品都装进了 Buick 的后备箱。
 
 **关键词**：Trail Blazers, CJ, Damian, trunk
 
-**为什么这样写**: 提到 NBA 球员是 Vlautin 的地域写实手法。Damian Lillard 和 CJ McCollum 是 2010 年代末波特兰开拓者队的核心球员，Lynette 的请求显示她对本地文化的依恋。她带走的物品具有象征意义：Jack 的灯代表过去的爱情，祖父的手表和祖母的餐具代表家族传承。这些物品不多，但每件都有情感价值，与她之前堆积的杂物（第19章清理的物品）形成对比——她现在只保留真正重要的东西。
+**为什么这样写**: 让 Kenny 向开拓者队问好、别让球队交易主力，是本书的地域写实手法；书中只给出 CJ 与 Damian 两个名字，Lynette 的请求显示她对本地文化的依恋。她带走的物品具有象征意义：Jack 的灯代表过去的爱情，祖父的手表和祖母的餐具代表家族传承。这些物品不多，但每件都有情感价值，与她之前堆积的杂物（第19章清理的物品）形成对比——她现在只保留真正重要的东西。
 
 **读者视角提示**: 注意"All of it fit in the trunk"这个细节。Lynette 的物质生活极度简化，显示她已摆脱消费主义的束缚。这与 Gloria 的虚假富裕（奥迪车、皮革外套但负债累累）形成对照。Lynette 的自由来自轻装上阵，而非积累财富。
 
@@ -153,7 +153,7 @@ Lynette 在深夜驾车离开波特兰，留下破碎的家庭和有毒的关系
 
 Lynette 的回应不是语言上的反驳，而是行动上的拒绝。她承诺不会变得"mean or bitter"，不会让"darkness"吞噬她。这种选择不是天真的乐观，而是有意识的道德抵抗。她知道世界不公，但选择不以同样不公的方式回应。这种韧性是 Vlautin 笔下人物的核心特征：他们在极端压力下仍努力保持人性。
 
-Kenny 的角色在此章得到升华。Lynette 对他的承诺（"I'll come back and get you"）是她未来的动力源泉。尽管这个承诺可能无法实现（抚养权法律障碍、经济困难），但它给了 Lynette 目标和希望。Vlautin 没有明确说明 Lynette 是否会回来，这种开放性让读者自行判断。
+Kenny 的角色在此章得到升华。Lynette 对他的承诺（"I'm going to come back and get you when I'm settled"）是她未来的动力源泉。尽管这个承诺可能无法实现（抚养权法律障碍、经济困难），但它给了 Lynette 目标和希望。Vlautin 没有明确说明 Lynette 是否会回来，这种开放性让读者自行判断。
 
 结尾的意象简洁而有力：雨夜、州际公路、向东行驶。没有胜利的宣告，没有明确的目的地，只有前行的动作本身。这种开放式结局符合 Vlautin 的现实主义风格：生活不会因某个决定而突然变好，但改变本身就是价值。
 

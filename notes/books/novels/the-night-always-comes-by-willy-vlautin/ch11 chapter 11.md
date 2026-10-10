@@ -2,15 +2,15 @@
 
 ## 本章导航
 
-**一句话概括**: Lynette and Cody steal Gloria's safe in under three minutes, transport it to a mechanic's shop, and watch as Kansas pries it open to reveal $17,000, cocaine, and jewelry.
+**一句话概括**: Lynette 与 Cody 不到三分钟就搬走 Gloria 的保险箱，把它运到修车厂；Kansas 撬开盖子，露出一万七千美元、一袋可卡因和珠宝。
 
-**情感弧线位置**: Climax of the theft sequence — success quickly turns to danger
+**情感弧线位置**: 盗窃段落的高潮 —— 顺利迅速转为危险
 
-**Tropes 兑现/反转**: The "perfect heist" trope is inverted—everything goes smoothly until human greed intervenes; the ex-con (Cody) proves less dangerous than the supposed helper (Kansas)
+**Tropes 兑现/反转**: 「完美作案」母题被反转——一切顺利，直到贪婪介入；有前科的 Cody 反而不如前来「帮忙」的 Kansas 危险
 
-**人物弧线**: Lynette experiences adrenaline-fueled guilt; Cody shows unexpected competence; Kansas emerges as genuinely threatening
+**人物弧线**: Lynette 体验到肾上腺素退去后的愧疚；Cody 显出意外的干练；Kansas 成为真正的威胁
 
----
+## 精读
 
 > **原句 1:** "From the time he got out of the car on Belmont Street, Cody kept his hoodie up and his eyes on the ground. In the elevator he put on a pair of latex kitchen gloves from the restaurant and followed Lynette into Gloria's apartment."
 
@@ -36,7 +36,7 @@
 
 **中文理解**: Lynette 紧张到发抖，车子第三次才启动，感到恶心；Cody 却享受刺激感，点燃香烟。
 
-**关键词**：three minutes
+**关键词**：lynette's hands / hands shook
 
 **为什么这样写**: 生理反应揭示两人对犯罪的不同态度——Lynette 被道德焦虑折磨，Cody 则习以为常。
 
@@ -46,7 +46,7 @@
 
 **中文理解**: 目标房屋破败不堪——白色外墙几十年未刷，黑莓灌木覆盖一半，窗户装钢条，内部贴纸板遮光。
 
-**关键词**：hands shook / throw up / good rush
+**关键词**：derelict / steel bars / blackberry bushes
 
 **为什么这样写**: 环境描写营造危险氛围；铁窗和遮光暗示内部活动的非法性；黑莓丛象征荒野入侵文明。
 
@@ -56,7 +56,7 @@
 
 **中文理解**: 链式围栏高达十英尺，邻居家的狗狂吠不止；Lynette 双脚麻木，呼吸开始困难。
 
-**关键词**：derelict / steel bars / blackberry bushes
+**关键词**：chain-link fence / dogs barked / trouble breathing
 
 **为什么这样写**: 感官细节（狗吠、麻木、呼吸困难）强化 Lynette 的恐慌；围栏象征不可逆的边界跨越。
 
@@ -66,7 +66,7 @@
 
 **中文理解**: Cody 敲开金属门后，出现一个染金发的瘦弱男子，身上散发汽油味，穿着沾污的灰色机械师工作服。
 
-**关键词**：chain-link fence / dogs barked / trouble breathing
+**关键词**：gasoline / mechanic's coveralls / dyed blond hair
 
 **为什么这样写**: 气味和服装建立 Kansas 同伙的底层工人身份；两分钟等待增加悬念。
 
@@ -76,7 +76,7 @@
 
 **中文理解**: 金发男子面部过半被牛皮癣覆盖——红色水疱从颈部蔓延至左眼和前额；虽年仅二十多岁，牙齿腐烂，眼神苍老。
 
-**关键词**：gasoline / mechanic's coveralls / dyed blond hair
+**关键词**：psoriasis / red blisters / teeth had gone bad
 
 **为什么这样写**: 疾病描写引发同情而非恐惧；早衰暗示药物滥用或恶劣生活条件。
 
@@ -86,7 +86,7 @@
 
 **中文理解**: Kansas 是个超重的壮汉，声音尖利如声带受损，舌头上有银钉，说话时不停把玩。
 
-**关键词**：psoriasis / red blisters / teeth had gone bad
+**关键词**：fluorescent lights / long workbench
 
 **为什么这样写**: 身体特征（肥胖、刺耳声音、舌钉）塑造 Kansas 的威胁形象；"broken voice box" 暗示暴力历史。
 

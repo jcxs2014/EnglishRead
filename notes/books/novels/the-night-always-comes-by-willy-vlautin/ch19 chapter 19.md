@@ -10,13 +10,13 @@
 
 **人物弧线**: Gloria 在此章暴露了其核心特征：通过谎言构建虚假身份（私立学校、伯克利学历），依赖男性（Terry）的经济支持，对下层朋友既利用又鄙视。Lynette 则完成了从"试图维持友谊"到"彻底决裂"的转变，她的愤怒不再指向自己，而是指向剥削者。
 
----
+## 精读
 
 > **原句 1:** "I know you stole my safe."
 
 **中文理解**: Gloria 直接指控 Lynette 偷了保险箱，声称认识她太久所以知道她在撒谎。Lynette 反击说 Gloria 是酒鬼，Gloria 愤怒地要求归还保险箱。
 
-**关键词**：stole, shitty liar, drunk
+**关键词**：stole
 
 **为什么这样写**: 这段对话展示了两人关系的权力动态。Gloria 的指控毫无证据，仅凭"我认识你太久"这种主观判断，显示她对 Lynette 的根深蒂固的不信任。Lynette 立即转向攻击 Gloria 的酗酒问题，说明她早已看透朋友的弱点。Vlautin 用简短的对话展现了长期积累的怨恨如何爆发。
 
@@ -40,7 +40,7 @@
 
 **中文理解**: Lynette 质问 Gloria 是否用保险箱里的钱还债，Gloria 承认里面有一万六千美元（两倍于欠款）。Lynette 愤怒地质问：你有钱却不还我，当我乞求时你说破产，现在却指责我偷窃？她提醒 Gloria，那八千美元是作为朋友借给她付酒驾罚款的。
 
-**关键词**：owe, begging, DUI
+**关键词**：eight thousand / thousand dollars
 
 **为什么这样写**: 这是本章的道德核心。Lynette 列举了她对 Gloria 的帮助：在她入狱时接她、在她受伤时照顾她、在她被困时救援。相比之下，Gloria 有钱不还却反过来诬陷。Vlautin 展示了友谊如何在经济不平等中扭曲——Gloria 将 Lynette 的帮助视为理所当然，甚至利用她的困境来确立道德优越感。
 
@@ -135,7 +135,7 @@ Lynette 向 Gloria 摊牌揭露其剥削本质，两人友谊彻底破裂，Lyne
 
 Lynette 的反击具有双重意义：一是揭露 Gloria 的个人谎言（学历、出身），二是批判整个阶级的虚伪（"no matter how much shit you buy"）。她承认自己是"prostitute"，但不是出于羞耻，而是出于诚实——她拒绝像 Gloria 那样用谎言包装自己。
 
-Kenny 尿失禁的细节（"a dark spot appeared from his crotch"）是本章最令人心碎的时刻。孩子在成人冲突中的无助反应象征着无辜者在阶级战争中的牺牲。Gloria 对 Kenny 和母亲的侮辱（"fucked-up brother and nutjob mom"）显示她从未真正关心过 Lynette 的家人，只是利用她的孤独。
+Kenny 尿失禁的细节（"a dark spot appeared from his crotch"）是本章最令人心碎的时刻。孩子在成人冲突中的无助反应象征着无辜者在阶级战争中的牺牲。Gloria 对 Kenny 和母亲的侮辱（"your fucked-up brother and your nutjob mom"）显示她从未真正关心过 Lynette 的家人，只是利用她的孤独。
 
 这一章也完成了对 Gloria 角色的定性：她是 Vlautin 笔下"有毒的上层穷人"的代表——有足够的资源生活舒适，但通过剥削更弱者来维持地位。她与 Rodney、JJ 形成对照：后两者赤裸裸地掠夺，而 Gloria 用友谊和恩惠的面具掩盖剥削。
 

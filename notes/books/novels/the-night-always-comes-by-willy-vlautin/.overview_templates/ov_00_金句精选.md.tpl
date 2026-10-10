@@ -5,175 +5,175 @@ modified: "2026-10-10"
 
 # 《夜夜来临》金句精选
 
-① "I get to sleep for fifteen more minutes. So please don't touch me or say anything until then."（ch01）
+① {Q:1:2}（ch01）
 
 **中文**：我再睡十五分钟，在那之前请别碰我，也别跟我说话。
 **上下文**：凌晨三点，Kenny 双手抱住她的脚踝把她往床下拉；她坐起来说的第一件事不是安慰，是条件。
 **为什么重要**：全书的每一次谈判都从这种尺度开始——她能争到的东西以分钟计，而她争得很认真。
 **呼应关系**：与 ch01 里「我太累了，累了我会凶」是同一套自我认知；与 ch02 那句「你不能两样都要」构成她一天的两条规则。
 
-② "The foundation of the house was poured in 1922 using faulty concrete."（ch01）
+② {Q:1:6}（ch01）
 
 **中文**：这栋房子的地基是 1922 年浇的，用的是劣质水泥。
 **上下文**：叙述从她被叫醒直接切到这栋她们正租住的老宅——雨季里它从六七处往里渗水，历任房东用补丁维持。
 **为什么重要**：这是全书的中心物象：她要买下的正是这栋漏水的屋子，「一个属于我们自己的地方」从第一页起就是带裂缝的。
 **呼应关系**：与 ch08 那句「多年的筹划一天归零」互为因果，也与 ch22 结尾她塞回门里的钥匙首尾呼应。
 
-③ "You can't have both, you know that. Choose one."（ch02）
+③ {Q:2:3}（ch02）
 
 **中文**：你不能两样都要，你知道的。选一样。
 **上下文**：面包房里 Kenny 想出去走走又想要手机，她用对待孩子的口气做二选一的限制。
 **为什么重要**：这句是给 Kenny 的规则，也是她对自己一生的判词——她从头到尾都被要求「选一样」，而且总选代价最大的那一样。
 **呼应关系**：与 ch20 母亲那套「有人天生要沉」互为反面：母亲说不选也输，她说选了照样输。
 
-④ "Then you buy it," their mother said and let out a rough laugh.（ch03）
+④ {Q:3:7}（ch03）
 
 **中文**：「那你就买啊。」母亲说着，发出一声粗粝的笑。
 **上下文**：Lynette 说母亲明知她贷不下款；母亲一句话把责任推回去，同时笑出了声。
 **为什么重要**：这本书里最日常的一种暴力——把对方的处境当作对方偷懒的证据。
 **呼应关系**：与 ch07 那句「什么钱？」、ch09 那句「钱？」是同一种拒不认账的三种口音。
 
-⑤ "She shut the bedroom door, sat down next to him, and began to sob."（ch04）
+⑤ {Q:4:4}（ch04）
 
 **中文**：她关上卧室的门，在他身边坐下，然后哭了出来。
 **上下文**：Kenny 打翻咖啡、崩溃踱步之后，她把他安顿好，坐在他床边——门内是唯一允许她垮掉的地方。
 **为什么重要**：她的情绪出口必须设在工作与照护的视线之内，因为除此之外她没有别的时间。
 **呼应关系**：与 ch02 里她挂了电话、把头搁在餐桌上闭上眼睛的那一幕，是同一种「就地崩溃」。
 
-⑥ "He was a handsome man with tired blue eyes and a veined alcoholic's face."（ch05）
+⑥ {Q:5:4}（ch05）
 
 **中文**：他是个英俊的男人，眼睛疲惫，脸上是酒精刻出的血管。
 **上下文**：父亲走进她打工的酒吧，和两个中美洲油漆工一起坐下。
 **为什么重要**：一句话写完一种家族遗传——她后来在浴缸边被母亲照顾、在雨夜独自开车，都是同一种「还能撑」的长相。
 **呼应关系**：与 ch18 母亲那句「我太累了，不想再谈这个」是同一条病因的两种年龄。
 
-⑦ "'Then I just need my money.' 'What money?'"（ch07）
+⑦ {Q:7:5}（ch07）
 
 **中文**：「那我把我的钱拿回来就行。」「什么钱？」
 **上下文**：Lynette 夜里在酒吧门外叫车，去一处 1920 年代的砖宅要钱；开门的人装作连债务都不存在。
 **为什么重要**：这本书里钱从来不清白：借出的、给过的、欠下的，全在对方嘴里变成「什么钱？」。
 **呼应关系**：与 ch09 那笔以酒驾为由借出的八千美元互为镜像。
 
-⑧ "In one day, years of her planning and struggle and sacrifice came to mean nothing. There would be no house; she wouldn't be able to bring that to Kenny or her mother. She had failed."（ch08）
+⑧ {Q:8:3}（ch08）
 
 **中文**：一天之内，她多年来的筹划、挣扎与牺牲变得毫无意义。不会有房子了；她没法把这一切带给 Kenny 和妈妈。她失败了。
 **上下文**：深夜十一点前，唯一一家还开着的 Dairy Queen；她一个人坐着，一边吃一边清算这一天。
 **为什么重要**：全书中点的判词。它把「贫困」写得非常具体：不是没钱，是一天的意外就能把十年的账清零。
 **呼应关系**：与 ch01 的带裂缝地基、ch22 那只装得下全部家当的后备箱，是同一件事的起、中、终。
 
-⑨ "I've told you a million times not to bring up my past, but you never fucking listen. So watch it or I won't want to be around you anymore."（ch09）
+⑨ {Q:9:3}（ch09）
 
 **中文**：我跟你说过一万遍，别把我的过去拿出来说，可你就是不听。小心点，否则我不想再和你来往。
 **上下文**：Gloria 被 Lynette 提到当年睡沙发的旧事刺痛，第一次在闺蜜面前露出那副「真正的自己」。
 **为什么重要**：一句话同时完成两件事——Gloria 的身份是伪造的，而 Lynette 是唯一握着原件的人。
 **呼应关系**：与 ch19 那句「你是妓女，我也是」是这对友谊的两端。
 
-⑩ "And I know you're in a hurry, but I was hoping I could get back the money I loaned you." "The money?" "The eight thousand dollars I gave you." Gloria looked at her. "For the DUI? You told me you were gonna give me the money back within a week no problem. But it's been seven months."（ch09）
+⑩ {Q:9:6}（ch09）
 
 **中文**：我知道你赶时间，但我还是想请你把借我的钱还给我……那笔八千美元，我说过一个礼拜就还你，已经七个月了。
 **上下文**：Lynette 在 Gloria 的高档公寓里，趁对方急着出门，第一次把账目说出口。
 **为什么重要**：这笔借款是全书的启动资金——后面的保险箱、可卡因、修车厂和那台 Buick，全从它长出来。
 **呼应关系**：与 ch10 她向 Cody 开口要搬的那只保险箱是直接因果。
 
-⑪ "There's a safe I want, but I'm not strong enough to carry it out and I don't know how to open it."（ch10）
+⑪ {Q:10:4}（ch10）
 
 **中文**：有一只我想要拿走的保险箱，可我搬不动它，也不知道怎么打开。
 **上下文**：餐厅后厨，她站得离 Cody 不到一英尺，压低声音说出这个不体面的请求。
 **为什么重要**：全书最诚实的一次犯罪预告——她不说理由，只说自己缺的两样：力气和技术。
 **呼应关系**：与 ch11 那句「不到三分钟」是同一句话的执行版。
 
-⑫ "They were inside Gloria's apartment less than three minutes."（ch11）
+⑫ {Q:11:2}（ch11）
 
 **中文**：他们待在 Gloria 公寓里的时间不到三分钟。
 **上下文**：大雨、空走廊、一路没抬过头的 Cody；箱子被搬下楼的过程比想象短得多。
 **为什么重要**：作者用一句时间计量把「犯罪」写得像搬一件家具——真正吓人的是它有多容易。
 **呼应关系**：与 ch12 那句把谋杀讲成流程单的话形成对照：偷很轻松，之后的事很不轻松。
 
-⑬ "We'll bleed her in the utility sink and put the rest of her in the acid drum."（ch12）
+⑬ {Q:12:4}（ch12）
 
 **中文**：我们在水槽里把她放血，剩下的部分扔进酸桶。
 **上下文**：Kansas 在案台边安排她的下场，语气像在交代工作步骤。
 **为什么重要**：这本书唯一的超现实感来自这里——底层互害被讲成一份流程单。
 **呼应关系**：与 ch22 母亲给「美国梦」下的定义是同一种把他人当材料的语法。
 
-⑭ "He was proud of her and always introduced her as 'the greatest kid of all time.' He had been good to her, had always been kind, and he gave Lynette her only real break from Kenny."（ch14）
+⑭ {Q:14:4}（ch14）
 
 **中文**：他以她为傲，逢人便介绍她是「有史以来最棒的小孩」。他待她好，一直都很和善，是他给了 Lynette 唯一一次真正从 Kenny 身边解脱的机会。
 **上下文**：凌晨三点的 Hotcake House，祖父当年常带她来吃早餐的这家店；她坐在他从前坐的位置上。
 **为什么重要**：全书唯一一份无条件的评价，也是她自我审问时唯一的听众来源。
 **呼应关系**：与 ch14 同章那句「祖父会怎么看现在的我」互为正反面。
 
-⑮ "Tears leaked down her face as she ate. What would her grandfather think of her now? After all the horrible things she'd been a part of, the horrible things that she had done herself or let be done to her."（ch14）
+⑮ {Q:14:7}（ch14）
 
 **中文**：泪水顺着她的脸往下淌，她一边吃一边哭。祖父会怎么看现在的她？在她参与过的那些可怕事情之后，在她自己做过、或任由别人对她做过的那些可怕事情之后。
 **上下文**：同一顿凌晨早餐；她刚决定用假名打电话举报，也正准备把手上的可卡因卖出去。
 **为什么重要**：她把道德审判交给一个已经死去的人——这说明活人里已经没有能替她作判的位置。
 **呼应关系**：与 ch22 结尾她对 Kenny 发的那串誓是同一句话的两种时态。
 
-⑯ "For eleven months she learned to drink, smoke weed, and do cocaine in that house. And it was there that she lost her virginity to JJ and slept with other men, and a woman, too. It was also where she first fell apart, where her anger finally erupted, where she lost ten pounds, had hives on her back, and spiraled into her first depression."（ch15）
+⑯ {Q:15:5}（ch15）
 
 **中文**：十一个月里，她在那栋房子里学会了喝酒、抽大麻、吸可卡因。也是在那里她把初夜给了 JJ，也睡过别的男人，还有一个女人。那是她第一次垮掉的地方，她的愤怒在那里爆发，她瘦了十磅，背上起荨麻疹，第一次坠进抑郁。
 **上下文**：她带着一袋可卡因回到 JJ Benada 家——她高一那年，四十二岁的旧货店老板开始用免费衣服和披萨接近她。
 **为什么重要**：全书对「诱奸」最冷静的写法：没有反派宣言，只有清单式的时间、体重与皮肤病。
 **呼应关系**：与 ch16 她在卡车停靠站把那些照片一张张撕碎，是同一次清算的两半。
 
-⑰ "Outside of her grandparents, her brother, and mother, Jack was the only person she had ever really loved, and he was the only person, outside of her family, who had ever loved her. The only person in the world who had chosen to live with her, chosen to care for her, and took the chance to love her."（ch16）
+⑰ {Q:16:5}（ch16）
 
 **中文**：除祖父母、弟弟和母亲之外，Jack 是她这辈子真正爱过的唯一的人，也是家人之外唯一爱过她的人。世上唯一一个选择和她一起生活、选择照顾她、并且冒着爱她的风险的人。
 **上下文**：她把 JJ 给她的少女照片撕碎丢进垃圾桶之后，在餐馆空荡的吧台边想起那三年。
 **为什么重要**：「选择」是全书的最高标准——她所有的痛都来自别人没有选择她。
 **呼应关系**：与 ch18 母亲那句「我不想和你住」正好相反：那一句是「不选择」。
 
-⑱ "The deal is you can get out of my trailer now."（ch17）
+⑱ {Q:17:1}（ch17）
 
 **中文**：约定的内容就是：你现在从我的拖车滚出去。
 **上下文**：Rodney 在拖车里把可卡因推到她面前，随后翻脸——他要的不是货，是把 JJ 与他之间的烂账一笔勾掉。
 **为什么重要**：这一句撕掉了「交易」的外衣：底层所有口头协议，最后都由最没资格违约的人承担。
 **呼应关系**：与 ch12 那句「我付过你五百，那是说好的」是同一份合约的两端。
 
-⑲ "I'm not that smart, but I think I'm beginning to figure out what you're doing. . . . You don't want to live with me, do you? This is about me. That's what's going on?"（ch18）
+⑲ {Q:18:5}（ch18）
 
 **中文**：我没那么聪明，但我想我渐渐明白你在做什么了……你不想跟我一起住，对吧？这是关于我的问题，是不是？
 **上下文**：母亲替她取出背上的玻璃碎片、又反复说「我太累了」之后，她终于把问题问成一句话。
 **为什么重要**：全书真正的转折点在这里——她失去的不是房子，是「我们仨」这个前提。
 **呼应关系**：与 ch21 她在 Shirley 家复述的同一件事互为余波，那句说得更短也更难听。
 
-⑳ "You're a prostitute, I'm a prostitute. But I've tried to be your friend, your real friend, and you fucked me. You basically stole from me. So please just leave me alone, and if you keep bothering me, I'll call Terry and I'll tell him to look for your Catlin Gabel yearbook and I'll tell him you didn't go Berkeley."（ch19）
+⑳ {Q:19:6}（ch19）
 
 **中文**：你是妓女，我也是妓女。可我一直想做你的朋友，真正的朋友，而你操了我。你基本上就是偷了我的东西。所以请别再来烦我；再缠着我，我就给 Terry 打电话，让他去翻你的 Catlin Gabel 毕业纪念册，告诉他你没上过 Berkeley。
 **上下文**：Gloria 站在门外指控她偷了保险箱，她把自己和对方放进同一个词里，然后亮出唯一有效的武器。
 **为什么重要**：这不是宽恕也不是忏悔，是阶级内部的一次互相指认——她能摧毁对方的东西只有一份学历。
 **呼应关系**：与 ch09 那句「别把我的过去拿出来说」是同一条神经的两端。
 
-㉑ "I'm starting to think that some people are just born to sink. Born to fail. And I'm beginning to realize that I'm one of those people, and you have no idea what that's like. How truly awful it is to know that about yourself. But that doesn't mean I want things as hard as they've been. And it doesn't mean I want it to stay that way. It doesn't mean I like it either. But I've got to live, too, don't I?"（ch20）
+㉑ {Q:20:8}（ch20）
 
 **中文**：我开始觉得，有些人就是天生要沉、天生要输。我开始认定自己是那种人，而你根本不知道那是什么滋味，有多难受。但这不代表我喜欢这么难，也不代表我想一直这样，更不代表我喜欢它。可我也得活着，不是吗？
 **上下文**：母亲摊牌要搬去 Mona 那里，并把照顾 Kenny 的名义岗位留给自己。
 **为什么重要**：全书的哲学对手戏在这里成型——这不是懒人的借口，而是一个想通了的人的自陈。
 **呼应关系**：与 ch22 她把这套逻辑升级成对「美国梦」的定义，是同一条路的下一级。
 
-㉒ "You know, I read in the paper a while ago that the places to move to are in the Midwest. That it's cheap in the old cities like St. Louis or Kansas City or Detroit or Cleveland. Everyone left them for a while, but now people are going back. Maybe you could start a bakery out there. In some city like that. How much money you got?"（ch21）
+㉒ {Q:21:5}（ch21）
 
 **中文**：我前阵子在报上看到，该搬去的地方是中西部。像圣路易斯、堪萨斯城、底特律、克利夫兰这些老城市，东西便宜。大家都离开过，现在又有人在回去了。也许你能在那儿开一家面包店。你手上有多少钱？
 **上下文**：Shirley 家客厅，两条伯恩山犬挤在她身边；她一边喝啤酒一边替 Lynette 算一条出路。
 **为什么重要**：这是全书唯一一份可执行的计划——它不靠运气，靠的是「哪儿便宜」这种冷冰冰的坐标。
 **呼应关系**：与 ch22 她对 Kenny 重复的那几个城市名逐字同源。
 
-㉓ "Isn't that the American dream? Fuck over whoever is in your way and get what you want. I barely got through high school, but if I remember anything about history, it's that. The people who are written about are the ones taking. People arrive somewhere and try to get their piece. They don't care who they hurt doing it, they really don't, and I'm starting to understand why. Because it's all bullshit. The land of the free and that whole crock of shit. It's just men taking what they want and justifying it any way they need to so they can get up in the morning and take more and buy another speedboat and their third vacation home and their fifth rental property and then push people out of their homes so they can make more money and go on safaris and kill giraffes and elephants all while everyone else is just trying to pay off their credit card bill or student loan or trying to get enough hours at one job so they don't have to get a second."（ch22）
+㉓ {Q:22:4}（ch22）
 
 **中文**：这不就是美国梦吗？把挡在你路上的人操翻，拿到你想要的。我高中都勉强毕业，但历史里我记得的只有这一句。被写进书里的人都是「拿」的人……他们不在乎伤害了谁，真的不在乎，而我开始明白为什么。「自由之地」那套屁话，就是一群人在拿自己想要的，再用任何需要的方式把它合理化，好让自己第二天爬起来继续拿、再买一条快艇、第三套度假屋、第五套出租房，把人从自己的家里挤出去，然后去打猎，杀长颈鹿和大象，而其他人只想把信用卡账单还完、把学贷还完，或者在一份工作里挣够工时，好不必再打第二份工。
 **上下文**：离开前一晚，母亲在客厅里边喝金汤力边把这套话说给 Lynette 听——她白天刚在市中心开车看见满街帐篷。
 **为什么重要**：全书政治性最强的一段。作者把它交给一个没受过教育的穷人女性，因而它既是洞见也是投降。
 **呼应关系**：与 ch20「天生要沉」是同一思路的两级；与 ch08 那一夜的清零互为注脚。
 
-㉔ "Remember to say hello to the Trail Blazers for me. Tell them not to trade CJ or Damian. And remember no matter where you end up, I'll come and get you. I swear on my life I will, and when you see me, I'll be good, I'll be doing good."（ch22）
+㉔ {Q:22:7}（ch22）
 
 **中文**：替我跟开拓者队问声好，告诉他们别交易 CJ 或 Damian。还有，记住不管你最后落在哪儿，我都会回来接你。我拿命发誓，我一定会；再见到你的时候，我会过得好，我真的会过得好。
 **上下文**：她坐在 Kenny 床边——那床在母亲的房间里——一遍遍亲他的脸，直到他把头扭开、把她推开。
 **为什么重要**：承诺用了孩子能接住的形式：球队、约定、赌命；这也是全书唯一一句她替两个人一起许下的话。
 **呼应关系**：与 ch14 祖父逢人便介绍她的那句话，是同一种口气隔代的回声。
 
-㉕ At the kitchen table, Lynette wrote a note to her mother saying goodbye and that she loved her. When she'd locked the front door, she put her key through the mail slot and got into the Buick. She poured a cup of coffee and started the car. It was still raining and past midnight when she got on the interstate and headed east.（ch22）
+㉕ {Q:22:8}（ch22）
 
 **中文**：在厨房的桌子旁，Lynette 给母亲写了一张便条，说再见，说她爱她。锁上前门之后，她把钥匙从信箱口塞回屋内，坐进那台 Buick。她倒了一杯咖啡，发动汽车。雨还在下，已过午夜，她驶上州际公路，一路向东。
 **上下文**：她带走的东西不多：衣服、一盏 Jack 买的灯、祖父的一块手表、祖母留给她的两箱餐具——全部装进了后备箱。

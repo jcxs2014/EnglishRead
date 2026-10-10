@@ -10,13 +10,13 @@
 
 **人物弧线**: 母亲角色在此章完成最终定性：她并非完全冷漠（会细心护理女儿），但她的自我保存本能压倒了母职责任。Lynette 从试图说服母亲转变为接受现实，开始规划独自离开的道路。
 
----
+## 精读
 
 > **原句 1:** "My god," she said. "Can you take it off?"
 
 **中文理解**: 母亲看到 Lynette 血浸透的衬衫后震惊，立即进入护理模式：提供酒精止痛、准备消毒用品、找镊子取玻璃。这一系列动作显示她对处理此类紧急情况并不陌生。
 
-**关键词**：Jägermeister, hydrogen peroxide, tweezers
+**关键词**：take / god
 
 **为什么这样写**: Vlautin 用具体的物品清单（Jägermeister、双氧水、镊子）构建了贫困家庭的急救场景。这些廉价的家庭疗法替代了医院就诊，暗示她们负担不起医疗费用。母亲的熟练程度也暗示这不是第一次处理暴力伤害。
 
@@ -24,11 +24,11 @@
 
 ---
 
-> **原句 2:** "Where did you get such an expensive bra?" she said and set it on the edge of the bathtub."
+> **原句 2:** "Where did you get such an expensive bra?" she said and set it on the edge of the bathtub.
 
 **中文理解**: 母亲注意到 Lynette 的高档内衣（来自之前的性交易），引发短暂的嫉妒和自嘲。她回忆自己年轻时也曾拥有好身材，但因生育两个孩子而衰老。
 
-**关键词**：expensive bra, tits, sag
+**关键词**：expensive / bathtub
 
 **为什么这样写**: 这段对话揭示了母女之间的微妙张力。母亲对内衣的评论既是对女儿生活方式的隐晦质疑，也是对自身衰老的哀叹。Vlautin 展示了贫困女性如何通过身体比较来确认自己的价值——即使在这种危机时刻，外貌仍是衡量标准。
 
@@ -40,7 +40,7 @@
 
 **中文理解**: Lynette 恳求母亲买房，认为这是他们多年来第一个幸运机会。她描述了波特兰的快速绅士化（gentrification），担心如果不买房就会被驱逐出社区。她提到 Kenny 数起重机的细节，强调变化的速度。
 
-**关键词**：proud, scared, pushed out
+**关键词**：even recognize / neighborhoods
 
 **为什么这样写**: 这段话是全书对绅士化最直接的控诉。Lynette 列举的街道名称（Division, Belmont, Alberta, Williams, Interstate）都是波特兰真实存在的正在绅士化的社区。Vlautin 通过具体地名让虚构故事扎根于现实社会问题。Kenny 数起重机的细节既是童真也是悲剧——孩子把城市变迁当作游戏，而成年人知道这意味着流离失所。
 
@@ -48,11 +48,11 @@
 
 ---
 
-> **原句 4:** "I'm too tired to talk about this again," she said."
+> **原句 4:** "I'm too tired to talk about this again," she said.
 
 **中文理解**: 母亲以疲惫为由拒绝继续讨论买房。她声称必须"把自己放在第一位"，明确表示不想要贷款也不想要房子。这种重复的拒绝显示她早已做出决定，只是不愿直面女儿的失望。
 
-**关键词**：tired, exhausted, put myself first
+**关键词**：tired
 
 **为什么这样写**: 母亲的"疲惫"既是真实的（工作压力、担忧女儿）也是逃避的借口。Vlautin 展示了长期贫困如何耗尽人的希望和行动力——当一个人习惯了失败，任何改变都显得过于冒险。"Put myself first"这句话在后续章节将被证明是自私的合理化。
 
@@ -64,7 +64,7 @@
 
 **中文理解**: Lynette 终于问出核心问题：母亲是否不想和她一起生活。母亲确认后给出了残酷的解释：她爱女儿，但厌倦了和她在一起。这种爱与厌恶的并存是本章的情感核心。
 
-**关键词**：figure out, tired of living, tired of being around
+**关键词**：you're doing / that's what's
 
 **为什么这样写**: 这是全书最诚实也最残忍的时刻之一。母亲没有用"为你好"之类的借口，而是坦承自己的情感耗竭。Vlautin 展示了长期共同生活在贫困和压力下如何摧毁亲情——爱可以存在，但不足以支撑日常相处。这种复杂性避免了简单的善恶二分。
 
@@ -76,7 +76,7 @@
 
 **中文理解**: Lynette 询问是否应该带走 Kenny，母亲半点头承认昨晚已给儿子服药并打包了他的物品。当 Lynette 问去哪里时，母亲推卸责任，说自己也不知道要去哪。
 
-**关键词**：pill, packed, leaving
+**关键词**：really want / take kenny
 
 **为什么这样写**: 母亲给 Kenny 服药（可能是安眠药或抗焦虑药）这一细节令人不安，显示她在情绪失控时对孩子的不负责任。Vlautin 没有明确说明是什么药，但这种模糊性增加了恐怖感——贫困家庭中，药物常被用作安抚工具而非治疗手段。
 

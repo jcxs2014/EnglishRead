@@ -2,15 +2,15 @@
 
 ## 本章导航
 
-**一句话概括**: Lynette destroys photos from JJ, reflects on her relationship with Jack—the only person who truly loved her—and recalls how her unresolved trauma destroyed their three-year romance.
+**一句话概括**: Lynette 撕掉 JJ 给她的照片，回想与 Jack 的关系——唯一真正爱过她的人——以及她未愈合的创伤如何毁掉那三年的共同生活。
 
-**情感弧线位置**: Emotional reflection — past love contrasts with present degradation
+**情感弧线位置**: 情感回望 —— 过去的爱与当下的沉沦相对照
 
-**Tropes 兑现/反转**: The "saved by love" trope is subverted—Jack's love temporarily heals but cannot cure deep trauma; the "good man" cannot save the "damaged woman" because she cannot accept being saved
+**Tropes 兑现/反转**: 「被爱拯救」母题被反转——Jack 的爱短暂疗愈却治不好深层创伤；「好男人」救不了「受伤的女人」，因为她不接受被救
 
-**人物弧线**: Lynette recognizes that her self-sabotage began even in her healthiest relationship; she understands that erasing herself for Jack was another form of dysfunction
+**人物弧线**: Lynette 意识到自我破坏在最健康的那段关系里就已开始；她为 Jack 抹去自己，本身也是一种失能
 
----
+## 精读
 
 > **原句 1:** "The rain continued. The clock on the dashboard said five twenty a.m. Her car started on the fifth try and she drove to Prescott and headed north on 60th. For thirteen years she had avoided JJ's neighborhood the best she could."
 

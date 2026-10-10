@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-**一句话概括**: Lynette approaches ex-convict Cody at the Dutchman's restaurant kitchen, convinces him to help steal Gloria's safe by offering a third of its contents.
+**一句话概括**: Lynette 在餐厅后厨找到有前科的 Cody，用三分之一的分成说服他帮忙偷 Gloria 的保险箱。
 
-**情感弧线位置**: Rising action — Lynette actively recruits an accomplice, crossing from planning to execution
+**情感弧线位置**: 上升段 —— Lynette 主动招募同谋，从筹划进入执行
 
-**Tropes 兑现/反转**: The "ex-con with skills" trope is subverted—Cody is reluctant, physically frail, and motivated by desperation rather than criminal ambition
+**Tropes 兑现/反转**: 「有技能的刑满释放者」母题被反转——Cody 不情愿、身体虚弱，驱动他的是绝望而非犯罪野心
 
-**人物弧线**: Lynette demonstrates manipulative skill and moral flexibility; Cody reveals vulnerability beneath his criminal past
+**人物弧线**: Lynette 显出操控的手腕与道德弹性；Cody 在犯罪过往之下露出脆弱
 
----
+## 精读
 
-> **原句 1:** "Cody was six feet three inches tall and weighed less than a hundred and forty pounds. He was so thin and gaunt that he looked ill. He had a straggly beard and his brown hair was curly and long."
+> **原句 1:** "Cody was six feet three inches tall and weighed less than a hundred and forty pounds. He was so thin and gaunt that he looked ill. He had a straggly beard and his brown hair was curly and long. There were holes in his earlobes where he'd once had piercings. His nose was narrow and long and drooped at the end, and his arms were bony and covered in new, brightly colored tattoos."
 
 **中文理解**: Cody 身材极高却极度消瘦，外表病态——卷曲长发、稀疏胡须、鹰钩鼻，手臂布满新纹身，耳垂有穿孔痕迹。
 
@@ -26,7 +26,7 @@
 
 **中文理解**: Lynette 直接询问 Cody 的犯罪记录——他因入室盗窃入狱，但拒绝详谈，只想完成工作下班。
 
-**关键词**：prison / burglary
+**关键词**：heard you've / you've
 
 **为什么这样写**: Lynette 的直球提问显示她的紧迫感和缺乏迂回技巧；Cody 的回避暴露他对过去的羞耻或警惕。
 
@@ -46,7 +46,7 @@
 
 **中文理解**: Lynette 压低声音说明计划：保险箱未固定，她需要人手搬运和开启；Cody 的呼吸带着咖啡、香烟和不刷牙的臭味。
 
-**关键词**：safe / not strong enough / steal
+**关键词**：strong enough / there's
 
 **为什么这样写**: 感官细节（口臭）强化 Cody 的底层身份；Lynette 的弱势（力量不足）使合作成为必要而非选择。
 
@@ -56,7 +56,7 @@
 
 **中文理解**: Lynette 强调作案条件优越：有钥匙、主人不在、无室内监控；她声称只取回属于自己的钱，Gloria 不会报警。
 
-**关键词**：key / no cameras / won't report
+**关键词**：place / owner
 
 **为什么这样写**: 理性化犯罪行为——Lynette 用"拿回我的钱"自我辩护，降低道德负担；细节准备显示预谋程度。
 
@@ -66,7 +66,7 @@
 
 **中文理解**: Cody 计算分成后提出实际困难：摄像头无处不在；他想起一个有工具的机械师，但不确定对方是否愿意参与。
 
-**关键词**：thirty percent / cameras / mechanic
+**关键词**：thirty percent / four hundred
 
 **为什么这样写**: Cody 的务实平衡了 Lynette 的理想化；引入第三方（机械师）增加情节复杂度和风险层级。
 
@@ -86,7 +86,7 @@
 
 **中文理解**: Cody 讲述入狱经历：女友策划抢劫养老院，他与同伙实施却被设局——女友与同伙暗中交往并订婚，联手陷害他。
 
-**关键词**：old folks' home / tipped off / engaged
+**关键词**：time worked / girlfriend
 
 **为什么这样写**:  backstory 揭示 Cody 并非主谋而是替罪羊；背叛的双重性（女友+朋友）解释他的愤世嫉俗。
 

@@ -2,15 +2,15 @@
 
 ## 本章导航
 
-**一句话概括**: Kansas reneges on the deal, threatens to kill Lynette for the safe's contents; she bluffs with a Mercedes key and escapes when his epileptic assistant has a seizure.
+**一句话概括**: Kansas 翻脸不认约定，为保险箱里的东西威胁要杀死 Lynette；她趁发作的助手倒地时抢回钱物，翻过铁丝网逃走。
 
-**情感弧线位置**: Peak danger — Lynette faces mortal threat and must think quickly to survive
+**情感弧线位置**: 危险顶点 —— Lynette 面对致命威胁，必须立刻想办法活下来
 
-**Tropes 兑现/反转**: The "negotiation under duress" trope—Lynette uses psychological manipulation rather than physical force; the seizure becomes her unlikely salvation
+**Tropes 兑现/反转**: 「胁迫下谈判」母题——她靠的是心理操控而非体力；助手的癫痫发作成了她意外的生路
 
-**人物弧线**: Lynette discovers her capacity for cold calculation under pressure; Cody's paralysis reveals his moral cowardice
+**人物弧线**: Lynette 发现自己在压力下能冷静算计；Cody 的不作为暴露他的道德怯懦
 
----
+## 精读
 
 > **原句 1:** "Kansas laid it all out on the workbench and Lynette knew, just by seeing the things in the stark bright light, that the man would change his mind. She rushed to the table and began shoving Gloria's things inside her purse, but the man with the blond hair cried out in the voice of a boy, 'She's stealing it.'"
 
@@ -26,7 +26,7 @@
 
 **中文理解**: Lynette 试图用契约精神约束 Kansas——已付五百美元开锁费，多余的钱和私人物品必须归还。
 
-**关键词**：the deal / agreed / personal stuff
+**关键词**：five hundred / nervously
 
 **为什么这样写**: 诉诸"协议"显示 Lynette 仍试图用文明规则约束暴力；提出放弃毒品是妥协策略。
 
@@ -46,7 +46,7 @@
 
 **中文理解**: Kansas 详细规划谋杀流程：在水槽放血，尸体扔进酸桶；让助手取刀和毯子接血。
 
-**关键词**：acid drum / Buck knife / soak up the blood
+**关键词**：utility sink / we'll bleed
 
 **为什么这样写**: 程序化的杀人计划显示 Kansas 可能有前科；"soak up the blood" 的细节令人毛骨悚然。
 
@@ -66,7 +66,7 @@
 
 **中文理解**: Lynette 急中生智谎称有一辆八万美元的奔驰车可给 Kansas，声泪俱下地编造细节。
 
-**关键词**：eighty-thousand-dollar Mercedes / tonight / North Portland
+**关键词**：eighty-thousand-dollar / Mercedes
 
 **为什么这样写**: 具体金额（八万）和地点（北波特兰）增加谎言可信度；哭泣既是恐惧也是表演。
 

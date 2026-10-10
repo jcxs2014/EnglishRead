@@ -37,11 +37,11 @@ modified: "2026-10-09"
 
 **读者视角提示**：这栋房子位于 West Hills（Portland 富人区），是她永远无法企及的世界。
 
-> **原句 3:** "'What are you doing here?'"
+> **原句 3:** "What are you doing here?" "I should have texted first," said Lynette. "I'm sorry. I just needed to talk to you. I'm kind of in a bind." "Well, it's not a good time," he said. "I have people over."
 
 **中文理解**：男人问她来干什么，说现在不方便，因为有客人在——典型的回避借口。
 
-**关键词**：not a good time / people over
+**关键词**：What are you doing here / not a good time / people over
 
 **为什么这样写**：他的语气（effeminate and upset）显示他对她的出现感到尴尬或愤怒。people over 可能是真也可能是借口。
 

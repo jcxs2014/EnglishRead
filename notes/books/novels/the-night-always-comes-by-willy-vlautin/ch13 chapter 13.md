@@ -2,31 +2,31 @@
 
 ## 本章导航
 
-**一句话概括**: Lynette escapes the mechanic's shop, confronts Cody for betraying her, and tricks him into taking a worthless car key while she keeps the money and cocaine.
+**一句话概括**: Lynette 逃出修车厂，当面质问背叛她的 Cody，用一把萨博车钥匙把他引开，自己留下钱和可卡因。
 
-**情感弧线位置**: Falling action — Lynette transitions from survival mode to calculated revenge
+**情感弧线位置**: 回落段 —— Lynette 从求生模式转向有预谋的报复
 
-**Tropes 兑现/反转**: The "double-cross" trope—Cody attempts to steal from Lynette but is outsmarted; the "useless car" reveal subverts the promised Mercedes payoff
+**Tropes 兑现/反转**: 「黑吃黑」母题——Cody 想偷 Lynette 的东西，反被她算计；「没用的车钥匙」揭晓，反转了此前许诺的奔驰
 
-**人物弧线**: Lynette demonstrates cold cunning learned from years of caregiving manipulation; Cody's desperation makes him predictable and vulnerable
+**人物弧线**: Lynette 展示出多年照护中练出的冷酷算计；Cody 的绝望让他可预测、易被利用
 
----
+## 精读
 
 > **原句 1:** "The field ended at a paved road and a row of houses. There were no sidewalks and dogs barked from every home she passed."
 
 **中文理解**: Lynette 翻越围栏逃回修车厂，看见 Cody 坐在她车尾箱上淋雨——Kansas 已开车送助手去医院。
 
-**关键词**：floodlight / trunk / steadily falling rain
+**关键词**：dogs barked / sidewalks
 
 **为什么这样写**: 雨水贯穿全章成为情绪载体；Cody 的被动等待显示他的无助和依赖。
 
 **读者视角提示**: 灯光照亮现场，象征秘密即将曝光——Lynette 必须决定如何处置这个背叛者。
 
-> **原句 2:** "Get out of my car," she told Cody."
+> **原句 2:** "Get out of my car," she told Cody.
 
 **中文理解**: Lynette 命令 Cody 下车，他拒绝——公交停运、大雨倾盆，他要求分赃后送他回餐厅。
 
-**关键词**：get out / buses have quit / my cut
+**关键词**：cody / car
 
 **为什么这样写**: Cody 的耍赖暴露他的无赖本质；提及公交呼应前文他对通勤的抱怨。
 
@@ -46,7 +46,7 @@
 
 **中文理解**: Cody 为自己不帮忙辩护——Kansas 是疯子，他不会打架；强调是 Lynette 主动策划盗窃。
 
-**关键词**：psycho / wasn't going to fight / you wanted
+**关键词**：supposed
 
 **为什么这样写**: 推卸责任显示 Cody 的道德懦弱；"you wanted" 将罪责转嫁给 Lynette。
 
@@ -56,7 +56,7 @@
 
 **中文理解**: Cody 询问毒品处理方式，提出代为销售——尽管之前声称不要毒品，现在却改变主意。
 
-**关键词**：drugs / sell the package / get rid of it
+**关键词**：cigarette
 
 **为什么这样写**: Cody 的反复无常显示他的机会主义；想卖毒品既为赚钱也为控制 Lynette。
 

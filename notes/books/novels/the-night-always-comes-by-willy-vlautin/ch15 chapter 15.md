@@ -2,15 +2,15 @@
 
 ## 本章导航
 
-**一句话概括**: Lynette returns to her abuser JJ Benada's house to sell cocaine, confronts him about past exploitation, and receives photos of herself from her teenage years along with a buyer's contact.
+**一句话概括**: Lynette 回到曾经侵害她的 JJ Benada 家卖可卡因，当面提起早年的利用，换来一组她少女时代的照片和一个买家的联系方式。
 
-**情感弧线位置**: Confrontation and partial reckoning — Lynette faces the source of her trauma but cannot fully escape it
+**情感弧线位置**: 对峙与部分清算 —— 她直面创伤的源头，却仍无法全身而退
 
-**Tropes 兑现/反转**: The "return to the scene" trope—instead of achieving closure, Lynette reopens old wounds; JJ's partial apology is undercut by his continued manipulation
+**Tropes 兑现/反转**: 「回到现场」母题——了结并未发生，旧伤被重新打开；JJ 那半个道歉被持续的操控抵消
 
-**人物弧线**: Lynette articulates her trauma clearly for the first time but remains trapped in transactional relationships; JJ shows fleeting remorse but ultimately prioritizes self-preservation
+**人物弧线**: Lynette 第一次把创伤说清楚，却仍困在交易式关系里；JJ 闪过悔意，最终仍以自保为先
 
----
+## 精读
 
 > **原句 1:** "At Cully and 62nd, Lynette took a side street where the pavement turned to gravel, and she hit potholes and water splashed under the wheel wells and twice the car bottomed out."
 
@@ -66,7 +66,7 @@
 
 **中文理解**: 开门的是个怀孕女孩，穿粉色运动服和熊猫头拖鞋，染金短发，四肢纤细如厌食症，胸颈却异常粗壮。
 
-**关键词**：pregnant girl / panda bear slippers / anorexic
+**关键词**：nearly compressed / pregnant girl
 
 **为什么这样写**: 熊猫拖鞋的童趣与怀孕的成熟形成讽刺对照；身体描写暗示药物滥用或营养不良。
 

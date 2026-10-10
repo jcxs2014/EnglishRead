@@ -2,17 +2,17 @@
 
 ## 本章导航
 
-**一句话概括**: Lynette visits Gloria's upscale apartment to demand repayment of an $8,000 loan, discovers the safe in her closet, and decides to steal it.
+**一句话概括**: Lynette 带着八千美元的旧账去找 Gloria，在她高档公寓的衣柜里发现一只保险箱，决定把它偷回来。
 
-**情感弧线位置**: Rising action — desperation drives Lynette to criminal planning
+**情感弧线位置**: 上升段 —— 走投无路把 Lynette 推向犯罪计划
 
-**Tropes 兑现/反转**: The "friend" who owes money is revealed as a kept woman living beyond her means; the debt collection turns into theft
+**Tropes 兑现/反转**: 「欠钱的朋友」被揭穿是靠男人供养、超前消费的女人；讨债最终变成偷窃
 
-**人物弧线**: Lynette transitions from victim to perpetrator, crossing moral boundaries she previously wouldn't
+**人物弧线**: Lynette 从受害者转为加害者，跨过她此前不会越过的道德界线
 
----
+## 精读
 
-> **原句 1:** "Gloria Milligan was the most beautiful woman Lynette had ever met. Thin and tall with black hair and light blue eyes. She had a seemingly natural elegance to her, but Lynette knew she had worked hard at it."
+> **原句 1:** "Gloria Milligan was the most beautiful woman Lynette had ever met. Thin and tall with black hair and light blue eyes. She had a seemingly natural elegance to her, but Lynette knew she had worked hard at it. Gloria was neither elegant nor educated. When drinking or in a bad mood, she could slip up and show her true self: a mean, often crude, drunk who looked out only for herself, who could be vindictive and cruel. The old man she was with had witnessed none of it. He thought she'd grown up in Portland and had gone to college at UC Berkeley."
 
 **中文理解**: Gloria 外表精致但内在粗鄙——她编造了加州大学伯克利分校毕业的出身，实际来自伐木小镇 Clatskanie，父亲瘫痪、靠救济金生活。
 
@@ -42,11 +42,11 @@
 
 **读者视角提示**: Lynette 故意戳痛处，既是无心之失也是潜意识里的权力平衡——她掌握着 Gloria 的真实历史。
 
-> **原句 4:** "I just got back from Newport Beach," she said. "Did I tell you?"
+> **原句 4:** "I love it there. Terry had business in Corona del Mar. I flew down a couple days after him, but he didn't even put me in first class. He used to always put me in first class. I hope he just made a mistake, but I don't think so. He never makes mistakes like that. Anyway, we got two rooms at the Hyatt. The weather was perfect. I saw him for a total of eight hours in three days. That's the kind of trip I like."
 
-**中文理解**: Gloria 炫耀南加州之旅，却抱怨 Terry 不再让她坐头等舱——细节暗示关系降温，她开始失去特权。
+**中文理解**: Gloria 炫耀南加州之旅，却抱怨 Terry 这次没让她坐头等舱——她只肯相信是对方疏忽，因为"Terry 从不犯这种错"；三天里两人只见了八小时，她却称之为喜欢的旅行。细节暗示关系降温，她开始失去特权。
 
-**关键词**：Newport Beach / first class
+**关键词**：Corona del Mar / first class / never makes mistakes
 
 **为什么这样写**: 物质细节（Chloé 包、Simone Perele 内衣）标记她的消费水平；头等舱降级预示 Terry 可能厌倦她。
 
@@ -62,7 +62,7 @@
 
 **读者视角提示**: Gloria 的务实与 Lynette 的理想主义形成对照——两人都被困在不同形式的交易中。
 
-> **原句 6:** "And I know you're in a hurry, but I was hoping I could get back the money I loaned you."
+> **原句 6:** "And I know you're in a hurry, but I was hoping I could get back the money I loaned you." "The money?" "The eight thousand dollars I gave you." Gloria looked at her. "For the DUI? You told me you were gonna give me the money back within a week no problem. But it's been seven months."
 
 **中文理解**: Lynette 终于开口要回八千美元借款——Gloria 七个月前以酒驾罚款为由借走，承诺一周内归还却至今未还。
 
@@ -72,7 +72,7 @@
 
 **读者视角提示**: 这笔钱是 Lynette 买房计划的关键部分，Gloria 的违约直接威胁她的生存策略。
 
-> **原句 7:** "I thought Terry gave you a thousand a week spending money."
+> **原句 7:** "I thought Terry gave you a thousand a week spending money." "Sometimes he does. Not all the time. Not lately." "What about those two other guys you're seeing?" "What the fuck?" said Gloria and again glared at her through the reflection in the mirror. "I'm not seeing them anymore. And don't tell anyone I am. I don't like how you always bring up stuff I don't want you to bring up."
 
 **中文理解**: Lynette 质问 Gloria 为何声称没钱——她知道 Gloria 同时交往多个男人获取金钱，Gloria 对此暴怒。
 
@@ -82,11 +82,11 @@
 
 **读者视角提示**: 两人关系的权力动态在此逆转——Lynette 掌握信息优势，Gloria 处于防御地位。
 
-> **原句 8:** "Honestly I don't know. You can't just throw things like this at me when I'm trying to not be late."
+> **原句 8:** "Honestly I don't know. You can't just throw things like this at me when I'm trying to not be late." "You don't have even a rough idea?" "If I don't have it, I don't have it. You should have called and warned me about all this." Gloria left the room and Lynette got off the bed and followed her to the kitchen. "An Uber is going to be here in five minutes." She poured more champagne into a glass. "Look, I didn't mean to get pissed off. I got a lot going on, too. I'll get Terry to give me some money tonight. I could probably get you five hundred."
 
 **中文理解**: Gloria 最终承认自己破产，只愿给五百美元——远不足以解决 Lynette 的困境，却是她能榨出的极限。
 
-**关键词**：five hundred
+**关键词**：five hundred / throw things like this / honestly
 
 **为什么这样写**: 从八千到五百的落差凸显 Lynette 计划的失败；Gloria 的敷衍显示她对朋友的困境缺乏共情。
 

@@ -2,21 +2,21 @@
 
 ## 本章导航
 
-**一句话概括**: Lynette reflects on her life's failures at the Hotcake House, recalls her grandfather's love, and makes anonymous calls to frame Cody for car theft while planning to sell cocaine to JJ.
+**一句话概括**: Lynette 在 Hotcake House 回想一生的失败与祖父给过的爱，随后用假名打电话举报 Cody 偷车、举报弟弟吸毒，并计划把可卡因卖给 JJ。
 
-**情感弧线位置**: Emotional nadir — Lynette confronts her guilt and self-loathing before taking decisive action
+**情感弧线位置**: 情绪最低点 —— Lynette 在采取决断行动前先直面自己的愧疚与自我厌弃
 
-**Tropes 兑现/反转**: The "diner reflection" trope—instead of finding clarity, Lynette deepens her self-condemnation; the grandfather memory provides warmth but also highlights her current degradation
+**Tropes 兑现/反转**: 「餐馆独白」母题——她没有因此看清什么，反而加深了自我定罪；祖父的回忆给温度，也照出她如今的处境
 
-**人物弧线**: Lynette recognizes her pattern of using guilt as both burden and excuse; she transitions from reactive survival to proactive manipulation
+**人物弧线**: Lynette 认清自己把愧疚同时当作负担和借口；她从被动求生转向主动算计
 
----
+## 精读
 
 > **原句 1:** "The Original Hotcake House was a twenty-four-hour restaurant. It was three a.m. and the restaurant was empty but for three drunk men in their early twenties eating breakfast."
 
 **中文理解**: 凌晨三点的 Hotcake House 餐馆只有三个醉汉；Lynette 查看镜中自己，脖子上的掐痕比预期轻。
 
-**关键词**：three a.m. / red marks / mirror
+**关键词**：hour restaurant / eating breakfast
 
 **为什么这样写**: 时间（凌晨三点）象征人生的低谷；镜子场景是自我审视的经典意象。
 
