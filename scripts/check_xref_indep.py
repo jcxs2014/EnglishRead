@@ -10,7 +10,7 @@
     ——这是 AGENTS 8c「现写检查器先验该报的报了再信它的 0」的又一个实例。
 
 本脚本的判据（只用**可机检**的证据，不猜中文语义）：
-  A. 同一句里 `chNN` 附近出现的**被引号包裹的英文**（「…」 或 "…"）→ flat 比对目标章
+  A. 同一句里 `chNN` 附近出现的**被引号包裹的英文**（「…」 或 "…"，含 CJK 者非英文）→ flat 比对目标章
   B. **紧跟** `chNN` 的**英文短语**（≥3 个拉丁词）→ flat 比对目标章
      ⚠️ 不可放宽到「同句内任何引号英文」——同句引文常属本章或句中另提到的章，
      那样会对正确引用全报警（2026-09-29 实测 14 条假红）
@@ -31,6 +31,10 @@ QEN = re.compile(r'[「“"]([^」”"]{12,})[」”"]')
 #    （如「1948 年战争是…的 initiator 与 progenitor」（ch03））也会命中本式，
 #    而它们本就该走「中文式待人判」，不该按英文 flat 比对判红。
 QAFTER = re.compile(r'[「“"]([^」”"]{12,})[」”"]\s*[（(]\s*ch(\d\d[a-z]?)\s*[）)]')
+# CJK 守卫（2026-10-10 增补）：引文含 CJK 字符 ⇒ 是**中译改写**，不是判据 A 说的「英文」，
+# 不能拿去做 flat 比对——中译既可能误伤（照英文文本查无 ⇒ 假红），也可能剥净后
+# 成空串而静默误过（假绿）。处置：跌出英文证据，无其他证据时落 C 类待人判。
+CJK = re.compile(r'[\u3000-\u303f\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff00-\uffef]')
 
 
 def _mostly_latin(s):
@@ -100,11 +104,25 @@ def main():
                 own_spans = [(e.start(), e.end()) for e in own]
                 # ⚠️ 只在**配对的章号就是当前这个 chNN** 时计入，否则等于把同一段引文
                 # 同时算给句中每一个 chNN（第一版就这样，报警 5→9）。
+                # ⚠️ 2026-10-10 修（假红型，本书五步审查 d 步实测 2 条）：判据 A/A' 的
+                #    「英文」此前没有守卫，**中译改写**也被当英文证据 flat 比对——
+                #    `与 ch07 那句「是 Luna 带走了 Raysel」直接相接` 被判「在该章查无」，
+                #    而该中译确在 ch07 md（英文原文 ch07:605 `Luna was here. Luna took
+                #    Raysel.`）⇒ 假红。不可用 _mostly_latin 顶替：该中译比例 0.71，
+                #    已过 0.6 阈值（实测）。收口：引文含 CJK 一律不算英文证据，落 C 类
+                #    待人判。顺带收口同族假绿：引文剥净后为空串（纯破折号等非 CJK 字符）
+                #    时 `'' in flat` 恒真 ⇒ 静默假绿（本书纯 CJK 例见 00_金句精选.md:125，
+                #    已由 CJK 守卫拦下；非 CJK 构例见本次投毒）——QEN 证据须 flat 非空。
+                #    负控：纯英文伪引语仍须报红（投毒 3 例：伪造 / QEN 移章 /
+                #    QAFTER 移章，均报红 + 本书复跑 rc=0，见 2026-10-10-cd raw-gates）。
                 for e in own:
-                    if e.group(2) == nn and _mostly_latin(e.group(1)):
+                    if e.group(2) == nn and _mostly_latin(e.group(1)) \
+                            and not CJK.search(e.group(1)):
                         ev.append(e.group(1))
                 for e in QEN.finditer(sent):
-                    if 0 <= e.start() - c.end() <= 3 and not any(
+                    if 0 <= e.start() - c.end() <= 3 and not CJK.search(e.group(1)) \
+                            and re.sub(r'[^a-z0-9]', '', e.group(1).lower()) \
+                            and not any(
                             a <= e.start() and e.end() <= b for a, b in own_spans):
                         ev.append(e.group(1))
                 for e in LAT.finditer(sent):
