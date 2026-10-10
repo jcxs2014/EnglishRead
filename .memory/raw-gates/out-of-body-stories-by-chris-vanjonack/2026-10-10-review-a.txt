@@ -1,0 +1,119 @@
+### a 步 第 3 条门禁全量重跑（2026-10-10 五步审查）
+
+
+===== ① verify_quotes =====
+01 Invent Everything.md: 10/10 ✅（另有 1 条短引语未校验）
+02 Elizabeth Kaplan's Best Day Ever.md: 12/12 ✅
+03 Open Spaces.md: 8/8 ✅
+04 What We Look Like Together.md: 8/8 ✅（另有 1 条短引语未校验）
+05 Phases.md: 8/8 ✅（另有 3 条短引语未校验）
+06 There's Clowns in the Woods.md: 6/6 ✅
+07 The Spirit Moves You.md: 6/6 ✅
+08 No Future.md: 4/4 ✅（另有 2 条短引语未校验）
+09 Going Up.md: 7/7 ✅（另有 1 条短引语未校验）
+10 Heaven Is Fine for Girls Who Miss Their Mothers.md: 5/5 ✅（另有 2 条短引语未校验）
+
+⚠️ 全书共 10 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 74/74 引文可核实（100%）；完全干净文件 10/10；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+
+
+===== ② verify_quotes --full =====
+01 Invent Everything.md: 10/10 ✅（另有 1 条短引语未校验）
+02 Elizabeth Kaplan's Best Day Ever.md: 12/12 ✅
+03 Open Spaces.md: 8/8 ✅
+04 What We Look Like Together.md: 8/8 ✅（另有 1 条短引语未校验）
+05 Phases.md: 8/8 ✅（另有 3 条短引语未校验）
+06 There's Clowns in the Woods.md: 6/6 ✅
+07 The Spirit Moves You.md: 6/6 ✅
+08 No Future.md: 4/4 ✅（另有 2 条短引语未校验）
+09 Going Up.md: 7/7 ✅（另有 1 条短引语未校验）
+10 Heaven Is Fine for Girls Who Miss Their Mothers.md: 5/5 ✅（另有 2 条短引语未校验）
+
+⚠️ 全书共 10 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 74/74 引文可核实（100%）；完全干净文件 10/10；正文章节 0 提取 0；总览 0 提取转交 0；--full 整串取证 0 ===
+
+
+
+===== ③ check_vocab =====
+词条行合计: 238
+
+--- FAIL (0) ---
+
+--- ❓ 无法判定（467 条，无权威参考集，不判红）---
+    · 01 Invent Everything.md：「interdimensional」 —— 例句校验空跑（本章语料缺失，text/ 无对应件）
+    · 01 Invent Everything.md：「interdimensional」 —— 本章语料缺失（text/ 无对应件）
+    · 01 Invent Everything.md：「polychromatic」 —— 例句校验空跑（本章语料缺失，text/ 无对应件）
+    · 01 Invent Everything.md：「polychromatic」 —— 本章语料缺失（text/ 无对应件）
+    · 01 Invent Everything.md：「subpar」 —— 例句校验空跑（本章语料缺失，text/ 无对应件）
+    · 01 Invent Everything.md：「subpar」 —— 本章语料缺失（text/ 无对应件）
+    · 01 Invent Everything.md：「construe」 —— 例句校验空跑（本章语料缺失，text/ 无对应件）
+    · 01 Invent Everything.md：「construe」 —— 本章语料缺失（text/ 无对应件）
+    · 01 Invent Everything.md：「nascent」 —— 例句校验空跑（本章语料缺失，text/ 无对应件）
+    · 01 Invent Everything.md：「nascent」 —— 本章语料缺失（text/ 无对应件）
+    · 01 Invent Everything.md：「obliterate」 —— 例句校验空跑（本章语料缺失，text/ 无对应件）
+    · 01 Invent Everything.md：「obliterate」 —— 本章语料缺失（text/ 无对应件）
+    · 01 Invent Everything.md：「cognizant」 —— 例句校验空跑（本章语料缺失，text/ 无对应件）
+    · 01 Invent Everything.md：「cognizant」 —— 本章语料缺失（text/ 无对应件）
+    · 01 Invent Everything.md：「retrofuturism」 —— 例句校验空跑（本章语料缺失，text/ 无对应件）
+    · 01 Invent Everything.md：「retrofuturism」 —— 本章语料缺失（text/ 无对应件）
+    · 01 Invent Everything.md：「portal」 —— 例句校验空跑（本章语料缺失，text/ 无对应件）
+    · 01 Invent Everything.md：「portal」 —— 本章语料缺失（text/ 无对应件）
+    · 01 Invent Everything.md：「haze」 —— 例句校验空跑（本章语料缺失，text/ 无对应件）
+    · 01 Invent Everything.md：「haze」 —— 本章语料缺失（text/ 无对应件）
+    …另有 447 条
+
+--- ⚠️ 存量待清（只检出，不判红；存量清理是另一件事）---
+  章节归属缺失 10 个文件——这些文件的例句校验等于空跑（ch_corpus 为空，每条例句都判未命中，FAIL 数字因此被灌水）：
+    · 01 Invent Everything.md  （文件名无 chNN 前缀且 frontmatter 无 source_text/chapter）
+    · 02 Elizabeth Kaplan's Best Day Ever.md  （文件名无 chNN 前缀且 frontmatter 无 source_text/chapter）
+    · 03 Open Spaces.md  （文件名无 chNN 前缀且 frontmatter 无 source_text/chapter）
+    · 04 What We Look Like Together.md  （文件名无 chNN 前缀且 frontmatter 无 source_text/chapter）
+    · 05 Phases.md  （文件名无 chNN 前缀且 frontmatter 无 source_text/chapter）
+    · 06 There's Clowns in the Woods.md  （文件名无 chNN 前缀且 frontmatter 无 source_text/chapter）
+    · 07 The Spirit Moves You.md  （文件名无 chNN 前缀且 frontmatter 无 source_text/chapter）
+    · 08 No Future.md  （文件名无 chNN 前缀且 frontmatter 无 source_text/chapter）
+    · 09 Going Up.md  （文件名无 chNN 前缀且 frontmatter 无 source_text/chapter）
+    · 10 Heaven Is Fine for Girls Who Miss Their Mothers.md  （文件名无 chNN 前缀且 frontmatter 无 source_text/chapter）
+
+--- WARN (0) ---
+
+
+
+===== ④ check_entities =====
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+
+
+===== ⑤ corruption_scan =====
+
+=== 编辑损坏扫描（out-of-body-stories-by-chris-vanjonack）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+
+
+===== ⑥ sweep_full =====
+=== 引语整串 flat 比对（out-of-body-stories-by-chris-vanjonack）===
+  参照集：text/ 逐章（10 章，可定章） + epub 交叉验证
+  ✅ 本章命中 5 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+
+
+
+===== ⑦ check_short_quotes =====
+=== 短引语兜底核对（out-of-body-stories-by-chris-vanjonack）===
+  verify_quotes 跳过（<20 flat 字符）的引语：8 条 —— 这些主门禁**根本没查**
+  ✅ 命中 8 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+
+
+===== ⑧ audit_structure =====
+=== 精读结构扫描（out-of-body-stories-by-chris-vanjonack）===
+  扫 10 个 md、82 个引语块；多数派必备节：## 词汇分级
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构、表达方式 ｜ 引语众数 7
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+

@@ -1,0 +1,41 @@
+### b 步 逐章归属（check_chapter_quotes 逐章）
+
+
+--- ch01 ---
+01 Invent Everything.md: 10/10 in ch01 text（另有 1 条短引语未校验）
+
+
+--- ch02 ---
+02 Elizabeth Kaplan's Best Day Ever.md: 12/12 in ch02 text
+
+
+--- ch03 ---
+03 Open Spaces.md: 8/8 in ch03 text
+
+
+--- ch04 ---
+04 What We Look Like Together.md: 8/8 in ch04 text（另有 1 条短引语未校验）
+
+
+--- ch05 ---
+05 Phases.md: 8/8 in ch05 text（另有 3 条短引语未校验）
+
+
+--- ch06 ---
+06 There's Clowns in the Woods.md: 6/6 in ch06 text
+
+
+--- ch07 ---
+07 The Spirit Moves You.md: 6/6 in ch07 text
+
+
+--- ch08 ---
+08 No Future.md: 4/4 in ch08 text（另有 2 条短引语未校验）
+
+
+--- ch09 ---
+09 Going Up.md: 7/7 in ch09 text（另有 1 条短引语未校验）
+
+
+--- ch10 ---
+10 Heaven Is Fine for Girls Who Miss Their Mothers.md: 5/5 in ch10 text（另有 2 条短引语未校验）
