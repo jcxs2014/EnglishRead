@@ -1,0 +1,43 @@
+词条行合计: 162
+
+--- FAIL (0) ---
+
+--- WARN (38) ---
+  ch01 excised limbs.md [基础] 基础档疑含超纲词「checkpoint」
+  ch03 home.md [基础] 基础档疑含超纲词「occupation」
+  ch04 the shatat.md [高级] 例句不含词头「interrogation」
+  ch05 living stones.md [基础] 基础档疑含超纲词「staircase」
+  ch06 the city beneath the sea.md [进阶] 例句不含词头「beachgoer」
+  ch06 the city beneath the sea.md [基础] 词条跨篇(本章无，epub 全书有)「seawater」
+  ch06 the city beneath the sea.md [基础] 例句不含词头「seawater」
+  ch06 the city beneath the sea.md [基础] 例句不含词头「oxygen」
+  ch07 dyspnea.md [进阶] 例句不含词头「pomegranate」
+  ch07 dyspnea.md [基础] 例句不含词头「luggage」
+  ch07 dyspnea.md [基础] 词条跨篇(本章无，epub 全书有)「flight」
+  ch07 dyspnea.md [基础] 例句不含词头「flight」
+  ch07 dyspnea.md [基础] 例句不含词头「ghost」
+  ch07 dyspnea.md [基础] 例句不含词头「oxygen」
+  ch08 already gone.md [进阶] 例句不含词头「roommate」
+  ch08 already gone.md [进阶] 例句不含词头「concussion」
+  ch08 already gone.md [进阶] 例句不含词头「rock skipping」
+  ch08 already gone.md [基础] 例句不含词头「hospital」
+  ch08 already gone.md [基础] 例句不含词头「brother」
+  ch08 already gone.md [基础] 例句不含词头「grandmother」
+  ch09 where is nuhad.md [高级] 例句不含词头「refugee」
+  ch09 where is nuhad.md [基础] 例句不含词头「fled」
+  ch09 where is nuhad.md [基础] 例句不含词头「home」
+  ch10 salt.md [高级] 词条跨篇(本章无，epub 全书有)「vengeance」
+  ch10 salt.md [高级] 例句不含词头「vengeance」
+  ch10 salt.md [高级] 词条跨篇(本章无，epub 全书有)「exhale」
+  ch10 salt.md [高级] 例句不含词头「exhale」
+  ch10 salt.md [进阶] 词条跨篇(本章无，epub 全书有)「stitches」
+  ch10 salt.md [进阶] 例句不含词头「stitches」
+  ch10 salt.md [基础] 例句不含词头「dream」
+  ch12 the path of the moon.md [进阶] 例句不含词头「jet lag」
+  ch12 the path of the moon.md [基础] 例句不含词头「journal」
+  ch13 return.md [高级] 例句不含词头「return」
+  ch13 return.md [进阶] 例句不含词头「storm」
+  ch13 return.md [基础] 词条跨篇(本章无，epub 全书有)「bathtub」
+  ch13 return.md [基础] 例句不含词头「bathtub」
+  ch13 return.md [基础] 例句不含词头「breathe」
+  ch13 return.md [基础] 例句不含词头「home」

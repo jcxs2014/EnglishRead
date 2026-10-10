@@ -1,0 +1,24 @@
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+ch01 excised limbs.md: 8/8 ✅
+ch02 why is the house in haifa haunted.md: 2/2 ✅（另有 1 条短引语未校验）
+ch03 home.md: 5/5 ✅（另有 1 条短引语未校验）
+ch04 the shatat.md: 3/3 ✅（另有 3 条短引语未校验）
+ch05 living stones.md: 6/6 ✅（另有 2 条短引语未校验）
+ch06 the city beneath the sea.md: 5/5 ✅
+ch07 dyspnea.md: 4/4 ✅（另有 2 条短引语未校验）
+ch08 already gone.md: 5/5 ✅
+ch09 where is nuhad.md: 4/4 ✅
+ch10 salt.md: 3/3 ✅（另有 1 条短引语未校验）
+ch11 we.md: 2/2 ✅（另有 2 条短引语未校验）
+ch12 the path of the moon.md: 4/4 ✅
+ch13 return.md: 3/3 ✅（另有 1 条短引语未校验）
+
+⚠️ 全书共 13 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 2 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+    · 00_金句精选.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 54/54 引文可核实（100%）；完全干净文件 13/13；正文章节 0 提取 0；总览 0 提取转交 2 ===
