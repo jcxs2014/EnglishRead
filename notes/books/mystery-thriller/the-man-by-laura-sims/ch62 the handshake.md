@@ -131,7 +131,7 @@
 
 ### 精读块 8：蜕变的握手仪式
 
-> **原句 6:** With each handshake, he discards more and more of his old self—the shabby college instructor and has-been photographer—and leans into the bright new person who belongs in this golden world.
+> **原句 8:** With each handshake, he discards more and more of his old self—the shabby college instructor and has-been photographer—and leans into the bright new person who belongs in this golden world.
 
 **中文理解**：每握一次手，他就丢弃更多旧的自己——那个破旧的大学讲师和过气摄影师——然后更加靠近属于这个金色世界的新自己。
 

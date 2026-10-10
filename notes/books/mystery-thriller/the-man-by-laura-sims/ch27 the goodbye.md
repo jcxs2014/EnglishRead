@@ -27,49 +27,73 @@ Paul 讲授街头摄影师课程，暗示纽约之行。Judith 已有一周多�
 
 Paul 讲授 Garry Winogrand、Lee Friedlander、Diane Arbus、Robert Frank 这些伟大的街头摄影师——Judith 觉得这是一种嘲讽，因为她整整一周都在做家务、清理阁楼、送捐赠物，而非拍照。
 
-> Paul's lecture on the great street photographers of recent years is like a taunt
+> **原句 1:** "Paul's lecture on the great street photographers of recent years is like a taunt"
 
-"taunt"（嘲弄）而非"challenge"：Paul 的话本无恶意，但 Judith 听到的是责备。创伤让她把外部世界的一切解读为针对自己的指控。
+**关键词**：
+- **taunt**：嘲弄——Judith 把外部世界解读为对自己的责备
+- **street photographers**：街头摄影师——Winogrand/Friedlander/Arbus/Frank
+
+**为什么这样写**："taunt"（嘲弄）而非"challenge"：Paul 的话本无恶意，但 Judith 听到的是责备。创伤让她把外部世界的一切解读为针对自己的指控。
 
 ### 2. 相机被收起
 
 Judith 主动让 Tom 把相机搬进暗房——不是为了用，而是为了"不看见它"。这是一种主动的视觉回避：
 
-> I finally asked Tom to carry my camera to the darkroom for me—mainly so I wouldn't have to see it every time I used the toilet or sink
+> **原句 2:** "I finally asked Tom to carry my camera to the darkroom for me—mainly so I wouldn't have to see it every time I used the toilet or sink"
 
-"mainly so I wouldn't have to see it"：相机是那个男人的隐喻载体——回避相机，就是回避那个男人，也就是回避被她自己封存的那段记忆与欲望。
+**关键词**：
+- **carry my camera to the darkroom**：把相机搬进暗房——主动的视觉回避
+- **mainly so I wouldn't have to see it**：主要是不想看见它——相机是那个男人的隐喻载体
+
+**为什么这样写**："mainly so I wouldn't have to see it"：相机是那个男人的隐喻载体——回避相机，就是回避那个男人，也就是回避被她自己封存的那段记忆与欲望。
 
 ### 3. 清晨的空虚
 
 全章最锋利的段落——她醒来时感到"gnawing emptiness"，意识到自己"misplaced something"：
 
-> giving me the foggy sense that I've misplaced something; then the sense of loss grows until I name it, acknowledge what's happened, and along with that, who or what I've become: Mrs. Judith Stanley, mother and housewife—that's all
+> **原句 3:** "giving me the foggy sense that I've misplaced something; then the sense of loss grows until I name it, acknowledge what's happened, and along with that, who or what I've become: Mrs. Judith Stanley, mother and housewife—that's all"
 
-"that's all"——三个字的自我定性，是 Judith 身份崩塌后的灰烬。她曾是摄影师（有创意的主体），现在只剩下社会角色。
+**关键词**：
+- **misplaced something**：放错了什么东西——失去摄影后的空虚
+- **Mrs. Judith Stanley, mother and housewife**：Judith 的社会角色定义——"that's all"是身份崩塌后的灰烬
+
+**为什么这样写**："that's all"——三个字的自我定性，是 Judith 身份崩塌后的灰烬。她曾是摄影师（有创意的主体），现在只剩下社会角色。
 
 ### 4. "What's caused this?"
 
 章节核心问句：
 
-> But what's caused this? The camera's sudden absence, or the man's?
+> **原句 4:** "But what's caused this? The camera's sudden absence, or the man's?"
 
-相机和那个男人在 Judith 心中是同一个东西的两面：都是她欲望的对象，都是她"放下"之后感到空虚的原因。她不知道该恨谁——恨那个男人的侵害，还是恨自己放弃了摄影（和与摄影相连的生命力）。
+**关键词**：
+- **the camera's sudden absence**：相机突然缺席——失去摄影
+- **the man's**：那个男人的——失去与他的联系
+
+**为什么这样写**：相机和那个男人在 Judith 心中是同一个东西的两面：都是她欲望的对象，都是她"放下"之后感到空虚的原因。她不知道该恨谁——恨那个男人的侵害，还是恨自己放弃了摄影（和与摄影相连的生命力）。
 
 ### 5. 课后对话
 
 Paul 问她要照片，她说"It’s been a busy week"——谎言，也是自我保护。当 Paul 说"mainly happy we're going for you"时，她感到"uncomfortable pleasure"和"swiftly reddening face"：
 
-> I can't hide my uncomfortable pleasure or my swiftly reddening face
+> **原句 5:** "I can't hide my uncomfortable pleasure or my swiftly reddening face"
 
-这个反应说明：她仍在被 Paul 吸引，即便她已经把一切都"放下"了。脸红是身体对意志的背叛——她嘴上说放下，身体却在回应。
+**关键词**：
+- **uncomfortable pleasure**：不舒服的愉悦——被 Paul 吸引但感到羞耻
+- **swiftly reddening face**：迅速涨红的脸——身体对意志的背叛
+
+**为什么这样写**：这个反应说明：她仍在被 Paul 吸引，即便她已经把一切都"放下"了。脸红是身体对意志的背叛——她嘴上说放下，身体却在回应。
 
 ### 6. Goodbye 的双重含义
 
 全章以 Paul 的话和她的"goodbye"作结：
 
-> What can I do but nod my throbbing head and say goodbye?
+> **原句 6:** "What can I do but nod my throbbing head and say goodbye?"
 
-"goodbye"在此有多重含义：① 对 Paul 说的礼貌告别 ② 她对摄影的告别 ③ 她对自己另一种生活的告别。Paul 说"not out of niceness"——他要的是她拿起相机，不是她做乘巧的学生。但她最终说 yes，这个 yes 是妥协还是重启？
+**关键词**：
+- **nod my throbbing head**：点头——她头痛欲裂但仍在回应
+- **say goodbye**：告别——多重含义：对 Paul 的礼貌告别 / 对摄影的告别 / 对另一种生活的告别
+
+**为什么这样写**："goodbye"在此有多重含义：① 对 Paul 说的礼貌告别 ② 她对摄影的告别 ③ 她对自己另一种生活的告别。Paul 说"not out of niceness"——他要的是她拿起相机，不是她做乘巧的学生。但她最终说 yes，这个 yes 是妥协还是重启？
 
 ## 心理层次
 

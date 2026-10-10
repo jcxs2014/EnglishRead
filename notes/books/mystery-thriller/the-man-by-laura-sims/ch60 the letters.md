@@ -19,7 +19,7 @@
 
 ### 精读块 1：合同焦虑
 
-> **原句 3:** The dampening reality, of course, is that he'll have to tell Tom about the Doven show. He's waited several days, letting himself **bask in the glory** of Jahan's offer, but now he has to fulfill his **contractual obligations** to Tom. Though Tom signed over managerial control of Judith's photographs to Paul—when he believed it to be unlikely they'd even be published—he retained the right to be **"informed of all consequential decisions related to the public display of [her] work."** So telling Tom about the show is largely a **formality**, Paul knows, but it could be an unpleasant one. Or not—he was surprised by Tom's **silence** when the Harper's issue came out; the man didn't call him ranting about the introduction—or anything else. They spoke once, in the aftermath, and Tom sounded almost **elderly, bewildered and aged** a dozen years by his late wife's sudden transfiguration into an overnight public sensation.
+> **原句 1:** The dampening reality, of course, is that he'll have to tell Tom about the Doven show. He's waited several days, letting himself **bask in the glory** of Jahan's offer, but now he has to fulfill his **contractual obligations** to Tom. Though Tom signed over managerial control of Judith's photographs to Paul—when he believed it to be unlikely they'd even be published—he retained the right to be **"informed of all consequential decisions related to the public display of [her] work."** So telling Tom about the show is largely a **formality**, Paul knows, but it could be an unpleasant one. Or not—he was surprised by Tom's **silence** when the Harper's issue came out; the man didn't call him ranting about the introduction—or anything else. They spoke once, in the aftermath, and Tom sounded almost **elderly, bewildered and aged** a dozen years by his late wife's sudden transfiguration into an overnight public sensation.
 
 **中文理解**：Paul 必须告诉 Tom 关于 Doven 展的事。他已经享受了 Jahan 开价的荣耀好几天，但现在必须履行对 Tom 的合同义务——Tom 虽然把 Judith 照片的管理权签给了 Paul，但保留了"对所有与公开展示相关的重大决定知情"的权利。Paul 知道这在法律上是例行公事，但可能不愉快。他对 Tom 的沉默感到意外（Harper's 专辑出来后 Tom 没有咆哮）；那次通话中 Tom 听起来像个老人，被亡妻一夜成名打击得苍老了十岁。
 
@@ -44,13 +44,13 @@
 >
 > Tom snorts. "Not for us."
 >
-> **原句 1:** Well, for Judith, then. Think of—"
->
-
+> **原句 2:** Well, for Judith, then. Think of—"
 **关键词：**
-- (关键词待补充)
+- **Well, for Judith, then**：为 Judith 着想——Paul 试图用 Judith 来说服 Tom
 
-> **原句 2:** Don't tell me 'Judith would have wanted this.' She asked for your help with submitting a few photographs to magazines, and now you've **whipped up a circus**. You want this. That's why you're doing it. **You love the spotlight.** You've been giving interviews left and right, don't think I haven't noticed. Putting up a gallery show? That's something you're doing for yourself. You'll get more money that way, won't you?"
+**为什么这样写**：Paul 的劝说策略：用 Judith 的名义来为自己行为辩护。但 Tom 完全不接受这个论点，直接打断并全面否定。
+
+> **原句 3:** Don't tell me 'Judith would have wanted this.' She asked for your help with submitting a few photographs to magazines, and now you've gone and **whipped up a circus**. You want this. That's why you're doing it. **You love the spotlight.** You've been giving interviews left and right, don't think I haven't noticed. Putting up a gallery show? That's something you're doing for yourself. You'll get more money that way, won't you?"
 
 **中文理解**："一个展览？" Tom 的语气仿佛 Paul 建议的是在绅士俱乐部搞百老汇滑稽秀、脱衣舞。Paul 强调这是对任何艺术家的最高成就，对 Judith 和 Tom 一家都好。Tom 冷嘲："不是为我们。" Paul 说"那为 Judith 想想——" Tom 直接打断：别跟我说"Judith 会想要这个"——她只是想投几幅照片到杂志，你却搞成了马戏团。你自己想要这个，你爱聚光灯，到处接受采访，别以为我没注意到。办画廊展是为了你自己，这样你能赚到更多钱，对吧？
 

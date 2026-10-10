@@ -55,7 +55,7 @@ Judith 设法坐到椅子上，但也仅此而已。她看着时钟指针前进�
 
 ### 3. 迎接：平滑如缎
 
-> **原句 2:** When Tom came home, she smiled and offered him her cheek. How was work, she asked, as always. And the evening unrolled like a smooth satin ribbon.
+> **原句 2:** As I went on sitting there, another Judith—the better one, the unmarked one—split off from me. She stood and put the phone back on its hook. She went to the kitchen sink and washed her face in cold water, dried it with the freshly laundered kitchen towel, tied the apron around her waist, and busied herself with chopping onions, carrots, and celery for the stew. She hummed a little tune. The call dropped from her mind or it had never happened and when Tom came home, she smiled and offered him her cheek. How was work, she asked, as always. And the evening unrolled like a smooth satin ribbon.
 
 "smooth satin ribbon"的比喻暗示一切看起来完美无瑕——这个分裂出去的 Judith 完美地维持着正常生活的假象。
 
@@ -65,7 +65,6 @@ Judith 设法坐到椅子上，但也仅此而已。她看着时钟指针前进�
 
 
 **关键词：**
-- (关键词待补充)
 > **原句 3:** But the other Judith, the only one I know and am, looks into Tom's panicked eyes, hearing his frantic questions as if through water. I let the tears fall and say, "Oh, Tom." And I tell him almost everything.
 
 **中文理解**："哦，Tom。" Judith 在真实的 Judith 只能流着泪说出这两个词——这是她能给予 Tom 的全部：一个感叹、一个名字。然后她告诉他"几乎一切"。"Almost everything"是她对 Tom 的回答——她说了，却又不完全说。最核心的秘密（童年被攻击、跟踪者就是那个人）仍然深埋。

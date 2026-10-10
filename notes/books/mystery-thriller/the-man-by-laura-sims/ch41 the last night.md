@@ -50,45 +50,54 @@ Judith 死后八周，Paul 登门拜访 Tom，在 Stanley 家蓝色客厅里编�
 
 Paul 将 Judith 的照片视为另一种可以窃取之物。偷窃给他快感（buzz）、让他感到"漂浮在生活的肮脏之上"——但快感总会消退，留下的只有空洞。偷窃是他填补内在匮乏的方式。
 
-
 **关键词：**
-- (关键词待补充)
+- **I want these**：我想要这些——Paul 对 Judith 作品的占有欲；不是欣赏，是窃取
+- **steal**：偷窃——Paul 的核心行为模式；他偷 groceries、书籍、酒，现在偷照片
+- **buzz**：快感——偷窃带来的短暂刺激；成瘾机制的具体表现
+
 ### 4. 天才与平庸的对照
 
 > **原句 4:** It was painfully clear that she could tap right into the marrow of the world just by lifting the camera to her eye. She made it look easy. He knew then that she could be what Paul never could: a towering talent.
 
 Paul 面对 Judith 的作品时，清楚看到她拥有他永远无法企及的东西。他经历了短暂的不公感（envy），随后转向"导师角色"作为补偿——通过帮助 Judith，他得以间接分享天才的光环。
 
-
 **关键词：**
-- (关键词待补充)
+- **tap right into the marrow**：触及事物的精髓——Judith 的摄影能力
+- **towering talent**：卓越天赋——Paul 对 Judith 的评价；也是他对自己永远无法拥有的东西的渴望
+- **envy**：嫉妒——Paul 的真实反应；但他用"导师角色"来掩饰
+
 ### 5. 被拒绝后的执念
 
 > **原句 5:** Paul could have changed course then; he could have avoided her after class, denying her the chance to share her work. Instead, he welcomed her whenever she lingered.
 
 Judith 拒绝出版后，Paul 没有放手，反而变本加厉地接近她——因为 Judith 的照片已变成他的执念。他需要她的作品来维系自己的存在感。
 
-
 **关键词：**
-- (关键词待补充)
+- **avoided her**：回避她——Paul 选择了相反的路
+- **denying her the chance**：拒绝给她机会——Judith 的边界被无视
+- **welcomed her whenever she lingered**：每当她停留他就欢迎——Paul 的执念升级
+
 ### 6. 死后的执念升级
 
 > **原句 6:** Instead, he grew fixated on her work, especially in the quiet evenings when he sat by a cracked-open window in his living room, wearing his winter coat, smoking cigarettes, and sipping rye. The pictures were there, weren't they, in her house?
 
 Judith 死后，Paul 没有释怀，反而更加强化。他穿着冬装、坐在窗边、喝黑麦威士忌——这套行为仪式暗示他在自我塑造为悲剧主角，执念在此刻彻底转化为"使命感"。
 
-
 **关键词：**
-- (关键词待补充)
+- **fixated on her work**：对她的作品着迷——执念的具体对象
+- **cracked-open window**：窗户裂开——Paul 的生活状态
+- **rye**：黑麦威士忌——自我药物化
+- **the pictures were there, weren't they**：照片在那里，不是吗？——他需要它们来维系自我
+
 ### 7. 最终的意图
 
 > **原句 7:** Someone like him.
 
 Paul 认为自己才是让 Judith 作品重见天日的合适人选。"Someone like him"——他自己说出口的，却似乎没有意识到其含义：他不是 Judith 的同伴，他是那个想要占有她天赋的人。
 
-
 **关键词：**
-- (关键词待补充)
+- **Someone like him**：像他这样的人——Paul 自我定位；占有者而非守护者
+
 ## 心理层次
 
 | 层次 | 内容 |

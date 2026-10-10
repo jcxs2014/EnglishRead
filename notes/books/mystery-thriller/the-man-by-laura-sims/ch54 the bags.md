@@ -74,7 +74,7 @@ Paul 想用牛排和一两杯威士忌来纪念这个时刻，于是在回家路
 ---
 
 > **原句 4：**
-> Paul takes great pleasure—and a simple sort of pride—in watching his selected items travel down the conveyer belt to the clerk. He smiles at her, hoping for some reciprocal admiration, but this worn older woman with dark circles under her eyes ignores him as she picks up one item after another and tosses them carelessly into the paper bag.
+> Paul takes great pleasure—and a simple sort of pride—in watching his selected items travel down the conveyer belt to the clerk. He smiles at her, hoping for some reciprocal admiration, but this worn older woman with dark circles under her eyes ignores him as she picks up one item after another and tosses it carelessly into the paper bag. When Paul looks at her, he sees his old self, moving through life without purpose or delight. He's disgusted by the sight of her and pays without looking up. Then he hugs the two heavy bags to his chest as if they were small children, happy to leave the store with the fruits of his honest labor.
 
 **中文理解：**
 Paul 看着自己挑选的商品沿着传送带送到收银员面前，感到极大的乐趣——还有一种简单的骄傲。他对她微笑，希望能得到一些回应性的欣赏，但这个眼下挂着黑眼圈的疲惫老女人在把一样又一樣商品随意地扔进纸袋时完全忽视了他。

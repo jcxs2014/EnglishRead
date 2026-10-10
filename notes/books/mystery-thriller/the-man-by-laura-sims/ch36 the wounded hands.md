@@ -29,7 +29,7 @@ Judith 手缠绷带坐在沙发上。Tom 赶回家是因为她打了一通"nearl
 
 ### 2. 真相：狗的名字是 Henry
 
-> "The dog's name is Henry."
+> **原句 1:**"The dog's name is Henry."
 
 **中文理解**：Henry是邻居家那条狗的名字，但Judith一直以为听到的是Rosie的叫声。
 
@@ -41,7 +41,7 @@ Judith 手缠绷带坐在沙发上。Tom 赶回家是因为她打了一通"nearl
 ### 3. 争吵：承诺与背叛
 
 Tom 责备 Judith：
-> "You shouldn't have out. Period. You promised to stay home! You even left a pot on the stove!"
+> **原句 2:**"You shouldn't have been out. Period. You promised to stay home! You even left a pot on the stove!"
 
 **中文理解**："你不应该外出。就这样。你承诺过待在家里！炉子上还煮着东西呢！"
 
@@ -52,29 +52,26 @@ Tom 责备 Judith：
 **为什么这样写**：通过Tom的具体指责展现婚姻中的控制与自我辩护，Judith的内心反驳暗示她在婚姻中习惯了沉默
 
 Tom 的潜台词（通过 Judith 的内心独白揭示）：
-> "Like a dog off its leash, you mean, like a child toddling into the street."
+"Like a dog off its leash, you mean, like a child toddling into the street."
 
 **中文理解**："你是说像挣脱链子的狗，像走进街里的孩子。"
-
-**关键词：**
-- **Like a dog off its leash**：Tom对Judith擅自外出的比喻，将她比作失控的动物或孩子
 
 **为什么这样写**：Tom看待Judith的方式像看待一个不负责任的孩子——这个视角与全书Tom对Judith的控制性关怀一致，通过动物和孩童的比喻展现婚姻中权力不平衡的动态关系
 
 ### 4. 刀的坦白：护身符的暴露
 
-> "I took Tom Junior's hunting knife with me. I had it in my pocket. I've been carrying it—in my purse."
+> **原句 3:**"I took Tom Junior’s hunting knife with me," I blurt. "I had it in my pocket. I’ve been carrying it—in my purse."
 
 **中文理解**："我带了Tom Junior的猎刀。放在口袋里。一直随身带着——在包里。"
 
 **关键词：**
-- **Tom Junior's hunting knife**：Judith一直随身携带的武器，象征她的恐惧和自卫欲望
-- **I've been carrying it—in my purse**：Judith对Tom隐瞒自己带刀的事实，说明她有自己的秘密
+- **Tom Junior’s hunting knife**：Judith一直随身携带的武器，象征她的恐惧和自卫欲望
+- **I’ve been carrying it—in my purse**：Judith对Tom隐瞒自己带刀的事实，说明她有自己的秘密
 
 **为什么这样写**：这是Judith第一次向Tom坦白她一直在包里藏刀（这把刀在ch18首次出现）。她想用这个举动impress Tom（让他印象深刻），但Tom的反应是"eyes widen"——恐惧而非钦佩她想用这个举动 impress Tom（让他印象深刻），但 Tom 的反应是"eyes widen"——恐惧而非钦佩。
 
 Tom 的质问直指要害：
-> "You think you'll be able to reach for it and unfold it in time, with this guy coming after you?"
+> **原句 4:**"You think you'll be able to reach for it and unfold it in time, with this guy coming after you?"
 
 **中文理解**："你觉得你能在他追上来的时候及时抽出刀、展开刀刃吗？"
 
@@ -87,7 +84,7 @@ Tom 的质问直指要害：
 
 Judith 试图解释她为何确信自己听到了 Rosie：
 
-> "I think he did it, to lure me farther than I wanted to go. Maybe he has a dog… I mean a dog with a bark like Rosie's, and he…"
+> **原句 5:**"I'm sorry, Tom. I convinced myself it was her—somehow. I think he did it, to lure me farther than I wanted to go. Maybe he has a dog… I mean a dog with a bark like Rosie's, and he…"
 
 **中文理解**："我觉得他故意那么做的，为了把我引诱到更远的地方。也许他有只狗……我是说一只叫声像Rosie的狗，然后他……"
 
@@ -99,7 +96,7 @@ Judith 试图解释她为何确信自己听到了 Rosie：
 
 ---
 
-> "How would he do that, Judith? How would that even be possible?"
+> **原句 6:**"How would he do that, Judith? How would that even be possible?"
 
 **中文理解**："他怎么可能做到，Judith？那怎么可能？"
 
@@ -109,7 +106,7 @@ Judith 试图解释她为何确信自己听到了 Rosie：
 **为什么这样写**：这是理性对非理性的质疑。Tom用最简单的问题暴露 Judith 理论的荒谬性
 
 这是理性对非理性的质疑。Judith 的回答：
-> "He often does impossible things."
+> **原句 7:**"He often does impossible things."
 
 **中文理解**："他经常做不可能的事。"
 
@@ -120,19 +117,19 @@ Judith 试图解释她为何确信自己听到了 Rosie：
 
 ### 6. 镜像对话：不能失去你
 
-> "I can't lose you, Judy. You have to take care of yourself."
+> **原句 8:**"I can’t lose you, Judy. You have to take care of yourself."
 
 **中文理解**："我不能失去你，Judy。你得照顾好自己。"
 
 **关键词：**
-- **I can't lose you**：Tom对Judith的深情表白，呼应之前Judith对他说的同样的话
+- **I can’t lose you**：Tom对Judith的深情表白，呼应之前Judith对他说的同样的话
 - **You have to take care of yourself**：Tom要求Judith保护自己
 
 **为什么这样写**：这句话Judith也曾对Tom说过——在他医院病房的恢复期。Tom现在用几乎相同的话回馈给她。Judith意识到这一点，但选择不否认——"I don't want to"——她接受这种照顾的角色交换。镜像对话揭示两人之间照顾与被照顾的关系
 
 ### 7. 支离破碎的记忆
 
-> "I hear the sound of breaking glass all over again and can't quite attach it to my own actions. Did I really break a window?"
+> **原句 9:**"I hear the sound of breaking glass all over again and can't quite attach it to my own actions. Did I really break a window? I have to look down at my hands to convince myself I did. Concrete evidence, like Denby and Christenson demand."
 
 **中文理解**："我再次听到玻璃破碎的声音，却无法将它与自己的行为联系起来。我真的打破了窗户吗？"
 
@@ -145,7 +142,7 @@ Judith 试图解释她为何确信自己听到了 Rosie：
 
 ### 8. 提议报警：无效的出口
 
-> "Maybe we should go to the station now and show them my hands. Tell them he did this to me. Do you think they'd finally do something then?"
+> **原句 10:**"Maybe we should go to the station now and show them my hands. Tell them he did this to me. Do you think they'd finally do something then?"
 
 **中文理解**："也许我们现在应该去警局，给他们看我的手。告诉他们是他弄伤我的。你觉得他们终于会做点什么吗？"
 
@@ -157,7 +154,7 @@ Judith 试图解释她为何确信自己听到了 Rosie：
 
 ### 9. 结尾： wounded hands to his face
 
-> "I reach my wounded hands to his face and bring it to mine."
+> **原句 11:**"I reach my wounded hands to his face and bring it to mine."
 
 **中文理解**："我伸出受伤的手去触碰他的脸，然后把它拉向我。"
 
@@ -177,7 +174,7 @@ Judith 试图解释她为何确信自己听到了 Rosie：
 
 ## 写作技巧
 
-- **镜像对话**："I can't lose you"这句话 Judith 曾对 Tom 说，现在 Tom 用几乎相同的话回来说——这种语言的回环暗示了两人之间照顾与被照顾的角色交换
+- **镜像对话**："I can’t lose you"这句话 Judith 曾对 Tom 说，现在 Tom 用几乎相同的话回来说——这种语言的回环暗示了两人之间照顾与被照顾的角色交换
 - **身体证据的强调**："Concrete evidence, like Denby and Christenson demand"——这是 Judith 与现实保持连接的独特方式，需要身体证据才能确认自己的行为
 - **Tom 的笑声作为不安信号**：cheek twitches + nervous laugh = Tom 不相信 Judith 的"那个男人"理论，但选择不直接反驳
 - **刀的象征**：从护身符到被揭露的弱点——她以为刀能给她力量，但 Tom 的质问暴露了这把刀在真实攻击中的无效性

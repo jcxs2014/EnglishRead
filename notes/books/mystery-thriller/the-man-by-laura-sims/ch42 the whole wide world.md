@@ -27,6 +27,11 @@ Paul 登门拜访 Tom，试图说服他让自己负责出版亡妻 Judith 的摄
 
 开篇即插入大段背景：Tom 发现了 Judith 的尸体，而警方曾怀疑 Tom 本人就是凶手。Paul 的"同情"建立在他事后才听说 stalker 存在的后见之明上——这为整场对话的虚伪底色定调。
 
+**关键词：**
+- **her knife**：她的刀——Judith 用来保护自己的刀；Paul 后来才知道它的存在
+- **stalker**：跟踪者——Judith 声称的跟踪者，Paul 死后才听说
+- **police posited**：警方推测——Tom 可能是凶手
+
 ### 2. Tom 的反问：致命的连环问题
 
 > **原句 2:** "Why'd you end class early that night? I've been wondering. Why then? And why weren't you with her? Didn't you two…talk after class? Isn't that when she told you she wanted your help with her pictures?"
@@ -40,17 +45,17 @@ Paul 登门拜访 Tom，试图说服他让自己负责出版亡妻 Judith 的摄
 **为什么这样写**：Tom 一口气抛出四个问题，句句指向 Paul 最想掩盖的事实：那天晚上 Judith 究竟告诉了他什么。Paul 的回答是精心编织的谎言——"我不舒服提前下课"、"Judith 给我看了她的照片并希望出版"、"我很激动"。但 Tom 的眼睛"newly bright"说明他在认真听，Paul 的每句话都在被审视。
 
 
-**关键词：**
-- (关键词待补充)
 ### 3. "What's in it for you?"
 
 > **原句 3:** What's in it for Paul? Well, all the things he's imagined in the weeks since recovering from the shock of Judith's death, some of which may be purely fantastical, none of which he'd say aloud, and all of which make him slightly queasy to acknowledge—even to himself: a warm and hitherto unimaginable welcome from the art world; the padding of his wallet with crisp new bills; and the jolt it might give his own photography career, such as it is, to be the spokesman for Judith's work.
 
 全章最关键的一段内心独白。三重动机被逐一揭露：艺术界的接纳、金钱、以及借他人之名振兴自己的摄影事业。"slightly queasy to acknowledge—even to himself"说明 Paul 清醒地知道自己在做什么，只是绝不可能承认。
 
-
 **关键词：**
-- (关键词待补充)
+- **purely fantastical**：纯粹幻想——Paul 的动机清单
+- **slightly queasy to acknowledge**：承认起来有点恶心——Paul 对自己动机的清醒认知
+- **the jolt it might give his own photography career**：对自己摄影事业的刺激——借他人之名振兴自己
+
 ### 4. 被逐出门
 
 > **原句 4:** "You want money. That's what's in it for you. Got it. You can go now."
@@ -69,9 +74,11 @@ Paul 登门拜访 Tom，试图说服他让自己负责出版亡妻 Judith 的摄
 
 "ugly idea blossoms"——丑陋的念头在心中绽放。"He'd have them all to himself then"与前面"To everyone. To the whole wide world"形成尖锐对立。Paul 知道自己不会真的这么做（"Paul won't do it, of course"），但这个念头的出现本身已经说明问题。
 
-
 **关键词：**
-- (关键词待补充)
+- **ugly idea blossoms**：丑陋念头绽放——Paul 的黑暗面
+- **crowbar**：撬棍——入室盗窃的工具
+- **He wouldn't be able to publish them**：他不能出版它们——占有欲与现实限制
+
 ## 心理层次
 
 | 层次 | 内容 |

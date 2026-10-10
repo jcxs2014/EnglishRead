@@ -74,7 +74,7 @@
 
 ### 精读块 4：酒吧与地铁
 
-> **原句 4:** "Instead of heading home, he ducks into a bar in Chelsea and stays until midnight. He thinks he may have gone home with one particular pretty girl, but she says she has plans and slides him her number for a "rain check." Once he finally leaves the dim, cozy glow of the bar and finds himself back on the street, alone and wobbling drunkenly, the unwanted phrase pops into his head and repeats, repeats:
+> **原句 4:** "Instead of heading home, he ducks into a bar in Chelsea and stays until midnight. He thinks he might go home with one particular pretty girl, but she says she has plans and slides him her number for a "rain check." Once he finally leaves the dim, cozy glow of the bar and finds himself back on the street, alone and wobbling drunkenly, the unwanted phrase pops into his head and repeats, repeats:
 >
 > FUCKING PARASITE
 >

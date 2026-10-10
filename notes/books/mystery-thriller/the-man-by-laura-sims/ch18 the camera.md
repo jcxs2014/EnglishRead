@@ -45,7 +45,7 @@ Judith 在 contact sheet 上发现那个男人——他小到要用 loupe 才能
 
 电话响起，Judith 持刀接听。"Stanley residence"——沉默，然后是那熟悉的浅呼吸声：
 
-> "There is nothing but silence—and then the slow, shallow breathing I heard the other day. I can almost feel the small wind of it in my ear."
+> "There's nothing but silence—and then the slow, shallow breathing I heard the other day. I can almost feel the small wind of it in my ear."
 
 **中文理解**：什么都没有，只有沉默——然后是那天我听到的缓慢、浅薄的呼吸声。我几乎能感觉到它在我耳边的微弱风声。
 

@@ -19,7 +19,7 @@
 
 ### 精读块 1：等待与注视
 
-> When Paul ends class, the students around me pack up their belongings and leave—except for three young women I call "the fangirls" who spend the lecture tossing their hair or smoothing it in place, crossing and uncrossing their long, stockinged legs. They turn their heads in unison to track Paul's movements as he walks and talks. I envy them their fresh young beauty, but none of it has earned them anything near the attention Paul has gladly given me.
+> **原句 1:** When Paul ends class, the students around me pack up their belongings and leave—except for three young women I call "the fangirls" who spend the lecture tossing their hair or smoothing it in place, crossing and uncrossing their long, stockinged legs. They turn their heads in unison to track Paul's movements as he walks and talks. I envy them their fresh young beauty, but none of it has earned them anything near the attention Paul has gladly given me.
 
 **中文理解**：Paul 下课后，周围的学生都在收拾东西离开——除了三个我称为"粉丝女孩"的年轻女生，她们整节课都在甩头发或整理头发，反复交叉又分开穿着长筒袜的双腿。她们整齐划一地转头追踪 Paul 在教室里边走边说的身影。我羡慕她们年轻貌美，但这一切丝毫没有为她们换来 Paul 心甘情愿给予我的那种关注。
 
@@ -28,11 +28,18 @@
 
 **为什么这样写**：开篇通过"粉丝女孩"与 Judith 的对比，建立 Judith 的自我定位：她不是靠外貌吸引注意，而是靠作品。这种对比为后文 Paul 对她照片的赞赏埋下伏笔——她期待的是专业认可，而非调情。同时"track"这个词带有不健康的执念感，暗示 Judith 对被关注的渴望本身可能是一种创伤的反映。
 
+**关键词：**
+- **the fangirls**：粉丝女孩——三个年轻女生的贬称，暗示 Judith 的不屑与自信
+- **pack up their belongings**：收拾东西离开——其他学生的正常反应
+- **tossing their hair or smoothing it in place**：甩头发或整理头发——刻意做作的姿态
+- **track Paul's movements**：追踪 Paul 的身影——不健康的执念
+- **earned them anything near the attention**：换来关注—— Judith 的自信来源
+
 ---
 
 ### 精读块 2：阴影无处不在
 
-> As I stand beside him, trying to see them through his eyes, I notice how I've emphasized the shadowy corners of Samantha's living room, the shadows beneath Janet's eyes, her wide-open, shadowy mouth—the shadows everywhere on this so-called joyous occasion.
+> **原句 2:** As I stand beside him, trying to see them through his eyes, I notice how I've emphasized the shadowy corners of Samantha's living room, the shadows beneath Janet's eyes, her wide-open, shadowy mouth—the shadows everywhere on this so-called joyous occasion.
 
 **中文理解**：当我站在 Paul 身旁，试图通过他的眼光来看这些照片时，我注意到我是如何强调了 Samantha 客厅里的阴暗角落、Janet 眼下的阴影、她大张的、充满阴影的嘴——在这个所谓的欢乐场合里，阴影无处不在。
 
@@ -40,11 +47,16 @@
 
 **为什么这样写**：Judith 通过照片向 Paul 展示的其实是她自己看到的东西——阴影。Paul 的专业认可让 Judith 意识到：她拍的不是派对的欢乐，而是创伤的投射。"the so-called joyous occasion" 是 Judith 对"正常"社会交往的持续怀疑——她无法相信表面文章，总能看到（并拍下）裂缝。
 
+**关键词：**
+- **shadowy corners**：阴暗角落——Judith 镜头捕捉的主题
+- **the shadows beneath Janet's eyes**：Janet 眼下的阴影——派对参与者的真实状态
+- **so-called joyous occasion**：所谓的欢乐场合——Judith 的讽刺视角
+
 ---
 
 ### 精读块 3：无法抹去的记忆
 
-> Shadows in the bedroom, too. That ugly coupling. I fight to bring my focus back to Paul and the pictures in his hand. Not the pictures I didn't, couldn't, take that night. The ones I can't erase from my mind. If I'd managed to capture the man and woman on film, maybe I'd be able to move on and forget them. But they linger, indelible and grossly alive.
+> **原句 3:** Shadows in the bedroom, too. That ugly coupling. I fight to bring my focus back to Paul and the pictures in his hand. Not the pictures I didn't, couldn't, take that night. The ones I can't erase from my mind. If I'd managed to capture the man and woman on film, maybe I'd be able to move on and forget them. But they linger, indelible and grossly alive.
 
 **中文理解**：卧室里也有阴影。那场丑陋的交合。我努力把注意力拉回 Paul 和他手里的照片。不是那些我没能拍到、不敢拍到的东西。而是我脑海中无法抹去的那些画面。如果那天晚上我成功把他们拍下来了，也许我就能继续前行、忘掉他们。但它们挥之不去，刻骨铭心而且异常鲜活。
 
@@ -52,11 +64,18 @@
 
 **为什么这样写**：这段是 Judith 内心冲突的核心自白。她相信摄影是控制工具（Paul 的"艺术是刀片"理论），但她真正无法控制的是脑海中的影像——那些"没能拍到"的画面。她的创伤不是来自照片，而是来自记忆；她对摄影的执念是想通过重新拍摄来覆盖创伤记忆，但这一努力在本章宣告失败。
 
+**关键词：**
+- **That ugly coupling**：那场丑陋的交合——无法抹去的画面
+- **fight to bring my focus back**：努力把注意力拉回——与创伤的抗争
+- **the ones I can't erase from my mind**：无法抹去的记忆——核心创伤
+- **If I'd managed to capture**：如果我成功拍到——虚拟语气下的自我欺骗
+- **linger, indelible and grossly alive**：挥之不去，刻骨铭心——创伤的持久性
+
 ---
 
 ### 精读块 4：专业认可
 
-> "Man, Judith, these are fantastic," Paul says. He says it quietly, but it startles me from my dark reverie. His eyes are glued to the photograph of Janet with her head thrown back, mouth gaping. I'm so pleased by his comment that I start to babble.
+> **原句 4:** "Man, Judith, these are fantastic," Paul says. He says it quietly, but it startles me from my dark reverie. His eyes are glued to the photograph of Janet with her head thrown back, mouth gaping. I'm so pleased by his comment that I start to babble.
 
 **中文理解**："天哪，Judith，这些太棒了。"Paul 轻声说，但这把我从黑暗的出神中惊醒。他的眼睛紧盯着 Janet 那张照片——她头向后仰，嘴大张着。因为他的话太让我高兴了，我开始喋喋不休。
 
@@ -64,11 +83,17 @@
 
 **为什么这样写**：Paul 的认可对 Judith 而言是重要的——她渴望被看到、被确认。但"startle"这个词揭示了她的脆弱状态：她一直在"黑暗的出神"中，不是真正在场。babble 是她过度依赖外部认可的表现，也是她在亲密关系中（与 Tom、与 Paul）缺乏安全感的反映。
 
+**关键词：**
+- **Man, Judith, these are fantastic**："天哪，Judith，这些太棒了"——Paul 的惊叹
+- **startles me from my dark reverie**：从黑暗的出神中惊醒——脆弱的精神状态
+- **eyes are glued to the photograph**：眼睛紧盯着照片——Paul 的专注
+- **so pleased by his comment that I start to babble**：太高兴而开始喋喋不休——过度依赖外部认可
+
 ---
 
 ### 精读块 5：被看见的恐惧
 
-> As Paul nears the self-portrait, the picture I most wanted to share, I start to panic. I wanted to see if he would notice the small figure in the background, but now I'm overwhelmed by the opposite desire: to not know, to not share, to not submit the picture to Paul's searching gaze. I reach out and grab all the photographs from his hands.
+> **原句 5:** As Paul nears the self-portrait, the picture I most wanted to share, I start to panic. I wanted to see if he would notice the small figure in the background, but now I'm overwhelmed by the opposite desire: to not know, to not share, to not submit the picture to Paul's searching gaze. I reach out and grab all the photographs from his hands.
 
 **中文理解**：当 Paul 快要翻到那张自画像——我最想分享的照片——我开始恐慌。我本想看看他会不会注意到背景里那个小小的身影，但现在我被相反的渴望淹没：不想知道、不想分享、不想把这张照片提交给 Paul 审视的目光。我伸手从他手里抢过所有照片。
 
@@ -76,11 +101,18 @@
 
 **为什么这样写**：这是全章最关键的心理转折。Judith 来找 Paul 是为了分享，但当分享即将发生时，她退缩了。那个"小小的身影"是她的创伤符号——如果 Paul 看到了并追问，她将被迫重新面对那段记忆。她的"抢回照片"是防御性的肢体动作，与她之前渴望被认可形成尖锐冲突。
 
+**关键词：**
+- **the picture I most wanted to share**：我最想分享的照片——自拍照中的创伤符号
+- **start to panic**：开始恐慌——关键心理转折
+- **the opposite desire**：相反的渴望——不想知道、不想分享
+- **submit to Paul's searching gaze**：提交给 Paul 审视的目光——被迫面对创伤
+- **grab all the photographs**：抢过所有照片——防御性肢体动作
+
 ---
 
 ### 精读块 6：渴望认可与恐惧暴露
 
-> Paul runs his hand through his thick, nearly shoulder-length hair—something he does often during class—and keeps flipping through the pictures. He praises the one of Hal grimacing at Samantha's kiss, and pauses at the photograph of Tom, too. I stop breathing for a moment.
+> **原句 6:** Paul runs his hand through his thick, nearly shoulder-length hair—something he does often during class—and keeps flipping through the pictures. He praises the one of Hal grimacing at Samantha's kiss, and pauses at the photograph of Tom, too. I stop breathing for a moment.
 
 **中文理解**：Paul 用手拢了拢他厚厚的、几乎及肩的头发——这是他在课上常做的动作——继续翻看照片。他称赞了 Hal 在 Samantha 亲吻时做鬼脸的那张，也在 Tom 的照片前停顿了一下。我停止了呼吸。
 
@@ -88,11 +120,17 @@
 
 **为什么这样写**：Paul 看到 Tom 的照片时，Judith 停止了呼吸——她害怕 Paul 对 Tom 的评价。果然，Paul 随后说 Tom "looks like the guy who makes jokes at parties to please everyone"。Judith 虽然"nod along, smiling"，但内心知道这是对 Tom 的贬低，她用 Tom 的被贬低换来了 Paul 对自己作品的认可——这是 Judith 内在的冲突：她需要被认可，但这种认可是以牺牲她最亲密的人为代价的。
 
+**关键词：**
+- **runs his hand through his thick, nearly shoulder-length hair**：拢了拢厚厚的头发——Paul 的习惯性动作
+- **keeps flipping through the pictures**：继续翻看照片——持续的关注
+- **pauses at the photograph of Tom**：在 Tom 的照片前停顿——触发 Judith 的紧张
+- **I stop breathing for a moment**：我停止了呼吸——身体恐惧反应
+
 ---
 
 ### 精读块 7：职业认可 vs. 内心恐惧
 
-> **原句 1:** It isn't kindness," he says. "I've never offered to help a student with publication before. I never expected to. But believe me when I say these are extraordinary. I'd be honored to help you send them out. I think they'd find a great home. They deserve to find a great home."
+> **原句 7:** It isn't kindness," he says. "I've never offered to help a student with publication before. I never expected to. But believe me when I say these are extraordinary. I'd be honored to help you send them out. I think they'd find a great home. They deserve to find a great home."
 
 **中文理解**："这不是善意，"他说。"我从未主动提出过帮学生发表作品。我从未想过要这样做。但相信我，这些真的很非凡。我很荣幸能帮你投出去。我认为它们会找到很好的归宿。它们值得找到一个很好的归宿。"
 
@@ -110,7 +148,7 @@
 
 ### 精读块 8：Tom 的贬值与认可的代价
 
-> **原句 2:** "This one—he looks like the guy who makes jokes at parties to please everyone." I cringe inwardly at the delight in Paul's eyes but nod along, smiling, having earned my ounce of approval at Tom's expense.
+> **原句 8:** "This one—he looks like the guy who makes jokes at parties to please everyone." I cringe inwardly at the delight in Paul's eyes but nod along, smiling, having earned my ounce of approval at Tom's expense.
 
 **中文理解**："这张——他看起来像那种在派对上讲笑话来取悦所有人的人。"我在心里对 Paul 眼中的快乐感到不适，但仍然点头、微笑——以 Tom 的被贬低为代价换来了我的一点点认可。Judith 用 Tom 的形象换取了 Paul 的赞许，这是一个无声的交易。
 
@@ -133,11 +171,18 @@
 
 **为什么这样写**：这是 Judith 心理的核心矛盾：她渴望被认可，但又恐惧被看穿。"I never want strangers' eyes on me again" 中的 "again" 将创伤背景与当下处境连接——被陌生人审视唤起了她被袭击时的无力感。她无法向 Paul 解释，因为解释需要袒露创伤，而袒露创伤意味着失去控制。"to me it's the same" 揭示了她对摄影的本质理解：照片是她自我的延伸，被审视照片就是被审视内心。
 
+**关键词：**
+- **Extraordinary, he said**：非凡，他说——内心重复强化 Paul 的评价
+- **can't sway me**：无法动摇我——外部认可无法改变内心
+- **strangers' eyes on me again**：陌生人的眼睛再次盯着我——"again"连接创伤背景
+- **searching me, prying me open**：审视我，把我撬开——三个平行动词强调拒绝程度
+- **to me it's the same**：对我来说那是一回事——被看照片 = 被看穿
+
 ---
 
 ### 精读块 10：结尾的轻快
 
-> **原句 3:** Judith," Paul calls before the door swings shut behind me. "I hope you'll bring some new pictures next week."
+> **原句 9:** Judith," Paul calls before the door swings shut behind me. "I hope you'll bring some new pictures next week."
 
 > Everything shifts. I leave the room feeling buoyant and light.
 
@@ -146,12 +191,6 @@
 一切都在改变。我离开房间时感到轻快和轻松。
 
 **句子结构**：对话与叙述的简短交替。"Everything shifts." 是全章最精简的句子，两个词，却承载了情绪的剧变。"I leave the room feeling buoyant and light." 是具体的身体感觉。
-
-**关键词：**
-- **before the door swings shut behind me**：门在我身后关上之前——时间的紧迫感
-- **I hope you'll bring some new pictures next week**：Paul 的邀请，暗示他真的想继续看到她的作品
-- **Everything shifts**：一切都在改变——情绪转折点
-- **buoyant and light**：轻快的和轻松的——与开篇 Judith 在暗房中的恍惚形成对比
 
 **为什么这样写**：结尾的"buoyant and light"与开篇 Judith 在暗房中的"contented trance"形成对照——Paul 的关注暂时缓解了她的创伤焦虑，但她自己也知道这只是暂时的。"Everything shifts"暗示她内心的矛盾并未解决，只是被新的情感（被关注的愉悦）暂时覆盖。这与 ch07 章末"If only I believed that sleep would change what I've seen"形成呼应——她仍在寻找逃避创伤的出口，而此刻这个出口是 Paul 的认可。
 

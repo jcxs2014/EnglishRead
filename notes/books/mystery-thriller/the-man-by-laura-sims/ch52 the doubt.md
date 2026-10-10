@@ -21,7 +21,7 @@
 
 ### 精读块 1：紧张与伪装
 
-> **原句 3:** Thursday afternoon, Paul stands on Tom's doorstep with a pit in his stomach; will Tom ruin all his beautiful hard work? All the hours he's spent culling the best twenty prints—an impossible job—from the wealth of Judith's photographic archive? He could, Paul knows, but he tells himself he won't let him and grips the portfolio handle tightly, as if to keep Tom from snatching it. When the door swings open, Paul puts on a smile and simulates an air of relaxed confidence.
+> **原句 1:** Thursday afternoon, Paul stands on Tom's doorstep with a pit in his stomach; will Tom ruin all his beautiful hard work? All the hours he's spent culling the best twenty prints—an impossible job—from the wealth of Judith's photographic archive? He could, Paul knows, but he tells himself he won't let him and grips the portfolio handle tightly, as if to keep Tom from snatching it. When the door swings open, Paul puts on a smile and simulates an air of relaxed confidence.
 
 **中文理解**：周四下午，Paul 站在 Tom 家门口，胃里像坠了一块石头；Tom 会毁掉他所有漂亮的努力工作吗？他从 Judith 海量的摄影档案中精挑细选出的二十张最好的照片——这是一项不可能完成的任务——花费了他多少时间？他知道 Tom 能做到，但他告诉自己不会让他得逞，并且紧紧握住作品集的手柄，仿佛要阻止 Tom 抢走它。门开了，Paul 露出微笑，装出一副轻松自信的样子。
 
@@ -52,7 +52,7 @@
 
 ### 精读块 3：认知的鸿沟
 
-> **原句 1:** I don't know if Judith would want that one out in the world, then, if it's saying all that." Paul has to scramble now, kicking himself, to steer Tom in the right direction. "I understand your hesitation, Tom, I really do. But I think we need this one. It really shows her prowess for composition."
+> **原句 2:** I don't know if Judith would want that one out in the world, then, if it's saying all that." Paul has to scramble now, kicking himself, to steer Tom in the right direction. "I understand your hesitation, Tom, I really do. But I think we need this one. It really shows her prowess for composition."
 
 **中文理解**："如果那张照片真的在说那些（关于她父亲的），我不知道 Judith 会不会想让它面世。"Paul 不得不慌乱地补救，一边自责，一边引导 Tom 朝正确的方向走。"我理解你的犹豫，Tom，真的。但我认为我们需要这张。它真的展示了她的构图能力。"
 
@@ -81,7 +81,7 @@
 
 ### 精读块 5：真相大白
 
-> **原句 2:** I don't think the magazine is going to want them, though," Tom says, breaking through the uproar in Paul's mind. "I mean, I know you're an expert, but Judith was a housewife. A mother. She raised her kids and cooked dinner. She didn't have any art credentials or anything. She didn't have any fancy connections."
+> **原句 3:** I don't think the magazine is going to want them, though," Tom says, breaking through the uproar in Paul's mind. "I mean, I know you're an expert, but Judith was a housewife. A mother. She raised her kids and cooked dinner. She didn't have any art credentials or anything. She didn't have any fancy connections."
 
 **中文理解**："不过，我觉得那本杂志不会想要它们的，"Tom 说，打断了 Paul 脑中的喧嚣。"我是说，我知道你是专家，但 Judith 是个家庭主妇。一个母亲。她带孩子、做饭。她没有任何艺术资质什么的。她也没有任何高级的人脉。"
 

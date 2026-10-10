@@ -23,13 +23,13 @@ POV: "Paul Sorenson (first person)"
 
 **中文理解**：在家里，在淋浴中完成了一次庆祝性的自慰——还在回味 Charlie 扭曲面孔的模样——Paul 用毛巾擦干，站在客厅中央，赤身裸体着随着查尔斯·明格斯（爵士乐）的广播轻轻摇晃。
 
-**句子结构**：开篇即高峰——"celebratory jerk-off"和"still relishing the sight of Charlie's twisted face"是 Paul's 的 Sadistic 快感的高峰。
+**句子结构**：开篇即高峰——"celebratory jerk-off"和"still relishing the sight of Charlie's twisted face"是 Paul’s 的 Sadistic 快感的高峰。
 
 **关键词：**
 - **celebratory jerk-off**：庆祝性的自慰——Paul 把跟踪骚扰当作胜利来庆祝
 - **still relishing**：还在回味——Charlie 的恐惧是他性快感的来源
 
-**为什么这样写**：Paul 在第三晚的跟踪后回家"庆祝"——他的快感来源是 Charlie 的扭曲面孔。这是性虐心理的最终形态：她的痛苦是他的快乐。Charles Mingus 的爵士乐是 Paul's 的"胜利之歌"。
+**为什么这样写**：Paul 在第三晚的跟踪后回家"庆祝"——他的快感来源是 Charlie 的扭曲面孔。这是性虐心理的最终形态：她的痛苦是他的快乐。Charles Mingus 的爵士乐是 Paul’s 的"胜利之歌"。
 
 ---
 
@@ -39,22 +39,22 @@ POV: "Paul Sorenson (first person)"
 
 **中文理解**："敬 Charlie！"他喊道。"敬我这个该死的自己！"最后一个："敬 Judith！"
 
-**句子结构**：三个 toasts 是 Paul's 的三重奏：受害者（Charlie）、自我（他的攻击性）、被利用者（Judith）。
+**句子结构**：三个 toasts 是 Paul’s 的三重奏：受害者（Charlie）、自我（他的攻击性）、被利用者（Judith）。
 
 **关键词：**
 - **To my-goddamn-self**：敬我这个该死的自己——Paul 的自我庆祝，包含了自我厌恶
 
-**为什么这样写**：三个 toast 是 Paul's 的心理完成：敬 Charlie 是胜利宣言，敬自己是他的自我崇拜，敬 Judith 是他对她死亡的最后利用——她已经成为他成名的工具。
+**为什么这样写**：三个 toast 是 Paul’s 的心理完成：敬 Charlie 是胜利宣言，敬自己是他的自我崇拜，敬 Judith 是他对她死亡的最后利用——她已经成为他成名的工具。
 
 ---
 
 ### 精读块 3：第二次怀疑
 
-> **原句 3:** He begins to see the night differently, to doubt what he's done—or hasn't done. He really didn't do much, did he? All he did was cough, without even emerging from his hiding place."
+> **原句 3:** He begins to see the night differently, to doubt what he’s done—or hasn't done. He really didn't do much, did he? All he did was cough, without even emerging from his hiding place."
 
 **中文理解**：他开始以不同的方式看待那一夜，怀疑他所做的——或者没做的。他真的做了很多吗？他所做的只是咳嗽，甚至没有从躲藏处出来。
 
-**句子结构**：这是 Paul's 的第二次"事后诸葛亮"——他在回想第二晚的行为，并质疑它的有效性。
+**句子结构**：这是 Paul’s 的第二次"事后诸葛亮"——他在回想第二晚的行为，并质疑它的有效性。
 
 **关键词：**
 - **or hasn't done**：或者没做的——Paul 的自我怀疑
@@ -65,11 +65,11 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 4：第三次——物理接触
 
-> **原句 4:** As soon as she turns, he's on her. He catches her by the shoulders and pulls her back, screaming, clamping a hand over her mouth and an arm around her neck."
+> **原句 4:** As soon as she turns, he’s on her. He catches her by the shoulders and pulls her back, screaming, clamping a hand over her mouth and an arm around her neck."
 
 **中文理解**：她一转身，他就扑上去。他抓住她的肩膀，把她拉回来，尖叫着，一手捂住她的嘴，一手绕住她的脖子。
 
-**句子结构**：三个动作的快速并列——这是 Paul's 的最终行动：从远程（咳嗽）到物理接触。
+**句子结构**：三个动作的快速并列——这是 Paul’s 的最终行动：从远程（咳嗽）到物理接触。
 
 **关键词：**
 - **catches her by the shoulders**：抓住肩膀——物理攻击的开始
@@ -81,7 +81,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 5：勃起
 
-> **原句 5:** Instead, he pins her against him so she can feel his erection and wallow in a moment of paralyzing fear."
+> **原句 5:** Instead, he pins her against him so she can feel his erection and wallow in a moment of paralyzing fear.
 
 **中文理解**：相反，他把她的身体贴在自己身上，让她能感受到他的勃起，在瘫痪性的恐惧中挣扎。
 
@@ -91,29 +91,30 @@ POV: "Paul Sorenson (first person)"
 - **his erection**：他的勃起——性暴力与身体暴力的融合
 - **wallow in a moment of paralyzing fear**：在瘫痪性的恐惧中挣扎——Paul 强迫 Charlie 体验他的性欲
 
-**为什么这样写**：这是 Paul's 的性虐心理的终极形态：他不只是要伤害 Charlie，他要她在他的身体反应中体验恐惧。他的勃起是对她的攻击性的直接身体表达。
+**为什么这样写**：这是 Paul’s 的性虐心理的终极形态：他不只是要伤害 Charlie，他要她在他的身体反应中体验恐惧。他的勃起是对她的攻击性的直接身体表达。
 
 ---
 
 ### 精读块 6：刀伤
 
-> **原句 6:** Her hands flail up at him somehow, and something sharp comes slashing at his arms. A knife. He sees the blood darken his shirtsleeves before he feels any pain."
+> **原句 6:** But before he can, her hands flail up at him somehow, and something sharp comes slashing at his arms. A knife. He sees the blood darken his shirtsleeves before he feels any pain. But when the pain comes, it's searing. He groans and loosens his hold. Charlie twists out of his arms, stumbles forward, and grabs for the door.
 
-**中文理解**：但在他能松手让她走之前，她的双手不知怎的向他胡乱抓来，有什么尖锐的东西划破了他的手臂。一把刀。他看到血渗透了他的衬衫袖口，然后才感觉到疼痛。
+**中文理解**：但在他能松手让她走之前，她的双手不知怎的向他胡乱抓来，有什么尖锐的东西划破了他的手臂。一把刀。他看到血渗透了他的衬衫袖口，然后才感觉到疼痛。但当疼痛传来时，是撕裂般的。他呻吟着松开了手。Charlie 从他的手臂中扭出，踉跄向前，扑向门口。
 
-**句子结构**：暴力升级的转折点——Charlie 反击了。"before he feels any pain"是 Paul's 的身体与心理的脱节：他的大脑在享受，但身体正在被伤害。
+**句子结构**：暴力升级的转折点——Charlie 反击了。"before he feels any pain"是 Paul 的身体与心理的脱节：他的大脑在享受，但身体正在被伤害。"But when the pain comes, it’s searing"是身体的即时反应，打破了心理上的控制感。
 
 **关键词：**
-- **something sharp comes slashing**：有什么尖锐的东西划过——Paul 不确定是什么武器
+- **something sharp comes slashing**：有什么尖锐的东西划过——Charlie 的自卫武器
 - **the blood darken his shirtsleeves**：血渗透了衬衫——暴力在身体上的印记
+- **Charlie twists out of his arms, stumbles forward, and grabs for the door**：Charlie 的逃脱——她没有被制服，而是抓住了机会逃跑
 
-**为什么这样写**：Charlie 的刀是全书中"受害者反击"的最明确时刻。她不是被动的——她在自卫。"before he feels any pain"说明 Paul's 在攻击中处于心理上的主动，但在身体上他已经失去了控制。
+**为什么这样写**：Charlie 的刀是全书中"受害者反击"的最明确时刻。她不是被动的——她在自卫。"before he feels any pain"说明 Paul 在攻击中处于心理上的主动，但在身体上他已经失去了控制。Charlie 的逃脱打破了 Paul 的控制叙事——他以为自己是猎人，但实际上他也被猎物伤到了。
 
 ---
 
 ### 精读块 7：Paul 的"胜利"
 
-> **原句 7:** He drives off in his ski mask without giving his arms more than a glance. But before he gets on the highway, he pulls over and peels off his mask and shirt to examine the stinging wounds. There are quite a few slash marks, all bleeding profusely, but he doesn't think they're that bad."
+> **原句 7:** He drives off in his ski mask without giving his arms more than a glance. But before he gets on the highway, he pulls over and peels off his mask and shirt to examine the stinging wounds. There are quite a few slash marks, all bleeding profusely, but he doesn't think they’re that bad."
 
 **中文理解**：他开着车离开，滑雪面罩还戴着，对他的手臂只是瞥了一眼。但在 上高速公路之前，他停在路边，脱下面罩和衬衫检查那阵阵刺痛伤口。有相当多的划痕，全都大量出血，但他觉得不那么严重。
 
@@ -129,7 +130,7 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 8："我清理了障碍"
 
-> **原句 8:** He's done it, he's cleared his path of every obstacle at last. He's free now to shine all night at the opening, to step through the doorway to his bright new world."
+> **原句 8:** He's done it, he’s cleared his path of every obstacle at last. He's free now to shine all night at the opening, to step through the doorway to his bright new world."
 
 **中文理解**：他做到了，他终于清理了他路上的每一个障碍。他现在自由了，可以在整个开幕式上闪耀，踏入他光明的新世界的门户。
 
@@ -161,7 +162,7 @@ POV: "Paul Sorenson (first person)"
 
 - **celebratory** /ˈseləbrətɔːri/ adj. 庆祝的 — Paul 把攻击当作胜利
 - **wallow** /ˈwæloʊ/ v. 挣扎；打滚 — 被迫在恐惧中体验
-- **jerk-off** /dʒɜːr k ɒf/ v. 手淫 — Paul's 的性虐庆祝行为
+- **jerk-off** /dʒɜːr k ɒf/ v. 手淫 — Paul’s 的性虐庆祝行为
 
 ---
 

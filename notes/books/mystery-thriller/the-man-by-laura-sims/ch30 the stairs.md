@@ -58,7 +58,6 @@ Paul 说 Judith 的照片"could be hanging in a place like this"，将她的才�
 
 
 **关键词：**
-- (关键词待补充)
 
 "wasted"这个词立即在 Judith 心中触发创伤联想：它与跟踪者说的"selfish fucking bitch"和"rough hand gripping my arm"并列。
 
@@ -72,7 +71,6 @@ Judith 明确拒绝 Paul's 的建议：
 
 
 **关键词：**
-- (关键词待补充)
 
 Paul 的反应迅速升级为攻击：
 

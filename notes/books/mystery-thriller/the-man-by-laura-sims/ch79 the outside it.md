@@ -111,9 +111,15 @@ Judith Stanley 摄影展开幕式达到盛大的高潮，Paul 作为"发现者"�
 
 > **原句 6：** "I didn't kill her! You and everyone know I didn't kill her! The police cleared me! She did it herself! You all know this!" Paul screams, and scans the faces for a single sympathetic soul, but everyone frowns his way—even the ones who smiled and simpered just minutes ago.
 
-**关键词：**
-- (关键词待补充)
+**中文理解**："我没有杀 Judith！你和所有人都知道我没有杀她！警察已经排除了我的嫌疑！是她自己做的！你们都知道！"Paul 尖叫着，扫视着人群寻找一个同情的灵魂，但每个人都在朝他皱眉——即使是那些几分钟前还在微笑和谄媚的人。仅仅几分钟前。当他还是闪亮的明星的时候。
 
+**句子结构**："I didn't kill Judith!"是 Paul's 的最终的核心否认——他所有谎言的根基是 Judith 的死亡。"scans the faces for a single sympathetic soul"是绝望的搜索。"everyone frowns his way"与"the ones who smiled and simpered just minutes ago"形成鲜明对比——这些人在几分钟前还在奉承他。"Precious minutes ago. When he was the shining star."是独立句，强调时间的短暂和身份崩塌的速度。
+
+**为什么这样写**：这是 Paul's 的"第三幕反转"的失败——他试图用"警察已经排除了我的嫌疑"来终结争议，但观众已经不再相信任何官方声音。他们看到了 Charlie 的伤，听到了 Paul's 颤抖的声音，感受到了他的恐惧。"Precious minutes ago. When he was the shining star."是 Sims 式的简洁讽刺——一句话总结了一个帝国的崩塌。
+
+**关键词**：
+- **scans the faces for a single sympathetic soul**：扫视面孔寻找一个同情的灵魂——Paul 最后的希望是找到一个人站在他这边
+- **smiled and simpered**：微笑和谄媚——之前那些人的虚伪
 - **shining star**：闪亮的明星——Paul 对自己身份的认知，现在已经完全崩塌
 
 

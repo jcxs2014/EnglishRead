@@ -27,15 +27,23 @@ Judith 与 Tom 共进晚餐。炖菜温热，灯光柔和，Tom 的陪伴让她�
 
 ### 2. 记忆的隔膜
 
-> I can understand that it happened, but I can no longer feel it.
+> **原句 1:** "I can understand that it happened, but I can no longer feel it."
 
-这是全章的核心句。事件（ravaged face、fake Rosie、torn hands）仍在认知层面可以被理解，但情感上已无法触及——这是一种解离状态下的心理保护机制。"the old Judith"与"the new one"之间隔着情绪的荒漠。
+**关键词**：
+- **I can understand but I can no longer feel**：认知与情感的分离——解离状态下的心理保护机制
+
+**为什么这样写**：这是全章的核心句。事件（ravaged face、fake Rosie、torn hands）仍在认知层面可以被理解，但情感上已无法触及——这是一种解离状态下的心理保护机制。"the old Judith"与"the new one"之间隔着情绪的荒漠。
 
 ### 3. 新的 Judith
 
-> I am the new one, the one basking and serene here, spooning up wholesome food with my bandaged hands.
+> **原句 2:** "I am the new one, the one basking and serene here, spooning up wholesome food with my bandaged hands."
 
-"basking and serene"——沐浴着、宁静地。"新的 Judith"是未被创伤触及的版本，是那个可以正常生活、享受晚餐、与 Tom 相处的版本。包扎的双手是旧 Judith 的痕迹，但她的手正在康复。
+**关键词**：
+- **the new one**：新的 Judith——未被创伤触及的版本，与旧自我割裂
+- **basking and serene**：沐浴着、宁静地——身体彻底放松的状态
+- **bandaged hands**：包扎的双手——旧 Judith 的痕迹，但正在康复
+
+**为什么这样写**："basking and serene"——沐浴着、宁静地。"新的 Judith"是未被创伤触及的版本，是那个可以正常生活、享受晚餐、与 Tom 相处的版本。包扎的双手是旧 Judith 的痕迹，但她的手正在康复。
 
 ### 4. 结尾的平静
 

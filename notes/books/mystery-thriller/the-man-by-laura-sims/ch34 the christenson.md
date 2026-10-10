@@ -71,7 +71,7 @@ Denby 要求更具体的描述，Judith 给出的是极度模糊的信息：
 ### 5. 暴力的幻想：刀与软肋
 
 警察离开后，Judith 独自回味"act quickly"这个词：
-> **原句 3:** I focus on the phrase act quickly, thinking not of police officers rushing to my side, sirens blaring, but of reaching into my purse for the knife and holding the blade to that face I haven't fully seen. The image fills me with a burning satisfaction—a hunger, even—to do it.
+> **原句 2:** I focus on the phrase act quickly, thinking not of police officers rushing to my side, sirens blaring, but of reaching into my purse for the knife and holding the blade to that face I haven't fully seen. The image fills me with a burning satisfaction—a hunger, even—to do it.
 
 她想象的不是警察来救她，而是自己动手——把刀捅向那个她从未看清的脸，在"下颌那个柔软脆弱的位置"。这个幻想带来"burning satisfaction"和"hunger"。
 
@@ -80,7 +80,7 @@ Denby 要求更具体的描述，Judith 给出的是极度模糊的信息：
 ### 6. "Stay home"：监禁的建议
 
 Denby 最后的建议是让她待在家里，不要独自外出：
-> **原句 2:** I don't go out alone, whether it's day or night. Stay home. It's the best way to stay safe. I don't say a word. I just hold his gaze and hope he sees that he's offered us no help, that he's told me to imprison myself so the man can roam free.
+> **原句 3:** "Don't go out alone, whether it's day or night. Stay home. It's the best way to stay safe." I don't say a word. I just hold his gaze and hope he sees that he's offered us no help, that he's told me to imprison myself so the man can roam free.
 
 **中文理解**："不要独自外出，无论白天还是晚上。待在家里。这是保持安全的最佳方式。" Judith 的内心反应是：让她把自己囚禁起来，让跟踪者逍遥法外。
 

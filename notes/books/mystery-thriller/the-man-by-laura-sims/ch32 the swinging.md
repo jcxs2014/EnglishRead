@@ -47,7 +47,7 @@ Judith 躺在浴室镜子前检查伤痕，turns her wrist back and forth, turns
 
 ### 5. 电话里的声音：无处可逃
 
-> **原句 1:** "You have such deep regrets about going today, don't you, Judith? The way I handled you. Marked you, even if you can't see it. I can see it from here."
+> **原句 1:** "You have such deep regrets about going today, don't you, Judith? The way I handled you. Marked you, even if you can't see it. I can see it from here. You're covered in cuts and bruises, from here," he says in a soft, confiding voice.
 
 **中文理解**："你对今天出门一定很后悔吧，Judith？我处理你的方式。给你留下了印记，即使你看不到。我从这里就能看到。"跟踪者用"soft, confiding"——私密的、知心的语调说着最恐怖的话。他声称能给 Judith "留下印记"，并能从远处看到。
 
@@ -75,7 +75,7 @@ crouch（蹲）和 stand（站）的交替，身体在空间中的紧张移动�
 
 ### 8. 真相的揭露：你是自愿的
 
-> **原句 2:** "When I walked through your grandmother's door that day and found you, you were willing. You wanted all of it—the burning, too." Because who would you be today if I hadn't marked you? Not Judith Stanley, right? Who?
+> **原句 2:** “When I walked through your grandmother’s door that day and found you, you were willing. You wanted all of it—the burning, too. Because who would you be today if I hadn’t marked you? Not Judith Stanley, right? Who?”
 
 **中文理解**："那天当我走进你祖母的门找到你时，你是自愿的。你想要这一切——包括灼烧感。因为如果我没有在你身上留下印记，你今天会是谁呢？不是 Judith Stanley，对吧？是谁？"这是本书的核心揭露：那个男人就是多年前闯入祖母家攻击 Judith 的同一个人。"you were willing"是最恶毒的谎言，将强暴重新定义为双方自愿。
 

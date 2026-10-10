@@ -57,7 +57,7 @@ Paul 用"成千上万的读者"自我施压，这本身是典型的冒名顶替�
 
 ---
 
-> **原句 3：** "Lying there, he thinks of Charlie, fleetingly at first, then intently, vengefully: what would she and her little cohort think of him now, writing for Harper’s? Maybe she’d think twice before speaking to him the way she did in class the other night. Or would she? He stews over the question until he’s furious and then his mind slips to her full tits in a white sweater, her round ass subtly swaying as she climbs the stairs. He unbuckles his pants, works himself to a full erection, and masturbates to the thought of her insulting him with that pouty mouth as he fuck s her right to breathlessness, silence, and unwilling pleasure."
+> **原句 3：** "Lying there, he thinks of Charlie, fleetingly at first, then intently, vengefully: what would she and her little cohort think of him now, writing for Harper’s? Maybe she’d think twice before speaking to him the way she did in class the other night. Or would she? He stews over the question until he’s furious and then his mind slips to her full tits in a white sweater, her round ass subtly swaying as she climbs the stairs. He unbuckles his pants, works himself to a full erection, and masturbates to the thought of her insulting him with that pouty mouth as he **fucks** her right to breathlessness, silence, and unwilling pleasure."
 
 **中文理解：**
 躺在沙发上，他先是短暂地想到 Charlie，然后越来越专注，带着复仇的意味：她和她的那帮小圈子成员，现在看到他为 Harper's 写作，会怎么想？也许她再也不会用那天在课堂上对他说过的那种语气跟他说话了。是吗？他反复琢磨这个问题，直到怒火中烧，然后思绪滑向她穿着白色毛衣的丰满胸部，爬上楼梯时圆润臀部微微摆动的样子。他解开裤扣，撸动自己直到完全勃起，然后在她那张撅起的嘴对他进行言语羞辱的幻想中达到高潮——他干她，一直干到她喘不过气、沉默、不情愿地享受。
@@ -91,23 +91,6 @@ Charlie 的意象在 Paul 这里是复合的：她代表一种课堂上公开的
 
 **为什么这样写：**
 从"blank, lined page"到"polished until it shines"是完整的写作弧线。Paul 对自己的作品是得意的——"shines bright enough for Marty"中的夸张与第一章 Judith 的自我怀疑形成对比。但这种得意也埋伏着脆弱：他如此需要 Marty 的认可，以至于写完后立刻就想"type it up and send it in"。
-
----
-
-> **原句 5：** "I think of Tom, how he doesn't even know I’m here and how furious he would be if he knew what just happened. Furious at the man, yes, but also furious at me. I’ve been reckless and it makes me regret the recent past."
-
-**中文理解（Judith 视角回响）：**
-我想起 Tom，他根本不知道我在这里，如果他知道刚才发生了什么，他会非常愤怒。是的，他会生那个男人的气，但也会生我的气。我太鲁莽了，这让我对最近的一切感到后悔。
-
-**句子结构：**
-此段引自 Judith 在 ch55 结尾的内心独白（ch56 文本中嵌入的片段）。"Furious at the man, yes, but also furious at me"——"yes"轻微推迟了真正刺痛的部分，即 Tom 也会对她愤怒。这句话的结构是：可预测的愤怒（对骚扰者）+ 被隐藏的愤怒（对她）。"I’ve been reckless"是自我承认的鲁莽，但没有解释为什么。
-
-**关键词：**
-- **doesn't even know I’m here**：根本不知道我在这里——Judith 秘密活动的广度，Tom 对她的生活了解如此之少
-- **reckless**：鲁莽的—— Judith 对自己当日行为（被骚扰后继续留在城市、最后逃离）的自我评价
-
-**为什么这样写（跨章）：**
-这段 Judith 的内心独白被嵌入 Paul 的章节末尾，形成两个叙事线的并置。Paul 在自己的章节末尾达到性高潮（"pulls and grunts until he’s satisfied"），Judith 在她的章节末尾经历被骚扰后的创伤与后悔。两条线索的共同点是：男人（Paul/Judith 的 Tom）都通过某种方式参与了他们的心理状态。"furious at me"揭示 Judith 内心对 Tom 的愤怒预期——不是因为她做错了什么，而是因为她的自主行为本身就会引发他的愤怒。
 
 ---
 

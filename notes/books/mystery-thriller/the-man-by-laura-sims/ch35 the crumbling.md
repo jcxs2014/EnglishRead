@@ -17,7 +17,7 @@ POV: "Judith Stanley (first person)"
 
 ## 精读
 
-> **原句 1：** I stare at our pineapple wallpaper and will it to stand in for fresh air and sunlight on my face. Back when Tom Junior was young, I never noticed my relative confinement. I would go about our housebound mornings feeling productive, fulfilled—unless I've forgotten how those days really were. They locked me up then, too, because the man was somewhere outside—even though he'd walked inside to harm me and could, I knew, return at any time.
+> **原句 1：** "I stare at our pineapple wallpaper and will it to stand in for fresh air and sunlight on my face. Back when Tom Junior was young, I never noticed my relative confinement. I would go about our housebound mornings feeling productive, fulfilled—unless I've forgotten how those days really were. Were they truly so simple, so engaging? I only used my camera as a perfunctory accessory back then, like every other busy mother; now my needed appendage hangs limply from a peg on the darkroom wall, and I slump at the kitchen table one floor above it, staring around, sensing the thinness of the wall between the present and my grandmother's house in those terrible days. They locked me up then, too, because the man was somewhere outside—even though he'd walked inside to harm me and could, I knew, return at any time."
 
 **中文理解：**
 Judith 盯着凤梨图案的墙纸，强迫自己把它想象成脸上的新鲜空气和阳光。回想 Tom Junior 还小的时候，她从未注意到自己其实被相对囚禁着。那些困在家里的早晨，她曾感到充实、有成就感——除非她根本忘记了那些日子真正的样子。当时他们也把我锁起来，因为那个男人就在外面——即使他曾经走进屋里来伤害过我，而且我知道他随时可以再来。
@@ -38,7 +38,7 @@ Judith 盯着凤梨图案的墙纸，强迫自己把它想象成脸上的新鲜�
 
 ---
 
-> **原句 2：** I glimpse autumn's high blue sky through the kitchen window. Branches twitching in a stiff breeze. Red and yellow leaves spinning to the ground. I long to put on my coat and walk briskly through them, my Nikon in hand, so instead I shift to the living room to flip through the latest National Geographic for the second or third time.
+> **原句 2：** I glimpse autumn's high blue sky through the kitchen window. Branches twitching in a stiff breeze. Red and yellow leaves spinning to the ground. I long to put on my coat and walk briskly through them, my Nikon in hand, so instead I shift to the living room to flip through the latest National Geographic for the second or third time, hoping the color-saturated images will sate me. They did the first time, for a while. Now I stare hungrily at things I've never even thought of shooting before: castle ruins, dense jungles, isolated tribes.
 
 **中文理解：**
 Judith 透过厨房窗户瞥见秋日高远的蓝天。树枝在僵风中颤动。红色的和黄色的叶子旋转着落地。她渴望穿上外套、手持 Nikon 轻快地穿行其中——但取而代之，她转到客厅，第二次或第三次翻阅最新的《国家地理》杂志。
@@ -58,7 +58,7 @@ Judith 透过厨房窗户瞥见秋日高远的蓝天。树枝在僵风中颤动�
 
 ---
 
-> **原句 3：** I stare at the photographers' bylines, too, reading what they've written to introduce their portfolios, and feel a flicker of want. Have I been wrong to cling so tightly to privacy? What has privacy won me, anyway? An idea flickers in my mind—of giving Paul what he wants. Would it be so bad? Would Tom care so very much?
+> **原句 3：** I stare at the photographers' bylines, too, reading what they've written to introduce their portfolios, and feel a flicker of want. Have I been wrong to cling so tightly to privacy? What has privacy won me, anyway? The man still found me, ferreted me out, invaded my life—and here I sit, locked at home. An idea flickers in my mind—of giving Paul what he wants. Would it be so bad? Would Tom care so very much?
 
 **中文理解：**
 她还盯着那些摄影师的署名，阅读他们为作品集撰写的介绍文字，感到一丝渴望的悸动。我如此执着于隐私，是不是错了？隐私到底给我带来了什么？一个念头在我心中闪过——把 Paul 想要的东西给他。这有那么糟糕吗？Tom 会那么在意吗？
@@ -78,13 +78,13 @@ Judith 透过厨房窗户瞥见秋日高远的蓝天。树枝在僵风中颤动�
 
 ---
 
-> **原句 4：** I hear the barking of a dog outside, far off but recognizable. When it barks a second time, I'm certain: It's Rosie. Even though she's dead and gone. I know she's dead and gone, I took pictures of her, lifeless on the living room carpet, and watched Tom bury her, but: there it is again. Rosie. I remember my knife then and step back inside, rummage through my purse, and slide the folded blade into my coat pocket. That's when I hear it again—Rosie's distant bark.
+> **原句 4：** “I hear the barking of a dog outside, far off but recognizable. When it barks a second time, I'm certain: It’s Rosie. Even though she’s dead and gone. I know she’s dead and gone, I took pictures of her, lifeless on the living room carpet, and watched Tom bury her, but: there it is again. Rosie. I know her bark like the sound of Tom Junior’s voice: immediately, instinctively, like something carved from my own cells."
 
 **中文理解：**
 我听到外面有狗叫声，远远的但能辨认。第二次叫声响起时，我确定了：是 Rosie。虽然她已经死了，走了。我知道我把她拍了下来——她躺在客厅地毯上，已经没有生命——我还看着 Tom 把她埋了，但是：那声音又出现了。Rosie。我记起我的刀，然后走回屋内，在包里翻找，把折叠刀滑进外套口袋。就在那时我又听到了——Rosie 远远的叫声。
 
 **句子结构：**
-"Even though she's dead and gone"是让步状语从句，但 Judith 立刻自我否定："I know she's dead and gone"（我知道）紧跟"Even though"（虽然），形成矛盾心理。"I took pictures of her, lifeless on the living room carpet"是现在分词短语作伴随状语，描述拍照这一行为。"but: there it is again"是转折，"but"后面用冒号引出强烈感叹。"then"和"That's when"形成时间标记，连接两个动作序列。"rummage through my purse"和"slide the folded blade"是连续动作，强调 Judith 为外出做准备的决心。
+"Even though she’s dead and gone"是让步状语从句，但 Judith 立刻自我否定："I know she’s dead and gone"（我知道）紧跟"Even though"（虽然），形成矛盾心理。"I took pictures of her, lifeless on the living room carpet"是现在分词短语作伴随状语，描述拍照这一行为。"but: there it is again"是转折，"but"后面用冒号引出强烈感叹。"then"和"That's when"形成时间标记，连接两个动作序列。"rummage through my purse"和"slide the folded blade"是连续动作，强调 Judith 为外出做准备的决心。
 
 **关键词：**
 - **recognizable**：可辨认的——暗示 Rosie 的叫声对 Judith 有独特的辨识度
@@ -116,7 +116,11 @@ Rosie 之死在前文已有交代，这里 Judith 出现幻觉性感知——听
 
 ---
 
-> **原句 6：** I don't remember ever seeing it, even on my longer walks with Rosie, but maybe we never turned down this street before. But didn't we turn down every street in the neighborhood? There are only so many. "Rosie?" I call, embarrassed at first, then letting my voice ring out. "Rosie?" Shading my eyes to peer inside, I find a room that looks like a ruin of my own living room: with a long couch and two armchairs, blue carpeting, oval coffee table, antique lamps.
+> **原句 6：** I take deep breaths of the fresh, cold air as I walk the quiet streets, telling myself it’s good that I’m out, telling myself I’m just strolling through the neighborhood, what could be the harm? But the sound of leaves rustling roughly in the wind and the sight of my neighbors’ dark, hooded windows combine to rattle me. I look back over my shoulder again and again—seeing nothing—but I keep hurtling forward toward the sound. Even as I wrap my hand around the knife in my pocket, it comes again. Closer now. I move faster, passing identical, tidy homes and heedlessly following Rosie’s bark until I reach an abandoned-looking house several blocks away. It’s like my own house and every other but with peeling paint, an overgrown lawn, and a rusting car parked in the driveway. I don’t remember ever seeing it, even on my longer walks with Rosie, but maybe we never turned down this street before.
+
+> **原句 6a：** “Rosie?” I call, embarrassed at first, then letting my voice ring out. “Rosie?”
+
+> **原句 6b：** Shading my eyes to peer inside, I find a room that looks like a ruin of my own living room: with a long couch and two armchairs, blue carpeting, oval coffee table, antique lamps.
 
 **中文理解：**
 我不记得曾经见过这房子，即使是和 Rosie 一起走更远的路时。但也许我们以前从未拐进这条街。但是——我们不是把附近的每条街都走遍了吗？只有那么多街道。"Rosie？"我喊了一声，一开始还很尴尬，然后让声音响亮地传开。"Rosie？"我遮住眼睛往里看，发现一个看起来像我家客厅废墟的房间：一张长沙发、两把扶手椅、蓝色地毯、椭圆形茶几、古董灯。
@@ -133,17 +137,19 @@ Rosie 之死在前文已有交代，这里 Judith 出现幻觉性感知——听
 - **ruin**：废墟——暗示毁灭、遗弃、被遗忘
 
 **为什么这样写：**
-这段内心独白揭示 Judith 试图用理性（只有那么多街道，我应该都认识）来对抗眼前的陌生感。但"even on my longer walks with Rosie"暗示 Rosie 死后她的活动范围已经缩小。从尴尬到放开，Judith 完成了一个心理转折：她不再试图用理性抑制非理性行为。"ring out"这个动作本身是一种呼救，也是一种放弃——她把自己完全交给了这个幻觉性的追求。"Rosie?"重复两次，语气逐渐强化，揭示 Judith 正在更深地陷入解离状态。这个房间在结构上与 Judith 客厅相同（"long couch and two armchairs, blue carpeting, oval coffee table"），但处于废弃状态。这是一种镜像投射——这个废弃的空间代表 Judith 自己生活的可能走向：如果威胁真的进入她的生活，她的家也会变成这样。"ruin"这个词呼应"the crumbling"的主题。
+这段内心独白揭示 Judith 试图用理性（只有那么多街道，我应该都认识）来对抗眼前的陌生感。但"even on my longer walks with Rosie"暗示 Rosie 死后她的活动范围已经缩小。从尴尬到放开，Judith 完成了一个心理转折：她不再试图用理性抑制非理性行为。"ring out"这个动作本身是一种呼救，也是一种放弃——她把自己完全交给了这个幻觉性的追求。”Rosie?”重复两次，语气逐渐强化，揭示 Judith 正在更深地陷入解离状态。这个房间在结构上与 Judith 客厅相同（"long couch and two armchairs, blue carpeting, oval coffee table"），但处于废弃状态。这是一种镜像投射——这个废弃的空间代表 Judith 自己生活的可能走向：如果威胁真的进入她的生活，她的家也会变成这样。"ruin"这个词呼应"the crumbling"的主题。
 
 ---
 
-> **原句 7：** "Get out! Get off my property!" a wrinkled, wrecked face with milky blind eyes rears up before me.
+> **原句 7：** I’m pawing at the window frame now, trying to lift it, when a wrinkled, wrecked face with milky blind eyes rears up before me.
+
+> **原句 7a：** Get out! Get off my property!
 
 **中文理解：**
 "滚出去！离开我的房产！"一张布满皱纹、毁坏的脸，带着乳白色的失明眼睛，突然出现在我面前。
 
 **句子结构：**
-直接引语是命令句，"Get out! Get off my property!"是强烈逐客令。"a wrinkled, wrecked face with milky blind eyes"是名词短语作主语，"rears up"是拟人化的动词，暗示突然出现。形容词"wrecked"与"wrinkled"并列，描绘极度衰老的形象。
+直接引语是命令句，”Get out! Get off my property!”是强烈逐客令。"a wrinkled, wrecked face with milky blind eyes"是名词短语作主语，"rears up"是拟人化的动词，暗示突然出现。形容词"wrecked"与"wrinkled"并列，描绘极度衰老的形象。
 
 **关键词：**
 - **wrinkled, wrecked**：布满皱纹的、毁坏的——两种不同程度的损伤叠加
@@ -154,7 +160,7 @@ Rosie 之死在前文已有交代，这里 Judith 出现幻觉性感知——听
 
 ---
 
-> **原句 8：** I never saw her behave like that—but was she ever so distressed, when she was mine? I beat harder on the window; in an instant, the glass shatters. All over the wrinkled face and my Rosie. But when I look at her again, with half of me in the window, hanging over the sill, I freeze. It isn't her. It's a little dog that resembles her, yes—but this dog's ears are less upright, its coat a darker color. It's growling now, and yipping. Ugly. Nothing like my cheerful Rosie—gone, dead, buried in the backyard at home.
+> **原句 8：** I never saw her behave like that—but was she ever so distressed, when she was mine? I beat harder on the window; in an instant, the glass shatters. All over the wrinkled face and my Rosie. I start to scramble over the windowsill, knocking out more glass as the person tries to push me back. The awful face bleeding now. "Rosie!" I shout, expecting her to come. But when I look at her again, with half of me in the window, hanging over the sill, I freeze. It isn't her. It's a little dog that resembles her, yes—but this dog's ears are less upright, its coat a darker color. It's growling now, and yipping. Ugly. Nothing like my cheerful Rosie—gone, dead, buried in the backyard at home. Of course. It can’t be her. I knew it couldn't be her.
 
 **中文理解：**
 我从没见过她那样——但当她属于我的时候，她有没有这么痛苦过？我更用力地敲窗户；瞬间，玻璃碎了。碎在那个布满皱纹的脸上，也碎在我的 Rosie 身上。但当我再次看她时，我已经半个身子进了窗户、悬在窗台上，我僵住了。那不是她。是一只像她的小狗，没错——但这只狗的耳朵没那么竖立，毛色更深。它现在在咆哮，在尖叫。丑陋。完全不像我快乐的 Rosie——走了，死了，埋在自家后院。
@@ -196,7 +202,15 @@ Judith 从她的幻觉追求中被弹回现实——她打碎了别人的窗户�
 
 ---
 
-> **原句 10：** "Judith?" I hear behind me. A woman's voice—Patty's. The last person I would hope to see, the person who ogled us from her porch as Tom was carried out. The person who will spread the news from house to house: I saw Judith Stanley disheveled and running, then wiping her bloody hands on the lawn. "It's a good day for cleaning. Hope you have a nice day," I call out. My voice wobbles, but I make it inside the house and lock the door behind me before crumbling apart.
+> **原句 10：** "Judith?" I hear behind me. A woman's voice—Patty's. The last person I would hope to see, the person who ogled us from her porch as Tom was carried out. The person who will spread the news from house to house: I saw Judith Stanley disheveled and running, then wiping her bloody hands on the lawn.
+
+> **原句 10a：** "Patty, hello," I say, hiding my hands behind me.
+
+> **原句 10b：** "Everything all right?" she calls from her porch. Her hair is up in a rag and she's wearing an apron over her housecoat.
+
+> **原句 10c：** "I’m fine! Just getting some fresh air. You cleaning the house?" She nods but I can see her scanning me, looking for signs of disarray, noting that my hands are out of sight. Can she see the bloodstains on my coat from there? I turn and start walking toward my house, moving my hands to the front as I go.
+
+> **原句 10d：** "It’s a good day for cleaning. Hope you have a nice day," I call out. My voice wobbles, but I make it inside the house and lock the door behind me before crumbling apart.
 
 **中文理解：**
 "Judith？"我听到身后有人喊。一个女人的声音——Patty 的。最不愿意看到的人，就是那个在 Tom 被抬出去时从自家门廊盯着我们看的人。那个会挨家挨户传播消息的人：我看见 Judith Stanley 衣冠不整地奔跑，然后把血淋淋的手在草坪上擦。"适合打扫的好天气。祝你今天愉快，"我喊回去。我的声音颤抖，但我总算进了屋，在崩溃之前锁上了身后的门。

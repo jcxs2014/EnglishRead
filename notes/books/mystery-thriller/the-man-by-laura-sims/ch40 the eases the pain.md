@@ -25,7 +25,7 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 ### 1. 刀与手帕：犹豫的瞬间
 
-> **原句 1:** I see the knife there, glinting in the bottom like a bright coin, and wipe my face with too much roughness.
+> **原句 1:** Tears burn my eyes as I walk outside. I fumble for a handkerchief in my purse, see the knife there, glinting in the bottom like a bright coin, and wipe my face with too much roughness.
 
 **中文理解**：我看见刀在那里，像闪亮的硬币一样在底部闪烁，然后用过多的粗暴动作擦脸。
 
@@ -39,7 +39,25 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 那个男人从黑暗的角落缓缓现身。Judith 的内心连续蹦出六个指认：
 
-> **原句 2:** When the man steps into a pool of light, I see that it isn't Tom, of course; it's the first man / the man in the blue Buick / the man in the crosswalk / the man on the telephone / the man in the subway car / the man lurking in the back corners of all my self-portraits.
+> **原句 2:** When the man steps into a pool of light, I see that it isn't Tom, of course; it's
+
+
+the first man
+
+
+the man in the blue Buick
+
+
+the man in the crosswalk
+
+
+the man on the telephone
+
+
+the man in the subway car
+
+
+the man lurking in the back corners of all my self-portraits.
 
 **中文理解**：当那个男人走进一片光中，我看清楚那不是 Tom，当然了；那是——第一个男人、蓝色别克里的男人、过人行道时抓住我手臂的男人、打无声电话的男人、地铁里攻击我的男人、潜伏在我所有自画像角落的男人。
 
@@ -83,7 +101,7 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 ---
 
-> **原句 11:** "You shouldn't be here, Judith. You should have stayed home like you were meant to. You should have stayed inside the building. You should have pulled the knife before you stepped outside. I'll wait for you to do it now, if you like."
+> **原句 11:** "You shouldn't be here, Judith. You should have stayed home like you were meant to. You should have stayed inside the building. You should have pulled out the knife before you stepped outside. I'll wait for you to do it now, if you like."
 
 **中文理解**："你不应该在这里，Judith。你应该待在家里，这是你命中注定的。你应该待在楼里。你应该在走出外面之前拔出刀。如果你想的话，我现在可以等你这么做。"
 
@@ -107,7 +125,7 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 ---
 
-> **原句 13:** I step forward and slash at him. He gasps and his awful laughing stops. I can taste his fear like blood in my mouth.
+> **原句 13:** I step forward and slash at him. He gasps and his awful laughing stops. I can't see his mouth but I know his lips have drawn into a tight, serious line. He's afraid now, I can taste his fear like blood in my mouth.
 
 **中文理解**：我向前一步，向他砍去。他倒吸一口气，可怕的笑声停了。我能尝到他的恐惧，像血一样在我嘴里。
 
@@ -131,7 +149,7 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 ### 7. 血的疑问
 
-> **原句 15:** Is it his blood, or mine? / Or both of ours, mixed together?
+> **原句 15:** "Is it his blood, or mine? Or both of ours, mixed together?"
 
 **中文理解**：是他的血还是我的？还是我们两个的，混在一起？
 
@@ -143,7 +161,7 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 ### 8. Paul 的忽视
 
-> **原句 16:** Paul. I open my mouth to yell, but I can only whisper. "Paul," I whisper. But he doesn't hear or see me, far from him at the back of the lot. He walks decidedly to his car, oblivious, and starts it up.
+> **原句 16:** Paul. I open my mouth to yell, but I can only whisper. "Paul," I whisper. "Paul." But he doesn't hear or see me, far from him at the back of the lot. He walks decidedly to his car, oblivious, and starts it up. "Paul!" I scream, my voice finally free. But the noise of his engine swallows it. He drives away, his red taillights blurred by my tears. I'm left alone, waiting for Tom now.
 
 **中文理解**：Paul。我张开嘴想喊，但只能低语。"Paul，"我低语。但他没有听见也没有看见我，他离我太远，在停车场的另一头。他果断地走向他的车，浑然不觉，然后发动了它。
 
@@ -155,7 +173,7 @@ Judith 在学校停车场等待 Tom，却遭遇"那个男人"——那个贯穿�
 
 ### 9. 结尾：黑暗即解脱
 
-> **原句 17:** The lights in the parking lot flicker all at once, then dim. / They grow dimmer. I'm frightened of the dark. / It eases the pain of my stomach and the old pain beneath it and blots out every last painful inch of the world.
+> **原句 17:** The lights in the parking lot flicker all at once, then dim. They grow dimmer. I'm frightened of the dark. I want Tom to come. But there is still so much time before he comes, I think hazily. The lights grow fainter. I stare at them, trying to hold them, but soon enough they're gone. I feel a shiver of fear before the darkness surrounds me, cool and soothing. It spills over my face and body. Fills my mouth. It eases the pain of my stomach and the old pain beneath it and blots out every last painful inch of the world.
 
 **中文理解**：停车场的灯光同时闪烁，然后变暗。/ 它们越来越暗。我害怕黑暗。/ 它缓解了我胃里的疼痛和下面旧的疼痛，抹去了世界上最后一丝痛苦的痕迹。
 

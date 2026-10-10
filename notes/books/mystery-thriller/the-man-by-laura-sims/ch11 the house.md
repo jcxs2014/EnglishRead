@@ -36,8 +36,7 @@ POV: "Judith Stanley (first person)"
 
 ---
 
-> **原句 2：**
-> He appears in the rushed one I took in the hardware store window bristling with tools, with the shovel and rope fitting inside the outline of my reflected figure. He's there in the shot I took at the edge of the town's pond—a silhouette that turned out beautifully. My own shadow stretches over the green, brackish water, but his shadow is there, too, on the opposite side of the pond, just barely visible in a barren field. He's in the ones I took in an old, abandoned dress shop window, fitting myself between two bald and naked but eerily smiling mannequins. He's in every one, watching me, though I saw no sign of him today.
+> **原句 2：** "He appears in the rushed one I took in the hardware store window bristling with tools, with the shovel and rope fitting inside the outline of my reflected figure. He's there in the shot I took at the edge of the town's pond—a silhouette that turned out beautifully. My own shadow stretches over the green, brackish water, but his shadow is there, too, on the opposite side of the pond, just barely visible in a barren field. He's there in the ones I took in an old, abandoned dress shop window, fitting myself between two bald and naked but eerily smiling mannequins. He's in every one, watching me, though I saw no sign of him today."
 
 **中文理解：**
 他出现在我匆忙拍下的一张里——在一家工具满挂的五金店橱窗前，铁锹和绳子恰好嵌在我倒影的轮廓中。他在我在镇边池塘拍的一张里——一个 silhouette，效果很美。我自己的影子伸展在绿色、污浊的水面上，但他的影子也在那里，就在池塘的另一边，在一片荒芜田野中勉强可见。他在我在一家旧废弃裙装店橱窗拍的那些里，我把自己嵌在两个秃顶、赤裸、却诡异地微笑着的人体模型之间。他在每一张里，看着我，尽管今天我没有看到他的任何踪迹。

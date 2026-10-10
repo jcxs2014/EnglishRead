@@ -27,41 +27,61 @@ Paul 苦等 TJ 来电多日无果。他在公寓里吃中餐外卖、盯着电�
 
 Paul 的等待具象化为一个物体——电话。它"doggedly silent"，他"can't seem to tear his eyes away"。这种强迫性凝视是焦虑的身体化：他在等一个他不理解的信息（来自 TJ 或 Stanley 家族），但他只能坐着看电话。
 
-> He grows tired of watching it but can't seem to tear his eyes away.
+> **原句 1:** "He grows tired of watching it but can't seem to tear his eyes away."
 
-矛盾句——"累"与"无法移开"并存。这是等待的心理成本：不是行动，而是被动地消耗。
+**关键词**：
+- **can't tear his eyes away**：无法移开视线——强迫性凝视，焦虑的身体化
+
+**为什么这样写**：矛盾句——"累"与"无法移开"并存。这是等待的心理成本：不是行动，而是被动地消耗。
 
 ### 2. King's End Tavern：逃避的失败
 
 Paul 主动出门喝酒，试图用体育比赛和社交环境阻隔对 Stanley 男人的思绪：
 
-> It keeps any thoughts to do with the Stanley men at bay. He's just a guy out having an easy good time.
+> **原句 2:** "It keeps any thoughts to do with the Stanley men at bay. He's just a guy out having an easy good time."
 
-"at bay"（阻挡）与"easy good time"构成他的目标：把威胁挡在门外，过普通人的生活。但第二天他的批改行为（给低质量作业打高分）说明这种逃避只是表面——他其实已经放弃了认真生活。
+**关键词**：
+- **at bay**：阻挡——把威胁挡在门外
+- **easy good time**：轻松的快乐时光——表面上的正常生活
+
+**为什么这样写**："at bay"（阻挡）与"easy good time"构成他的目标：把威胁挡在门外，过普通人的生活。但第二天他的批改行为（给低质量作业打高分）说明这种逃避只是表面——他其实已经放弃了认真生活。
 
 ### 3. 批改：职业倦怠
 
 Paul 在厨房窗边批改测验题，盯着邻居的砖墙。他给 Cs 和 Ds 的作业打 A 和 B，因为"he doesn't really care"——他只想尽快完成工作。
 
-> What does it matter if these kids learn "key elements of composition"? What will they do with the knowledge? None of them are like Judith; none are even close.
+> **原句 3:** "What does it matter if these kids learn 'key elements of composition'? What will they do with the knowledge? None of them are like Judith; none are even close."
 
-这句话揭示了 Paul 的标准：他用 Judith 作为唯一标杆。Judith 是认真的、投入的、有才华的；其他学生只是来拿学分，未来只会拍孩子运动会照片。"Most likely not"是对他们未来的冷漠预测。
+**关键词**：
+- **key elements of composition**：构图要素——Paul 的教学内容
+- **None of them are like Judith**：没有一个像 Judith——Judith 是 Paul 的唯一标杆
+
+**为什么这样写**：这句话揭示了 Paul 的标准：他用 Judith 作为唯一标杆。Judith 是认真的、投入的、有才华的；其他学生只是来拿学分，未来只会拍孩子运动会照片。"Most likely not"是对他们未来的冷漠预测。
 
 ### 4. 周二晚：期待的反复落空
 
 Paul 在教室里每次开门都抬头看，但 TJ 从未出现。他想象 TJ"shy, polite"的性格，觉得他不会贸然走进课堂。但这种"知道 TJ 不会来"与"仍然每次都看"之间的矛盾，是焦虑的核心——他无法控制事件，只能持续监控。
 
-> He looks for him later, too, as he's leaving the building, but doesn't find him in the hall or under the portico. Paul casts his eyes around the parking lot in vain...
+> **原句 4:** "He looks for him later, too, as he's leaving the building, but doesn't find him in the hall or under the portico. Paul casts his eyes around the parking lot in vain, and then he's struck by the thought that his telephone could be ringing—right now. He rushes home, then plops down in the armchair, determined to sit until the wee hours if he has to—though it makes little sense."
 
-视线搜索（hall → portico → parking lot）是绝望的地理扫描，他在空间里找 TJ，但 TJ 不在任何地方。
+**关键词**：
+- **casting his eyes around**：扫视——绝望的地理扫描
+- **in vain**：徒劳地——TJ 不在任何地方
+
+**为什么这样写**：视线搜索（hall → portico → parking lot）是绝望的地理扫描，他在空间里找 TJ，但 TJ 不在任何地方。
 
 ### 5. 链烟等待：焦虑的身体化
 
 Paul 冲回家，坐进扶手椅，决定坐到凌晨——"though it makes little sense"（理性上知道等不到）。
 
-> He chain-smokes and stares fixedly at a spot across the room, his anxious mind thrumming as he listens for the telephone.
+> **原句 5:** "He chain-smokes and stares fixedly at a spot across the room, his anxious mind thrumming as he listens for the telephone."
 
-"Chain-smokes"（一根接一根）是焦虑的身体症状；"stares fixedly at a spot"是强迫性凝视；"anxious mind thrumming"是心理紧张的隐喻（thrum = 低速持续震动）。电话在小说中是核心道具——它是威胁的媒介，也是期待的焦点。
+**关键词**：
+- **chain-smokes**：一根接一根地抽——焦虑的身体症状
+- **stares fixedly at a spot**：盯着一个点——强迫性凝视
+- **anxious mind thrumming**：焦虑的心嗡嗡作响——心理紧张的隐喻
+
+**为什么这样写**："Chain-smokes"（一根接一根）是焦虑的身体症状；"stares fixedly at a spot"是强迫性凝视；"anxious mind thrumming"是心理紧张的隐喻（thrum = 低速持续震动）。电话在小说中是核心道具——它是威胁的媒介，也是期待的焦点。
 
 ## 心理层次
 

@@ -26,31 +26,55 @@ Judith 在家中独自等待一整天，没有等来电话——这种空白本�
 
 开篇即揭示 Judith 独自在家的状态——真空吸尘器声、拖地声构成的"白噪音"是唯一的陪伴。没有电话，没有人敲门，到一天结束时她意识到这种 solitude 已经变成了"abject loneliness"（彻底的孤苦）。这与电话铃响后的恐惧形成对比：独处是孤独，但来电是威胁。
 
-> Not a sound, except for the white noise of vacuuming the carpet, or the watery sound of mopping the kitchen floor. The phone never rang; no one knocked; not one person disturbed my solitude—though it felt more like abject loneliness by the end of the day.
+> **原句 1:** "Not a sound, except for the white noise of vacuuming the carpet, or the watery sound of mopping the kitchen floor. The phone never rang; no one knocked; not one person disturbed my solitude—though it felt more like abject loneliness by the end of the day."
+
+**关键词**：
+- **abject loneliness**：彻底的孤苦——比 solitude 更深，强调无助与被遗弃感
+- **white noise**：白噪音——vacuuming/mopping 的声音填补寂静，反而凸显空洞
+- **solitude**：独处——Judith 主动选择的独处变成了"abject loneliness"
+
+**为什么这样写**：开篇即揭示 Judith 独自在家的状态——白噪音是唯一的陪伴。寂静比威胁更难熬，因为它让 Judith 不断等待。
+
+---
 
 ### 2. Tom 回家与电话铃响
 
 Tom 回来时 Judith 给他一个"fierce embrace"——这是全章唯一的身体接触，是对安全感的短暂抓住。但电话铃响打断了这个温馨时刻：
 
-> It sullies my house—my spotless rooms and straightened pillows. I feel sullied myself, though I'm showered and dressed for dinner.
+> **原句 2:** "It sullies my house—my spotless rooms and straightened pillows. I feel sullied myself, though I'm showered and dressed for dinner."
 
-"我的房子被弄脏了"与"我觉得自己被弄脏了"并列——外界的电话铃声在她心中激活了被侵入、被玷污的感觉，与第一章浴室里她觉得自己"scarred and dirty"一脉相承。
+**关键词**：
+- **sullies**：弄脏——电话铃声"污染"了她的家和自我
+- **spotless rooms**：一尘不染的房间——Judith 对秩序的控制欲
+- **sullied myself**：被弄脏的自我——外界的污名内化为自我感知
+
+**为什么这样写**："我的房子被弄脏了"与"我觉得自己被弄脏了"并列——外界的电话铃声在她心中激活了被侵入、被玷污的感觉，与第一章浴室里她觉得自己"scarred and dirty"一脉相承。
 
 ### 3. Tom 接电话
 
 Judith 独自坐在餐桌前，叉子悬在半空，听 Tom 在厨房接电话。她的内心独白揭示了恐惧的具体内容：
 
-> Will the man just breathe and laugh, or will he say vile things? Will he tell Tom the full truth of how my thighs were scarred? Will he tell him I'm…
+> **原句 3:** "Will the man just breathe and laugh, or will he say vile things? Will he tell Tom the full truth of how my thighs were scarred? Will he tell him I'm…"
 
-这三个问句呈现了 Judith 恐惧的三层递进：呼吸/笑声（无声骚扰）→ 说出疤痕真相（暴露她被袭击的事实）→ 说出"我是……"（她的身份定义被颠覆）。问句在此处中断，留下空白——她不敢说出那个词。
+**关键词**：
+- **breathe and laugh**：呼吸和笑声——无声骚扰的特征
+- **vile things**：肮脏的话语——具体的污名内容
+- **my thighs were scarred**：大腿留疤—— Judith 被袭击的证据
+
+**为什么这样写**：这三个问句呈现了 Judith 恐惧的三层递进：呼吸/笑声（无声骚扰）→ 说出疤痕真相（暴露她被袭击的事实）→ 说出"我是……"（她的身份定义被颠覆）。问句在此处中断，留下空白——她不敢说出那个词。
 
 ### 4. "Wrong number"与暂时的释然
 
 Tom 回来时"gives me a wobbly smile"——这个 wobbly 说明 Tom 也感受到了异常。对方要找 Gunderson，Judith 松了一口气，但这口气松不掉：
 
-> Relief floods through me, but it's temporary. There will be another call sometime, probably soon. Or the man will come to our door instead.
+> **原句 4:** "Relief floods through me, but it's temporary. There will be another call sometime, probably soon. Or the man will come to our door instead."
 
-"temporary"一词说明 Judith 完全清醒地知道这只是喘息，下一次攻击随时会来。她甚至预见到对方可能直接登门——届时她会站在 Tom 身后，"absorbing all the terrible words. Digesting them. Becoming them—right in the presence of my husband."
+**关键词**：
+- **relief floods through me**：如释重负涌来——但立即被"temporary"否定
+- **the man will come to our door**：那个男人会来我们门口——Judith 的预见
+- **absorbing / digesting / becoming**：吸收 → 消化 → 变成——她对话语内化的三阶段认知
+
+**为什么这样写**："temporary"一词说明 Judith 完全清醒地知道这只是喘息，下一次攻击随时会来。她甚至预见到对方可能直接登门——届时她会站在 Tom 身后，"absorbing all the terrible words. Digesting them. Becoming them—right in the presence of my husband."
 
 "Absorbing / Digesting / Becoming"三动词链条：吸收话语 → 消化话语 → 变成那些话语——这是 Judith 创伤反应的核心机制：**她相信被说出的污名会内化成她的本质**。
 
@@ -58,9 +82,14 @@ Tom 回来时"gives me a wobbly smile"——这个 wobbly 说明 Tom 也感受�
 
 晚餐时 Judith 发现自己嚼了很久却无法下咽：
 
-> If I swallow it, I'll become those things, won't I?
+> **原句 5:** "If I swallow it, I'll become those things, won't I?"
 
-这句话是她认知的核心：吃下去 = 变成那些东西。于是她趁 Tom 转开视线时把嚼碎的食物"pushes the chewed meat into my napkin"——全章标题"The Napkin"的由来。这个动作既是身体上的（把食物吐出来），也是心理上的（拒绝将外部的污名内化）。
+**关键词**：
+- **swallow**：吞咽——身体动作，也是"接受污名内化"的隐喻
+- **become those things**：变成那些东西——她对话语内化的恐惧
+- **the napkin**：餐巾——她吐露食物的工具，全章标题的由来
+
+**为什么这样写**：这句话是她认知的核心：吃下去 = 变成那些东西。于是她趁 Tom 转开视线时把嚼碎的食物"pushes the chewed meat into my napkin"——全章标题"The Napkin"的由来。这个动作既是身体上的（把食物吐出来），也是心理上的（拒绝将外部的污名内化）。
 
 ## 心理层次
 

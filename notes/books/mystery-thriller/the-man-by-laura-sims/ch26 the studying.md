@@ -26,7 +26,7 @@ Paul 在摄影课上翻看 Judith 的作品集——一组室内场景与静物�
 
 开篇 Paul 安静地翻看 Judith 的照片，Judith 描述自己"like a schoolgirl—like one of his fangirls"站在那里等待评价。这个自我比喻暴露了她的姿态：面对权威的仰视、等待被评判的紧张。
 
-> **原句 3:** I watch him pause at certain ones and wonder what they are. I stand there, fidgeting like a schoolgirl—like one of his fangirls.
+> **原句 1:** I watch him pause at certain ones and wonder what they are. I stand there, fidgeting like a schoolgirl—like one of his fangirls.
 
 **中文理解**：我看着他停在某些照片前，想知道它们是什么。我站在那里，像个女学生一样坐立不安——像他的一个粉丝女孩。Judith 用"fangirls"形容自己面对 Paul 时的紧张姿态。
 
@@ -43,7 +43,7 @@ Paul 在摄影课上翻看 Judith 的作品集——一组室内场景与静物�
 
 Paul 给出了看似矛盾的反馈：既说没想到看到的是室内静物，又说"我其实很想念你的自拍，但我没看到它们却感到惊讶"。Paul 真正想说的是：
 
-> **原句 1:** I can still feel them, you know? Feel the weight of the house and the life of these things, and your life inside all of it.
+> **原句 2:** I can still feel them, you know? Feel the weight of the house and the life of these things, and your life inside all of it.
 
 这句话的诡异之处在于：他感受到的是"房子的重量"、"东西的生命"、"她的生活在其中"——但他不需要她本人在场就能感受这一切。"I could be…a desk, or the fine point of his sharpened pencil, or nothing at all"——Judith 意识到自己在 Paul's眼中可以被物取代。
 
@@ -57,8 +57,7 @@ Paul 再次建议 Judith"回城里"，认为这会推动她的进步。但 Judit
 
 
 **关键词：**
-- (关键词待补充)
-> **原句 2:** "I see," is all he says, and I can sense him studying me, studying my face and the way my hands clench together at my waist, smothering the truth between them.
+> **原句 3:** "I see," is all he says, and I can sense him studying me, studying my face and the way my hands clench together at my waist, smothering the truth between them.
 
 **中文理解**："我明白了，"他只说了这么一句，我能感觉到他在研究我——研究我的脸，还有我双手在腰间攥在一起的方式，把真相闷死在它们之间。Paul 的"studying"既指研究照片，也指审视 Judith 本人；而 Judith 双手攥在一起的动作是她撒谎时的身体泄露。
 

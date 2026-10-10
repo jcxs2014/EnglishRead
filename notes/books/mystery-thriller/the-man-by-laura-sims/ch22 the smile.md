@@ -47,7 +47,7 @@ habitual kindness 触发崩溃——这是全章的情感引擎。Judith 一直�
 
 Judith 的哭泣不是单一悲伤，而是多层记忆同时涌起——她用了**排比结构**交代三段往事：
 
-> **原句 2:** "When Rosie died, I cried like this, and again at Tom's hospital bedside. I cried like this when Tom Junior was born…"
+> **原句 2:** "When Rosie died, I cried like this, and again at Tom's hospital bedside. I cried like this when Tom Junior was born, when the nurse held the tiny bundle out to me. I held him and wept out all the pain, all the hardship and horror of my childhood. The kind nurse gave me tissues but she should have brought a bucket and mop instead. Tom, beside me, made soft shushing sounds, as if I were a baby myself. I kept saying through my tears, I'm all right, I'm all right. Just overwhelmed. But since Tom didn't know the whole story of my youth, I couldn't articulate the immense and complicated joy I felt, knowing my child would grow up with two loving parents in a stable home."
 
 **中文理解**："当 Rosie 死的时候，我这样哭过，在 Tom 住院的床边又哭了一次。Tom Junior 出生的时候我也这样哭过……" Judith 用排比结构将三个截然不同的场景——丧失、恐惧、喜悦——用同一种哭泣连接，暗示她成年生活的核心模式。
 
@@ -95,7 +95,7 @@ Rosie 之死、Tom 住院、儿子出生——三个场景代表三种情感：�
 
 情绪平复后 Judith 选择开口——但她说的只是可以说的部分：
 
-> **原句 5:** "There's a man who's been—calling me… He says terrible things. I don't know why he's calling me, or why it upset me just now, but he does and it did."
+> **原句 5:** "There's a man who's been—calling me," I say quietly. I can't tell him the worst of it, the whole truth of it. The words won't come out—just as they haven't whenever I've tried to tell him about my early attacker. "He says terrible things. I don't know why he's calling me, or why it upset me just now, but he does and it did."
 
 **中文理解**："有一个男人一直——打电话给我……他说可怕的话。我不知道为什么他给我打电话，也不知道为什么现在让我心烦，但他确实在打，确实让我心烦了。" Judith 向 Tom 透露骚扰电话的存在，但用三个"I don't know"制造无知的假象。
 
@@ -112,7 +112,7 @@ Rosie 之死、Tom 住院、儿子出生——三个场景代表三种情感：�
 
 这是全章最关键的**张力点**之一。Tom 愤怒且坚定地提出报警，但 Judith 的 blood freezes——因为她对 police 有着痛苦的记忆：
 
-> **原句 6:** "Tom doesn't know my history with the police: how they accused me of letting my attacker in, being complicit in my own torment. How, later, they suggested I'd made it all up—and my grandmother believed them."
+> **原句 6:** "He says he wants to…do things to me. He calls me names." That part, at least, is true. Tom pushes back his chair and stands, pacing in our small dining room. "When does he call?" "In the middle of the day, or the late afternoon." "We should call the police." He looks furious and certain, but my blood freezes. Tom doesn't know my history with the police: how they accused me of letting my attacker in, of being complicit in my own torment. How, later, they suggested I'd made it all up—and my grandmother believed them.
 
 **中文理解**："Tom 不知道我报警的经历：他们指控我让攻击者进来，说我自己的痛苦是共谋。后来，他们暗示这一切都是我编的——而我的祖母相信了他们。" Judith 过去的创伤不仅来自攻击本身，还来自警察系统的二次伤害——他们质疑她的可信度。
 
@@ -231,7 +231,6 @@ Tom 尊重了她的意愿，但加了一个条件：**不要接电话**。Judith
 
 
 **关键词：**
-- (关键词待补充)
 
 三个动作在一个句子中完成：fork clatters → reaches → grabs too hard。"as though he were the man in the crosswalk"是全章最惊悚的一句——Judith 在那一刻把 Tom 与追踪者**等同**，这不是 Tom 的错，而是 Judith 的创伤已经让她无法区分善意与危险。cry out 是身体的本能反应，先于理性。
 
@@ -239,7 +238,6 @@ Tom 尊重了她的意愿，但加了一个条件：**不要接电话**。Judith
 
 
 **关键词：**
-- (关键词待补充)
 
 破折号制造了言语在出口前就断裂的感觉——Judith 无法说出完整真相，这个破折号就是她的心理防线。
 

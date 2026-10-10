@@ -135,7 +135,11 @@ He tells himself to slow down. First he has to get Marty's approval; then he'll 
 
 他告诉自己慢下来。首先他必须得到 Marty 的认可；然后再处理 Tom 那边的问题。
 
-**句子结构**："But what if...veto them?" 是 Paul’s 的焦虑爆发——他担心 Marty 的认可无法转化成 Tom 父子的接受。"He tells himself to slow down" 是自我安抚，但紧接着的 "First...then..." 结构又暴露了他的急切——他有一个精心设计的两阶段计划：先 Marty，后 Tom。
+**关键词：**
+- **what if he shows them to the Toms, and they veto them?**："veto them"是 Paul’s 对被拒绝的恐惧——他精心设计的两阶段计划可能失败
+- **First he has to get Marty’s approval; then he’ll deal with the Toms**：两阶段操控计划——先 Marty、后 Tom
+
+**为什么这样写**：Paul’s 的焦虑爆发——他担心 Marty 的认可无法转化成 Tom 父子的接受。"He tells himself to slow down"是自我安抚，但紧接着的"First...then..."结构又暴露了他的急切——他有一个精心设计的两阶段计划：先 Marty，后 Tom。
 
 ## 一句话总结
 

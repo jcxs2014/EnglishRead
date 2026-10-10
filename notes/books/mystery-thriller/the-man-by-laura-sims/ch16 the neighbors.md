@@ -78,7 +78,7 @@ Judith 拍下一个哭泣的脏脸女孩（"a younger, less desolate version of 
 
 **为什么这样写**：她赢了——不是因为她跑得快，而是因为祖母被孩子束缚。这个逻辑冷酷而准确，揭示 Judith 内心某种愤世嫉俗的残余。而追逐之后她的感受是 exhilarated，尽管她知道"it's somewhat wrong"：
 
- "I've followed Paul's dictum: Shoot! Shoot! Shoot!"
+> "I've followed Paul's dictum: Shoot! Shoot! Shoot!"
 
 **中文理解**：我遵循了 Paul 的指令：拍！拍！拍！
 
@@ -91,7 +91,7 @@ Judith 拍下一个哭泣的脏脸女孩（"a younger, less desolate version of 
 
 全章最恐怖的一幕：
 
-> "Judith, you're a selfish fucking bitch," he hisses, dropping my arm and striding off before I can see his face, or anything but his hand and the tan sleeve of his jacket."
+> “Judith, you’re a selfish fucking bitch,” he hisses, dropping my arm and striding off before I can see his face, or anything but his hand and the tan sleeve of his jacket. I follow the disappearing back of his head with my eyes, too frozen to do more than notice his average height and short brown hair. And then he’s gone.
 
 **中文理解**："Judith，你这个自私的婊子，"他低声说，松开我的手臂，在我看清他的脸之前——只能看到他的手和棕色袖口——就走开了。
 
@@ -145,7 +145,7 @@ Judith 坐在排屋台阶上，试图回忆那个声音——它在某个"shabby
 
 ### 7. 车站与火车：解离的回归
 
-> "I lean my forehead against the smudged window, staring out at the wetlands caught between the frantic crush of the city and the orderly green lawns of home."
+> "I lean my forehead against the smudged window, staring out at the wetlands caught between the frantic crush of the city and the orderly green lawns of home, and if I could, I'd raise my camera to capture the sight. But I'm limp and fatigued. All I can do is stare, and think one thing: He knows my name. He came and taunted me. Touched me. Said my name."
 
 **中文理解**：我把额头靠在脏兮兮的窗玻璃上，凝视着那片湿地——它被困在城市疯狂的拥挤和家乡有序的绿色草坪之间。
 

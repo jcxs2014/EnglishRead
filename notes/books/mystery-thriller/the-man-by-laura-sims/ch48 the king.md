@@ -11,7 +11,7 @@
 
 ## 精读
 
-> **原句 1：** With TJ's help, Paul packs the eleven boxes into his trunk as quickly as he can. He doesn't really think Tom Senior will change his mind, but the man hovers in the doorway, looking like someone who's ingested poison.
+> **原句 1：** With TJ's help, Paul packs the eleven boxes into his trunk as quickly as he can. He doesn’t really think Tom Senior will change his mind, but the man hovers in the doorway, looking like someone who's ingested poison.
 
 **中文理解：**
 Paul在TJ的帮助下尽快将十一个箱子装进后备箱。他并不真觉得Tom Senior会改变主意，但那男人却赖在门口不走，看起来像是吞了毒药一样难受。
@@ -30,13 +30,13 @@ Paul在TJ的帮助下尽快将十一个箱子装进后备箱。他并不真觉�
 
 ---
 
-> **原句 2：** Tom sounded defensive and ill at ease, and Paul didn't quite believe him. He hesitated to push Tom at a crucial moment and decided to leave it alone, to stay focused on what he had: the photographs, the negatives, the film rolls.
+> **原句 2：** "With TJ's help, Paul packs the eleven boxes into his trunk as quickly as he can. He doesn’t really think Tom Senior will change his mind, but the man hovers in the doorway, looking like someone who's ingested poison. Paul thinks he's gotten everything—except for whatever was in the filing cabinet down in Judith's darkroom. When he spotted the cabinet, he asked Tom about it, but he said it was full of Judith's 'personal things,' and the police had already been through it. No photographs in there—only bills, medical records, and memorabilia. Nothing of Paul’s concern. Tom sounded defensive and ill at ease, and Paul didn’t quite believe him. But he hesitated to push Tom at a crucial moment and decided to leave it alone, to stay focused on what he had: the photographs, the negatives, the film rolls. A treasure trove."
 
 **中文理解：**
 Tom说话时显得有戒心、很不自在，Paul不太相信他。他在关键时刻没有逼迫Tom，决定先放一放，专注于已有的东西：照片、底片、胶卷。
 
 **句子结构：**
-and连接两个并列谓语——Tom sounded… + Paul didn't… believe。对称结构体现两人的心理博弈：一个在掩饰，一个在怀疑却选择不拆穿。冒号后是what's had的具体清单，等于宣布Paul的优先顺序：物质收获比真相更重要。
+and连接两个并列谓语——Tom sounded… + Paul didn’t… believe。对称结构体现两人的心理博弈：一个在掩饰，一个在怀疑却选择不拆穿。冒号后是what's had的具体清单，等于宣布Paul的优先顺序：物质收获比真相更重要。
 
 **关键词：**
 - **defensive**：防御性的，有戒心的——暗示Tom有所隐瞒
@@ -45,11 +45,11 @@ and连接两个并列谓语——Tom sounded… + Paul didn't… believe。对�
 - **leave it alone**：不管了，搁置——战略性的退让
 
 **为什么这样写：**
-Paul的"didn't quite believe him"是主动选择不追问——他知道Tom Senior在filing cabinet问题上有隐瞒，但选择不深究。这为后续Paul单方面违背协议埋下伏笔：既然Tom先骗了他，他骗Tom也就"无可厚非"了。Paul选择不追问filing cabinet，表面是识时务，实则是他已经拿到了最重要的东西（照片、底片、胶卷）——这桩交易的真正目的已经达到。暗房里的"个人物品"只是烟雾。
+Paul的"didn’t quite believe him"是主动选择不追问——他知道Tom Senior在filing cabinet问题上有隐瞒，但选择不深究。这为后续Paul单方面违背协议埋下伏笔：既然Tom先骗了他，他骗Tom也就"无可厚非"了。Paul选择不追问filing cabinet，表面是识时务，实则是他已经拿到了最重要的东西（照片、底片、胶卷）——这桩交易的真正目的已经达到。暗房里的"个人物品"只是烟雾。
 
 ---
 
-> **原句 3：** 'Yes. Absolutely. Wouldn't think of doing otherwise,' Paul lies. He's thought plenty of doing otherwise—of driving off into the sunset with the boxes and never having to deal with Tom Senior again.
+> **原句 3：** 'Yes. Absolutely. Wouldn't think of doing otherwise,' Paul lies. He’s thought plenty of doing otherwise—of driving off into the sunset with the boxes and never having to deal with Tom Senior again.
 
 **中文理解：**
 "好。一定。想都不会想别的。"Paul撒了谎。他其实一直在盘算另一种做法——带着这些箱子驾车消失在夕阳中，再也不跟Tom Senior有任何瓜葛。
@@ -68,7 +68,7 @@ Paul刚刚还在心里想着"driving off into the sunset with the boxes and neve
 
 ---
 
-> **原句 4：** In reality, Tom is the one and only owner of Judith's photographs—however much it rankles Paul to acknowledge it. Just as he senses the onset of blissful freedom and fumbles across the seat for his cigarette pack, Tom Senior's face appears in the passenger-side window, his hand on the car.
+> **原句 4：** In reality, Tom is the one and only owner of Judith's photographs—however much it rankles Paul to acknowledge it. "I'll treat everything carefully. And I'll be in touch. Soon." Paul thanks both men again and begins to back the car down the drive. Just as he senses the onset of blissful freedom and fumbles across the seat for his cigarette pack, Tom Senior’s face appears in the passenger-side window, his hand on the car.
 
 **中文理解：**
 实际上，Tom才是Judith照片的唯一所有者——尽管承认这一点令Paul非常不爽。正当他感受到幸福自由即将到来的时刻，手忙脚乱地在座位上摸索烟盒时，Tom Senior的脸出现在车窗边，手搭在车身上。
@@ -88,7 +88,7 @@ Paul的愤怒来自于"明明是我在研究、是我在保护这些照片，但
 
 ---
 
-> **原句 5：** Hey, if you happen to see anything out of the ordinary in those pictures she took of herself, will you let me know? Anything like…a man lurking in the background? She said he showed up in the background of those pictures. In all of them. She cropped him out every time, so the ones you saw were—fixed. After she died, the police reprinted some of her film, but they said they found nothing.
+> **原句 5：** "Hey, if you happen to see anything out of the ordinary in those pictures she took of herself, will you let me know? Anything like…a man lurking in the background? The police have looked, but I thought maybe with your, you know, expertise…" He lets it trail off. It takes Paul a moment to realize what Tom is asking.
 
 **中文理解：**
 "嘿，如果你碰巧在这些自拍里看到什么不寻常的东西，能告诉我吗？比如……背景里潜伏的男人？""她说那个男人出现在那些照片的背景里。每张都有。她每次都把他裁掉了，所以你看到的那些——是处理过的。"她去世后，警察重印了她的一些胶卷，但说什么都没发现。
@@ -109,7 +109,7 @@ if引导条件句，anything like…作a man的同位语。省略号制造了说
 
 ---
 
-> **原句 6：** 'Really?' Paul says, stunned. 'Not a single one?' The police have looked, but I thought maybe with your, you know, expertise…
+> **原句 6：** 'Really?' Paul says, stunned. 'Not a single one?'
 
 **中文理解：**
 "真的吗？"Paul说，吃了一惊。"一张都没有？""警察已经看过了，但我想也许有你那……你知道的……专业能力……"
@@ -127,7 +127,7 @@ Paul的震惊是双重的——表面上是对警察失职的质疑，内里却�
 
 ---
 
-> **原句 7：** But I don't trust them. They've been nothing but sloppy. And if Judith said she saw it, it must be there.
+> **原句 7：** "Nope. But I don’t trust them. They've been nothing but sloppy. And if Judith said she saw it, it must be there."
 
 **中文理解：**
 "但我不信任他们。他们一直都很马虎。""如果Judith说她看到了，那它一定就在那里。"
@@ -144,7 +144,7 @@ Tom Senior对警察的不信任给了Paul"正当化"自己行为的理由。Paul
 
 ---
 
-> **原句 8：** A heartbroken man who's been cold to him, and dismissive, too, but if he could satisfy Tom Senior in this, it would be nothing but beneficial to them both. Paul says he'll examine the self-portraits with exquisite care, reprinting the negatives if he needs to. Tom looks relieved—grateful, even.
+> **原句 8：** A heartbroken man who's been cold to him, and dismissive, too, but if he could satisfy Tom Senior in this, it would be nothing but beneficial to them both. Paul says he’ll examine the self-portraits with exquisite care, reprinting the negatives if he needs to. Tom looks relieved—grateful, even.
 
 **中文理解：**
 这是一个对他冷淡且不屑的心碎男人，但如果能在这件事上让Tom Senior满意，对他们双方都只有好处。Paul说他会极其仔细地检查这些自拍，必要时重新冲洗底片。Tom看起来放心了——甚至有些感激。
@@ -165,7 +165,7 @@ Paul此刻同时扮演两个角色——学术研究者（帮Tom Senior寻找证
 
 ---
 
-> **原句 9：** He turns on the radio to hear the Doors. He doesn't love the Doors, but he pumps the volume anyway. He feels ignited by the lyrics, for once. He feels like a fucking king.
+> **原句 9：** He turns on the radio to hear the Doors. He doesn’t love the Doors, but he pumps the volume anyway: Come on, baby, light my fire, / Come on, baby, light my fire. He feels ignited by the lyrics, for once. He feels like a fucking king.
 
 **中文理解：**
 他打开收音机，正好听到Door乐队的歌。他其实并不喜欢Door乐队，但还是把音量调大了。他感到被歌词点燃了，这一次是真的。他感觉自己像个该死的国王。
@@ -174,7 +174,7 @@ Paul此刻同时扮演两个角色——学术研究者（帮Tom Senior寻找证
 to hear the Doors表结果（无意间正好听到）。but引导的对比揭示Paul的状态——不是出于喜欢，而是出于需要某种情绪。ignited与king呼应——火焰与权力。"for once"强调这一刻的真实性（之前都是伪装或克制）。fucking是强化词，粗俗中带着解放感。两个平行短句形成全章结尾的爆发感。
 
 **关键词：**
-- **doesn't love**：并不喜欢——理性上不认同
+- **doesn’t love**：并不喜欢——理性上不认同
 - **pumps the volume**：调大音量——感性上需要释放
 - **ignited**：被点燃——与light my fire歌词呼应
 - **a fucking king**：该死的国王——Paul的终极胜利感，失控的狂喜

@@ -163,7 +163,6 @@ Judith 以"frantic pace"扫街拍摄：
 
 
 **关键词：**
-- (关键词待补充)
 
 三个平行句式（One to... / Another to... / A third to...）构成 Judith 四重痛苦的金字塔：grief、worry、awful image、the strange man。每一项都比前一项更难言说——grief 是可以承认的，worry 是可以承认的，但"the awful image of the couple"（派对事件）需要"wash away"，而 the strange man（ch07 的发现）只能"forget"。
 

@@ -26,7 +26,7 @@ Judith 在 Paul's 摄影课后与 Paul 单独对峙：Paul 为不经同意展示
 
 Paul 为展示 Judith 照片道歉，Judith 试图保持冷静但声音颤抖：
 
-> **原句 2:** "You shouldn't have done it. You had no right to pass my picture around without asking my permission."
+> **原句 1:** "You shouldn't have done it. You had no right to pass my picture around without asking my permission."
 
 **中文理解**：你不应该这么做。未经我的许可就把我的照片传阅，你没有这个权利。
 
@@ -40,7 +40,7 @@ Paul 为展示 Judith 照片道歉，Judith 试图保持冷静但声音颤抖：
 
 Paul 道歉后反问：
 
-> **原句 1:** "Look, I fully acknowledge my guilt. But tell me the truth. Did you enjoy it? Just a little?"
+> **原句 2:** "Look, I fully acknowledge my guilt. But tell me the truth. Did you enjoy it? Just a little?"
 
 **中文理解**：听我说，我完全承认我的过错。但告诉我真相。你享受了吗？就一点点？
 
@@ -66,9 +66,13 @@ Paul 没有发现。Judith 的反应是 ambivalent——relief 与 let down 并�
 
 Paul 劝 Judith 继续去城市拍照。她内心极度渴望回去：
 
-> Right away. But I can't. Or—I shouldn't. Not after what happened.
+> **原句 3:** "Right away. But I can't. Or—I shouldn't. Not after what happened."
 
-她的矛盾逻辑：城市 energy"sets her free"也"sets him loose"。相同的自由对两人开放——追踪者与被追踪者在同一空间里各自获释。
+**关键词**：
+- **Right away**：马上——Judith 渴望回城市
+- **I shouldn't**：我不应该——创伤后的自我限制
+
+**为什么这样写**：她的矛盾逻辑：城市 energy"sets her free"也"sets him loose"。相同的自由对两人开放——追踪者与被追踪者在同一空间里各自获释。
 
 （此句为分析归纳，非原文引语）The city: I think it sets me free / The way it set me free: past tense.
 
@@ -78,19 +82,31 @@ Paul 劝 Judith 继续去城市拍照。她内心极度渴望回去：
 
 Judith 驱车回家，在黑暗中看到邻居灌木丛的 movement，听到风中的落叶声，然后：
 
-> Suddenly, our porch light comes on; I slam the car door and run toward it just as Tom opens the door.
+> **原句 4:** "Suddenly, our porch light comes on; I slam the car door and run toward it just as Tom opens the door."
 
- porch light 触发（安全信号）→ car door slam → run toward → Tom opens door → 她冲进去。
+**关键词**：
+- **porch light comes on**：门廊灯亮了——安全信号触发
+- **slam the car door and run**：砰地关上车门跑向家门——逃跑的肢体动作
 
-> "Judy?" he says, then, "Oh." I brush by him, panting, on my way inside.
+**为什么这样写**： porch light 触发（安全信号）→ car door slam → run toward → Tom opens door → 她冲进去。
 
-Tom 的"Oh"——这个 Oh 意味深长：他是看到了她的恐慌？她的 pant？她的急切？还是 he too is afraid of something？
+> **原句 5:** "Judy?" he says, then, "Oh." I brush by him, panting, on my way inside.
+
+**关键词**：
+- **Judy?**：`Tom 的第一反应——认出了她
+- **Oh**：意味深长的沉默——Tom 看到了什么？她的恐慌？她的 pant？
+
+**为什么这样写**：Tom 的"Oh"——这个 Oh 意味深长：他是看到了她的恐慌？她的 pant？她的急切？还是 he too is afraid of something？
 
 全章最后一句：
 
-> There's nothing more wonderful to me now than the sound of the front door closing, the lock sliding into place.
+> **原句 6:** "There's nothing more wonderful to me now than the sound of the front door closing, the lock sliding into place."
 
-锁不是保护，是成瘾物。是此时此刻 Judith 生活中唯一可以控制的东西。安全感来自机械的咔嗒声，而非人。
+**关键词**：
+- **the lock sliding into place**：锁咔嗒入位——全章核心意象，锁是成瘾物不是保护
+- **nothing more wonderful**：最美好的事情——安全感的唯一来源
+
+**为什么这样写**：锁不是保护，是成瘾物。是此时此刻 Judith 生活中唯一可以控制的东西。安全感来自机械的咔嗒声，而非人。
 
 ## 心理层次
 

@@ -51,7 +51,7 @@
 
 ### 原句 3：决定与自欺
 
-> **原句 3:** "But here he is now, sitting close to the bounty of her work, the proof he needs to say what she was: a fucking artist, a brilliant photographer, an innovator. Yes, despite what Judith told him she wanted. She was wrong, though, wasn't she? And if she'd known how she would end—silenced and killed and deprived of her photographic voice forever—Paul is certain she would have changed her mind, she would have given her approval."
+> **原句 3:** "But here he is now, sitting close to the bounty of her work, the proof he needs to say what she was: a fucking artist, a brilliant photographer, an innovator. Soon he'll tell Marty, tell Harper's, then hopefully go on and tell the world. Yes, despite what Judith told him she wanted. She was wrong, though, wasn't she? And if she'd known how she would end—silenced and killed and deprived of her photographic voice forever—Paul is certain she would have changed her mind, she would have given her approval."
 
 **中文理解**：但现在他就在这里，坐在她的大量作品旁边，坐在他所需的证据旁边，来宣告她是什么人：一个他妈的艺术家，一位杰出的摄影师，一位创新者。是的，尽管 Judith 告诉他她想要这样。他错了，不是吗？而且如果她知道自己会如何结束——被消声、被杀害、被永远剥夺她的摄影声音——Paul 确信她会改变主意，她会给予认可。
 

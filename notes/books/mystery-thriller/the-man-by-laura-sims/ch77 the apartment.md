@@ -19,16 +19,16 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 1：第二次更容易
 
-> **原句 1:** Everything is easier the second night; he's steadier and his mind is calm. He knows where to park for the best view of the garage, and he's even packed a sandwich this time."
+> **原句 1:** Everything is easier the second night; he’s steadier and his mind is calm. He knows where to park for the best view of the garage, and he’s even packed a sandwich this time."
 
 **中文理解**：第二天晚上一切都更容易了；他更稳定，心态也更平静。他知道把车停在哪里可以看到车库最好的视野，这次他甚至带了三明治。
 
-**句子结构**：平行结构——"steadier"和"mind is calm"建立 Paul's 的准备状态。"packed a sandwich"是黑色幽默：他越来越"专业"了。
+**句子结构**：平行结构——"steadier"和"mind is calm"建立 Paul’s 的准备状态。"packed a sandwich"是黑色幽默：他越来越"专业"了。
 
 **关键词：**
 - **steadier**：更稳定的——Paul 正在适应跟踪行为
 
-**为什么这样写**："Everything is easier the second night"是 Paul's 的堕落轨迹：跟踪对他来说正在变得正常化。他带了三明治——这不是临时起意，这是一个有计划的重复行为。
+**为什么这样写**："Everything is easier the second night"是 Paul’s 的堕落轨迹：跟踪对他来说正在变得正常化。他带了三明治——这不是临时起意，这是一个有计划的重复行为。
 
 ---
 
@@ -50,32 +50,32 @@ POV: "Paul Sorenson (first person)"
 
 ### 精读块 3：Charlie 的恐惧是"甘露"
 
-> **原句 3:** The sight of her terrified, beautiful face does something to him. It sings to him. He's wanted her to look that way in class so many times: after she's insulted him, or asked him a probing, inappropriate question about Judith, or laughed in his face."
+> **原句 3:** The sight of her terrified, beautiful face does something to him. It sings to him. He's wanted her to look that way in class so many times: after she’s insulted him, or asked him a probing, inappropriate question about Judith, or laughed in his face."
 
 **中文理解**：看到她恐惧的美丽面孔，他感受到了某种东西。这对他来说是首歌。他很多次都想让她在课堂上露出那种表情：在她侮辱他之后，或者问他关于 Judith 的具有探查性的、不适当的问题之后，或者当着他的面笑他之后。
 
-**句子结构**："It sings to him"和"like nectar"形成感官隐喻——Charlie 的恐惧是 Paul's 的"甘露"。
+**句子结构**："It sings to him"和"like nectar"形成感官隐喻——Charlie 的恐惧是 Paul’s 的"甘露"。
 
 **关键词：**
 - **It sings to him**：这对他来说是首歌——Charlie 的恐惧是他的回报
 - **nectar** /ˈnektər/ n. 花蜜；甘露——性快感与 Sadistic 快感的混合
 
-**为什么这样写**：这是 Paul's 的性虐心理的最明确表达：Charlie 的恐惧是性能量的来源。他想要她在课堂上" look that way"——被恐惧、被屈辱。"He drinks in the sight like nectar"是性欲与攻击性的融合。
+**为什么这样写**：这是 Paul’s 的性虐心理的最明确表达：Charlie 的恐惧是性能量的来源。他想要她在课堂上" look that way"——被恐惧、被屈辱。"He drinks in the sight like nectar"是性欲与攻击性的融合。
 
 ---
 
 ### 精读块 4："还不够"
 
-> **原句 4:** So: he has to go back, to leave a lasting impression. Just one more time, then he'll be finished with Charlie."
+> **原句 4:** The sight of her terrified, beautiful face does something to him. It sings to him. He's wanted her to look that way in class so many times: after she's insulted him, or asked him a probing, inappropriate question about Judith, or laughed in his face. He drinks in the sight like nectar and lets the image imprint in his mind. Long after she's gone, after she's taken the elevator or stairs to her snug apartment and locked the door and leaned against it, breathing hard, after she's called a friend and cried a little over a glass of wine that she holds in a trembling hand, he savors the image he's made—of Charlie, terrorized.
 
-**中文理解**：所以：他必须再来一次，留下一个持久的印象。再一次，然后他就会"处理完" Charlie。
+**中文理解**：看到她恐惧的美丽面孔，他感受到了某种东西。这对他来说是首歌。他很多次都想让她在课堂上露出那种表情：在她侮辱他之后，或者问他关于 Judith 的具有探查性的、不适当的问题之后，或者当着他的面笑他之后。他把这个画面像甘露一样吸收，让它印记在脑海里。在她离开很久之后，在她乘坐电梯或楼梯回到她舒适的公寓、靠着门、大口喘气、给朋友打电话、就着一杯酒哭泣之后，他仍然在回味他所制造的——Charlie，被恐吓的形象。
 
-**句子结构**："to leave a lasting impression"是 Paul's 的目标——今晚的"咳嗽"还不够持久。
+**句子结构**："It sings to him"和"like nectar"形成感官隐喻——Charlie 的恐惧是 Paul 的"甘露"。"Long after she's gone...he savors"是时间上的延伸：Paul 不仅在当时享受 Charlie 的恐惧，在事后仍然回味。
 
 **关键词：**
-- **a lasting impression**：持久的印象——Paul 觉得今晚的行为不够
-
-**为什么这样写**：Paul 的升级逻辑已经启动：他觉得需要"再来一次"，而且这次要"留下持久的印象"。这是一个渐进的暴力升级路径。他已经在心理上为第三次做准备——而第三次将是真正的身体接触。
+- **It sings to him**：这对他来说是首歌——Charlie 的恐惧是他的回报
+- **like nectar**：像甘露——性快感与 Sadistic 快感的混合；Paul 把恐惧当营养
+- **he savors the image he's made—of Charlie, terrorized**：他回味他所制造的被恐吓的 Charlie——Paul 的成就感
 
 ---
 
@@ -83,7 +83,7 @@ POV: "Paul Sorenson (first person)"
 
 **⭐⭐⭐ 高级**
 
-- **nectar** /ˈnektər/ n. 花蜜；甘露 — Charlie 的恐惧是 Paul's 的"营养"
+- **nectar** /ˈnektər/ n. 花蜜；甘露 — Charlie 的恐惧是 Paul’s 的"营养"
 - **savor** /ˈseɪvər/ v. 品味；细细享受 — Paul 在事后回味 Charlie 的恐惧
 
 **⭐⭐ 中级**
@@ -94,8 +94,8 @@ POV: "Paul Sorenson (first person)"
 
 **⭐ 基础**
 
-- **coughs** /kɒfs/ v. 咳嗽 — Paul's 的"武器"
-- **a lasting impression**：持久的印象 — Paul's 的升级目标
+- **coughs** /kɒfs/ v. 咳嗽 — Paul’s 的"武器"
+- **a lasting impression**：持久的印象 — Paul’s 的升级目标
 
 ---
 

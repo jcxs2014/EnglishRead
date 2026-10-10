@@ -73,12 +73,7 @@ Judith 陷入一个矛盾：她知道"那个人"（跟踪者）仍然是一个�
 
 ---
 
-> **原句 4：**
-> **原句 1:** I haven't been taking pictures lately, but that doesn't mean I've given it up. I just—needed a break. And needed to take care of some housework. The field trip isn't negotiable, Tom. It's a class requirement. It's not up to me."
-
-**关键词：**
-- (关键词待补充)
-
+> **原句 4:** I haven't been taking pictures lately, but that doesn't mean I've given it up. I just—needed a break. And needed to take care of some housework. The field trip isn't negotiable, Tom. It's a class requirement. It's not up to me."
 
 **中文理解：**
 "我最近没怎么拍照，但这不意味着我放弃了。我只是——需要休息一下。也需要处理一些家务。实地考察的事没得商量，Tom。这是课程要求。不是我能决定的。"
@@ -113,12 +108,7 @@ Tom 的沉默是这一章最令人不安的时刻之一。Judith 准备好了一
 
 ---
 
-> **原句 6：**
-> **原句 2:** Just be careful, Judy," Tom says once he's swallowed his bread and chased it with wine. He, too, is drinking more than usual; maybe that's why it's been easy to sway him. "Callers can be stalkers, too, you know. I haven't wanted to say this before, but this guy could be following you."
-
-**关键词：**
-- (关键词待补充)
-
+> **原句 6:** Just be careful, Judy," Tom says once he's swallowed his bread and chased it with wine. He, too, is drinking more than usual; maybe that's why it's been easy to sway him. "Callers can be stalkers, too, you know. I haven't wanted to say this before, but this guy could be following you."
 
 **中文理解：**
 "小心一点，Judy，"Tom 说完吞下面包，用酒冲了下去。他也比平时喝得多；也许这就是为什么我很容易说服他。"打电话的人也可能是跟踪狂，你知道的。我之前一直不想说这个，但这个人可能在跟踪你。"
@@ -136,8 +126,7 @@ Tom 的沉默是这一章最令人不安的时刻之一。Judith 准备好了一
 
 ---
 
-> **原句 7：**
-> Tom has come so close to the truth that I stare at him, speechless. Now would be the time to tell him everything, tell him he's right, but instead I reassure him with my standard set of lies: That isn't happening, they're only phone calls, I haven't noticed anyone strange when I'm out and about.
+> **原句 7:** Tom has come so close to the truth that I stare at him, speechless. Now would be the time to tell him everything, tell him he's right, but instead I reassure him with my standard set of lies: That isn't happening, they're only phone calls, I haven't noticed anyone strange when I'm out and about.
 
 **中文理解：**
 Tom 已经如此接近真相，以至于我盯着他，说不出话来。现在是告诉他一切、告诉他他说得对的大好时机——但取而代之，我用我那套标准的谎言来安抚他：没有那回事，只是电话而已，我出门的时候从没注意到什么奇怪的人。
@@ -155,12 +144,7 @@ Tom 已经如此接近真相，以至于我盯着他，说不出话来。现在�
 
 ---
 
-> **原句 8：**
-> **原句 3:** I'll be fine," I say, smiling with all the warmth the wine has given me. "Perfectly fine."
-
-**关键词：**
-- (关键词待补充)
-
+> **原句 8:** I'll be fine," I say, smiling with all the warmth the wine has given me. "Perfectly fine."
 
 **中文理解：**
 "我会没事的，"我说，脸上绽放出葡萄酒赋予我的全部温暖笑容。"完美地没事。"

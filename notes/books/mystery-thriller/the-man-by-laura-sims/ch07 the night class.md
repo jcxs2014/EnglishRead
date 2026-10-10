@@ -35,7 +35,7 @@ Judith 深夜在暗房冲洗照片，试图在派对照中寻找那对情侣，�
 
 开篇 Judith 在 Tom 熟睡时独自下楼冲洗照片。暗房对她而言是庇护所：
 
-> **原句 1:** "I love how the dark swallows me as I descend the steps. It's a good dark, a private, soothing dark."
+> **原句 1:** "I love how the dark swallows me as I descend the steps. It's a good dark down here, a private, soothing dark."
 
 **中文理解**：我喜欢黑暗在我走下台阶时将我吞没的感觉。这是一个好的黑暗，一个私密、安慰的黑暗。
 
@@ -199,27 +199,24 @@ Judith 描述了她婚后多年使用相机的方式——"the way a good wife a
 
 > **原句 12:** "I love how the dark swallows me as I descend the steps."
 
-
 **关键词：**
-- (关键词待补充)
+- **the dark swallows me**：黑暗将我吞没——暗房的黑暗被赋予主动性，吞噬 Judith
 
-
-**关键词：**
-- (关键词待补充)
-
-
-**关键词：**
-- (关键词待补充)
-
-"the dark swallows me"——暗房的黑暗被赋予了主动性，吞噬 Judith。这是 Judith 主动寻求的庇护，也是她对黑暗的矛盾感受：她爱这种黑暗，因为它隔绝外界，但也意味着她在主动"被吞噬"。
+**为什么这样写**：暗房的黑暗被赋予了主动性，吞噬 Judith。这是 Judith 主动寻求的庇护，也是她对黑暗的矛盾感受：她爱这种黑暗，因为它隔绝外界，但也意味着她在主动"被吞噬"。
 
 > **原句 13:** "Cold spreads through my body like liquid."
 
-这个比喻暗示恐惧的渗透性——像液体一样流动、渗透、充满身体各处的缝隙。是肾上腺素激活的躯体反应。
+**关键词：**
+- **Cold spreads through my body like liquid**：恐惧像液体一样渗透全身——躯体化恐惧的典型表现
+
+**为什么这样写**：这个比喻暗示恐惧的渗透性——像液体一样流动、渗透、充满身体各处的缝隙。是肾上腺素激活的躯体反应。
 
 > **原句 14:** "I felt intense anticipation and delight whenever I went to pick up my prints from the shop."
 
-"intense anticipation and delight"——对冲洗出来的照片的期待，揭示摄影对 Judith 而言是**愉悦的制造**，而非仅仅记录。她在照片中看到的是被自己重新控制的世界。
+**关键词：**
+- **intense anticipation and delight**：强烈的期待和愉悦——摄影对 Judith 而言是愉悦的制造，而非仅仅记录
+
+**为什么这样写**：对冲洗出来的照片的期待，揭示摄影对 Judith 而言是**愉悦的制造**，而非仅仅记录。她在照片中看到的是被自己重新控制的世界。
 
 ## 本章词汇
 
@@ -234,4 +231,4 @@ Judith 描述了她婚后多年使用相机的方式——"the way a good wife a
 
 ## 章节位置
 
-前有 ch06（Chapter 6，Judith 目睹或经历了某事件——待核）；后接 ch08（TBD）。本章是**重大的转折点**：三十年前的创伤从背景走向前台，Judith 的"moving forward"策略在这一章遭到根本性的挑战。照片中的男人轮廓证明——如果那确实是三十年前的袭击者——他可能一直在跟踪她，过去的创伤没有过去，只是被压抑。
+前有 ch06；后接 ch08（章节待确认）。本章是**重大的转折点**：三十年前的创伤从背景走向前台，Judith 的"moving forward"策略在这一章遭到根本性的挑战。照片中的男人轮廓证明——如果那确实是三十年前的袭击者——他可能一直在跟踪她，过去的创伤没有过去，只是被压抑。

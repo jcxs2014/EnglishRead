@@ -117,12 +117,7 @@ Tom 问："去干什么？"他的眼神里闪过一丝异样，声音里带着�
 
 ---
 
-> **原句 6：**
-> **原句 1:** I wanted to get better pictures. More pictures. There are simply more people there, Tom," I say, sounding defensive and slightly condescending. "I'm tired of my usual circuit. I'm running out of subjects. Paul says—"
-
-**关键词：**
-- (关键词待补充)
-
+> **原句 6:** I wanted to get better pictures. More pictures. There are simply more people there, Tom," I say, sounding defensive and slightly condescending. "I'm tired of my usual circuit. I'm running out of subjects. Paul says—"
 
 **中文理解：**
 "我想拍更好的照片。更多的照片。那里人就是更多，Tom。"她说，听起来像在防守，口气还有点居高临下。"我对我那套老路线厌倦了。快要找不到拍摄对象了。Paul说——"
@@ -140,7 +135,7 @@ Judith给出的理由包含真实成分（她确实在追求"更好的照片"，
 ---
 
 > **原句 7：**
-> "I don't care what Paul says," Tom says with sudden heat, banging his glass down so hard that milk sloshes and spills onto the table. There'll be a ring now. I wait a moment, staring into Tom's red face, knowing it mirrors my own. I've forgotten to say Professor Sorenson. But I'm too worked up to stop.
+> "I don't care what Paul says," Tom says with sudden heat, banging his glass down so hard that milk sloshes and spills onto the table. There'll be a ring now. I wait a moment, staring into Tom's red face, knowing it mirrors my own. I've forgotten to say Professor Sorenson. But I press on, too worked up to stop.
 
 **中文理解：**
 "Paul说什么我不在乎。"Tom突然发火，把杯子重重砸在桌上，牛奶晃出来洒了一桌。现在桌面上肯定会有个印子了。Judith等了一会儿，盯着Tom涨红的脸，知道自己的脸也是这样。她忘了说Professor Sorenson这个名字。但她太激动，停不下来。

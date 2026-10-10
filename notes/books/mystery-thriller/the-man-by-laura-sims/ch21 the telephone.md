@@ -27,7 +27,7 @@ Judith 在小镇 Mason 街头被跟踪者拦截——蓝色 Buick 车、苍白�
 
 Judith 在 Mason 街头拍照，却感到"bad"——与她在城市拍的照片无法相比。她自评"another small New Jersey town where I'm taking the same photographs I've taken in other small New Jersey towns"，并预言 Paul 会给一个"pitying smile"然后转身离开。
 
-> Nothing like what I'd take in the city.
+> **原句 1:** Nothing like what I'd take in the city.
 
 **中文理解**：Judith 拍完 Mason 镇的照片后自评——"我拍的照片和我在其它新泽西小镇拍的没什么不同。"这意味着她在乡村小镇拍的照片远不如她在城市拍的照片，她对自己的作品感到失望。
 
@@ -43,7 +43,7 @@ Judith 在 Mason 街头拍照，却感到"bad"——与她在城市拍的照片�
 
 一辆"long blue Buick with white leather seats"突然停在她身旁。她看不见司机，只看见"lean but muscular-looking and tan"的双手握着方向盘——她立刻判断"Mean hands"，并联想到 Paul 的手（"very different hand, aglow in the parking lot light"）。
 
-> **原句 1:** "Get in, Judith," he says. Low and gravelly. Commanding.
+> **原句 2:** "Get in, Judith," he says. Low and gravelly. Commanding.
 
 **中文理解**："进来，Judith。"他说。声音低沉沙哑，带着命令的语气。这是跟踪者首次直接对 Judith 说话，这句命令式的话语既威胁又亲密——他用名字称呼她，说明他知道她是谁。
 
@@ -66,7 +66,7 @@ Judith 的疼痛撕裂而来（"the pain tears through me"），但她的反应�
 **第二种姿势——盲拍**：
 她突发奇想：可以闭眼拍照。她放下刀，举起相机，"all with my eyes closed"拍摄两张。男人"facing the camera head-on and smiling. Posing, even"——他甚至配合。
 
-> **原句 2:** I haven't thought of the party, of that couple in the bedroom, in some time. How the man on top of her was smiling—wasn't he? Taking pleasure in all of it, even in my watching.
+> **原句 3:** I haven't thought of the party, of that couple in the bedroom, in some time. How the man on top of her was smiling—wasn't he? Taking pleasure in all of it, even in my watching.
 
 **中文理解**：Judith 突然想起那场派对——门缝中窥见的场景：压在女人身上的男人正在微笑。"不是吗？他从这一切中获取快感，甚至从我的窥视中。"
 
@@ -85,10 +85,13 @@ Judith 的疼痛撕裂而来（"the pain tears through me"），但她的反应�
 
 到家后她做了一件奇怪的事：抵着前门站立，等待电话响起：
 
-> **原句 3:** I expect the telephone to ring. I expect him to be there, breathing, on the other end of the line. Saying, Judith, you got away but I can still reach you. My mean hands can always reach you.
+> **原句 4:** I expect the telephone to ring. I expect him to be there, breathing, on the other end of the line. Saying, Judith, you got away but I can still reach you. My mean hands can always reach you.
 
 **中文理解**：Judith 预料电话会响。她预料他在电话那头，呼吸着，说："Judith，你逃了，但我仍然能触及你。我那双手可以触及你。"这是 Judith 对威胁的内化——跟踪者的话语成为她自我囚禁的声音。
 
+**关键词：**
+- **mean hands**：卑鄙的手——将道德判断与物理威胁结合的意象
+- **I can always reach you**：我永远能触及你——跟踪者的威胁内化为 Judith 的强迫性恐惧
 
 **为什么这样写**：Sims 用这段内心独白将 Judith 的恐惧具体化。"mean hands"将 Judith 对跟踪者的道德判断与物理威胁结合。电话成为连接 Judith 与追踪者的工具——即使在家里，她也无法逃脱。
 

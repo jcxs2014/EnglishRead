@@ -119,7 +119,7 @@
 
 ### 精读块 6：寻找写信人
 
-> **原句 6:** "After a long while, he reaches down to pick up the letter with thumb and forefinger, scanning the words, wondering for the first time who wrote them. Certainly a woman; he can almost taste her woman's rage. But what woman? A deranged stranger, or someone he knows? Someone like his student Charlie, maybe. He doesn't believe it is Charlie—not really—but someone like her: drawn to Judith's work and the drama of her death, eager to blame Paul in the absence of anyone more deserving of blame. The writer is frustratingly unaware, too, of her own hypocrisy—because she would never have known about Judith without Paul. And she'd never have had the opportunity to hate him, then."
+> **原句 6:** "After a long while, he reaches down to pick up the letter with thumb and forefinger, scanning the words, wondering for the first time who wrote them. Certainly a woman; he can almost taste her woman's rage. But what woman? A deranged stranger, or someone he knows? Someone like his student Charlie, maybe. He doesn't believe it is Charlie—not really—but someone like her: drawn to Judith's work and the drama of her death, eager to blame Paul in the absence of anyone more deserving of blame. The writer is frustratingly unaware, too, of her own hypocrisy—because she would never have known about Judith without Paul's involvement. And she'd never have had the opportunity to hate him, then."
 
 **中文理解**：过了很久，他用拇指和食指捡起那封信，扫视着那些字，第一次想知道是谁写的。肯定是个女人；他几乎能尝到她的愤怒。但哪个女人？一个疯狂陌生人，还是他认识的人？也许像他的学生 Charlie 那样的人。他不相信是 Charlie——真的不信——但像她那样的人：被 Judith 的作品和她死亡的戏剧性所吸引，在没有更值得责备的人时，迫切地要责备 Paul。写信人还令人恼火地没有意识到她自己的虚伪——因为没有 Paul，她永远不会知道 Judith。而她也永远不会有机会恨他。
 
