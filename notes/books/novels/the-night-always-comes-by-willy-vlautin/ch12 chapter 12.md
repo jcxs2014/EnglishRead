@@ -62,9 +62,9 @@
 
 **读者视角提示**: Lynette 的沉默既是恐惧也是思考——她在寻找生路而非屈服。
 
-> **原句 6:** "I can bring you an eighty-thousand-dollar Mercedes,"
+> **原句 6:** "I can bring you an eighty-thousand-dollar Mercedes," she said and began crying.
 
-**中文理解**: Lynette 急中生智谎称有一辆八万美元的奔驰车可给 Kansas，声泪俱下地编造细节。
+**中文理解**: Lynette 急中生智谎称能把一辆八万美元的奔驰车给 Kansas，声泪俱下；她随后报出的车况（全新／四门／轿车／黑色）在第六章那辆真实奔驰上均有实据，是半真半假的拼贴——假的只是「会把车给他」的意图。
 
 **关键词**：eighty-thousand-dollar / Mercedes
 
@@ -80,7 +80,7 @@
 
 **为什么这样写**: 淡化风险使交易更具吸引力；提及 Cody 是为分散注意力，也为后续逃跑创造条件。
 
-**读者视角提示**: "harmless" 是刻意误导——Terry 确实不会报警，但原因并非 Lynette 所述。
+**读者视角提示**: "harmless" 是 Lynette 的单方说辞——她自陈车主不会追究；车主全书无名字，只作「the pudgy man / the IT man」（第六章、第七章），与 Gloria 的年金男性 Terry 是两个人，文本从未互认，而车主本人会否报案原文未写明。
 
 > **原句 8:** "She picked up her phone, moved away from the bench, unlocked it, and looked at the signal. Five bars. She dialed 9-1, and then in a shakier voice said, 'I've just dialed 9-1. All I have to do is hit 1 and they'll find me.'"
 

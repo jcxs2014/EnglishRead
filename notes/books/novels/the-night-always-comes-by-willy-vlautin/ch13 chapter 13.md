@@ -48,7 +48,7 @@
 
 **关键词**：supposed
 
-**为什么这样写**: 推卸责任显示 Cody 的道德懦弱；"you wanted" 将罪责转嫁给 Lynette。
+**为什么这样写**: 推卸责任显示 Cody 的道德懦弱；"you're the one who wanted to steal the safe" 将罪责转嫁给 Lynette。
 
 **读者视角提示**: 这段话揭示两人关系的本质——Cody 只愿享受收益，不愿承担风险。
 
@@ -70,7 +70,7 @@
 
 **为什么这样写**: 动作描写展示 Cody 的胆大妄为；吸食动作增加他的不可靠性。
 
-**读者视角提示**: 这是第一次背叛，但 Lynette 假装不知——她在观察 Cody 能走多远。
+**读者视角提示**: Lynette 并未假装不知——她当场点破，要 Cody "take the coke out of your pocket and put it in the glove box"；而真正的背叛是他串通 Kansas 设局（"You guys set me up"），藏毒只是当场第二桩。
 
 > **原句 7:** "The stuff in the safe is mine as much as it is yours," he said and wiped the condensation on the windshield with his arm. "You couldn't have stole it without my help."
 

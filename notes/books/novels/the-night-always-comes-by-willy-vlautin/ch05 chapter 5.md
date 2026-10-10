@@ -25,7 +25,7 @@ modified: "2026-10-09"
 
 **为什么这样写**：三个细节并列（哭泣/天色渐暗/车难启动）呈现连锁崩溃。sixth try 显示车的破旧程度。
 
-**读者视角提示**：从早上四点起床到现在已工作近十二小时，她仍在哭泣但必须继续上班。
+**读者视角提示**：凌晨三点被惊醒、四点上岗、中午才下班的烘焙班已经过去（见 ch01、ch02），此刻下午三点二十她又哭着一路赶去酒吧的晚班——她仍在哭，但一天几乎没有停过。
 
 > **原句 2:** "The old bartender looked at her red eyes and swollen face. 'You been crying all day, huh?' Lynette shrugged."
 
@@ -37,7 +37,17 @@ modified: "2026-10-09"
 
 **读者视角提示**：Shirley 是少数能看透她伪装的人，但 Lynette 还没准备好倾诉。
 
-> **原句 3:** "Her father and two Central American men came in. All three wore painting clothes and flecks of white paint covered their hands and arms."
+> **原句 3:** "Four construction workers came toward the bar, Lynette took their orders, and her shift began as the Dutchman grew crowded with after-work drinkers."
+
+**中文理解**：建筑工人涌入酒吧，Lynette 开始接单，下班后的人群让酒吧变得拥挤。
+
+**关键词**：after-work drinkers
+
+**为什么这样写**：从个人悲伤转入公共服务角色，她必须切换情绪为客人服务。crowded 与她刚穿过侧门进酒吧时的冷清形成对照——那时吧台边只有 Shirley 一个人在调酒。
+
+**读者视角提示**：酒吧是她的第二战场，在这里她不是照护者而是服务者，但同样消耗精力。
+
+> **原句 4:** "Her father and two Central American men came in. All three wore painting clothes and flecks of white paint covered their hands and arms."
 
 **中文理解**：父亲带着两个中美洲工人进来，三人身上都沾着白色油漆——刚结束粉刷工作。
 
@@ -47,7 +57,7 @@ modified: "2026-10-09"
 
 **读者视角提示**：父亲的出现将引入新的家庭冲突线，也与房屋装修计划相关。
 
-> **原句 4:** "He was a handsome man with tired blue eyes and a veined alcoholic's face."
+> **原句 5:** "He was a handsome man with tired blue eyes and a veined alcoholic's face."
 
 **中文理解**：父亲外表英俊但眼神疲惫，脸上布满酒精导致的血管扩张——酗酒者的典型面容。
 
@@ -56,16 +66,6 @@ modified: "2026-10-09"
 **为什么这样写**：handsome 与 alcoholic 并置，揭示他曾是魅力男性却被酒精摧毁。veined 具体化酒精伤害。
 
 **读者视角提示**：58 岁的父亲本应是家庭的支柱，却成了另一个需要照顾的对象。
-
-> **原句 5:** "Four construction workers came toward the bar, Lynette took their orders, and her shift began as the Dutchman grew crowded with after-work drinkers."
-
-**中文理解**：建筑工人涌入酒吧，Lynette 开始接单，下班后的人群让酒吧变得拥挤。
-
-**关键词**：after-work drinkers
-
-**为什么这样写**：从个人悲伤转入公共服务角色，她必须切换情绪为客人服务。crowded 与之前的 empty 形成对照。
-
-**读者视角提示**：酒吧是她的第二战场，在这里她不是照护者而是服务者，但同样消耗精力。
 
 ## 本章词汇
 

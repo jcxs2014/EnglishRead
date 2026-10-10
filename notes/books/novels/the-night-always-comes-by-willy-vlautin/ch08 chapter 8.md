@@ -55,7 +55,7 @@ modified: "2026-10-09"
 
 **为什么这样写**：详细的装修计划显示她对未来的憧憬有多具体。prep work 表明她愿意亲力亲为，不只是出钱。
 
-**读者视角提示**：这些计划现在全部作废，因为母亲买车耗尽了首付资金。
+**读者视角提示**：这些计划现在全部作废，但作废的原因不是"母亲买车花光了首付"——前文明确写她买那辆新车一分钱首付都没付，而 Lynette 也自陈攒下的首付现金仍在自己账上；真正让计划崩掉的是母亲拒绝买房、拒绝为一套房子背上一辈子的债。
 
 > **原句 5:** "There was also a baker at 9th Street who was an artist and Lynette was going to hire him to paint the Trail Blazers and Winterhawks logos on the walls in Kenny's room."
 

@@ -45,7 +45,7 @@ modified: "2026-10-09"
 
 **为什么这样写**：先承认操纵（故意不说），再用销售员的"nice"自我辩护。逻辑断裂显示她知道自己理亏。
 
-**读者视角提示**：57 岁的人用"they're nice"作为三万九千美元消费的理由，心智成熟度令人担忧。
+**读者视角提示**：57 岁的人用"are nice"作为三万九千美元消费的理由，心智成熟度令人担忧。
 
 > **原句 4:** "I'm really confused. . . . We're supposed to sign the papers on the house next week. Is it going to screw up the loan? Did you think about the loan?"
 
@@ -53,7 +53,7 @@ modified: "2026-10-09"
 
 **关键词**：confused / screw up the loan
 
-**为什么这样写**：三个问句层层递进，从情绪（confused）到后果（screw up）再到质问（did you think）。省略号模拟思维中断。
+**为什么这样写**：先两句陈述（confused、sign the papers），再两个问句层层递进——从后果（screw up the loan）到质问（did you think about the loan）。省略号模拟思维中断。
 
 **读者视角提示**：Lynette 是唯一考虑长远后果的人，母亲和 Kenny 都活在当下。
 
@@ -67,9 +67,9 @@ modified: "2026-10-09"
 
 **读者视角提示**：这种思维模式正是贫困的陷阱——把偶然的好运当成永恒的权利。
 
-> **原句 6:** "We decided not to tell him about anything wrong 'cause we were scared he'd start raising the rent like everyone else. So we didn't call him and he never raised the rent. It was a kind of deal."
+> **原句 6:** "We decided not to tell him about anything wrong 'cause we were scared he'd start raising the rent like everyone else. So we didn't call him and he never raised the rent. It was a kind of deal. You know that, and it worked. How can he be an asshole for that? Bonnie's rent has nearly doubled in the last five years. Even next door they raised it by four hundred dollars and that place is worse than ours. He hasn't changed our rent in almost eleven years."
 
-**中文理解**：Lynette 解释他们与房东的默契：不报修，房东不涨租。十一年来租金保持在 800 美元。
+**中文理解**：Lynette 解释他们与房东的默契：不报修，房东不涨租——租金将近十一年没有涨过了。
 
 **关键词**：a kind of deal / never raised the rent
 
@@ -83,7 +83,7 @@ modified: "2026-10-09"
 
 **关键词**：you buy it / rough laugh
 
-**为什么这样写**：简短四字句加上笑声，是彻底的逃避。她既不解决问题，也不承担责任，只用嘲讽终结对话。
+**为什么这样写**：简短四字句加上笑声，是彻底的逃避。她既不解决问题，也不承担责任，只用嘲讽把皮球踢回给 Lynette；争执在她这句之后仍持续了整段，直到章末悬而未决。
 
 **读者视角提示**：这句话暴露了母亲的核心人格：拒绝成长，拒绝负责，把成年子女当出气筒。
 
@@ -111,7 +111,7 @@ modified: "2026-10-09"
 |---------|------|----------|
 | electric blanket | 电热毯 | underneath the electric blanket watching TV |
 | death trap | 死亡陷阱（指破旧车辆） | that car was a death trap |
-| mortgage | 抵押贷款 | we'll have to pay around twelve hundred a month, but that's still less than any apartment |
+| mortgage | 抵押贷款 | the apartment's gonna cost more than the mortgage |
 
 ## 一句话总结
 

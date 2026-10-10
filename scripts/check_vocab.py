@@ -87,7 +87,19 @@ green red house dog cat book word mother father sister brother son girl boy chil
 table chair door window light night morning water head face eye nose mouth arm leg hand foot tree
 sun moon star sky rain snow wind fire""".split())
 
-TIER_PAT  = re.compile(r'^#+\s*[⭐★]*\s*(高级|进阶|基础)')
+# ⚠️ 2026-10-10（The Night Always Comes 五步审查，第二轮）：本式原先只认中文档位名，
+#    而该书 ch09–ch22 写 `### ⭐⭐⭐ Advanced` ⇒ `TIER_PAT.match` 恒不命中 ⇒
+#    **14 个文件的分档检查被静默跳过**（例句仍照判，档位归属一项没判）。
+#    症状不是报错而是「绿得比实际更干净」——全库实测：中文抬头 43,688 处、英文抬头 42 处，
+#    且 42 处全在本书 14 个文件里，属孤例，但孤例恰恰是静默跳过的温床。
+#    加认英文别名 = **只扩大覆盖**，不会让原本判得出的书变红。
+TIER_PAT  = re.compile(
+    r'^#+\s*[⭐★]*\s*(高级|进阶|基础|Advanced|Intermediate|Basic)', re.I)
+# ⚠️ 同上的第二轮修正：判据下游是**硬编码中文串比较**（`tier == '基础'` / `'高级'`），
+#    只放宽 TIER_PAT 会让 tier 变成 `'Basic'` ⇒ 分档判据**照旧一条不跑**。
+#    ⇒ 认档后立即归一为中文，语言差异不穿透到判据层。
+TIER_CANON = {'高级': '高级', '进阶': '进阶', '基础': '基础',
+              'advanced': '高级', 'intermediate': '进阶', 'basic': '基础'}
 SENTINEL  = re.compile(r'^\s*\|[-\s|]+\|\s*$')
 
 # ── 2026-10-06 新增：基础档日常词表 ──────────────────────────────
@@ -594,7 +606,11 @@ def check_book(book_dir, verbose=False):
                 continue
             hm = TIER_PAT.match(s)
             if hm:
-                tier = hm.group(1); hdr = None; prev_cells = None
+                # ⚠️ 2026-10-10：下方判据写的是 `tier == '基础'` / `'高级'`（字面量比较），
+                #    所以**必须把英文档位名归一成中文**，否则 TIER_PAT 加认英文别名只是让
+                #    tier 变成一个谁都不比的值——分档检查照旧静默跳过（比不改更坏：看着像修了）。
+                tier = TIER_CANON.get(hm.group(1).lower(), hm.group(1))
+                hdr = None; prev_cells = None
                 continue
             if not s.startswith('|'):
                 prev_cells = None

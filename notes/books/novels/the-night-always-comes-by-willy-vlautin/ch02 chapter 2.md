@@ -27,7 +27,7 @@ modified: "2026-10-09"
 
 **读者视角提示**：这是 Portland 的典型场景，低收入工作者为城市发展让路，自己却被推向边缘。
 
-> **原句 2:** "Don't leave this room unless you have to use the bathroom," she said, "but find me first. And don't wait too long like you did yesterday because I forgot to bring you a change of clothes."
+> **原句 2:** "Don't leave this room unless you have to use the bathroom," she said, "but find me first. And don't wait too long like you did yesterday because I forgot to bring you a change of clothes. So hold it and then find me, okay? Hold it and then find me."
 
 **中文理解**：一连串指令——别离开、先找我、别憋太久、昨天就忘了带换洗衣服。语速急促如 checklist。
 
@@ -39,17 +39,17 @@ modified: "2026-10-09"
 
 > **原句 3:** "You can't have both, you know that. Choose one."
 
-**中文理解**：Kenny 想要手机和外出散步两样，Lynette 让他二选一——简化的决策框架。
+**中文理解**：Lynette 直接拒绝"两样都要"——只能选一个；"you know that" 说明这条规矩不是新立的。
 
 **关键词**：can't have both / choose one
 
-**为什么这样写**：用儿童式的二元选择管理成年哥哥，权力关系倒置。Kenny 交出手机，显示他接受这套规则。
+**为什么这样写**：用儿童式的二元选择管理成年哥哥，权力关系倒置。句子不留商量余地，只给出一句"choose one"的命令。
 
 **读者视角提示**：这不是虐待，而是必要的边界设定。Kenny 的心智水平无法处理复杂权衡。
 
-> **原句 4:** "If he gets upset, just tell him I can see if he uses too much. That I see from where I am . . . I know, same old story . . . And don't leave the syrup anywhere near him. I've seen him drink a whole bottle."
+> **原句 4:** "Can you can give him just one pancake and two scrambled eggs? The scrambled eggs have to be sitting on top of the pancake or he won't eat the eggs. And like always will you just pour the syrup? He'll use the whole thing if you let him. If he gets upset, just tell him I can see if he uses too much. That I see from where I am . . . I know, same old story . . . And don't leave the syrup anywhere near him. I've seen him drink a whole bottle."
 
-**中文理解**：打电话给 Fuller's 交代 Kenny 的饮食细节——煎蛋要放在 pancake 上、syrop 由店员倒、不能让他拿到瓶子。
+**中文理解**：打电话给 Fuller's 交代 Kenny 的饮食细节——煎蛋必须放在 pancake 上、syrup 要由店员来倒、不能让他拿到瓶子。
 
 **关键词**：same old story / drink a whole bottle
 
@@ -63,9 +63,9 @@ modified: "2026-10-09"
 
 **关键词**：set her head / closed her eyes
 
-**为什么这样写**：三个连续动作极简却沉重。"set her head" 比 "put her head" 更显疲惫的重量。
+**为什么这样写**：四个连续动作极简却沉重。"set her head" 比 "put her head" 更显疲惫的重量。
 
-**读者视角提示**：这个画面是全章的情感低点——她甚至没有力气把咖啡喝完，只是趴着闭眼几秒。
+**读者视角提示**：这个画面是全章的情感低点——她只喝了一口咖啡，便把头伏在桌上闭上眼睛，直到休息结束才回去工作。
 
 > **原句 6:** "Twenty years ago the area was mostly deserted warehouses; now high-end lofts and stores, restaurants, and condominiums stood in their place."
 

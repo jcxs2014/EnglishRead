@@ -43,19 +43,19 @@ modified: "2026-10-09"
 
 **关键词**：on time / no one else
 
-**为什么这样写**：守时是 Lynette 的核心特质（她在所有工作中都准时），他把这当成优点来赞美。
+**为什么这样写**：守时是这个男人对自己约会对象的观察（他说他认识的、和她一样准时的人几乎没有），原文并未记载她在两份工作中的出勤表现；她自己只回了一句「我讨厌迟到，一直如此」。他把这点当成优点来赞美。
 
 **读者视角提示**：这种赞美看似真诚，实则是操控——他注意到的是她的"好用"而非她本人。
 
-> **原句 4:** "'I already got us a room. You know, I was surprised you called. You've never called me before.'"
+> **原句 4:** "The man had a wedding ring on his left hand, a SAE fraternity ring on his right, and a white-gold Montblanc watch on his wrist."
 
-**中文理解**：他已经开好了房间，并对她主动打电话感到惊讶——这是她第一次主动联系。
+**中文理解**：他左手戴婚戒，右手戴兄弟会戒指，手腕上是白金万宝龙手表——身份符号的堆砌。
 
-**关键词**：got us a room / never called me before
+**关键词**：wedding ring / fraternity ring / Montblanc watch
 
-**为什么这样写**：got us a room 显示他的预设——见面就是为了开房。surprised 揭示这段关系的权力动态：通常是他主动。
+**为什么这样写**：三个戒指/手表代表他的三重身份：已婚丈夫、大学精英、成功人士。Montblanc 是奢侈品牌，显示经济实力。
 
-**读者视角提示**：她打破惯例主动联系，暗示白天的崩溃让她急需出口，即使这个出口有问题。
+**读者视角提示**：婚戒的存在让这段关系成为出轨，但他显然不打算为此负责。
 
 > **原句 5:** "'This is my favorite bar,' she said. 'You have good taste.'"
 
@@ -67,15 +67,15 @@ modified: "2026-10-09"
 
 **读者视角提示**：Driftwood Room 是她童年记忆中阿姨叔叔会来的地方，现在变成她与已婚男人约会的场所——时空错位。
 
-> **原句 6:** "The man had a wedding ring on his left hand, a SAE fraternity ring on his right, and a white-gold Montblanc watch on his wrist."
+> **原句 6:** "'I already got us a room. You know, I was surprised you called. You've never called me before.'"
 
-**中文理解**：他左手戴婚戒，右手戴兄弟会戒指，手腕上是白金万宝龙手表——身份符号的堆砌。
+**中文理解**：他已经开好了房间，并对她主动打电话感到惊讶——这是她第一次主动联系。
 
-**关键词**：wedding ring / fraternity ring / Montblanc watch
+**关键词**：got us a room / never called me before
 
-**为什么这样写**：三个戒指/手表代表他的三重身份：已婚丈夫、大学精英、成功人士。Montblanc 是奢侈品牌，显示经济实力。
+**为什么这样写**：got us a room 显示他的预设——见面就是为了开房。surprised 揭示这段关系的权力动态：通常是他主动。
 
-**读者视角提示**：婚戒的存在让这段关系成为出轨，但他显然不打算为此负责。
+**读者视角提示**：她打破惯例主动联系，暗示白天的崩溃让她急需出口，即使这个出口有问题。
 
 ## 本章词汇
 

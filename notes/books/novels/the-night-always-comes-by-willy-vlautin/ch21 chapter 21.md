@@ -80,7 +80,7 @@
 
 **为什么这样写**: Shirley 的坦白是本段的核心。她早就知道 Lynette 从事性工作，但从未评判或传播谣言，显示真正的友谊是接纳而非谴责。"I knew why you were doing it"表明她理解 Lynette 的经济困境，而不是简单地将其归因于道德败坏。Vlautin 展示了工人阶级之间的 solidarity（团结）：他们互相保护，不向外人揭露彼此的弱点。
 
-**读者视角提示**: 注意"Wendy's wanted your slot"这个细节。快餐店的工作虽然低薪，但比酒吧稳定且有福利。Shirley 的建议务实而非理想主义——她知道 Lynette 需要立即的收入来源，而不是遥远的梦想。
+**读者视角提示**: 注意"Wendy's wanted your slot"这个细节——此处的 Wendy 不是快餐店，而是想接替 Lynette 在 Dutchman 酒吧班次的同事（"Wendy's wanted"＝Wendy has wanted，"your slot"指 Lynette 的班次；下一句 Lynette 说 "I already called her" 正说明她是一个人）。Shirley 主动提出帮她覆盖班次（"I'll cover the shifts that I can"），是在为 Lynette 离开扫清工作上的障碍，而非替她另谋岗位。
 
 ---
 
@@ -148,7 +148,7 @@ Lynette 从 Shirley 处获得旧车作为礼物，得到情感支持和实际帮
 
 第21章是全书的情感高潮之一。Shirley 的角色从背景配角升华为道德指南针和精神母亲。她的建议（去中西部、开面包店）提供了具体的出路，她的认可（"good heart"）修复了 Lynette 破碎的自我价值，她的礼物（Buick 车）提供了实际的自由工具。
 
-Shirley 的智慧在于她的现实主义：她不否认 Lynette 的困境（债务、创伤、缺乏教育），但也不将其视为不可逾越的障碍。她的"Midwest strategy"基于真实的经济机会——锈带城市的低生活成本使 Lynette 的十万美元能够发挥更大作用。这与波特兰的绅士化形成鲜明对比，后者将穷人驱逐出社区。
+Shirley 的智慧在于她的现实主义：她不否认 Lynette 的困境（债务、创伤、缺乏教育），但也不将其视为不可逾越的障碍。她的"Midwest strategy"基于真实的经济机会——锈带城市的低生活成本使 Lynette 将近十万美元的存款能够发挥更大作用。这与波特兰的绅士化形成鲜明对比，后者将穷人驱逐出社区。
 
 Shirley 对 Lynette 母亲的分析（一百多杯免费饮料、零小费、持续抱怨）提供了客观的行为证据，帮助 Lynette 看清母亲的真实性格。这种外部视角对 Lynette 至关重要，因为她长期处于煤气灯效应（gaslighting）中，怀疑自己的判断。
 

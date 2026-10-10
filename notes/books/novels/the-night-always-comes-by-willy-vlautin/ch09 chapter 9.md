@@ -2,13 +2,13 @@
 
 ## 本章导航
 
-**一句话概括**: Lynette 带着八千美元的旧账去找 Gloria，在她高档公寓的衣柜里发现一只保险箱，决定把它偷回来。
+**一句话概括**: Lynette 带着八千美元的旧账去找 Gloria，在她公寓衣柜深处的角落发现一只没被固定、却又重得抱不起来的保险箱，试着搬了搬、拍了六张左右照片后离开。
 
-**情感弧线位置**: 上升段 —— 走投无路把 Lynette 推向犯罪计划
+**情感弧线位置**: 上升段 —— 走投无路的处境在本章被逼到墙角，但犯罪计划要到下一章才说出口（本章她只试搬、拍照、离开）
 
 **Tropes 兑现/反转**: 「欠钱的朋友」被揭穿是靠男人供养、超前消费的女人；讨债最终变成偷窃
 
-**人物弧线**: Lynette 从受害者转为加害者，跨过她此前不会越过的道德界线
+**人物弧线**: 本章她被摆在接受索取的位置（八千美元的旧账被人当面驳回），心里已经起了「那只箱子」的念头——但**越界尚未发生**：搬到、拍下来、走人，把「要不要偷」说出口是下一章（ch10）的事
 
 ## 精读
 
@@ -24,7 +24,7 @@
 
 > **原句 2:** "I'll be blind in five years," she cried. "Completely blind."
 
-**中文理解**: Gloria 醉酒后坦白自己视力正在恶化，五年内将完全失明——这是她唯一的秘密，也是美貌资本即将耗尽的倒计时。
+**中文理解**: Gloria 醉酒后坦白自己视力正在恶化，五年内将完全失明——原文只说这件事她没向任何人提过（同章另有她严禁 Lynette 外传的隐事），而它也是美貌资本即将耗尽的倒计时。
 
 **关键词**：blind / completely blind
 
@@ -32,7 +32,17 @@
 
 **读者视角提示**: 美貌是她唯一的资产，失去视力意味着失去一切——包括 Terry 的供养。
 
-> **原句 3:** "I've told you a million times not to bring up my past, but you never fucking listen. So watch it or I won't want to be around you anymore."
+> **原句 3:** "I love it there. Terry had business in Corona del Mar. I flew down a couple days after him, but he didn't even put me in first class. He used to always put me in first class. I hope he just made a mistake, but I don't think so. He never makes mistakes like that. Anyway, we got two rooms at the Hyatt. The weather was perfect. I saw him for a total of eight hours in three days. That's the kind of trip I like."
+
+**中文理解**: Gloria 炫耀南加州之旅，却抱怨 Terry 这次没让她坐头等舱——她说"希望他只是弄错了"，紧接着又自己否定："但我不这么认为"；"他从不会犯那种错"恰恰是她无法把这事当作疏忽的理由，她读出来的是有意的冷淡。三天里两人只见了八小时，她却称之为自己喜欢的旅行。细节暗示关系降温，她开始失去特权。
+
+**关键词**：Corona del Mar / first class / never makes mistakes
+
+**为什么这样写**: 物质细节（Chloé 包、Simone Perele 内衣）标记她的消费水平；头等舱降级预示 Terry 可能厌倦她。
+
+**读者视角提示**: Gloria 用奢侈品证明自己的价值，但焦虑已渗入——她需要 condo 来锁定这段关系。
+
+> **原句 4:** "I've told you a million times not to bring up my past, but you never fucking listen. So watch it or I won't want to be around you anymore."
 
 **中文理解**: Lynette 提到 Gloria 睡过沙发的事触怒了她——Gloria 极度忌讳提及贫困出身，哪怕面对唯一知情的朋友。
 
@@ -40,17 +50,7 @@
 
 **为什么这样写**: Gloria 的愤怒暴露了她的羞耻感和阶级焦虑；威胁断交显示她对虚假身份的执着。
 
-**读者视角提示**: Lynette 故意戳痛处，既是无心之失也是潜意识里的权力平衡——她掌握着 Gloria 的真实历史。
-
-> **原句 4:** "I love it there. Terry had business in Corona del Mar. I flew down a couple days after him, but he didn't even put me in first class. He used to always put me in first class. I hope he just made a mistake, but I don't think so. He never makes mistakes like that. Anyway, we got two rooms at the Hyatt. The weather was perfect. I saw him for a total of eight hours in three days. That's the kind of trip I like."
-
-**中文理解**: Gloria 炫耀南加州之旅，却抱怨 Terry 这次没让她坐头等舱——她只肯相信是对方疏忽，因为"Terry 从不犯这种错"；三天里两人只见了八小时，她却称之为喜欢的旅行。细节暗示关系降温，她开始失去特权。
-
-**关键词**：Corona del Mar / first class / never makes mistakes
-
-**为什么这样写**: 物质细节（Chloé 包、Simone Perele 内衣）标记她的消费水平；头等舱降级预示 Terry 可能厌倦她。
-
-**读者视角提示**: Gloria 用奢侈品证明自己的价值，但焦虑已渗入——她需要 condo 来锁定这段关系。
+**读者视角提示**: Lynette 的话是脱口而出的——原文里她两次道歉自陈并非故意；但这句话确实戳中了痛处，潜意识里也是一种权力平衡，因为她掌握着 Gloria 的真实历史。
 
 > **原句 5:** "If he gets me a condo he can have me forever. I mean it, too. I don't care. It's not that much work. I like him enough. But he always shuts down when I bring it up."
 
@@ -70,7 +70,7 @@
 
 **为什么这样写**: 具体金额和时间跨度强化 Lynette 的绝望；Gloria 的拖延显示她从未打算还款。
 
-**读者视角提示**: 这笔钱是 Lynette 买房计划的关键部分，Gloria 的违约直接威胁她的生存策略。
+**读者视角提示**: 原文并未写明这八千与 Lynette 攒的买房首付（八万）是同一笔钱——两个数额不同，书中对这笔钱出自何处也留着不答，不可把两者焊成一条因果线；但 Gloria 的违约确实威胁着她的生存策略，Lynette 在本章自陈可能不得不另找住处。
 
 > **原句 7:** "I thought Terry gave you a thousand a week spending money." "Sometimes he does. Not all the time. Not lately." "What about those two other guys you're seeing?" "What the fuck?" said Gloria and again glared at her through the reflection in the mirror. "I'm not seeing them anymore. And don't tell anyone I am. I don't like how you always bring up stuff I don't want you to bring up."
 
@@ -124,8 +124,8 @@
 
 ## 一句话总结
 
-Lynette 向 Gloria 讨债失败，发现其公寓内的保险箱后决定盗窃，完成了从绝望到犯罪的心理转变。
+Lynette 向 Gloria 讨债失败，只换来五百美元的口头许诺；离开前她在衣柜角落发现一只保险箱，试着搬了搬、拍了照然后走人——本章止于这一步，"要偷它"的决定还没有说出口。
 
 ---
 
-**本章总结**: Lynette 向 Gloria 讨债失败，发现其公寓内的保险箱后决定盗窃，完成了从绝望到犯罪的心理转变。
+**本章总结**: Lynette 向 Gloria 讨债失败，只换来五百美元的口头许诺；离开前她在衣柜角落发现一只保险箱，试着搬了搬、拍了照然后走人——本章止于这一步，"要偷它"的决定还没有说出口。

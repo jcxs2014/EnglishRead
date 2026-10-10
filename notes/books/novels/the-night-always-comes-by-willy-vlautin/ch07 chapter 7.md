@@ -7,19 +7,19 @@ modified: "2026-10-09"
 
 ## 本章导航
 
-**一句话概括**：Lynette 去前男友/熟人住处要钱，对方拒绝并暗示她不该不打招呼就来。
+**一句话概括**：Lynette 去一名按次付费的客户（经同事 Gloria 牵线认识的 IT 主管）住处讨要欠款，对方先否认欠钱、最后只付了八百，并说她不该不打招呼就来。
 
 **情感弧线位置**：低谷 —— 经济困境迫使她向不可靠的人求助
 
 **Tropes 兑现/反转**：尊严的丧失——为生存不得不放下自尊求人
 
-**人物弧线**：Lynette 的绝望体现在她明知对方不会给钱仍去尝试
+**人物弧线**：Lynette 的绝望体现在她明知讨钱会是一场挣扎、最后往往只能开口乞求（原文写"几乎总是到了夜里最后，她只能去求"），仍不得不深夜上门
 
 ## 精读
 
 > **原句 1:** "In front of a bar called Slim's, Lynette called a Radio Cab and waited. The driver took her back across the river to the Hotel deLuxe, where she got her car."
 
-**中文理解**：在 Slim's 酒吧前叫出租车，司机送她回 Hotel deLuxe 取车——从约会地点到下一个目的地。
+**中文理解**：在 Slim's 酒吧门前叫出租车、在原地等车，司机载她过河回 Hotel deLuxe，她在那里取回自己的车，再驱车前往下一处。
 
 **关键词**：Radio Cab / got her car
 
@@ -55,7 +55,7 @@ modified: "2026-10-09"
 
 **为什么这样写**：freezing 既是天气描述也是情感隐喻。didn't move 显示他的决绝——连基本的礼貌都没有。
 
-**读者视角提示**：她的卑微请求与他的冷漠形成权力不对等，这段关系显然已破裂。
+**读者视角提示**：她的卑微请求与他的冷漠形成权力不对等——她要的是他手里的钱，而他连门都可以不开；这段往来的主动权完全在他一侧（原文并未写两人此后是否断绝）。
 
 > **原句 5:** "'Then I just need my money.' 'What money?'"
 
@@ -89,9 +89,9 @@ modified: "2026-10-09"
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
 | cab | 出租车 | called a Radio Cab |
-| froze | 冻结，寒冷 | It's freezing out here |
+| freezing | 极冷的，冻得发僵 | It's freezing out here |
 | texted | 发短信 | I should have texted first |
 
 ## 一句话总结
 
-向西 Hills 的富人讨债失败，Lynette 再次确认了自己在这个城市中的边缘位置——连要回自己的钱都需乞求。
+向 West Hills 的富人讨债失败，Lynette 再次确认了自己在这个城市中的边缘位置——连要回自己的钱都需乞求。

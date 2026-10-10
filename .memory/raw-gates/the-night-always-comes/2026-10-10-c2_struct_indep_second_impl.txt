@@ -1,0 +1,27 @@
+《The Night Always Comes》五步审查【第二轮】c 步 · 第二实现 check_struct_indep.py 原始输出
+生成方式：python3 scripts/check_struct_indep.py "<书目录>"
+复跑日期：2026-10-10   HEAD: 6842e361c   口径档位：summary（两名皆收）
+说明：初跑 15 处缺陷，逐条读行复核后判为——
+      ① 14 处「必备节『## 本章词汇』出现 0 次」= 假红型（本库词汇节名为「## 词汇分级」，
+         而 audit_structure 的多数派自校准口径两名皆收，第二实现硬编码了其中一个）
+         ⇒ 先修工具（H2 支持 `|` 同义节名交替），不动 md；负控：真删词汇节仍报 0 次。
+      ② 1 处 ch20「引语 2: 子项『为什么这样写』出现 0 次」= 阻断型（真缺陷：
+         `**为什么这样写": ` 游离双引号替代了闭合 `**`，全库仅此 1 处）⇒ 已改 md。
+      修工具+改 ch20 后复跑：缺陷 0 处，exit=0。
+
+  ❌ ch09 chapter 9.md: [summary] 必备节「## 本章词汇」出现 0 次（须恰 1）
+  ❌ ch10 chapter 10.md: [summary] 必备节「## 本章词汇」出现 0 次（须恰 1）
+  ❌ ch11 chapter 11.md: [summary] 必备节「## 本章词汇」出现 0 次（须恰 1）
+  ❌ ch12 chapter 12.md: [summary] 必备节「## 本章词汇」出现 0 次（须恰 1）
+  ❌ ch13 chapter 13.md: [summary] 必备节「## 本章词汇」出现 0 次（须恰 1）
+  ❌ ch14 chapter 14.md: [summary] 必备节「## 本章词汇」出现 0 次（须恰 1）
+  ❌ ch15 chapter 15.md: [summary] 必备节「## 本章词汇」出现 0 次（须恰 1）
+  ❌ ch16 chapter 16.md: [summary] 必备节「## 本章词汇」出现 0 次（须恰 1）
+  ❌ ch17 chapter 17.md: [summary] 必备节「## 本章词汇」出现 0 次（须恰 1）
+  ❌ ch18 chapter 18.md: [summary] 必备节「## 本章词汇」出现 0 次（须恰 1）
+  ❌ ch19 chapter 19.md: [summary] 必备节「## 本章词汇」出现 0 次（须恰 1）
+  ❌ ch20 chapter 20.md: [summary] 必备节「## 本章词汇」出现 0 次（须恰 1）
+  ❌ ch20 chapter 20.md: [summary] 引语 2: 子项「为什么这样写」出现 0 次（须恰 1）
+  ❌ ch21 chapter 21.md: [summary] 必备节「## 本章词汇」出现 0 次（须恰 1）
+  ❌ ch22 chapter 22.md: [summary] 必备节「## 本章词汇」出现 0 次（须恰 1）
+=== 独立结构扫描：22 个 md，缺陷 15 处（另有提示型 0 条，不计入缺陷、不影响退出码）===

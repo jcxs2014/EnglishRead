@@ -1,0 +1,32 @@
+《The Night Always Comes》五步审查【第二轮】d/b 步 · 第二实现与分段连续性原始输出
+生成方式：check_xref_indep.py / check_analysis_indep.py / chapter_contiguity.py 分别跑该书目录
+复跑日期：2026-10-10   lane：完整 lane（有 epub、有 text/）
+说明：本件收录第二轮 c/d/e 步第二实现的终态汇总（check_struct_indep 修正后、
+      check_xref_indep / check_analysis_indep / chapter_contiguity / check_quote_order）。
+      check_xref_indep 随整改推进从 128 处/待人判 48 → 142 处/待人判 62
+      （代理新写进章文件的 13 条 chNN 引用），已逐条回 text/ 核：
+      仅 ch14:93 需精化（almost eleven years 逐字在 ch03，ch01 另作 eleven years），已改。
+      check_analysis_indep 70 → 95 条（同因），✅ 全部逐字命中全书 text/。
+      chapter_contiguity 159/159 整串连续、拼接 0。
+      另：g6 报警「ch17:79 关键词半角冒号不计行」被两份独立报告各自证伪 ⇒ 列入推翻的报警，未改 md。
+
+# NAC 第二轮 c/d/e 步 · 第二实现与新 lane 原始输出（2026-10-10，整改后终态）
+# 运行时刻: 2026-10-10 16:52 UTC  HEAD: 679535c45
+
+## check_struct_indep.py（c 步第二实现，档位判据修正后）
+=== 独立结构扫描：22 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+exit=0
+
+## check_xref_indep.py（d 步第二实现）
+=== chNN 引用 142 处：英文证据报警 0 处 ／ 中文式待人判 62 处 ／ 🔶 同章省略号拼接（提示，不判红）0 处 ===
+
+## check_analysis_indep.py（d 步第二实现）
+抽出分析层英文片段 95 条
+✅ 全部片段在全书 text/ 逐字命中
+
+## chapter_contiguity.py（b 步第二实现：分段连续性）
+=== 分段连续性：整串连续 159 ｜ 含省略号 0 ｜ 合计 159 ｜ 静默漏句/拼接 0 ===
+
+## check_quote_order.py（本轮新增抽查 lane；投毒自证见审查记录）
+=== 章内块序：22 个 md / 159 块，顺序或编号缺陷 0 章 ／ 不可判定 0 章 ===
+exit=0

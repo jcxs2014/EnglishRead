@@ -18,7 +18,7 @@
 
 **关键词**：gravel / potholes / mistake
 
-**为什么这样写**: 路况恶化象征回归危险地带；"knew it was a mistake" 显示她的自知之明与无力抗拒。
+**为什么这样写**: 路况恶化象征回归危险地带；"knew what she was doing was a mistake" 显示她的自知之明与无力抗拒。
 
 **读者视角提示**: 明知故犯是成瘾者特征——她需要 JJ 不仅为卖毒品，更为某种病态的闭合感。
 

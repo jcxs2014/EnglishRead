@@ -47,7 +47,7 @@ modified: "2026-10-09"
 
 **读者视角提示**：自我认知清晰（知道自己会变 mean）但无力改变，这是长期照护者的典型困境。
 
-> **原句 4:** "You have to wait until the alarm goes off. That's the rule. When the alarm goes off, you can come down. Not before."
+> **原句 4:** "You have to wait until the alarm goes off. That's the rule. When the alarm goes off, you can come down. Not before. I've told you a million times. Just wait at the top of the stairs. Wait until you hear the alarm. We've talked about this over and over. Don't you remember?"
 
 **中文理解**：她设立规则体系来维持秩序——闹钟响之前不准下来，这是不可逾越的边界。
 
@@ -57,25 +57,25 @@ modified: "2026-10-09"
 
 **读者视角提示**：用机械规则替代人际协商，因为 Kenny 的心智水平无法进行复杂沟通。
 
-> **原句 5:** "Her brother shook his head."
+> **原句 5:** "He was thirty-two years old and gaining more weight each year. His body had become a pear. He was five feet ten inches tall and waddled when he walked. He had thinning brown hair and a growing bald spot on the crown of his head. He had monthly seizures and couldn't talk but for the sounds that came out almost like words. The doctors said that he had the mind of a three-year-old. Sometimes that seemed too low and other times too high."
 
-**中文理解**：Kenny 摇头拒绝后，叙述者转入对他的身体与心智描写——三十二岁、梨形身材、每月癫痫、只能发出近似词语的声音。
+**中文理解**：叙述者用七个连续短句给 Kenny 画出一幅身体与心智的画像——三十二岁还在发胖、身体成了梨形、每月癫痫、只能发出近似词语的声音。
 
-**关键词**：shook his head / pear / almost like words
+**关键词**：a pear / almost like words / the mind of a three-year-old
 
-**为什么这样写**：三个片段并置呈现 Kenny 的全貌：行为（摇头）、身体（pear）、语言能力（almost like words）。去人格化的几何比喻与医学诊断并列，显示 Lynette 观察哥哥时已习惯护理员式的客观。
+**为什么这样写**：身体（a pear）、语言能力（almost like words）与心智诊断（mind of a three-year-old）并置呈现。去人格化的几何比喻与医学诊断并列，显示 Lynette 观察哥哥时已习惯护理员式的客观。
 
 **读者视角提示**：医生说他有三岁心智，但 Lynette 觉得"有时太低有时太高"——她的判断超越标签，既承认局限也保留人性复杂度。
 
-> **原句 6:** "The foundation of the house was poured in 1922 using faulty concrete."
+> **原句 6:** "She put on her work pants and a navy blue T-shirt that read 9TH STREET BAKERY in yellow-colored ink. In a backpack she put a change of clothes and her class work and went upstairs to find her mother in the living room asleep on the couch, the TV still on."
 
-**中文理解**：从房屋地基的劣质混凝土，到 Lynette 的二手家具（砖头垫脚的抽屉柜、天花板晾衣杆），再到她背起背包去上课——物质贫困与个人追求并置。
+**中文理解**：她穿上工作裤和印着面包店字样的 T 衫，把换洗衣物和课业收进背包；上楼时母亲在客厅沙发上睡着了，电视还开着——物质贫困与个人追求并置。
 
-**关键词**：faulty concrete / bricks / class work
+**关键词**：class work / a change of clothes / the TV still on
 
-**为什么这样写**：三段描写形成递进：房子在崩解（faulty concrete）→ 家具是临时拼凑（bricks）→ 但她仍在上课（class work）。"class work" 是全章唯一透露她试图逃离的词。
+**为什么这样写**：工装与课业挤进同两句话里，紧跟着便是睡着的母亲和没关的电视。"class work"（与本章后段她提到的上课台词相互印证）透露她试图逃离现状。
 
-**读者视角提示**：母亲睡在客厅、电视通宵开着，暗示这个家已失去正常秩序；Lynette 的背包里装着"换洗衣物和课业"，是她双重身份的物理象征。
+**读者视角提示**：母亲睡在客厅、电视还开着，暗示这个家已失去正常秩序；Lynette 的背包里装着"换洗衣物和课业"，是她双重身份的物理象征。
 
 ## 本章词汇
 
