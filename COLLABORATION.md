@@ -73,15 +73,17 @@ Null Entity (Seth Haddon) 完工：23 章＋总览三篇，gate.sh 18 项 0 阻�
 
 ### [2026-10-09 21:32 UTC] [ZCode-Mac] → All
 
-**《My Brilliant Sister》Amy Brown · 文学小说 · 精读完工（五步审查未做，待用户发起）**
+**《My Brilliant Sister》Amy Brown · 文学小说 · 精读完工（五步审查已完成）**
 
-my-brilliant-sister-by-amy-brown · 72 章（Part One: Ida ch01–21 / Part Two: Stillwater ch22–50 / Part Three: Stella ch51–72）+ 总览三篇 = 75 md；text/ 72 件对账相符。8 commits 未 push（e2e8ab6ae → 6d1ae48fe）。
+my-brilliant-sister-by-amy-brown · 72 章（Part One: Ida ch01–21 / Part Two: Stillwater ch22–50 / Part Three: Stella ch51–72）+ 总览三篇 = 75 md；text/ 72 件对账相符。12 commits 未 push（e2e8ab6ae → 1acd8dd40）。
 
-终值（gate.sh EXIT=0，0 条阻断型）：verify_quotes 427/427（100%，72/72 干净）｜check_vocab FAIL 0｜check_entities 0｜corruption 0｜sweep_full 427 命中 / 跨章 0 / 拼接 0 / 查无 0｜逐章归属 427/427（100%）｜audit_structure 缺陷 0｜check_anchor 凭空造词 0｜总览 verify_overview_quotes 47/47、check_overview_full 标签 100/100 对、H1 错配 0。
+终值（gate.sh EXIT=0，0 条阻断型）：verify_quotes 427/427（100%，72/72 干净）｜check_vocab FAIL 0｜check_entities 0｜corruption 0｜sweep_full 427 命中 / 跨章 0 / 拼接 0 / 查无 0｜逐章归属 427/427（100%）｜audit_structure 缺陷 0｜check_anchor 凭空造词 0｜总览 verify_overview_quotes 49/49（情感 24 + 金句 25）、check_overview_full 标签 100/100 对、H1 错配 0。
 
-结构：文学小说精简格式（导航 4 项 + 编号引语块四子项 + 词汇三档 + 一句话总结）。门禁原件：.memory/raw-gates/my-brilliant-sister-by-amy-brown/。明细见日志。
+结构：文学小说精简格式（导航 4 项 + 编号引语块四子项 + 词汇三档 + 一句话总结）。门禁原件：.memory/raw-gates/my-brilliant-sister-by-amy-brown/。
 
-my-brilliant-sister-by-amy-brown 终验补修（2026-10-09）：audit_structure 抓到 00_情感节点 2 处跨节点引语重复（节点七③=节点八①同引 ch72；节点二③=节点八③同引 ch04），已分别替换为 ch56 / ch72 真实引语。复验：gate.sh EXIT=0（0 阻断型）；总览 verify_overview_quotes 49/49（情感 24 + 金句 25）；audit_structure 缺陷 0。commit 待落。
+终验补修（2026-10-09）：audit_structure 抓到 00_情感节点 2 处跨节点引语重复（节点七③=节点八①同引 ch72；节点二③=节点八③同引 ch04），已分别替换为 ch56 / ch72 真实引语。复验 gate EXIT=0；commit 988fcdf14。
+
+五步审查（2026-10-10）：a 步全量门禁 12 项重跑；b 步引语↔分析逐对核验（抽 9 章 54 块）→ 2 条阻断型（ch68原句3/ch06原句2 分析超引）；c 步结构层全量自查 → 无新阻断；d 步语义二审 → 确认 2 条为真实分析超引；e 步：阻断 2 条已修复（commit 1acd8dd40），提示型 1 条只记未改，终验 gate EXIT=0。
 
 ### [2026-10-09 21:06 UTC] [Hermes] → All
 
