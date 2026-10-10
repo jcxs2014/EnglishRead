@@ -122,3 +122,22 @@ ch07 `penetrative`/`incorporeal`（换词时重复添加）、ch09 `literalizati
 2. **语义终判在同一会话**：执行方＝审查方，d 步子代理因 API 401 失败，语义层由主会话自判——建议如需最高保证，另派异实例抽样复核（重点 ch05/ch09/ch10 的长叙述章）。
 3. **ch10 是 3108 行超长终章**：「无数宇宙」的分支叙述中，分析层对某个具体宇宙情节的概括**未逐句回原文核**（只核了 6 个引语块及其分析）。
 4. **`check_vocab` 工具口径缺陷未修**：本轮用自建口径绕过，**未改工具**（文件名无 chNN 前缀的短篇合集仍会整层空跑）——建议后续把该口径补进 `check_vocab.py`。
+
+
+---
+
+## 十二、审查后续：假红型根因修复（2026-10-10）
+
+审查报告第十一节第 4 条留的待办「`check_vocab` 工具口径缺陷未修」已处理——但**修法不是改工具，是补数据**：
+
+**根因**：10 个 md 命名 `NN Title.md`，无 chNN 前缀，且 frontmatter 缺 `source_text`/`chapter` ⇒ `check_vocab` 取不到 `ch_corpus`，例句校验**整层空跑**。工具本身**已支持** `source_text: chNN`（库内通行写法，见 `dance-of-the-happy-shades-by-alice-munro/01 Walker Brothers Cowboy.md`）。
+
+**修复**：给 10 个 md 补 `source_text: chNN` frontmatter。
+
+**效果（重要反证）**：`check_vocab` 从「假绿」变为**真正执行**后重跑 —— **232 词条行 FAIL 0 / WARN 0**，且「章节归属缺失」假红消失。这**反证了前一轮自建口径的 54 处词表修复彻底**：若残留任何虚构词条或跨章例句，此刻必然报 FAIL。
+
+**顺带清出 6 处重复词头**（check_vocab 生效后才暴露——换词时同一词落在相邻两档）：ch01 portal、ch06 manifesting、ch07 threadbare、ch08 anachronism/reacclimating、ch09 proliferation。
+
+**commit**：`455a5610e`
+
+**遗留建议**：`check_vocab` 的「章节归属缺失」提示可考虑升级为**阻断型**——本次若不在审查期发现，该层会持续假绿。但按第 3 条三档定性，工具输出本身是「只报不判红」，故记为提示型，不动工具。
