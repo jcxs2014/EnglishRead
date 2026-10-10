@@ -7,11 +7,11 @@ modified: "2026-10-10"
 
 ## 本章导航
 
-- **一句话概括**：Will 在父母家的生日晚餐上戴着耳塞盘算怎么向母亲交代，被叫进厨房后母亲宣布要给他找媒人；他嘴硬抵抗，却在 ellaτον niece Eleanor 的追问下半真半假地交出「我找到一个人，帮我找那个人」，母亲立刻接话说「我当年正是这么做的」——第二天早上他穿上侄女送的焦橙色衬衫开车进城。
+- **一句话概括**：Will 在父母家的生日晚餐上戴着耳塞盘算怎么向母亲交代，被叫进厨房后母亲宣布要给他找媒人；他嘴硬抵抗，却在侄女 Eleanor 的追问下半真半假地交出「我找到一个人，帮我找那个人」，母亲立刻接话说「我当年正是这么做的」——第二天早上他穿上侄女送的焦橙色衬衫开车进城。
 - **情感弧线位置**：**把「练习」带回他真实的世界**——这是 Will 的家庭、他的耳塞、他的狗与侄女；读者第一次看到他在其中如何被爱，也因此明白他担心的是什么会被破坏。
 - **Tropes 兑现/反转**：兑现 **meddling mother** 与 **found family 群像**；反转是母亲并没被说服——她给出的恰恰是「找一个帮你找人的 آنها人」的先例，等于把他的遮掩翻译成她自己的胜利。
 - **人物弧线**：Will 第一次主动向家人透露计划（哪怕只说一半），这是他学会「不必独自承担」的开端；而他穿上那件难看的橙衬衫，是因为他不愿让孩子们的礼物落空——本书定义的男子气概是温柔。
-- **叙事手法**：Will POV；**耳塞作为叙述装置**（戴上是「能听见自己思考」、拔下是「准备迎接声音的冲击」），物理地写出了他的感官世界；大段家庭人员介绍用 bankers 单行完成，与 Juliet 家的群像手法形成呼应。
+- **叙事手法**：Will POV；**耳塞作为叙述装置**（戴上是「能听见自己思考」、拔下是「准备迎接声音的冲击」），物理地写出了他的感官世界；大段家庭人员介绍用一句带分词短语的长句完成，与 Juliet 家的群像手法形成呼应。
 
 ## 精读
 
@@ -101,6 +101,8 @@ modified: "2026-10-10"
 
 ### ⭐⭐⭐ 高级
 
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | celebration | 庆祝 | Add on a birthday celebration, and it’s mayhem. |
 | mayhem | 混乱；闹腾 | Add on a birthday celebration, and it’s mayhem. |
 | rowdy | 吵闹的；闹腾的 | Any family dinner at my parents’ is rowdy. |
@@ -123,6 +125,8 @@ modified: "2026-10-10"
 
 ### ⭐⭐ 进阶
 
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | laid-back | 随和的；放松的 | My dad’s a laid-back, quiet guy. |
 | eventual | 最终的 | My mother, however, is and always has been very much up in my business—and she is very in my business on the eventual marriage front. |
 | relieved | 松了一口气的 | When I told her I’d handle the city runs, she threw her arms around me and burst into happy, relieved tears. |
@@ -137,6 +141,8 @@ modified: "2026-10-10"
 
 ### ⭐ 基础
 
+| 词/短语 | 释义 | 例句 |
+|---|---|---|
 | matchmaker | 媒人 | It’s a matchmaker. |
 | kitchen | 厨房 | She juts her chin toward the kitchen. |
 | baby sister | 最小的妹妹 | Just as I turn back, Miranda, my baby sister, sitting to my left, elbows me. |
