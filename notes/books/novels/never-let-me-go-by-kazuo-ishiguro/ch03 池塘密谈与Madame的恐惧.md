@@ -11,26 +11,6 @@
 
 ## 精读
 
-> **原句 1：** "I was pleased about all these developments, but also mystified. There'd been no real change in Tommy's work—his reputation for 'creativity' was as low as ever."
-
-**中文理解**
-我对这些变化感到高兴，但也十分困惑。Tommy 的作品并没有真正的改变——他在"创造力"上的名声一如既往地低。
-
-**关键词**
-- `mystified`：困惑不解（Kathy 作为 observer 的理性距离）
-- `reputation for "creativity"`：创造力名声（这里用引号包裹 creativity，暗示这个概念本身的定义是 Hailsham 强加的）
-- `as low as ever`：一如既往地低（没有改善——证明"停止孤立即可融入"这个解读是错的）
-
-**句子结构**
-并列谓语 `was pleased… but also mystified` + 两个同位语从句由破折号分隔。破折号制造了延迟，把最重要的信息（Tommy 的名声没有改变）放在最后，造成认知上的意外。
-
-**为什么这样写**
-"mystified" 是一种叙事者的诚实：她高兴，但她不理解。这种"看到现象却不理解原因"的认识论困境，是 Ishiguro 整部小说的核心。Kathy 能够观察，但她无法解释——因为真正的答案从未向她揭示。
-
-**读者视角提示**
-第二遍阅读时，"as low as ever" 变得刺眼：如果停止被欺负就能解决问题，那为什么他的 creative reputation 从来没有改变？读者知道答案：Hailsham 的等级制度基于一种与个人行为无关的天赋论——Tommy 永远无法通过"改变态度"来改变它。
-
----
 
 > **原句 2：** "She was superb at hockey, and could even hold her own with the Senior boys on the football pitch."
 
@@ -94,28 +74,23 @@ Miss Lucy 的愤怒是读者第一次明确感知到：Hailsham 这个体制内�
 
 ---
 
-> **原句 5：** "She said we'd not been taught enough. Something like that."
+> **原句 5：** "She said we weren't being taught enough, something like that."
 
 **中文理解**
-她说我们没有被教够。大概是这个意思。
-
-**中文理解**
-她说我们没有被教够。大概是这个意思。
+她说我们没有被充分教育。大概是这个意思。（Tommy 转述，记忆已经模糊——「没有被教」的究竟是学业，还是关于他们自身的真相？）
 
 **关键词**
-- `not been taught enough`：没有被教够（Miss Lucy 的原话；Tommy 不确定自己是否理解正确）
+- `weren't being taught`：没有被教育（Miss Lucy 的原话；「being」进行时暗示这是一个持续的结构性问题，而非偶发事件）
 - `something like that`：大概是这样（Tommy 的犹豫；他本能地感觉到这句话的含义，但无法完全抓住）
 
 **句子结构**
-直接引语 + 叙述者的解释性补充。`Something like that` 这个插入语表明 Tommy 并不完全理解这句话的意思——这正是 Ishiguro 的叙事美学：角色不完全理解他们所说的话的含义。
+直接引语 + 叙述者的转述性补充。Tommy 用 `weren't being` 而非 `aren't being`，说明他在现场听过 Miss Lucy 说这句话，且记住了进行时态——这是 Ishiguro 的细节：角色的记忆会保留说话的具体措辞。
 
 **为什么这样写**
-"没有被教够"——这是 Miss Lucy 唯一一次在捐赠（donations）语境之外暗示孩子们没有被充分告知关于他们自身的真相。这句话对 Tommy 和 Kathy 来说是一个谜，直到故事的后半部分他们才理解它的含义。
-
-**读者视角提示**
-Ishiguro 在这里制造了叙事的双重视角：角色们不理解他们正在说的话，而读者——尤其是重读时——知道这句话的完整含义。Kathy 试图把 Miss Lucy 的话与 Madame 的 Gallery 联系起来，但她的理解仍然是不完整的。
+Miss Lucy 的话在「学业」和「关于自身真相」之间制造了双关。这种「没有教够」——是学科知识不够，还是对自身命运了解不够？读者知道答案是后者，但 Kathy 和 Tommy 在当时并不知道。这种认识论上的不确定性，是 Ishiguro 叙事的核心张力。
 
 ---
+
 
 > **原句 6：** "It was like we'd walked from the sun right into chilly shade."
 
