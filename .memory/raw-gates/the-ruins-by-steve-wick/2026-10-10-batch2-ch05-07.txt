@@ -1,0 +1,27 @@
+=== 2026-10-10 批2（ch05-07）门禁 ===
+--- verify_quotes ---
+
+=== 总计 48/48 引文可核实（100%）；完全干净文件 7/7；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- check_vocab ---
+
+--- WARN (3) ---
+  ch04 chapter four.md [基础] 基础档疑含超纲词「bartender」
+  ch05 chapter five.md [基础] 基础档疑含超纲词「customers」
+  ch06 chapter six.md [基础] 基础档疑含超纲词「carpenter」
+
+--- check_chapter_quotes ---
+ch05 chapter five.md: 7/7 in ch05 text
+ch06 chapter six.md: 7/7 in ch06 text
+ch07 chapter seven.md: 7/7 in ch07 text
+
+--- corruption_scan ---
+=== 编辑损坏扫描（the-ruins-by-steve-wick）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+=== 引语整串 flat 比对（the-ruins-by-steve-wick）===
+  参照集：text/ 逐章（42 章，可定章） + epub 交叉验证
+  ✅ 本章命中 48 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
