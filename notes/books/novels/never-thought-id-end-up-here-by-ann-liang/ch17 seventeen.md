@@ -33,6 +33,8 @@ modified: "2026-10-10"
 
 **中文理解：** 她心不在焉到连风景都无心欣赏。她客观地知道这景很美：日月双塔在水上并肩发光，一金一银，结构上是完美的一对。但「知道一件事」和「在意一件事」是两回事，此刻她在哪儿都无所谓——哪怕是一个空房间或世界奇迹之前。她所有的念头都收窄到头。
 
+**关键词：** a difference between knowing something and caring about it（「知道」与「在意」是两回事）；the Sun and Moon Pagodas（日月双塔）；All my thoughts are narrowed in on（她所有的念头都收窄到）
+
 **为什么这样写：** 日月双塔「perfect twins in structure」与她此刻的处境构成一处不点破的反讽：一金一银并肩相得益彰的景致，正衬她心里那个「我们配不配」的问题。用 knowing 与 caring 的区分来写心神不宁，比直接写「她很乱」精确得多。
 
 **读者视角提示：** 她说这是「the great Cyrus dilemma」，并且花了一整天在琢磨。紧接的下一句她就把自己的办法写出来了：一份 questionnaire。
@@ -140,6 +142,8 @@ modified: "2026-10-10"
 > **原句 13:** Before I can respond, Pei Jie holds out her camera and starts scrolling through the photos she’s taken in the past. There are dozens of different styles—girls reclining on velvet couches in crimson qipaos, their lips painted crimson to match; smiling sweetly and hugging bouquets of flowers to their chests; leaning, bored, against a brick wall with lollipops in their mouths, their plaid skirts and button-down shirts designed for an alternate world where school uniforms are actually meant to be flattering; posing against an ice-blue backdrop in a stunning ball gown, pearls spilling down the sides.
 
 **中文理解：** 她还没来得及回答，Pei Jie 就把相机递过来，翻起以往的作品：几十种风格——穿绯红旗袍斜倚在丝绒沙发上的女孩，唇色也涂成相配的绯红；甜甜笑着把花束抱在胸前的；咬着棒棒糖、百无聊赖地靠着砖墙的，格纹裙和衬衫像是为另一个校服真的好看的世界设计的；还有穿着惊艳长裙、珍珠从两侧倾泻而下、衬着冰蓝幕布摆姿势的。
+
+**关键词：** starts scrolling through the photos（翻起以往的作品）；dozens of different styles（几十种风格）；designed for an alternate world（为另一个世界设计的）；posing against an ice-blue backdrop（衬着冰蓝幕布摆姿势）
 
 **为什么这样写：** 用四组长句一口气铺开作品集，是让读者和她一起经历那阵「旧世界扑面而来」的感觉——这四组造型正是她熟悉的行业语汇。而作者把「校服真的好看的世界」写成「另一个世界」（an alternate world），正好替她点明：她曾经生活的地方与普通人的世界不是一个。
 

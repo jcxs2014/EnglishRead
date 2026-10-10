@@ -1,0 +1,32 @@
+=== 终验修复批次（ch17/ch22 结构对账）2026-10-10 18:49 UTC ===
+
+缺陷：ch17 关键词行 22 != 引语块 24；ch22 关键词行 26 != 引语块 27
+（3 个块各缺一行「关键词」——第 9 条 c「引语行 + 全部分析子项齐全」）
+位置：ch17 原句2 / ch17 原句13 / ch22 原句27
+
+修复：按各块引语内容补关键词行，10 个新增英文片段逐条 grep 本章 text/ 全部命中
+
+--- 修复后子项配对 ---
+ch17 seventeen: 原句=24 中文理解=24 关键词=24 为什么=24 读者视角=24
+ch22 epilogue: 原句=27 中文理解=27 关键词=27 为什么=27 读者视角=27
+
+--- verify_quotes ---
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 317/317 引文可核实（100%）；完全干净文件 23/23；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+--- check_chapter_quotes ch17/ch22 ---
+ch17 seventeen.md: 24/24 in ch17 text
+ch22 epilogue.md: 27/27 in ch22 text
+
+--- corruption_scan ---
+=== 编辑损坏扫描（never-thought-id-end-up-here-by-ann-liang）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+  参照集：text/ 逐章（22 章，可定章） + epub 交叉验证
+  ✅ 本章命中 291 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 3 ｜ ❌ 全书查无 0
+  （短引语 2 条归 check_short_quotes；无章可对 0 条未判）
+  🔶 ch15 fifteen.md（ch15）跨标签拼接，各段逐字都在：“If you don’t want me to like you in that wa
