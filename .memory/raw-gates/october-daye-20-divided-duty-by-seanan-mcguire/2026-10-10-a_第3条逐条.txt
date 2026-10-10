@@ -1,0 +1,95 @@
+===== [17:25] 第 3 条清单逐条重跑（审查 a 步）=====
+epub: notes/books/novels/october-daye-20-divided-duty-by-seanan-mcguire/library/October Daye 20 - Divided Duty (Seanan McGuire) (z-library.sk, 1lib.sk, z-lib.sk).epub
+
+=== 1) verify_quotes ===
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 25/25 ✅
+ch01 one.md: 6/6 ✅
+ch02 two.md: 7/7 ✅
+ch03 three.md: 8/8 ✅
+ch04 four.md: 8/8 ✅
+ch05 five.md: 8/8 ✅
+ch06 six.md: 8/8 ✅
+ch07 seven.md: 8/8 ✅
+ch08 eight.md: 8/8 ✅
+ch09 nine.md: 8/8 ✅
+ch10 ten.md: 8/8 ✅
+ch11 eleven.md: 8/8 ✅
+ch12 twelve.md: 7/7 ✅
+ch13 thirteen.md: 8/8 ✅
+ch14 fourteen.md: 8/8 ✅
+ch15 fifteen.md: 8/8 ✅
+ch16 sixteen.md: 7/7 ✅
+ch17 seventeen.md: 6/6 ✅
+ch18 eighteen.md: 8/8 ✅
+ch19 nineteen.md: 6/6 ✅
+ch20 twenty.md: 5/5 ✅
+ch21 but by degrees.md: 8/8 ✅
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 181/181 引文可核实（100%）；完全干净文件 22/22；正文章节 0 提取 0；总览 0 提取转交 1 ===
+rc=0
+
+=== 2) verify_quotes --full ===
+00_概述.md: ○ 0 提取（概述类，允许——散文体无编号引语块）
+00_金句精选.md: 25/25 ✅
+ch01 one.md: 6/6 ✅
+ch02 two.md: 7/7 ✅
+ch03 three.md: 8/8 ✅
+ch04 four.md: 8/8 ✅
+ch05 five.md: 8/8 ✅
+ch06 six.md: 8/8 ✅
+ch07 seven.md: 8/8 ✅
+ch08 eight.md: 8/8 ✅
+ch09 nine.md: 8/8 ✅
+ch10 ten.md: 8/8 ✅
+ch11 eleven.md: 8/8 ✅
+ch12 twelve.md: 7/7 ✅
+ch13 thirteen.md: 8/8 ✅
+ch14 fourteen.md: 8/8 ✅
+ch15 fifteen.md: 8/8 ✅
+ch16 sixteen.md: 7/7 ✅
+ch17 seventeen.md: 6/6 ✅
+ch18 eighteen.md: 8/8 ✅
+ch19 nineteen.md: 6/6 ✅
+ch20 twenty.md: 5/5 ✅
+ch21 but by degrees.md: 8/8 ✅
+
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 181/181 引文可核实（100%）；完全干净文件 22/22；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+rc=0
+
+=== 3) check_vocab ===
+词条行合计: 330
+
+--- FAIL (0) ---
+
+--- WARN (1) ---
+  ch01 one.md [基础] 基础档疑含超纲词「contribution」
+rc=0
+
+=== 4) check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+rc=0
+
+=== 5) corruption_scan ===
+
+=== 编辑损坏扫描（october-daye-20-divided-duty-by-seanan-mcguire）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+rc=0
+
+=== 6) sweep_full --quiet ===
+=== 引语整串 flat 比对（october-daye-20-divided-duty-by-seanan-mcguire）===
+  参照集：text/ 逐章（21 章，可定章） + epub 交叉验证
+  ✅ 本章命中 155 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 1 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+rc=0

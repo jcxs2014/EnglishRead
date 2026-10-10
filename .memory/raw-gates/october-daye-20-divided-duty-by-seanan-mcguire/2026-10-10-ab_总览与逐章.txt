@@ -1,0 +1,69 @@
+===== [17:25] b 步逐章归属（标准口径）+ 总览门禁 =====
+
+=== check_chapter_quotes 逐章 ===
+ch01: ch01 one.md: 6/6 in ch01 text
+  rc=0
+ch02: ch02 two.md: 7/7 in ch02 text
+  rc=0
+ch03: ch03 three.md: 8/8 in ch03 text
+  rc=0
+ch04: ch04 four.md: 8/8 in ch04 text
+  rc=0
+ch05: ch05 five.md: 8/8 in ch05 text
+  rc=0
+ch06: ch06 six.md: 8/8 in ch06 text
+  rc=0
+ch07: ch07 seven.md: 8/8 in ch07 text
+  rc=0
+ch08: ch08 eight.md: 8/8 in ch08 text
+  rc=0
+ch09: ch09 nine.md: 8/8 in ch09 text
+  rc=0
+ch10: ch10 ten.md: 8/8 in ch10 text
+  rc=0
+ch11: ch11 eleven.md: 8/8 in ch11 text
+  rc=0
+ch12: ch12 twelve.md: 7/7 in ch12 text
+  rc=0
+ch13: ch13 thirteen.md: 8/8 in ch13 text
+  rc=0
+ch14: ch14 fourteen.md: 8/8 in ch14 text
+  rc=0
+ch15: ch15 fifteen.md: 8/8 in ch15 text
+  rc=0
+ch16: ch16 sixteen.md: 7/7 in ch16 text
+  rc=0
+ch17: ch17 seventeen.md: 6/6 in ch17 text
+  rc=0
+ch18: ch18 eighteen.md: 8/8 in ch18 text
+  rc=0
+ch19: ch19 nineteen.md: 6/6 in ch19 text
+  rc=0
+ch20: ch20 twenty.md: 5/5 in ch20 text
+  rc=0
+ch21: ch21 but by degrees.md: 8/8 in ch21 text
+  rc=0
+
+=== verify_overview_quotes ===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 51/51 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 76/76 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+rc=0
+
+=== check_overview_full ===
+=== 总览整串核查（october-daye-20-divided-duty-by-seanan-mcguire）===
+  参照集：text/ 逐章（21 章） ｜ 总览文件 3 个
+  A 整串：命中 141 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 0
+  B 章节标签：对 141 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：1 ｜ E H1 语义错配：0
+  ⚠️ 00_概述.md:44  同一句在 2 章出现（ch8,ch16），章节标注有歧义：“Long you’ll go and far you’ll walk,
+rc=0
+
+=== H1 兜底 grep ===
+notes/books/novels/october-daye-20-divided-duty-by-seanan-mcguire/00_情感节点.md:# 《A Divided Duty》情感节点
+notes/books/novels/october-daye-20-divided-duty-by-seanan-mcguire/00_概述.md:# 《A Divided Duty》概述
+notes/books/novels/october-daye-20-divided-duty-by-seanan-mcguire/00_金句精选.md:# 《A Divided Duty》金句精选
