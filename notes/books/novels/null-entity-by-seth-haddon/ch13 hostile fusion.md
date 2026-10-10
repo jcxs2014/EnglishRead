@@ -7,7 +7,7 @@ modified: "2026-10-09"
 
 ## 本章导航
 
-- **一句话概括**：面具被摘下后，"我"落进 Renata Aliers 的意识里——一脑子的荆棘，与一座被她亲手栽培过的花园。Aliers 把两人都绑上那台 rig、推向还在脉动的 Directory，而"我"宁可以杀掉 Wylla Sotain、毁掉一具 Subsidiary 来吓她，也不肯再碰自己的刑具；恫吓奏效，LYREBIRD 抓住她意志松动的一瞬复制脑信号，"我"照 Fyster 的先例搭出一座明亮的审问幻境。幻境里 Aliers 变成一个十九二十岁的女孩，反问她"你以为是谁把你从这里弄出去的"，而"我"不敢去看。紧接着 construct 被一记等离子枪打碎——是你来了，举着枪护住她，本章最后一句把这份保护说成一个名分。
+- **一句话概括**：面具被摘下后，"我"落进 Renata Aliers 的意识里——一脑子的荆棘，与一座被她亲手栽培过的花园。两具存在被绑上那台 rig（原文没有写是谁绑的），Aliers 把他们推向还在脉动的 Directory，而"我"宁可声称自己已经占了 Wylla Sotain、已经篡取了一具比你更强的 Subsidiary，并威胁把 Aliers 的意识砸死，也不肯再碰自己的刑具；恫吓奏效，LYREBIRD 抓住她意志松动的一瞬复制脑信号，"我"照 Fyster 的先例搭出一座明亮的审问幻境。幻境里 Aliers 变成一个十九二十岁的女孩，反问她"你以为是谁把你从这里弄出去的"，而"我"不敢去看。紧接着 construct 被一记等离子枪打碎——是你来了，举着枪护住她，本章最后一句把这份保护说成一个名分。
 - **情感弧线位置**：全书情感上最赤裸的一章：前面全是"我"对被使用的暴怒，中段是恐吓与审问的权力翻越，末尾三句忽然跌落为被拯救的感动，末行用一句粗话把这份感情钉成关系。
 - **人物弧线**：Aliers 在本章第一次被从内部写（荆棘、被现实晒枯萎的天真、core 里仍活着的种子），也从内部被审；她的名字 Renata 与军衔 General 同章出现。"我"则由受害者变成施压者——用谎言、用复制脑信号、用把对方疼痛调大一点点，本章结束时她的好恶已完全系于你。
 - **叙事手法**：意识阅读用园艺隐喻贯穿到底；权力交换靠对话节奏完成（Aliers 的祈使句对上"我"的条件句）；中段插入 construct 幻境，把审讯写成舞台；真相被写成"可以去看但选择不去看"的选项，章末用三个极短段完成视角回到现实。
@@ -90,9 +90,7 @@ modified: "2026-10-09"
 >
 > Did she expect me to know her?
 >
-> Her eyes were raw, lips pursed, plants swaying in an invisible breeze. Then her form shifted. She became a girl.
->
-> Not so young that she was unrecognizable, but young, nineteen or twenty, all dewy-faced and bright-eyed.
+> Her eyes were raw, lips pursed, plants swaying in an invisible breeze. Then her form shifted. She became a girl. Not so young that she was unrecognizable, but young, nineteen or twenty, all dewy-faced and bright-eyed.
 >
 > I lurched forward, not because I knew her, but because I felt a kinship. I had been her, once. Young and innocent.
 >

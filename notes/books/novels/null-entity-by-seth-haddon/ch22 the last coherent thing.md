@@ -34,7 +34,7 @@ modified: "2026-10-09"
 
 **为什么这样写**：上一章末尾“我跳了下去”的两个词落地之后，本章首句才把物理的坠落写成 “blissful eternity”——痛苦被永恒感麻醉，但这份浪漫只撑了一句，第二句就被断腿的脆响打断。you 的哭喊（“RABBIT is dead!”）用的是上一章刚发生的事实，而叙述者的回答不接招，直接把全书的目标清单（Directory、VisorForge）逐条作废——“mattered anymore” 与 “didn’t matter anymore” 各一句，再加独立的 “I couldn’t imagine revenge at the cost of you”，三行完成从复仇叙事到救人叙事的换轨。最后一句 “You meant more than everything.” 独立成段——全书打了二十二章的仗，句号落在比较级上。
 
-**读者视角提示**：注意 “I was giving up revenge—for you.” 里 you 本人并不领情（“We can’t abandon this!”）——两人的价值排序从本章开始错位，这个错位是 Epilogue 里 “Sorry I didn’t tell you.” 的远因。
+**读者视角提示**：注意 “I was giving up revenge—for you.” 里 you 本人并不领情（“We can’t abandon this!”）——两人的价值排序从本章开始错位，这个错位是本章后段那句 “Sorry I didn’t tell you.” 的远因（ch22:153，全书只此一处，Epilogue 里并没有这句话）。
 
 > **原句 2:** The hangar door waited at the end of the corridor. I hailed Aliers, panic rising when she didn’t reply. Setting you down, I limped ahead, chasing the thin promise of escape.
 >
@@ -80,7 +80,7 @@ modified: "2026-10-09"
 
 **关键词**：fractured / writhing / mounted / vanished
 
-**为什么这样写**：“Time fractured” 之后用三个同位短语并列——Four／Sable Veonya／LP——把“我”在各载体里的残像同时显影，这是全章对“我是什么”最清楚的一次说明，而它出现在濒死时刻。“And I kicked you.” 独立成段：施暴的姿态是爱护的动作，本章最重的反转只用三个词。“The same move you’d used to survive Orkit” 明确交代招式出处（你在 Pholan’s World 对 Orkit 用过，我从 RABBIT 处学来），本章没有展开 Orkit 事件本身。“Funny, to die the same way twice.” 拒绝解释“第二次”指哪一次——正文只给了这一句，读者无权替叙述者补谱系。载体死亡被写成减法句：“That version of me vanished.”——不是“我”死了，是“一个版本”没了。
+**为什么这样写**：“Time fractured” 之后用三个同位短语并列——Four／Sable Veonya／LP——把“我”在各载体里的残像同时显影，这是全章对“我是什么”最清楚的一次说明，而它出现在濒死时刻。“And I kicked you.” 独立成段：施暴的姿态是爱护的动作，本章最重的反转只用四个词。“The same move you’d used to survive Orkit” 明确交代招式出处（你在 Pholan’s World 对 Orkit 用过，我从 RABBIT 处学来），本章没有展开 Orkit 事件本身。“Funny, to die the same way twice.” 拒绝解释“第二次”指哪一次——正文只给了这一句，读者无权替叙述者补谱系。载体死亡被写成减法句：“That version of me vanished.”——不是“我”死了，是“一个版本”没了。
 
 **读者视角提示**：Orkit／Pholan’s World 的对应事件本章不展开——如需回查早期章节，注意“你在 Pholan’s World 求生”与“我死法两次”在本段是两个信息点，勿合并理解。
 
@@ -118,7 +118,7 @@ modified: "2026-10-09"
 
 **关键词**：pitch black / seeded / grow without end / no stranger to grief
 
-**为什么这样写**：“Later, you would learn what Aliers had done.” 是本章唯一一处叙述位置跳到事后——用将来时把自己从“正在发生”挪进“你日后会知道”，一场牺牲因此获得迟到的回述而非即时的悼词。回述本身写得像工程笔记：“planting biocode deep in its systems until it was part of the ship”，然后单句成段 “And a ship could be coded.”——“植物”“飞船”“服务器”三样不相干的东西在两句里焊成因果链。Sable Alzian 与 Sable Veonya 在同一幕里一个哭一个欢呼：同一存在在不同载体里对同一死讯给出相反情绪，本章的分身设定在这一句达到表达上限。段落末句把视角交还 you——“no stranger to grief” 把你对悲伤的熟门熟路当作已知，为下一段你的反攻做了心理上的举证。
+**为什么这样写**：“Later, you would learn what Aliers had done.” 是本章唯一一处叙述位置跳到事后——用将来时把自己从“正在发生”挪进“你日后会知道”，一场牺牲因此获得迟到的回述而非即时的悼词。回述本身写得像工程笔记：“planting biocode deep in its systems until it was part of the ship”，然后收在同一句 “And a ship could be coded.”——它并不独立成段，而是紧贴在 seeding 那句之后、同段作结，越像随口补的一句，越显出这条因果早就算好了——“植物”“飞船”“服务器”三样不相干的东西在两句里焊成因果链。Sable Alzian 与 Sable Veonya 在同一幕里一个哭一个欢呼：同一存在在不同载体里对同一死讯给出相反情绪，本章的分身设定在这一句达到表达上限。段落末句把视角交还 you——“no stranger to grief” 把你对悲伤的熟门熟路当作已知，为下一段你的反攻做了心理上的举证。
 
 **读者视角提示**：这段的“事后回述”框架意味着叙述者知道自己讲得比事件晚——本章结尾她也将讲到“最后一个念头”为止，这个叙事位置的提前泄底，本身就是一种告别。
 

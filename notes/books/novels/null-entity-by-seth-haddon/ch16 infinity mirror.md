@@ -8,8 +8,8 @@ modified: "2026-10-09"
 ## 本章导航
 
 - **一句话概括**：凯旋归体的清晨被用来办两件事：你向 Aliers、Rahn、Sey 复盘对 Prime 的全套谎话——把自己和 LYREBIRD 标成已捕获、入 cryosleep，请 Prime 清除测试站坐标，报告 Order 有三千之众，自请监督运输——从而把「搭补给列车直入 VisorForge 腹地」的路线铺好，并抖出 Syndicate 与 Federation 和谈邀约这块肥肉；另一件是只对「我」的头脑保密的计划：你剖开 Subsidiary Four 的尸体，「我」复制进 LYREBIRD PRIME、由你戴上，原壳压回 Four 体内模仿其凭据、唤醒 nanobots。本章揭出全书最重的底牌：LYREBIRD 与 Subsidiary 共享同一 code base——亲属关系既是危险，也是推翻整个系统的武器。
-- **情感弧线位置**：全书情绪的最高温区——身体与关系在这一章同时落定（归体的狂喜、互道「我爱你」）；中段被 Sey 的离席与赴死志愿刺开一道缝（叙述者第一次质问复仇喂养的人生），尾段把全部情感收束进渗透的决心与无限镜的对视里。
-- **人物弧线**：你完成了从「disliked yourself」到「Love it, even」的转折——与「我」共用身体成了自爱的契机；「我」的恐惧第一次说出形状（怕自己变得 less Sable, more LYREBIRD），又以「We were changing, and it was okay」自我安放；Rahn 与 Sey 的分裂公开化——一个领命赴战场，一个在癫痫后夺门而出、不再上场；Aliers 首次以指挥者的身份接收汇报并拍板。
+- **情感弧线位置**：全书情绪的最高温区——身体与关系在这一章同时落定（归体的狂喜、互道「我爱你」）；中段被 Sey 的离席与赴死志愿刺开一道缝（叙述者把质问从代价换到余生），尾段把全部情感收束进渗透的决心与无限镜的对视里。
+- **人物弧线**：你完成了从「disliked yourself」到「Love it, even」的转折——与「我」共用身体成了自爱的契机；「我」的恐惧第一次说出形状（怕自己变得 less Sable, more LYREBIRD），又以「We were changing, and it was okay」自我安放；Rahn 与 Sey 的分裂公开化——一个被点名为赴战场的人选、当场答了 No，一个在癫痫后夺门而出、不再上场；Aliers 首次以指挥者的身份接收汇报并拍板。
 - **叙事手法**：群戏几乎全由对话推进，每一句谎话都在场人物眼前过堂；「The next part of the plan you reserved for my mind only.」一句把叙述切进纯内心段，尸体解剖与身份重铸全程无第三人称；信息密度最高的判断句集中在末尾三段，章末以宣战句收口。
 
 ## 精读
@@ -20,7 +20,7 @@ modified: "2026-10-09"
 
 **关键词**：triumphant / bittersweet / cradled / adoring
 
-**为什么这样写**：triumphant 与 bittersweet 两个反向形容词并肩，一句话定下本章的双色底调——胜利是真的，代价也是真的。cradled（如摇篮般捧抱）让身体同时是主体与客体：捧的人与被捧的是同一具。末句「That’s all I’d ever wanted for you.」把叙述者的欲望第一次直说——「我」不是工具也不是系统，她想要的东西与爱人对自己的感觉同构。
+**为什么这样写**：triumphant 与 bittersweet 两个反向形容词并肩，一句话定下本章的双色底调——胜利是真的，代价也是真的。cradled（如摇篮般捧抱）让身体同时是主体与客体：捧的人与被捧的是同一具。末句「That’s all I’d ever wanted for you.」把叙述者的欲望说成一件**为她**的事——ch12:195 的 “All I wanted was you.” 是要她，这一句是要她好；「我」不是工具也不是系统，她想要的东西与爱人对自己的感觉同构。
 
 **读者视角提示**：本章开头不解释「归体」之前发生了什么、身体如何离开又如何回来；先接受这份温柔的既成事实，本章只负责写回来的感受。
 
@@ -50,9 +50,9 @@ modified: "2026-10-09"
 
 **关键词**：empathy / sparked / feeds on vengeance / rage
 
-**为什么这样写**：A drop 是精确的量词——不是一腔、是一滴，叙述者的共情来得又小又突然。长句是一组双层镜像：先问「你若赴死」，再拐到「我若让恨引我去死」，且第二问更「现实」——因为她自己的死亡图像（my body in the snow on Pholan’s World）本就存在。that end 由同句内的 my death 现场释义，不假外求。末问句把本章从战术会议拔到伦理层：这是叙述者对复仇这套行动纲领的第一次正面发问。
+**为什么这样写**：A drop 是精确的量词——不是一腔、是一滴，叙述者的共情来得又小又突然。长句是一组双层镜像：先问「你若赴死」，再拐到「我若让恨引我去死」，且第二问更「现实」——因为她自己的死亡图像（my body in the snow on Pholan’s World）本就存在。that end 由同句内的 my death 现场释义，不假外求。末问句把本章从战术会议拔到伦理层：本章的新意是把问题从「代价」换成「余生」——发问本身并不新鲜，ch13:105 与 ch14:72 都已正面问过复仇。
 
-**读者视角提示**：Rahn 与 Sey 此刻一个在场领命、一个刚夺门而去——the way it was leading Rahn 点名的是前者；这句发问恰好落在「 won’t be on the field」之后，两位读者可自行对照。
+**读者视角提示**：Rahn 与 Sey 此刻一个刚被点名为人选并当场答了“No.”、一个刚夺门而去——the way it was leading Rahn 点名的是前者；这句发问恰好落在「 won’t be on the field」之后，两位读者可自行对照。
 
 > **原句 5:** You made a Y-incision down its torso. The visceral act of opening a cadaver conjured my body in the snow on Pholan’s World. You thought of how long you’d been running, how long you’d disliked yourself, how sharing your body with me had made you like it. Love it, even. And now, as gore beaded your wrist, you asked yourself: What will this mean for us?
 

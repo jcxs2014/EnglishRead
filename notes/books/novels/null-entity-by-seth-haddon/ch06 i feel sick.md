@@ -42,7 +42,7 @@ modified: "2026-10-09"
 
 **关键词**：oversized gloves / readjusting / ill-fitting clothing / New
 
-**为什么这样写**：揭晓不走台词走肢体：My body froze 与 its fingers flexed 两个主语并排出现，语法先于剧情承认“壳里换了人”。oversized gloves 是全章身体书写中最精确的一件道具——人的灵魂第一次试用非人的手。Uncomfortable. New. 两个形容词独立成段，把揭晓压缩成验货单：不是邪恶，不是伪装，只是“不合身”。叙述者的恐惧由此有了新形状：恐惧的不是怪物，是 Wylla 被困在怪物里。
+**为什么这样写**：揭晓不走台词走肢体：My body froze 与 its fingers flexed 两个主语并排出现，语法先于剧情承认“壳里换了人”。oversized gloves 是全章身体书写中最精确的一件道具——人的灵魂第一次试用非人的手。Uncomfortable. New. 是这段长句末尾的两个独句片段，并没有另起一段——本章真正拎出来单独成段的是 It wasn’t fair. / For the first time. / I have a body. 那几句；这里只把判词压在段落尾部，把揭晓压缩成验货单：不是邪恶，不是伪装，只是“不合身”。叙述者的恐惧由此有了新形状：恐惧的不是怪物，是 Wylla 被困在怪物里。
 
 **读者视角提示**：请回读上一章的猎物反射——RABBIT 的本能曾驱动这同一具动作；“我”此刻读出的每一个肢体细节，都是过去几章共享体感训练的产物。
 
@@ -98,7 +98,7 @@ modified: "2026-10-09"
 
 **关键词**：crisp / fugitive / catalyst / had found us
 
-**为什么这样写**：本章收束把外部世界拉回镜头：援军与劫持者是同一支队伍。那个 crisp／feminine 的声线以“听过”的熟面孔登场——正是上一章结尾两人押注的那个“唯一盟友”——但通牒内容是索人。催化剂（catalyst）一词延续 Edenic Order 把暴力写成生长的语域。而 the fugitive you carry 这个称谓把 Wylla 归为“货品”，与“我”刚刚独占她身体的忏悔形成反讽：她成了“我”体内的乘客。
+**为什么这样写**：本章收束把外部世界拉回镜头：援军与劫持者是同一支队伍。那个 crisp／feminine 的声线以“听过”的熟面孔登场——正是上一章前半那次以加密频道赌“our only allies”的求援所唤来的队伍（上一章的结尾不是它，是 Subsidiary 举枪与末行的 And fired.）——但通牒内容是索人。催化剂（catalyst）一词延续 Edenic Order 把暴力写成生长的语域。而 the fugitive you carry 这个称谓把 Wylla 归为“货品”，与“我”刚刚独占她身体的忏悔形成反讽——只是方向要掉个头：此刻是“你在外面、“我”在里面”（ch06:165），被关在壳外低声求“让我回去”的是你；“乘客”这个位置长期以来坐的是“我”（ch06:174 的 Even in you I was only a borrower）。
 
 **读者视角提示**：本章末尾，两个壳的归属问题与船外强敌同时合拢——下一章只能先回答“开门的是谁”：此刻“我”有 Wylla 的脸，Wylla 有 Subsidiary 的身形，来船认哪一张？
 

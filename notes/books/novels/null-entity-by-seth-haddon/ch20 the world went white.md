@@ -54,7 +54,7 @@ modified: "2026-10-09"
 
 **关键词**：slacken / neural hack / underestimated / cheerfully / pulsed
 
-**为什么这样写**：本章最长的句子给了「我」最大胆的动作（接近 living library），而它的失败只用了最短的一句——It turned to me and cut my connection.——实力差直接写成句长差。揭穿台词是问候式的感叹句（「A pleasure to meet you!」），暴力自带礼貌，是这个世界机器的恐怖写法。「heavy, living library」把整座名录写成有重量、有心跳的东西，「我」的手指刚碰到它的脉搏，Prime 的拳头就到了。本章里「我」被叫出的名字只有一次，且来自对手的嘴——Mrs. Alzian 这个称呼本章未加注，它是谁的、何来，文本不下判。
+**为什么这样写**：实力差直接写成句长差——「我」最大胆的动作（接近 living library）与它的失败各只占一句，两句都是八个词（That heavy, living library pulsed under my touch. / It turned to me and cut my connection.），全章最长的句子（28 词）反倒给了 Wood 那句扩张宣言，最短的（两个词）留给 Prime 挨了一枪之后的那一下。揭穿台词是问候式的感叹句（「A pleasure to meet you!」），暴力自带礼貌，是这个世界机器的恐怖写法。「heavy, living library」把整座名录写成有重量、有心跳的东西，「我」的手指刚碰到它的脉搏，Prime 的拳头就到了。本章里「我」被叫出的名字只有一次，且来自对手的嘴——Mrs. Alzian 这个称呼本章未加注，它是谁的、何来，文本不下判。
 
 **读者视角提示**：提取行动在此断线：被掐、被点破、被开洞，此后本章只剩一件事可做——跑。留意「I paused them」稍后还会出现：「我」对自己的身体拥有开关权，这既是能力也是代价。
 
@@ -66,7 +66,7 @@ modified: "2026-10-09"
 >
 > But you sighed with relief.
 
-**中文理解**：它转向了你。LION 看不见你，你却照样迎上它的注视。不知怎的，在展示箱的混乱与「我」撕裂进你脑中的尖叫之间，你的恐惧溶解了，怒气在胸腔炸开。你抬起爆能枪，一枪打穿 CEO Beckhan Marshall Wood 的头。LION 嘶嘶冒着火花，Wood 的身体砸在 Syndicate 外交官身上，箱子里满是尖叫——但你，松了一口气。
+**中文理解**：他把脸转向了你——上一段刚是 Wood 喝令 Prime 报告，LION 是他脸上的面具，所以这个 He 是 CEO 不是机器。LION 看不见你，你却照样迎上它的注视。不知怎的，在展示箱的混乱与「我」撕裂进你脑中的尖叫之间，你的恐惧溶解了，怒气在胸腔炸开。你抬起爆能枪，一枪打穿 CEO Beckhan Marshall Wood 的头。LION 嘶嘶冒着火花，Wood 的身体砸在 Syndicate 外交官身上，箱子里满是尖叫——但你，松了一口气。
 
 **关键词**：dissolved / exploded / blaster / sparked / relief
 
@@ -86,9 +86,9 @@ modified: "2026-10-09"
 
 **关键词**：shlick / knitting / evaporated / barreling / went white
 
-**为什么这样写**：这一章的反转不是一枪翻盘——击毙 Wood 之后仍然是狼狈的逃亡，「it staggered」三个字就把「终结反派」的爽感泄掉。「I paused them」是本段最狠的选择：宁可敞着伤口不缝，把求生写成对自己身体的减法。我们的呼吸 split across two bodies——两个最短的倒装句（You and me. Me and you.）把全书的共享体感折成回声，推到文本表面。「The world went white.」四个词收刀，原因、地点、后果一概留白。
+**为什么这样写**：这一章的反转不是一枪翻盘——击毙 Wood 之后仍然是狼狈的逃亡，「it staggered」两个词就把「终结反派」的爽感泄掉。「I paused them」是本段最狠的选择：宁可敞着伤口不缝，把求生写成对自己身体的减法。我们的呼吸 split across two bodies——两个各三个词的镜像句（You and me. Me and you.）把全书的共享体感折成回声，推到文本表面。「The world went white.」四个词收刀，原因、地点、后果一概留白。
 
-**读者视角提示**：开跑前你对 Rahn 与 Sira 说「I’m sorry」「Thank you. Do it now.」——「it」指什么，本章没有明写：上一章留下过两个悬而未决的方案（Aliers 下的毁灭令，和你提议的引爆方案）。文本没有裁决，就别替它裁决。
+**读者视角提示**：开跑前你对 Rahn 与 Sira 说「I’m sorry」「Thank you. Do it now.」——「it」指什么，本章没有明写：上一章留下过两个悬而未决的方案（Aliers 下的毁灭令，和「我」提出、你当场摇头否掉的引爆方案——ch19:72 是「我」抓着你的肩膀提议让 Sira 与 Rahn 进去把 Prime 一起炸掉，ch19:75 你摇头说要试试取出 Directory）。文本没有裁决，就别替它裁决。
 
 ## 本章词汇
 

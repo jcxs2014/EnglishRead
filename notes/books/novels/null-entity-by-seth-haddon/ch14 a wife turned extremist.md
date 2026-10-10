@@ -22,7 +22,7 @@ modified: “2026-10-09”
 
 **关键词**：I am yours / flooded / begging you to understand
 
-**为什么这样写**：本章不从场景开始，而从一次过载的呼喊开始——同一个所有权陈述被名字隔开、重复三遍，没有引号也没有说话人标签，排版上就像直接灌进对方接收器的一路信号。第二句用 flooded 给这场重逢定性：她的欢喜是洪泛式的，不给对方留余地；而 begging you to understand 又把欢喜压成恳求，“给你看全部”和“求你理解”其实是同一件事的两面。这句还埋着本章的结构矛盾——后面 Wylla 偏偏把计划的具体内容对她藏着，两个人的信息量从一开始就不对等。
+**为什么这样写**：本章不从场景开始，而从一次过载的呼喊开始——同一个名字被敲了三遍，中间挂着两句各说一次的话（I am yours／I missed you），没有引号也没有说话人标签，排版上就像直接灌进对方接收器的一路信号。第二句用 flooded 给这场重逢定性：她的欢喜是洪泛式的，不给对方留余地；而 begging you to understand 又把欢喜压成恳求，“给你看全部”和“求你理解”其实是同一件事的两面。这句还埋着本章的结构矛盾——后面 Wylla 偏偏把计划的具体内容对她藏着，两个人的信息量从一开始就不对等。
 
 **读者视角提示**：紧接着的一段是 “I couldn’t tell you I’d been too afraid to look. No.”——狂喜里她仍有一件不敢报的事（不敢去看被救出的那个女孩究竟是谁）。别把本章开场读成单纯的团圆。
 
@@ -90,7 +90,7 @@ modified: “2026-10-09”
 
 **为什么这样写**：火的意象在本章完成了一次转移：前文用“burning herself to nothing”写 Aliers 把自己烧尽，此处“burn down with me”把同一种燃烧安到叙述者身上——她承认自己是纵火的那一方，于是把爱重新定义为把对方挪出火场。第二句没有完整的比较句主干，只留下 Better you live untouched than…，形如格言或祷词，与前一段的长句形成节奏落差。untouched 与本章反复出现的“被使用”（“You’d use her the way you were used”）针锋相对：她要给 Wylla 的“干净”不是道德清白，是不被任何人当作工具。
 
-**读者视角提示**：这段的参照系是 Aliers，不是敌人——本章把她当作镜子用。end like 一词在本章双关成立（落得那样的结局／那样的死法），而书里对 Aliers 的处境已有铺垫：“Her life was finite, but it could be worth something”，所以“下场”这个词的分量读者已经领教过。
+**读者视角提示**：这段的参照系是 Aliers，不是敌人——本章把她当作镜子用。end like 一词在本章双关成立（落得那样的结局／那样的死法）；而对 Aliers 处境的那句注脚——“Her life was finite, but it could be worth something”——要到本章后段才出现（ch14:363），还被 “Later, when I split myself into LYREBIRD PRIME” 明确标成回望，所以读者读到这一句时，“下场”的分量其实尚未落地。
 
 > **原句 8:** You laughed back, voice box warbling, and held me aloft.
 >
@@ -100,7 +100,7 @@ modified: “2026-10-09”
 
 **关键词**：voice box warbling / held me aloft / we’ll talk
 
-**为什么这样写**：本章的收束是未完成式。交易、告白、同进退的决定都已经谈定，最后唯一悬置的就是她的身体——“we’ll talk”因此既是奖赏也是缰绳：Aliers 的合作要等这一步兑现，读者的下一章也被拴在同一件事上。而 held me aloft 这个动作值得多看一眼：叙述者（一枚面具）被举起来像举旗，本章真正的谈判桌其实是那具 Subsidiary 的空躯壳，谁控制它，谁就控制整场同盟。
+**为什么这样写**：本章的收束是未完成式。交易、告白、同进退的决定都已经谈定，最后唯一悬置的就是她的身体——Aliers 已经当场交了底（ch14:366 “I’ll follow your lead.”），扣着下一步的是 Wylla，“we’ll talk”因此既是奖赏也是缰绳，读者的下一章也被拴在同一件事上。而 held me aloft 这个动作值得多看一眼：叙述者（一枚面具）被举起来像举旗，本章真正的谈判桌其实是那具 Subsidiary 的空躯壳，谁控制它，谁就控制整场同盟。
 
 **读者视角提示**：末句之前 Aliers 问的是“What’s the plan, Sotain?”——同一个旧 ID，本章早些时候已被她用作成交的称呼（“You’ve got yourself a deal, Sotain”）。称谓从通缉标记变成同伴之间的口气，这个变化在本章内部就可以核到，不必外求。
 

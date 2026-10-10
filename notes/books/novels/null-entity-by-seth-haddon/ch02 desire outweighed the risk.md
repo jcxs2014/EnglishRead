@@ -36,7 +36,7 @@ modified: "2026-10-09"
 
 **为什么这样写**：两句 scream 的对照是本章第一次“翻转读法”。作者先给一串可观察的物质细节（corrugated steel、reinforced concrete、windows sealed beneath bolted sheets、paint faded under rust），让读者跟着角色从外立面往外推结论；否定句 “It didn’t scream VisorForge” 拆掉最直觉的解释，紧接着用同一个动词换一个宾语——“It screamed ambush.”，让单独成段的一句短判断成为本章第一份危险确认：不是数据、不是扫描，是一次视觉推理。另外注意 “which meant we’d need to wait for a lull in foot traffic”：叙述者一边观察一边已经在替行动排时刻表，这是她分配注意力的常态写法。
 
-**读者视角提示**：本章后段会两度回报这一段——破墙（“The door you’d meticulously locked was torn off its hinges”）证明“埋伏”读对了；Order 从大屏幕上方的舱板倒下种子（“A susurrus filled the facility as thousands of seeds jostled”）证明还有第三方也在等同一批人流的间隙。
+**读者视角提示**：本章后段会两度回报这一段——破墙（“The door you’d meticulously locked was torn off its hinges”）证明“埋伏”读对了；Order 从大屏幕上方的舱板倒下种子（“A susurrus filled the facility as thousands of seeds jostled”）证明还有第三方在旁边——但它的时机不是等人流的间隙：舱板打开发生在 Four 正举枪索要身份的那一拍，而“等人流间隙”从头到尾是“我”与 you 自己的约束。
 
 > **原句 3:** I rested beside your wrist on the table, our connection alive only where a strip of bare skin slipped free of your black nylon suit to touch LYREBIRD’s surface. You looked frayed. Hair once clipped sharp now hung ragged, sides shaved only to keep off the heat. Dark crescents bruised your eyes, stamped like thumbprints of exhaustion. Your body bore double the weight, your fatigue and mine pressed into the same skin. At least here you looked like you belonged. Miners carried the same marks from endless shifts.
 
@@ -44,7 +44,7 @@ modified: "2026-10-09"
 
 **关键词**：rested / a strip of bare skin / frayed / thumbprints of exhaustion / double the weight / endless shifts
 
-**为什么这样写**：本章在这里第一次给叙述者一件有表面的身体：“I rested beside your wrist on the table”——主语的落点是一件放在桌上的东西。“our connection alive only where” 里的 only 是关键：它把两人的共生写成需要物理接触才维持的窄带宽，而不是天然的心灵感应。中段作者让叙述者替对方描像（头发、眼下、体重），到 “Your body bore double the weight, your fatigue and mine pressed into the same skin” 才交出这一段真正的信息：负重是共享的，“同一层皮肤”是字面的。末两句又补一层冷酷的社交判断——“At least here you looked like you belonged”，at least 三个字承认这种“属于”是靠疲态伪装出来的：在这颗矿星上，累到脱形反而是通行证。
+**为什么这样写**：本章在这里第一次给叙述者一件有表面的身体：“I rested beside your wrist on the table”——主语的落点是一件放在桌上的东西。“our connection alive only where” 里的 only 是关键：它把两人的共生写成需要物理接触才维持的窄带宽，而不是天然的心灵感应。中段作者让叙述者替对方描像（头发、眼下、体重），到 “Your body bore double the weight, your fatigue and mine pressed into the same skin” 才交出这一段真正的信息：负重是共享的，“同一层皮肤”是字面的。末两句又补一层冷酷的社交判断——“At least here you looked like you belonged”，at least 这两个词承认这种“属于”是靠疲态伪装出来的：在这颗矿星上，累到脱形反而是通行证。
 
 **读者视角提示**：LYREBIRD 在本章既是被触碰的表面，也是稍后被“tipped up”的 beak 与那道“seam of metal and flesh”，还是录像里四个受试者戴的型号。本章不给定义，只让这些用法并列——“我”与 LYREBIRD 的同一性到这里仍是可读、不可裁定。
 
@@ -74,7 +74,7 @@ modified: "2026-10-09"
 
 **关键词**：My attentions were split / in another life / tangled in my hair / too frightened / a woman in a mask
 
-**为什么这样写**：本章唯一一次直白的情话被塞在战术讨论中间，位置本身就是写法。作者先给虚拟式（“in another life you might have sat with your fingers tangled in my hair”），把亲密放进“不可能的那个时空”；随后 “I loved you. I hadn’t told you; I was too frightened.” 三短句切回陈述，句长骤减——感情由修辞层落到事实层。““Sable?” you prompted.” 是本节的命名时刻：这个名字在本章此前的正文里一次都没出现过，它在叙述中落地的那一瞬，恰好是她走神被人唤回的一瞬，一个词同时给出名字与关系。末段是本章典型的“自我说服”结构：先反问 “What did it matter if I was nothing but a woman in a mask?”，再紧跟两个词的肯定句 “You cared about me.”——把结论交给证据，而不是交给论证。
+**为什么这样写**：本章唯一一次直白的情话被塞在战术讨论中间，位置本身就是写法。作者先给虚拟式（“in another life you might have sat with your fingers tangled in my hair”），把亲密放进“不可能的那个时空”；随后 “I loved you. I hadn’t told you; I was too frightened.” 三短句切回陈述，句长骤减——感情由修辞层落到事实层。““Sable?” you prompted.” 是本节的命名时刻：这个名字在本章此前的正文里一次都没出现过，它在叙述中落地的那一瞬，恰好是她走神被人唤回的一瞬，一个词同时给出名字与关系。末段是本章典型的“自我说服”结构：先反问 “What did it matter if I was nothing but a woman in a mask?”，再紧跟四个词的肯定句 “You cared about me.”——把结论交给证据，而不是交给论证。
 
 **读者视角提示**：本章稍后 you 会再次唤这个名字——在记忆滑脱之后，“Sable,” you hissed，那一声是伴着“digging nails into your palm”的痛觉把她唤回身体的。两次同名功能不同：一次唤回注意力，一次唤回身体。另留意 nothing but a woman in a mask 的 nothing but 与本章广告段落里的 the bare minimum to stay alive 属于同一族语言：这个世界习惯用“只配多少”给人估价。
 

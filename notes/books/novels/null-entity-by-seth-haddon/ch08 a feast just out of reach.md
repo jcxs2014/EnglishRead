@@ -34,7 +34,7 @@ modified: "2026-10-09"
 
 **关键词**：wrong-sized / open veins / welded shut / sheer discipline
 
-**为什么这样写**：三个自然段是一个压缩的三段论：证据（空间尺度、线路、焊死的舱门）→判断（never meant for this warship）→翻转（had taken it）。后两段各自独句成段，一句比一句短，是真相浮出水面的节奏。open veins 与本章第一句的 belly 同属解剖学隐喻——船在本章被写成身体；而“让一部分舱段不可住人”的维生配给，把抽象的短缺焊成了实体。
+**为什么这样写**：三个自然段是一个压缩的三段论：证据（空间尺度、线路、焊死的舱门）→判断（never meant for this warship）→翻转（had taken it）。后两段各自独句成段，前一句只给判定，后一句补上施动与代价、长度反而更长——收束不靠缩短，靠加料。open veins 与本章第一句的 belly 同属解剖学隐喻——船在本章被写成身体；而“让一部分舱段不可住人”的维生配给，把抽象的短缺焊成了实体。
 
 **读者视角提示**：welded shut 的舱段与 panels slagged 的熔痕，本章没有解释成因——战舰的前主人是谁、船怎么交的，本章不写；只能读出“接管后仍在亏空运行”。
 
@@ -64,7 +64,7 @@ modified: "2026-10-09"
 
 **关键词**：Forests gutted / wiped out / hoard engineered crops / a good target
 
-**为什么这样写**：Aliers 的控罪清单：头两拍各只有两词——受损物加过去分词，凶手连出场都省了；句子到 They hoard engineered crops 才变长；最后收束于 “They’re a good target” 的生意人口吻——义愤与盘算共用一副语法。“我”的判断紧随其后：What a neat little explanation. “But that’s not the real reason.”——太整洁的解释，往往是给外人听的版本。
+**为什么这样写**：Aliers 的控罪清单：头两拍只有两词与三词——受损物加过去分词，凶手连出场都省了；句子到 They hoard engineered crops 才变长；最后收束于 “They’re a good target” 的生意人口吻——义愤与盘算共用一副语法。“我”的判断紧随其后：What a neat little explanation. “But that’s not the real reason.”——太整洁的解释，往往是给外人听的版本。
 
 **读者视角提示**：本章直到结尾都没有给出 Aliers 的“真实理由”；可对照的是她后半章主动出示的 Monk Lorien 往事——那是陈述，不是解释。
 
@@ -86,13 +86,21 @@ modified: "2026-10-09"
 >
 > “Please read the words.”
 >
-> Pell’s breath rattled. “M-my name is Auren Pell. I’m a VisorForge technician. I falsified documents suggesting VisorForge has allied with the Martial Syndicate. This was a lie. VisorForge is more loyal to the Federation than I am. No one else was involved, and I am sorry. I am truly sorry.”
+> Pell’s breath rattled. “M-my name is Auren Pell. I’m a VisorForge technician. I falsified documents suggesting VisorForge has allied with the Martial Syndicate. This was a lie. VisorForge is more loyal to the Federation than I am. No one else was involved, and I am sorry. I am truly sorry.” Her eyes flickered toward the Subsidiary. “P-please, I—”
+>
+> The device clicked off. Apart from her whimpering, it was silent.
+>
+> She raised her head, bulbous, purple eye pleading. “Are you going to let me go now?”
+>
+> The footage froze as text flashed:
+>
+> INTERROGATED. DECEASED POST-CUSTODY.
 
-**中文理解**：Four 把一支记录棒抵到她的下巴底下。／“请把字念出来。”／Pell 的呼吸在哮鸣。“我——我叫 Auren Pell。我是 VisorForge 的技术员。我伪造了文件，装作 VisorForge 与 Martial Syndicate 结盟。那是谎言。VisorForge 对联邦的忠诚胜过我。没有其他人参与，我很抱歉。我真的非常抱歉。”
+**中文理解**：Four 把一支记录棒抵到她的下巴底下。／“请把字念出来。”／Pell 的呼吸在哮鸣。“我——我叫 Auren Pell。我是 VisorForge 的技术员。我伪造了文件，装作 VisorForge 与 Martial Syndicate 结盟。那是谎言。VisorForge 对联邦的忠诚胜过我。没有其他人参与，我很抱歉。我真的非常抱歉。”她的眼向 Subsidiary 闪了一下。“求——求你，我——”／设备咔哒一声关掉，除了她的呜咽，四周静了。／她抬起头，那颗瘤状紫红的眼睛在哀求：“你们现在放我走吗？”／影像定住，跳出一行字：／已审讯。收押后死亡。
 
-**关键词**：recording stick / read the words / falsified documents / truly sorry
+**关键词**：recording stick / read the words / falsified documents / truly sorry / clicked off / DECEASED POST-CUSTODY
 
-**为什么这样写**：被迫的翻供是一份完整的认罪文书：姓名—职务—承认“伪造”—表忠诚—道歉，连 I am truly sorry 都说了两遍；Please read the words. 坐实了这是念稿不是审判。内容层面的刀更冷：Pell 亲口把当初那次曝光的证据说成捏造，VisorForge is more loyal to the Federation than I am 一句，把同盟的存在从公共记录里擦掉。她最后求饶的半句被设备的咔嗒切断；随后画面定格、闪出的全大写盖章行把谋杀说成流程——“已审讯／收押后死亡”式公文措辞。
+**为什么这样写**：被迫的翻供是一份完整的认罪文书：姓名—职务—承认“伪造”—表忠诚—道歉，道歉叠成两句，第二句才加上 truly；Please read the words. 坐实了这是念稿不是审判。内容层面的刀更冷：Pell 亲口把当初那次曝光的证据说成捏造，VisorForge is more loyal to the Federation than I am 一句，把同盟的存在从公共记录里擦掉。念完稿子后那半句没说完的求饶被设备的咔嗒切断；而咔嗒之后她又抬起一次头，这次是完整的问句 Are you going to let me go now? ——回答是一行盖章文字。画面定格、闪出的全大写行把谋杀说成流程——“已审讯／收押后死亡”式公文措辞。
 
 **读者视角提示**：这段影像是 Wylla 发进来的，不是 Aliers 放给“我”看的；Aliers 主动出示的影像在后面 Monk Lorien 那一卷——两段材料的出处别记混。
 

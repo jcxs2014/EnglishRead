@@ -26,7 +26,7 @@ modified: "2026-10-09"
 
 **关键词**：woke to fire / seared / clinging to consciousness / the spike of pain behind your eye / struck like shrapnel / you were gone
 
-**为什么这样写**：全章第一句只有四个词，主语和宾语都被抽走——不是“我看见了火”，而是“I woke to fire”，醒来即已在火里。随后叙述者的意识被写成依附于痛觉的东西（“clinging to consciousness by the spike of pain behind your eye”）：她不是先恢复视觉再判断处境，而是靠一根痛钉挂住自己。第三段用三个名词短句加一句明喻，把听觉写成弹片（“Each sound struck like shrapnel”），感官排序是听觉先于视觉，符合一个刚醒的人在废墟里的真实顺序。末句 “And Wylla, you were gone.” 是本章第一次“误判”：字面上你只是失去了意识，但“gone”这个动词先于事实出现，读者要等到下一块才知道她还活着。
+**为什么这样写**：全章第一句只有四个词，宾语却是一个不带冠词的 fire——不是“我看见了火”，而是“I woke to fire”，醒来即已在火里。随后叙述者的意识被写成依附于痛觉的东西（“clinging to consciousness by the spike of pain behind your eye”）：她不是先恢复视觉再判断处境，而是靠一根痛钉挂住自己。第三段用三个名词短句加一句明喻，把听觉写成弹片（“Each sound struck like shrapnel”），而听觉排在痛觉与眯眼视物之后——顺序是痛觉→视觉→听觉，符合一个刚醒的人在废墟里的真实顺序。末句 “And Wylla, you were gone.” 是本章第一次“误判”：字面上你只是失去了意识，但“gone”这个动词先于事实出现，读者要等到下一块才知道她还活着。
 
 **读者视角提示**：这一句 gone 在第 2 块里被更准确的说法替换（“little more than a shadow at the back of my thoughts”）——本章开头两次判断之间的距离，就是叙述者当时的慌乱程度。另注意此处的人称结构仍与 ch02 相同：叙述者没有自己的腿，所以她的“醒来”发生在你的大腿和前臂上。
 

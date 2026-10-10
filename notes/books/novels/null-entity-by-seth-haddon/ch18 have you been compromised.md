@@ -20,7 +20,7 @@ modified: "2026-10-09"
 
 **关键词**：thoroughfare / cavernous artery / swollen / garish / brasher
 
-**为什么这样写**：artery…swollen 延续这本书把建筑写成躯体的习惯——本章的对象是「VisorForge 的循环系统」，人和广告都是里面的血液。masturbatory 是全章最刻薄的一个形容词：自我愉悦式的展演没有观众，连私密的基地也在「对自己尖叫」。turned inward like a mirror chamber 收拢判断——企业奇观的受众人只有它自己；这与上一章章尾两人对视的「无限镜」押了同一组韵，一个照关系，一个照系统。
+**为什么这样写**：artery…swollen 延续这本书把建筑写成躯体的习惯——本章的对象是「VisorForge 的循环系统」，人和广告都是里面的血液。masturbatory 是全章最刻薄的一个形容词：自我愉悦式的展演没有观众，连私密的基地也在「对自己尖叫」。turned inward like a mirror chamber 收拢判断——企业奇观的受众人只有它自己；这与 ch16 章尾两人对视的「无限镜」押了同一组韵，一个照关系，一个照系统。
 
 **读者视角提示**：Holos 播的 arena 画面里戴的是 chaff masks——同一批产品，上一章刚发到 Syndicate 士兵手里；本章稍后它将在「无痛演示」与「开火现场」两处同时出现，危险的样品与在售的商品是同一件。
 
@@ -44,9 +44,9 @@ modified: "2026-10-09"
 
 **关键词**：liminal span / composure / stiffened / inclined
 
-**为什么这样写**：电梯是本章的舞台装置：the air held between one danger and the next 把「之间」写成实体——除了剖尸体的那间房，这是全章唯一不必表演的空间，所以问题才滑得出口。三句对白无一标注说话人，镜头却清楚：先有「你」的失态，才有被问者的紧绷。as if expecting it 与 You sound like Sey 把死士的家属席（Sey）召回到车厢里——拒绝赴死的 Sey 与同意被问的 Rahn，在同一句台词里正反对折。而这一问在上一章正是「我」心里想问 Rahn 的原句——措辞逐字相同，发问者从叙述者换成了你。
+**为什么这样写**：电梯是本章的舞台装置：the air held between one danger and the next 把「之间」写成实体——剖开 Four 躯体的那间房在 ch16，不在本章，所以这一段成了全章唯一不必表演的空间，问题才滑得出口。块内两句对白都不靠 said 标明说话人，镜头却清楚：先有「你」的失态，才有被问者的紧绷。as if expecting it 与 You sound like Sey 把 ch16 车厢外的那场争执召回了电梯里——被点名为人选的 Sey 当场答了 No、随即夺门而去，Aliers 一句「他发病之后对我们的手段看法不同了」便把他判在场外；Rahn 既不拒绝也不答应，只把 Sey 搬出来挡这一问。而这一问在上一章正是「我」心里想问 Rahn 的原句——措辞逐字相同，发问者从叙述者换成了你。
 
-**读者视角提示**：「Why are you doing this?」三个字在不同人口中重量不同——上一章是隔岸的不解，本章是同舟的质问；问的人与被问的人都在同一条必死的计划里。
+**读者视角提示**：「Why are you doing this?」五个词在不同人口中重量不同——上一章是隔岸的不解，本章是同舟的质问；问的人与被问的人都在同一条必死的计划里。
 
 > **原句 4:** “My baby brother starved during a corporate blockade.” Her words were flat, stripped of excess. She said no more, so I imagined it: grief as a seed, poisoning the soil from which she’d grown.
 
@@ -108,7 +108,7 @@ modified: "2026-10-09"
 
 **关键词**：compromised / singsong advertising jingle / Is that you
 
-**为什么这样写**：三轮短句问答一轮紧过一轮：先问程序（compromised——例行安全用语），再直接点名（LYREBIRD——命中身份）。否认的措辞泄露体位：前一句还是合规语法的 I have not，最后一句只剩干巴巴的 It is not——模仿的机器衣正在变薄。a singsong advertising jingle buried in its tone 是 VisorForge 的恐怖方式：用卖货的调子喊出你的真名，记忆与威胁共用一个嗓子（上一章那条「杀人与销售共用同一声线调制」的判词在这里兑现）。下一段 But it didn’t answer me 说破本质：这不是对话，是指认。
+**为什么这样写**：两轮短句问答、四个话轮，一轮紧过一轮：先问程序（compromised——例行安全用语），再直接点名（LYREBIRD——命中身份）。否认的措辞泄露体位：前一句还是合规语法的 I have not，最后一句只剩干巴巴的 It is not——模仿的机器衣正在变薄。a singsong advertising jingle buried in its tone 是 VisorForge 的恐怖方式：用卖货的调子喊出你的真名，记忆与威胁共用一个嗓子（上一章那条「杀人与销售共用同一声线调制」的判词在这里兑现）。下一段 But it didn’t answer me 说破本质：这不是对话，是指认。
 
 **读者视角提示**：本章最后两段没被引完：I shivered. 与 It raised its hand, and the feed went dead.——抬手的动作语义本章不解释；把「被叫破名字」与「信号掐断」并排记住，这就是本卷的悬崖。
 

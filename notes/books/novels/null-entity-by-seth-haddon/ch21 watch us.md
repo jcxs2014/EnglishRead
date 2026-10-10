@@ -78,7 +78,7 @@ modified: "2026-10-09"
 
 **关键词**：absorbed / strangled / offending / wrench
 
-**为什么这样写**：这一组把入侵写成反被阅读——“Instead of planting a daemon, Prime absorbed information”：对手不攻不守，只是“读”，而它读出的恰是 you 的全部家底（LYREBIRD PRIME、被孢子感染的义体）。这句同时是下一章的引线：ch22 明写那个程序自本章的 spores 种进你义体以来一直在你体内酝酿（ch22:132 可核）——本段的“被读出来”就是那里“发芽”的起点。随后是两个 “As LP, I” 与 “As Four, I” 的接力（LP 远程抓 Directory、Four 近身锁腰），最后连句式也丢掉、只剩徒手挖进伤口——同一存在在不同载体间换手的叙述，被写成一套三连攻。段落末句 “Then gravity took us both, and we fell.” 把全部努力结算成零和：赢没有发生，只是双双倒下。
+**为什么这样写**：这一组把入侵写成反被阅读——“Instead of planting a daemon, Prime absorbed information”：对手不攻不守，只是“读”，而它读出的恰是 you 的全部家底（LYREBIRD PRIME、被孢子感染的义体）。这句同时是下一章的引线：ch22:132 明写那个程序自 Thorned Root 的孢子种进你义体以来一直在你体内酝酿——种入是 ch03 那场袭击留下的身体状态（ch04:27 承接），本章的 spores 只是 Prime 读出的一项既有事实，全章没有任何植入动作。“被读出来”因此不是起点，而是那坛酝酿已久的东西第一次进了对手的账。随后是两个 “As LP, I” 与 “As Four, I” 的接力（LP 远程抓 Directory、Four 近身锁腰），最后连句式也丢掉、只剩徒手挖进伤口——同一存在在不同载体间换手的叙述，被写成一套三连攻。段落末句 “Then gravity took us both, and we fell.” 把全部努力结算成零和：赢没有发生，只是双双倒下。
 
 **读者视角提示**：offending 在这里是形容词化用法（“施暴的那条手臂”），注意叙述始终拒绝把 Prime 写成“它vs他”的模糊——本章它一律用 it 指称，暴力越像人，越用物称，这是本章的寒意来源之一。
 
@@ -116,7 +116,7 @@ modified: "2026-10-09"
 
 **关键词**：made eye contact / gaping / faltered / Stay a while
 
-**为什么这样写**：“made eye contact with LYREBIRD sitting in the gaping wound of Four’s stomach” 是本章最冷的一帧：叙述者的真身被写成坐在自己躯体腹腔里的“孩子”，猎物与子宫同框，镜头不动声色。“I begged nanobots to restart their healing, but it was too late” 第一次对“我”本人下病危——全章此前所有险情都由载体缓冲，这一句起，“我”开始没有替身可用。“Not like this. I didn’t want to die like this.” 与 you 的 “Not happening.” 同构——两个人物都拒绝对方递来的剧本。收尾 “Stay a while, Ms. Veonya” 用待客语说杀事：礼貌在这里是最纯粹的蔑视，且它第三次使用登记名（第一处 Mrs. Alzian、第二处 Veonya、第三处 Ms. Veonya——本章登记名出现顺序可数），名字越是被敌人叫得准，越显出“我”在这个体系里无所遁形。
+**为什么这样写**：“made eye contact with LYREBIRD sitting in the gaping wound of Four’s stomach” 是本章最冷的一帧：叙述者的真身被摊在 Four 敞开的腹腔伤口里——面具、它所占据的躯体与敌人的目光同处一帧，镜头不动声色。“I begged nanobots to restart their healing, but it was too late” 第一次对“我”本人下病危——全章此前所有险情都由载体缓冲，这一句起，“我”开始没有替身可用。“Not like this. I didn’t want to die like this.” 与 you 的 “Not happening.” 同构——两个人物都拒绝对方递来的剧本。收尾 “Stay a while, Ms. Veonya” 用待客语说杀事：礼貌在这里是最纯粹的蔑视，且这是 Prime 在本章第二次叫出登记名（第一次是 ch21:42 的 Mrs. Alzian；中间那句 Veonya 出自“我”自己的假报 ch21:57，不算敌人叫的），名字越是被敌人叫得准，越显出“我”在这个体系里无所遁形。
 
 **读者视角提示**：gaping wound 与 faltered 之后 ankle 被扣——Prime 的行动半径在本段缩到只剩一只手一只脚踝，力量对比已经悄悄易手，这是为下一段“断须自救”做的位移准备。
 
@@ -138,7 +138,7 @@ modified: "2026-10-09"
 
 **关键词**：ratcheted / guttering / buckled / Watch us
 
-**为什么这样写**：“I let it.” 只有三个词，前面是 ratcheted tight（棘轮式收紧）的力学铺垫，后面直接接 “A chunk of calf stayed behind”——自残自救被写成一个主动的“让”，本章所有的身体恐怖都压缩在这个不及物的让步里。“stayed behind in Prime’s grip” 把身体的一部分变成留给追兵的记名信物。三动词链（slammed／buckled／shriek）给场景以金属的钝感。终局由三段独立短行收束：Prime 的 “You cannot run”、“I” 的 “Watch us.”、独占一行的 “I jumped.”——最后两个词是完整句、单动作、不给余波；“Watch us” 的对象既是 Prime，也是对刚死的 RABBIT 立誓，两个词替本章把全部未完成的复仇押进了下一章。
+**为什么这样写**：“I let it.” 只有三个词，前面是 ratcheted tight（棘轮式收紧）的力学铺垫，后面直接接 “A chunk of calf stayed behind”——自残自救被写成一个主动的“让”，本章所有的身体恐怖都压缩在这个不及物的让步里。“stayed behind in Prime’s grip” 把身体的一部分变成留给追兵的记名信物。三动词链（slammed／buckled／shriek）给场景以金属的钝感。终局由两段独立短段收束：Prime 的 “You cannot run,” 与独占一行的 “I jumped.”——后者两个词是完整句、单动作、不给余波；而 “Watch us.” 并不单独成行，它挂在 ch21:141 那段末尾，紧跟在“幸存者跑到跑不动为止”之后。“Watch us” 的对象既是 Prime，也是对刚死的 RABBIT 立誓，两个词替本章把全部未完成的复仇押进了下一章。
 
 **读者视角提示**：跳井之后本章戛然而止；下一章第一句写两人“坠落了一段极乐般的永恒”（ch22:15 可核），直接接住这个动作——悬念的交接精确到一行之内，不要在两章之间自行脑补落地。
 

@@ -56,7 +56,7 @@ modified: "2026-10-09"
 
 **为什么这样写**：四个 Here 的排比是全章的情绪支点，也是空间变成证物的写法——一艘“不在任何星图上”的船，突然成了“我”自己受难的现场。信息层级也在这里完成三级跳：it happened（模糊）→ Fyster left you（旧伤）→ they fused LYREBIRD to your skull（“你”与这具身体的来历）。第三、四句的对象忽然从“我”滑向“you”：fused 这个词属于两人的共同过去，低语因此不只是修辞。
 
-**读者视角提示**：fused、seized、preserved、redeployed 这几个动词后文会被 Aliers 用来描述 VisorForge 对意识的处理方式；同一个词从私人创伤滑向工业术语，是本书写「恐怖」的方法。
+**读者视角提示**：seized、preserved、redeployed 这三个动词后文由 Aliers 亲口用来描述 VisorForge 对意识的处理方式（ch09:126），而 fused 始终留在叙述者的低语里、没有从她口中说出；同一个词从私人创伤滑向工业术语，是本书写「恐怖」的方法。
 
 > **原句 5:** From what I understand, the initial plan was to upload the minds of Syndicate soldiers into the Directory. LYREBIRD would then download an entire consciousness to override the host body. But every subject broke. They burned out in days. Except Sable Alzian.
 
@@ -78,7 +78,7 @@ modified: "2026-10-09"
 
 **为什么这样写**：全章铺垫（监视、星图外之船、真相的层层施舍）换来一个数量词——ten thousand 把私人创伤直接换算成军备规模。喜剧性的节奏在“We both gasped”：共用一具身体的两个意识同时失态，一个动词同时写了两条线。“我”随即补一句“Of course she does.”再接“You were sharp, frustrated”——Wylla 立刻嗅出计划里的不合算，两人一热一冷的反应差就是本章冲突的发动机。
 
-**读者视角提示**：数字出现前 Aliers 用了“You can’t guess?”的挑衅句式；她投喂信息时反复配姿态动作（folded her arms、eyes gleaming、eyes narrowed），把慷慨写成施恩。
+**读者视角提示**：数字说出之后，Aliers 又用“You can’t guess?”（ch09:186）反将一军；她投喂信息时反复配姿态动作（folded her arms、eyes gleaming、eyes narrowed），把慷慨写成施恩。
 
 > **原句 7:** VisorForge realized mind uploads take years. But downloads? Easy—especially if you don’t bother with complete consciousnesses. Break a mind into skills, reflexes, obedience, package them as modules.
 

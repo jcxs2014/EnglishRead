@@ -10,7 +10,7 @@ modified: "2026-10-09"
 - **一句话概括**：Level 6 展示箱外双线同时引爆——「我」与 Rahn、Sira 在走廊顶住 Subsidiaries，你只身潜入 Wood 的发布会；台上，对手亲口把 LYREBIRD 的出生讲成产品史，台下，「我」用你的 wiped ID 铸矛刺进同类的网络。随着 agency waivers 与 Federation Recognition Clause 两条隐藏条款摊开，真政变现形：VisorForge 把半个银河的用户变成自己的「员工」，换的是理事会席位。章末，Prime 在转角截住去路。
 - **情感弧线位置**：全书展示箱高潮段的开局章：从「we didn’t have a minute」的开场倒计时，经中段「perversion」与「coup」两层真相揭示的逐渐发冷，章末落在「It was Prime.」的截停上——争分夺秒以腹背受敌收场。
 - **人物弧线**：本章你第一次未戴面具进入全场注目的展示箱；「我」在 Four 的躯壳里明写自己被「human thought pressed into code」浇铸的痕迹，并承认「My escape had only emboldened them」；Aliers 眼睁睁看着心血被讲成「perversion」，说出毁灭令「If you can’t get it out of Prime, destroy it.」；而「我」那句「I used the moment to build you into a daemon」，把你被抹掉的记录首次变成武器。
-- **叙事手法**：双线交织——台上演讲与走廊交火以相邻段落拼贴，节奏靠大量单句短段切换（「Five Subsidiaries on Level 6.」「Where was Prime?」「It was Prime.」）；设定科普全部外包给反派的发布会口径，叙述只负责落下一句判词（「They were describing the perversion of Aliers’s work.」）。
+- **叙事手法**：双线交织——台上演讲与走廊交火以相邻段落拼贴，节奏靠大量单句短段切换（「Five Subsidiaries on Level 6.」「Where was Prime?」「It was Prime.」）；设定科普大部外包给反派的发布会口径，叙述只负责落下一句判词（「They were describing the perversion of Aliers’s work.」）；但章末的条款科普不是台词——「我」潜入 Four 的合规台账自己读出来（ch19:222），agency waivers 与 Federation Recognition Clause 两段都出自叙述者之口。
 
 ## 精读
 
@@ -66,7 +66,7 @@ modified: "2026-10-09"
 
 **关键词**：perversion / pitched / bastard / flourish
 
-**为什么这样写**：「never meant for bodies」六个字把全章的悲剧定性——不是技术做错了，是它从一开始就被卖错了对象。Fyster 在本章仅此一次出现，身份是「把 Directory 卖给面具与容器的人」，展示箱里的全部灾祸被追认成一次推销。而「whispered bastard」写得极小：Aliers 人不在场，唯一的抗议是一句画外低语，与「spread his arms in a flourish」对置——宏大是借来的，渺小才是自己的。
+**为什么这样写**：「never meant for bodies」四个词把全章的悲剧定性——不是技术做错了，是它从一开始就被卖错了对象。Fyster 在本章仅此一次出现，身份是「把 Directory 卖给面具与容器的人」，展示箱里的全部灾祸被追认成一次推销。而「whispered bastard」写得极小：Aliers 人不在场，唯一的抗议是一句画外低语，与「spread his arms in a flourish」对置——宏大是借来的，渺小才是自己的。
 
 **读者视角提示**：「Aliers joined the feed」意味着她此刻已经把手伸进演示的音频层——稍后视窗的异动，根子在这一句里。
 
@@ -82,7 +82,7 @@ modified: "2026-10-09"
 
 **关键词**：vaulted / sternum / shimmered / naked / cooed
 
-**为什么这样写**：走廊用动词密度写（撕、翻、扑、开火），台上用报幕员的松弛写——连出身史都是「旧闻」的语气，双线以段落为单位交替剪辑。视窗亮起的瞬间，本章的计划撞上了它的目标，但结果失控：绽开在玻璃上的是你未戴面具的脸。「Unmasked, you looked naked」把面具主题翻转成生理感受——在全员戴面具的世界里，不戴不是隐身，是暴露。RABBIT 三个同义词叠在一起，是它最短的一次完整发言。
+**为什么这样写**：走廊用动词密度写（撕、翻、扑、开火），台上用报幕员的松弛写——连出身史都是「旧闻」的语气，双线以段落为单位交替剪辑。视窗亮起的瞬间，本章的计划撞上了它的目标，但结果失控：绽开在玻璃上的是你未戴面具的脸。「Unmasked, you looked naked」把面具主题翻转成生理感受——在全员戴面具的世界里，不戴不是隐身，是暴露。RABBIT 三个同义词叠在一起，是它最短的完整发言之一——更短的一次只有一个词（ch03:69 的 Hide）。
 
 **读者视角提示**：Wood 下一句就把这场意外收进演出——「rather than curse this thorn, we thank her」。留意这个演讲者的消化能力：在本章，它正是 VisorForge 的核心能力。
 
@@ -130,7 +130,7 @@ modified: "2026-10-09"
 
 **为什么这样写**：此前两段（agency waivers 与 Federation Recognition Clause）为这句判断打了底：夺权不走议会，走 End-User Agreement——「turned half the galaxy into its employees」把政变还原成合同条款的算术（「Millions of them. Each one a tally toward council seats.」）。结尾的「this wasn’t the worst of it」宣告文本自己的严重性标尺还在下探；「as if summoned by the sound of our distress」给 Prime 的出现留下因果的暧昧——是被召来，还是只是同时到达？「It was Prime.」用三个单词收束全章，把「提取」「毁灭」「逃命」三条张力同时悬停。
 
-**读者视角提示**：Prime 现身的地点正是你潜入的「那间屋子的外头」——「Outside that room and its revelation」把屋内（揭示）与屋外（截停）压进同一个词「box」；「No time for sense—I copied myself a hundredfold and read it all at once」里的分身阅读，用的仍是「我」从全书开篇就确立的作业方式。
+**读者视角提示**：Prime 现身的地点正是那场揭示的门外——「Outside that room and its revelation」把屋内（揭示）与屋外（截停）压进同一个 Outside；这个 room 是与 Wood 同处、政变在巨幕上宣布的那间屋子，不是本章前段你滑进去的 display box（那一处用的是 box，此处通篇没有 box 这个词）。「No time for sense—I copied myself a hundredfold and read it all at once」里的分身阅读，用的仍是「我」从全书开篇就确立的作业方式。
 
 ## 本章词汇
 

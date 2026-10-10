@@ -32,7 +32,7 @@ modified: "2026-10-09"
 
 **为什么这样写**：lured so many to their deaths 与 convinced countless others to buy a mask 被并列进同一条定语从句（中间隔着 during LYREBIRD’s trials），一句话讲完这本书对 VisorForge 商业模式的判词：杀人与销售共用一个嗓子。身体反应分两层写——Four 的手 involuntarily 抽动（残留的生理反射）与「你」的精神 shiver；even beneath LP 点明：伪装能改写扫描结果，改不掉恐惧本身。
 
-**读者视角提示**：trials 中受试者死亡不是本章新信息，前文已有记录（ch02、ch09 可查）——本章只让身体替记忆先做出反应，读者无需此刻去翻。
+**读者视角提示**：trials 中受试者死亡不是本章新信息，前文已有记录（ch09:114、ch11:135 可查）——本章只让身体替记忆先做出反应，读者无需此刻去翻。
 
 > **原句 3:** I moved aside to show who stood behind me. Two bound Thorned Root soldiers knelt like subdued pups. General Aliers, the third life sign, filled your supposed place in the cryochamber. But you, daemon-free, had reclaimed your null entity status. You knelt beside me so as not to obscure the view of my supposed prisoners.
 
@@ -50,7 +50,7 @@ modified: "2026-10-09"
 
 **关键词**：Affirmative / subtask standards / Complication / detainees / Requesting guidance
 
-**为什么这样写**：整段删除人称与情绪——名词化、省略主语、把两难改写成 directives 冲突报表。叙述者不是「模仿机器」而是按共享代码真的在跑机器的语体，模仿的无缝正是上一章同源揭示的现场兑现。但这套语言给自己留了一个合法出口：Requesting guidance——Subsidiary 向 Prime 求指导必然常见，所以这个请求不惹眼，却把处置权与时间窗都买了回来。
+**为什么这样写**：整段几乎删净人称——全段只留一个第一人称 I，其余名词化、省略主语、把两难改写成 directives 冲突报表。叙述者不是「模仿机器」而是按共享代码真的在跑机器的语体，模仿的无缝正是上一章同源揭示的现场兑现。但这套语言给自己留了一个合法出口：Requesting guidance——Subsidiary 向 Prime 求指导必然常见，所以这个请求不惹眼，却把处置权与时间窗都买了回来。
 
 **读者视角提示**：能把这段读成「人在 cosplay 机器」，恰说明作者给冷语体留了破绽——corporate optics、harm 这类词算账味太足，是人才发明的谨慎。
 
@@ -70,7 +70,7 @@ modified: "2026-10-09"
 
 **关键词**：telemetry / mass-produced replicas / chaff units / automated vessel / scatter
 
-**为什么这样写**：what I’d started calling 是进行时命名——叙述者边打仗边造词，chaff（干扰箔）这个电子战术语同时是军事诱饵与园艺覆盖物，与全书植物链咬合。loaded them up without issue 用报关条式的干脆收尾，越顺越要警：That part had been easy 是全章的节奏预告——难的从落地才开始。thirteen 这个数字本章只报一次编制，后文它将以「藏在几百只箱子中的十三」反复出现。
+**为什么这样写**：what I’d started calling 是进行时命名——叙述者边打仗边造词，chaff（干扰箔）这个电子战术语同时是军事诱饵与园艺覆盖物，与全书植物链咬合。loaded them up without issue 用报关条式的干脆收尾，越顺越要警：That part had been easy 是全章的节奏预告——难的从落地才开始。thirteen 这个数字在本章出现两次：先是编制数，随后在同章机库段以「藏在几百只箱子中的十三」回扣（ch17:69、ch17:114）；下一次已是 ch18:111 的「十三名 EO 士兵、剩下十二人」。
 
 **读者视角提示**：读到「easy」时就把刻度记好：本章此后每次「一切正常」（机库一切如常、伪造摄像头馈送无警报）都按同一刻度打折。
 
@@ -80,7 +80,7 @@ modified: "2026-10-09"
 
 **关键词**：hunger for martyrdom / propaganda / rankled / cowardly / pitiful / breach
 
-**为什么这样写**：叙述者用「一年前的自己」当道德参照系——这不是控诉殉道者，是挖自家坟：她曾就是那种人。But then I met you. 五个字是全段价值翻转的轴，赴死从勇敢变怯懦的理由不是怕死，是有了想活的证人。A waste. 三词短句在长句后落下斧凿。让步状语 even if… bought our breach 保留账本的两栏：可怜与有用并存——本章拒绝给革命发一张干净的情绪收据。
+**为什么这样写**：叙述者用「一年前的自己」当道德参照系——这不是控诉殉道者，是挖自家坟：她曾就是那种人。But then I met you. 五个字是全段价值翻转的轴，赴死从勇敢变怯懦的理由不是怕死，是有了想活的证人。A waste. 两个词短句在长句后落下斧凿。让步状语 even if… bought our breach 保留账本的两栏：可怜与有用并存——本章拒绝给革命发一张干净的情绪收据。
 
 **读者视角提示**：这段评的是刚登场的 Sira 与 Rahn——别急着同意叙述者；Aliers 不敢看他们的眼睛（as if she herself would never die），把同样的判断又变轻了一层。
 
@@ -92,7 +92,7 @@ modified: "2026-10-09"
 
 **关键词**：anchor / something real / survived worse / we’d be free
 
-**为什么这样写**：渗透章的收拍不在动作特写，在一句没做成的小事——想牵手。anchor 与本章的船、dock、hangar 同属航海词系，亲密被写成泊位需求：随时可能拖锚的船才需要锚。We’d survived worse 用「过去完成」把幸存史立成账本，为最后那一句许诺垫底。And when this was over, we’d be free. 独立成段、无修饰——全章唯一一句纯粹的将来时，与 Prime 台账里那些冷静的现在时构成最后的声轨反差。
+**为什么这样写**：渗透章的收拍不在动作特写，在一句没做成的小事——想牵手。anchor 与本章的船、dock、hangar 同属航海词系，亲密被写成泊位需求：随时可能拖锚的船才需要锚。We’d survived worse 用「过去完成」把幸存史立成账本，为最后那一句许诺垫底。And when this was over, we’d be free. 独立成段、无修饰——与同章 ch17:111「And we would face this together.」并列为本章仅有的两句独立成段的将来时承诺，与 Prime 台账里那些冷静的现在时构成最后的声轨反差。
 
 **读者视角提示**：free 与本章开头的 null entity 是两个东西：一个是法律上的查无此人，一个是想要的人生状态——章末不要把两者替人物提前合并。
 

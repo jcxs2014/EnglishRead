@@ -30,7 +30,7 @@ modified: "2026-10-09"
 >
 > The Thorned Root cell of the Edenic Order.
 
-**中文理解**：瞬间，RABBIT 拿到系统级权限，把求救信号沿着黑客论坛的加密频道广播出去——赌的是“我们唯一的盟友们”还在听。破折号后补一句：Thorned Root 这支 Edenic Order 的分支。
+**中文理解**：瞬间，RABBIT 拿到系统级权限，把求救信号沿着黑客论坛的加密频道广播出去——赌的是“我们唯一的盟友们”还在听。下一段另起一行，只留一个孤零零的同位语：Thorned Root 这支 Edenic Order 的分支。
 
 **关键词**：system-level access / distress signal / encrypted channels / hacker forum
 
@@ -58,13 +58,15 @@ modified: "2026-10-09"
 
 **读者视角提示**：Right over your heart 是全章最解剖学的一行；此刻心脏只是器官，枪不懂象征。也正因如此，后文它被点名时会疼得更准。
 
-> **原句 5:** I set a daemon loose inside, a process it would claim as its own, and copied myself again and again, filling its system with the full complexity of my human mind—Sable Veonya, over and over again. My memories, my logic, my contradiction.
+> **原句 5:** I projected myself as I had when we first faced Subsidiary Four. I split: part of me racing toward its brain while broadcasting its own ID back at it, whispering—I am a part of you. I am trustworthy.
+>
+> I set a daemon loose inside, a process it would claim as its own, and copied myself again and again, filling its system with the full complexity of my human mind—Sable Veonya, over and over again. My memories, my logic, my contradiction.
 
-**中文理解**：“我”在它体内放出一枚 daemon——一个它会认作己有的进程；然后把“我”自己一遍一遍复制，把“我”人心智的全部复杂度灌进它的系统——Sable Veonya，一遍又一遍。“我”的记忆、“我”的逻辑、“我”的自相矛盾。
+**中文理解**：我照第一次面对 Subsidiary Four 那样把自己投影出去。我分头行动：一部分冲向它的脑，同时把它自己的 ID 播回给它，低声说——我是你的一部分，我可信。“我”在它体内放出一枚 daemon——一个它会认作己有的进程；然后把“我”自己一遍一遍复制，把“我”人心智的全部复杂度灌进它的系统——Sable Veonya，一遍又一遍。“我”的记忆、“我”的逻辑、“我”的自相矛盾。
 
 **关键词**：loose / claim as its own / full complexity / contradiction
 
-**为什么这样写**：这是“我”的攻击签名：不注入病毒，注入“人”——以 my memories, my logic, my contradiction 作载荷，用心智的总量做洪水。全名 Sable Veonya 在战报中途落下，像用肉身自我介绍：前一句它还在对敌 whispering—I am a part of you. I am trustworthy.（借身份潜入），这一句改用溢出的身份淹死对方——同一段里两种入侵术互文。末三个短语全部以 my 开头、不带动词：被复制进敌体的不是武器清单，是自我清单。
+**为什么这样写**：这是“我”的攻击签名：不注入病毒，注入“人”——以 my memories, my logic, my contradiction 作载荷，用心智的总量做洪水。全名 Sable Veonya 在战报中途落下，像用肉身自我介绍：前一段它还在对敌 whispering—I am a part of you. I am trustworthy.（借身份潜入），这一句改用溢出的身份淹死对方——相邻两段里两种入侵术互文。末三个短语全部以 my 开头、不带动词：被复制进敌体的不是武器清单，是自我清单。
 
 **读者视角提示**：a process it would claim as its own 值得回读——敌人靠 daemon 寄生 Wylla，“我”用一模一样的手法回敬：攻击者在此刻成了自己控诉的机制。本章此后“我”与“你”的信任裂痕，起点就在这一下。
 
@@ -74,7 +76,7 @@ modified: "2026-10-09"
 
 **关键词**：convulsed / flung wide / unseen current / dying insect / code clashed against meat
 
-**为什么这样写**：本章倒数第二个自然段停在败局定格：反扑的代价由 Wylla 的神经支付。code clashed against meat 把整场战争压进一个动词短语——碰撞不发生在代码对代码或肉对肉，而在同一具神经上两种本体互相锉削。dying insect 又反转了前文 prey-animal 的位置：本章前文你们刚借用 RABBIT 的猎物本能站立，此刻自己成了实验尾段的中毒标本——求生修辞在本章内部先升值后清算。
+**为什么这样写**：本章倒数第三个自然段停在败局定格：反扑的代价由 Wylla 的神经支付（其后才是枪口转向的那一段，与末行只有两个词的 And fired.）。code clashed against meat 把整场战争压进一个动词短语——碰撞不发生在代码对代码或肉对肉，而在同一具神经上两种本体互相锉削。dying insect 又反转了前文 prey-animal 的位置：本章前文你们刚借用 RABBIT 的猎物本能站立，此刻自己成了实验尾段的中毒标本——求生修辞在本章内部先升值后清算。
 
 **读者视角提示**：本章末行只有两个词 And fired.——枪响被写成省略了所有过程的及物动作；下一章从“血是热的”这一触觉接住这一枪，代词将发生本章读者此刻还无法预料的换轨。
 

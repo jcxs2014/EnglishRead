@@ -62,7 +62,7 @@ modified: "2026-10-09"
 
 **关键词**：lifted / faded to irrelevance / financiers
 
-**为什么这样写**：终端查出三笔记录，叙述只逐字转写其中两个词（BASE 带引号、financiers），把官僚体压缩成两条线索加一记落空：目标在移动、且已搬家。faded to irrelevance 是全段唯一的情绪动词——希望不是被否定，而是被降权。lifted 这个轻动词（上传/拔起）让庞大的活档案像被整棵移栽，呼应第 9 章 rhizome「横着生长」的定义：连搬走都是植物式的。
+**为什么这样写**：终端查出三笔记录，叙述只把 BASE 一个词原样带进正文并加上引号，其余都被改写（financiers、in three days 都是叙述者自己的话），把官僚体压缩成两条线索加一记落空：目标在移动、且已搬家。faded to irrelevance 是全段唯一的情绪动词——希望不是被否定，而是被降权。lifted 这个轻动词（上传/拔起）让庞大的活档案像被整棵移栽，呼应第 9 章 rhizome「横着生长」的定义：连搬走都是植物式的。
 
 **读者视角提示**：“BASE”坐标缺失与「三天后 Syndicate 提货」是两个下一章可用的钩子；而终端之前“我”就已经撞见同一类矛盾——门开了，灯竟然早已亮着：“I thought you said no one had been here in three days?”灯为何亮着，本章不答。
 
