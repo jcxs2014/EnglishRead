@@ -22,7 +22,7 @@ modified: "2026-10-09"
 
 **为什么这样写**：首句把信号屏蔽写成自然意象（winter tree shedding snow），下一句立刻换成商务词（branding、gold-plated、property）——自然的修辞归叙述者，商标的修辞归这家公司。I stared at myself—no, at another Subsidiary 的自纠两秒完成信息传递：叙述者此刻栖居在 Four 的壳里，而迎面来电的那位与她共用同一张工业脸。property 一词把「Welcome home」的下句问候钉冷——回家的「家」是资产登记簿。
 
-**读者视角提示**：Subsidiary Prime. 独立成行登场，只给三个词——它的权威不靠形容词，靠与 Four 的相同外形加一块商标胸甲。
+**读者视角提示**：Subsidiary Prime. 独立成行登场，只给两个词——它的权威不靠形容词，靠与 Four 的相同外形加一块商标胸甲。
 
 > **原句 2:** Its bright, infuriating voice used the same modulation that had lured so many to their deaths during LYREBIRD’s trials or convinced countless others to buy a mask. The sound made Four’s hand flex involuntarily. I felt you shiver too, even beneath LP.
 

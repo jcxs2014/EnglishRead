@@ -64,7 +64,7 @@ modified: "2026-10-09"
 
 **关键词**：Forests gutted / wiped out / hoard engineered crops / a good target
 
-**为什么这样写**：Aliers 的控罪清单：头两拍各只有两词——受损物加过去分词，凶手连出场都省了；句子到 They hoard engineered crops 才变长；最后收束于 “They’re a good target” 的生意人口吻——义愤与盘算共用一副语法。“我”的判断紧随其后：What a neat little explanation. But that’s not the real reason.——太整洁的解释，往往是给外人听的版本。
+**为什么这样写**：Aliers 的控罪清单：头两拍各只有两词——受损物加过去分词，凶手连出场都省了；句子到 They hoard engineered crops 才变长；最后收束于 “They’re a good target” 的生意人口吻——义愤与盘算共用一副语法。“我”的判断紧随其后：What a neat little explanation. “But that’s not the real reason.”——太整洁的解释，往往是给外人听的版本。
 
 **读者视角提示**：本章直到结尾都没有给出 Aliers 的“真实理由”；可对照的是她后半章主动出示的 Monk Lorien 往事——那是陈述，不是解释。
 

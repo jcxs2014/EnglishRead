@@ -138,7 +138,7 @@ modified: "2026-10-09"
 
 **关键词**：ratcheted / guttering / buckled / Watch us
 
-**为什么这样写**：“I let it.” 只有两个词，前面是 ratcheted tight（棘轮式收紧）的力学铺垫，后面直接接 “A chunk of calf stayed behind”——自残自救被写成一个主动的“让”，本章所有的身体恐怖都压缩在这个不及物的让步里。“stayed behind in Prime’s grip” 把身体的一部分变成留给追兵的记名信物。三动词链（slammed／buckled／shriek）给场景以金属的钝感。终局由三段独立短行收束：Prime 的 “You cannot run”、“I” 的 “Watch us.”、独占一行的 “I jumped.”——最后三个词是完整句、单动作、不给余波；“Watch us” 的对象既是 Prime，也是对刚死的 RABBIT 立誓，两个词替本章把全部未完成的复仇押进了下一章。
+**为什么这样写**：“I let it.” 只有三个词，前面是 ratcheted tight（棘轮式收紧）的力学铺垫，后面直接接 “A chunk of calf stayed behind”——自残自救被写成一个主动的“让”，本章所有的身体恐怖都压缩在这个不及物的让步里。“stayed behind in Prime’s grip” 把身体的一部分变成留给追兵的记名信物。三动词链（slammed／buckled／shriek）给场景以金属的钝感。终局由三段独立短行收束：Prime 的 “You cannot run”、“I” 的 “Watch us.”、独占一行的 “I jumped.”——最后两个词是完整句、单动作、不给余波；“Watch us” 的对象既是 Prime，也是对刚死的 RABBIT 立誓，两个词替本章把全部未完成的复仇押进了下一章。
 
 **读者视角提示**：跳井之后本章戛然而止；下一章第一句写两人“坠落了一段极乐般的永恒”（ch22:15 可核），直接接住这个动作——悬念的交接精确到一行之内，不要在两章之间自行脑补落地。
 

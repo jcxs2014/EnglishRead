@@ -32,7 +32,7 @@ modified: "2026-10-09"
 
 **关键词**：blissful eternity / snapped / thrashed / at the cost of you
 
-**为什么这样写**：上一章末尾“我跳了下去”的三个词落地之后，本章首句才把物理的坠落写成 “blissful eternity”——痛苦被永恒感麻醉，但这份浪漫只撑了一句，第二句就被断腿的脆响打断。you 的哭喊（“RABBIT is dead!”）用的是上一章刚发生的事实，而叙述者的回答不接招，直接把全书的目标清单（Directory、VisorForge）逐条作废——“mattered anymore” 与 “didn’t matter anymore” 各一句，再加独立的 “I couldn’t imagine revenge at the cost of you”，三行完成从复仇叙事到救人叙事的换轨。最后一句 “You meant more than everything.” 独立成段——全书打了二十二章的仗，句号落在比较级上。
+**为什么这样写**：上一章末尾“我跳了下去”的两个词落地之后，本章首句才把物理的坠落写成 “blissful eternity”——痛苦被永恒感麻醉，但这份浪漫只撑了一句，第二句就被断腿的脆响打断。you 的哭喊（“RABBIT is dead!”）用的是上一章刚发生的事实，而叙述者的回答不接招，直接把全书的目标清单（Directory、VisorForge）逐条作废——“mattered anymore” 与 “didn’t matter anymore” 各一句，再加独立的 “I couldn’t imagine revenge at the cost of you”，三行完成从复仇叙事到救人叙事的换轨。最后一句 “You meant more than everything.” 独立成段——全书打了二十二章的仗，句号落在比较级上。
 
 **读者视角提示**：注意 “I was giving up revenge—for you.” 里 you 本人并不领情（“We can’t abandon this!”）——两人的价值排序从本章开始错位，这个错位是 Epilogue 里 “Sorry I didn’t tell you.” 的远因。
 
