@@ -55,7 +55,7 @@ modified: "2026-10-09"
 
 **为什么这样写**：关门动作象征隔离外界，sob 比 cry 更强烈，显示压抑已久的情绪决堤。
 
-**读者视角提示**：这是她第一次在弟弟面前展现脆弱，也是对他信任的测试。
+**读者视角提示**：这是她第一次在哥哥面前展现脆弱，也是对他信任的测试。
 
 > **原句 5:** "Don't worry," she whispered. "I'll be okay in a minute. I'm sorry I yelled. I didn't mean to. It just came out."
 

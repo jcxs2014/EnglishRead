@@ -80,7 +80,7 @@
 
 > **原句 6:** "I have no idea about Mona's place," she said gently. "I've never been there, so I don't know. But I've got a bad feeling it's not going to be very nice there. But I don't want you to worry, Kenny, because I'm going to come back and get you when I'm settled. I promise, I really do promise. It might take me a bit, but I'll find a place that I can own, and maybe I really will own a bakery. Maybe in St. Louis or Kansas City or Cleveland like Shirley said, or maybe in some smaller town that's just cheaper. And when I get there, I won't mess around, Kenny. I won't. I swear I won't. I won't let myself get depressed. And I won't get mean or bitter. I won't be cruel. And I'll try hard and I'll make sure the darkness doesn't get me. I'll try my hardest to make sure it doesn't. You'll see. . . . I'll remember to be kind and I'll try not to be so weak. I'll try to be strong. And I'll think about you every minute and I'll love you every second. Thanks for saving me, Kenny. Thanks for being my brother."
 
-**中文理解**: Lynette 向 Kenny 承诺会回来接他，并列举了她不会做的事（不消沉、不变刻薄、不残忍）。她感谢 Kenny"救了她"，称他为兄弟而非儿子（因为 Kenny 实际上是她的弟弟，尽管她像母亲一样照顾他）。
+**中文理解**: Lynette 向 Kenny 承诺会回来接他，并列举了她不会做的事（不消沉、不变刻薄、不残忍）。她感谢 Kenny"救了她"，称他为兄弟（Kenny 是比她大两岁的哥哥，尽管她像母亲一样照顾他）。
 
 **关键词**：promise, bakery, mean or bitter, darkness, saving me
 

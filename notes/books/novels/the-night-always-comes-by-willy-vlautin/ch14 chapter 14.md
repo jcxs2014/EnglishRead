@@ -2,7 +2,7 @@
 
 ## 本章导航
 
-**一句话概括**: Lynette 在 Hotcake House 回想一生的失败与祖父给过的爱，随后用假名打电话举报 Cody 偷车、举报弟弟吸毒，并计划把可卡因卖给 JJ。
+**一句话概括**: Lynette 在 Hotcake House 回想一生的失败与祖父给过的爱，随后用假名冒充 Cody 的姐姐，向警方非紧急线和假释部门留言举报他吸毒、偷车，并计划把可卡因卖给 JJ。
 
 **情感弧线位置**: 情绪最低点 —— Lynette 在采取决断行动前先直面自己的愧疚与自我厌弃
 
@@ -44,7 +44,7 @@
 
 > **原句 4:** "He was proud of her and always introduced her as 'the greatest kid of all time.' He had been good to her, had always been kind, and he gave Lynette her only real break from Kenny."
 
-**中文理解**: 祖父总介绍她是"史上最棒的孩子"，给她唯一真正脱离照顾弟弟责任的喘息机会。
+**中文理解**: 祖父总介绍她是"史上最棒的孩子"，给她唯一真正脱离照顾哥哥责任的喘息机会。
 
 **关键词**：greatest kid / break from Kenny
 

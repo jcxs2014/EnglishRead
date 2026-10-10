@@ -86,7 +86,7 @@
 
 > **原句 7:** "Why would you do that? Why would you ruin me? I mean, just give me back the safe and you can have the eight grand. I'm sorry I didn't give it to you last night. I should have, but I was in a hurry. But I swear I'll give you the money I owe you. And I'll even give you a grand extra as interest. Just give me back the safe."
 
-**中文理解**: Gloria 先是试图贿赂（还八千再加一千利息），被拒绝后转为恶毒诅咒，侮辱 Lynette 的弟弟和母亲是"fucked-up"和"nutjob"，威胁要让她们全家坐牢。
+**中文理解**: Gloria 先是试图贿赂（还八千再加一千利息），被拒绝后转为恶毒诅咒，侮辱 Lynette 的哥哥和母亲是"fucked-up"和"nutjob"，威胁要让她们全家坐牢。
 
 **关键词**：ruin, interest, nutjob
 
