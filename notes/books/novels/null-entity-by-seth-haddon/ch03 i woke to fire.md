@@ -100,7 +100,7 @@ modified: "2026-10-09"
 
 **关键词**：Stay with me / the Specter / The Null / can’t erase / pushed their face close / Your broadcast / owns everything their masks record
 
-**为什么这样写**：本章开口跟两人说话的人里，只有这个医护主动把两人的名声当成正面资产来用。三个称呼是递进的：“the Specter” 是绰号（ch01:120 消息板上已经这么叫，ch01:128 还有人嫌它难听），“The Null” 是数据状态，而 “The one VisorForge can’t erase” 是结论——一个被抹掉记录的人，恰好成了不能被抹掉的人，本章把 ch01 那个“缺失本身就是警报”的诅咒在这里翻成武器。作者的镜头很近（“they pushed their face close”），两人之间没有遮挡；这份亲密正是后面那一枪的代价。第二句的问法是全章最精妙的一处：对方原文用 they/them 自称与被称，问的也不是“你是谁”，而是“你的广播是真的吗”——被压迫者从公共信息里找反抗的可能性。叙述者只答一个词（“Yes.”）：Four 早已在 ch03:279 当众报出过 “Most likely Wylla Sotain”，她当时没有承认，而这一次她对着一个陌生人的脸认了。
+**为什么这样写**：本章开口跟两人说话的人里，只有这个医护主动把两人的名声当成正面资产来用。三个称呼是递进的：“the Specter” 是绰号（ch01:120 消息板上已经这么叫，ch01:128 还有人嫌它难听），“The Null” 是数据状态，而 “The one VisorForge can’t erase” 是结论——一个被抹掉记录的人，恰好成了不能被抹掉的人，本章把 ch01 那个“缺失本身就是警报”的诅咒在这里翻成武器。作者的镜头很近（“they pushed their face close”），两人之间没有遮挡；这份亲密正是后面那一枪的代价。第二句的问法是全章最精妙的一处：对方原文用 they/them 自称与被称，问的也不是“你是谁”，而是“你的广播是真的吗”——被压迫者从公共信息里找反抗的可能性。叙述者只答一个词（“Yes.”）：Four 早已在 ch03:267 当众报出过 “Most likely Wylla Sotain”，她当时没有承认，而这一次她对着一个陌生人的脸认了。
 
 **读者视角提示**：这段对话紧接着一整段家常数字（“thirty percent of the mining crew underperformed”、妻子被裁、“Everyone they cut was like that—injured, worn down”），也紧接 “If they take HelixCare next”——本章把宏观的企业并购写成一个医护家里的失业。他们的最后一句请求是 “Can you stop this?”，叙述者的反应是一个词的内心反问（“Me?”）。
 
