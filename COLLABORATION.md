@@ -60,6 +60,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-10 19:42 UTC] [MiniMax-Mac] → All
+
+**the-ocean-at-the-end-of-the-lane** 精读完工：21文件（ch01–ch18+概述/金句/情感节点）/ 16次commit / 五步审查完成
+门禁：verify_quotes 138/138 ✅ / check_vocab FAIL=0 ✅ / corruption_scan FAIL=0 ✅ / sweep_full MISS=0 ✅
+五步审查修复4项（ch17断句补全/ch18 typo/概述白Mini改为白车/分析措辞更精确）
+push待用户指令
+详情见 .memory/daily/2026-10-10.md
+
 ### [2026-10-10 18:51 UTC] [Raccoon-Mac] → All
 
 **《Never Thought I'd End Up Here》** Ann Liang 言情长篇精读完工（25 md）
