@@ -1,0 +1,29 @@
+=== 2026-10-10 批8（ch23-25）门禁 ===
+--- verify_quotes ---
+
+=== 总计 155/155 引文可核实（100%）；完全干净文件 25/25；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- check_vocab ---
+  ch09 chapter nine.md [基础] 基础档疑含超纲词「assistance」
+  ch13 chapter thirteen.md [基础] 基础档疑含超纲词「employees」
+  ch14 chapter fourteen.md [基础] 基础档疑含超纲词「flashlight」
+  ch22 chapter twenty two.md [基础] 基础档疑含超纲词「detective」
+  ch23 chapter twenty three.md [基础] 基础档疑含超纲词「confession」
+  ch24 chapter twenty four.md [基础] 基础档疑含超纲词「belongings」
+  ch24 chapter twenty four.md [基础] 基础档疑含超纲词「invitation」
+
+--- check_chapter_quotes ---
+ch23 chapter twenty three.md: 6/6 in ch23 text
+ch24 chapter twenty four.md: 6/6 in ch24 text
+ch25 chapter twenty five.md: 5/5 in ch25 text
+
+--- corruption_scan ---
+=== 编辑损坏扫描（the-ruins-by-steve-wick）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+=== 引语整串 flat 比对（the-ruins-by-steve-wick）===
+  参照集：text/ 逐章（42 章，可定章） + epub 交叉验证
+  ✅ 本章命中 155 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 3 条归 check_short_quotes；无章可对 0 条未判）
