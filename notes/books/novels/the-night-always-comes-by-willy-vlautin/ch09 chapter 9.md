@@ -16,7 +16,7 @@
 
 **中文理解**: Gloria 外表精致但内在粗鄙——她编造了加州大学伯克利分校毕业的出身，实际来自伐木小镇 Clatskanie，父亲瘫痪、靠救济金生活。
 
-**关键词**：（待补充）
+**关键词**：natural elegance / UC Berkeley
 
 **为什么这样写**: 对比揭示 Gloria 的生存策略：美貌是商品，谎言是包装。Lynette 作为知情者既鄙视又依赖这种虚假。
 
@@ -26,7 +26,7 @@
 
 **中文理解**: Gloria 醉酒后坦白自己视力正在恶化，五年内将完全失明——这是她唯一的秘密，也是美貌资本即将耗尽的倒计时。
 
-**关键词**：（待补充）
+**关键词**：blind / completely blind
 
 **为什么这样写**: 失明的隐喻指向她对自己真实处境的视而不见；身体衰败与她精心维持的外表形成残酷对照。
 
@@ -36,7 +36,7 @@
 
 **中文理解**: Lynette 提到 Gloria 睡过沙发的事触怒了她——Gloria 极度忌讳提及贫困出身，哪怕面对唯一知情的朋友。
 
-**关键词**：（待补充）
+**关键词**：my past / never fucking listen
 
 **为什么这样写**: Gloria 的愤怒暴露了她的羞耻感和阶级焦虑；威胁断交显示她对虚假身份的执着。
 
@@ -46,7 +46,7 @@
 
 **中文理解**: Gloria 炫耀南加州之旅，却抱怨 Terry 不再让她坐头等舱——细节暗示关系降温，她开始失去特权。
 
-**关键词**：（待补充）
+**关键词**：Newport Beach / first class
 
 **为什么这样写**: 物质细节（Chloé 包、Simone Perele 内衣）标记她的消费水平；头等舱降级预示 Terry 可能厌倦她。
 
@@ -56,7 +56,7 @@
 
 **中文理解**: Gloria 直言不讳：她愿意用陪伴换取公寓，Terry 却始终回避这个话题——交易失衡，她无法获得想要的保障。
 
-**关键词**：（待补充）
+**关键词**：condo / shuts down
 
 **为什么这样写**: "not that much work" 暴露她将关系视为劳务交换；Terry 的回避暗示他并不打算长期承诺。
 
@@ -66,7 +66,7 @@
 
 **中文理解**: Lynette 终于开口要回八千美元借款——Gloria 七个月前以酒驾罚款为由借走，承诺一周内归还却至今未还。
 
-**关键词**：（待补充）
+**关键词**：eight thousand dollars / DUI / seven months
 
 **为什么这样写**: 具体金额和时间跨度强化 Lynette 的绝望；Gloria 的拖延显示她从未打算还款。
 
@@ -76,7 +76,7 @@
 
 **中文理解**: Lynette 质问 Gloria 为何声称没钱——她知道 Gloria 同时交往多个男人获取金钱，Gloria 对此暴怒。
 
-**关键词**：（待补充）
+**关键词**：thousand a week / two other guys
 
 **为什么这样写**: Lynette 的追问打破社交禁忌，暴露 Gloria 的多重欺骗；Gloria 的愤怒源于恐惧而非羞愧。
 
@@ -86,7 +86,7 @@
 
 **中文理解**: Gloria 最终承认自己破产，只愿给五百美元——远不足以解决 Lynette 的困境，却是她能榨出的极限。
 
-**关键词**: （待补充）
+**关键词**：five hundred
 
 **为什么这样写**: 从八千到五百的落差凸显 Lynette 计划的失败；Gloria 的敷衍显示她对朋友的困境缺乏共情。
 
@@ -99,15 +99,27 @@
 
 ### ⭐⭐⭐ Advanced
 
-（本章高级词条需从原文提取）
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| elegance | 优雅，精致 | She had a seemingly natural elegance to her, but Lynette knew she had worked hard at it. |
+| vindictive | 报复性的，怀恨在心的 | When drinking or in a bad mood, she could slip up and show her true self: a mean, often crude, drunk who looked out only for herself, who could be vindictive and cruel. |
+| stipend | 津贴，定期补助 | The family was forced to live on her mother’s waitressing job, food stamps, a disability check, and a two-hundred-dollar monthly stipend from her mother’s parents. |
 
 ### ⭐⭐ Intermediate
 
-（本章进阶词条需从原文提取）
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| cocaine | 可卡因 | It had been seven years since she’d had contact with her family and now, at twenty-eight, she had a cocaine habit and failing vision. |
+| lingerie | 女性内衣 | Gloria stepped back and opened her robe to show black lingerie. |
+| tacky | 俗气的，低档的 | I don’t like them either, and if you ask me, the whole place is tacky.” |
 
 ### ⭐ Basic
 
-（本章基础词条需从原文提取）
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| champagne | 香槟酒 | “An Uber is going to be here in five minutes.” She poured more champagne into a glass. |
+| makeup | 化妆品 | Gloria finished her makeup. |
+| purse | 手提包 | “Sure,” said Gloria and put on a coat and grabbed her purse. |
 
 
 ## 一句话总结

@@ -16,7 +16,7 @@
 
 **中文理解**: Cody 身材极高却极度消瘦，外表病态——卷曲长发、稀疏胡须、鹰钩鼻，手臂布满新纹身，耳垂有穿孔痕迹。
 
-**关键词**：（待补充）
+**关键词**：gaunt / straggly beard / tattoos
 
 **为什么这样写**: 身体描写暗示 Cody 的底层处境和可能的药物使用；"looked ill" 预示他的脆弱性而非威胁性。
 
@@ -26,7 +26,7 @@
 
 **中文理解**: Lynette 直接询问 Cody 的犯罪记录——他因入室盗窃入狱，但拒绝详谈，只想完成工作下班。
 
-**关键词**：（待补充）
+**关键词**：prison / burglary
 
 **为什么这样写**: Lynette 的直球提问显示她的紧迫感和缺乏迂回技巧；Cody 的回避暴露他对过去的羞耻或警惕。
 
@@ -36,7 +36,7 @@
 
 **中文理解**: Lynette 坦白需要违法帮助，承认是同事 Shirley 告知 Cody 的犯罪背景——她毫无备选方案，只能孤注一掷。
 
-**关键词**：（待补充）
+**关键词**：illegal / Shirley / didn't know who else
 
 **为什么这样写**: 诚实到近乎鲁莽的策略反而降低 Cody 的戒心；提及中间人增加可信度。
 
@@ -46,7 +46,7 @@
 
 **中文理解**: Lynette 压低声音说明计划：保险箱未固定，她需要人手搬运和开启；Cody 的呼吸带着咖啡、香烟和不刷牙的臭味。
 
-**关键词**：（待补充）
+**关键词**：safe / not strong enough / steal
 
 **为什么这样写**: 感官细节（口臭）强化 Cody 的底层身份；Lynette 的弱势（力量不足）使合作成为必要而非选择。
 
@@ -56,7 +56,7 @@
 
 **中文理解**: Lynette 强调作案条件优越：有钥匙、主人不在、无室内监控；她声称只取回属于自己的钱，Gloria 不会报警。
 
-**关键词**：（待补充）
+**关键词**：key / no cameras / won't report
 
 **为什么这样写**: 理性化犯罪行为——Lynette 用"拿回我的钱"自我辩护，降低道德负担；细节准备显示预谋程度。
 
@@ -66,7 +66,7 @@
 
 **中文理解**: Cody 计算分成后提出实际困难：摄像头无处不在；他想起一个有工具的机械师，但不确定对方是否愿意参与。
 
-**关键词**：（待补充）
+**关键词**：thirty percent / cameras / mechanic
 
 **为什么这样写**: Cody 的务实平衡了 Lynette 的理想化；引入第三方（机械师）增加情节复杂度和风险层级。
 
@@ -76,7 +76,7 @@
 
 **中文理解**: Cody 坦白帮忙的真正原因：受够了每天乘公交通勤，急需一辆车——犯罪动机源于日常困境而非贪婪。
 
-**关键词**：（待补充）
+**关键词**：riding the bus / hour and fifteen minutes / car
 
 **为什么这样写**: 平凡的渴望（买车）与犯罪行为形成讽刺对照；通勤时间具体化显示底层生活的艰辛。
 
@@ -86,7 +86,7 @@
 
 **中文理解**: Cody 讲述入狱经历：女友策划抢劫养老院，他与同伙实施却被设局——女友与同伙暗中交往并订婚，联手陷害他。
 
-**关键词**：（待补充）
+**关键词**：old folks' home / tipped off / engaged
 
 **为什么这样写**:  backstory 揭示 Cody 并非主谋而是替罪羊；背叛的双重性（女友+朋友）解释他的愤世嫉俗。
 
@@ -99,18 +99,27 @@
 
 ### ⭐⭐⭐ Advanced
 
-（本章Advanced词条需从原文提取）
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| gaunt | 憔悴的，瘦削的 | He was so thin and gaunt that he looked ill. |
+| developmentally | 发展地（多指发展障碍） | He’s developmentally disabled. |
+| safecracker | 开保险箱的窃贼 | I ain’t a safecracker. |
+
 ### ⭐⭐ Intermediate
 
-- **burglary** /ˈbɜːrɡləri/ *n.* 入室盗窃
-- **accomplice** /əˈkɑːmplɪs/ *n.* 同谋，帮凶
-- **parole** /pəˈroʊl/ *n.* 假释
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| beard | 胡须 | He scratched his beard with his left hand. |
+| smelled | 闻起来 | The kitchen smelled of bacon grease, bleach, and cigarette smoke. |
+| antifreeze | 防冻液 | “When I turn the heat on it smells like antifreeze. |
 
 ### ⭐ Basic
 
-- **cigarette** /ˌsɪɡəˈret/ *n.* 香烟
-- **gloves** /ɡlʌvz/ *n.* 手套
-- **elevator** /ˈelɪveɪtər/ *n.* 电梯
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| cigarette | 香烟 | Cody smoked his cigarette and looked at her. |
+| kitchen | 厨房 | The kitchen smelled of bacon grease, bleach, and cigarette smoke. |
+| hundred | 一百 | You have five hundred in cash?” |
 
 
 ## 一句话总结

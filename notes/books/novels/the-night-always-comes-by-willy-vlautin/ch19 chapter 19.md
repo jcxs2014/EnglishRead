@@ -16,7 +16,7 @@
 
 **中文理解**: Gloria 直接指控 Lynette 偷了保险箱，声称认识她太久所以知道她在撒谎。Lynette 反击说 Gloria 是酒鬼，Gloria 愤怒地要求归还保险箱。
 
-**关键词**：（待补充）
+**关键词**：stole, shitty liar, drunk
 
 **为什么这样写**: 这段对话展示了两人关系的权力动态。Gloria 的指控毫无证据，仅凭"我认识你太久"这种主观判断，显示她对 Lynette 的根深蒂固的不信任。Lynette 立即转向攻击 Gloria 的酗酒问题，说明她早已看透朋友的弱点。Vlautin 用简短的对话展现了长期积累的怨恨如何爆发。
 
@@ -28,7 +28,7 @@
 
 **中文理解**: Gloria 列出嫌疑人：只有 Terry、另一个朋友和 Lynette 有钥匙和密码。她排除了前两者，因为 Terry 和她在一起，另一个朋友发誓没做。Lynette 有密码且昨晚在那里过夜，所以成为唯一嫌疑人。Lynette 辩解说她改变主意离开了，把钥匙留在台面上。
 
-**关键词**: （待补充）
+**关键词**：friend promises / there's only
 
 **为什么这样写**: Gloria 的逻辑看似合理实则漏洞百出。她相信 Terry 和"另一个朋友"的说辞，却怀疑 Lynette，显示了阶级偏见——她认为 Lynette 作为穷人有犯罪动机。Vlautin 揭示了富人如何选择性地信任同类而怀疑下层人。Lynette 的辩解（"left the key on the counter"）无人见证，使她处于不利地位。
 
@@ -40,7 +40,7 @@
 
 **中文理解**: Lynette 质问 Gloria 是否用保险箱里的钱还债，Gloria 承认里面有一万六千美元（两倍于欠款）。Lynette 愤怒地质问：你有钱却不还我，当我乞求时你说破产，现在却指责我偷窃？她提醒 Gloria，那八千美元是作为朋友借给她付酒驾罚款的。
 
-**关键词**：（待补充）
+**关键词**：owe, begging, DUI
 
 **为什么这样写**: 这是本章的道德核心。Lynette 列举了她对 Gloria 的帮助：在她入狱时接她、在她受伤时照顾她、在她被困时救援。相比之下，Gloria 有钱不还却反过来诬陷。Vlautin 展示了友谊如何在经济不平等中扭曲——Gloria 将 Lynette 的帮助视为理所当然，甚至利用她的困境来确立道德优越感。
 
@@ -52,7 +52,7 @@
 
 **中文理解**: Gloria 声称自己对 Lynette 付出很多，引用 Terry 的话说 Lynette 是"寄生虫"。她厌倦了和 Lynette 交往，鄙视她在 Dutchman 酒吧的工作，并将她与 Shirley 相提并论（两人都被她憎恨）。她威胁要报警，称保险箱里有重要的个人物品。
 
-**关键词**：（待补充）
+**关键词**：leeching, loser, personal things
 
 **为什么这样写**: Gloria 的这段话暴露了她的阶级傲慢。她将 Lynette 的职业（bartending）视为失败，将她的朋友（Shirley）视为低贱。Vlautin 展示了上层人士如何通过职业歧视来合理化剥削——如果对方是"loser"，那么欠他们的钱就不算盗窃。"Personal things"这个模糊表述暗示保险箱里可能有不可告人的秘密（后文揭示是照片和珠宝，可能涉及她的过去）。
 
@@ -64,7 +64,7 @@
 
 **中文理解**: Lynette 揭露 Gloria 的真实背景：她没有上过 Catlin Gabel 私立学校，也没上过伯克利大学。她实际上在 Clatskanie 的拖车里长大，高中辍学后考了 GED（同等学力证书），甚至从空乘学校退学。Lynette 说无论 Gloria 买多少东西都无法摆脱这个出身。
 
-**关键词**：（待补充）
+**关键词**：Catlin Gabel, Berkeley, trailer, GED
 
 **为什么这样写**: 这是全书最尖锐的阶级批判。Catlin Gabel 是波特兰著名的精英私立学校，Berkeley 是顶尖公立大学。Gloria 伪造这些学历是为了融入上流社会。Vlautin 通过具体地名（Clatskanie 是俄勒冈州的小镇）和机构名让虚构扎根现实。Lynette 的攻击直指 Gloria 的核心恐惧：她的身份是建构的，随时可能崩塌。
 
@@ -76,7 +76,7 @@
 
 **中文理解**: Lynette 承认两人都是妓女（prostitute），但她试图成为真正的朋友，而 Gloria 背叛了她。她威胁要告诉 Terry Gloria 的真实教育背景，摧毁她的关系。
 
-**关键词**：（待补充）
+**关键词**：prostitute, real friend, yearbook
 
 **为什么这样写**: Lynette 的"prostitute"自称是本章的道德转折点。她不再为自己的生存手段感到羞耻，而是将其与 Gloria 的行为并列——两者都通过身体或谎言换取金钱，但 Lynette 至少诚实。Vlautin 展示了性工作者内部的阶级分化：Gloria 通过高端伴游（escorting）伪装成上流人士，而 Lynette 在底层挣扎。威胁揭露学历是 Lynette 的终极武器，因为她知道这对 Gloria 的关系至关重要。
 
@@ -88,7 +88,7 @@
 
 **中文理解**: Gloria 先是试图贿赂（还八千再加一千利息），被拒绝后转为恶毒诅咒，侮辱 Lynette 的弟弟和母亲是"fucked-up"和"nutjob"，威胁要让她们全家坐牢。
 
-**关键词**：（待补充）
+**关键词**：ruin, interest, nutjob
 
 **为什么这样写**: Gloria 的反应展示了特权阶层在被揭穿时的典型模式：先试图用钱解决问题，失败后诉诸制度暴力（警察、监狱）。她对 Kenny 和母亲的侮辱显示她从未真正尊重过 Lynette 的家人，只是利用 Lynette 的孤独来获取廉价友谊。Vlautin 展示了阶级仇恨如何转化为语言暴力。
 
@@ -98,20 +98,29 @@
 
 ## 词汇分级
 
-
-
 ### ⭐⭐⭐ Advanced
 
-（本章Advanced词条需从原文提取）
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| screwdriver | 螺丝刀 | By the time the junk truck arrived at one she was throwing more and more things onto the pile: an old popcorn machine they’d never used, a blender that needed a screwdriver to be turned on, two small lamps that had been glued back together, and an end table that had a two-by-four as one of the legs. |
+| bartending | 调酒，当酒保 | You live like a loser, still bartending at the Dutchman, and you’ll be there until you drop dead just like your pal, Shirley. |
+| businessman | 商人，生意人 | Or the time you got stranded in Salem with that weirdo businessman. |
+
 ### ⭐⭐ Intermediate
-- **DUI** (n.) 酒后驾驶（Driving Under Influence）— "you got a DUI"
-- **GED** (n.) 普通教育发展证书（General Educational Development）— 高中同等学力
-- **yearbook** (n.) 年鉴 — 私立学校的标志性物品
+
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| DUI | 酒后驾驶（Driving Under Influence）— "you got a DUI" | I gave it to you ’cause you’re a fucking drunk and got a DUI.” |
+| GED | 普通教育发展证书（General Educational Development）— 高中同等学力 | So if I remind you that you grew up in Clatskanie in a trailer and had to get your GED to graduate from high school and that you even flunked out of flight attendant school, it’s because that’s who you are. |
+| yearbook | 年鉴 | So please just leave me alone, and if you keep bothering me, I’ll call Terry and I’ll tell him to look for your Catlin Gabel yearbook and I’ll tell him you didn’t go Berkeley.” |
 
 ### ⭐ Basic
-- **safe** (n.) 保险箱 — 争议的核心物品
-- **trailer** (n.) 拖车房屋 — Gloria 的真实成长环境
-- **prostitute** (n.) 妓女 — Lynette 和 Gloria 的共同身份
+
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| safe | 保险箱 | “I just want my safe.” |
+| trailer | 拖车房屋 | So if I remind you that you grew up in Clatskanie in a trailer and had to get your GED to graduate from high school and that you even flunked out of flight attendant school, it’s because that’s who you are. |
+| prostitute | 妓女 | You’re a prostitute, I’m a prostitute. |
 
 
 ## 一句话总结

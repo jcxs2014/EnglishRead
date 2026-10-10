@@ -16,7 +16,7 @@
 
 **中文理解**: Lynette 翻越围栏逃回修车厂，看见 Cody 坐在她车尾箱上淋雨——Kansas 已开车送助手去医院。
 
-**关键词**：（待补充）
+**关键词**：floodlight / trunk / steadily falling rain
 
 **为什么这样写**: 雨水贯穿全章成为情绪载体；Cody 的被动等待显示他的无助和依赖。
 
@@ -26,7 +26,7 @@
 
 **中文理解**: Lynette 命令 Cody 下车，他拒绝——公交停运、大雨倾盆，他要求分赃后送他回餐厅。
 
-**关键词**：（待补充）
+**关键词**：get out / buses have quit / my cut
 
 **为什么这样写**: Cody 的耍赖暴露他的无赖本质；提及公交呼应前文他对通勤的抱怨。
 
@@ -36,7 +36,7 @@
 
 **中文理解**: Lynette 在路边停车，从手套箱拿出野格酒猛喝一口后递给 Cody——中餐馆内灯亮着，两名女性在吸尘。
 
-**关键词**：（待补充）
+**关键词**：Jägermeister / gold / vacuuming
 
 **为什么这样写**: 酒精作为临时镇定剂；金色内饰与外部黑暗形成对照，象征正常生活的遥不可及。
 
@@ -46,7 +46,7 @@
 
 **中文理解**: Cody 为自己不帮忙辩护——Kansas 是疯子，他不会打架；强调是 Lynette 主动策划盗窃。
 
-**关键词**：（待补充）
+**关键词**：psycho / wasn't going to fight / you wanted
 
 **为什么这样写**: 推卸责任显示 Cody 的道德懦弱；"you wanted" 将罪责转嫁给 Lynette。
 
@@ -56,7 +56,7 @@
 
 **中文理解**: Cody 询问毒品处理方式，提出代为销售——尽管之前声称不要毒品，现在却改变主意。
 
-**关键词**：（待补充）
+**关键词**：drugs / sell the package / get rid of it
 
 **为什么这样写**: Cody 的反复无常显示他的机会主义；想卖毒品既为赚钱也为控制 Lynette。
 
@@ -66,7 +66,7 @@
 
 **中文理解**: Cody 抓住毒品不放，又吸了一些后藏进连帽衫口袋——公然盗窃行为。
 
-**关键词**：（待补充）
+**关键词**：held on to it / snorted / hoodie pocket
 
 **为什么这样写**: 动作描写展示 Cody 的胆大妄为；吸食动作增加他的不可靠性。
 
@@ -76,7 +76,7 @@
 
 **中文理解**: Cody 声称保险箱财物也有他的一份——没有他的帮助 Lynette 无法得手。
 
-**关键词**：（待补充）
+**关键词**：mine as much as yours / without my help
 
 **为什么这样写**:  entitlement（应得感）暴露 Cody 的贪婪；擦车窗的动作显示他的焦虑。
 
@@ -86,7 +86,7 @@
 
 **中文理解**: Cody 辩解称自己有救援计划，只是 Lynette 行动太快——典型的马后炮式自我辩护。
 
-**关键词**：（待补充）
+**关键词**：not good when shit gets weird / had a plan / jumped in
 
 **为什么这样写**: "had a plan" 明显是谎言，增加 Cody 的可笑性；"shit gets weird" 轻描淡写生死危机。
 
@@ -97,22 +97,29 @@
 
 ## 词汇分级
 
-
-
 ### ⭐⭐⭐ Advanced
 
-（本章Advanced词条需从原文提取）
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| cul-de-sac | 死胡同，绝境 | At the edge of Gresham was a 1970s single-story ranch house at the end of a cul-de-sac. |
+| desperately | 绝望地，拼命地 | She began to panic and tried desperately to move her feet from under the steering wheel but couldn’t. |
+| floodlight | 泛光灯，探照灯 | A floodlight was now on and she saw Cody sitting on the trunk of her car in the steadily falling rain. |
+
 ### ⭐⭐ Intermediate
 
-- **parole** /pəˈroʊl/ *n.* 假释
-- **condensation** /ˌkɑːndenˈseɪʃən/ *n.* 冷凝水
-- **lunge** /lʌndʒ/ *v.* 猛冲，突袭
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| parole | 假释 | My parole will get fucked up if I don’t have a real place to stay, so you can’t ask me to risk that money, too. |
+| condensation | 冷凝水 | Lynette wiped the condensation from the windshield and set the rag back on the dash. |
+| passed | 经过，通过 | Five minutes passed, but he didn’t come back. |
 
 ### ⭐ Basic
 
-- **beer** /bɪr/ *n.* 啤酒
-- **cigarette** /ˌsɪɡəˈret/ *n.* 香烟
-- **key** /kiː/ *n.* 钥匙
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| cigarette | 香烟 | Cody lit a cigarette. |
+| key | 钥匙 | It’s a key to a Saab. |
+| house | 房子 | I rent a room in a house off 160th and Sandy. |
 
 
 ## 一句话总结

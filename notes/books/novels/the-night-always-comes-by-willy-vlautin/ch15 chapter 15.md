@@ -16,7 +16,7 @@
 
 **中文理解**: Lynette 驾车驶入碎石路，路面坑洼积水，底盘两次刮地；来到十六岁住过十一个月的房子前，她知道这是错误决定。
 
-**关键词**：（待补充）
+**关键词**：gravel / potholes / mistake
 
 **为什么这样写**: 路况恶化象征回归危险地带；"knew it was a mistake" 显示她的自知之明与无力抗拒。
 
@@ -26,17 +26,17 @@
 
 **中文理解**: Alberta Street 有一家破旧的复古二手店，Lynette 高中时常去——店主 JJ Benada（42 岁）注意到她。
 
-**关键词**：（待补充）
+**关键词**：vintage thrift shop / freshman / noticed her
 
 **为什么这样写**: "noticed her" 看似 innocuous（无害），实为 grooming（诱导）的开始；年龄差（42 vs 15）凸显权力不对等。
 
 **读者视角提示**: 这家店是陷阱入口，JJ 用"关注"替代了她缺失的父爱。
 
-> **原句 3:** "He gave her free clothes if she helped in the store for the afternoon. Sometimes he'd order pizza and have her pick it up down the street and they'd eat it together. He paid attention to her, told her she was beautiful, told her jokes and made her laugh."
+> **原句 3:** "He gave her free clothes if she helped in the store for the afternoon. Sometimes he'd order pizza and have her pick it up down the street and they'd eat it together. He paid attention to her, told her she was beautiful, told her jokes and made her laugh, and always he had a movie playing on a TV behind the counter and a beer going that he'd drink out of a coffee cup."
 
-**中文理解**: JJ 以免费衣服换取她的帮助，请她吃披萨，赞美她美丽，讲笑话逗她笑——用关注和物质填补她的情感空缺。
+**中文理解**: JJ 以免费衣服换取她的帮助，请她吃披萨，赞美她美丽，讲笑话逗她笑；柜台后常年放着一部电影、一杯装在咖啡杯里的啤酒——他用关注和物质填补她的情感空缺，把一切伪装成日常。
 
-**关键词**：（待补充）
+**关键词**：free clothes / beautiful / paid attention
 
 **为什么这样写**: 这些行为单独看都正常，但组合起来是经典的 grooming 模式；"paid attention" 是关键诱饵。
 
@@ -46,7 +46,7 @@
 
 **中文理解**: 离家出走后，Lynette 首先想到钱——去找 JJ 求职，哭诉无家可归时，他走出柜台拥抱她。
 
-**关键词**：（待补充）
+**关键词**：ran away / tears / hugged
 
 **为什么这样写**: 拥抱看似善意，实为捕获动作；利用她的绝望建立依赖关系。
 
@@ -56,7 +56,7 @@
 
 **中文理解**: 十一个月里，Lynette 学会喝酒、吸毒、卖淫——失去贞操给 JJ，还与其他男女发生关系；体重骤降、出荨麻疹、陷入首次抑郁。
 
-**关键词**：（待补充）
+**关键词**：lost her virginity / other men / depression
 
 **为什么这样写**: 清单式叙述不加修饰，增强冲击力；身体症状（荨麻疹）是心理创伤的生理表现。
 
@@ -66,7 +66,7 @@
 
 **中文理解**: 开门的是个怀孕女孩，穿粉色运动服和熊猫头拖鞋，染金短发，四肢纤细如厌食症，胸颈却异常粗壮。
 
-**关键词**：（待补充）
+**关键词**：pregnant girl / panda bear slippers / anorexic
 
 **为什么这样写**: 熊猫拖鞋的童趣与怀孕的成熟形成讽刺对照；身体描写暗示药物滥用或营养不良。
 
@@ -76,7 +76,7 @@
 
 **中文理解**: 屋内没有暖气，可见呼出的白气；客厅陈设与七年前相同——磨损地毯、黑色沙发、瓷砖茶几上堆着杂志、大麻罐和水烟筒。
 
-**关键词**：（待补充）
+**关键词**：no heat / threadbare / same
 
 **为什么这样写**: "same" 强调时间停滞——JJ 的生活从未进步，仍停留在过去的堕落中。
 
@@ -97,22 +97,29 @@
 
 ## 词汇分级
 
-
-
 ### ⭐⭐⭐ Advanced
 
-（本章Advanced词条需从原文提取）
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| indiscernible | 难以辨别的 | He was skinny with only a small gut, and his skin had begun to sag and his legs and groin were covered with old indiscernible black ink tattoos. |
+| certificate | 证书，证明 | JJ had given her a birthday gift certificate to Supercuts to have her hair cut short and dyed blond. |
+| seventeenth | 第十七 | She remembered the night because it was just after her seventeenth birthday and her hair was short and blond. |
+
 ### ⭐⭐ Intermediate
 
-- **threadbare** /ˈθredber/ *adj.* 磨破的，陈旧的
-- **anorexic** /ˌænəˈreksɪk/ *adj.* 患厌食症的
-- **incense** /ˈɪnsens/ *n.* 熏香
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| threadbare | 磨破的，陈旧的 | The living room had the same threadbare brown carpet and the same two black couches that formed an L in the corner of the room. |
+| anorexic | 患厌食症的 | Her arms and legs were so thin and long she looked anorexic, yet her chest and neck were so thick they looked nearly compressed. |
+| incense | 熏香 | A series of stained carpet remnants and rugs covered the concrete floor and it smelled of stale beer and mold and incense. |
 
 ### ⭐ Basic
 
-- **beer** /bɪr/ *n.* 啤酒
-- **basement** /ˈbeɪsmənt/ *n.* 地下室
-- **poster** /ˈpoʊstər/ *n.* 海报
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| beer | 啤酒 | “I’m gonna get another beer. |
+| basement | 地下室 | She was on JJ’s bed, in the kitchen, and in the basement. |
+| clothes | 衣服 | He gave her free clothes if she helped in the store for the afternoon. |
 
 
 ## 一句话总结

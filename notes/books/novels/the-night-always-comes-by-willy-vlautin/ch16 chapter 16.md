@@ -16,17 +16,17 @@
 
 **中文理解**: 凌晨五点二十，Lynette 驾车避开 JJ 的街区——十三年来她刻意绕过所有与他相关的地点：Alberta Street 的二手店、他常去的餐馆和酒吧。
 
-**关键词**：（待补充）
+**关键词**：avoided / thirteen years / neighborhood
 
 **为什么这样写**: 地理回避象征心理创伤；具体街道名强化波特兰地域感。
 
 **读者视角提示**: 这种回避是 PTSD 的典型症状——整个城市成为触发器网络。
 
-> **原句 2:** "She parked at Jubitz truck stop and set the file with the photos on the passenger seat. One by one she took them out and tore them into little pieces and put them back in the file and got out. In the first trash can she came to she dropped the file inside."
+> **原句 2:** "She parked at Jubitz truck stop and set the file with the photos on the passenger seat. One by one she took them out and tore them into little pieces and put them back in the file and got out. In the first trash can she came to she dropped the file inside and went into the restaurant, sat at the empty counter, and ordered coffee."
 
-**中文理解**: 在 Jubitz 卡车休息站，Lynette 将 JJ 给她的照片逐一撕碎后丢弃——这些是她青少年时期被拍摄的照片。
+**中文理解**: 在 Jubitz 卡车休息站，Lynette 将 JJ 给她的照片逐一撕碎后丢进垃圾桶，随后走进餐厅，在空荡的吧台坐下点了咖啡——那些照片是她青少年时期被拍摄的。
 
-**关键词**：（待补充）
+**关键词**：tore them / trash can / photos
 
 **为什么这样写**: 撕碎动作是仪式性的告别；选择卡车休息站呼应她与祖父的记忆。
 
@@ -36,7 +36,7 @@
 
 **中文理解**: 七年未回 Jubitz，但这里仍萦绕着她的记忆——曾与 Jack 和 Kenny 每月来此吃早餐，Kenny 喜欢看卡车进出。
 
-**关键词**：（待补充）
+**关键词**：haunted / Jack / Kenny
 
 **为什么这样写**: "haunted" 重复出现，显示创伤的地理扩散；家庭场景与当前孤独形成对照。
 
@@ -46,7 +46,7 @@
 
 **中文理解**: Lynette 自问 Jack 会如何看待现在的自己——妓女、窃贼、毒贩；她用纸巾擦脸，脱下围巾外套。
 
-**关键词**：（待补充）
+**关键词**：Jack / prostitute / cocaine
 
 **为什么这样写**: 自我标签化显示内化的羞耻；Jack 作为道德参照点仍在审判她。
 
@@ -56,7 +56,7 @@
 
 **中文理解**: Jack 是唯一真正爱过她的人，也是唯一选择与她共同生活、照顾她的人——这份爱是主动选择而非义务。
 
-**关键词**：（待补充）
+**关键词**：only person / chosen / love
 
 **为什么这样写**: "chosen" 重复三次强调爱的自愿性；与家人（义务）对比突出 Jack 的特殊性。
 
@@ -66,7 +66,7 @@
 
 **中文理解**: 21 岁时她在 Tulip 面包店工作，遇见 24 岁的 Jack——他是 Driscoll 钢铁公司的叉车司机。
 
-**关键词**：（待补充）
+**关键词**：Tulip Pastry Shop / forklift driver / twenty-four
 
 **为什么这样写**: 具体年龄和职业建立工人阶级背景；叉车司机暗示体力劳动和稳定收入。
 
@@ -76,7 +76,7 @@
 
 **中文理解**: Jack 说第一眼就认定她是最美的女人；Lynette 也有同样感觉，因为他让她想起祖父。
 
-**关键词**：（待补充）
+**关键词**：best-looking / reminded her / grandfather
 
 **为什么这样写**: "reminded her of her grandfather" 是关键洞察——她将对祖父的依恋转移到 Jack 身上。
 
@@ -86,7 +86,7 @@
 
 **中文理解**: 两周后她送他 Badger Balm 护手霜，因注意到他的手粗糙开裂；虽是春天，却用圣诞包装纸包裹并画了心形。
 
-**关键词**：（待补充）
+**关键词**：Badger Balm / Christmas paper / heart
 
 **为什么这样写**: 细节显示她的体贴和浪漫；圣诞纸在非圣诞季使用增添私密仪式感。
 
@@ -97,22 +97,29 @@
 
 ## 词汇分级
 
-
-
 ### ⭐⭐⭐ Advanced
 
-（本章Advanced词条需从原文提取）
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| eradicated | 根除，消灭 | It’s like living inside a movie where the dirt in you and the scars on you are eradicated. |
+| intentionally | 故意地，有意地 | Never once did he blindside her or intentionally try to hurt her. |
+| hopelessness | 无望感，绝望 | Her hopelessness disappeared. |
+
 ### ⭐⭐ Intermediate
 
-- **insecure** /ˌɪnsɪˈkjʊr/ *adj.* 缺乏安全感的
-- **jealous** /ˈdʒeləs/ *adj.* 嫉妒的
-- **gentleness** /ˈdʒentəlnəs/ *n.* 温柔
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| insecure | 缺乏安全感的 | He could get nervous or grumpy, insecure or angry, but when he did he would try to talk to her about it. |
+| jealous | 嫉妒的 | She broke down crying and collapsed on the ground and told him how sorry she was, how she had never been in love before and how she was insecure and jealous. |
+| gentleness | 温柔 | There was a gentleness to Jack that she could just disappear into. |
 
 ### ⭐ Basic
 
-- **coffee** /ˈkɔːfi/ *n.* 咖啡
-- **truck** /trʌk/ *n.* 卡车
-- **beach** /biːtʃ/ *n.* 海滩
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| coffee | 咖啡 | A pot of coffee was brewing. |
+| truck | 卡车 | “I called and told them my truck broke down,” he said. |
+| beach | 海滩 | They had been together a year and four months when there was a beach party to celebrate Jack’s brother’s graduation from mechanic school. |
 
 
 ## 一句话总结

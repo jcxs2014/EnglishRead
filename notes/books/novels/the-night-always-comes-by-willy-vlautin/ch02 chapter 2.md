@@ -21,7 +21,7 @@ modified: "2026-10-09"
 
 **中文理解**：bakery 卖掉了员工停车场，原地建起十层公寓楼——城市 gentrification 的直接证据。
 
-**关键词**：（待补充）
+**关键词**：sold / half-built / condominium
 
 **为什么这样写**：用建筑更替呈现经济压力——员工连停车都要去街上，而 luxury condo 正在崛起。
 
@@ -31,7 +31,7 @@ modified: "2026-10-09"
 
 **中文理解**：一连串指令——别离开、先找我、别憋太久、昨天就忘了带换洗衣服。语速急促如 checklist。
 
-**关键词**：（待补充）
+**关键词**：find me first / forgot / change of clothes
 
 **为什么这样写**：重复"find me"显示 Kenny 的依赖性；承认"forgot"暴露 Lynette 也会失误，但她必须承担后果。
 
@@ -41,7 +41,7 @@ modified: "2026-10-09"
 
 **中文理解**：Kenny 想要手机和外出散步两样，Lynette 让他二选一——简化的决策框架。
 
-**关键词**：（待补充）
+**关键词**：can't have both / choose one
 
 **为什么这样写**：用儿童式的二元选择管理成年弟弟，权力关系倒置。Kenny 交出手机，显示他接受这套规则。
 
@@ -51,7 +51,7 @@ modified: "2026-10-09"
 
 **中文理解**：打电话给 Fuller's 交代 Kenny 的饮食细节——煎蛋要放在 pancake 上、syrop 由店员倒、不能让他拿到瓶子。
 
-**关键词**：（待补充）
+**关键词**：same old story / drink a whole bottle
 
 **为什么这样写**："same old story" 暗示这种电话打过无数次，店员已熟悉这套程序。"drink a whole bottle" 揭示 Kenny 的行为失控风险。
 
@@ -61,7 +61,7 @@ modified: "2026-10-09"
 
 **中文理解**：挂断电话后，她喝一口咖啡，把头趴在桌上闭眼——唯一的喘息时刻。
 
-**关键词**：（待补充）
+**关键词**：set her head / closed her eyes
 
 **为什么这样写**：三个连续动作极简却沉重。"set her head" 比 "put her head" 更显疲惫的重量。
 
@@ -71,7 +71,7 @@ modified: "2026-10-09"
 
 **中文理解**：Pearl District 从废弃仓库变成高档社区——城市变迁的宏观背景。
 
-**关键词**：（待补充）
+**关键词**：deserted warehouses / high-end lofts
 
 **为什么这样写**：通过 Lynette 开车途中的观察，将个人困境嵌入城市 gentrification 的大叙事。
 
@@ -81,7 +81,7 @@ modified: "2026-10-09"
 
 **中文理解**：家庭据点 The Overlook 刚关门，他们吃了二十五年的地方被开发商买下建公寓。
 
-**关键词**：（待补充）
+**关键词**：family place / twenty-five years / closed
 
 **为什么这样写**：用一家餐厅的消失象征旧生活的终结。"twice a month for twenty-five years" 是稳定的仪式，现在被金钱碾碎。
 
@@ -91,7 +91,7 @@ modified: "2026-10-09"
 
 **中文理解**：课前叮嘱 Kenny 安静、别放屁，结果二十分钟后他开始放屁——喜剧式反讽。
 
-**关键词**：（待补充）
+**关键词**：not a peep / farting
 
 **为什么这样写**：用身体功能的不可控消解课堂的严肃性。Lynette 的警告注定失败，因为 Kenny 无法控制生理反应。
 

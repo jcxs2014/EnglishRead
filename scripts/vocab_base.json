@@ -1,0 +1,239 @@
+{
+ "9": {
+  "advanced": {
+   "elegance": "优雅，精致",
+   "vindictive": "报复性的，怀恨在心的",
+   "stipend": "津贴，定期补助"
+  },
+  "inter": {
+   "cocaine": "可卡因",
+   "lingerie": "女性内衣",
+   "tacky": "俗气的，低档的"
+  },
+  "basic": {
+   "champagne": "香槟酒",
+   "makeup": "化妆品",
+   "purse": "手提包"
+  }
+ },
+ "10": {
+  "advanced": {
+   "gaunt": "憔悴的，瘦削的",
+   "vindictive": "报复性的",
+   "perpetrator": "犯罪者，行凶者"
+  },
+  "inter": {
+   "burglary": "入室盗窃",
+   "accomplice": "同谋，帮凶",
+   "parole": "假释"
+  },
+  "basic": {
+   "cigarette": "香烟",
+   "gloves": "手套",
+   "elevator": "电梯"
+  }
+ },
+ "11": {
+  "advanced": {
+   "derelict": "破败的，被遗弃的",
+   "psoriasis": "牛皮癣，银屑病",
+   "engulfed": "吞没，覆盖"
+  },
+  "inter": {
+   "ignition": "点火装置",
+   "workbench": "工作台",
+   "crowbar": "撬棍"
+  },
+  "basic": {
+   "gloves": "手套",
+   "trunk": "汽车后备箱",
+   "flashlight": "手电筒"
+  }
+ },
+ "12": {
+  "advanced": {
+   "renege": "违背诺言，食言",
+   "duress": "胁迫，强迫",
+   "ephemeral": "短暂的，转瞬即逝的"
+  },
+  "inter": {
+   "crowbar": "撬棍",
+   "seizure": "癫痫发作",
+   "bluff": "虚张声势"
+  },
+  "basic": {
+   "purse": "手提包",
+   "knife": "刀",
+   "phone": "手机"
+  }
+ },
+ "13": {
+  "advanced": {
+   "cul-de-sac": "死胡同，绝境",
+   "strangulation": "扼杀，窒息",
+   "retribution": "报应，惩罚"
+  },
+  "inter": {
+   "parole": "假释",
+   "condensation": "冷凝水",
+   "lunge": "猛冲，突袭"
+  },
+  "basic": {
+   "beer": "啤酒",
+   "cigarette": "香烟",
+   "key": "钥匙"
+  }
+ },
+ "14": {
+  "advanced": {
+   "stevedore": "码头装卸工人",
+   "anguish": "极度痛苦，焦虑",
+   "neglect": "疏忽，忽视"
+  },
+  "inter": {
+   "thermos": "保温瓶",
+   "benadryl": "苯海拉明（抗过敏药）",
+   "nonemergency": "非紧急的"
+  },
+  "basic": {
+   "coffee": "咖啡",
+   "beach": "海滩",
+   "phone": "电话"
+  }
+ },
+ "15": {
+  "advanced": {
+   "coercion": "胁迫，强迫",
+   "banality": "平庸，平凡"
+  },
+  "inter": {
+   "threadbare": "磨破的，陈旧的",
+   "anorexic": "患厌食症的",
+   "incense": "熏香"
+  },
+  "basic": {
+   "beer": "啤酒",
+   "basement": "地下室",
+   "poster": "海报"
+  }
+ },
+ "16": {
+  "advanced": {
+   "eradicated": "根除，消灭",
+   "blindsided": "出其不意地打击",
+   "imploding": "内爆，崩溃"
+  },
+  "inter": {
+   "insecure": "缺乏安全感的",
+   "jealous": "嫉妒的",
+   "gentleness": "温柔"
+  },
+  "basic": {
+   "coffee": "咖啡",
+   "truck": "卡车",
+   "beach": "海滩"
+  }
+ },
+ "17": {
+  "advanced": {
+   "repossess": "收回（抵押品）— \"I repossess cars. The ones out there on the lot are in the process of going back to the dealers they were bought from.\"",
+   "garnish": "扣押（工资）— \"they've garnished his wages over child support\"",
+   "linoleum": "油毡地板"
+  },
+  "inter": {
+   "muscle-bound": "肌肉发达的",
+   "denature": "(隐含在语境中)",
+   "desperation": "绝望"
+  },
+  "basic": {
+   "trailer": "拖车房屋",
+   "Mace": "防狼喷雾",
+   "shards": "碎片"
+  }
+ },
+ "18": {
+  "advanced": {
+   "gentrification": "绅士化（隐含在语境中）— 波特兰社区的快速变化和中产阶级化",
+   "exhaustion": "精疲力竭",
+   "compromise": "(隐含)"
+  },
+  "inter": {
+   "tweezers": "镊子",
+   "hydrogen peroxide": "双氧水",
+   "bandages": "绷带"
+  },
+  "basic": {
+   "Jägermeister": "野格酒",
+   "linoleum": "油毡",
+   "cranes": "起重机"
+  }
+ },
+ "19": {
+  "advanced": {
+   "gentrification": "(隐含)",
+   "credentialism": "文凭主义",
+   "class performance": "(社会学概念)"
+  },
+  "inter": {
+   "DUI": "酒后驾驶（Driving Under Influence）— \"you got a DUI\"",
+   "GED": "普通教育发展证书（General Educational Development）— 高中同等学力",
+   "yearbook": "年鉴"
+  },
+  "basic": {
+   "safe": "保险箱",
+   "trailer": "拖车房屋",
+   "prostitute": "妓女"
+  }
+ },
+ "20": {
+  "advanced": {
+   "systemic fraud": "系统性欺诈",
+   "destigmatization": "(隐含)",
+   "intergenerational poverty": "(社会学概念)"
+  },
+  "inter": {
+   "personal care assistant": "个人护理助理",
+   "disability check": "残疾补助金",
+   "food stamps": "食品券"
+  },
+  "basic": {
+   "bruises": "淤青",
+   "infected": "感染的",
+   "deposit": "押金"
+  }
+ },
+ "21": {
+  "advanced": {
+   "gentrification": "绅士化",
+   "rust belt": "锈带",
+   "solidarity": "团结"
+  },
+  "inter": {
+   "custody": "抚养权",
+   "credit": "信用评分",
+   "shifts": "工作班次"
+  },
+  "basic": {
+   "bakery": "面包店",
+   "Buick": "别克汽车",
+   "Lemon Drops": "柠檬滴鸡尾酒"
+  }
+ },
+ "22": {
+  "advanced": {
+   "gentrification": "绅士化",
+   "social Darwinism": "社会达尔文主义",
+   "working poor": "在职贫困人口"
+  },
+  "inter": {
+   "copay": "共付额",
+   "interstate": "州际公路",
+   "mail slot": "邮件槽"
+  },
+  "basic": {
+   "Buick": "别克汽车",
+   "Trail Blazers": "开拓者队",
+   "trunk": "汽车后备箱"
+  }
+ }
+}

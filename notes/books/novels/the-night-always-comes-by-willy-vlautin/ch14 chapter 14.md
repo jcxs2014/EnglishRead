@@ -16,7 +16,7 @@
 
 **中文理解**: 凌晨三点的 Hotcake House 餐馆只有三个醉汉；Lynette 查看镜中自己，脖子上的掐痕比预期轻。
 
-**关键词**：（待补充）
+**关键词**：three a.m. / red marks / mirror
 
 **为什么这样写**: 时间（凌晨三点）象征人生的低谷；镜子场景是自我审视的经典意象。
 
@@ -26,7 +26,7 @@
 
 **中文理解**: 祖父曾是码头工会工人，四十年如一日穿同样服装——李维斯牛仔裤、工作靴、Ben Davis 条纹半拉链衬衫。
 
-**关键词**：（待补充）
+**关键词**：stevedore / union / Ben Davis
 
 **为什么这样写**: 具体品牌和工作细节建立祖父的工人阶级身份；制服式穿着显示他的稳定可靠。
 
@@ -36,7 +36,7 @@
 
 **中文理解**: 祖父带她去赛马场看晨练，一手抱她一手拿睡袋和咖啡保温瓶——咖啡味、马蹄声、睡袋温暖构成童年安全感的三重感官记忆。
 
-**关键词**：（待补充）
+**关键词**：horse track / thermos / sleeping bag
 
 **为什么这样写**: 感官细节（嗅觉、听觉、触觉）强化记忆的生动性；保温瓶象征祖父的准备工作。
 
@@ -46,7 +46,7 @@
 
 **中文理解**: 祖父总介绍她是"史上最棒的孩子"，给她唯一真正脱离照顾弟弟责任的喘息机会。
 
-**关键词**：（待补充）
+**关键词**：greatest kid / break from Kenny
 
 **为什么这样写**: "greatest kid" 与 Lynette 当前的自我认知（失败者）形成强烈反差；"break from Kenny" 揭示她从未有过真正的童年。
 
@@ -56,7 +56,7 @@
 
 **中文理解**: 九岁那年祖父因心脏病突发死于人行道——送修卡车后步行回家途中倒下，毫无预兆。
 
-**关键词**：（待补充）
+**关键词**：heart attack / collapsed / Lombard Street
 
 **为什么这样写**: 死亡的突然性强调生命的脆弱；地点具体化（Lombard Street）增加真实感。
 
@@ -66,7 +66,7 @@
 
 **中文理解**: 十三四岁时，Lynette 会独自乘公交穿越全城去 Hotcake House 吃饭，只为怀念祖父。
 
-**关键词**：（待补充）
+**关键词**：take the bus / think about her grandfather
 
 **为什么这样写**: 重复行为显示她对祖父的依恋；独自前往表明她无法与他人分享这份记忆。
 
@@ -76,7 +76,7 @@
 
 **中文理解**: Lynette 边吃边流泪，自问祖父会如何看待现在的自己——参与或默许了种种可怕之事。
 
-**关键词**：（待补充）
+**关键词**：tears / horrible things / let be done
 
 **为什么这样写**: "let be done" 是关键——她不仅谴责自己的主动行为，更谴责自己的被动妥协。
 
@@ -86,7 +86,7 @@
 
 **中文理解**: 过去三年她甚至辜负了 Kenny——为了买房而忽视他，用睡眠和工作逃避责任。
 
-**关键词**：（待补充）
+**关键词**：failed Kenny / ignoring / save money
 
 **为什么这样写**: 自我指控精准指向她的核心矛盾：为长远安全牺牲当下关怀，结果两头落空。
 
@@ -97,22 +97,29 @@
 
 ## 词汇分级
 
-
-
 ### ⭐⭐⭐ Advanced
 
-（本章Advanced词条需从原文提取）
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| stevedore | 码头装卸工人 | He worked as a union stevedore for forty years and wore the same thing every day: Levi’s, work boots, and a Ben Davis pin-striped half-zipper shirt. |
+| anguish | 极度痛苦，焦虑 | She cleaned his room and the bathroom, where he made daily messes, and never once, during all those years, was he the brunt of her growing anger and anguish. |
+| grandparents | 祖父母 | But her time with her grandparents ended when she was nine. |
+
 ### ⭐⭐ Intermediate
 
-- **thermos** /ˈθɜːrməs/ *n.* 保温瓶
-- **benadryl** /ˈbiːnədrɪl/ *n.* 苯海拉明（抗过敏药）
-- **nonemergency** /ˌnɑːnɪˈmɜːrdʒənsi/ *adj.* 非紧急的
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| thermos | 保温瓶 | Her grandfather would carry her in one arm and hold a kid’s sleeping bag and a thermos of coffee in the other. |
+| benadryl | 苯海拉明（抗过敏药） | She fed him too much, left him in front of the TV too often, and when he was really difficult, she slipped him a Benadryl and put him to bed. |
+| nonemergency | 非紧急的 | Next she called the police nonemergency line and left a message. |
 
 ### ⭐ Basic
 
-- **coffee** /ˈkɔːfi/ *n.* 咖啡
-- **beach** /biːtʃ/ *n.* 海滩
-- **phone** /foʊn/ *n.* 电话
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| coffee | 咖啡 | As she ate and drank her coffee, she knew that she was ruled by guilt. |
+| beach | 海滩 | They took walks on the beach, ate Mexican food, and lay on the sand and read books side by side. |
+| phone | 电话 | She found a phone number for the Parole & Probation Department in Portland. |
 
 
 ## 一句话总结

@@ -16,7 +16,7 @@
 
 **中文理解**: Lynette 告诉 Shirley 母亲退出买房计划，并透露母亲从未真正认真过。她困惑于母亲为何不早点告知，导致她白白辛苦了三年（两份工作加上"那件事"即性工作）。
 
-**关键词**：（待补充）
+**关键词**：backed out, never serious, two jobs, the other thing
 
 **为什么这样写**: "The other thing"是 Lynette 对性工作的委婉说法，显示她仍对此感到羞耻。三年的辛苦与母亲的冷漠形成残酷对比，揭示了家庭内部的剥削模式：母亲利用女儿的劳动和希望来维持现状，却不愿承担任何风险。Vlautin 用"whispered"这个动词表现 Lynette 的脆弱——她终于可以向外人承认自己的失败。
 
@@ -28,7 +28,7 @@
 
 **中文理解**: Lynette 坦白母亲不想和她一起生活，这才是拒绝买房的真正原因。Shirley 出人意料地回应：这也许是好事，因为和母亲一起生活对 Lynette 有害。
 
-**关键词**：（待补充）
+**关键词**：doesn't want to live, good thing, isn't good for you
 
 **为什么这样写**: Shirley 的回答颠覆了传统的家庭价值观。通常我们会认为母女分离是悲剧，但 Shirley 指出这种关系实际上是毒性的。Vlautin 通过 Shirley 之口表达了核心主题：有时离开家人是自保的必要手段。"Isn't good for you"是简单但深刻的心理洞察——爱不足以支撑健康的关系，如果相处只会互相伤害。
 
@@ -40,7 +40,7 @@
 
 **中文理解**: Lynette 哭泣着讲述母亲威胁要在抚养权官司中揭露她的"不适合"（心理问题、可疑收入）。Shirley 用黑色幽默回应：她曾以为 Lynette 怀孕、被甩或家人去世，但随即自嘲地说 Lynette 没有男友，家人也不会"幸运"地死去。
 
-**关键词**: （待补充）
+**关键词**：she's keeping / even taking
 
 **为什么这样写**: Shirley 的幽默是 coping mechanism（应对机制），用笑声缓解沉重话题。她的列举（怀孕、被甩、家人去世）涵盖了女性危机的典型剧本，但 Lynette 的处境比这些都复杂——她是被系统性地剥夺资源和支持。Vlautin 展示了底层人民如何用幽默来面对绝望，避免被痛苦压垮。
 
@@ -52,7 +52,7 @@
 
 **中文理解**: Lynette 考虑离开波特兰，因为留下意味着高昂的租金和永无止境的挣扎。她重申开面包店的梦想（像曾经的 Tulip Pastry Shop），表明这不是空想而是具体计划。
 
-**关键词**：（待补充）
+**关键词**：leave town, scrape by, bakery, Tulip
 
 **为什么这样写**: Tulip Pastry Shop 是波特兰真实存在过的知名糕点店（2019年关闭），Vlautin 用它作为 Lynette 梦想的参照点。$1300/月的studio公寓租金反映了波特兰的住房危机——对于单亲母亲来说，这笔钱占收入的绝大部分，无法积累资产。Lynette 的"scrape by"（勉强维持）准确描述了贫困工人的处境：工作只是为了生存，而非发展。
 
@@ -64,7 +64,7 @@
 
 **中文理解**: Shirley 建议 Lynette 去中西部城市（圣路易斯、堪萨斯城、底特律、克利夫兰），那里房价便宜，人们正在回流。得知 Lynette 有近十万美元后，她建议修复信用、咨询专业人士、存钱买房。
 
-**关键词**：（待补充）
+**关键词**：Midwest, cheap, credit, buy something
 
 **为什么这样写**: Shirley 的建议基于真实的经济趋势：美国锈带城市在去工业化后人口外流，导致房价暴跌，近年来确实出现回流现象。Vlautin 列出的具体城市都是典型的"收缩城市"（shrinking cities），与波特兰的绅士化形成对照。Shirley 的"buy something"不仅是物质建议，更是心理建议——拥有资产能给人目标和归属感。
 
@@ -76,7 +76,7 @@
 
 **中文理解**: Shirley 表示会帮 Lynette 覆盖酒吧班次，并透露她知道 Lynette 与 Gloria 的"麻烦"（性工作），但选择沉默因为她理解原因。现在 Lynette 摆脱了那段生活，这是幸运的事。
 
-**关键词**：（待补充）
+**关键词**：straight, trouble, free, lucky
 
 **为什么这样写**: Shirley 的坦白是本段的核心。她早就知道 Lynette 从事性工作，但从未评判或传播谣言，显示真正的友谊是接纳而非谴责。"I knew why you were doing it"表明她理解 Lynette 的经济困境，而不是简单地将其归因于道德败坏。Vlautin 展示了工人阶级之间的 solidarity（团结）：他们互相保护，不向外人揭露彼此的弱点。
 
@@ -88,7 +88,7 @@
 
 **中文理解**: Shirley 庆幸 Lynette 的母亲退出买房，因为否则 Lynette 会被"铐住"一辈子。她举例说明母亲的为人：三年来从未在 Lynette 工作时来过，却常在她工作时来要免费饮料（超过一百杯 Lemon Drops），从不给小费，只会抱怨所有人。
 
-**关键词**：（待补充）
+**关键词**：handcuffed, free drinks, bitch, complains
 
 **为什么这样写**: Shirley 的证据清单（一百多杯免费饮料、零小费、持续抱怨）是客观的行为记录，而非主观评价。Vlautin 用具体数字和行为模式来刻画人物，避免抽象的道德判断。母亲的剥削行为不仅针对女儿，也针对朋友（Shirley），显示这是一种人格特质而非特定关系中的问题。
 
@@ -100,7 +100,7 @@
 
 **中文理解**: Shirley 透露自己无法生育，但如果她有女儿，希望她像 Lynette。Lynette 自卑地认为自己做了很多坏事，但 Shirley 反驳：你从未放弃，有一颗"受损但善良的心"，想要做好事，而大多数人只关心自己。
 
-**关键词**：（待补充）
+**关键词**：never had kids, damaged heart, never give up, do good
 
 **为什么这样写**: 这是全书最温暖也最重要的认可时刻。Shirley 的"damaged heart, but a good heart"精准概括了 Lynette 的本质：她的行为可能有瑕疵（性工作、撒谎），但动机是保护家人和追求尊严。Vlautin 通过 Shirley 之口表达了核心道德观：意图比行为更重要，韧性比完美更可贵。
 
@@ -113,20 +113,29 @@
 
 ## 词汇分级
 
-
-
 ### ⭐⭐⭐ Advanced
 
-（本章Advanced词条需从原文提取）
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| handcuffed | 被铐住的 | I’m really happy for you because you would have been handcuffed to her for the rest of her life. |
+| discussion | 讨论，商讨 | I don’t want any discussion and I don’t want you leaving money in my mailbox either. |
+| arguments | 争吵，论点 | And I don’t want any arguments about it. |
+
 ### ⭐⭐ Intermediate
-- **custody** (n.) 抚养权 — "if I try to get custody"
-- **credit** (n.) 信用评分 — "work on fixing your credit"
-- **shifts** (n.) 工作班次 — "I'll cover the shifts"
+
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| custody | 抚养权 | She says she’ll tell everyone I’m unfit if I try to get custody.” She wiped the tears from her face with her hands. |
+| credit | 信用评分 | Just work on fixing your credit, talk to somebody on how to do it, and save that money and then buy something.” |
+| shifts | 工作班次 | I’ll cover the shifts that I can and you know Wendy’s wanted your slot for a couple years.” |
 
 ### ⭐ Basic
-- **bakery** (n.) 面包店 — Lynette 的梦想职业
-- **Buick** (n.) 别克汽车 — Shirley 父亲的车
-- **Lemon Drops** (n.) 柠檬滴鸡尾酒 — Lynette 母亲常点的免费饮料
+
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| bakery | 面包店 | “Then maybe a bakery is the right move. |
+| Buick | 别克汽车 | It’s a 2003 Buick LeSabre. |
+| Lemon Drops | 柠檬滴鸡尾酒 | I’ve given her over a hundred free Lemon Drops and she’s never once tipped or asked to pay. |
 
 
 ## 一句话总结

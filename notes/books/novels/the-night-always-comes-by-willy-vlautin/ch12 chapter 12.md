@@ -12,11 +12,11 @@
 
 ---
 
-> **原句 1:** "Kansas laid it all out on the workbench and Lynette knew, just by seeing the things in the stark bright light, that the man would change his mind. She rushed to the table and began shoving Gloria's things inside her purse."
+> **原句 1:** "Kansas laid it all out on the workbench and Lynette knew, just by seeing the things in the stark bright light, that the man would change his mind. She rushed to the table and began shoving Gloria's things inside her purse, but the man with the blond hair cried out in the voice of a boy, 'She's stealing it.'"
 
 **中文理解**: Kansas 将物品摊在工作台上，Lynette 立刻意识到他会反悔，冲上前将东西塞进手提包。
 
-**关键词**：（待补充）
+**关键词**：stark bright light / change his mind / shoving
 
 **为什么这样写**: "stark bright light" 象征真相暴露——在荧光灯下贪婪无所遁形；Lynette 的本能反应显示她的警觉。
 
@@ -26,7 +26,7 @@
 
 **中文理解**: Lynette 试图用契约精神约束 Kansas——已付五百美元开锁费，多余的钱和私人物品必须归还。
 
-**关键词**：（待补充）
+**关键词**：the deal / agreed / personal stuff
 
 **为什么这样写**: 诉诸"协议"显示 Lynette 仍试图用文明规则约束暴力；提出放弃毒品是妥协策略。
 
@@ -36,7 +36,7 @@
 
 **中文理解**: Kansas 拿起四英尺长的撬棍，命令金发男子锁门——他要杀 Lynette 灭口。
 
-**关键词**：（待补充）
+**关键词**：crowbar / lock the door / gonna kill her
 
 **为什么这样写**: 简短的命令句式强化 Kansas 的冷酷；撬棍作为凶器比刀更具钝击威胁。
 
@@ -46,7 +46,7 @@
 
 **中文理解**: Kansas 详细规划谋杀流程：在水槽放血，尸体扔进酸桶；让助手取刀和毯子接血。
 
-**关键词**：（待补充）
+**关键词**：acid drum / Buck knife / soak up the blood
 
 **为什么这样写**: 程序化的杀人计划显示 Kansas 可能有前科；"soak up the blood" 的细节令人毛骨悚然。
 
@@ -56,7 +56,7 @@
 
 **中文理解**: Kansas 全身重量压在 Lynette 胸口，双腿夹住她的手臂；她恐惧到失语，被逼问保险箱主人身份。
 
-**关键词**：（待补充）
+**关键词**：full weight / pinned / couldn't speak
 
 **为什么这样写**: 身体压迫象征权力绝对不对等；窒息感强化死亡的迫近。
 
@@ -66,7 +66,7 @@
 
 **中文理解**: Lynette 急中生智谎称有一辆八万美元的奔驰车可给 Kansas，声泪俱下地编造细节。
 
-**关键词**：（待补充）
+**关键词**：eighty-thousand-dollar Mercedes / tonight / North Portland
 
 **为什么这样写**: 具体金额（八万）和地点（北波特兰）增加谎言可信度；哭泣既是恐惧也是表演。
 
@@ -76,7 +76,7 @@
 
 **中文理解**: Lynette 进一步安抚 Kansas——车主无害，不会追究；她可以带 Cody 去取车。
 
-**关键词**：（待补充）
+**关键词**：harmless / won't do anything / drive Cody
 
 **为什么这样写**: 淡化风险使交易更具吸引力；提及 Cody 是为分散注意力，也为后续逃跑创造条件。
 
@@ -86,7 +86,7 @@
 
 **中文理解**: Lynette 拿起手机拨打 911，颤抖着宣布只需按 1 就能接通——这是虚张声势的 bluff。
 
-**关键词**：（待补充）
+**关键词**：9-1 / five bars / hit 1
 
 **为什么这样写**: 公开拨号增加可信度；"shakier voice" 既是恐惧也是表演，制造不确定性。
 
@@ -97,22 +97,29 @@
 
 ## 词汇分级
 
-
-
 ### ⭐⭐⭐ Advanced
 
-（本章Advanced词条需从原文提取）
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| motionless | 一动不动的 | “Get the key to the door from his pocket,” Lynette said to Cody, but he was still motionless by the woodstove. |
+| underneath | 在…下方 | Put the blanket underneath her neck to soak up the blood. |
+| disappeared | 消失，不见了 | He ran back to the fence and screamed, “The purse!” but by then Lynette had disappeared into the darkness. |
+
 ### ⭐⭐ Intermediate
 
-- **crowbar** /ˈkroʊbɑːr/ *n.* 撬棍
-- **seizure** /ˈsiːʒər/ *n.* 癫痫发作
-- **bluff** /blʌf/ *v.* 虚张声势
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| crowbar | 撬棍 | Kansas picked up a four-foot-long crowbar off the ground. |
+| seizure | 癫痫发作 | On the concrete floor he went into a seizure. |
+| workbench | 工作台 | Kansas went to the corner of the workbench where a laptop sat. |
 
 ### ⭐ Basic
 
-- **purse** /pɜːrs/ *n.* 手提包
-- **knife** /naɪf/ *n.* 刀
-- **phone** /foʊn/ *n.* 手机
+| 词/短语 | 释义 | 原文例句 |
+|---------|------|----------|
+| purse | 手提包 | “I have the key in my purse. |
+| knife | 刀 | He opened the knife blade and brought it to her neck. |
+| phone | 手机 | “I have photos of the car on my phone. |
 
 
 ## 一句话总结

@@ -1,0 +1,158 @@
+{
+ "9": {
+  "advanced": {
+   "elegance": "优雅，精致",
+   "vindictive": "报复性的，怀恨在心的",
+   "stipend": "津贴，定期补助"
+  },
+  "inter": {
+   "cocaine": "可卡因",
+   "lingerie": "女性内衣",
+   "tacky": "俗气的，低档的"
+  },
+  "basic": {
+   "champagne": "香槟酒",
+   "makeup": "化妆品",
+   "purse": "手提包"
+  }
+ },
+ "10": {
+  "advanced": {
+   "developmentally": "发展地（多指发展障碍）",
+   "safecracker": "开保险箱的窃贼",
+   "reprimanded": "被训斥"
+  },
+  "inter_topup": {
+   "nodded": "点头",
+   "beard": "胡须",
+   "smelled": "闻起来",
+   "antifreeze": "防冻液",
+   "talking": "谈话",
+   "restaurant": "餐馆"
+  },
+  "basic_topup": {
+   "kitchen": "厨房",
+   "hundred": "一百",
+   "cigarettes": "香烟"
+  }
+ },
+ "11": {
+  "advanced": {
+   "fluorescent": "荧光的",
+   "frantically": "狂乱地，拼命地",
+   "combination": "组合，（保险箱）密码"
+  }
+ },
+ "12": {
+  "advanced": {
+   "motionless": "一动不动的",
+   "underneath": "在…下方",
+   "disappeared": "消失，不见了"
+  },
+  "inter_topup": {
+   "workbench": "工作台",
+   "yelled": "喊叫",
+   "stuff": "东西，物品"
+  }
+ },
+ "13": {
+  "advanced": {
+   "desperately": "绝望地，拼命地",
+   "floodlight": "泛光灯，探照灯",
+   "headlights": "车头灯"
+  },
+  "inter_topup": {
+   "passed": "经过，通过",
+   "waited": "等待",
+   "behind": "在…后面"
+  },
+  "basic_topup": {
+   "house": "房子",
+   "truck": "卡车",
+   "money": "钱"
+  }
+ },
+ "14": {
+  "advanced": {
+   "grandparents": "祖父母",
+   "scholarship": "奖学金",
+   "frantically": "狂乱地，急忙地"
+  }
+ },
+ "15": {
+  "advanced": {
+   "indiscernible": "难以辨别的",
+   "certificate": "证书，证明",
+   "seventeenth": "第十七"
+  },
+  "basic_topup": {
+   "clothes": "衣服",
+   "store": "商店",
+   "pizza": "披萨"
+  }
+ },
+ "16": {
+  "advanced": {
+   "intentionally": "故意地，有意地",
+   "hopelessness": "无望感，绝望",
+   "blueberries": "蓝莓"
+  }
+ },
+ "17": {
+  "advanced": {
+   "automatically": "自动地，下意识地说",
+   "pocketknife": "折叠小刀",
+   "preapproved": "预先批准的"
+  },
+  "inter_topup": {
+   "trailer": "拖车房屋",
+   "shards": "碎片",
+   "yelling": "大喊大叫"
+  }
+ },
+ "18": {
+  "advanced": {
+   "exasperated": "恼怒的，忍无可忍的",
+   "recommended": "被推荐的，建议的",
+   "possibilities": "可能性"
+  },
+  "basic_topup": {
+   "bandages": "绷带",
+   "sink": "水槽",
+   "glass": "玻璃杯"
+  }
+ },
+ "19": {
+  "advanced": {
+   "screwdriver": "螺丝刀",
+   "bartending": "调酒，当酒保",
+   "businessman": "商人，生意人"
+  }
+ },
+ "20": {
+  "advanced": {
+   "hospitalized": "被送医住院的",
+   "embarrassing": "令人尴尬的",
+   "registration": "登记，注册"
+  }
+ },
+ "21": {
+  "advanced": {
+   "handcuffed": "被铐住的",
+   "discussion": "讨论，商讨",
+   "arguments": "争吵，论点"
+  }
+ },
+ "22": {
+  "advanced": {
+   "applications": "申请，应用",
+   "politicians": "政客，政治家",
+   "restaurants": "餐馆"
+  },
+  "inter_topup": {
+   "interstate": "州际公路",
+   "everything": "一切，所有东西",
+   "kitchen": "厨房"
+  }
+ }
+}
