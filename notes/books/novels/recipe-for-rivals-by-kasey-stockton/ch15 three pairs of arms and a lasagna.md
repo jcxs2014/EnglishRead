@@ -118,8 +118,8 @@ modified: "2026-10-12"
 | 词/短语 | 释义 | 例句 |
 | --- | --- | --- |
 | haggling | 讨价还价 | “I texted him while y’all were haggling. Gotta tell you, ma’am, it’s been a while since I’ve seen the buyer trying to pay more and the seller talking her down.” |
-| efficiency | 效率 | They were more efficient without my meddling. |
-| butchered | 弄坏、毁掉（此处指翻新手艺） | They were more efficient without my meddling. |
+| efficient | 效率高的、利落的 | They were more efficient without my meddling. |
+| stubble | 胡茬、短须 | This close, with only a counter between us, I could see the rough stubble on his jaw and the shadowed curve between his bottom lip and his chin. |
 | uncertain | 不确定的、犹豫的 | She looked uncertain but nodded. |
 | temporary | 暂时的 | The sparse room was temporary. |
 | jealousy | 嫉妒 | It was so ridiculous, I could recognize that, but it didn’t stop the tendril of jealousy from making its way through me. |
