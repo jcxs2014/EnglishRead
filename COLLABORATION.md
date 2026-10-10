@@ -93,7 +93,7 @@ my-brilliant-sister-by-amy-brown 终验补修（2026-10-09）：audit_structure 
 
 **五步审查（2026-10-09 用户发起，同会话执行）**：查出**门禁看不见的缺陷类**——全书级「唯一/第一次」最高级断言与原文矛盾（AGENTS 8.1 第 7c）。**阻断型 8 处全修复**：三处「全书唯一一次/第一次用'爱'」（原书 ch01 有孩童 "I love him"）、两处「全书第一次用褒义词描述外貌」（ch03 有 "Beautiful. As radiant as the sun."）、一处「M x 签名全书首次」（ch14 便条已署 M x）、两处金句「全书唯一一次」补限定范围——全部改为可证写法（限定范围 + 列举反例）。提示型只记：sweep_analysis_inline 跨章 9 条（均为明确标注章号的合法跨章引用）。复验 gate EXIT=0。
 
-commits：2fa18d48c…0c14622ce（12 条，未 push，待指令）。
+commits：2fa18d48c…8146d6ef8（13 条，未 push，待指令）。
 
 明细（门禁原始输出、8 处逐条取证）见 `.memory/daily/2026-10-09.md`；门禁原件 `.memory/raw-gates/nemesis-mine-by-amy-archer/`。
 
