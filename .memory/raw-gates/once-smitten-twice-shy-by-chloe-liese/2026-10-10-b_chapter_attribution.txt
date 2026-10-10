@@ -1,0 +1,78 @@
+### b 步：逐章归属（check_chapter_quotes <NN> <md> --out-dir text/）
+
+----- 01
+ch01 prologue.md: 8/8 in ch01 text
+----- 02
+ch02 chapter one.md: 13/13 in ch02 text（另有 2 条短引语未校验）
+----- 03
+ch03 chapter two.md: 14/14 in ch03 text
+----- 04
+ch04 chapter three.md: 11/11 in ch04 text（另有 2 条短引语未校验）
+----- 05
+ch05 chapter four.md: 9/9 in ch05 text
+----- 06
+ch06 chapter five.md: 11/11 in ch06 text（另有 1 条短引语未校验）
+----- 07
+ch07 chapter six.md: 7/7 in ch07 text（另有 3 条短引语未校验）
+----- 08
+ch08 chapter seven.md: 11/11 in ch08 text
+----- 09
+ch09 chapter eight.md: 11/11 in ch09 text
+----- 10
+ch10 chapter nine.md: 12/12 in ch10 text
+----- 11
+ch11 chapter ten.md: 10/10 in ch11 text（另有 1 条短引语未校验）
+----- 12
+ch12 chapter eleven.md: 12/12 in ch12 text
+----- 13
+ch13 chapter twelve.md: 10/10 in ch13 text（另有 1 条短引语未校验）
+----- 14
+ch14 chapter thirteen.md: 8/8 in ch14 text（另有 1 条短引语未校验）
+----- 15
+ch15 chapter fourteen.md: 11/11 in ch15 text
+----- 16
+ch16 chapter fifteen.md: 14/14 in ch16 text
+----- 17
+ch17 chapter sixteen.md: 12/12 in ch17 text（另有 2 条短引语未校验）
+----- 18
+ch18 chapter seventeen.md: 14/14 in ch18 text（另有 1 条短引语未校验）
+----- 19
+ch19 chapter eighteen.md: 12/12 in ch19 text
+----- 20
+ch20 chapter nineteen.md: 14/14 in ch20 text（另有 4 条短引语未校验）
+----- 21
+ch21 chapter twenty.md: 14/14 in ch21 text
+----- 22
+ch22 chapter twenty one.md: 13/13 in ch22 text
+----- 23
+ch23 chapter twenty two.md: 6/6 in ch23 text（另有 1 条短引语未校验）
+----- 24
+ch24 chapter twenty three.md: 20/20 in ch24 text（另有 2 条短引语未校验）
+----- 25
+ch25 chapter twenty four.md: 9/9 in ch25 text（另有 2 条短引语未校验）
+----- 26
+ch26 chapter twenty five.md: 17/17 in ch26 text（另有 1 条短引语未校验）
+----- 27
+ch27 chapter twenty six.md: 15/15 in ch27 text（另有 1 条短引语未校验）
+----- 28
+ch28 chapter twenty seven.md: 18/18 in ch28 text（另有 1 条短引语未校验）
+----- 29
+ch29 chapter twenty eight.md: 29/29 in ch29 text（另有 6 条短引语未校验）
+----- 30
+ch30 chapter twenty nine.md: 27/27 in ch30 text
+----- 31
+ch31 chapter thirty.md: 19/19 in ch31 text
+----- 32
+ch32 chapter thirty one.md: 26/26 in ch32 text
+----- 33
+ch33 chapter thirty two.md: 30/30 in ch33 text（另有 3 条短引语未校验）
+----- 34
+ch34 chapter thirty three.md: 30/30 in ch34 text（另有 4 条短引语未校验）
+----- 35
+ch35 chapter thirty four.md: 17/17 in ch35 text（另有 4 条短引语未校验）
+----- 36
+ch36 chapter thirty five.md: 34/34 in ch36 text（另有 5 条短引语未校验）
+----- 37
+ch37 chapter thirty six.md: 17/17 in ch37 text
+----- 38
+ch38 epilogue.md: 39/39 in ch38 text（另有 3 条短引语未校验）

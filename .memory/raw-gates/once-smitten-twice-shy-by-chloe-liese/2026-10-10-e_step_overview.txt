@@ -1,0 +1,46 @@
+### e 步：总览三篇事实与引语核对（本实例人工核对，2026-10-10）
+
+#### 1. 引语门禁
+python3 scripts/verify_overview_quotes.py → 00_情感节点 21/21 ✅ · 00_概述 ➖ 无引语 · 00_金句精选 30/30 ✅
+合计 51/51 可核实（100%）；🔶 跨缝隙拼接 0 条。
+⚠️ 但该门禁只认「逐字命中」，**不判「是否连续」**——见下 4 条拼接缺陷。
+
+#### 2. 阻断型：总览引语「跨段拼接」（4 处）
+本实例自写脚本（按章号映射 flat 比对 + 最长前缀定位）逐条定位：
+
+(1) 00_情感节点.md:56 / 00_金句精选.md:108 —— ch08
+md：`> “Can I have a do-over?” He presses his hands together, holding my eyes. “Please.” I don’t tell him he flubbed it, but I don’t disagree, either. I just say, “Rewind time.”`
+原文（text/ch08_chapter_seven.txt）：76 `“Can I have a do-over?” …“Please.”` ／ 78 `I’m torn. I want to reassure him, tell a little white lie that he didn’t flub it to make him feel better.` ／ 80 `But I shouldn’t lie to him…` ／ 85 `I don’t tell him he flubbed it, but I don’t disagree, either. I just say, “Rewind time.”`
+⇒ 三段之间夹着 2 段心理独白，被直接粘成一句，未用 `…`。
+
+(2) 00_情感节点.md:60 —— ch10
+md：`> He scrubs at the back of his neck. “Mind just…checking in later, letting me know you’re okay?” “Will. You don’t have to worry about me, I promise. …” His shoulders drop with relief. “Well…” …`
+原文（text/ch10_chapter_nine.txt）：416 / 419 / 422 三段，中间 417 `Something softens inside me.` 被删且未用 `…`。
+
+(3) 00_情感节点.md:124 —— ch30
+md：`> “Nah.” He shakes his head. “We did.” … “Maybe we make a good team, you and me.” “Because you need to know I am furious with you!” … “I’ve fallen for every part of you, too, Jules.”`
+原文（text/ch30_chapter_twenty_nine.txt）：302 /（303-309 之间另有 3 段来回）／311 / 326 / 329
+⇒ 跨了 4 段、含两轮被删对话，未用 `…`。**最严重的一条。**
+
+#### 3. 阻断型：总览事实错误（5 处）
+(a) `00_概述.md:50`「**七姐妹**与威士忌家族」
+(b) `00_概述.md:50`「情同兄长的**被收养**家人」——原文 ch05:67 `The Wilmots are a surrogate family to Petruchio; they took him under their wing after his parents died in his teens.`（surrogate ≠ 收养；全书 `adopt*` 0 命中）
+(c) `00_概述.md:50`「尾声里把新娘从伴郎臂弯里轻轻摘下的**岳父**」——ch38 无此场景；Juliet 独自走通道（ch38:16），Petruchio 在 ch38 是 Will 的伴郎（:22 侧头对 Will 说话）
+(d) `00_概述.md:50` 把 Miranda / Helena / Celia 列为 Wilmot 姐妹 —— 实为 **Will 的妹妹**（ch07:31 `Celia, the second oldest of my younger sisters`；ch07:37 `Helena, the oldest of my younger sisters`；ch07:40 `Miranda, my baby sister`；ch24:405 Juliet 问 Will：`“So your sisters,” I say to him. “Helena, Celia, Imogen, Miranda.”`）
+(e) `00_金句精选.md:54`「小镇＋**七姐妹**＋邻居」· `00_金句精选.md:104`「**七姐妹**里的长姐」
+
+**实际人数（逐条取证）**：
+- Juliet 侧：ch01:222 `I smile. “Two, actually. No brothers. What about you?”`（问 Juliet 有无姐妹）⇒ Juliet 只有 **2 个**姐妹：Bea（双胞胎，ch06:40 `my twin sister Bea`）与 Kate（最小，ch06:28 `My youngest sister, Kate`）。Juliet 本人是长姐（ch24 与 Will 互认「Oldest」）。
+- Will 侧：ch01:226 `“No brothers, either,” he says. “And four sisters.”` ⇒ Helena / Celia / Imogen / Miranda 共 4 人，Will 为长兄。
+- 全书 `seven sisters` / `七姐妹` 参照：**0 命中**（`seven` 仅出现于「七个月」「Seven 章号」等处）。
+
+#### 4. 核过无误的项（供报告用）
+- ch01 全名 `Viola Juliet Wilmot` / 父系祖母 `paternal grandmother, Viola Wilmot` ✅
+- Will 全名 `William Campbell Montag Orsino`（ch21:70 / ch38:311）✅ · 34 岁（ch05:154 / ch38:438）✅
+- 戒指揣 10 个月（ch38:61）✅ · 橙衬衫 = 第一次约会那件（ch07:295 收到 → ch08:46 首约穿 → ch38:414）✅ · 紫裙子同理（ch38:405）✅
+- ch19 十三岁神经发散诊断、温室 ✅ · ch30 `You’re hired.` ✅ · ch33 `Then consider it given.`（概述的「那就当它已经被给出了」为忠实意译）✅
+- ch34 Olivia Tobias 网红（ch26:199 初现，ch34 反转）✅ · ch38 紫藤花架 ✅ · 无香润滑油 ✅（见第 5 节）
+
+#### 5. 已排除的疑点（先报后撤）
+- `00_概述.md:30`「无香润滑油、先嗅后同意」**无缺陷**：ch29:124-136 原文 `“Scented?” I ask. So many strong scents give me headaches.` → `“Nope. Just almond and jojoba oil. Here.” She snaps open the lid and wafts it my way, not coming too close. “Take a whiff.”` ⇒ 「无香＋先嗅后同意」是忠实意译（先前 grep 用 `unscented`/`lube` 措辞不同故 0 命中，属检索措辞问题，非内容问题）。
+- `00_概述.md:50`「他答『换作任何人我都会警惕，但我信任我的朋友，也信任 Juliet——那就当它已经被给出了』」**无缺陷**：ch33:221 `Then consider it given.` 对应，中文为意译（非英文引语，不受逐字约束）。

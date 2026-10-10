@@ -1,0 +1,46 @@
+### d 步第二实现（check_analysis_indep / check_xref_indep / verify_fragments_indep）
+
+===== check_analysis_indep.py =====
+抽出分析层英文片段 1233 条
+❌ 未命中 5 条：
+  ch12 chapter eleven.md:12  mutual attraction confession
+      未命中词: ['confession']
+  ch18 chapter seventeen.md:12  sisters interrogate her
+      未命中词: ['interrogate']
+  ch20 chapter nineteen.md:12  accidental date upgrade
+      未命中词: ['upgrade']
+  ch27 chapter twenty six.md:12  the surprise backfires into the perfect surprise
+      未命中词: ['backfires']
+  ch32 chapter thirty one.md:12  misunderstanding resolved by absurdity
+      未命中词: ['misunderstanding', 'resolved']
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）18 条 —— 只报不判红，须人判：
+  ch15 chapter fourteen.md:26  My heart thrashes in protest
+  ch22 chapter twenty one.md:12  love interest gets added to the group chat
+  ch22 chapter twenty one.md:12  phone call instead of text
+  ch24 chapter twenty three.md:138  romance-practiced my way right into
+  ch25 chapter twenty four.md:12  best friend sees through him
+  ch27 chapter twenty six.md:50  she left me room to tell her what I can manage
+  ch28 chapter twenty seven.md:12  family tradition as love language
+  ch30 chapter twenty nine.md:96  Unfortunate is an understatement
+  ch31 chapter thirty.md:108  blows my world wide open
+  ch31 chapter thirty.md:120  Your mother has been on the phone
+  ch33 chapter thirty two.md:62  I mean this as a compliment
+  ch33 chapter thirty two.md:62  and if I objectify you I'm sorry
+  ch34 chapter thirty three.md:13  I need you to follow my lead
+  ch34 chapter thirty three.md:84  I need you to follow my lead
+  ch36 chapter thirty five.md:140  I need you to follow my lead
+  ch37 chapter thirty six.md:96  if it’s got something good to say about us
+  ch38 epilogue.md:98  you had to believe in that possibility
+  ch38 epilogue.md:174  Do you think you could call this home
+EXIT=0
+
+===== check_xref_indep.py =====
+=== chNN 引用 190 处：英文证据报警 0 处 ／ 中文式待人判 190 处 ／ 🔶 同章省略号拼接（提示，不判红）0 处 ===
+EXIT=0
+
+===== verify_fragments_indep.py =====
+
+=== 逐片段核验（独立实现） ===
+  引语条数 321 ｜ 受检片段 457 ｜ ❌ MISS 0 ｜ 缺参照章 0
+  ⇒ 每个受检片段都在**本章** text/ 里逐字命中
+EXIT=0
