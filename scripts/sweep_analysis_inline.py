@@ -148,8 +148,18 @@ _BARE_MIN_FLAT = 16    # flat 长度下限（低于此多为普通术语，不�
 
 
 def bare_fragments(line):
-    """裸英文候选：先剥掉已包裹部分，剩下的连续英文段。"""
-    stripped = SPAN.sub(' ', line)
+    """裸英文候选：先剥掉已包裹部分，剩下的连续英文段。
+
+    ⚠️ 2026-10-10 修正（october-daye-20 实证 3 处假红）：直引号行的引号配对会漂移
+    （奇数引号/短于 4 字的对），SPAN 捕获到**纯中文**的伪 span；若照样剥掉，会把
+    两侧的中文分隔符一并吞掉 ⇒ 两段独立英文被粘成一句（如
+    `rich red garden roses were never going to be a comfort to me again`）。
+    只剥**含字母**的 span；伪 span 就地保留，中文照样能断句。
+    """
+    def _strip(m):
+        g = next((x for x in m.groups() if x), '')
+        return ' ' if re.search(r'[A-Za-z]', g) else m.group(0)
+    stripped = SPAN.sub(_strip, line)
     for m in _BARE.finditer(stripped):
         seg = m.group(1)
         if len(re.sub(r'[^a-z0-9]', '', seg.lower())) >= _BARE_MIN_FLAT:
