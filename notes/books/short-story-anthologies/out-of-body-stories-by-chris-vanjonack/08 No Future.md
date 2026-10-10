@@ -120,7 +120,7 @@ modified: "2026-10-10"
 | elegy | 哀歌、挽歌 | …"Think of it as a welcome wagon," he tells me. "An **elegy**." |
 | linearity | 线性、直线式 | …"For like, **linearity**," Pearson says. |
 | severance | 解雇费、离职金 | …most of my **severance** from the Denver Historical Society… |
-| precarious | 不稳定的、危险的 | …Even with how **precarious** it all felt… |
+| reacclimating | 重新适应 | The average field assignment takes something like seventeen days, and it’s not an exact science—more like a general time and location radius—so you’re out there, deep undercover in Victorian England, pretending to be a farmer or peasant or whatever, until you can track down whoever dropped, like, a bubble gum wrapper, but they don’t prep you at all for reacclimating. |
 | anachronism | 时代错误、不合时宜的人或物 | …hunting down **anachronisms** and maintaining dominant narratives. |
 | grovel | 匍匐、卑躬屈膝 | …I resist the impulse to **grovel** for them… |
 | frisking | 搜身、搜查 | …pat my pockets like I’m **frisking** for a cigarette. |
@@ -128,10 +128,10 @@ modified: "2026-10-10"
 ### ⭐ 基础
 | 词 | 释义 | 例句 |
 |---|---|---|
-| time | 时间 | …I don’t care about dinosaurs. Or woolly mammoths. Or the future. |
-| past | 过去 | …I want to go back and see Margot and me together again… |
+| time | 时间 | I said it twice as, like, a time-travel joke. |
+| past | 过去 | If she could see me now, though, with this job, I think she’d be impressed, maybe even a little turned on, even given how problematic it is to police the past, when you really think about it. |
 | kill | 杀 | …And then I want to **kill** him, past me. |
-| love | 爱 | …I miss her. |
+| love | 爱 | “I loved the triceratops.” |
 | drug | 毒品 | …You want to take more **drugs**? |
 | bar | 酒吧 | …We decide on this **bar**, Skylark… |
 | snow | 雪 | …White comes down like in a snow globe… |

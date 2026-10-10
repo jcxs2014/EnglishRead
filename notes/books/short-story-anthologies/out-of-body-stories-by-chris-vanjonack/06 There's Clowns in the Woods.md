@@ -125,8 +125,7 @@ modified: "2026-10-10"
 | bludgeon | 猛击、重击 | …emerging with a **bludgeoned** rabbit… |
 | viscera | 内脏、五脏 | …each step dotted with **viscera**. |
 | erratic | 不稳定的、古怪的 | Ward’s behavior grows increasingly **erratic**. |
-| manifestation | 显现、表现 | …the forest is **manifesting** specters… |
-
+| manifesting | 显现、表现 | “Because the forest is manifesting specters,” Ward snaps. |
 ### ⭐⭐ 进阶
 | 词 | 释义 | 例句 |
 |---|---|---|
@@ -135,10 +134,9 @@ modified: "2026-10-10"
 | jubilant | 欢欣的、喜气洋洋的 | The crowd erupts into **jubilant** rage… |
 | raze | 夷平、摧毁 | …They should **raze** those woods. |
 | retribution | 报复、惩罚 | …You’re entitled to **retribution**. |
-| stasis | 停滞、静止 | …that we embrace a similar **stasis**. |
-| convulsion | 抽搐、痉挛 | …fall to the ground and **convulse**… |
-| manifestation | 显现、表现 | …the forest is **manifesting** specters… |
-
+| indoctrinations | 灌输、教化 | He speaks of indoctrinations, pathogens, real estate moguls, chemical compounds produced by the oxidation of adrenaline. |
+| convulse | 抽搐、痉挛 | The tempo speeds up, and the clowns keep time, dancing faster and faster, until all at once they wave their arms erratically and fall to the ground and convulse at the exact moment that the mimes begin spinning backward until they’ve disappeared behind the trees and into the forest. |
+| manifesting | 显现、表现 | “Because the forest is manifesting specters,” Ward snaps. |
 ### ⭐ 基础
 | 词 | 释义 | 例句 |
 |---|---|---|
@@ -146,11 +144,10 @@ modified: "2026-10-10"
 | woods | 森林 | …deep in the **woods**, near a house by a pond… |
 | drink | 喝酒 | …All I want to do is **drink**. |
 | kid | 孩子 | …**kids** just keep going missing… |
-| blood | 血 | …there are thick, dark droplets sprinkled onto the dirt. |
+| blood | 血 | “Jesus,” he says, wiping blood onto a leaf. |
 | kill | 杀 | …Ward kills a second **clown**. |
 | home | 家 | …I want to be **home**, home with Nora and Michael… |
-| walk | 走 | …We take each step together. We **move** as one. |
-
+| walk | 走 | Jennings,” the woman in the pantsuit says as I walk by their table, and I bristle. |
 ---
 
 ## 一句话总结

@@ -118,8 +118,8 @@ modified: "2026-10-10"
 ### ⭐⭐⭐ 高级
 | 词 | 释义 | 例句 |
 |---|---|---|
-| transcend | 超脱、超越 | …you might **transcend** beyond into the Atlantic Ocean… |
-| obliteration | 消灭、毁灭 | …will be **obliterated**. Everything will go black… |
+| transcend | 超脱、超越 | Transcend is the term that Dale has coined for the latter prospect, and, given how much it stresses him out on, like, an existential level, you wonder if he regrets giving it such a romantic nomenclature. |
+| obliterated | 被抹去、被消灭 | This version of you—the version that died, the version that came to as a ghost hovering over the wreckage, the version that transcended to this place through the pull of murky waters—will be obliterated. |
 | permutation | 排列、组合 | …you will be able to keep observing these **permutations**… |
 | grotesquerie | 怪诞、荒诞 | …the **grotesquerie** of your appearance. |
 | liminal | 阈限的、中间的 | …this **liminal** space beyond life and death… |
@@ -137,8 +137,7 @@ modified: "2026-10-10"
 | nomenclature | 命名法、术语 | …he regrets giving it such a romantic **nomenclature**. |
 | submerge | 浸入、淹没 | …once you **submerge** yourself… |
 | dissipate | 消散、消失 | …the incorporeal container that houses your soul **dissipates**… |
-| convulsion | 抽搐、痉挛 | …your body **convulsing** horribly across the floor… |
-
+| convulsing | 抽搐、痉挛 | You understand that this is your body convulsing horribly across the floor of the elevator platform, and you remember this, the dark elevator and the urgent ponytailed evolution and all of it. |
 ### ⭐ 基础
 | 词 | 释义 | 例句 |
 |---|---|---|
@@ -146,9 +145,9 @@ modified: "2026-10-10"
 | live | 活 | …you will **live**. |
 | mother | 母亲 | …girls who miss their **mothers**… |
 | birthday | 生日 | …my tenth **birthday**… |
-| home | 家 | …feel like **home**… |
+| home | 家 | Still coughing, you say something like, until Mom takes a Xanax, and Derreck shrugs, takes a hit, and says that you’re taking the first bus home tomorrow morning. |
 | love | 爱 | …I **love** you… |
-| choose | 选择 | …the choice is **yours**. |
+| choose | 选择 | Whatever life you choose to end on is no more or less likely to unfold than any other permutation that you’ll encounter, no more or less likely than the life you actually lived. |
 | see | 看 | …you **see** it. You understand… |
 
 ---

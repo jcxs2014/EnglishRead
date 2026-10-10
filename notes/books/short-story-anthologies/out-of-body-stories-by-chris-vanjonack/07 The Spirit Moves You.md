@@ -109,7 +109,7 @@ modified: "2026-10-10"
 | threadbare | 破旧的、磨薄的 | …I enter the **threadbare** apartment of a man… |
 | arraignment | 提审、传讯 | …I black out at my **arraignment** for public indecency. |
 | penetrative | 穿透的、深入的 | …our bodies have managed **penetrative** sex… |
-| anachronism | 时代错误、不合时宜的人或物 | …hunting down **anachronisms** and maintaining dominant narratives. |
+| refashioned | 重塑、改换 | The urgency of the past few months seems to diminish with each passing day, refashioned gradually into a hazy dream of a stranger with my body and my desires but none of my control. |
 | procreate | 繁殖、生育 | …I think they want us to **procreate**. |
 | concussed | 脑震荡的 | …Badly **concussed**. Your blood was still on me. |
 
@@ -129,12 +129,10 @@ modified: "2026-10-10"
 | 词 | 释义 | 例句 |
 |---|---|---|
 | note | 纸条 | …I discover a crumpled **note** inside… |
-| sleep | 睡觉 | …I sleep… |
+| home | 家 | Damp with tears, I black out driving home and wrap the hood of my car around a utility pole. |
 | wake | 醒来 | …I **wake** up… |
 | hurt | 伤害 | …I think they want to **hurt** each other. |
-| love | 爱 | …I want you, I want you, I want you. I **love** you. |
-| alone | 独自的 | …I’m **alone** this whole time. |
-| body | 身体 | …I think our **bodies** are being possessed… |
+| love | 爱 | She tells me about her husband and her daughters, who she loves, she says, even as she has the urge some nights to drive north until she’s so deep in the redwoods that she can’t see the sky. |
 | blink | 眨眼 | …I **blink** and I don’t know where I am. |
 
 ---

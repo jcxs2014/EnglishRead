@@ -189,19 +189,18 @@ modified: "2026-10-10"
 | 词 | 释义 | 例句 |
 |---|---|---|
 | dilapidated | 破旧失修的 | The shelter is well-worn and **dilapidated**, nestled into a skeletal red oak… |
-| prophesy | 预言 | …a woman whose fiancé proposed on the exact date **prophesied** by the machine… |
+| prophesied | 预言 | You read another, this one from a woman whose fiancé proposed on the exact date prophesied by the machine, and another from some guy in Tulsa who won the lottery. |
 | catharsis | 宣泄、净化 | "Look at it as an opportunity for **catharsis**," you say. |
 | encroach | 侵犯、侵入 | …so long as it wouldn’t be **encroaching**, if you had anything from that day. |
-| ruminate | 反复思考 | …you’ve been **ruminating** on it ever since. |
+| ruminating | 反复思考 | You tell Eva that you’d felt awful about how nervous she sounded, that you’ve been ruminating on it ever since. |
 | agnostic | 不可知的、怀疑的 | …her **agnostic** disinterest in the Best Day Ever Machine. |
 | definitive | 确定的、权威的 | …don’t expect any **definitive** answers. |
-| bifurcation | 分叉、分裂 | …the inevitable **dividing line**. |
-
+| condescension | 居高临下、恩赐态度 | Suddenly you are dreading being alone in the car with her, with her mousy condescension, and her inevitable don’t you see it was all about love moralizing, and her agnostic disinterest in the Best Day Ever Machine. |
 ### ⭐⭐ 进阶
 | 词 | 释义 | 例句 |
 |---|---|---|
 | wreckage | 残骸 | …**wreckage** like this is still scattered across Bergen County. |
-| curdle | 变质、凝固 | …your giddiness at the disruption **curdling** first into shame and then into dread. |
+| curdling | 凝固、变质 | All you seem to remember from that day is smoke rising over the Hudson, your giddiness at the disruption curdling first into shame and then into dread. |
 | heteronormativity | 异性恋正统性 | …to **compulsory heteronormativity**, to being eighteen years old… |
 | epiphany | 顿悟 | …on the whim of a drunken, 3:00 a.m. **epiphany**. |
 | harbinger | 预兆 | …they feel **ominous**, somehow, **harbingers** of an inevitable dividing line. |
@@ -213,12 +212,12 @@ modified: "2026-10-10"
 | 词 | 释义 | 例句 |
 |---|---|---|
 | tree house | 树屋 | …it is inside the **tree house** that you discover the Best Day Ever Machine… |
-| accident | 事故 | …Elizabeth is killed in a head-on **collision** on her way home… |
+| accident | 事故 | Elizabeth leads the way to it by accident, tracing the Passaic River as it curves through grass and underneath orange foliage. |
 | promise | 承诺 | …although you have **promised** Eva, you do not go to a consultation… |
 | scared | 害怕的 | "I’m **scared**," you say, barely shivering. |
 | lie | 谎言 | "I lied to her. Eva. About being here." |
-| drink | 喝、酒 | …you purchase a souvenir cup that you refill with an alcoholic slushy… |
-| dance | 跳舞 | …bouncing from bar to bar and club to club where the drinks are always free and you are always **dancing**. |
+| drink | 喝、酒 | You drink after dark in Elizabeth’s graveyard. |
+| dance | 跳舞 | You kiss her goodbye on Friday nights and then find yourself out and on the town and constantly seeking shit shows, wasting away at dance clubs and dive bars, drinking too much, smoking too much, only to inevitably catch yourself sober, staring off a balcony, arms against the guardrail, consumed by the thought of how different things might be if only you were different. |
 | call | 打电话 | …you should **call** someone. |
 
 ---

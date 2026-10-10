@@ -190,22 +190,20 @@ modified: "2026-10-10"
 | transcendence | 超脱、超越 | …the reference to **transcendence** throws off any hope of a productive meeting. |
 | séance | 降神会、通灵会 | …drawn to the pull of the **séance** and losing their collective shit. |
 | planchette | 占卜板上的指针 | …places the **planchette** on the center of the alphabet. |
-| vulnerable | 脆弱的、易受伤害的 | …I catch a flash of **vulnerability** in her smile. |
+| vulnerability | 脆弱的、易受伤害的 | Brian’s hand brushes hers, she takes it, and I catch a flash of vulnerability in her smile. |
 | definitive | 确定的、明确的 | …I want something **definitive**… |
-| oblivious | 未察觉的、不注意的 | …**oblivious**, all the way back to this moment… |
-
+| dispassionate | 冷静的、不动感情的 | Dispassionate. |
 ### ⭐ 基础
 | 词 | 释义 | 例句 |
 |---|---|---|
-| dead | 死的 | …I just want to be alive again… |
+| dead | 死的 | “Henry’s dead,” Sol says. |
 | ghost | 鬼魂 | …the **ghost** who thinks he’s not dead but dreaming… |
 | moon | 月亮 | …I’ve been staring at the **moon**… |
 | ocean | 海洋 | …staring into the **ocean**, silent, alone, and nostalgic… |
 | love | 爱 | …proof, I guess, that she **loved** me. |
 | fight | 争吵 | …we used to get into **fights** about it… |
 | sad | 悲伤的 | …I’m just so fucking **sad**… |
-| alone | 独自的 | …I’m **alone**… |
-
+| alone | 独自的 | “Just the check,” Sol says, and then, once they think they’re alone: “Besides, I’ve got coffee back at my place. |
 ---
 
 ## 一句话总结

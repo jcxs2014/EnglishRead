@@ -144,18 +144,18 @@ modified: "2026-10-10"
 | 词 | 释义 | 例句 |
 |---|---|---|
 | spook | 惊吓、使害怕 | …it’s like that dude at the bar **spooked** her or something… |
-| insinuate | 暗示、旁敲侧击 | …resenting the counselor for **insinuating** that she’s using some kind of elaborate filter… |
+| insinuating | 暗示、旁敲侧击 | “Most undergrads seem to split right after graduation.” She spends the first three sessions explaining the details of her situation—he forced his way into the photo booth; he shows up in every picture of me—and the next two resenting the counselor for insinuating that she’s using some kind of elaborate filter when she tries to prove it to him. |
 | gyrate | 旋转、扭动 | …sniffs her countertops and **gyrates**. |
 | flipbook | 翻页动画书 | …it’s like scrolling through a **flipbook**… |
 | noncommittal | 不明确的、含糊的 | …Lilith keeps her responses **noncommittal**… |
-| ransack | 彻底搜查、翻找 | …rummaging through his medicine cabinet, or **rifling** through the shoebox… |
+| paraphernalia | 随身物品、杂物 | She’s got a bulletin board in her studio apartment, lush with sticky notes and ticket stubs and scattered paraphernalia. |
 | untag | 取消标签（社交媒体） | …Lilith **untags** herself in every photo that gets taken of her. |
 | hiccup | 打嗝 | …and she **hiccups**. |
 
 ### ⭐ 基础
 | 词 | 释义 | 例句 |
 |---|---|---|
-| photo | 照片 | …she takes a **picture** of herself and Trevor… |
+| photo | 照片 | Lilith insists on waiting in line for the photo booth anyway. |
 | picture | 照片 | …she snaps a **picture** of herself and Trevor… |
 | alone | 独自的 | "I’m **alone**," she says… |
 | sorry | 对不起 | "I’m **sorry**," she says… |

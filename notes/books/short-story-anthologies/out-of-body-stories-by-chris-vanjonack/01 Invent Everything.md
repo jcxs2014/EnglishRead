@@ -98,7 +98,7 @@ modified: "2026-10-10"
 
 ---
 
-> **原句 6:** He’s had dates like this at roller rinks, bowling alleys, dive bars.
+> **原句 6:** She’s had dates like this at roller rinks, bowling alleys, dive bars.
 
 **中文理解**：她在轮滑场、保龄球馆、低价酒吧也遇到过这样的约会对象。
 
@@ -152,28 +152,26 @@ modified: "2026-10-10"
 | nascent | 新生的、初生的 | …only to awake in the airy void of his mother’s uterus and then to slide into the airy void of **nascent** privilege… |
 | obliterate | 根除、抹去 | …he assures them via a Language-Perfector Helmet that yes, actually, **obliterate** is exactly the right word… |
 | cognizant | 清醒的、意识到的 | …Jimmy is all too **cognizant** of empathy’s limitations… |
-| retromodernism | 复古未来主义 | Grace resents Jimmy for his prioritization of **retro**futurism over the Real… |
-
+| retrofuturism | 复古未来主义 | Grace resents Jimmy for his prioritization of retrofuturism over the Real, Jimmy resents Grace for how rusty he’s gotten as an inventor, and they’re both saying shit to each other that the next morning they cannot even believe. |
 ### ⭐⭐ 进阶
 | 词 | 释义 | 例句 |
 |---|---|---|
-| portal | 传送门、入口 | …little Jimmy Hammer somehow manages to open an interdimensional **portal** underneath Michael Ackerman’s desk… |
+| portal | 传送门、入口 | Mouth hanging open lamely, Jimmy stares into the shimmering portal as his peers shriek and as Ms. Kalipsky jolts into the hallway to pull the nearest fire alarm. |
 | haze | 薄雾、霾 | …teargassed protesters coughing into one another through the **haze** of an East Village street corner. |
 | cacophony | 刺耳的杂音 | The siren overwhelms the **cacophony** of pubescent screams surrounding him… |
-| lambely | 无力地、软弱地 | Mouth hanging open **lambely**, Jimmy stares into the shimmering portal… |
+| lamely | 无力地、软弱地 | Mouth hanging open lamely, Jimmy stares into the shimmering portal as his peers shriek and as Ms. |
 | holodeck | 全息甲板 | "Now build a **holodeck**," his father gasps. |
 | tractor beam | 牵引光束 | "Now build a holodeck," his father gasps. "A **tractor beam**." |
-| confluence | 汇合、聚集 | …the government is collapsing. An earthquake has decimated a city an ocean away. |
-| futility | 徒劳、无用 | Grace has pressed him on this, the **futility** of his mission… |
-| incongruous | 不协调的、不一致的 | …the incongruity between Jimmy’s intellect and his emotional maturity… |
-
+| infrastructure | 基础设施 | Soon planes will be falling out of the sky onto corroded bridges, lapsed infrastructure wrecking lapsed infrastructure. |
+| approximation | 近似、接近 | Jimmy wants so badly for Grace to feel an approximation of how he felt last night: unable to finish a sentence, unable to move, unable to unpack the privilege of tripping mushrooms and feeling melancholy at a Sharon Van Etten concert; unable to complete his work on a device that will, when finished—God willing, one day—project them both into an empty room, with no windows, no doors, and no context, the walls white and bare, just their shells and the way they love each other. |
+| disintegrated | 分解、消散 | “You—” Jimmy begins to tell Grace, drawing this syllable out as far as it will go using his Moment-Elongator Machine, not in an empty room with no windows, no doors, and no context, but in a regular room, a messy room, his room, incapable of communicating how he is feeling even despite the Language-Perfector Helmet, and, as he puts the Erasinator to his chest, he’s suddenly wondering how many times he’s found himself in this exact moment, how many times he’s pulled the trigger and disintegrated into the ether, only to awake in the airy void of his mother’s uterus and then to slide into the airy void of nascent privilege and then to inevitably sleepwalk, oblivious, all the way back to this moment, right here in his regular room, alone with just Grace, and with the dog and the cats, and with the tip of the ray gun he’s invented burrowed into his flesh, hell-bent on prolonging the distance between this moment and what they both know is coming, “—obliterate me.” |
 ### ⭐ 基础
 | 词 | 释义 | 例句 |
 |---|---|---|
 | portal | 门、入口 | …a shimmering **portal** underneath Michael Ackerman’s desk… |
-| scream | 尖叫 | …his peers **shriek** and as Ms. Kalipsky jolts into the hallway… |
+| scream | 尖叫 | The siren overwhelms the cacophony of pubescent screams surrounding him, and, ears blaring, Jimmy folds sheepishly into a single-file line to follow Ms. |
 | guilt | 内疚 | Jimmy is surprised to experience a pang of **guilt** for what he has done… |
-| proud | 骄傲的 | …he takes Jimmy out for soft serve… and tells him that he’s **proud** to be his father. |
+| proud | 骄傲的 | “No harm, no foul, just like I’ve been telling everybody.” The old man has been looking for an excuse to celebrate for ages now, and so, with the kid home safe, he takes Jimmy out for soft serve and a thicket of french fries and tells him that he’s proud to be his father. |
 | accident | 意外 | …he wonders if this could still be construed as an **accident**. |
 | love | 爱 | …until, of course, he falls in **love**. |
 | fight | 争吵 | Neither of them wants to **fight**, but they just keep fighting. |

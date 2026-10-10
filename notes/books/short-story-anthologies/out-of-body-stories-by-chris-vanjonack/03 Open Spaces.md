@@ -149,9 +149,9 @@ modified: "2026-10-10"
 | desiccated | 干枯的、脱水的 | …**desiccated** saloons and the husks of houses curbing the empty streets… |
 | ethereal | 飘渺的、超凡的 | …**ethereal** horses galloped by us and into the distance. |
 | corporeal | 肉体的、有形的 | …especially when they were **corporeal** enough to carry on a dialogue… |
-| metastasize | 扩散、恶化 | …long, drawn-out, and **metastasizing** conversations about gangrene… |
-| implacable | 不可阻挡的、无情的 | He moved **implacably**, so sure of himself that I knew he wouldn’t have me. |
-| coalesce | 合并、凝聚 | The experts seemed to be **coalescing** around a cautious optimism… |
+| metastasizing | 扩散、恶化 | Sarah would always indulge them, getting into long, drawn-out, and metastasizing conversations about gangrene and American history and the sweethearts they’d left back home. |
+| implacably | 不可阻挡的、无情的 | He moved implacably, so sure of himself that I knew he wouldn’t have me. |
+| coalescing | 合并、凝聚 | The experts seemed to be coalescing around a cautious optimism, the sort that Sarah had often expressed to me. |
 | torpor | 麻木、迟钝 | Sarah had settled down into a sort of glassy **torpor**. |
 | byzantine | 错综复杂的 | …I had begun taking us on **byzantine** routes to extend our trip. |
 
@@ -163,7 +163,7 @@ modified: "2026-10-10"
 | banter | 打趣、戏谑 | …I tried putting a pillow over my ears to drown out their **banter**… |
 | baritone | 男低音 | …our first president’s **baritone** crept through anyway… |
 | ransack | 洗劫、搜查 | We figured someone must have **ransacked** the place. |
-| waylay | 阻拦、拖延 | …I found myself **waylaid** in Wilmington, North Carolina… |
+| waylaid | 阻拦、拖延 | I became eligible for vaccination and found myself waylaid in Wilmington, North Carolina, for nearly two whole months—one week out from my first appointment, plus four more until my second shot, plus two more until promised immunity—and all the while I thought long and hard about what would come after. |
 | precarious | 不稳定的、危险的 | Even with how **precarious** it all felt, things were looking up… |
 | ostentatiously | 炫耀地、卖弄地 | …a young couple kiss **ostentatiously** in front of the park message board… |
 
@@ -171,14 +171,13 @@ modified: "2026-10-10"
 | 词 | 释义 | 例句 |
 |---|---|---|
 | ghost | 鬼魂 | …the **ghost** of an old man who had drowned in the creek… |
-| park | 公园 | …we’d resolved to fuck in each of the nearly one hundred public, state, and national **parks**… |
-| sex | 性 | …we’d resolved to **fuck** in each of the nearly one hundred… |
-| drive | 驾驶 | …we drove north up the coast into Oregon. |
-| camp | 露营 | …we spent three whole nights **moaning** underneath the stars. |
+| park | 公园 | Sarah and I did a ton of googling with all the extra time on our hands, and we resolved to fuck in each of the nearly one hundred public, state, and national parks in the continental United States that are rumored to be haunted. |
+| sex | 性 | It didn’t take long for us to realize that hotel-room sex was a nonstarter. |
+| drive | 驾驶 | It rained the whole drive but we liked it that way, holding hands over the center console, climaxing in sync with one another over the screams of a murdered college student at Cathedral Park in Portland, and, farther east, whispering and groping feverishly beneath Fourth of July fireworks at Candy Cane Park in La Grande as a cursed barmaid cackled at us from the merry-go-round. |
+| camp | 露营 | On our second night of camping in the gully, these moans drifted alongside the dry breeze and flinted over us. |
 | wait | 等待 | …I **watched** the woods and **waited**… |
 | alive | 活着的 | …everything around me was **alive**. |
-| alone | 独自的 | …I knew that I would need to adjust to experiencing these things on my **own**. |
-
+| alone | 独自的 | Carmen and Erika were her roommates, and, before we set out upon this journey, I had lived alone. |
 ---
 
 ## 一句话总结
