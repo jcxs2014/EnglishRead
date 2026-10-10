@@ -111,6 +111,11 @@
 - **trailer** (n.) 拖车房屋 — Gloria 的真实成长环境
 - **prostitute** (n.) 妓女 — Lynette 和 Gloria 的共同身份
 
+
+## 一句话总结
+
+Lynette 向 Gloria 摊牌揭露其剥削本质，两人友谊彻底破裂，Lynette 失去最后一个上层联系。
+
 ---
 
 ## 本章总结

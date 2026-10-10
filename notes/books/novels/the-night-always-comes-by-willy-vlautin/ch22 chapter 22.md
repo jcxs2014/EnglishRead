@@ -147,6 +147,11 @@
 - **Trail Blazers** (n.) 开拓者队 — 波特兰 NBA 球队
 - **trunk** (n.) 汽车后备箱 — "All of it fit in the trunk"
 
+
+## 一句话总结
+
+Lynette 在深夜驾车离开波特兰，留下破碎的家庭和有毒的关系，朝向未知但充满希望的新生活。
+
 ---
 
 ## 本章总结
