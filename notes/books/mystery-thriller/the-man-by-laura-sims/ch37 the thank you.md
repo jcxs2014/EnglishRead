@@ -29,6 +29,8 @@ Judith 与 Tom 共进晚餐。炖菜温热，灯光柔和，Tom 的陪伴让她�
 
 > **原句 1:** "I can understand that it happened, but I can no longer feel it."
 
+**中文理解**："我能理解这件事发生了，但我再也感受不到它了。"——Judith 的解离状态：认知上知道创伤存在，但情感上已经切断了联系。
+
 **关键词**：
 - **I can understand but I can no longer feel**：认知与情感的分离——解离状态下的心理保护机制
 
@@ -37,6 +39,8 @@ Judith 与 Tom 共进晚餐。炖菜温热，灯光柔和，Tom 的陪伴让她�
 ### 3. 新的 Judith
 
 > **原句 2:** "I am the new one, the one basking and serene here, spooning up wholesome food with my bandaged hands."
+
+**中文理解**："我是新的那个，在这里沐浴着宁静、用包扎的双手舀着营养食物的人。"——Judith 自称"新的 Judith"，一个与创伤割裂的、安全的版本。
 
 **关键词**：
 - **the new one**：新的 Judith——未被创伤触及的版本，与旧自我割裂

@@ -45,6 +45,9 @@
 > Tom snorts. "Not for us."
 >
 > **原句 2:** Well, for Judith, then. Think of—"
+
+**中文理解**："那为 Judith 想想吧，"他说——Paul 被 Tom 打断前试图继续劝说，用 Judith 的名义做最后的努力。
+
 **关键词：**
 - **Well, for Judith, then**：为 Judith 着想——Paul 试图用 Judith 来说服 Tom
 
