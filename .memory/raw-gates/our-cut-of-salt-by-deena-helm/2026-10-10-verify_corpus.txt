@@ -1,0 +1,49 @@
+=== 语料层验收（P0-0）: our-cut-of-salt-by-deena-helm ===
+text/ 件数: 13
+  [1] 件数 13 == 预期 13  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 未给 --anchors，跳过人物锚点双向  WARN
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (576 句)
+      首| CHAPTER 1
+      末| “Already gone.”
+    ch02 (15 句)
+      首| CHAPTER 2
+      末| To drown.
+    ch03 (207 句)
+      首| CHAPTER 3
+      末| drip / sick / drip / sick
+    ch04 (1041 句)
+      首| CHAPTER 4
+      末| As long as I remember, I cannot ever—ever—forget.
+    ch05 (376 句)
+      首| CHAPTER 5
+      末| every day
+    ch06 (380 句)
+      首| CHAPTER 6
+      末| her vision fades to black.
+    ch07 (541 句)
+      首| CHAPTER 7
+      末| Her vision blurs as she feels the same aching, bottomless need that has accompanied her for most
+    ch08 (365 句)
+      首| CHAPTER 8
+      末| Marina has a great-uncle.
+    ch09 (558 句)
+      首| CHAPTER 9
+      末| rania misses her friend.
+    ch10 (720 句)
+      首| CHAPTER 10
+      末| Her shoulders deflated with this final realization.
+    ch11 (415 句)
+      首| CHAPTER 11
+      末| “It’s been a long few days.”
+    ch12 (555 句)
+      首| CHAPTER 12
+      末| I just wanted my family.
+    ch13 (1233 句)
+      首| CHAPTER 13
+      末| She opens her eyes in this cocoon, allowing the saltwater to consume her from the inside out.
+
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===
