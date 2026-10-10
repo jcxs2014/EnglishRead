@@ -1,0 +1,27 @@
+=== 2026-10-10 批6（ch17-19）门禁 ===
+--- verify_quotes ---
+
+=== 总计 121/121 引文可核实（100%）；完全干净文件 19/19；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+--- check_vocab ---
+  ch06 chapter six.md [基础] 基础档疑含超纲词「carpenter」
+  ch09 chapter nine.md [基础] 基础档疑含超纲词「bookkeeper」
+  ch09 chapter nine.md [基础] 基础档疑含超纲词「assistance」
+  ch13 chapter thirteen.md [基础] 基础档疑含超纲词「employees」
+  ch14 chapter fourteen.md [基础] 基础档疑含超纲词「flashlight」
+
+--- check_chapter_quotes ---
+ch17 chapter seventeen.md: 6/6 in ch17 text
+ch18 chapter eighteen.md: 7/7 in ch18 text
+ch19 chapter nineteen.md: 6/6 in ch19 text
+
+--- corruption_scan ---
+=== 编辑损坏扫描（the-ruins-by-steve-wick）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+=== 引语整串 flat 比对（the-ruins-by-steve-wick）===
+  参照集：text/ 逐章（42 章，可定章） + epub 交叉验证
+  ✅ 本章命中 121 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
