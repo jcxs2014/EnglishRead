@@ -1,0 +1,34 @@
+跨章指认（chNN != 本章）共 32 处
+
+ch02 desire outweighed the risk.md:12  本章ch02→指ch01  - **人物弧线**：本章把两位主角各让开一层。叙述者在本章第一次有一件可被触碰的表面（桌上的 LYREBIRD、beak、metal and flesh 的接缝），本章第一次被 you 用问句唤回（“Sable?” you prompted.——这个名字 you 在 ch01:187 已经低声用过），也第一次自陈爱意与不敢说出口；记忆滑脱又交出她的旧身份 
+ch02 desire outweighed the risk.md:27  本章ch02→指ch01  **读者视角提示**：邀约的两个坐标在 ch01 末尾的讯息里已给出（Facility 34X、GTM-11），本章第一句把它们变成脚下的地面。本章最后一行（“Behind us, the facility exploded.”）会按字面兑现这句警告——“trap”一词到结尾才落地。
+ch03 i woke to fire.md:12  本章ch03→指ch04  - **人物弧线**：叙述者的能力与代价同时被摊开：她能分区处理疼痛、能伪造扫描身份、能替身体做决定，也会在最关键的一刻做出错误保护（“Fearing you’d lose your body, I threw up a firewall and blocked you.”）。她第一次被陌生人当面按绰号认出（“You’re the Specter, aren
+ch03 i woke to fire.md:31  本章ch03→指ch02  **读者视角提示**：这一句 gone 在第 2 块里被更准确的说法替换（“little more than a shadow at the back of my thoughts”）——本章开头两次判断之间的距离，就是叙述者当时的慌乱程度。另注意此处的人称结构仍与 ch02 相同：叙述者没有自己的腿，所以她的“醒来”发生在你的大腿和前臂上。
+ch03 i woke to fire.md:79  本章ch03→指ch01  **读者视角提示**：注意本章的广播结构：“the holorotator cut its ad midstream”，同一台设备先放广告、再放事故定性与通缉话术。这段官话的效果在本章后段可见：幸存者们 “pawed at their VisorForge masks, desperate for proof of loyalty”，而行星广播随后用 “ch
+ch03 i woke to fire.md:79  本章ch03→指ch01  **读者视角提示**：注意本章的广播结构：“the holorotator cut its ad midstream”，同一台设备先放广告、再放事故定性与通缉话术。这段官话的效果在本章后段可见：幸存者们 “pawed at their VisorForge masks, desperate for proof of loyalty”，而行星广播随后用 “ch
+ch03 i woke to fire.md:79  本章ch03→指ch01  **读者视角提示**：注意本章的广播结构：“the holorotator cut its ad midstream”，同一台设备先放广告、再放事故定性与通缉话术。这段官话的效果在本章后段可见：幸存者们 “pawed at their VisorForge masks, desperate for proof of loyalty”，而行星广播随后用 “ch
+ch03 i woke to fire.md:103  本章ch03→指ch01  **为什么这样写**：本章开口跟两人说话的人里，只有这个医护主动把两人的名声当成正面资产来用。三个称呼是递进的：“the Specter” 是绰号（ch01:120 消息板上已经这么叫，ch01:128 还有人嫌它难听），“The Null” 是数据状态，而 “The one VisorForge can’t erase” 是结论——一个被抹掉记录的人，恰好
+ch03 i woke to fire.md:103  本章ch03→指ch01  **为什么这样写**：本章开口跟两人说话的人里，只有这个医护主动把两人的名声当成正面资产来用。三个称呼是递进的：“the Specter” 是绰号（ch01:120 消息板上已经这么叫，ch01:128 还有人嫌它难听），“The Null” 是数据状态，而 “The one VisorForge can’t erase” 是结论——一个被抹掉记录的人，恰好
+ch03 i woke to fire.md:103  本章ch03→指ch01  **为什么这样写**：本章开口跟两人说话的人里，只有这个医护主动把两人的名声当成正面资产来用。三个称呼是递进的：“the Specter” 是绰号（ch01:120 消息板上已经这么叫，ch01:128 还有人嫌它难听），“The Null” 是数据状态，而 “The one VisorForge can’t erase” 是结论——一个被抹掉记录的人，恰好
+ch03 i woke to fire.md:117  本章ch03→指ch02  **为什么这样写**：全章的恐怖高潮不靠动作，靠一次范畴纠错。前两句把技术细节写得像探测报告（“met resistance like fog”、“its covered flesh a poor conductor”），随后 “the same emptiness I’d recalled from LYREBIRD’s trials” 一句话把这台杀手与
+ch03 i woke to fire.md:117  本章ch03→指ch02  **为什么这样写**：全章的恐怖高潮不靠动作，靠一次范畴纠错。前两句把技术细节写得像探测报告（“met resistance like fog”、“its covered flesh a poor conductor”），随后 “the same emptiness I’d recalled from LYREBIRD’s trials” 一句话把这台杀手与
+ch03 i woke to fire.md:131  本章ch03→指ch02  **读者视角提示**：这段声音的来处在上一章已经埋好——设施广播里那个只闻其声的女声（ch02:277）在本章被认出（“It was her, that measured voice from the facility”），而本章也解释了她怎么进来的（“They’d overridden planetary comms—no easy feat.”）。孢子治
+ch16 infinity mirror.md:65  本章ch16→指ch02  **读者视角提示**：这段闪回与 ch02 所记「你在 Pholan’s World 找到我」是同一场景；本章只给尸体与雪的意象，不作解释——前史细节以那章原文为准，此处不代拟。
+ch17 welcome home.md:35  本章ch17→指ch02  **读者视角提示**：trials 中受试者死亡不是本章新信息，前文已有记录（ch02、ch09 可查）——本章只让身体替记忆先做出反应，读者无需此刻去翻。
+ch17 welcome home.md:35  本章ch17→指ch09  **读者视角提示**：trials 中受试者死亡不是本章新信息，前文已有记录（ch02、ch09 可查）——本章只让身体替记忆先做出反应，读者无需此刻去翻。
+ch21 watch us.md:11  本章ch21→指ch22  - **情感弧线位置**：倒数第二章（ch22 为终章，ch23 为 Epilogue）——全章一路下坠：开篇的冷静议论之后，中段失去同伴、末尾自残背负；没有胜利，只有两个词的反击和一个跳下去的动作。
+ch21 watch us.md:11  本章ch21→指ch23  - **情感弧线位置**：倒数第二章（ch22 为终章，ch23 为 Epilogue）——全章一路下坠：开篇的冷静议论之后，中段失去同伴、末尾自残背负；没有胜利，只有两个词的反击和一个跳下去的动作。
+ch21 watch us.md:29  本章ch21→指ch20  **为什么这样写**：上一章末尾写世界被爆炸打成一片白（ch20:93 可核），本章开口就把那场爆炸按在议论台上：systems、institutions、ideologies 三个名词（原文为 systems, institutions, or ideologies）把“事件”降格成背景，第二句再从中挑出 ideology 定为主敌——“manufactu
+ch21 watch us.md:47  本章ch21→指ch20  **为什么这样写**：haloed（晕光环绕）本是画圣像的词，此处却落在半边残破的杀戮机器上——sparking strip lights 的“圣光”是短路的，这层反讽只由构图完成，叙述不作声。“Rahn and Sira’s sacrifice had stripped the field down to Prime alone”把两条命写成一句比分通报：
+ch21 watch us.md:81  本章ch21→指ch22  **为什么这样写**：这一组把入侵写成反被阅读——“Instead of planting a daemon, Prime absorbed information”：对手不攻不守，只是“读”，而它读出的恰是 you 的全部家底（LYREBIRD PRIME、被孢子感染的义体）。这句同时是下一章的引线：ch22 明写那个程序自本章的 spores 种进你义体
+ch21 watch us.md:81  本章ch21→指ch22  **为什么这样写**：这一组把入侵写成反被阅读——“Instead of planting a daemon, Prime absorbed information”：对手不攻不守，只是“读”，而它读出的恰是 you 的全部家底（LYREBIRD PRIME、被孢子感染的义体）。这句同时是下一章的引线：ch22 明写那个程序自本章的 spores 种进你义体
+ch21 watch us.md:143  本章ch21→指ch22  **读者视角提示**：跳井之后本章戛然而止；下一章第一句写两人“坠落了一段极乐般的永恒”（ch22:15 可核），直接接住这个动作——悬念的交接精确到一行之内，不要在两章之间自行脑补落地。
+ch22 the last coherent thing.md:12  本章ch22→指ch23  - **人物弧线**：Aliers 在本章死去（原文有 “Aliers’s death” 直陈，其遗言结尾 “For old Earth—” 后 The line cut out.）；“我”的 Four 载体被击穿、LYREBIRD 被捏碎（That version of me vanished.），意识最终散布进 every mask 并剥离 GIRS。y
+ch22 the last coherent thing.md:103  本章ch22→指ch01  **为什么这样写**：Aliers 的遗言是一场结构完整的宣判：自报家门（General Renata Aliers of the Thorned Root）、定罪（crimes against humanity’s survival）、量刑（condemn this station to the Order）、执行方式（ruin in the form o
+ch22 the last coherent thing.md:169  本章ch22→指ch01  **为什么这样写**：接管战斗的动机只给两行——“My Wylla. You couldn’t die. Not like this.”——与上一章“我不想这样死”（Not like this.）构成镜像：同一短语，她为自己说的、我为她说的。“I drove Prime mad with your fight, your hunger, your love.
+ch22 the last coherent thing.md:193  本章ch22→指ch01  **为什么这样写**：结尾的节奏由段落长短控制：“For the last time.”“There was only one way out.”“I became every mask.” 三个单句短段先把镜头收到针尖，随后长段铺开规模（millions of me、stripped the GIRS）与代价（chaos、collapse、panic），再
+ch23 hello wylla.md:29  本章ch23→指ch22  **为什么这样写**：全章第一段只写景，且景的每一项都在回收前文：wheat（作物，对应后文 “you have crops to care for”）、white flowers（本章内自证：I’d shown you memories of white flowers——“我”的童年记忆物）、以及 quiet——终章里“每一条信息流、每一块技术元件、每一
+ch23 hello wylla.md:53  本章ch23→指ch22  **为什么这样写**：世界结局不靠叙述者总结，而是让路边广播替它说话：“Debt records are still ash” 对应上一章“我剥掉登记系统、注销每一条记录”的自述（ch22:171 可核）；“She made us all ghosts” 对应第一章“抹掉一个人的记录就使其成为幽灵、空值实体”的设定（ch01:259 可核）——三章串成一条因
+ch23 hello wylla.md:53  本章ch23→指ch01  **为什么这样写**：世界结局不靠叙述者总结，而是让路边广播替它说话：“Debt records are still ash” 对应上一章“我剥掉登记系统、注销每一条记录”的自述（ch22:171 可核）；“She made us all ghosts” 对应第一章“抹掉一个人的记录就使其成为幽灵、空值实体”的设定（ch01:259 可核）——三章串成一条因
+ch23 hello wylla.md:91  本章ch23→指ch01  **为什么这样写**：回应只给了四行——“Hey.”、互道姓名的两句、和末行 “There you are. I’ve missed you.”——正文没有解释这次应答经由什么载体、以什么机制发生，本章能核的只有：you 的喊声 acts like an anchor，而“我”在锚定的瞬间 remember who I used to be——注意这句话的自
+ch23 hello wylla.md:91  本章ch23→指ch01  **为什么这样写**：回应只给了四行——“Hey.”、互道姓名的两句、和末行 “There you are. I’ve missed you.”——正文没有解释这次应答经由什么载体、以什么机制发生，本章能核的只有：you 的喊声 acts like an anchor，而“我”在锚定的瞬间 remember who I used to be——注意这句话的自
