@@ -8,7 +8,7 @@ modified: "2026-10-10"
 ## 本章导航
 **一句话概括**：全书终章——Rania 向 Haifa 说出「我爱 Nuhad」，Marina 和 Haifa 决定留在老宅过夜、计划夺回它，Marina 在浴缸里用盐水洗去历史，最终呼吸到真正的空气（dyspnea 终于消失）。
 **情感弧线位置**：结局 — 全书情感弧线的终点是「呼吸」——Marina 终于能够呼吸了，而 Haifa 终于能够把她的恐惧变成行动（留在老宅，而不是逃走）。
-**Tropes 兑现/反转**：兑现「Haifa will return to Haifa」（ch07）的承诺——她在 ch13 真正回到了那座以她名字命名的城市，并且决定留下来；兑现「the house is finally quiet」（ch11房子说「I just wanted my family」）——Marina 留在了老宅，老宅不再需要闹鬼了。
+**Tropes 兑现/反转**：兑现「Haifa will return to Haifa」（ch07）的承诺——她在 ch13 真正回到了那座以她名字命名的城市，并且决定留下来；兑现「It really, truly is finally quiet」（ch13房子终于安静）——Marina 留在了老宅，老宅不再需要闹鬼了。
 **人物弧线**：Marina 最终完成了她一开始的旅程（我要去 Tata 的城市），但不是以她想象的方式——她不是作为一个游客去访问海法，她是作为 Sayadi 家的后代留在老宅；Haifa 也完成了她的旅程——她终于去 Nazareth 看了 tariq 的坟，然后回到了老宅。
 **叙事手法**：三线并进——Marina 留在老宅过夜（2am 出发跟踪 tariq 的坟）、Haifa 在老宅里的行动（撕下壁纸露出黄色底色）、Rania 的告别；最后以 Marina 在盐水浴缸里「终于能够呼吸」作结。
 
@@ -21,12 +21,12 @@ modified: "2026-10-10"
 **为什么这样写**：用「I loved」的过去时态来完成一个告白的动作——Rania 不是在说「我爱她作为朋友」，她是在说「我爱她作为我生命中最重要的那个人」，而这个人已经不在了；这个过去时态是全书最有力量的语法选择，因为它承认了失去，同时肯定了曾经拥有。
 **读者视角提示**：注意 Haifa 听到这句话时的反应——她没有立刻回应，她只是跟着 Rania 去睡觉；这句话太重了，它不需要回应，它只需要被说出来。
 
-> **原句 2:** "Use your American passports. Tell them you're American."
+> **原句 2:** "Use your American passports," Rania says. "Tell them you're American."
 
-**中文理解**：Marina 对 Haifa 说「用你的美国护照，告诉他们你是美国人」——这是全章最具政治讽刺性的一句话，也是全书对「身份」主题的最直接陈述；Marina 作为巴勒斯坦后裔，必须假装是「美国人」才能进入自己的家族土地。
-**关键词**：American passports / identity / strategy
-**为什么这样写**：用「American passports」来标记占领对身份的制度性压迫——Marina 不能说「我是巴勒斯坦人」，因为这个身份在以色列法律下没有居住权；她必须用美国的护照才能回到她祖母的房子；这个细节与 ch04 的「Hello, shalom」（机场盘问）是同一个故事的续集。
-**读者视角提示**：注意这是 Marina 在 ch13 里说的最后几个词之一——她在给出实际的建议，而不是情感上的回应；这说明她已经从「感受历史」进入「行动」的阶段了。
+**中文理解**：Rania 对 Marina 和 Haifa 说「用你们的美国护照，告诉他们你是美国人」——这是全章最具政治讽刺性的一句话，也是全书对「身份」主题的最直接陈述；作为巴勒斯坦后裔，她们必须假装是「美国人」才能进入自己的家族土地。
+**关键词**：American passports / Rania / American
+**为什么这样写**：用「American passports」来标记占领对身份的制度性压迫——Rania 很清楚她们不能说「我是巴勒斯坦人」，因为这个身份在以色列法律下没有居住权；她们必须用美国的护照才能回到自己祖母的房子；这个细节与 ch04 的「Hello, shalom」（机场盘问）是同一个故事的续集。
+**读者视角提示**：注意这是 Rania 在 ch13 里说的最后几个词之一——她在给出实际的建议，而不是情感上的回应；这说明历经七十五年，她仍然清楚这个系统是如何运作的。
 
 > **原句 3:** "We'll just show up with shovels and they can try and stop us."
 
@@ -47,14 +47,15 @@ modified: "2026-10-10"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| belonging | 〔n.〕归属感；Nuhad 在海边的记忆 | they tap each other on the shoulders as they continue dragging their belongings through this salted earth. But behind the anger, in a small little box tucked |
+| quiet | 〔adj.〕安静的；房子的状态终于改变 | It really, truly is finally quiet. The haunted house of Haifa is no more. |
+| return | 〔v.〕返回；Haifa 回到海法的旅程 | Haifa becomes progressively darker as they near the city. The storm clouds that were beginning to look menacing over Nazareth now loom |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| shovels | 〔n.〕铁锹；Marina 计划用来夺回老宅的工具 | We'll just show up with shovels |
+| shovels | 〔n.〕铁锹；Marina 计划用来夺回老宅的工具 | We’ll just show up with shovels and they can try and stop us. |
 | storm | 〔n.〕风暴；Marina 2am 出发的夜晚 | Thunder claps in the distance, and Marina's lungs burn on waking. |
-| passport | 〔n.〕护照；Marina 让 Haifa 用的美国护照 | "Use your American passports," Rania says. |
+| passport | 〔n.〕护照；Rania 让 Marina 和 Haifa 用的美国护照 | “Use your American passports,” Rania says. |
 | dawn | 〔n.〕黎明；Haifa 和 Marina 在老宅里看到的第一个黎明 | through the open door streams the first light of dawn |
 
 ### ⭐ 基础

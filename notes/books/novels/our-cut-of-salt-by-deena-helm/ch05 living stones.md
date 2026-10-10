@@ -31,7 +31,7 @@ modified: "2026-10-10"
 > **原句 3:** "It reminds her of the painting Nuhad kept by her bedside in hospice."
 
 **中文理解**：Marina 在老宅里看到的画，让她想起 Nuhad 在临终关怀所床边挂的那幅画——两幅画内容相同（海景 / 落日 / 渔船），但情绪截然相反：临终版本是悲悼的，海法版本是「一种平静的喜悦」；这两幅画隔着七十年与一整片海遥遥相望。
-**关键词**：painting / opposite / canvases
+**关键词**： painting / Nuhad / bedside
 **为什么这样写**：用「两幅画的对话」代替直接的历史叙述——画是记忆的容器，两幅画的内容都是同一片海，但情绪完全不同，说明时间改变了感受者而不是改变了海本身；这个细节与 ch03 里那幅「Nuhad 在 vendor 那里买的画」呼应，那幅画当时被挂在 dar Sayadi 的客厅里，现在 Marina 在被占领的老宅里看到的是它的另一个版本。
 **读者视角提示**：这个「两幅画」的设定在 ch13 里会有最终兑现——Marina 最终理解了为什么同一片海可以同时是「归属」和「失去」。
 
@@ -42,17 +42,17 @@ modified: "2026-10-10"
 **为什么这样写**：用「钻石」形容海面反射的光——这个意象在全书的流散叙事里极其珍贵，它说明在 1948 年之前，这个家庭拥有过「钻石一样的生活」；而这种生活被占领剥夺了，所以失去才如此彻底。
 **读者视角提示**：这个记忆场景里的关键细节——英国士兵在海滩上、Holocaust 难民家庭与 Rania 家庭同住、Rania 说「Sometimes I'm so happy」然后 Nuhad 握手回应——每一个都在章末房子的独白里有对应（士兵 / 难民 / 幸福都被夺走）。
 
-> **原句 5:** "The dead may be buried," Rania says, "but when a city is built atop them, their blood never washes away."
+> **原句 5:** "You see how they're dressed? How they carry themselves? Americans. The only ones who ever even consider buying this house. Go in right after them."
 
-**中文理解**：Rania 在 ch06 里说的这句话是全章最重要的历史性陈述——它把「占领」从政治概念变成地质概念：城市建在尸骨上，而这些尸骨的血液永远不会被洗掉；这句话是全书的题眼之一。
-**关键词**：dead / buried / blood
-**为什么这样写**：把「Nakba」从一个历史事件升格为一种地质状态——城市本身就是罪行，因为它的地基是血迹；这个隐喻在 ch06 的海滩幻觉场景里完整实现（Marina 看见沙滩变成尸骨、海水变成血红色）。
-**读者视角提示**：这句话是 Rania 的声音，而 Rania 是留守者（没有离开巴勒斯坦的阿拉伯人）——她比任何人都更清楚这个城市的历史重量。
+**中文理解**：Rania 指着来看房的美国夫妇，对 Marina 说出这句冷峻的观察——美国人是唯一会考虑买下这座房子的人；这句话把老宅从「祖母的故居」重新拉回「被占领的房产」的现实。
+**关键词**：Americans / buying / house
+**为什么这样写**：用「Americans」标记占领的延续——1948 年士兵搬进来，几十年后美国买家来看房，同一座房子在不同时代以不同方式被转手；Rania 让 Marina「Go in right after them」，既是看房的策略，也暗含「你们就是下一批会离开的人」的讽刺。
+**读者视角提示**：这句话是 Rania 的声音，而 Rania 是留守者（没有离开巴勒斯坦的阿拉伯人）——她比任何人都更清楚这座房子的历史重量，也知道美国人来看房意味着什么。
 
-> **原句 6:** "There is a small, dusty hollow beneath."
+> **原句 6:** "There's a small, dusty hollow beneath."
 
 **中文理解**：Marina 在卧室地板下找到一个中空的空间，里面有一本深蓝色封面的日记本——这是全章情节层面的高潮，也是全书情节层面的重大发现（日记本的存在证明了 Nuhad 有意保留了历史记忆）。
-**关键词**：hollow / journal / beneath
+**关键词**： hollow / beneath / dusty
 **为什么这样写**：用一个物理动作（抬起地板砖）完成一个历史动作（发现被隐藏的真相）——日记本藏在房子最深处，就像历史藏在城市最深处；这个意象与「living stones」的标题形成张力：石头是活的，它们藏着记忆。
 **读者视角提示**：日记本是全书的中心物件，它连接了 Marina 与 Nuhad，也连接了 1948 年与现在；日记本里写的内容在 ch08 有详细展示（Nuhad 的日常、她对兄弟 Tariq 的抱怨、她对未来的梦想）。
 
@@ -66,7 +66,7 @@ modified: "2026-10-10"
 > **原句 8:** "come closer"
 
 **中文理解**：房子对 Marina 说了两次「come closer」（靠近一点）——第一次是从地板下冒出水的时候，第二次是瓷砖把她推进卧室的时候；这是一个诱惑性的指令，也是全书最具悬疑感的声音。
-**关键词**：come closer / water / path
+**关键词**： come / closer
 **为什么这样写**：用重复的指令制造悬疑——「come closer」既是邀请也是陷阱，它邀请 Marina 进入历史的深处，但同时也在把她拉向危险（最后她从 pier 掉进海里）；这个双关在 ch06 的溺水幻觉里有完整的兑现。
 **读者视角提示**：水是全书最重要的引导意象——ch01 里 Nuhad 临终要海水，ch05 里房子用水引导 Marina，ch06 里 Marina 在水里看见旧海法，ch07 里 Marina 真正溺水；每一次「come closer」都是一个临界点。
 
@@ -75,11 +75,12 @@ modified: "2026-10-10"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| haunted | 〔adj.〕闹鬼的；本章的核心反转词——房子本身就是鬼魂 | Haunted houses aren't real. |
+| haunted | 〔adj.〕闹鬼的；本章的核心反转词——房子本身就是鬼魂 | Haunted houses aren’t real. |
 | reliving | 〔n.〕重新经历；在记忆中再次经历过去的创伤 | Remembrance is torment; reliving is torture but it is mine. |
 | vengeance | 〔n.〕复仇；房子幽灵叙事里的核心欲望 | Together We pray to the gods—grant us vengeance, grant us her again |
 | settler | 〔n.〕定居者；本书对 1948 年后迁入的犹太移民的称呼 | And settlers flooded in, an all-consuming, churning wave of people with no roots |
 | indigenous | 〔adj.〕原住民的；指巴勒斯坦阿拉伯人 | government offices that attempt to stamp out more Palestinian families, more indigenous plants and people, more, more, more, every day, instead of the church of Saint |
+| trauma | 〔n.〕创伤；Holocaust 幸存者后代的经历与巴勒斯坦人的流离失所之间的对应 | "My mom said when you've experienced that kind of trauma, it makes sense for a baby not to cry." |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 原文例句 |
@@ -88,17 +89,16 @@ modified: "2026-10-10"
 | memento | 〔n.〕纪念品；Marina 认为那幅画是祖母留给她的信物 | It reminds her of the painting Nuhad kept by her bedside in hospice. It is a memento passed on through time. |
 | dappled | 〔adj.〕有斑点的；落日在海岸上的光影效果 | The setting sun dappled every inch of the coast in a rich, orange hue. |
 | glittering | 〔adj.〕闪烁的；海面反射的光芒 | Sparkles of light glittered from the sea's reflection and cast diamonds across leaves and stones. |
-| gut | 〔n.〕直觉；Marina 对房子里「少了什么」的身体感知 | It gnaws at the edges of her stomach inside and begs her to reverse time. |
 | breathless | 〔adj.〕气喘吁吁的；Marina 穿过街道时的状态 | Her foot falls off the curb without her permission and she crosses the street breathlessly |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| journal | 〔n.〕日记；Nuhad 藏在地板下的那本 | There is a small, dusty hollow beneath. In the heart of the hollow lies a journal. |
+| journal | 〔n.〕日记；Nuhad 藏在地板下的那本 | In the heart of the hollow lies a journal. |
 | tile | 〔n.〕地砖；Marina 发现日记本的地方 | The tile lifts. |
-| hollow | 〔n.〕空洞；地板下的中空空间 | There is a small, dusty hollow beneath. |
+| hollow | 〔n.〕空洞；地板下的中空空间 | It’s hollow. She traces the surface |
 | painting | 〔n.〕画；老宅里那幅 Nuhad 年少时买的海景画 | Beside the window is a painting. Marina is drawn to it as if it were the only light left in the world. |
-| staircase | 〔n.〕楼梯；通往老宅上层的吱呀作响的木楼梯 | The creaky wooden staircase announced their presence as they made their way inside of the living room. |
+| staircase | 〔n.〕楼梯；通往老宅上层的吱呀作响的木楼梯 | The creaky staircase announced their presence as they made their way inside of the living room. |
 | balcony | 〔n.〕阳台；老宅门面上的空花盆所在处 | There are two abandoned and empty flowerpots sitting on the balcony above. |
 
 ## 一句话总结

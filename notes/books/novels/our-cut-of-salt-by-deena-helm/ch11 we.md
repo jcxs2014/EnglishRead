@@ -17,7 +17,7 @@ modified: "2026-10-10"
 > **原句 1:** "Come to me, Marina."
 
 **中文理解**：房子在水路径的尽头对 Marina 说「来找我」——这是全章最重要的声音，也是房子第一次直接对 Marina 说话（而不是通过水的引导）；这个声音既温柔又危险，它邀请 Marina 进入历史，但也意味着她必须承担历史的重量。
-**关键词**：Come to me / water / house
+**关键词**： Come / to / Marina
 **为什么这样写**：用「Come to me」来标记一种归属的诱惑——房子不是「我在等你」，而是「来找我」，说明它知道 Marina 需要来找它；这个区别在 ch13 有完整的回应：Marina 留在了老宅过夜，而房子终于安静了。
 **读者视角提示**：注意这个声音是「whispering」——它不是大声说的，它是一个耳语，这意味着 Marina 需要主动去寻找才能听到；这个细节与「Haifa will return to Haifa」形成了主题上的联系。
 
@@ -32,7 +32,7 @@ modified: "2026-10-10"
 
 **中文理解**：Rania 说soldier在战争结束当天就搬进了老宅——这是全章最具体的历史陈述，说明占领不是战争之后发生的，它就是战争的一部分；soldier 在海滩上看了 Sayadi 一家被处决，然后当天下午就搬进了他们的房子。
 **关键词**：soldier / immediately / same day
-**为什么这样写**：用「the very same day」来标记占领的即时性——占领不是历史书上的日期，它是一个具体的、可触摸的「同一天」；这个细节与 ch04 的「Hello, shalom」（机场盘问）和 ch09 的「Bang. Bang. Bang.」形成了一个完整的故事链：暴力、占据、继续。
+**为什么这样写**：用「the very same day」来标记占领的即时性——占领不是历史书上的日期，它是一个具体的、可触摸的「同一天」；这个细节与 ch04 的「Hello, shalom」（机场盘问）和 ch10 的「Bang. Bang. Bang.」形成了一个完整的故事链：暴力、占据、继续。
 **读者视角提示**：注意 Rania 说的是「a soldier」，而不是「the soldier」——这个soldier可能不是海滩上那个，但占领者对 Rania 来说都是一样的，因为他们都是同一套制度的执行者。
 
 > **原句 4:** "And eventually, of course, he had children that took over. I remember seeing one of his sons' faces on the company's flyers."
@@ -54,7 +54,7 @@ modified: "2026-10-10"
 ### ⭐ 基础
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| storm | 〔n.〕风暴；即将到来的天气 | The storm clouds that were beginning to look menacing over Nazareth now loom |
+| storm | 〔n.〕风暴；即将到来的天气 | The waves lap gently onto the shore despite the storm making landfall tomorrow. |
 | ghost | 〔n.〕鬼魂；Marina 在城市边缘看到的鬼魂 | She can only see the ghosts that haunt this city at the edge of her vision |
 
 ## 一句话总结

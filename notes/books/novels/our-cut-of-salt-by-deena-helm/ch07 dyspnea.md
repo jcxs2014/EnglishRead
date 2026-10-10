@@ -17,7 +17,7 @@ modified: "2026-10-10"
 > **原句 1:** "Please … please."
 
 **中文理解**：全章以 Nuhad（房子视角）的祈祷开始和结束——「请……请」是请求的最低限度表达，说不出具体请求内容，只剩下恳求本身；这个恳求在章末再次出现，形成结构性闭环。
-**关键词**：please / hunger / dyspnea
+**关键词**： please / please
 **为什么这样写**：把「dyspnea」（呼吸困难）从医学术语变成存在性隐喻——Nuhad 的呼吸困难不是因为身体疾病，而是因为七十五年的流离失所；这个「请……请」与 Marina 在医院里重新学习呼吸是同一个动作的两种版本。
 **读者视角提示**：注意房子视角里的 Nuhad 声音——她在全章里是「我们」的一部分（We = Nuhad + Death），但在章末她单独向 Haifa 说话，说明她仍然有能力以个人的身份出现。
 
@@ -31,7 +31,7 @@ modified: "2026-10-10"
 > **原句 3:** "I drowned?"
 
 **中文理解**：Marina 醒来后问的第一个问题——她不确定自己是否真的溺水了，因为她不确定刚才的经历是现实还是幻觉；这个问句是全书最脆弱的一刻之一：她甚至不确定自己的身体边界在哪里。
-**关键词**：drowned / survival / question
+**关键词**： I / drowned
 **为什么这样写**：用问号而不是句号结尾——Marina 在问自己，也在问世界；她不确定刚才发生的事是「真的溺水」还是「解离发作」，而这个不确定性正是流散者的核心处境：你无法确定自己的历史记忆是「真的」还是「想象出来的」。
 **读者视角提示**：医生回答「No, not exactly. You fell into the sea. From the pier.」——这个回答区分了「溺水」和「跌入海中」，但 Marina 的问题其实不是医学问题，而是存在性问题。
 
@@ -63,22 +63,19 @@ modified: "2026-10-10"
 |---------|------|----------|
 | dyspnea | 〔n.〕呼吸困难；全章标题，也是全章的核心隐喻 | This rotting, willful dyspnea is made up of three parts |
 | starve | 〔v.〕饥饿；全章反复出现的「饥饿」意象，指历史记忆的匮乏 | You starved for your grandmother my Nuhad but her breath was the first to be stolen |
-| vengeance | 〔n.〕复仇；Nuhad 在房子视角里的核心欲望 | grant us vengeance, grant us her again |
-| trauma | 〔n.〕创伤；Holocaust 幸存者后代的经历与巴勒斯坦人的流离失所之间的对应 | When you've experienced that kind of trauma, it makes sense for a baby not to cry. |
 | etch | 〔v.〕雕刻；用冰锥在脸上雕刻的笑容 | His sympathetic smile is etched into his face with an ice pick |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
 | vitals | 〔n.〕生命体征；医院监护仪 | The low, steady pulsing of a vitals monitor underscores this setting. |
-| concussion | 〔n.〕脑震荡；Marina 的室友住院的原因 | The hospital was keeping her under observation for a concussion. |
-| discharged | 〔v.〕出院；Marina 在医院醒来后的情况 | "How are you feeling?" "Fine. I'm fine enough to go home, I think." |
+| discharge | 〔v.〕出院；Marina 在医院醒来后的情况 | "We're going to try and discharge you tomorrow," he whispers. |
 | pomegranate | 〔n.〕石榴；Nuhad 鬼魂手上滴落的颜色 | She presses her hand up to the window, and in her palm is the same dripping scarlet from before. |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| hospital | 〔n.〕医院；Marina 被救后的恢复地 | "Where am I?" "You're in the hospital." |
+| hospital | 〔n.〕医院；Marina 被救后的恢复地 | “Where am I?” “You’re in the hospital.” |
 | luggage | 〔n.〕行李；Haifa 在收拾的东西 | The thin gray mouth of the suitcase is stretched wide before her |
 | flight | 〔n.〕航班；Haifa 要飞往海法的航班 | She never should have let Marina go to Haifa to dig up what was buried. |
 | ghost | 〔n.〕鬼魂；Haifa 在窗户上看到的 Nuhad | A figure crosses the blink of her eye in shadow, and her pulse quickens as she looks back at the room. |

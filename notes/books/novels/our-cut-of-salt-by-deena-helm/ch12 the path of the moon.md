@@ -16,7 +16,7 @@ modified: "2026-10-10"
 
 > **原句 1:** "Things are only getting worse. Mama says to focus on my homework, and some days I do."
 
-**中文理解**：日记里 Nuhad 写「事情只会越来越糟，妈妈说专注于作业」——这是全章最具体的历史叙述，它展示了 Nuhad 在 1948 年仍然试图维持正常生活，哪怕她的世界正在崩塌；这个细节与 ch01 和 ch05 里的「normal teenage girl」形象完全吻合。
+**中文理解**：日记里 Nuhad 写「事情只会越来越糟，妈妈说专注于作业」——这是全章最具体的历史叙述，它展示了 Nuhad 在 1948 年仍然试图维持正常生活，哪怕她的世界正在崩塌；这个细节与 ch03 里「Nuhad tried her best to be a teenage girl」的形象完全吻合。
 **关键词**：homework / worse / focus
 **为什么这样写**：用「focus on my homework」来标记历史创伤的日常性——对一个十三岁的女孩来说，「历史正在崩塌」与「我应该写作业」是两件同时存在的事情，它们不互相取消；这个细节与 ch01 的「 Occupation begets suffocation」形成了一种奇怪的和谐：即使在被占领的地方，生活也在继续。
 **读者视角提示**：注意 Haifa 读这句时的感受——她看到母亲从「无忧无虑的少女」变成「专注作业的女孩」，这个转变正是历史创伤的第一个信号。
@@ -31,16 +31,16 @@ modified: "2026-10-10"
 > **原句 3:** "Haifa is her own mother now—she is Marina's mother."
 
 **中文理解**：Haifa 意识到她现在就是 Marina 的母亲——这个认知是全章最重要的时刻之一；她不再需要成为「完美的 Nuhad」，她只需要成为「Marina 的母亲」。
-**关键词**：her own mother / Marina's mother / self
+**关键词**： Haifa / own mother / Marina's mother
 **为什么这样写**：用「is」的现在时态来完成一个身份认知的转变——Haifa 不是「变成了」Marina 的母亲，她「就是」Marina 的母亲，这个等式不需要任何修饰；这个认知与 Victoria 的「不要成为我」形成了一种新的理解：Haifa 已经不需要「成为 Victoria」，她已经是 Marina 的妈妈了。
 **读者视角提示**：这个认知发生在 Haifa 读完母亲的日记之后——她理解了 Victoria 为何如此苛刻，然后她意识到她不需要重复这个循环；她可以有自己的方式。
 
-> **原句 4:** "A small, throbbing pang, for the pain of hiding everything away and never speaking of it ever again."
+> **原句 4:** "And Nuhad's trauma hadn't melted away, no—it had simply cascaded to Haifa."
 
-**中文理解**：Haifa 感受到的痛苦是「隐藏一切、永不谈论」所带来的痛苦——这个痛苦是全章的情感核心，它解释了为什么 Haifa 终于决定去Nazareth：她不想再重复母亲的沉默模式了。
-**关键词**：hiding / never speaking / pain
-**为什么这样写**：用「never speaking」来标记沉默的代价——沉默不是保护，它是一种慢性的疼痛；Haifa 看到母亲一生都在沉默，而沉默最终导致的是内化和自我惩罚；这个认知让 Haifa 做出了去Nazareth的决定。
-**读者视角提示**：这个决定与 Marina 在 ch11 的梦里说「This is mine」是同一个动作的两种版本——Marina 在梦里承担了 Tariq，Haifa 在清醒时承担了母亲的历史。
+**中文理解**：Haifa 读完母亲的日记后明白——Nuhad 的创伤没有因为时间而消融，而是直接「流」到了她身上；这不是比喻，而是全书对代际传递最直接的定义：母亲承受的恐惧与苛刻，最终变成了女儿必须承担的东西。
+**关键词**：trauma / melted / cascaded
+**为什么这样写**：用「cascaded」这个动词标记创伤传递的被动性——Haifa 没有选择接收这份创伤，它是顺着代际关系「流」下来的；这个理解解释了 Haifa 为什么会成为那个「要求完美」的母亲，也解释了她为什么终于决定去 Nazareth 直面母亲的历史。
+**读者视角提示**：这个认知与 Victoria 的「不要成为我」形成呼应——Haifa 意识到她已经在无意识中「成为」了母亲，而打破这个循环的唯一方式，是不再沉默。
 
 ## 本章词汇
 
@@ -63,7 +63,7 @@ modified: "2026-10-10"
 | mother | 〔n.〕母亲；Haifa 对自己角色的认知 | Haifa is her own mother now—she is Marina's mother |
 | daughter | 〔n.〕女儿；Haifa 作为 Marina 的母亲的身份 | Why not have a daughter and name her for the city and life she'd lost? Why not place all expectations inside this child, and demand she become the answer |
 | journal | 〔n.〕日记；Haifa 读的那本 | Haifa sets the papers on the coffee table and stands |
-| home | 〔n.〕家；Haifa 决定去 Nazareth 寻找的东西 | Haifa must go to Nazareth to find answers |
+| home | 〔n.〕家；Haifa 决定去 Nazareth 寻找的东西 | Mama says to focus on my homework, and some days I do. |
 | sister | 〔n.〕姐姐；Nuhad 在海边的姐姐（Victoria） | Nuhad looked so happy, her hip bumping against her older sister's as they stood in front of the waves. "Habibti Nuhad," Rania murmurs. |
 
 ## 一句话总结

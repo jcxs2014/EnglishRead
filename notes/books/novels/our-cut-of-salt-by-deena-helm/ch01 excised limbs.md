@@ -104,6 +104,7 @@ modified: "2026-10-10"
 | wound | 〔n.〕伤口 | “Are you kidding me?! You’re literally going to rub salt in my wound?” |
 | silence | 〔n.〕沉默 | It began when she was a teenager one night, when the emotions overwhelmed her so much that she stopped the car and howled into the empty silence of an abandoned mall parking lot. |
 | memories | 〔n.〕回忆，记忆 | Marina needs the memories, but she doesn’t know that they are freely sitting in the house in Haifa in the ghosts’ mouths, waiting to release and be released. |
+| checkpoint | 〔n.〕检查站；占领的基础设施 | his theft stifles in every corner it lurks: the mundanities, the paperwork, the checkpoints. Not only is it an occupation of the land, it becomes an occupation of the lungs too. |
 
 ## 一句话总结
 第一章用一句题记把「占领＝窒息」立为全书母题，再让三代女性围绕同一个「家为何闹鬼」的问句各得一种答案——最后发现，鬼就是那些被主动砍掉的记忆。

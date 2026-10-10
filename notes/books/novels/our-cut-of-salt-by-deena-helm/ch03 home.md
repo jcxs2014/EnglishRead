@@ -24,21 +24,21 @@ modified: "2026-10-10"
 > **原句 2:** "If ever a thunderstorm sweeps through Haifa and batters the roofs and blows down the doors, our home has always been spared."
 
 **中文理解**：父亲 Basel 讲述 Sayadi 家族的神话——海保护 Sayadi 家不受风暴袭击，连雷电都绕道走；这个神话在前半章与少年 Nuhad 的生活融为一体，读来是温暖的民间传说。
-**关键词**：spared / sea / myth
+**关键词**： thunderstorm / Haifa / spared
 **为什么这样写**：这个神话在 ch01 里有一个反向版本——祖母 Nuhad 在临终时请求「Bring me saltwater」，而本章神话里的「the sea protects」在 ch01 和 ch02 里已经翻转为「the sea consumes」；神话与现实之间的裂缝正是流散叙事的核心张力。
 **读者视角提示**：神话里的「spared」（幸免）是理解全书结局的钥匙——Nuhad 最终没有被海水放过，神话没有兑现，这是历史的反讽还是作者的有意颠覆，留给读者判断。
 
 > **原句 3:** "It was the only time she understood what her father meant when he spoke of their history."
 
 **中文理解**：Nuhad 在去海边的路上才理解父亲讲述家族史的时刻——日常生活与历史传承在这里合一，海洋同时是少年记忆和家族历史的载体。
-**关键词**：history / understood / beach
+**关键词**： understood / father / meant
 **为什么这样写**：把「理解历史」的瞬间放在「去海边的路上」，暗示海洋是历史记忆的唯一通道；这句话与 ch01 里 Marina「想去 Tata 的城市」形成呼应——都是通过地理来寻找历史，但海法的城市已不存在。
 **读者视角提示**：注意「only time」——Nuhad 在日常生活里不理解历史，只有在走向大海的时候才能理解；这个细节在 ch13 里 Marina 真正抵达海法时会有回响。
 
 > **原句 4:** "It was the blue-green sea against the orange-red setting sun, where a small silhouette of a fishing boat stood against the light."
 
 **中文理解**：Nuhad 在画摊上看到的那幅画——蓝绿色的海、红橙色的落日、一艘渔船的剪影——这是全章最具体的视觉意象，也是全书最接近「归属感」的图像。
-**关键词**：silhouette / sea / painting
+**关键词**： sea / setting sun / blue-green
 **为什么这样写**：这幅画是「dar Sayadi」这个家的缩影——海洋、落日、渔业、剪影（Nuhad 自己也是家族历史的剪影，一个轮廓）；她在 ch01 里对 Marina 说「海法是梦想」，而这幅画就是那个梦想的视觉形式；画最终被挂在客厅，让整个家族都能看到，但 ch02 和 ch04 里「那房子如今是 sickness」证明画并没有保护任何人。
 **读者视角提示**：画在文本层面是一个物件，在结构层面是一个象征，在情感层面是「家曾经存在」的视觉证据。
 
@@ -51,7 +51,7 @@ modified: "2026-10-10"
 
 > **原句 6:** "She was Death."
 
-**中文理解**：全章最震撼的一句——从「She was Death」（她是死亡）与 ch01 里「She opens her eyes in this cocoon, allowing the saltwater to consume her from the inside out」（ch13 末）形成镜像；Nuhad 在回忆完「曾是」之后，立刻切换到「如今是死亡本身」——她就是那个杀死占领者（soldier-now-man）的 Death。
+**中文理解**：全章最震撼的一句——从「She was Death」（她是死亡）与 ch13 末的「She opens her eyes in this cocoon, allowing the saltwater to consume her from the inside out」形成镜像；Nuhad 在回忆完「曾是」之后，立刻切换到「如今是死亡本身」——她就是那个杀死占领者（soldier-now-man）的 Death。
 **关键词**：Death / She
 **为什么这样写**：这个「She」有两层含义：① 历史本身（the sickness / 1948 的力量）；② Nuhad 本人（在回忆之后立刻以死亡的口吻说话）；两句之间的切换没有过渡句，是全书最有力量的叙事跳跃。
 **读者视角提示**：这里的「She was Death」和 ch01 临终场景里 Nuhad 以「Bring me saltwater」作结是同一个动作的两种版本——一个是活着时的死亡想象，一个是被历史杀死后的死亡身份。
@@ -64,6 +64,13 @@ modified: "2026-10-10"
 | candlelight | 〔n.〕烛光；指店铺窗口永远有烛火温暖意象 | A warm, welcoming place that always had a candlelight glow in the window |
 | myth | 〔n.〕神话；Sayadi 家族关于海洋保护的神话 | "There's a myth across Haifa: the sea protects the Sayadi family," he continued. |
 | silhouette | 〔n.〕剪影；画中渔船的轮廓 | a small silhouette of a fishing boat stood against the light |
+| malady | 〔n.〕疾病；房子的视角里占领的历史创伤 | The malady began when the first soldier came |
+| erosion | 〔n.〕侵蚀；水滴对石墙的缓慢侵蚀是历史的隐喻 | each drip signifying more time… together adding up to erosion and sickness |
+| putrefying | 〔adj.〕腐烂的，从内部腐败的 | the soldier of death gouged shallow roots, putrefying with rotted wood from the inside out |
+| uprooted | 〔adj.〕被连根拔起的；流离失所的 | he uprooted my own family; he uprooted, uprooted. |
+| soaked | 〔adj.〕浸透的；盐水渗入地板和浴缸的意象 | We came through the floorboards and soaked the tub where the soldier—now an old man—lay, napping in the bath |
+| dripping | 〔adj./v.〕滴落的；海水渗入石墙的意象 | drops of seawater dripping into the stones and wearing them away, onto the wood |
+| tearwater | 〔n.〕盐水=泪水=海水；房子独白中的三重等式 | the saltwater / seawater / tearwater creeped up: his chest, his throat, his eyes that were sleeping |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 原文例句 |
@@ -74,8 +81,8 @@ modified: "2026-10-10"
 | engraved | 〔adj.〕嵌入的，刻入的；指地形在记忆里的深度 | The pathway was a map engraved in stone in her mind; after sixteen years, Nuhad could walk toward the beach blindfolded. |
 | intertwined | 〔adj.〕交织的；姓氏与职业的关系 | Did we become fishermen because of our last name, or did we get the name Sayadi because we all already were fishermen? Maybe the two have always been intertwined |
 | freckles | 〔n.〕雀斑；Rania 在阳光下才显现的生理特征 | her curls would flash red and freckles would appear across her nose |
-| frothy | 〔adj.〕起泡沫的；浪花的状态 | The wind sprinkled frothy bits of water in her faces and Nuhad tasted brine against her lips |
-| jester | 〔n.〕弄臣；在机场审讯里 Marina 被迫扮演的角色 | She feels as if she is playing the part of court jester, juggling idiotic questions |
+| frothy | 〔adj.〕起泡沫的；浪花的状态 | The wind sprinkled frothy bits of water in their faces and Nuhad tasted brine against her lips |
+| jingling | 〔adj.〕叮当作响的；硬币在口袋里的声音 | Regulars would arrive in the early hours of dawn to outrace the heat, their pockets jingling with coins for line and bait |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 原文例句 |
@@ -84,7 +91,7 @@ modified: "2026-10-10"
 | teenage | 〔adj.〕十几岁的；Nuhad 本章的年龄 | Nuhad lived as light and airy as any other teenage girl |
 | beach | 〔n.〕海滩；Nuhad 与 Rania 最常去的地点 | Her long legs would pump forcefully against the sand as she ran along the beach toward the waves, wishing for nothing else than to float away on the sea foam. |
 | store | 〔n.〕店铺；Sayadi 家的渔具店 dar Sayadi | Nuhad lived in a small stone dwelling that overlooked the coast of the Mediterranean and sat above her family's store. |
-| painting | 〔n.〕画；Nuhad 在 vendor 那里买下的那幅海景画 | "Wow," Rania chimed in, coming to stand at her elbow. "It's so beautiful." |
+| painting | 〔n.〕画；Nuhad 在 vendor 那里买下的那幅海景画 | A flowy white sheet covered the stall from the sun, and as they walked underneath it, paintings of all shades |
 | sea salt | 〔n.〕海盐；本章核心意象，前半是欢乐元素，后半是病症元素 | it felt the windswept joy of sea salt within its stone walls |
 
 ## 一句话总结

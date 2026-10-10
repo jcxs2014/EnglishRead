@@ -24,7 +24,7 @@ modified: "2026-10-10"
 > **原句 2:** "beach access: israeli residents only."
 
 **中文理解**：Marina 在海滩入口看到的标牌——「海滩通道：仅限以色列居民」——这是全章最直接的政治声明，把「占领」的日常性展现得触目惊心；Marina 作为巴勒斯坦后裔，在这片祖先的土地上被禁止使用海滩。
-**关键词**：israeli residents only / access / sign
+**关键词**： beach / access / israeli residents
 **为什么这样写**：用标牌的语言代替政治宣言——「israeli residents only」这种法律语言比任何政治演讲都更能展示占领的结构性，因为它不是某个人对某个人的压迫，而是一套制度对一类人的系统性排除。
 **读者视角提示**：这个标牌与 Rania 讲的「他们的犹太家庭 Claim 了锁」形成历史关联——1948 年是同样的机制（用法律文件 claim 别人的家），只是标牌代替了锁。
 
@@ -60,10 +60,11 @@ modified: "2026-10-10"
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| pier | 〔n.〕突堤；Marina 站的地方，也是她跌入水中的地方 | The fading view of Rania's figure is proportional to the vibration of her legs pounding through the pier |
+| pier | 〔n.〕突堤；Marina 站的地方，也是她跌入水中的地方 | Her feet feel the worn softness of the weathered wood of the pier as she walks them toward the sea. |
 | beachgoer | 〔n.〕海滩游客；正常海滩场景里的普通人 | There are people down there as little dots in colorful bathing suits splashing one another |
 | license plate | 〔n.〕车牌；以色列车牌用绿色字母标注巴勒斯坦人 | A car passes, and its license plate glares with green lettering, loudly labeling them as Palestinians. |
 | superimpose | 〔v.〕叠加；Marina 在现实场景上叠加历史幻觉 | The dreamy summer scene superimposes itself over the nightmare. |
+| university | 〔n.〕大学；Nuhad 在日记里写的大学申请 | Today Rania and I went to see Auntie Fay'a so that she could help us with our university essays. |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 原文例句 |

@@ -17,16 +17,16 @@ modified: "2026-10-10"
 > **原句 1:** "'Oh, so you're visiting your grandparents' homes?'"
 
 **中文理解**：Marina 的美国犹太室友问的这句话，揭示了一个有趣的政治交叉——这个犹太女孩的家庭也经历过流离失所（她的家人曾经拥有过「别人的祖宅」），但她对这段历史的认知是「那个巴勒斯坦人想要买回他的房子」而非「我们拿走了别人的房子」。
-**关键词**：grandparents' homes / stolen / technically
+**关键词**： grandparents' homes / visiting
 **为什么这样写**：用「technically」这个词来标记占领的法律语言——「从技术上讲是偷走的」这个短语本身就说明占领总是以法律文件的形式完成的；犹太女孩用「technically」这个词说明她知道这不是道德上正确的，但她用「technically」来让自己免于承担责任。
 **读者视角提示**：犹太女孩讲的「那个巴勒斯坦男人摘了柠檬树上的柠檬」的故事——他在自己祖父母的花园里，被自己家的柠檬树包围——这个细节与 Marina 在海法老宅里发现的日记本形成镜像：两个都在找自己家族历史的痕迹。
 
-> **原句 2:** "Today Rania and I went to see Auntie Fay'a so that she could help us with our university essays."
+> **原句 2:** "I went to the beach for a bit and just stood at the edge."
 
-**中文理解**：日记里 Nuhad 和 Rania 去找 Fay'a 阿姨帮忙写大学申请——这是全章最「正常」的日记内容之一，展示了 Nuhad 在 1947 年时的未来规划——她想上大学，她和 Rania 是朋友，这个家庭有亲戚关系网络；这些细节与 ch01 和 ch05 里的「临终老人」形象形成巨大反差。
-**关键词**：university essays / future / Auntie Fay'a
-**为什么这样写**：用「university essays」来标记一个永远没有发生的未来——Nuhad 在写大学申请几个月后，她的城市就被占领了，她再也没有机会交那份申请；日记里的日常计划与历史现实之间的张力，是全章最有力量的地方。
-**读者视角提示**：Rania 读到这句时「心漏跳了一拍」——她知道这些「大学申请」最终变成了流离失所，这个未来的幻灭在 Rania 读日记时的沉默里表现出来。
+**中文理解**：Nuhad 在 1947 年的日记里记录了一个普通的海边午后——她只是去海滩站了一会儿；这是全书最「正常」的日记内容之一，展示了 Nuhad 在占领前的生活：她可以去海滩、可以无所事事地发呆，这个日常在几个月后彻底结束。
+**关键词**：beach / stood / edge
+**为什么这样写**：用「stood at the edge」标记一种无目的的日常——1947 年的 Nuhad 站在海的边缘，不知道几个月后整个家族会被推离这片海岸；日记里的平静与 ch09/ch10 的海滩处决形成最残酷的对照，海从「日常的边界」变成「历史的终点」。
+**读者视角提示**：Marina 读到这句时并不知道这个午后与后来的悲剧相连——但读者已经知道；这个「知道」的落差正是全书日记叙事的力量来源。
 
 > **原句 3:** "I HATE TARIQ! I hate Tariq! He's so annoying. He stole my journal and read it and started making jokes and dropping hints about the things I wrote in front of everyone."
 
@@ -42,7 +42,7 @@ modified: "2026-10-10"
 **为什么这样写**：用孩子的愿望来揭示一个历史真相——Nuhad 希望 Rania 是她的姐妹，而 Rania 确实在 1948 年之后成为她最近的家人（她们都流离失所但保持着友谊）；而 Tariq 的消失，则与这个愿望形成了残酷的对比：如果 Tariq 也流离失所了，他去了哪里？
 **读者视角提示**：Marina 读到这句时立刻喊出「Tariq」——她意识到她有一个大伯（great-uncle）还活着，可能在巴勒斯坦；这个发现打开了另一个故事线：Nuhad 的家族历史比任何人知道的都要复杂。
 
-> **原句 5:** "She reads voraciously, hungrily. Tears blur her vision. Nuhad was once the same age as Marina—younger, in these pages—and dealt with the same complaints and highs and lows of life."
+> **原句 5:** "Marina reads voraciously, hungrily. Tears blur her vision. Nuhad was once the same age as Marina—younger, in these pages—and dealt with the same complaints and highs and lows of life."
 
 **中文理解**：Marina 贪婪地阅读祖母的日记，眼泪模糊了视线——这是全章最感人的时刻：Marina 第一次通过文字见到「年轻时的 Nuhad」，而这个人与她如此相似；这个认同时刻是全书最重要的情感节点之一。
 **关键词**：voraciously / tears / same age
@@ -54,9 +54,8 @@ modified: "2026-10-10"
 ### ⭐⭐⭐ 高级
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| uncle | 〔n.〕舅舅；Marina 发现自己有一个great-uncle Tariq | "Tariq." The name is unfamiliar in her mouth; her tongue rolls over the new sensation of having an uncle. |
-| university | 〔n.〕大学；Nuhad 在日记里写的大学申请 | Today Rania and I went to see Auntie Fay'a so that she could help us with our university essays. |
-| journal | 〔n.〕日记；Nuhad 藏在地板下的那本，也是 Marina 在医院读的 | Marina reads voraciously, hungrily. Tears blur her vision. |
+| uncle | 〔n.〕舅舅；Marina 发现自己有一个 great-uncle Tariq | Did Haifa know about her uncle? Did she purposefully keep this from her, or did Nuhad never tell anyone about it? |
+| journal | 〔n.〕日记；Nuhad 藏在地板下的那本，也是 Marina 在医院读的 | From within she pulls out several sheets of paper stapled together and Nuhad's journal. |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 原文例句 |
@@ -72,7 +71,6 @@ modified: "2026-10-10"
 |---------|------|----------|
 | hospital | 〔n.〕医院；Marina 恢复的地方 | The night passed quickly, and by morning breakfast had already been delivered. |
 | doctor | 〔n.〕医生；Marina 在医院里看到的医生 | A doctor raps on the door quickly a few times before entering. |
-| diary | 〔n.〕日记；Nuhad 的日记（journal 的同义词） | The girl continues. "Well, I told him I didn't know." |
 | brother | 〔n.〕兄弟；Nuhad 的兄弟 Tariq | I wish I had a younger sister instead of him. I wish Rania could be my sister. |
 | grandmother | 〔n.〕祖母；Marina 的视角里对 Nuhad 的称呼 | Nuhad was once the same age as Marina—younger, in these pages |
 

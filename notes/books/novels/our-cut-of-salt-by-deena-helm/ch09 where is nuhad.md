@@ -21,18 +21,18 @@ modified: "2026-10-10"
 **为什么这样写**：用虚拟语气制造一种「无法挽回」的感觉——Nuhad希望回到过去，但她的愿望是「希望英国人从未来过」，而不是「希望他们留下来」；这个细节在 ch10 的投毒场景里有完整回应：她用了另一种方式来对付占领者。
 **读者视角提示**：注意「her life ended」这句话——不是「她的生活改变了」，而是「结束了」；这是全书对1948年最准确的定性。
 
-> **原句 2:** "Tariq cried—she could see his tears from here—and a wet spot formed on the front of his pants."
+> **原句 2:** "Are we not evacuating?" Tariq asked, his voice small.
 
-**中文理解**：Tariq在海滩上被处决时哭了，尿湿了裤子——这是全章最令人心碎的一个细节，一个十三岁男孩在死亡面前的失禁；这个细节与 ch10 里 Tariq 在日记里偷看 Nuhad 的日记并开玩笑的形象形成了残酷的对比。
-**关键词**：Tariq / cried / wet spot
-**为什么这样写**：用「wet spot on the front of his pants」这个极度身体性的细节来标记 Tariq 的死亡——他不只是一个历史数字，他是一个十三岁的男孩，他吓尿了，然后他被枪杀了；这个细节是全书拒绝让历史人物变成抽象的原因。
-**读者视角提示**：注意这里 Tariq 的母亲 Victoria 也在场——她看着自己的儿子被枪杀，什么都做不了；这个场景在 ch10 的梦里完整重现，在那里 Nuhad 看见了整个处决过程。
+**中文理解**：撤离前夜，Tariq 用很小的声音问「我们不是要撤离吗」——他不理解为什么一家人还留在这里；这个问句暴露了十三岁的他对即将到来的危险只有模糊的感知，而大人（Victoria 与 Basel）的沉默正在保护他也正在隐瞒他。
+**关键词**：Tariq / evacuating / voice
+**为什么这样写**：用「voice small」标记一个孩子对恐惧的表达——Tariq 的声音很小，因为他不敢问、也不愿相信必须问；这个细节在 ch10 的处决场景里有最残酷的呼应：这个问过「我们不是要撤离吗」的孩子，最终没能离开海滩。
+**读者视角提示**：注意提问者是小 Tariq 而不是 Nuhad——在全家决定留守的那一刻，是家里最小的孩子第一个说出了大人不愿承认的真相；这个问句让 ch10 的「Bang. Bang. Bang.」变得更加无法承受。
 
 > **原句 3:** "The screams reverberated through my stones and shattered the walls. I thought they were coming back."
 
 **中文理解**：房子说「我觉得他们会回来的」——这是全章最悲伤的一句，房子以为主人会回来，但它等了七十五年，他们再也没有回来；这个等待是全书最长的一个意象。
 **关键词**：coming back / stones / shattered
-**为什么这样写**：用「我以为他们会回来」来标记房子的孤独——它不是一开始就是「闹鬼的」，它是因为被抛弃才变成「闹鬼的」；这个细节与 ch01 的「She was Death」形成了结构性的对比：房子因为等待而变成了鬼魂。
+**为什么这样写**：用「我以为他们会回来」来标记房子的孤独——它不是一开始就是「闹鬼的」，它是因为被抛弃才变成「闹鬼的」；这个细节与 ch03 的「She was Death」形成了结构性的对比：房子因为等待而变成了鬼魂。
 **读者视角提示**：注意「shattered」这个词——尖叫震碎了墙壁，但墙壁不会说话，所以是房子的「灵魂」被震碎了；这是全书房子视角的核心：它的石头是有感受的。
 
 > **原句 4:** "Palestinians exist in fragments."
@@ -49,8 +49,7 @@ modified: "2026-10-10"
 |---------|------|----------|
 | paramilitary | 〔n.〕准军事组织；指 Haganah（犹太地下军队） | The Haganah, the Jewish paramilitary group, would crack the frost of the thawing ground |
 | partition | 〔n.〕分割；1947 年联合国分割方案 | since the UN partition was announced |
-| Nakba | 〔n.〕灾难；巴勒斯坦人流离失所的历史事件 | after the city fell |
-| bullet | 〔n.〕子弹；Tariq 被处决时的武器 | The soldier fired. Bang. Bang. Bang. |
+| bullet | 〔n.〕子弹；Tariq 被处决时的武器 | Nuhad awoke to the sound of bullets raining, but there was something else this time. |
 | refugee | 〔n.〕难民；逃离的阿拉伯家庭 | they left in the middle of the night |
 
 ### ⭐⭐ 进阶
@@ -58,15 +57,15 @@ modified: "2026-10-10"
 |---------|------|----------|
 | shell | 〔n.〕炮弹；Nuhad 听到的远处爆炸声 | A distant echo of mortar shells shook the ground. |
 | leaflets | 〔n.〕传单；soldiers 从坦克上撒的警告 | A soldier stood on top and threw leaflets from the opening |
-| violated | 〔adj.〕被侵犯的；房子被soldier入侵的状态 | He breaks in again—a violation—and enters. |
+| violation | 〔n.〕侵犯；房子被 soldier 入侵的状态 | He breaks in again—a violation—and enters. |
 
 ### ⭐ 基础
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
-| soldier | 〔n.〕士兵；占领军的成员 | A soldier on the shore in front of them. The gun attached to his hand waved wildly |
+| soldier | 〔n.〕士兵；占领军的成员 | A soldier stood on top and threw leaflets from the opening |
 | fled | 〔v.〕逃离；Sayadi 一家离开海法 | They left in the middle of the night |
-| home | 〔n.〕家；房子也是本 章的核心意象 | I thought they were coming back. They left, and the streets—filled with terror—swallowed them |
-| buried | 〔v.〕被埋葬；Tariq 的命运 | Tariq was gone. Tariq was buried. Tariq was dead |
+| home | 〔n.〕家；房子也是本章的核心意象 | I thought they were coming back. They left, and the streets—filled with terror—swallowed them |
+| buried | 〔v.〕被埋葬；Tariq 的命运 | Did her own mother know what was buried in the city of the past? |
 
 ## 一句话总结
 第九章完成了全书历史线的核心叙述——1948年的Nakba以Tariq在海滩上被处决的具体形式出现，而这个十三岁男孩的消失正是此后七十五年家族沉默的起点；Marina在医院里终于理解了「为什么没有人告诉我」，而答案恰恰是：因为他们太爱我了。

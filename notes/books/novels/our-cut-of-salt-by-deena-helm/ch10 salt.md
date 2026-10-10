@@ -16,9 +16,9 @@ modified: "2026-10-10"
 
 > **原句 1:** "Bang. Bang. Bang."
 
-**中文理解**：Tariq、Basel、Victoria 各自中枪倒下——这是全书最短的引语之一，三个拟声词承载了最具体的暴力；这个节奏是故意的——bang、bang、bang，每一声是一个人的倒下，与 ch01 的「drip / sick / drip / sick」形成结构性的对称。
-**关键词**：Bang / fell / blood
-**为什么这样写**：用拟声词的节奏来表现枪决的机械性——soldier 开枪，家人倒下，这不是一个故事，这是一件发生了三次的事情；这个节奏与 ch02 的心跳意象「drip / sick / drip / sick」是同一个动作的两个版本：一个是历史的节奏，一个是复仇的节奏。
+**中文理解**：Tariq、Basel、Victoria 各自中枪倒下——这是全书最短的引语之一，三个拟声词承载了最具体的暴力；这个节奏是故意的——bang、bang、bang，每一声是一个人的倒下，与 ch03 的「drip / sick / drip / sick」形成结构性的对称。
+**关键词**： Bang / Bang / Bang
+**为什么这样写**：用拟声词的节奏来表现枪决的机械性——soldier 开枪，家人倒下，这不是一个故事，这是一件发生了三次的事情；这个节奏与 ch03 的心跳意象「drip / sick / drip / sick」是同一个动作的两个版本：一个是历史的节奏，一个是复仇的节奏。
 **读者视角提示**：注意在梦里，soldier 向 Nuhad 开了枪但她没有死——她只是感到了 heavy 和 weary，然后允许水带她下去；这个细节说明 Nuhad 在 1948 年活下来了，但她的「活着」与「死亡」之间的界限已经被打破了。
 
 > **原句 2:** "Nuhad's body became as heavy as the weights, and as her feet trailed against the sand, she let the water enter her lungs."
@@ -38,7 +38,7 @@ modified: "2026-10-10"
 > **原句 4:** "I just—I feel like I've been holding my breath. Ever since April. Since that night."
 
 **中文理解**：Nuhad 对 Victoria 说「我觉得我一直在屏住呼吸」——这是全章也是全书最重要的隐喻之一；Nuhad 从 1948 年 4 月的那个夜晚开始就在屏息，她一直在等待 Tariq 回来、等待回家、等待生活恢复正常，但她知道这一切都不会发生。
-**关键词**：holding my breath / April / waiting
+**关键词**： holding my breath / April / night
 **为什么这样写**：把「dyspnea」（呼吸困难）从医学术语变成心理状态的描述——Nuhad 一直在等，但她不知道她在等什么；这个「屏息」从 ch07 的 Marina 那里继承了字面意义（Marina 在医院重新学习呼吸），并将它推回到历史里。
 **读者视角提示**：注意 Victoria 的回答是「I don't know. I don't know what's going to happen.」——这是母亲无法给孩子答案的经典时刻，而这个「不知道」正是流散家庭的核心创伤。
 
@@ -48,16 +48,14 @@ modified: "2026-10-10"
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
 | vengeance | 〔n.〕复仇；Nuhad 对定居者的投毒行动 | "I wanted them to become sick and leave." |
-| guilty | 〔adj.〕内疚的；Nuhad 对 Tariq 死的感受 | she felt like she had to atone for Tariq's death |
+| guilty | 〔adj.〕内疚的；Nuhad 对 Tariq 死的感受 | She felt guilty about stealing from the family business, but this would hopefully make up for it. |
 | exhale | 〔v.〕呼气；Nuhad 在院子里对世界的尖叫 | she took a shuddering breath and met Victoria's eyes |
-| forgiveness | 〔n.〕宽恕；Haifa 发现自己需要自我原谅 | Haifa must give it to herself |
 
 ### ⭐⭐ 进阶
 | 词/短语 | 释义 | 原文例句 |
 |---------|------|----------|
 | weights | 〔n.〕重物；Nuhad 在海里感到的重量 | Nuhad looked down to her hands and feet and found weights attached to them |
 | stitches | 〔n.〕缝针；Victoria 在 Basel 脖子上做的手术 | She slowly lowered his fainted body to the concrete instead, her arms shaking with frantic restraint. |
-| cemetery | 〔n.〕墓地；Tariq 被埋葬的地方 | she stood off to the side, in shock |
 | water pump | 〔n.〕水泵；占领基础设施的象征 | God damn this water pump |
 
 ### ⭐ 基础
@@ -67,7 +65,7 @@ modified: "2026-10-10"
 | family | 〔n.〕家人；Sayadi 一家在海滩上被处决 | Her family was lined up in a row on the shore |
 | dream | 〔n.〕梦；Nuhad 看见 Tariq 之死的噩梦 | Nuhad awoke with a start, gasping and clawing at her neck. |
 | buried | 〔v.〕被埋葬；Tariq 的最终命运 | Tariq was buried. Tariq was dead and it was her fault. |
-| blood | 〔n.〕血；枪击的后果 | She saw her father’s eyes roll in the back of his head |
+| blood | 〔n.〕血；枪击的后果 | They fell into the sand on their backs, and Nuhad could see, just barely, the blood pooling out around their bodies. |
 
 ## 一句话总结
 第十章通过 Nuhad 的噩梦（Tariq 之死）和她的反击行动（向定居者水井投盐），完成了全书最重要的道德复杂性陈述：历史创伤的回应方式不是等待，而是行动——但这个行动本身也是一种自我消耗。
