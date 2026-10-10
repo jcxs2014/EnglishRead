@@ -1,0 +1,100 @@
+# A Divided Duty（October Daye #20, Seanan McGuire）独立审查（五步）
+
+- 书目录：`notes/books/novels/october-daye-20-divided-duty-by-seanan-mcguire/`
+- 审查日期：2026-10-10 ｜ 审查身份：Qoder-Mac（**同会话审查**——执行方与审查方为同一实例）
+- 触发：用户明确指令「对本书籍执行五步审查，输出缺陷清单并完成整改」；按 AGENTS 第 10 条同会话条款，a–e 全部执行、不降级，结论须写明同会话局限
+- 原始门禁输出目录：`.memory/raw-gates/october-daye-20-divided-duty-by-seanan-mcguire/`
+  - `2026-10-10-a_review_gates_full.txt`（18 lane 全量重跑）
+  - `2026-10-10-a_第3条逐条.txt`（第 3 条清单逐条：verify_quotes/--full/vocab/entities/corruption/sweep_full）
+  - `2026-10-10-ab_总览与逐章.txt`（check_chapter_quotes 逐章 + verify_overview_quotes + check_overview_full + H1 兜底）
+  - `2026-10-10-cd_结构二审与跨章.txt`（audit_structure + check_struct_indep + check_xref_indep〔含假红修复与复验〕+ check_analysis_indep）
+  - `2026-10-10-b_独立跨章扫描.txt`（b 步第二实现：投毒夹具 + 本书实跑 + 两条裁决）
+
+---
+
+## a 步 · 第 3 条门禁全量重跑（不信报告数字）
+
+**审查期全部重跑，与写作期完工数字逐项一致（零漂移）。** 18 lane 源文件 `a_review_gates_full.txt`；第 3 条清单源文件 `a_第3条逐条.txt`。
+
+| # | 项目 | 结果 |
+|---|---|---|
+| ① | verify_quotes（183 项逐文件） | **181/181 可核实（100%）**，完全干净 22/22；《概述》0 提取按设计允许 |
+| ② | check_vocab | **FAIL 0** ／ WARN 1（ch01 基础档疑含超纲词「contribution」——长度≥9 启发式，提示型） |
+| ③ | check_entities | 未知实体 **0** |
+| ④ | corruption_scan | **FAIL 0**（U+FFFD/双句号）；报告 0 处 |
+| ⑤ | sweep_full | 本章命中 **155** ｜ 跨章 0 ｜ 🔶 跨标签拼接 1（ch06，已知） ｜ 全书查无 **0** |
+| ⑥ | check_short_quotes | 无 <20 字符短引语，主门禁已全覆盖 |
+| ⑦ | check_chapter_quotes 逐章 | **21/21 章全「X/X in chNN text」**（见 b 步） |
+| ⑧ | 块覆盖对账 | 21 文件每块都进 verify_quotes 校验 |
+| ⑨ | 导航/总结层英文核对 | ❌ 0 ｜ ⚠️ 0 |
+| ⑩ | sweep_analysis_inline | 逐字 652 ｜ 跨章 65（提示型，全部复核过） ｜ 零命中 **0** |
+| ⑪ | audit_structure | 结构缺陷 **0** ｜ 提示 0 ｜ 映射不一致 0 |
+| ⑫ | check_anchor | 凭空造词 **0** ｜ 松散关键词 0 |
+| ⑬ | 空段扫描 | 0 处 |
+| ⑭ | verify_overview_quotes | **76/76 ✅**（情感节点 51/51 + 金句精选 25/25） |
+| ⑮ | check_overview_full | A 整串 141 命中 ／ 查无 0；B 章节标签 141 对 ／ 不符 **0**；E H1 0；C 跨章多重命中 1（ch08/ch16 韵句，提示型，见下） |
+| ⑯ | check_xref_chapter | 伪造 0 ／ 移章 0 ／ 归章正确 0 |
+| ⑰ | check_quote_blocks | 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏 |
+| ⑱ | check_block_keywords | 阻断型 0 ／ 提示型 0 |
+| — | gate.sh 正门结论 | **0 条阻断型，rc=0** |
+
+**a 步裁决**：阻断型 0；提示型 2（①「contribution」启发式；⑤ ch06 跨标签拼接，即合法省略号拼接的 🔶 提示）。
+
+## b 步 · 逐章归属（标准口径 + 真实第二实现）
+
+**标准口径**：`check_chapter_quotes.py <NN> "<md>" --out-dir text/` 逐章 —— 21/21 全绿（原件 `ab_总览与逐章.txt`）。
+**独立口径（第二实现）**：`scripts/attic/check_cross_chapter_quotes.py`（本次现写，gitignored attic，不入本轮门禁名单）—— 每个引语块同时对照**全部 21 章** text/：
+- 投毒夹具 7 块：负控②假拼接段 ❌、负控③搬句错章 ❌、正控①多章命中 ⚠️ **全部按设计触发**；合法拼接块静默通过；rc=1 ✓
+- 本书实跑：**156 块 ／ 自章 0 命中 0 ／ 多章命中 1 ／ 省略号拼接核对 8，rc=0**
+- 两实现一致性成立（自章 0 命中 = 0 ↔ 标准口径 21/21 全绿）
+
+**b 步两条裁决（均提示型、只记不改，逐字取证见 `b_独立跨章扫描.txt`）**：
+- **B-1** ch06 six.md:27 原句 2 = 合法省略号拼接（两段 flat 175/132 均逐字在 text/ch06_six.txt:116）；修复前本工具报的 ❌ 是**工具假红**，已修工具未动 md
+- **B-2** ch08 eight.md:87 原句 8 ↔ ch16 sixteen.md:77 原句 7 = Luidaeg 韵句书内合法复现（ch08:500 无逗号版 / ch16:215 带逗号版，两章引语各自忠实本章）；多章命中非搬句误植
+
+**b 步自身工具修复记录**（纪律③④）：① `splices` 计数器未初始化（首跑即崩）；② 句尾省略号引语（ch07 原句 6）被新逻辑误降为跳过 = **凭空丢覆盖**，改单段回退后恢复受检——两处均先夹具负控验证、后做本书裁决。
+
+## c 步 · 结构扫描
+
+- `audit_structure.py`：24 md、232 引语块，**缺陷 0 ／ 提示 0 ／ 映射不一致 0**，rc=0
+- `check_overview_full.py`：见 a 步 ⑮（B 段只验「逐字命中章 == 标注章」，**标签对 ≠ 内容对**，说话人/人物/关系/结局零覆盖——本步不据此下结论，由 e 步人判补位）
+- H1 兜底：`grep -m1 '^# ' 00_*.md` 三篇 H1 与文件名语义一致
+- 第二实现 `check_struct_indep.py`：21 md，**缺陷 0**，rc=0（⚠️ 该实现只在本库 1 本书上验证过）
+
+## d 步 · 语义二审
+
+**机械子项（三个 `*_indep.py` 第二实现，均收口 rc=0）**：
+- `check_struct_indep`：21 md 缺陷 0
+- `check_xref_indep`：修复 2 条假红 + 1 条潜伏假绿后（commit `7e62ad66b`，CJK 守卫 + 空 flat 守卫），本书 **186 处 = 报警 0 ／ 待人判 136 ／ 🔶 0**，rc=0；投毒 8 例（含纯英文伪造 / QEN 移章 / QAFTER 移章 / 纯 CJK / 空 flat 破折号）负控全部按设计落位
+- `check_analysis_indep`：281 条分析层英文片段**全部逐字命中**全书 text/，rc=0
+- 终验标准件 `sweep_full`：155 本章 / 0 跨章 / 1 拼接 / 0 查无（同 a 步⑤；拼接项即 B-1）
+
+**语义逐对核对（引语↔分析，156 块全覆盖）**：由 5 个并行子代理执行（d1: ch01–04，d2: ch05–08，d3: ch09–12，d4: ch13–16，d5: ch17–21），
+指令书 `.memory/progress/2026-10-10-october-daye-d-review-brief.md`（含逐块四查：引语↔分析对应/引语截短 · 说话人 ~200 字符窗口 · 事实断言与章节引用 · 语法语言学断言四类；附防幻觉条款）。
+**状态：进行中**——报告落 `.memory/reviews/2026-10-10-october-daye-20-divided-duty-dN.md`，回收后并入下方缺陷清单。
+
+## e 步 · 总览层事实核对 + 跨书污染
+
+由子代理执行，指令书 `.memory/progress/2026-10-10-october-daye-e-review-brief.md`（引语逐字+（chNN）标签对账含行内英文 · 说话人 ~200 字符窗口 · 人物身份/关系/结局/结构/日期/计数/最高级断言逐条回查 · Society of Lies 五类事实错误清单）。
+本步同时产出三样交付材料中缺的两样：**总览自检声明**与**跨书污染自检**（③ 逐名 grep）。
+**状态：进行中**——报告落 `.memory/reviews/2026-10-10-october-daye-20-divided-duty-e-总览.md`。
+
+---
+
+## 缺陷清单与三档分类
+
+**PENDING**（d 语义 + e 回收后合并；此前已知项：提示型 2 条〔contribution、ch06 拼接〕、B-1/B-2 两条取证、c 步 C 类 1 条〔ch08/ch16 韵句歧义——00_概述.md:44 标注 ch08 正确，只报不判红〕）
+
+## 审查过程自身记录（纪律执行）
+
+- 纪律①「换实现不换文件名」：b 步现写 `check_cross_chapter_quotes.py`（≠ check_chapter_quotes 实现）；c/d 机械子项用 2026-09-29 落地三件 `*_indep.py`（≠ audit_structure / check_crossref / sweep_analysis_inline）
+- 纪律②「自省不构成防线」：book 内 chNN 引用回查动作已由 check_xref_indep 156 处 + e 步代理双重执行
+- 纪律③「现写脚本先 dry-run」：b 步工具先跑 /tmp 夹具（负控/正控）再跑本书；check_xref_indep 修复先投毒 8 例复验
+- 纪律④「大面积同类报警先读行」：check_xref_indep 2 条报警先读行 → 判为工具假红 → 修工具（`7e62ad66b`），未动 md
+
+## 同会话局限（如实标注，供用户判断是否另行指派异实例复核）
+
+1. **中文转述↔原文等价性不可机检**——d/e 步代理可大量覆盖但非穷尽证明；
+2. **穷举型最高级断言未穷举证伪**（如「全书唯一一次」类），只能由代理抽样 + 原文反例；
+3. **逐块人工对读的完整性以代理覆盖报告为准**——主会话未必逐块亲读全部 156 块；
+4. **无法区分缺陷是「写作时引入」还是「修复时引入」**——本书修复轮次多，归因不可考。
