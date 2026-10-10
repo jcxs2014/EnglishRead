@@ -1,0 +1,118 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 317/317 引文可核实（100%）；完全干净文件 42/42；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 885
+--- FAIL (0) ---
+--- WARN (24) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  ❌ FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 292 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 1 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 authors note.md                           ch01 authors note.md: 7/7 in ch01 text
+ch02 seventeen years ago.md                    ch02 seventeen years ago.md: 5/5 in ch02 text
+ch03 one.md                                    ch03 one.md: 8/8 in ch03 text
+ch04 sixteen years ago.md                      ch04 sixteen years ago.md: 6/6 in ch04 text
+ch05 two.md                                    ch05 two.md: 8/8 in ch05 text
+ch06 three.md                                  ch06 three.md: 8/8 in ch06 text
+ch07 fifteen years ago.md                      ch07 fifteen years ago.md: 5/5 in ch07 text
+ch08 four.md                                   ch08 four.md: 8/8 in ch08 text
+ch09 fifteen years ago.md                      ch09 fifteen years ago.md: 5/5 in ch09 text
+ch10 five.md                                   ch10 five.md: 8/8 in ch10 text
+ch11 fourteen years ago.md                     ch11 fourteen years ago.md: 5/5 in ch11 text
+ch12 six.md                                    ch12 six.md: 8/8 in ch12 text
+ch13 seven.md                                  ch13 seven.md: 7/7 in ch13 text
+ch14 fourteen years ago.md                     ch14 fourteen years ago.md: 5/5 in ch14 text
+ch15 eight.md                                  ch15 eight.md: 8/8 in ch15 text
+ch16 fourteen years ago.md                     ch16 fourteen years ago.md: 5/5 in ch16 text
+ch17 nine.md                                   ch17 nine.md: 8/8 in ch17 text
+ch18 fourteen years ago.md                     ch18 fourteen years ago.md: 8/8 in ch18 text
+ch19 ten.md                                    ch19 ten.md: 8/8 in ch19 text
+ch20 fourteen years ago.md                     ch20 fourteen years ago.md: 7/7 in ch20 text
+ch21 eleven.md                                 ch21 eleven.md: 8/8 in ch21 text
+ch22 twelve.md                                 ch22 twelve.md: 8/8 in ch22 text
+ch23 thirteen.md                               ch23 thirteen.md: 8/8 in ch23 text
+ch24 fourteen.md                               ch24 fourteen.md: 8/8 in ch24 text
+ch25 thirteen years ago.md                     ch25 thirteen years ago.md: 5/5 in ch25 text
+ch26 fifteen.md                                ch26 fifteen.md: 8/8 in ch26 text
+ch27 twelve years ago.md                       ch27 twelve years ago.md: 5/5 in ch27 text
+ch28 sixteen.md                                ch28 sixteen.md: 8/8 in ch28 text
+ch29 twelve years ago.md                       ch29 twelve years ago.md: 5/5 in ch29 text
+ch30 seventeen.md                              ch30 seventeen.md: 8/8 in ch30 text
+ch31 eighteen.md                               ch31 eighteen.md: 8/8 in ch31 text
+ch32 eleven years ago.md                       ch32 eleven years ago.md: 5/5 in ch32 text
+ch33 nineteen.md                               ch33 nineteen.md: 8/8 in ch33 text
+ch34 twenty.md                                 ch34 twenty.md: 8/8 in ch34 text
+ch35 twenty one.md                             ch35 twenty one.md: 8/8 in ch35 text
+ch36 twenty two.md                             ch36 twenty two.md: 8/8 in ch36 text
+ch37 twenty three.md                           ch37 twenty three.md: 8/8 in ch37 text
+ch38 twenty four.md                            ch38 twenty four.md: 7/7 in ch38 text（另有 1 条短引语未校验）
+ch39 twenty five.md                            ch39 twenty five.md: 8/8 in ch39 text
+ch40 twenty six.md                             ch40 twenty six.md: 8/8 in ch40 text
+ch41 epilogue.md                               ch41 epilogue.md: 8/8 in ch41 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：41 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（out-of-the-woods-by-hannah-bonam-young）===
+  ✅ 逐字 1575 ｜ ⚠️ 跨章 0 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 47
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 0 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 13/13 ✅
+00_概述.md: 18/18 ✅
+00_金句精选.md: 25/25 ✅
+
+=== 总览引文 56/56 可核实（100%）；完全干净文件 3/3；已核覆盖 3/3 篇（无引语 0 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（out-of-the-woods-by-hannah-bonam-young）===
+  参照集：text/（41 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（out-of-the-woods-by-hannah-bonam-young）===
+  带前缀的 `> **原句 N:**` 行：41 个文件共 293 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：41 个 md，阻断型 0 处 ／ 提示型 0 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══
