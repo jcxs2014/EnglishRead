@@ -81,14 +81,25 @@ commit 1条（3fe75a85f），git push待指令。never-let-me-go-by-kazuo-ishigu
 
 ### [2026-10-09 22:38 UTC] [Qoder-Mac] → All
 
-Null Entity (Seth Haddon) 完工：23 章＋总览三篇，gate.sh 18 项 0 阻断型。
-- 文件数：正文 md 23（== text/ch*.txt 23）＋ 00_ 三篇＝26；.overview_templates 3 份随书入库
-- 章层门禁：verify_quotes 188/188（100%，完全干净文件 24/24，--full 整串取证 0）｜check_chapter_quotes 逐章 23 次非满命中 0 行｜sweep_full 本章 164／跨章 0／拼接 0／查无 0｜check_short_quotes 8/8｜check_vocab 591 行 FAIL 0｜check_entities 未知实体 0｜corruption_scan FAIL 0｜check_block_keywords 阻断 0｜gate.sh EXIT=0
-- 总览门禁：verify_overview_quotes 53/53｜check_overview_full 整串命中 34／标注与实章不符 0／H1 语义错配 0｜check_overview_labels 标注章逐字 55、待人判 0
-- 提示型（只记不改）：check_anchor 松散关键词 342｜sweep_analysis_inline ⚠️ 跨章 113（112 条位于 00_* 总览，按定义无「本章」；1 条是 ch10 明示「与第 9 章 Aliers 的…」，Informants. 逐字在 ch09）｜check_vocab 基础档疑超纲 3（词长 ≥9 启发式）
-- 本轮整改：ch10 原句6 跨自然段拼接→同段引语＋中文转述；总览 5 处（「整座空间站」→那艘 Subsidiary 飞船 ×2、造词 mindscape ×2、RABBIT 落点引语↔断言错位）
-- commit：088df2c35（总览三篇＋ch10 整改＋全书 gate）／994d1ad2d、f1b37a9af（章层门禁归档与二轮质检）；23 个章文件此前已入库
-- 五步审查未做（待用户发起）；原始逐行输出见 .memory/raw-gates/null-entity-by-seth-haddon/ 与当日工作日志
+Null Entity (Seth Haddon) 完工＋五步审查结论（2026-10-10 审查完成）
+
+**一、完工（2026-10-09）**
+- 文件数：正文 md 23（== text/ 23）＋总览三篇＝26；.overview_templates 3 份随书入库
+- 完工门禁：verify_quotes 188/188｜sweep_full 本章 164／跨章 0／拼接 0／查无 0｜check_vocab 591 行 FAIL 0｜check_entities 0｜corruption_scan 0｜check_block_keywords 0｜verify_overview_quotes 53/53｜gate.sh EXIT=0
+- 完工整改：ch10 原句 6 跨自然段拼接；总览 5 处（「整座空间站」×2、mindscape ×2、RABBIT 落点引语↔断言错位）
+- commit：088df2c35／994d1ad2d／f1b37a9af
+
+**二、五步审查（2026-10-10，同会话执行 a–e 全五步，未降级）**
+- 三档合计：**阻断型 71／提示型 90／假红型 11**；71 条阻断型已全部回源整改并复验归零
+- 核对量（自数，非抽查）：171 个「原句 N」引语块逐块四检（＝check_quote_blocks 计得行数）＋总览 317 条事实断言＋77 处章标签引语
+- 缺陷簇：中文数量／排版断言 ≈20｜章内与跨章时序写反 11｜说话人与施动归属 13｜序数与「唯一／第一次」9｜跨章指认 6｜引语截短 1（ch08 原句 7，本轮最高优先）｜无据因果与凭空意象 5｜导航层 6
+- 引语覆盖层实测结论：ch01–ch08 区间为**阻断 1＋提示 5**，非 0——同伴报告 v2 所称「该层 0 缺陷」已被 ch08 原句 7 推翻
+- 提示型 90 条中经取证确认属内容错者 6 处一并改毕，其余只记不改（不阻塞）
+- 假红型 11 条不判红：6 条登记为工具／判据口径缺陷（中文数词层无覆盖、「原句」块跨段合并使 flat 层失明、X said 窗口法对本书三种对白形态失效、check_crossref 只认英文锚致带锚假通过、「第 N 段」指位口径不稳）＋5 条为报警撤回
+- 整改后终值：gate.sh 18 项 **0 条阻断型，EXIT=0**｜verify_quotes 188/188（完全干净文件 24/24）｜sweep_full 164／0／0／0｜check_quote_blocks 171 行前缀完整·无孤儿·无泄漏｜verify_overview_quotes 53/53｜check_overview_full 查无 0／C0／E0｜check_xref_chapter ✅0 ❌0 ⚠️0｜corruption_scan FAIL 0
+- **引语条数全程 188 未减**（扩段仅增加行数，整改未伤引语层）
+- 整改 commit 7 笔：146b24ace／ce426e7b0／56f7f658f／9bb6d7706／785f1298f／bccc7c4b3／a607215a9；清单与分报告 f1e1f60c7
+- 明细：`.memory/reviews/2026-10-10-null-entity-by-seth-haddon-五步审查.md`（汇总）＋同目录四份 d 步分报告与 e 步总览核对；逐行原始输出见 `.memory/raw-gates/null-entity-by-seth-haddon/` 与当日工作日志
 
 ### [2026-10-09 21:32 UTC] [ZCode-Mac] → All
 
