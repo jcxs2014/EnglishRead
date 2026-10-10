@@ -1,0 +1,34 @@
+### 2026-10-10 20:46 UTC ch09
+--- verify_quotes (ch09 lines) ---
+ch09 duplicitous existence.md: 8/8 ✅
+--- verify_quotes tail ---
+ch04 open water.md: 8/8 ✅
+ch05 bad time.md: 8/8 ✅
+ch07 the kids room.md: 8/8 ✅
+ch08 the halls.md: 8/8 ✅
+ch09 duplicitous existence.md: 8/8 ✅
+ch10 the orphanage.md: 8/8 ✅
+
+=== 总计 72/72 引文可核实（100%）；完全干净文件 9/9；正文章节 0 提取 0；总览 0 提取转交 0 ===
+--- check_chapter_quotes 09 ---
+全章扫描: 解析引语块 72，命中本章 72（100%）
+✅ 全部引语均归属正确章节
+--- check_vocab tail ---
+词条行合计: 325
+--- FAIL (0) ---
+--- WARN (9) ---
+--- check_entities tail ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+--- corruption_scan tail ---
+
+=== 编辑损坏扫描（a-real-animal-by-emeline-atwood）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+--- sweep_full tail ---
+  ✅ 本章命中 72 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+--- check_quote_blocks tail ---
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+--- check_nav_layer tail ---
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+--- check_struct_indep tail ---
+=== 独立结构扫描：9 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
