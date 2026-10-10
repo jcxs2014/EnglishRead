@@ -1,0 +1,73 @@
+=== 语料层验收（P0-0）: october-daye-20-divided-duty-by-seanan-mcguire ===
+text/ 件数: 21
+  [1] 件数 21 == 预期 21  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 未给 --anchors，跳过人物锚点双向  WARN
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (273 句)
+      首| One
+      末| Always,” he said, and followed me out into the hall.
+    ch02 (270 句)
+      首| Two
+      末| When will I learn not to open my mouth?
+    ch03 (506 句)
+      首| Three
+      末| “Fully agreed,” I said, and opened the door.
+    ch04 (481 句)
+      首| Four
+      末| He waved his arm, opening a portal, and we all piled through, leaving the hallway outside Sylves
+    ch05 (550 句)
+      首| Five
+      末| More fool me.
+    ch06 (497 句)
+      首| Six
+      末| I kissed his cheek, turned, and made for the balcony door.
+    ch07 (531 句)
+      首| Seven
+      末| “And we’re going to have to go and get her back.”
+    ch08 (457 句)
+      首| Eight
+      末| Oberon help us, but we were on our way.
+    ch09 (477 句)
+      首| Nine
+      末| “I don’t know.”
+    ch10 (374 句)
+      首| Ten
+      末| “Let’s,” I said, and together, we approached the keep.
+    ch11 (688 句)
+      首| Eleven
+      末| Then she turned, and walked back to where she’d been, leaving us behind.
+    ch12 (284 句)
+      首| Twelve
+      末| He stepped back, taking my hand, and together we walked back into the woods, away from the loomi
+    ch13 (677 句)
+      首| Thirteen
+      末| “Is Kerry your only child?”
+    ch14 (438 句)
+      首| Fourteen
+      末| Then I closed the door, and he was gone.
+    ch15 (530 句)
+      首| Fifteen
+      末| “Going off half-cocked,” I said, and ran.
+    ch16 (231 句)
+      首| Sixteen
+      末| The fog closed over us, blocking everything else out so completely that the world might as well 
+    ch17 (114 句)
+      首| Seventeen
+      末| The numbness surged again, and the last of the air was crushed out of me, and my thoughts tumble
+    ch18 (460 句)
+      首| Eighteen
+      末| Well, crap.
+    ch19 (217 句)
+      首| Nineteen
+      末| I reached over and took Raysel’s arm, and together, the three of us stepped through, leaving Bli
+    ch20 (82 句)
+      首| Twenty
+      末| Being a hero’s not all bad.
+    ch21 (1261 句)
+      首| BUT BY DEGREES
+      末| There could be no truer paradise.
+
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===
