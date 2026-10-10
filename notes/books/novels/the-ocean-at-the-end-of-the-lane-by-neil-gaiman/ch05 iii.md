@@ -21,15 +21,13 @@ modified: "2026-10-10"
 
 ## 精读
 
-> **原句 1:** "You've won the Premium Bonds," she said. "When you were born—when all of her grandchildren were born—your grandma bought you a Premium Bond. And when the number gets chosen you can win thousands of pounds."
+> **原句 1:** "You've won the Premium Bonds," she said.
 
-**中文理解**："你赢了Premium Bonds，"她说。"你出生的时候——所有孙子孙女出生的时候——你奶奶都给你们买了Premium Bond。中奖号码抽中了你就能赢得数千英镑。"
+**中文理解**："你赢了 Premium Bonds，"她说。
 
-**关键词**：Premium Bond（英国政府储蓄债券，无利息但有抽奖功能）；thousands of pounds（期望 vs 现实：实际只赢了25磅）
+**关键词**：Premium Bond（英国政府储蓄债券，无利息、抽奖性质）
 
-**为什么这样写**：这是一个关于"期望值管理"的精准儿童心理描写。妈妈先给了他"数千磅"的希望，再给一个"二十五磅"的现实——叙述者感受到的不是二十五磅的价值，而是"没有赢到数千磅"的损失感。这为整章的"金钱作为失落"主题做了铺垫。
-
-**读者视角提示**：注意"奶奶买的 Premium Bond"这个细节——这笔钱从出生就开始积累，但只有"中奖"才能让它浮出水面。金钱一直是"潜伏的"，而这一章的噩梦正是这种潜伏状态的爆发。
+**为什么这样写**：这句话先给一个听起来很大的词（Premium Bonds），再在下一句揭示实际上只有二十五磅。名称暗示着财富，实际上只是一种最普通的储蓄方式。紧接着的二十磅现实将彻底击碎叙述者的想象。
 
 ---
 

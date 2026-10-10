@@ -69,7 +69,7 @@ modified: "2026-10-10"
 
 ---
 
-> **原句 5:** "Nothing's ever the same. Be it a second later or a hundred years. It's always churning and roiling. And people change as much as oceans."
+> **原句 5:** "Nothing's ever the same," she said. "Be it a second later or a hundred years. It's always churning and roiling. And people change as much as oceans."
 
 **中文理解**："没有什么是一样的。过了一秒还是一百年，它总是在翻涌和沸腾。而人也像海洋一样在变化。"
 

@@ -21,7 +21,7 @@ modified: "2026-10-10"
 
 ## 精读
 
-> **原句 1:** "I couldn't get you to the ocean. But there was nothing stopping me bringing the ocean to you."
+> **原句 1:** "I couldn't get you to the ocean," she said. "But there was nothing stopping me bringing the ocean to you."
 
 **中文理解**："我没法把你带到海洋那里。但没有什么能阻止我把海洋带到你面前。"
 
