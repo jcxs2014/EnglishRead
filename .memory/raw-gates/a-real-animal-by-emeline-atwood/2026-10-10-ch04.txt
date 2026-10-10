@@ -1,0 +1,67 @@
+### 2026-10-10 20:58 UTC ch04
+=== verify_quotes ===
+ch05 bad time.md: 8/8 ✅
+ch06 neon-green guy.md: 8/8 ✅
+ch07 the kids room.md: 8/8 ✅
+ch08 the halls.md: 8/8 ✅
+ch09 duplicitous existence.md: 8/8 ✅
+ch10 the orphanage.md: 8/8 ✅
+
+=== 总计 80/80 引文可核实（100%）；完全干净文件 10/10；正文章节 0 提取 0；总览 0 提取转交 0 ===
+=== check_chapter_quotes ===
+全章扫描: 解析引语块 80，命中本章 80（100%）
+✅ 全部引语均归属正确章节
+=== check_vocab ===
+  ch02 indianapolis.md [基础] 基础档疑含超纲词「cigarettes」
+  ch04 open water.md [基础] 基础档疑含超纲词「comforter」
+  ch06 neon-green guy.md [基础] 基础档疑含超纲词「chessboard」
+  ch06 neon-green guy.md [基础] 基础档疑含超纲词「bookshelf」
+  ch06 neon-green guy.md [基础] 基础档疑含超纲词「cypresses」
+  ch07 the kids room.md [基础] 基础档疑含超纲词「sunglasses」
+  ch07 the kids room.md [基础] 基础档疑含超纲词「boathouse」
+  ch07 the kids room.md [基础] 基础档疑含超纲词「sweatshirt」
+  ch08 the halls.md [基础] 基础档疑含超纲词「wallpaper」
+  ch08 the halls.md [基础] 基础档疑含超纲词「grandkids」
+  ch10 the orphanage.md [基础] 基础档疑含超纲词「crossword」
+  ch10 the orphanage.md [基础] 基础档疑含超纲词「flashlight」
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+=== corruption_scan ===
+
+=== 编辑损坏扫描（a-real-animal-by-emeline-atwood）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+=== sweep_full ===
+=== 引语整串 flat 比对（a-real-animal-by-emeline-atwood）===
+  参照集：text/ 逐章（10 章，可定章） + epub 交叉验证
+  ✅ 本章命中 80 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+=== check_quote_blocks ===
+=== 引语块结构对账（a-real-animal-by-emeline-atwood）===
+  带前缀的 `> **原句 N:**` 行：10 个文件共 80 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+=== check_nav_layer ===
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+=== check_struct_indep ===
+=== 独立结构扫描：10 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+
+=== 补充：verify_quotes ch04 单行 + check_vocab 汇总行 ===
+ch04 open water.md: 8/8 ✅
+=== 总计 80/80 引文可核实（100%）；完全干净文件 10/10；正文章节 0 提取 0；总览 0 提取转交 0 ===
+词条行合计: 361
+--- FAIL (0) ---
+--- WARN (12) ---
+=== 补充：check_chapter_quotes 仅本章 ===
+全章扫描: 解析引语块 80，命中本章 80（100%）
+✅ 全部引语均归属正确章节
+=== 补充：ch04 引语逐条对本章 text/ flat 比对（8 条） ===
+原句 1: 命中本章 text/ (flat 279 字符)
+原句 2: 命中本章 text/ (flat 336 字符)
+原句 3: 命中本章 text/ (flat 229 字符)
+原句 4: 命中本章 text/ (flat 145 字符)
+原句 5: 命中本章 text/ (flat 156 字符)
+原句 6: 命中本章 text/ (flat 140 字符)
+原句 7: 命中本章 text/ (flat 141 字符)
+原句 8: 命中本章 text/ (flat 134 字符)
+合计 8/8 命中 ch04 本章 text/
