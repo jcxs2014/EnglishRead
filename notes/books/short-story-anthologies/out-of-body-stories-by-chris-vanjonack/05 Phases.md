@@ -1,6 +1,7 @@
 ---
 状态: 未读
 modified: "2026-10-10"
+source_text: ch05
 ---
 
 # 05. Phases（精读分析）

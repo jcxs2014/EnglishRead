@@ -1,6 +1,7 @@
 ---
 状态: 未读
 modified: "2026-10-10"
+source_text: ch10
 ---
 
 # 10. Heaven Is Fine for Girls Who Miss Their Mothers（精读分析）

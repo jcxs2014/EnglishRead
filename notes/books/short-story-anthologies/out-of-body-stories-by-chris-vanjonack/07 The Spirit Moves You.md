@@ -1,6 +1,7 @@
 ---
 状态: 未读
 modified: "2026-10-10"
+source_text: ch07
 ---
 
 # 07. The Spirit Moves You（精读分析）
@@ -106,7 +107,6 @@ modified: "2026-10-10"
 |---|---|---|
 | disheveled | 凌乱的、不整洁的 | …I always awaken **disheveled** and preposterously dressed. |
 | preposterously | 荒谬地、反常地 | …disheveled and **preposterously** dressed. |
-| threadbare | 破旧的、磨薄的 | …I enter the **threadbare** apartment of a man… |
 | arraignment | 提审、传讯 | …I black out at my **arraignment** for public indecency. |
 | penetrative | 穿透的、深入的 | …our bodies have managed **penetrative** sex… |
 | refashioned | 重塑、改换 | The urgency of the past few months seems to diminish with each passing day, refashioned gradually into a hazy dream of a stranger with my body and my desires but none of my control. |

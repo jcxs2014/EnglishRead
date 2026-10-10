@@ -1,6 +1,7 @@
 ---
 状态: 未读
 modified: "2026-10-10"
+source_text: ch03
 ---
 
 # 03. Open Spaces（精读分析）

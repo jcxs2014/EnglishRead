@@ -1,6 +1,7 @@
 ---
 状态: 未读
 modified: "2026-10-10"
+source_text: ch06
 ---
 
 # 06. There’s Clowns in the Woods（精读分析）
@@ -125,7 +126,6 @@ modified: "2026-10-10"
 | bludgeon | 猛击、重击 | …emerging with a **bludgeoned** rabbit… |
 | viscera | 内脏、五脏 | …each step dotted with **viscera**. |
 | erratic | 不稳定的、古怪的 | Ward’s behavior grows increasingly **erratic**. |
-| manifesting | 显现、表现 | “Because the forest is manifesting specters,” Ward snaps. |
 ### ⭐⭐ 进阶
 | 词 | 释义 | 例句 |
 |---|---|---|

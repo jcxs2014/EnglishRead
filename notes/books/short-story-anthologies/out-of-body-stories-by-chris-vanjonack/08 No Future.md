@@ -1,6 +1,7 @@
 ---
 状态: 未读
 modified: "2026-10-10"
+source_text: ch08
 ---
 
 # 08. No Future（精读分析）
@@ -104,8 +105,6 @@ modified: "2026-10-10"
 ### ⭐⭐⭐ 高级
 | 词 | 释义 | 例句 |
 |---|---|---|
-| anachronism | 时代错误、不合时宜的人或物 | …hunting down **anachronisms** and maintaining dominant narratives. |
-| reacclimating | 重新适应 | …they don’t prep you at all for **reacclimating**. |
 | delusional | 妄想的、错觉的 | …I’m not **delusional** enough to think she’d take me back… |
 | cosmically | 宇宙地、极大地 | …that at least doing so might tip the scales a little, **cosmically**… |
 | decimation | 毁灭、大量毁灭 | …That this country is built on **decimation**. |

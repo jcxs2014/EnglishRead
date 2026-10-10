@@ -1,6 +1,7 @@
 ---
 状态: 未读
 modified: "2026-10-10"
+source_text: ch02
 ---
 
 # 02. Elizabeth Kaplan’s Best Day Ever（精读分析）

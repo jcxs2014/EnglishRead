@@ -1,6 +1,7 @@
 ---
 状态: 未读
 modified: "2026-10-10"
+source_text: ch01
 ---
 
 # 01. Invent Everything（精读分析）
@@ -168,7 +169,6 @@ modified: "2026-10-10"
 ### ⭐ 基础
 | 词 | 释义 | 例句 |
 |---|---|---|
-| portal | 门、入口 | …a shimmering **portal** underneath Michael Ackerman’s desk… |
 | scream | 尖叫 | The siren overwhelms the cacophony of pubescent screams surrounding him, and, ears blaring, Jimmy folds sheepishly into a single-file line to follow Ms. |
 | guilt | 内疚 | Jimmy is surprised to experience a pang of **guilt** for what he has done… |
 | proud | 骄傲的 | “No harm, no foul, just like I’ve been telling everybody.” The old man has been looking for an excuse to celebrate for ages now, and so, with the kid home safe, he takes Jimmy out for soft serve and a thicket of french fries and tells him that he’s proud to be his father. |

@@ -1,6 +1,7 @@
 ---
 状态: 未读
 modified: "2026-10-10"
+source_text: ch09
 ---
 
 # 09. Going Up（精读分析）
@@ -118,7 +119,6 @@ modified: "2026-10-10"
 ### ⭐⭐⭐ 高级
 | 词 | 释义 | 例句 |
 |---|---|---|
-| proliferation | 扩散、激增 | …the **proliferation** of bizarre phone calls… |
 | literalization | 字面化、具体化 | No, I think the Speaker is a literalization of the recipients’ internal state. |
 | omnipotent | 全能的、无所不能的 | "Are you **omnipotent**?" Kate asks. |
 | vertigo | 眩晕、头晕 | …a faint wave of giddy **vertigo** wobbles Kate… |
