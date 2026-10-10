@@ -27,8 +27,15 @@ CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓
 #   <span aria-labelledby="pg12" epub:type="pagebreak" id="page_12" role="doc-pagebreak"/>
 #   <span hidden="hidden" id="pg12">12</span>
 # 页码不是正文，两侧（epub 参照集与 text/ 提取件）必须同口径，否则跨页引语必假 MISS。
+#
+# ⚠️ 2026-10-10 修正：自闭合形态（`...role="doc-pagebreak"/>`，无独立闭合标签）后面的
+# `(?:[^<]{0,16}</(?:span|a|div|p)>)?` 是**配对形态专用**的「吞掉标签内页码数字」片段，
+# 对自闭合形态会误吞**其后 16 字符以内的正文**（Problematic Summer Romance 实证三处：
+# `...ring on my <span .../>finger.` → `finger.` 被吃掉；ch28/ch38 各丢句尾）。
+# 判据：标签是否以 `/>` 自闭合——自闭合时只删标签本身，不吞后续文本。
 PAGE_ANCHOR_RES = (
-    re.compile(r'<(?:span|a|div|p)\b[^>]*(?:epub:type="pagebreak"|role="doc-pagebreak")[^>]*/?>'
+    re.compile(r'<(?:span|a|div|p)\b[^>]*(?:epub:type="pagebreak"|role="doc-pagebreak")[^>]*/>', re.I),
+    re.compile(r'<(?:span|a|div|p)\b[^>]*(?:epub:type="pagebreak"|role="doc-pagebreak")[^>]*>'
                r'(?:[^<]{0,16}</(?:span|a|div|p)>)?', re.I),
     re.compile(r'<(\w+)\b[^>]*\bid="pg[a-z0-9]+"\b[^>]*>\s*[0-9]{1,4}\s*</\1>', re.I),
     re.compile(r'<(\w+)\b[^>]*\bhidden="hidden"[^>]*>\s*[0-9]{1,4}\s*</\1>', re.I),
