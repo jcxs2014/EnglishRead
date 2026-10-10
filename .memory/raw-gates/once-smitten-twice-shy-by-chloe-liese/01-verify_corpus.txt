@@ -1,0 +1,123 @@
+=== 语料层验收（P0-0）: once-smitten-twice-shy-by-chloe-liese ===
+text/ 件数: 38
+  [1] 件数 38 == 预期 38  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 人物锚点双向：本篇 7 组 / 互查 42 组（共享人物 9 个已豁免）  OK
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (229 句)
+      首| • Prologue •
+      末| Because right now, even though I ache from head to toe, I don’t feel heartbroken at all.
+    ch02 (314 句)
+      首| • One •
+      末| Clutching Puck so tight he lets out a strangled howl of protest, I speed-walk out of the greenho
+    ch03 (176 句)
+      首| • Two •
+      末| I stare down at her, my heart thudding hard, and tell her, “Ladies first.”
+    ch04 (174 句)
+      首| • Three •
+      末| And that’s when Will’s swing snaps from the beam overhead and drops to the ground.
+    ch05 (481 句)
+      首| • Four •
+      末| And next to her name, there are two tiny blue bikes.
+    ch06 (149 句)
+      首| • Five •
+      末| “And it’s finally one I’m excited about.”
+    ch07 (235 句)
+      首| • Six •
+      末| And that’s how, thirty minutes later, I find myself, wearing a brand-new burnt-orange button-up,
+    ch08 (278 句)
+      首| • Seven •
+      末| I promise, I’ll keep the pigeons at bay.”
+    ch09 (143 句)
+      首| • Eight •
+      末| And that’s when Juliet yanks me into the hedges.
+    ch10 (393 句)
+      首| • Nine •
+      末| He really is lucky he’s cute.”
+    ch11 (430 句)
+      首| • Ten •
+      末| “Two emotional support cocktails, coming right up!”
+    ch12 (395 句)
+      首| • Eleven •
+      末| I’ll get you a juice box for the road.”
+    ch13 (117 句)
+      首| • Twelve •
+      末| “You smell!”
+    ch14 (62 句)
+      首| • Thirteen •
+      末| See you then.
+    ch15 (310 句)
+      首| • Fourteen •
+      末| Challenge accepted.”
+    ch16 (154 句)
+      首| • Fifteen •
+      末| But when I fall asleep, even with all that effort, Will Orsino still makes a fantastically filth
+    ch17 (74 句)
+      首| • Sixteen •
+      末| It has to.
+    ch18 (221 句)
+      首| • Seventeen •
+      末| “I hope so, too.”
+    ch19 (260 句)
+      首| • Eighteen •
+      末| Wilmot.
+    ch20 (195 句)
+      首| • Nineteen •
+      末| “I’ll give it a try.”
+    ch21 (184 句)
+      首| • Twenty •
+      末| Obviously.
+    ch22 (250 句)
+      首| • Twenty-One •
+      末| I sit there for a moment with an alarmingly goofy grin, the phone glued to my ear before I set i
+    ch23 (55 句)
+      首| • Twenty-Two •
+      末| “You are absolutely fucked.”
+    ch24 (400 句)
+      首| • Twenty-Three •
+      末| And, the scariest question of all—have I romance-practiced my way with Will Orsino right into ve
+    ch25 (138 句)
+      首| • Twenty-Four •
+      末| “It is.”
+    ch26 (253 句)
+      首| • Twenty-Five •
+      末| I peer up at him, dazed, delighted, smiling ear to ear.
+    ch27 (149 句)
+      首| • Twenty-Six •
+      末| “But I did pinkie promise to be honest with you.”
+    ch28 (365 句)
+      首| • Twenty-Seven •
+      末| “Happily.”
+    ch29 (220 句)
+      首| • Twenty-Eight •
+      末| “As long as you take me with you.”
+    ch30 (310 句)
+      首| • Twenty-Nine •
+      末| And this time, when I wake up in the morning, I’ll enjoy the memory of those dreams, knowing Wil
+    ch31 (126 句)
+      首| • Thirty •
+      末| A world I hope she’ll want to step into with me, hand in hand.
+    ch32 (360 句)
+      首| • Thirty-One •
+      末| “I know the feeling.”
+    ch33 (170 句)
+      首| • Thirty-Two •
+      末| It’s not in my best interest to keep her waiting.”
+    ch34 (124 句)
+      首| • Thirty-Three •
+      末| “Like I could ever want anyone but you.”
+    ch35 (54 句)
+      首| • Thirty-Four •
+      末| “Promise.”
+    ch36 (227 句)
+      首| • Thirty-Five •
+      末| Full of possibility.
+    ch37 (104 句)
+      首| • Thirty-Six •
+      末| “I think that sounds like a dream come true.”
+    ch38 (412 句)
+      首| • Epilogue •
+      末| “I’d say that sounds perfect.”
+
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 0）===
