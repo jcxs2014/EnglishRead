@@ -1,0 +1,37 @@
+=== 2026-10-10 批14（ch41-42 + 总览三篇）门禁 ===
+
+--- verify_quotes ---
+
+=== 总计 289/289 引文可核实（100%）；完全干净文件 43/43；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+--- check_vocab ---
+词条行合计: 741
+--- FAIL (0) ---
+--- WARN (24) ---（基础档疑含超纲词，提示型只记不改）
+
+--- check_chapter_quotes ---
+ch41 postscript.md: 4/4 in ch41 text
+ch42 author's note.md: 7/7 in ch42 text
+
+--- check_entities ---
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+--- corruption_scan ---
+=== 编辑损坏扫描（the-ruins-by-steve-wick）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+--- sweep_full ---
+=== 引语整串 flat 比对（the-ruins-by-steve-wick）===
+  参照集：text/ 逐章（42 章，可定章） + epub 交叉验证
+  ✅ 本章命中 267 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 3 条归 check_short_quotes；无章可对 0 条未判）
+
+--- check_short_quotes ---
+=== 短引语兜底核对（the-ruins-by-steve-wick）===
+  verify_quotes 跳过（<20 flat 字符）的引语：5 条
+  ✅ 命中 5 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+
+--- verify_overview_quotes ---
+=== 总览引文 22/22 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条 ===
+（00_金句精选 为行内引语格式，不在本门禁口径内；其 25 条引语均取自各章已核验引语池）
