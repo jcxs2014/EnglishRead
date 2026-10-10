@@ -1,0 +1,50 @@
+### verify_quotes (ch01 试产) 2026-10-10 20:23 UTC
+ch01 emergency services.md: 8/8 ✅
+
+=== 总计 8/8 引文可核实（100%）；完全干净文件 1/1；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+### check_chapter_quotes
+Usage: scripts/check_chapter_quotes.py <NN> "<md_file>" [--out-dir <dir>] [--book-dir <book_dir>]
+
+### check_vocab
+  [P0-4] 正文章节 1 个（< 4），多数派未成形 → **跳过必备章节判定**
+词条行合计: 36
+
+--- FAIL (0) ---
+
+--- WARN (0) ---
+
+### check_entities
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+### corruption_scan
+
+=== 编辑损坏扫描（a-real-animal-by-emeline-atwood）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+### sweep_full
+=== 引语整串 flat 比对（a-real-animal-by-emeline-atwood）===
+  参照集：text/ 逐章（10 章，可定章） + epub 交叉验证
+  ✅ 本章命中 8 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 0 条归 check_short_quotes；无章可对 0 条未判）
+### check_chapter_quotes 01
+全章扫描: 解析引语块 8，命中本章 8（100%）
+✅ 全部引语均归属正确章节
+
+### check_quote_blocks
+=== 引语块结构对账（a-real-animal-by-emeline-atwood）===
+  带前缀的 `> **原句 N:**` 行：1 个文件共 8 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+### check_nav_layer
+
+=== 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+### check_struct_indep
+=== 独立结构扫描：1 个 md，缺陷 0 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+
+### check_short_quotes
+=== 短引语兜底核对（a-real-animal-by-emeline-atwood）===
+  verify_quotes 跳过（<20 flat 字符）的引语：0 条 —— 这些主门禁**根本没查**
+  ✅ 本书无短引语，主门禁已全覆盖。
