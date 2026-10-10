@@ -47,13 +47,13 @@ modified: "2026-10-11"
 
 > **原句 4:** "“It was a toy in the oven,” I told her. “Looks like it could have been a gorilla. About eight inches long.”"
 
-**中文理解：** Nova 停在比他低一级的台阶上，眼睛一眯，随即恍然大悟：「不，不是大猩猩。那大概是 Chewie。」
+**中文理解：** 「烤箱里是个玩具，」他告诉 Nova，「看起来可能是只大猩猩，大约八英寸长。」他用消防员取证的口吻描述，把结论交给听的人。
 
 **关键词：** `It was a toy in the oven（烤箱里是个玩具）`；`Looks like it could have been a gorilla（看起来可能是只大猩猩）`；`About eight inches long（大约八英寸长）`
 
-**为什么这样写：** 他把勘察结果报告给母亲——「是个玩具，看着像大猩猩，八英寸左右」。这一句是他作为消防员的标准汇报，也是全章笑料的引信：他按物证描述，母亲按家庭记忆翻译，两种语言在同一句话上错开。
+**为什么这样写：** 他按消防员的标准汇报把勘察结果交给 Nova——「是个玩具，看着像大猩猩，八英寸左右」。这一句是全章笑料的引信：他按物证描述，Nova 按家庭记忆翻译，两种语言在同一句话上错开，下一段她立刻纠正「不是大猩猩，那大概是 Chewie」。
 
-**读者视角提示：** 大猩猩会成为下一句被推翻的错误图像，注意母亲纠正的速度。
+**读者视角提示：** 大猩猩会成为下一句被推翻的错误图像，注意 Nova 纠正的速度——她几乎在他说完的同一拍就反应过来。
 
 > **原句 5:** "“She hides things when she’s mad at him, and he’s been missing Chewbacca for a while. I don’t know why she moved it to the oven, though. It wasn’t there yesterday when I made dinner.”"
 
@@ -77,7 +77,7 @@ modified: "2026-10-11"
 
 > **原句 7:** "“Great. Well, when Mr. Hayes was walking to breakfast this morning, his…uh, pants fell down.”"
 
-**中文理解：** 「今天早上 Hayes 先生走去吃早饭的时候> **原句 7:** "“Great. Well, when Mr. Hayes was walking to breakfast this morning, his…uh, pants fell down.”"
+**中文理解：** 转述正式开始：「那好吧。就是今天早上 Hayes 先生走去吃早饭的时候，他的……呃，裤子掉了。」Maurice 先「Well」一声缓冲，再在中途结巴（his…uh），把一件荒唐事说得像例行工作汇报——这个停顿本身就是全章笑点的引信。
 
 **关键词：** `walking to breakfast（走去吃早饭）`；`his…uh, pants fell down（他的……呃，裤子掉了）`
 
@@ -87,7 +87,7 @@ modified: "2026-10-11"
 
 > **原句 8:** "Some of the women who witnessed the incident have taken to calling him Pants."
 
-**> **原句 8:** "Some of the women who witnessed the incident have taken to calling him Pants."
+**中文理解：** 养老院的工作人员把这件事说得公事公办——几位目睹了事故的女士，已经开始管他叫「Pants」了。这句话同时也是全章笑点的落点：一个绰号在正式的通报流程里被官方确认下来。
 
 **关键词：** `witnessed the incident（目击了这件事）`；`taken to calling him Pants（开始管他叫「裤子」）`
 

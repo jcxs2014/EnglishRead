@@ -50,7 +50,7 @@ modified: "2026-10-12"
 
 **中文理解：** 她说「晚饭加上帮你装家具，我现在欠你三倍了」，他答得很认真：你什么都不欠我。
 
-**关键词：** what friends do（朋友之间会做的事）；what friends do（朋友之间会做的事）；It makes me wonder（让我忍不住想）
+**关键词：** what friends do（朋友之间会做的事）；came out so serious（说得很认真）；she grew still（她静住了）
 
 **为什么这样写：** 全章的转折点就在这个「friends」。他主动把关系定性成朋友，是因为他知道她此刻需要的是没有账的关系——而这句话也真的把她逼出了后面的坦白：她要靠这套「互不相欠」的规则活着。
 
@@ -94,7 +94,7 @@ modified: "2026-10-12"
 
 **为什么这样写：** 全章的收尾是一个刻意的「不推进」：他从头到尾遵守的是「my limits」——想抱她却知道自己不能，逼近她之后又主动退开。作者让这一章的能力展示不是吻，而是克制，并把它写成他陷得更深的证据。
 
-**读者视角提示：** 她追问的那句「Did Gigi put you up to this? Place me in my path to make me forget about Carter?」得到的是全章最好的一处反讽：Gigi 当年让他 promise to stay away。而他给出的理由是「Because I'm trouble, I guess.」——她的回答「You're a flirt, anyone can see you're harmless.」引出全章最后那半步。
+**读者视角提示：** 她追问的那句「Did Gigi put you up to this? Place you in my path to make me forget about Carter?」得到的是全章最好的一处反讽：Gigi 当年让他 promise to stay away。而他给出的理由是「Because I'm trouble, I guess.」——她的回答「You're a flirt, anyone can see you're harmless.」引出全章最后那半步。
 
 ## 本章词汇
 

@@ -10,7 +10,7 @@ modified: "2026-10-11"
 - **一句话概括**：Dusty 以为自己只是在计划一场能拿下三个人的约会，结果这一天先让他旁听到 Nova 用一次电话谈成抚养费与周日通话制度，又在养老院拼图桌前被祖父的时空错乱砸开一个十五年的黑洞——母亲死于过量服药，而祖父当年独自决定不告诉他。
 - **情感弧线位置**：全书对 Dusty 的**来处清算章**。他这一章第一次拿到关于父母的真实信息（不是猜测，是答案），而承接这件事的人正是他准备介绍给祖父的那位。
 - **Tropes 兑现反转**：反用「见家长」这一桥段。男方带女方见祖父，收获的不是祝福式的温馨场面，而是祖父把他当成高中毕业的少年、把父亲称作「刚失去妻子的男人」，让这场见面同时成为身世揭盖。
-- **人物弧线**：Dusty 从「用玩笑回避父母话题的人」（第 7 章他说自己五年前就不再搜索他们）进到主动追问细节（`How did she die? His wife.`）并承认自己一直在编一个更容易接受的版本（`I’ve always pictured them living in a tent in North Carolina`）；Nova 从被他保护的人进到能守住他后背的人（`like she would burn the place down if I needed her to`）。
+- **人物弧线**：Dusty 从「用玩笑回避父母话题的人」（第 9 章他说自己五年前就不再搜索他们）进到主动追问细节（`How did she die? His wife.`）并承认自己一直在编一个更容易接受的版本（`I’ve always pictured them living in a tent in North Carolina`）；Nova 从被他保护的人进到能守住他后背的人（`like she would burn the place down if I needed her to`）。
 - **叙事手法**：全章用三段不同介质串起来——短信、当面通话（Carter 的电话由 Dusty 在车里全程旁听）、以及养老院里那段错时的对话。作者让「沟通的形式」本身承担叙事：一个男人的谈判、一个女人的谈判、一个老人的错乱，三种语言同处一章。
 
 ## 精读
@@ -77,7 +77,7 @@ modified: "2026-10-11"
 
 **为什么这样写：** 全章最重的一句，而它的重量来自一个称呼：`the boy`。母亲死于过量服药这件事被藏了十五年，藏的理由是「不想毁了他的大日子」——作者让这个理由由一个已经认不出他的人说出来，因此它既残忍又无可指摘。
 
-**读者视角提示：** 对照第 7 章他提到的「五年前就不再搜索他们」：他一直以为不查是一种自我保护，本章才发现答案一直存在，只是被另一个人的爱挡住了。
+**读者视角提示：** 对照第 9 章他提到的「五年前就不再搜索他们」：他一直以为不查是一种自我保护，本章才发现答案一直存在，只是被另一个人的爱挡住了。
 > **原句 8:** "“Confused. If he had a way to contact them, why didn’t…” That question answered itself. He had been faced with the same dilemma Nova had: subject the kids to a crappy parent or protect them from the pain of repeated rejection? In this case, my grandpa had chosen to protect me in the way he thought was best. I didn’t have to agree with his choice to appreciate that he’d made it out of love for me."
 
 **中文理解：** 「我很困惑。如果他有办法联系他们，为什么没……」这个问题自己给出了答案。他面对的是和 Nova 一样的难题：让孩子接触一个糟糕的父母，还是保护他们免受反复被拒的痛苦？在这件事上，他的祖父选择了他认为最好的方式保护他。他不必认同这个选择，也能理解祖父是出于爱。

@@ -57,7 +57,7 @@ modified: "2026-10-11"
 
 > **原句 5:** "“It’s my fault his died,” she said quietly, looking up at me. Her round blue eyes were sorrowful, and it occurred to me this was just as much to heal her as it was to replace what Ben had lost."
 
-**中文理解：** 「他的那只死了是我的错，」她轻声说，抬头看她。她圆圆的蓝眼睛里满是悲伤，而她意识到：这既是为了补回 Ben 失去的，也同样是为了治愈她自己。
+**中文理解：** 「他的那只死了是我的错，」她轻声说，抬头看我。她圆圆的蓝眼睛里满是悲伤，而我意识到：这既是为了补回 Ben 失去的，也同样是为了治愈她自己。
 
 **关键词：** `It’s my fault his died（他的那只死了是我的错）`；`Her round blue eyes were sorrowful（她圆圆的蓝眼睛里满是悲伤）`；`just as much to heal her（也同样是为了治愈她自己）`
 

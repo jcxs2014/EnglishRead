@@ -120,7 +120,7 @@ modified: "2026-10-12"
 | grown-out | （头发）长长了没剪的 | Water dripped from grown-out hair onto his heathered gray shoulder, but his arms didn’t move from their stiff position on the armrests. |
 | heathered | 混色的、夹花的 | Water dripped from grown-out hair onto his heathered gray shoulder, but his arms didn’t move from their stiff position on the armrests. |
 | sulking | 生闷气、闹别扭 | Alone like this, he was just a sulking kid waiting to find out how much trouble he was in. |
-| coddled | 娇惯、护着 | If we coddled him through school, he’d make the same mistakes when we left us, but the consequences would grow tenfold. |
+| coddled | 娇惯、护着 | If we coddled him through school, he’d make the same mistakes when he left us, but the consequences would grow tenfold. |
 | tenfold | 十倍 | If we coddled him through school, he’d make the same mistakes when he left us, but the consequences would grow tenfold. |
 | destructive | 破坏性的、毁东西的 | Brody hadn’t done anything destructive like that. |
 | deflated | 泄了气、垮下来 | When I looked at the deep grooves on his forehead and the defiance in his posture, I deflated. |

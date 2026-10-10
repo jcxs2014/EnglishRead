@@ -30,7 +30,7 @@ modified: "2026-10-12"
 
 **中文理解：** Nova 发短信问他，公寓里躲龙卷风最安全的地方是哪儿；他心里有点小得意——她问的是他，不是 Gigi。
 
-**关键词：** a little rewarding（有点受用）；asked me and not Gigi（问的是我不是 Gigi）；safest place（最安全的地方）
+**关键词：** a little rewarding（有点受用）；asked me and not Gigi（问的是我不是 Gigi）；felt（觉得）
 
 **为什么这样写：** 一个极小的心理细节，却精准地标出了他在这场关系里的位置：他要的不是被需要，是被优先想到。作者用「and not Gigi」这个词组把整句的分量加了一倍。
 

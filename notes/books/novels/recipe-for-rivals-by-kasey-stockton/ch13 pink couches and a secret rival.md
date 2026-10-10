@@ -36,9 +36,9 @@ modified: "2026-10-12"
 
 **读者视角提示：** 上一句她还在笑，下一句 Dusty 的影子就压过来了。开关之所以被按下，是因为有人靠得太近——而 Nova 随后承认「Alice didn't like me telling people she was shy」。
 
-> **原句 3:** His jar-opening arms were none of my concern. They were just hard not to notice when he was shoving them in my face.
+> **原句 3:** It wasn’t that I was running away…but I was running away a little. His jar-opening arms were none of my concern. They were just hard not to notice when he was shoving them in my face.
 
-**中文理解：** 她躲开他去跟 Jake 夫妇说话，理由说得冠冕堂皇（要交代孩子的事），心里承认「It wasn't that I was running away…but I was running away a little.」他那双能拧开果酱罐的手臂不关她的事——只是他硬塞到她面前时很难不注意到。
+**中文理解：** 她躲开他去跟 Jake 夫妇说话，理由说得冠冕堂皇（要交代孩子的事），她心里承认自己是在逃——`It wasn’t that I was running away…but I was running away a little.`；他那双能拧开果酱罐的手臂不关她的事——只是他硬塞到她面前时很难不注意到。
 
 **关键词：** jar-opening arms（能拧开罐子的手臂）；none of my concern（不关我的事）；shoving them in my face（硬塞到我面前）
 

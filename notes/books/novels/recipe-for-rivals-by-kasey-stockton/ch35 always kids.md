@@ -28,11 +28,11 @@ modified: "2026-10-11"
 
 **中文理解：** 他的声音像一注咖啡因加薰衣草那样流过她全身，既提神又安抚。
 
+**关键词：** `caffeine and lavender（咖啡因与薰衣草）`；`invigorating and soothing（既提神又安抚）`
+
 **为什么这样写：** 作者用两个互相冲突的比喻（咖啡因/薰衣草）来定义这段关系的质感，并承认它是矛盾的。全书对 Dusty 的描写一贯用感官而非评价，这一句是最凝练的一次。
 
 **读者视角提示：** 注意这一句出现在他们尚未正式确定关系的章节里（本章末才把孩子这段谈完）。作者让身体先于计划做出反应。
-
-**关键词：** `caffeine and lavender（咖啡因与薰衣草）`；`invigorating and soothing（既提神又安抚）`
 
 > **原句 3:** "I paused with my fist poised above the door to knock and soaked in the happy sounds of my babies, wholly unaware that their father had been across the street last night and had chosen not to remain for twelve hours in order to see them. … It was better if they didn’t know."
 
@@ -65,11 +65,11 @@ modified: "2026-10-11"
 
 **中文理解：** 「爸爸的新宝宝会是个男孩，他就不再需要我了。」……她整个身体都凉了。「什么新宝宝？」
 
+**关键词：** `I knew the power of silence（她懂得沉默的力量）`；`Dad’s new baby is going to be a boy（爸爸的新宝宝会是个男孩）`；`he won’t need me anymore（他不再需要我了）`
+
 **为什么这样写：** 全章的情感核心，且它由一句孩子的推理组成：男孩＝替代品。作者不去解释孩子的逻辑错在哪，因为这句错话里最真实的部分是「他觉得自己可以被替换」。
 
 **读者视角提示：** 注意此处与前一句 `“Dad would let us have ice cream.”` 的落差：同一个孩子先用父亲当武器（糖果），再说出自己最怕的事。作者把这两句放在同一次谈话的前后。
-
-**关键词：** `I knew the power of silence（她懂得沉默的力量）`；`Dad’s new baby is going to be a boy（爸爸的新宝宝会是个男孩）`；`he won’t need me anymore（他不再需要我了）`
 
 > **原句 7:** "“Love doesn’t divide, Ben. It grows. Someday, I hope to get married again, and when we welcome another little baby to this family, do you think it will mean I have to give all of my love to him or her?”"
 

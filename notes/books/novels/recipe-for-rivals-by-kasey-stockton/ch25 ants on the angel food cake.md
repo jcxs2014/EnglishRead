@@ -57,17 +57,17 @@ modified: "2026-10-11"
 
 > **原句 5:** "“I’m not trusting anyone with my heart, Gigi.” Something about the way she said that nettled me."
 
-**中文理解：** 「我不会把心交给任何人，Gigi。」她说话的样子让她莫名恼火。
+**中文理解：** 「我不会把心交给任何人，Gigi。」Nova 说这话的样子让她自己都莫名恼火——`nettled me` 的主语是 Nova 本人，说出口的那一刻她就听见了其中的嘴硬。
 
 **关键词：** `not trusting anyone with my heart（不会把心交给任何人）`；`nettled me（让我恼火）`
 
-**为什么这样写：** Gigi 的两次「Not even Dusty?」（第一次由 Kendall 的妈妈代言，第二次她亲口问）像同一记叩门声敲了两遍。Nova 的回答既是防线也是自我说服，而 `nettled` 这个词暴露了她知道自己在嘴硬。
+**为什么这样写：** 两次「Not even Dusty?」（第一次是女儿 Alice 悄悄问的，第二次 Gigi 亲口问）像同一记叩门声敲了两遍。Nova 的回答既是防线也是自我说服，而 `nettled` 这个词暴露了她知道自己在嘴硬。
 
 **读者视角提示：** 与 Alice 那一问（`Not even Dusty?` she asked quietly）几乎一字不差的重复，是本章的结构性呼应——最亲近的两个人问出了同一个问题。
 
 > **原句 6:** "“I put everything under the table to keep it out of the sun.” I reached down to pull out the foil tins holding all the cakes and shrieked, dropping them back on the ground. They were teeming with ants, the little bugs crawling all over the foil inside and outside, covering my cakes."
 
-**中文理解：** 「我把东西都放在桌子底下遮太阳了。」她伸手去拿那几个装着蛋糕的锡纸盘，然后尖叫起来，把它们摔回地上——里面爬满了蚂蚁，密密麻麻地铺满锡纸内外，把她的一百个蛋糕整个盖住。
+**中文理解：** 「我把东西都放在桌子底下遮太阳了。」她伸手去拿那几个装着蛋糕的锡纸盘，然后尖叫起来，把它们摔回地上——里面爬满了蚂蚁，密密麻麻地铺满锡纸内外，把她做的蛋糕整个盖住。
 
 **关键词：** `to keep it out of the sun（为了避开太阳）`；`teeming with ants（爬满了蚂蚁）`；`covering my cakes（盖住了我的蛋糕）`
 
@@ -77,7 +77,7 @@ modified: "2026-10-11"
 
 > **原句 7:** "Dusty waved at me while he crossed the grass toward his side of the tables."
 
-**中文理解：** Dusty 一边穿过草地走向他那边的桌子，一边朝她挥手。这下他赢定了，毫无悬念。他双手指着她，然后用拇指在自己喉咙上划了一下——全世界通用的「你完蛋了」手势。
+**中文理解：** Dusty 一边穿过草地走向他那边的桌子，一边朝她挥手。这一挥手就等于宣告：他赢定了，毫无悬念。
 
 **关键词：** `crossed the grass（穿过草地）`
 

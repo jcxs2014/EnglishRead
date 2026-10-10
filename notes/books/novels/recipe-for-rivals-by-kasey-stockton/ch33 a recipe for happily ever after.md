@@ -21,7 +21,7 @@ modified: "2026-10-11"
 
 **关键词：** `weren’t meant to be in their children’s lives（本就不该出现在孩子的生活里）`；`never considered my own situation like that（从没用这种方式想过自己家的事）`；`would have only escalated（只会一路升级）`
 
-**为什么这样写：** 全书对 Dusty 身世的一次真正和解：他此前对父母只有困惑与回避（第 7 章他五年前停止搜索他们），本章他借 Brody 家的案子第一次为他们找到了一个说法。作者让这个结论由一场别人的危机触发，符合他从不直视自己的个性。
+**为什么这样写：** 全书对 Dusty 身世的一次真正和解：他此前对父母只有困惑与回避（第 9 章他五年前停止搜索他们），本章他借 Brody 家的案子第一次为他们找到了一个说法。作者让这个结论由一场别人的危机触发，符合他从不直视自己的个性。
 
 **读者视角提示：** `escalated` 是本章给他的旧伤下的诊断书。对照第 4 章那只会被卷走的 `Darth Vader bank` 与第 7 章他承认自己「四岁就是个混小子」：本章第一次允许他把责任从自己身上挪开。
 
@@ -33,7 +33,7 @@ modified: "2026-10-11"
 
 **为什么这样写：** `I was only human.` 这个四词句是全章最有分量的一次自我宽恕。作者用最平常的说法替一个被遗弃的孩子开脱——他没有义务不想，也没有义务原谅。
 
-**读者视角提示：** 这句与下一段的求婚玩笑（`Marry me already.`）相邻。作者刻意把人物的深层伤口与最轻浮的一句紧挨着放，因为 Dusty 就是这样活着的：把严肃藏在玩笑的下一句。
+**读者视角提示：** 这一句与本章后段的求婚玩笑（`Marry me already.`）遥相呼应：作者让同一章先写他的深层伤口，再用最轻浮的一句去碰它，因为 Dusty 就是这样活着的——把严肃藏在玩笑的下一句。
 
 > **原句 3:** "People in this town looked after one another, as evidenced by how things went down tonight. My faith in Arcadia Creek was rewarded, and my gratitude that Nova got to experience it made me glow."
 

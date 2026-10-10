@@ -37,7 +37,7 @@ modified: "2026-10-11"
 
 > **原句 3:** "He glanced up in surprise, and I got a good look at the fresh bruise spreading down his cheekbone."
 
-**中文理解：** 他惊讶地抬起头，她 / 他这才看清那块沿着颧骨一路扩散的新淤青。
+**中文理解：** 他惊讶地抬起头，我这才看清那块沿着颧骨一路扩散的新淤青。
 
 **关键词：** `glanced up in surprise（惊讶地抬起头）`；`a good look at（看清了）`；`the fresh bruise spreading down his cheekbone（沿颧骨扩散的新淤青）`
 

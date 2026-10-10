@@ -78,21 +78,23 @@ modified: "2026-10-11"
 
 **中文理解：** Carter 的胸口急促起伏，他的怒气全表现在咬紧的下颌与粗重的呼吸里。「我不喜欢这样。」
 
-**为什么这样写：** 全章最漂亮的一次反转收束：一个成年男人面对前妻设下的边界，只会说「我不喜欢这样」——与孩子被没收玩具时的措辞一模一样。作者不评论，只记录他的身体与这一句话。
-
 **关键词：** `his anger manifesting（他的怒气表现在）`；`the clenching of his jaw（咬紧的下颌）`；`I don’t like this（我不喜欢这样）`
+
+**为什么这样写：** 全章最漂亮的一次反转收束：一个成年男人面对前妻设下的边界，只会说「我不喜欢这样」——与孩子被没收玩具时的措辞一模一样。作者不评论，只记录他的身体与这一句话。
 
 **读者视角提示：** 对照第 11 章 Ben 在草地上崴脚后的 `Wow. Was he old enough to be embarrassed now?`：本书一直用「谁更像小孩」来衡量人物。本章的答案是 Carter。
 
 > **原句 8:** "“We don’t have to define anything yet,” he said breathlessly, “but you know you’re probably going to marry me someday, right?” My lips curved into a smile I felt him mirror. I didn’t bother answering with words. I just showed him exactly how in sync we were."
 
-**关键词：** `We don’t have to define anything yet（我们还不必定义任何事）`；`you’re probably going to marry me someday（你大概总有一天会嫁给我）`；`how in sync we were（他们有多同步）`
-
 **中文理解：** 「我们还不必定义任何事，」他喘着气说，「但你知道你大概总有一天会嫁给我，对吧？」她的嘴角弯出一个笑，她感觉到他也笑了。她懒得用话回答，只是让他看清他们有多同步。
+
+**关键词：** `We don’t have to define anything yet（我们还不必定义任何事）`；`you’re probably going to marry me someday（你大概总有一天会嫁给我）`；`how in sync we were（他们有多同步）`
 
 **为什么这样写：** 全书第 33 章那句 `Marry me already.` 的正式回音：第一次是玩笑，这一次是宣言，而且同样由他说、由她不用语言回应。作者用同一个句式跨越两章完成呼应，是本书对「这一对成了」最经济的交代。
 
 **读者视角提示：** 本章以「她知道自己会留在阿卡迪亚溪、大概会跟这个男人一起」收尾，而全书还剩四章（第 35 章 Carter 回纽约、第 36 章、第 37 章与尾声）。作者的这一处提前交底，意味着后面的篇幅不再解决「要不要在一起」，只解决「怎么在一起」。
+
+
 
 ## 本章词汇
 
