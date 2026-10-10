@@ -1,0 +1,98 @@
+[2026-10-10 18:20 UTC] 五步审查 b 步「逐章归属」——独立口径（第二实现）
+书：notes/books/novels/october-daye-20-divided-duty-by-seanan-mcguire（A Divided Duty, 21 md）
+
+════════════════════════════════════════════════════════════════
+一、为什么这是「换实现」而不是「换文件名」（审查纪律 ①）
+════════════════════════════════════════════════════════════════
+标准口径 check_chapter_quotes.py：每章 md 的引语 → **只对本章** text/ 判命中。
+第二实现 scripts/attic/check_cross_chapter_quotes.py（本次现写，gitignored attic）：
+  每个引语块同时对照**全部 21 章** text/（flat 比对本库通用 all() 口径）：
+    ① 自章 0 命中 ⇒ ❌（与 check_chapter_quotes 的 MISS 应一致——两实现一致性对账）
+    ② 除自章外还命中 ≥1 章 ⇒ ⚠️ 列出供人判（回声/复现/搬句同形态，语义不自动化）
+    ③ 含 `…` 的引语按 `…` 切段、每段（flat≥8）都须命中（与 check_xref_indep / sweep_full
+       同口径）；切段后仅剩 1 段（句尾省略号等）⇒ 按单段跑，不降为跳过
+  ⚠️ 局限如实标注：本实现只在本库 1 本书上验证过，**不入本轮门禁名单**，仅作审查取证。
+
+════════════════════════════════════════════════════════════════
+二、投毒校准（负控/正控，先验该报的报了再信它的 0）
+════════════════════════════════════════════════════════════════
+夹具 /tmp/xchapter/（临时，内容如下留档）：
+  text/ch01_a.txt = "Quote one unique alpha. A shared refrain echoes across the divide and it is long
+                     enough to be listed here. This sentence belongs to chapter one only and appears
+                     nowhere else at all."
+  text/ch02_b.txt = "Quote two unique beta. A shared refrain echoes across the divide and it is long
+                     enough to be listed here."
+  ch01_a.md：原句1 短(19) / 原句2 共享句 / 原句3 "Too short." / 原句4 合法拼接（两段都在 ch01）
+             / 原句5 假拼接（第二段 zzz…查无）
+  ch02_b.md：原句1 短(18) / 原句2 引语实属 ch01
+
+终版输出（逐字）：
+  ⚠️ ch01_a.md:5 原句 2：除自章外还命中 ['ch02']（最长段 flat 66）        ← 正控① 多章命中
+     引语头：A shared refrain echoes across the divide and it is long enough to be …
+  ❌ ch01_a.md:11 原句 5🔶拼接：自章（ch01）0 命中；他章命中 []             ← 负控② 假拼接段
+     引语头：Quote one unique alpha. … zzz fake segment here not in any text at all…
+  ❌ ch02_b.md:5 原句 2：自章（ch02）0 命中；他章命中 ['ch01']              ← 负控③ 搬句错章
+     引语头：This sentence belongs to chapter one only and appears nowhere else at …
+  === 跨章扫描：引语块 7 个（跳过短引语 3）｜自章 0 命中 2 ｜ 多章命中 1 ｜ 省略号拼接核对 2 ===
+  rc=1
+→ 三个负控/正控全部按设计触发；原句4 合法拼接静默通过并计入「拼接核对 2」。夹具行为达标。
+
+════════════════════════════════════════════════════════════════
+三、本书实跑（终版，rc=0）
+════════════════════════════════════════════════════════════════
+  ⚠️ ch08 eight.md:87 原句 8：除自章外还命中 ['ch16']（最长段 flat 185）
+     引语头：“Long you’ll go and far you’ll walk, and never see the sun, but when y…
+  === 跨章扫描：引语块 156 个（跳过短引语 0）｜自章 0 命中 0 ｜ 多章命中 1 ｜ 省略号拼接核对 8 ===
+  rc=0
+→ 自章 0 命中 = 0：与 check_chapter_quotes 21/21「X/X in chNN text」两实现一致。
+→ 多章命中 1 条 = 已知复现（第四节裁决）。
+
+════════════════════════════════════════════════════════════════
+四、两条裁决（均判「标注正确、只记不改」= 提示型）
+════════════════════════════════════════════════════════════════
+【B-1】ch06 six.md:27 原句 2 = 合法省略号拼接（与 a 步已知 🔶1 同源）
+  md 引语：「The redwoods are giants, … poison oak and blackberry creepers. …
+            Those trees knew King Gilad, …」
+  段1 flat 175、段2 flat 132，两段均逐字在 text/ch06_six.txt:116 同一自然段内：
+  "…The redwoods are giants, looming above the land like sentinels standing guard
+   against some unknowable danger. A whole world blooms around their bases, ferns and
+   tangled brush, poison oak and blackberry creepers. … Those trees knew King Gilad,
+   and a time before him as well. They’ll know a time when all the kingdoms we
+   acknowledge now are gone, and that’s hard to wrap my head around."
+  （中间被省去的 "It’s a breathtakingly primal beauty … this place really is." 为已知省略。）
+  裁决：拼接合法、归属 ch06 正确。整串 flat 对拼接按定义必然查无——修复前本工具报的
+  1 条 ❌ 即此「工具假红」（与 check_xref_indep 2026-10-07 修复同类），已修工具未动 md。
+
+【B-2】ch08 eight.md:87 原句 8 ↔ ch16 sixteen.md:77 原句 7 = Luidaeg 韵句合法的书内复现
+  两条各自逐字命中本 chapter：
+  · text/ch08_eight.txt:500（Luidaeg 念）——
+    "Hear me weary rover, and listen as you stand, for you’ll walk the wild world
+     over, and not see Westmoreland," she said, … "Long you’ll go and far you’ll walk,
+     … Hear me weary wanderer, and know I tell you right: you’ll make it there and
+     back again by just one candle’s light."
+  · text/ch16_sixteen.txt:215（Toby 复述施术）——
+    同韵句，但 "Hear me, weary rover" / "Hear me, weary wanderer" **带逗号**（与 ch08
+    版本的无逗号形态逐字不同；两章 md 引语各自忠实于本章原文版本）。
+  多章命中的原因是第二段（flat 185）在两章都出现。这是书内刻意的咒语复现（ch16 为
+  ch08 的回声/施术复用），**不是搬句误植**——写作期已按 C 类提示登记（「Luidaeg 的韵句在
+  ch08/ch16 复现，标注 ch08 正确」），本次复核维持原判。
+
+════════════════════════════════════════════════════════════════
+五、本步自身的工具修复记录（纪律 ③「先验该报的报了」+ ④「先读行」）
+════════════════════════════════════════════════════════════════
+· 修复前版本对本书报 1 条假 ❌（B-1 拼接）—— 修拼接分支后归零（修工具，未动 md）。
+· 修复过程中夹具先抓到 2 个工具自身缺陷、均当场修复后才做本书裁决：
+  ① `splices` 计数器未初始化（首跑 UnboundLocalError）——初始化修复；
+  ② 句尾省略号引语（ch07 seven.md:67 原句 6，单段 flat 189、第二段仅收尾引号）被新逻辑
+     误降为「跳过」——与修复前相比**凭空丢 1 条覆盖**，改单段回退后恢复受检（skip 3→0 于夹具、
+     0 于本书）；夹具复跑三个负控仍全部触发。
+· ch07 seven.md:67 原句 6 终版已受检并通过（自章命中，单段核对）。
+
+════════════════════════════════════════════════════════════════
+六、b 步结论
+════════════════════════════════════════════════════════════════
+· 标准口径：check_chapter_quotes.py 21/21 章全「X/X in chNN text」（原件见
+  2026-10-10-ab_总览与逐章.txt——本文件不重复）。
+· 独立口径：156 块 / 自章 0 命中 0 / 多章 1（已裁决为合法复现）/ 拼接核对 8，rc=0。
+· 阻断型 0 条；提示型 2 条（B-1 拼接取证、B-2 复现取证），均只记不改。
+· 两实现一致性成立 ⇒ b 步完成。
