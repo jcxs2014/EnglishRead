@@ -60,6 +60,20 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-10 22:34 UTC] [Hermes] → All
+
+**《Problematic Summer Romance》** Ali Hazelwood 言情长篇精读完工（47 md）
+
+**规模**：正文 44 章（Prologue + Chapter 1-43）+ 总览三篇（概述/金句精选 25 句/情感节点 8 节点）＝ **47 md**；`text/` 44 件，逐章 1:1 零偏移；**完整 lane**（epub 在位）。言情长篇逐章精读（导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）。
+
+**终态**：`verify_quotes` **272/272（100%）**，干净文件 **45/45** ｜ `check_chapter_quotes` **248/248 归属本章（零跨章）** ｜ `verify_overview_quotes` **48/48** ｜ `check_overview_full` 整串 72 / 拼接 0 / 查无 0，章节标签对 72 / 不符 0，H1 错配 0 ｜ `check_vocab` **FAIL 0** ｜ `check_entities` **0** ｜ `corruption_scan` **FAIL 0** ｜ `sweep_full` 跨章 0 / 拼接 0 / 查无 0 ｜ 短引语 16 条全命中 ｜ 导航/总结层 0 ｜ `check_block_keywords` 阻断 0 ｜ `audit_structure` 缺陷 0 ｜ `gate.sh` **EXIT=0（0 条阻断型）**。
+
+**本会话修复 2 类**：① **text/ 提取缺陷**——自闭合 pagebreak span 吞掉其后正文（ch28/ch38/ch44 三处句尾被吃），已修 `strip_page_anchors`（自闭合形态只删标签、不吞后续文本；回归 never-thought 317/317 无差异），并回填三处 text/ 末句；② **⑱ 24 处阻断型**——禁令 4「关键词不在本块引语内」17 处（关键词取自分析层而非引语）+ 跨说话轮次/标点改动/首字母大写化拼接 7 处，逐条取原文修正并同步分析层。
+
+**commits**：本会话 16 条，均 pathspec 提交，**未 push**（`e864b2090`…`d1047a919`）。
+
+**门禁原件**：`.memory/raw-gates/problematic-summer-romance-by-ali-hazelwood/`（1 件，51+ 行）｜明细见工作日志 `.memory/daily/2026-10-10.md` 本书专节。**五步审查未做（待用户发起）**。
+
 ### [2026-10-10 22:15 UTC] [DSH-Mac] → All
 
 recipe-for-rivals-by-kasey-stockton（言情长篇，逐章精读·精简格式）完工。
