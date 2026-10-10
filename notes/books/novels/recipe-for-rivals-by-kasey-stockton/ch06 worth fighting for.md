@@ -102,7 +102,7 @@ modified: "2026-10-11"
 | appease | 安抚、平息（情绪） | “The music is great,” I put in, hoping to appease her sense of disgruntledness. |
 | egregious | 极其恶劣的、不可饶恕的 | “You haven’t gone to Hamilton?” she asked, like I’d made an egregious sin. |
 | coiled | 盘绕、卷起 | Her over-highlighted blonde hair was coiled into a perfect chignon and her smile was wide. |
-| somersaults | 翻筋斗 | Alice made her way to the counter via a sequence of somersaults. |
+| somersaults | 连续翻筋斗（somersault 的复数；Alice 一路翻到柜台前） | Alice made her way to the counter via a sequence of somersaults. |
 | chignon | 发髻（盘于脑后的发型） | Her over-highlighted blonde hair was coiled into a perfect chignon and her smile was wide. |
 | panged | 一阵刺痛 | My stomach panged, wishing to be back in the home where I’d brought two babies back from the hospital. |
 | awed | 惊叹的、敬畏的 | Alice dropped to the ground, awed. |
@@ -132,7 +132,6 @@ modified: "2026-10-11"
 | monkey bars | （儿童游乐场的）攀爬架、单杠 | I want to show you the monkey bars. |
 | celery | 芹菜 | He grinned, diving into his sliced apples with peanut butter and ignoring his celery. |
 | playground | 操场、游乐场 | “Can we go to the school playground? |
-| somersault | 翻跟头 | Alice made her way to the counter via a sequence of somersaults. |
 | field trip | 校外教学、郊游 | It was during a school field trip, and our seats were on the highest row furthest to the right, so we didn’t have the best visibility. |
 
 ## 一句话总结

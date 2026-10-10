@@ -116,7 +116,6 @@ modified: "2026-10-11"
 | auctioning | 拍卖 | “Not trying to rope you into auctioning yourself off for a date or anything, don’t worry. |
 | donations | 捐赠（物） | “My family makes up half the town, so if you cut off Fletcher donations now, you won’t get much else. |
 | blip | （暂时的）小故障、异常 | Last night was a blip. |
-| hesitation | 犹豫、迟疑 | He still didn’t seem totally sold on the idea. |
 
 ### ⭐ 基础
 
