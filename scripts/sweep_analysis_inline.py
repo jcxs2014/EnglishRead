@@ -155,10 +155,19 @@ def bare_fragments(line):
     两侧的中文分隔符一并吞掉 ⇒ 两段独立英文被粘成一句（如
     `rich red garden roses were never going to be a comfort to me again`）。
     只剥**含字母**的 span；伪 span 就地保留，中文照样能断句。
+
+    ⚠️ 2026-10-11 补（out-of-the-woods 实证 1 处假红）：上一版「含字母即剥」漏了
+    **中英混排**的伪 span——行内 `"we"` 只有 2 字符、短于 SPAN 的 {4,} 下限，
+    配对漂移到下一对引号，捕到的 span 是「中文里嵌 `（unspoken）`/`（do nothing）`」
+    ⇒ 含字母被剥，`we` 与 `let the moment pass` 被粘成 `we let the moment pass`
+    ⇒ 无中生有的 🟠 部分命中。**只剥纯英文 span**：混排 span 就地保留，
+    CJK 字符不是空白符，天然断开裸英文段；span 里的英文词照进裸通道被核。
     """
     def _strip(m):
         g = next((x for x in m.groups() if x), '')
-        return ' ' if re.search(r'[A-Za-z]', g) else m.group(0)
+        if re.search(r'[A-Za-z]', g) and not re.search(r'[一-鿿]', g):
+            return ' '
+        return m.group(0)
     stripped = SPAN.sub(_strip, line)
     for m in _BARE.finditer(stripped):
         seg = m.group(1)
