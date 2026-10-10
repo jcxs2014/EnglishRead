@@ -49,7 +49,7 @@ modified: "2026-10-10"
 
 **读者视角提示：** 这段同时交代了本卷对"钱"的态度：它是这家人的工具，也是他们表达关心的方式（与康纳的捐款、书架同源）。
 
-> **原句 4:** It’s a much more pedestrian occurrence than a volcanic eruption, but I’m in awe when the first tangerine hues begin to form.
+> **原句 4:** It’s a much more pedestrian occurrence than a volcanic eruption, but I’m in awe when the first tangerine hues begin to form,
 
 **中文理解：** 日出比火山喷发平凡得多，但当天边第一抹橘色成形时，她还是被震住了。
 
@@ -59,11 +59,11 @@ modified: "2026-10-10"
 
 **读者视角提示：** 这段是本章的情绪转场，也预示接下来的事：一场平凡的婚礼比火山更能改变她的处境。
 
-> **原句 5:** What she’s wearing is not a sundress at all, but a man’s button-down.
+> **原句 5:** what she’s wearing is not a sundress at all, but a man’s button-down.
 
 **中文理解：** 她这才看清鲁穿的不是连衣裙，而是一件男式衬衫——一件白燕尾服衬衫，长到能当埃利的，下摆垂到她大腿上方。
 
-**关键词：** a man’s button-down（男式衬衫）；a white tuxedo shirt（白燕尾服衬衫）
+**关键词：** a man’s button-down（男式衬衫）；not a sundress（不是连衣裙）
 
 **为什么这样写：** 用一句"不是……而是"的更正完成整章的揭示。作者不直接宣布"这是婚礼"，而是让她先看到衣服——读者与她同时反应过来。
 

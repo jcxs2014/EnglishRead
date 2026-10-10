@@ -39,7 +39,7 @@ modified: "2026-10-10"
 
 **读者视角提示：** 这是本章的转折点，也解释了后续所有的物流危机（婚纱、航班、宾客）都出自同一个原因。
 
-> **原句 3:** “They should be fine, as long as they don’t venture to the mouth of the volcano to take selfies.”
+> **原句 3:** “They should be fine, as long as they don’t venture to the mouth of the volcano to take selfies,”
 
 **中文理解：** 有人问离埃特纳最近的人怎么办，她答：只要他们不去火山口自拍，应该就没事。
 

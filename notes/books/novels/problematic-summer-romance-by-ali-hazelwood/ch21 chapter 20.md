@@ -29,7 +29,7 @@ modified: "2026-10-10"
 
 **读者视角提示：** 这段为本章的配对场面定调：她与妮奥塔的配对、艾弗里与康纳的自然配对，都被她放进同一套批判框架里看。
 
-> **原句 2:** “Hark switched his plate with yours when he thought I wasn’t paying attention.”
+> **原句 2:** “Hark switched his plate with yours when he thought I wasn’t paying attention,”
 
 **中文理解：** 她回来发现自己的意面突然变好吃了，妮奥塔告诉她：哈克趁我没注意的时候把自己的盘子换给了你。
 

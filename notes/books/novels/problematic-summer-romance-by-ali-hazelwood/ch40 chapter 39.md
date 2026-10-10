@@ -49,15 +49,16 @@ modified: "2026-10-10"
 
 **读者视角提示：** 这段解释了全书前半所有的"年龄/权力/时机"理由：它们不是原则，是不断后撤的防线。
 
-> **原句 4:** “I kept moving the goalpost. I kept drawing new lines.”
+> **原句 4:** you made me realize that some lines should be left where they’ve been drawn.
 
-**中文理解：** 他自述过去的行为：我不断移动球门柱，不断画新的线。
+**中文理解：** 他给出转折点：你让我明白，有些线就该留在它被画下的地方。
 
-**关键词：** moving the goalpost（不断移动标准）；drawing new lines（划新的界线）
+**关键词：** left where they’ve been drawn（留在原处）
 
-**为什么这样写：** 用两个运动类比喻承认自己的问题：不是他真的有一个不可逾越的标准，是他每次被逼近就换一条。这个自述比任何道歉都更准确。
+**为什么这样写：** 用一句"留在原处"完成全书最彻底的让步。他没有说那些问题消失了，而是说他不再用它们当挡箭牌——这与玛雅要求的"给我一个站得住的理由"形成闭环。
 
-**读者视角提示：** 这段解释了全书前半所有的"年龄/权力/时机"理由：它们不是原则，是不断后撤的防线。
+**读者视角提示：** 这是本章的落点，也是全书对"problematic"这个题目的最终处理：不否认问题存在，只是不再让问题决定结果。
+
 > **原句 5:** “Sometimes I’d put on the same songs as you, and it felt almost like being together.”
 
 **中文理解：** 他解释为什么一直没取消那个音乐应用：有时我会放你正在听的同一首歌，那感觉几乎像是我们在一起。
