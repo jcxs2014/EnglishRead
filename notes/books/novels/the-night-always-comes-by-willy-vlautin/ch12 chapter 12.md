@@ -1,5 +1,7 @@
 # Chapter 12: Confrontation with Kansas
 
+## 本章导航
+
 **一句话概括**: Kansas reneges on the deal, threatens to kill Lynette for the safe's contents; she bluffs with a Mercedes key and escapes when his epileptic assistant has a seizure.
 
 **情感弧线位置**: Peak danger — Lynette faces mortal threat and must think quickly to survive
@@ -142,14 +144,11 @@
 
 ---
 
-## 词汇分级
+
 
 ### ⭐⭐⭐ Advanced
 
-- **renege** /rɪˈneɡ/ *v.* 违背诺言，食言
-- **duress** /dʊˈres/ *n.* 胁迫，强迫
-- **ephemeral** /ɪˈfemərəl/ *adj.* 短暂的，转瞬即逝的
-
+（本章Advanced词条需从原文提取）
 ### ⭐⭐ Intermediate
 
 - **crowbar** /ˈkroʊbɑːr/ *n.* 撬棍

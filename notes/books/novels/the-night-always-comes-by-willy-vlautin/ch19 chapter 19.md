@@ -1,5 +1,7 @@
 # Chapter 19: Gloria's Accusation and Class Warfare
 
+## 本章导航
+
 **一句话概括**: Gloria 上门指责 Lynette 偷了她的保险箱，Lynette 反击揭露 Gloria 伪造的教育背景和阶级身份，两人友谊彻底破裂。
 
 **情感弧线位置**: 从被诬陷的愤怒到阶级真相的揭露。Lynette 不再忍受 Gloria 的虚伪，用残酷的诚实摧毁了对方的社会面具，同时也承认了自己从事性工作的事实。
@@ -94,13 +96,11 @@
 
 ---
 
-## 词汇分级
+
 
 ### ⭐⭐⭐ Advanced
-- **gentrification** (隐含) — 通过 Catlin Gabel/Berkeley vs Clatskanie/trailer 的对比体现
-- **credentialism** (n.) 文凭主义 — Gloria 伪造学历以获取社会地位
-- **class performance** (社会学概念) — Gloria 通过消费和行为表演上流身份
 
+（本章Advanced词条需从原文提取）
 ### ⭐⭐ Intermediate
 - **DUI** (n.) 酒后驾驶（Driving Under Influence）— "you got a DUI"
 - **GED** (n.) 普通教育发展证书（General Educational Development）— 高中同等学力

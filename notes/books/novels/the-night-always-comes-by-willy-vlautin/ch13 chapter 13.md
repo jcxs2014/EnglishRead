@@ -1,5 +1,7 @@
 # Chapter 13: Abandoning Cody
 
+## 本章导航
+
 **一句话概括**: Lynette escapes the mechanic's shop, confronts Cody for betraying her, and tricks him into taking a worthless car key while she keeps the money and cocaine.
 
 **情感弧线位置**: Falling action — Lynette transitions from survival mode to calculated revenge
@@ -212,14 +214,11 @@
 
 ---
 
-## 词汇分级
+
 
 ### ⭐⭐⭐ Advanced
 
-- **cul-de-sac** /ˌkʌldəˈsæk/ *n.* 死胡同，绝境
-- **strangulation** /ˌstræŋɡjuˈleɪʃən/ *n.* 扼杀，窒息
-- **retribution** /ˌretrɪˈbjuːʃən/ *n.* 报应，惩罚
-
+（本章Advanced词条需从原文提取）
 ### ⭐⭐ Intermediate
 
 - **parole** /pəˈroʊl/ *n.* 假释

@@ -1,5 +1,7 @@
 # Chapter 15: Return to JJ's House
 
+## 本章导航
+
 **一句话概括**: Lynette returns to her abuser JJ Benada's house to sell cocaine, confronts him about past exploitation, and receives photos of herself from her teenage years along with a buyer's contact.
 
 **情感弧线位置**: Confrontation and partial reckoning — Lynette faces the source of her trauma but cannot fully escape it
@@ -462,14 +464,11 @@
 
 ---
 
-## 词汇分级
+
 
 ### ⭐⭐⭐ Advanced
 
-- **grooming** /ˈɡruːmɪŋ/ *n.* （对儿童的）诱导，操控
-- **coercion** /koʊˈɜːrʒən/ *n.* 胁迫，强迫
-- **banality** /bəˈnæləti/ *n.* 平庸，平凡
-
+（本章Advanced词条需从原文提取）
 ### ⭐⭐ Intermediate
 
 - **threadbare** /ˈθredber/ *adj.* 磨破的，陈旧的

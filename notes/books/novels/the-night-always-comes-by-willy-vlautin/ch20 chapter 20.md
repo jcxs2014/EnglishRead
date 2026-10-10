@@ -1,5 +1,7 @@
 # Chapter 20: Settling Debts and Mother's Scheme
 
+## 本章导航
+
 **一句话概括**: Lynette 支付 JJ 三千美元以摆脱 Rodney 的威胁，将 Gloria 的钱和物品邮寄归还，卖掉 Nissan 车，而母亲宣布要搬去和 Mona 同住并揭示了利用政府福利的计划。
 
 **情感弧线位置**: 从清理过去（还债、归还物品）到面对新的背叛（母亲的福利欺诈计划）。Lynette 在物质上切断联系，但母亲的道德堕落让她意识到这个家庭已无可救药。
@@ -106,13 +108,11 @@
 
 ---
 
-## 词汇分级
+
 
 ### ⭐⭐⭐ Advanced
-- **systemic fraud** (n.) 系统性欺诈 — 母亲和 Mona 的福利计划
-- **destigmatization** (隐含) — Lynette 不再为自己的收入来源感到羞耻
-- **intergenerational poverty** (社会学概念) — 贫困在代际间的传递
 
+（本章Advanced词条需从原文提取）
 ### ⭐⭐ Intermediate
 - **personal care assistant** (n.) 个人护理助理 — 政府资助的护理岗位
 - **disability check** (n.) 残疾补助金 — 政府发放的残疾人士福利

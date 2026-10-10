@@ -1,5 +1,7 @@
 # Chapter 21: Shirley's Wisdom and the Gift
 
+## 本章导航
+
 **一句话概括**: Lynette 向 Shirley 倾诉母亲拒绝买房的真相，Shirley 建议她去中西部便宜城市开面包店，并决定将父亲的 Buick 车免费送给她作为祝福。
 
 **情感弧线位置**: 从绝望倾诉到获得希望。Shirley 的智慧和慷慨为 Lynette 提供了具体的出路和情感支持，是全书中少数真正的善意时刻。
@@ -118,13 +120,11 @@
 
 ---
 
-## 词汇分级
+
 
 ### ⭐⭐⭐ Advanced
-- **gentrification** (n.) 绅士化 — 波特兰房价上涨迫使穷人离开
-- **rust belt** (n.) 锈带 — 美国中西部去工业化的老工业城市
-- **solidarity** (n.) 团结 — 工人阶级之间的互相支持
 
+（本章Advanced词条需从原文提取）
 ### ⭐⭐ Intermediate
 - **custody** (n.) 抚养权 — "if I try to get custody"
 - **credit** (n.) 信用评分 — "work on fixing your credit"

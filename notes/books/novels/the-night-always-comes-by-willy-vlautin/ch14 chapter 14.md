@@ -1,5 +1,7 @@
 # Chapter 14: Reflection at Hotcake House
 
+## 本章导航
+
 **一句话概括**: Lynette reflects on her life's failures at the Hotcake House, recalls her grandfather's love, and makes anonymous calls to frame Cody for car theft while planning to sell cocaine to JJ.
 
 **情感弧线位置**: Emotional nadir — Lynette confronts her guilt and self-loathing before taking decisive action
@@ -252,14 +254,11 @@
 
 ---
 
-## 词汇分级
+
 
 ### ⭐⭐⭐ Advanced
 
-- **stevedore** /ˈstiːvədɔːr/ *n.* 码头装卸工人
-- **anguish** /ˈæŋɡwɪʃ/ *n.* 极度痛苦，焦虑
-- **neglect** /nɪˈɡlekt/ *n.* 疏忽，忽视
-
+（本章Advanced词条需从原文提取）
 ### ⭐⭐ Intermediate
 
 - **thermos** /ˈθɜːrməs/ *n.* 保温瓶

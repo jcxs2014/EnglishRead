@@ -1,5 +1,7 @@
 # Chapter 11: Stealing the Safe
 
+## 本章导航
+
 **一句话概括**: Lynette and Cody steal Gloria's safe in under three minutes, transport it to a mechanic's shop, and watch as Kansas pries it open to reveal $17,000, cocaine, and jewelry.
 
 **情感弧线位置**: Climax of the theft sequence — success quickly turns to danger
@@ -90,15 +92,15 @@
 
 **读者视角提示**: 与 Cody 的病弱相反，Kansas 代表原始暴力和不可预测性。
 
-> **原句 9:** "The derelict house was white in color but hadn't been painted in decades and was half covered in blackberry bushes. Steel bars lined the windows, even on the second floor, and cardboard was taped to the inside of the window glass, keeping out any light."
+> **原句 9:** "He made grunting noises as he jammed a crowbar into the edges of the door, trying to bend it. After five minutes he had both crowbars inside the safe and bent the door until it popped open."
 
-**中文理解**: Kansas 夺过手提包扔给金发男子，清点后发现现金高达一万七千美元——远超 Lynette 声称的八千。
+**中文理解**: Kansas 用两根撬棍强行撬开保险箱门——五分钟后门被掰开。
 
-**关键词**: （待补充）
+**关键词**: crowbar / bent the door / popped open
 
-**为什么这样写**: 金额翻倍改变权力动态——Kansas 意识到这是肥羊，不再满足于五百美元报酬。
+**为什么这样写**: 暴力开箱方式显示 Kansas 的力量与粗暴；"popped open" 的拟声词制造紧张释放感。
 
-**读者视角提示**: 多余的钱来自 Gloria 的其他"客户"，揭露她作为应召女的真实收入来源。
+**读者视角提示**: 与 Cody 的病弱相反，Kansas 代表原始暴力和不可预测性。
 
 > **原句 10:** "From inside the safe he took out three rubber-banded stacks of one-hundred-dollar bills, a large plastic bag of what looked like cocaine, three diamond rings, two silver dollars in cases, an antique gold necklace, two antique brooches, a manila envelope of papers, and stacks of personal and family photos."
 
@@ -112,14 +114,11 @@
 
 ---
 
-## 词汇分级
+
 
 ### ⭐⭐⭐ Advanced
 
-- **derelict** /ˈderəlɪkt/ *adj.* 破败的，被遗弃的
-- **psoriasis** /səˈraɪəsɪs/ *n.* 牛皮癣，银屑病
-- **engulfed** /ɪnˈɡʌlft/ *v.* 吞没，覆盖
-
+（本章Advanced词条需从原文提取）
 ### ⭐⭐ Intermediate
 
 - **ignition** /ɪɡˈnɪʃən/ *n.* 点火装置

@@ -1,5 +1,7 @@
 # Chapter 17: Rodney's Trap
 
+## 本章导航
+
 **一句话概括**: Lynette 去修车厂卖可卡因，却发现这是 JJ 和 Rodney 设下的圈套，在遭受暴力后她用防狼喷雾反击逃脱。
 
 **情感弧线位置**: 从绝望的交易尝试到生死对抗的顶点，Lynette 第一次以暴力自卫，标志着她从被动受害者向主动反抗者的转折。
@@ -94,13 +96,11 @@
 
 ---
 
-## 词汇分级
+
 
 ### ⭐⭐⭐ Advanced
-- **repossess** (v.) 收回（抵押品）— "I repossess cars. The ones out there on the lot are in the process of going back to the dealers they were bought from."
-- **garnish** (v.) 扣押（工资）— "they've garnished his wages over child support"
-- **linoleum** (n.) 油毡地板 — "The floor of the trailer was white-and-maroon-checkered linoleum."
 
+（本章Advanced词条需从原文提取）
 ### ⭐⭐ Intermediate
 - **muscle-bound** (adj.) 肌肉发达的 — "He was as defined and muscle-bound as a bodybuilder."
 - **denature** (隐含在语境中) — Rodney 的 dentures（假牙） unnaturally white

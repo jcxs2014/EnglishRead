@@ -1,5 +1,7 @@
 # Chapter 16: Memories of Jack
 
+## 本章导航
+
 **一句话概括**: Lynette destroys photos from JJ, reflects on her relationship with Jack—the only person who truly loved her—and recalls how her unresolved trauma destroyed their three-year romance.
 
 **情感弧线位置**: Emotional reflection — past love contrasts with present degradation
@@ -352,14 +354,11 @@
 
 ---
 
-## 词汇分级
+
 
 ### ⭐⭐⭐ Advanced
 
-- **eradicated** /ɪˈrædɪkeɪtɪd/ *v.* 根除，消灭
-- **blindsided** /ˈblaɪndsaɪdɪd/ *v.* 出其不意地打击
-- **imploding** /ɪmˈploʊdɪŋ/ *v.* 内爆，崩溃
-
+（本章Advanced词条需从原文提取）
 ### ⭐⭐ Intermediate
 
 - **insecure** /ˌɪnsɪˈkjʊr/ *adj.* 缺乏安全感的

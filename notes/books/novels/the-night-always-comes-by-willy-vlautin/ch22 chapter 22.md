@@ -1,5 +1,7 @@
 # Chapter 22: Departure and the American Dream's Dark Side
 
+## 本章导航
+
 **一句话概括**: Lynette 与 Kenny 告别并承诺会回来接他，母亲发表虚无主义的人生哲学（"look out for yourself and screw everyone else"），Lynette 深夜驾车离开波特兰向东行驶。
 
 **情感弧线位置**: 从告别的痛苦到离开的决绝。母亲的最后通牒代表了全书对"美国梦"最彻底的批判，而 Lynette 的离开既是对这种哲学的拒绝也是对其现实的承认——她必须独自求生，但选择不变成母亲那样的人。
@@ -130,13 +132,11 @@
 
 ---
 
-## 词汇分级
+
 
 ### ⭐⭐⭐ Advanced
-- **gentrification** (n.) 绅士化 — Pearl District 的转变
-- **social Darwinism** (n.) 社会达尔文主义 — 母亲的"look out for yourself"哲学
-- **working poor** (n.) 在职贫困人口 — 有工作但仍贫困的阶层
 
+（本章Advanced词条需从原文提取）
 ### ⭐⭐ Intermediate
 - **copay** (n.) 共付额 — 医疗保险中患者需自付的部分
 - **interstate** (n.) 州际公路 — "got on the interstate and headed east"

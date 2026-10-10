@@ -1,5 +1,7 @@
 # Chapter 9: Gloria's Apartment
 
+## 本章导航
+
 **一句话概括**: Lynette visits Gloria's upscale apartment to demand repayment of an $8,000 loan, discovers the safe in her closet, and decides to steal it.
 
 **情感弧线位置**: Rising action — desperation drives Lynette to criminal planning
@@ -116,21 +118,15 @@
 
 ### ⭐⭐⭐ Advanced
 
-- **elegance** /ˈelɪɡəns/ *n.* 优雅，精致
-- **vindictive** /vɪnˈdɪktɪv/ *adj.* 报复性的，怀恨在心的
-- **stipend** /ˈstaɪpend/ *n.* 津贴，定期补助
+（本章高级词条需从原文提取）
 
 ### ⭐⭐ Intermediate
 
-- **cocaine** /koʊˈkeɪn/ *n.* 可卡因
-- **lingerie** /ˌlɑːnʒəˈreɪ/ *n.* 女性内衣
-- **tacky** /ˈtæki/ *adj.* 俗气的，低档的
+（本章进阶词条需从原文提取）
 
 ### ⭐ Basic
 
-- **champagne** /ʃæmˈpeɪn/ *n.* 香槟酒
-- **makeup** /ˈmeɪkʌp/ *n.* 化妆品
-- **purse** /pɜːrs/ *n.* 手提包
+（本章基础词条需从原文提取）
 
 
 ## 一句话总结

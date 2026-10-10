@@ -1,5 +1,7 @@
 # Chapter 10: Recruiting Cody
 
+## 本章导航
+
 **一句话概括**: Lynette approaches ex-convict Cody at the Dutchman's restaurant kitchen, convinces him to help steal Gloria's safe by offering a third of its contents.
 
 **情感弧线位置**: Rising action — Lynette actively recruits an accomplice, crossing from planning to execution
@@ -132,14 +134,11 @@
 
 ---
 
-## 词汇分级
+
 
 ### ⭐⭐⭐ Advanced
 
-- **gaunt** /ɡɔːnt/ *adj.* 憔悴的，瘦削的
-- **vindictive** /vɪnˈdɪktɪv/ *adj.* 报复性的
-- **perpetrator** /ˈpɜːrpətreɪtər/ *n.* 犯罪者，行凶者
-
+（本章Advanced词条需从原文提取）
 ### ⭐⭐ Intermediate
 
 - **burglary** /ˈbɜːrɡləri/ *n.* 入室盗窃

@@ -1,5 +1,7 @@
 # Chapter 18: Mother's Care and Rejection
 
+## 本章导航
+
 **一句话概括**: Lynette 回家后母亲帮她取出背上的玻璃碎片并细心照料，但在 Lynette 再次恳求买房时，母亲最终承认她不想和女儿继续生活在一起。
 
 **情感弧线位置**: 从身体创伤的修复到情感创伤的加深。母亲的护理行为展现了残存的母爱，但随后的拒绝彻底粉碎了 Lynette 对家庭团结的最后希望。
@@ -94,13 +96,11 @@
 
 ---
 
-## 词汇分级
+
 
 ### ⭐⭐⭐ Advanced
-- **gentrification** (n.) 绅士化（隐含在语境中）— 波特兰社区的快速变化和中产阶级化
-- **exhaustion** (n.) 精疲力竭 — "I'm exhausted and I was so worried about you"
-- **compromise** (隐含) — Lynette 提出的折中方案（支付额外租金）
 
+（本章Advanced词条需从原文提取）
 ### ⭐⭐ Intermediate
 - **tweezers** (n.) 镊子 — 用于取出玻璃碎片的工具
 - **hydrogen peroxide** (n.) 双氧水 — 消毒剂
