@@ -401,7 +401,10 @@ def load_chapter_corpora(book_dir):
             if m:
                 # 归一化：去掉前导零（'05' → '5'），保留字母后缀（'18a'）
                 nn = str(int(m.group(1))) + m.group(2)
-                corpora[nn] = flat(open(f, encoding='utf-8', errors='ignore').read())
+                raw_txt = open(f, encoding='utf-8', errors='ignore').read()
+                # Strip CSS @page { ... } blocks (appear at top of epub-extracted text files)
+                raw_txt = re.sub(r'@page\s*\{[^}]*\}', '', raw_txt)
+                corpora[nn] = flat(raw_txt)
     return corpora
 
 

@@ -54,9 +54,15 @@ def build_pool(book: str):
         # Light ch01、I Am Homeless ch01 全部如此）⇒ 静默抽 0 条，症状仍是
         # 「引语池无 chNN#1」。现改为：**标记可选**；无标记时取引语块后第一段正文，
         # 并在它以 `**` 开头（即其实是别的子项）时跳过该块。
-        for m in re.finditer(r'> \*\*原句 (\d+):\*\* (.+)\n\n(.+?)\n',
+        # ⚠️ 2026-10-09 修正（Null Entity 实测 8 章抽 0 条）：多段引语块用 `>` 空行续行
+        # （`> **原句 1:** 第一段` / `>` / `> 第二段`），而原正则要求标记行之后**立刻**是空行
+        # ⇒ 整块匹配失败，症状是「抽到 0 条引语」而**门禁全绿**（引语层由别的脚本验）。
+        # 现吃掉续行，池里取引语的**首段**（金句要的是短而逐字的一句，不是整场戏）。
+        for m in re.finditer(r'> \*\*原句 (\d+):\*\* (.+?)(?:\n>(?:.*)?)*\n\n(.+?)\n',
                              open(f, encoding="utf-8").read()):
             seq, q, seg = int(m.group(1)), m.group(2).strip(), m.group(3).strip()
+            if seg.startswith("> "):
+                continue            # 下一个块的原句行，不是本块的分析层
             if seg.startswith("**中文理解"):
                 zh = _ZH_LABEL.sub("", seg, count=1).strip()
             elif seg.startswith("**"):
