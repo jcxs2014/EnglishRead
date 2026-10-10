@@ -1,0 +1,71 @@
+=== 五步审查 a/b/c 步原始输出 2026-10-10 19:36 UTC ===
+审查方：Raccoon-Mac ｜ lane：完整 lane ｜ 触发：用户发起（同会话）
+
+--- a 步：第 3 条门禁全量重跑 ---
+[verify_quotes]
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 317/317 引文可核实（100%）；完全干净文件 23/23；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+[verify_corpus]
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===
+
+[check_vocab]
+--- FAIL (0) ---
+--- WARN (81) ---
+
+[check_entities]
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+[corruption_scan]
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+[sweep_full]
+  ✅ 本章命中 291 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 3 ｜ ❌ 全书查无 0
+
+[verify_overview_quotes]
+
+=== 总览引文 68/68 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+[check_short_quotes]
+  ✅ 命中 3 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+
+[gate.sh]
+=== 引语块覆盖度：22 个 md，阻断型 67 处 ／ 提示型 0 处 ===
+══ 正门结论：❌ 67 条阻断型（见上；退出码 1）══
+
+--- b 步：逐章归属（22 章）---
+ch01 one.md: 7/7 in ch01 text（另有 1 条短引语未校验）
+ch02 two.md: 8/8 in ch02 text
+ch03 three.md: 9/9 in ch03 text
+ch04 four.md: 8/8 in ch04 text
+ch05 five.md: 8/8 in ch05 text
+ch06 six.md: 8/8 in ch06 text
+ch07 seven.md: 7/7 in ch07 text
+ch08 eight.md: 8/8 in ch08 text
+ch09 nine.md: 8/8 in ch09 text
+ch10 ten.md: 10/10 in ch10 text
+ch11 eleven.md: 15/15 in ch11 text
+ch12 twelve.md: 12/12 in ch12 text
+ch13 thirteen.md: 10/10 in ch13 text
+ch14 fourteen.md: 12/12 in ch14 text
+ch15 fifteen.md: 13/13 in ch15 text
+ch16 sixteen.md: 16/16 in ch16 text
+ch17 seventeen.md: 24/24 in ch17 text
+ch18 eighteen.md: 20/20 in ch18 text
+ch19 nineteen.md: 24/24 in ch19 text
+ch20 twenty.md: 21/21 in ch20 text（另有 1 条短引语未校验）
+ch21 twenty-one.md: 19/19 in ch21 text
+ch22 epilogue.md: 27/27 in ch22 text
+
+--- c 步：结构扫描（两实现）---
+[audit_structure]
+  扫 25 个 md、365 个引语块；多数派必备节：（无，不判）
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 6 ｜ 🔀 映射不一致 0
+
+[check_struct_indep 第二实现]
+  ❌ ch22 epilogue.md: [summary] 引语 3: 子项顺序错 ['中文理解', '为什么这样写', '关键词', '读者视角提示']
+  ❌ ch22 epilogue.md: [summary] 引语 20: 子项顺序错 ['中文理解', '为什么这样写', '关键词', '读者视角提示']
+=== 独立结构扫描：22 个 md，缺陷 24 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
