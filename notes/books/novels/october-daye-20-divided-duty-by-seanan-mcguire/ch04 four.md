@@ -9,7 +9,7 @@ modified: "2026-10-10"
 
 - **一句话概括**：Luna 到 Shadowed Hills 兴师问罪、要求把女儿 Raysel 带回身边，与 October 正面冲突并当众诅咒她；Sylvester 公开站在 October 一边、拒绝强迫女儿回来，随后崩溃自责，October 便叫 Chelsea 去 Saltmist 请来 Simon——兄弟重逢，这一轮冲突收束在一句"你只要开口，我就一定会来"的回应里。
 - **情感弧线位置**：本章处在全书的冲突爆点与转折位上：对峙从肢体冲突升格为诛心指控，Sylvester 的公开站队按下转折，而 Luna 的诅咒让代价当场到账；章末的兄弟重逢把情绪从撕裂拉回缝合——留下的不是和解，而是一个尚未愈合、却已有退路的收束。
-- **人物弧线**：October：从被指为一切祸首却克制着用身份与程序回应的"被告"，到摊牌时承认自己确实选择了责任、也失去了女儿，最后把答案交给时间与界限——她要的不是赢，而是让 Raysel 有空间痊愈。Sylvester：从墙边沉默的丈夫，到公开反驳妻子、宣布骑士的位置不可剥夺；勇敢之后紧接着是更深的溃口——他为当年抛下 Simon 而自责崩溃，直到被兄弟到场接住。Luna：从施暴者变成受害者叙事的守护者，拒绝任何折中，用一句诅咒收场——她拒绝让伤口愈合。Tybalt：守在妻子与这个家旁边，替 October 划线，也替她看住崩溃的 Sylvester。
+- **人物弧线**：October：从被指为一切祸首却克制着用身份与程序回应的"被告"，到摊牌时承认自己确实选择了责任、也失去了女儿，最后把答案交给时间与界限——她要的不是赢，而是让 Raysel 有空间痊愈。Sylvester：从站在妻子身后沉默的丈夫，到公开反驳妻子、宣布骑士的位置不可剥夺；勇敢之后紧接着是更深的溃口——他为当年抛下 Simon 而自责崩溃，直到被兄弟到场接住。Luna：从施暴者变成受害者叙事的守护者，拒绝任何折中，用一句诅咒收场——她拒绝让伤口愈合。Tybalt：守在妻子与这个家旁边，替 October 划线，也替她看住崩溃的 Sylvester。
 - **叙事手法**：单 POV 第一人称、两处场景（走廊—书房）的连续正面对撞戏；对峙之间插入一段十四年旧账的回忆独白，让私人创伤与眼前争吵互为注脚；转折靠"谁在什么样的音量里说什么话"完成，收尾交给配角的口述结算与一次轻巧的转场。
 
 ## 精读
@@ -42,7 +42,7 @@ modified: "2026-10-10"
 
 **为什么这样写**： 这一段把书名里的"责任"正面摊开，写法却是"先认罪、后辩解"：她第一句就替对方把指控接过一半——Gillian 说我选择了仙境、放弃了她，这话没错；第二句再把罪名钉在自己身上：我选择了责任，放弃了她。把这份承认说得足够干净，后面的辩解才立得住。接着是一个精确的划界："我不是说我的苦比她的更重"——两代人的创伤被放上同一架天平却不作比较，而唯一的事实性区分是：把她关进去的人不是我。段末两个短句像两次敲门：第一次陈述规则，第二次给出后果——强迫等于永远失去；全段于是从自白落成劝告，决定权被交回 Luna 手上。
 
-**读者视角提示**： 书名里的 duty 在这里被撕成两半：在 Luna 嘴里它是罪状，在 October 嘴里是"我确实选了它"。也留意这段话是对谁说——对 Luna，也对书房里那个一直沉默的人。
+**读者视角提示**： 书名里的 duty 在这里被撕成两半：在 Luna 嘴里它是罪状，在 October 嘴里是"我确实选了它"。也留意这段话是对谁说——对 Luna，也对站在她身后那个一直沉默的人。
 
 > **原句 4:** "“Luna,” said Sylvester again, more quietly this time, almost resigned. “Sir Daye is a knight of my household, and she has never done anything but honor her oaths, not even when it would have been easier for her to set them aside. Her service has been impeccable. It doesn’t matter whether you want her here. I want her here. She is my knight. You have no right to deny her place.”"
 

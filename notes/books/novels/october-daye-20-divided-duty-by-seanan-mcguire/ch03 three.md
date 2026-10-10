@@ -52,7 +52,7 @@ modified: "2026-10-10"
 
 **为什么这样写**： 重大消息由仆人之口说出：Raysel 即将"被接回"、府里已经在办庆典——这些不是领主郑重宣布的，而是先从厨房的 Melly 嘴里漏出来的。信息经由服务人员"当成家务事"的转述，反而更刺人：它已经被当作既成事实在推进了。语气做了三段滑坡：第一句公文腔（His Grace is arranging…），第二句转为邀请式的亲昵（我们可以连你一起庆祝），第三句索性是情感诉求（太久没回来走动、非常想念你）。制度语言与家常话在同一段里互相拆台：一场行政程序正以家庭的名义推行。她转述时保留了"独生女"这一称谓，随后 Sylvester 自己也用同样的措辞界定女儿——上下两方共用一套词，说明这套说辞已经成了府里的通行口径。
 
-**读者视角提示**： 注意 Melly 的犹豫是怎么被撬开的：她说这"不是我该讲的事"，被一句"Please."磨开了口——本章每个人都夹在两套忠诚之间。再注意她转述完公事后把话锋拧回私情的方式：后面的冲突里，"程序"与"感情"始终是两条对账线。
+**读者视角提示**： 注意 Melly 的犹豫是怎么被撬开的：一句"Please."只换来"不是我该讲的事"，真正撬开她的却是最后再叫一声"Melly."——本章每个人都夹在两套忠诚之间。再注意她转述完公事后把话锋拧回私情的方式：后面的冲突里，"程序"与"感情"始终是两条对账线。
 
 > **原句 5:** "“Raysel’s term of offense ends in three days,” he said. “My lady has asked me to arrange a celebration of her return. It begins tonight, to let people get the majority of their reveling out of the way. People need to burn off a little steam every now and again, as you well know.”"
 
