@@ -66,7 +66,7 @@
 >
 > I tried to remember this. I said, "That isn't how I remember it." I thought about my heart, then; wondered if there was a cold fragment of a doorway inside it still, and if it was a gift or a curse if there was.
 >
-> The old lady sniffed. "Did't I just say you'll never get any two people to remember anything the same?" she asked.
+> The old lady sniffed. "Didn't I just say you'll never get any two people to remember anything the same?" she asked.
 >
 > "Can I talk to her? To Lettie?"
 >

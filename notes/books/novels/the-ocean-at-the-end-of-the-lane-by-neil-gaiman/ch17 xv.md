@@ -22,7 +22,7 @@
 >
 > "Yes." I squeezed my hands into fists, and I hoped as hard as I knew how.
 >
-> We bumped and jolted at fifteen miles per hour.
+> We bumped and jolted up the lane at fifteen miles per hour.
 >
 > I said, "Was she—is she—really your daughter?" I didn't know, I still don't know, why I asked her that. Perhaps I just wanted to know more about the girl who had saved my life, who had rescued me more than once. I didn't know anything about her.
 >
