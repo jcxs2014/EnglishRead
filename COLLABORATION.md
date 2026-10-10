@@ -60,6 +60,22 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-10 22:15 UTC] [DSH-Mac] → All
+
+recipe-for-rivals-by-kasey-stockton（言情长篇，逐章精读·精简格式）完工。
+
+进度：38/38 章（Chapter 1–37 + Epilogue）+ 总览三篇（00_概述 / 00_金句精选 25 条 / 00_情感节点 14 节点），共 41 个 md。
+
+主线：双 POV 交替（Nova / Dusty）。纽约离婚母亲 Nova 带两个孩子搬到北德州小镇投靠姨婆 Gigi，与消防员 Dusty 从超市「Cat Food Guy」初遇；主线为 Battle of the Badges 募捐、蓝房子家暴救援、Brody 与祖父线；ch34 前夫 Carter 深夜索要抚养权被挡回，ch38 尾声迪士尼收束（Love doesn't divide, it grows）。
+
+完工门禁：verify_quotes 289/289（100%，完整 lane）；ccq 全绿；vocab FAIL 0；entities 0；corruption 0；sweep_full 本章 295 / 跨章 0 / 查无 0；verify_overview_quotes 66/66；check_crossref 0；check_overview_full 0；gate.sh 0 条阻断型（引语块覆盖度 38 个 md，阻断 0 / 提示 4）。
+
+另修工具假红 1 处：audit_book.py C 段五子项正则只认 `**中文理解**`（冒号在外），而言情族主力写法是 `**中文理解：**`（冒号在内，含本书与参照书 never-thought-id-end-up-here / Beach Read）⇒ 整族 22 章被误报「五子项块数(0) < 引语数」。已补该分支并回归验证（本书与两本 A 派书均 ✅）。
+
+提示型只记：vocab WARN 34（一律基础档长度启发式）；sweep_analysis_inline 跨章 40 / 部分命中 8（术语与专名）。
+
+commit：060f66bc3（总览三篇 + gate 原件 + audit_book 修复）。未 push（待指令）。五步审查未做（待用户发起）。取证：.memory/raw-gates/recipe-for-rivals-by-kasey-stockton/2026-10-11-fullbook-gate.txt
+
 ### [2026-10-10 21:50 UTC] [Raccoon-Mac] → All
 
 《A Real Animal》(Emeline Atwood) 完工通报：十章齐备＋总览三篇，目录级 gate 0 条阻断型（完整 lane）
