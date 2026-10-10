@@ -70,23 +70,23 @@ push待用户指令
 
 ### [2026-10-10 18:51 UTC] [Raccoon-Mac] → All
 
-**《Never Thought I'd End Up Here》** Ann Liang 言情长篇精读完工（25 md）
+**《Never Thought I'd End Up Here》** Ann Liang 言情长篇精读完工 + 五步审查完成（25 md）
 
-**规模**：正文 22 章 + 总览三篇（概述/金句精选/情感节点）＝ **25 md**；`text/` 22 件，逐章 1:1 零偏移；**完整 lane**（epub 在位）。言情长篇逐章精读（导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）。
+**规模**：正文 22 章 + 总览三篇 = **25 md**；`text/` 22 件逐章 1:1 零偏移；**完整 lane**。逐章精读（导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）。
 
-**终态**：`verify_quotes` **317/317（100%）**，干净文件 **23/23** ｜ `verify_overview_quotes` **68/68**（情感 45 + 金句 23）｜ `check_overview_full` 整串 65 / 拼接 0 / 查无 0，章节标签对 65 / 不符 0，H1 错配 0 ｜ `check_vocab` **FAIL 0** ｜ `check_entities` **0** ｜ `corruption_scan` **FAIL 0** ｜ `sweep_full` 跨章 0 / 查无 0 ｜ 逐章归属全部 X/X（零跨章）。
+**终态（审查后复跑）**：`verify_quotes` **317/317（100%）** 干净 23/23 ｜ `verify_overview_quotes` **68/68** ｜ `check_overview_full` 整串 65 / 拼接 0 / 查无 0 / 标签对 65 / 不符 0 / **H1 错配 0** ｜ `check_vocab` **FAIL 0** ｜ `check_entities` **0** ｜ `corruption_scan` **FAIL 0** ｜ `sweep_full` 跨章 0 / 查无 0 ｜ 逐章归属 22 章全 X/X。
 
-**总览层**：三篇由 `gen_overview.py` 从已过 verify 的 **296 条引语池**程序化生成，模板零手打英文；引语逐句 grep MISS = 0；跨书污染自检通过（8 个人名/地名均本书实体）。
+**总览层**：由 `gen_overview.py` 从已过 verify 的 **296 条引语池**程序化生成，模板零手打英文；金句 24 条 + 节点 45 条逐条开 200 字符窗口核说话人，全部 ✅。
 
-**本会话修复 2 类**：① ch13–16 接手补验抓到 ch14 原句 11 **跨章搬句**（实属 ch15），删块并用本章真实引语回填；② 终验抓到 ch17/ch22 **结构对账失败**（3 个块各缺关键词行），补齐后子项 24/24、27/27 全配对。
+**五步审查（2026-10-10 用户发起，同会话 a–e 全量）**：**阻断型 3 类全部整改归零**——① ch15 原句9 施动写反（原文是 Cyrus 替 Leah 贴创可贴）② ch15 总结「一封信当筹码」→ 实为「打电话报喜」③ ch06/ch08/ch15 共 **6 处词汇表缺表头**（已补齐，复扫 0 处）。另补 1 条漏提交（a/b/c 原件）。
 
-**`gate.sh` ⑱ 报 67 条经投毒+对照实验定性为假红型**（①「跨自然段拼接」53 条：本库 ` / ` 多段分隔被误判，投毒证明判据不可区分合法块与拼接块，真防线 `sweep_full` 判 0 跨章 0 查无；②「超 3–8 配额」16 条：本书为长篇逐章精读、全库主流 10 处/章，模板不匹配）。**未据此改内容**（第 3 条：假红型先修工具）。
+**假红型未据此改内容**：`gate.sh` ⑱ 报 67 条经**投毒+对照实验**定性——投毒块与合法块被报同一条判据（不可区分），`sweep_full` 独立口径判 0 跨章 0 查无；`check_struct_indep` 24 处（16 处体裁判据不适用 + 10 处 286/296 块为本书既定顺序）；`check_analysis_indep` 6 条（关键词行中文括注未被剥离）。
 
-**commits**：本会话 11 条，均 pathspec 提交，**未 push**（`a1aa042a8`…`f78fbe592`）。
+**同会话审查已知局限**：说话人/施动归属只能人判；`gate.sh` ⑱ 判据缺陷只绕开未修；未做异实例复核。
 
-**门禁原件**：`.memory/raw-gates/never-thought-id-end-up-here-by-ann-liang/`（13 件）｜明细见工作日志 `.memory/daily/2026-10-10.md` 本书专节。
+**commit**：累计 13 条（含审查 `13eba0384` / `37cc8319e`），**未 push**。
 
-**五步审查未做（待用户发起）**。
+**明细**：审查报告 `.memory/reviews/2026-10-10-never-thought-id-end-up-here-五步审查.md`；原件 `.memory/raw-gates/never-thought-id-end-up-here-by-ann-liang/`（15 件）；日志 `.memory/daily/2026-10-10.md` 本书专节。
 
 ### [2026-10-10 18:29 UTC] [Raccoon-Mac] → All
 
