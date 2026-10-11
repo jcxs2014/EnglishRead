@@ -20,9 +20,9 @@ modified: "2026-10-10"
 
 **关键词：** Take her · kill her
 
-**为什么这样写：** 开战令三词：Take her（拿下她，Ky 的命令）配 Meaning, kill her（意思是杀了她，Taj 的翻译）——"Ky’s seen Star kill before…But that was different"（见过杀，但那次不同）配"cold decision to end someone's life"（冷冰冰的结束生命的决定）——"I hesitate, but only for a moment"（犹豫，但只一瞬）配"would do for me in a second"（他们一秒都不会犹豫）——犹豫的时长即道德的余量，余量是一瞬。而"On my mark…Go"（听令、动手）——命令链：Ky 说、Taj 译、Star 落，落即"rock flung from a roof"（屋顶扔下的石头）。
+**为什么这样写：** 开战令三词：Take her（拿下她，Taj 接 Ky 问自答下令：Ky 只问"Can Star take the one on watch?"，Taj 直接下令）配 Meaning, kill her（意思是杀了她，自注）——"Ky’s seen Star kill before…But that was different"（见过杀，但那次不同）配"cold decision to end someone's life"（冷冰冰的结束生命的决定）——"I hesitate, but only for a moment"（犹豫，但只一瞬）配"would do for me in a second"（他们一秒都不会犹豫）——犹豫的时长即道德的余量，余量是一瞬。而"On my mark…Go"（听令、动手）——命令链：Ky 说、Taj 译、Star 落，落即"rock flung from a roof"（屋顶扔下的石头）。
 
-**读者视角提示：** "Take her. Meaning, kill her."是 Taj 的翻译官时刻（把 Ky 的"拿下"译成"杀"）。后文凡是 Ky 的短令，先看 Taj 的译文：译文比原文血腥一度；血腥度即战况（本章三死）。
+**读者视角提示：** "Take her. Meaning, kill her."是 Taj 的接令自注（Ky 只问"能不能拿下"，Taj 直接下令＋杀注）。后文凡是短令，先看下令人：下令人即负责人；血腥度即战况（本章三死）。
 
 > **原句 2:** "[Suggestion: I should have glider wings.]"
 

@@ -22,7 +22,7 @@ modified: "2026-10-10"
 
 **为什么这样写：** 开篇第一句就是全书的语气合同：第二人称的警告口吻（would venture），配一个马上要被自己违反的禁令——说这话的人此刻正站在 Heap 深处。这种"先立规矩再亲身打破"的结构让读者立刻知道两件事：这个地方有多危险，这个叙述者有多不把危险当回事。Heap（垃圾堆成的世界）连定义都不给，先给判决。
 
-**读者视角提示：** "Only an idiot would…"这个句式本章出现三次（进中心、当猎人、当booty猎人），是作者的排比钩子；每次出现都紧跟着一次自我打脸。后面再看到这个句式，直接当"她又要干蠢事了"的预告读。
+**读者视角提示：** "Only an idiot would…"这个句式本章出现三次（进中心、当猎人、Star 用 [Query] 复述），是作者的排比钩子；每次出现都紧跟着一次自我打脸。后面再看到这个句式，直接当"她又要干蠢事了"的预告读。
 
 > **原句 2:** "At any moment trash could start raining from the sky, a light shower of shattered concrete or chunks of steel the size of buildings."
 

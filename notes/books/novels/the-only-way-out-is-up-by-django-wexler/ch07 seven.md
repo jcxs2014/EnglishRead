@@ -22,7 +22,7 @@ modified: "2026-10-10"
 
 **为什么这样写：** 开场三连问，一句比一句信息量大：Gestian（人名）、du Freis（家族，带定冠词的复数姓）、Dreikin（workhouse 的 Dreikin？ch05 刚提过 Dreikin workhouse——名字复用，是巧合还是同一家？此处只记，不串）。"never have sent an assassin so incompetent"（绝不会派这么蹩脚的）是 Ky 式刻薄：拿 Taj 的命做排除法，顺手把她的业务能力也否了。三个名字一次抛出，Yesod 派系斗争的冰山一角，Taj（连人带 Star）误入的是"别人家的仇"。
 
-**读者视角提示：** 三个名字是 Yesod 线的总目录：Gestian（ch22 已预告有 thugs 的那位？不，ch22 还没读，此处只记名）。读到派系名先建名单，不急着连线；连线是后文的事。
+**读者视角提示：** 三个名字是 Yesod 线的总目录：Gestian（此处只记名）。读到派系名先建名单，不急着连线；连线是后文的事。
 
 > **原句 2:** "Then your toes. Then your cock, if you still won’t talk. And then I’ll figure out something even worse."
 
@@ -62,7 +62,7 @@ modified: "2026-10-10"
 
 **为什么这样写：** Ky 的质问是全章最正当的一句：aren't a lot of good reasons（没几个好理由，双重否定表肯定——即"没理由"）。Taj 的回答（"I didn't think anybody was living here"，我以为没人住）配"pat the half-full pack on my back"（拍拍半满的包），贼的诚实：动机纯粹（抢劫），误会纯粹（以为是空房）。"a girl's bedroom"（girl 的卧室）点出入侵的性别维度——两个当事人都是 girl，尴尬（blush）与危险（剑）同房，喜剧与惊悚同床。
 
-**读者视角提示：** "我以为是空房"是 Taj 本章的出庭陈述，前后共说三遍（对 Ky、对自己、对读者）。读到她的自我辩护，数遍数：说三遍的事，至少两遍是心虚。
+**读者视角提示：** "我以为是空房"是 Taj 本章的出庭陈述，前后共说两遍，都是对 Ky（一次是"没料到有人"，一次是"以为没人住"）。读到她的自我辩护，数遍数：说两遍的事，至少一遍是心虚。
 
 > **原句 6:** "What? Surprised that a Heaper has half a brain?"
 

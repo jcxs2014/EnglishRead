@@ -54,11 +54,11 @@ modified: "2026-10-10"
 
 **读者视角提示：** "push/insult/bait/swing"是 Clawmark→Gestian 的通用公式（Heap 经验 Hod 通用）。Taj 的"people are people"（人就是人）是 Tranto 家训的 Heap 版；读到公式，先套（Gestian 中了几条：全中），中即"bait"， bait 即"别上钩"，钩即决斗（斗即死，死即下一章没了，了即拦，拦即功）。
 
-> **原句 5:** "and once again I’m surprised how much I mean it."
+> **原句 5:** ""I’ll help you," I whisper back, and once again I’m surprised how much I mean it."
 
 **中文理解：** "而我又一次惊讶于自己有多当真。"
 
-**关键词：** once again · surprised · mean it
+**关键词：** I’ll help you · once again · surprised · mean it
 
 **为什么这样写：** "I'll help you"（我帮你杀，耳语）配 once again surprised（又一次惊讶）配 how much I mean it（多当真）——"once again"（又一次，上次是 ch22"Never"抛 Star？不，是"我留下"；上上次是"I'm in"ch13）——"whole manner is calculated to offend…fucking worked"（本章 Gestian 太欠，当真了）配"debt…chasing us out of Venci's"（旧账＋新仇）配"wipe that smile off his face"（撕笑脸）——"But not here"（不在这儿，地点）是全部理智，智即"jerky nod…limp…irritated look"（点头＋走＋敌不爽），爽即"gratified"（欣慰），慰即马车泪（下一段，哭即后怕，怕即"差点决斗"，斗即死，死即 Taj 刚救的命）。
 

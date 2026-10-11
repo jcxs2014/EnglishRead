@@ -80,7 +80,7 @@ modified: "2026-10-10"
 
 **关键词：** can’t pay · Rekas · Clawmarks
 
-**为什么这样写：** 赊账戏的真正价格不在配件，在这三个并列名词：Rekas（擂台主）、The Clawmarks（打手帮）、You understand（你明白吗——要她亲口认）。Ekkeban 连说三遍"你明白吗"，每遍语气加重（"Taj!"+"fixes me with his gaze"+"I like you"），黑市商人的"喜欢"在此现形：喜欢＝把丑话说三遍。短句之间全是句号，没有连词——还不上、找 Rekas、断手指，三件事之间没有"然后"，只有等号。
+**为什么这样写：** 赊账戏的真正价格不在配件，在这三个并列名词：Rekas（擂台主）、The Clawmarks（打手帮）、You understand（你明白吗——要她亲口认）。Ekkeban 连说两遍"你明白吗"，每遍语气加重（"Taj!"+"fixes me with his gaze"+"I like you"），黑市商人的"喜欢"在此现形：喜欢＝把丑话说两遍。短句之间全是句号，没有连词——还不上、找 Rekas、断手指，三件事之间没有"然后"，只有等号。
 
 **读者视角提示：** 这是 ch04 开战的全部赌注：赢＝还钱＋修腿，输＝Rekas＋断指。后文擂台每回合的紧张感都从这句赊账条款里支取；读到 Rekas/Clawmarks，先回这一句对账。
 

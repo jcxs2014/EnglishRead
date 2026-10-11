@@ -70,7 +70,7 @@ modified: "2026-10-10"
 
 **关键词：** have to · go back · Yesod
 
-**为什么这样写：** 全书第二幕的发令枪，轻得像商量（I think，我想），重得像判决（have to，不得不）。Yesod 在此之前只出现过两次（ch01 赶路目标、"Another possibility tickles"），一直是个地名；这句之后它是目的地。"I thought you promised never again"（我记得你保证过不再去）紧随其后——保证与食言之间只隔一句，Taj 的决定从不需要第二句。neutral 的语气下是"上次差点被抓"的全部重量。
+**为什么这样写：** 全书第二幕的发令枪，轻得像商量（I think，我想），重得像判决（have to，不得不）。Yesod 在此之前只出现过一次（ch02 开篇 fake sunlight 句），一直是个地名；"Another possibility tickles"是本章伏笔句（不含 Yesod，定名在后文"I think we have to go back to Yesod"）；这句之后它是目的地。"I thought you promised never again"（我记得你保证过不再去）紧随其后——保证与食言之间只隔一句，Taj 的决定从不需要第二句。neutral 的语气下是"上次差点被抓"的全部重量。
 
 **读者视角提示：** 这是 ch06–ch12 的总钩子：Yesod（上层、Arbiters 遍地、上次差点被抓）。凡后文出现 Yesod/Arbiters，先回 ch05:196–214 的恐怖说明；"保证不再去"的地方，就是一定要去的地方。
 

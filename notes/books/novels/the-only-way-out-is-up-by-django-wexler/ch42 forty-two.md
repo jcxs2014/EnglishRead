@@ -50,9 +50,9 @@ modified: "2026-10-10"
 
 **关键词：** pride
 
-**为什么这样写：** "quiet…fragile"（Taj：轻声＋脸皮薄？问）配 pride?（面子？反问）配 scoffs（嗤）——"didn't listen…dangerous…untold…duty…Tree…dwell…necessary"（法官：没听＋危险＋无量＋职责＋树＋住＋必要，义）——义即"cold smile…pride…after all…win…rolls…family…mercy…word…Fine…Now…circle…barrier…within…It…box…optics…large…hum…blue…examine"（笑＋ roll ＋诺＋圈＋箱，全套，套即"flare…fresh caught…Twisted…laughing…bug hunt…Zapper…violent…caroming…ballet…centipede…mantis…optics…apart…Affirmative…nimbly…scissorlike…twitching…mistaken…RESISTs…effective…dances…slowed…Zapper…end"，怪＋拆，拆即宕机，机即"stumbles…locking…pry…REPEL…flings…wobbling…strange…Hear…Stop…smiling…slurs…talking"，话即——战！）。
+**为什么这样写：** Taj 前问（"quiet…fragile"：轻声＋脸皮薄）→ 法官反问（pride?：面子？）＋嗤（scoffs）——"didn't listen…dangerous…untold…duty…Tree…dwell…necessary"（法官：没听＋危险＋无量＋职责＋树＋住＋必要，义）——义即"cold smile…pride…after all…win…rolls…family…mercy…word…Fine…Now…circle…barrier…within…It…box…optics…large…hum…blue…examine"（笑＋ roll ＋诺＋圈＋箱，全套，套即"flare…fresh caught…Twisted…laughing…bug hunt…Zapper…violent…caroming…ballet…centipede…mantis…optics…apart…Affirmative…nimbly…scissorlike…twitching…mistaken…RESISTs…effective…dances…slowed…Zapper…end"，怪＋拆，拆即宕机，机即"stumbles…locking…pry…REPEL…flings…wobbling…strange…Hear…Stop…smiling…slurs…talking"，话即——战！）。
 
-**读者视角提示：** "pride?"是 Taj 的质问（脸皮？问即"scoffs"，嗤即"duty…Tree"，责即树，树即——战！）。"cold smile…after all"（Taj 判：还是面子，子即——打！）；读到质问，先看诺（"mercy…word"，恩＋名，名即——战！战即圈，圈即蓝墙，墙即——怪！）。
+**读者视角提示：** "pride?"是法官的反问＋嗤笑（脸皮？嗤即"scoffs"，即"duty…Tree"，责即树，树即——战！）。"cold smile…after all"（Taj 判：还是面子，子即——打！）；读到质问，先看诺（"mercy…word"，恩＋名，名即——战！战即圈，圈即蓝墙，墙即——怪！）。
 
 > **原句 5:** "“If Taj wins, all the honors and privileges of the victor are his. If he loses, Star is forfeit.”"
 

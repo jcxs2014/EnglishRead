@@ -84,7 +84,7 @@ modified: "2026-10-10"
 
 **读者视角提示：** 这是 Somi 瞒报案的结案陈词：瞒＝怕她去送死。后文两人和解的钥匙在此（"I could have done something"（Somi）对"Anger gets you killed"（Taj 判语））；读到模仿秀别只笑，笑完找预言。
 
-> **原句 8:** "“Why is that so fucking hard?”"
+> **原句 8:** "“I just don’t want to lose anyone else, Taj,” Somi says. “Why is that so fucking hard?”"
 
 **中文理解：** ""我只是不想再失去谁，这怎么就这么难？""
 

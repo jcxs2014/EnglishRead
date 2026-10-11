@@ -24,7 +24,7 @@ modified: "2026-10-10"
 
 **读者视角提示：** "safe place"是 Taj 的全部（ch33"everything"注脚本章重申）。"ticket…dream"（票＋梦）是闲笔（去不去另说）；读到愿望，先看作坊（修吗），修即"can't help myself"（忍不住），住即爱（爱机＋爱家，家即 Somi＋Spike＋Star？塔即"introduce properly"，约即夜话，话即"miss"，思即下一段）。
 
-> **原句 2:** "All I’ve got to do is run away from him"
+> **原句 2:** "All I’ve got to do is run away from him; he’s big, but I can be quicker."
 
 **中文理解：** "我要做的就是跑，躲开他。"
 

@@ -66,11 +66,11 @@ modified: "2026-10-10"
 
 > **原句 6:** "This is what I mean about the Twisted being stupid. A human—even an animal—would quickly figure out that someone is playing games with them."
 
-**中文理解：** "我说的 Twisted 蠢就是这意思。是个人——是条狗——都早该发现有人在耍它了。"
+**中文理解：** "我说的 Twisted 蠢就是这意思。是个人——是头野兽——都早该发现有人在耍它了。"
 
 **关键词：** being stupid · figure out · playing games
 
-**为什么这样写：** 屠龙理论总结：stupid（蠢，定语）配 figure out（识破，人狗都会）配 playing games（耍，战术）——"isn't a real thing…bag of murderous impulses…crude network…responds to stimuli"（不是真东西，是杀意袋＋糙网络＋刺激反应）——"same stimulus…same way"（同刺激同反应）即"可预测"，可预测即"SOUND 诱饵有效五次"，五次即"deafened"（聋了，第六次失效，失效即 Ky 拔剑，拔剑即"severed limbs"，人补位）。而"timing has to be right"（时机得对）配"stitches tear"（岔气）——对即"three fingers, then two. Then one."（三二一，数数），数数即"tug"（拽，五雷齐爆）。
+**为什么这样写：** 屠龙理论总结：stupid（蠢，定语）配 figure out（识破，人兽都会）配 playing games（耍，战术）——"isn't a real thing…bag of murderous impulses…crude network…responds to stimuli"（不是真东西，是杀意袋＋糙网络＋刺激反应）——"same stimulus…same way"（同刺激同反应）即"可预测"，可预测即"SOUND 诱饵有效五次"，五次即"deafened"（聋了，第六次失效，失效即 Ky 拔剑，拔剑即"severed limbs"，人补位）。而"timing has to be right"（时机得对）配"stitches tear"（岔气）——对即"three fingers, then two. Then one."（三二一，数数），数数即"tug"（拽，五雷齐爆）。
 
 **读者视角提示：** "stupid＝predictable＝killable"是屠龙公式（ch24 火论的实战版）。"the same stimulus and it responds the same way"即 SOUND 诱饵的原理；读到"蠢"，即战机，战机即"数三二一"，数完即"Boom"（下一段）。
 
