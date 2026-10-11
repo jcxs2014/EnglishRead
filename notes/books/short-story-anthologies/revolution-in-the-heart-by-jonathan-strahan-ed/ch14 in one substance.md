@@ -18,7 +18,7 @@ source_text: ch14
 
 **表达方式**：这是全篇的**核心定义**，也是全篇的**钥匙**。`separations of time from truth` 是全篇**最关键的隐喻**：**"故事"不是"真相"的忠实记录，而是"时间与真相的分离"**——**它被"烘烤成不自然形状"（人为扭曲）**。`Stories are porous` 是全篇**最核心的形容词**：**"多孔"意味着"可渗透/可感染"**——**故事能"渗入"（bleed into）身体、建筑、世界**——**这是全篇的科幻设定基础**（Vissin 通过"故事/记忆"传播）。`corrupted and precious, hopeful and beautiful` 是全篇**最精妙的矛盾组合**：**"被腐蚀"与"珍贵"、"希望"与"美丽"**——**故事既是"腐蚀的"（不真）也是"珍贵的"（有意义的）**。
 
-**为什么这样写**：这是全篇的**核心定义**，也是全篇的**钥匙**。`porous` 是全篇**最关键的形容词**：**它解释了后文 Vissin 为何能通过"故事/记忆"传播**——**Vissin 是"多孔"的**，**它"渗入"（bleed into）了 Vissians 的身体、记忆、建筑、乃至 Eeda 的血液（结尾揭示 Eeda 体内没有 Viss）**。`corrupted and precious, hopeful and beautiful` 是全篇**最精妙的矛盾组合**：**这呼应结尾（原句 12）"stories are porous... take these stories with you"**——**即使故事是"被腐蚀"的（Fleckno 的血统是假的），它仍然"珍贵"（有意义的）**。`They can grow within or without you` 是全篇**最重要的设定**：**故事/记忆既能"在你体内生长"（Vissin 的记忆）也能"在你体外生长"（chay 的技术）**——**这是全篇"两种生命形式"的核心区分**。
+**为什么这样写**：这是全篇的**核心定义**，也是全篇的**钥匙**。`porous` 是全篇**最关键的形容词**：**它解释了后文 Vissin 为何能通过"故事/记忆"传播**——**Vissin 是"多孔"的**，**它"渗入"（bleed into）了 Vissians 的身体、记忆、建筑、乃至 Eeda 的血液（结尾揭示 Eeda 体内没有 Viss）**。`corrupted and precious, hopeful and beautiful` 是全篇**最精妙的矛盾组合**：**这呼应结尾（原句 11）"stories are porous... take these stories with you"**——**即使故事是"被腐蚀"的（Fleckno 的血统是假的），它仍然"珍贵"（有意义的）**。`They can grow within or without you` 是全篇**最重要的设定**：**故事/记忆既能"在你体内生长"（Vissin 的记忆）也能"在你体外生长"（chay 的技术）**——**这是全篇"两种生命形式"的核心区分**。
 
 ---
 
@@ -46,7 +46,7 @@ source_text: ch14
 
 **表达方式**：这是全篇**最核心的政治质问**，也是 Eeda 的任务核心。`Could peace be traded?` 是全篇**最重要的反问**：**它把"和平"当作"可交易商品"**——**这是"首都"的世界观**。`bought and paid for` 是全篇**最刺骨的商业词汇**：**"和平"不是"建立"而是"购买"**——**这与原句 2 的 "deals, and costs, and prices paid" 直接呼应**。`with whatever the Capital had to offer` 是全篇**最冷酷的工具化**：**"首都"愿意用"任何东西"来换取"和平"**——**但"和平"真的能"用任何东西"换取吗？** 这也暗示**Eeda 最终用"血"（blood）来换取"故事/真相"**——**这是一种"交易和平"的尝试**。
 
-**为什么这样写**：这是全篇**最核心的政治质问**，也是理解 Eeda 处境的关键。`Could peace be traded?` 是全篇**最重要的反问**：**它既是"任务"（capital 的指令），也是"主题"（故事的问题）**——**全篇的核心就是"和平/真相/记忆能否被交易"**。`bought and paid for` 是全篇**最刺骨的商业词汇**：**它呼应原句 2 的殖民逻辑**——**"首都"不相信"和平"是"共建"的，而相信它是"买卖"的**。这也为后文 Eeda 用"血"交易（原句 6）埋下伏笔：**她自己也陷入了"交易"的逻辑**——**但她最终意识到"和平/真相"不能"买"，只能"带走"（take these stories with you）**。
+**为什么这样写**：这是全篇**最核心的政治质问**，也是理解 Eeda 处境的关键。`Could peace be traded?` 是全篇**最重要的反问**：**它既是"任务"（capital 的指令），也是"主题"（故事的问题）**——**全篇的核心就是"和平/真相/记忆能否被交易"**。`bought and paid for` 是全篇**最刺骨的商业词汇**：**它呼应原句 2 的殖民逻辑**——**"首都"不相信"和平"是"共建"的，而相信它是"买卖"的**。这也为后文 Eeda 用"血"交易（"4. We Trade"段）埋下伏笔：**她自己也陷入了"交易"的逻辑**——**但她最终意识到"和平/真相"不能"买"，只能"带走"（take these stories with you）**。
 
 ---
 
@@ -60,7 +60,7 @@ source_text: ch14
 
 **表达方式**：这是全篇**最沉痛的父女对话**，也是 Eeda 的动机核心。`There is no victory big enough to make a dent in their history` 是全篇**最刺骨的历史观**：**父亲认为 Eeda 无论取得什么成就，都无法与祖先 Fleckno 相比**——**因为 Fleckno 的"胜利"太大了**。`You're not your great-grandfather` 是全篇**最直接的否定**：**它既是对 Eeda 的"打击"，也是对她的"释放"**——**她不需要"复制"祖先**。`You're only attempting to conquer your own fear` 是全篇**最精辟的心理诊断**：**父亲看穿了 Eeda 的动机**——**她不是想"为首都赢"，而是想"证明自己"**——**而这源于童年被"恐惧控制"的经历**。
 
-**为什么这样写**：这是全篇**对 Eeda 动机的最深解剖**。`For the Capital?` 是全篇**最关键的反问**：**父亲问"为谁而战"**——**这是全篇的核心问题**：**Eeda 是为"首都"（殖民）还是为"自己"（证明）？** `conquer your own fear` 是全篇**最关键的心理动机**：**呼应开篇 Eeda 的童年记忆（被炸弹攻击后"恐惧控制了"她）**——**她进入政界是因为"其他东西都吓不倒我"（Because nothing else scares me）**。`You're not your great-grandfather` 是全篇**最关键的否定**：**它既是对 Eeda 的"打击"，也是对她的"释放"**——**她不需要"复制"祖先**。这也为结尾的揭示（原句 13：Eeda 不是 Fleckno 的后代）埋下伏笔：**父亲的直觉是对的**——**Eeda 从来就不是"伟大的祖先"的继承人**。
+**为什么这样写**：这是全篇**对 Eeda 动机的最深解剖**。`For the Capital?` 是全篇**最关键的反问**：**父亲问"为谁而战"**——**这是全篇的核心问题**：**Eeda 是为"首都"（殖民）还是为"自己"（证明）？** `conquer your own fear` 是全篇**最关键的心理动机**：**呼应开篇 Eeda 的童年记忆（被炸弹攻击后"恐惧控制了"她）**——**她进入政界是因为"其他东西都吓不倒我"（Because nothing else scares me）**。`You're not your great-grandfather` 是全篇**最关键的否定**：**它既是对 Eeda 的"打击"，也是对她的"释放"**——**她不需要"复制"祖先**。这也为结尾的揭示（原句 11：Eeda 不是 Fleckno 的后代）埋下伏笔：**父亲的直觉是对的**——**Eeda 从来就不是"伟大的祖先"的继承人**。
 
 ---
 
@@ -116,7 +116,7 @@ source_text: ch14
 
 **表达方式**：这是全篇**最沉痛的一段**，也是全篇的"种族灭绝"核心。`Their memories were fading` 是全篇**最核心的悲剧**：**Vissians 不是"被杀"，而是"被遗忘"**——**这是最彻底的灭绝**。`Memories of the stars, the societies, the languages that enriched them, the civilisations that had been met and cherished` 是全篇**最动人的排比**：**它列举了 Vissians 正在失去的一切**——**群星、社会、语言、文明**——**这些是"知识"的具体形态**。`The Vissin was losing itself, while the chay grew stronger` 是全篇**最精妙的对立运动**：**Vissin（知识/记忆）在消失，chay（技术/控制）在增长**——**这是全篇的核心张力**。`struck catatonic by its loss` 是全篇**最沉痛的结局**：**失去记忆的人"陷入紧张性精神僵直"**——**这不是"死亡"而是"失去自我"**。
 
-**为什么这样写**：这是全篇**最沉痛的一段**，也是全篇的"种族灭绝"核心。`Their memories were fading` 是全篇**最核心的悲剧**：**Vissians 不是"被杀"，而是"被遗忘"**——**这是最彻底的灭绝**。`The Vissin was losing itself, while the chay grew stronger` 是全篇**最精妙的对立运动**：**Vissin（知识/记忆）在消失，chay（技术/控制）在增长**——**这是全篇的核心张力**。`struck catatonic by its loss` 是全篇**最沉痛的结局**：**失去记忆的人"陷入紧张性精神僵直"**——**这不是"死亡"而是"失去自我"**。这也呼应开篇的"Stories are memories, corrupted and precious"（原句 1）：**记忆是 Vissians 的"生命"——失去记忆就是失去生命**。这也为结尾的"take these stories with you"（原句 12）埋下伏笔：**Eeda 带走"故事"，就是带走"记忆"**——**这是对 Vissians 最后的救援**。
+**为什么这样写**：这是全篇**最沉痛的一段**，也是全篇的"种族灭绝"核心。`Their memories were fading` 是全篇**最核心的悲剧**：**Vissians 不是"被杀"，而是"被遗忘"**——**这是最彻底的灭绝**。`The Vissin was losing itself, while the chay grew stronger` 是全篇**最精妙的对立运动**：**Vissin（知识/记忆）在消失，chay（技术/控制）在增长**——**这是全篇的核心张力**。`struck catatonic by its loss` 是全篇**最沉痛的结局**：**失去记忆的人"陷入紧张性精神僵直"**——**这不是"死亡"而是"失去自我"**。这也呼应开篇的"Stories are memories, corrupted and precious"（原句 1）：**记忆是 Vissians 的"生命"——失去记忆就是失去生命**。这也为结尾的"take these stories with you"（原句 10）埋下伏笔：**Eeda 带走"故事"，就是带走"记忆"**——**这是对 Vissians 最后的救援**。
 
 ---
 
@@ -130,7 +130,7 @@ source_text: ch14
 
 **表达方式**：这是全篇**最精妙的结构设计**，也是全篇对"故事"的核心呈现。`In one version... In another version...` 是全篇**最关键的叙述手法**：**它揭示了"故事"的本质——不是"真相"而是"版本"**——**这正是开篇"Stories are separations of time from truth"（原句 1）的呈现**。`the last ambassador between two forms of life that are losing each other` 是全篇**最动人的同位语**：**Fleckno 的骨头被 Vissin 持有，永远充当"最后的大使"**——**这是全篇对"中介/翻译"的悲剧性呈现**。`confined by their own invention` 是全篇**最刺骨的讽刺**：**Fleckno 用 chay 囚禁了 Vissin，最终被"自己的发明"囚禁**——**这是全篇对"科技伦理"的最深批判**。`A terrible ending, which may yet have been a beginning` 是全篇**最精妙的收束**：**它暗示"死亡/流放"可能也是"开始"**——**这正是全篇的主题：故事/记忆/生命可以"重新开始"**。
 
-**为什么这样写**：这是全篇**最精妙的结构设计**，也是全篇对"故事"的核心呈现。`In one version... In another version...` 是全篇**最关键的叙述手法**：**它揭示了"故事"的本质——不是"真相"而是"版本"**——**这正是开篇"Stories are separations of time from truth"（原句 1）的呈现**。`the last ambassador between two forms of life that are losing each other` 是全篇**最动人的同位语**：**Fleckno 的骨头被 Vissin 持有，永远充当"最后的大使"**——**这是全篇对"中介/翻译"的悲剧性呈现**。`confined by their own invention` 是全篇**最刺骨的讽刺**：**Fleckno 用 chay 囚禁了 Vissin，最终被"自己的发明"囚禁**——**这是全篇对"科技伦理"的最深批判**。`A terrible ending, which may yet have been a beginning` 是全篇**最精妙的收束**：**它暗示"死亡/流放"可能也是"开始"**——**这正是全篇的主题：故事/记忆/生命可以"重新开始"**。这也为结尾的揭示（原句 13）埋下伏笔：**"Fleckno"的血统可能是假的，但"故事"是真实的**。
+**为什么这样写**：这是全篇**最精妙的结构设计**，也是全篇对"故事"的核心呈现。`In one version... In another version...` 是全篇**最关键的叙述手法**：**它揭示了"故事"的本质——不是"真相"而是"版本"**——**这正是开篇"Stories are separations of time from truth"（原句 1）的呈现**。`the last ambassador between two forms of life that are losing each other` 是全篇**最动人的同位语**：**Fleckno 的骨头被 Vissin 持有，永远充当"最后的大使"**——**这是全篇对"中介/翻译"的悲剧性呈现**。`confined by their own invention` 是全篇**最刺骨的讽刺**：**Fleckno 用 chay 囚禁了 Vissin，最终被"自己的发明"囚禁**——**这是全篇对"科技伦理"的最深批判**。`A terrible ending, which may yet have been a beginning` 是全篇**最精妙的收束**：**它暗示"死亡/流放"可能也是"开始"**——**这正是全篇的主题：故事/记忆/生命可以"重新开始"**。这也为结尾的揭示（原句 11）埋下伏笔：**"Fleckno"的血统可能是假的，但"故事"是真实的**。
 
 ---
 

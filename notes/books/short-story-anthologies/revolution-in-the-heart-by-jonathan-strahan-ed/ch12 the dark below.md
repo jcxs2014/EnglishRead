@@ -46,7 +46,7 @@ source_text: ch12
 
 **表达方式**：这是全篇**最沉痛的"因果"句**，也是气候变化主题的核心。`nothing there but a thick blanket of snow` 是全篇**最直接的对比**：**"几年前"与"现在"的环境天差地别**。`winters milder than at any known period in human history` 是全篇**最刺骨的科学陈述**：**这是全球变暖的直接后果**。`It occurred to him that if the campsite had been there seven years ago, his brother would be alive today` 是全篇**最令人心碎的虚拟句**：**Gaurav 第一次"算"出一笔账**——**气候变化不仅是一个抽象议题，它直接导致了 Kedar 的死亡**。
 
-**为什么这样写**：这是全篇对**"气候变化与个人命运"**的核心呈现。`difficult to traverse in summer, impenetrable in winter` 是全篇**最重要的"前状况"**：**七年前这片冰川是"难以进入"的**——**所以 Kedar 遇难后，救援队无法及时到达**（后文揭示：7 年暴风雪让救援失败，裂隙合拢）。`winters milder than at any known period in human history` 是全篇**最直接的"科学事实"**：**Vandana Singh 用具体的气候数据作背景**。`It occurred to him` 是全篇**最关键的语气**：**这不是"愤怒"，而是"突然的领悟"**——**Gaurav 一直把 Kedar 的死归咎于"山"，现在他意识到"山"也在变化**。`if the campsite had been there... would be alive today` 是全篇**最沉痛的虚拟句**：**它既是对 Kedar 的悼念，也是对"如果人类早点行动"的遗憾**。
+**为什么这样写**：这是全篇对**"气候变化与个人命运"**的核心呈现。`difficult to traverse in summer, impenetrable in winter` 是全篇**最重要的"前状况"**：**七年前这片冰川是"难以进入"的**——**所以 Kedar 遇难后，救援队无法及时到达**（后文揭示：一场持续一周的暴风雪让救援失败，裂隙合拢）。`winters milder than at any known period in human history` 是全篇**最直接的"科学事实"**：**Vandana Singh 用具体的气候数据作背景**。`It occurred to him` 是全篇**最关键的语气**：**这不是"愤怒"，而是"突然的领悟"**——**Gaurav 一直把 Kedar 的死归咎于"山"，现在他意识到"山"也在变化**。`if the campsite had been there... would be alive today` 是全篇**最沉痛的虚拟句**：**它既是对 Kedar 的悼念，也是对"如果人类早点行动"的遗憾**。
 
 ---
 

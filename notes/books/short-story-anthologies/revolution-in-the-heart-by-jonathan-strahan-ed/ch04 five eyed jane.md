@@ -32,7 +32,7 @@ source_text: ch04
 
 **表达方式**：Leckie 用**档案/书信体**插入一段"人类学报告"。这种"引文中的引文"（叙述者引用人类学家的信）制造了三重视角：五眼猫叙述者 → 人类学家 → 读者。人类学家自诩"objective report"（见原句 3），但他的措辞 `savagery`、`doomed` 已经带上了道德评判。
 
-**为什么这样写**：这是全书对"善意殖民者"最精准的解剖。人类学家自认在"客观记录"，却用 `savagery` 这个词——这正是殖民话语的典型特征：用"文明/野蛮"二元框架观察他者，而看不到他自己正是这场"野蛮"的共谋者（他读不懂五眼被歧视的真正原因，见原句 13）。
+**为什么这样写**：这是全书对"善意殖民者"最精准的解剖。人类学家自认在"客观记录"，却用 `savagery` 这个词——这正是殖民话语的典型特征：用"文明/野蛮"二元框架观察他者，而看不到他自己正是这场"野蛮"的共谋者（他读不懂五眼被歧视的真正原因——那其实关乎他们对瓜的贡献）。
 
 ---
 
@@ -46,7 +46,7 @@ source_text: ch04
 
 **表达方式**：`their disapproval absolutely came through` 用副词 `absolutely` 强调——叙述者点破"客观"只是假象。这是全书对"学院派殖民"的第三重批判：人类学家的报告看似中立，实则是行动的直接催化剂。
 
-**为什么这样写**：这句把"阅读/观察"与"干预"连成因果链。人类学家自认只是在"understand (and report)"，但他的报告引发了"something must be done"——而"something"最终变成把人关进笼子做医学扫描、把垃圾回收做成生意（见原句 10/12）。Leckie 借此揭示：**善意的、学术式的"帮助他者"，往往就是殖民的另一种形式**。
+**为什么这样写**：这句把"阅读/观察"与"干预"连成因果链。人类学家自认只是在"understand (and report)"，但他的报告引发了"something must be done"——而"something"最终变成把人关进笼子做医学扫描、把垃圾回收做成生意（见原句 10）。Leckie 借此揭示：**善意的、学术式的"帮助他者"，往往就是殖民的另一种形式**。
 
 ---
 
@@ -136,7 +136,7 @@ source_text: ch04
 
 > **原句 10:** "“Someone said to me, yesterday, that they wanted to come to my town and teach us about sanitation. Did they mean they want to make us pay money for them to take away our trash, so they can sell whatever they find in it, and pay us barely enough to live to do that work for them?” Work that, of course, Jane and her aunts and cousins already did, and prospered by doing."
 
-**中文理解**：开卡车的五眼老人对简说："昨天有人告诉我，他们想来我们镇上教我们卫生。他们是不是想让我们付钱，让他们把我们的垃圾拉走，好卖掉他们在里面找到的东西，然后再付给我们刚好够活命的钱，让我们替他们干这个活？"而这活儿，简和她的姨妈们、表亲们本来就在做，而且靠它过得很富足。
+**中文理解**：简反问道："昨天有人告诉我，他们想来我们镇上教我们卫生。他们是不是想让我们付钱，让他们把我们的垃圾拉走，好卖掉他们在里面找到的东西，然后再付给我们刚好够活命的钱，让我们替他们干这个活？"而这活儿，简和她的姨妈们、表亲们本来就在做，而且靠它过得很富足。
 
 **句子结构**：一段反问独白，`Did they mean they want to...` 用一个长问句拆解"卫生课"的真实成本：`make us pay money` → `to take away our trash` → `so they can sell whatever they find in it` → `and pay us barely enough to live to do that work for them` ——四层因果链一气呵成。末句 `Work that, of course, Jane and her aunts and cousins already did, and prospered by doing.` 是无引号的叙述者旁注，用 `of course` 补上反讽。
 

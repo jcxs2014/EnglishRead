@@ -36,17 +36,17 @@ source_text: ch07
 
 ---
 
-> **原句 3:** "She uncapped her water and took a long swallow, concentrating on the cool of it as it went down, the slight metallic tang, the smooth surface of the bottle in her hand. This water and this vessel tasted like that of no other place in her memory, and as she was still learning to do with all things, she bound them there."
+> **原句 3:** "Neyla had left her bag and water bottle in the shade of the leggy pines. Wimsey was sleeping there on the cooler ground, stretched on his side. She flopped down beside the dog and rested her hand on his blond flank. He tolerated it for a few seconds before shifting out from under its weight."
 
-**中文理解**：她拧开水壶盖，喝了一大口，专注地感受水滑下喉咙时的凉意、那淡淡的金属味、以及手里瓶身光滑的表面。这水和这个容器，尝起来像她记忆里任何一个地方都不曾有过的味道；而由于她还在学着对所有事物做这件事，她把它们绑定在了那里。
+**中文理解**：内拉把包和水瓶留在细长松树的阴凉里。威姆西正睡在更凉快的地面上，侧身舒展着。她扑到狗身边，把手放在他金黄色的侧腹上。他忍了几秒钟，才挪开身。
 
-**句子结构**：`concentrating on the cool of it as it went down, the slight metallic tang, the smooth surface` 用现在分词 `concentrating` 引导三个并列的名词短语，**把喝水拆解成具体的感官细节**。`This water and this vessel tasted like that of no other place in her memory` 用 `that of` 替代重复的名词，`like that of no other place` 是**最高级的否定形式**（没有其他地方比得上）。`as she was still learning to do with all things, she bound them there` 用 `as` 引导时间状语，`bound`（绑定）是过去式，`them` 指代前面的感官细节。
+**句子结构**：`Neyla had left her bag and water bottle in the shade` 用过去完成时 `had left` 交代先发生的事（离开包和水瓶）。`Wimsey was sleeping there on the cooler ground, stretched on his side` 用过去进行时 `was sleeping` 描写狗的静止状态，`stretched on his side` 是过去分词短语作伴随状语。`She flopped down beside the dog` 用 `flopped down`（扑倒/摊开）这个口语动词，**暗示她身体的疲惫**。`rested her hand on his blond flank` 用 `rested`（轻轻搁置）表**有意的、温柔的触碰**。`He tolerated it for a few seconds before shifting out from under its weight` 用 `tolerated`（容忍）拟人化地写狗的耐心，`before shifting out from under its weight` 用 `shifting` 表**逐渐的、不打断的挪动**。
 
-**关键词**：uncapped（拧开盖子）；long swallow（一大口）；tang（金属味/余味）；vessel（容器——比 bottle 更文学）；bound them there（把它们绑定在此处——全文的关键动词）；memory（记忆）。
+**关键词**：in the shade（在阴凉处）；leggy pines（细长的松树）；cooler ground（更凉的地面）；stretched on his side（侧身舒展）；flopped down（扑倒/摊开）；rested her hand（搁置她的手）；blond flank（金黄色的侧腹）；tolerated（容忍）；shifting out（挪开）；under its weight（在它身下）。
 
-**表达方式**：这一段是全篇**修行方法论的直接展示**。`concentrating on the cool of it... the slight metallic tang, the smooth surface` 用三个并列的具体感官把"喝水"从日常动作升华为**冥想式的记录**。`This water and this vessel tasted like that of no other place` 是全篇最重要的断言：**Neyla 相信感官细节是独一无二的地点指纹**。`she bound them there`（她把它们绑定在那里）是核心概念——`bound`（绑定）暗示这是一种**主动的、有意的记忆训练**，而非被动怀旧。
+**表达方式**：这一段是**内拉身体疲惫与亲近自然的直接呈现**。`flopped down beside the dog` 是全篇最**口语化、最不设防**的动作——`flopped` 暗示她累得不顾仪态。`rested her hand on his blond flank` 用 `rested` 表**有意的温柔**，`blond flank`（金黄色的侧腹）是全篇对威姆西最**细腻的描写**。`He tolerated it for a few seconds before shifting out` 是全篇最**有节制的人狗默契**——`tolerated` 给狗以**人格化的耐心**，`shifting out from under its weight` 则避免任何戏剧化的"拒绝"。
 
-**为什么这样写**：这是全篇的**关键设定揭示**。`she was still learning to do with all things` 表明这不是自然发生的，而是一项**正在练习的技术**。`bound them there` 为结尾的 journey（原句 8）埋下伏笔：Neyla 之所以能跳回 Toulouse，是因为她早在多年前就把那个地方的感官细节**刻意绑定**在了记忆中。Pinsker 用 `tang`（金属味）、`smooth surface`（光滑表面）这种**最容易被忽略的细节**，暗示真正的超越不在于记住宏大的事件，而在于**记住最平凡、最具体的感官**。这呼应原句 9 的 `It was never about "good"`——修行不是追求"好"，而是精确地记住"此地"。
+**为什么这样写**：这是全篇对**内拉"扎根此地"的最直观呈现**。她放下包、扑到狗身边，说明她不是"看守"而是**真正住在哨岗的人**——威姆西不是工作犬，而是她的陪伴。`flopped down` 与 `rested her hand` 是**松弛与亲近**，与后文她"随时准备被打断"（`only to be interrupted`）形成对照：**她的平静是短暂的，访客随时到来**。`He tolerated it... before shifting out` 是全篇最**克制的"离开"预演**——**狗容忍她片刻便挪开，正像内拉后来也要容忍访客、再后来也要"离开"**（呼应结尾她回到 Toulouse）。这为原句 8 `The good times rolled` 与结尾的"回到她记忆中的地方"埋下伏笔：**她真正拥有的，不是土地，而是这片土地上与人、与狗的片刻亲近**。
 
 ---
 
@@ -60,7 +60,7 @@ source_text: ch07
 
 **表达方式**：这一段是**人物互动的机智开场**，也确立了 Julián 的伪装与 Neyla 的洞察。`She could have sized him up silently, but it was more fun to do it out loud` 是 Neyla 性格的展现——**她不是被动的观察者，而是主动的游戏者**。她用一个"排除法"把 Julián 归为"学者"，但他自嘲说是"alien fan"（外星人粉丝），并借用《X 档案》名句 `"truth is out there"` 自黑。`Sorry I don't look the part`（抱歉我不像）是关键的**表演性语言**——他承认自己"看起来不像"，这恰恰是侦探的伪装。
 
-**为什么这样写**：这一段同时完成**两件事**：一是建立 Neyla 与 Julián 的关系基调（机智、互相试探、但不敌意），二是**为结尾揭示埋下伏笔**。Julián 自称"alien fan"和"reporter"（原句 7 的对话），但 Neyla 始终"didn't believe him"（她后来确认"你不是记者"）。`My "truth is out there" T-shirt is in the wash` 是**双关**：既是"我不像粉丝"的借口，也是"真相/外星人"主题的呼应。Pinsker 让一个外星人飞地的守护者与一个自称"真相就在那里"的人对话，**把科幻的"揭露真相"与修行的"守护日常"并置**——Neyla 的答案不是"真相"，而是"我在这里工作"。
+**为什么这样写**：这一段同时完成**两件事**：一是建立 Neyla 与 Julián 的关系基调（机智、互相试探、但不敌意），二是**为结尾揭示埋下伏笔**。Julián 自称"alien fan"和"reporter"（Neyla 与他的对话中），但 Neyla 始终"didn't believe him"（她后来确认"你不是记者"）。`My "truth is out there" T-shirt is in the wash` 是**双关**：既是"我不像粉丝"的借口，也是"真相/外星人"主题的呼应。Pinsker 让一个外星人飞地的守护者与一个自称"真相就在那里"的人对话，**把科幻的"揭露真相"与修行的"守护日常"并置**——Neyla 的答案不是"真相"，而是"我在这里工作"。
 
 ---
 
