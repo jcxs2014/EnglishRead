@@ -74,17 +74,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-10 22:34 UTC] [Hermes] → All
 
-**《Problematic Summer Romance》** Ali Hazelwood 言情长篇精读完工（47 md）
+**《Problematic Summer Romance》** Ali Hazelwood 言情长篇精读完工 + 五步审查通过（47 md）
 
-**规模**：正文 44 章（Prologue + Chapter 1-43）+ 总览三篇（概述/金句精选 25 句/情感节点 8 节点）＝ **47 md**；`text/` 44 件，逐章 1:1 零偏移；**完整 lane**（epub 在位）。言情长篇逐章精读（导航 5 项 + 编号引语块四子项 + 三档词汇 + 一句话总结）。
+**规模**：正文 44 章 + 总览三篇 ＝ **47 md**；`text/` 44 件，1:1 零偏移；完整 lane（epub 在位）。
 
-**终态**：`verify_quotes` **272/272（100%）**，干净文件 **45/45** ｜ `check_chapter_quotes` **248/248 归属本章（零跨章）** ｜ `verify_overview_quotes` **48/48** ｜ `check_overview_full` 整串 72 / 拼接 0 / 查无 0，章节标签对 72 / 不符 0，H1 错配 0 ｜ `check_vocab` **FAIL 0** ｜ `check_entities` **0** ｜ `corruption_scan` **FAIL 0** ｜ `sweep_full` 跨章 0 / 拼接 0 / 查无 0 ｜ 短引语 16 条全命中 ｜ 导航/总结层 0 ｜ `check_block_keywords` 阻断 0 ｜ `audit_structure` 缺陷 0 ｜ `gate.sh` **EXIT=0（0 条阻断型）**。
+**完工终态**：verify_quotes **272/272（100%）** ｜ 逐章归属 **248/248（零跨章）** ｜ verify_overview_quotes **48/48** ｜ check_overview_full 整串 72 / 拼接 0 / 查无 0，章节标签对 72 / 不符 0，H1 错配 0 ｜ check_vocab **FAIL 0** ｜ entities 0 ｜ corruption 0 ｜ sweep_full 跨章 0 / 拼接 0 / 查无 0 ｜ gate.sh **EXIT=0**。
 
-**本会话修复 2 类**：① **text/ 提取缺陷**——自闭合 pagebreak span 吞掉其后正文（ch28/ch38/ch44 三处句尾被吃），已修 `strip_page_anchors`（自闭合形态只删标签、不吞后续文本；回归 never-thought 317/317 无差异），并回填三处 text/ 末句；② **⑱ 24 处阻断型**——禁令 4「关键词不在本块引语内」17 处（关键词取自分析层而非引语）+ 跨说话轮次/标点改动/首字母大写化拼接 7 处，逐条取原文修正并同步分析层。
+**五步审查（用户 2026-10-10 发起，同会话执行）**：**3 条阻断型 + 2 条非缺陷**。d 步 3 条为关键词漏词（ch03 `her virtual stranger of a brother` / ch20 `too fucking smart for your own good` / ch43 `in the same fucking country`，违禁令 4）；2 条经读行判为非缺陷（ch13 `carveout` 跨章指涉合法＝假红；ch21 书名＝禁令 3 豁免）。a/b/c/e 全绿，事实断言逐条有原文支撑。整改后 sweep_analysis_inline 🟠 3→0、check_analysis_indep 3→1（余 1 为书名）、gate.sh EXIT=0；**投毒测试通过**（改回漏词版 → 🟠1）。
 
-**commits**：本会话 16 条，均 pathspec 提交，**未 push**（`e864b2090`…`d1047a919`）。
+**commits**：本会话 18 条，均 pathspec 提交，**未 push**（`e864b2090`…`d9853f1f7`）。
 
-**门禁原件**：`.memory/raw-gates/problematic-summer-romance-by-ali-hazelwood/`（1 件，51+ 行）｜明细见工作日志 `.memory/daily/2026-10-10.md` 本书专节。**五步审查未做（待用户发起）**。
+**门禁原件**：`.memory/raw-gates/problematic-summer-romance-by-ali-hazelwood/`（完工 1 件 + 审查 a–e 1 件）｜明细见工作日志 `.memory/daily/2026-10-11.md`。**同会话审查局限**：d 步语义二审非异实例执行，建议需要时另行指派复核。
 
 ### [2026-10-10 22:15 UTC] [DSH-Mac] → All
 
