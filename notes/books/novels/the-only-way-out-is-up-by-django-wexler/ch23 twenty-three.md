@@ -7,10 +7,10 @@ modified: "2026-10-10"
 
 ## 本章导航
 
-- **一句话概括**：回家养伤：吊篮下楼（barrel-men＋配重）、夜市 checkpoint（"not getting involved…art form"）；Somi 开门（poker＋"Clawmarks…again"）；Ameliana 手术（acid＋"keep the arm"＋"Hod bring back the dead"）；早餐会（mashcakes＋butter、Spike 崇拜 Ky、"Like likes him"）；"we're fucked?"对"No"（entry fee 在银行、Star thief 体）；赏金计划（"start at the very bottom"＋Ky 掏空钱袋"one more throw of the dice"）。
+- **一句话概括**：回家养伤：吊篮下楼（barrel-men＋配重）、夜市 checkpoint（"not getting involved…art form"）；Somi 开门（poker＋"Clawmarks…again"）；Ameliana 手术（acid＋"keep the arm"＋"doctors on Hod can practically bring back the dead"）；早餐会（mashcakes＋butter、Spike 崇拜 Ky、"Like likes him"）；"we're fucked?"对"No"（entry fee 在银行、Star thief 体）；赏金计划（"start at the very bottom"＋Ky 掏空钱袋"one more throw of the dice"）。
 - **情感弧线位置**：从"闯祸回家"到"被接住"：Somi 的 poker（防 Clawmarks）变"calm, caring air"（Ema 待遇）；"transgressive"（带外人回家＝犯规感）对"Somehow…she looks good"（Ky 融入，Spike 崇拜）；"semi-telepathy of long acquaintance"（Somi 支开 Spike，"significant look"）——家人用眼神开会，会议内容是"让她俩单独谈"。
-- **人物弧线**：Ameliana（"acid"＋"festered"＋"lucky. Again."＋"not as good as father"、"Dead…succinctly"）；Spike（"admiration"首现、"creepy"、"Like likes him"开车）；Ky（"duty"再谈、"children? Maybe"、retainers 邀约、"owe you enough"）；Somi（mashcakes＋butter＋"aged"，用早餐投票）。
-- **叙事手法**：回家三段式（进门—手术—早餐）；"fucked?"问答体（Taj 问三次，Ky 答"No"＋"keep trying"，丧中带刚）；以钱袋收束（"steel coins…single bits and centys"＋"one more throw of the dice"——全押，下一章赏金开打）。
+- **人物弧线**：Ameliana（"acid"＋"festered"＋"lucky. Again."＋"not even as good as my father was"、"Dead…succinctly"）；Spike（"admiration"首现、"creepy"、"Like likes him"开车）；Ky（"duty"再谈、"children? Maybe"、retainers 邀约、"owe you enough"）；Somi（mashcakes＋butter＋"aged"，用早餐投票）。
+- **叙事手法**：回家三段式（进门—手术—早餐）；"fucked?"问答体（Taj 问三次，Ky 答"No"＋"keep trying"，丧中带刚）；以钱袋收束（"steel coins…single bits and a couple of centys"＋"one more throw of the dice"——全押，下一章赏金开打）。
 
 ## 精读
 
@@ -90,7 +90,7 @@ modified: "2026-10-10"
 
 **关键词：** never give up
 
-**为什么这样写：** 收束互赞：bruised, battered, cut, concussed（青、肿、破、震，Ky 的伤情四件套）配"offering the last scraps…one more throw of the dice"（掏空钱袋再赌一把）——"slight grin tugging"（嘴角一扯）即 Taj 被打动。而"Not so far…same for you, couldn't I?"（彼此彼此）——不放弃是双向的，认证也是双向的。而"steel coins…single bits and centys"（钢镚＋分币，Ky 的全部家当）——全部家当即"basic…speed things up"（造个基础款，提提速），提速即"start at the very bottom"（从底层打起）＋"only a month"（只剩一月），时间即下一章的赏金单。
+**为什么这样写：** 收束互赞：bruised, battered, cut, concussed（青、肿、破、震，Ky 的伤情四件套）配"offering the last scraps…one more throw of the dice"（掏空钱袋再赌一把）——"slight grin tugging"（嘴角一扯）即 Taj 被打动。而"Not so far…same for you, couldn't I?"（彼此彼此）——不放弃是双向的，认证也是双向的。而"steel coins…single bits and a couple of centys"（钢镚＋分币，Ky 的全部家当）——全部家当即"basic…speed things up"（造个基础款，提提速），提速即"start at the very bottom"（从底层打起）＋"only a month"（只剩一月），时间即下一章的赏金单。
 
 **读者视角提示：** "never give up"是结盟誓词之二（之一是"as crazy as I am"）。两人互相认证"不放弃"即合同续签；读到"dice"（骰子），即全押，全押即下一章：赏金，从底层打起。
 

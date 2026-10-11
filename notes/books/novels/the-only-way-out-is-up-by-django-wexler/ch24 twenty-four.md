@@ -8,7 +8,7 @@ modified: "2026-10-10"
 ## 本章导航
 
 - **一句话概括**：三周备战：Ky 钱袋采购（Ekkeban 挑眉）、janky 重建（无橙黄、"won't get hit"）；Rotwurm 课（distributed 无核、fire/bonfire 比喻、"team…all together"）；Ekkeban 融资（"Eclamia"假名、红披肩、hips hypnotic、"Five percent…week's float"、"complete faith"）；Star 身份问（"pet"＋"murder efficiently"＋"Runics can't talk"）；BLAST 原理课（EXPLODE 异数、Bug Zapper 失灵原因、"carved…something"）；寿命论战（burning lifespan、"forty vs fifteen"、Fara 三活）；BLAST 命名（balloon→burst/blast）＋HEAT/FORCE（"That's what I'm hoping."）。
-- **情感弧线位置**：从"上课"到"交底"：Taj 给 Ky 上 Twisted 课（fire→bonfire）→Ky 给 Taj 上"信誉"课（reputation vs 大块头）→互交底（寿命论＋Fara 夜活）——"does it really matter if this rich girl is wrong"（值得为她较真吗）配"I still need her"（还需要她）——较真即在乎，在乎即"shoulders brush"（肩膀相蹭，讲课讲出火花）。
+- **情感弧线位置**：从"上课"到"交底"：Taj 给 Ky 上 Twisted 课（fire→bonfire）→Ky 给 Taj 上"信誉"课（reputation vs 大块头）→互交底（寿命论＋Fara 夜活）——"does it really matter if this rich girl from Hod is wrong"（值得为她较真吗）配"I still need her"（还需要她）——较真即在乎，在乎即"shoulders brush"（肩膀相蹭，讲课讲出火花）。
 - **人物弧线**：Ekkeban（"braided locks"扯辫、"sweet"认证、"guileless smile"放贷，见色放贷第一人）；Ky（"purr""sultry""hips hypnotic"三件套、"Five percent"、"burst/blast"语言学、"shoulder pat"）；Star（"threatened to kill him"玩笑、"Displeasure: nuance"、"pet"认证）；Fara（"piecework…whoring"，三活全交底，"stay away"遗训）。
 - **叙事手法**：三周压缩（"Time slips by"＋"Three weeks"）；双课体（Twisted 课＋BLAST 课，fire 比喻两次：candle→bonfire）；以"dangerous"收束（"That sounds…dangerous."配"That's what I'm hoping."——危险即希望，希望即 HEAT＋FORCE，下一章先测试再屠龙）。
 

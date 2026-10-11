@@ -9,7 +9,7 @@ modified: "2026-10-10"
 
 - **一句话概括**：龟战后：Ky"working"＋"smoke"政治＋"Two more fights"；签表（Niami vs Almira/Cnista，胜者即下轮对手，Quech 决赛见）；Bitey 蟹战（hit-and-run＋BIND 爪＋"Alive? Real?"）；Gestian 挖角（"Gestian Vianor"＋"contentious"＋"fucking you?"＋"weak/flaws/firm hand"＋Dreikin 条件）；Taj 反杀（"Is he fucking you?"＋"Above"＋"stars"＋"owe him one"）；Ky 被写 off（Dreikin 放话＋不敢站队）；信任交换（"turned him down flat"＋"lowball/blow"＋"trust…simple"＋"betrayed one master"）；BIND 对策（"trapped…big trouble"＋"insane…test it"）。
 - **情感弧线位置**：从"working"到"trust"：Ky 的"blushing"（脸红）开场→"written off"（被抛弃）低谷→"lowball/blow"（荤笑话回血，笑虽弱但回来了）→"trust…simple"（Taj 表忠：简单）→"likewise"（Ky 回：彼此）——"value my life"（不敢笑，忍笑，笑即死）配"tap tap tap"（跺脚，气），气即"written off"（被写 off），愤即下一章备战（BIND 破解，破即"insane"，疯即胜算，算即新招，招即"test it"）。
-- **人物弧线**：Gestian（"disarming smile"＋"aristocratic"＋"contentious"＋"Cavcante"甩锅＋"string/flaws/firm hand"＋"errand boy"＋"stalks away"）；Almira/Cnista（灰衣＋蟹＋"prickly"，存档：已输，输即 Bitey 爪下）；Ky（"grease/smoke"＋"take du Freis down a peg"＋"tap tap tap"＋"grip hilt…let go"＋"written off"）；Niami（"ecstatic…rear end"，赢，赢即下轮对手，对手即朋友？友即"maybe"，也许打，也许不打——不，签表定了，打！）。
+- **人物弧线**：Gestian（"disarming smile"＋"aristocratic"＋"contentious"＋"Cavcante"甩锅＋"string/flaws/firm hand"＋"errand boy"＋"stalks away"）；Almira/Cnista（灰衣＋蟹＋"prickly"，存档：已输，输即 Bitey 爪下）；Ky（"grease/smoke"＋"take the du Freis down a peg"＋"tap tap tap"＋"grip hilt…let go"＋"written off"）；Niami（"ecstatic…rear end"，赢，赢即下轮对手，对手即朋友？友即"maybe"，也许打，也许不打——不，签表定了，打！）。
 - **叙事手法**：战后四段式（庆祝—观战—挖角—马车）；Gestian 挖角（"mutual interests"＋"string/flaws"＋Dreikin 条件＋反杀"Is he fucking you?"，杀即"startled laugh…fuming"，笑＋怒＋走）；"stars"宣言（"die having seen the stars. Unlike you."——星星即信仰，仰即 Quech 约战"owe him one"，约即决赛，赛即下一章备战）；以测试收束（"insane…test it…"——cut，下一章：BIND 咋破？破即半决，决即 Niami＋Bitey，友即敌，敌即朋友，朋即——打！）。
 
 ## 精读

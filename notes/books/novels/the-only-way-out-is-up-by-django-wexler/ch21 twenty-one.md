@@ -7,9 +7,9 @@ modified: "2026-10-10"
 
 ## 本章导航
 
-- **一句话概括**：Venci 守擂夜：取钱变约战（"withdraw after a match, not before"＋"blacklisted"威胁）；Quech（Hod 口音＋黑 coat＋"paid double…jump the queue"）＋Vripiai（蛇、无肢、yellow/green）；Gestian 看台＋Pader 党（"working together?"）；Star 断腿（Purge EXPLODE）＋Bug Zapper 失效（foundation 不吃这套）；Quech 羞辱（"trump card…Please""half-assed junk-heap trash""Pathetic"）；Star 碎（"brilliant shower of sparks"）。
+- **一句话概括**：Venci 守擂夜：取钱变约战（"withdraw the pot after a match…Not right before one"＋"blacklisted"威胁）；Quech（Hod 口音＋黑 coat＋"paid double…jump the queue"）＋Vripiai（蛇、无肢、yellow/green）；Gestian 看台＋Pader 党（"working together?"）；Star 断腿（Purge EXPLODE）＋Bug Zapper 失效（foundation 不吃这套）；Quech 羞辱（"trump card…Please""half-assed junk-heap trash""Pathetic"）；Star 碎（"brilliant shower of sparks"）。
 - **情感弧线位置**：从"冠军"到"垃圾"：Quech 的"Pathetic…I expected better"（失望）比杀人更疼——"shakes his head"（摇头）配"sparks showering out of Star"（Star 冒火星）；Taj 的"Purge!"（断腿求生）配"Bug Zapper"（王牌失效）——王牌变废牌，废牌即成长（没王牌了，拿什么打？下一章答）。
-- **人物弧线**：Quech（Hod 来人、"too sharp and intense to be entirely sane"、点名"Taj"、"Don't disappoint me"）；Vripiai（蛇、cobra hood＋wolf jaws、tail spike、"holding back"扮猪吃虎）；Gestian（看台现身，"former head guard"＋"betrayed and murdered"）；Pader's people（"dressed like the thugs who killed Weslai"，制服即番号）。
+- **人物弧线**：Quech（Hod 来人、"too sharp and intense to be entirely sane"、点名"Taj"、"Don't disappoint me"）；Vripiai（蛇、cobra hood＋wolf jaws、tail spike、"holding back"扮猪吃虎）；Gestian（看台现身，"former head guard"＋"betrayed and murdered"）；Pader's people（"dressed…comporting themselves like bodyguards"，制服即番号）。
 - **叙事手法**：守擂三段式（约战—入场—碾压）；"holding back"式反转（蛇前段划水"letting us get too comfortable"，专等 Star 跳起）；以碎收束（"collapses in a brilliant shower"——Mark 4 报销，下一章先逃命再算账）。
 
 ## 精读
@@ -70,7 +70,7 @@ modified: "2026-10-10"
 
 **关键词：** place the name · former head guard · betrayed and murdered
 
-**为什么这样写：** Gestian 登场的字幕条：place the name（对号，一秒）配 former head guard（前护卫长，职位）配 betrayed and murdered（背叛＋谋杀，两罪）——"Taj, he's here"（Ky：他来了）配"Who's here?"（谁，Taj）配"Gestian"（名）——三问三答，答即字幕。而"Down in the gallery"（楼下看台）配"dressed like the thugs who killed Weslai"（穿得像杀 Weslai 的混混）配"Are those Pader's people?"（那是 Pader 的人吗）配"How can they both be here?"（两家咋凑一块了）——"Maybe they're working together"（Taj：可能联手了）——联手即"我们的运气是有多背"，背即下一章的双面夹击。
+**为什么这样写：** Gestian 登场的字幕条：place the name（对号，一秒）配 former head guard（前护卫长，职位）配 betrayed and murdered（背叛＋谋杀，两罪）——"Taj, he's here"（Ky：他来了）配"Who's here?"（谁，Taj）配"Gestian"（名）——三问三答，答即字幕。而"Down in the gallery"（楼下看台）配"dressed…comporting themselves like bodyguards"（穿得像杀 Weslai 的混混）配"Are those Pader's people?"（那是 Pader 的人吗）配"How can they both be here?"（两家咋凑一块了）——"Maybe they're working together"（Taj：可能联手了）——联手即"我们的运气是有多背"，背即下一章的双面夹击。
 
 **读者视角提示：** Gestian＋Pader 党同场＝"working together?"（Taj 问，Ky 没答，金属声打断）。问号即悬念，悬念即下一章的开场（先看 Star 断腿，再看两家联手）；读到"both"，即两家，两家即"运气背到家"。
 

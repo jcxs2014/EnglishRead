@@ -7,7 +7,7 @@ modified: "2026-10-10"
 
 ## 本章导航
 
-- **一句话概括**：赛前梦＋备战＋开幕：Fara 睡前故事闪回（moon/rabbits/bears vs Twisted 辩论、"Out the back door…Arnold's place"、"Then I'll take care of you"）；"sealed tomb"独白（"With one exception…meet him"）；四天 fugue（"cards in reserve"）；赛场（Hisham Avaro＋"ceremonial job"、Devon Dreikin 赞助 Quech、tiger＋绿发 girl）；Alzimyth 登场（白制服＋微 sigil＋rings、"Keter Apex"、free-for-all 规则"top eight…yield…master unable＝disabled"）；"Master Fara"入场（cut，下一章开打）。
+- **一句话概括**：赛前梦＋备战＋开幕：Fara 睡前故事闪回（moon/rabbits/bears vs Twisted 辩论、"Out the back door…Arnold's place"、"Then I'll take care of you"）；"sealed tomb"独白（"With one exception…meet him"）；四天 fugue（"cards in reserve"）；赛场（Hisham Avaro＋"ceremonial job"、Devon Dreikin 赞助 Quech、tiger＋绿发 girl）；Alzimyth 登场（白制服＋微 sigil＋rings、"Keter Apex"、free-for-all 规则"top eight…yield…master is unable to continue…disabled"）；"Master Fara"入场（cut，下一章开打）。
 - **情感弧线位置**：从"睡前故事"到"赛前"：梦里"Then I'll take care of you"（对 Somi 的承诺，childhood 版）配醒来"sealed tomb"（出不去）配"exception"（Above 来人，例外）——承诺的 childhood 版 vs 兑现的 Ascent 版（养全家＝打比赛）；"squeeze her hand"（捏 Ky 的手）配"use as few tricks"（藏招）——藏即"cards in reserve"，藏即下一章的"nasty tricks"（carapace 里的惊喜）。
 - **人物弧线**：Fara（"rasp""comforting""kisses…forehead"，梦里全活，"more tomorrow"没兑现）；Hisham Avaro（"jowly…sweat""unfortunate mustache""profound lack of humor"，ceremonial 丑角）；Alzimyth（"whip-thin""bored""dead bug"，Above 法官，sigil 微雕＋"two fingers"垂涎）；Devon Dreikin（"fat…braids…bejeweled rings"，赞助 Quech，"pulling strings"嫌疑＋1）；绿发 girl＋tiger（存档，下章对手？）。
 - **叙事手法**：梦—备战—开幕三段式；"exception"悬念（唯一例外即法官，法官即"meet him"）；规则说明（free-for-all＋top eight＋yield＋master＝disabled，规则即下一章的打法：保主人＝保机）；以"Master Fara"收束（"hastily assumed family name"，现编姓投入使用，姓即入场券，下一章开打）。

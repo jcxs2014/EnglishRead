@@ -7,7 +7,7 @@ modified: "2026-10-10"
 
 ## 本章导航
 
-- **一句话概括**：首战 Venci 场：报幕（"underdog…road to glory or dead end"）；冠军 Lorrimer＋Mordax（半人马、四刀肢、十二连胜）；Star 嫌小（"failure on your part"）；Venci 耳语（"put on a show…No tip"）；挨踢开悟（core 单点故障）；马腹演绎（core 在马半身）；翻盘（"dismantle"＋bow）；"Guess I won't be needing that tip."收。
+- **一句话概括**：首战 Venci 场：报幕（"underdog…road to glory…dead end"）；冠军 Lorrimer＋Mordax（半人马、四刀肢、十二连胜）；Star 嫌小（"failure on your part"）；Venci 耳语（"put on a show…No tip if you can't even put a scratch on the champ"）；挨踢开悟（core 单点故障）；马腹演绎（core 在马半身）；翻盘（"dismantle"＋bow）；"Guess I won't be needing that tip."收。
 - **情感弧线位置**：从"被介绍"到"被证明"：Taj 的"我是来赢的"（"carefully making no promises"，不接 show 的单）对 Venci 的"drag it out"——show 与 win 的矛盾，win 解决；"my grin spreads farther"（咧嘴）是开悟的表情，咧嘴即胜券。
 - **人物弧线**：Lorrimer（窗帘头、throat 发声器、"frantically shouting"、首败，十二连胜终结）；Mordax（"painted flanks""rears and kicks"、马腹 core，设计精妙但遇人不淑）；Venci（"goggle-eyed"、被拍肩膀，场主被打脸）；Star（"tzing"开场、"hand puppet"嫌弃、"shallow bow"谢幕，赢了还要优雅）。
 - **叙事手法**：擂台三段式（报幕—挨打—开悟—反杀）；"intuition"推理段（core 位置演绎，工匠式破案： trunk 是幌子，马身是本体）；以小费梗收束（"tip"开场是欠条，收场是注销，下一章分钱）。

@@ -7,10 +7,10 @@ modified: "2026-10-10"
 
 ## 本章导航
 
-- **一句话概括**：杀怪：static 之声（"Yessssh…tide…static…shrieks"＋"C-c-can't…How"＋"vomit…atonal"）；BLAST 不够（"hurled…lacerated…functional…no core…keeps coming"）；"ave…why / lave…erve"；"Slave×3…Why"＋"not a slave"＋"make you understand"＋crescendo；角力（"strength…pops…grind"＋"Star, hear me?…vast…palpable"）；Taj 骑爪（"running jump…straddling…optics…touch…shudder"＋"open Bug Zapper…well…can"）；手撕 Bug Zapper（"slides…stubby…snaps…free"＋"always been…remember"＋"Go fuck yourself…knee…attention"＋"speak, meat?…disgust…obliterate"＋"[He is my meat]"）；爆（"yellow…contorts…deflected…core"＋"Twisted dying…wave…petering"＋山＋洞＋"Five red lights…arc"＋"…un…der…st…and…dies…alone"，悬置）。
+- **一句话概括**：杀怪：static 之声（"Yessssh…tide…static…shrieks"＋"C-c-can't…How"＋"vomit…atonal"）；BLAST 不够（"hurled…lacerated…functional…no central core…keeps coming"）；"ave…why / lave…erve"；"Slave×3…Why"＋"not a slave"＋"make you understand"＋crescendo；角力（"strength…pops…grind"＋"Star, can you hear me?…vast…palpable"）；Taj 骑爪（"running jump…straddling…optics…touch…shudder"＋open Bug Zapper…well…can）；手撕 Bug Zapper（"slides…stubby…snaps…free"＋"always been…remember"＋"Go fuck yourself…knee…attention"＋"speak, meat?…disgust…obliterate"＋"[He is my meat]"）；爆（"yellow…contorts…deflected…core"＋"Twisted dying…wave…petering"＋山＋洞＋"Five red lights…arc"＋…un…der…st…and…dies…alone，悬置）。
 - **情感弧线位置**：从"Talking?"到"alone"："don't talk…don't think…pig…dog…stimuli…dozens…intelligence…preservation"（怪不说话，判）→"Yessssh…wobbles…tide…static…Shut it…C-c-can't…How…vomit…atonal…BLAST…smoke…pain…hurled…functional…core…coming…ave…why"（潮＋呕＋爆＋不够＋声，缠）→"lave…serve…Analysisisisis…cannot…stronger…Sorrow…sorry…Fuck that…Slave×3…Why…pounces…block…slash…underneath…nutcracker…creaks…clear…serve…not a slave…understand…crescendo"（奴＋拒＋锁，锁即"strength…pops…grind…hear me…vast…palpable…screams…please…can't…show me…wants…hatch…well…can"，喊＋骑，骑即"jump…straddling…optics…touch…shudder…now…understand…not…slides…stubby…snaps…free…always…remember…asshole…knee…attention…disgust…obliterate…wobbles…fast…meat…slam…trigger…yellow…contorts…deflected…dying…petering…mountain…hole…lights…arc…will…limp…heap…der…st…and…dies…alone"，杀，杀即——完？完即下一章：赢了？赢即宣胜？胜即——回！）。
 - **人物弧线**：Twisted（"Yessssh…static…ave…lave…Slave×3…Why…serve…understand…crescendo…disgust…obliterate…dying…petering…mountain…lights"，怪＋话＋死，死即"limp…heap"，瘫，瘫即——赢！）；Star（"wobbles…C-c-can't…How…Analysisisisis…cannot…Sorrow…sorry…can't…show me…well…can…not…meat…wobbles…fast…heap"，宕＋拒＋杀，杀即"slides…stubby"，开即 Taj 手撕，撕即"snaps…free"，断即——爆！）；Taj（"Shout…drown…nearly…close…stronger…Fuck…jump…straddling…touch…now…asshole…knee…slam…trigger…dying…mountain…alone"，喊＋骑＋撕＋爆＋见，见即山＋洞＋五红灯，灯即——谜！谜即下一章：那是啥？啥即——回！）。
-- **叙事手法**：杀怪五段式（潮—爆—锁—骑—爆）；"Slave. Why do you serve?"（奴＋问，问即"[not a slave]…not"，拒即"first time…isn't directed at me"（第一次不对我说， Taj 备注），注即"understand…crescendo"，涨即角力，力即骑（骑即"jump…straddling"，上即撕（撕即"slides…snaps…free"，断即爆（爆即"slam…trigger…yellow"，捅即"dying…mountain…lights…arc"，见即"will…limp…der…st…and…dies…alone"，死＋散，散即——赢！赢即下一章：宣胜？胜即——回！回即家人，家即自由，由即——完？）。
+- **叙事手法**：杀怪五段式（潮—爆—锁—骑—爆）；"Slave. Why do you serve?"（奴＋问，问即"[not a slave]…not"，拒即"first time…isn't directed at me"（第一次不对我说， Taj 备注），注即"understand…crescendo"，涨即角力，力即骑（骑即"jump…straddling"，上即撕（撕即"slides…snaps…free"，断即爆（爆即"slam…trigger…yellow"，捅即"dying…mountain…lights…arc"，见即will…limp…der…st…and…dies…alone，死＋散，散即——赢！赢即下一章：宣胜？胜即——回！回即家人，家即自由，由即——完？）。
 
 ## 精读
 
@@ -40,7 +40,7 @@ modified: "2026-10-10"
 
 **关键词：** not a slave
 
-**为什么这样写：** Star 式独立宣言："first time…isn't directed at me"（Taj 备注：第一次不对我说，说即对怪说）配 not a slave（不是奴，正文）——"[I am not]"（再说一遍，复）——复即"understand…crescendo…locked…strength…hear me…please…show me…hatch…well…can…jump…straddling…touch…now…slides…snaps…always…remember…asshole…meat…slam…yellow…dying…mountain…lights"，锁＋骑＋撕＋爆＋见，全套，套即"will…limp…der…st…and…dies…alone"，死＋散，散即——赢！）。
+**为什么这样写：** Star 式独立宣言："first time…isn't directed at me"（Taj 备注：第一次不对我说，说即对怪说）配 not a slave（不是奴，正文）——"[I am not]"（再说一遍，复）——复即"understand…crescendo…locked…strength…hear me…please…show me…hatch…well…can…jump…straddling…touch…now…slides…snaps…always…remember…asshole…meat…slam…yellow…dying…mountain…lights"，锁＋骑＋撕＋爆＋见，全套，套即will…limp…der…st…and…dies…alone，死＋散，散即——赢！）。
 
 **读者视角提示：** "not a slave"是 Star 的宣言（拒＋复，复即"[I am not]"，再强，强即——战！）。"isn't directed at me"（不对我说）是 Taj 的备注（慰，慰即 Star 长大了，大即——爆！爆即手撕 Bug Zapper，器即 Taj 手，手即——赢！）。
 

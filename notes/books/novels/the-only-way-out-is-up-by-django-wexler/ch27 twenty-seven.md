@@ -7,7 +7,7 @@ modified: "2026-10-10"
 
 ## 本章导航
 
-- **一句话概括**：Hod 登陆：假天堂（"impressed and disappointed"、fake 全套、"duplicate of unseen world"）；马车 runic（"points to horse then ear"、沉默之旅）；Tranto 宅（Bradley、"Master Taj"、bath＋meal）；"chasm"对话（"stab in the back"、dinner invitations）；换装（"androgynous…attractive"、"runic master"）；Above 贸易课（mash 来自 Above、sigils/scrap 换、workhouse 烧命、Council＝十二大户）；workshop＋Nurow 注册（"Taj Fara"、二十岁、"unfinished"）；规则暴击（masters 下场、"Hardly anyone dies…Probably"）。
+- **一句话概括**：Hod 登陆：假天堂（"impressed and disappointed"、fake 全套、"duplicate of unseen world"）；马车 runic（"points to the horse and then to her ear"、沉默之旅）；Tranto 宅（Bradley、"Master Taj"、bath＋meal）；"chasm"对话（"stab in the back"、dinner invitations）；换装（"androgynous…attractive"、"runic master"）；Above 贸易课（mash 来自 Above、sigils/scrap 换、workhouse 烧命、Council＝十二大户）；workshop＋Nurow 注册（"Taj Fara"、二十岁、"unfinished"）；规则暴击（masters 下场、"Hardly anyone dies…Probably"）。
 - **情感弧线位置**：从"土包子"到"登记在册"：bath（"exquisite agony"＋"could get used to"）→meal（"pig of myself"）→clothes（"hide…stiffenings"）→name（"Taj Fara"现编）——"distance…yawns like a chasm"（Malkuth 的亲近 vs Hod 的鸿沟）配"cheerful mask slips back"（Ky 到家即戴面具），面具即"Ritual. For show"（仪式＋表演）。
 - **人物弧线**：Bradley（"grew up with father""raised me"、晚宴＋浴室总管、"utmost"）；Nurow（"pinch-faced""spectacles""clipboard"、"boy"＋"compelled by threats"、"sighs"）；Ky（"shark-like smile"、"Starshit"、"Probably"、"androgynous"被看）；Star（"treasure trove"、"bonk Ky…run for it"、"[?] interrogative eyebrow"、"understands me"实锤）。
 - **叙事手法**：登陆四段式（风景—马车—宅—注册）；"fake"排比（sky/landscape/stream/wall，全假）vs"accept"（Heap 认命，真即接受）；贸易课（mash 上下＋sigil 上下，循环"Round and round"）；以"Probably"收束（"You'll be fine!…Probably."——保证＋撤回，撤回即四天备战，下一章开工 Mark 6 完全体）。

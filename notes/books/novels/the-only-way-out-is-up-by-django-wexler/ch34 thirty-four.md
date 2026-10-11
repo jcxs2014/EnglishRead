@@ -7,10 +7,10 @@ modified: "2026-10-10"
 
 ## 本章导航
 
-- **一句话概括**：半决 Niami/Bitey：Entop 死讯（Quech 杀主人第二杀、Anyms 骂街、"up to one of us"）；"Above?"三人三种答案（Niami 去、Taj 留、Gestian 疯）；"fun"之战（ballet＋"out-think her"＋"don't want it to end"）；绿盾首秀（Ekkeban 传家宝、"never seen green outside Arbiter"）；BIND 陷阱＋REPEL 闪回（蜥蜴尾＋"So make one"＋翻字＋"lifespan?"＋蓝绿冲击波）；手下留情（"Yield now"＋"work of art"＋"stupid…But"＋"beat Quech for me"＋"letter from Above"）。
+- **一句话概括**：半决 Niami/Bitey：Entop 死讯（Quech 杀主人第二杀、Anyms 骂街、"up to one of us"）；"Above?"三人三种答案（Niami 去、Taj 留、Gestian 疯）；"fun"之战（ballet＋"out-think her"＋"don't want it to end"）；绿盾首秀（Ekkeban 传家宝、"never seen a green sigil outside an Arbiter runic"）；BIND 陷阱＋REPEL 闪回（蜥蜴尾＋"So make one"＋翻字＋"lifespan?"＋蓝绿冲击波）；手下留情（"Yield now"＋"work of art"＋"stupid…But"＋"beat Quech for me"＋"letter from Above"）。
 - **情感弧线位置**：从"玩"到"留情"："fun"（初体验，Taj＋Star 双份）→"without anger"（Star 亦然，头回）→"stupid"（Niami 哭，机即女儿）→"I get it"（Taj 懂，hears every word）→"work of art"（夸 core，art 即不拆）——"pang"（crush 她梦的心疼，赛前）配"Yield now"（赛中救 core，抓肩＋转脸＋"in another second…no choice"），救即"subvocalizes…goes still"（虎停），停即胜（胜即"victors"，布即"stalks away"，法官装忙，忙即查户口？查即决赛前夜，前夜即——打！）。
-- **人物弧线**：Niami（"shoom/gdoom/fwoop"＋"one-trick crab"＋"Above ecstasy"＋"apologetic look"＋"Her"＋"beat Quech for me"＋"letter"）；Bitey（虎＋BIND 爪＋"belly core"＋"on its back…can't right itself"＋"fangs…screech"）；Alzimyth（"on his feet…edge of platform"，法官站起来了，站即 REPEL 奇货，货即"urgent business"，装忙，忙即下章盘问？问即 BLAST＋REPEL＋手搓，三连）；Ky（"Okay×3＋blow shoulder"＋"resist binding?"＋转椅＋"barbarian"笑＋"test it"切入本章闪回）。
-- **叙事手法**：半决四段式（玩—盾—陷—斥＋留情）；闪回体（BIND 夜话：蜥蜴尾→REPEL→翻字→"lifespan"→蓝绿波，闪回即说明书，书即"tested…didn't know…spectacular"，试过但超预期，期即"pries paws off…hurls…cracks wall"，撬＋扔＋裂墙，墙即虎翻，翻即 core 露，露即"lance down…seeking knot"，刺即"Don't!"，喊即停，停即"Yield!"）；"Her"（Niami 说 Her，Taj 记 Her，机即她，她即 core，core 即 art，art 即不拆，拆即"personality…geometry"，性即几何，毁即死，死即不忍，忍即胜，胜即决赛，赛即 Quech，敌即——打！）。
+- **人物弧线**：Niami（"shoom/gdoom/fwoop"＋"one-trick crab"＋"Above ecstasy"＋"apologetic look"＋"Her"＋"beat Quech for me"＋"letter"）；Bitey（虎＋BIND 爪＋"belly core"＋"on its back…easily right itself"＋"fangs…screech"）；Alzimyth（"on his feet…edge of the platform"，法官站起来了，站即 REPEL 奇货，货即"urgent business"，装忙，忙即下章盘问？问即 BLAST＋REPEL＋手搓，三连）；Ky（"Okay×3＋blow shoulder"＋"resist binding?"＋转椅＋"barbarian"笑＋"test it"切入本章闪回）。
+- **叙事手法**：半决四段式（玩—盾—陷—斥＋留情）；闪回体（BIND 夜话：蜥蜴尾→REPEL→翻字→"lifespan"→蓝绿波，闪回即说明书，书即"tested…didn't know…spectacular"，试过但超预期，期即"pries Bitey's paws off…hurls…cracks the nearest wall"，撬＋扔＋裂墙，墙即虎翻，翻即 core 露，露即"lance down…seeking knot"，刺即"Don't!"，喊即停，停即"Yield!"）；"Her"（Niami 说 Her，Taj 记 Her，机即她，她即 core，core 即 art，art 即不拆，拆即"personality…geometry"，性即几何，毁即死，死即不忍，忍即胜，胜即决赛，赛即 Quech，敌即——打！）。
 
 ## 精读
 
@@ -50,7 +50,7 @@ modified: "2026-10-10"
 
 **关键词：** fun · nearly Star’s equal
 
-**为什么这样写：** "unfamiliar sensation"（陌生感）配 fun（好玩）配 nearly equal（几乎同级）——"out-think her next move…partner at my side"（猜招＋搭档在侧）配"grin…enjoying…dance…don't want it to end"（对笑＋同乐＋共舞＋舍不得完）——"flipping…can't do real damage…committing…serious hit"（翻＋刮痧＋不敢 committed，怕换伤）——怕即"part of the plan"（计划一部分），分即"Show her what we've got…Anticipation: finally"（亮招＋Star：终于），于即"belly…orange sparks…paw…bug…shield…green RESIST…million bits…indestructible"（捅＋压＋盾＋绿＋百万＋不碎，盾即 Ekkeban 传家宝，宝即"never seen green outside Arbiter"，见即 Niami 惊，惊即"Long story…later"（赛后讲，债），盾是旧宝，新的是 REPEL，尔即 BIND 陷，陷即下一段）。
+**为什么这样写：** "unfamiliar sensation"（陌生感）配 fun（好玩）配 nearly equal（几乎同级）——"out-think her next move…partner at my side"（猜招＋搭档在侧）配"grin…enjoying…dance…don't want it to end"（对笑＋同乐＋共舞＋舍不得完）——"flipping…can't do real damage…committing…serious hit"（翻＋刮痧＋不敢 committed，怕换伤）——怕即"part of the plan"（计划一部分），分即"Show her what we've got…Anticipation: finally"（亮招＋Star：终于），于即"belly…orange sparks…paw…bug…shield…green RESIST…million bits…indestructible"（捅＋压＋盾＋绿＋百万＋不碎，盾即 Ekkeban 传家宝，宝即"never seen a green sigil outside an Arbiter runic"，见即 Niami 惊，惊即"Long story…later"（赛后讲，债），盾是旧宝，新的是 REPEL，尔即 BIND 陷，陷即下一段）。
 
 **读者视角提示：** "fun"是 Taj 的初体验（打仗好玩，头回）。"nearly equal"（同级）是前提（碾压局不好玩，均势才玩）；读到好玩，先看 Star（"[Realization: pleasing…without anger]"，亦然），然即"change of pace"（换口味），味即"stay focused"（别上头，上头即 BIND 陷，陷即中招，中即 REPEL，斥即赢，赢即留情，情即"letter"）。
 
@@ -67,6 +67,8 @@ modified: "2026-10-10"
 > **原句 6:** "“Nobody knows anything about it,” she says."
 
 **中文理解：** ""这玩意儿就没人懂，"她说。"
+
+**关键词：** Nobody knows · anything
 
 **为什么这样写：** Ky 式 sigil 学总纲：Nobody knows（没人懂）——"workhouses crank out…thousands…basic characters"（厂印＋量产＋基础字，Malkuth）配"parts shipped down from Above"（零件 Above 发货）——"assumed…Hod…knew"（Taj：以为 Hod 懂）配"sigworkers…wire same as you"（Ky：Hod 工也只会焊，跟你一样）——"who says this isn't how it works?…nobody has tried"（Ky：谁说不行？没人试过）——"knife and blank can try…Try, then…plenty of blanks…harm?…lifespan…tingling…sigh…not making progress"（Taj：刀＋坯＋试＋多得是＋烧命＋手痒＋叹＋没进展，试即"tug…activate"，拽＋启，启即 REPEL＋STRONG＋FAST＋EXPLODE＋underside shield＋negating BIND，配即"tested…don't know…spectacular"，试过＋超预期，期即蓝绿波，波即赢，赢即留情）。
 

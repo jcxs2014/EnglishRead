@@ -9,7 +9,7 @@ modified: "2026-10-10"
 
 - **一句话概括**：Rotwurm 猎杀日：Ky 晨练（Spike 围观"love or religion"）；Heap 远征（junkfall 概率课、隧道 Twisted 擦肩、"Was that Rotwurm?/Nah"）；星星谈（"looks down, not up"＋"Nowhere to look but up"＋Somi 看星梦）；SOUND 诱饵（earmuffs、"Dinnertime, Rotty!"、五十米冲刺）；双头揭秘（"ambivalent as to its forward direction"）；致聋事故（"deafened the fucking thing"）；Ky 断后剑战；五 BLAST 齐爆（"bones through flesh"、"egg hatched from within"）；"Hit it hard enough…kill anything."收。
 - **情感弧线位置**：从"备战"到"屠龙"：Taj 的"stupidest thing I've ever done"（当诱饵）配 Ky 的"pursues with vigor"（追击）配 Star 的"cruel taskmaster"（撒娇）——"Earmuffs on"（戴耳罩）是开战令，耳罩隔音不隔心跳（"rapid thumping of my own heart"）；"thumbs-up"（竖拇指）是无声军令，军令即信任（听不见也信）。
-- **人物弧线**：Rotwurm（双头、grub 肥体、"scree in teeth"、"bag of murderous impulses"、"blasted…egg hatched"）；Ky（"severed limbs from rear head"、"sword skitters…at my feet"、"waves…shout inaudibly"）；Star（"aboard near the tail"、"ow""Sadness""relax, meat"、"no functioning optics"）；Spike（开篇围观，love/religion 二选一，选啥都是长大了）。
+- **人物弧线**：Rotwurm（双头、grub 肥体、"scree in teeth"、"bag of murderous impulses"、"blasted…egg hatched"）；Ky（"severed a number of limbs from its rear head"、"sword skitters…at my feet"、"waves…shout inaudibly"）；Star（"aboard near the tail"、"ow""Sadness""relax, meat"、"no functioning optics"）；Spike（开篇围观，love/religion 二选一，选啥都是长大了）。
 - **叙事手法**：狩猎五段式（进山—诱饵—追逃—布雷—起爆）；"stupid"测试体（Twisted 蠢＝可预测＝可杀，人类会学，Twisted 不会）；以定理收束（"Hit it hard enough, all at once, and you can kill anything."——定理即下一章：分赃＋升级，200 stripes 到账？）。
 
 ## 精读

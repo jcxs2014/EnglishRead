@@ -7,8 +7,8 @@ modified: "2026-10-10"
 
 ## 本章导航
 
-- **一句话概括**：第二部开篇：钟点房洗澡；Malkuth 街头 runic 斗（手掌大、"Attack! Forward!"、bits 豪赌）；Taj 报家门（Fara "between mother and oldest sister"）；Weslai 仓库（屋顶潜入、刀抵喉、一拳＋一脚、"lightly strangled"、6%＋预支、"small-time/medium-time dirtbag"）；"I'm not a thug"划界；Malkuth pass＋bits 预支，"Morning of the fourth day"（"And I think I mean it."）。
-- **情感弧线位置**：从"共犯"到"合伙人"：Taj 的底线声明（"I'm not a thug…doesn't mean I take your orders"）对 Ky 的"Noted…doesn't seem entirely displeased"——划界被接受，合作才成立；"Are you sure this is a good idea? Stars, I sound like Somi."（Somi 化，哥哥上身，底线会传染）。
+- **一句话概括**：第二部开篇：钟点房洗澡；Malkuth 街头 runic 斗（手掌大、"Attack! Forward!"、bits 豪赌）；Taj 报家门（Fara "between mother and oldest sister"）；Weslai 仓库（屋顶潜入、刀抵喉、一拳＋一脚、"lightly strangled"、6%＋预支、"small-time dirtbag…medium-time dirtbag"）；"I'm not a thug"划界；Malkuth pass＋bits 预支，"Morning of the fourth day"（"And I think I mean it."）。
+- **情感弧线位置**：从"共犯"到"合伙人"：Taj 的底线声明（"I'm not a thug…doesn't mean I take your orders"）对 Ky 的Noted…doesn't seem entirely displeased——划界被接受，合作才成立；"Are you sure this is a good idea? Stars, I sound like Somi."（Somi 化，哥哥上身，底线会传染）。
 - **人物弧线**：Weslai（fixer、浴袍、acne 疤、"Kyyyyyy"、"medium-time dirtbag"、6%＋预支，从"small-time"涨到"medium-time"只用一脚）；Fara（"between mother and oldest sister"，Taj 至今没想好怎么定义她）；Star（打绳结、"cheery wave"、[Advice]差点误杀，存在感回升）。
 - **叙事手法**：洗澡—逛街—入室—谈判四段式；"beat the shit out of him"先扬（Ky 宣称）后收（只打一拳一脚＋谈判，暴力即议价）；以约期收束（"Morning of the fourth day"＋"I think I mean it"——约期即军令状，下一章先造 Mark 4）。
 

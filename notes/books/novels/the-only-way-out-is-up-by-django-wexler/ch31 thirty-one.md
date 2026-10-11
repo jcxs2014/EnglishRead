@@ -8,8 +8,8 @@ modified: "2026-10-10"
 ## 本章导航
 
 - **一句话概括**：窗碎夜：Gestian 寻衅（Dreikin 制服、"barbarian lover"、决斗 bait）；Taj 拆招（Clawmark 类比、"Don't give him what he wants"、"I'll help you…mean it"）；马车泪（"hover awkwardly"、Bradley 挡驾、"horror…snot and tears"）；起居室舞（hum＋sway＋"Fortuitous…rob me"＋almost-kiss＋"'m drunk…bed"，cut）。
-- **情感弧线位置**：从"拦"到"舞"：拦（"grab…hiss into her ear"、"lovers' tiff"嘲）→哭（"hover awkwardly…too nervous"、"pilot her into armchair"）→舞（"This one goes here…Back and forth"、"head on shoulder"、"face centimeters"）→断（"'m drunk…bed"，cut）——"crystalline and fragile, until it breaks"（时刻如水晶，碎），碎即"chill behind"（凉意），凉即"She turns away"（转身），转身即下一章（第二天？Ascent 第二轮？）。
-- **人物弧线**：Gestian（"clicks tongue"＋"casually on hilt"＋"lax morals"＋"slander/challenge"＋"fish course"＋"irritated look"）；Ky（"face scarlet…jaw set"＋"I'll kill him×3"＋"drunk idiot"＋"bold as brass"＋"Dead is dead"＋"mischievous glint"）；Taj（"fight my way free"＋"people are people"＋"suffocating…barbarian"＋"should kiss her?/wouldn't she kiss me?"＋"throat tight"）。
+- **情感弧线位置**：从"拦"到"舞"：拦（grab…hiss into her ear、"lovers' tiff"嘲）→哭（"hover awkwardly…too nervous"、"pilot her into armchair"）→舞（"This one goes here…Back and forth"、"head on shoulder"、"face centimeters"）→断（"'m drunk…bed"，cut）——"crystalline and fragile, until it breaks"（时刻如水晶，碎），碎即"chill behind"（凉意），凉即"She turns away"（转身），转身即下一章（第二天？Ascent 第二轮？）。
+- **人物弧线**：Gestian（"clicks tongue"＋"casually on hilt"＋"lax morals"＋"slander/challenge"＋"fish course"＋"irritated look"）；Ky（"face scarlet…jaw set"＋"I'll kill him×3"＋"drunk idiot"＋"bold as brass"＋"Dead is dead"＋"mischievous glint"）；Taj（"fight my way free"＋"people are people"＋"suffocating…barbarian"＋"Should I kiss her?…wouldn't she kiss me?"＋"throat tight"）。
 - **叙事手法**：ball 后三段式（拦—哭—舞）；Clawmark 类比拆招（Heap 经验解 Hod 局：push/insult/bait＋"can't touch…challenge him"）；"hum"舞（无乐＋哼＋摇，距离"shrinks"＋"hum shivers in collarbone"）；almost-kiss（"throat tight"＋"dig fingers"＋"crystalline…breaks"＋"chill"）；以关门收束（"She turns away"——cut，下一章：第二天？）。
 
 ## 精读
@@ -40,7 +40,7 @@ modified: "2026-10-10"
 
 **关键词：** Don’t give · what he wants
 
-**为什么这样写：** 拆招五词：Don't give（别给）配 what he wants（他要的＝决斗）——"grab…hiss into her ear"（抓＋耳语）配"shake me off…pull her close"（甩＋拽近）——"He killed him…laughing"（Ky：他杀了我爹，还笑）配"Because he wants you to fight him!"（Taj：他就要你打）——"What the fuck do you know?"（Ky：你懂啥）配"people are people, right?…Clawmarks…push/insult/bait…taking a swing"（Taj：Heap 经验，Clawmark 推搡＋辱骂＋ bait 出手）配"can't touch…challenge him"（赛期动不得，挑战即送头）——"Then I'll fucking kill him./Is that going to fix anything?"（Ky：杀！Taj：杀了能复活吗）——复活不能，但"lovers' tiff"（Gestian：小两口吵架？嘲）配"Come on…get out"（Taj：走，拽走），走即"one foot in front of the other"（一步一挪），挪即"I'll kill him×3"（Ky 碎碎念，念即"help you…mean it"，下一句）。
+**为什么这样写：** 拆招五词：Don't give（别给）配 what he wants（他要的＝决斗）——grab…hiss into her ear（抓＋耳语）配"shake me off…pull her close"（甩＋拽近）——"He killed him…laughing"（Ky：他杀了我爹，还笑）配"Because he wants you to fight him!"（Taj：他就要你打）——"What the fuck do you know?"（Ky：你懂啥）配"people are people, right?…Clawmarks…push/insult/bait…taking a swing"（Taj：Heap 经验，Clawmark 推搡＋辱骂＋ bait 出手）配"can't touch…challenge him"（赛期动不得，挑战即送头）——"Then I'll fucking kill him./Is that going to fix anything?"（Ky：杀！Taj：杀了能复活吗）——复活不能，但"lovers' tiff"（Gestian：小两口吵架？嘲）配"Come on…get out"（Taj：走，拽走），走即"one foot in front of the other"（一步一挪），挪即"I'll kill him×3"（Ky 碎碎念，念即"help you…mean it"，下一句）。
 
 **读者视角提示：** "Don't give him what he wants"是 Taj 的拆招总纲（Heap 经验解 Hod 局）。"people are people"（人就是人，Tranto 家训现学现卖）；读到拆招，先看结果（"jerky nod…limp to doors…irritated look"，点头＋跛行＋Gestian 不爽），爽即拆招成功（"Better luck next time, asshole"，Taj 内心弹幕）。
 

@@ -7,10 +7,10 @@ modified: "2026-10-10"
 
 ## 本章导航
 
-- **一句话概括**：葬礼＋演说：Heap 火葬 vs Hod 墓园 vs 地面土葬（"real sky…real trees…real stars"）；宾客（Ky 股高＋Hisham 撑＋Ameliana 接＋Niami 黑纱＋Council 列队）；Star 口袋（"foundation sigil…slag…facets…new body"＋"Sadness…bury him myself"）；悼词（"brother…baker…dreamer…soft…kind…good…eat…stories…stars…came true"）；檄文（"cruelty…system…Natural…accident…made things…Someone built"＋指树＋"Who…Why…place…answer"＋"someone at the top…go up…ask"）；报名（"Taj Fara…champion…ascend"，全书完）。
+- **一句话概括**：葬礼＋演说：Heap 火葬 vs Hod 墓园 vs 地面土葬（"real sky…real trees…real stars"）；宾客（Ky 股高＋Hisham 撑＋Ameliana 接＋Niami 黑纱＋Council 列队）；Star 口袋（"foundation sigil…slag…facets…new body"＋"Sadness…bury him myself"）；悼词（"brother…baker…dreamer…soft…kind…good…eat…stories…stars…came true"）；檄文（"cruelty…system…Natural…accident…made things…Someone built"＋指树＋"Who…Why…place…answer"＋"However tall the Tree is, there must be someone at the top"）；报名（"Taj Fara…champion…ascend"，全书完）。
 - **情感弧线位置**：从"burn"到"ascend"："burn…junk…trench…cemetery…soil…trees…surface…real…stars"（烧＋埋＋真，葬）→"happy…invitation…stock…side…fetch…ranks…Niami…tears…enough"（客，客即"know…did…enough"，够）→"mourning…tie…slicked…hands…dirt…coffin…Sadness…pocket…facets…body"（丧＋袋，袋即 Star 核（核即"foundation"，基即——返！）→"formula…mouth…hand…smile…brother…baker…dreamer…soft…eat…stories…stars…true…blurs…streaming…killed…cruelty…understand…system…Natural…accident…made…Someone…Tree…glare…thread…Netzach…Who…Why…place…answer…top…ask…muttering…collar…squeezes…Fara…champion…heights…ascend"（悼＋檄＋名，全套，套即——完！完即全书，书即总览三篇，篇即——写！）。
 - **人物弧线**：Somi（"liked it…surface…real…stars"＋"baker…dreamer…soft…eat…stories"，哥＋葬＋悼，悼即"dream…came true"，圆即——完！）；Niami（"muted…lace…tears"，绿＋黑＋泪，泪即"letter"（信，信即托孤，孤即——寄！）；Ameliana（"fetch…undercity…streaming"，接＋泪，泪即——完！）；Hisham（"formula…collar…side…fetch"，撑，撑即"stock…high"，高即 Ky（"presses…smile…squeezes"，按＋笑＋捏，定即——完！）；Ky（"slicked…hands…smile…squeezes"，丧＋笑＋捏，捏即"joined hands…upward…heights"，举即——完！）。
-- **叙事手法**：尾声四段式（葬—悼—檄—名）；"made things…Someone built"（造＋人，檄即"Natural…accident"，批即天定论，论即"Who…Why…place…answer…top…ask"，问即上（上即"heights…ascend"，顶即——完！）；"champion…ascend"（冠＋升，名即报名，名即"My name is Taj Fara"，报即——完！完即全书，书即书名（路即顶，顶即——总览！）。
+- **叙事手法**：尾声四段式（葬—悼—檄—名）；"made things…Someone built"（造＋人，檄即"Natural…accident"，批即天定论，论即Who…Why…place…answer…top…ask，问即上（上即"heights…ascend"，顶即——完！）；"champion…ascend"（冠＋升，名即报名，名即"My name is Taj Fara"，报即——完！完即全书，书即书名（路即顶，顶即——总览！）。
 
 ## 精读
 

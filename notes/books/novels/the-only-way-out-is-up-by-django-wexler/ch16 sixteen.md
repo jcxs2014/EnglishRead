@@ -9,7 +9,7 @@ modified: "2026-10-10"
 
 - **一句话概括**：第四天赴约：背 Star 爬 Stair #3（三十公斤、"I am not your mount"）；焦虑四连（变卦/说谎/被杀/被抓）；重逢拥抱＋眼泪（"burned the last of my money""as crazy as I am"）；Malkuth 白昼（workhouse 反事实"slice by bloody slice"）；街斗皆假（"extracting cash from no-hope gamblers"）；Mark 4 亮相（"dangerous. Sleek.""prodigy"）；king-of-the-pit 规则；Venci 开场（trans woman、蓝绿卷发、嗑籽、"drag it out…tip"、"his name is Star"、"pretending like it understands"）。
 - **情感弧线位置**：从"怕她不在"到"她在哭"：Taj 的焦虑（"blood soaking into her silver hair"式脑补，四连）对 Ky 的眼泪（"wet warmth…against my neck"）——"Emotion time over"（情绪时间结束）配"Let's get to work"（开工），哭完即干活，两人同款，疯得同款（"as crazy as I am"）。
-- **人物弧线**：Venci（pit 主、trans woman、"coat embroidered with wire and glass"、嗑籽、"put on a show"＋五分钟小费）；Ky（"radiant grin…kindles warm feeling"、腰上折叠剑、"I'll be watching your back"）；Star（"suffers to be patted"、"dip of primary optics"、被 Weslai 当"it"，全书最大的误解）。
+- **人物弧线**：Venci（pit 主、trans woman、"coat embroidered with sparkling bits of wire and glass"、嗑籽、"put on a show"＋五分钟小费）；Ky（"radiant grin that kindles a warm feeling"、腰上折叠剑、"I'll be watching your back"）；Star（"suffers to be patted"、"dip of primary optics"、被 Weslai 当"it"，全书最大的误解）。
 - **叙事手法**：爬楼—重逢—逛市—亮相—进场五段式；规则说明体（king-of-the-pit 条款式，注意不是引用块）；以 Weslai 的"creepy"收束（"pretending like it understands"——他懂，他全懂，下一章开打）。
 
 ## 精读

@@ -8,7 +8,7 @@ modified: "2026-10-10"
 ## 本章导航
 
 - **一句话概括**：上 Yesod 日：Mark 6 游行（"brazenly""coyly peeking"、"blushing"玩笑）；Arbiter 双簧（"Passes"＋Hod pass＋"escort"）；Ekkeban 高光（Rotwurm 头砸柜台、绿 RESIST 到手）；Yesod 白昼（狗、马车、婴儿车 runic、"wrong approach"）；Miss Tranto 通缉（"Council most concerned"）；Somi 告别（"Trust, right?"、"rolling pin"、200 stripes 问答、"lick his boots"）；Hod 台阶（"edge of my world"、"lying"警告、"We reach the top."）。
-- **情感弧线位置**：从"炫耀"到"告别"：Rotwurm 头（"crowning moments"）配 Somi 房（"chat with the executioner"）——"stomach drops into my boots"（赏金该给家）对"dream…come apart under your fingers"（抓不住的梦）——"picking at the scab"（揭痂）配"better than I deserved"（不配的好），告别是赎罪券，赎的是"全押"的罪。
+- **情感弧线位置**：从"炫耀"到"告别"：Rotwurm 头（"crowning moments"）配 Somi 房（"chat with the executioner"）——"stomach drops into my boots"（赏金该给家）对dream…come apart under your fingers（抓不住的梦）——"picking at the scab"（揭痂）配"better than I deserved"（不配的好），告别是赎罪券，赎的是"全押"的罪。
 - **人物弧线**：Somi（"Trust, right?"、"Buy more mash"、"starving Ema"、"eight years old"、"aged ten years"续）；Spike（摔门、"trying-not-to-cry face"、喉咙发紧）；Ekkeban（"gentle and retiring nature"、"my baby"出手、"green RESIST"易主）；Yesod 军官（"neat salute"、"refresh yourselves"、"lying"预警）。
 - **叙事手法**：上行三段式（Stair—Ekkeban—Yesod—Hod 阶）；"200 stripes 问答"（mash vs 出去、"lick boots" vs"power"、"stars" vs"eight years old"）；以登顶收束（"We reach the top."——第三部完，第四部在 Hod 门后，下一章先验"they're just people"）。
 

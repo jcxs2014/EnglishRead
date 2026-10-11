@@ -8,7 +8,7 @@ modified: "2026-10-10"
 ## 本章导航
 
 - **一句话概括**：次轮首战 Couvere/Clatter（du Freis 龟、EXPLODE 活塞锤、"wall-of-bits-ed"实感）：Star 派对后遗症（"poisonous substances"＋"mating behavior?"）；"Three more fights"数数；单挑规则（一天修整、"win and still lose"）；断腿 Purge #5→剪锤→"not encouraging"→BLAST 蛋（Purge #3 掩护、"evil orange flames"、龟翻）；Alzimyth 坐直（"strange expression…Not just surprise"）；"winners!"收。
-- **情感弧线位置**：从"宿醉"到"亮底牌"：Star 的"party…poor decisions"（runic 也宿醉）配 Taj 的"mating behavior?/hard to tell"（人类也含糊，脸还红着）——"Me too"（都没准备好）→"keep hitting it"（Simplicity 战术，简单即对）→"tip our hand"（亮 BLAST，亮即"no choice"，择即"tricky timing"，时即"Purge #3"掩护，护即蛋，蛋即赢）。
+- **情感弧线位置**：从"宿醉"到"亮底牌"：Star 的"party…poor decisions"（runic 也宿醉）配 Taj 的"mating behavior…hard to tell"（人类也含糊，脸还红着）——"Me too"（都没准备好）→"keep hitting it"（Simplicity 战术，简单即对）→"tip our hand"（亮 BLAST，亮即"no choice"，择即"tricky timing"，时即"Purge #3"掩护，护即蛋，蛋即赢）。
 - **人物弧线**：Couvere（眼镜＋"figures"＋"plenty of patience"、龟＋黄 RESIST＋换弹夹"clonk"＋"shouting something"）；du Freis（"Mid-rank…opportunists"，钱多，钱即黄甲＋活塞锤×12）；Alzimyth（"curl to lip"＋"tap-tap-tapping"＋"straightened up…eyes lock"，法官上钩，钩即 BLAST）；Hisham（"Oh, yes, go ahead"，工具人，麦克风架）。
 - **叙事手法**：单挑四段式（试探—断腿—剪锤—爆蛋）；"wall-of-bits-ed"（钱砸死，Lorrimer 预言 ch18 兑现：设计无趣＋钱无限＝赢）；"verisimilitude"（喊 Purge #3 演戏，戏即掩护，护即蛋）；BLAST 蛋（"little eggs"＋"hatches underside"＋"no protection underneath"，龟无下甲，甲即"bulk lifted clean off"，飞起＋侧翻）；以法官眼神收束（"Not just surprise, but—"，cut，下一章：他起疑了？疑的是 BLAST 还是 Star？）。
 

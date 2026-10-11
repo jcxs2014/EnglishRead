@@ -9,8 +9,8 @@ modified: "2026-10-10"
 
 - **一句话概括**：决战前夜：workshop 整备（REPEL 重建＋BLAST 复查＋"sleep"令）；Star 夜话（"best runic…acknowledged"＋"miss Somi and Spike"＋"introduce properly"＋THINK 保密＋"make another one?"）；Bradley 传酒（amber bottle＋"blue lounge"）；壁炉夜话（fireplace＋父酒＋"acquired taste"＋Fara 家训＋"look up"＋"decided there"＋"Do you want to—"）；Bradley 截停（Alzimyth 召见＋"ought to know immediately"）。
 - **情感弧线位置**：从"整备"到"壁炉"：Star 的"sleep"令（"lose…because of you"，输赖你，机式激将）→"miss Somi and Spike"（机想家，想即"observe…sympathetic"，看久生情）→"introduce properly"（约，约即"would like that"，机式期待）→壁炉（"bare feet…touching"＋"small and close"＋"melting into velvet"，近＋小＋融）→"something I want"（Ky 剖白：父＋死＋头里声音＋"says who?"）→"Do you want to—"（cut，敲门）——"frozen…cheek…lips"（冻住，cut），冻即 Bradley（"beet red…thorns"，Ky 弹开），弹即召见（见即 Alzimyth 夜访？访即下一章：法官夜话，话即 BLAST＋REPEL＋Star，问即——答？）。
-- **人物弧线**：Bradley（"avuncular smile"＋"delicately"＋"embarrassed cough"＋两次截停：ch31 舞＋本章吻，截停专业户，户即"ought to know immediately"，急）；Ky（"nightgown"＋"toys with hair"＋"swig…widen…acquired taste"＋"huddles…gripping wrist"＋"want/shouldn't/says who/Father dead"＋"shiver"）；父（"favorite"酒＋"never let me"＋"good person…never questioned"＋"there in my head"）；Fara（"If people get hurt…not worth it"＋"try to listen"，家训对家训，训即"good person"，人即两种好：Fara 出世好，父入世好，好即下一章决赛，赛即——赢！）。
-- **叙事手法**：前夜三段式（整备—夜话—壁炉）；"thousand years…no time at all"（两年如千年＋转眼，时间体感，感即"upend my entire life"，覆，覆即"Two months ago…Somi…Rekas"＋"Now…one fight…Uncle Claw…safe place"，昔 vs 今）；"ticket Above…nice to dream"（票＋梦，梦即"don't plan to take"，票先存着，存即 Niami 的信？信即"letter"，约即决赛后）；"Do you want to—"＋knock（表白＋截停，停即 Bradley 专业，业即召见，见即下一章：法官夜话，话即——答？答即决赛前夜，前夜即本章，章即——睡？睡即 Star 令，令即"sleep"，眠即——打！）。
+- **人物弧线**：Bradley（"avuncular smile"＋"delicately"＋"embarrassed cough"＋两次截停：ch31 舞＋本章吻，截停专业户，户即"ought to know immediately"，急）；Ky（"nightgown"＋"toys with hair"＋"swig…widen…acquired taste"＋"huddles…gripping wrist"＋"want…says who…He’s dead"＋"shiver"）；父（"favorite"酒＋"never let me"＋"good person…never questioned"＋"there in my head"）；Fara（"If people get hurt…not worth it"＋"try to listen"，家训对家训，训即"good person"，人即两种好：Fara 出世好，父入世好，好即下一章决赛，赛即——赢！）。
+- **叙事手法**：前夜三段式（整备—夜话—壁炉）；"thousand years…no time at all"（两年如千年＋转眼，时间体感，感即"upend my entire life"，覆，覆即Two months ago…Somi…Rekas＋"Now…one fight…Uncle Claw…safe place"，昔 vs 今）；"ticket Above…nice to dream"（票＋梦，梦即"don't plan to take"，票先存着，存即 Niami 的信？信即"letter"，约即决赛后）；"Do you want to—"＋knock（表白＋截停，停即 Bradley 专业，业即召见，见即下一章：法官夜话，话即——答？答即决赛前夜，前夜即本章，章即——睡？睡即 Star 令，令即"sleep"，眠即——打！）。
 
 ## 精读
 
@@ -78,7 +78,7 @@ modified: "2026-10-10"
 
 **中文理解：** ""你当时咋说的？在底下才好往上看？""
 
-**关键词：** What did you say · look up · bottom
+**关键词：** What was it you said · look up · bottom
 
 **为什么这样写：** "What was it you said? It’s easier to look up when you’re at the bottom?"（Ky 现问现引）——"Something like that…relaxing…melting"（Taj：差不多＋松＋融）是回应。而"Can I try the bottle?…"（试酒）——试即"final match tomorrow…decided there…die/prison…interrupt…do it now…What?…fixes…Do you want to—…knock"（决＋列＋断＋干＋懵＋定＋问＋截，全套，套即 Bradley＋messenger＋Alzimyth＋at once＋ought to know immediately，急即下一章：夜话，话即法官问，问即 BLAST＋REPEL＋Star＋THINK？答即——决赛前夜，前夜即本章，章即——睡？睡即 Star 令，令即"sleep"，眠即——打！）。
 

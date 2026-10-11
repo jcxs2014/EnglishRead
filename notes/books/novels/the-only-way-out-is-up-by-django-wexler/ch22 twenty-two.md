@@ -8,7 +8,7 @@ modified: "2026-10-10"
 ## 本章导航
 
 - **一句话概括**：残骸取心（靴子撬、手臂穿刺、"crimson gauntlet"、"I've got you"）；Quech salute＋蛇退场；格栅隧道（MOVE 意念驱动、"familiar tug"、扯 sigil 断后）；街头围猎（herding、waste collection 半掩门）；Gestian 对峙（"little speech"、婚姻套餐、决斗）；Taj 刻新符文（EXPLODE-but-not、"feels right"、STRONG/FAST/LIGHT 倒接）；闪光致盲＋下水道（"booted feet…clatter in"）。
-- **情感弧线位置**：从"取心"到"造心"：取 Star 的心（手臂穿刺、"scrapes bone"、"grit teeth not to scream"）→造新的心（刻 EXPLODE、"drawing pieces of me into the clay"）——"[Query: would you have abandoned me?]"配"Never."（永不）是全章的心跳；Somi 炸丸子（"slipped it in while I wasn't looking"，妈味包）是眼泪。
+- **情感弧线位置**：从"取心"到"造心"：取 Star 的心（手臂穿刺、"scrapes bone"、"grit my teeth not to scream"）→造新的心（刻 EXPLODE、"drawing pieces of me into the clay"）——"[Query: would you have abandoned me?]"配"Never."（永不）是全章的心跳；Somi 炸丸子（"slipped it in while I wasn't looking"，妈味包）是眼泪。
 - **人物弧线**：Gestian（灰 suit、大衣、"cultured Hod accent"、"honest metal"论、"never teach everything"）；Ky（"I'm going to kill you"×2、"Stubbornness…least attractive"、"preferably while I still have all my limbs"）；Star（"would you have abandoned me?"）；Somi（mash balls，包是妈装的，爱是偷塞的）。
 - **叙事手法**：逃亡五段式（取心—隧道—围猎—决斗—造符）；"Item:"清单体（thief 体、刀、空白 sigil、手套、炸丸子——清单即家当，家当即"So…what?"）；以"clatter in"收束（靴子声关门外，下水道关门内，下一章先喘气再造甲）。
 

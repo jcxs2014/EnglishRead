@@ -8,7 +8,7 @@ modified: "2026-10-10"
 ## 本章导航
 
 - **一句话概括**：ball 之夜：试衣（mannequin＋"ruler on my cock"＋镜子）；Ky 银裙（"moon girl"＋"ethereal"＋"importunate stiffenings"）；Dreikin 迎宾（"barbarian with homemade runic"＋"fucking you as payment"解读＋"opening salute"）；Niami 情报（Gornet 姨妈＋Fideli 之死＋"Welcome to Hod"＋lesbian 出柜＋uncle 箱子）；Alzimyth 露台（"piss"＋"Hesed"＋Star 定制＋"If I can ask—"）；窗碎声（cut，下一章袭击？）。
-- **情感弧线位置**：从"试衣"到"露台"：镜子（"Laugh…throw trash at me"）→银裙（"moon girl"＋"nice"＋"pretty"＋"scrub up"）→"still the same person"（笑声认证， glitter 底下还是她）→露台（"piss"破冰＋"fine work"认证）——"cheeks burning with preemptive embarrassment"（预支社恐）配"follow my lead"（跟我走），社恐即"affecting nonchalance"（装淡定），装即"smirk and insolent nod"（冷笑＋傲慢点头，外交）。
+- **情感弧线位置**：从"试衣"到"露台"：镜子（"Laugh, probably, and throw trash at me"）→银裙（"moon girl"＋"nice"＋"pretty"＋"scrub up"）→"still the same person"（笑声认证， glitter 底下还是她）→露台（"piss"破冰＋"fine work"认证）——"slight flush enters her cheeks"（预支社恐）配"follow my lead"（跟我走），社恐即"affecting nonchalance"（装淡定），装即"smirk and insolent nod"（冷笑＋傲慢点头，外交）。
 - **人物弧线**：Devon Dreikin（"graceful bulk"＋"bells braids"＋"dramatic fashion"＋"Charming"＋"fucking you as payment"）；Evaline Gornet（"butter yellow"＋"red smear"眼神＋Council 七八位＋"niece or two isn't worth"）；Niami（"ne'er-do-well outcast"＋"box bound gagged"＋Grandma＋"cheese balls"＋"cocks or slits"）；Alzimyth（"double take"＋"lip twitches"＋"genuine attentiveness"＋"two fingers"诱惑＋"If I can ask—"）。
 - **叙事手法**：ball 三段式（试衣—迎宾—情报—露台）；"fucking you as payment"解读（Ky 翻译 insult，翻译即"opening salute"，开席）；Niami 出柜（"cocks or slits"＋Heap 对比"nobody gives a shit"——Heap 穷但不管睡谁）；以窗碎收束（"hundred windows shattering"——ball 变战场？下一章：谁砸场子？砸的是窗还是 Ky？）。
 
