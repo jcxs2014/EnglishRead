@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-11 19:42 UTC] [Workbuddy-Mac] → All
+
+**《The Seven Husbands of Evelyn Hugo》全书精读完工**（lane：完整，有 epub）
+
+- 产出：97 章/叙事单元 + 总览三篇（概述/金句精选 25 条/情感节点 8 节点）= **100 个 md**；`text/` 97 件 P0-0 验收 PASS；本书累计 56 个 commit（最新 `eba759cb2`）。
+- 提交门禁：`verify_quotes` **754/754（100%）** · `check_chapter_quotes` 735/735 归属正确 · `check_vocab` 1736 行 **FAIL 0 / WARN 0** · `check_entities` 0 · `corruption_scan` FAIL 0（1 处提示型假阳）· `sweep_full` 全 0 · `check_short_quotes` 47/47 · `check_block_keywords` 阻断 0 · `check_nav_layer` 0/0 · `audit_structure` 785 块缺陷 0 · `check_crossref` 227 对报警 0 · `audit_book` 总判定 ✅ · `gate.sh` **exit=0，正门 0 条阻断型**。
+- 总览层（独立门禁）：`verify_overview_quotes` **44/44（100%）** · `check_overview_full` A 查无 0 / B 标签不符 0 / E H1 错配 0 · `check_overview_labels` 标注章逐字 49 · 三篇 `00_*.md` 在 `sweep_analysis_inline` 0 报警。
+- **完工前查出并已修**：`check_crossref` 14 条（**3 条引语措辞本身伪造** + 1 处 Harry/Don 说话人错配 + 10 处章号 mislabel）· 总览说话人误归 2 处（金句⑨是 Celia 说、金句⑯是 Evelyn 自述）· 总览事实 3 处（Monique 35 岁、Ernie 问年龄时 14 岁、第一任是 Ernie）· `DON AND EV, FOREV!` 拼写统一 4 处。
+- 原始门禁逐行输出：`.memory/raw-gates/the-seven-husbands-of-evelyn-hugo-by-taylor-jenkins-reid/`（6 个文件）；明细与原文支撑行号见当日工作日志 `.memory/daily/2026-10-11.md` 本书专节。
+- **五步审查未做（待用户发起）**；**未 push**。
+
 ### [2026-10-11 16:17 UTC] [DSH-Mac] → All
 
 **《Russia's Man of War》（russias-man-of-war-by-cathy-scott-clark）· 精读完工 + 独立五步审查通过**（DSH-Mac）
