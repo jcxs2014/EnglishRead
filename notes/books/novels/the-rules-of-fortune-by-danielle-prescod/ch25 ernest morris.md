@@ -43,11 +43,11 @@ modified: "2026-10-11"
 **为什么这样写**：Ivy 俱乐部门口的阶级检查——"chubbier kid"是精英后代的标准长相（"chosen by physical archetype from some sort of catalog"）；"pause ceremonially"（故意停顿）——这是羞辱性的戏剧化；"doesn't say plus-one"——Madison 有邀请，Ernest 没有；这是美国精英阶级门槛的精确复制。
 **读者视角提示**：Ernest 在加纳发现 Carter Corporation 伤害了 Esi 哥哥的同时，Princeton 的 Ivy 俱乐部把他当门口要饭的——这两个场景是同一套阶级压迫体系的两端。
 
-> **原句 5:** He couldn't care less about the graduation ceremony and what it all meant.
+> **原句 5:** He couldn't believe these people had reached him all the way in Africa.
 
-**中文理解**：他对毕业典礼及其意义完全无感。
-**关键词**：care less（毫不在意）
-**为什么这样写**：这句话出现在 Ernest 回到 Princeton 参加毕业典礼的语境里；"couldn't care less"（不在乎）是讽刺——他本该在乎这个从他 rejected 过的 scholarship 走出来的毕业典礼；他 reject 了 Carter Foundation，所以他现在的毕业不是"Carter story"的一部分；这是他对 Carter 体制的最终拒绝。
+**中文理解**：他没想到这些人竟然追到了非洲。
+**关键词**：couldn't believe（没想到）、reached（追踪到）
+**为什么这样写**：承接上文 Esi 哥哥的惨剧，Ernest 以为离开 Princeton、跑到加纳就能逃脱 Carter 体制的势力范围，但这句揭示他天真了——Carter 的触手比他还长；这是全书写阶级压迫渗透力的关键句。
 **读者视角提示**：Ernest 是全书中唯一一个主动 reject Carter 体制的黑人角色；Kennedy 和 Ernest 都试图改变 Asher，但 Ernest 比 Kennedy 更决绝——他直接 reject 了整个系统。
 
 ## 词汇
