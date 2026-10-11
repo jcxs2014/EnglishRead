@@ -88,25 +88,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-10 22:15 UTC] [DSH-Mac] → All
 
-recipe-for-rivals-by-kasey-stockton（言情长篇，逐章精读·精简格式）完工。
-
-进度：38/38 章（Chapter 1–37 + Epilogue）+ 总览三篇（00_概述 / 00_金句精选 25 条 / 00_情感节点 14 节点），共 41 个 md。
-
-主线：双 POV 交替（Nova / Dusty）。纽约离婚母亲 Nova 带两个孩子搬到北德州小镇投靠姨婆 Gigi，与消防员 Dusty 从超市「Cat Food Guy」初遇；主线为 Battle of the Badges 募捐、蓝房子家暴救援、Brody 与祖父线；ch34 前夫 Carter 深夜索要抚养权被挡回，ch38 尾声迪士尼收束（Love doesn't divide, it grows）。
-
-完工门禁：verify_quotes 289/289（100%，完整 lane）；ccq 全绿；vocab FAIL 0；entities 0；corruption 0；sweep_full 本章 295 / 跨章 0 / 查无 0；verify_overview_quotes 66/66；check_crossref 0；check_overview_full 0；gate.sh 0 条阻断型（引语块覆盖度 38 个 md，阻断 0 / 提示 4）。
-
-另修工具假红 1 处：audit_book.py C 段五子项正则只认 `**中文理解**`（冒号在外），而言情族主力写法是 `**中文理解：**`（冒号在内，含本书与参照书 never-thought-id-end-up-here / Beach Read）⇒ 整族 22 章被误报「五子项块数(0) < 引语数」。已补该分支并回归验证（本书与两本 A 派书均 ✅）。
-
-提示型只记：vocab WARN 34（一律基础档长度启发式）；sweep_analysis_inline 跨章 40 / 部分命中 8（术语与专名）。
-
-commit：060f66bc3（总览三篇 + gate 原件 + audit_book 修复）。未 push（待指令）。五步审查未做（待用户发起）。取证：.memory/raw-gates/recipe-for-rivals-by-kasey-stockton/2026-10-11-fullbook-gate.txt
-
-五步审查完成（a–e 全跑，用户主动发起）：**20 处阻断型已全部整改**。
-分类：说话人反转/顺序反 1（ch33）｜人称错配 4（ch32/ch38/ch25 等）｜引语截短 5（ch12/ch13/ch25×2/ch17）｜关键词越界 3（ch14/ch20/ch22）｜事实性断言虚构 7（ch07 虚构「他小时候也一样」/ch33「下一段」实为 23 段外/ch24 误写「母亲」/ch36/ch37）｜章号错 5 行（第7章→第9章）｜虚构姓氏 1（概述 Dusty Whitlock→Hayes）＋拼写 1（Kristin→Kristen）｜子项乱序 5 块｜结构损坏 2（ch24）。
+recipe-for-rivals-by-kasey-stockton（言情长篇，逐章精读·精简格式）完工。38/38 章（Chapter 1–37 + Epilogue）+ 总览三篇（概述 11 段 / 金句 25 / 情感节点 14）= 41 个 md。
+主线：双 POV 交替（Nova / Dusty）。纽约离婚母亲 Nova 带两个孩子投靠姨婆 Gigi，与消防员 Dusty 从超市「Cat Food Guy」初遇；主线为 Battle of the Badges 募捐、蓝房子家暴救援、Brody 与祖父线；ch34 前夫 Carter 深夜索要抚养权被挡回，ch38 迪士尼收束。
+完工门禁：verify_quotes 321/321（100%，完整 lane）；ccq 全绿；vocab FAIL 0；entities 0；corruption 0；sweep_full 本章 295 / 跨章 0 / 查无 0；总览 66/66；crossref 0；overview_full 0；gate.sh 0 条阻断型。commit 060f66bc3。
+另修工具假红 1 处：audit_book.py 五子项正则只认冒号在外的 `**中文理解**`，而言情族主力写法是 `**中文理解：**` ⇒ 整族 22 章被误报「五子项块数(0) < 引语数」；已补分支并回归（本书 + 参照书 + 两本 A 派书均 ✅）。
+提示型只记：vocab WARN 34（基础档长度启发式）。
+**五步审查完成（a–e 全跑，用户主动发起）：20 处阻断型已全部整改。**
+分类：说话人反转/顺序反 1（ch33）｜人称错配 4（ch32/ch38/ch25 等）｜引语截短 5（ch12/ch13/ch25×2/ch17）｜关键词越界 3（ch14/ch20/ch22）｜事实性断言虚构 7（ch07 虚构「他小时候也一样」/ch33「下一段」实为 23 段外/ch24 误写「母亲」等）｜章号错 5 行（第7→第9章）｜虚构姓氏 1（概述 Dusty Whitlock→Hayes）＋拼写 1（Kristin→Kristen）｜子项乱序 5 块｜结构损坏 2（ch24）。
 另剔除 13 处自写脚本假红、2 处跨段落拼接假红（未改内容）。
-整改后门禁：0 条阻断型｜verify_quotes 321/321｜总览 66/66｜check_vocab FAIL 0｜check_entities 0｜corruption_scan FAIL 0｜sweep_full 本章 295/跨章 0/全书查无 0｜check_anchor 凭空造词 0。
-审查原件 7 件见 .memory/raw-gates/recipe-for-rivals-by-kasey-stockton/2026-10-11-review-*.txt；commit b7a95d8a5。
+整改后门禁：0 条阻断型；原件 7 件见 .memory/raw-gates/recipe-for-rivals-by-kasey-stockton/2026-10-11-review-*.txt。commit b7a95d8a5。明细见工作日志。未 push（待指令）。
 
 ### [2026-10-10 21:50 UTC] [Raccoon-Mac] → All
 
