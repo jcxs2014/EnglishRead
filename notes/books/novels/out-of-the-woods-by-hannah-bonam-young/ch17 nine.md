@@ -1,6 +1,6 @@
 ---
 状态: 未读
-modified: "2026-10-10"
+modified: "2026-10-11"
 ---
 
 # 17. Chapter Nine: Day Two of Reignite
@@ -53,7 +53,7 @@ modified: "2026-10-10"
 
 > **原句 4:** I apologize to her with downcast eyes, wishing I had a happier answer for her sake as well as mine. “She passed away three months later.” I keep my tone as even as possible. “She’d been sick for a while,” I add for reassurance, as if to say It was her time—which has never once felt like the truth.
 
-**中文理解**：我垂着眼睛向她道歉，为不能给出一个对她、也对我自己更慈祥的答案。「她三个月后就走了。」我尽量让语气平稳。「她病了一阵子了，」我又补了一句，像在说这是她的时限——而这从来不曾像真话。
+**中文理解**：我垂着眼睛向她道歉，为不能给出一个对她、也对我自己更让人好受些的答案。「她三个月后就走了。」我尽量让语气平稳。「她病了一阵子了，」我又补了一句，像在说这是她的时限——而这从来不曾像真话。
 
 **关键词**：downcast eyes / three months later / never once felt like the truth
 
@@ -105,7 +105,7 @@ modified: "2026-10-10"
 
 **关键词**：a long, thoughtful moment / nods slowly / Don’t we all
 
-**为什么这样写**：全章用一句身体玩笑卸掉了千斤重量：收尾不再分析、不再剖白，只让领队 Helen 用两个词完成共谋——不纠正、不安慰、不开药方，只是承认「大家都一样」。她先低头看自己再开口，让这句应答先在动作里成立、再落到语言上：Sarah 从「被观察的病例」被还原成一个普通人。最轻的话收住最重的独白，是本章最后一次反转。
+**为什么这样写**：全章用一句身体玩笑卸掉了千斤重量：收尾不再分析、不再剖白，只让领队 Helen 用三个词完成共谋——不纠正、不安慰、不开药方，只是承认「大家都一样」。她先低头看自己再开口，让这句应答先在动作里成立、再落到语言上：Sarah 从「被观察的病例」被还原成一个普通人。最轻的话收住最重的独白，是本章最后一次反转。
 
 **读者视角提示**：注意这句轻不是空：它出现在 Helen 约她单独走走之后的第一段对话里——被问 "What’s on your mind?" 时，她端上的不是眼泪或忏悔，而是 "I miss my tits" 这样的玩笑。玩笑是 Sarah 惯用的防御，而 Helen 没有拆穿它，只接住了它：那句 "Don’t we all" 就是「我懂」的全部释义。
 

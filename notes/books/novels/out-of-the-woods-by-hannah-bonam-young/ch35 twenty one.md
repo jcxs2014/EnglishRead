@@ -1,6 +1,6 @@
 ---
 状态: 未读
-modified: "2026-10-10"
+modified: "2026-10-11"
 ---
 
 # 35. Chapter Twenty-One: Day Five of Reignite
@@ -45,7 +45,7 @@ modified: "2026-10-10"
 
 **关键词**：My heart drops / our expressions say just that / wrestling with the same problem / One of our group
 
-**为什么这样写**：恐惧被写成三组对称的「不要是他」——每对情侣各占一个名额，私心被摊平给每个人看。最后三个短句层层收窄（them → our men → our group），把散开的焦虑拧成一个节拍：句子越来越短，是呼吸越来越浅的排版版。
+**为什么这样写**：恐惧被写成四组对称的「不要是他」——每对情侣各占一个名额（Caleb、Jai、Henry、Phil），私心被摊平给每个人看。最后三个短句层层收窄（them → our men → our group），把散开的焦虑拧成一个节拍：句子越来越短，是呼吸越来越浅的排版版。
 
 **读者视角提示**：留意「I force myself」——她的第一反应只是自己的丈夫，意识到这一点时的羞耻与恐惧同样真实。叙事者没有把自己写成更好的人，这正是叙事可信度的来源。
 
