@@ -1,0 +1,18 @@
+抽出分析层英文片段 754 条
+✅ 全部片段在全书 text/ 逐字命中
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）15 条 —— 只报不判红，须人判：
+  ch02 two.md:43  too old at twelve to believe in fairy stories
+  ch04 four.md:10  THINK foundation sigil
+  ch05 five.md:63  since old enough to talk
+  ch11 eleven.md:10  Trantos Council family
+  ch12 twelve.md:43  wait while sobs subside
+  ch13 thirteen.md:73  difference between starving and comfort
+  ch14 fourteen.md:23  wasn't a good little girl
+  ch19 nineteen.md:43  wordlessly slides back
+  ch22 twenty-two.md:53  Heapers don't leave tools for thugs
+  ch22 twenty-two.md:53  but somehow nonetheless
+  ch22 twenty-two.md:73  never teach everything
+  ch32 thirty-two.md:23  party with other runics
+  ch32 thirty-two.md:53  disabled or surrenders
+  ch37 thirty-seven.md:83  me and mine taken care of
+  ch38 thirty-eight.md:43  Winning all that matters

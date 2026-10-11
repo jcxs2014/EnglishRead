@@ -1,0 +1,185 @@
+gate.sh 中途中止（set -u 未定义变量等），以上为中止前的输出。
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 351/351 引文可核实（100%）；完全干净文件 46/46；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 959
+--- FAIL (0) ---
+--- WARN (4) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  ❌ FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 333 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 33 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 one.md                                    ch01 one.md: 8/8 in ch01 text
+ch02 two.md                                    ch02 two.md: 8/8 in ch02 text
+ch03 three.md                                  ch03 three.md: 8/8 in ch03 text
+ch04 four.md                                   ch04 four.md: 8/8 in ch04 text
+ch05 five.md                                   ch05 five.md: 8/8 in ch05 text
+ch06 six.md                                    ch06 six.md: 8/8 in ch06 text
+ch07 seven.md                                  ch07 seven.md: 8/8 in ch07 text
+ch08 eight.md                                  ch08 eight.md: 8/8 in ch08 text
+ch09 nine.md                                   ch09 nine.md: 8/8 in ch09 text
+ch10 ten.md                                    ch10 ten.md: 8/8 in ch10 text
+ch11 eleven.md                                 ch11 eleven.md: 8/8 in ch11 text
+ch12 twelve.md                                 ch12 twelve.md: 8/8 in ch12 text
+ch13 thirteen.md                               ch13 thirteen.md: 8/8 in ch13 text
+ch14 fourteen.md                               ch14 fourteen.md: 8/8 in ch14 text
+ch15 fifteen.md                                ch15 fifteen.md: 7/7 in ch15 text（另有 1 条短引语未校验）
+ch16 sixteen.md                                ch16 sixteen.md: 8/8 in ch16 text
+ch17 seventeen.md                              ch17 seventeen.md: 8/8 in ch17 text
+ch18 eighteen.md                               ch18 eighteen.md: 8/8 in ch18 text
+ch19 nineteen.md                               ch19 nineteen.md: 7/7 in ch19 text（另有 1 条短引语未校验）
+ch20 twenty.md                                 ch20 twenty.md: 8/8 in ch20 text
+ch21 twenty-one.md                             ch21 twenty-one.md: 8/8 in ch21 text
+ch22 twenty-two.md                             ch22 twenty-two.md: 7/7 in ch22 text（另有 1 条短引语未校验）
+ch23 twenty-three.md                           ch23 twenty-three.md: 6/6 in ch23 text（另有 2 条短引语未校验）
+ch24 twenty-four.md                            ch24 twenty-four.md: 8/8 in ch24 text
+ch25 twenty-five.md                            ch25 twenty-five.md: 7/7 in ch25 text（另有 1 条短引语未校验）
+ch26 twenty-six.md                             ch26 twenty-six.md: 8/8 in ch26 text
+ch27 twenty-seven.md                           ch27 twenty-seven.md: 8/8 in ch27 text
+ch28 twenty-eight.md                           ch28 twenty-eight.md: 8/8 in ch28 text
+ch29 twenty-nine.md                            ch29 twenty-nine.md: 7/7 in ch29 text（另有 1 条短引语未校验）
+ch30 thirty.md                                 ch30 thirty.md: 7/7 in ch30 text（另有 1 条短引语未校验）
+ch31 thirty-one.md                             ch31 thirty-one.md: 7/7 in ch31 text（另有 1 条短引语未校验）
+ch32 thirty-two.md                             ch32 thirty-two.md: 8/8 in ch32 text
+ch33 thirty-three.md                           ch33 thirty-three.md: 8/8 in ch33 text
+ch34 thirty-four.md                            ch34 thirty-four.md: 8/8 in ch34 text
+ch35 thirty-five.md                            ch35 thirty-five.md: 8/8 in ch35 text
+ch36 thirty-six.md                             ch36 thirty-six.md: 8/8 in ch36 text
+ch37 thirty-seven.md                           ch37 thirty-seven.md: 7/7 in ch37 text（另有 1 条短引语未校验）
+ch38 thirty-eight.md                           ch38 thirty-eight.md: 6/6 in ch38 text（另有 2 条短引语未校验）
+ch39 thirty-nine.md                            ch39 thirty-nine.md: 8/8 in ch39 text
+ch40 forty.md                                  ch40 forty.md: 6/6 in ch40 text（另有 2 条短引语未校验）
+ch41 forty-one.md                              ch41 forty-one.md: 5/5 in ch41 text（另有 3 条短引语未校验）
+ch42 forty-two.md                              ch42 forty-two.md: 5/5 in ch42 text（另有 3 条短引语未校验）
+ch43 forty-three.md                            ch43 forty-three.md: 4/4 in ch43 text（另有 4 条短引语未校验）
+ch44 forty-four.md                             ch44 forty-four.md: 5/5 in ch44 text（另有 3 条短引语未校验）
+ch45 epilogue.md                               ch45 epilogue.md: 8/8 in ch45 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：45 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  ❌ ch14 fourteen.md: 「small-time/medium-time dirtbag」本章查无（全书亦无）
+  ❌ ch14 fourteen.md: 「Noted…doesn't seem entirely displeased」本章查无（全书亦无）
+  ❌ ch16 sixteen.md: 「coat embroidered with wire and glass」本章查无（全书亦无）
+  ❌ ch16 sixteen.md: 「radiant grin…kindles warm feeling」本章查无（全书亦无）
+  ❌ ch17 seventeen.md: 「underdog…road to glory or dead end」本章查无（全书亦无）
+  ❌ ch17 seventeen.md: 「put on a show…No tip」本章查无（全书亦无）
+  ❌ ch21 twenty-one.md: 「withdraw after a match, not before」本章查无（全书亦无）
+  ❌ ch21 twenty-one.md: 「dressed like the thugs who killed Weslai」本章查无（全书亦无）
+  ❌ ch22 twenty-two.md: 「grit teeth not to scream」本章查无（全书亦无）
+  ❌ ch23 twenty-three.md: 「Hod bring back the dead」本章查无（全书亦无）
+  ❌ ch23 twenty-three.md: 「not as good as father」本章查无（全书亦无）
+  ❌ ch23 twenty-three.md: 「steel coins…single bits and centys」本章查无（全书亦无）
+  ❌ ch24 twenty-four.md: 「does it really matter if this rich girl is wrong」本章查无（全书亦无）
+  ❌ ch25 twenty-five.md: 「severed limbs from rear head」本章查无（全书亦无）
+  ❌ ch26 twenty-six.md: 「dream…come apart under your fingers」本章查无（全书亦无）
+  ❌ ch27 twenty-seven.md: 「points to horse then ear」本章查无（全书亦无）
+  ❌ ch28 twenty-eight.md: 「top eight…yield…master unable＝disabled」本章查无（全书亦无）
+  ❌ ch30 thirty.md: 「Laugh…throw trash at me」本章查无（全书亦无）
+  ❌ ch30 thirty.md: 「cheeks burning with preemptive embarrassment」本章查无（全书亦无）
+  ❌ ch31 thirty-one.md: 「grab…hiss into her ear」本章查无（全书亦无）
+  ❌ ch31 thirty-one.md: 「should kiss her?/wouldn't she kiss me?」本章查无（全书亦无）
+  ❌ ch32 thirty-two.md: 「mating behavior?/hard to tell」本章查无（全书亦无）
+  ❌ ch33 thirty-three.md: 「take du Freis down a peg」本章查无（全书亦无）
+  ❌ ch34 thirty-four.md: 「never seen green outside Arbiter」本章查无（全书亦无）
+  ❌ ch34 thirty-four.md: 「on its back…can't right itself」本章查无（全书亦无）
+  ❌ ch34 thirty-four.md: 「on his feet…edge of platform」本章查无（全书亦无）
+  ❌ ch34 thirty-four.md: 「pries paws off…hurls…cracks wall」本章查无（全书亦无）
+  ❌ ch35 thirty-five.md: 「want/shouldn't/says who/Father dead」本章查无（全书亦无）
+  ❌ ch35 thirty-five.md: 「Two months ago…Somi…Rekas」本章查无（全书亦无）
+  ❌ ch36 thirty-six.md: 「Heat creeps…tell him to go fuck himself…no point」本章查无（全书亦无）
+  ❌ ch36 thirty-six.md: 「distrust roaring back…lying badly…beneath contempt」本章查无（全书亦无）
+  ❌ ch37 thirty-seven.md: 「I can beat him×2…hurt…mind」本章查无（全书亦无）
+  ❌ ch37 thirty-seven.md: 「get your chance…Vripiai first」本章查无（全书亦无）
+  ❌ ch37 thirty-seven.md: 「mischievously…flicks eyes to me」本章查无（全书亦无）
+  ❌ ch38 thirty-eight.md: 「Don't die, all right?/You too/Do my best」本章查无（全书亦无）
+  ❌ ch38 thirty-eight.md: 「ear…blood…crate…ribs…blood…boot」本章查无（全书亦无）
+  ❌ ch38 thirty-eight.md: 「runt…bull-thick…ear…crate…boot」本章查无（全书亦无）
+  ❌ ch38 thirty-eight.md: 「dagger…cloakroom…beg for mercy」本章查无（全书亦无）
+  ❌ ch38 thirty-eight.md: 「father/order/coup/Dreikin/du Freis」本章查无（全书亦无）
+  ❌ ch39 thirty-nine.md: 「Hod vs Above…outcome…doubt」本章查无（全书亦无）
+  ❌ ch39 thirty-nine.md: 「give me up…brother…Emotion…surrender…chance…Remonstration…Affront: fight」本章查无（全书亦无）
+  ❌ ch40 forty.md: 「just a guy with sigils」本章查无（全书亦无）
+  ❌ ch40 forty.md: 「Tomorrow…lost…haven't started…sulking…blocked…pain…fault」本章查无（全书亦无）
+  ❌ ch40 forty.md: 「Busy…eat…rest…time…baseline…fault」本章查无（全书亦无）
+  ❌ ch40 forty.md: 「small voice…Busy…eat…rest」本章查无（全书亦无）
+  ❌ ch42 forty-two.md: 「familiar…cannot remember…do not [forget]」本章查无（全书亦无）
+  ❌ ch42 forty-two.md: 「lights…Vehicles?/Decorations?/Parasites?/possible」本章查无（全书亦无）
+  ❌ ch42 forty-two.md: 「lovebirds…forgotten…guts…bulk…Admission…hesitation…Uncertainty…familiar…remember…Certainty: do not」本章查无（全书亦无）
+  ❌ ch42 forty-two.md: 「pride?…scoffs…duty…Tree…cold smile…rolls eyes…mercy…word」本章查无（全书亦无）
+  ❌ ch43 forty-three.md: 「hurled…lacerated…functional…no core…keeps coming」本章查无（全书亦无）
+  ❌ ch43 forty-three.md: 「Star, hear me?…vast…palpable」本章查无（全书亦无）
+  ❌ ch43 forty-three.md: 「open Bug Zapper…well…can」本章查无（全书亦无）
+  ❌ ch43 forty-three.md: 「…un…der…st…and…dies…alone」本章查无（全书亦无）
+  ❌ ch43 forty-three.md: 「will…limp…der…st…and…dies…alone」本章查无（全书亦无）
+  ❌ ch44 forty-four.md: 「sails…drags…through…snap open…scream×3」本章查无（全书亦无）
+  ❌ ch44 forty-four.md: 「scream×3…flickers…arc…thump…rolls」本章查无（全书亦无）
+  ❌ ch44 forty-four.md: 「surges…strobing…shatters…Kill him×3…merges」本章查无（全书亦无）
+  ❌ ch45 epilogue.md: 「someone at the top…go up…ask」本章查无（全书亦无）
+  ❌ ch45 epilogue.md: 「Who…Why…place…answer…top…ask」本章查无（全书亦无）
+  
+  === 导航/总结层英文核对：❌ 59 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（the-only-way-out-is-up-by-django-wexler）===
+  ✅ 逐字 3150 ｜ ⚠️ 跨章 80 ｜ 🔶 拼接 1117 ｜ 🟠 部分命中 524 ｜ 🟡 词形 1 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1363
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、读者视角提示 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 10 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 松散关键词明细 ──
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 44/44 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 19/19 ✅
+
+=== 总览引文 63/63 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  ⚠️ 00_金句精选.md:154  标注 ch35 但引语不在该章（实为 ch33）：everything I ever wanted
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（the-only-way-out-is-up-by-django-wexler）===
+  参照集：text/（45 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（the-only-way-out-is-up-by-django-wexler）===
+  带前缀的 `> **原句 N:**` 行：45 个文件共 360 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+  ❌ ch34 thirty-four.md: 结构对账失败 —— 关键词行 7 ≠ 引语块 8（内容可能被整段复制）
+  ❌ ch35 thirty-five.md 原句7: 关键词不在本块引语内 → ['What did you say']
+=== 引语块覆盖度：45 个 md，阻断型 2 处 ／ 提示型 3 处 ===
+══ 正门结论：❌ 61 条阻断型（见上；退出码 1）══
