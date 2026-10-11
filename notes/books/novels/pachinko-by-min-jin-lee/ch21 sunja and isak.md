@@ -139,7 +139,7 @@ Sunja 在半路上突然喊 Mozasu 的名字——她需要确认大儿子还在
 | gaunt | ⭐⭐ | `a gaunt and filthy man collapsed on the floor` |
 | scab | ⭐⭐ | `The beggar's face was covered with sores and black scabs` |
 | foreman | ⭐ | `his father worked as a foreman at a biscuit factory` |
-| biscuit | ⭐ | `forty unmarried girls packed twenty thin wheat biscuits` |
+| biscuit | ⭐ | `The sweet scent of biscuits wafted out the door` |
 | scrub | ⭐ | `he'd scrub his face until his cheeks were pink` |
 | forthcoming | ⭐⭐ | `Noa wasn't forthcoming about this detail` |
 

@@ -96,7 +96,7 @@ Yoseb 的愤怒揭示了 Korean 社区内部的性别规范与日本殖民语境
 | stubby | ⭐⭐ | `She was sitting on the stubby market stool` |
 | briskly | ⭐ | `he said, walking briskly toward her` |
 | susceptible | ⭐⭐ | `Her sister-in-law was susceptible to endless worrying` |
-| barley | ⭐ | `After a breakfast of barley porridge and miso soup` |
+| barley | ⭐ | `Kyunghee brought her husband a cup of barley tea and his ashtray` |
 | grunt | ⭐ | `He'd nodded at the right times and grunted affirmatively when his Japanese boss was talking about the war` |
 
 > ⚠️ 工具检测到 `grunted` 例句未直接匹配原文，实际例句取自 ch21 text/ `Mozasu grunt` 段落。
