@@ -50,6 +50,8 @@ modified: "2026-10-11"
 
 **中文理解**：光是站在他旁边，我就觉得自己可能会淹死在他倾泻而下的自我崇拜里。
 
+**关键词**：drown / self-adoration cascading off him
+
 **为什么这样写**：作者用**一个液体隐喻**（drown / cascading）写自恋——不是说他自大，而是说他自大的**量**足以淹没旁边的人。这是全章最刻薄也最生动的一句，为后文 Evelyn 的"礼貌微笑 + 冷话"提供了情绪依据：她不是没有脾气，她是把脾气换成了更好用的东西。
 
 **读者视角提示**：把 Brick Thomas 和后面的 Don Adler 放在一起看——两个人都是明星，但作者给 Brick 的意象是"淹没"，给 Don 的意象是"花"。**同一件事（被男性注视）在本书里永远有两种写法：被占有，或被欣赏。**
@@ -59,6 +61,8 @@ modified: "2026-10-11"
 > **原句 4:** "I should have kept quiet. I should have just smiled nicely. But instead, I said, 'Don't hold your breath.'"
 
 **中文理解**：我本该闭嘴。我本该只是礼貌地笑一笑。但我却说："别憋着气等我。"
+
+**关键词**：kept quiet / smiled nicely / Don't hold your breath
 
 **为什么这样写**：作者用**两次自我责备**（should have… should have…）垫高最后一句的反击——Evelyn 明知后果，仍然选择刺回去。"Don't hold your breath" 是一句英文惯用语（别指望了），字面意思（别屏住呼吸）恰好与 Brick 那句"想要的话告诉我"形成对撞。**这一句是全书里 Evelyn 少数几次"不计后果地说真话"**，而 Harry 的回应（"That guy makes us a lot of money"）立刻把这场胜利折算成了生意。
 
@@ -81,6 +85,8 @@ modified: "2026-10-11"
 > **原句 6:** "But then Harry set me up on a date with Don Adler, and I forgot why I would ever have resented the idea in the first place."
 
 **中文理解**：但后来 Harry 安排我和 Don Adler 约会，我就忘了自己当初为什么会抗拒这件事。
+
+**关键词**：set me up on a date / Don Adler / resented the idea
 
 **为什么这样写**：全章唯一的**转折句**，用 "But then" 起头，把前文的全部讽刺一笔勾销。作者让 Evelyn 用一个"忘了"（forgot）来承认自己的沦陷——不是"我改变了想法"，是"我忘了我曾有想法"。**在本书里，心动永远被写成一种认知功能的失效**：她不是说服了自己，她是暂时不会思考了。
 
@@ -116,6 +122,8 @@ modified: "2026-10-11"
 
 **中文理解**：是这个名字。Adler 这个姓。Sunset 想从我身上榨干所有能榨的名气。
 
+**关键词**：The Adler name / squeeze all the fame
+
 **为什么这样写**：Don 说出这句时的处境很关键——他刚被 Evelyn 夸了演技，然后主动承认自己也在被片厂消耗。作者让 Don 在这一刻**展示脆弱**，这是全书里男性角色少有的诚实瞬间；但请注意他把原因归给"名字"（家世）而不是"我在被利用"，**他的自怜里仍然藏着特权**。Evelyn 的回应（"我不认为只是名字，你演得很好"）既真诚又准确——她比 Don 更清楚什么叫"被片厂榨干"。
 
 **读者视角提示**：注意"sqeeze all the fame out of me"与本章开头"a carrot dangled in front of me"是同一套片厂语言。Evelyn 和 Don 在这一点上是**同类**，这是他们能相爱的基础，也是后来悲剧的伏笔。
@@ -126,6 +134,8 @@ modified: "2026-10-11"
 
 **中文理解**：我已经告诉你我什么时候有空了。你要怎么做，随你。
 
+**关键词**：when I'm free / what you will
+
 **为什么这样写**：这是本章 Evelyn 最像"后来的 Evelyn"的一句话——**她给出信息，不给出请求**。她刚知道 Don 下周五要陪 Natalie Ember，她没有生气、没有要求，只说了时间和一句"随你"。这句话把选择权和责任一起推给对方，与上一章"世界不给东西，你得去拿"是同一种逻辑：**我不求你选我，但我把门开着**。Don 的反应（"OK, I'll cancel Natalie, then."）证明这招有效。
 
 **读者视角提示**：把这句话与她日后"掌控节奏"的所有表现串起来看——这不是欲擒故纵的技巧，这是她十四岁就学会的**用不索取来换取**。她知道开口要东西的人会输。
@@ -135,6 +145,8 @@ modified: "2026-10-11"
 > **原句 11:** "One of the better nights of my life,"
 
 **中文理解**："我一生中最好的夜晚之一，"我说。
+
+**关键词**：One of the better nights
 
 **为什么这样写**：全章以一句**克制的告白**收束——她本可以说"最好的夜晚"，但她说了"最好的之一"（one of the better），这是 Evelyn 式的精确与自保。作者紧接着用最后一句旁白（次日的 Sub Rosa 照片与配文）把这句告白变成了一条**新闻**：**私人的幸福在第二天就变成了公开的商品**。这一收一放，正是全书对 Evelyn 一生的总结——她的每一个真心时刻，都会被印在杂志上。
 

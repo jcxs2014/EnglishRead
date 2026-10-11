@@ -50,6 +50,8 @@ modified: "2026-10-11"
 
 **中文理解**：正是在这里，在蒸汽中、满身泡沫里，我不觉得自己是 Monique Grant，那个被抛下的女人。甚至也不是 Monique Grant，那个停滞不前的作家。我只是 Monique Grant，奢侈沐浴用品的主人。
 
+**关键词**：woman left behind / stalled writer / luxury bath products
+
 **为什么这样写**：三个自我定义的**降格式排列**是全章的心理学核心——"被抛下的女人"→"停滞的作家"→"奢侈沐浴用品的主人"。前两个是社会身份（由他人定义），最后一个荒谬地小、却完全属于自己。作者用**极端具体的私人小确幸**来写一个人在最低谷时的自救：不需要意义，只需要一个不疼的角落。这也为 Monique 之后接受任务提供了心理动因——她需要一件"属于自己"的大事。
 
 **读者视角提示**：这句与后文 Evelyn 的自述形成对照。Evelyn 一生都在用"改造自己"（改名、染发、换身份）来逃避痛苦，而 Monique 的方式是躲进一个不痛的小世界。作者把两个女人的"逃避"写成同一种东西的两种形态。
@@ -59,6 +61,8 @@ modified: "2026-10-11"
 > **原句 4:** "Maybe I'm overthinking that photo, but I'm starting to notice a pattern: Evelyn always leaves you hoping you'll get just a little bit more. And she always denies you."
 
 **中文理解**：也许我想多了，但我开始察觉一个模式：Evelyn 永远让你抱着"再多看一点"的希望。而她永远拒绝你。
+
+**关键词**：overthinking that photo / a pattern / always denies you
 
 **为什么这样写**：这是全章的**核心发现**，也是全书对 Evelyn 这个人物最重要的定义之一。Monique 从一张 1967 年金球奖照片（两个男人分别盯着她的胸口和大腿）里提炼出一个跨越大半生的行为模式——**给予与保留的精确配比**。这个发现既是影星魅力的秘密，也是 Evelyn 与 Monique 关系的预告：接下来的采访，Monique 会不会也被这样"吊着"？作者的叙事高明之处在于，让 Monique 自己在研究照片时得出这个结论，而不是靠 Evelyn 说出来——这让后面真正面对 Evelyn 时的警觉有了铺垫。
 
@@ -81,6 +85,8 @@ modified: "2026-10-11"
 > **原句 6:** "Is Evelyn Hugo going to tell me just enough to keep me on the edge of my seat but never enough to truly reveal anything?"
 
 **中文理解**：Evelyn Hugo 会不会只告诉我刚好让我悬在座位边缘的东西，却永远不足以真正揭示任何事？
+
+**关键词**：edge of my seat / never enough / truly reveal anything
 
 **为什么这样写**：全章以**悬念句**收尾，把上一句的"give/withhold"直接投射到即将发生的采访上。"on the edge of my seat"（悬在座椅边缘）是观影体验的习语，作者用它把"采访"与"看电影"叠合——Monique 担心自己会像几十年的观众一样被 Evelyn 牵着走。这个结尾同时是给读者的：你也正坐在这个位置。
 

@@ -26,6 +26,8 @@ modified: "2026-10-11"
 
 **中文理解**：我来见 Evelyn Hugo。我叫 Monique Grant。
 
+**关键词**：here to see Evelyn Hugo / Monique Grant
+
 **为什么这样写**：全章第一句"报到"式的自我介绍，与后文 Evelyn 的"**I'm Evelyn.**"形成一组**精确的镜像**——同一个句式（I'm + 名字），两个人的分量天差地别。Monique 说这句话时"embarrassed even to say it"，因为她知道自己的名字在这里毫无重量；而 Evelyn 说出自己的名字时，作者立刻点明："It strikes me as a unique form of power to say your own name when you know that everyone in the room, everyone in the world, already knows it."这两句自报家门的对照，是本章对"名望"最锋利的一次定义。
 
 **读者视角提示**：留意作者如何用**同一个动作**把两个人放在天平两端——进门报名字。全书反复出现这种"同一动作、不同重量"的结构。
@@ -71,6 +73,8 @@ modified: "2026-10-11"
 > **原句 5:** "I never said anything about confessing sins. I said nothing about sins at all."
 
 **中文理解**：我从没说过要忏悔罪过。我一个字都没提过"罪"。
+
+**关键词**：confessing sins / nothing about sins at all
 
 **为什么这样写**：全章的**主题枢轴**。Monique 随口用"confess your various sins"，Evelyn 的姿势立刻从"relaxed and fairly detached"变成"leaning toward me"——作者用身体语言标出这是全章唯一真正触怒她的地方。接下来 Evelyn 的长段解释（"I don't feel regret for the things I've done—at least, not the things you might expect"）确立了她的道德立场：**她要讲的是事实，不是忏悔**；她不后悔自己做过的"丑事"，她只承认"有时做对的事情会变得难看"（"sometimes doing the right thing gets ugly"）。这句为全书的道德框架定调——读者不能用"罪与罚"的框架读 Evelyn。
 

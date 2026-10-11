@@ -50,6 +50,8 @@ modified: "2026-10-11"
 
 **中文理解**："进展顺利，"我说。我惊讶于自己的声音竟如此平稳、如此平板。
 
+**关键词**：going well / even and flat
+
 **为什么这样写**：作者不写"我在撒谎"，而写**她对自己的谎言能力感到惊讶**——"even and flat"两个形容词把欺骗写成一种身体的、可测量的能力。这一笔比任何内心谴责都更有效地塑造了 Monique 的人物复杂度：她是一个有天赋的撒谎者，而这天赋正是记者职业训练出来的。后文她"hate how sincere it sounds"（恨它听起来那么真诚）继续深化这一层：她厌恶自己擅长的东西。
 
 **读者视角提示**：把这一句与 Evelyn 章末的"我花了一辈子学会编织真相"并读——两个女人在同一个下午各自表演了一次"说得像真的"。作者在用这个平行暗示：她们是同类。
@@ -84,6 +86,8 @@ modified: "2026-10-11"
 
 **中文理解**：你以前从没当过传记作者，但从现在开始你就是了。
 
+**关键词**：biographer / starting now
+
 **为什么这样写**：这是全章的**授权句**，也是 Evelyn 式教育的方法论——**身份先于资格**。Monique 刚坦白"我不是传记作者"，Evelyn 不解释、不安慰，直接用一句话把身份赋予她。这与她自己十四岁时的做法完全一致（她不是演员，但她"就是"了）：Evelyn 相信的不是履历，是决心。这句也宣告了全书的结构：接下来的每一章，Monique 都将在"被当作传记作者"的过程中逐渐成为传记作者。
 
 **读者视角提示**：把这句与 ch02 章末 Frankie 的"write this story well, and then next time it will be"对比——Frankie 说"先写好后成为"，Evelyn 说"先成为再写"。两种教育观的差别，就是这本书里两个世界的差别。
@@ -93,8 +97,6 @@ modified: "2026-10-11"
 > **原句 7:** "Not in the way you mean, no."
 
 **中文理解**：Monique 问"谁是你一生的挚爱？是 Harry Cameron 吗？"，Evelyn 答：不是你指的那种，不是。
-
-**关键词**：Not in the way you mean
 
 **关键词**：Not in the way you mean
 
@@ -119,6 +121,8 @@ modified: "2026-10-11"
 > **原句 9:** "Instead, what plays in the back of my mind all weekend—from my Friday night in to my Saturday night out and my Sunday morning at the park—isn't How did my marriage fail? but rather Who the hell was Evelyn Hugo in love with?"
 
 **中文理解**：相反，整个周末在我脑海里回放的——从周五晚上宅家，到周六晚上出门，再到周日上午在公园——不是"我的婚姻为什么失败？"，而是"Evelyn Hugo 到底爱的是谁？"
+
+**关键词**：back of my mind / How did my marriage fail / in love with
 
 **为什么这样写**：全章以**注意力的转移**收束，用三个具体的时间点（周五夜、周六夜、周日上午）把"整个周末"写实，再用一对并列的疑问句完成交接：旧问题（我的婚姻）退场，新问题（Evelyn 的爱人）上台。作者的处理是克制的——没有写她"不再痛苦"，只写她的脑子被另一件事占满了。**疗愈不是被解决的，是被替换的**，这是本章对 Monique 内心最准确的一次书写。
 

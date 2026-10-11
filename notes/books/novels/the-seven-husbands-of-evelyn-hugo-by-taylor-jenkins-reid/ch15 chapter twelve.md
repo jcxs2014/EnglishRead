@@ -38,6 +38,8 @@ modified: "2026-10-11"
 
 **中文理解**：你告诉自己，他做的事是可以理解的。你说话的方式确实有点无礼。
 
+**关键词**：understandable / sort of rude
+
 **为什么这样写**：作者用**三个连续的"you"** 写自我说服的全过程——为对方找理由、审查自己的措辞、然后把责任接过来。**这一段的语法就是家暴循环的心理机制**：不是她不知道这是错的，而是她有一套完整的自我归因流程。而"sort of"（有点）这个口语弱化词极为精准——**她连给自己定罪都要打个折扣**。
 
 **读者视角提示**：把这段与上一章"我很快就明白，Don 只有赢的时候才开心"对读。**她的清醒与她的自我说服同时存在**，这正是本书拒绝把受害者写成单纯弱者的原因。
@@ -72,6 +74,8 @@ modified: "2026-10-11"
 
 **中文理解**：他说："是啊，可你父母是长岛来的垃圾。没人对你有任何期待。"
 
+**关键词**：trash from Long Island / No one expects anything
+
 **为什么这样写**：这是 Don 全书里最恶毒的一句话，而它的恶毒在于**双重错认**：他连她来自哪里都记错了（Long Island 是纽约的上流郊区，而她是地狱厨房的爱尔兰裔贫民区出身）。作者让 Evelyn 的回应（"I'm from Hell's Kitchen, you asshole."）成为全章唯一一次反击——**她纠正的不是侮辱，是籍贯**。这一笔极为精妙：她在被羞辱的瞬间，仍然坚持自己的来处是准确的。**这是她的骄傲，也是她的武器。**
 
 **读者视角提示**：注意这场争吵发生在奥斯卡双双落败之后。**失败让 Don 需要找一个更低的参照物，而 Evelyn 的出身正好被他当成了那个参照物。**
@@ -93,6 +97,8 @@ modified: "2026-10-11"
 > **原句 7:** "That's the part I was stuck in, the part where you accept the apology because it's easier than addressing the root of the problem, when Harry Cameron came to my dressing room and told me the good news."
 
 **中文理解**：那就是我卡住的部分——你接受道歉，因为那比处理问题的根源更容易；就在那时，Harry Cameron 走进我的化妆间，告诉了我那个好消息。
+
+**关键词**：stuck in / the root of the problem / dressing room
 
 **为什么这样写**：全章的结构枢纽，作者用**一个超长句**同时完成两件事：总结第二人称段落（"that's the part I was stuck in"）并切回第一人称（"when Harry Cameron came to my dressing room"）。**人称的切换发生在句子内部**——从"你"（一般处境）滑到"我"（具体事件），而促成这个切换的正是 Harry 的出现。**这是全书最漂亮的一次语法操作：她的主体性不是自己找回来的，是被一个看见她的人叫回来的。**
 
@@ -151,6 +157,8 @@ modified: "2026-10-11"
 > **原句 12:** "I love him," I said, turning away and clipping my earrings on.
 
 **中文理解**："我爱他，"我说，转过身去，扣上耳环。
+
+**关键词**：I love him / clipping my earrings
 
 **为什么这样写**：作者把一句最重的告白放在一个**最日常的动作**里——她一边扣耳环一边说"我爱他"。这个并置极其精准：**她不是在辩解，她是在准备上工**。而"转过身去"这个动作则暗示她不愿被 Harry 看见自己的脸——**她刚刚承认了一件她自己也知道站不住脚的事**。这一句同时也是本章的答案：她留下，既不是因为不知道，也不是因为软弱，而是因为**她还想要他，也还想要那盏灯**。
 

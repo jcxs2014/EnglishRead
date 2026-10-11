@@ -74,6 +74,8 @@ modified: "2026-10-11"
 
 **中文理解**：据传，Don 那对骄傲得不得了的父母 Mary 和 Roger Adler，对于 Evelyn 加入这个家庭简直高兴得不能再高兴了。
 
+**关键词**：Rumor has it / oh-so-proud parents / joining the family
+
 **为什么这样写**：作者用 **"Rumor has it"** 开头——一个无需为内容负责的转述结构，是小报文体最基本的免责装置。而 "oh-so-proud"（骄傲得不得了）这个带嘲讽的插入语，暴露了叙述者的态度：**这句奉承话是说给 Adler 家看的，不是事实陈述**。对照全书后文（Don 的母亲 Mary 对 Evelyn 的真实态度），这句话的讽刺会成倍放大。
 
 **读者视角提示**：记住 Mary Adler 这个名字。她是本书里第一个真正意义上的"对手"——不是情敌，是婆婆。
@@ -95,6 +97,8 @@ modified: "2026-10-11"
 > **原句 7:** "With a Hollywood family this glamorous and a bride this beautiful, the whole town will be talking."
 
 **中文理解**：有这么一个光彩夺目的好莱坞家族，又有这么美丽的新娘，全城都会谈论这件事。
+
+**关键词**：this glamorous / this beautiful / the whole town will be talking
 
 **为什么这样写**：全章以一句**对称结构**收束：家族的魅力 + 新娘的美貌 = 全城的谈资。作者用最圆满的句式写最空的内容——**这句话里没有任何关于这两个人的信息**，只有他们的可看性。而 "the whole town will be talking" 既是预言也是判词：被全城谈论，就是 Evelyn 此后一生的处境；而她真正想让人知道的事（她是谁、她爱谁），恰恰一句都不会被谈论。
 

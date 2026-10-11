@@ -37,6 +37,8 @@ modified: "2026-10-11"
 
 **中文理解**：拜托告诉我她终于准备好谈那些该死的丈夫们了。
 
+**关键词**：PLEASE tell / damn husbands / finally ready
+
 **为什么这样写**：全大写"PLEASE"是专栏体最典型的修辞——用视觉上的喊叫代替语气强度。作者把全书书名里的"七个丈夫"第一次放进**消费性视角**：读者想听的是八卦，不是真相。"damn"这个粗俗限定词把七段婚姻降格为谈资，与后文 Evelyn 亲自讲述时那种庄重、痛楚的语调形成强烈反差——同一批婚姻，在专栏里是笑料，在回忆录里是一生的伤。
 
 **读者视角提示**：这句是全书叙事的"反面镜子"。等你读完 Evelyn 亲口讲的七段婚姻，再回看这个"damn husbands"，会明白作者的用意：公众永远只想要谈资。
@@ -46,6 +48,8 @@ modified: "2026-10-11"
 > **原句 3:** "If she won't come clean about the husbands, let's pray she at least goes on the record about how she got those eyebrows."
 
 **中文理解**：如果她不肯对丈夫们坦白交代，那我们至少祈祷她能公开说说她那双眉毛是怎么来的。
+
+**关键词**：come clean / on the record / eyebrows
 
 **为什么这样写**：标题"Coming Clean"（坦白/洗清）本指道德层面的交代，专栏却把它偷换成**眉毛**这种琐事——这个降格正是全章的修辞核心：八卦媒体把"坦白"从"说出真相"扭曲成"供出私生活的细节"。"goes on the record"（正式表态）这个新闻术语被用在眉毛上，产生了尖锐的滑稽感。
 
@@ -57,6 +61,8 @@ modified: "2026-10-11"
 
 **中文理解**：为什么是这个叫 Monique Grant 的小妞（而不是我）？
 
+**关键词**：Monique Grant chick / and not me
+
 **为什么这样写**：这句话把全章从"消费 Evelyn"转向"嫉妒同行"——专栏作家的真正痛点不是 Evelyn 的秘密，而是**自己被跳过**。"chick"一词轻蔑，括号里的"(and not me)"是自我暴露式的坦白：她承认自己酸。作者用这句把上一章 Frankie 的"他们想找个没分量的人"再次旁证了一遍——在外界看来，Monique 确实"不够格"，这让 Evelyn 的选择更显反常。
 
 **读者视角提示**：全书的"外部视角"反复质疑 Monique 的资格，读者越是被带着怀疑，后面 Evelyn 揭示真相时的反转就越有力。
@@ -67,6 +73,8 @@ modified: "2026-10-11"
 
 **中文理解**：这是一个向受虐妇女组织和 LGBTQ+ 事业捐赠了数百万美元的女人，现在她为癌症研究拍卖礼服，而你们能谈的只有她的眉毛？说真的？
 
+**关键词**：MILLIONS OF DOLLARS / battered women's organizations / eyebrow game
+
 **为什么这样写**：这是全章**唯一一句替 Evelyn 说话的声音**，出自匿名网友，而非作者——作者把"辩护"交给了评论区，自己只负责嘲讽。三个并列的公益对象（battered women / LGBTQ+ / cancer research）在读者尚未读到 Evelyn 私人故事之前，先把她的"公共善行"清单摆出来；而全大写的"MILLIONS OF DOLLARS"用八卦体的强调方式服务于严肃内容，形成反讽。这句还为全书埋下重要伏笔：**LGBTQ+ 事业**这个细节，在读者尚不知 Evelyn 性取向时只是"慈善记录"，读完全书才知道它是她一生的隐秘书写。
 
 **读者视角提示**：这是本章最值得标记的一句。第一次阅读时它只是一条"热心网友的正义感"，重读时你会发现作者已经在这里剧透了 Evelyn 最重要的秘密——她为 LGBTQ+ 捐钱，不是出于慈善姿态，而是出于自身。
@@ -76,6 +84,8 @@ modified: "2026-10-11"
 > **原句 6:** "JuliaSantos@TheSpill reply to EvelynHugoIsASaint: Right????? Who is Monique Grant anyway? BORING. I'm coming for her . . ."
 
 **中文理解**：JuliaSantos@TheSpill 回复 EvelynHugoIsASaint：就是啊？？？？Monique Grant 到底是谁啊？无聊。我要去追她了……
+
+**关键词**：Monique Grant anyway / BORING / coming for her
 
 **为什么这样写**：全章以作者的**自我否定式收尾**——她先是勉强认错（"fair point, I guess. SORRY"），随即被对方安抚，最后彻底抛弃反省，把矛头转向 Monique。省略号结尾的"I'm coming for her . . ."是威胁也是预告，把八卦媒体的攻击性写成一种可笑的执念。作者用评论区完成了一次微型人物剧：**道歉—被安慰—重新开战**，三步之内暴露了专栏人格的不可救药。
 
