@@ -123,6 +123,8 @@ HERMES_MEMORY/
 # 小说/整本书精读库在 notes/books/ 下；epub/纯文本原文件、calibre 元数据、封面缓存不入库
 notes/books/**/library/
 notes/books/**/text/
+# 装置页提取件（出版页/引言/作者简介/封底广告），非正文语料，不入库
+notes/books/**/_frontmatter/
 notes/books/**/_chapters.json
 # 逐书构建脚本与中间产物（如 .build/chNN_vocab_table.md）。
 # ⚠️ 必须放在**子目录**而不是书目录根：门禁用 `glob(book_dir/*.md)` 扫章节文件，
