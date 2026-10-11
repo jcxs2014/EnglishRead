@@ -102,6 +102,24 @@ Mozasu 的小脑袋靠在 Kyunghee 瘦削的肩胛骨之间，Sunja 看着他们
 
 ---
 
+### ⑥ 原句 6
+
+> "Yoseb and Noa shared a kind of unspeakable grief over Isak's absence."
+
+**中文理解**
+Yoseb 和 Noa 之间有一种关于 Isak 缺席的无法言说的悲伤。
+
+**句子结构**
+极简短句。没有形容词，没有解释，只有事实。`unspeakable grief` 这个词本身已经说明了为什么无法言说。
+
+**关键词**
+- `unspeakable grief`（无法言说的悲伤）——这个词本身就定义了它的不可表达性
+
+**为什么这样写**
+这一句话总结了整章的情感：悲伤是无法言说的。Noa 是一个六岁的孩子，Yoseb 是一个成年人，但他们对 Isak（父亲/弟弟）的爱与失去感是相同的。Min Jin Lee 用这句话结束了 Book II 的第一章节，而不是用任何戏剧性场面——悲伤本身就是最大的戏剧性。
+
+---
+
 ## 词汇分级
 
 | 词汇 | 分级 | 例句 |

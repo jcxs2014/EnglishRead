@@ -56,6 +56,21 @@ Busan 相对于 Osaka 像是另一种人生。这是 Sunja 的内心独白——
 
 ---
 
+### ④ 原句 4
+
+> "Sunja had heard the same stories, and Hansu had warned her on more than one occasion of the Korean recruiters, working for the Japanese army, falsely promising good jobs."
+
+**中文理解**
+Sunja 听过同样的故事，Hansu 也不止一次警告过她——那些为日军工作的朝鲜招募者，用虚假的高薪工作承诺来骗人。
+
+**句子结构**
+`Hansu had warned her on more than one occasion of X`——重复结构，`more than one occasion`强化了"反复警告"的行为。嵌套的现在分词结构 `working for the Japanese army, falsely promising ...` 详细说明了欺骗机制。
+
+**为什么这样写**
+Hansu 对 Sunja 的保护性警告是他复杂性的另一面：他是一个控制者，但他也在保护她。这种"保护"与"控制"之间的边界，是理解他这个人物的核心。
+
+---
+
 ## 词汇分级
 
 | 词汇 | 级别 | 例句（出处） |

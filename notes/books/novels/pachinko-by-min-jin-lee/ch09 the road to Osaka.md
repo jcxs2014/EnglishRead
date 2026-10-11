@@ -82,6 +82,28 @@ Isak 对"爱"的要求看似高尚，实际上也是一种自私——他想要 
 
 ---
 
+### ③ 原句 3
+
+> "You have the kindest father in the land," her mother would often remark, and Sunja had been proud of his love for them, the way a child from a rich family might have been proud of her father's numerous bags of rice and piles of gold rings.
+
+**中文理解**
+这是 ch09 中 Sunja 回忆父亲 Hoonie 的一段话，但它在 ch07 的海滩散步中通过 Yangjin 的视角间接呼应。Yangjin 对 Hoonie 的沉默式爱的回忆，与她对 Isak"愿意娶有孕之女"的感激形成同构——两个男人都是用"行动"而非"言语"表达爱。
+
+**句子结构**
+复合句：`"You have..." her mother would remark`（引用结构）+ `and Sunja had been proud...`（并列主句）。定语从句 `the way a child from a rich family might have been proud...` 用类比说明 Sunja 骄傲的性质——富家女的骄傲来自父亲的财富，Sunja 的骄傲来自父亲的爱，两者等价。
+
+**关键词**
+- `kindest`（最善良的）——Yangjin 对 Hoonie 的定性，与 Hansu 的"有钱"形成对照
+- `the way a child from a rich family might have been proud`（就像富家女为父亲的财富骄傲一样）——类比结构，Min Jin Lee 以此消解阶级差异：穷人的爱与富人的物，在情感层面等价
+
+**表达方式**
+类比（analogy）：通过将穷人的情感体验与富人相比，Min Jin Lee 拒绝了"穷人只有苦难"的叙事，而是赋予穷人与富人等同的情感尊严。
+
+**为什么这样写**
+这段回忆为后文 Yangjin 对 Isak 的"感激"提供了情感基础：她见过真正的爱长什么样（虽然不是用言语表达的），所以她能辨认出 Isak 愿意娶 Sunja 的真诚——不是因为她需要被拯救，而是因为她懂得这种爱的分量。
+
+---
+
 ## 词汇分级
 
 | 词汇 | 词性 | 释义 | 级别 | 例句 |

@@ -80,38 +80,6 @@ Noa 对 Akiko 隐瞒了 Hansu 的真实背景。他的描述是经过筛选的�
 
 ---
 
-### ④ 原句 4
-> "Nothing happened. It was an ordinary lunch with relatives at a fancy sushi-ya. Big deal."
-
-**中文理解**
-什么都没发生。就是和亲戚在一家高级寿司店吃了顿普通的午餐。有什么大不了的。
-
-**句子结构**
-三句简短陈述，语气轻慢。Nothing happened 为否认；It was an ordinary lunch 为定性；Big deal 为讽刺性重复（暗示 Akiko 觉得 Noa 大惊小怪）。
-
-**关键词**
-- **Big deal** 有什么大不了的（讽刺语气）
-- **sushi-ya** /ˈsuːʃi jɑː/ n. 寿司店（日语借词）
-
-**为什么这样写**
-Akiko 的逻辑：她和 Noa 不过是去吃了一顿饭，Noa 不必如此紧张。她不了解朝鲜社会的禁忌—— Hansu 作为 Noa 的秘密生父，是这个家庭的最高机密，Akiko 的出现打破了所有边界。更要命的是，她把这次午餐定性为"和家庭亲戚吃饭"，等于在说 Noa 应该把她当家里人——而这是 Noa 最怕的事（一旦 Hansu 知道 Akiko 的存在，她就会成为 Hansu 控制他的筹码）。
-
----
-
-### ⑤ 原句 5
-> "To new friends," Hansu said, raising his cup.
-
-**中文理解**
-"敬新朋友。"Hansu 举杯说道。
-
-**句子结构**
-直接引语 + 简单现在分词结构。raising his cup 为伴随状语，说明动作同时发生。
-
-**为什么这样写**
-这是全章最后一个句子。Hansu 在尚不了解 Akiko 真实身份的情况下举杯"敬新朋友"——这个"新朋友"是 Noa 的女朋友，而 Hansu 正是那个最不希望 Noa 有独立社交圈的人（Noa 是 Hansu"制造"的儿子，是他投资的教育项目）。Hansu 的热情背后是控制欲：他想亲眼鉴定这个女孩，评估她对 Noa 的影响力。三人共处的局面，从一开始就是一场试探。
-
----
-
 ## 词汇分级
 
 | 词汇 | 音标 | 词性 | 等级 | 例句（摘自原文） |
