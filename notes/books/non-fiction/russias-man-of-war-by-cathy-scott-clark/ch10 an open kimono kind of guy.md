@@ -55,7 +55,7 @@ modified: "2026-10-11"
 - **表达方式**：作者用一长句把整套"长臂"制度的内核写清：pretexts（借口）一词的选择是本章的法律判断——**立法先造出"前提"，再让执法去套人**。这是理解布特为何最终能在纽约受审的钥匙。
 - **为什么这样写**：这是本章因果链的源头。第九章写"美国没有可诉他的法"，本章写"于是美国造了一部新法"——两章对接，作者把"布特被诱捕"从个案上升为**制度自我扩张的一次具体落地**。
 
-> **原句 3:** Sponsored by Henry Hyde… “This bill makes clear that, even without direct US nexus, if these drugs help support or sustain a foreign terrorist organization, the producers and traffickers can, and should, be prosecuted for material support of terrorism, whether or not the illicit narcotics are ever intended for, or enter, the United States.”
+> **原句 3:** Sponsored by Henry Hyde, a powerful Republican who sat on the House Judiciary and International Relations committees, he drew the attention of legislators to its intended reach: “This bill makes clear that, even without direct US nexus, if these drugs help support or sustain a foreign terrorist organization, the producers and traffickers can, and should, be prosecuted for material support of terrorism, whether or not the illicit narcotics are ever intended for, or enter, the United States.”
 
 - **中文理解**：（该条款由海德议员推动——）"这部法案明确：即使与美国没有直接关联，只要这些毒品帮助支撑一个外国恐怖组织，其生产者和贩运者就可以、也应当，以物质支持恐怖主义被起诉——无论这些非法毒品是否原本打算进入、或实际进入了美国。"
 - **句子结构**：引语主干 this bill makes clear that…；that 从句内 even without…（让步状语）+ if…（条件）+ 「can, and should, be prosecuted」（情态动词并列）+ whether or not…（另一让步收束），四个逻辑层套成一句公文。

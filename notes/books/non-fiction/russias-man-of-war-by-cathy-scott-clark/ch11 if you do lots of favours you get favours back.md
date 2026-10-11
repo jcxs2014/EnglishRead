@@ -96,7 +96,7 @@ modified: "2026-10-11"
 - **表达方式**：本章最精炼的双人画：布特的自尊（we're not crooks——他自认做的是"生意"不是"骗局"）与斯穆里安的怯（A small voice）。**"不是骗子"这句自辩的讽刺在于：整场交易从头到尾是一场"骗局"，只是设局者是政府。**
 - **为什么这样写**：作者把"谁骗谁"的问题用十四个词点破。斯穆里安那句"No, I know"是全章他被撕扯处境的总结——他知道 DEA 在骗布特、也知道布特可能知道他在骗布特、还知道自己是这链条上最弱的一环。
 
-> **原句 8:** But then Russian bureaucracy intervened. On February 6, Bout texted Smulian. “Visa was refused to myself. I tried all options.” How about they relocate to Morocco, Bout suggested? … Morocco was not going to work. It was now Bout’s turn to sound desperate: “I can send Michael [Belozerosky]. I can send anybody else, but I myself cannot come.”
+> **原句 8:** But then Russian bureaucracy intervened. On February 6, Bout texted Smulian. “Visa was refused to myself. I tried all options.” How about they relocate to Morocco, Bout suggested? The DEA team consulted the New York prosecutors and were told that Morocco was a no-go. The CIA had Morocco all sewn up, operated another torture black site outside Rabat and was also building a bespoke secret prison for Global War on Terror detainees. Smulian, mentally exhausted, texted back. Morocco was not going to work. It was now Bout’s turn to sound desperate: “I can send Michael [Belozerosky]. I can send anybody else, but I myself cannot come.”
 
 - **中文理解**：但随后俄国官僚机器卡住了。二月六日，布特给斯穆里安发短信："我自己的签证被拒了。我把所有办法都试了。"他建议改到摩洛哥——可摩洛哥也不行（美国检察官说那里是中央情报局的地盘）。轮到布特显得绝望了："我可以派米哈伊尔（别洛泽尔斯基），我可以派任何人，但我自己去不了。"
 - **句子结构**：作者句 But then Russian bureaucracy intervened 拟物起头（bureaucracy 作施动者）；引语 Visa was refused to myself 是布特不合语法的英语（正常说法应是"我的签证被拒"）；It was now Bout's turn to sound desperate 中 turn 与前文"轮次"呼应；末句 I can send A. I can send anybody else, but I myself cannot come 两个 I can send 排比 + but 自指强调（I myself）。
