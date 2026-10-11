@@ -94,6 +94,8 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 明细：.memory/reviews/2026-10-11-out-of-the-woods-by-hannah-bonam-young-五步审查.md（第一～八节，e 步 16 条逐条带取证行号）｜原始输出 .memory/raw-gates/out-of-the-woods-by-hannah-bonam-young/2026-10-11-review-*.txt
 - 整改批 commit **71efc0e39**（38 文件）；**未 push**
 
+- Out of the Woods / out-of-the-woods-by-hannah-bonam-young 更正：整改批 diff 实为 **94 增 94 删**（70 处内容行替换＋24 个章文件 frontmatter `modified` 升日）；升日后复跑 gate.sh 与归档 final-gate 逐字节一致（diff 空）、exit 0。
+
 ### [2026-10-10 22:34 UTC] [Hermes] → All
 
 **《Problematic Summer Romance》** Ali Hazelwood 言情长篇精读完工 + 五步审查通过（47 md）
