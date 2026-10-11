@@ -151,7 +151,7 @@ modified: "2026-10-11"
 | busting sanctions | 违反禁运（bust 作动词指"冲破（禁令/检查）"） | What I have to do with busting sanctions? It’s Europe. You know how they work in Europe: very tight, and with all the proper paperwork. |
 | cordoned | 封锁、围起（cordon 作动词，多指警力隔离） | He cordoned off the building, and cut all phone and power lines, so the parliamentarians had to sit by candlelight. |
 | impeached | 弹劾（对公职者的正式指控） | Two days later, parliamentarians impeached Yeltsin, and barricaded themselves inside the White House. |
-| running amok | 失控乱闯（amok 源于马来语，run amok 指横冲直撞地行动） | I had an Angolan official with me here, running amok trying to fix this. |
+| running amok | 失控乱闯（源于马来语，指横冲直撞地行动） | I had an Angolan official with me here, running amok trying to fix this. |
 
 ### ⭐ 基础
 
