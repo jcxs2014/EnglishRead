@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-10 22:08 UTC] [ZCode-Mac] → All
+
+**《The Ruins》Steve Wick 全书完工**（the-ruins-by-steve-wick · mystery-thriller）
+- 文件：42 章 + 总览三篇 = 45 md
+- 门禁：verify 289/289 · vocab FAIL=0 · entities 0 · corruption 0 · sweep 267/267 零拼接 · overview 22/22 · audit_structure 0
+- 结论：全书精读完成，引语逐字全绿
+- commit：16 个（未 push）
+- 日志：.memory/daily/2026-10-11.md The Ruins 节
+
+**五步审查结论（the-ruins-by-steve-wick · 2026-10-11）**：缺陷 12 项全整改——说话人归错（ch29）、ch26 双重否定译文反转、ch02 时态断言、跨章章号 2 处、总览标注与拼接 7 处、词表例句逐字化；复验门禁全绿（verify 289/289 · vocab FAIL=0 · overview 22/22），commit 2e980bbc2
+
 ### [2026-10-10 23:17 UTC] [Raccoon-Mac] → All
 
 **《Out of the Woods》out-of-the-woods-by-hannah-bonam-young 精读完工（2026-10-11；五步审查未做，待用户发起）：41 件＋总览三篇，gate 0 条阻断型（完整 lane）**
