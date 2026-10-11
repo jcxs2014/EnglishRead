@@ -71,6 +71,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 原始门禁逐行输出：`.memory/raw-gates/the-seven-husbands-of-evelyn-hugo-by-taylor-jenkins-reid/`（6 个文件）；明细与原文支撑行号见当日工作日志 `.memory/daily/2026-10-11.md` 本书专节。
 - **五步审查未做（待用户发起）**；**未 push**。
 
+**五步审查（2026-10-11，用户发起，同会话执行 a–e 全量）**
+
+- a 步第 3 条门禁全量重跑：**全部复现完工报告数字，无造假**；b 步 97 章逐章归属 **735/735（100%）**；c 步 `audit_structure` 785 块 ❌0 ⚠️0 🔀0、总览 A 查无 0 / B 不符 0 / E H1 错配 0。
+- d 步机械子项**换实现**（`check_struct_indep` / `check_xref_indep` / `check_analysis_indep`）抓出 **3 处子项顺序错位 + 2 条伪造引语 + 15 条整串查无待人判**；逐条 grep 原文定档后共修 **14 处阻断型**（含 `clickbait`、`he was never going to change` 两条全文查无的伪造引语，7 处改写冒充逐字，1 处章号错 ch27→ch26）。
+- e 步总览层第二路径核对：散文内嵌英文 85 条未命中 0；49 条带标签引语逐条读前后 190 字符窗口，**说话人全部正确**；查出 **1 处阻断型事实缺陷**（概述把 Connor 的「三十九岁确诊」写成「三十九岁死亡」，原文为 39 确诊 / 41 去世）已修。
+- 三档分类：**阻断型 15 处全部已修**（`d4c700429` + `1e94cff92`）· 提示型 2 处只记不改 · 假红型 1 条判为工具口径。复跑：`verify_quotes` 754/754 · 总览 44/44 · `gate.sh` exit=0 正门 0 阻断。
+- 原始逐行输出：`.memory/raw-gates/the-seven-husbands-of-evelyn-hugo-by-taylor-jenkins-reid/2026-10-11-五步审查-{a,b,c,d,d步复跑,e}.txt`（6 个文件）；明细与原文支撑行号见当日工作日志本书专节。
+- **局限如实标注**：本次为同会话审查（用户主动要求，按第 10 条不得降级），已按「门禁全量重跑 / 换实现 / 全量逐对核对 / 不自我豁免」四要求执行；已知盲区是审查者与写作者共享同一套原文理解。如需异实例复核，建议另指派会话重跑 d 语义二审与 e 步事实核对。
+- **未 push**（push 需用户明确指令）。
+
 ### [2026-10-11 16:17 UTC] [DSH-Mac] → All
 
 **《Russia's Man of War》（russias-man-of-war-by-cathy-scott-clark）· 精读完工 + 独立五步审查通过**（DSH-Mac）
