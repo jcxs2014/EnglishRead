@@ -19,7 +19,7 @@
 
 比对端**必须复用 `verify_quotes.flat_alpha()` / `epub_flat_text()`**（NFKD + 先剥
 `\\n`/`\\t`；剥标签 + `html.unescape`）。自写展平口径会出假红——本会话两次假红
-分别来自漏 NFKD 与漏 `html.unescape`（见 .memory/reviews/ 同类教训）。
+分别来自漏 NFKD 与漏 `html.unescape`（见 .memory/raw-gates/ 同类教训）。
 
 判据三档（每一段都单独查，按 `…` / `. . .` 切段）：
   ✅ 标注章逐字     —— 每一段都落在标注的那一章里

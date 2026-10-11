@@ -28,6 +28,9 @@ site/static/
 .memory/review-raw-*/
 # 子代理任务中间产物（分组交付报告、事实底稿、指令书等；保留作为审查历史参考，不入库）
 .memory/progress/
+# 中间文档红线（2026-10-11 用户拍板）：审查报告/元数据规格一律不入库，只允许 raw-gates 落盘
+.memory/reviews/
+.memory/metro-specs/
 .opencode/
 .commandcode/
 .cortexkit/
