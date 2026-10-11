@@ -53,7 +53,7 @@ modified: "2026-10-10"
 
 **中文理解：** 他终于承认："我当然他妈想要你。你美得离谱，聪明到自找麻烦，而我拒绝走到那一步。"
 
-**关键词：** stupidly beautiful（美得不像话）；too smart for your own good（聪明得自找麻烦）
+**关键词：** stupidly beautiful（美得不像话）；too fucking smart for your own good（聪明到自找麻烦）
 
 **为什么这样写：** 用"承认欲望 + 拒绝行动"的同一句话完成他的全部立场。他给的理由不是"不喜欢她"，是"他拒绝"——她随即指出这个理由站不住，因为它没有说"不"。
 

@@ -23,7 +23,7 @@ modified: "2026-10-10"
 
 **中文理解：** 她承认自己当年不理性，随即反问：谁能在两年内先后失去父母、又被送去和一个几乎陌生的哥哥同住之后，还保持理性？她用"我倒要看看哪个少年做得到"来替自己辩护。
 
-**关键词：** irrational（不理性的）；a virtual stranger of a brother（几乎形同陌路的哥哥）
+**关键词：** irrational（不理性的）；her virtual stranger of a brother（她几乎形同陌路的哥哥）
 
 **为什么这样写：** 用 Then again 一转，把自我检讨变成对处境的陈述。a virtual stranger 这个说法很准——她没有控诉哥哥，只说明两人当时彼此陌生，而这份陌生本身就是丧亲之后的结构性损失。
 
