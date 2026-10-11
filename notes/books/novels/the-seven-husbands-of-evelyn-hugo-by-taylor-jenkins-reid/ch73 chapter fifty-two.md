@@ -30,7 +30,7 @@ modified: "2026-10-11"
 
 **为什么这样写**：**全章的第一段，而它用一件礼服完成了对"新娘"这个身份的重新定义。** 作者让 Evelyn 从 **"dispensed with white"（舍弃了白色）**说起——**"dispense with" 是"免除、省去"的正式动词**，**而它后面跟的是"白色"，也就是新娘这个角色的制服**：**也就是说，她把"纯洁"当成一项可以免除的义务。** 而 **"having long ago stopped feigning innocence"（早就停止假装纯洁）**是全句的支点：**"feigning"（假装）把 innocence 明确标为一种表演**——**而这句话真正说的是：她不是不纯洁，她只是不再演纯洁了。** 而 "ocean-blue maxi dress"（海蓝色长裙）**这个选择的含义由颜色承担**：**海洋蓝既不是纯洁的白、也不是危险的红的，它是一件成熟女人的颜色。** 而 "feathered ever so slightly"（微微打薄出层次）**这个发型细节极其精确**：**"ever so slightly"（极其轻微）说明她在克制**——**四十四岁的女明星不能显得在用力打扮。** 而结尾 **"I was forty-four."** 是全书最常见的那个"短句独立成段"的用法：**一个年龄，一句话，没有形容词**——**而它把整段礼服描写从"她穿了什么"变成了"她在什么年纪做了这件事"。**
 
-**读者视角提示**：请把这一段与 ch71 里 Max 那句 "You are ageless," he said to me. "You can do anything. You are Evelyn Hugo." 连读。**他在沙漠里说她"ageless"（不会老），而她在这段礼服描写里主动报出年龄——作者让两个人对同一件事给出完全相反的定义，而婚后的裂缝正是从这里开始的。**
+**读者视角提示**：请把这一段与本章那句 "You are ageless," he said to me. "You can do anything. You are Evelyn Hugo." 连读。**他在沙漠里说她"ageless"（不会老），而她在这段礼服描写里主动报出年龄——作者让两个人对同一件事给出完全相反的定义，而婚后的裂缝正是从这里开始的。**
 
 ---
 

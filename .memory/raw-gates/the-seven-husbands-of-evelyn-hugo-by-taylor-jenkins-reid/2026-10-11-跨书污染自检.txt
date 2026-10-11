@@ -1,0 +1,14 @@
+=== 跨书污染自检：总览三篇出现的人名逐个 grep -rl（限定 notes/books/novels 下其它书目录）===
+Evelyn Hugo : 无
+Monique Grant : 无
+Celia St. James : 无
+Harry Cameron : 无
+Connor Cameron : 无
+Robert Jamison : 无
+James Grant : 无
+Don Adler : 无
+Mick Riva : 无
+Rex North : 无
+Max Girard : 无
+Ernie Diaz : 无
+John Braverman : 无

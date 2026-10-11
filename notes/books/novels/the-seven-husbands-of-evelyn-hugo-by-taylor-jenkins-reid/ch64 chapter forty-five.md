@@ -54,7 +54,7 @@ modified: "2026-10-11"
 
 **为什么这样写**：**全章的道德核心，而它用三次重复的虚拟语气写成一份自诉状。** 作者让这三个句子共用同一个开头（"What I should have done was…"）——**这个排比结构在英文里是忏悔的句法**：**它不是陈述事实，而是清点错误。** 而三句的递进极为精确：**第一句是对 Max（本该拖延）、第二句是对 Celia（本该告知）、第三句才是真正的问题所在——"give her a say"（给她发言权）。** 也就是说，**Evelyn 的错不在于没请示，而在于她根本没把 Celia 当成一个需要被征询的人。** 而作者紧接着补了整整一段更长的"我本该"（"I should have taken her out to dinner…" / "I should have made love to her that night…"）——**把这份悔恨从"程序"推进到"体贴"**：**她缺的不是许可，是那份把对方放在心上的习惯。** 而全段用 "should have" 写成，**意味着所有这一切都已经来不及了。**
 
-**读者视角提示**：请把这一段与 ch56 那句"It's always been fascinating to me how things can be simultaneously true and false."连读。**Evelyn 清楚什么是对的，也清楚自己没做——作者让她的清醒成为她痛苦的来源，而不是解脱。**
+**读者视角提示**：请把这一段与 ch60 那句"It's always been fascinating to me how things can be simultaneously true and false."连读。**Evelyn 清楚什么是对的，也清楚自己没做——作者让她的清醒成为她痛苦的来源，而不是解脱。**
 
 ---
 

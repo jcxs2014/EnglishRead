@@ -90,7 +90,7 @@ modified: "2026-10-11"
 
 **为什么这样写**：**全章的笑点，而它同时是全章最温柔的一次投降。** 作者让 Evelyn 在被三人连续逼问（"Actually, yeah, Evelyn, what did you do?" / "No, I don't know."）之后认输，**而认输的时机被安排得极准**：**"I lifted Connor up as she started to frown. I knew it meant tears were coming any moment."**——**她是在孩子要哭的那一刻放弃抵抗的**，**也就是说，让她松口的不是三个大人的围攻，是一个婴儿的表情。** 而 "a damn thing"（他妈的一件事）**用的是粗话**——**作者让全书最讲究措辞的女人用一句粗话来承认自己的无能**：**这句粗话在此不是攻击，是亲昵。** 而紧接着 "The three of them started laughing at me, and then Connor started laughing, too."——**连不会说话的婴儿都加入了这个玩笑**：**全章在此达到最完整的家庭感。**
 
-**读者视角提示**：请把这一句与 ch33 那句"I was good at it, and I think you're delighting in it a bit."连读。**Evelyn 一生都在证明自己有用、有价值、不可替代——而本章她证明了自己什么都不用做，也还是被留下来。**
+**读者视角提示**：请把这一句与 ch30 那句"Yes, but you're also good at it, and I think you're delighting in it a bit."连读。**Evelyn 一生都在证明自己有用、有价值、不可替代——而本章她证明了自己什么都不用做，也还是被留下来。**
 
 ---
 

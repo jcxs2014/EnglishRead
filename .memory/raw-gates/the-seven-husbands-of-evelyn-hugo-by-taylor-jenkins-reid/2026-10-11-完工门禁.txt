@@ -1,0 +1,366 @@
+=== 1. verify_corpus（语料层）===
+=== 语料层验收（P0-0）: the-seven-husbands-of-evelyn-hugo-by-taylor-jenkins-reid ===
+text/ 件数: 97
+  [1] 件数 97 == 预期 97  OK
+  [4] 无字面转义符 / LaTeX 命令  OK
+  [2] 未给 --anchors，跳过人物锚点双向  WARN
+  [3] 首末句抽印（人工过目：抓"从句中间开始/句中间结束"的边界错位）
+    ch01 (20 句)
+      首| Evelyn Hugo to Auction Off Gowns
+      末| This auction is expected to raise upward of $2 million.
+    ch02 (206 句)
+      首| CAN YOU COME INTO MY office?”
+      末| But write this story well, whatever it is, and then next time it will be.”
+    ch03 (72 句)
+      首| Evelyn Hugo’s Coming Clean
+      末| .
+    ch04 (84 句)
+      首| I’VE SPENT THE PAST FEW days researching everything I can about Evelyn Hugo.
+      末| Is Evelyn Hugo going to tell me just enough to keep me on the edge of my seat but never enough t
+    ch05 (488 句)
+      首| I WAKE UP A HALF hour before my alarm.
+      末| That means a lot.”
+    ch06 (216 句)
+      首| EVELYN AND I ARE BACK in her foyer.
+      末| but rather Who the hell was Evelyn Hugo in love with?
+    ch07 (45 句)
+      首| I AM ONCE AGAIN IN Evelyn’s study.
+      末| “It’s as good a place to start as any.”
+    ch08 (365 句)
+      首| MY MOTHER HAD BEEN A chorus girl off Broadway.
+      末| So if we are going by the metric that all’s well that ends well, then I guess it’s safe to say t
+    ch09 (141 句)
+      首| EVELYN,” GRACE SAYS AS SHE comes into the room.
+      末| What happened next?”
+    ch10 (166 句)
+      首| LITTLE WOMEN TURNED OUT TO be a carrot dangled in front of me.
+      末| The next day, our picture appeared in Sub Rosa magazine with the caption “Don Adler and Evelyn H
+    ch11 (177 句)
+      首| FATHER AND DAUGHTER WAS A huge hit.
+      末| He gave me a wink.
+    ch12 (9 句)
+      首| Sub Rosa
+      末| With a Hollywood family this glamorous and a bride this beautiful, the whole town will be talkin
+    ch13 (101 句)
+      首| WE HAD A BEAUTIFUL WEDDING.
+      末| We were married for two months before he started hitting me.
+    ch14 (222 句)
+      首| SIX WEEKS INTO OUR MARRIAGE, Don and I shot a weepie on location in Puerto Vallarta.
+      末| It is the only movie I’ve ever shot that I cannot bring myself to watch.
+    ch15 (128 句)
+      首| A MAN HITS YOU ONCE and apologizes, and you think it will never happen again.
+      末| James is going to ruin everything.”
+    ch16 (88 句)
+      首| THE MORNING WE STARTED REHEARSALS for Little Women, Don woke me up with breakfast in bed.
+      末| James.
+    ch17 (119 句)
+      首| LET’S PICK UP HERE TOMORROW,” Evelyn says.
+      末| “I learn quickly.”
+    ch18 (263 句)
+      首| A WEEK INTO REHEARSALS, DON and I were lying in bed.
+      末| He’ll think I’m making fun of him, and he’ll smack me.
+    ch19 (16 句)
+      首| Sub Rosa
+      末| And she’s left a very unsatisfied husband.
+    ch20 (140 句)
+      首| IS THIS REALLY HAPPENING?” I said as I threw the magazine onto Harry’s desk.
+      末| But you’ll definitely run to the tabloids and tell them about the miscarriage of the people who 
+    ch21 (14 句)
+      首| Sub Rosa
+      末| It just goes to show that money can’t buy happiness, folks.
+    ch22 (259 句)
+      首| THE NIGHT AFTER THE NEW article came out, Don was not convinced that it had been the right move,
+      末| I walked over to him and said, “Absolutely nothing.”
+    ch23 (13 句)
+      首| PhotoMoment
+      末| James!
+    ch24 (272 句)
+      首| I DON’T WANT TO DO this,” Celia said.
+      末| I thought, I have to find Celia.
+    ch25 (109 句)
+      首| EVELYN GETS UP OFF THE sofa and picks up the phone, asking Grace to order us dinner from the Med
+      末| “Well,” Evelyn says, “one of them came to me.”
+    ch26 (255 句)
+      首| RUBY LEFT ME THERE, NEXT to the dryer, with an empty cocktail glass in my hand.
+      末| And with that, I went upstairs and packed my bags.
+    ch27 (172 句)
+      首| I HID OUT IN CELIA’S apartment for a week and a half, in purgatory.
+      末| Within those four walls, we were unashamed.
+    ch28 (13 句)
+      首| Sub Rosa
+      末| Has the sun set on Evelyn’s time with Sunset?
+    ch29 (169 句)
+      首| HOW DID YOU REMAIN SO confident?
+      末| “I will.”
+    ch30 (96 句)
+      首| WHEN I WALK INTO EVELYN’S office the next morning, I’m so nervous that my back is sweating and a
+      末| And now I’m finally starting to suspect that I should be scared.
+    ch31 (13 句)
+      首| PhotoMoment
+      末| Looks like Evelyn Hugo’s green with envy.
+    ch32 (172 句)
+      首| ARI DROPPED ME FROM ANY productions within Sunset and started offering to loan me out to Columbi
+      末| I’m going to Paris.”
+    ch33 (129 句)
+      首| CELIA WAS SHOOTING A MOVIE on location in Big Bear for three weeks.
+      末| Six months after we finished shooting Boute-en-Train, I was an international sensation.
+    ch34 (18 句)
+      首| PhotoMoment
+      末| You hear that, Evelyn?
+    ch35 (15 句)
+      首| Hollywood Digest
+      末| One thing’s for sure, if Evelyn so much as shows a bare shoulder in the flick, audiences will co
+    ch36 (14 句)
+      首| Sub Rosa
+      末| Hopefully, this one sticks!
+    ch37 (98 句)
+      首| I WAS SENT AN INVITATION to see Mick Riva perform at the Hollywood Bowl that fall.
+      末| “Or is that my dream woman right there in the front?”
+    ch38 (18 句)
+      首| Sub Rosa
+      末| Whatever it is, it certainly doesn’t sound like it’s on the straight and narrow.
+    ch39 (216 句)
+      首| I’M GOING OUT ON A date with Mick Riva.”
+      末| “I suppose that’s true.”
+    ch40 (252 句)
+      首| I WORE A CREAM-COLORED COCKTAIL dress with heavy gold beading and a plunging neckline.
+      末| And you think, If only they gave out Oscars for this shit.
+    ch41 (17 句)
+      首| PhotoMoment
+      末| With a string of failed marriages between the two of them, what’s one more?
+    ch42 (10 句)
+      首| Sub Rosa
+      末| We just hope Evelyn can get it right one of these days.
+    ch43 (225 句)
+      首| FOR TWO MONTHS, I WAS living in near bliss.
+      末| And Harry caught me.
+    ch44 (79 句)
+      首| YOU AND CELIA DIDN’T HAVE any contact at all?” I ask.
+      末| I married Count Vronsky.”
+    ch45 (166 句)
+      首| THERE IS A CERTAIN FREEDOM in marrying a man when you aren’t hiding anything.
+      末| “We’re absolutely dynamite.”
+    ch46 (11 句)
+      首| PhotoMoment
+      末| With a brand-new movie, a star-studded wedding, and two mansions between them, surely Evelyn and
+    ch47 (11 句)
+      首| PhotoMoment
+      末| That big diamond on her finger has sure got to feel like a good-luck charm for her!
+    ch48 (9 句)
+      首| Hollywood Digest
+      末| Brava, Hugo!
+    ch49 (203 句)
+      首| THE NIGHT OF THE ACADEMY Awards, Rex and I sat next to each other, holding hands, allowing every
+      末| “You’re about to become the highest-paid actress in Hollywood.”
+    ch50 (260 句)
+      首| FOR THE NEXT TWO AND a half years, Rex and I stayed married, living in a house in the hills, dev
+      末| I wasn’t much interested in keeping a log of the victims of my decisions, but it did occur to me
+    ch51 (109 句)
+      首| I PUT ON A RISQUÉ dress that showed just a little too much cleavage, and I drove up Hillcrest Ro
+      末| And then we clinked our glasses and drank.
+    ch52 (51 句)
+      首| IT IS THREE IN THE morning by the time I get home.
+      末| I have no idea that in less than a week, Evelyn Hugo will finish her story, and I’ll find out wh
+    ch53 (206 句)
+      首| I WAS NOMINATED FOR BEST Actress for Carolina Sunset.
+      末| Just to be together.
+    ch54 (14 句)
+      首| PhotoMoment
+      末| After such a shocking beginning to their relationship and a long engagement, all we can say is i
+    ch55 (202 句)
+      首| CELIA GOT ABSOLUTELY SMASHED DURING the wedding.
+      末| When you denied her what she wanted, when you hurt her, she made sure you hurt, too.
+    ch56 (28 句)
+      首| DID YOU EVER CALL HER on it?” I ask Evelyn.
+      末| “It doesn’t always work.”
+    ch57 (99 句)
+      首| IN 1974, ON MY THIRTY-SIXTH birthday, Harry, Celia, John, and I all went out to the Palace.
+      末| “Once again, Evelyn, you’ve got yourself a deal.”
+    ch58 (102 句)
+      首| WOULD THE BABY BE RAISED by the both of you?” Celia asked.
+      末| She looked into my eyes and made me feel rapture, and that night, in giving of herself, she gave
+    ch59 (8 句)
+      首| PhotoMoment
+      末| With a string of hits behind them, Evelyn and Harry are sure to consider the littlest Cameron th
+    ch60 (156 句)
+      首| I WAS IN LOVE WITH Connor from the moment she looked at me.
+      末| “You’re playing opposite Don Adler.”
+    ch61 (33 句)
+      首| WHY DID YOU AGREE TO do it?” I ask her.
+      末| That’s how I ended up seeing my ex-husband for the first time in more than fifteen years over a 
+    ch62 (106 句)
+      首| I’M SORRY, EVELYN,” DON SAID when he sat down.
+      末| “I’d be honored by friendly.”
+    ch63 (67 句)
+      首| JUST BEFORE SHOOTING WAS SET to commence, Harry turned forty-five.
+      末| Because after that, I ruined it.
+    ch64 (342 句)
+      首| DON AND I WERE IN the middle of shooting Three A.M.
+      末| And it was over.
+    ch65 (150 句)
+      首| THAT WAS TRULY IT?” I say.
+      末| And all I can think is, What the fuck did she do?
+    ch66 (57 句)
+      首| JOHN DIED OF A HEART attack in 1980.
+      末| That’s when I knew the family I had made had truly disintegrated.
+    ch67 (10 句)
+      首| Now This
+      末| We certainly hope this means the duo are planning a movie together, because that would be a tour
+    ch68 (79 句)
+      首| I KNEW THE ONLY WAY to get Harry to start living his life again was to surround him with Connor 
+      末| We had climbed to the very top of the mountain, and that night we stuck our flags into the summi
+    ch69 (94 句)
+      首| SOMETIME AROUND ONE IN THE morning, after Harry had already gone back to the hotel to check on C
+      末| XO, M.”
+    ch70 (224 句)
+      首| WE SHOULD STOP THERE,” EVELYN says.
+      末| You’re going to get your answers.”
+    ch71 (176 句)
+      首| WHEN HARRY READ THE NOTE Max had sent me, he was stunned silent.
+      末| “I’ll marry you.”
+    ch72 (13 句)
+      首| Now This
+      末| But what we do know is that he will be husband number six.
+    ch73 (125 句)
+      首| MAX AND I GOT MARRIED in Joshua Tree, with Connor, Harry, and Max’s brother, Luc.
+      末| But I wasn’t her.
+    ch74 (114 句)
+      首| IN 1988, CELIA TOOK THE role of Lady Macbeth in a film adaptation.
+      末| Evelyn
+    ch75 (236 句)
+      首| HELLO?” HER VOICE SOUNDED EXACTLY like it used to.
+      末| The love of my life was waiting, and I was going to go get her back.
+    ch76 (359 句)
+      首| WHEN I GOT TO SPAGO, Celia was already seated.
+      末| “We’re home.”
+    ch77 (16 句)
+      首| Now This
+      末| Hugo doesn’t have a great track record, but in this case, it seems like one thing is clear: Gira
+    ch78 (469 句)
+      首| HARRY WASN’T ON BOARD.
+      末| Harry taught me that.
+    ch79 (12 句)
+      首| Now This
+      末| Cameron is survived by his teenage daughter with Evelyn Hugo, Connor Cameron.
+    ch80 (17 句)
+      首| Now This
+      末| in bed!
+    ch81 (147 句)
+      首| SIX MONTHS AFTER HARRY DIED, I knew I had no choice but to get Connor out of town.
+      末| I hugged her and kissed the top of her head, and just when I was going to let go, she wrapped he
+    ch82 (30 句)
+      首| EVELYN’S EYES ARE WET.
+      末| “This is one thing on which you can trust me.”
+    ch83 (16 句)
+      首| Now This
+      末| We can only assume they are off to visit Celia, who just recently bought property off the southe
+    ch84 (236 句)
+      首| CONNOR CAME BACK TO LIFE on the rocky beaches of Aldiz.
+      末| My wife.
+    ch85 (28 句)
+      首| SIX YEARS LATER, AFTER CELIA and I had spent more than a decade together on the beaches of Spain
+      末| And the devastating luxury of panic overtook me again.
+    ch86 (19 句)
+      首| Now This
+      末| James’s former costar—Evelyn Hugo.
+    ch87 (47 句)
+      首| CELIA, LIKE HARRY, WAS BURIED in Forest Lawn in Los Angeles.
+      末| I saved Connor’s note and threw the magazine in the trash.
+    ch88 (60 句)
+      首| WITH CELIA’S PASSING AND HARRY gone and myself finally in a marriage that, while chaste, was sta
+      末| And it has never left.
+    ch89 (21 句)
+      首| THAT’S HOW MY STORY ENDS.
+      末| Tell them Evelyn Hugo says good-bye.
+    ch90 (21 句)
+      首| WHAT DO YOU MEAN, ‘GOOD-BYE’?
+      末| He died on February 26, 1989.”
+    ch91 (120 句)
+      首| HERE IS THE THING ABOUT fury.
+      末| My father was in love with a man.
+    ch92 (161 句)
+      首| I DON’T KNOW HOW LONG I sit on the couch, staring at the ceiling.
+      末| “Well,” Evelyn says, “I very much hope that you do.”
+    ch93 (29 句)
+      首| WHEN I GET HOME, I instinctively throw my bag onto the couch.
+      末| My hate is not uncomplicated.
+    ch94 (174 句)
+      首| WHEN I GET TO EVELYN’S apartment in the morning, I’m unsure when I even made the actual decision
+      末| Evelyn Hugo is saying good-bye.
+    ch95 (199 句)
+      首| AS I WALK INTO THE subway tunnel and through the turnstiles, I keep wondering if I should turn b
+      末| I don’t know when exactly it happens—I suspect I made sense of things when I was dreaming—but wh
+    ch96 (20 句)
+      首| Evelyn Hugo, Legendary Film Siren, Has Died
+      末| well, that just might make it all worth it.”
+    ch97 (32 句)
+      首| Evelyn and Me
+      末| And anyway, I think once people know the truth, they will be much more interested in my wife.”
+
+WARN  未给 --anchors：**本篇人物应 >0 / 相邻篇人物应 =0** 未验——合并事故只能靠这一项抓（短篇集/分部书/多 POV/日历书必跑）
+
+=== P0-0 语料验收: PASS（FAIL 0 / WARN 1）===
+
+=== 2. verify_quotes ===
+○ 概述类 1 个文件 0 提取——按设计允许（散文体，无编号引语块）
+
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 754/754 引文可核实（100%）；完全干净文件 98/98；正文章节 0 提取 0；总览 0 提取转交 1 ===
+
+=== 3. check_vocab ===
+词条行合计: 1736
+
+--- FAIL (0) ---
+
+--- WARN (0) ---
+
+=== 4. check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== 5. corruption_scan ===
+
+=== 编辑损坏扫描（the-seven-husbands-of-evelyn-hugo-by-taylor-jenkins-reid）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 1 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+  提示：「中文重复片段」实测假阳率约 50%（同一行里译文与拆解会合法重复），
+        真损坏样例见 home-sick ch41:65（同一句重复四遍）。
+
+=== 6. sweep_full ===
+=== 引语整串 flat 比对（the-seven-husbands-of-evelyn-hugo-by-taylor-jenkins-reid）===
+  参照集：text/ 逐章（97 章，可定章） + epub 交叉验证
+  ✅ 本章命中 735 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 46 条归 check_short_quotes；无章可对 0 条未判）
+
+=== 7. check_overview_full ===
+=== 总览整串核查（the-seven-husbands-of-evelyn-hugo-by-taylor-jenkins-reid）===
+  参照集：text/ 逐章（97 章） ｜ 总览文件 3 个
+  A 整串：命中 95 ｜ 🔶 拼接 0 ｜ ⚪ 省略号图式 0 ｜ ❌ 查无 0 ｜ 短引语列出 11
+  B 章节标签：对 95 ｜ 标注与实章不符 0（**只报不判红**：分不清真错标与有意的相关章引用）｜ 无标签未判 0 ｜ 无法判定(无逐章参照) 0
+  F 无引号引语标签：对 0 ｜ 不符 0（**只报不判红**）｜ 跳过 0
+  C 跨章多重命中：0 ｜ E H1 语义错配：0
+
+=== 8. verify_overview_quotes ===
+=== lane：完整 lane（epub） ===
+00_情感节点.md: 21/21 ✅
+00_概述.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 23/23 ✅
+
+=== 总览引文 44/44 可核实（100%）；完全干净文件 2/2；已核覆盖 2/3 篇（无引语 1 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== 9. check_overview_labels ===
+===== 00_金句精选.md：25 条带标签引语（跳过无标签行 0）=====
+
+----- 汇总（共 49 条带标签引语，跳过无标签行 0）-----
+  ✅ 标注章逐字 : 49
+
+----- 口径外（0 条，不计入失败，需人判）-----
+
+----- 待人判清单（0 条）-----
+
+=== 10. check_short_quotes ===
+=== 短引语兜底核对（the-seven-husbands-of-evelyn-hugo-by-taylor-jenkins-reid）===
+  verify_quotes 跳过（<20 flat 字符）的引语：47 条 —— 这些主门禁**根本没查**
+  ✅ 命中 47 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核

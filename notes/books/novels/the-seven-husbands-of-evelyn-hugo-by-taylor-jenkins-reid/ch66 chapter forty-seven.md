@@ -90,7 +90,7 @@ modified: "2026-10-11"
 
 **为什么这样写**：**全章最冷的两句，而它们用两个否定动作写成。** 作者让 Celia 的出场只剩两件事没做：**没有打招呼、没有看**——**而正是这两件"没做的事"构成了她的全部存在感。** 而 "did not say hello"**用了完整的否定助动词形式（而不是 "didn't"）**——**这个书面化的否定让句子变得僵硬、正式、有距离**：**它读起来像一份证词，而不是一段回忆。** 而 "barely looked at me"（几乎没有看我）**比 "did not look"（没有看我）更残忍**：**"barely"暗示她看了一点，而正是那一点被压住了**——**也就是说，克制本身是可见的，而 Evelyn 看见了那份克制。** 而作者紧接着写 Evelyn 的反应：**"I stared at her, aching to walk over and grab her hand. But I didn't take a single step in her direction."**——**两个人都停住了，而作者让她们停在同一个距离上。** 而下一段 Evelyn 给出了她不动的理由：**"I was not going to use this loss of Harry's to ease my own. I wasn't going to make her talk to me. Not like that."**——**"Not like that."（不是那样）这个独立短句是全章最有分量的一句自律宣言**：**她拒绝的是"用别人的葬礼换自己的和解"这种交易。**
 
-**读者视角提示**：请把这一句与 ch64 那句"Celia may have left me in a huff"（ch65 的追述）连读。**ch65 里 Evelyn 说那场离开是"a death by a thousand cuts"，而本章给了这场死亡一个具体场景——作者让两个人终于同处一室，然后让她们一句话都不说。**
+**读者视角提示**：请把这一句与 ch65 那句"Celia may have left me in a huff"连读。**ch65 里 Evelyn 说那场离开是"a death by a thousand cuts"，而本章给了这场死亡一个具体场景——作者让两个人终于同处一室，然后让她们一句话都不说。**
 
 ---
 

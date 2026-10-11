@@ -1,0 +1,51 @@
+########## check_crossref.py（修复后复跑）
+交叉引用核对：227 对，报警 0
+
+########## audit_numbers.py
+  ⚪ ch81 chapter fifty-seven.md:19  「十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch81 chapter fifty-seven.md:39  「十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch81 chapter fifty-seven.md:43  「十七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch81 chapter fifty-seven.md:45  「十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch81 chapter fifty-seven.md:79  「十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch81 chapter fifty-seven.md:91  「十四岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch84 chapter fifty-nine.md:19  「五十五岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch86 now this.md:39  「61 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch88 chapter sixty-two.md:10  「八十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch88 chapter sixty-two.md:10  「三十九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch88 chapter sixty-two.md:59  「八十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch88 chapter sixty-two.md:63  「八十一岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch88 chapter sixty-two.md:119  「三十九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch88 chapter sixty-two.md:123  「三十九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch88 chapter sixty-two.md:123  「三十九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch88 chapter sixty-two.md:202  「三十九岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch91 chapter sixty-five.md:12  「七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch92 chapter sixty-six.md:79  「七岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch96 evelyn hugo legendary film sire:27  「79 岁」年龄/百分比类，文本层推不出真值，只列出待人核
+  ⚪ ch97 evelyn and me.md:67  「八十岁」年龄/百分比类，文本层推不出真值，只列出待人核
+
+########## audit_book.py
+- ch84 chapter fifty-nine.md: ✅
+- ch85 chapter sixty.md: ✅
+- ch86 now this.md: ✅
+- ch87 chapter sixty-one.md: ✅
+- ch88 chapter sixty-two.md: ✅
+- ch89 chapter sixty-three.md: ✅
+- ch90 chapter sixty-four.md: ✅
+- ch91 chapter sixty-five.md: ✅
+- ch92 chapter sixty-six.md: ✅
+- ch93 chapter sixty-seven.md: ✅
+- ch94 chapter sixty-eight.md: ✅
+- ch95 chapter sixty-nine.md: ✅
+- ch96 evelyn hugo legendary film siren has died.md: ✅
+- ch97 evelyn and me.md: ✅
+
+## C. 格式门禁
+- ✅ 全部通过
+
+## D. 词汇表与实体
+- 词条行合计 1736；词汇 FAIL 0 / WARN 0
+- 实体未知文件 0 个
+
+## 结论
+- 引文：200/200 可核实
+- 总判定：✅ 全部通过

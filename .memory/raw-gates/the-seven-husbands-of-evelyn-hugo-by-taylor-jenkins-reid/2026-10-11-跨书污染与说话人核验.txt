@@ -1,0 +1,17 @@
+=== 跨书污染自检：总览三篇出现的人名逐个 grep -rl ===
+Evelyn Hugo : 他书命中 1
+Monique Grant : 他书命中 0
+Celia St. James : 他书命中 0
+Harry Cameron : 他书命中 0
+Connor Cameron : 他书命中 0
+Robert Jamison : 他书命中 0
+Grace : 他书命中 607
+James Grant : 他书命中 0
+Don Adler : 他书命中 0
+Mick Riva : 他书命中 0
+Rex North : 他书命中 0
+Max Girard : 他书命中 0
+Ernie Diaz : 他书命中 0
+John Braverman : 他书命中 0
+David : 他书命中 889
+Frankie : 他书命中 292
