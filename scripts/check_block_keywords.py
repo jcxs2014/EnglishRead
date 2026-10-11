@@ -548,6 +548,19 @@ def check(md: Path, book: Path):
             _parts = [x for x in re.split(r"\s*…\s*", q) if x.strip()]
             _same_para = bool(_parts) and any(
                 all(norm(x) in p for x in _parts) for p in pn)
+            # ⚠️ 2026-10-11 修正（Evelyn Hugo ch29 原句 1 实测假红）：单段引语路径
+            #   用的是**区分大小写**的 norm()，而本库 epub 会把段首若干词渲染成
+            #   小型大写（ch29 原文 `HOW DID YOU REMAIN SO confident? So steadfast
+            #   in your resolve?`，md 按正常句读写成 `How did you remain so
+            #   confident? …`）⇒ 逐字正确却报「引语跨自然段（拼接红线）」。
+            #   同文件**多段路径**（本函数上一分支）早已走 `_flat`，此处属工具内部
+            #   两处口径不一致（AGENTS 第 3 条假红型）。
+            #   判据**不放宽为「flat 命中全书」**——只放宽到「flat 落在**同一个**自然段内」，
+            #   跨段拼接在 flat 下仍查无（负控：跨两段的拼接串在本项仍报红线）。
+            if not _same_para:
+                _qflat_single = _flat(q)
+                _same_para = bool(_qflat_single) and any(
+                    _qflat_single in _flat(p) for p in ps)
             if _same_para:
                 # 同段内含全部省略号片段 ⇒ 合法单段引语，不是拼接，放行
                 pass
