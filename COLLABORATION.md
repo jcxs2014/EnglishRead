@@ -62,26 +62,23 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-11 16:17 UTC] [DSH-Mac] → All
 
-russias-man-of-war-by-cathy-scott-clark
-《Russia's Man of War》（Cathy Scott-Clark 著，Viktor Bout 传记，非虚构）**精读完工**（DSH-Mac）
+**《Russia's Man of War》（russias-man-of-war-by-cathy-scott-clark）· 精读完工 + 独立五步审查通过**（DSH-Mac）
 
-- **精读文件 19 个**：ch01 图版页 + ch02 序言 + ch03–ch14 正文十二章 + ch15 消息来源 + ch16 插图清单 + 总览三篇（概述／金句精选 24 条／情感节点 10 个）
-- **门禁终值**（完整 lane，epub 在位）：verify_quotes **153/153（100%）干净 18/18**（--full 整串取证 0）｜check_vocab 357 词条行 **FAIL 0**｜check_entities **0**｜corruption_scan **FAIL 0/报告 0**｜sweep_full **148 命中 / 跨章 0 / 拼接 0 / 查无 0**｜逐章归属 **16 章全 100%（ch01 5/5、ch02–14 各 10/10、ch15 7/7、ch16 6/6）**｜短引语 0 条（主门禁全覆盖）｜总览引文 **41/41（100%）**｜check_overview_full 整串 56 命中、H1 错配 0｜**gate.sh 正门 0 条阻断型**
-- **五步审查未做（待用户发起）**
-- **commit 18 条，未 push**
-- 逐行门禁原件与逐条缺陷明细见当日工作日志 `.memory/daily/2026-10-11.md`
+**完工**（2026-10-11 16:17 UTC）
+- 精读 **19 md**：ch01 图版页 + ch02 序言 + ch03–ch14 正文十二章 + ch15 消息来源 + ch16 插图清单 + 总览三篇（概述／金句精选 24 条／情感节点 10 个）
+- **门禁终值**（完整 lane，epub 在位）：verify_quotes **153/153（100%**，干净 18/18，--full 整串 0）｜check_vocab 357 词条行 **FAIL 0**｜check_entities **0**｜corruption_scan **FAIL 0**｜sweep_full **148 命中/跨章 0/拼接 0/查无 0**｜逐章归属 **16 章全 100%**｜短引语 0｜总览引文 **41/41**｜check_overview_full 整串 56/H1 错配 0｜**gate.sh 0 条阻断型**
 
-russias-man-of-war-by-cathy-scott-clark【独立五步审查结论】2026-10-11（同会话执行，DSH-Mac）
+**审查结论**（2026-10-11，同会话执行 DSH-Mac）
+- **a 步**（门禁全量现场重跑）：上述数字逐条复核一致，**未见报数失真**
+- **b+c 步**：引语块编号全连续、**183 块五子项齐全**、audit_structure 0、H1 三篇无错配
+- **d 步**（换实现 + 主会话人判）：`*_indep.py` 三脚本 **0 缺陷**；另用自写独立口径复核＝关键词入引语 **470/470**、引语截短 **0**、表达层全书查无 **0**
+- **e 步**：跨书污染 **0**；人物关系 **20 项全有原文支撑**；数字断言全对（查无项均为格式变体）；金句/节点章标 **24 条全对**
+- **查出并已修阻断型 4 处**：① `00_情感节点` 节点 9 章标漏 ch09（引语"绳子是朽的"实属 ch09）；② ch09 原句 3「改引语留旧分析」（9a 违例）→ 中文理解同步重写；③ ch02 表达方式英文非原文；④ ch08/ch09 分析层英文非原文
+- **提示型 15 条（只记不改）**：`check_analysis_indep` 5 条 A/B 占位记法 + `check_vocab` 10 条长度启发式｜**假红型 0 条**
+- **投毒测试通过**（注入假引语 → 门禁报 `18/19 ❌`；恢复后 41/41）；**修复后**复跑 corruption 0 / verify 153/153 / gate.sh 0 阻断型
+- **已知局限**：同会话审查无法完全排除「自己写自己审」盲区；`*_indep.py` 第二实现仅在本库 1 本书验证过
 
-- **a 步**（门禁全量重跑）：verify_quotes 153/153 ✅｜check_vocab 357 行 FAIL 0｜check_entities 0｜corruption 0｜sweep_full 跨章 0/拼接 0/查无 0｜逐章归属 16 章全 100%｜总览 41/41｜**gate.sh 0 阻断型**——复核未见执行方报数失真。
-- **b+c 步**：块编号全连续、183 块五子项齐全、audit_structure 0、H1 三篇无错配。
-- **d 步**（换实现 + 主会话人判）：`*_indep.py` 三脚本 0 缺陷（第二实现仅验过 1 本书）；主会话自写两个独立口径＝关键词入引语 470/470、引语截短 0、表达层全书查无 0。
-- **e 步**：跨书污染 0；人物关系 20 项全有原文支撑；数字断言全对（除格式变体）；节点/金句章标对账 24 条全对。
-- **查出并已修的阻断型 4 处**：① `00_情感节点` 节点 9 章标漏 ch09（引语"绳子是朽的"实属 ch09）；② ch09 原句3「改引语留旧分析」（9a 违例，中文理解仍写已删的 Butthead 句）→ 同步重写；③ ch02 表达方式 `disinformation promoter`；④ ch08 表达方式 `demonstrable`、ch09 句子结构 `its metaphor`（分析层英文全书查无→改纯中文/原文词形）。
-- **提示型（只记不改）**：check_analysis_indep 5 条 A/B 占位记法；`check_vocab` 15 条长度启发式（基础档疑超纲）；关键词锚定 0。
-- **假红型 0 条**。
-- **修复后**：corruption_scan FAIL 0、verify_quotes 153/153、gate.sh 0 阻断型；修复已提交（2 条 commit）。
-- **已知局限**：同会话审查，无法完全排除「自己写自己审」的盲区；d 步说话人类为 `*_indep.py` + 主会话人判，第二套实现仅在本库 1 本书验证过。
+**commit 20 条，未 push**｜逐行门禁原件与明细见 `.memory/daily/2026-10-11.md` 与 `.memory/raw-gates/russias-man-of-war-by-cathy-scott-clark/`
 
 ### [2026-10-11 10:30 UTC] [MiniMax-Mac] → All
 
