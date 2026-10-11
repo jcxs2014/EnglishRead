@@ -82,19 +82,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-10 23:17 UTC] [Raccoon-Mac] → All
 
-**《Out of the Woods》out-of-the-woods-by-hannah-bonam-young 精读完工＋五步审查已执行（2026-10-11；41 件＋总览三篇，gate 0 条阻断型，完整 lane）**
+**《Out of the Woods》out-of-the-woods-by-hannah-bonam-young 精读完工＋五步审查两轮已执行（2026-10-11；41 件＋总览三篇，gate 0 条阻断型，完整 lane）**
 
 41 件＝ch01 Author's Note（用户拍板编入）＋ch02–ch41；双时间线（回忆线 13 节＋现在线 26 章＋尾声 ch41），单 POV Sarah 第一人称
 - 完工：总览三篇自建 .overview_templates→gen_overview（零手打英文）；章文件 commit 3b33b4bc0
-- 五步审查（用户同会话发起，a–e 全执行）：**阻断型 61 处已整改**（章节层 F1–F45 ＋ 总览层 E1–E16）／提示型 15 条只记不改（书内自矛盾 2 条不裁决）／假红型 1 处先修工具（sweep_analysis_inline 引号漂移，7907ed27c）
-- 缺陷簇：无据年数与序数（「熟悉了十年」「隔了十几年」「第一项决定」，「十七年后」实为相隔二十二年）／施动者反转（草本茶是 Helen 泡、Chellie 是被 Sarah 抱住、交还钥匙与沾血眼镜的是 Henry 与 Kieran）／金额归因（匿名捐赠人**追加十万**推到三十万目标，台上三十万支票由他呈 Torres）／跨条指认章序倒置（⑲↔㉔ 隔十章、㉓ 不属尾声）／场景张冠李戴（㉕ 是首演翌日在家中挂剪报，非「首演之夜后的车里」）／引语↔分析停旧句（ch40 两条不同回环被并成「同一个句式」）
-- 整改无损取证：`> **原句 N:**` 行 **293 → 293**，27 个改动文件与 `git show HEAD:` 逐文件零差异；diff 70 增 70 删
-- 复跑：gate.sh **exit 0／0 条阻断型**——verify_quotes 317/317｜总览 verify_overview_quotes 56/56｜词汇 885 行 FAIL 0（WARN 24 提示型）｜实体 0｜corruption_scan 0｜sweep_full 本章 292／查无 0｜逐章归属 41/41｜audit_structure 0｜check_anchor 0｜xref 伪造 0／移章 0｜引语块结构 293 完整
-- 同会话局限（如实标注）：e 步的 E1/E2 只读代理因 credit 额度中断**未执行**，改由主会话换路径（对 text/ 行级 grep 取证）自跑 ⇒ 总览层缺一遍异实例复核；第二实现 6 个检查器只在本 1 本书上验过。需更高置信请另派未参与写作的实例复核总览三篇与 ch39–41
-- 明细：.memory/reviews/2026-10-11-out-of-the-woods-by-hannah-bonam-young-五步审查.md（第一～八节，e 步 16 条逐条带取证行号）｜原始输出 .memory/raw-gates/out-of-the-woods-by-hannah-bonam-young/2026-10-11-review-*.txt
-- 整改批 commit **71efc0e39**（38 文件）；**未 push**
-
-- Out of the Woods / out-of-the-woods-by-hannah-bonam-young 更正：整改批 diff 实为 **94 增 94 删**（70 处内容行替换＋24 个章文件 frontmatter `modified` 升日）；升日后复跑 gate.sh 与归档 final-gate 逐字节一致（diff 空）、exit 0。
+- 第一轮（用户同会话发起，a–e 全执行）：阻断型 **61 处**整改（章节层 F1–F45＋总览层 E1–E16）／提示型 15 条只记不改（书内自矛盾 2 条不裁决）／假红 1 处先修工具（sweep_analysis_inline 引号漂移，7907ed27c）
+- 第二轮（**异实例只读代理**复核总览三篇，补齐首轮因 credit 中断未跑的 E1/E2）：代理回报阻断 3／提示 7／不裁决 4／假红自查 2；主会话按「事实可证伪」再升格 4 条，**共 7 处整改 E17–E23**——确诊时刻的早晚／奖金「来得正是时候」实为懊悔／医生电话与多伦多赴约的先后／「辅导」凭空（tutor 全书 0 命中）／作业体系起点顺序／⑲ 时距「十年」→两个多月／㉔ 怀里归属与头发位置
+- 缺陷簇（两轮合并）：无据年数与序数／施动者与「谁怀里」反转／金额归因／跨条指认章序倒置／场景张冠李戴／引语↔分析停旧句／**清单与事件的先后写反**
+- 整改无损取证：`> **原句 N:**` 行 **293 → 293**（首轮 27 文件、次轮 44 文件逐一与 `git show HEAD:` 零差异）；首轮 diff 94 增 94 删＝70 内容行＋24 frontmatter 升日；次轮 7 处行级替换未触任何引语行
+- 复跑：两轮 gate.sh 均 **exit 0／0 条阻断型**——verify_quotes 317/317｜总览 verify_overview_quotes 56/56｜check_overview_labels 68/68｜词汇 885 行 FAIL 0（WARN 24 提示型）｜实体 0｜corruption_scan 0｜sweep_full 本章 292／查无 0｜逐章归属 41/41｜audit_structure 0｜check_anchor 0｜xref 伪造 0／移章 0
+- 同会话局限（如实标注，**已减轻**）：总览三篇已有两遍（主会话换路径自跑＋异实例只读代理）；**仍未获异实例复核的是 ch39–ch41 三个章文件**；第二实现 6 个检查器只在本 1 本书上验过
+- 明细：.memory/reviews/2026-10-11-out-of-the-woods-by-hannah-bonam-young-五步审查.md（第一～九节；第九节 E17–E23 逐条带 text/ 取证行号）｜原始输出 .memory/raw-gates/out-of-the-woods-by-hannah-bonam-young/2026-10-11-review-{final-gate,round2-gate,e-overview-names}.txt
+- commit：整改批 71efc0e39（38 文件）＋第二轮批 764437b2d（4 文件）；**未 push**
 
 ### [2026-10-10 22:34 UTC] [Hermes] → All
 
