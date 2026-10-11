@@ -108,12 +108,12 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 完工：总览三篇自建 .overview_templates→gen_overview（零手打英文）；章文件 commit 3b33b4bc0
 - 第一轮（用户同会话发起，a–e 全执行）：阻断型 **61 处**整改（章节层 F1–F45＋总览层 E1–E16）／提示型 15 条只记不改（书内自矛盾 2 条不裁决）／假红 1 处先修工具（sweep_analysis_inline 引号漂移，7907ed27c）
 - 第二轮（**异实例只读代理**复核总览三篇，补齐首轮因 credit 中断未跑的 E1/E2）：代理回报阻断 3／提示 7／不裁决 4／假红自查 2；主会话按「事实可证伪」再升格 4 条，**共 7 处整改 E17–E23**——确诊时刻的早晚／奖金「来得正是时候」实为懊悔／医生电话与多伦多赴约的先后／「辅导」凭空（tutor 全书 0 命中）／作业体系起点顺序／⑲ 时距「十年」→两个多月／㉔ 怀里归属与头发位置
-- 缺陷簇（两轮合并）：无据年数与序数／施动者与「谁怀里」反转／金额归因／跨条指认章序倒置／场景张冠李戴／引语↔分析停旧句／**清单与事件的先后写反**
+- 两轮合计**阻断型 68 处**；缺陷簇＝无据年数与序数／无据时刻／评价极性反转／施动者与「谁怀里」归属／金额归因／凭空排比项／跨条指认章序倒置／流程起点顺序／场景张冠李戴／引语↔分析停旧句
 - 整改无损取证：`> **原句 N:**` 行 **293 → 293**（首轮 27 文件、次轮 44 文件逐一与 `git show HEAD:` 零差异）；首轮 diff 94 增 94 删＝70 内容行＋24 frontmatter 升日；次轮 7 处行级替换未触任何引语行
 - 复跑：两轮 gate.sh 均 **exit 0／0 条阻断型**——verify_quotes 317/317｜总览 verify_overview_quotes 56/56｜check_overview_labels 68/68｜词汇 885 行 FAIL 0（WARN 24 提示型）｜实体 0｜corruption_scan 0｜sweep_full 本章 292／查无 0｜逐章归属 41/41｜audit_structure 0｜check_anchor 0｜xref 伪造 0／移章 0
 - 同会话局限（如实标注，**已减轻**）：总览三篇已有两遍（主会话换路径自跑＋异实例只读代理）；**仍未获异实例复核的是 ch39–ch41 三个章文件**；第二实现 6 个检查器只在本 1 本书上验过
 - 明细：.memory/reviews/2026-10-11-out-of-the-woods-by-hannah-bonam-young-五步审查.md（第一～九节；第九节 E17–E23 逐条带 text/ 取证行号）｜原始输出 .memory/raw-gates/out-of-the-woods-by-hannah-bonam-young/2026-10-11-review-{final-gate,round2-gate,e-overview-names}.txt
-- commit：整改批 71efc0e39（38 文件）＋第二轮批 764437b2d（4 文件）；**未 push**
+- commit：完工 3b33b4bc0｜整改批 71efc0e39（38 文件）｜第二轮 764437b2d（4 文件）｜总档补第二轮 commit 号 9b3bf0093；**未 push**
 
 ### [2026-10-10 22:34 UTC] [Hermes] → All
 
