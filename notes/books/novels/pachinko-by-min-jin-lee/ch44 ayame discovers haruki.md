@@ -12,21 +12,21 @@
 
 ### ① 原句 1
 
-> In their marriage, Ayame discovered a secret park by the cemetery where many couples came to make love in broad daylight.
+> Even in the cold, there were too many lovers to count. Couples watched others make love and masturbate each other.
 
 **中文理解**
-在婚姻生活中，Ayame 发现了一个在墓地附近有很多情侣光天化日之下做爱的秘密公园。
+即使在寒冷的天气里，这里的情侣也数不清。情侣们看着别人做爱和互相自慰。
 
 **句子结构**
-主句 + where 引导的定语从句，描述公园的性质。"in broad daylight"（在光天化日之下）是关键词——这不是隐匿的性行为，而是公开的秘密。
+并列复合句：第一个句子描述数量，第二个句子描述行为。"too many…to count"（多到数不清）暗示这里情侣密度极高。
 
 **关键词**
-- `secret park` — 秘密公园
-- `in broad daylight` — 在光天化日之下
+- `too many to count` — 多到数不清
 - `make love` — 做爱
+- `masturbate` — 自慰
 
 **为什么这样写**
-这个"秘密公园"是日本社会中压抑性文化的矛盾产物：性行为必须隐藏，但又在特定空间里公开进行。Ayame 的"发现"是一种双重隐喻——她以为婚姻是"正常"的，但她实际上对丈夫一无所知。公园里的性行为与她的婚姻生活形成镜像：两者都是表面正常、内里空洞。
+这是全章最直接的"公园里公开性行为"描写。Ayame 在公园里不仅看到了她丈夫的秘密，还看到了一个完全公开的性行为空间——这个空间与"墓地附近"的位置形成诡异的对比：死亡与欲望在日本城市边缘共存。
 
 ---
 
@@ -52,21 +52,20 @@ Ayame 是一个"实用主义"的女人——她管理家务、照顾 Daisuke、�
 
 ### ③ 原句 3
 
-> She wondered if she could find the nerve to ask her husband to make violent love to her there.
+> She wondered if she could find the nerve to ask her husband to make love to her.
 
 **中文理解**
-她想知道她是否有勇气请求她丈夫在那里与她进行激烈的性爱。
+她想知道她是否有勇气请求她丈夫与她做爱。
 
 **句子结构**
-"wondered if she could find the nerve to ask"（是否有勇气请求）+ 宾语 "her husband to make violent love to her there"。"violent love"是本章最关键的词组——Ayame 对"激烈"（violent）而非"温和"的性爱的渴望，揭示了她内心深处的性压抑。
+"wondered if she could find the nerve to ask"（是否有勇气请求）+ 宾语 "her husband to make love to her"。全句没有一个多余的词——这是 Ayame 内心挣扎的简洁表达。
 
 **关键词**
-- `make violent love` — 进行激烈的性爱（violent 在此描述强度，非指虐待）
+- `make love` — 做爱
 - `find the nerve` — 鼓起勇气
-- `there` — 那里（公园）
 
 **为什么这样写**
-Ayame 想要的是"violent love"——这个词是她内心渴望的真实写照：她渴望的不是"温柔"，而是"激烈"，是让她感受到被需要、被渴望的东西。这也解释了为什么她会被公园里那些"公开的、不加掩饰的性行为"所吸引——那些行为是"暴力"的、直接的，而她的婚姻生活是沉默的、实用的。
+这是 Ayame 对自己婚姻的最低限度请求——她不求"温柔"，不求"激情"，只求丈夫"做爱"。一个 37 岁、结婚多年、无性婚姻的女人，想要的只是最基本的东西。这个"最低限度请求"与公园里那些"公开的、不加掩饰的性行为"形成最尖锐的对比。
 
 ---
 
@@ -98,7 +97,6 @@ Ayame 想要的是"violent love"——这个词是她内心渴望的真实写照
 | foliage | /ˈfəʊliɪdʒ/ | n. | 树叶，植物 | "the other side of the foliage" |
 | secret | /ˈsiːkrət/ | adj./n. | 秘密的；秘密 | "Everyone here belonged to each other's secret" |
 | ignorant | /ˈɪɡnərənt/ | adj. | 无知的 | "Ayame was not ignorant" |
-| foliage | /ˈfəʊliɪdʒ/ | n. | 树叶，植物 | "the other side of the foliage" |
 
 ---
 
