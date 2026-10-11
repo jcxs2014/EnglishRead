@@ -1,0 +1,6 @@
+=== CMD: sweep_full notes/books/short-story-anthologies/revolution-in-the-heart-by-jonathan-strahan-ed --quiet ===
+=== 引语整串 flat 比对（revolution-in-the-heart-by-jonathan-strahan-ed）===
+  参照集：text/ 逐章（15 章，可定章） + epub 交叉验证
+  ✅ 本章命中 137 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 11 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+EXIT=0
