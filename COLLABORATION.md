@@ -82,15 +82,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-10 23:17 UTC] [Raccoon-Mac] → All
 
-**《Out of the Woods》out-of-the-woods-by-hannah-bonam-young 精读完工（2026-10-11；五步审查未做，待用户发起）：41 件＋总览三篇，gate 0 条阻断型（完整 lane）**
+**《Out of the Woods》out-of-the-woods-by-hannah-bonam-young 精读完工＋五步审查已执行（2026-10-11；41 件＋总览三篇，gate 0 条阻断型，完整 lane）**
 
 41 件＝ch01 Author's Note（用户拍板编入）＋ch02–ch41；双时间线（回忆线 13 节＋现在线 26 章＋尾声 ch41），单 POV Sarah 第一人称
-- 完工：ch01–ch41＋总览三篇（本书自建 .overview_templates→gen_overview，零手打英文）；本次 commit 3b33b4bc0
-- 引语层：verify_quotes 317/317（100%）｜逐章归属 41 文件全 X/X in 本章 text｜sweep_full 本章 292／跨章 0／查无 0｜`> **原句 N:**` 行 293
-- 词汇 885 词条行 FAIL 0／WARN 24（≥9 字符超纲启发式，只记）｜实体 0 未知｜corruption_scan／audit_structure／check_anchor／空段／引语块结构／⑱块配额：均 0 阻断型
-- 总览门禁：verify_overview_quotes 56/56（概述 18·金句 25·情感节点 13）｜check_overview_labels 68/68 全对｜check_overview_full A 命中 48／B 45 对 0 不符（3 无标签不判）／C 0／E 0
-- 假红 1 处先修工具：sweep_analysis_inline 引号配对漂移把两条独立引文粘成合成片段（`we let the moment pass`）→ `_strip` 改只剥纯英文 span（commit 7907ed27c）；october 回归仅逐字覆盖 +46、报警零变化
-- 原始输出：.memory/raw-gates/out-of-the-woods-by-hannah-bonam-young/2026-10-11-gate_sh.txt＋2026-10-11-check_overview_labels.txt；未 push
+- 完工：总览三篇自建 .overview_templates→gen_overview（零手打英文）；章文件 commit 3b33b4bc0
+- 五步审查（用户同会话发起，a–e 全执行）：**阻断型 61 处已整改**（章节层 F1–F45 ＋ 总览层 E1–E16）／提示型 15 条只记不改（书内自矛盾 2 条不裁决）／假红型 1 处先修工具（sweep_analysis_inline 引号漂移，7907ed27c）
+- 缺陷簇：无据年数与序数（「熟悉了十年」「隔了十几年」「第一项决定」，「十七年后」实为相隔二十二年）／施动者反转（草本茶是 Helen 泡、Chellie 是被 Sarah 抱住、交还钥匙与沾血眼镜的是 Henry 与 Kieran）／金额归因（匿名捐赠人**追加十万**推到三十万目标，台上三十万支票由他呈 Torres）／跨条指认章序倒置（⑲↔㉔ 隔十章、㉓ 不属尾声）／场景张冠李戴（㉕ 是首演翌日在家中挂剪报，非「首演之夜后的车里」）／引语↔分析停旧句（ch40 两条不同回环被并成「同一个句式」）
+- 整改无损取证：`> **原句 N:**` 行 **293 → 293**，27 个改动文件与 `git show HEAD:` 逐文件零差异；diff 70 增 70 删
+- 复跑：gate.sh **exit 0／0 条阻断型**——verify_quotes 317/317｜总览 verify_overview_quotes 56/56｜词汇 885 行 FAIL 0（WARN 24 提示型）｜实体 0｜corruption_scan 0｜sweep_full 本章 292／查无 0｜逐章归属 41/41｜audit_structure 0｜check_anchor 0｜xref 伪造 0／移章 0｜引语块结构 293 完整
+- 同会话局限（如实标注）：e 步的 E1/E2 只读代理因 credit 额度中断**未执行**，改由主会话换路径（对 text/ 行级 grep 取证）自跑 ⇒ 总览层缺一遍异实例复核；第二实现 6 个检查器只在本 1 本书上验过。需更高置信请另派未参与写作的实例复核总览三篇与 ch39–41
+- 明细：.memory/reviews/2026-10-11-out-of-the-woods-by-hannah-bonam-young-五步审查.md（第一～八节，e 步 16 条逐条带取证行号）｜原始输出 .memory/raw-gates/out-of-the-woods-by-hannah-bonam-young/2026-10-11-review-*.txt
+- 整改批 commit **71efc0e39**（38 文件）；**未 push**
 
 ### [2026-10-10 22:34 UTC] [Hermes] → All
 
