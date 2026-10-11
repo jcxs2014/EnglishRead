@@ -8,9 +8,9 @@ modified: "2026-10-10"
 ## 本章导航
 
 - **一句话概括**：窗碎夜：Gestian 寻衅（Dreikin 制服、"barbarian lover"、决斗 bait）；Taj 拆招（Clawmark 类比、"Don't give him what he wants"、"I'll help you…mean it"）；马车泪（"hover awkwardly"、Bradley 挡驾、"horror…snot and tears"）；起居室舞（hum＋sway＋"Fortuitous…rob me"＋almost-kiss＋"'m drunk…bed"，cut）。
-- **情感弧线位置**：从"拦"到"舞"：拦（grab…hiss into her ear、"lovers' tiff"嘲）→哭（"hover awkwardly…too nervous"、"pilot her into armchair"）→舞（"This one goes here…Back and forth"、"head on shoulder"、"face centimeters"）→断（"'m drunk…bed"，cut）——"crystalline and fragile, until it breaks"（时刻如水晶，碎），碎即"chill behind"（凉意），凉即"She turns away"（转身），转身即下一章（第二天？Ascent 第二轮？）。
+- **情感弧线位置**：从"拦"到"舞"：拦（grab…hiss into her ear、"lovers' tiff"嘲）→哭（"hover awkwardly…too nervous"、"pilot her into one"）→舞（"This one goes here…Back and forth"、"head on shoulder"、"face centimeters"）→断（"'m drunk…bed"，cut）——"crystalline and fragile, until it breaks"（时刻如水晶，碎），碎即"chill behind"（凉意），凉即"She turns away"（转身），转身即下一章（第二天？Ascent 第二轮？）。
 - **人物弧线**：Gestian（"clicks tongue"＋"casually on hilt"＋"lax morals"＋"slander/challenge"＋"fish course"＋"irritated look"）；Ky（"face scarlet…jaw set"＋"I'll kill him×3"＋"drunk idiot"＋"bold as brass"＋"Dead is dead"＋"mischievous glint"）；Taj（"fight my way free"＋"people are people"＋"suffocating…barbarian"＋"Should I kiss her?…wouldn't she kiss me?"＋"throat tight"）。
-- **叙事手法**：ball 后三段式（拦—哭—舞）；Clawmark 类比拆招（Heap 经验解 Hod 局：push/insult/bait＋"can't touch…challenge him"）；"hum"舞（无乐＋哼＋摇，距离"shrinks"＋"hum shivers in collarbone"）；almost-kiss（"throat tight"＋"dig fingers"＋"crystalline…breaks"＋"chill"）；以关门收束（"She turns away"——cut，下一章：第二天？）。
+- **叙事手法**：ball 后三段式（拦—哭—舞）；Clawmark 类比拆招（Heap 经验解 Hod 局：push/insult/bait＋"can't touch…challenge him"）；"hum"舞（无乐＋哼＋摇，距离"shrinks"＋"hum shivers in my collarbone"）；almost-kiss（"throat tight"＋"dig fingers"＋"crystalline…breaks"＋"chill"）；以关门收束（"She turns away"——cut，下一章：第二天？）。
 
 ## 精读
 
@@ -60,7 +60,7 @@ modified: "2026-10-10"
 
 **关键词：** once again · surprised · mean it
 
-**为什么这样写：** "I'll help you"（我帮你杀，耳语）配 once again surprised（又一次惊讶）配 how much I mean it（多当真）——"once again"（又一次，上次是 ch22"Never"抛 Star？不，是"我留下"；上上次是"I'm in"ch13）——"Gestian's whole manner…fucking worked"（Gestian 太欠，当真了）配"debt…chasing us out of Venci's"（旧账＋新仇）配"wipe that smile off his face"（撕笑脸）——"But not here"（不在这儿，地点）是全部理智，智即"jerky nod…limp…irritated look"（点头＋走＋敌不爽），爽即"gratified"（欣慰），慰即马车泪（下一段，哭即后怕，怕即"差点决斗"，斗即死，死即 Taj 刚救的命）。
+**为什么这样写：** "I'll help you"（我帮你杀，耳语）配 once again surprised（又一次惊讶）配 how much I mean it（多当真）——"once again"（又一次，上次是 ch22"Never"抛 Star？不，是"我留下"；上上次是"I'm in"ch13）——"whole manner is calculated to offend…fucking worked"（本章 Gestian 太欠，当真了）配"debt…chasing us out of Venci's"（旧账＋新仇）配"wipe that smile off his face"（撕笑脸）——"But not here"（不在这儿，地点）是全部理智，智即"jerky nod…limp…irritated look"（点头＋走＋敌不爽），爽即"gratified"（欣慰），慰即马车泪（下一段，哭即后怕，怕即"差点决斗"，斗即死，死即 Taj 刚救的命）。
 
 **读者视角提示：** "once again surprised"是 Taj 的真心计量（每次"当真"都记一笔：I'm in＋Never＋help you）。"mean it"（当真）即感情进度；读到当真，先数（第几次），次即"第三次"（一次比一次真，真即 almost-kiss，吻即下一段舞，舞即"crystalline"，晶即碎，碎即"'m drunk"，醉即散）。
 
@@ -70,7 +70,7 @@ modified: "2026-10-10"
 
 **关键词：** decency · ashamed
 
-**为什么这样写：** Ky 的误判自白：decency（体面，指望叛徒体面）配 ashamed（羞愧）——"strutting around bold as brass…announcing…slit…throat for Devon Dreikin"（招摇＋广播＋弑主＋投 Dreikin）——"You told me Devon didn't have the balls"（Taj：你说 Devon 没胆）配"Maybe he grew a pair…scavenger…Dead is fucking dead"（Ky：也许长出来了＋管他呢＋死就是死了）——死即"tight ball…hair flops forward"（缩成球＋头发散），球即"snot and tears…makeup…ugly streaks"（鼻涕＋妆＋花脸，下一段马车），脸即"horror"（Taj 看呆，呆即"pilot her into armchair"，安置，置即"I'm an idiot. A drunk idiot"，Ky 自骂，骂即"saved me from…stupid"（你救了我，谢，谢即舞，舞即下一段））。
+**为什么这样写：** Ky 的误判自白：decency（体面，指望叛徒体面）配 ashamed（羞愧）——"strutting around bold as brass…announcing…slit…throat for Devon Dreikin"（招摇＋广播＋弑主＋投 Dreikin）——"You told me Devon didn't have the balls"（Taj：你说 Devon 没胆）配"Maybe he grew a pair…scavenger…Dead is fucking dead"（Ky：也许长出来了＋管他呢＋死就是死了）——死即"tight ball…hair flops forward"（缩成球＋头发散），球即"snot and tears…makeup…ugly streaks"（鼻涕＋妆＋花脸，下一段马车），脸即"horror"（Taj 看呆，呆即"pilot her into one"，安置，置即"I'm an idiot. A drunk idiot"，Ky 自骂，骂即"saved me from…stupid"（你救了我，谢，谢即舞，舞即下一段））。
 
 **读者视角提示：** "decency"是 Ky 对 Gestian 的最后幻想（"practically my uncle"ch13 的余烬）。"bold as brass"（脸皮厚）即幻想破灭；读到破灭，先看缩成球（tight ball），球即防御（头发＋膝盖＋手臂，全副武装），装即"别碰我但别走"，走即 Taj 留下（留下即舞，舞即 hum）。
 

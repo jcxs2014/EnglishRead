@@ -40,7 +40,7 @@ modified: "2026-10-10"
 
 **关键词：** Workmanlike · battered overalls · tailored uniform
 
-**为什么这样写：** Star 的卖相自卑：Workmanlike（实用派，干活的）配 battered overalls（旧工装）配 tailored uniform（量身制服，Mordax）——"plain"（素）是 Ky 的评语，"unimpressed"（没印象）是行家的评语。"I've never thought about painting him"（从没想过给他上漆）配"Twisted aren't going to be intimidated"（Twisted 又不懂审美）——Heap 式实用主义：漆是给人看的，Twisted 不看漆。而"[Unacceptable: failure on your part]"（Star：长这么小是你的锅）——卖相差，怪主人，主人认（"If I made you bigger, couldn't carry you"，背不动，认得理直气壮）。
+**为什么这样写：** Star 的卖相自卑：Workmanlike（实用派，干活的）配 battered overalls（旧工装）配 tailored uniform（量身制服，Mordax）——"plain"（素）是 Ky 的评语，"unimpressed"（没印象）是行家的评语。"I've never thought about painting him"（从没想过给他上漆）配"It isn't like the Twisted are going to be intimidated"（Twisted 又不懂审美）——Heap 式实用主义：漆是给人看的，Twisted 不看漆。而"[Unacceptable: failure on your part]"（Star：长这么小是你的锅）——卖相差，怪主人，主人认（"If I made you bigger, couldn't carry you"，背不动，认得理直气壮）。
 
 **读者视角提示：** "paint"是 pit 的军备（Mordax"deep, bloody red"、"spikes and flanges with no obvious purpose"——没用的尖刺纯为好看）。Star 的素即 Heap 户口；后文"plain"会被 Ky"fix later"（装修），装修即升级。读到漆，先问"谁出钱"，出钱即 Ky。
 
@@ -70,7 +70,7 @@ modified: "2026-10-10"
 
 **关键词：** core · single point of failure · shut down
 
-**为什么这样写：** 开悟段的总原理：core（核心）配 single point of failure（单点故障，工程术语）配 shut down entirely（全停，判决）——"as true of Star as any"（Star 也一样）配"ruby THINK indestructible, but the wire isn't"（红宝石不碎，线会断）——无敌的是心，脆弱的是血管。而"where would the core go?"（core 藏哪，设问）配"In the trunk? ...in the 'horse' part"（躯干还是马身，排除法）——工匠式破案：trunk 是幌子（"mostly armor and spars"，全是甲），马身是本体（"core and movement sigils"，要害全在）。破案的奖品是"compliment Lorrimer"（夸对手设计好）——夸完再拆，匠人风度。
+**为什么这样写：** 开悟段的总原理：core（核心）配 single point of failure（单点故障，工程术语）配 shut down entirely（全停，判决）——"as true of Star as any"（Star 也一样）配"ruby THINK may be indestructible"（红宝石不碎）配"the wire that connects it with the rest of him isn't"（线会断）——无敌的是心，脆弱的是血管。而"where would the core go?"（core 藏哪，设问）配"In the trunk? ...in the 'horse' part"（躯干还是马身，排除法）——工匠式破案：trunk 是幌子（"mostly armor and spars"，全是甲），马身是本体（"the core and the movement sigils"，要害全在）。破案的奖品是"compliment Lorrimer"（夸对手设计好）——夸完再拆，匠人风度。
 
 **读者视角提示：** "single point of failure"是全书战斗的元规则（打 core，不打壳）。后文一切"怎么赢"，都是这道题：找 core（Mordax 在马肚，Twisted 没 core 即难杀）。读到"core"，先问"在哪"，答案即战术。
 

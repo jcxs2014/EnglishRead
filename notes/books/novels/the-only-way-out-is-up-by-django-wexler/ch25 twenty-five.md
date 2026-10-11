@@ -7,7 +7,7 @@ modified: "2026-10-10"
 
 ## 本章导航
 
-- **一句话概括**：Rotwurm 猎杀日：Ky 晨练（Spike 围观"love or religion"）；Heap 远征（junkfall 概率课、隧道 Twisted 擦肩、"Was that Rotwurm?/Nah"）；星星谈（"looks down, not up"＋"Nowhere to look but up"＋Somi 看星梦）；SOUND 诱饵（earmuffs、"Dinnertime, Rotty!"、五十米冲刺）；双头揭秘（"ambivalent as to its forward direction"）；致聋事故（"deafened the fucking thing"）；Ky 断后剑战；五 BLAST 齐爆（"bones through flesh"、"egg hatched from within"）；"Hit it hard enough…kill anything."收。
+- **一句话概括**：Rotwurm 猎杀日：Ky 晨练（Spike 围观"love or religion"）；Heap 远征（junkfall 概率课、隧道 Twisted 擦肩、"Was that Rotwurm?/Nah"）；星星谈（"looks down, not up"＋"Nowhere to look but up"＋Somi 看星梦）；SOUND 诱饵（earmuffs、"Dinnertime, Rotty!"、五十米冲刺）；双头揭秘（"ambivalent as to its forward direction"）；致聋事故（"deafened the fucking thing"）；Ky 断后剑战；五 BLAST 齐爆（"bones through flesh"、"egg had hatched from within"）；"Hit it hard enough…kill anything."收。
 - **情感弧线位置**：从"备战"到"屠龙"：Taj 的"stupidest thing I've ever done"（当诱饵）配 Ky 的"pursues with vigor"（追击）配 Star 的"cruel taskmaster"（撒娇）——"Earmuffs on"（戴耳罩）是开战令，耳罩隔音不隔心跳（"rapid thumping of my own heart"）；"thumbs-up"（竖拇指）是无声军令，军令即信任（听不见也信）。
 - **人物弧线**：Rotwurm（双头、grub 肥体、"scree in teeth"、"bag of murderous impulses"、"blasted…egg hatched"）；Ky（"severed a number of limbs from its rear head"、"sword skitters…at my feet"、"waves…shout inaudibly"）；Star（"aboard near the tail"、"ow""Sadness""relax, meat"、"no functioning optics"）；Spike（开篇围观，love/religion 二选一，选啥都是长大了）。
 - **叙事手法**：狩猎五段式（进山—诱饵—追逃—布雷—起爆）；"stupid"测试体（Twisted 蠢＝可预测＝可杀，人类会学，Twisted 不会）；以定理收束（"Hit it hard enough, all at once, and you can kill anything."——定理即下一章：分赃＋升级，200 stripes 到账？）。
@@ -40,7 +40,7 @@ modified: "2026-10-10"
 
 **关键词：** thing about Hod · looks down · not up
 
-**为什么这样写：** 星星谈的开题：looks down（往下看，Hod 全员）配 not up（不往上）——"afraid of joining you"（怕掉下来跟你作伴）配"narrow beam…spiked pit"（窄梁＋钉坑）配"holding on to what they've got"（抱紧现有的）——"To gloat…?/Forgive me if I don't have sympathy"（Taj：炫耀吗？恕不同情）配"not asking for sympathy, just explaining"（Ky：不求同情，只解释）——解释即"fall from grace…torn apart"（掉下来就被撕），撕即" ky 也怕"，怕即"why"（为什么不往上看？因为往下看才保命）。
+**为什么这样写：** 星星谈的开题：looks down（往下看，Hod 全员）配 not up（不往上）——"afraid of joining you"（怕掉下来跟你作伴）配"narrow beam…spiked pit"（窄梁＋钉坑）配"holding on to what they've got"（抱紧现有的）——"To gloat…?/Forgive me if I don't have a lot of sympathy"（Taj：炫耀吗？恕不同情）配"not asking for sympathy, just explaining"（Ky：不求同情，只解释）——解释即"fall from grace…torn apart"（掉下来就被撕），撕即" ky 也怕"，怕即"why"（为什么不往上看？因为往下看才保命）。
 
 **读者视角提示：** "looks down, not up"是 Hod 的世界观（下即地狱，上即无视）。Taj 的"Nowhere to look but up"（底下只能往上看）是镜像答案；读到"看"，先看方向：上＝Heap，下＝Hod，方向即阶级，阶级即"spiked pit under feet"（脚下钉坑，人人有份）。
 
@@ -60,7 +60,7 @@ modified: "2026-10-10"
 
 **关键词：** most flippant · nervous
 
-**为什么这样写：** Star 说明书：flippant（贫嘴）配 nervous（紧张）——正相关，越紧越贫。"[Agreement: hence my unflinching optimism. If you die, do you think Ky will take me in?]"（所以我坚定乐观：你死了 Ky 收我吗）配"pat…with a clang"（哐拍一下）配"bolt-bucket"（铁皮桶， Taj 骂）——贫即怕，怕即"Reassurance: Flesh is simply inadequate"（安慰：肉体就这德行）——安慰的下一句是"Agreement…optimism"（乐观），乐观即"Gladly dismantle"（ch17）＋"relax, meat"（本章后半），贫嘴链条永不断，断即真怕了（真怕时他只说"[Assessment: ow.]"，见 ch22）。
+**为什么这样写：** Star 说明书：flippant（贫嘴）配 nervous（紧张）——正相关，越紧越贫。"[Agreement: hence my unflinching optimism. If you die, do you think Ky will take me in?]"（所以我坚定乐观：你死了 Ky 收我吗）配"pat…with a clang"（哐拍一下）配"bolt-bucket"（铁皮桶， Taj 骂）——贫即怕，怕即"Reassurance: Flesh is simply inadequate"（安慰：肉体就这德行）——安慰的下一句是"Agreement…optimism"（乐观），乐观即"dismantle that thing"＋"[Gladly.]"（ch17，Star 接单）＋"relax, meat"（本章后半），贫嘴链条永不断，断即真怕了（真怕时他只说"[Assessment: ow.]"，见 ch22）。
 
 **读者视角提示：** "flippant＝nervous"是 Star 的情绪公式（贫嘴计量表）。后文开战前先看贫度：贫即紧，紧即要赢（赢了才有空贫）；读到贫嘴，先备好：赢定了（flag 即胜旗）。
 
@@ -72,7 +72,7 @@ modified: "2026-10-10"
 
 **为什么这样写：** 屠龙理论总结：stupid（蠢，定语）配 figure out（识破，人狗都会）配 playing games（耍，战术）——"isn't a real thing…bag of murderous impulses…crude network…responds to stimuli"（不是真东西，是杀意袋＋糙网络＋刺激反应）——"same stimulus…same way"（同刺激同反应）即"可预测"，可预测即"SOUND 诱饵有效五次"，五次即"deafened"（聋了，第六次失效，失效即 Ky 拔剑，拔剑即"severed limbs"，人补位）。而"timing has to be right"（时机得对）配"stitches tear"（岔气）——对即"three fingers, then two. Then one."（三二一，数数），数数即"tug"（拽，五雷齐爆）。
 
-**读者视角提示：** "stupid＝predictable＝killable"是屠龙公式（ch24 火论的实战版）。"same stimulus same response"即 SOUND 诱饵的原理；读到"蠢"，即战机，战机即"数三二一"，数完即"Boom"（下一段）。
+**读者视角提示：** "stupid＝predictable＝killable"是屠龙公式（ch24 火论的实战版）。"the same stimulus and it responds the same way"即 SOUND 诱饵的原理；读到"蠢"，即战机，战机即"数三二一"，数完即"Boom"（下一段）。
 
 > **原句 7:** "“Dinnertime, Rotty!” I shout inaudibly. “Come and get it!”"
 
@@ -90,7 +90,7 @@ modified: "2026-10-10"
 
 **关键词：** hard enough · all at once · kill anything
 
-**为什么这样写：** 屠龙定理：hard enough（够狠，力度）配 all at once（够齐，同步）配 kill anything（杀一切，结论）——"Lesson learned"（ lesson get，学费是五雷＋一身伤）——"blasted…egg hatched from within"（从里爆开，像孵蛋）配"front head…sagging…blades extended"（前头还完整，刀还张着）——完整即"cautiously…ready to run"（小心＋随时跑），跑即"Is it dead?"配"[Unknown: no functioning optics]"（Star 瞎了，不知道）——不知道即"gesture down the tunnel"（打手势去看），看即"ruin"（废墟），废墟即 200 stripes（赏金，下一章兑）。
+**为什么这样写：** 屠龙定理：hard enough（够狠，力度）配 all at once（够齐，同步）配 kill anything（杀一切，结论）——"Lesson learned"（ lesson get，学费是五雷＋一身伤）——"blasted…egg had hatched from within"（从里爆开，像孵蛋）配"front head…sagging…blades extended"（前头还完整，刀还张着）——完整即"cautiously…ready to run"（小心＋随时跑），跑即"Is it dead?"配"[Unknown: no functioning optics]"（Star 瞎了，不知道）——不知道即"gesture down the tunnel"（打手势去看），看即"ruin"（废墟），废墟即 200 stripes（赏金，下一章兑）。
 
 **读者视角提示：** "hard enough＋all at once"是全书战斗的终极公式（core 单点 ch17＋同步 ch25）。后文打 Ascent（Vripiai 复仇战）即此公式：够狠（BLAST）＋够齐（同步）＝"kill anything"（连 Hod 机也能杀）；读到定理，即军令状，状即下一章：分赃、升级、报仇。
 

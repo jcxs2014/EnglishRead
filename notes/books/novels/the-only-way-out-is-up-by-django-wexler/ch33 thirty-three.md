@@ -20,7 +20,7 @@ modified: "2026-10-10"
 
 **关键词：** Palms to grease · smoke · Politics
 
-**为什么这样写：** Ky 的工作内容三词：grease（抹油，贿赂）＋smoke（吹烟，拍马）＋Politics（政治，总称）——"The more you win, the more they're willing to talk"（赢越多，越有人谈）——谈即"Two more fights…everything I ever wanted"（再赢两场＋全都要，下一句）。而"Watch the next fight…straight bracket…opponent day after tomorrow"（Ky：看下场，赢的打你，后天）——看即观战（观即 Bitey 蟹战，战即 BIND 爪，爪即"Alive? Real?"，活？真？问即 Star 的迟疑，疑即下一段挖角，角即 Gestian 落座身后）。
+**为什么这样写：** Ky 的工作内容三词：grease（抹油，贿赂）＋smoke（吹烟，拍马）＋Politics（政治，总称）——"The more you win, the more they're willing to talk"（赢越多，越有人谈）——谈即"Two more fights…everything I ever wanted"（再赢两场＋全都要，下一句）。而"Watch the next fight…straight bracket…opponent the day after tomorrow"（Ky：看下场，赢的打你，后天）——看即观战（观即 Bitey 蟹战，战即 BIND 爪，爪即"Alive? Real?"，活？真？问即 Star 的迟疑，疑即下一段挖角，角即 Gestian 落座身后）。
 
 **读者视角提示：** "grease/smoke"是 Ky 的政治双簧（油＋烟）。"Two more fights"（两场）是剩余赛程更新（三场→两场）；读到政治，先看手掌（油吗）再看屁股（烟吗），油烟齐即"written off"（白干，干即马车段，段即信任交换）。
 
@@ -40,7 +40,7 @@ modified: "2026-10-10"
 
 **关键词：** definitely won’t · Quech and Vripiai
 
-**为什么这样写：** 签表解读：definitely won't（肯定不打，Niami/蟹胜者战）——"part of me wants…over with as soon as possible"（半个我想早打早超生）配"two chances for him to lose before finals"（两场他可能翻车）配"can't bring myself to expect it"（不敢指望）——不敢即"Vripiai stronger…Quech beats masters to death"（蛇强＋人杀人）——"how Couvere would have fared if…punched him in the face"（Couvere 挨 Quech 一拳会咋样？不咋样，笑）——笑即"plan for Quech…return the favor"（备战 Quech＋以牙还牙，Star：later，先看比赛，赛即 Bitey 蟹战，战即"Certainty: Bitey"，定即 Star 的眼光，光即"Alive? Real?"）。
+**为什么这样写：** 签表解读：definitely won't（肯定不打，Niami/蟹胜者战）——"part of me wants…over with as soon as possible"（半个我想早打早超生）配"two chances for him to lose before the finals"（两场他可能翻车）配"can't bring myself to expect it"（不敢指望）——不敢即"Vripiai is stronger than any of the Hod runics…take good care of you"（蛇强＋威胁）——"how Couvere would have fared if…punched him in the face"（Couvere 挨 Quech 一拳会咋样？不咋样，笑）——笑即"plan for Quech…return the favor"（备战 Quech＋以牙还牙，Star：later，先看比赛，赛即 Bitey 蟹战，战即"Certainty: Bitey"，定即 Star 的眼光，光即"Alive? Real?"）。
 
 **读者视角提示：** "won't be Quech"是签表（半决 Niami，决 Quech，暂定）。"two chances to lose"（两场翻车机会）是 Taj 的 Quech 减免幻想；读到签表，先看 Star（"[Certainty: Bitey]"，定），定即眼光（光即"Alive? Real?"，活？真？问即 Star 的哲学时刻，刻即下轮对手的真相：Bitey 也是"活"的？活即难打，打即 BIND）。
 
@@ -50,7 +50,7 @@ modified: "2026-10-10"
 
 **关键词：** Alive · Real · word
 
-**为什么这样写：** Star 的哲学时刻：Alive? Real?（活？真？两问）配"trails off…hesitancy"（卡壳＋迟疑，uncharacteristic，反常）配"do not quite have the word"（词库无此词）——"That wasn't something I'd ever heard from him before"（Taj：头回听说）配"want to press…distracted"（想追问＋被打断，打断即金边西装男，男即寒暄，暄即"take the measure…barbarian and handmade"（掂量野蛮人＋手搓机），量即"prayers answered…second match"（开赛，赛即 Bitey 蟹战，战即 hit-and-run＋"mighty thwack"＋"caroming…prickly"，跑＋砸＋弹＋扎，扎即 BIND 爪，爪即"Surprise: did you see that?"，见即"scrabbled…paws…fangs…screech"，抱＋咬＋叫，叫即赢，赢即"motionless crab in triumph"，胜）。
+**为什么这样写：** Star 的哲学时刻：Alive? Real?（活？真？两问）配"trails off…hesitancy"（卡壳＋迟疑，uncharacteristic，反常）配"do not quite have the word"（词库无此词）——"That wasn't something I'd ever heard from him before"（Taj：头回听说）配"want to press…distracted"（想追问＋被打断，打断即金边西装男，男即寒暄，暄即"take the measure…barbarian and his handmade runic"（掂量野蛮人＋手搓机），量即"prayers answered…second match"（开赛，赛即 Bitey 蟹战，战即 hit-and-run＋"mighty thwack"＋"caroming…prickly"，跑＋砸＋弹＋扎，扎即 BIND 爪，爪即"Surprise: did you see that?"，见即"scrabbled…paws…fangs…screech"，抱＋咬＋叫，叫即赢，赢即"motionless crab in triumph"，胜）。
 
 **读者视角提示：** "Alive? Real?"是 Star 的自我认知（Bitey 像"活的"，我呢？）。"word"（词）即 Taj 词库也无（无即"press him"，追问，被打断，断即下次，下次即"Bitey 也是活的？我也是？我们算啥？"——啥即全书终极问，问即 Star 身世，身世即 Above，即法官，官即"custom work"，供即 ch30）。
 
@@ -90,7 +90,7 @@ modified: "2026-10-10"
 
 **关键词：** owe him one · first round · lazy smile
 
-**为什么这样写：** 约战："owe him one"（欠一笔，首轮蛇咬＋羞辱"Pathetic"ch21）配"lazy smile"（懒笑，Taj 式从容）——"snorts and stalks away"（Gestian 哼＋走）是收尾。而"written off…friends and allies…past saving"（Ky：被写 off＋亲友＋没救）配"tap tap tap…stomps…grits teeth…value my life"（跺＋踩＋咬＋忍笑）——"Gestian dropped by…switch sides…turned him down flat"（Taj：他来挖过，拒了）配"What?…alarmed…promise…liar…Relax…flat"（Ky：给啥？慌＋骂＋Taj：拒了）配"money and a handjob…lowball…blow…trust…simple…likewise…betrayed one master"（Taj 荤报＋Ky 荤接＋信任＋叛徒论）——任即"BIND…trapped…counter…insane…test it"（虎爪＋被困＋反制＋疯＋测试，cut，试即下一章，章即半决，决即 Bitey＋虎，虎即朋友，友即敌，敌即——打！）。
+**为什么这样写：** 约战："owe him one"（欠一笔，首轮蛇咬＋羞辱"Pathetic"ch21）配"lazy smile"（本章懒笑，Taj 式从容）——"snorts and stalks away"（Gestian 哼＋走）是收尾。而"written off…friends and allies…past saving"（Ky：被写 off＋亲友＋没救）配"tap tap tap…stomps…grits teeth…value my life"（跺＋踩＋咬＋忍笑）——"Gestian dropped by…switch sides…turned him down flat"（Taj：他来挖过，拒了）配"What?…alarmed…promise…liar…Relax…flat"（Ky：给啥？慌＋骂＋Taj：拒了）配"money and a handjob…lowball…blow…trust…simple…likewise…betrayed one master"（Taj 荤报＋Ky 荤接＋信任＋叛徒论）——任即"BIND…trapped…counter…insane…test it"（虎爪＋被困＋反制＋疯＋测试，cut，试即下一章，章即半决，决即 Bitey＋虎，虎即朋友，友即敌，敌即——打！）。
 
 **读者视角提示：** "owe him one"是 Taj 的 Quech 约战书（首轮之辱，决赛还）。"lazy smile"（懒笑）是 Taj 式战书体；读到战书，先看马车（"written off"，被抛弃），弃即"trust…simple…likewise"（信任交换，换即"BIND 对策"，策即"insane"，疯即胜算，算即下一章测试，试即半决前夜，前夜即——打！）。
 

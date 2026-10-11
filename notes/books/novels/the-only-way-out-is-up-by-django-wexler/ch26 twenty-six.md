@@ -7,7 +7,7 @@ modified: "2026-10-10"
 
 ## 本章导航
 
-- **一句话概括**：上 Yesod 日：Mark 6 游行（"brazenly""coyly peeking"、"blushing"玩笑）；Arbiter 双簧（"Passes"＋Hod pass＋"escort"）；Ekkeban 高光（Rotwurm 头砸柜台、绿 RESIST 到手）；Yesod 白昼（狗、马车、婴儿车 runic、"wrong approach"）；Miss Tranto 通缉（"Council most concerned"）；Somi 告别（"Trust, right?"、"rolling pin"、200 stripes 问答、"lick his boots"）；Hod 台阶（"edge of my world"、"lying"警告、"We reach the top."）。
+- **一句话概括**：上 Yesod 日：Mark 6 游行（"brazenly""coyly peeking"、"blushing"玩笑）；Arbiter 双簧（"Passes"＋Hod pass＋"escort"）；Ekkeban 高光（Rotwurm 头砸柜台、绿 RESIST 到手）；Yesod 白昼（狗、马车、婴儿车 runic、"wrong approach"）；Miss Tranto 通缉（"Council has been most concerned"）；Somi 告别（"Trust, right?"、"rolling pin"、200 stripes 问答、"lick his boots"）；Hod 台阶（"edge of my world"、"lying"警告、"We reach the top."）。
 - **情感弧线位置**：从"炫耀"到"告别"：Rotwurm 头（"crowning moments"）配 Somi 房（"chat with the executioner"）——"stomach drops into my boots"（赏金该给家）对dream…come apart under your fingers（抓不住的梦）——"picking at the scab"（揭痂）配"better than I deserved"（不配的好），告别是赎罪券，赎的是"全押"的罪。
 - **人物弧线**：Somi（"Trust, right?"、"Buy more mash"、"starving Ema"、"eight years old"、"aged ten years"续）；Spike（摔门、"trying-not-to-cry face"、喉咙发紧）；Ekkeban（"gentle and retiring nature"、"my baby"出手、"green RESIST"易主）；Yesod 军官（"neat salute"、"refresh yourselves"、"lying"预警）。
 - **叙事手法**：上行三段式（Stair—Ekkeban—Yesod—Hod 阶）；"200 stripes 问答"（mash vs 出去、"lick boots" vs"power"、"stars" vs"eight years old"）；以登顶收束（"We reach the top."——第三部完，第四部在 Hod 门后，下一章先验"they're just people"）。
@@ -22,7 +22,7 @@ modified: "2026-10-10"
 
 **为什么这样写：** 开篇定场：feels like（感觉，Taj 的雷达）——"Nobody is watching me"（没人看我，battered leathers＋sigil 包，自嘲）配"Ky attracts some eyes"（Ky 吸睛，散发＋cap 摘了）配"Star is, well, the star"（Star 是明星，破折号公布答案）——"goggle-eyed crowd"（目瞪口呆）配"waves"（招手）配"brazenly"（大摇大摆）——"shining blades…arena"（刀锋＝角斗士）配"Twisted do…shy away"（Heap 人看成 Twisted，躲）配"notorious champion…back for another round"（Malkuth 人认出冠军，围）——三拨观众，三种目光，目光即"attention ripples"（涟漪前传），涟漪即"authority descends"（Arbiter 下场，下一段）。
 
-**读者视角提示：** "watching us"是游行的代价（Mark 6 藏不住）。"rumors spreading…within an hour everyone will know"（一小时全城皆知）——高调即安全（"public attention will keep us safe"，Ky 判）也即危险（Gestian 也看得见）；读到围观，先数三拨（Heap 怕、Malkuth 认、Arbiter 查），三拨齐即开场。
+**读者视角提示：** "watching us"是游行的代价（Mark 6 藏不住）。"rumors spreading…within an hour everyone on Malkuth is going to know"（一小时全城皆知）——高调即安全（"public attention will keep us safe"，Ky 判）也即危险（Gestian 也看得见）；读到围观，先数三拨（Heap 怕、Malkuth 认、Arbiter 查），三拨齐即开场。
 
 > **原句 2:** "[Clarification: I would be, if I had blood. And skin.]"
 
@@ -90,7 +90,7 @@ modified: "2026-10-10"
 
 **关键词：** Assume · offers · lying
 
-**为什么这样写：** Hod 入场须知：Assume…lying（默认撒谎）配"Don't say a word until we're in private"（进密室前闭嘴）——"Lovely"（Taj：真好）配"[Observation: not so different from down below, then.]"（Star：跟底下没差）——没差即"all they have is a lot more money"（不过钱多点，Taj）——钱多即"edge of my world"（世界边缘，Taj：Heap 小子到边了）——"stairway represents nothing less than the edge"（楼梯即世界边）配"click-clicking on the stone"（刀锋敲石，上楼 BGM）。而"no more climb up…than…pull down pants…shit on the dinner table"（Yesod 人不爬 Hod，如不在餐桌拉屎，礼貌即结界）——结界即"no physical barriers necessary"（不用栏杆），不用即"guarded"（有兵，下一段）。
+**为什么这样写：** Hod 入场须知：Assume…lying（默认撒谎）配"Don't say a word until we're in private"（进密室前闭嘴）——"Lovely"（Taj：真好）配"[Observation: not so different from down below, then.]"（Star：跟底下没差）——没差即"all they have is a lot more money"（不过钱多点，Taj）——钱多即"edge of my world"（世界边缘，Taj：Heap 小子到边了）——"stairway represents nothing less than the edge"（楼梯即世界边）配"click-clicking on the stone"（刀锋敲石，上楼 BGM）。而"no more climb up…than…pull down pants…shit on the dinner table"（Yesod 人不爬 Hod，如不在餐桌拉屎，礼貌即结界）——结界即"no physical barriers are necessary"（不用栏杆），不用即"guarded"（有兵，下一段）。
 
 **读者视角提示：** "Assume lying"是 Hod 生存第一条（Ky 亲授）。"edge of my world"（世界边）即第三部终点；读到台阶，先数（大理石、宽、无栏杆），无栏杆即"体面"，体面即"更危险"（危险即下一章：门后是 Hod，Hod 全是"lying"）。
 

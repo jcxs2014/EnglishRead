@@ -30,7 +30,7 @@ modified: "2026-10-10"
 
 **关键词：** winning cash · isn’t completely crazy
 
-**为什么这样写：** 街头斗的结论：Maybe（可能）配 isn't completely crazy（不完全疯，否定之否定＝有点道理）——"palm-sized runics nip and tear"（巴掌大互啃）配"masters yelling Attack! Forward!"（主人吼叫）配"money changes hands…shocking"（钱哗哗流，数额吓人）。"Picturing Star in that fight"（想象 Star 下场）——代入即立场：管理式指挥（吼叫）vs 心灵感应（Star），降维打击的自信在此开户。而"piloting me away"（Ky 拽走她）——再看就要交报名费了，拽即省钱。
+**为什么这样写：** 街头斗的结论：Maybe（可能）配 isn't completely crazy（不完全疯，否定之否定＝有点道理）——"tear into each other"（互啃）配"keep yelling commands"（主人吼叫）配"Attack! Forward!"（开打）配"money changes hands…shocking"（钱哗哗流，数额吓人）。"Picturing Star in that fight"（想象 Star 下场）——代入即立场：管理式指挥（吼叫）vs 心灵感应（Star），降维打击的自信在此开户。而"piloting me away"（Ky 拽走她）——再看就要交报名费了，拽即省钱。
 
 **读者视角提示：** "isn't completely crazy"是 Taj 的立场刻度（从"no"到"maybe"到"in"）。后文签约前每次动摇都按这个刻度量；读到"crazy"先看否定词个数：两个否定（isn't＋completely）＝快答应了。
 
@@ -72,7 +72,7 @@ modified: "2026-10-10"
 
 **为什么这样写：** 战报的轻描淡写：his little friend（他的小跟班，Star 降格成"小跟班"，his 第三笔——Ky 嘴里的 Taj 仍是"他"）配 only lightly strangled（只是轻微被勒，only＋lightly 双保险，差点被掐死说成"轻微"）。"He did to Pader what he'll do to you"（他对 Pader 干的，也能对你干）——威胁的现成案例，案例是尸体。而"I spent most of an hour washing his arterial spray out of my hair"（洗了一小时头发里的动脉血）——"lightly"的注脚：一小时才洗完的"轻微"，Ky 式夸张即幽默。
 
-**读者视角提示：** "his"是 Ky 声道的固定代词（ch07"rip your cock off"、ch10"his little friend"、本章"his"，三连）。性别呈现累积第四笔，只记不判。后文凡是"his/him"指 Taj，先照录；这是长线，不是本章的题。
+**读者视角提示：** "his"是 Ky 声道的固定代词（ch07"rip your cock off"、本章"his little friend"、本章"his"，三连）。性别呈现累积第四笔，只记不判。后文凡是"his/him"指 Taj，先照录；这是长线，不是本章的题。
 
 > **原句 7:** "I spent most of an hour washing his arterial spray out of my hair. Yeah, he’s dead."
 

@@ -20,7 +20,7 @@ modified: "2026-10-10"
 
 **关键词：** just die · solve everything
 
-**为什么这样写：** 崩溃开场白："missing Ameliana's touch…shut them out…push him away"（想 Ameliana＋推开 Star，医疗＋心理双拒）配 just die（死，方案）配 solve everything（解决一切，功效）——"patch…pump…injections…bizarre…twilight…dulled…muzzy"（补＋灌＋针＋怪＋晕，Hod 医疗）——晕即"Tomorrow…lost…haven't started…sulking…blocked…honestly…pain…aware…help…curl…know…Query…responsible…don't send…fault…sorry…Table…best shape"（推＋揽＋修，全套，套即"functionality…redundant…popped…cracked…torn…replacing…all night…save your life…started"，查＋熬，熬即 Ky 送汤，汤即"Busy…eat…rest"，拒即抱，抱即哭，哭即吵，吵即——和！）。
+**为什么这样写：** 崩溃开场白："missing Ameliana's familiar touch…shut them out…push him away"（想 Ameliana＋推开 Star，医疗＋心理双拒）配 just die（死，方案）配 solve everything（解决一切，功效）——"patch…pump…injections…bizarre…twilight…dulled…muzzy"（补＋灌＋针＋怪＋晕，Hod 医疗）——晕即"Tomorrow…lost…haven't started…sulking…blocked…honestly…pain…aware…help…curl…know…Query…responsible…don't send…fault…sorry…Table…best shape"（推＋揽＋修，全套，套即"functionality…redundant…popped…cracked…torn…replacing…all night…save your life…started"，查＋熬，熬即 Ky 送汤，汤即"Busy…eat…rest"，拒即抱，抱即哭，哭即吵，吵即——和！）。
 
 **读者视角提示：** "die…solve everything"是崩溃计量（求死即揽罪，罪即"hostages…my fault"，质即人质，质即 Somi＋Spike，亲即——修！修即通宵，宵即 Ky 送汤，汤即——吵！吵即道歉，歉即——睡！睡即——打！）。
 

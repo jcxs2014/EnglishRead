@@ -30,7 +30,7 @@ modified: "2026-10-10"
 
 **关键词：** personally
 
-**为什么这样写：** Quech 第二杀：Entop's dead（Entop 死了）配"Quech?"（Taj）配 nods seriously（Niami 严肃点头）配 personally（亲自，主人杀主人，惯犯）——"expecting…kept out…lost track…flattened 'accidentally'"（防着＋躲着＋跟丢蛇＋"意外"压扁，引号即谋杀）配"Not even Devon believes…barely scratched…furious…cheating"（Dreikin 都不信＋Finjit 没事人＋Anyms 骂街）——"Shit…do anything?…Doubtful…half the Council…don't care"（Taj：管吗？Niami：Dreikin 买半个 Council＋余下不在乎）——"up to one of us"（靠我俩，下一句），俩即"Getting in arena…dangerous…leave it to me?…Nope!"（Taj：让我来？Niami：不，自己上，上即三步走，走即开打，打即 ballet）。
+**为什么这样写：** Quech 第二杀：Entop's dead（Entop 死了）配"Quech?"（Taj）配 nods seriously（Niami 严肃点头）配 personally（亲自，主人杀主人，惯犯）——"expecting…kept out…lost track…flattened 'accidentally'"（防着＋躲着＋跟丢蛇＋"意外"压扁，引号即谋杀）配"Not that even Devon Dreikin believes that…barely scratched…furious…cheating"（Dreikin 都不信＋Finjit 没事人＋Anyms 骂街）——"Shit…do anything?…Doubtful…half the Council…don't care"（Taj：管吗？Niami：Dreikin 买半个 Council＋余下不在乎）——"up to one of us"（靠我俩，下一句），俩即"Getting in arena…dangerous…leave it to me?…Nope!"（Taj：让我来？Niami：不，自己上，上即三步走，走即开打，打即 ballet）。
 
 **读者视角提示：** "personally"是 Quech 的杀人签名（主人亲自动手，第二杀）。"'accidentally'"（引号即谋杀）＋"Anyms furious"（骂街）＋"Doubtful"（没人管）＝"up to one of us"（我俩上）；读到签名，先数（第二杀），杀即"flattened"，扁即 Entop 全家（Anyms 全族，族即下一章观众席？席即复仇票，票即"beat Quech for me"＋1）。
 
@@ -40,7 +40,7 @@ modified: "2026-10-10"
 
 **关键词：** up to one of us
 
-**为什么这样写：** 责任状：probably（多半）配 up to one of us（靠我俩，Taj＋Niami）——"half the Council in pocket…rest don't care"（Council 半数被买＋余下摆烂）是背景。而"Getting in arena…dangerous…leave it to me?…Nope!…beat you/him/Above"（Taj：我来？Niami：不，三步走）——不即"constraints…charming…pang"（无牵挂＋可爱＋心疼），疼即"crush her dream"（碾她梦，不忍），忍即"fun"（开打先玩，玩即 ballet，蕾即"don't want it to end"，舍不得完，完即绿盾，盾即下一段"impenetrable"，硬即 BIND 陷，陷即 REPEL，斥即留情，情即"letter"，信即约定）。
+**为什么这样写：** 责任状：probably（多半）配 up to one of us（靠我俩，Taj＋Niami）——"half the Council in his pocket…rest don't care"（Council 半数被买＋余下摆烂）是背景。而"Getting in arena…dangerous…leave it to me?…Nope!…beat you/him/Above"（Taj：我来？Niami：不，三步走）——不即"constraints…charming…pang"（无牵挂＋可爱＋心疼），疼即"crush her dream"（碾她梦，不忍），忍即"fun"（开打先玩，玩即 ballet，蕾即"don't want it to end"，舍不得完，完即绿盾，盾即下一段"impenetrable"，硬即 BIND 陷，陷即 REPEL，斥即留情，情即"letter"，信即约定）。
 
 **读者视角提示：** "up to one of us"是半决的意义（不止晋级，还锄奸）。"Nope!"（不让）是 Niami 的战书；读到责任状，先看 Taj（"leave it to me?"，让吗），让即被拒（拒即开打，打即朋友变对手，手即 BIND 爪，爪即陷阱，阱即 REPEL 破，破即留情，情即决赛托孤，孤即"beat Quech for me"）。
 

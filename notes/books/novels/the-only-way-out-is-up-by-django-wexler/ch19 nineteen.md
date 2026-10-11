@@ -7,10 +7,10 @@ modified: "2026-10-10"
 
 ## 本章导航
 
-- **一句话概括**：冠军周：Crusher 链球战（爬墙、天降、"yellow sparks expensive"）；分钱（"forgot to carry the one"、报名费凑齐一百 stripes）；银行存钱（Eclamia Ginnick 假名、"ten stripes, two tenths, and five hundred eight bits"）；冰淇淋庆祝（"What cream?"、"bored chef on Hod"）；复仇＋前途谈（Gestian 绞杀＋"pulling strings"、Council 位＋"Money. Respect. Power."、retainers 邀约＋"at Ky's sufferance"不安）；Ascent 真相（top two 继续往上打、"nobody has ever come back"、"There has to be a top somewhere"）；Star 警报（[Alarm]＋[Status: concealed]＋[Interruption: screaming]）。
+- **一句话概括**：冠军周：Crusher 链球战（爬墙、天降、"yellow sigils…lot of money"）；分钱（"forgot to carry the one"、报名费凑齐一百 stripes）；银行存钱（Eclamia Ginnick 假名、"ten stripes, two tenths, and five hundred eight bits"）；冰淇淋庆祝（"What cream?"、"bored chef on Hod"）；复仇＋前途谈（Gestian 绞杀＋"pulling strings"、Council 位＋"Money. Respect. Power."、retainers 邀约＋"at Ky's sufferance"不安）；Ascent 真相（top two 继续往上打、"nobody has ever come back"、"There has to be a top somewhere"）；Star 警报（[Alarm]＋[Status: concealed]＋[Interruption: screaming]）。
 - **情感弧线位置**：从"庆祝"到"告白"再到"警报"：冰淇淋的甜（"coldest thing I've ever touched"）配复仇的咸（"die screaming"）配前途的酸（"at Ky's sufferance"住人屋檐下）——"marriage"玩笑（"couldn't refuse"）配脸红（"cheeks flush"），糖里有刀，刀下有糖。
 - **人物弧线**：Ky（"duty vs want"、"children? Maybe eventually"、retainers 邀约、"I was making a joke"收回 Ascent 玩笑）；Taj（"Keep my family safe"第一答案、"take the cap off the world"式追问）；Star（远程心灵感应首测、"concealed"＋"screaming"警报，thief 体留守报信）。
-- **叙事手法**：打—分—存—吃—谈—警报六段式；"young couple running errands"伪装（arm in arm，演情侣）；以警报收束（[Alarm]→[Status]→[Interruption]三级升级，悬念交给 ch20 的"warehouse"）。
+- **叙事手法**：打—分—存—吃—谈—警报六段式；"young couple running some errands"伪装（arm in arm，演情侣）；以警报收束（[Alarm]→[Status]→[Interruption]三级升级，悬念交给 ch20 的"warehouse"）。
 
 ## 精读
 
@@ -30,7 +30,7 @@ modified: "2026-10-10"
 
 **关键词：** ten stripes · two tenths · five hundred eight
 
-**为什么这样写：** 银行点钞：ten stripes（十枚，整数）配 two tenths（两角，零头）配 five hundred eight bits（五百零八，散钱）——"fingers blurring"（手指快出残影）配"less than a minute"（不到一分钟），专业即信任。而"But how do you know they'll give it back?"（咋知道人家会还，Taj 问）配"rely on reputation"（靠信誉，Ky 答）配"lenders employ big fucking guys"（Heap 靠大块头讨债，Taj 答）——两种金融：上界靠 reputation（信誉），下界靠大块头，信誉即"有钱人的大块头"。而"Eclamia Ginnick"（曾姑祖母名，偷族谱）——假名存款，名字是偷的，钱是真的。
+**为什么这样写：** 银行点钞：ten stripes（十枚，整数）配 two tenths（两角，零头）配 five hundred eight bits（五百零八，散钱）——"fingers blurring"（手指快出残影）配"less than a minute"（不到一分钟），专业即信任。而"But how do you know they'll give it back?"（咋知道人家会还，Taj 问）配"rely on reputation"（靠信誉，Ky 答）配"lenders employ some big fucking guys"（Heap 靠大块头讨债，Taj 答）——两种金融：上界靠 reputation（信誉），下界靠大块头，信誉即"有钱人的大块头"。而"Eclamia Ginnick"（曾姑祖母名，偷族谱）——假名存款，名字是偷的，钱是真的。
 
 **读者视角提示：** "ten stripes, two tenths"是存款单（Eclamia Ginnick 户头，Hod 取）。后文报名费从这张单子出；读到银行，先看户名（真假），再看数（零头都不差——"Perfect"即 Ky 的理财精度）。
 
@@ -50,7 +50,7 @@ modified: "2026-10-10"
 
 **关键词：** Money · won’t get me · Hod
 
-**为什么这样写：** Weslai 的"palaces"劝（"keep doing this…buy palaces"，一直打一直爽，买宫殿）配 Ky 的"won't get me to Hod"（钱上不了 Hod）——"This is a pittance compared to Ascent"（这点跟 Ascent 奖金比是零头）——钱在 Ky 是路费，不是终点。而"Yeah, but what's so great about Hod, really?"（Hod 有啥好，Weslai 问）——问得好，Ky 答不上（"duty vs want"后文才答），答不上即"先打钱再说"。钱即下一句：报名费已齐，"entry fee"Achievement 达成。
+**为什么这样写：** Weslai 的"palaces"劝（"keep doing this…buy palaces"，一直打一直爽，买宫殿）配 Ky 的"won't get me to Hod"（钱上不了 Hod）——"This is a pittance compared to what we'll get"（这点跟 Ascent 奖金比是零头）——钱在 Ky 是路费，不是终点。而"Yeah, but what's so great about Hod, really?"（Hod 有啥好，Weslai 问）——问得好，Ky 答不上（"duty vs want"后文才答），答不上即"先打钱再说"。钱即下一句：报名费已齐，"entry fee"Achievement 达成。
 
 **读者视角提示：** "won't get me to Hod"是 Ky 的目标声明（钱≠终点，终点＝Council 席位＋复仇）。后文凡是"躺平选项"（palaces、retainers、 enough），她的答案都是这句；读到宫殿，先问"Hod 呢"，没 Hod 即不成交。
 
@@ -60,7 +60,7 @@ modified: "2026-10-10"
 
 **关键词：** all about · attitude
 
-**为什么这样写：** 伪装课：attitude（气场，全部）——"Relax…We belong here"（放松，我们属于这儿）配"You belong here, maybe"（你属于，我不）配 arm through mine（挽臂）配"young couple running errands"（小情侣办事）——气场即肢体：挽臂＋不躲 Arbiter 眼神（"That just makes me look suspicious"，越躲越贼）。而"redirects my anxiety along entirely different lines"（焦虑改道）配"palms sweat"（手心出汗）——伪装成功，代价是心跳，Arbiter 不查了，查的是 Ky 的胳膊（挽着，紧）。
+**为什么这样写：** 伪装课：attitude（气场，全部）——"Relax…We belong here"（放松，我们属于这儿）配"You belong here, maybe"（你属于，我不）配 arm through mine（挽臂）配"young couple running some errands"（小情侣办事）——气场即肢体：挽臂＋不躲 Arbiter 眼神（"That just makes me look suspicious"，越躲越贼）。而"redirects my anxiety along entirely different lines"（焦虑改道）配"palms sweat"（手心出汗）——伪装成功，代价是心跳，Arbiter 不查了，查的是 Ky 的胳膊（挽着，紧）。
 
 **读者视角提示：** "attitude"是 Ky 的伪装学（pass＋stripes＋气场三件套之三）。后文凡是混入（Yesod/Hod/银行），先看肢体：挽臂＝情侣，挺胸＝贵人，低头＝可疑。读到 attitude，先看 Taj 的手心（出汗吗），出汗即入戏。
 
@@ -70,7 +70,7 @@ modified: "2026-10-10"
 
 **关键词：** die screaming · pulling his strings
 
-**为什么这样写：** 复仇纲领：die screaming（惨叫着死，死法）配 not before（死前先，程序）配 pulling his strings（幕后提线，目标升级：Gestian 是线，提线的是手）——"Like revenge"（Taj 问：比如复仇）配"Like revenge"（Ky：对，复仇）——复仇从 ch13 的"Win or die"细化成"先供后死"，有流程的恨。而"Then what?…Money. Respect. Power."（然后呢？钱、敬、权）配"duty…didn't signify"（职责，想要不重要）——复仇之后是空位，空位即 ch13"short version"没讲完的那部分。
+**为什么这样写：** 复仇纲领：die screaming（惨叫着死，死法）配 not before（死前先，程序）配 pulling his strings（幕后提线，目标升级：Gestian 是线，提线的是手）——"Like revenge"（Taj 问：比如复仇）配"Like revenge"（Ky：对，复仇）——复仇从 ch13 的"Win or die"细化成"先供后死"，有流程的恨。而"Then what?…Money. Respect. Power."（然后呢？钱、敬、权）配"duty…didn't signify"（职责，想要不重要）——复仇之后是空位，空位即 ch12"short version"没讲完的那部分。
 
 **读者视角提示：** "pulling strings"是 Ky 复仇的第二阶段（第一阶段 Gestian 死）。后文凡是"幕后"，答案都是"提线的人"；读到 revenge 先问"第几阶段"，阶段即进度（本章还在第一阶段：攒钱）。
 
@@ -80,7 +80,7 @@ modified: "2026-10-10"
 
 **关键词：** nobody · ever come back · obviously
 
-**为什么这样写：** Ascent 真相的恐怖注脚：nobody ever（从无一人）配 come back（回来）配 obviously（明摆着，Ky 式轻描淡写）——"top two keep fighting Up Above"（前二继续往上打）配"another one after that, and another"（一场又一场）配"Above goes on forever"（Above 永无尽头）——奖品是"继续打"，打到没人回来。而"It can't go on forever. There has to be a top somewhere."（不可能无限，总有个顶）——Taj 的顶＝书名（The Only Way Out Is Up，出去的唯一路是往上），顶即信仰，信仰即下一句"daydreaming"（白日梦，嘴上否认）。
+**为什么这样写：** Ascent 真相的恐怖注脚：nobody ever（从无一人）配 come back（回来）配 obviously（明摆着，Ky 式轻描淡写）——"top two competitors win the right to keep fighting"（前二继续往上打）配"another one after that, and another"（一场又一场）配"Above goes on forever"（Above 永无尽头）——奖品是"继续打"，打到没人回来。而"It can't go on forever. There has to be a top somewhere."（不可能无限，总有个顶）——Taj 的顶＝书名（The Only Way Out Is Up，出去的唯一路是往上），顶即信仰，信仰即下一句"daydreaming"（白日梦，嘴上否认）。
 
 **读者视角提示：** "nobody has ever come back"是 Ascent 的死亡率（100%）。Ky 的"joke"（玩笑）收回，Taj 的"daydreaming"（白日梦）接住——玩笑与白日梦之间，隔着全书的终极问题：顶在哪？读到"Above"，先数"回来的人"：零。
 

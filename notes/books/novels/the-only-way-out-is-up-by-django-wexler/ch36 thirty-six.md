@@ -90,7 +90,7 @@ modified: "2026-10-10"
 
 **关键词：** keep getting back up
 
-**为什么这样写：** 蟑螂精神宣言："never lived…Heap"（没住过 Heap，前摇）配"Stomping a roach is no easy business"（踩蟑不易，论点）配"damned things…keep getting back up"（总爬起，论据）——"grinding teeth…stalks…shaking head"（磨牙＋踱＋摇头，法官退场）是背景。而"pointed look…poisonous glare"（Taj 瞪＋Gestian 毒瞪，门口）是尾声。声即"carriage ride…fogged…Heat…tell him to go fuck himself…no point…invitation…judging"（回程＋雾＋热＋骂＋忍＋请＋评，开篇回响），响即 Ky 的话（话即"Do you want to—"，悬置，置即 Bradley 截，截即本章，章即法官夜话，话即——拒！拒即决赛，赛即 Quech＋蛇，蛇即 BLAST＋REPEL＋绿盾＋手搓＋蟑螂精神，全上，上即——赢！）。
+**为什么这样写：** 蟑螂精神宣言："never lived…Heap"（没住过 Heap，前摇）配"Stomping a roach is no easy business"（踩蟑不易，论点）配"damned things…keep getting back up"（总爬起，论据）——"grinding teeth…stalks…shaking head"（磨牙＋踱＋摇头，法官退场）是背景。而"pointed look…poisonous glare"（Taj 瞪＋Gestian 毒瞪，门口）是尾声。声即"carriage ride…fogged…Heat…tell Alzimyth to go fuck himself…no point…invitation…judging"（回程＋雾＋热＋骂＋忍＋请＋评，开篇回响），响即 Ky 的话（话即"Do you want to—"，悬置，置即 Bradley 截，截即本章，章即法官夜话，话即——拒！拒即决赛，赛即 Quech＋蛇，蛇即 BLAST＋REPEL＋绿盾＋手搓＋蟑螂精神，全上，上即——赢！）。
 
 **读者视角提示：** "keep getting back up"是 Heap 精神（蟑螂，踩不死）。"damned things"（鬼东西）是 Taj 自称（虫即我，我即虫，虫即——赢！）；读到宣言，先看法官（"stalks…shaking head"，走＋摇头，摇即无计，计即"bind/drag"落空，空即规则，规即 Taj 赢，赢即决赛，赛即——赢！赢即 Above，上即寄信，信即——完？完即总览，览即——先打完，打即下一章：决赛日，日即——赢！）。
 

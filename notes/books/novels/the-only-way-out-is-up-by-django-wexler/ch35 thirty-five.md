@@ -50,7 +50,7 @@ modified: "2026-10-10"
 
 **关键词：** difficult · sympathetic
 
-**为什么这样写：** 机式柔情判语：difficult（难）配 sympathetic（生情）——"little to do in tunnels but observe you all"（隧道里没事就看你们）是前因。而"getting attached to meat creatures…silence, meat creature…pat…introduce properly…would like that"（黏＋闭嘴＋拍＋约＋好）是后续。约即"I wonder…what kind of thing…THINK…thinks…told Ky?…make another one?…tried?"（Taj：Star 算啥＋THINK 即思考＋Ky 不知道＋能复刻吗＋下场？问即保密（"haven't even told Ky"，连 Ky 都没说），密即"succumb…insistence…rest…staring at ceiling"（从了＋睡＋瞪眼，睡即 Bradley＋bottle，瓶即壁炉，炉即下一段）。
+**为什么这样写：** 机式柔情判语：difficult（难）配 sympathetic（生情）——"little to do in the tunnels but observe you all"（隧道里没事就看你们）是前因。而"getting attached to meat creatures…silence, meat creature…pat…introduce properly…would like that"（黏＋闭嘴＋拍＋约＋好）是后续。约即"I wonder…what kind of thing…THINK…thinks…told Ky?…make another one?…tried?"（Taj：Star 算啥＋THINK 即思考＋Ky 不知道＋能复刻吗＋下场？问即保密（"haven't even told Ky"，连 Ky 都没说），密即"succumb…insistence…rest…staring at ceiling"（从了＋睡＋瞪眼，睡即 Bradley＋bottle，瓶即壁炉，炉即下一段）。
 
 **读者视角提示：** "sympathetic"是 Star 的感情线（看＋情）。"introduce properly"（正式介绍）是约定；读到约定，先看 Taj（"wonder…THINK"，想＋保密），密即"make another one?"（复刻？问即法官也想问，问即 Alzimyth 召见，见即下一章：夜话，话即——答？答即决赛前，先睡，睡即——打！）。
 

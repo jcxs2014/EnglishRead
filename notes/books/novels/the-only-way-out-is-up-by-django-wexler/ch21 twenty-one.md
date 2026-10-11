@@ -30,7 +30,7 @@ modified: "2026-10-10"
 
 **关键词：** deadly calm · how it works
 
-**为什么这样写：** Venci 的规则课：deadly calm（平静得要命，calm 是 deadly 的）配"crushes…between her molars"（磨牙嚼籽，慢动作）——"withdraw the pot after a match. Not right before one"（打完取钱，开打前不行）配"tear this place apart, and us with it"（观众拆场连你一起拆）——规则＋暴力，双保险。而"blacklisted at every pit…if you manage to make it out alive"（封杀＋活着出去再说）——威胁的时态是条件式，条件即"你先打"，打即"One match"（一场，成交）。
+**为什么这样写：** Venci 的规则课：deadly calm（平静得要命，calm 是 deadly 的）配"crushes…between her molars"（磨牙嚼籽，慢动作）——"withdraw the pot after a match. Not right before one"（打完取钱，开打前不行）配"tear this place apart, and us with it"（观众拆场连你一起拆）——规则＋暴力，双保险。而"blacklisted at every pit…manage to make it out of here alive"（封杀＋活着出去再说）——威胁的时态是条件式，条件即"你先打"，打即"One match"（一场，成交）。
 
 **读者视角提示：** "how it works"是 pit 的规则总闸（Venci 版）。Taj 的应对（"Then we'll fight…Get the money ready"，打，但钱备好）——打可以，钱先备；读到规则，先看钱（备了吗），备了即开打。
 

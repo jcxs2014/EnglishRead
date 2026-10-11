@@ -32,7 +32,7 @@ modified: "2026-10-10"
 
 **为什么这样写：** "cheer…restrained, decorous…inaudible back on Malkuth"（欢呼＋克制＋体面＋Malkuth 听不见的音量）配 popular choice（民心，Taj 判）——"opponent…grind skulls…by accident"（对手磨头＋"意外"，引号即谋杀）是注脚。而"What?…Oh. Yes…all right?…Fine…distracted"（Ky：啊？哦？还行？分神，四连不在状态）——状态即"pointing…trembling finger…Dreikins"（下一段：指＋抖＋Dreikin，摊牌，牌即"betrayed and murdered…demand justice"，诉即挑战，战即 Gestian"accept"，应即 Alzimyth"Why wait"，乱即 2v2，阵即——打！）。
 
-**读者视角提示：** "popular choice"是民心（恨 Quech 即爱 Taj，爱即欢呼，呼即克制版，版即 Hod 体面）。"by accident"（引号即谋杀，Entop＋马鹰 girl 两条命）；读到欢呼，先看 Ky（"seeing crowd first time"，才看见人，人即布景，景即挑战台，台即下一段，段即——战！）。
+**读者视角提示：** "popular choice"是民心（恨 Quech 即爱 Taj，爱即欢呼，呼即克制版，版即 Hod 体面）。"by accident"（引号即谋杀，Entop＋马鹰 girl 两条命）；读到欢呼，先看 Ky（"seeing the crowd around us for the first time"，才看见人，人即布景，景即挑战台，台即下一段，段即——战！）。
 
 > **原句 3:** "“You betrayed and murdered my father. I demand justice.”"
 
@@ -52,7 +52,7 @@ modified: "2026-10-10"
 
 **为什么这样写：** 法官夺权："Shut. Up…ringing silence…normal tone"（闭嘴＋寂静＋常声）配 executor（执行人）配 am I not（对吧，反问即圣旨）——"Y-yes…Of course"（Hisham 结巴＋是）配"matches…whatever form I wish…Technically…traditional form"（赛制我定＋按说传统，Hisham 挣扎）——"Fuck your traditions…high-backed seat…representatives…sponsor…conveniently volunteered…fighters"（去他妈传统＋落座＋代表＋赞助＋自愿＋开打， decree）——"Included?…That's—…shut up…sick…farce…worms…my fault…fight!"（Devon 傻眼＋闭嘴＋虫＋开打，定）——定即"catches my eye…anger…my fault…backtalked…vermin"（对视＋怒＋我的锅＋顶嘴＋害虫，认即报复，复即拒约 ch36，约即"sigilist…abandon…own merits"，拒即——打！打即 2v2，阵即 Star vs 蛇＋Ky vs Gestian＋Quech 蹲 Taj，蹲即"occupied"，缠即——赢？赢即"concentrate"，各打各的，打即——赢！）。
 
-**读者视角提示：** "executor"是法官的尚方剑（赛制我定，定即 2v2）。"Fuck your traditions"（去他妈传统）是泄愤（愤即拒约，约即 ch36，夜即"Do you want to—"＋截停，停即本章报复，复即"mischievously…flicks his eyes to me"，笑＋瞥，瞥即——打！）。
+**读者视角提示：** "executor"是法官的尚方剑（赛制我定，定即 2v2）。"Fuck your traditions"（去他妈传统）是泄愤（愤即拒约，约即 ch35，夜即"Do you want to—"＋截停，停即本章报复，复即"mischievously…flicks his eyes to me"，笑＋瞥，瞥即——打！）。
 
 > **原句 5:** "“Go ahead and finish this tournament of worms.”"
 
@@ -60,7 +60,7 @@ modified: "2026-10-10"
 
 **关键词：** tournament of worms
 
-**为什么这样写：** "sick of pretending…dignity…farce"（腻了装＋体面＋闹剧）是前摇，worms（虫，Taj＝虫 ch36，虫即"backtalked…vermin"，顶嘴＋害虫）是泄愤——"catches my eye…anger…my fault"（对视＋怒＋我的锅，Taj 认账）——账即拒约（约即 ch36 夜话，话即"sigilist…abandon…own merits…rules…roach…boot…paste"（虫咒，咒即——打！）——"You heard me!…Now fight!"（听见没＋开打，令）——令即"Taj…listen…waiting…sorry…stop…too close…Sorry for what?…didn't tell…stop you?…trap…deal…kills you…rescue…after…fault…talent…abandon…turned down…Above? Why?…family. You…workhouse…me…wonderingly…took it well…pus drained…win…Quech…occupied…Okay×3…squeeze…smile…door…wait"（吵＋底＋赢＋门，全套，套即——打！）。
+**为什么这样写：** "sick of pretending…dignity…farce"（腻了装＋体面＋闹剧）是前摇，worms（虫，Taj＝虫 ch36，虫即本章"backtalked by vermin"，顶嘴＋害虫）是泄愤——"catches my eye…anger…my fault"（对视＋怒＋我的锅，Taj 认账）——账即拒约（约即 ch36 夜话，话即"sigilist…abandon…own merits…rules…roach…boot…paste"（虫咒，咒即——打！）——"You heard me!…Now fight!"（听见没＋开打，令）——令即"Taj…listen…waiting…sorry…stop…too close…Sorry for what?…didn't tell…stop you?…trap…deal…kills you…rescue…after…fault…talent…abandon…turned down…Above? Why?…family. You…workhouse…me…wonderingly…took it well…pus drained…win…Quech…occupied…Okay×3…squeeze…smile…door…wait"（吵＋底＋赢＋门，全套，套即——打！）。
 
 **读者视角提示：** "tournament of worms"是法官的泄愤命名（虫赛，赛即 2v2）。"my fault"（我的锅，Taj 认）是因果（拒约→报复→乱入）；读到命名，先看怒（"anger I see"，见即对视，视即——打！打即走廊，走廊即吵架，架即交底，底即"Now we win"，赢即大门，门即——打！）。
 

@@ -50,7 +50,7 @@ modified: "2026-10-10"
 
 **关键词：** ear
 
-**为什么这样写：** 重逢问候（Taj 式）："stride…tense…blocks…tapping…far enough…growls…leaning"（冲＋拦＋敲＋吼，前摇）配 How's the ear（耳朵咋样，问，咬耳 ch38 续）——"twitches…step aside?…move you…followed…holes…realization…Vripiai…hunk…sharpened…marred…grime…blood"（抽＋让吗＋挪＋跟＋洞＋悟＋糙，吓）——吓即"No need…harm…friends…sourly…aside"（Hisham：别＋无害＋朋友＋Quech：酸＋让，见）——见即"knees…comfort…restrain…unkempt…intact…bruise…collarbone…rage…fuck…deserve…bitch…switch…feet…coward…Please…kneel…okay…hit…fine…harder…right…happening…grab…dead…tell…explain…inadequate…terrible…figured…baby…fighting…help…win…trust…sinks…silently…accusation…fault…fault"，亲＋罪，全套，套即 Devon 催（催即"assent…waiting…mops…relieved…stalks…satchel…dung heap"，骂即上，骂即——上！上即房间梯，梯即——晕！）。
+**为什么这样写：** 重逢问候（Taj 式）："stride…tense…blocks…tapping…far enough…growls…leaning"（冲＋拦＋敲＋吼，前摇）配 How's the ear（耳朵咋样，问，咬耳 ch38 续）——本章"twitches…step aside?…move you…followed…holes…realization…Vripiai…hunk…sharpened…marred…grime…blood"（抽＋让吗＋挪＋跟＋洞＋悟＋糙，吓）——吓即"No need…harm…friends…sourly…aside"（Hisham：别＋无害＋朋友＋Quech：酸＋让，见）——见即"knees…comfort…restrain…unkempt…intact…bruise…collarbone…rage…fuck…deserve…bitch…switch…feet…coward…Please…kneel…okay…hit…fine…harder…right…happening…grab…dead…tell…explain…inadequate…terrible…figured…baby…fighting…help…win…trust…sinks…silently…accusation…fault…fault"，亲＋罪，全套，套即 Devon 催（催即"assent…waiting…mops…relieved…stalks…satchel…dung heap"，骂即上，骂即——上！上即房间梯，梯即——晕！）。
 
 **读者视角提示：** "How's the ear?"是 Taj 的重逢礼（咬耳之仇，仇即 ch38，战即本章，章即——打！）。"twitches"（抽）是 Quech 的答（疼，疼即"move you"，挪即 Star 吓，吓即——见！见即家人，家即——罪！）。
 

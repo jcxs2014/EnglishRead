@@ -40,7 +40,7 @@ modified: "2026-10-10"
 
 **关键词：** champion’s · pet human
 
-**为什么这样写：** Weslai 的介绍词：champion（冠军，指 Star）配 pet human（人形宠物，指 Taj）——"[Agreement: an apt description!]"（Star：形容精准！）配"champion's…father?"（Ky：冠军他爹？）配"sex is me sitting with saws and clippers? I'll pass"（性是拿锯子钳子坐桌边？免了）——三人轮流给"人机关系"下定义，定义一个比一个离谱。而"I bristle at boy"（"boy"让我炸毛）——"wonder boy and his invincible runic"（神奇小子＋无敌 runic）——boy 即 Taj 的公开标签，标签即炸毛点（炸毛但"keep expression calm"，忍）。
+**为什么这样写：** Weslai 的介绍词：champion（冠军，指 Star）配 pet human（人形宠物，指 Taj）——"[Agreement: an apt description!]"（Star：形容精准！）配"champion's…father?"（Ky：冠军他爹？）配"sex is me sitting at a table with my saws and clippers?"配"I'll pass, thanks."（性是拿锯子钳子坐桌边？免了）——三人轮流给"人机关系"下定义，定义一个比一个离谱。而"I bristle at boy"（"boy"让我炸毛）——"wonder boy and his invincible runic"（神奇小子＋无敌 runic）——boy 即 Taj 的公开标签，标签即炸毛点（炸毛但"keep expression calm"，忍）。
 
 **读者视角提示：** "boy/wonder boy"是 Taj 的公开标签（Weslai/Venci 叫 boy，Ky 叫 Taj）。"bristle at boy"是她的隐形炸毛点（ch06 自称 boy 是主动，别人叫是被动）；读到 boy 先看说话人：自己人叫＝昵称，外人叫＝炸毛（忍住的那种）。
 
@@ -60,7 +60,7 @@ modified: "2026-10-10"
 
 **关键词：** Wiring by hand · kids playing with junk
 
-**为什么这样写：** Lorrimer 的世界观崩塌实录：can't do that（不可能）配 growing frustration（越来越恼）配"kids playing with junk"（小孩玩破烂）——"Nobody wires up an entire runic by hand, connections too complicated"（没人手搓整机，太复杂）是行业共识，共识即"手搓不可能"。而"I'd never found it particularly difficult"（我倒不觉得难）配"Each sigil had its connection points…just obvious"（每个符文都有接口，试两次就 obvious）——天才的"obvious"即凡人的"不可能"，"trial and error"（试错）在她是呼吸。而"Star's not built from parts. I made him myself."（Star 不是拼的，是我造的）——"You made…him. Yourself."（你造的……他？亲手？）——him（他）即 Lorrimer 的投降：不信手艺，信"他"。
+**为什么这样写：** Lorrimer 的世界观崩塌实录：can't do that（不可能）配 growing frustration（越来越恼）配"kids playing with junk"（小孩玩破烂）——"Nobody wires up an entire runic by hand, connections are too complicated to keep track of"（没人手搓整机，太复杂）是行业共识，共识即"手搓不可能"。而"I'd never found it particularly difficult"（我倒不觉得难）配"Each sigil had its connection points…just obvious"（每个符文都有接口，试两次就 obvious）——天才的"obvious"即凡人的"不可能"，"trial and error"（试错）在她是呼吸。而"Star's not built from parts. I made him myself."（Star 不是拼的，是我造的）——"You made…him. Yourself."（你造的……他？亲手？）——him（他）即 Lorrimer 的投降：不信手艺，信"他"。
 
 **读者视角提示：** "手搓"是 Taj 的天才认证（Lorrimer 版，继 Ky"prodigy"之后第二认证）。"kids playing with junk"即她的童年（Fara 给 sigil 玩）——玩即学，学即天才。后文凡是"不可能"，答案都是"她行"；读到"can't"，自动补"Taj can"。
 

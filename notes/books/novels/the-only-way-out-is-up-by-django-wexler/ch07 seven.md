@@ -60,7 +60,7 @@ modified: "2026-10-10"
 
 **关键词：** good reasons · breaking into · middle of the night
 
-**为什么这样写：** Ky 的质问是全章最正当的一句：aren't a lot of good reasons（没几个好理由，双重否定表肯定——即"没理由"）。Taj 的回答（"I didn't think anybody was living here"，我以为没人住）配"patting the half-full pack"（拍拍半满的包），贼的诚实：动机纯粹（抢劫），误会纯粹（以为是空房）。"a girl's bedroom"（girl 的卧室）点出入侵的性别维度——两个当事人都是 girl，尴尬（blush）与危险（剑）同房，喜剧与惊悚同床。
+**为什么这样写：** Ky 的质问是全章最正当的一句：aren't a lot of good reasons（没几个好理由，双重否定表肯定——即"没理由"）。Taj 的回答（"I didn't think anybody was living here"，我以为没人住）配"pat the half-full pack on my back"（拍拍半满的包），贼的诚实：动机纯粹（抢劫），误会纯粹（以为是空房）。"a girl's bedroom"（girl 的卧室）点出入侵的性别维度——两个当事人都是 girl，尴尬（blush）与危险（剑）同房，喜剧与惊悚同床。
 
 **读者视角提示：** "我以为是空房"是 Taj 本章的出庭陈述，前后共说三遍（对 Ky、对自己、对读者）。读到她的自我辩护，数遍数：说三遍的事，至少两遍是心虚。
 

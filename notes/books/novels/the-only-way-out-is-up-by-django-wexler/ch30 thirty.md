@@ -7,7 +7,7 @@ modified: "2026-10-10"
 
 ## 本章导航
 
-- **一句话概括**：ball 之夜：试衣（mannequin＋"ruler on my cock"＋镜子）；Ky 银裙（"moon girl"＋"ethereal"＋"importunate stiffenings"）；Dreikin 迎宾（"barbarian with homemade runic"＋"fucking you as payment"解读＋"opening salute"）；Niami 情报（Gornet 姨妈＋Fideli 之死＋"Welcome to Hod"＋lesbian 出柜＋uncle 箱子）；Alzimyth 露台（"piss"＋"Hesed"＋Star 定制＋"If I can ask—"）；窗碎声（cut，下一章袭击？）。
+- **一句话概括**：ball 之夜：试衣（mannequin＋"ruler on my cock"＋镜子）；Ky 银裙（"moon girl"＋"ethereal"＋"importunate stiffenings"）；Dreikin 迎宾（"barbarian with the homemade runic"＋"fucking you as payment"解读＋"opening salute"）；Niami 情报（Gornet 姨妈＋Fideli 之死＋"Welcome to Hod"＋lesbian 出柜＋uncle 箱子）；Alzimyth 露台（"piss"＋"Hesed"＋Star 定制＋"If I can ask—"）；窗碎声（cut，下一章袭击？）。
 - **情感弧线位置**：从"试衣"到"露台"：镜子（"Laugh, probably, and throw trash at me"）→银裙（"moon girl"＋"nice"＋"pretty"＋"scrub up"）→"still the same person"（笑声认证， glitter 底下还是她）→露台（"piss"破冰＋"fine work"认证）——"slight flush enters her cheeks"（预支社恐）配"follow my lead"（跟我走），社恐即"affecting nonchalance"（装淡定），装即"smirk and insolent nod"（冷笑＋傲慢点头，外交）。
 - **人物弧线**：Devon Dreikin（"graceful bulk"＋"bells braids"＋"dramatic fashion"＋"Charming"＋"fucking you as payment"）；Evaline Gornet（"butter yellow"＋"red smear"眼神＋Council 七八位＋"niece or two isn't worth"）；Niami（"ne'er-do-well outcast"＋"box bound gagged"＋Grandma＋"cheese balls"＋"cocks or slits"）；Alzimyth（"double take"＋"lip twitches"＋"genuine attentiveness"＋"two fingers"诱惑＋"If I can ask—"）。
 - **叙事手法**：ball 三段式（试衣—迎宾—情报—露台）；"fucking you as payment"解读（Ky 翻译 insult，翻译即"opening salute"，开席）；Niami 出柜（"cocks or slits"＋Heap 对比"nobody gives a shit"——Heap 穷但不管睡谁）；以窗碎收束（"hundred windows shattering"——ball 变战场？下一章：谁砸场子？砸的是窗还是 Ky？）。
@@ -20,7 +20,7 @@ modified: "2026-10-10"
 
 **关键词：** moon · girl · look like this
 
-**为什么这样写：** Ky 银裙定妆：moon（月，Heap 人没见过月，见过即"she'd look like this"）配"doesn't look like she's wearing anything…transformed…partly of flesh and partly of gleaming silver"（像没穿＋变身＋半肉半银）配"slim lines…flaring…narrowing…curls…bracelets"（线条＋摆＋踝＋卷发＋镯）——"garish monstrosity"（Pader 那条成村姑装）是对比。而"nice…pretty…scrub up so well"（Taj 词穷三连：nice、pretty、还行）配"tiny fraction of my brain not occupied with staring"（脑子只剩一小块没在看）配"hide…stiffenings"（藏反应，bathrobe 系紧）——词穷即诚实，诚实即"moon girl"（月 girl，Heap 最高赞美，赞美即下一句"Who would have thought"，谁能想到，想到即"Not me"，我也不能）。
+**为什么这样写：** Ky 银裙定妆：moon（月，Heap 人没见过月，见过即"she'd look like this"）配"doesn't look like she's wearing anything…transformed…partly of flesh and partly of gleaming, weightless silver"（像没穿＋变身＋半肉半银）配"slim lines…flaring…narrowing…curls…bracelets"（线条＋摆＋踝＋卷发＋镯）——"garish monstrosity"（Pader 那条成村姑装）是对比。而"nice…pretty…scrub up so well"（Taj 词穷三连：nice、pretty、还行）配"tiny fraction of my brain not occupied with staring"（脑子只剩一小块没在看）配"hide…stiffenings"（藏反应，bathrobe 系紧）——词穷即诚实，诚实即"moon girl"（月 girl，Heap 最高赞美，赞美即下一句"Who would have thought"，谁能想到，想到即"Not me"，我也不能）。
 
 **读者视角提示：** "moon girl"是 Ky 的 ball 封号（Taj 颁发）。"mother once wore"（妈穿过，Saree 改的）是封号的注脚；读到银裙，先看 Taj 的脑子（剩几成），剩一成即"nice"，nice 即满分（Heap 人词汇量上限）。
 
@@ -30,7 +30,7 @@ modified: "2026-10-10"
 
 **关键词：** just people · wherever · just as shitty
 
-**为什么这样写：** Tranto 家训："Did you ever think…barely human?"（Taj：你觉得过我们不算人吗）配 frowns thoughtfully（皱眉想）配"people are just people"（人就是人）配"just as shitty as each other"（一样烂，烂即平等）——"He sounds like quite an optimist"（Taj：挺乐观啊）配"you two would have gotten along"（Ky：你俩合得来）——合得来即"dead father＋living Heaper"（死爹＋活贼，跨界知己），知己即"Dreikin's place. We're here."（到地了，下车，话题终）。而"low expectations…barely human…don't show your ass"（Ky 行前交代：期望低、别露腚、别拉桌上）——交代即"ahead of the game"（赢在起跑线），线即 ball（ball 即考场，考即"learn…without giving away"＋"get close to Alzimyth"，双考题）。
+**为什么这样写：** Tranto 家训："Did you ever think…barely human?"（Taj：你觉得过我们不算人吗）配 frowns thoughtfully（皱眉想）配"people are just people"（人就是人）配"just as shitty as each other"（一样烂，烂即平等）——"He sounds like quite an optimist"（Taj：挺乐观啊）配"the two of you would have gotten along"（Ky：你俩合得来）——合得来即"dead father＋living Heaper"（死爹＋活贼，跨界知己），知己即"Dreikin's place. We're here."（到地了，下车，话题终）。而"low expectations…barely human…don't show your ass"（Ky 行前交代：期望低、别露腚、别拉桌上）——交代即"ahead of the game"（赢在起跑线），线即 ball（ball 即考场，考即"learn…without giving away"＋"get close to Alzimyth"，双考题）。
 
 **读者视角提示：** "just as shitty"是 Tranto 家训（平等即一样烂）。"gotten along"（合得来）是 Ky 的认证（爹认可 Taj）；读到家训，先看 Taj（"optimist"，乐观？不，是"shitty"听着耳熟，耳熟即 Heap 日常，日常即"people don't hurt you just because they can"ch26，山上才有的奢侈）。
 
@@ -60,7 +60,7 @@ modified: "2026-10-10"
 
 **关键词：** officially · mad · working
 
-**为什么这样写：** Gornet 姨妈观察："large, formidable-looking…butter yellow"（大只＋黄油裙）配"staring at Quech…crush him with will…red smear"（瞪 Quech，意念压成红酱）——"Fideli Gornet was her niece"（死的是她侄女）配"Was?/The girl Quech killed"（死了？Quech 杀的那个）——"not officially supposed to be mad"（官方不许气）配"don't think it's working"（看着没绷住）——"Council seventh or eighth…niece or two isn't worth…Dreikins"（七八位小家族，侄女不值得刚 Dreikin）——"murder…unfortunate accident…knew the risks"（你说谋杀，他说意外＋认栽）——"stands a long way off…Hard to see clearly"（看台远，看不清，官方说辞）配"Welcome to Hod, right?"（欢迎来 Hod，Niami 眨眼），迎即"规则"（规则即"有钱即无罪"，罪即下一章 ball 碎？不，先露台）。
+**为什么这样写：** Gornet 姨妈观察："large, formidable-looking…butter yellow"（大只＋黄油裙）配"staring at Quech…crush him with will…red smear"（瞪 Quech，意念压成红酱）——"Fideli Gornet was her niece"（死的是她侄女）配"Was?/The girl Quech killed"（死了？Quech 杀的那个）——"not officially supposed to be mad"（官方不许气）配"don't think it's working"（看着没绷住）——"only seventh or eighth…niece or two isn't worth…Dreikins"（七八位小家族，侄女不值得刚 Dreikin）——"murder…unfortunate accident…knew the risks"（你说谋杀，他说意外＋认栽）——"stands a long way off…Hard to see clearly"（看台远，看不清，官方说辞）配"Welcome to Hod, right?"（欢迎来 Hod，Niami 眨眼），迎即"规则"（规则即"有钱即无罪"，罪即下一章 ball 碎？不，先露台）。
 
 **读者视角提示：** "officially"是 Hod 的遮羞布（官方不气、私下气死）。Gornet（七八位）vs Dreikin（顶级）＝"niece isn't worth"（命有价，价即家族排名）；读到"accident"，即谋杀，杀即 Quech（"beat unconscious…deliberately finished"，下一句，句句是锤）。
 
@@ -80,7 +80,7 @@ modified: "2026-10-10"
 
 **关键词：** from Above · piss
 
-**为什么这样写：** 露台破冰：double take（定睛）配"first thing that comes to mind"（想到啥说啥）配 piss（撒尿，Taj 式开场白，社恐人的地狱笑话）——"stares coldly…heart plunging"（冷脸＋心坠）配"lip twitches…slightest smile"（嘴角一动，笑了）——笑了即"We do, I'm afraid…On Hesed, we piss"（Above 也尿，Hesed 产地直供，下一句）——"Keter…not ours to know"（Keter 不归我们懂，神学）配"You are Taj Fara. Your runic is Star, is it not?"（你是 Taj Fara，机叫 Star，对吧，查过户口）——查过即"I watched you…fine performance"（看了首轮，不错），错即"genuine attentiveness trying to hide"（装淡定，藏不住的认真），真即"Who did the custom work?"（谁手搓的，问到点子了，子即"我"，我即下一句"I did…from scrap"，认领）。
+**为什么这样写：** 露台破冰：double take（定睛）配"first thing that comes to mind"（想到啥说啥）配 piss（撒尿，Taj 式开场白，社恐人的地狱笑话）——"stares coldly…heart plunging"（冷脸＋心坠）配"lip twitches…slightest smile"（嘴角一动，笑了）——笑了即"We do, I'm afraid…On Hesed, we piss"（Above 也尿，Hesed 产地直供，下一句）——"Keter…not ours to know"（Keter 不归我们懂，神学）配"You are Taj Fara. Your runic is Star, is it not?"（你是 Taj Fara，机叫 Star，对吧，查过户口）——查过即"I watched you…fine performance"（看了首轮，不错），错即"genuine attentiveness he's trying to hide"（装淡定，藏不住的认真），真即"Who did the custom work?"（谁手搓的，问到点子了，子即"我"，我即下一句"I did…from scrap"，认领）。
 
 **读者视角提示：** "piss"是 Taj 的社交核武器（社恐＋尿点，百试百灵：Star  puff? 不，法官笑了）。"Hesed"（Hesed，Above 地名首现，Keter 之下？存档）＋"Keter"（神学，甲方）；读到地名，先记（Hesed＝法官老家，老家即"piss"，尿即亲切，亲切即"fine work"认证，证即 Star 身价＋1）。
 

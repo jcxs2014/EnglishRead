@@ -40,7 +40,7 @@ modified: "2026-10-10"
 
 **关键词：** Contingency · rob her again
 
-**为什么这样写：** Star 的 Contingency（预案标签，参谋长上岗）：if she doesn't（她不接活）→ rob her again（再抢一次）—— Plan B 是重操旧业，逻辑满分，道德零分。"It had better not come to that"（最好别走到那步）配"doubt she'd overlook a second round"（她不会放过第二次）——Taj 嘴上否决，心里记账：预案之所以是预案，就是因为"用得上"。而 Ky 最终既没告密也没拒绝，预案落空，落空即幸运。
+**为什么这样写：** Star 的 Contingency（预案标签，参谋长上岗）：if she doesn't（她不接活）→ rob her again（再抢一次）—— Plan B 是重操旧业，逻辑满分，道德零分。"It had better not come to that"（最好别走到那步）配"[Doubt: you believe she will welcome us back?]"（她还肯收我们吗）——Taj 嘴上否决，心里记账：预案之所以是预案，就是因为"用得上"。而 Ky 最终既没告密也没拒绝，预案落空，落空即幸运。
 
 **读者视角提示：** Contingency 标签＝Star 的 Plan B 制造机（后文大行动必有）。读到 Contingency 先看 Taj 的反应：否决（本章）还是采用（后文）——采用即黑化进度条。
 

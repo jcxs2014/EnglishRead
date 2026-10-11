@@ -10,7 +10,7 @@ modified: "2026-10-10"
 - **一句话概括**：首轮混战：tiger 打招呼＋甲虫男、"outside disqualification"规则、Star 算分（2 分进、3 分稳）；狗车战（BIND 挂桥边、跳顶、掏后 core，"Victory: that's one"）；球战（"the ball, and not the woman?"不打主人、追丢）；Vripiai 堵路＋Quech 点名（"Still a smear?"）；马鹰救场＋Quech 杀女主人（"being lectured"、三下砸墙、白布单）；收分（Quech 6、Niami 4、Taj 2 压线进）；Niami 交友（Bitey、"scratch-built"、core patterns 换技术）；Ky 熊抱（"you did it"×3）；ball 预告（Dreikin 主办、Alzimyth 在场、"clothes to try on"）。
 - **情感弧线位置**：从"算分"到"压线"：Star 的"Two points sufficient"（学霸）配 Taj 的"even one point might be a stretch"（学渣）——"confidence returning"（赢狗找回）配"cowering in Vripiai's shadow"（蛇影下缩着）——缩着也进了（2 分，Taj 2 压线）；"hadn't felt like a win"（不像赢）配 Ky 的"you won"（你赢了），赢是别人替你认的，认即熊抱（"bowls me over"，撞翻）。
 - **人物弧线**：Niami（绿发、tiger Bitey、"bad at names"、"core patterns"、"Grandma"，手搓党二号）；马鹰 girl（救人、"fucking coward"、白布单，无名英雄，存档）；Quech（"fair fight"论、"asked specifically"、杀女主人三下、手上血，"wide berth"）；Ky（场边笔记＋"trade for info"、"ball"社交战、"cheerily"）。
-- **叙事手法**：混战三段式（狗—球—蛇＋观战杀）；"不打主人"伦理（"transgress unwritten rule"＋"feels wrong"＋"aren't desperate yet"，底线三件套）；Quech 杀人插曲（规则漏洞"masters aren't a threat"＋"not allowed weapons"手杀——武器禁了，手没禁）；以试衣收束（"clothes to try on"——打完仗，换礼服，下一章 ball，ball 即战场之二）。
+- **叙事手法**：混战三段式（狗—球—蛇＋观战杀）；"不打主人"伦理（"transgress some unwritten rule"＋"feels wrong"＋"aren't desperate yet"，底线三件套）；Quech 杀人插曲（规则漏洞"masters aren't a threat"＋"not allowed weapons"手杀——武器禁了，手没禁）；以试衣收束（"clothes to try on"——打完仗，换礼服，下一章 ball，ball 即战场之二）。
 
 ## 精读
 
@@ -22,7 +22,7 @@ modified: "2026-10-10"
 
 **为什么这样写：** Star 式战前数学：26 进 8（分母）配 2 分够（分子）配 3 分稳（保险）——"Three points, then. It doesn't seem so hard, put that way."（Taj：那就三分，听着不难）配"if Vripiai is a fair sample…even one point might be a stretch"（要是蛇是平均水平，一分都悬）——学霸算完学渣慌，慌即"shake my head to clear that thought"（摇头清空），空即"new tricks…beneath his armor"（甲下新招），招即底气（底气即下一段狗车战）。
 
-**读者视角提示：** "2 分进 3 分稳"是首轮的分数线（Star 划的）。后文得分都按这个对账：狗 1 分、球 1 分，正好 2 分压线；读到算分，先看 Quech（6 分，超纲），超纲即"accumulated more than necessary…helps our chances"（他刷超了，我们沾光，Star 式乐观）。
+**读者视角提示：** "2 分进 3 分稳"是首轮的分数线（Star 划的）。后文得分都按这个对账：狗 1 分、球 1 分，正好 2 分压线；读到算分，先看 Quech（6 分，超纲），超纲即"accumulated more points than necessary…helps our chances"（他刷超了，我们沾光，Star 式乐观）。
 
 > **原句 2:** "“A win’s a win, however you get there.”"
 
@@ -30,7 +30,7 @@ modified: "2026-10-10"
 
 **关键词：** win’s a win · however you get there
 
-**为什么这样写：** Quech 的胜负观：win's a win（赢即赢，同义反复即真理）配 however（咋都行，手段不限）——"Nothing special about a fair fight"（公平仗没啥特别的）是前摇。而"masters aren't a threat to other masters"（主人不算威胁，规则原文）配"not allowed weapons"（不许带武器）配"huge, bloodstained hand"（血手，徒手）——规则禁了武器，没禁手，手即凶器，凶器即"Wham…smear of blood…crunch…twitching body"（三下＋血＋抽搐），抽搐即"white sheet staining red"（白布单染红），红即 Quech 的"wide berth"（人人绕行，绕行即名声，名声即下一章 ball 上的 C 位）。
+**为什么这样写：** Quech 的胜负观：win's a win（赢即赢，同义反复即真理）配 however（咋都行，手段不限）——"Nothing special about a fair fight"（公平仗没啥特别的）是前摇。而"masters aren't a threat to other masters"（主人不算威胁，规则原文）配"not allowed weapons"（不许带武器）配"huge, bloodstained hand"（血手，徒手）——规则禁了武器，没禁手，手即凶器，凶器即"Wham…smear of blood…crunch…twitching body"（三下＋血＋抽搐），抽搐即"white sheet already staining red"（白布单染红），红即 Quech 的"wide berth"（人人绕行，绕行即名声，名声即下一章 ball 上的 C 位）。
 
 **读者视角提示：** "win's a win"是 Quech 派的总纲（与 Taj"alive vs aren't"对撞：一个要赢，一个要活）。"asked specifically"（专门问过规则）说明杀人是预谋，不是冲动；读到预谋，先看手（血洗了吗），血即"flecked red"（ball 上还带着，带着即炫耀）。
 
@@ -90,7 +90,7 @@ modified: "2026-10-10"
 
 **关键词：** will be there · only chance · talk to him
 
-**为什么这样写：** ball 邀约的杀手锏：Alzimyth will be there（法官在）配 only chance（唯一机会）配 talk to him（搭话）——"dancing and such? I don't know how"（Taj：跳舞？不会）配"It's easy, I'll walk you through it"（Ky：简单，我带）——"my heart lurch"（心一跳）配"If I can just get a look at his coat…"（看一眼他的 coat 就行，Taj：不搭话，看衣，看衣即偷师，师即微雕 sigil＋内发光戒指 ch28）——"watching my expression…satisfied nod"（Ky 看穿：满意点头）配"Now come with me. You've got clothes to try on."（走，试衣服，收束）——试衣即 ball，ball 即"Dreikin 主办"，办即鸿门宴（宴即社交战，战即下一章）。
+**为什么这样写：** ball 邀约的杀手锏：Alzimyth will be there（法官在）配 only chance（唯一机会）配 talk to him（搭话）——"dancing and such? I don't know how"（Taj：跳舞？不会）配"It's easy, I'll walk you through it"（Ky：简单，我带）——"my heart lurch"（心一跳）配"If I can just get a look at his coat…"（看一眼他的 coat 就行，Taj：不搭话，看衣，看衣即偷师，师即微雕 sigil＋内发光戒指 ch28）——"watching my expression, gives a satisfied nod"（本章 Ky 看穿：满意点头）配"Now come with me. You've got clothes to try on."（走，试衣服，收束）——试衣即 ball，ball 即"Dreikin 主办"，办即鸿门宴（宴即社交战，战即下一章）。
 
 **读者视角提示：** "only chance to talk to him"是 ball 的真正议程（社交是幌子，法官是目标）。Taj 的"coat"（看衣）即 Star 的"origins"（身世，ch15 问）；读到 ball，先看主人（Dreikin，仇家办宴），宴即"can't skip"（必须去，去即"part of the tournament"，赛制一部分，分内事，事即社交战＋偷师，双线）。
 

@@ -30,7 +30,7 @@ modified: "2026-10-10"
 
 **关键词：** apologize · lapse
 
-**为什么这样写：** Star 式道歉："Assessment…incidental…apologize…lapse"（评估＋顺带＋歉＋掉线）——"No need…appendage…shiver…concur…unprecedented…unpleasant…over"（Taj：不用＋ Star 讲冷笑话（"don't possess appendage"，没那零件）＋认＋空前＋难受＋结束）——束即"flickers…grins…sour…beaming…fierce…vile…stares…possible…decided…terms"，胜即翻，翻即挡，挡即斩，斩即鸟，鸟即熔，熔即核，核即死，死即——完？）。
+**为什么这样写：** Star 式道歉："Assessment…incidental…apologize…lapse"（评估＋顺带＋歉＋掉线）——"No need…appendage…shiver…concur…unprecedented…unpleasant…over"（Taj：不用＋ Star 讲冷笑话（"do not possess such an appendage"，没那零件）＋认＋空前＋难受＋结束）——束即"flickers…grins…sour…beaming…fierce…vile…stares…possible…decided…terms"，胜即翻，翻即挡，挡即斩，斩即鸟，鸟即熔，熔即核，核即死，死即——完？）。
 
 **读者视角提示：** "apologize…lapse"是 Star 的掉线报告（歉＋线，线即 static 潮，潮即 ch43，战即本章，章即——胜！）。"appendage"冷笑话（没零件，件即——活！活即"himself"，己即——战！）；读到道歉，先看 Taj（"No need"，不用，免即——胜！胜即"over!"，喊即——翻！）。
 

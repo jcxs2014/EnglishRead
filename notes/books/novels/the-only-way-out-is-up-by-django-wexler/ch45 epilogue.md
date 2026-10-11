@@ -62,7 +62,7 @@ modified: "2026-10-10"
 
 **为什么这样写：** "eat…stories…stars"（食＋书＋星，梦三件）配 at least（至少，限）配 came true（成真，圆）——圆即"blurs…streaming…killed…cruelty…understand…system…made…Tree…top…ask…ascend"，悼＋檄＋名，名即——完！）——梦即"see the stars"（看星，哥的梦，梦即 ch44 绝唱（唱即"beautiful"，美即——死！死即本章（章即葬，葬即——檄！）。
 
-**读者视角提示：** "at least…true"是悼词的收束（限＋圆，圆即星（星即看了，了即 ch44（"pinpricks…velvet"，针＋绒，美即——死！）。"at least"（至少）是卑微的圆；读到成真，先看 Taj（"blurs"，糊，糊即——檄！檄即"cruelty"，蠢即——造！）。
+**读者视角提示：** "at least…true"是悼词的收束（限＋圆，圆即星（星即看了，了即 ch44（"tiny pinpricks"，针）＋"velvet"（绒），美即——死！）。"at least"（至少）是卑微的圆；读到成真，先看 Taj（"blurs"，糊，糊即——檄！檄即"cruelty"，蠢即——造！）。
 
 > **原句 6:** "The tiers, the terminus, the scavengers and the workhouses and the Heap, those are made things."
 

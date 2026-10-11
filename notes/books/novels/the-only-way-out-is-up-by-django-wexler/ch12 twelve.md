@@ -40,7 +40,7 @@ modified: "2026-10-10"
 
 **关键词：** Perfectly natural · ignore me
 
-**为什么这样写：** Ky 的哭是"带说明书"的：Trauma response（创伤反应，名词确诊）→ Perfectly natural（完全正常，医嘱）→ ignore me（无视我，处方）。"hiccupping sob"（打嗝式哭）配"Hic—sorry"（嗝—对不起）——生理（嗝）先行，礼貌（sorry）随后，哭都要走流程。而"I haven't comforted a sobbing person who wasn't family"（没哄过家人之外的哭）配"too forward"（太冒昧）——Taj 的哄人额度只批给家人，Ky 暂无额度，只能"等"（wait while sobs subside）。
+**为什么这样写：** Ky 的哭是"带说明书"的：Trauma response（创伤反应，名词确诊）→ Perfectly natural（完全正常，医嘱）→ ignore me（无视我，处方）。"hiccupping sob"（打嗝式哭）配"Hic—sorry"（嗝—对不起）——生理（嗝）先行，礼貌（sorry）随后，哭都要走流程。而"I haven't comforted a sobbing person who wasn't part of my own family before"（没哄过家人之外的哭）配"too forward"（太冒昧）——Taj 的哄人额度只批给家人，Ky 暂无额度，只能"等"（wait while sobs subside）。
 
 **读者视角提示：** "ignore me"是 Ky 的哭泣协议（后文再哭也一样）。Taj 的应对（等、不抱、看后脑勺）是本章的温柔刻度；读到她的哭，先执行协议：无视，即尊重。
 

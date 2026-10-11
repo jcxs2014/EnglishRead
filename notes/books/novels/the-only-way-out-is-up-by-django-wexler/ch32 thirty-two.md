@@ -10,7 +10,7 @@ modified: "2026-10-10"
 - **一句话概括**：次轮首战 Couvere/Clatter（du Freis 龟、EXPLODE 活塞锤、"wall-of-bits-ed"实感）：Star 派对后遗症（"poisonous substances"＋"mating behavior?"）；"Three more fights"数数；单挑规则（一天修整、"win and still lose"）；断腿 Purge #5→剪锤→"not encouraging"→BLAST 蛋（Purge #3 掩护、"evil orange flames"、龟翻）；Alzimyth 坐直（"strange expression…Not just surprise"）；"winners!"收。
 - **情感弧线位置**：从"宿醉"到"亮底牌"：Star 的"party…poor decisions"（runic 也宿醉）配 Taj 的"mating behavior…hard to tell"（人类也含糊，脸还红着）——"Me too"（都没准备好）→"keep hitting it"（Simplicity 战术，简单即对）→"tip our hand"（亮 BLAST，亮即"no choice"，择即"tricky timing"，时即"Purge #3"掩护，护即蛋，蛋即赢）。
 - **人物弧线**：Couvere（眼镜＋"figures"＋"plenty of patience"、龟＋黄 RESIST＋换弹夹"clonk"＋"shouting something"）；du Freis（"Mid-rank…opportunists"，钱多，钱即黄甲＋活塞锤×12）；Alzimyth（"curl to lip"＋"tap-tap-tapping"＋"straightened up…eyes lock"，法官上钩，钩即 BLAST）；Hisham（"Oh, yes, go ahead"，工具人，麦克风架）。
-- **叙事手法**：单挑四段式（试探—断腿—剪锤—爆蛋）；"wall-of-bits-ed"（钱砸死，Lorrimer 预言 ch18 兑现：设计无趣＋钱无限＝赢）；"verisimilitude"（喊 Purge #3 演戏，戏即掩护，护即蛋）；BLAST 蛋（"little eggs"＋"hatches underside"＋"no protection underneath"，龟无下甲，甲即"bulk lifted clean off"，飞起＋侧翻）；以法官眼神收束（"Not just surprise, but—"，cut，下一章：他起疑了？疑的是 BLAST 还是 Star？）。
+- **叙事手法**：单挑四段式（试探—断腿—剪锤—爆蛋）；"wall-of-bits-ed"（钱砸死，Lorrimer 预言 ch18 兑现：设计无趣＋钱无限＝赢）；"verisimilitude"（喊 Purge #3 演戏，戏即掩护，护即蛋）；BLAST 蛋（"little eggs"＋"hatches underside"＋"has no such protection"，龟无下甲，甲即"bulk lifted clean off"，飞起＋侧翻）；以法官眼神收束（"Not just surprise, but—"，cut，下一章：他起疑了？疑的是 BLAST 还是 Star？）。
 
 ## 精读
 
@@ -30,7 +30,7 @@ modified: "2026-10-10"
 
 **关键词：** Affirmation · thankful · glands
 
-**为什么这样写：** mating 话题终结技：Affirmation（确认，盖章）配 thankful every day（天天谢）配 not to have glands（没腺体，生理优势）——"orifices that require rubbing"（要互蹭的孔，展开）是加码，加码即被打断（"Star."＋"You're nervous, aren't you?"，转进）。而"No…maybe…hard to tell"（Taj 的三连，否＋也许＋说不清）——说不清即 ch31 almost-kiss 的后遗症（后遗症即"faint blush…possibly I'm imagining it"，Ky 脸红＋疑似，似即"Time to go"，上车，车即赛场，场即龟，龟即下一段）。
+**为什么这样写：** mating 话题终结技：Affirmation（确认，盖章）配 thankful every day（天天谢）配 not to have glands（没腺体，生理优势）——"orifices that require rubbing"（要互蹭的孔，展开）是加码，加码即被打断（"Star."＋"You're nervous, aren't you?"，转进）。而"No…maybe…hard to tell"（Taj 的三连，否＋也许＋说不清）——说不清即 ch31 那场差点亲上的后遗症（后遗症即本章"faint blush…possibly I'm imagining it"，Ky 脸红＋疑似，似即"Time to go"，上车，车即赛场，场即龟，龟即下一段）。
 
 **读者视角提示：** "glands/orifices"是 Star 的生理优越论（没腺体＋没孔，干净）。Taj 的"hard to tell"（说不清）是全书感情线的官方口径；读到口径，先看脸（flush，红吗），红即"maybe"，许即"以后再说"，说即先打仗（仗即龟，龟即 EXPLODE 锤）。
 
@@ -60,7 +60,7 @@ modified: "2026-10-10"
 
 **关键词：** EXPLODE · each head
 
-**为什么这样写：** 战场拆解："Holy shit"（卧槽，前摇）配"[Clarify: please?]"（Star：细说）配 EXPLODE in each head（锤头即弹药）——"drives a piston…spike…no leverage…force from inside"（活塞＋钉＋无杠杆＋内力）——"don't use EXPLODE…one-shot…ejectable canisters solve…afford plenty"（Taj：我不用 EXPLODE（一次性的），弹壳可抛＋有钱任性＝解法）——"wall-of-bits…visceral experience"（钱墙砸脸，体感）配"isn't good design…not interesting…unlimited money"（设计烂＋无趣＋钱无限＝赢）——赢即"I'm out of room. Trying something"（Star：没地了，整活），活即"scissors near base…topples like falling tree"（剪刀剪锤柄＋倒树，剪即"Yes!…one by one"，但"Two additional limbs…already unfolding"，剪不完，完即 BLAST 蛋，蛋即下一段）。
+**为什么这样写：** 战场拆解："Holy shit"（卧槽，前摇）配"[Clarify: please?]"（Star：细说）配 EXPLODE in each head（锤头即弹药）——"drives a piston…spike…no leverage…force from inside"（活塞＋钉＋无杠杆＋内力）——"don't use EXPLODE…one-shot…ejectable canisters solve…afford plenty"（Taj：我不用 EXPLODE（一次性的），弹壳可抛＋有钱任性＝解法）——"wall-of-bits…visceral experience"（钱墙砸脸，体感）配"isn't good design…not interesting…unlimited money"（设计烂＋无趣＋钱无限＝赢）——赢即"I'm out of room. Trying something"（Star：没地了，整活），活即"scissors near the spindly limb's base…topples away like a falling tree"（剪刀剪锤柄＋倒树，剪即"Yes!…one by one"，但"Two additional limbs…already unfolding"，剪不完，完即 BLAST 蛋，蛋即下一段）。
 
 **读者视角提示：** "EXPLODE in each head"是龟的真相（锤＝炮，炮＝钱）。"ejectable canisters"（抛壳）是富佬解法（穷解法是 Bug Zapper 一次性）；读到真相，先看弹壳（"metal canister…forearm…clicks…new one"，捡弹壳＋读 sigil：MOVE＋STRONGs＋EXPLODE，读即"That's why"，然即蛋，蛋即"underneath"，下即龟无甲处）。
 
@@ -80,7 +80,7 @@ modified: "2026-10-10"
 
 **关键词：** convert · HEAT and FORCE · modulated
 
-**为什么这样写：** BLAST 蛋说明书：convert（转，存能→热＋力）配 modulated（调制，STRONG＋FAST 精摆）——"built from orange sigil blanks…more powerful than Rotwurm ones"（橙坯＋更强，升级版）配"fit three…hatches underside…little eggs"（三枚＋腹舱＋蛋皮）——"doubt…scratch its armor…no such protection underneath"（正面刮痧＋腹下无甲，龟的死穴）——穴即"bulk lifted clean off…splay-legged…topples…fires flicker"（飞＋劈叉＋翻＋火，慢镜头），头即"Couvere shouting something"（对手喊啥，听不清），清即"eyes for the judging platform"（只看裁判台，台即 Hisham 呆＋Alzimyth 起，起即"eyes lock…strange…Not just surprise"，锁＋怪＋不止惊，惊即疑，疑即下一章：BLAST 何来？手搓的？Heap 妞会手搓 BLAST？）。
+**为什么这样写：** BLAST 蛋说明书：convert（转，存能→热＋力）配 modulated（调制，STRONG＋FAST 精摆）——"built from orange sigil blanks…more powerful than the ones we used on Rotwurm"（橙坯＋更强，升级版）配"fit three…hatches underside…little eggs"（三枚＋腹舱＋蛋皮）——"doubt…scratch its armor…has no such protection"（正面刮痧＋腹下无甲，龟的死穴）——穴即"bulk lifted clean off…splay-legged…topples…fires flicker"（飞＋劈叉＋翻＋火，慢镜头），头即"Couvere is shouting something"（对手喊啥，听不清），清即"eyes for the judging platform"（只看裁判台，台即 Hisham 呆＋Alzimyth 起，起即"eyes lock…strange…Not just surprise"，锁＋怪＋不止惊，惊即疑，疑即下一章：BLAST 何来？手搓的？Heap 妞会手搓 BLAST？）。
 
 **读者视角提示：** "HEAT and FORCE…STRONGs and FASTS"是 BLAST 蛋配方（公开处刑，全场围观）。"underneath"（腹下）是龟的死穴（死穴即"no protection"，光腚）；读到配方，先看法官（起立了吗），立了即"Not just surprise"（不止惊，惊＋疑，疑即下章的盘问：这蛋哪来的？谁刻的？刻蛋的人在哪？）。
 

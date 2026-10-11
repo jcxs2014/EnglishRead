@@ -50,7 +50,7 @@ modified: "2026-10-10"
 
 **关键词：** one exception · meet him
 
-**为什么这样写：** 悬念两句：exception（例外，唯一）配 meet him（见他，今天）——"nobody gets in or out"（无人进出，前句）＋"except him"（除了他）＝Above 法官（判语＋例外＝身份）。而"two fingers off my right hand to get a close look"（砍两指换近看）配"no sigworker in the Heap could replicate that, not in a thousand years"（Heap 千年仿不出）——"tiny…pinky nail"（指甲盖大）配"rings…gemstones shine from within"（戒指＋内发光宝石）配"construct…almost unnoticeable"（机关几不可见）——微雕即 Above 科技，科技即"fugue state"（备战四天如梦）＋"everything I need appears as if by magic"（要啥有啥，梦），梦即 workshop（Tranto 家作坊，作坊即"mouth water"，流口水）。
+**为什么这样写：** 悬念两句：exception（例外，唯一）配 meet him（见他，今天）——"nobody gets in or out"（无人进出，前句）＋"except him"（除了他）＝Above 法官（判语＋例外＝身份）。而"two fingers off my right hand to get a close look"（砍两指换近看）配"no sigworker in the Heap could replicate that, not in a thousand years"（Heap 千年仿不出）——"tiny…pinky nail"（指甲盖大）配"rings…gemstones that shine from within"（戒指＋内发光宝石）配"construct…almost unnoticeable"（机关几不可见）——微雕即 Above 科技，科技即"fugue state"（备战四天如梦）＋"everything I need appears as if by magic"（要啥有啥，梦），梦即 workshop（Tranto 家作坊，作坊即"mouth water"，流口水）。
 
 **读者视角提示：** "exception/meet him"是赛前最大的钩子（Above 活人）。"two fingers"（两指）是 Taj 的垂涎计量；读到法官，先看制服（白＋蓝边＋银绣＋微 sigil），制服即科技树，树即"Heap 千年追不上"，追不上即"更要打"（打即偷师，师即 Star 的 Mark 7？）。
 
@@ -72,7 +72,7 @@ modified: "2026-10-10"
 
 **为什么这样写：** 赞助揭秘："That's Devon Dreikin with him"（那胖子是 Devon Dreikin，辫子＋宝石戒指）配 must be his sponsors（肯定是赞助人）——"always hated Father"（老恨我爹）配"pulling Gestian's strings?"（提线人？）配"don't think he has the balls for an actual assassination"（他没胆真杀人，Ky 判）——没胆即"赞助 Quech 杀人"（借刀），借刀即"Dreikins…his sponsors"（钱＋刀，组合）。而"tiger…catlike pose…green hair…cocky stance"（老虎＋绿发 girl，存档）——存档即"other contestants"（其他对手），手即"bell chimes"（钟响，开幕，下一段）。
 
-**读者视角提示：** "Dreikins sponsors Quech"（钱＋刀）是 Ascent 的派系图第一笔。Devon（胖＋辫＋戒指）＋Quech（蛇）＝"复仇对象预备"；读到赞助，先看钱（谁出），钱即立场（Dreikin 出钱＝Dreikin 要 Ky 死，死即"win or die"ch13）。
+**读者视角提示：** "Dreikins must be his sponsors"（钱＋刀）是 Ascent 的派系图第一笔。Devon（胖＋辫＋戒指）＋Quech（蛇）＝"复仇对象预备"；读到赞助，先看钱（谁出），钱即立场（Dreikin 出钱＝Dreikin 要 Ky 死，死即"win or die"ch13）。
 
 > **原句 7:** "“In the name of the Keter Apex, I declare this Ascent begun,”"
 
@@ -90,7 +90,7 @@ modified: "2026-10-10"
 
 **关键词：** master unable · judged disabled
 
-**为什么这样写：** 规则杀招：master unable（主人不行）配 runic disabled（机判负，连坐）——"yield verbally…removed"（口头认输下场）是活路，活路即"保主人"（人是弱点）。而"Combatants may yield"（可认输）是仁慈，仁慈即"bring glory"（荣耀，口号）配"white uniform…bored"（白制服＋无聊，法官连装都懒得装）——无聊即" stifling a yawn"（哈欠），欠即"top eight scorers proceed"（八强晋级），级即"each runic disabled…one point"（一机一分），分即混战（free-for-all，下一章： 进场，混战，拿分，保命）。
+**为什么这样写：** 规则杀招：master unable（主人不行）配 runic disabled（机判负，连坐）——"yield verbally…removed"（口头认输下场）是活路，活路即"保主人"（人是弱点）。而"Combatants may yield"（可认输）是仁慈，仁慈即"bring glory"（荣耀，口号）配"white uniform…bored"（白制服＋无聊，法官连装都懒得装）——无聊即" stifling a yawn"（哈欠），欠即"top eight scorers will proceed to the next round"（八强晋级），级即"each runic disabled…one point"（一机一分），分即混战（free-for-all，下一章： 进场，混战，拿分，保命）。
 
 **读者视角提示：** "master unable＝disabled"是 Ascent 的人质条款（打机先打人）。Taj 无甲下场（主人不许武装 ch27）即活靶；读到条款，先看 Ky 的令（"use as few tricks"＋"make it to next round"，藏＋进），令即"保命进八强"，进即下一章混战（Star 开无双，Taj 躲猫猫）。
 

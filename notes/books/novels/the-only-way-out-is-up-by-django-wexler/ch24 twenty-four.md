@@ -40,7 +40,7 @@ modified: "2026-10-10"
 
 **关键词：** blow out · bonfire
 
-**为什么这样写：** fire 比喻的终极版：candle（蜡烛，小）→ dry tinder（干柴，团伙作案）→ bonfire（篝火，Rotwurm）——"blow lightly…flare back up"（轻吹复燃）配"blow hard…go out"（猛吹熄灭）配"break them…lose cohesion"（打散即杀）——"older…bigger"（越老越大）配"concrete the size of a house"（房子大水泥块砸不死）配"don't even know if it can be killed"（不知能不能杀）——bonfire 即"别试"，别试即 Ky 的"Hmm…output a whole bunch of power all at once"（要一次大功率，Ky 接），接即"Bug Zapper wouldn't be enough"（不够，Taj）配"weapon against Gestian?"（Gestian 那招呢，Ky）——问即转折，转折即 BLAST（下一段）。
+**为什么这样写：** fire 比喻的终极版：candle（蜡烛，小）→ dry tinder（干柴，团伙作案）→ bonfire（篝火，Rotwurm）——"blow lightly…flare back up"（轻吹复燃）配"blow hard…go out"（猛吹熄灭）配"break them…lose cohesion"（打散即杀）——"older…bigger"（越老越大）配"concrete the size of a house"（房子大水泥块砸不死）配"don't even know if it can be killed"（不知能不能杀）——bonfire 即"别试"，别试即 Ky 的"Hmm…output a whole bunch of power all at once"（要一次大功率，Ky 接），接即"Bug Zapper wouldn't be enough"（不够，Taj）配"weapon you used against Gestian?"（Gestian 那招呢，Ky）——问即转折，转折即 BLAST（下一段）。
 
 **读者视角提示：** "bonfire"是 Rotwurm 的代号（不可吹）。"power all at once"（一次大功率）是解法；读到 bonfire，先看武器（BLAST 行吗），行即下一章测试（小 Twisted 先试）。
 
@@ -90,7 +90,7 @@ modified: "2026-10-10"
 
 **关键词：** dying at forty · starving at fifteen · thirteen · ten
 
-**为什么这样写：** Heap 的算术：forty（四十，累死）配 fifteen/thirteen/ten（十五、十三、十，饿死，年龄递减）——"volunteer"（自愿进厂，Ky 问：又没人绑）配"starving"（饿，Taj 答）——自愿即"饿死与累死二选一"，二选一即"better"（累死更好）。而"Fara…piecework…whoring…sigwork…stay away"（Fara 三活：零工、卖身、符文，最躲的是符文）配"promise none of us would go near it"（发誓全家不碰）——誓言即家规，家规即"carving a handful…hurt you"（Ky：刻几个伤不着吧）配"never figured on making it to forty anyway"（Taj：干我这行活不到四十）——活不到即"不亏"，不亏即开刻（刀起，BLAST 命名，下一段）。
+**为什么这样写：** Heap 的算术：forty（四十，累死）配 fifteen/thirteen/ten（十五、十三、十，饿死，年龄递减）——"volunteer"（自愿进厂，Ky 问：又没人绑）配"starving"（饿，Taj 答）——自愿即"饿死与累死二选一"，二选一即"better"（累死更好）。而"Fara…piecework…whoring…sigwork…stay away"（Fara 三活：零工、卖身、符文，最躲的是符文）配"promise that none of us would go near it"（发誓全家不碰）——誓言即家规，家规即"carving a handful…hurt you"（Ky：刻几个伤不着吧）配"never figured on making it to forty anyway"（Taj：干我这行活不到四十）——活不到即"不亏"，不亏即开刻（刀起，BLAST 命名，下一段）。
 
 **读者视角提示：** "forty vs fifteen"是 Heap 的生死汇率（累死四十＞饿死十五）。Fara 的"stay away"即 Taj 的"carve anyway"（誓言为家人破，破即"burning lifespan"，烧命）；读到年龄，先算账：四十（厂）vs 十五（饿），账即"都行，反正我选饿不死人的那条"。
 

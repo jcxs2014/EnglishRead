@@ -70,7 +70,7 @@ modified: "2026-10-10"
 
 **关键词：** nothing · occurred
 
-**为什么这样写：** Hod pass 的威力演示：Arbiter 从"Pass. Now."（证件，拿来）到"Of…nothing"（没什么，省略号是膝盖），只隔一个小皮夹。"handing back with both hands like an obsequious servant"（双手奉还，像卑躬的仆人）配"remains bent low"（一直弯着腰）——权力的体位学：站直的是 Ky（"beckons imperiously"，傲慢招手），弯腰的是执法者。而"This never happened. We were never here."（没发生过，我们没来过）配"Tell no one of what?"（不说什么？）——封口套餐：贿赂（stripes）管嘴，pass 管腿，双保险。
+**为什么这样写：** Hod pass 的威力演示：Arbiter 从"Pass. Now."（证件，拿来）到"Of…nothing"（没什么，省略号是膝盖），只隔一个小皮夹。"handing Ky's folder back with both hands like an obsequious servant"（双手奉还，像卑躬的仆人）配"remains bent low"（一直弯着腰）——权力的体位学：站直的是 Ky（"beckons imperiously"，傲慢招手），弯腰的是执法者。而"This never happened. We were never here."（没发生过，我们没来过）配"Tell no one of what?"（不说什么？）——封口套餐：贿赂（stripes）管嘴，pass 管腿，双保险。
 
 **读者视角提示：** Hod pass 是 Ky 的作弊器（后文还会用）。读到 pass 先看三件套：证件（pass）＋钱（stripes）＋话术（never happened）；缺一件就过不了关，本章三件齐了。
 

@@ -7,7 +7,7 @@ modified: "2026-10-10"
 
 ## 本章导航
 
-- **一句话概括**：Hod 登陆：假天堂（"impressed and disappointed"、fake 全套、"duplicate of unseen world"）；马车 runic（"points to the horse and then to her ear"、沉默之旅）；Tranto 宅（Bradley、"Master Taj"、bath＋meal）；"chasm"对话（"stab in the back"、dinner invitations）；换装（"androgynous…attractive"、"runic master"）；Above 贸易课（mash 来自 Above、sigils/scrap 换、workhouse 烧命、Council＝十二大户）；workshop＋Nurow 注册（"Taj Fara"、二十岁、"unfinished"）；规则暴击（masters 下场、"Hardly anyone dies…Probably"）。
+- **一句话概括**：Hod 登陆：假天堂（"impressed and disappointed"、fake 全套、"elaborate duplicate of a world they've never even seen"）；马车 runic（"points to the horse and then to her ear"、沉默之旅）；Tranto 宅（Bradley、"Master Taj"、bath＋meal）；"chasm"对话（"stab in the back"、dinner invitations）；换装（"androgynous…attractive"、"runic master"）；Above 贸易课（mash 来自 Above、sigils/scrap 换、workhouse 烧命、Council＝十二大户）；workshop＋Nurow 注册（"Taj Fara"、二十岁、"unfinished"）；规则暴击（masters 下场、"Hardly anyone dies…Probably"）。
 - **情感弧线位置**：从"土包子"到"登记在册"：bath（"exquisite agony"＋"could get used to"）→meal（"pig of myself"）→clothes（"hide…stiffenings"）→name（"Taj Fara"现编）——"distance…yawns like a chasm"（Malkuth 的亲近 vs Hod 的鸿沟）配"cheerful mask slips back"（Ky 到家即戴面具），面具即"Ritual. For show"（仪式＋表演）。
 - **人物弧线**：Bradley（"grew up with father""raised me"、晚宴＋浴室总管、"utmost"）；Nurow（"pinch-faced""spectacles""clipboard"、"boy"＋"compelled by threats"、"sighs"）；Ky（"shark-like smile"、"Starshit"、"Probably"、"androgynous"被看）；Star（"treasure trove"、"bonk Ky…run for it"、"[?] interrogative eyebrow"、"understands me"实锤）。
 - **叙事手法**：登陆四段式（风景—马车—宅—注册）；"fake"排比（sky/landscape/stream/wall，全假）vs"accept"（Heap 认命，真即接受）；贸易课（mash 上下＋sigil 上下，循环"Round and round"）；以"Probably"收束（"You'll be fine!…Probably."——保证＋撤回，撤回即四天备战，下一章开工 Mark 6 完全体）。
@@ -30,7 +30,7 @@ modified: "2026-10-10"
 
 **关键词：** accept · elaborate duplicate · never even seen
 
-**为什么这样写：** 假天堂檄文：accept（接受，Heap 美德）配 elaborate duplicate（精心复刻，Hod 病）配 never even seen（见都没见过，病因）——"Fake sky…Fake landscape…Fake stream…painted inner wall"（假天假地假水假墙，四假）——"extravagant waste of water"（溪是浪费水的奢侈）配"calls attention to…illusion"（越描越黑，假声明即自首）。而"designed by the same master artist"（同一大师设计）——大师即"Which of course it was"（当然，Ky 家这种宅子也是"设计"出来的），设计即"Ritual. For show"（仪式＋表演，下一段）。
+**为什么这样写：** 假天堂檄文：accept（接受，Heap 美德）配 elaborate duplicate（精心复刻，Hod 病）配 never even seen（见都没见过，病因）——"Fake sky…Fake landscape…Fake stream…painted inner wall"（假天假地假水假墙，四假）——"extravagant waste of water"（溪是浪费水的奢侈）配"calls attention to…illusion"（越描越黑，假声明即自首）。而"designed by the hand of the same master artist"（同一大师设计）——大师即"Which of course it was"（当然，Ky 家这种宅子也是"设计"出来的），设计即"Ritual. For show"（仪式＋表演，下一段）。
 
 **读者视角提示：** "accept vs duplicate"是 Heap/Hod 的世界观对撞（认命 vs 造梦）。"never even seen"（没见过）即 Hod 的原罪：复刻地面，没去过地面；读到 fake，先数（几样），数完即"illusion"（幻觉），幻觉即 Ky 的"complicated look"（复杂脸，想家＋恶心并存）。
 
@@ -40,7 +40,7 @@ modified: "2026-10-10"
 
 **关键词：** just as awful · pretend · stab in the back
 
-**为什么这样写：** Ky 的 Hod 社会学：just as awful（一样烂，去魅）配 smile and pretend…ever so nice（微笑装好，仪式）配 stab in the back（捅刀，实质）——"It's all just…Ritual. For show."（全是仪式＋表演）是总纲。而"Are we likely to get stabbed here?"（Taj：会被捅吗）配"trust Bradley…everyone's watching…too obvious"（Ky：Bradley 可信＋众目睽睽＋太明显）——"not the way things are done on Hod"（Hod 不兴明杀）配"dinner invitations a meter thick"（请柬一米厚）——不明杀，明请（请柬即鸿门宴，宴即下一章的社交战？不，先 Ascent，宴靠边）。
+**为什么这样写：** Ky 的 Hod 社会学：just as awful（一样烂，去魅）配 smile and pretend…ever so nice（微笑装好，仪式）配 stab in the back（捅刀，实质）——"It's all just…Ritual. For show."（全是仪式＋表演）是总纲。而"Are we likely to get stabbed in the back here?"（Taj：会被捅吗）配"trust Bradley…everyone's watching…too obvious"（Ky：Bradley 可信＋众目睽睽＋太明显）——"not the way things are done on Hod"（Hod 不兴明杀）配"dinner invitations a meter thick"（请柬一米厚）——不明杀，明请（请柬即鸿门宴，宴即下一章的社交战？不，先 Ascent，宴靠边）。
 
 **读者视角提示：** "smile＋stab"是 Hod 的社交货币（笑即刀鞘）。"meter thick"（一米厚）是 Ky 回归的热度；读到请柬，先看时间（"We don't have time"，Ascent 优先），优先即"register…Star into shape…four days"（注册＋整备，四天）。
 
@@ -60,7 +60,7 @@ modified: "2026-10-10"
 
 **关键词：** send back · Sigils and scrap · sort of trade
 
-**为什么这样写：** 循环的另一半：send back（回送）配 Sigils and scrap（sigil＋废料，Heap 的血与骨）配 sort of trade（算交易，"sort of"即 Ky 自己也不确信）——"Each Hod families owns…production…operations"（每家包段，Tranto 家也有份）配"product goes Above…share comes down…sell on…pay sigworkers"（上去＋下来＋卖＋发工资）——"twelve families with largest holdings make up the Council"（十二大户即 Council）——Council 即"持股会"，持股即"never questioned"（家学，没想过），没想过即"learned in childhood"（童年背的），背的即"air"（空气，空气即下一句 Taj 的"What does Above want with our sigils"）。
+**为什么这样写：** 循环的另一半：send back（回送）配 Sigils and scrap（sigil＋废料，Heap 的血与骨）配 sort of trade（算交易，"sort of"即 Ky 自己也不确信）——"Each Hod families owns…production…operations"（每家包段，Tranto 家也有份）配"product goes Above…share comes down…sell on…pay sigworkers"（上去＋下来＋卖＋发工资）——"twelve families with the largest holdings make up the Council"（十二大户即 Council）——Council 即"持股会"，持股即"never questioned"（家学，没想过），没想过即"learned in childhood"（童年背的），背的即"air"（空气，空气即下一句 Taj 的"What does Above even want with our sigils and scrap?"）。
 
 **读者视角提示：** "sort of trade"是 Above 贸易的官方口径（sort of＝没人真懂）。"burning their lives out"（烧命，Heapers 刻红 sigil）＋"tangled steel"（拾荒钢）＝奢侈品的原料；读到 trade，先算（谁赚：Above 吃 sigil，下界吃 mash），赚即"pathetic red sigils"（可怜的红 sigil，Taj 自卑），自卑即"ask the judge"（问法官，伏笔）。
 
@@ -90,7 +90,7 @@ modified: "2026-10-10"
 
 **关键词：** masters · alongside · runics
 
-**为什么这样写：** 规则暴击：masters…alongside runics（人机同场）——"a little different from Malkuth"（跟 Malkuth 有点不同，Ky 轻描淡写）配"just a formality…dishonorable…aren't even allowed to be armed"（就一形式、打主人不光彩、主人不许带武器，三连安抚）配"warrior's risk"（武者风险，包装）——"When were you going to tell me this?"（打算啥时告诉我，Taj）配"soon…avoid making a big deal"（就快了，不想小题大做，Ky）配"Hardly anyone actually dies…Probably"（几乎不死人……大概吧，保证＋撤回）——"eyebrows go up…waves hands wildly…big smile"（挑眉＋挥手＋大笑，Ky 三件套哄人），哄即"four days"（四天，备战），备战即"Star into shape"（整备，下一章）。
+**为什么这样写：** 规则暴击：masters…alongside runics（人机同场）——"a little different from the ones in Malkuth"（跟 Malkuth 有点不同，Ky 轻描淡写）配"just a formality…dishonorable…aren't even allowed to be armed"（就一形式、打主人不光彩、主人不许带武器，三连安抚）配"warrior's risk"（武者风险，包装）——"When were you going to tell me this?"（打算啥时告诉我，Taj）配"soon…avoid making a big deal"（就快了，不想小题大做，Ky）配"Hardly anyone actually dies…Probably"（几乎不死人……大概吧，保证＋撤回）——"eyebrows go up…waves hands wildly…big smile"（挑眉＋挥手＋大笑，Ky 三件套哄人），哄即"four days"（四天，备战），备战即"Star into shape"（整备，下一章）。
 
 **读者视角提示：** "masters alongside"是 Ascent 的核心规则（人下场，命悬线）。"unarmed"（无武装）＋"dishonorable"（打人不光彩）是安全阀；读到规则，先看 Nurow 的警告（"life on the line…compelled by threats"，命＋胁迫），警告即"compelled?"（被迫吗），答"I'm doing this for me"（为我自己＋Somi＋Spike＋Ky，四份，份份是命）。
 

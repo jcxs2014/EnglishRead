@@ -82,7 +82,7 @@ modified: "2026-10-10"
 
 **为什么这样写：** Somi 模仿秀：单引号里的"I'll take care of it"（包在我身上，Taj 的口头禅）配"tough-guy face"（硬汉脸）配"constipated"（便秘脸）——三连把姐姐的"可靠"翻译成"憋"。内层单引号是戏中戏（他演她），"spot-on, unfortunately"（不幸的是惟妙惟肖）是观众认证。而"Then you'd charge off…and maybe get yourself killed"（然后你就冲出去送死）——模仿的下半是预言，Somi 瞒报的全部理由：不是不信她，是太信她的送死效率。
 
-**读者视角提示：** 这是 Somi 瞒报案的结案陈词：瞒＝怕她去送死。后文两人和解的钥匙在此（"I could have done something"对"You'd get yourself killed"）；读到模仿秀别只笑，笑完找预言。
+**读者视角提示：** 这是 Somi 瞒报案的结案陈词：瞒＝怕她去送死。后文两人和解的钥匙在此（"I could have done something"（Somi）对"Anger gets you killed"（Taj 判语））；读到模仿秀别只笑，笑完找预言。
 
 > **原句 8:** "“Why is that so fucking hard?”"
 

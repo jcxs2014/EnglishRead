@@ -50,7 +50,7 @@ modified: "2026-10-10"
 
 **关键词：** Analysis · three centuries ago
 
-**为什么这样写：** Heap 年龄案的判词：Asshole 加料快于拾荒消耗（"adds junk faster than scavengers break it down"）→ 填满是迟早 → 有终必有始（"must have had a beginning"）→ 三百年（not more than，上限）。"I pause, fascinated in spite of myself"（不由入迷）配"Three centuries might as well be forever"（三百年跟永恒没差，Taj 式实用主义）——哲学在她只值三秒，饭和命才是硬通货。而"[Precision: long after you are dead.]"（精确：你死后很久）——Precision 标签即补刀：永恒没差，但"你先死"，机器人式安慰。
+**为什么这样写：** Heap 年龄案的判词：Asshole 加料快于拾荒消耗（"adds junk faster than the scavengers break it down"）→ 填满是迟早 → 有终必有始（"must have had a beginning"）→ 三百年（not more than，上限）。"I pause, fascinated in spite of myself"（不由入迷）配"Three centuries might as well be forever"（三百年跟永恒没差，Taj 式实用主义）——哲学在她只值三秒，饭和命才是硬通货。而"[Precision: long after you are dead.]"（精确：你死后很久）——Precision 标签即补刀：永恒没差，但"你先死"，机器人式安慰。
 
 **读者视角提示：** "three centuries"是 Heap 的年龄（年轻、会满、Above 造的？）。后文凡是"起源"（Above/Heap/人类），起点都在这场夜话；读到数字先记：300 年＝Heap 的出生证，出生证即阴谋论（谁造的？为什么？）。
 
@@ -60,7 +60,7 @@ modified: "2026-10-10"
 
 **关键词：** Precision · long after · dead
 
-**为什么这样写：** Star 式安慰的巅峰：Precision（精确，标签即手术刀）配 long after you are dead（你死后很久，精确的残忍）——"The Heap will keep going long after we're dead"（Heap 比我们长寿，Taj 的"we"）被纠正成"you"（你，单数）——"we"变"你"，共同体除名，永生者对 mortal 的精确打击。而"not sure if he's joking"（不知是不是玩笑）配"no proper expression to read"（没表情可读）——读不懂脸，就读不懂心，Taj 第一次直面"他不是人"的时差。
+**为什么这样写：** Star 式安慰的巅峰：Precision（精确，标签即手术刀）配 long after you are dead（你死后很久，精确的残忍）——"The Heap will keep going long after we're dead"（Heap 比我们长寿，Taj 的"we"）被纠正成"you"（你，单数）——"we"变"你"，共同体除名，永生者对 mortal 的精确打击。而"not sure if he's joking"（不知是不是玩笑）配"doesn't have a proper expression to read"（没表情可读）——读不懂脸，就读不懂心，Taj 第一次直面"他不是人"的时差。
 
 **读者视角提示：** "you vs we"是 Star 的物种时差（他不死，她会死）。后文凡是"永远/以后"，先看主语：we＝哄她，you＝事实。读到 Precision 先备纸巾：精确即残忍，残忍即深情（深藏版）。
 

@@ -70,7 +70,7 @@ modified: "2026-10-10"
 
 **关键词：** Still · prodigy
 
-**为什么这样写：** Mark 4 验收：dangerous（危险）→ Sleek（光滑）→ plain（素，待改进）→ "built from scratch? Sigils up?"（从零造的？符文起？）→ prodigy（天才，结论）。"I try to imagine buying components…like groceries"（买零件像买菜，Heap 人无法想象）配"Sounds like you wouldn't get to know the design"（那你就不懂设计了）——手搓 vs 组装，匠人 vs 消费者，Taj 式鄙视链。而"brief but radiant grin…kindles warm feeling"（短暂灿烂一笑，胸口一暖）——验收员的笑即工资，工资即心动（"warm feeling"存档，后文支取）。
+**为什么这样写：** Mark 4 验收：dangerous（危险）→ Sleek（光滑）→ plain（素，待改进）→ "built from scratch? Sigils up?"（从零造的？符文起？）→ prodigy（天才，结论）。"I try to imagine buying whole runic components in a store…like they were groceries"（买零件像买菜，Heap 人无法想象）配"Sounds like you wouldn't really get to know the design that way"（那你就不懂设计了）——手搓 vs 组装，匠人 vs 消费者，Taj 式鄙视链。而"brief but radiant grin…kindles warm feeling"（短暂灿烂一笑，胸口一暖）——验收员的笑即工资，工资即心动（"warm feeling"存档，后文支取）。
 
 **读者视角提示：** "prodigy"是 Ky 给 Taj 的定级（天才，官方认证）。后文凡是"造东西"，先回这一定级：天才＋三天＋橙 sigil＝Mark 4。读到"from scratch"，即匠人签名，签名即身价。
 
