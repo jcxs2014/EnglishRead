@@ -22,6 +22,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "EVELYN HUGO TO PLAY ANNA KARENINA"
 
 **中文理解**："Evelyn Hugo 将出演《安娜·卡列尼娜》。"
@@ -106,19 +107,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 8:** "Everyone has been watching to see what Miss Hugo's next project will be. Anna Karenina is an interesting choice."
-
-**中文理解**：所有人都在看着 Hugo 小姐的下一部作品会是什么。《安娜·卡列尼娜》是个有趣的选择。
-
-**关键词**：Everyone has been watching / an interesting choice
-
-**为什么这样写**：**作者用 "Everyone has been watching"（所有人都在看）写出她此刻的位置——她重新变成了行业注意力的中心。** 而 "an interesting choice"（一个有趣的选择）这个说法**在行业语境里是一种克制的判断**：它不说好，也不说坏，**只说它出乎意料。** 而这份"出乎意料"正是作者要标记的：**一个靠裸露传闻成名的女星，选择去演托尔斯泰的悲剧女主角，这是一个明确的转型声明。**
-
-**读者视角提示**：请把这一句与 ch08 里她主动选择《Little Women》的 Jo（"我知道 Jo 是白人角色"）连读。**Evelyn 的每一次事业跃升都伴随着一次"越界选择"——而作者让她每一次都选择文学经典，从而把她的野心写成了一种对"体面"的持续进攻。**
-
----
-
-> **原句 9:** "One thing's for sure, if Evelyn so much as shows a bare shoulder in the flick, audiences will come running."
+> **原句 8:** "One thing's for sure, if Evelyn so much as shows a bare shoulder in the flick, audiences will come running."
 
 **中文理解**：有一点可以肯定：如果 Evelyn 在那部片里哪怕露一下肩膀，观众都会蜂拥而至。
 
@@ -127,8 +116,6 @@ modified: "2026-10-11"
 **为什么这样写**：**全章最后一句，而它用一句玩笑把整篇行业报道的严肃性拆掉。** "so much as"（哪怕只是）与 "a bare shoulder"（一个裸露的肩膀）构成一次极端的降格：**她演的是《安娜·卡列尼娜》，而报道者只关心她露不露肩膀。** 而 "come running"（跑着来）这个说法把观众写成**被本能驱动的动物**——**作者用它回收了 ch33 那句"我们全都只想被吊着"：行业逻辑与观众逻辑在这里合流。** 而这句话的真正功能是**标记 Evelyn 处境的悖论：她刚刚拿到制作权，而她仍然无法摆脱被当作身体来估值的命运。**
 
 **读者视角提示**：请把这一句与 ch01 那份拍卖礼服清单连读。**本书从第一页就把"身体/衣服"与"价值"绑在一起，而这一句是那条线在本批里最尖锐的一次回响。**
-
----
 
 ## 本章词汇
 

@@ -22,6 +22,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "Because Sub Rosa isn't listening to us anymore."
 
 **中文理解**：因为《Sub Rosa》不再听我们的了。
@@ -34,19 +35,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 2:** "And if you haven't noticed, we aren't making nearly as much money as we used to."
-
-**中文理解**：如果你还没注意到的话，我们赚的钱远远不如以前了。
-
-**关键词**：making nearly as much money
-
-**为什么这样写**：作者用**一句财务现状**给整章危机提供了物质基础——**制片厂付不起封口费，所以 Evelyn 必须自己解决。** 这句话同时也标记了时代转折：旧制片厂制度的衰落正是"新好莱坞"兴起的原因，而 Evelyn 的整个职业生涯都卡在两种制度的交接处。**本书从不把行业变迁写成背景，它总是先写成一个具体的麻烦。**
-
-**读者视角提示**：请把这句话与下一段的"两条平行轨道"（studio game vs. New Hollywood）连读。**Evelyn 后来能成为传奇，正是因为她在这两条轨道之间来回换乘。**
-
----
-
-> **原句 3:** "Every night after shooting, Celia and I would stay late in my trailer and rehearse our scenes."
+> **原句 2:** "Every night after shooting, Celia and I would stay late in my trailer and rehearse our scenes."
 
 **中文理解**：每天拍完戏，Celia 和我都会在我的化妆车里待到很晚，排练我们的戏。
 
@@ -58,7 +47,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 4:** "Celia was Method. She tried to 'become' her character. That wasn't really my speed. But she did teach me how to find moments of emotional truth in false circumstances."
+> **原句 3:** "Celia was Method. She tried to 'become' her character. That wasn't really my speed. But she did teach me how to find moments of emotional truth in false circumstances."
 
 **中文理解**：Celia 是方法派。她试图"成为"她的角色。那不是我习惯的路子。但她确实教会了我如何在虚假的情境里找到真实的情绪瞬间。
 
@@ -70,7 +59,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 5:** "There was the studio game, with studio actors and studio dynasties. And then there was the New Hollywood making its way into the hearts of audiences, Method actors in gritty movies with antiheroes and untidy endings."
+> **原句 4:** "There was the studio game, with studio actors and studio dynasties. And then there was the New Hollywood making its way into the hearts of audiences, Method actors in gritty movies with antiheroes and untidy endings."
 
 **中文理解**：一边是制片厂的游戏，有制片厂演员和制片厂世家。另一边是新好莱坞，正在走进观众心里——方法派演员、粗粝的电影、反英雄、不给圆满结局。
 
@@ -82,19 +71,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 6:** "So as I sat there in Harry's office, pretending to be pissed at both of them for not being very helpful, I knew I was with my two favorite people."
-
-**中文理解**：所以当我坐在 Harry 的办公室里，假装因为帮不上忙而生他们俩的气时，我知道我和我最喜欢的两个人在一起。
-
-**关键词**：my two favorite people
-
-**为什么这样写**：**全书第一次明确写出 Evelyn 的情感归属**——不是丈夫，是 Harry 和 Celia。而作者用"假装生气"（pretending to be pissed）来写她的松弛：**只有在真正安全的人面前，她才会演一场明知会被看穿的戏。** 这一句的位置也极妙——它被放在危机正中间，让读者先知道她拥有什么，再看着她为保住这些东西付出什么代价。
-
-**读者视角提示**：请把"我最喜欢的两个人"与本章结尾她必须利用他们的处境对读。**本章之后，这三个人之间的关系会越来越复杂——而起点就是这一句毫无保留的偏爱。**
-
----
-
-> **原句 7:** "He knew what might happen if Don read it in a bad mood."
+> **原句 5:** "He knew what might happen if Don read it in a bad mood."
 
 **中文理解**：他知道，如果 Don 心情不好地读到这篇东西，会发生什么。
 
@@ -106,19 +83,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 8:** "That little rat," I said when I figured it out. I hit my fist on the arm of the chair.
-
-**中文理解**："那个小耗子，"我想明白之后说。我一拳砸在椅子扶手上。
-
-**关键词**：That little rat / when I figured it out
-
-**为什么这样写**：**全章的侦探高潮，而它由一句回忆触发**——Evelyn 脑中反复回放专栏里的那句"懒得对佣人客气"（She can't be bothered to be kind to the help.），然后"我想明白了"。作者用**一次回忆闪回 + 一个身体动作**（拳砸扶手）来完成推理的呈现，不写内心独白。而"小耗子"（rat）这个骂法带着 1950 年代的口语味，同时也是一个**双关**：rat 在英语里就是"告密者"。
-
-**读者视角提示**：请回看 ch16——Evelyn 在浴室里赶 Paula 出去的那一刻，读者和 Paula 都还不知道后来会发生什么。**本书的因果链极长，但它从不遗漏任何一环。**
-
----
-
-> **原句 9:** "The last thing I needed was America not wanting to see my movies because I wouldn't give Don a baby."
+> **原句 6:** "The last thing I needed was America not wanting to see my movies because I wouldn't give Don a baby."
 
 **中文理解**：我最不需要的，就是美国因为我不肯给 Don 一个孩子而不想看我的电影。
 
@@ -130,7 +95,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 10:** "People don't find it very sympathetic or endearing, a woman who puts herself first. Nor do people respect a man who can't keep his wife in line."
+> **原句 7:** "People don't find it very sympathetic or endearing, a woman who puts herself first. Nor do people respect a man who can't keep his wife in line."
 
 **中文理解**：一个把自己放在第一位的女人，人们不会觉得她值得同情或惹人喜爱。人们也不会尊重一个管不住老婆的男人。
 
@@ -142,19 +107,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 11:** "I'm going to fake a miscarriage."
-
-**中文理解**：我要假装流产。
-
-**关键词**：fake a miscarriage
-
-**为什么这样写**：**全章的中心句，七个词。** 而它最惊人的地方在于：**这不是谎言**——她确实在流产（作者在此才第一次向读者透露真相："尽管这正是我们之间正在发生的事"）。她"伪造"的不是事实，是**知情权**：她要把一件正在私下发生的不幸，变成一个由她选择时机、选择形式、选择证人的公共事件。**这是 Evelyn 全书行为逻辑的最高示范：她从不改变事实，她只改变事实的呈现方式。**
-
-**读者视角提示**：请注意接下来的对话如何把这个方案变成共识：Celia 补上逻辑（"他们就会同情你们俩"），Don 反对（"同情有什么力量？靠同情卖不了电影"），而 Harry 用一句粗话定了案（"你他妈当然可以"）。**这个分工就是本书对这三人组的定义：Evelyn 出方案，Celia 出逻辑，Harry 出背书。**
-
----
-
-> **原句 12:** "Because you might run to the tabloids to tell them about the miscarriage of your employers. But you'll definitely run to the tabloids and tell them about the miscarriage of the people who just fired you."
+> **原句 8:** "Because you might run to the tabloids to tell them about the miscarriage of your employers. But you'll definitely run to the tabloids and tell them about the miscarriage of the people who just fired you."
 
 **中文理解**：因为你可能会跑去小报，讲你雇主的流产。但你**一定**会跑去小报，讲刚刚开除你的人的流产。
 
@@ -163,8 +116,6 @@ modified: "2026-10-11"
 **为什么这样写**：**全书最漂亮的一次人心计算，而它的形式是一组情态动词的对比**：might（可能）对 will definitely（一定会）。Evelyn 不赌 Paula 的忠诚，她赌 Paula 的**怨恨**——**被解雇的人比在职的人更有动机说话**。所以她的设计是：先制造一个丑闻，再解雇唯一知道真相的人，**让报复本身成为传播渠道**。这一段用第二人称"你"来写，把读者也拉进这个冷酷的推演里。
 
 **读者视角提示**：请把这段与 ch02 那句"世界不给东西，你自己拿"连读。**Evelyn 一生都在把别人的动机当成杠杆——这不是残忍，这是她唯一学会的生存技术，而她第一次学会它是在地狱厨房的楼梯间里。**
-
----
 
 ## 本章词汇
 

@@ -22,6 +22,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "LITTLE WOMEN TURNED OUT TO be a carrot dangled in front of me."
 
 **中文理解**：《小妇人》结果只是吊在我眼前的一根胡萝卜。
@@ -46,19 +47,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 3:** "Just standing next to him, I thought I might drown in the self-adoration cascading off him."
-
-**中文理解**：光是站在他旁边，我就觉得自己可能会淹死在他倾泻而下的自我崇拜里。
-
-**关键词**：drown / self-adoration cascading off him
-
-**为什么这样写**：作者用**一个液体隐喻**（drown / cascading）写自恋——不是说他自大，而是说他自大的**量**足以淹没旁边的人。这是全章最刻薄也最生动的一句，为后文 Evelyn 的"礼貌微笑 + 冷话"提供了情绪依据：她不是没有脾气，她是把脾气换成了更好用的东西。
-
-**读者视角提示**：把 Brick Thomas 和后面的 Don Adler 放在一起看——两个人都是明星，但作者给 Brick 的意象是"淹没"，给 Don 的意象是"花"。**同一件事（被男性注视）在本书里永远有两种写法：被占有，或被欣赏。**
-
----
-
-> **原句 4:** "I should have kept quiet. I should have just smiled nicely. But instead, I said, 'Don't hold your breath.'"
+> **原句 3:** "I should have kept quiet. I should have just smiled nicely. But instead, I said, 'Don't hold your breath.'"
 
 **中文理解**：我本该闭嘴。我本该只是礼貌地笑一笑。但我却说："别憋着气等我。"
 
@@ -70,7 +59,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 5:** "But it would do you some good, if you liked one, if things progressed past a photo op or two. The studio would like it. The fans would like it."
+> **原句 4:** "But it would do you some good, if you liked one, if things progressed past a photo op or two. The studio would like it. The fans would like it."
 
 **中文理解**：但如果你真的喜欢上一个，如果事情能进展到超过一两次合影，那对你有好处。片厂会喜欢。粉丝会喜欢。
 
@@ -82,7 +71,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 6:** "But then Harry set me up on a date with Don Adler, and I forgot why I would ever have resented the idea in the first place."
+> **原句 5:** "But then Harry set me up on a date with Don Adler, and I forgot why I would ever have resented the idea in the first place."
 
 **中文理解**：但后来 Harry 安排我和 Don Adler 约会，我就忘了自己当初为什么会抗拒这件事。
 
@@ -94,7 +83,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 7:** "There are people who see a beautiful flower and rush over to pick it. They want to hold it in their hands, they want to own it. They want the flower's beauty to be theirs, to be within their possession, their control."
+> **原句 6:** "There are people who see a beautiful flower and rush over to pick it. They want to hold it in their hands, they want to own it. They want the flower's beauty to be theirs, to be within their possession, their control."
 
 **中文理解**：有些人看到一朵美丽的花就冲过去摘下来。他们想把它捧在手里，想占有它。他们想把这朵花的美据为己有，纳入自己的掌控。
 
@@ -106,19 +95,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 8:** "Here's the thing about marrying a guy like that—a guy like Don Adler, back then. You're saying to him, 'This beautiful thing you've been happy to simply appreciate, well, now it's yours to own.'"
-
-**中文理解**：嫁给那种人——那种当年的 Don Adler——问题的关键在这里。你等于在对他说："这个你一直乐于单纯欣赏的美丽东西，好了，现在它是你的了，归你所有。"
-
-**关键词**：now it's yours to own
-
-**为什么这样写**：紧接上一段的"判决书"。Evelyn 用**第二人称**（You're saying to him）把读者拉进那个决定——不是"她说了"，而是"你说了"。这个"你"让整段话从回忆变成**通用的婚姻警告**。而 "now it's yours to own" 与上段的 "happy to simply appreciate" 直接对撞：**结婚这个动作本身，就是把欣赏者变成所有者**。作者把责任分给了两个人：男人想要，女人答应了。
-
-**读者视角提示**：这段话与全书结尾对婚姻的整体态度直接呼应。留意 Evelyn 从不把责任全推给男人——她反复强调"我是参与交易的一方"，这也是她的骄傲，也是她的负担。
-
----
-
-> **原句 9:** "It's the name. The Adler name. Sunset's trying to squeeze all the fame out of me that they can."
+> **原句 7:** "It's the name. The Adler name. Sunset's trying to squeeze all the fame out of me that they can."
 
 **中文理解**：是这个名字。Adler 这个姓。Sunset 想从我身上榨干所有能榨的名气。
 
@@ -130,7 +107,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 10:** "I've told you when I'm free. You do with it what you will."
+> **原句 8:** "I've told you when I'm free. You do with it what you will."
 
 **中文理解**：我已经告诉你我什么时候有空了。你要怎么做，随你。
 
@@ -139,20 +116,6 @@ modified: "2026-10-11"
 **为什么这样写**：这是本章 Evelyn 最像"后来的 Evelyn"的一句话——**她给出信息，不给出请求**。她刚知道 Don 下周五要陪 Natalie Ember，她没有生气、没有要求，只说了时间和一句"随你"。这句话把选择权和责任一起推给对方，与上一章"世界不给东西，你得去拿"是同一种逻辑：**我不求你选我，但我把门开着**。Don 的反应（"OK, I'll cancel Natalie, then."）证明这招有效。
 
 **读者视角提示**：把这句话与她日后"掌控节奏"的所有表现串起来看——这不是欲擒故纵的技巧，这是她十四岁就学会的**用不索取来换取**。她知道开口要东西的人会输。
-
----
-
-> **原句 11:** "One of the better nights of my life,"
-
-**中文理解**："我一生中最好的夜晚之一，"我说。
-
-**关键词**：One of the better nights
-
-**为什么这样写**：全章以一句**克制的告白**收束——她本可以说"最好的夜晚"，但她说了"最好的之一"（one of the better），这是 Evelyn 式的精确与自保。作者紧接着用最后一句旁白（次日的 Sub Rosa 照片与配文）把这句告白变成了一条**新闻**：**私人的幸福在第二天就变成了公开的商品**。这一收一放，正是全书对 Evelyn 一生的总结——她的每一个真心时刻，都会被印在杂志上。
-
-**读者视角提示**：注意这句"之一"在七十年后回看时的重量：她有过七个丈夫、一段终身的秘密爱情，而这一晚只是"之一"。这句话既是当时的真心，也是回忆时的判词。
-
----
 
 ## 本章词汇
 

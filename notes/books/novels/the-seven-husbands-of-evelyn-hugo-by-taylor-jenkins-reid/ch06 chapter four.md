@@ -22,6 +22,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "I think my only option is to pretend everything is going according to plan. My only plan is to lie."
 
 **中文理解**：我想我唯一的选择就是假装一切都在按计划进行。我唯一的计划就是撒谎。
@@ -115,20 +116,6 @@ modified: "2026-10-11"
 **为什么这样写**：这是全章最**脆弱**的一段，也是 Evelyn 第一次向 Monique 承认自己的缺陷。注意作者用词的分量：不是"撒谎"（lie）而是"spin the truth"（编织真相，一个新闻/公关术语）；不是"习惯"而是"wiring"（线路，生理化比喻）；最重的是"antithetical to my very survival"——**说真话威胁到她的存活**。这为读者重新定位了 Evelyn：她不是一个操控者，而是一个被操控术救过命、因此再也拆不掉它的人。而"But I'll get there"（但我会做到的）是全章唯一的示弱式承诺。
 
 **读者视角提示**：这句话解开了本章的结构谜题——她为什么在"挚爱是谁"的答案前突然送客？因为她**当场发现说真话太难**。这不是吊读者胃口，是一个角色在读者面前承认自己做不到。
-
----
-
-> **原句 9:** "Instead, what plays in the back of my mind all weekend—from my Friday night in to my Saturday night out and my Sunday morning at the park—isn't How did my marriage fail? but rather Who the hell was Evelyn Hugo in love with?"
-
-**中文理解**：相反，整个周末在我脑海里回放的——从周五晚上宅家，到周六晚上出门，再到周日上午在公园——不是"我的婚姻为什么失败？"，而是"Evelyn Hugo 到底爱的是谁？"
-
-**关键词**：back of my mind / How did my marriage fail / in love with
-
-**为什么这样写**：全章以**注意力的转移**收束，用三个具体的时间点（周五夜、周六夜、周日上午）把"整个周末"写实，再用一对并列的疑问句完成交接：旧问题（我的婚姻）退场，新问题（Evelyn 的爱人）上台。作者的处理是克制的——没有写她"不再痛苦"，只写她的脑子被另一件事占满了。**疗愈不是被解决的，是被替换的**，这是本章对 Monique 内心最准确的一次书写。
-
-**读者视角提示**：注意"there is no coffee table"这个细节在本章第二次出现——她想起没有咖啡桌，才意识到自己**没有立刻想到 David**。作者用一件家具当计时器，标记她的愈合进度。
-
----
 
 ## 本章词汇
 

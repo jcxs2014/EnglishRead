@@ -23,6 +23,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "ARI DROPPED ME FROM ANY productions within Sunset and started offering to loan me out to Columbia."
 
 **中文理解**：Ari 把我从 Sunset 内部的任何制作中除名，并开始把我外借给 Columbia。
@@ -35,19 +36,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 2:** "When the 1960 Academy Awards came around, I was officially persona non grata."
-
-**中文理解**：1960 年奥斯卡到来时，我已经正式成了不受欢迎的人。
-
-**关键词**：persona non grata
-
-**为什么这样写**：**作者用一句拉丁文把"被排斥"写成了一种外交身份。** "persona non grata"（不受欢迎的人）是国际关系术语，**而 Evelyn 用它来描述自己在自己行业里的处境——这个用词的错位本身就是一种自我诊断：她不再是一个演员，她是一个被驱逐的实体。** 而"正式"（officially）这个词说明排斥是有程序的，**不是冷遇，是决定。**
-
-**读者视角提示**：请特别注意本章从未出现 Don 的名字（只在最后一段的行业清单里出现一次）。**作者让施害者缺席，只让他的效果在场——这比任何正面冲突都更能说明权力的运作方式。**
-
----
-
-> **原句 3:** "You just say the word, and I'll come pick you up."
+> **原句 2:** "You just say the word, and I'll come pick you up."
 
 **中文理解**："你说一声，我就来接你。"
 
@@ -59,7 +48,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 4:** "When Celia's hair was wet, she didn't smell like shampoo. She smelled like clay."
+> **原句 3:** "When Celia's hair was wet, she didn't smell like shampoo. She smelled like clay."
 
 **中文理解**：Celia 头发湿的时候，她闻起来不像洗发水。她闻起来像陶土。
 
@@ -71,19 +60,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 5:** "If you are intolerable, let me be the one to tolerate you,"
-
-**中文理解**："如果你是难以忍受的，那就让我来做那个忍受你的人。"
-
-**关键词**：let me be the one to tolerate you
-
-**为什么这样写**：**作者用一次文字游戏完成了一次最温柔的表白。** "intolerable"（难以忍受的）与 "tolerate"（忍受）是同根词——**Celia 用这个词自我贬低（"我是不是很烦人？"），而 Evelyn 把它接过来，反手变成一句承诺：忍受你这件事，由我来做。** 而这句话的结构是**排他的**（"let me be the one"），**这是本书里 Evelyn 最接近"求婚"的一句话。**
-
-**读者视角提示**：请注意这句话之后紧接的动作："然后我吻了她，尝到她唇上的柠檬汁。"**作者让承诺落地在一个味觉细节上——柠檬水是上一段 Celia 为了穿进礼服而喝的东西。本章的每一个细节都在互相咬合。**
-
----
-
-> **原句 6:** "She and I had been taking great pains not to be seen together. It was one thing when we really were just friends, but now that we had something to hide, we had to start hiding it."
+> **原句 4:** "She and I had been taking great pains not to be seen together. It was one thing when we really were just friends, but now that we had something to hide, we had to start hiding it."
 
 **中文理解**：她和我一直费尽心力不被看到在一起。当我们真的只是朋友时，那是一回事；但既然我们有了要藏的东西，我们就得开始藏它了。
 
@@ -95,7 +72,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 7:** "will you still love me?"
+> **原句 5:** "will you still love me?"
 
 **中文理解**："你还会爱我吗？"
 
@@ -107,19 +84,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 8:** "You could be a nobody living in a cardboard box, and I'd still love you,"
-
-**中文理解**："你可以是一个住在纸箱里的无名之辈，我仍然会爱你。"
-
-**关键词**：a nobody living in a cardboard box
-
-**为什么这样写**：**全章的中心句，而它的力量来自极端的假设。** "纸箱里的无名之辈"是一个**刻意的夸张**——Evelyn 用一个最不可能的场景来测试自己的爱的绝对性。**而紧随其后的叙述是全书最重要的一次自我确认："我以前从未说过那句话。我以前从未真的那么想过。"** 作者用**两个"从未"**（never said / never meant）标记这一刻的分量：**这不是一句情话，这是一次能力上的突破。**
-
-**读者视角提示**：请注意这句话与 ch22 那段"亲密就是真相"的定义连读。**在 ch22 她说出真名（Herrera）是第一次交出真相；本章她说出"我仍然会爱你"是第一次交出一份不设条件的承诺。作者把这两件事分在十章之内完成，说明在她身上"坦白"是一个渐进的过程。**
-
----
-
-> **原句 9:** "It's all curated to make the audience at home feel like outsiders, to make you feel like a fly on the wall of a club you aren't good enough to get into."
+> **原句 6:** "It's all curated to make the audience at home feel like outsiders, to make you feel like a fly on the wall of a club you aren't good enough to get into."
 
 **中文理解**：这一切都是被精心编排的，目的是让家里的观众觉得自己是局外人，让你觉得自己是一只趴在墙上偷看一个你不够格进入的俱乐部的苍蝇。
 
@@ -131,7 +96,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 10:** "And then I did something mortifyingly inane. I kissed the television set."
+> **原句 7:** "And then I did something mortifyingly inane. I kissed the television set."
 
 **中文理解**：然后我做了一件令人难堪的蠢事。我亲了电视机。
 
@@ -143,31 +108,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 11:** "I realized I'd chipped my tooth."
-
-**中文理解**：我意识到我磕掉了一颗牙。
-
-**关键词**：chipped my tooth
-
-**为什么这样写**：**全章最荒诞的细节，也是全书最有效的一次"以身体记录爱"。** 作者让爱的证据变成一颗缺角的牙——**具体、难看、不可撤销。** 而 Evelyn 的反应（"但我不在乎。我太高兴了。"）说明**这是她第一次不计算代价。** 而这一笔还有一层结构意义：**它在下一段被 Celia 发现（"你的牙怎么了？"），从而把这场独角的庆祝变成一次两人共享的笑话。**
-
-**读者视角提示**：请注意 Celia 发现它的方式——**"我想只是因为我记住了你的每一寸。"（"I think it's just that I've memorized every inch of you."）** 作者让这次发现不是靠观察，而是靠熟悉——**这颗牙成了她们关系的度量单位。**
-
----
-
-> **原句 12:** "I wanted one myself. And if I had stuck it out with Don a little longer, I could have had one tonight."
-
-**中文理解**：我自己也想要一个。如果我当初跟 Don 再忍久一点，今晚我本可以有一个。
-
-**关键词**：I wanted one myself / if I had stuck it out with Don a little longer
-
-**为什么这样写**：**全章最重要的一次自白，而它出现在最幸福的时刻。** 作者让 Evelyn 在看着爱人的奖杯时承认自己想要——**这一句拆掉了读者可能对她的"超脱"想象。** 而 "stuck it out"（忍到底、硬撑下去）这个短语把一段婚姻写成了一份需要忍受的合同，**而虚拟语气的后半句（"我本可以有一个"）把这份代价算得清清楚楚：一个奥斯卡 = 忍受 Don 更久。** 而作者没有让 Evelyn 后悔——**她只是陈述了价格。**
-
-**读者视角提示**：请把这一句与 ch27 那句"在那四堵墙里，我们毫无羞耻"连读。**本书从不把爱情写成免费的：她的自由是用整个事业换的，而她清楚地知道这笔账。**
-
----
-
-> **原句 13:** "I taught myself how to make meat loaf and iron my own slacks."
+> **原句 8:** "I taught myself how to make meat loaf and iron my own slacks."
 
 **中文理解**：我自学了怎么做肉饼、怎么熨自己的裤子。
 
@@ -176,8 +117,6 @@ modified: "2026-10-11"
 **为什么这样写**：**全章倒数第二段，而它用两件家务事写出了阶级的坠落。** 在 ch22 她说过"我要么请不起人，要么太有钱到有人替我做事，从来没有中间状态"——**本章她终于落进了那个中间状态：自己熨裤子。** 而"自学"（taught myself）这个词说明这不是暂时的困难，是**一种新的生活技能。** 而作者把这份坠落放在一段行业清单之后（"两部片都砸了 / Celia 的爱情片卖光 / Don 演了部热门 / Ruby Reilly 被赞'完美得惊人'"），**让私人生活的收缩与外界的热闹形成最冷的对照。**
 
 **读者视角提示**：请注意这一段之后紧接着就是全章最后一句——"然后我看了《Breathless》。我走出影院，直接回家，打电话给 Harry Cameron，说：'我有个主意。我要去巴黎。'"**作者用一部法国新浪潮电影当作她翻身的引信——而这也解释了下一章的标题：Chapter Twenty-Five 里的 Max Girard 正是新浪潮导演。**
-
----
 
 ## 本章词汇
 

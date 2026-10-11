@@ -23,6 +23,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "When you are rich, parts of your house don't really feel like they are yours."
 
 **中文理解**：当你有钱的时候，你房子里的某些部分其实并不真的像是你的。
@@ -59,19 +60,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 4:** "Everything you have you went out and got for yourself."
-
-**中文理解**：你所拥有的一切，都是你自己出去挣来的。
-
-**关键词**：went out and got for yourself
-
-**为什么这样写**：**这是全书对 Evelyn 最准确的一次赞美，而且它来自唯一有资格说这话的人。** 作者特意先写 Celia 的反应（"她看起来既不同情我，也不因为自己从小拥有而我没有感到不自在"）——**她不施舍、不比较、不道歉，只把事实说出来。** 而 "went out and got" 这三个动词连用，正是 Evelyn 一生方法的浓缩：出去、拿到、归自己。
-
-**读者视角提示**：请把这句与 ch06 那句"世界不给东西，你自己拿"对读。**同一套信条，第一次被另一个人完整地说出口——这就是 Evelyn 为什么会在这一夜交出真名。**
-
----
-
-> **原句 5:** "Herrera. Evelyn Herrera."
+> **原句 4:** "Herrera. Evelyn Herrera."
 
 **中文理解**：Herrera。Evelyn Herrera。
 
@@ -83,7 +72,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 6:** "Because it sounds like a girl who might live next door to you. And I've always wanted to be the kind of girl you feel lucky just to lay your eyes on."
+> **原句 5:** "Because it sounds like a girl who might live next door to you. And I've always wanted to be the kind of girl you feel lucky just to lay your eyes on."
 
 **中文理解**：因为它听起来像一个可能住在你隔壁的女孩。而我一直想成为那种让人觉得自己有幸看她一眼的女孩。
 
@@ -95,7 +84,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 7:** "I thought you were the most gorgeous woman who had ever been created and we should all stop trying."
+> **原句 6:** "I thought you were the most gorgeous woman who had ever been created and we should all stop trying."
 
 **中文理解**：我想你是被创造出来的最美丽的女人，我们都该停止努力了。
 
@@ -107,7 +96,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 8:** "It's hard to say I do or don't love him or to say that I'm with him for one reason over another. I love him, and a lot of the time I hate him."
+> **原句 7:** "It's hard to say I do or don't love him or to say that I'm with him for one reason over another. I love him, and a lot of the time I hate him."
 
 **中文理解**：很难说我是爱他还是不爱他，也很难说我留在他身边是因为哪一个原因。我爱他，而很多时候我恨他。
 
@@ -119,7 +108,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 9:** "When you realize you can tell someone your truth, when you can show yourself to them, when you stand in front of them bare and their response is 'You're safe with me'—that's intimacy."
+> **原句 8:** "When you realize you can tell someone your truth, when you can show yourself to them, when you stand in front of them bare and their response is 'You're safe with me'—that's intimacy."
 
 **中文理解**：当你意识到你可以把真相告诉一个人，当你可以在他们面前展露自己，当你赤身站在他们面前、而他们的回应是"你在我这里是安全的"——那才是亲密。
 
@@ -128,20 +117,6 @@ modified: "2026-10-11"
 **为什么这样写**：**全书的核心定义句，也是本书标题"七个丈夫"真正的反题。** 作者用三个并列的 "when" 从句搭出一个递进：说出来 → 展示出来 → 赤裸地站着，而这一切的完成条件是**对方的一句话**（"你在我这里是安全的"）。**注意这句话的语境**：Celia 说这句原话时正在解开衬衫扣子（"我希望你现在已经知道，你所有的秘密在我这里都是安全的"），而 Evelyn 的回应是"我知道。我确实知道"。**作者把"安全"这个词放在一次真实的脱衣动作旁边，正是为了把性与信任彻底分开。**
 
 **读者视角提示**：请把这句话与 ch13 里 Don 的"我爱你"对读。**本书对爱的判据从不是说了什么，而是你在对方面前能不能不设防——而 Evelyn 一辈子只在两个人面前做到过这一点（Celia 与 Harry）。**
-
----
-
-> **原句 10:** "And by those standards, that moment with Celia was the most intimate one I'd ever had with anyone."
-
-**中文理解**：而按这个标准，和 Celia 的那一刻，是我与任何人之间有过的最亲密的一刻。
-
-**关键词**：by those standards / the most intimate one I'd ever had with anyone
-
-**为什么这样写**：**这句话给出了本章的裁决，也给出了全书的裁决。** "与任何人"（with anyone）这三个字把 Don 彻底排除在外——**她的丈夫从未与她有过亲密**。而作者用"按这个标准"（by those standards）把前一段的定义变成一把尺子，**让读者自己完成比较**，而不是由叙述者下判断。这是本书惯用的手法：**先把定义交给读者，再让事实去撞定义。**
-
-**读者视角提示**：请记住这句话的时间位置——它出现在 Don 推门之前**仅仅几段**。**作者刻意让"最亲密的一刻"与"被撞见的一刻"紧挨着，把这份关系的价值与它的危险写成同一个瞬间。**
-
----
 
 ## 本章词汇
 

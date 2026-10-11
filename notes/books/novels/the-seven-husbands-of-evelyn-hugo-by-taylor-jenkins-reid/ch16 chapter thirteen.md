@@ -22,6 +22,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "THE MORNING WE STARTED REHEARSALS for Little Women, Don woke me up with breakfast in bed. Half a grapefruit and a lit cigarette."
 
 **中文理解**：《Little Women》开排那天早上，Don 用床上早餐把我叫醒。半个葡萄柚和一支点着的烟。
@@ -58,19 +59,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 4:** "Don had pushed me down the stairs nine days before."
-
-**中文理解**：九天前，Don 把我推下了楼梯。
-
-**关键词**：nine days before
-
-**为什么这样写**：**全章最暴力的信息用最短的句子陈述**——七个单词、零形容词、没有情绪词，而且它被放在一段关于"我不爱收拾屋子"的自嘲之后。这种**落差式放置**是本书的核心技法：作者从不给暴力场景配上悲壮的音乐，她把它放进家务琐事的流水账里。而紧接的一句"即使这么多年后我讲起它，我仍觉得需要为他辩护"才是真正的重击——**她连讲述都要先替施暴者开脱**。
-
-**读者视角提示**：注意"九天"这个数字与上一章"结婚两个月后他开始打我"的时间线吻合。**本书的时间标记从来不是文学修辞，是可以核对的事实。**
-
----
-
-> **原句 5:** "And what pissed me off more than anything was that if she was going to sell a story, why wasn't it that one? Why didn't she tell the world that Don Adler was beating his wife? Why, instead, did she come after me?"
+> **原句 4:** "And what pissed me off more than anything was that if she was going to sell a story, why wasn't it that one? Why didn't she tell the world that Don Adler was beating his wife? Why, instead, did she come after me?"
 
 **中文理解**：而最让我火大的是：如果她打算卖故事，为什么不是卖那个故事？她为什么不告诉全世界 Don Adler 在打老婆？为什么她偏偏来搞我？
 
@@ -82,7 +71,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 6:** "You can't tell an actress that a rising tide lifts all boats. It doesn't work that way for us."
+> **原句 5:** "You can't tell an actress that a rising tide lifts all boats. It doesn't work that way for us."
 
 **中文理解**：你不能跟一个女演员说"水涨船高"。对我们来说，事情不是那样运作的。
 
@@ -94,7 +83,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 7:** "She was simplicity perfected."
+> **原句 6:** "She was simplicity perfected."
 
 **中文理解**：她是"简朴"这件事的完美形态。
 
@@ -106,19 +95,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 8:** "But Celia was the sort of beautiful that felt as if you could hold it in your hands, like if you played your cards right, you might just get to marry a girl like Celia St. James."
-
-**中文理解**：但 Celia 是那种让你觉得可以握在手里的美——就像如果你牌打得好，也许真能娶到像 Celia St. James 这样的姑娘。
-
-**关键词**：you could hold it in your hands / played your cards right
-
-**为什么这样写**：全章最暧昧的一句。作者用**"可以握在手里"（hold it in your hands）**来定义一种"可接近的美"，并把它的效果写成一句**婚姻幻想**——而这句话出自一个女人之口，讲述对象也是女人。作者在此完成了全书最重要的一次铺垫：**Evelyn 对 Celia 的第一次凝视，用的就是欲望的语法，只是当时的她还不认识这种语法。**
-
-**读者视角提示**：请注意紧接着那句"Ruby 和我都清楚那种力量叫什么——可接近性（accessibility）"。**Evelyn 把它命名成一种市场优势，从而回避了它真正的名字。**这是她一生的习惯。
-
----
-
-> **原句 9:** "She looked at me. And the way she did it made me feel as if no one had ever really looked at me before. Not even Don."
+> **原句 7:** "She looked at me. And the way she did it made me feel as if no one had ever really looked at me before. Not even Don."
 
 **中文理解**：她看着我。她看我的方式让我觉得，以前从来没有人真正看过我。连 Don 都没有。
 
@@ -130,19 +107,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 10:** "That hurts my feelings," she said.
-
-**中文理解**："那伤了我的感情，"她说。
-
-**关键词**：hurts my feelings
-
-**为什么这样写**：这是全章最有力的一句台词，而它的力量来自**不合时宜的直白**。在好莱坞的社交语法里，被同行当面讽刺应该回敬一句更漂亮的刻薄话；Celia 却说出了一句幼儿园级别的话。**这句话把整个竞争框架拆掉了**——她拒绝玩那个游戏，而 Evelyn 立刻意识到自己失礼了（"I felt a little bit bad."）。作者用一句最软的话，让全章最硬的角色第一次失去立足点。
-
-**读者视角提示**：记住 Celia 这种"直接说出感受"的能力。**全书后半段，正是这项能力一次次逼着 Evelyn 面对自己不愿承认的东西。**
-
----
-
-> **原句 11:** "Celia smiled, and I realized I'd played right into her hands."
+> **原句 8:** "Celia smiled, and I realized I'd played right into her hands."
 
 **中文理解**：Celia 笑了，而我意识到我正中了她的圈套。
 
@@ -151,8 +116,6 @@ modified: "2026-10-11"
 **为什么这样写**：全章最后一句转折——**Evelyn 意识到自己被算计了，而她的反应是开始喜欢对方**。作者用一句赌局习语（played right into her hands）给这场初见定性：Celia 用一个"我太老了"的假谦虚反问（"如果这角色这么好，你怎么不演？"）把 Evelyn 逼进死角，然后笑。**Evelyn 一辈子都在算计别人，这是她第一次被人算计却感到高兴**——因为对方用的正是她最尊重的语言：**智力的语言。**
 
 **读者视角提示**：本章以"我开始喜欢她"结尾，而下一章（ch18）会把这份喜欢推进一步。**全书七位丈夫的故事里，最重要的那个人不是丈夫——这一点从本章起就已经写明。**
-
----
 
 ## 本章词汇
 

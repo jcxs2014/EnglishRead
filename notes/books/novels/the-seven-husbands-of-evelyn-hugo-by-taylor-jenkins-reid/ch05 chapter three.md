@@ -22,6 +22,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "I'm here to see Evelyn Hugo. My name's Monique Grant."
 
 **中文理解**：我来见 Evelyn Hugo。我叫 Monique Grant。
@@ -106,19 +107,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 8:** "All of these things you're so desperate to know, I promise I'll answer them before we're done. But I'm not going to answer them one minute before I want to. I call the shots. That's how this is going to go."
-
-**中文理解**：所有这些你急着想知道的事，我保证在我们结束前都会回答。但我一分钟都不会提前回答。**由我说了算。事情就这么办。**
-
-**关键词**：I call the shots / one minute before I want to
-
-**为什么这样写**：Evelyn 把"不给答案"这件事**正式制度化**了——她承诺最终全说，但时间表由她定。这句是全书阅读体验的**元规则**：读者将不断遇到"她为什么现在不说"的挫败，而这挫败是作者刻意设计的。"I call the shots"（我说了算）是全章最短、最硬的权力宣言，与开头"under false pretenses"首尾呼应——这场采访的规则从头到尾都由她书写。
-
-**读者视角提示**：把这句话抄在心里。接下来 90 章的每一次"她又不说了"，都是这句话的执行，而不是叙事失误。
-
----
-
-> **原句 9:** "I didn't stay in New York and let David go to San Francisco because I like the Statue of Liberty. I did it because I want to climb the ladder as high as I possibly can. I did it because I want my name, the name my father gave me, in big, bold letters one day. This is my chance."
+> **原句 8:** "I didn't stay in New York and let David go to San Francisco because I like the Statue of Liberty. I did it because I want to climb the ladder as high as I possibly can. I did it because I want my name, the name my father gave me, in big, bold letters one day. This is my chance."
 
 **中文理解**：我留在纽约、让 David 一个人去旧金山，不是因为我喜欢自由女神像。我这么做是因为我想爬到尽可能高的地方。是因为我想让我的名字——我父亲给我的名字——有一天印成又大又粗的字。这就是我的机会。
 
@@ -127,8 +116,6 @@ modified: "2026-10-11"
 **为什么这样写**：全章的**情感落点**，也是 Monique 人物弧线第一次真正展开。她终于承认了自己"不肯跟 David 走"的真实理由——不是道德、不是爱情，是**野心**。作者用"the name my father gave me"把她的姓氏（Grant，来自黑人父亲）与上一章 ch02 提到的父亲身份接上：她要的不是名利，是**让一个黑人父亲给她的姓氏被印成大字**。这个动机让 Monique 从"被抛下的可怜人"变成一个有着明确历史自觉的攀登者，也让 ch02 里那段"civility is subservience"的觉悟有了终点。
 
 **读者视角提示**：这是 Monique 与 Evelyn 精神谱系真正的接合点——Evelyn 一生要的是"让世界按我的价钱买我"，Monique 要的是"让我的名字印在最大号字上"。两个女人追逐的是同一种东西：被世界正式承认。
-
----
 
 ## 本章词汇
 

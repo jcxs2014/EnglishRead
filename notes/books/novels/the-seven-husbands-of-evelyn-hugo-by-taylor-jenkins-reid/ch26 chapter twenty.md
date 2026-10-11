@@ -23,6 +23,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "Do you sleep with women?"
 
 **中文理解**："你跟女人睡觉吗？"
@@ -47,19 +48,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 3:** "I liked the feel of her wrist in my hand. I liked the way her perfume permeated the whole tiny room. I leaned forward and kissed her."
-
-**中文理解**：我喜欢她的手腕握在我手里的感觉。我喜欢她的香水充满整个小房间的方式。我凑过去，吻了她。
-
-**关键词**：I liked the feel of her wrist / her perfume permeated the whole tiny room
-
-**为什么这样写**：**作者用两个"I liked"把欲望的觉醒写成感官的清单，而不是情感的宣言。** 手腕、香水——**都是身体的外围，不是核心**；而 Evelyn 的自我认知正是从这里开始的：**她先承认自己喜欢这些具体的感觉，然后才允许自己承认这是什么。** 而"整个小房间"（the whole tiny room）这个细节把洗衣房写成了一个**与外界隔绝的容器**——香水充满它，欲望也充满它。
-
-**读者视角提示**：请注意这一段完全由**短句与感官动词**构成，没有任何分析或犹豫。**作者把 Evelyn 的第一次主动亲吻写成了全章唯一一段没有自我怀疑的时刻——而紧接着的下一段就是大段的自我怀疑。**
-
----
-
-> **原句 4:** "I was a famous woman kissing a famous woman in the house of the biggest studio head in Hollywood, surrounded by producers and stars and probably a good dozen people who ratted to Sub Rosa magazine."
+> **原句 3:** "I was a famous woman kissing a famous woman in the house of the biggest studio head in Hollywood, surrounded by producers and stars and probably a good dozen people who ratted to Sub Rosa magazine."
 
 **中文理解**：我是一个著名女人，在一个著名女人的嘴唇上，在好莱坞最大制片厂老板的房子里，周围全是制片人和明星，还有大概十几个会给《Sub Rosa》杂志告密的人。
 
@@ -71,7 +60,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 5:** "She swelled in all the places Don went flat. She was flat in the places Don swelled."
+> **原句 4:** "She swelled in all the places Don went flat. She was flat in the places Don swelled."
 
 **中文理解**：Don 平的地方，她鼓起来。Don 鼓的地方，她是平的。
 
@@ -83,31 +72,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 6:** "I liked how the glass between us took the edge off his voice, how it muffled it enough to make him sound far away."
-
-**中文理解**：我喜欢我们之间那层玻璃削去了他声音的锋刃，把它闷得足够远。
-
-**关键词**：the glass between us / took the edge off his voice
-
-**为什么这样写**：**作者用一扇车窗完成了 Evelyn 与 Don 关系的最终裁决。** 她第一次掌握了一个开关：**"我喜欢那种能够决定要不要用全音量听他说话的控制感。"** 这句话的力量在于它**不是拒绝，是调音**——她没有关窗骂他，她只是让他变小。**在这本写满暴力的书里，这是一次最安静也最彻底的反击。**
-
-**读者视角提示**：请注意 Don 在车窗外喊的话（"这不是你想的那样"）与 Evelyn 的回应（"我们走"）。**作者让一个惯于施暴的人在车窗外第一次够不到她——物理距离在本章取代了权力距离。**
-
----
-
-> **原句 7:** "Don has always had a penchant for women he's just met," Harry says. "I wasn't sure if you knew. Or if you cared."
-
-**中文理解**："Don 一向对他刚认识的女人有兴趣，"Harry 说。"我不确定你是否知道。或者是否在乎。"
-
-**关键词**：a penchant for women / Or if you cared
-
-**为什么这样写**：**作者用一句轻描淡写的话，把 Harry 这个角色的道德位置彻底交代清楚。** 他知道，他没说——**而他不说的理由不是恶意，是"不确定你在不在乎"。** 这句台词与 Evelyn 的回答（"我不知道。而我在乎。"）构成一次简短的对账：**Evelyn 用一句话收回了自己的知情权。** 而 Harry 随后的道歉（"那样的话，我该告诉你的"）说明他接受这个标准。
-
-**读者视角提示**：请注意这段对话发生在哪里——**在一辆驶离 Beverly Hills 的车里，窗外是修剪整齐的草坪与干净的 sidewalks**。作者用最体面的风景配最不体面的坦白。
-
----
-
-> **原句 8:** "You're Cuban, and you're a power-hungry, calculating bitch," Harry said, smiling at me. "Those secrets aren't so bad."
+> **原句 5:** "You're Cuban, and you're a power-hungry, calculating bitch," Harry said, smiling at me. "Those secrets aren't so bad."
 
 **中文理解**："你是古巴人，而且你是个权力欲极强的、精于算计的婊子，"Harry 笑着对我说。"这些秘密不算什么。"
 
@@ -119,7 +84,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 9:** "I think maybe all of us have at least a little bit of that secret within us. I think I just might have that secret in me, too."
+> **原句 6:** "I think maybe all of us have at least a little bit of that secret within us. I think I just might have that secret in me, too."
 
 **中文理解**：我想也许我们每个人身上都至少有那么一点那个秘密。我想我身上可能也有那个秘密。
 
@@ -131,19 +96,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 10:** "I know what I'm doing, Harry." I was wrong. I didn't know what I was doing.
-
-**中文理解**："我知道我在做什么，Harry。"我错了。我根本不知道我在做什么。
-
-**关键词**：I know what I'm doing / I was wrong
-
-**为什么这样写**：**作者用一句自我否定打断了读者的信任。** 全章大部分时间由年长的 Evelyn 讲述（"我"= 2017 年的叙述者），而这一句突然跳出来**反驳她当年自己的台词**——**这是全书叙述结构最有效的一次使用：讲述者拥有事后视角，而她愿意用它来揭穿自己。** 而"我错了"这三个字是本书少有的直接认错。
-
-**读者视角提示**：请注意这句否定紧接在什么之后——**Evelyn 宣布"我要离开 Don"，Harry 提醒她"Don 不会善罢甘休"，她说"我知道我在做什么"。** 作者让这句错判出现在她最自信的时刻，正是为了说明：**她的所有重大决定都是在这种状态下做出的。**
-
----
-
-> **原句 11:** "Our interests aren't aligned, Evelyn," he said. "Yours and mine. You see that, right?"
+> **原句 7:** "Our interests aren't aligned, Evelyn," he said. "Yours and mine. You see that, right?"
 
 **中文理解**："我们的利益并不一致，Evelyn，"他说。"你的和我的。你明白这一点吧？"
 
@@ -155,7 +108,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 12:** "But that's what denial is for."
+> **原句 8:** "But that's what denial is for."
 
 **中文理解**：但那正是"否认"的用处。
 
@@ -164,20 +117,6 @@ modified: "2026-10-11"
 **为什么这样写**：**作者用一句反格言完成了整夜的收束。** 前一段写的是"你会以为我整晚辗转反侧，担心未来、担心自己吻了一个女人意味着什么、担心是否真该离开 Don"——**然后一句七个词的句子把这一切推翻。** "denial"（否认）在本书里不是心理缺陷，是**一种资源**：它是 Evelyn 能在 1959 年活下来的原因，也是她直到 2017 年才承认 Celia 的原因。**这句话的冷幽默感正是本书的语气：用最轻的说法交代最重的代价。**
 
 **读者视角提示**：请把这句话与下一章开头"我在 Celia 的公寓里躲了一个半星期，在炼狱里"连读。**否认的代价不会消失，它只是延后结算。**
-
----
-
-> **原句 13:** "I knew that very moment that our marriage was over and that the decision—the one I thought was mine to make—had been made for me."
-
-**中文理解**：我在那一刻就知道，我们的婚姻结束了，而那个我以为属于我的决定，已经被别人替我做完了。
-
-**关键词**：the one I thought was mine to make / had been made for me
-
-**为什么这样写**：**全章的核心句，也是本书对"控制"这个主题最锋利的一次处理。** Evelyn 一辈子都在争取主动权（ch06："世界不给东西，你自己拿"），而本章她第一次发现：**她以为自己做出的决定，其实是别人抢先做的。** Don 不在家、不打算争——**"Don 已经在别处了，在我能离开他之前就先离开了我。"** 这个发现比出轨本身更伤人，因为它动摇了她的核心自我认知。
-
-**读者视角提示**：请注意本章的收尾结构——**先给结论（婚姻结束），再给意外（门口站着 Celia）**。作者让"失去"与"得到"在同一个清晨到达，而这正是本书对 Evelyn 一生的压缩：**她每次失去什么，都会立刻得到另一件她其实更想要的东西。**
-
----
 
 ## 本章词汇
 

@@ -22,6 +22,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "On opening night, I thought of my mother. I knew that if she could have been there with me, she would have been beaming. I did it, I wanted to tell her. We're both out of there."
 
 **中文理解**：首映那晚，我想起了我母亲。我知道如果她能和我一起在那里，她一定会笑得满脸放光。我做到了，我想告诉她。我们俩都出去了。
@@ -34,19 +35,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 2:** "I was absolutely smitten, in love and lust for the very first time."
-
-**中文理解**：我彻底沦陷了，第一次同时陷进爱意与欲望里。
-
-**关键词**：smitten / in love and lust for the very first time
-
-**为什么这样写**：作者用**两个并列名词**（love and lust）加一个时间状语（for the very first time）来标记 Evelyn 情感史上的断点。上一段婚姻（Ernie）是交易，这一段她第一次同时要身体与心。而"absolutely"这个副词承担了全部重量——她不是有点喜欢，她是**彻底沦陷**。全书后文会不断回看这句话：第一次真正爱上的那个人，往往也是伤害最深的人。
-
-**读者视角提示**：把"第一次"这个说法记下来。Evelyn 一生的感情时间线就是由若干个"第一次"串成的，而本书的结构正是按这些"第一次"来分章的。
-
----
-
-> **原句 3:** "I would have thrown every single one of them in front of a moving train to get a part. And I think they would have done the same to me."
+> **原句 2:** "I would have thrown every single one of them in front of a moving train to get a part. And I think they would have done the same to me."
 
 **中文理解**：为了拿到一个角色，我会把她们中的每一个人推到行驶的火车前面。而我想她们也会对我做同样的事。
 
@@ -58,7 +47,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 4:** "Intimacy is impossible without trust. And we would have been idiots to trust one another."
+> **原句 3:** "Intimacy is impossible without trust. And we would have been idiots to trust one another."
 
 **中文理解**：没有信任就不可能有亲密。而我们要去信任彼此，就是傻瓜。
 
@@ -70,7 +59,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 5:** "You're not just a one-trick pony."
+> **原句 4:** "You're not just a one-trick pony."
 
 **中文理解**：你不只是一招鲜。
 
@@ -82,19 +71,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 6:** "I'm saying you should be predictable and then do something unpredictable, and they'll love you forever."
-
-**中文理解**：我是说，你应该先可预测，然后再做一件不可预测的事，他们就会永远爱你。
-
-**关键词**：predictable / unpredictable / love you forever
-
-**为什么这样写**：这是全章的**方法论核心**，也是全书对"明星"这一身份最精辟的定义——**爱来自惊喜，而惊喜必须以熟悉为代价**。这句话读起来是事业建议，实际上也是 Evelyn 一生的情感策略：她让人以为自己知道她是谁（七个丈夫、一张美丽的脸），然后在最后交出一个谁也没料到的真相。作者让这句话由 Harry 说出，等于让他在无意间**预言了这本书本身的结构**。
-
-**读者视角提示**：读完这本书再回看这句。Evelyn Hugo 一生对公众做的事，正是"先可预测，再不可预测"——而 Monique 就是那个"不可预测"的执行人。
-
----
-
-> **原句 7:** "Sunset owned me."
+> **原句 5:** "Sunset owned me."
 
 **中文理解**：Sunset 拥有我。
 
@@ -106,19 +83,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 8:** "I don't want to sit here and listen to you talk about how dreamy he is. That's boring. I want to know if the two of you might be ready to make it official."
-
-**中文理解**：我不想坐在这儿听你讲他有多迷人。那很无聊。我想知道你们俩是不是准备把这事定下来了。
-
-**关键词**：dreamy he is / That's boring / make it official
-
-**为什么这样写**：Harry 用 **"That's boring"** 打断 Evelyn 的恋爱话题——这句粗暴的评价正是两人关系的质地：他们之间没有客套。而更值得注意的是他真正关心的问题（"准备好定下来了吗"）——**他在替片厂评估这段恋情能否变现**。作者让一个最善良的角色说出最功利的问句，再一次展示本书的道德结构：**没有人是反派，每个人都在执行规则**。
-
-**读者视角提示**：把 Harry 这段话与后面他"在剧院门口为她鼓掌"连读。**同一个人，既在计算她，也在爱她**——本书拒绝把这两者分开，这正是它的成熟之处。
-
----
-
-> **原句 9:** "I'm not asking you to marry me," he said.
+> **原句 6:** "I'm not asking you to marry me," he said.
 
 **中文理解**："我不是在向你求婚，"他说。
 
@@ -130,7 +95,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 10:** "Here I was, Evelyn Herrera, parading around as if my name was Evelyn Hugo and I could marry a movie star."
+> **原句 7:** "Here I was, Evelyn Herrera, parading around as if my name was Evelyn Hugo and I could marry a movie star."
 
 **中文理解**：看看我，Evelyn Herrera，招摇过市，好像我叫 Evelyn Hugo，好像我能嫁给一个电影明星。
 
@@ -142,19 +107,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 11:** "I was going to get married. To someone I loved this time. To someone who made me feel the way I was pretending to feel in the movies."
-
-**中文理解**：我要结婚了。这一次是嫁给我爱的人。嫁给一个让我真切感受到我在电影里假装感受的东西的人。
-
-**关键词**：To someone I loved this time / the way I was pretending to feel in the movies
-
-**为什么这样写**：作者用**两个 "To someone" 的排比**写幸福，但第二句立刻把电影拉了进来——**她现实中的爱情，被她用"我在银幕上假装的感觉"来定义**。这是全书对 Evelyn 一生最深的讽刺：她的真实与表演早已互相污染，连最私人的幸福也要靠"和电影比"才能说清。而 "this time" 三个字则轻轻带过第一段婚姻，把 Ernie 变成一句脚注。
-
-**读者视角提示**：把这句话与本章开头"我们俩都出去了"并读——她确实走出了地狱厨房，但走进的是一套新的布景。**她逃出的是一个真实的贫民窟，抵达的是一个更漂亮的摄影棚。**
-
----
-
-> **原句 12:** "As Don put me back down, I saw Harry Cameron by the theater door, clapping for us. He gave me a wink."
+> **原句 8:** "As Don put me back down, I saw Harry Cameron by the theater door, clapping for us. He gave me a wink."
 
 **中文理解**：Don 把我放下来时，我看见 Harry Cameron 站在剧院门口为我们鼓掌。他朝我眨了下眼。
 
@@ -163,8 +116,6 @@ modified: "2026-10-11"
 **为什么这样写**：全章以**一个旁观者的动作**收束——不是 Don，不是观众，而是 Harry。作者把求婚的最高潮留给了一个不在画面中心的男人：他鼓掌，他眨眼。这一笔同时完成两件事：**为 Harry 与 Evelyn 的关系埋下全书最重要的一条暗线**（他永远是那个在人群外看她的人），以及为这场"公开表演"留下唯一一个知道真相的观众。而"眨眼"这个动作的亲密程度，恰好越过了普通经纪人的边界。
 
 **读者视角提示**：这是全书最值得标记的一处伏笔。等你读完 Harry 的部分再回来——你会发现作者在他的每一次"鼓掌"和"眨眼"里，都藏了没说出口的东西。
-
----
 
 ## 本章词汇
 

@@ -23,21 +23,8 @@ modified: "2026-10-11"
 
 ## 精读
 
-> **原句 1:** "I WORE A CREAM-COLORED COCKTAIL dress with heavy gold beading and a plunging neckline. I pulled my long blond hair into a high ponytail. I wore diamond earrings."
->
-> "I glowed."
 
-**中文理解**：我穿了一件米色鸡尾酒裙，缀着厚重的金色珠饰，深 V 领口。我把长金发扎成高马尾。我戴了钻石耳环。/ 我容光焕发。
-
-**关键词**：I glowed
-
-**为什么这样写**：**全章的开场，而它由一段纯物质描写与一句两词短句构成。** 作者先给出完整的装束清单（颜色、珠饰、领口、发型、耳环）——**这是本书写 Evelyn 出场时的固定语法：先写她穿什么。** 而随后那句 "I glowed."（我容光焕发）**只有两个词、一个主语，且没有说明原因**——**而读者知道她要去做什么。** 这个反差是本章的基调：**她的身体在发光，而她本人正在执行一份冷冰冰的计划。**
-
-**读者视角提示**：请把这一段与 ch01 那份拍卖礼服清单连读。**本书从第一页就把"衣服"当作她人生的标记系统——而本章这套装束是她为一场骗局选的戏服。**
-
----
-
-> **原句 2:** "THE FIRST THING you need to do to get a man to elope with you is to challenge him to go to Las Vegas."
+> **原句 1:** "THE FIRST THING you need to do to get a man to elope with you is to challenge him to go to Las Vegas."
 
 **中文理解**：要让一个男人跟你私奔，你要做的第一件事是激他去拉斯维加斯。
 
@@ -49,7 +36,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 3:** "You want a scandal."
+> **原句 2:** "You want a scandal."
 >
 > "He wants the world to know he screwed you."
 >
@@ -65,33 +52,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 4:** "You do this because you know where his eyes are going to go. You let him catch you catching him."
-
-**中文理解**：你这么做是因为你知道他的眼睛会往哪儿去。你让他发现你在看他看你。
-
-**关键词**：catch you catching him
-
-**为什么这样写**：**全章最精妙的一个动作设计，而它的结构是一次"三重目光"的嵌套。** "catch you catching him"（撞见你在撞见他）意味着**她故意制造一个被他发现的机会——而她"被发现"这件事本身也是表演。** 作者用这个递归结构写出她技术的核心：**她从不主动，她只创造让他以为自己在主动的条件。** 而这句话与本章后面那句"你不能先提结婚"属于同一套逻辑：**主动权必须看起来在他手里。**
-
-**读者视角提示**：请把这一句与 ch10 里她对付 Don Adler 的方式对读。**作者让 Evelyn 在本书里对不同的男人使用同一套技术（制造条件、等待对方行动），而每一次她都把过程写成一次实验。**
-
----
-
-> **原句 5:** "You let his hand graze your upper thigh, and then you push it away. It is two A.M., and you are tired. You miss the love of your life. You want to go home. You would rather be with her, in bed, hearing the light buzz of her snoring, watching her sleep, than be here. There is nothing about here that you love."
->
-> "Except what being here will afford you."
-
-**中文理解**：你让他把手擦过你的大腿，然后把它推开。现在是凌晨两点，你累了。你想念你一生的爱人。你想回家。你宁愿跟她在一起，在床上，听她轻微的鼾声，看她睡觉，也不想待在这里。这里没有任何你爱的东西。/ 除了待在这里能给你的东西。
-
-**关键词**：You miss the love of your life / There is nothing about here that you love
-
-**为什么这样写**：**全章最痛的转折，而它由"最私密的思念"与"最冷的补充"构成。** 作者先用一串极具体的细节写出她对 Celia 的想念（**"听她轻微的鼾声"是全书对 Celia 最日常、最不浪漫的一次描写——而它比任何情话都亲密**），**然后用"这里没有任何你爱的东西"把整个拉斯维加斯否定掉。** 而紧接着的独立成段的一句（"除了待在这里能给你的东西"）**立刻把这份真诚收回，转成一次计算。** 这个结构是本书最典型的 Evelyn：**她允许自己感受，然后立刻为感受标价。**
-
-**读者视角提示**：请把这一句与本章后面那句"你想象一个世界，你们两个能在周六晚上一起出去吃晚饭，没有人多想一秒"连读。**作者让全书最宏大的野心（国际巨星、制片权、票房分成）最终落在一个最小的愿望上——而这份愿望的实现要靠一场假结婚。**
-
----
-
-> **原句 6:** "You imagine a world where the two of you can go out to dinner together on a Saturday night and no one thinks twice about it. It makes you want to cry, the simplicity of it, the smallness of it. You have worked so hard for a life so grand. And now all you want are the smallest freedoms. The daily peace of loving plainly."
+> **原句 3:** "You imagine a world where the two of you can go out to dinner together on a Saturday night and no one thinks twice about it. It makes you want to cry, the simplicity of it, the smallness of it. You have worked so hard for a life so grand. And now all you want are the smallest freedoms. The daily peace of loving plainly."
 
 **中文理解**：你想象一个世界：你们两个人能在周六晚上一起出去吃晚饭，没有人多想一秒。它的简单、它的微小，让你想哭。你那么努力地换来一个如此宏大的生活。而现在你想要的只是最小的自由。平平常常去爱的日常安宁。
 
@@ -103,31 +64,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 7:** "What he means is that he thinks he can't live without screwing you. And that, you believe."
-
-**中文理解**：他真正的意思是，他觉得自己没法不跟你上床。而这一点，你信。
-
-**关键词**：What he means is / And that, you believe
-
-**为什么这样写**：**全章对 Mick Riva 最锋利的一次翻译，而它的语法是"翻译 + 认证"。** 作者让 Evelyn 把 "I can't live without you"（我没法不跟你在一起）翻译成 "can't live without screwing you"（没法不跟你上床）——**然后加了一句"而这一点，你信"。** 这个补充极为关键：**她不是不相信他的感情，她是准确地相信他的欲望——而她把欲望当成一个可靠的工具。** 而作者让她用 "you believe"（你信）而不是 "you know"（你知道），**保留了一丝她自己的不确定性。**
-
-**读者视角提示**：请把这一句与 ch34 里 Mick 在专栏里说的"我配不上那样的女人"（"I didn't deserve a lady like that"）连读。**同一句台词，他在报纸上说过一次，在本章又要说一次——而 Evelyn 整章都在等它出现。**
-
----
-
-> **原句 8:** "Silence is your best friend."
-
-**中文理解**：沉默是你最好的朋友。
-
-**关键词**：Silence is your best friend
-
-**为什么这样写**：**全章最短的一句方法论，而它揭示了她技术中最核心的部分。** 前一句 Mick 刚说完"我爱你"，**而 Evelyn 的反应是"你什么也不再说"。** 作者用"沉默是你最好的朋友"这个拟人化的说法**把"不说话"写成一种主动技能——而它之所以有效，是因为它迫使对方填补空白。** 而这句话在本章有双重功能：**它既是一条勾引技巧，也是 Evelyn 一生的行事方式（ch05 她说过"什么时候说由我决定"）。**
-
-**读者视角提示**：请把这一句与 ch25 里 Monique 让出主导权的那段（"我用一种让她能说多少就说多少的方式问她"）对读。**作者让"沉默"在两个女人手里都成为权力工具——一个用来勾引，一个用来采访。**
-
----
-
-> **原句 9:** "Let's get married, baby,"
+> **原句 4:** "Let's get married, baby,"
 
 **中文理解**："我们结婚吧，宝贝。"
 
@@ -139,7 +76,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 10:** "There it is."
+> **原句 5:** "There it is."
 >
 > "For you to grab."
 
@@ -153,47 +90,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 11:** "He promises to love you forever."
->
-> "You promise to obey."
-
-**中文理解**：他承诺永远爱你。/ 你承诺服从。
-
-**关键词**：You promise to obey
-
-**为什么这样写**：**全章最尖锐的两行对照，而它的力量全在动词的不对称上。** 他承诺的是情感（"永远爱你"），**她承诺的是服从（"obey"）——而这是传统婚礼誓词里新娘那一半的措辞。** 作者让 Evelyn 用这个词时**不加任何评论**，**而读者知道她此刻正在完成一场骗局、正在为另一个女人出卖自己。** 这个反差把本章的讽刺推到顶点：**在一个假婚礼上，她说出了整本书里最真实的一句服从——而她的服从对象是那个她真正爱的人。**
-
-**读者视角提示**：请把这两句与 ch13 那场三百宾客的世纪婚礼对读。**作者让 Evelyn 的第二次婚礼用两行字带过（第一次用了整章），而这个压缩本身就是判断：这场婚礼是一件工具，不值得展开。**
-
----
-
-> **原句 12:** "You cannot be a good lay. You must disappoint."
->
-> "If he likes it, he'll want to do it again. And you can't do that. You can't do this more than once. It will break your heart."
-
-**中文理解**：你不能在床上表现好。你必须让他失望。/ 如果他喜欢，他就想再来一次。而你不能那样。这件事你不能做第二次。它会伤透你的心。
-
-**关键词**：You must disappoint / It will break your heart
-
-**为什么这样写**：**全章最残忍的一条指令，而它的理由揭示了她真正的处境。** 表面理由是战术的（**一次之后他就该走了**），**而作者让第二层理由暴露出来："这件事你不能做第二次。它会伤透你的心。"** 也就是说：**她能承受一次出卖身体，但她承受不了把它变成重复。** 而 "You must disappoint"（你必须让他失望）这个指令**把一个女人的性表现变成一件可以精确调控的武器——而她调控的方向是"失败"。**
-
-**读者视角提示**：请把这一段与 ch14 里那句"他把我身上的一个开关打开了……从一个把做爱当作工具的女人，变成一个知道做爱是一种需要的女人"（"A switch that changed me from a woman who saw making love as a tool into a woman who knew that making love was a need."）对读。**作者让 Evelyn 的性觉醒（ch14）与性工具化（本章）构成一条完整的弧线——而本章正是这条弧线的终点：她重新把它变回工具，而这次她知道自己在放弃什么。**
-
----
-
-> **原句 13:** "You lie there, stiff as a board underneath him."
-
-**中文理解**：你躺在那里，在他身下，僵得像块木板。
-
-**关键词**：stiff as a board
-
-**为什么这样写**：**全章最短也最沉重的一句，而它用一个英语习语完成了一次身体描写。** "stiff as a board"（僵直如板）**通常用来形容紧张或死亡**——**而作者让它在性爱场景里出现，从而把这场戏写成一次自我献祭。** 而 "underneath him"（在他身下）这个介词结构**明确了权力位置**，**而它与本章后面"他坐着，你躺着"的对比构成呼应：整章的体位就是权力图。**
-
-**读者视角提示**：请把这一句与 ch15 里那些具体的暴力描写对读。**作者在家暴章里用大量细节写身体的痛，而在这里只用一个习语写身体的麻木——两种处理方式的差别本身就是信息：痛可以描述，屈辱只能概括。**
-
----
-
-> **原句 14:** "You want to cry, because you remember what sex used to mean to you, before. Before you realized how good it could feel, before you discovered what you liked."
+> **原句 6:** "You want to cry, because you remember what sex used to mean to you, before. Before you realized how good it could feel, before you discovered what you liked."
 
 **中文理解**：你想哭，因为你记得性对你曾经意味着什么——在从前。在你意识到它可以多好之前，在你发现自己喜欢什么之前。
 
@@ -205,25 +102,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 15:** "He is clean. You have not bathed."
->
-> "He smells like soap. You smell like booze."
->
-> "He is sitting up. You are lying down."
->
-> "This, too, is a calculation."
-
-**中文理解**：他干净。你没洗过澡。/ 他闻起来像肥皂。你闻起来像酒。/ 他坐着。你躺着。/ 这也是计算。
-
-**关键词**：This, too, is a calculation
-
-**为什么这样写**：**全章技术上最精彩的一组句子，而它由三组平行对照与一句收束构成。** 作者用完全对称的句式（"他……／你……"）连写三组差异——清洁、气味、姿态——**而每一组都把 Evelyn 放在更低的位置。** 然后第四句揭穿它：**"这也是计算。"** 这句收束把前面三句从"自我贬低"变成"主动示弱"——**她故意不洗澡、故意躺着，因为她需要他"觉得权力全在他手里"（下一段明说）。** 而这一组句子的真正功能是**让读者意识到：本章里没有任何一件事是自然发生的，包括她的屈辱。**
-
-**读者视角提示**：请把这一段与本章后面那句"他必须觉得权力全是他的"（"He has to feel like the power is all his."）连读。**作者让 Evelyn 在本书里反复用"示弱"作为战术（ch30 里她也用"我一半路都还没走完"来骗自己），而本章是这套战术最极端的一次应用。**
-
----
-
-> **原句 16:** "It's just so unoriginal and laughably transparent, feeding you the same line he fed the papers about his last wife."
+> **原句 7:** "It's just so unoriginal and laughably transparent, feeding you the same line he fed the papers about his last wife."
 
 **中文理解**：这实在太没新意、可笑地一眼看穿——他喂给你的是他喂给报纸的、关于上一任妻子的同一句台词。
 
@@ -235,7 +114,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 17:** "You wonder what it must be like to be a man, to be so confident that the final say is yours."
+> **原句 8:** "You wonder what it must be like to be a man, to be so confident that the final say is yours."
 
 **中文理解**：你想知道做男人是什么感觉——能那么确信最后一句话由你说。
 
@@ -244,38 +123,6 @@ modified: "2026-10-11"
 **为什么这样写**：**全章最有政治性的一句，而它用一句羡慕写出了一整套性别秩序。** "the final say"（最后的发言权、最终决定权）是本章反复出现的主题：**她整晚都在设计条件，但必须等他说出"我们结婚吧"；她整章都在执行计划，但必须等他说出"我们该撤销婚姻"。** 而 "You wonder what it must be like"（你想知道那是什么感觉）**把这个结构性的不平等写成一种她无法体验的想象——她甚至连"想知道"都只能停留在想象里。** 而作者让这句话紧接在他"我不能接受'不'这个答案"（"I'm afraid I can't take no for an answer."）之后，**从而使它成为一句精准的注解。**
 
 **读者视角提示**：请把这一句与 ch39 里那句"没人想理解我们这样的人"对读。**作者让 Evelyn 在本书里对两种压迫都有清醒的命名能力——一种来自性向，一种来自性别——而她从不为任何一种发起正面抗争，她只是绕过去。**
-
----
-
-> **原句 18:** "He likes to reject. He likes to condescend. When he was calculating his moves last night, he was thinking of this moment, too. This moment where he gets to leave you."
->
-> "So you do something you hadn't rehearsed in your mind."
-
-**中文理解**：他喜欢拒绝。他喜欢居高临下。昨晚他盘算自己的步骤时，也在想着这一刻——这一刻他可以离开你。/ 所以你做了一个你事先没有在脑子里排练过的动作。
-
-**关键词**：He likes to reject / something you hadn't rehearsed
-
-**为什么这样写**：**全章的智力对决时刻，而它推翻了她自己的剧本。** 作者让 Evelyn 意识到一件她没算到的事：**Mick 昨晚不只是为了得到她，他也在期待今早这个"抛弃"的环节——因为他需要它。** 而 "you do something you hadn't rehearsed"（你做了一个没排练过的动作）这句**是本章唯一一次她偏离计划**，**而作者让这个偏离是"把电话扔过去"——一个既满足他（被拒绝的快感）又释放她（真实的愤怒）的动作。** 而作者让这个动作同时具备两层功能：**它是战术（让他满意），也是唯一一次真实情绪的出口。**
-
-**读者视角提示**：请把这一段与下一段的解释"你这么做是因为你知道他会喜欢。因为他给了你想要的一切，你也应该给他想要的一切"（"Because he's given you everything you came for. You should give him everything he came for."）连读。**作者让 Evelyn 连"愤怒"都要解释成一次交易——而这份自我解释的彻底性，正是她这个人物最令人心碎的地方。**
-
----
-
-> **原句 19:** "And then he's gone."
->
-> "And you stop."
->
-> "And you think, If only they gave out Oscars for this shit."
-
-**中文理解**：然后他走了。/ 而你停下了。/ 然后你想：要是这玩意儿也发奥斯卡就好了。
-
-**关键词**：And you stop. / If only they gave out Oscars for this shit.
-
-**为什么这样写**：**全章的最后三句，而它们用一个"停"字完成了整章的机关揭晓。** "And then he's gone."（然后他走了）是计划的终点，**"And you stop."（而你停下了）是表演的终点——她哭是因为需要他看见，他一走她就停。** 而最后那句粗话（"要是这玩意儿也发奥斯卡就好了"）**把整章的痛苦一次性收进一个玩笑里：她把这场婚姻、这次上床、这次被抛弃全部重新定义成一场表演，而她的评价标准是"演得好不好"。** 而 "this shit"（这玩意儿）这个说法**是她对整件事唯一一次公开的轻蔑——而它同时也是全章的题眼：这确实是一场戏，而她是唯一的演员。**
-
-**读者视角提示**：请把这一句与 ch32 里她吻了电视上的 Celia、磕坏了牙连读。**作者让 Evelyn 一生都在把真实的情感投给屏幕与表演，而本章是她第一次把自己的人生完整地当成一部电影——而她拿不到奖。**
-
----
 
 ## 本章词汇
 

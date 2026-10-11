@@ -23,6 +23,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "I DON'T WANT TO DO this,"
 
 **中文理解**："我不想做这件事。"
@@ -35,19 +36,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 2:** "It was the kind of dress I could never wear out of the house or I'd be picked up on a prostitution charge."
-
-**中文理解**：那是那种我永远不能穿出门的裙子，否则我会因为卖淫罪被抓。
-
-**关键词**：picked up on a prostitution charge
-
-**为什么这样写**：**作者用一句自嘲把性别的双重标准写得毫不费力。** 同一条深 V 黑裙穿在 Celia 身上是"高级定制"，穿在 Evelyn 身上就是"卖淫嫌疑"——**差别不在裙子，在于谁穿、以什么身份穿、以及是否有人替她背书。** 而这句话出自一个被媒体捧为"全城最受欢迎女星"的人之口，**说明名声从来不是自由的保障，它只是另一种更复杂的限制。**
-
-**读者视角提示**：请注意本章的服装政治：Celia 穿黑（借来的钻石）、Evelyn 穿绿（她的标志色）、红毯上"一红发一金发，一个全是屁股一个全是胸"——**作者把两个女人的身体写成了两件被展示的资产，而她们自己清楚这一点。**
-
----
-
-> **原句 3:** "I don't want to. Doesn't that count for anything?"
+> **原句 2:** "I don't want to. Doesn't that count for anything?"
 
 **中文理解**：我不想。这难道一点都不算数吗？
 
@@ -59,7 +48,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 4:** "Because our whole is greater than the sum of our parts."
+> **原句 3:** "Because our whole is greater than the sum of our parts."
 
 **中文理解**：因为我们的整体大于我们各部分之和。
 
@@ -71,7 +60,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 5:** "If you're not willing to do what it takes to get your name in the paper, then why the hell are you here?"
+> **原句 4:** "If you're not willing to do what it takes to get your name in the paper, then why the hell are you here?"
 
 **中文理解**：如果你不愿意做那些能让你的名字上报纸的事，那你他妈到底在这里干什么？
 
@@ -83,31 +72,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 6:** "Men were almost never with me for my personality."
-
-**中文理解**：男人几乎从来不是为了我的性格才和我在一起的。
-
-**关键词**：almost never / my personality
-
-**为什么这样写**：**全章最冷的一句自我评价，而它用的是双重否定式的保留语气**（almost never = 几乎从不）。作者让 Evelyn 在走向红毯前做出这个判断，**把她一生的处境压成一句陈述句**：她的价值被定义为身体，而她自己完全清楚这一点。**紧接着的那段议论（"我不是说漂亮的女孩应该被丑女孩同情。我只是说，被爱上一个你并没有做过的事，感觉并不好"）把整本书对"美貌作为资本"的复杂态度说透了：它既是特权，也是被判定的形式。**
-
-**读者视角提示**：请把这句话与 ch22 Celia 那段"我为了成为那种让人一眼就觉得幸运的女孩才改名"连读。**一个想被观看，一个被观看了一辈子——这是两个人最根本的错位，也是她们最深的共鸣。**
-
----
-
-> **原句 7:** "Like we're the goddamn queens of England."
-
-**中文理解**：就像我们是他妈的大英帝国女王一样。
-
-**关键词**：the goddamn queens of England
-
-**为什么这样写**：**本章最重要的一次越界，而它以一句玩笑的口气说出口。** 作者让 Evelyn 在进门之前突然转身，牵起 Celia 的手，把原该属于四对男女的红毯仪式改写成两个女人的加冕——**她不说"我们在一起"，她说"我们来演一次女王"。** 而"goddamn"这个粗口给了这句话一种挑衅的、故意的失礼感：**她知道自己在做什么，她也知道这不合规矩，而她要的就是这个不合规矩。**
-
-**读者视角提示**：请注意围观者的反应——"Ruby 和 Joy 都不见踪影。人群为我们轰鸣。" **作者把这场双人亮相写成全章的高潮，而它的后果要到下一章才会结算。** 在本书的结构里，每一次胜利都会记账。
-
----
-
-> **原句 8:** "But instead of spending the next hour and forty-five minutes nursing my wounds, I spent the time holding back a smile."
+> **原句 5:** "But instead of spending the next hour and forty-five minutes nursing my wounds, I spent the time holding back a smile."
 
 **中文理解**：但我没有用接下来的一小时四十五分钟去舔自己的伤口，我用这段时间忍住了一个微笑。
 
@@ -119,7 +84,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 9:** "Celia was going to win an Oscar. It was as plain as the nose on her face. And it didn't make me jealous. It made me happy."
+> **原句 6:** "Celia was going to win an Oscar. It was as plain as the nose on her face. And it didn't make me jealous. It made me happy."
 
 **中文理解**：Celia 会拿奥斯卡。这是明摆着的事。而这并没有让我嫉妒。它让我高兴。
 
@@ -131,7 +96,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 10:** "He's going to find an excuse to hit me later. But it will be for this."
+> **原句 7:** "He's going to find an excuse to hit me later. But it will be for this."
 
 **中文理解**：他之后会找个借口打我。但会是为了这件事。
 
@@ -143,19 +108,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 11:** "The world was about objects to them; all they wanted to do was possess."
-
-**中文理解**：对他们来说，世界就是一堆物件；他们想做的只是占有。
-
-**关键词**：objects / possess
-
-**为什么这样写**：**Evelyn 在派对上对宾客的判断，同时也是对 Don 的判断。** 作者让她在一段关于"收藏稀有珠宝的女人"的观察里，顺手完成了一次**对整本书权力逻辑的总结**：**占有欲是这个世界唯一通行的语言。** 而这句话的语境极妙——她刚刚被一群"想跟她攀关系的人"围住，而她真正在找的人是 Celia。**在一个把一切变成物件的场合里，她想找一个不是物件的人。**
-
-**读者视角提示**：请把这句话与 ch10 那句"有人看见一朵美丽的花就冲过去摘下来，他们想把这朵花的美变成自己的"对读。**同一套意象，从婚姻一路用到了派对——本书对"占有"的诊断前后完全一致。**
-
----
-
-> **原句 12:** "She's a lesbian, Evelyn."
+> **原句 8:** "She's a lesbian, Evelyn."
 
 **中文理解**："她是女同性恋，Evelyn。"
 
@@ -164,20 +117,6 @@ modified: "2026-10-11"
 **为什么这样写**：**全章的中心句，五个词，而它同时也是本书的一次结构爆破。** 作者让这句话由一个**女同行**（Ruby）在一个**洗衣房**（全屋最私密的角落）说出，用的是最直接的陈述句——**没有"我听说"，没有"据说"，只有"她是"。** 而 Evelyn 的反应被写得极为精确：**"在她说出那句话之前，派对的声音一直是模糊但可辨的。但 Ruby 说出那句话的那一分钟，我一听到'女同性恋'这个词，血就开始跳得太快，快到我只能听到自己的脉搏。"** 作者没有写她的想法，只写了她的生理反应——**这个身体的回答，比任何心理描写都更早地承认了事实。**
 
 **读者视角提示**：请注意 Evelyn 在慌乱中只抓住了几个词（"女孩"、"dyke"、"扭曲的"）——**作者用听觉的选择性呈现了恐惧本身：她听不清攻击，只能听见那些最伤人的标签。** 而这也预告了本书后半段的核心议题：**在 1950 年代的好莱坞，一个词足以毁掉一个人的一生。**
-
----
-
-> **原句 13:** "When she said it, I did not think, Oh, my God. My husband is cheating on me. I thought, I have to find Celia."
-
-**中文理解**：当她说出这件事的时候，我没有想：天啊，我丈夫在出轨。我想的是：我必须找到 Celia。
-
-**关键词**：I did not think / I thought
-
-**为什么这样写**：**全章的最后一句，也是全书的转折点。** 作者用一组"我没有想……我想的是……"的对照完成整章的收束：**Ruby 提供了两条信息（Celia 是女同性恋、Don 在隔壁出轨），而 Evelyn 只关心其中一条。** 而"我必须找到 Celia"（I have to find Celia）这句话的语法值得细看——**它不是"我想去找她"，也不是"我应该去找她"，是一个必须（have to）。** 在整本书里，Evelyn 的所有重大决定都是用这个句式表达的。
-
-**读者视角提示**：请把这一句与本章开头 Celia 那句"我不想做这件事"对读。**这一章从一句拒绝开始，以一句必须结束——而中间发生的事，让这两个人彻底无法回头。**
-
----
 
 ## 本章词汇
 

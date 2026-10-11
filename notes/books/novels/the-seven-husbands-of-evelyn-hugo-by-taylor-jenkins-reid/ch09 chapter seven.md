@@ -22,6 +22,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "You have a dinner with Ronnie Beelman in an hour. I just wanted to remind you."
 
 **中文理解**：您一小时后和 Ronnie Beelman 有晚餐。我只是想提醒您一下。
@@ -106,19 +107,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 8:** "Using Vivant to get to me. I don't quite know. But Evelyn is very calculating. She's up to something."
-
-**中文理解**：她在用 Vivant 来接近我。我不太确定。但 Evelyn 非常会算计。她在谋划什么。
-
-**关键词**：Using Vivant to get to me / very calculating / She's up to something
-
-**为什么这样写**：这是 Monique 全章最清醒的一句话，也是全书**最重要的一次读者提示**——她亲口说出了 Evelyn 的真实动机之一。作者让这句判断由 Monique 说出，等于提前把谜面交给读者：**这不是一个"Evelyn 为什么选我"的悬念，而是一个"Evelyn 到底想干什么"的悬念**。而"我不太确定"这半句插在中间，又保留了她的诚实——她知道自己的推断没有证据。
-
-**读者视角提示**：这句话是全书主线谜题的**官方提问**。读到后半段你会发现，Monique 的推断方向对了一半：Evelyn 确实在利用她，但利用的目的不是伤害她。
-
----
-
-> **原句 9:** "I think I'm too intrigued to be worried," I say.
+> **原句 8:** "I think I'm too intrigued to be worried," I say.
 
 **中文理解**："我想我太好奇了，顾不上担心，"我说。
 
@@ -127,8 +116,6 @@ modified: "2026-10-11"
 **为什么这样写**：全章以一句**把危险重新定义为吸引力**的话收束。母亲直接问"你担心吗"，Monique 给出的答案是"不"——但理由不是"我不怕"，而是"我太好奇"。作者用 "too...to..." 结构把好奇心写成一种**压倒性的生理状态**，为全书后半段 Monique 的道德困境埋好前提：一个因为好奇而留下来的人，最后要为这份好奇付出什么？这句话与章末"我说完又笑出了老男人式的笑声"并置，把一次警告写成了一次启程。
 
 **读者视角提示**：这是 Monique 版的"世界不给东西，你得去拿"。她与 Evelyn 的相似性在本章被正式确认——她们都是那种**明知道有风险仍然要往前走**的人。
-
----
 
 ## 本章词汇
 

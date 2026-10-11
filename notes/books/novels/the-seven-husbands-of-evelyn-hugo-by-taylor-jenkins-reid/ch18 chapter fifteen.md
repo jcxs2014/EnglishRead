@@ -22,6 +22,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "So just say the word, baby, and poof, she's out of there."
 
 **中文理解**：所以说一声，宝贝，"噗"的一下，她就没了。
@@ -34,19 +35,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 2:** "There's something I like about you," he said, pulling me on top of him. And for a moment, all my worries completely disappeared.
-
-**中文理解**："我喜欢你身上的某些东西，"他说着把我拉到身上。有那么一瞬间，我所有的担忧都彻底消失了。
-
-**关键词**：something I like about you / all my worries completely disappeared
-
-**为什么这样写**：作者让 Don 用**一句既像情话又像收购的台词**（something I like about you——主语是"东西"不是"你"）接住 Evelyn 的坦白（"我有点喜欢她"），并用一个身体动作把话题关掉。而"有那么一瞬间，我所有的担忧都完全消失了"这句紧随其后，**正是本书处理"婚姻里的温柔"的标准句式：它总是以"有那么一瞬间"开头，也总是以"一瞬间"结束。**
-
-**读者视角提示**：请把这段与下一段直接对读——下一段就是"第二天，Celia 在午餐时叫住我"。**作者用一次场景切换，把 Evelyn 从丈夫的床上直接送到 Celia 的车里。**
-
----
-
-> **原句 3:** "There's no chance you'd want to cut out and grab a milk shake, is there?"
+> **原句 2:** "There's no chance you'd want to cut out and grab a milk shake, is there?"
 
 **中文理解**：你该不会想溜出去喝杯奶昔吧？
 
@@ -58,7 +47,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 4:** "Celia wanted to be seen there. She wanted to be seen there with me."
+> **原句 3:** "Celia wanted to be seen there. She wanted to be seen there with me."
 
 **中文理解**：Celia 想在那里被看见。她想和我一起被看见。
 
@@ -70,7 +59,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 5:** "You're the one who just fell off the turnip truck. Don't confuse us."
+> **原句 4:** "You're the one who just fell off the turnip truck. Don't confuse us."
 
 **中文理解**：你才是那个刚从萝卜车上掉下来的人。别把我们搞混了。
 
@@ -82,19 +71,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 6:** "I was putting her in her place. I wasn't going to be photographed with her unless I wanted to be, unless it was my idea."
-
-**中文理解**：我在把她放到她该在的位置上。除非我想被拍，除非那是我的主意，否则我不会跟她一起被拍到。
-
-**关键词**：unless it was my idea
-
-**为什么这样写**：**全章最赤裸的一句权力宣言**，而作者让它出现在 Evelyn 强迫 Celia 改道的动作之后——方向盘与镜头在这里是同一件东西。而"除非那是我的主意"（unless it was my idea）这句话是理解 Evelyn 全书行为逻辑的钥匙：**她一生所有决定的第一标准不是对错、不是感情，是"这到底是谁的主意"**。这句话也可以与 ch16 那句"我不能被她摆布，我比她有名"连读。
-
-**读者视角提示**：把这段与本章结尾对照——最后是 Evelyn 主动提出"明天我带你去 Schwab's"。**从"除非是我的主意"到"这是我的主意"，中间隔着的正是 Celia 那份交易提案。**
-
----
-
-> **原句 7:** "First, you have to push people's boundaries and not feel bad about it. No one is going to give you anything if you don't ask for it. You tried. You were told no. Get over it."
+> **原句 5:** "First, you have to push people's boundaries and not feel bad about it. No one is going to give you anything if you don't ask for it. You tried. You were told no. Get over it."
 
 **中文理解**：第一，你必须去推别人的边界，而且不要为此感到愧疚。如果你不开口要，没有人会给你任何东西。你试过了。你被拒绝了。翻篇吧。
 
@@ -106,7 +83,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 8:** "When you use people, be good at it."
+> **原句 6:** "When you use people, be good at it."
 
 **中文理解**：当你利用别人的时候，要擅长这件事。
 
@@ -118,19 +95,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 9:** "That I know I use people. I'm fine with the idea of using people. And all of that energy that you spend trying to convince yourself that you're not using people I spend getting better at it."
-
-**中文理解**：区别在于：我知道我在利用人。我对"利用人"这件事毫无不适。而你把所有精力花在说服自己你没有在利用别人，我把那些精力花在把这件事做得更好上。
-
-**关键词**：all of that energy that you spend trying to convince yourself / I spend getting better at it
-
-**为什么这样写**：全章最漂亮的一次**对照句**——作者用同一个"spend…on"结构把两个人的能量流向并排摆开：**一个花在自我欺骗上，一个花在精进上**。这不是道德比较，是**效率比较**——而 Evelyn 的整段自我定义就建立在这个转换上：她把"利用人"从罪过改写成了一种**可被磨练的技能**。而这句话的对象是 Celia，也就是说，**她在向一个刚认识的人交底——这本身就是她给出的最高礼遇。**
-
-**读者视角提示**：注意紧接着的问答（"你在利用我吗？现在？"/"如果我在，你永远不会知道。"/"这就是我问的原因。"）。**Celia 是全书第一个能跟上 Evelyn 这套语言的人，而且她还会追问。**
-
----
-
-> **原句 10:** "The reason I'm not using you is that you have nothing to offer me. Not yet, at least."
+> **原句 7:** "The reason I'm not using you is that you have nothing to offer me. Not yet, at least."
 
 **中文理解**：我没有在利用你的原因，是你没有任何东西能给我。至少现在没有。
 
@@ -142,19 +107,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 11:** "I like the way your skin is too dark for your blond hair, the way the two shouldn't go together and yet seem so natural on you. And to be honest, I like how calculating and awful you kind of are."
-
-**中文理解**：我喜欢你的皮肤配你的金发太深了，喜欢这两样本不该搭在一起、在你身上却显得那么自然。老实说，我还喜欢你那种精于算计、有点恶劣的样子。
-
-**关键词**：too dark for your blond hair / calculating and awful
-
-**为什么这样写**：**全书最著名的表白之一，而它由三部分构成**：外貌（她改过的金发与天生深色的皮肤）、矛盾（不该搭却自然）、人格（算计与恶劣）。作者让 Celia 一次性接受了 Evelyn 全部的**人工痕迹**——她不是没见过她本来的样子，她是**知道她做过什么，仍然觉得好看**。而"calculating and awful"（精于算计、恶劣）这两个贬义词出现在表白里，**正是本书对爱的定义：不是忽略你的缺点，是把它算进喜欢里。**
-
-**读者视角提示**：请特别注意"你的皮肤配你的金发太深了"这一句。**这是全书唯一一次有人在她改名的代价上说出真话——而且是以赞美的形式。** 对照 Evelyn 一生对来处的掩饰，这句话的分量极重。
-
----
-
-> **原句 12:** "But what I was really thinking was, I can't tell him that. He'll think I'm making fun of him, and he'll smack me."
+> **原句 8:** "But what I was really thinking was, I can't tell him that. He'll think I'm making fun of him, and he'll smack me."
 
 **中文理解**：但我真正在想的是：我不能这么告诉他。他会以为我在取笑他，然后他会打我。
 
@@ -163,8 +116,6 @@ modified: "2026-10-11"
 **为什么这样写**：**全章最残忍的收尾。**作者让这一章——一份友谊契约的诞生、一场笑声、一句"明天我带你去 Schwab's"——结束在一个女人对店员请求的**内部否决**上。店员请她转告丈夫"我很喜欢《The Gun at Point Dume》"，而 Evelyn 在心里已经完成了整个风险评估：说这句话会被当成嘲讽，会被打。**她拒绝的理由不是不愿意，是不安全。** 而作者用的是 "he'll smack me"（他会扇我）——现在时态的 will，**把它写成一个可预测的、例行公事般的后果。**
 
 **读者视角提示**：请把这句话与本章开头 Don 那句"说一声，她就没了"对读。**同一章里，她的丈夫拥有毁掉别人的权力，而她连一句转述的好话都不敢带回家。** 本书的婚姻线从不在暴力场景里最痛——**它在这样的日常计算里最痛。**
-
----
 
 ## 本章词汇
 

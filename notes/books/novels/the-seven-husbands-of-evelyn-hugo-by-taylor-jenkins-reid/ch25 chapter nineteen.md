@@ -22,6 +22,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "I'm telling you the story as it unfolded."
 
 **中文理解**：我是按故事展开的顺序讲给你听的。
@@ -58,19 +59,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 4:** "She can say it. She can say it to me. She can admit it, freely. Now. Here."
-
-**中文理解**：她可以说出来。她可以对我说出来。她可以自由地承认。现在。在这里。
-
-**关键词**：She can say it / Now. Here.
-
-**为什么这样写**：**作者用四段极短的句子搭出一个"许可"的阶梯，而每一段都在扩大范围**：能说 → 能对我说 → 能自由地说。而最后两个词（Now. Here.）被单独成句，**把时间与空间钉在 2017 年的一间公寓里**——这正是 Evelyn 用一辈子才换来的条件。而 Monique 紧接的一句内心独白（"这是件大事。但它确实没关系。现在和那时不一样了。不过我得承认，也还不完全安全。"）**让这份许可保持诚实：进步是真的，危险也是真的。**
-
-**读者视角提示**：请把这段话与 ch05 Evelyn 那句"我爱过的人都死了，没有谁需要我保护了"对读。**她当年把沉默归因于保护他人；而本章揭示沉默的另一个理由：她自己也没准备好。**
-
----
-
-> **原句 5:** "Celia St. James."
+> **原句 4:** "Celia St. James."
 
 **中文理解**："Celia St. James。"
 
@@ -82,7 +71,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 6:** "I'm bisexual. Don't ignore half of me so you can fit me into a box, Monique. Don't do that."
+> **原句 5:** "I'm bisexual. Don't ignore half of me so you can fit me into a box, Monique. Don't do that."
 
 **中文理解**：我是双性恋。别为了把我塞进一个盒子里就忽略我的一半，Monique。别那样做。
 
@@ -94,7 +83,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 7:** "I have spent my life trying to explain to people that while I look black, I am biracial."
+> **原句 6:** "I have spent my life trying to explain to people that while I look black, I am biracial."
 
 **中文理解**：我花了一辈子试图向人解释：我看起来是黑人，但我是混血。
 
@@ -106,19 +95,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 8:** "This is her whole point, isn't it?"
-
-**中文理解**：这就是她的全部重点，不是吗？
-
-**关键词**：her whole point
-
-**为什么这样写**：**作者让 Monique 自己完成主题的命名，而这句话同时回答了本书"为什么是 Monique"的问题。** 紧接着的说明（"这就是为什么她想被如此精确地理解，用如此完美的措辞。因为她想被看见她真正的样子，带着所有细微差别与灰色地带。就像我一直想被看见那样。"）把两个人的关系定义为**同一种渴望的两次表达**。**这本书的采访框架至此完成闭环：不是名人在交代历史，是两个人互相借对方的手来被看见。**
-
-**读者视角提示**：请记住"nuance and shades of gray"（细微差别与灰色地带）这个词组。**它是本书对"真相"的定义：真相不是非黑即白的答案，是拒绝被简化的完整。**
-
----
-
-> **原句 9:** "So this is my fuckup. I just fucked up."
+> **原句 7:** "So this is my fuckup. I just fucked up."
 
 **中文理解**：所以这是我的错。我刚刚搞砸了。
 
@@ -130,7 +107,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 10:** "I was jealous when I found out Celia was gay, because it meant that she was with other women, or had been with other women, that her life wasn't just me."
+> **原句 8:** "I was jealous when I found out Celia was gay, because it meant that she was with other women, or had been with other women, that her life wasn't just me."
 
 **中文理解**：当我发现 Celia 是同性恋时，我嫉妒，因为这意味着她和其他女人在一起过，或者曾经和其他女人在一起过——她的生活并不只有我。
 
@@ -139,20 +116,6 @@ modified: "2026-10-11"
 **为什么这样写**：**作者用"嫉妒"这个情感来揭示 Evelyn 爱的形态：占有。** 而这段坦白最惊人的地方在于她**同时嫉妒两件事**——"我嫉妒 Celia 是同性恋"与"我嫉妒我丈夫在楼上的派对里和一个女人在一起"。**前者是关于爱的排他性，后者是关于面子的威胁**，而 Evelyn 自己把这两者并列说出，**说明她当时的感受里，爱与占有、羞耻与伤害是混在一起的。** 而那句"我活在一个我以为可以拥有与 Celia 的亲近、与 Don 的疏远，而他们俩都不需要从别人那里要任何东西的世界里。那是一个奇怪的气泡，而它就这样破了。"——**"气泡"（bubble）这个词精确地描述了这段关系在暴露前的全部脆弱。**
 
 **读者视角提示**：请注意 Evelyn 对这段关系的原始设想：**亲近给 Celia，疏远给 Don**。这个分配方案本身就是全书对她的处境的总结：**她不需要任何一段关系是完整的，她只需要它们各占一半。**
-
----
-
-> **原句 11:** "The fact that I wanted to be around Celia all the time, the fact that I cared about her enough that I valued her happiness over my own, the fact that I liked to think about that moment when she stood in front of me without her shirt on—now, you put those pieces together, and you say, one plus one equals I'm in love with a woman."
-
-**中文理解**：我一直想待在 Celia 身边，我在乎她到把她的幸福看得比自己的重要，我喜欢回想她站在我面前没穿衬衫的那一刻——现在你把这些碎片拼起来，你会说：一加一等于我爱上了一个女人。
-
-**关键词**：one plus one equals I'm in love with a woman / put those pieces together
-
-**为什么这样写**：**全章最重要的一段技术性说明，而它用"公式"这个比喻来解释一个时代。** 作者让 Evelyn 用三个"the fact that"的并列结构列出**她当年确实感受到的全部证据**——然后指出：**证据齐全不等于能得出结论，因为你首先得知道有这个公式存在。** 而"一加一等于我爱上了一个女人"（one plus one equals I'm in love with a woman）这个写法把等式右边写成一个句子，**语法上是错的，语义上是对的**——这正是 Evelyn 要表达的：**在她的成长环境里，这个等式的右边根本不存在，所以她即使手里握着全部加数，也无从计算。**
-
-**读者视角提示**：请把这段与本章那句"我被教导去喜欢男人"（I was taught to like men）连读。**作者在这里给出了全书对"性向"最不抽象的一种解释：它不是被压抑的真相，是没被教过的算术。** 而这也回答了 Monique 的那个问题（"你怎么知道自己爱她"）——**她不是通过内省知道的，是通过失去知道的。**
-
----
 
 ## 本章词汇
 

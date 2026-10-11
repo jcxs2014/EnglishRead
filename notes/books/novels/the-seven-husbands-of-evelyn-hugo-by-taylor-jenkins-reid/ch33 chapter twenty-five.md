@@ -23,6 +23,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "She was a single girl, after all. I was afraid the prevailing wisdom erred too close to the question What do single girls have to go home to?"
 
 **中文理解**：毕竟她是个单身女孩。我怕通行的常识会太接近那个问题：单身女孩有什么可回家的？
@@ -47,19 +48,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 3:** "I was willing to scrub a toilet for a part."
-
-**中文理解**：为了一个角色，我愿意去刷马桶。
-
-**关键词**：scrub a toilet
-
-**为什么这样写**：**作者用一句极粗的内心话揭示她的处境，而这句话与她实际说出口的话形成最大落差。** 她心里想的是"刷马桶我都干"，嘴上说的是"如果角色够好"（"If the part is great"）。**这个落差是全书对 Evelyn 的一贯处理：她的内心与她的谈判永远是两套语言。** 而 "scrub a toilet"（刷马桶）这个动作把她的底线写得毫无尊严——**而她刚刚失去了一切，所以这句话不是修辞。**
-
-**读者视角提示**：请注意她紧接着的动作：**喝完最后一口酒站起来告辞**（"I'm so sorry, Max, but I should go."），理由是"我绝对不会坐在一个没听说过我的男人对面，让他以为我有的是时间"。**作者让她在最低谷时仍然表演"不缺机会"——这是她一生的核心技能。**
-
----
-
-> **原句 4:** "There was absolutely no way I was going to sit at a bar with a man who hadn't heard of me and let him think I had all the time in the world."
+> **原句 3:** "There was absolutely no way I was going to sit at a bar with a man who hadn't heard of me and let him think I had all the time in the world."
 
 **中文理解**：我绝对不会坐在一个从没听说过我的男人对面，让他以为我有的是时间。
 
@@ -71,7 +60,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 5:** "Please never forget that the sun rises and sets with your smile. At least to me it does. You're the only thing on this planet worth worshipping."
+> **原句 4:** "Please never forget that the sun rises and sets with your smile. At least to me it does. You're the only thing on this planet worth worshipping."
 
 **中文理解**：请永远不要忘记，太阳为你的微笑而升起、为它而落下。至少对我来说是这样。你是这颗星球上唯一值得崇拜的东西。
 
@@ -83,19 +72,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 6:** "She is the kind of woman every man falls in love with. It was originally written for a French woman, but I have just decided tonight that if you will do it, I will fire her."
-
-**中文理解**："她是那种每个男人都会爱上的女人。这个角色原本是为一个法国女人写的，但我今晚刚决定：如果你愿意演，我就解雇她。"
-
-**关键词**：I will fire her
-
-**为什么这样写**：**作者用一个外国导演的坦率，写出好莱坞逻辑的国际版本。** Max 解雇原定演员的理由极其直白（"她不是你"），**而这份直白在本书里并不新鲜——它正是 ch20 Harry 那句"我的工作是让制片厂赚钱"的法国翻版。** 而 Evelyn 的反应（"这不太好"）说明**她自己都感到不适，但她没有拒绝。** 作者让她保留道德直觉，同时继续接受好处——**这是本书对"体制内生存"的一贯处理：不适感不构成行动。**
-
-**读者视角提示**：请特别注意 Max 的另一句话："这是一个运气。"（"It is a stroke of luck."）**他说的是自己的运气，不是她的——这个视角的默认设置说明，即使在这个"赏识"她的男人眼里，她也是一件被他捡到的东西。**
-
----
-
-> **原句 7:** "I knew I was going to take the part. It was the only part I could get. But you never get anywhere good by seeming amenable."
+> **原句 5:** "I knew I was going to take the part. It was the only part I could get. But you never get anywhere good by seeming amenable."
 
 **中文理解**：我知道我会接这个角色。这是我唯一能拿到的角色。但一个人永远不会因为显得好说话而走到什么好地方。
 
@@ -107,19 +84,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 8:** "If I was going to be asked to show my breasts, wouldn't it be for a French film? And if the French were going to ask anyone, shouldn't it be me?"
-
-**中文理解**：如果要我露胸，那不该是为一部法国电影吗？如果法国人要找人，那不该是我吗？
-
-**关键词**：shouldn't it be me?
-
-**为什么这样写**：**作者用两个反问写出 Evelyn 独有的逻辑：她把屈辱重新定价为荣誉。** 这两个问句的形式是修辞性的，**而内容是对自我价值的一次确认**——她不是被迫接受裸露，她是在判断"这件事该由谁来做"。而紧随其后的两句（"我知道第一次是什么让我成名。我知道第二次它能做什么。"）说明**她清楚这是一场计算，不是一次妥协。**
-
-**读者视角提示**：请注意她说这话时**还没有遇见"爱上一个女人"这件事会怎样改变她的方案**。作者把这条线索埋在这里，直到本章最后才兑现——**这是本章最漂亮的结构设计。**
-
----
-
-> **原句 9:** "But by that point, I had fallen madly in love with a woman. I had grown to desire her with every fiber of myself. I knew the pleasure of finding delight in a woman's naked body."
+> **原句 6:** "But by that point, I had fallen madly in love with a woman. I had grown to desire her with every fiber of myself. I knew the pleasure of finding delight in a woman's naked body."
 
 **中文理解**：但到那时，我已经疯狂地爱上了一个女人。我已经用我身上的每一根纤维去渴望她。我知道在一个女人的裸体上找到愉悦是什么感觉。
 
@@ -131,7 +96,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 10:** "And when Max heard it, he knew it was a good one, because he knew how it felt to want to tear my shirt off."
+> **原句 7:** "And when Max heard it, he knew it was a good one, because he knew how it felt to want to tear my shirt off."
 
 **中文理解**：而当 Max 听到这个主意时，他知道这是个好主意，因为他知道想把我的衬衫撕下来是什么感觉。
 
@@ -143,19 +108,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 11:** "In the editing room, Max slowed down my exit from the lake to a snail's crawl and then cut the footage a millisecond before you can see my full breasts."
-
-**中文理解**：在剪辑室里，Max 把我从湖里走出来的镜头放慢到蜗牛爬行的速度，然后在你能看见我整个胸部的前一毫秒剪断胶片。
-
-**关键词**：a snail's crawl / a millisecond before
-
-**为什么这样写**：**全章的机制揭晓，而它的精妙全在"一毫秒"这个时间单位上。** 作者用 "a snail's crawl"（蜗牛爬行）与 "a millisecond before"（前一毫秒）建立了一组极端对比：**无限放慢的期待，与永远差一点的兑现。** 而这句话也回答了一个技术问题——**这个镜头不是暴露，是拒绝暴露；而拒绝比暴露更值钱。**
-
-**读者视角提示**：请把这一句与下一句"有那么多的期待。而它从不兑现，无论你看多少遍，无论你把录像带暂停得多么精确。"连读。**作者用"暂停录像带"这个观众行为说明：这个镜头的设计目标就是让人反复重看——而反复重看就是票房。**
-
----
-
-> **原句 12:** "And here's why it worked: man, woman, gay, straight, bisexual, you name it, we all just want to be teased."
+> **原句 8:** "And here's why it worked: man, woman, gay, straight, bisexual, you name it, we all just want to be teased."
 
 **中文理解**：而它之所以奏效，原因在这里：男人、女人、同性恋、异性恋、双性恋，你随便说，我们全都只想被吊着。
 
@@ -164,8 +117,6 @@ modified: "2026-10-11"
 **为什么这样写**：**全章最后一句，也是本书对"欲望"最普世的一次陈述。** 作者让 Evelyn 用一份完整的身份清单（man, woman, gay, straight, bisexual）来支撑一个结论——**而这个结论抹平了所有差别："我们全都只想被吊着。"** "teased"（挑逗、吊胃口）这个词在这里同时是性暗示与商业策略，**而作者让这两层意思完全重合：在本书的世界里，欲望的机制就是营销的机制。** 而这句话的直接来源是 ch04 那句"Evelyn 总是让你希望再多得到一点。而她总是拒绝你。"——**Monique 在第四章对 Evelyn 的观察，在第三十三章被 Evelyn 自己确认为一条行业原理。**
 
 **读者视角提示**：请把这一句与 ch04 那句 `Evelyn always leaves you hoping you'll get just a little bit more. And she always denies you.` 对读。**这是全书最完整的一次前后呼应：一个观察者总结出的规律，被当事人证实为自己一生的方法论。**
-
----
 
 ## 本章词汇
 

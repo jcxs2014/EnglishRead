@@ -22,6 +22,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "SINGER MICK RIVA SWEET FOR EVELYN HUGO"
 
 **中文理解**："歌手 Mick Riva 对 Evelyn Hugo 有意思。"
@@ -46,19 +47,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 3:** "Armed with an old-fashioned that appeared not to be his first, Mick was awfully forthcoming . . ."
-
-**中文理解**：Mick 端着一杯看起来不是他第一杯的 old-fashioned，非常乐于开口……
-
-**关键词**：Armed with / appeared not to be his first / awfully forthcoming
-
-**为什么这样写**：**全章最精炼的一句人物素描，而它由三个部分构成：手里的酒、酒的杯数、开口的程度。** "Armed with"（配备着、手持着）这个说法**把一杯酒写成了一件武器**——**而它确实在这段对话里起到了武器的作用：它让他说出了他清醒时不会说的话。** 而"看起来不是他第一杯"是一个**不带判断的判断句**（作者没有说他醉了，只说这不是第一杯）——**这是八卦专栏最典型的手法：用暗示代替指控。** 而句末的省略号（"…"）也是同一套技术：**它表示"还有更多，但我们只登这些"。**
-
-**读者视角提示**：请把这一句与本章最后那句"我想做的是娶她"连读。**作者用一句"他喝了酒"为后面所有的话预先提供了免责声明——这是本书对名人发言最一贯的处理：它从不判断真假，只记录场合。**
-
----
-
-> **原句 4:** "I didn't deserve a lady like that, and she didn't deserve a guy like me."
+> **原句 3:** "I didn't deserve a lady like that, and she didn't deserve a guy like me."
 
 **中文理解**：他透露他很高兴与妖姬 Veronica Lowe 离了婚，因为——用他的话说——"我不配得到那样的女士，她也不配得到我这样的男人。"
 
@@ -70,7 +59,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 5:** "And when asked if he's dating, he admitted he's been seeing quite a few ladies but that he'd give them all up for one night with Evelyn Hugo."
+> **原句 4:** "And when asked if he's dating, he admitted he's been seeing quite a few ladies but that he'd give them all up for one night with Evelyn Hugo."
 
 **中文理解**：当被问到是否在约会时，他承认自己一直在见不少女士，但他愿意为了跟 Evelyn Hugo 共度一夜而放弃她们所有人。
 
@@ -82,7 +71,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 6:** "The former Mrs. Don Adler has proven to be a very hot commodity these days."
+> **原句 5:** "The former Mrs. Don Adler has proven to be a very hot commodity these days."
 
 **中文理解**：这位前 Don Adler 夫人如今已被证明是一件非常抢手的商品。
 
@@ -94,7 +83,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 7:** "Her appearance in French director Max Girard's newest film, Boute-en-Train, has spent the summer selling out movie houses all over Europe, and now it's taking the good ol' US of A by storm."
+> **原句 6:** "Her appearance in French director Max Girard's newest film, Boute-en-Train, has spent the summer selling out movie houses all over Europe, and now it's taking the good ol' US of A by storm."
 
 **中文理解**：她在法国导演 Max Girard 的新片《Boute-en-Train》中的出演，整个夏天都在让全欧洲的影院售罄，而如今它正席卷美国。
 
@@ -106,19 +95,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 8:** "I've seen Boute-en-Train three times now,"
-
-**中文理解**："《Boute-en-Train》我已经看了三遍了。"
-
-**关键词**：three times now
-
-**为什么这样写**：**作者让 Mick 用一句自白证明 ch33 那个"一毫秒切黑"的设计成功。** 在上一章，Evelyn 解释这个镜头奏效的原因是"我们全都只想被吊着"——**本章第一个具体证据出现了：一个观众看了三遍，还准备看第四遍。** 而"三遍"这个数字是作者给读者的**验证**：**她说的原理不是自夸，是可观察的行为。**
-
-**读者视角提示**：请特别注意 Mick 接下来那句解释——**"我就是看不够她从湖里走出来的样子。"（"I just can't get enough of her coming out of that lake."）** 他说的正是那个被剪断的镜头——**他看了三遍，仍然没有看到他想看的东西，而他还会再看。**
-
----
-
-> **原句 9:** "And I'll see it a fourth. I just can't get enough of her coming out of that lake."
+> **原句 7:** "And I'll see it a fourth. I just can't get enough of her coming out of that lake."
 
 **中文理解**："我还会看第四遍。我就是看不够她从湖里走出来的样子。"
 
@@ -130,7 +107,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 10:** "I'd like to marry her is what I'd like to do."
+> **原句 8:** "I'd like to marry her is what I'd like to do."
 
 **中文理解**："我想做的是娶她。"
 
@@ -139,20 +116,6 @@ modified: "2026-10-11"
 **为什么这样写**：**全章的中心句，而它的语法错误本身就是人物刻画。** 标准英语会说 "I'd like to marry her"，**而作者让 Mick 说成 "I'd like to marry her is what I'd like to do"——把主语重复了一遍，语法上冗余，口语上却极其真实。** 这个句式暴露了三件事：**他在酒精里说话、他在加重语气、他习惯用重复来让自己听起来更诚恳。** 而"娶她"（marry her）这个词与上一段的"一夜"（one night）形成跨度极大的升级——**而作者让这个升级发生在一个句子里，没有任何过渡。**
 
 **读者视角提示**：请注意这一段与前一段之间的那个问句："那他想约 Evelyn 出去吗？"（"So would he like to take Evelyn out on a date?"）**专栏先问一个最小的问题，然后得到最大的答案——这个落差是本章的喜剧点，也是 Mick 这个人物的定义：他从不按对方的期待回答。**
-
----
-
-> **原句 11:** "You hear that, Evelyn?"
-
-**中文理解**："你听到了吗，Evelyn？"
-
-**关键词**：You hear that, Evelyn
-
-**为什么这样写**：**全章最后一句，而它把一篇新闻报道变成了一次公开喊话。** 专栏在整篇文字里一直保持"记录者"姿态，**而最后一行突然转向第二人称、直接对 Evelyn 说话**——**这个视角的破口说明：这篇报道的真正功能不是传递信息，是制造压力。** 而 Evelyn 从未回应，**作者用这个沉默完成了本章的全部态度。**
-
-**读者视角提示**：请把这一句与 ch01 那句"她总是让你希望再多得到一点，而她总是拒绝你"连读。**Evelyn 对媒体、对追求者、对读者用的是同一套动作：不给回应。而这本书本身，就是她唯一一次决定开口。**
-
----
 
 ## 本章词汇
 

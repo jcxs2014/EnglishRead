@@ -23,6 +23,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "WHEN I WALK INTO EVELYN'S office the next morning, I'm so nervous that my back is sweating and a shallow pool is forming along my spine."
 
 **中文理解**：第二天早上我走进 Evelyn 的办公室时，紧张得后背在出汗，沿着脊柱形成一小滩水。
@@ -47,19 +48,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 3:** "I don't let my joy show on my face. I'm halfway there. I can't rest until I'm done."
-
-**中文理解**：我不让喜悦表现在脸上。我已经走了一半。在完成之前我不能停。
-
-**关键词**：I don't let my joy show / I can't rest until I'm done
-
-**为什么这样写**：**全章的心理节拍器，而它出现的位置极准——在 Evelyn 刚刚让步之后。** 作者让 Monique 的第一反应不是庆祝，是**隐藏**；而理由（"我才走了一半"）说明她的目标不是这一件事，是整个谈判。**这三句话是本书对"野心"最干净的一次描写：它不是欲望，是纪律。**
-
-**读者视角提示**：请把这段与本章最后一段（"我终于开始怀疑我该感到害怕"）对读。**作者让"不放松"与"没看见危险"在同一个角色身上并存——这就是她此刻的状态：能控制表情，看不穿对手。**
-
----
-
-> **原句 4:** "I have to push her. I have to ask and be willing to be told no. I have to know my worth."
+> **原句 3:** "I have to push her. I have to ask and be willing to be told no. I have to know my worth."
 
 **中文理解**：我必须推她。我必须开口，并且愿意被拒绝。我必须知道自己的价值。
 
@@ -71,19 +60,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 5:** "So here we go."
-
-**中文理解**：那就开始吧。
-
-**关键词**：So here we go
-
-**为什么这样写**：**全章最短的一段，而它标记了攻防的正式开始。** 作者在这之前用了一整段 Monique 的心理准备（"我必须像 Evelyn 那样做" / "我必须'Evelyn Hugo' Evelyn Hugo"），然后单独成段地给出这三个词。**"Here we go"（开始吧）是英语里最轻的开场语，而作者用它来标记一次最重的谈判——这个落差正是本书的语气。**
-
-**读者视角提示**：请注意紧接着的第一句台词就是最硬的——"你需要为封面拍一组照片。"（"You need to sit for a photo shoot. For the cover."）**Monique 没有任何过渡，直接提出对方最不可能接受的条件。**
-
----
-
-> **原句 6:** "You agree to the cover photo, or I'm out."
+> **原句 4:** "You agree to the cover photo, or I'm out."
 
 **中文理解**："你要么同意拍封面照，要么我走。"
 
@@ -95,7 +72,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 7:** "You want me to write your life story. I want to write your life story. But these are my terms."
+> **原句 5:** "You want me to write your life story. I want to write your life story. But these are my terms."
 
 **中文理解**："你想让我写你的生平。我想写你的生平。但这是我的条件。"
 
@@ -107,7 +84,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 8:** "Evelyn looks at me, and I get the impression that I am more than she bargained for."
+> **原句 6:** "Evelyn looks at me, and I get the impression that I am more than she bargained for."
 
 **中文理解**：Evelyn 看着我，我得到的印象是：我超出了她原本的预期。
 
@@ -119,19 +96,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 9:** "Yes, but you're also good at it, and I think you're delighting in it a bit."
-
-**中文理解**："是的，但你还很擅长这件事，而且我觉得你有点乐在其中。"
-
-**关键词**：good at it / delighting in it
-
-**为什么这样写**：**Evelyn 在这一句里完成了一次精确的观察，而这份精确是她全书最一贯的能力。** 她不说"你在利用我"，她说"**你擅长这个，而且你享受它**"——**她把道德指控转换成了能力评价。** 而 Monique 的回答（"我在向最厉害的人学习"）是全书最漂亮的一次回敬：**她既承认了享受，也把功劳归给了对方。**
-
-**读者视角提示**：请注意 Evelyn 对这句回敬的回应——**"是的，你是。"（"Yes, you are."）** 两个词，没有谦虚，没有纠正。**作者用这句话确认了师徒关系的完成：Evelyn 承认她教出了一个同类。**
-
----
-
-> **原句 10:** "And from now on, when I don't answer a question the first time, you don't ask it again. Do we have a deal?"
+> **原句 7:** "And from now on, when I don't answer a question the first time, you don't ask it again. Do we have a deal?"
 
 **中文理解**："而且从现在起，我如果第一次没有回答一个问题，你就不要再问第二次。成交吗？"
 
@@ -143,19 +108,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 11:** "Evelyn takes a second to answer, and in that moment I realize that she has just agreed to the very thing she swore she would never do—a Vivant cover—just so I won't walk."
-
-**中文理解**：Evelyn 停了一秒才回答，而在那一刻我意识到，她刚刚同意了她发誓永远不会做的事——上 Vivant 封面——只为了不让我走开。
-
-**关键词**：the very thing she swore she would never do / just so I won't walk
-
-**为什么这样写**：**全章的反转，也是本书悬念结构的核心。** 作者让 Monique **在胜利的当下**才意识到让步的分量——**"她发誓永远不会做的事"（the very thing she swore she would never do）这个说法明确标记了 Evelyn 打破的是原则，不是偏好。** 而 "just so I won't walk"（只为了不让我走）把这次让步的动机归结为**对 Monique 本人的需求**，而不是对作品的兴趣。
-
-**读者视角提示**：请把这一句与 ch05 那句"我打电话给你是别有用心"（"I've called you here under false pretenses"）连读。**Evelyn 从第一天起就承认自己在算计，而 Monique 直到第三十章才第一次问：她算计的是什么？**
-
----
-
-> **原句 12:** "Evelyn wants me for something. And she wants it bad."
+> **原句 8:** "Evelyn wants me for something. And she wants it bad."
 
 **中文理解**：Evelyn 想要我，是为了某件事。而她想要得很凶。
 
@@ -164,8 +117,6 @@ modified: "2026-10-11"
 **为什么这样写**：**全章的倒数第二段，把一次商业胜利重新定性为一次危险信号。** 作者用重复的结构（"Evelyn 想要我" / "而她想要得很凶"）先陈述事实，再加重程度——**"bad" 在这里不是"坏"，是"极其"（口语用法）**，而这个口语化的副词与前面的正式谈判语言形成对比，**让这份急迫显得原始而不可控。** 而这句话的直接来源是 Monique 在谈判前的推断（"她需要我。我不知道为什么、为了什么。"）——**本章没有回答这个问题，它只把问题的重量加大了。**
 
 **读者视角提示**：请注意本章的最后一句："而此刻我终于开始怀疑，我该感到害怕。"（"And now I'm finally starting to suspect that I should be scared."）**这是全书悬念的正式开场：Monique 拿到的不是一份工作，是一个她还不了解的局。**
-
----
 
 ## 本章词汇
 

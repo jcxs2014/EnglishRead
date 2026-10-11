@@ -22,6 +22,7 @@ modified: "2026-10-11"
 
 ## 精读
 
+
 > **原句 1:** "LET'S PICK UP HERE TOMORROW," Evelyn says.
 
 **中文理解**："我们明天从这里继续，"Evelyn 说。
@@ -70,19 +71,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 5:** "One small thing my dad said to me on a cold day in Vancouver has essentially been the basis of my entire life's trajectory."
-
-**中文理解**：我父亲在温哥华一个寒冷的日子里对我说的一件小事，基本上成了我整个人生轨迹的基础。
-
-**关键词**：one small thing / my entire life's trajectory
-
-**为什么这样写**：作者用**"一件小事"（one small thing）与"整个人生轨迹"（my entire life's trajectory）的体量落差**来写记忆的运作方式——**影响一生的往往不是大事件，是一句话**。而这句话出现的时机也值得注意：它是在 Monique 已经"追了半生"之后才被回顾的，所以它不是预言，是**清算**——她在此刻清点自己走过的路，发现起点只有一个六岁孩子握过的手。
-
-**读者视角提示**：把这段与上一段的细节（试过戏剧、管弦乐、合唱、足球、辩论、摄影）连读。**作者列出一长串失败尝试，只为了让最后那个成功的（写作）显得不可替代。**
-
----
-
-> **原句 6:** "For a brief moment, I wonder if I would have listened to him if he hadn't died. Would I have clung to his every word so tightly if his advice had felt unlimited?"
+> **原句 5:** "For a brief moment, I wonder if I would have listened to him if he hadn't died. Would I have clung to his every word so tightly if his advice had felt unlimited?"
 
 **中文理解**：有那么一瞬间，我想：如果他没死，我还会听他的话吗？如果他的建议看起来是无限的，我还会把他的每一个字抓得这么紧吗？
 
@@ -94,7 +83,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 7:** "I know what it cost them to build a life, to have me. A white woman and a black man in the early '80s, neither of their families being particularly thrilled with the arrangement."
+> **原句 6:** "I know what it cost them to build a life, to have me. A white woman and a black man in the early '80s, neither of their families being particularly thrilled with the arrangement."
 
 **中文理解**：我知道他们为了建立这个家、为了生下我，付出了什么代价。八十年代初，一个白人女人和一个黑人男人，两边的家庭对这门亲事都谈不上高兴。
 
@@ -106,7 +95,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 8:** "For so long, I felt like two halves."
+> **原句 7:** "For so long, I felt like two halves."
 
 **中文理解**：有那么久，我觉得自己像两个一半。
 
@@ -118,19 +107,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 9:** "I don't look like I am half of one thing and half of another but rather one whole thing, theirs. Loved."
-
-**中文理解**：我看上去不像一半属于这个、一半属于那个，而像一个完整的东西——属于他们的。被爱着的。
-
-**关键词**：one whole thing, theirs. Loved.
-
-**为什么这样写**：**全章的答案，也是全书情感结构的钥匙**。作者用照片完成一次逆转：同一副身体，在"两个一半"的自我认知里是断裂的，在 1986 年那张全家福里却是**完整的**。而句末的"Loved."（被爱着的）是**单独的一个词、单独的一个句号**——作者用一个残句给整段独白封顶，语法上的不完整恰恰传达了那种不需要解释的确信。**这是 Monique 全书唯一一次说自己"完整"。**
-
-**读者视角提示**：注意这个"完整"是通过**观看一张照片**获得的——**有人替她记录了那个时刻，她才能看见自己完整的样子**。这正是她后来为 Evelyn 做的事：**替一个人把一生的照片拼起来。**
-
----
-
-> **原句 10:** "I miss my dad. I miss him all the time. But it's moments like this, when I'm on the precipice of finally doing work that might just expand my heart, that I wish I could at least send him a letter, telling him what I'm doing."
+> **原句 8:** "I miss my dad. I miss him all the time. But it's moments like this, when I'm on the precipice of finally doing work that might just expand my heart, that I wish I could at least send him a letter, telling him what I'm doing."
 
 **中文理解**：我想我爸爸。我一直都在想他。但正是在这样的时刻——当我站在终于要做一件可能让我的心变大的工作的悬崖边——我希望至少能给他寄一封信，告诉他我在做什么。
 
@@ -139,8 +116,6 @@ modified: "2026-10-11"
 **为什么这样写**：作者用**"悬崖边"（precipice）**这个带危险感的词来写"终于要做对的事"的时刻——**她把这份工作同时感受为机遇与风险**。而"让我的心变大"（expand my heart）直接回扣父亲那句遗训，完成闭环。最后那句"我希望至少能给他寄一封信"（I wish I could at least send him a letter）把整章的物品叙事（相册、照片、名字）收束成一个**不可能的动作**：她要的不是安慰，是一次**汇报**。
 
 **读者视角提示**：本章最后一段（"我已经知道他会写什么。大概是'我为你骄傲。我爱你。'但我还是想收到一封。"）值得反复读。**全书的结尾，Evelyn 留给 Monique 的，某种意义上就是这样一封信。**
-
----
 
 ## 本章词汇
 
