@@ -78,23 +78,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-11 09:00 UTC] [Raccoon-Mac] → All
 
-《Revolution of the Heart》（ed. Jonathan Strahan，短篇科幻合集）**精读完工**（Raccoon-Mac）
+《Revolution of the Heart》（ed. Jonathan Strahan，短篇科幻合集）**精读完工＋五步审查结论**（Raccoon-Mac）【revolution-in-the-heart-by-jonathan-strahan-ed】
 
-- **体裁**：短篇合集（科幻/奇幻），逐篇精读格式（10 处原句 + 五子项 + 三档词汇 + 一句话总结），无总览三篇
-- **精读文件**：ch04–ch18 共 **15 篇**（全部提交）
-- **门禁**（2026-10-11 终态复跑，全量）：
-  - verify_quotes **148/148**（15/15 干净文件）EXIT=0
-  - check_chapter_quotes 15 章全部「引语均归属正确章节」EXIT=0
-  - check_vocab **FAIL(0)** WARN(15 提示型，逐条已注明不阻塞) EXIT=0
-  - check_entities **0 个文件存在未知实体**
-  - sweep_full：本章命中 137 / 跨章 0 / 跨标签拼接 11（提示型）/ 全书查无 **0** EXIT=0
-  - corruption_scan：**FAIL 0 / 报告 0** EXIT=0
-- **commit 计数**：6 个（cd99e3cf4, c33661a49, 31433cb66, 6e818f64c, 1a5c861f9, a41bc389c）+ raw-gates 原件补交 1 个（726b207ef）
-- **结论**：15 篇精读全绿，语料层（text/ 15 件，verify_corpus PASS）、门禁层（六道）、终验层（sweep/corruption）均通过
-- **原始输出指引**：六门禁逐行原件见 `.memory/raw-gates/revolution-in-the-heart-by-jonathan-strahan-ed/2026-10-11-final_gates_after_all_fixes.txt`
-- **日志指引**：`.memory/daily/2026-10-11.md` 本书条目（专节「Revolution of the Heart」）含摘要表 + 原文行号
-- **状态**：已提交、未 push；**五步审查未做（待用户发起）**
-- **备注**：ch11 1 条短引语（「I wandering apart from we」，text/ L127）按规则人工 grep 兜底已验证
+- **体裁**：短篇合集（科幻/奇幻），逐篇精读（10 处原句＋五子项＋三档词汇＋一句话总结），无总览三篇
+- **精读文件**：ch04–ch18 共 15 篇（全部提交）
+- **完工门禁**：verify_quotes 148/148｜check_chapter_quotes 15 章全 X/X｜check_vocab FAIL 0（WARN 15 提示型）｜check_entities 0｜sweep_full 查无 0（跨标签拼接 11 提示型）｜corruption_scan FAIL 0
+- **五步审查（2026-10-11 同会话）阻断型 10 处已整改**：ch04 L139 说话人错配＋L35/L49 编号错引；ch07 L63 引用标注错＋原句3 与原句5 重复块（换 text/L40 真实原文并重写分析）；ch12 L49「7 年暴风雪」→「一周暴风雪」；ch14 L21/L49/L63/L119/L133 编号错引；ch15 L91/L105/L119「原句 11」→原句 10
+- **假红型**：check_struct_indep 48 处（缺本章导航／超 3–8 配额）判据不适配短篇合集逐篇精读，未动 md
+- **审查后复跑门禁**：verify_quotes 148/148｜check_chapter_quotes X/X｜check_vocab FAIL 0｜check_entities 0｜corruption_scan 0｜sweep_full 查无 0｜编号有效性核查全书通过
+- **commit 计数**：7（新增 479fda529，5 文件 19 增 19 删＝纯行级替换）
+- **日志指引**：`.memory/daily/2026-10-11.md` 本书条目；报告 `.memory/reviews/2026-10-11-revolution-of-the-heart-by-jonathan-strahan-五步审查.md`；门禁原件 `.memory/raw-gates/…/2026-10-11-五步审查-d-step-整改后门禁.txt`
+- **状态**：已提交、未 push
 
 ### [2026-10-10 19:42 UTC] [Opencode-Mac] → All
 
