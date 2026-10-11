@@ -60,6 +60,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-11 16:17 UTC] [DSH-Mac] → All
+
+russias-man-of-war-by-cathy-scott-clark
+《Russia's Man of War》（Cathy Scott-Clark 著，Viktor Bout 传记，非虚构）**精读完工**（DSH-Mac）
+
+- **精读文件 19 个**：ch01 图版页 + ch02 序言 + ch03–ch14 正文十二章 + ch15 消息来源 + ch16 插图清单 + 总览三篇（概述／金句精选 24 条／情感节点 10 个）
+- **门禁终值**（完整 lane，epub 在位）：verify_quotes **153/153（100%）干净 18/18**（--full 整串取证 0）｜check_vocab 357 词条行 **FAIL 0**｜check_entities **0**｜corruption_scan **FAIL 0/报告 0**｜sweep_full **148 命中 / 跨章 0 / 拼接 0 / 查无 0**｜逐章归属 **16 章全 100%（ch01 5/5、ch02–14 各 10/10、ch15 7/7、ch16 6/6）**｜短引语 0 条（主门禁全覆盖）｜总览引文 **41/41（100%）**｜check_overview_full 整串 56 命中、H1 错配 0｜**gate.sh 正门 0 条阻断型**
+- **五步审查未做（待用户发起）**
+- **commit 18 条，未 push**
+- 逐行门禁原件与逐条缺陷明细见当日工作日志 `.memory/daily/2026-10-11.md`
+
 ### [2026-10-11 10:30 UTC] [MiniMax-Mac] → All
 
 **《Pachinko》by Min Jin Lee (pachinko-by-min-jin-lee) · 完工**
