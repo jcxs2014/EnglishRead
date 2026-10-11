@@ -1,0 +1,37 @@
+########## 五步审查 d 步：机械子项第二实现（*_indep.py）  2026-10-11 20:03 UTC
+
+########## [1] check_struct_indep.py（结构，第二实现）
+  ❌ ch61 chapter forty-two.md: [summary] 引语 1: 子项顺序错 ['中文理解', '为什么这样写', '关键词', '读者视角提示']
+  ❌ ch61 chapter forty-two.md: [summary] 引语 3: 子项顺序错 ['中文理解', '为什么这样写', '关键词', '读者视角提示']
+  ❌ ch62 chapter forty-three.md: [summary] 引语 1: 子项顺序错 ['中文理解', '为什么这样写', '关键词', '读者视角提示']
+=== 独立结构扫描：97 个 md，缺陷 3 处（另有提示型 0 条，不计入缺陷、不影响退出码）===
+exit=0
+
+########## [2] check_xref_indep.py（跨章引用，第二实现）
+=== chNN 引用 978 处：英文证据报警 0 处 ／ 中文式待人判 804 处 ／ 🔶 同章省略号拼接（提示，不判红）0 处 ===
+exit=0
+
+########## [3] check_analysis_indep.py（分析层行内英文，第二实现）
+抽出分析层英文片段 3269 条
+❌ 未命中 2 条：
+  ch10 chapter eight.md:106  sqeeze all the fame out of me
+      未命中词: ['sqeeze']
+  ch97 evelyn and me.md:31  trying to get out of clickbait
+      未命中词: ['clickbait']
+⚠️ 整串查无但每个词都在书里（拼接 **或改写冒充逐字**）15 条 —— 只报不判红，须人判：
+  ch02 chapter one.md:45  publicist Thomas Welch
+  ch05 chapter three.md:90  every penny will be yours
+  ch22 chapter seventeen.md:33  not really feel like they are yours
+  ch28 sub rosa.md:56  the decision had been made for me
+  ch37 chapter twenty-six.md:68  I wouldn't kick X out of bed
+  ch50 chapter thirty-three.md:56  We'll be married by the time the baby comes
+  ch70 chapter fifty.md:16  not that good together to begin with
+  ch84 chapter fifty-nine.md:55  a good head on one's shoulders
+  ch84 chapter fifty-nine.md:115  know that I have never stopped
+  ch88 chapter sixty-two.md:63  disappointed that vs disappointed in
+  ch91 chapter sixty-five.md:43  pin it on someone's chest
+  ch91 chapter sixty-five.md:91  who can give it to your dad
+  ch91 chapter sixty-five.md:115  the man who wrote the letter
+  ch93 chapter sixty-seven.md:79  he was never going to change
+  ch96 evelyn hugo legendary film siren has died.md:15  accidental overdose vs
+exit=0

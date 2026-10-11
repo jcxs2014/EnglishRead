@@ -13,7 +13,7 @@ modified: "2026-10-11"
 
 **Tropes 兑现/反转**：
 - 兑现：**"采访者被受访者治愈"母题在本章第一次真正落地**——**Monique 做出的决定，用的是 Evelyn 的语言**
-- 反转：**"失败的婚姻"母题在本章被重新定义**——**Evelyn 的婚姻是"失败"（failed），Monique 的婚姻只是"不合适"（not that good together to begin with）**
+- 反转：**"失败的婚姻"母题在本章被重新定义**——**Evelyn 的婚姻是"失败"（failed），Monique 的婚姻只是"不合适"（weren't that good together to begin with）**
 - 母题推进：**"other half"（另一半）母题在本章被明确化**——**David 的祝福是"someone who feels like the other half of you"，而 Monique 心里答的是"Like Celia."**
 
 **人物弧线**：Monique 在本章完成了全书对她最完整的一次刻画：**她不是一个被丈夫抛弃的受害者，她是一个用"不要失败"当理由留在错误关系里的人。** 作者让她自己把这个机制说穿：**"I don't want to fail at this. But that's not actually a great reason to stay together."**——**而这句话是全章最锋利的地方，因为它否定的不是 David，是她自己多年来的择偶标准。** 而她与 Evelyn 的关系在本章从"采访者"变成"学生"：**她引用的判断来自 Evelyn，她做出的选择也由 Evelyn 的句子推动**——**作者让这场采访在快结束时才显露出它真正的功能：不是写一本书，是换一种活法。** 而 David 在本章的弧线是**一个体面但没有激情的人**：**他不撒谎、不乞求、甚至给出"long-distance"的妥协方案**——**而作者让他的善意恰恰成为这段关系的问题所在：他从头到尾没有说过"我想你"。** 而 Evelyn 在本章只有几句台词，**但每一句都在推进节奏**：**她催 Monique 快走、她定下周五、她说"你会得到你的答案"**——**也就是说，她既是故事的讲述者，也是这场离婚的推动者。**

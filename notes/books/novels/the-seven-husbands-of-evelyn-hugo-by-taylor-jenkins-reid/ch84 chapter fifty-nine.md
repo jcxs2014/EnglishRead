@@ -52,7 +52,7 @@ modified: "2026-10-11"
 
 **关键词**：when she got into Stanford / I looked at her and realized / two feet placed firmly on the ground / her head squarely on her shoulders
 
-**为什么这样写**：**全章给 Connor 这条线的一次清算，而它用两个身体部位的比喻完成。** 作者让 **"when she got into Stanford"（当她考进斯坦福）**作为时间点：**Stanford 在本书里是一个符号——它是"另一个美国"，是 Hell's Kitchen 与 Hollywood 都到不了的地方**——**也就是说，Evelyn 一生往上爬的目标，她的女儿靠考试抵达了。** 而 **"I looked at her and realized"（我看着她，然后意识到）**这个顺序值得注意：**先"看"，后"意识到"**——**也就是说，这个结论不是想出来的，是看出来的。** 而 **"two feet placed firmly on the ground and her head squarely on her shoulders"**是两个英语习语的合体：**"both feet on the ground"（脚踏实地）与"a good head on one's shoulders"（头脑清醒）**——**作者把这两个习语都加了修饰（"firmly" / "squarely"）**——**也就是说，她要用双重副词确认这件事是真的。** 而 **"squarely"（端正地、不偏不倚地）**这个词与 **"square"（广场、方正）**同源：**它形容的是那种摆正了的、不歪的状态**——**也就是说，作者让 Connor 的健全用一个"正"字来定义。**
+**为什么这样写**：**全章给 Connor 这条线的一次清算，而它用两个身体部位的比喻完成。** 作者让 **"when she got into Stanford"（当她考进斯坦福）**作为时间点：**Stanford 在本书里是一个符号——它是"另一个美国"，是 Hell's Kitchen 与 Hollywood 都到不了的地方**——**也就是说，Evelyn 一生往上爬的目标，她的女儿靠考试抵达了。** 而 **"I looked at her and realized"（我看着她，然后意识到）**这个顺序值得注意：**先"看"，后"意识到"**——**也就是说，这个结论不是想出来的，是看出来的。** 而 **"two feet placed firmly on the ground and her head squarely on her shoulders"**是两个英语习语的合体：**英语里"脚踏实地"与"头脑清醒"两个习语**——**作者把这两个习语都加了修饰（"firmly" / "squarely"）**——**也就是说，她要用双重副词确认这件事是真的。** 而 **"squarely"（端正地、不偏不倚地）**这个词与 **"square"（广场、方正）**同源：**它形容的是那种摆正了的、不歪的状态**——**也就是说，作者让 Connor 的健全用一个"正"字来定义。**
 
 **读者视角提示**：请把这一句与 ch81 那句 "With her blond hair and her face thinning out, I was starting to fear that she looked more like me than Harry." 连读。**那一章 Evelyn 怕女儿像自己；本章她终于看见女儿长成了一个与自己不同的人——作者让"像我"这个恐惧被"站得稳"这个结论化解。**
 
@@ -112,7 +112,7 @@ modified: "2026-10-11"
 
 **关键词**：in love with you since 1959 / may not have always shown it / let other things get in the way / never stopped / never will
 
-**为什么这样写**：**全章的情感顶点，而它用一个年份锚定了整本书的时间。** 作者让 **"since 1959"（从 1959 年起）**——**1959 正是两人在 ch16 前后相识、并在 ch37 前后彼此确认的年份**——**也就是说，这句话把读者二十几章读过的所有争吵、错过、沉默，全部重新定义成"一直爱着"。** 而 **"I may not have always shown it, I may have let other things get in the way"** 是两次让步：**"may not have always shown it"（可能没有一直表现出来）与"may have let other things get in the way"（可能让别的东西挡了路）**——**也就是说，她在承认自己的退缩，而不解释原因。** 而 **"but know that"（但你要知道）**是全句的转折枢纽：**它把前半的让步与后半的断言分开**——**也就是说，作者让 Celia 在最后把"我做过什么"与"我是什么"分开。** 而 **"That I have never stopped. And that I never will."** 是两个以 **"That"** 起首的短句：**它们省略了主语与谓语（完整的说法是"know that I have never stopped"）**——**也就是说，这两句话在语法上是残句，而残句在这个位置显得更用力。** 而全句的语气是**清单式的**：**一个年份、两次让步、三个"that"**——**也就是说，作者让这段告白不像情话，像证词。**
+**为什么这样写**：**全章的情感顶点，而它用一个年份锚定了整本书的时间。** 作者让 **"since 1959"（从 1959 年起）**——**1959 正是两人在 ch16 前后相识、并在 ch37 前后彼此确认的年份**——**也就是说，这句话把读者二十几章读过的所有争吵、错过、沉默，全部重新定义成"一直爱着"。** 而 **"I may not have always shown it, I may have let other things get in the way"** 是两次让步：**"may not have always shown it"（可能没有一直表现出来）与"may have let other things get in the way"（可能让别的东西挡了路）**——**也就是说，她在承认自己的退缩，而不解释原因。** 而 **"but know that"（但你要知道）**是全句的转折枢纽：**它把前半的让步与后半的断言分开**——**也就是说，作者让 Celia 在最后把"我做过什么"与"我是什么"分开。** 而 **"That I have never stopped. And that I never will."** 是两个以 **"That"** 起首的短句：**它们省略了主语与谓语（完整的说法要把 know that 后面的主谓补回来）**——**也就是说，这两句话在语法上是残句，而残句在这个位置显得更用力。** 而全句的语气是**清单式的**：**一个年份、两次让步、三个"that"**——**也就是说，作者让这段告白不像情话，像证词。**
 
 **读者视角提示**：请回看本章原句 6 之前的那句"I don't think it works that way, sweetheart," she said. "And need I remind you, I'd be stealing my brother's wife."。**几分钟前她还在用笑话拒绝；此刻她把四十年的沉默压缩成一句话——作者让这场婚礼的誓词，是全书最完整的一段坦白。**
 

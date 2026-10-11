@@ -87,7 +87,7 @@ modified: "2026-10-11"
 
 **中文理解**：让他们付给你他们会付给一个白人男性的价钱。然后，等你拿到那笔钱，每一分钱都归你。
 
-**关键词**：what they would pay a white man / every penny will be yours
+**关键词**：what they would pay a white man / every penny from it will be yours
 
 **为什么这样写**：这是全章**最锋利也最复杂**的一句。Evelyn 给 Monique 的"慷慨"里嵌着一条种族薪酬的指令——她要 Monique 用白人男性的价码谈判。这句话同时完成三件事：① 点出 Monique 作为黑人/混血女性记者会面临的薪资歧视（呼应 ch02 的 biracial 自述）；② 展示 Evelyn 对"世界如何运作"的冷酷清醒；③ 把"给钱"从恩惠变成**一场政治性的训练**——Evelyn 不只是给她钱，是在教她如何向世界要价。
 
