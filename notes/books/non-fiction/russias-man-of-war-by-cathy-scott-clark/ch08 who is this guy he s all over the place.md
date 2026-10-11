@@ -93,7 +93,7 @@ modified: "2026-10-11"
 - **中文理解**：除了他的活动干扰了中情局自己的军火客户生意、压低了美国防务工业的价钱、又与美国情报资产争夺塞拉利昂钻石准入——布特并没有任何可证实的对美国的可信威胁。
 - **句子结构**：did not demonstrably pose any credible threat… other than the fact that… 排除式主句；that 从句内三个并列谓语（interfered with… undercut… competed with…），宾语各自精确：CIA's own client arms-dealing / the US defence industry / American intelligence assets。
 - **关键词**：`demonstrably`（可证实地）、`credible threat`（可信威胁——国家安全术语）、`undercut`（压价、抢生意）
-- **表达方式**：全章、也可能是全书最重要的判断句。作者用国家安全话语的三个标准词（demonstrable / credible / threat）反着使用它们——**逐项检验"威胁论"，只剩三条商业竞争事实**。
+- **表达方式**：全章、也可能是全书最重要的判断句。作者用国家安全话语的三个标准词（`demonstrably` / `credible threat` / 举证门槛）反着使用它们——**逐项检验"威胁论"，只剩三条商业竞争事实**。
 - **为什么这样写**：这是本书对美国追诉正当性的正面拆弹。它同时构成全书最危险的论点（第 7 章"可质疑处 1"已标记）：若布特只是竞争者，他的五百万死亡运输线如何安放？作者的平衡术是：法律层说美国动机不纯，事实层让 540 万与近百万发子弹持续在场——**两层都不许读者合上**。
 
 > **原句 8:** “If we simply turned them loose with my frequent flier miles and a hammer, they could take care of this,” she wrote in an email.

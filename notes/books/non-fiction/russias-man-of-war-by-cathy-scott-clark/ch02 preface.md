@@ -73,7 +73,7 @@ modified: "2026-10-03"
 - **中文理解**：当时对俄罗斯的敌意如此强烈，我反复掂量这趟行程会被外界怎么看——我会不会被扣上"普京辩护者"的帽子，或者被人拿来助推虚假信息。
 - **句子结构**：Such was the animosity… that… 结果倒装句起头（"如此……以至于"）；that 从句内 thought hard about 带两个并列宾语：how 从句与 whether 从句，whether 从句内再嵌 by going 插入语。
 - **关键词**：`animosity`、`labelled`、`Putin apologist`、`disinformation`
-- **表达方式**：把舆论风险具体化为两个可命名的标签（apologist / disinformation promoter），作者先替批评者把话说完——这是预防式写作。
+- **表达方式**：把舆论风险具体化为两个可命名的标签——"为普京辩护的人"与"助推虚假信息的人"（原文用了 apologist 一词，作者先替批评者把话说完），这是预防式写作。
 - **为什么这样写**：这句与下一句（前执法者的"震惊"）形成对照：媒体界怕"为普京说话"，执法界怕"为军火商说话"——布特同时触碰两道禁忌，这正是他"没人报道"的原因。
 
 > **原句 6:** Ten months down the line from the start of Putin’s “special military operation,” Biden pardoned Bout and even though America had once characterised him as “the world’s worst arms trafficker” the White House now concluded that he no longer posed a threat to national security.

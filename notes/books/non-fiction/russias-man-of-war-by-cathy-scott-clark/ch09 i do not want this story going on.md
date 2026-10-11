@@ -43,7 +43,7 @@ modified: "2026-10-11"
 > **原句 1:** The noose was tightening but Viktor Bout refused to accept it. Alla knew. “You can only hope the rope is rotten,” she reflected as her husband continued to service customers in Africa, old and new.
 
 - **中文理解**：绞索在收紧，但维克托·布特拒绝承认。阿拉心里清楚。"你只能希望绳子是朽的，"她这样形容——而她的丈夫当时仍照常服务他在非洲的老客户与新客户。
-- **句子结构**：作者句 The noose was tightening but… refused to accept it 用转折写两人对同一局势的分歧；引语 You can only hope the rope is rotten 是俄语谚语的直译（hope the rope is rotten：寄望于绳子朽断），作者保留 its metaphor 的完整形状；as 从句（continued to service customers, old and new）落在叙述层，给出阿拉所"知道"的现实。
+- **句子结构**：作者句 The noose was tightening but… refused to accept it 用转折写两人对同一局势的分歧；引语 You can only hope the rope is rotten 是俄语谚语的直译（寄望于绳子朽断），作者把这个比喻的完整形状保留下来；as 从句（continued to service customers, old and new）落在叙述层，给出阿拉所"知道"的现实。
 - **关键词**：`noose`（绞索）、`the rope is rotten`（绳子会朽——听天由命的谚语）、`service customers`（服务业措辞——本章的道德降级）
 - **表达方式**：本章开局把"追捕"压成一件具体的家史：丈夫不信、妻子用谚语接受、业务照常——service customers, old and new 这种客户经理口吻接在 noose 之后，形成惊悚的修辞摩擦。
 - **为什么这样写**：作者用阿拉的一句谚语预告全章（也是全书后半）的结构——**布特家族的 survival 理论建立在"对手也会出错/朽坏"的被动乐观上**。后文所有关键脱险（俄不引渡、阿联酋"客气劝退"、司法部拒诉）都是"朽绳"的一次次应验——但本章结尾（9/11 后）绳子将不再朽。
@@ -58,10 +58,10 @@ modified: "2026-10-11"
 
 > **原句 3:** “Would be good to be able to ensnare people like Butt in the US law enforcement web by criminalizing trafficking in blood diamonds,” wrote a frustrated Wolosky.
 
-- **中文理解**：沃洛斯基把布特称作"我们的朋友'蠢 Butt'"。"真希望能把'Butt'这类人套进美国执法之网——那就得把血钻石贸易定为犯罪，"焦头烂额的沃洛斯基这样写道。
+- **中文理解**："真希望能把'Butt'这类人套进美国执法之网——那就得把血钻石贸易定为犯罪，"焦头烂额的沃洛斯基这样写道。
 - **句子结构**：引语是 would be good to be able to… 的虚拟愿望句，主干 ensnare people like Butt in the US law enforcement web，后接 by criminalizing trafficking in blood diamonds 的动名词式法律想象；句末 wrote a frustrated Wolosky 由作者加于引语外。
 - **关键词**：`ensnare`（诱入罗网——本章的关键词！）、`criminalizing`（把……定为犯罪——立法性动词）、`blood diamonds`（血钻）
-- **表达方式**：作者用两封邮件让读者直接看见机器的内部语言：绰号与法律想象力并排。ensnare（设陷）一词在 2000 年的邮件里还只是"立法愿望"，到第 10 章将变成 DEA 的实际行动——本章埋的就是这个词。
+- **表达方式**：作者让读者直接看见机器的内部语言：一句写在官方往来里的"立法愿望"。ensnare（设陷）一词在 2000 年的邮件里还只是愿望，到第 10 章将变成 DEA 的实际行动——本章埋的就是这个词。
 - **为什么这样写**：这一处展示"追诉欲望"如何在系统内自我升格：从证据（充分）、到罪名（缺法）、到立法想象（ensnare）、到最后的圈套——**作者的意图是让读者看到"诱捕"不是阴谋论，而是公开邮件里的愿望清单**。
 
 > **原句 4:** “In order to appear more important in my eyes, this gentleman hinted to me that he was in constant communication with Washington and was relaying information there about himself and about Viktor Bout,” recalled Peleman.
