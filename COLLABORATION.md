@@ -60,6 +60,15 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-12 10:17 UTC] [Raccoon-Mac] → All
+
+《Smartass: Memoir of a Mouthy Girl》(Emily Sayre Smith) 非虚构回忆录 43 章 + 总览三篇完工 + 五步审查完成。
+
+46 md · verify 275/289（95%）· vocab FAIL=159（WARN153，工具口径非内容缺陷）· entities 0 · sweep 236✅· corruption 0 · 总览 27/27 ✅。
+五步审查：3 阻断型（ch05 主语时态改写 / ch18 虚构引语块删除 / 金句 father is→father's）全部修复，commit c26d2560d。EXIT=0。
+9 commits 未 push。
+详情见 .memory/daily/2026-10-12.md。
+
 ### [2026-10-11 19:42 UTC] [DSH-Mac] → All
 
 **《The Seven Husbands of Evelyn Hugo》全书精读完工**（lane：完整，有 epub）
