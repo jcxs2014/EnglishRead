@@ -283,7 +283,6 @@ source_text: ch50
 | pleats | 褶皱 | "their shining pleats of skin" |
 | bloom | 绽放 | "In the water, Lucy feels herself bloom." |
 | nourish | 滋养 | "she can feel the water nourish her" |
-| marvelling | 惊叹 | "marvelling at the webbed flesh" |
 | webbed | 带蹼的 | "marvelling at the webbed flesh" |
 | halo | 光环 | "her hair a dark, drifting halo" |
 | throbbing | 跳动的 | "throbbing pink and bright in time with the current" |

@@ -183,7 +183,6 @@ source_text: ch41
 | papery | 纸一样的 | "She lifted Aoife’s papery hand to her mouth and kissed it." |
 | foxglove | 毛地黄 | "Foxglove. It was growing on the cliffs" |
 | spectacle | 供观看的场面、景观 | "They had been ironed for the spectacle" |
-| portent | 征兆、预兆 | "some portent of her own suffering" |
 | ironed | 被戴上镣铐的 | "They had been ironed for the spectacle" |
 | braiding | 编（辫子） | "braiding it as if she was a maiden on her wedding day" |
 | gruff | 粗哑的 | "she heard one of them say, gruff voice carrying on the sea breeze" |

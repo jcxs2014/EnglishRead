@@ -440,7 +440,7 @@ source_text: ch38
 | tucked | 夹着、塞着 | "a bottle of wine tucked under one arm" |
 | flushed | 泛红的 | "Her cheeks were flushed, her short hair sticking up from her scalp in gold bristles" |
 | muscular | 肌肉般的、有力的 | "the muscular waves, the bursts of spray" |
-| vulnerable | 脆弱的、易受伤害的 | "the familiar vulnerability, a sense of being exposed" |
+| vulnerability | 脆弱、易受伤害 | "the familiar vulnerability, a sense of being exposed" |
 | inevitable | 不可避免的 | "inevitable as the tide" |
 | farmhouse | 农舍 | "the little farmhouse smelling of plum pudding and her parents’ fear" |
 | absent-mindedly | 心不在焉地 | "scratching absent-mindedly at a silvered patch of skin on her knee" |

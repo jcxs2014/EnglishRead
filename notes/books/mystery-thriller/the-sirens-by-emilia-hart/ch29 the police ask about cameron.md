@@ -186,7 +186,7 @@ source_text: ch29
 | pulsing | 跳动的 | "the male officer has a nerve pulsing above his eyebrow" |
 | darts | 疾窜 | "Dora Maar darts under the sofa in fear." |
 | veined | 带脉络的 | "The clouds are dense, veined and greenish" |
-| glint 族：gleaming | 发光 | "Washed up green and gleaming on some distant beach." |
+| gleaming | 发光的、锃亮的 | "Washed up green and gleaming on some distant beach." |
 
 ### ⭐ 基础
 

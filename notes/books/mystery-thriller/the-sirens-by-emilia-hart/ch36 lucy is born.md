@@ -456,7 +456,7 @@ source_text: ch36
 | earnest | 恳切的、认真的 | "His gaze was earnest beneath the knot of his forehead" |
 | scoop | 挖空、掏空 | "the look on his face scooped her out with shame" |
 | cement | 焊牢、凝固 | "to cement her ugliness in his heart" |
-| repulse | 使厌恶、推开 | "To say something that would repel him forever" |
+| repel | 使厌恶、推开 | "To say something that would repel him forever" |
 | inflamed | 发炎的 | "inflamed by worry" |
 | carcass | 兽尸 | "a sheep’s carcass she’d seen once with Max" |
 | ribcage | 胸腔、肋骨笼 | "the great arc of it like an exposed ribcage" |
@@ -470,9 +470,9 @@ source_text: ch36
 
 | 词汇 | 释义 | 例句 |
 |---|---|---|
-| wrap | 包裹 | "she wedged it back inside her diary" |
+| wedged | 塞进、卡入 | "she wedged it back inside her diary" |
 | ache | 渴望、隐痛 | "She ached for a glimpse of the coast" |
-| thread | 穿线、穿过 | "cutting through the drift of sea and sky" |
+| drift | 漂流、漂移 | "cutting through the drift of sea and sky" |
 
 ## 一句话总结
 
