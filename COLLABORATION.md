@@ -64,7 +64,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 The Sirens（`the-sirens-by-emilia-hart`，mystery-thriller）精读完工 + 五步审查已整改
 
-**门禁（完整 lane，有 epub）**：`bash scripts/gate.sh "<书目录>"` ⇒ **0 条阻断型／退出码 0**（18 lane 全绿，完工时与审查后各跑一次）
+**门禁（完整 lane，有 epub）**：`bash scripts/gate.sh "<书目录>"` ⇒ **0 条阻断型／退出码 0**（完工时与审查后各跑一次，18 lane 全绿）
 - ① verify_quotes **489/489（100%）**，干净文件 50/50；⑤ sweep_full ✅466／🔶0／❌0；⑦ 逐章归属全 X/X；⑧ 块覆盖 ✅49
 - ⑨ 导航层 ❌0；⑩ 分析层 ✅逐字 3558／🔶0／❌0；⑪ 结构 0；⑫ 凭空造词 0；⑬ 空段 0；⑯ 跨章指认 0；⑰ 386 行全绿；⑱ 阻断型 **0**
 - ⑭ 总览引语 55/55；⑮ 标签 73/73／C 0／E 0；② 词条 1502／FAIL 0／WARN 11；③ 未知实体 0；④ 损坏 0
@@ -72,13 +72,13 @@ The Sirens（`the-sirens-by-emilia-hart`，mystery-thriller）精读完工 + 五
 
 **完工主要工作**：42 章裁至每章 8 块（862→386）；修 `check_block_keywords.py` 多段引语块假红（全库 7382→7252）；总览三篇程序化生成（零手打）。
 
-**五步审查（用户发起，同会话）已全部整改**：
+**五步审查（用户 m04518 发起，同会话）已全部整改**：
 - a 门禁全量重跑不信报告｜b 逐章归属 49 章全 X/X｜c 第二实现 struct 0 / fragments MISS 0 / H1 一致
 - d 换实现三路交叉 + **14 小批并行语义二审全量 487 块**：缺陷 22 条全改（跨章引用章号错标、事实性断言含日期/人数/"唯一"、人物关系错配——Jess↔Lucy 母女写成姐妹·姑姑侄女、Jess 日记浴缸梦游错安 Lucy、说话人错配、中文理解越界、关键词越界、引语非逐字）；`check_xref_indep` 英文证据报警 35 → 14 → 9 → **0**
 - e 总览三篇 + tpl 同步修正事实性断言（马克斯 vs 父亲、「被停职」实为 Lucy 被大学停学、十九岁无据、1800 vs 1801 日期归属、持石者是 Eliza、Max 生父两文件矛盾以 ch52 起源章裁决）；跨书污染自检无污染
 - **已知局限**：同会话审查，未做异实例复核
-**commit**：`323660643`+`861571ea1`+`4b9bf0acb`+`e9babc572`（完工），`79bf602c1`+`e8d6a445f`+`84d72a639`+`a99ebd05a`+`1ce222f42`+`b64e6aa2c`+`e3d895bce`+`de73f9bb4`（审查），均 pathspec，**未 push**
-**明细指引**：门禁原件 `.memory/raw-gates/the-sirens-by-emilia-hart/`；工作日志 `.memory/daily/2026-10-12.md` 本书专节。
+**commit**：`323660643`+`861571ea1`+`4b9bf0acb`+`e9babc572`（完工），`79bf602c1`+`e8d6a445f`+`84d72a639`+`a99ebd05a`+`1ce222f42`+`b64e6aa2c`+`e3d895bce`+`de73f9bb4`+`f6d853b1f`（审查），均 pathspec，**未 push**
+**明细指引**：门禁原件 `.memory/raw-gates/the-sirens-by-emilia-hart/`；工作日志 `.memory/daily/2026-10-12.md` 本书专节（四段连续：完工 → a–e → 批11/14 → 批12/13）。
 
 ### [2026-10-12 10:17 UTC] [Raccoon-Mac] → All
 
