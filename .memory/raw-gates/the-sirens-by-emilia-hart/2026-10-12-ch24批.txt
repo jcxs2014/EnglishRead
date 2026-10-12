@@ -1,0 +1,57 @@
+# the-sirens-by-emilia-hart ch24 批门禁 2026-10-12（完整 lane）
+
+=== verify_quotes ===
+ch23 the lionfish drawing rescued.md: 39/39 ✅（另有 4 条短引语未校验）
+ch24 melody the shoebox and the drowned women.md: 55/55 ✅
+
+⚠️ 全书共 19 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 373/373 引文可核实（100%）；完全干净文件 21/21；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== check_vocab ===
+词条行合计: 347
+
+--- FAIL (0) ---
+
+--- WARN (6) ---
+  ch05 lucy remembers the video leak.md [基础] 基础档疑含超纲词「recognition」
+  ch11 melody feeds dora maar.md [基础] 基础档疑含超纲词「sightseeing」
+  ch13 jess phone and naiad.md [基础] 基础档疑含超纲词「padlocked」
+  ch14 jess diary the tongue test.md [基础] 基础档疑含超纲词「bickering」
+  ch19 jess confesses eliza to hennessey.md [基础] 基础档疑含超纲词「complaint」
+  ch24 melody the shoebox and the drowned women.md [基础] 基础档疑含超纲词「hollowness」
+
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== check_chapter_quotes ===
+⚠️  全书共 30 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 400，命中本章 400（100%）
+✅ 全部引语均归属正确章节
+
+=== corruption_scan ===
+  FAIL 0 处（U+FFFD / 双句号）
+
+=== sweep_full ===
+=== 引语整串 flat 比对（the-sirens-by-emilia-hart）===
+  参照集：text/ 逐章（52 章，可定章） + epub 交叉验证
+  ✅ 本章命中 373 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 19 条归 check_short_quotes；无章可对 0 条未判）
+
+=== sweep_analysis_inline ===
+=== 分析层行内英文逐字核查（the-sirens-by-emilia-hart）===
+  ✅ 逐字 1024 ｜ ⚠️ 跨章 107 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 142
+
+=== ch24 短引语人工兜底 14 条命中（'No.'为直撇误格，原文弯撇且非本章引语，无关）===
+=== check_short_quotes 全量：命中19 在别章0 拼接0 B类0 查无0（19条<20flat全过）===
+  ✅ 命中 19 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+=== B类跨篇裁决（ch22 belies）===
+flat整串查无→拆段取证：epub 全文 'belying' 1处（=ch22句内），'belies' 0处 ⇒ 词头改为原词形 belying（第5条 B类优先改用真实词形）。修复后 check_vocab FAIL 0
+
+=== 本轮阻断型自查 ===
+① 引语块🔶2处：原句7 用…删中间三句→补全整段（原文单段无缺）；原句25 …删'‘Melody continues…And'→整句逐字（含转述框架还原）
+② 分析层🟠10处逐字化（taking Jess→中文转述；slipped/she searches/facts would prevail/lost her virginity/voicemail/visiting/never really/got over it/who last saw——其中4处同时纠正误标ch16/ch18→实章ch20/ch16/ch24，grep -rl 回源）
+③ 结构笔误：两块内'中文理解（略）'占位行×2 删除；'Odyssey 在ch16'→ch11（grep 实章）
+④ virginity 双人物辨析注（Jess-Max ch23/Lucy-Ben ch16）写入块11 防混读
+=== ⚠️跨章 107 条：全部提示型合法互引（sweep口径不认中文句式指称；抽查ch24新增17条标注章=实章）===

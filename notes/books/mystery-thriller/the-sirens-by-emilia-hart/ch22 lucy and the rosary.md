@@ -172,7 +172,7 @@ source_text: ch22
 | cringes | 畏缩避开 | "She cringes away from the sun, her breathing ragged." |
 | slings | 甩上（肩） | "shoves her notebook into her bag and slings it onto her shoulder" |
 | lodged | 嵌入、卡住 | "Lucy imagines broken pieces of history lodged in the harbour’s seabed." |
-| belies | 掩饰、与…不符 | "The light sparkles on its surface, belying its murky depths." |
+| belying | （belly 的分词用法）掩饰、与…表象不符 | "The light sparkles on its surface, belying its murky depths." |
 
 ### ⭐ 基础
 
