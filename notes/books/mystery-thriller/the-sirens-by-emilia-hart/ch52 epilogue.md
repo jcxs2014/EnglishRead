@@ -26,7 +26,7 @@ source_text: ch52
   **……他的妻子有一副强壮的身体：结实的脚踝，更结实的髋部**。**如果你刻薄的话，可以说那是"宜生养的髋"。**
   **"浪费了，"他母亲死前说过。**
 - **关键词**：her hands had come to rest on the flat plane of her stomach / sturdy ankles, even sturdier hips / Childbearing hips, you might call them, if you were cruel / A waste, his mother had said before she died.
-- **为什么这样写**：**"平坦的小腹"（the flat plane of her stomach）是全章第一次直接写到 Judy 的生育失败**（后文 "A curve to her stomach … But there had been nothing." 是第二次）——**而它出现在 Robert 准备出门偷情的那个早晨**。**"如果你刻薄的话"（if you were cruel）——**叙述者主动把一句残酷的俗语标成残酷，**这是全书对"生育即女性价值"最直接的一次嘲讽**。**"浪费了"（A waste）独立成句且归于母亲之口**——**两代人对同一个女人的估价被压缩成三个词**。
+- **为什么这样写**：**"平坦的小腹"（the flat plane of her stomach）是全章第一次直接写到 Judy 的生育失败**（后文 「A curve to her stomach, a new heaviness to her shining breasts. But there had been nothing.」是第二次）——**而它出现在 Robert 准备出门偷情的那个早晨**。**"如果你刻薄的话"（if you were cruel）——**叙述者主动把一句残酷的俗语标成残酷，**这是全书对"生育即女性价值"最直接的一次嘲讽**。**"浪费了"（A waste）独立成句且归于母亲之口**——**两代人对同一个女人的估价被压缩成三个词**。
 - **读者视角提示**：**请注意："宜生养的髋"与 ch36 中 Jess 独自爬进洞中生产、把婴儿按在胸前的身体是同一种被物化的身体**。
 
 > **原句 2:** "Sometimes, he wasn’t sure why he kept coming back. But on certain nights he woke and dressed, his body acting almost of its own accord, dancing to some remembered song."
