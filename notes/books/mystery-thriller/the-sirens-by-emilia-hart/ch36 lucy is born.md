@@ -142,6 +142,7 @@ source_text: ch36
 
 - **中文理解**：根本不存在告诉 Hennessey 的可能——或者 Cameron，她心里还是这么叫他。等她知道的时候，他早就走了。
   「这样对我不安全，」他在一月末的一天说，就在画室那个阳光明媚的下午几周之后。「我不能留下。」
+- **关键词**：no question of telling Hennessey / as she still thought of him / long gone by the time she knew / not safe for me / I can’t stay
 - **为什么这样写**：**「她心里还是这么叫他」一句是全书对受害者的心理学最准确的一笔**：称呼没改，意味着**情感与事实并不同步**——她明知真相，仍用旧名。"It's not safe for me" 是本书对施害者语言最典型的一次呈现：**他把自己的逃跑说成受害**（不安全的是他）。"that sunlit afternoon in the studio" 用**阳光明媚**回指 ch32 那个下午——**本书写侵犯现场从不写阴暗**，而总是给它好天气。
 - **读者视角提示**：注意时间锚（late January / just weeks after），它把 ch32 的画室章与本章钉在同一条时间轴上；读者由此可以算出 Jess 独自承担的月数。
 
@@ -164,6 +165,7 @@ source_text: ch36
 
 - **中文理解**：她没有力气去哀悼失去他：她的日子全被**否认的工作**吞掉了——把体内那个越长越大的秘密藏起来。那份孤独的辛劳：悄悄在厕所里吐；坐车去 Bourke 做验孕，兜帽拉下来盖住脸；后来是超声波。在慈善商店里翻找最松最肥的衣服。还有那种持续不断的恐惧：真相正写在她身体新出现的斜线上，写在她眼下的阴影里。
   几个月里，她坐在餐桌对面，**知道他们的秘密，同时等着他们猜出她的**。
+- **关键词**：the energy to mourn his loss / the work of denial / vomiting quietly into the toilet / Taking the bus to Bourke / the new, sloping lines of her body / knowing their secret and waiting for them to guess hers
 - **为什么这样写**：**「否认的工作」被写成一份清单式的劳动**（吐、坐车、验孕、翻旧衣、怕影子）——本书对少女的孤独从不用形容词，只用**动作的密度**。"Taking the bus to Bourke" 的远途说明她要逃多远才能买一次验孕；"the new, sloping lines of her body" 把孕肚写成**字迹**（与她的画家身份呼应：她的身体在替她"写"真相）。末句是全章结构最狠的一句：**餐桌两侧同时藏着秘密，父母不知道女儿知道，女儿在等父母先开口**——这就是 ch33 母亲说"hoped I'd never have to hear that name again"的全部背景。
 - **读者视角提示**：请把这一句与 ch35 的 Lucy 读日记对读：**同一张餐桌的沉默，二十年后由 Lucy 一个人读完**。
 
@@ -176,6 +178,7 @@ source_text: ch36
 - **中文理解**：她学到，**对别人撒谎最容易的办法，是骗自己**。
   而她骗得多么彻底。她无视婴儿在她体内翻动，避开镜子，穿衣时避开低头看自己身体那轮**苍白的月亮**。
   除了夜里。夜里，屋里除了父母轻柔如潮的鼾声再无别的声音，她开始锁上浴室门、放满浴缸——水在窗外的月光下是蓝的。
+- **关键词**：lie to yourself / avoided mirrors / the pale moon of her body / the soft tide of her parents’ snores / the water blue in the moonlight
 - **为什么这样写**：**「对别人撒谎最容易的办法是骗自己」是全书引用率最高的一句，也是本章的题眼**：它解释了 Jess 与父母之间那场长达数月、双方都心知肚明的共谋。"the pale moon of her body" 把孕肚写成天体（月亮），与本章开头"ocean of her womb"同属一个宇宙比喻系统：**她的身体成了一片有潮汐、有月相的海**。"the soft tide of her parents' snores" 再次用潮汐写日常——**本书里连鼾声都是海**。"Except at night" 独立成段后接长句，是作者惯用的**开关式转折**。
 - **读者视角提示**：浴缸夜戏在 ch35 的 Lucy 线（ch32 浴室梦游）已有回响——**同一间浴室、同一缸水，姑姑用来藏身，侄女差点淹死**。
 

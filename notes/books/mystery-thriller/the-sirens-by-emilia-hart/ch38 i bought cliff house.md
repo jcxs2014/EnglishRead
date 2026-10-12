@@ -106,6 +106,7 @@ source_text: ch38
   她停住了。
   「没关系，」Melody 说，探身给 Jess 续上酒。「你不必说。我懂。我也失去过人。」
   Jess 不知道该怎么解释。**得到一个人，怎么也可能意味着失去她。**
+- **关键词**：one is me / started painting one thing / something else entirely / I’ve lost people, too / How gaining someone could also mean losing them
 - **为什么这样写**：**"一个是 我"里有空格**（原文排版断开）——**这个断裂本身就是本章的核心**：她画的是自己，又不是自己。"She'd started painting one thing and ended up painting something else entirely." 是全书对"自我认知被改写"最简洁的陈述（与 ch37 "some other girl, some other Mary" 同构）。**Melody 的"我也失去过人"是全书最动人的错位**：她失去的是被伤害前的自己，Melody 以为她说的是死亡。末句 "How gaining someone could also mean losing them." 以 How 开头独立成句——**本书的悖论句总是省略主句**，把无解留给读者。
 - **读者视角提示**：注意"她停住了"独立成段——**省略本身是本章最重要的标点**（Lucy 的生父、Cameron、Hennessey 都停在这个省略里）。
 
@@ -164,6 +165,7 @@ source_text: ch38
 
 - **中文理解**：然后是圣诞：小农舍里飘着李子布丁与父母的恐惧的气味。Lucy 盘腿坐着，心不在焉地挠**膝上一块泛银的皮**。一手叉子，一手手机，眼睛睁得老大，把《纽约时报》那篇关于韦恩斯坦的报道念给父母听。Jess 靠在厨房台边，**让自己保持在外**。如果 Lucy 注意到了，她什么也没说。
   「各位——听听这个，」Lucy 说，然后念了一段引文。「**操，这能做成很好的播客。**我想做的就是那个，我觉得。做播客。」
+- **关键词**：plum pudding and her parents’ fear / a silvered patch of skin on her knee / keeping herself separate / this would make a good podcast / Make podcasts
 - **为什么这样写**：**"李子布丁的气味与父母的恐惧"把节日与恐惧并列在同一句里**——本书写家庭从不写冲突，只写气味。"scratching absent-mindedly at a silvered patch of skin on her knee" 是**Lucy 身体变化的第一处明写**（与 ch33 挠膝、ch38 挠手腕同一条线）——**她在场，且正在变**，而满桌大人都没看见。"Fuck, this would make a good podcast." 用一句粗口承担 Lucy 的全部性格：**她与韦恩斯坦报道的并置，是本书对"揭露"这个主题最直接的自我指涉**——她将来要做的正是这件事。
 - **读者视角提示**：注意"Jess 保持在外，Lucy 没说什么"——**母女之间的沉默是双向的**；请记住那块"泛银的皮"，它是本章给出的第一个身体线索。
 

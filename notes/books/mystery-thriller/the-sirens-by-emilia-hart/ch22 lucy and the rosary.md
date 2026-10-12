@@ -29,7 +29,7 @@ source_text: ch22
 > "But her fingers brush carpet, then the cool of a tiled floor."
 
 - **中文理解**：Lucy 惊缩，身体猛地后仰。她朝身后摸索，手伸进「溪水」里找石头——找一样能当武器的东西。可她的指尖擦过地毯，然后是瓷砖地面的凉。
-- **关键词**：flinches / groping / into the stream for a rock / brush carpet / cool of a tiled floor
+- **关键词**：flinches / gropes behind her / into the stream for a rock / brush carpet / cool of a tiled floor
 - **为什么这样写**：动作先于认知的时间差是本段的全部：她的身体已在 1801 年的溪边战斗姿态里（找石头=Mary/Eliza 在水边的记忆库被激活——读者知道 Byrne 拿着石头逼近，ch21/ch05），而世界是 2019 的地毯。the stream 不加任何引导词地出现在她的动作描写里——叙述文法被通灵事件污染，本书的形式实验在最高潮处完成。
 - **读者视角提示**：核对：text/ch22 内 stream 一词在本书语境中此刻只属于 1801 线——读者比 Lucy 早一步意识到这是记忆渗漏。
 
@@ -143,7 +143,7 @@ source_text: ch22
 > "But she now feels certain that the answer is in Comber Bay."
 
 - **中文理解**：她不知道这一切怎么拼。Jess。失踪的男人们。Mary 和 Eliza。可她现在确信：答案在 Comber Bay。
-- **关键词**：doesn’t know how any of it fits together / three fragments / feels certain / the answer is in Comber Bay
+- **关键词**：doesn’t know how any of it fits together / Jess. The missing men. Mary and Eliza / feels certain / the answer is in Comber Bay
 - **为什么这样写**：收章的名词三连（人名/人群/人名）=三叠档案盒，之间没有任何介词——拼图句法直接呈现为「块」而非「图」。feels certain 与 ch20 的 They are real 一样是体感确认（feel 动词），本书从不用「知道」来结束一章——它只允许人物「感觉到确信」。答案在 Comber Bay：从 ch04 的「逃难地」到此处「档案目的地」，地名完成了它的语义反转。
 - **读者视角提示**：cliffhanger 边界（第 9 条 e）：本章终于此（tail 复核 text/ch22 末行即此句）；返程与周六（报警期限线）归 ch23，本章不引用其后。
 

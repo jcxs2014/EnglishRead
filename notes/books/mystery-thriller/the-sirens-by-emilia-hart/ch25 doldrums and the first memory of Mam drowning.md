@@ -112,7 +112,7 @@ source_text: ch25
 
 > **原句 10:** "The women were quiet, the stifling heat sucking their energy. Above deck, it seemed a different story: the timbers shook with frenzied steps, shouts and laughter slipping through the cracks. More than once they heard screaming, the scuffling of a fight. When the men came to deliver their rations, they carried with them the sweet stink of rum."
 >
-> - **中文理解**：女人们沉默着，闷热带走了她们的气力。甲板像另一个世界：木头被狂乱的脚步震得抖，喊叫与笑声从板缝里漏进来。不止一次，她们听见尖叫、斗殴的扭打声。男人下来发配给时，随身带着朗姆的甜臭。
+- **中文理解**：女人们沉默着，闷热带走了她们的气力。甲板像另一个世界：木头被狂乱的脚步震得抖，喊叫与笑声从板缝里漏进来。不止一次，她们听见尖叫、斗殴的扭打声。男人下来发配给时，随身带着朗姆的甜臭。
 - **关键词**：stifling heat sucking their energy / frenzied steps / slipping through the cracks / the scuffling of a fight / the sweet stink of rum
 - **为什么这样写**：船的两层=两套神经：下层吸能、上层放电（steps 发狂、laughter 漏缝）——船体像一具发低烧的身体，甲板上是谵妄。"sweet stink" 的矛盾形容：糖臭、烟甜、奶酸——本书的朗姆自 ch16（crammed them in too closely to make room for the rum he wanted to sell along the way）起就是「引力的甜味」，此处正式成臭。cracks（缝）是女囚唯一的感官窗——全书底舱的信息全部从缝里漏进来（光、声、rum），结构即命运。
 - **读者视角提示**："the scuffling of a fight" 与 ch11 Wilson 救婴前的「婴啼」构成声景对照：无风带把男人变成野兽、把婴儿声换成扭打声。

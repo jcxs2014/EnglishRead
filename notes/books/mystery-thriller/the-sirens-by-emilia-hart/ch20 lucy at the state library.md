@@ -180,7 +180,7 @@ source_text: ch20
 > "But it could be a possibility. An answer."
 
 - **中文理解**：她读下一期、再下一期——关于这场沉船再无只字，女幸存者是否被找到，没有任何记载。但这是一种可能性。一个答案。
-- **关键词**：the next edition and the next / no further mention / never located / a possibility. An answer
+- **关键词**：the next edition and the next / any further mention of the shipwreck / were ever located / a possibility. An answer
 - **为什么这样写**：档案沉默的推理术：「找不到」本身被找到——本书把「历史的缺档」处理为积极证据（与 ch16 海难无尸/无残骸同法）；两个短句的断句（possibility./answer.）是 Lucy 给自己设的谨慎双保险：先允许它是猜想，再给它答案的姓名——全章她第一次主动下注。
 - **读者视角提示**：这块是全书三线闭合的引线：Mary/Eliza「上岸后」的命运自此进入可检索状态——后文（Jess 线 ch33+/1800 线后部）沿此展开；本章不预支后续内容。
 

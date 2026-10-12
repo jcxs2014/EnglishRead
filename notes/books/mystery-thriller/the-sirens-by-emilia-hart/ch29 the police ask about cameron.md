@@ -8,12 +8,12 @@ source_text: ch29
 
 ## 本章导航
 
-- **一句话概括**：警察上门。Lucy 在开门前的三十秒里替 Jess 预演完了整套遗体的想象（"an animal rejecting its young"），进屋的两名警官却问出"Can we call you Jessica?"——虚惊翻转成更大的惊：**警方在找 Jess，理由是前男友 Cameron Hennessey 的车被发现弃在附近、两人「有多年亲密关系」、姐姐去向不明**。Lucy 当场说出人生第一次有意识的谎言（"No. Should it?"——她明知那本书就压在警的名片下），随后对真相的「心跳本能」又把她拉回诚实（over a year / Tuesday morning）。雨停前警官留下名片与一句「请她回来打电话」；Lucy 抠下脚趾的鳞皮，底下「发蓝发亮」，把 ch08 的初访现场（脏碗/尿迹）重读一遍——**"Like Jess had run away from – or with – someone."**
+- **一句话概括**：警察上门。Lucy 在开门前的三十秒里替 Jess 预演完了整套遗体的想象（"an animal rejecting its young"），进屋的两名警官却问出"Can we call you Jessica?"——虚惊翻转成更大的惊：**警方在找 Jess，理由是前男友 Cameron Hennessey 的车被发现弃在附近、两人「有多年亲密关系」、姐姐去向不明**。Lucy 当场说出人生第一次有意识的谎言（"No. Should it?"——她明知那本书就压在警的名片下），随后对真相的「心跳本能」又把她拉回诚实（她已一年多没见过姐姐、周二早晨才到）。雨停前警官留下名片与一句「请她回来打电话」；Lucy 抠下脚趾的鳞皮，底下「发蓝发亮」，把 ch08 的初访现场（脏碗/尿迹）重读一遍——**"Like Jess had run away from – or with – someone."**
 - **视角**：第三人称限知，锁定 Lucy；SATURDAY 16 FEBRUARY 2019 雨夜（紧接 ch28 末的敲门）。
 - **情感弧线位置**：全书从「私人调查」切入「公权力调查」的转轴章——警方视角首次为 Jess 失踪提供物理证据（弃车）与加害嫌疑人（Hennessey），同时把 Lucy 拖进共谋位置（她对警方隐瞒日记）。
 - **人物弧线**：Lucy 的「真相成瘾」首次遭遇立场冲突：**替 Jess 撒谎 vs 做诚实的证人**——她先撒（Should it?），再被本能拽回（instinct for the truth… beating hard as another heartbeat），最终交出一半真话；她开始用警察的眼睛重读自己住过的房子（crime scene / polluting evidence 的自省）。
 - **叙事手法**：问话体节奏（警官程式句 × Lucy 内心弹幕的双声道）；身体写诚实（神经跳动/舌涨缩/皮肤抠鳞——谎言与恐惧全部走自主神经）；「名片压在 Hennessey 书上」的静物调度贯穿收章。
-- **跨章核对（7b/第9条e）**：A Wave of Dreams 借书卡（C. Hennessey，text/ch11=md ch11）；初访现场（脏碗盘、床上盘子、尿迹，text/ch08=md ch08）；Melody「number two」（md ch11 首报，本章警方备案）；「over a year / Tuesday morning」对账 ch04（11 Feb 周二晨抵）。本章终于末行"Like Jess had run away from – or with – someone."（tail 复核），周日（报警热线、电话问父母）归 ch30。
+- **跨章核对（7b/第9条e）**：A Wave of Dreams 借书卡（C. Hennessey，text/ch11=md ch11）；初访现场（脏碗盘、床上盘子、尿迹，text/ch08=md ch08）；Melody「number two」（md ch11 首报，本章警方备案）；「已一年多未见姐姐 / 周二早晨抵达」的时间证词对账 ch04（11 Feb 周二晨抵）。本章终于末行"Like Jess had run away from – or with – someone."（tail 复核），周日（报警热线、电话问父母）归 ch30。
 
 ## 精读
 

@@ -44,12 +44,16 @@ source_text: ch52
 - **读者视角提示**：**请注意：砂粒与珍珠的关系，正是本书里"伤害—转化—美"的公式**（对照 ch38 的蛇蜕与画）。
 
 > **原句 4:** "As he descended the stone stairs, the moonlit sea gleaming in the distance, the guilt gradually ebbed away, replaced by a thrill in his stomach."
->
+
+- **中文理解**：当他走下石阶，月光下的海在远处闪光，**罪恶感渐渐退去，被胃里的一阵兴奋取代**。
+- **关键词**：descended the stone stairs / the moonlit sea gleaming in the distance / the guilt gradually ebbed away / replaced by a thrill in his stomach
+- **为什么这样写**：**这是全书对「加害者如何与自己相处」最短的一次回答**——罪恶感不是被辩解消掉的，是被**身体的兴奋**顶掉的（"replaced by a thrill"）。石阶是重复动作（他反复来），月光是浪漫化的背景：**作者把越界写成一次夜间的散步**，让读者先享受画面再意识到画面里的人是谁。
+- **读者视角提示**：请把这一句与 ch52 后面 Judy 的两次流产对读——**他下石阶时丢掉的那点罪恶感，正是后来他一生都不肯面对的东西**；这也解释了 ch38 里他为什么能对 Jess 说"你是她母亲"。
 > **原句 5:** "Sometimes, he wasn’t sure why he kept coming back. But on certain nights he woke and dressed, his body acting almost of its own accord, dancing to some remembered song."
 
 - **中文理解**：**当他走下石阶，月光下的海在远处闪光，罪恶感渐渐退去，被胃里的一阵兴奋取代。**
   **有时他不确定自己为什么一再回来**。**但在某些夜里他会醒来、穿衣，身体几乎不受自己控制，跟着一支记得的歌起舞。**
-- **关键词**：the guilt gradually ebbed away, replaced by a thrill in his stomach / his body acting almost of its own accord, dancing to some remembered song
+- **关键词**：he wasn’t sure why he kept coming back / woke and dressed / acting almost of its own accord / dancing to some remembered song
 - **为什么这样写**：**"罪恶感退去、被兴奋取代"（replaced by a thrill in his stomach）——**身体在这里接管了道德判断**。**"跟着一支记得的歌起舞"（dancing to some remembered song）——**"记得的歌"（some remembered song）把引诱写成记忆而非欲望：**他不是被勾走，是被叫回**。**这与 ch47 的"她必须记得、她必须相信"用的是同一个动词系统**。
 - **读者视角提示**：**请注意：全书凡"歌"皆属于塞壬**——**Robert 是唯一被歌叫走却没有变成鱼的男性**。
 

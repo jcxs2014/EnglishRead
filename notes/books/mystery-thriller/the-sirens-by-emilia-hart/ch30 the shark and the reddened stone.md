@@ -11,9 +11,9 @@ source_text: ch30
 - **一句话概括**：女囚们再次被带上甲板——不是葬礼而是庆典：水手钓上一头鲨鱼，吊在桅杆上。恐惧、辨认（Bridie 一句 "It's a shark, you eejits" 泄了全舱的气）、然后是整个 1800 线最大的闪回：**Byrne 之夜的完整真相**——Eliza 早已能凭 Da 的沉默「嗅」出收租日的来临；Byrne 的目光如何随 Mary 的身体变化而改变；Eliza 问「你有时候去哪儿了」；Samhain 溪边，"Hush. Someone is there." 之后——**Mary 被按在岩石上，是 Eliza 用一块染红的石头砸在 Byrne 骨上救了她**。随后姐妹分罪的对话（"It was the water that protected me. It's the water that makes us strong."），风暴降临，闪电里 Mary 看见自己的脚趾「发绿、带蹼」、皮肤「像覆了细小的鳞，像那条鲨鱼的」——下一道闪电，幻象消失。
 - **视角**：第三人称限知，锁定 Mary；甲板之夜（鲨）与 1799/1800 Samhain 之夜（袭击）双时空；风暴收章。
 - **情感弧线位置**：1800 线的总揭示章——ch05/ch06/ch12/ch21 悬了几十章的「stream 之夜到底发生了什么」在本章全数兑付；全书最大的性暴力场景以「差点失贞—石块救场」呈现，处理极其克制（then— 破折号截断）。
-- **人物弧线**：Mary 的「保护者」身份被彻底反转：**一直是 Eliza 在救她**（预测 Byrne、拉她回大地、致命一石）；「He ought to have taken Mary's sight instead」的自我否定与「I am weak. Not like you.」的自责，被 Eliza 的水之神学一句顶回。
+- **人物弧线**：Mary 的「保护者」身份被彻底反转：**一直是 Eliza 在救她**（预测 Byrne、拉她回大地、致命一石）；「He ought to have taken Mary’s instead.」的自我否定与「I am weak. Not like you.」的自责，被 Eliza 的水之神学一句顶回。
 - **叙事手法**：鲨鱼=镜像装置（银鳞/尾的弧线/人形传说——Mary 吃鲨肉的生理排斥=对 merrow 血统的排斥）；Byrne 的感官入侵三级（ breath before fingers）；袭击场景以 then—/破折号/「ordinary occurrence of nature」的三处留白完成「不写之写」；闪电=频闪摄影师，最后一格给出「webbed/shimmer」的身体幻象又立刻撤回——本书通灵与疯魔之间只隔一道光。
-- **跨章核对（7b/第9条e）**：「the pale blue of his foot」回 ch21 海葬水手（同章原文，正确）；「Hush. Someone is there.」逐字回 ch21 末 Eliza 警报句——**本章把 ch21 悬在警报上的场景补完**；「reddened stone」与 ch05 播客/ch06「wet thud of the rock against Byrne's skull」严丝合缝（本章给出持石者=Eliza）；「sperm of nature」句不引；「great grey hands」潮手与 ch07「white jaws」、ch22「icy but gentle」同族。本章终于 "But then, in the next burst of light, the illusion was gone."（tail 复核），风暴后续归 ch31。
+- **跨章核对（7b/第9条e）**：「the pale blue of his foot」回 ch21 海葬水手（同章原文，正确）；「Hush. Someone is there.」逐字回 ch21 末 Eliza 警报句——**本章把 ch21 悬在警报上的场景补完**；「reddened stone」与 ch05 播客/ch06「the wet thud of the rock against his skull」严丝合缝（本章给出持石者=Eliza）；「sperm of nature」句不引；「great grey hands」潮手与 ch07「white jaws」、ch22「icy but gentle」同族。本章终于 "But then, in the next burst of light, the illusion was gone."（tail 复核），风暴后续归 ch31。
 
 ## 精读
 

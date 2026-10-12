@@ -175,7 +175,7 @@ source_text: ch27
 >
 > It’s like some cord has been severed between my brain and my body. I’m watching my hand move across the page, watching the words spill out, but none of it – not my hand, not even my life – belongs to me."
 >
-> - **中文理解**：握笔的手看着不对劲，像外物。分叉的指甲。指间新厚起来的肉。
+- **中文理解**：握笔的手看着不对劲，像外物。分叉的指甲。指间新厚起来的肉。
   像大脑与身体之间有根缆绳断了。我看着手在纸上移动、看字淌出来，可没有一样是我的——不是我的手，甚至不是我的人生。
 - **关键词**：foreign somehow / split nails / thickening flesh / cord has been severed / watching my hand / belongs to me
 - **为什么这样写**：解离的机械论（cord severed）：ch21 梦游=身体自行其是，本章=身体被摘线遥控——**她的「通灵/梦游」在病理轴与叙事轴之间来回对表**（本书对此始终不给终审）。hand/word 的从属崩塌（not my life）是 unwanted 的形而上后果：不被拥有者，无法自存。spill（淌）写字的失禁——与 ch23 writhing 一脉：**书写在本线是症状，不是控制**。
@@ -200,7 +200,7 @@ source_text: ch27
 
 - **中文理解**：他坐在沙发上，电视亮着闪，音量调得那样低，他根本没在看。
   我从没注意过——他看起来多么惊惧不安。多么迷途。
-（前块已含） / sound turned so low / how haunted he looks / How lost
+- **关键词**：sound turned so low / how haunted he looks / How lost
 - **为什么这样写**：父亲的新读法：静音的电视=「假装在过正常日子」的道具，17 岁的女儿用她刚学的档案学读他。**「haunted」是全书最重的赦字**——她被流言害走的家、被谣言追到内陆改名，父亲是她的同居证人；haunted 一词同时回收全书的「鬼」定义（不是死者，是被未解之事常住的人，对照 ch16「the victims somehow immortal」）。
 - **读者视角提示**：本块与下块的 guilt→fury 连拍，构成「理解他」与「起诉他」的一秒切换——本书写受害者家属的恨从不匀速。
 
