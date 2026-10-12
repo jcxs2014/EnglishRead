@@ -253,7 +253,7 @@ source_text: ch31
   “也许。”……“我要是基督徒，也许该叫它上帝；可它一点不像我学过的任何神。我确定的只有两件事：一，它属于海——不是陆地，我的陆地。二，它感觉……是女性。”
 - **关键词**：I feel safe here / what Danny almost did to me / something protected me that day / Something – someone / whoever – or whatever / not the land, my land / it felt … female
 - **为什么这样写**：**全书神学的最终条款**：almost did（差点——法律无法命名的那一段）与 what happened（发生在他身上的——她不说死）被并列为「本该创伤」的两项，而她给出的反证是「保护」；**Something–someone 的双词悬停在物与格之间**（本书对塞壬始终不给定语：whoever–whatever 问句亦然）。"not the land, my land" 的破折号更正极重：她先说陆地（殖民产权），再撤回——**她的 land 是海**（母亲说的 sky was bigger 的地理认领）。末行 "it felt … female" 两词收束：**本书的神，至此被写成一位性别，而不是一个教**。
-- **读者视角提示**：对照 ch12 Da 的水之禁忌（水危险）——同一族水的两版神学：1800 父亲怕水取命 / 1981 水护走女人；Eliza 的「water makes us strong」（ch30）在本块完成跨 220 年的官方背书。
+- **读者视角提示**：对照 ch12 Da 的水之禁忌（水危险）——同一族水的两版神学：1800 父亲怕水取命 / 1981 水护走女人；Eliza 的「water makes us strong」（ch47）在本块完成跨 220 年的官方背书。
 
 > **原句 23:** "She thinks of the men who’ve disappeared from Comber Bay over the years. David Watts, who’d been suspected of his girlfriend’s death, but had never faced justice. Malcolm Biddy, whose disappearance had led to the discovery of a nationwide paedophile ring.
 >
