@@ -40,7 +40,7 @@ source_text: ch07
 > **原句 4:** "He wasn’t sorry for what he’d done, she realises now, but for the fact that he’d been caught. That, for a brief moment, she’d held his future in her hands."
 
 - **中文理解**：他不是对自己做过的事抱歉，她现在明白了，而是对「被抓住」这件事抱歉。原来有那么一小段时间，他的未来握在她手里。
-- **关键词**：not sorry for what he’d done / been caught / held his future
+- **关键词**：wasn’t sorry for what he’d done / been caught / held his future
 - **为什么这样写**：重读道歉信后的认知反转，句式用「not … but …」把介词宾语整体替换——sorry 的对象从「行为」移到「曝光」，一个字不骂完成对男式道歉修辞的解剖。后半句补刀：她意识到权力曾短暂在手，这为 ch04 的双手掐上他喉咙提供了无意识层面的注脚。
 - **读者视角提示**：回看 ch05 原句 Ben 信里 "I did not realise that I didn’t have your consent"——本章 "the wheedling self-justification"（她对他语气的判词）正是对那封信的追认。
 
@@ -55,7 +55,7 @@ source_text: ch07
 
 - **中文理解**：她想象海浪像舌头一样舔舐她，把她的肉剥光，直到她只剩白骨，白得发亮。也可能那是播客的缘故——想到那些失踪的男人，全部推定溺亡。但在这阵刺痛的恐惧里，还有一种奇异的吸引力。
 - **关键词**：lapping like tongues / stripping / a strange pull
-- **为什么这样写**：恐怖与诱惑同体：「tongues」把海浪写成有口舌的生物，「strip… until nothing but bone」的细密想象后立刻自我怀疑（or perhaps it's the podcast）——叙述者试图理性归因，但下一句承认「strange pull」，归因失败。这是 Lucy 对海的核心矛盾：致命，却被渴望。
+- **为什么这样写**：恐怖与诱惑同体：「tongues」把海浪写成有口舌的生物，「stripping her of flesh until she is nothing but bone」的细密想象后立刻自我怀疑（or perhaps it's the podcast）——叙述者试图理性归因，但下一句承认「strange pull」，归因失败。这是 Lucy 对海的核心矛盾：致命，却被渴望。
 - **读者视角提示**：注意她「怕海水接触皮肤」（银屑病）与「想靠近海」并存的生理矛盾——这为后文她的梦游与海的关联预埋身体性理由。
 
 > **原句 7:** "A dial tone, and then – alien-sounding against the roar of waves and distant calls of gulls – the electronic burst of a ringtone. It must be Jess’s phone, ringing from inside."
