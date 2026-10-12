@@ -29,7 +29,7 @@ source_text: ch13
 - **中文理解**：Lucy 睁开眼，只看见沉甸甸的黑——她以为自己没醒过来，还留在那里，在轰鸣的黑色船洞里。
 - **关键词**：darkness so heavy / it hasn’t worked / roaring black cave of the ship
 - **为什么这样写**：醒觉失败（failed awakening）的错觉句：「heavy」把黑暗物质化，「roaring black cave」把 ch09/12 的船底舱声景压缩成三词——2019 卧室与 1800 底舱在感知层已无法区分。叙事让两条时间线共用同一间「黑房间」。
-- **读者视角提示**：与 ch09 Mary「where her body ended and the darkness began」同构——姐妹级感官互文开始密集，本书的「共同黑暗」正在成为跨线通道。
+- **读者视角提示**：与 ch12 Mary「where her body ended and the darkness began」同构——姐妹级感官互文开始密集，本书的「共同黑暗」正在成为跨线通道。
 
 > **原句 3:** "There’s a circle of mist on the windowpane. As if she had stood there, nose pressed against the glass, looking down at the black sea."
 
