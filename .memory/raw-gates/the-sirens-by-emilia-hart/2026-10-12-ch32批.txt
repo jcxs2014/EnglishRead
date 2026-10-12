@@ -1,0 +1,46 @@
+# the-sirens-by-emilia-hart ch32 批门禁 2026-10-12（完整 lane）
+
+=== verify_quotes ===
+⚠️ 全书共 29 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 592/592 引文可核实（100%）；完全干净文件 29/29；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== check_vocab ===
+词条行合计: 483
+--- FAIL (0) ---
+--- WARN (8) ---
+
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== check_chapter_quotes ===
+⚠️  全书共 56 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 692，命中本章 692（100%）
+✅ 全部引语均归属正确章节
+
+=== corruption_scan ===
+  FAIL 0 处（U+FFFD / 双句号）
+
+=== sweep_full ===
+  ✅ 本章命中 592 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== sweep_analysis_inline ===
+=== 分析层行内英文逐字核查（the-sirens-by-emilia-hart）===
+  ✅ 逐字 1733 ｜ ⚠️ 跨章 211 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 264
+
+=== ch32 短引语人工兜底 ===
+[‘GG,’ he said.] => 1
+[I didn’t say it back.] => 1
+[Abandoned by the sea.] => 1
+[Why?] => 1
+[‘Nah,’] => 1
+[‘Don’t tell,’] => 1
+[I’ve never belonged here.] => 1
+[‘Jess, hi.’] => 1
+[Good, I thought.] => 1
+[‘Would you? Hurt me, I mean.’] => 1
+[‘No,’ he said.] => 1
+[Changing everything.] => 1
+[‘It made me think of you,’] => 1
+[He understands.] => 1
+[‘That’s awful,’] => 1
