@@ -26,8 +26,8 @@ source_text: ch52
   **……他的妻子有一副强壮的身体：结实的脚踝，更结实的髋部**。**如果你刻薄的话，可以说那是"宜生养的髋"。**
   **"浪费了，"他母亲死前说过。**
 - **关键词**：her hands had come to rest on the flat plane of her stomach / sturdy ankles, even sturdier hips / Childbearing hips, you might call them, if you were cruel / A waste, his mother had said before she died.
-- **为什么这样写**：**"平坦的小腹"（the flat plane of her stomach）是全章唯一一次直接写到 Judy 的生育失败**——**而它出现在 Robert 准备出门偷情的那个早晨**。**"如果你刻薄的话"（if you were cruel）——**叙述者主动把一句残酷的俗语标成残酷，**这是全书对"生育即女性价值"最直接的一次嘲讽**。**"浪费了"（A waste）独立成句且归于母亲之口**——**两代人对同一个女人的估价被压缩成三个词**。
-- **读者视角提示**：**请注意："宜生养的髋"与 ch36 中 Jess 被按在产床上的身体是同一种被物化的身体**。
+- **为什么这样写**：**"平坦的小腹"（the flat plane of her stomach）是全章第一次直接写到 Judy 的生育失败**（后文 "A curve to her stomach … But there had been nothing." 是第二次）——**而它出现在 Robert 准备出门偷情的那个早晨**。**"如果你刻薄的话"（if you were cruel）——**叙述者主动把一句残酷的俗语标成残酷，**这是全书对"生育即女性价值"最直接的一次嘲讽**。**"浪费了"（A waste）独立成句且归于母亲之口**——**两代人对同一个女人的估价被压缩成三个词**。
+- **读者视角提示**：**请注意："宜生养的髋"与 ch36 中 Jess 独自爬进洞中生产、把婴儿按在胸前的身体是同一种被物化的身体**。
 
 > **原句 2:** "Sometimes, he wasn’t sure why he kept coming back. But on certain nights he woke and dressed, his body acting almost of its own accord, dancing to some remembered song."
 
@@ -58,14 +58,14 @@ source_text: ch52
 
 - **中文理解**：**他渴望带她的一部分回家，好让自己觉得她还在身边**。**有一次，他从洞里回来，鼻子里还留着她的海腥味、皮肤上还记着她的鳞，他试着画她**。**但厨房桌上那些偷偷摸摸的涂鸦（他总是害怕 Judy 醒来）没能画出她的样子**。**他从来画不好人的脸**。**也许因为人的脸变得太快，也许因为他们本身一直在变**。**那就是他们的魔力，一种他抓不住的魔力**。**当 Robert 画一张人脸时，他觉得自己像把一只蝴蝶钉起来做标本**。**仿佛他取走了一样带着生命与美在颤动的东西，然后杀死了它。**
 - **关键词**：He longed to take some piece of her home / the furtive scribblings at the kitchen table / did not do her justice / their faces changed so much, or because they themselves were always changing / he felt as if he’d pinned a butterfly for study / something that flickered with life and beauty and killed it
-- **为什么这样写**：**"偷偷摸摸的涂鸦"（the furtive scribblings）与"害怕 Judy 醒来"（terrified… that Judy would wake）——**画画在本书里始终是一种背叛与藏匿的动作**（对照 ch38 Jess 的藏画）。**"把蝴蝶钉起来做标本"（pinned a butterfly for study）——**"画"在此被定义为**杀死**：**要留住一样活的东西，必须先把它弄死**。**而这一整段解释了三件事**：**为什么他画不了人、为什么他要画狮子鱼、以及为什么 ch23 的狮子鱼素描会出现在 Cliff House 的墙里**。
+- **为什么这样写**：**"偷偷摸摸的涂鸦"（the furtive scribblings）与"害怕 Judy 醒来"（terrified… that Judy would wake）——**画画在本书里始终是一种背叛与藏匿的动作**（对照 ch38 Jess 的藏画）。**"把蝴蝶钉起来做标本"（pinned a butterfly for study）——**"画"在此被定义为**杀死**：**要留住一样活的东西，必须先把它弄死**。**而这一整段解释了三件事**：**为什么他画不了人、为什么他要画狮子鱼、以及为什么 Lucy 日后会在 Cliff House 的墙上看见狮子鱼的画**（该画首现于 ch08 墙上的素描，ch23 是 Lucy 从垃圾桶把它救回）。
 - **读者视角提示**：**请注意："那就是他们的魔力"（That was their magic）中的"他们"是人**——**他把"人"也写成了会变形的物种**。
 
 > **原句 6:** "The tide brought water rushing into the cave, and there she was, her body wreathed in foam. Later, he would pick over his memory for signs. A curve to her stomach, a new heaviness to her shining breasts. But there had been nothing."
 
 - **中文理解**：**潮水涌进洞里，她就在那里，身体裹在泡沫里**。**后来他会反复翻检记忆找迹象**。**腹部的一点弧线，闪亮的乳房新添的沉坠**。**可当时什么都没有。**
 - **关键词**：her body wreathed in foam / he would pick over his memory for signs / A curve to her stomach, a new heaviness to her shining breasts. But there had been nothing.
-- **为什么这样写**：**"裹在泡沫里"（wreathed in foam）与 ch50 中 Max 被 "wreathed in silver and white"（裹在银白里）是同一个分词**——**泡沫与银白都是水的形状**。**"后来他会反复翻检记忆"（he would pick over his memory for signs）——**用将来时写一个已经发生的事后追悔**。**"可当时什么都没有"（But there had been nothing.）——**读者知道 ch51 里 Judy 的"平坦小腹"与这里"腹部的一点弧线"是同一条线索的两端。
+- **为什么这样写**：**"裹在泡沫里"（wreathed in foam）与 ch50 中 Max 被 "wreathed in silver and white"（裹在银白里）是同一个分词**——**泡沫与银白都是水的形状**。**"后来他会反复翻检记忆"（he would pick over his memory for signs）——**用将来时写一个已经发生的事后追悔**。**"可当时什么都没有"（But there had been nothing.）——**读者知道本章前段 Judy 的"flat plane of her stomach"（text/ch52_epilogue.txt:23）与这里"腹部的一点弧线"是同一条线索的两端。
 - **读者视角提示**：**请注意：怀孕的迹象在两处被写出来**——**一处是人的（Judy 的平坦），一处是鱼的（她的弧线）**。
 
 > **原句 7:** "When the inevitable happened again, something inside Judy seemed to die, too.
@@ -76,7 +76,7 @@ source_text: ch52
   **……她在床上离他远了些**。**她话很少，长时间散步，望远镜用带子挂在脖子上，宁可让鸟做伴**。**她回来时，双脚在瓷砖上留下细沙的微光**。**他半带希望地想，她是不是也有一个像那个洞一样的地方，一个她去遗忘的地方。**
 - **关键词**：the inevitable happened again / something inside Judy seemed to die, too / her binoculars slung on a strap around her neck, preferring the birds for company / her feet left shimmers of sand on the tiles / He wondered, half hoping, whether she had a place like the cave
 - **为什么这样写**：**"不可避免的"（the inevitable）——**作者用一个形容词吞掉了具体的流产事件，**而"再次"（again）说明这已不是第一次**。**"宁可让鸟做伴"（preferring the birds for company）——**Judy 从妻子退成一个观察者**，**而"望远镜"（binoculars）正是观察的工具**。**"双脚留下细沙的微光"（shimmers of sand on the tiles）——**沙子是她去了海边的证据，**而 Robert"半带希望"地盼她也有一个自己的洞**：**他盼她也出轨，好减轻自己的罪**。**这是全书对一个丈夫最不留情的一次心理描写**。
-- **读者视角提示**：**请注意：全书有两个人用望远镜看海**——**Judy 与 Lucy**（ch35 崖上远望）。
+- **读者视角提示**：**请注意：全书唯一一次望远镜属于 Judy**（ binoculars 只在本章出现）；ch35 的 Lucy 只站在崖梯上远望，没有望远镜。
 
 > **原句 8:** "Afterwards, in the back of the ambulance, Robert stared down at the damp bundle in his arms.
 >
@@ -92,7 +92,7 @@ source_text: ch52
   **她完美无缺，他当时就知道，他永远不会让她走。**
 - **关键词**：the damp bundle in his arms / so blue they were almost black, like the deepest part of the ocean / the skin between her fingers webbed / Silver shimmered around the lobes of her ears / Something burst open in his chest. / She was perfect, and he knew then that he would never let her go.
 - **为什么这样写**：**"湿漉漉的襁褓"（the damp bundle）——**一个被从水里捞出来的婴儿，**而她此后一生都在被叫做"从水里救回来的孩子"**。**三处身体标记（蓝到发黑的眼睛／指间的蹼／耳垂的银光）**——**这就是 ch26 中 Jess 即"从水里捞回来的孩子"（被唤作 Baby Hope）的生物学证据**，**而作者把它放在全书最末**。**"他胸中有什么东西炸开了"（Something burst open in his chest）——**全书唯一一次用"炸开"写爱**。**"他永远不会让她走"（he would never let her go）——**末句与 ch51 的"你属于我"（You belong to me）互为镜像：**一个说永不放手，一个说你属于我，两句话都出自"占有"，而一句是罪，一句是承诺**。
-- **读者视角提示**：**请注意：全书的最后一个动作是"抱着不放"**——**而 ch48 中 Jess 的第一个动作是"把你抱在怀里"**：**母女两代在同一片水域完成了同一次拥抱**。
+- **读者视角提示**：**请注意：全书的最后一个动作是"抱着不放"**——**而 ch36 中 Jess 的第一个动作是"pressed the tiny body to her chest"**：**母女两代在同一片水域完成了同一次拥抱**。
 
 ## 本章词汇
 

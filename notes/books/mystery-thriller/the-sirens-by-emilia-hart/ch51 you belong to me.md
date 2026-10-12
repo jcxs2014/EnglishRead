@@ -67,15 +67,15 @@ source_text: ch51
 
 - **中文理解**：「**会好的，**」她说。「**再说，如果要有人紧张，那也该是我。我就要第一次正式见到我的亲生父亲了。**」
 - **关键词**：It’ll be OK / if anyone should be nervous, it’s me / I’m about to meet my real father properly for the first time.
-- **为什么这样写**：**"第一次正式见到"（properly for the first time）——**"正式"（properly）这个词承担了全部的重量**：**他们见过无数次，但从未以真实的身份见过**。**"亲生父亲"（my real father）——**全书终于给出结论：**Max 是 Lucy 的生父**（ch48 只是 Lucy 的推论，此处由 Lucy 亲口确认）。
-- **读者视角提示**：**请注意：这句话是 Lucy 说的，不是叙述者的判决**——**生父问题到此由当事人落定**。
+- **为什么这样写**：**"第一次正式见到"（properly for the first time）——**"正式"（properly）这个词承担了全部的重量**：**他们见过无数次，但从未以真实的身份见过**。**"亲生父亲"（my real father）——**这是 Lucy 的**自言自确认而非书的判决**：ch48 里那只是她的推论（Jess 对 Hennessey 的问题「猛烈地摇头」，Lucy 于是「所以一定是 Max」），且全书从未给出 Max 是生父的血缘证据；反倒是 ch52 起源章点明 1982 年从海中抱回婴儿的是 Robert Wilson（即后来的 Mike Martin = Jess 的生父 ⇒ Lucy 的外祖父），Max 只是 Lucy 的养父。
+- **读者视角提示**：**请注意：这句话是 Lucy 说的，不是叙述者的判决**——**「正式见到」落定的是相认的仪式，不是血缘**。
 
 > **原句 7:** "Afterwards, as the night air dries her skin, she will sit here, on the veranda, and she will write. Of all the things they see in the shifting depths, where the Naiad lies broken on the ocean floor. The rusted ribs of chains, the rotted planks of the berths. Here a rosary, there the brass disc of a coin. And all around, the green silt of bones."
 
 - **中文理解**：**之后，当夜里的空气把她的皮肤吹干，她会坐在这里，在门廊上，写作**。**写她们在变幻的深处看见的一切，在那里 Naiad 号破损地躺在海底**。**锈蚀的锁链肋骨，腐烂的床铺木板**。**这里一串玫瑰经，那里一枚硬币的黄铜圆片**。**而四周全是骨头的绿色淤泥。**
 - **关键词**：she will sit here, on the veranda, and she will write / where the Naiad lies broken on the ocean floor / The rusted ribs of chains, the rotted planks of the berths / Here a rosary, there the brass disc of a coin / the green silt of bones
 - **为什么这样写**：**"她会写作"（she will write）用将来时，把本章推向未来**——**而这是全书第一次有人要"写下"这个故事**。**"锁链的肋骨"（The rusted ribs of chains）与"床铺的木板"（the rotted planks of the berths）——**沉船被写成一副骨架**。**"玫瑰经与硬币"（a rosary… the brass disc of a coin）——**信仰与流通货币并置，是女囚生前的两样随身之物**。**"骨头的绿色淤泥"（the green silt of bones）——**全书的最后一个意象：**尸体归于绿，而绿是海的颜色**。
-- **读者视角提示**：**请注意：玫瑰经在 ch21 是 Jess 放在枕下的信仰**——**同一件物品在水下沉了两百年**。
+- **读者视角提示**：**请注意：玫瑰经在 ch21 是 Da 交给 Eliza 保管的旧物**——**同一件物品在水下沉了两百年**。
 
 > **原句 8:** "The crunch of tyres on gravel. Lucy’s heart jolts. She knows they should go inside. But she wants one more moment, standing here and looking out at the water, Jess’s body warm against hers. Just the two of them.
 >

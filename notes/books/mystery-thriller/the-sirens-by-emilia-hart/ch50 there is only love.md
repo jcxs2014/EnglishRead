@@ -96,7 +96,7 @@ source_text: ch50
   **她的父亲，那个把她的第一个词记在他至今珍藏的笔记本里的人**。**那个在她迈出最初、犹疑的步子时牵着她手的人**。**那个两次把她从海里拉起来的人——因为他想保护她、想让她安全。因为他无法忍受放手。**
 - **关键词**：the blank, open eyes, the blood lifting itself in ribbons from his head / In the hands, outstretched and limp, trembling with the current / But she also sees her father. / who recorded her first word in a notebook that he treasures, even now / Who held her hand in his own when she took her first, uncertain steps / Who pulled her from the sea – twice / Because he could not bear to let her go.
 - **为什么这样写**：**"但她也看见她的父亲"（But she also sees her father.）独立成段**——**一个 "But" 完成全书的宽恕**。**三个 "Who" 排比**（记录第一个词／牵第一步／两次救她）——**全是父亲的日常动作，不是英雄行为**。**"两次"（twice）——**第一次是 ch36 她把 Lucy 生在水里，第二次是她自己（或 Lucy）？**作者只给数字，不给解释**。**"无法忍受放手"（could not bear to let her go）——**与 ch48 Jess"从不想要你像我一样"构成两组爱的形态：**一个不放，一个放**。
-- **读者视角提示**：**请注意：这段把 Max 从"偷走孩子的人"重新定义为"父亲"**——**而全书从未确认他是生父**：**他的父亲身份是行为上的，不是血缘上的**。
+- **读者视角提示**：**请注意：这段把 Max 从"偷走孩子的人"重新定义为"父亲"**——**全书从未给出他是生父的血缘证据**（ch51:70 那句"my real father"只是 Lucy 自己的确认）；真正的血缘裁决在 ch52：1982 年从海中抱回婴儿的是 Robert Wilson（= Mike Martin，Jess 的生父），Max 是 Lucy 的养父。
 
 > **原句 8:** "And Jess is kicking hard, catching him around his waist and pushing him up, up, up, towards light and air.
 >
