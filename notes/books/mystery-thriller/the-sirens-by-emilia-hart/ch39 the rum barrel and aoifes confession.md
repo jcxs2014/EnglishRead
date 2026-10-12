@@ -17,21 +17,14 @@ source_text: ch39
 
 ## 精读
 
-> **原句 1:** "It was Bridie who first suggested that they break into one of the rum barrels on the prison deck. They were all so thirsty. Some of the women had tried to drink the bilge water, only to add the contents of their stomachs to the mess that swirled and frothed around them."
-
-- **中文理解**：是 Bridie 头一个提议，去撬开囚舱里的一只朗姆酒桶。她们都太渴了。有的女人试过喝舱底的污水，结果只是把自己的胃里的东西也添进那摊打着旋、泛着沫的秽物里。
-- **关键词**：It was Bridie who first suggested / break into one of the rum barrels on the prison deck / They were all so thirsty / tried to drink the bilge water / add the contents of their stomachs to the mess / swirled and frothed around them
-- **为什么这样写**：**本章以"提议者"开篇**（It was Bridie who…），把集体行动写成一个人的一句话——**本书写反抗从不写组织，只写谁先开口**。"bilge water"（舱底污水）与 "the contents of their stomachs" 构成一个闭环：**喝下去的东西又回到那摊东西里**；"swirled and frothed" 两个动词让秽物自己动起来——**囚舱里唯一"活"的东西是脏水**。
-- **读者视角提示**：注意"太渴了"是本书 1801 线的持续主题（ch34 "not enough to drink"）——**水在陆上是惩罚，在海里是恩赐，这是全书最核心的反讽**。
-
-> **原句 2:** "Mary would never have thought that she would hanker for rum, for the drink that fouled the sailors’ breath and yellowed their teeth. But she had begun to crave something that would dull her mind, turn her thoughts from her memories of Mam. From the changes to her body and what they might mean. The webbed flesh between her toes, the new shine to her skin, the tender ridges on her neck. She had become a creature she did not know."
+> **原句 1:** "Mary would never have thought that she would hanker for rum, for the drink that fouled the sailors’ breath and yellowed their teeth. But she had begun to crave something that would dull her mind, turn her thoughts from her memories of Mam. From the changes to her body and what they might mean. The webbed flesh between her toes, the new shine to her skin, the tender ridges on her neck. She had become a creature she did not know."
 
 - **中文理解**：Mary 从没想过自己会馋朗姆——那种把水手的呼吸弄臭、把他们的牙齿染黄的酒。可她开始渴望有什么能**让她的脑子变钝**，把念头从 Mam 的记忆上移开。从她身体的变化、以及这些变化可能意味着什么上移开。**脚趾间带蹼的肉、皮肤新的光泽、颈上柔嫩的凸起。她变成了一个自己都不认识的生物。**
 - **关键词**：would never have thought that she would hanker for rum / fouled the sailors’ breath and yellowed their teeth / crave something that would dull her mind / turn her thoughts from her memories of Mam / From the changes to her body and what they might mean / The webbed flesh between her toes / the new shine to her skin / the tender ridges on her neck / She had become a creature she did not know.
 - **为什么这样写**：**三个身体特征被排成一列且不带任何评价**（蹼、光泽、凸起）——**本书判定"变化"从不用形容词，只列事实**。"hanker"（馋、念念不忘）是本书对欲望最日常的一个词，**而她馋的是水手喝的酒**（与她身份的对立）；"dull her mind" 把酗酒写成麻醉而非享乐——**这是 1801 线对 2019 线 Jess 三天一瓶酒的最早呼应**。"She had become a creature she did not know." 与 ch37 "some other girl, some other Mary" 同构：**变化的核心是自我不认识**。
 - **读者视角提示**：注意"颈上柔嫩的凸起"（ridges）与 ch36（Jess 独自生产那一章）里 Lucy 摸下颌时发现"ridges gone"是同一种身体标记——**母女三代共用一处解剖细节**。
 
-> **原句 3:** "It took three days and nights to prise a nail from the barrel, the women taking it in turns with pruned fingers.
+> **原句 2:** "It took three days and nights to prise a nail from the barrel, the women taking it in turns with pruned fingers.
 >
 > At last, they yanked the nail free and a ribbon of liquid burst from a tiny crack in the wood. They lapped at it with their tongues, desperate as cats."
 
@@ -41,48 +34,21 @@ source_text: ch39
 - **为什么这样写**：**"三天三夜"与"一根钉子"的比例本身就是本书对囚禁的计量单位**；"pruned fingers"（泡皱的手指）一个形容词交代了全程泡在水里的处境。"a ribbon of liquid burst" 用 ribbon（丝带）形容酒——**本书最美的比喻总是用在最脏的地方**；"desperate as cats" 的明喻把她们降到动物层面，**与本章末 Wright 查桶、与 ch37"像挑牛一样"构成一条动物链**。
 - **读者视角提示**：注意"轮流"——**这是女囚之间唯一一次真正意义上的合作**，而它由酒而非苦难促成。
 
-> **原句 4:** "Bridie tore off a strip of her smock and pressed it tight against the hole so that the fabric turned dark. She leaned over Aoife and squeezed the fabric so that a few sweet drops might fall onto her lips. Mary never thought she’d see the day when Aoife would accept a gift from Bridie, the woman she’d called Sasanach whore. But the long, dark weeks had smoothed away the roughness between them, like water carving rock."
-
-- **中文理解**：Bridie 撕下罩衫的一条，紧紧按在孔上，布条变深了。她俯身凑到 Aoife 上方，挤那块布，好让几滴甜的东西落到她唇上。Mary 从没想过会看见这一天——**Aoife 会接受 Bridie 的礼物，那个被她叫作"Sasanach whore"（英格兰婊子）的女人**。可漫长黑暗的几周把她们之间的粗粝磨平了，**像水凿石头**。
-- **关键词**：Bridie tore off a strip of her smock / pressed it tight against the hole so that the fabric turned dark / squeezed the fabric so that a few sweet drops might fall onto her lips / accept a gift from Bridie / the woman she’d called Sasanach whore / the long, dark weeks had smoothed away the roughness between them / like water carving rock
-- **为什么这样写**：**这一段的全部动作都是"挤"与"滴"**——**在最匮乏的时刻，分享以滴计算**。"Sasanach whore" 是全书唯一一次出现爱尔兰语对英格兰人的蔑称，**作者不解释、不翻译**（读者从语境自明）；"like water carving rock" 用水的意象收束人际变化——**本书的和解与侵蚀共用同一套比喻**（水既是救命也是毁灭）。
-- **读者视角提示**：注意 Aoife 与 Bridie 的对立（爱尔兰人／英格兰人）是本书 1801 线的政治底色；**本章让 Aoife 后来替 Bridie 认罪，正是这次"几滴酒"的偿还**。
-
-> **原句 5:** "When it was Mary’s turn, she coughed as the liquid burned through her. The rum took her mind to a place she had not been before, but somehow recognised. It might have been the future, or a past so old it was not her own. There was a cave, the walls dark red and curved in the shape of a woman’s body. She was wet and in pain, frightened. But there was magic, too: the sound of a child crying, a warm bundle pressed to her chest. She looked into eyes as dark as the kelp on the shores of Ard na Caithne; tiny fingers clasped her own. Her breasts – her whole body – ached."
+> **原句 3:** "When it was Mary’s turn, she coughed as the liquid burned through her. The rum took her mind to a place she had not been before, but somehow recognised. It might have been the future, or a past so old it was not her own. There was a cave, the walls dark red and curved in the shape of a woman’s body. She was wet and in pain, frightened. But there was magic, too: the sound of a child crying, a warm bundle pressed to her chest. She looked into eyes as dark as the kelp on the shores of Ard na Caithne; tiny fingers clasped her own. Her breasts – her whole body – ached."
 
 - **中文理解**：轮到 Mary 时，酒烧过她，她咳了起来。朗姆把她的心带到一个**她没去过、却不知怎么认得出**的地方。那也许是未来，也许是一个古老到不属于她的过去。**那里有一个洞穴，壁是暗红的，弯成女人身体的形状。**她又湿又痛、害怕。可也有魔法：**孩子的哭声、贴在胸口的温暖的一包**。她望进一双眼睛，**黑得像 Ard na Caithne 岸边的海藻**；小小的手指攥住她的。她的胸——她整个身体——都在疼。
 - **关键词**：the liquid burned through her / a place she had not been before, but somehow recognised / It might have been the future, or a past so old it was not her own / There was a cave, the walls dark red and curved in the shape of a woman’s body / She was wet and in pain, frightened / But there was magic, too: the sound of a child crying, a warm bundle pressed to her chest / eyes as dark as the kelp on the shores of Ard na Caithne / tiny fingers clasped her own / Her breasts – her whole body – ached.
 - **为什么这样写**：**"没去过却认得出"是全书处理时间最准的一句**——**它不是预知，是身体记忆**（与 ch38 "she carries some kind of strange knowledge" 完全同源）。**洞穴的壁"弯成女人身体的形状"把空间写成母体**（对照 ch36 的 "It looked like a mouth, or maybe a womb"）；**"孩子的哭声、胸口的暖包、海藻般黑的眼睛、攥住她的小手、疼的胸"五项全是触觉与听觉**——**作者让预言以体感形式发生，而非画面**。这段与 ch36 的洞穴生产逐项对应，是本书最重要的一次两百年叠印。
 - **读者视角提示**：请把这一段与 ch36 中 Jess 在洞穴里生产的场景并读——**同一个洞穴、同一种疼、同一个孩子的位置**；本书从此再没解释过这种叠印，也不需要解释。
 
-> **原句 6:** "She slipped in and out of the dream, so that some moments she clung to emptiness, or woke not to the child’s cry but to the keening of the waves, a longing pulsing through her."
+> **原句 4:** "She slipped in and out of the dream, so that some moments she clung to emptiness, or woke not to the child’s cry but to the keening of the waves, a longing pulsing through her."
 
 - **中文理解**：她在梦里出出进进，所以有些时刻她抓着的只是空，或者醒来时听见的不是孩子的哭，而是**浪的哀号**——一股渴望在她体内搏动。
 - **关键词**：slipped in and out of the dream / clung to emptiness / woke not to the child’s cry but to the keening of the waves / a longing pulsing through her
 - **为什么这样写**：**"clung to emptiness"把幻觉的消失写成一次失去**（她抓的是空，也是抓）；"keening"（哀号、哭丧）是爱尔兰传统中**为死者而唱的哭歌**——**本书用同一个词同时指浪与丧歌**（ch34 女囚合唱亦属此系）。"a longing pulsing through her" 的 pulse（搏动）与她的脉搏、与海浪同频——**渴望在本书里是一种生理节律**。
 - **读者视角提示**：注意"孩子"在幻觉里始终没被看见，只有声音与触感——**本书从不给 Lucy 一个婴儿的正面形象**。
 
-> **原句 7:** "She thought of the day she’d got her first blood, how Da had said she was a woman now. She remembered the village women, the way they carried their swollen bellies in front of them. How she had longed to join them one day, to bring a babe of her own into the world.
->
-> The gouges in her neck burned, the strangeness of her body taunting her."
-
-- **中文理解**：她想起她第一次来血的那天，Da 怎样说她现在是女人了。她记得村里的女人们，记得她们把胀大的肚子挺在身前走的样子。她曾多想有一天也加入她们，把自己的孩子带到世上。
-  颈上的沟痕在烧，**身体的怪异在嘲弄她**。
-- **关键词**：the day she’d got her first blood / how Da had said she was a woman now / the village women, the way they carried their swollen bellies in front of them / she had longed to join them one day / to bring a babe of her own into the world / The gouges in her neck burned / the strangeness of her body taunting her
-- **为什么这样写**：**"你现在是女人了"是全书最温柔也最残忍的一句父权语言**：它既是承认也是规训（对照 ch37 她想象"像挑牛一样"被挑走）。**"挺在身前的肚子"是本书对女性共同体最具体的一次描写**——而她被排除在外。"taunting her"把身体写成主动的嘲弄者：**不是她不接受身体，是身体在羞辱她**。
-- **读者视角提示**：注意"沟痕"（gouges）——本章用的是最重的那个词（gouge＝凿出的槽），比 ch37 的 slits 更暴力；**她对同一处伤口的命名在变**。
-
-> **原句 8:** "If she lived – if they made it to New South Wales and were not punished for their oddness, their unnaturalness – would she one day have a child? Was her body, with all its changes, even capable of such a thing? Perhaps the child would be sickly, malformed in some way. Poisoned by her womb.
->
-> And what kind of mother would she make, she who had no mother of her own?"
-
-- **中文理解**：如果她活着——如果她们到了新南威尔士、没有因为她们的怪异、她们的不自然而被惩罚——她会有一天有孩子吗？**她这样的身体，带着所有这些变化，还做得到这样的事吗？**也许孩子会病弱、以某种方式畸形。**被她的子宫毒坏。**
-  而一个自己没有母亲的人，会做成什么样的母亲？
-- **关键词**：if they made it to New South Wales / punished for their oddness, their unnaturalness / would she one day have a child? / Was her body, with all its changes, even capable of such a thing? / Perhaps the child would be sickly, malformed in some way / Poisoned by her womb / And what kind of mother would she make, she who had no mother of her own?
-- **为什么这样写**：**"毒坏"（poisoned）是全书最重的一次自我定罪**：她把自己的身体判定为毒源——**与 ch38 Jess"怕自己的触摸会伤到她、传染她"完全同构**（两百年、两位母亲、同一种恐惧）。**末句以反问收尾，且用 she who had no mother of her own 的同位语结构**——**本书的句法在此模仿宿命**：提问本身已经包含了答案。
-- **读者视角提示**：这一句是本书对"母职恐惧"最完整的表述，**而它出自一个 1801 年的女囚**——作者拒绝把这种恐惧写成现代人的专利。
-
-> **原句 9:** "Even if she were to have a child, she would first have to marry and take a man into her bed. When they arrived in New South Wales, she knew, they would be taken to the female factory, where a settler would pluck them from a line as if he was buying an animal at market. She would be wife or servant, perhaps both.
+> **原句 5:** "Even if she were to have a child, she would first have to marry and take a man into her bed. When they arrived in New South Wales, she knew, they would be taken to the female factory, where a settler would pluck them from a line as if he was buying an animal at market. She would be wife or servant, perhaps both.
 >
 > It would not be like Da, meeting Mam by the shore."
 
@@ -92,7 +58,7 @@ source_text: ch39
 - **为什么这样写**：**"妻子或仆人，也许两者都是"是对殖民婚姻制度最冷的一句定义**——它把两种身份压成同一种占有。**"像在市场买牲口"与 ch37 的"像挑牛"是同一比喻的复现**（作者有意让她两次想到同一件事，说明这念头缠着她）。**末句以父母的相遇收束**——那是本书唯一一次被写成美好的男女相遇（海边、平等），**而它恰好无法复制**；这句也是全书对"水"最温柔的一次使用：**水让他们相遇，也带走了 Mam**。
 - **读者视角提示**：注意她想象中的父母相遇与 ch30 里实际描写的相遇对读——**她记得的版本比真相美**，这是本书写记忆的第一条规则。
 
-> **原句 10:** "She did not tell Eliza of these thoughts, of how the future frightened her.
+> **原句 6:** "She did not tell Eliza of these thoughts, of how the future frightened her.
 >
 > After all, her sister would not understand. She already knew how to be different."
 
@@ -102,24 +68,14 @@ source_text: ch39
 - **为什么这样写**：**"她已经知道怎么与众不同"是全章对姐妹关系的判词**：Eliza 接受变化，Mary 抗拒——**同一个身体事件在两人身上产生相反的自我认知**（对照 ch37 Eliza 说"这不是病"）。**本书的姐妹从不是同盟，而是同一种命运的两个版本**；"did not tell" 是 Mary 的固定动作（ch37 她也不肯听）。
 - **读者视角提示**：注意"frightened her"与 ch37 末句 "She could not bear to." 呼应——**Mary 的心理动词一直是"怕"与"不肯"**。
 
-> **原句 11:** "They drained the entire barrel of rum before they were discovered. It was Wright who realised, bringing their rations for the first time in two days. She saw him pause after he unlocked the bulkhead, the lantern swinging from his fist, tasting the new sweetness in the air. His eyes travelled over the women, some of whom slept soundly for the first time in weeks, cradled by the rocking of the waves; some of whom smiled and sang, as if they no longer knew where they were. He stepped over the sleeping bodies and began to check the barrels. Soon enough he came to the one they had split open and sucked dry like a summer fruit. Mary felt Eliza begin to shake beside her."
+> **原句 7:** "They drained the entire barrel of rum before they were discovered. It was Wright who realised, bringing their rations for the first time in two days. She saw him pause after he unlocked the bulkhead, the lantern swinging from his fist, tasting the new sweetness in the air. His eyes travelled over the women, some of whom slept soundly for the first time in weeks, cradled by the rocking of the waves; some of whom smiled and sang, as if they no longer knew where they were. He stepped over the sleeping bodies and began to check the barrels. Soon enough he came to the one they had split open and sucked dry like a summer fruit. Mary felt Eliza begin to shake beside her."
 
 - **中文理解**：她们在被发现之前喝空了整桶酒。是 Wright 先察觉的——两天来头一次送口粮。她看见他打开舱门后停住，**灯笼在拳头上晃着，他尝出了空气里那股新的甜味**。他的目光扫过女人们：有的几周来头一次睡得沉，被浪的摇晃当成摇篮；有的笑着唱歌，好像已经不知道自己在哪儿。他跨过睡着的身体去查桶，很快走到那只被她们撬开、**像夏日水果一样吮干**的桶前。Mary 感觉 Eliza 在身边开始发抖。
 - **关键词**：They drained the entire barrel of rum before they were discovered / bringing their rations for the first time in two days / the lantern swinging from his fist / tasting the new sweetness in the air / His eyes travelled over the women / slept soundly for the first time in weeks, cradled by the rocking of the waves / some of whom smiled and sang, as if they no longer knew where they were / sucked dry like a summer fruit / Mary felt Eliza begin to shake beside her
 - **为什么这样写**：**"他尝出了空气里的甜味"是最经济的一次侦破**——**用嗅觉而非视觉破案**（对照 ch37 全靠触觉）。**两种醉态被并列**（沉睡／唱歌）——**她们在被发现的这一刻才最像人**；"cradled by the rocking of the waves" 用摇篮动词写囚船，**本书的残酷总带着温柔的语法**。"sucked dry like a summer fruit" 与前文"ribbon of liquid"同属美食比喻——**作者让饥渴的人用食物的语言描述酒**。
 - **读者视角提示**：注意"Eliza 开始发抖"——**她怕的不是惩罚，是有人要替她们受罚**（她比 Mary 更早知道会发生什么）。
 
-> **原句 12:** "Wright left and returned with two officers and the captain, whose cheeks were flushed with rage. When he spoke, his voice was so loud that the sleeping women startled awake, and the drunken singing died to whimpers of terror. Mary was surprised that such a strong voice might come from such a small man.
->
-> ‘Who is responsible for this?’"
-
-- **中文理解**：Wright 离开，带回来两名军官和船长，船长的脸气得发红。他开口时，声音大得把睡着的女人惊得醒过来，醉歌在恐惧的呜咽里死掉。**Mary 惊讶：这么小的一个人，怎么会有这么强的声音。**
-  「**这是谁干的？**」
-- **关键词**：the captain, whose cheeks were flushed with rage / his voice was so loud that the sleeping women startled awake / the drunken singing died to whimpers of terror / such a strong voice might come from such a small man / ‘Who is responsible for this?’
-- **为什么这样写**：**"这么小的一个人，这么强的声音"是本章唯一的幽默，也是全书对权力最准的一次观察**——**权威在本书里从不来自体格，只来自位置**（与 ch30 的 Wright、ch37 的殖民制度同系）。"the drunken singing died to whimpers of terror" 一句完成全场的情绪反转，**而作者不写任何一个女人害怕的表情，只写声音**。
-- **读者视角提示**：注意船长问的是"谁干的"，而下一段给出的答案是**一个谁也没料到的人**——本书的转折一贯由一次认罪完成。
-
-> **原句 13:** "The bunk above her creaked, and she squeezed her eyes shut, not wanting to hear Bridie’s confession, not wanting to think on what might become of her friend.
+> **原句 8:** "The bunk above her creaked, and she squeezed her eyes shut, not wanting to hear Bridie’s confession, not wanting to think on what might become of her friend.
 >
 > ‘I am. I am responsible.’
 >

@@ -16,14 +16,7 @@ source_text: ch43
 
 ## 精读
 
-> **原句 1:** "At some stage Mary must have fallen asleep, lulled by the movement of the waves and the murmurs of the other women’s prayers. She woke to darkness, solid against her skin: no light filtered through from the upper decks. There was nothing but the burn of the water on her body, the heave and creak of the ship as it bucked and fell. The hush of four score women breathing, the occasional whimpered cry and prayer."
-
-- **中文理解**：某个时刻 Mary 一定睡着了，**被浪的晃动和别的女人祈祷的低语哄着**。**她在黑暗中醒来，那黑暗实实地贴着她的皮肤：上层甲板一丝光也透不下来。** 除了**水在她身上的灼痛**、**船起伏颠簸时的隆起与吱嘎**，什么都没有。**八十个女人的呼吸发出嘘声，偶尔有一声呜咽或一句祈祷。**
-- **关键词**：lulled by the movement of the waves and the murmurs of the other women’s prayers / She woke to darkness, solid against her skin / no light filtered through from the upper decks / the burn of the water on her body / the heave and creak of the ship as it bucked and fell / The hush of four score women breathing / the occasional whimpered cry and prayer
-- **为什么这样写**：**全章以"黑暗贴着皮肤"开篇**——**这一句把 ch41 结尾的行刑余波（"Only fury, building in her like a song."）转换成感官剥夺**：**她再也看不见，只能感觉**。"four score women"（八十个女人）是**全书唯一一次给囚舱规模一个数字**——**一个把 Aoife 的死缩到极小的量词**。
-- **读者视角提示**：注意"no light filtered through from the upper decks"——**上层是英国人的世界，下层是她们的世界**；**本章全部发生在下层，而光只在 Aoife 死后才"漏"进来**（见原句 4）。
-
-> **原句 2:** "And then, another sound. One soft, high note followed by another, rising and rising.
+> **原句 1:** "And then, another sound. One soft, high note followed by another, rising and rising.
 >
 > Eliza, singing a caoineadh, a lament.
 >
@@ -36,7 +29,7 @@ source_text: ch43
 - **为什么这样写**：**"rising and rising"（越来越高）与 ch41 末句 "Only fury, building in her like a song." 直接接续**——**上一章是愤怒像歌，这一章愤怒变成挽歌**。**caoineadh 是爱尔兰特有的哭丧歌**，**作者不翻译而直接给出名词再补 "a lament"**——**保留语言本身作为文化标记**。**"It could not be true, could it?" 用一个反问代替叙述**：**她拒绝相信，而歌声已经证明**。
 - **读者视角提示**：注意"caoineadh"——**本书里"唱"一贯是女性的力量**（ch34 女囚合唱、ch36 生产时的歌、ch41 的 fury）。
 
-> **原句 3:** "Mary reached over the sleeping bodies of Bridie, Sarah and Annie, searching for Aoife’s hand. It was cold and limp. With her other hand she reached for Eliza, joining her own voice to her sister’s song.
+> **原句 2:** "Mary reached over the sleeping bodies of Bridie, Sarah and Annie, searching for Aoife’s hand. It was cold and limp. With her other hand she reached for Eliza, joining her own voice to her sister’s song.
 >
 > Aoife was dead. The captain had killed her."
 
@@ -46,14 +39,7 @@ source_text: ch43
 - **为什么这样写**：**"越过睡着的身子去找手"是全章最安静的动作，而它确认的是死亡**——**本书的死亡一律由触觉确认**（对照 ch37 她摸颈上的缝）。**"Aoife was dead. The captain had killed her."两句各四个词，主谓宾齐整**——**判决书式的短句**，**而"船长杀了她"在书面上是事实陈述，不是比喻**（ch41 的二十鞭确实要了她的命）。
 - **读者视角提示**：**这是全书第一次由叙述者明确指控一个人是杀人者**；**而它的宾语是那个上一章刚刚被鞭打的老妇人**。
 
-> **原句 4:** "When morning came, they turned Aoife gently onto her back, smoothing the hair from her face. The thin blades of light made her features look younger, and Mary wondered if perhaps she wasn’t quite so old as she had thought. Perhaps, if she’d led a different sort of life, the forehead would always have been so unclouded, the mouth always so unlined."
-
-- **中文理解**：天亮后，**她们轻轻把 Aoife 翻过来，拂开她脸上的头发**。**细刃般的晨光让她的五官看起来更年轻**，Mary 想，**也许她并不像自己以为的那么老**。**也许，如果她过的是另一种人生，那额头本会一直这样无云，那嘴本会一直没有皱纹。**
-- **关键词**：they turned Aoife gently onto her back, smoothing the hair from her face / The thin blades of light made her features look younger / perhaps she wasn’t quite so old as she had thought / if she’d led a different sort of life / the forehead would always have been so unclouded, the mouth always so unlined
-- **为什么这样写**：**"细刃般的光"（thin blades of light）把晨光写成刀**——**同一章里"刃"既照人也割人**。**"无云的额头、无皱纹的嘴"用的是虚拟语气（would always have been）**——**作者让她为一个死去的老妇人设想一种没有发生过的人生**：**这是本书最温柔的一次反事实写作**。
-- **读者视角提示**：注意"另一种人生"——**这正是 Aoife 在 ch41 自白里对 Mary 说的"你还有机会"的镜像**：**年轻人有选择，老妇人只剩被追认的假设**。
-
-> **原句 5:** "A trembling rose through Mary’s body, all the way from her toes to the very tips of her fingers. It was the first time that she had touched the dead body of someone she had loved.
+> **原句 3:** "A trembling rose through Mary’s body, all the way from her toes to the very tips of her fingers. It was the first time that she had touched the dead body of someone she had loved.
 >
 > But she knew what ought to be done."
 
@@ -63,41 +49,14 @@ source_text: ch43
 - **为什么这样写**：**战栗的路径"从脚趾到指尖"与 ch37 她身体变化的路径完全一致**（"her fingers and toes were knitting themselves together"）——**同一条身体通路，一次是变形，一次是哀悼**。**"可她知道该做什么"是一句把悲痛压回去的转折**——**本书人物的悲伤永远被礼节打断**。
 - **读者视角提示**：注意"她爱过的"（she had loved）——**Aoife 不在她的血缘里，而在她的爱里**；**这是全书对"家人"最宽的一次定义**。
 
-> **原句 6:** "If they had candles, they would be lit. If there were curtains, they would be drawn. They would wash the body, dress it in fine linen. Decorate it, even, with garlands of flowers. Aoife deserved all of this, and more.
->
-> But here, in the prison deck, they had nothing, not even a proper shroud to cover her. She would be wrapped in an old sail, and sent to the blue deep of the ocean."
-
-- **中文理解**：**如果有蜡烛，她们会点上。如果有帘子，她们会拉上。她们会替她洗身、给她穿上细麻衣。甚至用花环装点她。** Aoife 配得上这一切，还有更多。
-  **可在这里，在这层囚舱里，她们什么都没有，连一块能盖住她的像样的裹尸布也没有。** 她将被裹进一张旧帆，**被送进大海的蓝色深处。**
-- **关键词**：If they had candles, they would be lit. If there were curtains, they would be drawn. / They would wash the body, dress it in fine linen. Decorate it, even, with garlands of flowers. / Aoife deserved all of this, and more. / here, in the prison deck, they had nothing, not even a proper shroud to cover her / She would be wrapped in an old sail, and sent to the blue deep of the ocean.
-- **为什么这样写**：**三个"如果……就会……"的条件句构成一份办不到的葬礼清单**——**作者用语法本身写出匮乏**：**全部是虚拟语气，没有一句发生**。**"配得上这一切，还有更多"是本段唯一一次评价**，**而它立刻被"什么都没有"抹掉**。**"大海的蓝色深处"是本书第一次把海写成坟墓**。
-- **读者视角提示**：注意"细麻衣"（fine linen）与"花环"——**这是 1801 年爱尔兰式的葬礼规格**，**而它在这艘船上完全缺席**；**她们唯一能给的仪式是水与歌**。
-
-> **原句 7:** "They did what they could. The five of them pooled what remained of their water, tipping the rust-smelling dregs onto Aoife’s face and body, gently brushing the grime from her skin. Bridie closed the older woman’s eyes, revealing the lids, thin and blue as eggshells. They folded her arms over her chest, the limbs moving stiffly now, as death took its hold."
-
-- **中文理解**：**她们做了能做的。** 五个人把剩下的水凑在一起，**把那带着铁锈味的渣倒到 Aoife 的脸上和身上，轻轻擦去她皮肤上的污垢**。**Bridie 替这位年长的女人合上眼，露出那眼皮，薄而青，像蛋壳。** 她们把她的手臂交叠在胸前，**四肢此刻僵硬地动着，死亡已经攫住了她。**
-- **关键词**：They did what they could. / pooled what remained of their water, tipping the rust-smelling dregs onto Aoife’s face and body / gently brushing the grime from her skin / revealing the lids, thin and blue as eggshells / the limbs moving stiffly now, as death took its hold
-- **为什么这样写**：**"把最后的水倒给她"与 ch39 她们撬朗姆酒桶的饥渴构成全书的道德闭环**——**同一群人，先为喝水犯罪，再把水给死者**。**"薄而青，像蛋壳"（thin and blue as eggshells）是全章最精确的一个比喻**：**蛋壳同时意味着易碎与新生**，**而这里它盖着一双再也睁不开的眼睛**。
-- **读者视角提示**：注意"她们做了能做的"——**这是本书对"无力的善"最简短的定义**（对照 ch33 Lucy 的 "It seemed the least she could do."）。
-
-> **原句 8:** "The cold yield of Aoife’s skin beneath her fingers, the soft murmuring as the women worked together, made Mary think of Da. Da, who had two score years already, she knew. She closed her eyes for a moment, trying to summon his face: the ripe brown health of it, the white, even teeth. But all she saw was the slight stoop to his back that had worsened in recent years, the way he had begun to squint at the distance, the new clouds to his eyes."
+> **原句 4:** "The cold yield of Aoife’s skin beneath her fingers, the soft murmuring as the women worked together, made Mary think of Da. Da, who had two score years already, she knew. She closed her eyes for a moment, trying to summon his face: the ripe brown health of it, the white, even teeth. But all she saw was the slight stoop to his back that had worsened in recent years, the way he had begun to squint at the distance, the new clouds to his eyes."
 
 - **中文理解**：**Aoife 皮肤在她指下那种冰冷的顺从**、女人们一起劳作时的**低声细语**，让 Mary 想起了 Da。**Da，她知道，已经四十岁了。** 她闭眼片刻，**试图唤起他的脸：那种成熟的棕色健康、那口白而齐的牙**。**可她看见的只有他近来加重的那点驼背、他开始眯眼看远处的方式、他眼睛上新生的云翳。**
 - **关键词**：The cold yield of Aoife’s skin beneath her fingers / the soft murmuring as the women worked together, made Mary think of Da / Da, who had two score years already / trying to summon his face: the ripe brown health of it, the white, even teeth / But all she saw was the slight stoop to his back that had worsened in recent years / the way he had begun to squint at the distance, the new clouds to his eyes
 - **为什么这样写**：**"她努力想起他的脸，却只看见他的老"**——**这是全书对"思乡"最残忍的写法**：**记忆先失效，剩下的都是衰败**。**"眼睛上的云翳"（clouds to his eyes）与上文的"无云的额头"（unclouded）同章呼应**：**一个人额头无云，另一个人眼里有云**。**"两score年"（四十岁）是全书唯一一次给 Da 定龄**。
 - **读者视角提示**：注意"冰冷的顺从"（cold yield）——**她正在触碰一具尸体，同时想起一个还活着的人**；**本章的悲伤是双重的**。
 
-> **原句 9:** "One day, she knew, Da would die. Alone, in the cold dark of the cottage they had left.
->
-> Who would perform this ritual for him? Who would wash his body, who would sing the lament, with his daughters exiled from the land?"
-
-- **中文理解**：**有一天，她知道，Da 会死。独自死在他们离开的那间小屋的寒冷黑暗里。**
-  **谁会替他做这场仪式？谁会给他洗身，谁会唱挽歌——他的女儿们已被逐出这片土地？**
-- **关键词**：One day, she knew, Da would die. Alone, in the cold dark of the cottage they had left. / Who would perform this ritual for him? / Who would wash his body, who would sing the lament, with his daughters exiled from the land?
-- **为什么这样写**：**两个反问句是本章的道德核心**——**她们被流放，代价不只是自己受苦，而是父亲将无人送葬**。**"独自、寒冷、黑暗"三个词与本章开篇她醒来的"黑暗贴着皮肤"用的是同一套语汇**：**女儿在船底体验的，正是父亲将在小屋里体验的**。
-- **读者视角提示**：**请注意"他的女儿们已被逐出这片土地"**——**这是全书第一次把"流放"定义为一种对家人的失职**，而不只是对犯人的惩罚。
-
-> **原句 10:** "She pushed the thoughts from her mind. She could not think of Da when it was Aoife whose body lay small and shrunken in the berth.
+> **原句 5:** "She pushed the thoughts from her mind. She could not think of Da when it was Aoife whose body lay small and shrunken in the berth.
 >
 > ‘I wish we had some flowers,’ Bridie said. ‘Flowers, and a proper shroud.’"
 
@@ -107,7 +66,7 @@ source_text: ch43
 - **为什么这样写**：**"又小又萎缩"（small and shrunken）是本章第二次写她变小**（对照 ch41 "Aoife swam in and out of consciousness"）——**死亡把她缩成一个可以被抱起的体积**。**Bridie 的愿望清单只有两项：花与布**——**全书对"体面"的定义就是这么朴素**。
 - **读者视角提示**：注意"推开念头"——**她强迫自己把注意力还给死者**；**本章的悲伤是分层的：为 Aoife，也为 Da**。
 
-> **原句 11:** "‘What flowers grow on the Blasket Islands?’ Sarah asked.
+> **原句 6:** "‘What flowers grow on the Blasket Islands?’ Sarah asked.
 >
 > Mary thought of foxglove – the purple bells of it, curved and fleshy as a woman’s parts.
 >
@@ -123,27 +82,7 @@ source_text: ch43
 - **为什么这样写**：**毛地黄正是 Aoife 在 ch41 自白里承认的毒药**（"Foxglove." 与 "purple as the bruises he gave me."）——**这一章让那株花以"花"的形态回到记忆里，而读者知道它同时是凶器**。**"塑成她自己的模样"是全书最锋利的一次性别命题**：**毒药长得像女人的身体，而它杀死的是打她的男人**。
 - **读者视角提示**：**请注意"某种公正"（some justice）**——**这是 Mary 对 Aoife 杀夫一案唯一一次表态，而她说的是"公正"，不是"原谅"**。
 
-> **原句 12:** "They took Aoife’s body away when they delivered the day’s rations. It was Wright who came, him and one other. And though Bridie clung tight to his legs like a child to its mother, though she cried and begged that they be allowed on deck to watch the body meet the waves, he only shook his head, teeth gritted.
->
-> But Mary saw the pulse of a vein at his temple, saw the way he did not meet the other sailor’s eye. The tenderness with which he cradled Aoife’s skull, as though she was sleeping and he did not want her to wake."
-
-- **中文理解**：他们送当天口粮的时候把 Aoife 的尸体带走了。**来的是 Wright，他和另一个水手。** 尽管 Bridie **像孩子抱母亲一样死死抱住他的腿**，尽管她哭着乞求让她们上甲板看尸体入海，**他只摇头，咬紧牙关**。
-  **可 Mary 看见他太阳穴上一根血管在跳，看见他不敢与另一个水手对视。** **他托着 Aoife 头颅时的那种温柔，仿佛她只是睡着、他不愿弄醒她。**
-- **关键词**：It was Wright who came, him and one other / Bridie clung tight to his legs like a child to its mother / he only shook his head, teeth gritted / Mary saw the pulse of a vein at his temple / saw the way he did not meet the other sailor’s eye / The tenderness with which he cradled Aoife’s skull / as though she was sleeping and he did not want her to wake
-- **为什么这样写**：**Wright 是全书唯一一个被写成有内在矛盾的英国人**——**他执行鞭刑（ch41），又在此刻温柔地托住死者的头**。**"不敢与另一个水手对视"把同情写成一种需要隐藏的东西**：**他的善意只存在于别人看不见的地方**。**"仿佛她只是睡着"与本章开篇她"睡着时"被叫醒形成结构呼应**。
-- **读者视角提示**：**请记住 Wright 这个名字**——**本章之后他不再只是一个看守，而是这场死亡的一个目击者与共谋者之间的角色**。
-
-> **原句 13:** "They had no way of knowing when she was given to the sea. They could not hear the clergyman’s English prayer, could not see the small body in its sail-cloth shroud, could not hear the splash of it entering the water, the current bearing it away.
->
-> They said their own prayers, the prayers of Ireland."
-
-- **中文理解**：**她们无从知道她是什么时候被交给海的。** 她们听不见牧师的**英语祷告**，看不见帆布裹尸布里那个小小的身体，听不见它入水的扑通声、**海流把它带走**。
-  **她们念了自己的祷文，爱尔兰的祷文。**
-- **关键词**：They had no way of knowing when she was given to the sea / could not hear the clergyman’s English prayer / could not see the small body in its sail-cloth shroud / could not hear the splash of it entering the water, the current bearing it away / They said their own prayers, the prayers of Ireland.
-- **为什么这样写**：**三个"不能"（could not hear/see/hear）构成一次感官的流放**——**她们连葬礼都被排除在外**。**"英语祷告"与"爱尔兰的祷文"是本段唯一的对照**：**同一个神，两种语言，一个在上层一个在下层**。**"海流把它带走"是本章唯一一次写到"去向"**——**而她将在下一章成为海流的一部分**。
-- **读者视角提示**：注意"她们念了自己的祷文"——**这是本书对信仰最坚定的一句陈述**；**而紧接着作者就让它动摇**（见原句 14）。
-
-> **原句 14:** "But as they murmured, heads bent over the berth that was now empty, Mary wondered at the words they spoke. The truth of them.
+> **原句 7:** "But as they murmured, heads bent over the berth that was now empty, Mary wondered at the words they spoke. The truth of them.
 >
 > She thought of the ruined church where Da had taken them to worship, the altar home to a nest of sparrows who left offerings in white clumps along the pews. The priest – O’Sullivan – wore a cassock that fluttered with moths, stored in the hollow space behind a broken rock, along with the tin cup and plate for the Eucharist. He seemed so sure of the things he said, having risked everything to say them."
 
@@ -153,7 +92,7 @@ source_text: ch43
 - **为什么这样写**：**"对它们的真实起疑"（The truth of them）是一个孤立的名词短语**——**作者不给动词，让疑问停在半空**。**麻雀在祭坛筑巢、蛾子在法衣上飞、圣器藏在石头缝里**——**三个细节把爱尔兰地下天主教写成一种被自然占据的、藏起来的信仰**。**"冒着一切风险才说出口"是对神父的辩护，而不是指控**：**他的确信有代价**。
 - **读者视角提示**：注意"白簇"（white clumps）——**祭坛上的鸟粪与 ch41 的伤口、ch43 的蛋壳同属一类生物性细节**；**本书的信仰从不干净**。
 
-> **原句 15:** "When he’d spoken of good and evil, of righteousness and sin, he’d made it sound easy to tell the difference between the two. As clear as sorting flax stalks from their seeds.
+> **原句 8:** "When he’d spoken of good and evil, of righteousness and sin, he’d made it sound easy to tell the difference between the two. As clear as sorting flax stalks from their seeds.
 >
 > But where did that leave Aoife, who had killed her husband to save her own life?
 >

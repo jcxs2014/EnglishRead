@@ -23,81 +23,21 @@ source_text: ch51
 - **为什么这样写**：**"硬茬"（bristles）与"又硬又韧"（wiry）写的是新长出来的东西**——**而"只有淡淡的棱"（only faintly ribbed）说明鳃已收合**：**她现在是陆地上的人，但海的痕迹没有消失**。**"一层薄薄的盐"（its light crust of salt）是全书最后一次身体细节的回收**。**"在等她"（Waiting for her）独立成句**——**海在此被写成主动的一方，这是全书对海的最终定性**。
 - **读者视角提示**：**请注意开篇是镜子**——**全书从 ch04 的掐喉到 ch50 的入水，直到这里 Lucy 才第一次"看自己"**。
 
-> **原句 2:** "She bends to the sink, splashes water on her face, closing her eyes with relief.
->
-> She lingers a moment before going downstairs, her fingers resting on the doorknob.
->
-> Her watch shows 10.28 a.m. – he’ll be here any minute now. Sounds filter from downstairs: the rumble of the kettle boiling, the plink of someone chopping fruit. Melody laughing at one of Dad’s jokes, the clatter of plates as Mum sets the table."
-
-- **中文理解**：**她俯身在水池上，往脸上泼水，闭着眼松了一口气。**
-  **下楼前她停留了一会儿，手指搭在门把上。**
-  **她的表显示上午 10 点 28 分——他随时会到**。**楼下的声音透上来：水壶沸腾的隆隆声，有人切水果的叮叮声**。**Melody 在为 Dad 的某个笑话大笑，母亲摆桌子时盘子的碰撞声。**
-- **关键词**：splashes water on her face, closing her eyes with relief / her fingers resting on the doorknob / Her watch shows 10.28 a.m. / the rumble of the kettle boiling, the plink of someone chopping fruit / Melody laughing at one of Dad’s jokes, the clatter of plates as Mum sets the table
-- **为什么这样写**：**"水泼在脸上、闭眼松了一口气"（closing her eyes with relief）——**水在陆地日常里的最小形态**，**而它对她是安慰**。**"手指搭在门把上"（fingers resting on the doorknob）是一个停顿**：**门的一边是她的房间，另一边是家**。**四个声音（壶、刀、笑、盘）构成一顿早餐的全部**——**这是全书第一次写"正常生活"**，**而它出现得越普通，越显珍贵**。
-- **读者视角提示**：**请把"10 点 28 分"记住**——**精确到分钟的时间在全书只用于两处：日记与这一天的等待**。
-
-> **原句 3:** "Mum. Dad.
->
-> Lucy catches herself.
->
-> It’s hard to shake twenty years of habit. Harder still to accept the truth of her family.
->
-> They’ve all agreed to take things one day at a time."
-
-- **中文理解**：**妈。爸。**
-  **Lucy 把自己拉住了。**
-  **二十年的习惯很难甩掉**。**更难的是接受她家庭的真相。**
-  **他们全都同意一天一天来。**
-- **关键词**：Mum. Dad. / Lucy catches herself. / hard to shake twenty years of habit / Harder still to accept the truth of her family / take things one day at a time
-- **为什么这样写**：**"妈。爸。"两个词独立成段，紧接着"Lucy 把自己拉住了"（Lucy catches herself）**——**这是全书对"称呼"最精确的一次处理**：**她叫了二十年的人不再是父母，而血缘上的母亲是她的姐姐般的母亲**。**"一天一天来"（one day at a time）是全书唯一一句康复的语法**。
-- **读者视角提示**：**请注意："抓住自己"（catches herself）与 ch48 的 "Her body shrinks to just one thought" 是同一个机制**——**身体先反应，理智后到**。
-
-> **原句 4:** "‘Goose!’ Her father, standing at the kitchen bench, turns. She is not yet used to the uneven twist of his smile; or the stubble of his scalp, its failure to hide the jagged scar from the surgery. ‘What do you think – this enough for six?’"
+> **原句 2:** "‘Goose!’ Her father, standing at the kitchen bench, turns. She is not yet used to the uneven twist of his smile; or the stubble of his scalp, its failure to hide the jagged scar from the surgery. ‘What do you think – this enough for six?’"
 
 - **中文理解**：「**Goose！**」**她的父亲站在厨房台前转过身**。**她还没习惯他那个歪斜的笑容；也还没习惯他头顶的短发茬遮不住手术留下的锯齿状疤痕**。「**你觉得呢——这些够六个人吃吗？**」
 - **关键词**：Goose! / the uneven twist of his smile / the stubble of his scalp, its failure to hide the jagged scar from the surgery / this enough for six?
 - **为什么这样写**：**"Goose"（鹅）是 Max 给 Lucy 的昵称**——**一个父亲对一个女儿最私密的称呼，而它第一次出现时他已经快死了**。**"歪斜的笑容"（the uneven twist of his smile）与"遮不住的锯齿状疤痕"（its failure to hide the jagged scar）——**伤残被写得具体而不煽情**。**"够六个人吃吗"（enough for six）——**六个人：Lucy、Jess、Max、Melody、母亲，以及……**数不清的家庭在此被用一个数字标记**。
 - **读者视角提示**：**请注意：他问的是六个人**——**这个家在本书结束时是六个人**（对照 ch36 的 "All her life there had been only three."）。
 
-> **原句 5:** "He moves aside – his left side following his right, like a clumsy mimic – so that she can inspect the fruit salad he’s prepared. Amber cubes of rock melon, grapes, crisp slices of apple, rounds of banana. His fingers tremble on the knife, newly clumsy. She can see his pride in it, this task that would have been beyond him only weeks ago."
-
-- **中文理解**：**他挪开——左边身子跟着右边，像一个笨拙的模仿者——好让她看他做好的水果沙拉**。**琥珀色的哈密瓜块、葡萄、脆苹果片、成圈的香蕉**。**他的手指在刀上发抖，新近才变得笨拙**。**她能看见他为此骄傲——这件几周前对他来说还做不到的事。**
-- **关键词**：his left side following his right, like a clumsy mimic / Amber cubes of rock melon, grapes, crisp slices of apple, rounds of banana / His fingers tremble on the knife, newly clumsy / this task that would have been beyond him only weeks ago
-- **为什么这样写**：**"左边跟着右边，像一个笨拙的模仿者"（like a clumsy mimic）——**偏瘫被写成一个模仿动作**，**而"模仿"（mimic）这个词在本书里属于变形与伪装**。**四种水果的颜色与形状被逐一列出**——**这是全书最"静物"的一段**。**"几周前还做不到"（beyond him only weeks ago）用时间给出康复的刻度**。
-- **读者视角提示**：**请注意：他做的是水果沙拉**——**ch38 里 Jess 用金枪鱼和红酒度日，这里用水果**。
-
-> **原句 6:** "‘Don’t go overboard,’ her mother says from the table. ‘The boy was always a whippet, barely saw him eat a thing.’"
-
-- **中文理解**：「**别弄太多，**」**她母亲从桌边说**。「**那孩子一直瘦得像只小猎犬，几乎没见他吃过什么东西。**」
-- **关键词**：Don’t go overboard / The boy was always a whippet, barely saw him eat a thing.
-- **为什么这样写**：**"小猎犬"（whippet）——**一个澳洲家庭对瘦男孩的常用比喻，**而"那孩子"（the boy）指的是即将到访的 Max**：**母亲认识他，因为他是 Lucy 的童年玩伴，也是她以为的"父亲"**。**"别弄太多"（Don’t go overboard）是本书里母亲第一次说家常话**——**此前她只说过禁令与坦白**。
-- **读者视角提示**：**请注意：这是母亲第一次不承担"秘密守护者"的角色**——**她只是一个人在做早餐**。
-
-> **原句 7:** "She pushes aside the memory of how he’d looked in the water, haloed by his own blood. The little boat he’d hired had hit the reef, tipping him into the sea. He had knocked his head on the hull.
->
-> A traumatic brain injury."
-
-- **中文理解**：**她把他在水里的样子推到一边——被自己的血罩成光环**。**他租的那条小船撞上了礁石，把他掀进海里**。**他的头撞在船壳上。**
-  **创伤性脑损伤。**
-- **关键词**：the memory of how he’d looked in the water, haloed by his own blood / The little boat he’d hired had hit the reef, tipping him into the sea / He had knocked his head on the hull. / A traumatic brain injury.
-- **为什么这样写**：**"被自己的血罩成光环"（haloed by his own blood）与 ch50 的 "wreathed in silver and white" 是同一个画面**——**而她此刻用医学术语把它压平**。**"创伤性脑损伤。"独立成段**——**一个冷冰冰的诊断名，是全章唯一的"官方结论"**。**这一块解释了 ch50 的落水不是自杀也不是袭击，是一次事故**。
-- **读者视角提示**：**请注意：是他自己租的船**——**他出海是为了什么，本章不答；而 Lucy 把这个问题推开了**。
-
-> **原句 8:** "He would have died, the doctors said later, if they hadn’t reached him in time. If they hadn’t dragged him to the shore, if Lucy hadn’t run – her neck stinging as her gills closed, air burning her lungs – to Cliff House, where she’d found her mother pacing up and down the veranda, red-eyed and white-faced."
+> **原句 3:** "He would have died, the doctors said later, if they hadn’t reached him in time. If they hadn’t dragged him to the shore, if Lucy hadn’t run – her neck stinging as her gills closed, air burning her lungs – to Cliff House, where she’d found her mother pacing up and down the veranda, red-eyed and white-faced."
 
 - **中文理解**：**医生后来说，如果她们没有及时赶到他身边，他就死了**。**如果她们没有把他拖上岸，如果 Lucy 没有跑——她的脖子刺痛，鳃在合上，空气烧着她的肺——跑回 Cliff House，在那里她发现她的母亲在门廊上来回踱步，眼睛发红、脸色发白。**
 - **关键词**：He would have died, the doctors said later, if they hadn’t reached him in time / her neck stinging as her gills closed, air burning her lungs / she’d found her mother pacing up and down the veranda, red-eyed and white-faced
 - **为什么这样写**：**三个"如果"（if）构成一个虚拟语气的因果链**——**而全书的救援模式在此被总结：一个人跑，两个人拖**。**"鳃在合上、空气烧着她的肺"（her gills closed, air burning her lungs）——**她为了救父亲，主动把自己从水里交还给陆地**：**这是全书最重的一次牺牲，而它只被写成一个插入语**。**"眼睛发红、脸色发白"（red-eyed and white-faced）——**母亲的形象第一次是"等在家里的人"**。
 - **读者视角提示**：**请注意：Lucy 是从水里跑上来的**——**她要救的人把她从海里带走，而救他需要她自己离开海**。
 
-> **原句 9:** "There had been an air ambulance, and then long, fluorescent-lit weeks in the hospital, when none of them saw the sun for days at a time. At first, her father just slept, his cheeks sinking into cavities, hands thinning on the hospital blanket. When he did speak at last, his lips struggling around the words, it had been Lucy he’d asked for."
-
-- **中文理解**：**有过一架空中救护车，然后是医院里漫长、日光灯照着的几周，他们有时一连几天见不到太阳**。**起初她的父亲只是睡，脸颊陷成凹洞，手在医院的毯子上变瘦**。**当他终于开口，嘴唇艰难地绕着那些词，他要见的是 Lucy。**
-- **关键词**：an air ambulance / long, fluorescent-lit weeks in the hospital / none of them saw the sun for days at a time / his cheeks sinking into cavities, hands thinning on the hospital blanket / it had been Lucy he’d asked for
-- **为什么这样写**：**"一连几天见不到太阳"（none of them saw the sun）——**陆地的世界被写成没有太阳的地方**：**这是对"海"的一次反向定义**。**"脸颊陷成凹洞、手在毯子上变瘦"（cheeks sinking into cavities, hands thinning）——**全书最后一段医院描写，用的是与 ch36 生产后同样的消瘦语法**。**"他要见的是 Lucy"（it had been Lucy he’d asked for）——**全书对父女关系最直接的一次确认。
-- **读者视角提示**：**请注意：这段与 ch36 的医院段（ECPO、社工）结构相同**——**两次住院，一次夺走女儿，一次还回父亲**。
-
-> **原句 10:** "‘Goose,’ he’d said, the sound alien in his newly puckered mouth, ‘I’m sorry.’
+> **原句 4:** "‘Goose,’ he’d said, the sound alien in his newly puckered mouth, ‘I’m sorry.’
 >
 > ‘It’s OK, Dad,’ she’d said, even though he wasn’t her father, and it wasn’t OK, not yet.
 >
@@ -110,21 +50,7 @@ source_text: ch51
 - **为什么这样写**：**"那声音在他新近皱起的嘴里显得陌生"（the sound alien in his newly puckered mouth）——**道歉的句子从一张受伤的嘴里出来**。**"尽管他不是她的父亲，也尽管还没关系"（even though he wasn’t her father, and it wasn’t OK, not yet）——**她用两个否定同时否认了身份与和解**，**而这一句是全章最诚实的地方**。**"但会好的。她相信这一点。"（But it would be. She believes that.）**——**信仰在这里不是宗教，是一种决定**。
 - **读者视角提示**：**请注意：她说 "Dad" 时已经知道他不是生父**——**称呼在此变成一种选择，而不是事实**。
 
-> **原句 11:** "Jess has told her a little of the interviews with the police. The detectives accepted her version of events – that Hennessey had abducted Jess after she threatened to report his whereabouts and held her hostage in the cave. That he had told her to tell Melody that she was going away, had threatened to harm her friend if Jess revealed the truth. He had taken a knife from her kitchen and, later, held it to her throat. The struggle that had resulted in him falling to his death had also led to the loss of the knife, but the wounds to Jess’s face told their own story. As did Hennessey’s phone records – cell phone triangulation placed him at the cave on the day Jess said he’d abducted her."
-
-- **中文理解**：**Jess 跟她讲过一点警方的问询**。**警探接受了她的说法——Hennessey 在 Jess 威胁要举报他的行踪后绑架了她，并把她囚禁在洞里**。**他让她告诉 Melody 她要离开，并威胁如果 Jess 说出真相就伤害她的朋友**。**他从她厨房拿了一把刀，后来把它架在她的喉咙上**。**那场导致他坠亡的挣扎也使那把刀丢失了，但 Jess 脸上的伤自己说明了故事**。**Hennessey 的通话记录也一样——手机基站定位显示，在 Jess 说他绑架她的那天，他在洞里。**
-- **关键词**：The detectives accepted her version of events / that Hennessey had abducted Jess / held her hostage in the cave / had threatened to harm her friend if Jess revealed the truth / He had taken a knife from her kitchen and, later, held it to her throat / the wounds to Jess’s face told their own story / cell phone triangulation placed him at the cave
-- **为什么这样写**：**这段用法律文书式的长句复述一个精心构造的版本**——**而读者刚刚在 ch50 读过真实经过**：**她先咬了他，夺刀，捅进他的肚子**。**"伤自己说明了故事"（the wounds to Jess’s face told their own story）——**证据在此变成叙事，而叙事就是权力**。**"手机基站定位"（cell phone triangulation）——**现代技术为古老传说提供了不在场证明，这是本书最锋利的一次时代错位。
-- **读者视角提示**：**请注意：这不是谎言，而是一次重写**——**而本章末 Lucy 说"说真话不止一种方式"**。
-
-> **原句 12:** "When the last interview was over, Jess had disappeared to the ocean for hours. When she’d emerged, her body gleaming as she hauled herself up the staircase, the gills closing and the webbing between her fingers receding, there’d been a new, clean look to her face. As if something had been washed away."
-
-- **中文理解**：**最后一次问询结束后，Jess 消失到海里好几个小时**。**当她重新出现，身体闪着光，把自己拖上崖梯，鳃在合上、指间的蹼在消退时，她脸上有一种新的、干净的样子**。**仿佛有什么被洗掉了。**
-- **关键词**：Jess had disappeared to the ocean for hours / her body gleaming as she hauled herself up the staircase / the gills closing and the webbing between her fingers receding / there’d been a new, clean look to her face. As if something had been washed away.
-- **为什么这样写**：**"鳃在合上、蹼在消退"（the gills closing and the webbing between her fingers receding）——**变形是可逆的，而这一次她是主动收回**。**"仿佛有什么被洗掉了"（As if something had been washed away）——**海在此承担了告解的功能**：**没有神父，只有水**。**"把自己拖上崖梯"（hauled herself up the staircase）与 ch48 Lucy 下崖的动作对称**：**一个是下去，一个是上来**。
-- **读者视角提示**：**请注意：她洗掉的是什么，作者不说**——**而读者知道那是 Cameron 的血**。
-
-> **原句 13:** "‘Do you miss them?’ Jess asked once, as they watched the moonlight ripple across the ceiling.
+> **原句 5:** "‘Do you miss them?’ Jess asked once, as they watched the moonlight ripple across the ceiling.
 >
 > ‘Miss who?’ ‘Mary and Eliza.’
 >
@@ -137,67 +63,21 @@ source_text: ch51
 - **为什么这样写**：**"月光在天花板上泛起波纹"（the moonlight ripple across the ceiling）——**水面的图案被搬进卧室**。**"像转过身，发现你不再有影子"（no longer had a shadow）——**这是全书对失去最准确的一次比喻**：**Mary 和 Eliza 曾是 Lucy 的影，而影子是光的产物**。**"想。""（Yes.）单字收尾**——**她把"有一点"改成了"想"**。
 - **读者视角提示**：**请注意：Mary 和 Eliza 已经不再出现**——**她们从 2019 线的行动者退成了记忆**。
 
-> **原句 14:** "‘Why do you think they’ve stopped?’
->
-> ‘I don’t know. Maybe because we don’t need them anymore.’
->
-> ‘We don’t?’
->
-> ‘No. Now we have the sea.’ ‘And each other.’"
-
-- **中文理解**：「**你觉得她们为什么停了？**」
-  「**我不知道。也许因为我们不再需要她们了。**」
-  「**我们不需要了？**」
-  「**不。现在我们有海。**」「**还有彼此。**」
-- **关键词**：Why do you think they’ve stopped? / Maybe because we don’t need them anymore. / No. Now we have the sea. / And each other.
-- **为什么这样写**：**"她们为什么停了"（why they’ve stopped）——**塞壬的歌是召唤，而召唤只在需要时出现**。**"现在我们有海"与"还有彼此"分属两人之口**——**一个完整的句子被两个人说完**：**这是全书对母女关系最简短的宣告**。**而它同时意味着：Mary 与 Eliza 的守护任务已经完成**。
-- **读者视角提示**：**请注意：这里的"我们"包含了 Jess**——**而 ch49 末 Mary 说"我们会护你安全"，此刻宣告的是守护的结束**。
-
-> **原句 15:** "‘It’ll be OK,’ she says. ‘Anyway, if anyone should be nervous, it’s me. I’m about to meet my real father properly for the first time.’"
+> **原句 6:** "‘It’ll be OK,’ she says. ‘Anyway, if anyone should be nervous, it’s me. I’m about to meet my real father properly for the first time.’"
 
 - **中文理解**：「**会好的，**」她说。「**再说，如果要有人紧张，那也该是我。我就要第一次正式见到我的亲生父亲了。**」
 - **关键词**：It’ll be OK / if anyone should be nervous, it’s me / I’m about to meet my real father properly for the first time.
 - **为什么这样写**：**"第一次正式见到"（properly for the first time）——**"正式"（properly）这个词承担了全部的重量**：**他们见过无数次，但从未以真实的身份见过**。**"亲生父亲"（my real father）——**全书终于给出结论：**Max 是 Lucy 的生父**（ch48 只是 Lucy 的推论，此处由 Lucy 亲口确认）。
 - **读者视角提示**：**请注意：这句话是 Lucy 说的，不是叙述者的判决**——**生父问题到此由当事人落定**。
 
-> **原句 16:** "Afterwards, as the night air dries her skin, she will sit here, on the veranda, and she will write. Of all the things they see in the shifting depths, where the Naiad lies broken on the ocean floor. The rusted ribs of chains, the rotted planks of the berths. Here a rosary, there the brass disc of a coin. And all around, the green silt of bones."
+> **原句 7:** "Afterwards, as the night air dries her skin, she will sit here, on the veranda, and she will write. Of all the things they see in the shifting depths, where the Naiad lies broken on the ocean floor. The rusted ribs of chains, the rotted planks of the berths. Here a rosary, there the brass disc of a coin. And all around, the green silt of bones."
 
 - **中文理解**：**之后，当夜里的空气把她的皮肤吹干，她会坐在这里，在门廊上，写作**。**写她们在变幻的深处看见的一切，在那里 Naiad 号破损地躺在海底**。**锈蚀的锁链肋骨，腐烂的床铺木板**。**这里一串玫瑰经，那里一枚硬币的黄铜圆片**。**而四周全是骨头的绿色淤泥。**
 - **关键词**：she will sit here, on the veranda, and she will write / where the Naiad lies broken on the ocean floor / The rusted ribs of chains, the rotted planks of the berths / Here a rosary, there the brass disc of a coin / the green silt of bones
 - **为什么这样写**：**"她会写作"（she will write）用将来时，把本章推向未来**——**而这是全书第一次有人要"写下"这个故事**。**"锁链的肋骨"（The rusted ribs of chains）与"床铺的木板"（the rotted planks of the berths）——**沉船被写成一副骨架**。**"玫瑰经与硬币"（a rosary… the brass disc of a coin）——**信仰与流通货币并置，是女囚生前的两样随身之物**。**"骨头的绿色淤泥"（the green silt of bones）——**全书的最后一个意象：**尸体归于绿，而绿是海的颜色**。
 - **读者视角提示**：**请注意：玫瑰经在 ch21 是 Jess 放在枕下的信仰**——**同一件物品在水下沉了两百年**。
 
-> **原句 17:** "Four score women, whose stories have not been told, whose names have been forgotten.
->
-> She has the passenger manifest, the archives, the facts. The loom to weave a story around. She will write them back into history. Bring them to the surface, the light."
-
-- **中文理解**：**八十个女人，她们的故事从未被讲述，她们的名字已被遗忘。**
-  **她有乘客名录、档案、事实**。**用来织一个故事的织机**。**她要把她们写回历史**。**把她们带到水面上，带到光里。**
-- **关键词**：Four score women, whose stories have not been told, whose names have been forgotten / She has the passenger manifest, the archives, the facts. The loom to weave a story around. / She will write them back into history. Bring them to the surface, the light.
-- **为什么这样写**：**"八十个女人"（Four score women）回照 ch43 的 "The hush of four score women breathing" 与 ch47 的女囚合唱**——**同一个数字，从呼吸变成名字的缺失**。**"织机"（The loom）与 ch40 的 "the teeth of a loom" 是同一个比喻**：**故事是被织出来的**。**"把她们带到水面上、带到光里"（Bring them to the surface, the light）——**"surface" 既是水面，也是"浮现"；**写作在此被定义为一次打捞**。
-- **读者视角提示**：**请注意：她有"事实"（the facts）**——**而她要用的是"织机"而不是"证词"**：**本章对"真话"的定义在此转弯**。
-
-> **原句 18:** "It doesn’t matter that she won’t be going back to university; that she won’t become a journalist. After all, there is more than one way to tell the truth.
->
-> She’s not proud of what she did to Ben, the violence of her hands around his throat. But in a way, she’s glad that it happened. It led her here, to this moment. To this new understanding of who she is, her place in the story."
-
-- **中文理解**：**她不回大学、不当记者，这都不重要**。**毕竟，说真话不止一种方式。**
-  **她对自己对 Ben 做的事并不自豪——她双手掐住他喉咙的暴力**。**但在某种意义上，她庆幸那件事发生了**。**它把她带到这里，带到这一刻**。**带到这个对自己是谁、对自己在故事里的位置的新理解。**
-- **关键词**：she won’t be going back to university; that she won’t become a journalist / there is more than one way to tell the truth / She’s not proud of what she did to Ben, the violence of her hands around his throat / But in a way, she’s glad that it happened. It led her here, to this moment. / her place in the story
-- **为什么这样写**：**"说真话不止一种方式"（more than one way to tell the truth）——**这句话同时为 Jess 对警方的版本与 Lucy 即将写的书做了辩护**：**真相不是笔录，是叙事**。**"掐住他喉咙的暴力"（the violence of her hands around his throat）——**Lucy 的暴力与 ch04 的"掐喉"、ch35 的回忆构成她的个人暴力史**。**"对自己在故事里的位置"（her place in the story）——**这是全书对 Lucy 的最终定义：**她不是被寻找的孩子，是故事的作者**。
-- **读者视角提示**：**请注意："她庆幸那件事发生了"**——**作者没有让主角无罪，而是让她把罪算进了路径**。
-
-> **原句 19:** "‘I’m sorry,’ Jess says. ‘That we lied to you. I know what it’s like. Not knowing where you come from. Where you belong.’
->
-> Lucy puts an arm around Jess’s waist, squeezes tight. ‘But you do know,’ she says softly. ‘You belong to me.’"
-
-- **中文理解**：「**对不起，**」Jess 说。「**我们对你撒了谎。我知道那是什么感觉。不知道自己从哪里来。不知道自己属于哪里。**」
-  **Lucy 伸臂搂住 Jess 的腰，用力抱紧**。「**可你知道，**」她轻声说。「**你属于我。**」
-- **关键词**：That we lied to you / I know what it’s like. Not knowing where you come from. Where you belong. / Lucy puts an arm around Jess’s waist, squeezes tight / But you do know / You belong to me.
-- **为什么这样写**：**"不知道自己属于哪里"（Where you belong）与本章原句 13 的"影子"呼应**：**全书所有角色都在寻找归属**。**"你属于我。"（You belong to me.）——**注意主语与宾语的反转：**不是女儿属于母亲，是母亲属于女儿**。**而这句话回照 ch50 的 "The man who took her child from her and raised her as his own."——所有权曾是控诉，此刻是馈赠**。
-- **读者视角提示**：**请注意：这是全书母女之间最后一句对话**——**而它把"属于"从占有改写成了承诺**。
-
-> **原句 20:** "The crunch of tyres on gravel. Lucy’s heart jolts. She knows they should go inside. But she wants one more moment, standing here and looking out at the water, Jess’s body warm against hers. Just the two of them.
+> **原句 8:** "The crunch of tyres on gravel. Lucy’s heart jolts. She knows they should go inside. But she wants one more moment, standing here and looking out at the water, Jess’s body warm against hers. Just the two of them.
 >
 > There’s the creak of the back door opening. Melody stands in the doorway, as if asking permission to break the moment.
 >

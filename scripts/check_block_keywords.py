@@ -324,6 +324,70 @@ def _join_quote_lines(body: str, block: str):
     return " ".join(parts), len(parts) > 1
 
 
+def _quote_segments(body: str, block: str):
+    """按块内**裸 `>` 空行**切出各自然段引语，返回段列表（已剥包裹引号）。
+
+    ⚠️ 2026-10-11 新增（sirens 终验实测，22 条假红，AGENTS 第 3 条「假红型先修工具」）：
+    本库通行写法是**多段引用块**——`> "第一段"` / `>` / `> "第二段"`（全库 32 本书在用，
+    见 `grep -rl '^>$' notes/books`）。而 `_join_quote_lines` 遇裸 `>` 即 `break`，
+    只并到**首段**，后续段根本不进 `qn` ⇒ `elif qn not in tn` 分支必然报
+    「引语跨自然段（拼接红线）」——即「多段块」按定义就是跨自然段，该判据对它是恒真。
+
+    这与本工具 docstring 的自述一致：「『跨段拼接』这一条在本书的 md 格式下结构上
+    不可触发……真防线是 `sweep_full` 的 🔶 通道」。2026-10-10 另一本书的 53 条同类
+    报警已用**投毒测试**证明合法块与跨章拼接块被报同一条判据（判据不可区分）⇒ 判假红。
+
+    正确判据是**逐段**验（本函数提供段列表，判据在 check() 内）：
+      每段各自须在原文中逐字命中（段内 `…` 切成 piece 后每 piece 落在**同一个**
+      自然段内），且各段命中的自然段序号**非递减**（保序）。
+    负控：凭空造句 / 词替换 / 段内查无仍照报；段序颠倒也照报
+    （sirens ch33 原句 1 段序 [9,7] 即被此条抓出，已按原文重排为 [7,9]）。
+    """
+    segs = []
+    cur = []
+    first = body.lstrip(">").strip()
+    if first:
+        cur.append(first)
+    for ln in block.split("\n"):
+        raw = ln.strip()
+        if raw == ">":
+            if cur:
+                segs.append(" ".join(cur))
+                cur = []
+            continue
+        if raw == "":
+            continue
+        if not raw.startswith(">"):
+            break
+        cont = raw[1:].strip()
+        if not cont or _CONT_STOP.search(cont):
+            break
+        cur.append(cont)
+    if cur:
+        segs.append(" ".join(cur))
+    out = []
+    for s in segs:
+        s = s.strip().strip('"“‘”’').strip()
+        # 纯省略号段（`…` 单独成段）是**段间跳跃的书写标记**，不是引语段
+        if s and re.sub(r"[\s.…]+", "", s):
+            out.append(s)
+    return out
+
+
+def _seg_para_index(seg: str, ps, pn):
+    """段内逐字命中：按 `…` 切成 piece，要求全部 piece 落在**同一个**自然段内。
+    返回命中的自然段序号，查无返回 -1。"""
+    pieces = [x.strip() for x in re.split(r"\s*…\s*", seg) if x.strip()]
+    if not pieces:
+        return -1
+    for pi, p in enumerate(ps):
+        pf = _flat(p)
+        if all(norm(x) in p for x in pieces) or all(
+                _flat(x) and _flat(x) in pf for x in pieces):
+            return pi
+    return -1
+
+
 def check(md: Path, book: Path):
     # ⚠️ 2026-10-03 修正（Evie ch01a/ch04a/ch11a 实测假红）：原式 `ch(\d+)` **丢掉插叙节的
     # 字母后缀** ⇒ ch01a 被取数字 1 ⇒ find_chapter_text 命中 `text/ch01_chapter_1.txt`
@@ -545,6 +609,30 @@ def check(md: Path, book: Path):
             #   负控见本次修正记录。
             pass
         elif qn not in tn:
+            # ⚠️ 2026-10-11 重写（sirens 终验实测 22 条假红）：原实现拿 `_join_quote_lines`
+            #   只并到**首段**的 `qn` 去判，而本库通行的是**多段引用块**（`> "段1"` / `>`
+            #   / `> "段2"`，全库 32 本书在用）⇒ 「多段块必然跨自然段」是恒真命题，
+            #   判据对这类块**恒报红线**，与 `sweep_full`（真防线）口径直接矛盾。
+            #   新判据：**逐段**验，每段各自须在原文逐字命中（段内 `…` 的每个 piece
+            #   落在**同一个**自然段内），且各段命中的自然段序号**非递减**（保序）。
+            #   负控：凭空造句/词替换/段内查无照报；段序颠倒照报。
+            _segs = _quote_segments(body, block)
+            if len(_segs) >= 2:
+                _hits = [_seg_para_index(x, ps, pn) for x in _segs]
+                _missing = [i + 1 for i, h in enumerate(_hits) if h < 0]
+                _desc = [i + 1 for i in range(1, len(_hits))
+                         if _hits[i] >= 0 and _hits[i - 1] >= 0
+                         and _hits[i] < _hits[i - 1]]
+                if _missing:
+                    out.append(f"{md.name} 原句{num}: 引语第 {_missing} 段在本章原文查无"
+                               f"（逐段取证）")
+                elif _desc:
+                    out.append(f"{md.name} 原句{num}: 引语第 {_desc} 段与上一段在原文中"
+                               f"次序颠倒（逐段取证）")
+                # 全部段命中且保序 ⇒ 合法多段引语块，放行
+                _skip_single = True
+            else:
+                _skip_single = False
             _parts = [x for x in re.split(r"\s*…\s*", q) if x.strip()]
             _same_para = bool(_parts) and any(
                 all(norm(x) in p for x in _parts) for p in pn)
@@ -561,8 +649,8 @@ def check(md: Path, book: Path):
                 _qflat_single = _flat(q)
                 _same_para = bool(_qflat_single) and any(
                     _qflat_single in _flat(p) for p in ps)
-            if _same_para:
-                # 同段内含全部省略号片段 ⇒ 合法单段引语，不是拼接，放行
+            if _skip_single or _same_para:
+                # 多段块已逐段判定通过 / 同段内含全部省略号片段 ⇒ 合法引语，放行
                 pass
             elif len(qn) < SHORT_Q:
                 # 极短引语结构上不可能是两段拼接 ⇒ 判据不适用，降级为提示
