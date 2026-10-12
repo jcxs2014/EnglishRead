@@ -39,7 +39,7 @@ source_text: ch20
 
 - **中文理解**：是啊，人有时会对不便的事实移开目光——福利专员当年听到 Ben 的事时就是这样。多数人只想过舒坦日子。当有人开始拆解我们缝起来的那些故事、那些用来取暖的自我叙事，让人不安。
 - **关键词**：look away from inconvenient facts / want an easy life / pulling apart the stories we’ve stitched together / for comfort
-- **为什么这样写**：全书元叙事句：stitch（缝）的织物隐喻把「集体叙事」写成手工品——ch17「weaves like cloth」、ch20「a stitch she had dropped」之后，缝/拆的动词链抵达主题句：调查=拆线，本书的结构自我供认。Lucy 认领「拆的人」身份即作者向读者的接头暗号。
+- **为什么这样写**：全书元叙事句：stitch（缝）的织物隐喻把「集体叙事」写成手工品——ch16「weaves like cloth」、ch17「a stitch she had dropped」之后，缝/拆的动词链抵达主题句：调查=拆线，本书的结构自我供认。Lucy 认领「拆的人」身份即作者向读者的接头暗号。
 - **读者视角提示**：此段紧接福利办原话的残句引用（下一块）——拆线的对象第一次是「她自己的故事」，拆线的快感与代价同步入账。
 
 > **原句 4:** "As a mother of a son myself …"
@@ -66,7 +66,7 @@ source_text: ch20
 
 - **中文理解**：（公报两段）：11 日凌晨约 3 点，一船被发现于外海一里处，被礁石贯穿，正在迅速下沉。当天上午晚些，一名原住民女子发现五具被冲上岸的尸体。（另段）：悲剧以来已有约二十具尸体——多为男性船员——被找回并安葬于 Batemans Bay 定居点。搜救仍在进行：数名女性曾在该船最后现身水域附近被看到。
 - **关键词**：impaled on the reef / a native woman discovered five bodies / the majority of the male crew / several women were sighted / A search is underway
-- **为什么这样写**：全书最重要的两行公文体：「impaled」（贯穿/奸穿的双关义）让礁石完成对船的性暴力隐喻——海与男权共用一把矛。「a native woman」的六词里装着被抹去的整支叙事（谁发现、谁记录、她叫什么）——本书的历史诚实在此再记一分（对照 ch20 她自己「devastating the First Nations」的句式）。**女幸存者被「sighted」**：1801 线的最大悬念由这份 1801 年公报亲手开启——Mary 与 Eliza 的命运被公文写成「several women were sighted」，Lucy（与读者）顺着这个语法缺口去捞人。
+- **为什么这样写**：全书最重要的两行公文体：「impaled」（贯穿/奸穿的双关义）让礁石完成对船的性暴力隐喻——海与男权共用一把矛。「a native woman」的六词里装着被抹去的整支叙事（谁发现、谁记录、她叫什么）——本书的历史诚实在此再记一分（对照 ch16 她自己「devastating the First Nations」的句式）。**女幸存者被「sighted」**：1801 线的最大悬念由这份 1801 年公报亲手开启——Mary 与 Eliza 的命运被公文写成「several women were sighted」，Lucy（与读者）顺着这个语法缺口去捞人。
 - **读者视角提示**：与 ch17 女囚「四 score」对账：83（公报） vs 四 score（1800 人，Mary 记忆+ch06）——80 vs 83，本书让记忆与档案差出 3 人的真实误差（数字不造假、但记账者不同）；「several women were sighted」的后续「再无下文」（下一块）是全书结构性的沉默。
 
 > **原句 7:** "She traces a circle on the back of one hand. She has felt Eliza’s fingers in hers, the damp heat of her skin. Mary’s memories have become her own: the rich gold smell of farls cooking above the hearth fire, the bite of wet rock against her cheek."
@@ -74,7 +74,7 @@ source_text: ch20
 - **中文理解**：她在一只手的背上画了一个圈。她感到过 Eliza 的手指在她指间、她皮肤的潮热。Mary 的记忆已变成她自己的：炉火上方 farls 烘烤时丰腴的金香、湿岩贴上面颊的啮咬。
 - **关键词**：traces a circle / Eliza’s fingers in hers / damp heat / Mary’s memories have become her own / farls cooking / the bite of wet rock
 - **为什么这样写**：通灵的感官清单首次成对：触觉（fingers/damp heat）+嗅觉（farls）+肤觉（bite）——而视觉缺席（无码头/无船的画面词），说明 Lucy 的接收信道与失明者的信道并轨。traces a circle 的动作回收 ch06「traced the shape of the distant hills in her sister’s palm」——描画的手成了被描的手：传承的闭合环。farls 之香与 ch17 的两种写法互校（"It wasn’t the sweet, golden scent of the farls that Da had taught them to make"／"the rich gold smell of farls cooking above the hearth fire"）；bite 的牙齿词族再记一笔。
-- **读者视角提示**：与 ch18 的「phantom limb」构成诊断的两期——从幻肢（缺失感）到记忆移植（获得感）：她的症状升级即证据升级。
+- **读者视角提示**：与 ch16 的「phantom limb」构成诊断的两期——从幻肢（缺失感）到记忆移植（获得感）：她的症状升级即证据升级。
 
 > **原句 8:** "Jane Adams"
 >

@@ -21,7 +21,7 @@ source_text: ch26
 
 - **中文理解**：有什么冷的东西漫过 Lucy 的脚趾，舔上脚踝、小腿。它烧人；她发抖。起初世界只是一片蓝的雾。然后她听见浪的轰鸣与咝声。她喘着气猛地坐直，把脚从水的触碰里拔出来。
 - **关键词**：makes its way / lapping at her ankles / It burns; she shivers / a haze of blue / the water’s touch
-- **为什么这样写**：ch24 末「认脸」的创伤在下一章开头由一次梦游接住——本书的节奏律：**每次认知地震后，身体接管一次**（对照 ch14 Jess 卷舌实验后当夜绑腕、ch23 泳池）。"It burns; she shivers" 的矛盾（烧/颤）与 ch25 污水灼皮同方；"the water's touch" 把海写成主动的触摸者（呼应 ch25 "water had licked at them"、ch21 lapped at her——本书的水总是先碰人）。
+- **为什么这样写**：ch24 末「认脸」的创伤在下一章开头由一次梦游接住——本书的节奏律：**每次认知地震后，身体接管一次**（对照 ch14 Jess 卷舌实验后当夜绑腕、ch23 泳池）。本章 "It burns; she shivers" 的矛盾（烧/颤）与 ch25 污水灼皮同方；"the water's touch" 把海写成主动的触摸者（呼应 ch25 "water had licked at them"、ch21 lapped at her——本书的水总是先碰人）。
 - **读者视角提示**：haze of blue 的「先蓝后声」苏醒序列与 ch14 Jess 醒在 dam 边、ch18 Lucy 醒在露台逐字同构——本书给「梦游醒」写了固定开机动画：色→声→惧。
 
 > **原句 2:** "She had come straight from Melody’s. She’d practically run, as if somehow the sea had called to her, exerting its own magnetic pull. She remembers sitting down on the soft sand, the water still metres away. She’d watched the minute movements of a crab, the click of its pincers. And she’d cried, her thoughts wheeling in all different directions, like the flock of gulls cawing in the distance."
@@ -35,7 +35,7 @@ source_text: ch26
   母亲的脸。
 - **关键词**：the sea had called to her / magnetic pull / the water still metres away / the click of its pincers / wheeling / grinding the heels of her hands / rub away the memory / Her mother’s face
 - **为什么这样写**：梦游的完整因果被 Lucy 自己追回（still metres away→now 坐在潮线）——本书对梦游从不给机制，只给时间差。蟹的咔哒（click）与 ch25 Eliza 摸皮、ch21 念珠 click 同一机械拟声族：**微小声物是她的镇静剂**，因为混乱太大。末三段用独立成段的"Her mother's face." 做回环：上段末"that face"（ch24 半遮的 Judith），下段把它接成"Her mother's"——**认亲仪式在句法断裂处完成**。
-- **读者视角提示**：called to her 与 ch21「water has been calling me」逐字呼应——Jess 与 Lucy 共用同一部电话；本书的通灵=接听。
+- **读者视角提示**：called to her 与 ch19「water has been calling me」逐字呼应——Jess 与 Lucy 共用同一部电话；本书的通灵=接听。
 
 > **原句 3:** "Then the darkness had washed over her, sucking her back in time. She remembers the burning blue dome of sky, the citrus burst of orange. The insistent gnaw of fear."
 
@@ -78,7 +78,7 @@ source_text: ch26
   播客的碎片在脑里打转——那对夫妇（她父母）在领养之后承受的监视、小报刻毒的谣言。
 - **关键词**：nothing more than a story / collage of half-truths / the scrutiny… in the wake of the adoption / bitter tabloid rumours
 - **为什么这样写**：collage（拼贴）是全书的元意象：Jess 用拼贴/画造「家族」、播客用碎片造「真相」、Lucy 用记忆造「家」——三者同构；本书对「新闻理想」的再反讽（story 一词的双关在此第三度被咬：故事/报道/谎话，ch15 stitching stories 的姊妹句）。破折号的插入（– her parents –）是叙述者替 Lucy 吞下又吐出那四个字，格式即痛。
-- **读者视角提示**：scrutiny 一词承 ch11 「horrendous scrutiny/hounding」，Lucy 已把播客语料变成自己的母语——**媒体受害者变成媒体人质**是本书对 true crime 文化的批判闭环。
+- **读者视角提示**：scrutiny 一词承 ch11 的 horrendous scrutiny 与 media hounding，Lucy 已把播客语料变成自己的母语——**媒体受害者变成媒体人质**是本书对 true crime 文化的批判闭环。
 
 > **原句 7:** "The waves froth and roil, reflecting the maelstrom of her thoughts.
 >
@@ -87,7 +87,7 @@ source_text: ch26
 - **中文理解**：浪翻涌咆哮，映着她脑里的漩涡。
   可 Jess 是她姐姐——Lucy 浑身每个细胞都这么说。不只是长得像——共有的皮肤病、父亲赐给两人的同款耳螺（whelk）。
 - **关键词**：froth and roil / maelstrom / feels it in every cell / shared skin condition / the matching whelks / bestowed by their father
-- **为什么这样写**：本书最激烈的路径反转：**用身体证据顶翻 DNA**。“Lucy feels it in every cell” 的细胞论是 ch22 rosary「This is not her memory」的镜像——「This is not her memory.」那时证明她脑中有他人，此刻 「feels it in every cell」 又证明她们本属彼此；同一种身体学，结论互反，本书从不假装经验世界讲理。matching whelks of their ears：whelk（海螺）替代 ch11/14「pointy/elf」的精灵耳词——本书把家族标记全换成贝类词（呼应 ch24 海螺/珍珠/鲍鱼），**Kissane→Sirens 的全族谱以贝壳为姓氏**。bestowed（赐予）一词是嫁祸式幽默：父亲给的，父亲（Robert?）是谁还没解。
+- **为什么这样写**：本书最激烈的路径反转：**用身体证据顶翻 DNA**。“Lucy feels it in every cell” 的细胞论是 ch22 rosary「This is not her memory」的镜像——「This is not her memory.」那时证明她脑中有他人，此刻 「feels it in every cell」 又证明她们本属彼此；同一种身体学，结论互反，本书从不假装经验世界讲理。matching whelks of their ears：whelk（海螺）替代 ch14「pointy/elf」的精灵耳词——本书把家族标记全换成贝类词（本章的 pearl / abalone 是同一体系的另一支），**Kissane→Sirens 的全族谱以贝壳为姓氏**。bestowed（赐予）一词是嫁祸式幽默：父亲给的，父亲（Robert?）是谁还没解。
 - **读者视角提示**：maelstrom 与大漩涡（ch07 Charybdis）词源同源——她的思绪与海怪同名，本书的内心风暴永远带水文名词。
 
 > **原句 8:** "It’s the dreams, their shared world, the link between them that defies rational explanation. Jess has left her very fingerprints inside Lucy’s brain.
@@ -97,7 +97,7 @@ source_text: ch26
 - **中文理解**：是那些梦——她们共享的世界，那条拒绝理性解释的联结。Jess 把自己的指纹留在了 Lucy 的脑里。
   她们怎么能不属于彼此？
 - **关键词**：shared world / defies rational explanation / fingerprints inside Lucy’s brain / How can they not belong to each other?
-- **为什么这样写**：收章句是全题眼： fingerprints（指纹）——本书对「身份」的物证词汇，此处被用来证明**联结**：她的头脑成了一块被姐姐按过的手印的玻璃。"defies rational explanation" 是 Lucy 对自己新闻信条的正式辞职书——**她承认了不可解释，却把它当作更硬的证据**（对照 ch20 facts would prevail 的破，与此处「以不可能为证」的立）。末句反问把全书答案锁进语气：**「家」不是事实，是归属的决意**。
+- **为什么这样写**：收章句是全题眼： fingerprints（指纹）——本书对「身份」的物证词汇，此处被用来证明**联结**：她的头脑成了一块被姐姐按过的手印的玻璃。"defies rational explanation" 是 Lucy 对自己新闻信条的正式辞职书——**她承认了不可解释，却把它当作更硬的证据**（对照 ch20「That facts would always, inevitably, prevail.」的破，与此处「以不可能为证」的立）。末句反问把全书答案锁进语气：**「家」不是事实，是归属的决意**。
 - **读者视角提示**：cliffhanger 边界（第 9 条 e）：本章终于此问句（tail 复核 text/ch26 末行）；周日（报警、对父母摊牌等）归 ch27，本章不引用。
 
 ## 本章词汇

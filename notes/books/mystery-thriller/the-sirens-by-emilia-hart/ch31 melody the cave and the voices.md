@@ -13,7 +13,7 @@ source_text: ch31
 - **情感弧线位置**：全书「海之性别神学」的正门被 Melody 一脚踢开——ch16 Ryan 的「海滩夜闻女声」传闻在本章获得**唯一的第一手亲历证词**，且证词同时是一起未报的强奸未遂+失踪案；Lucy 的皮肤异变同步升级（蛇蜕→珠光鳞），身体线进入不可逆段。
 - **人物弧线**：Melody 从「热心邻居」升格为**全书神话体系的持证人与守密人**（守了 38 年）；她的双重创伤（Danny 的侵犯+她的被诬陷恐惧）解释了她守店的地理选择与「outsider/insider」的阶级论；Lucy 第一次在另一个女人身上认出「被水护过/被男人伤过」的同盟。
 - **叙事手法**：章内双嵌套（Melody 口述以 7 段直接引语完整展开=全书最长单一证词）；「歌声」的听感描写（folk song/lilting/comfort）与 ch30 鲨鱼肉、ch12 音乐天赋串成女性感官链；蛇蜕童年回忆把「蜕皮=新生/异变」的双义钉进 Jess 画布。
-- **跨章核对（7b/第9条e）**：Danny Smith（1981/unemployed/21）承 ch20 名录；Ryan 兄弟关系与「背包入海前的 clinking beers」承 ch16/18/24；Baby Hope 洞穴=ch11 救婴现场（本章成为案发第二现场）；「Make it stop.」残页承 ch18；「two hundred fucking years to more than sixty thousand」=殖民 200 年 vs 原住民 6 万年的对仗（承 ch20 First Nations millennia 与 ch24 Wiradjuri，数字均为本章原话）；本章收章句即末行（tail 复核），周日父母来电归 ch32。
+- **跨章核对（7b/第9条e）**：Danny Smith（1981/unemployed/21）承 ch20 名录；Ryan 兄弟关系与「背包入海前的 clinking beers」承 ch16/18/24；Baby Hope 洞穴=ch11 救婴现场（本章成为案发第二现场）；「Make it stop.」残页承 ch18（该残页的出处）；而本章原话「two hundred fucking years to more than sixty thousand」=殖民 200 年 vs 原住民 6 万年的对仗（承 ch16「the First Nations communities that had thrived there for millennia」与 ch24 Wiradjuri，数字均为本章原话）；本章收章句即末行（tail 复核），周日父母来电归 ch32。
 
 ## 精读
 
@@ -86,7 +86,7 @@ source_text: ch31
 - **中文理解**：Lucy 想着却没说出口：这两样多缠在一起。怕与欲。一样那么轻易变成另一样。要的只是一只手在你腕上、在你喉咙上收紧。
   “Danny 开始朝洞口移动，像有什么在把他往里拽。那晚很亮，大片月光。他几乎只剩剪影。我记得他整个身体向前蜷，爬向边上。然后……”Melody 先望向一边，才回到 Lucy 的目光。“然后，他就没了。”
 - **关键词**：intertwined / one can become the other / tightening of a hand on your wrist, your throat / as if something was drawing him / almost silhouetted / hunching forward / crawled to the edge / And then … / he was gone
-- **为什么这样写**：Lucy 的插入语（"Lucy thinks, but doesn’t say"）把本章证词与 **ch04 掐喉之夜焊在一处**：the tightening of a hand on your wrist, your throat——她的梦游手、Ben 的脖颈、Melody 腕上的男人手、歌声拽着的 Danny——**全书的「手/喉咙/牵引」三词同轴**。"as if something was drawing him" 的 as if（本书最高频的安全词，ch13/ch18「as if she had stood there / as if it knows」）——**连 Melody 都不敢说「是什么」**，只给剪影、hunch、crawl 三个动物姿态动词。"And then …" 的省略号（原文自带）+ "he was gone" 的归零句：失踪的语法被写成消失，不写成死亡——本书直到最后都不替海发死亡证明。
+- **为什么这样写**：Lucy 的插入语（"Lucy thinks, but doesn’t say"）把本章证词与 **ch04 掐喉之夜焊在一处**：the tightening of a hand on your wrist, your throat——她的梦游手、Ben 的脖颈、Melody 腕上的男人手、歌声拽着的 Danny——**全书的「手/喉咙/牵引」三词同轴**。"as if something was drawing him" 的 as if（本书最高频的安全词，ch13「as if she had stood there」/ ch24「as if it knows」）——**连 Melody 都不敢说「是什么」**，只给剪影、hunch、crawl 三个动物姿态动词。"And then …" 的省略号（原文自带）+ "he was gone" 的归零句：失踪的语法被写成消失，不写成死亡——本书直到最后都不替海发死亡证明。
 - **读者视角提示**：And then… 的停顿结构复写 ch06「she has …」船头像悬念句——**全书三大「说不下去」句型**（"she has …"／"And then …"／"And then, he was gone."）至此齐了。
 
 > **原句 8:** "‘I came back,’ Melody continues, ‘because I felt safe here. I feel safe here. I know that doesn’t make sense. I should be traumatised by what Danny almost did to me, by what happened to him. But something protected me that day, Lucy. Something – someone – kept me safe.’

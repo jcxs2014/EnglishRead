@@ -13,7 +13,7 @@ source_text: ch30
 - **情感弧线位置**：1800 线的总揭示章——ch05/ch06/ch12/ch21 悬了几十章的「stream 之夜到底发生了什么」在本章全数兑付；全书最大的性暴力场景以「差点失贞—石块救场」呈现，处理极其克制（then— 破折号截断）。
 - **人物弧线**：Mary 的「保护者」身份被彻底反转：**一直是 Eliza 在救她**（预测 Byrne、拉她回大地、致命一石）；「He ought to have taken Mary’s instead.」的自我否定与「I am weak. Not like you.」的自责，被 Eliza 的水之神学一句顶回。
 - **叙事手法**：鲨鱼=镜像装置（银鳞/尾的弧线/人形传说——Mary 吃鲨肉的生理排斥=对 merrow 血统的排斥）；Byrne 的感官入侵三级（ breath before fingers）；袭击场景以 then—/破折号/「ordinary occurrence of nature」的三处留白完成「不写之写」；闪电=频闪摄影师，最后一格给出「webbed/shimmer」的身体幻象又立刻撤回——本书通灵与疯魔之间只隔一道光。
-- **跨章核对（7b/第9条e）**：「the pale blue of his foot」回 ch21 海葬水手（同章原文，正确）；「Hush. Someone is there.」逐字回 ch21 末 Eliza 警报句——**本章把 ch21 悬在警报上的场景补完**；「reddened stone」与 ch05 播客/ch06「the wet thud of the rock against his skull」严丝合缝（本章给出持石者=Eliza）；「sperm of nature」句不引；「great grey hands」潮手与 ch07「white jaws」、ch22「icy but gentle」同族。本章终于 "But then, in the next burst of light, the illusion was gone."（tail 复核），风暴后续归 ch31。
+- **跨章核对（7b/第9条e）**：「the pale blue of his foot」回 ch21 海葬水手（同章原文，正确）；「Hush. Someone is there.」逐字回 ch21 末 Eliza 警报句——**本章把 ch21 悬在警报上的场景补完**；「reddened stone」与 ch05 播客/ch06「the wet thud of the rock against his skull」严丝合缝（本章给出持石者=Eliza）；「sperm of nature」句不引；「great grey hands」潮手与 ch07「white jaws」、ch21「icy but gentle」同族。本章终于 "But then, in the next burst of light, the illusion was gone."（tail 复核），风暴后续归 ch31。
 
 ## 精读
 
@@ -22,7 +22,7 @@ source_text: ch30
 - **中文理解**：可一上甲板就清楚了：这次传唤不是为了葬礼——气氛是庆典。新鲜的空气碰到脸，Mary 闭上眼，细品那咸腥。黄昏；再睁眼时，粉色的天空里亮起第一批星。海在四周铺开，黑得像瘀伤。
 - **关键词**：not been summoned for a funeral / the mood was one of celebration / briny tang / first glimmer of stars / dark as a bruise
 - **为什么这样写**：freedom 的两口呼吸（闭眼/睁眼）之间插进全书最漂亮的一句色彩学：pink sky→first stars→bruise sea，「粉→星→瘀」三级递降，天空的温柔是假的，海的颜色才是真的——**bruise（瘀伤）把海写成一具被打过的身体**（与 ch06 "It was grey and furious" 的愤怒不同，这次海是受害者/尸体，与全书「水会取」的账本呼应）。summoned（传唤）一词带着法庭余味，与 ch29 警方传唤形成跨时空同词。
-- **读者视角提示**：briny/brine 是 Mary 线的海味计量词（ch29「sucking in the briny air」、ch12 发臭的头发「dead, bleached things spat from the ocean」）——本书的气味系统与恐惧同源。
+- **读者视角提示**：briny/brine 是 Mary 线的海味计量词（ch22「sucking in the briny air」、ch12 发臭的头发「dead, bleached things spat from the ocean」）——本书的气味系统与恐惧同源。
 
 > **原句 2:** "‘It’s a shark, you eejits,’ she said, turning to face them, then sighing when she saw their blank looks. ‘A giant fish with great big teeth, that’s all. They’ve caught it and hauled it up on deck.’"
 >
@@ -41,7 +41,7 @@ source_text: ch30
 - **中文理解**：“我想她早知道是什么，”Eliza 低声说。“她是 Blasket 群岛来的，记得吗？海里每一条鱼她应该都认得。可你描述给我听好吗，Mary？那条鲨鱼？”
   Eliza 的嗓音沉沉地挂着对 Aoife 的担心，可 Mary 还是听出了她念出那个新词——shark——时的玩味。就算在这么大的恐惧里，学了新东西还是让她高兴，太像她了。
 - **关键词**：She must know each fish in the sea / relish / sounded out that new word / take pleasure in the learning
-- **为什么这样写**：Eliza 的两层听力：先给 Aoife 的恐惧一个知识学解释（Blasket 渔女知道鲨鱼=知道它不会伤人=在怕别的），随即向 Mary 索要「描述」——**失明者同时做诊断与采访**。relish 一词让 Eliza 的学习饥渴在恐惧现场亮灯（下块 Mary 的「never sated」直接接上）：本书写 Eliza 的天性=以词为食（呼应 ch21「merrow/tolling」的语言嗅觉，鲨鱼词她一摸就懂「铃音」——**声音通感的语法能力在本线是超能力，在 2019 线 Jess 的日记里叫通灵**）。
+- **为什么这样写**：Eliza 的两层听力：先给 Aoife 的恐惧一个知识学解释（Blasket 渔女知道鲨鱼=知道它不会伤人=在怕别的），随即向 Mary 索要「描述」——**失明者同时做诊断与采访**。relish 一词让 Eliza 的学习饥渴在恐惧现场亮灯（下块 Mary 的「never sated」直接接上）：本书写 Eliza 的天性=以词为食（呼应 ch25「tolling of a bell」的语言嗅觉，鲨鱼词她一摸就懂「铃音」——**声音通感的语法能力在本线是超能力，在 2019 线 Jess 的日记里叫通灵**）。
 - **读者视角提示**：「describe it for me」是 ch06 姐妹契约（"Mary had painted pictures for her sister with words"）的延续，本书的契约句一贯短小。
 
 > **原句 4:** "The flesh was veined with blood, and she could not help thinking how only hours before, it had throbbed and pulsed with life, propelling the shark through the sea.
@@ -84,7 +84,7 @@ source_text: ch30
   “哪儿也没去，”Mary 撒谎，脸颊贴着墙。她没法告诉 Eliza 这些渴望：爱、孩子、一个完整而不是像她们这样裂着的家。……可她的这些梦里，装不下妹妹。
 - **关键词**：dreams that sustained her / bearing children and keeping them close / firm in hers / back to earth / grass beneath their feet / I know you’re not asleep, but you’re not here, either / Nowhere / complete rather than fractured / how to fit her sister into these dreams
 - **为什么这样写**：本章最痛的一段「姐妹不平等」：Eliza 能读出 Mary 的缺席（不在场的精确声学特征=呼吸浅），而 Mary 读不出 Eliza 的「没有未来」——**失明者的被看见程度永远高于明眼者**。"fit her sister into these dreams" 一句完成全书最锋利的背叛诊断：Mary 的梦（正常女性人生）里根本没有 Eliza 的位置——她保护妹妹，但她的未来想象不含妹妹。**而 ch26 Lucy 的「归属清单」（same home/parents/rituals/mysteries）正是对这个历史缺陷的修复**：两代姐妹各差一样，合起来刚好互补。
-- **读者视角提示**："keeping them close" 的「close」与 ch33 后文 Jess 对 Lucy「I never meant for this to happen」同词系；bearing children 的梦在本章后部被 Byrne 之夜打断（原句 6），读者会看见她的梦被从物理层面袭击。
+- **读者视角提示**：bearing children and keeping them close 的梦在本章后部被 Byrne 之夜从物理层面打碎（袭击段见本章原句 7「The soft, wet thwack of rock on bone」）——本章前半的 tranquil  stream 与后半的石头只隔几页，读者会自己把两条缝起来。
 
 > **原句 7:** "The soft, wet thwack of rock on bone; his body slumping over her; lips slack and drooling in her hair. She could see the moon again, and in its yellow light Eliza, reddened stone trembling in her hand.
 >
@@ -103,7 +103,7 @@ source_text: ch30
 - **中文理解**：风变狂变怒，刮得又高又烈，像一个女人的嗓子。Mary 开始想：也许 Aoife 对——海在向它被抢走的东西讨债。潮水用它巨大的灰手把船抬起，水手们干活的吆喝变成惊叫。底下，女人们手拉手，闭上眼睛。
   闪电穿过甲板缝照进来时，她看见自己的身体陌生得不像人间：脚趾发绿，带蹼。皮肤像在发光，覆着细小的鳞，像那条鲨鱼的。可下一道闪电，幻象就没了。
 - **关键词**：as a woman’s voice / the sea sought vengeance / great grey hands / screams of terror / held hands and closed their eyes / greenish and webbed / shimmer… tiny scales / like the shark’s / the illusion was gone
-- **为什么这样写**：风暴=性别复仇的双重显影：fierce as a woman's voice 把风写成女声（与 Aoife 的海之复仇论、ch08「house longs to be reclaimed by the sea」同轴——**全书的自然现象自本章起公开选边女性**）。great grey hands 的潮手把 ch22「white fingers（水抓她）」升级为「灰手（船被抬）」——海的手从威胁动作变执行动作。收章的身体幻象（webbed/scales/like the shark's）是全书通灵学最重的单次申报：**她吃下了「像我们」的肉，身体开始回报她「像它」**——而 "the illusion was gone" 立刻撤稿，本书把神话解释与生理解释（饥饿、坏血、磷光错觉）并置不裁决——**这一道没落下的光，是全线的悬念阀门**。
+- **为什么这样写**：风暴=性别复仇的双重显影：fierce as a woman's voice 把风写成女声（与 Aoife 的海之复仇论、ch10「house longs to be reclaimed by the sea」同轴——**全书的自然现象自本章起公开选边女性**）。great grey hands 的潮手把 ch24「white fingers（水抓她）」升级为「灰手（船被抬）」——海的手从威胁动作变执行动作。收章的身体幻象（webbed/scales/like the shark's）是全书通灵学最重的单次申报：**她吃下了「像我们」的肉，身体开始回报她「像它」**——而 "the illusion was gone" 立刻撤稿，本书把神话解释与生理解释（饥饿、坏血、磷光错觉）并置不裁决——**这一道没落下的光，是全线的悬念阀门**。
 - **读者视角提示**：cliffhanger 边界（第 9 条 e）：本章终于幻象消失（tail 复核 text/ch30 末行）；风暴结果/沉船进程归 ch31。与 ch07 她梦见的沉船（Jess 画）、ch20 公报的沉没日期形成「沉船三证」齐装——但本章不预告任何幸存者情节。
 
 ## 本章词汇

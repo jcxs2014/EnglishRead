@@ -75,7 +75,7 @@ source_text: ch13
 - **中文理解**：然后它就在那儿。一把上了锁的日记本，封面是旋涡状的粉色——Lucy 记得那个牌子，叫 Groovy 什么来着。锁扣已经坏了，Lucy 翻开日记本，读第一页。
 - **关键词**：padlocked journal / swirly pink cover / Groovy something / the clasp is broken
 - **为什么这样写**：chase scene 的收束句：阁楼—书包—腐臭—湿纸的漫长翻找在 "And then there it is" 四字内结算，节奏本身即 discovery 的生理快感（对照 ch11 的「四步到栏杆」——空间数步、时间数页，Lucy 总在丈量距离）。「clasp is broken」的细节让入侵合理化：不是她撬开的，是它本就坏了——本书始终为 Lucy 的越界留一扇「虚掩的门」。
-- **读者视角提示**：cliffhanger 边界（第 9 条 e）：日记本文字全部属下一章 ch14（JESS'S DIARY, 1996 年），本章止于「read the first page」，不引用日记内容。倒装语序（padlocked→broken）也预写日记的双重状态：被封锁的、但封锁已失效的。
+- **读者视角提示**：cliffhanger 边界（第 9 条 e）：日记本文字全部属下一章 ch14（JESS'S DIARY, 1998 年），本章止于「read the first page」，不引用日记内容。倒装语序（padlocked→broken）也预写日记的双重状态：被封锁的、但封锁已失效的。
 
 ## 本章词汇
 
@@ -112,4 +112,4 @@ source_text: ch13
 
 ## 一句话总结
 
-一把用 Lucy 生日做的密码打开 Jess 的手机，一块 1981 年的石堆铭牌打开 1801 年的沉船档案，一本锁扣坏掉的日记即将打开 1996 年的夏天——本章之后，三条时间线之间不再有合法的墙。
+一把用 Lucy 生日做的密码打开 Jess 的手机，一块 1981 年的石堆铭牌打开 1801 年的沉船档案，一本锁扣坏掉的日记即将打开 1998 年的夏天——本章之后，三条时间线之间不再有合法的墙。

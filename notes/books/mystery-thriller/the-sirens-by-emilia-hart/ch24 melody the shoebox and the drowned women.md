@@ -12,8 +12,8 @@ source_text: ch24
 - **视角**：第三人称限知，锁定 Lucy；SATURDAY, 16 FEBRUARY 2019（自设报警期限日）。
 - **情感弧线位置**：报警拖延章——每一分「不去打 000」的时间都由一次更深的撒谎支付（对母、对自己）；同时是本书把「家谱空缺」正式改写成「族史悬案」的枢纽章。
 - **人物弧线**：Lucy 的皮肤自毁升级（ankle 抠出 lacy webs——ch05 视频里的 silver streaks 转为主动撕伤）；对「真相」的自负首次被母亲的一句"Oh, my love"式盲区反噬（"she had never sensed what her sister had known all along"）。
-- **叙事手法**：搜索引擎语法入文（搜索词逐条罗列、no results 的界面文本裸引——把档案沉默视觉化为 UI 复读）；本章双物证：shoebox（Melody 的剪报盒）对 ch18 Bernard Smith 的文件夹——小镇两个家庭各持半部地方史；末三行「认出 Judith Wilson」= ch11 Baby Hope 段（Judith 与丈夫 Wilson 领养/搬离）+ ch08「Cliff House 的前主人」两条伏线的焊点。
-- **跨章核对（7b/第9条e）**：Max Murphy 之名首次全文出现于本章（Jess 手机联系人——注意与 ch14 童年 Max 为同人，姓名在此补全；"lost her virginity"句的归属见精读块 13）；Judith Wilson/Cliff House 前主人承 ch11 播客 Part2 与 ch08「on the market for a long time」；sea shanty 为首次入文（无前世引用义务）。本章终于 "She knows it almost as well as she knows her own."（tail 复核 text/ch24 末行），Wilson 剪报细读归 ch25。
+- **叙事手法**：搜索引擎语法入文（搜索词逐条罗列、no results 的界面文本裸引——把档案沉默视觉化为 UI 复读）；本章双物证：shoebox（Melody 的剪报盒）对 ch18 Bernard Smith 的文件夹——小镇两个家庭各持半部地方史；末三行「认出 Judith Wilson」= ch11 Baby Hope 段（Judith 与丈夫 Wilson 领养/搬离）+ ch08 提到的 Cliff House 前主人两条伏线的焊点。
+- **跨章核对（7b/第9条e）**：Max Murphy 之名首次全文出现于本章（Jess 手机联系人——注意与 ch14 童年 Max 为同人，姓名在此补全；"lost her virginity"句的归属见精读块 13）；Judith Wilson/Cliff House 前主人承 ch11 播客 Part2 与 ch07「on the market for a long time」；sea shanty 为首次入文（无前世引用义务）。本章终于 "She knows it almost as well as she knows her own."（tail 复核 text/ch24 末行），Wilson 剪报细读归 ch25。
 
 ## 精读
 
@@ -31,7 +31,7 @@ source_text: ch24
 - **中文理解**：她想起水的表面，怎么从最深的蓝翻成最钝的灰，藏着木头与骨头的秘密。Naiad 号。Malcolm Biddy、David Watts、Daniel Smith 的遗骸。也许还有 Baby Hope 的家人。
   窗外潮水捶着岸。她想象它伸出白色的手指翻过悬崖来搜她。仿佛它知道 Lucy 在这儿、在找答案。
 - **关键词**：secrets of wood and bone / the tide pummels the shore / reaching white fingers / searching for her / as if it knows
-- **为什么这样写**：本章的总账句：water 开始替所有人藏东西——沉船、被冤枉的失踪者（注意三具从未找到的遗体被她并成一句「remains」）、以及一个婴儿的家；"Perhaps even Baby Hope's family" 一笔双吃：水既可能藏了溺死的母亲，也可能藏了抛婴的母亲。"pummels"（捶打）是本书海第一次如此带拳头味——与 ch18「shreds itself」自伤、此处伤他，两格都占全了。"white fingers" 是浪沫的人手化，ch21 的「sugared reeds」等自然手形序列至此成军。
+- **为什么这样写**：本章的总账句：water 开始替所有人藏东西——沉船、被冤枉的失踪者（注意三具从未找到的遗体被她并成一句「remains」）、以及一个婴儿的家；"Perhaps even Baby Hope's family" 一笔双吃：水既可能藏了溺死的母亲，也可能藏了抛婴的母亲。"pummels"（捶打）是本书海第一次如此带拳头味——与 ch18「shreds itself」自伤、此处伤他，两格都占全了。"white fingers" 是浪沫的人手化，ch21 的「sugared with frost」等自然手形序列至此成军。
 - **读者视角提示**：searching for her 与上文 "she searches for Eliza Kissane"、"looking for answers" 的对位是全段最冷的设计——她在找她们，水在找她；「搜与被搜」将在后文不断倒置。
 
 > **原句 3:** "Could Jess still be in touch with Max? Her one-time best friend, to whom she lost her virginity?"
@@ -64,7 +64,7 @@ source_text: ch24
 - **中文理解**：“Ryan 早上来拿过鸡蛋，Beth 的牛奶在冰柜——我等的只有 Bob Shepard，说实话他那块 Violet Crumble 巧克力不吃也罢，糖尿病。”她朝 Lucy 困惑的脸龇一下。
   “海玻璃，”Melody 察觉她在看风铃，开口说。“这一带冲上来的东西多得吓人。不过有这历史，倒也正常。有些搞不好就是 Naiad 号的。海湾的名字就是这么来的——从我们这些赶海人。”
 - **关键词**：Ryan’s been in for his eggs / he could go without his Violet Crumble / Sea glass / might even be from the Naiad / beachcombers, like me
-- **为什么这样写**：两句话两种档案：第一句是「镇上谁吃什么」的熟人账本（Ryan/鸡蛋——与 ch18「Ryan Smith found someone camped out」的 Ryan 同名，是否同人待后文，此处不并读）；第二句把海滩玻璃直接归源沉船——本书的物证链至此有了「被浪送到手上」的民用版：Lucy 在数据库找不到的东西，被浪打碎、磨圆、挂在别人家门廊。"beachcombers, like me"（赶海人/拾骸者）的双关是全书题眼级的旁白：Comber Bay 的人靠捡拾沉没物生活——Jess 画画也是。
+- **为什么这样写**：两句话两种档案：第一句是「镇上谁吃什么」的熟人账本（Ryan/鸡蛋——与 ch11「Ryan Smith found someone camped out」的 Ryan 同名，是否同人待后文，此处不并读）；第二句把海滩玻璃直接归源沉船——本书的物证链至此有了「被浪送到手上」的民用版：Lucy 在数据库找不到的东西，被浪打碎、磨圆、挂在别人家门廊。"beachcombers, like me"（赶海人/拾骸者）的双关是全书题眼级的旁白：Comber Bay 的人靠捡拾沉没物生活——Jess 画画也是。
 - **读者视角提示**：windchimes 用海玻璃做的设定让 Melody 家「挂满沉船残片」——ch18 她说 Jess 拿走父亲旧档案、ch24 Melody 持剪报盒——小镇的记忆在几个住户家里散装成博物馆。
 
 > **原句 6:** "‘Well, the history. The shipwreck, the disappearances, Baby Hope – all of that. And Jess has been immersed in it. She was obsessed with the Naiad. You know, some people reckon there’s a supernatural explanation for the missing men. That it’s the women from the shipwreck. That’s the story Jess wanted to paint – that she wanted to capture, she said. But maybe it all became a bit too much.’"
@@ -82,9 +82,9 @@ source_text: ch24
   “人人都知道他怎么对待老婆。她身上老是青一块紫一块。可怜的女人。没人出手——那个年代不一样了。后来他失踪，大家都当意外：喝多了去游泳。当地新闻几乎没报。”
 - **关键词**：not a nice man / black and blue / it was different in those days / one too many / barely made the local news
 - **为什么这样写**：失踪名单的道德平反句：八名失踪男中的 Goldhill 被镇民记忆钉为家暴者——本书至此把「受害者」的叙事撕开一道口子：被海拿走的男人里有加害者。"it was different in those days"（那年代不同）与 ch11 小报「callous mother」段的年代语感同构——本书的每个时代都有它定制的恶。"barely made the local news" 对位「约 100 条人命立碑」——镇报的注意力分配本身就是阶级判决书。
-- **读者视角提示**：与 ch18 的「tourists/locals」分类图连读：Goldhill 属本地帮（ch18 名单的 local 侧）——Bernard Smith 的图与 Melody 的记忆共同拼出「谁死得没新闻」的名单。
+- **读者视角提示**：与 ch18 的「tourists」与「locals」分类图连读：Goldhill 属本地帮（ch18 名单的 local 侧）——Bernard Smith 的图与 Melody 的记忆共同拼出「谁死得没新闻」的名单。
 
-> **原句 8:** "‘an article about Judith Wilson. She and her husband adopted Baby Hope. Did Jess mention them? They used to live at Cliff House. It fell into ruin after they left, until Jess bought it, really. Awful, the way they were treated. All those rumours. Here, take a look.’"
+> **原句 8:** "… an article about Judith Wilson. She and her husband adopted Baby Hope. Did Jess mention them? They used to live at Cliff House. It fell into ruin after they left, until Jess bought it, really. Awful, the way they were treated. All those rumours. Here, take a look.’"
 >
 > "Melody hands her the crumpled front page of a tabloid from April 1982. The headline is enormous, taking up most of the page: Baby Hope Mystery: Did South Coast Woman Abandon Own Baby?"
 

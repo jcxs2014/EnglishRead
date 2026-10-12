@@ -29,7 +29,7 @@ source_text: ch19
 
 - **中文理解**：我从背后上去环抱住她。她先是被我陌生的触碰惊得一僵，随即笑了，靠向我。那些时刻我几乎觉得，可以不追究她所有没说出口的事。
 - **关键词**：foreign touch / stiffens with shock / leaning into me / all the things she doesn’t say
-- **为什么这样写**：触碰语法学：「stiffens→smiles→leaning」三级软化写尽一个治疗师的失能——她能软化在女儿怀里，却「不说」该说的一切（身世/她的病）。foreign touch 的措辞惊人：女儿的拥抱被描述为外来事件——家庭的疏离感以身体记忆记账。forgive her for all the things she doesn't say 的句式将在 ch17 前后由「truth」主题反复兑现。
+- **为什么这样写**：触碰语法学：「stiffens→smiles→leaning」三级软化写尽一个治疗师的失能——她能软化在女儿怀里，却「不说」该说的一切（身世/她的病）。foreign touch 的措辞惊人：女儿的拥抱被描述为外来事件——家庭的疏离感以身体记忆记账。forgive her for all the things she doesn't say 的句式将在 ch20/ch26/ch27 由「truth」主题反复兑现。
 - **读者视角提示**：与 ch14「Mum literally screamed when she saw my naked flesh」对照——从尖叫到僵硬，母女的身体剧本同源；Jess 的「almost forgive」是她全书最大的一次让步，让步的价码是「她仍然不说」。
 
 > **原句 3:** "‘You know she dies, right? He doesn’t save her.’
@@ -41,7 +41,7 @@ source_text: ch19
 - **中文理解**：“你知道她会死吧。他没救成她。”“噢。”血涌上面颊。……“管它呢，”我说，“我更喜欢我的版本。”
 - **关键词**：she dies / he doesn’t save her / Whatever / my version better
 - **为什么这样写**：跨段连引三段（各自逐字连续，段间以省略号标示）：教师纠错（神话事实）→ 少女窘迫 → 少女拒绝事实。「I like my version better」是 Jess 的全书人格判词——她会用一生维护自己的版本（画/日记/离开方式），这句话同时是艺术宣言与创伤防御。"Whatever" 的单词回绝后接长笑（下一段 his proper laugh），权力关系在笑声里翻转了一次。
-- **读者视角提示**：本书结构自反：三个版本（1800 Mary/Eliza 的、1998 Jess 的、2019 Lucy 的）彼此都是 "my version"——读者最后拿到的没有裁判版。此处也是 ch14「draw what you see, not what you think you see」的隐性反题：Jess 选了 think 的版本。
+- **读者视角提示**：本书结构自反：三个版本（1800 Mary/Eliza 的、1998 Jess 的、2019 Lucy 的）彼此都是 "my version"——读者最后拿到的没有裁判版。此处也是 ch14「draw what you see … not what you think you see」的隐性反题：Jess 选了 think 的版本。
 
 > **原句 4:** "‘I want you to close your eyes,’ he said, ‘and then draw whatever it is that you see.’"
 
@@ -67,7 +67,7 @@ source_text: ch19
 > **原句 7:** "‘It reminds me of something, the colour.’ He put his hand on the table, his fingers edging closer to my curled fist. He traced my knuckles with his index finger and then spoke so softly I had to strain to hear him. ‘That pinkish blue, the way it looks silver in the light. It’s like the inside of a shell.’"
 
 - **中文理解**：“它让我想起一样东西，那个颜色。”他把手放在桌上，手指朝我蜷起的拳头一点点挪近。他用食指描过我的指节，然后说得极轻，我不得不屏息才听得清。“那种粉泛蓝，在光里显银的样子。像贝壳的内侧。”
-- **关键词**：pinkish blue / silver in the light / inside of a shell / beautiful / can’t possibly
+- **关键词**：pinkish blue / silver in the light / inside of a shell
 - **为什么这样写**：全书最危险的一句赞美：它逐字正确——Jess 的皮肤确实被写成银色（ch14「the silver cracks and flakes」、ch05「the silver streaks across her breasts」），贝壳的比喻把病变词表（silver/crust/flakes）换成珠宝词表——但发出者是 mid-twenties 的男师、对在学的未成年女徒，她随即在心里替他把话说完（"But the inside of a shell is beautiful, I wanted to say. Does he – he can’t possibly – think I’m beautiful?"）——破折号内的自我拦截是她一生的饥饿显影：有人用美语描她的皮肤，她不敢核对语法。
 - **读者视角提示**：本书此处零评论——叙述不判、不点破、不预警；ch33 线的追述由后文自呈。读者的预警先于人物是全书设计（对照 ch14「I wanted to paint them」的汗毛）。
 
@@ -82,7 +82,7 @@ source_text: ch19
 - **中文理解**：我没告诉他真相。真相是：每一次做这个梦，我都醒得一次比一次晚。我感到水顺着喉咙灌下去，感到它缠上四肢，把我往下拖。前方有一片刺眼的光亮。真相是：我担心有一天，我那权宜的束缚带不住我。被梦擒住，我会走进蓄水池。我会和她们一起溺死。
 - **关键词**：didn’t tell him the truth / wake up later and later / improvised restraint / caught in the dream / drown with them
 - **为什么这样写**：日记体的最后一条自白：四段以同块 `>` 空行分隔、各自逐字且段段连续（原文第 236/239/242/245 行依序无缺），末段三短句以 that 排比收束——对读者的供词完成于对师的隐瞒。improvised restraint（权宜的束缚）是全章最沉的自我认识：她知道自己的防御是临时的；"caught in the dream" 与 ch11「in thrall」同词族——被梦捕获已是既成事实，剩下的只是深度问题。终句 "And I'll drown with them" 单独成行：with them=梦里的女性们——她已把自己算进 1801 的沉船乘客。
-- **读者视角提示**：cliffhanger 边界（第 9 条 e）：本章终于此（tail 复核 text/ch19 末行即 And I'll drown with them.）；7 月 13 日起的后续日记归 ch20，本章不引用。与 ch14「What if I hadn't woken up?」构成首尾呼问——2 月问可能性，7 月写完成时。
+- **读者视角提示**：cliffhanger 边界（第 9 条 e）：本章终于此（tail 复核 text/ch19 末行即 And I'll drown with them.）；其后日记中断，下一篇日记要到 ch23（1999 年 1 月 1 日），本章不引用。与 ch14「What if I hadn't woken up?」构成首尾呼问——2 月问可能性，7 月写完成时。
 
 ## 本章词汇
 

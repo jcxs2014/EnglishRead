@@ -44,7 +44,7 @@ source_text: ch42
   「我的手机呢，」他说，**手指绕着婚戒转**，「要关机吗？」
 - **关键词**：Jess gives Cameron a list of things to pack / As many bottles of it as you can fill / There are some energy bars in the cupboard / We might have a while to wait for the boat / fingers twisting at his wedding ring / Should I turn it off?
 - **为什么这样写**：**这份清单是一份"生存物资"**——**她让他为自己准备一场他等不到的等待**（**读者知道船不会来**）。**"手指绕着婚戒转"是全章最好的一处伏笔**：**他此刻还在转那枚戒指，而它已经在 Lucy 手里**（ch35）——**他即将失去它的动作被提前演了一遍**。
-- **读者视角提示**：注意"水"是清单第一项——**本书 1801 线的匮乏在这里被 2019 线复现**（对照 ch39 "barely enough of it to drink"）。
+- **读者视角提示**：注意"水"是清单第一项——**本书 1801 线的匮乏在这里被 2019 线复现**（对照 ch41 "barely enough of it to drink"）。
 
 > **原句 4:** "‘Nope, all good,’ she says. ‘Just need to escape for a bit, you know? A bit of a breather before the show.’
 >

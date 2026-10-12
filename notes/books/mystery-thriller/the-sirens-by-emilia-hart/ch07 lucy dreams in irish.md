@@ -35,26 +35,26 @@ source_text: ch07
 - **中文理解**：她怎么可能用一门外语做梦？一门她从没读过、从没听过的语言？
 - **关键词**：dreamt in a foreign language / never read, never heard
 - **为什么这样写**：这是全书类型声明句——哥特/血统神秘主义在此正式入场（睡眠中学外语只有一个解释方向：继承/前世/血脉）。「never read, never heard」两个完成时并列把理性出路全部堵死。反问句由 Lucy 自己提出，她本人成为第一个证人。
-- **读者视角提示**：与 ch05 她「不信连环杀手论」的理性姿态构成对照——她对悬案很清醒，对自身异常却刚开始失措。
+- **读者视角提示**：与本章她「不信连环杀手论」的理性姿态构成对照——她对悬案很清醒，对自身异常却刚开始失措。
 
 > **原句 4:** "He wasn’t sorry for what he’d done, she realises now, but for the fact that he’d been caught. That, for a brief moment, she’d held his future in her hands."
 
 - **中文理解**：他不是对自己做过的事抱歉，她现在明白了，而是对「被抓住」这件事抱歉。原来有那么一小段时间，他的未来握在她手里。
 - **关键词**：wasn’t sorry for what he’d done / been caught / held his future
 - **为什么这样写**：重读道歉信后的认知反转，句式用「not … but …」把介词宾语整体替换——sorry 的对象从「行为」移到「曝光」，一个字不骂完成对男式道歉修辞的解剖。后半句补刀：她意识到权力曾短暂在手，这为 ch04 的双手掐上他喉咙提供了无意识层面的注脚。
-- **读者视角提示**：回看 ch05 原句 Ben 信里 "I did not realise that I didn’t have your consent"——本章 "the wheedling self-justification"（她对他语气的判词）正是对那封信的追认。
+- **读者视角提示**：回看本章 Ben 的道歉信里 "I did not realise that I didn’t have your consent"——本章 "the wheedling self-justification"（她对他语气的判词）正是对那封信的追认。
 
 > **原句 5:** "Like the place wants to swallow you whole, and you want to let it."
 
 - **中文理解**：就像这个地方想把你整个吞下去，而你愿意让它吞。
 - **关键词**：swallow you whole / want to let it
 - **为什么这样写**：Comber Bay 初见印象的总结句：前句才写完全镇的「tangled bush, rolling waves, endless sky」的美，此句立刻翻转成吞噬意象。及物动词 swallow 与主动放弃抵抗的 let 并置，把「风景之美」与「诱捕之美」合成一个——塞壬（siren）的本义即如此。
-- **读者视角提示**：与 ch06 海的「lapping… as if it would eat the land」、本章稍后浪「lapping at her like tongues」构成同一意象群三级递进：海吃地→海吃人→人自愿被吃。书名的含义在这一句完成第一次点题。
+- **读者视角提示**：与 ch06 海的「lapping at the rocks as if it would eat the land」、本章稍后浪「lapping at her like tongues」构成同一意象群三级递进：海吃地→海吃人→人自愿被吃。书名的含义在这一句完成第一次点题。
 
 > **原句 6:** "She imagines the waves lapping at her like tongues, stripping her of flesh until she is nothing but bone, gleaming white. Or perhaps it’s the podcast; the thought of all those missing men, presumed drowned. But with the prickling fear there’s a strange pull, too."
 
 - **中文理解**：她想象海浪像舌头一样舔舐她，把她的肉剥光，直到她只剩白骨，白得发亮。也可能那是播客的缘故——想到那些失踪的男人，全部推定溺亡。但在这阵刺痛的恐惧里，还有一种奇异的吸引力。
-- **关键词**：lapping like tongues / stripping / a strange pull
+- **关键词**：lapping at her like tongues / stripping / a strange pull
 - **为什么这样写**：恐怖与诱惑同体：「tongues」把海浪写成有口舌的生物，「stripping her of flesh until she is nothing but bone」的细密想象后立刻自我怀疑（or perhaps it's the podcast）——叙述者试图理性归因，但下一句承认「strange pull」，归因失败。这是 Lucy 对海的核心矛盾：致命，却被渴望。
 - **读者视角提示**：注意她「怕海水接触皮肤」（银屑病）与「想靠近海」并存的生理矛盾——这为后文她的梦游与海的关联预埋身体性理由。
 

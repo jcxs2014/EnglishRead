@@ -23,7 +23,7 @@ source_text: ch22
 
 - **中文理解**：Lucy 惊缩，身体猛地后仰。她朝身后摸索，手伸进「溪水」里找石头——找一样能当武器的东西。可她的指尖擦过地毯，然后是瓷砖地面的凉。
 - **关键词**：flinches / gropes behind her / into the stream for a rock / brush carpet / cool of a tiled floor
-- **为什么这样写**：动作先于认知的时间差是本段的全部：她的身体已在 1801 年的溪边战斗姿态里（找石头=Mary/Eliza 在水边的记忆库被激活——读者知道 Byrne 拿着石头逼近，ch21/ch05），而世界是 2019 的地毯。the stream 不加任何引导词地出现在她的动作描写里——叙述文法被通灵事件污染，本书的形式实验在最高潮处完成。
+- **为什么这样写**：动作先于认知的时间差是本段的全部：她的身体已在 1801 年的溪边战斗姿态里（找石头=Mary/Eliza 在水边的记忆被激活——读者知道石头是姐妹俩砸向 Byrne 的武器），而世界是 2019 的地毯。the stream 不加任何引导词地出现在她的动作描写里——叙述文法被通灵事件污染，本书的形式实验在最高潮处完成。
 - **读者视角提示**：核对：text/ch22 内 stream 一词在本书语境中此刻只属于 1801 线——读者比 Lucy 早一步意识到这是记忆渗漏。
 
 > **原句 2:** "‘Ambulance?’ For a moment the word feels foreign in her mouth; she has to dredge up its meaning. Then, a hot surge of shame in her cheeks. ‘No, please – I’m fine, really.’"
@@ -37,7 +37,7 @@ source_text: ch22
 
 - **中文理解**：“我没事，”她说，脉搏在「起泡」。她关掉电脑，把笔记本塞进包、甩上肩。“忘了吃午饭。我随便买个三明治就行。”
 - **关键词**：pulse fizzing / shuts down the computer / Forgot to eat lunch
-- **为什么这样写**：fizzing（嘶嘶起泡）与前文 ch14「water seemed to dance… fizzing and bubbling」同词——本书用汽水泡声写心跳，身体内部总有水体在反应。shuts down 的动作决绝：她选择让档案离线，证据留在关机键下——本书的女性常在「继续深挖」与「先逃」之间选后者，然后再选前者。
+- **为什么这样写**：fizzing（嘶嘶起泡）与前文 ch09「water seemed to dance… fizzing and bubbling」同词——本书用汽水泡声写心跳，身体内部总有水体在反应。shuts down 的动作决绝：她选择让档案离线，证据留在关机键下——本书的女性常在「继续深挖」与「先逃」之间选后者，然后再选前者。
 - **读者视角提示**：饥饿/不吃（nausea 同段后文）延续 ch12 Mary 的 cramping hunger——两代女性与「吃」的关系都坏了；本书的身体账本从不单线。
 
 > **原句 4:** "A ferry horn blasts, water lapping at the yellow and green boat. On her right, the white sails of the Opera House; on her left, the elegant curve of the bridge.
@@ -46,14 +46,14 @@ source_text: ch22
 
 - **中文理解**：渡轮汽笛炸响，水在舔拍那艘黄绿相间的船。她右边是歌剧院白帆，左边是海港大桥优雅的弧。可 Lucy 这些都没看见。
 - **关键词**：water lapping / white sails / elegant curve / doesn’t see any of this
-- **为什么这样写**：lap（水之舔拍）继 ch06 岩石、ch07 如舌、ch14 脚跟、ch21 舱底污水之后再次于悉尼港出现——动词链无视地理。白帆与大桥这两张澳洲明信片被一句「doesn't see any of this」整体没收——本书的城市地标只配做水的背景板。
-- **读者视角提示**："the shifting mirror of it"（同段后句）给港湾加了一层「镜」的功能——对照 ch19「A reflected face that wasn’t my own」：水=另一张脸的镜面，这一定律跨洲成立。
+- **为什么这样写**：lap（水之舔拍）继 ch06 岩石、ch07 如舌、ch21 舱底污水之后再次于悉尼港出现——动词链无视地理。白帆与大桥这两张澳洲明信片被一句「doesn't see any of this」整体没收——本书的城市地标只配做水的背景板。
+- **读者视角提示**："the shifting mirror of it"（同段后句）给港湾加了一层「镜」的功能——对照 ch14「A reflected face that wasn’t my own」：水=另一张脸的镜面，这一定律跨洲成立。
 
 > **原句 5:** "Lucy imagines broken pieces of history lodged in the harbour’s seabed. The green glass of a rum bottle, a rusted length of chain. The cracked halves of oyster shells."
 
 - **中文理解**：Lucy 想象历史的碎件嵌在港湾的床底：一只朗姆酒瓶的绿玻璃，一段生锈的链条，裂成两半的蚝壳。
 - **关键词**：broken pieces of history / green glass of a rum bottle / rusted length of chain / cracked halves of oyster shells
-- **为什么这样写**：沉没的静物诗：三件器物依次是「贸易（酒）—囚禁（链）—原住民食物（蚝）」——悉尼港底的三行殖民简史，而本书刚刚给第三行立过规矩（ch20 devastating the First Nations 的句式）。cracked halves 的双半结构暗示两姐妹/两条线，而 oyster（牡蛎）直接回收 ch21 的「贝壳内侧」——美丽的壳内侧是伤口面。
+- **为什么这样写**：沉没的静物诗：三件器物依次是「贸易（酒）—囚禁（链）—原住民食物（蚝）」——悉尼港底的三行殖民简史，而本书刚刚给第三行立过规矩（ch16「devastating the First Nations communities that had thrived there for millennia」的句式）。cracked halves 的双半结构暗示两姐妹/两条线，而 oyster（牡蛎）直接回收 ch21 的「贝壳内侧」——美丽的壳内侧是伤口面。
 - **读者视角提示**：这些物件不可见却「在」——本章的水下意象全部服务那句 The present is nothing more than a tide（下一块）。
 
 > **原句 6:** "Eliza and Mary must have lived, they must have survived. Mary, at the very least. Long enough to bear children, to pass her memories down the centuries with her genes, to fill Lucy’s brain with ghosts."

@@ -27,7 +27,7 @@ source_text: ch11
 
 - **中文理解**：“我以为你是那些观光食尸鬼之一，”Melody 接着说。“那档播客出来之后，来了好多。Ryan Smith 几周前发现有人宿在他家柴棚里，可怜的家伙，吓了个半死。”
 - **关键词**：sightseeing ghouls / camped out in his garden shed / the fright of his life
-- **为什么这样写**：真实悬案被播客旅游化的直接证词——「sightseeing ghouls（观光食尸鬼）」的造词冷峭精确：游客以看死亡为乐，与 ghouls 掘尸同构，一词完成小镇对 true crime 流量的爱恨。Ryan Smith 之名与后文播客 1982 年渔民 Ryan Smith 重名——这是刻意布下的「同名陷阱」，读者将在 Baby Hope 段落重逢这个名字。
+- **为什么这样写**：真实悬案被播客旅游化的直接证词——「sightseeing ghouls（观光食尸鬼）」的造词冷峭精确：游客以看死亡为乐，与 ghouls 掘尸同构，一词完成小镇对 true crime 流量的爱恨。Ryan Smith 就是后文那位渔民（ch16 明写「Ryan Smith is the brother of Daniel Smith, who disappeared in 1981」），并非同名巧合——读者将在 Baby Hope 段落重逢这个名字。
 - **读者视角提示**：柴棚入侵者（camped out）暗示 Comber Bay 悬案的「热度」背后有疯狂个体；本书后段本地危险与超自然危险叠加时，这个闲笔会显出重量。
 
 > **原句 3:** "It was the skipper who heard it first: the noise that came from Devil’s Lookout. At first, the men thought it was an injured bird, but gradually they came to recognise the sound. After all, humans are hardwired to respond to the cry of an infant."

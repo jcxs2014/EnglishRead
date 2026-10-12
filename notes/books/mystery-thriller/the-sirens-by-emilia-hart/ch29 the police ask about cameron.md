@@ -47,7 +47,7 @@ source_text: ch29
 
 - **中文理解**：她看自己的手，每根手指间那张银的网。她疏离地注意到：疹子更重了。她想把这一刻拉长，想挣到思考的时间。她早该给他们让茶让咖啡，给自己买一点时间。现在太晚了：那只会像它本来的样子——逃避。
 - **关键词**：the silver web between each finger / rash is getting worse / stretch the moment out / bought herself a little time / Evasion.
-- **为什么这样写**：皮肤=测谎仪：话术焦虑直接驱动病体恶化（web 指间蹼，merrow 体征再进一格——ch14「merrow 之血」的遗传学在 Lucy 身上以「蹼」现形，而全书唯一摸过她手的水生者是 Eliza/Ch22 的 Jess 梦）。**「Evasion.」一词独段=她自我庭审的判词**，且她不知道此刻她已经撒了第一谎——自我诊断永远慢半拍。tea or coffee 的执念从原句 2 的彩排爬进实战：她真的需要那杯茶买时间，礼仪在本书是生存资源。
+- **为什么这样写**：皮肤=测谎仪：话术焦虑直接驱动病体恶化（web 指间蹼，merrow 体征再进一格——ch14 的 merrow 血统的遗传学在 Lucy 身上以「蹼」现形，而全书唯一摸过她手的水生者是 Eliza/Ch22 的 Jess 梦）。**「Evasion.」一词独段=她自我庭审的判词**，且她不知道此刻她已经撒了第一谎——自我诊断永远慢半拍。tea or coffee 的执念从原句 2 的彩排爬进实战：她真的需要那杯茶买时间，礼仪在本书是生存资源。
 - **读者视角提示**："distantly" 一词标出解离（ch26/27 两代人的 dissociation 语法），Lucy 的皮肤警报她先当别人的事读。
 
 > **原句 5:** "‘Does the name Cameron Hennessey mean anything to you?’
@@ -74,7 +74,7 @@ source_text: ch29
 
 - **中文理解**：两名警官对视。女警官转向她——有那么一刻，Lucy 确定她想说什么、想给她一点安慰。可就在这时，雷响了——像天幕被拉链拉开的那种。Dora Maar 惊恐地窜进沙发底。房子在颤，Lucy 看见男警官紧张地瞥向窗户。云浓、带脉纹、发青绿——像某种巨大生物的翅膀。
 - **关键词**：look at each other / some kind of reassurance / the sky is being zipped open / darts under the sofa / the house trembles / veined and greenish / some great creature’s wings
-- **为什么这样写**：安慰未遂+天雷截断：两人间「人味」的窗口（她也是个人，也想说句软话）被天气程序性打断——本书写制度的温度：只允许露半秒。zipped open 的机械拟声（拉链）配给天空，是全书「天空=可掀开的幕」意象的最锋利版（与 ch06 heavy sky/needle-thin mast 同谱）；clouds veined/greenish 与 Jess 的弃崽之海同色：**天气系统自本章起成为加害方的美术组**。
+- **为什么这样写**：安慰未遂+天雷截断：两人间「人味」的窗口（她也是个人，也想说句软话）被天气程序性打断——本书写制度的温度：只允许露半秒。zipped open 的机械拟声（拉链）配给天空，是全书「天空=可掀开的幕」意象的最锋利版（与 ch06 heavy sky、ch17 needle-thin mast 同谱）；clouds veined/greenish 与 Jess 的弃崽之海同色：**天气系统自本章起成为加害方的美术组**。
 - **读者视角提示**：male officer glance nervously——警察也会怕这房子/这雷，本书的恐惧不分配持证。
 
 > **原句 8:** "When, at last, the crunch of tyres on gravel has faded, disappearing under the weight of the storm, Lucy sits down again, trembling. She looks at her feet, notices that the skin between her toes is thicker, almost webbed. She scratches at a scaly patch on her big toe and pulls it off. The layer underneath is bluish and shining.

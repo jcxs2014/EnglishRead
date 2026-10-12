@@ -34,7 +34,7 @@ source_text: ch08
 
 - **中文理解**：骄傲的桅杆，翼状的帆，在光里半透明。船头的船像——木头卷发垂在挺立的胸脯上，尾巴弯曲发亮，像蛇的身体。美人鱼。和她梦里那条船一模一样。
 - **关键词**：proud masts / diaphanous / glimmering like the body of a snake
-- **为什么这样写**：跨线焊点句：ch06 Mary 眼前的船（"Its sails billowed like huge wings"）在 2019 以 Jess 的画作复现——三条线（1800 亲历／Lucy 的梦／Jess 的画）共享同一图像，「sirens」主题完成三位一体。snake 意象在美人鱼尾巴上注入伊甸园/诱惑毒物学，比 ch06 的「painted, watching eyes」更进一步。
+- **为什么这样写**：跨线焊点句：ch06 Mary 眼前的船（"Its sails billowed like huge wings"）在 2019 以 Jess 的画作复现——三条线（1800 亲历／Lucy 的梦／Jess 的画）共享同一图像，「sirens」主题完成三位一体。snake 意象在美人鱼尾巴上注入伊甸园/诱惑毒物学，比 ch07 的「painted, watching eyes」更进一步。
 - **读者视角提示**：注意句子的确认顺序——先物件细节、再命名（A mermaid）、最后判断（It's the same ship），三段递进复现 Lucy 认出梦的生理过程。
 
 > **原句 4:** "It’s only as she flushes again that it occurs to her: the puddle of urine, the seat left up. The hair. The toilet looked as if a man was the last person to use it."

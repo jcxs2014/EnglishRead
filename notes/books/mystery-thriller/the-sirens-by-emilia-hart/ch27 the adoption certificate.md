@@ -112,7 +112,7 @@ source_text: ch27
 
 - **中文理解**：不知怎的，我确信他会让一切都好起来。
 - **关键词**：Somehow / I know / make everything OK
-- **为什么这样写**：收章句=全书最安静的一声警报：三词主干（I know）+ 副词的自我招供（Somehow——她知道这「知」没有根据）。**"make everything OK" 是 ch27 她替自己找到的父亲替代句（Da had stood firm→he'd make everything OK）**，也是 ch33 追述（groomed / just sixteen 追述）的呈堂证供原件——17 岁的句子先于后文 ch33 的追述完成自供。全书「会好的」（Everything will be OK 变体）与 ch14 "Everything’s fine" 构成两线反讽姊妹：本书人物说出的每句「没事/会好」都是计时器。
+- **为什么这样写**：收章句=全书最安静的一声警报：三词主干（I know）+ 副词的自我招供（Somehow——她知道这「知」没有根据）。**"make everything OK" 是 ch27 她替自己找到的父亲替代句（Da had stood firm→he'd make everything OK）**，也是 ch33 追述（groomed / just sixteen 追述）的呈堂证供原件——17 岁的句子先于后文 ch33 的追述完成自供。全书「会好的」（Everything will be OK 变体）与 ch24 "Everything’s fine" 构成两线反讽姊妹：本书人物说出的每句「没事/会好」都是计时器。
 - **读者视角提示**：cliffhanger 边界（第 9 条 e）：本章终于 4 日条末句（tail 复核 text/ch27 末行）；画室之约（5 日）归 ch28，本章不引用。
 
 ## 本章词汇

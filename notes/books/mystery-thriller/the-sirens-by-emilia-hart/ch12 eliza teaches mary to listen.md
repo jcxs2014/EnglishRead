@@ -48,7 +48,7 @@ source_text: ch12
 
 - **中文理解**：“你，Mary，先出来的——像条扭动的鱼滑进我手里；眼睛又大又黑，像你妈妈，头发像海豹皮一样 slick 地贴着你的头皮。Eliza 呢——你磨蹭了一会儿，像舍不得离开你妈妈的肚子。可你吓坏我们了：你小嘴紫得像冬莓。脐带绕在你脖子上，是我割开你的，我的心跳得好快。”
 - **关键词**：wriggling fish / seal-slick / blue as a winter berry / the cord had become wrapped around your neck / cut you free
-- **为什么这样写**：出生故事的海兽化书写——鱼、海豹、蓝——Mam 的海洋血统在产床意象里无处不在；而 Eliza 的窒息（脐带绕颈）被 Da 归因为「舍不得妈妈肚子」的诗意解释。这个「缺氧时刻」同时是 Eliza 失明病因的家庭假说（下一块引语坐实 Mary 的怀疑）。
+- **为什么这样写**：出生故事的海兽化书写——鱼、海豹、蓝——Mam 的海洋血统在产床意象里无处不在；而 Eliza 的窒息（脐带绕颈）被 Da 归因为「舍不得妈妈肚子」的诗意解释。这个「缺氧时刻」同时是 Eliza 失明病因的家庭假说——紧接着本块的叙述层（text 同章 Da 又一次停在这里，Mary 暗想「要是当时脐带割得快些，她的眼睛也许还能保住」）把它点破。
 - **读者视角提示**：本书的生理真相常藏在家常比喻里——"blue as a winter berry" 的紫绀是医学事实，wrapped cord 是缺氧窒息史；Eliza 的失明由此获得「海选中的代价」的家族叙事。
 
 > **原句 6:** "Mary remembered waking in the old cottage, to the beat of the tide and the call of the gulls, and a strange sound she hadn’t heard before. A sort of keening, of the kind a woman might make in caoineadh, lament. But it was no woman – it was Da, sitting in front of the cottage with his eyes on the shifting waves, calling out for Mam."

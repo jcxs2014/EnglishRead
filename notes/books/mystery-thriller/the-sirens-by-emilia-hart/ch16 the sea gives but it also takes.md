@@ -20,7 +20,7 @@ source_text: ch16
 
 - **中文理解**：而她也并没有过几个男人。这才是伤得这么重的原因。Ben 夺走的不只是尊严，还有她的初夜。他现在知道那是她的第一次吗？他明白「让她看见、触碰那具裸体」意味着什么吗——那具她大部分时间假装不存在的身体。
 - **关键词**：more than one / her dignity; her virginity / a body that… she pretended didn’t exist
-- **为什么这样写**：把 ch05 的照片泄露事件加上一层「性经验起点」的砝码：唯一的一次亲密即唯一的羞辱——数字「one」在本书反复作刑具（ch11「only one place」、此处 more than one）。末句把 ch15「身体=心智器具」的疏离策略照出代价：她不是超然，是不敢拥有。
+- **为什么这样写**：把 ch05 的照片泄露事件加上一层「性经验起点」的砝码：唯一的一次亲密即唯一的羞辱——数字「one」在本书反复作刑具（ch04「only one place」、此处 more than one）。末句把 ch15「身体=心智器具」的疏离策略照出代价：她不是超然，是不敢拥有。
 - **读者视角提示**：破折号后置的同位语（a body that...）是全章最疼的语法：先把「身体」说成物件，再补一句「她假装它不存在」。
 
 > **原句 2:** "Her pain sours into anger. At Ben and Em, but at Jess, too. She was supposed to be here. She was supposed to listen, like a big sister should."
@@ -58,7 +58,7 @@ source_text: ch16
 - **中文理解**：“我不是说我信。可我认识人说他们听过——站在夜里的海滩上。”他停一下，回头看她。“声音，从浪那边传来。女人的声音。”
 - **关键词**：I’m not saying I believe it / standing on the beach at night / Women’s voices
 - **为什么这样写**：民俗恐怖的标准转述链：我不信→有人听→（停顿）→核心句后置（Women's voices 独立成片段）——报告的层级结构把超自然内容的安全距离拉满；「women's」一词与全章 convict women 段完成同词焊点：海里的声音=被登记为 concubines/whores 的女人。本书的鬼，全是有社会身份的。
-- **读者视角提示**：与 ch14「A reflected face that wasn’t my own」、ch13 脑内声音同列通灵证据清单；播客 Part 1（ch10 提及 skepticism barely disguised）的怀疑论立场被本地人证词当场续了命。
+- **读者视角提示**：与 ch14「A reflected face that wasn’t my own」、ch13 脑内声音同列通灵证据清单；播客 Part 1（ch10 提及 scepticism barely disguised）的怀疑论立场被本地人证词当场续了命。
 
 > **原句 7:** "Lucy understands the mindset of small towns, the mythology that a community weaves like cloth. A story repeated so many times that every local knows where to draw breath in the telling. Dawes Plain has its own ghosts."
 
@@ -72,7 +72,7 @@ source_text: ch16
 - **中文理解**：直到往回走、沿着悬崖的脊线，她才想起这名字在哪儿听过。Ryan Smith 是 Daniel Smith 的兄弟——1981 年失踪的那个。而发现 Baby Hope 的那条渔船上，就有他。
 - **关键词**：the spine of the cliffs / brother of Daniel Smith / on the fishing boat that discovered Baby Hope
 - **为什么这样写**：延迟揭晓（delayed recognition）的教科书段：名字先服务对话（Ryan 友善的本地人），姓氏报到（"Smith," he says. 'Ryan Smith.'）之后叙述者才补查记忆——把读者与 Lucy 的认知同步拆成两拍。两重身份的叠加（失踪者兄弟 × 救人者）让「海给也取」当场实例化：同一人同时领受两种海。
-- **读者视角提示**：跨章核对（第 9 条 e）：Daniel Smith 出自 ch05 播客八人名单（"Danny Smith was the quintessential Aussie larrikin"→ ch11 播客 Part 2「lost his brother Daniel」、Ryan Smith 柴棚入侵者）；Baby Hope 救援三人组出自 ch11（David Li, Ryan Smith, skipper Robert Wilson）——本章指认与 ch11 名单严丝合缝，无跨章搬句。cliff spine 的地形词与 ch08「cliff edge」/ch11「golden staircase」共组崖体意象群。
+- **读者视角提示**：跨章核对（第 9 条 e）：Daniel Smith 出自 ch05 播客八人名单（"Danny Smith was the quintessential Aussie larrikin"→ ch11 播客 Part 2「lost his brother Daniel」、Ryan Smith 柴棚入侵者）；Baby Hope 救援三人组出自 ch11（David Li, Ryan Smith and the skipper, Robert Wilson）——本章指认与 ch11 名单严丝合缝，无跨章搬句。cliff spine 的地形词与 ch07「cliff edge」/ch11「golden staircase」共组崖体意象群。
 
 ## 本章词汇
 

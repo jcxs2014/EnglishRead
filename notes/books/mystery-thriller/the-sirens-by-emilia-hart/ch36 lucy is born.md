@@ -35,7 +35,7 @@ source_text: ch36
   就像有人把一根看不见的线抛过整片陆地，勾住她的肋间，往回拉。**海在她的血管里，像歌一样大声召唤。**
 - **关键词**：the page swallowed by darkness / the greasy window / dull and brown / flat silver roofs of houses / Just the sight of it made her thirsty / a blue slice of sea / miles and miles away / an invisible wire across the land / caught her between the ribs and pulled / The sea was in her veins, calling loud as a song
 - **为什么这样写**：**「陆地让她口渴」是全书最怪也最准的生理反应**：水生的身体在内陆会干涸——这个意象把本书的家族遗传从传说降格为**体感**。"an invisible wire across the land" 与紧接着的 "caught her between the ribs and pulled" 是全书对「召唤」最物理的一次描写（肋骨之间＝心脏的位置），而 "calling loud as a song" 把召唤与**歌**并轨——**下一段就是她听见真的歌声**。"flat silver roofs" 的冷色与"blue slice of sea" 的热望构成色彩的匮乏与渴求，作者写乡愁从不写心情，只写**颜色与口渴**。
-- **读者视角提示**：与 ch35 的 Lucy 在崖梯上唱歌对读：**姑姑与侄女都被同一样东西牵引，只是一个顺流而下，一个逆流而上**。
+- **读者视角提示**：与 ch35 的 Lucy 在崖梯上唱歌对读：**母与女都被同一样东西牵引，只是一个顺流而下，一个逆流而上**。
 
 > **原句 3:** "She hadn’t had the energy to mourn his loss: her days were swallowed up by the work of denial, of concealing the secret that swelled inside her. The lonely effort of it, vomiting quietly into the toilet. Taking the bus to Bourke for a pregnancy test, hoodie pulled down over her face, and later, the ultrasound. Combing charity shops for the loosest, baggiest clothes. The constant fear that the truth was written in the new, sloping lines of her body; in the shadows under her eyes.
 >
@@ -55,7 +55,7 @@ source_text: ch36
   就像一种巨大的渴占据了她，成了她身体的主宰。即使睡着，她也受它支配。
 - **关键词**：feel her skin burn / the dome of her stomach cracked and hardened / like a sea creature’s shell / when she was awake, than let the water draw her in her sleep / lock the door, to wipe the tub down afterwards / remove the strands of her hair from the plughole / a great thirst had overtaken her / the ruler of her body / Even as she slept, she was at its mercy
 - **为什么这样写**：**「醒着做」是全书最恐怖的自救逻辑**：她泡水不是因为想泡，而是因为**不泡就会被水在梦里拉走**——她在用可控的仪式替代不可控的发作（与 Lucy 在 ch35 崖梯上"唱歌自救"完全同构）。"the dome of her stomach cracked and hardened like a sea creature's shell" 是本段的核心比喻：**怀孕被写成一种物种转化**。"to remove the strands of her hair from the plughole" 三个清洁动作（锁门、擦缸、捡头发）是**对痕迹的清除清单**——她在为一场尚未发生的事故预先善后。"the ruler of her body" 把"渴"写成君主，本书的水从不请求许可。
-- **读者视角提示**：与 ch35 的 Lucy 在浴缸里梦游（"taps at full blast"）对读——**同一场仪式在两代人身上以相反的目的进行**：母亲用它控制，女儿被它控制。
+- **读者视角提示**：与 Jess 日记里的浴缸梦游（ch19「taps at full blast」、ch32「tap on full blast」）对读——**同一场仪式在两代人身上以相反的目的进行**：母亲用它控制，女儿被它控制。
 
 > **原句 5:** "She sobbed as she made her way down the stairs, thighs shaking with the effort, and opened the back door onto the veranda. She found the beginning of the staircase, the rope that danced in the wind, waiting for her to take it in her hand. The sea beckoned. The hurl of the white waves, the rippling spread of blue, winking with light. It was so beautiful that it hurt her throat.
 >

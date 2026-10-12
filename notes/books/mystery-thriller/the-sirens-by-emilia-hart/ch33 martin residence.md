@@ -54,7 +54,7 @@ source_text: ch33
   警察说过：他们是亲密关系。
   可那开始时 Jess 才十六。是孩子。他 groom 了她。她必须找父母谈，弄清他们知道什么。
 - **关键词**：whether or not / gave up everything / to keep her safe / put it off no longer / just sixteen / A child / groomed / find out what they know
-- **为什么这样写**：**「爱成立，谎也成立」的判决句式**——破折号内的「无论真假」被下一句的全称肯定（gave up everything）盖过：Lucy 决定先信护、后算谎（与 ch27 「Either way, I was unwanted」的 Jess 版全否定成对称——**姐妹俩各用一句 Either way/Whatever 收拢世界**）。"A child." 两词独立=全书道德的最低公理（对照 ch31 "I was seventeen" 的 Melody 版本——本书把「孩子」单独成段两次，第二次比第一次晚三十八年，都在 Comber Bay）。groomed 一词 Lucy 首次直接使用（ch23 的 "He'd groomed her" 是追述句）——**词汇从书里长到嘴边**，本书对伤害的命名完成扩散。
+- **为什么这样写**：**「爱成立，谎也成立」的判决句式**——破折号内的「无论真假」被下一句的全称肯定（gave up everything）盖过：Lucy 决定先信护、后算谎（与 ch27 「Either way, I was unwanted」的 Jess 版全否定成对称——**姐妹俩各用一句 Either way/Whatever 收拢世界**）。"A child." 两词独立=全书道德的最低公理（对照 ch31 "I was seventeen" 的 Melody 版本——本书把「孩子」单独成段两次，第二次比第一次晚三十八年，都在 Comber Bay）。groomed 一词 Lucy 首次直接使用（本章引语 "He'd groomed her" 为叙述句）——**词汇从书里长到嘴边**，本书对伤害的命名完成扩散。
 - **读者视角提示**：just sixteen/groomed 的出处为 Lucy 脑中回放警方措辞+日记事实（"they were in an intimate relationship"+"had been for several years"，ch32/29），非新增信息——引用链全部可回源（见导航条）。
 
 > **原句 5:** "‘It’s Jess. She’s gone.’ The last word comes out strangled, partially formed, as if her mouth cannot bear to utter it.

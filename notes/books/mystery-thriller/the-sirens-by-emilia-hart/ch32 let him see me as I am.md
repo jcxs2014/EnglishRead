@@ -13,7 +13,7 @@ source_text: ch32
 - **情感弧线位置**：Jess 线「投靠危险」的完成章——ch27 的电话预约（Somehow, I know that he will make everything OK）在本章逐一兑现；同时是全书 grooming 过程最完整的一份第一手档案（信任的建立、共享的创伤、许诺、肢体越界、赠书立契）。
 - **人物弧线**：Jess 的自主性全部用在对的位置以外的地方：撒谎、偷裙、主动伸手——她的「蜕皮新生」叙事（snake/galahs/candy pink）越明亮，读者的警报越响；对母亲的「stranger」判决与对自己「never belonged here」判决同构——**她与养父母互相都是陌生人**。
 - **叙事手法**：水的三重入侵（浴缸梦游/浇身/盐冲如血）；色彩系统反转（蓝=病变，粉绿=伪装成自由的危险信号：galahs 的 candy pink、green jersey 的软绿）；「不写之写」——关系突破以 I don’t want to write 整段跳过，只留「tender shine」「hair tangled」两帧。
-- **跨章核对（7b/第9条e）**：A Wave of Dreams=ch11 图书馆旧书（Lucy 2019 见 C. Hennessey 借阅记录）、ch29 警方面前的桌头——三章物证闭环；Orpheus/Eurydice 救翻案承 ch23（Carl Goos 画+"I like my version better"）；「the man who pretended to be my dad」承 ch27 证书；「almost 1,000 kilometres inland」为本章原话计数（Dawes Plain 距海的内陆里程，当场可核于 text）；「I promise you that」与 ch29 Melody 证词中 Danny 的「beg for more」形成男性语词对照组；本句"under my pillow" 后文在 text/ch36（md ch36，37 February? 非也——为 1999 年 2 月条）再次出现——引用归属两处均实存，本章为首现。本章终于末行（tail 复核），1 月 13 日条（约会后续）归 ch33。
+- **跨章核对（7b/第9条e）**：A Wave of Dreams=ch11 图书馆旧书（Lucy 2019 见 C. Hennessey 借阅记录）、ch29 警方面前的桌头——三章物证闭环；Orpheus/Eurydice 救翻案承 ch23（Carl Goos 画+"I like my version better"）；「the man who pretended to be my dad」承 ch27 的收养证书；而「almost 1,000 kilometres inland」为本章原话计数（Dawes Plain 距海的内陆里程，当场可核于 text）；「I promise you that」与 ch29 Melody 证词中 Danny 的「beg for more」形成男性语词对照组；本句"under my pillow" 后文在 text/ch36（md ch36，37 February? 非也——为 1999 年 2 月条）再次出现——引用归属两处均实存，本章为首现。本章终于末行（tail 复核），1 月 13 日条（约会后续）归 ch33。
 
 ## 精读
 
@@ -31,7 +31,7 @@ source_text: ch32
   我没回那句爱。
 - **关键词**：a crack / this stranger / Panadol, water / Love you / I didn’t say it back
 - **为什么这样写**：门缝（a crack）是全章的空间母题：她与家之间只剩一条可控制的缝。"this stranger" 的两词判决直接引用 ch27 的发现（Robert Wilson）——**血缘证伪之后，先垮的是「妈妈」这个词**；「Panadol, water」两项服务里 water 被母亲亲手递出而 Jess 没接（她夜里会自己走进水）——照顾的水与侵害的水在本书是两股水流。"I didn’t say it back." 六词独立段=她第一次主动切断的爱语回路，与 ch23 "Now I wish I hadn’t." 的独段结构同谱：**她的悔恨与亏欠都住六词以下的句子里**。
-- **读者视角提示**：对照 ch27 "the gentle murmur of Dad comforting her"（听见父母互相安慰的夜）——本章她对父母的报复是「关门+不回话」；冷战武器是沉默（Jess 的年龄由后文 ch33 的一句追述给出："But Jess had been just sixteen when it began. A child. He’d groomed her."，本章不另推算）。
+- **读者视角提示**：对照 ch23 "the gentle murmur of Dad comforting her"（听见父母互相安慰的夜）——本章她对父母的报复是「关门+不回话」；冷战武器是沉默（Jess 的年龄由后文 ch33 的一句追述给出："But Jess had been just sixteen when it began. A child. He’d groomed her."，本章不另推算）。
 
 > **原句 2:** "‘All right, love,’ Dad – or the man who pretended to be my dad – said, shutting the door softly."
 >
@@ -60,7 +60,7 @@ source_text: ch32
 - **中文理解**：骑到学校要两小时。30 度，才五分钟我就喘，汗积在膝弯和肘内。可我享受——热风扑脸、风景呼啸倒退，像我一去不回。
   路上骑过水库，学校一帮孩子在那儿，彩毛巾把结痂的草地照得发亮。有人在一棵老桉上系了根绳，轮流荡进浑水。他们的笑闹、身体砸破水面的泼溅声，像嘲一样跟着我。
 - **关键词**：30 degrees / sweat collecting behind my knees / leaving it for good / splash of their bodies breaking the surface / like a taunt
-- **为什么这样写**：高温与汗的清单（膝弯/肘内——ch30 Mary 的 sweat 位置学、ch18 lapping at her heels 同系）：身体在赴约前先交「水」的过路费；**破水面的声音被她听成嘲笑**=创伤性耳鸣（水的敌意替她喊疼）；"as if I was leaving it for good" 的 as if——**出走预演**（她一生真的出走了几次：本章到画室、ch36 后到 Comber Bay——本书的 as if 都会兑现）。
+- **为什么这样写**：高温与汗的清单（膝弯/肘内——ch30 Mary 的 sweat 位置学、ch10 lapping at her heels 同系）：身体在赴约前先交「水」的过路费；**破水面的声音被她听成嘲笑**=创伤性耳鸣（水的敌意替她喊疼）；"as if I was leaving it for good" 的 as if——**出走预演**（她一生真的出走了几次：本章到画室、ch36 后到 Comber Bay——本书的 as if 都会兑现）。
 - **读者视角提示**：reservoir 与 ch07 她家「露营的记忆」的 Paddock Two/星夜呼应——同一家人造的蓄水地，童年与此刻两个她擦肩。
 
 > **原句 5:** "My wet hair framed my face in black tendrils; the dress showed the silvered skin of my chest and arms.
@@ -77,7 +77,7 @@ source_text: ch32
   我像一条蛇，蜕了皮。崭新、完美、自由。
 - **关键词**：black tendrils / silvered skin / Let him see me as I am / like a snake, shed of its skin / New and perfect and free
 - **为什么这样写**：**"Let him see me as I am" 是 ch27 关灯之问（"do you want the light off?"，ch27 原文）的反杀宣言**（Max 要关灯、她偏要开灯赴约——**她以为交出身体=交出主权**，本书在此精确呈现创伤后重建的陷阱：用再次暴露来治愈羞耻，而下一站是同一个「看」的男人——**主动 ≠ 安全**，这是 Jess 线最疼的结构性反讽）；snake 蜕皮与 ch31 gossamer/画布蛇蜕同源：她把 2019 年嵌进画里的那层皮，在 1999 年穿在自己身上——**读者认出她此刻是蛇、未来是皮、皮是展品**。New/perfect/free 三词全大写气口的幻觉句，本书从不评论，只用下一块的 tissue 接刀。
-- **读者视角提示**：省略号处原文另起两段（galahs/candy pink，本块不并引）；tendrils 与 ch14 ivy「tendrilled spider plants」同词——本书的「卷须」系=缠绕的浪漫与危险。
+- **读者视角提示**：省略号处原文另起两段（galahs/candy pink，本块不并引）；tendrils 与 ch08「tendrilled spider plants」同词——本书的「卷须」系=缠绕的浪漫与危险。
 
 > **原句 6:** "Mr Hennessey was in the art room already, sitting at one of the high tables, paper spread all around him, his hair bright with sun.
 >

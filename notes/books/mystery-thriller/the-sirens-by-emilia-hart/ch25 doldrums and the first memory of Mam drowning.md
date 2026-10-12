@@ -13,7 +13,7 @@ source_text: ch25
 - **情感弧线位置**：1800 线的「病程章」——水对皮肤的伤害从警告（Da）变成临床记录；姐妹同盟由触觉缔结（本线最静的一次结盟）。
 - **人物弧线**：Mary 对 Eliza 的「冷静」从怨（It was worse, somehow）转为共病承认；对 Mam 的态度从愤怒禁令（ch21「She is dead」）松动为「第一次允许自己想她怎么死的」；Bridie 从道德污点转正为信息枢纽（Wright 的全部内情由她出口）与「生存乐观主义者」。
 - **叙事手法**：气味/风味编年（rum 甜臭→橙子→maggoty 饼干→血温水——口粮线即船运经济学）；doldrums 的命名学（Eliza 的「bell/tolling」听觉判词）；Rio 一站的全部信息只走女囚听觉+甲板一瞥（结构性不知情——她们被允许看见的世界只有一小时）。
-- **跨章核对（7b/第9条e）**：「silver bubbles and darkly drifting hair」的怪记忆为 **本章内新落地的首见**（前文无同源句，本章末句即其出处——后文 Jess 线 ch27 亦出现同源句，引用归属此处为首）；「hear a man whistle all the way from Dublin」=Eliza 耳力的 Da 玩笑，与 ch12「a voice had valleys」同谱系；Wright 之名首现于本章（ch21 无名的「the sailor」此处得名，Bridie 陪宿对象自此实名）。本章终于末句问句（tail 复核），里约后续航程归 ch26。
+- **跨章核对（7b/第9条e）**：「silver bubbles and darkly drifting hair」的怪记忆为 **本章内新落地的首见**（前文无同源句，本章末句即其出处（后文 Jess 线 ch27 的 bubble 是另一句，非同源，引用归属此处为首））；「hear a man whistle all the way from Dublin」=Eliza 耳力的 Da 玩笑，与 ch12「a voice had valleys」同谱系；Wright 之名承 ch21 实名（ch21「the sailor Wright」，Bridie 的陪宿对象到此才得名）。本章终于末句问句（tail 复核），里约后续航程归 ch26。
 
 ## 精读
 
@@ -50,7 +50,7 @@ source_text: ch25
 - **中文理解**：日子像泥一样渗成一块。
   （鸟鸣声）反而是刺耳而发毛的。
 - **关键词**：seeped together like mud / harsh and eerie
-- **为什么这样写**：seep（渗）是本章的语法：时间渗漏（days）、酒渗漏（rum 灌进污水舱，原句 6）——无风带的水文学把「日子」和「朗姆」都写成会渗的流体。"harsh and eerie" 对 jays/robins/finches「pretty songs」的否定：故乡鸣禽 vs 异乡声——本书的移民书写始终从耳朵判地理；与 ch14 Jess「inconsequential as the buzz of flies」同谱（坏天气先有坏声景）。
+- **为什么这样写**：seep（渗）是本章的语法：时间渗漏（days）、酒渗漏（rum 灌进污水舱，原句 6）——无风带的水文学把「日子」和「朗姆」都写成会渗的流体。"harsh and eerie" 对 jays/robins/finches「pretty songs」的否定：故乡鸣禽 vs 异乡声——本书的移民书写始终从耳朵判地理；与 ch19 Jess「inconsequential as the buzz of flies」同谱（坏天气先有坏声景）。
 - **读者视角提示**：鸟类名单全为爱尔兰/英国原生种（jay/robin/finch）——Mary 的记忆鸟库就是她的国别。
 
 > **原句 4:** "‘The doldrums, they call it,’ Bridie said. ‘When the sea is flat and the wind dies, so the sails cannot fill. Wright told me it sends men mad.’"
@@ -97,14 +97,14 @@ source_text: ch25
   她们越饿越渴，越难扛风暴……冰水冲进底舱，一只酒桶炸了，朗姆灌满了污水舱。
 - **关键词**：the likes of us / a racket / arrest the captain / none will risk their skin / couldn’t sell them / make his coin some other way / Icy water rushed into the prison deck / one of the casks burst / flooding the bilges with rum
 - **为什么这样写**：全书经济线的关键闭环：卖酒未遂→「make his coin some other way」（另谋财源）→口粮断崖→风暴酒桶爆裂。"some other way" 的暧昧被后文（女性作为可交易配额的暗示）追认；"risk their skin" 的皮（人体=可损失资产）与 convicts 的「运货定价」（the likes of us）同句法——本书里人与货共用同一张保险单。rum 灌进 bilge：上章灼 Mary 皮肤的「污水」自此带酒——**底舱的海水变甜的那天，正是她们更渴的开始**。
-- **读者视角提示**：核对（7b）：船长走私酒、前航亡 50 囚（ch18 Fifty died）、Barker 之名（ch20 公报）三证在此咬合成「这艘船本就带血账」；"racket" 词为 ch25 原词逐字。
+- **读者视角提示**：核对（7b）：船长走私酒、前航亡 50 囚（ch16「Fifty died in the crossing from Ireland」）、Barker 之名（ch20 公报）三证在此咬合成「这艘船本就带血账」；"racket" 词为 ch25 原词逐字。
 
 > **原句 8:** "There was a new, glassy look to Bridie’s eyes that she didn’t like, and sometimes she heard her teeth chatter, though it was never cold in the prison deck, in that warm fug of breath and bodies."
 
 
 - **中文理解**：Wright 来访之后，她（Aoife）常常一连几天不理 Bridie。……Bridie 眼里多了一种 Mary 不喜欢的玻璃样的光，有时还听见她牙齿打颤——底舱从来没有冷过，在那团由呼吸和身体烘出来的闷里。
-- **关键词**：for days at a time, after Wright’s visits / a new, glassy look / she heard her teeth chatter / never cold in the prison deck / that warm fug of breath and bodies
-- **为什么这样写**：病征的三段记录（冷颤/眼亮；另段原文 "She often ignored Bridie for days at a time, after Wright’s visits."——数日被冷处理）——本书不点破，但记账：rum 灌入底舱（下两块）后，糖样与打颤都另有解（酒精、戒断或病）。"glassy look"（玻璃光）与 rio 天空的 fathomless blue、ch08「milk white eyes」同属「眼神失透」系列：本书用人眼的透明度变化标注中邪/中毒/通灵的临界。Aoife 的几天不理：共同体对 Bridie 的「用身体换信息」持续投不信任票——信息有用与道德有价并行不悖。
+- **关键词**：a new, glassy look / she heard her teeth chatter / never cold in the prison deck / that warm fug of breath and bodies
+- **为什么这样写**：病征的三段记录（冷颤/眼亮；另段原文 "She often ignored Bridie for days at a time, after Wright’s visits."——数日被冷处理）——本书不点破，但记账：rum 灌入底舱（下两块）后，糖样与打颤都另有解（酒精、戒断或病）。"glassy look"（玻璃光）与 rio 天空的 fathomless blue、ch18「milk white eyes」同属「眼神失透」系列：本书用人眼的透明度变化标注中邪/中毒/通灵的临界。Aoife 的几天不理：共同体对 Bridie 的「用身体换信息」持续投不信任票——信息有用与道德有价并行不悖。
 - **读者视角提示**：注意本章把「酒味进底舱」放在「牙齿打颤」之后、把风暴爆裂放在其前——叙述让读者自行排列「冷」的因果，不给判词。
 
 ## 本章词汇

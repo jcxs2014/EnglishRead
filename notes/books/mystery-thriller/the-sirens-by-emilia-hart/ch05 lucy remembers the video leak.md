@@ -41,15 +41,15 @@ source_text: ch05
 
 - **中文理解**：一件人们都不敢碰的武器，有什么用？
 - **关键词**：weapon / too afraid / touch
-- **为什么这样写**：上一章她立志「以真相为唯一武器」（the truth），福利办公室的劝退把这把武器从手里拿走了。这一句是本章的枢纽：自问句、无引号，是她在 motel 里的内心独白。短问句收尾，力量全靠前文「weapon」隐喻的回响。
+- **为什么这样写**：本章前部她立志「以真相为唯一武器」（the truth），福利办公室的劝退把这把武器从手里拿走了。这一句是本章的枢纽：自问句、无引号，是她在 motel 里的内心独白。短问句收尾，力量全靠前文「weapon」隐喻的回响。
 - **读者视角提示**：这是 Lucy 信仰裂缝的原点——后面全书她反复回到「说出去的真相有没有用」这一问题；journalism 与 sleepwalking 分别代表「说出来」与「控制不住」两条线，本章首次并置。
 
 > **原句 5:** "It’s funny, the way some cases are forgotten, yet others live on in the public consciousness, the victims somehow immortal."
 
 - **中文理解**：挺奇怪的，有些案子被人遗忘，另一些却长存于公众意识里，死者仿佛因此获得了永生。
 - **关键词**：forgotten / live on / public consciousness / immortal
-- **为什么这样写**：这是播客主播的原话嵌入，用「It's funny」这种闲聊语感引出一个惊悚命题：受害的不朽来自未被解决的悬案。同位语「the victims somehow immortal」悬在句尾，不给动词，像一句墓志铭。结构上本章借它完成视角切换——从 Lucy 的回忆切进 Comber Bay 的悬案文本。
-- **读者视角提示**：注意「somehow」的犹豫——主播在替听众把「被记住」安慰成「不朽」；读者要留意这是叙事给 Lucy（也是给读者）的第一份 Comber Bay 情书。
+- **为什么这样写**：这是 Lucy 的自由间接引语，用「It's funny」这种闲聊语感引出一个惊悚命题：受害的不朽来自未被解决的悬案。同位语「the victims somehow immortal」悬在句尾，不给动词，像一句墓志铭。结构上本章借它完成视角切换——从 Lucy 的回忆切进 Comber Bay 的悬案文本。
+- **读者视角提示**：注意「somehow」的犹豫——她暗自把「被记住」安慰成「不朽」；读者要留意这是叙事给 Lucy（也是给读者）的第一份 Comber Bay 情书。
 
 > **原句 6:** "Before she gets into bed, she moves the chair out from under the scratched desk and wedges it under the door handle. She hopes it will be enough."
 

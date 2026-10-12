@@ -22,7 +22,7 @@ source_text: ch21
 - **中文理解**：Mary 没说话。她听见 Eliza 在咬自己的头发，突然盼望水手的灯回来，好让她看见妹妹的脸。好让她不必再独自和自己的记忆待在一起——像一个被丢在林子里的孩子。
 - **关键词**：chewing her hair / the return of the sailor’s lamp / alone with her memories / a child left in a forest
 - **为什么这样写**：反直觉的视觉请求——光通常是好的，这里 Mary 却盼入侵者的灯回来，只为「看见 Eliza 的痛苦」：看不见=无法安慰，失明者的姐姐第一次承认「失明」是她的无能而非妹妹的。chewing her hair 是听觉可及的自苦信号（Eliza 焦虑的躯体语言）。"a child left in a forest" 把回忆（Samhain 的树林）与现实（底舱）叠影——Mary 一直就是被 Da 独自留在记忆森林里的那一个。
-- **读者视角提示**：hair-chewing 与 ch12「Eliza cringed / lacing fingers」同属失明者的「被听见的身体」词表；本书用「姐姐听懂的痛苦」反向标记姐妹亲密。
+- **读者视角提示**：hair-chewing 与 ch12「lacing her cold fingers through Mary’s」/ ch21「Eliza cringed in disgust」同属失明者的「被听见的身体」词表；本书用「姐姐听懂的痛苦」反向标记姐妹亲密。
 
 > **原句 2:** "‘In Kerry, where the sea creeps up the shore, there once lived a merrow,’ Eliza began. ‘She had a tail the silver of fish scales, and hair the ruby red of dulse weed. Her voice was the sweetest thing anyone ever heard."
 
@@ -36,7 +36,7 @@ source_text: ch21
 - **中文理解**：Mam 只剩下一段空缺，心口一道疤。Mam 不再是环抱她的暖臂，不再是摇篮曲的甜。她是炉边那块冷掉的位置，是看着村里妇人紧抱孩子时的那阵刺痛。她是 Da 蜷在岸边、把那件斗篷在手里翻来覆去的样子。
 - **关键词**：only an absence / a scar on her heart / the cold space by the hearth / turning the cloak over and over
 - **为什么这样写**：「母亲」被 Mary 逐条清空后重新定义为三样缺席的容器：空缺（位置）、刺痛（比较）、和父亲手里翻动的湿斗篷。否定排比（was not…was not…）先拆、肯定排比（She was…She was…）后立——立起的三个全是哀悼的物理证据。"turning the cloak over and over"（ch12 地衣绿斗篷的动作版）把父亲的悲恸写成一件反复翻转的物——他不敢丢、不敢穿、只能翻。
-- **读者视角提示**：此段是 ch12 回忆的深化而非重复——ch12 给「愤怒遗传公式」，本章给「愤怒的原材料」；cold space by the hearth 与 ch19 画里的「背对的姐妹走入海」同为「暖位被占」的视觉母题。
+- **读者视角提示**：此段是 ch12 回忆的深化而非重复——ch12 给「愤怒遗传公式」，本章给「愤怒的原材料」；cold space by the hearth 与 ch08 画里的「背对的姐妹走入海」同为「暖位被占」的视觉母题。
 
 > **原句 4:** "By the time she reached the stream, Mary saw that Eliza had broken her promise not to touch the water: she had waded in so deep that it rose to her waist. Mary’s breath caught. It was so cold – cold even for autumn – and the reeds that curled from the banks were sugared with frost."
 
@@ -50,7 +50,7 @@ source_text: ch21
 - **中文理解**：水用冰凉而温柔的手拉扯她，体内有什么被点亮——沉睡埋没之物忽然蜷起、活转过来。她双臂溅出银色水沫、切开水面。前方有一道影子在游，黑发像被风吹着般动。就在那一刻，Mary 感到自己在滑脱，感到一种诱惑：把自己交给感觉、交给记忆。交给 Mam。
 - **关键词**：icy but gentle / sparked inside her / silver with bubbles / a figure swam ahead / give herself over / To Mam
 - **为什么这样写**：海/水的诱惑机制第一次由「姐姐」亲历：icy but gentle 的矛盾形容词=塞壬的标准手感；"something still and buried curled suddenly into life" 是通灵的生理显影；最险的是 Mary 几乎「give herself over」——本书在此让「坚强保护者」也体验了被水召唤的滋味，她不是不懂 Eliza，她是差一点就懂。末句" To Mam."的三段递降（feeling→memory→Mam）把抽象落到一个专有名词。
-- **读者视角提示**：银（silver bubbles）与 ch14「silver cracks」、ch11「silver streaks」同色——皮肤/水/泡的银色词族在此出现；"figure swam ahead"是否为 Eliza 的幻觉、Mam 的幻影或通灵显影，本书故意不给判词——它正是全书「水里的形体」原型之一。
+- **读者视角提示**：银（silver bubbles）与 ch14「silver cracks」、ch05「silver streaks」同色——皮肤/水/泡的银色词族在此出现；"figure swam ahead"是否为 Eliza 的幻觉、Mam 的幻影或通灵显影，本书故意不给判词——它正是全书「水里的形体」原型之一。
 
 > **原句 6:** "‘I’m sorry for what I said,’ she whispered. ‘I didn’t mean it.’
 >

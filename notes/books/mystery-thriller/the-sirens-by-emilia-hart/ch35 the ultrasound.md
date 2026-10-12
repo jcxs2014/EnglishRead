@@ -11,9 +11,9 @@ source_text: ch35
 - **一句话概括**：黎明，Lucy 站在崖梯半腰，唱着 Jess 小时候唱给她的那支岸边姑娘的歌——这一次她没有尖叫、没有后退，歌把心跳压回去，她抓住崖壁上那根第一天就看见的绳爬回屋；门廊脚下硌脚的不是贝壳，是一枚**男人的婚戒**。她顺戒圈内侧的刻字查到 Hennessey 的婚礼——原来他来过 Cliff House；再往下查是悉尼私校的性侵调查与抗议。她终于承认那个说不出口的可能，把戒子搁下、擦净手掌，翻开日记：最后几页没有字，只有越画越黑的洞穴式涂鸦，之后是空白——她摸到书脊里折着的一层东西，展开，是一张**1999 年 4 月 20 日的超声波影像，姓名栏写着 Martin, Jessica**。
 - **视角**：第三人称限知，锁定 Lucy；2019 年 2 月 17 日（周日）黎明至清晨，Cliff House 内——本书 Lucy 线从「查证」转入「确认」的转折章。
 - **情感弧线位置**：ch34（Mary 的梦）之后，Lucy 线的高压顶点之一——她在同一章里同时完成三件事：**身体上的自救（爬崖）**、**事实上的定罪（戒子与报道）**、**血缘上的确认（超声波）**；全章几乎没有对话，是一次独自完成的取证。
-- **人物弧线**：Lucy 从「读日记的侄女」变成「知道真相的人」——她把戒子视为污染（wipes the palm of her hand on her trousers），却在同一只手里握住了答案；她对母亲的信任在此出现第一道裂缝（"Lucy. Don't read any more of that diary." 从保护变成了遮盖）。
+- **人物弧线**：Lucy 从「读日记的养女」变成「知道真相的人」——她把戒子视为污染（wipes the palm of her hand on her trousers），却在同一只手里握住了答案；她对母亲的信任在此出现第一道裂缝（"Lucy. Don't read any more of that diary." 从保护变成了遮盖）。
 - **叙事手法**：**歌声作为结构骨架**——开篇与全章的支点都是那支民谣（与 ch34 女囚合唱同一支歌），把 1800 线与 2019 线在同一段旋律上缝合；物证链以**三件实物**推进（绳→戒→超声波），每一件都先写触感（coarse and wiry / cold and heavy / the weightiness of the paper），**触觉仍是本书判定真实的唯一感官**；结尾的超声波把全书最关键的谜面从「Jess 去了哪」改成「Jess 生下了谁」。
-- **跨章核对（7b/第9条e）**：那根绳首次出现于 ch08（她到 Cliff House 第一天从卧室窗口看见 "It's a snake of rope, protruding from the cliff face"）；"the same song that Jess used to sing to her" 与 ch34 女囚合唱的 "a maid on the shore" 为同一支歌（ch34 由 Da 教给 Mary，本章由 Jess 唱给 Lucy——**歌在两百年间由姐姐传给妹妹**）；Hennessey 的作案模式（抚腕、覆手）与 ch32 画室章他自述的家庭史互为解释；超声波日期 1999 年 4 月 20 日落在 ch32（1999 年 1 月）之后三个月，与 ch26 的 Baby Hope 时间线相接。本章收章为影像姓名栏（tail 复核）："20 April 1999 / Martin, Jessica"。
+- **跨章核对（7b/第9条e）**：那根绳首次出现于 ch08（她到 Cliff House 第一天从卧室窗口看见 "It's a snake of rope, protruding from the cliff face"）；"the same song that Jess used to sing to her" 与 ch34 女囚合唱的 "a maid on the shore" 为同一支歌（ch34 由 Da 教给 Mary，本章由 Jess 唱给 Lucy——**歌在两百年间由母亲传给女儿**）；Hennessey 的作案模式（抚腕、覆手）与 ch32 画室章他自述的家庭史互为解释；超声波日期 1999 年 4 月 20 日落在 ch32（1999 年 1 月）之后三个月，与 ch26 的 Baby Hope 时间线相接。本章收章为影像姓名栏（tail 复核）："20 April 1999 / Martin, Jessica"。
 
 ## 精读
 
@@ -30,7 +30,7 @@ source_text: ch35
   这一次她没有尖叫，也没有退缩。
   站在崖上砂岩阶梯的半途、身体像跳水者一样倾斜着——这几乎像是必然。
 - **关键词**：echoing against the rocks / as if to grasp hold of the song / the hush of the waves / the thrum of her own blood / does not scream or flinch / halfway down the cliff’s sandstone staircase / body tilted like a diver’s
-- **为什么这样写**：**开篇即与梦游对峙**——本书 Lucy 线此前多次写她梦游（ch19 幼儿园、ch32 浴室），本章她**醒着**站在同一处危险位置，作者用 "this time" 一词把整章钉在**复发的坐标系**上："does not scream or flinch" 的否定式是本书写成长的唯一语法（成长＝不再重复某个动作）。"as if to grasp hold of the song" 的动词是本段的题眼：**她想抓住的是歌，不是崖**——歌是她与姐姐之间唯一还在传递的东西，而它是抓不住的（nothing）。"body tilted like a diver's" 把自杀姿态写成技术动作，**不煽情而更冷**。
+- **为什么这样写**：**开篇即与梦游对峙**——本书此前多次写 Jess 梦游（ch19 日记的幼儿园浴缸、ch32 浴室）——这些是 Jess 的日记记忆，不是 Lucy 的经历，本章她**醒着**站在同一处危险位置，作者用 "this time" 一词把整章钉在**复发的坐标系**上："does not scream or flinch" 的否定式是本书写成长的唯一语法（成长＝不再重复某个动作）。"as if to grasp hold of the song" 的动词是本段的题眼：**她想抓住的是歌，不是崖**——歌是她与母亲之间唯一还在传递的东西，而它是抓不住的（nothing）。"body tilted like a diver's" 把自杀姿态写成技术动作，**不煽情而更冷**。
 - **读者视角提示**：读者要留意本章的「这一次」——它预设了此前至少一次同样的位置与同样的尖叫；若不记得那些梦游章，此处会读成一个孤立的抒情开场。
 
 > **原句 2:** "It is a gold ring, cold and heavy in her palm.
@@ -61,7 +61,7 @@ source_text: ch35
 - **中文理解**：校长 Matthew Turner 博士拒绝置评。但抗议后不久，校友、青年活动家 Emma Caulfield——那份记录指控的在线文档的创建者——在 Instagram 上发帖：「我声援那些挺身而出的勇敢学生，并呼吁 Marsden 与警方立即行动。女孩们遭受男同学的性骚扰与侵害已经够糟了。**而一个身处权威位置的人做这种事，是难以想象的。受够了。**」
 - **关键词**：declined to comment / alumna Emma Caulfield / the youth activist / the online document detailing the accusations / I stand in solidarity with the brave students / For someone in a position of authority / Enough is enough
 - **为什么这样写**：**「拒绝置评」与「受够了」被放在同一段**：机构（declined）与个体（Enough is enough）的对位就是本章的政治结构。Emma Caulfield 的作用是提供**集体行动的模板**（一份在线文档、一次罢课、一条帖子）——**本书把 2019 年的 Metoo 式行动写成了 Lucy 个人调查的外部回声**。"a position of authority" 是本书对 Hennessey 的全部定义（权威者＝被信任的人），与 ch32 他说的 "Bigots in my case – liars in yours." 的自我辩护直接对撞。
-- **读者视角提示**：这条帖子的用词（brave students）与 Lucy 的处境形成反讽：**她不是学生，她是侄女，而她要面对的是家里人。**
+- **读者视角提示**：这条帖子的用词（brave students）与 Lucy 的处境形成反讽：**她不是学生，她是要在家里人对面的养女**。
 
 > **原句 5:** "She picks up the ring from the table, looks at the dull metal shining in her palm.
 >
@@ -80,7 +80,7 @@ source_text: ch35
   **她手里握着的是 Hennessey 的结婚戒指。**
 - **关键词**：dull metal shining in her palm / an inscription / C & N, 8.11.15 / on the second page of results / a wedding photographer’s website / Cameron and Nicola, 8 November 2015 / She’s holding Hennessey’s wedding ring
 - **为什么这样写**：**从「刻字」到「日期」的推理只用了三个字面事实**（C&N / 8.11.15 / 8 November 2015），作者刻意让解谜过程**零技巧**——因为真相的门槛从来不是难度，是**愿不愿意看**。两条短句独立成段（"Cameron and Nicola." / "She's holding Hennessey's wedding ring."）是全章的**证据落锤节奏**：本书在每次揭穿时都用**极短的独立句**（ch33 的 "It's Jess. She's gone." 同法）。戒指的存在同时回答了一个具体问题：**Hennessey 到过 Cliff House**——而这正是警方当初的说法。
-- **读者视角提示**：注意她是在 Google **第二页**找到的——作者坚持让调查保持「普通人可复现」的难度，Lucy 不是侦探，她只是一个会搜索的侄女。
+- **读者视角提示**：注意她是在 Google **第二页**找到的——作者坚持让调查保持「普通人可复现」的难度，Lucy 不是侦探，她只是一个会搜索的普通人。
 
 > **原句 6:** "Had there been signs, she wonders now? Evenings where he came back late from school, furtive glances at his phone? Had this woman – Nicola, with her pale eyes and freckled nose – lain in bed beside her husband, unease ticking in her gut? Or had she lived in blissful ignorance?
 >

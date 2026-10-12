@@ -13,7 +13,7 @@ source_text: ch23
 - **情感弧线位置**：1998 线四连日记（ch14/19/23 各条）中信息密度最高的一条——身世线（adoption 之问+恐惧脸）、物件线（狮子鱼画的完整来历）、水战线（泳池溺危）、情感线（Max 初吻）四章并一发。
 - **人物弧线**：Jess 从「被凝视的身体」转为「主动凝视者」（画她=被附身；吻=选择 tether）；「被救」经验改写她一生对男性的分类模板（savior Max / predator men-with-milk-sour-breath）。
 - **叙事手法**：倒叙套层（5 a.m. 写 → 回叙圣诞午餐 → Boxing Day 书房 → 新年夜泳池）；grounding 技术首次出现（Hennessey 的 toes-to-fingertips 法，2019 Lucy 的 catalogue her senses 是它的遗传变体）；「Now I wish I hadn't.」现在时收章——日记体唯一一次用后悔的现在时。
-- **跨章核对（7b）**：狮子鱼画=ch08 Lucy 在 Cliff House 卧室墙上的「揉皱又抚平」那幅——本章给出它的完整身世（谁画、谁扔、谁捡回、为何抚平）；milk-sour breath=ch20 图书馆馆员/ch21 水手/Byrne 同一气味词，Jess 先于两代人说出口。本章末行即 text 末行（tail 复核），后续（1 月 13 日条目）归 ch24。
+- **跨章核对（7b）**：狮子鱼画=ch08 Lucy 在 Cliff House 卧室墙上的「揉皱又抚平」那幅——本章给出它的完整身世（谁画、谁扔、谁捡回、为何抚平）；milk-sour breath 在全书是男子的浊气（ch22「milk-sour breath」、此处 Hennessey），ch21 的「Something sour-sweet, like old milk」则是它的气味先声。本章末行即 text 末行（tail 复核），后续（1 月 13 日条目）归 ch24。
 
 ## 精读
 
@@ -63,8 +63,8 @@ source_text: ch23
 - **中文理解**：“给我。”他说，从我手里抽纸，抽得那么用力，纸差点撕裂。我来不及拦，他把那纸揉成团，扔进废纸篓。
   “回你房间去。”他说，箍着我的肘把我赶出门。“你还闹得不够吗？”
 - **关键词**：pulling… so hard it almost ripped / scrunched it into a ball / wastepaper bin / gripping me around the elbow / marching me out / you’ve done enough
-- **为什么这样写**：父亲的失态三连（扯/揉/赶）：almost ripped 的「几乎撕裂」接近全书对「纸/女儿」的双关极限——他的暴力只敢用在纸上；"you’ve done enough" 六字判词把一晚的逼问定性为「做够了的事」——秘密的守门语从来不是「别问」而是「你已伤害了我们」。gripping/marching 的物理节奏与 ch11「grip」的温柔版（Max 捏耳朵）对照：同一族动词分善恶。
-- **读者视角提示**：下一块她立刻返场捡画——本书「扔→捡」的完整回路在此闭合（ch16 Ryan 父档案被扔给 Jess 也是它的镜像变体）。
+- **为什么这样写**：父亲的失态三连（扯/揉/赶）：almost ripped 的「几乎撕裂」接近全书对「纸/女儿」的双关极限——他的暴力只敢用在纸上；"you’ve done enough" 六字判词把一晚的逼问定性为「做够了的事」——秘密的守门语从来不是「别问」而是「你已伤害了我们」。gripping/marching 的物理节奏与 ch14「grip」的温柔版（Max 捏耳朵）对照：同一族动词分善恶。
+- **读者视角提示**：下一块她立刻返场捡画——本书「扔→捡」的完整回路在此闭合（ch16 Ryan 主动把自己父亲的 Naiad 档案交给 Jess，是「物证交接」这条线的另一端）。
 
 > **原句 5:** "Part of me hated myself, but I knew I might not be alone again for days."
 >
@@ -87,7 +87,7 @@ source_text: ch23
   然后一条手臂箍住我的腰，往外拽，空气冲进肺的痛，皮肤蹭上砂石的擦痛。
 - **关键词**：I couldn’t breathe / neon blue / in water, drowning / flail of my own limbs / ghost white / like I was already dead / arm around my waist / the pain of air / scrape of gravel
 - **为什么这样写**：梦中溺/醒中溺的叠影句法：「醒来」与「不能呼吸」同瞬——她的醒先于身体出水的三拍，读者全程分不清这是溺中的梦醒还是梦里的溺；neon blue 的人造光色（泳池灯）替换了 1801 的黑水——海的转世在郊区后院。"like I was already dead"→"like one day I’d stopped being a child"（上块）：「像已经……」句式两次，一次无意识、一次无察觉——本书写「越界」都用 similes of not-yet。
-- **读者视角提示**：waist 的手臂（Max）与本章收章的 tether 句（tethering me to the here and now）同词族——本书的救援动作=物理的「拴」；梦游线（ch14 绑腕→此处自救未遂→被救）完成从「束缚」到「被束缚」的身份互换。
+- **读者视角提示**：waist 的手臂（Max）与本章收章的 tether 句（tethering me to the here and now）同词族——本书的救援动作=物理的「拴」；梦游线（ch19 她把自己的腕子绑上床头板→此处自救未遂→被救）完成从「束缚」到「被束缚」的身份互换。
 
 > **原句 7:** "‘Do you want to tell me what happened?’ he said, leaning over the kitchen counter, watching me as I took tiny bites of my toast."
 >

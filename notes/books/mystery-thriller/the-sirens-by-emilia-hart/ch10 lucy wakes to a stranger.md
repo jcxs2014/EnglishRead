@@ -41,7 +41,7 @@ source_text: ch10
 
 - **中文理解**：她一阵发凉地意识到自己没做任何防护——没把椅子卡在卧室门把下；事实上她记得前门根本没锁，怕 Jess 回来没钥匙进不了门。所以她甚至无法确定自己没有梦游过。
 - **关键词**：wedged a chair / left the front door unlocked / can’t even be sure
-- **为什么这样写**：自我安防链的完整性检查——ch08 结尾她「把椅子卡门」的防御动作在本章清晨被追认为「没做」；随后她把「没锁门」归因于体贴 Jess，再翻转为「无法排除自己梦游」——每一步推理都在扩大威胁面：危险可能来自屋内睡着的自己。
+- **为什么这样写**：自我安防链的完整性检查——本章清晨她把「把椅子卡门」的安防动作追认为「没做」；随后她把「没锁门」归因于体贴 Jess，再翻转为「无法排除自己梦游」——每一步推理都在扩大威胁面：危险可能来自屋内睡着的自己。
 - **读者视角提示**：梦游（sleepwalking）的叙事功能已从病因（ch04）变为侦查变量——Lucy 成为自己的嫌疑人，这是哥特小说的「不可靠自我」装置。
 
 > **原句 5:** "In the early-morning light, she sees tracings of sand on the rich wood; notices a dark bloom of damp on the ceiling. It’s as if the house longs to be reclaimed by the sea."
@@ -56,7 +56,7 @@ source_text: ch10
 - **中文理解**：水源性荨麻疹在她还是婴儿时就被确诊；她想不起水不是威胁的时期。多年下来她靠严格的例程与仪式达到某种接纳：剪短头发、用湿巾代替淋浴——虽然那一点湿气也可能诱发发作。她不去想游泳会是什么感觉。
 - **关键词**：aquagenic urticaria / routines and rituals / trigger an attack / does not think
 - **为什么这样写**：全书核心病理在此正式命名（医学名以被动句开场，像诊断书）。「routines and rituals」把日常护理写成宗教仪轨，呼应 1800 线的禁忌体系（Da 的水规矩）——Lucy 的病症与家族禁忌在此结构同构。末句 "She does not think of how it might feel to swim" 是全章最重的否定：怕水的人住在海崖上，还梦见了船。
-- **读者视角提示**：ch02 Historical Note 若读过，此处病症的原型指向历史上的「witch marks」叙事——勿凭印象扩写，以正文为准。
+- **读者视角提示**：正文里该病症的确诊与描写（ch08 起）都指向生理触发（水、汗、湿气）而非巫术叙事——勿凭印象把它扩写成历史上的猎巫原型，ch02 Historical Note 讲的是流放与航海，并无此说；以正文为准。
 
 > **原句 7:** "But sometimes, the question she tries so hard to suppress bubbles to the surface. When she sees her mother wash her hands at the kitchen sink; when she sees her father delight in the rare gift of rain. Why me and not them?"
 

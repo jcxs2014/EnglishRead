@@ -24,7 +24,7 @@ source_text: ch28
 - **中文理解**：她坐在 Cliff House 客厅塌陷的沙发上。Cliff House——她父母曾经住过的地方。父亲是否坐过那张磨旧的餐桌、纸笔摊了一圈？母亲是否在那间小得发黄的厨房剁菜、望着海哼歌？窗外树上挂的是母亲的喂鸟器，檐下积灰的杂志是母亲的。
   她闭眼挡泪，却看见小报头条——在她眼睑的内幕上亮如霓虹。
 - **关键词**：her parents had once lived / pencils and paper spread out / the tiny yellow kitchen / her mother’s bird-feeder / dust-choked / stem her tears / neon bright on the canvas of her eyelids
-- **为什么这样写**：物件认领链（喂鸟器→杂志→厨房→餐桌）——**每认一件物，就领一份家人**：Wilson 家的物品在 2019 仍是 Martin 家，物不改名是本书写「换姓隐居」最静的一笔。neon bright on the canvas of her eyelids 把小报头版烙进视网膜内屏——headline 的印张与眼睑的画布合写，读者见过 ch18「burn like splinters」的同一光学系统：坏消息在本节永远有亮度单位。
+- **为什么这样写**：物件认领链（喂鸟器→杂志→厨房→餐桌）——**每认一件物，就领一份家人**：Wilson 家的物品在 2019 仍是 Martin 家，物不改名是本书写「换姓隐居」最静的一笔。neon bright on the canvas of her eyelids 把小报头版烙进视网膜内屏——headline 的印张与眼睑的画布合写，读者见过 ch07「burn, splinters」的同一光学系统：坏消息在本节永远有亮度单位。
 - **读者视角提示**：Had her father sat… / Had her mother chopped… 的过去完成疑问句是「回不去的想象」语法——她问的是从未见过的家。
 
 > **原句 2:** "She imagines her mother, white-faced and pregnant, struggling down the treacherous steps to Devil’s Lookout. Imagines her crouched in the cave’s red womb, alone and terrified as she pushed a child from her body … a child that mental illness drove her to abandon …"

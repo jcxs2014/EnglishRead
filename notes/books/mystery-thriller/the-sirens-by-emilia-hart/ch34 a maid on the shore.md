@@ -13,7 +13,7 @@ source_text: ch34
 - **情感弧线位置**：ch30 的袭击/鲨鱼章之后，Mary 的**内在崩解章**——她在梦里被母亲召唤、在醒来后确认自己「还活着但已被水泡软」；全章是她对「死」的第一次正面凝视（不是对 Byrne、不是对风暴，而是对 Mam 的尸体）。
 - **人物弧线**：Mary 从「被保护者」滑向「受召者」——她一度想跟 Mam 走（"She would never see Da again" 是唯一的挽留绳）；Eliza 则完成她的角色定型：**用歌把妹妹从水里拉回来**（与 ch30 用石头从 Byrne 手里拉回来同构，一石一歌，一暴一柔）；姐妹的水神学在此第一次以「歌」为形式出现。
 - **叙事手法**：梦=全章的第一幕，且**梦是反向的葬礼**（她以为在赴母亲的约，实为海在诱她下水）；尸体描写用**海洋生物词汇**（fleshy wings / gills / barnacles）——把 Mam 写成海的一部分；现实段以**缺水与咸水并存**的悖论收束（water raged around them … yet there was still not enough to drink）；老歌歌词以无引号独立行排版=口传民谣的书面形态，为 ch30 的 "reddened stone" 与后文的 merrow 传说接上同一个口头传统。
-- **跨章核对（7b/第9条e）**：Mam 死于海、尸体被海吃掉=ch04 起 Lucy 线的播客与 ch21 Samhain 章的既定事实，本章是 **Mam 之死的第一次「见尸」**（此前均为转述）；"Eliza’s beloved merrow with shining scales" 与 ch21（Samhain 与 merrow 章）、ch12（Eliza 教 Mary 听水）同源；老歌 "a maid on the shore" 的歌词三行与 ch06 Da 教歌的追述呼应；Eliza 的歌＝ch12（她学听水那一章）的**反向兑现**（那一章她学听，本章她学唱）。本章收章句=末行（tail 复核）："Mary wondered if the captain could hear it. The beauty they made of his prison."
+- **跨章核对（7b/第9条e）**：Mam 死于海、尸体被海吃掉=ch21 Samhain 章与 ch12 的既定事实（由 1800 线自己建立：ch12「They’d been five years old when Mam drowned」），本章是 **Mam 之死的第一次「见尸」**（此前均为转述）；"Eliza’s beloved merrow with shining scales" 与 ch21（Samhain 与 merrow 章）、ch12（Eliza 教 Mary 听水）同源；老歌 "a maid on the shore" 的歌词三行与本块 Da 教歌的追述呼应；Eliza 的歌＝ch12（她学听水那一章）的**反向兑现**（那一章她学听，本章她学唱）。本章收章句=末行（tail 复核）："Mary wondered if the captain could hear it. The beauty they made of his prison."
 
 ## 精读
 
@@ -42,7 +42,7 @@ source_text: ch34
   肉质的翼，像 Da 网里鲱鱼的鳃，在她颌下拍动。她的双颊结着灰白的藤壶，本该是眼睛的地方是两枚生肉的粉红窟窿。
 - **关键词**：for the first time / allowed herself to look / Fleshy wings / like the gills on the herring / beat beneath her jaw / crusted grey with barnacles / raw pink holes / where her eyes should have been
 - **为什么这样写**：**全书最著名的尸体描写，也是全书的生态学宣言**：Mam 的脸被**逐项替换成海产**——鳃（鱼）、藤壶（甲壳）、空眼（被吃掉的软组织）。**关键在比喻的取材**：不是「像尸体」，而是「像 Da 网里的鲱鱼」——**父亲的劳动工具成了描述母亲尸体的词典**（这是全书对「渔村」最狠的一次回敬）。"allowed herself" 一语双关：既是被催眠的放弃抵抗，也是**她主动选择知道**（本书的成长一律写成「允许自己看」）。"raw pink holes" 的无修饰名词收尾，是本段克制的极点——**不写血、不写气味，只写「本该是眼睛的地方」**。
-- **读者视角提示**：与 ch33 Lucy 的梦（浴室 taps at full blast）对读：**两代女主都被水叫进夜里**，只是一个在浴缸、一个在海里；本书的家族遗传在梦里比在血里更清楚。
+- **读者视角提示**：与 Jess 日记里的浴缸梦游（ch19「taps at full blast」、ch32「tap on full blast」）对读：**两代女主都被水叫进夜里**，只是一个在浴缸、一个在海里；本书的家族遗传在梦里比在血里更清楚。
 
 > **原句 4:** "Her own scream woke her to the groan and pitch of the ship. Her breath came fast in her chest, and she raised fingers to her neck, checking that the skin there was smooth. It was tender to the touch, so tender that she ripped her hand away, not wanting to feel it, not wanting to know."
 
@@ -76,7 +76,7 @@ source_text: ch34
 - **中文理解**：但有一件事 Eliza 说对了，Mary 意识到了：唱歌会让她平静下来。于是她仰起头，把歌从肺里推出去。那是 Da 教她们的歌——那时她们小得能坐在他膝前、对着炉膛里跳动的火。歌里唱一个在岸边等的姑娘，用歌声诱来一位船长，再夺走他的钱和剑。Da 唱得那么动情——Mary 记得那些音符从他胸腔里颤出来——**她一度以为那是他自己作的。**
 - **关键词**：Eliza was right about one thing / tilted back her head / pushed the song out through her lungs / one that Da had taught them / small enough to sit at his knee / before the jumping flames of the hearth / a maiden who waits on the shore / luring a sea-captain with her voice / robbing him of his coins and his sword / with such passion / the notes quivering from his chest / believed he’d composed it himself
 - **为什么这样写**：**「唱歌」被拆成生理动作**（tilted back her head / pushed the song out through her lungs）——不是艺术，是**排出一件东西**（与上一块「想把耳朵堵上」呼应：她不能停止听，但可以开始发声）。歌的内容是**全书主题的民谣版**：**岸边女子以歌诱船长→夺其财与剑**——这正是女囚们此刻在做的事（用歌声把船长从狂涛里「托」起来，或说，**把船从他的掌控里偷走**）。"quivering from his chest" 是 Da 唯一的身体记忆（与 ch30 他的沉默、ch33 父亲雨中仰面同构：**本书的父亲们只在胸腔发声**）。"believed he’d composed it himself" 与后文 "that could not have been so" 形成**去魅**：她小时候相信父亲是原创者，长大知道歌是口传的——**父权在民谣面前退位**。
-- **读者视角提示**：这首歌在 ch06 已被 Da 唱过（Mary 记得的正是那一幕），本章由女儿在船上重唱——**同一首歌跨了船与岸、生与死**：本书用民谣做「记忆的船」。
+- **读者视角提示**：这首歌由 Da 教给童年的 Mary（原句 7：Da had taught them, when they were small enough to sit at his knee），本章由女儿在船上重唱——**同一首歌跨了船与岸、生与死**：本书用民谣做「记忆的船」。
 
 > **原句 8:** "You should have known me before
 >
