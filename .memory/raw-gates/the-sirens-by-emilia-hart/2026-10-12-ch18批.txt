@@ -1,0 +1,113 @@
+# the-sirens-by-emilia-hart ch18 批门禁 2026-10-12（完整 lane）
+
+=== verify_quotes ===
+ch04 lucy wakes strangling ben.md: 5/5 ✅
+ch05 lucy remembers the video leak.md: 6/6 ✅
+ch06 mary and eliza at the dock.md: 8/8 ✅
+ch07 lucy dreams in irish.md: 7/7 ✅
+ch08 inside cliff house.md: 8/8 ✅
+ch09 the hold and samhain nights.md: 8/8 ✅
+ch10 lucy wakes to a stranger.md: 8/8 ✅
+ch11 melody feeds dora maar.md: 14/14 ✅
+ch12 eliza teaches mary to listen.md: 12/12 ✅
+ch13 jess phone and naiad.md: 13/13 ✅
+ch14 jess diary the tongue test.md: 16/16 ✅
+ch15 rereading the diary entry.md: 15/15 ✅（另有 1 条短引语未校验）
+ch16 the sea gives but it also takes.md: 18/18 ✅
+ch17 the dead sailor and bradies bread.md: 14/14 ✅
+ch18 the eight and make it stop.md: 20/20 ✅
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 172/172 引文可核实（100%）；完全干净文件 15/15；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== check_vocab ===
+词条行合计: 238
+
+--- FAIL (0) ---
+
+--- ⚠️ 存量待清（只检出，不判红；存量清理是另一件事）---
+  禁止标注（AGENTS 第 5 条明令禁止，例句列写「未出现/凭记忆」等）1 处：
+    · ch18 the eight and make it stop.md:132  - **读者视角提示**：Lucy 尚未从任何公开史料查到 Mary/Eliza 的姓名（Naiad 乘客名录未在本章出现）——她此刻的称呼
+
+--- WARN (4) ---
+  ch05 lucy remembers the video leak.md [基础] 基础档疑含超纲词「recognition」
+  ch11 melody feeds dora maar.md [基础] 基础档疑含超纲词「sightseeing」
+  ch13 jess phone and naiad.md [基础] 基础档疑含超纲词「padlocked」
+  ch14 jess diary the tongue test.md [基础] 基础档疑含超纲词「bickering」
+
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== check_chapter_quotes --book-dir ===
+⚠️  全书共 7 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 177，命中本章 177（100%）
+✅ 全部引语均归属正确章节
+
+=== corruption_scan ===
+
+=== 编辑损坏扫描（the-sirens-by-emilia-hart）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== sweep_full --quiet ===
+=== 引语整串 flat 比对（the-sirens-by-emilia-hart）===
+  参照集：text/ 逐章（52 章，可定章） + epub 交叉验证
+  ✅ 本章命中 172 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+
+=== sweep_analysis_inline（修正后 🟠=0）===
+=== 分析层行内英文逐字核查（the-sirens-by-emilia-hart）===
+  参照集：text/（52 个提取件） + epub 交叉验证 ；扫 15 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：324 个表格行、13 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 507 ｜ ⚠️ 跨章 43 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 46
+  ⚠️  ch05 lucy remembers the video leak.md:37  「puppet led by its master」→ 实为 ch4
+  ⚠️  ch05 lucy remembers the video leak.md:38  「She'd been strangling him」→ 实为 ch4
+  ⚠️  ch07 lucy dreams in irish.md:31  「Mo dheirfiúr. My sister.」→ 实为 ch6,8,10
+  ⚠️  ch07 lucy dreams in irish.md:52  「as if it would eat the land」→ 实为 ch6
+  ⚠️  ch08 inside cliff house.md:37  「Its sails billowed like huge wings」→ 实为 ch6
+  ⚠️  ch09 the hold and samhain nights.md:23  「place wants to swallow you whole」→ 实为 ch7
+  ⚠️  ch09 the hold and samhain nights.md:59  「She did not want to think of Mam, and what had happened 」→ 实为 ch6
+  ⚠️  ch09 the hold and samhain nights.md:72  「perform her sisterly duty」→ 实为 ch6
+  ⚠️  ch12 eliza teaches mary to listen.md:101  「desire morphed into rage」→ 实为 ch11
+  ⚠️  ch13 jess phone and naiad.md:32  「where her body ended and the darkness began」→ 实为 ch12
+  ⚠️  ch13 jess phone and naiad.md:84  「She is not of flesh and blood but wood and paint」→ 实为 ch6
+  ⚠️  ch13 jess phone and naiad.md:99  「perform her sisterly duty」→ 实为 ch6
+  ⚠️  ch14 jess diary the tongue test.md:32  「silver streaks across her breasts」→ 实为 ch5
+  ⚠️  ch14 jess diary the tongue test.md:38  「I understand that you’re upset」→ 实为 ch5
+  ⚠️  ch14 jess diary the tongue test.md:39  「I used to think that too」→ 实为 ch7
+  ⚠️  ch14 jess diary the tongue test.md:39  「And one day so will you」→ 实为 ch7
+  ⚠️  ch14 jess diary the tongue test.md:53  「aqueous greens and blues」→ 实为 ch8
+  ⚠️  ch14 jess diary the tongue test.md:60  「She must have tried to open it in her sleep」→ 实为 ch13
+  ⚠️  ch14 jess diary the tongue test.md:80  「not once in her life」→ 实为 ch4
+  ⚠️  ch14 jess diary the tongue test.md:88  「lacing her cold fingers through」→ 实为 ch12
+  ⚠️  ch15 rereading the diary entry.md:62  「In all the pictures, Jess wears long sleeves, a high-nec」→ 实为 ch13
+  ⚠️  ch15 rereading the diary entry.md:68  「fight injustice with the only weapon」→ 实为 ch5
+  ⚠️  ch15 rereading the diary entry.md:91  「Your dad's is the same」→ 实为 ch14
+  ⚠️  ch15 rereading the diary entry.md:126  「A faded book about surrealism called」→ 实为 ch11
+  ⚠️  ch16 the sea gives but it also takes.md:31  「It’s feathered with tiny cracks. Someone must have crump」→ 实为 ch8
+  ⚠️  ch16 the sea gives but it also takes.md:89  「The warmth of a hand in mine」→ 实为 ch14,15
+  ⚠️  ch16 the sea gives but it also takes.md:103  「Melody is as surprised to learn that Jess has a sister a」→ 实为 ch11
+  ⚠️  ch16 the sea gives but it also takes.md:117  「A reflected face that wasn’t my own」→ 实为 ch14,15
+  ⚠️  ch16 the sea gives but it also takes.md:130  「But then I grew up」→ 实为 ch7
+  ⚠️  ch16 the sea gives but it also takes.md:145  「Danny Smith was the quintessential Aussie larrikin」→ 实为 ch7
+  ⚠️  ch17 the dead sailor and bradies bread.md:38  「That laugh – rich as the pouring of ale」→ 实为 ch12
+  ⚠️  ch17 the dead sailor and bradies bread.md:52  「some of them mere girls」→ 实为 ch16
+  ⚠️  ch17 the dead sailor and bradies bread.md:72  「wet thud of the rock」→ 实为 ch6
+  ⚠️  ch17 the dead sailor and bradies bread.md:94  「where her body ended and the darkness began」→ 实为 ch12
+  ⚠️  ch17 the dead sailor and bradies bread.md:101  「I understand that you’re upset'」→ 实为 ch5
+  ⚠️  ch18 the eight and make it stop.md:31  「Four paces to the railing」→ 实为 ch11
+  ⚠️  ch18 the eight and make it stop.md:38  「as if it would eat the land'」→ 实为 ch6
+  ⚠️  ch18 the eight and make it stop.md:54  「bright gleam of eyes」→ 实为 ch8
+  ⚠️  ch18 the eight and make it stop.md:70  「I gave her one of Dad’s old files」→ 实为 ch16
+  ⚠️  ch18 the eight and make it stop.md:76  「Locals don't want reminders」→ 实为 ch16
+  ⚠️  ch18 the eight and make it stop.md:83  「That’s how these women」→ 实为 ch16
+  ⚠️  ch18 the eight and make it stop.md:83  「some of them mere girls」→ 实为 ch16
+  ⚠️  ch18 the eight and make it stop.md:147  「standing on the beach at night」→ 实为 ch16
+
+=== 本轮阻断型自查 ===
+① 词表破损行（'cairn 之外，本章：bulldog clip' 杂字混入词条列）→ 删
+② 分析层 1 处 ch16 回引非逐字（省略了破折号插入语）→ 补全为整句逐字（先 grep 回 text/ch16 核验）
+③ The Eight 年份-人名映射断言自查：书文本从未逐人配对 → 撤推测、只留 text 实据（first five/1981 Daniel）——禁令2/7c 类
+④ 短引语人工兜底 6 条（Singing./Make it stop./3.20/3.33/What if she'd fallen/That's what the dreams are like）全命中本章 text
+⑤ 跨自然段引语 2 处按书内格式（同块空行 > 分隔）书写，sweep_full 🔶=0
