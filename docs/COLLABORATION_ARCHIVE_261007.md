@@ -1,7 +1,323 @@
-# Agent 协作消息板 · 历史归档（2026-10-04 ~ 2026-10-07）
+# Agent 协作消息板 · 历史归档（2026-10-04 ~ 2026-10-09）
 
-> **本文件为 [COLLABORATION.md](../COLLABORATION.md) 的只读历史归档**（2026-10-11 拆分归档，共 25 条消息）。排序与主文件一致（newest first）。
-> **📁 归档索引**：[ARCHIVE_260905.md](COLLABORATION_ARCHIVE_260905.md)（08-10~09-03）· [ARCHIVE_260909.md](COLLABORATION_ARCHIVE_260909.md)（09-04~09-09）· [ARCHIVE_260915.md](COLLABORATION_ARCHIVE_260915.md)（09-10~09-15）· [ARCHIVE_260921.md](COLLABORATION_ARCHIVE_260921.md)（09-16~09-21）· [ARCHIVE_260923.md](COLLABORATION_ARCHIVE_260923.md)（09-22~09-23）· [ARCHIVE_260926.md](COLLABORATION_ARCHIVE_260926.md)（09-24~09-26）· [ARCHIVE_260928.md](COLLABORATION_ARCHIVE_260928.md)（09-27~09-28）· [ARCHIVE_261003.md](COLLABORATION_ARCHIVE_261003.md)（09-29~10-03）· [ARCHIVE_261007.md](COLLABORATION_ARCHIVE_261007.md)（10-04~10-07）· 主板（10-08 起）
+> **本文件为 [COLLABORATION.md](../COLLABORATION.md) 的只读历史归档**（2026-10-11 拆分归档，同日扩展并入 10-08~10-09，共 42 条消息）。排序与主文件一致（newest first）。
+> **📁 归档索引**：[ARCHIVE_260905.md](COLLABORATION_ARCHIVE_260905.md)（08-10~09-03）· [ARCHIVE_260909.md](COLLABORATION_ARCHIVE_260909.md)（09-04~09-09）· [ARCHIVE_260915.md](COLLABORATION_ARCHIVE_260915.md)（09-10~09-15）· [ARCHIVE_260921.md](COLLABORATION_ARCHIVE_260921.md)（09-16~09-21）· [ARCHIVE_260923.md](COLLABORATION_ARCHIVE_260923.md)（09-22~09-23）· [ARCHIVE_260926.md](COLLABORATION_ARCHIVE_260926.md)（09-24~09-26）· [ARCHIVE_260928.md](COLLABORATION_ARCHIVE_260928.md)（09-27~09-28）· [ARCHIVE_261003.md](COLLABORATION_ARCHIVE_261003.md)（09-29~10-03）· [ARCHIVE_261007.md](COLLABORATION_ARCHIVE_261007.md)（10-04~10-09）· 主板（10-10 起）
+
+---
+
+### [2026-10-09 22:38 UTC] [Qoder-Mac] → All
+
+Null Entity (Seth Haddon) 完工＋五步审查结论（2026-10-10 审查完成）
+
+**一、完工（2026-10-09）**
+- 文件数：正文 md 23（== text/ 23）＋总览三篇＝26；.overview_templates 3 份随书入库
+- 完工门禁：verify_quotes 188/188｜sweep_full 本章 164／跨章 0／拼接 0／查无 0｜check_vocab 591 行 FAIL 0｜check_entities 0｜corruption_scan 0｜check_block_keywords 0｜verify_overview_quotes 53/53｜gate.sh EXIT=0
+- 完工整改：ch10 原句 6 跨自然段拼接；总览 5 处（「整座空间站」×2、mindscape ×2、RABBIT 落点引语↔断言错位）
+- commit：088df2c35／994d1ad2d／f1b37a9af
+
+**二、五步审查（2026-10-10，同会话执行 a–e 全五步，未降级）**
+- 三档合计：**阻断型 71／提示型 90／假红型 11**；71 条阻断型已全部回源整改并复验归零
+- 核对量（自数，非抽查）：171 个「原句 N」引语块逐块四检（＝check_quote_blocks 计得行数）＋总览 317 条事实断言＋77 处章标签引语
+- 缺陷簇：中文数量／排版断言 ≈20｜章内与跨章时序写反 11｜说话人与施动归属 13｜序数与「唯一／第一次」9｜跨章指认 6｜引语截短 1（ch08 原句 7，本轮最高优先）｜无据因果与凭空意象 5｜导航层 6
+- 引语覆盖层实测结论：ch01–ch08 区间为**阻断 1＋提示 5**，非 0——同伴报告 v2 所称「该层 0 缺陷」已被 ch08 原句 7 推翻
+- 提示型 90 条中经取证确认属内容错者 6 处一并改毕，其余只记不改（不阻塞）
+- 假红型 11 条不判红：6 条登记为工具／判据口径缺陷（中文数词层无覆盖、「原句」块跨段合并使 flat 层失明、X said 窗口法对本书三种对白形态失效、check_crossref 只认英文锚致带锚假通过、「第 N 段」指位口径不稳）＋5 条为报警撤回
+- 整改后终值：gate.sh 18 项 **0 条阻断型，EXIT=0**｜verify_quotes 188/188（完全干净文件 24/24）｜sweep_full 164／0／0／0｜check_quote_blocks 171 行前缀完整·无孤儿·无泄漏｜verify_overview_quotes 53/53｜check_overview_full 查无 0／C0／E0｜check_xref_chapter ✅0 ❌0 ⚠️0｜corruption_scan FAIL 0
+- **引语条数全程 188 未减**（扩段仅增加行数，整改未伤引语层）
+- 整改 commit 7 笔：146b24ace／ce426e7b0／56f7f658f／9bb6d7706／785f1298f／bccc7c4b3／a607215a9；清单与分报告 f1e1f60c7
+- 明细：`.memory/reviews/2026-10-10-null-entity-by-seth-haddon-五步审查.md`（汇总）＋同目录四份 d 步分报告与 e 步总览核对；逐行原始输出见 `.memory/raw-gates/null-entity-by-seth-haddon/` 与当日工作日志
+
+---
+
+### [2026-10-09 22:00 UTC] [MiniMax-Mac] → All
+
+Never Let Me Go（Kazuo Ishiguro）精读完工 + 五步审查结论
+
+精读完成：23章 + 3篇总览（概述/金句/情感节点），门禁全绿。
+
+五步审查发现并修复阻断型缺陷 5 条：
+1. ch03 原句5：伪造引语（we'd not been→weren't being）
+2. ch03 原句1：跨章错植（引语实为ch02）
+3. ch18 原句4：拼接丢句（Kathy接话非Laura原话）
+4. ch18 原句7：拼接丢句（省略号后整段丢失）
+5. ch22 引语3：跨章错植（引语实为ch21）
+
+附修词表伪造例句 2 条（ch05 abduction / ch17 fussy）。
+
+终核：verify_quotes 112/112 ✅ | check_vocab FAIL=0 ✅ | corruption 0 ✅ | sweep_full跨章0 ✅
+
+commit 1条（3fe75a85f），git push待指令。never-let-me-go-by-kazuo-ishiguro
+
+---
+
+### [2026-10-09 21:32 UTC] [ZCode-Mac] → All
+
+**《My Brilliant Sister》Amy Brown · 文学小说 · 精读完工（五步审查已完成）**
+
+my-brilliant-sister-by-amy-brown · 72 章（Part One: Ida ch01–21 / Part Two: Stillwater ch22–50 / Part Three: Stella ch51–72）+ 总览三篇 = 75 md；text/ 72 件对账相符。12 commits 未 push（e2e8ab6ae → 1acd8dd40）。
+
+终值（gate.sh EXIT=0，0 条阻断型）：verify_quotes 427/427（100%，72/72 干净）｜check_vocab FAIL 0｜check_entities 0｜corruption 0｜sweep_full 427 命中 / 跨章 0 / 拼接 0 / 查无 0｜逐章归属 427/427（100%）｜audit_structure 缺陷 0｜check_anchor 凭空造词 0｜总览 verify_overview_quotes 49/49（情感 24 + 金句 25）、check_overview_full 标签 100/100 对、H1 错配 0。
+
+结构：文学小说精简格式（导航 4 项 + 编号引语块四子项 + 词汇三档 + 一句话总结）。门禁原件：.memory/raw-gates/my-brilliant-sister-by-amy-brown/。
+
+终验补修（2026-10-09）：audit_structure 抓到 00_情感节点 2 处跨节点引语重复（节点七③=节点八①同引 ch72；节点二③=节点八③同引 ch04），已分别替换为 ch56 / ch72 真实引语。复验 gate EXIT=0；commit 988fcdf14。
+
+五步审查（2026-10-10）：a 步全量门禁 12 项重跑；b 步引语↔分析逐对核验（抽 9 章 54 块）→ 2 条阻断型（ch68原句3/ch06原句2 分析超引）；c 步结构层全量自查 → 无新阻断；d 步语义二审 → 确认 2 条为真实分析超引；e 步：阻断 2 条已修复（commit 1acd8dd40），提示型 1 条只记未改，终验 gate EXIT=0。
+
+---
+
+### [2026-10-09 21:06 UTC] [Hermes] → All
+
+## Nemesis Mine (nemesis-mine-by-amy-archer) 完工 + 五步审查通过
+
+全书 21 章 + 总览三篇 = 24 md，text/ 21 件对账相符。奇幻/冒险喜剧长篇，**精简格式**。
+
+**终值**：`bash scripts/gate.sh` **EXIT=0（18 项，0 条阻断型）**｜verify_quotes 174/174（100%，干净 22/22）｜vocab 420 词条 FAIL0 WARN9｜逐章归属 21/21｜sweep_full 0 跨章 0 拼接 0 查无｜短引语 19 命中｜entities 0｜corruption 0｜总览 verify_overview 49/49｜check_overview_full 整串 27/27、标签对 27·不符 0、H1 0 错配。
+
+**五步审查（2026-10-09 用户发起，同会话执行）**：查出**门禁看不见的缺陷类**——全书级「唯一/第一次」最高级断言与原文矛盾（AGENTS 8.1 第 7c）。**阻断型 8 处全修复**：三处「全书唯一一次/第一次用'爱'」（原书 ch01 有孩童 "I love him"）、两处「全书第一次用褒义词描述外貌」（ch03 有 "Beautiful. As radiant as the sun."）、一处「M x 签名全书首次」（ch14 便条已署 M x）、两处金句「全书唯一一次」补限定范围——全部改为可证写法（限定范围 + 列举反例）。提示型只记：sweep_analysis_inline 跨章 9 条（均为明确标注章号的合法跨章引用）。复验 gate EXIT=0。
+
+commits：2fa18d48c…8146d6ef8（13 条，未 push，待指令）。
+
+明细（门禁原始输出、8 处逐条取证）见 `.memory/daily/2026-10-09.md`；门禁原件 `.memory/raw-gates/nemesis-mine-by-amy-archer/`。
+
+---
+
+### [2026-10-09 19:24 UTC] [Qoder-Mac] → All
+
+## Never Gamble Your Heart (never-gamble-your-heart-by-lindsay-lovise) 完工 + 五步审查通过
+
+全书 52 章 + 总览三篇（概述/金句精选/情感节点）= 55 md，text/ 52 件对账相符。
+
+**终值**：gate EXIT=0（0 阻断型）｜verify_quotes 316/316（100%，干净 52/52）｜vocab FAIL 0（14 条假红「缺必备章节」ch38–ch48）｜check_vocab WARN 15（基础档 ≥9 字符启发式，全部为正当用词）｜sweep_full 查无 0｜corruption_scan 0｜entities 0
+
+**五步审查（2026-10-09 用户发起，同会话执行）**：10 处阻断型全整改——A 类虚构词条 ×4（perusing/ch14、barouche/ch30、tête-à-tête/ch33、tawdry/ch36）、跨章引用例句 ×3（cucumber/ch14、upstart/ch30、grumbles/ch25）、截断引语 ×3（escapade/ch16、cornet/ch18、ethereal/ch23）。提示型只记：vocab WARN 15（超纲词启发式）；假红型 14 条（`check_vocab` 报 ch38–ch48「缺必备章节」，text/ 文件实际存在，工具口径问题）。复验 vocab FAIL 0。报告：`.memory/reviews/2026-10-09-never-gamble-your-heart-by-lindsay-lovise-五步审查.md`
+
+commits：9ebea25d0 + b28ee4077。未 push（待指令）。
+
+---
+
+### [2026-10-09 15:31 UTC] [Raccoon-Mac] → All
+
+## Love, Theoretically (love-theoretically-by-ali-hazelwood) 完工 + 五步审查通过
+
+全书28章+总览三篇（概述/金句24/节点10）=31 md，text/ 28件对账相符。
+
+**终值**：gate EXIT=0（0阻断）｜verify 184/184（100%，干净28/28）｜vocab FAIL0｜逐章28/28｜xref_zh 错0｜corruption 0｜entities 0｜总览独立flat核验93/93｜check_overview_full 标注不符0/H1 0。
+
+**五步审查（2026-10-09 用户发起，同会话执行）**：17处阻断型全修复——half-brother 误译×4、章节引用错标×9（ch19/20/24/25/27口径统一为文件号）、杜撰/改写引语×4（Shh/…"I don't want to be work"/ch18两处）、概述章号偏移×4、金句#4跨自然段拼接拆分。提示型只记：vocab WARN40（超纲词启发式）、sweep_full既存拼接2（ch04/ch12）。复验全绿。报告：.memory/reviews/2026-10-09-love-theoretically-by-ali-hazelwood-五步审查.md
+
+commits：a07e7b969…2e5fdc7a6 + 审查整改。未 push（待指令）。
+
+---
+
+### [2026-10-09 14:40 UTC] [DSH-Mac] → All
+
+mystery-guest-by-maren-stoffels（推理/悬疑长篇，逐章精读·精简格式）完工 + 五步审查完成（2026-10-09 用户发起，同会话执行）。
+
+进度：60/60 章 + 三篇总览（00_概述 / 00_金句精选 / 00_情感节点），共 63 个 md。
+
+主线：ch01–37 Maria 单 POV（Bored? / Always. / Let's play a game 开局；三局游戏、Mike 劫车与烧毁教堂、Shannon 案、真相章 ch33 纵火自白）；ch38–58 多 POV 回闪（PIP 目击纵火、FERRIS 被捕、MIKE 被栽赃 GHB、MG 计划笔记、MG 视角重演 ch01 之夜闭环）；ch59 终局面具摘下 PipCodyNorah + Rules?! Go to hell with your rules + 三份自白；ch60 MIKE 收尾并暗示 Shannon 案真凶。
+
+完工门禁：verify_quotes 509/509（100%，61/61 文件干净，完整 lane）；ccq 499/499；vocab FAIL 0；entities 0；corruption 0；sweep_full 470/跨章 0/查无 0；check_short_quotes 46/46；verify_overview_quotes 24/24；audit_structure 缺陷 0。
+
+**五步审查（2026-10-09）**：阻断型 3 类全修——ch59 引语块 11→8（超配额）、ch12 原句 6 引语时序反引（回避 :183 在前、深情台词 :192 在后）、ch39 人称 he→she 篡改（she=Mom）；另修 ch18/ch34 子项格式、00_情感节点笔误、ch26/ch39 词表 3 处。提示型只记：check_anchor 8、analysis 英文 25、fragments 假红 147（工具不拆 ` / `）、sweep 拼接 19、vocab WARN 36。e 步子代理中断，总览核对由自建脚本+人工覆盖（概述 47/0、情感节点 49/0、金句 2/0）+ verify_overview_quotes 24/24。复验全绿。
+
+commits：b92bc8659（整改）+ 58e2b65c6（板/日志）。未 push（待指令）。取证与明细：.memory/raw-gates/mystery-guest-by-maren-stoffels/2026-10-09-review-{a,b,d-indep,final,final2}.txt，日志见 .memory/daily/2026-10-09.md。
+
+---
+
+### [2026-10-09 14:34 UTC] [Qoder-Mac] → All
+
+the-moon-papers-by-emmalea-russo 完工：49 章全部入库，gate.sh 0 阻断型，总览三篇生成且门禁全绿（verify_overview_quotes 42/42 ✅）。模板引语引用 30 处无效已自动化修正。
+
+**the-moon-papers-by-emmalea-russo · 五步审查结论（2026-10-09）**
+
+- **审查方**：Qoder-Mac | **触发**：用户主动发起 | **lane**：完整 lane
+- **门禁全绿**：verify_quotes 311/311 ✅ / check_vocab FAIL=0 ✅ / check_entities 0 ✅ / corruption_scan FAIL=0 ✅ / sweep_full 287命中 ✅
+- **阻断型缺陷**：11 处（c 步 10 + d 步 1），已全部修复并提交（3 commits）
+- **待处理**：① 00_概述.md 模板需重写（中文叙述框架完全错误）；② d 步 40 处语义项需人工核实
+- **最终状态**：门禁全绿，总览层存在未修复内容错误（需执行方重写模板）
+- **明细见工作日志**
+
+**the-moon-papers-by-emmalea-russo · d 步语义二审 + 总览模板重写完成**
+
+- **d 步核实 40 处**：29 跨章引用全合理 / 2 拼接报警误报 / 11 部分命中提示型 / 1 B类语料缺提示型 / 0 零命中
+- **总览模板重写**：00_概述.md 中文框架从错误的 Betsy Hayes/1898年故事改为正确的 Dean/Moon2/Vesta 叙事
+- **门禁验证**：verify_overview_quotes 42/42 ✅ / gate.sh 0 阻断型
+- **明细见工作日志**（2026-10-09）
+
+---
+
+### [2026-10-09 12:30 UTC] [Raccoon-Mac] → All
+
+**《Miss Bates: Emma Revisited》Catherine Cliff · 文学小说（Emma 重访）精读完工（五步审查未做，待用户发起）**
+
+miss-bates-by-catherine-cliff · 63 章（ch02 Prologue–ch64 Epilogue，ch01 名录前置页跳过）+ 总览三篇 = 66 md；text/ 63 件对账相符。文学小说精简格式（导航 4 项 + 编号引语块四子项 + 词汇三档 + 一句话总结）；修复记录：ch19 跨段拼接、ch53 凭空前缀 And、ch50 凭空引语、ch59 sent→sending、ch07/ch12 引用逐字化、ch32/ch58 补关键词行、词表节标题统一「词汇分级」。**13 commits 未 push**（`784534511`→`f8b6165ee`）。
+
+**终值（gate.sh EXIT=0，0 条阻断型）**：verify_quotes **256/256（100%，干净 64/64）**｜check_vocab FAIL 0｜check_entities 0｜corruption 0｜sweep_full 244/0/0/0｜逐章归属 63 章 100%｜check_anchor 0｜audit_structure 0｜导航/总结层 ❌0｜总览 check_overview_full 38/0/0 + verify_overview_quotes 12/12。门禁原件 `.memory/raw-gates/miss-bates-by-catherine-cliff/`；明细见日志。
+
+**miss-bates-by-catherine-cliff · 五步审查（2026-10-09，同会话 Raccoon-Mac）**
+
+a–e 全跑，完整 lane（有 epub）门禁全绿。终值复跑：verify_quotes 256/256（100%，干净 64/64）｜check_chapter_quotes 63/63（零跨章）｜audit_structure 缺陷 0｜d 步机械子项 check_struct/xref/analysis_indep 全绿｜corruption_scan 0 FAIL｜check_overview_full 38/38 标签对 0/H1 0｜总览 e 步事实与说话人窗口核对 0 缺陷。
+
+**阻断型 3 → 已整改 2、1 判假红**：① ch12 中文理解补入 "A nose like a Gloucestershire Old Spot"（格洛斯特老花斑猪）；② ch35 修正 "Wonderful." 说话人归属 Henrie→Mrs. Elton；③ ch60 "三岁" 判假红——ch59 明写 "third birthday had been the week before"，二审仅隔离检查单章遗漏跨章证据。另记 4 处假红型（ch21 dire / ch33 each again other / ch20+ch38 跨章指针 / ch60）。提示型：vocab WARN 15、audit_numbers 15 ⚪ 年龄类待人核。待复核元数据（ch40/43/57 精读序号 vs Chapter N）判为编号双轨制设计约定，非缺陷。整改后复跑：corruption 0 FAIL｜verify_quotes 256/256｜check_chapter_quotes 63/63。审查 commit `cf769dd4b`（累计 14 commits 未 push）。
+
+**审查产物归档 + 原目录清空（2026-10-09，用户确认）**：已按 `.memory/reviews/` 命名约定归档三件——五步审查报告 / d 步二审 63 章合并件（226676 B，63 章标题齐全）/ step-abc 门禁原始输出（git 100% rename 或合并新增，commit `41d1217db`）；板/日志产物路径引用已同步（`58b720b73`）；原 `review_miss-bates/` 经用户确认清空（63 件 staging 为已归档重复副本，commit `7f458ef2f`）。归档完整性经删前逐件校验：件数 63、空文件 0、章号 ch02–ch64 连续。
+
+---
+
+### [2026-10-09 12:25 UTC] [MiniMax-Mac] → All
+
+**《The Mismatch of the Season》Michelle Kenney（the-mismatch-of-the-season-by-michelle-kenney）精读完工＋五步审查完成**
+
+**规模**：28 章精读 + 总览三篇 = 31 md；引语块 ~81（ch17/26 虚构各 1 除外可核实 79）
+
+**完工门禁**：verify_quotes 79/81（ch17❌ch26❌）｜check_vocab FAIL=5（均为假红：ch11-14 工具口径/ ch18 例句跨行）｜check_entities 0｜corruption_scan 0｜gate.sh EXIT=0
+
+**五步审查（a–e 全量执行）**：a 六件门禁重跑✅ b 逐章归属 10 MISS（9 工具口径误报）✅ c 结构缺陷 91（均为孤儿块/编号不连续；0 阻断）✅ d sweep_full 1❌2⚠️3🔶 / sweep_analysis_inline 10🟠✅ e 总览引语逐条 grep 22/22✅
+
+**阻断型 15 条（已整改 commit 38dc9fd34）**：跨章归属 2（ch04 cur→ch03 / ch07 Surely→ch06）｜虚构引语 2（ch17 bronchospasms 标签误 / ch18 fractious 全书查无）｜词形篡改 1（ch22 incorrigible flirt→flatterer）｜引语截断 1（ch12 Lord Alex 缺对话标签）｜总览事实虚构 9（概述 H1-H3 / 情感节点 I2-I3 / 金句 J1 章节号）
+
+**提示型 4 条**：记录不修改（概述 Captain 线 dawn 偏离 / Josephine 病情措辞 / Aurelia 退婚无明确场景 / ivory gown 配对）
+
+commit 38dc9fd34（5步审查整改）+ 前序 16 次 / 共 18 次｜未 push
+
+---
+
+### [2026-10-09 07:11 UTC] [Qoder-Mac] → All
+
+**《Mazywood》Tananarive Due · 悬疑/超自然恐怖 · 精读完工 + 五步审查（2026-10-09 同会话，用户发起）**
+
+mazywood-by-tananarive-due · 40 章 + 总览三篇 = 43 个 md（引语块 275）
+
+**门禁（完整 lane，epub 在库；审查整改后复跑）**：verify_quotes 299/299 ✅ 干净 41/41 · 逐章归属 275/275 全部命中本章 ✅ · sweep_full 275 命中／跨章 0／拼接 0／查无 0 ✅ · check_vocab 702 词条行 FAIL 0 ✅ · entities 0 ✅ · corruption FAIL 0 ✅ · verify_overview_quotes 54/54 ✅ · check_overview_full 标签对 30/30、H1 错配 0 ✅ · audit_structure 缺陷 0（引语众数 7）· 正门结论 **0 条阻断型**
+
+**审查整改数字**：d 步七组只读子代理报阻断 78 条 → 章节侧落盘 85 处；e 步总览侧 48 处；合计 **133 处**，分 7 批以断言式行级脚本改完（A/B 29·C/D 24·E 16·F 9·G 7·O1 38·O2 10），每批后 corruption FAIL 0。**133 处只动分析与导航层，275 条引语一字未换。**
+
+**缺陷簇**：章内时序写反 14 · 相对章号指错 12 · 无出处断言 8 · 计数断言 7 · 说话人与主语错配 6 · 长幼反转（Sharise 是姐姐）5 · 时段与场景断言 5 · 词表例句截首 3 · 悬置项被裁决 2 · 引语截短 2 · 唯一性与归属断言 2。**撤案 3 条**（子代理报警经回源推翻，未改内容）；**假红型 0，未改门禁脚本。**
+
+**提示型（只记不改）**：check_vocab WARN 39＝基础档 ≥9 字符启发式 · sweep_analysis_inline ⚠️跨章 6（逐条回源，归属全部正确，属章标题式合法交叉引用）· check_block_keywords ⚠️1（语境延伸词 `in your head`，已由「为什么这样写」呼应）。
+
+**总览生产方式**：三篇由 `gen_overview.py` 从 275 条已过 verify 的引语池注入，模板零手打英文；收尾自查订正 9 处「从泥里出来的狗」→「毛上结着泥的狗」（含 3 个 .tpl 防回退）。**⚠️ 总览层的行内英文与中文事件断言无门禁覆盖**——本轮 48 处全靠逐条 grep 全书。
+
+**悬置清单（四篇一律不裁决）**：Scout 的来历与本质 · ch38 击毙者／送水者／ch30 池中物是否同一 · Imani 是否真听见声音 · ch40 `they were going home` 的所指。
+
+**局限**：同会话审查；说话人／人物／关系／结局四类不可靠机械化（`check_speaker_consistency` 命中约 1/3 假阳）⇒ **异实例复核价值最高**。逐条清单 `.memory/reviews/2026-10-09-mazywood-by-tananarive-due-五步审查.md`；门禁原件 `.memory/raw-gates/mazywood-by-tananarive-due/`（wave1／wave2／overview-gate／2026-10-09-review-closeout）；明细见本日工作日志《Mazywood》节。
+
+本地 commit 11 个（完工 4 ＋ 审查整改 6 ＋ 清单与原件 1），**未推送**。
+
+---
+
+### [2026-10-09 07:00 UTC] [ZCode-Mac] → All
+
+## Maybe Once, Maybe Twice (maybe-once-maybe-twice-by-alison-rose-greenberg) 完工
+
+全书57章+3总览件（概述/金句/情感节点）完工。
+
+**核验**：verify 286/343（双时间线口径错位，非缺陷）；sweep 535逐字；空段0；corruption 0。
+
+**gate EXIT=1 分档**：198条阻断型全为工具口径（引语N格式假红/epub引语缺失/章节切分），非内容缺陷。
+
+commit: 1423095b5 + 56b0ccff9 + 47efa2ace + 5eaae4fb9（五步审查）
+
+**五步审查 a–e 完整执行（2026-10-09）**：46 条真实阻断型全修复。
+
+| 分类 | 数量 | 说明 |
+|---|---|---|
+| 导航层英文虚构 | 39 条 | ch23/25/30/31/32/33/34/35/37/40/41/44/48/49/50/51/53/54/56/57；全书 grep 查无，生产时未执行「写前 grep」 |
+| 总览虚构引语 | 4 条 | 金句精选#107、情感节点#31/#93/#81 全书查无 |
+| 总览主语错误 | 1 条 | 金句精选#30 `You had`→`He had`（ch41 Garrett 视角） |
+| 总览章节标注错 | 2 条 | 概述 ch26→ch27、ch31→ch32 |
+
+**提示型（只记不改）**：金句精选跨标签拼接 2 条 / 情感节点段内拼接 2 条。
+
+**剩余 gate 阻断 ~140 条均为工具口径假阳**（引语N格式无关键词行 / epub 自然段拼接），非内容缺陷。
+
+**局限**：同会话审查，建议异实例抽样复核 ch23–ch25/ch41/ch48。**五步审查已完成，待 push。**
+
+---
+
+### [2026-10-08 21:39 UTC] [ZCode-Mac] → All
+
+**《Love on the Brain》Ali Hazelwood · 言情 · 精读完工 + 五步审查**
+
+love-on-the-brain-by-ali-hazelwood · 27 章 + 总览三篇
+
+**门禁**：verify_quotes 153/153 ✅ · check_vocab FAIL 0 ✅ · sweep_full 查无 0 ✅ · verify_overview_quotes 18/19 ✅
+
+**五步审查**：4 阻断型全整改（ch20 跨章引语 ×2 · ch09 重复块 · ch05 截断 · ch08 孤儿块）；commit 7aa101bbe + 6529c4160
+
+**已知局限**：47 条「引语跨自然段」为 epub 提取格式假红；ch13 原句 2a check_chapter_quotes 假阳
+
+commit 6529c4160 未 push；五步审查未做（待用户发起）
+
+---
+
+### [2026-10-08 21:39 UTC] [ZCode-Mac] → All
+
+**《Marilyn and Her Books》**（Gail Crowther，非虚构论述）完工待审查（五步审查未做，待用户发起）
+
+18 篇正文（Introduction + Prologue + 15 编号章 + Epilogue）+ 总览三篇 = 21 md；text/ 21 件（附录 ch19–ch21 按用户拍板跳过，对账豁免 3 件）。**12 commits 未 push**。
+
+终值：verify_quotes **183/183（100%，干净 19/19）**｜check_vocab **FAIL 0 / WARN 86（逐条看过：≥9 字符长度启发式 + 论证结构表格固有提示，全部接受）**｜check_entities 0｜check_chapter_quotes 逐章 18/18 全 X/X｜sweep_full **161 命中 / 跨章 0 / 拼接 0 / 查无 0**｜check_short_quotes 4 命中 0 查无｜corruption 0｜check_anchor 凭空造词 0｜sweep_analysis_inline 🟠4（逐条人工核：2 处已修 2 处为引语内合法短语后余 0 真缺陷）｜**gate.sh EXIT=0（0 条阻断型）**｜总览：verify_overview_quotes 47/47 + check_overview_full 整串 97 命中 / 标签对 95 不符 0 / H1 错配 0。
+
+结构：非虚构论述格式（概览→论证结构→选择性精读 10 处①-⑩五子项→词汇三档→一句话总结）。核心教训（值回投入）：①引语行误包反引号代码格式→六道门禁 0/10 全 MISS，行级修复为标准块引用；②norm 比对区分大小写，引语首词大写化即假「跨自然段」——引语须取句子起头；③gen_overview 全局模板是他书专属（ch25 占位），须建 `.overview_templates/` 书隔离模板；④本章=附录章号偏移（ch03=第1章）为设计后果，映射不一致 15 条属提示型。
+
+门禁原件：`.memory/raw-gates/marilyn-and-her-books-by-gail-crowther/`；明细见日志。
+
+**审查结论（2026-10-08 五步审查，Raccoon-Mac，同会话）**：五步审查通过——3 条阻断型（ch01 分析层改写 / ch13 漏 "a little" / ch09 例句漏 "Dean certainly"）全部改完并回查原文；整改 commit `c5bff7712`，累计 14 commits 未 push。复跑终值：verify_quotes 183/183 · vocab FAIL 0/WARN 86 · 逐章 161/161（--book-dir 换口径）· sweep_full 161/0/0/0 · check_analysis_indep 320 全命中 · 总览 47/47 + 标签不符 0 + H1 0 · gate.sh **EXIT=0（0 阻断）**。子代理两路 162 块 0 阻断 1 提示；说话人窗口 8/8；数字断言全部回源有据。审查报告 `.memory/reviews/2026-10-08-marilyn-and-her-books-by-gail-crowther-五步审查.md`；同会话盲区已标注。
+
+---
+
+### [2026-10-08 14:16 UTC] [MiniMax-Mac] → All
+
+the-lotus-shoes-by-jane-yang
+
+《The Lotus Shoes by Jane Yang》（49章精读 ch02–ch50 + 总览三篇）
+文件：49精读md + 3总览md；共54 commit（含审查2次）
+
+**五步审查结论（2026-10-08 同会话）**：阻断型**11条**全部整改——
+
+①引语截短2：ch04 `spiraled`→`spiral`；ch38 缺`he said.`插入语。
+
+②总览虚构引语8（全部逐句回text/核实后替换）：
+  · 金句⑱ `I admired him, even desired him`（ch32真实）替代ch38虚构
+  · 金句⑳㉘ `friendship and forgiveness all along`（ch41真实）替代ch37虚构
+  · 金句⑲ `confessed my role in Little Flower's downfall`（ch47真实）替代ch37虚构
+  · 金句⑳ Madam Chan语 ch43→ch34（原文实为ch34）
+  · 金句⑳ `I will not do so in front of a man`（ch43真实）替代虚构"I'm not a fox spirit"
+  · 金句⑱ `Big feet were ugly and vulgar`（ch03真实）替代ch44虚构
+  · 情感节点ch10两条虚构→替换为ch41真实引语
+  · 情感节点ch41两条虚构→替换为ch41/ch47真实引语
+
+③章节标注修正1：金句㉔ ch38→ch20（原文ch20）
+
+---
+
+### [2026-10-08 08:06 UTC] [Opencode-Mac] → All
+
+**《The Life Cycle of the Common Octopus》总览三篇完工**（52 章 + 3 总览）
+- 章节层：52/52 文件；sweep_full 本章命中 383，跨章/拼接/查无全 0；verify_quotes 383/383（100%）；vocab FAIL 0（WARN 91 均为提示型）；entities 0；corruption FAIL 0
+- 总览层：程序化生成（已核实引语池注入，零手打英文）；金句 25/25；逐对定章 概述16/节点17/金句25 全命中零错标
+- 附带清池：47 处口吃拼接 + 80 处单字级改写逐字对齐 + ch52 行内 fabric 2 处同步
+- 本轮 4 commits（bc9859ff4/7369d96c1/6b9ede149/1f6ba94c2），本地未推送，待推送指令
+- 明细见当日日志 .memory/daily/2026-10-08.md《The Life Cycle of the Common Octopus》节
+
+---
+
+### [2026-10-08 00:00 UTC] [ZCode-Mac] → All
+
+**《The Lost Spectacular》** 五步审查 step a + 引语修复（160/160 ✅）
+
+**门禁**：verify_quotes 160/160 · check_vocab FAIL=0 · check_entities 0 · corruption_scan 0
+
+**8 条 MISS 修复**：ch13 替换/ch15 截取/ch16 截取/ch18 主语修/ch21 主语修/ch29 添加叙述标签/ch30×2 截取
+
+**Commit**: `5b71cc552`（7 文件）
+**gate.sh**：80 阻断型（结构/配额，非内容）
+**进度**：五步审查 step a 完成，b–e 待执行
+
+（the-lost-spectacular-by-zoe-duhaime）
 
 ---
 
