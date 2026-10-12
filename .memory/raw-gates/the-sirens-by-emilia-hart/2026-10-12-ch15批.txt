@@ -1,0 +1,86 @@
+# the-sirens-by-emilia-hart ch15 批门禁 2026-10-12（完整 lane）
+
+=== verify_quotes ===
+ch04 lucy wakes strangling ben.md: 5/5 ✅
+ch05 lucy remembers the video leak.md: 6/6 ✅
+ch06 mary and eliza at the dock.md: 8/8 ✅
+ch07 lucy dreams in irish.md: 7/7 ✅
+ch08 inside cliff house.md: 8/8 ✅
+ch09 the hold and samhain nights.md: 8/8 ✅
+ch10 lucy wakes to a stranger.md: 8/8 ✅
+ch11 melody feeds dora maar.md: 14/14 ✅
+ch12 eliza teaches mary to listen.md: 12/12 ✅
+ch13 jess phone and naiad.md: 13/13 ✅
+ch14 jess diary the tongue test.md: 16/16 ✅
+ch15 rereading the diary entry.md: 15/15 ✅（另有 1 条短引语未校验）
+
+⚠️ 全书共 1 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 120/120 引文可核实（100%）；完全干净文件 12/12；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== check_vocab ===
+词条行合计: 188
+
+--- FAIL (0) ---
+
+--- WARN (4) ---
+  ch05 lucy remembers the video leak.md [基础] 基础档疑含超纲词「recognition」
+  ch11 melody feeds dora maar.md [基础] 基础档疑含超纲词「sightseeing」
+  ch13 jess phone and naiad.md [基础] 基础档疑含超纲词「padlocked」
+  ch14 jess diary the tongue test.md [基础] 基础档疑含超纲词「bickering」
+
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== check_chapter_quotes --book-dir ===
+⚠️  全书共 6 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 122，命中本章 122（100%）
+✅ 全部引语均归属正确章节
+
+=== corruption_scan ===
+
+=== 编辑损坏扫描（the-sirens-by-emilia-hart）===
+  FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== sweep_full --quiet ===
+=== 引语整串 flat 比对（the-sirens-by-emilia-hart）===
+  参照集：text/ 逐章（52 章，可定章） + epub 交叉验证
+  ✅ 本章命中 120 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+  （短引语 1 条归 check_short_quotes；无章可对 0 条未判）
+
+=== sweep_analysis_inline（修正后 🟠=0）===
+=== 分析层行内英文逐字核查（the-sirens-by-emilia-hart）===
+  参照集：text/（52 个提取件） + epub 交叉验证 ；扫 12 个 md（引语行与 YAML frontmatter 已跳过）
+  落点 #14 表格单元格：256 个表格行、6 条裸英文单元格片段（带引号的单元格由引号/反引号通道覆盖，不重复计）
+  ✅ 逐字 368 ｜ ⚠️ 跨章 24 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 29
+  ⚠️  ch05 lucy remembers the video leak.md:37  「puppet led by its master」→ 实为 ch4
+  ⚠️  ch05 lucy remembers the video leak.md:38  「She'd been strangling him」→ 实为 ch4
+  ⚠️  ch07 lucy dreams in irish.md:31  「Mo dheirfiúr. My sister.」→ 实为 ch6,8,10
+  ⚠️  ch07 lucy dreams in irish.md:52  「as if it would eat the land」→ 实为 ch6
+  ⚠️  ch08 inside cliff house.md:37  「Its sails billowed like huge wings」→ 实为 ch6
+  ⚠️  ch09 the hold and samhain nights.md:23  「place wants to swallow you whole」→ 实为 ch7
+  ⚠️  ch09 the hold and samhain nights.md:59  「She did not want to think of Mam, and what had happened 」→ 实为 ch6
+  ⚠️  ch09 the hold and samhain nights.md:72  「perform her sisterly duty」→ 实为 ch6
+  ⚠️  ch12 eliza teaches mary to listen.md:101  「desire morphed into rage」→ 实为 ch11
+  ⚠️  ch13 jess phone and naiad.md:32  「where her body ended and the darkness began」→ 实为 ch12
+  ⚠️  ch13 jess phone and naiad.md:84  「She is not of flesh and blood but wood and paint」→ 实为 ch6
+  ⚠️  ch13 jess phone and naiad.md:99  「perform her sisterly duty」→ 实为 ch6
+  ⚠️  ch14 jess diary the tongue test.md:32  「silver streaks across her breasts」→ 实为 ch5
+  ⚠️  ch14 jess diary the tongue test.md:38  「I understand that you’re upset」→ 实为 ch5
+  ⚠️  ch14 jess diary the tongue test.md:39  「I used to think that too」→ 实为 ch7
+  ⚠️  ch14 jess diary the tongue test.md:39  「And one day so will you」→ 实为 ch7
+  ⚠️  ch14 jess diary the tongue test.md:53  「aqueous greens and blues」→ 实为 ch8
+  ⚠️  ch14 jess diary the tongue test.md:60  「She must have tried to open it in her sleep」→ 实为 ch13
+  ⚠️  ch14 jess diary the tongue test.md:80  「not once in her life」→ 实为 ch4
+  ⚠️  ch14 jess diary the tongue test.md:88  「lacing her cold fingers through」→ 实为 ch12
+  ⚠️  ch15 rereading the diary entry.md:62  「In all the pictures, Jess wears long sleeves, a high-nec」→ 实为 ch13
+  ⚠️  ch15 rereading the diary entry.md:68  「fight injustice with the only weapon」→ 实为 ch5
+  ⚠️  ch15 rereading the diary entry.md:91  「Your dad's is the same」→ 实为 ch14
+  ⚠️  ch15 rereading the diary entry.md:126  「A faded book about surrealism called」→ 实为 ch11
+
+=== 本轮内容级修复记录（阻断型）===
+① ch14/ch15 年龄断言「14 岁」7 处系自推（无 text 支撑，且与 ch33 'just sixteen'、ch38 'almost seventeen' 矛盾）→ 全部改可证写法（少年/中学生 Jess）——8.1 7c/禁令 2 类
+② ch15 分析层 2 处压缩式改写（body out of control / traces handwriting）→ 逐字补全（8.1 第5步：修改文本先 flat 核验，两处均命中 text/ch15）
+③ ch15 短引语人工兜底 5 条全命中本章 text
+=== ⚠️跨章 24 条：ch15 新增 4 条逐条读行复核，标注章=实章，合法互引（提示型不改）===

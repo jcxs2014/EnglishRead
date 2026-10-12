@@ -8,7 +8,7 @@ source_text: ch14
 
 ## 本章导航
 
-- **一句话概括**：1998 年 2 月的日记开篇：14 岁的 Jess 住内陆小镇 Dawes Plain，患「the Flakes」（鱼鳞病样皮肤病）；美术老师 Mr Hennessey 邀她课外学画，生物课的「卷舌基因」让她在晚餐桌上试探出惊天事实——爸妈都会卷舌、她不会：至少一方不是她的亲生父母；当夜梦游复发，她醒来站在十英尺深的蓄水池边。
+- **一句话概括**：1998 年 2 月的日记开篇：中学生 Jess 住内陆小镇 Dawes Plain，患「the Flakes」（鱼鳞病样皮肤病）；美术老师 Mr Hennessey 邀她课外学画，生物课的「卷舌基因」让她在晚餐桌上试探出惊天事实——爸妈都会卷舌、她不会：至少一方不是她的亲生父母；当夜梦游复发，她醒来站在十英尺深的蓄水池边。
 - **视角**：第一人称日记体（JESS'S DIARY，1998），全书第三条时间线开章；日期锚点 7 / 20 / 21 February。
 - **情感弧线位置**：前传性质——Jess 线解释了 Lucy 线所有的「为什么」（母亲怕水、父亲的画鸟、家庭的沉默、睡游遗传）。
 - **人物弧线**：Jess 从「被看的怪物」（母亲见她裸身尖叫）到「看的人」（想画下 Hennessey 手臂的汗毛）；自我身份在卷舌实验夜被连根拔起。
@@ -63,7 +63,7 @@ source_text: ch14
 
 - **中文理解**：“卷舌的能力是遗传的，”Entwistle 老师敲着黑板叫醒打盹的人，“如果你不会卷，通常意味着你的父母中至少有一个也不会。”
 - **关键词**：curl one’s tongue / genetic / usually means one of your parents can’t
-- **为什么这样写**：全文身世解谜的装置句藏在课堂闲笔里——教科书式「卷舌显性遗传」的现代基因组学真相其实是都市传说（本章 Max 就说了 "I think I read that it was a myth"，但 14 岁的 Jess 需要的是这个伪定律）。作者故意选用一个科学上可疑的判据：身份的错误认知，往往建立在「常识」上。
+- **为什么这样写**：全文身世解谜的装置句藏在课堂闲笔里——教科书式「卷舌显性遗传」的现代基因组学真相其实是都市传说（本章 Max 就说了 "I think I read that it was a myth"，但日记里的 Jess 需要的是这个伪定律）。作者故意选用一个科学上可疑的判据：身份的错误认知，往往建立在「常识」上。
 - **读者视角提示**：「usually」一词被 Jess（与读者同步）忽略——这条「定律」是小说给她的钥匙，不是给她的判决；后文身世真相的复杂度将超出这条单基因律。
 
 > **原句 8:** "Mum and Dad can both do it. But I can’t. So that means one of them can’t be my parent."
@@ -108,7 +108,7 @@ source_text: ch14
 - **中文理解**：“别担心，”他朝我吐出一个刺鼻的烟圈，“说真的，我一直觉得你长得特像你爸。”
 - **关键词**：wouldn’t worry about it / for what it’s worth / look loads like your dad
 - **为什么这样写**：Max 的安慰方式与 Hennessey、Mum 的「专业腔」形成对照：大麻+口语+具体观察。但讽刺结构拉满——他刚说「像爸爸」，读者知道他俩（卷舌定律下）至少一个是假的；而原句 14 的「尖耳朵像爸爸」更会在 2019 线被 Max 本人（或知情人）重新赋予意义。谎言与安慰在本书第一次同句。
-- **读者视角提示**：Max 的「good at science, though he pretends not to be」已埋线：他是本章唯一指出「卷舌是 myth」的人——他给的是事实，Jess 要的是安慰；两人从 14 岁起就在「真」与「需」之间错位。
+- **读者视角提示**：Max 的「good at science, though he pretends not to be」已埋线：他是本章唯一指出「卷舌是 myth」的人——他给的是事实，Jess 要的是安慰；两人在中学时代就已「真」与「需」错位。
 
 > **原句 14:** "‘Yeah,’ he said, taking a step closer to me. As well as pot, he smelled of too much Lynx deodorant and Wrigley’s chewing gum. ‘It’s the ears. This little bit here,’ he pinched the top of my left ear between his thumb and forefinger, ‘it’s kind of pointy. Like an elf’s. Your dad’s is the same.’"
 
@@ -168,4 +168,4 @@ source_text: ch14
 
 ## 一句话总结
 
-14 岁的 Jess 在一个卷舌游戏里查出「我不属于这个家」，在同一条夜里梦游走到十英尺深的水边——她以为自己在寻找血缘的答案，其实答案早已在她身上：会走的身体、不肯说的父母、和一双精灵般的尖耳朵。
+中学时代的 Jess 在一个卷舌游戏里查出「我不属于这个家」，在同一条夜里梦游走到十英尺深的水边——她以为自己在寻找血缘的答案，其实答案早已在她身上：会走的身体、不肯说的父母、和一双精灵般的尖耳朵。
