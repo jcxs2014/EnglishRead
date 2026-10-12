@@ -33,8 +33,8 @@ source_text: ch44
 - **中文理解**：她想起 Jess。**她小时候对她感到的那种渴望，仿佛她身体的某一部分一直都知道。**
   **她终于明白了童年水面下那些移动的暗影**。**是谁最先说出"姐姐"这个词的？是谁决定 Lucy 要成为这个？是 Jess 吗？是她想把她送人吗？**
 - **关键词**：The longing she’d felt for her as a little girl / as if some part of her had always known / the dark shapes that shifted beneath the surface of her childhood / Who had first uttered the word sister? / Who decided that this was what Lucy would be? / Had it been Jess? Had she wanted to give her up?
-- **为什么这样写**：**"水面下移动的暗影"是全书的中心隐喻**——**它既是童年记忆，也是海里的东西**（对照 ch04 鲨群、ch30 鲨鱼、ch37 颈上的缝）。**四个问句排比，全是关于"谁决定"**——**她在追问的不是身世，是归属的授权**。**"是她想把她送人吗"是全书对 Jess 最狠的一次质问，而它出自被送走的那个孩子**。
-- **读者视角提示**：注意"一部分一直都知道"——**本书的直觉一贯先于事实**（对照 ch04 Lucy 对海的恐惧、ch31 Melody 的预感）。
+- **为什么这样写**：**"水面下移动的暗影"是全书的中心隐喻**——**它既是童年记忆，也是海里的东西**（对照 ch30 鲨鱼、ch37 颈上的缝；本章它落在童年记忆里）。**四个问句排比，全是关于"谁决定"**——**她在追问的不是身世，是归属的授权**。**"是她想把她送人吗"是全书对 Jess 最狠的一次质问，而它出自被送走的那个孩子**。
+- **读者视角提示**：注意"一部分一直都知道"——**本书的直觉一贯先于事实**（对照 ch31 Melody 的预感、ch44 本的「一部分一直都知道」）。
 
 > **原句 3:** "She thinks of Jess’s distance, the way she kept herself apart from Lucy. She thinks of her childhood gift of a snakeskin, kept for all these years, now glittering in Jess’s painting; her masterpiece. She thinks of the passcode on Jess’s phone.
 >
@@ -43,8 +43,8 @@ source_text: ch44
 - **中文理解**：她想起 Jess 的疏远、**她与 Lucy 保持距离的方式**。她想起童年那件礼物——**一只蛇蜕，留了这么多年，如今在 Jess 的画里闪光；她的杰作**。她想起 Jess 手机的密码。
   **20 09 99**
 - **关键词**：Jess’s distance, the way she kept herself apart from Lucy / her childhood gift of a snakeskin, kept for all these years / now glittering in Jess’s painting; her masterpiece / She thinks of the passcode on Jess’s phone / 20 09 99
-- **为什么这样写**：**三个"她想起"（She thinks of）构成一段证据链**：**疏远 → 蛇蜕 → 密码**。**蛇蜕是全书唯一一件从 1999 活到 2019 的实物**（ch38 "It's perfect. … All the colours of the sea."），**而它进了她的画**——**Jess 把自己孩子送的礼物画成了代表作**。**密码单独成行、没有标点**：**它是一串日期，也是一个答案**。
-- **读者视角提示**：**请记住"20 09 99"**——**它在 ch13 由 Jess 输入、在 ch35 由 Lucy 破译，在本章由 Lucy 读出情感**；**同一串数字三次出现，含义每次都更深**。
+- **为什么这样写**：**三个"她想起"（She thinks of）构成一段证据链**：**疏远 → 蛇蜕 → 密码**。**蛇蜕是全书唯一一件从 1999 活到 2019 的实物**（另一件是本章在 Lucy 手里的超声波，同样 1999）（ch38 "It's perfect. … All the colours of the sea."），**而它进了她的画**——**Jess 把自己孩子送的礼物画成了代表作**。**密码单独成行、没有标点**：**它是一串日期，也是一个答案**。
+- **读者视角提示**：**请记住"20 09 99"**——**它在 ch13 被 Lucy 输入解锁（text/ch13「20 09 99」→「The phone unlocks.」），本章由 Jess 读出情感**；**同一串数字三次出现，含义每次都更深**。
 
 > **原句 4:** "She does not let herself think about the man who might be her father, about the ring that shimmers on the coffee table. At least, she will not think of him in those terms."
 
@@ -79,7 +79,7 @@ source_text: ch44
   **然后她记起来了：Devil's Lookout。砂岩里那个黑洞。**
   **洞穴。**
 - **关键词**：There is no dock or jetty, no place for a boat to moor / And then she remembers: Devil’s Lookout / The dark maw in the sandstone / The cave.
-- **为什么这样写**：**"黑洞"（dark maw）用的是 ch42 那个词**（"pulling her into its maw"）——**两章共用同一个口部意象**。**"Devil's Lookout"是全书给这处悬崖唯一的专名**（ch04 与 ch38 都出现过），**而它在此刻从一个地名变成答案**。**"洞穴。"一个词成段**：**她的推理到此闭合**。
+- **为什么这样写**：**"黑洞"（dark maw）承 ch34 那个词**（ch34「pulling her into its maw」）——**全书的口部意象前后呼应**。**"Devil's Lookout"是全书给这处悬崖唯一的专名**（贯穿 ch05/ch08/ch13/ch26 等多章），**而它在此刻从一个地名变成答案**。**"洞穴。"一个词成段**：**她的推理到此闭合**。
 - **读者视角提示**：**请注意她认出洞穴用的是"她见过"的视角**（从湾对面）——**她没有下去过**；**下一节她将第一次站在那条楼梯顶端**。
 
 > **原句 7:** "She shivers as she stands at the precipice of the staircase. Either side of her, the tussocks of grass flutter in the wind, and the music of the windchimes grows frenzied, almost violent.
@@ -89,7 +89,7 @@ source_text: ch44
 - **中文理解**：**她站在楼梯的悬崖边上，打了个寒战。** 她两侧的**草丛在风里颤动，风铃的音乐变得狂乱、近乎暴烈**。
   **她往下看时心跳如鼓——那眩晕般的坠向大海的落差。白浪像舌头舔着岩石，潮水一涨再涨。**
 - **关键词**：she stands at the precipice of the staircase / the tussocks of grass flutter in the wind / the music of the windchimes grows frenzied, almost violent / Her heart drums with fear / the dizzying fall to the sea / The white waves tongue the rocks, the tide rising and rising.
-- **为什么这样写**：**"风铃变得狂乱"把无生命的物件写成预警**——**这串风铃是 Jess 房子的一部分**（ch31/ch35 都出现过），**此刻它替海说话**。**"白浪像舌头"沿用全书把海写成口的写法**（ch30 鲨鱼、ch42 "the lick of the sea"），**而"一涨再涨"与 ch43 的 "rising and rising" 是同一个句式**——**两章的威胁用同一句话上升**。
+- **为什么这样写**：**"风铃变得狂乱"把无生命的物件写成预警**——**这串风铃是 Jess 房子的一部分**（ch07 崖屋门廊、ch31 Melody 家中都有），**此刻它替海说话**。**"白浪像舌头"沿用全书把海写成口的写法**（ch30 鲨鱼、ch42 "the lick of the sea"），**而"一涨再涨"与 ch43 的 "rising and rising" 是同一个句式**——**两章的威胁用同一句话上升**。
 - **读者视角提示**：**注意"风铃"的暴力化**——**它是本书唯一一处"人造的声音"背叛人类的地方**。
 
 > **原句 8:** "She has to go now – if she waits, then the swell will be too high. She needs to get to Jess as quickly as she can.

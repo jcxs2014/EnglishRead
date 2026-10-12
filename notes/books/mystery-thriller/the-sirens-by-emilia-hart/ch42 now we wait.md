@@ -31,7 +31,7 @@ source_text: ch42
 - **中文理解**：她把车停在低垂的桉树下，**一个从路上不易被看见的位置**——**那种外地人会以为适合藏车的地方**。当然，**外地人也许不会注意到草地上的凹痕、围成一圈的光滑原木**：**这是本地人爱来的野餐地**，总会有人来、有人看见。**她需要有人看见**——好让人觉得 Cameron 来她家、**来一个可能出庭作证的人的家里**，是在**掩盖行踪**；让人觉得**他一开始就打算伤害她**——**这个有能力毁掉他的女人**。
 - **关键词**：a spot not easily seen from the road / The sort of place someone from out of town would think to hide their car / the depression in the grass, the smooth logs gathered in a circle / This is a picnic spot, one that locals love / Someone will come here, eventually. Someone will see. / She needs someone to see / to think that Cameron has tried to cover his tracks / the house of a potential witness in the case against him / That he planned to hurt her all along / this woman with the power to destroy him.
 - **为什么这样写**：**"外地人／本地人"的对照是本书对 Comber Bay 的核心设定**（ch31 那句 "But he was a local." 与紧接其后的 "And I was an outsider." 的镜像）：**这一次她用地主的知识反制他**。**"她需要有人看见"是全章的引擎**——**她设计的不是逃跑，是现场**。**末句"这个有能力毁掉他的女人"是本章对动机最诚实的一次交代**：**她既在自救，也在利用这份权力**。
-- **读者视角提示**：注意"围成一圈的光滑原木"——**本书的"圈"一贯是聚集与仪式**（对照 ch30 Samhain、ch34 女囚合唱）。
+- **读者视角提示**：注意"围成一圈的光滑原木"——**本书的"圈"一贯是聚集与仪式**（对照 ch21「A protective circle」、ch13 窗上的雾圈）。
 
 > **原句 3:** "Once they’re parked outside Cliff House, Jess gives Cameron a list of things to pack. ‘Water,’ she says. ‘As many bottles of it as you can fill. There are some energy bars in the cupboard – bring those, too. Any medication you need. We might have a while to wait for the boat. My friend says he can’t come right away.’
 >

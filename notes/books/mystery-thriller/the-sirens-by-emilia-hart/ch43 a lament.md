@@ -63,7 +63,7 @@ source_text: ch43
 - **中文理解**：她把这些念头推开。**当躺在铺位上的是 Aoife 那具又小又萎缩的身体时，她不能想 Da。**
   「**我希望我们有花，**」Bridie 说，「**花，和一块像样的裹尸布。**」
 - **关键词**：She pushed the thoughts from her mind / it was Aoife whose body lay small and shrunken in the berth / I wish we had some flowers / Flowers, and a proper shroud.
-- **为什么这样写**：**"又小又萎缩"（small and shrunken）是本章第二次写她变小**（对照 ch41 "Aoife swam in and out of consciousness"）——**死亡把她缩成一个可以被抱起的体积**。**Bridie 的愿望清单只有两项：花与布**——**全书对"体面"的定义就是这么朴素**。
+- **为什么这样写**：**"又小又萎缩"（small and shrunken）是本章第二次写她变小**（对照 ch41「Aoife was so still, so small on the berth」）——**死亡把她缩成一个可以被抱起的体积**。**Bridie 的愿望清单只有两项：花与布**——**全书对"体面"的定义就是这么朴素**。
 - **读者视角提示**：注意"推开念头"——**她强迫自己把注意力还给死者**；**本章的悲伤是分层的：为 Aoife，也为 Da**。
 
 > **原句 6:** "‘What flowers grow on the Blasket Islands?’ Sarah asked.
