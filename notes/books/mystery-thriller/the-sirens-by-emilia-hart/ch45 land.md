@@ -75,7 +75,7 @@ source_text: ch45
   **Mary 希望她别这样。代价写在她脸上，写进那些深陷的纹路里。**
 - **关键词**：she had refused Wright’s entreaties: rejected rum, port wine, even the golden promise of an orange / as the frenzy of curiosity in the hold built and built / as if selling herself for information was some way of making amends / The toll was written on her face, in the deep-set lines of it.
 - **为什么这样写**：**Wright 与 Bridie 的交易是 ch43 那个"温柔托住头颅"的延续**——**他给的不是暴力，是信息**，**而信息在囚舱里是最硬的通货**。**"用自己换取消息"（selling herself for information）是全书对"以身体换东西"最含糊也最刺人的一次表述**：**作者不说是哪种交换，只说是"卖自己"**。
-- **读者视角提示**：**请注意"代价写在脸上"**——**这是本书对 Bridie 命运的唯一一次预告**（对照 ch51 她的结局）。
+- **读者视角提示**：**请注意"代价写在脸上"**——**这是本书对 Bridie 命运的下一次预告**（她的衰败早在 ch17 的沉默与 ch41 Aoife 死后的崩溃里开始；结局在 ch47「her red hair drifting with the tide」与 ch49 被变为 merrow 放飞）。
 
 > **原句 8:** "‘Oh, I’m sure they will!’ Bridie said, kissing Sarah’s cheek. ‘I’ll put in a good word for you and the others.’
 >

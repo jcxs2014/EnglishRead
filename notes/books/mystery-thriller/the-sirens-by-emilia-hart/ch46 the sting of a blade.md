@@ -20,14 +20,14 @@ source_text: ch46
 
 - **中文理解**：**Jess 不知道自己在这洞穴里待了多久。** **她猜是三天，但说不准**：**她把手机留在了 Cliff House，Cameron 的手机早就沉了。** **手电筒的电池耗尽了，从家里带来的水也是。** 她们现在**喝塑料瓶接的雨水**。**剩下的，她想，最多还能撑两天——如果还有的话。**
 - **关键词**：does not know how long they have been in the cave / She thinks it has three days, but cannot be sure / she left her phone in Cliff House, and Cameron’s is long submerged / The torch’s batteries have run out / They drink rainwater, now, collected in the plastic bottles / There is enough left, she thinks, for two more days, if that.
-- **为什么这样写**：**全章开篇剥夺的是"时间"**——**没有手机、没有表、没有光，只剩潮汐作钟**（下文 "Six tides"）。**"如果还有的话"（if that）是全书对余量最不确定的一次表述**，**而它出自那个永远算得清日子的 Jess**（ch35 的密码、ch38 的日期）。**"塑料瓶"是本章唯一的现代物件**——**它提醒读者：这是一场发生在当代的囚禁**。
+- **为什么这样写**：**全章开篇剥夺的是"时间"**——**没有手机、没有表、没有光，只剩潮汐作钟**（下文 "Six tides"）。**"如果还有的话"（if that）是全书对余量最不确定的一次表述**，**而它出自那个永远算得清日子的 Jess**（ch44 的密码、ch38 的日期）。**"塑料瓶"是本章唯一的现代物件**——**它提醒读者：这是一场发生在当代的囚禁**。
 - **读者视角提示**：**请把"她猜是三天"与 ch44 的日期（2 月 17 日星期日）并读**：**本章是 2 月 15 日星期五，而 Lucy 在两天后下楼**。
 
 > **原句 2:** "During the day, the light is dim, reddish. But now it’s night, and there is nothing but the slick rocks beneath her body, the shush of the sea and Cameron’s ragged breathing in her ear. He has brought a flask of whisky with him – he must have concealed it in the pocket of his jeans before they dumped his car – and the smell of it sours the air."
 
 - **中文理解**：白天，**光很暗、发红**。可现在**是夜里，除了她身下光滑的岩石、海的嘘声和 Cameron 在她耳边粗重的呼吸，什么都没有**。**他带了瓶威士忌**——**大概是扔车之前藏在牛仔裤口袋里的**——**那股气味把空气都弄酸了**。
 - **关键词**：the light is dim, reddish / the slick rocks beneath her body, the shush of the sea and Cameron’s ragged breathing in her ear / He has brought a flask of whisky with him / he must have concealed it in the pocket of his jeans before they dumped his car / the smell of it sours the air.
-- **为什么这样写**：**"发红的光"与 ch31 洞穴证词里的"红色"（the walls dark red）呼应**——**这个洞穴在两人记忆里都是红的**。**"把空气弄酸"（sours the air）是本章对 Cameron 的第一个判决**：**他连呼吸都在污染这个空间**。**"藏在牛仔裤口袋"暗示他早有准备**——**他不是被拐来的，他是自己带着酒来的**。
+- **为什么这样写**：**"发红的光"与 ch39 醉酒幻象里的"红色"（the walls dark red）呼应**——**那是 Mary 在 rum 中预见的洞穴**（ch39「There was a cave, the walls dark red and curved in the shape of a woman’s body」）。**"把空气弄酸"（sours the air）是本章对 Cameron 的第一个判决**：**他连呼吸都在污染这个空间**。**"藏在牛仔裤口袋"暗示他早有准备**——**他不是被拐来的，他是自己带着酒来的**。
 - **读者视角提示**：注意"扔车"（dumped his car）——**这是 ch42 她计划的一部分**，**而作者在此处用一个从句补完**。
 
 > **原句 3:** "It is different for Jess. Moisture has soaked into her body, her skin tightening and fizzing. She runs her fingers over the rippling surface of her shins, thinking of her painting. She touches her throat and it is furrowed, as if her skin is parting, opening to something."
