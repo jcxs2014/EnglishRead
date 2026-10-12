@@ -129,7 +129,7 @@ source_text: ch18
 - **中文理解**：待在 Cliff House 让 Lucy 收获的问题比答案多：关于姐姐是谁。关于她与这地方、与 Naiad 的牵连。与 Mary 和 Eliza 的。
 - **关键词**：more questions than answers / who her sister is / connection to this place / To Mary and Eliza
 - **为什么这样写**：Mary 与 Eliza 的名字由 Lucy 之口说出——2019 叙述者第一次用「人名」称呼 1801 的两人（此前是 the women/a pair），本书的人物名册跨线统一在此完成。断句三连（this place/the Naiad/Mary and Eliza）由物而史而人，是 Lucy 认知链的三级台阶。
-- **读者视角提示**：Lucy 尚未从任何公开史料查到 Mary/Eliza 的姓名（Naiad 乘客名录未在本章出现）——她此刻的称呼仍带梦源性质；后文档案/族谱线将给「名字」提供现实脚注。
+- **读者视角提示**：本章 Lucy 手里还没有任何可查的乘客名单，她口中「Mary 和 Eliza」二名仍来自日记与梦的通道；名字的现实档案要到后文州图书馆的 convict records（ch20）才落地。
 
 > **原句 16:** "After locking the window and wedging the chair under the door, she sinks into Jess’s bed, grateful for the warm curve of Dora Maar atop the covers."
 
