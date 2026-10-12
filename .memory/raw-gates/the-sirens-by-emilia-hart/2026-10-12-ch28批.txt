@@ -1,0 +1,35 @@
+# the-sirens-by-emilia-hart ch28 批门禁 2026-10-12（完整 lane）
+
+=== verify_quotes ===
+
+⚠️ 全书共 28 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+
+=== 总计 480/480 引文可核实（100%）；完全干净文件 25/25；正文章节 0 提取 0；总览 0 提取转交 0 ===
+
+=== check_vocab ===
+词条行合计: 412
+--- FAIL (0) ---
+
+=== check_entities ===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== check_chapter_quotes ===
+⚠️  全书共 45 条短引语（<20 flat 字符）未被校验——按规则须人工 grep 兜底
+全章扫描: 解析引语块 522，命中本章 522（100%）
+✅ 全部引语均归属正确章节
+
+=== corruption_scan ===
+  FAIL 0 处（U+FFFD / 双句号）
+
+=== sweep_full ===
+  ✅ 本章命中 480 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== sweep_analysis_inline ===
+=== 分析层行内英文逐字核查（the-sirens-by-emilia-hart）===
+  ✅ 逐字 1316 ｜ ⚠️ 跨章 146 ｜ 🔶 拼接 0 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 185
+
+=== ch28 短引语人工兜底 7 条全命中（Oh Jess/Jess's pain/My sister/What had he done/Police. Open up/She must know the truth/That they weren't really sisters）
+=== 本轮阻断型自查 ===
+① 不可核最短章断言（全书最短之一，grep 实测 ch01-03 前辅页更短）→ 改「约4,000字符，短于多数章」可核表述
+② 🟠1处：误标 ch15 的 not knowing 句实章=ch11（grep -rno 回源），补全整句 The not knowing – it would send Lucy mad.
+③ 候选引语38条逐条grep=1后才用
