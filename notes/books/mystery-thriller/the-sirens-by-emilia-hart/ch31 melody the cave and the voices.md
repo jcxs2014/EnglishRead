@@ -122,7 +122,7 @@ source_text: ch31
   又是一阵敲门，然后：“Lucy？我是 Melody。”
 - **关键词**：again hears knocking / pulse hammers / numbness … slowness / unwillingness to accept / soak up her sister’s thoughts / It’s Melody
 - **为什么这样写**：knocking 的第二次出现（ch29 第一敲=警察）形成**敲门节奏的悬念复调**——本书的「敲门」每次代表一种外部秩序（执法/邻里），这次是后者；soak up her sister's thoughts 的「浸吸」说法与 ch18 lapping 同族（水=信息的吸收介质）——**她摸画=她希望被姐姐渗透**，与警方要她交代的「信息」正相反。"It's Melody." 报名句把安全感的钥匙交给读者：本章的证人来了。
-- **读者视角提示**："Fuck." / "Sorry, just getting dressed!" 的藏鳞小戏（见原文同段）——她第一次为自己身体的变化说谎（对 Melody 藏腿），本书的隐私层级开始重排。
+- **读者视角提示**："Fuck." / "Sorry, just getting dressed!" 的藏鳞小戏（该段两句紧接出现）——她第一次为自己身体的变化说谎（对 Melody 藏腿），本书的隐私层级开始重排。
 
 > **原句 11:** "‘Hi, love,’ says Melody when Lucy finally opens the door. ‘Think I’d better come in.’ The hood of her jacket glitters with rain, her eyes are narrowed with concern. She steps inside without waiting for an answer, smelling of laundry powder and a medicinal hint of eucalypt. The smell of her house."
 >
