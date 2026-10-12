@@ -61,18 +61,6 @@
 
 ---
 
-> "I am her slave. I will do anything to have her and hold her."
-
-**中文理解**：我是她的奴隶。我愿意做任何事来拥有她、抱着她。
-
-**句子结构**：I am her slave（主句）+ I will do anything to have her and hold her（宾语从句）。这是全章最强烈的一句话——"我"对 Melanie 的爱已经变成了一种"奴隶"式的依赖。
-
-**关键词**：her slave（她的奴隶——这是对"我"作为姐姐的角色的极端描述）；I will do anything（我愿意做任何事——这是全章最强烈的承诺）。
-
-**为什么这样写**：这是全章最重要的一句话。"I am her slave"——"我"对 Melanie 的爱不是一种选择，而是一种必需。"我"需要她来填补"我"在家庭中无法得到的无条件的爱。这种依赖在短期内是"我"的救赎，但从长远来看，它可能成为一种新的控制形式。
-
----
-
 > "I float around the edges of things. I have friends but I only put in the required energy to fit in."
 
 **中文理解**：我在事物的边缘漂浮。我有朋友，但我只投入必要的精力来融入。

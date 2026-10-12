@@ -87,7 +87,7 @@
 
 ---
 
-> "I am met with a powerful and skilled opponent who is not to be toyed with. I would not win. I would be outmaneuvered at every turn."
+> "I was met with a powerful and skilled opponent who is not to be toyed with. I would not win. I would be outmaneuvered at every turn."
 
 **中文理解**：我面对的是一个强大而熟练的对手，不可小视。我赢不了。每一次我都会被巧妙地制服。
 
