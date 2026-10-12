@@ -42,7 +42,7 @@ source_text: ch48
   **Jess 抓住 Lucy 的手——她的皮肤摸起来潮湿、光滑、陌生——往上拉。**
   **"我又来过这里，"Lucy 再次想**，**Jess 领她进洞**。**她们跪着爬行，岩石在 Lucy 的皮肤上压出凹痕**。**海的轰鸣在这里安静些，有音乐性**。**在她头顶，岩石的匕首像牙齿一样闪光。**
 - **关键词**：Lucy does not hear the words so much as feel them, a song humming in her bones / her skin feels moist and smooth and strange / I have been here before, Lucy thinks again / They crawl on their knees, the rocks making indents in Lucy’s skin / The sea’s roar is quieter here, musical / daggers of rock glisten like teeth.
-- **为什么这样写**：**"一支歌在她骨头里嗡鸣"（a song humming in her bones）——**女儿与母亲的第一次交流就是歌**，**而歌是这本书里母女三代的唯一语言**（ch34 的女囚合唱、ch36 的生产歌、ch47 的 Eliza）。**"匕首般的岩石像牙齿"（daggers of rock glisten like teeth）与 ch46 的"像牙齿"呼应**。**"有音乐性"（musical）是 Lucy 的判断**：**她已经在用母亲的方式听海**。
+- **为什么这样写**：**"一支歌在她骨头里嗡鸣"（a song humming in her bones）——**女儿与母亲的第一次交流就是歌**，**而歌是这本书里母女三代的唯一语言**（ch34 的女囚合唱、ch36 的生产歌、ch47 的 Eliza）。**"匕首般的岩石像牙齿"（daggers of rock glisten like teeth）与 ch18 的"glimmer like teeth"互为呼应**（ch18：In the moonlight the rocks below glimmer like teeth）。**"有音乐性"（musical）是 Lucy 的判断**：**她已经在用母亲的方式听海**。
 - **读者视角提示**：**请注意"她的皮肤摸起来潮湿、光滑、陌生"**——**第一次身体接触就被标记为"陌生"**。
 
 > **原句 3:** "When they are inside, Jess stops, turns to face Lucy. ‘You came,’ she says, putting her arms around her.
@@ -109,7 +109,7 @@ source_text: ch48
   「**那不会是淹死，**」Jess 说，**抚着 Lucy 的脸颊**，「**闭上眼睛。**」
 - **关键词**：What do you mean, you wanted to take me to the sea? / Lucy licks her cracked lips / are you saying that you wanted us to drown? / It wouldn’t be drowning / stroking Lucy’s cheek / Close your eyes.
 - **为什么这样写**：**"你想让我们淹死吗"（you wanted us to drown?）是 Lucy 用陆地的语言给母亲的计划命名**。**"那不会是淹死"（It wouldn't be drowning）——**Jess 拒绝这个词，但她也拒绝解释**。**"闭上眼睛"（Close your eyes.）是全书最温柔、也最可怕的一句收尾**：**它是母亲的邀请，也是 ch47 "向它们屈服"的重演**。
-- **读者视角提示**：**本章末句与 ch46 末句（刀刃抵喉）在同一天**：**一个女儿被邀请闭眼，一个男人被刀抵住喉咙**。
+- **读者视角提示**：**本章末句（2 月 17 日星期日）与 ch46 末句（2 月 15 日星期五，刀刃抵喉）相隔两天**：**一个女儿被邀请闭眼，一个男人被刀抵住喉咙**。
 
 ## 本章词汇
 
