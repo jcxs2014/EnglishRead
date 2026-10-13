@@ -22,7 +22,7 @@ modified: "2026-10-11"
 
 ## 精读
 
-> **原句 1:** "There is not enough space on the bed for two of them to lie down on their backs, so they have to stretch out on their sides to avoid touching each other. Why this charade, when all they both wish to do is precisely to reach out and touch the body lying next to them?"
+> **原句 1:** "There is not enough space on the bed for two of them to lie down on their backs, so they have to stretch out on their sides to avoid touching each other. Why this charade, when all they both wish to do is precisely to reach out and touch the body lying next to them? At least Jay does."
 
 **中文理解**：床上空间不够两人仰面躺下，所以他们只得侧身伸展，以免彼此相触。明明两人都恰恰渴望伸出手去触碰身旁那具身体，这番做戏又所为何来？
 

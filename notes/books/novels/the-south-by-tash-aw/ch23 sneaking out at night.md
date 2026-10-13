@@ -84,7 +84,7 @@ modified: "2026-10-11"
 
 > **原句 6:** "He wanted to shower the moment we arrived – he didn’t like being sweaty, I knew that by now; he would take a quick wash even after the slightest exertion on the farm."
 
-**中文理解**：一到那儿他就想洗澡——他不喜欢身上有汗，这点我如今已经知道；在农场哪怕稍一用力，他也会很快冲一下。
+**中文理解**：我们一到那儿他就想洗澡——他不喜欢身上有汗，这点我如今已经知道；在农场哪怕稍一用力，他也会很快冲一下。
 
 **关键词**：the moment we arrived / slightest exertion / I knew that by now
 
