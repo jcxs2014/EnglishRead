@@ -148,7 +148,7 @@ modified: "2026-10-11"
 
 **关键词**：drought have dried up the stream / merely a deep ditch / carpeted with weeds
 
-**为什么这样写**：「dried up」与「merely a deep ditch」形成从「溪」到「沟」的降级，水这一生命符号的消失，呼应全章的情感干涸。「carpeted with weeds」用「铺地毯」的雅词写荒芜，讽刺而精准——自然以最不经意的姿态接管了人类的遗弃。旱季是全书的气候母题，这里第一次明确点出。
+**为什么这样写**：「dried up」与「merely a deep ditch」形成从「溪」到「沟」的降级，水这一生命符号的消失，呼应全章的情感干涸。「carpeted with weeds」用「铺地毯」的雅词写荒芜，讽刺而精准——自然以最不经意的姿态接管了人类的遗弃。旱季是全书的气候母题——ch01 开篇「已经数月无雨」定过基调——这里以 drought 一词正式点名称呼它。
 
 **读者视角提示**：读者把干溪与干涸的人际关系叠看：杰克不来、电话不响、草坪消失，一切都在「干旱」这个总隐喻下失水。地理即心理。
 
