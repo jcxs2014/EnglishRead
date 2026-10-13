@@ -165,6 +165,24 @@ source_text: "text/ch23_chapter_23.txt"
 
 ---
 
+### ⑨
+
+> "We are in this together, remember?"
+
+**中文理解**：Aaron 用这句话回应 Lina 的恐惧——强调两人共同面对困境，而非各自承受。这句话是他"承诺"的简化表达，是全章的情感锚点。
+
+**句子结构**：简短陈述句，"in this together" 是核心短语，祈使句 "remember?" 将主动权交给 Lina，让她自己确认。
+
+**关键词**：
+- **be in this together** 同舟共济（共同承担）
+- **remember** /rɪˈmembər/ vt. 记住（提醒而非命令）
+
+**表达方式**：省略主语的祈使句，口语化但有分量。
+
+**为什么这样写**：这句话是 Aaron 整章的性格缩影——他不逃避问题，而是将问题变为"共同的战场"。"together" 是他对抗 Lina 孤独恐惧的武器。
+
+---
+
 ## 词汇表
 
 ### 高级（8-10条）

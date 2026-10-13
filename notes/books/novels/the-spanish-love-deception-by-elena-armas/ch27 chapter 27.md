@@ -173,6 +173,26 @@ source_text: "text/ch27_chapter_27.txt"
 
 ---
 
+### ⑨
+
+> "This is the woman I plan on spending the rest of my life with. I'm not letting go of her anytime soon."
+
+**中文理解**：Aaron看着Lina，对父亲Richard说：这是我打算共度余生的女人。我不会轻易放开她。
+
+**句子结构**：并列陈述句。直接向父亲介绍未来伴侣，态度庄重正式。
+
+**关键词**：
+- plan on doing = 打算做……
+- spending the rest of my life with = 与……共度余生
+- not letting go = 不放手
+- anytime soon = 轻易地（否定）
+
+**表达方式**："the rest of my life"和"anytime soon"形成时间跨度对比——余生很长，但放手不会很快发生。
+
+**为什么这样写**：这是Aaron第一次在Lina面前正式对家人宣告他们的未来。之前是私下承诺，现在是有第三方见证的公开宣言。
+
+---
+
 ## 词汇表
 
 ### 高级（Advanced）

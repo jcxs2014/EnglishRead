@@ -20,25 +20,6 @@ source_text: "text/ch04_chapter_4.txt"
 
 ### ①
 
-> "You are delusional if you think you can find someone in such a short amount of time."
-
-**中文理解**
-Aaron 这句话在第三章再次出现——但这次是 Lina 自己主动回想起来的。Rosie 问她"Aaron 是否还在等"，Lina 用嘲讽的语气说"我听说他没有心"。然而，正是因为她记得这么清楚，才说明 Aaron 的话一直在她脑海里盘旋不去。
-
-**句子结构**
-主句"You are delusional"，if 条件句"if you think you can find someone in such a short amount of time"。与前两章相同，但语境完全不同。
-
-**关键词**
-delusional / find someone / short amount of time
-
-**表达方式**
-同一句话在三章中反复出现，形成结构性呼应。Lina 用它来反击 Rosie 的暗示，但她自己才是最放不下这句话的人。
-
-**为什么这样写**
-这是本书最重要的叙事手法之一——引语重复。Lina 嘴上说讨厌 Aaron，却把他的每一句话都记得清清楚楚。她用这句话嘲讽 Aaron，但讽刺的是她自己的在意暴露无遗。
-
----
-
 ### ②
 
 > "He had known me for two days, Rosie. Two."

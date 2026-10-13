@@ -114,19 +114,18 @@ source_text: text/ch09_chapter_9.txt
 
 ---
 
-> "I had no reason to. Not consciously at least. We weren't friends. We didn't owe anything to each other."
+> "I can take you, if that's what you want."
 
-**中文理解**：Lina 试图说服自己：她没有理由在意 Aaron，毕竟他们不是朋友，也不欠彼此什么——但"at least"（至少）这个保留词已经泄露了她潜意识里的在乎。
+**中文理解**：Aaron 提出可以带 Lina 去动物收容所做志愿者——这与上周六他告诉她的"约会内容"一致，但此刻他主动邀请，带有明显的不同意味。
 
-**句子结构**：I had no reason to（主句）+ Not consciously at least（状语省略，意思是"至少在意识层面没有"）+ We weren't friends / We didn't owe...（并列独立句，解释原因）。
+**句子结构**：I can take you（主句）+ if that's what you want（if 条件句）。
 
-**关键词**：Not consciously at least, didn't owe anything
+**关键词**：take you, if that's what you want
 
-**表达方式**：自我说服式独白——以否定句罗列理由，反而暴露了这些理由对她而言是需要被"说服"才能接受的东西。真正的在乎不需要理由。
+**表达方式**：条件句 + 直接承诺——Aaron 的表达方式非常含蓄，但"I can take you"已经超出"交易"的范畴，是他在主动创造与 Lina 共度时光的理由。
 
-**为什么这样写**：Lina 的"理由列表"是经典的自我防御机制——越强调"不在乎"，越说明在乎。她的 at least 保留词是全章最精准的心理描写，暗示她的情感已经溢出理智可以管控的范围。
+**为什么这样写**：Aaron 提议去动物收容所，延续了 Chapter 8 中"他带之前的 bidder 做志愿者"的线索。但这次不同——他是主动邀请，而非被动接受拍卖规则。这说明他对 Lina 的兴趣已经超出了"避免被陌生人约会"的交易层面。
 
----
 
 ## 词汇表
 

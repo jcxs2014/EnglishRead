@@ -37,28 +37,6 @@ never needed anyone / fight your battles / respect the most
 **为什么这样写**
 这是 Aaron 第一次真正"看见"Lina——不是那个迟到的人，不是爱笑爱闹的西班牙女孩，而是一个独立、坚强、不依赖他人的女性。这句话标志着 Aaron 对 Lina 的看法开始发生微妙变化，从"不喜欢的同事"转向"尊重的对手"。它也是 Lina 内心震动的来源——她一直以为 Aaron 讨厌她的一切。
 
----
-
-### ②
-
-> "You are delusional if you think you can find someone in such a short amount of time."
-
-**中文理解**
-这句话在第三章再次出现，但这次是 Lina 自己回想起来的——Rosie 问她 Aaron 是否还在等，Lina 用这句她曾听过的话作为嘲讽回应："我听说他没有心。"然而这恰恰证明 Aaron 那天说的话一直萦绕在她心头。
-
-**句子结构**
-主句"You are delusional"，if 条件句"if you think you can find someone in such a short amount of time"。与第二章相同，但语境完全不同。
-
-**关键词**
-delusional / find someone / short amount of time
-
-**表达方式**
-同一句话在第一章和第三章重复出现，形成结构性呼应。Lina 用它来嘲讽 Aaron"没有心"，但她自己才是最放不下这句话的人。
-
-**为什么这样写**
-引语的重复是本书的重要叙事手法。Lina 嘴上说讨厌 Aaron，却把他的每一句话都记得清清楚楚。她用这句话反击，但暴露的恰恰是她自己的在意。"I heard he doesn't have one"——她连他的"没有心"这个形容都没有忘记。
-
----
 
 ### ③
 

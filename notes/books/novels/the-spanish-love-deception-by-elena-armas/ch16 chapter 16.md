@@ -167,6 +167,43 @@ source_text: "text/ch16_chapter_16.txt"
 
 ---
 
+### ⑨
+
+> "Gabi has turned into this cute but terrifying sports mogul, and everyone is scared of her."
+
+**中文理解**：Lina向Aaron介绍Gabi，说她变成了一个可爱但可怕的体育巨头，所有人都怕她。
+
+**句子结构**："this cute but terrifying sports mogul"是名词短语作表补，this+adj+n的结构在口语中制造强调效果。Everyone was scared of her是主句。
+
+**关键词**：
+- `sports mogul`：体育巨头，与Gabi的实际身份（cousin）形成反差
+- `cute but terrifying`：可爱又可怕，Gabi的特质，也是本章的章节基调
+
+**表达方式**："cute but terrifying"是本章的潜文本——Aaron对Lina来说也是cute but terrifying，而这个评价被转移到Gabi身上，是Lina的潜意识转移。
+
+**为什么这样写**：Gabi作为 Wedding Cup的组织者，是这段西班牙之旅的"外部压力"。她的存在让fake relationship的"表演"变得更具挑战性（Team Bride vs. Team Groom），同时她也是Lina与家人互动的缓冲带。
+
+---
+
+### ⑩
+
+> "Are you trying to impress me with sports lingo, Catalina?" The way he had said my name was new. I couldn't explain how, but it had been different from any other time he had voiced those four syllables. And it sent a shiver dancing down my arms.
+
+**中文理解**：Aaron说"Catalina"的方式与以往不同，让Lina产生了一阵胳膊上的哆嗦。
+
+**句子结构**："The way he had said my name was new"是主句 + was pressed(表语)，后面的I couldn't explain...是主句的宾语从句，"And it sent a shiver dancing down my arms"是结果句。
+
+**关键词**：
+- `sports lingo`：体育术语，Lina用"central defender"等假装自己很懂
+- `the way he had said my name`：他说我名字的方式，本章的核心意象
+- `sent a shiver dancing down my arms`：胳膊上跳舞的哆嗦，身体反应
+
+**表达方式**："sent a shiver dancing"用拟人化的dancing替代rushing，让shiver有了生命，与前面"stupid shiver"形成对比——Lina在理智上否定它，但情感上它在dancing。
+
+**为什么这样写**："Catalina"这个全名在ch14是Aaron的"武器"，在ch15成为他的"弱点"——他用全名称呼她，但这次的方式让她感受到不同的东西。这是声音作为情感媒介的经典言情写法。
+
+---
+
 ## 词汇表
 
 ### 高级词汇（8-10条）

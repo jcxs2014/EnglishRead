@@ -58,32 +58,8 @@ Daniel 面对 Isabel 关于"你们俩什么时候开始上床的"追问，用面
 **为什么这样写**
 Daniel 的 deadpan 打断是故事中的重要节点。他的介入让 Lina 感到一种复杂的情绪——既有被解救的感激，又有被提醒"这一切都是假的"的羞耻感。同时，Daniel 知道真相却选择沉默，这一事实暗示他对 Aaron 和 Lina 的关系有自己的看法。
 
----
 
 > **③**
-> "his voice had a breathless texture"
-
-**中文理解**
-Aaron 讲述完他们相遇的故事后，声音变得有些"喘息感"，而 Lina 发现自己也在以同样的方式回望他。那一刻，她发誓他在向她展露一部分真实的自己——尽管这很危险，尽管他们都知道这只是"表演"。
-
-**句子结构**
-"His voice had a breathless texture" 是感官描写句，"and in return, he let me do the same" 是并列句，"I couldn't know how, but I swore..." 是 "but" 连接的并列复合句。"in that moment, he was laying bare a little piece of himself" 是宾语从句作 "swore" 的宾语。
-
-**关键词**
-- breathless texture：喘息感
-- laying bare：袒露、展露
-- in return：作为回报、相应地
-- sworn：发誓
-
-**表达方式**
-"laying bare a little piece of himself" 是非常精确的比喻——"袒露"通常用于身体，但在情感语境中意味着"展露脆弱"。这个表达暗示 Aaron 正在突破他平时的"冷面"人设，向 Lina 展示一些真实的东西。
-
-**为什么这样写**
-这是 Aaron 和 Lina 关系的关键转折点。Aaron 讲述的那个"初遇故事"被 Isabel 视为"浪漫的真情告白"，但 Lina 知道那只是一半真相——Aaron 说的是事实，但不是全部事实。而"laying bare a little piece of himself"暗示即使在这场谎言中，Aaron 也开始展现真实的情感。
-
----
-
-> **④**
 > "All the time I wasted so foolishly. All the time I could have had with her."
 
 **中文理解**
@@ -105,9 +81,9 @@ Aaron 说完后看着 Lina，说了这两句近乎独白的话："所有那些�
 
 ---
 
-## 引语块 5-8
+## 引语块 3-7
 
-> **⑤**
+> **④**
 > "My heart raced in my chest as I tried to gather myself, to control my breath. Sweat dripping down my back and arms, an overwhelming sensation made its way across my whole body."
 
 **中文理解**
@@ -129,7 +105,7 @@ Lina 在舞池中与 Aaron 贴身热舞后，心跳加速、呼吸急促、汗�
 
 ---
 
-> **⑥**
+> **⑤**
 > "Do you trust me, Catalina?" he asked me. Yes. The answer flashed across my mind, but I didn't voice it."
 
 **中文理解**
@@ -152,7 +128,7 @@ Aaron 问 Lina"你信任我吗，Catalina？"她心里立刻回答"是的"，但
 
 ---
 
-> **⑦**
+> **⑥**
 > "I found lots of stuff, you know. That's why I only allowed myself to Google you one single time. I was scared of finding something that would change what I thought of you."
 
 **中文理解**
@@ -175,7 +151,7 @@ Lina 向 Aaron 坦白她曾经 Google 过他，只 Google 了一次，因为她�
 
 ---
 
-> **⑧**
+> **⑦**
 > "Completely? Not yet. But I'm working my fucking hardest on getting there."
 
 **中文理解**
