@@ -104,6 +104,12 @@ metadata:
 
 ## 重要记忆（按时间倒序）
 
+### 2026-10-13 新增
+
+- **The South（Tash Aw）情感/文学长篇**：36 章（1:1 零偏移、无显式章题，按 keyplot 命名）+ 总览三篇 = **39 md**；text/ 36 件（OPF 46 页，10 非正文 SKIP）。DSH-Mac 执行，12 批子代理并行（槽位上限 8，完成一批级联一批；3 批中途掉线由父会话补验+二轮重建），**6 commits 未 push**（`efbb40a2b`→`1d04f93b2`）。终值：`bash scripts/gate.sh` **EXIT=0（0 阻断型／提示型 6）**｜verify_quotes **268/268（100%，36/36 干净）**｜sweep_full 整串 flat 0 查无 0 拼接｜check_vocab **950 词条行 FAIL0**（WARN 40 全 length≥9 提示型）｜entities 0｜corruption 0｜逐章归属 36 章全 X/X｜短引语 2/2｜check_overview_full 整串 45／查无 0／H1 错配 0。**五步审查未做（待用户发起）**。
+  - **本批三条硬教训**：① **sweep_full 是整串引语的照妖镜**——verify_quotes 指纹级全绿时它仍抓出 5 条跨标签拼接 + 1 条整串查无（全是「两句用 …/空格焊接」形态，She Haunts 同源）；收口必须两把尺子各跑一次。② **说话人错配再证机械化不可靠**：ch25 原句7 编造后半句+把穗标成芳对话里的川、ch08 原句6 把芳对杰克的话标成川的邀请——verify/entities 全绿，全靠读 ±10 行上下文抓出；子代理写「谁在说」须带原文对话标签。③ **修复 agent 与父会话同文件竞态**：interrupt 后其最后写盘仍可能砸块（ch11 原句1 被截断+裸原文混入）；重建结构块用「text/ span 程序化取字」而非手工粘。
+  - 总览引语池程序化生产连续第三次 0 凭记忆重打（Deathless→本章）：金句 25+节点 20 全从已过 verify 的原句块 json 池取。板/日志：`COLLABORATION.md` 抬头 `[2026-10-13 19:45 UTC] [DSH-Mac]`（9 行/1520 B）；明细 `.memory/daily/2026-10-13.md`；门禁原件 `.memory/raw-gates/the-south-by-tash-aw/`（首跑 2 阻断 + 终跑 EXIT=0 全 18 项）。
+
 ### 2026-10-03 新增
 
 - **Deathless（Julie Kagagawa，Blood of Eden 系列首作）YA 奇幻长篇**：22 章（ch01–ch22，Chapter 1–22，1:1 零偏移）+ 总览三篇 = **25 md**；text/ 22 件（OPF spine 30 件，非正文 7 页按 SKIP 跳过）。Hermes 执行，**28 commits 均未 push**。终值：`bash scripts/gate.sh` **EXIT=0（18 项，0 条阻断型）**｜verify_quotes **158/158（100%，干净 22/22）**｜check_vocab **320 词条行 FAIL0 WARN0**｜逐章归属 **22 章 100%（零跨章）**｜sweep_full 跨章 0 拼接 0 查无 0｜短引语 7 命中 0 查无｜corruption 0｜entities 0｜check_anchor 凭空造词 0｜sweep_analysis_inline 零命中 0｜audit_structure 缺陷 0 提示 0 映射 0｜block_keywords 问题 0｜check_overview_full **整串命中 44 / 查无 0 / 章节标签 对 5·不符 0 / H1 错配 0**。**五步审查未做（待用户发起）**。
