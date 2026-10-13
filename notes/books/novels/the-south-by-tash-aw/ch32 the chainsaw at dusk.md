@@ -29,7 +29,7 @@ modified: "2026-10-11"
 
 **关键词**：recognise every sound / unfamiliar / a brutal intrusion
 
-**为什么这样写**：全章用「听觉」起势。作者先罗列一串被少年身体记熟的土地之声——锈.rs-tling、chorus、shivering——让读者与人物共享同一种对地方的亲密；随后只用一个短句「But now there is a noise that is unfamiliar – a brutal intrusion」推翻整幅声音地图。「brutal（粗暴）」一词提前给这场砍伐定性：不是农事，是暴力。以熟悉／陌生的听觉对照写「家园被破坏」，比任何议论都锋利。
+**为什么这样写**：全章用「听觉」起势。作者先罗列一串被少年身体记熟的土地之声——rustling、chorus、shivering——让读者与人物共享同一种对地方的亲密；随后只用一个短句「But now there is a noise that is unfamiliar – a brutal intrusion」推翻整幅声音地图。「brutal（粗暴）」一词提前给这场砍伐定性：不是农事，是暴力。以熟悉／陌生的听觉对照写「家园被破坏」，比任何议论都锋利。
 
 **读者视角提示**：注意清单里那句「不是莉娜就是丰」——土地的声音全有人名可对号入座，唯独这个陌生的机械声不属于任何熟悉的存在。读者和少年一起，把「认不出」体验为「危险」。
 
