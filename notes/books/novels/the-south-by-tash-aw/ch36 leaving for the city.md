@@ -14,11 +14,11 @@ modified: "2026-10-11"
 **Tropes 兑现/反转**：
 - 「南方」的终结与延续：农场售出、川搬进城，地理上的「南」落幕，但「我还会回来」把离散改写为循环
 - 时间主题的终章回响：开篇「他们哪懂时间」在章中「我快十七了，那时我懂什么是时间」完成首尾呼应
-- 离别不是悲剧：把 departure 变成 party，反转了 traditional 的伤感告别套路
+- 离别不是悲剧：把告别变成一场聚会，反转了传统的伤感送别套路
 
 **人物弧线**：「我」从第一章被追述的「男孩」成长为临近十七、能自嘲感伤的少年；川则从欲望客体转为务实的成年引路人——他看新居、谋新职，完成与农场和父亲的「彻底断裂」。
 
-**叙事手法**：第一人称回顾视角（「I」）与第三章起的成熟叙述声音汇合，沿途用景物速写（湖、雨、舞池灯光）替代心理独白，节奏由沉缓转向轻快，结尾定格在「音乐太响听不清」的开放式瞬间。
+**叙事手法**：第一人称回顾视角（叙述者「我」）与第三章起的成熟叙述声音汇合，沿途用景物速写（湖、雨、舞池灯光）替代心理独白，节奏由沉缓转向轻快，结尾定格在「音乐太响听不清」的开放式瞬间。
 
 ## 精读
 
@@ -141,7 +141,7 @@ modified: "2026-10-11"
 | indistinct |adj. 模糊的、不分明的（湖水的浑浊色调）|"the lake the same indistinct muddy hue as always." |
 | muddy |adj. 泥泞的、浑浊的（指湖水色）|"the lake the same indistinct muddy hue as always." |
 | hue |n. 色调、颜色（湖水的色泽）|"the lake the same indistinct muddy hue as always." |
-| sentimental |adj. 多愁善感的、感伤的（自嘲想记住湖）|"I realised that I was trying to commit every detail to memory, even though I’d vowed to return" |
+| sentimental |adj. 多愁善感的、感伤的（自嘲想把湖记牢）|"I knew it was a sentimental thing to do, which is why I wanted to be on my own, without even Chuan to distract or make fun of me." |
 | lopsided |adj. 倾斜的、不正的（走廊略歪）|"which looked slightly lopsided, and the house rising above it." |
 
 ### ⭐ 基础

@@ -71,19 +71,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 5:** "‘The fuck is your dad doing?’ Jay says."
-
-**中文理解**：「你爸到底在干什么？」杰伊说。
-
-**关键词**：the fuck
-
-**为什么这样写**：全章唯一一句粗口，由书卷气的杰伊说出——语言的「失格」精确标记了情绪的「失格」：眼前的荒谬大过了体面的疑问句能承载的范围。同时这一问也划清辈分：他下意识把油锯当作「你爸」的私人行为，一句粗话里已经埋下「父债子偿」的阴影——这场破坏将如何落到川的头上，是后文真正的问号。
-
-**读者视角提示**：读者会注意到川「摇头不答」——他对父亲的行为没有惊讶、没有辩解，只有一种早已领教的沉默。粗口与无言之差，正是两个少年此刻对「丰」这个人的温差。
-
----
-
-> **原句 6:** "Despite the invasive loudness of the sound there is something surreptitious about it – they both know it is an odd hour to be cutting wood – and they feel that they must remain unseen."
+> **原句 5:** "Despite the invasive loudness of the sound there is something surreptitious about it – they both know it is an odd hour to be cutting wood – and they feel that they must remain unseen."
 
 **中文理解**：尽管这声音具有侵入性的响度，它本身却带着某种鬼鬼祟祟的气质——两人都知道，这个钟点伐木实在反常——他们觉得自己必须不被人看见。
 
@@ -95,19 +83,19 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 7:** "They watch Fong continue in his attempt to cut the tree down. His head is bowed in concentration, as if he has no choice but to continue, as though he has to destroy this tree or he will die."
+> **原句 6:** "They watch Fong continue in his attempt to cut the tree down. His head is bowed in concentration, as if he has no choice but to continue, as though he has to destroy this tree or he will die."
 
 **中文理解**：他们看着丰继续锯那棵树。他低着头，全神贯注，仿佛除了继续别无选择，仿佛他必须毁了这棵树，否则自己就活不下去。
 
 **关键词**：bowed in concentration / no choice but to continue / or he will die
 
-**为什么这样写**：全章唯一对丰的正面特写，写法近乎宗教画像：低头如祷。「as if」「as though」连用两层的推测口吻，是少年视角对成人内心唯一的读法——不敢断定，只能打比方。「destroy this tree or he will die」把伐木升格为求生：树（他劳作一生的农场）不死，他就要为它殉葬。这句替下一章丰在车库修雨刷的沉默提供了心理前史。
+**为什么这样写**：全章唯一对丰的正面特写，写法近乎宗教画像：低头如祷。「as if」「as though」连用两层的推测口吻，是少年视角对成人内心唯一的读法——不敢断定，只能打比方。「destroy this tree or he will die」把伐木升格为求生：树（他劳作一生的农场）不死，他就要为它殉葬。这句替第三十章丰在车库修雨刷的沉默提供了心理前史。
 
 **读者视角提示**：「continue」一词重复出现，读者会听出一种强迫性：这不是砍树，是在反复练习「接受丧失」，而他还练不会。
 
 ---
 
-> **原句 8:** "The tree tips very slowly, as if to topple, but it pauses, branches caught in those of the adjacent trees, which prevent it from falling. Jay and Chuan can hear the snapping of twigs and of wood, but then a curious silence returns."
+> **原句 7:** "The tree tips very slowly, as if to topple, but it pauses, branches caught in those of the adjacent trees, which prevent it from falling. Jay and Chuan can hear the snapping of twigs and of wood, but then a curious silence returns."
 
 **中文理解**：树缓缓倾侧，像要倒下，却停住了——枝桠被相邻树木的枝叶卡住，使它未能仆地。杰伊和川听见细枝与木头折断的声音，但随之一阵奇异的寂静重新降临。
 
@@ -115,11 +103,11 @@ modified: "2026-10-11"
 
 **为什么这样写**：倒而不倒，是全章最好的一个停顿。树被同伴的枝桠「托住」，获得片刻尊严式的悬停——恰如丰此刻的人生：已经倒下（农场将售），只是暂时被相邻的惯性架着。「a curious silence returns」的「curious」是叙述者的诚实：他说不清这寂静是哀伤、是宽慰的假象，还是暴风雨前的空档。声音的结构也在此完成闭环：熟悉的寂静回归，但已被「陌生的声音」污染过。
 
-**读者视角提示**：读者宜把这句当作丰命运的预演：树还没有落地，卡住了——就像他「盖度假屋自救」的计划（上一章），像所有被体面托住的崩塌。下一段闪进就把这悬停残忍落地。
+**读者视角提示**：读者宜把这句当作丰命运的预演：树还没有落地，卡住了——就像他在第二十九章提出的「盖度假屋自救」的计划，像所有被体面托住的崩塌。下一段闪进就把这悬停残忍落地。
 
 ---
 
-> **原句 9:** "When Jay and Chuan come back a few days later, all the tamarind trees will have been chainsawed to the ground, lying in uneven heaps as though a storm decided to wreak havoc on that precise part of the farm. The space left by the former canopy of branches lets in too much light and opens up the view to the lake, which will, from where they are standing, look like a small, flat stretch of swamp. Not knowing what to say as they pick their way through the fallen timber, Chuan will joke that Lina should come back and photograph the dead trees as part of her art project. Jay will trace the patterns on the fallen trees with his fingertips and recall the feeling of the rough crevices on his skin. They were sick and had to die anyway."
+> **原句 8:** "When Jay and Chuan come back a few days later, all the tamarind trees will have been chainsawed to the ground, lying in uneven heaps as though a storm decided to wreak havoc on that precise part of the farm. The space left by the former canopy of branches lets in too much light and opens up the view to the lake, which will, from where they are standing, look like a small, flat stretch of swamp. Not knowing what to say as they pick their way through the fallen timber, Chuan will joke that Lina should come back and photograph the dead trees as part of her art project. Jay will trace the patterns on the fallen trees with his fingertips and recall the feeling of the rough crevices on his skin. They were sick and had to die anyway."
 
 **中文理解**：几天后杰伊和川再回来时，所有罗望子树都已被油锯贴地锯倒，参差地堆着，像一场风暴决意只祸害农场的那一小块。昔日枝冠留下的空缺放进太多光，把望向湖的视野整个掀开——从他们站立处看去，湖将像一小片平坦的沼泽。不知该说什么的两人踏过倒木，川会打趣说该叫莉娜回来给死树拍照、算进她的艺术项目里。杰伊会用指尖描摹倒木上的纹路，回味粗糙的裂缝在自己皮肤上划过的感觉。它们本来病了，反正非死不可。
 

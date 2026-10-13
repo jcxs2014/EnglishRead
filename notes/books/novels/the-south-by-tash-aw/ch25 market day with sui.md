@@ -94,7 +94,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 7:** "But they’re still alive and still beautiful."
+> **原句 7:** "She shrugs. But they’re still alive and still beautiful."
 
 **中文理解**：「可它们还活着，还是美的。」她耸了耸肩说道。
 
@@ -139,10 +139,11 @@ modified: "2026-10-11"
 | loathe | v. 厌恶、憎恶 | "that Sui will loathe this town so much that she will never come back." |
 | brooding | v. 郁郁寡欢、闷坐沉思 | "you just sat in a chair brooding all day, wishing you were back on the farm." |
 | tamarind | n. 罗望子（热带树种，文化专有词） | "Remember carrying on barefoot all the way to the tamarind trees?" |
-| impeccable | adj. 无懈可击的、恰好的 | "with impeccable timing, it started trading just a few months before the financial" |
+| impeccable | adj. 无懈可击的、恰好的 | "with impeccable timing, it started trading just a few months before the financial markets crashed" |
 | condensation | n. 冷凝水、水珠（杯壁渗出的水） | "The coffees arrive, beads of condensation already running down the plastic cups." |
-| glosses | v. 轻描淡写带过、掩饰（gloss over） | "he glosses over the need for a loan by saying" |
+| glosses | v. 轻描淡写带过、掩饰（gloss over） | "he glosses over the need for a loan by saying that he has good relations with the local bank manager" |
 | nest | n. 巢、窝（此处指孩子离巢的隐喻） | "she is starting to wonder what she will do with all her time once they have flown the nest." |
+| stallholders | n. 摊贩、摊主（复数） | "Occasionally he waves at someone he knows – stallholders or men he has worked with over the years – and Sui asks him who they are." |
 
 ### ⭐ 基础
 
@@ -153,7 +154,6 @@ modified: "2026-10-11"
 | rediscovery | n. 重新发现 | "the rediscovery of their friendship feels so rich" |
 | market | n. 市场、集市 | "Having agreed to go to the market together, they get into the car" |
 | mirror | n. 镜子（友谊的隐喻） | "Friends are a mirror that allow us to see who we are in relief" |
-| market | n. 市场、集市 | "Having agreed to go to the market together, they get into the car" |
 
 ## 一句话总结
 

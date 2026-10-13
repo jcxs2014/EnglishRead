@@ -143,11 +143,11 @@ modified: "2026-10-11"
 | groin | n. 腹股沟、胯部 | "It had looked so surprising, a dark protrusion from the man's pale groin, protected from the sun, when the rest of him was tanned." |
 | buttock | n. 臀部 | "but just then a group of others walked in and the moment was lost. Jay returned almost every day to the pool, sometimes missing school to loiter in the showers, so great was his need to recapture that moment of lost excitement, but each time he went, the lifeguard pretended to ignore him until one afternoon, the man squeezed Jay's left buttock as he walked past him." |
 | craves | v. 渴望（crave 的第三人称单数） | "'Slow down,' he says, 'slow down,' but he realises that Chuan is not capable of giving him the tenderness he craves." |
-| attuned | adj. 调适的、契合的（be attuned to：对……敏感合拍） | "He experiences the same sensation that he experienced under the trees: his body is no longer entirely his to control, and this loss of sovereignty is a kind of freedom, as if his body is not attuned to his disappointment." |
+| attuned | adj. 调适的、契合的（be attuned to：对……敏感合拍） | "But despite this doubt he becomes aware that he is aroused, as if his body is not attuned to his disappointment." |
 | reverberate | v. 回响、震荡 | "Jay hears the words reverberate but can't make them out, because he is already falling asleep." |
 | swivel | v. 旋转、转动 | "I thought you wanted to be slow, Chuan says a bit later, when they have recovered their breath and are lying in bed, watching the table fan swivel lazily from side to side." |
 | nauseous | adj. 反胃的、作呕的 | "This cheap spray that would normally upset Jay's olfactory sense – he doesn't like strong smells, gets nauseous on the bus to school every morning with all the aftershaves and fragrances – now excites him." |
-| locker room | n. 更衣室、 locker 室 | "For years afterwards, every time he picks up the chemical muskiness of this kind of cologne on someone's skin, or in the air in a locker room, he will feel the same frisson that he is experiencing now, that to him signifies possibility, the unfolding of an afternoon, an evening, a lifetime." |
+| locker room | n. 更衣室（运动场馆里换衣服的房间） | "For years afterwards, every time he picks up the chemical muskiness of this kind of cologne on someone's skin, or in the air in a locker room, he will feel the same frisson that he is experiencing now, that to him signifies possibility, the unfolding of an afternoon, an evening, a lifetime." |
 
 ### ⭐ 基础
 

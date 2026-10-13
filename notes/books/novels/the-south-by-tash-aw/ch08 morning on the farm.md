@@ -58,39 +58,39 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 4:** "I watched them methodically cut down one young tree after another, the tops of the saplings spinning away into the dark as the blades bit into the wood, and I felt a kind of melancholy at the efficiency with which they destroyed what they had spent years growing."
+> **原句 4:** "Almost simultaneously, they started their chainsaws and I watched them methodically cut down one young tree after another, the tops of each one trembling in the moments before it toppled over. I could tell by the growl of the chainsaws whenever one of the men was encountering difficulties, slowed down by a stubborn tree."
 
-**中文理解**：我看着他们有条不紊地一棵接一棵砍倒小树，树苗的顶端随着刀刃咬进木头旋转着飞进黑暗，而我心里升起一种怅惘——他们如此高效地把多年种成的东西毁掉。
+**中文理解**：他们几乎同时发动油锯，我看着他们有条不紊地一棵接一棵伐倒小树，每棵树的树冠在倾倒前的片刻里颤动。从油锯的轰鸣声里，我能听出谁遇到了难处——被一棵不肯倒的树拖住了。
 
-**关键词**：methodically / saplings / melancholy at the efficiency
+**关键词**：methodically / trembling in the moments before it toppled / stubborn tree
 
-**为什么这样写**：「methodically」与「efficiency」把劳作写成一种冷静的、近乎外科手术的程式，而叙述者的「melancholy」是唯一的抒情破口——他记得这些树是「years growing」的成果。效率与惋惜的并置，是全书反复出现的主题：人在生存所需与对生命的怜惜之间如何取舍。
+**为什么这样写**：叙述者把自己钉在「坐着看」的位置上（下句即「I felt irrelevant」），伐木的暴力全部经由声音转译——树冠的「trembling」是全书赋予树木唯一的临终特写，「stubborn tree」则把树的意志拟人化。杰伊后来那句「砍树比杀人还糟」在这里没有重复，只落在这两个词的缝隙里。
 
-**读者视角提示**：这一句让读者站在杰伊的少年良知一侧，与首章他「砍树比杀人还糟」的价值观遥相呼应——比起男人们的务实，他仍带着那种不合时宜的郑重。
-
----
-
-> **原句 5:** "He had a bar of soap that he used to lather his torso and calves, then he reached inside his shorts and scrubbed his crotch with one hand, patiently but vigorously. I felt my own body respond, a tightening in my groin that I tried to ignore."
-
-**中文理解**：他有一块肥皂，用来打出泡沫抹在上身和小腿上，然后伸手探进短裤，用一只手耐心而用力地擦洗下体。我感到自己的身体有了反应，一股在下腹收紧的感觉，我努力不去理会。
-
-**关键词**：lather his torso / scrubbed his crotch / tightening in my groin
-
-**为什么这样写**：此处以克制的旁观视角写杰伊对 Chuan 身体的注视与自身生理反应——叙事只停在「看着他洗」「感到自己起了反应」这两层，不进入任何动作描写，用「tried to ignore」把少年对欲望的慌张与回避写得极轻。环境（棚屋、水桶、肥皂）充当了安全距离。
-
-**读者视角提示**：读者被允许旁观杰伊的注视，却不被拉入任何越界场景——叙述以「tightening…tried to ignore」收住，把情欲写成一种他自己尚未命名的、需要压下的身体事实。
+**读者视角提示**：读者能听见 machinery 与树木的拉锯：这一章的伐木是为菠萝地开路，也是 ch32 油锯终结罗望子树的预演——暴力在此还是远景，到 ch32 就成了砸进两人私密之地的现实。
 
 ---
 
-> **原句 6:** "‘You know, the one just before the first of the tamarind trees, on the near side of the lake. There’s a lot to do, cutting back the undergrowth, the small trees. I can’t do that kind of thing by myself.’"
+> **原句 5:** "He had a bar of soap that he used to lather his torso and calves, then he reached inside his shorts and scrubbed his crotch with one hand, patiently but vigorously. I felt myself blush."
 
-**中文理解**：「你知道的，就在第一排罗望子树前头、湖的近岸那一边。活儿多着呢，要砍掉林下灌木和小树。这种事我一个人干不来。」
+**中文理解**：他有一条肥皂，用来把泡沫抹上躯干和小腿，然后他把手伸进短裤里，一只手耐心而用力地擦洗下体。我觉得自己脸红了。
 
-**关键词**：tamarind trees / cutting back the undergrowth / by myself
+**关键词**：lather his torso and calves / patiently but vigorously / blush
 
-**为什么这样写**：Chuan 第一次把一段具体的、属于「我们俩」的未来指给杰伊看——一个地点（罗望子树、湖近岸）、一项共同劳作（清伐灌木）、一句「我一个人干不来」。这既是邀请也是依赖的隐晦表白，与他在白天劳作时的沉默、夜出时的疏离形成反差，显出他只在私密语境里才卸下距离。
+**为什么这样写**：叙述在「I felt myself blush」处急刹车——原书紧接着用「I wasn't embarrassed, I had seen other boys and men naked」自我辩解，把脸红归因于别的东西。作者写少年欲望的辨认期只给一个身体信号（红），拒绝命名；这种留白比直白更准确。
 
-**读者视角提示**：读者在此捕捉到两人关系的支点：所有温存都发生在「棚下、湖边、夜里」的阴影地带，而白天的农场始终是第三者在场的公共空间。
+**读者视角提示**：读者被放在与杰伊同样的位置——只看见、只脸红。这段的亲密不在动作里，在「不敢承认自己在看」的视角里。
+
+---
+
+> **原句 6:** "‘You know, the one just before the first of the tamarind trees, on the near side of the lake. There’s a lot to do, cutting back the undergrowth, the small trees. I can’t do that kind of thing these days – my back hurts!’"
+
+**中文理解**：「你知道的，就是第一棵罗望子树前面那一小块、湖近岸那边。有好多活儿要干——割灌木、清小树。这种活如今我一个人干不动了——我腰疼！」
+
+**关键词**：the first of the tamarind trees / on the near side of the lake / my back hurts
+
+**为什么这样写**：这是芳对杰克解释「工人们在清哪块地」的话——一块他力不能及、只能雇人的地。地理坐标（罗望子树、湖近岸）正是男孩们私密世界的中心（ch06–16），而它此刻出现在大人们的账目与劳役话语里：同一块地，两套语言。芳的「my back hurts」是他全书第一次承认身体垮了——他瞒着所有人。
+
+**读者视角提示**：读者的信息差被拉开：我们知道那块地是「他们的地方」，大人们只把它记作清伐进度。这块地的命运（保留罗望子、清掉灌木）将在 ch25 穗求情、ch32 油锯碾过它的黄昏时兑现。
 
 ---
 

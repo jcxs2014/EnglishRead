@@ -46,7 +46,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 3:** "The handsome semicircle of trees that her father-in-law had planted nearly half a century earlier had been uprooted in a storm."
+> **原句 3:** "The handsome semicircle of trees that her father-in-law had planted nearly half a century earlier had been uprooted in a storm (how many, she’d wanted to ask – all of them?)."
 
 **中文理解**：她公公在将近半个世纪前种下的那排漂亮的半圆树阵，在一场风暴里被连根拔起。
 

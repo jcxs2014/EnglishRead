@@ -48,7 +48,7 @@ modified: "2026-10-11"
 
 > **原句 3:** "The traffic was heavy; people were finishing work and driving back out to the surrounding villages or leaving for the city for a night out."
 
-**中文理解**：交通很拥挤；人们下班开车回周边村庄，或离城去城里过夜生活。
+**中文理解**：交通很拥挤；人们下班后开车返回周边村庄，或者动身去城里过一夜。
 
 **关键词**：traffic was heavy / for a night out
 

@@ -70,11 +70,11 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 5:** "Save me, save me, Chuan jokes, and when Jay opens his mouth to answer, he swallows some water, which tastes warm and earthy. … I’m drowning, I’m drowning! Chuan says in a theatrical whine, locking his arm even more tightly around Jay’s neck, drawing him closer, their heads almost touching"
+> **原句 5:** "Save me, save me, Chuan jokes, and when Jay opens his mouth to answer, he swallows some water, which tastes warm and earthy. You can’t even swim properly – he gurgles, lifting his chin to keep his head clear. Chuan’s legs flail in the water and clash with Jay’s, and occasionally his knee knocks into the small of Jay’s back. I’m drowning, I’m drowning! Chuan says in a theatrical whine, locking his arm even more tightly around Jay’s neck, drawing him closer, their heads almost touching"
 
 **中文理解**：「救我，救我，」川开玩笑道，而杰伊张嘴要答时呛了口水，那水尝起来温热的、带着土味。……「我要淹死了，我要淹死了！」川用一种戏剧化的哀腔说道，把胳膊更紧地锁在杰伊脖子上，把他拉得更近，两人的头几乎相触。
 
-**关键词**：Save me / theatrical whine / drawing him closer
+**关键词**：Save me / gurgles / theatrical whine / drawing him closer
 
 **为什么这样写**：「Save me」以玩笑包装的依赖，与「theatrical whine」的戏拟，把求救变成调情；而「locking his arm… drawing him closer… heads almost touching」用一连串递进动作把亲密推到临界。温热的土味水呼应第十四章的红土，提示两人始终共享同一片土地与湖水。
 
@@ -82,13 +82,13 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 6:** "What if it’s a boy? Who comes here because he’s yearning for another boy? … Nice, Chuan says after a while. I like it."
+> **原句 6:** "What if it’s a boy? Who comes here because he’s yearning for another boy?"
 
-**中文理解**：如果主角是男孩呢？一个来到这里、因为思念另一个男孩的男孩？……「不错，」过了一会儿川说。「我喜欢。」
+**中文理解**：如果来的不是女孩是个男孩呢？谁来到这里，是因为渴慕着另一个男孩？
 
-**关键词**：yearning for another boy / Nice ... I like it
+**关键词**：yearning for another boy / What if it’s a boy
 
-**为什么这样写**：杰伊以「如果主角是思念另一男孩的少年」把隐秘情愫第一次说出口，用「重写传说」的迂回方式，避开直白的告白却已把关系点明。川的「Nice… I like it」克制到近乎平淡，却正因平淡而郑重——他没有回避，也没有放大，只是接住了这句话。
+**为什么这样写**：杰伊借着改述一个湖的传说（传说里少女为谁而溺），把隐秘情愫第一次说出口——用「重写传说」的迂回方式，避开直白的告白却已把关系点明。这是全书第一次，「为另一个男孩」以第三人称的形式被说给当事人听。
 
 **读者视角提示**：读者合上这章时，知道两人都已心照不宣：那个「yearning for another boy」的故事，写的就是他们自己。湖、下午与传说，都成了这段关系的容器。
 

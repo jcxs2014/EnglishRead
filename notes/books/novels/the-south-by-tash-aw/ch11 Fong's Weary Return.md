@@ -22,9 +22,9 @@ modified: "2026-10-11"
 
 ## 精读
 
-> **原句 1:** "Sui watches Fong walk up to the house carrying the bags, one of the kids' satchels slung over his shoulder, her own suitcase in his right hand, a basket of food in the other."
+> **原句 1:** "Sui watches Fong walk up to the house carrying the bags, one of the kids’ satchels slung over his shoulder, her own suitcase in his right hand, a basket of food in the other. She notices that he has a slight limp as he crosses the yard, or maybe it’s just the luggage."
 
-**中文理解**：穗看着芳拎着袋子走上屋子，一个孩子书包斜搭在他肩上，她自己的行李箱在他右手，另一只手还提着一篮食物。
+**中文理解**：穗看着芳拎着袋子走上屋子，一个孩子书包斜搭在他肩上，她自己的行李箱在他右手，另一只手还提着一篮食物。她注意到他穿过院子时有点轻微的跛行——也可能只是行李太重。
 
 **关键词**：watches / limp / satchels / suitcase
 

@@ -12,13 +12,13 @@ modified: "2026-10-11"
 **情感弧线位置**：强作轻松的告别之旅 → 宏愿被玩笑消解 → 车站众生相里的预演性离别，弧线位置在**离散正式执行前的最后一次同行**。
 
 **Tropes 兑现/反转**：
-- 「拯救家园的宏愿」被反转为笑柄：「我」说赚钱后买回农场、 restoring（复原）一切，莉娜与川用「华尔街银行家」「赌马赢钱」的打趣戳破这份认真——「在他们的欢快里我看见自己当时多么愚蠢」
+- 「拯救家园的宏愿」被反转为笑柄：「我」说赚钱后买回农场、把一切复原，莉娜与川用「华尔街银行家」「赌马赢钱」的打趣戳破这份认真——「在他们的欢快里我看见自己当时多么愚蠢」
 - 公路电影的告别变奏：没有煽情送别，只有一次「未经授权借车」的日常行动与一排塑料座椅上的等车
 - 众生相即命运预习：对候车人的集体猜谜（「我们谁也说不出任何一个故事的结局」）反讽地预告了三个人自己无法被预言的未来
 
 **人物弧线**：「我」在此章显出少年式的救世情结与不肯说出口的希望（「我没回答，把希望留给自己」）；莉娜是清醒的摆渡人，用玩笑封存伤感，那句「再见了，亲爱的哥哥」的夸张仪式感是她表达深情的方式；川则再度务实——「我的钱稳定下来再说」，并已把目光放在自己的前程。
 
-**叙事手法**：第一人称回顾视角（成年「我」回望少年自己），自嘲口吻贯穿（「I saw how foolish I was to have been earnest」）；中段一大段车站众生速写是典型的「观察—悬想」结构，用他人的旅程折射自己的旅程；莉娜登车「沉出视线」作结，调度如电影长镜头。
+**叙事手法**：第一人称回顾视角（成年「我」回望少年自己），自嘲口吻贯穿（「在他们的欢快里我看见自己当时多么愚蠢」）；中段一大段车站众生速写是典型的「观察—悬想」结构，用他人的旅程折射自己的旅程；莉娜登车「沉出视线」作结，调度如电影长镜头。
 
 ## 精读
 
@@ -30,7 +30,7 @@ modified: "2026-10-11"
 
 **为什么这样写**：开篇一个小小的「未经授权」，定了全章的语气底色：这是一个农场法理已悬空的世界上，孩子们自发行动的一天——主人（丰）已无暇管车，「我们」便默认万物共用。两句连用的自我开脱（「we reasoned」「it wasn't as if」）带着少年人特有的理直气壮，也带着叙述者回望时的自嘲：正是这种「只是短暂一趟」的轻描淡写，掩住了这一天真正的重量——告别。
 
-**读者视角提示**：读者若记得上一章结尾莉娜决定不回家长住、直接返校，会读出「without permission」的另一层：这个家正在散场，没人再有权力阻止谁开走一辆车。
+**读者视角提示**：读者会读出「without permission」的另一层：这个家正在散场，主人丰自顾不暇，没人再有权力阻止谁开走一辆车——「未经授权」是全书后半段权力真空的微小注脚。
 
 ---
 
@@ -58,19 +58,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 4:** "'Nothing's impossible, mighty brother of mine,' Lina said, reaching forward from the back seat to ruffle my hair. 'Though somehow you don't strike me as being a banker. You'll just have to win big on the horses.'"
-
-**中文理解**：「没有什么不可能的，我伟大的哥哥，」莉娜从后座探过手来揉乱我的头发，「只不过你怎么样也不像一个银行家。你怕只能靠赌马发大财了。」
-
-**关键词**：mighty brother of mine / ruffle my hair / don't strike me as / win big on the horses
-
-**为什么这样写**：肢体语言先于内容：「reaching forward from the back seat to ruffle my hair」——后座探来的手臂与揉头发，是姐姐对弟弟的专属动作，一句「mighty brother」（大言炎炎的哥哥）把嘲与爱搅在一起。「don't strike me as being a banker」用非常口语的「给人以……印象」句式，温和地拆掉幻想的社会学根基：他们太了解彼此的出身，连玩笑都按阶层配料——在这个语境里，「赌马赢钱」已经是比「银行家」更现实的路径。玩笑替三个人回避了「农场真的会被卖掉」这句话。
-
-**读者视角提示**：读者宜留意「ruffle my hair」将在章末再次出现（登车前她「揉我的头发」说「剩下的日子祝你好运」）——同一个动作在车内是打趣，在车站就变成交还人生剧本的印章。
-
----
-
-> **原句 5:** "I didn't answer, keeping my hope to myself."
+> **原句 4:** "I didn't answer, keeping my hope to myself."
 
 **中文理解**：我没有回答，把我的希望留给了自己。
 
@@ -82,7 +70,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 6:** "My mother gave me some money to buy my ticket back and, when my father wasn't looking, pressed some notes into Lina's palms and hurried away. 'Mum,' Lina called out. 'Mum.' She walked after our mother and circled her arms around her from behind. She rested her head lightly on my mother's back and their embrace looked foreign to me, I realised, because it had been many years since I'd seen her do this."
+> **原句 5:** "My mother gave me some money to buy my ticket back and, when my father wasn't looking, pressed some notes into Lina's palms and hurried away. 'Mum,' Lina called out. 'Mum.' She walked after our mother and circled her arms around her from behind. She rested her head lightly on my mother's back and their embrace looked foreign to me, I realised, because it had been many years since I'd seen her do this."
 
 **中文理解**：妈妈给了我买回程票的钱，又趁爸爸不注意，把几张钞票塞进莉娜手心，匆匆走开。「妈，」莉娜喊，「妈。」她跟上去，从背后环抱住母亲。她的头轻轻搁在母亲的背上，而那个拥抱在我看来是陌生的——我这才意识到，我已多年没见过她这样做了。
 
@@ -94,19 +82,19 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 7:** "She chain-smoked three Marlboros while waiting for Chuan to drive us to Johor Bahru, taking drags so long and deep that I could see the tips of the cigarettes burning down and turning to ash. I told her to go slow and she replied, 'It's a long journey, I need to get my puffs in now.'"
+> **原句 6:** "She chain-smoked three Marlboros while waiting for Chuan to drive us to Johor Bahru, taking drags so long and deep that I could see the tips of the cigarettes burning down and turning to ash. I told her to go slow and she replied, 'It's a long journey, I need to get my puffs in now.'"
 
 **中文理解**：等川载我们去新山的工夫里，她一根接一根抽了三支万宝路，每一口都吸得又长又深，我能看见烟头一点点烧成灰烬。我叫她慢一点，她回答：「路途长着呢，我现在得先把烟瘾过足。」
 
 **关键词**：chain-smoked / drags / burning down and turning to ash / get my puffs in
 
-**为什么这样写**：莉娜的告别方式是把身体先一步交出去：烟「烧成灰」的可视细节（「I could see the tips of the cigarettes burning down」）是她生命力的倒计时速写——叙述者注视一支烟，正如上一章他注视川的皮肤：都是无法言说的送别。「get my puffs in now」的轻佻措辞与其说俏皮，不如说是一种预备性饥饿：她预见到前方没有烟、没有这趟旅程里允许的一切松弛，所以要「现在预支」。人物性格在这一句里完成：先行动、后伤感。
+**为什么这样写**：莉娜的告别方式是把身体先一步交出去：烟「烧成灰」的可视细节（「I could see the tips of the cigarettes burning down」）是她生命力的倒计时速写——叙述者注视一支烟，正如第三十二章他注视川的皮肤：都是无法言说的送别。「get my puffs in now」的轻佻措辞与其说俏皮，不如说是一种预备性饥饿：她预见到前方没有烟、没有这趟旅程里允许的一切松弛，所以要「现在预支」。人物性格在这一句里完成：先行动、后伤感。
 
 **读者视角提示**：读者记得莉娜的「gigolo」玩笑与「摄影项目」玩笑——她的全部严肃都以玩笑面世。此处「go slow」的劝阻与她的拒绝，是「我」唯一一次试图让姐姐慢下来，而她会一路快下去，快到一个弟弟追不上的远方。
 
 ---
 
-> **原句 8:** "We tried to guess what was going on in their lives: where they had come from, whether they were trying to escape or to find someone, whether they were in search of adventure or solace, and where they would spend the remainder of their years. We each had our own theories; we couldn't agree on an ending for any of their stories."
+> **原句 7:** "We tried to guess what was going on in their lives: where they had come from, whether they were trying to escape or to find someone, whether they were in search of adventure or solace, and where they would spend the remainder of their years. We each had our own theories; we couldn't agree on an ending for any of their stories."
 
 **中文理解**：我们试着猜他们生活里正发生什么：他们从哪里来，是要逃离还是在寻找什么人，是在寻冒险还是在寻慰藉，以及他们的余生将在哪里度过。我们各有各的推想；对其中任何一个人的故事，我们都无法商定一个结局。
 
@@ -118,7 +106,7 @@ modified: "2026-10-11"
 
 ---
 
-> **原句 9:** "Just before she went up the steps, she gave Chuan a wave. 'Bye, gigolo, have fun,' she said. Then she turned to me and hugged me. 'Goodbye, brother dearest,' she said with exaggerated formality. I thought she was going to say something else but she held me for a few moments and then climbed up and in. We saw her talking to someone, negotiating a change of seats no doubt, before sitting down and sinking out of view."
+> **原句 8:** "Just before she went up the steps, she gave Chuan a wave. 'Bye, gigolo, have fun,' she said. Then she turned to me and hugged me. 'Goodbye, brother dearest,' she said with exaggerated formality. I thought she was going to say something else but she held me for a few moments and then climbed up and in. We saw her talking to someone, negotiating a change of seats no doubt, before sitting down and sinking out of view."
 
 **中文理解**：就在她踏上台阶之前，她朝川挥了挥手。「再见啦，小白脸，玩得开心，」她说。然后她转向我，抱住我。「再见了，最亲爱的哥哥，」她用夸张的庄重说。我以为她还要再说些什么，但她只是抱了我一会儿，便转身登上车去。我们看着她和什么人交谈，无疑是在商量换座位——然后她坐下，沉出我们的视线。
 
@@ -151,7 +139,7 @@ modified: "2026-10-11"
 | ruffle |v. 揉乱（头发）（莉娜的姐姐式动作）|"'Nothing's impossible, mighty brother of mine,' Lina said, reaching forward from the back seat to ruffle my hair." |
 | pressed |v. 塞给、按入（母亲偷偷塞钱）|"My mother gave me some money to buy my ticket back and, when my father wasn't looking, pressed some notes into Lina's palms and hurried away." |
 | discreetly |adv. 不动声色地、悄悄地（父母离去的方式）|"My parents and Yin had left earlier that afternoon, their departure occurring discreetly and without ceremony, as though they were keen not to upset the silence of the house." |
-| circling |v. 环绕（从背后环抱母亲）|"She walked after our mother and circled her arms around her from behind." |
+| circled |v. 环绕（从背后环抱母亲，原文过去式）|"She walked after our mother and circled her arms around her from behind." |
 | anticipation |n. 期待、等待（人群候车的氛围）|"We watched the people gather slowly in anticipation of the coach's departure – a family with five children, their plastic bags bulging with clothes and food" |
 | manoeuvre |n. 转圜、周旋的余地（莉娜的车座哲学）|"I pointed out that her seat was numbered but she told me that these things mattered little – there was always room for manoeuvre once you got on board." |
 | illicit |adj. 不正当的（莉娜为老人旅行编造的爱情故事）|"Much better to sit with the sweet retirees on their way to see their illicit lovers a third their age (that was the story she had invented for them)." |
