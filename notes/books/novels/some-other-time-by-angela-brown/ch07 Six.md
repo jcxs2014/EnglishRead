@@ -77,7 +77,7 @@ status: completed
 **句子结构**：What are you going to do when you go home, Ellie? 是直接问句；Bunny joins her daughter at the table 是主句；Her thinning, dyed-blond hair is brushed back... 是第二个并列句。
 
 **关键词**：
-- **her skin a map of wrinkles and time**：她的皮肤是皱纹与时间的地图；这个比喻把Bunny的皮肤描绘成一张"地图"——它记录了她的人生轨迹；这是Ellie看着妈妈的脸时的感受，也是她对自己衰老的恐惧（"aging hands" from ch06）
+- **her skin a map of wrinkles and time**：她的皮肤是皱纹与时间的地图；这个比喻把Bunny的皮肤描绘成一张"地图"——它记录了她的人生轨迹；这是Ellie看着妈妈的脸时的感受，也是她对自己衰老的恐惧（ch04 里她低头看自己"weirdly, aging"的手）
 
 **为什么这样写**：Bunny的问题"What are you going to do when you go home"不是问Ellie的"计划"，而是问她的"身份"。Bunny在说：你的生活将不再有Jonah，你怎么办？这个问题为全章的"婚姻作为身份"主题做了铺垫。
 
@@ -89,10 +89,10 @@ status: completed
 
 **中文理解**："你回去的时候事情不会一样了。你的生活。房子。一切都会不同。"房间里开始充满了她妈妈最爱的早餐咖啡的香味，与当前的对话形成了安慰性的对比。"我觉得你没有意识到你的婚姻对你的生活产生了多大的影响。"她长长地、慢慢地呼气，像一架手风琴在叹息着一个延长的音符。"没有它，你就不会再是你自己了。"
 
-**句子结构**：Things won't be the same... 是直接引语；Ellie? 是呼语；The room begins to fill... 是主句；a comforting contrast to the current conversation 是名词短语作同位语。
+**句子结构**：Things won't be the same when you go back. 是直接引语；Your life. The house. Everything will be different. 是三个切割式短句的排比；The room begins to fill... 是叙述句作插入；a comforting contrast to the current conversation 是名词短语作同位语；结尾 You won't be you without it. 是 Bunny 的收束断言。
 
 **关键词**：
-- **a map of wrinkles and time**：皱纹与时间的地图；这个比喻在Bunny的脸上刻画了她的人生；Ellie看着妈妈，也在看着自己的未来
+- **how much of an impact your marriage has had on your life**：你的婚姻对你的生活产生了多大的影响；这是 Bunny 把"婚姻"从关系层面拉到"人生层面"的一句
 - **You won't be you without it**：没有它，你就不会再是你自己了；这是Bunny的终极论点——Ellie的婚姻身份是不可分割的；这是全书最直接表述"身份依赖"主题的句子
 
 **为什么这样写**：这是全章的情感高潮。Bunny的"You won't be you without it"是全书主题的另一种表达：婚姻不只是"两个人的关系"，而是"一个人的身份"。Ellie会如何回应这个论点？
@@ -126,7 +126,7 @@ status: completed
 
 **关键词**：
 - **a pair of stylishly outfitted parakeets**：两只穿着时髦的鹦鹉；这个比喻既美丽又令人不安——新婚夫妇像"鹦鹉"一样重复誓言，但鹦鹉并不理解它们在说什么；这正是Ellie当时的处境：她在"背诵"誓言，但不完全理解它的含义
-- **That was when Ellie froze**：那就是Ellie僵住的时刻；这是全章（乃至全书）的核心记忆；Ellie在"Until death do us part"这句话前僵住了——她无法说出它
+- **That was when Ellie froze**：那就是Ellie僵住的时刻；这是全章（乃至全书）的核心记忆；Ellie在牧师念到誓言最后一句时僵住了——她无法完整说出它
 
 **为什么这样写**：这是全章最重要的回忆段落。"鹦鹉"的比喻是作者的精妙之处：年轻的新郎新娘在背诵誓言，但他们不完全理解自己在说什么。这正是Ellie后来的领悟：她当时不理解"终点"的含义，因为她太年轻了。
 
@@ -209,7 +209,7 @@ status: completed
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | nightstand | n. | 床头柜 | Ellie's phone vibrates across the **nightstand**... |
-| alarm | n. | 警报 | ...one more alert from the airline. |
+| alert | n. | 警报；通知 | ...one more **alert** from the airline. |
 | coffee | n. | 咖啡 | The coffee machine hisses and sputters, like a caffeinated dragon. |
 | mug | n. | 杯子 | She pulls two **mugs** down from the cabinet. |
 | vow | n. | 誓言 | ..."You two made a **vow** to each other, Ellie," Bunny recounts. |

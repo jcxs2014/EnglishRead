@@ -68,7 +68,7 @@ status: completed
 - **With that cute guy**：和那个帅气的男生；这是Gabby对Jack的描述——她认为Jack是"帅气的"，而Ellie认为他是一个"会离开的人"
 - **the day you and Jack broke up**：你和Jack分手的那天；这个细节是全章最重要的"揭示"：Ellie和Jack分手那天发生了一次车祸
 
-**为什么这样写**：这是全章最有"巧合感"的场景。Elm和South的路口是Ellie和Jonah第一次相遇的地方（ch13）；而Jack和Ellie分手那天也发生了一次车祸。这两次车祸的"地点"是一样的——但它们发生在不同的时间。这种"重复"是Angela Brown的写作风格：同一个地点，两次车祸，两个不同的故事。
+**为什么这样写**：这是全章最有"巧合感"的场景。Ellie在书店告诉Gabby，这次是在"Elm和South"的路口出的车祸；而ch13里，同样是在这个"他们第一次相遇的那个路口"，她又一次撞上了Jonah。同一个路口，两次车祸，两个不同的故事——这种"重复"是Angela Brown的写法。（原文未点名Jack与Ellie分手时的地点。）
 
 ---
 

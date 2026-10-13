@@ -8,7 +8,7 @@ status: completed
 
 # Twenty-Eight
 
-> 又是深夜。Ellie开车满城找Jonah，方向灯"Click, click, click."，但"The traffic lights keep blinking red, but Ellie doesn't halt or yield"。她转回Elm and South那个路口——"This place, this four-way stop that points in every direction and yet more than once has managed to point them right to one another"。然后：Jonah在人行横道上。"It only takes one second—one small choice—to know she's made a terrible mistake." 她的头撞上方向盘。十二段闪回给出两人二十年的全部画面，末一段停在"Jonah, the red traffic light blinking. Her foot pressing the gas. And then . . ."。救护车上她尖叫"He wasn't supposed to be there!"、呢喃"This isn't real. None of this is real."
+> 又是深夜。Ellie开车满城找Jonah，方向灯"Click, click, click."，但"The traffic lights keep blinking red, but Ellie doesn't halt or yield"。她转回Elm and South那个路口——"This place, this four-way stop that points in every direction and yet more than once has managed to point them right to one another"。然后：Jonah在人行横道上。"It only takes one second—one small choice—to know she's made a terrible mistake." 她的头撞上方向盘。十七段闪回给出两人二十年的全部画面，末一段停在"Jonah, the red traffic light blinking. Her foot pressing the gas. And then . . ."。救护车上她尖叫"He wasn't supposed to be there!"、呢喃"This isn't real," she whispers, like a prayer. Or like a wish. "None of this is real."
 
 ## 本章导航
 
@@ -20,7 +20,7 @@ status: completed
 - **"Red. Red. A heartbeat."**：心跳的视觉化——她转了一圈又一圈
 - **一秒**："It only takes one second—one small choice—to know she's made a terrible mistake."
 - **撞击**："The car makes contact. Her head slams against the steering wheel."——然后三个"Jonah,"定格
-- **二十年闪回**：十二个 "Jonah," 排比段，从行李转盘、婚礼、换洗衣服一路退回红灯——末句"And then . . ."
+- **二十年闪回**：十七个 "Jonah," 排比段，从行李转盘、婚礼、换洗衣服一路退回红灯——末句"And then . . ."
 - **"This isn't real."**：的呢喃——本章最真、也唯一无用的一句
 - **EMT的对讲**："Please prepare for trauma arrival."／"We're almost there."——冷到极点的收尾
 
@@ -283,11 +283,11 @@ status: completed
 
 ### 一句话概括
 
-深夜Ellie第二次满城找Jonah，方向灯与红灯在空城交替；她转到Elm and South的路口（"managed to point them right to one another"），转角处与在人行横道上的Jonah相撞——"It only takes one second—one small choice—to know she's made a terrible mistake." 十二段闪回给出两人二十年，末句停在"Jonah, the red traffic light blinking. Her foot pressing the gas. And then . . ."。救护车上她尖叫"He wasn't supposed to be there!"、呢喃"This isn't real."
+深夜Ellie第二次满城找Jonah，方向灯与红灯在空城交替；她转到Elm and South的路口（"managed to point them right to one another"），转角处与在人行横道上的Jonah相撞——"It only takes one second—one small choice—to know she's made a terrible mistake." 十七段闪回给出两人二十年，末句停在"Jonah, the red traffic light blinking. Her foot pressing the gas. And then . . ."。救护车上她尖叫"He wasn't supposed to be there!"、呢喃"This isn't real."
 
 ### 一句话总结
 
-本章是**全书的原点与枢纽**：它把此前二十八章、所有"另一个世界"的错位，一次性收束成一次碰撞。开篇那个"No."——不，本不该这样，是红灯与一个习惯性的转弯注定的。闪回里的十二个"Jonah,"全是现在分词，没有一个完成时，二十年被写成**一组尚未结束的快照**。而结尾EMT那句"We're almost there"，既是救护车的例行公事，也是Ellie此刻唯一听得到的话。
+本章是**全书的原点与枢纽**：它把此前二十八章、所有"另一个世界"的错位，一次性收束成一次碰撞。开篇那个"No."——不，本不该这样，是红灯与一个习惯性的转弯注定的。闪回里的十七个"Jonah,"全是现在分词，没有一个完成时，二十年被写成**一组尚未结束的快照**。而结尾EMT那句"We're almost there"，既是救护车的例行公事，也是Ellie此刻唯一听得到的话。
 
 ### 读者视角提示
 

@@ -8,7 +8,7 @@ status: completed
 
 # Thirty-Three
 
-> Ellie和Jonah降落在Florida。他们在机场相遇Maggie——家庭团聚。他们看到Frank拿着"The Baker Family"的牌子在外面等着。Ellie意识到Jonah不记得"另一个世界"——"This chapter, she understands, is closed."
+> Ellie和Jonah降落在Florida，与来接机的Maggie在机场团聚。行李提取处旁，一位穿皱衬衫、举着"The Baker Family"牌子的司机在等他们——书里始终没有点名他是谁。Ellie试探Jonah是否记得"另一个世界"，得到的回答是"Remember what?"——"This chapter, she understands, is closed."
 
 ## 本章导航
 
@@ -102,10 +102,10 @@ status: completed
 
 **关键词**：
 - **The Baker Family**：Baker家族；这是全章最重要的话：他们是Baker家族——一个完整的家庭
-- **the slightly wrinkled dress shirt, the loose slacks**：略微皱巴巴的正装衬衫，宽松的长裤；这是Frank的"外貌"：他是一个"普通的"父亲
-- **his sign**：他的牌子；这是Angela Brown的"象征"：Frank拿着牌子等他们——他在"接"他们回家
+- **the slightly wrinkled dress shirt, the loose slacks**：略微皱巴巴的正装衬衫，宽松的长裤；这个反复出现的装束是接机司机的"外貌"记号：一个"普通的"、公事公办的中年男人
+- **his sign**：他的牌子；这是Angela Brown的"象征"：司机举着"The Baker Family"的牌子等他们——有人在外面等着"接"他们回家
 
-**为什么这样写**：这是全章最有"归属感"的结尾。"The Baker Family"是Angela Brown的"家庭"主题：他们是一个家庭。"Right now, this moment feels like their real destination... it is the only place where they've hoped to arrive."是全章最重要的话：他们的"真正目的地"是彼此。
+**为什么这样写**：这是全章最有"归属感"的结尾。"The Baker Family"是Angela Brown的"家庭"主题：他们是一个家庭。"Right now, this moment feels like their real destination." … "it is the only place where they've hoped to arrive."是全章最重要的话：他们的"真正目的地"是彼此。
 
 ---
 
@@ -113,7 +113,7 @@ status: completed
 
 ### 一句话概括
 
-Ellie和Jonah降落在Florida，在机场找到Maggie，然后看到Frank拿着"The Baker Family"的牌子——他们是Baker家族，他们在一起。
+Ellie和Jonah降落在Florida，在机场与Maggie团聚，行李提取处旁一位举着"The Baker Family"牌子的司机在等他们——他们是Baker家族，他们在一起。
 
 ### 一句话总结
 

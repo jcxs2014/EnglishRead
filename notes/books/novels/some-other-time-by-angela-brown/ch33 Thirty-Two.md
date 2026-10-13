@@ -8,7 +8,7 @@ status: completed
 
 # Thirty-Two
 
-> Ellie和Jonah在机场准备登机去Florida。Bunny还在医院，Frank、Maggie和Ellie必须决定是否继续他们的计划。Ellie在机场洗手间发现她的手机还在——这是"另一个世界"的痕迹。她决定继续旅行，因为她必须相信她的人生。Ellie和Jonah登上飞机。
+> Ellie和Jonah在Newark机场准备登机去Florida。Bunny还在医院，但他们仍按原计划出发。值机时Ellie发现自己的手机不见了，只好改办纸质登机牌；在洗手间里，一位陌生母亲把手机还给了她——手机竟然还在，而且仍开着机。她点开与Maggie和Bunny的通讯记录，发现那些对话还没有发生：这是"另一个世界"的痕迹。她决定继续旅行，因为她必须相信她的人生。两人最终登上飞往Orlando的航班。
 
 ## 本章导航
 

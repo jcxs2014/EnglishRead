@@ -8,7 +8,7 @@ status: completed
 
 # Twenty-Six
 
-> Ellie和Jonah回到家。他们吵架——Jonah问她关于Jack的事，Ellie说她不知道什么是真的。"I want to go back to the start," Ellie说，但Jonah说"You can't go back"。Jonah离开前说"You're the one who needs to make a choice and decide how this story ends"。Frank突然出现在门口——他们的航班被取消了四次，Bunny生病了，现在在医院。
+> Ellie和Jonah回到家。他们吵架——Jonah问她关于Jack的事，Ellie说她不知道什么是真的。"I want to go back," she whispers. "I want to go back to the start."，但Jonah说"But you can't, Ellie. And neither can I."。Jonah离开前说"You're the one who needs to make a choice and decide how this story ends."。随后Frank突然出现在门口——他们一家人的航班被航空公司改了四次，Bunny生病了，现在在医院。
 
 ## 本章导航
 

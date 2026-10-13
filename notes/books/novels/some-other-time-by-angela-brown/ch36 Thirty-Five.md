@@ -8,7 +8,7 @@ status: completed
 
 # Thirty-Five
 
-> Saturday——全家人一起去Florida度假。他们在一起，没有"分裂"的消息。Shelia带着奶油泡芙来访——她失去了儿子Johnnie（Jack）。Ellie得知Jack去年去世了——另一个司机闯红灯。这是一个悲伤但也是"和解"的时刻：Jack在"另一个世界"里救了Bunny，然后他自己的命运却如此悲剧。
+> Saturday——全家人一起去Florida度假。他们在一起，没有"分裂"的消息。Shelia带着奶油泡芙来访，提到"我的Johnnie"。Ellie追问她儿子是否行医，才得知"Johnnie"就是Jack，而他在去年因另一个司机闯红灯的车祸去世了——在"另一个世界"里，正是这位医生在Bunny住院时看顾过她。这是一个悲伤但也是"和解"的时刻：Ellie由此确认自己的选择真的改写了别人的命运。
 
 ## 本章导航
 
@@ -109,7 +109,7 @@ status: completed
 
 ### 一句话概括
 
-Ellie在Florida遇到了Shelia，得知Jack去年去世了——另一个司机闯红灯。这是一个悲伤但也是"和解"的时刻：Jack在"另一个世界"里救了Bunny，但他的命运却是如此悲剧。
+Ellie在Florida遇到了Shelia，得知Jack去年去世了——另一个司机闯红灯。这是一个悲伤但也是"和解"的时刻：在"另一个世界"里Jack是看顾Bunny的医生，而在真实世界里，正是他为这个女孩（作者）改写了命运。
 
 ### 一句话总结
 

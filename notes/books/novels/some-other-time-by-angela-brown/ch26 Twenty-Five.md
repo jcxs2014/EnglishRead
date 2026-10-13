@@ -13,7 +13,7 @@ status: completed
 ## 本章导航
 
 - **Magnolia**：Ellie带Jonah看她创建的书店——"You made this"，Jonah说
-- **Gabby的介绍**：Ellie向Gabby介绍Jonah——"他是我丈夫"
+- **Gabby的介绍**：Gabby追问两人怎么认识的，**Jonah**作答——"I'm her husband," he states.（他是我丈夫）
 - **小女孩**：一个看起来像Maggie的小女孩走进书店——触发Ellie的记忆
 - **"我女儿最爱的书"**：Ellie的失误——她暴露了她有女儿
 - **Jack的出现**：Jack带着花束出现——他们是来约会的
@@ -66,7 +66,7 @@ status: completed
 - **I want to know if she stays married**：我想知道她有没有保持婚姻；这是全章最重要的话：灰姑娘的婚姻问题——这是Ellie自己的问题
 - **Cinderella**：灰姑娘；这是Angela Brown的"童话"隐喻：Ellie的人生就像一个童话故事，但她不知道结局
 
-**为什么这样写**：这是全章最有"哲学感"的时刻。女孩的问题既是"童稚的"，也是"深刻的"——灰姑娘有没有保持婚姻？这是Ellie必须回答的问题。"Is she stays married"是Angela Brown的"婚姻"主题：婚姻是一个选择，不是一个结局。
+**为什么这样写**：这是全章最有"哲学感"的时刻。女孩的问题既是"童稚的"，也是"深刻的"——灰姑娘有没有保持婚姻？这是Ellie必须回答的问题。"I want to know if she stays married."是Angela Brown的"婚姻"主题：婚姻是一个选择，不是一个结局。
 
 ---
 
@@ -147,10 +147,10 @@ status: completed
 
 **关键词**：
 - **the timing is off**：时机总是不对；这是全章最重要的话：对于Jack和Kristin来说，时机不对（他在错误的时间爱上别人）
-- **finally, it's exactly right**：终于，时机刚刚好；这是全章最重要的话：对于Ellie和Jonah来说，时机终于对了
+- **finally, it's exactly right**：终于，时机刚刚好；这句叙述紧接在Jonah说出"Kristin"之后，指的是**别人**（Jack与Kristin）的时机，与Ellie和Jonah此刻的崩解形成反讽
 - **In any given moment**：在任何特定时刻；这是Angela Brown的"时机"主题：人生就是时机的问题
 
-**为什么这样写**：这是全章最有"总结感"的结尾。这句话总结了全书的"时机"主题：Ellie和Jonah的时机终于对了——他们找到了彼此。"the timing is off"和"it's exactly right"是Angela Brown的对比：对于不同的人来说，时机是不同的。
+**为什么这样写**：这是全章最有"反讽感"的结尾。Ellie刚在心里认定"对于某些人，时机终于对了"，Jonah就说出了Kristin——那个"时机终于对了"的人是别人，不是他们。这种把叙述句放在刀口上的写法，是Angela Brown式的残忍：Ellie在这一刻同时看见了另一种人生和自己这一种。
 
 ---
 
@@ -162,11 +162,11 @@ Ellie带Jonah去她的书店Magnolia，在那里她不小心暴露了她有女�
 
 ### 一句话总结
 
-本章是全书最有"时机"感的章节之一。"In any given moment, for some people, the timing is off. And for others, finally, it's exactly right."是Angela Brown对"时机"的理解：对于Jack和Kristin来说，时机终于对了；对于Ellie和Jonah来说，时机也终于对了——但对于Ellie的"另一个自我"来说，时机是不对的。
+本章是全书最有"时机"感的章节之一。"In any given moment, for some people, the timing is off. And for others, finally, it's exactly right."是Angela Brown对"时机"的理解：在"另一个世界"里，Jack和Kristin的时机对了；而在真实世界里，Ellie和Jonah的时机恰恰在这一刻崩塌——他们当面确认了彼此的错位。
 
 ### 读者视角提示
 
-注意本章的"时机"主题：全书的时机终于对齐了——Ellie和Jonah找到了彼此，Jack和Kristin也找到了彼此。带着这个问题读下去：Ellie会如何处理"两个世界"之间的选择？
+注意本章的"时机"主题：那句"finally, it's exactly right"紧跟在 Jonah 说出 Kristin 之后，指的是**别人**——本章收束在 Ellie 和 Jonah 当面确认彼此错位的那一刻，而不是团圆。
 
 ---
 

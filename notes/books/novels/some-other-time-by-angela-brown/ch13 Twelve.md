@@ -28,7 +28,7 @@ status: completed
 
 **中文理解**：实际上是在赛车。或者，至少是以一种不规律的方式驾驶她的白色中型沃尔沃SUV（实用、经典、安全）穿过她小镇安静的街道——足以让那位佛罗里达司机（一天前刚把她家人送到机场）感到无比自豪。她目光所及之处尽是倒下的树、断落的电线、散落的树枝——一百个小障碍。她不在乎。自从几分钟前她离开家、与父母告别、和电力公司的人简短交谈后（"至少还要几天，女士"），她就以特技车手的速度在这条限速二十五英里的道路上飞驰。她根本不可能减速。
 
-**句子结构**：Racing, actually 是主语；she's been speeding down the twenty-five-mph roadway like a stunt driver 是主句；Everywhere she looks are fallen trees 是倒装句。
+**句子结构**：Racing, actually 是省略句片段（回应上一句的问话，补全应为 I was racing / She is racing），不是主语；she's been speeding down the twenty-five-mph roadway like a stunt driver 是主句；Everywhere she looks are fallen trees 是倒装句。
 
 **关键词**：
 - **practical, classic, safe**：实用、经典、安全；括号里的三个词是Ellie的车的特点——但现在她正在"不规律地"驾驶它；讽刺
@@ -41,9 +41,9 @@ status: completed
 
 ### ②
 
-> She turns back toward her driver's side window. When she does, Ellie squints, like her glasses are smudged. She removes them—a double take—then buzzes down the window. She huffs loudly, emitting a puff of hot, angry air. Probably terrible for the environment. "You've got to be kidding me," she says. "I'm so—I'm so sorry!" Jonah stands at Ellie's driver's side window, looking like a severely disheveled version of himself. His typically styled hair is rumpled, several unkempt strands dangling like too-short curtains above his eyebrows.
+> She turns back toward her driver's side window. When she does, Ellie squints, like her glasses are smudged. She removes them—a double take—then buzzes down the window. She huffs loudly, emitting a puff of hot, angry air. Probably terrible for the environment. "You've got to be kidding me," she says. "I'm so—I'm so sorry!" Jonah stands at Ellie's driver's side window, looking like a severely disheveled version of himself. His typically styled hair is rumpled, several unkempt strands dangling like too-short curtains above his eyebrows. His usual weekday office wear—a baby-blue button-down, maybe one of those silly bubble vests if it’s chilly—has been swapped with a wrinkled white T-shirt, which Ellie notes may actually be an undershirt.
 
-**中文理解**：她转向驾驶座车窗。当她这样做的时候，Ellie眯起眼睛，就像她的眼镜模糊了一样。她摘下眼镜——再看了一眼——然后把车窗摇下来。她大声喷出一口热气，呼出热腾腾的怒气。可能对环境很不好。"你一定是在开玩笑吧，"她说。"我很抱歉——我很抱歉！"Jonah站在Ellie的驾驶座车窗旁，看起来像一个严重邋遢版本的他。他通常精心打理的发型现在乱糟糟的，几缕不整齐的发丝像太短的窗帘一样悬在眉毛上方。
+**中文理解**：她转向驾驶座车窗。当她这样做的时候，Ellie眯起眼睛，就像她的眼镜模糊了一样。她摘下眼镜——再看了一眼——然后把车窗摇下来。她大声喷出一口热气，呼出热腾腾的怒气。可能对环境很不好。"你一定是在开玩笑吧，"她说。"我很抱歉——我很抱歉！"Jonah站在Ellie的驾驶座车窗旁，看起来像一个严重邋遢版本的他。他通常精心打理的发型现在乱糟糟的，几缕不整齐的发丝像太短的窗帘一样悬在眉毛上方。他平日上班穿的西装衬衫（天冷时也许还有那件傻气的羽绒马甲）换成了一件皱巴巴的白T恤——Ellie注意到，那其实可能是一件内衣。
 
 **句子结构**：She turns back toward her driver's side window 是主句；Ellie squints 是并列句；she huffs loudly 是并列句；"You've got to be kidding me" 是直接引语。
 
@@ -52,7 +52,7 @@ status: completed
 - **a severely disheveled version of himself**：严重邋遢版本的他；这是Ellie对Jonah的描述——他们同一天都"崩溃"了
 - **like too-short curtains above his eyebrows**：像太短的窗帘悬在眉毛上方；比喻把他的头发写成"窗帘"——这是Ellie的职业视角（书店/文学）
 
-**为什么这样写**：这是全书最有冲击力的"相遇"场景。两个人在同一天都"崩溃"了——Ellie穿着"两天穿的T恤"，Jonah穿着"可能是内衣的白T恤"。"You've got to be kidding me"和"I'm so—I'm so sorry!"的对比是幽默的：Ellie在生气，Jonah在道歉。
+**为什么这样写**：这是全书最有冲击力的"相遇"场景。两个人在同一天都"崩溃"了——Ellie穿的是两天没换的T恤（ch11 `her twice-worn T-shirt`），Jonah平日上班的衬衫换成了一件皱巴巴的白T恤，"which Ellie notes may actually be an undershirt"。"You've got to be kidding me"和"I'm so—I'm so sorry!"的对比是幽默的：Ellie在生气，Jonah在道歉。
 
 ---
 
@@ -99,7 +99,7 @@ status: completed
 **句子结构**："I just—I feel like I know you from somewhere" 是直接引语；Tick, tick 是拟声词；"Have we—have we met?" 是直接引语；Ka-boom 是拟声词。
 
 **关键词**：
-- **Tick, tick, tick**：滴答，滴答，滴答；这个细节是Ellie的"内心时钟"——她在等待炸弹落下
+- **Tick, tick**：滴答，滴答；这个细节是Ellie的"内心时钟"——她在等待炸弹落下（本章同一场戏里另有一处三响的"Tick. Tick. Tick."）
 - **Ka-boom**：轰；这是全章的结尾——用一个拟声词来表示"炸弹落下"的感觉
 - **"I feel like I know you from somewhere"**：我有一种感觉，好像我在某个地方见过你；这是全章最重要的台词——Jonah不记得Ellie了
 
@@ -142,7 +142,6 @@ Ellie在风暴后的街道上飞驰时，被追尾了——撞她的人竟然是
 | blinker | n. | 转向灯 | The quiet music still **thrumming**, she flicks on the car's **blinker**... |
 | disheveled | adj. | 邋遢的，蓬乱的 | ...looking like a severely **disheveled** version of himself. |
 | personal day | n. | （请假）私人假 | ...he's decided on a **personal day**, too. |
-| personal day | n. | 个人日 | ...he's decided on a **personal day**, too. |
 
 ### ⭐ 基础
 

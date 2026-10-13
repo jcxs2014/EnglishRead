@@ -15,7 +15,7 @@ status: completed
 - **机场混乱**：风暴导致航班延误/取消，Ellie盯着 departures board
 - **夫妻争吵模式回归**：Jonah的态度从佛罗里达的温情急转直下，变得尖刻
 - **Maggie的宣言**："Come hell or high water, I'm getting back there tonight"
-- **母女回忆插叙**：Maggie离家前的争吵——"你想要逃离的是我"
+- **母女回忆插叙**：Maggie离家前的争吵——Ellie当时没说出口的念头"Or is it because you just want to get away from me?"（她"didn't mention"这句，只在心里反复唱了很久）
 - **当众宣布离婚**：Maggie在安检队伍中对警官喊出"我父母要离婚了"
 - **Jonah的恐慌症**：婚姻20年来从未发作过——这是全章最大的转折
 - **单轨站台分别**：Maggie独自上车，Ellie目送到火车消失
@@ -50,7 +50,7 @@ status: completed
 - **hard-to-place edge**：难以定位的尖刻；这个词组很精确——Ellie能感觉到Jonah的变化，但她无法把它归类；这是一种新的、陌生的敌意
 - **the emotional, sentimental nature he wore this morning**：他今早那种充满感情、伤感的本性；"wore"这个动词很关键——Jonah在佛罗里达表现出的情感不是自然的，而是"穿戴"出来的
 
-**为什么这样写**：这是Jonah角色弧光的关键时刻。他今早在佛罗里达海滩上表现出的温柔和敞开（"I don't want to go back to the way things were"）在回到"现实"后立即消失了。这种转变揭示了：佛罗里达的"例外"状态已经结束，正常的婚姻模式重新接管。
+**为什么这样写**：这是Jonah角色弧光的关键时刻。他今早在佛罗里达流露过的温柔——ch07 那一段：他在沙发上睡着，Ellie 走过时"adjusts his blanket for him, too. Some habits—despite the situation—feel impossible to break."——在回到"现实"后立即消失了。这种转变揭示了：佛罗里达的"例外"状态已经结束，正常的婚姻模式重新接管。
 
 ---
 
@@ -173,7 +173,7 @@ status: completed
 
 ### 一句话概括
 
-在机场安检排队的混乱中，Ellie在"航班延误→夫妻争吵升级→Maggie当众宣布离婚→Jonah恐慌症发作→单轨站台告别"这一系列事件中，见证了婚姻危机如何波及每一个家庭成员——而Maggie的那句"我想我只是不想说再见"揭示了整个周末的真相。
+在机场安检排队的混乱中，Ellie在"航班延误→夫妻争吵升级→Maggie当众宣布离婚→Jonah恐慌症发作→单轨站台告别"这一系列事件中，见证了婚姻危机如何波及每一个家庭成员——而Maggie那句"I guess I'll see you guys later"背后Ellie读出的"不想说再见"，揭示了整个周末的真相。
 
 ### 一句话总结
 

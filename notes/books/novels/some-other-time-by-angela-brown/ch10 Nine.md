@@ -24,9 +24,9 @@ status: completed
 
 ### ①
 
-> Thank God, Ellie thinks, rubbing her feet across the sheets and noticing for the first time in ages that her back does not ache. After a night of repose and one of those magical little pills, she can actually move somewhat fluidly. With the bed linens embracing her like soft, generous clouds, Ellie releases a long, deep yawn and stretches with all the intensity of a newborn learning to use her body for the first time.
+> Thank God, Ellie thinks, rubbing her feet across the sheets and noticing for the first time in ages that her back does not ache. After a night of repose and one of those magical little pills, she can actually move somewhat fluidly. With the bed linens embracing her like soft, generous clouds, Ellie releases a long, deep yawn and stretches with all the intensity of a newborn learning to use her body for the first time. It’s been forever since she’s slept this way. Fairy-tale sleep, as she’s sometimes called it—when you wake up feeling like Aurora or Rip Van Winkle, as if you’ve been lost in slumber for one hundred years and slipped off into another dimension.
 
-**中文理解**：感谢上帝，Ellie想，用脚摩擦床单，第一次在很长时间里注意到她的后背不再疼痛。经过一夜的休息和一颗那种神奇的小药片后，她真的能够相当流畅地活动了。床单像柔软、慷慨的云朵一样拥抱着她，Ellie发出了一声悠长、深沉的哈欠，像一个第一次学着使用身体的新生儿一样用力地伸了个懒腰。
+**中文理解**：感谢上帝，Ellie想，用脚摩擦床单，第一次在很长时间里注意到她的后背不再疼痛。经过一夜的休息和一颗那种神奇的小药片后，她真的能够相当流畅地活动了。床单像柔软、慷慨的云朵一样拥抱着她，Ellie发出了一声悠长、深沉的哈欠，像一个第一次学着使用身体的新生儿一样用力地伸了个懒腰。她已经很久没有这样睡过了。童话般的睡眠——她自己有时这么叫它——醒来时觉得自己像睡美人或瑞普·凡·温克尔，仿佛在沉睡中迷失了一百年，滑进了另一个维度。
 
 **句子结构**：Thank God, Ellie thinks 是主句；rubbing her feet across the sheets 是现在分词短语；noticing for the first time in ages that her back does not ache 是现在分词短语作伴随状语；After... 是时间状语。
 
@@ -48,9 +48,9 @@ status: completed
 
 **关键词**：
 - **some athlete's memoir**：某个运动员的回忆录；这个细节暗示了Jonah的性格——他读的是"体育"，而不是"文学"；这也暗示了两人之间的差异
-- **a new storage unit across town**：城镇另一端他新租的储物单元；"across town"暗示了距离——Jonah不只是"离开"，他去了"另一端"
+- **his new storage unit across town**：城镇另一端他新租的储物单元；"across town"暗示了距离——Jonah不只是"离开"，他去了"另一端"
 
-**为什么这样写**：这段是全章最悲伤的细节之一。Ellie不需要去看——她已经"知道"了。Jonah的离开不是"还没发生"——它已经发生了。床头柜上的空白是一个"看得见的空洞"。
+**为什么这样写**：这段是全章最悲伤的细节之一。Ellie不需要去看——她已经"知道"了。Jonah的离开不是"还没发生"——它已经发生了。床头柜上的空白是一个"看不见的空洞"（`an invisible void`）——不是一件家具不见了，是一块空间被标出来了。
 
 ---
 
@@ -96,7 +96,7 @@ status: completed
 **句子结构**：The digital clock is the subject; stubbornly blinks the incorrect numbers 是谓语；disrupted by the storm 是过去分词短语作定语；11:11 是数字时钟的内容。
 
 **关键词**：
-- **11:11**：这是全书中第二次出现11:11——第一次是Ellie在机场行李提取处许愿；现在时钟"固执地闪烁"这个数字，暗示着Ellie的许愿"实现了"（但以一种荒诞的方式）
+- **11:11**：11:11 这个数字在全书反复出现（ch02 机场、ch04 Bunny 的"天使数字"习惯、ch09 行李提取处、ch12、ch32）；此刻时钟"固执地闪烁"它，暗示着Ellie的许愿"实现了"（但以一种荒诞的方式）
 - **stubbornly blinks**：固执地闪烁；这个"固执"是Bunny式的词汇——她也是一个"固执"的人
 
 **为什么这样写**：11:11的重复是一个"诗意的回响"。Ellie在机场许了一个她不知道内容的愿望，而当她回到家时，时钟正在闪烁11:11。这个细节暗示：她的愿望"实现"了，但以一种她无法理解的方式。Bunny搬进来——这不是Ellie想要的"新生活"。

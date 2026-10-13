@@ -15,7 +15,7 @@ status: completed
 - **家庭的表演**：全家人在餐厅里各自压抑真实情感——Jonah假装一切正常，Maggie素食主义与政治正确，Ellie沉默不语
 - **Maggie的"我不想变成你"**：在Middlebury探校之旅的回忆中，Maggie当面暗示她不想像Ellie一样留在家附近
 - **Bunny的"接管圣诞节"**：Bunny宣布要在佛罗里达主办圣诞节，拒绝接受离婚现实
-- **长椅上的疑问**："Are we really getting divorced?"——Ellie和Jonah在未得到答案之前被打断
+- **长椅上的疑问**："Are we making a mistake, Jo?"——Ellie和Jonah在未得到答案之前被Bunny的汽车喇叭打断
 - **全章核心主题**：婚姻的"选择 vs. 命运"——Ellie意识到"相遇是意外，婚姻也是选择"
 
 ## 精读
@@ -47,7 +47,7 @@ status: completed
 
 **关键词**：
 - **comfortable**：这个词在全章反复出现——Bunny问"大家都舒服吗"，但Ellie的内心回答是"No"；这个修辞手法叫"反讽"（irony）：表面的礼貌询问掩盖了真实的不适
-- **back the car out**：Bunny开车——在ch02里是Jonah开车；这里家庭角色的微妙转换暗示了父母在这次旅行中的主导地位
+- **back the car out**：Bunny开车——抵达佛州那一段是雇佣司机送的（ch03）；这里由 Bunny 掌方向盘，家庭角色的微妙转换暗示了父母在这次旅行中的主导地位
 
 **为什么这样写**：这个看似简单的句子设置了全章的情感背景——全家人都在假装正常（假装舒适），但没有人真正舒服。这是"家庭表演"（family performance）主题的第一次出现：他们不是真的团结，而是表演团结。
 
@@ -98,7 +98,7 @@ status: completed
 - **cut herself off**：cut off = 打断自己的话；Maggie在说"I don't want to end up like—"时停下来——她意识到自己在说什么，但已经说了一半
 - **the unspoken word**：Maggie没说"You"，但Ellie"听到了"；这是全章最残忍的一刻：Maggie不想变成Ellie，Ellie知道
 
-**为什么这样写**：这个三句话的段落是全书的情感核心之一。作者用"Maggie cut herself off"（打断自己）来表达Maggie的自我意识——她意识到自己说的话有多伤人；但同时用"Ellie had already heard"来表达Ellie的敏锐——即使没说出口，她已经听到了。这种"未说出的伤害"比"说出的伤害"更令人难以承受。
+**为什么这样写**：这个三句话的段落是全书的情感核心之一。作者用"Maggie quickly cut herself off"（打断自己）来表达Maggie的自我意识——她意识到自己说的话有多伤人；但同时用"Ellie had already heard"来表达Ellie的敏锐——即使没说出口，她已经听到了。这种"未说出的伤害"比"说出的伤害"更令人难以承受。
 
 ---
 
@@ -130,7 +130,7 @@ status: completed
 - **marital vernacular**：婚姻词汇；vernacular = 口语；Ellie和Jonah用了几个月的"离婚"这个词——这个词从最初的陌生（讨论对象）变成了日常词汇（vernacular）
 - **wish she hadn't been the first one**：Ellie后悔自己先提出离婚——这揭示了一个深层矛盾：她提出离婚，但她不想承担"第一个说出口"的责任
 
-**为什么这样写**：这段是全章的第二个情感核心。"Are we really getting divorced?"——这个问题没有答案，因为Bunny在此时按了汽车喇叭，打断了他们。这个未完成的时刻是全书"选择 vs. 命运"主题的关键：Ellie提出离婚，但她不确定这是不是一个"错误的选择"。
+**为什么这样写**：这段是全章的第二个情感核心。"Are we making a mistake, Jo?"——这个问题没有答案，因为Bunny在此时按了汽车喇叭，打断了他们。这个未完成的时刻是全书"选择 vs. 命运"主题的关键：Ellie提出离婚，但她不确定这是不是一个"错误的选择"。
 
 ---
 
@@ -163,7 +163,7 @@ status: completed
 
 ### 读者视角提示
 
-注意本书的"未解问题"手法：Maggie没说完的"像你"、Ellie没得到答案的"Are we really getting divorced?"、以及"Bunny's Horn"的打断——这些"未完成"的时刻比"已解答"的时刻更有力量。带着这个问题读下去："他们相遇是意外，婚姻是选择——那么离婚呢？"
+注意本书的"未解问题"手法：Maggie没说完的"像你"、Ellie没得到答案的"Are we making a mistake, Jo?"、以及"Bunny's Horn"的打断——这些"未完成"的时刻比"已解答"的时刻更有力量。带着这个问题读下去："他们相遇是意外，婚姻是选择——那么离婚呢？"
 
 ---
 

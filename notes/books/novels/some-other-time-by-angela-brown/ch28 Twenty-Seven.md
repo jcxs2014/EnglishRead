@@ -12,7 +12,7 @@ status: completed
 
 ## 本章导航
 
-- **病毒与高烧**：不是中风——是病毒引起的高烧，退不下来；Ellie在"uncomfortable hospital chair"里守着
+- **病毒与高烧**：病毒引起的高烧，退不下来；Ellie在"uncomfortable hospital chair"里守着
 - **Frank的安慰**："Who’s to say where one choice ends and another one starts?"——责任无法被划清
 - **探视时间结束**："There’s only supposed to be one guest per room overnight in this wing."——护士让Ellie回去休息
 - **空城与停电**：镇上无人，方向灯"blink red"，家里的发电机"The generator has exhaled its last, tired sigh"——断电，Jonah不在
@@ -230,13 +230,13 @@ status: completed
 
 > The town is empty. Ellie knows this because she’s driven all around it—past the bookstore and the coffee shop and around those familiar streets—at least a dozen times.
 
-**中文理解**：小镇是空的。Ellie知道这一点，因为她已经开着车绕着它转了至少一整圈——经过书店、经过咖啡店、经过那些熟悉的街道。
+**中文理解**：小镇是空的。Ellie知道这一点，因为她已经开着车绕遍了它——经过书店、经过咖啡店、经过那些熟悉的街道。
 
 **句子结构**：The town is empty 是判断句；Ellie knows this because… 是原因状语从句；破折号内 past the bookstore and the coffee shop and around those familiar streets 是并列地点状语。
 
 **关键词**：
 - **The town is empty**：小镇是空的；这是场景切换后的第一句：白天的喧闹全部撤走
-- **at least a dozen times**：至少一整圈（十二次）；这是搜索的**量化**：不是"很多次"而是"一打"
+- **at least a dozen times**：至少十几个来回；这是搜索的**量化**：不是"很多次"而是"一打"
 - **the bookstore and the coffee shop**：书店和咖啡店；这是她与Jonah的坐标点：现在只剩下路牌
 
 **为什么这样写**：这一章的分场点在这里。医院段落结束，Ellie 回到镇上；地点用**过去的关系**标定——书店与咖啡店此刻无人，标记的是"Jonah 不在了"。
@@ -338,7 +338,7 @@ status: completed
 
 **关键词**：
 - **reading her mind**：看穿了她的心思；这是给护士的**超常能力**：她读出了Ellie还没说出口的犹豫
-- **alone time**：独处的时间；这是本章要回收的伏笔词：十五年后的"alone again"
+- **alone time**：独处的时间；这是本章要回收的伏笔词：护士这句客套话在二十段之后变成"alone again"
 - **from here on out**：从今往后；这是 Brown 惯用的时间副词短语：一次押注，跨越全章
 
 **为什么这样写**：这是全章**最重要的伏笔句**，而且来得极轻——一个护士的客套话。Brown 让最重要的东西出自最不重要的声音，这是她写"照护"的常态。
@@ -356,7 +356,7 @@ status: completed
 **关键词**：
 - **how right that nurse was**：那个护士多么正确；这是 realizes 后的宾语从句：用 how 强调"对"的程度
 - **life has come full circle on her**：生活在她身上转了一整圈；这是成语的字面化改写：生活回到起点
-- **Finally—unwillingly—Ellie is alone again**：终于——不情愿地——又一次独自一人；这是两个副词对举：一件等了十五年的事，来了却不是她想要的
+- **Finally—unwillingly—Ellie is alone again**：终于——不情愿地——又一次独自一人；这是两个副词对举：等了一辈子的事来了，却不是她想要的
 
 **为什么这样写**：把护士那句客套话在二十段之后回收，是Brown惯用的**慢回环**。"alive again"（又一次）与"unwillingly"并置，让"独处"既成真又失格——这正是全书 Ellie 处境的缩影。
 
@@ -424,9 +424,9 @@ status: completed
 **关键词**：
 - **as though from within**：仿佛从房间内部；这是光线的"内发光"写法：房间在自己发亮
 - **The pale-pink walls**：淡粉色的墙；这是"小时候爱、长大了翻白眼"的成长标记物
-- **the electronic acceptance letter she’d received from Middlebury**：Middlebury 的电子录取通知书；这是 Ellie **自己**的未完成的人生：录取了却没去
+- **the electronic acceptance letter she’d received from Middlebury**：Middlebury 的电子录取通知书；这是 **Maggie** 未能展开的人生：她拿到了录取，房间还留着她的气息
 
-**为什么这样写**：本段是全章最"静"的清单式写作——四个名词句全用省略谓语，像逐件清点。中间那句 Middlebury 录取通知书是关键：它说明她的"另一种可能"是真实存在的，而她此刻是**回来**的。
+**为什么这样写**：本段是全章最"静"的清单式写作——四个名词句全用省略谓语，像逐件清点。中间那件 Middlebury 录取通知书是关键：它说明 Maggie 的"另一种可能"确实存在过——在真实世界里她去了那里，却过得不快乐（ch35）；而此刻 Ellie 是**回到**这间房的。
 
 ---
 

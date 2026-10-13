@@ -8,7 +8,7 @@ status: completed
 
 # Twenty-Four
 
-> Ellie回到家，发现Jonah在门廊等她。他们散步穿过小镇——经过他们第一次的公寓、他们的第一套房子、Maggie的小学。Jonah告诉她：他从周一早上就认出了Ellie，他跟踪了她；他一直打电话给Ellie，但她没有接（她丢失了手机）；他在咖啡馆遇到了一个陌生女人，被告知要去见他的未婚妻。"I'm supposed to be getting married this weekend, Ellie,"他说。"Which life am I meant to pick?" Ellie说"I miss you. We made a terrible mistake"，Jonah回答"It's too late"。但最后Ellie问"Was it fate?"，Jonah说"No. It wasn't fate. It was me. I'd find you in any lifetime, Ellie Adams"。
+> Ellie回到家，发现Jonah在门廊等她。他们散步穿过小镇——经过他们第一次的公寓、他们的第一套房子、Maggie的小学。Jonah告诉她：他从周一早上就认出了Ellie，他跟踪了她；他一直打电话给Ellie，但她没有接（她丢失了手机）；他在咖啡馆遇到了一个陌生女人，被告知要去见他的未婚妻。"I'm supposed to be getting married this weekend, Ellie,"他说。Ellie说"I miss you," Ellie says, plain and simple. "We made a mistake. A terrible one."。但最后Ellie问"Was it fate?"，Jonah说"No," he instantly counters, surprising her. "That's where you're wrong. It wasn't fate," he explains. "It was me." His voice is both stern and tender. "I'd find you in any lifetime, Ellie Adams," he says.
 
 ## 本章导航
 
@@ -144,7 +144,7 @@ status: completed
 
 ### 一句话概括
 
-Ellie和Jonah在散步中坦白：Jonah从周一就认出了Ellie，他在两个世界之间撕裂；他问"Which life am I meant to pick?"，Ellie说"We made a terrible mistake"，但最后Jonah说"It wasn't fate," he explains. "It was me. I'd find you in any lifetime, Ellie Adams"。
+Ellie和Jonah在散步中坦白：Jonah从周一就认出了Ellie，他在两个世界之间撕裂；他问"Which life am I meant to pick?"，Ellie说"I miss you," … "We made a mistake. A terrible one."，但最后Jonah说"No," he instantly counters … "It wasn't fate," he explains. "It was me." … "I'd find you in any lifetime, Ellie Adams," he says.
 
 ### 一句话总结
 

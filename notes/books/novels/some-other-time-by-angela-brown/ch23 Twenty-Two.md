@@ -119,7 +119,7 @@ status: completed
 - **Dad's in his eighties! He doesn't travel by himself anymore!** 爸爸都八十多岁了！他不再自己旅行了！；这是Ellie的"恐慌"：她的父亲不应该独自旅行
 - **And he didn't pack his heart medication!** 而且他没有带上他的心脏药物！；这是Ellie的"恐惧"：Frank需要他的药物
 
-**为什么这样写**：这是全章最有"紧迫感"的场景。Ellie在找证据——Frank的箱子不见了、牙刷不见了、药物也没有带。"He's in his eighties!"是Ellie的"担忧"：她的父亲太老了，不能独自旅行。
+**为什么这样写**：这是全章最有"紧迫感"的场景。Ellie在找证据——Frank的箱子不见了、牙刷不见了、药物也没有带。"Dad's in his eighties!"是Ellie的"担忧"：她的父亲太老了，不能独自旅行，而他连心脏药都没带。
 
 ---
 

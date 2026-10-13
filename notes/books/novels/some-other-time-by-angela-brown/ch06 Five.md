@@ -56,14 +56,14 @@ status: completed
 
 ### ③
 
-> "That's what you're going to end up like," Bunny admonishes her the instant Ellie steps into the room.
+> "That's what you're going to end up like," Bunny admonishes her the instant Ellie steps into the room. … "Like Shelia," Bunny whispers. "Look at her! Divorced. No husband. Just out galivanting around. No one knows her backstory. She doesn't talk about it."
 
-**中文理解**："那就是你将来的下场，"Bunny在Ellie一踏进房间的瞬间就训诫道。
+**中文理解**："那就是你将来的下场，"Bunny在Ellie一踏进房间的瞬间就训诫道。……"像Shelia那样，"Bunny低声说。"看看她！离了婚。没有丈夫。就在外面四处游荡。没人知道她的来历。她自己也从不提。"
 
-**句子结构**：That's what you're going to end up like 是直接引语；Bunny admonishes her 是主句；the instant Ellie steps into the room 是时间状语（the instant = 一……就……）。
+**句子结构**：That's what you're going to end up like 是直接引语；Bunny admonishes her 是主句；the instant Ellie steps into the room 是时间状语（the instant = 一……就……）。后半段转为 Bunny 的低声补充：Like Shelia 是省略句（省略主语 you're going to end up），随后是四个名词性/形容词性短句（Divorced. No husband.）与完整句的交替，节奏由急促转为切割式的罗列。
 
 **关键词**：
-- **end up like**：end up = 最终变成；Bunny在说Ellie"最终会变成Shelia那样"——离婚、孤独、无人问津
+- **end up like**：end up = 最终变成；Bunny在说Ellie"最终会变成Shelia那样"——离婚、孤独、无人问津（`Like Shelia` 一语在引语后半，Bunny随后用四个短句补出这副"下场"的具体内容）
 - **admonishes**：admonish = 训诫；Bunny的语气不是"担心"而是"警告"——她把离婚描绘成一种失败的下场
 
 **为什么这样写**：这是Bunny的台词，她在全章第一次"进攻"。她不讨论Ellie的婚姻，而是用Shelia作为"反面教材"。这种代际沟通方式（用别人的故事来教训自己）是Bunny的风格——她不直接说"我担心你"，而是说"你会变成她那样"。
@@ -149,7 +149,7 @@ status: completed
 - **a commitment—a vow**：两个词之间的破折号强调了"承诺"的重量；vow 比 commitment 更重——它是婚姻誓言的专用词
 - **the day I married him**：在我嫁给他的那天；Bunny的承诺是在"那一天"做出的——这是一个一次性的决定，之后不再重提
 
-**为什么这样写**：这是全章的结尾，也是全章最重要的台词。Bunny的回答与全书主题（选择 vs. 命运）形成直接冲突：Ellie在寻找"另一种可能性"，Bunny在坚守"承诺"。哪种是对的？作者没有给出答案，而是把这个选择题留给了读者。
+**为什么这样写**：这是全章最重要的台词之一——⑧ 之后仍有 Jonah 与 Ellie 互道晚安、他关门、她落泪的收束段。Bunny的回答与全书主题（选择 vs. 命运）形成直接冲突：Ellie在寻找"另一种可能性"，Bunny在坚守"承诺"。哪种是对的？作者没有给出答案，而是把这个选择题留给了读者。
 
 ---
 
@@ -188,7 +188,7 @@ status: completed
 | leftover | n. | 剩菜 | ...heating and then reheating the lunch **leftovers**... |
 | framed | adj. | 装裱的；带框的 | ...the many **framed** photographs on it. |
 | faucet | n. | 水龙头 | She turns off the **faucet**. |
-| tap | v. | （用手指）轻敲 | ...the one back home once **taped** to their fridge. |
+| tape | v. | 用胶带贴 | ...the one back home once **taped** to their fridge. |
 
 ### ⭐ 基础
 

@@ -39,17 +39,17 @@ status: completed
 
 ### ②
 
-> "How are we doing with the air?" Jonah asks from the front seat. The sunlight through the window catches his dark hair, all brushed with silver, like the scales of a fish.
+> "How are we doing with the air?" Jonah asks from the front seat. The sunlight through the window catches his dark hair, all brushed with silver, like the scales of a fish. The gray only adds to his looks, which is complete garbage. Ellie pays $200 every three months so some twenty-eight-year-old can paint her head with chemicals and help fuel the cultural belief that women should not age.
 
-**中文理解**："空调怎么样？"Jonah 坐在副驾驶问。阳光穿过车窗照在他的黑发上——上面布满了银色发丝，像鱼鳞一样。
+**中文理解**："空调怎么样？"Jonah 坐在副驾驶问。阳光穿过车窗照在他的黑发上——上面布满了银色发丝，像鱼鳞一样。那些灰白只是给他添了魅力，这简直是一派胡言。Ellie 每三个月花 200 美元，好让某个二十八岁的理发师用化学品涂满她的头，为"女人不该变老"这种文化信念添砖加瓦。
 
-**句子结构**：主句 "How are we doing with the air?" Jonah asks；The sunlight catches his dark hair 是第二个并列句；all brushed with silver 是 hair 的后置定语（独立主格）；like the scales of a fish 是比喻。
+**句子结构**：主句 "How are we doing with the air?" Jonah asks；The sunlight catches his dark hair 是第二个并列句；all brushed with silver 是 hair 的后置定语（独立主格）；like the scales of a fish 是比喻；The gray only adds to his looks 是独立一句，which is complete garbage 是非限制性定语从句（which 指代前句整件事）；Ellie pays $200… 是第三个并列句，so some twenty-eight-year-old can paint… 是目的状语，help fuel the cultural belief that… 是宾语从句。
 
 **关键词**：
 - **all brushed with silver**：all = 满头（副词）；brushed with silver 是"被银刷过"，描述头发花白的状态；用 fish scales（鱼鳞）这个比喻来写头发，暗示了 Jonah 的外表有一种冷调的质感（鱼类=冷血）
 - **The gray only adds to his looks, which is complete garbage**：Ellie 的吐槽——Jonah 年龄越大越有魅力；她则花$200/三个月染发；这是两人的对比
 
-**为什么这样写**：这一段写 Jonah 的外表（silver hair, fish scales）与 Ellie 对自己外表的焦虑形成对照。在 ch02 我们知道 Ellie 染发，而这段揭示了她染发的原因（对抗衰老的社会压力）。两个细节叠加：年龄带来的外貌焦虑是两人婚姻中的一个暗流。
+**为什么这样写**：这一段写 Jonah 的外表（silver hair, fish scales）与 Ellie 对自己外表的焦虑形成对照。前两句把 Jonah 的灰白写成"只会给他添魅力"，第三句立刻转到 Ellie 自己——她花$200/三个月染发，因为"女人不该变老"是刻在她头上的文化信念。两个细节叠加：年龄带来的外貌焦虑是两人婚姻中的一个暗流，而这一次它由 Ellie 自己说破。
 
 ---
 

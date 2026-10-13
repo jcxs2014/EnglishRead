@@ -8,7 +8,7 @@ status: completed
 
 # Eleven
 
-> Bunny和Ellie回到家后，Bunny在厨房桌旁喝着"那种糟糕的咖啡"写清单（给Frank的"备忘录"：记得吃药时间、会用洗衣机）。Ellie洗完澡下来，看到Frank出现在客厅里——带着杂货袋、开着玩笑——就像一个普通的老父亲。Frank的出现让Ellie彻底崩溃：她的父亲、母亲、还有她自己，三个人都在这里，而Bunny说她在"离开"Frank，Frank说他"带来了Bunny的咖啡"。Ellie开始问"你怎么在这里的？"——Frank说是开车来的——但Ellie知道Frank几年前就卖掉了熟食店。Ellie终于意识到：Frank从来没有离开过佛罗里达。Bunny的"走路来"不是字面意思的"走路"，而是她一贯的"逃避逻辑"——她不是物理地"走"了一千英里，她是"精神上"不能接受"距离"这个概念。Ellie离开前说："你们两个真的不太会分手。"Bunny则说："我不相信那个冰箱——记得回来时顺便买些新鲜咖啡伴侣。"
+> Bunny和Ellie回到家后，Bunny在厨房桌旁喝着"那种糟糕的咖啡"写清单（给Frank的"备忘录"：记得吃药时间、会用洗衣机）。Ellie洗完澡下来，看到Frank出现在客厅里——带着杂货袋、开着玩笑——就像一个普通的老父亲。Frank的出现让Ellie彻底崩溃：她的父亲、母亲、还有她自己，三个人都在这里，而Bunny说她在"离开"Frank，Frank说他"带来了Bunny的咖啡"。Ellie追问他是怎么来的——"In a train. On a bicycle. In a trolley. In an airplane or—"——Frank用一句玩笑搪塞过去："I parked my cruise ship out front."。Bunny的"走路来"不是字面意思的"走路"，而是她一贯的"逃避逻辑"——她不是物理地"走"了一千英里，她是"精神上"不能接受"距离"这个概念。Ellie离开前说："你们两个真的不太会分手。"Bunny则说："我不相信那个冰箱——记得回来时顺便买些新鲜咖啡伴侣。"
 
 ## 本章导航
 
@@ -30,7 +30,7 @@ status: completed
 **句子结构**：Ellie watches her parents unpack 是主句；feeling overcome by both shock and extreme calm 是现在分词短语作伴随状语；Because Ellie has somehow turned into Alice... 是原因状语从句。
 
 **关键词**：
-- **Alice and Wonderland**：爱丽丝和仙境；这个文学典故把Ellie的处境写成"迷失在仙境"——她不是一个普通的离婚女人，她是一个"掉进兔子洞"的人
+- **turned into Alice and become lost in Wonderland**：变成了爱丽丝、迷失在仙境里；这个文学典故把Ellie的处境写成"掉进兔子洞"——她不是一个普通的离婚女人
 - **her brain has turned into mashed potatoes**：她的大脑变成了土豆泥；这个比喻把"心理崩溃"写成"食物"——这是Angela Brown的写作风格：把抽象的情感变成具体的感官细节
 
 **为什么这样写**：这是全章最有力的比喻。Ellie的"离婚"已经变成了"仙境"——一个没有逻辑的地方。她的父母在这里，但他们"说的话"没有意义。而她的大脑"变成了土豆泥"——这是Ellie对"疯狂"的定义。
@@ -129,7 +129,6 @@ Ellie、Bunny和Frank在厨房里进行了一场"疯狂的团聚"——Frank带�
 |------|------|------|------|
 | mashed potatoes | n. | 土豆泥 | ...her brain has turned into **mashed potatoes**. |
 | spiral | v./n. | 螺旋式下降 | ..."Well, it seems I'm currently **spiraling** my way through some sort of mental breakdown," Ellie says. |
-| provisions | n. | 食物，供给品 | ..."I stopped by the deli and picked up lunch," Frank adds, laying out his **provisions**. |
 | witness | n./v. | 见证者；见证 | Whatever she’s **witnessed** today is just a distorted first step of the afterlife. |
 
 ### ⭐⭐ 进阶

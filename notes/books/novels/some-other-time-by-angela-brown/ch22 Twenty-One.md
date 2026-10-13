@@ -168,7 +168,7 @@ status: completed
 - **Maggie**：Maggie；这是Ellie的"关键"：这张画是Maggie的——这意味着Jonah知道他们的女儿
 - **He knows**：他知道；这是全章最重要的两个字：Jonah知道Maggie，他记得他们的女儿
 
-**为什么这样写**：这是全书最有"希望感"的结尾之一。Jonah完成了Maggie的画——他知道他们的女儿。"He knows"是Ellie的结论：Jonah记得，即使他不承认。"He knows"与ch20的"a broken compass"形成了对比：Jonah不再是一个"坏掉的指南针"——他知道。
+**为什么这样写**：这是全书最有"希望感"的结尾之一。Jonah完成了Maggie的画——他知道他们的女儿。"He knows"是Ellie的结论：Jonah记得，即使他不承认。"He knows"与ch21的"a broken compass"形成了对比：Jonah不再是一个"坏掉的指南针"——他知道。
 
 ---
 

@@ -57,7 +57,7 @@ status: completed
 - **nurse after nurse**：护士一个接一个；这是复数叠用表示**持续与不间断**
 - **the way they move (fast) and the way they speak (direct)**：他们移动的方式（快）与说话的方式（直）；这是**括号里的证据**：紧急不靠形容词，靠观察
 
-**为什么这样写**：Brown 用括号插入（fast）（direct）模仿临床观察的记录体——紧急被写成**两项可测指标**，而不是"很吓人"。同时 "a swath of gauze" 这个分词开头，把 Ellie 自己的身体提前放进句首：此刻她的伤与他一样需要被处理。
+**为什么这样写**：Brown 用括号插入（fast）（direct）模仿临床观察的记录体——紧急被写成**两项可测指标**，而不是"很吓人"。同时 "A swath of white gauze" 这个悬垂分词开头，把 Ellie 自己的身体提前放进句首：此刻她的伤与他一样需要被处理。
 
 ---
 

@@ -8,14 +8,14 @@ status: completed
 
 # Thirty-Seven
 
-> Sunday——Ellie、Maggie和Jonah在机场。Maggie的航班正常起飞（和"另一个世界"相反）。Ellie说她想去书店打工——她说"I was thinking about picking up a few shifts there for myself"。他们发现书店被卖掉了，Gabby要买下它。Ellie给Gabby发消息，约她喝咖啡。Jonah穿着一件霓虹橙色的Florida T恤。Ellie决定留在Florida过夜，明天再回家。他们上了Monorail，Jonah说他有一个记忆——Maggie小时候画的戴着太阳镜的小太阳。Ellie想"some stories are best left untold"。"This time, whatever it is, she knows that she's ready for it."
+> Sunday——Ellie、Maggie和Jonah在机场。Maggie的航班正常起飞（和"另一个世界"相反）。Ellie说她想去书店打工——她说"I was thinking about picking up a few shifts there for myself"。Ellie发消息给Gabby，Gabby回信说她**已经买下**了镇上的书店。Jonah穿着一件霓虹橙色的Florida T恤。Ellie决定留在Florida过夜，明天再回家。他们上了Monorail，Jonah说他有一个记忆——Maggie小时候画的戴着太阳镜的小太阳。Ellie想"some stories are best left untold"。"This time, whatever it is, she knows that she's ready for it."
 
 ## 本章导航
 
 - **航班取消（这次是Ellie和Jonah的）**：Ellie和Jonah的航班被取消——但Maggie的航班正常起飞
 - **Maggie的"回归"**：Maggie说要去申请离家近的学校——她要回家
 - **Ellie的"回归"**：Ellie说她想回书店打工——"I was thinking about picking up a few shifts there for myself"
-- **Gabby的消息**：Gabby要买下书店——"I actually just bought the bookstore in town"
+- **Gabby的消息**：Gabby**已经买下**了书店——"I actually just bought the bookstore in town"
 - **霓虹橙色的Florida T恤**：Jonah买了配套的Florida T恤——这是他们的"家庭仪式"
 - **Maggie的画**：Jonah说他记得Maggie小时候画的戴着太阳镜的小太阳——和"另一个世界"一样的记忆
 - **"She's ready for it"**：Ellie准备好了——准备好迎接任何命运
@@ -33,9 +33,9 @@ status: completed
 **关键词**：
 - **Their flight is canceled**：他们的航班被取消了；这是全章最重要的话：这次是Ellie和Jonah的航班被取消，不是Maggie的
 - **could her single choice...somehow change entire flight patterns**：她的一次选择怎么可能改变整个飞行模式；这是Angela Brown的"蝴蝶效应"主题：一个人的选择可以改变很多
-- **The last time, despite the storm and several delays, they still took off together**：上一次，尽管有暴风雨和几次延误，他们仍然一起起飞了；这是"两个世界"的对比：上一次Maggie的航班取消，这一次Ellie和Jonah的航班取消
+- **The last time, despite the storm and several delays, they still took off together**：上一次，尽管有暴风雨和几次延误，他们仍然一起起飞了；这是"两个世界"的对比：两次都是Maggie的航班准点，被延误或取消的始终是Ellie和Jonah
 
-**为什么这样写**：这是全章最有"反转感"的开场。这次是Ellie和Jonah的航班被取消——但Maggie的航班正常起飞。这是"两个世界"的对比：在"另一个世界"里，Maggie的航班取消了；在"真实生活"里，Ellie和Jonah的航班取消了。
+**为什么这样写**：这是全章最有"反转感"的开场。这一次同样是Maggie的航班准点起飞——被取消的仍是Ellie和Jonah的航班，与第一次Florida之行（ch07/ch08）完全同构。这是"两个世界"的对比：无论在哪个世界里，被天气和航班困住的始终是他们夫妇，而Maggie总能按时回到自己的轨道上。
 
 ---
 
@@ -144,7 +144,7 @@ status: completed
 
 ### 一句话概括
 
-Ellie、Maggie和Jonah在机场告别，Maggie要回家、回学校、可能回书店打工；Ellie给Gabby发消息，得知Gabby要买下书店；Jonah说他记得Maggie小时候画的戴着太阳镜的小太阳；Ellie决定"有些故事最好不讲述"——她准备好了迎接任何命运。
+Ellie、Maggie和Jonah在机场告别，Maggie要回家、回学校；Ellie给Gabby发消息，得知Gabby已经买下了镇上那家书店；Jonah说他记得Maggie小时候画的戴着太阳镜的小太阳；Ellie决定"有些故事最好不讲述"——她准备好了迎接任何命运。
 
 ### 一句话总结
 

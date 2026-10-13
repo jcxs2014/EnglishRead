@@ -8,7 +8,7 @@ status: completed
 
 # Thirty
 
-> Jonah 独自躺在病床上，眼睛仍闭着，机器们用"a whole electronic language"互相通报他体内的情况。Ellie 先回 Bunny 病房看了一眼——父母都在睡，"they weren't in the place they should have been"，但"they were together, and to her, their only daughter, that felt like something, at least"。随后她回到 Jonah 床边："I'm so sorry, Jo." 护士说"He's not doing well, is he?"——"No. He's not."，机器哔哔作响，"a sad, terrible song"。护士给她五分钟："She's been in love before. Ellie can see it."。Ellie 想起母亲在Florida说的"You two made a vow to each other, Ellie. Until death do you part."，自问"What do you want, Ellie? What do you want?"——"as if she can hear him ask"。临别："I'd still do it all again, too, Jo... Even now. Even knowing how it all ends."。窗外"Not yet tomorrow, and not quite yesterday"；她闭眼一瞬——"Certain habits, she now understands, are impossible to break"——"This time, she knows exactly what she's wishing for"。"She doesn't care." "Ellie allows herself to wish for it anyway."
+> Jonah 独自躺在病床上，眼睛仍闭着，机器们用"a whole electronic language"互相通报他体内的情况。Ellie 先回 Bunny 病房看了一眼——父母都在睡，"they weren't in the place they should have been"，但"they were together, and to her, their only daughter, that felt like something, at least"。随后她回到 Jonah 床边："I'm so sorry, Jo." 护士说"He's not doing well, is he?"——"No. He's not."，机器哔哔作响，"a sad, terrible song"。护士给她五分钟："She's been in love before. Ellie can see it."。Ellie 想起母亲在Florida说的"You two made a vow to each other, Ellie. Until death do you part."，自问"What do you want, Ellie? What do you want?"——"as if she can hear him ask"。临别："I'd still do it all again, too, Jo," … "Even now. Even knowing how it all ends."。窗外"Not yet tomorrow, and not quite yesterday"；她闭眼一瞬——"Certain habits, she now understands, are impossible to break"——"This time, she knows exactly what she's wishing for"。"She doesn't care." "Ellie allows herself to wish for it anyway."
 
 ## 本章导航
 
@@ -311,7 +311,7 @@ status: completed
 - **Certain habits, she now understands, are impossible to break**：某些习惯无法打破；这是**插入语的位置**：她的领悟被放在正中间，像插进时序的一句话
 - **it doesn't matter**：这无关紧要；这是**豁免**：时间不可知 → 不影响结果
 
-**为什么这样写**："close her eyes" 接 ch30 的 "Certain habits, she now understand, are impossible to break"。这里的"habit"指的是**闭眼许愿**——一个 she 自知幼稚却停不下来的动作。Brown 让"习惯"成为一个近乎神圣的行为。
+**为什么这样写**："close her eyes"与**本章**的 "Certain habits, she now understands, are impossible to break." 相呼应。这里的"habit"指的是**闭眼许愿**——一个 she 自知幼稚却停不下来的动作。Brown 让"习惯"成为一个近乎神圣的行为。
 
 ---
 
@@ -342,7 +342,7 @@ Jonah 独自在病床上与机器的"a whole electronic language"相对，Ellie 
 
 ### 读者视角提示
 
-留意两处贯穿全书的形式呼应：① **"This time"** 在 ch28–29 与本章各出现一次，是 Ellie's主动行为的记号；② **闭眼许愿这个动作**在 ch30（"Certain habits… are impossible to break"）与本章（"allows herself to wish for it anyway"）连成一线——这是全书唯一跨越两个世界的具体动作，也是终章的钥匙。
+留意两处贯穿全书的形式呼应：① **"This time"** 在 ch28–29 与本章各出现一次，是 Ellie's主动行为的记号；② **闭眼许愿这个动作**在 ch09（"certain habits, as she's come to learn, are hard to break"）与本章（"allows herself to wish for it anyway"、"Certain habits, she now understands, are impossible to break."）连成一线——这是全书唯一跨越两个世界的具体动作，也是终章的钥匙。
 
 ## 词汇
 

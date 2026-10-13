@@ -8,7 +8,7 @@ status: completed
 
 # Thirty-Four
 
-> Ellie、Maggie和Jonah到达Florida的公寓。Bunny和Frank在那里等着——他们已经"退休"了，住在Florida。Ellie和Maggie在泳池边谈话，Maggie坦白她讨厌她的大学——"I'm miserable"。Ellie告诉她可以回家，说"sometimes you can make a big impact close to home"。
+> Ellie、Maggie和Jonah到达Florida的公寓。Bunny和Frank在那里等着——他们已经"退休"了，住在Florida。Ellie和Maggie在泳池边谈话，Maggie坦白她讨厌她的大学——"I'm—I'm miserable."。Ellie告诉她可以回家，说"Sometimes … you can make a big impact close to home."。
 
 ## 本章导航
 
@@ -79,8 +79,7 @@ status: completed
 
 **关键词**：
 - **Of course**：当然可以；这是Ellie的"接受"：她接受Maggie想回家
-- **She gives it a loving squeeze**：她给它一个充满爱的紧握；这是Angela Brown的"母女关系"：Ellie在用行动告诉Maggie她不是一个人
-- **She gives it a loving squeeze**：她给它一个充满爱的紧握；这是全章最重要的话：Ellie接受Maggie的"选择"
+- **She gives it a loving squeeze**：她给它一个充满爱的紧握；这是Angela Brown的"母女关系"：Ellie在用行动告诉Maggie她不是一个人，接受她的"选择"
 
 **为什么这样写**：这是全章最有"支持感"的时刻。Ellie说"Of course"——她接受Maggie想回家。这是Angela Brown的"母女关系"主题：母亲总是接受她的孩子。
 
@@ -107,11 +106,11 @@ status: completed
 
 ### 一句话概括
 
-Ellie、Maggie和Jonah到达Florida的公寓，和Bunny、Frank团聚；Ellie和Maggie在泳池边谈话，Maggie坦白她讨厌她的大学选择，Ellie说"Of course"，告诉她"sometimes you can make a big impact close to home"。
+Ellie、Maggie和Jonah到达Florida的公寓，和Bunny、Frank团聚；Ellie和Maggie在泳池边谈话，Maggie坦白她讨厌她的大学选择，Ellie说"Of course"，告诉她"Sometimes … you can make a big impact close to home."。
 
 ### 一句话总结
 
-本章是全书最有"选择"感的章节之一。"Sometimes," Ellie says, "you can make a big impact close to home"是全章最重要的话——Maggie不需要"离开"才能"产生影响"。这是Angela Brown的"家庭"主题：有时候，最好的选择是"回家"。
+本章是全书最有"选择"感的章节之一。"Sometimes … you can make a big impact close to home."是全章最重要的话——Maggie不需要"离开"才能"产生影响"。这是Angela Brown的"家庭"主题：有时候，最好的选择是"回家"。
 
 ### 读者视角提示
 

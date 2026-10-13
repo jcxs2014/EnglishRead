@@ -83,7 +83,7 @@ status: completed
 - **strangers who also somehow know each other quite well**：这句话是全章（乃至全书）的情感核心——结婚多年后，两个最了解对方的人反而产生了陌生感；"quite well"（相当好）是反讽，实际上是在说"他们知道对方的一切，但已不再真正理解对方"
 - **arrived here**：arrived here = 到达这一步；这个短语暗示 Ellie 把他们的婚姻理解为一个目的地——他们不是"变成"这样的，而是"到达"这里的
 
-**为什么这样写**：这是全章最重要的内心独白。作者用"strangers who know each other quite well"这个悖论，精准地描述了婚姻中最残酷的阶段：熟悉到不能再熟悉的两个人，反而在最需要理解的时候产生了陌生感。这句话为全书的"婚姻审视"主题奠定了基调。
+**为什么这样写**：这是全章最重要的内心独白。作者用"strangers who also somehow know each other quite well"这个悖论，精准地描述了婚姻中最残酷的阶段：熟悉到不能再熟悉的两个人，反而在最需要理解的时候产生了陌生感。这句话为全书的"婚姻审视"主题奠定了基调。
 
 ---
 
@@ -109,14 +109,14 @@ status: completed
 
 **中文理解**："我们快到了。"
 
-**句子结构**：简单的主谓宾结构。We’re almost there. 是 Jonah 说的话，但这句在 ch01 的 Prologue 里出现过——"We're almost there"是 Ellie 每次飞行降落时 Jonah 安慰她的话。
+**句子结构**：简单的主谓宾结构。We're almost there. 是 Jonah 说的话，与本块引语同出本章飞机降落那一段（"You can already see the ground. We're almost there."）——它是 Ellie 每次飞行降落时 Jonah 安慰她的话，不是 Prologue 的初遇台词。
 
 
 **关键词**：
 - **almost there**：既是字面上的"快到了"（飞机降落），也是隐喻上的"接近某处"——二十年前指向共同生活的开始，二十年后指向它可能的终点
 - **We're**：复数主语。这句安慰话的全部力量来自"我们"，而此刻两人正在离婚的路上，这个词已成空壳
 
-**为什么这样写**：这句话是一个"回归"——它呼应了 Prologue 里两人初遇时 Jonah 的那句"We're almost there"（"Almost there, almost there"）。同样的五字台词，二十年后含义已完全不同：当年是初见的热情，现在是疲惫婚姻中的机械安慰。这种语言的重复使用是全书的叙事手法之一。
+**为什么这样写**：这句话是一个"回归"——它呼应了本章前文 Jonah 在飞机降落时说的"You can already see the ground. We're almost there."。同样的台词，二十年后含义已完全不同：当年是初见的热情，现在是疲惫婚姻中的机械安慰。这种语言的重复使用是全书的叙事手法之一。
 
 ---
 
@@ -192,7 +192,7 @@ status: completed
 
 ### 一句话总结
 
-本章是全书的"现实层"——Prologue 揭示了相遇的真相（accident），本章则展示二十年后这段婚姻的真实状态：Ellie 在飞机上焦虑、在机场追赶、观察丈夫如同观察陌生人——而"When they arrived here"的设问，正是她对这段婚姻的根本质疑。
+本章是全书的"现实层"——Prologue 揭示了相遇的真相（accident），本章则展示二十年后这段婚姻的真实状态：Ellie 在飞机上焦虑、在机场追赶、观察丈夫如同观察陌生人——而"How have they arrived here?"的设问，正是她对这段婚姻的根本质疑。
 
 ### 读者视角提示
 

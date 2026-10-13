@@ -8,7 +8,7 @@ status: completed
 
 # Thirty-Six
 
-> Sunday——Ellie、Maggie和Jonah准备离开Florida回家。Bunny说她有"预感"他们会带坏消息来，但结果不是。Ellie和Bunny在厨房里告别——"I miss you terribly, Mom"。全家人告别，Ellie说"Everyone is fine"。
+> Sunday——Ellie、Maggie和Jonah准备离开Florida回家。Bunny说她有"预感"他们会带坏消息来，但结果不是。Ellie和Bunny在厨房里告别——Bunny说"I miss you terribly"，Ellie回答"I miss you, too, Mom"。全家人告别，Ellie说"Everyone is fine"。
 
 ## 本章导航
 

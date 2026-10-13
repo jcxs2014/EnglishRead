@@ -15,7 +15,7 @@ status: completed
 - **宣布离婚**："We're getting divorced"——Ellie 和 Jonah 共同宣布，但父母的反应（尤其是 Frank 质问 Jonah"你做了什么"）揭示了这个家庭对离婚的震惊
 - **"fell out of love"**：Ellie 的解释——没有戏剧性的原因，只有婚姻的自然消亡
 - **Bunny 的信仰抵抗**：Bunny 是天主教徒，对离婚持强烈反对态度（"You think marriage is about love?"）
-- **Ellie 与 Maggie**：Ellie 走向游泳池去找女儿；结尾她"走向蓝色的傍晚"——一个开放的、转变的时刻
+- **Ellie 与 Maggie**：Ellie 走向游泳池去找女儿；前半段以她"走向蓝色的傍晚"收束——一个开放的、转变的时刻
 - **全章回顾**：从"相遇的真相"（Prologue）到"婚姻的死亡"（ch04），倒叙结构揭示了一个关于"选择 vs. 命运"的故事
 
 ## 精读
@@ -50,7 +50,7 @@ status: completed
 - **wisps of angry smoke**：wisps = 一缕一缕的；angry smoke 写 Frank 的白发——头发像是愤怒的具体化；这个比喻暗示了老年人的愤怒（aging + rage）
 - **"What did you do?" (x2)**：Frank 问了两次，重复表达他的愤怒；这种重复是口语中的强调手法
 
-**为什么这样写**：Frank 的第一反应是"你做了什么"——这说明在他的观念里，离婚必须有"原因"，必须有"错误方"。而 Ellie 的回答"No one did anything"颠覆了他的认知框架——这正是这代人（婴儿潮一代）与千禧一代/Gen X 对婚姻理解的核心差异。
+**为什么这样写**：Frank 的第一反应是"你做了什么"——这说明在他的观念里，离婚必须有"原因"，必须有"错误方"。而 Ellie 的回答"Jonah didn't do anything!"颠覆了他的认知框架——这正是这代人（婴儿潮一代）与千禧一代/Gen X 对婚姻理解的核心差异。
 
 ---
 
@@ -142,14 +142,14 @@ status: completed
 
 **中文理解**：然后，独自一人，她走进了一个淡蓝色的傍晚。
 
-**句子结构**：And then, alone, she walks out into a blue-tinged evening. 是全章最后一句，也是 ch04 的结尾。
+**句子结构**：And then, alone, she walks out into a blue-tinged evening. 是前半段的收束句——它把餐桌旁的离婚宣布与接下来的泳池场景隔开，全章真正的结尾是父亲（Frank）与 Bunny 在厨房的一段对话。
 
 **关键词**：
 - **blue-tinged**：蓝色边缘的，微微发蓝的；blue 在西方文学传统中通常与忧郁、孤独、忧郁的情绪相关联
 - **alone**：独自；Ellie 走向泳池去找 Maggie——但最后一句说她"alone"——说明她一个人走向傍晚；这是 Ellie 的时刻，不是去"修复"什么，而是去"面对"
 - **walks out into**：走出去——这个动作是开放的；走向蓝色傍晚 = 走向未知的未来
 
-**为什么这样写**：全章以 Ellie 的一个"走向"动作结束——不是句号，不是结论，而是一个"走出去"的姿态。这是开放式的结尾，暗示 Ellie 正在走向某种转变。"blue-tinged evening"是过渡性的意象：傍晚是白天与黑夜的交界，正如 Ellie 正处于人生的某种交界点。
+**为什么这样写**：这一句以 Ellie 的一个"走向"动作收束前半段——不是句号，不是结论，而是一个"走出去"的姿态。这是开放式的收束，暗示 Ellie 正在走向某种转变。"blue-tinged evening"是过渡性的意象：傍晚是白天与黑夜的交界，正如 Ellie 正处于人生的某种交界点。
 
 ---
 

@@ -128,17 +128,16 @@ Bunny坚持要去医院检查（Ellie担心她的精神状态），在急诊室�
 | postapocalyptic | adj. | 末日后世界的 | ...a scene from a **postapocalyptic** book. Or, at the very least, a B-list zombie flick. |
 | vascular | adj. | 血管的 | ...blood from her head rushes down to her feet—a **vascular** waterfall... |
 | recognition | n. | 认出，识别 | ...a flash of **recognition** steal across his expression, too. |
-| westchester | n. | 威彻斯特（县） | That morning, as she’d sat on his awful couch and listened to him talk about how he hadn’t cheated on her—though, he guessed he hadn’t not cheated on her, either, since he’d been driving back home to **Westchester** every Thursday for over a mo |
+| westchester | n. | 威彻斯特（县） | That morning, as she’d sat on his awful couch and listened to him talk about how he hadn’t cheated on her—though, he guessed he hadn’t not cheated on her, either, since he’d been driving back home to **Westchester** every Thursday for over a month to hang out with his high school flame. |
 | tender (is the night) | phr. | 《夜色温柔》（菲茨杰拉德小说） | ...She sold him a copy of **Fitzgerald**'s **Tender Is the Night**... |
 
 ### ⭐⭐ 进阶
 
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
-
 | ER (emergency room) | n. | 急诊室 | The actual **ER** is a symphony of beeps. |
 | exhale | v. | 呼气，吐气 | She **exhales** long and slow, adding to the room’s decaying air, and wishes he were here, but she quickly brushes the thought aside. |
-| medication | n. | 药物，药物治疗 | ..."Mom, what is going on?" Aside from some of Bunny's planned surgeries, for which Ellie always flew to help with the **medication** schedules... |
+| medication | n. | 药物，药物治疗 | For a woman her age, Bunny is in good health. She remembers to take her **medications**. |
 | arthritis | n. | 关节炎 | And though her knees aren’t so bad for a woman her age—all those humid morning jaunts around the condo community have helped to prevent full-blown **arthritis** from eating away at her joints—the situation does not make sense. |
 
 ### ⭐ 基础

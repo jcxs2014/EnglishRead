@@ -8,15 +8,16 @@ status: completed
 
 # Thirty-One
 
-> Ellie醒来，发现Jonah回来了。Bunny还在医院，Frank、Maggie和Ellie必须决定是否继续他们的Florida计划。他们最终决定取消航班，留下来陪Bunny。Ellie去机场接Maggie，然后他们一起开车回医院。Ellie和Jonah在走廊里相遇——他们决定重新开始他们的生活。
+> Ellie醒来，发现自己独自躺在床上——她几乎一夜没睡，身上到处都疼。她逼自己起身、洗澡，然后在浴室地上坐了下来。她必须回医院，去看看这一周里到底发生了什么。有人敲门——Jonah站在门廊上。他说"You locked me out"，而Ellie终于说出"Y-y-you're okay."和"You came home."。Jonah说"It's up to you, Ellie … What do you want?"，Ellie回答"I want to go. With you."、"I'm ready now."——这一次，她不再是被动地说"yes"。
+
 
 ## 本章导航
 
-- **Jonah回来了**：Ellie发现Jonah回来了——他"只是出去买电池"
-- **Florida计划**：Frank、Maggie和Ellie决定取消航班——留下来陪Bunny
-- **Ellie去接Maggie**：Ellie去机场接Maggie——母女重逢
-- **开车回医院**：他们一起开车回医院——家庭的"重新集合"
-- **Ellie和Jonah的"重新开始"**：他们决定重新开始
+- **Jonah回来了**：Ellie发现Jonah站在门廊上——他昨晚被她关在门外
+- **Bunny生病住院**：Bunny还在医院，这是Ellie必须回去面对的现实
+- **"Y-y-you're okay."**：Ellie看到Jonah时的第一反应——不是责备，是无法掩饰的庆幸
+- **"It's up to you, Ellie … What do you want?"**：Jonah把选择权交回给Ellie
+- **"I want to go. With you."**：Ellie的答案——她要的是和他、和这个家在一起
 
 ## 精读
 
