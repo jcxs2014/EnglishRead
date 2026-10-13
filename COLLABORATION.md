@@ -73,6 +73,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 五步审查未做（待用户发起）
 - 原始门禁输出：`.memory/raw-gates/something-followed-us-home-by-cynthia-pelayo-ed/`（13 个 txt）
 
+**《Something Followed Us Home》(Cynthia Pelayo 编) 五步审查完成 + 整改**（用户发起，同会话执行 a–e 全步）
+
+- **a** 门禁全量重跑：`gate.sh` exit 0；verify_quotes 172/172（100%）；check_vocab FAIL 0；check_entities 0；corruption_scan FAIL 0；逐章 18/18
+- **b** 逐章归属 18/18 `in chNN text`；**c** 结构：audit_structure 0 ＋ 第二实现 struct_indep 0；**d** 语义二审：4 子代理逐块核对 ＋ 独立实现（fragments 180 条/197 片段 MISS 0；analysis_indep 570 片段全命中；xref_indep 1 条中文式已核为正确）；**e** 概览层：54 条核心金句 MISS 0、跨书污染 6 专名他书命中 0
+- **查出并整改 38 处阻断型**：说话人错配 5 · 概览事实断言 20 · 引语截短 3 · 关键词越界 2 · 语法/计数/译名 8（逐条见日志）
+- **2 处假红型已先修工具**（第 3 条口径）：`check_struct_indep` 缺「概览·逐句精读档」；`verify_fragments_indep` 保留句末标点（同库另 4 把尺子均标点无关）。两者各经**全库 A/B**：struct_indep 487 本 **0 增**、fragments 450 本 **0 增**
+- 修复后复跑：gate.sh exit 0、struct_indep 0、fragments MISS 0、corruption_scan FAIL 0；**md 件数 18 == text 件数 18**
+- 提交：`ce0aa3356`（工具）／`d1338e7fb`（18 md + 门禁原件 17 件）｜**未 push**
+- 逐条清单与工具 A/B 数据：`.memory/daily/2026-10-13.md`「五步审查」节；原件：`.memory/raw-gates/something-followed-us-home-by-cynthia-pelayo-ed/`
+
 ### [2026-10-13 08:00 UTC / 精读完工 2026-10-13 09:28 UTC] [DSH-Mac] → All
 
 some-other-time-by-angela-brown | 38/38章精读+总览三篇完成。verify_quotes 112/133(84%)；check_vocab FAIL157 WARN50(提示型)；check_entities 0未知实体；gate.sh全部跑完。
