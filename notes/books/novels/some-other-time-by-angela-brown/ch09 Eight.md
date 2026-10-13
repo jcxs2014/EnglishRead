@@ -41,19 +41,20 @@ status: completed
 
 ### ②
 
-> Think about what I said, Ellie, Bunny types back without posing a single question about the treacherous weather and flight. A new bubble appears. Also, I meant what I said about Christmas.
+> Think about what I said, Ellie, Bunny types back without posing a single question about the treacherous weather and flight. … A new bubble appears. Also, I meant what I said about Christmas
 
-**中文理解**："想想我说的话，Ellie"，Bunny发回短信，连一个关于危险天气和航班的问题都没有问。一个新的气泡出现了。"还有，我是说真的，关于圣诞节的事。"
+**中文理解**：想想我说过的话，Ellie——Bunny 回了一条，对那恶劣的天气和航班连一个问题都没有问。……一个新的消息气泡出现了。还有，关于圣诞节，我说的是认真的。
 
-**句子结构**：Think about what I said, Ellie 是直接引语；Bunny types back 是主句；without posing a single question... 是方式状语。
+**句子结构**：Think about what I said, Ellie 是祈使句式的直接引语（无引号），内含 what I said 这个名词性从句作 think about 的宾语，Ellie 是呼语；Bunny types back 是主句；without posing a single question about the treacherous weather and flight 是介词短语作状语，修饰 types back。省略号跳过的是 Ellie 对母亲状态的想象以及 Bunny 中间那条 "The vow" 的消息；随后 A new bubble appears 是一个独立的短句，用来说明又一条消息弹出；Also, I meant what I said about Christmas 是第二条消息的内容，Also 是句首连接副词。
 
 **关键词**：
-- **without posing a single question**：连一个问题都没有问；Bunny完全忽略了航班延误和风暴的新闻——她只关心一件事：Ellie的婚姻
-- **I meant what I said about Christmas**：我是说真的，关于圣诞节的事；这是Bunny在ch06说过的——Ellie离婚后，圣诞节就不一样了；现在Bunny重申这个威胁
+- **types back**：回打（消息）；用 types 而不是 says，点明这是短信往来的场景
+- **without posing a single question**：连一个问题都没有问；这是对 Bunny 的沉默的定性——她跳过了所有寒暄
+- **the treacherous weather and flight**：险恶的天气和航班； treacherous 一词把 Ellie 刚经历的那场颠簸飞行定了性，也让母亲的"不问"更显眼
+- **A new bubble appears**：一个新的气泡出现；用消息界面的视觉元素做叙事节拍
+- **I meant what I said about Christmas**：关于圣诞节，我说的是认真的；meant 用过去式，指之前说过的话仍然算数
 
-**为什么这样写**：Bunny的短信在全书中是一个"持续的弦外之音"。她不关心风暴和航班——她只关心Ellie是否改变了离婚的决定。这个短信在Ellie即将与Jonah告别的时刻到来，强化了"家庭压力"的主题。
-
----
+**为什么这样写**：作者把 Bunny 的两条短信拆开，中间插进一个只有五个词的句子"A new bubble appears"——这个停顿让读者和 Ellie 一样，先读到那句不容商量的"Think about what I said"，再眼睁睁看着第二个气泡弹出来。全段的重点不在母亲说了什么狠话，而在她**没说什么**：without posing a single question about the treacherous weather and flight。女儿刚在鬼门关走了一趟，母亲的第一反应却是催促——这个对比由作者用一个状语从句轻轻带过，没有一句评价，却比任何指责都冷。
 
 ### ③
 

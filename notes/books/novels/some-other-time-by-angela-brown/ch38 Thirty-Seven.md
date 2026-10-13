@@ -75,20 +75,19 @@ status: completed
 
 ### ④
 
-> The message Ellie sends is brief. "Hey, Gabby. Hopefully you remember me! It's been a while, huh? Anyway, I thought of you the other day and wondered how you're doing." Ellie! What a weird coincidence, Gabby almost immediately replies. I was thinking about you the other day, too! This is so random, but I'm moving back to the area this summer. You'll never believe this, but I actually just bought the bookstore in town, the one where you used to work!
+> The message Ellie sends is brief. Hey, Gabby. Hopefully you remember me! It's been a while, huh? Anyway, I thought of you the other day and wondered how you're doing. … Ellie! What a weird coincidence, Gabby almost immediately replies. I was thinking about you the other day, too! This is so random, but I'm moving back to the area this summer. You'll never believe this, but I actually just bought the bookstore in town, the one where you used to work
 
-**中文理解**：Ellie发的消息很简短。"嘿，Gabby。希望你还记得我！好久不见了，对吧？总之，那天我想起了你，想知道你好不好。"Ellie！多巧啊，Gabby几乎立刻回复道。那天我也在想你！这太巧了，但我今年夏天要搬回这个地区了。你绝对不会相信，但我真的刚买下了镇上的书店，就是你以前工作过的那家！
+**中文理解**：Ellie发出的消息很简短。嘿，Gabby。希望你还记得我！好久不见了，对吧？总之，那天我想起了你，想知道你过得怎么样。……Ellie！多奇怪的一个巧合，Gabby几乎立刻回复道。那天我也在想你！这太巧了，但我今年夏天要搬回这个地区了。你绝对不会相信，我其实刚买下了镇上的那家书店，就是你以前工作过的那家。
 
-**句子结构**：The message Ellie sends 是主语；is brief 是谓语；Hey, Gabby 是直接引语；Ellie 是直接引语。
+**句子结构**：The message Ellie sends is brief 是主句，Ellie sends 是省略了 that 的定语从句；Hey, Gabby. / Hopefully you remember me! / It's been a while, huh? / Anyway, I thought of you the other day and wondered how you're doing. 是 Ellie 消息的连续短句；Ellie! 是 Gabby 回复的呼语；What a weird coincidence 是感叹句，Gabby almost immediately replies 是主句；I was thinking about you the other day, too! / This is so random, but I'm moving back to the area this summer. / You'll never believe this, but I actually just bought the bookstore in town, the one where you used to work 是 Gabby 回复的连续句，the one where you used to work 是同位语（内含 where 定语从句）。
 
 **关键词**：
-- **I actually just bought the bookstore in town, the one where you used to work**：我刚买下了镇上的书店，就是你以前工作过的那家；这是全章最重要的话：Gabby要买下书店——书店不会消失
-- **You'll never believe this**：你绝对不会相信；这是Angela Brown的"巧合"：Ellie和Gabby都在想着对方
-- **This is so random, but I'm moving back to the area this summer**：这太巧了，但我今年夏天要搬回这个地区了；这是Gabby的"回归"：Gabby要回来了
+- **The message Ellie sends is brief**：Ellie发出的消息很简短；开篇即交代消息的体裁与长度
+- **What a weird coincidence**：多奇怪的一个巧合；Gabby 对两人同时想起对方的反应
+- **I actually just bought the bookstore in town, the one where you used to work**：我其实刚买下了镇上的那家书店，就是你以前工作过的那家；全块的落点，把"巧合"落到具体的书店上
+- **the one where you used to work**：你以前工作过的那家；这个同位语把 Gabby 的归来与 Ellie 的过去连在一起
 
-**为什么这样写**：这是全章最有"连接感"的场景。Ellie和Gabby联系上了——Gabby要买下书店，Ellie可以和她一起工作。这是Angela Brown的"友谊"主题：友谊可以跨越时间和空间。
-
----
+**为什么这样写**：引语把两条消息并置：先给 Ellie 的短消息，再用省略号跳到 Gabby 几乎立刻的回复，中间省去的是等待与其余寒暄。两条消息都以"我也想起你"起头，形成呼应；而 Gabby 句末"买下书店"与"你以前工作过的那家"把这份巧合直接接到 Ellie 的过去上，为后续情节落下一根线。
 
 ### ⑤
 
@@ -110,20 +109,19 @@ status: completed
 
 ### ⑥
 
-> Ellie laughs, too. Do you know which one I mean? As if she could ever forget. "I do," she says. "Anyway, I don't know why that popped into my head." He flips up his hands. "Now and again, memories like that just sort of come back at random times, don't they?" Ellie nods. "All the time, actually." "Come on," Jonah says with a smirk. "Enough about the past." He takes her hand. When he does, it feels like home. He feels like home.
+> Ellie laughs, too. Do you know which one I mean? As if she could ever forget. "I do," she says. "Anyway, I don't know why that popped into my head." He flips up his hands. "Now and again, memories like that just sort of come back at random times, don't they?" Ellie nods. "All the time, actually." … Come on," Jonah says with a smirk. "Enough about the past." He takes her hand. When he does, it feels like home. He feels like home
 
-**中文理解**：Ellie也笑了。你知道我说的是哪一个吗？仿佛她可能忘记。"我知道，"她说。"总之，我不知道为什么它突然出现在我脑子里。"他摊开手。"有时候，这种记忆只是随机地回来，不是吗？"Ellie点点头。"实际上，一直都是。"来吧，"Jonah笑着说。"过去的事说够了。"他握住她的手。当他这样做时，感觉像家。他感觉像家。
+**中文理解**：Ellie也笑了。你知道我说的是哪一个吗？仿佛她可能忘记似的。"我知道，"她说。"总之，我不知道它为什么突然出现在我脑子里。"他摊开双手。"有时候，那样的记忆就是会随机地回来，不是吗？"Ellie点点头。"实际上，一直都是。"……"来吧，"Jonah带着一丝笑说。"过去的事说够了。"他握住她的手。当他这样做时，感觉像家。他感觉像家。
 
-**句子结构**："I do" 是直接引语；Anyway 是直接引语；He flips up 是主句；Come on 是直接引语；When he does 是时间状语从句。
+**句子结构**：Ellie laughs, too 是主句；Do you know which one I mean? 是疑问句；As if she could ever forget 是省略句；"I do," she says 与 "Anyway, I don't know why that popped into my head." 是直接引语＋主句；He flips up his hands 是主句；"Now and again, memories like that just sort of come back at random times, don't they?" 是直接引语（句尾带反义疑问）；Ellie nods 是主句；"All the time, actually." 是直接引语；Come on," Jonah says with a smirk 是直接引语＋主句；"Enough about the past." 是直接引语；He takes her hand 是主句；When he does 是时间状语从句，it feels like home 是主句；He feels like home 是并列短句。
 
 **关键词**：
-- **When he does, it feels like home. He feels like home**：当他这样做时，感觉像家。他感觉像家；这是全章最重要的话：Jonah是Ellie的"家"——这是Angela Brown的"家"主题
-- **memories like that just sort of come back at random times**：这种记忆只是随机地回来；这是"两个世界"的暗示：记忆不总是"逻辑的"
-- **Enough about the past**：过去的事说够了；这是Jonah的"现在"主题：他们不需要谈论"另一个世界"——他们只需要在一起
+- **memories like that just sort of come back at random times**：那样的记忆就是会随机地回来；Jonah 对记忆重现的说法
+- **"All the time, actually."**：实际上，一直都是；Ellie 的回答，暗示她也有同样的体验
+- **"Enough about the past."**：过去的事说够了；Jonah 把话题收回到现在
+- **He feels like home**：他感觉像家；全块落点，重复 home 把 Jonah 与"家"绑定
 
-**为什么这样写**：这是全章最有"确定感"的结尾。"He feels like home"是Angela Brown的"家"主题——Jonah是Ellie的"家"。这是全章的"高潮"：Ellie做出了她的选择，她准备好了迎接任何命运。
-
----
+**为什么这样写**：引语先把两人关于"记忆随机回来"的对话铺完（Ellie 的"我知道"与"一直都是"），再用省略号跳过中间，落到 Jonah 的"过去的事说够了"和握手的动作上。结尾用 it feels like home. He feels like home 的同词重复收束：把抽象的记忆话题落回一个具体的身体感觉，也让"家"这个主题在最末一句被点明。
 
 ### ⑦
 

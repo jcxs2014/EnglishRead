@@ -95,6 +95,11 @@ status: completed
 
 **句子结构**：Maybe divorce was the right choice for her 是直接引语；Mom 是呼语；Maybe she wasn't happy being married 是第二个并列句。
 
+
+**关键词**：
+- **the right choice**：把离婚定义为"选择"而非"失败"——这正是 Bunny 拒绝接受的框架
+- **happy being married**：把"婚姻"与"幸福"拆开。Ellie 的辩护逻辑是：婚姻本身可以是对的，身处其中的人仍可能不幸福
+
 **为什么这样写**：Ellie没有接受Bunny的逻辑。她质疑了"离婚=失败"的等式，提出"也许她婚后不幸福"的可能性。这是一个微妙但重要的立场——Ellie不赞成离婚，但她开始理解离婚背后的原因。这与她自己的处境（正在离婚）有关——她在为Shelia辩护，也是在为自己的选择辩护。
 
 ---

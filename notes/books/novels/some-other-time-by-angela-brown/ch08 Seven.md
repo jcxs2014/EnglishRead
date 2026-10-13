@@ -78,6 +78,11 @@ status: completed
 
 **句子结构**：Jesus, Jo 是呼语；Ellie blurts out 是主句；suddenly realizing what's going on 是现在分词短语作状语；Are you—are you having a panic attack? 是直接问句。
 
+
+**关键词**：
+- **blurts out**：脱口而出。不是"问"，是"漏出来"——说明 Ellie 的辨认先于她的措辞
+- **panic attack**：全书的角色反转点。一直被当作"掌舵者"的 Jonah，第一次被命名为那个失控的人
+
 **为什么这样写**：Ellie终于认出了Jonah的症状。这是全书（乃至全书）最意外的揭示：Jonah——这个在婚姻中一直是"掌舵者"的人——也会恐慌。而Ellie的反应是"天哪"而不是"你还好吗？"——这说明她也被吓到了。
 
 ---

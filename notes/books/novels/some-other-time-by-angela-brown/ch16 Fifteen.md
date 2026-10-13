@@ -44,37 +44,43 @@ status: completed
 
 ### ②
 
-> "Are you sure you want to drive us this morning?" Gabby wears what appears to be a thrift-store T-shirt, a pale-yellow reminiscent of faded butter, along with a denim skirt and chunky, mismatched earrings. "I—I I'm fine," Ellie stammers, which, of course, is a lie. In the kitchen, the coffee machine beeps. Frank shuffles down the hallway. "Frank!" Bunny coughs and starts to follow him. "I forgot to ask. When you walk back to the condo this morning to get more of your things, can you—" Frank turns, moves back toward them from the hallway. "Where did you say you're going this afternoon?" he asks, his words overlapping with hers.
+> "Are you sure you want to drive us this morning?" Gabby wears what appears to be a thrift-store T-shirt, a pale-yellow ringer with the words Ray of Sunshine stamped (perhaps ironically, perhaps not) across the chest, paired with baggy ripped jeans. She looks like a late-forties woman dressed in costume as an art student, except it's not a costume. It's just her. "Because I can walk back up the block to my apartment and get my car if—" "I—I'm fine," Ellie stammers, which, of course, is a lie. In the kitchen, the coffee machine beeps. Frank shuffles down the hallway. "Frank!" Bunny coughs and starts to follow him. "I forgot to ask. When you walk back to the condo this morning to get more of our things, make sure you pack up my VapoRub!" … Frank turns, moves back toward them from the hallway. "Where did you say you're going this afternoon?" he asks, his words slowly pouring out of him.
 
-**中文理解**："你确定今天早上要开车送我们吗？"Gabby穿着一件看起来像是旧货店买的T恤，一件让人想起褪色黄油的淡黄色T恤，还有一条牛仔裙和粗大的不配套耳环。"我——我——我很好，"Ellie结结巴巴地说，这，当然，是一个谎言。在厨房里，咖啡机发出哔哔声。Frank从走廊里蹒跚地走过来。"Frank！"Bunny咳嗽着，开始跟着他。"我忘了问了。当你今天早上走回公寓拿更多东西的时候，你能——"Frank转过身，从走廊里向他们走来。"你说你下午要去哪里？"他问道，他的话和Bunny的话重叠在一起。
+**中文理解**："你确定今天早上要开车送我们吗？"Gabby穿着一件看起来像是旧货店淘来的T恤——一件淡黄色的滚边T恤，胸前印着"Ray of Sunshine"（阳光）字样（也许是反讽，也许不是）——下身配一条宽松的破洞牛仔裤。她看起来像一个四十好几的女人扮成艺术系学生的样子，只不过这不是戏服。这就是她本人。"因为我可以沿着这条街走回我的公寓去取车，如果——""我——我没事，"Ellie结结巴巴地说，当然，这是谎话。厨房里，咖啡机发出提示音。Frank拖着脚步从走廊走过来。"Frank！"Bunny咳着，开始跟在他后面。"我忘了问。你今天早上走回公寓去拿我们更多东西的时候，记得帮我把我的VapoRub打包带上！"……Frank转过身，从走廊朝她们走回来。"你刚才说你今天下午要去哪儿？"他问道，他的话缓慢地从他嘴里流出来。
 
-**句子结构**：Are you sure you want to drive us this morning 是直接引语；In the kitchen, the coffee machine beeps 是并列句；Where did you say you're going this afternoon 是直接引语。
+**句子结构**：段首是直接引语加叙述。Gabby wears what appears to be a thrift-store T-shirt, a pale-yellow ringer with the words Ray of Sunshine stamped (perhaps ironically, perhaps not) across the chest, paired with baggy ripped jeans 中 what appears to be 引导宾语从句，with the words... stamped 是 with 复合结构作后置定语，paired with... 是过去分词短语。She looks like a late-forties woman dressed in costume as an art student, except it's not a costume. It's just her. 用 except 引导的转折加两个短句收束。随后是两组直接引语交替：Gabby 的 "Because I can walk back up the block to my apartment and get my car if—" 与 Ellie 的 "I—I'm fine," Ellie stammers, which, of course, is a lie 中 which 引导非限制性定语从句。In the kitchen, the coffee machine beeps. Frank shuffles down the hallway. 是两个短促的场景句。省略号之后回到 Frank 的动作与提问：Frank turns, moves back toward them from the hallway. "Where did you say you're going this afternoon?" he asks, his words slowly pouring out of him 中 his words slowly pouring out of him 是独立主格。
 
 **关键词**：
-- **a thrift-store T-shirt**：旧货店的T恤；Gabby的穿着风格——她是一个"艺术家"类型的人
-- **In the kitchen, the coffee machine beeps**：在厨房里，咖啡机发出哔哔声；这是"早晨"的正常声音——但Ellie不记得这一切
-- **his words overlapping with hers**：他的话和Bunny的话重叠在一起；这是"老年夫妇"的沟通方式——他们总是在说不同的事情
+- **a thrift-store T-shirt**：旧货店的T恤；Gabby这身装扮的定位
+- **a pale-yellow ringer**：淡黄色的滚边T恤；作者细看的那一件，而不是笼统的"淡黄色"
+- **Ray of Sunshine**：阳光；印在胸前的字样，作者特意加括号说明"也许反讽，也许不是"
+- **baggy ripped jeans**：宽松的破洞牛仔裤；与上衣一起构成"艺术系学生"的装扮
+- **dressed in costume as an art student**：扮成艺术系学生的样子；作者的比喻
+- **except it's not a costume. It's just her.**：只不过这不是戏服。这就是她本人。；两个短句的转折，点出Gabby的表里如一
+- **stammers**：结结巴巴地说；Ellie在这个场景里的状态
+- **his words slowly pouring out of him**：他的话缓慢地从他嘴里流出来；写Frank说话的迟缓
 
-**为什么这样写**：这是全章最有"家庭感"的场景。Gabby的出现和Frank/Bunny的互动形成了对比：一个是Ellie的"现在"，一个是她的"过去"。三个老人（Frank/Bunny/Gabby）都在用不同的方式"照顾"Ellie——而Ellie不记得任何一个人。
-
----
+**为什么这样写**：这一段把三个人放进同一个早晨的厨房与走廊里，却让每个人各说各的。Gabby的衣着被作者用一整句"细看"钉住——从 ringer、胸前的字，到 baggy ripped jeans——然后用"这不是戏服，这就是她本人"把这身打扮从"造型"翻转成"人格"：她不是刻意扮演艺术系学生，她就是这个样子。Ellie的一句"I—I'm fine"被作者立刻标注为谎话（which, of course, is a lie），一句话就交代了她在这个她认不出的家庭场景里的位置。省略号跳过的是Bunny关于VapoRub、要找Father Donovan、以及要人把她的阅读椅搬过来的那一长段絮叨，剪掉之后，镜头从Bunny的连珠炮直接落到Frank的追问上，而结尾"his words slowly pouring out of him"用"缓慢流出"写这个老人的迟钝，恰好与Bunny的急形成对照。
 
 ### ③
 
-> Back in her twenties, after her short stint working at the art book publisher in the city, Ellie moved into her own apartment. She and Gabby met when Gabby came to view the apartment as a potential sublet. Jack had been the one to suggest that Ellie put an ad for a sublet on Craigslist, which came as a disappointment. Deep down, Ellie had hoped the ad would attract someone quiet and private. Instead, it brought Gabby, who grew up several towns away, who had initially seemed normal—a touch artsy, though that wasn't bad—as they nibbled store-bought cookies and discussed the details of the lease.
+> Back in her twenties, after her short stint working at the art book publisher in the city, Ellie moved into her own apartment in town. She worked at the bookstore full-time, which it turned out she enjoyed. She liked to be surrounded by stories, to make recommendations, to unpack new books and neatly arrange all their spines in clean lines on the shelves. Even so, she couldn't deny it was not the most lucrative gig. Jack had been the one to suggest that Ellie put an ad for a sublet on Craigslist, which came as a disappointment. Deep down, she'd hoped Jack, who lived alone in an apartment funded by his parents while he worked to complete his medical residency, might ask her to move in with him. … The day Gabby came to view the apartment, Ellie had put out a platter of store-bought cookies, which she could hardly afford, on her IKEA coffee table. She'd hated having roommates in college and did not look forward to living with a stranger again. She wanted this Gabby person to know Ellie's apartment was a cozy, undebauched, grown-up space. Gabby, who grew up several towns away, had initially seemed normal—a touch artsy, though that wasn't bad—as they nibbled cookies and viewed the closet-size second bedroom Ellie had advertised.
 
-**中文理解**：在她二十几岁的时候，在城里短暂地为一家艺术书籍出版社工作后，Ellie搬进了她自己的公寓。她和Gabby是在Gabby来查看公寓作为可能的转租时认识的。Jack是建议Ellie在Craigslist上发布转租广告的人，这让人失望。内心深处，Ellie曾希望广告能吸引一个安静、私密的人。相反，它带来了Gabby——在好几个镇外长大的，曾几何时看起来很正常的——当他们一边吃着商店买的饼干、一边讨论租约细节时。
+**中文理解**：二十几岁的时候，在城里那家艺术书出版社短暂工作过之后，Ellie搬进了镇上她自己的公寓。她在书店做全职，结果她很喜欢这份工作。她喜欢被故事包围，喜欢给人推荐，喜欢拆开新书、把书脊整整齐齐地排成一条条干净的直线摆在架上。即便如此，她也无法否认这不是最赚钱的活计。是Jack建议Ellie在Craigslist上登一则转租广告的，这让她失望。内心深处，她本希望Jack——那个靠父母资助独居公寓、同时努力完成住院医师培训的人——会开口让她搬去和他同住。……Gabby来看房的那天，Ellie在她那张IKEA咖啡桌上摆了一盘商店买来的饼干，那是她几乎负担不起的。她大学时就不喜欢有室友，也不期待再和一个陌生人同住。她想让这个叫Gabby的人知道，Ellie的公寓是一个舒适、不堕落的、成年人该有的空间。Gabby是在好几个镇外长大的，起初看上去挺正常——有点文艺，不过那倒不坏——她们一边啃着饼干，一边看了Ellie登出广告的那间只有衣柜大小的次卧。
 
-**句子结构**：Back in her twenties 是时间状语；She and Gabby met 是主句；which came as a disappointment 是非限制性定语从句。
+**句子结构**：全段以一般过去时的连续叙述推进。Back in her twenties, after her short stint working at the art book publisher in the city 是两个时间状语前置，Ellie moved into her own apartment in town 是主句。She worked at the bookstore full-time, which it turned out she enjoyed 中 which 引导非限制性定语从句，it turned out 是插入语。She liked to be surrounded by stories, to make recommendations, to unpack new books and neatly arrange all their spines in clean lines on the shelves 用三个并列的不定式铺开她的喜好。Even so 引导让步转折。Jack had been the one to suggest that... 是过去完成时，that 引导宾语从句，which came as a disappointment 是非限制性定语从句。Deep down, she'd hoped Jack, who lived alone in an apartment funded by his parents while he worked to complete his medical residency, might ask her to move in with him 中 who... 是非限制性定语从句（内含 while 引导的时间状语从句），might ask 是 hoped 后面的宾语从句谓语。省略号之后另起一层：The day Gabby came to view the apartment 是时间状语从句；Ellie had put out a platter of store-bought cookies, which she could hardly afford, on her IKEA coffee table 中 which... 是非限制性定语从句。She'd hated having roommates in college and did not look forward to living with a stranger again 是并列谓语。She wanted this Gabby person to know Ellie's apartment was a cozy, undebauched, grown-up space 中 know 后是省略 that 的宾语从句。末句 Gabby, who grew up several towns away, had initially seemed normal—a touch artsy, though that wasn't bad—as they nibbled cookies and viewed the closet-size second bedroom Ellie had advertised 中 who... 是非限制性定语从句，一对破折号插入 a touch artsy, though that wasn't bad，as 引导时间状语从句，Ellie had advertised 是省略 that 的定语从句修饰 the second bedroom。
 
 **关键词**：
-- **Jack had been the one to suggest**：Jack是那个建议的人；Jack再次出现——他是Ellie的ex，也是她人生中的一个重要人物
-- **a touch artsy**：有点艺术气质；这是Gabby的"定义"——她是一个"艺术型"的人
-- **store-bought cookies**：商店买的饼干；这是Ellie的"拮据"——她买不起自制的饼干
+- **her short stint**：她短暂的一段工作；写Ellie在艺术书出版社只待了不长时间
+- **to unpack new books and neatly arrange all their spines in clean lines**：拆开新书、把书脊排成干净的直线；具体写出她喜欢这份工作的什么
+- **the most lucrative gig**：最赚钱的活计；她自己承认这份工作不赚钱
+- **an ad for a sublet on Craigslist**：Craigslist上的转租广告；Jack的建议，也是她的失望所在
+- **a platter of store-bought cookies, which she could hardly afford**：一盘商店买来的、她几乎负担不起的饼干
+- **a cozy, undebauched, grown-up space**：一个舒适、不堕落、成年人该有的空间
+- **a touch artsy**：有点文艺；她对Gabby的第一印象
+- **the closet-size second bedroom**：衣柜大小的次卧；她登广告出租的那间房
 
-**为什么这样写**：这是全章最有"回忆感"的段落。Ellie在回忆她是如何认识Gabby的——而Jack也在这个故事里。"Jack建议Ellie发广告"和"Ellie希望找到一个安静、私密的人"形成了对比：她找到了Gabby，一个"有点艺术气质"的人，而不是她想要的类型。但她们仍然是朋友。
-
----
+**为什么这样写**：这一段是Ellie对自己二十几岁那段生活的复盘，落点却在"她想要什么"与"她实际得到什么"的落差上。作者先写她真心喜欢书店的工作——被故事包围、给人推荐、把书脊排成干净的直线——紧接着用"即便如此，这也不是最赚钱的活计"把理想拉回现实；再写Jack建议她登转租广告，而"这让她失望"，因为她的期待本是Jack开口让她搬去同住。省略号跳过的是她对这份期待的自我否定（"不切实际的幻想"）、两人交往时间之短、父母尤其母亲会有的反应，以及"他们终究没能走到那一步"；跳过之后，叙述直接落到Gabby来看房的那一天。后半段用一盘"她几乎负担不起"的饼干和一句"舒适、不堕落、成年人该有的空间"写出她的窘迫与自尊：她要向一个陌生人证明自己过的是成年人的生活。结尾把Gabby的"正常、有点文艺"和"一边啃饼干一边看那间衣柜大小的次卧"并置，为两人此后长久的关系留下一个并不浪漫的开场。
 
 ### ④
 

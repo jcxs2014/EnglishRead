@@ -111,6 +111,11 @@ status: completed
 
 **句子结构**：简单的主谓宾结构。We’re almost there. 是 Jonah 说的话，但这句在 ch01 的 Prologue 里出现过——"We're almost there"是 Ellie 每次飞行降落时 Jonah 安慰她的话。
 
+
+**关键词**：
+- **almost there**：既是字面上的"快到了"（飞机降落），也是隐喻上的"接近某处"——二十年前指向共同生活的开始，二十年后指向它可能的终点
+- **We're**：复数主语。这句安慰话的全部力量来自"我们"，而此刻两人正在离婚的路上，这个词已成空壳
+
 **为什么这样写**：这句话是一个"回归"——它呼应了 Prologue 里两人初遇时 Jon 的那句"We're almost there"（"Almost there, almost there"）。同样的五字台词，二十年后含义已完全不同：当年是初见的热情，现在是疲惫婚姻中的机械安慰。这种语言的重复使用是全书的叙事手法之一。
 
 ---
@@ -133,19 +138,19 @@ status: completed
 
 ### ⑧
 
-> A memory. One of their first trips down with Maggie. She was a toddler—two or maybe two and a half—her pale, chubby thighs exposed from the bottom of that adorable pink dress and kicking around in all directions like a puppet as they wheeled her stroller up and into that same glass-enclosed train. "I'm really happy," he said, his face—more than fifteen years younger then—a wash of raw emotion, his eyes misty. "Just really, really happy."
+> A memory. One of their first trips down with Maggie. She was a toddler—two or maybe two and a half—her pale, chubby thighs exposed from the bottom of that adorable pink dress and kicking around in all directions like a puppet as they wheeled her stroller up and into that same glass-enclosed train. … I'm really happy," he said, his face—more than fifteen years younger then—a wash of raw emotion, his eyes misty. "Just really, really happy
 
-**中文理解**：一段回忆。他们带 Maggie 第一次南下的旅行。她还是个学步幼儿——两岁，或许两岁半——粉色连衣裙下露出她白嫩的小粗腿，像提线木偶一样四处乱踢，他们推着婴儿车上了同一辆玻璃封闭的单轨列车。"我真的好幸福，"他说——那张脸比现在年轻十五岁以上——泪水模糊了双眼。"真的，真的，好幸福。"
+**中文理解**：一段回忆。他们带 Maggie 第一次南下的旅行之一。她还是个学步幼儿——两岁，或许两岁半——粉色连衣裙下露出她白嫩的小粗腿，像提线木偶一样四处乱踢，他们推着婴儿车上了同一辆玻璃封闭的列车。……"我真的好幸福，"他说——那张脸比现在年轻十五岁以上——满是被情感冲刷过的痕迹，双眼湿漉漉的。"真的，真的，好幸福。"
 
-**句子结构**：A memory 是全段的起始（独立名词句）；One of their first trips down with Maggie 是 memory 的同位语；She was a toddler... 是 memories 的内容；破折号间的细节（two or maybe two and a half）是补充；"I'm really happy," he said... 是直接引语；his face—a wash of raw emotion—是伴随状语。
+**句子结构**：A memory 是独立名词句，起提示作用；One of their first trips down with Maggie 是 memory 的同位语，把它具体化为"第一次南下的旅行之一"；She was a toddler 引出回忆主体，两个破折号之间的 two or maybe two and a half 是 toddler 的补充说明；her pale, chubby thighs exposed... 是独立主格，后面的 and kicking around... 与 exposed 并列；like a puppet 是方式状语；as they wheeled her stroller up and into that same glass-enclosed train 是时间状语从句。省略号跳过的是他们这趟旅行的目的地与途中细节，随后 "I'm really happy," he said 转入直接引语，his face—more than fifteen years younger then—a wash of raw emotion 是独立主格作伴随描写，his eyes misty 与之并列；最后 "Just really, really happy 是同一句话的后半截。
 
 **关键词**：
-- **I'm really happy**：这是回忆中的 Jon 说的话——而现实中他们正走向"贝克一家"的迎接牌。这句台词是全章最有力的情感标记：二十年前 Jon 是这样真诚地表达幸福的
-- **Just really, really happy**：两次"really"是加强语气，强调 Jon 的幸福感是纯粹的、毫无保留的；这个细节与现实中 Ellie 的"How have they arrived here?"形成对照
+- **A memory**：一段回忆；仅两个词就完成场景切换，没有"她想起"之类的过渡动词
+- **that same glass-enclosed train**：同一辆玻璃封闭的列车；same 把这段十五年前的回忆与眼下正乘坐的列车钉在同一处
+- **a wash of raw emotion**：被情感冲刷过的一片；把表情写成"被水漫过"的质地，与下文的 eyes misty 呼应
+- **Just really, really happy**：重复的 really 是口语里的加强，情绪到顶点反而说不出别的话
 
-**为什么这样写**：这段回忆打断了当前的叙事——作者用这一闪回（flashback）告诉读者：这对夫妻曾经有过如此纯粹的幸福时刻。而现在，"How have they arrived here?"——他们是怎么走到现在这种"熟悉却陌生"的状态的？作者用单轨列车（和 ch02 现在的单轨列车）作为视觉上的"连接"，暗示 Maggie 的成长与他们的婚姻衰落是同步的。
-
----
+**为什么这样写**：这段回忆嵌在现在时的旅程中间——上一刻 Ellie 还在看那个扮 Elsa 的小女孩，下一刻就被"一段回忆"拉走。作者用 that same glass-enclosed train 把两个时间点叠在同一辆列车上，让读者自己看出：同一个车厢里，当年是推着婴儿车的年轻父母，如今是去接成年女儿的中年夫妻。回忆被省略号截断，跳过的是"为什么去佛州"这类交代性内容，直接落在 Jonah 那句"I'm really happy"上——作者要保留的只有情绪本身，而不是旅行的来龙去脉。这段越是纯粹，与现实中两人的沉默就越刺眼。
 
 ### ⑨
 

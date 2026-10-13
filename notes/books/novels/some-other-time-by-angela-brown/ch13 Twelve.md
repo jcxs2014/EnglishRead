@@ -75,20 +75,20 @@ status: completed
 
 ### ④
 
-> Ellie had been so taken aback by Jonah. He was handsome and kind and gentle and warm and humble and apologetic and polite. He was every good adjective. From the second they sat, he made Ellie laugh over practically nothing. When Ellie asked him about where he'd been heading at the time he crashed into her car, he vaguely said he'd been on his way to meet a friend, but there'd been a detour. And wasn't that true for her, too? When Jack had called her night before and said he had something important for them to discuss, she foolishly thought he might propose.
+> Ellie had been so taken aback by Jonah. He was handsome and kind and gentle and warm and humble and apologetic and polite. He was every good adjective. From the second they sat, he made Ellie laugh over practically nothing. When Ellie asked him about where he'd been heading at the time he crashed into her car, he vaguely said he'd been on his way to meet a friend, but there'd been a detour. And wasn't that true for her, too? When Jack had called her the night before and said he had something important for them to discuss, she foolishly thought he might propose.
 
-**中文理解**：Ellie完全被Jonah迷住了。他英俊、善良、温柔、热情、谦逊、道歉连连、礼貌周到。他是所有美好形容词的集合。从他们坐下的那一刻起，他就让Ellie因为几乎任何事情大笑。当Ellie问他当天开车要去哪里时，他含糊地说他要去见一个朋友，但路上有耽搁。而她不也是这样的吗？当Jack前一天晚上打电话说有事要和她讨论时，她愚蠢地以为他可能要求婚。
+**中文理解**：Ellie被Jonah弄得十分意外。他英俊、善良、温柔、热情、谦逊、满怀歉意、彬彬有礼。他集所有褒义形容词于一身。从他们坐下的那一刻起，他就能让Ellie为几乎没什么可笑的事发笑。当Ellie问他撞上她的车时正要去哪儿，他含糊地说自己正要去见一个朋友，只是中途绕了路。而这对她来说不也一样吗？Jack前一晚打电话给她，说有事要和她谈，她还傻傻地以为他可能要向她求婚。
 
-**句子结构**：Ellie had been so taken aback by Jonah 是主句；He was handsome and kind and gentle... 是并列句；When Ellie asked him 是时间状语从句。
+**句子结构**：Ellie had been so taken aback by Jonah 是主句，用过去完成时加 so...by 结构；He was handsome and kind and gentle and warm and humble and apologetic and polite 是七个形容词并列作表语；He was every good adjective 是短句总收；From the second they sat 是时间状语，he made Ellie laugh over practically nothing 是"make + 宾语 + 动词原形"结构；When Ellie asked him about where he'd been heading at the time he crashed into her car 是时间状语从句，其中 where he'd been heading 是 about 的宾语从句、at the time he crashed into her car 是时间定语；he vaguely said 后接 he'd been on his way to meet a friend, but there'd been a detour 作宾语从句；And wasn't that true for her, too? 是反问句；When Jack had called her the night before and said he had something important for them to discuss 是时间状语从句，含 called 与 said 两个并列谓语、said 后接宾语从句；she foolishly thought he might propose 是主句，might propose 是 thought 的宾语从句。
 
 **关键词**：
-- **He was every good adjective**：他是所有美好形容词的集合；这是Ellie对Jonah的"定义"——她用形容词来描述他，这是她（书商）的职业习惯
-- **there'd been a detour**：路上有耽搁；这个细节是双关：①Jonah说他有耽搁（所以撞了Ellie的车）②Ellie的人生也有"耽搁"（Jack→Jonah）
-- **a detour**：耽搁，绕道；这个细节是全章最重要的"回忆"——Ellie在回忆她是如何爱上Jonah的
+- **taken aback**：措手不及、吃了一惊；写Ellie对Jonah的第一反应，落点是"意外"而非"心动"
+- **every good adjective**：所有褒义形容词；把前面七个并列形容词收成一句总评
+- **there'd been a detour**：绕了路；Jonah对自己当时去向的含糊解释
+- **the night before**：前一晚；点出时间关系——Jack的电话在撞车之前
+- **foolishly**：傻傻地；写Ellie当时对Jack那通电话的误判
 
-**为什么这样写**：这是全章最有"元叙事"感的段落。Ellie在反思"她是如何爱上Jonah的"——而现在他"不记得她了"。Jack的"求婚"细节与Jack和Ellie的关系（ch11）形成了呼应：Jack当时要和Ellie"讨论"的事情是"分手"，而不是"求婚"。
-
----
+**为什么这样写**：这一段是Ellie的回忆，作者先用一串褒义形容词把Jonah"立"起来，再用 he made Ellie laugh over practically nothing 落到具体行为上，不让评价停在抽象层面。随后用 but there'd been a detour 轻轻带过Jonah当时的去向——他"含糊"（vaguely）的回答，是这段回忆里唯一不透明的地方。最后把两条线并置：她误以为Jack要向她求婚，结果不是；而她自己真正"绕路"之后遇到的人却是Jonah。反问句 And wasn't that true for her, too? 把 detour 从Jonah的行车路线转成Ellie自己的人生，紧接着原文便以独立成句的 A detour. 承接，再接 It didn't take long for Ellie to forget about Jack.，让这个比喻落地。
 
 ### ⑤
 

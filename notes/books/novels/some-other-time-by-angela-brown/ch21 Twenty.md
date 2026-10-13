@@ -125,20 +125,19 @@ status: completed
 
 ### ⑦
 
-> Through the window, Ellie sees the light in the spring sky starting to shift. The bright blue of the afternoon is becoming brushed with yellow and orange streaks. Another day in Ellie's present life is preparing itself to end. She looks away, not wanting to think about this fact, and resumes doodling on her scrap sheet. "Ellie? Yoo-hoo! Earth to Ellie! Did you hear me?" Gabby asks, though Ellie hardly registers her question. "I said I'm going to walk. I don't want to third-wheel whatever it is that you've got going on here," she adds and, like a misplaced hitchhiker, points her thumb toward the back, where Jack is still on the phone. "I'll see you tomorrow?"
+> "Ellie? Yoo-hoo! Earth to Ellie! Did you hear me?" Gabby asks, though Ellie hardly registers her question. "I said I'm going to walk. I don't want to third-wheel whatever it is that you've got going on here," she adds and, like a misplaced hitchhiker, points her thumb toward the back, where Jack is still on the phone. "I'll see you tomorrow?"
 
 **中文理解**："Ellie？喂喂！地球呼叫Ellie！你听到我了吗？"Gabby问道，尽管Ellie几乎没有注意到她的问题。"我说我要走了。我不想当电灯泡，不管你和那边那个有什么事，"她补充道，像一个搭错车的人一样，用拇指指向后面，Jack还在那里打电话。"我明天见你？"
 
-**句子结构**："Ellie? Yoo-hoo! Earth to Ellie! 是直接引语；She adds 是并列句；I'll see you tomorrow 是直接引语。
+**句子结构**："Ellie? Yoo-hoo! Earth to Ellie! Did you hear me?" 是直接引语；Gabby asks 是主句，though Ellie hardly registers her question 是让步状语从句；"I said I'm going to walk. I don't want to third-wheel whatever it is that you've got going on here," 是直接引语，she adds 是主句，and, like a misplaced hitchhiker, points her thumb toward the back 是并列谓语，where Jack is still on the phone 是定语从句；"I'll see you tomorrow?" 是直接引语。
 
 **关键词**：
-- **I don't want to third-wheel whatever it is that you've got going on here**：我不想当电灯泡，不管你和那边那个有什么事；这是Gabby的"洞察"：她知道Jack对Ellie有意思
-- **like a misplaced hitchhiker**：像一个搭错车的人；这是Angela Brown的比喻：Gabby总是"不合适"地出现在某些地方
-- **I'll see you tomorrow?**：我明天见你？；这是Gabby的"告别"：她给了Ellie一个暗示
+- **third-wheel**：当电灯泡；Gabby 用这个词自嘲，指她不愿夹在 Ellie 和 Jack 之间
+- **like a misplaced hitchhiker**：像一个搭错车的人；这个比喻既写她用拇指指向后面的动作，也写她在此处的"不合适"
+- **points her thumb toward the back, where Jack is still on the phone**：用拇指指向后面，Jack还在那里打电话；点出 Jack 的在场与分心
+- **"I'll see you tomorrow?"**：我明天见你？；疑问语气是 Gabby 的告别与试探
 
-**为什么这样写**：这是全章最有"女性友谊"感的场景。Gabby知道Jack对Ellie有意思——她的"third-wheel"评论是双关语：一方面指Jack和Ellie的"约会"，另一方面暗示Ellie不应该"插足"别人的婚姻（因为Gabby知道Ellie已婚）。
-
----
+**为什么这样写**：这一段只保留 Gabby 与 Ellie 的对话和动作，去掉了开头窗外的景物描写（那部分已由上一块承担）。"third-wheel"与"misplaced hitchhiker"写 Gabby 的直率与戏剧化，而结尾 "I'll see you tomorrow?" 的疑问语气留下一个未定的小悬念，把场景交还给 Ellie。
 
 ### ⑧
 

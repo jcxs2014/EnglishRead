@@ -39,20 +39,19 @@ status: completed
 
 ### ②
 
-> Bunny pulls her bathrobe tighter around her aging body. She tilts her head, briefly considering what she'd like to say next. "We're fine, sweetie," she tells her daughter. "Our life here is everything we've always wanted," she says and then gently touches her cross necklace. "Except for one thing." "What?" "I miss you terribly," she admits.
+> Bunny pulls her bathrobe tighter around her aging body. She tilts her head, briefly considering what she'd like to say next. "We're fine, sweetie," she tells her daughter. "Our life here is everything we've always wanted," she says and then gently touches her cross necklace. "Except for one thing." "What's that?" Ellie hesitantly asks, not entirely sure she wants to know. Bunny locks eyes with her daughter. "I miss you terribly," she admits.
 
-**中文理解**：Bunny把她的浴袍在身上裹紧了一点。她歪着头，简短地考虑着她接下来想说什么。"我们很好，宝贝，"她告诉她女儿。"我们这里的生活一直是我们想要的，"她说着，然后轻轻触碰她的十字架项链。"除了一个问题。""什么？""我非常想念你，"她坦白道。
+**中文理解**：Bunny把浴袍裹紧在她日渐衰老的身体上。她歪着头，短暂地想了想接下来要说什么。"我们很好，亲爱的，"她对女儿说。"我们这里的生活就是我们一直想要的一切，"她说着，轻轻碰了碰她的十字架项链。"除了一件事。""什么事？"Ellie迟疑地问，并不完全确定自己想知道答案。Bunny直视着女儿的眼睛。"我非常想你，"她承认道。
 
-**句子结构**："We're fine, sweetie" 是直接引语；Bunny pulls 是主句；Our life here 是直接引语；What 是直接引语；I miss you terribly 是直接引语。
+**句子结构**：Bunny pulls her bathrobe tighter around her aging body 是主句；She tilts her head, briefly considering what she'd like to say next 是并列句＋现在分词状语；"We're fine, sweetie," she tells her daughter 是直接引语＋主句；"Our life here is everything we've always wanted," she says and then gently touches her cross necklace 是直接引语＋主句＋并列谓语；"Except for one thing." 是直接引语；"What's that?" Ellie hesitantly asks 是直接引语＋主句，not entirely sure she wants to know 是形容词短语作状语；Bunny locks eyes with her daughter 是主句；"I miss you terribly," she admits 是直接引语＋主句。
 
 **关键词**：
-- **Our life here is everything we've always wanted**：我们这里的生活一直是我们想要的；这是Bunny的"满足"：她和Frank在Florida很幸福
-- **Except for one thing. I miss you terribly**：除了一个问题。我非常想念你；这是全章最重要的话：尽管Bunny很幸福，但她想念Ellie
-- **gently touches her cross necklace**：轻轻触碰她的十字架项链；这是Bunny的"信仰"：她用信仰来安慰自己
+- **gently touches her cross necklace**：轻轻碰了碰她的十字架项链；这个动作出现在她说"除了一件事"之前，暗示接下来是最重的话
+- **"Except for one thing."**：除了一件事；短句转折，把"一切都好"翻出一个缺口
+- **Bunny locks eyes with her daughter**：Bunny直视着女儿的眼睛；这个动作与下一句的坦白连在一起
+- **"I miss you terribly," she admits**：我非常想你，她承认道；admit 点出这句话对她并不容易说出口
 
-**为什么这样写**：这是全章最有"母女情深"感的对话。Bunny的"I miss you terribly"是全章最重要的话——尽管她和Frank在Florida很幸福，但她想念她的女儿。这是Angela Brown的"母亲"主题：母亲总是想念她的孩子。
-
----
+**为什么这样写**：引语完整保留了原文的对话链与两句叙述（"What's that?" 的追问与 Bunny 直视女儿的动作），不用省略号切断，是因为正是这两处把"我们很好"与"我非常想你"之间的转折撑起来：先铺满"一切都好"，再用一个短句和一个直视的动作，落到母亲最难说出口的坦白。
 
 ### ③
 

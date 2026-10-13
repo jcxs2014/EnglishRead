@@ -28,6 +28,11 @@ status: completed
 
 **句子结构**：极简的陈述句。"We're getting divorced"是 Ellie 和 Jon 事先准备好的台词（"their sad, poorly crafted script"）——这句话是全章的核心事件，是 Prologue 里"二十年后"的真相揭示。
 
+
+**关键词**：
+- **getting divorced**：进行时态。不是"已经离婚"，而是"正在办离婚"——这个时态保留了全部未完成的可能性，也把整本书的时间框架钉在"过程"而非"结果"上
+- **We're**：复数主语。离婚是两个人的动作，而全书恰恰在追问：这个"我们"里，有多少是 Ellie 自己决定的
+
 **为什么这样写**：开篇第一个句子就是"We're getting divorced"——没有铺垫，没有背景介绍，直接宣布。这是极简主义的叙事手法：读者和 Ellie 的父母一样，被直接扔进这个时刻的震惊里。Prologue 揭示了相遇的真相（accident），ch04 揭示了婚姻的结局（divorce）——倒叙结构完成闭环。
 
 ---

@@ -39,19 +39,21 @@ status: completed
 
 ### ②
 
-> Divorce, Ellie recognizes, is strange. For years, you are intimately connected to a person—sharing everything from your medical history to your toilet to your groceries—and then one day you just drive away, even though in all reality only one of you likely knows how to get to the next place you're going, and the other person is the the only one who remembered to fill the car with gas.
+> Divorce, Ellie recognizes, is strange. For years, you are intimately connected to a person—sharing everything from your medical history to your toilet to your groceries—and then one day you just drive away, even though in all reality only one of you likely knows how to get to the next place you're going, and the other person is the only one who remembered to fill the car with gas.
 
-**中文理解**：Ellie认识到，离婚是奇怪的。多年来，你与一个人有着亲密的联系——分享从你的医疗记录到你的厕所再到你的杂货的一切——然后某一天你就这样开走了，尽管在现实中，你们中只有一个人可能知道如何到达你要去的下一个地方，而另一个人是唯一一个记得给车加油的人。
+**中文理解**：Ellie 认识到，离婚是件奇怪的事。多年来，你和一个人亲密相连——从病历到马桶到买菜的清单，什么都共享——然后某一天你就这么开车走了，尽管在现实中，你们俩大概只有一个人知道该怎么去你要去的下一个地方，而另一个人则是那个唯一记得把车加满油的人。
 
-**句子结构**：Divorce, Ellie recognizes, is strange 是主语从句；For years, you are intimately connected to a person 是并列句；sharing everything... 是现在分词短语；and then one day you just drive away 是并列句。
+**句子结构**：Divorce, Ellie recognizes, is strange 是主句，Ellie recognizes 是插入语（主语与谓语之间），去掉后仍是 Divorce is strange。接着人称从第三人称的 Ellie 换成泛指的 you，For years, you are intimately connected to a person 是陈述背景的分句；两个破折号之间的 sharing everything from... to... to... 是现在分词短语作补充说明，用 from A to B to C 的排比列出共享的内容；and then one day you just drive away 与之并列，构成"多年……然后某天……"的转折；even though 引导让步状语从句，从句内部又用 only one of you... and the other person... 两个并列分句把两个人拆开对照。
 
 **关键词**：
-- **sharing everything from your medical history to your toilet to your groceries**：分享从你的医疗记录到你的厕所再到你的杂货的一切；这个列表是"婚姻"的定义——它不是"浪漫"，它是"日常生活的细节"
-- **the only one who remembered to fill the car with gas**：唯一一个记得给车加油的人；这个细节是"谁在照顾谁"的隐喻——在婚姻中，总有一个人在"记得"
+- **is strange**：是奇怪的；不是"痛苦"也不是"错误"，作者给离婚选的形容词是"奇怪"
+- **intimately connected**：亲密地相连；这个正式的说法下面紧接着的却全是生活杂物
+- **from your medical history to your toilet to your groceries**：从病历到马桶到买菜的清单；三个名词按私密程度排列，最后一个 groceries 把浪漫彻底拉回日常
+- **you just drive away**：你就这么开车走了；just 这个词把一件人生大事说得像一次随手的离开
+- **only one of you likely knows how to get to the next place**：你们中大概只有一个人知道怎么去下一个地方；把"分开"具体成"认不认路"
+- **the only one who remembered to fill the car with gas**：唯一记得给车加满油的那个人；remembered 是过去式，暗示这份"记得"属于过去的那段婚姻
 
-**为什么这样写**：这段是全章最重要的"离婚反思"。Ellie用具体的细节（医疗记录、厕所、杂货、加油）来描述"婚姻的亲密"。这些不是"浪漫"的细节，但它们是"真正的亲密"。
-
----
+**为什么这样写**：作者用了一个贯穿全句的"开车"隐喻来写离婚：两个人同坐一辆车多年，最后一个人开车走了，而分工还留在原处——一个认路，一个记得加油。妙处在于全句没有出现任何情绪词，只有病历、马桶、杂货、油表这些实物；把一段婚姻的亲密全部落在"谁知道路、谁记得加油"上，比直接写"他们曾经相爱"更让人难受。前面 Bunny 刚在念她给丈夫列的清单（几点吃药、洗衣机怎么用），紧接着就是这段——作者不点破，只让读者自己把母亲的清单和这段关于"记得"的话对上。句子最后落在 the other person is the only one who remembered，用一个"唯一"收尾，把婚姻里那种不对等的照顾写成了事实陈述。
 
 ### ③
 

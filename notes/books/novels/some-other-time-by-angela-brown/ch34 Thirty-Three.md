@@ -22,20 +22,19 @@ status: completed
 
 ### ①
 
-> "Are you all right?" he asks, a trace of concern evident in his voice. All around them, the world is white noise. The sound of air rushing past. The low murmur of voices. The gentle hum of electronic parts. "You never sleep on flights," he points out.
+> "Are you all right?" he asks, a trace of concern evident in his voice. All around them, the world is white noise. The sound of air rushing past. The low murmur of voices. The gentle hum of electronic parts. Ellie rubs her eyes, taking it in. "You never sleep on flights," he points out.
 
-**中文理解**："你还好吗？"他问道，声音中明显带着一丝关切。他们周围的世界是白噪音。空气快速通过的声音。低沉的喃喃说话声。电子部件轻柔的嗡嗡声。"你从不在飞机上睡觉，"他指出。
+**中文理解**："你还好吗？"他问道，声音里透着一丝关切。他们四周，世界是一片白噪音。空气掠过的声音。低低的说话声。电子部件轻柔的嗡鸣。Ellie揉揉眼睛，把这一切收进眼底。"你在飞机上从来不睡，"他指出。
 
-**句子结构**："Are you all right" 是直接引语；he asks 是主句；All around them 是独立句；You never sleep 是直接引语。
+**句子结构**：首句是引语加叙述句——"Are you all right?" 是直接引语，he asks 是主句，a trace of concern evident in his voice 是独立主格作伴随状语；All around them, the world is white noise 是主句；The sound of air rushing past. / The low murmur of voices. / The gentle hum of electronic parts. 是三个名词短语独立成句、构成排比；Ellie rubs her eyes, taking it in 中 taking it in 是现在分词作伴随状语；末句同样先引语后叙述，"You never sleep on flights," he points out，叙述部分 points out 后置。
 
 **关键词**：
-- **All around them, the world is white noise**：他们周围的世界是白噪音；这是Angela Brown的"飞机"氛围：飞机是一个"白噪音"的地方
-- **You never sleep on flights**：你从不在飞机上睡觉；这是Jonah的"观察"：他了解Ellie的习惯
-- **a trace of concern evident in his voice**：声音中明显带着一丝关切；这是Jonah的"关心"：他担心Ellie
+- **a trace of concern evident in his voice**：声音里透着一丝关切；先给这句问话定下关心的调子
+- **white noise**：白噪音；把整个环境概括成一种声音
+- **Ellie rubs her eyes, taking it in**：Ellie揉揉眼睛，把眼前的一切收进眼底；从"声音"切回人物动作
+- **You never sleep on flights**：你在飞机上从来不睡；一句只有熟悉她的人才会说出口的话
 
-**为什么这样写**：这是全章最有"亲密感"的开场。Ellie在飞机上醒来，Jonah在关心她。这是Angela Brown的"婚姻"主题：Jonah了解Ellie，他关心她。
-
----
+**为什么这样写**：这一段是Ellie在飞机上惊醒后的开场。作者先用Jonah的一句问话把"关心"递过来，然后并不急着推进对话，而是把镜头拉远，用三个名词短语（The sound of... / The low murmur of... / The gentle hum of...）铺开机舱的声音环境——the world is white noise 是总述，后面三句是分述，句子由长到短，读起来像人半睡半醒时听觉逐渐聚焦的过程。直到 Ellie rubs her eyes, taking it in 才把主语交回给Ellie，让她从被动地"听"转为主动地"看"。也正是在她刚醒、还在辨认周遭的这个当口，Jonah那句 You never sleep on flights 才落得下——它不是问句，而是只有长期相处的人才会知道的习惯，一句话就把两人的关系交代了。
 
 ### ②
 

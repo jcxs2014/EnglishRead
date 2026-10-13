@@ -28,6 +28,11 @@ status: completed
 
 **句子结构**：The next day, the sun blazes 是主句；its rays like invisible flames that shoot down from the sky 是独立主格结构（its rays 作逻辑主语）。
 
+
+**关键词**：
+- **blazes**：动词"燃烧"，把阳光写成主动施暴者——不是"天气很热"，而是"太阳在烧"
+- **invisible flames**：矛盾的修辞（看不见的火焰）。火是看得见的，这里偏说看不见——暗示真正灼人的东西（家庭矛盾）同样无影无形却伤人
+
 **为什么这样写**：开篇第一句用"无形的火焰"（invisible flames）来形容佛罗里达的阳光——这个比喻暗示了这一天的情感基调：表面平静（阳光普照），但内里灼烧（家庭矛盾的暗火）。这种"表面/内在"的对比贯穿全章。
 
 ---

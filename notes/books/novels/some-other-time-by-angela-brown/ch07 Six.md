@@ -107,6 +107,11 @@ status: completed
 
 **句子结构**：That's a slightly outdated view of things 是直接引语；Mom 是呼语；she points out 是主句；and flutters her eyes open again 是并列谓语。
 
+
+**关键词**：
+- **outdated view**：用"代际差异"替代"对错之争"——不反驳母亲的内容，只质疑其时效，是最省力的回避方式
+- **flutters her eyes open again**：极小的身体动作，与"outdated"的冷静措辞并置，暴露她其实并不轻松
+
 **为什么这样写**：Ellie用"outdated"（过时）来回应Bunny的论点——她不直接对抗，而是用"代际差异"来建立距离。这是一个聪明的回应，也是Ellie的性格：她不正面冲突，而是用"委婉"来处理。
 
 ---

@@ -22,20 +22,18 @@ status: completed
 
 ### ①
 
-> Bunny stands at the edge of the terra-cotta-colored walkway that leads to the front door of the condo—the exact place where she and Frank are meant to be. She's waving a dish towel above her head, which she's accessorized with her favorite visor (Florida!) and her bright-as-the-tropical-sun shirt. In this life—the right one—Bunny isn't busy grieving anything anymore.
+> Bunny stands at the edge of the terra-cotta-colored walkway that leads to the front door of the condo—the exact place where she and Frank are meant to be. She's waving a dish towel above her head, which she's accessorized with her favorite visor (Florida!) and her bright-as-the-tropical-sun shirt. … In this life—the right one—Bunny isn't busy grieving anything anymore
 
-**中文理解**：Bunny站在通向公寓正门的陶土色走道的边缘——这正是她和Frank应该在的地方。她在头顶上挥舞着一条洗碗布，配上她最爱的遮阳帽（Florida！）和她像热带太阳一样明亮的衬衫。在这一人生——正确的那一个——里，Bunny不再忙于悲伤了。
+**中文理解**：Bunny站在通向公寓正门的陶土色走道的边缘——这正是她和Frank应该在的地方。她在头顶上挥舞着一条洗碗布，配上她最爱的遮阳帽（Florida！）和她像热带太阳一样明亮的衬衫。……在这一人生——正确的那一个——里，Bunny不再忙于悲伤了。
 
-**句子结构**：Bunny stands 是主句；She's waving 是并列句；In this life 是独立句。
+**句子结构**：Bunny stands 是主句，at the edge of the terra-cotta-colored walkway 是地点状语，that leads to the front door of the condo 是定语从句，the exact place where she and Frank are meant to be 是同位语（内含 where 定语从句）；She's waving a dish towel above her head 是并列句，which she's accessorized with her favorite visor (Florida!) and her bright-as-the-tropical-sun shirt 是非限制性定语从句；In this life—the right one—Bunny isn't busy grieving anything anymore 是独立句，the right one 是插入的同位语。
 
 **关键词**：
-- **In this life—the right one—Bunny isn't busy grieving anything anymore**：在这一人生——正确的那一个——里，Bunny不再忙于悲伤了；这是全章最重要的话：Bunny找到了她的"正确的人生"
-- **her favorite visor (Florida!) and her bright-as-the-tropical-sun shirt**：她最爱的遮阳帽（Florida！）和她像热带太阳一样明亮的衬衫；这是Bunny的"Florida风格"：她已经"退休"了，不再穿深色的衣服
-- **terra-cotta-colored walkway**：陶土色的走道；这是Angela Brown的"Florida"细节：Florida是"温暖"的
+- **the exact place where she and Frank are meant to be**：这正是她和Frank应该在的地方；meant to be 点出这是"命定"的位置
+- **her favorite visor (Florida!) and her bright-as-the-tropical-sun shirt**：她最爱的遮阳帽（Florida！）和她像热带太阳一样明亮的衬衫；Florida 与明亮色彩是她的新生活符号
+- **In this life—the right one—Bunny isn't busy grieving anything anymore**：在这一人生——正确的那一个——里，Bunny不再忙于悲伤了；全块的落点，the right one 与 grieving 构成对照
 
-**为什么这样写**：这是全章最有"归属感"的开场。Bunny在Florida——她已经"退休"了，不再悲伤。这是Angela Brown的"新生活"主题：Bunny和Frank找到了他们的"正确的人生"。
-
----
+**为什么这样写**：引语先给一组静态画面——挥手、洗碗布、遮阳帽、亮色衬衫——再用 "In this life—the right one—" 一转，把画面钉在"正确的人生"这个主题上。中间的省略号省去原文中与这组画面无关的文字，只留下"她在这里、她不再悲伤"的对照。
 
 ### ②
 

@@ -42,20 +42,21 @@ status: completed
 
 ### ②
 
-> She steps out of line, looks down at her ID. And here it is: Eleanor Grace Adams. Ellie Adams—not Ellie Baker—is seated at her gate, turning her ID in her hand like a bouncer on the hunt for fakes. On her way here, she discovered that the bathroom she used last night is closed for renovation, any hope of finding her phone now gone. She sets her license on her lap, not knowing what to make of it. She only knows that, somehow, in a dozen different ways, she's no longer the same person living the same life as she was yesterday. She is herself, reset. Or herself, after everything. She doesn't know which yet.
+> She steps out of line, looks down at her ID. And here it is: Eleanor Grace Adams 116 Cherry Lane Great. Ellie Adams—not Ellie Baker—is seated at her gate, turning her ID in her hand like a bouncer on the hunt for fakes. On her way here, she discovered that the bathroom she used last night is closed for renovation, any hope of finding her phone now gone. She sets her license on her lap, not knowing what to make of it. She only knows that, somehow, in a dozen different ways, she's no longer the same person living the same life as she was yesterday. She is herself, reset. Or herself, after everything. She doesn't know which yet.
 
-**中文理解**：她走出队伍，低头看着她的身份证。就是这样：Eleanor Grace Adams。Ellie Adams——不是Ellie Baker——坐在登机口，把她的身份证转在手里，像一个寻找假证件的保镖。在来这里的路上，她发现她昨晚使用的洗手间因装修而关闭了，找到她手机的所有希望现在都破灭了。她把驾照放在膝盖上，不知道该怎么看它。她只知道，不知怎么地，以十几种不同的方式，她不再是和昨天一样的人，过着和昨天一样的生活。她是她自己，重置版。或者是她自己，历经一切之后。她还不知道是哪一个。
+**中文理解**：她走出队伍，低头看着自己的证件。上面写着：Eleanor Grace Adams，116 Cherry Lane。好极了。Ellie Adams——不是Ellie Baker——坐在登机口，把证件在手里转来转去，像个搜寻假证的保安。来这儿的路上，她发现昨晚用过的那个洗手间因翻修而关闭，找回手机的指望如今也没了。她把驾照搁在膝上，不知该如何看待这一切。她只知道，不知怎的，以十几种不同的方式，她已不再是昨天那个过着同样生活的人。她是她自己，重置版。或者是经历了一切之后的她自己。她还不知道究竟是哪一种。
 
-**句子结构**：She steps out of line 是主句；And here it is 是直接引语；She is herself, reset 是主句。
+**句子结构**：She steps out of line, looks down at her ID 是两个并列谓语；And here it is 是引出下文的短句，冒号后是证件上的内容 Eleanor Grace Adams 116 Cherry Lane，Great. 单独成句；Ellie Adams—not Ellie Baker—is seated at her gate 是主句，破折号插入的是同位否定，turning her ID in her hand like a bouncer on the hunt for fakes 是现在分词伴随状语，内含 like 引导的比较；On her way here 是状语，she discovered that... 是主句，that 从句里 the bathroom she used last night is closed for renovation 与 any hope of finding her phone now gone 并列（后者为省略谓语的独立结构）；She sets her license on her lap, not knowing what to make of it 中 not knowing... 是伴随状语；She only knows that... 后接宾语从句，somehow, in a dozen different ways 是插入状语，she's no longer the same person living the same life as she was yesterday 是从句主体，living... 为现在分词定语、as 引导比较；末尾 She is herself, reset. Or herself, after everything. She doesn't know which yet. 三句短句递降收束。
 
 **关键词**：
-- **Eleanor Grace Adams / Ellie Baker**：Eleanor Grace Adams / Ellie Baker；这两个名字的对比是全章最重要的"发现"——Adams是Ellie的娘家姓，Baker是她的婚后姓（嫁给Jonah后）
-- **She is herself, reset**：她是自己，重置版；这是Ellie对自己处境的定义——她被"重置"了
-- **a dozen different ways**：十几种不同的方式；Ellie在用"计数"来描述她的变化——这是她的职业习惯
+- **steps out of line**：走出队伍；动作先于心理，先离队再低头看证件
+- **116 Cherry Lane**：驾照上的住址；与全名同属证件信息，是这段"身份"叙事的实物凭据
+- **not Ellie Baker**：不是Ellie Baker；用破折号里的否定点出身份错位
+- **like a bouncer on the hunt for fakes**：像个搜寻假证的保安；把"反复端详自己的证件"写成查真伪
+- **She is herself, reset**：她是她自己，重置版；对自身处境的短促定义
+- **a dozen different ways**：十几种不同的方式；写变化的数量与说不清
 
-**为什么这样写**：这是全章最重要的"身份发现"段落。"Ellie Adams—not Ellie Baker"是Angela Brown的写作风格：先否定，再肯定。Ellie在"离婚"的过程中——但在这个"重置"里，她仍然是"Adams"，而不是"Baker"。她的婚姻"消失了"。她被"重置"了。
-
----
+**为什么这样写**：这一段的支点是"证件"这个实物。作者先让读者随Ellie的目光读到证件上的全名与住址（Eleanor Grace Adams / 116 Cherry Lane），再用一个孤零零的 Great. 表达她看到这一切时那种干巴巴、近乎自嘲的反应，然后才让破折号里的 not Ellie Baker 把矛盾挑明：证件上的姓不是她如今在用的那个。接着是两个"丢失"的细节——洗手间在翻修、手机彻底找不回——把抽象的"身份"问题落到具体处境上。最后三句越来越短（She is herself, reset. / Or herself, after everything. / She doesn't know which yet.），句式本身在收窄，对应她越想越说不清的状态。
 
 ### ③
 
