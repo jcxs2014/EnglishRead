@@ -138,17 +138,18 @@ status: completed
 
 ### ⑧
 
-> Ellie closes her eyes and wishes for it anyway. 11:11 p.m.
+> 11:11 p.m. She doesn't even know what she's wishing for. Not really. Even so, certain habits, as she's come to learn, are hard to break. Ellie closes her eyes and wishes for it anyway.
 
-**中文理解**：Ellie闭上眼睛，还是许了一个愿。晚上11:11。
+**中文理解**：晚上 11:11。她甚至不知道自己许的是什么——真的不知道。可即便如此，某些习惯，正如她后来明白的，是很难打破的。Ellie 闭上眼睛，还是许了一个愿。
 
-**句子结构**：Ellie closes her eyes and wishes for it anyway 是主句；11:11 p.m. 是独立主格结构（时间）。
+**句子结构**：11:11 p.m. 是独立的时间标记；She doesn't even know what she's wishing for 是主句，Not really 是省略式补语；Even so 引出转折；as she's come to learn 是插入的非限制性定语从句；末句 Ellie closes her eyes and wishes for it anyway 是全段的落点。
 
 **关键词**：
-- **wishes for it anyway**：还是许了一个愿；这个"anyway"是关键——Ellie不知道自己在许什么，但她还是许了
-- **11:11**：这是西方文化中的一个"幸运数字"迷信——当你在11:11时许愿会实现；这个细节把Ellie的理性与她的"习惯"分开
+- **11:11 p.m.**：深夜 11:11；这是母亲 Bunny 的"天使数字"（每逢 11:11 她都要全家停下祈祷或许愿，见 ch04），在这一刻第一次成为 Ellie 自己的动作
+- **doesn't even know what she's wishing for**：连自己许的是什么都不知道；她清楚这段婚姻已经走到尽头，却仍然许愿——理性与习惯的分裂
+- **certain habits … are hard to break**：某些习惯很难打破；与 ch31 病床边的 "Certain habits, she now understands, are impossible to break." 及该章末的 "Ellie allows herself to wish for it anyway." 构成全书的许愿线
 
-**为什么这样写**：这是全书的最后一个画面，也是全书最有力的收尾。Ellie不知道自己在许什么——但她仍然闭上眼睛许愿。这个动作揭示了婚姻的本质：有些"习惯"是无法打破的，就像她无法打破"照顾Jonah"（ch07）、无法打破"在11:11许愿"一样。婚姻已经结束，但她仍然是她——那个"许愿的人"。
+**为什么这样写**：这是第一趟 Florida 之行的最后一个画面，也是全书真正的转折机关——前面所有关于"如果当初"的思辨，在这里落成一个没有具体内容的愿望。作者故意不写她许了什么，因为被许下的不是一个具体结果，而是一种"想看看另一条路"的冲动。叙述者用"她甚至不知道自己许的是什么"提前封住了"这是她主动选择"的读法，把此后一周的遭遇定义成愿望的后果，而不是决定的结果。
 
 ---
 

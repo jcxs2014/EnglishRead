@@ -142,18 +142,18 @@ status: completed
 
 ### ⑧
 
-> Through the window, Ellie sees a new sight that has presented itself beyond the glass. Jonah and another woman. They walk together up the sidewalk, their bodies close. Before Ellie can even process what's happening, she watches as the woman—pretty in a predictable way—blond hair, petite frame—turns and places a soft kiss on Jonah's cheek. A moment later, the coffee shop door opens again. She steps inside. "Any chance I can get two quick regular old coffees to go?" Her voice sounds as sweet as Ellie's too-sugary beverage. "We have a long night ahead of us with about a million things to do." The woman points to Jonah, who waits for her beyond the glass. The barista, ready to get out of this place for the day, looks at her through his most bored expression. He couldn't care less about whatever it is she's going to say. "It's—well—" She stops herself, too bubbled over with excitement, like a bottle of good champagne. The woman glances over each shoulder, as if to see if anyone around her is listening. She bites her strawberry-pink lips. "It's just—we're getting married this weekend!"
+> Her focus is back on the window and a new sight that has presented itself beyond the glass. Jonah and another woman. They walk together up the sidewalk, their bodies close. Before Ellie can even process what's happening, she watches as the woman—pretty in a predictable way—blond hair, petite frame—turns and places a soft kiss on Jonah's cheek. A moment later, the coffee shop door opens again. She steps inside. "Pardon me," she says, already walking up to the counter, even though it's clear things inside here are winding down for the day. "Any chance I can get two quick regular old coffees to go?" Her voice sounds as sweet as Ellie's too-sugary beverage. "We have a long night ahead of us with about a million things to do." The woman points to Jonah, who waits for her beyond the glass. The barista, ready to get out of this place for the day, looks at her through his most bored expression. He couldn't care less about whatever it is she's going to say. "It's—well—" She stops herself, too bubbled over with excitement, like a bottle of good champagne. The woman glances over each shoulder, as if to see if anyone around her is listening. She bites her strawberry-pink lips. "It's just—we're getting married this weekend!"
 
-**中文理解**：透过窗户，Ellie看到了玻璃外面出现的一个新景象。Jonah和另一个女人。他们一起走在人行道上，身体靠得很近。在Ellie能够处理正在发生的事情之前，她看到那个女人——有着可以预见的漂亮——金发、娇小的身材——转过身来，在Jonah的脸颊上轻轻一吻。过了一会儿，咖啡店的门又开了。她走了进来。"我能快速拿两杯普通咖啡外带吗？"她的声音听起来和Ellie过甜的饮料一样甜。"我们今晚有很多事情要做。"女人指向窗外的Jonah。咖啡师，渴望今天离开这个地方，用最无聊的表情看着她。他才不在乎她要说什么。"这是——嗯——"她打断自己，兴奋得冒泡，像一瓶好的香槟。女人从每个肩膀上方扫视一眼，仿佛看看周围是否有人在听。她咬着草莓粉色的嘴唇。"这只是——我们这周末要结婚了！"
+**中文理解**：她的目光回到窗外，玻璃外出现了新的景象。Jonah 和另一个女人。他们一起走上人行道，身体靠得很近。Ellie 还没来得及消化眼前发生的事，就看着那个女人——一种可以预见的漂亮，金发、娇小——转身在 Jonah 脸颊上轻轻一吻。片刻之后，咖啡店的门又开了，她走了进来。"不好意思，"她说着已经走到柜台前，尽管店里显然已经在为打烊做准备。"能给我两杯普通的快速外带吗？"她的声音听起来和 Ellie 那杯过甜的饮料一样甜。"我们今晚有一百万件事要做，长夜漫漫。"女人指了指窗外等着的 Jonah。咖啡师只想早点下班，用他最无聊的表情看着她——他根本不在乎她要说什么。"就是——嗯——"她打住自己，兴奋得冒泡，像一瓶好香槟。女人左右张望，像在看有没有人在听。她咬咬草莓粉色的嘴唇。"就是——我们这周末要结婚了！"
 
-**句子结构**：Through the window, Ellie sees a new sight 是主句；Any chance I can get two quick regular old coffees to go 是直接引语；We're getting married this weekend 是直接引语。
+**句子结构**：首句 Her focus is back on the window and a new sight that has presented itself beyond the glass 是主句，Jonah and another woman 是名词短语构成的独立片段；"Pardon me," she says, already walking up to the counter 是直接引语＋现在分词状语；even though it's clear things inside here are winding down for the day 是让步状语从句；末句 "It's just—we're getting married this weekend!" 是全段的落点。
 
 **关键词**：
-- **pretty in a predictable way—blond hair, petite frame**：有着可以预见的漂亮——金发、娇小的身材；这是Ellie对这个女人的"评估"：她是"可以预见的"漂亮，不是Ellie的类型
-- **We're getting married this weekend!**：我们这周末要结婚了！；这是全章最重要的"炸弹"：Ellie的丈夫即将和另一个女人结婚
-- **like a bottle of good champagne**：像一瓶好的香槟；这是Angela Brown的比喻：女人兴奋得像一瓶香槟
+- **pretty in a predictable way—blond hair, petite frame**：可以预见的漂亮——金发、娇小；这是 Ellie 对这个女人的评估：不是惊艳，而是"意料之中"
+- **winding down for the day**：为打烊做准备；一个时间提示——已是傍晚，Ellie 与 Jack 的这次咖啡店重逢已近尾声
+- **we're getting married this weekend!**：我们这周末要结婚了！；这条信息在"另一个世界"里指向 Jonah 与 Kristin 的婚约（ch25 由 Jonah 亲口证实）
 
-**为什么这样写**：这是全章最有"毁灭感"的场景。Ellie看到她的丈夫和另一个女人在一起，而那个女人宣布"我们这周末要结婚了"。"pretty in a predictable way"是Ellie对这个女人的"贬低"：她不是Ellie的对手，但Jonah仍然选择她。
+**为什么这样写**：这是"另一个世界"给 Ellie 的第一记重击。作者不写她的反应，只写她"看"——目光从窗内移到窗外，再从那个女人身上收回来。整段刻意用旁观视角铺陈，把最伤人的消息交给一个陌生女人用最甜蜜的语气宣布；读者比 Ellie 早半秒听懂，这半秒就是这段的痛感所在。
 
 ---
 

@@ -72,17 +72,18 @@ status: completed
 
 ### ④
 
-> They dated for just shy of one year—which in the span of a whole life, isn't very long, but when you're in your twenties, it can feel meaningful. He'd attended Princeton and then stayed in New Jersey to attend medical school, which he was halfway through when he met Ellie. She sold him a copy of Fitzgerald's Tender Is the Night, a fact that in retrospect probably should have been her first sign.
+> They'd dated for just shy of one year—which in the span of a whole life, isn't very long, but when you're in your twenties, it can feel meaningful. He'd attended Princeton and then stayed in New Jersey to attend medical school, which he was halfway through when he met Ellie. She sold him a copy of Fitzgerald's Tender Is the Night, a fact that in retrospect probably should have been her first sign.
 
-**中文理解**：他们在一起还不到一年——在整个人生的时间跨度里，这并不算长，但当你在二十多岁时，它可能显得很有意义。他曾就读于普林斯顿大学，然后在留在新泽西读医学院——当他们相遇时，他已经读到了一半。她卖给他一本菲茨杰拉德的《夜色温柔》，事后回想起来，这可能是她的第一个预兆。
+**中文理解**：他们在一起还不到一年——在整个人生的跨度里这并不算长，但当你在二十多岁时，它可能显得很有意义。他曾就读于普林斯顿，随后留在新泽西读医学院——两人相遇时他已经读到了一半。她卖给他一本菲茨杰拉德的《夜色温柔》，事后回想，这大概是她的第一个预兆。
 
-**句子结构**：They dated for just shy of one year 是主句；which in the span of a whole life... 是非限制性定语从句；He'd attended Princeton... 是并列句。
+**句子结构**：They'd dated for just shy of one year 是主句；which in the span of a whole life... 是非限制性定语从句；He'd attended Princeton... 是并列句；a fact that in retrospect probably should have been her first sign 是同位语＋定语从句。
 
 **关键词**：
-- **Tender Is the Night**：《夜色温柔》；这是菲茨杰拉德最后一部完整小说，讲述的是一个美国作家的爱情和失败故事——这个细节暗示了Ellie和Jack的关系的结局（"夜色温柔"）
-- **probably should have been her first sign**：这可能是她的第一个预兆；"预兆"暗示：如果Jack读的是《夜色温柔》，他可能也是一个"会失败的人"
+- **just shy of one year**：还不到一年；这个精确的时长与 ch25 里 Jonah 那句"I'd find you in any lifetime"形成对照——两段感情的长度不同，重量也不同
+- **Tender Is the Night**：《夜色温柔》；菲茨杰拉德最后一部完整长篇，讲的是一个美国医生／作家的爱情与失败——书名与 Jack 的医生身份、以及这段关系的结局构成互文
+- **probably should have been her first sign**：这大概是她的第一个预兆；"预兆"是后见之明的措辞，把当年的恋爱写成一场她本该看懂的暗示
 
-**为什么这样写**：Ellie的回忆充满了"后见之明"。她现在知道Jack不适合她——但当时她不知道。《夜色温柔》的细节是一个"元叙事"细节：Ellie读文学，她知道故事的结局，她也知道自己的故事会有什么样的结局。
+**为什么这样写**：Ellie 的回忆充满后见之明——她现在知道 Jack 不适合她，当时却不知道。《夜色温柔》是一个元叙事式的细节：一个在书店工作、靠故事理解人生的人，本该从一本书的名字里读出自己的结局。作者让"预兆"迟到二十年才被她认出来，正是为了说明她在二十几岁时真正缺的不是判断力，而是经验。
 
 ---
 

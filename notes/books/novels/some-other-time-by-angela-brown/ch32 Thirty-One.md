@@ -56,18 +56,18 @@ status: completed
 
 ### ③
 
-> "I—I thought you left." She was seated on the checkered kitchen floor, her back pressed against the cabinets. Jonah's eyes widened. "Left?" He handed her the bag. From inside it, she pulled out a pint of her favorite ice cream. "Where would I go?" He opened the utensil drawer. "This is my home, Ellie," he said as he handed her a spoon.
+> "Where did you go?" she sniffled, her tears not yet fully dried up. She was seated on the checkered kitchen floor, her back pressed against the cabinets. "I—I thought you left." Jonah's eyes widened. His brows lifted themselves up toward the ceiling. "Left?" He handed her the bag. From inside it, she pulled out a pint of her favorite ice cream. "Where would I go?" He opened the utensil drawer, which was only half-full. The house was still so new to them. They hadn't even fully unpacked. "This is my home, Ellie," he said as he handed her a spoon. She removed the lid and indulged in a rich, chocolatey bite, right as Jonah sat down beside her, the two of them shoulder to shoulder on the black-and-white tiles. "Where else would I go?" he asked, taking the spoon. "Where would I want to be if not right here with you?"
 
-**中文理解**："我——我以为你离开了。"她坐在格子图案的厨房地板上，背靠着橱柜。Jonah的眼睛睁大了。"离开？"他递给她那个袋子。从里面，她拿出一品脱她最爱的冰淇淋。"我会去哪里？"他打开餐具抽屉。"这是我的家，Ellie，"他一边说一边递给她一把勺子。
+**中文理解**："你去哪儿了？"她抽着鼻子问，眼泪还没完全干。她坐在格子图案的厨房地板上，背靠着橱柜。"我——我以为你走了。"Jonah 的眼睛睁大了，眉毛挑向天花板。"走了？"他把袋子递给她。她从里面拿出一品脱她最爱的冰淇淋。"我会去哪儿？"他打开餐具抽屉，抽屉只装了一半——这栋房子对他们来说还太新，箱子都还没拆完。"这是我的家，Ellie，"他一边说一边把勺子递给她。她掀开盖子，吃了一大口浓郁的巧克力味，Jonah 就在她身边的黑白地砖上坐下，两人肩并着肩。"我还能去哪儿？"他接过勺子问。"如果不是在这里和你在一起，我还会想去哪儿？"
 
-**句子结构**："I thought you left" 是直接引语；She was seated 是主句；Left 是直接引语；This is my home 是直接引语。
+**句子结构**："Where did you go?" she sniffled 是直接引语＋转述动词；She was seated on the checkered kitchen floor 是主句，her back pressed against the cabinets 是独立主格；"I—I thought you left." 与 "Left?" 是直接引语；He opened the utensil drawer, which was only half-full 带非限制性定语从句；The house was still so new to them 是插入的独立句；末句 "Where would I want to be if not right here with you?" 是反问式收束。
 
 **关键词**：
-- **This is my home, Ellie. Where would I go? Where would I want to be if not right here with you?** 这是我的家，Ellie。我会去哪里？如果不是在这里和你在一起，我还会想在哪里？；这是全章最重要的话：Jonah不会离开——这是他的家
-- **a pint of her favorite ice cream**：一品脱她最爱的冰淇淋；这是Jonah的"安慰"：他用冰淇淋来安慰Ellie
-- **she pulled out a pint of her favorite ice cream**：她拿出一品脱她最爱的冰淇淋；这是Angela Brown的"细节"：Jonah知道Ellie喜欢什么
+- **Where would I go? / Where else would I go?**：我会去哪儿？／我还能去哪儿？；Jonah 用两个反问回应"我以为你走了"，把"离开"本身变成不可想象的事
+- **only half-full / hadn't even fully unpacked**：抽屉只装了一半／箱子都还没拆完；这两个细节把这幕锁定在他们刚搬进这栋房子的时期，也正是 ch32 结尾她决定"不宣布离婚"的那栋房子
+- **This is my home, Ellie**：这是我的家，Ellie；全书对"家"的第一次定义——不是房子，是人
 
-**为什么这样写**：这是全章最有"温柔感"的回忆。Jonah曾经安慰过Ellie——他不会离开她。这是Angela Brown的"承诺"主题：Jonah总是会回来。
+**为什么这样写**：这段回忆被安放在 ch32 的转折点上，是有意的对位：当年她以为他走了，他只是出门买她最爱的冰淇淋；此刻她以为婚姻没了，他只是被锁在门外。作者用同一个"离开／回来"的动作结构，让二十年前那次误认成为此刻和解的底稿——她不是在回忆一件旧事，而是在认出自己一直在重复的那个错误。
 
 ---
 

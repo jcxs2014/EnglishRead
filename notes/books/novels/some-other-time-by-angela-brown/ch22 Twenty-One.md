@@ -41,18 +41,18 @@ status: completed
 
 ### ②
 
-> I was the one who said it, who wished for all of it. Jonah had agreed, yes. But her mouth, not his, was the one the word—"divorce"—had fallen out of first. And why? Were things between them really so bad? Bad enough for Ellie to believe that throwing it all away would somehow be better? Or was it just that Ellie was sad. Sad that the best chapter of her life was ending. The three of them living together in the house. Ellie always so busy, and yet always having some defined purpose. Even if it was for a million small somethings—tasks other people might have overlooked—for many years, Ellie had felt so needed. All the invisible work she filled her days with—all the invisible work every mother fills her days with—it was important. It kept the ship running. It kept everyone safe. Healthy. Happy. Forward moving. It made Ellie feel like what she was doing mattered. That her choices mattered. That her life mattered and made a difference.
+> Ellie was the one who'd said it, who'd wished for all of it. Jonah had agreed, yes. But her mouth, not his, was the one the word—"divorce"—had fallen out of first. And why? Were things between them really so bad? Bad enough for Ellie to believe that throwing it all away would somehow be better? Or was it just that Ellie was sad. Sad that the best chapter of her life was ending. The three of them living together in the house. Ellie always so busy, and yet always having some defined purpose. Even if it was for a million small somethings—tasks other people might have overlooked—for many years, Ellie had felt so needed. All the invisible work she filled her days with—all the invisible work every mother fills her days with—it was important. It kept the ship running. It kept everyone safe. Healthy. Happy. Forward moving. It made Ellie feel like what she was doing mattered. That her choices mattered. That her life mattered and made a difference.
 
-**中文理解**：我是那个说出来的人，那个希望这一切发生的人。Jonah同意了，是的。但说出这个词——"离婚"——的是她的嘴，不是他的。为什么？事情真的那么糟糕吗？糟糕到让Ellie相信把一切都抛弃会更好的程度吗？或者只是因为Ellie很难过。她生命中最好的篇章正在结束而难过。他们三个住在房子里的时光。Ellie总是很忙，但总是有一些明确的目的。即使是为了无数的小事——其他人都忽略的任务——这么多年来，Ellie一直觉得自己被需要。她每天填充的所有看不见的工作——所有每位母亲每天都在填充的看不见的工作——这很重要。它让船继续航行。它让每个人安全、健康、快乐、向前进。它让Ellie觉得她所做的事情很重要。她的选择很重要。她的生命很重要，而且产生了影响。
+**中文理解**：是 Ellie 说出来的，是 Ellie 希望这一切发生的。Jonah 同意了，没错。但"离婚"这个词是从她的嘴里先掉出来的，不是他的。可为什么？他们之间真的糟糕到那个地步了吗？糟糕到 Ellie 相信把一切扔掉反而会更好？还是说，只是 Ellie 难过。难过她人生中最好的篇章正在结束——三个人同住在那栋房子里的时光。Ellie 总是很忙，却总有明确的目的。哪怕只是为了无数件小事——别人可能忽略的那些琐事——这么多年来，Ellie 一直觉得自己被需要。她用每一天填满的那些看不见的工作——每位母亲都用每一天填满的那些看不见的工作——很重要。它让船继续航行。它让每个人安全、健康、快乐、向前。它让 Ellie 觉得自己做的事有意义，她的选择有意义，她的人生有意义、并且带来了不同。
 
-**句子结构**：I was the one who said it 是主句；It kept the ship running 是并列句；That her life mattered and made a difference 是宾语从句。
+**句子结构**：Ellie was the one who'd said it, who'd wished for all of it 是主句，带两个并列的定语从句；But her mouth, not his, was the one the word—"divorce"—had fallen out of first 是转折句；And why? 是设问；Or was it just that Ellie was sad. 是选择性追问；All the invisible work she filled her days with—all the invisible work every mother fills her days with—it was important 是同位语复沓＋主句；末尾 It kept... / It made... 是排比。
 
 **关键词**：
-- **the word—"divorce"—had fallen out of first**：说出"离婚"这个词的是她的嘴，不是他的；这是Ellie的"内疚"：是她先提出的离婚
-- **the invisible work every mother fills her days with**：每位母亲每天都在填充的看不见的工作；这是Ellie的"自我价值"：她从"被需要"中获得意义
-- **It kept the ship running. It kept everyone safe. Healthy. Happy. Forward moving**：它让船继续航行。它让每个人安全、健康、快乐、向前进；这是Ellie的"成就感"：她让一切运转良好
+- **the word—"divorce"—had fallen out of first**：先掉出来的是"离婚"这个词；这是 Ellie 的内疚核心——提出离婚的人是她
+- **the invisible work every mother fills her days with**：每位母亲每天填满的那些看不见的工作；这是 Ellie 自我价值的来源：从"被需要"中获得意义
+- **It kept the ship running. It kept everyone safe. Healthy. Happy. Forward moving.**：它让船继续航行，让每个人安全、健康、快乐、向前；排比把家务写成一项持续运转的工程
 
-**为什么这样写**：这是全章最有"母亲视角"感的段落。Ellie在反思她的"母亲身份"——她从照顾家庭中获得意义。当Maggie离开时，Ellie失去了她的"目的"。"invisible work"是全章最重要的主题：母亲的工作是看不见的，但它是"让船继续航行"的工作。
+**为什么这样写**：这是全章最具"母亲视角"的段落。Ellie 在复盘自己如何从照顾家庭中获得意义，也在承认这份意义随 Maggie 长大而流失——当"被需要"不再，离婚的念头才有了缝隙。作者用"看不见的工作"这个说法，把婚姻里最容易被忽略的那一半劳动摆到台面上：它不产生任何可展示的成果，却是让一切不散架的东西。
 
 ---
 
