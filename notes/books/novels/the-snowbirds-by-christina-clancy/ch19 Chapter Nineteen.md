@@ -106,30 +106,6 @@ source_text: ch19
 **关键词**：twin flames（双火焰）· entities between them（他们之间的实体）· candle work（蜡烛仪式）
 **为什么这样写**：Cassie 将所有关系问题翻译成她的能量语言——这是一种认知框架，把复杂的情感矛盾简化为可操作的「能量障碍」。Kim 之前对 Cassie 的叠衣服技能建立了信任（「this gave me some confidence in her therapeutic abilities」），但当 Cassie 把她与 Grant 的关系比作 Coco 与 Hobie 时，Kim 的防线立刻竖起（「We don't have bad energy」）。 Cassie 的理论体系在这里遭遇了个人边界。
 
----
-
-> **原句 9:** "It means he looks into you, and you only let him see himself reflected back."
-
-**中文理解**：「意思是，他看进你，而你只让他看到他自己被反射回来。」
-
-**句子结构**：「It means」引入解释；「he looks into you」与「you only let him see himself reflected back」形成主客反转——通常是「你看着我、理解我」，而这里变成「你成为他自我观照的镜子」。主语颠倒了权力关系。
-
-**关键词**：energy mirror（能量镜）· reflected back（反射回来）
-**为什么这样写**：这是 Cassie 对「energy mirror」的定义，也是本章最锐利的句子。它描述的是一种单方面的情感交换：Grant 透过 Kim 看自己，而不是真正看见 Kim。Kim 对这个诊断的震惊（「She'd basically summed up a relationship dynamic that would be hard for me to describe to a therapist」）说明 Cassie 的话触到了痛处——Kim 意识到自己的婚姻一直是一面镜子，而不是双向的交流。但「energy mirror」的标签本身也是另一种简化：将三十年的复杂关系压缩成一行比喻。
-
----
-
-> **原句 10:** "Because if it has wheels or a dick, it'll give you trouble eventually."
-
-**中文理解**：「因为如果那东西有轮子或者有个鸡巴，最终都会给你惹麻烦。」
-
-**句子结构**：条件句（If it has wheels or a dick…）；「wheels」代指汽车（延续 Jeep 的隐喻），「dick」代指男性；两个名词以「or」并列，粗鄙与俏皮并存。
-
-**关键词**：wheels（轮子）· dick（鸡巴）
-**为什么这样写**：这是 Cassie 对 Kim「Be careful of Hobie」警告的进一步解释——将所有机械和男性都纳入危险范畴，既是幽默的俏皮话，也是 Cassie 世界观的缩影：她以极端的方式将关系风险普遍化。同时，这句话与 Grant 拥有 Jeep、Grant 是男性形成多重共鸣——Cassie 的警告在 Kim 耳中可能同时指向 Hobie 和 Grant。"wheels or a dick"押韵，构成 Cassie 式的节奏感。
-
----
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -166,4 +142,4 @@ source_text: ch19
 
 ## 一句话总结
 
-Kim 在 Le Desert 的洗衣房与 Cassie 交谈，得知 Grant 私下向 Cassie 倾诉他们的婚姻问题，Cassie 以「energy vampire vs. energy mirror」框架诊断两人关系，并警告她远离 Hobie——Kim 的信任在多层维度上同时崩塌，而她对自己「inertia or contentment」的疑惑仍未得到解答。
+Kim 在 Le Desert 的洗衣房与 Cassie 交谈，得知 Grant 私下向 Cassie 倾诉他们的婚姻问题，Cassie 以「energy vampire」和「energy mirror」框架诊断两人关系，并警告她远离 Hobie——Kim 的信任在多层维度上同时崩塌，而她对自己「inertia or contentment」的疑惑仍未得到解答。

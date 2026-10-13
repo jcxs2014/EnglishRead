@@ -12,9 +12,9 @@ source_text: ch27
 
 **情感弧线位置**：从冥想后的平静满足，到发现 Jeep 消失的惊愕与讽刺接受，再到决定徒步自救时的主动与自信——弧线从"平和"急转"危机"，随即以"掌控感"拉出一条上扬的尾端。
 
-**Tropes 兑现/反转**：自然治愈（Nature as Healer）——徒步与冥想确实带来真实改变；汽车被伴侣偷走（Relationship Sabotage）——Kim 的"manifesting"能力在此成为反讽；男性脆弱与求助禁忌——"A wiser man might have walked the four miles … and tried to flag down a car"被内、省否决。
+**Tropes 兑现/反转**：自然治愈（I found my ecosystem）——徒步与冥想确实带来真实改变；汽车被伴侣偷走（Kim manifested this）——Kim 的"manifesting"能力在此成为反讽；男性脆弱与求助禁忌——"A wiser man might have walked the four miles … and tried to flag down a car"被内、省否决。
 
-**人物弧线**：Grant 在 Cedar Springs 完成了一次真实的灵性探索（"I felt the answer in my bones"）；然而"答案"尚未来得及作用于现实层面， Jeep 就已不在——这段错位展现他"知道答案"与"活在现实"之间仍有距离；决定徒步自救时第一次显露出不需要 Kim 的生存意志。
+**人物弧线**：Grant 在 Cedar Springs 完成了一次真实的灵性探索（"felt the answer in my bones"）；然而"答案"尚未来得及作用于现实层面， Jeep 就已不在——这段错位展现他"知道答案"与"活在现实"之间仍有距离；决定徒步自救时第一次显露出不需要 Kim 的生存意志。
 
 **叙事手法**：日记体（"Grant's Journal", January 1）；跳跃式意识流（从自然描写到冥想体验再到 Jeep 消失的震惊，再到自我激励）；结尾"SHIFT HAPPENS"是全章的幽默收束——对"改变"的宣告被一辆被偷的 Jeep 所调侃。
 
@@ -115,28 +115,6 @@ source_text: ch27
 **为什么这样写**：这是全章的结构转折点：冥想后的满足被瞬间打破。"is nowhere"（无存在）与前文的"found my ecosystem"（找到存在）形成尖锐对照。句子的节奏（从"came back"到"nowhere"到"GONE"）复制了 Grant 意识到现实情境时的心理坠落感。"GONE."单独成段，是全章最短的句子——用语言形式本身呈现冲击。
 
 ---
-
-> **原句 9:** "A wiser man might have walked the four miles to Highway 74 and tried to flag down a car and hitchhike back to Palm Springs, asked for help."
-
-**中文理解**：更明智的人或许会步行四英里到 74 号公路，拦车搭回棕榈泉——去求助。
-
-**句子结构**："A wiser man might have walked…"是虚拟过去时条件句，暗示这是对"应该怎么做"的想象，而实际上他没有这样做。"asked for help"以不定式短语置于句尾，轻描淡写，实际上是这个决定里最核心的部分：Grant 拒绝求助。
-
-**关键词**：flag down a car（拦车）· hitchhike（搭车）· asked for help（求助）
-
-**为什么这样写**："A wiser man"这个反讽自我称呼是 Grant 的内心对话（"wiser"是反话）。"asked for help"是句中最后、也是最轻处理的短语，但它恰恰是 Grant 最终没有做的事。这个句子揭示了某种男性气质的陷阱：承认需要帮助被摆在最后，且以最轻的笔触处理，仿佛求助比独自面对四英里徒步更令人恐惧。
-
----
-
-> **原句 10:** "I can do this. SHIFT HAPPENS is right."
-
-**中文理解**：我能做到。转变总会发生，说得对。
-
-**句子结构**：两个独立句子，均为简短肯定句。"I can do this"是自我激励；"SHIFT HAPPENS is right"是对短语"SHIFT HAPPENS"（仿"Shit happens"）的引用与认同，首字母大写暗示这是某个 T 恤或标语的文字。"SHIFT HAPPENS"是全章的元叙事收束——Grant 在经历真实的"转变"（moving forward），但这个转变以最讽刺的方式应验：Kim 把 Jeep"转变"走了。
-
-**关键词**：SHIFT HAPPENS（转变总会发生）· I can do this（我能做到）
-
-**为什么这样写**：结尾是全章最复杂的双关。"SHIFT"在"Shit happens"（仿成语的常事/倒运）语境中是"变化/转变"，呼应他"moving forward"的答案与 Cedar Springs 的精神转变；但"SHIFT"在汽车语境中也是"换挡/移动"——Kim 把 Jeep 换走（manifested），恰好是 Grant 精神转变的物质证明。两个"HAPPENS"——灵性的与实际的——在这一刻合流，以幽默的方式化解了危机感。
 
 ## 本章词汇
 

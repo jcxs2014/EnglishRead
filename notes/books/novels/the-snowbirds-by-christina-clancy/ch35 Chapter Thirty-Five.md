@@ -12,7 +12,7 @@ source_text: ch35
 
 **情感弧线位置**：从希望（"They're searching for me!"）→ 绝望（直升机没看到他）→ 孤独的承受（喝溪水、收集银石）→ 对 Kim 的怀疑（"Where have those second thoughts led you?"）——弧线在"希望"与"绝望"之间剧烈摇摆。
 
-**Tropes 兑现/反转**：错过的救援（Missed Rescue）——直升机从头顶飞过但没看到他；孤独的同伴（Lonely Companion）——三条腿的狗 Nugget；自我怀疑（Self-Doubt）——Grant 开始怀疑 Kim 是否还想让他回来。
+**Tropes 兑现/反转**：错过的救援（Missed Rescue）——直升机从头顶飞过但没看到他；孤独的同伴（Lonely Companion）——三条腿的狗 Nugget；自我怀疑（They missed me）——Grant 开始怀疑 Kim 是否还想让他回来。
 
 **人物弧线**：Grant 的日记声音从绝望转向接受——他不再试图被救，而是开始面对"可能永远不会被救"的现实。他对 Nugget 的对话揭示了他的孤独和对 Kim 的思念。
 
@@ -116,29 +116,7 @@ source_text: ch35
 
 ---
 
-> **原句 9:** "Remember when you found my journal and I said my writing would change if I knew you were reading?"
-
-**中文理解**："还记得你发现我的日记时，我说过如果我知道你在读，我的写作会改变吗？"
-
-**句子结构**：Remember 引导的问句 + when 引导的时间状语从句。my writing would change 是过去将来时。
-
-**关键词**：found my journal（发现我的日记）· my writing would change（我的写作会改变）· if I knew you were reading（如果我知道你在读）
-
-**为什么这样写**：Grant 回忆了他和 Kim 之间的早期动态——他知道她可能会读他的日记，这改变了他的写作方式。但现在他在写一本她知道她不会读的日记（因为他可能不会回来），这改变了一切。
-
----
-
-> **原句 10:** "Where have those second thoughts led you? Look where they led me."
-
-**中文理解**："那些 second thoughts 把你带到了哪里？看看它们把我带到了哪里。"
-
-**句子结构**：两个问句：Where have...led（现在完成时）→ Look where...led（过去时）。those second thoughts 是共同的指代。
-
-**关键词**：second thoughts（第二个想法）· led you（把你带到）· led me（把我带到）
-
-**为什么这样写**：这是全章最复杂的句子——Grant 将 Kim 的"second thoughts"（对他们的关系的怀疑）与他的处境（在荒野中迷路）并列。"Where have those second thoughts led you?"暗示 Kim 的怀疑把她带到了 Palm Springs（离开他），而"Look where they led me"暗示他的怀疑把他带到了荒野（也可能死亡）。
-
-## 词汇
+## 本章词汇
 
 | 单词/短语 | 释义 | 出处 |
 |---|---|---|

@@ -8,11 +8,11 @@ source_text: ch40
 
 ## 本章导航
 
-**一句话概括**：六个月后，Kim 和 Grant 在 Smoke Tree Ranch 举行婚礼——他们卖掉了 Madison 的房子，在两地各有一处住所，成为真正的"snowbirds"；婚礼上他们交换了 vows，Cassie 主持仪式，以"If you're not at home in your heart, then you're not at home anywhere"收束。
+**一句话概括**：六个月后，Kim 和 Grant 在 Smoke Tree Ranch 举行婚礼——他们卖掉了 Madison 的房子，在两地各有一处住所，成为真正的"snowbirds"；婚礼上他们交换了 vows，Cassie 主持仪式，以"If you're not at home in your heart... then you're not at home anywhere"收束。
 
 **情感弧线位置**：从卖房的释然 → 新生活的开始 → 婚礼的庆祝 → 交换 vows 的深情 → Cassie 的祝福——弧线从"放下"到"承诺"，以完整的对话收束。
 
-**Tropes 兑现/反转**：Snowbirds（候鸟式生活）——Kim 和 Grant 正式成为"snowbirds"；完整的婚礼（Full Wedding）——Kim 和 Grant 终于结婚；Cassie 的主持（Cassie Officiates）——她帮助了他们重新找到彼此。
+**Tropes 兑现/反转**：Snowbirds（候鸟式生活）——Kim 和 Grant 正式成为"snowbirds"；完整的婚礼（Full Wedding）——Kim 和 Grant 终于结婚；Cassie 的主持（Cassie would officiate）——她帮助了他们重新找到彼此。
 
 **人物弧线**：Kim 终于"allowed myself to see and capture what I found beautiful"——她不再用角色（丈夫、父亲、教授）来看 Grant，而是看到一个人。Grant 终于承诺"never get lost"——字面上和隐喻上。
 
@@ -116,29 +116,7 @@ source_text: ch40
 
 ---
 
-> **原句 9:** "And always make sure you are warm."
-
-**中文理解**："并且永远确保你是温暖的。"
-
-**句子结构**：And 引导的祈使句。make sure 是动词短语。you are warm 是宾语从句。
-
-**关键词**：make sure（确保）· you are warm（你是温暖的）
-
-**为什么这样写**：这是 Grant 的 vow 中最温暖的一句——"always make sure you are warm"是一个极其简单但极其亲密的承诺。它暗示了 Grant 对 Kim 的关心不是宏大的（"我会给你整个世界"），而是具体的（"我会确保你暖和"）。
-
----
-
-> **原句 10:** "This is the most heteronormative moment of my life," Dort said.
-
-**中文理解**："这是我生活中最 heteronormative 的时刻，"Dort 说。
-
-**句子结构**：直接引语 + 报道句。the most heteronormative moment 是最高级。
-
-**关键词**：heteronormative（异性恋规范化的）· the most...moment of my life（我生命中最...的时刻）
-
-**为什么这样写**：Dort 的这句话是全书的幽默收尾——在经历了所有的冒险、发现、矛盾之后，Kim 和 Grant 的婚礼是"最 heteronormative"的。Dort 的语气是自嘲的，但也是接受的她承认了这个时刻的传统性，但也暗示了它对他们来说是新的。
-
-## 词汇
+## 本章词汇
 
 | 单词/短语 | 释义 | 出处 |
 |---|---|---|
@@ -150,4 +128,4 @@ source_text: ch40
 
 ## 一句话总结
 
-六个月后，Kim 和 Grant 在 Smoke Tree Ranch 举行婚礼——他们成为真正的"snowbirds"，在两地各有一处住所；婚礼上他们交换了 vows，Cassie 主持仪式，以"If you're not at home in your heart, then you're not at home anywhere"收束。
+六个月后，Kim 和 Grant 在 Smoke Tree Ranch 举行婚礼——他们成为真正的"snowbirds"，在两地各有一处住所；婚礼上他们交换了 vows，Cassie 主持仪式，以"If you're not at home in your heart... then you're not at home anywhere"收束。

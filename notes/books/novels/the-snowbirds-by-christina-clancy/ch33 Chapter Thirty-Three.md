@@ -116,29 +116,7 @@ source_text: ch33
 
 ---
 
-> **原句 9:** "How is this possible? I'm back at the tree, back where I started. I've been hiking the whole damn day and I'm in the very spot where I slept last night, the same crevice under the boulder."
-
-**中文理解**："这怎么可能？我回到了那棵树，回到了我出发的地方。我徒步了一整天，却到了我昨晚睡觉的地方，巨石下的同一条裂缝。"
-
-**句子结构**：问句 + 三个句子展开：回到原点 → 徒劳的努力 → 精确的地点描述。damn 是脏话，表达强烈的挫败感。
-
-**关键词**：back at the tree（回到那棵树）· the whole damn day（一整见鬼的一天）· the very spot（正是那个地方）
-
-**为什么这样写**：这是全章的转折点——Grant 发现他回到了原点。"How is this possible?"的问句不是修辞，而是真实的困惑。the same crevice under the boulder 的精确描述让这个发现更加可怕：他不是在"附近"，而是在"同一个地方"。
-
----
-
-> **原句 10:** "Plenty can go wrong when you don't know where you are. One bad decision has compounded to a thousand bad decisions, and I've made some bad decisions. Nuclear bad."
-
-**中文理解**："当你不知道自己在什么地方时，很多事情会出错。一个糟糕的决定复合成了一千个糟糕的决定，而我做了一些糟糕的决定。糟糕到核爆级。"
-
-**句子结构**：三个句子递进：一般规律 → 具体处境 → 自嘲式强调。Nuclear bad 是一个俚语表达，将"坏"的程度推到极端。
-
-**关键词**：compound（复合）· a thousand bad decisions（一千个糟糕的决定）· nuclear bad（核爆级的坏）
-
-**为什么这样写**：Grant 用"compound"（复利）这个金融术语来描述决策的恶化——这是一个教授的专业习惯，用学术概念来理解个人灾难。"Nuclear bad"的俚语将幽默与绝望混合在一起：他还在开玩笑，但玩笑的内容是真正的绝望。
-
-## 词汇
+## 本章词汇
 
 | 单词/短语 | 释义 | 出处 |
 |---|---|---|

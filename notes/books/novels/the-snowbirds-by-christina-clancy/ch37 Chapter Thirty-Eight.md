@@ -12,7 +12,7 @@ source_text: ch37
 
 **情感弧线位置**：从 sound bath 的集体体验 → Kim 对 Grant 的新认识（"I saw him"）→ 两人终于对话 → 关于工作的冲突 → 关于关系的冲突 → 未解决的问题——弧线在"连接"与"冲突"之间剧烈摇摆，以悬而未决收束。
 
-**Tropes 兑现/反转**： sound bath（声音浴）——作为 New Year's Eve 的体验；真实的对话（Real Conversation）——Kim 和 Grant 终于说出他们的想法；未解决的问题（Unresolved Question）——Kim 的问题没有答案。
+**Tropes 兑现/反转**： sound bath（声音浴）——作为 New Year's Eve 的体验；真实的对话（Real Conversation）——Kim 和 Grant 终于说出他们的想法；未解决的问题（I need to talk to you about something）——Kim 的问题没有答案。
 
 **人物弧线**：Kim 第一次真正"看见"了 Grant——不是作为丈夫或父亲，而是作为一个人。但这也意味着她第一次看到了他们之间的问题。Grant 第一次表达了他对 Kim 的失望——她不能 fully commit 到这段关系。
 
@@ -116,29 +116,7 @@ source_text: ch37
 
 ---
 
-> **原句 9:** "No wonder you wanted to snowbird. You can't commit fully to being with me any more than you can commit to being in one place."
-
-**中文理解**："难怪你想 snowbird。你不能 fully commit 和我在一起，就像你不能 fully commit 在一个地方一样。"
-
-**句子结构**：No wonder 引导的感叹句 + 主句。not...any more than... 是比较结构，表示"不比...更多"。
-
-**关键词**：No wonder（难怪）· wanted to snowbird（想候鸟式生活）· commit fully（完全投入）· being with me（和我在一起）· being in one place（在一个地方）
-
-**为什么这样写**：这是 Grant 对 Kim 的核心指控——她不能 commit。他将"being with me"和"being in one place"并列，暗示 Kim 的不稳定不是关于地方，而是关于关系。这是全章最残酷的对话。
-
----
-
-> **原句 10:** "What are you going to do, Grant? Disappear again?"
-
-**中文理解**："你打算怎么办，Grant？再次消失吗？"
-
-**句子结构**：两个问句：What are you going to do?（将来时）→ Disappear again?（省略句，省略了"Are you going to"）。
-
-**关键词**：What are you going to do（你打算怎么办）· Disappear again（再次消失）
-
-**为什么这样写**：这是全章的结尾——Kim 的问题没有答案。"Disappear again?"是 Kim 对 Grant 的核心恐惧：他会再次离开。这个问题的悬而未决让读者处于紧张中——Grant 会回来吗？
-
-## 词汇
+## 本章词汇
 
 | 单词/短语 | 释义 | 出处 |
 |---|---|---|

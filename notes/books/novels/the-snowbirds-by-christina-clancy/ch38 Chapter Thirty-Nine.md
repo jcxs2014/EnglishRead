@@ -12,7 +12,7 @@ source_text: ch38
 
 **情感弧线位置**：从等待的绝望 → 电话的震惊 → 纯粹的喜悦（"Grant is alive!"）→ 求婚的紧张 → Code Blue 的恐怖——弧线在"喜悦"与"恐惧"之间剧烈摇摆，以悬而未决收束。
 
-**Tropes 兑现/反转**：Hail Mary 救援（Last-Minute Rescue）——Hobie 的坚持救了 Grant；求婚反转（Proposal Reversal）——Kim 向 Grant 求婚（而非反过来）；Code Blue（心脏骤停）——在喜悦的顶点突然转折。
+**Tropes 兑现/反转**：Hail Mary 救援（Last-Minute Rescue）——Hobie 的坚持救了 Grant；求婚反转（will you marry me）——Kim 向 Grant 求婚（而非反过来）；Code Blue（心脏骤停）——在喜悦的顶点突然转折。
 
 **人物弧线**：Kim 在 Grant 回来后立即向他求婚——她不再等待他的承诺，而是自己主动。但 Grant 的 Code Blue 让这个承诺悬而未决。
 
@@ -116,29 +116,7 @@ source_text: ch38
 
 ---
 
-> **原句 9:** "My pack. I need my pack."
-
-**中文理解**："我的背包。我需要我的背包。"
-
-**句子结构**：两个极简句。My pack 是名词性短语，I need my pack 是完整句。
-
-**关键词**：my pack（我的背包）· I need（我需要）
-
-**为什么这样写**：Grant 在极度虚弱时的第一句话不是"I'm alive"或"thank you"，而是"My pack"——这暗示了背包里有重要的东西（后来揭示是银石和订婚戒指）。这种优先级揭示了 Grant 的价值观：对他来说，背包里的东西比自己的生命更重要。
-
----
-
-> **原句 10:** "This time he wasn't missing or lost: he was gone."
-
-**中文理解**："这一次他不是失踪或迷路：他消失了。"
-
-**句子结构**：This time 引导的对比句 + 冒号后的解释。missing or lost 与 gone 形成递进。
-
-**关键词**：This time（这一次）· missing or lost（失踪或迷路）· he was gone（他消失了）
-
-**为什么这样写**：这是全章的结尾——Grant 的 Code Blue 让读者处于紧张中。"This time"的对比暗示了之前 Grant 的失踪和迷路，但这一次是真正的消失。"he was gone"的简洁让这个转折更加突然和恐怖。
-
-## 词汇
+## 本章词汇
 
 | 单词/短语 | 释义 | 出处 |
 |---|---|---|

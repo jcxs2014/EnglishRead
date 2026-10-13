@@ -8,7 +8,7 @@ source_text: ch34
 
 ## 本章导航
 
-**一句话概括**：Melody 邀请 Kim 搬到 Palm Springs 并担任 Underwood Foundation 的总裁；Kim 被这个机会深深吸引，但因为 Grant 和 Madison 的生活而犹豫——最终 Melody 的一句话让她意识到自己在"yanking on her bare ring finger"。
+**一句话概括**：Melody 邀请 Kim 搬到 Palm Springs 并担任 Underwood Foundation 的总裁；Kim 被这个机会深深吸引，但因为 Grant 和 Madison 的生活而犹豫——最终 Melody 的一句话让她意识到自己在"yanking on my bare ring finger"。
 
 **情感弧线位置**：从日常的文件整理 → Melody 的突然邀请 → Kim 的内心挣扎（机遇 vs. 责任）→ 被 Melody 说中痛点 → 沉默的焦虑——弧线在"被诱惑"与"被责任束缚"之间拉锯，以无声的焦虑收束。
 
@@ -16,7 +16,7 @@ source_text: ch34
 
 **人物弧线**：Kim 第一次认真考虑"没有 Grant 的生活"——不仅是作为寡妇，而是作为独立女性。她的犹豫不是因为不爱 Grant，而是因为不确定自己是谁。
 
-**叙事手法**：对话驱动叙事（Melody 和 Kim 的对话）；内心独白（Kim 对 Madison 的回忆）；象征动作（yanking on bare ring finger）；环境象征（窗外的沙漠和山脉）。
+**叙事手法**：对话驱动叙事（Melody 和 Kim 的对话）；内心独白（Kim 对 Madison 的回忆）；象征动作（yanking on my bare ring finger）；环境象征（窗外的沙漠和山脉）。
 
 ## 精读
 
@@ -116,29 +116,7 @@ source_text: ch34
 
 ---
 
-> **原句 9:** "Could I really be part of this place? Was this my ecosystem? It was home for the winter, but could it be home all year long?"
-
-**中文理解**："我真的能成为这个地方的一部分吗？这是我的 ecosystem 吗？这里是冬天的家，但能成为全年的家吗？"
-
-**句子结构**：三个问句递进：归属感 → 身份认同 → 时间维度。ecosystem 是一个生态学术语，被 Kim 用来描述她与地方的关系。
-
-**关键词**：part of this place（这个地方的一部分）· my ecosystem（我的生态系统）· home all year long（全年的家）
-
-**为什么这样写**：Kim 用"ecosystem"这个词来描述她与 Palm Springs 的关系——这是一个精确的词，暗示了适应与不适应的张力。"home for the winter"vs."home all year long"的对比揭示了她对"家"的定义：家是一个你可以回来过冬的地方，还是你必须在的地方？
-
----
-
-> **原句 10:** "She was staring at my hand and I looked down and realized why: I was nervously yanking on my bare ring finger."
-
-**中文理解**："她盯着我的手，我低头看，明白了为什么：我在紧张地拽我光秃的无名指。"
-
-**句子结构**：两个句子 + 冒号引出解释。yanking 是一个粗俗的词，暗示紧张的动作。bare ring finger 暗示戒指已经被摘下（或从未戴上）。
-
-**关键词**：staring at my hand（盯着我的手）· nervously yanking（紧张地拽）· bare ring finger（光秃的无名指）
-
-**为什么这样写**：这是全章的象征性结尾——Kim 在无意识中触碰她的手指，而 Melody 看到了。这个动作揭示了 Kim 的焦虑的核心：她不确定自己的身份（妻子？寡妇？独立女性？）。bare ring finger 的意象与前面 Melody 提到的"never marrying"形成对照：Kim 不能像 Melody 那样"extract"自己，因为她的"we"还在——但"we"的光秃手指暗示了它的脆弱。
-
-## 词汇
+## 本章词汇
 
 | 单词/短语 | 释义 | 出处 |
 |---|---|---|

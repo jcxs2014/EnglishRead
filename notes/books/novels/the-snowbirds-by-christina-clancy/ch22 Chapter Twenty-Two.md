@@ -12,11 +12,11 @@ source_text: ch22
 
 **情感弧线位置**：低沉区——回忆中的幸福与现实中的失落交织；核心情感从"我们最美好的时光"急转至"我将钥匙扔进湖里"的决定性背叛感；弧线在"遗憾/悔恨"处停驻。
 
-**Tropes 兑现/反转**：夏季度假屋（Edenic retreat）；年度水上婚礼仪式（替代正式婚姻的浪漫 Ritual）；扔钥匙入湖（Literal rejection of domestic future）；捉迷藏游戏（Relationship as search/hunt）。
+**Tropes 兑现/反转**：夏季度假屋（blissful retreat）；年度水上婚礼仪式（替代正式婚姻的浪漫 Ritual）；扔钥匙入湖（Literal rejection of domestic future）；捉迷藏游戏（Relationship as search/hunt）。
 
 **人物弧线**：Kim 从回忆中承认"我可以更灵活"（第 210 行），到自我审视"我的独立是否变成了自私"——她在丧失 Grant 之后才真正面对自己的恐惧：害怕失去自我，还是害怕失去他？
 
-**叙事手法**：倒叙嵌套倒叙——以"第五次 Grant 离开"开场，穿插 Hobie 的迷路隐喻，再引出 Cabin 回忆；用"throw the key into the lake"将情感高点与结构转折同步锁定；结尾的 blindfold 游戏与开头 hikers 隐喻形成回环。
+**叙事手法**：倒叙嵌套倒叙——以"第五次 Grant 离开"开场，穿插 Hobie 的迷路隐喻，再引出 Cabin 回忆；用"threw the key into the lake"将情感高点与结构转折同步锁定；结尾的 blindfold 游戏与开头 hikers 隐喻形成回环。
 
 ## 精读
 
@@ -116,28 +116,6 @@ source_text: ch22
 
 ---
 
-> **原句 9:** "That's when I did something that haunts me now: I threw the key into the lake."
-
-**中文理解**：就在那一刻，我做了一件至今仍困扰我的事：我把钥匙扔进了湖里。
-
-**句子结构**：指示性时间状语（That's when）+ 名词性从句（I did something）+ 补充说明（I threw the key into the lake）。冒号将"困扰我的事"与具体行为等同——叙述者预先为这个动作定性（haunts me now），将读者从"发生了什么"直接带到"意味着什么"。
-
-**关键词**：haunts me now（至今仍困扰我）· threw the key into the lake（把钥匙扔进湖里）
-
-**为什么这样写**：这是全章的情感爆炸点。钥匙象征着 Grant 为 Kim 在 Mounds 买的房子——以及他们共同的未来。Kim 以一个物理动作终结了一场持续数十年的谈判：她用"扔"代替"说 no"，以身体语言完成语言无法承载的决绝。湖水的"接收"使这个背叛变得不可撤回。
-
----
-
-> **原句 10:** "You'll never know how much I adore you, or how much this hurts me," he said.
-
-**中文理解**：「你永远不会知道我有多爱你，也不会知道这有多让我痛苦。」他说。
-
-**句子结构**：直接引语中嵌套两个"How much..."结构的并列句，以"or"连接；"adore"（爱慕）与"hurts"（痛苦）是同一句话中的两个极端，形成情感对称——爱与痛在同一个句子中达到平衡。
-
-**关键词**：adore（爱慕）· how much this hurts me（这有多让我痛苦）
-
-**为什么这样写**：Grant 的这句话是他在这段关系中最后一次情感表达。他没有愤怒，没有争辩，只是平静地陈述爱与痛并存的现实。这是 Grant 人物弧线的最终揭示：他的坚持不是因为固执，而是因为他真的相信两人在一起会更好。Kim 的"扔钥匙"不仅拒绝了房子，也拒绝了他的整个情感世界。
-
 ## 本章词汇
 
 ### ⭐⭐⭐ 高级
@@ -145,7 +123,7 @@ source_text: ch22
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | inadvertent | 偶然的；不知不觉的 | Hobie said that experienced hikers know they'll inadvertently walk in a circle when they're lost. |
-| Edenic | 伊甸园般的；天真快乐的 | The cabin had the same ingredients that made Camp Jamboree so special for me: water, sun, warmth, and no adult responsibilities. |
+| blissful | 伊甸园般的；天真快乐的 | The cabin had the same ingredients that made Camp Jamboree so special for me: water, sun, warmth, and no adult responsibilities. |
 | ritual | 仪式；习惯性程序 | Every year, our most romantic tradition was to paddle out to the middle of the lake, jump in, and "marry" each other. |
 | cohabit | 同居 | Is it possible to achieve deep companionship with a ton of freedom? My friends always tried to cultivate their own lives within their marriages. |
 | beckon | 引诱；召唤 | There was no Wi-Fi, and limited cell reception. Nothing beckoned. We had only each other. |

@@ -16,7 +16,7 @@ source_text: ch26
 
 **人物弧线**：Grant 从「挑剔的旁观者」转变为「充满使命感的行动者」；Kim 从「抱怨琐事」到「找到自己的火花」，完成自我赋权。
 
-**叙事手法**：第一人称回顾视角；细节驱动的幽默（Calvin Klein式的健身狂热）；日常片段串联，结尾落在 daughters 的调侃上，轻松收束。
+**叙事手法**：第一人称回顾视角；细节驱动的幽默（gym 会员制的健身狂热）；日常片段串联，结尾落在 daughters 的调侃上，轻松收束。
 
 ## 精读
 
@@ -105,28 +105,6 @@ source_text: ch26
 
 **关键词**：AR-15s（AR-15 自动步枪）· You can shoot anywhere you want（想在哪里开枪就在哪里开）
 **为什么这样写**：Grant 描述的是沙漠中近乎无政府状态的自由——没有规则，没有限制。这与他研究「right-of-way rules」的谨慎一面形成有趣张力。他既是被规则约束的学者，也是荒漠中的探险者。Kim 的「I feel much better!」是明显的讽刺。
-
----
-
-> **原句 9:** "He ripped off his shirt. He was starting to have actual abs."
-
-**中文理解**：他一把扯掉衬衫。他开始有真正的腹肌了。
-
-**句子结构**：两个简单过去时短句，并列推进；「ripped off」比「took off」更暴力、更冲动；「actual abs」中 actual 一词暗含此前为假、现在为真的对比。
-
-**关键词**：ripped off his shirt（扯掉衬衫）· actual abs（真正的腹肌）
-**为什么这样写**：这个动作是 Grant 健身成果的集中展示——不是优雅的更衣，而是当众炫耀。他对这一变化的骄傲近乎幼稚，与「He spoke with the energy of a kid」完美呼应。Kim 的回应「Bet you've never made love to a man who's shot a gun」是对他炫耀行为的反讽接招。
-
----
-
-> **原句 10:** "Dad looks like he just returned from a special ops mission."
-
-**中文理解**：爸爸看起来像是刚从一次特种部队任务中归来。
-
-**句子结构**：Dort 的文本原文；「looks like + [clause]」类比结构；口语化文本；感叹词「Holy shit!」强化语气。
-
-**关键词**：special ops mission（特种部队任务）
-**为什么这样写**：Dort（女儿）的这句话是全章最幽默的时刻——用一个军事化比喻形容她那个曾经坐办公室、从未运动过的父亲。「Dad」这个称呼的距离感（Kim 是叙事者，引用的是女儿对爸爸的形容）与实际形象的巨大反差产生喜剧效果。「GRAMBO」（Grant + Rambo 的拼接词）紧随其后，成为本章最温馨的收尾注脚。
 
 ---
 

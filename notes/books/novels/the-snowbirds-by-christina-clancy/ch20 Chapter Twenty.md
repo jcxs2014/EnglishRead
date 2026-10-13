@@ -59,7 +59,7 @@ source_text: ch20
 
 **句子结构**：简短疑问句，Raul 的话；「my girl」是亲密称呼，语境严肃（他是把 Kim 拉到一边单独问的），与之前热闘气氛形成反差。
 
-**关键词**：my girl（姑娘）· pulled me aside（把我拉到一边）
+**关键词**：my girl（姑娘）· You okay（你还好吗）
 **为什么这样写**：Raul 先热后冷——先是 party 式的欢迎，然后在无人时用「my girl」这个私密称呼询问，显示他真正关心 Kim。读者从这里开始感觉到 Raul（以及 Thomas）是愿意站在 Kim 立场思考的人。
 
 ---
@@ -75,7 +75,7 @@ source_text: ch20
 
 ---
 
-> **原句 6:** "You know how arsonists stick around to watch a fire burn? Raul and I, we were talking, and we think Hobie might have had something to do with Grant going missing."
+> **原句 6:** "You know how arsonists stick around to watch a fire burn?" Thomas asked. "Raul and I, we were talking, and we think Hobie might have had something to do with Grant going missing. Maybe he's hidden him somewhere out there and he's about to ask for ransom."
 
 **中文理解**：「你知道放火的人总会在现场等着看火烧起来吧？Raul 和我在聊，我们觉得 Hobie 可能跟 Grant 的失踪有关系。」
 
@@ -105,30 +105,6 @@ source_text: ch20
 
 **关键词**：having an affair（搞婚外情）
 **为什么这样写**：Coco 以她一贯的直接方式触及了 Kim 内心深处的恐惧——Grant 的失踪不是意外，而是他选择了离开。这个问题在搜索派对的轻松氛围中提出，如同在伤口上撒盐。而 Cassie's 的回答「His heart is aligned with Kim's」立即提供了一个反证，构成了本章的情感转折。
-
----
-
-> **原句 9:** "That's just a fancy way of saying he's lost. And it's a terrible thing to get lost."
-
-**中文理解**：「这不过是一种花哨的说法罢了——他迷路了。而迷路是一件很可怕的事情。」
-
-**句子结构**：并列复合句；第一句「That's just a fancy way of saying…」是对 Cassie 的反驳，第二句是独立陈述。句子短促有力，节奏感强。
-
-**关键词**：fancy way（花哨的说法）· lost（迷路）· terrible thing（可怕的事）
-**为什么这样写**：Hobie 用最朴素的语言拆解了 Cassie 的形而上学——「seeker at his core」不过是「lost」的包装。迷路既是字面意义（Grant 在山里迷路），也是隐喻意义（Hobie 关于人在情感上迷路的哲学讨论）。这个双重含义贯穿本章始终。
-
----
-
-> **原句 10:** "You can take just a few steps off the trail, and you might never find your way back again."
-
-**中文理解**：「你只要离开小路几步，就可能再也找不到回去的路了。」
-
-**句子结构**：条件句「You can… and you might…」；前半句轻描淡写（「just a few steps」），后半句陡然转重（「might never find your way back」）。
-
-**关键词**：few steps off the trail（离开小路几步）· never find your way back（再也找不到回去的路）
-**为什么这样写**：这句话是 Hobie 全章独白的核心隐喻。它既是对 Grant 实际处境的描述（「几步」就可能致命），也是对 Kim 婚姻的警告——Grant 每次离开都是一次微型的失踪，而 Kim 也在这个过程中逐渐「迷路」。最后 Kim 终于拿到那本 Moleskine——她「迈出了那几步」，接下来会发生什么，是本章留下的悬念。
-
----
 
 ## 词汇表
 

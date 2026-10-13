@@ -116,29 +116,7 @@ source_text: ch36
 
 ---
 
-> **原句 9:** "I decided that if we couldn't find each other once our gazes met, we might not have a chance."
-
-**中文理解**："我决定，如果我们的目光相遇后我们找不到彼此，我们可能就没有机会了。"
-
-**句子结构**：I decided + that 引导的宾语从句。if 引导的条件状语从句嵌套在宾语从句中。might not have a chance 是情态动词的否定。
-
-**关键词**：if we couldn't find each other（如果我们找不到彼此）· once our gazes met（一旦我们的目光相遇）· might not have a chance（可能没有机会）
-
-**为什么这样写**：这是 Kim 在 soul-gazing 前的内心独白——她意识到这可能是她和 Grant 的最后机会。"might not have a chance"的模糊性暗示了她对关系的不确定。
-
----
-
-> **原句 10:** "It made me crack open, a sensation that was beyond words, a love so big I couldn't let myself want it because it terrified me—it has always terrified me."
-
-**中文理解**："它让我 crack open，一种超越语言的感觉，一种如此大的爱，我不能让自己想要它，因为它让我恐惧——它一直让我恐惧。"
-
-**句子结构**：It made me crack open + 两个同位语（a sensation... 和 a love...）。so...that... 结果状语从句嵌入在第二个同位语中。
-
-**关键词**：crack open（裂开）· beyond words（超越语言）· so big（如此大）· terrified me（让我恐惧）
-
-**为什么这样写**：这是全章最强烈的情感表达——Kim 终于允许自己感受到对 Grant 的爱，但这种爱太大了，太可怕了，她不能让自己想要它。"it has always terrified me"的现在完成时暗示了这种恐惧的持久性——它不是新的，而是一直存在的。
-
-## 词汇
+## 本章词汇
 
 | 单词/短语 | 释义 | 出处 |
 |---|---|---|

@@ -26,7 +26,7 @@ source_text: ch18
 
 **句子结构**：首句以「Never in my life had I been so attuned」开篇，否定倒装结构强调感知的转变；两段描写（太阳弧移→阴影渐浓）由 and 连接的因果链推进，末句以 When 条件句收束，将自然规律与情感处境直接挂钩。
 
-**关键词**：attuned to（关注；感知）· outcroppings（岩石露头）· blankets the valley（笼罩山谷） · the day ends（白昼结束）
+**关键词**：attuned to（关注；感知）· outcroppings（岩石露头）· blankets the valley（笼罩山谷） · setting beyond view（沉入视野之外）
 
 **为什么这样写**：以太阳运动开篇，将客观自然现象与主观时间压力叠加。Kim 对日照的敏感测量的是绝望的深度——太阳落山意味着今天的搜救结束，而 Grant 已经独自在山上待了两个夜晚。地理条件（靠近山脉=更早天黑）在这里变成了叙事命运。
 
@@ -113,42 +113,6 @@ source_text: ch18
 **关键词**：the journal（日记）· our whole relationship（我们整个的关系）· complicated history（复杂的历史）
 
 **为什么这样写**：Kim 的恐惧不是 Grant 的死，而是两人关系的暴露——「complicated history」暗示有婚外情、前任纠缠、法律问题等她从未向外人坦白的细节。Brady 把背包当作「evidence」的法律程序，在这里与 Kim 把它视为「evidence of us」的情感逻辑产生碰撞。
-
----
-
-> **原句 9:** "Our relationship had worked up to that point because it was fueled by our cycles of absence and reunion—from the planned to the unpredictable."
-
-**中文理解**：我们的关系在此之前之所以能运转，是因为靠的是离别与重逢的循环——从有计划的到不可预测的。
-
-**句子结构**：主句（Our relationship had worked…because it was fueled by…）+ 同位语（cycles of absence and reunion）+ 破折号进一步说明（from the planned to the unpredictable）。
-
-**关键词**：fueled by（由……驱动）· cycles of absence and reunion（离别与重逢的循环）· the planned to the unpredictable（从有计划的到不可预测的）
-
-**为什么这样写**：这是 Kim 对自己三十年伴侣关系的冷静诊断。 Absence 和 reunion 的循环是 Grant 失踪的核心悖论——他每次离开都会让 Kim 更强烈地感受到他的存在，而这也正是现在她如此崩溃的原因：absence 已经到了可能永久化的边缘，而 reunion 变得不可预测。
-
----
-
-> **原句 10:** "'That word evidence made me feel exposed.'"
-
-**中文理解**：「『证据』这个词让我感到被暴露。」
-
-**句子结构**：简短句，以被动语态（made me feel exposed）表达情感冲击；名词性从句 "That word evidence" 作主语，"made me feel exposed" 是宾语 + 补语结构。
-
-**关键词**：evidence（证据）· exposed（被暴露）
-
-**为什么这样写**：Kim 的恐惧不是 Grant 的死，而是两人关系的暴露——「complicated history」暗示有婚外情、前任纠缠、法律问题等她从未向外人坦白的细节。Brady 把背包当作「evidence」的法律程序，在这里与 Kim 把它视为情感证据的逻辑产生碰撞。
-
----
-
-> **原句 11:** "'To me, it was evidence of us, and who we were.'"
-
-**中文理解**：「对我来说，那是关于我们，以及我们是谁的证据。」
-
-**句子结构**：「To me」状语提前，强调视角转换；「evidence of us」是核心短语，「who we were」补充说明身份认同层面——同一个词（evidence）在 Brady（法律证据）和 Kim（身份证据）那里有了完全不同的含义。
-
-**关键词**：evidence of us（我们关系的证据）· who we were（我们是谁）
-
-**为什么这样写**：这是本章的核心句。「evidence of us」揭示了 Kim 最深的恐惧：她和 Grant 的关系不是法律上认可的（从未结婚），所以一旦他消失，「我们」就只剩日记本里的文字来证明曾经存在过。日记被收走，「我们」的存在证据也就被夺走了。
 
 ## 本章词汇
 

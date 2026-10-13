@@ -116,29 +116,7 @@ source_text: ch39
 
 ---
 
-> **原句 9:** "I got lost. And when I got lost, I faced my fears and found myself."
-
-**中文理解**："我迷路了。当我迷路时，我面对了我的恐惧，找到了自己。"
-
-**句子结构**：三个句子递进：I got lost → when I got lost → I faced...and found...。when 引导的时间状语从句强调了"迷路"与"找到自己"的因果关系。
-
-**关键词**：got lost（迷路了）· faced my fears（面对我的恐惧）· found myself（找到了自己）
-
-**为什么这样写**：这是 Grant 对经历的总结——迷路不是灾难，而是契机。"found himself"是一个常见的表达，但在这里它有双重含义：字面上（在荒野中找到了方向）和隐喻上（找到了自我）。
-
----
-
-> **原句 10:** "The whole time we've been here, I've been waiting for you to ask me again. And when you do, my answer is yes."
-
-**中文理解**："我们在这里的整段时间里，我一直在等你再次问我。当你问时，我的答案是 yes。"
-
-**句子结构**：两个句子：I've been waiting（现在完成进行时）→ And when you do, my answer is yes（时间状语从句 + 主句）。
-
-**关键词**：waiting for you to ask me again（等你再次问我）· my answer is yes（我的答案是愿意）
-
-**为什么这样写**：这是全章的结尾——Grant 的"yes"是对 Kim 求婚的回应，也是对他之前承诺的确认。"the whole time"的强调暗示了 Grant 一直在等待这一刻：他不是不愿意结婚，而是在等 Kim 主动。
-
-## 词汇
+## 本章词汇
 
 | 单词/短语 | 释义 | 出处 |
 |---|---|---|

@@ -12,7 +12,7 @@ source_text: ch32
 
 **情感弧线位置**：从对 Thomas/Raul 的有趣观察 → 参与集体狂欢的快乐 → 对 Palm Springs 文化差异的反思 → 一种安静的归属感——这是 Kim 在 Grant 失踪后第一次真正"活着"。
 
-**Tropes 兑现/反转**：文化冲击（Culture Shock）——加州式的荒诞时尚与 Wisconsin 式的生活形成对比；集体狂欢（Group Catharsis）——晨间的 howling 和锻炼释放了 Kim 压抑的情感；城市作为人物（City as Character）——Palm Springs 的名人文化、金钱文化、时尚文化都在本章集中展现。
+**Tropes 兑现/反转**：文化冲击（Culture Shock）——加州式的荒诞时尚与 Wisconsin 式的生活形成对比；集体狂欢（Everyone began howling）——晨间的 howling 和锻炼释放了 Kim 压抑的情感；城市作为人物（City as Character）——Palm Springs 的名人文化、金钱文化、时尚文化都在本章集中展现。
 
 **人物弧线**：Kim 从旁观者变成参与者——她开始拍照、微笑、howl，"couldn't stop smiling"。同时她对 Palm Springs 的态度从"抵抗"转向"接受"——不是因为它更好，而是因为它真实。
 
@@ -116,29 +116,7 @@ source_text: ch32
 
 ---
 
-> **原句 9:** "A penny? Please. You have to take out a loan if you want to dream in Palm Springs."
-
-**中文理解**："一分钱？拜托。如果你想在 Palm Springs 梦想，你得贷款。"
-
-**句子结构**：Raul 的回应，两个句子：反驳（"A penny? Please."）→ 现实陈述（"take out a loan"）。Please 在这里是语气词，表示不以为然。
-
-**关键词**：take out a loan（贷款）· dream in Palm Springs（在棕榈泉梦想）
-
-**为什么这样写**：这是全章最尖锐的社会评论——Raul 用幽默的方式指出了 Palm Springs 的真实门槛：不是"free to dream"，而是"需要贷款才能梦想"。这句话戳破了 Polly 式的浪漫梦想，揭示了加州的现实。
-
----
-
-> **原句 10:** "But just because Palm Springs was different from what I was used to didn't make the life I was building here any less real."
-
-**中文理解**："但只是因为 Palm Springs 不同于我习惯的地方，并不意味着我在这里建立的生活不那么真实。"
-
-**句子结构**：But 引导转折 + because 引导原因状语从句 + 主句（didn't make...any less real）。any less real 是比较级否定。
-
-**关键词**：different from what I was used to（不同于我习惯的）· building here（在这里建立）· any less real（不那么真实）
-
-**为什么这样写**：这是全章的结论性思考——Kim 承认 Palm Springs 与 Madison 不同，但拒绝以"真实性"来评判。这个反思也是对前面所有文化冲击的整合：从"late to the cultural party"到"life here is real"，Kim 完成了态度的转变。
-
-## 词汇
+## 本章词汇
 
 | 单词/短语 | 释义 | 出处 |
 |---|---|---|
