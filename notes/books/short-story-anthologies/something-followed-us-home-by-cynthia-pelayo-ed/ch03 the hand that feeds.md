@@ -14,9 +14,9 @@ source_text: ch03
 **一句话主旨**：一只被男孩收养又遭母亲抛弃的小狼 Lobita，被造物者 La Huesera 赋予人形后爱上人类男子、嫁入家庭；然而丈夫偷走了她的狼皮（她的本体），将她困在人类躯壳中。她逐渐消瘦、绝望，最终祈求丈夫打开咒箱——他伸手的瞬间被切断手腕，手成为 La Huesera 的新造物材料。
 **结构**：
 - 开头：以「曾祖母讲故事的惯用开场」切入——厨房、灶上的食物，但这次还多了一声尖叫与一根指控的手指
-- 推进：狼崽 Lobita 被男孩收养又被人类猎杀，La Huesera（造骨者）用她的骨头造出怪物
+- 推进：狼崽 Lobita 被男孩收养，又被人类用石头砸伤、喝斥赶出家门；走投无路时她召唤 La Huesera（造骨者），并自己扯下狼皮化为人形 la Loba
 - 转折：Lobita 求 La Huesera 别让她变得「那么强、那么孤独」，但诅咒已成
-- 结尾：Lobita 用造物者的口吻反问——要把死者做成什么：下界的钥匙、预言死亡的骰子，还是一支简单的烟斗
+- 结尾：La Huesera 用造物者的口吻反问——要把死者做成什么：下界的钥匙、预言死亡的骰子，还是一支简单的烟斗
 **核心金句**：
 > "La Huesera: creator of monsters, mother of bones."
 > "A wolf like her doesn't bite the hand that feeds. She was always too famished for tenderness. So starved that she kissed the offering palm, wrapped though it was in thorns."
@@ -124,17 +124,17 @@ source_text: ch03
 
 ---
 
-> **原句 8:** Her throat catches, dry as tumbleweed, old bones splintering in the desert.
+> **原句 8:** Hands seize the pup and toss her into the refuse behind the house, into the dry cold of the night. Doors slam. The sound shudders through her bones.
 
-**中文理解**：她的喉咙发紧，像风滚草一样干燥，像旧骨在沙漠中碎裂。
+**中文理解**：一双手抓住小狼，把她扔进屋子后的垃圾堆里，扔进夜晚干冷的空气中。门砰地关上，那声响震得她的骨头都在颤。
 
-**句子结构**：Her throat catches 为主句，dry as tumbleweed 与 old bones splintering in the desert 为两个并列的比喻性补充——重复句强化狼崽的干渴与孤独。
+**句子结构**：Hands seize the pup and toss her into the refuse 为并列谓语（seize / toss）+ into 介词短语；behind the house, into the dry cold of the night 为两个地点状语并列；Doors slam 为独立短句；The sound shudders through her bones 以主谓宾写声音的身体效果。
 
-**关键词**：throat, dry, desert
+**关键词**：refuse, dry cold, shudder
 
-**表达方式**：明喻（as tumbleweed）+ 独立主格（old bones splintering）+ 地点状语（in the desert）制造逐层递进的感官密度。
+**表达方式**：主动的 Hands seize 制造「暴力」的即时性；两个 into 并列制造「被排除在外」的位移；三词短句 Doors slam 制造「隔绝」；shudders through her bones 的拟人把关门声写成身体经验。
 
-**为什么这样写**：这是上一条引语的延伸——三个独立的名词/形容词短语堆叠，制造「干渴-碎裂-荒漠」的三重意象链。　注意「dry as tumbleweed」与「old bones splintering」的并置——植物（风滚草）与动物（骨）都是荒漠中死亡的残余，暗示 Lobita 的「干渴」既是生理的也是存在性的。
+**为什么这样写**：这是「被逐出人类之家」的瞬间——暴力以「抛弃」而非「杀戮」的形式出现（不是被猎杀，而是被扔进垃圾堆），为后文她「亲吻喂养之手」的反转埋线。Doors slam 的三词短句把「家」关成一个不再可及的空间。　注意 refuse（垃圾）——她被与「弃物」并列，写尽这个家庭对她的价值判断。
 
 ---
 

@@ -11,12 +11,12 @@ source_text: ch09
 **来源**：《Something Followed Us Home: Tales of Latiné Horror》，Cynthia Pelayo 编，第 9 篇
 **作者**：Xochitl Gonzalez
 **类型**：拉美魔幻寓言短篇
-**一句话主旨**：一个拥有「无法满足之渴」的男人，在玻璃屋中通过葡萄柚树的果实获得片刻满足。妻子 Marlen 因无法生育儿子而求助于女巫 Doña Viviana，后者以「另一个孩子」为代价施法。Marlen 在暴风雨中融化于葡萄柚树下，女儿 Pilar 发现树上的果实中孕育着一个男人——Pomelo。Pilar 与 Alma 将 Pomelo 抚养成人，但他最终开始「变回果实」。
+**一句话主旨**：一个拥有「无法满足之渴」的男人，在玻璃屋中通过葡萄柚树的果实获得片刻满足。妻子 Marlen 因无法生育儿子而求助于女巫 Doña Viviana，后者给出的办法是让 Marlen 化入土地（以自身为代价）。Marlen 在暴风雨中融化于葡萄柚树下，女儿 Pilar 发现树上的果实中孕育着一个男人——Pomelo。Pilar 与 Alma 将 Pomelo 抚养成人，但他最终背生双翼，与 Pilar 一同飞出玻璃屋。
 **结构**：
 - 开头：从前有个「永不满足的口渴」的男人，多疑成性，用玻璃造了马蹄形的房子
 - 推进：他只能从餐桌看到两样东西——别人在做什么，以及院中的葡萄柚树
-- 转折：他规定只有儿子能扦插葡萄柚树，女儿 Pilar 被排除在外；树被砍后仍在结果，但他再没碰过
-- 结尾：Pilar 在葡萄柚的粉色瓣囊里发现一个「蜷缩的男人」——寓言闭合
+- 转折：他规定只有儿子能扦插葡萄柚树，女儿 Pilar 被排除在外；树从未被砍、一直结果，但他咬碎牙齿后再没碰过
+- 结尾：Pomelo 生出双翼、言明身世，带 Pilar 飞出玻璃屋——寓言闭合
 **核心金句**：
 > "Once there was a man with an insatiable thirst."
 > "In her hands, curled up in the pinkish-veined sac of a grapefruit, was a man."

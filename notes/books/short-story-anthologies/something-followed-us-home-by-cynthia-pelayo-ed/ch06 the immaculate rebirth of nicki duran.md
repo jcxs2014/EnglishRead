@@ -11,10 +11,10 @@ source_text: ch06
 **来源**：《Something Followed Us Home: Tales of Latiné Horror》，Cynthia Pelayo 编，第 6 篇
 **作者**：Zoraida Córdova
 **类型**：拉美科幻神秘恐怖短篇
-**一句话主旨**：39 岁的 Nicki Duran 在毫无记忆的情况下怀孕三个月，超声波显示子宫是「黑色空洞」；全球数万女性同样神秘怀孕，被教皇命名为「无瑕者」（Immaculate Ones）。Nicki 将体内的黑洞命名为 Mila（西语「奇迹 milagrito」的缩略），在性关系中 Vin 被 Mila 消失/吃掉。她拜访女巫 Santana，在通灵中见到 Mila 的不同年龄段，最终与 Mila 一起走入海洋——回到「子宫」。
+**一句话主旨**：39 岁的 Nicki Duran 在毫无记忆的情况下怀孕三个月，超声波显示子宫是「黑色空洞」；全球数十万女性同样神秘怀孕（四周内报告 756,332 例），被教皇命名为「无瑕者」（Immaculate Ones）。Nicki 将体内的黑洞命名为 Mila（西语「奇迹 milagrito」的缩略），在性关系中 Vin 被 Mila 消失/吃掉。她拜访女巫 Santana，在通灵中见到 Mila 的不同年龄段，最终与 Mila 一起走入海洋——回到「子宫」。
 **结构**：
 - 开头：以初中时和朋友逃课、互讲「真实故事」开场——童话从来比它以为的更古老
-- 推进：39 岁的 Nicki 无记忆怀孕三个月，子宫成「黑洞」；全球数万女性同时神秘怀孕
+- 推进：39 岁的 Nicki 无记忆怀孕三个月，子宫成「黑洞」；全球数十万女性同时神秘怀孕
 - 转折：她给体内黑洞命名 Mila，Mila 吃掉 Vin 后，她拒绝教会的「无瑕者」命名
 - 结尾：Nicki 与 Mila 一起走进海里——回到「子宫」，与世界和解
 **核心金句**：

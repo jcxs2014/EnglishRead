@@ -130,11 +130,11 @@ source_text: ch18
 
 **句子结构**：Obviously 为副词状语；Greg knew that Sabrina Mendez was friends with that girl 为宾语从句，who got cyberbullied last year 为定语从句——写「知情却未干预」。
 
-**关键词**：cyberbullied, Sabrina Mendez, Naomi
+**关键词**：cyberbullied, Sabrina Mendez, that girl
 
 **表达方式**：Obviously 的副词制造「辩护」；Greg knew 的主谓制造「知情」；that Sabrina Mendez was friends with that girl 的宾语从句制造「关系」；who got cyberbullied last year 的定语从句制造「悲剧」。
 
-**为什么这样写**：以「知情」定义 Greg 的「辩护」——他知道 Sabrina 是 Naomi 的朋友，但没有「干预」。Obviously 的「显然」制造「辩护」；got cyberbullied 的「被网络欺凌」制造「悲剧」。　注意「Obviously」——「显然」暗示 Greg 的「辩护」是「自我」的。这暗示「系统」的「失败」也是「自我」的——它知道问题，但没有「解决」问题。
+**为什么这样写**：以「知情」定义 Greg 的「辩护」——他知道 Sabrina 是那个被网暴女孩的朋友，但没有「干预」。Obviously 的「显然」制造「辩护」；got cyberbullied 的「被网络欺凌」制造「悲剧」。　注意「Obviously」——「显然」暗示 Greg 的「辩护」是「自我」的。这暗示「系统」的「失败」也是「自我」的——它知道问题，但没有「解决」问题。
 
 ---
 

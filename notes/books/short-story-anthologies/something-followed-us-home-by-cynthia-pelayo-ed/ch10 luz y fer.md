@@ -15,7 +15,7 @@ source_text: ch10
 **结构**：
 - 开头：三年前「我」去过 Javits 中心的 Cine Gear Expo，那次爆炸让「我」遍体鳞伤走来走去
 - 推进：官方把它叫作「袭击」，却没有任何组织认领；人群各自抓住「天罚」或「恐袭」的确定性
-- 转折：那名来自咖啡摊的女人从毒烟里走出，颈上挂着白色倒三角吊坠
+- 转折：那名来自咖啡摊的女人从毒烟里走出，颈上挂着黑色倒三角吊坠（在咖啡摊见她时是白色的）
 - 结尾：「回家吧，我甜蜜的金孩子」——把创伤收束为一次母性的召唤
 **核心金句**：
 > "When darkness descends, the collective mob clutches at their own certainties—heaven's judgment or terror's hand—to illuminate their own personal void."
@@ -154,7 +154,7 @@ source_text: ch10
 
 > **原句 10:** Come on home now, my sweet golden child.
 
-**中文理解**：跟踪者（Aurelio 的黑色项链分身）称 Aurelio 为「my sweet golden child」——这是「反讽」的「亲密」。
+**中文理解**：一名女性（在电话那端开口的声音）称 Aurelio 为「my sweet golden child」——这是「反讽」的「亲密」。
 
 **句子结构**：Come on home now, my sweet golden child：祈使句 + 呼语 my sweet golden child，now 为语气词——以母性召唤收束。
 

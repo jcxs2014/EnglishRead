@@ -40,11 +40,11 @@ source_text: ch16
 
 ---
 
-> **原句 2:** Black eyes reflected a dark abyss, leaving Norma with a monstrous expression.
+> **原句 2:** In their place were harrowing pools of liquid obsidian. Black eyes reflected a dark abyss, leaving Norma with a monstrous expression.
 
 **中文理解**：以「黑曜石」定义「眼睛」的「新形态」——黑色眼睛反映「黑暗深渊」。
 
-**句子结构**：Black eyes reflected a dark abyss 为主句，leaving Norma with a monstrous expression 为现在分词作结果状语——以「眼睛映出深渊」写异变。
+**句子结构**：In their place were harrowing pools of liquid obsidian 为倒装句（状语前置 + were + 主语 pools），their place 指上文消失的眼窝；Black eyes reflected a dark abyss 为主句，leaving Norma with a monstrous expression 为现在分词作结果状语——以「眼窝灌满黑曜石、映出深渊」写异变。
 
 **关键词**：Black eyes, dark abyss, monstrous
 

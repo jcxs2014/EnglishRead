@@ -11,7 +11,7 @@ source_text: ch01
 **来源**：《Something Followed Us Home: Tales of Latiné Horror》，Cynthia Pelayo 编，第 1 篇
 **作者**：Brenda Lozano（Heather Cleary 译）
 **类型**：非虚构论述（编者导言）
-**一句话主旨**：
+**一句话主旨**：编者以「语言的鬼魂」为入口，论证拉美鬼魂与殖民史、国家与毒品暴力、独裁镇压、女性杀害相连（盎格鲁-撒克逊传统里的鬼魂则栖居于理性与超自然之间），并以「怪物对应空间、鬼魂对应时间」收束——鬼魂是闯入当下的过去，不请自来，直到我们念出它们的名字。
 **结构**：
 - 开篇：从「鬼魂之间有差异」的对话切入，提出拉美鬼魂与殖民、国家暴力、毒品战争、女性杀害史相连
 - 展开：以西班牙语的哑音字母 H 为隐喻——语言本身也有鬼魂
@@ -48,9 +48,9 @@ source_text: ch01
 
 **关键词**：Latin American, ghosts, colonialism, violence, femicide
 
-**表达方式**：anaphora（首语重复）——五个 to 引导的介词短语形成排比，节奏递进。
+**表达方式**：anaphora（首语重复）——四个 to 引导的介词短语形成排比，节奏递进。
 
-**为什么这样写**：用五个 to 构成的排比句式，将抽象的「殖民史」与具体的「厌女谋杀」并置，形成从宏观到微观的压迫光谱。连续设问（Could it be...）邀请读者共同思考而非直接给出结论。　femicide 是拉美文学中的核心议题，作者将其纳入鬼魂谱系，暗示性别暴力是拉美集体创伤的重要组成部分。
+**为什么这样写**：用四个 to 构成的排比句式，将抽象的「殖民史」与具体的「厌女谋杀」并置，形成从宏观到微观的压迫光谱。连续设问（Could it be...）邀请读者共同思考而非直接给出结论。　femicide 是拉美文学中的核心议题，作者将其纳入鬼魂谱系，暗示性别暴力是拉美集体创伤的重要组成部分。
 
 ---
 
@@ -76,9 +76,9 @@ source_text: ch01
 
 **关键词**：silent, letter, apparition, ghost
 
-**表达方式**：polyptoton（同词根重复）— silent/silented/sounded；anaphora — like... like... like... 三连；sibilance（咝音）— silent/stealthy/ghost/shrieks/suspense 制造语音层面的一致性。
+**表达方式**：polyptoton（同词根重复）— silent/sounded；anaphora — like... like... like... 三连；sibilance（咝音）— silent/stealthy/ghost/shrieks 制造语音层面的一致性。
 
-**为什么这样写**：这是全文最华彩的段落。连续五个明喻（silent like... / a visual apparition like... / like a presence... / like when a ghost shrieks...）层层叠加，将语言学现象转化为视觉奇观。从「沉默的黑猫」到「显影照片中的存在」再到「鬼魂尖啸」，意象从安静到惊悚递进。　这段是编者文风的缩影——高度诗性、跨感官、跨学科。翻译（Heather Cleary 译）保留了原文的韵律感，但西语中 H 的沉默与英语中 /eɪtʃ/ 的爆发力之间的张力在翻译中有所损耗。
+**为什么这样写**：这是全文最华彩的段落。连续四个明喻（silent like... / a visual apparition like... / like a presence... / like when a ghost shrieks...）层层叠加，将语言学现象转化为视觉奇观。从「沉默的黑猫」到「显影照片中的存在」再到「鬼魂尖啸」，意象从安静到惊悚递进。　这段是编者文风的缩影——高度诗性、跨感官、跨学科。翻译（Heather Cleary 译）保留了原文的韵律感，但西语中 H 的沉默与英语中 /eɪtʃ/ 的爆发力之间的张力在翻译中有所损耗。
 
 ---
 

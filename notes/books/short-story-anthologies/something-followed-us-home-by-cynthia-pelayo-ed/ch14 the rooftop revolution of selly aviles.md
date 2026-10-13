@@ -11,7 +11,7 @@ source_text: ch14
 **来源**：《Something Followed Us Home: Tales of Latiné Horror》，Cynthia Pelayo 编，第 14 篇
 **作者**：Daniel José Older
 **类型**：拉美元小说革命恐怖短篇
-**一句话主旨**：Selly Avilés，26 岁，儿童书作家（尚未出版），在波士顿 South Seaport 区做夜间遛狗员。她的「英雄」是 Omar Solomon——「Dragon Revolution」的发起者，一个以儿童书推翻帝国的传奇人物。Selly 故意在 Omar 住的街区遛狗，期待「偶遇」。某晚 Omar 发短信请她帮忙——去 Harborside 儿童书博物馆接他的「老朋友」Barnabas Hodge。Selly 到了才发现：这是 Omar 的「身体」被困在博物馆水族箱中的「救援行动」。Barnabas 发表演讲，Selly 被介绍为「rising star」。最终他们骑着 Tumult（龙）的玻璃纤维雕像逃离，Omar 的「灵魂」在 aquarium 中。
+**一句话主旨**：Selly Avilés，26 岁，儿童书作家（尚未出版），在波士顿 South Seaport 区做夜间遛狗员。她的「英雄」是 Omar Solomon——「Dragon Revolution」的发起者，一个以儿童书推翻帝国的传奇人物。Selly 故意在 Omar 住的街区遛狗，期待「偶遇」。某晚 Omar 发短信请她帮忙——去 Harborside 儿童书博物馆接他的「老朋友」Barnabas Hodge。Selly 到了才发现：这是 Omar 的「身体」被困在他自己家的水族箱里的「救援行动」。Barnabas 发表演讲，Selly 被介绍为「rising star」。最终他们骑着 Tumult（龙）的玻璃纤维雕像逃离，Omar 的「灵魂」在 aquarium 中。
 **结构**：
 - 开头：Selly Avilés 在波士顿夜里替「最喜欢的作家」遛狗，声明「这不是跟踪，因为地址网上公开」
 - 推进：她的英雄 Omar Solomon 是「龙革命」的发起者——一个用儿童书推翻帝国的传奇
@@ -144,7 +144,7 @@ source_text: ch14
 
 **句子结构**：They want me to bleed：主谓宾 + 不定式作宾补，短句——写「观众要的是创伤」。
 
-**关键词**：bleed, trauma
+**关键词**：bleed, want
 
 **表达方式**：They want me to 的动词短语制造「欲望」；bleed 的动词制造「暴力」；trauma 的名词制造「痛苦」。
 

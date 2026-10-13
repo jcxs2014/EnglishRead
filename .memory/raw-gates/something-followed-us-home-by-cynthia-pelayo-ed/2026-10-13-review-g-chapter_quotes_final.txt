@@ -1,0 +1,18 @@
+ch01 foreword.md: 10/10 in ch01 text
+ch02 blue flowers.md: 11/11 in ch02 text
+ch03 the hand that feeds.md: 10/10 in ch03 text
+ch04 her first cruise ship.md: 10/10 in ch04 text
+ch05 my boyfriend.md: 9/9 in ch05 text（另有 1 条短引语未校验）
+ch06 the immaculate rebirth of nicki duran.md: 8/8 in ch06 text（另有 2 条短引语未校验）
+ch07 guardian angel.md: 10/10 in ch07 text
+ch08 the return of la muelona.md: 8/8 in ch08 text（另有 2 条短引语未校验）
+ch09 pomelo.md: 10/10 in ch09 text
+ch10 luz y fer.md: 9/9 in ch10 text（另有 1 条短引语未校验）
+ch11 specter.md: 9/9 in ch11 text（另有 2 条短引语未校验）
+ch12 mechanical servants llc.md: 10/10 in ch12 text
+ch13 the world from above and the world from down below.md: 10/10 in ch13 text
+ch14 the rooftop revolution of selly aviles.md: 9/9 in ch14 text（另有 1 条短引语未校验）
+ch15 el j baro de puerto rico.md: 10/10 in ch15 text
+ch16 whispers from the root.md: 10/10 in ch16 text
+ch17 fidelity.md: 9/9 in ch17 text（另有 1 条短引语未校验）
+ch18 we are gathered here together.md: 10/10 in ch18 text

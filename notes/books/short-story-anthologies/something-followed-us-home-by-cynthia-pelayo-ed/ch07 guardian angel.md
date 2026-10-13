@@ -11,12 +11,12 @@ source_text: ch07
 **来源**：《Something Followed Us Home: Tales of Latiné Horror》，Cynthia Pelayo 编，第 7 篇
 **作者**：Mariana Enriquez
 **类型**：拉美宗教恐怖短篇
-**一句话主旨**：Marisa 认为母亲被父亲和姐姐 Inés 的乱伦关系「杀死」了——她相信是屋顶的魔鬼印记导致父亲被「玩偶」（doll）附身。母亲死后，Marisa 求助于天使学中心，召唤天使 Nicholas 进行驱魔仪式。在仪式中，她刺破父亲脸上的「玩偶」，但天使最终失败，闯入者（邻居/医生）将 Marisa 拖走，她最后看到的是妹妹 Inés 脸上「玩偶」的笑脸。
+**一句话主旨**：Marisa 认为母亲被父亲和姐姐 Inés 的乱伦关系「杀死」了——她相信是屋顶的魔鬼印记导致父亲被「玩偶」（doll）附身。母亲死后，Marisa 求助于天使学中心，召唤天使 Nicholas 进行驱魔仪式。在仪式中，她刺破父亲脸上的「玩偶」，但天使最终失败，身份未明的闯入者将 Marisa 拖走，她最后看到的是姐姐 Inés 脸上「玩偶」的笑脸。
 **结构**：
-- 开头：Marisa 认定「魔鬼就在天花板上」，而父母的争吵「正在杀死她」
+- 开头：Marisa 认定「魔鬼就在天花板上」，而父亲与姐姐 Inés 的乱伦关系「正在杀死她」
 - 推进：母亲死了，客厅里数百只麻雀撞窗而死；Marisa 坚信自己「纯洁」，魔鬼才不来碰她
 - 转折：她自己找到天使学中心，加入「净化者」的课程
-- 结尾：她成了「净化者 Nicholas」，把魔鬼从父亲体内「赶走」——以孩子的手完成一场恐怖仪式
+- 结尾：天使「净化者 Nicholas」主导驱魔，Marisa 亲手刺向父亲脸上的「玩偶」——以孩子的手完成一场恐怖仪式
 **核心金句**：
 > "The two of them were killing her."
 > "There was a reason the devil didn't seek her out. She was pure."
@@ -30,7 +30,7 @@ source_text: ch07
 
 **中文理解**：开篇即定罪——父亲和姐姐正在「杀死」母亲（不是生理死亡，而是慢性折磨）。
 
-**句子结构**：The two of them were killing her：主谓宾，过去进行时制造持续压迫；the two of them 指父母——一句话点出「家即凶案现场」。
+**句子结构**：The two of them were killing her：主谓宾，过去进行时制造持续压迫；the two of them 指父亲与姐姐 Inés——一句话点出「家即凶案现场」。
 
 **关键词**：killing
 

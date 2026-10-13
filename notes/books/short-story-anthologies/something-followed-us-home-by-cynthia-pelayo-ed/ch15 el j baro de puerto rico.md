@@ -11,7 +11,7 @@ source_text: ch15
 **来源**：《Something Followed Us Home: Tales of Latiné Horror》，Cynthia Pelayo 编，第 15 篇
 **作者**：Cynthia Pelayo
 **类型**：拉美历史灵异短篇
-**一句话主旨**：波多黎各女孩 Victoria 与祖父 Abuelo 住在山区。Abuelo 是「灵媒」（medium），为死者举行「misa」（灵媒仪式）。某日为来自 San Juan 的母子 Mrs. Rosario 和 Jonathan 举行 misa——Jonathan 被「恶灵」困扰。仪式中，Jonathan 进入「灵界」，「看见」了波多黎各的殖民历史：西班牙征服者、奴隶制、美国占领、Ponce Massacre（1937）。Victoria 也「看见」了——她意识到自己「已经死了」：她是 1937 年 Ponce Massacre 的死者，以「幽灵」身份与祖父生活了多年。Abuelo 揭示：他也是「灵媒」，在田间工作时「找到」了 Victoria 的幽灵。
+**一句话主旨**：波多黎各女孩 Victoria 与祖父 Abuelo 住在山区。Abuelo 是「灵媒」（medium），以 misa 让生者与死者沟通。某日为来自 San Juan 的母子 Mrs. Rosario 和 Jonathan 举行 misa——Jonathan 连日做噩梦，Mrs. Rosario 想确认他梦中所见。仪式中，Jonathan 进入「灵界」，「看见」了波多黎各的殖民历史：西班牙征服者、奴隶制、美国占领、Ponce Massacre（1937）。Victoria 也「看见」了——她意识到自己「已经死了」：她是 1937 年 Ponce Massacre 的死者，以「幽灵」身份与祖父生活了多年。Abuelo 揭示：他也是「灵媒」，在田间工作时「找到」了 Victoria 的幽灵。
 **结构**：
 - 开头：「没有死亡，没有开始，没有结束，只有我们所有人的延续」——以存在论断言开场
 - 推进：Victoria 与祖父 Abuelo 住在波多黎各山中；Abuelo 以 misa（灵媒仪式）为生者与死者沟通

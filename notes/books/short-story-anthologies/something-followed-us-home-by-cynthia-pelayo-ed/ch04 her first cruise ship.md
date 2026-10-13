@@ -16,7 +16,7 @@ source_text: ch04
 - 开头：Ileana 第一次跟游轮买手上班，紧张到反复抚平衣服；同事 Sol 当着众人取笑她
 - 推进：店里的员工「漂亮得有些吸血鬼气」，游客「红着眼眶、饥饿地看着」
 - 转折：Ileana 察觉不对劲，恐惧像止血带缠住胸口，转身逃上人行道
-- 结尾：父亲一句「活人死人无所谓，他们的钱照样是绿的」——把恐怖收进冷幽默的生意经
+- 结尾：经理 Carmen 一句「活人死人无所谓，他们的钱照样是绿的」——把恐怖收进冷幽默的生意经
 **核心金句**：
 > "There was something... vampiric about all the pretty people who worked in that store."
 > "Terror wrapped itself around Ileana's chest like a tourniquet, her sneakered feet pounding the sidewalk beneath her in retreat."

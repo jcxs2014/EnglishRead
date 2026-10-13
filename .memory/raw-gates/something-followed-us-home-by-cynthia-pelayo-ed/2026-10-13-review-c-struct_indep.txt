@@ -1,0 +1,37 @@
+  ❌ ch01 foreword.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch01 foreword.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch02 blue flowers.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch02 blue flowers.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch03 the hand that feeds.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch03 the hand that feeds.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch04 her first cruise ship.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch04 her first cruise ship.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch05 my boyfriend.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch05 my boyfriend.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch06 the immaculate rebirth of nicki duran.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch06 the immaculate rebirth of nicki duran.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch07 guardian angel.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch07 guardian angel.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch08 the return of la muelona.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch08 the return of la muelona.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch09 pomelo.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch09 pomelo.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch10 luz y fer.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch10 luz y fer.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch11 specter.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch11 specter.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch12 mechanical servants llc.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch12 mechanical servants llc.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch13 the world from above and the world from down below.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch13 the world from above and the world from down below.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch14 the rooftop revolution of selly aviles.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch14 the rooftop revolution of selly aviles.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch15 el j baro de puerto rico.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch15 el j baro de puerto rico.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch16 whispers from the root.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch16 whispers from the root.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch17 fidelity.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch17 fidelity.md: [summary] 引语块 10 个，超出 3–8 配额
+  ❌ ch18 we are gathered here together.md: [summary] 必备节「## 本章导航」出现 0 次（须恰 1）
+  ❌ ch18 we are gathered here together.md: [summary] 引语块 10 个，超出 3–8 配额
+=== 独立结构扫描：18 个 md，缺陷 36 处（另有提示型 0 条，不计入缺陷、不影响退出码）===

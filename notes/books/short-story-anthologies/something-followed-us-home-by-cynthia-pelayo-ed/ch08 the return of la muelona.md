@@ -86,7 +86,7 @@ source_text: ch08
 
 **中文理解**：种植园主将妻子 Isabel 「给」了土地——这是全书的核心事件。
 
-**句子结构**：He gave it Isabel：主谓宾 + 间接宾语（give A B 的双宾结构），it 指代前文的「债/物」——一句完成交接。
+**句子结构**：He gave it Isabel：give A B 的双宾结构，it 指**土地**（受赠者），Isabel 是被献出的直接宾语——一句完成「以她偿还土地」的交接。
 
 **关键词**：gave, Isabel
 
