@@ -42,16 +42,17 @@ status: completed
 
 > "Have we really never met before?" Ellie asks Jonah now, and when she does he turns. Their eyes catch, a hook to a fish. For a split second, Ellie observes the way he peers at her, as if the inner workings of his mind are piecing together an important equation. "Never anytime before that car crash yesterday?" She wants to ask him if he feels it. This sense of déjà vu. Her heart beats in her chest like a caged bird, her palms simultaneously hot and cool from sweat. She feels like she's been here before with him in this exact same moment and this exact same place, because in another life—one that exists here and yet does not—she has been with him at this same table, back before they were a couple, long before they described themselves as an "us" or a "we." They were just two individuals, not yet a unit, not yet anything, really. They were only at the beginning then and taking their first steps toward getting to know each other, no clue what joys and sadness their future together might bring.
 
-**中文理解**："我们真的以前从未见过吗？"Ellie现在问Jonah，当她问的时候他转过身来。他们的目光相遇，像鱼钩钩住了鱼。一瞬间，Ellie观察到他的凝视她的方式，就好像他内心的运作正在拼凑一个重要的等式。"在那次车祸之前从未见过吗？"她想问他是否感受到了它。这种似曾相识的感觉。她的心在胸口跳动，像一只被囚禁的鸟，她的掌心同时又热又冷，因为汗水。她觉得她以前和他在这个完全相同的时刻、这个完全相同的地方待过，因为在另一个人生里——一个存在于这里却又不存在的——她和他曾在这张桌子前在一起，在他们成为情侣之前，在他们称自己为"我们"之前。他们只是两个个体，还不是一个单位，还不是任何东西，真的。他们当时只是在开始，在迈出第一步去了解彼此，不知道他们的未来会带来什么样的欢乐和悲伤。
+**中文理解**："我们真的以前从未见过吗？"Ellie现在问Jonah，她一开口，他就转过身来。他们的目光相遇，像鱼钩钩住了鱼。有那么一瞬间，Ellie观察他凝视她的方式，就好像他脑中的齿轮正在拼合一道重要的等式。"在那场车祸之前，从没在别的什么时候见过吗？"她想问他是否也感觉到了。这种似曾相识的感觉。她的心在胸腔里跳动，像一只被关在笼中的鸟，她的掌心因为出汗同时又热又凉。她觉得自己以前就和他在一起过，就在这同一个时刻、这同一个地方，因为在另一个人生里——一个存在于这里却又并不存在的——她曾和他在同一张桌子前，在他们成为情侣之前，在他们把自己称作"我们"之前。那时他们只是两个独立的个体，还不是一个整体，其实还什么都不是。那时他们才刚刚开始，正迈出彼此认识的第一步，全然不知两人共同的未来会带来怎样的欢乐与悲伤。
 
-**句子结构**："Have we really never met before?" 是直接引语；Their eyes catch 是主句；She wants to ask him 是并列句。
+**句子结构**：整段是"引语—叙述—引语—叙述—内心独白"的交替。首句 "Have we really never met before?" 是Ellie的直接引语，紧随其后的 Ellie asks Jonah now 是说话标签，and when she does he turns 是时间状语从句加主句；Their eyes catch, a hook to a fish 是叙述句，逗号后的 a hook to a fish 是省略了 being 的同位语式比喻；For a split second, Ellie observes the way he peers at her 是主句加方式宾语，as if the inner workings of his mind are piecing together an important equation 是 as if 引导的虚拟比较从句；"Never anytime before that car crash yesterday?" 是第二段直接引语，省略了主谓，只留时间状语；其后 She wants to ask him if he feels it. This sense of déjà vu. 转入内心，This sense of déjà vu 是无谓语的名词短语独句；Her heart beats in her chest like a caged bird, her palms simultaneously hot and cool from sweat 是并列的两个独立主格式分句；She feels like she's been here before 是主句加 like 引导的表语从句，后面 because 从句说明原因，破折号插入的 one that exists here and yet does not 是 another life 的同位语并带定语从句；They were just two individuals、They were only at the beginning then 等句连用，把"还不是……"的排比一层层铺开，末尾 no clue what joys and sadness their future together might bring 是形容词短语作伴随状语。
 
 **关键词**：
-- **Their eyes catch, a hook to a fish**：他们的目光相遇，像鱼钩钩住了鱼；这个比喻是Angela Brown的写作风格：把"目光相遇"写成"钓鱼"
-- **a caged bird**：一只被囚禁的鸟；这个比喻是Ellie的"心跳"的描写——她被困在"这个时刻"里
-- **another life—one that exists here and yet does not**：另一个人生——一个存在于这里却又不存在的；这是全章最重要的主题：Ellie在"另一个"人生里，她和Jonah是夫妻，但在这个人生里，他们只是陌生人
+- **Their eyes catch, a hook to a fish**：他们的目光相遇，像鱼钩钩住了鱼；把"对视"写成一次咬钩，暗示这一眼已经把人钩住、身不由己
+- **the inner workings of his mind are piecing together an important equation**：他脑中的运作正在拼合一道重要的等式；用"算题"写Jonah的表情，呼应他这个人凡事要想清楚才肯承认
+- **a caged bird**：一只被关在笼中的鸟；写心跳，也写她被困在这个时刻里、想确认又不敢确认
+- **another life—one that exists here and yet does not**：另一个人生——一个存在于这里却又并不存在的；全章的核心：她"记得"一段这里并不存在的人生
 
-**为什么这样写**：这是全章最有"爱情感"的段落。Ellie在问一个她"知道答案"的问题——他们在二十多年前就认识了，但在"这个版本"的人生里，他们是陌生人。"another life—one that exists here and yet does not"是Angela Brown对"平行人生"的定义：它"存在"，但它也"不存在"——因为它与"现在"不同。
+**为什么这样写**：这一段把"问出口"和"心里想的"叠在一起写。Ellie嘴上问的是"我们以前真的没见过吗"，心里却在问"你是不是也感觉到了"——她真正想验证的是那层似曾相识。叙述里先给她一个动作特写（他转身、两人对视像鱼咬钩），再给一个表情特写（他在心里拼一道等式），最后才把镜头转向她自己的心跳和掌心：外面越安静，她里面越乱。破折号里那句 one that exists here and yet does not 是全段的重心——它把这段"似曾相识"定义成一个存在过、又在此地并不存在的人生，读者由此明白她问的不只是认不认识，而是"我们是不是在别处已经在一起过了"。收尾的排比（还不是情侣、还不是"我们"、还什么都不是）把时间推回到最开始，让这份"记得"显得更没来由，也更难放下。
 
 ---
 

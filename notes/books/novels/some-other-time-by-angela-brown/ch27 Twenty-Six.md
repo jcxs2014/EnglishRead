@@ -90,18 +90,19 @@ status: completed
 
 ### ⑤
 
-> "The hospital," he explains. Ellie feels her heart drop into a free fall. "She's sick."
+> "The hospital," he explains. … Ellie feels her heart drop into a free fall. "She's sick."
 
-**中文理解**："医院，"他解释道。Ellie感觉她的心坠入自由落体。"她病了。"
+**中文理解**："医院，"他解释道。……Ellie感觉自己的心直坠下去，像在自由落体。"她病了。"
 
-**句子结构**："The hospital" 是直接引语；he explains 是主句；She's sick 是直接引语。
+**句子结构**：全段由几段极短的句子构成。`"The hospital,"` 是Frank的直接引语，只有一个名词短语、没有主谓，说明他把答案甩得极短；he explains 是主句，与引语构成"引语＋说话标签"。省略号跳过的是Frank中间那两句解释（他一直在打电话、发消息，以及"是你母亲"）和 he states 这个说话标签。Ellie feels her heart drop into a free fall 是主句，her heart drop into a free fall 是省略 to 的宾语补足语（feel sth do sth 结构），into a free fall 是介词短语作方式/结果状语。`"She's sick."` 是Frank的第三句直接引语，She's 是 She is 的缩写，sick 作表语，三个词加一个句号收束全章。
 
 **关键词**：
-- **The hospital**：医院；这是Frank的"坏消息"：Bunny在医院
-- **Ellie feels her heart drop into a free fall**：Ellie感觉她的心坠入自由落体；这是Angela Brown的比喻：Ellie的恐惧是真实的
-- **She's sick**：她病了；这是全章最重要的话：Bunny生病了
+- **The hospital**：医院；Frank把地点单独甩出来，先给答案、不给解释
+- **Ellie feels her heart drop into a free fall**：Ellie感觉自己的心直坠下去，像在自由落体；feel sth do sth 结构，写她听到消息那一瞬间的身体反应
+- **a free fall**：自由落体；不受控、停不下来的下坠，比"心一沉"更彻底
+- **She's sick**：她病了；三个词结束全章，把这一章的"选择"直接换成"危机"
 
-**为什么这样写**：这是全章最有"震撼感"的结尾。Frank的"She's sick"是全章最重要的话——Bunny生病了，Ellie的世界再次崩塌。这是Angela Brown的"转折"技巧：在一个情绪高点之后，突然引入一个新的危机。
+**为什么这样写**：这是全章的收尾，作者把它压到最短。Frank先说"医院"，不说人名、只说地点，读者的疑问和Ellie的一样悬着；接着镜头立刻切到Ellie的身体——不写她怎么想，只写"心在自由落体"，让她连情绪都来不及组织。省略号跳过的是Frank中间那段说明（他打了很多电话、发了很多消息，还有那句"是你母亲"），作者把解释剪掉，只留最后一记"她病了"。三个词、一个句号，全章结束——这一章前面讨论的一直是Ellie"要如何选择自己的故事"，最后作者却用一个谁也无法选择的突发状况把它全部推翻：能选的和不能选的，在这里对照得最清楚。
 
 ---
 

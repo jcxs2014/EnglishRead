@@ -40,18 +40,20 @@ status: completed
 
 ### ②
 
-> "I contemplated if I should come see you again," Jonah admits, his face directed straight ahead at the schoolyard, where all those happy children still play. "For all I knew when I first saw you Monday, maybe you wouldn't have remembered me." He sighs sadly. "Or maybe you wouldn't have wanted to."
+> "I contemplated if I should come see you again," Jonah admits, his face directed straight ahead at the schoolyard, where all those happy children still play. … "For all I knew when I first saw you Monday, maybe you wouldn't have remembered me." He sighs sadly. "Or maybe you wouldn't have wanted to."
 
-**中文理解**："我考虑过我是否应该再来看你，"Jonah承认道，他的脸朝着运动场直直地看，那里有许多快乐的孩子还在玩耍。"当我周一第一次看到你时，我所知道的是，也许你不会记得我了。"他悲伤地叹了口气。"或者也许你根本不想记得我。"
+**中文理解**："我考虑过要不要再来见你，"Jonah承认道，他的脸直直朝着运动场，那里所有快乐的孩子还在玩耍。……"就我周一第一次见到你时所知道的，也许你根本不会记得我。"他悲伤地叹了口气。"或者也许你根本不会愿意记得我。"
 
-**句子结构**："I contemplated if I should come see you again" 是直接引语；Jonah admits 是主句；Or maybe you wouldn't have wanted to 是直接引语。
+**句子结构**：全段是"引语—叙述—引语—叙述—引语"的交替。`"I contemplated if I should come see you again,"` 是直接引语，其中 if I should come see you again 是 contemplated 的宾语从句；Jonah admits 是主句，与引语构成"引语＋说话标签"。his face directed straight ahead at the schoolyard 是独立主格结构（名词＋过去分词）作伴随状语，where all those happy children still play 是定语从句修饰 the schoolyard。省略号跳过的是公园里那段彼此追问的对话。随后 `"For all I knew when I first saw you Monday, maybe you wouldn't have remembered me."` 中 when I first saw you Monday 是时间状语从句，For all I knew 是插入的独立成分，maybe... 是省略 that 的宾语从句；He sighs sadly 是主句，sadly 是方式状语。`"Or maybe you wouldn't have wanted to."` 是并列的直接引语，句末的 to 后省略了 remember me，避免重复。
 
 **关键词**：
-- **maybe you wouldn't have remembered me**：也许你不会记得我了；这是Jonah的"恐惧"：他害怕Ellie不记得他
-- **Or maybe you wouldn't have wanted to**：或者也许你根本不想记得我；这是Jonah的"痛苦"：他知道Ellie曾经说过"如果没有你的生活"
-- **all those happy children still play**：许多快乐的孩子还在玩耍；这是"正常生活"的隐喻：世界还在正常运转，只有他们的人生出了问题
+- **I contemplated if I should come see you again**：我考虑过要不要再来见你；写Jonah的犹豫——他不是理所当然地来，而是反复掂量过
+- **his face directed straight ahead at the schoolyard**：他的脸直直朝着运动场；他不看Ellie，把话说给空气听
+- **all those happy children still play**：所有快乐的孩子还在玩耍；世界照常运转，只有他们两个人的人生出了岔子
+- **maybe you wouldn't have remembered me**：也许你根本不会记得我；Jonah最怕的那一层
+- **Or maybe you wouldn't have wanted to**：或者也许你根本不会愿意记得我；比"不记得"更重——不是记不起，而是不愿想起
 
-**为什么这样写**：这是全章最有"脆弱感"的段落。Jonah在承认他的恐惧——他害怕Ellie不记得他，不想记得他。"all those happy children still play"是Angela Brown的对比：孩子们还在正常玩耍，而Ellie和Jonah的人生已经崩溃了。
+**为什么这样写**：这一段写的是Jonah的"脆弱"。他不看Ellie，脸一直朝着运动场——作者用这个姿势说明这句话有多难说出口。他先承认自己"考虑过要不要来"，再一层层把最怕的可能说出来：也许你不记得我，也许你根本不愿意记得我。两句并列、一句比一句重，把"被遗忘"和"被拒绝"分成了两层。中间的省略号很重要：它跳过的是公园里那段互相追问的对话（Ellie问他为什么一见面就知道了却不说，Jonah说这正是Ellie自己要的——"看看如果我们从未一起存在过，生活会是什么样"），剪掉之后只留下这句最赤裸的自我剖白，读者的注意力全部落在他的恐惧上。而背景里"还在玩耍的快乐孩子"是作者放的一层反衬：外面的世界一切照常，只有他们站在这里，连"要不要来见你"都要想很久。
 
 ---
 
