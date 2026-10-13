@@ -13,7 +13,7 @@ modified: "2026-10-11"
 
 **Tropes 兑现/反转**：
 - 记忆的粉饰：叙述者直言人总把过去的自己想得更健美勇敢，穗更把这层浪漫化推向对他人的「美化滤镜」
-- 亲近的错觉： longevity（相处时长）被戳破——二十年夫妻不如一面之缘的「懂得」，熟悉反成隔阂
+- 亲近的错觉： longevity（相处时长）被戳破——屈指可数的共处反比长年相处更知情，熟悉反成隔阂
 - 身体的两种语法：芳对病痛的茫然 vs 杰克对症状的穷究，同一具肉体写出两种自我关系
 
 **人物弧线**：穗是观察者、回忆的修饰者，习惯把人想得更好；芳是沉默、记性差、对自己的身体毫不上心的人；杰克虽未到场，却以「每处微症都要命名」的镜像衬出芳的浑然不觉。
@@ -52,7 +52,7 @@ modified: "2026-10-11"
 
 **关键词**：longevity / truly knowing someone
 
-**为什么这样写**：一句反问推翻「时间＝了解」的常识。它同时解释了穗为何能「一面之缘就懂芳」，也反刺二十年的婚姻——最长的相处反而最隔阂，把全书对亲密关系的怀疑推进一步。
+**为什么这样写**：一句反问推翻「时间＝了解」的常识。它同时解释了穗为何能在屈指可数的共处里看透芳，也反刺二十年的婚姻——最长的相处反而最隔阂，把全书对亲密关系的怀疑推进一步。
 
 **读者视角提示**：读者在此被邀请重估所有「老夫老妻」式的安全感；这句话是冷静的一刀，剖开熟悉与懂得之间的缝隙。
 
@@ -88,7 +88,7 @@ modified: "2026-10-11"
 
 **关键词**：come up against / preserved by someone else / offered as the truth
 
-**为什么这样写**：这是全章最温柔也最清醒的一句。芳脑子里二十年前「瘦削贪吃」的穗，与当下并不幸福的那个人并不吻合，但穗仍贪恋这面他人之镜。「offered as the truth」点出记忆的吊诡：别人给的幻象，比自己的现实更像「真」。
+**为什么这样写**：这是全章最温柔也最清醒的一句。芳脑子里二十年前那个「瘦削贪吃」的穗，其实并不像他记忆中那样快乐，穗却仍贪恋这面他人之镜。「offered as the truth」点出记忆的吊诡：别人给的幻象，比自己的现实更像「真」。
 
 **读者视角提示**：读者在此与穗一同照镜——我们都曾是被别人记住的、更好的那个自己；这句把私人怀旧升成普遍的情感慰藉，余味悠长。
 
@@ -136,7 +136,7 @@ modified: "2026-10-11"
 | tangerines |n. 橘子|"'See? I was right,' he said when she brought him a box of Brand's Essence of Chicken and some tangerines." |
 | gash |n. 深长的伤口、裂口|"Still, she tries to figure out what his illness really involved: a broken ankle, a gash, an operation, complications, septicaemia, antibiotics." |
 | antibiotics |n. 抗生素|"Still, she tries to figure out what his illness really involved: a broken ankle, a gash, an operation, complications, septicaemia, antibiotics." |
-| symptoms |n. 症状|"The thought of him stretched out on the hospital bed in an airless ward, dozing uncomfortably, ignorant of the sickness that keeps him there, makes her think of Jack – that comparison again, she must stop that! – and the way he articulates each minuscule symptom each time he feels unwell, methodically eliminating each possible illness until he arrives at a likely explanation, which he confirms with a swift visit to the doctor, who rarely proves him wrong." |
+| symptom |n. 症状（单数词形与原文一致）|"The thought of him stretched out on the hospital bed in an airless ward, dozing uncomfortably, ignorant of the sickness that keeps him there, makes her think of Jack – that comparison again, she must stop that! – and the way he articulates each minuscule symptom each time he feels unwell, methodically eliminating each possible illness until he arrives at a likely explanation, which he confirms with a swift visit to the doctor, who rarely proves him wrong." |
 | physician |n. 医生、医师|"'I know my body better than any physician,' he once said, which Sui found amusing at the time." |
 
 ## 一句话总结
