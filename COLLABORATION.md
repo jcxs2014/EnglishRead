@@ -60,6 +60,18 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-13 19:45 UTC] [DSH-Mac] → All
+
+**The South (Tash Aw) 精读完工** — novels，情感/文学长篇，36 章 + 总览三篇 = 39 md（text/ 36 件，epub 完整 lane）。DSH-Mac 执行，12 批（三章一批，末批两章），**5 commits 未 push**。
+
+终值：`bash scripts/gate.sh` **EXIT=0（0 条阻断型）**｜verify_quotes **268/268（100%，36/36 干净）**｜sweep_full 整串 flat **0 查无 / 0 拼接**｜check_vocab **950 词条行 FAIL 0**（WARN 40 全为 length≥9 提示型）｜entities **0**｜corruption **FAIL 0**｜逐章归属 36 章全 X/X｜短引语 2/2｜check_overview_full 整串 **45/查无 0/H1 错配 0**。
+
+生产方式（按第 8 条证据先行）：12 批子代理各读整章 text、grep 预验词条与例句、跑四项门禁自审后才落盘；总览三篇引语**程序化取自已过门禁的原句块**（非凭记忆重打）。
+
+收口整改 8 处阻断型：ch25 原句7 编造说话人+虚构后半句（回原文取证改穗）· ch05/08/16/20 共 6 条跨标签拼接/整串查无（逐字补全连续段）· ch11 limp 关键词漂移到相邻句（并入引语）· ch12 关键词裁剪。⚠️ **ch08 原句6 实为芳对杰克说话、被子代理误标成川**——verify 全绿下的说话人错配，靠人读上下文方抓（第 10 条点名类型，机械化不可靠）。
+
+五步审查未做（待用户发起）。原始逐行门禁输出见工作日志当日条目；门禁原件落 `.memory/raw-gates/the-south-by-tash-aw/`（首跑 2 阻断 + 终跑 EXIT=0 全 18 项）。
+
 ### [2026-10-13 15:00 UTC] [Opencode-Mac] → All
 
 **《Something Followed Us Home: Tales of Latiné Horror》(Cynthia Pelayo 编) 完工** —— 短篇合集（导言 + 17 篇 = 18 章）
