@@ -65,22 +65,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 **《Something Followed Us Home: Tales of Latiné Horror》(Cynthia Pelayo 编) 完工** —— 短篇合集（导言 + 17 篇 = 18 章）
 
 - 产出：18 个精读 md（ch01–ch18）；每章 10 处精读 + 五子项（中文理解/句子结构/关键词/表达方式/为什么这样写）+ 三档词汇 + 一句话总结；概览含来源/作者/类型/一句话主旨/结构/核心金句
-- 体裁：短篇合集 ⇒ 按模板第 7 条**不要求总览三篇**
-- 门禁（全绿）：verify_quotes **172/172（100%）**；verify --full 0 例外；check_vocab **FAIL 0**（12 条提示型）；check_entities 未知实体 **0**；corruption_scan **FAIL 0**；逐章 check_chapter_quotes **18/18 全中**；check_anchor 凭空造词 0 / 松散 0；sweep_full 全书查无 0；sweep_analysis_inline 逐字 1325 / 0 缺陷；audit_structure 结构缺陷 0；check_short_quotes 9/9 + 54 条核心金句人工 grep 0 MISS
-- 关键修复（生成期自查）：2 处 A 类词形虚构（oppression/obsession→原文 repression/creation）；2 处整句虚构引语（ch09、ch16）；ch07 引语把代词 She 改写成 Marisa；ch18 跨章搬句（ch14 的 Sely 台词误置）；2 处词条拼写；3 处分析层漏词
-- 格式：全套对齐短篇合集 canon（状态/modified/source_text frontmatter + H1 `# NN. 标题（精读分析）` + ## 概览 + ## 精读五子项含句子结构）
-- 提交：**6f5bea1d6**（18 文件，4230 行）｜**未 push**
-- 五步审查未做（待用户发起）
-- 原始门禁输出：`.memory/raw-gates/something-followed-us-home-by-cynthia-pelayo-ed/`（13 个 txt）
+- 体裁：短篇合集 ⇒ 按模板第 7 条**不要求总览三篇**；格式全套对齐短篇合集 canon（`状态/modified/source_text` frontmatter + H1 `# NN. 标题（精读分析）` + `## 概览` + `## 精读`）
+- 门禁（全绿）：verify_quotes **172/172（100%）**；check_vocab FAIL 0；check_entities 0；corruption_scan FAIL 0；逐章 check_chapter_quotes **18/18**；check_anchor 0；sweep_full 查无 0；audit_structure 0
+- 提交（完工）：**6f5bea1d6**（18 md）· **d230ce854** · **ea0d36893** · **1f3bd3145**（板/日志/门禁原件）｜**未 push**
 
-**《Something Followed Us Home》(Cynthia Pelayo 编) 五步审查完成 + 整改**（用户发起，同会话执行 a–e 全步）
+**【审查结论 · 2026-10-13 18:14 UTC 提交】**（用户发起，同会话 a–e 全步）
 
-- **a** 门禁全量重跑：`gate.sh` exit 0；verify_quotes 172/172（100%）；check_vocab FAIL 0；check_entities 0；corruption_scan FAIL 0；逐章 18/18
-- **b** 逐章归属 18/18 `in chNN text`；**c** 结构：audit_structure 0 ＋ 第二实现 struct_indep 0；**d** 语义二审：4 子代理逐块核对 ＋ 独立实现（fragments 180 条/197 片段 MISS 0；analysis_indep 570 片段全命中；xref_indep 1 条中文式已核为正确）；**e** 概览层：54 条核心金句 MISS 0、跨书污染 6 专名他书命中 0
+- **a** 门禁全量重跑 `gate.sh` exit 0（172/172、FAIL 0、逐章 18/18）；**b** 逐章归属 18/18；**c** 结构 audit_structure 0 ＋ 第二实现 struct_indep 0；**d** 语义二审 4 子代理 ＋ 独立实现（fragments 197 片段 MISS 0；analysis_indep 570 片段全命中）；**e** 概览层 54 条核心金句 MISS 0、跨书污染 6 专名 0
 - **查出并整改 38 处阻断型**：说话人错配 5 · 概览事实断言 20 · 引语截短 3 · 关键词越界 2 · 语法/计数/译名 8（逐条见日志）
-- **2 处假红型已先修工具**（第 3 条口径）：`check_struct_indep` 缺「概览·逐句精读档」；`verify_fragments_indep` 保留句末标点（同库另 4 把尺子均标点无关）。两者各经**全库 A/B**：struct_indep 487 本 **0 增**、fragments 450 本 **0 增**
-- 修复后复跑：gate.sh exit 0、struct_indep 0、fragments MISS 0、corruption_scan FAIL 0；**md 件数 18 == text 件数 18**
-- 提交：`ce0aa3356`（工具）／`d1338e7fb`（18 md + 门禁原件 17 件）｜**未 push**
+- **2 处假红型先修工具**：`check_struct_indep` 缺「概览·逐句精读档」、`verify_fragments_indep` 保留句末标点；各经全库 A/B（487 本／450 本）**0 增**
+- 修复后复跑全绿；md 18 == text 18
+- 提交（审查）：**ce0aa3356**（工具）· **d1338e7fb**（md + 原件 17 件）· **f1b747aae**（板/日志）｜**未 push**
 - 逐条清单与工具 A/B 数据：`.memory/daily/2026-10-13.md`「五步审查」节；原件：`.memory/raw-gates/something-followed-us-home-by-cynthia-pelayo-ed/`
 
 ### [2026-10-13 08:00 UTC / 精读完工 2026-10-13 09:28 UTC] [DSH-Mac] → All
