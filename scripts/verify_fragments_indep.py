@@ -35,6 +35,19 @@ CHAP = re.compile(r"^ch(\d{1,3})")
 QUOTES = "\"'“”‘’"
 TBL = {ord(c): None for c in QUOTES}
 
+# ⚠️ 2026-10-13（Something Followed Us Home 五步审查）**句末标点容差**。
+# 症状：ch08 一条引语 `Blood is the currency of power.` 判 MISS，而原文是
+# `“Blood is the currency of power,” Isabel replied, …`——**词全对**，只差句末
+# 逗号→句点（截到从句末尾时 md 补一个句号，是本库通用写法）。
+# 判据：同库另外四把尺子（`verify_quotes` / `check_chapter_quotes` / `sweep_full` /
+# `check_short_quotes`）**一律按标点无关比对**，唯本脚本保留句末标点 ⇒
+# 「同一份规范不得有两把尺子」。全库实测（前 120 本有 text/ 的书）：
+# MISS 共 3025 条，其中**仅句末标点差异 934 条**（artifact）、词面不同 2091 条
+# （真缺陷类，本脚本正是要抓它）⇒ 容差必须**只放句末**，不能整串 flat
+# （整串 flat 会把 2091 条真缺陷一起放过）。
+# 修法：片段比对前**只裁掉末尾标点**，串内标点与词序照旧严格。
+TRIM_END = ".,;:!?…"
+
 
 def norm(s: str) -> str:
     """规范化：剔除全部引号字符、统一破折号、压缩空白、小写。
@@ -103,7 +116,9 @@ def main():
                 frags = [x for x in (p.strip() for p in SPLIT.split(raw)) if x]
                 for fr in frags:
                     total_frag += 1
-                    nf = norm(fr)
+                    # 只裁**片段末尾**标点（见 TRIM_END 注）：句末逗号↔句点不算改写；
+                    # 串内标点/词序仍严格（那 2091 条真缺陷类照旧报）。
+                    nf = norm(fr).strip().strip(TRIM_END)
                     # 过短片段（<12 归一化字符）无判定力，跳过但计数
                     if len(nf) < 12:
                         continue

@@ -122,6 +122,29 @@ PROFILES = {
         "RANGE": (10, 10),
         "MARK": ["## 本篇导航", "## 词汇分级"],
     },
+    # ⚠️ 2026-10-13（Something Followed Us Home 五步审查）新增第五档：**概览·逐句精读档**。
+    # 症状：本书（短篇合集）用 `## 概览` + `## 精读` + `## 词汇分级` + `## 一句话总结`，
+    # 引语 `> **原句 N:**` 10 块——与近期短篇合集 canon 一致（out-of-body-stories 2026-10-10
+    # 用同一 frontmatter/H1/`## 概览`；something-macabre 同为 `## 概览` + 10 块）。
+    # 四个既有档位的特征节都不命中 ⇒ 退回 summary ⇒ 每章报「必备节本章导航 0 次」
+    # ＋「引语块 10 个超出 3–8 配额」＝ 18 章 × 2 ＝ 36 处**假红**；且 summary 的子项集
+    # （含 `读者视角提示`）与本档的 `句子结构` 不符——与 The Alchemist 那次同型（套模板子项集 = 制造假红）。
+    # 判据：体裁对应格式表对短篇合集只规定「10 处 + 五子项 + 三档词汇 + 一句话总结」，
+    # **未规定节名**（AGENTS 8.3：格式自成一派的书合法，模板不作判红依据）
+    # ⇒ 同 anthology / anthology2 先例，**再加一档**，不改 md 去凑节名。
+    # 特征节 = `## 概览` + `## 精读` + `## 词汇分级`（三者皆须命中）；
+    # 负控 `## 本章导航` 排除**小说精简档**（the-calculating-stars / miss-bates /
+    # the-night-always-comes 各章皆有该节，当前 0–2 缺陷，不得被本档改判）。
+    "overview": {
+        "H2": ["## 概览", "## 精读", "## 词汇分级|## 本章词汇", "## 一句话总结"],
+        "READ": "## 精读",
+        "SUB": ["中文理解", "句子结构", "关键词", "表达方式", "为什么这样写"],
+        "QRE": re.compile(r'^> \*\*原句 (\d+):\*\* (.+)$', re.M),
+        "NUM": lambda m: int(m.group(1)),
+        "RANGE": (10, 10),
+        "MARK": ["## 概览", "## 精读", "## 词汇分级"],
+        "NOT_MARK": ["## 本章导航"],
+    },
 }
 
 
@@ -153,11 +176,18 @@ def detect_profile(s):
     **nonfiction 一直是「按特征节认、不要求 QRE 自证」**，那是它的既定契约（也是 2026-09-30
     An Army 那次只给它补 QRE、不动认档逻辑的原因）。**修工具只改必要的那一处。**
     """
-    for name in ("nonfiction", "anthology", "anthology2", "summary"):
+    for name in ("nonfiction", "anthology", "anthology2", "overview", "summary"):
         P = PROFILES[name]
         marks = P.get("MARK")
         ok_marks = all(_has(s, m) for m in marks) if name != "summary" \
             else any(_has(s, m) for m in marks)
+        # ⚠️ 2026-10-13（Something Followed Us Home 五步审查）新增**负控节 MARK_NOT**：
+        #    本档要求**不出现**的节名。用于「特征节命中但其实是别的档」的情形——
+        #    小说精简档的独有节 `## 本章导航` 一旦出现即排除本档（否则把 the-calculating-stars
+        #    等当前 0 缺陷的小说改判成本档配额 ⇒ 制造新假红）。本负控只挂在 overview 上，
+        #    不改动既有四档的认档行为。
+        if ok_marks and any(_has(s, m) for m in P.get("NOT_MARK", [])):
+            ok_marks = False
         if not ok_marks:
             continue
         if name in ("anthology", "anthology2") and not P["QRE"].search(s):
@@ -275,6 +305,38 @@ def _nf_mode(book_dir: Path, qre):
     return mode
 
 
+_BOOK_MODE_CACHE = {}
+
+
+def _book_mode(book_dir: Path, qre):
+    """**本书自己**的块数众数（供 `overview` 档用；口径同 nonfiction，不套外部配额）。
+
+    ⚠️ 2026-10-13（Something Followed Us Home 五步审查）：该档与 nonfiction 同属
+    「模板未规定节名 / 块数」的档位，块数的合理参照只能是本书其余各章。
+    **不复制 `_nf_mode` 的 `"原句" in s` 排除**——本档各章正是用 `> **原句 N:**`，
+    复制那行会把样本清空（对本书 mode=None 而漏判）。故单列一个 helper，
+    **不改动 `_nf_mode`**（第 8 条纪律：先修工具只改必要的那一处）。
+    **必须缓存**：`check()` 逐章调用，不缓存是 O(章数²) 次读取。
+    """
+    key = (str(book_dir), id(qre))
+    if key in _BOOK_MODE_CACHE:
+        return _BOOK_MODE_CACHE[key]
+    cnts = []
+    for m in sorted(book_dir.glob("ch*.md")):
+        try:
+            s = m.read_text(encoding="utf-8")
+        except OSError:
+            continue
+        if detect_profile(s) != "overview":
+            continue
+        n = len(qre.findall(s))
+        if n:
+            cnts.append(n)
+    mode = None if not cnts else max(set(cnts), key=lambda c: (cnts.count(c), c))
+    _BOOK_MODE_CACHE[key] = mode
+    return mode
+
+
 def check(md: Path, sub_override=None, book_dir: Path = None):
     out = []
     s = md.read_text(encoding="utf-8")
@@ -380,6 +442,20 @@ def check(md: Path, sub_override=None, book_dir: Path = None):
                 out.append(f"⚠ [{prof}] 引语块 {len(nums)} 个，与本书非虚构章众数 {mode} 不符")
         elif not LO <= len(nums) <= HI:
             out.append(f"[{prof}] 引语块 {len(nums)} 个，超出 {LO}–{HI} 配额")
+    elif prof == "overview":
+        # ⚠️ 2026-10-13（Something Followed Us Home 五步审查）：块数与**本书众数**比，
+        #    偏离 ⇒ ⚠️ 提示型（不进缺陷数、不影响退出码）；上限 10 仍是阻断（注水的块数）。
+        #    理由同 nonfiction 分支：本档位模板只规定「10 处 + 五子项」，
+        #    而本库短篇合集实测 8–10 块皆有（out-of-body-stories 8 / 本档 10），
+        #    硬界 (10,10) 会对 8 块的书制造假红 ⇒ 取本书众数。
+        mode = _book_mode(book_dir, QRE) if book_dir is not None else None
+        lo_hi = (0, 10 ** 9)     # 本分支已自行判完，避免与下方通用配额重复报同一条
+        if not nums:
+            out.append(f"[{prof}] 引语块 0 个（该档必须有精读块）")
+        elif len(nums) > HI:
+            out.append(f"[{prof}] 引语块 {len(nums)} 个，超出上限 {HI}")
+        elif mode is not None and len(nums) != mode:
+            out.append(f"⚠ [{prof}] 引语块 {len(nums)} 个，与本书众数 {mode} 不符")
     if prof == "anthology" and book_dir is not None and _short_piece(md, book_dir):
         # ⚠️ 2026-10-04（Fold Catastrophes 五步审查 c 步实测）：第一实现
         #    `check_block_keywords.py` 早已有「短篇合集短篇目」豁免（ANTH_SHORT_SRC
@@ -456,7 +532,7 @@ def main():
     if not mds:
         print(f"❌ {book} 下没有 ch*.md"); return 2
     bad, warn = [], []
-    cal = {p: calibrate_sub(mds, p) for p in ("summary", "nonfiction")}
+    cal = {p: calibrate_sub(mds, p) for p in ("summary", "nonfiction", "overview")}
     for md in mds:
         for msg in check(md, cal.get(detect_profile(
                 md.read_text(encoding="utf-8")) or "summary"), book_dir=book):
