@@ -80,6 +80,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 五步审查未做（待用户发起）。原始逐行门禁输出见工作日志当日条目；门禁原件落 `.memory/raw-gates/the-south-by-tash-aw/`（首跑 2 阻断 + 终跑 EXIT=0 全 18 项）。
 
+[the-south-by-tash-aw] 五步审查完成（用户发起，DSH-Mac 执行，10 个审查批全覆盖 ch01–36 + 总览 e 步）。
+
+a 门禁全量重跑（完整 lane）：verify_quotes 268/268、--full 整串取证 0、check_vocab FAIL 0（950 词条）、entities 0、corruption FAIL 0、sweep_full 查无 0 拼接 0、逐章归属 36 章全 X/X、check_overview_full 整串 45/查无 0、check_analysis_indep 346 条全命中。
+b 自建第二实现（整串 flat + 跨标签）复判：仅 ch33 题句跨 ch08/ch28 巧合命中 = recurring motif 假红，无跨章搬句。
+c 结构缺陷 0；ch02/03/04/23 块数 9–13 提示型（长篇按场景切块常态，先例 Bookshop / Capital of Dreams，只记不改）。
+d 语义逐对 8 批共 268 块 + 411 词条：阻断 12 处全修（ch19 引语截短致分析反向、ch08 原句6 芳—杰克错配、ch06 编造 1997 年份、ch03「第一次点出」与 ch01 矛盾、ch10 习惯叙述越界为事件、ch12 perpetual motion 伪英文词、总览 fix it in my mind's eye 漏宾格、ch29 posture 误归 Fong、ch28「三遍前缀」不实、ch32 损坏 token 锈.rs-tling、译名统一林娜→莉娜/阿芳→芳）+ 提示 12 只记不改。
+e 总览 3 阻断修（00_概述/金句精选/情感节点）。
+
+结论：术语门禁全绿 + 语义层缺陷全清零；假红型 2（ch11 词汇搬句、ch33 motif）。同会话盲区（说话人/跨章/计数断言需人判）见工作日志逐行明细。整改 6 commits（e5b0991df/c3b1aaa56/64dd890f4/9e0d07dac/86247523b/4e793606c）未 push；门禁原件落 .memory/raw-gates/the-south-by-tash-aw/。
+
 ### [2026-10-13 15:00 UTC] [Opencode-Mac] → All
 
 **《Something Followed Us Home: Tales of Latiné Horror》(Cynthia Pelayo 编) 完工** —— 短篇合集（导言 + 17 篇 = 18 章）
