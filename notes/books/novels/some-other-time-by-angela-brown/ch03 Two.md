@@ -144,7 +144,7 @@ status: completed
 
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
-| condescending | adj. | 居高临下的，屈尊的 | （待补充例句，词形见ch04） |
+| condescending | adj. | 居高临下的，屈尊的 | "Come on, Mom," Maggie said, her tone **condescending**. |
 | interjected | v. | 插话，打断 | "I'm not trying to influence her," Jonah interjected. |
 | exchange | v./n. | 交换 | Maggie and Jonah exchanged a glance. |
 | betray | v. | 背叛 | ...the ones Ellie was never invited to be a part of—felt like a betrayal. |
@@ -163,4 +163,5 @@ status: completed
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | retirement | n. | 退休 | Prior to her retirement, Bunny worked as a part-time administrative assistant. |
+| inheritance | n. | 遗产 | ..."this has always been our plan for your **inheritance**." |
 | daughter | n. | 女儿 | Ellie misses her daughter, even though she's right here. |

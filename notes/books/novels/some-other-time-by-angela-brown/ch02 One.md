@@ -202,7 +202,7 @@ status: completed
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | oblivious | adj. | 未察觉的，浑然不觉 | ...several feet ahead, oblivious to the fact that Ellie, a slower walker with shorter-than-his legs, trails behind him, weighed down by her travel book bag. |
-| trajectory | n. | 轨迹，轨道 | （待补充例句） |
+
 
 ### ⭐⭐ 进阶
 
@@ -218,7 +218,7 @@ status: completed
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | armrest | n. | 扶手 | "You can ease up on the armrests," Jonah points out while peering down at Ellie's hands, clenched for dear life on those slender plastic strips. |
-| turbulence | n. | 颠簸，气流（飞行术语） | （待补充例句） |
+
 | exhale | v. | 呼气，吐气 | ...her inhales and **exhales** happening too fast. |
 | perpetually | adv. | 永恒地，持续地 | ...a disgruntled, **perpetually** mortified teenager all over again. |
-| cling | v. | 紧紧抓住 | （词形见ch27 "squeezing his temples as if for dear life"，待补充例句） |
+| cling | v. | 紧紧抓住 | ...clenched for **dear life** on those slender plastic strips. |

@@ -190,6 +190,5 @@ Ellie 和 Jon 在父母面前宣布离婚，震惊了全家人；Bunny 代表老
 |------|------|------|------|
 | divorce | n./v. | 离婚 | "We're getting **divorced**." |
 
-| announce | v. | 宣布 | （待补充例句） |
-| inheritance | n. | 遗产 | （待补充例句） |
-| spouse | n. | 配偶 | （待补充例句） |
+| announce | v. | 宣布 | "Look," Jonah finally **announces**... |
+| spouse | n. | 配偶 | ...your **spouse** was there to shout about how the dishwasher was broken again. |
