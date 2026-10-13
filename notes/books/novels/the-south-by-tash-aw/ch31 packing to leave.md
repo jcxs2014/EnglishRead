@@ -26,9 +26,9 @@ modified: "2026-10-11"
 
 **中文理解**：我站在父母卧室门口，看着母亲收拾行李。她把衣服叠成整齐的方块，每件都抚平了才放进那只旧乙烯基行李箱。
 
-**关键词**：stood at the door / folded into neat squares / old vinyl suitcases
+**关键词**：stood at the door / folded the clothes into neat squares / old vinyl suitcases
 
-**为什么这样写**：开篇以「stood at the door」定下旁观者姿态，母亲「folded into neat squares」「smoothed each one down」的重复动作写出一种近乎仪式的克制——她把情绪折进方块里。用具体的「old vinyl suitcases」落实年代与质感，让离别的沉重落在一个可被看见、被触摸的物上，而非空泛的感伤。
+**为什么这样写**：开篇以「stood at the door」定下旁观者姿态，母亲「folded the clothes into neat squares」「smoothed each one down」的重复动作写出一种近乎仪式的克制——她把情绪折进方块里。用具体的「old vinyl suitcases」落实年代与质感，让离别的沉重落在一个可被看见、被触摸的物上，而非空泛的感伤。
 
 **读者视角提示**：读者从第一句就被安在杰伊的位置，隔着门框看母亲，这种「看」本身已是全章的情感结构：近，却进不去。
 

@@ -18,7 +18,7 @@ modified: "2026-10-11"
 
 **人物弧线**：芳在此显出柔软与自卑并存（为小镇的破败羞愧、怕穗不再回来）；穗则是稳定、从容、扎根土地的一方，把「离开城市回到农场」的往事轻描成笑谈。
 
-**叙事手法**：第三人称有限聚焦（主要落在芳的视角），用市场巡礼的流动空间承载对话，把「rediscovery of friendship」写成边开车边拾起的碎片游戏；穿插芳的内心羞愧与想象，使外部闲谈与内部自卑双线并行。
+**叙事手法**：第三人称有限聚焦（主要落在芳的视角），用市场巡礼的流动空间承载对话，把「the rediscovery of their friendship」写成边开车边拾起的碎片游戏；穿插芳的内心羞愧与想象，使外部闲谈与内部自卑双线并行。
 
 ## 精读
 
@@ -52,7 +52,7 @@ modified: "2026-10-11"
 
 **关键词**：throw fragments of their pasts / reacquaint themselves / rediscovery of their friendship
 
-**为什么这样写**：叙述者在此直陈两人对话的方法论——「throw fragments into the air」把怀旧写成轻盈的游戏而非感伤的沉溺，精准区分了「reminisce」与「reacquaint」。末句「rediscovery… feels so rich」点题：熟识二十载仍能重新发现，是这段关系最动人的地方。
+**为什么这样写**：叙述者在此直陈两人对话的方法论——「throw fragments of their pasts into the air」把怀旧写成轻盈的游戏而非感伤的沉溺，原文同句正好对举「reminisce」与「reacquaint」。末句「the rediscovery of their friendship feels so rich」点题：熟识二十载仍能重新发现，是这段关系最动人的地方。
 
 **读者视角提示**：读者从这句理解：最好的老友不是静态的「旧识」，而是可以反复重新认识的活人。作者借此把「友谊」抬到与「爱情」同等郑重的位置。
 

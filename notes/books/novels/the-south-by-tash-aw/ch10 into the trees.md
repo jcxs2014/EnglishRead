@@ -50,7 +50,7 @@ modified: "2026-10-11"
 
 **中文理解**：那点潮湿是从哪儿来的？旱季已经持续这么久，杰伊根本无法想象这湿气从何而来。
 
-**关键词**：Where did that dampness come from / drought has lasted / impossible to imagine the source
+**关键词**：Where did that dampness come from / drought has lasted / impossible for Jay to imagine the source
 
 **为什么这样写**：一句突如其来的内心追问，把物理的「露水」翻转为心理的「不可解」。长期干旱的背景下，一点潮湿成了悖谬之物——杰伊的「impossible to imagine」既是写实（他确不知来源），也暗合全书反复出现的主题：有些事物的来路，人永远追不到。
 
@@ -76,7 +76,7 @@ modified: "2026-10-11"
 
 **关键词**：viscous matter congeals instantly / upon contact / which of them is more startled
 
-**为什么这样写**：以化学的「viscous matter congeals upon contact」把一次偶遇抽象为物质相遇的瞬间凝固——凝视本身成了一种「接触即定型」的反应。章末叙事者突入（「I am not sure」），与首章「I call them boys」的声部呼应，并故意不裁决「谁更惊」，把判断权交还读者，也把人降格为与自然平起平坐、同样会受惊的物种之一。
+**为什么这样写**：以化学的「viscous matter congeals instantly upon contact」把一次偶遇抽象为物质相遇的瞬间凝固——凝视本身成了一种「接触即定型」的反应。章末叙事者突入（「I am not sure」），与首章「I call them boys」的声部呼应，并故意不裁决「谁更惊」，把判断权交还读者，也把人降格为与自然平起平坐、同样会受惊的物种之一。
 
 **读者视角提示**：读者在这句冷观察里被轻轻推离杰伊的肩头——叙事者退后一步说「我也不确定」，于是那一瞬的惊惶，既是杰伊的，也是野兽的，更是所有被光钉住的生命的。
 

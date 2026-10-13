@@ -100,7 +100,7 @@ modified: "2026-10-11"
 
 **关键词**：clasped the mic / closed his eyes / emphasised the first words
 
-**为什么这样写**：川在公众场合唱歌的模样被写成近乎虔诚——「clasped」「closed his eyes」把卡拉OK写成仪式。叙述者凝视对方闭眼唱歌的细节，泄露他正用全部注意力收藏这一刻，呼应前文「memory always relinquishing」的焦虑：越怕忘，越要仔细看。
+**为什么这样写**：川在公众场合唱歌的模样被写成近乎虔诚——「clasped」「closed his eyes」把卡拉OK写成仪式。叙述者凝视对方闭眼唱歌的细节，泄露他正用全部注意力收藏这一刻，呼应前文「always relinquishing the instances that mattered most」的焦虑：越怕忘，越要仔细看。
 
 **读者视角提示**：读者借杰伊的凝视，也记住了川闭眼唱歌的样子。这个镜头让喧闹酒吧里的一刻变得庄重。
 

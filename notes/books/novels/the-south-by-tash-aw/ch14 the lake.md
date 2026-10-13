@@ -76,7 +76,7 @@ modified: "2026-10-11"
 
 **关键词**：placid / perfectly flat lake / drowned
 
-**为什么这样写**：湖的「placid but deeper than they looked」是表象与危险的经典隐喻，而「old tin mine」的身世把工业废墟变成死亡陷阱，给湖水镀上一层真实的恐怖。这一句与后文杰伊被托起、重新呼吸形成对照：同一面「perfectly flat lake」，既是死亡的容器，也是净化的场所。
+**为什么这样写**：湖的「appeared placid but were in fact much deeper than they looked」是表象与危险的经典隐喻，而「old tin mine」的身世把工业废墟变成死亡陷阱，给湖水镀上一层真实的恐怖。这一句与后文杰伊被托起、重新呼吸形成对照：同一面「perfectly flat lake」，既是死亡的容器，也是净化的场所。
 
 **读者视角提示**：叙述者在此插入童年溺亡记忆，让读者带着「这湖会吃人」的预期进入下一段，于是川把杰伊拉入水中的动作更显信任与亲密。
 
