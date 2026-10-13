@@ -87,12 +87,66 @@ RE_QUOTE = re.compile(
     r'^\s*(?:>\s*)?\*{0,2}[' + CIRCLED + r']\*{0,2}\s*["“]?(?P<q1>.+?)["”]?\s*$'
     r'|^\s*>\s*\*{0,2}原句\s*\d+[:：]?\*{0,2}\s*["“]?(?P<q2>.+?)["”]?\s*$'
     # 裸 `> …`：排除中文开头、排除 `> **中文理解**：…` 这类标签行（以 `**` 开头）
-    r'|^\s*>\s*(?!\*\*)(?![一-鿿])(?P<q3>.+?)\s*$', re.M)
+    # ⚠️ 2026-10-13 修正（Some Other Time 实测的**回溯漏洞**）：原写 `(?!\*\*)`，
+    #   而它前面是 `\s*`——正则引擎可让 `\s*` 回退到**零宽**，于是 `> **关键词**：…`
+    #   这行的 `\s*` 吃 0 个空格、`(?!\*\*)` 在「空格」处判定通过（空格不是 `*`）、
+    #   `(.+?)` 再把 ` **关键词**：…` 整段当引语吃下 ⇒ **`> **关键词**：…` 被误判为引语**。
+    #   后果：该行的 RE_KW 检索被 `continue` 跳过 ⇒ n_kw=0 ⇒ 整本书报
+    #   「❓ 无法判定：0 条关键词行」**静默不检查**（实测 5 本：such-a-fun-age 198 行、
+    #   the-harpy-knight 83、a-lesson-in-deceit 53、i-hope-this-email 42、meet-cute-magic 17）。
+    #   ⇒ 前瞻里补上 `\s*`，让它对「前导空白后的 `**`」同样生效。
+    r'|^\s*>\s*(?!\s*\*\*)(?![一-鿿])(?P<q3>.+?)\s*$', re.M)
 # 关键词行：**两种都是库内合法写法**——粗体 `**关键词**：…`（176 本）与
 # 裸 `关键词：…`（24 本，含 jane-eyre）。只认粗体会让这 24 本整册触发空跑
 # 防护（`n_qblocks` 要求块内同时有引语与关键词行，两者都缺 → 报「无法判定」），
 # 而 AGENTS 8.3 明写「格式自成一派的书是合法的」。故 `\**` 可选，向后兼容。
 RE_KW = re.compile(r'\**(?:关键词|Key\s?words?)\*{0,2}\s*[:：]\s*(.+)$')
+# ⚠️ 2026-10-13 新增（Some Other Time 实测的**第三种合法写法**）：关键词标签
+#   **单独成行**，词条在随后的项目符号里，两种变体——
+#     (a) `**关键词**：` 标签行 + `- **word**：释义`（some-other-time 303 行、
+#         the-life-cycle-of-the-common-octopus 319、real-life-short-stories 100 …）
+#     (b) `### 关键词` 标题 + `- **word**：释义`（the-dream-hotel、love-on-the-brain …）
+#   原实现只认「同行带内容」（`**关键词**：a, b`）⇒ 这 14 本书 / 1328 行**整册空跑**，
+#   报「❓ 无法判定：0 条关键词行」，**看着像通过、实为一层没查**。
+#   注意 `### 关键词` 必须先于通用 RE_HEADING 判定，否则会被当块边界 flush 掉。
+RE_KW_HEAD = re.compile(r'^\s*#{1,6}\s*\**(?:关键词|Key\s?words?)\**\s*[:：]?\s*$')
+RE_KW_LABEL_ONLY = re.compile(r'^\s*\**(?:关键词|Key\s?words?)\*{0,2}\s*[:：]\s*$')
+# 项目符号词条：`- **word**：释义` / `- *word* — 释义` / `` - `word` 释义 ``
+RE_KW_ITEM = re.compile(r'^\s*[-*+]\s+(.+?)\s*$')
+# ⚠️ 2026-10-13：**项目符号词条要分两种，只有一种进本层**。本层判的是
+#   「引语锚定关键词」，词条形态是「被标记的词头 + 中文释义」：
+#     `- **let go of me instead**：instead = 反而…`   ← 进（some-other-time 903 条）
+#     `- **accident**（对比 crash / love tap）：…`     ← 进（词头后是中文括号）
+#   而**词性词典式词条**是另一种东西，词头里就带着词性标记：
+#     `` - `trough n. 槽形水池` ``  /  `` - `tight adj. 绷紧的` ``   ← 不进
+#   还有整行是例句的：`例：She weighed her words before…`              ← 不进
+#   为什么必须排除：判据是「词头是否在引语里」，词性条目是**词汇表**语义，
+#   拿它来比引语必然大批报「未锚定」——实测若一并收进，the-life-cycle-of-the-
+#   common-octopus 报到 1126 条、love-on-the-brain 47 条**全属此类**，
+#   会把原本干净的书整批染红（AGENTS 第 7 条：不得改动他书内容，
+#   故只能在工具侧收窄到「该书确实需要的形态」）。
+_RE_ITEM_MARK = re.compile(r'^\s*(?:\*\*(.+?)\*\*|\*(.+?)\*|`(.+?)`)\s*(.*)$')
+_RE_POS_TAG = re.compile(
+    r'(?<![A-Za-z])(?:n|v|vt|vi|adj|adv|prep|conj|pron|num|phr|abbr|int'
+    r'|contr|rel|aux|art|det|pl|sing|fig|lit|esp|ord)\.')
+# ⚠️ 2026-10-13：**标记区间里含中文 ⇒ 该条是词典式词条**（词头与释义同在一个
+#   `` `…` `` / `*…*` 里），例如 `` - `comma , 逗号` `` / `` - `tight adj. 绷紧的` ``。
+#   真正要查的「引语锚定关键词」把词头与释义分在标记内外：
+#     `- **let go of me instead**：instead = 反而…`（some-other-time）
+#     `- **frenzy** n. 狂乱…`（the-lotus-shoes）
+#   故「标记内出现中文」即判为词典式词条、不进本层。
+_RE_CJK = re.compile(r'[\u4e00-\u9fff]')
+
+
+def bullet_item_ok(text):
+    """项目符号词条是否属「引语锚定关键词」（见 RE_KW_ITEM 上方注释）。"""
+    m = _RE_ITEM_MARK.match(text)
+    if not m:
+        return False
+    head = m.group(1) or m.group(2) or m.group(3) or ''
+    if _RE_CJK.search(head):
+        return False
+    return not _RE_POS_TAG.search(head)
 # 标题内嵌引语：`### 第N处「…」`。**N 须兼容中文数字**——本库通行写法是
 # `### 第三处「…」` 而非 `### 第3处「…」`，只写 `\d+` 会整类漏收
 # （第一版因此把这类块判成「无引语块」而跳过，等于没检查）。
@@ -144,6 +198,29 @@ def words_of(phrase):
     in_paren = set()
     for m in RE_CN_PAREN.finditer(phrase):
         in_paren |= set(re.findall(r"[a-z]+(?:['-][a-z]+)*", norm(m.group(0))))
+    # ⚠️ 2026-10-13：**项目符号词条只取词头，丢掉其后全部释义正文**。
+    #   第三种合法写法是「标签独占行 + `- 词头 释义`」，而释义正文里常夹带英文——
+    #   引用原文（`It pains me to...`）、**词性缩写**（` adj. ` / ` v. ` / ` n. `）、
+    #   近义词对比（`比 "upsets me" 更深`）、作者名（`Angela Brown`）、
+    #   强调加粗（`这是**复现**`）。旧实现把这些英文一并当关键词 ⇒ 报「未锚定」。
+    #   实测 Some Other Time 52 条、加他书 3 本被染红进 exit 1，根因都在此处。
+    #   三步收敛（只在词条以 `` ` `` / `*` / `_` 起头时启用，旧写法行为不变）：
+    #     ① 取**第一个标记区间**为词头——`**chiselled jawline** 棱角鲜明` ⇒ chiselled jawline；
+    #        `` `leans into`（依靠；投入） `` ⇒ leans into。
+    #     ② 同一标记区间里若还混着释义（`` `tight adj. 绷紧的` ``），**中文一到即收尾**
+    #        ⇒ `tight adj.`。
+    #     ③ 剥掉尾部残留的**词性缩写**（adj./adv./n./v./vt./vi./prep./conj./pron./num.）
+    #        ⇒ `tight`。实测词性缩写是新写法里最大的假阳性来源（the-life-cycle-of-the-common-octopus
+    #        1126 条「凭空造词」里绝大多数是 `adj`/`adv`/`n`）。
+    if re.match(r'^\s*[`*_]', phrase):
+        _mh = re.match(r'^\s*[`*_]{1,2}(.+?)[`*_]{1,2}(?:\s|$|[:：—\-（(])', phrase)
+        if _mh:
+            phrase = _mh.group(1)
+        _c = re.search(r'[\u4e00-\u9fff]', phrase)
+        if _c:
+            phrase = phrase[:_c.start()]
+        phrase = re.sub(r'\b(?:n|v|vt|vi|adj|adv|prep|conj|pron|num|int|abbr)\.?\s*$',
+                        '', phrase.strip())
     stripped = RE_CN_PAREN.sub(' ', phrase)
     for part in re.split(r'[,，、;；/／|]+', stripped):
         # **词头与释义的分界**：本库关键词一律是「词头——中文释义」，
@@ -180,17 +257,92 @@ def toks(h):
 def anchored(word, *haystacks):
     """词是否作为**完整词元**落在任一 haystack 里，容忍屈折变化。"""
     for h in haystacks:
-        tk = toks(h)
-        if word in tk:
+        if _tk_has(word, toks(h)):
             return True
-        for suf in SUFFIXES:
-            if word.endswith(suf):
-                stem = word[:-len(suf)]
-                if len(stem) > 2 and (stem in tk or (stem + 'e') in tk):
-                    return True
-        for suf in ('ing', 'ed', 'es', 's', 'ly'):
-            if (word + suf) in tk:
+    return False
+
+
+def _tk_has(word, tk):
+    """词元集合里是否有该词（含屈折变化、静音 e、辅音重复、连字符复合）。
+
+    ⚠️ 2026-10-13 补三处（原实现只查「原形 + 补后缀」，漏了反向）：
+      · **静音 e**：`rename` → `renamed` / `nibble` → `nibbled`、`nibbling`
+        （原式查 `renameed`，永远查不到 ⇒ love-on-the-brain 报 2 条假「凭空造词」）
+      · **辅音重复（英式拼写）**：`chiselled` → `chiseled`
+        （maybe-once-maybe-twice 报 1 条假红）
+      · **连字符复合词**：`haematopoiesis` 落在 `haematopoiesis-tongued` 里
+        （the-language-of-knives 报 1 条假红）
+    """
+    if word in tk:
+        return True
+    for suf in SUFFIXES:
+        if word.endswith(suf):
+            stem = word[:-len(suf)]
+            # ⚠️ `stem + 'e'` 这一支**不能删**（2026-10-13 实测踩过）：
+            #   `meddling` 的词干是 `meddl`，原形是 `meddle`；`apologizing`→`apologize`
+            #   同理。删掉它会让 how-to-solve-your-own-murder / embrace-by-bal-khabra
+            #   两本从 exit 0 变 exit 1（凭空造词 1 处），属**工具自身制造的回归**。
+            if len(stem) > 2 and (stem in tk or (stem + 'e') in tk):
                 return True
+            # 英式叠写：`chiselled` 的词干切成 `chisell`，而书里是美式 `chiseled`
+            #   ⇒ 词干末尾是叠写辅音时，去一层后 base 本身或 base+后缀命中都算
+            #   （maybe-once-maybe-twice「chiselled jawline」假红 1 条，2026-10-13）
+            if len(stem) > 2 and stem[-2] == stem[-1] and stem[-1] not in 'aeiou':
+                base = stem[:-1]
+                if base in tk or (base + suf) in tk or (base + 'e') in tk:
+                    return True
+    for suf in ('ing', 'ed', 'es', 's', 'ly'):
+        if (word + suf) in tk:
+            return True
+        if word.endswith('e') and (word[:-1] + suf) in tk:
+            return True
+        # `frenzy` → `frenzied`：辅音 + y 结尾，变体是 y→i 再加后缀
+        #   （the-lotus-shoes 的 `frenzy` 关键词，原文写 `frenzied`，2026-10-13）
+        if word.endswith('y') and len(word) >= 3 and word[-2] not in 'aeiou':
+            if (word[:-1] + 'i' + suf) in tk:
+                return True
+        if len(word) >= 3 and word[-1] not in 'aeiouy':
+            if (word + word[-1] + suf) in tk:
+                return True
+            if (word[:-1] + suf) in tk:        # chiselled → chiseled
+                return True
+    # 连字符复合：`haematopoiesis-tongued` 的词元须能被 `haematopoiesis` 命中
+    for t in tk:
+        if '-' in t and word in t.split('-'):
+            return True
+    return False
+
+
+def ref_has(word, ref):
+    """参照集判定（与 `_tk_has` 同口径）。
+
+    ⚠️ 2026-10-13：原先直接写 `w in ref`，用的是**裸集合成员**，
+    而锚定判定走的是 `anchored()`（容忍屈折）——两侧口径不一致，
+    于是「明明在书里、只是换了个词形」的词（`leans`→`leaned`、
+    `rename`→`renamed`、`haematopoiesis`→`haematopoiesis-tongued`）
+    被误判成**凭空造词**（4 本他书 exit 0→1 的根因）。
+    参照集是词元集合，故此处只需词元级容忍（不需要 substring）。
+    """
+    if word in ref:
+        return True
+    for suf in SUFFIXES:
+        if word.endswith(suf):
+            stem = word[:-len(suf)]
+            if len(stem) > 2 and stem in ref:
+                return True
+    for suf in ('ing', 'ed', 'es', 's', 'ly'):
+        if (word + suf) in ref:
+            return True
+        if word.endswith('e') and (word[:-1] + suf) in ref:
+            return True
+        if len(word) >= 3 and word[-1] not in 'aeiouy':
+            if (word + word[-1] + suf) in ref:
+                return True
+            if (word[:-1] + suf) in ref:
+                return True
+    for t in ref:
+        if '-' in t and word in t.split('-'):
+            return True
     return False
 
 
@@ -230,6 +382,10 @@ def scan_file(path):
     n_kw = 0
     blocks = []            # (quote_text, quote_lineno, [(行号, 关键词行内容)])
     cur_quote, cur_ln, cur_kws = None, -1, []
+    # ⚠️ 2026-10-13 新增：标签独占行 + 项目符号词条（第三种合法写法，见 RE_KW_HEAD 注释）。
+    #   `kw_bullet` 跨空行保持（the-dream-hotel 是 `### 关键词` / 空行 / 词条），
+    #   遇到非项目符号的非空行即收尾。
+    kw_bullet = False
 
     def flush():
         if cur_quote is not None or cur_kws:
@@ -244,15 +400,39 @@ def scan_file(path):
             # 标题内嵌引语（`### 第三处：…「…」`）**不立即 flush**——它下面的
             # 中文理解/关键词/为什么这样写都属于这条引语，由下一个标题来收尾。
             cur_quote, cur_ln, cur_kws = q, i, []
+            kw_bullet = False
+            continue
+        # `### 关键词` 是标签不是块边界——必须先于通用 RE_HEADING 判定，
+        # 否则 flush 掉当前块、词条落到空块里（该层又变回静默不检查）。
+        if RE_KW_HEAD.match(ln) or RE_KW_LABEL_ONLY.match(ln):
+            kw_bullet = True
             continue
         if RE_HEADING.match(ln):
             flush()
             cur_quote, cur_ln, cur_kws = None, -1, []
+            kw_bullet = False
             continue
         mk = RE_KW.search(ln)
         if mk:
             n_kw += 1
             cur_kws.append((i, mk.group(1)))
+            kw_bullet = False
+            continue
+        if kw_bullet:
+            if not ln.strip():
+                continue                   # 空行不结束（两种变体都可能是「标签/空行/词条」）
+            mi = RE_KW_ITEM.match(ln)
+            if mi:
+                # ⚠️ 2026-10-13：词性词典式词条（`` `trough n. 槽形水池` ``）与例句行
+                #   （`例：She weighed…`）**不进本层**——它们不是「引语锚定关键词」。
+                #   见 RE_KW_ITEM 上方注释（否则 the-life-cycle-of-the-common-octopus
+                #   报到 1126 条、love-on-the-brain 47 条，全是这类词条）。
+                if not bullet_item_ok(mi.group(1)):
+                    continue
+                n_kw += 1
+                cur_kws.append((i, mi.group(1)))
+                continue
+            kw_bullet = False              # 非项目符号的非空行 ⇒ 词条区结束
     flush()
 
     n_qblocks = 0
@@ -269,10 +449,17 @@ def scan_file(path):
         # 要的「语境延伸词呼应」恰恰写在**关键词之后**的「为什么这样写」里，
         # 一 break 就把这唯一合法的豁免证据切掉了（实测假阳 4→7 的根因）。
         seg = []
-        for ln in lines[qln:]:
-            if RE_HEADING.match(ln) or is_quote_line(ln):
+        # ⚠️ 2026-10-13：改用「**本块 kws 的行号集合**」剔除关键词行，而不是再跑一遍
+        #   正则。标签独占行写法下词条行（`- **word**：释义`）本身就是关键词所在处，
+        #   只认 RE_KW 会漏掉它们 ⇒ word 在正文里找到自己、检查自我满足恒为 0。
+        kw_lines = {n for n, _ in kws}
+        for ln_no, ln in enumerate(lines[qln:], start=qln + 1):
+            if is_quote_line(ln):
                 break
-            if RE_KW.search(ln):
+            if (RE_HEADING.match(ln) and ln_no not in kw_lines
+                    and not (RE_KW_HEAD.match(ln) or RE_KW_LABEL_ONLY.match(ln))):
+                break                      # 真块边界；`### 关键词` 不算边界
+            if ln_no in kw_lines or RE_KW_HEAD.match(ln) or RE_KW_LABEL_ONLY.match(ln):
                 continue                   # 跳过但不截断
             seg.append(ln)
         body_norm = norm(' '.join(seg))
@@ -321,7 +508,7 @@ def main():
             item = (name, ln, phrase, w)
             if ref is None:
                 undet.append(item)
-            elif w in ref:
+            elif ref_has(w, ref):
                 loose.append(item)
             else:
                 fab.append(item)

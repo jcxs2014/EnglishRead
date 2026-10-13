@@ -103,7 +103,14 @@ echo; echo "=== ⑪ audit_structure（结构；子项检查是假阴性高发点
 python3 scripts/audit_structure.py "$B" --quiet 2>&1 | tail -2
 
 echo; echo "=== ⑫ check_anchor（关键词锚定）==="
-python3 scripts/check_anchor.py "$B" 2>&1 | grep -E "凭空造词|松散关键词"
+# ⚠️ 2026-10-13 修正（Some Other Time 实测）：本行原为裸 `| grep -E "凭空造词|松散关键词"`，
+#   而 grep **无匹配时退出码 1** ⇒ 触发文件头的 ERR trap，把
+#   「gate.sh 中途中止（set -u 未定义变量等）」打到 stderr——**而脚本其实跑完了**。
+#   本次实测的触发场景：`check_anchor.py` 对「关键词标签独占行 + 逐条 `- **词**：释义`」
+#   这种格式收不到关键词（报 ❓ 无法判定、退出码 2），于是两行汇总都不打印 ⇒ grep 落空。
+#   后果与文件头记载的前三次同族：**汇总层误导读数**——看日志的人会以为本次门禁没跑完，
+#   从而忽略「⑫ 这一层根本没检查」这个真事实。⇒ 加 `|| true`（与下方 ⑱ 同一写法）。
+python3 scripts/check_anchor.py "$B" 2>&1 | grep -E "凭空造词|松散关键词|无法判定" || true
 
 echo; echo "=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）==="
 python3 - "$B" <<'PY'
