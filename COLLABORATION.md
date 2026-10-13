@@ -70,25 +70,13 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-13 19:45 UTC] [DSH-Mac] → All
 
-**The South (Tash Aw) 精读完工** — novels，情感/文学长篇，36 章 + 总览三篇 = 39 md（text/ 36 件，epub 完整 lane）。DSH-Mac 执行，12 批（三章一批，末批两章），**5 commits 未 push**。
+[the-south-by-tash-aw] **精读完工 + 五步审查完成**（DSH-Mac 执行，2026-10-13；审查由用户同日发起）
 
-终值：`bash scripts/gate.sh` **EXIT=0（0 条阻断型）**｜verify_quotes **268/268（100%，36/36 干净）**｜sweep_full 整串 flat **0 查无 / 0 拼接**｜check_vocab **950 词条行 FAIL 0**（WARN 40 全为 length≥9 提示型）｜entities **0**｜corruption **FAIL 0**｜逐章归属 36 章全 X/X｜短引语 2/2｜check_overview_full 整串 **45/查无 0/H1 错配 0**。
+**完工**：novels / 情感·文学长篇，36 章 + 总览三篇 = 39 md（text/ 36 件，epub 完整 lane），12 批子代理并行。产出终值：verify_quotes 268/268（36/36 干净）· check_vocab 950 词条 FAIL0 · entities 0 · corruption 0 · 逐章归属 36 章全 X/X。生产方式按第 8 条证据先行：每批读整章 text、grep 预验词条例句后方落盘；总览三篇引语**程序化取自已过门禁的原句块池**，非凭记忆重打。收口整改 ch25 编造引语/说话人、ch05·08·16·20 跨标签拼接、ch11 limp 关键词漂移等 8 处阻断。
 
-生产方式（按第 8 条证据先行）：12 批子代理各读整章 text、grep 预验词条与例句、跑四项门禁自审后才落盘；总览三篇引语**程序化取自已过门禁的原句块**（非凭记忆重打）。
+**五步审查（a–e）**：a 门禁全量重跑 `gate.sh` **EXIT=0 / 0 阻断型**（268/268、--full 整串取证 0、sweep_full 跨章0/拼接0/查无0、check_overview_full 整串45/查无0/H1错配0、check_analysis_indep 346 全命中）；b 自建第二实现（整串 flat + 跨标签拼接）复判，唯一定性为 ch33 题句跨 ch08/ch28 巧合命中 = recurring motif 假红，无跨章搬句；c 结构 0 缺陷，ch02/03/04/23 块数 9–13 = 提示型只记不改；d 语义逐对 8 批共 268 引语块 + 411 词条（附真实反例与防幻觉条款），**阻断 12 全修**（ch19 引语截短致分析反向、ch08 原句6「芳对杰克」错配、ch06 编造 1997 年份、ch03 与 ch01 时序矛盾、ch10 习惯叙述越界为事件、ch12 perpetual motion 伪英文词、ch28「三遍前缀」不实、ch32 损坏 token 锈.rs-tling、ch36 自造译名阿芳、ch27/28 林娜→莉娜等），提示 12 只记不改；e 总览 3 阻断修（fix it in my mind's eye 漏宾格 it、ch29 posture 主语误归 Fong 实为 Chuan、ch31「Mum」已说出口）+ 提示 2，62/63 处引语逐字命中对应章。
 
-收口整改 8 处阻断型：ch25 原句7 编造说话人+虚构后半句（回原文取证改穗）· ch05/08/16/20 共 6 条跨标签拼接/整串查无（逐字补全连续段）· ch11 limp 关键词漂移到相邻句（并入引语）· ch12 关键词裁剪。⚠️ **ch08 原句6 实为芳对杰克说话、被子代理误标成川**——verify 全绿下的说话人错配，靠人读上下文方抓（第 10 条点名类型，机械化不可靠）。
-
-五步审查未做（待用户发起）。原始逐行门禁输出见工作日志当日条目；门禁原件落 `.memory/raw-gates/the-south-by-tash-aw/`（首跑 2 阻断 + 终跑 EXIT=0 全 18 项）。
-
-[the-south-by-tash-aw] 五步审查完成（用户发起，DSH-Mac 执行，10 个审查批全覆盖 ch01–36 + 总览 e 步）。
-
-a 门禁全量重跑（完整 lane）：verify_quotes 268/268、--full 整串取证 0、check_vocab FAIL 0（950 词条）、entities 0、corruption FAIL 0、sweep_full 查无 0 拼接 0、逐章归属 36 章全 X/X、check_overview_full 整串 45/查无 0、check_analysis_indep 346 条全命中。
-b 自建第二实现（整串 flat + 跨标签）复判：仅 ch33 题句跨 ch08/ch28 巧合命中 = recurring motif 假红，无跨章搬句。
-c 结构缺陷 0；ch02/03/04/23 块数 9–13 提示型（长篇按场景切块常态，先例 Bookshop / Capital of Dreams，只记不改）。
-d 语义逐对 8 批共 268 块 + 411 词条：阻断 12 处全修（ch19 引语截短致分析反向、ch08 原句6 芳—杰克错配、ch06 编造 1997 年份、ch03「第一次点出」与 ch01 矛盾、ch10 习惯叙述越界为事件、ch12 perpetual motion 伪英文词、总览 fix it in my mind's eye 漏宾格、ch29 posture 误归 Fong、ch28「三遍前缀」不实、ch32 损坏 token 锈.rs-tling、译名统一林娜→莉娜/阿芳→芳）+ 提示 12 只记不改。
-e 总览 3 阻断修（00_概述/金句精选/情感节点）。
-
-结论：术语门禁全绿 + 语义层缺陷全清零；假红型 2（ch11 词汇搬句、ch33 motif）。同会话盲区（说话人/跨章/计数断言需人判）见工作日志逐行明细。整改 6 commits（e5b0991df/c3b1aaa56/64dd890f4/9e0d07dac/86247523b/4e793606c）未 push；门禁原件落 .memory/raw-gates/the-south-by-tash-aw/。
+**结论**：术语门禁全绿 + 语义层缺陷全清零，假红型 2（ch11 词汇搬句、ch33 motif）。同会话审查盲区（说话人 / 跨章引用 / 计数断言需人判）如实标注；逐行明细与三档定性见工作日志当日「五步审查明细」节。**commits 15 条均 pathspec、未 push**（审查整改 `e5b0991df`…`4e793606c` 6 条 + 板日志门禁 3 条）。
 
 ### [2026-10-13 15:00 UTC] [Opencode-Mac] → All
 
