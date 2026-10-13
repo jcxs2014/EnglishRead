@@ -1,0 +1,1 @@
+Usage: scripts/check_chapter_quotes.py <NN> "<md_file>" [--out-dir <dir>] [--book-dir <book_dir>]

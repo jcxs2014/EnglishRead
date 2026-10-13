@@ -1,0 +1,60 @@
+词条行合计: 545
+
+--- FAIL (0) ---
+
+--- ⚠️ 存量待清（只检出，不判红；存量清理是另一件事）---
+  禁止标注（AGENTS 第 5 条明令禁止，例句列写「未出现/凭记忆」等）1 处：
+    · ch08 Seven.md:11  > 机场内一片混乱。Ellie和Jonah在安检排队中再次陷入熟悉的争吵模式，而Maggie则宣布要不顾一切赶回学校。在排队过程中，Elli
+
+--- WARN (51) ---
+  ch02 One.md [基础] 基础档疑含超纲词「perpetually」
+  ch02 One.md [基础] 词条跨篇(本章无，epub 全书有)「cling」
+  ch02 One.md [基础] 例句不含词头「cling」
+  ch03 Two.md [基础] 基础档疑含超纲词「retirement」
+  ch03 Two.md [基础] 基础档疑含超纲词「inheritance」
+  ch05 Four.md [基础] 基础档疑含超纲词「artificial」
+  ch05 Four.md [基础] 基础档疑含超纲词「ecosystems」
+  ch06 Five.md [基础] 基础档疑含超纲词「reheating」
+  ch06 Five.md [基础] 基础档疑含超纲词「commitment」
+  ch07 Six.md [基础] 基础档疑含超纲词「nightstand」
+  ch07 Six.md [基础] 词条跨篇(本章无，epub 全书有)「alarm」
+  ch07 Six.md [基础] 例句不含词头「alarm」
+  ch10 Nine.md [基础] 例句不含词头「gasp」
+  ch10 Nine.md [基础] 基础档疑含超纲词「sweatshirt」
+  ch11 Ten.md [进阶] 例句不含词头「ER (emergency room)」
+  ch12 Eleven.md [基础] 基础档疑含超纲词「butterscotch」
+  ch13 Twelve.md [基础] 基础档疑含超纲词「intersection」
+  ch13 Twelve.md [基础] 基础档疑含超纲词「glove compartment」
+  ch14 Thirteen.md [进阶] 例句不含词头「security」
+  ch14 Thirteen.md [进阶] 例句不含词头「boarding pass」
+  ch14 Thirteen.md [基础] 基础档疑含超纲词「departure」
+  ch15 Fourteen.md [高级] 例句不含词头「betray」
+  ch15 Fourteen.md [基础] 基础档疑含超纲词「retirement」
+  ch17 Sixteen.md [基础] 词条跨篇(本章无，epub 全书有)「IV (intravenous drip)」
+  ch17 Sixteen.md [基础] 基础档疑含超纲词「IV (intravenous drip)」
+  ch17 Sixteen.md [基础] 例句不含词头「IV (intravenous drip)」
+  ch17 Sixteen.md [基础] 基础档疑含超纲词「croissants」
+  ch18 Seventeen.md [基础] 基础档疑含超纲词「introduction」
+  ch19 Eighteen.md [进阶] 例句不含词头「pew」
+  ch19 Eighteen.md [基础] 例句不含词头「priest」
+  ch20 Nineteen.md [进阶] 词条跨篇(本章无，epub 全书有)「glitter」
+  ch20 Nineteen.md [进阶] 例句不含词头「glitter」
+  ch20 Nineteen.md [进阶] 词条跨篇(本章无，epub 全书有)「anticipate」
+  ch20 Nineteen.md [进阶] 例句不含词头「anticipate」
+  ch20 Nineteen.md [基础] 基础档疑含超纲词「intersection」
+  ch20 Nineteen.md [基础] 基础档疑含超纲词「countdown」
+  ch21 Twenty.md [进阶] 词条跨篇(本章无，epub 全书有)「custody」
+  ch21 Twenty.md [进阶] 例句不含词头「custody」
+  ch21 Twenty.md [进阶] 词条跨篇(本章无，epub 全书有)「stripe」
+  ch21 Twenty.md [进阶] 例句不含词头「stripe」
+  ch21 Twenty.md [基础] 基础档疑含超纲词「disposable」
+  ch22 Twenty-One.md [进阶] 例句不含词头「generator」
+  ch22 Twenty-One.md [基础] 基础档疑含超纲词「sweatshirt」
+  ch22 Twenty-One.md [基础] 基础档疑含超纲词「moonlight」
+  ch23 Twenty-Two.md [基础] 基础档疑含超纲词「overnight bag」
+  ch28 Twenty-Seven.md [基础] 基础档疑含超纲词「ibuprofen」
+  ch28 Twenty-Seven.md [基础] 基础档疑含超纲词「stretcher」
+  ch29 Twenty-Eight.md [基础] 基础档疑含超纲词「intersection」
+  ch35 Thirty-Four.md [高级] 词条跨篇(本章无，epub 全书有)「drape」
+  ch35 Thirty-Four.md [高级] 例句不含词头「drape」
+  ch37 Thirty-Six.md [基础] 基础档疑含超纲词「sunglasses」

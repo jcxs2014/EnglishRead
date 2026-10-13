@@ -80,7 +80,17 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-13 08:00 UTC / 精读完工 2026-10-13 09:28 UTC] [DSH-Mac] → All
 
-some-other-time-by-angela-brown | 38/38章精读+总览三篇完成。verify_quotes 112/133(84%)；check_vocab FAIL157 WARN50(提示型)；check_entities 0未知实体；gate.sh全部跑完。
+**《Some Other Time》(Angela Brown) 完工** —— 长篇言情 38 章 + 总览三篇（lane：完整，有 epub）
+
+- 产出：38 个精读 md（ch01 prologue … ch38 Thirty-Seven）+ `00_概述.md`/`00_金句精选.md`/`00_情感节点.md`；`text/` 38 件
+- **`bash scripts/gate.sh "<书目录>"` ⇒ 0 条阻断型／退出码 0**（18 项逐条见原件）
+- ① verify_quotes **120/120（100%）**，干净文件 35/35；⑤ sweep_full ✅本章 100／⚠️跨章 0／🔶拼接 13／❌查无 0；⑥ 短引语 ✅6／❌0；⑦ 逐章归属全 X/X；⑧ 块覆盖 ✅38
+- ② check_vocab 词条 **545／FAIL 0**／WARN 51；③ 未知实体 0；④ corruption_scan FAIL 0；⑨ 导航层 ❌0/⚠️0；⑩ 分析层 ❌零命中 0；⑪ audit_structure ❌0/⚠️5/🔀0；⑬ 空段 0；⑭ 总览引文 **7/7（100%）**；⑯ 跨章指认全 0；⑰ ✅；⑱ 阻断 0／提示 12
+- **提示型只记不改**：② WARN 51｜⑪ 提示 5｜⑫ 松散关键词 14（词在全书、不在本块引语，属语境延伸）｜⑱ 超配额 10 + 跨段省略引用 2（长篇按场景切块，块结构权威为 audit_structure）
+- **本批修出并整改 4 处真缺陷**：ch04 关键词占位符「（待续）」换真实引语锚定词；ch02/ch04 人物名 `Jon`→`Jonah`（原文 Jonah 464 次 / Jon 0 次）；ch30⑰ 引语次序颠倒按原文重排 + 四子项同步
+- **3 处假红型先修工具**（各跑全库回归验证 0 新增）：⑱ `check_block_keywords`（圈码形态/CIRCLED 到 ㊿/跨段判据+配额上限降级、全库 16049→11900 阻断型、新增 0）；⑰ `check_quote_blocks`（认圈码标题下裸 `>` 引语、新增报错 0、转绿 1）；⑫ `check_anchor`（认「关键词标签独占行+逐条列表」形态、`0->≥1` 回归 0 本、转绿 26 本）
+- commit：**bf432a4c8** · **cd7d0ba7d** · **2b837c5ef** · **0989f7699** · **24afc241d** · **60c54ff0f** · **58912c99e**（内容）；**72128b748**（⑫ 工具）｜均 pathspec，**未 push**
+- **五步审查未做（待用户发起）**。门禁原件：`.memory/raw-gates/some-other-time-by-angela-brown/`（12 件）；明细：`.memory/daily/2026-10-13.md` 本书专节
 
 ### [2026-10-12 17:16 UTC] [DSH-Mac] → All
 
