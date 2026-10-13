@@ -179,7 +179,7 @@ Ellie带Jonah去她的书店Magnolia，在那里她不小心暴露了她有女�
 | convoluted | adj. | 复杂的，曲折的 | ...all of hers feel **convoluted**. Mixed up. |
 | aglow | adj. | 发光的 | ...his face **aglow** with disbelief. |
 | quizzically | adv. | 疑惑地 | Gabby **quizzically** tilts her head. |
-| barricade | v. | 阻挡 | ...Ellie tries to **barricade** herself from it. |
+| tastefully | adv. | 雅致地；有品味地 | The two young, college-aged women who were here yesterday are back again and **tastefully** arranging a summer reading display in the window. |
 | upholstered | adj. | 软包的 | ...one of the shop's comfortable, **upholstered** chairs. |
 
 ### ⭐⭐ 进阶
@@ -188,6 +188,6 @@ Ellie带Jonah去她的书店Magnolia，在那里她不小心暴露了她有女�
 |------|------|------|------|
 | bouquet | n. | 花束 | In his left hand, he holds a colorful floral **bouquet**. |
 | browse | v. | 浏览 | ...a handful of customers **browse** the neatly arranged shelves... |
-| perch | v. | 栖息 | ...Gabby's **perched** on a stool behind the long counter... |
-| dazzle | v. | 使目眩 | ...the lights **dazzle** Ellie. |
-| quicksand | n. | 流沙 | ...like she's sinking in **quicksand**. |
+| perch | v. | 栖息 | She waves to Gabby, who’s **perched** on a stool behind the long, rounded white counter, her neck predictably weighed down by wooden beads as she sifts through a stack of papers. |
+| playfully | adv. | 顽皮地；打趣地 | “I didn’t think I’d see you again today,” Gabby **playfully** notes without lifting her face from her work. |
+| employees | n. | 员工；雇员 | Near the window, the other **employees** twist their heads in preparation for some idle chatter. “Planning to introduce me to your new friend?” |

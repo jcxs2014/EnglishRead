@@ -127,7 +127,7 @@ Bunny坚持要去医院检查（Ellie担心她的精神状态），在急诊室�
 | postapocalyptic | adj. | 末日后世界的 | ...a scene from a **postapocalyptic** book. Or, at the very least, a B-list zombie flick. |
 | vascular | adj. | 血管的 | ...blood from her head rushes down to her feet—a **vascular** waterfall... |
 | recognition | n. | 认出，识别 | ...a flash of **recognition** steal across his expression, too. |
-| westchester | n. | 威彻斯特（县） | ...how he hadn't cheated on her, about going back to **Westchester** County to be with his... |
+| westchester | n. | 威彻斯特（县） | That morning, as she’d sat on his awful couch and listened to him talk about how he hadn’t cheated on her—though, he guessed he hadn’t not cheated on her, either, since he’d been driving back home to **Westchester** every Thursday for over a mo |
 | tender (is the night) | phr. | 《夜色温柔》（菲茨杰拉德小说） | ...She sold him a copy of **Fitzgerald**'s **Tender Is the Night**... |
 
 ### ⭐⭐ 进阶
@@ -136,16 +136,16 @@ Bunny坚持要去医院检查（Ellie担心她的精神状态），在急诊室�
 |------|------|------|------|
 
 | ER (emergency room) | n. | 急诊室 | The actual **ER** is a symphony of beeps. |
-| exhale | v. | 呼气，吐气 | ...she **exhale**s and tries to steady herself. |
+| exhale | v. | 呼气，吐气 | She **exhales** long and slow, adding to the room’s decaying air, and wishes he were here, but she quickly brushes the thought aside. |
 | medication | n. | 药物，药物治疗 | ..."Mom, what is going on?" Aside from some of Bunny's planned surgeries, for which Ellie always flew to help with the **medication** schedules... |
-| arthritis | n. | 关节炎 | ..."I have a **cardiac** event..." Bunny says... ...the doctor confirms **arthritis**... |
+| arthritis | n. | 关节炎 | And though her knees aren’t so bad for a woman her age—all those humid morning jaunts around the condo community have helped to prevent full-blown **arthritis** from eating away at her joints—the situation does not make sense. |
 
 ### ⭐ 基础
 
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
-| nurse | n. | 护士 | ...a young **nurse** calls out "Adams?" |
+| nurse | n. | 护士 | Bunny lies on a cot, which she’s made a point to let every **nurse** know is very uncomfortable. |
 | mask | n. | 口罩，面罩 | ...pulling the fabric over her nose and mouth, like a **mask**... |
-| lip | n. | 嘴唇 | ..."You look good." He bites his bottom **lip**. |
+| lip | n. | 嘴唇 | Jack’s thin, pink **lips** remain in a subdued U shape as he steps aside so Ellie has the space to walk freely past. |
 | beer | n. | 啤酒 | ...his face quickly flushing, as if he's downed a pint of **beer**. |
 | waiting room | n. | 候诊室 | The **waiting room** at the local hospital's ER is a scene from a postapocalyptic book. |

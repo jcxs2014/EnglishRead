@@ -244,7 +244,7 @@ Jack在咖啡店里邀请Ellie约会，Ellie接受了——但就在她同意的
 | third-wheel | n. | 电灯泡 | ...I don't want to **third-wheel** whatever it is that you've got going on here... |
 | conflicted | adj. | 矛盾的 | ...his expression newly **conflicted**... |
 | stripe | n. | 条纹 | ...yellow and orange **streaks**. |
-| discard | v. | 丢弃 | ..."Don't **discard** it yet," she adds, winking. |
+| greenery | n. | 绿植；葱翠 | “Thank you,” she says as he sits next to her, the two of them side by side beneath the trailing **greenery**. |
 
 ### ⭐ 基础
 
@@ -253,5 +253,5 @@ Jack在咖啡店里邀请Ellie约会，Ellie接受了——但就在她同意的
 | disposable | adj. | 一次性的 | ...a **disposable** coffee cup. |
 | button-down | n. | 纽扣衬衫 | ...a crisp white **button-down** tucked into... |
 | khaki | adj./n. | 卡其色（的） | ...nicely cut **khaki** pants... |
-| barista | n. | 咖啡师 | ...the young male **barista** who helped Ellie earlier... |
-| doodle | v. | 涂鸦 | ...she begins to absently **doodle** on it. |
+| barista | n. | 咖啡师 | At the counter, the **barista** begins to wipe down the metal espresso machines. |
+| doodle | v. | 涂鸦 | With her eyes cast down on the table in defeat, she reaches for the metal caddy, pulls out a scrap of paper and a pen, and begins to absently **doodle** on it. |

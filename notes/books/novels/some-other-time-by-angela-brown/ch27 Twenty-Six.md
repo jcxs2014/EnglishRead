@@ -127,11 +127,11 @@ Ellie和Jonah在厨房里吵架，Jonah说她必须自己决定故事如何结�
 
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
-| prescribed | adj. | 规定的 | ...toward a **prescribed** version of our existence. |
+| prescribed | adj. | 规定的 | For every small choice we make, we walk both toward and away from a **prescribed** version of our existence. |
 | subside | v. | 消退 | ...the pain in her back starting to **subside**... |
 | sear | v. | 烧灼 | ...a new one—a burning, **searing** emotion—ignites... |
-| cascade | v. | 倾泻 | The words **cascade** from her mouth. |
-| reiterate | v. | 重申 | ..."I **reiterate**," she says... |
+| existence | n. | 存在；生存 | For every small choice we make, we walk both toward and away from a prescribed version of our **existence**. |
+| medicinal | adj. | 药味的；药用的 | It feels to her right now—the chalky, **medicinal** taste of those brown pills still lingering on her tongue—like too much to bear. |
 
 ### ⭐⭐ 进阶
 
@@ -149,7 +149,7 @@ Ellie和Jonah在厨房里吵架，Jonah说她必须自己决定故事如何结�
 |------|------|------|------|
 | tennis shoes | n. | 网球鞋 | Ellie kicks off her **tennis shoes** in the entryway... |
 | tablet | n. | 药片 | ...swallows two brown **tablets**. |
-| pantry | n. | 食品储藏室 | ..."Open up the **pantry**..." |
+| answer | v. | 回答；答复 | Ellie doesn’t **answer**. Instead, she volleys a question back to him. “Would you have gotten married if you hadn’t run into me earlier in the week?” |
 | porch | n. | 门廊 | ...stands on the **porch**... |
 | porch light | n. | 门廊灯 | The **porch light** is out, like all the other lights... |
-| ambulance | n. | 救护车 | ..."We're taking an **ambulance**?" |
+| bookshop | n. | 书店 | “The **bookshop**,” she continues. |

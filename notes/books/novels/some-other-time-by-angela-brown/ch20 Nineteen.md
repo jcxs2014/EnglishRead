@@ -129,7 +129,7 @@ Ellie开车回到咖啡店寻找Jonah，但当绿灯亮起、第三次车祸即�
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | transcend | v. | 超越 | ...this most powerful energy that can **transcend** time and logic. |
-| anticipate | v. | 预期，期待 | She **anticipate**s the feeling of impact, the sound of metal grating... |
+| suspense | n. | 悬念；紧张等待 | She inhales but her breath is jagged, her insides all nerves and **suspense** and expectation. |
 | orchestrate | v. | 策划，编排 | ...she honestly might have thought to **orchestrate** it herself... |
 | thrum | v. | 颤动，发出持续的声音 | Her cells **thrum** with this knowledge. |
 
@@ -137,8 +137,8 @@ Ellie开车回到咖啡店寻找Jonah，但当绿灯亮起、第三次车祸即�
 
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
-| commuter | n. | 通勤者 | ...the local **commuter** train... |
-| flicker | v. | 闪烁 | ...the **flicker** of candles... |
+| relocated | v. | 搬迁；迁移 | Maybe he **relocated** to a different table in the back. |
+| electric | adj. | 电流般的；兴奋的 | Her hair, her skin, everything is suddenly **electric**. |
 | glitter | n./v. | 闪光，闪烁 | ...votive candles in **preparation**... |
 | anticipate | v. | 预期 | ...as her **anticipation** and hope to see him continue to build. |
 
@@ -146,10 +146,10 @@ Ellie开车回到咖啡店寻找Jonah，但当绿灯亮起、第三次车祸即�
 
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
-| intersection | n. | 交叉路口 | ...at the **intersection** where she's currently stopped... |
+| intersection | n. | 交叉路口 | Opposite the **intersection** where she’s currently stopped, Ellie sees a parking space open in front of the coffee shop’s chalkboard sidewalk sign. |
 | parking space | n. | 停车位 | ...Ellie sees a **parking space** open in front of the coffee shop... |
 | traffic light | n. | 红绿灯 | ...the **traffic light** turns red... |
 | steering wheel | n. | 方向盘 | Her knuckles turn white as she grips the **steering wheel**... |
 | brake (pedal) | n. | 刹车（踏板） | ...lifts her foot off the **brake** pedal... |
 | cell | n. | 细胞 | Her **cell**s thrum with this knowledge. |
-| countdown | n. | 倒计时 | ...she begins a **countdown** in her head. Three. Two. One. |
+| countdown | n. | 倒计时 | She smiles and begins a **countdown** in her head. Three. Two. Any second now. One. |

@@ -132,17 +132,19 @@ status: completed
 
 ### ⑧
 
-> "Are you a zebra?" the mother asks. "Are you a hamburger?" Nearby, one of the other families strolls past. The mother is playing a game with her young child, a sort of impromptu charades. Ellie recalls playing games like this with Maggie—and who are you? Do I know you? I don't remember you being like this. Once Maggie hit a certain age, though, she stopped finding it funny. A few years later, the game stopped being fun or funny to Ellie, too.
+> Nearby, one of the other families strolls past. The mother is playing a game with her young child, a sort of impromptu charades. "Are you a zebra?" the mother asks. "Are you a hamburger?" … Ellie recalls playing games like this with Maggie … And who are you? Do I know you? I don't remember you being like this. Once Maggie hit a certain age, though … she stopped finding it funny. A few years later … the game stopped being fun or funny to Ellie, too.
 
-**中文理解**："你是一匹斑马吗？"那位母亲问道。"你是一个汉堡包吗？"附近，另一个家庭走过。那位母亲正在和她的小孩子玩一种即兴的字谜游戏。Ellie回忆起和Maggie玩类似游戏的情景——你是谁？我认识你吗？我不记得你像这样了。然而，一旦Maggie到了某个年龄，她就觉得这不好笑了。几年后，这个游戏对Ellie来说也不再有趣或好笑了。
+**中文理解**：附近，另一个家庭从旁边走过。那位母亲正和她年幼的孩子玩一种即兴的哑谜游戏。"你是一匹斑马吗？"母亲问。"你是一个汉堡包吗？"……Ellie想起自己也和Maggie玩过这样的游戏……你是谁？我认识你吗？我不记得你是这样的。然而，Maggie一到某个年纪……她就觉得这不好笑了。几年后……这个游戏对Ellie来说也不再有趣、不好笑了。
 
-**句子结构**：Are you a zebra? / Are you a hamburger? 是直接引语；Nearby, one of the other families strolls past 是主句；The mother is playing a game... 是并列句。
+**句子结构**：全段是"叙述—对白—叙述—回忆"的交错结构。Nearby, one of the other families strolls past 与 The mother is playing a game with her young child, a sort of impromptu charades 是两句场景叙述（后一句用 a sort of… 作同位语解释游戏性质）；"Are you a zebra?" the mother asks. "Are you a hamburger?" 是插入的母子对白，说话人标签 the mother asks 夹在两句引语之间；Ellie recalls playing games like this with Maggie 转入Ellie的回忆，宾语由动名词短语 playing games like this with Maggie 充当；And who are you? Do I know you? I don't remember you being like this. 是三句连续的疑问／否定短句，I don't remember you being like this 用 remember sb doing sth 结构；Once Maggie hit a certain age, though … she stopped finding it funny 与 A few years later … the game stopped being fun or funny to Ellie, too 都是以时间状语开头的主句，后一句用 stop doing 结构，两句构成前后对照。
 
 **关键词**：
-- **a sort of impromptu charades**：一种即兴的字谜游戏；这个细节揭示了Ellie对"普通家庭"场景的渴望——这个母亲在玩一个"假装不认识"的游戏，而Ellie曾经也这样玩过
-- **the game stopped being fun or funny to Ellie, too**：这个游戏对Ellie来说也不再有趣或好笑了；当Maggie不再配合"假装"游戏时，Ellie失去了与女儿连接的最后一种方式
+- **a sort of impromptu charades**：一种即兴的哑谜游戏；母亲玩的是"假装不认识对方"的游戏，正是Ellie后来用来想女儿的比喻
+- **Ellie recalls playing games like this with Maggie**：Ellie想起自己也和Maggie玩过这样的游戏；把眼前这对陌生母子与Ellie失去的母女关系并置
+- **And who are you? Do I know you?**：你是谁？我认识你吗？；游戏里的问话，放到回忆里变成母亲对长大的女儿的真问题
+- **stopped finding it funny**：不再觉得好笑；先写Maggie的厌烦，再写Ellie自己的厌烦，说明断裂是双向的
 
-**为什么这样写**：这个"游戏"的意象贯穿全章。"Do I know you?"从一个字面游戏变成了一个真实问题：Maggie变成了Ellie不认识的人，而Ellie也变成了Maggie不认识的人。两个"陌生人"在一个即将崩溃的家庭里彼此对峙。
+**为什么这样写**：原文的顺序是先写"另一个家庭从旁边走过、母亲在玩假装不认识的游戏"，再让Ellie想起自己和Maggie也玩过同样的游戏。这个顺序本身就是这章的写法：先给你看一个还在玩这个游戏的母亲，再让你意识到Ellie早就玩不下去了。"And who are you? Do I know you?"在游戏里只是玩笑，放进回忆却成了Ellie认不出女儿的真问题。结尾把Maggie的"不再觉得好笑"和Ellie的"也不再觉得有趣、不好笑"并列，说明母亲这一边同样失去了靠游戏留住女儿的方式。
 
 ---
 

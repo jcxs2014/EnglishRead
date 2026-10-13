@@ -22,18 +22,23 @@ status: completed
 
 ### ①
 
-> "Oh, come on!" Ellie exclaims and instantly sinks back into her bed. "Ellie!" Bunny shouts from downstairs, like she did when her daughter was in high school and running late. "Your friend is here!" Ellie grabs the pillow and shoves it over her face in case she needs to scream, but then quickly removes it. "My . . . friend?" Ellie repeats back to herself. The truth is Ellie doesn't have many close friends. Acquaintances, sure. Her fellow book club members. Mothers of Maggie's childhood friends. But the number of people she would actually call a friend? Ellie has two friends from childhood who also settled back in town. They've known each other for years. Middle school sleepovers. Summer vacations. College visits. Wedding RSVPs. But they aren't close, not like this. Not in a way where they'd drop everything to come over on a random Monday morning.
+> "Oh, come on!" Ellie exclaims and instantly sinks back into her bed. "Ellie!" Bunny shouts from downstairs, like she did when her daughter was in high school and running late. "Your friend is here!" Ellie grabs the pillow and shoves it over her face in case she needs to scream, but then quickly removes it. Wait. "My . . . friend?" Ellie repeats back to herself. The truth is Ellie doesn't have many close friends. Acquaintances, sure. Her fellow book club members. Mothers of Maggie's friends whom she still sometimes meets for coffee. Familiar faces from her childhood whom she socializes with from time to time. But real friends? The type who show up unannounced on her doorstep? Ellie was a girl—just a few years shy of Maggie's current age—the last time she shared that sort of intimacy with other women. Ellie has two friends from childhood who also settled back in town. They've known each other for years. Middle school slumber parties. Friday-night football games under the lights. As adults, they live a few miles from each other, though to Ellie it sometimes feels like they live a universe apart.
 
-**中文理解**："哦，得了！"Ellie喊道，然后立刻又缩回床上。"Ellie！"Bunny在楼下喊道，就像她女儿上高中、快迟到时那样。"你的朋友来了！"Ellie抓起枕头，把它捂在脸上，以防她需要尖叫，但很快又把它拿开。"我的……朋友？"Ellie自己重复道。实际上Ellie没有很多亲密的朋友。当然，有熟人。她书友会的成员们。Maggie童年朋友的妈妈们。但她会真正称为朋友的人数？Ellie有两个从小就认识的朋友，也回到了镇上。他们认识对方很多年了。中学的通宵派对。暑假旅行。大学参观。婚礼回复。但他们并不亲密，不像这样。不像那种在随机的周一早晨会放下一切赶过来的程度。
+**中文理解**："哦，得了吧！"Ellie喊道，随即又缩回床上。"Ellie！"Bunny在楼下喊，就像女儿上高中、快迟到时那样。"你的朋友来了！"Ellie抓起枕头捂在脸上，以防自己需要尖叫，但很快又把它拿开。等等。"我的……朋友？"Ellie自己重复道。事实是Ellie没有多少亲密的朋友。当然，有熟人。她书友会的成员们。Maggie的朋友们的妈妈，她偶尔还会和她们喝咖啡。童年时就认识的面孔，她有时会和她们社交往来。但真正的朋友呢？那种不打招呼就出现在她家门口的人？Ellie上一次和其他女性分享那种亲密，还是在她比现在的Maggie小几岁的少女时代。Ellie有两个从小认识、也定居回镇上的朋友。她们认识彼此很多年了。中学的睡衣派对。灯光下的周五夜橄榄球赛。成年后她们住得只隔几英里，尽管在Ellie看来，有时像是隔了一个宇宙。
 
-**句子结构**：Oh, come on 是直接引语；Ellie exclaims 是主句；The truth is Ellie doesn't have many close friends 是主语从句。
+**句子结构**：前半段由短促的动作句与直接引语交替构成。"Oh, come on!" Ellie exclaims and instantly sinks back into her bed 是引语加主句，exclaims 与 sinks 并列；"Ellie!" Bunny shouts from downstairs, like she did when her daughter was in high school and running late. "Your friend is here!" 中 like she did 是方式状语，内含 when 引导的时间状语从句；Ellie grabs the pillow and shoves it over her face in case she needs to scream, but then quickly removes it 中 in case 引导目的状语从句，but 转折；Wait. 是独立成段的单句感叹；"My . . . friend?" Ellie repeats back to herself 是引语加主句。后半段转为一般现在时的一般性陈述：The truth is 后接表语从句；But real friends? The type who show up unannounced on her doorstep? 是两个省略式设问，who 引导定语从句修饰 The type；Ellie was a girl—just a few years shy of Maggie's current age—the last time she shared that sort of intimacy with other women 用一对破折号插入年龄补充；末句 though to Ellie it sometimes feels like they live a universe apart 以 though 引导让步状语从句，内含 feels like 后的表语从句。
 
 **关键词**：
-- **My . . . friend?**：（我的……朋友？）；Ellie的困惑——她不记得她有这样一个朋友
-- **Middle school sleepovers**：中学的通宵派对；这是Ellie的"童年记忆"——她和Gabby的友谊比这更深
-- **drop everything to come over on a random Monday morning**：放下一切在随机的周一早晨赶过来；这是"真正的朋友"的定义——Gabby是Ellie的"真正的朋友"
+- **My . . . friend?**：我的……朋友？；Ellie对"朋友"一词的困惑
+- **close friends**：亲密的朋友；本段的核心概念，与熟人层层对举
+- **Acquaintances**：熟人；清单的第一层
+- **unannounced**：不打招呼地；修饰那种直接出现在她家门口的朋友
+- **intimacy**：亲密；Ellie自少女时代之后就没再与其他女性分享过的东西
+- **Middle school slumber parties**：中学的睡衣派对；童年友谊的具体记忆
+- **Friday-night football games under the lights**：灯光下的周五夜橄榄球赛；另一处童年记忆
+- **a universe apart**：隔了一个宇宙；写成年后住得近、心却远的反差
 
-**为什么这样写**：开篇的"朋友"困惑是全章最有揭示性的段落。Ellie不记得Gabby——这与她在ch13-14的"身份困惑"形成了呼应。她不记得她的人生：她的ex是潜水员、她拥有一家书店、她有一个会周一早晨赶过来的朋友。这些细节都是"另一个Ellie"的人生——不是现在的这个。
+**为什么这样写**：这一段的力度来自落差：门外那个人被父母称为"你的朋友"，而Ellie在心里清点的却是一份几乎空白的朋友清单。作者先铺开熟人、书友会成员、女儿朋友的妈妈、童年面孔，层层退到"但真正的朋友呢？"，再用两个反问把标准抬到"不打招呼就上门"的高度，最后以"隔了一个宇宙"点出她与那两个老友之间近在咫尺却远在天边的距离。正因如此，门外那个"声音有点耳熟"的来访者才显得突兀——她属于一个Ellie此刻还辨认不出的人生版本。
 
 ---
 
@@ -73,18 +78,23 @@ status: completed
 
 ### ④
 
-> "So, are you going to tell me what happened?" Gabby asks. Her vintage T-shirt rides up a touch as she speaks, revealing a slice of toned stomach. Nearby, the store's glass door opens. The bundle of bells gently rings, the sound as delicate as angels' wings. A middle-aged man steps inside, his expression expectant. "Oh—oh, I'm sorry." He quickly looks from left to right, then glances at his wristwatch. "Are you—are you too early? Are you—" Gabby smiles, and when she does, a shallow dimple (Ellie had forgotten this small detail about her) forms in one of her cheeks. "You're early," she says. Ellie takes another quick look around her current setting. Through the window, she sees the shop's hand-painted sign—Magnolia—and the white-painted brick, and she knows. Somehow, in this version of her life, everything is almost perfect.
+> "So, are you going to tell me what happened?" Gabby asks. Her vintage T-shirt rides up a touch as she speaks, revealing an inch-wide sliver of her flat stomach. … Nearby, the store's glass door opens. The bundle of bells gently rings, the sound as delicate as angels' wings. A middle-aged woman with a canvas tote bag thrown over her shoulder takes one step inside and then stops. "Oh—oh, I'm sorry." She quickly looks from left to right, then glances at her wristwatch. "Are you—am I too early? Are you open yet?" Gabby smiles, and when she does, a shallow dimple (Ellie had forgotten this small detail about her) forms in one of her cheeks. "What do you say, boss lady?" she asks, and she glances at a simple black clock that hangs on the wall. "It's ten minutes before ten." She playfully tilts her head, her cascade of hair swaying from one side to the other. "Are we open yet?" Ellie takes another quick look around her current setting. Through the window, she sees the shop's hand-painted sign—Magnolia Books—staring back at her in reverse.
 
-**中文理解**："所以，你要告诉我发生了什么吗？"Gabby问道。她的复古T恤在她说话时微微上卷，露出了一小截健美的腹部。附近，书店的玻璃门打开了。一串铃铛轻轻响起，声音像天使的翅膀一样精致。一个中年男人走了进来，他的表情充满期待。"哦——哦，对不起。"他迅速从左向右看了看，然后瞥了一眼他的手表。"你——你们太早了吗？你们是——"Gabby微笑了，当她微笑时，一个浅浅的酒窝（Ellie已经忘记了这个关于她的细节）在她的一侧脸颊上形成。"你来得早了，"她说。Ellie再次快速地看了看她现在的环境。透过窗户，她看到了书店的手绘招牌——Magnolia——和白色粉刷的砖墙，她明白了。不知怎么地，在这个版本的人生里，一切几乎都是完美的。
+**中文理解**："所以，你要告诉我发生了什么吗？"Gabby问道。她说话时那件复古T恤微微上卷，露出一英寸宽的一线平坦小腹。……附近，书店的玻璃门开了。那串铃铛轻轻响起，声音像天使的翅膀一样轻柔。一个肩上挎着帆布托特包的中年女人迈进来一步，然后停住。"哦——哦，对不起。"她迅速左右看了看，又瞥了一眼手表。"你们是——我来得太早了吗？你们开门了吗？"Gabby笑了，她一笑，一侧脸颊上就现出一个浅浅的酒窝（Ellie已经忘了她这个小细节）。"你说呢，老板娘？"她问道，瞥了一眼墙上那口简单的黑色挂钟。"现在差十分钟十点。"她俏皮地歪了歪头，瀑布般的长发从一侧甩到另一侧。"我们开门了吗？"Ellie又迅速环顾了一圈她此刻身处的环境。透过窗户，她看到书店的手绘招牌——Magnolia Books——正反着映回来。
 
-**句子结构**："So, are you going to tell me what happened?" 是直接引语；The bundle of bells gently rings 是主句；She says 是并列句。
+**句子结构**：全段以"引语—叙述"交替推进。"So, are you going to tell me what happened?" Gabby asks 是引语加主句；Her vintage T-shirt rides up a touch as she speaks, revealing an inch-wide sliver of her flat stomach 中 as she speaks 是时间状语从句，revealing... 是现在分词短语作结果状语。省略号之后转入场景白描：Nearby, the store's glass door opens. The bundle of bells gently rings, the sound as delicate as angels' wings（the sound... 是补充说明主语的独立成分）；A middle-aged woman with a canvas tote bag thrown over her shoulder takes one step inside and then stops 中 with... 是 with 复合结构作后置定语。女客人的三句话由 She quickly looks from left to right, then glances at her wristwatch 串联。Gabby smiles, and when she does, a shallow dimple (Ellie had forgotten this small detail about her) forms in one of her cheeks 中 when she does 是时间状语从句，括号内是插入语。末尾Gabby的引语之间以后置的 she asks / she glances at... / She playfully tilts her head 分隔，her cascade of hair swaying from one side to the other 是独立主格。最后两句回到Ellie视角的叙述：she sees the shop's hand-painted sign—Magnolia Books—staring back at her in reverse，staring... 是现在分词作宾语补足语。
 
 **关键词**：
-- **a shallow dimple**：一个浅浅的酒窝；这是Gabby的"细节"——Ellie忘记了它，这意味着这个记忆是"旧的"，不是"新的"
-- **Magnolia**：木兰；这是Ellie最爱的花——她把她的书店命名为她最爱的花
-- **everything is almost perfect**：一切几乎都是完美的；这是Ellie的"发现"——在这个版本的人生里，她的人生几乎完美
+- **revealing an inch-wide sliver of her flat stomach**：露出一英寸宽的一线平坦小腹；Gabby的随意与松弛
+- **The bundle of bells gently rings**：那串铃铛轻轻响起；书店门铃，把镜头从对话推向新客人
+- **a canvas tote bag**：帆布托特包；对女客人的一处白描细节
+- **a shallow dimple**：一个浅浅的酒窝；Ellie"已经忘了"的旧细节
+- **boss lady**：老板娘；Gabby对Ellie的称呼，点明她是这家店的老板
+- **It's ten minutes before ten**：现在差十分钟十点；用具体时间把场景钉在开业前
+- **hand-painted sign—Magnolia Books**：手绘招牌——Magnolia Books；书店的名字
+- **staring back at her in reverse**：正反着映回来；她从窗外看自己的招牌
 
-**为什么这样写**：这是全章最有"希望感"的结尾。"Magnolia"是Ellie的身份符号——她最爱的花。书店的"白色粉刷"与之前看到的"白色"细节形成了呼应（ch09的灯光/ch11的医院）。"almost perfect"是全章最重要的词——Ellie知道她的人生"几乎完美"，但她仍然不记得它。
+**为什么这样写**：这一段的关键在最后一句。Ellie隔着玻璃看到自己的店名反着映回来——"in reverse"既是物理上的镜像，也呼应了她整个人生被翻了个面的处境。作者把Gabby的"你说呢，老板娘"和女客人的"你们开门了吗"叠在一起，让Ellie在别人的提问里一点点确认自己的新身份；而那个"她本已忘记的浅浅酒窝"则悄悄提示：这段人生并非全然陌生，只是被她遗忘了。省略号跳过的是Gabby关于潜水员前男友的一长串调侃，剪掉之后，本段的落点从八卦收回到Ellie对自己处境的凝视。
 
 ---
 
@@ -111,8 +121,8 @@ Ellie醒来后发现她的朋友Gabby来接她去她拥有的书店Magnolia，�
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | stint | n. | 短期工作 | ...after her short **stint** working at the art book publisher... |
-| sublet | n./v. | 转租 | ...when Gabby came to view the apartment as a potential **sublet**. |
-| crave | v. | 渴望 | ...she **crave**s a different life... |
+| sublet | n./v. | 转租 | Jack had been the one to suggest that Ellie put an ad for a **sublet** on Craigslist, which came as a disappointment. |
+| instigate | v. | 引发；激起 | She’d read in several books that the trauma from divorce can **instigate** all kinds of unpleasant things in one’s body. |
 | thrift | n. | 旧货店 | ...a **thrift**-store T-shirt... |
 | vintage | adj. | 复古的 | Her **vintage** T-shirt rides up a touch as she speaks... |
 
@@ -121,15 +131,15 @@ Ellie醒来后发现她的朋友Gabby来接她去她拥有的书店Magnolia，�
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | acquaintance | n. | 熟人 | The truth is Ellie doesn't have many close friends. **Acquaintances**, sure. |
-| chunky | adj. | 粗大的，厚实的 | ...along with a denim skirt and **chunky**, mismatched earrings. |
-| dimple | n. | 酒窝 | ...a shallow **dimple** forms in one of her cheeks. |
-| overlap | v. | 重叠 | ...his words **overlapping** with hers. |
+| intimacy | n. | 亲密；亲密关系 | Ellie was a girl—just a few years shy of Maggie’s current age—the last time she shared that sort of **intimacy** with other women. |
+| dimple | n. | 酒窝 | Gabby smiles, and when she does, a shallow **dimple** (Ellie had forgotten this small detail about her) forms in one of her cheeks. “What do you say, boss lady? |
+| shuffling | v. | 拖着脚走 | No noise from Frank **shuffling** around in the downstairs hallway. |
 
 ### ⭐ 基础
 
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
-| roommate | n. | 室友 | ...she moved into her own apartment. She and Gabby met when Gabby came to view... |
-| lease | n. | 租约 | ...as they nibbled store-bought cookies and discussed the details of the **lease**. |
-| earrings | n. | 耳环 | ...her chunky, mismatched **earrings**. |
-| register | n. | 收银台 | ...Gabby grabs a stack of books from near the **register** and carries them to a shelf. |
+| roommate | n. | 室友 | She’d hated having **roommates** in college and did not look forward to living with a stranger again. |
+| child | n. | 孩子 | Those giant blue eyes, the ones that look like a **child**’s drawing brought to life. |
+| ceiling | n. | 天花板 | “You think I’m kidding, Frank,” Bunny states, a straightened finger pointed toward the **ceiling**. |
+| register | n. | 收银台 | How, she privately wonders, did she not **register** these changes when she drove down this block yesterday? |

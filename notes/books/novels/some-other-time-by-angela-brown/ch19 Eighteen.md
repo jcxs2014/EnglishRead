@@ -142,14 +142,14 @@ status: completed
 | amplified | adj. | 放大的 | The church is so empty that every sound is **amplified**. |
 | pew | n. | 长椅 | ...before she settles on one closer to the **altar** and slides in. |
 | nave | n. | 中殿 | ...the darkened church **nave**. |
-| faith | n. | 信仰 | ..."What?" Ellie knows her mother, and what her **faith** means to her. |
+| faith | n. | 信仰 | She knows her mother, and what her **faith** means to her. |
 
 ### ⭐ 基础
 
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | priest | n. | 神父 | ..."I told Father Donovan the news," Bunny admits... |
-| church | n. | 教堂 | Ellie walks up the marble steps of Saint Mary's **Church**. |
+| church | n. | 教堂 | Up high, the stained glass windows are illuminated by the late-spring sun, though not enough to actually provide light to the darkened **church** nave. |
 | ring finger | n. | 戒指手指 | ...both she and her mother are rubbing their **ring fingers**... |
-| exit | v. | 离开 | ..."And then he **exits** out." |
+| universe | n. | 宇宙；世界 | For her whole life, her family has been the epicenter of her **universe**. |
 | door | n. | 门 | He pivots toward the **door**, his brows tightly knit. |

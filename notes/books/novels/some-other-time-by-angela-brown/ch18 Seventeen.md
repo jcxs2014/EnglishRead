@@ -95,7 +95,7 @@ status: completed
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | déjà vu | n. | 似曾相识 | She wants to ask him if he feels it. This sense of **déjà vu**. |
-| facade | n. | 外墙，表面 | ...the pretty, white-painted brick **facade**. |
+| facade | n. | 外墙，表面 | Ellie joins his gaze and stares through the glass at that pretty, white-painted brick **facade**. |
 | caged | adj. | 被囚禁的 | Her heart beats in her chest like a **caged** bird... |
 | sketch | v. | 画（素描） | She feels her fingers **sketch**ing out the circle of the sun... |
 
@@ -107,15 +107,15 @@ status: completed
 | doodle | v. | 乱涂 | ...picks up a sheet of paper, and begins to **doodle** on it... |
 | stubble | n. | 短须 | ...the uncharacteristic rash of brown **stubble** across his typically smooth chin... |
 | flirtation | n. | 调情 | Her tone is brushed by **flirtation**. "I won't be far." |
-| vibrates | v. | 振动 | ...his phone **vibrates** in his palm. |
+| vibrates | v. | 振动 | Jonah’s phone **vibrates** in his palm. He presses a button on the side of it and slides the device away, deciding that whoever is on the other end of the call can wait one more minute. |
 
 ### ⭐ 基础
 
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
-| handshake | n. | 握手 | ...the two of them briefly joined, if only for this quick second. |
+| normalcy | n. | 常态；正常 | Ellie lifts her cup to her mouth, enjoys another small sip of what tastes just a teensy bit like **normalcy**. |
 | introduction | n. | 介绍 | ..."Jonah," he says, by way of an **introduction**. "Jonah Baker." |
 | pencil | n. | 铅笔 | Ellie sets down her **pencil** on top of her unfinished drawing. |
 | cup | n. | 杯子 | ..."I got you a fresh **coffee**." ...she accepts the **cup**. |
-| napkin | n. | 餐巾纸 | ...reaching for a stack of paper **napkins**. |
+| chance | n. | 机会 | She recalls their conversation from the other night in her parents’ spare Floridian bedroom when she asked him what he thought it might be like if they had the **chance** to meet again for the first time. |
 | customer | n. | 顾客 | ...she sees another pair of **customer**s walk into the shop... |

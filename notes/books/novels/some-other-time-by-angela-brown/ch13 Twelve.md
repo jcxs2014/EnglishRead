@@ -131,9 +131,9 @@ Ellie在风暴后的街道上飞驰时，被追尾了——撞她的人竟然是
 |------|------|------|------|
 | careen | v. | 疾驰，飞奔 | Ellie continues to **careen** the car along her town's otherwise peaceful streets. |
 | detour | n./v. | 绕道，耽搁 | ...he vaguely said he'd been on his way to meet a friend, but there'd been a **detour**. |
-| hum | v. | 哼（曲子） | ...a melodic sort of white noise **hum**s through the vehicle... |
-| flabbergasted | adj. | 大吃一惊的 | ...she couldn't help but laugh, **flabbergasted** by her own breakup. |
-| wistful | adj. | 惆怅的，怀念的 | Her brief **wistful**ness instantly gone, Ellie feels her eyes tighten. |
+| hum | v. | 哼（曲子） | In its place, the soft, soothing (and maybe a little bit sad) sounds of an alternative rock station **hum** through the vehicle, a melodic sort of white noise. |
+| flabbergasted | adj. | 大吃一惊的 | Ellie had been so **flabbergasted** by her breakup that she couldn’t help but laugh. |
+| harangue | n. | 长篇训话；高谈阔论 | She has no mental space available for the host’s **harangue** of bad news. |
 
 ### ⭐⭐ 进阶
 
@@ -153,6 +153,6 @@ Ellie在风暴后的街道上飞驰时，被追尾了——撞她的人竟然是
 | rearview (mirror) | n. | 后视镜 | In the **rearview** mirror, she sees flashing red lights... |
 | horn | n. | 喇叭 | Another driver pounds his car **horn** like a punching bag as Ellie passes. |
 | onlooker | n. | 旁观者 | On the sidewalk, **onlookers** have gathered... |
-| witness | n./v. | 见证者 | ..."I’m glad you found me." ...in the **witness**es' eyes... |
+| witness | n./v. | 见证者 | On the sidewalk, onlookers have gathered, perhaps to serve as **witnesses** to this completely unnecessary event. |
 | glance | n./v. | 一瞥 | ..."I took a quick **glance** on my walk over..." |
 | glove compartment | n. | 手套箱 | Ellie opens her **glove compartment** and digs out her insurance booklet... |

@@ -72,17 +72,18 @@ status: completed
 
 ### ④
 
-> "Isn't it obvious?" Bunny slips off her dark, quilted spring jacket and tosses it over the wooden banister. "I'm moving back in."
+> Bunny slips off her dark, quilted spring jacket and tosses it over the wooden banister. "Isn't it obvious?" … "I'm moving back in."
 
-**中文理解**："这不是明摆着的吗？"Bunny脱下她那件深色绗缝春季外套，把它甩在木质楼梯扶手上。"我要搬回来住。"
+**中文理解**：Bunny脱下她那件深色绗缝的春季外套，把它甩到木制楼梯扶手上。"这还不明显吗？"……"我要搬回来住。"
 
-**句子结构**：Isn't it obvious 是直接引语；Bunny slips off her... 是主句；I'm moving back in 是直接引语。
+**句子结构**：第一句是叙述句，主语 Bunny 带两个并列谓语 slips off 与 tosses，tosses 的宾语 it 回指外套，over the wooden banister 是地点状语。接着 "Isn't it obvious?" 是反问式的直接引语，独立成句。省略号之后 "I'm moving back in." 是第二段直接引语，用现在进行时表示已经定下、马上要做的事。全段呈"叙述—对白—（省略）—对白"的交替。
 
 **关键词**：
-- **I'm moving back in**：我要搬回来住；这句话在全章中是核心——Bunny要从Ellie的婚姻危机中"搬进来"，把Ellie的离婚变成"三角关系"
-- **tosses it over the wooden banister**：把它甩在楼梯扶手上；这个动作暗示了Bunny的"理所当然"——她不需要问，她直接"做"
+- **slips off her dark, quilted spring jacket**：脱下她那件深色绗缝的春季外套；脱外套的动作说明她不是来坐一会儿，而是打算住下
+- **tosses it over the wooden banister**：把它甩到木制楼梯扶手上；随手一甩的随意感，正是Bunny"理所当然"的姿态
+- **I'm moving back in**：我要搬回来住；现在进行时表示已定的事，语气是宣布而不是商量
 
-**为什么这样写**：Bunny搬回来住是一个"雪上加霜"的时刻。Ellie刚刚开始处理自己的离婚，现在她还要处理她母亲的"婚姻危机"。但这个"危机"不是真的——Bunny会在几天后回心转意（就像她每次一样）。而Ellie的离婚是"真的"。
+**为什么这样写**：原文先写Bunny脱下外套、把外套甩在楼梯扶手上，再让她开口——动作在前，台词在后。这个顺序让读者先看见"她已经在安置自己了"，然后才听到"我要搬回来住"：她的回答不是商量，而是宣布。前面Ellie还在追问"到底发生了什么"，Bunny却反问"Isn't it obvious?"，两句话就把母女之间的主动权交代清楚了。
 
 ---
 
@@ -104,17 +105,19 @@ status: completed
 
 ### ⑥
 
-> "The same way I get here every day," Bunny explains. She looks down to adjust her pin. The multicolored jewels on the palm tree catch the bright May light that leaks in from the kitchen window. "I walked."
+> "The same way I get here every day." She looks down to adjust her pin. The multicolored jewels on the palm tree catch the bright May light that leaks in from the kitchen window. "I walked."
 
-**中文理解**："跟我每天来这里的方式一样，"Bunny解释道。她低头去调整她的胸针。五彩缤纷的宝石在棕榈树上闪闪发光，捕捉着从厨房窗户渗进来的明亮五月阳光。"我走路来的。"
+**中文理解**："跟我每天来这里的方式一样。"她低下头去调整她的胸针。棕榈树胸针上五颜六色的宝石，接住了从厨房窗户漏进来的明亮五月阳光。"我走来的。"
 
-**句子结构**：The same way I get here every day 是直接引语；Bunny explains 是主句；She looks down... 是并列句；I walked 是直接引语。
+**句子结构**：第一句 "The same way I get here every day." 是直接引语，省去了主句，只留方式状语，方式状语里套一个省略了关系词的定语从句 I get here every day。中间两句是叙述：She looks down to adjust her pin 是主谓加目的不定式；The multicolored jewels on the palm tree catch the bright May light that leaks in from the kitchen window 是主句，主语带 on the palm tree 后置定语，宾语带 that 引导的定语从句。最后 "I walked." 是独立成句的直接引语，只用一般过去时两个字作答。
 
 **关键词**：
-- **I walked**：我走路来的；这是全章最荒诞的台词——Bunny从佛罗里达"走路"到新泽西；这既是字面意思的荒谬（"怎么可能？"），也是隐喻意思的合理（"Bunny就是这种人"）
-- **The multicolored jewels on the palm tree**：棕榈树形状胸针上的彩色宝石；这个细节呼应了佛罗里达（棕榈树=佛罗里达），以及Bunny一贯的"过度装饰"
+- **The same way I get here every day**：跟我每天来这里的方式一样；把"怎么来的"当成不需要解释的常识
+- **adjust her pin**：调整她的胸针；低头整理饰物的从容动作，与答案的荒诞形成反差
+- **the bright May light that leaks in from the kitchen window**：从厨房窗户漏进来的明亮五月阳光；用光线细节把这场荒诞的对话钉在一个具体的日常场景里
+- **I walked**：我走来的；全段最短的一句，也是全章最荒诞的一句
 
-**为什么这样写**：这段是全章最幽默的时刻。"I walked"是Bunny一贯风格的终极表现：她不考虑逻辑，她不考虑距离，她只是"做"。而Ellie的反应——"她从佛罗里达走来？"——是读者的反应。这种"不可信的叙述"是Angela Brown的写作风格：它让你质疑"什么是真实的？"
+**为什么这样写**：Bunny的答案被拆成两半，中间插进她低头整理胸针、阳光落在宝石上的描写。这个停顿把最荒唐的"I walked."单独隔出来——前面越是从容、越是日常，最后两个字就越突兀。原文这里也没有写"她解释道"这类提示，她只是陈述，仿佛这根本不需要解释；荒诞感因此来自她自己毫无察觉的语气，而不是叙述者的评论。
 
 ---
 
@@ -142,9 +145,9 @@ status: completed
 |------|------|------|------|
 | repose | n. | 休息，宁静 | ...after a night of **repose** and one of those magical little pills... |
 | regenerative | adj. | 再生的，有恢复力的 | ...her muscles and her cells...slip into a **regenerative** dream state. |
-| haphazardly | adv. | 随意地，杂乱地 | ...a mess of suitcases and overnight bags left **haphazardly** across... |
+| haphazardly | adv. | 随意地，杂乱地 | Jonah’s clothes are not **haphazardly** tossed across the bench at the foot of their bed. |
 | calamity | n. | 灾难，祸患 | ...is certainly some sort of **calamity**. |
-| caprice | n. | 任性，反复无常 | ..."Of course he knows!" She purses her lips into a **capricious** beak. |
+| mishmash | n. | 大杂烩；混杂物 | His small possessions, a **mishmash** of assorted knickknacks, are gone from the top of the dresser. |
 | agape | adj. | （嘴巴）大张的 | ...her mouth as **agape** as a dying fish. |
 
 ### ⭐⭐ 进阶
@@ -152,8 +155,8 @@ status: completed
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | duffel | n. | 圆筒形旅行包 | ...packed up in the **duffel** bags he brought to his hotel. |
-| artisan | adj. | 手工的，匠人的 | ..."How many scoops do you use?" ...a metal container of **artisan**al beans... |
-| scald | v. | 烫伤 | ..."Actually, never mind." ...a long, **scalding** sip of coffee... |
+| artisan | adj. | 手工的，匠人的 | She dips it into the bag of **artisanal** beans she’s pulled out from the fridge. |
+| scald | v. | 烫伤 | Ellie, in dire need of caffeine, pours herself a steaming mug and takes a long, **scalding** sip, not even pausing long enough to add her creamer. “Where is Dad, by the way?” |
 | swing | n. | 秋千；摆动 | ...the charming bench **swing**, the blooming spring flower planters... |
 
 ### ⭐ 基础
@@ -162,10 +165,10 @@ status: completed
 |------|------|------|------|
 | pajamas | n. | 睡衣 | ..."What a completely ridiculous question." ...**pajamas**. |
 | gasp | v. | 喘气，倒吸一口气 | ...Ellie's throat has gone dry, as if someone has stuffed her full of cotton... |
-| smirk | v. | 得意地笑，傻笑 | ..."Jo?" A sly expression crosses Bunny's face. She **smirks**... |
+| smirk | v. | 得意地笑，傻笑 | She **smirks**, reaches into her trouser pocket, produces her own device. |
 | sweatshirt | n. | 运动衫，卫衣 | ...slides on her slippers and a **sweatshirt**. |
-| tug | v. | 用力拉，拽 | ...still foolishly wearing her leather sandals, **tug**ging at the wet denim... |
+| home | n. | 家；住所 | Ellie kept her torso pressed against the steering wheel the whole ride **home**, her eyes strained in a tight squint so she could make out the lines in the roadway, wishing they hadn’t taken separate cars to the airport and that he’d driven her |
 | fling | v. | 猛扔，猛推 | Once downstairs, Ellie **fling**s open the door... |
 | wince | v. | 皱眉；感到痛苦 | "What nonsense are you talking about?" Bunny **wince**s at the terrible coffee. |
 | smack | v. | 啪地放下；拍打 | ..."What a completely ridiculous question." She pauses, **smack**s her tongue. |
-| visor | n. | 遮阳帽 | ..."I have my sun **visor**, right?" |
+| visor | n. | 遮阳帽 | The whole time, Ellie wonders if her mother’s **visor** and punchy tops are packed in her weekender bag. “Also, what—what are you wearing?” |

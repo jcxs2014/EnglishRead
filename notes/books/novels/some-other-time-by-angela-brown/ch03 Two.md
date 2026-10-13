@@ -114,17 +114,20 @@ status: completed
 
 ### ⑦
 
-> "But not for long," Ellie said, and something about the way she said it—like a promise, or a threat—made Jonah look up from his paper.
+> "No, Jo," Ellie insists and finishes off her drink. "We can't stall any longer." She sighs, her breath a cloud of humidity. She is every emotion. Mad. Sad. Angry. Nostalgic. Furious. "We're telling them." She pulls her feet from the water. "Right after dinner." Ellie stands. It takes only seconds for her skin to dry. "I—no, we—can't put this off another night."
 
-**中文理解**："但不会太久了，"Ellie 说——她说话的方式像是一种承诺，又像是一种威胁——让 Jonah 从报纸上抬起头来。
+**中文理解**："不，Jo，"Ellie 坚持道，喝完了她的饮料。"我们不能再拖了。"她叹了口气，呼出的气息像一团湿气。她百感交集。生气。难过。恼怒。怀旧。狂怒。"我们要告诉他们。"她把脚从水里收回来。"晚饭后就说。"Ellie 站起身。她的皮肤几秒钟就干了。"我——不，我们——不能再把这件事往后推一个晚上了。"
 
-**句子结构**：主句 Ellie said；something about the way she said it 是主语从句（something 作主语，about... 是修饰）；like a promise, or a threat 是方式状语；made Jonah look up 是宾语+宾补结构。
+**句子结构**：整段由"引语 + 叙述动作"反复交替构成：insists and finishes off her drink → She sighs → She pulls her feet from the water → Ellie stands → It takes only seconds...，把 Ellie 的话切成四段；"She is every emotion." 是短促的独立句，后面 Mad. Sad. Angry. Nostalgic. Furious. 五个词/短语并列作补充，全用句号断开，形成顿挫的节奏；最后一句用破折号插入自我更正 I—no, we—，主语从 I 改成 we，谓语是 can't put this off another night。
 
 **关键词**：
-- **like a promise, or a threat**：这句话有双重含义：①Ellie's bag 被送到了（baggage claim）②Ellie 正在计划某种改变；"or a threat"是这句话的关键——暗示 Ellie 已经在心里做出了某种决定
-- **made Jonah look up**：Jonah 平时对 Ellie 漠不关心（读报纸）；但这句话让他"抬起头"——说明这句话有分量
+- **stall**：拖延、磨蹭；Ellie 用这个词直接否掉 Jonah"不急着说"的提议
+- **put this off**：推迟；与 stall 呼应，段末再一次把"不能再往后拖"说死
+- **every emotion**：百感交集；紧接着五个短词并列，把这种"说不出是哪种情绪"具体铺开
+- **insists**：坚持；这个词定下她这一段的姿态——不是商量，是宣布
+- **Right after dinner**：晚饭后就说；给出具体时限，把决定落成日程
 
-**为什么这样写**：这个结尾是 ch03 最有力的瞬间。"But not for long"是 Ellie 在车里对 Maggie 说的话——表面是说"行李不会丢太久"，深层是说"这种婚姻状态不会持续太久"。Jonah 的"look up"是一个信号：他听懂了，或者他开始意识到 Ellie 已经有了离开的意图。这是为 ch04 "We're getting divorced"埋下的伏笔。
+**为什么这样写**：这是 ch03 的收束。Jonah 在泳池边说过"We don't have to tell them, Ellie."，想让事情缓一缓；Ellie 的回答是一连串短句——"We can't stall any longer." / "We're telling them." / "Right after dinner." / "can't put this off another night."——用节奏本身表达不容再议。"I—no, we—"这处自我更正尤其关键：她原本要一个人把话揽下来，又立刻改口把 Jonah 拉回来，她要坚持的是"我们"。最后落在"It takes only seconds for her skin to dry."这样一个安静的物理细节上，情绪爆发之后忽然收静，比继续抒情更有余味。
 
 ---
 
@@ -132,7 +135,7 @@ status: completed
 
 ### 一句话概括
 
-从机场到公寓的车程中，Ellie 目睹了家庭的深层裂痕——与女儿的价值观冲突、与丈夫的沟通空洞、以及她自己全职母亲身份带来的身份危机；结尾的那句"不会太久了"像是一种承诺，也像是一种威胁。
+从机场到公寓的车程中，Ellie 目睹了家庭的深层裂痕——与女儿的价值观冲突、与丈夫的沟通空洞、以及她自己全职母亲身份带来的身份危机；结尾她坚持当晚就向父母摊牌，"I—no, we—can't put this off another night."——从"I"改口成"we"，是她对这段婚姻仍不肯松手的最后表态。
 
 ### 一句话总结
 

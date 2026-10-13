@@ -340,4 +340,4 @@ Ellie 的整段回忆都建立在一个谎言上：她把一连串偶然的选�
 | fumes | n. | 废气，油烟 | ...driving around on **fumes**... |
 | sulk | v. | 生闷气，怏怏不乐 | ...and just **sulked**, the way all twentysomethings do the day they learn... |
 | shift | n. | 班次，工作时段 | ...during an exceptionally quiet **shift**... |
-| suburb | n. | 郊区 | （本章未出现，但在 Florida 场景中可作背景词汇） |
+| faith | n. | 信念；信仰 | Ellie, like so many young and wanting-to-be-in-love women, believed in the latter as devoutly as if it were her **faith**. |

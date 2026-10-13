@@ -161,8 +161,8 @@ Ellie和Jonah在散步中坦白：Jonah从周一就认出了Ellie，他在两个
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | uncanny | adj. | 离奇的，诡异的 | ...in this **uncanny** life with his fiancée. |
-| contemplative | adj. | 沉思的 | ...as she **contemplated** walking back to the car... |
-| scrutinize | v. | 仔细检查 | ...she **scrutinize**s every detail. |
+| alabaster | adj. | 雪白的；雪花石膏般的 | All through their neighborhood, along the ribbons of **alabaster** sidewalks. |
+| cornflower | n. | 矢车菊蓝 | **Cornflower**, Ellie thinks, the name of Maggie’s favorite crayon color. |
 | simultaneously | adv. | 同时地 | ...**simultaneously** feels like love and like pain. |
 | stern | adj. | 严厉的 | His voice is both **stern** and tender. |
 
@@ -171,7 +171,7 @@ Ellie和Jonah在散步中坦白：Jonah从周一就认出了Ellie，他在两个
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | duplex | n. | 双拼公寓 | ...past their first apartment—that sweet little **duplex**... |
-| hospice | n. | 临终关怀 | ...she worries the **hospice** nurse... |
-| commute | n./v. | 通勤 | ...**commuting** back and forth like a pinball into and out of the city. |
+| forehead | n. | 额头 | The breeze blows and sends a thick strand of his dark, silver-accented hair waving across his **forehead**. |
+| driveway | n. | 私人车道 | Ellie pulls into the **driveway** and finds Jonah waiting for her on the porch. |
 | porch | n. | 门廊 | ...finds Jonah waiting for her on the **porch**. |
 | carriage | n. | 婴儿车 | ...pushing a baby **carriage**. |

@@ -207,7 +207,7 @@ Ellie独自在床上，思考她是如何打破她的人生的——"I want a di
 | crinkle | v. | 皱起，弄皱 | ...nervously **crinkle**s the paper in her hand. |
 | turf | n. | 草坪 | ...sprinting across the **turf** on those two long, gorgeous, healthy legs... |
 | generator | n. | 发电机 | ...that temporary source that still powers this house, **hum**s. |
-| hum | v. | 嗡嗡作响 | The generator **hum**s. |
+| hum | v. | 嗡嗡作响 | The generator, that temporary source that still powers this house, **hums**. |
 
 ### ⭐ 基础
 
@@ -216,8 +216,8 @@ Ellie独自在床上，思考她是如何打破她的人生的——"I want a di
 | mattress | n. | 床垫 | She swings her feet off the **mattress**, slides on her slippers... |
 | slippers | n. | 拖鞋 | ...slides on her **slippers**... |
 | sweatshirt | n. | 运动衫 | ...and pulls a **sweatshirt** over her head. |
-| porch | n. | 门廊 | ...already turning to walk away from the **porch**. |
-| porch steps | n. | 门廊台阶 | ...already turning to walk away from the **porch steps**. |
+| porch | n. | 门廊 | Someone is here, on her **porch**, yet again. She’s not sure she has the mental capacity after these last two days to discover who it is that waits. |
+| hand | n. | 手 | The moment she released Ellie’s **hand**, desperate to walk ahead of her. |
 | creases | n. | 折痕 | ...she unfolds the paper, one **crease** at a time. |
 | wrinkles | n. | 皱纹 | ...smoothing out the **wrinkles**... |
 | moonlight | n. | 月光 | The room is illuminated by silver **moonlight**... |

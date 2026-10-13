@@ -41,35 +41,35 @@ status: completed
 
 ### ②
 
-> "I was thinking I'd apply to some schools a bit closer to home for the fall semester," Maggie explains as she nibbles through her last cookie. "And, in the meantime, I thought I'd look for some part-time work in town. Maybe I can pick up a waitressing gig at one of the restaurants. Or get a few shifts at the bookstore or something."
+> "I was thinking I'd apply to some schools a bit closer to home for the fall semester," Maggie explains as she nibbles through her last cookie. … "And, in the meantime, I thought I'd look for some part-time work in town. Maybe I can pick up a waitressing gig at one of the restaurants. Or get a few shifts at the bookstore or something."
 
-**中文理解**："我在想我会申请一些离家近一点的学校，下学期，"Maggie解释道，一边啃着她最后一块饼干。"而且，与此同时，我想在镇上找一些兼职工作。也许我可以在其中一家餐厅找到一份服务员的工作。或者在书店找几个班。"
+**中文理解**："我在想，下学期我可以申请几所离家近一点的学校，"Maggie一边啃着她最后一块饼干一边解释道。……"而在此期间，我想在镇上找点兼职。也许我可以在某家餐厅找份服务员的工作。或者在书店上几个班什么的。"
 
-**句子结构**："I was thinking" 是直接引语；Maggie explains 是主句；And 是并列句。
+**句子结构**：第一段是直接引语加主句——"I was thinking I'd apply to some schools a bit closer to home for the fall semester" 是宾语从句，Maggie explains 是主句，as she nibbles through her last cookie 是时间状语从句；` … ` 省略了中间的一句描写；第二段仍是Maggie连续的话语，"And, in the meantime, I thought I'd look for some part-time work in town." 之后接两个并列的补充句 "Maybe I can pick up a waitressing gig at one of the restaurants." 和 "Or get a few shifts at the bookstore or something."，用口语化的短句把计划一层层摊开。
 
 **关键词**：
-- **apply to some schools a bit closer to home**：申请一些离家近一点的学校；这是全章最重要的话：Maggie要"回家"了
-- **I thought I'd look for some part-time work in town**：我想在镇上找一些兼职工作；这是Maggie的"独立"：她想要自己的工作
-- **Or get a few shifts at the bookstore or something**：或者在书店找几个班；这是Angela Brown的"书店"主题：书店是Ellie和Maggie的"连接点"
+- **a bit closer to home**：离家近一点；这是Maggie整个计划的核心——她要把自己"拉回家"。
+- **in the meantime**：在此期间；把"申请学校"和"先打工"两件事串起来，显出她的安排有先后步骤。
+- **pick up a waitressing gig / get a few shifts at the bookstore**：找份服务员的工作／在书店上几个班；"pick up""get a few shifts"都是随口的说法，符合她向父母交代计划时的口吻。
 
-**为什么这样写**：这是全章最有"希望感"的对话。Maggie说要去申请离家近的学校——她要"回家"了。这是Angela Brown的"家庭"主题：有时候，最好的选择是"回家"。
+**为什么这样写**：这一段让Maggie自己把计划说出来，而不是由叙述者概括。她先说要申请离家近的学校，再补上"先找点兼职"，语气随意，甚至带一点试探。计划最后落在"书店"上，为后面Ellie说自己也想去书店打工埋下引线。
 
 ---
 
 ### ③
 
-> "I was thinking about picking up a few shifts there for myself, too," Ellie explains. "Start getting my feet wet again, you know?" Jonah taps a finger to his screen. "You'd better hurry, then, and get over there before the new owner takes over." "New owner?" "That old couple recently sold it. They've had a sign about it in the window for weeks."
+> "Funny story," Ellie tells her. "But, as it turns out, I was thinking about picking up a few shifts there for myself, too." … "Start getting my feet wet again, you know?" Jonah taps a finger to his screen, slides his phone away. "You'd better hurry, then, and get over there before the new owner takes over." "New owner?" … "That old couple recently sold it. They've had a sign about it in the window for weeks."
 
-**中文理解**："我也在想在那里找几个班，"Ellie解释道。"重新开始让自己适应一下，你懂吗？"Jonah用手指敲了敲屏幕。"那你最好快点，在新老板接手之前过去。""新老板？""那对老夫妇最近把它卖了。他们在窗户上贴了一个告示好几周了。"
+**中文理解**："说来好笑，"Ellie告诉她。"但事实证明，我也正想着自己去那儿上几个班呢。"……"重新下水练练手，你懂吗？"Jonah用手指点了点屏幕，把手机收起来。"那你最好快点，趁新老板接手之前过去。""新老板？"……"那对老夫妇最近把它卖了。他们在橱窗里挂了告示好几个星期了。"
 
-**句子结构**："I was thinking" 是直接引语；Ellie explains 是主句；You'd better hurry 是直接引语；New owner 是直接引语。
+**句子结构**：开头是直接引语 "Funny story" 加主句 Ellie tells her；"But, as it turns out, I was thinking about picking up a few shifts there for myself, too." 是Ellie的完整句子；` … ` 略去中间的追问与回答；接着 "Start getting my feet wet again, you know?" 是省略主语的短句；Jonah taps a finger to his screen, slides his phone away 是两个并列的动作句，后接他的直接引语；"New owner?" 是Ellie的疑问句，` … ` 略去她的追问和Jonah的反问，最后 "That old couple recently sold it." 与 "They've had a sign about it in the window for weeks." 两句构成解释。
 
 **关键词**：
-- **I was thinking about picking up a few shifts there for myself, too**：我也在想在那里找几个班；这是全章最重要的话：Ellie要"回归"——回到书店工作
-- **New owner. That old couple recently sold it**：新老板。那对老夫妇最近把它卖了；这是"书店"的"新开始"：书店要被卖掉了
-- **Start getting my feet wet again**：重新开始让自己适应一下；这是Angela Brown的"重新开始"主题：Ellie想要"重新开始"她的人生
+- **as it turns out**：事实证明；把Ellie的话写成一种"巧合"的揭示——她也正有此意。
+- **getting my feet wet**：下水练练手／重新开始；习语，指重新开始做某事，是Ellie对自己重返职场的定位。
+- **the new owner takes over**：新老板接手；这是"书店"这条线的转折点——老夫妇把店卖了。
 
-**为什么这样写**：这是全章最有"回归感"的对话。Ellie要回书店打工——她想要"重新开始"她的人生。这是Angela Brown的"独立"主题：Ellie不只是一个"母亲"或"妻子"，她也是一个有自己生活的人。
+**为什么这样写**：这段对话把"巧合"写成戏剧性的一刻：Maggie刚说想去书店打工，Ellie就承认自己也有同样的打算。"as it turns out"和"too"把母女俩的想法叠在一起。而"新老板"的消息紧跟着抛出来，让这个温馨的巧合立刻带上了紧迫感——"You'd better hurry"。
 
 ---
 
@@ -92,18 +92,19 @@ status: completed
 
 ### ⑤
 
-> "I just—" He cuts himself off, shakes his head. "It's nothing," he decides. "Really. It's silly." "Tell me," she says. Jonah pulls in a deep breath. "I don't know why, but I haven't been able to shake this memory all weekend." "A memory?" "Of this silly drawing Maggie used to make when she was a kid. It was this little sun wearing sunglasses." His gaze is suddenly far away, as if lost in another time. "Do you know which one I mean?"
+> "I just—" He cuts himself off, shakes his head. "It's nothing," he decides. "Really. It's silly." … "Tell me," she says, already prepared for one last unwanted twist. Jonah pulls in a deep breath. "I don't know why, but I haven't been able to shake this memory all weekend." … "Of this silly drawing Maggie used to make when she was a kid." His gaze is suddenly far away, as if lost in another time. "It was this little sun wearing sunglasses." … "Do you know which one I mean?"
 
-**中文理解**："我只是——"他打断自己，摇摇头。"没什么，"他决定。"真的。很傻。""告诉我，"她说。Jonah深吸一口气。"我不知道为什么，但我整个周末都无法摆脱这个记忆。""一个记忆？""关于Maggie小时候经常画的一幅傻傻的画。是一个戴着太阳镜的小太阳。"他的目光突然飘向远方，仿佛迷失在另一个时代。"你知道我说的是哪一个吗？"
+**中文理解**："我只是——"他话说到一半停住了，摇摇头。"没什么，"他决定。"真的。挺傻的。"……"告诉我，"她说，已经准备好迎接又一次不请自来的转折。Jonah深吸一口气。"我不知道为什么，但我整个周末都甩不掉这段记忆。"……"是Maggie小时候常画的那幅傻乎乎的画的。"他的目光突然飘远，仿佛迷失在另一个时空。"是一个戴着墨镜的小太阳。"……"你知道我说的是哪一幅吗？"
 
-**句子结构**："I just" 是直接引语；He cuts himself off 是主句；Tell me 是直接引语；I don't know why 是直接引语；His gaze is suddenly far away 是独立句。
+**句子结构**：首句 "I just—" 被破折号截断，He cuts himself off, shakes his head 是两个并列的动作句；"It's nothing," he decides. 与 "Really. It's silly." 是简短直接引语；` … ` 略去中间那段内心描写；"Tell me," she says, already prepared for one last unwanted twist. 是祈使句加主句，already prepared for one last unwanted twist 是说明她状态的补充成分；Jonah pulls in a deep breath. 是叙述句，后接他的长句直接引语；` … ` 略去"A memory?"的追问；"Of this silly drawing Maggie used to make when she was a kid." 后接叙述 His gaze is suddenly far away, as if lost in another time.，再是 "It was this little sun wearing sunglasses."；` … ` 略去他后面关于那幅画的补充；末尾 "Do you know which one I mean?" 以问句收束。
 
 **关键词**：
-- **Of this silly drawing Maggie used to make when she was a kid. It was this little sun wearing sunglasses**：关于Maggie小时候经常画的一幅傻傻的画。是一个戴着太阳镜的小太阳；这是全章最重要的话：Jonah记得这个画——他也有"另一个世界"的记忆
-- **Do you know which one I mean**：你知道我说的是哪一个吗；这是Angela Brown的"连接"：Ellie知道——她也知道
-- **as if lost in another time**：仿佛迷失在另一个时代；这是"两个世界"的暗示：Jonah也有"另一个世界"的记忆碎片
+- **cuts himself off**：话说到一半停住；写出Jonah欲言又止的状态。
+- **haven't been able to shake this memory**：一直甩不掉这段记忆；"shake"把记忆写成缠着人不放的东西。
+- **as if lost in another time**：仿佛迷失在另一个时空；叙述者用这个比喻写他出神的样子。
+- **this little sun wearing sunglasses**：一个戴着墨镜的小太阳；这幅童年涂鸦是这段回忆的具体落点。
 
-**为什么这样写**：这是全章最有"双世界感"的对话。Jonah记得Maggie画的戴着太阳镜的小太阳——这是"另一个世界"的记忆。这是Angela Brown的"连接"主题：即使在"真实生活"里，有些记忆仍然存在。
+**为什么这样写**：这一块的重点是Jonah从"说不出口"到"说出来"的过程。他先自我否定（"It's nothing""It's silly"），在Ellie一句"Tell me"之后才吐露。作者把 "His gaze is suddenly far away, as if lost in another time." 插在两句引语之间，让读者跟着他的目光一起回到过去；结尾的问句则把球抛回给Ellie——她当然记得。
 
 ---
 
@@ -165,8 +166,8 @@ Ellie、Maggie和Jonah在机场告别，Maggie要回家、回学校、可能回�
 |------|------|------|------|
 | precipice | n. | 悬崖边缘 | ...every time she's stood at the **precipice** of another unexpected something. |
 | monorail | n. | 单轨列车 | ...the airport's **monorail**... |
-| turquise | adj. | 青绿色的 | ...in a **turquoise**-colored chair... |
-| emacipated | adj. | 被解放的 | ...to **emacipated** into new doors... |
+| turquoise | adj. | 青绿色的 | A little while later, Ellie sits in a **turquoise**-colored chair in the center of the terminal. |
+| emblazoned | adj. | 印有字样的 | She wears her hunter-green crewneck sweatshirt, the one with the word Vermont **emblazoned** across the chest. |
 | blend | v. | 混合 | ...all **blends** together here. |
 
 ### ⭐⭐ 进阶
@@ -176,15 +177,15 @@ Ellie、Maggie和Jonah在机场告别，Maggie要回家、回学校、可能回�
 | hideous | adj. | 丑陋的 | "This is **hideous**," she says with a smile. |
 | waitressing gig | n. | 服务员工作 | ...pick up a **waitressing gig**... |
 | barrette | n. | 发夹 | ...a colorful jeweled **barrette**. |
-| shuffles | v. | 拖着脚走 | ...**shuffles** through the package of cookies... |
-| flutters | v. | 颤动 | ...her heartbeat **flutters** in her neck. |
+| crunching | v. | 嘎吱嘎吱地吃 | “This doesn’t make sense,” Maggie announces before **crunching** her way through the package of cookies she picked up at a nearby newsstand. |
+| flutters | v. | 颤动 | Ellie’s heartbeat **flutters** in her neck. |
 
 ### ⭐ 基础
 
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | lazy river | n. | 漂流河 | ...a nice pool with one of those **lazy rivers**... |
-| matching shirt | n. | 配套衬衫 | ...wearing **matching shirts**... |
-| crewneck | n. | 圆领 | ...her **crewneck** sweatshirt... |
+| screen | n. | 屏幕 | Jonah taps a finger to his **screen**, slides his phone away. |
+| crewneck | n. | 圆领 | She wears her hunter-green **crewneck** sweatshirt, the one with the word Vermont emblazoned across the chest. |
 | block letters | n. | 粗体字 | ...in equally bright **block letters**... |
 | handrail | n. | 扶手 | ..."Please stand clear of doors and hold on to **handrails**..." |

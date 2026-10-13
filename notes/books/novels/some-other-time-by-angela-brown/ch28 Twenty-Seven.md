@@ -495,7 +495,7 @@ Bunny因病毒高烧不退住进医院，Ellie在病房里向Frank自责，Frank
 
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
-| custodian | n. | 清洁工；管理人 | ...cold and slick to make it easier for the **custodial** staff to wipe the germs away—... |
+| custodial | adj. | 保洁的；保管的 | This is all Ellie can think about as she sits in an uncomfortable hospital chair—everything about it cold and slick to make it easier for the **custodial** staff to wipe the germs away—next to her mother’s bed. |
 | subdue | v. | 压低；使平缓 | Frank appears in the doorway, his demeanor and tone more **subdued** than it was back on the porch. |
 | quiver | n./v. | 微颤 | The ibuprofen she took earlier is wearing off, a subtle **quiver** of pain suddenly reintroducing itself to her body... |
 | bassinet | n. | 婴儿睡篮 | ...as the nurse set her down in the wheeled **bassinet**. |
@@ -510,4 +510,4 @@ Bunny因病毒高烧不退住进医院，Ellie在病房里向Frank自责，Frank
 | blinker | n. | 方向灯 | Ellie flicks on her **blinker** so she can turn and drive home. |
 | ibuprofen | n. | 布洛芬 | The **ibuprofen** she took earlier is wearing off... |
 | stretcher | n. | 担架车 | In the hallway, a pair of nurses push a wheeled **stretcher**. |
-| unwell | adj. | 不适的 | ...next to her mother’s bed. |
+| anxious | adj. | 焦虑的；担忧的 | Everyone else—the nurses who keep checking in, the **anxious** family members who pace and pace and pace—is wide awake. |

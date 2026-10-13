@@ -105,17 +105,18 @@ status: completed
 
 ### ⑥
 
-> "That was quite the literary metaphor for a guy who thrives on numbers," she says with a smile. It's the only thing she can do so that she doesn't cry. Jonah chuckles. Lines crease around his mouth and eyes. "I wanted to make sure I phrased things in a way you'd understand."
+> "That's quite the literary metaphor for a guy who thrives on numbers," she says with a smile. It's the only thing she can do so that she doesn't cry. Jonah chuckles. Lines crease around his mouth and eyes. "I wanted to make sure I phrased things in a way you'd understand."
 
-**中文理解**："那可是相当文学化的比喻，"她微笑着说。这是一件她唯一能做的事，以免她哭出来。Jonah轻笑。他的嘴角和眼角出现了皱纹。"我想确保我用你会理解的方式来说。"
+**中文理解**："对一个靠数字吃饭的人来说，这算是相当文学化的比喻了，"她微笑着说。这是她唯一能做的事，好让自己不哭出来。Jonah轻声笑了。他的嘴角和眼角泛起细纹。"我想确保我说话的方式是你能听懂的。"
 
-**句子结构**：That was quite the literary metaphor... 是直接引语；she says with a smile 是主句；It's the only thing she can do... 是并列句。
+**句子结构**：第一句是"引语＋说话人标签"结构："That's quite the literary metaphor for a guy who thrives on numbers," she says with a smile，引语内部用 for a guy who thrives on numbers 这一介词短语加定语从句点明比喻的对象。第二句 It's the only thing she can do so that she doesn't cry 是主句加 so that 引导的目的状语从句，It 回指上一句的微笑。第三、四句 Jonah chuckles. Lines crease around his mouth and eyes. 是两个短促的叙述句，主语分别是 Jonah 和 Lines。最后 "I wanted to make sure I phrased things in a way you'd understand." 是直接引语，主干为 I wanted to make sure 加宾语从句，从句里再套 in a way you'd understand 这一方式表达。
 
 **关键词**：
-- **a guy who thrives on numbers**：一个靠数字为生的人；Jonah是一个数字型的人（他是工程师），但他用"文学比喻"来说话——这是他在婚姻中试图"理解"Ellie的方式
-- **I wanted to make sure I phrased things in a way you'd understand**：我想确保我用你会理解的方式来说；这句话揭示了Jonah对Ellie的理解：他知道她需要"文学"，而他能给她提供"数字"
+- **a guy who thrives on numbers**：一个靠数字活得如鱼得水的人；Ellie调侃Jonah本是数字型的人，却讲出这么文学化的比喻
+- **the only thing she can do so that she doesn't cry**：她唯一能做的事，好让自己不哭出来；点明她的微笑是撑住的姿态，不是开心
+- **I phrased things in a way you'd understand**：我用你能听懂的方式措辞；Jonah没有反驳，只承认自己是特意"翻译"给她听的
 
-**为什么这样写**：这段对话是全书的"情感核心"之一。Jonah用"文学比喻"——这是他试图跨越两人之间"数字与文字"的鸿沟的方式。而Ellie用微笑来回应——这是她能做的唯一的事，以免哭出来。他们仍然是"彼此理解"的，即使他们正在分开。
+**为什么这样写**：这是两人分开前最后一段真正的对话。Jonah刚说完他们的婚姻"是成功的"，用的却是一个文学比喻；Ellie立刻点破这个反差——一个靠数字吃饭的人居然讲起文学。她的回应带着微笑，但原文紧接着交代这微笑只是"不哭出来"的办法，一句话就把玩笑变成了告别。Jonah的回答没有辩解，只说他是特意用她能懂的方式说话，说明两人其实都清楚差异在哪里，也都已经接受了。
 
 ---
 

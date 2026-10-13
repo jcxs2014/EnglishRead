@@ -99,17 +99,19 @@ status: completed
 
 ### ⑥
 
-> "You think marriage is about love?" Bunny starts to pull her china coffee mugs out from the hutch. She's shaking her head a hundred miles per hour.
+> "Oh, baloney!" Bunny starts to pull her china coffee mugs out from the hutch. She's shaking her head a hundred miles per hour. "You think marriage is about love?"
 
-**中文理解**："你认为婚姻是关于爱情的吗？"Bunny 开始从橱柜里拿出她的瓷器咖啡杯。她疯狂地摇着头。
+**中文理解**："哦，胡说！"Bunny 开始从橱柜里往外拿她的瓷器咖啡杯。她摇头摇得像时速一百英里。"你觉得婚姻是关于爱情的？"
 
-**句子结构**：主句 "You think marriage is about love?" Bunny starts...；She's shaking her head a hundred miles per hour 是独立并列句。
+**句子结构**：引语被叙述动作劈成两半（split quotation）：先甩出 "Oh, baloney!"，接着两句叙述（Bunny starts to pull her china coffee mugs out from the hutch. She's shaking her head a hundred miles per hour.），最后才抛出真正的问题 "You think marriage is about love?"。叙述部分用一般现在时（starts, She's shaking），与本章现在时的叙事一致；末句是省去助动词 Do 的疑问句——陈述语序、只靠问号标示疑问，因此比正常问句更像反问。
 
 **关键词**：
-- **You think marriage is about love?**：Bunny 的反问——她是天主教徒，对她来说，婚姻是神圣的契约，不是情感的容器；这句话代表老一代人的婚姻观：承诺 > 爱情
-- **a hundred miles per hour**：夸张；Bunny 的头"摇得跟百码一样快"——夸张修辞，表达她对这个想法的强烈反对
+- **baloney**：胡说、瞎扯；一个词就把 Ellie 刚才那句"We just fell out of love"整个否掉
+- **hutch**：碗柜、橱柜；她一边否定一边照常拿杯子，动作的日常感与话里的火气形成反差
+- **a hundred miles per hour**：夸张，形容她摇头之快；否定不只停在嘴上，整个身体都在拒绝
+- **You think marriage is about love?**：省略助动词的反问；她质疑的不是 Ellie 的婚姻，而是"婚姻以爱情为基础"这个前提本身
 
-**为什么这样写**：Bunny 的反应揭示了三代人之间的婚姻观差异：Ellie 认为婚姻是关于爱情的（当爱情消失，婚姻就结束）；Bunny 认为婚姻是关于承诺的（无论是否有爱情，承诺是不可打破的）。这种价值观冲突是全书的一个重要维度——Ellie 的"选择"（离婚）是对她父母那一代人信仰的颠覆。
+**为什么这样写**：Bunny 的反应不是安慰，而是反驳——"Oh, baloney!"先把女儿的离婚理由判为不值一提，再用一句反问把话题从"你们的婚姻怎么了"扭成"婚姻到底是什么"。她的动作（拿杯子、飞快摇头）与话同时进行，说明这种反对已经成了她的本能，而不是经过斟酌的立场。这也让 Ellie 的处境更孤立：她本想说出一个诚实的、平淡的理由，却发现连这个理由在母亲那里都不被承认。
 
 ---
 

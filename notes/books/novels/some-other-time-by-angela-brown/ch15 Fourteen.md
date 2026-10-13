@@ -139,7 +139,7 @@ Ellie在厨房里质问她的父母，发现他们从来没有真正"搬到佛�
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | retire | v. | 退休 | The two of you never **retired** to Florida, did you? |
-| shrug | v. | 耸肩 | ...Frank **shrug**s at his wife... |
+| thinning | adj. | 变稀疏的 | His hair, she can see, is freshly washed, the **thinning** strands neatly combed. |
 | sigh | v. | 叹气 | ..."Yes," she **sigh**s. |
 | chest | n. | 胸部，胸腔 | ...Frank's **chest** rippled with emotion. |
 
@@ -147,7 +147,7 @@ Ellie在厨房里质问她的父母，发现他们从来没有真正"搬到佛�
 
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
-| retirement | n. | 退休 | ..."this news about Dad and me. But I assure you—" ..."your choices have mattered...Our **retirement**..." |
+| retirement | n. | 退休 | Our **retirement**. Me finally selling the deli. The move. Just . . . all of it.” |
 | sigh | v. | 叹气 | ..."Yes," she **sigh**s. |
 | chest | n. | 胸部，胸腔 | Already, her heart hurts, like some invisible force has kicked her square in her **chest**... |
 | divorce | v./n. | 离婚 | "The two of you are getting **divorce**..." |

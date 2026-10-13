@@ -87,17 +87,19 @@ status: completed
 
 ### ⑤
 
-> "Well, it seems I'm currently spiraling my way through some sort of mental breakdown," Ellie says. She grabs her car keys. "Oh, one more thing." She begins to walk backward toward the entryway. "In case I don't have a chance to say this later, you two really are not very good at splitting up."
+> Ellie gives one firm nod, already reaching for her book bag. "Well, it seems I'm currently spiraling my way through some sort of mental breakdown, so I'm going to scoot out for a bit." She grabs her car keys. "Oh, one more thing." She begins to walk backward toward the entryway. "In case I don't have a chance to say this later, you two really are not very good at splitting up."
 
-**中文理解**："嗯，看起来我目前正在某种精神崩溃中螺旋式下降，"Ellie说。她抓起她的车钥匙。"还有一件事。"她开始向门口倒退走去。"万一我之后没有机会说这个，你们两个真的不太会分手。"
+**中文理解**：Ellie坚定地点了一下头，手已经伸向她的书包。"嗯，看起来我目前正在某种精神崩溃里螺旋式下坠，所以我打算先溜出去一会儿。"她抓起车钥匙。"哦，还有一件事。"她开始倒退着往门口走。"万一我之后没机会说这个，你们两个真的不太会分手。"
 
-**句子结构**：Well, it seems I'm currently spiraling my way through some sort of mental breakdown 是直接引语；Ellie says 是主句；she grabs her car keys 是并列句。
+**句子结构**：以叙述句串联三个直接引语。Ellie gives one firm nod, already reaching for her book bag 是叙述主句，already reaching 为现在分词短语作伴随状语；"Well, it seems I'm currently spiraling my way through some sort of mental breakdown, so I'm going to scoot out for a bit." 是第一个直接引语，it seems 后接表语从句，so 引出结果分句；She grabs her car keys 与 She begins to walk backward toward the entryway 是两个并列的叙述句；"Oh, one more thing." 是第二个直接引语；"In case I don't have a chance to say this later, you two really are not very good at splitting up." 是第三个直接引语，In case 引导条件状语从句，主句为 you two really are not very good at splitting up。
 
 **关键词**：
-- **spiraling my way through some sort of mental breakdown**：在某种精神崩溃中螺旋式下降；这个短语是Ellie对"崩溃"的定义——它不是"爆炸"，而是"螺旋式下降"
-- **you two really are not very good at splitting up**：你们两个真的不太会分手；这是Ellie的"告别语"——它既是幽默，也是真实的观察
+- **spiraling my way through some sort of mental breakdown**：在某种精神崩溃里螺旋式下坠；Ellie对自己状态的自我诊断
+- **scoot out for a bit**：先溜出去一会儿；轻描淡写的口语说法，与"精神崩溃"形成反差
+- **in case I don't have a chance to say this later**：万一我之后没机会说这个；点出她把这句话当告别来讲
+- **you two really are not very good at splitting up**：你们两个真的不太会分手；告别语的落点，既像玩笑，又是观察
 
-**为什么这样写**：这是全章最有力的告别。Ellie用"你们两个真的不太会分手"来描述她的父母——但这也是她自己的问题。Ellie正在"分手"，而她也不知道怎么做。"不太会"是所有人的共同点。
+**为什么这样写**：作者把动作前置，让"点头、摸书包、抓钥匙、倒退着走"这些细碎的离场动作包住那句"精神崩溃"的自我诊断——Ellie在宣布一件严重的事，语气却像在报备出门。真正的重音落在最后一句：她把父母"不会分手"这件事当临别赠言说出来，等于把"分手"这个词从自己身上挪开，交还给两个几十年没分开过的人。读到这里，她的"逃"不是崩溃，而是一种清醒的对照。
 
 ---
 
@@ -126,7 +128,7 @@ Ellie、Bunny和Frank在厨房里进行了一场"疯狂的团聚"——Frank带�
 | mashed potatoes | n. | 土豆泥 | ...her brain has turned into **mashed potatoes**. |
 | spiral | v./n. | 螺旋式下降 | ..."Well, it seems I'm currently **spiraling** my way through some sort of mental breakdown," Ellie says. |
 | provisions | n. | 食物，供给品 | ..."I stopped by the deli and picked up lunch," Frank adds, laying out his **provisions**. |
-| witness | n./v. | 见证者；见证 | ..."Well then, that's that," she thinks and **witness**es herself concurring. |
+| witness | n./v. | 见证者；见证 | Whatever she’s **witnessed** today is just a distorted first step of the afterlife. |
 
 ### ⭐⭐ 进阶
 
@@ -135,7 +137,7 @@ Ellie、Bunny和Frank在厨房里进行了一场"疯狂的团聚"——Frank带�
 | creamer | n. | 咖啡伴侣 | ..."pick up some fresh **creamer** on your way back." |
 | weathered | adj. | 饱经风霜的 | "Walked?" Frank's **weathered** face lifts into an amused smile. |
 | grocery bag | n. | 购物袋 | ...he gingerly balances a **reusable grocery bag**. |
-| provisions | n. | 供给品 | ..."I stopped by the deli," Frank adds, laying out his **provisions**. |
+| provisions | n. | 供给品 | “I stopped by the deli and picked up lunch,” Frank adds, laying out his **provisions**. |
 
 ### ⭐ 基础
 
@@ -144,5 +146,5 @@ Ellie、Bunny和Frank在厨房里进行了一场"疯狂的团聚"——Frank带�
 | deli | n. | 熟食店 | ..."My **deli**. The one I've owned your whole life!" |
 | fridge | n. | 冰箱 | ..."I don't trust that **fridge** right now." |
 | reusable | adj. | 可重复使用的 | ...he gingerly balances a **reusable grocery bag**. |
-| butterscotch | n. | 太妃糖 | ...a ziplock bag full of hard **butterscotch** candies... |
-| unpack | v. | 打开（行李），整理 | ..."I noticed her mother has started to **unpack**, her plastic pillbox now set on the counter." |
+| butterscotch | n. | 太妃糖 | “Well, Mom,” Ellie replies, noticing her mother has started to unpack, her plastic pillbox now set on the counter, alongside the ziplock bag full of hard **butterscotch** candies she always carries with her just in case (in case of what, no one |
+| unpack | v. | 打开（行李），整理 | “Well, Mom,” Ellie replies, noticing her mother has started to **unpack**, her plastic pillbox now set on the counter, alongside the ziplock bag full of hard butterscotch candies she always carries with her just in case (in case of what, no one |

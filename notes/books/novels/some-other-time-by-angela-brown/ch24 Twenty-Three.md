@@ -169,7 +169,7 @@ Ellie和Bunny在机场找到Frank——Frank说他要去Florida因为他不再�
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | obstacle | n. | 障碍 | They've hit nothing but **obstacles**—traffic, closed lanes, construction... |
-| hospice | n. | 临终关怀 | ...she worries the **hospice** nurse is taking advantage... |
+| off-ramp | n. | （高速）出口匝道 | Ellie clicks on her blinker, veers the car toward the **off-ramp**, and then drives into the airport complex. |
 | boarding pass | n. | 登机牌 | The other traveler grabs his printed **boarding pass** and hurries on his way. |
 | checkpoint | n. | 安检口 | Ahead of them, the other travelers inch closer to the security **checkpoint**. |
-| confess | v. | 承认 | "I—I wanted to," Bunny **confesses**... |
+| cautious | adj. | 谨慎的 | “Yes, I know,” Ellie says, **cautious** not to say too much. “I hurt my back. But I’m fine.” |

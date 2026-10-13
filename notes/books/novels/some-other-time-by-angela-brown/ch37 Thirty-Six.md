@@ -90,18 +90,18 @@ status: completed
 
 ### ⑤
 
-> "Everyone okay back there?" Jonah asks from the front seat, just like always, and pulls his sunglasses onto his face. "We're fine," Ellie says, and this time, she means it. She swivels back around to face forward, clicks her seat belt into place. "Everyone is fine."
+> "Everyone okay back there?" Jonah asks from the front seat, just like always, and pulls his sunglasses onto his face. … "We're fine," Ellie says, and this time, she means it. She swivels back around to face forward, clicks her seat belt into place. "Everyone is fine."
 
-**中文理解**："后面所有人都好吗？"Jonah像往常一样从前面座位问道，然后戴上他的太阳镜。"我们很好，"Ellie说，这一次，她是认真的。她转回来面向前方，把安全带扣上。"所有人都很好。"
+**中文理解**："后面所有人都好吗？"Jonah从前面座位问道，一如既往，然后把太阳镜拉到脸上。……"我们很好，"Ellie说，这一次，她是认真的。她转回身面向前方，把安全带扣好。"所有人都很好。"
 
-**句子结构**："Everyone okay back there" 是直接引语；Jonah asks 是主句；We're fine 是直接引语；She swivels 是并列句。
+**句子结构**：以直接引语开篇——"Everyone okay back there?" 是Jonah的问句，Jonah asks from the front seat 是主句，just like always 与 and pulls his sunglasses onto his face 是两个并列的伴随动作；中间用 ` … ` 省略了一段叙述；后半段 "We're fine" 是Ellie的直接引语，Ellie says 是主句，and this time, she means it 是补充说明，She swivels back around to face forward 与 clicks her seat belt into place 是两个并列的动作句，最后以 "Everyone is fine." 收束。
 
 **关键词**：
-- **Everyone is fine**：所有人都很好；这是全章最重要的话：Ellie的"确定性"——所有人都很好
-- **just like always, and pulls his sunglasses onto his face**：像往常一样，然后戴上他的太阳镜；这是Jonah的"习惯"：他总是问"每个人都好吗"，然后戴上太阳镜
-- **and this time, she means it**：这一次，她是认真的；这是Angela Brown的"强调"：Ellie"真的"是说真的
+- **just like always**：一如既往；点出Jonah一上车就问这句话的习惯，是这一家人固定的节奏。
+- **she means it**：她是认真的；与"just like always"形成对照——同样一句"我们很好"，这一次是真的。
+- **Everyone is fine**：所有人都很好；结尾用同一句式重复，把她的心境落定。
 
-**为什么这样写**：这是全章最有"确定性"感的结尾。"Everyone is fine"是Angela Brown的"结尾"——Ellie确定了：所有人都很好。这是全书的"确定性"主题：Ellie知道她在"真实生活"里做了什么选择，她接受它。
+**为什么这样写**：引语以"习惯"开场，以"确定"收尾。省略号略去中间一段送别叙述之后，Ellie的回答从客套话变成了真心话——"and this time, she means it"是这一块的关键转折，而结尾那句"Everyone is fine."把她的确信固定下来。作者没有解释她为何确信，只让重复的句式替她说话：这一次，她真的相信了。
 
 ---
 
@@ -128,7 +128,7 @@ Ellie、Maggie和Jonah告别Bunny和Frank，准备离开Florida回家；Ellie说
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | tousled | adj. | 凌乱的 | ...her light hair **tousled** from sleep. |
-| intonation | n. | 语调 | ...her **intonation**... |
+| sputters | v. | 喷溅作响 | Nearby, the coffeepot already **sputters** out the morning brew. |
 | swivels | v. | 旋转 | She **swivels** back around to face forward... |
 | sputter | v. | 发出噼啪声 | ...the coffeepot already **sputters** out the morning brew. |
 | stroke | n. | 笔触 | ...**Strokes** of yellow—determined... |
@@ -141,7 +141,7 @@ Ellie、Maggie和Jonah告别Bunny和Frank，准备离开Florida回家；Ellie说
 | sectional | n. | 组合沙发 | ...on the far end of the **sectional**... |
 | muted | adj. | 静音的 | ...the **muted** television... |
 | tropical | adj. | 热带的 | ...their colorful, **tropical** retirement wear... |
-| Caribbean | adj. | 加勒比海的 | ...the **Caribbean** sun... |
+| charcoal | n. | 炭黑色；木炭 | Strokes of yellow—determined to bring about this new day—begin to wash out the **charcoal** of night. |
 
 ### ⭐ 基础
 

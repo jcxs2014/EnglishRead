@@ -23,18 +23,20 @@ status: completed
 
 ### ①
 
-> "Return flight?" Brenda lifts Ellie's license and types in her information. Ellie chews her lip. "No thank you," she decides. "I don't know when I'm coming back." Brenda's expression does nothing to disguise her judgment. She drums her fingers across her keyboard, pulls Ellie's boarding pass from the mouth of her countertop printer, and hands it to her. "Have a safe flight, Ms. Adams," Brenda says. Ellie's head snaps up. "What did you say?"
+> "Return flight?" Brenda lifts Ellie's license and types in her information. Ellie chews her lip. "No thank you," she decides. "I don't know when I'm coming back." Brenda's expression does nothing to disguise her judgment. She drums her fingers across her keyboard, pulls Ellie's boarding pass from the mouth of her countertop printer, and hands it to her. … "Have a safe flight, Ms. Adams," Brenda says. Ellie's head snaps up. "What did you say?"
 
-**中文理解**："返程航班？"Brenda拿起Ellie的驾照，输入她的信息。Ellie咬着嘴唇。"不，谢谢，"她决定。"我不知道我什么时候回来。"Brenda的表情毫不掩饰她的判断。她用手指敲着键盘，从柜台打印机的出口抽出Ellie的登机证，然后递给她。"旅途安全，Adams女士，"Brenda说。Ellie猛地抬起头。"你说什么？"
+**中文理解**："返程航班？"Brenda拿起Ellie的驾照，把她的信息敲进去。Ellie咬着嘴唇。"不用了，谢谢，"她决定道。"我不知道我什么时候回来。"Brenda的表情毫不掩饰她的评判。她的手指在键盘上敲打，从柜台打印机的出口抽出Ellie的登机牌，递给她。……"祝旅途顺利，Adams女士，"Brenda说。Ellie猛地抬起头。"你说什么？"
 
-**句子结构**："Return flight?" 是直接引语；Brenda lifts Ellie's license 是主句；Ellie chews her lip 是并列句；Have a safe flight, Ms. Adams 是直接引语。
+**句子结构**：全段以"引语—叙述"交替推进。"Return flight?" 是第一个直接引语；Brenda lifts Ellie's license and types in her information 是叙述主句，含 lifts 与 types 两个并列谓语。Ellie chews her lip 是独立叙述句；"No thank you," she decides 与 "I don't know when I'm coming back." 是Ellie的两个直接引语，decides 后置，when I'm coming back 是 know 的宾语从句。Brenda's expression does nothing to disguise her judgment 是主句；She drums her fingers across her keyboard, pulls Ellie's boarding pass from the mouth of her countertop printer, and hands it to her 是三个并列谓语。省略号之后，"Have a safe flight, Ms. Adams," Brenda says 是引语加叙述句；Ellie's head snaps up. "What did you say?" 以动作收束，句末引语是省略式问句。
 
 **关键词**：
-- **I don't know when I'm coming back**：我不知道我什么时候回来；这是Ellie的"逃离宣言"——她想过逃离一切
-- **Ms. Adams**：Adams女士；Brenda对Ellie的称呼——这是她的娘家姓，不是婚后姓
-- **Ellie's head snaps up**：Ellie猛地抬起头；这个动作表示"震惊"——她意识到Brenda说的是她的娘家姓
+- **Return flight?**：返程航班？；柜台的开场问句，触发整场冲突
+- **I don't know when I'm coming back**：我不知道我什么时候回来；Ellie只买单程的回答
+- **does nothing to disguise her judgment**：毫不掩饰她的评判；写Brenda的无声反应
+- **Ms. Adams**：Adams女士；这个称呼是她娘家的姓，成为Ellie震惊的触发点
+- **Ellie's head snaps up**：Ellie猛地抬起头；身体反应先于语言
 
-**为什么这样写**：这是全章最重要的场景。"Ms. Adams"是Ellie的"身份危机"的触发点——她意识到自己的身份证上的名字不对。"I don't know when I'm coming back"是Ellie的"逃离计划"——但她最终没有登上飞机。
+**为什么这样写**：真正击中Ellie的不是机票，而是那个称呼——"Ms. Adams"是她婚前的姓，而它写在她的ID上，意味着在这段人生里她并没有变成Baker太太。作者把省略号留在递登机牌与道别之间：被剪掉的只是收回信用卡、把证件塞进口袋这类过场动作，剪掉后"Have a safe flight, Ms. Adams"紧接在"我不知道我什么时候回来"之后落下，冲突被压得更紧——一个只买单程票的人，却被一个陌生柜台职员用她以为早已不用的名字叫住了。
 
 ---
 
@@ -112,8 +114,8 @@ Ellie在机场售票处发现自己的身份证上仍然是"Eleanor Grace Adams"
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
 | turbulence | n. | 乱流；动荡 | ...about navigating the **turbulence** without Jonah at her side... |
-| board | v. | 登机 | ..."We are ready to begin our **boarding** process..." |
-| destination | n. | 目的地 | ..."We are ready to begin our **boarding** process..." |
+| board | v. | 登机 | “There’s a seat available on a flight to Orlando that begins **boarding** in about an hour.” |
+| cluttered | adj. | 凌乱的；堆满杂物的 | “Maybe no one’s turned it in yet,” he suggests as he takes a seat at his **cluttered** desk. |
 | reset | v./n. | 重置 | She is herself, **reset**. Or herself, after everything. |
 | carry-on | n. | 随身行李 | Nearby, the last groups of travelers wheel their **carry-ons** to the gate. |
 
@@ -130,10 +132,10 @@ Ellie在机场售票处发现自己的身份证上仍然是"Eleanor Grace Adams"
 
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
-| gate | n. | 登机口 | Ellie Adams sits at her **gate**, turning her ID in her hand. |
+| gate | n. | 登机口 | “I’m pretty sure I left it in a bathroom near my **gate**,” Ellie explains. |
 | flight | n. | 航班 | ..."There's a seat available on a **flight** to Orlando that begins boarding in about an hour." |
 | departure | n. | 出发 | Ellie looks up at the **departures** board. |
-| ID (identification) | n. | 身份证件 | ...she produces her ID from her jeans pocket. |
+| wallet | n. | 钱包 | Ellie slips her credit card back into her **wallet**, then shoves her ID and boarding pass into her pocket so they’ll be easily accessible for security. |
 | license | n. | 驾照 | Brenda lifts Ellie's **license** and types in her information. |
-| finger | n. | 手指 | She **finger**s her ring finger, noticing for the first time... |
+| finger | n. | 手指 | She drums her **fingers** across her keyboard, pulls Ellie’s boarding pass from the mouth of her countertop printer, and hands it to her. |
 | fix | v. | 修理，修复 | ...she needs to figure out what exactly. And then she has to try to **fix** it. |

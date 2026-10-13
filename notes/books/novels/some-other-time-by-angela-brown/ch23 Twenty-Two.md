@@ -165,8 +165,8 @@ Ellie醒来后决定去找Frank，但当她和Bunny到达公寓时，发现Frank
 | errand | n. | 差事 | ...already showered, dressed, and run a fast **errand**. |
 | comprehend | v. | 理解 | ...she **comprehend**s enough to recognize that he understands what's happening. |
 | nonchalantly | adv. | 漠不关心地 | Bunny hands the papers back, then **nonchalantly** straightens up the bed linens... |
-| slumber | n. | 睡眠 | ...as she watches her daughter—her most precious blessing—peacefully **slumber**... |
-| slumber | v. | 睡眠 | ...Ellie watches Maggie **slumber** peacefully... |
+| frazzled | adj. | 疲惫凌乱的 | Her short bob of hair is **frazzled** from sleep. “To go where? And when?” She coughs, a slight rattle of mucus in her throat. “I’m not going anywhere until I’ve had my coffee first.” |
+| taupe | adj./n. | 灰褐色（的） | Her favorite **taupe** cardigan is folded up in her book bag nearby. |
 
 ### ⭐⭐ 进阶
 
@@ -182,9 +182,9 @@ Ellie醒来后决定去找Frank，但当她和Bunny到达公寓时，发现Frank
 
 | 词汇 | 词性 | 释义 | 例句 |
 |------|------|------|------|
-| robe | n. | 睡袍 | ...as Bunny pulls her **robe** tighter around her body. |
+| robe | n. | 睡袍 | Bunny asks as she pulls her **robe** tighter around her body. |
 | cardigan | n. | 开衫 | ...Her favorite taupe **cardigan** is folded up in her book bag... |
 | cross | n. | 十字架 | ...nervously **fidget**ing with her **cross** pendant. |
 | overnight bag | n. | 过夜包 | ...hands Ellie her **overnight bag** in the driveway. |
-| suitcase | n. | 手提箱 | ...Ellie drags out Bunny's **suitcase**. |
+| suitcase | n. | 手提箱 | She pulls open the closet and sees that her father’s old blue **suitcase** is missing. “Mom! |
 | driver (side) | n. | 驾驶（侧） | Ellie opens the **driver's** side door, clicks her seat belt into place. |

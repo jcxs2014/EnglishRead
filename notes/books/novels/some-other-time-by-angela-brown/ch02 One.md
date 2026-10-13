@@ -58,16 +58,16 @@ status: completed
 
 > "You know," she says, "we 'should' be on the ground, or we 'hope' to see you again." … "Why don't they use firmer language? We 'will' be on the ground, or we 'will' see you again."
 
-**中文理解**："你知道的，"她说，"他们'应该'会落地，'希望'能再见到你。""为什么他们不能用更确定的语言？'我们将会'落地，'我们将会'再见到你。"
+**中文理解**："你知道的，"她说，"我们'应该'能落地，或者说，我们'希望'能再见到你。"……"为什么他们不用更确定的说法？我们'将会'落地，我们'将会'再见到你。"
 
-**句子结构**：两段引语，中间是 Ellie 的内心描写（the sweat erupts through her pores...）；两个"Why don't they"疑问句是 Ellie 的内心核心问题——她在语言中寻找安全感。
+**句子结构**：第一段是 she says 引出的直接引语，内部先有 "You know," 的呼语，再并列两个从句 we 'should' be on the ground 与 we 'hope' to see you again，两句共用同一个主语 we，靠 or 连接；随后用省略号省去 Ellie 的生理反应描写；第二段仍是她的话，先是一个 Why don't they...? 的反问，紧接着给出她所期待的版本 We 'will' be on the ground, or we 'will' see you again.，与前半段形成同构对照，只把情态动词从 should / hope 换成 will。
 
 **关键词**：
-- **firmer language**：Ellie 渴望确定性；她在生活中（婚姻）已经失去了太多的确定性，所以她对语言层面的"确定性"格外敏感
-- **'should' / 'will' / 'hope'**：三个情态动词的对比——should（应该/不确定）、will（将会/确定）、hope（希望/最不确定）；Ellie 的焦虑背后是对"确定性"的渴望
-- **The sweat erupts through her pores, like hot lava bursting from a volcano**：比喻，把焦虑的生理反应比作火山爆发——语言越不确定，她的身体反应越剧烈
+- **firmer language**：更确定/更硬的说法；Ellie 要求的是措辞的确定性，她把"语气够不够硬"当成能不能安心的标准
+- **'should' / 'hope' / 'will'**：三个情态动词的对照——should（应该，留有余地）、hope（希望，最不确定）、will（将会，最确定）；她把广播里的原话和自己心里的版本并排念出来，差别只在这一点
+- **on the ground / see you again**：两段引语共用的两个落点（落地、再见面），正因为是同一件事的两种说法，情态动词的差别才显得刺眼
 
-**为什么这样写**：这段对话表面上在谈飞机广播，实际上揭示了 Ellie 在婚姻中的深层焦虑：她渴望确定性（"will"），而她的生活充满了"should"和"hope"。这不是恐飞症——这是 Ellie 对失控人生的焦虑在飞机这个封闭空间里的爆发。
+**为什么这样写**：这段表面是在复述飞机广播，实际写的是 Ellie 对"确定"的执念：她不是听不懂广播，而是不能接受广播用 should 和 hope 这种留余地的词。作者让她把两版话并排说出来——原话与"应该有的样子"只差一个情态动词——用一个极小的语言细节写出她的焦虑，比直接写"她很害怕"更克制。省去的生理反应描写则把这个语言问题落实成身体反应。
 
 ---
 
