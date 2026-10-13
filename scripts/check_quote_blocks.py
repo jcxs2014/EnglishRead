@@ -27,6 +27,45 @@ SUB_LABEL = re.compile(r"^\*\*([^*\n]{1,14}?)(?:\*\*)?[：:]")
 LEAK = ("写作期自查记录", "不作为独立引语块计", "自查记录", "写作期备注")
 QUOTE = re.compile(r"^\s*>\s*\*\*原句\s*(\d+)\s*[:：]")
 ANY = re.compile(r"^\s*(\*\*原句\s*(\d+)\s*[:：])")
+# ⚠️ 2026-10-13 新增（Some Other Time 38 章实测，ch01 一处就报 26 条假红）：
+#   本库第三种引语块形态＝**圈码三级标题独占一行 + 裸 `> ` 引语行**：
+#       ### ①
+#       (空行)
+#       > It could have ended a hundred different ways.
+#       **中文理解**：…
+#   全库实测 **328 文件 / 15 本书**在用（the-glass-girl 54 · one-way-back 45 ·
+#   some-other-time 38 · recollections-of-my-nonexistence 32 · becoming 26 …）。
+#   原工具只认 `> **原句 N:**`，这种形态的引语行**一个都不被承认** ⇒
+#   ① quote_sections 为空（或只剩少数带前缀的小节）；② 该小节里 ①–㉖ 的
+#   子项上扫找不到引语行 ⇒ **整批误判成「D 孤儿分析」**（Some Other Time ch01
+#   报 26 条，而它真正有 16 个块，每块都是「引语 + 四子项」齐全）。
+#   ⇒ 在**含圈码标题的文件**里，把「紧跟在圈码标题之后的裸 `> 正文` 行」也认作引语行。
+#   判据刻意收得紧：只认「上一个非空行**就是圈码标题**」的裸 `> ` 行（负控见下方注释），
+#   于是 `## 本章总结` 之类小节里孤立的引用行不会把该小节拉进 D 判据范围。
+_CIRC = ("①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳"
+         "㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚㉛㉜㉝㉞㉟"
+         "㊱㊲㊳㊴㊵㊶㊷㊸㊹㊺㊻㊼㊽㊾㊿")
+CIRC_HEAD = re.compile(r"^#{1,6}\s*[" + _CIRC + r"]\s*$")
+BARE_QUOTE = re.compile(r"^\s*>\s*\S")
+
+
+def is_quote_line(lines, i):
+    """第 i 行（0-based）是否算「引语行」。
+
+    两种形态（2026-10-13 扩展第二种，见上面 _CIRC 处注释）：
+      ① `> **原句 N:** …`              —— 原有形态，一字未动。
+      ② 圈码标题独占一行 + 紧跟的裸 `> 正文` 行（中间只隔空行）。
+    判据刻意收得紧：只认「上溯第一个非空行**就是圈码标题**」的裸 `> ` 行，
+    于是 `## 本章总结`/`## 关键词` 等小节里孤立的引用行不会把该小节拉进范围。
+    """
+    if QUOTE.match(lines[i]):
+        return True
+    if not BARE_QUOTE.match(lines[i]):
+        return False
+    k = i - 1
+    while k >= 0 and not lines[k].strip():
+        k -= 1
+    return k >= 0 and bool(CIRC_HEAD.match(lines[k].strip()))
 
 
 def main():
@@ -54,21 +93,21 @@ def main():
         #   没有引语行的文件直接跳过 D 判据（无从自校准就不判）。
         # 含引语行的小节集合——D 判据**只在小节范围内**生效（见下面 ms 处的注释）
         quote_sections, sec = set(), None
-        for ql in lines:
+        for qi, ql in enumerate(lines):
             if ql.startswith("## "):
                 sec = ql.strip()
-            elif QUOTE.match(ql) and sec:
+            elif is_quote_line(lines, qi) and sec:
                 quote_sections.add(sec)
         subs_here = set()
         for qi, ql in enumerate(lines):
-            if not QUOTE.match(ql):
+            if not is_quote_line(lines, qi):
                 continue
             for k in range(qi + 1, len(lines)):
                 # ⚠️ 必须同时被「下一条引语行」和「下一个 `## ` 小节」截断：
                 #   只按引语行截断时，**末条**引语行的组会一路扫到文件尾，
                 #   把 `## 本章词汇` / `## 一句话总结` 里的粗体标签
                 #   （`**这一章的技艺在于：**` 等）也吸进子项集 ⇒ 那些行被判成孤儿。
-                if QUOTE.match(lines[k]) or lines[k].startswith("## "):
+                if is_quote_line(lines, k) or lines[k].startswith("## "):
                     break
                 m = SUB_LABEL.match(lines[k].strip())
                 if m:
@@ -132,12 +171,13 @@ def main():
                 u = lines[k].strip()
                 if u.startswith("## "):
                     break                     # 出了本节 ⇒ 本组没有引语行管着
-                if QUOTE.match(lines[k]):
+                if is_quote_line(lines, k):
                     break                     # 命中引语行 ⇒ 有主
                 k -= 1
-            if k < 0 or not QUOTE.match(lines[k]):
+            if k < 0 or not is_quote_line(lines, k):
                 bad.append(("D 孤儿分析", name, i,
-                            "本组子项向上直到 `## ` 小节都没有 `> **原句 N:**` 行"
+                            "本组子项向上直到 `## ` 小节都没有引语行"
+                            "（`> **原句 N:**` 或圈码标题下的裸 `> ` 行）"
                             "（要么上方缺引语行，要么它被未标注的正文劈开——"
                             "前者补引语行，后者把正文并回上一条子项）"))
         tot_g += groups

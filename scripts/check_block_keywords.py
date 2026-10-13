@@ -64,8 +64,57 @@ BLOCK_ITER = re.compile(r'^> \*\*原句\s*(\d+)[：:]\*\*\s*(.*)$', re.M)
 #   于是 nq 恒 0 ⇒ 整批报「未找到任何引语块」。全库 11 本书用这一形态，是**排版档位**
 #   不是内容缺陷（按 AGENTS 第 3 条「假红型先修工具」处置）。
 #   改法：给圈码前后各加**可选** `\*{0,2}`——裸圈码书的匹配一字不变（纯增量）。
-CIRCLED = '①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳㉑㉒㉓㉔㉕'
-CIRC_OPT = r'^\*{0,2}([' + CIRCLED + r'])\*{0,2}\s+["\']'
+# ⚠️ 2026-10-13 补（Some Other Time ch28 实测假红）：原表止于 `㉕`，而本章有 **26** 个
+#   圈码块（`### ①`–`### ㉖`）⇒ `n_circ` 少数一个 ⇒ 报「结构对账失败 —— 关键词行
+#   26 ≠ 引语块 25（内容可能被整段复制）」。该章实测 26 个块头 + 26 个 `**关键词**：`
+#   行**完全对齐**（且块结构权威 `audit_structure` 判 0 缺陷）⇒ 纯属字符表截断。
+#   一次性补到 `㊿`（U+3251–U+325F ㉑–㉟，U+32B1–U+32BF ㊱–㊿），与
+#   `docs/新书启动模板.md` 的「长章可扩圈码」写法对齐。
+CIRCLED = ('①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳'
+           '㉑㉒㉓㉔㉕㉖㉗㉘㉙㉚㉛㉜㉝㉞㉟'
+           '㊱㊲㊳㊴㊵㊶㊷㊸㊹㊺㊻㊼㊽㊾㊿')
+# ⚠️ 2026-10-13 修正（Some Other Time 38 章实测，nq 恒 0 ⇒ 整批假红/假阴性）：
+#   本库存在**第三种**圈码抬头形态——**三级标题独占一行、引语另起一行**：
+#     ### ①
+#     （空行）
+#     > It could have ended a hundred different ways.
+#   而原式要求「圈码后**紧跟** `"` 或 `'`」⇒ 这类书 CIRC_BLOCK_RE 命中 **0**
+#   ⇒ nq 落到 n_yanqing（`^>\s*"`，而本书引语行多是整段叙述、不以引号开头）⇒
+#   nq 严重低估甚至为 0 ⇒ 报「未找到任何引语块」（假阴性）或「关键词行 N ≠ 引语块 M」
+#   与「超配额」（假红）。全库实测此形态 **328 个文件 / 15 本书**
+#   （the-glass-girl 54 / one-way-back 45 / some-other-time 38 / recollections-of-my-
+#   nonexistence 32 / becoming 26 / dont-look-at-me-like-that 23 …）。
+#   改法（**纯增量**）：把「可选 `#{1,6}` 标题前缀」并进**同一个**捕获组之前，
+#   圈码仍由**唯一**的 group(1) 捕获（不用分支重置，避免 group 编号漂移——
+#   `CIRC_ITER` 依赖 `m.group(1)`＝圈码、`m.group(2)`＝引语体）。
+#   原「圈码 + 空格 + 引号」形态的匹配**一字不变**；新增「可选标题前缀 + 圈码 + 行尾」。
+# ⚠️ 2026-10-13 二次收窄（全库回归实测 44 个文件新增阻断型，AGENTS 第 3 条假红型）：
+#   上面那版放宽**过头**了——`[ \t]*$` 这条「行尾」分支一旦允许 `#` 前缀**可选**，
+#   就顺带命中了**另外两种**通行的圈码独占行形态：
+#     ① 裸圈码独占行 `①`（无 `#`、无 `**`）—— **76 文件 / 8 本书**
+#        （the-faerie-handmaid 22 / marilyn-and-her-books 18 / green-city-wars 17 /
+#         real-life-short-stories-2002 10 / everything-was-beautiful 6 …）；
+#     ② 粗体圈码独占行 `**①**`（无 `#`）。
+#   这两类书的**引语层写法**与本工具后续假设不兼容（例如 faerie-handmaid 一个块里
+#   放**两条**互不相干的 `> "…"` 行，`_join_quote_lines()` 会把它们拼成一段 ⇒
+#   恒报「引语跨自然段」）。它们此前根本没被解析（只报一条「未找到任何引语块」），
+#   现在被解析出来 ⇒ 每个文件凭空多 3–7 条阻断型（实测 faerie-handmaid 22 文件、
+#   green-city-wars 17 文件、everything-was-beautiful 1 文件）。
+#   ⇒ 用**负向前瞻**把两类过宽匹配排除掉，只新增**「三级标题独占一行」**这一种：
+#     排除① 「无 `#` 前缀的圈码独占行」（裸 `①` / 粗体 `**①**`）——
+#       判据 `` (?!\*{0,2}[C]\*{0,2}[ \t]*$) ``；
+#     排除② 「标题与引语同行」`### ① "…"`——全库仅 **3 本书 / 74 处**
+#       （behind-the-beautiful-forevers / language-city / the-lotus-shoes），
+#       而这三个文件**多为混排**（同文件里还有 `> **原句 N:**` 抬头）⇒ 一旦被解析，
+#       那些书**凭空多出**阻断型（lotus-shoes ch40 4→5、ch50 1→3），且按 AGENTS 第 7 条
+#       他书内容**不得由本任务改动**，只会把别人的门禁染红。
+#       故保持「不解析」的原状（其缺陷留给该书负责人），判据
+#       `` (?!#{1,6}[ \t]*\*{0,2}[C]\*{0,2}[ \t]+["\']) ``。
+#   ⇒ 最终只新增 `### ①`（圈码独占一行）这一种形态，原「圈码 + 空格 + 引号」一字不变。
+CIRC_OPT = (r'^(?!\*{0,2}[' + CIRCLED + r']\*{0,2}[ \t]*$)'
+            r'(?!#{1,6}[ \t]*\*{0,2}[' + CIRCLED + r']\*{0,2}[ \t]+["\'])'
+            r'\*{0,2}(?:#{1,6}[ \t]*)?([' + CIRCLED + r'])\*{0,2}'
+            r'(?:\s+["\']|[ \t]*$)')
 CIRC_BLOCK_RE = re.compile(CIRC_OPT, re.M)
 # 圈码是**单行**形态（引语整段写在一行，分析子项另起行）⇒ 不需要续行合并。
 # ⚠️ 计数与切块走**同一张**正则（只差有没有捕获引语体），与 BLOCK_RE / BLOCK_ITER
@@ -388,6 +437,68 @@ def _seg_para_index(seg: str, ps, pn):
     return -1
 
 
+# ⚠️ 2026-10-13 新增：单段引语路径的「跨相邻自然段连续引用」判定。
+#   见 `check()` 内 2026-10-13 注释块（Some Other Time 38 章终验实测 17 条假红）。
+#   ⚠️ 本阈值**不是**「允许的最大省略量」——`…` 按 AGENTS 第 2 条就是用来标记省略的，
+#   省略多远都合法（实测本书 ch16 ④ 的两段相隔 19 个自然段、ch16 ② 相隔 4 个）。
+#   它只是「跨度大到值得看一眼」的**提示线**：超过它降级为 ⚠️ 提示型（只记不改），
+#   不到它就是普通放行。真正的阻断判据是**逐字命中 + 保序**，不是距离。
+SPAN_CAP = 6
+
+
+def _parts_span_ok(parts, ps, pn, cap: int = SPAN_CAP):
+    """各 `…` piece 的取证结果。
+
+    返回 `(status, info)`，`status` ∈ {"ok", "wide", "bad"}：
+      - `"ok"`   —— 全部 piece 在本章 text/ 里**逐字存在且按原顺序**，跨度 ≤cap；
+      - `"wide"` —— 同上，但首 piece 起点到末 piece 终点跨 >cap 个自然段（提示型）；
+      - `"bad"`  —— 有 piece 查无，或取不到递增位置（段序颠倒）⇒ 阻断型。
+
+    与 `_seg_para_index` 的区别是把「同一个自然段」放宽为「同一段连续区域、且保序」，
+    用于「跨相邻自然段连续引用」这一本库通行写法（见 `check()` 内 2026-10-13 注释）。
+
+    ⚠️ 实现要点（第一版判据写错过一次，留作教训）：**piece 自身也可能横跨段界**——
+    md 把原文相邻两段压成一行、中间不加 `…` 时，这个 piece 在任何**单个**自然段里
+    都查无（实测本书 9 条报警里 `ch16 ②` piece0 长 569 flat 字、`ch38 ③` piece1 长 195
+    都是这种）。因此**不能**用「逐 piece 找所属自然段」的写法，必须先把自然段拼起来、
+    再看 piece 是否落在拼接串里。
+
+    做法：把全章各段的 `_flat` 首尾相接成 `ff`，记录每个 flat 字符所属自然段号
+    `para_of`；对 piece 序列做**保序贪心**——每个 piece 从上一 piece 的命中位置起往后
+    找最早出现处（`ff.find(xf, pos)`），取不到 ⇒ `"bad"`（段序颠倒 `ch30 ⑰` 重排前
+    即在此被挡住）。全部取到后看首末跨度决定 `"ok"` / `"wide"`。
+
+    ⚠️ 保序搜索的已知盲点（如实记录，不掩盖）：若同一 piece 文本在章内**别处**有更早的
+    同形出现，贪心可能选中靠前的那个，使跨度偏大（偏保守 ⇒ 最多多报一条提示型，
+    不会漏报阻断型）。要根除需 O(n²) 回溯，收益不抵成本。
+    """
+    if not parts:
+        return "bad", []
+    if not ps:
+        return "bad", []
+    fparts = [_flat(p) for p in ps]
+    ff = "".join(fparts)
+    if not ff:
+        return "bad", []
+    para_of = []
+    for i, fp in enumerate(fparts):
+        para_of.extend([i] * len(fp))
+    xfs = [_flat(x) for x in parts]
+    if any(not xf for xf in xfs):
+        return "bad", []
+    pos = 0
+    starts = []
+    for xf in xfs:
+        idx = ff.find(xf, pos)
+        if idx < 0:
+            return "bad", []
+        starts.append(para_of[idx])
+        pos = idx + len(xf)          # 非递减：下一个 piece 只能出现在其后
+    if starts[-1] - starts[0] + 1 > cap:
+        return "wide", starts
+    return "ok", starts
+
+
 def check(md: Path, book: Path):
     # ⚠️ 2026-10-03 修正（Evie ch01a/ch04a/ch11a 实测假红）：原式 `ch(\d+)` **丢掉插叙节的
     # 字母后缀** ⇒ ch01a 被取数字 1 ⇒ find_chapter_text 命中 `text/ch01_chapter_1.txt`
@@ -448,7 +559,20 @@ def check(md: Path, book: Path):
     n_yuanju = nq          # 2026-10-07：保留覆盖前的原句计数，供切块迭代器选档
     if n_circ > nq:
         nq = n_circ
-    nvocab = len(re.findall(r'^## (?:本章词汇|词汇分级|词汇表)', s, re.M))
+    # ⚠️ 2026-10-13 修正（Some Other Time 38 章实测，33 条假红）：
+    #   原式只认 `## 本章词汇` / `## 词汇分级` / `## 词汇表`，而全库另有
+    #   **`## 词汇`（92 文件 / 23 本书，含 never-let-me-go / pachinko / miss-bates /
+    #   the-lotus-shoes）** 与 `## 本篇词汇`（12 文件）两种合法通行形态 ⇒
+    #   整批报「词表节出现 0 次（应为 1）」。这是**工具的格式假设**而非内容缺陷
+    #   （AGENTS 第 3 条「假红型先修工具」）。
+    #   纯增量：原有三形态匹配一字不变。
+    # ⚠️ 2026-10-13 二次收窄（全库回归实测 6 个文件新增阻断型）：
+    #   上面那版末尾的 `\s*$` 行尾锚**也放宽过头**了——pachinko ch18 这类文件里
+    #   标题被上游脚本粘成了 `## 词汇分级## 词汇分级`（无换行），行尾锚要求
+    #   「词后直到行尾无他物」⇒ 命中 0（旧式无锚、`^` 只认行首 ⇒ 计 1，正确）
+    #   ⇒ 凭空报「词表节出现 0 次（应为 1）」。⇒ 去掉行尾锚，只保留新增的两个词。
+    nvocab = len(re.findall(
+        r'^## (?:本章词汇|词汇分级|词汇表|本篇词汇|词汇)', s, re.M))
     nsum = len(re.findall(r'^#{2,3} 一句话总结', s, re.M))
     if nq == 0:
         if n_yanqing > 0:
@@ -521,7 +645,24 @@ def check(md: Path, book: Path):
             out.append(f"{md.name}: ⚠️ 提示·短篇合集短篇目（源文本 {len(tn)} 字符"
                        f"<{ANTH_SHORT_SRC}），10 处下限不适用（现有 {nq} 块）")
         else:
-            out.append(f"{md.name}: 引语块 {nq} 个，超出{kind}配额")
+            # ⚠️ 2026-10-13 修正（AGENTS 第 3 条「假红型先修工具」；Some Other Time 38 章
+            #   终验实测）：原实现**上限也按阻断型报**，而全库实测（420 本含 ch*.md 的书）
+            #   **189 本至少有一章 >8 块**（45%），其中 150 本有 ≥3 章超限；`the-art-of-a-lie`
+            #   max=77、`guilty-until-innocent` 75、`the-capital-of-dreams` 63、`isle-of-teeth`
+            #   60、`some-other-time` 26 —— 长篇按场景切块，一场景一块是**正常**的，3–8 是
+            #   「言情**精简**格式」的配额，对长篇本就套不上。既有判例已两次定谳：
+            #   `isle-of-teeth` 46 条超配额判假红（`audit_structure` 判 0 ❌）、
+            #   `the-capital-of-dreams` 117 条判模板不匹配（该书众数 10 处/章、ch21 43 块、
+            #   ch27 63 块）。⇒ **上限降级为 ⚠️ 提示型（只记不改）**；
+            #   **下限保持阻断型**——块数过少＝分析不足，那是真缺陷，且无 45% 的普遍性
+            #   （全库 max<3 的只有 9 本）。
+            #   块结构的权威检查器是 `audit_structure.py`，不是本项。
+            if nq > hi:
+                out.append(f"{md.name}: ⚠️ 提示·引语块 {nq} 个，超出{kind}配额"
+                           f"（长篇按场景切块属常态；块结构权威见 audit_structure.py）")
+            else:
+                out.append(f"{md.name}: 引语块 {nq} 个，低于{kind}配额下限"
+                           f"（分析量不足）")
 
     # ⚠️ 2026-10-01 修正（本书 ch02 触发）：原实现用 BLOCK_RE 切块、却用 QUOTE_RE 取
     # 「编号 + 引语」，**两者口径不一致**——QUOTE_RE 要求引语被直双引号包裹，而引语行
@@ -649,6 +790,33 @@ def check(md: Path, book: Path):
                 _qflat_single = _flat(q)
                 _same_para = bool(_qflat_single) and any(
                     _qflat_single in _flat(p) for p in ps)
+            # ⚠️ 2026-10-13 新增（Some Other Time 38 章终验实测 17 条假红；AGENTS 第 3 条
+            #   「假红型先修工具」）：上面两条判据都要求**整串或全部 `…` piece 落在同一个
+            #   自然段内**，而本库通行的写法是「**跨相邻自然段的连续引用 + `…` 省略号**」——
+            #   一段对话连同中间的动作叙述被压进同一个 `> ` 行，用 `…` 标出跳过的部分。
+            #   这类引语逐字正确（`verify_quotes` 全绿、`sweep_full` 判「本章命中」或 🔶
+            #   拼接档），但按定义 piece 就分居多个自然段 ⇒ 恒报红线。
+            #   实测本书 17 条该报警：16 条每个 piece 都在本章 text/ 里逐字存在、且自然段
+            #   序号非递减（最小连续自然段窗口 ≤4）；唯一真缺陷 `ch30 ⑰` 是**段序颠倒**
+            #   （已按原文重排，重排前本判据仍照报——见下方 `_span_starts` 的非递减要求）。
+            #   ⇒ 放宽为「**piece 各自命中，且可按原顺序落进 ≤SPAN_CAP 个连续自然段**」。
+            #   负控（三档均照报，投毒实测）：
+            #     ① 凭空造句 / 词替换 ⇒ 任何 ≤SPAN_CAP 段落窗口里都查无；
+            #     ② 段序颠倒 ⇒ 贪心命中窗口起点须**非递减**（ch30 ⑰ 重排前实测照报）；
+            #     ③ 跨章搬句 ⇒ piece 在本章 text/ 里根本不存在。
+            #   ⚠️ 防「跨章/跨故事拼接」的权威通道仍是 `sweep_full` 的 🔶 档与
+            #      `check_chapter_quotes`（本书 🔶 13 条已逐条取证、跨章 0），本项是第二道；
+            #      放宽上限只到「相邻段落」这一书写单位，不改变那两道防线的口径。
+            if not _same_para and not _skip_single:
+                _span_status, _span_starts = _parts_span_ok(_parts, ps, pn)
+                if _span_status == "ok":
+                    _same_para = True
+                elif _span_status == "wide":
+                    _same_para = True
+                    out.append(f"{md.name} 原句{num}: ⚠️ 提示·跨段省略引用"
+                               f"（{len(_parts)} 段，跨自然段 "
+                               f"{_span_starts[-1] - _span_starts[0] + 1} 个；"
+                               f"各段逐字命中且保序）")
             if _skip_single or _same_para:
                 # 多段块已逐段判定通过 / 同段内含全部省略号片段 ⇒ 合法引语，放行
                 pass

@@ -300,18 +300,18 @@ status: completed
 
 ### ⑰
 
-> “Right.” Ellie stuffs a paper napkin into her empty cup. … “Probably at home, looking at some dating app for me,” he jokes. “She still lives in Westchester,” he explains. “She always said she’d eventually retire to someplace warm, but she never did.”
+> “Probably at home, looking at some dating app for me,” he jokes. “She still lives in Westchester,” he explains. “She always said she’d eventually retire to someplace warm, but she never did.” … “Right.” Ellie stuffs a paper napkin into her empty cup.
 
-**中文理解**："好。"Ellie 把一张纸巾塞进空杯子里。……"大概在家，正给我刷某个交友软件呢，"他开玩笑说。"她还住在威郡，"他解释道。"她总说自己迟早会退到暖和的地方去，可她一直没去。"
+**中文理解**："大概在家，正给我刷某个交友软件呢，"他开玩笑说。"她还住在威郡，"他解释道。"她总说自己迟早会退到暖和的地方去，可她一直没去。"……"好。"Ellie 把一张纸巾塞进空杯子里。
 
-**句子结构**：第一句为对白，第二句为动作叙述（Ellie 的沉默被外化）；省略段为直接引语，含 jokes/explains 的施动者后置；末句 but 后为省略（never did），**省略内容由前句提供**。
+**句子结构**：前三句为直接引语，说者标记 jokes / explains 以插入语形式后置；省略号为**场景压缩**，跳过 Jack 关于母亲独居北方的自述与他自己的反问（"Who knows? Moms, right?"）；末段回到 Ellie——一句极短对白加一个动作叙述，构成"回应—收束"。
 
 **关键词**：
 - **stuffs a paper napkin into her empty cup**：把纸巾塞进空杯子；这是**代替台词的沉默**：她需要做点什么来消化刚才的话
 - **looking at some dating app for me**：给我刷交友软件；这是母亲的**参与式关心**：替儿子安排
 - **She always said she would… but she never did**：她总说会…却从未；这是**承诺与实相的落差**：和全书关于"永远"的许诺形成对照
 
-**为什么这样写**：Brown 用一个丢弃纸巾的小动作替代 Ellie 的评论——她此刻只能处理**物理**。而 Jack 母亲的"总说要去暖地却没去"，是全书第一次暗示：留在原地，是一种**选择**，未必是失败。
+**为什么这样写**：Brown 用省略号把 Jack 那段略长的家常话剪到只留**最锋利的三句**，随后把镜头交回 Ellie——一个丢弃纸巾的小动作替代她的评论，她此刻只能处理**物理**。而 Jack 母亲的"总说要去暖地却没去"，是全书第一次暗示：留在原地，是一种**选择**，未必是失败。
 
 ---
 

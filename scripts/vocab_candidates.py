@@ -134,7 +134,15 @@ _ABBREV_TAIL = re.compile(r'\b[A-Za-z]\.$')
 
 
 def _merge_abbrev(parts):
-    """把以「单字母缩写点」结尾的片段与下一片段合并（a. + m. => a.m.）。"""
+    """把以「单字母缩写点」结尾的片段与下一片段合并（a. + m. => a.m.）。
+
+    ⚠️ 返回的列表**比输入短**（合并吞并了下一条），所以**不能**再拿它和
+    输入的等长 starts 列表 zip——那会把合并点之后的每个偏移**整体错位一格**。
+    实测（Some Other Time ch28）：`Thursday, 12:01 a.` + `m.` 合并后，
+    `zip(segs, starts)` 把 segs[1] 配到了 starts[1]（指向 'm.'），
+    于是 real_sentence('custodial') 返回的是**另一句** "Bunny is indeed sick."。
+    ⇒ 需要偏移时必须用 _merge_abbrev_spans()，不要用本函数的返回值配 starts。
+    """
     merged, i = [], 0
     while i < len(parts):
         cur = parts[i]
@@ -146,6 +154,23 @@ def _merge_abbrev(parts):
         merged.append(cur)
         i += 1
     return merged
+
+
+def _merge_abbrev_spans(pairs):
+    """同 _merge_abbrev，但输入/输出都带**起始偏移**：(seg, start) 列表。
+
+    合并时保留**组内第一个片段**的 start（缩写还原后该句仍从原处开始）。
+    """
+    out, i = [], 0
+    while i < len(pairs):
+        cur, st = pairs[i]
+        while (_ABBREV_TAIL.search(cur) and i + 1 < len(pairs)
+               and re.fullmatch(r'[A-Za-z]\.', pairs[i + 1][0])):
+            cur += pairs[i + 1][0]
+            i += 1
+        out.append((cur, st))
+        i += 1
+    return out
 
 
 def sentences(src):
@@ -169,9 +194,9 @@ def sentences(src):
         if s:
             raw.append((s, m.start()))
     # 合并缩写：把 a. | m. 还原成 a.m.
-    segs = _merge_abbrev([s for s, _ in raw])
-    starts = [st for _, st in raw]
-    return list(zip(segs, starts))
+    # ⚠️ 必须用**带偏移**的合并版：segs 比 raw 短，用 zip(segs, starts)
+    # 会把合并点之后的偏移整体错位（实测 ch28 custodial 取到别的句子）。
+    return _merge_abbrev_spans(raw)
 
 
 def pick_sentence(sents, pos, src, maxlen=140):
