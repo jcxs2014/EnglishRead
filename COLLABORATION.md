@@ -60,6 +60,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-13 13:47 UTC] [ZCode-Mac] → All
+
+**《The Snowbirds》(Christina Clancy) 精读完工 + 五步审查整改**（`the-snowbirds-by-christina-clancy` · novels｜完整 lane，有 epub）
+
+- 产出：41 个精读 md（含审查补回的 Chapter Thirty-Seven）+ 总览三篇；完工 commit **4364f92bc**（40 章版）→ 审查整改 commit **01fe4487c**
+- **审查头号发现（阻断型·结构）**：`extract_chapters.py` 默认 `--min-len 600` 把仅 ~272 字符的 Chapter Thirty-Seven 静默跳过 ⇒ 全书 40→41 章重编号（text/、md、总览交叉引用），其余门禁当时「全绿」正是假象
+- **词汇层**：check_vocab FAIL 21→0（A 类换真实词、例句逐字化、28 处悬空「原句 N」引用改「本章」）
+- **d 步语义整改 ~30 处**：说话人/事实颠倒（Brady 父亲化、F-117 越战化、Melody 的车「死后买」、ch36 思乡反转、ch40 习语次序）· 引语截短 8 处（扩引语覆盖分析）· 虚构桥段（电子游戏对话、「第二次出现」）· 中文层英文残留（очередной、camp/constant、appealing）
+- **整改后全量重跑**：`gate.sh` **EXIT=0（0 阻断）** · verify **330/330** · 逐章归属 **41/41** · 总览 **17/17** + 行内引语补验 **18/18**（⑭ 只认 `>` 行的盲区）· corruption 0 · entities 0
+- 提示型（只记不改）：check_vocab WARN 10（9 条 Tropes 表启发式 + 1 基础档长词）· check_anchor 松散 2（中文理解句里「是关键词：」撞裸标签口径）· ⑮ ch10/ch33 同句歧义（人读确认 ch33 标注正确）· ⑩ 分析层 11 跨章 + 18 拼接（省略号压缩引用/结构记号）
+- **同会话审查已知盲区**：d 步为同实例复核（非独立第三方）；说话人类机械层不可靠，本轮说话人颠倒靠人判抓出
+- 门禁原件：`.memory/raw-gates/the-snowbirds-by-christina-clancy/`；明细：`.memory/daily/2026-10-13.md` 本书专节
+
 ### [2026-10-13 15:00 UTC] [Opencode-Mac] → All
 
 **《Something Followed Us Home: Tales of Latiné Horror》(Cynthia Pelayo 编) 完工** —— 短篇合集（导言 + 17 篇 = 18 章）
@@ -84,7 +97,7 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 - 产出：38 个精读 md + `00_概述.md`/`00_金句精选.md`/`00_情感节点.md`；`text/` 38 件
 - **完工门禁**：`bash scripts/gate.sh` ⇒ 0 条阻断型／exit 0；① verify_quotes **120/120（100%）**、干净 35/35；⑤ ✅本章 100／⚠️跨章 0／🔶13／❌查无 0；② 词条 545／FAIL 0；③ 0；④ FAIL 0；⑦ 逐章归属全 X/X；⑪ ❌0/⚠️5/🔀0；⑭ 总览引文 7/7；⑰ ✅；⑱ 阻断 0／提示 12
-- **五步审查（用户 m08636 发起，a–e 全跑）**：a 门禁全部重跑（未采信旧数字）；b 38 章逐章归属 38/38；c 三种实现交叉（audit_structure ❌0 ‖ check_struct_indep 161 条判**格式假设假红** + 自写第三实现确认四节/四子项齐全）；d 六子代理逐块语义二审（ch01–ch38 全覆盖）；e 总览三篇逐句 + 章节标签对账
+- **五步审查（2026-10-13，用户 m08636 发起，a–e 全跑）**：a 门禁全部重跑（未采信旧数字）；b 38 章逐章归属 38/38；c 三种实现交叉（audit_structure ❌0 ‖ check_struct_indep 161 条判**格式假设假红** + 自写第三实现确认四节/四子项齐全）；d 六子代理逐块语义二审（ch01–ch38 全覆盖）；e 总览三篇逐句 + 章节标签对账
 - **查出并整改 53 条缺陷**（逐条附原文取证，见 `.memory/daily/2026-10-13.md` 审查节）：
   - **导语层 11 条**（各 md 第 11 行 `>` 块引言）—— 门禁结构盲区（`check_nav_layer` 只扫 `## 本章导航`/`## 一句话总结`，第 11 行在导航节**之前**）：ch32/33/34、ch36、ch38、ch02、ch04–ch06、ch17 的杜撰剧情（ch32 全章无 `Frank`；ch34 接机人原文无名；ch38 「买下」误作「要买下」、跨章对比说反）
   - **伪引语 7 条**（全书查无）：ch02/ch04/ch08/ch16/ch27/ch37/ch26
