@@ -6,13 +6,12 @@ source_text: text/ch10_chapter_10.txt
 
 # Chapter 10（精读分析）
 
-**导航**
-1. Lina 带着上周六的余波情绪上班，心神不宁
-2. 公司早餐会上，Jeff 宣布 Aaron 晋升为 Solutions Division 主管
-3. Lina 意识到 Aaron 将成为她的上司，宣布"交易作废"
-4. Aaron 拒绝接受 Lina 的单方面解约，坚持要去西班牙参加婚礼
-5. Lina 以"当朋友是留给朋友的待遇"拒绝透露真实原因，两人关系再度陷入僵局
-
+## 本章导航
+- **视角**：第一人称女主 Lina
+- **地点**：InTech 公司会议室/办公室
+- **核心事件**：Jeff 宣布 Aaron 晋升为 Solutions Division 主管，Lina 宣布"交易作废"，Aaron 拒绝解约
+- **关系起点**：从暧昧到对立——Aaron 将成为 Lina 上司，两人的协议关系面临职场伦理挑战
+- **悬念钩子**：Aaron 为什么拒绝解约？职场恋情曝光会带来什么后果？
 ---
 
 ## 引语块
@@ -23,7 +22,7 @@ source_text: text/ch10_chapter_10.txt
 
 **句子结构**：动名词短语作主语（Being your friend）+ has been + the last thing on my mind（表语），简单过去时但用现在完成时态表达持续影响。
 
-**关键词**：the last thing on my mind 我最不会考虑的事；replay 重演，反复出现；haunt 缠绕。
+**关键词**：the last thing on my mind, replay, haunt
 
 **表达方式**：引用记忆中的原话（斜体暗示 Lina 的内心回放）——在叙事中嵌入直接引语，制造出那句话在 Lina 脑海中挥之不去的效果。
 
@@ -37,7 +36,7 @@ source_text: text/ch10_chapter_10.txt
 
 **句子结构**：I tried to appease + the whirlwind of unwelcome memories（名词短语作宾语）。
 
-**关键词**：whirlwind 旋风，一连串；unwelcome memories 不请自来的记忆；appease 平息，安抚。
+**关键词**：whirlwind, unwelcome memories, appease
 
 **表达方式**：用具象化意象（whirlwind 旋风）比喻抽象情绪（记忆的侵袭）——Lina 对 Aaron 的情感在她心中形成失控的漩涡，她无力阻止。
 
@@ -51,7 +50,7 @@ source_text: text/ch10_chapter_10.txt
 
 **句子结构**：简单将来时陈述句，五个核心名词直接连缀，无任何修饰语。
 
-**关键词**：my boss 我的上司——"my"是所有格，强调 Aaron 与她的工作关系将发生质变。
+**关键词**：my boss
 
 **表达方式**：极简独立句 + 全大写暗示 Lina 的内心震惊——这是 Lina 思维崩溃时刻的碎片化表达，与叙事中其他流畅的长句形成鲜明对比。
 
@@ -65,7 +64,7 @@ source_text: text/ch10_chapter_10.txt
 
 **句子结构**：I would not play charades with + the man（省略 who/that 的定语从句）... divisions（of 短语作的后置定语）。
 
-**关键词**：play charades 玩猜字游戏（喻：指鹿为马的假装）；the man who was to be promoted 将被晋升的人；head of my division 我部门的主管。
+**关键词**：play charades, the man who was to be promoted, head of my division
 
 **表达方式**："charades"（猜字游戏）是关键词——Lina 用这个词来定义她与 Aaron 的"假约会"，暗示她认为整个交易是一场荒谬的表演，而晋升消息让这场表演变得更加危险。
 
@@ -79,7 +78,7 @@ source_text: text/ch10_chapter_10.txt
 
 **句子结构**：I had expected + 不定式（to feel...）+ but + that was not what happened（that 指代前文期望的结果）。
 
-**关键词**：a big weight lift off my shoulders 如释重负；that was not what happened 事实并非如此。
+**关键词**：a big weight lift off my shoulders, that was not what happened
 
 **表达方式**：期待与现实的对比（expected...but...）——Lina 以为解约会带来解脱，结果反而更加难受，暴露了她对自己真实感受的误判。
 
@@ -93,7 +92,7 @@ source_text: text/ch10_chapter_10.txt
 
 **句子结构**：I can take you（主句）+ if that's what you want（if 条件句）。
 
-**关键词**：take you 带你去（陪伴意味强于字面意义）；if that's what you want 如果那是你想要的——Aaron 把选择权交给 Lina，但语气中带着期待。
+**关键词**：take you, if that's what you want
 
 **表达方式**：条件句 + 直接承诺——Aaron 的表达方式非常含蓄，但"I can take you"已经超出"交易"的范畴，是他在主动创造与 Lina 共度时光的理由。
 
@@ -107,7 +106,7 @@ source_text: text/ch10_chapter_10.txt
 
 **句子结构**：Have you found someone else?（一般疑问句）+ Is that what this is?（反义疑问句）。
 
-**关键词**：someone else 别人；Is that what this is? 这就是这个（解约）的理由吗？
+**关键词**：someone else, Is that what this is
 
 **表达方式**：连续两个问句——Aaron 罕见地表现出不安与嫉妒，暴露了他对 Lina 的情感已经超出了"合约"范畴。
 
@@ -121,7 +120,7 @@ source_text: text/ch10_chapter_10.txt
 
 **句子结构**：I understand + you being wary（动名词复合结构作宾语）+ now that the news is out（now that 原因状语从句）。
 
-**关键词**：wary 谨慎的，警觉的；now that 既然，由于；the news is out 消息已经公布——指晋升消息。
+**关键词**：wary, now that, the news is out
 
 **表达方式**：理性说服 + 情感保留——Aaron 表面上在分析局势，实际上是在说"我可以配合你解决问题，请不要直接退出"。
 
@@ -131,50 +130,77 @@ source_text: text/ch10_chapter_10.txt
 
 ## 词汇表
 
-### 高级（⭐⭐⭐）
+**高级词汇**（⭐⭐⭐）
 
-| 词汇 | 音标 | 词性 | 中文释义 | 例句 |
-|------|------|------|----------|------|
-| upheaval | /ʌpˈhiːvəl/ | n. | 剧变，动荡 | The news caused an **upheaval** in her carefully arranged emotions. |
-| relinquish | /rɪˈlɪŋkwɪʃ/ | v. | 放弃，交出 | She was not ready to **relinquish** control of the situation. |
-| betray | /bɪˈtreɪ/ | v. | 背叛，泄露 | Her voice **betrayed** more than she intended. |
-| vulnerable | /ˈvʌlnərəbəl/ | adj. | 脆弱的，易受伤的 | She felt **vulnerable** under his searching gaze. |
-| apprehend | /ˌæprɪˈhend/ | v. | 理解，领会；逮捕 | She couldn't **apprehend** why she felt so dejected. |
-| resign | /rɪˈzaɪn/ | v. | 辞职；顺从 | He seemed **resigned** to the situation. |
-| reckon | /ˈrekən/ | v. | 认为，想 | She **reckoned** with the consequences of her decision. |
-| grapple | /ˈɡræpəl/ | v. | 努力解决，搏斗 | She **grappled** with conflicting emotions all morning. |
-| falter | /ˈfɔːltər/ | v. | 动摇，踉跄 | Her determination began to **falter** under his gaze. |
-| betray | /bɪˈtreɪ/ | v. | 流露，泄露 | Her expression **betrayed** her inner turmoil. |
+1. `announce` /əˈnaʊns/ v. — 宣布，公布
+   - 例句：I am pleased to announce that Aaron Blackford will be promoted to head of the Solutions Division of InTech.
 
-### 进阶（⭐⭐）
+2. `promotion` /prəˈmoʊʃn/ n. — 晋升，升职
+   - 例句：Aaron has been one of the most consistent and efficient members I have ever had the pleasure to oversee.
 
-| 词汇 | 音标 | 词性 | 中文释义 | 例句 |
-|------|------|------|----------|------|
-| announce | /əˈnaʊns/ | v. | 宣布，公布 | Jeff **announced** Aaron's promotion at the meeting. |
-| promotion | /prəˈmoʊʃən/ | n. | 晋升，升职 | Her colleague received a **promotion** she didn't expect. |
-| subordinate | /səˈbɔːrdɪnət/ | n. | 下属 | She would become his **subordinate** officially. |
-| conference | /ˈkɑːnfərəns/ | n. | 会议 | The monthly **conference** room was packed. |
-| awkward | /ˈɔːkwərd/ | adj. | 尴尬的 | The silence between them grew **awkward**. |
-| linger | /ˈlɪŋɡər/ | v. | 徘徊，逗留 | The tension **lingered** long after he left the room. |
-| conflict | /ˈkɑːnflɪkt/ | n. | 冲突，矛盾 | She felt an inner **conflict** between duty and desire. |
-| release | /rɪˈliːs/ | v. | 释放，解除 | She tried to **release** him from the deal. |
-| pursue | /pərˈsuː/ | v. | 追求，追寻 | He seemed determined to **pursue** the matter. |
-| solidify | /səˈlɪdɪfaɪ/ | v. | 固化，使定型 | A resolution **solidified** in her mind. |
+3. `reorganization` /ˌriːɔːrɡənaɪˈzeɪʃn/ n. — 重组，改组
+   - 例句：We are undergoing some important changes in the structure of InTech. A rearrangement of the responsibilities will take place.
 
-### 基础（⭐）
+4. `advisory` /ədˈvaɪzəri/ adj. — 咨询的，顾问的
+   - 例句：It hasn't been decided when he'll take over all my responsibilities while I undertake a more advisory role for InTech.
 
-| 词汇 | 音标 | 词性 | 中文释义 | 例句 |
-|------|------|------|----------|------|
-| boss | /bɔːs/ | n. | 老板，上司 | Aaron would become her new **boss**. |
-| promotion | /prəˈmoʊʃən/ | n. | 晋升 | She was happy about his **promotion** despite everything. |
-| office | /ˈɔːfɪs/ | n. | 办公室 | She entered his **office** after the meeting. |
-| meet | /miːt/ | v. | 遇见，见面 | They needed to **meet** and talk. |
-| leave | /liːv/ | v. | 离开 | He **left** her standing in the middle of his office. |
-| quiet | /ˈkwaɪət/ | adj. | 安静的 | The **quiet** of the room felt oppressive. |
-| talk | /tɔːk/ | v. | 说话，谈话 | They needed to **talk** about what had happened. |
-| understand | /ˌʌndərˈstænd/ | v. | 理解 | He said he **understood** her concerns. |
-| sorry | /ˈsɑːri/ | adj. | 抱歉的，难过的 | She felt **sorry** for the way things had turned out. |
-| decide | /dɪˈsaɪd/ | v. | 决定 | She couldn't **decide** what the right move was. |
+5. `corporate` /ˈkɔːrpərət/ adj. — 公司的，企业的
+   - 例句：Before any of it is officially released in a corporate statement.
+
+6. `repercussion` /ˌriːpərˈkʌʃn/ n. — 反响，影响
+   - 例句：Everything will have a repercussion on the structure of the company as we know it today.
+
+**进阶词汇**（⭐⭐）
+
+1. `conference` /ˈkɑːnfərəns/ n. — 会议
+   - 例句：The screen that hung from one of the conference room walls showed an organizational chart.
+
+2. `oversee` /ˌoʊvərˈsiː/ v. — 监督，监管
+   - 例句：Aaron has been one of the most consistent and efficient members I have ever had the pleasure to oversee.
+
+3. `clasped` /klæspt/ v. — 握紧，攥紧
+   - 例句：Our boss clasped his hands together, my gaze bouncing between him and the screen.
+
+4. `release` /rɪˈliːs/ v. — 释放，发布
+   - 例句：But no one really knew what was about to come.
+
+5. `hesitate` /ˈhezɪteɪt/ v. — 犹豫，踌躇
+   - 例句：The man who was all gray hair and natural charm, seemed to hesitate for a moment.
+
+6. `wary` /ˈweəri/ adj. — 谨慎的，警觉的
+   - 例句：I understand you being wary now that the news is out.
+
+7. `patient` /ˈpeɪʃnt/ adj. — 耐心的
+   - 例句：But I'm patient.
+
+8. `sidetrack` /ˈsaɪdtræk/ v. — 使分心，使转移注意力
+   - 例句：My whole day has been sidetracked by the news.
+
+**基础词汇**（⭐）
+
+1. `boss` /bɔːs/ n. — 老板，上司
+   - 例句：Jeff, our boss and head of the Solutions Division of the company.
+
+2. `office` /ˈɔːfɪs/ n. — 办公室
+   - 例句：And with every step I took in my office's direction, the sensation kept intensifying.
+
+3. `meet` /miːt/ v. — 遇见，见面
+   - 例句：It was just a meeting that took place once a month.
+
+4. `leave` /liːv/ v. — 离开
+   - 例句：Mamá had taught me better than to leave things hanging over my head.
+
+5. `talk` /tɔːk/ v. — 说话，谈话
+   - 例句：But of course, Aaron wouldn't let anything go without a fight.
+
+6. `understand` /ˌʌndərˈstænd/ v. — 理解
+   - 例句：I shook my head, feeling light-headed and depleted. "It's just not necessary anymore."
+
+7. `sorry` /ˈsɑːri/ adj. — 抱歉的
+   - 例句："Sorry," I mumbled as he reappeared in front of me.
+
+8. `decide` /dɪˈsaɪd/ v. — 决定
+   - 例句：It hasn't been decided when he'll take over all my responsibilities.
 
 ---
 

@@ -6,7 +6,7 @@ source_text: "text/ch06_chapter_6.txt"
 
 # Chapter 6（精读分析）
 
-**导航**
+## 导航
 - **视角**：第一人称女主Lina（Aaron称她Catalina）
 - **地点**：Lina的Brooklyn小公寓（Bed-Stuy）
 - **核心事件**：Lina为晚上的慈善活动不知穿什么，给Aaron发邮件询问，Aaron提前一小时出现在她家门口，两人产生紧张火花
@@ -15,7 +15,7 @@ source_text: "text/ch06_chapter_6.txt"
 
 ---
 
-**引语块 1**
+### 引语块 1
 > "Me he vuelto loca. He perdido la maldita cabeza."
 
 **中文理解**："我疯了。我完全丧失了理智。"
@@ -32,7 +32,7 @@ source_text: "text/ch06_chapter_6.txt"
 
 ---
 
-**引语块 2**
+### 引语块 2
 > "Stupidly punctual man," I muttered under my breath as I stomped toward my apartment door. "Always on time."
 
 **中文理解**："准时得过分的人，"我小声嘟囔着，跺着脚走向公寓门。"永远那么准时。"
@@ -50,7 +50,7 @@ source_text: "text/ch06_chapter_6.txt"
 
 ---
 
-**引语块 3**
+### 引语块 3
 > Before me was a man I had never seen before. A version of Aaron that was different from the only one I knew.
 
 **中文理解**：站在我面前的是一个我从未见过的人。一个与我所认识的Aaron完全不同的Aaron版本。
@@ -68,7 +68,7 @@ source_text: "text/ch06_chapter_6.txt"
 
 ---
 
-**引语块 4**
+### 引语块 4
 > "Velour?" And that's a deep knowledge in fabrics for someone whose wardrobe is made of two different pieces of clothing."
 
 **中文理解**："绒布？你对面料倒是挺有研究啊，你的衣柜可是只有两件衣服的人。"
@@ -86,7 +86,7 @@ source_text: "text/ch06_chapter_6.txt"
 
 ---
 
-**引语块 5**
+### 引语块 5
 > "I won't go back on my word. I never do."
 
 **中文理解**："我不会食言。我从不食言。"
@@ -103,7 +103,7 @@ source_text: "text/ch06_chapter_6.txt"
 
 ---
 
-**引语块 6**
+### 引语块 6
 > His blue eyes searched my face very slowly. Almost painfully so. So much that my breathing didn't get a chance to go back to normal and scattered all over the place.
 
 **中文理解**：他那双蓝色的眼睛非常缓慢地审视着我的脸。几乎到了痛苦的程度。我的呼吸完全没有机会恢复正常，完全乱了节奏。
@@ -121,7 +121,7 @@ source_text: "text/ch06_chapter_6.txt"
 
 ---
 
-**引语块 7**
+### 引语块 7
 > "I kind of need you, you know?"
 
 **中文理解**："我有点需要你，你知道吗？"
@@ -138,7 +138,7 @@ source_text: "text/ch06_chapter_6.txt"
 
 ---
 
-**引语块 8**
+### 引语块 8
 > "It's a charity event. A fundraiser that takes place every year."
 
 **中文理解**："这是一个慈善活动。一个每年举办的募捐活动。"
@@ -156,92 +156,88 @@ source_text: "text/ch06_chapter_6.txt"
 
 ---
 
-**词汇表**
+## 本章词汇
 
-**高级词汇**（⭐⭐⭐）
+### ⭐⭐⭐ 高级词汇
 
-1. `punctuallity` n. 准时（由punctual派生）
-   - 例句："Stupidly punctual man," I muttered under my breath as I stomped toward my apartment door.
-
-2. `scrutinize` v. 仔细检查、审视
-   - 例句：His blue eyes searched my face very slowly. Almost painfully so.
-
-3. `irritation` n. 恼怒、烦躁
-   - 例句：I was irritated—at myself yes, but also at him.
-
-4. `composure` n. 镇定、冷静
+1. `composure` /kəmˈpoʊʒər/ n. — 镇定，冷静
    - 例句：He closed his eyes very briefly, inhaling through his nose, regaining his composure.
 
-5. `exposed` adj. 暴露的、无防备的
+2. `exposed` /ɪkˈspoʊzd/ adj. — 暴露的，无防备的
    - 例句：Feeling exposed by my admission, I averted my eyes.
 
-6. `overwhelm` v. 压倒、淹没
+3. `overwhelm` /ˌoʊvərˈwelm/ v. — 使压倒，使难以承受
    - 例句：This Aaron was elegant. Classy. Sleek. Attractive in an overwhelming ladies and gents.
 
-7. `dwarf` v. 使显得矮小
+4. `dwarf` /dwɔːrf/ v. — 使显得矮小，使相形见绌
    - 例句：He was hovering somewhere close to the velvety blue sofa, dwarfing it.
 
-8. `deteriorate` v. 恶化、退化
+5. `deteriorate` /dɪˈtɪriəreɪt/ v. — 恶化，变坏
    - 例句：…and my frustration had only increased.
 
-**进阶词汇**（⭐⭐）
+6. `irritation` /ˌɪrɪˈteɪʃn/ n. — 恼怒，烦躁
+   - 例句：I was irritated—at myself yes, but also at him.
 
-1. `wardrobe` n. 衣柜、全部服装
+7. `scrutinize` /ˈskruːtənaɪz/ v. — 仔细检查，审视
+   - 例句：His blue eyes searched my face very slowly. Almost painfully so.
+
+8. `admission` /ədˈmɪʃn/ n. — 承认，坦白
+   - 例句：Feeling exposed by my admission, I averted my eyes.
+
+### ⭐⭐ 进阶词汇
+
+1. `wardrobe` /ˈwɔːrdoʊb/ n. — 衣柜，全部服装
    - 例句：…someone whose wardrobe is made of two different pieces of clothing.
 
-2. `frantically` adv. 疯狂地、狂乱地
-   - 例句：…I put myself to work frantically.
+2. `frantically` /ˈfræntɪkli/ adv. — 疯狂地，狂乱地
+   - 例句：I put myself to work frantically.
 
-3. `presentable` adj. 像样的、见得了人的
+3. `presentable` /prɪˈzentəbl/ adj. — 像样的，见得了人的
    - 例句：…to leave the apartment presentable enough.
 
-4. `chic` adj/n. 时髦的、时尚
+4. `chic` /ʃiːk/ adj. — 时髦的，时尚的
    - 例句：She is stylish and chic.
 
-5. `ammunition` n. 弹药、把柄
-   - 例句：I wouldn't hear the end of it. I'd rather choke on another cookie than give him ammunition against me.
+5. `ammunition` /ˌæmjəˈnɪʃn/ n. — 弹药，把柄
+   - 例句：I'd rather choke on another cookie than give him ammunition against me.
 
-6. `hostile` adj. 敌对的、有敌意的
+6. `hostile` /ˈhɒstaɪl/ adj. — 敌对的，有敌意的
    - 例句：…and a few hostile emojis to make myself clear.
 
-7. `disclosure` n. 揭露、公开
+7. `disclosure` /dɪsˈkloʊʒər/ n. — 揭露，公开
    - 例句：…waiting for you to disclose the details of our upcoming meeting.
 
-8. `intrigued` adj. 感兴趣的、好奇的
+8. `intrigued` /ɪnˈtriːɡd/ adj. — 感兴趣的，好奇的
    - 例句：His gaze went up and down my body with doubt, finally settling back on my face.
 
-**基础词汇**（⭐）
+### ⭐ 基础词汇
 
-1. `email` n/v. 电子邮件
-   - 例句：Once settled in the padded cushions, I logged in to my corporate email account.
+1. `email` /ˈiːmeɪl/ n/v. — 电子邮件
+   - 例句：I logged in to my corporate email account.
 
-2. `reply` v. 回复
-   - 例句：By the fifth, little drops of sweat…started forming in the back of my neck. What if he didn't reply?
+2. `reply` /rɪˈplaɪ/ v. — 回复
+   - 例句：What if he didn't reply?
 
-3. `rush` v. 仓促、赶
+3. `rush` /rʌʃ/ v. — 仓促，忙乱
    - 例句：I rushed into them. Reason why I'd somehow managed to weave my existence into knots.
 
-4. `pile` n/v. 堆、堆积
+4. `pile` /paɪl/ n/v. — 堆，堆积
    - 例句：Throwing my phone on top of a discarded pile of garments.
 
-5. `foam` n. 泡沫
+5. `foam` /foʊm/ n. — 泡沫
    - 例句：The fluffy pink one because I needed all the comfort I could get.
 
-6. `bun` n. 发髻
+6. `bun` /bʌn/ n. — 发髻
    - 例句：Fixing the messy bun atop my head, I tried to cool off.
 
-7. `strap` n. 带子
+7. `strap` /stræp/ n. — 带子
    - 例句：I slipped the strap of my heel.
 
-8. `heel` n. 鞋跟
-   - 例句：I lifted it to the toilet seat. Meticulously, I worked on the strap.
-
-9. `polished` adj. 抛光的、擦亮的
-   - 例句：…and his polished shoes.
-
-10. `fancy` adj. 花哨的、讲究的
-    - 例句：Park Avenue. No, no, no, no. That sounded fancy.
+8. `heel` /hiːl/ n. — 鞋跟
+   - 例句：Meticulously, I worked on the strap.
 
 ---
 
-**一句话总结**：Aaron穿着无尾晚礼服提前出现打破Lina的认知框架，两人在她的小公寓里经历了从对抗到微妙吸引力的转变，慈善活动的细节开始浮出水面。
+## 一句话总结
+
+Aaron穿着无尾晚礼服提前出现打破Lina的认知框架，两人在她的小公寓里经历了从对抗到微妙吸引力的转变，慈善活动的细节开始浮出水面。

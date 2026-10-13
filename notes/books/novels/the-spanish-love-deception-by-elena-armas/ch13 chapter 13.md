@@ -7,12 +7,11 @@ source_text: "text/ch13_chapter_13.txt"
 # Chapter 13（精读分析）
 
 ## 本章导航
-
-1. **核心事件**：Lina 提前到达机场，担心 Aaron 不会来，最终他如约出现。
-2. **关键转折**：Lina 因为 Aaron 迟到（实际是她到得太早）而恐慌，冲上去拥抱他——这是她第一次主动肢体接触。
-3. **本章高光**：Aaron 穿着休闲（白 T 恤、牛仔裤、运动鞋），一反常态的 casual 造型让 Lina 重新审视他。
-4. **悬念铺垫**：Lina 在机场回想起之前 Google 到的 Aaron 足球生涯报道，对他为何突然退役产生好奇。
-5. **情感走向**：两人正式启程前往西班牙，Lina 开始接受 Aaron 会陪她面对家人的事实。
+- **视角**：第一人称女主 Lina
+- **地点**：纽约机场
+- **核心事件**：Lina 提前到机场担心 Aaron 不来，Aaron 如约出现后 Lina 第一次主动拥抱他
+- **关系起点**：从犹豫到主动——两人正式启程前往西班牙，Lina 开始接受 Aaron
+- **悬念钩子**：Aaron 为什么突然退役？他在西班牙会面临什么？
 
 ## 精读
 
@@ -193,40 +192,57 @@ Aaron 用"croaked"来表示他的 shock level——这不是普通的疑问，�
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **reciprocate** | /rɪˈsɪprəkeɪt/ | 回报；回应 | His chest wasn't moving much either. It felt a lot like hugging a marble sculpture. |
-| **reconciliation** | /ˌrekənsɪliˈeɪʃən/ | 和解；调停 | Because for better or for worse, I was hugging Aaron. |
-| **propinquity** | /prəˈpɪŋkwəti/ | 亲近；接近 | "Are you done with that?" he asked, forcing my gaze to return to his face. |
-| **ameliorate** | /əˈmiːliəreɪt/ | 改善 | "I've never been scared to work for something, Catalina." |
-| **exacerbate** | /ɪɡˈzæsərbeɪt/ | 恶化 | My blood dipped to my feet, reminding me of earlier, when I had almost fainted. |
-| **palpable** | /ˈpælpəbl/ | 可感知的；明显的 | I felt one of my eyes flutter open. |
-| **oblivious** | /əˈblɪviəs/ | 未察觉的 | "Are those tennis shoes on his feet?" I asked myself. |
-| **incredulous** | /ɪnˈkredjʊləs/ | 怀疑的 | He tilted his head. "Are you o—" |
 
 ### 进阶词汇（Intermediate）8词
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **bunch** | /bʌntʃ/ | 聚集；绷紧 | "Of course. You have to be stubborn on top of ridiculous," he muttered. |
-| **wobbly** | /ˈwɒbli/ | 摇晃的 | I couldn't stop my mouth from finally shaping into what I knew was a wobbly smile. |
-| **sigh** | /saɪf/ | 叹息 | Sighing, I accepted the help. "Thank you, Blackford." |
-| **scowl** | /skaʊl/ | 皱眉 | "Six pairs of shoes?" Aaron croaked, scowling even harder. |
-| **grunt** | /ɡrʌnt/ | 咕哝声 | A grunt reached my ears. "Six pairs of shoes," the scowling man muttered. |
-| **whirl** | /wɜːrl/ | 旋转；急转身 | My eyes widened with a realization. |
-| **huff** | /hʌf/ | 喷气；喘气 | "Jesus, Catalina," he huffed, looking back at me. |
-| **croak** | /kroʊk/ | 嘶哑地说 | "Six pairs of shoes?" Aaron croaked. |
+|**bunch**|/bʌntʃ/|聚集；绷紧|That same part got a little louder when my eyes trailed up, catching how his biceps, which I knew had carried a brown melonlike leather ball across that very same field, were bunched as his arm held the weight of my bag.|
+|**wobbly**|/ˈwɒbli/|摇晃的|Turning very slowly, I couldn’t stop my mouth from finally shaping into what I knew was a wobbly smile.|
+|**sigh**|/saɪf/|叹息|Sighing, I accepted the help. “Thank you, Blackford.|
+|**scowl**|/skaʊl/|皱眉|Stop luggage-shaming me,” I said to the scowling man walking beside me. “I had to fit loads of stuff.|
+|**grunt**|/ɡrʌnt/|咕哝声|And I hope you have enough clothes in that tiny suitcase you are carrying.”
+
+
+“Ridiculous,” he murmured. “You are a ridiculous woman.”
+
+
+“We’ll see who’s the ridiculous one when something accidentally happens to your shirt, tie, or suit, and you have to wear one of my dresses to the wedding.”
+
+
+A grunt reached my ears. “Six pairs of shoes,” the scowling man in casual wear muttered. “Ridiculous woman packing her own weight in clothes.” He went on, almost too low for me to make out.
+
+
+“If it’s too heavy for you, you can give it back.|
+|**huff**|/hʌf/|喷气；喘气|The physical relief was so immediate that I had to stop myself from moaning in response.
+
+
+“Jesus, Catalina,” he huffed, looking back at me, horrified. “What are you carrying in here?|
+|**croak**|/kroʊk/|嘶哑地说|Makeup, accessories, hair dryer, hair straightener, my good conditioner, lotion, all the dresses I’m taking, six pairs of shoes-”
+
+
+“Six pairs of shoes?” Aaron croaked, scowling even harder.
+
+
+“Yes,” I answered quickly, my gaze hunting for the right check-in counter. “One for each of the three different outfits I need, plus the pertinent three backups.” I paused, thinking of something. “Please tell me you packed at least one backup.”
+
+
+Aaron rearranged my bag on his shoulder, shaking his head at the same time. “No, I didn’t.|
 
 ### 基础词汇（Basic）8词
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **suitcase** | /ˈsuːtkeɪs/ | 行李箱 | My gaze landed on the suitcase and the weekender bag pooled at my feet. |
-| **plane** | /pleɪn/ | 飞机 | "We are doing this. We are really doing it, and we have to ace it." |
-| **airport** | /ˈeərpɔːrt/ | 机场 | "I am on my own," I said, standing in the middle of the Departures terminal. |
-| **backpack** | /ˈbækæk/ | 背包 | "Jesus, Catalina," he huffed, looking back at me, horrified. |
-| **hug** | /hʌɡ/ | 拥抱 | "You thought I wasn't coming." He hadn't been returning the embrace. |
-| **smile** | /smaɪl/ | 微笑 | I couldn't stop my mouth from finally shaping into what I knew was a wobbly smile. |
-| **bag** | /bæɡ/ | 袋子 | "Thank you for doing it earlier, but I got it under control." |
-| **clothes** | /kloʊðz/ | 衣服 | "I just didn't know you owned normal clothes." |
+|**suitcase**|/ˈsuːtkeɪs/|行李箱|My eyes landed on the suitcase and the weekender bag pooled at my feet as I tried really hard to shove away the way I was feeling.|
+|**plane**|/pleɪn/|飞机|The last thing I wanted to do was board that plane alone, but I would do it.|
+|**smile**|/smaɪl/|微笑|Turning very slowly, I couldn’t stop my mouth from finally shaping into what I knew was a wobbly smile.|
+|**clothes**|/kloʊðz/|衣服|Because I’d like to get going.”
+
+
+Busted. “Yep,” I squared my shoulders. “Done with that too.” I reached for the handle of my carry-on suitcase. “I just didn’t know you owned normal clothes.”
+
+
+Aaron cocked a brow.|
 
 ## 一句话总结
 

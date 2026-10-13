@@ -6,13 +6,12 @@ source_text: "text/ch23_chapter_23.txt"
 
 # Chapter 23（精读分析）
 
-## 导航
-
-1. **情节概览**：Lina 与 Aaron 终于在私密空间确认感情，从婚礼舞会回到公寓后，Aaron 为 Lina 脱下高跟鞋、卸下心防，两人经历从温柔前戏到激烈亲密的全过程，结尾以 "corazón"（心脏）这一四字母单词收尾，暗示情感升华。
-2. **核心冲突**：外部的 fake relationship 表演已结束，内部真实情感却刚刚觉醒——Lina 在 "四字母单词"（暗指 love）前退缩，暗示前段感情创伤（Daniel）仍是阴影。
-3. **POV**：第一人称女主 Lina，情感层次从"感官觉醒"到"情感确认"，心理描写细腻。
-4. **本章地位**：全书亲密场景的转折点——从感官层面进入情感层面，为后续冲突（职场恋情曝光）埋下伏笔。
-5. **关键词句**：*"This is as real as it gets."* / *"Corazón"* / *"I'll earn my four-letter word."*
+## 本章导航
+- **视角**：第一人称女主 Lina
+- **地点**：婚礼宴会厅 → Lina 公寓
+- **核心事件**：Lina 与 Aaron 从婚礼舞会回到公寓，在私密空间确认感情，两人经历从温柔前戏到激烈亲密的全过程
+- **关系起点**：从 fake dating 到真实情感的转折点——"This is as real as it gets"
+- **悬念钩子**：Lina 在 "corazón"（心脏/四字母单词暗指 love）前退缩，暗示前段感情创伤仍是阴影
 
 ---
 
@@ -93,7 +92,7 @@ source_text: "text/ch23_chapter_23.txt"
 
 **5.**
 
-> "I'll give you the world. The moon. The fucking stars. Anything you ask, it's yours. I'm yours."
+> "I'll give you the world," he said against my mouth. "The moon. The fucking stars."
 
 **中文理解**：Aaron 的情感告白，用极端意象（world/moon/stars）表达绝对的给予与奉献，最后以 "I'm yours" 将自己纳入"给予物"之中，完成主客体转换。
 
@@ -130,7 +129,7 @@ source_text: "text/ch23_chapter_23.txt"
 
 **7.**
 
-> "I'm trying to take this slow, Lina. I swear I am. But you are driving me right out of my mind."
+> "I'm trying to take this slow, Lina. I swear I am,"
 
 **中文理解**：Aaron 在脱去 Lina 礼服时再次表达克制与渴望的冲突——他努力放慢节奏，但 Lina 的魅力让他濒临失控。这句话既是对话也是内心独白。
 

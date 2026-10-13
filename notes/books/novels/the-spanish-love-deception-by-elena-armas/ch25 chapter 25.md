@@ -6,13 +6,12 @@ source_text: "text/ch25_chapter_25.txt"
 
 # Chapter 25（精读分析）
 
-## 导航
-
-1. **情节概览**：Lina 与 Rosie 在公司午休时讨论 Lina 与 Aaron 的关系，被 Gerald 撞破并遭到公开羞辱——Gerald 暗示 Lina 是靠"睡上司"上位的。Lina 的旧日创伤（Daniel 的污蔑）被触发，陷入恐慌。Aaron 出现并试图保护她，但 Lina 害怕职场影响，选择逃避。Aaron 在走廊追上她，坦白"I love you"，但 Lina 因恐惧无法回应，最终 Aaron 转身离开。
-2. **核心冲突**：职场性别歧视（Gerald）触发 Lina 的 PTSD（Daniel 的污蔑），她在信任 Aaron 与自我保护之间挣扎，最终选择逃避。Aaron 的 "I love you" 被恐惧吞噬，两人的关系在最高点突然断裂。
-3. **POV**：第一人称女主 Lina，情绪在公开羞辱、情感撕裂与恐惧之间剧烈波动。
-4. **本章地位**：全书情感弧线的断裂点——前两章的温柔与确认在本章遭遇现实冲击，Daniel 留下的创伤成为 Aaron 与 Lina 之间真正的敌人。
-5. **关键词句**：*"You think I was easy?"* / *"I love you, Lina."* / *"Don't you even think of it. I won't let you quit."*
+## 本章导航
+- **视角**：第一人称女主 Lina
+- **地点**：InTech 公司午餐室/走廊
+- **核心事件**：Lina 被 Gerald 公开羞辱，Aaron 出现保护她但在走廊被 Lina 的恐惧阻断，两人关系在最高点突然断裂
+- **关系起点**：从确认到断裂——Aaron 的 "I love you" 被 Lina 的恐惧吞噬，Daniel 留下的创伤成为真正的敌人
+- **悬念钩子**：Lina 能否克服旧日创伤？Aaron 会如何面对 Lina 的逃避？
 
 ---
 
@@ -75,25 +74,25 @@ source_text: "text/ch25_chapter_25.txt"
 
 **4.**
 
-> "You think I was easy?" This is all I can think as Gerald leers at me.
+> "I guess it's as easy as batting your eyelashes and asking nicely, right?"
 
-**中文理解**：Lina 内心对 Gerald 暗示的反应。"easy" 是荡妇羞辱的核心词——将女性的性同意等同于"随便"。Lina 的心理反应是自我辩护的姿态，但也是她内在化的耻辱感。
+**中文理解**：Gerald 用"眨眨眼睛、礼貌请求就很简单"来讽刺 Lina 的职位是靠性别筹码获得。这是典型的职场性别歧视——将女性的专业能力归结为"撒娇交易"。
 
-**句子结构**："You think I was easy?" 是内心疑问句，This is all I can think 是元认知描述，leer at 描述 Gerald 的表情。
+**句子结构**：陈述句 + 反义疑问句 "right?"，表面上是一般性感叹，实际是对 Lina 的直接攻击和羞辱。
 
 **关键词**：
-- **easy** /ˈiːzi/ adj. 随和的；随便的（荡妇羞辱词）
-- **leer** /lɪər/ vi. 斜眼看；色眯眯地看
+- **batting your eyelashes** 眨眼（贬义：暗示女性靠撒娇）
+- **as easy as** …很简单（讽刺：暗示不公平优势）
 
-**表达方式**：问句形式表达愤怒与无力感；"all I can think" 暗示她的思维被困在这个框架里，无法跳脱。
+**表达方式**：讽刺+反问的修辞，"right?" 邀请旁观者认同他的攻击，制造公开羞辱的效果。
 
-**为什么这样写**：Lina 的 "easy" 疑问揭示她仍在用"荡妇逻辑"思考——即使她是受害者，她仍在担心被如何看待。这是 internalize 羞辱的典型表现。
+**为什么这样写**：Gerald 的攻击触发 Lina 的核心创伤——Daniel 曾用类似荡妇羞辱攻击她。这句话是 Lina 内心"你眼中的easy"恐惧的来源。
 
 ---
 
 **5.**
 
-> "Don't do this. You hear me? Don't you even think of it. I won't let you quit."
+> "Don't do this. You hear me?"
 
 **中文理解**：Aaron 在走廊追上 Lina，阻止她辞职。"I won't let you quit" 是强硬的保护宣言——他不允许她因为 Gerald 的攻击而放弃这段感情和她的职业生涯。
 

@@ -8,11 +8,11 @@ source_text: "text/ch27_chapter_27.txt"
 
 ## 导航
 
-- 情绪转折：自我反思 → 决心行动 → Seattle寻人 → 医院重逢
-- 核心人物：Lina（叙述者）、Aaron、Richard Blackford（Aaron父亲）
-- 主线：Lina意识到真爱不在乎时间，必须立刻行动，飞往Seattle医院找到正在等待父亲消息的Aaron
-- 关键转折：Lina主动打破僵局，追到Seattle；Aaron父子多年隔阂终有和解契机
-- 主题词：life-altering / trust / fight / love / grief
+- **情绪转折**：自我反思 → 决心行动 → Seattle寻人 → 医院重逢
+- **核心人物**：Lina（叙述者）、Aaron、Richard Blackford（Aaron父亲）
+- **主线**：Lina意识到真爱不在乎时间，必须立刻行动，飞往Seattle医院找到正在等待父亲消息的Aaron
+- **关键转折**：Lina主动打破僵局，追到Seattle；Aaron父子多年隔阂终有和解契机
+- **主题词**：life-altering / trust / fight / love / grief
 
 ---
 
@@ -116,7 +116,7 @@ source_text: "text/ch27_chapter_27.txt"
 
 ### ⑥
 
-> "You blow my goddamn mind, my rules, my world. When I least expect it, I find you ready to dynamite your way right into my heart."
+> "You blow my goddamn mind, my rules, my world,"
 
 **中文理解**：Aaron的回应：你简直让我疯掉，我的规则、我的世界都被你颠覆。每当我以为已经了解你，你又炸开一条路直冲我的心门。
 
@@ -179,38 +179,58 @@ source_text: "text/ch27_chapter_27.txt"
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|
-| **transcendental** | /ˌtrænsenˈdentl/ | 超验的；超越日常的 | "The one moment that felt … transcendental." |
-| **whirl** | /wɜːl/ | 旋转；头晕 | "That question kept whirling in my mind…" |
-| **dismantle** | /dɪsˈmæntl/ | 拆解；瓦解 | "As if I hadn't already dismantled me for anybody else." |
+|**transcendental**|/ˌtrænsenˈdentl/|超验的；超越日常的|But as much as all those moments that had made me fall helplessly in love with him left a mark I’d never be able to erase, one that I didn’t think would ever fade, it was the split second when I had known I needed to get myself on a plane to Seattle and find him, the one moment that felt … transcendental.|
+|**whirl**|/wɜːl/|旋转；头晕|That question kept whirling in my mind as I turned around, got myself into a new taxi, and repeated the whole process with hospital number two.|
+|**dismantle**|/dɪsˈmæntl/|拆解；瓦解|As if you hadn’t done that already.” The grip of his fingers on my wrist tightened, pulling me to him, and I could feel the soft air leaving his mouth, falling on my lips. “As if you hadn’t already dismantled me for anybody else.|
 | **devour** | /dɪˈvaʊər/ | 吞没；如饥似渴地看 | （未选入，但文中出现） |
-| **precipitate** | /prɪˈsɪpɪteɪt/ | 加速；使突然发生 | （未选入，但文中出现） |
-| **trepidation** | /ˌtrepɪˈdeɪʃən/ | 恐惧；不安 | "A mix of relief and trepidation…" |
-| **hollow** | /ˈhɒləʊ/ | 空洞的 | "My heart feeling as weightless and hollow as ever…" |
-| **perch** | /pɜːtʃ/ | 栖息；位于 | "The man perched on the bed said…" |
-| **raspy** | /ˈrɑːspɪ/ | 沙哑的 | "The man perched on the bed said in a raspy voice." |
-| **deflate** | /dɪˈfleɪt/ | 放气；泄气 | "His chest deflated…" |
+|**trepidation**|/ˌtrepɪˈdeɪʃən/|恐惧；不安|And right as my knees almost doubled with a mix of relief and trepidation at finally hearing the nurse at the counter of hospital number three ask if I was family or friend, that question that was stuck in my head was still screaming at me to be answered.|
+|**hollow**|/ˈhɒləʊ/|空洞的|And I realized as I stared into the distance-my heart feeling as weightless and hollow as ever when I saw him there, alone, without me-that as long as I had him, my life-altering moment would never be a measurement of time.|
+|**perch**|/pɜːtʃ/|栖息；位于|Letting him have this moment to himself.
+
+
+“Son,” the man perched on the bed said in a raspy voice.|
+|**raspy**|/ˈrɑːspɪ/|沙哑的|Letting him have this moment to himself.
+
+
+“Son,” the man perched on the bed said in a raspy voice.|
+|**deflate**|/dɪˈfleɪt/|放气；泄气|But they are hopeful.” His chest deflated, the arms around me losing that desperate edge they’d had a while ago. “I am hopeful too.”
+
+
+A voice coming from somewhere on the other side of the waiting room reached us.|
 
 ### 进阶（Intermediate）
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **snap** | /snæp/ | 突然；猛地 | "Aaron's head snapped up." |
-| **tumble** | /ˈtʌmbl/ | 跌跌撞撞 | "I stumbled out of the elevator like someone…" |
-| **stumble** | /ˈstʌmbl/ | 绊倒；跌跌撞撞 | "I stumbled out of the elevator…" |
-| **scrub** | /skrʌb/ | 刷手服；医护人员 | "He slipped his hands in the pockets of his scrubs." |
+|**snap**|/snæp/|突然；猛地|Because Aaron’s head snapped up.|
+|**tumble**|/ˈtʌmbl/|跌跌撞撞|And I … I suddenly tumbled a little under the importance of the moment.|
+|**stumble**|/ˈstʌmbl/|绊倒；跌跌撞撞|So, when the polished and metallic doors finally opened, I stumbled out of the elevator like someone walking out of an interminable road trip.|
+|**scrub**|/skrʌb/|刷手服；医护人员|You can see him now.” The nurse slipped his hands in the pockets of his scrubs. “Only a few minutes, okay?|
 | **numb** | /nʌm/ | 麻木的 | "Limbs numb…" |
-| **latch** | /lætʃ/ | 抓住 | "One of his hands latched on to my wrist…" |
-| **crumple** | /ˈkrʌmpl/ | 皱起；崩溃 | "Disbelief crumpling his face." |
+|**latch**|/lætʃ/|抓住|I don’t think you understand.”
+
+
+One of his hands latched on to my wrist as I still cupped his face desperately.|
+|**crumple**|/ˈkrʌmpl/|皱起；崩溃|You …” He trailed off, disbelief crumpling his face. “How did you even find me?”
+
+
+“I had to come to you.” My fingers trailed down the side of his neck, my palm settling against the warm skin. “I remembered everything you’d told me.|
 
 ### 基础（Essential）
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **whisper** | /ˈwɪspər/ | 低语 | "My voice was barely a whisper…" |
-| **squeeze** | /skwiːz/ | 挤压；拥抱 | "He squeezed me into his chest…" |
-| **shiver** | /ˈʃɪvər/ | 颤抖 | "Sending a shiver down my spine." |
-| **sprint** | /sprɪnt/ | 冲刺 | "My legs sprinted across that hallway…" |
-| **bounce** | /baʊns/ | 弹跳；反复 | "Continuously bouncing from blinding hope to the dread…" |
+|**whisper**|/ˈwɪspər/|低语|My voice was barely a whisper, too low and quiet to make it all the way to where he was.|
+|**squeeze**|/skwiːz/|挤压；拥抱|He lifted me off the floor, squeezed me into his chest, held me in his arms.|
+|**shiver**|/ˈʃɪvər/|颤抖|To take it all and control this whirlwind of emotion threatening to turn me inside out.
+
+
+“With every smile, you have done exactly that.” I felt his lips brushing over mine briefly, sending a shiver down my spine. “With every single time you have been infuriatingly stubborn and impossibly beautiful, all at once.” He placed a kiss on the corner of my eye. “With every time you have shown the world how incredibly strong you are, even when you don’t believe so yourself.” A kiss on the tip of my nose. “With all the ways your mind amazes and disturbs me in ways I’ll never understand and not ever tire of.” His lips landed on my cheekbone, flicking across the skin. “With how every single time you laugh, I want to throw you over my shoulder and run somewhere I can covet that sound just for myself.” A kiss was brushed on my jaw, his lips then sweeping along until reaching my ear. “And with every other unfathomable way you have made me completely yours.”
+
+
+“Yours,” I repeated, my heart expanding in my chest.|
+|**sprint**|/sprɪnt/|冲刺|My legs sprinted across that hallway that separated us like they had never run before.|
+|**bounce**|/baʊns/|弹跳；反复|My head spun with that question for six hours on the flight from New York to Seattle, continuously bouncing from blinding hope to the dread that could only come from anticipating loss.|
 
 ---
 

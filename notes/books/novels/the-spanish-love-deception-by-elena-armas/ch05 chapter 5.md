@@ -6,16 +6,19 @@ source_text: "text/ch05_chapter_5.txt"
 
 # Chapter 5（精读分析）
 
-**导航**
-- **视角**：第一人称女主Lina（Aaron称她Catalina）
-- **地点**：InTech办公室门口 → 暴雨中的曼哈顿街道 → Aaron的车内 → Brooklyn Bed-Stuy Lina的公寓楼
-- **核心事件**：暴雨夜Lina被困办公室门口，Aaron主动开车送她回家，两人在车内达成"假情侣"协议——互相出席对方的婚礼/社交活动
+## 本章导航
+
+- **视角**：第一人称女主 Lina（Aaron 称她 Catalina）
+- **地点**：InTech 办公室门口 → 暴雨中的曼哈顿街道 → Aaron 的车内 → Brooklyn Bed-Stuy Lina 的公寓楼
+- **核心事件**：暴雨夜 Lina 被困办公室门口，Aaron 主动开车送她回家，两人在车内达成"假情侣"协议——互相出席对方的婚礼/社交活动
 - **关系起点**：敌对同事（互相看不顺眼、经常拌嘴），雨夜偶遇打破僵局，开始坦诚对话
-- **悬念钩子**：Aaron为什么主动提出帮忙？他提到的"社交活动"是什么？他真正想要什么？
+- **悬念钩子**：Aaron 为什么主动提出帮忙？他提到的"社交活动"是什么？他真正想要什么？
 
 ---
 
-**引语块 1**
+## 精读
+
+### 引语块 1
 > "Me cago en la leche," I cursed under my breath, looking out through the glass of InTech's massive entrance door and taking in the dark clouds crowding the sky, rain falling from it almost violently.
 
 **中文理解**：Lina用西班牙语骂了句脏话，望着InTech巨大的玻璃门外的天空，乌云密布，雨几乎猛烈地倾泻下来。这是她一周灾难后的糟糕周五傍晚，开场即低谷。
@@ -34,7 +37,7 @@ source_text: "text/ch05_chapter_5.txt"
 
 ---
 
-**引语块 2**
+### 引语块 2
 > "Get in the car, Catalina." I heard Aaron's exasperation clinging to his voice, even over the furious and relentless rain.
 
 **中文理解**："上车，Catalina。"她听到Aaron的声音带着明显的恼怒，即使在狂暴无情的暴雨中也清晰可闻。
@@ -53,7 +56,7 @@ source_text: "text/ch05_chapter_5.txt"
 
 ---
 
-**引语块 3**
+### 引语块 3
 > "It's Lina." After close to two years of him exclusively using my full name, I knew correcting him was of no use. But I was frustrated. Irritated. Tired. Soaked too. And I hated my full name. Papá—being the history nerd he was—had named both his daughters after two distinguished Spanish monarchs, Isabel and Catalina.
 
 **中文理解**："我叫Lina。"在将近两年他只叫她全名之后，我知道纠正他也没用。但我太沮丧了、太烦躁了、太累了，而且浑身湿透。我讨厌自己的全名。爸爸是个历史迷，给两个女儿取名都是西班牙历史上著名的君主：Isabel和Catalina。
@@ -72,7 +75,7 @@ source_text: "text/ch05_chapter_5.txt"
 
 ---
 
-**引语块 4**
+### 引语块 4
 > "Catalina"—I watched his face go from exasperation to something that bordered resignation—"I am driving you home"—he stretched his arm and opened the door closest to me, as if it were a done deal—"before you catch pneumonia or almost break your neck. Again."
 
 **中文理解**："Catalina"——我看着他的表情从恼怒变成了近乎认命——"我送你回家"——他伸过手臂帮我打开车门，仿佛已成定局——"在你得肺炎或者差点摔断脖子之前。又是。"
@@ -91,7 +94,7 @@ source_text: "text/ch05_chapter_5.txt"
 
 ---
 
-**引语块 5**
+### 引语块 5
 > A hand. A big one, all five fingers splayed across my collarbone and … well, chest.
 
 **中文理解**：一只手。一只大手，五根手指张开，按在我的锁骨上，然后……就是胸口。
@@ -109,7 +112,7 @@ source_text: "text/ch05_chapter_5.txt"
 
 ---
 
-**引语块 6**
+### 引语块 6
 > "Thank you for printing out those papers for me, by the way," I said quietly, fighting the impulse to take it back immediately. But I didn't. I could be diplomatic. At least, right now. "It was very nice of you, Aaron." That last part had me wincing, the admission feeling funny on my tongue.
 
 **中文理解**："对了，谢谢你帮我打印那些文件，"我轻声说，努力压下想要立刻收回这句话的冲动。但我没有。我可以做到圆滑的。至少，现在可以。"你真好，Aaron。"最后那句话让我自己都觉得别扭，承认这件事让我感到说不出的古怪。
@@ -128,7 +131,7 @@ source_text: "text/ch05_chapter_5.txt"
 
 ---
 
-**引语块 7**
+### 引语块 7
 > "I don't think Aaron is all that bad," she had said earlier today.
 
 **中文理解**："我觉得Aaron没那么坏，"Rosie今天早些时候说过。
@@ -144,7 +147,7 @@ source_text: "text/ch05_chapter_5.txt"
 
 ---
 
-**引语块 8**
+### 引语块 8
 > "Your sister's wedding. I'll be your date," Aaron said. As if he'd be willing to repeat himself as much as he possibly could as long as I gave him an answer.
 
 **中文理解**："你姐姐的婚礼。我做你的男伴。"Aaron说。仿佛只要我能给个答复，他愿意一遍又一遍地重复这句话。
@@ -163,92 +166,148 @@ source_text: "text/ch05_chapter_5.txt"
 
 ---
 
-**词汇表**
+## 本章词汇
 
-**高级词汇**（⭐⭐⭐）
+### ⭐⭐⭐ 高级词汇
 
-1. `exasperation` n. 恼怒
-   - 例句：I heard Aaron's exasperation clinging to his voice, even over the furious and relentless rain.
+**exasperation** /ɪɡˌzæspəˈreɪʃən/ *n.* — 恼怒；不耐烦
+- 例句：I heard Aaron's exasperation clinging to his voice, even over the furious and relentless rain.
+- 译：她听到 Aaron 的声音带着明显的恼怒，即使在狂暴无情的暴雨中也清晰可闻。
+- 辨：exasperation 指因反复挫折而产生的强烈恼怒，程度重于 irritation。Lina 用这个词描述 Aaron 的声音，说明他的不耐烦已经明显到可以被"听到"。
 
-2. `resignation` n. 认命、顺从
-   - 例句：I watched his face go from exasperation to something that bordered resignation.
+**resignation** /ˌrezɪɡˈneɪʃən/ *n.* — 认命；顺从
+- 例句：I watched his face go from exasperation to something that bordered resignation.
+- 译：我看着他的表情从恼怒变成了近乎认命。
+- 辨：resignation 表示被迫接受不可改变的情况，带有无奈色彩。bordered resignation 意思是"接近但不完全是认命"，暗示 Aaron 虽然看似无奈但实际上是在掌控局面。
 
-3. `splayed` adj. 张开的、五指摊开的
-   - 例句：A hand. A big one, all five fingers splayed across my collarbone and … well, chest.
+**splayed** /spleɪd/ *adj.* — 张开的；五指摊开的
+- 例句：A hand. A big one, all five fingers splayed across my collarbone and … well, chest.
+- 译：一只手。一只大手，五根手指张开，按在我的锁骨上，然后……就是胸口。
+- 辨：splayed 描述手指或肢体伸展张开的姿态，常用于医学或解剖学语境。Lina 用这个词描述 Aaron 的手，既有具象感又有一种"被掌控"的隐喻。
 
-4. `drenched` adj. 湿透的
-   - 例句：I have been close to murdering a few people this week, and I'm soaked to my bones.
+**drenched** /drentʃt/ *adj.* — 湿透的
+- 例句：I have been close to murdering a few people this week, and I'm soaked to my bones.
+- 译：这周我差点杀人，而且我浑身湿透到骨子里。
+- 辨：drenched 强调被液体完全浸透，程度比 soaked 更强，暗示一种不舒服的潮湿感。
 
-5. `diplomatic` adj. 圆滑的、外交的
-   - 例句：I could be diplomatic. At least, right now.
+**diplomatic** /ˌdɪpləˈmætɪk/ *adj.* — 圆滑的；善于外交的
+- 例句：I could be diplomatic. At least, right now.
+- 译：我可以做到圆滑的。至少，现在可以。
+- 辨：diplomatic 本义是"外交的"，引申为"善于处理人际关系的、圆滑的"。Lina 用这个词描述自己主动对 Aaron 道谢的行为，暗示这是她少有的"放下身段"。
 
-6. `incredibly` adv. 极其、难以置信地
-   - 例句：Well, that was incredibly smug. Sort of conceited too. And shockingly, kind of … sexy.
+**incredibly** /ɪnˈkredəbli/ *adv.* — 极其；难以置信地
+- 例句：Well, that was incredibly smug. Sort of conceited too. And shockingly, kind of … sexy.
+- 译：嗯，那真是极其自鸣得意。还有点傲慢。而且惊人的是，有点……性感。
+- 辨：incredibly 在口语中常用作强调副词，相当于"非常"或"极其"，不带字面上的"难以置信"含义。
 
-7. `miraculous` adj. 奇迹般的
-   - 例句：My foot drifted one more inch as I held my breath before coming to a miraculous stop.
+**miraculous** /mɪˈrækjələs/ *adj.* — 奇迹般的
+- 例句：My foot drifted one more inch as I held my breath before coming to a miraculous stop.
+- 译：我的脚又漂了一英寸，屏住呼吸，然后在奇迹般的停止中稳住。
+- 辨：miraculous 强调超乎寻常的、不可能发生的事情。Lina 用这个词来形容她差点滑倒却最终稳住的那一刻，带有夸张的自嘲意味。
 
-8. `devotion` n. 献身、热爱
-   - 例句：…gifting us with a ragey, "Assholes!" and blaring his horn with something close to devotion.
+**devotion** /dɪˈvoʊʃən/ *n.* — 献身；热爱；忠诚
+- 例句：…gifting us with a ragey, "Assholes!" and blaring his horn with something close to devotion.
+- 译：……送给我们一声愤怒的"混蛋！"同时以一种近乎奉献的精神猛按喇叭。
+- 辨：devotion 通常指对某人或某事的深厚热爱和投入。这里用来描述按喇叭的动作，带有黑色幽默的夸张意味。
 
-**进阶词汇**（⭐⭐）
+### ⭐⭐ 进阶词汇
 
-1. `commute` n/v. 通勤
-   - 例句：I only have a forty-five-minute commute to the part of Brooklyn I live in anyway.
+**commute** /kəˈmjuːt/ *n./v.* — 通勤
+- 例句：I only have a forty-five-minute commute to the part of Brooklyn I live in anyway.
+- 译：反正我到布鲁克林住的地方只有四十五分钟的通勤路程。
+- 辨：commute 指从家到工作地点的往返过程。Lina 提到她的通勤时间，暗示她住在离公司较远的地方。
 
-2. `puddle` n. 水坑
-   - 例句：My right foot slipped on a puddle, sliding forward.
+**puddle** /ˈpʌdl/ *n.* — 水坑
+- 例句：My right foot slipped on a puddle, sliding forward.
+- 译：我的右脚踩在水坑上滑了一下。
+- 辨：puddle 通常指雨后形成的小水洼。Lina 在暴雨中踩到水坑滑倒，是她"糟糕一周"的延续。
 
-3. `squishy` adj. 湿软的、发出吱嘎声的
-   - 例句：Noticing my soaked clothes made weird squishy noises against the leather.
+**squishy** /ˈskwɪʃi/ *adj.* — 湿软的；发出吱嘎声的
+- 例句：Noticing my soaked clothes made weird squishy noises against the leather.
+- 译：注意到我湿透的衣服碰到皮革座椅发出奇怪的吱嘎声。
+- 辨：squishy 形容潮湿物体受压时发出的声音，是非常具体的感官描写。
 
-4. `pneumonia` n. 肺炎
-   - 例句：…before you catch pneumonia or almost break your neck. Again.
+**pneumonia** /njuːˈmoʊniə/ *n.* — 肺炎
+- 例句：…before you catch pneumonia or almost break your neck. Again.
+- 译：……在你得肺炎或者差点摔断脖子之前。又是。
+- 辨：pneumonia 是医学术语，指肺部感染。Aaron 用这个词表达对 Lina 安全的担忧，同时"Again"暗示她之前有过类似危险经历。
 
-5. `grimace` v/n. 做鬼脸、表情扭曲
-   - 例句：A grimace bent my lips.
+**grimace** /ɡrɪˈmeɪs/ *v./n.* — 做鬼脸；表情扭曲
+- 例句：A grimace bent my lips.
+- 译：一个鬼脸让我的嘴唇扭曲。
+- 辨：grimace 指因疼痛、不悦或厌恶而产生的扭曲表情。Lina 用这个词描述她对 Aaron"友好"行为的反应。
 
-6. `clinging` v. 依附、缠绕
-   - 例句：I heard Aaron's exasperation clinging to his voice.
+**clinging** /ˈklɪŋɪŋ/ *v.* — 依附；缠绕
+- 例句：I heard Aaron's exasperation clinging to his voice.
+- 译：我听到 Aaron 的声音带着恼怒。
+- 辨：clinging 原义是"紧紧抓住"，此处用于形容情绪"依附"在声音上，是一种隐喻用法。
 
-7. `skeptical` adj. 怀疑的
-   - 例句：…and he was skeptical about me.
+**skeptical** /ˈskeptɪkəl/ *adj.* — 怀疑的
+- 例句：…and he was skeptical about me.
+- 译：……而且他对我持怀疑态度。
+- 辨：skeptical 指对事物真实性或有效性持怀疑态度。Aaron 对 Lina 的"友好"表示怀疑，说明两人之间的信任尚未建立。
 
-8. `venting` v. 发泄、吐苦水
-   - 例句：…I guessed I was allowed to admit that I liked it.
+**venting** /ˈventɪŋ/ *v.* — 发泄；吐苦水
+- 例句：…I guessed I was allowed to admit that I liked it.
+- 译：……我猜我可以承认我喜欢它。
+- 辨：venting 指通过说话来发泄负面情绪。Lina 在这里可能是指她享受对 Aaron"发泄"的感觉。
 
-**基础词汇**（⭐）
+### ⭐ 基础词汇
 
-1. `pour` v. 倾泻、泼
-   - 例句：…it started pouring down the minute you stepped out of the office.
+**pour** /pɔːr/ *v.* — 倾泻；泼
+- 例句：…it started pouring down the minute you stepped out of the office.
+- 译：……就在你走出办公室的那一刻，雨开始倾泻而下。
+- 辨：pour down 形容雨势凶猛，像倒水一样。
 
-2. `slipped` v. 滑倒
-   - 例句：My right foot slipped on a puddle.
+**slipped** /slɪpt/ *v.* — 滑倒
+- 例句：My right foot slipped on a puddle.
+- 译：我的右脚踩在水坑上滑了一下。
+- 辨：slipped 是 slip 的过去式，指意外滑倒。
 
-3. `soaked` adj. 湿透的
-   - 例句：I am soaked to my bones, and I'm hungry and tired.
+**soaked** /soʊkt/ *adj.* — 湿透的
+- 例句：I am soaked to my bones, and I'm hungry and tired.
+- 译：我浑身湿透到骨子里，我又饿又累。
+- 辨：soaked 强调被液体完全浸透，to the bones 是固定搭配，形容程度极深。
 
-4. `sigh` n/v. 叹息
-   - 例句：…I told them with a sigh.
+**sigh** /saɪ/ *n./v.* — 叹息
+- 例句：…I told them with a sigh.
+- 译：……我叹了口气告诉他们。
+- 辨：sigh 是因疲惫、无奈或释然而发出的长长呼气，是非常常见的情绪表达。
 
-5. `grin` v. 露齿笑
-   - 例句：I watched his eyebrows knit, regaining his earlier expression as he processed my words.
+**grin** /ɡrɪn/ *v.* — 露齿笑
+- 例句：I watched his eyebrows knit, regaining his earlier expression as he processed my words.
+- 译：我看着他的眉头紧锁，在消化我的话时恢复了他之前的表情。
+- 辨：grin 指露齿而笑，通常带有些许得意或狡黠的意味。
 
-6. `frown` v. 皱眉
-   - 例句：I watched his scowl take over his expression.
+**frown** /fraʊn/ *v.* — 皱眉
+- 例句：I watched his scowl take over his expression.
+- 译：我看着他的表情被怒容取代。
+- 辨：frown 是因不满、困惑或专注而皱眉头。scowl 是更强烈的怒视表情。
 
-7. `shiver` n/v. 颤抖
-   - 例句：A shiver crawled all the way down my back, making me shudder.
+**shiver** /ˈʃɪvər/ *n./v.* — 颤抖
+- 例句：A shiver crawled all the way down my back, making me shudder.
+- 译：一阵颤抖从我背上蔓延下来，让我打了个寒颤。
+- 辨：shiver 通常指因寒冷或恐惧而产生的身体颤抖，与 shudder 可互换使用。
 
-8. `croak` v. 沙哑地说
-   - 例句："Thank you," I croaked, feeling extremely uncomfortable as I fastened my belt.
+**croak** /kroʊk/ *v.* — 沙哑地说
+- 例句："Thank you," I croaked, feeling extremely uncomfortable as I fastened my belt.
+- 译："谢谢你，"我沙哑地说，在系安全带时感到极度不自在。
+- 辨：croak 形容声音沙哑低沉，通常因喉咙干燥或紧张导致。
 
-9. `awkwardly` adv. 尴尬地
-   - 例句：I shifted awkwardly in my seat.
+**awkwardly** /ˈɔːkwərdli/ *adv.* — 尴尬地
+- 例句：I shifted awkwardly in my seat.
+- 译：我在座位上尴尬地挪动。
+- 辨：awkwardly 描述因不自在或紧张而做出的笨拙动作。
 
-10. `genuine` adj. 真诚的、真正的
-    - 例句：…with what I knew was an expression of genuine confusion.
+**genuine** /ˈdʒenjuɪn/ *adj.* — 真诚的；真正的
+- 例句：…with what I knew was an expression of genuine confusion.
+- 译：……我知道那是一个真正困惑的表情。
+- 辨：genuine 强调真实而非虚假，genuine confusion 指真正的困惑而非假装。
 
 ---
 
-**一句话总结**：暴雨夜Lina与Aaron达成假情侣协议，互相出席对方的重要场合，两人在唇枪舌剑中开始触及彼此的真实一面。
+## 一句话总结
+
+暴雨夜 Lina 被困办公室门口，敌对同事 Aaron 主动送她回家并提出"假情侣"协议——互相出席对方婚礼，两人在车内从互相看不顺眼走向首次坦诚对话。
+
+暴雨夜Lina与Aaron达成假情侣协议，互相出席对方的重要场合，两人在唇枪舌剑中开始触及彼此的真实一面。

@@ -6,13 +6,12 @@ source_text: "text/ch24_chapter_24.txt"
 
 # Chapter 24（精读分析）
 
-## 导航
-
-1. **情节概览**：清晨亲密后两人回到纽约，Aaron 带 Lina 回他的 Dumbo 公寓，两人讨论职场恋情的复杂性（Aaron 即将成为 Lina 的上司），随后 Aaron 向 Lina 坦白他从最初就对她有意，只因害怕而保持距离。Lina 发现 Aaron 的母亲 Dorothea 的照片，了解他的孤独童年。
-2. **核心冲突**：外部（职场权力关系：上司/下属）与内部（前段感情的恐惧）的双重障碍；Aaron 的告白揭示两人的误解根源——他其实一直喜欢她，但她只看到冷漠。
-3. **POV**：第一人称女主 Lina，叙事在亲密场景与情感对话之间切换，穿插与 Rosie 的短信对话增加轻松调剂。
-4. **本章地位**：情感坦白的关键章——Aaron 从"冷漠的追求者"转变为"深情的守护者"，两人的 mutual feeling 得到 mutual 确认。
-5. **关键词句**：*"Come home with me."* / *"I'd rather have you hating me than not have you at all."* / *"I want your heart."*
+## 本章导航
+- **视角**：第一人称女主 Lina
+- **地点**：Dumbo 公寓（Aaron 家）
+- **核心事件**：清晨亲密后回到纽约，Aaron 向 Lina 坦白他从最初就对她有意，揭示他保持距离的原因
+- **关系起点**：从暧昧到确认——Aaron 的深情告白让两人的 mutual feeling 得到确认
+- **悬念钩子**：职场恋情曝光会带来什么后果？Aaron 的母亲 Dorothea 的照片暗示了什么？
 
 ---
 
@@ -57,7 +56,7 @@ source_text: "text/ch24_chapter_24.txt"
 
 **3.**
 
-> "I'm going to be very honest with you. I'm … scared. Terrified. You are going to be promoted. To my division leader. And that's going to change things."
+> "I'm going to be very honest with you."
 
 **中文理解**：Lina 在接受 Aaron 的邀请前坦白她的恐惧——职场权力关系的变化（他即将成为她的上司）让她想起 Daniel 的背叛。这是她第一次主动揭示脆弱。
 
@@ -94,7 +93,7 @@ source_text: "text/ch24_chapter_24.txt"
 
 **5.**
 
-> "I want your heart, Catalina. I want it for myself, just how I have given you mine."
+> "I want your heart, Catalina."
 
 **中文理解**：Aaron 的情感告白核心句——他想要的不是身体，而是 Lina 的心；作为交换，他已将真心交出。这是双向的情感所有权确认。
 

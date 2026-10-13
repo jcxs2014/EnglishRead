@@ -171,16 +171,45 @@ source_text: "text/ch14_chapter_14.txt"
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句（原文） |
 |------|------|------|----------|-------------|
-| unamused | /ˌʌnəˈmjuːzd/ | adj. | 不觉得好笑的，面无表情的 | those lips that were so often pressed in an unamused line |
-| commisure | /ˈkɒmɪʃə(r)/ | n. | 口角，嘴角 | his thumb was brushing the commissure of my lips |
-| enrap tured | /ɪnˈræptʃəd/ | adj. | 着了迷的，狂喜的 | I just stared at him, completely enraptured |
-| deflate | /dɪˈfleɪt/ | v. | 泄气，蔫掉 | Aaron deflated in his seat |
-| methodical | /məˈθɒdɪkl/ | adj. | 有条不紊的，系统的 | Aaron cleaned his hand methodically |
-| scintilla | /sɪnˈtɪlə/ | n. | 一点点，微量 | not a scintilla of doubt |
-| solicitous | /səˈlɪsɪtəs/ | adj. | 关切的，体贴的 | His gaze was solicitous |
-| scowl | /skaʊl/ | n./v. | 皱眉，绷着脸 | That earned me a scowl |
-| flutter | /ˈflʌðə(r)/ | v. | 飘动，心慌意乱 | My eyes fluttered closed for an instant |
-| gulp | /ɡʌlp/ | v. | 吞咽，咽下 | I watched his throat gulp it down |
+|unamused|/ˌʌnəˈmjuːzd/|adj.|What almost knocked me on my ass, if not for the seat belt, was Aaron leading his finger to his mouth, parting those lips that were so often pressed in an unamused line, and wiping the chocolate clean off his thumb.|those lips that were so often pressed in an unamused line||
+|deflate|/dɪˈfleɪt/|v.|Aaron sighed dramatically.
+
+
+“Or maybe we should go over basic stuff, like my favorite color, the movie that makes me cry, or what I’m most afraid of.”
+
+
+Aaron deflated in his seat.|Aaron deflated in his seat||
+|methodical|/məˈθɒdɪkl/|adj.|Out of my peripheral vision, I made out how Aaron cleaned his hand methodically on the napkin that rested on my tray.
+
+
+“You were right; the cake was that good.” He cleared his throat, as if nothing had happened. “As I was saying, we should avoid your cousin Charo.”
+
+
+When my gaze somehow managed to make it back to his eyes, I felt all kinds of hot, bothered, and weird.
+
+
+“You stressed how important it is that Charo doesn’t suspect us.|Aaron cleaned his hand methodically||
+|scowl|/skaʊl/|n./v.|And trust me, they’ll know if you so much as hesitate.”
+
+
+That earned me a scowl.
+
+
+“Yes.|That earned me a scowl||
+|flutter|/ˈflʌðə(r)/|v.|My eyes fluttered closed for an instant.
+
+
+“I think you got all the chocolate.” My voice was so breathy that I barely recognized it. “Thanks.”
+
+
+“Just wanted to be thorough,” he answered quietly as his gaze bounced from that goddamn spot close to the corner of my lips to my eyes. “Next question?”
+
+
+“Best man?”
+
+
+I squirmed in my seat, uneasiness replacing all the earlier tingly warmth.|My eyes fluttered closed for an instant||
+|gulp|/ɡʌlp/|v.|A riot of emotions burst inside my belly as I watched his throat gulp it down, appreciation flashing through his face.|I watched his throat gulp it down||
 
 **例句摘录**：
 
@@ -202,16 +231,37 @@ source_text: "text/ch14_chapter_14.txt"
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句（原文） |
 |------|------|------|----------|-------------|
-| cock (eyebrow) | /kɒk/ | v. | 挑起，扬起（眉毛） | He revealed a cocked eyebrow |
-| poke | /pəʊk/ | v. | 戳，捅 | I poked the back of the newspaper |
-| tug | /tʌɡ/ | v. | 拉，拽 | I tugged at one of the corners |
-| swirled | /swɜːld/ | v. | 旋转，翻涌 | My blood swirled, rising to my neck |
-| scorch | /skɔːtʃ/ | v. | 灼烧，烫伤 | How such a gentle contact could scorch my skin |
-| smudge | /smʌdʒ/ | n. | 污渍，污点 | there was a smudge of chocolate on his thumb |
-| squirm | /skwɜːm/ | v. | 蠕动，局促不安 | I squirmed in my seat |
-| fidget | /ˈfɪdʒɪt/ | v. | 坐立不安 | 文中未出现，但可从语境推导 |
-| twitch | /twɪtʃ/ | v. | 抽动，抽搐 | a muscle in his jaw jumping |
-| hover | /ˈhɒvə(r)/ | v. | 悬停，徘徊 | his hand as it hovered in the air |
+|poke|/pəʊk/|v.|I poked the back of the newspaper with my index finger. “We have to get back to work.|I poked the back of the newspaper||
+
+
+“You don’t need to do any of that.” He lowered the large black-and-white-colored pages with a brisk motion. “You always have my undivided attention, Catalina.”
+
+
+That made my finger halt in the air.
+
+
+“Ha.” I narrowed my eyes. “Cute of you to try to buy me with cheap tricks.” I leveled him with what I hoped was a serious look. “Don’t think you are going to get out of it, sweet-talking me into leaving you alone.|I tugged at one of the corners||
+|swirled|/swɜːld/|v.|My blood swirled, rising to my neck, my cheeks, my temples.|My blood swirled, rising to my neck||
+|scorch|/skɔːtʃ/|v.|And that would be Charo.”
+
+
+How such a gentle contact could scorch my skin so effectively was something that I … couldn’t understand.|How such a gentle contact could scorch my skin||
+|smudge|/smʌdʒ/|n.|But it was short-lived because as soon as my gaze fell down and found his hand as it hovered in the air, I discovered with horror that there was a smudge of chocolate on his thumb.|there was a smudge of chocolate on his thumb||
+|squirm|/skwɜːm/|v.|My eyes fluttered closed for an instant.
+
+
+“I think you got all the chocolate.” My voice was so breathy that I barely recognized it. “Thanks.”
+
+
+“Just wanted to be thorough,” he answered quietly as his gaze bounced from that goddamn spot close to the corner of my lips to my eyes. “Next question?”
+
+
+“Best man?”
+
+
+I squirmed in my seat, uneasiness replacing all the earlier tingly warmth.|I squirmed in my seat||
+|twitch|/twɪtʃ/|v.|Aaron’s jaw twitched, and he looked distracted.|a muscle in his jaw jumping||
+|hover|/ˈhɒvə(r)/|v.|But it was short-lived because as soon as my gaze fell down and found his hand as it hovered in the air, I discovered with horror that there was a smudge of chocolate on his thumb.|his hand as it hovered in the air||
 
 ---
 
@@ -219,16 +269,47 @@ source_text: "text/ch14_chapter_14.txt"
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句（原文） |
 |------|------|------|----------|-------------|
-| pal | /pæl/ | n. | 伙计，哥儿们 | this chocolate cake tells a different story, pal |
-| hum | /hʌm/ | v. | 哼（曲子） | I hummed in pleasure |
-| grunt | /ɡrʌnt/ | n. | 嘟囔声，哼哼声 | I heard a noncommittal grunt |
-| napkin | /ˈnæpkɪn/ | n. | 餐巾纸 | I wiped my mouth with the napkin |
-| tray | /treɪ/ | n. | 托盘 | placed it back on the tray in front of me |
-| fold | /fəʊld/ | v. | 折叠 | Aaron folded it meticulously |
-| squeeze | /skwiːz/ | v. | 捏，挤 | He squeezed gently |
-| breath | /breθ/ | n. | 呼吸 | My breath got stuck |
-| sip | /sɪp/ | n./v. | 小口喝，啜饮 | taking a sip of my drink |
-| grin | /ɡrɪn/ | n./v. | 露齿笑 | the grin that was reserved for a very limited number of people |
+|grunt|/ɡrʌnt/|n.|Paying for the upgrade of my tickets is too much.”
+
+
+I heard a noncommittal grunt come from him.
+
+
+“I’m serious, Aaron.”
+
+
+“I thought you wanted to eat in silence.”
+
+
+“I’ll give you back the money when we return from the trip.|I heard a noncommittal grunt||
+|napkin|/ˈnæpkɪn/|n.|I’m a member of the airline’s Sky Club, and I have plenty of miles,” he explained as I finally took that last bite of chocolate heaven. “And as I told you, this is time we can use to prep.”
+
+
+When I finally devoured what had just become the highlight of my day, I wiped my mouth with the napkin, placed it back on the tray in front of me, and turned to Aaron. “Which reminds me, break is over.”
+
+
+He ignored me.|I wiped my mouth with the napkin||
+|tray|/treɪ/|n.|I’m a member of the airline’s Sky Club, and I have plenty of miles,” he explained as I finally took that last bite of chocolate heaven. “And as I told you, this is time we can use to prep.”
+
+
+When I finally devoured what had just become the highlight of my day, I wiped my mouth with the napkin, placed it back on the tray in front of me, and turned to Aaron. “Which reminds me, break is over.”
+
+
+He ignored me.|placed it back on the tray in front of me||
+|fold|/fəʊld/|v.|The international relationships of the United States of America are not important right now.”
+
+
+With a reluctant nod, Aaron folded it meticulously and set it on top of his tray. “All right,” he said, blue eyes focusing completely on me. “No distractions.|Aaron folded it meticulously||
+|breath|/breθ/|n.|My breath got stuck somewhere between my lungs and mouth. “Groom and bride?” I managed to get out.
+
+
+“Gonzalo and Isabel.” He rolled his eyes, as if I could do better at testing him.|My breath got stuck||
+
+
+“Okay.” I turned away, snuggling in my seat and taking a sip of my drink. “If you insist, osito.”
+
+
+From the corner of my eye, I saw Aaron finishing up the rest of his gin and tonic.|taking a sip of my drink||
 
 ---
 

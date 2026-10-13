@@ -62,7 +62,7 @@ Aaron 反复拿这件事攻击 Lina，展现了他记仇、缺乏宽容的性格
 
 ### ③
 
-> "Of all the people sitting in this room, you are our most attractive option."
+> "Out of the five of us, you are our most attractive option."
 
 **中文理解**
 Kabir 转述 Jeff 的意思：让 Lina 负责 Open Day 并担任主持人。理由不是什么能力或经验，而是她的外表——她是团队里"最有魅力的选择"。
@@ -192,40 +192,68 @@ Héctor 代表了 Lina 在这个公司里唯一的情感避风港。他的温暖
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句 |
 |------|------|------|----------|------|
-| delusional | /dɪˈluːʒənl/ | adj. | 妄想的；脱离现实的 | You are delusional if you think you can find someone in such a short amount of time. |
-| infuriating | /ɪnˈfjʊərieɪtɪŋ/ | adj. | 令人愤怒的 | Infuriating blue-eyed grudge-holder. |
-| smirk | /smɜːk/ | v./n. | 得意地笑；假笑 | He shot me a condescending look. |
-| scowling | /ˈskaʊlɪŋ/ | adj. | 皱眉的；阴沉着脸的 | This scowling Aaron I felt more comfortable with. |
-| exasperated | /ɪɡˈzæspəreɪtɪd/ | adj. | 恼火的；被激怒的 | An exasperated grunt I was extremely familiar with filled the room. |
-| grunt | /ɡrʌnt/ | n./v. | 嘟囔；咕哝 | Another grunt from Mr. Grumps. |
-| stoic | /ˈstəʊɪk/ | adj. | 坚忍的；冷漠的 | He could remain silent for all I cared. |
-| thunders | /ˈθʌndəz/ | v. | 雷鸣般响起（thunder 的第三人称单数） | A voice I was terribly—and unfortunately—doomed to never forget thundered in my head. |
+|delusional|/dɪˈluːʒənl/|adj.|Then, a voice I was terribly-and unfortunately-doomed to never forget thundered in my head.
+
+
+“You are delusional if you think you can find someone in such a short amount of time.”
+
+
+My eyes bounced back to the man sitting across from me, meeting his gaze again.|You are delusional if you think you can find someone in such a short amount of time.||
+|infuriating|/ɪnˈfjʊərieɪtɪŋ/|adj.|Infuriating blue-eyed grudge-holder.|Infuriating blue-eyed grudge-holder.||
+|scowling|/ˈskaʊlɪŋ/|adj.|Glancing at the blue-eyed man across the table, I found the irritated face that went with the sound.
+
+
+“Of course, Kabir,” I said with a smile even though I agreed with the scowling man. “Please call away.”
+
+
+Ocean eyes pinned me with an icy look.|This scowling Aaron I felt more comfortable with.||
+|exasperated|/ɪɡˈzæspəreɪtɪd/|adj.|Which was a beast on its own.
+
+
+“Good morning, everyone,” Kabir started with the enthusiasm only someone who had been on the job for a month would have. “This week, it’s my turn to lead and protocol the meeting, so if you could, please say present when I call your name.”
+
+
+An exasperated grunt I was extremely familiar with filled the room.|An exasperated grunt I was extremely familiar with filled the room.||
+|grunt|/ɡrʌnt/|n./v.|Which was a beast on its own.
+
+
+“Good morning, everyone,” Kabir started with the enthusiasm only someone who had been on the job for a month would have. “This week, it’s my turn to lead and protocol the meeting, so if you could, please say present when I call your name.”
+
+
+An exasperated grunt I was extremely familiar with filled the room.|Another grunt from Mr. Grumps.||
 
 ### 进阶词汇
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句 |
 |------|------|------|----------|------|
-| punctual | /ˈpʌŋktʃuəl/ | adj. | 准时的 | Both unjustified stereotypes when it came to being notoriously unpunctual. |
-| discipline | /ˈdɪsɪplɪn/ | v. | 训练；使有纪律 | He had been disciplined to do that. |
-| stack | /stæk/ | n. | 一叠；一堆 | On Aaron's stack of dossiers for the presentation. |
-| conference | /ˈkɒnfərəns/ | n. | 会议；研讨会 | We had conference calls with the clients. |
-| grimace | /ˈɡrɪməs/ | v./n. | 做鬼脸；表情扭曲 | I grimaced and then chewed harder on the pen. |
-| barbecue | /ˈbɑːbɪkjuː/ | n. | 烧烤；烧烤聚会 | You coming over to the next barbecue? |
-| mumble | /ˈmʌmbl/ | v. | 咕哝；含糊地说 | Our three remaining colleagues in attendance poured into the room, mumbling their good mornings. |
-| assemble | /əˈsembl/ | v. | 集合；组装 | The men walking around the table to assemble into our ten o'clock formation. |
+|discipline|/ˈdɪsɪplɪn/|v.|He had been disciplined to do that, just like every other engineer in the consulting company where we worked, me included.|He had been disciplined to do that, just like every other engineer in the consulting company where we worked, me included.||
+|stack|/stæk/|n.|On Aaron’s stack of dossiers for the presentation.|On Aaron’s stack of dossiers for the presentation.||
+|conference|/ˈkɒnfərəns/|n.|Instead, every single time he entered a conference room and found me sitting there, painfully early, he checked the watch on his wrist and raised his eyebrows in surprise.|Instead, every single time he entered a conference room and found me sitting there, painfully early, he checked the watch on his wrist and raised his eyebrows in surprise.||
+|grimace|/ˈɡrɪməs/|v./n.|I grimaced and then chewed harder on the pen.|I grimaced and then chewed harder on the pen.||
+|barbecue|/ˈbɑːbɪkjuː/|n.|The man that I considered like an uncle after he welcomed me into the close circle of his family placed a hand on my shoulder and squeezed lightly. “Doing good, mija?”
+
+
+“Can’t complain.” I returned the smile.
+
+
+“You coming over to the next barbecue?|You coming over to the next barbecue?||
+|mumble|/ˈmʌmbl/|v.|Which, to this day, I still couldn’t understand.
+
+
+“Stop asking dumb questions, old man.” I waved my hand in the air with a chuckle. “Of course I’ll be there.”
+
+
+Héctor was taking his usual place to my right when our three remaining colleagues in attendance poured into the room, mumbling their good mornings.|Our three remaining colleagues in attendance poured into the room, mumbling their good mornings.||
+|assemble|/əˈsembl/|v.|Lifting my gaze off Héctor’s easy smile, my eyes tracked down the men walking around the table to assemble into our ten o’clock formation.|Lifting my gaze off Héctor’s easy smile, my eyes tracked down the men walking around the table to assemble into our ten o’clock formation.||
 
 ### 基础词汇
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句 |
 |------|------|------|----------|------|
-| coworker | /ˈkəʊwɜːkə/ | n. | 同事 | My colleague smiled at me. |
-| bald | /bɔːld/ | adj. | 秃头的 | Gerald, whose bald head glinted under the fluorescent light. |
-| pitcher | /ˈpɪtʃə/ | n. | 大壶；饮水壶 | He moved coffee pitchers out of my reach. |
-| groan | /ɡrəʊn/ | n./v. | 呻吟；抱怨 | An exasperated grunt I was extremely familiar with filled the room. |
-| smirk | /smɜːk/ | n. | 傻笑；得意地笑 | A sneer breaking across his face. |
-| napkin | /ˈnæpkɪn/ | n. | 餐巾纸 | — |
-| annoying | /əˈnɔːɪŋ/ | adj. | 烦人的 | He was being extra difficult. |
-| cheek | /tʃiːk/ | n. | 脸颊 | I felt the heat in my cheeks. |
+|coworker|/ˈkəʊwɜːkə/|n.|Not the best way to make an impression on a new colleague, but tough shit.|Not the best way to make an impression on a new colleague, but tough shit.||
+|bald|/bɔːld/|adj.|Rolling my eyes, I moved onto Gerald, whose bald head glinted under the fluorescent light as he folded his rather chubby frame into the chair.|Rolling my eyes, I moved onto Gerald, whose bald head glinted under the fluorescent light as he folded his rather chubby frame into the chair.||
+|pitcher|/ˈpɪtʃə/|n.|It was also true that it had been Aaron leading it-during his first week in InTech-and it was again true that I had made a miserably loud entrance that might have involved accidentally knocking over a coffee pitcher.|It was also true that it had been Aaron leading it-during his first week in InTech-and it was again true that I had made a miserably loud entrance that might have involved accidentally knocking over a coffee pitcher.||
+|cheek|/tʃiːk/|n.|As if I had been caught doing something wrong-like thinking of him-I felt the heat in my cheeks and returned my attention to the list.|As if I had been caught doing something wrong-like thinking of him-I felt the heat in my cheeks and returned my attention to the list.||
 
 ---
 

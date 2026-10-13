@@ -6,11 +6,18 @@ source_text: "text/ch21_chapter_21.txt"
 
 # Chapter 21（精读分析）
 
-**一句话总结**：婚礼前夜的家宴上，Lina面对旧日伤痛与Aaron的真情承诺，在家人面前终于感受到"我们"不再只是谎言。
-
-**导航**：[[ch20 chapter 20]] | [[ch22 chapter 22]]
+## 本章导航
+- **视角**：第一人称女主 Lina
+- **地点**：Lina 西班牙家中/家宴
+- **核心事件**：婚礼前夜的家宴上，Aaron 向 Lina 做出真情承诺，两人在家人面前感受到"我们"不再只是谎言
+- **关系起点**：从假情侣到真感情——Lina 终于克服旧日伤痛，感受到 Aaron 的真心
+- **悬念钩子**：婚礼当天会发生什么？两人的感情会如何被见证？
 
 ---
+
+## 一句话总结
+
+婚礼前夜的家宴上，Lina面对旧日伤痛与Aaron的真情承诺，在家人面前终于感受到"我们"不再只是谎言。
 
 ## 引语块
 
@@ -150,36 +157,33 @@ source_text: "text/ch21_chapter_21.txt"
 |------|------|------|------|
 | tumble | /ˈtʌmbəl/ | 跌落，暴跌；（心）狂跳 | My heart **tumbled** down my chest. |
 | covet | /ˈkʌvət/ | 渴望，贪求 | One of those smiles that I was beginning to **covet** just for myself. |
-| devour | /dɪˈvaʊər/ | 吞噬，贪婪地看 | He spoke with a hunger that seemed to **devour** everything in its path. |
-| sear | /sɪər/ | 烧灼，烙印 | The scorching imprint of his lips **seared** my skin. |
-| crumble | /ˈkrʌmbəl/ | 崩塌，崩溃 | The ball of emotions **crumbled** down my chest. |
-| flutter | /ˈflʌtər/ | 飘动，心头一颤 | A **fluttering** sensation took over. |
-| thrum | /θrʌm/ | 持续低鸣 | I could hear my heart **thrum**ming in my ears. |
-| stifle | /ˈstaɪfəl/ | 抑制，窒息 | She tried to **stifle** a laugh but failed. |
-| seethe | /siːð/ | 怒火中烧 | I was **seething** with a mix of emotions I couldn't name. |
-| blaze | /bleɪz/ | 燃烧 | Something inside me **blazed** at his words. |
+|sear|/sɪər/|烧灼，烙印|Cheeks flushed, I swiveled my head, searching for any evidence that someone at the table had heard that.|
+|flutter|/ˈflʌtər/|飘动，心头一颤|Something fluttered low in my belly.|
 
 ### 进阶（6-8条）
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| clutch | /klʌtʃ/ | 抓紧 | She **clutched** his hand tighter. |
-| weave | /wiːv/ | 织，缠绕 | Our fingers **weaved** together. |
-| tremble | /ˈtrembəl/ | 发抖 | My whole body **trembled**. |
-| gulp | /ɡʌlp/ | 吞咽 | I **gulped** down the last of my wine. |
-| flush | /flʌʃ/ | 脸红 | My cheeks **flushed** crimson. |
-| flicker | /ˈflɪkər/ | 闪烁，摇曳 | A **flicker** of doubt crossed her face. |
-| drape | /dreɪp/ | 垂挂 | He **draped** his arm around her shoulders. |
-| knead | /niːd/ | 揉捏，按摩 | His fingers **kneaded** the tension from her shoulders. |
+|weave|/wiːv/|织，缠绕|Our fingers weaved together, each and every one of them.|
+|flush|/flʌʃ/|脸红|Cheeks flushed, I swiveled my head, searching for any evidence that someone at the table had heard that.|
+|knead|/niːd/|揉捏，按摩|There was a beat of silence, and Aaron’s fingers trailed up the back of my neck, gently kneading the muscles there.|
 
 ### 基础（5-7条）
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| squeeze | /skwiːz/ | 挤，压 | He **squeezed** her hand with purpose. |
-| whisper | /ˈwɪspər/ | 低声说 | "Relax," he **whispered** in her ear. |
-| sink | /sɪŋk/ | 下沉 | She felt herself **sink** into his embrace. |
-| melt | /melt/ | 融化 | Her body **melted** into his. |
-| tighten | /ˈtaɪtən/ | 收紧 | His jaw **tightened**. |
-| flutter | /ˈflʌtər/ | 颤动 | Her heart **fluttered**. |
-| thump | /θʌmp/ | 重击 | Her heart **thumped** against her chest. |
+|squeeze|/skwiːz/|挤，压|He squeezed my hand with purpose, his fingers tightening around mine, his palm warm against my skin.|
+|whisper|/ˈwɪspər/|低声说|So, before he could muster his answer, my dad was already refilling his glass.
+
+
+“You snooze, you lose,” I whispered, leaning in his direction.|
+|sink|/sɪŋk/|下沉|Leaving me there to sink with it.|
+|melt|/melt/|融化|Only I wasn’t in pain.
+
+
+“Sound like a plan?”
+
+
+“Yes,” I answered, incapable of not melting into his touch.|
+|tighten|/ˈtaɪtən/|收紧|He squeezed my hand with purpose, his fingers tightening around mine, his palm warm against my skin.|
+|flutter|/ˈflʌtər/|颤动|Something fluttered low in my belly.|

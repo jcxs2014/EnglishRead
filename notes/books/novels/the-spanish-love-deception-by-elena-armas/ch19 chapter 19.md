@@ -6,12 +6,12 @@ source_text: "text/ch19_chapter_19.txt"
 
 # Chapter 19（精读分析）
 
-**导航**
-1. [引语块 1-4](#引语块-1-4)｜[引语块 5-8](#引语块-5-8)
-2. [词汇表](#词汇表)
-3. [一句话总结](#一句话总结)
-
----
+## 本章导航
+- **视角**：第一人称女主 Lina
+- **地点**：西班牙婚礼宴会厅
+- **核心事件**：Lina 穿着高跟鞋在婚礼上险些摔倒，被 Aaron 救下后两人共舞，fake dating 的界限在舞蹈中逐渐模糊
+- **关系起点**：从肢体接触到情感确认——婚礼上的双人舞让两人意识到这已不只是协议
+- **悬念钩子**：婚礼上 Aaron 的告白会来吗？两人的关系会如何发展？
 
 ## 引语块 1-4
 
@@ -52,7 +52,7 @@ Aaron 给她倒了杯水放在床头柜上，Lina 说："如果你继续这样�
 ---
 
 > **③**
-> "All of them. I love animated movies. They take my mind off things. Disney, Pixar … I'm a big fan."
+> "I love animated movies. They take my mind off things."
 
 **中文理解**
 Aaron 承认他喜欢所有迪士尼和皮克斯的动画电影，它们能让他"从烦心事中抽离"。Lina 发现这个"冷面霸道总裁"居然喜欢卡通片，这是一个重要的"反差萌"时刻，打破了她对 Aaron 的刻板印象。
@@ -122,7 +122,7 @@ Aaron 说"闭上眼睛"，虽然用的是"请求"的语气，但实际上这不�
 ---
 
 > **⑥**
-> "Once, I told you I was patient. That I wasn't scared to work hard for what I wanted. I might not have been completely honest."
+> "Once, I told you I was patient."
 
 **中文理解**
 Aaron 在 Lina 闭眼后，开始用嘴唇轻触她的耳后，同时承认他之前说的"我有耐心"可能"不是完全诚实"——暗示他现在正在失去耐心，正在被对她的渴望逼到极限。
@@ -193,46 +193,99 @@ Aaron 解释他为什么庆幸自己没有在那一刻吻她——因为当他�
 
 | 词汇 | 词性 | 例句 |
 |------|------|------|
-| **threshold** | n. | "I crossed the threshold of that door." |
-| **unravel** | v. | "my careful grip I tried to maintain around Aaron seemed to be loosening" |
-| **confession** | n. | "There's something I need to tell you. A confession." |
-| **sultry** | adj. | "Something thick and sultry changed the atmosphere in the small room." |
-| **imperative** | n. | "Every other sense gradually heightened." |
-| **anticipation** | n. | "I anticipated his words, his touch, his next move like I had never anticipated anything." |
-| **crave** | v. | "my body craved more contact" |
-| **detonate** | v. | "I felt like I would detonate like a bomb if he didn't touch me there too." |
-| **whimper** | n./v. | "A helpless whimper left me." |
-| **plummet** | v. | "My stomach plummeted to my feet in response." |
+|**threshold**|n.|Ironically, and contrary to the story my body told, I didn’t think I had ever felt more awake than I did as I crossed the threshold of that door.|
+|**confession**|n.|Aaron’s confession-because it had felt like he was unveiling something he had kept guarded and locked away from sight-had created a little riot in my head.|
+|**sultry**|adj.|Something thick and sultry changed the atmosphere in the small room.
+
+
+“Close your eyes,” he requested.|
+|**anticipation**|n.|Everything I was feeling was slowly replaced by a weird mix of anticipation and something … new.|
+|**crave**|v.|Hot-he felt so hot and hard, branding my skin, even with layers of fabric separating us.
+
+
+“If you were mine, you’d crave this.” He then closed the rest of the distance that separated us very slowly.|
+|**detonate**|v.|And when they reached the corner of my mouth, I felt like I would detonate like a bomb if he didn’t touch me there too.|
+|**whimper**|n./v.|His mouth skimmed along my jaw, and my heart seemed to come back alive in my chest, making me realize I hadn’t really noticed how it had ceased to beat without his touch.
+
+
+“I don’t think I’d be able to deny you a single thing if you asked, Catalina.”
+
+
+He followed that with one openmouthed kiss against the side of my neck, almost ripping a whimper out of me.|
+|**plummet**|v.|Keep them closed.” He brushed another openmouthed kiss as a reward. “We’ll play this game a little longer.”
+
+
+My stomach plummeted to my feet in response.
+
+
+“For practice purposes,” he said, and the hand that was cupping my head started trailing down, down, down over my clothes, stopping on my waist and leaving a burning path behind.|
 
 ### 进阶
 
 | 词汇 | 词性 | 例句 |
 |------|------|------|
-| **jammies** | n. | "Once done with that and clad in my jammies, I filled my lungs with a deep breath." |
-| **flustered** | adj. | "I couldn't even begin to imagine what would happen." |
-| **fidget** | v. | "You are fidgeting." |
-| **unravel** | v. | "My unraveling attempts to convince myself I was cool and unaffected." |
-| **wobbly** | adj. | "My legs pushed my body up, propelling me in a rather wobbly way." |
-| **nape** | n. | "My fingers played with the short strands of hair in Aaron's nape." |
-| **shimmer** | v. | "there was something that looked a lot like shock in his expression" |
-| **candle** | v. | "he did it to my right cheek. My left cheek. My chin." |
-| **sway** | v. | "my body arching into him unconsciously" |
-| **throbbing** | adj. | "I could feel him throbbing against my belly." |
+|**jammies**|n.|Once done with that and clad in my jammies, I filled my lungs with a deep and hopefully energizing breath and returned to the bedroom.|
+|**fidget**|v.|A soft brush on the back of my arm derailed my inner pep talk, immediately lighting on fire my attempts to convince myself I was cool and unaffected.
+
+
+“What’s wrong?” He skimmed those fingers up and down the back of my arm. “You are fidgeting.”
+
+
+“Nothing is wrong.|
+|**wobbly**|adj.|Never mind that my legs wobbled with every step I took and exhaustion throbbed through my body.|
+|**throbbing**|adj.|I could feel him throbbing against my belly.
+
+
+“Lina.” My name left his lips like a soft prayer.|
 
 ### 基础
 
 | 词汇 | 词性 | 例句 |
 |------|------|------|
-| **bedroom** | n. | "I crossed the threshold of that door." |
-| **nightstand** | n. | "Aaron walked to the nightstand." |
-| **comforter** | n. | "I sat on top of the simple and silky comforter." |
-| **flats** | n. | "I occupied my hands, taking the flats off my hurting feet." |
-| **jaw** | n. | "His mouth stopped at my nose and repeated the soft caress." |
-| **temple** | n. | "Aaron's breath fell on my temple, sending a rush of sensation along the back of my neck." |
-| **waistband** | n. | "I could see the waistband of his underwear." |
-| **chiseled** | adj. | "Cover those chiseled pecs and abs." |
-| **towel** | n. | "Aaron disappeared in the tiny en suite bathroom." |
-| **blink** | v. | "My eyelids must have fluttered because Aaron said, 'No. Don't open them yet.'" |
+|**bedroom**|n.|Chapter 19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Nineteen
+
+
+
+
+
+
+
+
+
+
+
+
+For anyone witnessing my foolish attempts at reaching the bedroom, it would have been pretty obvious that I was about to face-plant on the floor.|
+|**nightstand**|n.|I watched him walk to the nightstand, where I had placed a few of my things, and set the glass there.
+
+
+“That for me?” I knew the answer, but the small gesture turned something inside of me to mush.|
+|**comforter**|n.|Feeling my legs wobble-for all the wrong reasons-I walked to the edge of the bed and sat on top of the simple and silky comforter.|
+|**flats**|n.|In an attempt to distract myself, I occupied my hands, taking the flats off my hurting feet.|
+|**temple**|n.|Once I was done with that, I rubbed my temples, telling myself to chill the heck out because this was okay.|
+|**waistband**|n.|They hung low on his hips-so low that I could see the waistband of his underwear-and they were a dark shade of gray that complemented his skin.|
+|**chiseled**|adj.|Cover those chiseled pecs and abs, stupidly flawless man who loves Up.|
 
 ---
 

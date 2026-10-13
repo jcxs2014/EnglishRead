@@ -6,13 +6,12 @@ source_text: text/ch08_chapter_8.txt
 
 # Chapter 8（精读分析）
 
-**导航**
-1. Lina 与 Aaron 出席慈善单身拍卖会，意外竞拍 Patrick James（Aaron 朋友 TJ 的父亲）
-2. 与 "Lady in Red" 多轮竞价，最终拍下 Aaron
-3. Aaron 罕见地展露笑容与笑声，令 Lina 心旌动摇
-4. Aaron 邀请 Lina 跳舞，开启身体接触的亲密时刻
-5. Lina 开始质疑这场"假约会"对自己的真实影响
-
+## 本章导航
+- **视角**：第一人称女主 Lina
+- **地点**：纽约上层社会慈善单身拍卖会会场
+- **核心事件**：Lina 与 Aaron 出席慈善单身拍卖会，与 "Lady in Red" 多轮竞价，最终 Lina 拍下 Aaron
+- **关系起点**：从敌对到暧昧——两人在舞蹈中身体接触，情感张力升温
+- **悬念钩子**：Aaron 为什么坚持不带女伴？Lady in Red 是谁？
 ---
 
 ## 引语块
@@ -23,7 +22,7 @@ source_text: text/ch08_chapter_8.txt
 
 **句子结构**：特殊疑问句，who knew 开头倒装，Aaron's past 与 family involvement in it 作 related to 的宾语从句。
 
-**关键词**：upper spheres 上流圈子；colorful 多彩多样；uptown old people 上流社会老人。
+**关键词**：upper spheres, colorful, Big Apple
 
 **表达方式**：自问自答的修辞——"Who knew...?"引出反差感，既显幽默又暗示 Lina 对新世界的惊叹与好奇。
 
@@ -37,7 +36,7 @@ source_text: text/ch08_chapter_8.txt
 
 **句子结构**：Every time + 过去完成时（we had encountered），Aaron introduced me as...，not adding...作伴随状语。
 
-**关键词**：introduced me as 以……身份介绍；without adding any label 不加任何称谓；lose all that tension 卸下紧张感。
+**关键词**：introduced me as, label, tension
 
 **表达方式**：以细节（"不加任何标签"）写情感转变——没有花哨的解释，只靠行动本身传递信任与自在。
 
@@ -51,7 +50,7 @@ source_text: text/ch08_chapter_8.txt
 
 **句子结构**：so 连接的并列句，前句"脸颊发热"后接"用喝酒来分散注意力"。
 
-**关键词**：cheeks heat 脸颊发红；distracted myself 转移注意力；taking a sip 抿一口。
+**关键词**：cheeks heat, distracted, fancy flute
 
 **表达方式**：以身体反应（脸红）呈现心理状态，配合机械性动作（喝酒），含蓄表达羞赧。
 
@@ -59,13 +58,13 @@ source_text: text/ch08_chapter_8.txt
 
 ---
 
-> "Hold up, what?" / "A date? Like a date, date?"
+> "Hold up, what? \"A date?\" His brows knit. \"Yes, a date.\" \"Like a date, date ?\""
 
 **中文理解**：Lina 震惊于 bachelor auction 的实质是"与单身汉约会"，连用两个"date"试图确认自己理解无误——她对整个概念的荒诞感到难以置信。
 
 **句子结构**：省略句表震惊；like a date, date 重复 date 表强调（口语化的核实方式）。
 
-**关键词**：Hold up 暂停/等一下（表震惊）；run-of-the-mill 普通的；bachelor auction 单身汉拍卖。
+**关键词**：Hold up, bachelor auction, run-of-the-mill
 
 **表达方式**：短句叠加 + 重复强调，制造出 Lina 手足无措的真实感。
 
@@ -73,13 +72,13 @@ source_text: text/ch08_chapter_8.txt
 
 ---
 
-> "I can't take the bachelor for a ride." I rushed out... "Not that kind of ride." ... "Not like a ride in a yeehaw kind of way. I said that because one takes cars for a ride. Like, for a spin. But not men, not in that way."
+> "I guess you cannot take the bachelor for a ride."
 
 **中文理解**：Lina 不小心把"约会"说成了"带人兜风"，越描越黑地连连否认——从"坐车兜风"扯到"牛仔骑马"，越说越离谱。
 
 **句子结构**：I rushed out（打断自己）+"Not that kind of ride"+ "Not like a ride in a yeehaw kind of way"+ because 原因解释从句。
 
-**关键词**：take someone for a ride 带人兜风（俚语：欺骗）；yeehaw 牛仔欢呼语；for a spin 兜风。
+**关键词**：for a ride, yeehaw, for a spin
 
 **表达方式**：连锁的自我纠正——每句话都在否定上一句，制造出层层递进的语言崩溃感，极具喜剧效果。
 
@@ -93,7 +92,7 @@ source_text: text/ch08_chapter_8.txt
 
 **句子结构**：and 连接的并列句，后句"Not anyone else's"省略与前句相同的主语 the highest bid。
 
-**关键词**：the highest bid 最高出价；Not anyone else's 强调归属——"是（你的）"而非任何其他人的。
+**关键词**：the highest bid, yours, anyone else's
 
 **表达方式**：简短、断言式、靠近耳边——句短意深，配合肢体靠近制造压迫感与亲密感。
 
@@ -107,7 +106,7 @@ source_text: text/ch08_chapter_8.txt
 
 **句子结构**：My mouth opened（主句）+ telling him...（伴随）+ But the lines...（but 转折的从句）。
 
-**关键词**：inserting my foot in my mouth 说错话；the lines delimiting our deal 交易边界；blurry 模糊。
+**关键词**：inserting my foot in my mouth, blurry, delimiting our deal
 
 **表达方式**：内心独白 + 对话打断——用括号内的心理活动打断正要出口的否认，制造出张力与悬念。
 
@@ -121,7 +120,7 @@ source_text: text/ch08_chapter_8.txt
 
 **句子结构**：The biggest...smile was splitting his expression（主句）+ Wrinkling...（现在分词伴随）+ Transforming him into...（现在分词结果）。
 
-**关键词**：splitting his expression 笑容绽开；wrinkling the corners of his eyes 眼角皱纹（真实笑容的标志）；couldn't take in fast enough 看不够。
+**关键词**：splitting his expression, wrinkling the corners of his eyes, couldn't take in
 
 **表达方式**：三个 -ing 并列（splitting / wrinkling / transforming），节奏递进，快门式捕捉一个决定性瞬间。
 
@@ -135,42 +134,107 @@ source_text: text/ch08_chapter_8.txt
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句 |
 |------|------|------|----------|------|
-| aloof | /əˈluːf/ | adj. | 疏离的，冷淡的 | He seemed to remain **aloof** and unapproachable. |
-| inadvertently | /ˌɪnədˈvɜːrtəntli/ | adv. | 非故意地，无意中 | She had **inadvertently** bid on Patrick instead of Aaron. |
-| exasperation | /ɪɡˌzæspəˈreɪʃən/ | n. | 恼怒，厌烦 | His **exasperation** was written all over his face. |
-| stoic | /ˈstoʊɪk/ | adj. | 坚忍的，不动声色的 | His expression was **stoic**, revealing nothing. |
-| resolute | /ˈrezəluːt/ | adj. | 坚定的，果断的 | Her **resolute** gaze never wavered from the stage. |
-| flustered | /ˈflʌstərd/ | adj. | 慌张的，紧张的 | She felt completely **flustered** by his proximity. |
-| brood | /bruːd/ | v. | 沉思，郁郁思考 | She watched Aaron **brood** on the stage, jaw tight. |
-| tingly | /ˈtɪŋɡli/ | adj. | 麻刺感的，一阵一阵的 | Her skin felt **tingly** all over from the closeness. |
-| smirk | /smɜːrk/ | n./v. | 得意地笑，幸灾乐祸 | She sent Lady in Red a **smirk** after winning. |
-| glower | /ˈɡlaʊər/ | v. | 怒视，瞪着 | Aaron **glowered** at his friend across the room. |
+|exasperation|It’s stupid.”
+
+
+Aaron shot me a tired glance. “Out with it, Catalina.”
+
+
+“If people are bidding-buying-all these bachelors”-I watched his eyes narrow, exasperation written all over his face-“what happens next?|n.|恼怒，厌烦|It’s stupid.”
+
+
+Aaron shot me a tired glance. “Out with it, Catalina.”
+
+
+“If people are bidding-buying-all these bachelors”-I watched his eyes narrow, exasperation written all over his face-“what happens next?|
+|stoic|/ˈstoʊɪk/|adj.|坚忍的，不动声色的|Neutrally stoic.|
+|tingly|/ˈtɪŋɡli/|adj.|麻刺感的，一阵一阵的|Understood?”
+
+
+Those last few words seemed to echo in my mind, mingling with the fluttering sensation in my belly, making my skin tingle.|
+|smirk|/smɜːrk/|n./v.|得意地笑，幸灾乐祸|More than ten different people had their arms already in the air.
+
+
+“I love seeing your involvement,” Angela continued with a knowing smirk. “Fifteen hundred for the lady in red.”
+
+
+Turning, I located this involved with the cause lady in red.|
 
 ### 进阶（⭐⭐）
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句 |
 |------|------|------|----------|------|
-| spectacular | /spekˈtækjələr/ | adj. | 壮观的，精彩的 | The **spectacular** rooftop venue left her speechless. |
-| flutter | /ˈflʌtər/ | v./n. | 心跳加速，心神不宁 | Something **fluttered** in her belly when he leaned closer. |
-| auction | /ˈɔːkʃən/ | n. | 拍卖会 | The bachelor **auction** was about to begin. |
-| bid | /bɪd/ | v./n. | 出价，竞拍 | She raised her hand to **bid** on Aaron. |
-| tension | /ˈtenʃən/ | n. | 紧张感 | The **tension** between them was palpable. |
-| proximity | /prɑːkˈsɪməti/ | n. | 接近，靠近 | She was overwhelmed by his **proximity**. |
-| mingle | /ˈmɪŋɡəl/ | v. | 混合，交织 | His words **mingled** with the fluttering in her chest. |
-| mischievous | /ˈmɪstʃɪvəs/ | adj. | 调皮的，捉弄人的 | Angela's **mischievous** smile said volumes. |
-| fidget | /ˈfɪdʒɪt/ | v. | 坐立不安，小动作 | She tried not to **fidget** under his gaze. |
-| shrug | /ʃrʌɡ/ | v./n. | 耸肩（表示无所谓） | She gave a tight **shrug** and turned back to the stage. |
-| gulp | /ɡʌlp/ | v. | 倒吸一口气 | He **gulped** visibly before answering. |
+|spectacular|/spekˈtækjələr/|adj.|壮观的，精彩的|But I had not expected the spectacular rooftop where we had been welcomed with a flute glass of the tastiest sparkling wine I had ever had the pleasure to drink.|
+|flutter|/ˈflʌtər/|v./n.|心跳加速，心神不宁|Then, he took one more step, and something fluttered in my belly.
+
+
+“Luckily”-he leaned closer, fixating his blue eyes on me-“you are here tonight.”
+
+
+The flutter intensified.|
+|auction|/ˈɔːkʃən/|n.|拍卖会|Chapter 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Eight
+
+
+
+
+
+
+
+
+
+
+
+
+When Aaron had mentioned fundraiser, followed by auction, I had pictured a fancy but frilly room filled with wealthy and uptown old people.|
+|tension|/ˈtenʃən/|n.|紧张感|Which somehow helped me lose all that tension I had carried with me from the car drive and definitely aided with my newfound intention of trying to enjoy myself.|
+|proximity|/prɑːkˈsɪməti/|n.|接近，靠近|That kernel that had been planted back in my apartment-that awareness of Aaron’s body, the way his proximity was really hard to ignore all of a sudden-sprouted.|
+
+
+Those last few words seemed to echo in my mind, mingling with the fluttering sensation in my belly, making my skin tingle.|
+|mischievous|/ˈmɪstʃɪvəs/|adj.|调皮的，捉弄人的|I signed him up for the auction.” That mischievous smile was back. “It’s time he gets out there and starts living his life again.|
+|shrug|/ʃrʌɡ/|v./n.|耸肩（表示无所谓）|I suppressed the urge.
+
+
+“Oh, okay.” I shrugged. “I’m sure getting mobbed by overexcited bidders is a common occurrence for you then, Blackford.” I teased him because how could I not when he looked all … mortified and ready to come out of his skin?|
 
 ### 基础（⭐）
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句 |
 |------|------|------|----------|------|
-| cheerful | /ˈtʃɪrfəl/ | adj. | 开心的，愉快的 | The **cheerful** atmosphere lifted her mood. |
-| nervous | /ˈnɜːrvəs/ | adj. | 紧张的 | She felt **nervous** standing so close to him. |
-| handsome | /ˈhænsəm/ | adj. | 英俊的，帅气的 | That was the **handsomest** smile she had ever seen. |
-| excited | /ɪkˈsaɪtɪd/ | adj. | 兴奋的 | She felt **excited** about the unexpected turn of events. |
-| embarrassed | /ɪmˈbærəst/ | adj. | 尴尬的 | She was **embarrassed** by her own rambling explanation. |
+|nervous|/ˈnɜːrvəs/|adj.|紧张的|A wave of nervousness washed over me. “You guys should go.” My smile turned tight. “I can spare the company for a little while.” I lowered my voice. “I’m sure you know how chatty he can get.” I pointed at Aaron. “So, my ears can use the break.”
+
+
+TJ cackled again. “Are you sure you want to spend your money on him, Lina?|
+|handsome|/ˈhænsəm/|adj.|英俊的，帅气的|The biggest, widest, and handsomest smile was splitting his expression.|
+|excited|/ɪkˈsaɪtɪd/|adj.|兴奋的|He’s very excited.” Before Aaron or I could say anything-Aaron because he still looked a little lost himself and me because I was trying to understand why-TJ turned to me. “So, Lina, if you get tired of his boring face, just know there are not one, but two James men available on the stage.”
+
+
+“I’ll make sure to remember that.” I smiled at him, trying to lighten my tone. “Although I think I have my hands full with this one.”
+
+
+I felt Aaron’s eyes on me, warming up my face.|
+|embarrassed|/ɪmˈbærəst/|adj.|尴尬的|But I didn’t have time to be embarrassed.|
 
 ---
 

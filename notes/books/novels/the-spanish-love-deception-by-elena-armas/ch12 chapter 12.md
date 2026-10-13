@@ -7,12 +7,11 @@ source_text: "text/ch12_chapter_12.txt"
 # Chapter 12（精读分析）
 
 ## 本章导航
-
-1. **核心事件**：Lina 与 Aaron 在咖啡馆 Around the Corner 偶遇，两人从职场对手关系延伸到日常相处。
-2. **关键转折**：Aaron 主动为 Lina 买咖啡，遭到她的抵抗——她不愿欠他人情。
-3. **本章高光**：Aaron 在咖啡馆对 Lina 说"You like bringing me to my knees"，极具调情意味的双关语。
-4. **悬念铺垫**：Aaron 提到他"pay attention when you talk, even when you mumble to yourself"，暗示他一直在关注她。
-5. **情感走向**：两人从相互试探走向更自然的互动，Lina 开始接受 Aaron 的好意。
+- **视角**：第一人称女主 Lina
+- **地点**：咖啡馆 Around the Corner
+- **核心事件**：Lina 与 Aaron 在咖啡馆偶遇，Aaron 主动为她买咖啡并说调情双关语 "You like bringing me to my knees"
+- **关系起点**：从职场对手延伸到日常相处——Lina 开始接受 Aaron 的好意
+- **悬念钩子**：Aaron 说 "pay attention when you talk" 暗示他一直在关注 Lina？
 
 ## 精读
 
@@ -126,7 +125,7 @@ Aaron 用"debt"这种经济词汇，是在回应 Lina 的思维方式——她�
 ---
 
 > **原句 6:**
-> "Always fighting me." / "Resisting me."
+> "Always fighting me."
 
 **中文理解**
 Aaron 在 Lina 耳边低声说这两句话——"总是和我对抗""抗拒我"。这是一个极具调情意味的场景：他凑近她，说她在抗拒他。潜台词是：你为什么抗拒我？你在抗拒什么？
@@ -194,40 +193,49 @@ Aaron 对 Lina 不吃饭的执着是 love interest 的 signature behavior——�
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **empathetically** | /ˌempəˈθetɪkli/ | 换位思考地 | "You are not a random woman," he countered calmly. |
-| **condescension** | /ˌkɒndɪˈsenʃən/ | 居高临下；傲慢 | "Every once in a while, you do say something interesting." |
-| **emphatic** | /ɪmˈfætɪk/ | 强调的；有力的 | "You do say something interesting." The "do" is emphatic assertion. |
 | **proximity** | /prɒkˈsɪməti/ | 接近；亲近 | The motion had been unexpected, and my breath hitched with surprise. |
-| **ameliorate** | /əˈmiːliəreɪt/ | 改善 | "What's so surprising, Catalina? I pay attention when you talk." |
-| **oblivious** | /əˈblɪviəs/ | 未察觉的 | "You are not a random woman," he countered calmly, and then he leaned on the counter. |
-| **scrutinize** | /ˈskruːtənaɪz/ | 仔细检查 | "It's worse than I thought," he said, scanning my face. |
-| **ameliorate** | /əˈmiːliəreɪt/ | 改善 | "I pay attention when you talk. Even when you mumble to yourself." |
 
 ### 进阶词汇（Intermediate）8词
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **smirk** | /smɜːk/ | 假笑；得意地笑 | That smirk stretched into a lopsided smile. |
-| **side-glance** | /ˈsaɪd ɡlæns/ | 侧目；瞥一眼 | I sent Aaron a side-glance. "Aren't you supposed to be at work?" |
-| **lean** | /liːn/ | 倚靠；倾斜 | He leaned on the counter. Right beside me. |
-| **flutter** | /ˈflʌtər/ | 飘动；心绪不宁 | My heart tripped, making my chest feel like I had just sprinted. |
+|**lean**|/liːn/|倚靠；倾斜|Just like one of those ponds where the water doesn’t even move.”
+
+
+I turned away from him, taking in Sally, who was leaning against the counter, chin resting on the back of her hand, engrossed in my conversation with Aaron. “I’m starting to miss you less and less, Sally,” I quipped and watched her smile widen as she straightened.|
 | **wrinkle** | /ˈrɪŋkl/ | 皱纹；皱眉 | The start of a satisfied smile tugging at the corners of his lips. |
-| **gape** | /ɡeɪp/ | 目瞪口呆 | I gaped at his profile as he brought his mug to his lips. |
-| **huff** | /hʌf/ | 喷气；喘气 | "Jesus, Catalina," he huffed, looking back at me, horrified. |
+|**gape**|/ɡeɪp/|目瞪口呆|I gaped at his profile as he brought his mug to his lips, looking all pleased.
+
+
+“You know what, Aaron?” I shrugged my shoulders, fighting the smile that wanted to break across my expression. “I truly am disappointed.”
+
+
+“You are?” That smug look fell off his face.
+
+
+“Oh, so much.|
 | **grin** | /ɡrɪn/ | 露齿笑 | Both of us fighting what I knew were petty smiles. |
 
 ### 基础词汇（Basic）8词
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **coffee** | /ˈkɒfi/ | 咖啡 | "Thank you, Sally." That voice. It belonged to the man who would be boarding a plane with me tomorrow. |
-| **brownie** | /ˈbraʊni/ | 布朗尼蛋糕 | "Brownies—make it two, please," I told Sally. |
-| **order** | /ˈɔːrdər/ | 点单；命令 | "Do you want your order to go, Lina?" |
+|**coffee**|/ˈkɒfi/|咖啡|I’ll have my coffee and brownie here.” I paused, reconsidering that. “Brownies-make it two, please,” I told Sally as I followed her with my gaze from the counter to the espresso machine. “I can indulge.|
+|**brownie**|/ˈbraʊni/|布朗尼蛋糕|Contingency plan: triple-chocolate brownie.|
+|**order**|/ˈɔːrdər/|点单；命令|More specifically, to the only place in New York City that held the power to appease the raging beast that was my anxiety right now.
+
+
+“Do you want your order to go, Lina?” Sally asked from the other side of the counter. “How is Rosie, by the way?|
 | **counter** | /ˈkaʊntər/ | 柜台 | Sally placed both our orders on the counter. |
-| **smile** | /smaɪl/ | 微笑 | I sent Aaron a side-glance. "Aren't you supposed to be at work?" |
-| **frown** | /fraʊn/ | 皱眉 | His dark eyebrows knit together. |
-| **shoulder** | /ˈʃoʊldər/ | 肩膀 | I turned in his direction again, leaning my hip on the counter. |
-| **bag** | /bæɡ/ | 袋子 | "All right, Blackford. Thank you too. Always a pleasure doing business with you." |
+|**smile**|/smaɪl/|微笑|Having her waiting in New York when I came back from my trip to wedding-doom with an understanding smile and the pint of ice cream I’d definitely need would mean the world.
+
+
+“And no, thanks.|
+|**frown**|/fraʊn/|皱眉|I frowned, something sounding very familiar about that order.|
+|**shoulder**|/ˈʃoʊldər/|肩膀|I took the day off work.”
+
+
+She methodically weighed the coffee beans. “Oh, you must have really missed me if you are sticking around for so long,” she commented as she smiled at me over her shoulder. “Not that I’d blame you.|
 
 ## 一句话总结
 

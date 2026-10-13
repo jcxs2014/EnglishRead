@@ -6,7 +6,7 @@ source_text: "text/ch07_chapter_7.txt"
 
 # Chapter 7（精读分析）
 
-**导航**
+## 导航
 - **视角**：第一人称女主Lina（Aaron称她Catalina）
 - **地点**：Aaron的车内（从Brooklyn开往曼哈顿Park Avenue）
 - **核心事件**：在去慈善活动的路上，Aaron首次向Lina透露自己大学踢足球的经历，以及这个年度活动的真实目的——他本人将被拍卖
@@ -15,7 +15,7 @@ source_text: "text/ch07_chapter_7.txt"
 
 ---
 
-**引语块 1**
+### 引语块 1
 > "I never know with you, you know?"
 
 **中文理解**："我永远搞不懂你，你懂吗？"
@@ -32,7 +32,7 @@ source_text: "text/ch07_chapter_7.txt"
 
 ---
 
-**引语块 2**
+### 引语块 2
 > "I don't like to play games, Catalina."
 
 **中文理解**："我不喜欢玩游戏，Catalina。"
@@ -49,8 +49,8 @@ source_text: "text/ch07_chapter_7.txt"
 
 ---
 
-**引语块 3**
-> "If I end things with a woman, I end them. And if I am interested in someone, I make myself heard. I will find a way for her to know. Sooner or later, she'll know."
+### 引语块 3
+> "If I end things with a woman, I end them."
 
 **中文理解**："如果我和一个女人分手，我会彻底结束。如果我对某人有兴趣，我会让她知道。我会找到办法让她知道。迟早，她会知道。"
 
@@ -67,7 +67,7 @@ source_text: "text/ch07_chapter_7.txt"
 
 ---
 
-**引语块 4**
+### 引语块 4
 > "I used to play football in college," he admitted, catching me completely by surprise.
 
 **中文理解**："我以前在大学踢足球，"他承认道，这完全出乎我的意料。
@@ -85,7 +85,7 @@ source_text: "text/ch07_chapter_7.txt"
 
 ---
 
-**引语块 5**
+### 引语块 5
 > "That's Washington up north, right? I know because of Twilight. Forks is supposed to be a few hours away."
 
 **中文理解**："那是北边的华盛顿，对吧？我知道是因为《暮光之城》。福克斯应该离那儿只有几个小时车程。"
@@ -103,7 +103,7 @@ source_text: "text/ch07_chapter_7.txt"
 
 ---
 
-**引语块 6**
+### 引语块 6
 > "I attend whenever I'm able to. It's good to see a few people I've known for most of my life, and it's for a cause I care about."
 
 **中文理解**："只要可以我都会参加。能见到我一生中大部分时间认识的人很好，而且这是一个我关心的公益事业。"
@@ -120,7 +120,7 @@ source_text: "text/ch07_chapter_7.txt"
 
 ---
 
-**引语块 7**
+### 引语块 7
 > "Me." He tilted his head, holding my gaze. "That's what's being auctioned." His voice matched the quality of his eyes, making a shiver trail down my arms. "And that's what you'll be bidding on tonight, Catalina. Me."
 
 **中文理解**："我。"他歪着头，盯着我的目光。"这就是被拍卖的东西。"他的声音与眼神一样有质感，让我的手臂一阵颤抖。"这就是你今晚要竞拍的，Catalina。我。"
@@ -139,7 +139,7 @@ source_text: "text/ch07_chapter_7.txt"
 
 ---
 
-**引语块 8**
+### 引语块 8
 > "Miss Martín, if you please."
 
 **中文理解**："马丁小姐，请您。"
@@ -156,92 +156,88 @@ source_text: "text/ch07_chapter_7.txt"
 
 ---
 
-**词汇表**
+## 本章词汇
 
-**高级词汇**（⭐⭐⭐）
+### ⭐⭐⭐ 高级词汇
 
-1. `auction` n/v. 拍卖
-   - 例句："What's being auctioned?" I fidgeted with the simple gold cuff bracelet. "Is it art?"
-
-2. `charity` n. 慈善
-   - 例句：It's a charity event. A fundraiser that takes place every year.
-
-3. `rehabilitation` n. 康复、修复
-   - 例句：…for raising money that will eventually go to shelter, rehabilitate, and find homes for rescued animals.
-
-4. `revelation` n. 揭示、揭露
+1. `revelation` /ˌrevəˈleɪʃn/ n. — 揭示，揭露
    - 例句：I blinked at him for a long moment. My whole body numb with things I failed to pin down.
 
-5. `wolfish` adj. 狼似的、贪婪的
-   - 例句：His blue gaze settled on me one last time, and I swore there was something wolfish, something a little wild, about them.
-
-6. `strangled` adj. 压抑的、哽住的
-   - 例句：…sounding closer to something strangled.
-
-7. `discombobulated` adj. 困惑的、不知所措的
+2. `discombobulated` /ˌdɪskəmˈbɒbjuleɪtɪd/ adj. — 困惑的，不知所措的
    - 例句：…clearly enjoying how discombobulated I was.
 
-8. `hammering` n. 敲击、剧烈的跳动
+3. `strangled` /ˈstræŋɡld/ adj. — 压抑的，哽住的
+   - 例句：…sounding closer to something strangled.
+
+4. `rehabilitation` /ˌriːhəbɪlɪˈteɪʃn/ n. — 康复，修复
+   - 例句：…for raising money that will eventually go to shelter, rehabilitate, and find homes for rescued animals.
+
+5. `wolfish` /ˈwʊlfɪʃ/ adj. — 狼似的，贪婪的
+   - 例句：His blue gaze settled on me one last time, and I swore there was something wolfish, something a little wild, about them.
+
+6. `hammering` /ˈhæmərɪŋ/ n. — 剧烈的跳动
    - 例句：I tried to keep the hammering in my chest under control.
 
-**进阶词汇**（⭐⭐）
-
-1. `fidget` v. 坐立不安、烦躁
+7. `auction` /ˈɔːkʃn/ n/v. — 拍卖
    - 例句："What's being auctioned?" I fidgeted with the simple gold cuff bracelet.
 
-2. `puzzle` v. 使困惑
-   - 例句：That got me a reaction. He sent me a puzzled look.
+8. `charity` /ˈtʃærəti/ n. — 慈善
+   - 例句：It's a charity event. A fundraiser that takes place every year.
 
-3. `rumble` n/v. 隆隆声
+### ⭐⭐ 进阶词汇
+
+1. `fidget` /ˈfɪdʒɪt/ v. — 坐立不安，烦躁
+   - 例句："What's being auctioned?" I fidgeted with the simple gold cuff bracelet.
+
+2. `puzzled` /ˈpʌzld/ adj. — 困惑的
+   - 例句：He sent me a puzzled look.
+
+3. `rumble` /ˈrʌmbl/ n. — 隆隆声
    - 例句：His voice went at least an octave down, a rumble in the confined space.
 
-4. `grin` n/v. 露齿笑
+4. `grin` /ɡrɪn/ n/v. — 露齿笑
    - 例句：My lips snapped closed and then opened back up, probably making me look like a grin.
 
-5. `tug` v. 拖、拉
-   - 例句：I willed my gaze up, back to his blue eyes. They were still studying me.
+5. `tug` /tʌɡ/ v. — 拖，拉
+   - 例句：I willed my gaze up, back to his blue eyes.
 
-6. `inch` v. 缓慢移动
+6. `inch` /ɪntʃ/ v. — 缓慢移动
    - 例句：I could have sworn that his body inched in my direction.
 
-7. `tingly` adj. 刺痛的、麻的
+7. `tingly` /ˈtɪŋɡli/ adj. — 刺痛的，麻的
    - 例句：Still taking up too much space and still making me feel itchy and tingly.
 
-8. `twitch` v. 抽动、抖动
+8. `twitch` /twɪtʃ/ v. — 抽动，抖动
    - 例句：I watched his lips twitch. In anger or humor, I didn't know.
 
-**基础词汇**（⭐）
+### ⭐ 基础词汇
 
-1. `guess` v. 猜测
+1. `guess` /ɡes/ v. — 猜测
    - 例句："I guess," I continued, enjoying myself far too much.
 
-2. `blush` v/n. 脸红
+2. `blush` /blʌʃ/ v/n. — 脸红
    - 例句：Flushed. I was flushed, and my makeup was probably not doing anything to hide the dark shade of red spreading through my cheeks.
 
-3. `nod` v/n. 点头
+3. `nod` /nɒd/ v/n. — 点头
    - 例句：He nodded, his gaze remaining on the road.
 
-4. `stare` v/n. 盯着看
+4. `stare` /steər/ v/n. — 盯着看
    - 例句：We stared at each other for two or three long seconds.
 
-5. `sigh` n/v. 叹息
+5. `sigh` /saɪ/ n/v. — 叹息
    - 例句：He exhaled softly, and I smelled the mint on his breath.
 
-6. `smirk` n/v. 假笑、得意地笑
+6. `smirk` /smɜːrk/ n/v. — 假笑，得意地笑
    - 例句：One of the corners of his lips bent with the start of a smirk.
 
-7. `grip` v/n. 握紧
+7. `grip` /ɡrɪp/ v/n. — 握紧
    - 例句：His fingers gripped the steering wheel tighter.
 
-8. `breathless` adj. 喘不过气的
-   - 例句：Every rational thought was long-lost, but I knew what he was talking about. Of course I did.
-
-9. `freaking` adj. 该死的（俚语强调）
-   - 例句：Why did it sound so freaking different when Aaron was the one needing someone?
-
-10. `fancy` adj. 花哨的、高档的
-    - 例句：Park Avenue. No, no, no, no. That sounded fancy.
+8. `breathless` /ˈbreθləs/ adj. — 喘不过气的
+   - 例句：Every rational thought was long-lost, but I knew what he was talking about.
 
 ---
 
-**一句话总结**：Aaron在车内首次向Lina展露私人生活（大学足球经历、动物福利慈善），并揭示今晚慈善活动的惊人真相——他本人将被拍卖，而Lina将成为他的竞拍者。
+## 一句话总结
+
+Aaron在车内首次向Lina展露私人生活（大学足球经历、动物福利慈善），并揭示今晚慈善活动的惊人真相——他本人将被拍卖，而Lina将成为他的竞拍者。

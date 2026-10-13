@@ -6,11 +6,18 @@ source_text: "text/ch20_chapter_20.txt"
 
 # Chapter 20（精读分析）
 
-**一句话总结**：Lina从Aaron床上醒来，在Charo和家人的注视下假装一切如常，却发现自己的心早已越过fake dating的界限。
-
-**导航**：[[ch21 chapter 21]] | [[ch22 chapter 22]]
+## 本章导航
+- **视角**：第一人称女主 Lina
+- **地点**：Aaron 在西班牙的家/卧室
+- **核心事件**：Lina 从 Aaron 床上醒来，在 Charo 和家人的注视下假装一切如常
+- **关系起点**：从 fake dating 到真心——Lina 发现自己的心早已越过 fake dating 的界限
+- **悬念钩子**：两人的关系会被家人发现吗？Charo 对此会有什么反应？
 
 ---
+
+## 一句话总结
+
+Lina从Aaron床上醒来，在Charo和家人的注视下假装一切如常，却发现自己的心早已越过fake dating的界限。
 
 ## 引语块
 
@@ -148,38 +155,41 @@ source_text: "text/ch20_chapter_20.txt"
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| reverberate | /rɪˈvɜːrbəreɪt/ | 回响，持续影响 | All those images had to have been a dream because we couldn't have almost kissed. That was completely crazy. That was— At the fastest pace known to man, all the events from last night solidified. They tumbled down my memory, **reverberating** behind my eyes. |
-| sizzle | /ˈsɪzəl/ | 发出滋滋声，形容热烈情绪 | Something **sizzled** in the pit of my stomach as he leaned closer. |
 | flutter | /ˈflʌtər/ | 飘动，心头一颤 | And that only encouraged the **flutter** to take flight and spread to the rest of my body. |
-| cocoon | /kəˈkuːn/ | 茧，包裹 | I wanted to **cocoon** myself in his arms and forget the world outside. |
 | lopsided | /ˌlɒpˈsaɪdɪd/ | 不对称的，一边倒的 | He accompanied that with a teeny-tiny, **lopsided** smile. |
-| reverberate | /rɪˈvɜːrbəreɪt/ | 回响 | The memory **reverberated** through my mind like a stone dropped in still water. |
-| delectable | /dɪˈlektəbəl/ | 美味的，令人愉悦的 | That position caused his biceps to flex and look all big and **delectable**. |
-| materialize | /məˈtɪəriəlaɪz/ | 突然出现 | As if the very devil was being summoned by Charo, Aaron **materialized** in the kitchen. |
-| snug | /snʌɡ/ | 贴身的，舒适的 | His features were seemingly **snug** with sleep, relaxed. |
-| gawking | /ˈɡɔːkɪŋ/ | 呆呆地盯着看 | Averting my gaze before all this **gawking** and daydreaming damaged my brain. |
+|delectable|/dɪˈlektəbəl/|美味的，令人愉悦的|That position caused his biceps to flex and look all big and delectable and-
+
+
+Jesus Christ, Catalina.|
+|materialize|/məˈtɪəriəlaɪz/|突然出现|As if the very devil was being summoned by Charo, who kept talking about him, or by me, who kept thinking about him one way or the other, Aaron materialized in the kitchen.|
+|snug|/snʌɡ/|贴身的，舒适的|His features were seemingly snug with sleep, relaxed, and his hair was adorably ruffled.|
+|gawking|/ˈɡɔːkɪŋ/|呆呆地盯着看|Averting my gaze before all this gawking and daydreaming damaged my brain, I forced my lungs to take in the oxygen my body seemed to need in that moment.
+
+
+“Ay!” Charo’s screech made me flinch. “Mira quién está aquí!|
 
 ### 进阶（6-8条）
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | solidifying | /səˈlɪdɪfaɪɪŋ/ | 固化，清晰化 | All the events from last night **solidified**. |
-| stumble | /ˈstʌmbəl/ | 踉跄 | My heart **stumbled** in my chest. |
-| flutter | /ˈflʌtər/ | 飘动，心头一颤 | That only encouraged the **flutter** to take flight. |
-| drape | /dreɪp/ | 垂挂 | His arm **draped** across my waist. |
-| tingle | /ˈtɪŋɡəl/ | 刺痛，兴奋感 | My whole body began to **tingle**. |
+|flutter|/ˈflʌtər/|飘动，心头一颤|But it was the look on his face that started-no, rekindled-the fluttering sensation in the pit of my stomach.|
+|tingle|/ˈtɪŋɡəl/|刺痛，兴奋感|But it was hard when those fingers felt so hot against my skin, causing my whole body to tingle.|
 | splay | /spleɪ/ | 展开，张开 | All five fingers **splayed** on my skin. |
-| thrum | /θrʌm/ | 发出持续声音 | The drumming in my head wouldn't stop **thrum**ming. |
-| stumble | /ˈstʌmbəl/ | 踉跄 | I **stumbled** out of the room on my tiptoes. |
 
 ### 基础（5-7条）
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | stretch | /stretʃ/ | 伸展 | Aaron **stretched** beside me. |
-| freeze | /friːz/ | 僵住 | The blood in my body **froze**. |
-| whisper | /ˈwɪspər/ | 低语 | A low groan climbed up my throat, and I had no other choice but to muffle it. |
-| squeeze | /skwiːz/ | 捏，紧握 | His arm **tightened** around me, and I had to restrain myself. |
-| tuck | /tʌk/ | 把……塞进 | He placed us both back on the stool, **tucking** me against him. |
-| flutter | /ˈflʌtər/ | 颤动 | My eyelashes **fluttered**. |
-| tighten | /ˈtaɪtən/ | 收紧 | His fingers **tightened** around mine. |
+|whisper|/ˈwɪspər/|低语|The one I had heard directed at me more than once, always muttered or whispered, or just like she had done, loud and clear.|
+|squeeze|/skwiːz/|捏，紧握|Aaron’s hand squeezed my arm gently, and I released all the air in my lungs.|
+|tuck|/tʌk/|把……塞进|While keeping me tucked to him.|
+|flutter|/ˈflʌtər/|颤动|But it was the look on his face that started-no, rekindled-the fluttering sensation in the pit of my stomach.|
+|tighten|/ˈtaɪtən/|收紧|I know better than that.”
+
+
+His arm tightened around me, and I had to restrain myself from wrapping my hands around it.
+
+
+“What are you doing?” I whispered loudly.|

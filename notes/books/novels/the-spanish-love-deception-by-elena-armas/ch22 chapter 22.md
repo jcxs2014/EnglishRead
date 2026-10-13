@@ -6,11 +6,18 @@ source_text: "text/ch22_chapter_22.txt"
 
 # Chapter 22（精读分析）
 
-**一句话总结**：婚礼当日，Lina在Kiss Cam的推波助澜下终于向Aaron承认"This is real"，两人在花园墙角完成了从fake到true的跨越。
-
-**导航**：[[ch20 chapter 20]] | [[ch21 chapter 21]]
+## 本章导航
+- **视角**：第一人称女主 Lina
+- **地点**：婚礼现场/花园墙角
+- **核心事件**：在 Kiss Cam 推波助澜下，Lina 终于向 Aaron 承认 "This is real"，完成从 fake 到 true 的跨越
+- **关系起点**：从 fake dating 到真正确认——两人在婚礼当天完成情感确认
+- **悬念钩子**：两人的感情公开后会有什么后续？故事如何收尾？
 
 ---
+
+## 一句话总结
+
+婚礼当日，Lina在Kiss Cam的推波助澜下终于向Aaron承认"This is real"，两人在花园墙角完成了从fake到true的跨越。
 
 ## 引语块
 
@@ -96,7 +103,7 @@ source_text: "text/ch22_chapter_22.txt"
 
 **6.**
 
-> "Real. This is real. Kiss me, Aaron. Prove to me that it is."
+> "Kiss me, Aaron," I told him breathlessly. "Prove to me that it is."
 
 **中文理解**：真实的。这是真实的。亲我，Aaron。向我证明它是真的。
 
@@ -148,38 +155,62 @@ source_text: "text/ch22_chapter_22.txt"
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| devour | /dɪˈvaʊər/ | 吞噬，贪婪地 | His kiss was **devouring** mine, as if he had been starving. |
-| seethe | /siːð/ | 怒火中烧；翻腾 | My blood **seethed** at his words. |
-| sear | /sɪər/ | 烧灼 | The heat of his touch **seared** through the fabric. |
-| throb | /θrɒb/ | 跳动，悸动 | My heart **throbbed** against my chest. |
-| rave | /reɪv/ | 疯狂地说；热烈赞扬 | His eyes **raved** as he looked at her. |
-| smolder | /ˈsməʊldər/ | 闷烧；压抑的激情 | The tension between them **smoldered** for days. |
-| smolder | /ˈsməʊldər/ | 闷燃 | Something **smoldered** beneath the surface of their exchange. |
-| devour | /dɪˈvaʊər/ | 狼吞虎咽地吃；贪婪地获取 | He **devoured** her lips as if they were the only food he'd ever need. |
-| thrum | /θrʌm/ | 持续低鸣；悸动 | The noise **thrummed** through my body. |
-| cascade | /kæˈskeɪd/ | 瀑布般倾泻 | Her hair **cascaded** down her shoulders. |
+|devour|/dɪˈvaʊər/|吞噬，贪婪地|Just like a beast meant to devour me.|
+|sear|/sɪər/|烧灼|I shook my head, trying to pull myself together enough to answer. “You look amazing, Aaron.”
+
+
+His gaze searched my face for a brief moment, and whatever he found made him smile.|
+|throb|/θrɒb/|跳动，悸动|And again and again.
+
+
+“So demanding.” A husky chuckle caressed my lips. “If I snuck my hand under your dress,” Aaron rasped against my mouth, rocking against me and throbbing between my legs, “how wet would I find you, baby?”
+
+
+He wouldn’t believe just how much.|
+|devour|/dɪˈvaʊər/|狼吞虎咽地吃；贪婪地获取|Just like a beast meant to devour me.|
 
 ### 进阶（6-8条）
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| tremble | /ˈtrembəl/ | 发抖 | My whole body **trembled**. |
-| squeeze | /skwiːz/ | 挤 | His fingers **squeezed** mine. |
-| tremble | /ˈtrembəl/ | 颤抖 | I watched his throat **work**. |
-| gulp | /ɡʌlp/ | 吞咽 | She **gulped** down her wine. |
-| clutch | /klʌtʃ/ | 抓紧 | Her hands **clutched** his shirt. |
-| flush | /flʌʃ/ | 脸红 | My cheeks **flushed** crimson. |
-| flutter | /ˈflʌtər/ | 飘动；心头一颤 | Something **fluttered** in my chest. |
-| tighten | /ˈtaɪtən/ | 收紧 | His jaw **tightened**. |
+|tremble|/ˈtrembəl/|发抖|How I trembled.
+
+
+“Do you know now, Catalina?” His nose brushed my temple, making my breath hitch. “Do you know what this means?”
+
+
+Aaron’s lips flicked along my cheekbone, making my back arch, my shoulders coming flush against the wall behind me.|
+|tremble|/ˈtrembəl/|颤抖|How I trembled.
+
+
+“Do you know now, Catalina?” His nose brushed my temple, making my breath hitch. “Do you know what this means?”
+
+
+Aaron’s lips flicked along my cheekbone, making my back arch, my shoulders coming flush against the wall behind me.|
+|flush|/flʌʃ/|脸红|Not even your run-of-the-mill romance hero would butter up a woman that much,” I explained as we moved forward, in the direction of the adjoining restaurant, where everybody else was, probably a glass of wine-or two-already in hand.
+
+
+“In my book, having the most beautiful woman on my arm classifies as an honor.”
+
+
+I hoped the foundation the makeup artist had had to apply for a second time covered the way my cheeks flushed. “If the bride so much as gets wind of what you are saying, you’ll be in so much trouble.” I heard his chuckle, but he didn’t retract his words. “She’ll kick you out of the wedding, and I will not be able to help you.|
+|flutter|/ˈflʌtər/|飘动；心头一颤|It only made my chest tighter and my belly flutter.|
+|tighten|/ˈtaɪtən/|收紧|My hold on his neck tightened, trying to bring him even closer.|
 
 ### 基础（5-7条）
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
 | breathe | /briːð/ | 呼吸 | He was **breathing** as violently as I was. |
-| groan | /ɡrəʊn/ | 呻吟 | Another **moan** left my throat. |
-| press | /pres/ | 按压 | He **pressed** himself against me. |
-| tremble | /ˈtrembəl/ | 发抖 | My legs **trembled** under me. |
-| whisper | /ˈwɪspər/ | 低声说 | "More," she **breathed** into his mouth. |
-| melt | /melt/ | 融化 | Her body **melted** into his. |
-| sink | /sɪŋk/ | 下沉 | She felt herself **sink** against the wall. |
+|press|/pres/|按压|My eyes zeroed on Aaron’s lips, pressed in a flat line.|
+|tremble|/ˈtrembəl/|发抖|How I trembled.
+
+
+“Do you know now, Catalina?” His nose brushed my temple, making my breath hitch. “Do you know what this means?”
+
+
+Aaron’s lips flicked along my cheekbone, making my back arch, my shoulders coming flush against the wall behind me.|
+|whisper|/ˈwɪspər/|低声说|Every motion came to a painful stop. “I’d die a happy man if I could make you come right here and now,” Aaron whispered, making me shiver. “But anyone could walk by and see us, and that’s a privilege I want for just myself.”
+
+
+Sighing, I trailed my fingers through his hair and then around his neck until coming to cup his jaw.|

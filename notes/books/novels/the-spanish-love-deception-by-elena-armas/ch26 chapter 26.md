@@ -8,11 +8,11 @@ source_text: "text/ch26_chapter_26.txt"
 
 ## 导航
 
-- 情绪转折：自我否定 → 同事支持 → Aaron离场真相
-- 核心人物：Lina（叙述者）、Rosie、Sharon（HR）、Aaron
-- 主线：Aaron离开后的第四天，Lina在HR会面中得知Gerald指控的真相，以及Aaron父亲患癌的消息
-- 关键转折：Sharon透露Aaron曾主动到HR确认两人关系无政策障碍，说明他从未放弃
-- 主题词：regret / trust / support / loss / life-altering
+- **情绪转折**：自我否定 → 同事支持 → Aaron离场真相
+- **核心人物**：Lina（叙述者）、Rosie、Sharon（HR）、Aaron
+- **主线**：Aaron离开后的第四天，Lina在HR会面中得知Gerald指控的真相，以及Aaron父亲患癌的消息
+- **关键转折**：Sharon透露Aaron曾主动到HR确认两人关系无政策障碍，说明他从未放弃
+- **主题词**：regret / trust / support / loss / life-altering
 
 ---
 
@@ -58,7 +58,7 @@ source_text: "text/ch26_chapter_26.txt"
 
 ### ③
 
-> "Sometimes, as much as we wanted something, we aren't meant to have it. To keep it. Not when it complicated everything else."
+> "Sometimes, as much as we wanted something, we weren't meant to have it."
 
 **中文理解**：Lina自我说服——有时候即使我们极度渴望某样东西，注定无法拥有、无法挽留。尤其是当它让一切变得更复杂的时候。
 
@@ -154,7 +154,7 @@ source_text: "text/ch26_chapter_26.txt"
 
 ### ⑧
 
-> "Darling, he had to fly home. His dad is … he has cancer. He has been in a critical state for the last few weeks."
+> "he had to fly home. His dad is … he has cancer."
 
 **中文理解**：Sharon终于告诉Lina真相——Aaron必须飞回家。他的父亲……得了癌症，过去几周一直处于危险期。
 
@@ -177,38 +177,100 @@ source_text: "text/ch26_chapter_26.txt"
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **resent** | /rɪˈzent/ | 怨恨 | "We'd have grown to resent each other." |
-| **complicate** | /ˈkɒmplɪkeɪt/ | 使复杂化 | "Not when it complicated everything else." |
-| **altercation** | /ˌɔːltərˈkeɪʃən/ | 激烈争吵 | "After the altercation in the coworking floor…" |
-| **infect** | /ɪnˈfekt/ | 感染；污染 | "It infected everything." |
-| **reassure** | /ˌriːəˈʃɔːr/ | 使安心 | "To reassure me." |
-| **trail off** | /treɪl ɒf/ | 声音渐渐变弱 | "What do you want to know?" I trailed off, shaking my head. |
-| **burrow** | /ˈbʌrəʊ/ | 钻进；挖洞 | "An odd kind of restlessness burrowed itself in me." |
-| **bawl** | /bɔːl/ | 大哭；嚎啕 | "Rosie because she could never hold it in…" |
-| **tumble** | /ˈtʌmbl/ | 跌倒；崩塌 | "I suddenly tumbled a little under the importance of the moment." |
-| **entangle** | /ɪnˈtæŋɡl/ | 使纠缠；使缠住 | "Disentangling my body from his, I placed both feet on the floor…" |
+|**resent**|/rɪˈzent/|怨恨|We’d have grown to resent each other.|
+|**complicate**|/ˈkɒmplɪkeɪt/|使复杂化|Not when it complicated everything else.|
+|**altercation**|/ˌɔːltərˈkeɪʃən/|激烈争吵|I don’t understand.”
+
+
+She flicked her nails on the table, tilting her head. “After the altercation in the coworking floor, a number of people came by my desk to inform me of what had happened.|
+|**infect**|/ɪnˈfekt/|感染；污染|It infected everything.|
+|**reassure**|/ˌriːəˈʃɔːr/|使安心|To reassure me.|
+|**burrow**|/ˈbʌrəʊ/|钻进；挖洞|On day three without him, an odd kind of restlessness burrowed itself in me.|
+|**bawl**|/bɔːl/|大哭；嚎啕|Come what may, Lina, he would love her regardless of how long they had.”
+
+
+Then, we both bawled our eyes out.|
+|**tumble**|/ˈtʌmbl/|跌倒；崩塌|I can’t seem to get ahold of him.”
+
+
+As soon as he’s back?
+
+
+“Oh, erm, I don’t … I just …” My words tumbled out of me, mixing with the questions spinning in my head.
+
+
+“It’s all good, Lina.|
 
 ### 进阶（Intermediate）
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **pacing** | /ˈpeɪsɪŋ/ | 踱步 | "I was pacing from one corner of the hallway…" |
-| **peeking** | /ˈpiːkɪŋ/ | 探出；窥视 | "Her head peeked out of her office." |
-| **peeled** | /piːld/ | 剥落；脱皮 | "I watched the corner of his lips tip up…" |
-| **glimpse** | /ɡlɪmps/ | 一瞥 | "I spent the day wishing I'd get a glimpse of Aaron…" |
-| **desperate** | /ˈdespərət/ | 绝望的；极度渴望的 | "I begged, now desperate to know what was wrong." |
-| **whisper** | /ˈwɪspər/ | 低语；耳语 | "The whispers of my colleagues to reach my ears." |
-| **suck** | /sʌk/ | 吸；糟糕（口语） | "We both still sucked at lying." |
+|**pacing**|/ˈpeɪsɪŋ/|踱步|That was exactly why I was pacing from one corner of the hallway to the opposite one as I waited to be called into Sharon’s office.|
+|**peeking**|/ˈpiːkɪŋ/|探出；窥视|Came here first thing this week to ask if there was any kind of company policy or contract clause that would perhaps complicate things.”
+
+
+The heartbeat that had flattened, accompanying me during these days without him, came back to life, peeking out.|
+|**glimpse**|/ɡlɪmps/|一瞥|By the time the clock hit five p.m.-after I spent the day wishing I’d get a glimpse of Aaron and dreading it, all at the same time-nothing had happened.|
+|**desperate**|/ˈdespərət/|绝望的；极度渴望的|Did something happen?”
+
+
+Sharon’s eyes widened, confusion mixing up with shock. “You don’t know?”
+
+
+I shook my head, feeling my skin pale. “No.”
+
+
+Her head shook. “Lina, this is not my place-”
+
+
+“Please,” I begged, now desperate to know what was wrong.|
+|**whisper**|/ˈwɪspər/|低语；耳语|Rosie didn’t even think before giving me her answer. “Yes,” she whispered. “When you find that kind of love, time stops mattering.|
+|**suck**|/sʌk/|吸；糟糕（口语）|So, yeah, after Moulin Rouge-crying-gate, the following day obviously sucked.|
 
 ### 基础（Essential）
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **blanch** | /blɑːntʃ/ | 脸色发白 | "I felt myself blanch." |
-| **swell** | /swel/ | 肿胀；增加 | "My heart expanding with gratitude." |
-| **muster** | /ˈmʌstər/ | 鼓起（勇气） | "I couldn't muster the energy for that." |
-| **jerk** | /dʒɜːk/ | 猛地一动 | "Jerking me back into the present." |
-| **tumble** | /ˈtʌmbl/ | 跌跌撞撞地走 | "I stumbled out of the elevator." |
+|**blanch**|/blɑːntʃ/|脸色发白|Just like I had always liked Sharon too.
+
+
+“I’ve called you here in light of some serious allegations that have been made, which directly involve you.”
+
+
+Something dropped to the bottom of my stomach, and I felt myself blanch.
+
+
+“Oh … okay.” I cleared my throat. “What do you want to know?”
+
+
+The woman inhaled deeply through her nose, as if she was readying herself for something.
+
+
+“Lina,” she said, using a tone that I had heard from my own mother-comforting but also admonishing-“we both are aware that Gerald knows the right kind of people, and frankly, I will never understand how someone so horrible manages to make so many good ‘acquaintances.’ ” Her fingers air-quoted that last word. “But as much as he has remained untouchable so far, that doesn’t mean that he can’t be knocked down.|
+|**muster**|/ˈmʌstər/|鼓起（勇气）|But I simply couldn’t muster the energy for that.
+
+
+“I’m sure it makes up for a few awkward conversations.”
+
+
+Sharon’s eyes scanned my face, something like understanding dawning in her features.|
+|**jerk**|/dʒɜːk/|猛地一动|And I hated not knowing why, not seeing him, not having him around, not … having an excuse to call and ask him because I had pushed him away and the last thing he probably wanted to do was talk to me.
+
+
+“Lina, darling,” Sharon called as her head peeked out of her office, jerking me back into the present. “Please come in and take a seat.”
+
+
+Following her inside, I let myself fall into one of the chairs.|
+|**tumble**|/ˈtʌmbl/|跌跌撞撞地走|I can’t seem to get ahold of him.”
+
+
+As soon as he’s back?
+
+
+“Oh, erm, I don’t … I just …” My words tumbled out of me, mixing with the questions spinning in my head.
+
+
+“It’s all good, Lina.|
 
 ---
 

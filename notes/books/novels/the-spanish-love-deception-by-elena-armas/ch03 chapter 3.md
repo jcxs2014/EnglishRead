@@ -83,7 +83,7 @@ granola bar / without looking at me / you are hungry
 
 ### ④
 
-> "There is no way you can focus; your desk is all cluttered. So, I'm fixing it."
+> "There's no way you can focus; your desk is all cluttered," he finally told me in a matter-of-fact tone.
 
 **中文理解**
 Aaron 擅自开始整理 Lina 的桌面，一边整理一边说"你的桌子太乱了，我帮你收拾"。他完全不请自来，完全不理会 Lina 的抗议。这是 Aaron 第一次如此主动地入侵她的空间。
@@ -104,7 +104,7 @@ Aaron 擅自整理 Lina 的桌子是他试图进入她世界的隐喻性尝试�
 
 ### ⑤
 
-> "What is it going to be, Catalina? Whining or working?"
+> "Whining or working?"
 
 **中文理解**
 Aaron 没有接 Lina 的情绪化质问，只是冷冷地问她："你到底要怎样？抱怨还是干活？"这句话表面上很残忍，实际上是把 Lina 从情绪漩涡中拉出来的最直接方式——他不允许她沉溺在自怜里。
@@ -146,7 +146,7 @@ Aaron 用这四个字既表达了真实的评价（方案确实不够好），�
 
 ### ⑦
 
-> "You asked me that question already. What does it look like I'm doing?"
+> "You asked me that question already."
 
 **中文理解**
 Lina 第三次问 Aaron 在干什么，他终于正面回答："你问过了。我坐在你旁边帮你，不明显吗？"这是全章两人对话最密集的一段，Aaron 终于开始主动解释自己的行为。
@@ -167,7 +167,7 @@ Aaron 坐到她旁边、帮她整理桌面、打印资料、借她格兰诺拉�
 
 ### ⑧
 
-> "We just need to work fast; there is not much time to put everything together."
+> "We just need to work fast; there's not much time to put everything together."
 
 **中文理解**
 Aaron 解释他为什么要当晚留下来帮 Lina："我们得快点干，时间不多了。"这是全章为数不多的"正常同事协作"式对话，却因为两人之前的对峙而显得意味深长。
@@ -192,40 +192,70 @@ Aaron 嘴上说"We just need to work fast"，实际上他完全可以不管这�
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句 |
 |------|------|------|----------|------|
-| aloof | /əˈluːf/ | adj. | 冷漠的；疏远的 | His eyes, which I could tell had sobered up and returned to that aloof semblance. |
-| smug | /smʌɡ/ | adj. | 自满的；沾沾自喜的 | Gerald answered, sounding suspiciously smug. |
-| scoff | /skɒf/ | v. | 嘲笑；蔑视 | I watched his head shake as he was focused on the document on his screen. |
-| hum | /hʌm/ | v. | 哼（曲子）；哼唱声 | Aaron hummed, nodding his head. |
-| waver | /ˈweɪvə/ | v. | 动摇；摇晃 | The corners of my lips wavered. |
-| starve | /stɑːv/ | v. | 挨饿；渴望 | My starved brain was clearly struggling to behave normally. |
-| betray | /bɪˈtreɪ/ | v. | 背叛；出卖 | Betrayed by my own two eyes. |
-| crumble | /ˈkrʌmbl/ | v. | 崩溃；破碎 | That emotion churned in my gut, turning into something way too close to helplessness. |
+|smug|/smʌɡ/|adj.|Smug Clark Kent look-alike.
+
+
+“Well, it’s not.” I reached for my mouse, clicking to open a random folder. “Thor or Captain America?|Gerald answered, sounding suspiciously smug.||
+|scoff|/skɒf/|v.|He held it in his paw-sized hands. “We just need to work fast; there’s not much time to put everything together.”
+
+
+Whoa, whoa, whoa.
+
+
+“We?” I ripped my planner out of his hold. “There’s no we here,” I scoffed. “And would you please leave my stuff alone?|I watched his head shake as he was focused on the document on his screen.||
+|starve|/stɑːv/|v.|My starved brain was clearly struggling to behave normally.|My starved brain was clearly struggling to behave normally.||
+|betray|/bɪˈtreɪ/|v.|I was hungry, tired from dealing with all this, betrayed by my own two eyes, and honestly simply confused at this point.
+
+
+“Stop being so stubborn,” he said.|Betrayed by my own two eyes.||
 
 ### 进阶词汇
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句 |
 |------|------|------|----------|------|
-| threshold | /ˈθreʃhəʊld/ | n. | 门槛；阈值 | The man that stood under the threshold of my office door. |
-| swivel | /ˈswɪvl/ | v. | 旋转；转动 | I swiveled my office chair. |
-| pa | /pɑː/ | n. | （非正式）手掌，大爪子 | He held it in his paw-sized hands. |
-| flex | /fleks/ | v. | 弯曲；收缩 | I watched his biceps flex under the fabric. |
-| roam | /rəʊm/ | v. | 漫游；闲逛 | My gaze roamed around the meeting room. |
-| cluttered | /ˈklʌtəd/ | adj. | 凌乱的；杂乱的 | Your desk is all cluttered. |
-| bunch | /bʌntʃ/ | v. | 收紧；隆起 | I watched him, feeling my heart race with trepidation. |
-| gingerly | /ˈdʒɪndʒəli/ | adv. | 小心翼翼地；谨慎地 | Aaron studied me in silence, searching my face almost gingerly. |
+|threshold|/ˈθreʃhəʊld/|n.|But I don’t have time to pick apart my quirks right now,” I said, holding my highlighter in the air. “Do you need anything?”
+
+
+I took him in as he stood under the threshold of my office door, his laptop under one of his arms, one of his dark eyebrows raised.
+
+
+“What’s Around the Corner?” he queried, starting in my direction.|The man that stood under the threshold of my office door.||
+|swivel|/ˈswɪvl/|v.|I swiveled my office chair, fully facing him. “Sorry, but is there anything I can help you with?”
+
+
+His gaze fell behind me, on my laptop screen, his big body bending down.|I swiveled my office chair.||
+|flex|/fleks/|v.|I plastered my body to the backrest of my chair, watching his biceps flex under the fabric of the plain button-down he wore.|I plastered my body to the backrest of my chair, watching his biceps flex under the fabric of the plain button-down he wore.||
+|roam|/rəʊm/|v.|Aaron was almost sandwiching me between the desk and my chair as his head hovered above mine, his eyes roaming around my things.|Aaron was almost sandwiching me between the desk and my chair as his head hovered above mine, his eyes roaming around my things.||
+|cluttered|/ˈklʌtəd/|adj.|I waited for my answer, watching his profile and trying really hard not to acknowledge the warmth I felt radiating off his body.
+
+
+“There’s no way you can focus; your desk is all cluttered,” he finally told me in a matter-of-fact tone. “So, I’m fixing it.”
+
+
+My mouth was hanging open. “I could focus just fine until you got here.”
+
+
+“Can I see the attendee list Jeff drafted?” His fingers flew over the keys of my laptop, opening a window.|Your desk is all cluttered.||
+|bunch|/bʌntʃ/|v.|Not organizing an open-doors day that served as an excuse to show around a bunch of suits that I’d have to feed, babysit, and be extra nice to.|I watched him, feeling my heart race with trepidation.||
+|gingerly|/ˈdʒɪndʒəli/|adv.|I watched him, feeling my heart race with trepidation. “Or if I told you I was exhausted from having to ask, would you step in then?”
+
+
+Aaron studied me in silence, searching my face almost gingerly.|Aaron studied me in silence, searching my face almost gingerly.||
 
 ### 基础词汇
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句 |
 |------|------|------|----------|------|
-| laptop | /ˈlæptɒp/ | n. | 笔记本电脑 | His laptop under one of his arms. |
-| pen | /pen/ | n. | 笔 | I snagged it out of his hand. |
-| chair | /tʃeə/ | n. | 椅子 | He rolled his chair beside mine. |
-| screen | /skriːm/ | n. | 屏幕 | My eyes traveled all the way up to his shoulder. |
-| coffee | /ˈkɒfi/ | n. | 咖啡 | That arm I had been focused on halted in the air. |
-| shoulder | /ˈʃəʊldə/ | n. | 肩膀 | I watched his long legs closing the distance to my desk. |
-| desk | /desk/ | n. | 书桌；办公桌 | Aaron placed his left hand on my desk. |
-| folder | /ˈfəʊldə/ | n. | 文件夹 | He picked them up and squared them on a corner of my desk. |
+|laptop|/ˈlæptɒp/|n.|And three, the PowerPoint slide on my laptop screen was still blinking at me, half-empty.|And three, the PowerPoint slide on my laptop screen was still blinking at me, half-empty.||
+|chair|/tʃeə/|n.|I moved uncomfortably in my chair as I stared at my phone screen in horror.|I moved uncomfortably in my chair as I stared at my phone screen in horror.||
+|screen|/skriːm/|n.|And three, the PowerPoint slide on my laptop screen was still blinking at me, half-empty.|My eyes traveled all the way up to his shoulder.||
+|coffee|/ˈkɒfi/|n.|That feast could only belong to Around the Corner, our favorite coffee shop in the city.|That feast could only belong to Around the Corner, our favorite coffee shop in the city.||
+|shoulder|/ˈʃəʊldə/|n.|Aaron placed his left hand on my desk and bent further down.
+
+
+“Excuse me?” I told to his round and kind of huge shoulder.|I watched his long legs closing the distance to my desk.||
+|desk|/desk/|n.|Cursing under my breath-because, of course, it had to be him hearing me rally myself-I schooled my face into a neutral expression and looked up from my desk. “Odd?|Cursing under my breath-because, of course, it had to be him hearing me rally myself-I schooled my face into a neutral expression and looked up from my desk. “Odd?||
+|folder|/ˈfəʊldə/|n.|Instead, his hands went for a couple of folders I had piled up-okay, fine, they had been rather dropped down somewhere-to my right. “I know my way around events like this one,” he said, picking them up and squaring them on a corner of my desk. “I organized a couple before coming to work for InTech.” He followed that up with going for my planner, which had been lying upside down somewhere in the mess that I was starting to realize was my working space.|Instead, his hands went for a couple of folders I had piled up-okay, fine, they had been rather dropped down somewhere-to my right. “I know my way around events like this one,” he said, picking them up and squaring them on a corner of my desk. “I organized a couple before coming to work for InTech.” He followed that up with going for my planner, which had been lying upside down somewhere in the mess that I was starting to realize was my working space.||
 
 ---
 

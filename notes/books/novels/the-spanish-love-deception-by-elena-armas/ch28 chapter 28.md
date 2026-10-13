@@ -8,11 +8,11 @@ source_text: "text/ch28_chap28.txt"
 
 ## 导航
 
-- 情绪转折：职场调侃 → 家庭焦虑 → 电梯私密时刻 → 甜蜜承诺
-- 核心人物：Lina（叙述者）、Aaron、Rosie、Richard、Martha（Aaron父亲的护理员）
-- 主线：一年后，两人事业有成、感情稳定，正准备在Montauk迎接Lina全家与Richard的首次见面
-- 关键转折：Gerald被解雇、Rosie升职；Aaron父亲病情稳定但时间有限；两人已如家人般亲密
-- 主题词：together / forever / family / balance / devotion
+- **情绪转折**：职场调侃 → 家庭焦虑 → 电梯私密时刻 → 甜蜜承诺
+- **核心人物**：Lina（叙述者）、Aaron、Rosie、Richard、Martha（Aaron父亲的护理员）
+- **主线**：一年后，两人事业有成、感情稳定，正准备在Montauk迎接Lina全家与Richard的首次见面
+- **关键转折**：Gerald被解雇、Rosie升职；Aaron父亲病情稳定但时间有限；两人已如家人般亲密
+- **主题词**：together / forever / family / balance / devotion
 
 ---
 
@@ -20,7 +20,7 @@ source_text: "text/ch28_chap28.txt"
 
 ### ①
 
-> "Sorry, but I'm officially on vacation. It will have to wait for Monday."
+> "Sorry, but I'm officially on vacation."
 
 **中文理解**：Aaron打断Kabir说：抱歉，我正式休假了。（这件事）只能等到周一。
 
@@ -157,7 +157,7 @@ source_text: "text/ch28_chap28.txt"
 
 ### ⑧
 
-> "Because it's you and me. And no matter what comes our way, we have each other. We are in this together, for the long run."
+> "Because it's you and me."
 
 **中文理解**：Aaron解释为什么"一切都会好起来"：因为是你和我。无论遇到什么，我们都有彼此。我们一起面对，长长久久。
 
@@ -181,38 +181,66 @@ source_text: "text/ch28_chap28.txt"
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **tedious** | /ˈtiːdiəs/ | 冗长乏味的 | "After the tedious and lengthy HR investigation…" |
-| **unearth** | /ʌnˈɜːrθ/ | 挖掘；揭露 | "Unearthed more than a few sexual misconduct instances." |
-| **compromise** | /ˈkɒmprəmaɪz/ | 妥协；让步 | "She compromised." |
-| **devotion** | /dɪˈvəʊʃən/ | 奉献；挚爱 | "A devotion I had never experienced…" |
-| **dazzle** | /ˈdæzl/ | 使眼花缭乱；使倾倒 | "Shining bright and dazzling in his eyes." |
-| **disarm** | /dɪsˈɑːrm/ | 解除武装；使无力反驳 | "Rendering me immediately speechless. Disarmed." |
+|**tedious**|/ˈtiːdiəs/|冗长乏味的|He was lucky I was head over heels in love with him.
+
+
+“Aaron was suggesting that perhaps now that Linda and Patricia are back from their maternity leaves, someone from your team could transfer to Héctor’s,” Rosie explained, her fingers fumbling on top of her open planner. “Just to temporarily cover the vacancy I left now that I’m leading Gerald’s team after his … departure.”
+
+
+After the tedious and lengthy HR investigation Sharon had pushed for unearthed more than a few sexual misconduct instances, Gerald had been finally laid off.|
+|**unearth**|/ʌnˈɜːrθ/|挖掘；揭露|He was lucky I was head over heels in love with him.
+
+
+“Aaron was suggesting that perhaps now that Linda and Patricia are back from their maternity leaves, someone from your team could transfer to Héctor’s,” Rosie explained, her fingers fumbling on top of her open planner. “Just to temporarily cover the vacancy I left now that I’m leading Gerald’s team after his … departure.”
+
+
+After the tedious and lengthy HR investigation Sharon had pushed for unearthed more than a few sexual misconduct instances, Gerald had been finally laid off.|
+|**compromise**|/ˈkɒmprəmaɪz/|妥协；让步|My blood started swirling, certain parts of my body demanding attention. “I like how that sounds.”
+
+
+“I made sure your dad would take his pills with him when I talked to him on the phone before they left the house.” Aaron’s hands trailed up, reaching the swells of my breasts. “Cristina is only bringing a few cuts of cured meat,” he continued as his legs crowded mine. “It wasn’t easy, and I might have promised a few things I shouldn’t have, but she compromised.”
+
+
+A low chuckle left my mouth, but all humor died when his hips rocked briefly against mine.
+
+
+“Abuela will be fine; she’s tough as nails.|
+|**disarm**|/dɪsˈɑːrm/|解除武装；使无力反驳|Disarmed.|
 | **scrutiny** | /ˈskruːtɪnɪ/ | 仔细审查 | （未选入，但文中出现） |
-| **tumble** | /ˈtʌmbl/ | 跌跌撞撞 | "I internally sighed. Happily. All mine." |
-| **incredulous** | /ɪnˈkredjʊləs/ | 怀疑的；不相信的 | （未选入，但文中出现） |
-| **torso** | /ˈtɔːsəʊ/ | 躯干 | "Gifting me with a view of his whole torso." |
+|**torso**|/ˈtɔːsəʊ/|躯干|Have a great weekend, everyone.” He pushed back the chair and stood up, gifting me with a view of his whole torso.|
 
 ### 进阶（Intermediate）
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **cockey** | /ˈkɒk/ | 扬起（眉毛） | "He said, cocking a brow." |
-| **scribble** | /ˈskrɪbl/ | 潦草地写 | "I answered, scribbling a note on my pad." |
-| **nibble** | /ˈnɪbl/ | 轻咬 | "He nibbled at the lobe of my ear with his teeth." |
-| **grumpy** | /ˈɡrʌmpɪ/ | 脾气坏的 | "Impatient and sexy blue-eyed grump." |
-| **grunt** | /ɡrʌnt/ | 咕哝；低吼 | "A grunt fell from his lips." |
-| **inched** | /ɪntʃt/ | 缓慢移动 | "His smile inched up." |
-| **snooze** | /snuːz/ | 打盹；忽略提醒 | "He probably snoozed it and forgot about that too." |
+|**scribble**|/ˈskrɪbl/|潦草地写|I was impatient like that.
+
+
+“One hundred percent,” I answered, scribbling a note on my pad.|
+|**nibble**|/ˈnɪbl/|轻咬|Okay,” I murmured as he nibbled at the sensitive skin.|
+|**grunt**|/ɡrʌnt/|咕哝；低吼|A grunt fell from his lips.
+
+
+“Look at you, teasing me like this.|
+|**snooze**|/snuːz/|打盹；忽略提醒|You know, I had to FaceTime him to explain to him how to set a reminder on his phone, so he would take it, but even that way, he probably snoozed it and forgot about that too.|
 
 ### 基础（Essential）
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **grunt** | /ɡrʌnt/ | 嘟囔 | "He sighed deeply." |
-| **arch** | /ɑːtʃ/ | 拱起；弓起 | "I arched my back…" |
-| **whisper** | /ˈwɪspər/ | 低语 | "He whispered like it was his biggest secret." |
-| **squeeze** | /skwiːz/ | 挤压；捏 | "He squeezed me possessively…" |
-| **caress** | /kəˈres/ | 抚摸 | "I would caress his back while he sat…" |
+|**grunt**|/ɡrʌnt/|嘟囔|A grunt fell from his lips.
+
+
+“Look at you, teasing me like this.|
+|**arch**|/ɑːtʃ/|拱起；弓起|What an adoring and distracting woman I have in my hands.”
+
+
+“How much longer do we have?” I arched my back, pressing our chests together.|
+|**whisper**|/ˈwɪspər/|低语|How much love and attention there was in them, in him.
+
+
+“It’s crazy how much my family adores you,” I told him, grasping both his arms with neglected need running through my body. “You are like a Martín Whisperer.|
+|**squeeze**|/skwiːz/|挤压；捏|He squeezed me possessively, proving his point.|
 
 ---
 

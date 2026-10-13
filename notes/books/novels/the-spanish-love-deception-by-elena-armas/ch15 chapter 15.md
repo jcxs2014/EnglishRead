@@ -56,7 +56,7 @@ source_text: "text/ch15_chapter_15.txt"
 
 ### ③
 
-> "Soy Aaron. Un placer conocerte," my fake boyfriend introduced himself to Charo in perfect Spanish.
+> "Soy Aaron. Un placer conocerte."
 
 **中文理解**：Aaron用完美的西班牙语向Charo自我介绍，发音甚至比Lina还好。
 
@@ -75,7 +75,7 @@ source_text: "text/ch15_chapter_15.txt"
 
 ### ④
 
-> "Dammit. I am on Aaron's lap. Back to front. Ass on … yeah. On his lap."
+> "Holy shit, I am on Aaron's lap. Back to front. Ass on … yeah. On his lap."
 
 **中文理解**：Lina从床上摔落后被Aaron拉到他腿上，脑子里只剩下"我在Aaron的腿上"这个事实。
 
@@ -131,7 +131,7 @@ source_text: "text/ch15_chapter_15.txt"
 
 ### ⑦
 
-> "So, Gabi has turned into this cute but terrifying sports mogul, and everyone is scared of her."
+> "Gabi has turned into this cute but terrifying sports mogul, and everyone is scared of her."
 
 **中文理解**：Lina向Aaron介绍Gabi，说她变成了一个可爱但可怕的体育巨头，所有人都怕她。
 
@@ -172,16 +172,52 @@ source_text: "text/ch15_chapter_15.txt"
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句（原文） |
 |------|------|------|----------|-------------|
-| apprehensive | /ˌæprɪˈhensɪv/ | adj. | 忧虑的，担心的 | My apprehensive brown eyes held his determined blue ones |
-| disembark | /ˌdɪsɪmˈbɑːk/ | v. | 下船/飞机 | Going through the motions of disembarking the aircraft |
-| thump | /θʌmp/ | n./v. | 重击，砰砰声 | the loud thump, thump, thump in my ears |
-| deflate | /dɪˈfleɪt/ | v. | 泄气，瘪掉 | Aaron deflated in his seat |
-| squirm | /skwɜːm/ | v. | 蠕动，局促不安 | I squirmed in his lap |
-| humored | /ˈhjuːməd/ | v. | 迁就，迎合 | I'm going to humored you |
-| grunt | /ɡrʌnt/ | n. | 嘟囔，哼声 | he grunted |
-| quiver | /ˈkwɪvə(r)/ | v. | 颤抖 | 文中未出现，但可从语境推导 |
-| bridezilla | /braɪdˈzɪlə/ | n. | 新娘偏执狂（bride+zilla） | the bridezilla |
-| snuggle | /ˈsnʌɡl/ | v. | 蜷缩，依偎 | we will find a way to snuggle in |
+|disembark|/ˌdɪsɪmˈbɑːk/|v.|Chapter 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Fifteen
+
+
+
+
+
+
+
+
+
+
+
+
+Going through the motions of disembarking the aircraft, getting through customs, and picking up our luggage felt a little bit like one of those strange dreams where everything around you felt fuzzy and unreal, but there was a part of you, deep down in your consciousness, that knew it wasn’t real.|Going through the motions of disembarking the aircraft||
+|thump|/θʌmp/|n./v.|And the loud thump, thump, thump in my ears was evidence of just how much.|the loud thump, thump, thump in my ears||
+|squirm|/skwɜːm/|v.|This is all super crazy,” I said, squirming in Aaron’s lap as I unsuccessfully tried to make my way out of the man-sized black hole that had sucked me in. “It is crazy because I am super crazy.|This is all super crazy,” I said, squirming in Aaron’s lap as I unsuccessfully tried to make my way out of the man-sized black hole that had sucked me in. “It is crazy because I am super crazy.||
+|humored|/ˈhjuːməd/|v.|The best part was that he had humored me and proven it, just because I’d told him to.|This one time, I’m going to humor you.||
+|grunt|/ɡrʌnt/|n.|All good,” he grunted. “Nothing I can’t handle.”
+
+
+“Okay, but just in case …” I stretched my hand to help him out, but both of us froze when a holler came from the entrance door of the apartment.|he grunted||
+|snuggle|/ˈsnʌɡl/|v.|My very lucky and very much fake boyfriend gifted her with a polite smile.
+
+
+“Catalina doesn’t take that much space anyway,” Aaron suddenly said. “We will find a way to snuggle in.|we will find a way to snuggle in||
 
 **例句摘录**：
 
@@ -199,16 +235,38 @@ source_text: "text/ch15_chapter_15.txt"
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句（原文） |
 |------|------|------|----------|-------------|
-| croak | /krəʊk/ | v. | 发出沙哑声 | "Aaron," I croaked |
-| heave | /hiːv/ | v. | 喘息，叹气 | I heaved. "Ay Dios mío." |
-| root (to) | /ruːt/ | v. | 使固定，使扎根 | my two feet became rooted to the floor |
-| clutch | /klʌtʃ/ | v. | 紧抓 | the hand that hadn't been clutching my chest |
-| squeeze | /skwiːz/ | v. | 捏，挤 | He squeezed gently |
-| squeal | /skwiːl/ | n. | 尖叫 | ripping a squeal out of me |
-| cackle | /ˈkækl/ | n./v. | 咯咯笑 | she added in a cackle |
-| scowl | /skaʊl/ | n./v. | 皱眉 | with a scowl that went for miles |
-| flop | /flɒp/ | v. | 猛然坐下，瘫倒 | my fake boyfriend flopped |
-| glower | /ˈɡlaʊə(r)/ | v. | 怒目而视 | he glowered at me |
+|croak|/krəʊk/|v.|My overpacked bag hung off his shoulder again.
+
+
+“Aaron,” I croaked, that thump, thump, thump growing louder and louder. “I can’t do it.”
+
+
+Feeling as if my lungs had been filled with cement, I brought a hand to my chest. “Ay Dios.” I heaved. “Ay Dios mío.”
+
+
+How had I let this get so far?|"Aaron," I croaked||
+|heave|/hiːv/|v.|My overpacked bag hung off his shoulder again.
+
+
+“Aaron,” I croaked, that thump, thump, thump growing louder and louder. “I can’t do it.”
+
+
+Feeling as if my lungs had been filled with cement, I brought a hand to my chest. “Ay Dios.” I heaved. “Ay Dios mío.”
+
+
+How had I let this get so far?|I heaved. "Ay Dios mío."||
+|clutch|/klʌtʃ/|v.|Aaron’s fingers dropped from my chin and wrapped around the hand that hadn’t been clutching my chest.|Aaron’s fingers dropped from my chin and wrapped around the hand that hadn’t been clutching my chest.||
+|squeeze|/skwiːz/|v.|He squeezed gently.|He squeezed gently||
+|squeal|/skwiːl/|n.|Aaron tugged off my arm and pulled me right with him, ripping a squeal out of me.|ripping a squeal out of me||
+|cackle|/ˈkækl/|n./v.|A gasp shot out of me as my hands flew to my mouth.
+
+
+“Jesus fucking Christ,” Aaron growled.
+
+
+“Oh my God, Aaron.” The cackle that left my mouth as I stared at the grumpier-than-ever man sitting in the middle of the box spring catastrophe was probably heard all the way in New York City.|she added in a cackle||
+|scowl|/skaʊl/|n./v.|The satisfied and toothy smile that split my face had everything to do with the grumpy Aaron who was lying diagonally on the tiny twin bed with a scowl that went for miles.|with a scowl that went for miles||
+|glower|/ˈɡlaʊə(r)/|v.|He didn’t look anywhere near okay if the way he glowered was any indication.|He didn’t look anywhere near okay if the way he glowered was any indication.||
 
 ---
 
@@ -216,16 +274,314 @@ source_text: "text/ch15_chapter_15.txt"
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句（原文） |
 |------|------|------|----------|-------------|
-| luggage | /ˈlʌɡɪdʒ/ | n. | 行李 | picking up our luggage |
-| customs | /ˈkʌstəmz/ | n. | 海关 | getting through customs |
-| terminal | /ˈtɜːmɪnl/ | n. | 航站楼 | the Arrivals terminal |
-| suitcase | /ˈsuːtkeɪs/ | n. | 行李箱 | My suitcase wheels screeched |
-| twin (bed) | /twɪn/ | n. | 单人床 | here's your bed. Your twin bed |
-| spring | /sprɪŋ/ | n. | 弹簧 | the mattress springs |
-| unpack | /ˌʌnˈpæk/ | v. | 打开行李 | We have suitcases to unpack |
-| blush | /blʌʃ/ | n./v. | 脸红 | I felt a blush climbing up my throat |
-| bounce | /baʊns/ | v. | 弹跳，蹦跳 | my eyes bouncing from Aaron to me |
-| wiggle | /ˈwɪɡl/ | v. | 摆动，扭动 | Her eyebrows did a little wiggle |
+|luggage|/ˈlʌɡɪdʒ/|n.|Chapter 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Fifteen
+
+
+
+
+
+
+
+
+
+
+
+
+Going through the motions of disembarking the aircraft, getting through customs, and picking up our luggage felt a little bit like one of those strange dreams where everything around you felt fuzzy and unreal, but there was a part of you, deep down in your consciousness, that knew it wasn’t real.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Fifteen
+
+
+
+
+
+
+
+
+
+
+
+
+Going through the motions of disembarking the aircraft, getting through customs, and picking up our luggage felt a little bit like one of those strange dreams where everything around you felt fuzzy and unreal, but there was a part of you, deep down in your consciousness, that knew it wasn’t real.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Fifteen
+
+
+
+
+
+
+
+
+
+
+
+
+Going through the motions of disembarking the aircraft, getting through customs, and picking up our luggage felt a little bit like one of those strange dreams where everything around you felt fuzzy and unreal, but there was a part of you, deep down in your consciousness, that knew it wasn’t real.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Fifteen
+
+
+
+
+
+
+
+
+
+
+
+
+Going through the motions of disembarking the aircraft, getting through customs, and picking up our luggage felt a little bit like one of those strange dreams where everything around you felt fuzzy and unreal, but there was a part of you, deep down in your consciousness, that knew it wasn’t real.|picking up our luggage||
+|customs|/ˈkʌstəmz/|n.|Chapter 15
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Fifteen
+
+
+
+
+
+
+
+
+
+
+
+
+Going through the motions of disembarking the aircraft, getting through customs, and picking up our luggage felt a little bit like one of those strange dreams where everything around you felt fuzzy and unreal, but there was a part of you, deep down in your consciousness, that knew it wasn’t real.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Fifteen
+
+
+
+
+
+
+
+
+
+
+
+
+Going through the motions of disembarking the aircraft, getting through customs, and picking up our luggage felt a little bit like one of those strange dreams where everything around you felt fuzzy and unreal, but there was a part of you, deep down in your consciousness, that knew it wasn’t real.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Fifteen
+
+
+
+
+
+
+
+
+
+
+
+
+Going through the motions of disembarking the aircraft, getting through customs, and picking up our luggage felt a little bit like one of those strange dreams where everything around you felt fuzzy and unreal, but there was a part of you, deep down in your consciousness, that knew it wasn’t real.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Fifteen
+
+
+
+
+
+
+
+
+
+
+
+
+Going through the motions of disembarking the aircraft, getting through customs, and picking up our luggage felt a little bit like one of those strange dreams where everything around you felt fuzzy and unreal, but there was a part of you, deep down in your consciousness, that knew it wasn’t real.|getting through customs||
+|terminal|/ˈtɜːmɪnl/|n.|The fool that I am because-”
+
+
+Aaron’s fingers found my chin, tilting my face up to meet his gaze. “Hey.” The blue in his eyes shone under the fluorescent light illuminating the terminal, snatching all my attention. “There you are.”
+
+
+Not able to voice a single word more without completely losing my shit, I shook my head lightly.|the Arrivals terminal||
+|suitcase|/ˈsuːtkeɪs/|n.|My suitcase wheels screeched against the floor as my two feet became rooted to the floor.|My suitcase wheels screeched||
+|spring|/sprɪŋ/|n.|Walking closer, I didn’t turn down the megawatt smile as I looked down at him. “Comfy?”
+
+
+“Very.”
+
+
+“I just bet you have never been this comfortable in your life.”
+
+
+He rolled his eyes. “Fine,” Aaron said as he sat up, the springs in the simple and-let’s face it-most likely cheap mattress creaking loudly under his weight. “So you were right,” he continued as he moved to the edge, trying to leave a bed that seemed to be turning into quicksand, swallowing each of his movements. “Now, if you would just-”
+
+
+Before I could even realize what was happening, the structure of the bed gave in with a big bang, engulfing part of the mattress and Aaron along with it.|the mattress springs||
+|unpack|/ˌʌnˈpæk/|v.|Thank you, but this is enough of a welcome,” I said, walking up to them and pushing them lightly toward the door. “We have suitcases to unpack and a bachelor-slash-bachelorette party to get ready for.”
+
+
+“Vale, vale,” my mom said as she grabbed my dad’s arm. “You see, Javier?|We have suitcases to unpack||
+|blush|/blʌʃ/|n./v.|My eyelids shut on instinct, and I felt a blush climbing up my throat.
+
+
+“Because, really, how many years have gone by since the whole thing with Daniel exploded?|I felt a blush climbing up my throat||
+|bounce|/baʊns/|v.|My mom, on the other hand, just nodded, her eyes bouncing from Aaron to me, assessing our difference in size and height.|My mom, on the other hand, just nodded, her eyes bouncing from Aaron to me, assessing our difference in size and height.||
+|wiggle|/ˈwɪɡl/|v.|They want to be alone.” Her eyebrows did a little wiggle. “Ya sabes.”
+
+
+My dad muttered something unintelligible, showing that he had no interest in finding out why.|Her eyebrows did a little wiggle||
 
 ---
 

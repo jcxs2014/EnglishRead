@@ -173,16 +173,12 @@ source_text: "text/ch16_chapter_16.txt"
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句（原文） |
 |------|------|------|----------|-------------|
-| wedged | /wedʒd/ | v. | 挤入，楔入 | wedged between the Cantabrian Sea and emerald mountains |
-| ferry | /ˈferi/ | n. | 渡口，渡船 | 文中未出现 |
-| emerald | /ˈemərəld/ | adj. | 翡翠绿的 | emerald mountains |
-| pasture | /ˈpɑːstʃə(r)/ | n. | 牧场 | engulfing pastures and hills |
-| translucent | /trænzˈluːsnt/ | adj. | 半透明的 | 文中未出现 |
-| goner | /ˈɡɒnə(r)/ | n. | 无法挽救的人 | I had been a goner |
-| dimple | /ˈdɪmpl/ | n. | 酒窝 | he flashed that dimple |
-| stridden | /ˈstrɪdn/ | v. | 大步走（stride的过去分词） | The Daniel who was striding in my direction |
-| scrutinize | /ˈskruːtɪnaɪz/ | v. | 仔细检查 | His eyes kept assessing me |
-| smirk | /smɜːk/ | n./v. | 得意地笑 | one corner of his lips curled, gifting me with a smirk |
+|wedged|/wedʒd/|v.|The small city where I had come from stood on the most northern coast of the peninsula, wedged between the often fierce and ivory Cantabrian Sea and a range of emerald mountains.|The small city where I had come from stood on the most northern coast of the peninsula, wedged between the often fierce and ivory Cantabrian Sea and a range of emerald mountains.||
+|emerald|/ˈemərəld/|adj.|The small city where I had come from stood on the most northern coast of the peninsula, wedged between the often fierce and ivory Cantabrian Sea and a range of emerald mountains.|emerald mountains||
+|pasture|/ˈpɑːstʃə(r)/|n.|Which made possible for the vegetation to grow wild and lush, engulfing pastures and hills and creating an image very few thought of when it came to Spain.|engulfing pastures and hills||
+|goner|/ˈɡɒnə(r)/|n.|I had been a goner.|I had been a goner||
+|dimple|/ˈdɪmpl/|n.|He walked in, cleared his throat, and flashed that dimple.|He walked in, cleared his throat, and flashed that dimple.||
+|smirk|/smɜːk/|n./v.|Aaron’s eyes twinkled under the Spanish sun, one corner of his lips curled, gifting me with a full-fledged smirk, and then he winked.|Aaron’s eyes twinkled under the Spanish sun, one corner of his lips curled, gifting me with a full-fledged smirk, and then he winked.||
 
 **例句摘录**：
 
@@ -190,7 +186,7 @@ source_text: "text/ch16_chapter_16.txt"
 
 （我曾经无可救药地迷上了他。）
 
-> "He flashed that dimple I had been so familiar with in the past."
+> "He walked in, cleared his throat, and flashed that dimple."
 
 （他亮出了那个我曾经非常熟悉的酒窝。）
 
@@ -200,16 +196,40 @@ source_text: "text/ch16_chapter_16.txt"
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句（原文） |
 |------|------|------|----------|-------------|
-| tackle | /ˈtækl/ | v. | 抱住，抓住 | I was tackled from behind |
-| speckled | /ˈspektld/ | adj. | 带有斑点的 | little green speckles to the brown we shared |
-| wiggle | /ˈwɪɡl/ | v. | 摆动，扭动 | Her eyebrows did a little wiggle |
-| tug | /tʌɡ/ | v. | 拉，拽 | she tugged at my ponytail |
-| chug | /tʃʌɡ/ | v. | 大口喝 | he was chugging water from a bottle |
-| ogling | /ˈəʊɡlɪŋ/ | v. | 盯着看 | I was ogling at that point |
-| grove | /ɡrəʊv/ | n. | 小树林 | 文中未出现 |
-| shove | /ʃʌv/ | v. | 推，挤 | shoving food in my direction |
-| grunt | /ɡrʌnt/ | n. | 嘟囔 | he grunted |
-| snort | /snɔːt/ | n./v. | 哼鼻子 | A snort involuntarily escaped my lips |
+|tackle|/ˈtækl/|v.|He had not arrived yet.
+
+
+“Aquí está mi hermana favorita.” My sister’s voice reached me a heartbeat before I was tackled from behind.
+
+
+“I’m your only sister, idiot.|I was tackled from behind||
+|chug|/tʃʌɡ/|v.|He was chugging water from a bottle, not looking half as physically exerted as everybody else.|he was chugging water from a bottle||
+|ogling|/ˈəʊɡlɪŋ/|v.|Yeah, I was ogling at that point, and I didn’t really give a damn.|I was ogling at that point||
+|snort|/snɔːt/|n./v.|It’ll be fun.”
+
+
+“It hasn’t been, and it won’t be,” I said, dragging my feet but following her because what choice did I have? “Gabi has turned into this cute but terrifying sports mogul, and everyone is scared of her.”
+
+
+Isa snorted. “It’s not that bad.|
+
+
+“It hasn’t been, and it won’t be,” I said, dragging my feet but following her because what choice did I have? “Gabi has turned into this cute but terrifying sports mogul, and everyone is scared of her.”
+
+
+Isa snorted. “It’s not that bad.|
+
+
+“It hasn’t been, and it won’t be,” I said, dragging my feet but following her because what choice did I have? “Gabi has turned into this cute but terrifying sports mogul, and everyone is scared of her.”
+
+
+Isa snorted. “It’s not that bad.|
+
+
+“It hasn’t been, and it won’t be,” I said, dragging my feet but following her because what choice did I have? “Gabi has turned into this cute but terrifying sports mogul, and everyone is scared of her.”
+
+
+Isa snorted. “It’s not that bad.|A snort involuntarily escaped my lips||
 
 ---
 
@@ -217,16 +237,162 @@ source_text: "text/ch16_chapter_16.txt"
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句（原文） |
 |------|------|------|----------|-------------|
-| hip | /hɪp/ | n. | 臀部 | his hand came to rest on my hip |
-| shoulder | /ˈʃəʊldə(r)/ | n. | 肩膀 | his fingers trailing down my arm and reaching my hand |
-| knee | /niː/ | n. | 膝盖 | Aaron's hand landed on my knee |
-| jaw | /dʒɔː/ | n. | 下巴 | his jaw relaxed |
-| throat | /θrəʊt/ | n. | 喉咙 | my throat bobbed |
-| chest | /tʃest/ | n. | 胸部 | my chest with warmth and longing |
-| gaze | /ɡeɪz/ | n./v. | 凝视 | our gazes met |
-| glance | /ɡlɑːns/ | n./v. | 一瞥 | I stole a quick glance |
-| stare | /steə(r)/ | v. | 盯着看 | I stared at the grumpier-than-ever man |
-| smirk | /smɜːk/ | n./v. | 得意的笑 | with a full-fledged smirk |
+|hip|/hɪp/|n.|Chapter 16
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Sixteen
+
+
+
+
+
+
+
+
+
+
+
+
+I stood with my hands on my hips, getting a little lost in the palette of blues and greens that painted the view before me.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Sixteen
+
+
+
+
+
+
+
+
+
+
+
+
+I stood with my hands on my hips, getting a little lost in the palette of blues and greens that painted the view before me.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Sixteen
+
+
+
+
+
+
+
+
+
+
+
+
+I stood with my hands on my hips, getting a little lost in the palette of blues and greens that painted the view before me.|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Sixteen
+
+
+
+
+
+
+
+
+
+
+
+
+I stood with my hands on my hips, getting a little lost in the palette of blues and greens that painted the view before me.|his hand came to rest on my hip||
+|shoulder|/ˈʃəʊldə(r)/|n.|You are still my fave.”
+
+
+Sticking my tongue out, I looked at her over my shoulder.|his fingers trailing down my arm and reaching my hand||
+|throat|/θrəʊt/|n.|As I got lost in the way his arm stretched and his throat worked down the water, I wondered if my sister had imagined all that or if Aaron’s acting was that amazing.|my throat bobbed||
+|chest|/tʃest/|n.|I heard she almost ripped the groom’s head off because he’d bought the wrong shoes.”
+
+
+I stepped away and turned, so I could face her.
+
+
+“You heard that right.” My sister and bride-to-be brought a hand to her chest, feigning dismay. “I let him pick one thing, Lina.|my chest with warmth and longing||
+|gaze|/ɡeɪz/|n./v.|Our gazes met.|our gazes met|||||
+|glance|/ɡlɑːns/|n./v.|But”-I shot her a humorless glance over my shoulder-“they are still going to smash us like cockroaches.”
+
+
+Shaking my head, I thought of how unathletic Team Bride was compared to our male counterpart.|I stole a quick glance||
+|stare|/steə(r)/|v.|She stared at me, inspecting my reaction.|She stared at me, inspecting my reaction.||
+|smirk|/smɜːk/|n./v.|Aaron’s eyes twinkled under the Spanish sun, one corner of his lips curled, gifting me with a full-fledged smirk, and then he winked.|with a full-fledged smirk||
 
 ---
 

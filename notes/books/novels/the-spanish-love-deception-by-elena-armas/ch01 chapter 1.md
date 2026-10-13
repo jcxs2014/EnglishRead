@@ -162,7 +162,7 @@ Aaron 说话的特点：永远用最正式、最准确的语言表达最冷淡�
 ---
 
 > **原句 8:**
-> "I don't even think he is able to pull off friendly."
+> "I didn't even think he was able to pull off friendly."
 
 *中文理解：*
 "我甚至觉得他根本不具备友善的能力。"

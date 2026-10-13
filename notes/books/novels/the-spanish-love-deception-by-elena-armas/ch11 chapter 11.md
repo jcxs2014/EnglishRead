@@ -7,12 +7,11 @@ source_text: "text/ch11_chapter_11.txt"
 # Chapter 11（精读分析）
 
 ## 本章导航
-
-1. **核心事件**：Lina 因过度节食在办公室晕倒，被 Aaron 发现并救助。
-2. **关键转折**：Aaron 意外接听 Isabel 来电，两人关系从"假男友协议"开始向真实情感倾斜。
-3. **本章高光**：Aaron 提出"选项 A 或选项 B"——要么独自回国面对家人，要么带他一起去。
-4. **悬念铺垫**：Lina 得知 Aaron 将升职为她的上司，协议关系的潜在危机浮现。
-5. **情感走向**：两人在 Aaron 车中达成前往西班牙的共识，关系进入新阶段。
+- **视角**：第一人称女主 Lina（Aaron 称她 Catalina）
+- **地点**：InTech 办公室 → Aaron 的车内
+- **核心事件**：Lina 因过度节食在办公室晕倒，被 Aaron 发现并救助；Aaron 提出"选项 A 或选项 B"
+- **关系起点**：从假情侣协议向真实情感倾斜——Aaron 坚持陪 Lina 去西班牙
+- **悬念钩子**：Lina 得知 Aaron 将成为她的上司，协议关系的潜在危机是什么？
 
 ## 精读
 
@@ -167,7 +166,7 @@ Aaron 在车里的这段话是全章的核心——他提出"选项 B"：陪她�
 ---
 
 > **原句 8:**
-> "I told you we would talk about it." When? While I was on my way to the airport? We were out of time to talk about anything.
+> "I told you we would talk about it." When? I wanted to ask him. While I was on my way to the airport?
 
 **中文理解**
 Lina 的内心独白在此刻彻底暴露了她的真实情感——她一直在等他的消息，两周里她希望他联系她，却同时觉得自己不该有这种期待。问句"While I was on my way to the airport?"是反问，实际意思是"你根本没打算联系我"。
@@ -193,40 +192,43 @@ Lina 的内心独白在此刻彻底暴露了她的真实情感——她一直在
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **concatenation** | /kənˌkætəˈneɪʃən/ | 连接；连锁 | My mind kept picturing the same scenario over and over again, filling me with dread. |
-| **disconcerted** | /ˌdɪskənˈsɜːtɪd/ | 不安的；困惑的 | "That's … ridiculous," he said, and I could hear in his voice how disconcerted he was. |
-| **empirically** | /ɪmˈpɪrɪkəli/ | 以经验为主地 | "Jesus, fuck. Catalina." Wow. "All this swearing," I said while I tried to search his face. |
-| **recrimination** | /rɪˌkrɪmɪˈneɪʃən/ | 反责；相互指责 | I shook my head. I was so dumb. "And we don't need to. We have nothing to talk about." |
-| **ameliorate** | /əˈmiːliəreɪt/ | 改善；改进 | Water. That would help. |
-| **vulnerability** | /ˌvʌlnərəˈbɪləti/ | 脆弱性 | My eyelids fluttered closed, and I could feel how all the blood in my face rushed down, leaving me woozy and unbalanced. |
-| **colloquially** | /kəˈloʊkwiəli/ | 口语地；通俗地 | "Jesus, fuck. Catalina." Wow. "All this swearing," I said while I tried to search his face. |
-| **precipitate** | /prɪˈsɪpɪteɪt/ | 突如其来的 | My blood dipped to my feet, reminding me of earlier, when I had almost fainted. |
+|**disconcerted**|/ˌdɪskənˈsɜːtɪd/|不安的；困惑的|What does it matter?”
+
+
+“Catalina,” he said, and I could hear in his voice how disconcerted he was. “That’s … ridiculous.|
 
 ### 进阶词汇（Intermediate）8词
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **twirl** | /twɜːrl/ | 旋转；（情绪）涌现 | My phone flash with my sister's name, causing a twirl of mixed emotions. |
+|**twirl**|/twɜːrl/|旋转；（情绪）涌现|Opening my eyes back up, I watched my phone flash with my sister’s name, causing a twirl of mixed emotions.|
 | **hollowness** | /ˈhɒləunəs/ | 空虚；空洞感 | My body was screaming at me for something, anything that would appease the hollowness in my stomach. |
-| **grunt** | /ɡrʌnt/ | 咕哝声 | A grunt reached my ears. "Six pairs of shoes," the scowling man in casual wear muttered. |
 | **scowl** | /skaʊl/ | 皱眉 | His eyebrows draw into a scowl. |
-| **grimace** | /ˈɡrɪməs/ | 鬼脸；痛苦表情 | I grimaced. "Lunch? I think. Maybe more like brunch." |
-| **twitch** | /twɪtʃ/ | 抽动；嘴角上扬 | His lips twitched in what was the beginning of a smile. |
-| **wobbly** | /ˈwɒbli/ | 摇晃的；颤抖的 | I couldn't stop my mouth from finally shaping into what I knew was a wobbly smile. |
+|**grimace**|/ˈɡrɪməs/|鬼脸；痛苦表情|I grimaced. “Lunch?|
+|**twitch**|/twɪtʃ/|抽动；嘴角上扬|But I think you should call her back tomorrow.” He pointed at my phone. “Judging by the five-minute monologue in Spanish before I could even tell her it wasn’t you on the line, I’d say she’ll feel better when you do.” Aaron’s lips twitched in what was the beginning of a smile.
+
+
+“Yeah,” I murmured, a little too absorbed by his mouth when I should have been trying to manage a crisis. “Okay.”
+
+
+That smirk stretched into a lopsided smile.|
 | **lurch** | /lɜːtʃ/ | 突然前冲；（情感）猛然跳动 | Something lurched against my ribs. |
 
 ### 基础词汇（Basic）8词
 
 | 词汇 | 音标 | 释义 | 例句 |
 |------|------|------|------|
-| **faint** | /feɪnt/ | 晕倒 | I fainted, for not eating enough. Like a total dumbass. |
+|**faint**|/feɪnt/|晕倒|I fainted, for not eating enough.|
 | **stab** | /stæb/ | 刺；戳 | He stopped me with oddly gentle hands on my shoulders. |
 | **bunch** | /bʌntʃ/ | 聚集；绷紧 | Still looking all angry and bunched up. |
 | **chill** | /tʃɪl/ | 冷却；寒冷 | My skin felt cold and clammy, and I just wanted to close my eyes and rest. |
-| **sweat** | /swet/ | 汗 | I was white-lipped, sweaty, and on my way to dramatically passing out. |
-| **lap** | /læp/ | 大腿 | He very carefully placed on my lap what I already knew was a delicious granola bar. |
-| **sip** | /sɪp/ | 小口喝 | "Thanks." I unscrewed the lid, chugging down a quarter of the bottle. |
-| **yawn** | /jɔːn/ | 打哈欠 | Not more than thirty minutes later, I held in my hands a warm takeout container. |
+|**sweat**|/swet/|汗|The sweat on my skin cooled down.|
+
+
+“Thank you, Miss Martín,” a man in a dark suit spoke from the screen of my laptop. “We will study your offer and come to a decision.”
+
+
+I nodded. “Thank you for your time,” I said, making myself smile politely. “I look forward to hearing back from you, Mr.|
 
 ## 一句话总结
 

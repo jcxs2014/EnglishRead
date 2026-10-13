@@ -6,12 +6,12 @@ source_text: "text/ch17_chapter_17.txt"
 
 # Chapter 17（精读分析）
 
-**导航**
-1. [引语块 1-4](#引语块-1-4)｜[引语块 5-8](#引语块-5-8)
-2. [词汇表](#词汇表)
-3. [一句话总结](#一句话总结)
-
----
+## 本章导航
+- **视角**：第一人称女主 Lina
+- **地点**：足球比赛场观众席
+- **核心事件**：Lina 在看足球比赛时差点跌倒，被 Aaron 以肩扛方式救起，两人肢体接触增加
+- **关系起点**：从疏离到暧昧——Lina 首次意识到自己不只是被 Aaron 外表吸引，而是真的在乎他
+- **悬念钩子**：Aaron 为什么出现在足球比赛现场？他的足球背景与退役秘密是什么？
 
 ## 引语块 1-4
 
@@ -204,46 +204,49 @@ Aaron 终于开口说话时，声音带着喘息感——他叫了她的全名�
 
 | 词汇 | 词性 | 例句 |
 |------|------|------|
-| **charred** | adj. | "Hell, I already felt a little like a charred insect." |
-| **peruse** | v. | "My gaze trailed up, and there it was." |
-| **striding** | v./adj. | "Aaron's long legs, striding from one point to the next." |
-| **simmer** | v. | "My blood seemed to simmer and swirl every time our gazes met." |
-| **irremediably** | adv. | "Following him around like two dumb bugs irremediably drawn by an irresistible light." |
-| **baffling** | adj. | "Both teams were tied. Baffling really, but what did I know?" |
-| **catapulted** | v. | "My foot got caught... causing me to trip and be catapulted forward." |
-| **swooped** | v. | "His chest shook under my hips and thighs." |
-| **unreadable** | adj. | "His face was this unreadable blank mask again." |
-| **irremediably** | adv. | "Two dumb bugs irremediably drawn by an irresistible light." |
+|**charred**|adj.|Hell, I already felt a little like a charred insect.|
+|**striding**|v./adj.|On top of that, my hunger had turned into starvation, and no matter how hard I tried to stay focused on the game, my attention always shifted to Aaron’s long legs, striding from one point to the next.|
+|**simmer**|v.|To how my blood seemed to simmer and swirl every time our gazes met.|
+|**irremediably**|adv.|Following him around like two dumb bugs irremediably drawn by an irresistible light.|
+|**baffling**|adj.|Baffling really, but what did I know?|
+|**catapulted**|v.|Just when I was about to reach him, my foot got caught in a little bump on the grass, causing me to trip and be catapulted forward.|
+|**unreadable**|adj.|His face was this unreadable blank mask again, as if I had pinched all emotion out of it.|
+|**irremediably**|adv.|Following him around like two dumb bugs irremediably drawn by an irresistible light.|
 
 ### 进阶
 
 | 词汇 | 词性 | 例句 |
 |------|------|------|
-| **ogle** | v. | "I had been too busy, ogling my flawless, glistening fake boyfriend." |
-| **shimmering** | adj. | "a sweaty, shirtless Aaron looked like a man shooting a Sports Illustrated cover." |
-| **grunt** | n./v. | "A complaint rose and died in my throat." |
-| **screech** | v. | "Aaron, I screeched with urgency." |
-| **bounce** | v. | "He bounced a little extra hard, cutting my words." |
-| **pinch** | v. | "I stretched down until my hand reached his backside and pinched his butt." |
-| **sway** | v. | "My eyelids might have fluttered." |
-| **tug** | v. | "He retrieved them. But not without tugging a little strand of hair." |
-| **twinkle** | v. | "My eyes probably twinkled too." |
-| **flutter** | v. | "My eyelids might have fluttered, making it hard for me to see." |
+|**ogle**|v.|I had been too busy, ogling my flawless, glistening fake boyfriend.|
+|**screech**|v.|A complaint rose and died in my throat as he shot off, running.
+
+
+“Aaron,” I screeched with urgency.|
+|**bounce**|v.|Doing?” My speech was interrupted with each bounce of his body.|
+|**pinch**|v.|So, with all the skill I could gather, I stretched down until my hand reached his backside and pinched his butt.|
+|**sway**|v.|Aaron rearranged my body in his arms, and with the change of position, I could feel the swaying of his chest against mine.|
+|**twinkle**|v.|My eyes probably twinkled too.|
+|**flutter**|v.|Or so I told myself because as I went down, my eyelids might have fluttered, making it hard for me to see much as I was pressed against each hard plane, bulge, and slab there was in Aaron’s chest.|
 
 ### 基础
 
 | 词汇 | 词性 | 例句 |
 |------|------|------|
-| **shirtless** | adj. | "having to play against a group of shirtless dudes" |
-| **goal** | n. | "Pointing at our goal." |
-| **striker** | n. | "They are using him as a striker." |
-| **trip** | v. | "My foot got caught in a little bump on the grass, causing me to trip." |
-| **bounce** | v. | "Every bounce of his body." |
-| **groan** | n. | "A complaint rose and died in my throat." |
-| **grin** | n./v. | "a shameless, outright joyful grin that broke out on my face" |
-| **wink** | n./v. | "Aaron accompanied that with a wink." |
-| **shoulder** | n. | "My midsection landed against something hard." |
-| **dignity** | n. | "Let us try to finish this with as much dignity as we can." |
+|**shirtless**|adj.|One would think that having to play against a group of shirtless dudes was disconcerting.|
+|**goal**|n.|And yet, somehow, Team Bride had still scored as many goals as the guys.|
+|**striker**|n.|They are using him as a striker.”
+
+
+“Mierda.|
+|**trip**|v.|Just when I was about to reach him, my foot got caught in a little bump on the grass, causing me to trip and be catapulted forward.|
+|**bounce**|v.|Doing?” My speech was interrupted with each bounce of his body.|
+|**grin**|n./v.|Which didn’t excuse the shameless, outright joyful grin that broke out on my face.|
+|**wink**|n./v.|But Aaron accompanied that with a wink.|
+|**shoulder**|n.|Particularly off someone’s shoulder-Aaron’s shoulder to be one hundred percent exact.|
+|**dignity**|n.|Now, let’s try to finish this with as much dignity as we can.”
+
+
+As I faced the other team, all the guys clicked into action.|
 
 ---
 

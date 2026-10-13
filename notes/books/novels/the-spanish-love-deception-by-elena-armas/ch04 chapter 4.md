@@ -192,40 +192,121 @@ this Aaron you are dating
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句 |
 |------|------|------|----------|------|
-| oblivious | /əˈblɪviəs/ | adj. | 浑然不觉的；健忘的 | You are oblivious, sweetie. |
-| scrutinize | /ˈskruːtɪnaɪz/ | v. | 仔细检查；审视 | He scrutinized my face for a brief moment. |
-| tremble | /ˈtrembl/ | v. | 颤抖；发抖 | My hands trembled as I gripped the phone. |
-| stammer | /ˈstæmə/ | v. | 结巴；口吃 | I stammered, not knowing what to say. |
-| churn | /tʃɜːn/ | v. | 翻腾；剧烈搅动 | That emotion churned in my gut. |
-| stammer | /ˈstæmə/ | v. | 结巴地说 | "I … I …" I trailed off. |
-| anguish | /ˈæŋɡwɪʃ/ | n. | 极度痛苦；苦恼 | Anguish filled Aaron's blue eyes. |
-| panic | /ˈpænɪk/ | n./v. | 恐慌；使恐慌 | My mind raced through my options very quickly. Desperately. |
+|oblivious|/əˈblɪviəs/|adj.|I gaped at her. “I don’t know you anymore.”
+
+
+She recovered, pinning me with a look. “You are oblivious, sweetie.”
+
+
+“Am not.|You are oblivious, sweetie.||
+|churn|/tʃɜːn/|v.|That emotion churned in my gut, turning into something way too close to helplessness for me to feel any better.
+
+
+“Thanks,” I muttered, massaging my temples with my fingers and closing my eyes. “You could have just sent them by email.” Maybe that way, all this could have been avoided.
+
+
+“You highlight everything by hand.”
+
+
+I did.|That emotion churned in my gut.||
+|panic|/ˈpænɪk/|n./v.|I waited for my mother to conveniently change the topic in that chaotic and speedy way she always did while my mind went on a panicky frenzy.|I waited for my mother to conveniently change the topic in that chaotic and speedy way she always did while my mind went on a panicky frenzy.||
 
 ### 进阶词汇
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句 |
 |------|------|------|----------|------|
-| scrutinize | /ˈskruːtɪnaɪz/ | v. | 细看；审视 | He scrutinized my face as my friend stuttered through her obvious lie. |
-| voucher | /ˈvaʊtʃə/ | n. | 优惠券；代金券 | I have an online voucher you can use, I think. |
-| forum | /ˈfɔːrəm/ | n. | 论坛；讨论区 | Nobody posts anything on Facebook anymore, Mamá. |
-| panic | /ˈpænɪk/ | adj. | 恐慌的 | A panicky look took over her face. |
-| confirm | /kənˈfɜːm/ | v. | 确认；证实 | He didn't confirm or deny. |
-| slope | /sləʊp/ | n. | 斜坡；山坡 | — |
-| crush | /krʌʃ/ | n. | 迷恋；暗恋 | He has a crush on me. |
-| wedge | /wedʒ/ | v. | 挤入；楔入 | He had wedged himself into my life one year and eight months ago. |
+|voucher|/ˈvaʊtʃə/|n.|Reaching for my planner, I scribbled on my to-do list to call Isa to warn her.
+
+
+“I have an online voucher you can use, I think,” Mamá commented while I unlocked my laptop and absently checked my inbox. “Although maybe it does not work outside Spain.|I have an online voucher you can use, I think.||
+|panic|/ˈpænɪk/|adj.|I waited for my mother to conveniently change the topic in that chaotic and speedy way she always did while my mind went on a panicky frenzy.|A panicky look took over her face.||
+|confirm|/kənˈfɜːm/|v.|You just-”
+
+
+“Well, I must have let myself get carried away, cariño.”
+
+
+I opened my mouth to confirm that, but she didn’t give me the chance.
+
+
+“Perfect,” she cut in. “That is such a beautiful dress, Lina.|
+
+
+“Well, I must have let myself get carried away, cariño.”
+
+
+I opened my mouth to confirm that, but she didn’t give me the chance.
+
+
+“Perfect,” she cut in. “That is such a beautiful dress, Lina.|
+
+
+“Well, I must have let myself get carried away, cariño.”
+
+
+I opened my mouth to confirm that, but she didn’t give me the chance.
+
+
+“Perfect,” she cut in. “That is such a beautiful dress, Lina.|
+
+
+“Well, I must have let myself get carried away, cariño.”
+
+
+I opened my mouth to confirm that, but she didn’t give me the chance.
+
+
+“Perfect,” she cut in. “That is such a beautiful dress, Lina.|He didn't confirm or deny.||
+|wedge|/wedʒ/|v.|My gaze shot to my office door, and exactly how he had wedged himself into my life one year and eight months ago-with horrifyingly bad timing-Aaron Blackford walked through the threshold and placed himself in the eye of the storm.
+
+
+“Lina?” I thought I heard my mother say.|He had wedged himself into my life one year and eight months ago.||
 
 ### 基础词汇
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句 |
 |------|------|------|----------|------|
-| boyfriend | /ˈbɔɪfrend/ | n. | 男朋友 | Nothing happened with my boyfriend. |
-| wedding | /ˈwedɪŋ/ | n. | 婚礼 | I am bringing him, just like I said I would. |
-| bride | /braɪd/ | n. | 新娘 | Isa—my sister and bride. |
-| phone | /fəʊn/ | n. | 电话 | My mother somehow repeated his name, "Aaron?" |
-| office | /ˈɒfɪs/ | n. | 办公室 | We didn't visit each other's offices. |
-| mother | /ˈmʌðə/ | n. | 母亲 | My mother's voice traveled from my phone to my ear. |
-| lie | /laɪ/ | n./v. | 谎言；说谎 | Lies, lies, and more lies. Lina Martín, professional liar. |
-| truth | /truːθ/ | n. | 真相 | As if reading my mind, my mother uttered my thoughts. |
+|boyfriend|/ˈbɔɪfrend/|n.|Not like the frog dress.”
+
+
+“Thanks,” I muttered. “I don’t think I’ll ever wear green again.”
+
+
+“Good,” she said far too quickly for taking it as a good-hearted comment. “So, what’s this boyfriend of yours going to wear?|Nothing happened with my boyfriend.||
+|wedding|/ˈwedɪŋ/|n.|I don’t think that’s a color the madrina of the wedding should wear.”
+
+
+“I know, Mamá.|I am bringing him, just like I said I would.||
+|bride|/braɪd/|n.|It’d cost me a lot of energy and patience to convince her that she didn’t want to be that kind of bride.
+
+
+“Well, given that I gave birth to the bride and that I already bought that tie for Papá, I think your sister is going to have to make an exception.”
+
+
+Leave it to her to be stubborn.|Isa—my sister and bride.||
+|phone|/fəʊn/|n.|A long and loud sigh left my lips as my mother’s voice traveled from my phone to my ear in heavy spurts of Spanish.
+
+
+“Madre,” I repeated.
+
+
+“… so if you decide to go with that other dress-you know which one I’m talking about?” my mother asked in Spanish, not really giving me a window to answer. “The one that is all flimsy and silky and falls to your ankles.|My mother somehow repeated his name, "Aaron?"||
+|office|/ˈɒfɪs/|n.|My gaze shot to my office door, and exactly how he had wedged himself into my life one year and eight months ago-with horrifyingly bad timing-Aaron Blackford walked through the threshold and placed himself in the eye of the storm.
+
+
+“Lina?” I thought I heard my mother say.|We didn't visit each other's offices.||
+|mother|/ˈmʌðə/|n.|That wasn’t something my mother excelled at, much less ever practiced.|That wasn’t something my mother excelled at, much less ever practiced.||
+|lie|/laɪ/|n./v.|Lied to them.|Lied to them.|||||
+|truth|/truːθ/|n.|You can come to the wedding alone, Lina.”
+
+
+My stomach dropped to my feet at the thought.
+
+
+“I’m not saying Daniel needed to put his life back together in the first place because, well, he jumped off that boat, unscathed.”
+
+
+And wasn’t that the damn truth?|As if reading my mind, my mother uttered my thoughts.||
 
 ---
 

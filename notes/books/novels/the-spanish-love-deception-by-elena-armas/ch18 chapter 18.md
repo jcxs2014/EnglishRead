@@ -6,12 +6,12 @@ source_text: "text/ch18_chapter_18.txt"
 
 # Chapter 18（精读分析）
 
-**导航**
-1. [引语块 1-4](#引语块-1-4)｜[引语块 5-8](#引语块-5-8)
-2. [词汇表](#词汇表)
-3. [一句话总结](#一句话总结)
-
----
+## 本章导航
+- **视角**：第一人称女主 Lina
+- **地点**：西班牙 sidrería（苹果酒馆）/舞池
+- **核心事件**：Aaron 在 bachelor party 上向 Lina 袒露两年来的后悔，两人在舞池贴身热舞、情感上完成真正靠近
+- **关系起点**：从假情侣到真心——Lina 向 Aaron 坦白 Google 过他，Aaron 揭示放弃 NFL 的痛苦往事
+- **悬念钩子**：Aaron 为什么后悔？他的 NFL 职业生涯出了什么问题？
 
 ## 引语块 1-4
 
@@ -61,7 +61,7 @@ Daniel 的 deadpan 打断是故事中的重要节点。他的介入让 Lina 感�
 ---
 
 > **③**
-> "His voice had a breathless texture, and in return, he let me do the same. I couldn't know how, but I swore, in that moment, he was laying bare a little piece of himself in front of me."
+> "his voice had a breathless texture"
 
 **中文理解**
 Aaron 讲述完他们相遇的故事后，声音变得有些"喘息感"，而 Lina 发现自己也在以同样的方式回望他。那一刻，她发誓他在向她展露一部分真实的自己——尽管这很危险，尽管他们都知道这只是"表演"。
@@ -203,46 +203,106 @@ Lina 问 Aaron"你现在完全幸福吗？"他回答："完全？还没有。但
 
 | 词汇 | 词性 | 例句 |
 |------|------|------|
-| **confession** | n. | "There's something I need to tell you. A confession." |
-| **lure** | v. | "I could let that deep voice of his lure me to sleep every night." |
-| **unattainable** | adj. | "But those scenarios were hypothetical and therefore unreal. Unattainable." |
-| **petrified** | adj. | "Petrified and … intrigued." |
-| **raw** | adj. | "That trip down memory lane had left me a little too raw for hiding how I really felt." |
-| **demolish** | v. | "my heart had broken free and turned into a wrecking ball, demolishing everything it found" |
-| **shambles** | n. | "leaving nothing more than a trail of shambles behind" |
-| **lull** | v. | "His touch turned loose and airy, and then it stopped altogether." |
-| **wrinkle** | v. | "His eyes wrinkled with the smile I was looking for." |
-| **nape** | n. | "My fingers played with the short strands of hair in Aaron's nape." |
+|**confession**|n.|A confession.” I didn’t look back at him, but I sensed him tense. “I Googled you, just once.|
+|**lure**|v.|I’d never admit it, but back then, I had gotten as far as thinking I could let that deep voice of his lure me to sleep every night, and I’d be content for the rest of my days.
+
+
+“So, yeah, every single one of my colleagues was pretty much enraptured.|
+|**unattainable**|adj.|Unattainable.|
+|**petrified**|adj.|Petrified and … intrigued.|
+
+
+“I didn’t have any plans or hopes of making friends, not during that first meeting and not any day after,” he continued.|
+|**demolish**|v.|Certainly not the way my heart had broken free and turned into a wrecking ball, demolishing everything it found on its way and leaving nothing more than a trail of shambles behind.
+
+
+“And what happened next?” a familiar voice asked.
+
+
+“Then,” Aaron answered, and his hand rose, the backs of his fingers brushing my cheek, “I acted like a fool-an idiot, depending on who you ask-for a little longer.”
+
+
+My eyelids hid my eyes, breaking off the contact.|
+|**shambles**|n.|Certainly not the way my heart had broken free and turned into a wrecking ball, demolishing everything it found on its way and leaving nothing more than a trail of shambles behind.
+
+
+“And what happened next?” a familiar voice asked.
+
+
+“Then,” Aaron answered, and his hand rose, the backs of his fingers brushing my cheek, “I acted like a fool-an idiot, depending on who you ask-for a little longer.”
+
+
+My eyelids hid my eyes, breaking off the contact.|
+|**wrinkle**|v.|My brain was clearly dehydrated if I was going around, voicing whatever crossed my mind.
+
+
+“Feeling better?” Aaron asked from my side.
+
+
+“Not yet,” I gave him a wobbly smile. “But thank you.”
+
+
+His frown made an appearance, wrinkling his forehead. “I’ll take you back to the apartment.|
+|**nape**|n.|My fingers played with the short strands of hair in Aaron’s nape as our hips swayed to the Latin beat.|
 
 ### 进阶
 
 | 词汇 | 词性 | 例句 |
 |------|------|------|
-| **crawl** | v. | "Stopping myself from crawling under the table was becoming a real hardship." |
-| **sidrería** | n. | "We stood in one of the most frequented bars—sidrerías—of my hometown." |
-| **culín** | n. | "Isabel poured a culín in my glass, filling only the bottom of it." |
-| **stoic** | adj. | "my very stoic fake boyfriend, who stood close enough to my side" |
-| **gape** | v. | "I had gotten as far as thinking I could let that deep voice of his lure me to sleep." |
-| **chatter** | n. | "the characteristically loud chatter of people" |
-| **seized** | v. | "My throat dried out." |
-| **sway** | v. | "our hips swaying to the Latin beat" |
-| **drift** | v. | "a flock of butterflies low in my belly" |
-| **sober** | adj. | "He was completely sober, and that meant, tomorrow, he'd recall every single detail." |
+|**crawl**|v.|Chapter 18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Eighteen
+
+
+
+
+
+
+
+
+
+
+
+
+Stopping myself from crawling under the table was becoming a real hardship.|
+|**stoic**|adj.|There has to be more to the story of how you two met.” Isabel’s eyes shone with curiosity, bouncing from me to my very stoic fake boyfriend, who stood close enough to my side to steal a fair chunk of my focus. “You are playing really hard to get, Lina.”
+
+
+“That’s the whole story, I promise.” Sighing, I averted my eyes to my hands, which were lying on the smooth surface of the table.|
+|**gape**|v.|And even then, everyone seemed to be charmed by the new guy.”
+
+
+I remembered perfectly how everyone had first gaped at the handsome and stern new addition and then silently nodded in appreciation and awe.|
+|**chatter**|n.|We stood in one of the most frequented bars-sidrerías-of my hometown, surrounded by the characteristically loud chatter of people and the sour smell of spilled sidra-the regional apple cider.|
+|**sway**|v.|My fingers played with the short strands of hair in Aaron’s nape as our hips swayed to the Latin beat.|
+|**sober**|adj.|He was completely sober, and that meant, tomorrow, he’d recall every single detail of the night.|
 
 ### 基础
 
 | 词汇 | 词性 | 例句 |
 |------|------|------|
-| **bachelor party** | n. | "It was her bachelorette-slash-bachelor party." |
-| **pour** | v. | "Isabel reached for the bottle of sidra and poured a culín in my glass." |
-| **cheer** | v. | "I cheered, trying my best to get the control back." |
-| **fiancé** | n. | "Gonzalo's arm around her shoulders and tugged her against her fiancé's side." |
-| **best man** | n. | "the best man wouldn't be my ex" |
-| **ex** | n. | "the one man who Gonzalo shared DNA with was not only my ex" |
-| **awkward** | adj. | "I was doing an awful job already. This was why I should never, ever lie." |
-| **sibling** | n. | "She had the sibling ability to see right through me." |
-| **blur** | n. | "my eyes probably looked hazy and a little clouded" |
-| **buzz** | n. | "the effect of the alcohol had faded to a very low buzz" |
+|**pour**|v.|Isabel reached for the bottle of sidra and poured a culín in my glass, filling only the bottom of it.|
+|**cheer**|v.|And while she turned into my fiercest protector and cheerleader, the breakup never shook the foundation of her own relationship.|
+|**sibling**|n.|Lying wasn’t something I was particularly good at, and my sister had the sibling ability to see right through me.|
 
 ---
 
