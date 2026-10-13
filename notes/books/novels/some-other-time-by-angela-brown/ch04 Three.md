@@ -8,11 +8,11 @@ status: completed
 
 # Three
 
-> 在父母家的餐桌旁，Ellie 宣布"We're getting divorced"——没有出轨、没有谎言、没有财务问题，只是" fell out of love"。父母震惊，Maggie 独自走向游泳池，Bunny（天主教徒）拒绝接受，Frank 要求解释。Ellie 走向泳池去找 Maggie 时，看到 Jon 在帮 Bunny 切蛋糕——这个细节暗示即便在崩溃的时刻，他们仍然是彼此的支撑。
+> 在父母家的餐桌旁，Ellie 宣布"We're getting divorced"——没有出轨、没有谎言、没有财务问题，只是" fell out of love"。父母震惊，Maggie 独自走向游泳池，Bunny（天主教徒）拒绝接受，Frank 要求解释。Ellie 走向泳池去找 Maggie 时，看到 Jonah 在帮 Bunny 切蛋糕——这个细节暗示即便在崩溃的时刻，他们仍然是彼此的支撑。
 
 ## 本章导航
 
-- **宣布离婚**："We're getting divorced"——Ellie 和 Jon 共同宣布，但父母的反应（尤其是 Frank 质问 Jon"你做了什么"）揭示了这个家庭对离婚的震惊
+- **宣布离婚**："We're getting divorced"——Ellie 和 Jonah 共同宣布，但父母的反应（尤其是 Frank 质问 Jonah"你做了什么"）揭示了这个家庭对离婚的震惊
 - **"fell out of love"**：Ellie 的解释——没有戏剧性的原因，只有婚姻的自然消亡
 - **Bunny 的信仰抵抗**：Bunny 是天主教徒，对离婚持强烈反对态度（"You think marriage is about love?"）
 - **Ellie 与 Maggie**：Ellie 走向游泳池去找女儿；结尾她"走向蓝色的傍晚"——一个开放的、转变的时刻
@@ -26,7 +26,7 @@ status: completed
 
 **中文理解**："我们要离婚了。"
 
-**句子结构**：极简的陈述句。"We're getting divorced"是 Ellie 和 Jon 事先准备好的台词（"their sad, poorly crafted script"）——这句话是全章的核心事件，是 Prologue 里"二十年后"的真相揭示。
+**句子结构**：极简的陈述句。"We're getting divorced"是 Ellie 和 Jonah 事先准备好的台词（"their sad, poorly crafted script"）——这句话是全章的核心事件，是 Prologue 里"二十年后"的真相揭示。
 
 
 **关键词**：
@@ -41,12 +41,12 @@ status: completed
 
 > "What did you do?" Frank presses, his aging eyes dead set on Jonah's face. His head is all thin white hairs, which right now look like wisps of angry smoke. "What did you do?"
 
-**中文理解**："你做了什么？"Frank 逼问——他年迈的眼睛死死盯着 Jon 的脸。他满头稀疏的白发，此刻看起来像是愤怒的烟雾。"你到底做了什么？"
+**中文理解**："你做了什么？"Frank 逼问——他年迈的眼睛死死盯着 Jonah 的脸。他满头稀疏的白发，此刻看起来像是愤怒的烟雾。"你到底做了什么？"
 
 **句子结构**：主句 "What did you do?" Frank presses；his aging eyes dead set on Jonah's face 是独立主格结构；His head is all thin white hairs 是并列分句；which 引导定语从句；"What did you do?" 是 Frank 的重复追问。
 
 **关键词**：
-- **dead set on**：dead set = 坚定的，绝不妥协的；Frank 对 Jon 的质疑是愤怒的——他以为是 Jon 做错了事导致了离婚
+- **dead set on**：dead set = 坚定的，绝不妥协的；Frank 对 Jonah 的质疑是愤怒的——他以为是 Jonah 做错了事导致了离婚
 - **wisps of angry smoke**：wisps = 一缕一缕的；angry smoke 写 Frank 的白发——头发像是愤怒的具体化；这个比喻暗示了老年人的愤怒（aging + rage）
 - **"What did you do?" (x2)**：Frank 问了两次，重复表达他的愤怒；这种重复是口语中的强调手法
 
@@ -63,10 +63,10 @@ status: completed
 **句子结构**：直接引语；Ellie whispered 是引语动作描述。
 
 **关键词**：
-- **her**：Ellie 说的是"her"，指的是 Maggie；这句话是 Ellie 在空巢期与 Jon 的那次争吵中说的
-- **"I don't want to let her go"**：Ellie 不想让 Maggie 离开；但 Jon 的回应是"但我感觉到你开始放开我了"——这是在说：Ellie 把所有精力都给了 Maggie，而 Jon 被"放开"了
+- **her**：Ellie 说的是"her"，指的是 Maggie；这句话是 Ellie 在空巢期与 Jonah 的那次争吵中说的
+- **"I don't want to let her go"**：Ellie 不想让 Maggie 离开；但 Jonah 的回应是"但我感觉到你开始放开我了"——这是在说：Ellie 把所有精力都给了 Maggie，而 Jonah 被"放开"了
 
-**为什么这样写**：这句话是全章（乃至全书）最脆弱的一刻。Ellie 在 Maggie 离开后感到空虚——她的全部身份都是"妈妈"，当孩子离开后，她不知道自己的位置在哪里。而 Jon 的感受是：他被"放开"了。两个人在同一个空巢期里，一个在抓紧，一个在被放开——这是婚姻中最残酷的距离。
+**为什么这样写**：这句话是全章（乃至全书）最脆弱的一刻。Ellie 在 Maggie 离开后感到空虚——她的全部身份都是"妈妈"，当孩子离开后，她不知道自己的位置在哪里。而 Jonah 的感受是：他被"放开"了。两个人在同一个空巢期里，一个在抓紧，一个在被放开——这是婚姻中最残酷的距离。
 
 ---
 
@@ -79,10 +79,10 @@ status: completed
 **句子结构**：直接引语；he said 是引语动作描述。
 
 **关键词**：
-- **let go of me instead**：instead = 反而；Jon 说的是 Ellie 在"放开 Maggie"的同时，也在"放开他"；这个指控是全章的情感核心
-- **This is what Jon sensed**：（待续）
+- **let go of me instead**：instead = 反而；Jonah 说的是 Ellie 在"放开 Maggie"的同时，也在"放开他"；这个指控是全章的情感核心
+- **you're starting to**：现在进行时表"起始体"——不是"你放开了我"，而是"你正在开始放开我"；这个"开始"才是全章的痛处：裂痕不是某一刻的决裂，而是此刻正在发生、且不可逆的过程
 
-**为什么这样写**：Jon 的这句话揭示了婚姻的真相：不是因为"谁做错了什么"，而是因为 Ellie 的能量全部转移到了 Maggie 身上，而 Jon 被"留下来"了。这是"空巢综合症"（empty nest syndrome）的婚姻版本：孩子离开后，父母之间的婚姻关系变成了"空白"。
+**为什么这样写**：Jonah 的这句话揭示了婚姻的真相：不是因为"谁做错了什么"，而是因为 Ellie 的能量全部转移到了 Maggie 身上，而 Jonah 被"留下来"了。这是"空巢综合症"（empty nest syndrome）的婚姻版本：孩子离开后，父母之间的婚姻关系变成了"空白"。
 
 ---
 
@@ -157,7 +157,7 @@ status: completed
 
 ### 一句话概括
 
-Ellie 和 Jon 在父母面前宣布离婚，震惊了全家人；Bunny 代表老一代人的婚姻信仰（承诺 > 爱情）拒绝接受，而 Ellie 走向游泳池去找独自离开的 Maggie——在蓝色的傍晚，她走进了一个开放的、转变的时刻。
+Ellie 和 Jonah 在父母面前宣布离婚，震惊了全家人；Bunny 代表老一代人的婚姻信仰（承诺 > 爱情）拒绝接受，而 Ellie 走向游泳池去找独自离开的 Maggie——在蓝色的傍晚，她走进了一个开放的、转变的时刻。
 
 ### 一句话总结
 
