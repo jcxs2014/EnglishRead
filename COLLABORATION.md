@@ -60,19 +60,6 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
-### [2026-10-13 13:47 UTC] [ZCode-Mac] → All
-
-**《The Snowbirds》(Christina Clancy) 精读完工 + 五步审查整改**（`the-snowbirds-by-christina-clancy` · novels｜完整 lane，有 epub）
-
-- 产出：41 个精读 md（含审查补回的 Chapter Thirty-Seven）+ 总览三篇；完工 commit **4364f92bc**（40 章版）→ 审查整改 commit **01fe4487c**
-- **审查头号发现（阻断型·结构）**：`extract_chapters.py` 默认 `--min-len 600` 把仅 ~272 字符的 Chapter Thirty-Seven 静默跳过 ⇒ 全书 40→41 章重编号（text/、md、总览交叉引用），其余门禁当时「全绿」正是假象
-- **词汇层**：check_vocab FAIL 21→0（A 类换真实词、例句逐字化、28 处悬空「原句 N」引用改「本章」）
-- **d 步语义整改 ~30 处**：说话人/事实颠倒（Brady 父亲化、F-117 越战化、Melody 的车「死后买」、ch36 思乡反转、ch40 习语次序）· 引语截短 8 处（扩引语覆盖分析）· 虚构桥段（电子游戏对话、「第二次出现」）· 中文层英文残留（очередной、camp/constant、appealing）
-- **整改后全量重跑**：`gate.sh` **EXIT=0（0 阻断）** · verify **330/330** · 逐章归属 **41/41** · 总览 **17/17** + 行内引语补验 **18/18**（⑭ 只认 `>` 行的盲区）· corruption 0 · entities 0
-- 提示型（只记不改）：check_vocab WARN 10（9 条 Tropes 表启发式 + 1 基础档长词）· check_anchor 松散 2（中文理解句里「是关键词：」撞裸标签口径）· ⑮ ch10/ch33 同句歧义（人读确认 ch33 标注正确）· ⑩ 分析层 11 跨章 + 18 拼接（省略号压缩引用/结构记号）
-- **同会话审查已知盲区**：d 步为同实例复核（非独立第三方）；说话人类机械层不可靠，本轮说话人颠倒靠人判抓出
-- 门禁原件：`.memory/raw-gates/the-snowbirds-by-christina-clancy/`；明细：`.memory/daily/2026-10-13.md` 本书专节
-
 ### [2026-10-13 15:00 UTC] [Opencode-Mac] → All
 
 **《Something Followed Us Home: Tales of Latiné Horror》(Cynthia Pelayo 编) 完工** —— 短篇合集（导言 + 17 篇 = 18 章）
@@ -90,6 +77,24 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 修复后复跑全绿；md 18 == text 18
 - 提交（审查）：**ce0aa3356**（工具）· **d1338e7fb**（md + 原件 17 件）· **f1b747aae**（板/日志）｜**未 push**
 - 逐条清单与工具 A/B 数据：`.memory/daily/2026-10-13.md`「五步审查」节；原件：`.memory/raw-gates/something-followed-us-home-by-cynthia-pelayo-ed/`
+
+### [2026-10-13 13:47 UTC] [ZCode-Mac] → All
+
+**《The Snowbirds》(Christina Clancy) 精读完工 + 五步审查整改**（`the-snowbirds-by-christina-clancy` · novels｜完整 lane，有 epub）
+
+- 产出：41 个精读 md + 总览三篇；完工 commit **4364f92bc**（40 章版，verify 325/325）→ 审查整改 commit **01fe4487c**（46 文件 +517/−253）
+- 说明：本书完工通报此前未上板，本条按「每书一条」一并记录完工要点与审查结论（完工基线「全绿」中含一处自洽假绿，见下）
+
+**【审查结论 · 2026-10-13 18:10 UTC 提交】**（用户发起，同会话 a–e 全步：门禁全量重跑／逐章 41/41／结构三口径／逐块语义二审／总览两层）
+
+- **头号发现（阻断型·结构）**：`extract_chapters.py` 默认 `--min-len 600` 把仅 ~272 字符的 Chapter Thirty-Seven（Grant 日记）静默跳过 ⇒ 后续 4 章整体前移；补提原文 + 新写精读 + 全书 40→41 章重编号（text/、md frontmatter、总览交叉引用）
+- 词汇层 FAIL 21→0（A 类换真实词、例句逐字化、28 处悬空「原句 N」改「本章」）
+- d 步语义整改 ~30 处：Brady 父亲化 · F-117 越战化 · Melody 车「死后买」· ch36 思乡反转 · ch40 习语次序 · ch16 导航整句颠倒 · 引语截短 8 处（扩引语覆盖分析）· 中文层英文残留 4 处
+- 总览：verify_overview_quotes 17/17 + 行内引语补验 18/18（⑭ 只认 `>` 行的盲区，本次自写 flat 核对）
+- **整改后复验**：gate.sh **EXIT=0（0 阻断）** · verify **330/330** · 逐章 **41/41** · vocab FAIL 0 · entities 0 · corruption 0
+- 提示型（只记不改）：check_vocab WARN 10 · check_anchor 松散 2（中文理解句「是关键词：」撞裸标签口径）· ⑮ ch10/ch33 同句歧义（人读确认 ch33 正确）· ⑩ 11 跨章 + 18 拼接（省略号压缩引用/结构记号）
+- **已知盲区**：d 步为同实例复核（非独立第三方）；ch37 系审查期新写章，建议异实例复核其分析层
+- 门禁原件：`.memory/raw-gates/the-snowbirds-by-christina-clancy/`；明细：`.memory/daily/2026-10-13.md` 本书专节
 
 ### [2026-10-13 08:00 UTC / 精读完工 2026-10-13 09:28 UTC] [DSH-Mac] → All
 
