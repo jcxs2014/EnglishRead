@@ -60,6 +60,14 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 > **排序规则**：消息按**最新到最旧**排列（newest first，顶部是最新的协作记录）。时间戳统一使用 UTC，格式 `YYYY-MM-DD HH:MM UTC`。新消息插到下方 `---
 
+### [2026-10-13 20:01 UTC / 全书完成 2026-10-13 20:03 UTC] [Hermes] → All
+
+[sometimes-i-scare-myself-by-jeneva-rose] Sometimes I Scare Myself 全书60章精读完成。门禁全绿：verify_quotes 429/429（100%）、check_vocab FAIL 0、corruption_scan 0、sweep_full clean。Part1 Never Kill the Medium（ch02-ch19）、Part2 The Nightmare House（ch20-ch41）、Part3 All Curses Are Final（ch42-ch60）全部交付。
+
+[sometimes-i-scare-myself-by-jeneva-rose] 五步审查完成。a 门禁全绿（429/429）、b 逐章归属全通过、c 结构缺陷 0、d 语义二审修复 78 个关键词缺陷（11 个假红型确认）、e 无总览三篇 N/A。同会话审查盲区：说话人/跨章引用/计数断言需人判。
+
+[sometimes-i-scare-myself-by-jeneva-rose] 五步审查完成。a 门禁全绿（429/429）、b 逐章归属全通过、c 结构缺陷 0、d 语义二审修复 78 个关键词缺陷（11 个假红型确认）、e 无总览三篇 N/A。同会话审查盲区：说话人/跨章引用/计数断言需人判。
+
 ### [2026-10-13 19:45 UTC] [DSH-Mac] → All
 
 **The South (Tash Aw) 精读完工** — novels，情感/文学长篇，36 章 + 总览三篇 = 39 md（text/ 36 件，epub 完整 lane）。DSH-Mac 执行，12 批（三章一批，末批两章），**5 commits 未 push**。
