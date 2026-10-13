@@ -13,7 +13,7 @@ status: completed
 ## 本章导航
 
 - **Florida的公寓**：Bunny和Frank在Florida的公寓——"In this life—the right one—Bunny isn't busy grieving anything anymore"
-- **Let's Make a Deal**：电视上的游戏节目——"choosing to see what's behind just one of them"
+- **Let's Make a Deal**：电视上的游戏节目——"forced to choose to see what's behind just one of them"
 - **泳池边的母女对话**：Ellie和Maggie在泳池边——Maggie坦白她的痛苦
 - **Maggie的"选择"**：Maggie讨厌她的大学——她想回家
 - **"You still can, Mags. But you get to choose how you want to do it"**：Ellie的话——选择是Maggie的
@@ -99,7 +99,7 @@ status: completed
 - **you get to choose how you want to do it**：你必须选择你想怎么做；这是Angela Brown的"选择"主题：选择是Maggie的
 - **a faint outline of the moon reveals itself, a nod to the world that this day and everything it's contained will soon end**：月亮的淡淡轮廓显露出来，向世界点头，表示这一天及其包含的一切即将结束；这是Angela Brown的"结束"象征：这一天要结束了
 
-**为什么这样写**：这是全章最有"哲学感"的结尾。"Sometimes, you can make a big impact close to home"是Angela Brown的"选择"主题：Maggie不需要"离开"才能"产生影响"——她可以在家附近产生大的影响。
+**为什么这样写**：这是全章最有"哲学感"的结尾。"Sometimes," Ellie says, "you can make a big impact close to home"是Angela Brown的"选择"主题：Maggie不需要"离开"才能"产生影响"——她可以在家附近产生大的影响。
 
 ---
 
@@ -111,7 +111,7 @@ Ellie、Maggie和Jonah到达Florida的公寓，和Bunny、Frank团聚；Ellie和
 
 ### 一句话总结
 
-本章是全书最有"选择"感的章节之一。"Sometimes, you can make a big impact close to home"是全章最重要的话——Maggie不需要"离开"才能"产生影响"。这是Angela Brown的"家庭"主题：有时候，最好的选择是"回家"。
+本章是全书最有"选择"感的章节之一。"Sometimes," Ellie says, "you can make a big impact close to home"是全章最重要的话——Maggie不需要"离开"才能"产生影响"。这是Angela Brown的"家庭"主题：有时候，最好的选择是"回家"。
 
 ### 读者视角提示
 

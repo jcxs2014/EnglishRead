@@ -144,11 +144,11 @@ status: completed
 
 ### 一句话概括
 
-Ellie和Jonah在散步中坦白：Jonah从周一就认出了Ellie，他在两个世界之间撕裂；他问"Which life am I meant to pick?"，Ellie说"We made a terrible mistake"，但最后Jonah说"It wasn't fate. It was me. I'd find you in any lifetime, Ellie Adams"。
+Ellie和Jonah在散步中坦白：Jonah从周一就认出了Ellie，他在两个世界之间撕裂；他问"Which life am I meant to pick?"，Ellie说"We made a terrible mistake"，但最后Jonah说"It wasn't fate," he explains. "It was me. I'd find you in any lifetime, Ellie Adams"。
 
 ### 一句话总结
 
-本章是全书最有"情感力量"的章节之一。Jonah的"It wasn't fate. It was me."是对全书"命运 vs 选择"主题的最终回答：这不是命运，这是Jonah的选择。他选择了Ellie。"Which life am I meant to pick?"是Ellie和Jonah都必须面对的问题——但答案是明确的：他们选择彼此。
+本章是全书最有"情感力量"的章节之一。Jonah的"It wasn't fate," he explains. "It was me."是对全书"命运 vs 选择"主题的最终回答：这不是命运，这是Jonah的选择。他选择了Ellie。"Which life am I meant to pick?"是Ellie和Jonah都必须面对的问题——但答案是明确的：他们选择彼此。
 
 ### 读者视角提示
 

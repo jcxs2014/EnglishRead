@@ -14,7 +14,7 @@ status: completed
 
 - **"Ellie需要找到Jonah"**：这是她唯一在想的事情——她需要找到她的丈夫
 - **开车穿过小镇**：Ellie经过书店，看到Gabby在收银台；咖啡店仍然开着
-- **"It might be intuition. Maybe it's just love"**：Ellie的信念——爱能超越时间和逻辑
+- **"Maybe it's intuition. Maybe it's just love"**：Ellie的信念——爱能超越时间和逻辑
 - **第三次车祸**：在同一个路口，第三次碰撞——但这次是她"期待"的
 - **"Funny running into you here"**：Jack的台词——他不知道这是第三次了
 - **"No, she thinks. It's not"**：Ellie的内心——这一点都不好笑

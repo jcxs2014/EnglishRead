@@ -8,7 +8,7 @@ status: completed
 
 # Twenty-Eight
 
-> 又是深夜。Ellie开车满城找Jonah，方向灯"Click, click, click."，但"The traffic lights keep blinking red, but Ellie doesn't halt or yield"。她转回Elm and South那个路口——"a four-way stop that points in every direction and yet more than once has managed to point them right to one another"。然后：Jonah在人行横道上。"It only takes one second—one small choice—to know she's made a terrible mistake." 她的头撞上方向盘。十二段闪回给出两人二十年的全部画面，末一段停在"Jonah, the red traffic light blinking. Her foot pressing the gas. And then . . ."。救护车上她尖叫"He wasn't supposed to be there!"、呢喃"This isn't real. None of this is real."
+> 又是深夜。Ellie开车满城找Jonah，方向灯"Click, click, click."，但"The traffic lights keep blinking red, but Ellie doesn't halt or yield"。她转回Elm and South那个路口——"This place, this four-way stop that points in every direction and yet more than once has managed to point them right to one another"。然后：Jonah在人行横道上。"It only takes one second—one small choice—to know she's made a terrible mistake." 她的头撞上方向盘。十二段闪回给出两人二十年的全部画面，末一段停在"Jonah, the red traffic light blinking. Her foot pressing the gas. And then . . ."。救护车上她尖叫"He wasn't supposed to be there!"、呢喃"This isn't real. None of this is real."
 
 ## 本章导航
 
@@ -16,7 +16,7 @@ status: completed
 - **深夜重找**："This time, she refuses to stop until she finds him."——与ch28那次回家扑空形成对照
 - **不减速**："the whole town is empty"；"Ellie doesn't halt or yield"——她连停车的规则也放弃了
 - **习惯性动作**："She flips on her blinker, even though it isn't necessary"——为无人而做的礼让
-- **他们的路口**：Elm and South——"a four-way stop that points in every direction and yet more than once has managed to point them right to one another"
+- **他们的路口**：Elm and South——"This place, this four-way stop that points in every direction and yet more than once has managed to point them right to one another"
 - **"Red. Red. A heartbeat."**：心跳的视觉化——她转了一圈又一圈
 - **一秒**："It only takes one second—one small choice—to know she's made a terrible mistake."
 - **撞击**："The car makes contact. Her head slams against the steering wheel."——然后三个"Jonah,"定格

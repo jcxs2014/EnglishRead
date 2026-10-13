@@ -13,7 +13,7 @@ status: completed
 ## 本章导航
 
 - **Saturday**：全家人在Florida——"No news of a split. No fracture to their family"
-- **Shelia的来访**：Shelia带着奶油泡芙来访——"He was always my Johnnie's favorite"
+- **Shelia的来访**：Shelia带着奶油泡芙来访——"They were always my Johnnie's favorite"
 - **Jack的死亡**：Jack去年去世了——另一个司机闯红灯
 - **Kristin的消息**：Kristin和双胞胎还在——他们会来Florida过夏天
 - **Ellie的"和解"**："I know, Ellie thinks"——她知道Jack喜欢奶油泡芙

@@ -144,7 +144,7 @@ Ellie和Bunny在机场找到Frank——Frank说他要去Florida因为他不再�
 
 ### 一句话总结
 
-本章是全书最有"和解"感的章节之一。Bunny的"I didn't tell Father Donovan"让Frank的"婚姻结束"变成了一个谎言。但这个谎言揭示了真相：Bunny不想让Frank离开。"I'm not so sure I'd survive without you, either"是全章最重要的话——它说明了Frank和Bunny的爱情是真实的，即使他们一直在吵架。
+本章是全书最有"和解"感的章节之一。Bunny的"I—I didn't actually tell Father Donovan"让Frank的"婚姻结束"变成了一个谎言。但这个谎言揭示了真相：Bunny不想让Frank离开。"I'm not so sure I'd survive without you, either"是全章最重要的话——它说明了Frank和Bunny的爱情是真实的，即使他们一直在吵架。
 
 ### 读者视角提示
 

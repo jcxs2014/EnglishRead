@@ -8,7 +8,7 @@ status: completed
 
 # Twenty-Seven
 
-> 医院深夜。Frank说对了——Bunny确实病了：病毒、高烧、退不下来，Ellie坐在母亲病床旁的椅子上，浑身发冷。Bunny的皮肤"practically translucent"对着蓝色病号服，像"unwanted leashes"把线管绑在身上。Ellie自责" This is all my fault, Dad"，Frank打断她："Who’s to say where one choice ends and another one starts?"——发烧、探视时间、Blinkers、发电机耗尽。然后场景切到黑暗的家中与Maggie出生的回忆；最后Ellie走进Maggie的房间，把Jonah画的那张纸钉上软木板："I’m going to fix this, Mags… Not just for you. Not just for Dad. But for me. For all of me."
+> 医院深夜。Frank说对了——Bunny确实病了：病毒、高烧、退不下来，Ellie坐在母亲病床旁的椅子上，浑身发冷。Bunny的皮肤"practically translucent"对着蓝色病号服，像"unwanted leashes"把线管绑在身上。Ellie自责" This is all my fault, Dad"，Frank打断她："Who’s to say where one choice ends and another one starts?"——发烧、探视时间、Blinkers、发电机耗尽。然后场景切到黑暗的家中与Maggie出生的回忆；最后Ellie走进Maggie的房间，把Jonah画的那张纸钉上软木板："I’m going to fix this, Mags," Ellie whispers to the air … "Not just for you." … "Not just for Dad. But for me. For all of me."
 
 ## 本章导航
 
@@ -16,9 +16,9 @@ status: completed
 - **Frank的安慰**："Who’s to say where one choice ends and another one starts?"——责任无法被划清
 - **探视时间结束**："There’s only supposed to be one guest per room overnight in this wing."——护士让Ellie回去休息
 - **空城与停电**：镇上无人，方向灯"blink red"，家里的发电机"The generator has exhaled its last, tired sigh"——断电，Jonah不在
-- **Maggie出生的回忆**："Why don’t you let me take her to the nursery for you, Mama… You won’t get much alone time from here on out."——护士早就说对了
+- **Maggie出生的回忆**："Why don’t you let me take her to the nursery for a few hours for you, Mama," the nurse said … "You won’t get much alone time from here on out."——护士早就说对了
 - **走向Maggie的房间**：Ellie不敲门地走进去——"the person she’s looking for is not on the other side of this door"，但仍要看一眼
-- **钉上那张画**："I’m going to fix this, Mags… Not just for you. Not just for Dad. But for me. For all of me. And for all of us, too."——本章最重要的话
+- **钉上那张画**："I’m going to fix this, Mags," Ellie whispers to the air … "Not just for you." … "Not just for Dad. But for me. For all of me. And for all of us, too."——本章最重要的话
 
 ## 精读
 

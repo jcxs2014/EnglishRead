@@ -13,7 +13,7 @@ status: completed
 ## 本章导航
 
 - **a whole electronic language**：机器"hum and beep"，说着一整门电子语言，通报他体内正在发生什么
-- **"not in the place they should have been"**：父母都在睡；床位不对，但他们"together"——"that felt like something, at least"
+- **"They weren't in the place they should have been"**：父母都在睡；床位不对，但他们"together"——"that felt like something, at least"
 - **How, she wonders**：她反复自问"How did they go from that night in their bedroom with the laundry and that single word she'd said and ultimately found themselves here?"
 - **pincushion**：他的手"like a pincushion to a dozen different needles"；她把手指**织进**他的指缝
 - **"I'm so sorry, Jo."**：全章最短也最重的一句
