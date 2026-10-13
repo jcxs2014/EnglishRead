@@ -22,7 +22,7 @@ Kim 在搜救行动的紧急升级中被迫面对丈夫可能已经死亡的事�
 
 ## 精读
 
-> **原句 1:** "It was for the bloodhounds, as if he were part of a Sherlock Holmes mystery."
+> **原句 1:** "It was for the bloodhounds, as if he were part of a Sherlock Holmes mystery. Bloodhounds! I distracted myself from my worry by imagining the good laugh we'd have about that when they found him, those poor dogs smelling the damp socks and frayed boxers that reeked of hiker funk when I'd pulled them out of his hamper."
 
 **中文理解**：Kim 用想象力将恐惧"笑话化"——她故意想象那群嗅闻丈夫脏袜子和破旧内衣的警犬，制造一种事后的笑料。这种幽默是典型的心理防御机制：在真正的焦虑面前，大脑主动构建"事后回望的可笑画面"，从而在叙事层面夺回对失控局面的掌控感。
 

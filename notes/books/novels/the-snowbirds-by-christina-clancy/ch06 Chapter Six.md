@@ -82,11 +82,11 @@
 
 > **原句 4:** "'Do I believe the universe is sentient? No. Of course I do not. Unlike you, I don't 'manifest.'' I laughed despite myself."
 
-**中文理解**：Grant 在嘲笑 Kim 的"manifesting"——这是前文 Octavia 教给 Kim 的概念：你想什么，就会吸引什么。Kim 之前用过这个词来形容 Grant 的生活方式（ch01），现在 Grant 用它来反击她。这个争论是本书的核心哲学冲突：Grant 是理性主义者和怀疑论者，Kim 在某种程度上相信"宇宙会回应你的愿望"。Kim 的笑是因为 Grant 的嘲讽很好笑，但她也意识到她确实相信某种形式的"manifesting"。
+**中文理解**：Grant 在嘲笑 Kim 的"manifest"。这个词的来处在 Kim 自己：ch01 里她曾自问"Had I manifested this situation?"——把全家推向 Palm Springs 的人正是她。现在 Grant 用它来反击她。这个争论是本书的核心哲学冲突：Grant 是理性主义者和怀疑论者，Kim 在某种程度上相信"宇宙会回应你的愿望"。Kim 的笑是因为 Grant 的嘲讽很好笑，但她也意识到她确实相信某种形式的"manifest"。
 
 **句子结构**：`"Do I believe the universe is sentient? No. Of course I do not.` 主句 + `Unlike you, I don't 'manifest.'"` Grant 的嘲讽 + `I laughed despite myself.` Kim 的反应。
 
-**关键词**：manifest（显化；Kim 相信这个概念，Grant 嘲笑它） · sentient（有感知能力的；Grant 在问：宇宙是否能感知你的愿望） · I laughed despite myself（Kim 不由自主地笑了——她觉得 Grant 的话很好笑，即使她在某种程度上相信"manifesting"）
+**关键词**：manifest（显化；Kim 相信这个概念，Grant 嘲笑它） · sentient（有感知能力的；Grant 在问：宇宙是否能感知你的愿望） · I laughed despite myself（Kim 不由自主地笑了——她觉得 Grant 的话很好笑，即使她在某种程度上相信"manifest"）
 
 **为什么这样写**：这个细节揭示了 Kim 和 Grant 的根本世界观差异：Grant 是启蒙主义者和理性主义者，他相信逻辑和证据；Kim 在某种程度上相信"情感智慧"和"宇宙的回应"。这种差异在他们关系的每一个层面都有体现——从如何处理汽车熄火，到如何面对 Grant 的失踪。
 
@@ -120,11 +120,11 @@
 
 **中文理解**：Kim 说出"也许我在给我们第二次考虑"——这是一个她甚至没有完全意识到自己在想的话。热的不仅是天气，也是她心里的话。这句话的意思是：Kim 不确定她是否想要这段婚姻；她可能在考虑结束它。这是一个毁灭性的坦白，尤其是在他们"被困在沙漠里"的时候。
 
-**句子结构**：`That was when I said something aloud that I wasn't even fully aware I was thinking` 主句 + `a thought that was too hot to touch` 补充说明 + `'Well, maybe I'm giving us a second thought.'` 实际说出口的话。
+**句子结构**：`That’s when I said something aloud that I wasn’t even fully aware I was thinking` 主句 + `a thought that was too hot to touch` 补充说明 + `'Well, maybe I'm giving us a second thought.'` 实际说出口的话。
 
 **关键词**：too hot to touch（太热了以至于无法触碰；这个"hot"既指天气，也指她的情感） · giving us a second thought（重新考虑；这个词组的意思是"我在重新考虑我们"） · I wasn't even fully aware I was thinking（Kim 没有意识到自己在想这件事，直到她说出口）
 
-**为什么这样写**：这是本章的转折点。Kim 在 Mojave 的高温中说出了一句她甚至没有完全意识到自己在想的话。这个"hot thought"在她的潜意识里已经存在了很久，但在正常温度下（Madison），她永远不会说出口。沙漠的高温给了她"掩护"——她可以把它归咎于天气，但这句话是真实的。
+**为什么这样写**：这是本章的转折点。Kim 在 Mojave 的高温中说出了一句她甚至没有完全意识到自己在想的话。这个"a thought that was too hot to touch"在她的潜意识里已经存在了很久，但在正常温度下（Madison），她永远不会说出口。沙漠的高温给了她"掩护"——她可以把它归咎于天气，但这句话是真实的。
 
 ---
 
@@ -150,20 +150,20 @@
 | manifest | 显化（吸引力法则） | 原句4 |
 | auditioning | 试镜；在……之前试演 | 本章 |
 | continentalist | 大陆哲学家（欧陆哲学学者） | 本章 |
-| repoting | 换盆；重新安置 | 本章 |
+| repotting | 换盆；重新安置 | 本章 |
 | Mojave Desert | 莫哈维沙漠（美国加州沙漠） | 原句1 |
 | hood | 发动机盖；车前盖 | 本章 |
 | shit can | 垃圾箱；废物 | 本章 |
-| bantering | 互相调侃；打趣 | 本章 |
+| banter | 打趣；戏谑 | 本章 |
 | precarious | 危险的；不稳定的 | 原句3 |
 | hot flash | 潮热；热潮红（更年期症状） | 本章 |
-| disrobe | 脱衣 | 本章 |
-| Vegas | 拉斯维加斯 | 原句5 |
+| disrobing | 脱衣 | 本章 |
+| Vegas | 拉斯维加斯 | 本章 |
 | Chapel of Crystals | 水晶教堂（Vegas 婚礼教堂） | 本章 |
 | plot twist | 情节转折 | 原句6 |
-| car | 汽车 | 原句1 |
+| car | 汽车 | 本章 |
 | heat | 热；高温 | 本章 |
-| wife | 妻子 | 本章 |
+| hovered | 徘徊；（数值）稳定在 | 本章 |
 | marriage | 婚姻 | 原句6 |
 | love | 爱 | 原句3 |
 | job | 工作 | 本章 |

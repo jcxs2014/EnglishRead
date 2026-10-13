@@ -20,11 +20,11 @@ source_text: ch18
 
 ## 精读
 
-> **原句 1:** "Never in my life had I been so attuned to the sun as it arcs across the sky. By late afternoon, it slips behind the rough outcroppings and blankets the valley in a growing shadow, setting beyond view."
+> **原句 1:** "Never in my life had I been so attuned to the sun as it arcs across the sky. By late afternoon, it slips behind the rough outcroppings and blankets the valley in a growing shadow, setting beyond view. The closer you are to the mountains, the sooner the day ends. And when the day ends, so, too, does the search."
 
 **中文理解**：我一辈子从未像现在这样关注太阳的轨迹。傍晚时分，它滑过嶙峋的岩石，沉入山后，在山谷投下渐浓的阴影，直至完全消失。离山越近，白昼结束得越早。白昼结束，搜寻也就终止了。
 
-**句子结构**：首句以「Never in my life had I been so attuned」开篇，否定倒装结构强调感知的转变；两段描写（太阳弧移→阴影渐浓）由 and 连接的因果链推进，末句以 When 条件句收束，将自然规律与情感处境直接挂钩。
+**句子结构**：首句以「Never in my life had I been so attuned」开篇，否定倒装结构强调感知的转变；「The closer you are to the mountains, the sooner the day ends」是比较结构，末句「And when the day ends, so, too, does the search」以 When 条件句收束，将自然规律与情感处境直接挂钩。
 
 **关键词**：attuned to（关注；感知）· outcroppings（岩石露头）· blankets the valley（笼罩山谷） · setting beyond view（沉入视野之外）
 
@@ -64,7 +64,7 @@ source_text: ch18
 
 **关键词**：suffering nostalgia for the present（对当下感到怀旧）
 
-**为什么这样写**：Grant 的这句话在小说中第二次出现（首次在 ch17）。它精准概括了 Instagram 文化的核心异化：人们不是在体验当下，而是在为未来的自己「存档」当下的体验。Kim 引用它时，Grant 本人却已失踪在山中——他对「当下」的讽刺评价，此刻变成了 Kim 对他生死的预感注脚。
+**为什么这样写**：Grant 的这句格言以「Grant would say」的转述形式出现，说的是一代人的通病——人们不是在体验当下，而是在为未来的自己「存档」当下的体验。Kim 引用它时，Grant 本人却已失踪在山中——他对「当下」的讽刺评价，此刻变成了 Kim 对他生死的预感注脚。
 
 ---
 
@@ -123,7 +123,7 @@ source_text: ch18
 | attuned to | 关注；感知 | Never in my life had I been so attuned to the sun as it arcs across the sky. |
 | outcropping | 岩石露头 | it slips behind the rough outcroppings |
 | the tipping point | 临界点 | Brady said the third day was the tipping point. |
-| radiance / radiate | 辐射；发光 | Grant's spirit and energy seemed to radiate from it. |
+| radiate | 散发；辐射 | Grant's spirit and energy seemed to radiate from it. |
 | collab | 合作帖（Instagram 商业合作） | She wanted me to photograph her for a "collab" she was doing. |
 | complicated history | 复杂的历史 | everyone would know about our whole relationship, our complicated history. |
 
@@ -136,7 +136,7 @@ source_text: ch18
 | evidence | 证据 | That word evidence made me feel exposed. |
 | absence and reunion | 离别与重逢 | fueled by our cycles of absence and reunion. |
 | suffering nostalgia | 感到怀旧（痛苦地怀念） | an entire generation suffering nostalgia for the present |
-| baby bootees | 婴儿毛线鞋 | as precious as the girls' baby bootees I kept in a box in the basement |
+| baby bootees | 婴儿毛线鞋 | as precious and meaningful as the girls’ baby bootees I kept in a box in the basement |
 
 ### ⭐ 基础
 

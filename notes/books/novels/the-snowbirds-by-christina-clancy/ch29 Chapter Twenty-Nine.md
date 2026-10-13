@@ -12,6 +12,7 @@
 
 ---
 
+## 精读
 > **原句 1:** "When I'd first moved to Madison from Chicago, everyone talked about 'downtown,' and I didn't know what they meant."
 
 **中文理解**：Kim 回忆她刚搬到 Madison 时不理解"downtown"是什么意思——她以为 downtown 是一个有摩天大楼的城市中心，就像 Superman 电影里的那样。这句话的潜台词是：Kim 是一个 outsider，她从一个地方搬到另一个地方，总是需要重新学习"这里的规则"。Palm Springs 也一样——她抵抗把它叫作"小-town"，因为"这是加州，名人来度假的地方"。
@@ -56,7 +57,7 @@
 
 **关键词**：Nepalese（尼泊尔菜）· Taiwanese street food（台湾街头小吃）· land of Cobb salad（科布沙拉之乡）
 
-**为什么这样写**：这段对话是 Grant 和 Kim 关系的缩影：他们来自 Madison（相对多元、文化丰富），但在 Palm Springs 他们变成了"outsider couple"。Grant 的抱怨里有一种精英主义（Madison > Palm Springs），而 Kim 的回答"I like Cobb salad"是一种投降——她在选择接受这里，而不是抱怨。
+**为什么这样写**：这段对话是 Grant 和 Kim 关系的缩影：他们来自 Madison（相对多元、文化丰富），但在 Palm Springs 他们成了异乡人夫妻。Grant 的抱怨里有一种精英主义（Madison > Palm Springs），而 Kim 的回答"I like Cobb salad"是一种投降——她在选择接受这里，而不是抱怨。
 
 ---
 
@@ -68,7 +69,7 @@
 
 **关键词**：bananas Foster（香蕉福斯特甜点）· What is this, 1987?（这是1987年吗？）· still（仍然）
 
-**为什么这样写**：这句话和前面的"land of Cobb salad"一起，构成了 Grant 对 Palm Springs 的核心抱怨：这里的时间和美学都停止了。他是一个教授，他看到的是一个"hyperreal"的地方——它的 aesthetic 是复古的，但它不是真正活着的地方。
+**为什么这样写**：这句话和前面的"land of Cobb salad"一起，构成了 Grant 对 Palm Springs 的核心抱怨：这里的时间和美学都停止了。他是一个教授，他看到的是一个超真实（hyperreal 式）的地方——它的 aesthetic 是复古的，但它不是真正活着的地方。
 
 ---
 
@@ -86,13 +87,13 @@
 
 > **原句 7:** "Why didn't you tell me you went hiking with Cassie?"
 
-**中文理解**：Kim 直接问出了这个困扰她几天的问题：为什么 Grant 没有告诉她他和 Cassie 一起去 hiking？这是本章的情感核心之一——Kim 的 insecurity 浮出水面，而 Grant 的回答揭示了他和 Cassie 之间有一种 Kim 不知道的亲密（分享 personal stuff about his dad/mom/issues）。
+**中文理解**：Kim 直接问出了这个困扰她几天的问题：为什么 Grant 没有告诉她他和 Cassie 一起去 hiking？这是本章的情感核心之一——Kim 的 insecurity 浮出水面，而 Grant 的回答揭示了他和 Cassie 之间有一种 Kim 不知道的亲密（他"I told her about how I short out. About my dad, my mom. My issues."）。
 
 **句子结构**：`"Why didn't you tell me you went hiking with Cassie?"` 直接问句。didn't 是关键词——Kim 在问：为什么你选择隐瞒？
 
 **关键词**：didn't you tell me（为什么不告诉我）· hiking with Cassie（和 Cassie 去徒步）· Why（为什么）
 
-**为什么这样写**：这个问题是 Kim 和 Grant 关系的转折点——Grant 不仅和 Cassie 去 hiking，还告诉了她关于自己父母的 personal issues（他"short out"的原因）。Kim 的反应是："Even the girls don't know about that. You hardly talk about this with me." 这说明 Grant 和 Cassie 建立了一种 Kim 不知道的 intimacy，而 Kim 的反应是 jealousy 和 betrayal。
+**为什么这样写**：这个问题是 Kim 和 Grant 关系的转折点——Grant 不仅和 Cassie 去 hiking，还告诉了她关于自己父母的 personal issues（他"short out"的原因）。Kim 的反应是："You did? Even the girls don't know about that. You hardly talk about it with me." 这说明 Grant 和 Cassie 建立了一种 Kim 不知道的 intimacy，而 Kim 的反应是 jealousy 和 betrayal。
 
 ---
 

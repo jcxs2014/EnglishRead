@@ -56,7 +56,7 @@ Kim 前往 Smoke Tree Ranch 与前婆婆 Melody 共进午餐，两人在财富�
 
 ---
 
-> **原句 4:** "Here, wealth was quiet, anonymous. Old money didn't have to try so hard; at Smoke Tree Ranch, it almost didn't try at all."
+> **原句 4:** "Polly had trained me to think of wealth as slick and shiny; loud and ostentatious. Limos, golden toilets, Russian hookers. This couldn't be more different. Here, wealth was quiet, anonymous. Old money didn't have to try so hard; at Smoke Tree Ranch, it almost didn't try at all."
 
 **中文理解**：Polly 曾向 Kim 灌输奢华等于张扬炫目的观念，而 Smoke Tree Ranch 彻底颠覆了这一认知——真正的老钱自信到无需证明任何东西。
 
@@ -92,15 +92,15 @@ Kim 前往 Smoke Tree Ranch 与前婆婆 Melody 共进午餐，两人在财富�
 
 ---
 
-> **原句 7:** "I knew plenty of gay men from spending so much time in fashion, so of course I knew about Basil since he was a little boy, one simply knows. But I am his mother. I wanted to protect him from the stupid bigots and all the sickness."
+> **原句 7:** "I knew plenty of gay men from spending so much time in fashion, so of course I knew about Basil since he was a little boy, one simply knows. But I am his mother. I wanted to protect him from the stupid bigots and all the sickness. AIDS was bad everywhere, but it just gutted Palm Springs, gutted it! This was where the men came to die. It was so heartbreaking, all these wonderful, lively, whip-smart, talented, beautiful men I knew, the very best, smartest, funniest men, dropping like flies. I was terrified that even if I accepted Basil, nobody else would. I wanted him to be straight not because I cared about who he loved, but because I thought he'd be safer."
 
 **中文理解**：Melody 解释自己的立场：她并非不能接受同性恋，而是目睹 AIDS 夺走那么多才华横溢的人，只想让儿子"安全"。这种母爱以扭曲的方式表达，最终却伤害了所有人。
 
-**句子结构**：因果复合句（I knew...so of course I knew...）+ 转折句（But I am his mother）；省略号暗示了 Melody 的犹豫和痛苦。
+**句子结构**：因果复合句（I knew...so of course I knew...）+ 转折句（But I am his mother）+ 逐层递进的自辩：从"the stupid bigots and all the sickness"到 AIDS 的现场，最后落在"I wanted him to be straight not because...but because..."的目的句上。
 
 **关键词**：protect him（保护 him）· the stupid bigots（愚蠢的偏执狂）· all the sickness（所有的疾病）
 
-**为什么这样写**：用省略号暗示 Melody 的犹豫和痛苦——她知道自己的行为是错误的，但她无法承认。这种矛盾心理是理解 Melody 的关键。
+**为什么这样写**：Melody 把"保护"一路辩解到 AIDS 的现场——"This was where the men came to die"、"dropping like flies"。她要 Kim 理解的不是结论（她仍宁愿儿子是直的），而是动机（她怕他死）。动机的真实与结论的错误并置，正是这个人物的复杂处。
 
 ---
 

@@ -12,6 +12,7 @@
 
 ---
 
+## 精读
 > **原句 1:** "Sometimes my age slaps me in the face."
 
 **中文理解**：Grant 感到时间的重量突然压在他身上——这不是渐进的衰老感，而是突然的、具象的打击。"Slaps me in the face"这个表达充满了身体感官的直接性，仿佛衰老是一个有意志的行动者，主动出击。这是 Grant 对自己 age 的第一次直接承认。
@@ -117,7 +118,7 @@
 | Chutes and Ladders | 滑道与梯子（儿童桌游） | 原句6 |
 | trail shoes | 轻型徒步鞋 | 原句7 |
 | hiking boots | 登山靴 | 原句7 |
-| bushwhacked | 在灌木丛中开路 | 原句9 |
+| bushwhacked | 在灌木丛中开路 | 本章 |
 
 ## 一句话总结
 

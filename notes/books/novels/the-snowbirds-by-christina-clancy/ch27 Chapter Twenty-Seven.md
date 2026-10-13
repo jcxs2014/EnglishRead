@@ -12,7 +12,7 @@ source_text: ch27
 
 **情感弧线位置**：从冥想后的平静满足，到发现 Jeep 消失的惊愕与讽刺接受，再到决定徒步自救时的主动与自信——弧线从"平和"急转"危机"，随即以"掌控感"拉出一条上扬的尾端。
 
-**Tropes 兑现/反转**：自然治愈（I found my ecosystem）——徒步与冥想确实带来真实改变；汽车被伴侣偷走（Kim manifested this）——Kim 的"manifesting"能力在此成为反讽；男性脆弱与求助禁忌——"A wiser man might have walked the four miles … and tried to flag down a car"被内、省否决。
+**Tropes 兑现/反转**：自然治愈（I found my ecosystem）——徒步与冥想确实带来真实改变；汽车被伴侣偷走（Kim manifested this）——Kim 的"manifest"之举在此成为反讽；男性脆弱与求助禁忌——"A wiser man might have walked the four miles … and tried to flag down a car"被内、省否决。
 
 **人物弧线**：Grant 在 Cedar Springs 完成了一次真实的灵性探索（"felt the answer in my bones"）；然而"答案"尚未来得及作用于现实层面， Jeep 就已不在——这段错位展现他"知道答案"与"活在现实"之间仍有距离；决定徒步自救时第一次显露出不需要 Kim 的生存意志。
 
@@ -40,7 +40,7 @@ source_text: ch27
 
 **关键词**：checkpoints（关卡）· oak grove（橡树林）· meadow（草地）
 
-**为什么这样写**：以"video game"作比是 Grant 式的幽默（呼应前文他与 Kim 关于电子游戏的对话），同时"checkpoints"暗示他正在经历某种需要过关斩将的考验——这个预感后来应验（ Jeep 消失）。橡树林与草地的切换也在暗示生态景观的多样。
+**为什么这样写**：以"video game"作比是 Grant 的轻松口吻，同时"checkpoints"暗示他正在经历某种需要过关斩将的考验。橡树林与草地的切换也在暗示生态景观的多样。
 
 ---
 
@@ -96,7 +96,7 @@ source_text: ch27
 
 **中文理解**：我问了自己关于"向前走"的问题，感觉答案就在骨子里。
 
-**句子结构**：简单过去时陈述句，并列谓语（asked … and felt …）。"in my bones"是成语（feel something in one's bones = 深刻地、直觉地感受到），与前文身体意象（"bored a hole"）形成呼应。
+**句子结构**：简单过去时陈述句，并列谓语（asked … and felt …）。"in my bones"是成语（意为深刻地、直觉地感受到），与前文身体意象（"boring a hole"）形成呼应。
 
 **关键词**：moving forward（向前走）· felt the answer in my bones（答案在骨子里）
 

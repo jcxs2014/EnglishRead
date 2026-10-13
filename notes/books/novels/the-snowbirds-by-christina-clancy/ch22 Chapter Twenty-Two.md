@@ -12,9 +12,9 @@ source_text: ch22
 
 **情感弧线位置**：低沉区——回忆中的幸福与现实中的失落交织；核心情感从"我们最美好的时光"急转至"我将钥匙扔进湖里"的决定性背叛感；弧线在"遗憾/悔恨"处停驻。
 
-**Tropes 兑现/反转**：夏季度假屋（blissful retreat）；年度水上婚礼仪式（替代正式婚姻的浪漫 Ritual）；扔钥匙入湖（Literal rejection of domestic future）；捉迷藏游戏（Relationship as search/hunt）。
+**Tropes 兑现/反转**：夏季度假屋（blissful retreat）；年度水上婚礼仪式（替代正式婚姻的浪漫 Ritual）；扔钥匙入湖（对家庭未来的字面拒绝）；捉迷藏游戏（以寻找喻关系）。
 
-**人物弧线**：Kim 从回忆中承认"我可以更灵活"（第 210 行），到自我审视"我的独立是否变成了自私"——她在丧失 Grant 之后才真正面对自己的恐惧：害怕失去自我，还是害怕失去他？
+**人物弧线**：Kim 从回忆中承认"我本可以更灵活"，到自我审视"多少独立才算太多"——她在丧失 Grant 之后才真正面对自己的恐惧：害怕失去自我，还是害怕失去他？
 
 **叙事手法**：倒叙嵌套倒叙——以"第五次 Grant 离开"开场，穿插 Hobie 的迷路隐喻，再引出 Cabin 回忆；用"threw the key into the lake"将情感高点与结构转折同步锁定；结尾的 blindfold 游戏与开头 hikers 隐喻形成回环。
 
@@ -88,7 +88,7 @@ source_text: ch22
 
 **关键词**：pancakes on the skillet（用平底锅做煎饼）
 
-**为什么这样写**：与"throw the key into the lake"的戏剧性形成强烈反差。叙事者用最朴素的句子呈现亲密关系中最珍贵的东西——不是誓言，不是仪式，而是一个人会为另一个人煎松饼。这句话的存在反衬出 Kim 最终"扔钥匙"时的决绝。
+**为什么这样写**：与"I threw the key into the lake"的戏剧性形成强烈反差。叙事者用最朴素的句子呈现亲密关系中最珍贵的东西——不是誓言，不是仪式，而是一个人会为另一个人煎松饼。这句话的存在反衬出 Kim 最终"扔钥匙"时的决绝。
 
 ---
 
@@ -123,9 +123,9 @@ source_text: ch22
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | inadvertent | 偶然的；不知不觉的 | Hobie said that experienced hikers know they'll inadvertently walk in a circle when they're lost. |
-| blissful | 伊甸园般的；天真快乐的 | The cabin had the same ingredients that made Camp Jamboree so special for me: water, sun, warmth, and no adult responsibilities. |
-| ritual | 仪式；习惯性程序 | Every year, our most romantic tradition was to paddle out to the middle of the lake, jump in, and "marry" each other. |
-| cohabit | 同居 | Is it possible to achieve deep companionship with a ton of freedom? My friends always tried to cultivate their own lives within their marriages. |
+| blissful | 幸福极乐的 | By the end of our blissful time together, as we began thinking about our return to normal life, Grant would begin with his annual entreaty. |
+| mildew | 霉；霉菌 | The cushions on the wicker furniture were damp and heavy with mildew and made Grant’s eyes water. |
+| cicadas | 蝉 | the hiss of cicadas, the belching of bullfrogs |
 | beckon | 引诱；召唤 | There was no Wi-Fi, and limited cell reception. Nothing beckoned. We had only each other. |
 
 ### ⭐ 进阶
@@ -138,14 +138,14 @@ source_text: ch22
 | paddle | 划（船） | Every year, our most romantic tradition was to paddle out to the middle of the lake. |
 | adore | 爱慕；崇拜 | "You'll never know how much I adore you, or how much this hurts me," he said. |
 | haunt | 困扰；缠扰 | That's when I did something that haunts me now: I threw the key into the lake. |
-| gumption | 进取心；勇气 | I thought I was being the type of strong, independent woman Polly had raised me to be. |
+| bandanna | 头巾；方巾 | Sometimes, we played a game I’d learned at camp where Grant put a bandanna around my eyes and hid while I counted to ten. |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| cabin | 小屋 | The cabin wasn't on the water but accessible via a footpath leading to the no-wake lake. |
-| footpath | 小路；人行道 | The cabin wasn't on the water but accessible via a footpath leading to the no-wake lake. |
+| cabin | 小屋 | The cabin wasn’t worth much. |
+| footpath | 小路；人行道 | accessible via a footpath leading to the no-wake lake |
 | sulfur | 硫磺 | The tap spit out rusty brown water that smelled of sulfur. |
 | canoe | 独木舟 | We went out in the canoe and jumped in the lake to say our vows. |
 | key | 钥匙 | Inside I didn't find a ring; I found an old key with a pink ribbon tied to the end of it. |

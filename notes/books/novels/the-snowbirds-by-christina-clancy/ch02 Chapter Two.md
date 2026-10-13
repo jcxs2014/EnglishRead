@@ -22,7 +22,7 @@
 
 | Tropes | 形态 |
 |---|---|
-| 浪漫喜剧经典"富友人送免费海边房产" | 兑现，但以讽刺+自嘲呈现（Basil 的炫耀 vs Kim 的务实） |
+| 浪漫喜剧经典"富友人送免费海边房产" | 兑现，但以讽刺+自嘲呈现（Basil 的炫耀与 Kim 的务实形成对照） |
 | 中年危机 | 兑现，表现为"被困在Madison的无聊婚姻+无聊房子里" |
 | "我要离开你"胁迫式沟通 | 兑现，Kim 用"那我就自己去"换 Grant 点头 |
 | 前夫/现伴矛盾 | 反转：Basil 是最了解她的人，Grant 反而是局外人 |
@@ -48,7 +48,7 @@
 
 > **原句 1:** "My ex-husband, Basil, has a knack for reaching out in my most humdrum moments. While I'm scrubbing grout with a toothbrush or pulling mustard weed from the garden, he regales me with tales of his spontaneous trips to Paris to have matching suits made for him and his boyfriend, Greg, or of sitting at the chef's table in a Michelin-star restaurant."
 
-**中文理解**：Kim 正蹲在地上用牙刷刷地缝，Basil 的短信进来了—— очередной 炫耀帖：巴黎定制西装、米其林餐桌。她的日常 vs 他的奢华，中间横着阶级与命运的巨大鸿沟。开头两句就把 Kim 的处境钉死：她在做家务，他在周游世界。
+**中文理解**：Kim 正蹲在地上用牙刷刷地缝，Basil 的电话来了——又一轮炫耀：巴黎定制西装、米其林餐桌。她的日常 vs 他的奢华，中间横着阶级与命运的巨大鸿沟。开头两句就把 Kim 的处境钉死：她在做家务，他在周游世界。
 
 **句子结构**：`My ex-husband, Basil, has a knack for reaching out in my most humdrum moments.` 主语 Basil + 谓语 has a knack + 宾语 for reaching out。中间用"while I'm scrubbing..."做时间状语从句，形成并置对比（她：刷地缝 / 他：周游世界）。
 
@@ -65,9 +65,9 @@
 **中文理解**：Kim 快速否认嫉妒——但否认本身就是承认。她说"我不适合那种生活"，与其说是价值观选择，不如说是自我保护：得不到的东西就不要。这句话揭示了她的防御机制：把"得不到"定义为"不想要"。
 
 **句子结构**：三个平行分句：
-1. `I wasn't usually a jealous person.` — 全盘否定
+1. `I'm not usually a jealous person.` — 全盘否定
 2. `And I didn't want Basil's life` — 主动拒绝
-3. `or, rather, I wasn't suited to it.` — 用"or rather"修正：不是不想，是不适合（更强的防御）
+3. `or, rather, I wasn't suited to it.` — 用"or, rather,"修正：不是不想，是不适合（更强的防御）
 
 **关键词**：wasn't suited to（比"didn't want"更精确——不是说不想，是说自己不具备某种能力/气质，暗示阶级和出身的局限） · black-tie galas（正式晚宴；这个具体的细节说明 Kim 其实了解那个世界的规则，只是无法融入）
 
@@ -77,13 +77,13 @@
 
 > **原句 3:** "Basil continued, 'So, tell me, what was the surgery, really: boob job? Butt lift? Tummy tuck?' 'Shut up. You know I'd never do any of that.'"
 
-**中文理解**：Basil 的刻薄关心：他用三个最 superficial 的选项来问手术内容。Kim 的"Shut up"既是拒绝回答，也是两人关系的确认——他们太熟了，可以互相嘲讽。Basil 的刻薄背后是真实的好奇；Kim 的拒绝背后是真实的羞耻（她不想承认自己做了 cosmetic surgery）。
+**中文理解**：Basil 的刻薄关心：他用三个最 superficial 的选项来问手术内容。Kim 的"Shut up"既是拒绝回答，也是两人关系的确认——他们太熟了，可以互相嘲讽。Basil 的刻薄背后是真实的好奇；Kim 的"Shut up"则是熟练的挡回——对照前文内心叙述，这次手术是拆掉脚踝里的钢钉、顺带磨平脚骨上的痛块，她连"bunion"这个词都不愿对人提（"It screamed middle age."），而 Basil 猜的偏偏是整形三件套。
 
 **句子结构**：对话体。主句 Basil continued 引出引语，内部是问句 + 选项列举（boob job / butt lift / tummy tuck）。Kim 的回应是简短祈使句 shut up，表示强烈拒绝。
 
 **关键词**：boob job / butt lift / tummy tuck（三个最常见的整形手术，Basil 用这三个词暗示他对 Kim 的期待（和 Kim 实际做的 bunion surgery 形成巨大反差）） · Shut up（简短、有力；朋友间的拒绝，不需要礼貌）
 
-**为什么这样写**：Basil 和 Kim 的对话是本书最生动的人物关系描写：他们可以互相揭短，但底层是深厚的理解。Basil 用"你以为我也会像那些整形的人一样吗"来保护自己的尊严，而 Kim 的 shut up 说明：她知道那个世界是什么样的，但她不属于那里。
+**为什么这样写**：Basil 和 Kim 的对话是本书最生动的人物关系描写：他们可以互相揭短，但底层是深厚的理解。Basil 张口就是一串整形手术的名字——那是他那个世界的日常话题；Kim 一句"Shut up"把话挡回去，既有拒绝、也有熟稔：她知道那个世界是什么样的，但她不属于那里。
 
 ---
 
@@ -158,7 +158,7 @@
 | tepid | 不温不火的；冷淡的 | 原句6 |
 | lamenting | 抱怨；哀叹 | 原句4 |
 | make up for | 弥补 | 原句4 |
-| self-sufficient | 自给自足的 | 本章 |
+| self-sufficiency | 自给自足 | 本章 |
 | resignation | 顺从；认命 | 本章 |
 | caged | 被困住的 | 本章 |
 | spontaneous | 随性的；即兴的 | 原句1 |
@@ -168,19 +168,19 @@
 | surgery | 手术 | 原句3 |
 | bunion | 拇指囊炎；脚骨突出 | 本章 |
 | at loose ends | 不知所措；悬而未决 | 本章 |
-| agitation | 不安；焦虑 | 本章 |
-| outsource | 外包 | 本章 |
-| enclave | 飞地；孤岛 | 本章 |
+| agitating | 焦躁不安；烦扰 | 本章 |
+| obligated | 有义务的；感到欠人情的 | 本章 |
+| mangled | 严重受损的；被损坏的 | 本章 |
 | charismatic | 有魅力的 | 本章 |
 | non-spaces | 非空间；日常空间 | 本章 |
-| indulgence | 放纵；纵容 | 本章 |
+| indulgent | 纵容的；放纵的 | 本章 |
 | passionless | 缺乏激情的 | 本章 |
 | ex-husband | 前夫 | 原句1 |
 | boyfriend | 男朋友 | 原句1 |
 | surgery | 手术 | 原句3 |
 | foot | 脚 | 本章 |
-| sabbatical | 学术休假； sabbatical leave | 原句4 |
-| art | 艺术 | 原句7 |
+| sabbatical | 学术休假 | 原句4 |
+| art | 艺术 | 原句8 |
 | camera | 相机 | 本章 |
 | project | 项目；创作计划 | 本章 |
 | partner | 伴侣 | 原句7 |

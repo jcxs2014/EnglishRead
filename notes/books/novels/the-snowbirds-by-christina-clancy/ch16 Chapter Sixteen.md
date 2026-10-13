@@ -2,7 +2,7 @@
 
 ## 本章导航
 
-**一句话概括**：Kim recounts a pivotal January 2009 confrontation with Grant after her mother Polly's death—Grant walks out, and Kim feels "cut me in half"—then flashes forward to the present, where Brady reveals the Jeep may have been stolen.
+**一句话概括**：Kim 回顾 2009 年 1 月母亲 Polly 去世后与 Grant 的一次关键对峙——Kim 抓起钥匙出门赴 Octavia 的约，Grant 后来说他听到门在身后关上时"像被切成两半"；随后闪回现在，Brady 追问 Jeep 的下落（可能已被盗）。
 
 **情感弧线位置**：创伤期——Kim 的母亲 Polly 刚刚去世，Grant 的离家触发了她的核心恐惧；二十年后，Grant 的失踪让这个创伤重新浮现。
 
@@ -14,7 +14,7 @@
 
 ## 一句话总结
 
-Kim recounts a pivotal January 2009 confrontation with Grant after her mother Polly's death—Grant walks out, and Kim feels "cut me in half"—then flashes forward to the present, where Brady reveals the Jeep may have been stolen.
+Kim 回顾 2009 年 1 月母亲 Polly 去世后与 Grant 的一次关键对峙——Grant 摔门而去，Kim 感觉"cut me in half"；随后闪回现在，Brady 追问 Jeep 的下落（可能已被盗）。
 
 ---
 
@@ -58,13 +58,13 @@ Kim recounts a pivotal January 2009 confrontation with Grant after her mother Po
 
 > **原句 4:** "Dad, no. It's freezing."
 
-**中文理解**：Dort 的简短拒绝体现了青少年时期的艰难。Grant 试图建立联系的努力遇到了拒绝，让他在自己的家中感到孤立。
+**中文理解**：孩子的简短拒绝体现了青少年时期的艰难。Grant 试图建立联系的努力遇到了拒绝，让他在自己的家中感到孤立。
 
 **句子结构**：简短陈述句，称呼语 + 否定回答 + 原因；"freezing"这个形容词的选择暗示了 Dort 的冷漠。
 
 **关键词**：It's freezing（太冷了）
 
-**为什么这样写**：用 Dort 的简短拒绝暗示 Grant 在家庭中的孤立——他的尝试被拒绝，甚至没有给出理由。
+**为什么这样写**：用孩子的简短拒绝暗示 Grant 在家庭中的孤立——他的提议被挡回，理由只有三个字（"It's freezing."），连继续商量的余地都没有。
 
 ---
 

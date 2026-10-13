@@ -96,7 +96,7 @@
 
 **中文理解**：Kim 对 Jeep 的评价是"smells of vinyl and testosterone"——这是她的阶级和性别视角：她不想要一个"男性化"的东西，她觉得这辆车太"男人"了。Grant 的回答"Don't call it a car"——他拒绝她的框架，他不认为这是"车"，他认为这是"一种工具"。Kim 看到 Grant "grinning from ear to ear"——这是 Grant 在整个旅程中少有的快乐时刻，他的快乐让她的抵制变得复杂。
 
-**句子结构**：`"It smells of vinyl and testosterone."` Kim 的评价 + `"Don't call it a car."` Grant 的拒绝 + `He was grinning from ear to ear.` Grant 的快乐反应。
+**句子结构**：`"This car smells of vinyl and testosterone."` Kim 的评价 + `"Don't call it a car."` Grant 的拒绝 + `He was grinning from ear to ear.` Grant 的快乐反应。
 
 **关键词**：vinyl and testosterone（乙烯和睾丸激素；Kim 用这两个词来描述"男性化"的本质） · grinning from ear to ear（咧嘴笑；Grant 的快乐是具体的、身体的） · Don't call it a car（Grant 拒绝 Kim 的框架）
 
@@ -143,7 +143,7 @@
 | prudent | 审慎的；谨慎的 | 本章 |
 | testosterone | 睾丸激素；雄性激素 | 原句5 |
 | counterclockwise | 逆时针方向 | 原句7 |
-| rusty corner | 锈迹斑斑的角落 | 本章 |
+| rustic corner | 乡土风情的角落 | this rustic corner of town |
 | High Noon | 《正午》（经典西部电影） | 本章 |
 | tow truck | 拖车 | 本章 |
 | last rites | 最后的仪式；临终圣事 | 本章 |
@@ -151,18 +151,18 @@
 | rig | 改装越野车 | 本章 |
 | carbon offset | 碳补偿 | 本章 |
 | vinyl | 乙烯基；塑料 | 原句5 |
-| Pride parade | 骄傲游行 | 原句6 |
+| Pride parade | 骄傲游行 | 本章 |
 | drag queen | 变装皇后 | 本章 |
 | stucco-brick | 灰泥砖 | 本章 |
-| Morocco | 摩洛哥风格的 | 本章 |
-| cedar | 雪松 | 本章 |
+| Moroccan | 摩洛哥（风格）的 | 本章 |
+| coyote | 郊狼 | 本章 |
 | truck | 卡车；皮卡车 | 原句1 |
 | key | 钥匙 | 原句7 |
 | lock | 锁 | 原句7 |
-| door | 门 | 原句7 |
+| door | 门 | 本章 |
 | entrance | 入口 | 原句7 |
 | bag | 行李 | 原句7 |
-| walk | 走 | 原句7 |
+| walk | 走 | 本章 |
 
 ---
 

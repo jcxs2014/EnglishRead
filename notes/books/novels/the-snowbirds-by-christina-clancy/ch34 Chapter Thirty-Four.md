@@ -28,7 +28,7 @@ source_text: ch34
 
 **关键词**：dramatic soliloquy（戏剧性独白）· what you make others see（你让别人看到的）
 
-**为什么这样写**：Melody 不是一个普通的老妇人——她是一个习惯成为焦点的人。"actress delivering a soliloquy"的比喻揭示了她的性格：她将一切（包括整理文件）都变成了表演。Degas 的引用不是随机的，而是 Melody 用来拒绝 Hammer Museum 的工具。
+**为什么这样写**：Melody 不是一个普通的老妇人——她是一个习惯成为焦点的人。"actress delivering a dramatic soliloquy"的比喻揭示了她的性格：她将一切（包括整理文件）都变成了表演。Degas 的引用不是随机的，而是 Melody 用来拒绝 Hammer Museum 的工具。
 
 ---
 
@@ -112,7 +112,7 @@ source_text: ch34
 
 **关键词**：do what's right for you（做对你正确的事）· uncertain about your relationship（对你的关系不确定）
 
-**为什么这样写**：Melody 说出了 Kim 一直不敢面对的话——"you're feeling uncertain about your relationship"。这句话的勇气在于它的直接性：不是"you should leave him"，而是"you're uncertain"。Melody 给了 Kim 一个允许：允许自己对婚姻产生怀疑。
+**为什么这样写**：Melody 说出了 Kim 一直不敢面对的话——"you're feeling uncertain about your relationship"。这句话的勇气在于它的直接性：不是劝她"striking out on your own"，而是点破"you're feeling uncertain about your relationship"。Melody 给了 Kim 一个允许：允许自己对婚姻产生怀疑。
 
 ---
 
@@ -122,10 +122,10 @@ source_text: ch34
 |---|---|---|
 | soliloquy | 独白 | 原句1 |
 | gumption | 魄力，胆量 | 原句3 |
-| ecosystem | 生态系统 | 原句9 |
-| philanthropy | 慈善 | 原句5 |
-| adrift | 漂泊的 | 原句2 |
-| shrewdness | 精明 | 原句4 |
+| ecosystem | 生态系统 | 本章 |
+| donations | 捐款；捐赠 | 原句5 |
+| adrift | 漂泊的 | 本章 |
+| shrewdness | 精明 | 本章 |
 
 ## 一句话总结
 

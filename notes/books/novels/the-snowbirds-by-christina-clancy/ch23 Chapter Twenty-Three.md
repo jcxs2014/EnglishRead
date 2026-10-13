@@ -36,7 +36,7 @@ Kim 通过与邻居老人 Jeanie 和 Gene 的晨间散步和对 Melody 私密生
 
 > **原句 2:** "The couple had become like second parents to me, and role models for what Grant and I could become if we could get our acts together."
 
-**中文理解**："second parents"和"role models"两个隐喻将代际关系微妙地向上延伸——Jeanie 和 Gene 本是 Kim 的同龄人，却因他们年迈时的相互扶持而获得了"父母"的象征地位。最后的虚拟语气"if we could get our acts together"暗示 Kim 与 Grant 的婚姻存在某种危机，她在这对老人身上投射的是一种对未来的期许。
+**中文理解**："second parents"和"role models"两个隐喻将代际关系微妙地向上延伸——Jeanie 和 Gene 是 Kim 在 wash 边晨走结识的八旬夫妇（原文 octogenarian），比 Kim 年长近三十岁，却因彼此扶持的晚年获得了"父母"的象征地位。最后的虚拟语气"if we could get our acts together"暗示 Kim 与 Grant 的婚姻存在某种危机，她在这对老人身上投射的是一种对未来的期许。
 
 **句子结构**：并列句 + "like"引导的明喻（second parents）+ "and"连接的并列名词短语（role models）+ "if"引导的虚拟条件句。
 

@@ -64,7 +64,7 @@ source_text: ch33
 
 **关键词**：everything（一切）· despair（绝望）
 
-**为什么这样写**：这是 Grant 对"that part of me that's fine"的补充——他发现了一切，除了绝望。这个补充句推翻了前一句的乐观：如果绝望是唯一的例外，那"everything"就不再是 everything。这是全章最黑暗的一刻。
+**为什么这样写**：这是 Grant 对"a part of me that's fine"的补充——他发现了一切，除了绝望。这个补充句推翻了前一句的乐观：如果绝望是唯一的例外，那"everything"就不再是 everything。这是全章最黑暗的一刻。
 
 ---
 
@@ -96,9 +96,9 @@ source_text: ch33
 
 **中文理解**："咖啡应该被加入马斯洛需求层次的第一层，和食物、安全、水并列。我以后再也不会放弃咖啡了。"
 
-**句子结构**：两个句子：建议（should be added）→ 个人誓言（I'll never give up）。Maslow's hierarchy of needs 是心理学理论。
+**句子结构**：两个句子：建议（should be added）→ 个人誓言（I'll never give up）。Maslow's first level of the hierarchy of needs 是心理学理论。
 
-**关键词**：Maslow's hierarchy of needs（马斯low需求层次）· first level（第一层）· give up coffee（放弃咖啡）
+**关键词**：first level of the hierarchy of needs（需求层次的第一层）· give up coffee（放弃咖啡）
 
 **为什么这样写**：Grant 用学术幽默来应对极端处境——将咖啡归入 Maslow 的基本需求层次，是教授的职业习惯。但"never give up coffee again"暗示了一个前提：他曾经考虑过放弃（因为没咖啡喝）。这个幽默的背后是生存的恐惧。
 
@@ -121,11 +121,11 @@ source_text: ch33
 | 单词/短语 | 释义 | 出处 |
 |---|---|---|
 | Sanskrit | 梵语的 | 原句2 |
-| Theseus' paradox | 忒修斯之船悖论 | 原句2 |
+| ship of Theseus | 忒修斯之船（同一性悖论） | 本章 |
 | blister | 水泡 | 原句3 |
 | despair | 绝望 | 原句4 |
 | hierarchy of needs | 需求层次 | 原句7 |
-| compound | 复合，叠加 | 原句10 |
+| compound | 复合，叠加 | 本章 |
 
 ## 一句话总结
 

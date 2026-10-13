@@ -52,7 +52,7 @@ Grant 在新年第一天的冬季徒步中，通过日记反思他与 Kim 的关
 
 **句子结构**：两个并列句以"The same way"连接；"with my own body"和"with my feet"构成工具性格的平行结构。
 
-**关键词**：learned Kim with my own body（用身体认识 Kim）· learning the landscape with my feet（用脚认识地形）
+**关键词**：learned Kim with my own body（用身体认识 Kim）· learning the landscape here with my feet（在这里用脚认识地形）
 
 **为什么这样写**：同时，"here"这个地点副词暗示了 Grant 正在某个具体的地方（很可能就是他在沙漠的徒步地点），将内心的情感探索与外部的地理探索叠合在一起。触觉认知的可靠性与局限性在此形成张力。
 
@@ -72,7 +72,7 @@ Grant 在新年第一天的冬季徒步中，通过日记反思他与 Kim 的关
 
 > **原句 5:** "Now she wants to throw me back."
 
-**中文理解**：与"She hooked me"形成因果链，但情感色彩从主动的"钩住"转为被动的"丢弃"。从"hooked"到"throw me back"的转换，揭示了 Grant 感知到的关系动态：他对 Kim 而言曾是一个值得捕获的猎物，现在这个吸引力已经消失。"throw back"在钓鱼术语中是指将不想要的鱼扔回水里。
+**中文理解**：与"She hooked me"形成因果链，但情感色彩从主动的"钩住"转为被动的"丢弃"。从"hooked"到"throw me back"的转换，揭示了 Grant 感知到的关系动态：他对 Kim 而言曾是一个值得捕获的猎物，现在这个吸引力已经消失。"throw me back"在钓鱼术语中是指将不想要的鱼扔回水里。
 
 **句子结构**：简单陈述句；"Now"标记时间转折；"throw me back"为短语动词，保留钓鱼术语的完整语义场。
 
@@ -84,7 +84,7 @@ Grant 在新年第一天的冬季徒步中，通过日记反思他与 Kim 的关
 
 > **原句 6:** "Tell me, what use is this map without the terrain? It's about as good as a map of the lost city of Atlantis. A mythical place just out of reach."
 
-**中文理解**：这是全章最核心的隐喻。Grant 问"map without terrain"有什么用——地图的意义在于它所指向的真实地形，如果地形不存在，地图就毫无价值。这句话揭示了 Grant 的核心焦虑：他掌握了关于 Kim 的所有"地图"（对她的身体、习惯、偏好的了解），但 Kim 本人已经不在他身边——她已经成为 Atlantis，一座传说中的失落之城，一个"just out of reach"的神话。
+**中文理解**：这是全章最核心的隐喻。Grant 问"what use is this map without the terrain?"——地图的意义在于它所指向的真实地形，如果地形不存在，地图就毫无价值。这句话揭示了 Grant 的核心焦虑：他掌握了关于 Kim 的所有"地图"（对她的身体、习惯、偏好的了解），但 Kim 本人已经不在他身边——她已经成为 Atlantis，一座传说中的失落之城，一个"just out of reach"的神话。
 
 **句子结构**：反问句（what use is...?）+ 明喻（as good as...）+ 同位语补充（A mythical place...）；三层递进，从质疑到类比再到定义。
 
@@ -126,5 +126,5 @@ Grant 在新年第一天的冬季徒步中，通过日记反思他与 Kim 的关
 | contour lines | 等高线 | 原句2 |
 | Atlantis | 亚特兰蒂斯（传说中的失落之城） | 原句6 |
 | hook | 钩住；吸引 | 原句4 |
-| throw back | 扔回；丢弃 | 原句5 |
+| throw me back | 把我扔回 | 原句5 |
 | terrain | 地形；地带 | 原句6 |

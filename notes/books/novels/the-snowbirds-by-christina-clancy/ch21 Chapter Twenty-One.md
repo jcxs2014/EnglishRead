@@ -32,13 +32,13 @@ Grant 在日记中通过徒步哲学暂时逃离日常，却在童年 Great Fall
 
 > **原句 2:** "Everything we need in life can fit into a fifteen-pound pack."
 
-**中文理解**：对应上一条，Grant 提炼出徒步哲学的核心命题。轻量化打包作为隐喻，说明物欲的虚无。但联系全书，Jean 的病情、Gene 的照顾负担说明这种理想在现实面前不堪一击。
+**中文理解**：对应上一条，Grant 提炼出徒步哲学的核心命题。轻量化打包作为隐喻，说明物欲的虚无。但联系全书，Jeanie 的病情、Gene 的照顾负担说明这种理想在现实面前不堪一击。
 
 **句子结构**：简单陈述句；"fit into"动词短语轻量化；"fifteen-pound pack"为具体数字+名词短语，增强画面感。
 
 **关键词**：fit into（装进）· fifteen-pound pack（十五磅背包）
 
-**为什么这样写**：用"十五磅"这个具体数字将抽象的"反物质主义"转化为可触摸的画面。这句口号式的陈述既是 Grant 的信仰宣言，也是对他后来被困在照顾者角色中的反讽——当生活所需远超十五磅时，这种理想就显得天真。
+**为什么这样写**：用"十五磅"这个具体数字将抽象的"反物质主义"转化为可触摸的画面。这句口号式的陈述既是 Grant 的信仰宣言，也与 Gene 的处境构成反讽——照护 Jeanie 的生活所需远不止十五磅，这种理想在现实面前显得天真。
 
 ---
 
@@ -80,7 +80,7 @@ Grant 在日记中通过徒步哲学暂时逃离日常，却在童年 Great Fall
 
 > **原句 6:** "That's when you know it's time to go home," he said.
 
-**中文理解**：引用一位来自 Winnipeg 的旅客讲度假租房噩梦——Adult diapers、Drug dealers spray-painted "ZEDA"、溺水死亡——这句话是双关：既指旅行的结束，也暗示某种更深层的归属需求。讽刺的是，Grant 自己一直在逃离"home"。
+**中文理解**：引用一位来自 Winnipeg 的旅客讲度假租房噩梦——adult diapers、"the word ZEDA was spray-painted on the wall"、溺水死亡——这句话是双关：既指旅行的结束，也暗示某种更深层的归属需求。讽刺的是，Grant 自己一直在逃离"home"。
 
 **句子结构**：直接引语 + 说话人标签（he said）；引语为简短陈述句，以"it's time to go home"收束。
 
@@ -92,13 +92,13 @@ Grant 在日记中通过徒步哲学暂时逃离日常，却在童年 Great Fall
 
 > **原句 7:** "I climbed Araby this morning so I could be back in time to take Gene to the Air Museum to see the first F-117 stealth bomber."
 
-**中文理解**：Araby 既是地名（Arabian 单词的截断），也是小说标题的互文（参考乔伊斯的短篇 "Araby"）。Grant 带 Gene 看越战时期的隐形轰炸机，暗示两人共同的战后创伤背景——Gene 需要从照顾 Jean 的重担中短暂解脱。
+**中文理解**：Araby 既是地名（Arabian 单词的截断），也是小说标题的互文（参考乔伊斯的短篇 "Araby"）。Grant 带 Gene 去看 F-117 隐形轰炸机；原文紧接着说明，让 Gene 想起越战岁月反而算是一种休息——他还要照顾 Jeanie，自己状态也不好。
 
 **句子结构**：主句 + "so"引导的目的状语从句；目的从句内部嵌套不定式短语（to take Gene to...）和不定式作定语（to see...）。
 
 **关键词**：Araby（阿拉伯）· F-117 stealth bomber（F-117 隐形轰炸机）· Air Museum（航空博物馆）
 
-**为什么这样写**："Araby"的文学典故（乔伊斯笔下的东方主义幻象）与 F-117 隐形轰炸机的军事意象形成张力——前者是浪漫的幻想，后者是现实的暴力。Grant 带 Gene 看轰炸机这一细节，暗示 Gene 的越战背景和他与 Jean 的婚姻困境之间存在某种关联。
+**为什么这样写**："Araby"的文学典故（乔伊斯笔下的东方主义幻象）与 F-117 隐形轰炸机的军事意象形成张力——前者是浪漫的幻想，后者是现实的暴力。这一笔也补出 Gene 的越战背景：对这位老兵兼照护者来说，"被提醒战争岁月"竟成了一次喘息。
 
 ---
 

@@ -82,13 +82,13 @@
 
 > **原句 4:** "'Everything, but despair.' He said, 'Weird.'"
 
-**中文理解**：Gene 读"Everything, but despair"这句话，Grant 对它进行了哲学分析。但这个细节的真正意义在于：Kim 和 Grant 分享了"Everything, but despair"这个词汇——这是一个只有他们两个人理解的内部笑话。它成为他们共同语言的一部分，而共同语言是他们在关系中找到的"桥梁"。
+**中文理解**：Gene 停在画前盯着看，最后只挤出两个字："Weird."（真怪。）对 Kim 和 Grant 来说，"Everything, but despair"是他们词典里的句子；对这个"外人"来说，它只是墙上一个奇怪的口号。这个温差是本块的全部意义：内部笑话的价值全靠共享它的人。
 
 **句子结构**：`'Everything, but despair.'` 画上的字 + `He said, 'Weird.'` Gene 的反应。简短、有力。
 
 **关键词**：Everything, but despair（除了绝望，什么都有；这个矛盾的表述是本书的主题） · Weird（奇怪；Gene 的直觉反应）
 
-**为什么这样写**：这个细节是 Grant 和 Kim 的"共同语言"的一个例子——他们在 Le Desert 找到了一个新的词汇，一个新的"笑话"。这是他们关系的修复时刻：他们能够一起笑，一起理解"Everything, but despair"的意义。这和 ch09 的"Sasha"段落形成对比——在 Sasha 那里，Kim 和 Grant 是"个体"；在 Le Desert，他们是"一体的"。
+**为什么这样写**：这一块与原句 3 构成"内 / 外"对照：原句 3 里 Kim 和 Grant 隔着房间交换眼神，把这句话收进两人的词典；这里 Gene 站在同一幅画前只挤出一个"Weird."。同一个句子、两种读者的温差，正好说明两个人的默契是排他的——外人越不懂，它越私人。
 
 ---
 
@@ -118,7 +118,7 @@
 
 > **原句 7:** "I loved it, even though it made me feel like a complete failure. I'd never had the luxury of designing a room from scratch, or the money and taste to make it look cohesive, or the guts to buy avant-garde artwork or pillows with tigers' faces on them."
 
-**中文理解**：Kim 喜欢 Le Desert，但她也感到"完全失败"——因为她从来没有 Basil 拥有的"奢华"：金钱、品味、勇气。Kim 的"失败"感是她的阶级意识的一个表现：她意识到自己不属于"设计师"阶层，她只是一个"实用主义者"。这和她对 Grant 的 Jeek 的反应形成对比：Grant 的 Jeek 让她感到陌生，Basil 的 condo 让她感到嫉妒。
+**中文理解**：Kim 喜欢 Le Desert，但她也感到"完全失败"——因为她从来没有 Basil 拥有的"奢华"：金钱、品味、勇气。Kim 的"失败"感是她的阶级意识的一个表现：她意识到自己不属于"设计师"阶层，她只是一个"实用主义者"。这和她对 Grant 的 Jeep 的反应形成对比：Grant 的 Jeep 让她感到陌生，Basil 的 condo 让她感到嫉妒。
 
 **句子结构**：`I loved it, even though it made me feel like a complete failure.` 主句 + `I'd never had the luxury of designing a room from scratch` 原因一 + `or the money and taste to make it look cohesive` 原因二 + `or the guts to buy avant-garde artwork or pillows with tigers' faces on them.` 原因三。
 
@@ -144,31 +144,31 @@
 
 | 单词/短语 | 释义 | 出处 |
 |---|---|---|
-| mid-century modern | 中世纪现代风格 | 本章 |
+| lushness | 葱郁；茂盛 | 本章 |
 | arid Eden | 干旱的伊甸园 | 本章 |
-| cactus | 仙人掌 | 本章 |
+| cacti | 仙人掌（复数） | 本章 |
 | Moroccan ceramic | 摩洛哥陶瓷 | 本章 |
 | Schopenhauer | 叔本华（德国悲观主义哲学家） | 本章 |
 | ethos | 精神；价值观 | 本章 |
 | avant-garde | 前卫的；先锋的 | 原句7 |
 | vaulted ceiling | 拱形天花板 | 本章 |
 | purposeful | 有目的的；认真的 | 本章 |
-| stucco-brick | 灰泥砖 | 本章 |
+| stucco | 灰泥（墙面） | 本章 |
 | bougainvillea | 九重葛（紫红色的花） | 本章 |
 | hummingbird | 蜂鸟 | 本章 |
 | palm tree | 棕榈树 | 本章 |
 | thong | 丁字裤；人字拖 | 本章 |
-| speakeasy | 地下酒吧；秘密酒吧 | 本章 |
+| dumbfounded | 目瞪口呆的 | 本章 |
 | bucket list | 遗愿清单 | 本章 |
 | baby grand | 小型三角钢琴 | 本章 |
-| Tony (award) | 托尼奖（戏剧奖） | 本章 |
-| pessimist | 悲观主义者 | 原句5 |
+| Tony | 托尼奖（美国戏剧界最高奖） | 本章 |
+| pessimist | 悲观主义者 | 本章 |
 | bow | 碗 | 本章 |
-| menopause | 更年期 | 本章 |
+| skepticism | 怀疑态度 | 本章 |
 | home | 家 | 原句6 |
 | love | 爱 | 原句7 |
 | need | 需要 | 原句8 |
-| sex | 性 | 原句6 |
+| sex | 性 | 本章 |
 | married | 结婚 | 本章 |
 | kitchen | 厨房 | 本章 |
 | bedroom | 卧室 | 本章 |

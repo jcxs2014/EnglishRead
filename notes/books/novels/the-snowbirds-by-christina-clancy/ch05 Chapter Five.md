@@ -124,7 +124,7 @@
 
 **中文理解**：Kim 没有告诉 Brady 的话：Grant 总是会回来的，尽管她有时候会担心他不会回来。而且，她曾经希望他不会回来。这句话的重量在于：Kim 在 Grant 失踪的第二天就在想"我希望他会回来"，但她也曾经希望他不会回来。这说明她的婚姻里有很深的矛盾——她爱 Grant，但她也被这段关系困住了。
 
-**句子结构**：`What I didn't tell Brady was that Grant always came back, eventually,` 主语从句 + `although I'd sometimes worried that he wouldn't.` 让步状语从句 + `That sometimes, I'd even wished it.` 并列句，that 指代前文的"he wouldn't come back"。
+**句子结构**：`What I didn't tell Brady was that Grant always came back, eventually,` 主语从句 + `although I'd sometimes worried that he wouldn't.` 让步状语从句 + `That sometimes, I'd even wished it.` 并列句，that 指代前文"although I'd sometimes worried that he wouldn't"中省略的 come back。
 
 **关键词**：always came back（Grant 总是会回来；这句话暗示 Kim 曾经经历过 Grant"消失"的时刻） · I'd even wished it（Kim 曾经希望他不会回来；这是她的超我在惩罚她的证据）
 
@@ -159,15 +159,15 @@
 | switchback | 之字形山路；回弯 | 本章 |
 | chopper | 直升机 | 本章 |
 | thumbtack | 图钉 | 本章 |
-| interioper | 闯入者；干涉者 | 本章 |
+| interloper | 闯入者；不速之客 | 本章 |
 | hot-wire | 短接启动（偷车） | 本章 |
 | mah-jongg | 麻将 | 本章 |
 | tile | 牌；麻将牌 | 本章 |
-| pit | 坑；陷阱 | 原句6 |
+| malicious | 恶意的；不怀好意地 | 本章 |
 | search | 搜索；寻找 | 本章 |
 | hike | 徒步；远足 | 本章 |
 | helicopter | 直升机 | 本章 |
-| rescue | 营救；救援 | 原句5 |
+| rescue | 营救；救援 | 本章 |
 | hand | 手 | 原句4 |
 | fear | 恐惧 | 原句3 |
 | west | 西方 | 本章 |

@@ -2,7 +2,7 @@
 
 ## 本章导航
 
-**一句话概括**：Kim and Grant arrive in Palm Springs, confront the gap between their idealized visions and the raw, layered reality of the desert town, and are drawn into an encounter with Hobie—a native charmer whose friendship with Grant leaves Kim uncertain whether he will restore or rupture their relationship.
+**一句话概括**：Kim 和 Grant 抵达 Palm Springs，面对理想化想象与沙漠小镇粗粝、层次丰富的现实之间的落差；随后与 Hobie 相遇——这位本地魅力人物与 Grant 的友谊让 Kim 不确定他会修复还是撕裂他们的关系。
 
 **情感弧线位置**：过渡期——从 Madison 的冬天到 Palm Springs 的阳光，Kim 的期待与现实的落差开始显现；Hobie 的出现引入了新的不确定性。
 
@@ -14,7 +14,7 @@
 
 ## 一句话总结
 
-Kim and Grant arrive in Palm Springs, confront the gap between their idealized visions and the raw, layered reality of the desert town, and are drawn into an encounter with Hobie—a native charmer whose friendship with Grant leaves Kim uncertain whether he will restore or rupture their relationship.
+Kim 和 Grant 抵达 Palm Springs，面对理想化想象与沙漠小镇粗粝、层次丰富的现实之间的落差；随后与 Hobie 相遇——这位本地魅力人物与 Grant 的友谊让 Kim 不确定他会修复还是撕裂他们的关系。
 
 ---
 
@@ -60,7 +60,7 @@ Kim and Grant arrive in Palm Springs, confront the gap between their idealized v
 
 **中文理解**：Kim 在现实中品尝着灰尘、忍受着大风，开始质疑：那个理想化的 Palm Springs 版本在哪里？这句话标志着期待与现实的碰撞正式开始。
 
-**句子结构**：主句（Where was that version of Palm Springs?）+ 插入的时间状语从句（as I tasted dust...and my sun hat...）；两个感官细节（tasted dust, sun hat blowing off）构成排比，强化现实的粗粝感。
+**句子结构**：主句（was that version of Palm Springs?，倒装疑问句）+ 插入的时间状语从句（as I tasted dust...and my sun hat...）；两个感官细节（tasted dust, my sun hat kept blowing off my head）构成排比，强化现实的粗粝感。
 
 **关键词**：tasted dust（品尝灰尘）· relentless wind（无情的大风）· that version of Palm Springs（那个版本的 Palm Springs）
 

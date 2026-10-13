@@ -100,7 +100,7 @@ source_text: ch35
 
 **关键词**：keep going（继续走）· you're fine（你很好）· worse problems（更严重的问题）
 
-**为什么这样写**：Grant 想象 Nugget 用他母亲的声音对他说话——这是他在荒野中的生存机制。"keep going, you're fine"是 Grant 需要听到的，但他从一条三条腿的狗那里听到了。
+**为什么这样写**：Grant 想象 Nugget 用 Kim 的母亲 Polly 的声音对他说话（原文 "your mother's voice"）——这是他在荒野中的生存机制。"keep going, you're fine"是 Grant 需要听到的，但他从一条三条腿的狗那里听到了。
 
 ---
 
@@ -123,8 +123,8 @@ source_text: ch35
 | follow the water | 跟着水走 | 原句5 |
 | dump dogs | 弃狗 | 原句6 |
 | keep going | 继续走 | 原句7 |
-| second thoughts | 第二个想法 | 原句10 |
-| silver stones | 银石 | 原句5 |
+| second thoughts | 第二个想法 | 本章 |
+| silver stones | 银石 | 本章 |
 
 ## 一句话总结
 

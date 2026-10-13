@@ -56,19 +56,19 @@ Kim 因不安全感驱使偷看 Grant 的日记而被抓现行，两人在黑暗
 
 ---
 
-> **原句 4:** "Marianne is up for full professor. Went to evaluate her class this morning and she didn't show. Found her in her office, asleep at her desk. She told me she just started chemo—I had no idea she was even sick."
+> **原句 4:** "Marianne is up for full professor. Went to evaluate her class this morning and she didn't show. Found her in her office, asleep at her desk. She told me she just started chemo—I had no idea she was even sick. Doesn't look good, she said. I subbed her class. Wrote an evaluation and said she knocked it out of the park."
 
-**中文理解**：Grant 在日记中透露同事 Marianne 正在接受化疗，他暗中为她代课并写了虚假的课堂评价。这个细节揭示了 Grant 的善良和体贴——他不想让 Marianne 知道他知道她的病情。
+**中文理解**：Grant 在日记中透露同事 Marianne 正在接受化疗——"Doesn't look good"，而他是从她口中第一次知道她病了。他替她代了课，还写下一份"knocked it out of the park"的评价，做得安静、不居功。这个细节揭示了 Grant 的善良和体贴。
 
 **句子结构**：五个并列短句，模仿日记体风格；破折号（chemo—I had no idea）制造了突然的转折。
 
 **关键词**：full professor（正教授）· chemo（化疗）· I had no idea（我完全不知道）
 
-**为什么这样写**：用日记体的碎片化描写揭示 Grant 的善良和体贴。"I had no idea she was even sick"这个细节暗示了 Marianne 的孤独——她连最亲近的同事都没有告诉。
+**为什么这样写**：用日记体的碎片化描写揭示 Grant 的善良和体贴。"I had no idea she was even sick"这个细节暗示了 Marianne 的孤独——连同事都不知道她病了。
 
 ---
 
-> **原句 5:** "I didn't have time for exercise, and I worried my body would never bounce back."
+> **原句 5:** "On top of everything that week, I'd also been passed up for a promotion at the Veterans' Aid Society, where I'd been doing the work of two people. I didn't have time for exercise, and I worried my body would never bounce back. It was one of those days when it felt as if the universe were conspiring against me. I wanted a partner to offer comfort. I wanted Grant, but I was always afraid I'd burden him with my troubles or push him over the edge."
 
 **中文理解**：Kim 向 Grant 倾诉自己精力透支：被拒绝晋升、没有时间锻炼、担心身材无法恢复，感觉整个宇宙都在与她作对。"bounce back"（恢复）这个短语暗示了 Kim 对自己身体的焦虑。
 
@@ -76,7 +76,7 @@ Kim 因不安全感驱使偷看 Grant 的日记而被抓现行，两人在黑暗
 
 **关键词**：bounce back（恢复）· I didn't have time for exercise（我没有时间锻炼）
 
-**为什么这样写**：用"bounce back"这个动词短语暗示 Kim 对自己身体的焦虑——她担心自己无法恢复到以前的状态。这种焦虑是她偷看日记的动机之一。
+**为什么这样写**：用"bounce back"这个动词短语暗示 Kim 对自己身体的焦虑——她担心自己无法恢复到以前的状态。这份无处安放的孤独，解释了下一块里她为什么会伸手去拉开他床头柜的抽屉。
 
 ---
 
@@ -127,4 +127,4 @@ Kim 因不安全感驱使偷看 Grant 的日记而被抓现行，两人在黑暗
 | meltdown | 崩溃；情绪失控 | 本章 |
 | prima donna | 任性的人；歌剧女主角 | 本章 |
 | bandwidth | 精力；处理能力 | 本章 |
-| conspiracy | 阴谋；共同作用 | 本章 |
+| conspiring | 密谋；共同作用 | 本章 |

@@ -14,7 +14,7 @@
 
 ## 情感弧线位置
 
-**等待的焦虑 → 数据冲击 → 情感崩溃边缘 → 接受与确认**。本章是 Kim 最脆弱的一章：她一直试图保持理性（"play dumb"向 ranger 打探消息），但 ranger 的每一句话都在把她推向真相。最后的"the wife"是她对关系的一次主动确认，但这个确认发生在最坏的时机——她不确定 Grant 是否还活着。
+**等待的焦虑 → 数据冲击 → 情感崩溃边缘 → 接受与确认**。本章是 Kim 最脆弱的一章：她一直试图保持理性（"played dumb"向 ranger 打探消息），但 ranger 的每一句话都在把她推向真相。最后的"the wife"是她对关系的一次主动确认，但这个确认发生在最坏的时机——她不确定 Grant 是否还活着。
 
 ---
 
@@ -23,7 +23,7 @@
 | Tropes | 形态 |
 |---|---|
 | "等待的恋人"经典场景 | 兑现，但以黑色数据为载体——ranger 讲述的不是浪漫，而是冷冰冰的生存统计 |
-| "hot stranger"相遇 | 兑现，但这个 hot stranger 是来告诉她她爱的人可能已经死了 |
+| "hot ranger"的出现 | 兑现：这个 hot ranger 是来告诉她她爱的人可能已经死了 |
 | 失踪者家属"假装不知道" | 反转：Kim 不是不知道，是不愿意承认 |
 | "夫妻身份"公开宣告 | 兑现，但这次是被迫的——ranger 的问题逼她亮出身份 |
 
@@ -55,7 +55,7 @@
 
 **关键词**：hot（表面是外貌描写，实则是 Kim 的心理防御机制——在焦虑时用"性吸引"来转移注意力） · body shaped by an active life（ranger 的身体是"活跃生活"的证明；这和 Grant 的"久坐的学者身体"形成对比）
 
-**为什么这样写**：这个开头很微妙地建立了 Kim 的性格：即使在最糟糕的情况下，她仍然会注意到"hot guy"。这和后文她"claim Grant as mine"形成有趣对比——Kim 对男性的吸引力是她的一个舒适区，而真正的亲密关系（和 Grant 的婚姻）反而是她的难题。
+**为什么这样写**：这个开头很微妙地建立了 Kim 的性格：即使在最糟糕的情况下，她仍然会注意到那个"hot ranger"。这和后文她"It was important for me to claim him"形成有趣对比——Kim 对男性的吸引力是她的一个舒适区，而真正的亲密关系（和 Grant 的婚姻）反而是她的难题。
 
 ---
 
@@ -65,7 +65,7 @@
 
 **句子结构**：`I felt I needed to be there to stay near the action, but I also had a strong desire to leave in case the action was happening... entirely somewhere else.` 转折结构：stay near vs. desire to leave；in case 引导条件从句，暗示最坏的可能性。
 
-**关键词**：the action（Kim 用这个词描述搜救行动——她不直接说"finding a body"，而是用"action"这个模糊词，说明她还在回避具体化） · to my mortification（羞耻的是她；Kim 最害怕的是"显得自己不知道发生了什么"） · entirely somewhere else（暗示 Grant 可能就在附近但她不知道；这个不确定性比任何确定答案都更折磨她）
+**关键词**：the action（Kim 用这个词描述搜救行动——她不直接说"a body had been found"，而是用"action"这个模糊词，说明她还在回避具体化） · to my mortification（羞耻的是她；Kim 最害怕的是"显得自己不知道发生了什么"） · entirely somewhere else（暗示 Grant 可能就在附近但她不知道；这个不确定性比任何确定答案都更折磨她）
 
 **为什么这样写**：这句话是 Kim 心理最精确的捕捉：她的焦虑不是来自 Grant 可能死了，而是来自"我不知道发生了什么"。这是她的核心模式——在感情关系里也一样，她需要的是掌控感，而不是答案。Grant 的失踪把她最后一点掌控感都剥夺了。
 
@@ -73,7 +73,7 @@
 
 > **原句 3:** "Grant was my news."
 
-**中文理解**：四个字，是 Kim 对"why aren't you paying attention to the news"这个问题的回答。这句话的信息量巨大：Grant 是她了解外界的唯一渠道；她不关心宏观世界，只关心和 Grant 相关的事。但此刻 Grant 失踪了，她的世界失去了唯一的新闻来源。这句话也是 Kim 对关系的一次隐晦定义：Grant 是她了解世界的窗口。
+**中文理解**：四个字，是 Kim 对"Don't you pay attention to the news?"这个问题的回答。这句话的信息量巨大：Grant 是她了解外界的唯一渠道；她不关心宏观世界，只关心和 Grant 相关的事。但此刻 Grant 失踪了，她的世界失去了唯一的新闻来源。这句话也是 Kim 对关系的一次隐晦定义：Grant 是她了解世界的窗口。
 
 **句子结构**：简单到极致：主语 + be + 名词。这是英语里最简洁的表达方式之一，Kim 用四个字做了回答，而不是解释为什么。这句话的力量来自于它的简洁——它不需要解释，读者自己会补充。
 
@@ -127,7 +127,7 @@
 
 **关键词**：that's my guy（口语化的所有权声明；比"my husband"更亲密） · mine（所有格；Kim 用这个词来宣示主权，不需要法律文件） · claim him（认领；这个词有原始的、部落式的含义）
 
-**为什么这样写**：这是 Kim 在整个危机中的转折点：她终于承认了 Grant 是她的。三十年来，她一直不愿意用婚姻来定义这段关系，但在灾难面前，她发现定义不重要，所有权才重要。"claim"这个词是关键——它不需要对方同意，只需要她自己决定。这和前文"Grant doesn't want to be found"形成张力：如果 Grant 自己不想被 found，Kim 的 claim 还有效吗？
+**为什么这样写**：这是 Kim 在整个危机中的转折点：她终于承认了 Grant 是她的。三十年来，她一直不愿意用婚姻来定义这段关系，但在灾难面前，她发现定义不重要，所有权才重要。"claim"这个词是关键——它不需要对方同意，只需要她自己决定。这和前文"those that don't want to be found"（那些不想被找到的人）形成张力：如果 Grant 自己不想被 found，Kim 的 claim 还有效吗？
 
 ---
 
@@ -150,13 +150,13 @@
 | conducive | 有帮助的；有益的 | 本章 |
 | atmospheric river | 大气河流；大气层河流 | 本章 |
 | hypothermia | 体温过低；失温 | 本章 |
-| disoriented | 迷失方向的 | 本章 |
+| overheard | 无意中听到 | 本章 |
 | hallucinate | 产生幻觉 | 本章 |
-| crutch | 拐杖；支撑物 | 本章 |
+| commotion | 骚动；混乱 | 本章 |
 | claim | 宣称……为自己的；认领 | 原句7 |
 | mortification | 羞耻；窘迫 | 原句2 |
-| solitude | 孤独 | 本章 |
-| jar | 使……震动；使……不稳定 | 本章 |
+| ushered | 引领；陪同 | 本章 |
+| caffeine | 咖啡因 | 本章 |
 | bucket hat | 渔夫帽 | 本章 |
 | thermostat | 温度调节器；恒温器 | 本章 |
 | pressure drop | 气压下降 | 本章 |
@@ -172,11 +172,11 @@
 | coffee | 咖啡 | 本章 |
 | lost | 迷路的；失踪的 | 本章 |
 | body bag | 尸体袋 | 本章 |
-| wife | 妻子 | 原句7 |
+| wife | 妻子 | 原句6 |
 | guy | 家伙；男人 | 原句7 |
-| cry | 哭 | 本章 |
+| walkie-talkies | 对讲机 | 本章 |
 | find | 找到；发现 | 原句4 |
-| story | 故事 | 原句8 |
+| stories | 故事（复数） | 原句8 |
 
 ---
 

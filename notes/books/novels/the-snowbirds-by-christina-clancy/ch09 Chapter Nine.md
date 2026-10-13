@@ -38,7 +38,7 @@
 ## 叙事手法
 
 - **时间线交织**：本章在 2023 年 1 月 3 日（Palm Springs 等待）和 1991–1994 年（初遇 Sasha）之间跳跃，创造了一种"历史在重演"的感觉。
-- **身体感受**：Kim 的记忆通过身体感受传递——"my spine would hum"（我的脊椎在嗡嗡作响）、"I could absorb him into my cells"（我可以把他吸收进我的细胞里）。
+- **身体感受**：Kim 的记忆通过身体感受传递——"my spine would hum"（我的脊椎在嗡嗡作响）、"I wanted to absorb him into my cells"（我想把他吸收进我的细胞里）。
 - **Sasha 的声音**：Sasha 的电话是本章最重要的叙事时刻——她用冷静的、几乎临床的语言描述 Grant 的行为模式，这让 Kim 面对了一个她一直在回避的真相。
 
 ---
@@ -113,7 +113,7 @@
 
 **关键词**：grabbed my hands to still them（抓住她的手让她停下来；Grant 的身体接触是"停止"她的愤怒的方式） · face lit up（脸亮了起来；Grant 的喜悦是真实的） · in love with me（Kim 的真实感受在愤怒中泄露出来）
 
-**为什么这样写**：这个细节是 Kim 的矛盾的完美捕捉：她说"in love with"来伤害 Grant（"你应该从来没有让我 fall in love with 你"），但 Grant 听到的是"she's in love with me"。同一句话，两个完全不同的解读。这是他们沟通问题的核心：他们听到的不是对方说的，而是他们害怕听到的。
+**为什么这样写**：这个细节是 Kim 的矛盾的完美捕捉：她说"in love with"来伤害 Grant（"你应该从来没有让我 fall in love with 你"），但 Grant 听到的是"you're in love with me"。同一句话，两个完全不同的解读。这是他们沟通问题的核心：他们听到的不是对方说的，而是他们害怕听到的。
 
 ---
 
@@ -125,7 +125,7 @@
 
 **关键词**：nothing had been off-limits（没有禁区；他们最初是完全开放的） · first boundary had been erected（第一个边界已经建立；Kim 意识到他们的关系有"限制"） · on the path to becoming individuals again（在重新成为"个体"的路上；Kim 用"again"暗示他们曾经是"个体"）
 
-**为什么这样写**：这是 Kim 对关系结构的清醒认识：她知道他们从一开始就有"边界"，即使在最"融合"的时刻。这和"outsourcing emotional needs"形成呼应——他们从来没有学会如何把"最混乱的自己"展示给对方，因为他们的第一个边界在第一周就被建立了。
+**为什么这样写**：这是 Kim 对关系结构的清醒认识：她知道他们从一开始就有"边界"，即使在最"融合"的时刻。这和"We outsourced our emotional needs to our exes"形成呼应——他们从来没有学会如何把"最混乱的自己"展示给对方，因为他们的第一个边界在第一周就被建立了。
 
 ---
 
@@ -162,7 +162,7 @@
 | Trojan | 特洛伊（避孕套品牌） | 本章 |
 | rebound relationship | 反弹关系；分手后快速开始的新关系 | 本章 |
 | fallopian tube | 输卵管 | 本章 |
-| paternity leave | 陪产假 | 本章 |
+| fall in love with | 爱上 | I should have never let myself fall in love with you. |
 | tenure-track | 终身教职轨道的 | 本章 |
 | cahoots | 共谋；勾结 | 本章 |
 | pregnant | 怀孕的 | 本章 |
@@ -171,7 +171,7 @@
 | baby | 婴儿 | 本章 |
 | love | 爱 | 原句6 |
 | scared | 害怕的 | 原句4 |
-| leave | 离开 | 原句4 |
+| leave | 离开 | 本章 |
 | married | 结婚 | 本章 |
 
 ---

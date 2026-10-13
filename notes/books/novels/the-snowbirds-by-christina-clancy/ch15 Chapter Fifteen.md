@@ -20,9 +20,9 @@ Kim 在 Palm Springs 的时间错位感中迎来 March 取消感恩节访问的�
 
 ## 精读
 
-> **原句 1:** "We'd been in Palm Springs for more than a week, longer than what would have been a normal vacation. I began to feel unstuck in time; I had to think hard to figure out where we were in the calendar."
+> **原句 1:** "We'd been in Palm Springs for more than a week, longer than what would have been a normal vacation. I began to feel unstuck in time; I had to think hard to figure out where we were in the calendar. There was no such thing as Wednesday hump day, TGI Friday, or sad Sunday night."
 
-**中文理解**：开篇即点出时间感的错位。"unstuck in time"呼应 Kim 在前言里描述的内心状态——她需要主动"想"才能确定日期，说明日常生活的时间标记（Wednesday hump day、TGI Friday、sad Sunday night）已经失效。
+**中文理解**：开篇即点出时间感的错位。"unstuck in time"是她对自己状态的判断——日期需要主动"想"才能确定，因为日常的时间标记（Wednesday hump day、TGI Friday、sad Sunday night）在这里全部失效。
 
 **句子结构**：并列复合句，两个分句（We'd been.../I began to feel...）由分号连接；"unstuck in time"这个短语的选择暗示了时间感的解体。
 
@@ -70,7 +70,7 @@ Kim 在 Palm Springs 的时间错位感中迎来 March 取消感恩节访问的�
 
 > **原句 5:** "Jeanie calls me the Box Queen because every day there's a delivery."
 
-**中文理解**："Box Queen"是邻居 Jeannie 给 Kim 起的外号，呼应括号里列举的一连串网购行为。daily delivery 的频率与 Basil 家原有物品的匮乏形成对比，说明 Kim 试图通过购物重建一个更像家的环境。
+**中文理解**："Box Queen"是邻居 Jeanie 给 Kim 起的外号。日复一日的网购包裹（床头垫、电视、刀具、收纳盒……）与 Basil 家原有物品的匮乏形成对比，说明 Kim 试图通过购物重建一个更像家的环境。
 
 **句子结构**：直接引语 + 原因从句（because every day there's a delivery）；"Box Queen"这个外号的选择暗示了购物的频率。
 
@@ -94,9 +94,9 @@ Kim 在 Palm Springs 的时间错位感中迎来 March 取消感恩节访问的�
 
 > **原句 7:** "Who needs a therapist when you can swim?" Grant asked.
 
-**中文理解**：Grant 用反问句表达对游泳的看法，表面轻松，实则掩盖了更深的情绪需求。"swim"与"therapy"的类比在语境中显得意味深长——他一边说不需要心理帮助，一边在后文中向 shaman-influencer Cassie 求助 auto-writing 和 meditation。
+**中文理解**：Grant 用反问句表达对游泳的看法，表面轻松，实则掩盖了更深的情绪需求。"swim"与"therapist"的类比在语境中显得意味深长——他一边说不需要心理帮助，一边在后文中向 shaman-influencer Cassie 求助 auto-writing 和 meditation。
 
-**句子结构**：反问句（Who needs...when you can?）+ 说话人标签；"therapy"和"swim"的类比暗示了 Grant 的情绪需求。
+**句子结构**：反问句（Who needs...when you can?）+ 说话人标签；"therapist"和"swim"的类比暗示了 Grant 的情绪需求。
 
 **关键词**：therapist（治疗师）· swim（游泳）
 
@@ -106,7 +106,7 @@ Kim 在 Palm Springs 的时间错位感中迎来 March 取消感恩节访问的�
 
 > **原句 8:** "Hamster, meet wheel."
 
-**中文理解**：这是 Grant 对 Kim 提出的各类活动（drag bingo、tai chi、pot bars、tram）的总评，用隐喻压缩了 Kim 试图用行程填满时间的努力：主动选择跑圈，仍然是跑圈。语言极简，两个词加一个逗号，是本章最短的引语。
+**中文理解**：这是 Grant 对 Kim 提议的消遣清单（tai chi、drum circles、pickleball、hot springs、tram、pot bars 等）的总评，用隐喻压缩了 Kim 试图用行程填满时间的努力：主动选择跑圈，仍然是跑圈。语言极简，两个词加一个逗号，是本章最短的引语。
 
 **句子结构**：隐喻句，两个名词（Hamster, wheel）+ 一个动词（meet）；语言极简，制造了荒诞的对比。
 

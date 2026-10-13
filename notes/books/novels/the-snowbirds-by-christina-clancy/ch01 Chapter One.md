@@ -119,7 +119,7 @@
 | jailbreak | 越狱（破解手机系统） | 本章 |
 | low-maintenance | 低维护的；不麻烦人的 | 本章 |
 | courtyard | 庭院；院子 | 本章 |
-| expected | 预期（adj.） | 原句7 |
+| expected | 预期（adj.） | 本章 |
 | reception | 手机信号；接待 | 本章 |
 | confirmed | 证实；确认（令人不快地） | 本章 |
 | suspected | 怀疑；猜想 | 本章 |

@@ -115,7 +115,7 @@
 | 单词/短语 | 释义 | 出处 |
 |---|---|---|
 | Apgar | 阿普加评分（新生儿健康评估） | 本章 |
-| NICU | 新生儿重症监护室（Neonatal Intensive Care Unit） | 本章 |
+| NICU | 新生儿重症监护室 | In those early days in the NICU, she’d get this look in her eyes |
 | spittle | 口水；唾沫 | 本章 |
 | grim | 严厉的；阴沉的 | 本章 |
 | burnt-out | 筋疲力尽的；耗尽的 | 本章 |

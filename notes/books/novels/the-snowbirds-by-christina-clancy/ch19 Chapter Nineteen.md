@@ -57,7 +57,7 @@ source_text: ch19
 
 **中文理解**：我看见 Coco，bra 没戴，裹着睡衣，在泳池边给 Jeannie 染银发。
 
-**句子结构**：「I saw + [noun], [adverbial participle phrase], as she [verb]」；Coco 的穿着细节（braless / pajamas）与染发场景构成极具画面感的日常细节。
+**句子结构**：「I saw + [名词]，[状语分词短语]，as she + [动词]」；Coco 的穿着细节（braless / pajamas）与染发场景构成极具画面感的日常细节。
 
 **关键词**：braless（没戴文胸）· fixed Jeanie's silver hair（给 Jeannie 染银发）
 **为什么这样写**：这个画面将 Coco 定格为 communal 生活的核心人物——她在照顾别人（帮 Jeannie 染发），同时保持着极为随意的个人状态（braless + pajamas）。这与后来她「yappy little shit」喂狗 baked beans 的暴躁形成对照：她既是 Le Desert 温暖的母亲，也是随时可能爆发的火山。「silver hair」与 Hobie 的距离形成隐喻——Jeannie 的银发是自然的年龄标记，Coco 帮她染的是人造的青春。
@@ -115,9 +115,9 @@ source_text: ch19
 | inertia | 惰性；惯性 | It's hard to tell the difference between inertia or contentment. |
 | twin flames | 双火焰（灵魂伴侣概念） | They're twin flames, but they have entities between them. |
 | energy vampire | 能量吸血鬼（吸取他人能量者） | Grant's a good guy, but he's an energy vampire. |
-| energy mirror | 能量镜（他人仅从中看见自己） | He looks into you, and you only let him see himself reflected back. |
-| entity | 实体（能量阻塞的人格化） | they have entities between them |
-| candles work | 蜡烛仪式（灵修仪式） | I offered to do some candle work to remove their blockages. |
+| energy mirror | 能量镜（他人仅从中看见自己） | Energy vampires and energy mirrors aren’t always a great combination. |
+| entities | 实体（复数；能量阻塞的人格化） | they have entities between them |
+| candle work | 蜡烛仪式（灵修仪式） | I offered to do some candle work to remove their blockages. |
 
 ### ⭐⭐ 进阶
 
@@ -127,7 +127,7 @@ source_text: ch19
 | contentment | 满足感 | It's hard to tell the difference between inertia or contentment. |
 | blockages | 障碍（能量流动受阻） | I offered to do some candle work to remove their blockages. |
 | braless | 没戴文胸的 | I saw Coco, braless under her pajamas, as she fixed Jeanie's silver hair. |
-| bounced back | 回报；偿还 | That good deed paid off in unexpected ways. |
+| paid off | 得到回报 | That good deed paid off in unexpected ways. |
 | congruent | 一致的；言行相符的 | you need to be one hundred percent congruent with your yes |
 
 ### ⭐ 基础

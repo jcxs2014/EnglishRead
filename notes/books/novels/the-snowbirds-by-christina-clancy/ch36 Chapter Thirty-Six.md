@@ -22,13 +22,13 @@ source_text: ch36
 
 > **原句 1:** "Homesickness was a constant problem when I was a girl at the camp."
 
-**中文理解**："我小时候在 camp 时，思乡是一个 constant 的问题。"
+**中文理解**："我小时候在营地时，思乡是个持续不断的问题。"——但那说的是营地里的孩子们：Polly 和 Burl 常在半夜被叫醒，去安抚那些想家想到呕吐的孩子，Polly 的评价是"Spoiled babies"。
 
 **句子结构**：简单陈述句。when I was a girl at the camp 是时间状语从句。
 
 **关键词**：homesickness（思乡）· constant problem（持续的问题）· at the camp（在营地）
 
-**为什么这样写**：开篇建立了 Kim 的思乡历史——她从小就在处理"想家"的问题。这为她在 Palm Springs 的思乡做了铺垫：一个从小就想家的人，在老年时仍然在想家。
+**为什么这样写**：开篇先立起"参照系"：她从小看着别人思乡，并继承了 Polly 的轻蔑判断（"Spoiled babies"）。正因如此，紧接着的转折才有力量——她的人生第一次思乡竟发生在这个年纪、发生在阳光灿烂的 Palm Springs（"my first bout of homesickness at my advanced age"）。这不是"从小想家的人继续想家"，而是 Polly 式教育在她身上的一次失效。
 
 ---
 
@@ -122,9 +122,9 @@ source_text: ch36
 |---|---|---|
 | homesickness | 思乡 | 原句1 |
 | caroling | 唱颂歌 | 原句3 |
-| soul-gazing | 灵魂凝视 | 原句7 |
+| soul-gazing | 灵魂凝视 | 本章 |
 | reconnection | 重新连接 | 原句8 |
-| earthquake | 地震 | 原句10 |
+| earthquake | 地震 | 本章 |
 
 ## 一句话总结
 

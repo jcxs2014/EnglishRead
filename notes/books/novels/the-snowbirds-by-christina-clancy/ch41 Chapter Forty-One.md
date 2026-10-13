@@ -1,7 +1,7 @@
 ---
 状态: 已读
 modified: "2026-10-13"
-source_text: ch40
+source_text: ch41
 ---
 
 # Chapter Forty-One
@@ -112,7 +112,7 @@ source_text: ch40
 
 **关键词**：stick around（留下来）· never get lost（永不迷路）
 
-**为什么这样写**：这是 Grant 的 vow——他承诺了他在 Grant 失踪期间学到的东西：留下来。"never get lost"有双重含义：字面上（在荒野中迷路）和隐喻上（在关系中迷失）。这个承诺是 Grant 对 Kim 的回应：他听到了她的恐惧（"Disappear again?"）并承诺了相反的事情。
+**为什么这样写**：这是 Grant 的 vow——他把失踪期间学到的东西许成了承诺：留下来。"never get lost"有双重含义：字面上（在荒野中迷路）和隐喻上（在关系中迷失）。这个承诺是 Grant 对 Kim 的回应：他听到了她的恐惧（ch38："Disappear again?"）并承诺了相反的事情。
 
 ---
 
@@ -121,10 +121,10 @@ source_text: ch40
 | 单词/短语 | 释义 | 出处 |
 |---|---|---|
 | snowbirds | 候鸟式生活者 | 原句2 |
-| heteronormative | 异性恋规范化的 | 原句10 |
+| heteronormative | 异性恋规范化的 | 本章 |
 | vulnerable | 脆弱的 | 原句7 |
 | congruent | 一致的 | 原句7 |
-| solstice | 至日 | 原句5 |
+| solstice | 至日 | 本章 |
 
 ## 一句话总结
 

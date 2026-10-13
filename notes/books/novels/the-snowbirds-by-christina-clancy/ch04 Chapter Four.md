@@ -73,7 +73,7 @@
 
 **中文理解**：Kim 的这句话是本季最诚实的话语之一：如果你想和我在一起，你就要跟我走。Grant 的回答"not if I wanted to be with you"把选择权反转了——不是 Kim 在强迫他，是他选择跟随。这两个人在说同一件事，但各自在维护自己的尊严：Kim 说"这是你的选择"，Grant 说"这是我选择和你在一起"。这是一场关于"谁有权定义这段关系"的隐性战争。
 
-**句子结构**：两个独立对话引语，中间是描述性文字 `He looked at me and grinned.`：
+**句子结构**：两个独立对话引语直接相接，原文中没有任何叙述插入——反转完全靠对话完成：
 1. `'You could have stayed back. It was your choice to say no.'` Kim 的陈述
 2. `'Not if I wanted to be with you.'` Grant 的反转
 
@@ -95,11 +95,11 @@
 
 ---
 
-> **原句 5:** "'You know, helping Basil's mother could be a pretty significant catch. Friendly reminder: you called Melody a walking migraine. Your words.'"
+> **原句 5:** "'You know, helping Basil's mother could be a pretty significant catch. Friendly reminder: you called Melody a 'walking migraine.' Your words.'"
 
 **中文理解**：Grant 的这句话是他在试图"赢"——他找到了一个逻辑理由（帮助 Melody）来说服 Kim 去 Palm Springs，但这和他之前所有的抵制自相矛盾。Kim 曾经把 Melody 叫做"walking migraine"（Grant 显然记住了），现在他却要 Kim 去照顾这个人。这说明 Grant 的立场不是基于原则，而是基于立场——他反对时一切都反对，他同意时一切都同意。
 
-**句子结构**：`'You know, helping Basil's mother could be a pretty significant catch.` 建议 + 理由 + `'Friendly reminder: you called Melody a walking migraine. Your words.'` 提醒Kim自己的话，用反讽来支持自己的新立场。
+**句子结构**：`'You know, helping Basil's mother could be a pretty significant catch.` 建议 + 理由 + `'Friendly reminder: you called Melody a 'walking migraine.' Your words.'` 提醒Kim自己的话，用反讽来支持自己的新立场。
 
 **关键词**：catch（收获；Grant 用这个词来形容"帮助 Melody"，把它定义为一个 positive thing） · walking migraine（Kim 曾经用来形容 Melody 的词；Grant 记住了，说明他一直在听 Kim 说什么） · Your words（把你的话还给你；Grant 用 Kim 自己的话来反驳她，这是一种修辞策略）
 
@@ -163,7 +163,7 @@
 | suburb | 郊区 | 本章 |
 | adjunct | 兼职教师；临时工 | 本章 |
 | boho chic | 波希米亚时尚 | 本章 |
-| dominant | 占主导地位的；强势的 | 本章 |
+| resilient | 有韧性的；能恢复的 | 本章 |
 | boob job | 隆胸手术 | 本章 |
 | CoolSculpting | 冷冻溶脂 | 本章 |
 | driveway | 私人车道 | 本章 |

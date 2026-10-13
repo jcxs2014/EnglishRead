@@ -12,7 +12,7 @@ source_text: ch20
 
 **情感弧线位置**：高度紧张——搜索进入第四天，Kim 手中无确凿证据证明 Grant 的安全，只能在希望与绝望之间摇摆；日记的归还既是解脱又是新的焦虑起点。
 
-**Tropes 兑现/反转**：search party 变 search party（搜索行动派对化）·  arsonist watches fire（放火者看火）· the Moleskine as symbolic heart（Moleskine 隐喻心脏）· Caravaggio 明暗法（Hobie 被火光照亮如卡拉瓦乔画作）
+**Tropes 兑现/反转**：search party 变 search party（搜索行动派对化）·  arsonist watches fire（放火者看火）· 以 Moleskine 为心脏隐喻· Caravaggio 明暗法（Hobie 被火光照亮如卡拉瓦乔画作）
 
 **人物弧线**：Kim 从「独自等待的被动者」转向「被新社群包围的参与者」；Hobie 从「可疑的搜寻者」转向「疲惫的中年人 + Grant 秘密的潜在知晓者」；Coco 从「Le Desert 的管理者」向「情感导师」偏移。
 
@@ -38,7 +38,7 @@ source_text: ch20
 **句子结构**：简单过去时，叙事干脆；动词不定式「to break into… and steal」表达强烈的欲望和行动意图。
 
 **关键词**：break into（闯入）· steal back（偷回）
-**为什么这样写**：「偷回」这个措辞很有趣——日记本本来就不属于 Kim（属于 Grant 或 Brady），但 Kim 认为它「理应」在她手里。Brady 是 Grant 的父亲，闯入他的办公室意味着挑战这个家庭的权力结构，也意味着 Kim 与 Grant 婚姻中那条隐秘的裂缝正在扩大。
+**为什么这样写**：「偷回」这个措辞很有趣——日记本本来就不属于 Kim，而且正是 Brady 以「证据」名义把它扣下的；但 Kim 认为它「理应」在她手里。闯入搜救负责人的办公室意味着挑战规则，也意味着 Kim 与 Grant 婚姻中那条隐秘的裂缝正在扩大。
 
 ---
 
@@ -106,7 +106,7 @@ source_text: ch20
 **关键词**：having an affair（搞婚外情）
 **为什么这样写**：Coco 以她一贯的直接方式触及了 Kim 内心深处的恐惧——Grant 的失踪不是意外，而是他选择了离开。这个问题在搜索派对的轻松氛围中提出，如同在伤口上撒盐。而 Cassie's 的回答「His heart is aligned with Kim's」立即提供了一个反证，构成了本章的情感转折。
 
-## 词汇表
+## 本章词汇
 
 | 词汇 | 音标 | 词性 | 释义 | 分类 |
 |------|------|------|------|------|

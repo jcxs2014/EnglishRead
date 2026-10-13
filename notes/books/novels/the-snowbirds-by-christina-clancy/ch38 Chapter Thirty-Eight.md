@@ -1,7 +1,7 @@
 ---
 状态: 已读
 modified: "2026-10-13"
-source_text: ch37
+source_text: ch38
 ---
 
 # Chapter Thirty-Eight
@@ -22,13 +22,13 @@ source_text: ch37
 
 > **原句 1:** "When you're falling apart, the idea of possessing something perfect and new is very appealing."
 
-**中文理解**："当你正在崩溃时，拥有一个完美的新东西的想法是非常 appealing 的。"
+**中文理解**："当你正在崩溃时，'拥有一件完美的、崭新的东西'这个念头非常诱人。"
 
 **句子结构**：When 引导的时间状语从句 + 主句。the idea of possessing something perfect and new 是主语，is very appealing 是谓语。
 
 **关键词**：falling apart（崩溃）· possessing something perfect and new（拥有一个完美的新东西）· very appealing（非常吸引人）
 
-**为什么这样写**：Melody 在谈论她的车——她在丈夫死后买了它。但这句话也适用于 Kim 和 Grant 的关系：当关系正在崩溃时，"something new"（新工作、新地方、新生活）的想法非常吸引人。
+**为什么这样写**：Melody 在谈论她的车——那是丈夫去世前不久买下的（"My husband bought this car shortly before he died"），车上是两人最后一段快乐时光。但这句话也适用于 Kim 和 Grant 的关系：当关系正在崩溃时，"something new"（新工作、新地方、新生活）的想法非常吸引人。
 
 ---
 
@@ -40,7 +40,7 @@ source_text: ch37
 
 **关键词**：cures（治疗方法）· backfire（适得其反）· you know（你知道的）
 
-**为什么这样写**Melody 对 Cassie 的 sound bath 建议表示怀疑——但她的怀疑不是基于理性，而是基于她的世界观（"old-dead-mobster energy"）。这揭示了 Melody 和 Cassie 之间的代际冲突：Melody 是务实的，Cassie 是灵性的。
+**为什么这样写**：Melody 对 Cassie 的 sound bath 建议表示怀疑——但她的怀疑不是基于理性，而是基于她的世界观（"old-dead-mobster energy"）。这揭示了 Melody 和 Cassie 之间的代际冲突：Melody 是务实的，Cassie 是灵性的。
 
 ---
 
@@ -121,10 +121,10 @@ source_text: ch37
 | 单词/短语 | 释义 | 出处 |
 |---|---|---|
 | backfire | 适得其反 | 原句2 |
-| sound bath | 声音浴 | 原句3 |
-| crack open | 裂开 | 原句4 |
-| snowbird | 候鸟式生活（冬天去南方） | 原句9 |
-| commit | 投入，承诺 | 原句9 |
+| sound bath | 声音浴 | 本章 |
+| vibrations | 震动；共鸣 | 本章 |
+| snowbird | 候鸟式生活（冬天去南方） | 本章 |
+| commit | 投入，承诺 | 本章 |
 
 ## 一句话总结
 

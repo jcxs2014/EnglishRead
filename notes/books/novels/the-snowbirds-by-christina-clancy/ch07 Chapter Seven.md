@@ -72,7 +72,7 @@
 
 **中文理解**：Kim 发现了她对 Grant 的感情的一个核心矛盾：她害怕被需要，但她更害怕的是需要 Grant。这个句子的结构很有意思："more terrifying than being needed"（比被需要更可怕）是"to need him"（需要他）。换句话说：Kim 害怕的不是 Grant 依赖她，而是她依赖 Grant。被需要是一种力量（Kim 在关系里一直是那个"照顾者"），但需要别人是一种脆弱。
 
-**句子结构**：`The only thing I found more terrifying than being needed` 主语 + `was to need him.` 表语。结构是"A is more terrifying than B" = "A 比 B 更可怕"；而 A = "to need him"（需要他），B = "being needed"（被需要）。
+**句子结构**：`The only thing I found more terrifying than being needed` 主语 + `was to need him.` 表语。结构是"甲比乙更可怕"的比较句；而 A = "to need him"（需要他），B = "being needed"（被需要）。
 
 **关键词**：being needed（被需要；Kim 是那个"照顾者"，她习惯了这个角色） · to need him（需要他；对 Kim 来说，这是一个更大的恐惧）
 
@@ -82,13 +82,13 @@
 
 > **原句 4:** "The video took forever to load; the reception was bad from the Indian Canyons parking lot. Once it did, I entered the loud, grainy world of my past and encountered my "sliding doors" moment."
 
-**中文理解**：Kim 在等待 Grant 的消息时收到了 Celia 的视频链接，这个意外触发了她对初遇 Grant 的回忆。"Sliding doors moment"（滑动门时刻）是本章的核心隐喻——如果她没有在那一刻吻 Grant，一切都会不同。这个概念来自 1991 年的视频：Kim 看到了自己和 Grant 的初遇，她曾经是那个"主动出击"的人。
+**中文理解**：Kim 在等待 Grant 的消息时收到了 Celia 的视频链接，这个意外触发了她对初遇 Grant 的回忆。"sliding doors" moment（滑动门时刻）是本章的核心隐喻——如果她没有在那一刻吻 Grant，一切都会不同。这个概念来自 1991 年的视频：Kim 看到了自己和 Grant 的初遇，她曾经是那个"主动出击"的人。
 
 **句子结构**：`The video took forever to load; the reception was bad from the Indian Canyons parking lot.` 背景设置 + `Once it did, I entered the loud, grainy world of my past` 时间状语从句 + `and encountered my "sliding doors" moment.` 核心发现。
 
 **关键词**：sliding doors moment（滑动门时刻；决定人生的瞬间） · grainy world of my past（过去的颗粒感世界；视频画质模糊，但情感清晰）
 
-**为什么这样写**：这个细节是 Kim 在 Grant 失踪时回顾她和 Grant 的初遇。"Sliding doors moment"暗示了人生的偶然性——如果她没有在那个夜晚吻 Grant，一切都会不同。但 1991 年的 Kim 是"勇敢的"——她知道她想要什么，并且她去得到了它。现在，在 Grant 失踪的时候，她需要再次"勇敢"。
+**为什么这样写**：这个细节是 Kim 在 Grant 失踪时回顾她和 Grant 的初遇。"sliding doors" moment 暗示了人生的偶然性——如果她没有在那个夜晚吻 Grant，一切都会不同。但 1991 年的 Kim 是"勇敢的"——她知道她想要什么，并且她去得到了它。现在，在 Grant 失踪的时候，她需要再次"勇敢"。
 
 ---
 
@@ -144,31 +144,31 @@
 
 | 单词/短语 | 释义 | 出处 |
 |---|---|---|
-| sliding doors moment | 滑动门时刻（决定人生的瞬间） | 原句5 |
+| sliding doors moment | 滑动门时刻（决定人生的瞬间） | 原句4 |
 | heartbroken | 心碎的 | 原句5 |
 | intoxicated | 陶醉的；被……所迷住的 | 本章 |
 | back-arching | 弓起背的（形容强烈情感） | 本章 |
 | tousled | 头发蓬乱的；不修边幅的 | 本章 |
 | imprinting | 印记（心理学术语） | 本章 |
-| reverberate | 回响；持续影响 | 本章 |
-| repotting | 换盆；重新安置 | 本章 |
+| unsettling | 令人不安的 | 本章 |
+| pejorative | 贬损的；轻蔑的 | 本章 |
 | isolated | 孤立的；隔离的 | 原句1 |
 | Midwestern | 美国中西部的人 | 原句1 |
 | snowbirds | 雪鸟（冬季南飞的退休者） | 原句2 |
 | cheerleader | 拉拉队队长；支持者 | 本章 |
 | bromides | 陈词滥调；客套话 | 本章 |
-| jangled nerves | 紧张；焦虑 | 本章 |
+| rankled | 使恼火；触怒 | 本章 |
 | digitized | 数字化 | 本章 |
 | grainy | 颗粒感的；粗糙的 | 本章 |
 | sepia | 棕褐色；怀旧色调 | 本章 |
 | tousled | 蓬乱的；不整洁的 | 本章 |
 | cleft | 裂缝；裂口 | 本章 |
-| missing | 失踪的 | 原句2 |
+| missing | 失踪的 | 本章 |
 | find | 找到；发现 | 本章 |
 | love | 爱 | 本章 |
 | kiss | 吻 | 原句6 |
 | video | 视频 | 本章 |
-| party | 派对 | 原句5 |
+| party | 派对 | 本章 |
 | guy | 家伙 | 原句7 |
 | deal | 成交；协议 | 原句7 |
 

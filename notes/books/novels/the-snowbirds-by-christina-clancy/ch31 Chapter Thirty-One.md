@@ -12,6 +12,7 @@
 
 ---
 
+## 精读
 > **原句 1:** "Well, we're up against some issues," Brady said.
 
 **中文理解**：Brady 用"up against some issues"开场——这是一个刻意模糊的措辞，像是在说天气或日程问题，而不是生死攸关的搜救失败。这个开场白为接下来的坏消息铺设了一种日常化的语气，反而让真正的打击更显突兀。
@@ -100,7 +101,7 @@
 
 **中文理解**：Kim 的视线转移到窗外：百叶窗在风中拍打，窗户上溅着雨点，而远处的山在背景中。沙漠正在下雨——这是一个罕见的、几乎超自然的事件。Palm Springs 的山——Grant 所在的地方——就在她的视线里，但她看不见他。
 
-**句子结构**：三个独立的句子，每个都在构建场景。第一个是声音（shutters banged），第二个是视觉（windows splattered with drizzle），第三个是远处（mountains in the distance）。从近到远的视觉流动也是情感的流动。
+**句子结构**：三个独立的句子，每个都在构建场景。第一个是声音（shutters banged），第二个是视觉（windows, already splattered with drizzle），第三个是远处（mountains in the distance）。从近到远的视觉流动也是情感的流动。
 
 **关键词**：shutters banged（百叶窗碰撞）· splattered with drizzle（溅着毛毛雨）· the mountains in the distance（远处的山）
 

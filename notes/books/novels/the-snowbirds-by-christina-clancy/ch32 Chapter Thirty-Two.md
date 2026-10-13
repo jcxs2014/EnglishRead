@@ -60,7 +60,7 @@ source_text: ch32
 
 **中文理解**："我教生理学。我就是这样遇到 Thomas 的。他来找我要科学的 cred。"
 
-**句子结构**：三个句子，从职业（physiology）→ 相遇故事 → 幽默结尾（"science cred"）。cred 是口语化的"credibility"缩写。
+**句子结构**：三个句子，从职业（physiology）→ 相遇故事 → 幽默结尾（"science cred"）。cred 是口语化的"信誉/资质"缩写。
 
 **关键词**：physiology（生理学）· science cred（科学可信度）
 
@@ -112,7 +112,7 @@ source_text: ch32
 
 **关键词**：doesn't cost a penny（不花一分钱）· dream（梦想）· Polly（波莉）
 
-**为什么这样写**：Kim 引用 Polly 的话来回应 Raul 的"vision board"梦想——但语境不同。Polly 的话是在 Madison 说的，那时 Kim 有家、有丈夫、有生活。现在在 Palm Springs，"free to dream"的想法既诱人又危险。
+**为什么这样写**：Kim 引用 Polly 的话来回应 Raul 的"vision board"梦想——但语境不同。Polly 的话是在 Madison 说的，那时 Kim 有家、有丈夫、有生活。现在在 Palm Springs，"doesn't cost a penny to dream"的说法既诱人又危险。
 
 ---
 

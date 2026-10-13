@@ -1,7 +1,7 @@
 ---
 状态: 已读
 modified: "2026-10-13"
-source_text: ch39
+source_text: ch40
 ---
 
 # Chapter Forty
@@ -46,13 +46,13 @@ source_text: ch39
 
 > **原句 3:** "Talk about having your hill to die on," Grant said.
 
-**中文理解**："说到 having your hill to die on，"Grant 说。
+**中文理解**："这真是你死守不放的山头啊，"Grant 说。
 
 **句子结构**：Talk about... 是感叹句。having your hill to die on 是习语，表示"你愿意为之牺牲的事业"。
 
 **关键词**：hill to die on（你愿意为之牺牲的事业）
 
-**为什么这样写**：Grant 用习语来回应 Brady 的"bad decisions"清单——他承认了他的错误，但也暗示了这些错误是他"hill to die on"的一部分。这个习语的使用暗示了 Grant 的幽默感：即使在康复中，他仍然能用自嘲来应对。
+**为什么这样写**：Grant 用"hill to die on"接住这场复盘——习语指"愿意为之死守的执念"，而对他而言这个"山头"几乎是字面上的：他差点把命丢在山上。句子里没有辩解，只有自嘲；紧接着 Brady 的"should have…"清单才逐一清算。
 
 ---
 

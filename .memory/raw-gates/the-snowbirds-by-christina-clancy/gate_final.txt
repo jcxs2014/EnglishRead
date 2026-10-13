@@ -1,0 +1,119 @@
+=== lane ===
+完整 lane（有 epub）
+
+=== ① verify_quotes（引语逐字，对 epub；--full 关闭 52 字符指纹盲区）===
+○ 总览三篇 1 个文件 0 提取——**本工具不判红**（总览引语主管门禁是 verify_overview_quotes）
+    · 00_情感节点.md  → 须由 verify_overview_quotes 覆盖；若它也 0 提取则该文件引语确实无人核实
+
+=== 总计 330/330 引文可核实（100%）；完全干净文件 42/42；正文章节 0 提取 0；总览 0 提取转交 1；--full 整串取证 0 ===
+
+=== ② check_vocab（词汇真实性/例句/分档）===
+词条行合计: 559
+--- FAIL (0) ---
+--- WARN (10) ---
+
+=== ③ check_entities（梗概实体一致性）===
+=== 实体一致性检测：0 个文件存在未知实体 ===
+
+=== ④ corruption_scan（编辑损坏，进门禁）===
+  ❌ FAIL 0 处（U+FFFD / 双句号）
+  报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
+
+=== ⑤ sweep_full（引语整串 flat）===
+  ✅ 本章命中 313 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 0 ｜ ❌ 全书查无 0
+
+=== ⑥ check_short_quotes（<20 字符短引语兜底）===
+  ✅ 命中 16 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
+  口径：正文章节按本章核；总览文件（00_*）按全书核
+
+=== ⑦ 逐章归属 check_chapter_quotes（不降级）===
+ch01 Chapter One.md                            ch01 Chapter One.md: 8/8 in ch01 text
+ch02 Chapter Two.md                            ch02 Chapter Two.md: 8/8 in ch02 text
+ch03 Chapter Three.md                          ch03 Chapter Three.md: 7/7 in ch03 text（另有 1 条短引语未校验）
+ch04 Chapter Four.md                           ch04 Chapter Four.md: 8/8 in ch04 text
+ch05 Chapter Five.md                           ch05 Chapter Five.md: 8/8 in ch05 text
+ch06 Chapter Six.md                            ch06 Chapter Six.md: 8/8 in ch06 text
+ch07 Chapter Seven.md                          ch07 Chapter Seven.md: 8/8 in ch07 text
+ch08 Chapter Eight.md                          ch08 Chapter Eight.md: 7/7 in ch08 text
+ch09 Chapter Nine.md                           ch09 Chapter Nine.md: 8/8 in ch09 text
+ch10 Chapter Ten.md                            ch10 Chapter Ten.md: 8/8 in ch10 text
+ch11 Chapter Eleven.md                         ch11 Chapter Eleven.md: 8/8 in ch11 text
+ch12 Chapter Twelve.md                         ch12 Chapter Twelve.md: 8/8 in ch12 text
+ch13 Chapter Thirteen.md                       ch13 Chapter Thirteen.md: 8/8 in ch13 text
+ch14 Chapter Fourteen.md                       ch14 Chapter Fourteen.md: 6/6 in ch14 text（另有 2 条短引语未校验）
+ch15 Chapter Fifteen.md                        ch15 Chapter Fifteen.md: 7/7 in ch15 text（另有 1 条短引语未校验）
+ch16 Chapter Sixteen.md                        ch16 Chapter Sixteen.md: 7/7 in ch16 text（另有 1 条短引语未校验）
+ch17 Chapter Seventeen.md                      ch17 Chapter Seventeen.md: 8/8 in ch17 text
+ch18 Chapter Eighteen.md                       ch18 Chapter Eighteen.md: 8/8 in ch18 text
+ch19 Chapter Nineteen.md                       ch19 Chapter Nineteen.md: 8/8 in ch19 text
+ch20 Chapter Twenty.md                         ch20 Chapter Twenty.md: 7/7 in ch20 text（另有 1 条短引语未校验）
+ch21 Chapter Twenty-One.md                     ch21 Chapter Twenty-One.md: 8/8 in ch21 text
+ch22 Chapter Twenty-Two.md                     ch22 Chapter Twenty-Two.md: 8/8 in ch22 text
+ch23 Chapter Twenty-Three.md                   ch23 Chapter Twenty-Three.md: 8/8 in ch23 text
+ch24 Chapter Twenty-Four.md                    ch24 Chapter Twenty-Four.md: 7/7 in ch24 text（另有 1 条短引语未校验）
+ch25 Chapter Twenty-Five.md                    ch25 Chapter Twenty-Five.md: 6/6 in ch25 text（另有 2 条短引语未校验）
+ch26 Chapter Twenty-Six.md                     ch26 Chapter Twenty-Six.md: 8/8 in ch26 text
+ch27 Chapter Twenty-Seven.md                   ch27 Chapter Twenty-Seven.md: 8/8 in ch27 text
+ch28 Chapter Twenty-Eight.md                   ch28 Chapter Twenty-Eight.md: 7/7 in ch28 text（另有 1 条短引语未校验）
+ch29 Chapter Twenty-Nine.md                    ch29 Chapter Twenty-Nine.md: 8/8 in ch29 text
+ch30 Chapter Thirty.md                         ch30 Chapter Thirty.md: 8/8 in ch30 text
+ch31 Chapter Thirty-One.md                     ch31 Chapter Thirty-One.md: 8/8 in ch31 text
+ch32 Chapter Thirty-Two.md                     ch32 Chapter Thirty-Two.md: 8/8 in ch32 text
+ch33 Chapter Thirty-Three.md                   ch33 Chapter Thirty-Three.md: 8/8 in ch33 text
+ch34 Chapter Thirty-Four.md                    ch34 Chapter Thirty-Four.md: 8/8 in ch34 text
+ch35 Chapter Thirty-Five.md                    ch35 Chapter Thirty-Five.md: 8/8 in ch35 text
+ch36 Chapter Thirty-Six.md                     ch36 Chapter Thirty-Six.md: 8/8 in ch36 text
+ch37 Chapter Thirty-Seven.md                   ch37 Chapter Thirty-Seven.md: 4/4 in ch37 text（另有 4 条短引语未校验）
+ch38 Chapter Thirty-Eight.md                   ch38 Chapter Thirty-Eight.md: 8/8 in ch38 text
+ch39 Chapter Thirty-Nine.md                    ch39 Chapter Thirty-Nine.md: 8/8 in ch39 text
+ch40 Chapter Forty.md                          ch40 Chapter Forty.md: 8/8 in ch40 text
+ch41 Chapter Forty-One.md                      ch41 Chapter Forty-One.md: 8/8 in ch41 text
+（逐章归属：全部 X/X in 本章 text）
+
+=== ⑧ 块覆盖对账（每块都进 verify_quotes）===
+✅ 块覆盖对账：41 个文件，每块都进了 verify_quotes 校验
+
+=== ⑨ 导航/总结层英文核对（六道门禁盲区）===
+  
+  === 导航/总结层英文核对：❌ 0 ｜ ⚠️ 0 ===
+
+=== ⑩ sweep_analysis_inline（分析层行内英文）===
+=== 分析层行内英文逐字核查（the-snowbirds-by-christina-clancy）===
+  ✅ 逐字 1288 ｜ ⚠️ 跨章 11 ｜ 🔶 拼接 18 ｜ 🟠 部分命中 0 ｜ 🟡 词形 0 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 814
+
+=== ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
+  本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构 ｜ 引语众数 8
+  ❌ 结构缺陷 0 ｜ ⚠️ 提示 0 ｜ 🔀 映射不一致 0
+
+=== ⑫ check_anchor（关键词锚定）===
+  ❌ 凭空造词 0 处（词全书查无）
+  ⚠️ 松散关键词 2 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ── 松散关键词明细 ──
+
+=== ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
+=== 空段扫描：0 处 ===
+
+=== ⑭ verify_overview_quotes（总览三篇引语；有 00_* 才跑）===
+=== lane：完整 lane（epub） ===
+00_全书概述.md: ➖ 无引语行（正常，非门禁项）
+00_情感节点.md: ➖ 无引语行（正常，非门禁项）
+00_金句精选.md: 17/17 ✅
+
+=== 总览引文 17/17 可核实（100%）；完全干净文件 1/1；已核覆盖 1/3 篇（无引语 2 · 口径外 0）；🔶 跨缝隙拼接 0 条（提示，不判红）===
+
+=== ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
+  ⚠️ 00_全书概述.md:40  同一句在 2 章出现（ch10,ch33），章节标注有歧义：everything, but despair
+
+=== ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
+=== 分析层跨章指认核对（the-snowbirds-by-christina-clancy）===
+  参照集：text/（41 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
+  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+
+=== ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
+=== 引语块结构对账（the-snowbirds-by-christina-clancy）===
+  带前缀的 `> **原句 N:**` 行：41 个文件共 327 行
+  ✅ 前缀完整 · 编号连续无撞车 · 无孤儿分析 · 无自查泄漏
+
+=== ⑱ check_block_keywords（块数配额 3–8 处 / 关键词锚定 / 拼接红线）===
+=== 引语块覆盖度：41 个 md，阻断型 0 处 ／ 提示型 0 处 ===
+══ 正门结论：0 条阻断型（⚠️/❓ 不阻塞；退出码 0）══

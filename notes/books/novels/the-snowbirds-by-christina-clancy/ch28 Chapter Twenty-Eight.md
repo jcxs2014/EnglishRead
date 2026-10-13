@@ -22,7 +22,7 @@ source_text: ch28
 
 > **原句 1:** "The oranges here are amazing," Dort said. Juice dripped down her chin, and she left chunks of rind in a pile on Basil's coffee table next to her bare feet.
 
-**中文理解**："这儿的橘子太好吃了。"多特说。果汁顺着她的下巴往下淌，她在巴西尔家咖啡桌旁的地上留下一堆果皮。
+**中文理解**："这儿的橘子太好吃了。"Dort 说。果汁顺着她的下巴往下淌，她把一块块果皮堆在 Basil 家咖啡桌上，就挨着她赤着的脚。
 
 **句子结构**：直接引语 + 伴随状态描写。引号内是 Dort 的话，引号外是叙述者补充的动作细节（果汁淌下、果皮堆积），以 and 连接两个独立分句构建并置画面。
 
@@ -46,13 +46,13 @@ source_text: ch28
 
 > **原句 3:** "He's not missing," March said, "he's lost."
 
-**中文理解**："他不是失踪，"马奇说，"是走丢了。"
+**中文理解**："他不是失踪，"March 说，"是走丢了。"
 
 **句子结构**：两个简短分句，"not missing"与"lost"形成精确的反义区分。中间插入说话人标注，形成独特的断句节奏。
 
 **关键词**：missing（失踪）· lost（走丢）
 
-**为什么这样写**：这是全章最精准的语义区分——"missing"暗示他可能出了事，"lost"则是方向问题而非安全危机。March 的话在字面上是一种安慰，但在语境中（父亲仍在山上）却透出几分自我欺骗的无力感。妹妹立刻以"fact-checker"回击，暗示这个区分太过书生气。
+**为什么这样写**：这是全章最精准的语义区分——"missing"暗示他可能出了事，"lost"则是方向问题而非安全危机。March 的话在字面上是一种安慰，但在语境中（父亲仍在山上）却透出几分自我欺骗的无力感。Dort 立刻以"fact-checker"回击，暗示这个区分太过书生气。
 
 ---
 
@@ -64,7 +64,7 @@ source_text: ch28
 
 **关键词**：ring（戒指）· yet（还，尚未）
 
-**为什么这样写**：March 以展示戒指开场，是她试图将对话从"爸爸失踪"转向"我的人生新篇章"——但这次转移立刻被现实打断（Kim 想起 Grant 抽屉里的 Mitzie 的戒指）。两枚戒指的并置形成代际对话：Simeon 的钻石 vs Mitzie 的珍珠状钻石。
+**为什么这样写**：March 以展示戒指开场，是她试图将对话从"爸爸失踪"转向"我的人生新篇章"——但这次转移立刻被现实打断（Kim 想起 Grant 抽屉里的 Mitzie 的戒指）。两枚戒指的并置形成代际对话：Simeon 送的硕大钻戒 vs Mitzie 的梨形钻戒。
 
 ---
 
@@ -76,7 +76,7 @@ source_text: ch28
 
 **关键词**：walk me down the aisle（牵着走过红毯）· never meet（永远见不到）· their grandpa（他们的爷爷）
 
-**为什么这样写**：March 的恐惧是真实的：婚礼、孩子、父亲缺席——三代人的完整性在一个问句里同时崩塌。这是本章情感最重的句子之一，也是"lost vs missing"辩论的实际重量所在。
+**为什么这样写**：March 的恐惧是真实的：婚礼、孩子、父亲缺席——三代人的完整性在一个问句里同时崩塌。这是本章情感最重的句子之一，也是"失踪还是走丢"之辩的实际重量所在。
 
 ---
 
@@ -88,7 +88,7 @@ source_text: ch28
 
 **关键词**：okay to be scared（害怕是正常的）· We have feelings（我们有感情）
 
-**为什么这样写**：Dort 直接挑战 Kim 的情感管理——"你从来不说"（下一句）。这句话是全章的情感转折点：它将"恐惧"正常化，同时将 Kim 的沉默定性为问题而非优点。母女之间的张力在这里第一次公开爆发。
+**为什么这样写**：Dort 直接挑战 Kim 的情感管理——"你从来不表露"（"you never show them"，即下一句）。这句话是全章的情感转折点：它将"恐惧"正常化，同时将 Kim 的沉默定性为问题而非优点。母女之间的张力在这里第一次公开爆发。
 
 ---
 
@@ -108,7 +108,7 @@ source_text: ch28
 
 **中文理解**："你从来不表现出来。这几天你就好像他没事没事，没事没事，没什么好看的——但你知道吗？他不好。他三天前出去徒步，到现在都没回来。"
 
-**句子结构**：反驳句（"你从来不表现出来"）→ 模仿 Kim 的口吻（"he's fine, he's fine, nothing to see here"）→ 事实陈述（"he's not fine"）→ 事实细节（"three days ago, hasn't come home"）。节奏从讽刺模仿急转至严肃事实。
+**句子结构**：反驳句（"你从来不表现出来"）→ 模仿 Kim 的口吻（"he's fine, he's fine, nothing to see here"）→ 事实陈述（"he's not fine"）→ 事实细节（"three days ago and he hasn't come home"）。节奏从讽刺模仿急转至严肃事实。
 
 **关键词**：never show them（从来不表现出来）· he's fine（他没事）· nothing to see here（没什么好看的）
 
@@ -124,25 +124,25 @@ source_text: ch28
 |---|---|---|
 | destabilizing | 令人不安的；动摇稳定的 | Having grown children can be destabilizing. |
 | filigreed | 花丝工艺的；装饰性金属丝工艺的 | A pear-shaped diamond set in a filigreed platinum band. |
-| terrace | 阳台；平台；露台 | Her heels click-clacked on the terrazzo floors. |
-| reentry | 重新进入（此处指回归正常生活/关系） | How can Dad be missing still? |
+| manicured | 修剪整齐的（指甲） | March jutted her manicured left hand in front of our faces to show us her giant diamond. |
+| gangrene | 坏疽 | Dude crossed his legs and put his nasty gangrene foot on his lap and caressed it like a pet ferret. |
 
 ### ⭐⭐ 进阶
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | recruiter | 招聘人员；猎头 | He's a recruiter. He actually helps people find jobs. |
-| slabbery huddle | 哭得稀里哗啦的拥抱 | The three of us were in a slabbery huddle. |
-| refguee | 难民（此处指 Simeon 的身份背景） | He'd moved to the United States as a refugee from Sierra Leone. |
-| terrazzo | 水磨石 | Her heels click-clacked on the terrazzo floors. |
+| slobbery huddle | 哭得稀里哗啦的拥抱 | The three of us were in a slobbery huddle |
+| refugee | 难民（此处指 Simeon 的身份背景） | He'd moved to the United States as a refugee from Sierra Leone. |
+| terrazzo | 水磨石 | click-clacked efficiently on the terrazzo floors |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | bare feet | 赤脚 | Chunks of rind in a pile on Basil's coffee table next to her bare feet. |
-| aisle | 红毯；通道 | What if Dad can't walk me down the aisle? |
-| orphan | 孤儿（此处指缺席的父亲角色） | Their grandpa. |
+| aisle | 红毯；通道 | what if I get married and Dad can't walk me down the aisle? |
+| schnitzel | 炸肉排 | I’m so sick of schnitzel and cabbage soup, I can’t even tell you. |
 | diamond | 钻石 | Giant diamond. |
 
 ## 一句话总结

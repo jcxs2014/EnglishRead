@@ -71,7 +71,7 @@ source_text: ch26
 **句子结构**：简单过去时；介词between 连接的并列结构，列举六类Trail使用者；学术化的细节选择体现 Grant 的书呆子气。
 
 **关键词**：right-of-way rules（优先通行规则）· uphill and downhill climbers（上下行登山者）
-**为什么这样写**：一个「学习优先通行规则」的细节，精准捕捉 Grant 做任何事情的方式——先掌握系统，再投入行动。这与开头「more passionate than he'd studied philosophy」呼应：他不是在「走路」，而是在「研究」徒步。
+**为什么这样写**：一个「学习优先通行规则」的细节，精准捕捉 Grant 做任何事情的方式——先掌握系统，再投入行动。这与开头「with even more passion and intensity than he'd studied philosophy」呼应：他不是在「走路」，而是在「研究」徒步。
 
 ---
 
@@ -93,7 +93,7 @@ source_text: ch26
 **句子结构**：「spoke with the energy of + [noun phrase]」；类比结构将 Grant 的热情与儿童的天真类比，暗示徒步如何唤醒了他内心某个年轻的部分。
 
 **关键词**：energy of a kid（孩子的能量）· relating an exciting dream（讲述激动人心的梦）
-**为什么这样写**：Kim 观察到了 Grant 身上一个深刻的变化——他的激情回来了。「kid relating a dream」这个意象捕捉到一种纯粹的、不加修饰的兴奋，与他过去「wry remarks」和「rolling his eyes」形成鲜明反差。
+**为什么这样写**：Kim 观察到了 Grant 身上一个深刻的变化——他的激情回来了。「kid relating an exciting dream」这个意象捕捉到一种纯粹的、不加修饰的兴奋，与他过去「wry remarks」和「rolling his eyes」形成鲜明反差。
 
 ---
 
@@ -108,7 +108,7 @@ source_text: ch26
 
 ---
 
-## 词汇表
+## 本章词汇
 
 | 词汇 | 音标 | 词性 | 释义 | 分类 |
 |------|------|------|------|------|
@@ -120,7 +120,7 @@ source_text: ch26
 | right-of-way | /raɪt əv ˈweɪ/ | n. | 优先通行权（道路使用优先级） | A: 户外规则 |
 | AR-15 | /eɪ ɑːr ˈfɪftiːn/ | n. | AR-15 自动步枪（美国常见民用半自动步枪） | B: 武器术语 |
 | ultralightweight | /ˈʌltrəlaɪtweɪt/ | adj. | 超轻量的 | A: 材质描述 |
-| abs | /æbz/ | n. | 腹肌（abdominal muscles 的缩写） | B: 身体部位 |
+| abs | /æbz/ | n. | 腹肌（口语缩写） | B: 身体部位 |
 | Beast mode | /biːst moʊd/ | n. | 野兽模式（网络俚语，形容极度强健的状态） | B: 网络俚语 |
 
 ## 一句话总结

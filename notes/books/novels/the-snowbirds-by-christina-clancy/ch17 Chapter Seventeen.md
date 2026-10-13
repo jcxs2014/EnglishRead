@@ -17,9 +17,9 @@ Thomas 和 Raul 突然造访带来热闹与混乱，Kim 在 Streets 酒吧体验
 
 ## 精读
 
-> **原句 1:** "Grant was so tired when he came back from his first long hike that he passed out on the patio chaise with his shirt off, and his socks still on."
+> **原句 1:** "Grant was so tired when he came back from his first long hike that he passed out on the patio chaise with his shirt off, and his socks still on. He wore socks over socks and shoes over mini-gators. Still, he'd worn holes through the toes, and his feet were covered in painful blisters."
 
-**中文理解**：开篇的场景建立了一种疲惫而荒诞的氛围：Grant 第一次长距离徒步回来，累得倒在躺椅上睡着了，但袜子还穿着——穿了袜子再穿鞋再穿迷你鳄嘴鞋，还把脚趾磨出了水泡。这个细节既好笑又暗示 Grant 在努力适应 Palm Springs 的生活方式，但他的身体并不适应。
+**中文理解**：开篇的场景建立了一种疲惫而荒诞的氛围：Grant 第一次长距离徒步回来，累得倒在躺椅上睡着了，但袜子还穿着——原文里他袜上叠袜、鞋里垫着 mini-gators，即使如此脚趾还是磨出了洞、脚上全是水泡。这个细节既好笑又暗示 Grant 在努力适应 Palm Springs 的生活方式，但他的身体并不适应。
 
 **句子结构**：`Grant was so tired...that he passed out` 主句 + so...that... 结果状语从句；`with his shirt off, and his socks still on` 独立主格结构做伴随状态。
 
@@ -29,9 +29,9 @@ Thomas 和 Raul 突然造访带来热闹与混乱，Kim 在 Streets 酒吧体验
 
 ---
 
-> **原句 2:** "I was feeling down because I'd miss the discussion that night with my friends, most of whom were moms I'd met when our kids were young."
+> **原句 2:** "I was feeling down because I'd miss the discussion that night with my friends, most of whom were moms I'd met when our kids were young. For over twenty years, we'd gotten together without fail every month. We generally choose books that make us better people for having read them. Our last book was about the petroleum industry in Brazil, and the one before that was a fictionalized story of a woman with one arm who'd lost her entire family during Partition."
 
-**中文理解**：Kim 解释她为什么心情低落：她将错过当晚与朋友们的讨论。这些朋友是她在孩子们小时候认识的妈妈们，组成了一个每月聚会一次、持续二十多年的书友会。这个书友会读严肃题材（巴西石油工业、印巴分治时期的独臂女性），她们带着拖鞋用塑料袋装着来讨论。
+**中文理解**：Kim 解释她为什么心情低落：她将错过当晚与朋友们的讨论。这些朋友是她在孩子们小时候认识的妈妈们，书友会每月聚会、二十多年从未间断；她们读严肃题材（巴西石油工业、印巴分治中失去全家的独臂女性）。
 
 **句子结构**：`I was feeling down because I'd miss the discussion` 主句 + because 原因状语从句 + `most of whom were moms I'd met when our kids were young` 非限制性定语从句修饰 friends。
 
@@ -43,7 +43,7 @@ Thomas 和 Raul 突然造访带来热闹与混乱，Kim 在 Streets 酒吧体验
 
 ---
 
-> **原句 3:** "I felt this way as a kid, when I'd go to the camp and worry that all of my friendships in Chicago would fall apart while I was gone, and here I was in my fifties feeling as if I had two lives."
+> **原句 3:** "I felt this way as a kid, when I'd go to the camp and worry that all of my friendships in Chicago would fall apart while I was gone, and here I was in my fifties feeling as if I had two lives: this one, the one that still felt fake, and the one that was real and was going on without me."
 
 **中文理解**：Kim 将现在的感受追溯到童年：小时候她去夏令营时会担心在芝加哥的友谊在她离开时会崩溃。现在她五十多岁了，有了"两种生活"——一种是这里的生活（仍然感觉不真实），另一种是真实的生活（正在没有她的情况下继续）。这是 Kim 的核心焦虑：缺席意味着被遗忘。
 
@@ -55,7 +55,7 @@ Thomas 和 Raul 突然造访带来热闹与混乱，Kim 在 Streets 酒吧体验
 
 ---
 
-> **原句 4:** "I'm Thomas," the tall, blond, older man said, forcing a bottle of prosecco into my hands. "Welcome!"
+> **原句 4:** "I'm Thomas," the tall, blond, older man said, forcing a bottle of prosecco into my hands. "Welcome!" He was pale and clean-cut, in a nice suit and bow tie. He looked as if he could play a doctor on television.
 
 **中文理解**：Thomas 的出场是爆炸性的：他把普罗赛克直接塞进 Kim 的手里，说"欢迎"。他的描述是"高个子、金发、年龄较大、穿着漂亮的西装和蝴蝶结，看起来像可以在电视上演医生的人"。这是一个精心打扮的、夸张的、热情的角色。
 
@@ -81,7 +81,7 @@ Thomas 和 Raul 突然造访带来热闹与混乱，Kim 在 Streets 酒吧体验
 
 ---
 
-> **原句 6:** "The thing about philosophy, according to Grant, is that it's better when you first get into it, when you consider the big existential problems that could puzzle anyone, the wealthy or the impoverished, the young or the old."
+> **原句 6:** "The thing about philosophy, according to Grant, is that it's better when you first get into it, when you consider the big existential problems that could puzzle anyone, the wealthy or the impoverished, the young or the old. Who am I? Why am I here? What's the meaning of life?"
 
 **中文理解**：Grant 对哲学的看法：最好的时刻是你第一次接触它的时候——当你思考那些可以困扰任何人的重大存在主义问题时，不管贫富、老幼。"我是谁？我为什么在这里？生命的意义是什么？" Grant 是一个哲学教授，但他在说哲学的"新鲜感"已经过去了。
 
@@ -95,9 +95,9 @@ Thomas 和 Raul 突然造访带来热闹与混乱，Kim 在 Streets 酒吧体验
 
 ---
 
-> **原句 7:** "Grant would never admit it, but a big part of what made him feel terrible about losing his job was the loss of his legion of admirers."
+> **原句 7:** "Grant would never admit it, but a big part of what made him feel terrible about losing his job was the loss of his legion of admirers. Off campus, there were no chili peppers, no blushing students at office hours, no adjuncts who would have given their eyeteeth for his tenure-track position. Now, he was just another guy."
 
-**中文理解**：Grant 从不承认，但他失去工作时最让他难受的部分是失去了他的"仰慕者大军"。在校园里，有红辣椒、有在办公时间脸红的 学生们、有愿意为他 tenure-track 职位付出一切的 adjuncts。在校园外，他只是"另一个家伙"。
+**中文理解**：Grant 从不承认，但他失去工作时最让他难受的部分是失去了他的"仰慕者大军"。在校园里，有红辣椒、有在办公时间脸红的学生们、有愿意为他 tenure-track 职位付出一切的 adjuncts。在校园外，他只是"另一个家伙"。
 
 **句子结构**：`Grant would never admit it, but a big part of what made him feel terrible about losing his job was the loss of his legion of admirers.` 逗号 but 连接的并列句，前半部分让步状语。
 
@@ -127,11 +127,11 @@ Thomas 和 Raul 突然造访带来热闹与混乱，Kim 在 Streets 酒吧体验
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
-| FOMO | 错失恐惧（Fear of Missing Out） | I'd be struck with pangs of FOMO for my Madison routines |
+| FOMO | 错失恐惧（英文网络缩写的音译用法） | I’d be struck with pangs of FOMO for my Madison routines |
 | prosecco | 普罗赛克（意大利起泡酒） | forcing a bottle of prosecco into my hands |
 | existential problems | 存在主义问题 | the big existential problems that could puzzle anyone |
 | legion of admirers | 仰慕者大军 | the loss of his legion of admirers |
-| surrogate | 代孕者 | Our baby is due in March |
+| surrogate | 代孕者 | we found out we were taken off the surrogate waiting list |
 | dysfunction | 功能障碍；关系问题 | We put the fun in dysfunction |
 | Armageddon | 世界末日；大决战 | It's Armageddon if someone leaves a sock in the dryer |
 | disorienting | 令人迷失方向的 | It was disorienting to not know what was appropriate |
@@ -142,24 +142,24 @@ Thomas 和 Raul 突然造访带来热闹与混乱，Kim 在 Streets 酒吧体验
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | Road-runner | 走鹃（沙漠鸟类） | Roadrunners skittered seemingly straight out of cartoons |
-| bunny | 兔子 | brave rabbits approached me where I sat on the porch |
+| rabbit | 兔子 | brave rabbits approached me where I sat on the porch |
 | bow tie | 蝴蝶结领结 | in a nice suit and bow tie |
 | gold chain | 金链子 | a gold chain with a giant cross |
 | chili pepper | 红辣椒（Rate My Professors 评分） | red-hot chili peppers on Rate My Professors |
-| peninsula | 半岛 | Are you finding everything okay? |
+| solidarity | 团结；声援 | I was tackling it in solidarity with my beloved group |
 | happy hour | 欢乐时光（酒吧折扣时段） | We're about to hit up some happy hours |
-| tanned | 晒黑的 | I'm on fire watch the next two weeks |
+| fictionalized | 小说化的；虚构的 | a fictionalized story of a woman with one arm |
 
 ### ⭐ 基础
 
 | 词/短语 | 释义 | 例句 |
 |---|---|---|
 | patio | 露台；庭院 | passed out on the patio chaise |
-| socks | 袜子 | with his socks still on |
-| book club | 读书俱乐部 | my book's club's latest selection |
+| socks | 袜子 | he passed out on the patio chaise with his shirt off, and his socks still on |
+| book club | 读书俱乐部 | my book club’s latest selection |
 | hug | 拥抱 | He gave me a big hug |
 | bar | 酒吧 | We walked down Arenas, eyeing the bars on both sides |
-| dance | 跳舞 | I started to shake my shoulders to Bananarama's "Venus" |
+| dance | 跳舞 | An incredibly built man in a G-string danced in the front window in one of them. |
 | pool | 游泳池 | I sat at the edge of the pool with my legs submerged |
 | married | 已婚的 | Have you ever been married? |
 

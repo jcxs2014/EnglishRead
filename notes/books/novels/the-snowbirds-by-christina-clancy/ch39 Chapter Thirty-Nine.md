@@ -1,7 +1,7 @@
 ---
 状态: 已读
 modified: "2026-10-13"
-source_text: ch38
+source_text: ch39
 ---
 
 # Chapter Thirty-Nine
@@ -123,8 +123,8 @@ source_text: ch38
 | ominous | 不祥的 | 原句2 |
 | screamer suit | 保温救援服 | 原句3 |
 | ecstatic | 狂喜的 | 原句6 |
-| delirious | 神志不清的 | 原句9 |
-| Code Blue | 心脏骤停 | 原句10 |
+| delirious | 神志不清的 | 本章 |
+| Code Blue | 心脏骤停 | 本章 |
 
 ## 一句话总结
 
