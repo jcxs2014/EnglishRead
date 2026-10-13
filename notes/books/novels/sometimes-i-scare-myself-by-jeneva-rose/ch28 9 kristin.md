@@ -195,3 +195,7 @@ modified: "2026-10-13"
 | dam | （释义待填） | The words felt like a dam breaking. |
 | faint whistle | （释义待填） | The silence stretched on, filled only by the rush of water and the faint whistle of old pipes. |
 | family | （释义待填） | “Let’s go have a mental breakdown, as a family. |
+
+## 一句话总结
+
+Kristin 洗澡时 Patrick 在门外说「我们应该搬走」「这里不安全」，但 Kristin 出来后 Patrick 不在了；Hailey 说 Patrick 还没回家；Kristin 开始怀疑自己是否出现了幻觉；最后 Patrick 的车回来了，Kristin 问 Hailey 关于 Eddie 的事，意识到所有超自然事件都指向同一个方向。

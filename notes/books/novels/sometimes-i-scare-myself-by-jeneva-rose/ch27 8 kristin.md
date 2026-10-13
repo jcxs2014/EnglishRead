@@ -193,3 +193,7 @@ modified: "2026-10-13"
 | face | （释义待填） | But his face flashed in my mind—flat, bored, already convinced I was wrong about the accident. |
 | fancy paint | （释义待填） | You sure you ain’t spilled your fancy paint water? |
 | father | （释义待填） | Because Hailey would tell her father. |
+
+## 一句话总结
+
+Kristin 发现 Hailey 没有注意到任何异常，更多的砂锅菜开始出现，Patrick 的「乐观」在「超自然」面前开始崩溃。
