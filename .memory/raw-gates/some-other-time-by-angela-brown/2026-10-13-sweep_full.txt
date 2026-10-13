@@ -1,8 +1,9 @@
 === 引语整串 flat 比对（some-other-time-by-angela-brown）===
   参照集：text/ 逐章（38 章，可定章） + epub 交叉验证
-  ✅ 本章命中 100 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 13 ｜ ❌ 全书查无 0
+  ✅ 本章命中 99 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 14 ｜ ❌ 全书查无 0
   （短引语 5 条归 check_short_quotes；无章可对 0 条未判）
   🔶 ch02 One.md（ch2）跨标签拼接，各段逐字都在：You know," she says, "we 'should' be on the 
+  🔶 ch06 Five.md（ch6）跨标签拼接，各段逐字都在：That's what you're going to end up like," Bu
   🔶 ch14 Thirteen.md（ch14）跨标签拼接，各段逐字都在：Return flight?" Brenda lifts Ellie's license
   🔶 ch16 Fifteen.md（ch16）跨标签拼接，各段逐字都在：Are you sure you want to drive us this morni
   🔶 ch16 Fifteen.md（ch16）跨标签拼接，各段逐字都在：So, are you going to tell me what happened?"

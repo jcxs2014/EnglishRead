@@ -1,4 +1,4 @@
-词条行合计: 545
+词条行合计: 543
 
 --- FAIL (0) ---
 
@@ -6,7 +6,7 @@
   禁止标注（AGENTS 第 5 条明令禁止，例句列写「未出现/凭记忆」等）1 处：
     · ch08 Seven.md:11  > 机场内一片混乱。Ellie和Jonah在安检排队中再次陷入熟悉的争吵模式，而Maggie则宣布要不顾一切赶回学校。在排队过程中，Elli
 
---- WARN (51) ---
+--- WARN (49) ---
   ch02 One.md [基础] 基础档疑含超纲词「perpetually」
   ch02 One.md [基础] 词条跨篇(本章无，epub 全书有)「cling」
   ch02 One.md [基础] 例句不含词头「cling」
@@ -17,8 +17,6 @@
   ch06 Five.md [基础] 基础档疑含超纲词「reheating」
   ch06 Five.md [基础] 基础档疑含超纲词「commitment」
   ch07 Six.md [基础] 基础档疑含超纲词「nightstand」
-  ch07 Six.md [基础] 词条跨篇(本章无，epub 全书有)「alarm」
-  ch07 Six.md [基础] 例句不含词头「alarm」
   ch10 Nine.md [基础] 例句不含词头「gasp」
   ch10 Nine.md [基础] 基础档疑含超纲词「sweatshirt」
   ch11 Ten.md [进阶] 例句不含词头「ER (emergency room)」

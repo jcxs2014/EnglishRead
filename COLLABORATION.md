@@ -80,17 +80,21 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-13 08:00 UTC / 精读完工 2026-10-13 09:28 UTC] [DSH-Mac] → All
 
-**《Some Other Time》(Angela Brown) 完工** —— 长篇言情 38 章 + 总览三篇（lane：完整，有 epub）
+**《Some Other Time》(Angela Brown) 完工 + 五步审查** —— 长篇言情 38 章 + 总览三篇（lane：完整，有 epub）
 
-- 产出：38 个精读 md（ch01 prologue … ch38 Thirty-Seven）+ `00_概述.md`/`00_金句精选.md`/`00_情感节点.md`；`text/` 38 件
-- **`bash scripts/gate.sh "<书目录>"` ⇒ 0 条阻断型／退出码 0**（18 项逐条见原件）
-- ① verify_quotes **120/120（100%）**，干净文件 35/35；⑤ sweep_full ✅本章 100／⚠️跨章 0／🔶拼接 13／❌查无 0；⑥ 短引语 ✅6／❌0；⑦ 逐章归属全 X/X；⑧ 块覆盖 ✅38
-- ② check_vocab 词条 **545／FAIL 0**／WARN 51；③ 未知实体 0；④ corruption_scan FAIL 0；⑨ 导航层 ❌0/⚠️0；⑩ 分析层 ❌零命中 0；⑪ audit_structure ❌0/⚠️5/🔀0；⑬ 空段 0；⑭ 总览引文 **7/7（100%）**；⑯ 跨章指认全 0；⑰ ✅；⑱ 阻断 0／提示 12
-- **提示型只记不改**：② WARN 51｜⑪ 提示 5｜⑫ 松散关键词 14（词在全书、不在本块引语，属语境延伸）｜⑱ 超配额 10 + 跨段省略引用 2（长篇按场景切块，块结构权威为 audit_structure）
-- **本批修出并整改 4 处真缺陷**：ch04 关键词占位符「（待续）」换真实引语锚定词；ch02/ch04 人物名 `Jon`→`Jonah`（原文 Jonah 464 次 / Jon 0 次）；ch30⑰ 引语次序颠倒按原文重排 + 四子项同步
-- **3 处假红型先修工具**（各跑全库回归验证 0 新增）：⑱ `check_block_keywords`（圈码形态/CIRCLED 到 ㊿/跨段判据+配额上限降级、全库 16049→11900 阻断型、新增 0）；⑰ `check_quote_blocks`（认圈码标题下裸 `>` 引语、新增报错 0、转绿 1）；⑫ `check_anchor`（认「关键词标签独占行+逐条列表」形态、`0->≥1` 回归 0 本、转绿 26 本）
-- commit：**bf432a4c8** · **cd7d0ba7d** · **2b837c5ef** · **0989f7699** · **24afc241d** · **60c54ff0f** · **58912c99e**（内容）；**72128b748**（⑫ 工具）｜均 pathspec，**未 push**
-- **五步审查未做（待用户发起）**。门禁原件：`.memory/raw-gates/some-other-time-by-angela-brown/`（12 件）；明细：`.memory/daily/2026-10-13.md` 本书专节
+- 产出：38 个精读 md + `00_概述.md`/`00_金句精选.md`/`00_情感节点.md`；`text/` 38 件
+- **完工门禁**：`bash scripts/gate.sh` ⇒ 0 条阻断型／exit 0；① verify_quotes **120/120（100%）**、干净 35/35；⑤ ✅本章 100／⚠️跨章 0／🔶13／❌查无 0；② 词条 545／FAIL 0；③ 0；④ FAIL 0；⑦ 逐章归属全 X/X；⑪ ❌0/⚠️5/🔀0；⑭ 总览引文 7/7；⑰ ✅；⑱ 阻断 0／提示 12
+- **五步审查（用户 m08636 发起，a–e 全跑）**：a 门禁全部重跑（未采信旧数字）；b 38 章逐章归属 38/38；c 三种实现交叉（audit_structure ❌0 ‖ check_struct_indep 161 条判**格式假设假红** + 自写第三实现确认四节/四子项齐全）；d 六子代理逐块语义二审（ch01–ch38 全覆盖）；e 总览三篇逐句 + 章节标签对账
+- **查出并整改 53 条缺陷**（逐条附原文取证，见 `.memory/daily/2026-10-13.md` 审查节）：
+  - **导语层 11 条**（各 md 第 11 行 `>` 块引言）—— 门禁结构盲区（`check_nav_layer` 只扫 `## 本章导航`/`## 一句话总结`，第 11 行在导航节**之前**）：ch32/33/34、ch36、ch38、ch02、ch04–ch06、ch17 的杜撰剧情（ch32 全章无 `Frank`；ch34 接机人原文无名；ch38 「买下」误作「要买下」、跨章对比说反）
+  - **伪引语 7 条**（全书查无）：ch02/ch04/ch08/ch16/ch27/ch37/ch26
+  - **非逐字 13 条**：漏 also somehow/quickly/white、He's→Dad's、understand→understands、`...`→`…`
+  - **引语截短/说话人反转/事实断言错 13 条**：ch26「I'm her husband」是 Jonah 自述；ch29 十七段排比误作十二；ch28 Middlebury 录取通知书属 **Maggie**
+  - **章号错标 3 条** · **总览句号拼接 3 条**（改 ` … `）· **词汇层 3 条**（ch06 tap→tape、ch07 alarm→alert、ch35 重复词条）
+- **审查后复验全绿**：verify_quotes 120/120（100%）；check_vocab FAIL 0；check_entities 0；corruption_scan FAIL 0；sweep_full 本章 99／跨章 0／❌查无 0；gate.sh **0 条阻断型 exit 0**
+- 整改 commit：**3203629dd**（33 文件 107+/110−）｜**未 push**
+- **同会话审查已知盲区**（供用户判断是否另行指派异实例复核）：d 步由本实例所写内容的子代理复核，非独立第三方；「说话人」类机械层不可靠（`check_speaker_consistency` 抽查级、全库 1 真缺陷约 1/3 假阳），本轮 6 处说话人错配全靠人判抓出
+- 门禁原件：`.memory/raw-gates/some-other-time-by-angela-brown/`（12 件）；明细：`.memory/daily/2026-10-13.md` 本书专节
 
 ### [2026-10-12 17:16 UTC] [DSH-Mac] → All
 

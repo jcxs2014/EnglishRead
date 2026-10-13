@@ -1,35 +1,11 @@
-  ch03 Two.md:50  未锚定 关键词「**The gray only adds to his looks, which」中的「gray」既不在引语、也不在本块正文
-  ch03 Two.md:50  未锚定 关键词「**The gray only adds to his looks, which」中的「adds」既不在引语、也不在本块正文
-  ch03 Two.md:50  未锚定 关键词「**The gray only adds to his looks, which」中的「looks」既不在引语、也不在本块正文
-  ch03 Two.md:50  未锚定 关键词「**The gray only adds to his looks, which」中的「which」既不在引语、也不在本块正文
-  ch03 Two.md:50  未锚定 关键词「**The gray only adds to his looks, which」中的「complete」既不在引语、也不在本块正文
-  ch03 Two.md:50  未锚定 关键词「**The gray only adds to his looks, which」中的「garbage」既不在引语、也不在本块正文
   ch03 Two.md:114  未锚定 关键词「**conversation vs. announcement**：Maggie」中的「announcement」既不在引语、也不在本块正文
-  ch07 Six.md:95  未锚定 关键词「**a map of wrinkles and time**：皱纹与时间的地图；」中的「map」既不在引语、也不在本块正文
-  ch07 Six.md:95  未锚定 关键词「**a map of wrinkles and time**：皱纹与时间的地图；」中的「wrinkles」既不在引语、也不在本块正文
-  ch07 Six.md:95  未锚定 关键词「**a map of wrinkles and time**：皱纹与时间的地图；」中的「time」既不在引语、也不在本块正文
-  ch15 Fourteen.md:85  未锚定 关键词「**The house got to be too big for us**：这」中的「house」既不在引语、也不在本块正文
-  ch15 Fourteen.md:85  未锚定 关键词「**The house got to be too big for us**：这」中的「got」既不在引语、也不在本块正文
-  ch15 Fourteen.md:85  未锚定 关键词「**The house got to be too big for us**：这」中的「big」既不在引语、也不在本块正文
   ch27 Twenty-Six.md:51  未锚定 关键词「**what all the lives they might have liv」中的「what」既不在引语、也不在本块正文
 === 关键词锚定自查（some-other-time-by-angela-brown）===
-  扫 41 个 md，302 个引语块，901 条关键词行
+  扫 41 个 md，302 个引语块，900 条关键词行
   判定口径：引语 **或** 本块分析正文（AGENTS 第 9 条 b 的语境延伸词豁免）
   参照集：text/（38 个提取件）
   ❌ 凭空造词 0 处（词全书查无）
-  ⚠️ 松散关键词 14 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ⚠️ 松散关键词 2 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
   ── 松散关键词明细 ──
-     ch03 Two.md:50  关键词「**The gray only adds to his looks, which」的「gray」在全书有、本块无
-     ch03 Two.md:50  关键词「**The gray only adds to his looks, which」的「adds」在全书有、本块无
-     ch03 Two.md:50  关键词「**The gray only adds to his looks, which」的「looks」在全书有、本块无
-     ch03 Two.md:50  关键词「**The gray only adds to his looks, which」的「which」在全书有、本块无
-     ch03 Two.md:50  关键词「**The gray only adds to his looks, which」的「complete」在全书有、本块无
-     ch03 Two.md:50  关键词「**The gray only adds to his looks, which」的「garbage」在全书有、本块无
      ch03 Two.md:114  关键词「**conversation vs. announcement**：Maggie」的「announcement」在全书有、本块无
-     ch07 Six.md:95  关键词「**a map of wrinkles and time**：皱纹与时间的地图；」的「map」在全书有、本块无
-     ch07 Six.md:95  关键词「**a map of wrinkles and time**：皱纹与时间的地图；」的「wrinkles」在全书有、本块无
-     ch07 Six.md:95  关键词「**a map of wrinkles and time**：皱纹与时间的地图；」的「time」在全书有、本块无
-     ch15 Fourteen.md:85  关键词「**The house got to be too big for us**：这」的「house」在全书有、本块无
-     ch15 Fourteen.md:85  关键词「**The house got to be too big for us**：这」的「got」在全书有、本块无
-     ch15 Fourteen.md:85  关键词「**The house got to be too big for us**：这」的「big」在全书有、本块无
      ch27 Twenty-Six.md:51  关键词「**what all the lives they might have liv」的「what」在全书有、本块无

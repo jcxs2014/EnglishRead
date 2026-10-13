@@ -8,9 +8,9 @@
 === 总计 120/120 引文可核实（100%）；完全干净文件 35/35；正文章节 0 提取 5；总览 0 提取转交 1；--full 整串取证 1 ===
 
 === ② check_vocab（词汇真实性/例句/分档）===
-词条行合计: 545
+词条行合计: 543
 --- FAIL (0) ---
---- WARN (51) ---
+--- WARN (49) ---
 
 === ③ check_entities（梗概实体一致性）===
 === 实体一致性检测：0 个文件存在未知实体 ===
@@ -20,7 +20,7 @@
   报告 0 处（中文重复片段 / 句中插入 / 占位崩坏）——**不判红，需人工判**
 
 === ⑤ sweep_full（引语整串 flat）===
-  ✅ 本章命中 100 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 13 ｜ ❌ 全书查无 0
+  ✅ 本章命中 99 ｜ ⚠️ 跨章 0 ｜ 🔶 跨标签拼接 14 ｜ ❌ 全书查无 0
 
 === ⑥ check_short_quotes（<20 字符短引语兜底）===
   ✅ 命中 6 ｜ ⚠️ 在别的章 0 ｜ 🔶 跨标签拼接 0 ｜ 🔧 B类语料缺 0 ｜ ❌ 全书查无 0
@@ -53,16 +53,16 @@ ch23 Twenty-Two.md                               MISS: 星期三早上，Ellie�
 ch24 Twenty-Three.md                             MISS: Ellie和Bunny赶到机场。Frank已经在那里——他在几个小时前就出发了，航班在一小时后起飞。Frank说他的婚姻已经结束了（"According to 
 ch25 Twenty-Four.md                              MISS: Ellie回到家，发现Jonah在门廊等她。他们散步穿过小镇——经过他们第一次的公寓、他们的第一套房子、Maggie的小学。Jonah告诉她：他从周一早上就认出
 ch26 Twenty-Five.md                              MISS: Ellie带Jonah来到她的书店Magnolia。Gabby见到Jonah，一个小女孩走进书店，她的笑容和小时候的Maggie一模一样——Ellie脱口说"我
-ch27 Twenty-Six.md                               MISS: Ellie和Jonah回到家。他们吵架——Jonah问她关于Jack的事，Ellie说她不知道什么是真的。"I want to go back to the s
+ch27 Twenty-Six.md                               MISS: Ellie和Jonah回到家。他们吵架——Jonah问她关于Jack的事，Ellie说她不知道什么是真的。"I want to go back," she wh
 ch28 Twenty-Seven.md                             MISS: 医院深夜。Frank说对了——Bunny确实病了：病毒、高烧、退不下来，Ellie坐在母亲病床旁的椅子上，浑身发冷。Bunny的皮肤"practically t
 ch29 Twenty-Eight.md                             MISS: 又是深夜。Ellie开车满城找Jonah，方向灯"Click, click, click."，但"The traffic lights keep blinkin
 ch30 Twenty-Nine.md                              MISS: 车祸后的急诊。Jonah 的身体"looks like it's sprouted new limbs"，"Ever since the accident, h
 ch31 Thirty.md                                   MISS: Jonah 独自躺在病床上，眼睛仍闭着，机器们用"a whole electronic language"互相通报他体内的情况。Ellie 先回 Bunny 病
-ch32 Thirty-One.md                               MISS: Ellie醒来，发现Jonah回来了。Bunny还在医院，Frank、Maggie和Ellie必须决定是否继续他们的Florida计划。他们最终决定取消航班，留
-ch33 Thirty-Two.md                               MISS: Ellie和Jonah在机场准备登机去Florida。Bunny还在医院，Frank、Maggie和Ellie必须决定是否继续他们的计划。Ellie在机场洗手间
-ch34 Thirty-Three.md                             MISS: Ellie和Jonah降落在Florida。他们在机场相遇Maggie——家庭团聚。他们看到Frank拿着"The Baker Family"的牌子在外面等着。
+ch32 Thirty-One.md                               MISS: Ellie醒来，发现自己独自躺在床上——她几乎一夜没睡，身上到处都疼。她逼自己起身、洗澡，然后在浴室地上坐了下来。她必须回医院，去看看这一周里到底发生了什么。有
+ch33 Thirty-Two.md                               MISS: Ellie和Jonah在Newark机场准备登机去Florida。Bunny还在医院，但他们仍按原计划出发。值机时Ellie发现自己的手机不见了，只好改办纸质登
+ch34 Thirty-Three.md                             MISS: Ellie和Jonah降落在Florida，与来接机的Maggie在机场团聚。行李提取处旁，一位穿皱衬衫、举着"The Baker Family"牌子的司机在等
 ch35 Thirty-Four.md                              MISS: Ellie、Maggie和Jonah到达Florida的公寓。Bunny和Frank在那里等着——他们已经"退休"了，住在Florida。Ellie和Maggi
-ch36 Thirty-Five.md                              MISS: Saturday——全家人一起去Florida度假。他们在一起，没有"分裂"的消息。Shelia带着奶油泡芙来访——她失去了儿子Johnnie（Jack）。El
+ch36 Thirty-Five.md                              MISS: Saturday——全家人一起去Florida度假。他们在一起，没有"分裂"的消息。Shelia带着奶油泡芙来访，提到"我的Johnnie"。Ellie追问她儿
 ch37 Thirty-Six.md                               MISS: Sunday——Ellie、Maggie和Jonah准备离开Florida回家。Bunny说她有"预感"他们会带坏消息来，但结果不是。Ellie和Bunny在厨
 ch38 Thirty-Seven.md                             MISS: Sunday——Ellie、Maggie和Jonah在机场。Maggie的航班正常起飞（和"另一个世界"相反）。Ellie说她想去书店打工——她说"I was 
 （逐章归属：全部 X/X in 本章 text）
@@ -76,7 +76,7 @@ ch38 Thirty-Seven.md                             MISS: Sunday——Ellie、Maggi
 
 === ⑩ sweep_analysis_inline（分析层行内英文）===
 === 分析层行内英文逐字核查（some-other-time-by-angela-brown）===
-  ✅ 逐字 1966 ｜ ⚠️ 跨章 19 ｜ 🔶 拼接 12 ｜ 🟠 部分命中 55 ｜ 🟡 词形 2 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1900
+  ✅ 逐字 1994 ｜ ⚠️ 跨章 20 ｜ 🔶 拼接 17 ｜ 🟠 部分命中 38 ｜ 🟡 词形 2 ｜ ⚪ 术语 0 ｜ 🔧B类语料缺 0 ｜ ❌ 零命中 0 ｜ 跳过 1901
 
 === ⑪ audit_structure（结构；子项检查是假阴性高发点，0 不等于齐）===
   本书主流子项（自推断，不套外部模板）：中文理解、为什么这样写、关键词、句子结构 ｜ 引语众数 6
@@ -84,7 +84,7 @@ ch38 Thirty-Seven.md                             MISS: Sunday——Ellie、Maggi
 
 === ⑫ check_anchor（关键词锚定）===
   ❌ 凭空造词 0 处（词全书查无）
-  ⚠️ 松散关键词 14 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
+  ⚠️ 松散关键词 2 处（词在全书内、只是不在本引语块——多半是中译英或章内他处）
   ── 松散关键词明细 ──
 
 === ⑬ 空段扫描（必备章节标题在 ≠ 内容在）===
@@ -99,12 +99,12 @@ ch38 Thirty-Seven.md                             MISS: Sunday——Ellie、Maggi
 ⚠️ 「口径外」= 工具收不到该文件的引语格式 ⇒ 这些引语**未经任何核验**，不是「已核且干净」。按 8.5c 先怀疑工具：确认格式后扩展 extract_quotes，或人工逐条核。
 
 === ⑮ check_overview_full（章节标签对账 + H1 语义；条件性）===
-  ⚠️ 00_金句精选.md:159  跨标签拼接：I miss you, too, Mom. But I know you and Dad are e
+  ⚠️ 00_金句精选.md:159  跨标签拼接：I miss you, too, Mom … But I know you and Dad are 
 
 === ⑯ check_xref_chapter（分析层跨章指认；❌阻断 / ⚠️须人工读行）===
 === 分析层跨章指认核对（some-other-time-by-angela-brown）===
   参照集：text/（38 个提取件） + epub 交叉验证 ；只认「chNN 后 20 字符内、且不跨中文分句标点」的反引号片段
-  ✅ 归章正确 0 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
+  ✅ 归章正确 1 ｜ ❌ 伪造（全书查无）0 ｜ ⚠️ 移章（不在被引章）0
 
 === ⑰ check_quote_blocks（引语块结构：前缀/编号/孤儿/泄漏）===
 === 引语块结构对账（some-other-time-by-angela-brown）===
