@@ -1,57 +1,39 @@
-# 46. The CIA Briefing
+# 46. The CIA Director
 
-## 章节概述
+## 概述
 
-Jack Kennedy 在 Hyannis Port 家中接受 CIA 局长 Allen Dulles 的秘密简报，内容涵盖美苏导弹差距、Gabe Russo 在墨西哥城的调查任务，以及针对古巴的 covert options。Dulles 透露 CIA 曾为 Gabe 成立掩护公司，Gabe 负责调查可能被敌方渗透的特工；他曾在墨西哥城调查两名特工，并曾帮 CIA 处理过一名双面间谍 Victor Diaz。对于 Gabe 遇害，Dulles 表示动机不明。简报结束时，Dulles 暗示 LBJ 对 Jack 的敌意。
+CIA 局长 Allen Dulles 飞赴 Hyannis Port，在肯尼迪家向 Jack 做竞选机密简报。Jack 从 Dulles 处探问 Gabe Russo 案与古巴动向，Dulles 透露 Gabe 曾为中情局调查潜伏特工，并亲述 Tiffany 雪茄盒的"飞行幻想"——一份送给卡斯特罗的礼物。Jack 还就电话窃听与 LBJ 暗中敲打 Dulles，后者则以"华盛顿没有秘密"作答。
+
+## 精读
+
+> "People working in intelligence neither think nor behave as everyone else, so discerning motives is dicey."
+
+**句子结构**：复合句，主句 + so 引导的结果从句。"People working in intelligence"是独立主语结构，过去分词短语作定语；"neither think nor behave as everyone else"平行结构；"so discerning motives is dicey"中动名词短语作主语。
+
+**关键词**：discerning / motives / dicey
+
+**为什么这样写**：Dulles 借这句为整场 briefing 定调——情报世界有其独特逻辑，Jack 不应期待常规动机分析。这既是实话，也是他拒绝透露更多信息的修辞屏障。
+
+---
+
+> "I never met Miss Lewison. She engraved a cigar box from Tiffany, a gift for Castro to mark his visit this fall."
+
+**句子结构**：主语 + 两个并列陈述句，均用过去时。"a gift for Castro"是 box 的同位语。
+
+**关键词**：engraved / cigar box / Tiffany
+
+**为什么这样写**：Dulles 以"我从未见过 Lewison"撇清关系，却紧接着供出雪茄盒的细节——他知道的远比声称的多，话语间透出情报官员特有的"选择性坦白"。
+
+---
+
+> "Beyond the pale. In Ireland, the English had pales driven into the ground to delineate the area of the king's rule. If you went beyond them, your fate was in the hands of surly Irish peasants—my ancestors."
+
+**句子结构**：短句引出 → 过去进行时描述历史行为（"had pales driven"是 have 结构，使役式）→ 条件句 → 名词短语作同位语（"my ancestors"）。
+
+**关键词**：pale / delineate / surly
+
+**为什么这样写**：Jack 用爱尔兰典故回击 Dulles 的"beyond the pale"——把殖民者划定的边界倒转成自己的族裔资本，既是机锋也是身份政治。
 
 ## 词汇
 
-**trailing** ⭐⭐⭐ /ˈtreɪlɪŋ/ vt. 落后于（选举中的支持率）
-
-Jack 以一种轻松的口吻承认自己在民调中落后——这是一种政治策略性示弱。
-
-> "The polls have me trailing Nixon. But the second you read a poll, it's out of date."
-
-**pale** ⭐⭐⭐ /peɪl/ n. 边界；管辖范围；beyond the pale 越界、过分
-
-Dulles 用"beyond the pale"形容 Jack 用 CIA 丑闻威胁他的做法，而 Jack 随即追溯了这个短语的历史渊源——英格兰人在爱尔兰打下"pale"木桩划定管辖区域，越过即为"化外"。
-
-> "That's beyond the pale, wouldn't you say?"
-
-**co-opt** ⭐⭐⭐ /koʊˈɑpt/ vt. 拉拢、收买（使为已用）
-
-CIA 的核心担忧：被渗透的特工和资产已被敌方 co-opted。
-
-> "He investigated agents and assets to make certain they were safe and hadn't been co-opted by our adversaries."
-
-**glower** ⭐⭐ /ˈɡlaʊər/ vi. 怒目而视
-
-Dulles 被问到 CIA 是否在窃听 Jack 的电话时，怒目而视。
-
-> "Dulles stopped walking. So did Jack, and the director was glowering at him when he said..."
-
-## 句子结构
-
-**长难句——政策博弈的微妙平衡**
-
-Jack 在简报中始终保持着一种双重角色：既是候选人，又是情报需求的施压者。
-
-> "Jack asked, 'How serious is our missile gap?' Dulles removed his wire-rimmed glasses, rubbed the bridge of his nose, and then put the glasses back on. 'The Pentagon would have a better handle on that.'"
-
-Jack 提问是为了试探 Dulles 是来"说实话"还是"走过场"——从回答来看，Dulles 属于后者。Jack 心里清楚 U-2 照片显示美国其实领先，所以他的"导弹差距"论完全是政治弹药。
-
-**对话分层——表面闲聊，实则审问**
-
-Jack 和 Dulles 在 porch 上关于 view 的寒暄（"Gorgeous"）之后，紧接着就是最尖锐的问题："Allen, who shot Gabe Russo?" 表面的礼貌是政治需要的包装。
-
-> "Gorgeous," Dulles said when they were seated on the porch with Nantucket Sound sparkling before them. Jack knew the CIA director wasn't going to like his questions..."
-
-## 关键细节
-
-**雪茄盒与卡斯特罗**：Dulles 透露 Hannah Lewison 为卡斯特罗雕刻了一个 Tiffany 雪茄盒礼物，Jack 怀疑里面装的是塑料炸药。Dulles 否认，说那只是"flight of fancy"（一时兴起的念头），无法在纽约 neutralized Castro。
-
-**Gabe 的真实任务**：Gabe 为 CIA 调查两名被扣押的特工是否被古巴或苏联监视；调查结论是"未被监视"。他还通过线人发现 Victor Diaz 在武器运送中两面操作，于是被 CIA 派去 Manhattan 将其"neutralized"。Diaz 的死可能是报复动机。
-
-**电话窃听**：Jack 直接问 Dulles"CIA 是否在窃听我的电话"，Dulles 断然否认，并暗示这是 FBI 的活儿。
-
-**LBJ 的敌意**：Dulles 引用 LBJ 的话——"I got more pussy than that skinny rich boy ever thought about getting"——暗示 LBJ 对 Jack 的怨恨可能是真实的政治风险。
+**dicey** ⭐⭐⭐ 高级｜/ˈdaɪsi/ adj. 不可靠的；冒险的，取决于运气的｜原文例句：discerning motives is dicey｜Jack 说情报工作动机难辨，Dulles 借此暗示 Gabe 之死或许无法用常规逻辑解释。
