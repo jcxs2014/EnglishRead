@@ -62,21 +62,19 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-14 20:18 UTC] [MiniMax-Mac] → All
 
-**《That's Not My Name》Megan Lally · 精读完工**
+**《That's Not My Name》Megan Lally · 精读完工 + 五步审查完成**（`thats-not-my-name-by-megan-lally`）
 
-- 30 章正文 + 总览三篇 = 33 md（text/ 31 件）
-- lane：完整 lane（有 epub），判据全部成立
-- 终验 `bash scripts/gate.sh`：**正门结论 0 条阻断型，退出码 0**
-- verify_quotes 150/150（100%，30/30 干净）· 逐章归属 30 章全部 X/X in 本章 text · 块覆盖 ✅ 30 文件
-- check_vocab 489 词条行 / FAIL 0 · check_entities 未知实体 0 · corruption_scan FAIL 0
-- sweep_full 本章 150 / 跨章 0 / 拼接 0 / 全书查无 0 · check_quote_blocks 前缀完整·编号连续·无孤儿·无泄漏
-- audit_structure 结构缺陷 0 · check_anchor 凭空造词 0 · check_xref_chapter 归章正确 15 / 伪造 0 · 空段扫描 0
-- 总览门禁：verify_overview_quotes 33/33（金句 18/18 · 节点 15/15）· check_overview_full A 整串命中 74 / ❌ 查无 0 / B 标签对 74 / 不符 0 / H1 错配 0
-- 抽查（8.4 不阻塞）：sweep_analysis_inline ❌ 零命中 0（🟠 2 为刻意对比词）· check_block_keywords 提示型 1（规则 9b 允许）
-- 整改 3 处：ch22 词条 `incompetence`→`incompetent`（原文真实词形）· 15 文件引语撇号统一为原文弯撇号 · 5 文件分析层英文转述改中文
-- 门禁原件：`.memory/raw-gates/thats-not-my-name-by-megan-lally/`（7 件）
-- commits 13 次（`bf6209129` → `93c9b309d`），**未 push**
-- 五步审查未做（待用户发起）
+- 30 章正文 + 总览三篇 = 33 md（text/ 31 件）· lane：完整 lane（有 epub）
+- 【完工】`gate.sh` 正门 **0 条阻断型 / 退出码 0**：verify_quotes 163/163（100%，31/31 干净）· check_vocab 489 行 FAIL 0 · entities 0 · corruption 0 · sweep_full 0 查无 0 拼接 · 逐章归属 30/30 · 块覆盖 ✅ · audit_structure 0 · check_anchor 0 · check_xref_chapter 0 · 总览 verify_overview_quotes 33/33 + check_overview_full 查无 0 / 标签不符 0 / H1 0
+- 【完工】整改 3 处：ch22 `incompetence`→`incompetent`（原文真实词形）· 15 文件引语撇号统一为原文弯撇号 · 5 文件分析层英文转述改中文
+- 【审查 2026-10-14 20:52 UTC】五步审查（用户发起，同会话）：a–e 全部执行；门禁全量重跑 + 逐章归属/跨章/总览**换第二实现**复核 + 4 批子代理语义二审 + 总览事实逐条回源
+- 【审查】结果：**阻断型 42 项（全改）/ 提示型 6（只记）/ 假红型 0**，22 文件 / 47 处修改行
+- 【审查】缺陷集中在**导航与分析层的事实·计数断言**（引语层与说话人层零缺陷）：ch24/ch30 的 Drew 句被归给 Madison 弧光、ch20 的 **Autumn** 台词被归给 Drew、ch01 场景误作"警局"（实为路边）、ch25「全书最短的一章」为假（ch28 更短）、10 处计数断言错（禁令 2）
+- 【审查】**门禁盲区实证**：总览层人物/POV 错配在 verify_overview_quotes 与 check_overview_full **全部不报**（二者只验逐字与"标签是否等于实际命中章"，对"谁在说/发生在哪一章"零覆盖）
+- 【审查】修复后复验：全套门禁重跑仍全绿（163/163、FAIL 0、结构 0、总览 33/33、粗体闭合 0 异常）
+- 【审查】同会话盲区如实标注：审查方与执行方同源，建议视情况另派异实例复核
+- 门禁原件：`.memory/raw-gates/thats-not-my-name-by-megan-lally/`（8 件）· 逐行明细见 `.memory/daily/2026-10-14.md`
+- commits 14 次（`bf6209129` → `be0ad4265`），**未 push**
 
 ### [2026-10-14 12:00 UTC] [DSH-Mac] → All
 
