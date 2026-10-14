@@ -27,9 +27,9 @@ source_text: "ch22_the_reckoning.txt"
 
 ---
 
-> **原句 2:** "This was a setup, Jonah. A trap."
+> **原句 2:** "This was a setup, Jonah," she says quietly. "A trap."
 
-**中文理解**：这是事先策划好的，Jonah。一个陷阱。
+**中文理解**：这是事先策划好的，Jonah——一个陷阱。
 
 **关键词**：setup、trap
 
