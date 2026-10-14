@@ -7,98 +7,6 @@ title: 书单（notes1）
 notes1 分站书籍清单，共 **302** 本，按体裁分类。主站书单见 englishread.jcxs2014.workers.dev。
 每个条目链接到本站对应书籍目录，精读内容以 `ch*.md` 逐章呈现。
 
-## 推理 / 悬疑
-共 37 本
-
-| 书名 | 作者 |
-|------|------|
-| [A Trade of Blood](books/mystery-thriller/a-trade-of-blood-by-robert-jackson-bennett/) | Robert Jackson Bennett |
-| [Abduction of a Slave](books/mystery-thriller/abduction-of-a-slave-by-dana-stabenow/) | Dana Stabenow |
-| [All the Lies They Told](books/mystery-thriller/all-the-lies-they-told-by-robin-mahle/) | Robin Mahle |
-| [Always the Quiet Ones](books/mystery-thriller/always-the-quiet-ones-by-jamie-lee-sogn/) | Jamie Lee Sogn |
-| [Before She Finds Me](books/mystery-thriller/before-she-finds-me-by-heather-chavez/) | Heather Chavez |
-| [Blue Arrow Island](books/mystery-thriller/blue-arrow-island-by-brenda-rothert/) | Brenda Rothert |
-| [Broken Light](books/mystery-thriller/broken-light-by-joanne-harris/) | Joanne Harris |
-| [Carry Me to My Grave](books/mystery-thriller/carry-me-to-my-grave-by-christopher-golden/) | Christopher Golden |
-| [Darling Girls](books/mystery-thriller/darling-girls-by-sally-hepworth/) | Sally Hepworth |
-| [Forest of Scars](books/mystery-thriller/forest-of-scars-by-dan-padavona/) | Dan Padavona |
-| [Fox](books/mystery-thriller/fox-by-joyce-carol-oates/) | Joyce Carol Oates |
-| [Funerals Are for the Living](books/mystery-thriller/funerals-are-for-the-living-by-sami-ellis/) | Sami Ellis |
-| [Guilty Until Innocent](books/mystery-thriller/guilty-until-innocent-by-robert-whitlow/) | Robert Whitlow |
-| [House of Glass](books/mystery-thriller/house-of-glass-by-sarah-pekkanen/) | Sarah Pekkanen |
-| [How to Solve Your Own Murder](books/mystery-thriller/how-to-solve-your-own-murder-by-kristen-perrin/) | Kristen Perrin |
-| [I Found a Body](books/mystery-thriller/i-found-a-body-by-becky-c-brynolf/) | Becky C. Brynolf |
-| [In the Woods They Wait](books/mystery-thriller/in-the-woods-they-wait-by-carrie-lee-south/) | Carrie Lee South |
-| [Lost](books/mystery-thriller/lost-by-jenn-bullard/) | Jenn Bullard |
-| [Lottery of Secrets](books/mystery-thriller/lottery-of-secrets-by-nadija-mujagic/) | Nadija Mujagic |
-| [Mazywood](books/mystery-thriller/mazywood-by-tananarive-due/) | Tananarive Due |
-| [Natural Selection](books/mystery-thriller/natural-selection-by-clare-edge/) | Clare Edge |
-| [She's a Doll](books/mystery-thriller/shes-a-doll-by-barbara-truelove/) | Barbara Truelove |
-| [Silenced](books/mystery-thriller/silenced-by-ann-claycomb/) | Ann Claycomb |
-| [Star Circle](books/mystery-thriller/star-circle-by-davis-bunn/) | Davis Bunn |
-| [The Burnings](books/mystery-thriller/the-burnings-by-naomi-kelsey/) | Naomi Kelsey |
-| [The Color of Death](books/mystery-thriller/the-color-of-death-by-trey-gowdy/) | Trey Gowdy |
-| [The Disappearers](books/mystery-thriller/the-disappearers-by-marlon-james/) | Marlon James |
-| [The Drowning Woman](books/mystery-thriller/the-drowning-woman-by-robyn-harding/) | Robyn Harding |
-| [The Girl from the War Room](books/mystery-thriller/the-girl-from-the-war-room-by-catherine-law/) | Catherine Law |
-| [The Italian Secret](books/mystery-thriller/the-italian-secret-by-tara-moss/) | Tara Moss |
-| [The Ruins](books/mystery-thriller/the-ruins-by-steve-wick/) | Steve Wick |
-| [The Stolen Queen](books/mystery-thriller/the-stolen-queen-by-fiona-davis/) | Fiona Davis |
-| [The Teacher](books/mystery-thriller/the-teacher-by-freida-mcfadden/) | Freida McFadden |
-| [The Whispers](books/mystery-thriller/the-whispers-by-ashley-audrain/) | Ashley Audrain |
-| [The Wrong Sister](books/mystery-thriller/the-wrong-sister-by-claire-douglas/) | Claire Douglas |
-| [Venus Fly Trap](books/mystery-thriller/venus-fly-trap-by-emma-medrano/) | Emma Medrano |
-| [Wolf Hour](books/mystery-thriller/wolf-hour-by-jo-nesbo/) | Jo Nesbo |
-
-## 非虚构
-共 43 本
-
-| 书名 | 作者 |
-|------|------|
-| [After a Funeral: A Memoir](books/non-fiction/after-a-funeral-by-diana-athill/) | Diana Athill |
-| [Against Everything](books/non-fiction/against-everything-by-mark-greif/) | Mark Greif |
-| [An Army Like No Other](books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/) | Haim Bresheeth-Zabner |
-| [An Expert Witness](books/non-fiction/an-expert-witness-by-sue-black/) | Sue Black |
-| [Becoming](books/non-fiction/becoming-by-michelle-obama/) | Michelle Obama |
-| [Behind the Beautiful Forevers](books/non-fiction/behind-the-beautiful-forevers-by-katherine-boo/) | Katherine Boo |
-| [Dark Psychology Secrets](books/non-fiction/dark-psychology-secrets-by-daniel-james-hollins/) | Daniel James Hollins |
-| [Dark Psychology Super ADVANCED](books/non-fiction/dark-psychology-super-advanced-by-richard-campbell/) | Richard Campbell |
-| [Don't Make Me Laugh](books/non-fiction/dont-make-me-laugh-by-julia-raeside/) | Julia Raeside |
-| [Everything Is F*cked](books/non-fiction/everything-is-fcked-by-mark-manson/) | Mark Manson |
-| [Exhausted: An A–Z for the Weary](books/non-fiction/exhausted-an-a-z-for-the-weary-by-anna-katharina-schaffner/) | Anna Katharina Schaffner |
-| [Exodus](books/non-fiction/exodus-by-paul-collier/) | Paul Collier |
-| [Herlands](books/non-fiction/herlands-by-megha-mohan/) | Megha Mohan |
-| [How to Be Resilient](books/non-fiction/how-to-be-resilient-by-gail-gazelle/) | Gail Gazelle |
-| [Inside the Box](books/non-fiction/inside-the-box/) | — |
-| [Language City](books/non-fiction/language-city-by-ross-perlin/) | Ross Perlin |
-| [Letters to a Friend](books/non-fiction/letters-to-a-friend-by-diana-athill/) | Diana Athill |
-| [Life in Three Dimensions](books/non-fiction/life-in-three-dimensions-by-shigehiro-oishi/) | Shigehiro Oishi |
-| [Livia Mother of Rome](books/non-fiction/livia-mother-of-rome-by-caitlin-c-gillespie/) | Caitlin C. Gillespie |
-| [Living on Paper](books/non-fiction/living-on-paper-by-iris-murdoch/) | Iris Murdoch |
-| [Living to Tell the Tale](books/non-fiction/living-to-tell-the-tale-by-gabriel-garcia-marquez/) | Gabriel García Márquez |
-| [Marilyn and Her Books](books/non-fiction/marilyn-and-her-books-by-gail-crowther/) | Gail Crowther |
-| [Memory Speaks](books/non-fiction/memory-speaks-by-julie-sedivy/) | Julie Sedivy |
-| [My Brilliant Sister](books/non-fiction/my-brilliant-sister-by-amy-brown/) | Amy Brown |
-| [Nexus](books/non-fiction/nexus-by-yuval-noah-harari/) | Yuval Noah Harari |
-| [No Judgment](books/non-fiction/no-judgment-by-lauren-oyler/) | Lauren Oyler |
-| [Notes on Grief](books/non-fiction/notes-on-grief-by-chimamanda-ngozi-adichie/) | Chimamanda Ngozi Adichie |
-| [One Way Back](books/non-fiction/one-way-back-by-christine-blasey-ford/) | Christine Blasey Ford |
-| [Pax Economica](books/non-fiction/pax-economica-by-marc-william-palen/) | Marc-William Palen |
-| [Possible](books/non-fiction/possible-by-william-ury/) | William Ury |
-| [Recollections of My Nonexistence](books/non-fiction/recollections-of-my-nonexistence-by-rebecca-solnit/) | Rebecca Solnit |
-| [Red Memory](books/non-fiction/red-memory-by-tania-branigan/) | Tania Branigan |
-| [Russia's Man of War](books/non-fiction/russias-man-of-war-by-cathy-scott-clark/) | Cathy Scott-Clark |
-| [Smartass](books/non-fiction/smartass-by-emily-sayre-smith/) | Emily Sayre Smith |
-| [Smoke and Ashes](books/non-fiction/smoke-and-ashes-by-amitav-ghosh/) | Amitav Ghosh |
-| [Somewhere Towards the End](books/non-fiction/somewhere-towards-the-end-by-diana-athill/) | Diana Athill |
-| [Splinters](books/non-fiction/splinters-by-leslie-jamison/) | Leslie Jamison |
-| [Ten Bridges I've Burnt](books/non-fiction/ten-bridges-ive-burnt-by-brontez-purnell/) | Brontez Purnell |
-| [The Dolphin in the Mirror](books/non-fiction/the-dolphin-in-the-mirror-by-diana-reiss/) | Diana Reiss |
-| [What Happened to You?](books/non-fiction/what-happened-to-you-by-oprah-winfrey-and-bruce-perry/) | Oprah Winfrey & Bruce Perry |
-| [What the Bees See](books/non-fiction/what-the-bees-see-by-craig-burrows/) | Craig Burrows |
-| [Why We Sleep](books/non-fiction/why-we-sleep-by-matthew-walker/) | Matthew Walker |
-| [Wow, No Thank You](books/non-fiction/wow-no-thank-you-by-samantha-irby/) | Samantha Irby |
-
 ## 长篇小说
 共 201 本
 
@@ -306,29 +214,121 @@ notes1 分站书籍清单，共 **302** 本，按体裁分类。主站书单见 
 | [You Did Nothing Wrong](books/novels/you-did-nothing-wrong-by-c-g-drews/) | C. G. Drews |
 | [Your Boyfriend Needs an Exorcist](books/novels/your-boyfriend-needs-an-exorcist-by-justine-pucella-winans/) | Justine Pucella Winans |
 
+## 推理 / 悬疑
+共 37 本
+
+| 书名 | 作者 |
+|------|------|
+| [A Trade of Blood](books/mystery-thriller/a-trade-of-blood-by-robert-jackson-bennett/) | Robert Jackson Bennett |
+| [Abduction of a Slave](books/mystery-thriller/abduction-of-a-slave-by-dana-stabenow/) | Dana Stabenow |
+| [All the Lies They Told](books/mystery-thriller/all-the-lies-they-told-by-robin-mahle/) | Robin Mahle |
+| [Always the Quiet Ones](books/mystery-thriller/always-the-quiet-ones-by-jamie-lee-sogn/) | Jamie Lee Sogn |
+| [Before She Finds Me](books/mystery-thriller/before-she-finds-me-by-heather-chavez/) | Heather Chavez |
+| [Blue Arrow Island](books/mystery-thriller/blue-arrow-island-by-brenda-rothert/) | Brenda Rothert |
+| [Broken Light](books/mystery-thriller/broken-light-by-joanne-harris/) | Joanne Harris |
+| [Carry Me to My Grave](books/mystery-thriller/carry-me-to-my-grave-by-christopher-golden/) | Christopher Golden |
+| [Darling Girls](books/mystery-thriller/darling-girls-by-sally-hepworth/) | Sally Hepworth |
+| [Forest of Scars](books/mystery-thriller/forest-of-scars-by-dan-padavona/) | Dan Padavona |
+| [Fox](books/mystery-thriller/fox-by-joyce-carol-oates/) | Joyce Carol Oates |
+| [Funerals Are for the Living](books/mystery-thriller/funerals-are-for-the-living-by-sami-ellis/) | Sami Ellis |
+| [Guilty Until Innocent](books/mystery-thriller/guilty-until-innocent-by-robert-whitlow/) | Robert Whitlow |
+| [House of Glass](books/mystery-thriller/house-of-glass-by-sarah-pekkanen/) | Sarah Pekkanen |
+| [How to Solve Your Own Murder](books/mystery-thriller/how-to-solve-your-own-murder-by-kristen-perrin/) | Kristen Perrin |
+| [I Found a Body](books/mystery-thriller/i-found-a-body-by-becky-c-brynolf/) | Becky C. Brynolf |
+| [In the Woods They Wait](books/mystery-thriller/in-the-woods-they-wait-by-carrie-lee-south/) | Carrie Lee South |
+| [Lost](books/mystery-thriller/lost-by-jenn-bullard/) | Jenn Bullard |
+| [Lottery of Secrets](books/mystery-thriller/lottery-of-secrets-by-nadija-mujagic/) | Nadija Mujagic |
+| [Mazywood](books/mystery-thriller/mazywood-by-tananarive-due/) | Tananarive Due |
+| [Natural Selection](books/mystery-thriller/natural-selection-by-clare-edge/) | Clare Edge |
+| [She's a Doll](books/mystery-thriller/shes-a-doll-by-barbara-truelove/) | Barbara Truelove |
+| [Silenced](books/mystery-thriller/silenced-by-ann-claycomb/) | Ann Claycomb |
+| [Star Circle](books/mystery-thriller/star-circle-by-davis-bunn/) | Davis Bunn |
+| [The Burnings](books/mystery-thriller/the-burnings-by-naomi-kelsey/) | Naomi Kelsey |
+| [The Color of Death](books/mystery-thriller/the-color-of-death-by-trey-gowdy/) | Trey Gowdy |
+| [The Disappearers](books/mystery-thriller/the-disappearers-by-marlon-james/) | Marlon James |
+| [The Drowning Woman](books/mystery-thriller/the-drowning-woman-by-robyn-harding/) | Robyn Harding |
+| [The Girl from the War Room](books/mystery-thriller/the-girl-from-the-war-room-by-catherine-law/) | Catherine Law |
+| [The Italian Secret](books/mystery-thriller/the-italian-secret-by-tara-moss/) | Tara Moss |
+| [The Ruins](books/mystery-thriller/the-ruins-by-steve-wick/) | Steve Wick |
+| [The Stolen Queen](books/mystery-thriller/the-stolen-queen-by-fiona-davis/) | Fiona Davis |
+| [The Teacher](books/mystery-thriller/the-teacher-by-freida-mcfadden/) | Freida McFadden |
+| [The Whispers](books/mystery-thriller/the-whispers-by-ashley-audrain/) | Ashley Audrain |
+| [The Wrong Sister](books/mystery-thriller/the-wrong-sister-by-claire-douglas/) | Claire Douglas |
+| [Venus Fly Trap](books/mystery-thriller/venus-fly-trap-by-emma-medrano/) | Emma Medrano |
+| [Wolf Hour](books/mystery-thriller/wolf-hour-by-jo-nesbo/) | Jo Nesbo |
+
+## 非虚构
+共 43 本
+
+| 书名 | 作者 |
+|------|------|
+| [After a Funeral: A Memoir](books/non-fiction/after-a-funeral-by-diana-athill/) | Diana Athill |
+| [Against Everything](books/non-fiction/against-everything-by-mark-greif/) | Mark Greif |
+| [An Army Like No Other](books/non-fiction/an-army-like-no-other-by-haim-bresheeth-zabner/) | Haim Bresheeth-Zabner |
+| [An Expert Witness](books/non-fiction/an-expert-witness-by-sue-black/) | Sue Black |
+| [Becoming](books/non-fiction/becoming-by-michelle-obama/) | Michelle Obama |
+| [Behind the Beautiful Forevers](books/non-fiction/behind-the-beautiful-forevers-by-katherine-boo/) | Katherine Boo |
+| [Dark Psychology Secrets](books/non-fiction/dark-psychology-secrets-by-daniel-james-hollins/) | Daniel James Hollins |
+| [Dark Psychology Super ADVANCED](books/non-fiction/dark-psychology-super-advanced-by-richard-campbell/) | Richard Campbell |
+| [Don't Make Me Laugh](books/non-fiction/dont-make-me-laugh-by-julia-raeside/) | Julia Raeside |
+| [Everything Is F*cked](books/non-fiction/everything-is-fcked-by-mark-manson/) | Mark Manson |
+| [Exhausted: An A–Z for the Weary](books/non-fiction/exhausted-an-a-z-for-the-weary-by-anna-katharina-schaffner/) | Anna Katharina Schaffner |
+| [Exodus](books/non-fiction/exodus-by-paul-collier/) | Paul Collier |
+| [Herlands](books/non-fiction/herlands-by-megha-mohan/) | Megha Mohan |
+| [How to Be Resilient](books/non-fiction/how-to-be-resilient-by-gail-gazelle/) | Gail Gazelle |
+| [Inside the Box](books/non-fiction/inside-the-box/) | — |
+| [Language City](books/non-fiction/language-city-by-ross-perlin/) | Ross Perlin |
+| [Letters to a Friend](books/non-fiction/letters-to-a-friend-by-diana-athill/) | Diana Athill |
+| [Life in Three Dimensions](books/non-fiction/life-in-three-dimensions-by-shigehiro-oishi/) | Shigehiro Oishi |
+| [Livia Mother of Rome](books/non-fiction/livia-mother-of-rome-by-caitlin-c-gillespie/) | Caitlin C. Gillespie |
+| [Living on Paper](books/non-fiction/living-on-paper-by-iris-murdoch/) | Iris Murdoch |
+| [Living to Tell the Tale](books/non-fiction/living-to-tell-the-tale-by-gabriel-garcia-marquez/) | Gabriel García Márquez |
+| [Marilyn and Her Books](books/non-fiction/marilyn-and-her-books-by-gail-crowther/) | Gail Crowther |
+| [Memory Speaks](books/non-fiction/memory-speaks-by-julie-sedivy/) | Julie Sedivy |
+| [My Brilliant Sister](books/non-fiction/my-brilliant-sister-by-amy-brown/) | Amy Brown |
+| [Nexus](books/non-fiction/nexus-by-yuval-noah-harari/) | Yuval Noah Harari |
+| [No Judgment](books/non-fiction/no-judgment-by-lauren-oyler/) | Lauren Oyler |
+| [Notes on Grief](books/non-fiction/notes-on-grief-by-chimamanda-ngozi-adichie/) | Chimamanda Ngozi Adichie |
+| [One Way Back](books/non-fiction/one-way-back-by-christine-blasey-ford/) | Christine Blasey Ford |
+| [Pax Economica](books/non-fiction/pax-economica-by-marc-william-palen/) | Marc-William Palen |
+| [Possible](books/non-fiction/possible-by-william-ury/) | William Ury |
+| [Recollections of My Nonexistence](books/non-fiction/recollections-of-my-nonexistence-by-rebecca-solnit/) | Rebecca Solnit |
+| [Red Memory](books/non-fiction/red-memory-by-tania-branigan/) | Tania Branigan |
+| [Russia's Man of War](books/non-fiction/russias-man-of-war-by-cathy-scott-clark/) | Cathy Scott-Clark |
+| [Smartass](books/non-fiction/smartass-by-emily-sayre-smith/) | Emily Sayre Smith |
+| [Smoke and Ashes](books/non-fiction/smoke-and-ashes-by-amitav-ghosh/) | Amitav Ghosh |
+| [Somewhere Towards the End](books/non-fiction/somewhere-towards-the-end-by-diana-athill/) | Diana Athill |
+| [Splinters](books/non-fiction/splinters-by-leslie-jamison/) | Leslie Jamison |
+| [Ten Bridges I've Burnt](books/non-fiction/ten-bridges-ive-burnt-by-brontez-purnell/) | Brontez Purnell |
+| [The Dolphin in the Mirror](books/non-fiction/the-dolphin-in-the-mirror-by-diana-reiss/) | Diana Reiss |
+| [What Happened to You?](books/non-fiction/what-happened-to-you-by-oprah-winfrey-and-bruce-perry/) | Oprah Winfrey & Bruce Perry |
+| [What the Bees See](books/non-fiction/what-the-bees-see-by-craig-burrows/) | Craig Burrows |
+| [Why We Sleep](books/non-fiction/why-we-sleep-by-matthew-walker/) | Matthew Walker |
+| [Wow, No Thank You](books/non-fiction/wow-no-thank-you-by-samantha-irby/) | Samantha Irby |
+
 ## 短篇合集
 共 21 本
 
 | 书名 | 作者 |
 |------|------|
-| [100 Great Short Stories](books/short-story-anthologies/100%20Great%20Short%20Stories%20by%20James%20Daley/) | James Daley |
+| [100 Great Short Stories](books/short-story-anthologies/100-great-short-stories-by-james-daley/) | James Daley |
 | [Battleborn](books/short-story-anthologies/battleborn-by-clare-vaye-watkins/) | Clare Vaye Watkins |
-| [Empty Bottles Full of Stories](books/short-story-anthologies/Empty%20Bottles%20Full%20of%20Stories%20by%20R%20H%20Sin/) | R H Sin |
+| [Empty Bottles Full of Stories](books/short-story-anthologies/empty-bottles-full-of-stories-by-r-h-sin/) | R.H. Sin |
 | [Fold Catastrophes](books/short-story-anthologies/fold-catastrophes-by-peter-watts/) | Peter Watts |
 | [Hateship, Friendship, Courtship, Loveship, Marriage](books/short-story-anthologies/hateship-friendship-courtship-loveship-marriage-by-alice-munro/) | Alice Munro |
-| [If You See Me Don't Say Hi](books/short-story-anthologies/If%20You%20See%20Me%20Don%27t%20Say%20Hi%20by%20Neel%20Patel/) | Neel Patel |
+| [If You See Me Don't Say Hi](books/short-story-anthologies/if-you-see-me-dont-say-hi-by-neel-patel/) | Neel Patel |
 | [Ligotti Collected Short Fiction](books/short-story-anthologies/ligotti-collected-short-fiction/) | Thomas Ligotti |
-| [Nabokov's Dozen](books/short-story-anthologies/Nabokov%27s%20Dozen%20by%20Vladimir%20Nabokov/) | Vladimir Nabokov |
+| [Nabokov's Dozen](books/short-story-anthologies/nabokovs-dozen-by-vladimir-nabokov/) | Vladimir Nabokov |
 | [Open Secrets](books/short-story-anthologies/open-secrets-by-alice-munro/) | Alice Munro |
 | [Out of Body Stories](books/short-story-anthologies/out-of-body-stories-by-chris-vanjonack/) | Chris Vanjonack |
 | [Revolution in the Heart](books/short-story-anthologies/revolution-in-the-heart-by-jonathan-strahan-ed/) | Jonathan Strahan (ed.) |
 | [Something I've Been Meaning to Tell You](books/short-story-anthologies/something-ive-been-meaning-to-tell-you-by-alice-munro/) | Alice Munro |
 | [Tales of Terror](books/short-story-anthologies/tales-of-terror-58-short-stories-chosen-by-the-master-of-suspense/) | — |
-| [The Best Short Stories 2024](books/short-story-anthologies/The%20Best%20Short%20Stories%202024%20by%20O%20Henry%20Prize/) | O Henry Prize |
+| [The Best Short Stories 2024](books/short-story-anthologies/the-best-short-stories-2024-by-o-henry-prize/) | O. Henry Prize |
 | [The Best Short Stories 2026](books/short-story-anthologies/the-best-short-stories-2026-by-o-henry-prize-winners/) | O. Henry Prize Winners |
-| [The Isolationist and Other Stories](books/short-story-anthologies/The%20Isolationist%20and%20Other%20Stories%20by%20V%20M%20Harrigan/) | V M Harrigan |
+| [The Isolationist and Other Stories](books/short-story-anthologies/the-isolationist-and-other-stories-by-v-m-harrigan/) | V.M. Harrigan |
 | [The Language of Knives](books/short-story-anthologies/the-language-of-knives-by-haralambi-markov/) | Haralambi Markov |
 | [The Passing of the Dragon](books/short-story-anthologies/the-passing-of-the-dragon-by-ken-liu/) | Ken Liu |
 | [The Secret Lives of Church Ladies](books/short-story-anthologies/the-secret-lives-of-church-ladies/) | — |
 | [The Wednesday Witches Book Club](books/short-story-anthologies/the-wednesday-witches-book-club-by-sarah-beth-durst/) | Sarah Beth Durst |
-| [Very Short Stories](books/short-story-anthologies/Very%20Short%20Stories%20by%20Sean%20Hill/) | Sean Hill |
+| [Very Short Stories](books/short-story-anthologies/very-short-stories-by-sean-hill/) | Sean Hill |
