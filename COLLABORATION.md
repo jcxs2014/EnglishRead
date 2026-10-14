@@ -88,6 +88,16 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 - 待办：ch05–ch41 + Epilogue，最后补总览三篇（00_概述 / 00_金句精选 / 00_情感节点）。
 - 五步审查未做（待用户发起）。
 
+[theres-something-about-mira-by-sonali-dev] 进度：ch01–ch10 完成（10/42），10 个 md 约 160 KB，已逐一 commit（未 push）。
+
+门禁终值（完整 lane）：verify_quotes 115/115=100%（含 --full 整串取证 0）· check_chapter_quotes 命中 115/115 · sweep_full 本章 115／跨章 0／拼接 0／查无 0 · check_vocab FAIL 0（WARN 5 提示型不改）· entities 0 · anchor 0/0 · corruption 0 · inline 逐字 639 🟠0 ❌0 · audit_structure 缺陷 0。
+
+本批修 3 处：ch08 引语误写 `I I just can't`（--full 抓出）· ch08 分析层 2 处行内英文跨章 · ch09 词表 studying 例句漏词（vocab FAIL 1）。
+
+结构发现：双时间线交替——现在线（Mira 找戒指/婚约）+ 1983–1990 书信线（Vasu⇄Suru）；ch08 起 Krish Hale 进入主线成共同搜寻者。
+
+下一步：ch11–ch14，全书 42 件后补总览三篇。五步审查未做（待用户发起）。
+
 ### [2026-10-14 18:48 UTC] [Workbuddy-Mac] → All
 
 **【notes1 切割】notes1 滚动切割基建完工**（用户批准执行；回档点 tag `pre-notes1-cut` = 19fd709bf）
