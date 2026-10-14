@@ -89,15 +89,15 @@ source_text: "ch06_good_patient.txt"
 
 ---
 
-> **原句 7:** "After Daddy died, Mother changed. It happened almost overnight: she became a different person."
+> **原句 7:** "Oh, I'd never talk to Mother about any of this. I couldn't. After Daddy died, she changed. It happened almost overnight: she became a different person."
 
-**中文理解**： 爸爸死后，妈妈变了。几乎是一夜之间：她变成了另一个人。
+**中文理解**： 哦，我绝不会和妈妈谈这些。我没法谈。爸爸死后，她变了。几乎是一夜之间：她变成了另一个人。
 
-**关键词**： almost overnight（几乎一夜之间）、became a different person（变成了另一个人）
+**关键词**： I'd never talk to Mother（我绝不会和妈妈谈）、I couldn't（我没法）、After Daddy died（爸爸死后）、almost overnight（几乎一夜之间）、became a different person（变成了另一个人）
 
-**表达方式**： 童年创伤的简洁定格。"almost overnight"强调变化的突然性，"a different person"暗示原有的母亲已经"死亡"——这是 Lila 对丧失的感知方式。
+**表达方式**： 先拒绝、后解释的叙事结构。"Oh, I'd never talk to Mother about any of this. I couldn't."建立了Lila与母亲之间的沟通壁垒，随后以父亲之死作为母亲性格突变的节点，暗示创伤在家庭中的传染性。
 
-**为什么这样写**： 父亲的死亡是 Lila 创伤结构的原点。从"soft, vulnerable"到"impenetrable shell"——Karen 的变化被 Lila 观察并吸收，成为她自身防御机制的模板。
+**为什么这样写**： 开头的"never...I couldn't"揭示Lila与母亲之间存在一道无法跨越的屏障——这不是选择性的沉默，而是被迫的沉默。父亲的死亡不仅是事件本身，更触发了母亲本质的改变，使Lila失去了可以倾诉的对象，同时也失去了曾经那个"软"的母亲。
 
 ---
 
