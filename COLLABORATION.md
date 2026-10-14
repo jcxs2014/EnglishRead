@@ -83,25 +83,19 @@ commit 2e7a26834 · 待push授权
 
 ### [2026-10-14 05:03 UTC] [Opencode-Mac] → All
 
-**《The Stolen Queen》（Fiona Davis）· 全书完工**（2026-10-14，Opencode-Mac，完整 lane，未 push）
+**《The Stolen Queen》（Fiona Davis，`the-stolen-queen-by-fiona-davis`）· 全书完工 + 五步审查**（2026-10-14，Opencode-Mac，完整 lane，未 push）
 
-- 规模：34/34 章 + 总览三篇 = **37 md**，`md 34 == text/ 34` 零偏移；引语块 253 · 词条 894 · 金句 25 · 情感节点 8（精简格式）
-- 语料验收 `verify_corpus` PASS（FAIL 0 / WARN 0，expect 34 来自 epub spine）；提取件 ch35 实为 Author's Note，已降级不占章号
-- 门禁：`gate.sh` **退出码 0（0 条阻断型）**；verify_quotes **277/277**、verify_overview_quotes **49/49**、check_vocab **FAIL 0**、check_entities **0**、corruption_scan **FAIL 0**、sweep_full **查无 0**、34 章逐章归属零跨章
-- 本批门禁外盲区自检修出：词汇例句直引号 10 处 · 分析/导航层非逐字英文 15 处 · 引语块章内顺序倒置 3 章 · 导航层 `／` 拼接串 1 处 · 重复 ch23 文件 1 个
-- 总览三篇由 `gen_overview.py` 程序化生成（引语全部取自已核实池，零手打英文）；独立脚本复核 101 个章号标注逐字且归章正确
-- 原始输出：`.memory/raw-gates/the-stolen-queen-by-fiona-davis/2026-10-14-gate_sh.txt`（gate.sh，111 行）＋ `2026-10-13-final_gates.txt`（逐条门禁 + 附加检查器，160 行）
-- **独立五步审查未做**（AGENTS 第 10 条：执行方不自动启动，待用户发起）
-- 明细见当日工作日志 `.memory/daily/2026-10-14.md`「The Stolen Queen」专节
-
-**独立五步审查结论（2026-10-14，同会话，用户发起）**
-
-- 引语层 **0 缺陷**：253 块逐字（含省略号尾片段）· 说话人反转 0 · 人称错配 0 · 引语截短 0 · 关键词锚定 253/253
-- **阻断型 7 条**（全在中文叙述层）：概述叙事结构「逐章轮换」与章节实际不符 · 金句㉓ ch28「屋顶摊牌」场景错（实为 Met Temple of Dendur 展厅）· 「青瓷女王」应为青金（lapis lazuli，3 处）· 情感节点「同一个月」应为「一个月后」· ch34「survival 或 survival」重复词 · ch14/金句中文混入 `still`
+- **完工**：34/34 章 + 总览三篇 = **37 md**（`md 34 == text/ 34` 零偏移）；引语块 253 · 词条 894 · 金句 25 · 情感节点 8；ch35 实为 Author's Note 已降级不占章号
+- **门禁**：`gate.sh` **退出码 0（0 条阻断型）**；verify_quotes **277/277**、verify_overview_quotes **49/49**、check_vocab **FAIL 0**、check_entities **0**、corruption_scan **FAIL 0**、sweep_full **查无 0**、34 章逐章归属零跨章
+- **写作期门禁外盲区自检**：词汇例句直引号 10 处 · 分析/导航层非逐字英文 15 处 · 引语块章内顺序倒置 3 章 · 导航层 `／` 拼接串 1 处 · 重复 ch23 文件 1 个
+- **总览三篇**由 `gen_overview.py` 程序化生成（引语取自已核实池，零手打英文）；独立脚本复核 101 个章号标注逐字且归章正确
+- **五步审查（同会话，用户发起）**：引语层 **0 缺陷**（253 块逐字含省略号尾片段 · 说话人反转 0 · 人称错配 0 · 引语截短 0 · 关键词锚定 253/253）
+- **阻断型 7 条**（全在中文叙述层）：概述叙事结构「逐章轮换」不符实际 · 金句㉓ ch28「屋顶摊牌」场景错（实为 Met Temple of Dendur 展厅）· 「青瓷女王」应为青金（lapis lazuli）· 情感节点「同一个月」应为「一个月后」· ch34「survival 或 survival」重复词 · ch14/金句中文混入 `still`
 - **提示型 5 条**：ch19「闪婚」实为订婚 · ch10「第一任馆长」属文本外 · 「废弃蓄水池地道」应为雨水渠 · 「踩碎物件」实为踩到木乃伊化的鹅 · ch11「1978 靠搭扣背面认出」措辞收紧
-- 整改后 `gate.sh` **退出码 0**、`corruption_scan` **0**；投毒测试 3 项均正常报警（先提交后投毒，已还原）
-- 原始输出与逐条清单：`.memory/raw-gates/the-stolen-queen-by-fiona-davis/2026-10-14-abcde_review_report.md`（＋同目录 a 步 / cd 第二实现 / 整改后终态 / 投毒四件）
-- 同会话盲区：a/b/c/e 与整改由写作方执行；d 步子代理 4 个中 1 个计数错误已作废重跑，建议异实例复核 d 步 ch10–34
+- **复扫追加**：12 条缺陷措辞全库复扫，新查出 **4 处复制体**（ch17/ch19/ch21 导航层，同一缺陷只改了总览侧）已补修 ⇒ 合计 **16 处落点**；教训：修复即同步须先全库 grep 旧措辞、改完复扫归零
+- **整改后** `gate.sh` 0、`corruption_scan` 0；投毒测试 3 项均正常报警（先提交后投毒，已还原）
+- **原始输出**：`.memory/raw-gates/the-stolen-queen-by-fiona-davis/`（结论全文 + a 步 + cd 第二实现 + 整改后终态 + 复扫 + 投毒）；明细见 `.memory/daily/2026-10-14.md` 本书专节
+- **同会话盲区**：a/b/c/e 与整改由写作方执行；d 步子代理 4 个中 1 个计数错误已作废重跑，建议异实例复核 d 步 ch10–34
 
 ### [2026-10-11 19:30 UTC] [Opencode-Mac] → All
 

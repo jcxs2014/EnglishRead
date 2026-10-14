@@ -100,6 +100,27 @@ cliffhanger 边界专项：ch15→ch16（Met Gala 失窃夜）、ch20→ch21（�
 
 ---
 
+## 审查后残留复扫（2026-10-14 追加，用户追问「修复了吗」触发）
+
+⚠️ **首次整改不完整**：上表整改时只改了「发现该缺陷的那个文件」，未把同一措辞在**章节导航层**的副本一并 grep。复扫全库后新查出 **4 处同一缺陷的复制体**，已补修：
+
+| # | 文件·行 | 原措辞 | 依据（text/ 原文） | 改为 |
+|---|---|---|---|---|
+| 13 | `ch17 tunnel ambush and framing.md` L10 一句话概括 | 「在**废弃蓄水池地道**里与他正面遭遇」 | ch17：`an obsolete storm drain for the park's reservoir` | 「在公园蓄水池的废弃雨水渠里」 |
+| 14 | `ch21 the canopic box rescue.md` L10 一句话概括 | 「Annie 失足**踩碎物件**」 | ch21：`That's a mummified goose you stepped on` | 「失足踩到一只木乃伊化的鹅」 |
+| 15 | `ch21 the canopic box rescue.md` L12 情感弧线位置 | 「墓室里**踩碎木乃伊鹅**的羞耻触底」 | 同上 | 「踩到木乃伊化的鹅」 |
+| 16 | `ch19 thrown out and taken in.md` L10 一句话概括 | 「撞上 Joyce 的**闪婚订婚**」（自相矛盾：闪婚≠订婚） | ch19：`“Brad proposed!”` / `my mother got engaged`；婚礼在 ch31 | 「撞上 Joyce 突然宣布订婚」 |
+
+**缺陷总计数更正：阻断型 7 + 提示型 5 = 12 条（16 处落点）**——4 条缺陷各有一份被复制到章节导航层。
+
+**复扫判据**：对 12 条缺陷的**全部措辞**（`青瓷`／`survival 或 survival`／`神情却 still`／`屋顶摊牌`／`第一任`／`废弃蓄水池`／`踩碎`／`同一个月，她发现自己怀孕`／`逐章轮换`／`搭扣背面认出`）做全库计数 ⇒ **全 0**。`闪婚` 余 2 处经核为 **ch14 Charlotte 与 Henry 自家的 shotgun wedding**（`their shotgun wedding at the Metropolitan House`），属正当措辞，不改。
+
+**过程教训（应写进下次 SOP）**：**「修复即同步」不能只同步到「发现缺陷的那个文件」**——本书同一事实在「章节导航层」与「总览三篇」两处各写一遍（同一措辞习惯），只改总览会留下导航层的旧说法。**正确做法：每修一条，先对旧措辞做一次全库 grep，改完再复扫一次计数归零**（本次即靠复扫才发现）。六道门禁对此**完全不可见**（导航层中文与总览中文都不进英文提取口径）。
+
+**补修后复跑**（原件 `2026-10-14-residue_rescan_and_regates.txt`）：`gate.sh` 退出码 0（0 条阻断型）｜`corruption_scan` FAIL 0｜`verify_quotes` 277/277｜`verify_overview_quotes` 49/49｜`check_nav_layer` ❌0/⚠️0｜`check_keywords_verbatim` 0｜`check_analysis_indep` 426 条逐字全中。
+
+---
+
 ## 同会话审查的已知盲区（供用户判断是否另行指派异实例复核）
 
 1. **执行方＝审查方**：本次审查由写作同一实例完成。d 步语义二审虽委派 4 个子代理（异实例），但**a/b/c/e 与整改由本人执行**——对自己写的内容存在「想当然」风险，尤其是总览事实层。
