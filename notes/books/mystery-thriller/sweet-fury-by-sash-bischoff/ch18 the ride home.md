@@ -74,15 +74,7 @@ Lila 的治疗日记
 
 ---
 
-> **原句 6:** "'You look good, Dr. Gabriel.' Before he could summon a response, she'd disappeared down the hall."
-**中文理解**："你看起来很好，Gabriel 医生。"他还没来得及回应，她已经消失在走廊尽头。
-**关键词**：summon a response（唤起回应）——无力感的表达
-**表达方式**：转述引语制造陌生化效果，我们听到的是 Lila 对 Maggie 话语的转述
-**为什么这样写**：Jonah 的视角中 Maggie 的哀伤微笑在此处得到呼应，Lila 日记通过转述间接呈现 Jonah 的情感困境
-
----
-
-> **原句 7:** "She really does remind me of my younger self, the sweet, innocent girl I used to be before all the trauma of my past."
+> **原句 6:** "She really does remind me of my younger self, the sweet, innocent girl I used to be before all the trauma of my past."
 **中文理解**：她真的让我想起年轻时的自己，那个在所有过去创伤之前的甜美、纯真的女孩。
 **关键词**：remind me of（使……想起）——镜像关系
 **表达方式**：女演员作为 Lila 过去的化身，构建自恋式认同
