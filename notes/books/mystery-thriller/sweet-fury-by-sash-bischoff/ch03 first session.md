@@ -65,11 +65,11 @@ source_text: "text/ch03_first_session.txt"
 
 ---
 
-> **原句 7:** "Lila, I literally owe you my life. This was the least I could do."
-**中文理解**："Lila，我真的欠你一条命。这是我至少能做的。"
-**关键词**：literally（真的，强调程度）/ owe you my life（欠你命）/ the least I could do（我至少能做的）
-**表达方式**：情感爆发式陈述，"literally"强调字面意义上，而非比喻意义上的救命之恩
-**为什么这样写**：这是Freddie对Lila救命之恩的回应，确立两人关系的深度——超越普通友情的生死之交
+> **原句 7:** "Lila." He took her palm, kissed its heart. "I literally owe you my life. This was the least I could do."
+**中文理解**："Lila。"他拿起她的手，吻在掌心。"我真的欠你一条命。这是我至少能做的。"
+**关键词**：took her palm（拿起她的手）/ kissed its heart（吻在掌心，象征意义）/ literally（真的，强调程度）/ owe you my life（欠你命）/ the least I could do（我至少能做的）
+**表达方式**：情感仪式化表达——先呼唤名字，再以"吻掌心"这一郑重动作铺垫，然后才说出核心台词；"literally"强调字面意义上的救命之恩
+**为什么这样写**：Freddie用"吻掌心"这一带有骑士风度和亲密友情意味的动作，将抽象的感激转化为具象的礼仪，确立两人关系的深度——超越普通友情的生死之交
 
 ---
 
