@@ -1,113 +1,117 @@
-**Navigation:** ch07 | ~1790 words | Val | Val suspects Bernard deliberately sacrificed himself
+**Navigation:** ch07 | ~1500 words | Kelly | Kelly's therapy with Vivienne on perspective and threat
 
 ## 故事梗概
 
-Val在前往英格兰的私人飞机场途中，向Connor倾诉了她内心深处的怀疑：Bernard并非死于意外的心脏病，而是预见到某种危险，主动选择牺牲自己。途中她还回忆了Bernard最后那个周末的行为——他平静地接受了Val让他离开巴黎的最后通牒，仿佛早已知晓自己不会再回来。与此同时，车内的同伴们似乎也在感受着某种无形的压力，而Bernard之死与团队失去精神联结能力之间的关联，让Val的怀疑愈发合理。
+Kelly在五周的日常治疗中与Vivienne探讨了团队面临的威胁。Vivienne是一位曾任职联邦特工的治疗师，她用直接甚至咄咄逼人的方式帮助Kelly审视自己对"敌人"的认知——究竟敌人是外部的，还是内心深处的创伤本身。这一章揭示了Kelly作为领袖的困境：她需要在保护团队和避免伤害无辜之间找到平衡。
 
 ## 关键引语
 
-> **原句 1:** 'I don't know if it's just loneliness and remorse that drives my early hours dilemma. But it feels like more than that. I push it away, but it keeps coming back. Like it's important I understand. Like Bernard wants me to know.'
+> **原句 1:** 'He sees this from an analyst's perspective. But you are their de facto leader.' Vivienne occupied her space with the ease of a somnolent bear. 'A good leader, by definition, must maintain a broader perspective.'
 
-**中文理解：** Val描述了黎明前困扰她的那种黑暗预感——她不确定这只是孤独和悔恨在作祟，还是有更深层的原因在驱使她。她试图压抑这种预感，但它不断浮现，仿佛Bernard想要让她理解什么重要的东西。
+**中文理解：** Vivienne指出Rabbit从分析师角度看问题，但Kelly才是他们实际的领袖。她用熊的意象形容自己的存在感——沉静而有力。然后她给出了领导力的定义：必须保持更广阔的视角。
 
-**句子结构：** 复合句，由三个并列的分句构成，以"But"和"Like"连接。前两个分句是"I don't know if..."和"But it feels like..."，第三个是由"Like"引导的表语从句"Like Bernard wants me to know"，形成递进关系。
+**句子结构：** 直接引语后跟叙述描写（Vivienne occupied her space...），再接另一段直接引语。三个句子形成"观察→定位→定义"的递进结构。
 
-**关键词：** early hours dilemma（黎明前的困境）、remorse（悔恨）、keeps coming back（不断重现）、important I understand（重要的是我需要理解）
+**关键词：** de facto leader（实际领袖）、broader perspective（更广阔的视角）、somnolescent bear（沉睡的熊，比喻沉静的力量）
 
-**为什么这样写：** 这段内心独白揭示了Val深层的心理创伤和直觉。她对Bernard之死的怀疑不是理性的推断，而是源于一种无法言说的直觉——黎明前最脆弱时刻涌来的预感。这种写作方式建立了悬念，让读者感受到Val内心的挣扎，同时也暗示Bernard的死亡背后有更大的阴谋。
-
----
-
-> **原句 2:** 'I am becoming increasingly certain Bernard was aware of some danger, some threat. And he saw the only way forward was for him to sacrifice himself.'
-
-**中文理解：** Val越来越确信Bernard察觉到了某种危险或威胁，而他认为唯一的出路就是牺牲自己。
-
-**句子结构：** 平行结构的复合句。两个"I am becoming increasingly certain"和"And he saw..."形成对照，前者表达Val的内心变化，后者揭示Bernard的选择。句中"some danger, some threat"用重复的"some"加强语意的不确定性。
-
-**关键词：** increasingly certain（越来越确信）、some danger, some threat（某种危险/威胁）、the only way forward（唯一的出路）、sacrifice himself（牺牲自己）
-
-**为什么这样写：** 这是Val第一次明确陈述她的核心论点。她用"increasingly certain"表明这是一个逐渐形成而非突然产生的想法，增加了可信度。"the only way forward"暗示Bernard面临的是一个无法通过常规方法解决的困境，读者由此感受到事态的严重性。
+**为什么这样写：** Vivienne用"熊"的意象来形容自己的存在感——外表沉静实则充满力量。这个比喻既体现了她的职业特质（联邦特工背景），也展示了她作为治疗师的自信。她对"领袖"的定义挑战了Kelly对自己角色的认知，暗示Kelly需要超越战术思维，从更高维度审视全局。
 
 ---
 
-> **原句 3:** 'His favorite way of describing his work in Paris was, a relic. Something from his past that he felt obliged to complete. Other people were still counting on him. People who had done so much to bring him to France, set him up with funding and lab space.'
+> **原句 2:** 'Even though they can't operate. Engage. Offer life-saving analysis. Because they have all been rendered blind by this blockage to their abilities.' She paused for emphasis. 'Are you certain this is not just offering yourself and Rabbit's team false hope?'
 
-**中文理解：** Bernard最喜欢用"遗迹"来形容他在巴黎的工作——这是他过去的东西，他觉得自己有义务去完成。还有其他人仍然依赖他，那些为让他来到法国、提供资金和实验室空间付出良多的人们。
+**中文理解：** Vivienne指出即使Rabbit的团队失去了能力，他们仍然可以运作、提供关键分析——因为他们都被这种能力障碍所"致盲"。然后她追问Kelly：她给Rabbit的团队提供的希望，是否只是虚假的希望？
 
-**句子结构：** 解释性段落，由多个短句构成，形成松散的流水句结构。"a relic"是名词性从句作表语，后面紧跟定语从句"Something from his past..."修饰"relic"。最后两句说明"其他人"的具体含义，解释为什么Bernard觉得自己有义务。
+**句子结构：** 三个连续的动词短语（operate / engage / offer）构成排比，强调团队能力的下降程度。问句以反问形式表达质疑。
 
-**关键词：** a relic（遗迹）、felt obliged to complete（觉得有义务完成）、Other people were still counting on him（其他人仍然依赖他）、set him up with funding and lab space（为他提供资金和实验室空间）
+**关键词：** rendered blind（被致盲）、blockage to their abilities（能力障碍）、false hope（虚假的希望）
 
-**为什么这样写：** 这段话揭示了Bernard内心的矛盾——他视自己的工作为"遗迹"（来自不再适合自己的过去），但又觉得自己有义务完成它。这种矛盾为后文他选择牺牲自己埋下伏笔：他最终选择了对"其他人"的义务，而非对Val和当下生活的责任。
-
----
-
-> **原句 4:** 'Bernard's reaction was beyond confusing. He was resigned. And something more. Almost like …' / 'Almost like he had been working toward this moment.'
-
-**中文理解：** Bernard的反应令人困惑至极。他表现出听天由命的样子，但还不止于此——几乎像是……Connor接话道："几乎像是他一直在朝着这个时刻努力。"
-
-**句子结构：** 对话片段，Val说到一半被Connor打断并补充完成。Connor的回应"Almost like he had been working toward this moment"是对Val未说完句子的完美补全，形成完整的思想链条。
-
-**关键词：** beyond confusing（令人困惑至极）、resigned（听天由命的）、working toward this moment（一直在朝着这个时刻努力）
-
-**为什么这样写：** 这段对话的节奏感很强——Val说到一半停下，Connor接话补全。这种"未完成的句子被他人续完"的写作手法制造了强烈的情感冲击力：Connor比任何人都更理解Bernard的选择，他的补全让Val的怀疑得到了共鸣和支持。
+**为什么这样写：** Vivienne通过这个追问，挑战Kelly对团队状态的理解。她暗示：Kelly坚持认为团队只是暂时失去能力，可能只是她自己的一厢情愿。这个问题直接指向Kelly内心深处的恐惧——她是不是在用虚假的希望欺骗自己和团队？
 
 ---
 
-> **原句 5:** 'He told me that I had waited long enough. Too long. Then he left for the station. No bag, not even his briefcase. All his things were still there in the closet, bathroom, wherever.'
+> **原句 3:** 'Because our secret contacts within their organization confirm our opponents are blind as well.'
 
-**中文理解：** 他告诉我，我已经等待得够久了。太久了。然后他就离开去车站了。没带包，甚至没带公文包。他所有的东西还都留在衣柜里、浴室里、到处都在。
+**中文理解：** Kelly反驳说，因为组织内部的秘密线人证实，敌人也同样被"致盲"了。
 
-**句子结构：** 短促的叙述句，用句号而非逗号分隔，造成一种震惊和茫然的语气。"No bag, not even his briefcase"是否定分裂句（cleft sentence的变体），强调行李的缺席，暗示Bernard根本没打算回来。
+**句子结构：** 简短的宾语从句，以because引导。Kelly用对手的同等困境来回应Vivienne的质疑。
 
-**关键词：** waited long enough（等待得够久了）、No bag, not even his briefcase（没带包，甚至没带公文包）、All his things were still there（所有东西都还在那里）
+**关键词：** secret contacts（秘密线人）、confirm（证实）、opponents are blind（敌人也被致盲）
 
-**为什么这样写：** 细节描写（没带包、公文包还在）无声地揭示了Bernard离开时的异常——他似乎预知自己不会回来。Val用" wherever"这个词的犹豫，显示她至今仍在试图理解当时的情景。这种"回溯式叙述"让读者与Val一起重新审视Bernard最后的举动，发现其中的深意。
-
----
-
-> **原句 6:** 'A sunny place full of shady people. When it comes to moving secret money in comfort and style, Monaco is top of the list.'
-
-**中文理解：** 一个阳光普照却充满阴险人物的地方。说到在舒适与格调中运转秘密资金，摩纳哥是首选。
-
-**句子结构：** 两个简洁的陈述句。"A sunny place full of shady people"是名词短语，用头韵（sunny/shady）制造讽刺效果。第二句是"When it comes to..."结构，用于强调摩纳哥在秘密金融领域的地位。
-
-**关键词：** sunny place full of shady people（阳光下充满阴险人物的地方）、moving secret money（运转秘密资金）、in comfort and style（舒适而格调）、top of the list（首选）
-
-**为什么这样写：** Connor用这句俏皮话回应Val关于Monaco的疑问，展现了角色在紧张氛围中的调节能力。同时，这句话也揭示了组织运作的另一个维度——他们在秘密转移资金，而Monaco是他们重要的金融据点。
+**为什么这样写：** Kelly的回答揭示了更深层的战略考量：敌人也面临同样的困境，这证明了问题的普遍性而非团队的特殊失败。Kelly的反应显示她在面对Vivienne质疑时的防御姿态——她不是简单地接受，而是用证据反驳。
 
 ---
 
-> **原句 7:** 'But Val never found any reason to make that call.'
+> **原句 4:** 'Can you say for certain they have lost their telepathic abilities?'
 
-**中文理解：** 但Val从未找到任何理由拨出那通电话。
+**中文理解：** Vivienne追问：你能否确定他们真的失去了心灵感应能力？
 
-**句子结构：** 简单过去时的陈述句，以"But"开头制造转折效果。句子极短，与前文Connor急切要求Val"一有发现就打电话"形成强烈对比。
+**句子结构：** 一般疑问句，以情态动词can开头。问句简短但直指核心。
 
-**关键词：** never found any reason（从未找到任何理由）、make that call（拨出那通电话）
+**关键词：** for certain（确定地）、telepathic abilities（心灵感应能力）
 
-**为什么这样写：** 这个结尾句充满反讽意味——Connor明确要求Val"一有发现就打电话"，但Val"从未找到理由"打。读者意识到，Val在飞机上可能发现了什么，或者事态的发展超出了所有人的预期。开放式的结尾制造了强烈的悬念，让读者迫不及待想知道下一章会发生什么。
+**为什么这样写：** Vivienne用这个问题挑战Kelly对团队状态的确定认知。这个追问与Kelly后来声称的"确定"形成对照——Kelly越是想证明什么，就越是被Vivienne逼问更深。治疗师的角色就是让患者面对自己认知的局限。
+
+---
+
+> **原句 5:** 'What we need to uncover, what I want you to consider between now and our next session, is this. Who is the real enemy here? Are they out there, or are they actually down deep inside yourself?'
+
+**中文理解：** Vivienne给Kelly布置了一个思考任务：真正的敌人到底是谁？是在外面，还是实际上在我们内心深处？
+
+**句子结构：** 修辞性问句，以"Who is the real enemy here?"为核心。平行结构"Are they out there, or are they...inside yourself?"形成内外对照。
+
+**关键词：** the real enemy（真正的敌人）、out there（外面）、inside yourself（内心深处）
+
+**为什么这样写：** 这是Vivienne的核心治疗方法——她不仅仅在治疗Kelly的PTSD，更是在挑战她对这个威胁的认知框架。Vivienne暗示：Kelly将所有问题外化为"敌人"，可能恰恰是她无法处理内心创伤的表现。这个问题是本章的主题核心，它将Kelly的外部冲突与内心困境联系起来。
+
+---
+
+> **原句 6:** 'Do you perceive those who still have the ability you've lost, the ones who have not suffered this mental amputation, from such a black-and-white perspective? Do you find comfort in isolating yourself among people who share this point of view?'
+
+**中文理解：** Vivienne问道：你是否用这种非黑即白的视角来看待那些仍然保有你所失去的能力的人？你是否在与持相同观点的人隔离中找到慰藉？
+
+**句子结构：** 两个递进的反问句，形成"认知→行为"的因果链。
+
+**关键词：** black-and-white perspective（非黑即白的视角）、mental amputation（精神截肢）、isolating yourself（自我隔离）
+
+**为什么这样写：** Vivienne揭示了Kelly内心深处的二元对立思维——她将世界分为"有能力的"和"没有能力的"，并在后者中找到归属感。这种思维模式既是Kelly创伤的来源，也是她处理创伤的方式。治疗师指出：这种自我隔离可能恰恰阻碍了她的恢复。
+
+---
+
+> **原句 7:** 'Do you risk wreaking huge damage on the innocent by not fully considering alternative perspectives?'
+
+**中文理解：** Vivienne追问：如果你不完全考虑其他视角，是否会对无辜者造成巨大的伤害？
+
+**句子结构：** 修辞性反问，以"do you risk"结构警告可能的负面后果。
+
+**关键词：** wreaking huge damage（造成巨大伤害）、the innocent（无辜者）、alternative perspectives（替代视角）
+
+**为什么这样写：** 这个最后的追问将Kelly的认知问题上升到了道德高度：如果她坚持非黑即白的思维，可能不只是延误自己的治疗，更会伤害无辜的人。Vivienne将PTSD的影响从个人层面扩展到了人际关系和社会责任层面，让Kelly不得不重新审视自己的立场。
+
+---
+
+> **原句 8:** 'I would simply ask that you consider this possibility until we next meet.'
+
+**中文理解：** Vivienne在结尾说：我只是要求你在下次见面之前考虑这种可能性。
+
+**句子结构：** 客气但坚定的祈使句，"simply"和"until we next meet"体现了治疗师的耐心和阶段性目标。
+
+**关键词：** consider this possibility（考虑这种可能性）、until we next meet（直到下次见面）
+
+**为什么这样写：** 这句话是Vivienne典型的治疗风格——用谦逊的语气提出巨大的挑战。她不是告诉Kelly"你必须改变"，而是"考虑这种可能性"。这给了Kelly空间去消化和反思，同时也为下次治疗埋下伏笔。治疗师的平静与Kelly内心的风暴形成鲜明对比。
 
 ## 本章词汇
 
 | 级别 | 词汇 | 释义 | 例句 |
 |------|------|------|------|
-| 基础 | canted | 歪斜的，倾斜的 | 'Her smile was canted.' |
-| 基础 | trundle | 缓慢移动，滚动 | 'Val watched a barge trundle down below them.' |
-| 基础 | congealed | 凝固的，凝结的 | 'The traffic congealed as they climbed on to the George Washington Bridge.' |
-| 基础 | protest | 抗议，反对 | "'The train would be just as fast,' Val protested." |
-| 进阶 | succinctly | 简洁地，简练地 | 'Val gave it to her in succinct bites.' |
-| 进阶 | resignation | 听天由命，顺从 | 'He was resigned.' |
-| 进阶 | pal | 朋友，伙伴（非正式） | "Since my pal Lynda here hates shopping." |
-| 进阶 | sizable | 相当大的，可观的 | 'not a majority by any means, but a sizeable proportion' |
-| 进阶 | balk | 犹豫，踌躇 | 'the majority continued to balk at going public' |
-| 进阶 | fodder | 素材，原料 | （本章未出现直接例句） |
-| 高级 | forgo | 放弃，抛弃 | （本章未出现直接例句） |
-| 高级 | forgo | 放弃，抛弃 | （本章未出现直接例句） |
-| 高级 | tacit | 默许的，心照不宣的 | （本章未出现直接例句） |
-| 高级 | propensity | 倾向，习性 | 'both stubborn and prone to insist we know what's best' |
-| 高级 | commune | 交流，思想交流 | 'To commune. Val swallowed against the memory.' |
-| 高级 | palimony | 分手费（pal+alimony的混合词） | （本章未出现直接例句） |
-| 高级 | relic | 遗迹，遗物 | "a relic. Something from his past that he felt obliged to complete." |
-| 高级 | obligatory | 有义务的，必须的 | "Something from his past that he felt obliged to complete." |
-| 高级 | farrago | 大杂烩，混合物 | （本章未出现直接例句） |
+| 基础 | de facto | 实际上的，事实上的 | 'But you are their de facto leader.' |
+| 基础 | amputation | 截肢，切除 | 'the severe force of a mental amputation' |
+| 基础 | blade | 障碍物，blade的比喻用法 | 'the blockage to their abilities' |
+| 进阶 | somnolent | 昏昏欲睡的，慵懒的 | 'Vivienne occupied her space with the ease of a somnolent bear.' |
+| 进阶 | probe | 探索，探查 | 'almost aggressive in her softly spoken probing' |
+| 进阶 | in parallel | 平行地，一致地 | "And it's totally in parallel with what we're hearing" |
+| 进阶 | shard | 碎片，残片 | 'I get these little shards of dreams.' |
+| 高级 | black-and-white | 非黑即白的，简单化的 | 'Do you perceive those...from such a black-and-white perspective?' |
+| 高级 | drumbeat | 持续的节奏/压力 | "Vivienne's words held a soft drumbeat of inevitability" |
+| 高级 | lap | （水）轻拍，冲刷 | 'rising to where water is now lapping over the top' |
+| 高级 | wreak havoc | 造成破坏 | 'threatens to demolish their existence and wreak havoc' |

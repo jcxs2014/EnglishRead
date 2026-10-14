@@ -1,83 +1,107 @@
-ch10 | ~2000 words | Kelly | Dale宣布独立参选；Avri下令逮捕；Skarren否决
+**Navigation:** ch10 | ~2000 words | Val | Val shares her suspicions about Bernard's sacrifice with Connor
 
-## 故事梗概要
+## 故事梗概
 
-Dale向Avri透露Carlton Riffkind已请求他作为独立候选人参加11月总统大选，此举在Avri和Skarren之间引发了强烈冲突。Avri暴怒之下下令逮捕Dale及其同党，但Skarren以军事权限否决了这一命令，转而实施监控与观察策略。
+Val在前往英格兰的私人飞机场途中，向Connor倾诉了她内心深处的怀疑：Bernard并非死于意外的心脏病，而是预见到某种危险，主动选择牺牲自己。途中她还回忆了Bernard最后那个周末的行为——他平静地接受了Val让他离开巴黎的最后通牒，仿佛早已知晓自己不会再回来。
 
 ## 关键引语
 
-> **原句 1:** 'Carlton has asked me to run for president in the upcoming November elections.'
+> **原句 1:** 'I keep returning to the same dark suspicion. Bad as a broken record. No matter how I try, it resurfaces. I've come to dread waking up before dawn.'
 
-**中文理解：** Carlton要求我在即将到来的11月大选中竞选总统。
+**中文理解：** Val不断回到同一个黑暗的怀疑。像坏掉的唱片一样，无论她如何努力试图摆脱，它都会再次浮现。她开始害怕黎明前醒来。
 
-**句子结构：** 主句（Carlton has asked me to run）+ 宾语从句（for president）+ 时间状语（in the upcoming November elections）。ask sb to do sth 的结构，me是间接宾语，to run是直接宾语。
+**句子结构：** 平行结构的两个分句，以"No matter how I try"为转折点。前半部分描述怀疑的持续性（broken record的比喻），后半部分揭示这种怀疑带来的情感代价。
 
-**关键词：** run for president——竞选总统；upcoming——即将到来的，暗示时间紧迫。
+**关键词：** dark suspicion（黑暗的怀疑）、broken record（坏掉的唱片，形容重复）、resurfaces（再次浮现）、dread waking up before dawn（害怕黎明前醒来）
 
-**为什么这样写：** Dale用平淡的语气宣布了一个极具爆炸性的消息。这一刻房间"冻结"（froze solid），连电话那头的Skarren都"像是被击中要害"（gut shot）——作者通过侧面描写（第三人反应）来烘托这个消息的重量，而非仅依赖说话人的语气。
-
----
-
-> **原句 2:** 'You'd risk handing our opponents the White House?' / 'Not, if I win.'
-
-**中文理解：** "你这是要把白宫拱手让给我们的对手吗？" / "不会——如果我赢了的话。"
-
-**句子结构：** 第一个是反问句（Would you risk...）+ 宾语从句（handding our opponents the White House）；第二个是省略句，"Not"独立成句表示否定前置，后接条件状语从句（if I win）。
-
-**关键词：** risk——冒险；hand...the White House——双关，既指建筑本身，也借指总统职位；if I win——条件句，展现Dale的自信。
-
-**为什么这样写：** Avri用"拱手让出"（hand）这个动词暗示Dale是在自我毁灭；Dale的回应"如果我赢"则简洁有力，直接挑战了Avri的假设——他不是在做赔本买卖，而是在争胜。两人形成鲜明对比：Avri激动质问，Dale冷静回应，暗示后者胸有成竹。
+**为什么这样写：** 这段话揭示了Val内心的困扰——她反复被一个无法摆脱的怀疑纠缠。"broken record"这个比喻精准地描述了强迫性思维的特征，而"dread waking up before dawn"则暗示这种怀疑在最脆弱的时刻（黎明前）最为强烈，为Bernard之死的真相埋下悬念。
 
 ---
 
-> **原句 3:** 'You'll become the nation's worst traitor since Alger Hiss!'
+> **原句 2:** 'I am becoming increasingly certain Bernard was aware of some danger, some threat. And he saw the only way forward was for him to sacrifice himself.'
 
-**中文理解：** 你将成为自阿尔杰·希斯以来这个国家最严重的叛徒！
+**中文理解：** Val越来越确信Bernard察觉到了某种危险或威胁，而他认为唯一的出路就是牺牲自己。
 
-**句子结构：** 主系表结构（You'll become...the nation's worst traitor）+ 时间状语（since Alger Hiss）。
+**句子结构：** 平行结构的复合句。两个"I am becoming increasingly certain"和"And he saw..."形成对照，前者表达Val的内心变化，后者揭示Bernard的选择。句中"some danger, some threat"用重复的"some"加强语意的不确定性。
 
-**关键词：** worst traitor——最恶劣的叛徒；since Alger Hiss——历史类比，阿尔杰·希斯是1950年代麦卡锡时代的著名叛国案被告。
+**关键词：** increasingly certain（越来越确信）、some danger, some threat（某种危险/威胁）、the only way forward（唯一的出路）、sacrifice himself（牺牲自己）
 
-**为什么这样写：** Avri抬出阿尔杰·希斯这个历史人物作为参照，暗示Dale的"罪行"不仅是背叛政党，而是背叛整个国家。这个类比将政治对立上升到道德高度，同时揭示了Avri内心深处对权力可能失控的恐惧。
-
----
-
-> **原句 4:** 'Arrest them. Arrest them all.'
-
-**中文理解：** 逮捕他们。全部逮捕。
-
-**句子结构：** 两个简短的祈使句，第二个重复并加强第一个（重复结构）。
-
-**关键词：** Arrest——逮捕；them/them all——宾语，all的重复强调范围的极端性。
-
-**为什么这样写：** Avri在Dale离开后爆发，接连两次相同的命令（"Arrest them"），第二个更是扩大范围（"Arrest them all"）——从Dale一人扩展到"Garnier、Hayes、Breach等所有人"。句子短促有力，模拟出他近乎失控的愤怒。之前的讽刺对比也值得注意：Avri曾质疑Dale"疯了"（insane），结果自己却做出了冲动的决定。
+**为什么这样写：** 这是Val第一次明确陈述她的核心论点。她用"increasingly certain"表明这是一个逐渐形成而非突然产生的想法，增加了可信度。"the only way forward"暗示Bernard面临的是一个无法通过常规方法解决的困境，读者由此感受到事态的严重性。
 
 ---
 
-> **原句 5:** 'Monitor, observe, prepare. The outcomes of most battles are decided before the first shot is fired.'
+> **原句 3:** 'His favorite way of describing his work in Paris was, a relic. Something from his past that he felt obliged to complete. Other people were still counting on him. People who had done so much to bring him to France, set him up with funding and lab space.'
 
-**中文理解：** 监视，观察，准备。大多数战役的结局在第一枪打响之前就已经决定了。
+**中文理解：** Bernard最喜欢用"遗迹"来形容他在巴黎的工作——这是他过去的东西，他觉得自己有义务去完成。还有其他人仍然依赖他，那些为让他来到法国、提供资金和实验室空间付出良多的人们。
 
-**句子结构：** 三个并列的简短祈使句（Monitor. Observe. Prepare.）+ 复合句（The outcomes...are decided...before the first shot is fired）。
+**句子结构：** 解释性段落，由多个短句构成，形成松散的流水句结构。"a relic"是名词性从句作表语，后面紧跟定语从句"Something from his past..."修饰"relic"。最后两句说明"其他人"的具体含义，解释为什么Bernard觉得自己有义务。
 
-**关键词：** Monitor/observe/prepare——三个动词构成递进逻辑；outcomes are decided before——暗示主动权与预见性。
+**关键词：** a relic（遗迹）、felt obliged to complete（觉得有义务完成）、Other people were still counting on him（其他人仍然依赖他）、set him up with funding and lab space（为他提供资金和实验室空间）
 
-**为什么这样写：** Skarren用简洁有力的军事格言否决了Avri的冲动命令。这三短句形成节奏感，而最后一句则升华了主题——暗示真正的胜利不在于逮捕对手，而在于比对手看得更远、准备得更早。这与前面Avri的歇斯底里形成鲜明对照：谁才是真正的"冷静"？
+**为什么这样写：** 这段话揭示了Bernard内心的矛盾——他视自己的工作为"遗迹"（来自不再适合自己的过去），但又觉得自己有义务完成它。这种矛盾为后文他选择牺牲自己埋下伏笔：他最终选择了对"其他人"的义务，而非对Val和当下生活的责任。
+
+---
+
+> **原句 4:** 'Bernard's reaction was beyond confusing. He was resigned. And something more. Almost like …' / 'Almost like he had been working toward this moment.'
+
+**中文理解：** Bernard的反应令人困惑至极。他表现出听天由命的样子，但还不止于此——几乎像是……Connor接话道："几乎像是他一直在朝着这个时刻努力。"
+
+**句子结构：** 对话片段，Val说到一半被Connor打断并补充完成。Connor的回应"Almost like he had been working toward this moment"是对Val未说完句子的完美补全，形成完整的思想链条。
+
+**关键词：** beyond confusing（令人困惑至极）、resigned（听天由命的）、working toward this moment（一直在朝着这个时刻努力）
+
+**为什么这样写：** 这段对话的节奏感很强——Val说到一半停下，Connor接话补全。这种"未完成的句子被他人续完"的写作手法制造了强烈的情感冲击力：Connor比任何人都更理解Bernard的选择，他的补全让Val的怀疑得到了共鸣和支持。
+
+---
+
+> **原句 5:** 'He told me that I had waited long enough. Too long. Then he left for the station. No bag, not even his briefcase. All his things were still there in the closet, bathroom, wherever.'
+
+**中文理解：** 他告诉我，我已经等待得够久了。太久了。然后他就离开去车站了。没带包，甚至没带公文包。他所有的东西还都留在衣柜里、浴室里、到处都在。
+
+**句子结构：** 短促的叙述句，用句号而非逗号分隔，造成一种震惊和茫然的语气。"No bag, not even his briefcase"是否定分裂句（cleft sentence的变体），强调行李的缺席，暗示Bernard根本没打算回来。
+
+**关键词：** waited long enough（等待得够久了）、No bag, not even his briefcase（没带包，甚至没带公文包）、All his things were still there（所有东西都还在那里）
+
+**为什么这样写：** 细节描写（没带包、公文包还在）无声地揭示了Bernard离开时的异常——他似乎预知自己不会回来。Val用" wherever"这个词的犹豫，显示她至今仍在试图理解当时的情景。这种"回溯式叙述"让读者与Val一起重新审视Bernard最后的举动，发现其中的深意。
+
+---
+
+> **原句 6:** 'A sunny place full of shady people. When it comes to moving secret money in comfort and style, Monaco is top of the list.'
+
+**中文理解：** 一个阳光普照却充满阴险人物的地方。说到在舒适与格调中运转秘密资金，摩纳哥是首选。
+
+**句子结构：** 两个简洁的陈述句。"A sunny place full of shady people"是名词短语，用头韵（sunny/shady）制造讽刺效果。第二句是"When it comes to..."结构，用于强调摩纳哥在秘密金融领域的地位。
+
+**关键词：** sunny place full of shady people（阳光下充满阴险人物的地方）、moving secret money（运转秘密资金）、in comfort and style（舒适而格调）、top of the list（首选）
+
+**为什么这样写：** Connor用这句俏皮话回应Val关于Monaco的疑问，展现了角色在紧张氛围中的调节能力。同时，这句话也揭示了组织运作的另一个维度——他们在秘密转移资金，而Monaco是他们重要的金融据点。
+
+---
+
+> **原句 7:** 'But Val never found any reason to make that call.'
+
+**中文理解：** 但Val从未找到任何理由拨出那通电话。
+
+**句子结构：** 简单过去时的陈述句，以"But"开头制造转折效果。句子极短，与前文Connor急切要求Val"一有发现就打电话"形成强烈对比。
+
+**关键词：** never found any reason（从未找到任何理由）、make that call（拨出那通电话）
+
+**为什么这样写：** 这个结尾句充满反讽意味——Connor明确要求Val"一有发现就打电话"，但Val"从未找到理由"打。读者意识到，Val在飞机上可能发现了什么，或者事态的发展超出了所有人的预期。开放式的结尾制造了强烈的悬念，让读者迫不及待想知道下一章会发生什么。
 
 ## 本章词汇
 
-| 词汇 | 释义 | 例句 |
-|------|------|------|
-| foul mood | 恶劣心情，坏脾气 | The meeting with the Canadian ambassador had left Avri Rowe in a foul mood. |
-| sour | 使变坏，破坏 | One notch off full-blown rage. |
-| stoic calm | 坚忍的冷静，斯多葛式的沉稳 | Dale met his gaze with a stoic calm. |
-| countermand | 撤销（命令），推翻 | I am formally countermanding Rowe's order. |
-| precedent | 先例，前例 | There is a precedent. Thomas Jefferson was vice president when he ran against incumbent President John Adams in 1800. |
-| filing deadlines | 提交截止日期 | You don't have anywhere near enough time to make the filing deadlines in all fifty states! |
-| volatile | 不稳定的，易变的 | （文中用其变体形式）Avri的气头上（near volatile） |
-| hand | 拱手让出，交递 | You'd risk handing our opponents the White House? |
-| parboil | （由于愤怒而）面部充血/涨红 | Rowe's features appeared parboiled. |
-| gut shot | 直击要害的打击 | The speakerphone gave off a soft grunt, as if Skarren had been gut shot. |
-| bruise | 损害，伤害（关系） | News of Dale's meeting with the president had bruised an already strained relationship. |
-| weather | 经受住，渡过（难关） | A strong and virile man, weathered by multiple storms, bearing the weight of years with grace. |
-| vigilance | 警觉，警戒 | 呼应Skarren的监视指令（Monitor, observe） |
+| 级别 | 词汇 | 释义 | 例句 |
+|------|------|------|------|
+| 基础 | canted | 歪斜的，倾斜的 | 'Her smile was canted.' |
+| 基础 | trundle | 缓慢移动，滚动 | 'Val watched a barge trundle down below them.' |
+| 基础 | congealed | 凝固的，凝结的 | 'The traffic congealed as they climbed on to the George Washington Bridge.' |
+| 基础 | protest | 抗议，反对 | "'The train would be just as fast,' Val protested." |
+| 进阶 | succinctly | 简洁地，简练地 | 'Val gave it to her in succinct bites.' |
+| 进阶 | resignation | 听天由命，顺从 | 'He was resigned.' |
+| 进阶 | pal | 朋友，伙伴（非正式） | "Since my pal Lynda here hates shopping." |
+| 进阶 | sizable | 相当大的，可观的 | 'not a majority by any means, but a sizeable proportion' |
+| 进阶 | balk | 犹豫，踌躇 | 'the majority continued to balk at going public' |
+| 高级 | propensity | 倾向，习性 | 'both stubborn and prone to insist we know what's best' |
+| 高级 | commune | 交流，思想交流 | 'To commune. Val swallowed against the memory.' |
+| 高级 | relic | 遗迹，遗物 | "a relic. Something from his past that he felt obliged to complete." |
+| 高级 | obligatory | 有义务的，必须的 | "Something from his past that he felt obliged to complete." |

@@ -28,11 +28,6 @@ Val and Lynda left the CBS building and learned from Chakkan that their Grenada 
 
 ---
 
-**原句 3:** 'Each house is going to be split into two sections.' (Val 在 Chapter Forty-One 中对媒体说的话，此处 ch41 暂无此句，保留以章节间引用说明)
-
-**注**: 本章 ch41 为过渡章节，Val 尚未对媒体公开发言，此句出自相邻章节的情节衔接。
-
----
 
 **原句 4:** 'You feel it?'
 
