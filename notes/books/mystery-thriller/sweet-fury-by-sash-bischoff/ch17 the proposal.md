@@ -105,7 +105,6 @@ source_text: ch17_chapter_vii.txt
 |------|------|------|----------|
 | circuitous | adj. | 迂回的；曲折的 | "journal entries' careful, circuitous language" |
 | beckon | v. | 招手；召唤 | "their curious smiles beckoning him" |
-| radiance | n. | 辐射；发光 | "seemed to Jonah to radiate from within" |
 | hypocrisy | n. | 虚伪；伪善 | "his own endless cave of hypocrisy" |
 
 ### ⭐⭐⭐ 高级（学术/文学词汇）
@@ -115,7 +114,6 @@ source_text: ch17_chapter_vii.txt
 | soigné | adj. | （法）精致讲究的 | "a selection that felt timeless, soigné" |
 | Kantian | adj. | 康德哲学的 | "that Kantian way" |
 | moral | adj. | 道德的；精神上的 | "the symbol of the morally good" |
-| congruent | adj. | 符合的；一致的 | "such congruency" |
 
 ---
 

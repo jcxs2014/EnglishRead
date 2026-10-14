@@ -104,7 +104,7 @@ Lila 的治疗日记
 | 词条 | 词性 | 释义 | 例句出处 |
 |------|------|------|----------|
 | trail | v. | 飘洒；落后 | "sugary sand dusting the wind" |
-| confess | v. | 承认；坦白 | "I don't want anything to get in the way of that" |
+| confess | v. | 承认；坦白 | "I was the one who confessed my feelings first" |
 | betray | v. | 背叛；辜负 | "I feel like I betrayed you" |
 
 ### ⭐⭐ 中级（学术/文学词汇）
@@ -114,16 +114,9 @@ Lila 的治疗日记
 | bitterly | adv. | 苦涩地；痛苦地 | "its ending bittersweet" |
 | unsettled | adj. | 不安的；动荡的 | "something has happened that's left me a bit unsettled" |
 | deliberating | v. | 深思熟虑；反复考虑 | "I've been deliberating whether to tell you" |
-| confess | v. | 承认；坦白 | "I'm not trying to justify what happened" |
+（confess 重复，已移除中级表中冗余条目）
 
-### ⭐⭐⭐ 高级（学术/文学词汇）
-
-| 词条 | 词性 | 释义 | 例句出处 |
-|------|------|------|----------|
-| soigné | adj. | （法）精致讲究的 | "a selection that felt timeless, soigné" |
-| luminous | adj. | 发光的；明亮的 | "its bright, wet pour" |
-| catharsis | n. | 情感宣泄；精神净化 | "I can only hope that when I'm older" |
-| contrition | n. | 悔恨；痛悔 | "I feel like I betrayed you" |
+（高级词汇已移除：luminous、catharsis、contrition 为 A 类虚构；soigné 例句为伪造）
 
 ---
 

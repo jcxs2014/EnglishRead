@@ -107,9 +107,6 @@ source_text: "ch13_the_dinner_party.txt"
 | 词汇 | 音标 | 词性 | 中文释义 | 例句（原文） |
 |------|------|------|----------|-------------|
 | vicarious trauma | /vɪˈkeəriəs ˈtrɔːmə/ | n. | 替代性创伤 | （由语境推断：乔纳对莱拉案例的过度卷入） |
-| countertransference | /ˌkaʊntətrænsˈfɜːrəns/ | n. | 反移情 | 治疗师对来访者的情感投射——乔纳对莱拉的情况 |
-| triangulated | /traɪˈæŋɡjʊleɪtɪd/ | adj. | 三角化的 | Kurt-Lila-Jonah triangulated dynamic |
-| voyeuristic | /ˌvɔɪjəˈrɪstɪk/ | adj. | 窥视癖的 | Jonah watching Lila on the balcony |
 
 ---
 

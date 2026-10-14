@@ -79,11 +79,10 @@ source_text: "ch10_end_of_act_two.txt"
 
 ---
 
-**词汇表**
+## 词汇
 
 | 词汇 | 音标 | 词性 | 中文释义 | 文中语境 |
 |------|------|------|----------|----------|
-| apathetic | /ˌæpəˈθetɪk/ | adj. | 冷淡的；漠不关心的 | Kurt's sudden apathy |
 | piqued | /piːkt/ | adj. | 被激起的；受刺激的 | piqued L's interest |
 | avoidant | /əˈvɔɪdənt/ | adj. | 回避型的 | father's avoidant tendencies |
 | PTSD | /piː tiː es diː/ | n. | 创伤后应激障碍 | Gabriel 首次提出诊断 |
@@ -91,11 +90,10 @@ source_text: "ch10_end_of_act_two.txt"
 | lot in life | /lɒt ɪn laɪf/ | n. | 命中注定；人生际遇 | "That's my lot in life" |
 | paternal | /pəˈtɜːrnl/ | adj. | 父亲般的；家长式的 | paternal protectiveness |
 | gaslighting | /ˈɡæzlaɪtɪŋ/ | n. | 煤气灯操控 | Kurt 的否认与反击 |
-| symptomatic | /ˌsɪmptəˈmætɪk/ | adj. | 症状性的 | PTSD 症状表现 |
 | transference | /trænsˈfɜːrəns/ | n. | 【心理】移情 | Lila 对 Gabriel 的情感转移 |
 
 ---
 
-**一句话总结**：Lila 在治疗中揭露 Kurt 以合约为要挟的性强制真相，Gabriel 首次将其症状诊断为 PTSD，并指出她与 Kurt 的关系是她与父亲关系的强迫性重复。
+## 一句话总结Lila 在治疗中揭露 Kurt 以合约为要挟的性强制真相，Gabriel 首次将其症状诊断为 PTSD，并指出她与 Kurt 的关系是她与父亲关系的强迫性重复。
 
 **读者视角提示**：注意 Gabriel 本章的两次"越界"——接受 Lila 的手帕礼物（违反职业伦理）和被她反问"像你这样的人"（移情挑战）。这些细节暗示这场治疗关系本身也在滑向危险的边缘。

@@ -97,11 +97,6 @@ source_text: "ch12_the_set_up.txt"
 
 | 词汇 | 音标 | 词性 | 中文释义 | 例句（原文） |
 |------|------|------|----------|-------------|
-| performative | /pəˈfɔːmətɪv/ | adj. | 表演性的 | America's Sweetheart 作为一种 performative identity |
-| liminal | /ˈlɪmɪnəl/ | adj. | 阈限的、过渡态的 | "times like these"——深夜的 liminal 时刻 |
-| codependency | /ˌkəʊdɪˈpendənsi/ | n. | 依赖共生的 | the cyclical pattern in Kurt and Lila's dynamic |
-| cathartic | /kəˈθɑːtɪk/ | adj. | 宣泄的 | diary as a cathartic exercise |
-
 ---
 
 ## 一句话总结

@@ -99,7 +99,6 @@ Jonah 醒来时脸上带着微笑，内心以一种儿时每个圣诞节才会�
 
 | 词条 | 词性 | 释义 | 例句出处 |
 |------|------|------|----------|
-| slumber | n. | 睡眠 | "the light flute of air through her nose" |
 | mingled | adj. | 混合的 | "the mingled scent of their sheets" |
 | dissolve | v. | 溶解；消散 | "they'd reached their own capacity, then followed the swimming spots in his vision until they settled and dissolved" |
 | wavering | adj. | 摇摆的；动摇的 | "He felt his desire begin to waver" |
@@ -108,10 +107,7 @@ Jonah 醒来时脸上带着微笑，内心以一种儿时每个圣诞节才会�
 
 | 词条 | 词性 | 释义 | 例句出处 |
 |------|------|------|----------|
-| catharsis | n. | 情感宣泄 | "All the distress that he had ever known" |
-| contrition | n. | 悔恨 | "when Mags was still happy, believing it was just a night like any other" |
 | liminal | adj. | 阈限的；过渡的 | "as their final moment of closeness" |
-| dissonance | n. | 不和谐；失调 | "it was as though Lila was there" |
 
 ---
 

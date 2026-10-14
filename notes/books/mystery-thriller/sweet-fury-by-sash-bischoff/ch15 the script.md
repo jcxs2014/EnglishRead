@@ -121,7 +121,6 @@ source_text: "ch15_the_script.txt"
 | `amble` | v. | 漫步，闲逛 | ⭐⭐ |
 | `idiosyncratic` | adj. | 独特的，特质的 | ⭐⭐⭐ |
 | `waifish` | adj. | 瘦弱如孤儿的，纤细的 | ⭐⭐⭐ |
-| `bateau` | n. | 画廊/艺术空间的专有名称 | ⭐ |
 | `swoop` | v. | 突然攫取，突袭 | ⭐⭐ |
 | `rocky` | adj. | 不稳定的，关系紧张的 | ⭐⭐ |
 | `savor` | n./v. | 救星，拯救者 | ⭐⭐⭐ |
