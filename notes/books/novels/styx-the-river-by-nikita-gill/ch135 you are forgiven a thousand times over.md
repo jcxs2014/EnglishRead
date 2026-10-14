@@ -129,6 +129,3 @@ Gill 在这里制造了叙事的悬念：Eurus 的"paused and her brow furrowed"
 Pallas 原谅了 Styx，Eurus 带众人抵达 Aigaion 并通过橡树得知 Metis 就在附近洞穴中，但她的停顿暗示了不祥之兆。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-0b151692-fb71-46a8-9601-36b57c3c1d83-cwd'; fi
-exit "$__zcode_status"

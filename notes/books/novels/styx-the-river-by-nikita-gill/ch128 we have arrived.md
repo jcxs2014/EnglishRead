@@ -111,6 +111,3 @@ Gill 诚实地描述了女性关系的发展：不是一开始就能成为密友
 尽管与 Pallas 的冲突未平，他仍在众人面前展现善意，Leto 也从泛泛之交转变为可信赖的盟友。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-89a5cd9d-400a-4213-8083-3eb598465877-cwd'; fi
-exit "$__zcode_status"

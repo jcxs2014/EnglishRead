@@ -125,6 +125,3 @@ Gill 用"observing"和"learning"的对比来揭示 Metis 的真实意图——�
 Styx 回忆 Metis 一直是个神秘的存在——被当作异类，却在被忽视中悄然学会了创造，Styx 后悔自己未能及早察觉。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-31cf8d07-bc4c-47c6-b99b-1560072d6b37-cwd'; fi
-exit "$__zcode_status"

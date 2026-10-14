@@ -92,6 +92,3 @@ Gill 将 Atlas 的传统形象（被罚支撑天穹的 Titan）转化为一个�
 Atlas 的星空果园由星尘之树和星星果实构成，他在这里照料宇宙的灯火。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-01bc6704-9d60-40a7-b3a1-1d20fbf1395b-cwd'; fi
-exit "$__zcode_status"

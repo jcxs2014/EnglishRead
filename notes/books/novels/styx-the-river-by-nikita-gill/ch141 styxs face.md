@@ -87,6 +87,3 @@ Gill 用"making their mark in my own fear"来展示恐惧的传染性——Styx 
 Styx 在洞穴中认出 Zeus 就是她梦中预示毁灭的神，恐惧令她全身冰冷。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-5b0bb8bd-cdce-4bde-b2ae-06c3f55f894e-cwd'; fi
-exit "$__zcode_status"

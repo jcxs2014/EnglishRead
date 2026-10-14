@@ -10,9 +10,9 @@ date: 2026-10-14
 
 - **叙事视角**：Asteria 第一人称视角
 - **核心人物**：Asteria、Perses、Oceanus、各级神祇
-- **神话背景**：神祇集会、Titan vs Olympic 冲突
+- **神话背景**：神祇集会、Titan vs Olympian 冲突
 - **诗歌技法**：层级描写 / 场景构建 / 紧张气氛
-- **一句话概括**：所有神祇聚集在 Oceanus 的宫殿，Primordials、 Titans 和神祇子女各占其位，Oceanus 宣告 Cronus 正受到攻击。
+- **一句话概括**：所有神祇聚集在 Oceanus 的宫殿，Primordials、 Titans 和神祇子女各占其位，Oceanus 宣告 Kronos 正受到攻击。
 
 ---
 
@@ -91,6 +91,3 @@ Gill 用"Even Tartarus had left his volcano"来强调情况的严重性—— Ta
 所有神祇按层级聚集在 Oceanus 的宫殿，连原初神祇和 Tartarus 都已到场，空气中弥漫着战争将至的压迫感。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-a192fd10-7a4a-47bf-9ffb-eaa0c939659e-cwd'; fi
-exit "$__zcode_status"

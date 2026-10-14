@@ -119,6 +119,3 @@ Gill 用"Eurus wished you good fortune. And safety"这个告别辞来表达她�
 Eurus 警告 Styx Metis 可能不是独自一人，暗示她被人抓走，众人的担忧化为对未知敌人的愤怒。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-7e4042a2-92b2-4bc6-858f-be8146f326f7-cwd'; fi
-exit "$__zcode_status"

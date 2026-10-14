@@ -38,7 +38,7 @@ Gill 用 Metis 的反问来反转局面：读者以为 Metis 是背叛者，但�
 > 'You knew. You knew and you called yourself my sisters.' Leto stepped forward to take Metis's hand but she wrenched it away. 'And you, Leto.' Her voice rose. 'I thought you were my ally, my friend.'
 
 **中文理解：**
-Metis 对 Leto 的背叛尤其痛苦：Leto 是她最亲密的朋友，但连她也隐瞒了什么。Leto 解释说她们是为了保护她，但 Metis 反驳说 Cronus 并不值得害怕。Gill 用这个对话来揭示姐妹们隐瞒的真相：她们知道 Metis 的真实出身，而且她们认为如果 Cronus 知道了会有危险。
+Metis 对 Leto 的背叛尤其痛苦：Leto 是她最亲密的朋友，但连她也隐瞒了什么。Leto 解释说她们是为了保护她，但 Metis 反驳说 Kronos 并不值得害怕。Gill 用这个对话来揭示姐妹们隐瞒的真相：她们知道 Metis 的真实出身，而且她们认为如果 Kronos 知道了会有危险。
 
 **关键词：**
 - `wrenched** /rentʃt/ - 猛拉
@@ -54,10 +54,10 @@ Gill 用 Metis 对 Leto 的特殊愤怒来强调友谊破裂的痛苦：Metis �
 > Perses stepped forward now. 'And what makes you think,' he said quietly, his voice cold, 'that Zeus would be any better?'
 
 **中文理解：**
-Metis 认为 Cronus 必须被推翻，因为神王应该是公平的，而不是残酷的。但 Perses 冷冷地问：是什么让她觉得 Zeus 会更好？Gill 用这个质问来建立本书的核心冲突：Titan 神祇 vs Olympic 神祇，谁来统治？
+Metis 认为 Kronos 必须被推翻，因为神王应该是公平的，而不是残酷的。但 Perses 冷冷地问：是什么让她觉得 Zeus 会更好？Gill 用这个质问来建立本书的核心冲突：Titan 神祇 vs Olympic 神祇，谁来统治？
 
 **关键词：**
-- `God-King** - 神王（Cronus）
+- `God-King** - 神王（Kronos）
 - `cruel** /ˈkrʊəl/ - 残酷的
 
 **为什么这样写：**
@@ -90,9 +90,6 @@ Gill 用 Perses 的问题来表达本书的核心哲学问题：推翻了暴君�
 
 ## 一句话总结
 
-Zelus 出生后，Metis 与姐妹们当面对质——她愤怒于被隐瞒，而 Perses 则质疑 Zeus 是否真的会比 Cronus 更好。
+Zelus 出生后，Metis 与姐妹们当面对质——她愤怒于被隐瞒，而 Perses 则质疑 Zeus 是否真的会比 Kronos 更好。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-cacf9019-b4b6-497e-ba23-56f512d13211-cwd'; fi
-exit "$__zcode_status"

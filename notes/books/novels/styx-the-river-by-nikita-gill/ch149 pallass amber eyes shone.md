@@ -96,6 +96,3 @@ Gill 用 Styx 的眼神变化来展示她的情感转变：从一个不想要孩
 Pallas 为儿子命名 Zelus，Styx 抱着新生儿，眼中流露出从未有过的纯粹母爱。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-cddf65cc-f9a4-425b-96ad-e361b96b57c2-cwd'; fi
-exit "$__zcode_status"

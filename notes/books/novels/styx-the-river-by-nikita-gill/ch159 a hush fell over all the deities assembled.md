@@ -10,9 +10,9 @@ date: 2026-10-14
 
 - **叙事视角**：Asteria 第一人称视角
 - **核心人物**：Oceanus、Styx、Metis
-- **神话背景**：Cronus 受到攻击
+- **神话背景**：Kronos 受到攻击
 - **诗歌技法**：沉默描写 / 震惊传达 / 姐妹联系
-- **一句话概括**：Oceanus 宣告 Cronus 正受到攻击，Asteria 和 Styx 意识到 Metis 失败了。
+- **一句话概括**：Oceanus 宣告 Kronos 正受到攻击，Asteria 和 Styx 意识到 Metis 失败了。
 
 ---
 
@@ -85,9 +85,6 @@ Gill 用"blessings from Chaos herself"来强调这些预言的神圣来源——
 
 ## 一句话总结
 
-Oceanus 宣告 Cronus 正受到 Zeus 的攻击，预言的时刻已经到来，姐妹们意识到 Metis 说服 Zeus 的努力失败了。
+Oceanus 宣告 Kronos 正受到 Zeus 的攻击，预言的时刻已经到来，姐妹们意识到 Metis 说服 Zeus 的努力失败了。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-4d1f0240-f2f6-4e6e-a333-0ab41cf493ce-cwd'; fi
-exit "$__zcode_status"

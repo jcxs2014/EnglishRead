@@ -107,6 +107,3 @@ Gill 用"markings of ancient prayers"来暗示 Eurus 的本质：她是被祈祷
 Eurus 现身，Styx 继续与 Pallas 修复关系；Eurus 是四风神中最安静美丽的女性成员。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-d3a95cea-65f3-4ae8-85dd-b367314f6c68-cwd'; fi
-exit "$__zcode_status"

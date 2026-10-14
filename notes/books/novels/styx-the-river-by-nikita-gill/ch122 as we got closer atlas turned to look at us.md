@@ -136,6 +136,3 @@ Gill 用"It dawned on me"这个表达来标记 Styx 的顿悟时刻——从"寻
 Atlas 向 Asteria 表达对她引导星星的赞赏，并揭示 Metis 曾来此寻找星尘树的种子——Styx 意识到 Metis 正在收集材料制作咒语。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-79c73233-e97d-428e-9128-91aafa2a40fb-cwd'; fi
-exit "$__zcode_status"

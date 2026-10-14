@@ -94,6 +94,3 @@ Gill 用婴儿的哭声来标记一个重要的时刻：这是 Titan 神祇们�
 Styx 在众人帮助下于洞穴中产下一子，这是她们这一代神祇的第一个孩子。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-1f7fdb5c-6639-4d63-9cd3-d2ba84cc2960-cwd'; fi
-exit "$__zcode_status"

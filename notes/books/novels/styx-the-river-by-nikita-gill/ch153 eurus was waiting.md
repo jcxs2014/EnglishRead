@@ -61,7 +61,7 @@ Asteria 主张给 Metis 时间去说服 Zeus——如果 Perses 现在就告诉 
 - `ultimate price** - 最终代价
 
 **为什么这样写：**
-Gill 用 Perses 的让步来展示他的成长——他愿意相信 Metis，给她一次机会。但他也坚持自己的立场：Titan 神祇必须知道真相。"Storm coming toward us all"暗示 Zeus 的威胁不只是针对 Cronus，而是针对所有 Titan 神祇。
+Gill 用 Perses 的让步来展示他的成长——他愿意相信 Metis，给她一次机会。但他也坚持自己的立场：Titan 神祇必须知道真相。"Storm coming toward us all"暗示 Zeus 的威胁不只是针对 Kronos，而是针对所有 Titan 神祇。
 
 ## 词汇
 
@@ -96,6 +96,3 @@ Gill 用 Perses 的让步来展示他的成长——他愿意相信 Metis，给�
 Eurus 带众人离开，Asteria 主张给 Metis 时间说服 Zeus，但 Perses 坚持最终必须警告 Titan 神祇们关于 Zeus 的威胁。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-ce7916f4-8732-47ac-9066-c70f313f4fa4-cwd'; fi
-exit "$__zcode_status"

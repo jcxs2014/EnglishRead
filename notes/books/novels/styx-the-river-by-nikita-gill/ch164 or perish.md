@@ -87,6 +87,3 @@ Gill 用父亲接受挑战来标记一个不可逆转的时刻——战争现在
 Zeus 发出最后通牒，Coeus 代表 Titan 神祇接受战争挑战——战争不可避免。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-70eb4524-50f5-4baa-8d0d-36e3b237dfdf-cwd'; fi
-exit "$__zcode_status"

@@ -108,6 +108,3 @@ Gill 用两段式的对比来展示 Pallas 的独特性：他不同于 Styx 生�
 Pallas 温柔地指出他不同于 Styx 的父亲，Styx 终于意识到自己的恐惧如何伤害了最爱她的人。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-ff56b0b8-3def-4ab0-a260-599a62081751-cwd'; fi
-exit "$__zcode_status"

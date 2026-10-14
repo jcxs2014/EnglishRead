@@ -10,9 +10,9 @@ date: 2026-10-14
 
 - **叙事视角**：Asteria 第一人称视角
 - **核心人物**：Metis、Zeus、Styx
-- **神话背景**：Metis 为 Zeus 制作的神石、Zeus 即将挑战 Cronus
+- **神话背景**：Metis 为 Zeus 制作的神石、Zeus 即将挑战 Kronos
 - **诗歌技法**：揭示性对话 / 震惊与认知 / 关系动态
-- **一句话概括**：Metis 为 Zeus 完成了咒语所需的石头，Zeus 亲吻她并承诺让她成为王后，随后离去准备挑战父亲 Cronus。
+- **一句话概括**：Metis 为 Zeus 完成了咒语所需的石头，Zeus 亲吻她并承诺让她成为王后，随后离去准备挑战父亲 Kronos。
 
 ---
 
@@ -31,7 +31,7 @@ date: 2026-10-14
 - `ruby** /ˈruːbi/ - 红宝石
 
 **为什么这样写：**
-Gill 用"crimson-and-gold ruby"来描述这块石头——它是多种材料的融合，代表 Metis 收集的所有力量。这块石头是 Zeus 挑战 Cronus 的关键工具。
+Gill 用"crimson-and-gold ruby"来描述这块石头——它是多种材料的融合，代表 Metis 收集的所有力量。这块石头是 Zeus 挑战 Kronos 的关键工具。
 
 ---
 
@@ -71,14 +71,14 @@ Gill 用这段话来总结 Metis 的命运讽刺：Oceanus 给她"智慧与狡�
 > I watched Metis run her finger along his jawline. 'It is time for you to go practise thunder and lightning. Nyx has taken the sky. Your father will be asleep.'
 
 **中文理解：**
-Zeus 说："你是壮丽的。这就是为什么你会成为我的王后。"Metis 用手指沿着他的下颌线滑动，说："是时候去练习雷电了。Nyx 已经占据了天空。你的父亲将会睡着。"这是 Zeus 即将行动的信号：他需要练习使用雷电，然后趁 Cronus 睡着时挑战他。
+Zeus 说："你是壮丽的。这就是为什么你会成为我的王后。"Metis 用手指沿着他的下颌线滑动，说："是时候去练习雷电了。Nyx 已经占据了天空。你的父亲将会睡着。"这是 Zeus 即将行动的信号：他需要练习使用雷电，然后趁 Kronos 睡着时挑战他。
 
 **关键词：**
 - `queen** /kwiːn/ - 王后
 - `thunder and lightning** - 雷电
 
 **为什么这样写：**
-Gill 用这段对话来建立 Zeus 的计划：他需要先掌握雷电（他的主要武器），然后趁 Cronus 睡觉时行动。而 Metis 的任务已经完成——她给了他力量之石。
+Gill 用这段对话来建立 Zeus 的计划：他需要先掌握雷电（他的主要武器），然后趁 Kronos 睡觉时行动。而 Metis 的任务已经完成——她给了他力量之石。
 
 ## 词汇
 
@@ -113,9 +113,6 @@ Gill 用这段对话来建立 Zeus 的计划：他需要先掌握雷电（他的
 
 ## 一句话总结
 
-Metis 为 Zeus 完成了力量之石，Zeus 宣告她将成为王后，随后前往练习雷电准备推翻 Cronus。
+Metis 为 Zeus 完成了力量之石，Zeus 宣告她将成为王后，随后前往练习雷电准备推翻 Kronos。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-d95485b9-9e86-482a-81b1-c4c2a2354a26-cwd'; fi
-exit "$__zcode_status"

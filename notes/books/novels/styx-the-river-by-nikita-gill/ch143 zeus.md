@@ -10,9 +10,9 @@ date: 2026-10-14
 
 - **叙事视角**：Asteria 第一人称视角
 - **核心人物**：Asteria、Zeus、Perses
-- **神话背景**：Cronus 吞噬子女的预言、Zeus 的真实身份
+- **神话背景**：Kronos 吞噬子女的预言、Zeus 的真实身份
 - **诗歌技法**：预言声音 / 身份揭示 / 震惊与怀疑
-- **一句话概括**：Asteria 的预言之声揭示这位银发神祇是 Cronus 之子 Zeus，但 Perses 质疑为何 Cronus 会让儿子存活。
+- **一句话概括**：Asteria 的预言之声揭示这位银发神祇是 Kronos 之子 Zeus，但 Perses 质疑为何 Kronos 会让儿子存活。
 
 ---
 
@@ -38,7 +38,7 @@ Gill 用身体痛苦来表达预言的重量——这些声音不是安静的，
 > 'H-he is the son of Kronos,' I whispered, swaying slightly from the weight of these voices. Perses moved to my side, his hand sliding around my waist, holding me up against his chest.
 
 **中文理解：**
-Asteria 低声说出："他……他是 Cronus 的儿子。"她被这些声音的重量压得有些摇晃。Perses 走到她身边，用手托住她的腰，把她扶住。Gill 用这个细节来展示 Perses 对 Asteria 的照顾——即使在震惊的时刻，他也在保护她。
+Asteria 低声说出："他……他是 Kronos 的儿子。"她被这些声音的重量压得有些摇晃。Perses 走到她身边，用手托住她的腰，把她扶住。Gill 用这个细节来展示 Perses 对 Asteria 的照顾——即使在震惊的时刻，他也在保护她。
 
 **关键词：**
 - `swaying** /ˈsweɪɪŋ/ - 摇晃
@@ -52,14 +52,14 @@ Gill 用身体接触来展示 Perses 和 Asteria 之间的关系：他们虽然�
 > 'That is impossible,' Perses said. 'Kronos eats every single child born to Rhea. Why would he let a son live, knowing the prophecy?'
 
 **中文理解：**
-Perses 说这是不可能的——Cronus 会吃掉每一个 Rhea 生下的孩子。他为什么要让一个儿子活着，知道那个预言呢？Gill 用 Perses 的质问来表达正常的逻辑：Cronus 不会无缘无故放过孩子，除非有某种原因。
+Perses 说这是不可能的——Kronos 会吃掉每一个 Rhea 生下的孩子。他为什么要让一个儿子活着，知道那个预言呢？Gill 用 Perses 的质问来表达正常的逻辑：Kronos 不会无缘无故放过孩子，除非有某种原因。
 
 **关键词：**
 - `prophecy** /ˈprɑːfəsi/ - 预言
 - `impossible** /ɪmˈpɑːsəbl/ - 不可能的
 
 **为什么这样写：**
-Gill 让 Perses 提出合理的反驳：这不可能，因为 Cronus 的行为准则是吃掉所有孩子。这引出了一个问题：如果 Zeus 是 Cronus 的儿子，为什么他活着？这个问题的答案将在后续章节揭示。
+Gill 让 Perses 提出合理的反驳：这不可能，因为 Kronos 的行为准则是吃掉所有孩子。这引出了一个问题：如果 Zeus 是 Kronos 的儿子，为什么他活着？这个问题的答案将在后续章节揭示。
 
 ## 词汇
 
@@ -94,6 +94,3 @@ Gill 让 Perses 提出合理的反驳：这不可能，因为 Cronus 的行为�
 Asteria 从预言之声中得知银发神是 Cronos 之子 Zeus，Perses 质疑为何 Cronos 会允许儿子存活。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-5edc99b8-dc08-47d7-a3a1-e36f86e8deac-cwd'; fi
-exit "$__zcode_status"

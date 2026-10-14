@@ -70,6 +70,3 @@ Gill 让 Gaia 说出本书的核心主题之一：傲慢会导致失败。老 Ti
 Gaia 作为最年长的神祇试图劝解 Titan 神祇接受新老更替的自然法则。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-bfb6686c-f972-41f9-a131-8ec1f6b4c151-cwd'; fi
-exit "$__zcode_status"

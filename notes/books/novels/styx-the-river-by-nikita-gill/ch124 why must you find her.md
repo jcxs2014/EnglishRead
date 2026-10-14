@@ -48,7 +48,7 @@ Leto 代表她们回答：她们是 Metis 的姐妹，想知道她为何不告�
 - `path** /pæθ/ - 道路，命运
 
 **为什么这样写：**
-Atlas 的回答中有一个悲伤的智慧：他也曾是 Titan，与 Cronus 等是同代人，如今他被放逐到天边，他们也有各自的命运。"Just like my brothers have their own path"暗示他对被命运支配感同身受——他不会试图阻止 Metis，因为每个人都有自己必须走的路。
+Atlas 的回答中有一个悲伤的智慧：他也曾是 Titan，与 Kronos 等是同代人，如今他被放逐到天边，他们也有各自的命运。"Just like my brothers have their own path"暗示他对被命运支配感同身受——他不会试图阻止 Metis，因为每个人都有自己必须走的路。
 
 ---
 
@@ -103,6 +103,3 @@ Atlas 的条件是全章最重要的一句话："不要摧毁她正在建造的�
 Atlas 提出帮助条件：若找到 Metis，不可阻止她正在建造的使命。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-e69abd46-17a5-4fdc-af75-ff3a83ad93c7-cwd'; fi
-exit "$__zcode_status"

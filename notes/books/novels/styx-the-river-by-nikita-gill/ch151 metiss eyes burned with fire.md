@@ -12,7 +12,7 @@ date: 2026-10-14
 - **核心人物**：Metis、Styx、Perses、Zeus
 - **神话背景**：Zeus 的成长背景、Metis 帮助 Rhea
 - **诗歌技法**：对话驱动 / 情感论辩 / 母亲身份主题
-- **一句话概括**：Metis 为自己的行为辩护——她帮助 Rhea 保护 Zeus 不被 Cronus 吞噬，这是任何一个母亲都会做的事。
+- **一句话概括**：Metis 为自己的行为辩护——她帮助 Rhea 保护 Zeus 不被 Kronos 吞噬，这是任何一个母亲都会做的事。
 
 ---
 
@@ -29,7 +29,7 @@ Metis 解释说 Zeus 是由女神们抚养长大的——婴儿时期由他的�
 - `trained** /treɪnd/ - 训练
 
 **为什么这样写：**
-Metis 强调"everything his father is not"——Cronus 是吞噬自己孩子的暴君，而 Zeus 被培养成与他完全相反的人。
+Metis 强调"everything his father is not"——Kronos 是吞噬自己孩子的暴君，而 Zeus 被培养成与他完全相反的人。
 
 ---
 
@@ -85,9 +85,6 @@ Gill 用"voice softer than I had ever heard it"来展示 Styx 的脆弱一面—
 
 ## 一句话总结
 
-Metis 为帮助 Zeus 辩护——她帮助 Rhea 保护儿子不被疯狂的 Cronus 吞噬，这是任何母亲都会做的事。
+Metis 为帮助 Zeus 辩护——她帮助 Rhea 保护儿子不被疯狂的 Kronos 吞噬，这是任何母亲都会做的事。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-dbcd1ffd-4e76-410e-ad8a-fd81280ef97b-cwd'; fi
-exit "$__zcode_status"

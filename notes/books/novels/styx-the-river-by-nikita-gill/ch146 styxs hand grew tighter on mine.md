@@ -91,6 +91,3 @@ Gill 用"trying so hard not to cry out"来强调 Styx 的性格：她是倔强�
 Styx 在洞穴中突然临盆，Asteria 后悔没有早点带她离开，众人开始准备帮助她分娩。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-0def0efa-5cf5-4614-97c8-35cbd661a5bc-cwd'; fi
-exit "$__zcode_status"

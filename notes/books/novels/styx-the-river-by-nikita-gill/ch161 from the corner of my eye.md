@@ -10,9 +10,9 @@ date: 2026-10-14
 
 - **叙事视角**：Asteria 第一人称视角
 - **核心人物**：Oceanus、Zeus、Coeus、Styx、Perses
-- **神话背景**：Titan vs Olympic 对峙升级
+- **神话背景**：Titan vs Olympian 对峙升级
 - **诗歌技法**：群体恐惧描写 / 姐妹纽带 / 对抗升级
-- **一句话概括**：Oceanus 拒绝让步，Cronus 的子女们威胁 Titan 神祇，双方冲突升级，Coeus 代表老 Titan 神祇表达愤怒。
+- **一句话概括**：Oceanus 拒绝让步，Kronos 的子女们威胁 Titan 神祇，双方冲突升级，Coeus 代表老 Titan 神祇表达愤怒。
 
 ---
 
@@ -81,9 +81,6 @@ Gill 用"raven-haired Goddess"这个细节暗示这是 Zeus 的某个姐妹，�
 
 ## 一句话总结
 
-Oceanus 拒绝为 Cronus 的选择道歉，Zeus 的姐妹愤怒地反驳——Titan 神祇选择让子女受苦，冲突升级不可避免。
+Oceanus 拒绝为 Kronos 的选择道歉，Zeus 的姐妹愤怒地反驳——Titan 神祇选择让子女受苦，冲突升级不可避免。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-8f440301-e534-4058-8d7d-8b792c2a6e8b-cwd'; fi
-exit "$__zcode_status"

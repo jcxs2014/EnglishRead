@@ -129,6 +129,3 @@ Gill 用了"Even I, with all my impatience and ire"这个结构——强调即�
 Nyx 揭示 Metis 曾索要金苹果种子并前往无人之地 Aigaion，连急躁的 Styx 也不敢质疑她的权威。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-78dffa53-c3e3-4700-9de4-22e573402255-cwd'; fi
-exit "$__zcode_status"

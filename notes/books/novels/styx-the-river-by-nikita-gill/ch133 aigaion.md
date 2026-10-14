@@ -91,6 +91,3 @@ Gill 用问句"What was on Aigaion?"来保持悬念。Styx 无法理解姐姐的
 Eurus 以温暖的风毯承载众人前往 Aigaion，Styx 心跳加速，满腹疑问。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-e019eeb1-a7ec-4c78-a17c-c2fcf40fb18f-cwd'; fi
-exit "$__zcode_status"

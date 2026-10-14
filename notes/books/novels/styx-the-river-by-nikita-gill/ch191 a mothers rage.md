@@ -132,4 +132,4 @@ Pallas 承诺过。他承诺过。
 
 ## 一句话总结
 
-这一章是全书最黑暗的章节之一。Styx 作为母亲，她的愤怒已经到达了顶点——Pallas 不仅没有保护他们的儿子，还想在 Zelus 刚受伤后就让 Kratos 去替代。Styx "I will do what I must do"这个宣言标志着她与 Pallas 婚姻的结束——她不再需要他的同意来保护她的孩子。
+这一章是全书最黑暗的章节之一。Styx 作为母亲，她的愤怒已经到达了顶点——Pallas 不仅没有保护他们的儿子，还想在 Zelus 刚受伤后就让 Kratos 去替代。Styx "I will now do what I must do"这个宣言标志着她与 Pallas 婚姻的结束——她不再需要他的同意来保护她的孩子。

@@ -9,10 +9,10 @@ date: 2026-10-14
 ## 本章导航
 
 - **叙事视角**：Asteria 第一人称视角
-- **核心人物**：Zeus、Oceanus、Cronus 的子女们
+- **核心人物**：Zeus、Oceanus、Kronos 的子女们
 - **神话背景**：Zeus 登场、复仇
 - **诗歌技法**：对比意象 / 对抗性对话 / 权力展示
-- **一句话概括**：Zeus 踏入大厅，身后跟着五个银白的陌生神祇——Cronus 被吞噬的子女们，他来向抛弃他们的 Titan 神祇索债。
+- **一句话概括**：Zeus 踏入大厅，身后跟着五个银白的陌生神祇——Kronos 被吞噬的子女们，他来向抛弃他们的 Titan 神祇索债。
 
 ---
 
@@ -29,7 +29,7 @@ Zeus 踏入大厅。他身后跟着五个陌生人。每一个都像 Titan 一�
 - `rage** /reɪdʒ/ - 愤怒
 
 **为什么这样写：**
-Gill 用"bright and gleaming silver"来强调这些神祇的特殊性质——他们是 Cronus 的子女，被他吞噬后又被吐出来的存在，所以他们的"银色"可能象征被消化后又重生的状态。
+Gill 用"bright and gleaming silver"来强调这些神祇的特殊性质——他们是 Kronos 的子女，被他吞噬后又被吐出来的存在，所以他们的"银色"可能象征被消化后又重生的状态。
 
 ---
 
@@ -61,7 +61,7 @@ Gill 用"hubris"这个词来强调 Zeus 的性格——这个词在希腊语中�
 - `devoured** /dɪˈvaʊərd/ - 吞噬
 
 **为什么这样写：**
-Gill 用"the same ones you left to be devoured"来强调 Cronus 和 Titan 神祇的罪过：他们知道 Cronus 在吞噬自己的子女，却没有采取行动阻止。
+Gill 用"the same ones you left to be devoured"来强调 Kronos 和 Titan 神祇的罪过：他们知道 Kronos 在吞噬自己的子女，却没有采取行动阻止。
 
 ## 词汇
 
@@ -93,9 +93,6 @@ Gill 用"the same ones you left to be devoured"来强调 Cronus 和 Titan 神祇
 
 ## 一句话总结
 
-Zeus 带 Cronus 被吞噬的五个子女闯入大厅，向抛弃他们的 Titan 神祇索债。
+Zeus 带 Kronos 被吞噬的五个子女闯入大厅，向抛弃他们的 Titan 神祇索债。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-007b9478-3e03-4e3e-a185-c0db9ad5ba94-cwd'; fi
-exit "$__zcode_status"

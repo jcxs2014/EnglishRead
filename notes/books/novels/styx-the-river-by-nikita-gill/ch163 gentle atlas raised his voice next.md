@@ -12,7 +12,7 @@ date: 2026-10-14
 - **核心人物**：Atlas、Zeus
 - **神话背景**：Zeus 展示 Metis 制作的魔法石
 - **诗歌技法**：对话驱动 / 权力展示 / 道德质问
-- **一句话概括**：Atlas 质问 Zeus 的资格，Zeus 展示 Metis 为他制作的石头——能够强迫 Cronus 吐出子女的魔法工具。
+- **一句话概括**：Atlas 质问 Zeus 的资格，Zeus 展示 Metis 为他制作的石头——能够强迫 Kronos 吐出子女的魔法工具。
 
 ---
 
@@ -23,7 +23,7 @@ date: 2026-10-14
 > Atlas's voice was soft but with a hidden edge.
 
 **中文理解：**
-"Cronos 的孩子，把你父亲的罪归咎于其他神祇是小气和残忍的神祇的行为。"Atlas 的声音轻柔但带着隐藏的锋芒。Gill 用这个来回击 Zeus 的指责——如果 Zeus 真的是为了正义，他应该只针对 Cronus，而不是所有 Titan。
+"Cronos 的孩子，把你父亲的罪归咎于其他神祇是小气和残忍的神祇的行为。"Atlas 的声音轻柔但带着隐藏的锋芒。Gill 用这个来回击 Zeus 的指责——如果 Zeus 真的是为了正义，他应该只针对 Kronos，而不是所有 Titan。
 
 **关键词：**
 - `brutal` /ˈbruːtl/ - 残忍的
@@ -71,9 +71,6 @@ Gill 强调这个 orb 是 Metis 制作的——这是一个重要的情节细节
 
 ## 一句话总结
 
-Atlas 质问 Zeus 的动机，Zeus 展示 Metis 为他制作的魔法石——能够从 Cronus 体内解救兄弟姐妹的工具。
+Atlas 质问 Zeus 的动机，Zeus 展示 Metis 为他制作的魔法石——能够从 Kronos 体内解救兄弟姐妹的工具。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-66cb47ea-c226-4e00-95e2-594be2c873a8-cwd'; fi
-exit "$__zcode_status"

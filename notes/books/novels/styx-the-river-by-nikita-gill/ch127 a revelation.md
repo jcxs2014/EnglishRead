@@ -134,6 +134,3 @@ Gill 用"fear of being controlled"来揭示 Styx 隐瞒的核心原因——这�
 Pallas 发现 Styx 怀孕的秘密并质问为何隐瞒，Styx 意识到自己的恐惧伤害了爱人，但解释被 Notus 的到达打断。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-1ddfcea6-9dbb-4998-82ee-8ae61bdbd311-cwd'; fi
-exit "$__zcode_status"

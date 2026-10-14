@@ -114,6 +114,3 @@ Gill 用 Notus 的抱怨建立了幽默的叙事节奏。他说"I was raining do
 Notus 被召唤而来，性格年轻暴躁，Styx 在 Pallas 的支持下踏入飓风。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-9cdf94db-2308-4fd0-aaa5-edc5889636b4-cwd'; fi
-exit "$__zcode_status"

@@ -116,6 +116,3 @@ Gill 将"boom"这个拟声词用大写形式（'CHILDREN OF TITANS'）来表达�
 Nyx 以令万神畏惧的威名现身，连 Perses 都在她面前一时失语。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-cbf98790-e589-44c2-bd85-ebca1e85c21c-cwd'; fi
-exit "$__zcode_status"

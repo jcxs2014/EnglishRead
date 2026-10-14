@@ -113,6 +113,3 @@ Pallas 改正了 Perses 的"I"为"We"，这个细节表明他认为这是团队�
 Styx 一行人抵达不祥的洞穴入口，决心进入营救 Metis，Pallas 将 Perses 的个人承诺改为集体行动。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-ffd7d46f-57ef-4d4d-a472-940b45fdf607-cwd'; fi
-exit "$__zcode_status"

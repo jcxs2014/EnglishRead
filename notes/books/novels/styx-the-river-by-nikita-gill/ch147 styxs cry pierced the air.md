@@ -97,6 +97,3 @@ Gill 用 Perses 和 Asteria 之间的眼神交流来展示他们之间的默契�
 Styx 的痛苦尖叫让 Metis 认出她们并想要帮助，但 Perses 的阻挡被 Asteria 说服，Metis 得以加入帮助分娩。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-8bf54758-14ce-4b78-b672-a1a65e1a2eac-cwd'; fi
-exit "$__zcode_status"

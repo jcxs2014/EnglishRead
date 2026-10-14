@@ -127,6 +127,3 @@ Gill 用身体特征的对比来建立 Hyperion 和 Nyx 之间的张力：明亮
 昼夜交汇处的神话大厅由云与光构成，Hyperion 与 Nyx 每日在此进行永恒的昼夜之争。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-44f90a7e-e659-4e6f-b646-7e72df2628c4-cwd'; fi
-exit "$__zcode_status"

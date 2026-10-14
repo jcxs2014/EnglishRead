@@ -62,7 +62,7 @@ Tartarus 比时间本身更古老，而他那巨大的身躯承载着我们这�
 > As God of Destruction, he was fearless.
 
 **中文理解：**
-Perses 称呼 Tartarus 为"叔父"——因为在神话系谱中，Tartarus 是 Titan 神祇们的远亲，作为 Chaos 的儿子，他是 Cronus 等 Titan 的同代存在。Perses 以 strategists 的本能意识到他们需要 Tartarus 的帮助，而作为破坏之神，他有勇气面对这个可怕的存在。他的头衔"God of Destruction"在这个语境下有了新的含义——他不怕走进地狱的深处。
+Perses 称呼 Tartarus 为"叔父"——因为在神话系谱中，Tartarus 是 Titan 神祇们的远亲，作为 Chaos 的儿子，他是 Kronos 等 Titan 的同代存在。Perses 以 strategists 的本能意识到他们需要 Tartarus 的帮助，而作为破坏之神，他有勇气面对这个可怕的存在。他的头衔"God of Destruction"在这个语境下有了新的含义——他不怕走进地狱的深处。
 
 **关键词：**
 - `strategist** /ˈstrætədʒɪst/ - 战略家

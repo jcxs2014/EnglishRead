@@ -95,6 +95,3 @@ Gill 用"all welcoming me home"来表达这个宫殿对 Asteria 的意义：这�
 Asteria 来到 Perses 为她建造的宫殿——一个拥有花园、祭坛和星空塔楼的梦想之家，她终于有了归属感。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-48e0721c-6ad9-4bb9-9fbc-a4e8d15fc8c5-cwd'; fi
-exit "$__zcode_status"

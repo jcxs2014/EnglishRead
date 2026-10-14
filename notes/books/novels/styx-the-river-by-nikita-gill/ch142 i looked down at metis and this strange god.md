@@ -46,7 +46,7 @@ Gill 用"A voice in my head whispered, Harbinger of Chaos"来建立 Asteria 的�
 - `beg** /beɡ/ - 乞求
 
 **为什么这样写：**
-Gill 用这段对话来建立 Zeus 的邪恶：他不是要取代 Cronus 成为更好的王，而是要复仇——用 Titan 神祇的血来铸造王座，观看他们受苦。这种复仇欲望揭示了 Zeus 的真实动机。
+Gill 用这段对话来建立 Zeus 的邪恶：他不是要取代 Kronos 成为更好的王，而是要复仇——用 Titan 神祇的血来铸造王座，观看他们受苦。这种复仇欲望揭示了 Zeus 的真实动机。
 
 ---
 
@@ -96,6 +96,3 @@ Gill 用"Metis smiled at his words, kissing him in return"来展示 Metis 对 Ze
 Asteria 见证 Zeus 与 Metis 的吻，以及 Zeus 宣告要用 Titan 神祇的血铸造王座的复仇计划。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-558b6660-83b9-4bbb-9952-29101962f1da-cwd'; fi
-exit "$__zcode_status"

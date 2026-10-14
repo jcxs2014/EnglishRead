@@ -142,6 +142,3 @@ Zephyrus 的突然出现和消失展示了他作为风神的流动性——他�
 Atlas 提出命运论——若 Metis 的所作所为是命中注定，就不应阻止；Zephyrus 消失前指出下一个目标是南风 Notus。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-68d7befe-12a4-48ed-b714-2d5ed5be2641-cwd'; fi
-exit "$__zcode_status"

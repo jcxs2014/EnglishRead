@@ -76,6 +76,3 @@ Gill 让 Zeus 说出针对女性和低级别神祇的承诺——这是一个精
 Zeus 向 Titan 神祇的子女们发出最后通牒——加入我将得到权力和领域，拒绝则面临惩罚。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-85d4ede0-50ab-4bd1-a4fd-88ea1b207a75-cwd'; fi
-exit "$__zcode_status"

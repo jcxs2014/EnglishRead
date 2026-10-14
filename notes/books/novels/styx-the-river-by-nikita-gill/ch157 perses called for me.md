@@ -74,6 +74,3 @@ Gill 用"A few nights had passed"来强调时间之短——才过了几个夜�
 Perses 将 Asteria 从噩梦中唤醒，告知紧急召集的消息，Asteria 担忧 Metis 是否已失败。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-502c525d-e80a-4b64-8d50-08f8256a9e6c-cwd'; fi
-exit "$__zcode_status"

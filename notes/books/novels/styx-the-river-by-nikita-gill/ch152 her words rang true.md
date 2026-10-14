@@ -12,7 +12,7 @@ date: 2026-10-14
 - **核心人物**：Metis、Zeus
 - **神话背景**：Metis 与 Zeus 的关系
 - **诗歌技法**：情感转折 / 悬念构建 / 神秘意象
-- **一句话概括**：Asteria 理解 Metis 的处境，但质疑如果 Cronus 倒下会发生什么；Metis 让她们快走，在 Zeus 回来之前离开。
+- **一句话概括**：Asteria 理解 Metis 的处境，但质疑如果 Kronos 倒下会发生什么；Metis 让她们快走，在 Zeus 回来之前离开。
 
 ---
 
@@ -23,13 +23,13 @@ date: 2026-10-14
 > Metis sighed deeply and closed her eyes as she thought. A collective silence descended.
 
 **中文理解：**
-Asteria 理解 Metis 想帮助 Rhea，但她追问：如果 Cronus 倒下了，会发生什么？Metis 深深地叹了口气，闭上眼睛思考。Gill 用"collective silence"来表达这个问题的重量——没有人知道答案。
+Asteria 理解 Metis 想帮助 Rhea，但她追问：如果 Kronos 倒下了，会发生什么？Metis 深深地叹了口气，闭上眼睛思考。Gill 用"collective silence"来表达这个问题的重量——没有人知道答案。
 
 **关键词：**
 - `considered** /kənˈsɪdərd/ - 考虑
 
 **为什么这样写：**
-Gill 让 Asteria 提出关键问题：如果推翻 Cronus，Zeus 真的会更好吗？这个问题在整个叙事中回荡，暗示没有人知道未来会怎样。
+Gill 让 Asteria 提出关键问题：如果推翻 Kronos，Zeus 真的会更好吗？这个问题在整个叙事中回荡，暗示没有人知道未来会怎样。
 
 ---
 
@@ -89,9 +89,6 @@ Gill 用"A glowing orb"这个意象来表达无法收回的真相——一旦知
 
 ## 一句话总结
 
-Asteria 理解 Metis 但追问推翻 Cronus 的后果，Metis 让她们快走——真相已经无法隐藏，一切都已改变。
+Asteria 理解 Metis 但追问推翻 Kronos 的后果，Metis 让她们快走——真相已经无法隐藏，一切都已改变。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-a8d4ac92-45c2-4e2d-b543-81560e87d29b-cwd'; fi
-exit "$__zcode_status"

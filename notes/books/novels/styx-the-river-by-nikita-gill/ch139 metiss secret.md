@@ -39,7 +39,7 @@ Gill 用空间的夸张来暗示这个地方的神圣性或魔力——它大到
 > And there, by her side, holding bolts of fire in his hand was the God from my dark dream.
 
 **中文理解：**
-当他们躲在一个巨大的裂缝上方时，他们看到了她——Metis，站在山中央。而在她身旁，手里握着火焰闪电的，是 Styx 在噩梦中见过的神祇。Gill 用这个揭示来证明 Styx 的噩梦是真实的预言——这个神就是 Zeus，Cronus 的儿子，Titan 神祇的毁灭者。
+当他们躲在一个巨大的裂缝上方时，他们看到了她——Metis，站在山中央。而在她身旁，手里握着火焰闪电的，是 Styx 在噩梦中见过的神祇。Gill 用这个揭示来证明 Styx 的噩梦是真实的预言——这个神就是 Zeus，Kronos 的儿子，Titan 神祇的毁灭者。
 
 **关键词：**
 - `fissure** /ˈfɪʃər/ - 裂缝
@@ -93,6 +93,3 @@ Gill 用"with a single hand"来强调 Zeus 的力量——他不需要全力，�
 Styx 发现 Metis 并非被囚禁，而是与手持火焰闪电的年轻神祇（Zeus）站在一起——她一直在与 Titan 的敌人合作。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-c0e08310-eb82-4592-930c-4f4c7bd47a3b-cwd'; fi
-exit "$__zcode_status"

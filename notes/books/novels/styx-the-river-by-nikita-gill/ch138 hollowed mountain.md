@@ -110,6 +110,3 @@ Gill 用"Metis's laughter"来打破读者的预期——如果 Metis 是被囚�
 Styx 一行深入被挖空的山体，感受到作为母亲的战斗本能，最终听到 Metis 的笑声——暗示她并非被囚禁。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-63981f47-c70a-4638-a1f3-a47520577a1e-cwd'; fi
-exit "$__zcode_status"

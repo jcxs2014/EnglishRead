@@ -94,6 +94,3 @@ Gill 用"I saw ichor fall like fire"来强调灾难的视觉冲击——不是�
 Asteria 的预言梦揭示了一场即将到来的宇宙战争——天空血红，神祇哭喊，金刚石碰撞，神血如雨而降。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-b24a1638-db71-4005-a5a6-be8e29173c33-cwd'; fi
-exit "$__zcode_status"

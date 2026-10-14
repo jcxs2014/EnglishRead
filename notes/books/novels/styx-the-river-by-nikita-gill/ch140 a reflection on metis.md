@@ -116,6 +116,3 @@ Gill 用"like the rivers and oceans she was born from"来联系 Metis 与 Oceanu
 Styx 回忆 Metis 童年时就展现出的原始暴力——她为了保护自己和她人所爱，不惜使用任何力量。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-4858e62f-3c76-4dfe-9dd6-0f5f5eca7354-cwd'; fi
-exit "$__zcode_status"

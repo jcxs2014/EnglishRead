@@ -95,6 +95,3 @@ Gill 用 Asteria 的"melancholy"来表达她对离开娘家的复杂感受——
 Eurus 带众人经过昼夜回到 Asteria 的父亲宫殿，Asteria 在忧郁中做出选择——与 Perses 同去他为她建造的宫殿安家。
 
 
-__zcode_status=$?
-if [ "$__zcode_status" -eq 0 ]; then pwd -P > '/var/folders/zp/wpjjl43x5q71v8g4pp42tl_80000gn/T/zcode-13c0052e-5a96-4943-a150-fb25958e5322-cwd'; fi
-exit "$__zcode_status"
