@@ -182,7 +182,9 @@ def main(book_dir: str, epub_path: str = ""):
         miss = []
         for q in quotes:
             qa = flat_alpha(q)
-            frag = qa[:52]
+            # 2026-10-13 fix：数字编号 + `> ` 前缀都在 flat_alpha 后留在字符串头部，
+            # 直接 [:52] 会把引语正文截断。先剥离前缀再取 52 字符。
+            frag = re.sub(r'^[^a-z]+', '', qa)[:52]
             if frag in full:
                 ok += 1
                 continue

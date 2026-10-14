@@ -137,6 +137,25 @@ def scan_quotes(lines):
     return out
 
 
+# 块边界标题：只有**书级/章级节名**才算边界。分析子项标题（`### 中文理解` /
+# `### 句子结构` / `### 为什么这样写` …）绝不能算——never-let-me-go
+# ch12–ch20 的子项全是 H3 形态，旧判据 `^#{1,6}\s` 把它们切在块外 ⇒
+# labels_in 恒空 ⇒ 每块误报「孤儿块」（2026-10-14 实测 9 条假红）。
+# `## 词汇` 等词表节名仍是边界（精读块在它之前结束）。
+RE_BLOCK_BOUNDARY = re.compile(
+    r'^#{1,6}\s*(?:'
+    r'精读|逐句精读|选择性精读|精读分析|Quote\s*List|核心金句|关键引语|金句精选|'
+    r'本章导航|本章词汇|词汇分级|词汇|一句话总结|'
+    r'叙事概括|读者视角提示|'
+    r'概述|三个主题|人物弧光|人物|主题|叙事结构|情感弧线|写作风格|故事梗概|全书梗概'
+    r')', re.I)
+
+
+def is_block_boundary(line):
+    """该行是否是「块边界」标题行。"""
+    return RE_BLOCK_BOUNDARY.match(line) is not None
+
+
 def blocks_of(lines, quotes):
     """按引语行切块：块 = 引语行 + 其后到下一引语行/标题之间的内容。"""
     qidx = {i for i, _ in quotes}
@@ -147,7 +166,7 @@ def blocks_of(lines, quotes):
         seg = []
         j = i
         while j < len(lines):
-            if j + 1 > i and ((j + 1) in qidx or re.match(r'^#{1,6}\s', lines[j])):
+            if j + 1 > i and ((j + 1) in qidx or is_block_boundary(lines[j])):
                 break
             seg.append(lines[j])
             j += 1
@@ -156,10 +175,21 @@ def blocks_of(lines, quotes):
 
 
 def has_subitem(blob, sub):
-    """子项是否在块内出现。**容忍两种写法**（§10.5 格式漂移）：
-       `**中文理解：**`（冒号在星号内）与 `**中文理解**：`（冒号在星号外）。"""
+    """子项是否在块内出现。**容忍四种写法**（§10.5 格式漂移）：
+       `**中文理解：**`（冒号在星号内）/ `**中文理解**：`（冒号在星号外）
+       / `**中文理解**`（粗体 standalone，无冒号）/ `### 中文理解`（H3 标题）。"""
     for n in SUBITEMS[sub]:
-        if re.search(r'\*\*\s*%s\s*\*{0,2}\s*[:：]' % re.escape(n), blob):
+        # 粗体+冒号变体（**中文理解：** / **中文理解**：）
+        # ⚠️ 必须 `\*{0,2}`，不能收窄成 `\*?`：`**中文理解**：`（冒号在星号外）
+        # 是全库 265 本书 / 8738 个章级 md 的主流写法，收窄后该形态整类漏判
+        # （2026-10-14 实测：`\*?` 对它 False，`\*{0,2}` True）。
+        if re.search(r'\*\*\s*' + re.escape(n) + r'\s*\*{0,2}\s*[:：]', blob):
+            return True
+        # 粗体 standalone（**中文理解**），后接换行或段内分隔
+        if re.search(r'\*\*\s*' + re.escape(n) + r'\s*\*\*\s*(?:\n|$)', blob):
+            return True
+        # H3+ 标题式子项（### 中文理解）——never-let-me-go ch12–ch20 实测
+        if re.search(r'^#{2,5}\s*' + re.escape(n) + r'\s*$', blob, re.M):
             return True
     return False
 
@@ -176,14 +206,28 @@ def profile_misses(blocks, subs):
 
 
 # ── 通用子项标签发现：不预设书名/作者/格式，只认「标签 + 冒号」这个形状。
-# **两种载体都要认**：`中文理解**：`（粗体）与 `中文理解：`（裸标签，行首）。
-# 只认粗体会让 the-morningside 整本书推断不出子项 → **该书子项检查整个空跑、
-# 报「0 缺陷」是真空通过**（实测其精读体全是裸标签）。
+# **三种形态都要认**：`中文理解**：`（粗体+冒号）/ `中文理解：`（裸标签+冒号）
+# / `**中文理解**`（粗体 standalone，无冒号）。第三种是言情/精简格式主流写法，
+# 不认会让 the-spanish-love-deception 等书整章误报「子项缺失」（2026-10-13 实测）。
+# ⚠️ 必须 re.M：裸标签靠 ^ 行首锚定，不加 M 时多行 blob 只有第一行能匹配
+# （the-morningside 整本书只推出「中文理解」）。
 RE_ANY_LABEL = re.compile(
     r'\*\*\s*([^*\n]{2,10}?)\s*\*{0,2}\s*[:：]'
-    r'|^\s*([^*\n]{2,10}?)\s*[:：]', re.M)   # ⚠️ 必须 re.M：裸标签靠 ^ 行首锚定，
-                                           # 不加 M 时多行拼成的 blob 只有第一行能匹配
-                                           # （实测 the-morningside 整本书只推出「中文理解」）
+    r'|^\s*([^*\n]{2,10}?)\s*[:：]', re.M)
+# 粗体 standalone 标签（无冒号）：只匹配已知子项名，避免把任意粗体词都当标签
+RE_ANY_LABEL_BARE = re.compile(
+    r'\*\*\s*(' + '|'.join(SUBITEMS.keys()) + r')\s*\*\*', re.M)
+# H3/H4/H5 标题式子项（`### 中文理解`）：只匹配已知子项名，行首锚定。
+# ⚠️ 2026-10-14 补（never-let-me-go 实测假红 9 条）：该书 ch12–ch20 的
+# 分析层用 `### 中文理解` / `### 句子结构` 等 H3 标题，而 ch01–ch11 用
+# `**中文理解**：` 粗体冒号 ⇒ 书内两种排版并存。不认 H3 时：
+#   · book_profile 只从 ch01–ch11 推出 core（5 项）⇒ A 段检查被激活；
+#   · ch12–ch20 的块 labels_in 为空 ⇒ 每块误报「孤儿块：有引语但无任何分析子项」
+#     （实测那 9 章每块有完整 5 个子项，全是 H3 形态）。
+# 旧版反而报 0 —— 因为旧 RE_ANY_LABEL 对 standalone/H3 都不认 ⇒ core 空 ⇒
+# **整书免检**。⇒ 这是「免检假绿」换成「误报假红」，取后者（宁报勿漏）。
+RE_ANY_LABEL_HEAD = re.compile(
+    r'^#{2,5}\s*(' + '|'.join(SUBITEMS.keys()) + r')\s*$', re.M)
 # 已知的非子项标签（书级/导航/元信息），不参与画像推断
 NOT_SUBITEM = re.compile(
     r'^(状态|modified|created|title|作者|原书|出版|ISBN|来源|出处|导航|说明|注|备注|'
@@ -192,6 +236,7 @@ NOT_SUBITEM = re.compile(
 
 def labels_in(blob):
     """块内出现的「标签 + 冒号」标签集（粗体与裸标签都认，已排除非子项标签）。
+       另识别粗体 standalone 子项标签（`**中文理解**`），补充到结果中。
 
     **必须剥掉列表符号**——同书内 `- 中文理解：…`（bullet 体）与
     `中文理解：…`（行首体）是同一个子项，不剥就变成两个标签，
@@ -206,6 +251,16 @@ def labels_in(blob):
         if not lab or NOT_SUBITEM.match(lab):
             continue
         out.add(lab)
+    # 粗体 standalone 标签（无冒号）：直接匹配已知子项名
+    for m in RE_ANY_LABEL_BARE.finditer(blob):
+        lab = m.group(1).strip()
+        if lab and not NOT_SUBITEM.match(lab):
+            out.add(lab)
+    # H3+ 标题式子项（### 中文理解）
+    for m in RE_ANY_LABEL_HEAD.finditer(blob):
+        lab = m.group(1).strip()
+        if lab and not NOT_SUBITEM.match(lab):
+            out.add(lab)
     return out
 
 
@@ -309,7 +364,12 @@ def main():
         body = open(md, encoding='utf-8', errors='ignore').read()
         lines = body.split('\n')
         n_files += 1
-        is_overview = bool(re.match(r'^0\d[_. ]', name)) or name.startswith('00')
+        is_overview = (bool(re.match(r'^0\d[_. ]', name)) or name.startswith('00')
+                       # 裸名总览（无 `00_` 前缀）也要排除：the-room-in-the-ground 等
+                       # 19 本书的 `概述.md` / `金句精选.md` / `情感节点.md` 直接放书目录。
+                       # 不排除会被套上正文章节画像 ⇒ 误报「子项比同书主流少」
+                       # （2026-10-14 实测该书法 2 条假红）。
+                       or name in ('概述.md', '金句精选.md', '情感节点.md'))
 
         # ── A. 引语块与子项（画像匹配）
         quotes = scan_quotes(lines)
