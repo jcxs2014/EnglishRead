@@ -62,17 +62,13 @@ python3 scripts/post_collab.py mine --me "<写法>"   |   check   |   verify --b
 
 ### [2026-10-14 06:10 UTC] [DSH-Mac] → All
 
-**Stuck with You (Ali Hazelwood) — 全书精读完工 + 总览重建**
+**Stuck with You（stuck-with-you-by-ali-hazelwood）— 五步审查结论并入（2026-10-14）**
 
-- 产出：13 章逐章精读 + 总览三篇，共 16 个 md；原文 epub 提取 14 件，`verify_corpus` PASS（`--expect 13`，来源＝目录页）
-- 门禁 18 项（退出码 0）：`verify_quotes` 97/97 · `check_vocab` FAIL 0 · `check_entities` 0 · `corruption_scan` FAIL 0 · `sweep_full` 跨章 0／拼接 0／查无 0 · 逐章归属 13/13 · `check_nav_layer` ❌0 · `check_block_keywords` 阻断 0／提示 0 · 总览 `verify_overview_quotes` 30/30 + 25/25
-- 首轮修复：ch08 两处引语跨段拼接 · ch11 导航层非逐字 · ch10/11/12 基础档复用同一张词表（14 条例句非本章）· ch05/ch08 B 类词形失配 · ch06 导航层误抄 ch04
-- 总览事实复核（第 9 条 d）修 12 处：姓氏 Green→Grantham（全书无此姓）· 年龄 28→27 · Erik「大六七岁」· Faye 是咖啡店主非同事 · Gianna 是老板兼创始人 · Cat 替弟弟 Anders 暂养 · 可颂邂逅在咖啡店 · 小酒馆漏买可颂 · 节点四说话人（**Sadie** 先问）· 节点六内容错位（ch09 实为「偷客户」指控，「性不好」出自 ch07）· ch10/ch12 时间标签
-- 总览**格式层重建**（门禁盲区）：金句首版 25 条只覆盖 ch01–04 且无四子项（全库 251/324 有四子项）→ 重建 25 条覆盖全 13 章 × 四子项；情感节点原无「关键引语」行（222/324 有）→ 重建 10 节点 × 3 引语；概述缺 `## 人物弧光`、标题改回多数派 `## 全书梗概`
-- 修法＝第 8.1 条「换生产方式」：新建本书专属 `.overview_templates/` 三份 tpl，引语全部 `{Q:章:seq}` 注入、**模板零手打英文**，由 `gen_overview.py` 生成
-- 附带修复共享工具 `gen_overview.py`：`build_pool` 只认「抬头与引语同行」形态，**全库 53 本书池恒为 0**，症状伪装成「模板写错」；改为单调超集（②形态补抽且不 abort），旧/新版全库对跑 **changed 12 / REGRESSIONS 0**
-- commit：`aa073afbe` · `3f0dc144` · `45230990a` · `f223e299f` · `e761d63b8`
-- **五步审查未做**（待用户发起）；逐行原件见 `.memory/raw-gates/stuck-with-you-by-ali-hazelwood/`，明细见 `.memory/daily/2026-10-14.md`
+- 完工：13 章 + 3 总览 16 md；gate.sh EXIT=0 / 18 项全绿 / 0 阻断型（verify_quotes 120/120、check_vocab FAIL 0、check_entities 0、corruption_scan FAIL 0、sweep_full 97/0/0/0、逐章 13 章全 X/X）。
+- 审查 a/b：门禁全量重跑；第二实现 100/100 块命中本章 text/，xref 138 处英文证据报警 0，analysis 275 片段全命中。
+- 审查 c：`check_struct_indep.py` 假红已修（QRE 只认同行形态 + calibrate_sub 分母含 epigraph 块），全库回归无新增假红。
+- 审查 d/e：阻断型 1（ch04:106 把 ch04 内四次 "Ask me" 重复错标为 ch03）+ 提示型 1（ch04:29 brake fluid 互文在引语窗口外邻句）+ 总览 3 处（挖角情节无原文支撑 / Milton 源头 / ch02「还不知道他就是 Erik」）。均已修。
+- 收口：commit `b85f47113`；明细见 `.memory/raw-gates/stuck-with-you-by-ali-hazelwood/`。**未 push**。
 
 ### [2026-10-13 14:30 UTC] [ZCode-Mac] → All
 
